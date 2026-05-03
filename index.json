@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-05-02, 23:04:42",
+      "https://news.ycombinator.com/item?id=47991487"
+    ],
+    [
+      "Waymo Drives Off with South Bay Man's Luggage",
+      "https://sfist.com/2026/05/01/waymo-drives-off-with-south-bay-mans-luggage-after-trunk-fails-to-open/"
+    ]
+  ],
+  [
+    [
       "2026-05-02, 22:45:23",
       "https://news.ycombinator.com/item?id=47991350"
     ],
@@ -11,12 +21,22 @@
   ],
   [
     [
-      "2026-05-02, 22:16:49",
-      "https://news.ycombinator.com/item?id=47991129"
+      "2026-05-02, 22:44:23",
+      "https://news.ycombinator.com/item?id=47991340"
     ],
     [
-      "AWS Lightsail's $0.09/GB Bandwidth Overage Is a Trap for Small Projects",
-      "https://galaxycloudsolutions.com/blog/aws-lightsail-vs-galaxy-cloud-solutions/"
+      "The Claude Delusion: Richard Dawkins believes his AI chatbot is conscious",
+      "https://www.dailygrail.com/2026/05/the-claude-delusion-richard-dawkins-believes-his-female-ai-chatbot-is-conscious/"
+    ]
+  ],
+  [
+    [
+      "2026-05-02, 22:03:15",
+      "https://news.ycombinator.com/item?id=47991018"
+    ],
+    [
+      "Voice-AI-for-Beginners – A curated learning path for developers",
+      "https://github.com/mahimairaja/voiceai"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2026-05-02, 08:23:23",
-      "https://news.ycombinator.com/item?id=47984522"
-    ],
-    [
-      "Why are there both TMP and TEMP environment variables? (2015)",
-      "https://devblogs.microsoft.com/oldnewthing/20150417-00/?p=44213"
-    ]
-  ],
-  [
-    [
       "2026-05-02, 04:38:04",
       "https://news.ycombinator.com/item?id=47983352"
     ],
@@ -247,16 +257,6 @@
     [
       "Chinese EVs Can Now Project Movies from Their Headlights",
       "https://insideevs.com/news/794295/chinese-ev-headlight-movie-projectors/"
-    ]
-  ],
-  [
-    [
-      "2026-04-30, 16:33:24",
-      "https://news.ycombinator.com/item?id=47964957"
-    ],
-    [
-      "Dotcl: Common Lisp Implementation on .NET",
-      "https://github.com/dotcl/dotcl"
     ]
   ],
   [
