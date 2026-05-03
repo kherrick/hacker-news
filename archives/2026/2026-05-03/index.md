@@ -6,7 +6,9 @@
 
 * [2026-05-03, 18:42:28](https://news.ycombinator.com/item?id=48000028) - [Why TUIs Are Back](https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/)
 * [2026-05-03, 18:28:06](https://news.ycombinator.com/item?id=47999880) - [The Death of Scrum – Built for a slower world, performed by those who left](https://death-of-scrum.net/)
+* [2026-05-03, 18:17:18](https://news.ycombinator.com/item?id=47999776) - [Talking to Transformers](https://miraos.org/blog/2026/05/02/talking-to-transformers)
 * [2026-05-03, 18:14:56](https://news.ycombinator.com/item?id=47999754) - [How Kepler built verifiable AI for financial services with Claude](https://claude.com/blog/how-kepler-built-verifiable-ai-for-financial-services-with-claude)
+* [2026-05-03, 18:05:28](https://news.ycombinator.com/item?id=47999656) - [Show HN: Ableton Live MCP](https://github.com/bschoepke/ableton-live-mcp)
 * [2026-05-03, 18:03:14](https://news.ycombinator.com/item?id=47999636) - [BYOMesh – New LoRa mesh radio offers 100x the bandwidth](https://partyon.xyz/@nullagent/116499715071759135)
 * [2026-05-03, 17:45:47](https://news.ycombinator.com/item?id=47999460) - [I recreated the Apple Lisa computer inside an FPGA [video]](https://www.youtube.com/watch?v=8jNQDcpHc68)
 * [2026-05-03, 17:05:58](https://news.ycombinator.com/item?id=47999006) - [What Chromium versions are major browsers are on?](https://chromium-drift.pages.dev/)
@@ -46,4 +48,5 @@
 * [2026-05-03, 01:24:09](https://news.ycombinator.com/item?id=47992349) - [Maryland Is First to Ban A.I.-Driven Price Increases in Grocery Stores](https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html)
 * [2026-05-03, 01:22:41](https://news.ycombinator.com/item?id=47992338) - [Clandestine network smuggling Starlink tech into Iran to beat internet blackout](https://www.bbc.com/news/articles/cvgzk91leweo)
 * [2026-05-03, 00:31:58](https://news.ycombinator.com/item?id=47991995) - [Am I the only one who hates delivery robots?](https://www.latimes.com/entertainment-arts/story/2026-04-14/delivery-robots-creating-problems-glendale-ban)
+* [2026-05-03, 00:30:50](https://news.ycombinator.com/item?id=47991981) - [OpenAI's o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors](https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses)
 * [2026-05-03, 00:01:14](https://news.ycombinator.com/item?id=47991802) - [A Couple Million Lines of Haskell: Production Engineering at Mercury](https://blog.haskell.org/a-couple-million-lines-of-haskell/)
