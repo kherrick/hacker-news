@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-05-03](index.md)
 
+* [2026-05-03, 06:33:38](https://news.ycombinator.com/item?id=47994012) - [Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML](https://acai.sh/blog/specsmaxxing)
 * [2026-05-03, 04:05:28](https://news.ycombinator.com/item?id=47993235) - [Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge](https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/)
 * [2026-05-03, 02:53:29](https://news.ycombinator.com/item?id=47992859) - [Windows API Is Successful Cross-Platform API](https://retrocoding.net/windows-api-is-successful-cross-platform-api)
+* [2026-05-03, 02:42:43](https://news.ycombinator.com/item?id=47992802) - [AI, Intimacy, and the Data You Never Meant to Share](https://fshot.org/techzone/the-algorithm-knows.php)
 * [2026-05-03, 02:36:09](https://news.ycombinator.com/item?id=47992772) - [Open Source Does Not Imply Open Community](https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/)
 * [2026-05-03, 01:38:38](https://news.ycombinator.com/item?id=47992446) - [Care Homes and Hotels in Japan Shut as Expansion Strategy Unravels](https://www.newsonjapan.com/article/149075.php)
 * [2026-05-03, 01:24:09](https://news.ycombinator.com/item?id=47992349) - [Maryland Is First to Ban A.I.-Driven Price Increases in Grocery Stores](https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html)
