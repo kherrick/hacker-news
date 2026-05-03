@@ -16,6 +16,7 @@
 * [2026-04-30, 20:27:22](https://news.ycombinator.com/item?id=47967786) - [Rivian allows you to disable all internet connectivity](https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle)
 * [2026-04-30, 20:16:34](https://news.ycombinator.com/item?id=47967672) - [Chinese EVs Can Now Project Movies from Their Headlights](https://insideevs.com/news/794295/chinese-ev-headlight-movie-projectors/)
 * [2026-04-30, 20:02:35](https://news.ycombinator.com/item?id=47967508) - [The upsell game – Vercel upselling tactics revealed](https://theupsellgame.com/)
+* [2026-04-30, 19:46:29](https://news.ycombinator.com/item?id=47967340) - [Benchmarking a Bug Scanner](https://blog.detail.dev/posts/bug-scanner/)
 * [2026-04-30, 19:42:33](https://news.ycombinator.com/item?id=47967289) - [U.S. Senators Vote to Ban Themselves from Trading on Prediction Markets](https://www.wsj.com/politics/policy/senators-vote-to-ban-themselves-from-trading-on-prediction-markets-ae4535dd)
 * [2026-04-30, 19:40:20](https://news.ycombinator.com/item?id=47967262) - [LinkedIn scans for 6,278 extensions and encrypts the results into every request](https://404privacy.com/blog/linkedin-is-scanning-your-browser-extensions-this-is-how-they-use-the-data/)
 * [2026-04-30, 19:22:55](https://news.ycombinator.com/item?id=47967069) - [Follow-up to Carrot disclosure: Forgejo](https://dustri.org/b/follow-up-to-carrot-disclosure-forgejo.html)
