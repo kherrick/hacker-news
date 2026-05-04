@@ -9,6 +9,7 @@
 * [2026-04-30, 22:35:36](https://news.ycombinator.com/item?id=47969142) - [Group averages obscure how an individual's brain controls behavior: study](https://med.stanford.edu/news/all-news/2026/04/brain-scans-individual-versus-group.html)
 * [2026-04-30, 22:25:16](https://news.ycombinator.com/item?id=47969045) - [San Francisco streets with confusingly similar names](https://j-nelson.net/san-francisco-streets-with-similar-names/)
 * [2026-04-30, 22:18:57](https://news.ycombinator.com/item?id=47968982) - [Snowball Earth may hide a far stranger climate cycle than anyone expected](https://sciencex.com/news/2026-04-snowball-earth-stranger-climate.html)
+* [2026-04-30, 21:02:06](https://news.ycombinator.com/item?id=47968187) - [Discovering Hard Disk Physical Geometry Through Microbenchmarking (2019)](https://blog.stuffedcow.net/2019/09/hard-disk-geometry-microbenchmarking/)
 * [2026-04-30, 20:55:12](https://news.ycombinator.com/item?id=47968112) - [Show HN: Pu.sh – a full coding-agent harness in 400 lines of shell](https://pu.dev/)
 * [2026-04-30, 20:49:21](https://news.ycombinator.com/item?id=47968035) - [SimpleX Channels, SimpleX Network Consortium and Community Crowdfunding](https://simplex.chat/blog/20260430-simplex-channels-v6-5-consortium-crowdfunding-freedom-of-speech.html)
 * [2026-04-30, 20:43:57](https://news.ycombinator.com/item?id=47967974) - [Hackers are actively exploiting a bug in cPanel and WHM](https://techcrunch.com/2026/04/30/hackers-are-actively-exploiting-a-bug-in-cpanel-used-by-millions-of-websites/)
