@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-05-04](index.md)
 
+* [2026-05-04, 21:19:35](https://news.ycombinator.com/item?id=48015146) - [Welcome to Gas City](https://steve-yegge.medium.com/welcome-to-gas-city-57f564bb3607)
+* [2026-05-04, 21:14:38](https://news.ycombinator.com/item?id=48015097) - [Pulitzer Prize Winners 2026](https://www.pulitzer.org/prize-winners-by-year/2026)
 * [2026-05-04, 20:11:53](https://news.ycombinator.com/item?id=48014325) - [Formatting a 25M-line codebase overnight](https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story)
+* [2026-05-04, 20:03:08](https://news.ycombinator.com/item?id=48014197) - [Transformers Are Inherently Succinct](https://arxiv.org/abs/2510.19315)
 * [2026-05-04, 19:42:47](https://news.ycombinator.com/item?id=48013919) - [How OpenAI delivers low-latency voice AI at scale](https://openai.com/index/delivering-low-latency-voice-ai-at-scale/)
 * [2026-05-04, 19:18:22](https://news.ycombinator.com/item?id=48013608) - [White House Considers Vetting A.I. Models Before They Are Released](https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html)
 * [2026-05-04, 18:22:42](https://news.ycombinator.com/item?id=48012735) - [Microsoft Edge stores all passwords in memory in clear text, even when unused](https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730)

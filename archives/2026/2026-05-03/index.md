@@ -30,6 +30,7 @@
 * [2026-05-03, 16:29:07](https://news.ycombinator.com/item?id=47998601) - [Uncle Bob: It's Over](https://old.reddit.com/r/vibecoding/comments/1srfqm0/uncle_bob_its_over/)
 * [2026-05-03, 16:15:49](https://news.ycombinator.com/item?id=47998449) - [Bad Connection: Global telecom exploitation by covert surveillance actors](https://citizenlab.ca/research/uncovering-global-telecom-exploitation-by-covert-surveillance-actors/)
 * [2026-05-03, 15:55:59](https://news.ycombinator.com/item?id=47998225) - [For thirty years I programmed with Phish on, every day](https://christophermeiklejohn.com/ai/personal/phish/flow/agents/2026/05/03/rift.html)
+* [2026-05-03, 15:49:33](https://news.ycombinator.com/item?id=47998158) - [Testing macOS on the Apple Network Server 2.0 ROMs](http://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html)
 * [2026-05-03, 15:32:05](https://news.ycombinator.com/item?id=47997947) - [A Desktop Made for One](https://isene.org/2026/05/Audience-of-One.html)
 * [2026-05-03, 15:06:16](https://news.ycombinator.com/item?id=47997679) - [Business Owners Are Worst Clients](https://zencapital.substack.com/p/business-owners-are-worst-clients)
 * [2026-05-03, 14:49:56](https://news.ycombinator.com/item?id=47997486) - [Security Through Obscurity Is Not Bad](https://mobeigi.com/blog/security/security-through-obscurity-is-not-bad/)
