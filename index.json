@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-05-04, 21:19:35",
+      "https://news.ycombinator.com/item?id=48015146"
+    ],
+    [
+      "Welcome to Gas City",
+      "https://steve-yegge.medium.com/welcome-to-gas-city-57f564bb3607"
+    ]
+  ],
+  [
+    [
+      "2026-05-04, 21:14:38",
+      "https://news.ycombinator.com/item?id=48015097"
+    ],
+    [
+      "Pulitzer Prize Winners 2026",
+      "https://www.pulitzer.org/prize-winners-by-year/2026"
+    ]
+  ],
+  [
+    [
       "2026-05-04, 20:11:53",
       "https://news.ycombinator.com/item?id=48014325"
     ],
     [
       "Formatting a 25M-line codebase overnight",
       "https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story"
+    ]
+  ],
+  [
+    [
+      "2026-05-04, 20:03:08",
+      "https://news.ycombinator.com/item?id=48014197"
+    ],
+    [
+      "Transformers Are Inherently Succinct",
+      "https://arxiv.org/abs/2510.19315"
     ]
   ],
   [
@@ -81,16 +111,6 @@
   ],
   [
     [
-      "2026-05-04, 17:21:44",
-      "https://news.ycombinator.com/item?id=48011781"
-    ],
-    [
-      "Trillions in Retirement Dollars Flow into Opaque Trusts",
-      "https://www.bloomberg.com/news/features/2026-05-03/trillions-in-us-retirement-dollars-flow-into-opaque-trusts-that-rival-etfs"
-    ]
-  ],
-  [
-    [
       "2026-05-04, 17:16:36",
       "https://news.ycombinator.com/item?id=48011689"
     ],
@@ -127,16 +147,6 @@
     [
       "I am worried about Bun",
       "https://wwj.dev/posts/i-am-worried-about-bun/"
-    ]
-  ],
-  [
-    [
-      "2026-05-04, 16:21:38",
-      "https://news.ycombinator.com/item?id=48010774"
-    ],
-    [
-      "OpenAI, Google, and Microsoft Back Bill to Fund 'AI Literacy' in Schools",
-      "https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/"
     ]
   ],
   [
@@ -241,12 +251,12 @@
   ],
   [
     [
-      "2026-05-03, 18:03:14",
-      "https://news.ycombinator.com/item?id=47999636"
+      "2026-05-03, 15:49:33",
+      "https://news.ycombinator.com/item?id=47998158"
     ],
     [
-      "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
-      "https://partyon.xyz/@nullagent/116499715071759135"
+      "Testing macOS on the Apple Network Server 2.0 ROMs",
+      "http://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Why are neural networks and cryptographic ciphers so similar? (2025)",
       "https://reiner.org/neural-net-ciphers"
-    ]
-  ],
-  [
-    [
-      "2026-05-01, 18:07:28",
-      "https://news.ycombinator.com/item?id=47977990"
-    ],
-    [
-      "Using “underdrawings” for accurate text and numbers",
-      "https://samcollins.blog/underdrawings/"
     ]
   ]
 ]
