@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-05-03, 23:59:02",
+      "https://news.ycombinator.com/item?id=48002938"
+    ],
+    [
+      "The text mode lie: why modern TUIs are a nightmare for accessibility",
+      "https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility"
+    ]
+  ],
+  [
+    [
+      "2026-05-03, 23:36:11",
+      "https://news.ycombinator.com/item?id=48002777"
+    ],
+    [
+      "Let's Buy Spirit Air",
+      "https://letsbuyspiritair.com/"
+    ]
+  ],
+  [
+    [
       "2026-05-03, 23:12:02",
       "https://news.ycombinator.com/item?id=48002607"
     ],
@@ -65,7 +85,7 @@
       "https://news.ycombinator.com/item?id=48000028"
     ],
     [
-      "Why TUIs Are Back",
+      "Why TUIs are back",
       "https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/"
     ]
   ],
@@ -101,42 +121,12 @@
   ],
   [
     [
-      "2026-05-03, 17:05:58",
-      "https://news.ycombinator.com/item?id=47999006"
-    ],
-    [
-      "How far behind is each major Chromium browser?",
-      "https://chromium-drift.pages.dev/"
-    ]
-  ],
-  [
-    [
       "2026-05-03, 17:02:13",
       "https://news.ycombinator.com/item?id=47998946"
     ],
     [
       "Southwest Headquarters Tour",
       "https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-03, 16:48:11",
-      "https://news.ycombinator.com/item?id=47998790"
-    ],
-    [
-      "Metal Gear Solid 2's source code has been leaked on 4chan",
-      "https://www.thegamer.com/mgs2-hd-edition-source-code-massive-leak/"
-    ]
-  ],
-  [
-    [
-      "2026-05-03, 16:35:20",
-      "https://news.ycombinator.com/item?id=47998664"
-    ],
-    [
-      "Underwater robot tracks sperm whale conversations in real time",
-      "https://www.reuters.com/business/environment/underwater-robot-tracks-sperm-whale-conversations-real-time-2026-05-01/"
     ]
   ],
   [
@@ -181,26 +171,6 @@
   ],
   [
     [
-      "2026-05-03, 14:02:33",
-      "https://news.ycombinator.com/item?id=47997059"
-    ],
-    [
-      "Modern jet engine turbines: each blade a single crystal (2015)",
-      "https://www.americanscientist.org/article/each-blade-a-single-crystal"
-    ]
-  ],
-  [
-    [
-      "2026-05-03, 14:02:23",
-      "https://news.ycombinator.com/item?id=47997056"
-    ],
-    [
-      "Alert-driven monitoring",
-      "https://simpleobservability.com/docs/alert-driven-monitoring"
-    ]
-  ],
-  [
-    [
       "2026-05-03, 09:14:56",
       "https://news.ycombinator.com/item?id=47995037"
     ],
@@ -221,12 +191,32 @@
   ],
   [
     [
-      "2026-05-01, 14:39:42",
-      "https://news.ycombinator.com/item?id=47975322"
+      "2026-05-01, 18:33:36",
+      "https://news.ycombinator.com/item?id=47978324"
     ],
     [
-      "Automatic Brightness in Plasma",
-      "https://zamundaaa.github.io/wayland,display/2026/04/24/automatic-brightness.html"
+      "First Tesla Semi Rolls Off High-Volume Production Line",
+      "https://electrek.co/2026/04/29/tesla-semi-first-truck-high-volume-production-line/"
+    ]
+  ],
+  [
+    [
+      "2026-05-01, 18:07:28",
+      "https://news.ycombinator.com/item?id=47977990"
+    ],
+    [
+      "Using \"underdrawings\" for accurate text and numbers",
+      "https://samcollins.blog/underdrawings/"
+    ]
+  ],
+  [
+    [
+      "2026-05-01, 14:16:38",
+      "https://news.ycombinator.com/item?id=47975069"
+    ],
+    [
+      "K3sup – bootstrap K3s over SSH in < 60s",
+      "https://github.com/alexellis/k3sup"
     ]
   ],
   [
@@ -271,11 +261,21 @@
   ],
   [
     [
+      "2026-04-30, 21:02:06",
+      "https://news.ycombinator.com/item?id=47968187"
+    ],
+    [
+      "Discovering Hard Disk Physical Geometry Through Microbenchmarking (2019)",
+      "https://blog.stuffedcow.net/2019/09/hard-disk-geometry-microbenchmarking/"
+    ]
+  ],
+  [
+    [
       "2026-04-30, 12:03:38",
       "https://news.ycombinator.com/item?id=47961208"
     ],
     [
-      "Tar files made in macOS generate \"xattr\" errors when expanded in Linux",
+      "Tar Files Created on macOS Display Errors When Extracting on Linux (2024)",
       "https://aruljohn.com/blog/macos-created-tar-files-linux-errors/"
     ]
   ],
