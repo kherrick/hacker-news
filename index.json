@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-05-04, 21:19:35",
-      "https://news.ycombinator.com/item?id=48015146"
+      "2026-05-04, 21:40:42",
+      "https://news.ycombinator.com/item?id=48015397"
     ],
     [
-      "Welcome to Gas City",
-      "https://steve-yegge.medium.com/welcome-to-gas-city-57f564bb3607"
+      "Agent Skills",
+      "https://addyosmani.com/blog/agent-skills/"
+    ]
+  ],
+  [
+    [
+      "2026-05-04, 21:25:55",
+      "https://news.ycombinator.com/item?id=48015218"
+    ],
+    [
+      "'Point of no return': New Orleans relocation must start now due to sea level",
+      "https://www.theguardian.com/us-news/2026/may/04/new-orleans-sea-levels-relocation-climate-crisis"
     ]
   ],
   [
@@ -261,16 +271,6 @@
   ],
   [
     [
-      "2026-05-02, 21:23:11",
-      "https://news.ycombinator.com/item?id=47990695"
-    ],
-    [
-      "Frizbee is a tool you may throw a tag at and it comes back with a checksum",
-      "https://github.com/stacklok/frizbee"
-    ]
-  ],
-  [
-    [
       "2026-05-02, 16:58:39",
       "https://news.ycombinator.com/item?id=47988130"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-05-02, 05:00:12",
-      "https://news.ycombinator.com/item?id=47983467"
+      "2026-05-01, 18:07:28",
+      "https://news.ycombinator.com/item?id=47977990"
     ],
     [
-      "Why are neural networks and cryptographic ciphers so similar? (2025)",
-      "https://reiner.org/neural-net-ciphers"
+      "Using “underdrawings” for accurate text and numbers",
+      "https://samcollins.blog/underdrawings/"
     ]
   ]
 ]
