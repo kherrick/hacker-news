@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-05-03, 23:12:02",
+      "https://news.ycombinator.com/item?id=48002607"
+    ],
+    [
+      "The 'Hidden' Costs of Great Abstractions",
+      "https://jdgr.net/the-hidden-costs-of-great-abstractions"
+    ]
+  ],
+  [
+    [
+      "2026-05-03, 22:52:07",
+      "https://news.ycombinator.com/item?id=48002442"
+    ],
+    [
+      "Agentic Coding Is a Trap",
+      "https://larsfaye.com/articles/agentic-coding-is-a-trap"
+    ]
+  ],
+  [
+    [
       "2026-05-03, 22:13:20",
       "https://news.ycombinator.com/item?id=48002136"
     ],
@@ -25,18 +45,8 @@
       "https://news.ycombinator.com/item?id=48000507"
     ],
     [
-      "Make Your Own Microforest",
+      "Make your own microforest (2025)",
       "https://ambrook.com/offrange/environment/a-forest-in-your-pocket"
-    ]
-  ],
-  [
-    [
-      "2026-05-03, 19:23:20",
-      "https://news.ycombinator.com/item?id=48000420"
-    ],
-    [
-      "Flock repeatedly flags 76-year old Grandmother for arrest, erroring zero for \"O\"",
-      "https://guessingheadlights.com/colorado-grandma-keeps-getting-pulled-over-because-police-cameras-cannot-tell-the-difference-between-a-zero-and-the-letter-o/"
     ]
   ],
   [
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=48000152"
     ],
     [
-      "Statue of a man blinded by a flag put up by Banksy in central London",
+      "New statue in London, attributed to Banksy, of a suited man, blinded by a flag",
       "https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/"
     ]
   ],
@@ -61,22 +71,22 @@
   ],
   [
     [
-      "2026-05-03, 18:05:28",
-      "https://news.ycombinator.com/item?id=47999656"
-    ],
-    [
-      "Show HN: Ableton Live MCP",
-      "https://github.com/bschoepke/ableton-live-mcp"
-    ]
-  ],
-  [
-    [
       "2026-05-03, 18:03:14",
       "https://news.ycombinator.com/item?id=47999636"
     ],
     [
       "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
       "https://partyon.xyz/@nullagent/116499715071759135"
+    ]
+  ],
+  [
+    [
+      "2026-05-03, 17:51:58",
+      "https://news.ycombinator.com/item?id=47999520"
+    ],
+    [
+      "LLMs Are Not a Higher Level of Abstraction",
+      "https://www.lelanthran.com/chap15/content.html"
     ]
   ],
   [
@@ -117,6 +127,16 @@
     [
       "Metal Gear Solid 2's source code has been leaked on 4chan",
       "https://www.thegamer.com/mgs2-hd-edition-source-code-massive-leak/"
+    ]
+  ],
+  [
+    [
+      "2026-05-03, 16:35:20",
+      "https://news.ycombinator.com/item?id=47998664"
+    ],
+    [
+      "Underwater robot tracks sperm whale conversations in real time",
+      "https://www.reuters.com/business/environment/underwater-robot-tracks-sperm-whale-conversations-real-time-2026-05-01/"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2026-05-03, 11:12:29",
-      "https://news.ycombinator.com/item?id=47995757"
-    ],
-    [
-      "Nuclear receptor 4A1 linked to health effects of coffee: study",
-      "https://sciencex.com/news/2026-04-coffee-doesnt-key-biological-pathway.html"
-    ]
-  ],
-  [
-    [
       "2026-05-03, 09:14:56",
       "https://news.ycombinator.com/item?id=47995037"
     ],
@@ -207,16 +217,6 @@
     [
       "OpenAI's o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
       "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses"
-    ]
-  ],
-  [
-    [
-      "2026-05-01, 15:13:56",
-      "https://news.ycombinator.com/item?id=47975759"
-    ],
-    [
-      "How did Banksy erect a statue in Central London?",
-      "https://www.bbc.co.uk/news/articles/cn4pvyw82exo"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2026-04-29, 12:17:24",
-      "https://news.ycombinator.com/item?id=47947294"
+      "2026-04-30, 12:03:38",
+      "https://news.ycombinator.com/item?id=47961208"
     ],
     [
-      "Buckets and objects are not enough",
-      "https://sagi.org/posts/buckets-and-objects-are-not-enough/"
+      "Tar files made in macOS generate \"xattr\" errors when expanded in Linux",
+      "https://aruljohn.com/blog/macos-created-tar-files-linux-errors/"
     ]
   ],
   [
