@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-05-04, 09:40:06",
+      "https://news.ycombinator.com/item?id=48006445"
+    ],
+    [
+      "Trademark violation: Fake Notepad++ for Mac",
+      "https://notepad-plus-plus.org/news/npp-trademark-infringement/"
+    ]
+  ],
+  [
+    [
+      "2026-05-04, 09:31:12",
+      "https://news.ycombinator.com/item?id=48006402"
+    ],
+    [
+      "GameStop makes $55.5B takeover offer for eBay",
+      "https://www.bbc.co.uk/news/articles/cn0p8yled1do"
+    ]
+  ],
+  [
+    [
+      "2026-05-04, 08:40:41",
+      "https://news.ycombinator.com/item?id=48006123"
+    ],
+    [
+      "Over 8M Thermos jars and bottles recalled after 3 people lost vision",
+      "https://www.goodmorningamerica.com/living/story/8-million-thermos-jars-bottles-recalled-after-3-132568152"
+    ]
+  ],
+  [
+    [
       "2026-05-04, 04:43:36",
       "https://news.ycombinator.com/item?id=48004734"
     ],
@@ -21,12 +51,12 @@
   ],
   [
     [
-      "2026-05-03, 23:59:02",
-      "https://news.ycombinator.com/item?id=48002938"
+      "2026-05-03, 23:45:50",
+      "https://news.ycombinator.com/item?id=48002839"
     ],
     [
-      "The text mode lie: why modern TUIs are a nightmare for accessibility",
-      "https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility"
+      "Debunking the CIA's “magic” heartbeat sensor [video]",
+      "https://www.youtube.com/watch?v=SVTPv4sI_Jc"
     ]
   ],
   [
@@ -81,26 +111,6 @@
   ],
   [
     [
-      "2026-05-03, 18:42:28",
-      "https://news.ycombinator.com/item?id=48000028"
-    ],
-    [
-      "Why TUIs are back",
-      "https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/"
-    ]
-  ],
-  [
-    [
-      "2026-05-03, 18:05:28",
-      "https://news.ycombinator.com/item?id=47999656"
-    ],
-    [
-      "Show HN: Ableton Live MCP",
-      "https://github.com/bschoepke/ableton-live-mcp"
-    ]
-  ],
-  [
-    [
       "2026-05-03, 18:03:14",
       "https://news.ycombinator.com/item?id=47999636"
     ],
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2026-05-03, 14:49:56",
-      "https://news.ycombinator.com/item?id=47997486"
-    ],
-    [
-      "Security through obscurity is not bad",
-      "https://mobeigi.com/blog/security/security-through-obscurity-is-not-bad/"
-    ]
-  ],
-  [
-    [
       "2026-05-03, 14:43:27",
       "https://news.ycombinator.com/item?id=47997418"
     ],
@@ -177,6 +177,16 @@
     [
       "OpenAI’s o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
       "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses"
+    ]
+  ],
+  [
+    [
+      "2026-05-02, 18:04:28",
+      "https://news.ycombinator.com/item?id=47988781"
+    ],
+    [
+      "World's biggest RC A380 [video]",
+      "https://www.youtube.com/watch?v=wr9YLGbhxng"
     ]
   ],
   [
@@ -201,22 +211,22 @@
   ],
   [
     [
+      "2026-05-01, 22:28:04",
+      "https://news.ycombinator.com/item?id=47981227"
+    ],
+    [
+      "The Road to a Billion-Token Context",
+      "https://cacm.acm.org/news/the-road-to-a-billion-token-context/"
+    ]
+  ],
+  [
+    [
       "2026-05-01, 18:07:28",
       "https://news.ycombinator.com/item?id=47977990"
     ],
     [
       "Using “underdrawings” for accurate text and numbers",
       "https://samcollins.blog/underdrawings/"
-    ]
-  ],
-  [
-    [
-      "2026-05-01, 17:29:53",
-      "https://news.ycombinator.com/item?id=47977510"
-    ],
-    [
-      "Roger Sweet, Creator of the He-Man Action Figure, Dies at 91",
-      "https://www.nytimes.com/2026/04/29/arts/roger-sweet-dead-he-man.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Tar Files Created on macOS Display Errors When Extracting on Linux (2024)",
       "https://aruljohn.com/blog/macos-created-tar-files-linux-errors/"
-    ]
-  ],
-  [
-    [
-      "2026-04-28, 21:08:29",
-      "https://news.ycombinator.com/item?id=47940789"
-    ],
-    [
-      "Denuvo has been cracked in all single-player games it previously protected",
-      "https://www.tomshardware.com/video-games/pc-gaming/denuvo-has-been-bypassed-in-all-single-player-games-it-previously-protected-2k-games-and-denuvo-reportedly-retaliate-with-mandatory-14-day-online-checks"
     ]
   ]
 ]
