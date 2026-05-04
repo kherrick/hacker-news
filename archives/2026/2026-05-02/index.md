@@ -58,6 +58,7 @@
 * [2026-05-02, 08:21:38](https://news.ycombinator.com/item?id=47984512) - [Shadcn/UI: A set of beautifully designed components that you can customize](https://github.com/shadcn-ui/ui)
 * [2026-05-02, 08:18:15](https://news.ycombinator.com/item?id=47984486) - [SKILL.make: Makefile Styled Skill File](https://github.com/Teaonly/SKILL.make)
 * [2026-05-02, 05:04:39](https://news.ycombinator.com/item?id=47983485) - [Show HN: Stop playing my matchstick puzzles, start building your own in seconds](https://mathstick.github.io)
+* [2026-05-02, 05:00:12](https://news.ycombinator.com/item?id=47983467) - [Why are neural networks and cryptographic ciphers so similar? (2025)](https://reiner.org/neural-net-ciphers)
 * [2026-05-02, 04:43:20](https://news.ycombinator.com/item?id=47983385) - [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/rEWfZ6R-senior-forward-deployed-engineer)
 * [2026-05-02, 04:38:04](https://news.ycombinator.com/item?id=47983352) - [Why does it take so long to release black fan versions?](https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions)
 * [2026-05-02, 04:34:40](https://news.ycombinator.com/item?id=47983333) - [Texico: Learn the principles of programming without even touching a computer](https://www3.nhk.or.jp/nhkworld/en/shows/texico/)
