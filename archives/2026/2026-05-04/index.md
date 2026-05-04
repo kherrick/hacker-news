@@ -4,6 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-05-04](index.md)
 
+* [2026-05-04, 18:04:33](https://news.ycombinator.com/item?id=48012477) - [Offenders sentenced up to 10 years for spying on TSMC](https://www.taipeitimes.com/News/front/archives/2026/04/28/2003856358)
+* [2026-05-04, 17:46:32](https://news.ycombinator.com/item?id=48012162) - [U.S. military data left exposed at an a16z startup for 150 days](https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup)
+* [2026-05-04, 17:36:32](https://news.ycombinator.com/item?id=48012022) - [Days Without GitHub Incidents](https://www.dayswithoutgithubincident.com/)
+* [2026-05-04, 17:35:15](https://news.ycombinator.com/item?id=48012003) - [Heat pump sales rise 17% across Europe in Q1 as energy prices surge](https://www.pv-magazine.com/2026/05/04/heat-pump-sales-rise-17-across-europe-in-q1-as-energy-prices-surge/)
+* [2026-05-04, 17:21:44](https://news.ycombinator.com/item?id=48011781) - [Trillions in Retirement Dollars Flow into Opaque Trusts](https://www.bloomberg.com/news/features/2026-05-03/trillions-in-us-retirement-dollars-flow-into-opaque-trusts-that-rival-etfs)
+* [2026-05-04, 17:16:36](https://news.ycombinator.com/item?id=48011689) - [US healthcare marketplaces shared citizenship and race data with ad tech giants](https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/)
+* [2026-05-04, 17:10:57](https://news.ycombinator.com/item?id=48011603) - [Stop big tech from making users behave in ways they don't want to](https://economist.com/by-invitation/2026/04/29/stop-big-tech-from-making-users-behave-in-ways-they-dont-want-to)
+* [2026-05-04, 16:45:00](https://news.ycombinator.com/item?id=48011184) - [I am worried about Bun](https://wwj.dev/posts/i-am-worried-about-bun/)
 * [2026-05-04, 16:33:47](https://news.ycombinator.com/item?id=48010992) - [\"They would never use the death star on us\"](https://www.mcsweeneys.net/articles/they-would-never-use-the-death-star-on-us-alderaan-residents-reflect-on-their-support-for-the-empire-as-a-large-imperial-installation-enters-the-system)
 * [2026-05-04, 16:21:38](https://news.ycombinator.com/item?id=48010774) - [OpenAI, Google, and Microsoft Back Bill to Fund 'AI Literacy' in Schools](https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/)
 * [2026-05-04, 16:12:25](https://news.ycombinator.com/item?id=48010597) - [Homebridge 2.0 is here, and it speaks Matter](https://www.theverge.com/tech/922877/homebridge-2-0-matter-update-robot-vacuums)
