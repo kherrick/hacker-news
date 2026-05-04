@@ -1,12 +1,82 @@
 [
   [
     [
-      "2026-05-04, 16:33:47",
-      "https://news.ycombinator.com/item?id=48010992"
+      "2026-05-04, 18:04:33",
+      "https://news.ycombinator.com/item?id=48012477"
     ],
     [
-      "\"They would never use the death star on us\"",
-      "https://www.mcsweeneys.net/articles/they-would-never-use-the-death-star-on-us-alderaan-residents-reflect-on-their-support-for-the-empire-as-a-large-imperial-installation-enters-the-system"
+      "Offenders sentenced up to 10 years for spying on TSMC",
+      "https://www.taipeitimes.com/News/front/archives/2026/04/28/2003856358"
+    ]
+  ],
+  [
+    [
+      "2026-05-04, 17:46:32",
+      "https://news.ycombinator.com/item?id=48012162"
+    ],
+    [
+      "U.S. military data left exposed at an a16z startup for 150 days",
+      "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup"
+    ]
+  ],
+  [
+    [
+      "2026-05-04, 17:36:32",
+      "https://news.ycombinator.com/item?id=48012022"
+    ],
+    [
+      "Days Without GitHub Incidents",
+      "https://www.dayswithoutgithubincident.com/"
+    ]
+  ],
+  [
+    [
+      "2026-05-04, 17:35:15",
+      "https://news.ycombinator.com/item?id=48012003"
+    ],
+    [
+      "Heat pump sales rise 17% across Europe in Q1 as energy prices surge",
+      "https://www.pv-magazine.com/2026/05/04/heat-pump-sales-rise-17-across-europe-in-q1-as-energy-prices-surge/"
+    ]
+  ],
+  [
+    [
+      "2026-05-04, 17:21:44",
+      "https://news.ycombinator.com/item?id=48011781"
+    ],
+    [
+      "Trillions in Retirement Dollars Flow into Opaque Trusts",
+      "https://www.bloomberg.com/news/features/2026-05-03/trillions-in-us-retirement-dollars-flow-into-opaque-trusts-that-rival-etfs"
+    ]
+  ],
+  [
+    [
+      "2026-05-04, 17:16:36",
+      "https://news.ycombinator.com/item?id=48011689"
+    ],
+    [
+      "US healthcare marketplaces shared citizenship and race data with ad tech giants",
+      "https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/"
+    ]
+  ],
+  [
+    [
+      "2026-05-04, 17:10:57",
+      "https://news.ycombinator.com/item?id=48011603"
+    ],
+    [
+      "Stop big tech from making users behave in ways they don't want to",
+      "https://economist.com/by-invitation/2026/04/29/stop-big-tech-from-making-users-behave-in-ways-they-dont-want-to"
+    ]
+  ],
+  [
+    [
+      "2026-05-04, 16:45:00",
+      "https://news.ycombinator.com/item?id=48011184"
+    ],
+    [
+      "I am worried about Bun",
+      "https://wwj.dev/posts/i-am-worried-about-bun/"
     ]
   ],
   [
@@ -181,16 +251,6 @@
   ],
   [
     [
-      "2026-05-03, 23:36:11",
-      "https://news.ycombinator.com/item?id=48002777"
-    ],
-    [
-      "Let's Buy Spirit Air",
-      "https://letsbuyspiritair.com/"
-    ]
-  ],
-  [
-    [
       "2026-05-03, 22:13:20",
       "https://news.ycombinator.com/item?id=48002136"
     ],
@@ -207,26 +267,6 @@
     [
       "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
       "https://partyon.xyz/@nullagent/116499715071759135"
-    ]
-  ],
-  [
-    [
-      "2026-05-03, 17:02:13",
-      "https://news.ycombinator.com/item?id=47998946"
-    ],
-    [
-      "Southwest Headquarters Tour",
-      "https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-02, 18:04:28",
-      "https://news.ycombinator.com/item?id=47988781"
-    ],
-    [
-      "World's biggest RC A380 [video]",
-      "https://www.youtube.com/watch?v=wr9YLGbhxng"
     ]
   ],
   [
@@ -257,46 +297,6 @@
     [
       "Using “underdrawings” for accurate text and numbers",
       "https://samcollins.blog/underdrawings/"
-    ]
-  ],
-  [
-    [
-      "2026-05-01, 15:42:32",
-      "https://news.ycombinator.com/item?id=47976081"
-    ],
-    [
-      "A treasure trove of fossils rewrites the story of early life",
-      "https://www.quantamagazine.org/a-treasure-trove-of-cambrian-fossils-rewrites-the-story-of-early-life-20260501/"
-    ]
-  ],
-  [
-    [
-      "2026-05-01, 14:24:27",
-      "https://news.ycombinator.com/item?id=47975166"
-    ],
-    [
-      "Fun with polynomials and linear algebra; or, slight abstract nonsense",
-      "https://guille.site/posts/abstract-nonsense/"
-    ]
-  ],
-  [
-    [
-      "2026-05-01, 13:38:27",
-      "https://news.ycombinator.com/item?id=47974682"
-    ],
-    [
-      "US–Indian space mission maps extreme subsidence in Mexico City",
-      "https://phys.org/news/2026-04-usindian-space-mission-extreme-subsidence.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-30, 21:02:06",
-      "https://news.ycombinator.com/item?id=47968187"
-    ],
-    [
-      "Discovering hard disk physical geometry through microbenchmarking (2019)",
-      "https://blog.stuffedcow.net/2019/09/hard-disk-geometry-microbenchmarking/"
     ]
   ]
 ]
