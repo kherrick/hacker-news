@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-04](index.md)
 
+* [2026-05-04, 20:11:53](https://news.ycombinator.com/item?id=48014325) - [Formatting a 25M-line codebase overnight](https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story)
 * [2026-05-04, 19:42:47](https://news.ycombinator.com/item?id=48013919) - [How OpenAI delivers low-latency voice AI at scale](https://openai.com/index/delivering-low-latency-voice-ai-at-scale/)
 * [2026-05-04, 19:18:22](https://news.ycombinator.com/item?id=48013608) - [White House Considers Vetting A.I. Models Before They Are Released](https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html)
 * [2026-05-04, 18:22:42](https://news.ycombinator.com/item?id=48012735) - [Microsoft Edge stores all passwords in memory in clear text, even when unused](https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730)
@@ -16,6 +17,7 @@
 * [2026-05-04, 17:21:44](https://news.ycombinator.com/item?id=48011781) - [Trillions in Retirement Dollars Flow into Opaque Trusts](https://www.bloomberg.com/news/features/2026-05-03/trillions-in-us-retirement-dollars-flow-into-opaque-trusts-that-rival-etfs)
 * [2026-05-04, 17:16:36](https://news.ycombinator.com/item?id=48011689) - [US healthcare marketplaces shared citizenship and race data with ad tech giants](https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/)
 * [2026-05-04, 17:10:57](https://news.ycombinator.com/item?id=48011603) - [Stop big tech from making users behave in ways they don't want to](https://economist.com/by-invitation/2026/04/29/stop-big-tech-from-making-users-behave-in-ways-they-dont-want-to)
+* [2026-05-04, 16:59:28](https://news.ycombinator.com/item?id=48011440) - [The Visible Zorker: Zork 3](https://eblong.com/infocom/visi/zork3/)
 * [2026-05-04, 16:45:00](https://news.ycombinator.com/item?id=48011184) - [I am worried about Bun](https://wwj.dev/posts/i-am-worried-about-bun/)
 * [2026-05-04, 16:33:47](https://news.ycombinator.com/item?id=48010992) - [\"They would never use the death star on us\"](https://www.mcsweeneys.net/articles/they-would-never-use-the-death-star-on-us-alderaan-residents-reflect-on-their-support-for-the-empire-as-a-large-imperial-installation-enters-the-system)
 * [2026-05-04, 16:21:38](https://news.ycombinator.com/item?id=48010774) - [OpenAI, Google, and Microsoft Back Bill to Fund 'AI Literacy' in Schools](https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/)
