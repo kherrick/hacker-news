@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-05-03](index.md)
 
 * [2026-05-03, 23:59:02](https://news.ycombinator.com/item?id=48002938) - [The text mode lie: why modern TUIs are a nightmare for accessibility](https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility)
+* [2026-05-03, 23:45:50](https://news.ycombinator.com/item?id=48002839) - [Debunking the CIA's “magic” heartbeat sensor [video]](https://www.youtube.com/watch?v=SVTPv4sI_Jc)
 * [2026-05-03, 23:36:11](https://news.ycombinator.com/item?id=48002777) - [Let's Buy Spirit Air](https://letsbuyspiritair.com/)
 * [2026-05-03, 23:12:02](https://news.ycombinator.com/item?id=48002607) - [The 'Hidden' Costs of Great Abstractions](https://jdgr.net/the-hidden-costs-of-great-abstractions)
 * [2026-05-03, 22:52:07](https://news.ycombinator.com/item?id=48002442) - [Agentic Coding Is a Trap](https://larsfaye.com/articles/agentic-coding-is-a-trap)
