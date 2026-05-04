@@ -4,10 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-05-04](index.md)
 
+* [2026-05-04, 19:42:47](https://news.ycombinator.com/item?id=48013919) - [How OpenAI delivers low-latency voice AI at scale](https://openai.com/index/delivering-low-latency-voice-ai-at-scale/)
+* [2026-05-04, 19:18:22](https://news.ycombinator.com/item?id=48013608) - [White House Considers Vetting A.I. Models Before They Are Released](https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html)
+* [2026-05-04, 18:22:42](https://news.ycombinator.com/item?id=48012735) - [Microsoft Edge stores all passwords in memory in clear text, even when unused](https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730)
 * [2026-05-04, 18:04:33](https://news.ycombinator.com/item?id=48012477) - [Offenders sentenced up to 10 years for spying on TSMC](https://www.taipeitimes.com/News/front/archives/2026/04/28/2003856358)
 * [2026-05-04, 17:46:32](https://news.ycombinator.com/item?id=48012162) - [U.S. military data left exposed at an a16z startup for 150 days](https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup)
 * [2026-05-04, 17:36:32](https://news.ycombinator.com/item?id=48012022) - [Days Without GitHub Incidents](https://www.dayswithoutgithubincident.com/)
 * [2026-05-04, 17:35:15](https://news.ycombinator.com/item?id=48012003) - [Heat pump sales rise 17% across Europe in Q1 as energy prices surge](https://www.pv-magazine.com/2026/05/04/heat-pump-sales-rise-17-across-europe-in-q1-as-energy-prices-surge/)
+* [2026-05-04, 17:33:48](https://news.ycombinator.com/item?id=48011980) - ['Kitten Space Agency', the Spiritual Successor to 'Kerbal Space Program' (2025)](https://www.space.com/entertainment/space-games/kitten-space-agency-is-the-spiritual-successor-to-kerbal-space-program-and-they-have-an-ex-spacex-engineer-on-the-team-interview)
+* [2026-05-04, 17:29:39](https://news.ycombinator.com/item?id=48011904) - [Let's Talk about LLMs](https://www.b-list.org/weblog/2026/apr/09/llms/)
 * [2026-05-04, 17:21:44](https://news.ycombinator.com/item?id=48011781) - [Trillions in Retirement Dollars Flow into Opaque Trusts](https://www.bloomberg.com/news/features/2026-05-03/trillions-in-us-retirement-dollars-flow-into-opaque-trusts-that-rival-etfs)
 * [2026-05-04, 17:16:36](https://news.ycombinator.com/item?id=48011689) - [US healthcare marketplaces shared citizenship and race data with ad tech giants](https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/)
 * [2026-05-04, 17:10:57](https://news.ycombinator.com/item?id=48011603) - [Stop big tech from making users behave in ways they don't want to](https://economist.com/by-invitation/2026/04/29/stop-big-tech-from-making-users-behave-in-ways-they-dont-want-to)
@@ -16,6 +21,7 @@
 * [2026-05-04, 16:21:38](https://news.ycombinator.com/item?id=48010774) - [OpenAI, Google, and Microsoft Back Bill to Fund 'AI Literacy' in Schools](https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/)
 * [2026-05-04, 16:12:25](https://news.ycombinator.com/item?id=48010597) - [Homebridge 2.0 is here, and it speaks Matter](https://www.theverge.com/tech/922877/homebridge-2-0-matter-update-robot-vacuums)
 * [2026-05-04, 15:53:21](https://news.ycombinator.com/item?id=48010301) - [GitHub Is Down](https://www.githubstatus.com/incidents/72q3n8yxthcy)
+* [2026-05-04, 15:51:37](https://news.ycombinator.com/item?id=48010266) - [Sierra Raises $950M at $15B Valuation](https://sierra.ai/blog/better-customer-experiences-built-on-sierra)
 * [2026-05-04, 15:47:27](https://news.ycombinator.com/item?id=48010208) - [Alberta voter list leak is a potential public safety disaster](https://globalnews.ca/news/11828244/alberta-voter-list-leak-public-safety-disaster/)
 * [2026-05-04, 15:32:46](https://news.ycombinator.com/item?id=48009983) - [Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks](https://www.nber.org/papers/w35117)
 * [2026-05-04, 15:22:53](https://news.ycombinator.com/item?id=48009840) - [1966 Ford Mustang Converted into a Tesla with Working 'Full Self-Driving'](https://electrek.co/2026/05/02/tesla-1966-mustang-ev-conversion-full-self-driving/)
