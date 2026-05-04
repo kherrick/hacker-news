@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-03](index.md)
 
+* [2026-05-03, 23:12:02](https://news.ycombinator.com/item?id=48002607) - [The 'Hidden' Costs of Great Abstractions](https://jdgr.net/the-hidden-costs-of-great-abstractions)
+* [2026-05-03, 22:52:07](https://news.ycombinator.com/item?id=48002442) - [Agentic Coding Is a Trap](https://larsfaye.com/articles/agentic-coding-is-a-trap)
 * [2026-05-03, 22:13:20](https://news.ycombinator.com/item?id=48002136) - [DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper](https://github.com/aattaran/deepclaude)
 * [2026-05-03, 22:08:47](https://news.ycombinator.com/item?id=48002089) - [Introduction to Atom](https://validator.w3.org/feed/docs/atom.html)
 * [2026-05-03, 19:31:35](https://news.ycombinator.com/item?id=48000507) - [Make Your Own Microforest](https://ambrook.com/offrange/environment/a-forest-in-your-pocket)
@@ -15,6 +17,7 @@
 * [2026-05-03, 18:14:56](https://news.ycombinator.com/item?id=47999754) - [How Kepler built verifiable AI for financial services with Claude](https://claude.com/blog/how-kepler-built-verifiable-ai-for-financial-services-with-claude)
 * [2026-05-03, 18:05:28](https://news.ycombinator.com/item?id=47999656) - [Show HN: Ableton Live MCP](https://github.com/bschoepke/ableton-live-mcp)
 * [2026-05-03, 18:03:14](https://news.ycombinator.com/item?id=47999636) - [BYOMesh – New LoRa mesh radio offers 100x the bandwidth](https://partyon.xyz/@nullagent/116499715071759135)
+* [2026-05-03, 17:51:58](https://news.ycombinator.com/item?id=47999520) - [LLMs Are Not a Higher Level of Abstraction](https://www.lelanthran.com/chap15/content.html)
 * [2026-05-03, 17:45:47](https://news.ycombinator.com/item?id=47999460) - [I recreated the Apple Lisa computer inside an FPGA [video]](https://www.youtube.com/watch?v=8jNQDcpHc68)
 * [2026-05-03, 17:05:58](https://news.ycombinator.com/item?id=47999006) - [What Chromium versions are major browsers are on?](https://chromium-drift.pages.dev/)
 * [2026-05-03, 17:02:13](https://news.ycombinator.com/item?id=47998946) - [Southwest Headquarters Tour](https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html)
