@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-05-04, 19:42:47",
+      "https://news.ycombinator.com/item?id=48013919"
+    ],
+    [
+      "How OpenAI delivers low-latency voice AI at scale",
+      "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/"
+    ]
+  ],
+  [
+    [
+      "2026-05-04, 19:18:22",
+      "https://news.ycombinator.com/item?id=48013608"
+    ],
+    [
+      "White House Considers Vetting A.I. Models Before They Are Released",
+      "https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-04, 18:22:42",
+      "https://news.ycombinator.com/item?id=48012735"
+    ],
+    [
+      "Microsoft Edge stores all passwords in memory in clear text, even when unused",
+      "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730"
+    ]
+  ],
+  [
+    [
       "2026-05-04, 18:04:33",
       "https://news.ycombinator.com/item?id=48012477"
     ],
@@ -15,18 +45,8 @@
       "https://news.ycombinator.com/item?id=48012162"
     ],
     [
-      "U.S. military data left exposed at an a16z startup for 150 days",
+      "Securing a DoD Contractor: Finding a Multi-Tenant Authorization Vulnerability",
       "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup"
-    ]
-  ],
-  [
-    [
-      "2026-05-04, 17:36:32",
-      "https://news.ycombinator.com/item?id=48012022"
-    ],
-    [
-      "Days Without GitHub Incidents",
-      "https://www.dayswithoutgithubincident.com/"
     ]
   ],
   [
@@ -35,8 +55,28 @@
       "https://news.ycombinator.com/item?id=48012003"
     ],
     [
-      "Heat pump sales rise 17% across Europe in Q1 as energy prices surge",
+      "Heat pump sales rise across Europe",
       "https://www.pv-magazine.com/2026/05/04/heat-pump-sales-rise-17-across-europe-in-q1-as-energy-prices-surge/"
+    ]
+  ],
+  [
+    [
+      "2026-05-04, 17:33:48",
+      "https://news.ycombinator.com/item?id=48011980"
+    ],
+    [
+      "'Kitten Space Agency', the Spiritual Successor to 'Kerbal Space Program' (2025)",
+      "https://www.space.com/entertainment/space-games/kitten-space-agency-is-the-spiritual-successor-to-kerbal-space-program-and-they-have-an-ex-spacex-engineer-on-the-team-interview"
+    ]
+  ],
+  [
+    [
+      "2026-05-04, 17:29:39",
+      "https://news.ycombinator.com/item?id=48011904"
+    ],
+    [
+      "Let's Talk about LLMs",
+      "https://www.b-list.org/weblog/2026/apr/09/llms/"
     ]
   ],
   [
@@ -91,22 +131,12 @@
   ],
   [
     [
-      "2026-05-04, 16:12:25",
-      "https://news.ycombinator.com/item?id=48010597"
+      "2026-05-04, 15:51:37",
+      "https://news.ycombinator.com/item?id=48010266"
     ],
     [
-      "Homebridge 2.0 is here, and it speaks Matter",
-      "https://www.theverge.com/tech/922877/homebridge-2-0-matter-update-robot-vacuums"
-    ]
-  ],
-  [
-    [
-      "2026-05-04, 15:53:21",
-      "https://news.ycombinator.com/item?id=48010301"
-    ],
-    [
-      "GitHub Is Down",
-      "https://www.githubstatus.com/incidents/72q3n8yxthcy"
+      "Sierra Raises $950M at $15B Valuation",
+      "https://sierra.ai/blog/better-customer-experiences-built-on-sierra"
     ]
   ],
   [
@@ -145,18 +175,8 @@
       "https://news.ycombinator.com/item?id=48009747"
     ],
     [
-      "I tracked 7,700 UK petrol stations every 10 minutes for 3 months",
+      "UK Fuel Price Intelligence",
       "https://www.fuelinsight.co.uk"
-    ]
-  ],
-  [
-    [
-      "2026-05-04, 15:10:41",
-      "https://news.ycombinator.com/item?id=48009697"
-    ],
-    [
-      "Removable batteries in smartphones will be mandatory in the EU starting in 2027",
-      "https://www.ecopv-eu.com/en/blog-en/replaceable-smartphone-batteries-2027-eu-regulation/"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2026-05-04, 12:53:46",
-      "https://news.ycombinator.com/item?id=48008083"
-    ],
-    [
-      "PyInfra 3.8.0 Is Out",
-      "https://github.com/pyinfra-dev/pyinfra/releases/tag/v3.8.0"
-    ]
-  ],
-  [
-    [
       "2026-05-04, 12:52:57",
       "https://news.ycombinator.com/item?id=48008074"
     ],
@@ -225,18 +235,8 @@
       "https://news.ycombinator.com/item?id=48007438"
     ],
     [
-      "Talking to 35 Strangers at the Gym",
+      "Talking to strangers at the gym",
       "https://thienantran.com/talking-to-35-strangers-at-the-gym/"
-    ]
-  ],
-  [
-    [
-      "2026-05-04, 09:40:06",
-      "https://news.ycombinator.com/item?id=48006445"
-    ],
-    [
-      "Trademark violation: Fake Notepad++ for Mac",
-      "https://notepad-plus-plus.org/news/npp-trademark-infringement/"
     ]
   ],
   [
@@ -251,22 +251,22 @@
   ],
   [
     [
-      "2026-05-03, 22:13:20",
-      "https://news.ycombinator.com/item?id=48002136"
-    ],
-    [
-      "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro",
-      "https://github.com/aattaran/deepclaude"
-    ]
-  ],
-  [
-    [
       "2026-05-03, 18:03:14",
       "https://news.ycombinator.com/item?id=47999636"
     ],
     [
       "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
       "https://partyon.xyz/@nullagent/116499715071759135"
+    ]
+  ],
+  [
+    [
+      "2026-05-02, 12:48:01",
+      "https://news.ycombinator.com/item?id=47985958"
+    ],
+    [
+      "Show HN: nfsdiag - a NFS diagnostic application",
+      "https://github.com/lsferreira42/nfsdiag"
     ]
   ],
   [
