@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-05-04, 04:43:36",
+      "https://news.ycombinator.com/item?id=48004734"
+    ],
+    [
+      "Stitch Together Lots of Little HTML Pages with Navigations for Interactions",
+      "https://blog.jim-nielsen.com/2026/small-html-pages/"
+    ]
+  ],
+  [
+    [
+      "2026-05-04, 03:42:09",
+      "https://news.ycombinator.com/item?id=48004380"
+    ],
+    [
+      "Humanoid Robot Actuators",
+      "https://www.firgelli.com/pages/humanoid-robot-actuators"
+    ]
+  ],
+  [
+    [
       "2026-05-03, 23:59:02",
       "https://news.ycombinator.com/item?id=48002938"
     ],
@@ -31,21 +51,11 @@
   ],
   [
     [
-      "2026-05-03, 22:52:07",
-      "https://news.ycombinator.com/item?id=48002442"
-    ],
-    [
-      "Agentic Coding Is a Trap",
-      "https://larsfaye.com/articles/agentic-coding-is-a-trap"
-    ]
-  ],
-  [
-    [
       "2026-05-03, 22:13:20",
       "https://news.ycombinator.com/item?id=48002136"
     ],
     [
-      "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper",
+      "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro",
       "https://github.com/aattaran/deepclaude"
     ]
   ],
@@ -57,16 +67,6 @@
     [
       "Introduction to Atom",
       "https://validator.w3.org/feed/docs/atom.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-03, 19:31:35",
-      "https://news.ycombinator.com/item?id=48000507"
-    ],
-    [
-      "Make your own microforest (2025)",
-      "https://ambrook.com/offrange/environment/a-forest-in-your-pocket"
     ]
   ],
   [
@@ -91,22 +91,22 @@
   ],
   [
     [
+      "2026-05-03, 18:05:28",
+      "https://news.ycombinator.com/item?id=47999656"
+    ],
+    [
+      "Show HN: Ableton Live MCP",
+      "https://github.com/bschoepke/ableton-live-mcp"
+    ]
+  ],
+  [
+    [
       "2026-05-03, 18:03:14",
       "https://news.ycombinator.com/item?id=47999636"
     ],
     [
       "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
       "https://partyon.xyz/@nullagent/116499715071759135"
-    ]
-  ],
-  [
-    [
-      "2026-05-03, 17:51:58",
-      "https://news.ycombinator.com/item?id=47999520"
-    ],
-    [
-      "LLMs Are Not a Higher Level of Abstraction",
-      "https://www.lelanthran.com/chap15/content.html"
     ]
   ],
   [
@@ -191,22 +191,42 @@
   ],
   [
     [
-      "2026-05-01, 18:33:36",
-      "https://news.ycombinator.com/item?id=47978324"
-    ],
-    [
-      "First Tesla Semi Rolls Off High-Volume Production Line",
-      "https://electrek.co/2026/04/29/tesla-semi-first-truck-high-volume-production-line/"
-    ]
-  ],
-  [
-    [
       "2026-05-01, 18:07:28",
       "https://news.ycombinator.com/item?id=47977990"
     ],
     [
       "Using \"underdrawings\" for accurate text and numbers",
       "https://samcollins.blog/underdrawings/"
+    ]
+  ],
+  [
+    [
+      "2026-05-01, 17:29:53",
+      "https://news.ycombinator.com/item?id=47977510"
+    ],
+    [
+      "Roger Sweet, Creator of the He-Man Action Figure, Dies at 91",
+      "https://www.nytimes.com/2026/04/29/arts/roger-sweet-dead-he-man.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-01, 15:42:32",
+      "https://news.ycombinator.com/item?id=47976081"
+    ],
+    [
+      "A Treasure Trove of Fossils Rewrites the Story of Early Life",
+      "https://www.quantamagazine.org/a-treasure-trove-of-cambrian-fossils-rewrites-the-story-of-early-life-20260501/"
+    ]
+  ],
+  [
+    [
+      "2026-05-01, 14:24:27",
+      "https://news.ycombinator.com/item?id=47975166"
+    ],
+    [
+      "Fun with polynomials and linear algebra; or, slight abstract nonsense",
+      "https://guille.site/posts/abstract-nonsense/"
     ]
   ],
   [
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2026-05-01, 08:20:03",
-      "https://news.ycombinator.com/item?id=47972392"
-    ],
-    [
-      "Lost in translation: The linguistic challenges facing N. Korean defectors (2025)",
-      "https://www.dailynk.com/english/lost-in-translation-the-linguistic-challenges-facing-n-korean-defectors/"
-    ]
-  ],
-  [
-    [
       "2026-05-01, 01:48:15",
       "https://news.ycombinator.com/item?id=47970497"
     ],
@@ -265,7 +275,7 @@
       "https://news.ycombinator.com/item?id=47968187"
     ],
     [
-      "Discovering Hard Disk Physical Geometry Through Microbenchmarking (2019)",
+      "Discovering hard disk physical geometry through microbenchmarking (2019)",
       "https://blog.stuffedcow.net/2019/09/hard-disk-geometry-microbenchmarking/"
     ]
   ],
@@ -277,16 +287,6 @@
     [
       "Tar Files Created on macOS Display Errors When Extracting on Linux (2024)",
       "https://aruljohn.com/blog/macos-created-tar-files-linux-errors/"
-    ]
-  ],
-  [
-    [
-      "2026-04-29, 02:42:46",
-      "https://news.ycombinator.com/item?id=47943632"
-    ],
-    [
-      "I built my own hair electrolysis machine",
-      "https://www.scd31.com/posts/diy-hair-electrolysis-machine"
     ]
   ],
   [
