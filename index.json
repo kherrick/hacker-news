@@ -1,22 +1,22 @@
 [
   [
     [
+      "2026-05-04, 20:11:53",
+      "https://news.ycombinator.com/item?id=48014325"
+    ],
+    [
+      "Formatting a 25M-line codebase overnight",
+      "https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story"
+    ]
+  ],
+  [
+    [
       "2026-05-04, 19:42:47",
       "https://news.ycombinator.com/item?id=48013919"
     ],
     [
       "How OpenAI delivers low-latency voice AI at scale",
       "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/"
-    ]
-  ],
-  [
-    [
-      "2026-05-04, 19:18:22",
-      "https://news.ycombinator.com/item?id=48013608"
-    ],
-    [
-      "White House Considers Vetting A.I. Models Before They Are Released",
-      "https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html"
     ]
   ],
   [
@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=48012162"
     ],
     [
-      "Securing a DoD Contractor: Finding a Multi-Tenant Authorization Vulnerability",
+      "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
       "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup"
     ]
   ],
@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=48011980"
     ],
     [
-      "'Kitten Space Agency', the Spiritual Successor to 'Kerbal Space Program' (2025)",
+      "“Kitten Space Agency”, a Spiritual Successor to “Kerbal Space Program” (2025)",
       "https://www.space.com/entertainment/space-games/kitten-space-agency-is-the-spiritual-successor-to-kerbal-space-program-and-they-have-an-ex-spacex-engineer-on-the-team-interview"
     ]
   ],
@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=48011904"
     ],
     [
-      "Let's Talk about LLMs",
+      "Let's talk about LLMs",
       "https://www.b-list.org/weblog/2026/apr/09/llms/"
     ]
   ],
@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2026-05-04, 16:59:28",
+      "https://news.ycombinator.com/item?id=48011440"
+    ],
+    [
+      "The Visible Zorker: Zork 3",
+      "https://eblong.com/infocom/visi/zork3/"
+    ]
+  ],
+  [
+    [
       "2026-05-04, 16:45:00",
       "https://news.ycombinator.com/item?id=48011184"
     ],
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2026-05-04, 15:47:27",
-      "https://news.ycombinator.com/item?id=48010208"
-    ],
-    [
-      "Alberta voter list leak is a potential public safety disaster",
-      "https://globalnews.ca/news/11828244/alberta-voter-list-leak-public-safety-disaster/"
-    ]
-  ],
-  [
-    [
       "2026-05-04, 15:32:46",
       "https://news.ycombinator.com/item?id=48009983"
     ],
@@ -175,7 +175,7 @@
       "https://news.ycombinator.com/item?id=48009747"
     ],
     [
-      "UK Fuel Price Intelligence",
+      "UK Fuel Price Intelligence – Market analytics from reporting stations",
       "https://www.fuelinsight.co.uk"
     ]
   ],
@@ -205,7 +205,7 @@
       "https://news.ycombinator.com/item?id=48009020"
     ],
     [
-      "How Monero's proof of work works",
+      "How Monero’s proof of work works",
       "https://blog.alcazarsec.com/tech/posts/how-moneros-proof-of-work-works"
     ]
   ],
@@ -217,16 +217,6 @@
     [
       "Newton's law of gravity passes its biggest test",
       "https://www.science.org/content/article/newton-s-law-gravity-passes-its-biggest-test-ever"
-    ]
-  ],
-  [
-    [
-      "2026-05-04, 12:32:00",
-      "https://news.ycombinator.com/item?id=48007880"
-    ],
-    [
-      "DAG Workflow Engine",
-      "https://github.com/vivekg13186/Daisy-DAG"
     ]
   ],
   [
@@ -261,11 +251,31 @@
   ],
   [
     [
+      "2026-05-02, 21:23:11",
+      "https://news.ycombinator.com/item?id=47990695"
+    ],
+    [
+      "Frizbee is a tool you may throw a tag at and it comes back with a checksum",
+      "https://github.com/stacklok/frizbee"
+    ]
+  ],
+  [
+    [
+      "2026-05-02, 16:58:39",
+      "https://news.ycombinator.com/item?id=47988130"
+    ],
+    [
+      "A little comparison between R and Kap",
+      "https://blog.dhsdevelopments.com/a-little-comparison-between-r-and-kap"
+    ]
+  ],
+  [
+    [
       "2026-05-02, 12:48:01",
       "https://news.ycombinator.com/item?id=47985958"
     ],
     [
-      "Show HN: nfsdiag - a NFS diagnostic application",
+      "Show HN: nfsdiag – A NFS diagnostic application",
       "https://github.com/lsferreira42/nfsdiag"
     ]
   ],
@@ -277,16 +287,6 @@
     [
       "Why are neural networks and cryptographic ciphers so similar? (2025)",
       "https://reiner.org/neural-net-ciphers"
-    ]
-  ],
-  [
-    [
-      "2026-05-02, 04:34:40",
-      "https://news.ycombinator.com/item?id=47983333"
-    ],
-    [
-      "Texico: Learn the principles of programming without even touching a computer",
-      "https://www3.nhk.or.jp/nhkworld/en/shows/texico/"
     ]
   ],
   [
