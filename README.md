@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-05-04, 21:19:35](https://news.ycombinator.com/item?id=48015146) - [Welcome to Gas City](https://steve-yegge.medium.com/welcome-to-gas-city-57f564bb3607)
+* [2026-05-04, 21:40:42](https://news.ycombinator.com/item?id=48015397) - [Agent Skills](https://addyosmani.com/blog/agent-skills/)
+* [2026-05-04, 21:25:55](https://news.ycombinator.com/item?id=48015218) - ['Point of no return': New Orleans relocation must start now due to sea level](https://www.theguardian.com/us-news/2026/may/04/new-orleans-sea-levels-relocation-climate-crisis)
 * [2026-05-04, 21:14:38](https://news.ycombinator.com/item?id=48015097) - [Pulitzer Prize Winners 2026](https://www.pulitzer.org/prize-winners-by-year/2026)
 * [2026-05-04, 20:11:53](https://news.ycombinator.com/item?id=48014325) - [Formatting a 25M-line codebase overnight](https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story)
 * [2026-05-04, 20:03:08](https://news.ycombinator.com/item?id=48014197) - [Transformers Are Inherently Succinct](https://arxiv.org/abs/2510.19315)
@@ -26,10 +27,9 @@
 * [2026-05-04, 11:41:02](https://news.ycombinator.com/item?id=48007438) - [Talking to strangers at the gym](https://thienantran.com/talking-to-35-strangers-at-the-gym/)
 * [2026-05-04, 09:31:12](https://news.ycombinator.com/item?id=48006402) - [GameStop makes $55.5B takeover offer for eBay](https://www.bbc.co.uk/news/articles/cn0p8yled1do)
 * [2026-05-03, 15:49:33](https://news.ycombinator.com/item?id=47998158) - [Testing macOS on the Apple Network Server 2.0 ROMs](http://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html)
-* [2026-05-02, 21:23:11](https://news.ycombinator.com/item?id=47990695) - [Frizbee is a tool you may throw a tag at and it comes back with a checksum](https://github.com/stacklok/frizbee)
 * [2026-05-02, 16:58:39](https://news.ycombinator.com/item?id=47988130) - [A little comparison between R and Kap](https://blog.dhsdevelopments.com/a-little-comparison-between-r-and-kap)
 * [2026-05-02, 12:48:01](https://news.ycombinator.com/item?id=47985958) - [Show HN: nfsdiag – A NFS diagnostic application](https://github.com/lsferreira42/nfsdiag)
-* [2026-05-02, 05:00:12](https://news.ycombinator.com/item?id=47983467) - [Why are neural networks and cryptographic ciphers so similar? (2025)](https://reiner.org/neural-net-ciphers)
+* [2026-05-01, 18:07:28](https://news.ycombinator.com/item?id=47977990) - [Using “underdrawings” for accurate text and numbers](https://samcollins.blog/underdrawings/)
 
 ## [Archives](archives/index.md)
 

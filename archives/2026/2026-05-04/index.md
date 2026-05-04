@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-04](index.md)
 
+* [2026-05-04, 21:40:42](https://news.ycombinator.com/item?id=48015397) - [Agent Skills](https://addyosmani.com/blog/agent-skills/)
+* [2026-05-04, 21:25:55](https://news.ycombinator.com/item?id=48015218) - ['Point of no return': New Orleans relocation must start now due to sea level](https://www.theguardian.com/us-news/2026/may/04/new-orleans-sea-levels-relocation-climate-crisis)
 * [2026-05-04, 21:19:35](https://news.ycombinator.com/item?id=48015146) - [Welcome to Gas City](https://steve-yegge.medium.com/welcome-to-gas-city-57f564bb3607)
 * [2026-05-04, 21:14:38](https://news.ycombinator.com/item?id=48015097) - [Pulitzer Prize Winners 2026](https://www.pulitzer.org/prize-winners-by-year/2026)
 * [2026-05-04, 20:11:53](https://news.ycombinator.com/item?id=48014325) - [Formatting a 25M-line codebase overnight](https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story)
