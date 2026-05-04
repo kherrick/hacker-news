@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-05-04](index.md)
 
+* [2026-05-04, 14:23:07](https://news.ycombinator.com/item?id=48009172) - [Redis array: short story of a long development process](https://antirez.com/news/164)
+* [2026-05-04, 14:10:50](https://news.ycombinator.com/item?id=48009020) - [How Monero's proof of work works](https://blog.alcazarsec.com/tech/posts/how-moneros-proof-of-work-works)
+* [2026-05-04, 13:13:52](https://news.ycombinator.com/item?id=48008326) - [Someone allegedly used a hairdryer to rig Polymarket weather bets](https://www.engadget.com/big-tech/someone-allegedly-used-a-hairdryer-to-rig-polymarket-weather-bets-155312411.html)
+* [2026-05-04, 12:53:46](https://news.ycombinator.com/item?id=48008083) - [PyInfra 3.8.0 Is Out](https://github.com/pyinfra-dev/pyinfra/releases/tag/v3.8.0)
+* [2026-05-04, 12:52:57](https://news.ycombinator.com/item?id=48008074) - [Newton's law of gravity passes its biggest test](https://www.science.org/content/article/newton-s-law-gravity-passes-its-biggest-test-ever)
+* [2026-05-04, 11:49:16](https://news.ycombinator.com/item?id=48007503) - [Why Almost Everyone Loses–Except a Few Sharks–On Prediction Markets](https://www.wsj.com/finance/investing/polymarket-kalshi-betting-profits-prediction-markets-eb23ac11)
 * [2026-05-04, 11:41:02](https://news.ycombinator.com/item?id=48007438) - [Talking to 35 Strangers at the Gym](https://thienantran.com/talking-to-35-strangers-at-the-gym/)
 * [2026-05-04, 11:08:22](https://news.ycombinator.com/item?id=48007145) - [ASML's Best Selling Product Isn't What You Think It Is](https://www.siliconimist.com/p/asmls-best-selling-product)
 * [2026-05-04, 09:40:06](https://news.ycombinator.com/item?id=48006445) - [Trademark violation: Fake Notepad++ for Mac](https://notepad-plus-plus.org/news/npp-trademark-infringement/)
