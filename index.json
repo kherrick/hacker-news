@@ -1,12 +1,152 @@
 [
   [
     [
+      "2026-05-05, 16:14:17",
+      "https://news.ycombinator.com/item?id=48024540"
+    ],
+    [
+      "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
+      "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/"
+    ]
+  ],
+  [
+    [
+      "2026-05-05, 16:03:17",
+      "https://news.ycombinator.com/item?id=48024364"
+    ],
+    [
+      "UK: Two millionth electric car registered as market rebounds strongly",
+      "https://www.smmt.co.uk/two-millionth-electric-car-registered-as-market-rebounds-strongly-from-tax-changes/"
+    ]
+  ],
+  [
+    [
+      "2026-05-05, 15:49:34",
+      "https://news.ycombinator.com/item?id=48024160"
+    ],
+    [
+      "Instagram Encrypted Messaging Ends on Friday, May 8",
+      "https://www.macrumors.com/2026/05/05/psa-instagram-encrypted-messaging-ends-may-8/"
+    ]
+  ],
+  [
+    [
+      "2026-05-05, 15:47:18",
+      "https://news.ycombinator.com/item?id=48024129"
+    ],
+    [
+      "EEVblog: The 555 Timer is 55 years old",
+      "https://www.youtube.com/watch?v=6JhK8iCQuqI"
+    ]
+  ],
+  [
+    [
+      "2026-05-05, 15:27:18",
+      "https://news.ycombinator.com/item?id=48023861"
+    ],
+    [
+      "Three Inverse Laws of AI",
+      "https://susam.net/inverse-laws-of-robotics.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-05, 15:15:55",
+      "https://news.ycombinator.com/item?id=48023691"
+    ],
+    [
+      "New Landing Page for Awesome PaaS",
+      "https://debarshibasak.github.io/awesome-paas/"
+    ]
+  ],
+  [
+    [
+      "2026-05-05, 15:09:28",
+      "https://news.ycombinator.com/item?id=48023587"
+    ],
+    [
+      "Show HN: A Mutating Webhook to automatically strip PII from K8s logs",
+      "https://github.com/aragossa/pii-shield"
+    ]
+  ],
+  [
+    [
+      "2026-05-05, 15:05:47",
+      "https://news.ycombinator.com/item?id=48023533"
+    ],
+    [
+      "Agents for financial services and insurance",
+      "https://www.anthropic.com/news/finance-agents"
+    ]
+  ],
+  [
+    [
+      "2026-05-05, 15:03:18",
+      "https://news.ycombinator.com/item?id=48023496"
+    ],
+    [
+      "Show HN: Airbyte Agents – context for agents across multiple data sources",
+      "https://news.ycombinator.com/item?id=48023496"
+    ]
+  ],
+  [
+    [
+      "2026-05-05, 14:21:18",
+      "https://news.ycombinator.com/item?id=48022900"
+    ],
+    [
+      "Incident with Actions",
+      "https://www.githubstatus.com/incidents/1j40g94rn22j"
+    ]
+  ],
+  [
+    [
+      "2026-05-05, 14:07:50",
+      "https://news.ycombinator.com/item?id=48022742"
+    ],
+    [
+      "AI didn't delete your database, you did",
+      "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did"
+    ]
+  ],
+  [
+    [
+      "2026-05-05, 13:55:45",
+      "https://news.ycombinator.com/item?id=48022596"
+    ],
+    [
+      "Simple Meta-Harness on Islo.dev",
+      "https://zozo123.github.io/meta-harness-on-islo-page/"
+    ]
+  ],
+  [
+    [
+      "2026-05-05, 13:00:47",
+      "https://news.ycombinator.com/item?id=48021968"
+    ],
+    [
+      "AI Product Graveyard",
+      "https://tooldirectory.ai/ai-graveyard"
+    ]
+  ],
+  [
+    [
       "2026-05-05, 12:28:28",
       "https://news.ycombinator.com/item?id=48021561"
     ],
     [
       "iOS 27 is adding a 'Create a Pass' button to Apple Wallet",
       "https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/"
+    ]
+  ],
+  [
+    [
+      "2026-05-05, 12:14:17",
+      "https://news.ycombinator.com/item?id=48021420"
+    ],
+    [
+      "Show HN: I built a new word game, Wordtrak",
+      "https://wordtrak.com/blog/2026-05-05-I-built-a-new-word-game"
     ]
   ],
   [
@@ -31,16 +171,6 @@
   ],
   [
     [
-      "2026-05-05, 07:26:18",
-      "https://news.ycombinator.com/item?id=48019165"
-    ],
-    [
-      "The Frog for Whom the Bell Tolls",
-      "https://sethmlarson.dev/the-frog-for-whom-the-bell-tolls"
-    ]
-  ],
-  [
-    [
       "2026-05-05, 07:26:03",
       "https://news.ycombinator.com/item?id=48019163"
     ],
@@ -61,42 +191,12 @@
   ],
   [
     [
-      "2026-05-05, 04:36:24",
-      "https://news.ycombinator.com/item?id=48018080"
-    ],
-    [
-      "Kids bypass age verification with fake moustaches",
-      "https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/"
-    ]
-  ],
-  [
-    [
       "2026-05-05, 04:33:22",
       "https://news.ycombinator.com/item?id=48018066"
     ],
     [
       "Empty Screenings – Finds AMC movie screenings with few or no tickets sold",
       "https://walzr.com/empty-screenings"
-    ]
-  ],
-  [
-    [
-      "2026-05-05, 04:27:32",
-      "https://news.ycombinator.com/item?id=48018034"
-    ],
-    [
-      "2-D Mathematical Curves",
-      "https://www.2dcurves.com/"
-    ]
-  ],
-  [
-    [
-      "2026-05-05, 04:09:17",
-      "https://news.ycombinator.com/item?id=48017948"
-    ],
-    [
-      "Train Your Own LLM from Scratch",
-      "https://github.com/angelos-p/llm-from-scratch"
     ]
   ],
   [
@@ -121,56 +221,6 @@
   ],
   [
     [
-      "2026-05-05, 03:09:56",
-      "https://news.ycombinator.com/item?id=48017641"
-    ],
-    [
-      "Biscuit",
-      "https://github.com/yattsu/biscuit"
-    ]
-  ],
-  [
-    [
-      "2026-05-05, 01:08:17",
-      "https://news.ycombinator.com/item?id=48016880"
-    ],
-    [
-      "Bun is being ported from Zig to Rust",
-      "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5"
-    ]
-  ],
-  [
-    [
-      "2026-05-04, 21:40:42",
-      "https://news.ycombinator.com/item?id=48015397"
-    ],
-    [
-      "Agent Skills",
-      "https://addyosmani.com/blog/agent-skills/"
-    ]
-  ],
-  [
-    [
-      "2026-05-04, 20:56:19",
-      "https://news.ycombinator.com/item?id=48014868"
-    ],
-    [
-      "When networking doesn't work",
-      "https://www.os2museum.com/wp/when-networking-doesnt-work/"
-    ]
-  ],
-  [
-    [
-      "2026-05-04, 20:11:53",
-      "https://news.ycombinator.com/item?id=48014325"
-    ],
-    [
-      "Formatting a 25M-line codebase overnight",
-      "https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story"
-    ]
-  ],
-  [
-    [
       "2026-05-04, 19:42:47",
       "https://news.ycombinator.com/item?id=48013919"
     ],
@@ -181,82 +231,22 @@
   ],
   [
     [
-      "2026-05-04, 17:46:32",
-      "https://news.ycombinator.com/item?id=48012162"
+      "2026-05-03, 04:06:08",
+      "https://news.ycombinator.com/item?id=47993240"
     ],
     [
-      "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
-      "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup"
+      "Comparing the Z80 and 6502 to Their Relatives",
+      "https://bumbershootsoft.wordpress.com/2026/05/02/comparing-the-z80-and-6502-to-their-relatives/"
     ]
   ],
   [
     [
-      "2026-05-04, 15:32:46",
-      "https://news.ycombinator.com/item?id=48009983"
+      "2026-05-03, 03:54:47",
+      "https://news.ycombinator.com/item?id=47993181"
     ],
     [
-      "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
-      "https://www.nber.org/papers/w35117"
-    ]
-  ],
-  [
-    [
-      "2026-05-04, 15:22:53",
-      "https://news.ycombinator.com/item?id=48009840"
-    ],
-    [
-      "1966 Ford Mustang Converted into a Tesla with Working 'Full Self-Driving'",
-      "https://electrek.co/2026/05/02/tesla-1966-mustang-ev-conversion-full-self-driving/"
-    ]
-  ],
-  [
-    [
-      "2026-05-04, 14:23:07",
-      "https://news.ycombinator.com/item?id=48009172"
-    ],
-    [
-      "Redis array: short story of a long development process",
-      "https://antirez.com/news/164"
-    ]
-  ],
-  [
-    [
-      "2026-05-04, 11:41:02",
-      "https://news.ycombinator.com/item?id=48007438"
-    ],
-    [
-      "Talking to strangers at the gym",
-      "https://thienantran.com/talking-to-35-strangers-at-the-gym/"
-    ]
-  ],
-  [
-    [
-      "2026-05-04, 09:31:31",
-      "https://news.ycombinator.com/item?id=48006403"
-    ],
-    [
-      "Setting up server monitoring for a Rails app on Hatchbox",
-      "https://blog.appsignal.com/2026/04/30/setting-up-server-monitoring-for-a-rails-app-on-hatchbox.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-03, 23:53:05",
-      "https://news.ycombinator.com/item?id=48002890"
-    ],
-    [
-      "Why I Created phpc.tv",
-      "https://afilina.com/why-phpc-tv"
-    ]
-  ],
-  [
-    [
-      "2026-05-03, 05:17:25",
-      "https://news.ycombinator.com/item?id=47993585"
-    ],
-    [
-      "Mouse Pointer as a Mere Mortal",
-      "https://unsung.aresluna.org/mouse-pointer-as-a-mere-mortal/"
+      "The first photo published in a newspaper",
+      "https://phsne.org/the-first-photograph-published-in-a-newspaper-1848/"
     ]
   ],
   [
@@ -271,12 +261,12 @@
   ],
   [
     [
-      "2026-05-02, 17:25:43",
-      "https://news.ycombinator.com/item?id=47988439"
+      "2026-05-02, 15:52:27",
+      "https://news.ycombinator.com/item?id=47987463"
     ],
     [
-      "pgxbackup: Continuity Support for pgBackRest",
-      "https://thebuild.com/blog/2026/05/01/pgxbackup-continuity-support-for-pgbackrest/"
+      "Did I photograph the Aurora or was it something else? (2016)",
+      "https://wp.lancs.ac.uk/aurorawatchuk/2016/03/16/did-i-photgraph-the-aurora-or-was-it-something-else/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "sRGB profile comparison",
       "https://ninedegreesbelow.com/photography/srgb-profile-comparison.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-02, 13:41:43",
+      "https://news.ycombinator.com/item?id=47986331"
+    ],
+    [
+      "Docker 29 has changed its default image store for new installs",
+      "https://docs.docker.com/engine/storage/containerd"
     ]
   ],
   [
