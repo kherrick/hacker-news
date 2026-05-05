@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-05-05](index.md)
 
+* [2026-05-05, 20:16:35](https://news.ycombinator.com/item?id=48027897) - [.de TLD offline due to DNSSEC?](https://dnssec-analyzer.verisignlabs.com/nic.de)
 * [2026-05-05, 19:05:18](https://news.ycombinator.com/item?id=48027022) - [What five years of data tells us about lasting relationships](https://hanker.dating/study)
 * [2026-05-05, 18:13:47](https://news.ycombinator.com/item?id=48026349) - [California farmers to destroy 420k peach trees following Del Monte bankruptcy](https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php)
 * [2026-05-05, 18:13:14](https://news.ycombinator.com/item?id=48026342) - [Show HN: Explore color palettes inspired by 3000 master painter artworks](https://paletteinspiration.com/)
+* [2026-05-05, 18:04:25](https://news.ycombinator.com/item?id=48026207) - [Zuckerberg 'Personally Authorized and Encouraged' Meta's Copyright Infringement](https://variety.com/2026/digital/news/meta-ai-mark-zuckerberg-copyright-infringement-lawsuit-publishers-scott-turow-1236738383/)
 * [2026-05-05, 18:04:20](https://news.ycombinator.com/item?id=48026206) - [Clarification on the Notepad++ Trademark Issue](https://notepad-plus-plus.org/news/clarify-npp-trademark-infringement/)
 * [2026-05-05, 17:52:31](https://news.ycombinator.com/item?id=48026021) - [GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents](https://arxiv.org/abs/2604.26752)
 * [2026-05-05, 17:38:17](https://news.ycombinator.com/item?id=48025828) - [Quantum Key Distribution (QKD) and Quantum Cryptography (QC)](https://www.nsa.gov/Cybersecurity/Quantum-Key-Distribution-QKD-and-Quantum-Cryptography-QC/)
