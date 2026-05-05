@@ -1,6 +1,66 @@
 [
   [
     [
+      "2026-05-05, 04:36:24",
+      "https://news.ycombinator.com/item?id=48018080"
+    ],
+    [
+      "Kids bypass age verification with fake moustaches",
+      "https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/"
+    ]
+  ],
+  [
+    [
+      "2026-05-05, 04:33:22",
+      "https://news.ycombinator.com/item?id=48018066"
+    ],
+    [
+      "About 10% of AMC movie showings sell zero tickets. This site finds them",
+      "https://walzr.com/empty-screenings"
+    ]
+  ],
+  [
+    [
+      "2026-05-05, 04:27:32",
+      "https://news.ycombinator.com/item?id=48018034"
+    ],
+    [
+      "2-D Mathematical Curves",
+      "https://www.2dcurves.com/"
+    ]
+  ],
+  [
+    [
+      "2026-05-05, 04:09:17",
+      "https://news.ycombinator.com/item?id=48017948"
+    ],
+    [
+      "Train Your Own LLM from Scratch",
+      "https://github.com/angelos-p/llm-from-scratch"
+    ]
+  ],
+  [
+    [
+      "2026-05-05, 04:02:01",
+      "https://news.ycombinator.com/item?id=48017907"
+    ],
+    [
+      "Hand Drawn QR Codes",
+      "https://sethmlarson.dev/hand-drawn-qr-codes"
+    ]
+  ],
+  [
+    [
+      "2026-05-05, 03:43:08",
+      "https://news.ycombinator.com/item?id=48017813"
+    ],
+    [
+      "CVE-2026-31431: Copy Fail vs. rootless containers",
+      "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/"
+    ]
+  ],
+  [
+    [
       "2026-05-05, 02:22:21",
       "https://news.ycombinator.com/item?id=48017399"
     ],
@@ -81,16 +141,6 @@
   ],
   [
     [
-      "2026-05-04, 20:03:08",
-      "https://news.ycombinator.com/item?id=48014197"
-    ],
-    [
-      "Transformers Are Inherently Succinct (2025)",
-      "https://arxiv.org/abs/2510.19315"
-    ]
-  ],
-  [
-    [
       "2026-05-04, 19:42:47",
       "https://news.ycombinator.com/item?id=48013919"
     ],
@@ -121,52 +171,12 @@
   ],
   [
     [
-      "2026-05-04, 17:16:36",
-      "https://news.ycombinator.com/item?id=48011689"
-    ],
-    [
-      "US healthcare marketplaces shared citizenship and race data with ad tech giants",
-      "https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/"
-    ]
-  ],
-  [
-    [
-      "2026-05-04, 17:10:57",
-      "https://news.ycombinator.com/item?id=48011603"
-    ],
-    [
-      "Stop big tech from making users behave in ways they don't want to",
-      "https://economist.com/by-invitation/2026/04/29/stop-big-tech-from-making-users-behave-in-ways-they-dont-want-to"
-    ]
-  ],
-  [
-    [
-      "2026-05-04, 16:59:28",
-      "https://news.ycombinator.com/item?id=48011440"
-    ],
-    [
-      "The Visible Zorker: Zork 3",
-      "https://eblong.com/infocom/visi/zork3/"
-    ]
-  ],
-  [
-    [
       "2026-05-04, 16:45:00",
       "https://news.ycombinator.com/item?id=48011184"
     ],
     [
       "I am worried about Bun",
       "https://wwj.dev/posts/i-am-worried-about-bun/"
-    ]
-  ],
-  [
-    [
-      "2026-05-04, 15:51:37",
-      "https://news.ycombinator.com/item?id=48010266"
-    ],
-    [
-      "Sierra Raises $950M at $15B Valuation",
-      "https://sierra.ai/blog/better-customer-experiences-built-on-sierra"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "1966 Ford Mustang Converted into a Tesla with Working 'Full Self-Driving'",
       "https://electrek.co/2026/05/02/tesla-1966-mustang-ev-conversion-full-self-driving/"
-    ]
-  ],
-  [
-    [
-      "2026-05-04, 15:15:21",
-      "https://news.ycombinator.com/item?id=48009747"
-    ],
-    [
-      "UK Fuel Price Intelligence – Market analytics from reporting stations",
-      "https://www.fuelinsight.co.uk"
     ]
   ],
   [
@@ -227,6 +227,16 @@
     [
       "How Monero’s proof of work works",
       "https://blog.alcazarsec.com/tech/posts/how-moneros-proof-of-work-works"
+    ]
+  ],
+  [
+    [
+      "2026-05-04, 12:55:16",
+      "https://news.ycombinator.com/item?id=48008104"
+    ],
+    [
+      "Gaps in national food production, worldwide",
+      "https://www.nature.com/articles/s43016-025-01173-4"
     ]
   ],
   [
@@ -271,16 +281,6 @@
   ],
   [
     [
-      "2026-05-02, 21:07:41",
-      "https://news.ycombinator.com/item?id=47990528"
-    ],
-    [
-      "Show HN: I Built a Museum Exhibit",
-      "https://knhash.in/built-an-exhibit/"
-    ]
-  ],
-  [
-    [
       "2026-05-02, 17:25:43",
       "https://news.ycombinator.com/item?id=47988439"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-05-02, 12:48:01",
-      "https://news.ycombinator.com/item?id=47985958"
+      "2026-05-02, 16:21:53",
+      "https://news.ycombinator.com/item?id=47987738"
     ],
     [
-      "Show HN: nfsdiag – A NFS diagnostic application",
-      "https://github.com/lsferreira42/nfsdiag"
+      "18th-century mechanical volcano roars to life 250 years later",
+      "https://www.sciencedaily.com/releases/2026/05/260502015359.htm"
     ]
   ]
 ]
