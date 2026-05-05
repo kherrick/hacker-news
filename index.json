@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-05-05, 07:34:55",
+      "https://news.ycombinator.com/item?id=48019219"
+    ],
+    [
+      "Google Chrome silently installs a 4 GB AI model on your device without consent",
+      "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/"
+    ]
+  ],
+  [
+    [
+      "2026-05-05, 07:26:18",
+      "https://news.ycombinator.com/item?id=48019165"
+    ],
+    [
+      "The Frog for Whom the Bell Tolls",
+      "https://sethmlarson.dev/the-frog-for-whom-the-bell-tolls"
+    ]
+  ],
+  [
+    [
+      "2026-05-05, 07:26:03",
+      "https://news.ycombinator.com/item?id=48019163"
+    ],
+    [
+      "Async Rust never left the MVP state",
+      "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state"
+    ]
+  ],
+  [
+    [
+      "2026-05-05, 07:05:25",
+      "https://news.ycombinator.com/item?id=48019025"
+    ],
+    [
+      "Lessons for Agentic Coding: What should we do when code is cheap?",
+      "https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html"
+    ]
+  ],
+  [
+    [
       "2026-05-05, 04:36:24",
       "https://news.ycombinator.com/item?id=48018080"
     ],
@@ -61,22 +101,12 @@
   ],
   [
     [
-      "2026-05-05, 02:22:21",
-      "https://news.ycombinator.com/item?id=48017399"
+      "2026-05-05, 03:09:56",
+      "https://news.ycombinator.com/item?id=48017641"
     ],
     [
-      "Pulitzer Prize Winner in International Reporting",
-      "https://www.pulitzer.org/winners/dake-kang-garance-burke-byron-tau-aniruddha-ghosal-and-yael-grauer-contributor-associated"
-    ]
-  ],
-  [
-    [
-      "2026-05-05, 02:08:21",
-      "https://news.ycombinator.com/item?id=48017298"
-    ],
-    [
-      "What I'm Hearing About Cognitive Debt (So Far)",
-      "https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/"
+      "Biscuit",
+      "https://github.com/yattsu/biscuit"
     ]
   ],
   [
@@ -105,7 +135,7 @@
       "https://news.ycombinator.com/item?id=48016534"
     ],
     [
-      "Y Combinator's Stake in OpenAI (0.6%)",
+      "Y Combinator's Stake in OpenAI (0.6%?)",
       "https://daringfireball.net/2026/05/y_combinators_stake_in_openai"
     ]
   ],
@@ -127,16 +157,6 @@
     [
       "When Networking Doesn't Work",
       "https://www.os2museum.com/wp/when-networking-doesnt-work/"
-    ]
-  ],
-  [
-    [
-      "2026-05-04, 20:11:53",
-      "https://news.ycombinator.com/item?id=48014325"
-    ],
-    [
-      "Formatting a 25M-line codebase overnight",
-      "https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story"
     ]
   ],
   [
@@ -201,32 +221,12 @@
   ],
   [
     [
-      "2026-05-04, 14:47:41",
-      "https://news.ycombinator.com/item?id=48009441"
-    ],
-    [
-      "Pomiferous: The most extensive apples (pommes) database",
-      "https://pomiferous.com/"
-    ]
-  ],
-  [
-    [
       "2026-05-04, 14:23:07",
       "https://news.ycombinator.com/item?id=48009172"
     ],
     [
       "Redis array: short story of a long development process",
       "https://antirez.com/news/164"
-    ]
-  ],
-  [
-    [
-      "2026-05-04, 14:10:50",
-      "https://news.ycombinator.com/item?id=48009020"
-    ],
-    [
-      "How Monero’s proof of work works",
-      "https://blog.alcazarsec.com/tech/posts/how-moneros-proof-of-work-works"
     ]
   ],
   [
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2026-05-04, 09:31:12",
-      "https://news.ycombinator.com/item?id=48006402"
+      "2026-05-03, 23:53:05",
+      "https://news.ycombinator.com/item?id=48002890"
     ],
     [
-      "GameStop makes $55.5B takeover offer for eBay",
-      "https://www.bbc.co.uk/news/articles/cn0p8yled1do"
+      "Why I Created phpc.tv",
+      "https://afilina.com/why-phpc-tv"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2026-05-02, 21:03:48",
+      "https://news.ycombinator.com/item?id=47990491"
+    ],
+    [
+      "Farewell to a Giant of Botany",
+      "https://nautil.us/farewell-to-a-giant-of-botany-1280409"
+    ]
+  ],
+  [
+    [
       "2026-05-02, 17:25:43",
       "https://news.ycombinator.com/item?id=47988439"
     ],
     [
       "pgxbackup: Continuity Support for pgBackRest",
       "https://thebuild.com/blog/2026/05/01/pgxbackup-continuity-support-for-pgbackrest/"
-    ]
-  ],
-  [
-    [
-      "2026-05-02, 16:21:53",
-      "https://news.ycombinator.com/item?id=47987738"
-    ],
-    [
-      "18th-century mechanical volcano roars to life 250 years later",
-      "https://www.sciencedaily.com/releases/2026/05/260502015359.htm"
     ]
   ]
 ]
