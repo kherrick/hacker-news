@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2026-05-05, 17:38:17",
-      "https://news.ycombinator.com/item?id=48025828"
-    ],
-    [
-      "Quantum Key Distribution (QKD) and Quantum Cryptography (QC)",
-      "https://www.nsa.gov/Cybersecurity/Quantum-Key-Distribution-QKD-and-Quantum-Cryptography-QC/"
-    ]
-  ],
-  [
-    [
       "2026-05-05, 17:28:18",
       "https://news.ycombinator.com/item?id=48025687"
     ],
@@ -231,12 +221,12 @@
   ],
   [
     [
-      "2026-05-05, 07:26:03",
-      "https://news.ycombinator.com/item?id=48019163"
+      "2026-05-03, 17:39:17",
+      "https://news.ycombinator.com/item?id=47999391"
     ],
     [
-      "Async Rust never left the MVP state",
-      "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state"
+      "Collaborative Editing in CodeMirror (2020)",
+      "https://marijnhaverbeke.nl/blog/collaborative-editing-cm.html"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Comparing the Z80 and 6502 to Their Relatives",
       "https://bumbershootsoft.wordpress.com/2026/05/02/comparing-the-z80-and-6502-to-their-relatives/"
+    ]
+  ],
+  [
+    [
+      "2026-05-02, 13:41:43",
+      "https://news.ycombinator.com/item?id=47986331"
+    ],
+    [
+      "Docker 29 has changed its default image store for new installs",
+      "https://docs.docker.com/engine/storage/containerd"
     ]
   ],
   [
