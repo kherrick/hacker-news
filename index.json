@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-05-05, 17:52:31",
+      "https://news.ycombinator.com/item?id=48026021"
+    ],
+    [
+      "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
+      "https://arxiv.org/abs/2604.26752"
+    ]
+  ],
+  [
+    [
+      "2026-05-05, 17:38:17",
+      "https://news.ycombinator.com/item?id=48025828"
+    ],
+    [
+      "Quantum Key Distribution (QKD) and Quantum Cryptography (QC)",
+      "https://www.nsa.gov/Cybersecurity/Quantum-Key-Distribution-QKD-and-Quantum-Cryptography-QC/"
+    ]
+  ],
+  [
+    [
+      "2026-05-05, 17:28:18",
+      "https://news.ycombinator.com/item?id=48025687"
+    ],
+    [
+      "IBM didn't want Microsoft to use the Tab key to move between dialog fields",
+      "https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298"
+    ]
+  ],
+  [
+    [
+      "2026-05-05, 17:00:16",
+      "https://news.ycombinator.com/item?id=48025244"
+    ],
+    [
+      "Proliferate (YC S25) Is Hiring- 200k for junior engineers",
+      "https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer"
+    ]
+  ],
+  [
+    [
+      "2026-05-05, 16:34:48",
+      "https://news.ycombinator.com/item?id=48024859"
+    ],
+    [
+      "Computer Use Is 45x More Expensive Than Structured APIs",
+      "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/"
+    ]
+  ],
+  [
+    [
       "2026-05-05, 16:14:17",
       "https://news.ycombinator.com/item?id=48024540"
     ],
@@ -17,6 +67,16 @@
     [
       "UK: Two millionth electric car registered as market rebounds strongly",
       "https://www.smmt.co.uk/two-millionth-electric-car-registered-as-market-rebounds-strongly-from-tax-changes/"
+    ]
+  ],
+  [
+    [
+      "2026-05-05, 16:03:06",
+      "https://news.ycombinator.com/item?id=48024358"
+    ],
+    [
+      "I'm Scared About Biological Computing",
+      "https://kuber.studio/blog/Reflections/I%27m-Scared-About-Biological-Computing"
     ]
   ],
   [
@@ -47,26 +107,6 @@
     [
       "Three Inverse Laws of AI",
       "https://susam.net/inverse-laws-of-robotics.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-05, 15:15:55",
-      "https://news.ycombinator.com/item?id=48023691"
-    ],
-    [
-      "New Landing Page for Awesome PaaS",
-      "https://debarshibasak.github.io/awesome-paas/"
-    ]
-  ],
-  [
-    [
-      "2026-05-05, 15:09:28",
-      "https://news.ycombinator.com/item?id=48023587"
-    ],
-    [
-      "Show HN: A Mutating Webhook to automatically strip PII from K8s logs",
-      "https://github.com/aragossa/pii-shield"
     ]
   ],
   [
@@ -201,32 +241,12 @@
   ],
   [
     [
-      "2026-05-05, 04:02:01",
-      "https://news.ycombinator.com/item?id=48017907"
+      "2026-05-03, 17:39:17",
+      "https://news.ycombinator.com/item?id=47999391"
     ],
     [
-      "Hand Drawn QR Codes (2025)",
-      "https://sethmlarson.dev/hand-drawn-qr-codes"
-    ]
-  ],
-  [
-    [
-      "2026-05-05, 03:43:08",
-      "https://news.ycombinator.com/item?id=48017813"
-    ],
-    [
-      "CVE-2026-31431: Copy Fail vs. rootless containers",
-      "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/"
-    ]
-  ],
-  [
-    [
-      "2026-05-04, 19:42:47",
-      "https://news.ycombinator.com/item?id=48013919"
-    ],
-    [
-      "How OpenAI delivers low-latency voice AI at scale",
-      "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/"
+      "Collaborative Editing in CodeMirror",
+      "https://marijnhaverbeke.nl/blog/collaborative-editing-cm.html"
     ]
   ],
   [
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2026-05-02, 21:03:48",
-      "https://news.ycombinator.com/item?id=47990491"
-    ],
-    [
-      "Farewell to a Giant of Botany",
-      "https://nautil.us/farewell-to-a-giant-of-botany-1280409"
-    ]
-  ],
-  [
-    [
       "2026-05-02, 15:52:27",
       "https://news.ycombinator.com/item?id=47987463"
     ],
     [
       "Did I photograph the Aurora or was it something else? (2016)",
       "https://wp.lancs.ac.uk/aurorawatchuk/2016/03/16/did-i-photgraph-the-aurora-or-was-it-something-else/"
-    ]
-  ],
-  [
-    [
-      "2026-05-02, 14:40:55",
-      "https://news.ycombinator.com/item?id=47986798"
-    ],
-    [
-      "sRGB profile comparison",
-      "https://ninedegreesbelow.com/photography/srgb-profile-comparison.html"
     ]
   ],
   [
