@@ -27,9 +27,9 @@
 * [2026-05-04, 11:41:02](https://news.ycombinator.com/item?id=48007438) - [Talking to strangers at the gym](https://thienantran.com/talking-to-35-strangers-at-the-gym/)
 * [2026-05-04, 09:31:12](https://news.ycombinator.com/item?id=48006402) - [GameStop makes $55.5B takeover offer for eBay](https://www.bbc.co.uk/news/articles/cn0p8yled1do)
 * [2026-05-03, 15:49:33](https://news.ycombinator.com/item?id=47998158) - [Testing macOS on the Apple Network Server 2.0 ROMs](http://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html)
+* [2026-05-02, 19:27:30](https://news.ycombinator.com/item?id=47989594) - [Jonathan Swift's Last Joke](https://www.newyorker.com/culture/the-weekend-essay/jonathan-swifts-last-joke)
 * [2026-05-02, 16:58:39](https://news.ycombinator.com/item?id=47988130) - [A little comparison between R and Kap](https://blog.dhsdevelopments.com/a-little-comparison-between-r-and-kap)
 * [2026-05-02, 12:48:01](https://news.ycombinator.com/item?id=47985958) - [Show HN: nfsdiag – A NFS diagnostic application](https://github.com/lsferreira42/nfsdiag)
-* [2026-05-01, 18:07:28](https://news.ycombinator.com/item?id=47977990) - [Using “underdrawings” for accurate text and numbers](https://samcollins.blog/underdrawings/)
 
 ## [Archives](archives/index.md)
 

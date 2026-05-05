@@ -19,6 +19,7 @@
 * [2026-05-02, 20:16:27](https://news.ycombinator.com/item?id=47990047) - [Automating Hermitage to see how transactions differ in MySQL and MariaDB](https://theconsensus.dev/p/2026/05/02/automating-hermitage.html)
 * [2026-05-02, 20:03:08](https://news.ycombinator.com/item?id=47989931) - [I Do Not Recommend Bitwarden](https://xn--gckvb8fzb.com/i-do-not-recommend-bitwarden/)
 * [2026-05-02, 19:57:26](https://news.ycombinator.com/item?id=47989883) - [VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage](https://github.com/microsoft/vscode/pull/310226)
+* [2026-05-02, 19:27:30](https://news.ycombinator.com/item?id=47989594) - [Jonathan Swift's Last Joke](https://www.newyorker.com/culture/the-weekend-essay/jonathan-swifts-last-joke)
 * [2026-05-02, 19:03:54](https://news.ycombinator.com/item?id=47989372) - [Canonical Under Attack](https://status.canonical.com)
 * [2026-05-02, 18:40:19](https://news.ycombinator.com/item?id=47989154) - [Unsigned Sizes: A Five Year Mistake](https://c3-lang.org/blog/unsigned-sizes-a-five-year-mistake/)
 * [2026-05-02, 18:04:28](https://news.ycombinator.com/item?id=47988781) - [World's biggest RC A380 [video]](https://www.youtube.com/watch?v=wr9YLGbhxng)
