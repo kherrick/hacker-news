@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-05-05](index.md)
 
+* [2026-05-05, 21:26:50](https://news.ycombinator.com/item?id=48028842) - [Write some software, give it away for free](https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026)
+* [2026-05-05, 20:47:02](https://news.ycombinator.com/item?id=48028289) - [Our AI started a cafe in Stockholm](https://andonlabs.com/blog/ai-cafe-stockholm)
+* [2026-05-05, 20:35:03](https://news.ycombinator.com/item?id=48028136) - [Apple Cuts More Mac Studio and Mac Mini RAM Options as Memory Shortage Worsens](https://www.macrumors.com/2026/05/05/apple-mac-studio-mac-mini-ram-cuts/)
 * [2026-05-05, 20:16:35](https://news.ycombinator.com/item?id=48027897) - [.de TLD offline due to DNSSEC?](https://dnssec-analyzer.verisignlabs.com/nic.de)
 * [2026-05-05, 19:05:18](https://news.ycombinator.com/item?id=48027022) - [What five years of data tells us about lasting relationships](https://hanker.dating/study)
 * [2026-05-05, 18:13:47](https://news.ycombinator.com/item?id=48026349) - [California farmers to destroy 420k peach trees following Del Monte bankruptcy](https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php)
