@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-05-05](index.md)
 
+* [2026-05-05, 19:05:18](https://news.ycombinator.com/item?id=48027022) - [What five years of data tells us about lasting relationships](https://hanker.dating/study)
+* [2026-05-05, 18:13:47](https://news.ycombinator.com/item?id=48026349) - [California farmers to destroy 420k peach trees following Del Monte bankruptcy](https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php)
+* [2026-05-05, 18:13:14](https://news.ycombinator.com/item?id=48026342) - [Show HN: Explore color palettes inspired by 3000 master painter artworks](https://paletteinspiration.com/)
+* [2026-05-05, 18:04:20](https://news.ycombinator.com/item?id=48026206) - [Clarification on the Notepad++ Trademark Issue](https://notepad-plus-plus.org/news/clarify-npp-trademark-infringement/)
 * [2026-05-05, 17:52:31](https://news.ycombinator.com/item?id=48026021) - [GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents](https://arxiv.org/abs/2604.26752)
 * [2026-05-05, 17:38:17](https://news.ycombinator.com/item?id=48025828) - [Quantum Key Distribution (QKD) and Quantum Cryptography (QC)](https://www.nsa.gov/Cybersecurity/Quantum-Key-Distribution-QKD-and-Quantum-Cryptography-QC/)
 * [2026-05-05, 17:28:18](https://news.ycombinator.com/item?id=48025687) - [IBM didn't want Microsoft to use the Tab key to move between dialog fields](https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298)
@@ -25,6 +29,7 @@
 * [2026-05-05, 13:00:47](https://news.ycombinator.com/item?id=48021968) - [AI Product Graveyard](https://tooldirectory.ai/ai-graveyard)
 * [2026-05-05, 12:28:28](https://news.ycombinator.com/item?id=48021561) - [iOS 27 is adding a 'Create a Pass' button to Apple Wallet](https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/)
 * [2026-05-05, 12:14:17](https://news.ycombinator.com/item?id=48021420) - [Show HN: I built a new word game, Wordtrak](https://wordtrak.com/blog/2026-05-05-I-built-a-new-word-game)
+* [2026-05-05, 12:10:24](https://news.ycombinator.com/item?id=48021368) - [Today I've made the difficult decision to reduce the size of Coinbase by ~14%](https://twitter.com/brian_armstrong/status/2051616759145185723)
 * [2026-05-05, 09:57:29](https://news.ycombinator.com/item?id=48020249) - [Show HN: Got tired of paying $100/mo for SEO tools, so I built an alternative](https://idiotproofseo.com/)
 * [2026-05-05, 09:30:22](https://news.ycombinator.com/item?id=48020063) - [When everyone has AI and the company still learns nothing](https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/)
 * [2026-05-05, 07:34:55](https://news.ycombinator.com/item?id=48019219) - [Google Chrome silently installs a 4 GB AI model on your device without consent](https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/)

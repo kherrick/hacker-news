@@ -52,6 +52,7 @@
 * [2026-05-03, 09:26:48](https://news.ycombinator.com/item?id=47995125) - [Investors pile into clean energy as Iran war drives push for energy security](https://www.ft.com/content/9921f2b5-c910-4cec-a50f-cad453935a1a)
 * [2026-05-03, 09:18:25](https://news.ycombinator.com/item?id=47995065) - [Thoth – open-source Local-first AI Assistant](https://github.com/siddsachar/Thoth)
 * [2026-05-03, 09:14:56](https://news.ycombinator.com/item?id=47995037) - [Show HN: Apple's Sharp Running in the Browser via ONNX Runtime Web](https://github.com/bring-shrubbery/ml-sharp-web)
+* [2026-05-03, 08:58:50](https://news.ycombinator.com/item?id=47994946) - [Researchers print structural colour with an inkjet printer](https://physicsworld.com/a/researchers-print-structural-colour-with-an-inkjet-printer/)
 * [2026-05-03, 07:25:20](https://news.ycombinator.com/item?id=47994327) - [Executable installer will stop being released with Python 3.16](https://www.python.org/downloads/release/pymanager-261/)
 * [2026-05-03, 06:33:38](https://news.ycombinator.com/item?id=47994012) - [Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML](https://acai.sh/blog/specsmaxxing)
 * [2026-05-03, 05:17:25](https://news.ycombinator.com/item?id=47993585) - [Mouse Pointer as a Mere Mortal](https://unsung.aresluna.org/mouse-pointer-as-a-mere-mortal/)
