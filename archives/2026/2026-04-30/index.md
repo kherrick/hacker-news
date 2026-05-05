@@ -52,6 +52,7 @@
 * [2026-04-30, 13:45:10](https://news.ycombinator.com/item?id=47962386) - [The FCC is about to ban 21% of its test labs today. I mapped them all](https://markready.io/blog/fcc-accredited-test-labs-complete-guide)
 * [2026-04-30, 13:38:45](https://news.ycombinator.com/item?id=47962271) - [Also-RANS: Asymmetric Numeral Systems for Entropy Coding](https://fergusfinn.com/blog/understanding-rans/)
 * [2026-04-30, 13:38:38](https://news.ycombinator.com/item?id=47962269) - [If I could make my own GitHub](https://matduggan.com/if-i-could-make-my-own-github/)
+* [2026-04-30, 13:21:43](https://news.ycombinator.com/item?id=47962032) - [Should I Run Plain Docker Compose in Production in 2026?](https://distr.sh/blog/running-docker-in-production/)
 * [2026-04-30, 13:15:04](https://news.ycombinator.com/item?id=47961935) - [Show HN: Pollen – distributed WASM runtime, no control plane, single binary](https://github.com/sambigeara/pollen)
 * [2026-04-30, 13:15:04](https://news.ycombinator.com/item?id=47961934) - [The Science Behind Honey's Eternal Shelf Life (2013)](https://www.smithsonianmag.com/science-nature/the-science-behind-honeys-eternal-shelf-life-1218690/)
 * [2026-04-30, 13:07:42](https://news.ycombinator.com/item?id=47961838) - [Meta in row after workers who saw smart glasses users having sex lose jobs](https://www.bbc.com/news/articles/c5y7yvgy0w6o)

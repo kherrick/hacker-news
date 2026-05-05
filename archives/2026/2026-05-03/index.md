@@ -53,6 +53,7 @@
 * [2026-05-03, 09:14:56](https://news.ycombinator.com/item?id=47995037) - [Show HN: Apple's Sharp Running in the Browser via ONNX Runtime Web](https://github.com/bring-shrubbery/ml-sharp-web)
 * [2026-05-03, 07:25:20](https://news.ycombinator.com/item?id=47994327) - [Executable installer will stop being released with Python 3.16](https://www.python.org/downloads/release/pymanager-261/)
 * [2026-05-03, 06:33:38](https://news.ycombinator.com/item?id=47994012) - [Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML](https://acai.sh/blog/specsmaxxing)
+* [2026-05-03, 05:17:25](https://news.ycombinator.com/item?id=47993585) - [Mouse Pointer as a Mere Mortal](https://unsung.aresluna.org/mouse-pointer-as-a-mere-mortal/)
 * [2026-05-03, 04:05:28](https://news.ycombinator.com/item?id=47993235) - [Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge](https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/)
 * [2026-05-03, 02:53:29](https://news.ycombinator.com/item?id=47992859) - [Windows API Is Successful Cross-Platform API](https://retrocoding.net/windows-api-is-successful-cross-platform-api)
 * [2026-05-03, 02:42:43](https://news.ycombinator.com/item?id=47992802) - [AI, Intimacy, and the Data You Never Meant to Share](https://fshot.org/techzone/the-algorithm-knows.php)
