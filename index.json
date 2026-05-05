@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-05-05, 02:22:21",
+      "https://news.ycombinator.com/item?id=48017399"
+    ],
+    [
+      "Pulitzer Prize Winner in International Reporting",
+      "https://www.pulitzer.org/winners/dake-kang-garance-burke-byron-tau-aniruddha-ghosal-and-yael-grauer-contributor-associated"
+    ]
+  ],
+  [
+    [
+      "2026-05-05, 02:08:21",
+      "https://news.ycombinator.com/item?id=48017298"
+    ],
+    [
+      "What I'm Hearing About Cognitive Debt (So Far)",
+      "https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/"
+    ]
+  ],
+  [
+    [
+      "2026-05-05, 02:01:15",
+      "https://news.ycombinator.com/item?id=48017251"
+    ],
+    [
+      "The Car That Watches You Back: The Advertising Infrastructure of Modern Cars",
+      "https://nobodyaskedforthis.lol/posts/connected-car/"
+    ]
+  ],
+  [
+    [
+      "2026-05-05, 01:08:17",
+      "https://news.ycombinator.com/item?id=48016880"
+    ],
+    [
+      "Bun is being ported from Zig to Rust",
+      "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5"
+    ]
+  ],
+  [
+    [
+      "2026-05-05, 00:09:01",
+      "https://news.ycombinator.com/item?id=48016534"
+    ],
+    [
+      "Y Combinator's Stake in OpenAI (0.6%)",
+      "https://daringfireball.net/2026/05/y_combinators_stake_in_openai"
+    ]
+  ],
+  [
+    [
       "2026-05-04, 21:40:42",
       "https://news.ycombinator.com/item?id=48015397"
     ],
@@ -11,22 +61,12 @@
   ],
   [
     [
-      "2026-05-04, 21:25:55",
-      "https://news.ycombinator.com/item?id=48015218"
+      "2026-05-04, 20:56:19",
+      "https://news.ycombinator.com/item?id=48014868"
     ],
     [
-      "'Point of no return': New Orleans relocation must start now due to sea level",
-      "https://www.theguardian.com/us-news/2026/may/04/new-orleans-sea-levels-relocation-climate-crisis"
-    ]
-  ],
-  [
-    [
-      "2026-05-04, 21:14:38",
-      "https://news.ycombinator.com/item?id=48015097"
-    ],
-    [
-      "Pulitzer Prize Winners 2026",
-      "https://www.pulitzer.org/prize-winners-by-year/2026"
+      "When Networking Doesn't Work",
+      "https://www.os2museum.com/wp/when-networking-doesnt-work/"
     ]
   ],
   [
@@ -45,7 +85,7 @@
       "https://news.ycombinator.com/item?id=48014197"
     ],
     [
-      "Transformers Are Inherently Succinct",
+      "Transformers Are Inherently Succinct (2025)",
       "https://arxiv.org/abs/2510.19315"
     ]
   ],
@@ -71,52 +111,12 @@
   ],
   [
     [
-      "2026-05-04, 18:04:33",
-      "https://news.ycombinator.com/item?id=48012477"
-    ],
-    [
-      "Offenders sentenced up to 10 years for spying on TSMC",
-      "https://www.taipeitimes.com/News/front/archives/2026/04/28/2003856358"
-    ]
-  ],
-  [
-    [
       "2026-05-04, 17:46:32",
       "https://news.ycombinator.com/item?id=48012162"
     ],
     [
       "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
       "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup"
-    ]
-  ],
-  [
-    [
-      "2026-05-04, 17:35:15",
-      "https://news.ycombinator.com/item?id=48012003"
-    ],
-    [
-      "Heat pump sales rise across Europe",
-      "https://www.pv-magazine.com/2026/05/04/heat-pump-sales-rise-17-across-europe-in-q1-as-energy-prices-surge/"
-    ]
-  ],
-  [
-    [
-      "2026-05-04, 17:33:48",
-      "https://news.ycombinator.com/item?id=48011980"
-    ],
-    [
-      "“Kitten Space Agency”, a Spiritual Successor to “Kerbal Space Program” (2025)",
-      "https://www.space.com/entertainment/space-games/kitten-space-agency-is-the-spiritual-successor-to-kerbal-space-program-and-they-have-an-ex-spacex-engineer-on-the-team-interview"
-    ]
-  ],
-  [
-    [
-      "2026-05-04, 17:29:39",
-      "https://news.ycombinator.com/item?id=48011904"
-    ],
-    [
-      "Let's talk about LLMs",
-      "https://www.b-list.org/weblog/2026/apr/09/llms/"
     ]
   ],
   [
@@ -231,12 +231,12 @@
   ],
   [
     [
-      "2026-05-04, 12:52:57",
-      "https://news.ycombinator.com/item?id=48008074"
+      "2026-05-04, 12:53:46",
+      "https://news.ycombinator.com/item?id=48008083"
     ],
     [
-      "Newton's law of gravity passes its biggest test",
-      "https://www.science.org/content/article/newton-s-law-gravity-passes-its-biggest-test-ever"
+      "PyInfra 3.8.0",
+      "https://github.com/pyinfra-dev/pyinfra/releases/tag/v3.8.0"
     ]
   ],
   [
@@ -271,22 +271,22 @@
   ],
   [
     [
-      "2026-05-02, 19:27:30",
-      "https://news.ycombinator.com/item?id=47989594"
+      "2026-05-02, 21:07:41",
+      "https://news.ycombinator.com/item?id=47990528"
     ],
     [
-      "Jonathan Swift's Last Joke",
-      "https://www.newyorker.com/culture/the-weekend-essay/jonathan-swifts-last-joke"
+      "Show HN: I Built a Museum Exhibit",
+      "https://knhash.in/built-an-exhibit/"
     ]
   ],
   [
     [
-      "2026-05-02, 16:58:39",
-      "https://news.ycombinator.com/item?id=47988130"
+      "2026-05-02, 17:25:43",
+      "https://news.ycombinator.com/item?id=47988439"
     ],
     [
-      "A little comparison between R and Kap",
-      "https://blog.dhsdevelopments.com/a-little-comparison-between-r-and-kap"
+      "pgxbackup: Continuity Support for pgBackRest",
+      "https://thebuild.com/blog/2026/05/01/pgxbackup-continuity-support-for-pgbackrest/"
     ]
   ],
   [
