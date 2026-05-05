@@ -35,6 +35,7 @@
 * [2026-05-02, 17:10:18](https://news.ycombinator.com/item?id=47988261) - [Roblox shares plummet 18% as child safety measures weigh on bookings](https://www.cnbc.com/2026/05/01/roblox-rblx-stock-child-safety-earnings.html)
 * [2026-05-02, 16:58:39](https://news.ycombinator.com/item?id=47988130) - [A little comparison between R and Kap](https://blog.dhsdevelopments.com/a-little-comparison-between-r-and-kap)
 * [2026-05-02, 16:40:29](https://news.ycombinator.com/item?id=47987931) - [Modern C++ Programming: Busato](https://github.com/federico-busato/Modern-CPP-Programming)
+* [2026-05-02, 16:21:53](https://news.ycombinator.com/item?id=47987738) - [18th-century mechanical volcano roars to life 250 years later](https://www.sciencedaily.com/releases/2026/05/260502015359.htm)
 * [2026-05-02, 15:38:17](https://news.ycombinator.com/item?id=47987333) - [Uber wants to turn its drivers into a sensor grid for AV companies](https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/)
 * [2026-05-02, 15:34:25](https://news.ycombinator.com/item?id=47987304) - [Zugzwang](https://en.wikipedia.org/wiki/Zugzwang)
 * [2026-05-02, 15:30:37](https://news.ycombinator.com/item?id=47987278) - [Santa Cruz restaurant changes logo after flurry of negative reviews for AI art](https://www.sfgate.com/food/article/santa-cruz-restaurant-ai-21955920.php)

@@ -39,6 +39,7 @@
 * [2026-05-04, 14:23:07](https://news.ycombinator.com/item?id=48009172) - [Redis array: short story of a long development process](https://antirez.com/news/164)
 * [2026-05-04, 14:10:50](https://news.ycombinator.com/item?id=48009020) - [How Monero's proof of work works](https://blog.alcazarsec.com/tech/posts/how-moneros-proof-of-work-works)
 * [2026-05-04, 13:13:52](https://news.ycombinator.com/item?id=48008326) - [Someone allegedly used a hairdryer to rig Polymarket weather bets](https://www.engadget.com/big-tech/someone-allegedly-used-a-hairdryer-to-rig-polymarket-weather-bets-155312411.html)
+* [2026-05-04, 12:55:16](https://news.ycombinator.com/item?id=48008104) - [Gaps in national food production, worldwide](https://www.nature.com/articles/s43016-025-01173-4)
 * [2026-05-04, 12:53:46](https://news.ycombinator.com/item?id=48008083) - [PyInfra 3.8.0 Is Out](https://github.com/pyinfra-dev/pyinfra/releases/tag/v3.8.0)
 * [2026-05-04, 12:52:57](https://news.ycombinator.com/item?id=48008074) - [Newton's law of gravity passes its biggest test](https://www.science.org/content/article/newton-s-law-gravity-passes-its-biggest-test-ever)
 * [2026-05-04, 12:32:00](https://news.ycombinator.com/item?id=48007880) - [DAG Workflow Engine](https://github.com/vivekg13186/Daisy-DAG)
