@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-05-05, 09:57:29",
+      "https://news.ycombinator.com/item?id=48020249"
+    ],
+    [
+      "Show HN: Got tired of paying $100/mo for SEO tools, so I built an alternative",
+      "https://idiotproofseo.com/"
+    ]
+  ],
+  [
+    [
+      "2026-05-05, 09:30:22",
+      "https://news.ycombinator.com/item?id=48020063"
+    ],
+    [
+      "When everyone has AI and the company still learns nothing",
+      "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/"
+    ]
+  ],
+  [
+    [
       "2026-05-05, 07:34:55",
       "https://news.ycombinator.com/item?id=48019219"
     ],
@@ -161,32 +181,12 @@
   ],
   [
     [
-      "2026-05-04, 18:22:42",
-      "https://news.ycombinator.com/item?id=48012735"
-    ],
-    [
-      "Microsoft Edge stores all passwords in memory in clear text, even when unused",
-      "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730"
-    ]
-  ],
-  [
-    [
       "2026-05-04, 17:46:32",
       "https://news.ycombinator.com/item?id=48012162"
     ],
     [
       "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
       "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup"
-    ]
-  ],
-  [
-    [
-      "2026-05-04, 17:29:39",
-      "https://news.ycombinator.com/item?id=48011904"
-    ],
-    [
-      "Let's talk about LLMs",
-      "https://www.b-list.org/weblog/2026/apr/09/llms/"
     ]
   ],
   [
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2026-05-04, 14:02:32",
+      "https://news.ycombinator.com/item?id=48008925"
+    ],
+    [
+      "How Many Children Learned Mathematics from Kiselev's Textbooks?",
+      "https://valeman.medium.com/how-many-children-learned-mathematics-from-kiselevs-textbooks-ff4efceade0d"
+    ]
+  ],
+  [
+    [
       "2026-05-04, 12:55:16",
       "https://news.ycombinator.com/item?id=48008104"
     ],
@@ -247,16 +257,6 @@
     [
       "Why I Created phpc.tv",
       "https://afilina.com/why-phpc-tv"
-    ]
-  ],
-  [
-    [
-      "2026-05-03, 15:49:33",
-      "https://news.ycombinator.com/item?id=47998158"
-    ],
-    [
-      "Testing Mac OS on the Apple Network Server 2.0 ROMs",
-      "http://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html"
     ]
   ],
   [
