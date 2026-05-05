@@ -4,12 +4,17 @@
 
 ### [Archives](../../index.md) for [2026-05-05](index.md)
 
+* [2026-05-05, 07:34:55](https://news.ycombinator.com/item?id=48019219) - [Google Chrome silently installs a 4 GB AI model on your device without consent](https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/)
+* [2026-05-05, 07:26:18](https://news.ycombinator.com/item?id=48019165) - [The Frog for Whom the Bell Tolls](https://sethmlarson.dev/the-frog-for-whom-the-bell-tolls)
+* [2026-05-05, 07:26:03](https://news.ycombinator.com/item?id=48019163) - [Async Rust never left the MVP state](https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state)
+* [2026-05-05, 07:05:25](https://news.ycombinator.com/item?id=48019025) - [Lessons for Agentic Coding: What should we do when code is cheap?](https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html)
 * [2026-05-05, 04:36:24](https://news.ycombinator.com/item?id=48018080) - [Kids bypass age verification with fake moustaches](https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/)
 * [2026-05-05, 04:33:22](https://news.ycombinator.com/item?id=48018066) - [About 10% of AMC movie showings sell zero tickets. This site finds them](https://walzr.com/empty-screenings)
 * [2026-05-05, 04:27:32](https://news.ycombinator.com/item?id=48018034) - [2-D Mathematical Curves](https://www.2dcurves.com/)
 * [2026-05-05, 04:09:17](https://news.ycombinator.com/item?id=48017948) - [Train Your Own LLM from Scratch](https://github.com/angelos-p/llm-from-scratch)
 * [2026-05-05, 04:02:01](https://news.ycombinator.com/item?id=48017907) - [Hand Drawn QR Codes](https://sethmlarson.dev/hand-drawn-qr-codes)
 * [2026-05-05, 03:43:08](https://news.ycombinator.com/item?id=48017813) - [CVE-2026-31431: Copy Fail vs. rootless containers](https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/)
+* [2026-05-05, 03:09:56](https://news.ycombinator.com/item?id=48017641) - [Biscuit](https://github.com/yattsu/biscuit)
 * [2026-05-05, 02:22:21](https://news.ycombinator.com/item?id=48017399) - [Pulitzer Prize Winner in International Reporting](https://www.pulitzer.org/winners/dake-kang-garance-burke-byron-tau-aniruddha-ghosal-and-yael-grauer-contributor-associated)
 * [2026-05-05, 02:08:21](https://news.ycombinator.com/item?id=48017298) - [What I'm Hearing About Cognitive Debt (So Far)](https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/)
 * [2026-05-05, 02:01:15](https://news.ycombinator.com/item?id=48017251) - [The Car That Watches You Back: The Advertising Infrastructure of Modern Cars](https://nobodyaskedforthis.lol/posts/connected-car/)

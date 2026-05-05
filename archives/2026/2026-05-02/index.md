@@ -15,6 +15,7 @@
 * [2026-05-02, 21:21:27](https://news.ycombinator.com/item?id=47990675) - [The agent harness belongs outside the sandbox](https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox)
 * [2026-05-02, 21:14:29](https://news.ycombinator.com/item?id=47990606) - [Six Years Perfecting Maps on WatchOS](https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/)
 * [2026-05-02, 21:07:41](https://news.ycombinator.com/item?id=47990528) - [Show HN: I Built a Museum Exhibit](https://knhash.in/built-an-exhibit/)
+* [2026-05-02, 21:03:48](https://news.ycombinator.com/item?id=47990491) - [Farewell to a Giant of Botany](https://nautil.us/farewell-to-a-giant-of-botany-1280409)
 * [2026-05-02, 20:46:30](https://news.ycombinator.com/item?id=47990318) - [This Month in Ladybird - April 2026](https://ladybird.org/newsletter/2026-04-30/)
 * [2026-05-02, 20:42:20](https://news.ycombinator.com/item?id=47990284) - [Neanderthals ran 'fat factories' 125,000 years ago](https://www.universiteitleiden.nl/en/news/2025/07/neanderthals-ran-fat-factories-125000-years-ago)
 * [2026-05-02, 20:16:27](https://news.ycombinator.com/item?id=47990047) - [Automating Hermitage to see how transactions differ in MySQL and MariaDB](https://theconsensus.dev/p/2026/05/02/automating-hermitage.html)
