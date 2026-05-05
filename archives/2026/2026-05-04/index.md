@@ -38,6 +38,7 @@
 * [2026-05-04, 14:47:41](https://news.ycombinator.com/item?id=48009441) - [Pomiferous: The most extensive apples (pommes) database](https://pomiferous.com/)
 * [2026-05-04, 14:23:07](https://news.ycombinator.com/item?id=48009172) - [Redis array: short story of a long development process](https://antirez.com/news/164)
 * [2026-05-04, 14:10:50](https://news.ycombinator.com/item?id=48009020) - [How Monero's proof of work works](https://blog.alcazarsec.com/tech/posts/how-moneros-proof-of-work-works)
+* [2026-05-04, 14:02:32](https://news.ycombinator.com/item?id=48008925) - [How Many Children Learned Mathematics from Kiselev's Textbooks?](https://valeman.medium.com/how-many-children-learned-mathematics-from-kiselevs-textbooks-ff4efceade0d)
 * [2026-05-04, 13:13:52](https://news.ycombinator.com/item?id=48008326) - [Someone allegedly used a hairdryer to rig Polymarket weather bets](https://www.engadget.com/big-tech/someone-allegedly-used-a-hairdryer-to-rig-polymarket-weather-bets-155312411.html)
 * [2026-05-04, 12:55:16](https://news.ycombinator.com/item?id=48008104) - [Gaps in national food production, worldwide](https://www.nature.com/articles/s43016-025-01173-4)
 * [2026-05-04, 12:53:46](https://news.ycombinator.com/item?id=48008083) - [PyInfra 3.8.0 Is Out](https://github.com/pyinfra-dev/pyinfra/releases/tag/v3.8.0)

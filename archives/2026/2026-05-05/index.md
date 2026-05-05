@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-05](index.md)
 
+* [2026-05-05, 09:57:29](https://news.ycombinator.com/item?id=48020249) - [Show HN: Got tired of paying $100/mo for SEO tools, so I built an alternative](https://idiotproofseo.com/)
+* [2026-05-05, 09:30:22](https://news.ycombinator.com/item?id=48020063) - [When everyone has AI and the company still learns nothing](https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/)
 * [2026-05-05, 07:34:55](https://news.ycombinator.com/item?id=48019219) - [Google Chrome silently installs a 4 GB AI model on your device without consent](https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/)
 * [2026-05-05, 07:26:18](https://news.ycombinator.com/item?id=48019165) - [The Frog for Whom the Bell Tolls](https://sethmlarson.dev/the-frog-for-whom-the-bell-tolls)
 * [2026-05-05, 07:26:03](https://news.ycombinator.com/item?id=48019163) - [Async Rust never left the MVP state](https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state)
