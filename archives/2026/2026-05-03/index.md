@@ -23,6 +23,7 @@
 * [2026-05-03, 18:03:14](https://news.ycombinator.com/item?id=47999636) - [BYOMesh – New LoRa mesh radio offers 100x the bandwidth](https://partyon.xyz/@nullagent/116499715071759135)
 * [2026-05-03, 17:51:58](https://news.ycombinator.com/item?id=47999520) - [LLMs Are Not a Higher Level of Abstraction](https://www.lelanthran.com/chap15/content.html)
 * [2026-05-03, 17:45:47](https://news.ycombinator.com/item?id=47999460) - [I recreated the Apple Lisa computer inside an FPGA [video]](https://www.youtube.com/watch?v=8jNQDcpHc68)
+* [2026-05-03, 17:39:17](https://news.ycombinator.com/item?id=47999391) - [Collaborative Editing in CodeMirror](https://marijnhaverbeke.nl/blog/collaborative-editing-cm.html)
 * [2026-05-03, 17:05:58](https://news.ycombinator.com/item?id=47999006) - [What Chromium versions are major browsers are on?](https://chromium-drift.pages.dev/)
 * [2026-05-03, 17:02:13](https://news.ycombinator.com/item?id=47998946) - [Southwest Headquarters Tour](https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html)
 * [2026-05-03, 16:58:14](https://news.ycombinator.com/item?id=47998897) - [Largest electric autonomous container ship begins commercial service](https://global.chinadaily.com.cn/a/202604/16/WS69e0ee90a310d6866eb43dd4.html)

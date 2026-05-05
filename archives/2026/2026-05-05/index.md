@@ -4,8 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-05-05](index.md)
 
+* [2026-05-05, 17:52:31](https://news.ycombinator.com/item?id=48026021) - [GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents](https://arxiv.org/abs/2604.26752)
+* [2026-05-05, 17:38:17](https://news.ycombinator.com/item?id=48025828) - [Quantum Key Distribution (QKD) and Quantum Cryptography (QC)](https://www.nsa.gov/Cybersecurity/Quantum-Key-Distribution-QKD-and-Quantum-Cryptography-QC/)
+* [2026-05-05, 17:28:18](https://news.ycombinator.com/item?id=48025687) - [IBM didn't want Microsoft to use the Tab key to move between dialog fields](https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298)
+* [2026-05-05, 17:00:16](https://news.ycombinator.com/item?id=48025244) - [Proliferate (YC S25) Is Hiring- 200k for junior engineers](https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer)
+* [2026-05-05, 16:34:48](https://news.ycombinator.com/item?id=48024859) - [Computer Use Is 45x More Expensive Than Structured APIs](https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/)
 * [2026-05-05, 16:14:17](https://news.ycombinator.com/item?id=48024540) - [Accelerating Gemma 4: faster inference with multi-token prediction drafters](https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/)
 * [2026-05-05, 16:03:17](https://news.ycombinator.com/item?id=48024364) - [UK: Two millionth electric car registered as market rebounds strongly](https://www.smmt.co.uk/two-millionth-electric-car-registered-as-market-rebounds-strongly-from-tax-changes/)
+* [2026-05-05, 16:03:06](https://news.ycombinator.com/item?id=48024358) - [I'm Scared About Biological Computing](https://kuber.studio/blog/Reflections/I%27m-Scared-About-Biological-Computing)
 * [2026-05-05, 15:49:34](https://news.ycombinator.com/item?id=48024160) - [Instagram Encrypted Messaging Ends on Friday, May 8](https://www.macrumors.com/2026/05/05/psa-instagram-encrypted-messaging-ends-may-8/)
 * [2026-05-05, 15:47:18](https://news.ycombinator.com/item?id=48024129) - [EEVblog: The 555 Timer is 55 years old](https://www.youtube.com/watch?v=6JhK8iCQuqI)
 * [2026-05-05, 15:27:18](https://news.ycombinator.com/item?id=48023861) - [Three Inverse Laws of AI](https://susam.net/inverse-laws-of-robotics.html)
