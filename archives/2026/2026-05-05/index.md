@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-05](index.md)
 
+* [2026-05-05, 22:43:47](https://news.ycombinator.com/item?id=48029753) - [Xbox CEO ends Copilot AI development and overhauls leadership](https://www.dexerto.com/gaming/xbox-ceo-ends-copilot-ai-development-overhauls-leadership-3361353/)
 * [2026-05-05, 22:07:18](https://news.ycombinator.com/item?id=48029334) - [Zuckerberg 'personally authorized' Meta's copyright infringement, publishers say](https://apnews.com/article/meta-mark-zuckerberg-ai-publishers-lawsuit-llama-5609846d4d840014974a847b01079c32)
 * [2026-05-05, 21:50:21](https://news.ycombinator.com/item?id=48029114) - [NPR finds \"no sign\" of Polymarket at its Panama HQ address](https://www.npr.org/2026/05/05/nx-s1-5807918/polymarket-panama-prediction-market)
 * [2026-05-05, 21:26:50](https://news.ycombinator.com/item?id=48028842) - [Write some software, give it away for free](https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026)

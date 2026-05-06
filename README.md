@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-05-05, 22:43:47](https://news.ycombinator.com/item?id=48029753) - [Xbox CEO ends Copilot AI development and overhauls leadership](https://www.dexerto.com/gaming/xbox-ceo-ends-copilot-ai-development-overhauls-leadership-3361353/)
 * [2026-05-05, 22:07:18](https://news.ycombinator.com/item?id=48029334) - [Zuckerberg 'personally authorized' Meta's copyright infringement, publishers say](https://apnews.com/article/meta-mark-zuckerberg-ai-publishers-lawsuit-llama-5609846d4d840014974a847b01079c32)
 * [2026-05-05, 21:50:21](https://news.ycombinator.com/item?id=48029114) - [NPR finds \"no sign\" of Polymarket at its Panama HQ address](https://www.npr.org/2026/05/05/nx-s1-5807918/polymarket-panama-prediction-market)
 * [2026-05-05, 21:26:50](https://news.ycombinator.com/item?id=48028842) - [Write some software, give it away for free](https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026)
@@ -22,14 +23,13 @@
 * [2026-05-05, 12:10:24](https://news.ycombinator.com/item?id=48021368) - [Today I've made the difficult decision to reduce the size of Coinbase by ~14%](https://twitter.com/brian_armstrong/status/2051616759145185723)
 * [2026-05-05, 09:30:22](https://news.ycombinator.com/item?id=48020063) - [When everyone has AI and the company still learns nothing](https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/)
 * [2026-05-05, 07:34:55](https://news.ycombinator.com/item?id=48019219) - [Google Chrome silently installs a 4 GB AI model on your device without consent](https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/)
-* [2026-05-03, 17:39:17](https://news.ycombinator.com/item?id=47999391) - [Collaborative Editing in CodeMirror (2020)](https://marijnhaverbeke.nl/blog/collaborative-editing-cm.html)
+* [2026-05-03, 20:02:21](https://news.ycombinator.com/item?id=48000811) - [Urban Birds Are Rising Earlier Because of Traffic Noise (2013)](https://www.audubon.org/news/urban-birds-are-rising-earlier-because-traffic-noise)
+* [2026-05-03, 18:09:34](https://news.ycombinator.com/item?id=47999698) - [Past Ferrari Models, 1947–2023](https://www.ferrari.com/en-US/auto/past-model)
 * [2026-05-03, 16:35:20](https://news.ycombinator.com/item?id=47998664) - [Underwater robot tracks sperm whale conversations in real time](https://www.reuters.com/business/environment/underwater-robot-tracks-sperm-whale-conversations-real-time-2026-05-01/)
 * [2026-05-03, 13:25:59](https://news.ycombinator.com/item?id=47996740) - [I completed 100 Days of Java over 5 years and mapped the journey as a graph](https://mohibulsblog.netlify.app/java/100daysofjava/graph/)
 * [2026-05-03, 12:43:12](https://news.ycombinator.com/item?id=47996395) - [The extended predicative Mahlo universe in Martin-Löf type theory](https://academic.oup.com/logcom/article/34/6/1032/7158523)
 * [2026-05-03, 08:58:50](https://news.ycombinator.com/item?id=47994946) - [Researchers print structural colour with an inkjet printer](https://physicsworld.com/a/researchers-print-structural-colour-with-an-inkjet-printer/)
-* [2026-05-03, 04:06:08](https://news.ycombinator.com/item?id=47993240) - [Comparing the Z80 and 6502 to Their Relatives](https://bumbershootsoft.wordpress.com/2026/05/02/comparing-the-z80-and-6502-to-their-relatives/)
-* [2026-05-02, 13:41:43](https://news.ycombinator.com/item?id=47986331) - [Docker 29 has changed its default image store for new installs](https://docs.docker.com/engine/storage/containerd)
-* [2026-04-30, 13:21:43](https://news.ycombinator.com/item?id=47962032) - [Should I Run Plain Docker Compose in Production in 2026?](https://distr.sh/blog/running-docker-in-production/)
+* [2026-04-30, 13:21:43](https://news.ycombinator.com/item?id=47962032) - [Should I run plain Docker Compose in production in 2026?](https://distr.sh/blog/running-docker-in-production/)
 
 ## [Archives](archives/index.md)
 
