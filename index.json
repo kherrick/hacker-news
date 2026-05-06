@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2026-05-06, 19:45:07",
-      "https://news.ycombinator.com/item?id=48040784"
-    ],
-    [
-      "McDonald's is a premium product now (2024)",
-      "https://greyenlightenment.com/2024/07/31/mcdonalds-is-a-premium-product-now/"
-    ]
-  ],
-  [
-    [
       "2026-05-06, 19:33:25",
       "https://news.ycombinator.com/item?id=48040622"
     ],
@@ -37,16 +27,6 @@
     [
       "Learning the Integral of a Diffusion Model",
       "https://sander.ai/2026/05/06/flow-maps.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-06, 18:25:06",
-      "https://news.ycombinator.com/item?id=48039739"
-    ],
-    [
-      "BYD overtakes Tesla and Kia as the best-selling EV brand in key overseas markets",
-      "https://electrek.co/2026/05/05/byd-overtakes-tesla-kia-best-selling-ev-brand-key-overseas-markets/"
     ]
   ],
   [
@@ -91,32 +71,22 @@
   ],
   [
     [
-      "2026-05-06, 17:13:54",
-      "https://news.ycombinator.com/item?id=48038750"
-    ],
-    [
-      "SoundOff: Low-Cost Passive Ultrasound Tags",
-      "https://yibo-fu.com/SoundOff-Low-cost-Passive-Ultrasound-Tags-for-Non-invasive-and-Non"
-    ]
-  ],
-  [
-    [
-      "2026-05-06, 16:54:21",
-      "https://news.ycombinator.com/item?id=48038489"
-    ],
-    [
-      "Colombia hosts talks on exiting fossil fuels as global energy crisis deepens",
-      "https://www.latimes.com/environment/story/2026-04-26/colombia-hosts-talks-on-exiting-fossil-fuels-as-global-energy-crisis-deepens"
-    ]
-  ],
-  [
-    [
       "2026-05-06, 16:41:30",
       "https://news.ycombinator.com/item?id=48038307"
     ],
     [
       "Life During Class Wartime",
       "https://www.tbray.org/ongoing/When/202x/2026/05/03/Life-During-Class-Wartime"
+    ]
+  ],
+  [
+    [
+      "2026-05-06, 16:37:52",
+      "https://news.ycombinator.com/item?id=48038257"
+    ],
+    [
+      "Show HN: Hallucinopedia",
+      "http://halupedia.com/"
     ]
   ],
   [
@@ -141,12 +111,42 @@
   ],
   [
     [
+      "2026-05-06, 16:17:33",
+      "https://news.ycombinator.com/item?id=48037986"
+    ],
+    [
+      "Higher usage limits for Claude and a compute deal with SpaceX",
+      "https://www.anthropic.com/news/higher-limits-spacex"
+    ]
+  ],
+  [
+    [
+      "2026-05-06, 15:58:34",
+      "https://news.ycombinator.com/item?id=48037724"
+    ],
+    [
+      "Show HN: Tilde.run – Agent sandbox with a transactional, versioned filesystem",
+      "https://tilde.run/"
+    ]
+  ],
+  [
+    [
       "2026-05-06, 15:44:13",
       "https://news.ycombinator.com/item?id=48037555"
     ],
     [
       "Valve releases Steam Controller CAD files under Creative Commons license",
       "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license"
+    ]
+  ],
+  [
+    [
+      "2026-05-06, 15:06:37",
+      "https://news.ycombinator.com/item?id=48037128"
+    ],
+    [
+      "Vibe coding and agentic engineering are getting closer than I'd like",
+      "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/"
     ]
   ],
   [
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2026-05-04, 16:39:15",
-      "https://news.ycombinator.com/item?id=48011077"
+      "2026-05-05, 12:56:16",
+      "https://news.ycombinator.com/item?id=48021901"
     ],
     [
-      "Wolfenstein 3D for Gameboy Color on custom cartridge (2016)",
-      "https://www.happydaze.se/wolf/"
+      "Community firmware for the Xteink X4 e-paper reader",
+      "https://github.com/crosspoint-reader/crosspoint-reader"
     ]
   ],
   [
