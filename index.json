@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-05-06, 12:00:24",
+      "https://news.ycombinator.com/item?id=48035223"
+    ],
+    [
+      "Cat (YC S22) Seeks Fractional Engineer to Build AI-Native Growth Toolkit",
+      "https://www.coveragecat.com/careers/engineering/fractional-growth-engineer"
+    ]
+  ],
+  [
+    [
+      "2026-05-06, 10:53:52",
+      "https://news.ycombinator.com/item?id=48034762"
+    ],
+    [
+      "Setting up a Sun Ray server on OpenIndiana Hipster 2025.10",
+      "https://catstret.ch/202605/srss-hipster202510/"
+    ]
+  ],
+  [
+    [
       "2026-05-06, 10:28:40",
       "https://news.ycombinator.com/item?id=48034587"
     ],
@@ -11,52 +31,12 @@
   ],
   [
     [
-      "2026-05-06, 09:57:58",
-      "https://news.ycombinator.com/item?id=48034372"
-    ],
-    [
-      "NZ Government to Disestablish the BSA",
-      "https://www.beehive.govt.nz/release/government-disestablish-bsa"
-    ]
-  ],
-  [
-    [
-      "2026-05-06, 09:00:07",
-      "https://news.ycombinator.com/item?id=48033952"
-    ],
-    [
-      "The AI operator: Biggest role in Silicon Valley",
-      "https://www.rishgupta.com/blog/the-ai-operator-biggest-role-in-silicon-valley"
-    ]
-  ],
-  [
-    [
-      "2026-05-06, 08:23:43",
-      "https://news.ycombinator.com/item?id=48033689"
-    ],
-    [
-      "The Boring Internet",
-      "https://www.terrygodier.com/the-boring-internet"
-    ]
-  ],
-  [
-    [
       "2026-05-06, 06:31:29",
       "https://news.ycombinator.com/item?id=48032976"
     ],
     [
       "Reverse-engineering the 1998 Ultima Online demo server",
       "https://draxinar.github.io/articles/2026-05-01-uodemo-reverse-engineering.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-06, 05:34:48",
-      "https://news.ycombinator.com/item?id=48032617"
-    ],
-    [
-      "Behavior-Oriented Concurrency for Python",
-      "https://microsoft.github.io/bocpy/"
     ]
   ],
   [
@@ -87,16 +67,6 @@
     [
       "245TB Micron 6600 ION Data Center SSD Now Shipping",
       "https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now"
-    ]
-  ],
-  [
-    [
-      "2026-05-06, 03:24:49",
-      "https://news.ycombinator.com/item?id=48031769"
-    ],
-    [
-      "Ombudsman column: The Pentagon is trying to silence me",
-      "https://www.stripes.com/opinion/2026-04-23/stripes-former-ombudsman-pentagon-trying-to-silence-21465037.html"
     ]
   ],
   [
@@ -191,6 +161,16 @@
   ],
   [
     [
+      "2026-05-05, 16:03:06",
+      "https://news.ycombinator.com/item?id=48024358"
+    ],
+    [
+      "I'm scared about biological computing",
+      "https://kuber.studio/blog/Reflections/I%27m-Scared-About-Biological-Computing"
+    ]
+  ],
+  [
+    [
       "2026-05-05, 15:47:18",
       "https://news.ycombinator.com/item?id=48024129"
     ],
@@ -247,6 +227,26 @@
     [
       "Wolfenstein 3D for Gameboy Color on custom cartridge (2016)",
       "https://www.happydaze.se/wolf/"
+    ]
+  ],
+  [
+    [
+      "2026-05-04, 13:44:20",
+      "https://news.ycombinator.com/item?id=48008685"
+    ],
+    [
+      "A Simpler Parametrization for Modern Optimizers",
+      "https://jiha-kim.github.io/posts/a-simpler-parametrization-for-modern-optimizers/"
+    ]
+  ],
+  [
+    [
+      "2026-05-04, 10:46:15",
+      "https://news.ycombinator.com/item?id=48006967"
+    ],
+    [
+      "The bottleneck was never the code",
+      "https://www.thetypicalset.com/blog/thoughts-on-coding-agents"
     ]
   ],
   [
