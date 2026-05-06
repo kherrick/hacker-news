@@ -52,6 +52,7 @@
 * [2026-05-03, 14:02:23](https://news.ycombinator.com/item?id=47997056) - [Alert-Driven Monitoring](https://simpleobservability.com/docs/alert-driven-monitoring)
 * [2026-05-03, 13:32:56](https://news.ycombinator.com/item?id=47996797) - [I rebuilt my blog's cache. Bots are the audience now](https://hoeijmakers.net/thirty-years-of-caching-sorted-in-an-afternoon/)
 * [2026-05-03, 13:25:59](https://news.ycombinator.com/item?id=47996740) - [I completed 100 Days of Java over 5 years and mapped the journey as a graph](https://mohibulsblog.netlify.app/java/100daysofjava/graph/)
+* [2026-05-03, 13:16:18](https://news.ycombinator.com/item?id=47996668) - [Virtual violin produces realistic sounds](https://news.mit.edu/2026/mit-engineers-virtual-violin-produces-realistic-sounds-0429)
 * [2026-05-03, 12:43:12](https://news.ycombinator.com/item?id=47996395) - [The extended predicative Mahlo universe in Martin-Löf type theory](https://academic.oup.com/logcom/article/34/6/1032/7158523)
 * [2026-05-03, 11:57:12](https://news.ycombinator.com/item?id=47996055) - [Show HN: I built a RISC-V emulator that runs DOOM](https://github.com/lalitshankarch/rvcore)
 * [2026-05-03, 11:19:53](https://news.ycombinator.com/item?id=47995815) - [All Four Sentinel-1 Satellites Are Now Live](https://orbitaltoday.com/2026/05/03/all-four-sentinel-1-satellites-are-now-live-and-europes-earth-watch-just-got-stronger/)

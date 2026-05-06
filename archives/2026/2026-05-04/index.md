@@ -25,6 +25,7 @@
 * [2026-05-04, 17:10:57](https://news.ycombinator.com/item?id=48011603) - [Stop big tech from making users behave in ways they don't want to](https://economist.com/by-invitation/2026/04/29/stop-big-tech-from-making-users-behave-in-ways-they-dont-want-to)
 * [2026-05-04, 16:59:28](https://news.ycombinator.com/item?id=48011440) - [The Visible Zorker: Zork 3](https://eblong.com/infocom/visi/zork3/)
 * [2026-05-04, 16:45:00](https://news.ycombinator.com/item?id=48011184) - [I am worried about Bun](https://wwj.dev/posts/i-am-worried-about-bun/)
+* [2026-05-04, 16:39:15](https://news.ycombinator.com/item?id=48011077) - [Wolfenstein 3D for Gameboy Color on custom cartridge (2016)](https://www.happydaze.se/wolf/)
 * [2026-05-04, 16:33:47](https://news.ycombinator.com/item?id=48010992) - [\"They would never use the death star on us\"](https://www.mcsweeneys.net/articles/they-would-never-use-the-death-star-on-us-alderaan-residents-reflect-on-their-support-for-the-empire-as-a-large-imperial-installation-enters-the-system)
 * [2026-05-04, 16:21:38](https://news.ycombinator.com/item?id=48010774) - [OpenAI, Google, and Microsoft Back Bill to Fund 'AI Literacy' in Schools](https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/)
 * [2026-05-04, 16:12:25](https://news.ycombinator.com/item?id=48010597) - [Homebridge 2.0 is here, and it speaks Matter](https://www.theverge.com/tech/922877/homebridge-2-0-matter-update-robot-vacuums)
