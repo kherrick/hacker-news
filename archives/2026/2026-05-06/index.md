@@ -4,6 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-05-06](index.md)
 
+* [2026-05-06, 16:37:52](https://news.ycombinator.com/item?id=48038257) - [Show HN: Hallucinopedia](http://halupedia.com/)
+* [2026-05-06, 16:21:03](https://news.ycombinator.com/item?id=48038031) - [The Disadvantages of an Elite Education (2008)](https://theamericanscholar.org/the-disadvantages-of-an-elite-education/)
+* [2026-05-06, 16:20:00](https://news.ycombinator.com/item?id=48038019) - [Show HN: I built an open-source email builder, alternative to Beefree/Unlayer](https://play.templatical.com)
+* [2026-05-06, 16:18:29](https://news.ycombinator.com/item?id=48038001) - [Appearing Productive in the Workplace](https://nooneshappy.com/article/appearing-productive-in-the-workplace/)
+* [2026-05-06, 16:17:33](https://news.ycombinator.com/item?id=48037986) - [Higher usage limits for Claude and a compute deal with SpaceX](https://www.anthropic.com/news/higher-limits-spacex)
+* [2026-05-06, 15:58:34](https://news.ycombinator.com/item?id=48037724) - [Show HN: Tilde.run – Agent Sandbox with a Transactional, Versioned Filesystem](https://tilde.run/)
+* [2026-05-06, 15:44:13](https://news.ycombinator.com/item?id=48037555) - [Valve releases Steam Controller CAD files under Creative Commons license](https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license)
+* [2026-05-06, 15:06:37](https://news.ycombinator.com/item?id=48037128) - [Vibe coding and agentic engineering are getting closer than I'd like](https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/)
 * [2026-05-06, 14:56:37](https://news.ycombinator.com/item?id=48037009) - [CNN founder Ted Turner, a pioneer of cable TV news, dies at 87](https://www.cnn.com/2026/05/06/us/ted-turner-death)
 * [2026-05-06, 12:56:29](https://news.ycombinator.com/item?id=48035677) - [Show HN: Adam – An embeddable cross-platform AI agent library](https://github.com/sqliteai/adam)
 * [2026-05-06, 12:50:27](https://news.ycombinator.com/item?id=48035617) - [Shrinkflation Is Quietly Making All Gadgets Worse](https://gizmodo.com/shrinkflation-is-quietly-making-all-gadgets-worse-2000754565)
