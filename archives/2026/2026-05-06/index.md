@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-06](index.md)
 
+* [2026-05-06, 21:26:53](https://news.ycombinator.com/item?id=48042099) - [Apple is enforcing an old App Store rule against a new kind of software](https://adaptivesoftware.substack.com/p/the-wrapper-and-the-code)
+* [2026-05-06, 20:28:17](https://news.ycombinator.com/item?id=48041316) - [Show HN: PHP-fts – Full-text search engine in pure PHP, no extensions](https://github.com/olivier-ls/php-fts)
 * [2026-05-06, 20:02:42](https://news.ycombinator.com/item?id=48041009) - [MIT’s virtual violin offers luthiers a new design tool](https://arstechnica.com/science/2026/05/mits-virtual-violin-offers-luthiers-a-new-design-tool/)
 * [2026-05-06, 19:45:07](https://news.ycombinator.com/item?id=48040784) - [McDonald's is a premium product now (2024)](https://greyenlightenment.com/2024/07/31/mcdonalds-is-a-premium-product-now/)
 * [2026-05-06, 19:33:25](https://news.ycombinator.com/item?id=48040622) - [Inkscape 1.4.4](https://inkscape.org/doc/release_notes/1.4.4/Inkscape_1.4.4.html)
@@ -27,6 +29,7 @@
 * [2026-05-06, 15:44:13](https://news.ycombinator.com/item?id=48037555) - [Valve releases Steam Controller CAD files under Creative Commons license](https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license)
 * [2026-05-06, 15:06:37](https://news.ycombinator.com/item?id=48037128) - [Vibe coding and agentic engineering are getting closer than I'd like](https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/)
 * [2026-05-06, 14:56:37](https://news.ycombinator.com/item?id=48037009) - [CNN founder Ted Turner, a pioneer of cable TV news, dies at 87](https://www.cnn.com/2026/05/06/us/ted-turner-death)
+* [2026-05-06, 14:24:33](https://news.ycombinator.com/item?id=48036650) - [Mythos is the best cybersecurity news in a decade](https://sfstandard.com/opinion/2026/05/06/mythos-cybersecurity-ai/)
 * [2026-05-06, 12:56:29](https://news.ycombinator.com/item?id=48035677) - [Show HN: Adam – An embeddable cross-platform AI agent library](https://github.com/sqliteai/adam)
 * [2026-05-06, 12:50:27](https://news.ycombinator.com/item?id=48035617) - [Shrinkflation Is Quietly Making All Gadgets Worse](https://gizmodo.com/shrinkflation-is-quietly-making-all-gadgets-worse-2000754565)
 * [2026-05-06, 12:49:04](https://news.ycombinator.com/item?id=48035607) - [Building the deployment tool I wish I had](https://ruuda.nl/2026/deptool)
