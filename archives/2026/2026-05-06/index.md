@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-05-06](index.md)
 
+* [2026-05-06, 22:48:11](https://news.ycombinator.com/item?id=48042918) - [UK businesses brace for jet fuel rationing](https://bmmagazine.co.uk/news/uk-jet-fuel-shortage-rationing-goldman-sachs-warning/)
+* [2026-05-06, 22:38:51](https://news.ycombinator.com/item?id=48042842) - [David Sacks crashed and burned in the White House](https://www.theverge.com/column/925487/david-sacks-trump-administration-ai-model-review)
 * [2026-05-06, 21:26:53](https://news.ycombinator.com/item?id=48042099) - [Apple is enforcing an old App Store rule against a new kind of software](https://adaptivesoftware.substack.com/p/the-wrapper-and-the-code)
+* [2026-05-06, 21:14:30](https://news.ycombinator.com/item?id=48041953) - [Mickey Mouse is watching you: Disneyland deploys facial recognition](https://www.theguardian.com/us-news/2026/apr/28/disneyland-entrance-facial-recognition)
 * [2026-05-06, 20:28:17](https://news.ycombinator.com/item?id=48041316) - [Show HN: PHP-fts – Full-text search engine in pure PHP, no extensions](https://github.com/olivier-ls/php-fts)
 * [2026-05-06, 20:02:42](https://news.ycombinator.com/item?id=48041009) - [MIT’s virtual violin offers luthiers a new design tool](https://arstechnica.com/science/2026/05/mits-virtual-violin-offers-luthiers-a-new-design-tool/)
 * [2026-05-06, 19:45:07](https://news.ycombinator.com/item?id=48040784) - [McDonald's is a premium product now (2024)](https://greyenlightenment.com/2024/07/31/mcdonalds-is-a-premium-product-now/)
