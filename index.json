@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-05-06, 08:23:43",
+      "https://news.ycombinator.com/item?id=48033689"
+    ],
+    [
+      "The Boring Internet",
+      "https://www.terrygodier.com/the-boring-internet"
+    ]
+  ],
+  [
+    [
+      "2026-05-06, 06:31:29",
+      "https://news.ycombinator.com/item?id=48032976"
+    ],
+    [
+      "Reverse-engineering the 1998 Ultima Online demo server",
+      "https://draxinar.github.io/articles/2026-05-01-uodemo-reverse-engineering.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-06, 05:34:48",
+      "https://news.ycombinator.com/item?id=48032617"
+    ],
+    [
+      "Behavior-Oriented Concurrency for Python",
+      "https://microsoft.github.io/bocpy/"
+    ]
+  ],
+  [
+    [
+      "2026-05-06, 05:13:58",
+      "https://news.ycombinator.com/item?id=48032461"
+    ],
+    [
+      "Knitting bullshit",
+      "https://katedaviesdesigns.com/2026/04/29/knitting-bullshit/"
+    ]
+  ],
+  [
+    [
+      "2026-05-06, 04:43:25",
+      "https://news.ycombinator.com/item?id=48032265"
+    ],
+    [
+      "Multi-stroke text effect in CSS",
+      "https://yuanchuan.dev/multi-stroke-text-effect-in-css"
+    ]
+  ],
+  [
+    [
       "2026-05-06, 03:37:51",
       "https://news.ycombinator.com/item?id=48031867"
     ],
@@ -85,18 +135,8 @@
       "https://news.ycombinator.com/item?id=48027897"
     ],
     [
-      ".de TLD offline due to DNSSEC?",
-      "https://dnssec-analyzer.verisignlabs.com/nic.de"
-    ]
-  ],
-  [
-    [
-      "2026-05-05, 18:13:47",
-      "https://news.ycombinator.com/item?id=48026349"
-    ],
-    [
-      "California farmers to destroy 420k peach trees following Del Monte bankruptcy",
-      "https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php"
+      "DNSSEC disruption affecting .de domains – Resolved",
+      "https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38"
     ]
   ],
   [
@@ -107,16 +147,6 @@
     [
       "Show HN: Explore color palettes inspired by 3000 master painter artworks",
       "https://paletteinspiration.com/"
-    ]
-  ],
-  [
-    [
-      "2026-05-05, 18:04:25",
-      "https://news.ycombinator.com/item?id=48026207"
-    ],
-    [
-      "Zuckerberg 'Personally Authorized and Encouraged' Meta's Copyright Infringement",
-      "https://variety.com/2026/digital/news/meta-ai-mark-zuckerberg-copyright-infringement-lawsuit-publishers-scott-turow-1236738383/"
     ]
   ],
   [
@@ -211,16 +241,6 @@
   ],
   [
     [
-      "2026-05-05, 09:30:22",
-      "https://news.ycombinator.com/item?id=48020063"
-    ],
-    [
-      "When everyone has AI and the company still learns nothing",
-      "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/"
-    ]
-  ],
-  [
-    [
       "2026-05-05, 07:34:55",
       "https://news.ycombinator.com/item?id=48019219"
     ],
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2026-05-04, 05:32:21",
-      "https://news.ycombinator.com/item?id=48004992"
-    ],
-    [
-      "Feds Fine Durham Energy Efficiency Co $722M",
-      "https://www.theassemblync.com/news/business/american-efficient-ferc-durham-fine/"
-    ]
-  ],
-  [
-    [
       "2026-05-04, 01:25:05",
       "https://news.ycombinator.com/item?id=48003549"
     ],
@@ -261,42 +271,32 @@
   ],
   [
     [
+      "2026-05-03, 17:07:01",
+      "https://news.ycombinator.com/item?id=47999020"
+    ],
+    [
+      "How to organize 3 acquired companies into one coherent website",
+      "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/"
+    ]
+  ],
+  [
+    [
+      "2026-05-03, 16:32:34",
+      "https://news.ycombinator.com/item?id=47998638"
+    ],
+    [
+      "Batteries Not Included, or Required, for These Smart Home Sensors",
+      "https://coe.gatech.edu/news/2026/04/batteries-not-included-or-required-these-smart-home-sensors"
+    ]
+  ],
+  [
+    [
       "2026-05-03, 15:28:48",
       "https://news.ycombinator.com/item?id=47997915"
     ],
     [
       "Wiki Builder: Skill to Build LLM Knowledge Bases",
       "https://academy.dair.ai/blog/wiki-builder-claude-code-plugin"
-    ]
-  ],
-  [
-    [
-      "2026-05-03, 14:14:45",
-      "https://news.ycombinator.com/item?id=47997154"
-    ],
-    [
-      "Five Banana Lessons",
-      "https://allensthoughts.com/2026/05/03/five-banana-lessons/"
-    ]
-  ],
-  [
-    [
-      "2026-05-03, 13:25:59",
-      "https://news.ycombinator.com/item?id=47996740"
-    ],
-    [
-      "I completed 100 Days of Java over 5 years and mapped the journey as a graph",
-      "https://mohibulsblog.netlify.app/java/100daysofjava/graph/"
-    ]
-  ],
-  [
-    [
-      "2026-04-30, 13:21:43",
-      "https://news.ycombinator.com/item?id=47962032"
-    ],
-    [
-      "Should I run plain Docker Compose in production in 2026?",
-      "https://distr.sh/blog/running-docker-in-production/"
     ]
   ]
 ]
