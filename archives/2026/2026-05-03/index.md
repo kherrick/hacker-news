@@ -44,6 +44,7 @@
 * [2026-05-03, 14:42:27](https://news.ycombinator.com/item?id=47997403) - [The Hiddn Financial Bubble in AI Infrastructure [pdf]](https://financial-ai-bubble.pagey.site/The-Hidden-Financial-Bubble-in-AI-Infrastructure.pdf)
 * [2026-05-03, 14:36:14](https://news.ycombinator.com/item?id=47997358) - [Utah to hold websites liable for users who mask their location with VPNs](https://www.tomshardware.com/software/vpn/utah-becomes-first-us-state-to-target-vpn-use-with-age-verification-law)
 * [2026-05-03, 14:34:01](https://news.ycombinator.com/item?id=47997339) - [Breaking Up with WordPress After Two Decades](https://yusufaytas.com/breaking-up-with-wordpress-after-two-decades)
+* [2026-05-03, 14:14:45](https://news.ycombinator.com/item?id=47997154) - [Five Banana Lessons](https://allensthoughts.com/2026/05/03/five-banana-lessons/)
 * [2026-05-03, 14:13:23](https://news.ycombinator.com/item?id=47997138) - [Porsche will contest Laguna Seca in historic colors of the Apple Computer livery](https://newsroom.porsche.com/en_US/2026/motorsport/porsche-will-contest-laguna-seca-in-historic-colors-of-the-apple-computer-livery.html)
 * [2026-05-03, 14:02:33](https://news.ycombinator.com/item?id=47997059) - [Modern jet engine turbines: each blade a single crystal (2015)](https://www.americanscientist.org/article/each-blade-a-single-crystal)
 * [2026-05-03, 14:02:23](https://news.ycombinator.com/item?id=47997056) - [Alert-Driven Monitoring](https://simpleobservability.com/docs/alert-driven-monitoring)

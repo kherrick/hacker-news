@@ -51,6 +51,7 @@
 * [2026-05-04, 09:31:31](https://news.ycombinator.com/item?id=48006403) - [Setting up server monitoring for a Rails app on Hatchbox](https://blog.appsignal.com/2026/04/30/setting-up-server-monitoring-for-a-rails-app-on-hatchbox.html)
 * [2026-05-04, 09:31:12](https://news.ycombinator.com/item?id=48006402) - [GameStop makes $55.5B takeover offer for eBay](https://www.bbc.co.uk/news/articles/cn0p8yled1do)
 * [2026-05-04, 08:40:41](https://news.ycombinator.com/item?id=48006123) - [Over 8M Thermos jars and bottles recalled after 3 people lost vision](https://www.goodmorningamerica.com/living/story/8-million-thermos-jars-bottles-recalled-after-3-132568152)
+* [2026-05-04, 06:46:10](https://news.ycombinator.com/item?id=48005432) - [CARA 2.0 – “I Built a Better Robot Dog”](https://www.aaedmusa.com/projects/cara2)
 * [2026-05-04, 05:32:21](https://news.ycombinator.com/item?id=48004992) - [Feds Fine Durham Energy Efficiency Co $722M](https://www.theassemblync.com/news/business/american-efficient-ferc-durham-fine/)
 * [2026-05-04, 04:43:36](https://news.ycombinator.com/item?id=48004734) - [Stitch Together Lots of Little HTML Pages with Navigations for Interactions](https://blog.jim-nielsen.com/2026/small-html-pages/)
 * [2026-05-04, 03:42:09](https://news.ycombinator.com/item?id=48004380) - [Humanoid Robot Actuators](https://www.firgelli.com/pages/humanoid-robot-actuators)
