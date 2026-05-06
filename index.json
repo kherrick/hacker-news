@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-05-06, 22:48:11",
+      "https://news.ycombinator.com/item?id=48042918"
+    ],
+    [
+      "UK businesses brace for jet fuel rationing",
+      "https://bmmagazine.co.uk/news/uk-jet-fuel-shortage-rationing-goldman-sachs-warning/"
+    ]
+  ],
+  [
+    [
+      "2026-05-06, 22:38:51",
+      "https://news.ycombinator.com/item?id=48042842"
+    ],
+    [
+      "David Sacks crashed and burned in the White House",
+      "https://www.theverge.com/column/925487/david-sacks-trump-administration-ai-model-review"
+    ]
+  ],
+  [
+    [
       "2026-05-06, 21:26:53",
       "https://news.ycombinator.com/item?id=48042099"
     ],
@@ -11,22 +31,22 @@
   ],
   [
     [
+      "2026-05-06, 21:14:30",
+      "https://news.ycombinator.com/item?id=48041953"
+    ],
+    [
+      "Mickey Mouse is watching you: Disneyland deploys facial recognition",
+      "https://www.theguardian.com/us-news/2026/apr/28/disneyland-entrance-facial-recognition"
+    ]
+  ],
+  [
+    [
       "2026-05-06, 20:28:17",
       "https://news.ycombinator.com/item?id=48041316"
     ],
     [
       "Show HN: PHP-fts – Full-text search engine in pure PHP, no extensions",
       "https://github.com/olivier-ls/php-fts"
-    ]
-  ],
-  [
-    [
-      "2026-05-06, 20:02:42",
-      "https://news.ycombinator.com/item?id=48041009"
-    ],
-    [
-      "MIT’s virtual violin offers luthiers a new design tool",
-      "https://arstechnica.com/science/2026/05/mits-virtual-violin-offers-luthiers-a-new-design-tool/"
     ]
   ],
   [
@@ -57,16 +77,6 @@
     [
       "Google Cloud fraud defense, the next evolution of reCAPTCHA",
       "https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/"
-    ]
-  ],
-  [
-    [
-      "2026-05-06, 17:22:49",
-      "https://news.ycombinator.com/item?id=48038864"
-    ],
-    [
-      "Going Full Time on Open Source",
-      "https://jdx.dev/posts/2026-04-17-going-full-time-on-open-source/"
     ]
   ],
   [
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2026-05-06, 14:24:33",
-      "https://news.ycombinator.com/item?id=48036650"
-    ],
-    [
-      "Mythos is the best cybersecurity news in a decade",
-      "https://sfstandard.com/opinion/2026/05/06/mythos-cybersecurity-ai/"
-    ]
-  ],
-  [
-    [
       "2026-05-06, 12:00:24",
       "https://news.ycombinator.com/item?id=48035223"
     ],
@@ -231,26 +231,6 @@
   ],
   [
     [
-      "2026-05-06, 04:40:19",
-      "https://news.ycombinator.com/item?id=48032240"
-    ],
-    [
-      "Google tools for customizing searches",
-      "https://cardcatalogforlife.substack.com/p/google-has-a-secret-reference-desk"
-    ]
-  ],
-  [
-    [
-      "2026-05-06, 03:37:51",
-      "https://news.ycombinator.com/item?id=48031867"
-    ],
-    [
-      "245TB Micron 6600 ION Data Center SSD Now Shipping",
-      "https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now"
-    ]
-  ],
-  [
-    [
       "2026-05-05, 19:38:48",
       "https://news.ycombinator.com/item?id=48027455"
     ],
@@ -267,6 +247,16 @@
     [
       "What makes a good smartphone camera?",
       "https://cadence.moe/blog/2026-05-05-what-makes-a-good-smartphone-camera"
+    ]
+  ],
+  [
+    [
+      "2026-05-05, 17:18:21",
+      "https://news.ycombinator.com/item?id=48025540"
+    ],
+    [
+      "Building my own Vi text editor in BASIC",
+      "https://leetusman.com/nosebook/yvi"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Batteries Not Included, or Required, for These Smart Home Sensors",
       "https://coe.gatech.edu/news/2026/04/batteries-not-included-or-required-these-smart-home-sensors"
+    ]
+  ],
+  [
+    [
+      "2026-05-03, 13:16:18",
+      "https://news.ycombinator.com/item?id=47996668"
+    ],
+    [
+      "Virtual violin produces realistic sounds",
+      "https://news.mit.edu/2026/mit-engineers-virtual-violin-produces-realistic-sounds-0429"
     ]
   ]
 ]
