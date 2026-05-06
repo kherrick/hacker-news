@@ -13,6 +13,7 @@
 * [2026-05-05, 20:35:03](https://news.ycombinator.com/item?id=48028136) - [Apple Cuts More Mac Studio and Mac Mini RAM Options as Memory Shortage Worsens](https://www.macrumors.com/2026/05/05/apple-mac-studio-mac-mini-ram-cuts/)
 * [2026-05-05, 20:16:35](https://news.ycombinator.com/item?id=48027897) - [DNSSEC disruption affecting .de domains – Resolved](https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38)
 * [2026-05-05, 20:16:35](https://news.ycombinator.com/item?id=48027897) - [.de TLD offline due to DNSSEC?](https://dnssec-analyzer.verisignlabs.com/nic.de)
+* [2026-05-05, 19:38:48](https://news.ycombinator.com/item?id=48027455) - [A Theory of Deep Learning](https://elonlit.com/scrivings/a-theory-of-deep-learning/)
 * [2026-05-05, 19:05:18](https://news.ycombinator.com/item?id=48027022) - [What five years of data tells us about lasting relationships](https://hanker.dating/study)
 * [2026-05-05, 18:49:02](https://news.ycombinator.com/item?id=48026773) - [What makes a good smartphone camera?](https://cadence.moe/blog/2026-05-05-what-makes-a-good-smartphone-camera)
 * [2026-05-05, 18:13:47](https://news.ycombinator.com/item?id=48026349) - [California farmers to destroy 420k peach trees following Del Monte bankruptcy](https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php)

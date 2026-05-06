@@ -4,6 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-05-06](index.md)
 
+* [2026-05-06, 18:25:06](https://news.ycombinator.com/item?id=48039739) - [BYD overtakes Tesla and Kia as the best-selling EV brand in key overseas markets](https://electrek.co/2026/05/05/byd-overtakes-tesla-kia-best-selling-ev-brand-key-overseas-markets/)
+* [2026-05-06, 17:59:33](https://news.ycombinator.com/item?id=48039362) - [Google Cloud fraud defense, the next evolution of reCAPTCHA](https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/)
+* [2026-05-06, 17:23:49](https://news.ycombinator.com/item?id=48038873) - [Egg Intake and the Incidence of Alzheimer's Disease in Adventist Health Study-2](https://www.sciencedirect.com/science/article/pii/S0022316626001902)
+* [2026-05-06, 17:22:49](https://news.ycombinator.com/item?id=48038864) - [Going Full Time on Open Source](https://jdx.dev/posts/2026-04-17-going-full-time-on-open-source/)
+* [2026-05-06, 17:19:34](https://news.ycombinator.com/item?id=48038827) - [From Supabase to Clerk to Better Auth](https://blog.val.town/better-auth)
+* [2026-05-06, 17:14:23](https://news.ycombinator.com/item?id=48038753) - [Chrome downloads a 4GB AI file without user consent, researcher alleges](https://www.engadget.com/2166113/chrome-downloads-a-4gb-ai-file-without-user-consent-researcher-alleges/)
+* [2026-05-06, 16:54:21](https://news.ycombinator.com/item?id=48038489) - [Colombia hosts talks on exiting fossil fuels as global energy crisis deepens](https://www.latimes.com/environment/story/2026-04-26/colombia-hosts-talks-on-exiting-fossil-fuels-as-global-energy-crisis-deepens)
 * [2026-05-06, 16:37:52](https://news.ycombinator.com/item?id=48038257) - [Show HN: Hallucinopedia](http://halupedia.com/)
 * [2026-05-06, 16:21:03](https://news.ycombinator.com/item?id=48038031) - [The Disadvantages of an Elite Education (2008)](https://theamericanscholar.org/the-disadvantages-of-an-elite-education/)
 * [2026-05-06, 16:20:00](https://news.ycombinator.com/item?id=48038019) - [Show HN: I built an open-source email builder, alternative to Beefree/Unlayer](https://play.templatical.com)
@@ -26,6 +33,7 @@
 * [2026-05-06, 05:34:48](https://news.ycombinator.com/item?id=48032617) - [Behavior-Oriented Concurrency for Python](https://microsoft.github.io/bocpy/)
 * [2026-05-06, 05:13:58](https://news.ycombinator.com/item?id=48032461) - [Knitting bullshit](https://katedaviesdesigns.com/2026/04/29/knitting-bullshit/)
 * [2026-05-06, 04:43:25](https://news.ycombinator.com/item?id=48032265) - [Multi-stroke text effect in CSS](https://yuanchuan.dev/multi-stroke-text-effect-in-css)
+* [2026-05-06, 04:40:19](https://news.ycombinator.com/item?id=48032240) - [Google tools for customizing searches](https://cardcatalogforlife.substack.com/p/google-has-a-secret-reference-desk)
 * [2026-05-06, 03:37:51](https://news.ycombinator.com/item?id=48031867) - [245TB Micron 6600 ION Data Center SSD Now Shipping](https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now)
 * [2026-05-06, 03:24:49](https://news.ycombinator.com/item?id=48031769) - [Ombudsman column: The Pentagon is trying to silence me](https://www.stripes.com/opinion/2026-04-23/stripes-former-ombudsman-pentagon-trying-to-silence-21465037.html)
 * [2026-05-06, 03:15:05](https://news.ycombinator.com/item?id=48031707) - [Update on \"Co-authored-by: Copilot\" in commit messages](https://github.com/microsoft/vscode/issues/314311)
