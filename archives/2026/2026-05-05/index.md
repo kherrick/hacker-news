@@ -39,6 +39,7 @@
 * [2026-05-05, 14:07:50](https://news.ycombinator.com/item?id=48022742) - [AI didn't delete your database, you did](https://idiallo.com/blog/ai-didnt-delete-your-database-you-did)
 * [2026-05-05, 13:55:45](https://news.ycombinator.com/item?id=48022596) - [Simple Meta-Harness on Islo.dev](https://zozo123.github.io/meta-harness-on-islo-page/)
 * [2026-05-05, 13:00:47](https://news.ycombinator.com/item?id=48021968) - [AI Product Graveyard](https://tooldirectory.ai/ai-graveyard)
+* [2026-05-05, 12:56:16](https://news.ycombinator.com/item?id=48021901) - [Community firmware for the Xteink X4 e-paper reader](https://github.com/crosspoint-reader/crosspoint-reader)
 * [2026-05-05, 12:28:28](https://news.ycombinator.com/item?id=48021561) - [iOS 27 is adding a 'Create a Pass' button to Apple Wallet](https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/)
 * [2026-05-05, 12:14:17](https://news.ycombinator.com/item?id=48021420) - [Show HN: I built a new word game, Wordtrak](https://wordtrak.com/blog/2026-05-05-I-built-a-new-word-game)
 * [2026-05-05, 12:10:24](https://news.ycombinator.com/item?id=48021368) - [Today I've made the difficult decision to reduce the size of Coinbase by ~14%](https://twitter.com/brian_armstrong/status/2051616759145185723)
