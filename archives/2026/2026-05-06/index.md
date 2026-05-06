@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-06](index.md)
 
+* [2026-05-06, 12:00:24](https://news.ycombinator.com/item?id=48035223) - [Cat (YC S22) Seeks Fractional Engineer to Build AI-Native Growth Toolkit](https://www.coveragecat.com/careers/engineering/fractional-growth-engineer)
+* [2026-05-06, 10:53:52](https://news.ycombinator.com/item?id=48034762) - [Setting up a Sun Ray server on OpenIndiana Hipster 2025.10](https://catstret.ch/202605/srss-hipster202510/)
 * [2026-05-06, 10:28:40](https://news.ycombinator.com/item?id=48034587) - [Show HN: Red Squares – GitHub outages as contributions](https://red-squares.cian.lol/)
 * [2026-05-06, 09:57:58](https://news.ycombinator.com/item?id=48034372) - [NZ Government to Disestablish the BSA](https://www.beehive.govt.nz/release/government-disestablish-bsa)
 * [2026-05-06, 09:00:07](https://news.ycombinator.com/item?id=48033952) - [The AI operator: Biggest role in Silicon Valley](https://www.rishgupta.com/blog/the-ai-operator-biggest-role-in-silicon-valley)
