@@ -1,32 +1,62 @@
 [
   [
     [
-      "2026-05-05, 22:43:47",
-      "https://news.ycombinator.com/item?id=48029753"
+      "2026-05-06, 03:24:49",
+      "https://news.ycombinator.com/item?id=48031769"
     ],
     [
-      "Xbox CEO ends Copilot AI development and overhauls leadership",
-      "https://www.dexerto.com/gaming/xbox-ceo-ends-copilot-ai-development-overhauls-leadership-3361353/"
+      "Ombudsman column: The Pentagon is trying to silence me",
+      "https://www.stripes.com/opinion/2026-04-23/stripes-former-ombudsman-pentagon-trying-to-silence-21465037.html"
     ]
   ],
   [
     [
-      "2026-05-05, 22:07:18",
-      "https://news.ycombinator.com/item?id=48029334"
+      "2026-05-06, 03:15:05",
+      "https://news.ycombinator.com/item?id=48031707"
     ],
     [
-      "Zuckerberg 'personally authorized' Meta's copyright infringement, publishers say",
-      "https://apnews.com/article/meta-mark-zuckerberg-ai-publishers-lawsuit-llama-5609846d4d840014974a847b01079c32"
+      "Update on \"Co-authored-by: Copilot\" in commit messages",
+      "https://github.com/microsoft/vscode/issues/314311"
     ]
   ],
   [
     [
-      "2026-05-05, 21:50:21",
-      "https://news.ycombinator.com/item?id=48029114"
+      "2026-05-06, 03:10:33",
+      "https://news.ycombinator.com/item?id=48031684"
     ],
     [
-      "NPR finds \"no sign\" of Polymarket at its Panama HQ address",
-      "https://www.npr.org/2026/05/05/nx-s1-5807918/polymarket-panama-prediction-market"
+      "Agents can now create Cloudflare accounts, buy domains, and deploy",
+      "https://blog.cloudflare.com/agents-stripe-projects/"
+    ]
+  ],
+  [
+    [
+      "2026-05-06, 02:03:44",
+      "https://news.ycombinator.com/item?id=48031261"
+    ],
+    [
+      "StarFighter 16-Inch",
+      "https://us.starlabs.systems/pages/starfighter"
+    ]
+  ],
+  [
+    [
+      "2026-05-06, 01:38:44",
+      "https://news.ycombinator.com/item?id=48031109"
+    ],
+    [
+      "Telus Uses AI to Alter Call-Agent Accents",
+      "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63"
+    ]
+  ],
+  [
+    [
+      "2026-05-06, 01:15:31",
+      "https://news.ycombinator.com/item?id=48030964"
+    ],
+    [
+      "YouTube, your RSS feeds are broken",
+      "https://openrss.org/blog/youtube-your-feeds-are-broken"
     ]
   ],
   [
@@ -97,16 +127,6 @@
     [
       "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
       "https://arxiv.org/abs/2604.26752"
-    ]
-  ],
-  [
-    [
-      "2026-05-05, 17:28:18",
-      "https://news.ycombinator.com/item?id=48025687"
-    ],
-    [
-      "IBM didn't want Microsoft to use the Tab key to move between dialog fields",
-      "https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298"
     ]
   ],
   [
@@ -231,32 +251,32 @@
   ],
   [
     [
-      "2026-05-03, 20:02:21",
-      "https://news.ycombinator.com/item?id=48000811"
+      "2026-05-04, 05:32:21",
+      "https://news.ycombinator.com/item?id=48004992"
     ],
     [
-      "Urban Birds Are Rising Earlier Because of Traffic Noise (2013)",
-      "https://www.audubon.org/news/urban-birds-are-rising-earlier-because-traffic-noise"
+      "Feds Fine Durham Energy Efficiency Co $722M",
+      "https://www.theassemblync.com/news/business/american-efficient-ferc-durham-fine/"
     ]
   ],
   [
     [
-      "2026-05-03, 18:09:34",
-      "https://news.ycombinator.com/item?id=47999698"
+      "2026-05-04, 01:25:05",
+      "https://news.ycombinator.com/item?id=48003549"
     ],
     [
-      "Past Ferrari Models, 1947–2023",
-      "https://www.ferrari.com/en-US/auto/past-model"
+      "Make some art with your phone sensors",
+      "https://tautme.github.io/phone-sensors/sensor-etch.html"
     ]
   ],
   [
     [
-      "2026-05-03, 16:35:20",
-      "https://news.ycombinator.com/item?id=47998664"
+      "2026-05-03, 15:28:48",
+      "https://news.ycombinator.com/item?id=47997915"
     ],
     [
-      "Underwater robot tracks sperm whale conversations in real time",
-      "https://www.reuters.com/business/environment/underwater-robot-tracks-sperm-whale-conversations-real-time-2026-05-01/"
+      "Wiki Builder: Skill to Build LLM Knowledge Bases",
+      "https://academy.dair.ai/blog/wiki-builder-claude-code-plugin"
     ]
   ],
   [
@@ -267,26 +287,6 @@
     [
       "I completed 100 Days of Java over 5 years and mapped the journey as a graph",
       "https://mohibulsblog.netlify.app/java/100daysofjava/graph/"
-    ]
-  ],
-  [
-    [
-      "2026-05-03, 12:43:12",
-      "https://news.ycombinator.com/item?id=47996395"
-    ],
-    [
-      "The extended predicative Mahlo universe in Martin-Löf type theory",
-      "https://academic.oup.com/logcom/article/34/6/1032/7158523"
-    ]
-  ],
-  [
-    [
-      "2026-05-03, 08:58:50",
-      "https://news.ycombinator.com/item?id=47994946"
-    ],
-    [
-      "Researchers print structural colour with an inkjet printer",
-      "https://physicsworld.com/a/researchers-print-structural-colour-with-an-inkjet-printer/"
     ]
   ],
   [
