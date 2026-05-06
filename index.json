@@ -1,6 +1,86 @@
 [
   [
     [
+      "2026-05-06, 16:37:52",
+      "https://news.ycombinator.com/item?id=48038257"
+    ],
+    [
+      "Show HN: Hallucinopedia",
+      "http://halupedia.com/"
+    ]
+  ],
+  [
+    [
+      "2026-05-06, 16:21:03",
+      "https://news.ycombinator.com/item?id=48038031"
+    ],
+    [
+      "The Disadvantages of an Elite Education (2008)",
+      "https://theamericanscholar.org/the-disadvantages-of-an-elite-education/"
+    ]
+  ],
+  [
+    [
+      "2026-05-06, 16:20:00",
+      "https://news.ycombinator.com/item?id=48038019"
+    ],
+    [
+      "Show HN: I built an open-source email builder, alternative to Beefree/Unlayer",
+      "https://play.templatical.com"
+    ]
+  ],
+  [
+    [
+      "2026-05-06, 16:18:29",
+      "https://news.ycombinator.com/item?id=48038001"
+    ],
+    [
+      "Appearing Productive in the Workplace",
+      "https://nooneshappy.com/article/appearing-productive-in-the-workplace/"
+    ]
+  ],
+  [
+    [
+      "2026-05-06, 16:17:33",
+      "https://news.ycombinator.com/item?id=48037986"
+    ],
+    [
+      "Higher usage limits for Claude and a compute deal with SpaceX",
+      "https://www.anthropic.com/news/higher-limits-spacex"
+    ]
+  ],
+  [
+    [
+      "2026-05-06, 15:58:34",
+      "https://news.ycombinator.com/item?id=48037724"
+    ],
+    [
+      "Show HN: Tilde.run – Agent Sandbox with a Transactional, Versioned Filesystem",
+      "https://tilde.run/"
+    ]
+  ],
+  [
+    [
+      "2026-05-06, 15:44:13",
+      "https://news.ycombinator.com/item?id=48037555"
+    ],
+    [
+      "Valve releases Steam Controller CAD files under Creative Commons license",
+      "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license"
+    ]
+  ],
+  [
+    [
+      "2026-05-06, 15:06:37",
+      "https://news.ycombinator.com/item?id=48037128"
+    ],
+    [
+      "Vibe coding and agentic engineering are getting closer than I'd like",
+      "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/"
+    ]
+  ],
+  [
+    [
       "2026-05-06, 14:56:37",
       "https://news.ycombinator.com/item?id=48037009"
     ],
@@ -11,32 +91,12 @@
   ],
   [
     [
-      "2026-05-06, 12:56:29",
-      "https://news.ycombinator.com/item?id=48035677"
-    ],
-    [
-      "Show HN: Adam – An embeddable cross-platform AI agent library",
-      "https://github.com/sqliteai/adam"
-    ]
-  ],
-  [
-    [
       "2026-05-06, 12:50:27",
       "https://news.ycombinator.com/item?id=48035617"
     ],
     [
-      "Shrinkflation Is Quietly Making All Gadgets Worse",
+      "RAM prices are forcing companies to choose higher prices, worse specs, or both",
       "https://gizmodo.com/shrinkflation-is-quietly-making-all-gadgets-worse-2000754565"
-    ]
-  ],
-  [
-    [
-      "2026-05-06, 12:49:04",
-      "https://news.ycombinator.com/item?id=48035607"
-    ],
-    [
-      "Building the deployment tool I wish I had",
-      "https://ruuda.nl/2026/deptool"
     ]
   ],
   [
@@ -57,16 +117,6 @@
     [
       "Setting up a Sun Ray server on OpenIndiana Hipster 2025.10",
       "https://catstret.ch/202605/srss-hipster202510/"
-    ]
-  ],
-  [
-    [
-      "2026-05-06, 10:28:40",
-      "https://news.ycombinator.com/item?id=48034587"
-    ],
-    [
-      "Show HN: Red Squares – GitHub outages as contributions",
-      "https://red-squares.cian.lol/"
     ]
   ],
   [
@@ -151,22 +201,22 @@
   ],
   [
     [
-      "2026-05-05, 21:05:19",
-      "https://news.ycombinator.com/item?id=48028546"
-    ],
-    [
-      "Why most product tours get skipped",
-      "https://productonboarding.com/articles/why-product-tours-get-skipped"
-    ]
-  ],
-  [
-    [
       "2026-05-05, 20:16:35",
       "https://news.ycombinator.com/item?id=48027897"
     ],
     [
       "DNSSEC disruption affecting .de domains – Resolved",
       "https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38"
+    ]
+  ],
+  [
+    [
+      "2026-05-05, 18:49:02",
+      "https://news.ycombinator.com/item?id=48026773"
+    ],
+    [
+      "What makes a good smartphone camera?",
+      "https://cadence.moe/blog/2026-05-05-what-makes-a-good-smartphone-camera"
     ]
   ],
   [
@@ -187,46 +237,6 @@
     [
       "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
       "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/"
-    ]
-  ],
-  [
-    [
-      "2026-05-05, 15:47:18",
-      "https://news.ycombinator.com/item?id=48024129"
-    ],
-    [
-      "EEVblog: The 555 Timer is 55 years old [video]",
-      "https://www.youtube.com/watch?v=6JhK8iCQuqI"
-    ]
-  ],
-  [
-    [
-      "2026-05-05, 15:27:18",
-      "https://news.ycombinator.com/item?id=48023861"
-    ],
-    [
-      "Three Inverse Laws of AI",
-      "https://susam.net/inverse-laws-of-robotics.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-05, 12:10:24",
-      "https://news.ycombinator.com/item?id=48021368"
-    ],
-    [
-      "Today I've made the difficult decision to reduce the size of Coinbase by ~14%",
-      "https://twitter.com/brian_armstrong/status/2051616759145185723"
-    ]
-  ],
-  [
-    [
-      "2026-05-05, 07:34:55",
-      "https://news.ycombinator.com/item?id=48019219"
-    ],
-    [
-      "Google Chrome silently installs a 4 GB AI model on your device without consent",
-      "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Batteries Not Included, or Required, for These Smart Home Sensors",
       "https://coe.gatech.edu/news/2026/04/batteries-not-included-or-required-these-smart-home-sensors"
-    ]
-  ],
-  [
-    [
-      "2026-05-03, 15:28:48",
-      "https://news.ycombinator.com/item?id=47997915"
-    ],
-    [
-      "Wiki Builder: Skill to Build LLM Knowledge Bases",
-      "https://academy.dair.ai/blog/wiki-builder-claude-code-plugin"
     ]
   ],
   [
