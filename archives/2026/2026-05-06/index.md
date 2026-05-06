@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-05-06](index.md)
 
+* [2026-05-06, 14:56:37](https://news.ycombinator.com/item?id=48037009) - [CNN founder Ted Turner, a pioneer of cable TV news, dies at 87](https://www.cnn.com/2026/05/06/us/ted-turner-death)
+* [2026-05-06, 12:56:29](https://news.ycombinator.com/item?id=48035677) - [Show HN: Adam – An embeddable cross-platform AI agent library](https://github.com/sqliteai/adam)
+* [2026-05-06, 12:50:27](https://news.ycombinator.com/item?id=48035617) - [Shrinkflation Is Quietly Making All Gadgets Worse](https://gizmodo.com/shrinkflation-is-quietly-making-all-gadgets-worse-2000754565)
+* [2026-05-06, 12:49:04](https://news.ycombinator.com/item?id=48035607) - [Building the deployment tool I wish I had](https://ruuda.nl/2026/deptool)
 * [2026-05-06, 12:00:24](https://news.ycombinator.com/item?id=48035223) - [Cat (YC S22) Seeks Fractional Engineer to Build AI-Native Growth Toolkit](https://www.coveragecat.com/careers/engineering/fractional-growth-engineer)
 * [2026-05-06, 10:53:52](https://news.ycombinator.com/item?id=48034762) - [Setting up a Sun Ray server on OpenIndiana Hipster 2025.10](https://catstret.ch/202605/srss-hipster202510/)
 * [2026-05-06, 10:28:40](https://news.ycombinator.com/item?id=48034587) - [Show HN: Red Squares – GitHub outages as contributions](https://red-squares.cian.lol/)
