@@ -1,12 +1,42 @@
 [
   [
     [
-      "2026-05-07, 08:26:36",
-      "https://news.ycombinator.com/item?id=48046874"
+      "2026-05-07, 11:31:47",
+      "https://news.ycombinator.com/item?id=48048121"
     ],
     [
-      "Show HN: Social Network for Corporate Cringe",
-      "https://CringeOut.com"
+      "KLM flight attendant hospitalized after contact with hantavirus",
+      "https://nltimes.nl/2026/05/07/klm-flight-attendant-hospitalized-contact-hantavirus-cruise-ship-passenger"
+    ]
+  ],
+  [
+    [
+      "2026-05-07, 11:08:43",
+      "https://news.ycombinator.com/item?id=48047970"
+    ],
+    [
+      "LinkedIn profile visitor lists belong to the people, says Noyb",
+      "https://www.theregister.com/offbeat/2026/05/05/noyb-cries-foul-on-linkedin-withholding-profile-visitor-data/5225338"
+    ]
+  ],
+  [
+    [
+      "2026-05-07, 10:45:59",
+      "https://news.ycombinator.com/item?id=48047826"
+    ],
+    [
+      "Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)",
+      "https://ahk.cardor.dev"
+    ]
+  ],
+  [
+    [
+      "2026-05-07, 08:56:51",
+      "https://news.ycombinator.com/item?id=48047082"
+    ],
+    [
+      "ZAYA1-8B: An 8B Moe Model with 760M Active Params Matching DeepSeek-R1 on Math",
+      "https://firethering.com/zaya1-8b-open-source-math-coding-model/"
     ]
   ],
   [
@@ -37,16 +67,6 @@
     [
       "Show HN: Trust – Coding Rust like it's 1989",
       "https://github.com/wojtczyk/trust"
-    ]
-  ],
-  [
-    [
-      "2026-05-07, 04:25:43",
-      "https://news.ycombinator.com/item?id=48045384"
-    ],
-    [
-      "Building the TD4 4-Bit CPU",
-      "https://jayakody2000lk.blogspot.com/2026/05/building-td4-4-bit-cpu.html"
     ]
   ],
   [
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2026-05-06, 18:46:27",
-      "https://news.ycombinator.com/item?id=48040002"
-    ],
-    [
-      "Learning the Integral of a Diffusion Model",
-      "https://sander.ai/2026/05/06/flow-maps.html"
-    ]
-  ],
-  [
-    [
       "2026-05-06, 17:59:33",
       "https://news.ycombinator.com/item?id=48039362"
     ],
@@ -137,16 +147,6 @@
     [
       "From Supabase to Clerk to Better Auth",
       "https://blog.val.town/better-auth"
-    ]
-  ],
-  [
-    [
-      "2026-05-06, 17:13:54",
-      "https://news.ycombinator.com/item?id=48038750"
-    ],
-    [
-      "SoundOff: Low-Cost Passive Ultrasound Tags",
-      "https://yibo-fu.com/SoundOff-Low-cost-Passive-Ultrasound-Tags-for-Non-invasive-and-Non"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2026-05-06, 13:44:59",
-      "https://news.ycombinator.com/item?id=48036190"
-    ],
-    [
-      "What I learned making an app for my family",
-      "https://mendelgreenberg.com/posts/ourcar/"
-    ]
-  ],
-  [
-    [
       "2026-05-06, 04:10:05",
       "https://news.ycombinator.com/item?id=48032069"
     ],
@@ -231,12 +221,12 @@
   ],
   [
     [
-      "2026-05-05, 19:38:48",
-      "https://news.ycombinator.com/item?id=48027455"
+      "2026-05-05, 18:43:14",
+      "https://news.ycombinator.com/item?id=48026710"
     ],
     [
-      "A Theory of Deep Learning",
-      "https://elonlit.com/scrivings/a-theory-of-deep-learning/"
+      "The brave souls who bought a used, 340k-mile rental camper van",
+      "https://www.thedrive.com/news/meet-the-brave-souls-who-bought-a-used-340000-mile-rental-camper-van"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Chevrolet Performance eCrate package (400v/200hp)",
       "https://www.chevrolet.com/performance-parts/crate-engines/ecrate"
+    ]
+  ],
+  [
+    [
+      "2026-05-04, 14:08:27",
+      "https://news.ycombinator.com/item?id=48008999"
+    ],
+    [
+      "Indian matchbox labels as a visual archive",
+      "https://www.itsnicethat.com/features/the-view-from-mumbai-matchbook-graphic-design-130426"
     ]
   ]
 ]
