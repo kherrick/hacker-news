@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-05-06](index.md)
 
+* [2026-05-06, 23:21:53](https://news.ycombinator.com/item?id=48043184) - [What British people mean when they say 'sorry'](https://www.bbc.com/travel/article/20260506-what-british-people-really-mean-when-they-say-sorry)
 * [2026-05-06, 22:48:11](https://news.ycombinator.com/item?id=48042918) - [UK businesses brace for jet fuel rationing](https://bmmagazine.co.uk/news/uk-jet-fuel-shortage-rationing-goldman-sachs-warning/)
 * [2026-05-06, 22:38:51](https://news.ycombinator.com/item?id=48042842) - [David Sacks crashed and burned in the White House](https://www.theverge.com/column/925487/david-sacks-trump-administration-ai-model-review)
+* [2026-05-06, 21:58:43](https://news.ycombinator.com/item?id=48042434) - [SQLite Is a Library of Congress Recommended Storage Format](https://sqlite.org/locrsf.html)
 * [2026-05-06, 21:26:53](https://news.ycombinator.com/item?id=48042099) - [Apple is enforcing an old App Store rule against a new kind of software](https://adaptivesoftware.substack.com/p/the-wrapper-and-the-code)
 * [2026-05-06, 21:14:30](https://news.ycombinator.com/item?id=48041953) - [Mickey Mouse is watching you: Disneyland deploys facial recognition](https://www.theguardian.com/us-news/2026/apr/28/disneyland-entrance-facial-recognition)
 * [2026-05-06, 20:28:17](https://news.ycombinator.com/item?id=48041316) - [Show HN: PHP-fts – Full-text search engine in pure PHP, no extensions](https://github.com/olivier-ls/php-fts)
@@ -34,6 +36,7 @@
 * [2026-05-06, 15:06:37](https://news.ycombinator.com/item?id=48037128) - [Vibe coding and agentic engineering are getting closer than I'd like](https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/)
 * [2026-05-06, 14:56:37](https://news.ycombinator.com/item?id=48037009) - [CNN founder Ted Turner, a pioneer of cable TV news, dies at 87](https://www.cnn.com/2026/05/06/us/ted-turner-death)
 * [2026-05-06, 14:24:33](https://news.ycombinator.com/item?id=48036650) - [Mythos is the best cybersecurity news in a decade](https://sfstandard.com/opinion/2026/05/06/mythos-cybersecurity-ai/)
+* [2026-05-06, 13:44:59](https://news.ycombinator.com/item?id=48036190) - [What I Learned Making an App for My Family](https://mendelgreenberg.com/posts/ourcar/)
 * [2026-05-06, 12:56:29](https://news.ycombinator.com/item?id=48035677) - [Show HN: Adam – An embeddable cross-platform AI agent library](https://github.com/sqliteai/adam)
 * [2026-05-06, 12:50:27](https://news.ycombinator.com/item?id=48035617) - [Shrinkflation Is Quietly Making All Gadgets Worse](https://gizmodo.com/shrinkflation-is-quietly-making-all-gadgets-worse-2000754565)
 * [2026-05-06, 12:49:04](https://news.ycombinator.com/item?id=48035607) - [Building the deployment tool I wish I had](https://ruuda.nl/2026/deptool)
@@ -48,6 +51,7 @@
 * [2026-05-06, 05:13:58](https://news.ycombinator.com/item?id=48032461) - [Knitting bullshit](https://katedaviesdesigns.com/2026/04/29/knitting-bullshit/)
 * [2026-05-06, 04:43:25](https://news.ycombinator.com/item?id=48032265) - [Multi-stroke text effect in CSS](https://yuanchuan.dev/multi-stroke-text-effect-in-css)
 * [2026-05-06, 04:40:19](https://news.ycombinator.com/item?id=48032240) - [Google tools for customizing searches](https://cardcatalogforlife.substack.com/p/google-has-a-secret-reference-desk)
+* [2026-05-06, 04:10:05](https://news.ycombinator.com/item?id=48032069) - [Pen pal programs endure in a digital age](https://apnews.com/article/pen-pals-letters-comeback-bc87e1b9c229665bafd368e19751d6ca)
 * [2026-05-06, 03:37:51](https://news.ycombinator.com/item?id=48031867) - [245TB Micron 6600 ION Data Center SSD Now Shipping](https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now)
 * [2026-05-06, 03:24:49](https://news.ycombinator.com/item?id=48031769) - [Ombudsman column: The Pentagon is trying to silence me](https://www.stripes.com/opinion/2026-04-23/stripes-former-ombudsman-pentagon-trying-to-silence-21465037.html)
 * [2026-05-06, 03:15:05](https://news.ycombinator.com/item?id=48031707) - [Update on \"Co-authored-by: Copilot\" in commit messages](https://github.com/microsoft/vscode/issues/314311)
