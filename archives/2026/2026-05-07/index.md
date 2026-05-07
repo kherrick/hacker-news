@@ -4,7 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-05-07](index.md)
 
+* [2026-05-07, 17:06:00](https://news.ycombinator.com/item?id=48051873) - [California leaders report four to six weeks worth of gasoline and diesel supply](https://kmph.com/news/local/california-leaders-report-four-to-six-weeks-worth-of-gasoline-and-diesel-in-supply)
+* [2026-05-07, 17:00:21](https://news.ycombinator.com/item?id=48051804) - [Bubbles Are Really Evil](https://pluralistic.net/2026/05/07/dump-the-pumpers/)
+* [2026-05-07, 16:43:35](https://news.ycombinator.com/item?id=48051562) - [Agents need control flow, not more prompts](https://bsuh.bearblog.dev/agents-need-control-flow/)
 * [2026-05-07, 16:05:45](https://news.ycombinator.com/item?id=48051080) - [Authorities say Flock cameras' data allegedly used for immigration enforcement](https://www.ohio.news/stories/dayton-authorities-say-that-flock-cameras-data-allegedly-used-for-immigration-enforcement/)
+* [2026-05-07, 15:56:33](https://news.ycombinator.com/item?id=48050964) - [Chrome removes claim of On-device Al not sending data to Google Servers](https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/)
+* [2026-05-07, 15:40:24](https://news.ycombinator.com/item?id=48050751) - [DeepSeek 4 Flash local inference engine for Metal](https://github.com/antirez/ds4)
+* [2026-05-07, 15:38:36](https://news.ycombinator.com/item?id=48050732) - [Show HN: Stage CLI – a tool to make reading your AI generated changes easier](https://github.com/ReviewStage/stage-cli)
 * [2026-05-07, 15:23:23](https://news.ycombinator.com/item?id=48050540) - [Motherboard sales are now collapsing amid unprecedented shortages fueled by AI](https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers)
 * [2026-05-07, 15:02:20](https://news.ycombinator.com/item?id=48050278) - [AlphaEvolve: Gemini-powered coding agent scaling impact across fields](https://deepmind.google/blog/alphaevolve-impact/)
 * [2026-05-07, 14:32:25](https://news.ycombinator.com/item?id=48049963) - [MPEG-2 Transport Stream Packaging for Media over QUIC Transport](https://www.ietf.org/archive/id/draft-gregoire-moq-msfts-00.html)

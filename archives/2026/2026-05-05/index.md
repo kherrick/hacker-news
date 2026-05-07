@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-05-05](index.md)
 
 * [2026-05-05, 22:43:47](https://news.ycombinator.com/item?id=48029753) - [Xbox CEO ends Copilot AI development and overhauls leadership](https://www.dexerto.com/gaming/xbox-ceo-ends-copilot-ai-development-overhauls-leadership-3361353/)
+* [2026-05-05, 22:41:08](https://news.ycombinator.com/item?id=48029732) - [Printing Blogs](https://fi-le.net/print/)
 * [2026-05-05, 22:07:18](https://news.ycombinator.com/item?id=48029334) - [Zuckerberg 'personally authorized' Meta's copyright infringement, publishers say](https://apnews.com/article/meta-mark-zuckerberg-ai-publishers-lawsuit-llama-5609846d4d840014974a847b01079c32)
 * [2026-05-05, 22:02:35](https://news.ycombinator.com/item?id=48029261) - [SingleRide: Longest route on NYC Subway without visiting the same station twice](https://singleride.nyc/)
 * [2026-05-05, 21:50:21](https://news.ycombinator.com/item?id=48029114) - [NPR finds \"no sign\" of Polymarket at its Panama HQ address](https://www.npr.org/2026/05/05/nx-s1-5807918/polymarket-panama-prediction-market)
@@ -19,6 +20,7 @@
 * [2026-05-05, 19:05:18](https://news.ycombinator.com/item?id=48027022) - [What five years of data tells us about lasting relationships](https://hanker.dating/study)
 * [2026-05-05, 18:49:02](https://news.ycombinator.com/item?id=48026773) - [What makes a good smartphone camera?](https://cadence.moe/blog/2026-05-05-what-makes-a-good-smartphone-camera)
 * [2026-05-05, 18:43:14](https://news.ycombinator.com/item?id=48026710) - [The brave souls who bought a used, 340k-mile rental camper van](https://www.thedrive.com/news/meet-the-brave-souls-who-bought-a-used-340000-mile-rental-camper-van)
+* [2026-05-05, 18:18:42](https://news.ycombinator.com/item?id=48026412) - [PySimpleGUI 6](https://github.com/PySimpleGUI/PySimpleGUI)
 * [2026-05-05, 18:13:47](https://news.ycombinator.com/item?id=48026349) - [California farmers to destroy 420k peach trees following Del Monte bankruptcy](https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php)
 * [2026-05-05, 18:13:14](https://news.ycombinator.com/item?id=48026342) - [Show HN: Explore color palettes inspired by 3000 master painter artworks](https://paletteinspiration.com/)
 * [2026-05-05, 18:04:25](https://news.ycombinator.com/item?id=48026207) - [Zuckerberg 'Personally Authorized and Encouraged' Meta's Copyright Infringement](https://variety.com/2026/digital/news/meta-ai-mark-zuckerberg-copyright-infringement-lawsuit-publishers-scott-turow-1236738383/)
