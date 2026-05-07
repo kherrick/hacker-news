@@ -33,6 +33,7 @@
 * [2026-05-04, 16:39:15](https://news.ycombinator.com/item?id=48011077) - [Wolfenstein 3D for Gameboy Color on custom cartridge (2016)](https://www.happydaze.se/wolf/)
 * [2026-05-04, 16:33:47](https://news.ycombinator.com/item?id=48010992) - [\"They would never use the death star on us\"](https://www.mcsweeneys.net/articles/they-would-never-use-the-death-star-on-us-alderaan-residents-reflect-on-their-support-for-the-empire-as-a-large-imperial-installation-enters-the-system)
 * [2026-05-04, 16:21:38](https://news.ycombinator.com/item?id=48010774) - [OpenAI, Google, and Microsoft Back Bill to Fund 'AI Literacy' in Schools](https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/)
+* [2026-05-04, 16:19:31](https://news.ycombinator.com/item?id=48010729) - [RaTeX: KaTeX-compatible LaTeX rendering engine in pure Rust](https://ratex.lites.dev/)
 * [2026-05-04, 16:12:25](https://news.ycombinator.com/item?id=48010597) - [Homebridge 2.0 is here, and it speaks Matter](https://www.theverge.com/tech/922877/homebridge-2-0-matter-update-robot-vacuums)
 * [2026-05-04, 15:53:21](https://news.ycombinator.com/item?id=48010301) - [GitHub Is Down](https://www.githubstatus.com/incidents/72q3n8yxthcy)
 * [2026-05-04, 15:51:37](https://news.ycombinator.com/item?id=48010266) - [Sierra Raises $950M at $15B Valuation](https://sierra.ai/blog/better-customer-experiences-built-on-sierra)

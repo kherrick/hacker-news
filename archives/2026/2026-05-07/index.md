@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-05-07](index.md)
 
+* [2026-05-07, 14:06:10](https://news.ycombinator.com/item?id=48049653) - [The map that keeps Burning Man honest](https://www.not-ship.com/burning-man-moop/)
+* [2026-05-07, 13:25:31](https://news.ycombinator.com/item?id=48049160) - [Cloudflare responded to the \"Copy Fail\" Linux vulnerability](https://blog.cloudflare.com/copy-fail-linux-vulnerability-mitigation/)
+* [2026-05-07, 12:01:13](https://news.ycombinator.com/item?id=48048339) - [GovernGPT (YC W24) Is Hiring Engineers to Build Thinking Systems in Montreal](https://www.ycombinator.com/companies/governgpt/jobs/hRyltS0-backend-engineer-thinking-systems)
+* [2026-05-07, 11:51:59](https://news.ycombinator.com/item?id=48048262) - [The Upper Middle Class Trap](https://ofdollarsanddata.com/the-upper-middle-class-trap/)
 * [2026-05-07, 11:31:47](https://news.ycombinator.com/item?id=48048121) - [KLM flight attendant hospitalized after contact with hantavirus](https://nltimes.nl/2026/05/07/klm-flight-attendant-hospitalized-contact-hantavirus-cruise-ship-passenger)
+* [2026-05-07, 11:10:24](https://news.ycombinator.com/item?id=48047981) - [Grand Theft Oil Futures: Insider traders keep making a killing at our expense](https://paulkrugman.substack.com/p/grand-theft-oil-futures)
 * [2026-05-07, 11:08:43](https://news.ycombinator.com/item?id=48047970) - [LinkedIn profile visitor lists belong to the people, says Noyb](https://www.theregister.com/offbeat/2026/05/05/noyb-cries-foul-on-linkedin-withholding-profile-visitor-data/5225338)
 * [2026-05-07, 10:45:59](https://news.ycombinator.com/item?id=48047826) - [Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)](https://ahk.cardor.dev)
 * [2026-05-07, 08:56:51](https://news.ycombinator.com/item?id=48047082) - [ZAYA1-8B: An 8B Moe Model with 760M Active Params Matching DeepSeek-R1 on Math](https://firethering.com/zaya1-8b-open-source-math-coding-model/)

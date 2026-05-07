@@ -15,6 +15,7 @@
 * [2026-05-05, 20:16:35](https://news.ycombinator.com/item?id=48027897) - [DNSSEC disruption affecting .de domains – Resolved](https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38)
 * [2026-05-05, 20:16:35](https://news.ycombinator.com/item?id=48027897) - [.de TLD offline due to DNSSEC?](https://dnssec-analyzer.verisignlabs.com/nic.de)
 * [2026-05-05, 19:38:48](https://news.ycombinator.com/item?id=48027455) - [A Theory of Deep Learning](https://elonlit.com/scrivings/a-theory-of-deep-learning/)
+* [2026-05-05, 19:17:29](https://news.ycombinator.com/item?id=48027191) - [The mechanical latching memory of an adhesive tape](https://iopscience.iop.org/article/10.1088/1367-2630/ae4acc)
 * [2026-05-05, 19:05:18](https://news.ycombinator.com/item?id=48027022) - [What five years of data tells us about lasting relationships](https://hanker.dating/study)
 * [2026-05-05, 18:49:02](https://news.ycombinator.com/item?id=48026773) - [What makes a good smartphone camera?](https://cadence.moe/blog/2026-05-05-what-makes-a-good-smartphone-camera)
 * [2026-05-05, 18:43:14](https://news.ycombinator.com/item?id=48026710) - [The brave souls who bought a used, 340k-mile rental camper van](https://www.thedrive.com/news/meet-the-brave-souls-who-bought-a-used-340000-mile-rental-camper-van)
