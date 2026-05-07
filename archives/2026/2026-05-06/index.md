@@ -12,6 +12,7 @@
 * [2026-05-06, 20:02:42](https://news.ycombinator.com/item?id=48041009) - [MIT’s virtual violin offers luthiers a new design tool](https://arstechnica.com/science/2026/05/mits-virtual-violin-offers-luthiers-a-new-design-tool/)
 * [2026-05-06, 19:45:07](https://news.ycombinator.com/item?id=48040784) - [McDonald's is a premium product now (2024)](https://greyenlightenment.com/2024/07/31/mcdonalds-is-a-premium-product-now/)
 * [2026-05-06, 19:33:25](https://news.ycombinator.com/item?id=48040622) - [Inkscape 1.4.4](https://inkscape.org/doc/release_notes/1.4.4/Inkscape_1.4.4.html)
+* [2026-05-06, 19:06:41](https://news.ycombinator.com/item?id=48040269) - [Programming Still Sucks](https://www.stvn.sh/writing/programming-still-sucks-fqffhyp)
 * [2026-05-06, 18:46:27](https://news.ycombinator.com/item?id=48040002) - [Learning the Integral of a Diffusion Model](https://sander.ai/2026/05/06/flow-maps.html)
 * [2026-05-06, 18:25:06](https://news.ycombinator.com/item?id=48039739) - [BYD overtakes Tesla and Kia as the best-selling EV brand in key overseas markets](https://electrek.co/2026/05/05/byd-overtakes-tesla-kia-best-selling-ev-brand-key-overseas-markets/)
 * [2026-05-06, 18:19:49](https://news.ycombinator.com/item?id=48039674) - [Proton Meet](https://proton.me/business/blog/introducing-proton-meet)

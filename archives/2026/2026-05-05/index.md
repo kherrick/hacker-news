@@ -50,6 +50,7 @@
 * [2026-05-05, 07:26:18](https://news.ycombinator.com/item?id=48019165) - [The Frog for Whom the Bell Tolls](https://sethmlarson.dev/the-frog-for-whom-the-bell-tolls)
 * [2026-05-05, 07:26:03](https://news.ycombinator.com/item?id=48019163) - [Async Rust never left the MVP state](https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state)
 * [2026-05-05, 07:05:25](https://news.ycombinator.com/item?id=48019025) - [Lessons for Agentic Coding: What should we do when code is cheap?](https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html)
+* [2026-05-05, 06:14:48](https://news.ycombinator.com/item?id=48018715) - [How do I inform Windows that I'm writing a binary file?](https://devblogs.microsoft.com/oldnewthing/20260504-00/?p=112296)
 * [2026-05-05, 04:36:24](https://news.ycombinator.com/item?id=48018080) - [Kids bypass age verification with fake moustaches](https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/)
 * [2026-05-05, 04:33:22](https://news.ycombinator.com/item?id=48018066) - [About 10% of AMC movie showings sell zero tickets. This site finds them](https://walzr.com/empty-screenings)
 * [2026-05-05, 04:27:32](https://news.ycombinator.com/item?id=48018034) - [2-D Mathematical Curves](https://www.2dcurves.com/)
