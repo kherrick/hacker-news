@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-05-06](index.md)
 
 * [2026-05-06, 23:21:53](https://news.ycombinator.com/item?id=48043184) - [What British people mean when they say 'sorry'](https://www.bbc.com/travel/article/20260506-what-british-people-really-mean-when-they-say-sorry)
+* [2026-05-06, 23:00:01](https://news.ycombinator.com/item?id=48043010) - [Ads on Apple Maps](https://ads.apple.com/maps)
 * [2026-05-06, 22:48:11](https://news.ycombinator.com/item?id=48042918) - [UK businesses brace for jet fuel rationing](https://bmmagazine.co.uk/news/uk-jet-fuel-shortage-rationing-goldman-sachs-warning/)
 * [2026-05-06, 22:38:51](https://news.ycombinator.com/item?id=48042842) - [David Sacks crashed and burned in the White House](https://www.theverge.com/column/925487/david-sacks-trump-administration-ai-model-review)
 * [2026-05-06, 21:58:43](https://news.ycombinator.com/item?id=48042434) - [SQLite Is a Library of Congress Recommended Storage Format](https://sqlite.org/locrsf.html)

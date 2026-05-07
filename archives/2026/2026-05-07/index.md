@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-07](index.md)
 
+* [2026-05-07, 04:25:43](https://news.ycombinator.com/item?id=48045384) - [Building the TD4 4-Bit CPU](https://jayakody2000lk.blogspot.com/2026/05/building-td4-4-bit-cpu.html)
+* [2026-05-07, 03:46:15](https://news.ycombinator.com/item?id=48045174) - [ProgramBench: Can Language Models Rebuild Programs from Scratch?](https://arxiv.org/abs/2605.03546)
 * [2026-05-07, 03:21:30](https://news.ycombinator.com/item?id=48045067) - [We programmed a program to program new programs (2011)](https://www.smbc-comics.com/comic/2011-09-08)
 * [2026-05-07, 03:13:24](https://news.ycombinator.com/item?id=48045012) - [Diskless Linux boot using ZFS, iSCSI and PXE](https://aniket.foo/posts/20260505-netboot/)
 * [2026-05-07, 02:18:23](https://news.ycombinator.com/item?id=48044638) - [Permacomputing Principles](https://permacomputing.net/principles/)

@@ -16,6 +16,7 @@
 * [2026-05-04, 18:55:05](https://news.ycombinator.com/item?id=48013234) - [The Thinking Plant's Man (2025)](https://www.sciencehistory.org/stories/magazine/the-thinking-plants-man/)
 * [2026-05-04, 18:44:31](https://news.ycombinator.com/item?id=48013083) - [Perturb-MARS: Reading mouse experiments through a human lens](https://www.noetik.blog/p/perturb-mars-reading-mouse-experiments)
 * [2026-05-04, 18:22:42](https://news.ycombinator.com/item?id=48012735) - [Microsoft Edge stores all passwords in memory in clear text, even when unused](https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730)
+* [2026-05-04, 18:17:22](https://news.ycombinator.com/item?id=48012649) - [Chevrolet Performance eCrate package (400v/200hp)](https://www.chevrolet.com/performance-parts/crate-engines/ecrate)
 * [2026-05-04, 18:04:33](https://news.ycombinator.com/item?id=48012477) - [Offenders sentenced up to 10 years for spying on TSMC](https://www.taipeitimes.com/News/front/archives/2026/04/28/2003856358)
 * [2026-05-04, 17:46:32](https://news.ycombinator.com/item?id=48012162) - [U.S. military data left exposed at an a16z startup for 150 days](https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup)
 * [2026-05-04, 17:36:32](https://news.ycombinator.com/item?id=48012022) - [Days Without GitHub Incidents](https://www.dayswithoutgithubincident.com/)

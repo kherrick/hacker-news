@@ -1,11 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-05-07, 03:21:30](https://news.ycombinator.com/item?id=48045067) - [We programmed a program to program new programs (2011)](https://www.smbc-comics.com/comic/2011-09-08)
+* [2026-05-07, 04:25:43](https://news.ycombinator.com/item?id=48045384) - [Building the TD4 4-Bit CPU](https://jayakody2000lk.blogspot.com/2026/05/building-td4-4-bit-cpu.html)
+* [2026-05-07, 03:46:15](https://news.ycombinator.com/item?id=48045174) - [ProgramBench: Can Language Models Rebuild Programs from Scratch?](https://arxiv.org/abs/2605.03546)
 * [2026-05-07, 03:13:24](https://news.ycombinator.com/item?id=48045012) - [Diskless Linux boot using ZFS, iSCSI and PXE](https://aniket.foo/posts/20260505-netboot/)
 * [2026-05-07, 02:18:23](https://news.ycombinator.com/item?id=48044638) - [Permacomputing Principles](https://permacomputing.net/principles/)
 * [2026-05-07, 01:26:03](https://news.ycombinator.com/item?id=48044311) - [The Vatican's Website in Latin](https://www.vatican.va/latin/latin_index.html)
 * [2026-05-07, 00:40:06](https://news.ycombinator.com/item?id=48043964) - [RSS Feeds Send Me More Traffic Than Google](https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/)
-* [2026-05-06, 23:21:53](https://news.ycombinator.com/item?id=48043184) - [What British people mean when they say 'sorry'](https://www.bbc.com/travel/article/20260506-what-british-people-really-mean-when-they-say-sorry)
+* [2026-05-06, 23:00:01](https://news.ycombinator.com/item?id=48043010) - [Ads on Apple Maps](https://ads.apple.com/maps)
 * [2026-05-06, 21:58:43](https://news.ycombinator.com/item?id=48042434) - [SQLite Is a Library of Congress Recommended Storage Format](https://sqlite.org/locrsf.html)
 * [2026-05-06, 20:28:17](https://news.ycombinator.com/item?id=48041316) - [Show HN: PHP-fts – Full-text search engine in pure PHP, no extensions](https://github.com/olivier-ls/php-fts)
 * [2026-05-06, 19:33:25](https://news.ycombinator.com/item?id=48040622) - [Inkscape 1.4.4](https://inkscape.org/doc/release_notes/1.4.4/Inkscape_1.4.4.html)
@@ -15,7 +16,6 @@
 * [2026-05-06, 17:19:34](https://news.ycombinator.com/item?id=48038827) - [From Supabase to Clerk to Better Auth](https://blog.val.town/better-auth)
 * [2026-05-06, 17:13:54](https://news.ycombinator.com/item?id=48038750) - [SoundOff: Low-Cost Passive Ultrasound Tags](https://yibo-fu.com/SoundOff-Low-cost-Passive-Ultrasound-Tags-for-Non-invasive-and-Non)
 * [2026-05-06, 16:37:52](https://news.ycombinator.com/item?id=48038257) - [Show HN: Hallucinopedia](http://halupedia.com/)
-* [2026-05-06, 16:20:00](https://news.ycombinator.com/item?id=48038019) - [Show HN: I built an open-source email builder, alternative to Beefree/Unlayer](https://play.templatical.com)
 * [2026-05-06, 16:18:29](https://news.ycombinator.com/item?id=48038001) - [Appearing productive in the workplace](https://nooneshappy.com/article/appearing-productive-in-the-workplace/)
 * [2026-05-06, 15:58:34](https://news.ycombinator.com/item?id=48037724) - [Show HN: Tilde.run – Agent sandbox with a transactional, versioned filesystem](https://tilde.run/)
 * [2026-05-06, 15:44:13](https://news.ycombinator.com/item?id=48037555) - [Valve releases Steam Controller CAD files under Creative Commons license](https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license)
@@ -28,8 +28,8 @@
 * [2026-05-05, 15:50:15](https://news.ycombinator.com/item?id=48024164) - [Finding the differences in a series of power supplies](https://www.lttlabs.com/articles/2026/05/05/testing-psu-series)
 * [2026-05-05, 12:56:16](https://news.ycombinator.com/item?id=48021901) - [Community firmware for the Xteink X4 e-paper reader](https://github.com/crosspoint-reader/crosspoint-reader)
 * [2026-05-05, 08:09:41](https://news.ycombinator.com/item?id=48019414) - [The Mathematical Dance Inside Plant Cells](https://www.quantamagazine.org/the-hidden-mathematical-dance-inside-plant-cells-20260504/)
-* [2026-05-05, 06:14:48](https://news.ycombinator.com/item?id=48018715) - [How do I inform Windows that I'm writing a binary file?](https://devblogs.microsoft.com/oldnewthing/20260504-00/?p=112296)
 * [2026-05-04, 18:44:31](https://news.ycombinator.com/item?id=48013083) - [Perturb-MARS: Reading mouse experiments through a human lens](https://www.noetik.blog/p/perturb-mars-reading-mouse-experiments)
+* [2026-05-04, 18:17:22](https://news.ycombinator.com/item?id=48012649) - [Chevrolet Performance eCrate package (400v/200hp)](https://www.chevrolet.com/performance-parts/crate-engines/ecrate)
 
 ## [Archives](archives/index.md)
 
