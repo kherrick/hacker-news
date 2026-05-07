@@ -50,6 +50,7 @@
 * [2026-05-05, 12:28:28](https://news.ycombinator.com/item?id=48021561) - [iOS 27 is adding a 'Create a Pass' button to Apple Wallet](https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/)
 * [2026-05-05, 12:14:17](https://news.ycombinator.com/item?id=48021420) - [Show HN: I built a new word game, Wordtrak](https://wordtrak.com/blog/2026-05-05-I-built-a-new-word-game)
 * [2026-05-05, 12:10:24](https://news.ycombinator.com/item?id=48021368) - [Today I've made the difficult decision to reduce the size of Coinbase by ~14%](https://twitter.com/brian_armstrong/status/2051616759145185723)
+* [2026-05-05, 10:05:57](https://news.ycombinator.com/item?id=48020322) - [Nobody Reviews Compiler Output](https://skiplabs.io/blog/codegen_as_compiler)
 * [2026-05-05, 09:57:29](https://news.ycombinator.com/item?id=48020249) - [Show HN: Got tired of paying $100/mo for SEO tools, so I built an alternative](https://idiotproofseo.com/)
 * [2026-05-05, 09:30:22](https://news.ycombinator.com/item?id=48020063) - [When everyone has AI and the company still learns nothing](https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/)
 * [2026-05-05, 08:09:41](https://news.ycombinator.com/item?id=48019414) - [The Mathematical Dance Inside Plant Cells](https://www.quantamagazine.org/the-hidden-mathematical-dance-inside-plant-cells-20260504/)
