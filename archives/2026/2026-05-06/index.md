@@ -48,6 +48,7 @@
 * [2026-05-06, 09:57:58](https://news.ycombinator.com/item?id=48034372) - [NZ Government to Disestablish the BSA](https://www.beehive.govt.nz/release/government-disestablish-bsa)
 * [2026-05-06, 09:00:07](https://news.ycombinator.com/item?id=48033952) - [The AI operator: Biggest role in Silicon Valley](https://www.rishgupta.com/blog/the-ai-operator-biggest-role-in-silicon-valley)
 * [2026-05-06, 08:47:07](https://news.ycombinator.com/item?id=48033853) - [Why should a Trace-ID be 128 bits? (A Surprisingly Long Answer)](https://newsletter.signoz.io/p/why-should-a-trace-id-be-128-bits)
+* [2026-05-06, 08:25:50](https://news.ycombinator.com/item?id=48033705) - [The Deletion Test – The Phoenix Architecture](https://aicoding.leaflet.pub/3md5ftetaes2e)
 * [2026-05-06, 08:23:43](https://news.ycombinator.com/item?id=48033689) - [The Boring Internet](https://www.terrygodier.com/the-boring-internet)
 * [2026-05-06, 06:31:29](https://news.ycombinator.com/item?id=48032976) - [Reverse-engineering the 1998 Ultima Online demo server](https://draxinar.github.io/articles/2026-05-01-uodemo-reverse-engineering.html)
 * [2026-05-06, 05:34:48](https://news.ycombinator.com/item?id=48032617) - [Behavior-Oriented Concurrency for Python](https://microsoft.github.io/bocpy/)
