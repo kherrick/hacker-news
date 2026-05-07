@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-05-07](index.md)
 
 * [2026-05-07, 20:23:37](https://news.ycombinator.com/item?id=48054423) - [Building for the Future](https://blog.cloudflare.com/building-for-the-future/)
+* [2026-05-07, 19:32:33](https://news.ycombinator.com/item?id=48053770) - [Creating for a niche](https://www.davesnider.com/posts/working-in-a-niche)
 * [2026-05-07, 19:21:32](https://news.ycombinator.com/item?id=48053623) - [Dirtyfrag: Universal Linux LPE](https://www.openwall.com/lists/oss-security/2026/05/07/8)
 * [2026-05-07, 19:04:30](https://news.ycombinator.com/item?id=48053435) - [Colored Shadow Penumbra](https://chosker.github.io/blog/colored-shadow-penumbra)
 * [2026-05-07, 18:46:25](https://news.ycombinator.com/item?id=48053203) - [AI Slop Is Killing Online Communities](https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/)
@@ -26,6 +27,7 @@
 * [2026-05-07, 14:32:25](https://news.ycombinator.com/item?id=48049963) - [MPEG-2 Transport Stream Packaging for Media over QUIC Transport](https://www.ietf.org/archive/id/draft-gregoire-moq-msfts-00.html)
 * [2026-05-07, 14:15:16](https://news.ycombinator.com/item?id=48049764) - [The Self-Cancelling Subscription](https://predr.ag/blog/the-self-cancelling-subscription/)
 * [2026-05-07, 14:06:10](https://news.ycombinator.com/item?id=48049653) - [The map that keeps Burning Man honest](https://www.not-ship.com/burning-man-moop/)
+* [2026-05-07, 13:38:02](https://news.ycombinator.com/item?id=48049289) - [Automating Hermitage to see how transactions differ in MySQL and MariaDB](https://theconsensus.dev/p/2026/05/02/automating-hermitage.html)
 * [2026-05-07, 13:30:04](https://news.ycombinator.com/item?id=48049208) - [Child marriages plunged when girls stayed in school in Nigeria](https://www.nature.com/articles/d41586-026-00796-2)
 * [2026-05-07, 13:30:04](https://news.ycombinator.com/item?id=48049208) - [Child marriages plunged when girls stayed in school in Nigeria](https://www.nature.com/articles/d41586-026-00720-8)
 * [2026-05-07, 13:25:31](https://news.ycombinator.com/item?id=48049160) - [Cloudflare responded to the \"Copy Fail\" Linux vulnerability](https://blog.cloudflare.com/copy-fail-linux-vulnerability-mitigation/)
@@ -40,6 +42,7 @@
 * [2026-05-07, 07:15:11](https://news.ycombinator.com/item?id=48046397) - [Making LLM Training Faster with Unsloth and NVIDIA](https://unsloth.ai/blog/nvidia-collab)
 * [2026-05-07, 06:12:25](https://news.ycombinator.com/item?id=48046023) - [Show HN: Agent-skills-eval – Test whether Agent Skills improve outputs](https://github.com/darkrishabh/agent-skills-eval)
 * [2026-05-07, 05:58:52](https://news.ycombinator.com/item?id=48045939) - [Show HN: Trust – Coding Rust like it's 1989](https://github.com/wojtczyk/trust)
+* [2026-05-07, 05:24:23](https://news.ycombinator.com/item?id=48045711) - [Show HN: Kstack – Skill pack for monitoring/troubleshooting K8s in Claude Code](https://github.com/kubetail-org/kstack)
 * [2026-05-07, 04:25:43](https://news.ycombinator.com/item?id=48045384) - [Building the TD4 4-Bit CPU](https://jayakody2000lk.blogspot.com/2026/05/building-td4-4-bit-cpu.html)
 * [2026-05-07, 03:46:15](https://news.ycombinator.com/item?id=48045174) - [ProgramBench: Can Language Models Rebuild Programs from Scratch?](https://arxiv.org/abs/2605.03546)
 * [2026-05-07, 03:21:30](https://news.ycombinator.com/item?id=48045067) - [We programmed a program to program new programs (2011)](https://www.smbc-comics.com/comic/2011-09-08)
