@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-07](index.md)
 
+* [2026-05-07, 23:02:11](https://news.ycombinator.com/item?id=48056227) - [Maybe you shouldn't install new software for a bit](https://xeiaso.net/blog/2026/abstain-from-install/)
+* [2026-05-07, 22:33:11](https://news.ycombinator.com/item?id=48056003) - [OpenClaw Had a Rough Week](https://openclaw.ai/blog/openclaw-rough-week)
 * [2026-05-07, 22:22:21](https://news.ycombinator.com/item?id=48055913) - [Canvas (Instructure) LMS Down in Ongoing Ransomware Attack](https://www.theverge.com/tech/926458/canvas-shinyhunters-breach)
 * [2026-05-07, 20:23:37](https://news.ycombinator.com/item?id=48054423) - [Building for the Future](https://blog.cloudflare.com/building-for-the-future/)
 * [2026-05-07, 19:38:36](https://news.ycombinator.com/item?id=48053842) - [Two Home Affairs officials suspended after AI 'hallucinations' found](https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/)
