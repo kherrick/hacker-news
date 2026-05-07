@@ -1,22 +1,42 @@
 [
   [
     [
-      "2026-05-06, 22:48:11",
-      "https://news.ycombinator.com/item?id=48042918"
+      "2026-05-07, 00:47:15",
+      "https://news.ycombinator.com/item?id=48044022"
     ],
     [
-      "UK businesses brace for jet fuel rationing",
-      "https://bmmagazine.co.uk/news/uk-jet-fuel-shortage-rationing-goldman-sachs-warning/"
+      "How I made $350K from an open-source JavaScript library using dual licensing",
+      "https://www.paritydeals.com/blog/monetize-open-source-dual-licensing/"
     ]
   ],
   [
     [
-      "2026-05-06, 22:38:51",
-      "https://news.ycombinator.com/item?id=48042842"
+      "2026-05-07, 00:29:21",
+      "https://news.ycombinator.com/item?id=48043866"
     ],
     [
-      "David Sacks crashed and burned in the White House",
-      "https://www.theverge.com/column/925487/david-sacks-trump-administration-ai-model-review"
+      "They don't look like me",
+      "https://niccolorastrelli.com/they-dont-look-like-me"
+    ]
+  ],
+  [
+    [
+      "2026-05-07, 00:16:37",
+      "https://news.ycombinator.com/item?id=48043736"
+    ],
+    [
+      "Iran hit more U.S. military targets than has been reported, satellite images",
+      "https://www.washingtonpost.com/investigations/2026/05/06/iran-us-bases-satellite-images/"
+    ]
+  ],
+  [
+    [
+      "2026-05-07, 00:12:23",
+      "https://news.ycombinator.com/item?id=48043706"
+    ],
+    [
+      "The Old Guard: Confronting America's Gerontocratic Crisis",
+      "https://harpers.org/archive/2026/05/the-old-guard-samuel-moyn-gerontocracy/"
     ]
   ],
   [
@@ -61,6 +81,16 @@
   ],
   [
     [
+      "2026-05-06, 19:06:41",
+      "https://news.ycombinator.com/item?id=48040269"
+    ],
+    [
+      "Programming Still Sucks",
+      "https://www.stvn.sh/writing/programming-still-sucks-fqffhyp"
+    ]
+  ],
+  [
+    [
       "2026-05-06, 18:46:27",
       "https://news.ycombinator.com/item?id=48040002"
     ],
@@ -91,12 +121,12 @@
   ],
   [
     [
-      "2026-05-06, 16:41:30",
-      "https://news.ycombinator.com/item?id=48038307"
+      "2026-05-06, 17:13:54",
+      "https://news.ycombinator.com/item?id=48038750"
     ],
     [
-      "Life During Class Wartime",
-      "https://www.tbray.org/ongoing/When/202x/2026/05/03/Life-During-Class-Wartime"
+      "SoundOff: Low-Cost Passive Ultrasound Tags",
+      "https://yibo-fu.com/SoundOff-Low-cost-Passive-Ultrasound-Tags-for-Non-invasive-and-Non"
     ]
   ],
   [
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2026-05-06, 12:00:24",
-      "https://news.ycombinator.com/item?id=48035223"
-    ],
-    [
-      "Coverage Cat (YC S22) Seeks Fractional Engineer to Build AI Growth Toolkit",
-      "https://www.coveragecat.com/careers/engineering/fractional-growth-engineer"
-    ]
-  ],
-  [
-    [
       "2026-05-06, 10:53:52",
       "https://news.ycombinator.com/item?id=48034762"
     ],
@@ -201,32 +221,12 @@
   ],
   [
     [
-      "2026-05-06, 06:31:29",
-      "https://news.ycombinator.com/item?id=48032976"
+      "2026-05-06, 03:10:33",
+      "https://news.ycombinator.com/item?id=48031684"
     ],
     [
-      "Reverse-engineering the 1998 Ultima Online demo server",
-      "https://draxinar.github.io/articles/2026-05-01-uodemo-reverse-engineering.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-06, 05:13:58",
-      "https://news.ycombinator.com/item?id=48032461"
-    ],
-    [
-      "Knitting bullshit",
-      "https://katedaviesdesigns.com/2026/04/29/knitting-bullshit/"
-    ]
-  ],
-  [
-    [
-      "2026-05-06, 04:43:25",
-      "https://news.ycombinator.com/item?id=48032265"
-    ],
-    [
-      "Multi-stroke text effect in CSS",
-      "https://yuanchuan.dev/multi-stroke-text-effect-in-css"
+      "Agents can now create Cloudflare accounts, buy domains, and deploy",
+      "https://blog.cloudflare.com/agents-stripe-projects/"
     ]
   ],
   [
@@ -271,22 +271,22 @@
   ],
   [
     [
+      "2026-05-05, 06:14:48",
+      "https://news.ycombinator.com/item?id=48018715"
+    ],
+    [
+      "How do I inform Windows that I'm writing a binary file?",
+      "https://devblogs.microsoft.com/oldnewthing/20260504-00/?p=112296"
+    ]
+  ],
+  [
+    [
       "2026-05-04, 10:46:15",
       "https://news.ycombinator.com/item?id=48006967"
     ],
     [
       "The bottleneck was never the code",
       "https://www.thetypicalset.com/blog/thoughts-on-coding-agents"
-    ]
-  ],
-  [
-    [
-      "2026-05-03, 16:32:34",
-      "https://news.ycombinator.com/item?id=47998638"
-    ],
-    [
-      "Batteries Not Included, or Required, for These Smart Home Sensors",
-      "https://coe.gatech.edu/news/2026/04/batteries-not-included-or-required-these-smart-home-sensors"
     ]
   ],
   [
