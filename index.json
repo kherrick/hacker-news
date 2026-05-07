@@ -1,22 +1,52 @@
 [
   [
     [
-      "2026-05-07, 17:06:00",
-      "https://news.ycombinator.com/item?id=48051873"
+      "2026-05-07, 19:04:30",
+      "https://news.ycombinator.com/item?id=48053435"
     ],
     [
-      "California leaders report four to six weeks worth of gasoline and diesel supply",
-      "https://kmph.com/news/local/california-leaders-report-four-to-six-weeks-worth-of-gasoline-and-diesel-in-supply"
+      "Colored Shadow Penumbra",
+      "https://chosker.github.io/blog/colored-shadow-penumbra"
     ]
   ],
   [
     [
-      "2026-05-07, 17:00:21",
-      "https://news.ycombinator.com/item?id=48051804"
+      "2026-05-07, 18:46:25",
+      "https://news.ycombinator.com/item?id=48053203"
     ],
     [
-      "Bubbles Are Really Evil",
-      "https://pluralistic.net/2026/05/07/dump-the-pumpers/"
+      "AI Slop Is Killing Online Communities",
+      "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/"
+    ]
+  ],
+  [
+    [
+      "2026-05-07, 17:54:02",
+      "https://news.ycombinator.com/item?id=48052537"
+    ],
+    [
+      "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
+      "https://www.anthropic.com/research/natural-language-autoencoders"
+    ]
+  ],
+  [
+    [
+      "2026-05-07, 17:42:58",
+      "https://news.ycombinator.com/item?id=48052371"
+    ],
+    [
+      "Brazil's Pix Payment System Faces Pressure from Visa and Mastercard",
+      "https://www.elciudadano.com/en/brazils-pix-payment-system-faces-pressure-from-visa-and-mastercard/04/04/"
+    ]
+  ],
+  [
+    [
+      "2026-05-07, 17:40:05",
+      "https://news.ycombinator.com/item?id=48052333"
+    ],
+    [
+      "Principles for agent-native CLIs",
+      "https://twitter.com/trevin/status/2051316002730991795"
     ]
   ],
   [
@@ -55,7 +85,7 @@
       "https://news.ycombinator.com/item?id=48050732"
     ],
     [
-      "Show HN: Stage CLI – a tool to make reading your AI generated changes easier",
+      "Show HN: Stage CLI – an easier way of reading your AI generated changes locally",
       "https://github.com/ReviewStage/stage-cli"
     ]
   ],
@@ -65,8 +95,18 @@
       "https://news.ycombinator.com/item?id=48050540"
     ],
     [
-      "Motherboard sales are now collapsing amid unprecedented shortages fueled by AI",
+      "Motherboard sales 'collapse' amid unprecedented shortages fueled by AI",
       "https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers"
+    ]
+  ],
+  [
+    [
+      "2026-05-07, 15:19:27",
+      "https://news.ycombinator.com/item?id=48050499"
+    ],
+    [
+      "I want to live like Costco people",
+      "https://tastecooking.com/i-want-to-live-like-costco-people/"
     ]
   ],
   [
@@ -116,7 +156,17 @@
     ],
     [
       "Child marriages plunged when girls stayed in school in Nigeria",
-      "https://www.nature.com/articles/d41586-026-00796-2"
+      "https://www.nature.com/articles/d41586-026-00720-8"
+    ]
+  ],
+  [
+    [
+      "2026-05-07, 13:25:31",
+      "https://news.ycombinator.com/item?id=48049160"
+    ],
+    [
+      "How Cloudflare responded to the “Copy Fail” Linux vulnerability",
+      "https://blog.cloudflare.com/copy-fail-linux-vulnerability-mitigation/"
     ]
   ],
   [
@@ -131,32 +181,32 @@
   ],
   [
     [
-      "2026-05-07, 10:45:59",
-      "https://news.ycombinator.com/item?id=48047826"
+      "2026-05-07, 08:56:51",
+      "https://news.ycombinator.com/item?id=48047082"
     ],
     [
-      "Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)",
-      "https://ahk.cardor.dev"
+      "ZAYA1-8B matches DeepSeek-R1 on math with less than 1B active parameters",
+      "https://firethering.com/zaya1-8b-open-source-math-coding-model/"
     ]
   ],
   [
     [
-      "2026-05-07, 03:13:24",
-      "https://news.ycombinator.com/item?id=48045012"
+      "2026-05-07, 05:58:52",
+      "https://news.ycombinator.com/item?id=48045939"
     ],
     [
-      "Diskless Linux boot using ZFS, iSCSI and PXE",
-      "https://aniket.foo/posts/20260505-netboot/"
+      "Show HN: TRUST – Coding Rust like it's 1989",
+      "https://github.com/wojtczyk/trust"
     ]
   ],
   [
     [
-      "2026-05-07, 00:40:06",
-      "https://news.ycombinator.com/item?id=48043964"
+      "2026-05-07, 03:46:15",
+      "https://news.ycombinator.com/item?id=48045174"
     ],
     [
-      "RSS feeds send me more traffic than Google",
-      "https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/"
+      "ProgramBench: Can language models rebuild programs from scratch?",
+      "https://arxiv.org/abs/2605.03546"
     ]
   ],
   [
@@ -181,32 +231,12 @@
   ],
   [
     [
-      "2026-05-06, 16:18:29",
-      "https://news.ycombinator.com/item?id=48038001"
+      "2026-05-06, 13:44:59",
+      "https://news.ycombinator.com/item?id=48036190"
     ],
     [
-      "Appearing productive in the workplace",
-      "https://nooneshappy.com/article/appearing-productive-in-the-workplace/"
-    ]
-  ],
-  [
-    [
-      "2026-05-06, 15:44:13",
-      "https://news.ycombinator.com/item?id=48037555"
-    ],
-    [
-      "Valve releases Steam Controller CAD files under Creative Commons license",
-      "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license"
-    ]
-  ],
-  [
-    [
-      "2026-05-06, 15:06:37",
-      "https://news.ycombinator.com/item?id=48037128"
-    ],
-    [
-      "Vibe coding and agentic engineering are getting closer than I'd like",
-      "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/"
+      "OurCar: What I learned making an app for my family",
+      "https://mendelgreenberg.com/posts/ourcar/"
     ]
   ],
   [
@@ -221,26 +251,6 @@
   ],
   [
     [
-      "2026-05-05, 22:02:35",
-      "https://news.ycombinator.com/item?id=48029261"
-    ],
-    [
-      "SingleRide: Longest route on NYC Subway without visiting the same station twice",
-      "https://singleride.nyc/"
-    ]
-  ],
-  [
-    [
-      "2026-05-05, 19:17:29",
-      "https://news.ycombinator.com/item?id=48027191"
-    ],
-    [
-      "The mechanical latching memory of an adhesive tape",
-      "https://iopscience.iop.org/article/10.1088/1367-2630/ae4acc"
-    ]
-  ],
-  [
-    [
       "2026-05-05, 18:18:42",
       "https://news.ycombinator.com/item?id=48026412"
     ],
@@ -251,32 +261,22 @@
   ],
   [
     [
+      "2026-05-05, 10:05:57",
+      "https://news.ycombinator.com/item?id=48020322"
+    ],
+    [
+      "Nobody Reviews Compiler Output",
+      "https://skiplabs.io/blog/codegen_as_compiler"
+    ]
+  ],
+  [
+    [
       "2026-05-04, 20:28:24",
       "https://news.ycombinator.com/item?id=48014521"
     ],
     [
       "Boris Cherny: TI-83 Plus Basic Programming Tutorial (2004)",
       "https://www.ticalc.org/programming/columns/83plus-bas/cherny/"
-    ]
-  ],
-  [
-    [
-      "2026-05-04, 18:17:22",
-      "https://news.ycombinator.com/item?id=48012649"
-    ],
-    [
-      "Chevrolet Performance eCrate package (400v/200hp)",
-      "https://www.chevrolet.com/performance-parts/crate-engines/ecrate"
-    ]
-  ],
-  [
-    [
-      "2026-05-04, 17:57:13",
-      "https://news.ycombinator.com/item?id=48012342"
-    ],
-    [
-      "Speedup in Lattice Boltzmann Cylinder Flow",
-      "https://github.com/alikamp/Parks-KPBM-Scaling"
     ]
   ],
   [
