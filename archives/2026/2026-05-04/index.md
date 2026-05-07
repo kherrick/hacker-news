@@ -20,6 +20,7 @@
 * [2026-05-04, 18:22:42](https://news.ycombinator.com/item?id=48012735) - [Microsoft Edge stores all passwords in memory in clear text, even when unused](https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730)
 * [2026-05-04, 18:17:22](https://news.ycombinator.com/item?id=48012649) - [Chevrolet Performance eCrate package (400v/200hp)](https://www.chevrolet.com/performance-parts/crate-engines/ecrate)
 * [2026-05-04, 18:04:33](https://news.ycombinator.com/item?id=48012477) - [Offenders sentenced up to 10 years for spying on TSMC](https://www.taipeitimes.com/News/front/archives/2026/04/28/2003856358)
+* [2026-05-04, 17:57:13](https://news.ycombinator.com/item?id=48012342) - [37x Speedup in Lattice Boltzmann Cylinder Flow](https://github.com/alikamp/Parks-KPBM-Scaling)
 * [2026-05-04, 17:46:32](https://news.ycombinator.com/item?id=48012162) - [U.S. military data left exposed at an a16z startup for 150 days](https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup)
 * [2026-05-04, 17:36:32](https://news.ycombinator.com/item?id=48012022) - [Days Without GitHub Incidents](https://www.dayswithoutgithubincident.com/)
 * [2026-05-04, 17:35:15](https://news.ycombinator.com/item?id=48012003) - [Heat pump sales rise 17% across Europe in Q1 as energy prices surge](https://www.pv-magazine.com/2026/05/04/heat-pump-sales-rise-17-across-europe-in-q1-as-energy-prices-surge/)
