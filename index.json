@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-05-07, 03:21:30",
-      "https://news.ycombinator.com/item?id=48045067"
+      "2026-05-07, 04:25:43",
+      "https://news.ycombinator.com/item?id=48045384"
     ],
     [
-      "We programmed a program to program new programs (2011)",
-      "https://www.smbc-comics.com/comic/2011-09-08"
+      "Building the TD4 4-Bit CPU",
+      "https://jayakody2000lk.blogspot.com/2026/05/building-td4-4-bit-cpu.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-07, 03:46:15",
+      "https://news.ycombinator.com/item?id=48045174"
+    ],
+    [
+      "ProgramBench: Can Language Models Rebuild Programs from Scratch?",
+      "https://arxiv.org/abs/2605.03546"
     ]
   ],
   [
@@ -51,12 +61,12 @@
   ],
   [
     [
-      "2026-05-06, 23:21:53",
-      "https://news.ycombinator.com/item?id=48043184"
+      "2026-05-06, 23:00:01",
+      "https://news.ycombinator.com/item?id=48043010"
     ],
     [
-      "What British people mean when they say 'sorry'",
-      "https://www.bbc.com/travel/article/20260506-what-british-people-really-mean-when-they-say-sorry"
+      "Ads on Apple Maps",
+      "https://ads.apple.com/maps"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "Show HN: Hallucinopedia",
       "http://halupedia.com/"
-    ]
-  ],
-  [
-    [
-      "2026-05-06, 16:20:00",
-      "https://news.ycombinator.com/item?id=48038019"
-    ],
-    [
-      "Show HN: I built an open-source email builder, alternative to Beefree/Unlayer",
-      "https://play.templatical.com"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2026-05-05, 06:14:48",
-      "https://news.ycombinator.com/item?id=48018715"
-    ],
-    [
-      "How do I inform Windows that I'm writing a binary file?",
-      "https://devblogs.microsoft.com/oldnewthing/20260504-00/?p=112296"
-    ]
-  ],
-  [
-    [
       "2026-05-04, 18:44:31",
       "https://news.ycombinator.com/item?id=48013083"
     ],
     [
       "Perturb-MARS: Reading mouse experiments through a human lens",
       "https://www.noetik.blog/p/perturb-mars-reading-mouse-experiments"
+    ]
+  ],
+  [
+    [
+      "2026-05-04, 18:17:22",
+      "https://news.ycombinator.com/item?id=48012649"
+    ],
+    [
+      "Chevrolet Performance eCrate package (400v/200hp)",
+      "https://www.chevrolet.com/performance-parts/crate-engines/ecrate"
     ]
   ]
 ]
