@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-05-07](index.md)
 
+* [2026-05-07, 22:22:21](https://news.ycombinator.com/item?id=48055913) - [Canvas (Instructure) LMS Down in Ongoing Ransomware Attack](https://www.theverge.com/tech/926458/canvas-shinyhunters-breach)
 * [2026-05-07, 20:23:37](https://news.ycombinator.com/item?id=48054423) - [Building for the Future](https://blog.cloudflare.com/building-for-the-future/)
+* [2026-05-07, 19:38:36](https://news.ycombinator.com/item?id=48053842) - [Two Home Affairs officials suspended after AI 'hallucinations' found](https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/)
+* [2026-05-07, 19:36:45](https://news.ycombinator.com/item?id=48053816) - [Mozilla says 271 vulnerabilities found by Mythos and \"almost no false positives\"](https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/)
 * [2026-05-07, 19:32:33](https://news.ycombinator.com/item?id=48053770) - [Creating for a niche](https://www.davesnider.com/posts/working-in-a-niche)
 * [2026-05-07, 19:21:32](https://news.ycombinator.com/item?id=48053623) - [Dirtyfrag: Universal Linux LPE](https://www.openwall.com/lists/oss-security/2026/05/07/8)
 * [2026-05-07, 19:04:30](https://news.ycombinator.com/item?id=48053435) - [Colored Shadow Penumbra](https://chosker.github.io/blog/colored-shadow-penumbra)
