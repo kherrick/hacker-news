@@ -1,62 +1,72 @@
 [
   [
     [
-      "2026-05-07, 00:47:15",
-      "https://news.ycombinator.com/item?id=48044022"
+      "2026-05-07, 03:21:30",
+      "https://news.ycombinator.com/item?id=48045067"
     ],
     [
-      "How I made $350K from an open-source JavaScript library using dual licensing",
-      "https://www.paritydeals.com/blog/monetize-open-source-dual-licensing/"
+      "We programmed a program to program new programs (2011)",
+      "https://www.smbc-comics.com/comic/2011-09-08"
     ]
   ],
   [
     [
-      "2026-05-07, 00:29:21",
-      "https://news.ycombinator.com/item?id=48043866"
+      "2026-05-07, 03:13:24",
+      "https://news.ycombinator.com/item?id=48045012"
     ],
     [
-      "They don't look like me",
-      "https://niccolorastrelli.com/they-dont-look-like-me"
+      "Diskless Linux boot using ZFS, iSCSI and PXE",
+      "https://aniket.foo/posts/20260505-netboot/"
     ]
   ],
   [
     [
-      "2026-05-07, 00:16:37",
-      "https://news.ycombinator.com/item?id=48043736"
+      "2026-05-07, 02:18:23",
+      "https://news.ycombinator.com/item?id=48044638"
     ],
     [
-      "Iran hit more U.S. military targets than has been reported, satellite images",
-      "https://www.washingtonpost.com/investigations/2026/05/06/iran-us-bases-satellite-images/"
+      "Permacomputing Principles",
+      "https://permacomputing.net/principles/"
     ]
   ],
   [
     [
-      "2026-05-07, 00:12:23",
-      "https://news.ycombinator.com/item?id=48043706"
+      "2026-05-07, 01:26:03",
+      "https://news.ycombinator.com/item?id=48044311"
     ],
     [
-      "The Old Guard: Confronting America's Gerontocratic Crisis",
-      "https://harpers.org/archive/2026/05/the-old-guard-samuel-moyn-gerontocracy/"
+      "The Vatican's Website in Latin",
+      "https://www.vatican.va/latin/latin_index.html"
     ]
   ],
   [
     [
-      "2026-05-06, 21:26:53",
-      "https://news.ycombinator.com/item?id=48042099"
+      "2026-05-07, 00:40:06",
+      "https://news.ycombinator.com/item?id=48043964"
     ],
     [
-      "Apple is enforcing an old App Store rule against a new kind of software",
-      "https://adaptivesoftware.substack.com/p/the-wrapper-and-the-code"
+      "RSS Feeds Send Me More Traffic Than Google",
+      "https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/"
     ]
   ],
   [
     [
-      "2026-05-06, 21:14:30",
-      "https://news.ycombinator.com/item?id=48041953"
+      "2026-05-06, 23:21:53",
+      "https://news.ycombinator.com/item?id=48043184"
     ],
     [
-      "Mickey Mouse is watching you: Disneyland deploys facial recognition",
-      "https://www.theguardian.com/us-news/2026/apr/28/disneyland-entrance-facial-recognition"
+      "What British people mean when they say 'sorry'",
+      "https://www.bbc.com/travel/article/20260506-what-british-people-really-mean-when-they-say-sorry"
+    ]
+  ],
+  [
+    [
+      "2026-05-06, 21:58:43",
+      "https://news.ycombinator.com/item?id=48042434"
+    ],
+    [
+      "SQLite Is a Library of Congress Recommended Storage Format",
+      "https://sqlite.org/locrsf.html"
     ]
   ],
   [
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2026-05-06, 16:17:33",
-      "https://news.ycombinator.com/item?id=48037986"
-    ],
-    [
-      "Higher usage limits for Claude and a compute deal with SpaceX",
-      "https://www.anthropic.com/news/higher-limits-spacex"
-    ]
-  ],
-  [
-    [
       "2026-05-06, 15:58:34",
       "https://news.ycombinator.com/item?id=48037724"
     ],
@@ -211,22 +211,22 @@
   ],
   [
     [
-      "2026-05-06, 10:53:52",
-      "https://news.ycombinator.com/item?id=48034762"
+      "2026-05-06, 13:44:59",
+      "https://news.ycombinator.com/item?id=48036190"
     ],
     [
-      "Setting up a Sun Ray server on OpenIndiana Hipster 2025.10",
-      "https://catstret.ch/202605/srss-hipster202510/"
+      "What I Learned Making an App for My Family",
+      "https://mendelgreenberg.com/posts/ourcar/"
     ]
   ],
   [
     [
-      "2026-05-06, 03:10:33",
-      "https://news.ycombinator.com/item?id=48031684"
+      "2026-05-06, 04:10:05",
+      "https://news.ycombinator.com/item?id=48032069"
     ],
     [
-      "Agents can now create Cloudflare accounts, buy domains, and deploy",
-      "https://blog.cloudflare.com/agents-stripe-projects/"
+      "Pen pal programs endure in a digital age",
+      "https://apnews.com/article/pen-pals-letters-comeback-bc87e1b9c229665bafd368e19751d6ca"
     ]
   ],
   [
@@ -241,22 +241,22 @@
   ],
   [
     [
-      "2026-05-05, 18:49:02",
-      "https://news.ycombinator.com/item?id=48026773"
-    ],
-    [
-      "What makes a good smartphone camera?",
-      "https://cadence.moe/blog/2026-05-05-what-makes-a-good-smartphone-camera"
-    ]
-  ],
-  [
-    [
       "2026-05-05, 17:18:21",
       "https://news.ycombinator.com/item?id=48025540"
     ],
     [
       "Building my own Vi text editor in BASIC",
       "https://leetusman.com/nosebook/yvi"
+    ]
+  ],
+  [
+    [
+      "2026-05-05, 15:50:15",
+      "https://news.ycombinator.com/item?id=48024164"
+    ],
+    [
+      "Finding the differences in a series of power supplies",
+      "https://www.lttlabs.com/articles/2026/05/05/testing-psu-series"
     ]
   ],
   [
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2026-05-05, 08:09:41",
+      "https://news.ycombinator.com/item?id=48019414"
+    ],
+    [
+      "The Mathematical Dance Inside Plant Cells",
+      "https://www.quantamagazine.org/the-hidden-mathematical-dance-inside-plant-cells-20260504/"
+    ]
+  ],
+  [
+    [
       "2026-05-05, 06:14:48",
       "https://news.ycombinator.com/item?id=48018715"
     ],
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2026-05-04, 10:46:15",
-      "https://news.ycombinator.com/item?id=48006967"
+      "2026-05-04, 18:44:31",
+      "https://news.ycombinator.com/item?id=48013083"
     ],
     [
-      "The bottleneck was never the code",
-      "https://www.thetypicalset.com/blog/thoughts-on-coding-agents"
-    ]
-  ],
-  [
-    [
-      "2026-05-03, 13:16:18",
-      "https://news.ycombinator.com/item?id=47996668"
-    ],
-    [
-      "Virtual violin produces realistic sounds",
-      "https://news.mit.edu/2026/mit-engineers-virtual-violin-produces-realistic-sounds-0429"
+      "Perturb-MARS: Reading mouse experiments through a human lens",
+      "https://www.noetik.blog/p/perturb-mars-reading-mouse-experiments"
     ]
   ]
 ]
