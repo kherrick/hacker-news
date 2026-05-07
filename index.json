@@ -1,12 +1,52 @@
 [
   [
     [
-      "2026-05-07, 11:31:47",
-      "https://news.ycombinator.com/item?id=48048121"
+      "2026-05-07, 14:06:10",
+      "https://news.ycombinator.com/item?id=48049653"
     ],
     [
-      "KLM flight attendant hospitalized after contact with hantavirus",
-      "https://nltimes.nl/2026/05/07/klm-flight-attendant-hospitalized-contact-hantavirus-cruise-ship-passenger"
+      "The map that keeps Burning Man honest",
+      "https://www.not-ship.com/burning-man-moop/"
+    ]
+  ],
+  [
+    [
+      "2026-05-07, 13:25:31",
+      "https://news.ycombinator.com/item?id=48049160"
+    ],
+    [
+      "Cloudflare responded to the \"Copy Fail\" Linux vulnerability",
+      "https://blog.cloudflare.com/copy-fail-linux-vulnerability-mitigation/"
+    ]
+  ],
+  [
+    [
+      "2026-05-07, 12:01:13",
+      "https://news.ycombinator.com/item?id=48048339"
+    ],
+    [
+      "GovernGPT (YC W24) Is Hiring Engineers to Build Thinking Systems in Montreal",
+      "https://www.ycombinator.com/companies/governgpt/jobs/hRyltS0-backend-engineer-thinking-systems"
+    ]
+  ],
+  [
+    [
+      "2026-05-07, 11:51:59",
+      "https://news.ycombinator.com/item?id=48048262"
+    ],
+    [
+      "The Upper Middle Class Trap",
+      "https://ofdollarsanddata.com/the-upper-middle-class-trap/"
+    ]
+  ],
+  [
+    [
+      "2026-05-07, 11:10:24",
+      "https://news.ycombinator.com/item?id=48047981"
+    ],
+    [
+      "Grand Theft Oil Futures: Insider traders keep making a killing at our expense",
+      "https://paulkrugman.substack.com/p/grand-theft-oil-futures"
     ]
   ],
   [
@@ -27,16 +67,6 @@
     [
       "Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)",
       "https://ahk.cardor.dev"
-    ]
-  ],
-  [
-    [
-      "2026-05-07, 08:56:51",
-      "https://news.ycombinator.com/item?id=48047082"
-    ],
-    [
-      "ZAYA1-8B: An 8B Moe Model with 760M Active Params Matching DeepSeek-R1 on Math",
-      "https://firethering.com/zaya1-8b-open-source-math-coding-model/"
     ]
   ],
   [
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2026-05-07, 01:26:03",
-      "https://news.ycombinator.com/item?id=48044311"
-    ],
-    [
-      "The Vatican's Website in Latin",
-      "https://www.vatican.va/latin/latin_index.html"
-    ]
-  ],
-  [
-    [
       "2026-05-07, 00:40:06",
       "https://news.ycombinator.com/item?id=48043964"
     ],
@@ -151,32 +171,12 @@
   ],
   [
     [
-      "2026-05-06, 16:37:52",
-      "https://news.ycombinator.com/item?id=48038257"
-    ],
-    [
-      "Show HN: Hallucinopedia",
-      "http://halupedia.com/"
-    ]
-  ],
-  [
-    [
       "2026-05-06, 16:18:29",
       "https://news.ycombinator.com/item?id=48038001"
     ],
     [
       "Appearing productive in the workplace",
       "https://nooneshappy.com/article/appearing-productive-in-the-workplace/"
-    ]
-  ],
-  [
-    [
-      "2026-05-06, 15:58:34",
-      "https://news.ycombinator.com/item?id=48037724"
-    ],
-    [
-      "Show HN: Tilde.run – Agent sandbox with a transactional, versioned filesystem",
-      "https://tilde.run/"
     ]
   ],
   [
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2026-05-05, 19:17:29",
+      "https://news.ycombinator.com/item?id=48027191"
+    ],
+    [
+      "The mechanical latching memory of an adhesive tape",
+      "https://iopscience.iop.org/article/10.1088/1367-2630/ae4acc"
+    ]
+  ],
+  [
+    [
       "2026-05-05, 18:43:14",
       "https://news.ycombinator.com/item?id=48026710"
     ],
@@ -231,32 +241,12 @@
   ],
   [
     [
-      "2026-05-05, 17:18:21",
-      "https://news.ycombinator.com/item?id=48025540"
-    ],
-    [
-      "Building my own Vi text editor in BASIC",
-      "https://leetusman.com/nosebook/yvi"
-    ]
-  ],
-  [
-    [
       "2026-05-05, 12:56:16",
       "https://news.ycombinator.com/item?id=48021901"
     ],
     [
       "Community firmware for the Xteink X4 e-paper reader",
       "https://github.com/crosspoint-reader/crosspoint-reader"
-    ]
-  ],
-  [
-    [
-      "2026-05-05, 08:09:41",
-      "https://news.ycombinator.com/item?id=48019414"
-    ],
-    [
-      "The Mathematical Dance Inside Plant Cells",
-      "https://www.quantamagazine.org/the-hidden-mathematical-dance-inside-plant-cells-20260504/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Chevrolet Performance eCrate package (400v/200hp)",
       "https://www.chevrolet.com/performance-parts/crate-engines/ecrate"
+    ]
+  ],
+  [
+    [
+      "2026-05-04, 16:19:31",
+      "https://news.ycombinator.com/item?id=48010729"
+    ],
+    [
+      "RaTeX: KaTeX-compatible LaTeX rendering engine in pure Rust",
+      "https://ratex.lites.dev/"
     ]
   ],
   [
