@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-05-07, 23:02:11",
+      "https://news.ycombinator.com/item?id=48056227"
+    ],
+    [
+      "Maybe you shouldn't install new software for a bit",
+      "https://xeiaso.net/blog/2026/abstain-from-install/"
+    ]
+  ],
+  [
+    [
+      "2026-05-07, 22:33:11",
+      "https://news.ycombinator.com/item?id=48056003"
+    ],
+    [
+      "OpenClaw Had a Rough Week",
+      "https://openclaw.ai/blog/openclaw-rough-week"
+    ]
+  ],
+  [
+    [
       "2026-05-07, 22:22:21",
       "https://news.ycombinator.com/item?id=48055913"
     ],
     [
       "Canvas (Instructure) LMS Down in Ongoing Ransomware Attack",
       "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach"
+    ]
+  ],
+  [
+    [
+      "2026-05-07, 20:23:37",
+      "https://news.ycombinator.com/item?id=48054423"
+    ],
+    [
+      "Building for the Future",
+      "https://blog.cloudflare.com/building-for-the-future/"
     ]
   ],
   [
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2026-05-07, 15:23:23",
-      "https://news.ycombinator.com/item?id=48050540"
-    ],
-    [
-      "Motherboard sales 'collapse' amid unprecedented shortages fueled by AI",
-      "https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers"
-    ]
-  ],
-  [
-    [
       "2026-05-07, 15:19:27",
       "https://news.ycombinator.com/item?id=48050499"
     ],
@@ -201,32 +221,12 @@
   ],
   [
     [
-      "2026-05-07, 08:56:51",
-      "https://news.ycombinator.com/item?id=48047082"
-    ],
-    [
-      "ZAYA1-8B matches DeepSeek-R1 on math with less than 1B active parameters",
-      "https://firethering.com/zaya1-8b-open-source-math-coding-model/"
-    ]
-  ],
-  [
-    [
       "2026-05-07, 05:58:52",
       "https://news.ycombinator.com/item?id=48045939"
     ],
     [
       "Show HN: TRUST – Coding Rust like it's 1989",
       "https://github.com/wojtczyk/trust"
-    ]
-  ],
-  [
-    [
-      "2026-05-07, 05:24:23",
-      "https://news.ycombinator.com/item?id=48045711"
-    ],
-    [
-      "Show HN: Kstack – Skill pack for monitoring/troubleshooting K8s in Claude Code",
-      "https://github.com/kubetail-org/kstack"
     ]
   ],
   [
