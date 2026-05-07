@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-05-07, 20:23:37",
-      "https://news.ycombinator.com/item?id=48054423"
+      "2026-05-07, 19:32:33",
+      "https://news.ycombinator.com/item?id=48053770"
     ],
     [
-      "Building for the Future",
-      "https://blog.cloudflare.com/building-for-the-future/"
+      "Creating for a niche",
+      "https://www.davesnider.com/posts/working-in-a-niche"
     ]
   ],
   [
@@ -27,6 +27,16 @@
     [
       "Colored Shadow Penumbra",
       "https://chosker.github.io/blog/colored-shadow-penumbra"
+    ]
+  ],
+  [
+    [
+      "2026-05-07, 18:46:25",
+      "https://news.ycombinator.com/item?id=48053203"
+    ],
+    [
+      "AI slop is killing online communities",
+      "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/"
     ]
   ],
   [
@@ -101,16 +111,6 @@
   ],
   [
     [
-      "2026-05-07, 15:38:36",
-      "https://news.ycombinator.com/item?id=48050732"
-    ],
-    [
-      "Show HN: Stage CLI – An easier way of reading your AI generated changes locally",
-      "https://github.com/ReviewStage/stage-cli"
-    ]
-  ],
-  [
-    [
       "2026-05-07, 15:23:23",
       "https://news.ycombinator.com/item?id=48050540"
     ],
@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2026-05-07, 13:38:02",
+      "https://news.ycombinator.com/item?id=48049289"
+    ],
+    [
+      "Automating Hermitage to see how transactions differ in MySQL and MariaDB",
+      "https://theconsensus.dev/p/2026/05/02/automating-hermitage.html"
+    ]
+  ],
+  [
+    [
       "2026-05-07, 13:30:04",
       "https://news.ycombinator.com/item?id=48049208"
     ],
@@ -211,22 +221,12 @@
   ],
   [
     [
-      "2026-05-07, 03:46:15",
-      "https://news.ycombinator.com/item?id=48045174"
+      "2026-05-07, 05:24:23",
+      "https://news.ycombinator.com/item?id=48045711"
     ],
     [
-      "ProgramBench: Can language models rebuild programs from scratch?",
-      "https://arxiv.org/abs/2605.03546"
-    ]
-  ],
-  [
-    [
-      "2026-05-07, 02:18:23",
-      "https://news.ycombinator.com/item?id=48044638"
-    ],
-    [
-      "Permacomputing Principles",
-      "https://permacomputing.net/principles/"
+      "Show HN: Kstack – Skill pack for monitoring/troubleshooting K8s in Claude Code",
+      "https://github.com/kubetail-org/kstack"
     ]
   ],
   [
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2026-05-05, 17:08:24",
+      "https://news.ycombinator.com/item?id=48025374"
+    ],
+    [
+      "Easy Random Trees",
+      "https://blog.wilsonb.com/posts/2026-02-27-easy-random-trees.html"
+    ]
+  ],
+  [
+    [
       "2026-05-04, 20:28:24",
       "https://news.ycombinator.com/item?id=48014521"
     ],
@@ -287,16 +297,6 @@
     [
       "RaTeX: KaTeX-compatible LaTeX rendering engine in pure Rust",
       "https://ratex.lites.dev/"
-    ]
-  ],
-  [
-    [
-      "2026-05-04, 14:08:27",
-      "https://news.ycombinator.com/item?id=48008999"
-    ],
-    [
-      "Indian matchbox labels as a visual archive",
-      "https://www.itsnicethat.com/features/the-view-from-mumbai-matchbook-graphic-design-130426"
     ]
   ]
 ]
