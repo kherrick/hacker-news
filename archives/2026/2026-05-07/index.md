@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-05-07](index.md)
 
+* [2026-05-07, 11:31:47](https://news.ycombinator.com/item?id=48048121) - [KLM flight attendant hospitalized after contact with hantavirus](https://nltimes.nl/2026/05/07/klm-flight-attendant-hospitalized-contact-hantavirus-cruise-ship-passenger)
+* [2026-05-07, 11:08:43](https://news.ycombinator.com/item?id=48047970) - [LinkedIn profile visitor lists belong to the people, says Noyb](https://www.theregister.com/offbeat/2026/05/05/noyb-cries-foul-on-linkedin-withholding-profile-visitor-data/5225338)
+* [2026-05-07, 10:45:59](https://news.ycombinator.com/item?id=48047826) - [Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)](https://ahk.cardor.dev)
+* [2026-05-07, 08:56:51](https://news.ycombinator.com/item?id=48047082) - [ZAYA1-8B: An 8B Moe Model with 760M Active Params Matching DeepSeek-R1 on Math](https://firethering.com/zaya1-8b-open-source-math-coding-model/)
 * [2026-05-07, 08:26:36](https://news.ycombinator.com/item?id=48046874) - [Show HN: Social Network for Corporate Cringe](https://CringeOut.com)
 * [2026-05-07, 07:15:11](https://news.ycombinator.com/item?id=48046397) - [Making LLM Training Faster with Unsloth and NVIDIA](https://unsloth.ai/blog/nvidia-collab)
 * [2026-05-07, 06:12:25](https://news.ycombinator.com/item?id=48046023) - [Show HN: Agent-skills-eval – Test whether Agent Skills improve outputs](https://github.com/darkrishabh/agent-skills-eval)

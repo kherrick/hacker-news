@@ -17,6 +17,7 @@
 * [2026-05-05, 19:38:48](https://news.ycombinator.com/item?id=48027455) - [A Theory of Deep Learning](https://elonlit.com/scrivings/a-theory-of-deep-learning/)
 * [2026-05-05, 19:05:18](https://news.ycombinator.com/item?id=48027022) - [What five years of data tells us about lasting relationships](https://hanker.dating/study)
 * [2026-05-05, 18:49:02](https://news.ycombinator.com/item?id=48026773) - [What makes a good smartphone camera?](https://cadence.moe/blog/2026-05-05-what-makes-a-good-smartphone-camera)
+* [2026-05-05, 18:43:14](https://news.ycombinator.com/item?id=48026710) - [The brave souls who bought a used, 340k-mile rental camper van](https://www.thedrive.com/news/meet-the-brave-souls-who-bought-a-used-340000-mile-rental-camper-van)
 * [2026-05-05, 18:13:47](https://news.ycombinator.com/item?id=48026349) - [California farmers to destroy 420k peach trees following Del Monte bankruptcy](https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php)
 * [2026-05-05, 18:13:14](https://news.ycombinator.com/item?id=48026342) - [Show HN: Explore color palettes inspired by 3000 master painter artworks](https://paletteinspiration.com/)
 * [2026-05-05, 18:04:25](https://news.ycombinator.com/item?id=48026207) - [Zuckerberg 'Personally Authorized and Encouraged' Meta's Copyright Infringement](https://variety.com/2026/digital/news/meta-ai-mark-zuckerberg-copyright-infringement-lawsuit-publishers-scott-turow-1236738383/)

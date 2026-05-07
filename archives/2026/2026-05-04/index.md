@@ -44,6 +44,7 @@
 * [2026-05-04, 14:47:41](https://news.ycombinator.com/item?id=48009441) - [Pomiferous: The most extensive apples (pommes) database](https://pomiferous.com/)
 * [2026-05-04, 14:23:07](https://news.ycombinator.com/item?id=48009172) - [Redis array: short story of a long development process](https://antirez.com/news/164)
 * [2026-05-04, 14:10:50](https://news.ycombinator.com/item?id=48009020) - [How Monero's proof of work works](https://blog.alcazarsec.com/tech/posts/how-moneros-proof-of-work-works)
+* [2026-05-04, 14:08:27](https://news.ycombinator.com/item?id=48008999) - [Indian matchbox labels as a visual archive](https://www.itsnicethat.com/features/the-view-from-mumbai-matchbook-graphic-design-130426)
 * [2026-05-04, 14:02:32](https://news.ycombinator.com/item?id=48008925) - [How Many Children Learned Mathematics from Kiselev's Textbooks?](https://valeman.medium.com/how-many-children-learned-mathematics-from-kiselevs-textbooks-ff4efceade0d)
 * [2026-05-04, 13:44:20](https://news.ycombinator.com/item?id=48008685) - [A Simpler Parametrization for Modern Optimizers](https://jiha-kim.github.io/posts/a-simpler-parametrization-for-modern-optimizers/)
 * [2026-05-04, 13:13:52](https://news.ycombinator.com/item?id=48008326) - [Someone allegedly used a hairdryer to rig Polymarket weather bets](https://www.engadget.com/big-tech/someone-allegedly-used-a-hairdryer-to-rig-polymarket-weather-bets-155312411.html)
