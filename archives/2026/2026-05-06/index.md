@@ -38,6 +38,7 @@
 * [2026-05-06, 15:44:13](https://news.ycombinator.com/item?id=48037555) - [Valve releases Steam Controller CAD files under Creative Commons license](https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license)
 * [2026-05-06, 15:06:37](https://news.ycombinator.com/item?id=48037128) - [Vibe coding and agentic engineering are getting closer than I'd like](https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/)
 * [2026-05-06, 14:56:37](https://news.ycombinator.com/item?id=48037009) - [CNN founder Ted Turner, a pioneer of cable TV news, dies at 87](https://www.cnn.com/2026/05/06/us/ted-turner-death)
+* [2026-05-06, 14:31:42](https://news.ycombinator.com/item?id=48036746) - [How to make SSE token streams resumable, cancellable, and multi-device](https://zknill.io/posts/everyone-said-sse-token-streaming-was-easy/)
 * [2026-05-06, 14:24:33](https://news.ycombinator.com/item?id=48036650) - [Mythos is the best cybersecurity news in a decade](https://sfstandard.com/opinion/2026/05/06/mythos-cybersecurity-ai/)
 * [2026-05-06, 14:21:07](https://news.ycombinator.com/item?id=48036622) - [Los Alamos and the long path to detecting neutrinos](https://www.lanl.gov/media/publications/1663/from-ghost-particle-to-cosmic-messenger)
 * [2026-05-06, 13:44:59](https://news.ycombinator.com/item?id=48036190) - [What I Learned Making an App for My Family](https://mendelgreenberg.com/posts/ourcar/)

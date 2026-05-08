@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-05-08, 04:00:53](https://news.ycombinator.com/item?id=48058393) - [Copy Fail 2: Electric Boogaloo](https://github.com/0xdeadbeefnetwork/Copy_Fail2-Electric_Boogaloo)
-* [2026-05-08, 00:10:44](https://news.ycombinator.com/item?id=48056804) - [Komai: a fine Matrix chat app you can get to love](https://etke.cc/blog/introducing-komai)
+* [2026-05-08, 04:44:02](https://news.ycombinator.com/item?id=48058644) - [Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE](https://github.com/graemeg/blaise)
+* [2026-05-08, 03:52:14](https://news.ycombinator.com/item?id=48058340) - [US will start revoking passports for parents who owe child support](https://apnews.com/article/passports-unpaid-child-support-penalty-state-department-42d90cfa8a06ee349bb9145f668919b6)
+* [2026-05-08, 02:49:01](https://news.ycombinator.com/item?id=48057901) - [Mojo 1.0 Beta](https://mojolang.org/)
 * [2026-05-08, 00:03:38](https://news.ycombinator.com/item?id=48056749) - [GNU IFUNC is the real culprit behind CVE-2024-3094](https://github.com/robertdfrench/ifuncd-up)
 * [2026-05-07, 23:17:03](https://news.ycombinator.com/item?id=48056359) - [Gambling ads on social media reach more than twice as many men as women: study](https://www.cam.ac.uk/research/news/gambling-ads-on-social-media-reach-more-than-twice-as-many-men-as-women)
 * [2026-05-07, 23:06:44](https://news.ycombinator.com/item?id=48056268) - [Plasticity and language in the anaesthetized human hippocampus](https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain)
@@ -23,13 +24,12 @@
 * [2026-05-07, 15:19:27](https://news.ycombinator.com/item?id=48050499) - [I want to live like Costco people](https://tastecooking.com/i-want-to-live-like-costco-people/)
 * [2026-05-07, 15:02:20](https://news.ycombinator.com/item?id=48050278) - [AlphaEvolve: Gemini-powered coding agent scaling impact across fields](https://deepmind.google/blog/alphaevolve-impact/)
 * [2026-05-07, 14:06:10](https://news.ycombinator.com/item?id=48049653) - [The map that keeps Burning Man honest](https://www.not-ship.com/burning-man-moop/)
-* [2026-05-06, 22:36:17](https://news.ycombinator.com/item?id=48042817) - [The Disappearance of the Public Bench](https://placesjournal.org/article/the-disappearance-of-the-public-bench/)
 * [2026-05-06, 19:06:41](https://news.ycombinator.com/item?id=48040269) - [Programming Still Sucks](https://www.stvn.sh/writing/programming-still-sucks-fqffhyp)
+* [2026-05-06, 14:31:42](https://news.ycombinator.com/item?id=48036746) - [How to make SSE token streams resumable, cancellable, and multi-device](https://zknill.io/posts/everyone-said-sse-token-streaming-was-easy/)
 * [2026-05-06, 14:21:07](https://news.ycombinator.com/item?id=48036622) - [Los Alamos and the long path to detecting neutrinos](https://www.lanl.gov/media/publications/1663/from-ghost-particle-to-cosmic-messenger)
 * [2026-05-06, 12:27:07](https://news.ycombinator.com/item?id=48035420) - [Pinocchio is weirder than you remembered](https://storica.club/blog/pinocchio-in-italian/)
 * [2026-05-06, 06:29:53](https://news.ycombinator.com/item?id=48032968) - [Singapore introduces caning for boys who bully others at school](https://www.theguardian.com/world/2026/may/06/singapore-caning-school-bullies)
-* [2026-05-05, 19:30:35](https://news.ycombinator.com/item?id=48027346) - [The Traveling Salesdog Problem](https://www.wespiser.com/posts/2026-05-04-traveling-salesdog.html)
-* [2026-05-05, 19:24:59](https://news.ycombinator.com/item?id=48027275) - [Tools in the Grass: Raising the next generation of crafts person](https://www.popularwoodworking.com/editors-blog/tools-in-the-grass/)
+* [2026-05-05, 11:31:12](https://news.ycombinator.com/item?id=48021023) - [A polynomial autoencoder beats PCA on transformer embeddings](https://ivanpleshkov.dev/blog/polynomial-autoencoder/)
 
 ## [Archives](archives/index.md)
 
