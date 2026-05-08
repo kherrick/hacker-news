@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-05-08, 16:29:52",
+      "https://news.ycombinator.com/item?id=48065360"
+    ],
+    [
+      "Cartoon Network Flash Games",
+      "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games"
+    ]
+  ],
+  [
+    [
       "2026-05-08, 15:10:35",
       "https://news.ycombinator.com/item?id=48064312"
     ],
@@ -31,16 +41,6 @@
   ],
   [
     [
-      "2026-05-08, 13:58:32",
-      "https://news.ycombinator.com/item?id=48063240"
-    ],
-    [
-      "Tesla is recalling its cheaper Cybertruck because the wheels might fall off",
-      "https://www.theverge.com/transportation/926741/tesla-cybertruck-cheaper-recall"
-    ]
-  ],
-  [
-    [
       "2026-05-08, 13:56:10",
       "https://news.ycombinator.com/item?id=48063199"
     ],
@@ -61,11 +61,21 @@
   ],
   [
     [
+      "2026-05-08, 12:37:05",
+      "https://news.ycombinator.com/item?id=48062178"
+    ],
+    [
+      "A web page that shows you everything the browser told it without asking",
+      "https://sinceyouarrived.world/taken"
+    ]
+  ],
+  [
+    [
       "2026-05-08, 12:30:05",
       "https://news.ycombinator.com/item?id=48062117"
     ],
     [
-      "Poland is now among the 20 largest economies. How it happened",
+      "Poland is now among the 20 largest economies",
       "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa"
     ]
   ],
@@ -77,6 +87,16 @@
     [
       "Hackers breach JDownloader's website to serve malware-laced downloads",
       "https://www.neowin.net/news/if-you-downloaded-this-popular-software-recently-you-might-have-installed-malware/"
+    ]
+  ],
+  [
+    [
+      "2026-05-08, 12:10:25",
+      "https://news.ycombinator.com/item?id=48061938"
+    ],
+    [
+      "US Government releases first batch of UAP documents and videos",
+      "https://www.war.gov/UFO/"
     ]
   ],
   [
@@ -101,6 +121,16 @@
   ],
   [
     [
+      "2026-05-08, 07:57:14",
+      "https://news.ycombinator.com/item?id=48060054"
+    ],
+    [
+      "Ask HN: We just had an actual UUID v4 collision...",
+      "https://news.ycombinator.com/item?id=48060054"
+    ]
+  ],
+  [
+    [
       "2026-05-08, 07:04:24",
       "https://news.ycombinator.com/item?id=48059662"
     ],
@@ -121,22 +151,12 @@
   ],
   [
     [
-      "2026-05-08, 06:56:13",
-      "https://news.ycombinator.com/item?id=48059606"
+      "2026-05-08, 02:49:01",
+      "https://news.ycombinator.com/item?id=48057901"
     ],
     [
-      "Nintendo announces price increases for Nintendo Switch 2",
-      "https://www.nintendo.co.jp/corporate/release/en/2026/260508.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-08, 04:44:02",
-      "https://news.ycombinator.com/item?id=48058644"
-    ],
-    [
-      "Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE",
-      "https://github.com/graemeg/blaise"
+      "Mojo 1.0 Beta",
+      "https://mojolang.org/"
     ]
   ],
   [
@@ -165,7 +185,7 @@
       "https://news.ycombinator.com/item?id=48055913"
     ],
     [
-      "Canvas is down as ShinyHunters threatens to leak schools’ data",
+      "Canvas online again as ShinyHunters threatens to leak schools’ data",
       "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach"
     ]
   ],
@@ -175,7 +195,7 @@
       "https://news.ycombinator.com/item?id=48054423"
     ],
     [
-      "Cloudflare to cut about 20% workforce",
+      "Cloudflare to cut about 20% of its workforce",
       "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/"
     ]
   ],
@@ -191,26 +211,6 @@
   ],
   [
     [
-      "2026-05-07, 17:54:02",
-      "https://news.ycombinator.com/item?id=48052537"
-    ],
-    [
-      "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
-      "https://www.anthropic.com/research/natural-language-autoencoders"
-    ]
-  ],
-  [
-    [
-      "2026-05-07, 17:42:58",
-      "https://news.ycombinator.com/item?id=48052371"
-    ],
-    [
-      "Brazil's Pix payment system faces pressure from Visa and Mastercard",
-      "https://www.elciudadano.com/en/brazils-pix-payment-system-faces-pressure-from-visa-and-mastercard/04/04/"
-    ]
-  ],
-  [
-    [
       "2026-05-07, 16:43:35",
       "https://news.ycombinator.com/item?id=48051562"
     ],
@@ -221,32 +221,32 @@
   ],
   [
     [
-      "2026-05-07, 16:05:33",
-      "https://news.ycombinator.com/item?id=48051079"
-    ],
-    [
-      "Hardening Firefox with Claude Mythos Preview",
-      "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/"
-    ]
-  ],
-  [
-    [
-      "2026-05-07, 15:40:24",
-      "https://news.ycombinator.com/item?id=48050751"
-    ],
-    [
-      "DeepSeek 4 Flash local inference engine for Metal",
-      "https://github.com/antirez/ds4"
-    ]
-  ],
-  [
-    [
       "2026-05-07, 14:06:10",
       "https://news.ycombinator.com/item?id=48049653"
     ],
     [
       "The map that keeps Burning Man honest",
       "https://www.not-ship.com/burning-man-moop/"
+    ]
+  ],
+  [
+    [
+      "2026-05-07, 05:37:10",
+      "https://news.ycombinator.com/item?id=48045778"
+    ],
+    [
+      "The surprisingly complex journey to text-selectable client-side generated PDFs",
+      "https://sdocs.dev/blogs/journey-to-pdf-generation"
+    ]
+  ],
+  [
+    [
+      "2026-05-06, 22:36:17",
+      "https://news.ycombinator.com/item?id=48042817"
+    ],
+    [
+      "The Disappearance of the Public Bench",
+      "https://placesjournal.org/article/the-disappearance-of-the-public-bench/"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2026-05-06, 06:29:53",
-      "https://news.ycombinator.com/item?id=48032968"
+      "2026-05-06, 05:02:42",
+      "https://news.ycombinator.com/item?id=48032393"
     ],
     [
-      "Singapore introduces caning for boys who bully others at school",
-      "https://www.theguardian.com/world/2026/may/06/singapore-caning-school-bullies"
+      "Inventing Cyrillic (2024)",
+      "https://www.historytoday.com/archive/history-matters/inventing-cyrillic"
     ]
   ],
   [
