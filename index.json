@@ -1,12 +1,42 @@
 [
   [
     [
-      "2026-05-08, 19:45:28",
-      "https://news.ycombinator.com/item?id=48067790"
+      "2026-05-08, 21:02:32",
+      "https://news.ycombinator.com/item?id=48068732"
     ],
     [
-      "Lets Encrypt Stopping Issuance for Potential Incident",
-      "https://letsencrypt.status.io/pages/incident/55957a99e800baa4470002da/69fe2d6698ca07050eb4b1b3"
+      "Mux (YC W16) Is Hiring",
+      "https://www.mux.com/jobs"
+    ]
+  ],
+  [
+    [
+      "2026-05-08, 19:52:06",
+      "https://news.ycombinator.com/item?id=48067870"
+    ],
+    [
+      "Discord Incident",
+      "https://discordstatus.com"
+    ]
+  ],
+  [
+    [
+      "2026-05-08, 19:43:04",
+      "https://news.ycombinator.com/item?id=48067764"
+    ],
+    [
+      "Roadside Attraction",
+      "https://theoffingmag.com/essay/roadside-attraction/"
+    ]
+  ],
+  [
+    [
+      "2026-05-08, 19:40:39",
+      "https://news.ycombinator.com/item?id=48067734"
+    ],
+    [
+      "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
+      "https://ze3tar.github.io/post-zcrx.html"
     ]
   ],
   [
@@ -45,7 +75,7 @@
       "https://news.ycombinator.com/item?id=48066524"
     ],
     [
-      "AI Is Breaking Two Vulnerability Cultures",
+      "AI is breaking two vulnerability cultures",
       "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures"
     ]
   ],
@@ -65,7 +95,7 @@
       "https://news.ycombinator.com/item?id=48065916"
     ],
     [
-      "Bjarne Stroustrup: How do I deal with memory leaks? (2022)",
+      "How do I deal with memory leaks? (2022)",
       "https://www.stroustrup.com/bs_faq2.html#memory-leaks"
     ]
   ],
@@ -191,32 +221,12 @@
   ],
   [
     [
-      "2026-05-08, 09:55:37",
-      "https://news.ycombinator.com/item?id=48060918"
-    ],
-    [
-      "GeoJSON",
-      "https://geojson.org/"
-    ]
-  ],
-  [
-    [
       "2026-05-08, 07:57:14",
       "https://news.ycombinator.com/item?id=48060054"
     ],
     [
       "Ask HN: We just had an actual UUID v4 collision...",
       "https://news.ycombinator.com/item?id=48060054"
-    ]
-  ],
-  [
-    [
-      "2026-05-08, 07:04:24",
-      "https://news.ycombinator.com/item?id=48059662"
-    ],
-    [
-      "ClojureScript Gets Async/Await",
-      "https://clojurescript.org/news/2026-05-07-release"
     ]
   ],
   [
@@ -271,32 +281,22 @@
   ],
   [
     [
-      "2026-05-07, 05:37:10",
-      "https://news.ycombinator.com/item?id=48045778"
-    ],
-    [
-      "The surprisingly complex journey to text-selectable client-side generated PDFs",
-      "https://sdocs.dev/blogs/journey-to-pdf-generation"
-    ]
-  ],
-  [
-    [
-      "2026-05-07, 04:42:15",
-      "https://news.ycombinator.com/item?id=48045462"
-    ],
-    [
-      "pg_flight_recorder: Continuously sample PostgreSQL system state via pg_cron",
-      "https://github.com/dventimisupabase/pg_flight_recorder"
-    ]
-  ],
-  [
-    [
       "2026-05-06, 15:24:51",
       "https://news.ycombinator.com/item?id=48037336"
     ],
     [
       "Rumors of my death are slightly exaggerated",
       "https://news.ycombinator.com/item?id=48037336"
+    ]
+  ],
+  [
+    [
+      "2026-05-06, 13:54:20",
+      "https://news.ycombinator.com/item?id=48036289"
+    ],
+    [
+      "Man Finds $1M Worth of Yu-Gi-Oh Cards in a Dumpster",
+      "https://www.404media.co/man-finds-1-million-worth-of-yu-gi-oh-cards-in-a-dumpster/"
     ]
   ]
 ]
