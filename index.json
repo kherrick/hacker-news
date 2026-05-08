@@ -1,6 +1,76 @@
 [
   [
     [
+      "2026-05-08, 13:58:32",
+      "https://news.ycombinator.com/item?id=48063240"
+    ],
+    [
+      "Tesla is recalling its cheaper Cybertruck because the wheels might fall off",
+      "https://www.theverge.com/transportation/926741/tesla-cybertruck-cheaper-recall"
+    ]
+  ],
+  [
+    [
+      "2026-05-08, 13:56:10",
+      "https://news.ycombinator.com/item?id=48063199"
+    ],
+    [
+      "Google Cloud Fraud Defence is just WEI repackaged",
+      "https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/"
+    ]
+  ],
+  [
+    [
+      "2026-05-08, 13:22:33",
+      "https://news.ycombinator.com/item?id=48062745"
+    ],
+    [
+      "Podman rootless containers and the Copy Fail exploit",
+      "https://garrido.io/notes/podman-rootless-containers-copy-fail/"
+    ]
+  ],
+  [
+    [
+      "2026-05-08, 13:06:51",
+      "https://news.ycombinator.com/item?id=48062530"
+    ],
+    [
+      "UFO Release 1: Presidential Unsealing and Reporting System for UAP Encounters",
+      "https://www.war.gov/UFO/#release"
+    ]
+  ],
+  [
+    [
+      "2026-05-08, 12:30:05",
+      "https://news.ycombinator.com/item?id=48062117"
+    ],
+    [
+      "Poland is now among the 20 largest economies. How it happened",
+      "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa"
+    ]
+  ],
+  [
+    [
+      "2026-05-08, 12:20:01",
+      "https://news.ycombinator.com/item?id=48062035"
+    ],
+    [
+      "Hackers breach JDownloader's website to serve malware-laced downloads",
+      "https://www.neowin.net/news/if-you-downloaded-this-popular-software-recently-you-might-have-installed-malware/"
+    ]
+  ],
+  [
+    [
+      "2026-05-08, 11:22:11",
+      "https://news.ycombinator.com/item?id=48061566"
+    ],
+    [
+      "An Introduction to Meshtastic",
+      "https://meshtastic.org/docs/introduction/"
+    ]
+  ],
+  [
+    [
       "2026-05-08, 09:55:37",
       "https://news.ycombinator.com/item?id=48060918"
     ],
@@ -17,6 +87,16 @@
     [
       "ClojureScript Gets Async/Await",
       "https://clojurescript.org/news/2026-05-07-release"
+    ]
+  ],
+  [
+    [
+      "2026-05-08, 07:00:25",
+      "https://news.ycombinator.com/item?id=48059633"
+    ],
+    [
+      "QBE – Compiler Back End",
+      "https://c9x.me/compile/"
     ]
   ],
   [
@@ -41,16 +121,6 @@
   ],
   [
     [
-      "2026-05-08, 03:51:59",
-      "https://news.ycombinator.com/item?id=48058337"
-    ],
-    [
-      "Digging into Drama at the Document Foundation",
-      "https://lwn.net/Articles/1066418/"
-    ]
-  ],
-  [
-    [
       "2026-05-08, 01:02:28",
       "https://news.ycombinator.com/item?id=48057209"
     ],
@@ -71,32 +141,12 @@
   ],
   [
     [
-      "2026-05-07, 23:06:44",
-      "https://news.ycombinator.com/item?id=48056268"
-    ],
-    [
-      "Plasticity and language in the anaesthetized human hippocampus",
-      "https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain"
-    ]
-  ],
-  [
-    [
       "2026-05-07, 23:02:11",
       "https://news.ycombinator.com/item?id=48056227"
     ],
     [
       "Maybe you shouldn't install new software for a bit",
       "https://xeiaso.net/blog/2026/abstain-from-install/"
-    ]
-  ],
-  [
-    [
-      "2026-05-07, 22:54:34",
-      "https://news.ycombinator.com/item?id=48056158"
-    ],
-    [
-      "Nonprofit hospitals spend billions on consultants with no clear effect",
-      "https://www.uchicagomedicine.org/forefront/research-and-discoveries-articles/nonprofit-hospitals-spend-billions-on-management-consultants"
     ]
   ],
   [
@@ -121,32 +171,12 @@
   ],
   [
     [
-      "2026-05-07, 19:38:36",
-      "https://news.ycombinator.com/item?id=48053842"
-    ],
-    [
-      "Two Home Affairs officials suspended after AI 'hallucinations' found",
-      "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/"
-    ]
-  ],
-  [
-    [
       "2026-05-07, 19:21:32",
       "https://news.ycombinator.com/item?id=48053623"
     ],
     [
       "Dirtyfrag: Universal Linux LPE",
       "https://www.openwall.com/lists/oss-security/2026/05/07/8"
-    ]
-  ],
-  [
-    [
-      "2026-05-07, 18:46:25",
-      "https://news.ycombinator.com/item?id=48053203"
-    ],
-    [
-      "AI slop is killing online communities",
-      "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/"
     ]
   ],
   [
@@ -221,42 +251,12 @@
   ],
   [
     [
-      "2026-05-07, 05:37:10",
-      "https://news.ycombinator.com/item?id=48045778"
-    ],
-    [
-      "The surprisingly complex journey to text-selectable client-side generated PDFs",
-      "https://sdocs.dev/blogs/journey-to-pdf-generation"
-    ]
-  ],
-  [
-    [
       "2026-05-06, 15:24:51",
       "https://news.ycombinator.com/item?id=48037336"
     ],
     [
       "Rumors of my death are slightly exaggerated",
       "https://news.ycombinator.com/item?id=48037336"
-    ]
-  ],
-  [
-    [
-      "2026-05-06, 14:48:03",
-      "https://news.ycombinator.com/item?id=48036923"
-    ],
-    [
-      "Floats Don't Agree with Themselves",
-      "https://docs.merca.earth/blog/floats-dont-agree-with-themselves"
-    ]
-  ],
-  [
-    [
-      "2026-05-06, 14:31:42",
-      "https://news.ycombinator.com/item?id=48036746"
-    ],
-    [
-      "How to make SSE token streams resumable, cancellable, and multi-device",
-      "https://zknill.io/posts/everyone-said-sse-token-streaming-was-easy/"
     ]
   ],
   [
