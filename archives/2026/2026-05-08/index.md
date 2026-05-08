@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-05-08](index.md)
 
+* [2026-05-08, 17:55:08](https://news.ycombinator.com/item?id=48066524) - [AI Is Breaking Two Vulnerability Cultures](https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures)
+* [2026-05-08, 17:25:21](https://news.ycombinator.com/item?id=48066169) - [Apple, Intel have reached preliminary chip-making deal](https://www.reuters.com/business/apple-intel-have-reached-preliminary-chip-making-deal-wsj-reports-2026-05-08/)
+* [2026-05-08, 17:06:59](https://news.ycombinator.com/item?id=48065916) - [Bjarne Stroustrup: How do I deal with memory leaks? (2022)](https://www.stroustrup.com/bs_faq2.html#memory-leaks)
 * [2026-05-08, 16:29:52](https://news.ycombinator.com/item?id=48065360) - [Cartoon Network Flash Games](https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games)
 * [2026-05-08, 15:10:35](https://news.ycombinator.com/item?id=48064312) - [Serving a Website on a Raspberry Pi Zero Running in RAM](https://btxx.org/posts/memory/)
 * [2026-05-08, 14:15:36](https://news.ycombinator.com/item?id=48063548) - [Show HN: Git for AI Agents](https://github.com/regent-vcs/re_gent)
@@ -16,6 +19,7 @@
 * [2026-05-08, 12:30:05](https://news.ycombinator.com/item?id=48062117) - [Poland is now among the 20 largest economies. How it happened](https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa)
 * [2026-05-08, 12:20:01](https://news.ycombinator.com/item?id=48062035) - [Hackers breach JDownloader's website to serve malware-laced downloads](https://www.neowin.net/news/if-you-downloaded-this-popular-software-recently-you-might-have-installed-malware/)
 * [2026-05-08, 12:10:25](https://news.ycombinator.com/item?id=48061938) - [US Government releases first batch of UAP documents and videos](https://www.war.gov/UFO/)
+* [2026-05-08, 12:03:26](https://news.ycombinator.com/item?id=48061884) - [David Attenborough's 100th Birthday](https://www.bbc.com/news/articles/cp3pww9g0p5o)
 * [2026-05-08, 11:22:11](https://news.ycombinator.com/item?id=48061566) - [An Introduction to Meshtastic](https://meshtastic.org/docs/introduction/)
 * [2026-05-08, 09:55:37](https://news.ycombinator.com/item?id=48060918) - [GeoJSON](https://geojson.org/)
 * [2026-05-08, 07:57:14](https://news.ycombinator.com/item?id=48060054) - [Ask HN: We just had an actual UUID v4 collision...](https://news.ycombinator.com/item?id=48060054)
