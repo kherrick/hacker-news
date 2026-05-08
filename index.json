@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-05-08, 21:23:07",
+      "https://news.ycombinator.com/item?id=48068947"
+    ],
+    [
+      "Non-determinism is an issue with patching CVEs",
+      "https://flox.dev/blog/achieving-rapid-cve-remediation-in-an-era-of-escalating-vulnerabilities/"
+    ]
+  ],
+  [
+    [
+      "2026-05-08, 21:17:58",
+      "https://news.ycombinator.com/item?id=48068896"
+    ],
+    [
+      "Show HN: The independent guide to agent orchestrators",
+      "https://agentmgmt.dev/"
+    ]
+  ],
+  [
+    [
       "2026-05-08, 21:02:32",
       "https://news.ycombinator.com/item?id=48068732"
     ],
@@ -11,12 +31,12 @@
   ],
   [
     [
-      "2026-05-08, 19:52:06",
-      "https://news.ycombinator.com/item?id=48067870"
+      "2026-05-08, 20:36:51",
+      "https://news.ycombinator.com/item?id=48068475"
     ],
     [
-      "Discord Incident",
-      "https://discordstatus.com"
+      "Dirty Frag: Universal Linux LPE",
+      "https://github.com/V4bel/dirtyfrag"
     ]
   ],
   [
@@ -51,22 +71,22 @@
   ],
   [
     [
-      "2026-05-08, 18:53:08",
-      "https://news.ycombinator.com/item?id=48067197"
-    ],
-    [
-      "What we lost the last time code got cheap",
-      "https://www.poppastring.com/blog/what-we-lost-the-last-time-code-got-cheap"
-    ]
-  ],
-  [
-    [
       "2026-05-08, 18:45:58",
       "https://news.ycombinator.com/item?id=48067119"
     ],
     [
-      "Google Broke reCAPTCHA for De-Googled Android Users",
+      "Google broke reCAPTCHA for de-googled Android users",
       "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users"
+    ]
+  ],
+  [
+    [
+      "2026-05-08, 17:59:41",
+      "https://news.ycombinator.com/item?id=48066592"
+    ],
+    [
+      "Teaching Claude Why",
+      "https://www.anthropic.com/research/teaching-claude-why"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "Apple, Intel have reached preliminary chip-making deal",
       "https://www.reuters.com/business/apple-intel-have-reached-preliminary-chip-making-deal-wsj-reports-2026-05-08/"
-    ]
-  ],
-  [
-    [
-      "2026-05-08, 17:06:59",
-      "https://news.ycombinator.com/item?id=48065916"
-    ],
-    [
-      "How do I deal with memory leaks? (2022)",
-      "https://www.stroustrup.com/bs_faq2.html#memory-leaks"
     ]
   ],
   [
@@ -151,32 +161,12 @@
   ],
   [
     [
-      "2026-05-08, 13:56:10",
-      "https://news.ycombinator.com/item?id=48063199"
-    ],
-    [
-      "Google Cloud Fraud Defence is just WEI repackaged",
-      "https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/"
-    ]
-  ],
-  [
-    [
       "2026-05-08, 13:22:33",
       "https://news.ycombinator.com/item?id=48062745"
     ],
     [
       "Podman rootless containers and the Copy Fail exploit",
       "https://garrido.io/notes/podman-rootless-containers-copy-fail/"
-    ]
-  ],
-  [
-    [
-      "2026-05-08, 12:37:05",
-      "https://news.ycombinator.com/item?id=48062178"
-    ],
-    [
-      "A web page that shows you everything the browser told it without asking",
-      "https://sinceyouarrived.world/taken"
     ]
   ],
   [
@@ -231,6 +221,16 @@
   ],
   [
     [
+      "2026-05-08, 03:31:58",
+      "https://news.ycombinator.com/item?id=48058197"
+    ],
+    [
+      "AWS says data center overheating in North Virginia disrupts services",
+      "https://www.reuters.com/business/retail-consumer/amazon-cloud-unit-says-data-center-overheating-north-virginia-disrupts-services-2026-05-08/"
+    ]
+  ],
+  [
+    [
       "2026-05-08, 02:49:01",
       "https://news.ycombinator.com/item?id=48057901"
     ],
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2026-05-07, 20:23:37",
-      "https://news.ycombinator.com/item?id=48054423"
+      "2026-05-07, 13:12:39",
+      "https://news.ycombinator.com/item?id=48049014"
     ],
     [
-      "Cloudflare to cut about 20% of its workforce",
-      "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/"
+      "Looking at the data behind prediction markets",
+      "https://asteriskmag.com/issues/14/are-prediction-markets-good-for-anything"
     ]
   ],
   [
     [
-      "2026-05-07, 19:21:32",
-      "https://news.ycombinator.com/item?id=48053623"
+      "2026-05-06, 15:52:25",
+      "https://news.ycombinator.com/item?id=48037655"
     ],
     [
-      "Dirtyfrag: Universal Linux LPE",
-      "https://www.openwall.com/lists/oss-security/2026/05/07/8"
+      "All means are fair except solving the problem",
+      "https://yosefk.com/blog/all-means-are-fair-except-solving-the-problem.html"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=48036289"
     ],
     [
-      "Man Finds $1M Worth of Yu-Gi-Oh Cards in a Dumpster",
+      "Man finds $1M worth of Yu-Gi-Oh cards in a dumpster",
       "https://www.404media.co/man-finds-1-million-worth-of-yu-gi-oh-cards-in-a-dumpster/"
     ]
   ]
