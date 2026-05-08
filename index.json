@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-05-08, 15:10:35",
+      "https://news.ycombinator.com/item?id=48064312"
+    ],
+    [
+      "Serving a Website on a Raspberry Pi Zero Running in RAM",
+      "https://btxx.org/posts/memory/"
+    ]
+  ],
+  [
+    [
+      "2026-05-08, 14:15:36",
+      "https://news.ycombinator.com/item?id=48063548"
+    ],
+    [
+      "Show HN: Git for AI Agents",
+      "https://github.com/regent-vcs/re_gent"
+    ]
+  ],
+  [
+    [
+      "2026-05-08, 14:14:31",
+      "https://news.ycombinator.com/item?id=48063521"
+    ],
+    [
+      "PC Engine CPU",
+      "https://jsgroth.dev/blog/posts/pc-engine-cpu/"
+    ]
+  ],
+  [
+    [
       "2026-05-08, 13:58:32",
       "https://news.ycombinator.com/item?id=48063240"
     ],
@@ -27,16 +57,6 @@
     [
       "Podman rootless containers and the Copy Fail exploit",
       "https://garrido.io/notes/podman-rootless-containers-copy-fail/"
-    ]
-  ],
-  [
-    [
-      "2026-05-08, 13:06:51",
-      "https://news.ycombinator.com/item?id=48062530"
-    ],
-    [
-      "UFO Release 1: Presidential Unsealing and Reporting System for UAP Encounters",
-      "https://www.war.gov/UFO/#release"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2026-05-08, 00:03:38",
-      "https://news.ycombinator.com/item?id=48056749"
-    ],
-    [
-      "GNU IFUNC is the real culprit behind CVE-2024-3094",
-      "https://github.com/robertdfrench/ifuncd-up"
-    ]
-  ],
-  [
-    [
       "2026-05-07, 23:02:11",
       "https://news.ycombinator.com/item?id=48056227"
     ],
@@ -227,16 +237,6 @@
     [
       "DeepSeek 4 Flash local inference engine for Metal",
       "https://github.com/antirez/ds4"
-    ]
-  ],
-  [
-    [
-      "2026-05-07, 15:02:20",
-      "https://news.ycombinator.com/item?id=48050278"
-    ],
-    [
-      "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
-      "https://deepmind.google/blog/alphaevolve-impact/"
     ]
   ],
   [
