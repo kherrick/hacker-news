@@ -4,10 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-05-08](index.md)
 
+* [2026-05-08, 19:45:28](https://news.ycombinator.com/item?id=48067790) - [Lets Encrypt Stopping Issuance for Potential Incident](https://letsencrypt.status.io/pages/incident/55957a99e800baa4470002da/69fe2d6698ca07050eb4b1b3)
+* [2026-05-08, 19:35:36](https://news.ycombinator.com/item?id=48067686) - [My first in-prod corrupted hard drive problem](https://blog.pavementlink.ch/2026/05/07/my-first-corrupted-hard-drive-problem/)
+* [2026-05-08, 18:53:08](https://news.ycombinator.com/item?id=48067197) - [What we lost the last time code got cheap](https://www.poppastring.com/blog/what-we-lost-the-last-time-code-got-cheap)
+* [2026-05-08, 18:45:58](https://news.ycombinator.com/item?id=48067119) - [Google Broke reCAPTCHA for De-Googled Android Users](https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users)
 * [2026-05-08, 17:55:08](https://news.ycombinator.com/item?id=48066524) - [AI Is Breaking Two Vulnerability Cultures](https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures)
 * [2026-05-08, 17:25:21](https://news.ycombinator.com/item?id=48066169) - [Apple, Intel have reached preliminary chip-making deal](https://www.reuters.com/business/apple-intel-have-reached-preliminary-chip-making-deal-wsj-reports-2026-05-08/)
 * [2026-05-08, 17:06:59](https://news.ycombinator.com/item?id=48065916) - [Bjarne Stroustrup: How do I deal with memory leaks? (2022)](https://www.stroustrup.com/bs_faq2.html#memory-leaks)
 * [2026-05-08, 16:29:52](https://news.ycombinator.com/item?id=48065360) - [Cartoon Network Flash Games](https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games)
+* [2026-05-08, 16:17:37](https://news.ycombinator.com/item?id=48065203) - [Show HN: GETadb.com – every GET request creates a DB](https://www.getadb.com/)
 * [2026-05-08, 15:10:35](https://news.ycombinator.com/item?id=48064312) - [Serving a Website on a Raspberry Pi Zero Running in RAM](https://btxx.org/posts/memory/)
 * [2026-05-08, 14:15:36](https://news.ycombinator.com/item?id=48063548) - [Show HN: Git for AI Agents](https://github.com/regent-vcs/re_gent)
 * [2026-05-08, 14:14:31](https://news.ycombinator.com/item?id=48063521) - [PC Engine CPU](https://jsgroth.dev/blog/posts/pc-engine-cpu/)

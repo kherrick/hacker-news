@@ -55,6 +55,7 @@
 * [2026-05-07, 05:58:52](https://news.ycombinator.com/item?id=48045939) - [Show HN: Trust – Coding Rust like it's 1989](https://github.com/wojtczyk/trust)
 * [2026-05-07, 05:37:10](https://news.ycombinator.com/item?id=48045778) - [The surprisingly complex journey to text-selectable client-side generated PDFs](https://sdocs.dev/blogs/journey-to-pdf-generation)
 * [2026-05-07, 05:24:23](https://news.ycombinator.com/item?id=48045711) - [Show HN: Kstack – Skill pack for monitoring/troubleshooting K8s in Claude Code](https://github.com/kubetail-org/kstack)
+* [2026-05-07, 04:42:15](https://news.ycombinator.com/item?id=48045462) - [pg_flight_recorder: Continuously sample PostgreSQL system state via pg_cron](https://github.com/dventimisupabase/pg_flight_recorder)
 * [2026-05-07, 04:25:43](https://news.ycombinator.com/item?id=48045384) - [Building the TD4 4-Bit CPU](https://jayakody2000lk.blogspot.com/2026/05/building-td4-4-bit-cpu.html)
 * [2026-05-07, 03:46:15](https://news.ycombinator.com/item?id=48045174) - [ProgramBench: Can Language Models Rebuild Programs from Scratch?](https://arxiv.org/abs/2605.03546)
 * [2026-05-07, 03:21:30](https://news.ycombinator.com/item?id=48045067) - [We programmed a program to program new programs (2011)](https://www.smbc-comics.com/comic/2011-09-08)
