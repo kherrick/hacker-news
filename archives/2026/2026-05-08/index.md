@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-05-08](index.md)
 
+* [2026-05-08, 15:10:35](https://news.ycombinator.com/item?id=48064312) - [Serving a Website on a Raspberry Pi Zero Running in RAM](https://btxx.org/posts/memory/)
+* [2026-05-08, 14:15:36](https://news.ycombinator.com/item?id=48063548) - [Show HN: Git for AI Agents](https://github.com/regent-vcs/re_gent)
+* [2026-05-08, 14:14:31](https://news.ycombinator.com/item?id=48063521) - [PC Engine CPU](https://jsgroth.dev/blog/posts/pc-engine-cpu/)
 * [2026-05-08, 13:58:32](https://news.ycombinator.com/item?id=48063240) - [Tesla is recalling its cheaper Cybertruck because the wheels might fall off](https://www.theverge.com/transportation/926741/tesla-cybertruck-cheaper-recall)
 * [2026-05-08, 13:56:10](https://news.ycombinator.com/item?id=48063199) - [Google Cloud Fraud Defence is just WEI repackaged](https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/)
 * [2026-05-08, 13:22:33](https://news.ycombinator.com/item?id=48062745) - [Podman rootless containers and the Copy Fail exploit](https://garrido.io/notes/podman-rootless-containers-copy-fail/)
