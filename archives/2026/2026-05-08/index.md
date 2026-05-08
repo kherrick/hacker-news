@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-08](index.md)
 
+* [2026-05-08, 09:55:37](https://news.ycombinator.com/item?id=48060918) - [GeoJSON](https://geojson.org/)
 * [2026-05-08, 07:57:14](https://news.ycombinator.com/item?id=48060054) - [Ask HN: We just had an actual UUID v4 collision...](https://news.ycombinator.com/item?id=48060054)
 * [2026-05-08, 07:04:24](https://news.ycombinator.com/item?id=48059662) - [ClojureScript Gets Async/Await](https://clojurescript.org/news/2026-05-07-release)
 * [2026-05-08, 06:56:13](https://news.ycombinator.com/item?id=48059606) - [Nintendo announces price increases for Nintendo Switch 2](https://www.nintendo.co.jp/corporate/release/en/2026/260508.html)
