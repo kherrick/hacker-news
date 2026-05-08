@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-05-08, 05:24:24",
-      "https://news.ycombinator.com/item?id=48058917"
+      "2026-05-08, 07:57:14",
+      "https://news.ycombinator.com/item?id=48060054"
     ],
     [
-      "HantaWatch Real time hantavirus outbreak tracker",
-      "https://hantawatch.net/"
+      "Ask HN: We just had an actual UUID v4 collision...",
+      "https://news.ycombinator.com/item?id=48060054"
+    ]
+  ],
+  [
+    [
+      "2026-05-08, 07:04:24",
+      "https://news.ycombinator.com/item?id=48059662"
+    ],
+    [
+      "ClojureScript Gets Async/Await",
+      "https://clojurescript.org/news/2026-05-07-release"
+    ]
+  ],
+  [
+    [
+      "2026-05-08, 06:56:13",
+      "https://news.ycombinator.com/item?id=48059606"
+    ],
+    [
+      "Nintendo announces price increases for Nintendo Switch 2",
+      "https://www.nintendo.co.jp/corporate/release/en/2026/260508.html"
     ]
   ],
   [
@@ -31,32 +51,12 @@
   ],
   [
     [
-      "2026-05-08, 01:02:28",
-      "https://news.ycombinator.com/item?id=48057209"
-    ],
-    [
-      "GPT-5.5 Price Increase: What It Costs",
-      "https://openrouter.ai/announcements/gpt55-cost-analysis"
-    ]
-  ],
-  [
-    [
       "2026-05-08, 00:03:38",
       "https://news.ycombinator.com/item?id=48056749"
     ],
     [
       "GNU IFUNC is the real culprit behind CVE-2024-3094",
       "https://github.com/robertdfrench/ifuncd-up"
-    ]
-  ],
-  [
-    [
-      "2026-05-07, 23:17:03",
-      "https://news.ycombinator.com/item?id=48056359"
-    ],
-    [
-      "Gambling ads on social media reach more than twice as many men as women: study",
-      "https://www.cam.ac.uk/research/news/gambling-ads-on-social-media-reach-more-than-twice-as-many-men-as-women"
     ]
   ],
   [
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2026-05-07, 15:19:27",
-      "https://news.ycombinator.com/item?id=48050499"
-    ],
-    [
-      "I want to live like Costco people",
-      "https://tastecooking.com/i-want-to-live-like-costco-people/"
-    ]
-  ],
-  [
-    [
       "2026-05-07, 15:02:20",
       "https://news.ycombinator.com/item?id=48050278"
     ],
@@ -217,6 +207,16 @@
     [
       "The map that keeps Burning Man honest",
       "https://www.not-ship.com/burning-man-moop/"
+    ]
+  ],
+  [
+    [
+      "2026-05-07, 05:37:10",
+      "https://news.ycombinator.com/item?id=48045778"
+    ],
+    [
+      "The surprisingly complex journey to text-selectable client-side generated PDFs",
+      "https://sdocs.dev/blogs/journey-to-pdf-generation"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2026-05-06, 05:02:42",
-      "https://news.ycombinator.com/item?id=48032393"
-    ],
-    [
-      "Inventing Cyrillic",
-      "https://www.historytoday.com/archive/history-matters/inventing-cyrillic"
-    ]
-  ],
-  [
-    [
       "2026-05-05, 11:31:12",
       "https://news.ycombinator.com/item?id=48021023"
     ],
     [
       "A polynomial autoencoder beats PCA on transformer embeddings",
       "https://ivanpleshkov.dev/blog/polynomial-autoencoder/"
+    ]
+  ],
+  [
+    [
+      "2026-05-04, 15:26:18",
+      "https://news.ycombinator.com/item?id=48009879"
+    ],
+    [
+      "Dithering with CSS",
+      "https://ikesau.co/blog/dithering-with-css/"
     ]
   ]
 ]
