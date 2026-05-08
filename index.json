@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-05-08, 19:45:28",
+      "https://news.ycombinator.com/item?id=48067790"
+    ],
+    [
+      "Lets Encrypt Stopping Issuance for Potential Incident",
+      "https://letsencrypt.status.io/pages/incident/55957a99e800baa4470002da/69fe2d6698ca07050eb4b1b3"
+    ]
+  ],
+  [
+    [
+      "2026-05-08, 19:35:36",
+      "https://news.ycombinator.com/item?id=48067686"
+    ],
+    [
+      "My first in-prod corrupted hard drive problem",
+      "https://blog.pavementlink.ch/2026/05/07/my-first-corrupted-hard-drive-problem/"
+    ]
+  ],
+  [
+    [
+      "2026-05-08, 18:53:08",
+      "https://news.ycombinator.com/item?id=48067197"
+    ],
+    [
+      "What we lost the last time code got cheap",
+      "https://www.poppastring.com/blog/what-we-lost-the-last-time-code-got-cheap"
+    ]
+  ],
+  [
+    [
+      "2026-05-08, 18:45:58",
+      "https://news.ycombinator.com/item?id=48067119"
+    ],
+    [
+      "Google Broke reCAPTCHA for De-Googled Android Users",
+      "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users"
+    ]
+  ],
+  [
+    [
       "2026-05-08, 17:55:08",
       "https://news.ycombinator.com/item?id=48066524"
     ],
@@ -41,11 +81,21 @@
   ],
   [
     [
+      "2026-05-08, 16:17:37",
+      "https://news.ycombinator.com/item?id=48065203"
+    ],
+    [
+      "Show HN: GETadb.com – every GET request creates a DB",
+      "https://www.getadb.com/"
+    ]
+  ],
+  [
+    [
       "2026-05-08, 15:10:35",
       "https://news.ycombinator.com/item?id=48064312"
     ],
     [
-      "Serving a Website on a Raspberry Pi Zero Running in RAM",
+      "Serving a website on a Raspberry Pi Zero running in RAM",
       "https://btxx.org/posts/memory/"
     ]
   ],
@@ -171,16 +221,6 @@
   ],
   [
     [
-      "2026-05-08, 07:00:25",
-      "https://news.ycombinator.com/item?id=48059633"
-    ],
-    [
-      "QBE – Compiler Back End",
-      "https://c9x.me/compile/"
-    ]
-  ],
-  [
-    [
       "2026-05-08, 02:49:01",
       "https://news.ycombinator.com/item?id=48057901"
     ],
@@ -231,16 +271,6 @@
   ],
   [
     [
-      "2026-05-07, 14:06:10",
-      "https://news.ycombinator.com/item?id=48049653"
-    ],
-    [
-      "The map that keeps Burning Man honest",
-      "https://www.not-ship.com/burning-man-moop/"
-    ]
-  ],
-  [
-    [
       "2026-05-07, 05:37:10",
       "https://news.ycombinator.com/item?id=48045778"
     ],
@@ -251,12 +281,12 @@
   ],
   [
     [
-      "2026-05-06, 22:36:17",
-      "https://news.ycombinator.com/item?id=48042817"
+      "2026-05-07, 04:42:15",
+      "https://news.ycombinator.com/item?id=48045462"
     ],
     [
-      "The Disappearance of the Public Bench",
-      "https://placesjournal.org/article/the-disappearance-of-the-public-bench/"
+      "pg_flight_recorder: Continuously sample PostgreSQL system state via pg_cron",
+      "https://github.com/dventimisupabase/pg_flight_recorder"
     ]
   ],
   [
@@ -267,36 +297,6 @@
     [
       "Rumors of my death are slightly exaggerated",
       "https://news.ycombinator.com/item?id=48037336"
-    ]
-  ],
-  [
-    [
-      "2026-05-06, 12:27:07",
-      "https://news.ycombinator.com/item?id=48035420"
-    ],
-    [
-      "Pinocchio is weirder than you remembered",
-      "https://storica.club/blog/pinocchio-in-italian/"
-    ]
-  ],
-  [
-    [
-      "2026-05-06, 05:02:42",
-      "https://news.ycombinator.com/item?id=48032393"
-    ],
-    [
-      "Inventing Cyrillic (2024)",
-      "https://www.historytoday.com/archive/history-matters/inventing-cyrillic"
-    ]
-  ],
-  [
-    [
-      "2026-05-06, 02:31:26",
-      "https://news.ycombinator.com/item?id=48031436"
-    ],
-    [
-      "Defeating Works by Design's Unpickable Lock [video]",
-      "https://www.youtube.com/watch?v=rMi1dIqMwNw"
     ]
   ]
 ]
