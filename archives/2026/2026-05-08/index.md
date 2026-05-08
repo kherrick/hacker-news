@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-05-08](index.md)
 
+* [2026-05-08, 07:57:14](https://news.ycombinator.com/item?id=48060054) - [Ask HN: We just had an actual UUID v4 collision...](https://news.ycombinator.com/item?id=48060054)
+* [2026-05-08, 07:04:24](https://news.ycombinator.com/item?id=48059662) - [ClojureScript Gets Async/Await](https://clojurescript.org/news/2026-05-07-release)
+* [2026-05-08, 06:56:13](https://news.ycombinator.com/item?id=48059606) - [Nintendo announces price increases for Nintendo Switch 2](https://www.nintendo.co.jp/corporate/release/en/2026/260508.html)
 * [2026-05-08, 05:24:24](https://news.ycombinator.com/item?id=48058917) - [HantaWatch Real time hantavirus outbreak tracker](https://hantawatch.net/)
 * [2026-05-08, 04:44:02](https://news.ycombinator.com/item?id=48058644) - [Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE](https://github.com/graemeg/blaise)
 * [2026-05-08, 04:00:53](https://news.ycombinator.com/item?id=48058393) - [Copy Fail 2: Electric Boogaloo](https://github.com/0xdeadbeefnetwork/Copy_Fail2-Electric_Boogaloo)

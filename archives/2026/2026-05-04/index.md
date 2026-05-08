@@ -40,6 +40,7 @@
 * [2026-05-04, 15:51:37](https://news.ycombinator.com/item?id=48010266) - [Sierra Raises $950M at $15B Valuation](https://sierra.ai/blog/better-customer-experiences-built-on-sierra)
 * [2026-05-04, 15:47:27](https://news.ycombinator.com/item?id=48010208) - [Alberta voter list leak is a potential public safety disaster](https://globalnews.ca/news/11828244/alberta-voter-list-leak-public-safety-disaster/)
 * [2026-05-04, 15:32:46](https://news.ycombinator.com/item?id=48009983) - [Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks](https://www.nber.org/papers/w35117)
+* [2026-05-04, 15:26:18](https://news.ycombinator.com/item?id=48009879) - [Dithering with CSS](https://ikesau.co/blog/dithering-with-css/)
 * [2026-05-04, 15:22:53](https://news.ycombinator.com/item?id=48009840) - [1966 Ford Mustang Converted into a Tesla with Working 'Full Self-Driving'](https://electrek.co/2026/05/02/tesla-1966-mustang-ev-conversion-full-self-driving/)
 * [2026-05-04, 15:15:21](https://news.ycombinator.com/item?id=48009747) - [I tracked 7,700 UK petrol stations every 10 minutes for 3 months](https://www.fuelinsight.co.uk)
 * [2026-05-04, 15:10:41](https://news.ycombinator.com/item?id=48009697) - [Removable batteries in smartphones will be mandatory in the EU starting in 2027](https://www.ecopv-eu.com/en/blog-en/replaceable-smartphone-batteries-2027-eu-regulation/)
