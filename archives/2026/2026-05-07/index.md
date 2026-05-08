@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-05-07](index.md)
 
+* [2026-05-07, 23:17:03](https://news.ycombinator.com/item?id=48056359) - [Gambling ads on social media reach more than twice as many men as women: study](https://www.cam.ac.uk/research/news/gambling-ads-on-social-media-reach-more-than-twice-as-many-men-as-women)
 * [2026-05-07, 23:06:44](https://news.ycombinator.com/item?id=48056268) - [Researchers discover advanced language processing in the unconscious human brain](https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain)
 * [2026-05-07, 23:02:11](https://news.ycombinator.com/item?id=48056227) - [Maybe you shouldn't install new software for a bit](https://xeiaso.net/blog/2026/abstain-from-install/)
 * [2026-05-07, 22:54:34](https://news.ycombinator.com/item?id=48056158) - [Nonprofit hospitals spend billions on consultants with no clear effect](https://www.uchicagomedicine.org/forefront/research-and-discoveries-articles/nonprofit-hospitals-spend-billions-on-management-consultants)
 * [2026-05-07, 22:33:11](https://news.ycombinator.com/item?id=48056003) - [OpenClaw Had a Rough Week](https://openclaw.ai/blog/openclaw-rough-week)
 * [2026-05-07, 22:22:21](https://news.ycombinator.com/item?id=48055913) - [Canvas (Instructure) LMS Down in Ongoing Ransomware Attack](https://www.theverge.com/tech/926458/canvas-shinyhunters-breach)
 * [2026-05-07, 22:14:49](https://news.ycombinator.com/item?id=48055844) - [Hackers deface school login pages after claiming another Instructure hack](https://techcrunch.com/2026/05/07/hackers-deface-school-login-pages-after-claiming-another-instructure-hack/)
+* [2026-05-07, 20:23:37](https://news.ycombinator.com/item?id=48054423) - [Cloudflare to cut about 20% workforce](https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/)
 * [2026-05-07, 20:23:37](https://news.ycombinator.com/item?id=48054423) - [Building for the Future](https://blog.cloudflare.com/building-for-the-future/)
 * [2026-05-07, 19:38:36](https://news.ycombinator.com/item?id=48053842) - [Two Home Affairs officials suspended after AI 'hallucinations' found](https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/)
 * [2026-05-07, 19:36:45](https://news.ycombinator.com/item?id=48053816) - [Mozilla says 271 vulnerabilities found by Mythos and \"almost no false positives\"](https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/)
@@ -25,6 +27,7 @@
 * [2026-05-07, 17:00:21](https://news.ycombinator.com/item?id=48051804) - [Bubbles Are Really Evil](https://pluralistic.net/2026/05/07/dump-the-pumpers/)
 * [2026-05-07, 16:43:35](https://news.ycombinator.com/item?id=48051562) - [Agents need control flow, not more prompts](https://bsuh.bearblog.dev/agents-need-control-flow/)
 * [2026-05-07, 16:05:45](https://news.ycombinator.com/item?id=48051080) - [Authorities say Flock cameras' data allegedly used for immigration enforcement](https://www.ohio.news/stories/dayton-authorities-say-that-flock-cameras-data-allegedly-used-for-immigration-enforcement/)
+* [2026-05-07, 16:05:33](https://news.ycombinator.com/item?id=48051079) - [Hardening Firefox with Claude Mythos Preview](https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/)
 * [2026-05-07, 16:01:24](https://news.ycombinator.com/item?id=48051025) - [I switched from Mac to a Lenovo Chromebook](https://blog.johnozbay.com/i-left-apples-ecosystem-for-a-lenovo-chromebook-and-you-can-too.html)
 * [2026-05-07, 15:56:33](https://news.ycombinator.com/item?id=48050964) - [Chrome removes claim of On-device Al not sending data to Google Servers](https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/)
 * [2026-05-07, 15:40:24](https://news.ycombinator.com/item?id=48050751) - [DeepSeek 4 Flash local inference engine for Metal](https://github.com/antirez/ds4)

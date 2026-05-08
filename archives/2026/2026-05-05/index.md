@@ -16,6 +16,7 @@
 * [2026-05-05, 20:16:35](https://news.ycombinator.com/item?id=48027897) - [DNSSEC disruption affecting .de domains – Resolved](https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38)
 * [2026-05-05, 20:16:35](https://news.ycombinator.com/item?id=48027897) - [.de TLD offline due to DNSSEC?](https://dnssec-analyzer.verisignlabs.com/nic.de)
 * [2026-05-05, 19:38:48](https://news.ycombinator.com/item?id=48027455) - [A Theory of Deep Learning](https://elonlit.com/scrivings/a-theory-of-deep-learning/)
+* [2026-05-05, 19:30:35](https://news.ycombinator.com/item?id=48027346) - [The Traveling Salesdog Problem](https://www.wespiser.com/posts/2026-05-04-traveling-salesdog.html)
 * [2026-05-05, 19:24:59](https://news.ycombinator.com/item?id=48027275) - [Tools in the Grass: Raising the next generation of crafts person](https://www.popularwoodworking.com/editors-blog/tools-in-the-grass/)
 * [2026-05-05, 19:17:29](https://news.ycombinator.com/item?id=48027191) - [The mechanical latching memory of an adhesive tape](https://iopscience.iop.org/article/10.1088/1367-2630/ae4acc)
 * [2026-05-05, 19:05:18](https://news.ycombinator.com/item?id=48027022) - [What five years of data tells us about lasting relationships](https://hanker.dating/study)
