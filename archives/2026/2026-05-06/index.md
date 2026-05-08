@@ -43,6 +43,7 @@
 * [2026-05-06, 14:31:42](https://news.ycombinator.com/item?id=48036746) - [How to make SSE token streams resumable, cancellable, and multi-device](https://zknill.io/posts/everyone-said-sse-token-streaming-was-easy/)
 * [2026-05-06, 14:24:33](https://news.ycombinator.com/item?id=48036650) - [Mythos is the best cybersecurity news in a decade](https://sfstandard.com/opinion/2026/05/06/mythos-cybersecurity-ai/)
 * [2026-05-06, 14:21:07](https://news.ycombinator.com/item?id=48036622) - [Los Alamos and the long path to detecting neutrinos](https://www.lanl.gov/media/publications/1663/from-ghost-particle-to-cosmic-messenger)
+* [2026-05-06, 13:54:20](https://news.ycombinator.com/item?id=48036289) - [Man Finds $1M Worth of Yu-Gi-Oh Cards in a Dumpster](https://www.404media.co/man-finds-1-million-worth-of-yu-gi-oh-cards-in-a-dumpster/)
 * [2026-05-06, 13:44:59](https://news.ycombinator.com/item?id=48036190) - [What I Learned Making an App for My Family](https://mendelgreenberg.com/posts/ourcar/)
 * [2026-05-06, 12:56:29](https://news.ycombinator.com/item?id=48035677) - [Show HN: Adam – An embeddable cross-platform AI agent library](https://github.com/sqliteai/adam)
 * [2026-05-06, 12:50:27](https://news.ycombinator.com/item?id=48035617) - [Shrinkflation Is Quietly Making All Gadgets Worse](https://gizmodo.com/shrinkflation-is-quietly-making-all-gadgets-worse-2000754565)

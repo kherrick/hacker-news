@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-05-08](index.md)
 
+* [2026-05-08, 21:02:32](https://news.ycombinator.com/item?id=48068732) - [Mux (YC W16) Is Hiring](https://www.mux.com/jobs)
+* [2026-05-08, 19:52:06](https://news.ycombinator.com/item?id=48067870) - [Discord Incident](https://discordstatus.com)
 * [2026-05-08, 19:45:28](https://news.ycombinator.com/item?id=48067790) - [Lets Encrypt Stopping Issuance for Potential Incident](https://letsencrypt.status.io/pages/incident/55957a99e800baa4470002da/69fe2d6698ca07050eb4b1b3)
+* [2026-05-08, 19:43:04](https://news.ycombinator.com/item?id=48067764) - [Roadside Attraction](https://theoffingmag.com/essay/roadside-attraction/)
+* [2026-05-08, 19:40:39](https://news.ycombinator.com/item?id=48067734) - [You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)](https://ze3tar.github.io/post-zcrx.html)
 * [2026-05-08, 19:35:36](https://news.ycombinator.com/item?id=48067686) - [My first in-prod corrupted hard drive problem](https://blog.pavementlink.ch/2026/05/07/my-first-corrupted-hard-drive-problem/)
 * [2026-05-08, 18:53:08](https://news.ycombinator.com/item?id=48067197) - [What we lost the last time code got cheap](https://www.poppastring.com/blog/what-we-lost-the-last-time-code-got-cheap)
 * [2026-05-08, 18:45:58](https://news.ycombinator.com/item?id=48067119) - [Google Broke reCAPTCHA for De-Googled Android Users](https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users)
