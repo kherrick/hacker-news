@@ -1,22 +1,32 @@
 [
   [
     [
-      "2026-05-08, 04:00:53",
-      "https://news.ycombinator.com/item?id=48058393"
+      "2026-05-08, 04:44:02",
+      "https://news.ycombinator.com/item?id=48058644"
     ],
     [
-      "Copy Fail 2: Electric Boogaloo",
-      "https://github.com/0xdeadbeefnetwork/Copy_Fail2-Electric_Boogaloo"
+      "Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE",
+      "https://github.com/graemeg/blaise"
     ]
   ],
   [
     [
-      "2026-05-08, 00:10:44",
-      "https://news.ycombinator.com/item?id=48056804"
+      "2026-05-08, 03:52:14",
+      "https://news.ycombinator.com/item?id=48058340"
     ],
     [
-      "Komai: a fine Matrix chat app you can get to love",
-      "https://etke.cc/blog/introducing-komai"
+      "US will start revoking passports for parents who owe child support",
+      "https://apnews.com/article/passports-unpaid-child-support-penalty-state-department-42d90cfa8a06ee349bb9145f668919b6"
+    ]
+  ],
+  [
+    [
+      "2026-05-08, 02:49:01",
+      "https://news.ycombinator.com/item?id=48057901"
+    ],
+    [
+      "Mojo 1.0 Beta",
+      "https://mojolang.org/"
     ]
   ],
   [
@@ -231,22 +241,22 @@
   ],
   [
     [
-      "2026-05-06, 22:36:17",
-      "https://news.ycombinator.com/item?id=48042817"
-    ],
-    [
-      "The Disappearance of the Public Bench",
-      "https://placesjournal.org/article/the-disappearance-of-the-public-bench/"
-    ]
-  ],
-  [
-    [
       "2026-05-06, 19:06:41",
       "https://news.ycombinator.com/item?id=48040269"
     ],
     [
       "Programming Still Sucks",
       "https://www.stvn.sh/writing/programming-still-sucks-fqffhyp"
+    ]
+  ],
+  [
+    [
+      "2026-05-06, 14:31:42",
+      "https://news.ycombinator.com/item?id=48036746"
+    ],
+    [
+      "How to make SSE token streams resumable, cancellable, and multi-device",
+      "https://zknill.io/posts/everyone-said-sse-token-streaming-was-easy/"
     ]
   ],
   [
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2026-05-05, 19:30:35",
-      "https://news.ycombinator.com/item?id=48027346"
+      "2026-05-05, 11:31:12",
+      "https://news.ycombinator.com/item?id=48021023"
     ],
     [
-      "The Traveling Salesdog Problem",
-      "https://www.wespiser.com/posts/2026-05-04-traveling-salesdog.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-05, 19:24:59",
-      "https://news.ycombinator.com/item?id=48027275"
-    ],
-    [
-      "Tools in the Grass: Raising the next generation of crafts person",
-      "https://www.popularwoodworking.com/editors-blog/tools-in-the-grass/"
+      "A polynomial autoencoder beats PCA on transformer embeddings",
+      "https://ivanpleshkov.dev/blog/polynomial-autoencoder/"
     ]
   ]
 ]
