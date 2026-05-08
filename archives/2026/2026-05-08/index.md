@@ -4,9 +4,17 @@
 
 ### [Archives](../../index.md) for [2026-05-08](index.md)
 
+* [2026-05-08, 13:58:32](https://news.ycombinator.com/item?id=48063240) - [Tesla is recalling its cheaper Cybertruck because the wheels might fall off](https://www.theverge.com/transportation/926741/tesla-cybertruck-cheaper-recall)
+* [2026-05-08, 13:56:10](https://news.ycombinator.com/item?id=48063199) - [Google Cloud Fraud Defence is just WEI repackaged](https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/)
+* [2026-05-08, 13:22:33](https://news.ycombinator.com/item?id=48062745) - [Podman rootless containers and the Copy Fail exploit](https://garrido.io/notes/podman-rootless-containers-copy-fail/)
+* [2026-05-08, 13:06:51](https://news.ycombinator.com/item?id=48062530) - [UFO Release 1: Presidential Unsealing and Reporting System for UAP Encounters](https://www.war.gov/UFO/#release)
+* [2026-05-08, 12:30:05](https://news.ycombinator.com/item?id=48062117) - [Poland is now among the 20 largest economies. How it happened](https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa)
+* [2026-05-08, 12:20:01](https://news.ycombinator.com/item?id=48062035) - [Hackers breach JDownloader's website to serve malware-laced downloads](https://www.neowin.net/news/if-you-downloaded-this-popular-software-recently-you-might-have-installed-malware/)
+* [2026-05-08, 11:22:11](https://news.ycombinator.com/item?id=48061566) - [An Introduction to Meshtastic](https://meshtastic.org/docs/introduction/)
 * [2026-05-08, 09:55:37](https://news.ycombinator.com/item?id=48060918) - [GeoJSON](https://geojson.org/)
 * [2026-05-08, 07:57:14](https://news.ycombinator.com/item?id=48060054) - [Ask HN: We just had an actual UUID v4 collision...](https://news.ycombinator.com/item?id=48060054)
 * [2026-05-08, 07:04:24](https://news.ycombinator.com/item?id=48059662) - [ClojureScript Gets Async/Await](https://clojurescript.org/news/2026-05-07-release)
+* [2026-05-08, 07:00:25](https://news.ycombinator.com/item?id=48059633) - [QBE – Compiler Back End](https://c9x.me/compile/)
 * [2026-05-08, 06:56:13](https://news.ycombinator.com/item?id=48059606) - [Nintendo announces price increases for Nintendo Switch 2](https://www.nintendo.co.jp/corporate/release/en/2026/260508.html)
 * [2026-05-08, 05:24:24](https://news.ycombinator.com/item?id=48058917) - [HantaWatch Real time hantavirus outbreak tracker](https://hantawatch.net/)
 * [2026-05-08, 04:44:02](https://news.ycombinator.com/item?id=48058644) - [Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE](https://github.com/graemeg/blaise)
