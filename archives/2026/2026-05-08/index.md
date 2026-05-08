@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-05-08](index.md)
 
+* [2026-05-08, 21:23:07](https://news.ycombinator.com/item?id=48068947) - [Non-determinism is an issue with patching CVEs](https://flox.dev/blog/achieving-rapid-cve-remediation-in-an-era-of-escalating-vulnerabilities/)
+* [2026-05-08, 21:17:58](https://news.ycombinator.com/item?id=48068896) - [Show HN: The independent guide to agent orchestrators](https://agentmgmt.dev/)
 * [2026-05-08, 21:02:32](https://news.ycombinator.com/item?id=48068732) - [Mux (YC W16) Is Hiring](https://www.mux.com/jobs)
+* [2026-05-08, 20:36:51](https://news.ycombinator.com/item?id=48068475) - [Dirty Frag: Universal Linux LPE](https://github.com/V4bel/dirtyfrag)
 * [2026-05-08, 19:52:06](https://news.ycombinator.com/item?id=48067870) - [Discord Incident](https://discordstatus.com)
 * [2026-05-08, 19:45:28](https://news.ycombinator.com/item?id=48067790) - [Lets Encrypt Stopping Issuance for Potential Incident](https://letsencrypt.status.io/pages/incident/55957a99e800baa4470002da/69fe2d6698ca07050eb4b1b3)
 * [2026-05-08, 19:43:04](https://news.ycombinator.com/item?id=48067764) - [Roadside Attraction](https://theoffingmag.com/essay/roadside-attraction/)
@@ -12,6 +15,7 @@
 * [2026-05-08, 19:35:36](https://news.ycombinator.com/item?id=48067686) - [My first in-prod corrupted hard drive problem](https://blog.pavementlink.ch/2026/05/07/my-first-corrupted-hard-drive-problem/)
 * [2026-05-08, 18:53:08](https://news.ycombinator.com/item?id=48067197) - [What we lost the last time code got cheap](https://www.poppastring.com/blog/what-we-lost-the-last-time-code-got-cheap)
 * [2026-05-08, 18:45:58](https://news.ycombinator.com/item?id=48067119) - [Google Broke reCAPTCHA for De-Googled Android Users](https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users)
+* [2026-05-08, 17:59:41](https://news.ycombinator.com/item?id=48066592) - [Teaching Claude Why](https://www.anthropic.com/research/teaching-claude-why)
 * [2026-05-08, 17:55:08](https://news.ycombinator.com/item?id=48066524) - [AI Is Breaking Two Vulnerability Cultures](https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures)
 * [2026-05-08, 17:25:21](https://news.ycombinator.com/item?id=48066169) - [Apple, Intel have reached preliminary chip-making deal](https://www.reuters.com/business/apple-intel-have-reached-preliminary-chip-making-deal-wsj-reports-2026-05-08/)
 * [2026-05-08, 17:06:59](https://news.ycombinator.com/item?id=48065916) - [Bjarne Stroustrup: How do I deal with memory leaks? (2022)](https://www.stroustrup.com/bs_faq2.html#memory-leaks)
@@ -40,6 +44,7 @@
 * [2026-05-08, 04:00:53](https://news.ycombinator.com/item?id=48058393) - [Copy Fail 2: Electric Boogaloo](https://github.com/0xdeadbeefnetwork/Copy_Fail2-Electric_Boogaloo)
 * [2026-05-08, 03:52:14](https://news.ycombinator.com/item?id=48058340) - [US will start revoking passports for parents who owe child support](https://apnews.com/article/passports-unpaid-child-support-penalty-state-department-42d90cfa8a06ee349bb9145f668919b6)
 * [2026-05-08, 03:51:59](https://news.ycombinator.com/item?id=48058337) - [Digging into Drama at the Document Foundation](https://lwn.net/Articles/1066418/)
+* [2026-05-08, 03:31:58](https://news.ycombinator.com/item?id=48058197) - [AWS says data center overheating in North Virginia disrupts services](https://www.reuters.com/business/retail-consumer/amazon-cloud-unit-says-data-center-overheating-north-virginia-disrupts-services-2026-05-08/)
 * [2026-05-08, 02:49:01](https://news.ycombinator.com/item?id=48057901) - [Mojo 1.0 Beta](https://mojolang.org/)
 * [2026-05-08, 01:02:28](https://news.ycombinator.com/item?id=48057209) - [GPT-5.5 Price Increase: What It Costs](https://openrouter.ai/announcements/gpt55-cost-analysis)
 * [2026-05-08, 00:10:44](https://news.ycombinator.com/item?id=48056804) - [Komai: a fine Matrix chat app you can get to love](https://etke.cc/blog/introducing-komai)

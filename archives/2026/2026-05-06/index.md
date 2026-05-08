@@ -35,6 +35,7 @@
 * [2026-05-06, 16:18:29](https://news.ycombinator.com/item?id=48038001) - [Appearing Productive in the Workplace](https://nooneshappy.com/article/appearing-productive-in-the-workplace/)
 * [2026-05-06, 16:17:33](https://news.ycombinator.com/item?id=48037986) - [Higher usage limits for Claude and a compute deal with SpaceX](https://www.anthropic.com/news/higher-limits-spacex)
 * [2026-05-06, 15:58:34](https://news.ycombinator.com/item?id=48037724) - [Show HN: Tilde.run – Agent Sandbox with a Transactional, Versioned Filesystem](https://tilde.run/)
+* [2026-05-06, 15:52:25](https://news.ycombinator.com/item?id=48037655) - [All means are fair except solving the problem](https://yosefk.com/blog/all-means-are-fair-except-solving-the-problem.html)
 * [2026-05-06, 15:44:13](https://news.ycombinator.com/item?id=48037555) - [Valve releases Steam Controller CAD files under Creative Commons license](https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license)
 * [2026-05-06, 15:24:51](https://news.ycombinator.com/item?id=48037336) - [Rumors of my death are slightly exaggerated](https://news.ycombinator.com/item?id=48037336)
 * [2026-05-06, 15:06:37](https://news.ycombinator.com/item?id=48037128) - [Vibe coding and agentic engineering are getting closer than I'd like](https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/)
