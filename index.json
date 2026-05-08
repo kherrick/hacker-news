@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-05-08, 07:57:14",
-      "https://news.ycombinator.com/item?id=48060054"
-    ],
-    [
-      "Ask HN: We just had an actual UUID v4 collision...",
-      "https://news.ycombinator.com/item?id=48060054"
-    ]
-  ],
-  [
-    [
       "2026-05-08, 07:04:24",
       "https://news.ycombinator.com/item?id=48059662"
     ],
@@ -47,6 +37,16 @@
     [
       "Digging into Drama at the Document Foundation",
       "https://lwn.net/Articles/1066418/"
+    ]
+  ],
+  [
+    [
+      "2026-05-08, 01:02:28",
+      "https://news.ycombinator.com/item?id=48057209"
+    ],
+    [
+      "GPT-5.5 Price Increase: What It Costs",
+      "https://openrouter.ai/announcements/gpt55-cost-analysis"
     ]
   ],
   [
@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2026-05-07, 15:19:27",
+      "https://news.ycombinator.com/item?id=48050499"
+    ],
+    [
+      "I want to live like Costco people",
+      "https://tastecooking.com/i-want-to-live-like-costco-people/"
+    ]
+  ],
+  [
+    [
       "2026-05-07, 15:02:20",
       "https://news.ycombinator.com/item?id=48050278"
     ],
@@ -231,12 +241,12 @@
   ],
   [
     [
-      "2026-05-06, 15:24:51",
-      "https://news.ycombinator.com/item?id=48037336"
+      "2026-05-06, 14:48:03",
+      "https://news.ycombinator.com/item?id=48036923"
     ],
     [
-      "Rumors of my death are slightly exaggerated",
-      "https://news.ycombinator.com/item?id=48037336"
+      "Floats Don't Agree with Themselves",
+      "https://docs.merca.earth/blog/floats-dont-agree-with-themselves"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "How to make SSE token streams resumable, cancellable, and multi-device",
       "https://zknill.io/posts/everyone-said-sse-token-streaming-was-easy/"
-    ]
-  ],
-  [
-    [
-      "2026-05-06, 14:21:07",
-      "https://news.ycombinator.com/item?id=48036622"
-    ],
-    [
-      "Los Alamos and the long path to detecting neutrinos",
-      "https://www.lanl.gov/media/publications/1663/from-ghost-particle-to-cosmic-messenger"
     ]
   ],
   [
