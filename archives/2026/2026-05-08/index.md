@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-05-08](index.md)
 
+* [2026-05-08, 22:06:19](https://news.ycombinator.com/item?id=48069354) - [Judge rules DOGE cancellation of humanities grants was unconstitutional](https://apnews.com/article/trump-doge-humanities-funding-cuts-dda1383436c41be08da3bbf7cc08818e)
+* [2026-05-08, 22:00:22](https://news.ycombinator.com/item?id=48069313) - [Compound drivers of Antarctic sea ice loss and Southern Ocean destratification](https://www.science.org/doi/10.1126/sciadv.aeb0166)
+* [2026-05-08, 21:47:47](https://news.ycombinator.com/item?id=48069192) - [Meta Shuts Down End-to-End Encryption for Instagram Messaging](https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging)
+* [2026-05-08, 21:37:45](https://news.ycombinator.com/item?id=48069088) - [AWS data center outage hits trading on Fanduel, Coinbase](https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html)
 * [2026-05-08, 21:23:07](https://news.ycombinator.com/item?id=48068947) - [Non-determinism is an issue with patching CVEs](https://flox.dev/blog/achieving-rapid-cve-remediation-in-an-era-of-escalating-vulnerabilities/)
 * [2026-05-08, 21:17:58](https://news.ycombinator.com/item?id=48068896) - [Show HN: The independent guide to agent orchestrators](https://agentmgmt.dev/)
 * [2026-05-08, 21:02:32](https://news.ycombinator.com/item?id=48068732) - [Mux (YC W16) Is Hiring](https://www.mux.com/jobs)

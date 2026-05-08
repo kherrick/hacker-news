@@ -34,6 +34,7 @@
 * [2026-05-06, 16:20:00](https://news.ycombinator.com/item?id=48038019) - [Show HN: I built an open-source email builder, alternative to Beefree/Unlayer](https://play.templatical.com)
 * [2026-05-06, 16:18:29](https://news.ycombinator.com/item?id=48038001) - [Appearing Productive in the Workplace](https://nooneshappy.com/article/appearing-productive-in-the-workplace/)
 * [2026-05-06, 16:17:33](https://news.ycombinator.com/item?id=48037986) - [Higher usage limits for Claude and a compute deal with SpaceX](https://www.anthropic.com/news/higher-limits-spacex)
+* [2026-05-06, 16:01:50](https://news.ycombinator.com/item?id=48037760) - [Wi is Fi: Understanding Wi-Fi 4/5/6/6E/7/8 (802.11 n/AC/ax/be/bn)](https://www.wiisfi.com/)
 * [2026-05-06, 15:58:34](https://news.ycombinator.com/item?id=48037724) - [Show HN: Tilde.run – Agent Sandbox with a Transactional, Versioned Filesystem](https://tilde.run/)
 * [2026-05-06, 15:52:25](https://news.ycombinator.com/item?id=48037655) - [All means are fair except solving the problem](https://yosefk.com/blog/all-means-are-fair-except-solving-the-problem.html)
 * [2026-05-06, 15:44:13](https://news.ycombinator.com/item?id=48037555) - [Valve releases Steam Controller CAD files under Creative Commons license](https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license)
