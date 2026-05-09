@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-09](index.md)
 
+* [2026-05-09, 17:06:46](https://news.ycombinator.com/item?id=48076465) - [CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers](https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/)
 * [2026-05-09, 16:02:38](https://news.ycombinator.com/item?id=48076009) - [Introduction to Beaver Triples](https://stoffelmpc.com/stoffel-blog/beaver-triples-tuples)
 * [2026-05-09, 15:15:39](https://news.ycombinator.com/item?id=48075645) - [The context window has been shattered: Subquadratic debuts a 12M token window](https://thenewstack.io/subquadratic-12-million-context-window/)
 * [2026-05-09, 15:01:16](https://news.ycombinator.com/item?id=48075528) - [PipeDream on the Acorn Archimedes](https://stonetools.ghost.io/pipedream-archimedes/)
