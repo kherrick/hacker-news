@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-05-09, 20:31:21](https://news.ycombinator.com/item?id=48077971) - [FreeBSD: Local Privilege Escalation via Execve()](https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc)
-* [2026-05-09, 20:31:07](https://news.ycombinator.com/item?id=48077966) - [I Caught the Car](https://undecidability.net/senior/)
-* [2026-05-09, 18:59:49](https://news.ycombinator.com/item?id=48077314) - [\"Dirty Frag\" (CVE-2026-43284): The Second Linux Root Exploit in Eight Days](https://www.copahost.com/blog/dirty-frag-cve-2026-43284/)
+* [2026-05-09, 20:31:07](https://news.ycombinator.com/item?id=48077966) - [I caught the car](https://undecidability.net/senior/)
 * [2026-05-09, 18:33:36](https://news.ycombinator.com/item?id=48077126) - [Meta's Embrace of A.I. Is Making Its Employees Miserable](https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html)
 * [2026-05-09, 17:30:39](https://news.ycombinator.com/item?id=48076651) - [Zed Editor Theme-Builder](https://zed.dev/theme-builder)
 * [2026-05-09, 17:06:46](https://news.ycombinator.com/item?id=48076465) - [CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers](https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/)
@@ -15,6 +14,7 @@
 * [2026-05-09, 13:48:32](https://news.ycombinator.com/item?id=48074952) - [The hypocrisy of cyberlibertarianism](https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/)
 * [2026-05-09, 12:00:30](https://news.ycombinator.com/item?id=48074265) - [Internet Archive Switzerland](https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/)
 * [2026-05-09, 10:12:55](https://news.ycombinator.com/item?id=48073680) - [Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc](https://twitter.com/jarredsumner/status/2053047748191232310)
+* [2026-05-09, 09:14:05](https://news.ycombinator.com/item?id=48073394) - [Killswitch: Per-function short-circuit mitigation primitive](https://lwn.net/ml/all/20260507070547.2268452-1-sashal@kernel.org/)
 * [2026-05-09, 08:44:34](https://news.ycombinator.com/item?id=48073246) - [LLMs corrupt your documents when you delegate](https://arxiv.org/abs/2604.15597)
 * [2026-05-09, 04:53:52](https://news.ycombinator.com/item?id=48071940) - [Using Claude Code: The unreasonable effectiveness of HTML](https://twitter.com/trq212/status/2052809885763747935)
 * [2026-05-09, 02:41:42](https://news.ycombinator.com/item?id=48071262) - [A recent experience with ChatGPT 5.5 Pro](https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/)
@@ -26,10 +26,10 @@
 * [2026-05-07, 12:39:45](https://news.ycombinator.com/item?id=48048679) - [How LEDs are made (2014)](https://learn.sparkfun.com/tutorials/how-leds-are-made/all)
 * [2026-05-07, 07:20:55](https://news.ycombinator.com/item?id=48046436) - [Mythical Man Month](https://martinfowler.com/bliki/MythicalManMonth.html)
 * [2026-05-07, 04:25:43](https://news.ycombinator.com/item?id=48045384) - [Building the TD4 4-Bit CPU](https://jayakody2000lk.blogspot.com/2026/05/building-td4-4-bit-cpu.html)
-* [2026-05-06, 21:58:05](https://news.ycombinator.com/item?id=48042427) - [Show HN: I wrote a flight simulator in my own programming language](https://github.com/navid-m/flightsim)
-* [2026-05-06, 19:16:49](https://news.ycombinator.com/item?id=48040412) - [Reviving the IBM Selectric Composer Fonts (2023)](https://www.kutilek.de/selectric/)
+* [2026-05-06, 16:01:50](https://news.ycombinator.com/item?id=48037760) - [Wi is Fi: Understanding Wi-Fi 4/5/6/6E/7/8 (802.11 n/AC/ax/be/bn)](https://www.wiisfi.com/)
 * [2026-05-06, 15:41:06](https://news.ycombinator.com/item?id=48037517) - [What causes lightning? The answer keeps getting more interesting](https://www.quantamagazine.org/what-causes-lightning-the-answer-keeps-getting-more-interesting-20260506/)
 * [2026-05-06, 15:17:44](https://news.ycombinator.com/item?id=48037243) - [America's carpet capital: an empire and its toxic legacy](https://apnews.com/projects/pfas-forever-stained/)
+* [2026-05-06, 14:00:10](https://news.ycombinator.com/item?id=48036356) - [Random tie knots (2014)](https://tieknots.how/)
 
 ## [Archives](archives/index.md)
 
