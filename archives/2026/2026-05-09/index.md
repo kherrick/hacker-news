@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-09](index.md)
 
+* [2026-05-09, 14:18:13](https://news.ycombinator.com/item?id=48075185) - [The FCC Wants Your ID Before You Get a Phone Number](https://reclaimthenet.org/the-fcc-wants-your-id-before-you-get-a-phone-number)
 * [2026-05-09, 13:31:53](https://news.ycombinator.com/item?id=48074829) - [Read Programming as Theory Building](https://codeutopia.net/blog/2026/05/09/you-should-read-programming-as-theory-building/)
 * [2026-05-09, 12:00:30](https://news.ycombinator.com/item?id=48074265) - [Internet Archive Switzerland](https://internetarchive.ch/)
 * [2026-05-09, 11:33:07](https://news.ycombinator.com/item?id=48074087) - [Forking the Web](https://dillo-browser.org/lab/web-fork/)
