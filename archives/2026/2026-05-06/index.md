@@ -10,6 +10,7 @@
 * [2026-05-06, 22:38:51](https://news.ycombinator.com/item?id=48042842) - [David Sacks crashed and burned in the White House](https://www.theverge.com/column/925487/david-sacks-trump-administration-ai-model-review)
 * [2026-05-06, 22:36:17](https://news.ycombinator.com/item?id=48042817) - [The Disappearance of the Public Bench](https://placesjournal.org/article/the-disappearance-of-the-public-bench/)
 * [2026-05-06, 21:58:43](https://news.ycombinator.com/item?id=48042434) - [SQLite Is a Library of Congress Recommended Storage Format](https://sqlite.org/locrsf.html)
+* [2026-05-06, 21:36:42](https://news.ycombinator.com/item?id=48042204) - [Making Julia as Fast as C++ (2019)](https://flow.byu.edu/posts/julia-c++)
 * [2026-05-06, 21:26:53](https://news.ycombinator.com/item?id=48042099) - [Apple is enforcing an old App Store rule against a new kind of software](https://adaptivesoftware.substack.com/p/the-wrapper-and-the-code)
 * [2026-05-06, 21:14:30](https://news.ycombinator.com/item?id=48041953) - [Mickey Mouse is watching you: Disneyland deploys facial recognition](https://www.theguardian.com/us-news/2026/apr/28/disneyland-entrance-facial-recognition)
 * [2026-05-06, 20:28:17](https://news.ycombinator.com/item?id=48041316) - [Show HN: PHP-fts – Full-text search engine in pure PHP, no extensions](https://github.com/olivier-ls/php-fts)
