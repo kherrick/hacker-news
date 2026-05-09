@@ -20,6 +20,7 @@
 * [2026-05-06, 19:25:24](https://news.ycombinator.com/item?id=48040522) - [How to Optimize MongoDB Query Performance with Indexes](https://visualeaf.com/blog/mongodb-query-optimization-indexes/)
 * [2026-05-06, 19:21:34](https://news.ycombinator.com/item?id=48040470) - [Light without electricity? Glowing algae could make it possible](https://www.colorado.edu/today/2026/05/06/light-without-electricity-glowing-algae-could-make-it-possible)
 * [2026-05-06, 19:21:18](https://news.ycombinator.com/item?id=48040465) - [OpenBSD Stories: The closest thing to cute kittens (OpenBSD/zaurus)](http://miod.online.fr/software/openbsd/stories/zaurus1.html)
+* [2026-05-06, 19:16:49](https://news.ycombinator.com/item?id=48040412) - [Reviving the IBM Selectric Composer Fonts (2023)](https://www.kutilek.de/selectric/)
 * [2026-05-06, 19:09:29](https://news.ycombinator.com/item?id=48040306) - [Bitter Lessons from the ISSpresso](https://mceglowski.substack.com/p/bitter-lessons-from-the-isspresso)
 * [2026-05-06, 19:06:41](https://news.ycombinator.com/item?id=48040269) - [Programming Still Sucks](https://www.stvn.sh/writing/programming-still-sucks-fqffhyp)
 * [2026-05-06, 18:46:27](https://news.ycombinator.com/item?id=48040002) - [Learning the Integral of a Diffusion Model](https://sander.ai/2026/05/06/flow-maps.html)
