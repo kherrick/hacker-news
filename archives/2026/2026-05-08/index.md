@@ -17,6 +17,7 @@
 * [2026-05-08, 20:18:39](https://news.ycombinator.com/item?id=48068254) - [When is your birthday? The math behind hash collisions](https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html)
 * [2026-05-08, 19:52:06](https://news.ycombinator.com/item?id=48067870) - [Discord Incident](https://discordstatus.com)
 * [2026-05-08, 19:45:28](https://news.ycombinator.com/item?id=48067790) - [Lets Encrypt Stopping Issuance for Potential Incident](https://letsencrypt.status.io/pages/incident/55957a99e800baa4470002da/69fe2d6698ca07050eb4b1b3)
+* [2026-05-08, 19:45:21](https://news.ycombinator.com/item?id=48067786) - [Production engineering when trading billions of dollars a day [video]](https://www.youtube.com/watch?v=zR9PpXWsKFQ)
 * [2026-05-08, 19:43:04](https://news.ycombinator.com/item?id=48067764) - [Roadside Attraction](https://theoffingmag.com/essay/roadside-attraction/)
 * [2026-05-08, 19:40:39](https://news.ycombinator.com/item?id=48067734) - [You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)](https://ze3tar.github.io/post-zcrx.html)
 * [2026-05-08, 19:35:36](https://news.ycombinator.com/item?id=48067686) - [My first in-prod corrupted hard drive problem](https://blog.pavementlink.ch/2026/05/07/my-first-corrupted-hard-drive-problem/)
