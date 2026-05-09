@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-05-09](index.md)
 
+* [2026-05-09, 20:31:21](https://news.ycombinator.com/item?id=48077971) - [FreeBSD: Local Privilege Escalation via Execve()](https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc)
+* [2026-05-09, 20:31:07](https://news.ycombinator.com/item?id=48077966) - [I Caught the Car](https://undecidability.net/senior/)
+* [2026-05-09, 18:59:49](https://news.ycombinator.com/item?id=48077314) - [\"Dirty Frag\" (CVE-2026-43284): The Second Linux Root Exploit in Eight Days](https://www.copahost.com/blog/dirty-frag-cve-2026-43284/)
 * [2026-05-09, 18:47:58](https://news.ycombinator.com/item?id=48077231) - [Bun ported to Rust in 6 days](https://xunroll.com/thread/2053047748191232310)
 * [2026-05-09, 18:33:36](https://news.ycombinator.com/item?id=48077126) - [Meta's Embrace of A.I. Is Making Its Employees Miserable](https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html)
 * [2026-05-09, 17:30:39](https://news.ycombinator.com/item?id=48076651) - [Zed Editor Theme-Builder](https://zed.dev/theme-builder)
