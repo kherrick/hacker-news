@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-05-08, 22:06:19",
-      "https://news.ycombinator.com/item?id=48069354"
+      "2026-05-08, 23:37:55",
+      "https://news.ycombinator.com/item?id=48070115"
     ],
     [
-      "Judge rules DOGE cancellation of humanities grants was unconstitutional",
-      "https://apnews.com/article/trump-doge-humanities-funding-cuts-dda1383436c41be08da3bbf7cc08818e"
+      "Tesla Model Y Passes NHTSA's New 'Advanced Driver Assistance System' Tests",
+      "https://www.nhtsa.gov/press-releases/tesla-model-y-first-vehicle-pass-nhtsa-new-advanced-driver-assistance-system-tests"
+    ]
+  ],
+  [
+    [
+      "2026-05-08, 23:26:49",
+      "https://news.ycombinator.com/item?id=48070022"
+    ],
+    [
+      "Show HN: CADara – I made an open-source in-browser CAD",
+      "https://cadara.app"
     ]
   ],
   [
@@ -31,16 +41,6 @@
   ],
   [
     [
-      "2026-05-08, 21:37:45",
-      "https://news.ycombinator.com/item?id=48069088"
-    ],
-    [
-      "AWS data center outage hits trading on Fanduel, Coinbase",
-      "https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html"
-    ]
-  ],
-  [
-    [
       "2026-05-08, 21:23:07",
       "https://news.ycombinator.com/item?id=48068947"
     ],
@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2026-05-08, 20:36:51",
-      "https://news.ycombinator.com/item?id=48068475"
-    ],
-    [
-      "Dirty Frag: Universal Linux LPE",
-      "https://github.com/V4bel/dirtyfrag"
-    ]
-  ],
-  [
-    [
       "2026-05-08, 19:43:04",
       "https://news.ycombinator.com/item?id=48067764"
     ],
@@ -87,16 +77,6 @@
     [
       "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
       "https://ze3tar.github.io/post-zcrx.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-08, 19:35:36",
-      "https://news.ycombinator.com/item?id=48067686"
-    ],
-    [
-      "My first in-prod corrupted hard drive problem",
-      "https://blog.pavementlink.ch/2026/05/07/my-first-corrupted-hard-drive-problem/"
     ]
   ],
   [
@@ -127,6 +107,16 @@
     [
       "AI is breaking two vulnerability cultures",
       "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures"
+    ]
+  ],
+  [
+    [
+      "2026-05-08, 17:06:59",
+      "https://news.ycombinator.com/item?id=48065916"
+    ],
+    [
+      "How do I deal with memory leaks? (2022)",
+      "https://www.stroustrup.com/bs_faq2.html#memory-leaks"
     ]
   ],
   [
@@ -167,6 +157,16 @@
     [
       "PC Engine CPU",
       "https://jsgroth.dev/blog/posts/pc-engine-cpu/"
+    ]
+  ],
+  [
+    [
+      "2026-05-08, 13:22:33",
+      "https://news.ycombinator.com/item?id=48062745"
+    ],
+    [
+      "Podman rootless containers and the Copy Fail exploit",
+      "https://garrido.io/notes/podman-rootless-containers-copy-fail/"
     ]
   ],
   [
@@ -225,8 +225,8 @@
       "https://news.ycombinator.com/item?id=48058197"
     ],
     [
-      "AWS says data center overheating in North Virginia disrupts services",
-      "https://www.reuters.com/business/retail-consumer/amazon-cloud-unit-says-data-center-overheating-north-virginia-disrupts-services-2026-05-08/"
+      "AWS North Virginia data center outage – recovery to take hours",
+      "https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html"
     ]
   ],
   [
@@ -241,22 +241,22 @@
   ],
   [
     [
-      "2026-05-07, 23:02:11",
-      "https://news.ycombinator.com/item?id=48056227"
-    ],
-    [
-      "Maybe you shouldn't install new software for a bit",
-      "https://xeiaso.net/blog/2026/abstain-from-install/"
-    ]
-  ],
-  [
-    [
       "2026-05-07, 13:12:39",
       "https://news.ycombinator.com/item?id=48049014"
     ],
     [
       "Looking at the data behind prediction markets",
       "https://asteriskmag.com/issues/14/are-prediction-markets-good-for-anything"
+    ]
+  ],
+  [
+    [
+      "2026-05-07, 07:16:44",
+      "https://news.ycombinator.com/item?id=48046405"
+    ],
+    [
+      "Hosting a Site on a Raspberry Pi",
+      "https://m4rt.nl/blog/hosting-on-a-pi"
     ]
   ],
   [
