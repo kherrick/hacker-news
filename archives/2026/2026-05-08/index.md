@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-08](index.md)
 
+* [2026-05-08, 23:37:55](https://news.ycombinator.com/item?id=48070115) - [Tesla Model Y Passes NHTSA's New 'Advanced Driver Assistance System' Tests](https://www.nhtsa.gov/press-releases/tesla-model-y-first-vehicle-pass-nhtsa-new-advanced-driver-assistance-system-tests)
+* [2026-05-08, 23:26:49](https://news.ycombinator.com/item?id=48070022) - [Show HN: CADara – I made an open-source in-browser CAD](https://cadara.app)
 * [2026-05-08, 22:06:19](https://news.ycombinator.com/item?id=48069354) - [Judge rules DOGE cancellation of humanities grants was unconstitutional](https://apnews.com/article/trump-doge-humanities-funding-cuts-dda1383436c41be08da3bbf7cc08818e)
 * [2026-05-08, 22:00:22](https://news.ycombinator.com/item?id=48069313) - [Compound drivers of Antarctic sea ice loss and Southern Ocean destratification](https://www.science.org/doi/10.1126/sciadv.aeb0166)
 * [2026-05-08, 21:47:47](https://news.ycombinator.com/item?id=48069192) - [Meta Shuts Down End-to-End Encryption for Instagram Messaging](https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging)
@@ -49,6 +51,7 @@
 * [2026-05-08, 03:52:14](https://news.ycombinator.com/item?id=48058340) - [US will start revoking passports for parents who owe child support](https://apnews.com/article/passports-unpaid-child-support-penalty-state-department-42d90cfa8a06ee349bb9145f668919b6)
 * [2026-05-08, 03:51:59](https://news.ycombinator.com/item?id=48058337) - [Digging into Drama at the Document Foundation](https://lwn.net/Articles/1066418/)
 * [2026-05-08, 03:31:58](https://news.ycombinator.com/item?id=48058197) - [AWS says data center overheating in North Virginia disrupts services](https://www.reuters.com/business/retail-consumer/amazon-cloud-unit-says-data-center-overheating-north-virginia-disrupts-services-2026-05-08/)
+* [2026-05-08, 03:31:58](https://news.ycombinator.com/item?id=48058197) - [AWS North Virginia data center outage – recovery to take hours](https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html)
 * [2026-05-08, 02:49:01](https://news.ycombinator.com/item?id=48057901) - [Mojo 1.0 Beta](https://mojolang.org/)
 * [2026-05-08, 01:02:28](https://news.ycombinator.com/item?id=48057209) - [GPT-5.5 Price Increase: What It Costs](https://openrouter.ai/announcements/gpt55-cost-analysis)
 * [2026-05-08, 00:10:44](https://news.ycombinator.com/item?id=48056804) - [Komai: a fine Matrix chat app you can get to love](https://etke.cc/blog/introducing-komai)
