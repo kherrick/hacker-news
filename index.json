@@ -1,22 +1,42 @@
 [
   [
     [
+      "2026-05-09, 04:53:52",
+      "https://news.ycombinator.com/item?id=48071940"
+    ],
+    [
+      "Using Claude Code: The unreasonable effectiveness of HTML",
+      "https://twitter.com/trq212/status/2052809885763747935"
+    ]
+  ],
+  [
+    [
+      "2026-05-09, 03:21:06",
+      "https://news.ycombinator.com/item?id=48071496"
+    ],
+    [
+      "Over 97% of the 'Linux' Foundation's Budget Goes Not to Linux",
+      "https://techrights.org/n/2026/05/08/Over_97_of_the_Linux_Foundation_s_Budget_Goes_Not_to_Linux.shtml"
+    ]
+  ],
+  [
+    [
+      "2026-05-09, 02:41:42",
+      "https://news.ycombinator.com/item?id=48071262"
+    ],
+    [
+      "A recent experience with ChatGPT 5.5 Pro",
+      "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/"
+    ]
+  ],
+  [
+    [
       "2026-05-08, 21:47:47",
       "https://news.ycombinator.com/item?id=48069192"
     ],
     [
       "Meta Shuts Down End-to-End Encryption for Instagram Messaging",
       "https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging"
-    ]
-  ],
-  [
-    [
-      "2026-05-08, 21:23:07",
-      "https://news.ycombinator.com/item?id=48068947"
-    ],
-    [
-      "Non-determinism is an issue with patching CVEs",
-      "https://flox.dev/blog/achieving-rapid-cve-remediation-in-an-era-of-escalating-vulnerabilities/"
     ]
   ],
   [
@@ -51,16 +71,6 @@
   ],
   [
     [
-      "2026-05-08, 19:35:36",
-      "https://news.ycombinator.com/item?id=48067686"
-    ],
-    [
-      "My first in-prod corrupted hard drive problem",
-      "https://blog.pavementlink.ch/2026/05/07/my-first-corrupted-hard-drive-problem/"
-    ]
-  ],
-  [
-    [
       "2026-05-08, 18:45:58",
       "https://news.ycombinator.com/item?id=48067119"
     ],
@@ -87,16 +97,6 @@
     [
       "AI is breaking two vulnerability cultures",
       "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures"
-    ]
-  ],
-  [
-    [
-      "2026-05-08, 17:06:59",
-      "https://news.ycombinator.com/item?id=48065916"
-    ],
-    [
-      "How do I deal with memory leaks? (2022)",
-      "https://www.stroustrup.com/bs_faq2.html#memory-leaks"
     ]
   ],
   [
@@ -141,26 +141,6 @@
   ],
   [
     [
-      "2026-05-08, 14:14:31",
-      "https://news.ycombinator.com/item?id=48063521"
-    ],
-    [
-      "PC Engine CPU",
-      "https://jsgroth.dev/blog/posts/pc-engine-cpu/"
-    ]
-  ],
-  [
-    [
-      "2026-05-08, 13:12:41",
-      "https://news.ycombinator.com/item?id=48062606"
-    ],
-    [
-      "Human typing habits and token counts",
-      "https://pankajpipada.com/posts/2026-05-08-human-habits-tokens/"
-    ]
-  ],
-  [
-    [
       "2026-05-08, 12:30:05",
       "https://news.ycombinator.com/item?id=48062117"
     ],
@@ -197,16 +177,6 @@
     [
       "An Introduction to Meshtastic",
       "https://meshtastic.org/docs/introduction/"
-    ]
-  ],
-  [
-    [
-      "2026-05-08, 07:57:14",
-      "https://news.ycombinator.com/item?id=48060054"
-    ],
-    [
-      "Ask HN: We just had an actual UUID v4 collision...",
-      "https://news.ycombinator.com/item?id=48060054"
     ]
   ],
   [
@@ -291,12 +261,42 @@
   ],
   [
     [
+      "2026-05-06, 16:42:10",
+      "https://news.ycombinator.com/item?id=48038322"
+    ],
+    [
+      "PortalVR Motion – use any VR content in 2D with 3D tracked Joy-Cons",
+      "https://portalvr.io/motion"
+    ]
+  ],
+  [
+    [
       "2026-05-06, 16:01:50",
       "https://news.ycombinator.com/item?id=48037760"
     ],
     [
       "Wi is Fi: Understanding Wi-Fi 4/5/6/6E/7/8 (802.11 n/AC/ax/be/bn)",
       "https://www.wiisfi.com/"
+    ]
+  ],
+  [
+    [
+      "2026-05-06, 15:52:25",
+      "https://news.ycombinator.com/item?id=48037655"
+    ],
+    [
+      "All means are fair except solving the problem",
+      "https://yosefk.com/blog/all-means-are-fair-except-solving-the-problem.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-06, 04:01:42",
+      "https://news.ycombinator.com/item?id=48032014"
+    ],
+    [
+      "The Soul of Maintaining a New Machine",
+      "https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/3"
     ]
   ]
 ]
