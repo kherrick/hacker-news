@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-05-09, 13:31:53",
+      "https://news.ycombinator.com/item?id=48074829"
+    ],
+    [
+      "Read Programming as Theory Building",
+      "https://codeutopia.net/blog/2026/05/09/you-should-read-programming-as-theory-building/"
+    ]
+  ],
+  [
+    [
       "2026-05-09, 12:00:30",
       "https://news.ycombinator.com/item?id=48074265"
     ],
@@ -31,6 +41,16 @@
   ],
   [
     [
+      "2026-05-09, 08:44:34",
+      "https://news.ycombinator.com/item?id=48073246"
+    ],
+    [
+      "LLMs Corrupt Your Documents When You Delegate",
+      "https://arxiv.org/abs/2604.15597"
+    ]
+  ],
+  [
+    [
       "2026-05-09, 04:53:52",
       "https://news.ycombinator.com/item?id=48071940"
     ],
@@ -47,16 +67,6 @@
     [
       "A recent experience with ChatGPT 5.5 Pro",
       "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/"
-    ]
-  ],
-  [
-    [
-      "2026-05-08, 20:18:39",
-      "https://news.ycombinator.com/item?id=48068254"
-    ],
-    [
-      "When is your birthday? The math behind hash collisions",
-      "https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html"
     ]
   ],
   [
@@ -201,6 +211,26 @@
   ],
   [
     [
+      "2026-05-07, 12:39:45",
+      "https://news.ycombinator.com/item?id=48048679"
+    ],
+    [
+      "How LEDs are made (2014)",
+      "https://learn.sparkfun.com/tutorials/how-leds-are-made/all"
+    ]
+  ],
+  [
+    [
+      "2026-05-07, 09:25:58",
+      "https://news.ycombinator.com/item?id=48047280"
+    ],
+    [
+      "Removing fsync from our local storage engine",
+      "https://fractalbits.com/blog/remove-fsync/"
+    ]
+  ],
+  [
+    [
       "2026-05-07, 07:20:55",
       "https://news.ycombinator.com/item?id=48046436"
     ],
@@ -241,32 +271,12 @@
   ],
   [
     [
-      "2026-05-06, 16:42:10",
-      "https://news.ycombinator.com/item?id=48038322"
-    ],
-    [
-      "PortalVR Motion – use any VR content in 2D with 3D tracked Joy-Cons",
-      "https://portalvr.io/motion"
-    ]
-  ],
-  [
-    [
       "2026-05-06, 16:01:50",
       "https://news.ycombinator.com/item?id=48037760"
     ],
     [
       "Wi is Fi: Understanding Wi-Fi 4/5/6/6E/7/8 (802.11 n/AC/ax/be/bn)",
       "https://www.wiisfi.com/"
-    ]
-  ],
-  [
-    [
-      "2026-05-06, 15:52:25",
-      "https://news.ycombinator.com/item?id=48037655"
-    ],
-    [
-      "All means are fair except solving the problem",
-      "https://yosefk.com/blog/all-means-are-fair-except-solving-the-problem.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "America's carpet capital: an empire and its toxic legacy",
       "https://apnews.com/projects/pfas-forever-stained/"
-    ]
-  ],
-  [
-    [
-      "2026-05-06, 04:01:42",
-      "https://news.ycombinator.com/item?id=48032014"
-    ],
-    [
-      "The soul of maintaining a new machine",
-      "https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/3"
     ]
   ]
 ]
