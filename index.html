@@ -129,6 +129,27 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="48076009">
+          <h3>
+            <a
+              class="item"
+              href="https://stoffelmpc.com/stoffel-blog/beaver-triples-tuples"
+              >Introduction to Beaver Triples</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-05-09 @ 16:02:38</span
+              ><span class="points-container"
+                >Points: <span class="points">7</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48076009"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="48075645">
           <h3>
             <a
@@ -142,11 +163,11 @@
             <h4>
               <span>2026-05-09 @ 15:15:39</span
               ><span class="points-container"
-                >Points: <span class="points">20</span></span
+                >Points: <span class="points">29</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48075645"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -163,32 +184,11 @@
             <h4>
               <span>2026-05-09 @ 15:01:16</span
               ><span class="points-container"
-                >Points: <span class="points">37</span></span
+                >Points: <span class="points">49</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48075528"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48075520">
-          <h3>
-            <a
-              class="item"
-              href="https://www.nytimes.com/2026/05/05/business/media/hannah-natanson-washington-post-pulitzer.html"
-              >First, the FBI Searched Her Home. Then, She Won a Pulitzer.</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-05-09 @ 15:00:10</span
-              ><span class="points-container"
-                >Points: <span class="points">32</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48075520"
-                  >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -205,13 +205,131 @@
             <h4>
               <span>2026-05-09 @ 14:11:10</span
               ><span class="points-container"
-                >Points: <span class="points">90</span></span
+                >Points: <span class="points">123</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48075144"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
+                ><span class="descendants">: 33</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="48075059">
+          <h3>
+            <a class="item" href="https://mochijs.com/"
+              >Show HN: Mochi.js: bun-native high-fidelity browser automation
+              library</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-05-09 @ 14:01:40</span
+              ><span class="points-container"
+                >Points: <span class="points">12</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48075059"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                I’m sharing mochi.js (<a
+                  href="https://github.com/0xchasercat/mochi"
+                  >https://github.com/0xchasercat/mochi</a
+                >), a Bun-native, raw-CDP browser automation framework. It's
+                designed to make programmatic browser use more effective by
+                focusing on consistency and measured parity with regular
+                traffic, purely from the JS layer, against stock Chromium.
+              </p>
+              <p>
+                The most common forms of browser automation focus heavily on
+                client-side line by line probes, which are mostly cosmetic. This
+                makes people feel better but it doesn't have much relevance to
+                actual WAF or anti-automation defences.
+              </p>
+              <p>
+                Mochi.js focuses on what actually matters, allowing you to get
+                past captchas, WAF's and most defence mechanisms. In fact, in
+                some cases it actually outperforms chromium forks simply by
+                virtue of not having to lie.
+              </p>
+              <p>
+                The foundation is built on a probe manifest based on analyzing
+                several WAF's and trying to cover most of the ground that
+                matters, and from there building upwards while ensuring every
+                decision is backed by data. Solves turnstile/interstitial
+                automatically, single digit fpjs suspect score, very good
+                client-side results, though browserscan and a few others are
+                known limitations that are fundamentally conflicting with what
+                WAF's probe for.
+              </p>
+              <p>
+                I'll be here if anyone wants to discuss the details, check out
+                the docs and github. It's completely free and open source, MIT,
+                strictly no relationship to any proprietary products whatsoever.
+                No affiliation to patched chromium forks, or SaaS.
+              </p>
+              <p>
+                But I also want to talk about why I built this, because the
+                current paradigm of "bot detection" is fundamentally broken.
+              </p>
+              <p>
+                Traditionally they would probably try to label my repository a
+                malicious tool, or at best, a grey hat one.
+              </p>
+              <p>
+                Let's take Turnstile for example, If you attach a debugger to
+                see what data they are extracting from your hardware, their
+                script intentionally self-destructs. When they try to extract
+                your data—acting as a guest on your silicon, using your
+                electricity, without asking, the industry calls it "Security."
+              </p>
+              <p>
+                But if you write a script to control exactly what data your own
+                hardware emits, refusing to provide the data they have no right
+                to ask for, you are suddenly labeled a "Malicious Actor" engaged
+                in "Bot Evasion."
+              </p>
+              <p>
+                I find it absurd we let ourselves put up with this, and the
+                stance of the bot-evasion community only makes them feel more
+                able to take a higher moral ground.
+              </p>
+              <p>
+                I have built a library that respects my hardware's reality. If
+                that breaks your security model, that's because your security
+                model relies on trespassing and secrecy. I stopped apologizing.
+                Who's next?
+              </p>
+              <p>
+                Mochi is the exact opposite of WAF opacity. It is a glass box.
+                It is MIT-licensed. The entire DAG, fingerprint manifest schema,
+                harvesting process, is documented. We even commit our live
+                benchmarks to the public record (mochi on a Linux datacenter IP
+                scored a suspect_score: 8 and bot: not_detected against
+                FingerprintJS Pro v4).
+              </p>
+              <p>
+                We don't even lie unnecessarily. We default to host-OS matching.
+                If you run mochi on a Linux server, it uses privacy-sensible
+                fingerprints for Linux, not Windows, because Linux is a
+                real-user signal. It proves that WAFs aren't actually blocking
+                what most people think they are, which begs the question of what
+                they are really doing in that obfuscated payload.
+              </p>
+              <p>
+                The legitimacy argument is exactly how they captured the
+                narrative. And nobody challenged it because the people on the
+                other side were too busy acting like they were doing something
+                wrong.
+              </p>
+              <p>
+                Is this a conspiracy theory? For sure, but only because they
+                allow it to be. Try make a conspiracy theory about the sticky
+                riceball.
+              </p>
+            </div>
           </section>
         </section>
         <section id="48074952">
@@ -226,11 +344,11 @@
             <h4>
               <span>2026-05-09 @ 13:48:32</span
               ><span class="points-container"
-                >Points: <span class="points">69</span></span
+                >Points: <span class="points">117</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48074952"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
+                ><span class="descendants">: 69</span></span
               >
             </h4>
           </section>
@@ -247,11 +365,11 @@
             <h4>
               <span>2026-05-09 @ 13:31:53</span
               ><span class="points-container"
-                >Points: <span class="points">58</span></span
+                >Points: <span class="points">68</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48074829"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -266,11 +384,11 @@
             <h4>
               <span>2026-05-09 @ 12:00:30</span
               ><span class="points-container"
-                >Points: <span class="points">293</span></span
+                >Points: <span class="points">330</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48074265"
                   >Comments</a
-                ><span class="descendants">: 37</span></span
+                ><span class="descendants">: 49</span></span
               >
             </h4>
           </section>
@@ -285,11 +403,11 @@
             <h4>
               <span>2026-05-09 @ 11:33:07</span
               ><span class="points-container"
-                >Points: <span class="points">81</span></span
+                >Points: <span class="points">85</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48074087"
                   >Comments</a
-                ><span class="descendants">: 72</span></span
+                ><span class="descendants">: 88</span></span
               >
             </h4>
           </section>
@@ -306,11 +424,11 @@
             <h4>
               <span>2026-05-09 @ 09:14:05</span
               ><span class="points-container"
-                >Points: <span class="points">59</span></span
+                >Points: <span class="points">63</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48073394"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -325,11 +443,11 @@
             <h4>
               <span>2026-05-09 @ 08:44:34</span
               ><span class="points-container"
-                >Points: <span class="points">177</span></span
+                >Points: <span class="points">212</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48073246"
                   >Comments</a
-                ><span class="descendants">: 58</span></span
+                ><span class="descendants">: 77</span></span
               >
             </h4>
           </section>
@@ -346,11 +464,11 @@
             <h4>
               <span>2026-05-09 @ 04:53:52</span
               ><span class="points-container"
-                >Points: <span class="points">324</span></span
+                >Points: <span class="points">345</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48071940"
                   >Comments</a
-                ><span class="descendants">: 202</span></span
+                ><span class="descendants">: 208</span></span
               >
             </h4>
             <div class="text">
@@ -379,11 +497,11 @@
             <h4>
               <span>2026-05-09 @ 02:41:42</span
               ><span class="points-container"
-                >Points: <span class="points">504</span></span
+                >Points: <span class="points">518</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48071262"
                   >Comments</a
-                ><span class="descendants">: 364</span></span
+                ><span class="descendants">: 372</span></span
               >
             </h4>
             <div class="text">
@@ -411,11 +529,11 @@
             <h4>
               <span>2026-05-08 @ 18:45:58</span
               ><span class="points-container"
-                >Points: <span class="points">1316</span></span
+                >Points: <span class="points">1345</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48067119"
                   >Comments</a
-                ><span class="descendants">: 483</span></span
+                ><span class="descendants">: 490</span></span
               >
             </h4>
             <div class="text">
@@ -433,27 +551,6 @@
             </div>
           </section>
         </section>
-        <section id="48066592">
-          <h3>
-            <a
-              class="item"
-              href="https://www.anthropic.com/research/teaching-claude-why"
-              >Teaching Claude Why</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-05-08 @ 17:59:41</span
-              ><span class="points-container"
-                >Points: <span class="points">228</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48066592"
-                  >Comments</a
-                ><span class="descendants">: 116</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="48066524">
           <h3>
             <a
@@ -466,11 +563,11 @@
             <h4>
               <span>2026-05-08 @ 17:55:08</span
               ><span class="points-container"
-                >Points: <span class="points">384</span></span
+                >Points: <span class="points">387</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48066524"
                   >Comments</a
-                ><span class="descendants">: 152</span></span
+                ><span class="descendants">: 156</span></span
               >
             </h4>
           </section>
@@ -487,11 +584,11 @@
             <h4>
               <span>2026-05-08 @ 16:39:48</span
               ><span class="points-container"
-                >Points: <span class="points">194</span></span
+                >Points: <span class="points">198</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48065511"
                   >Comments</a
-                ><span class="descendants">: 39</span></span
+                ><span class="descendants">: 41</span></span
               >
             </h4>
           </section>
@@ -508,11 +605,11 @@
             <h4>
               <span>2026-05-08 @ 16:29:52</span
               ><span class="points-container"
-                >Points: <span class="points">389</span></span
+                >Points: <span class="points">392</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48065360"
                   >Comments</a
-                ><span class="descendants">: 118</span></span
+                ><span class="descendants">: 120</span></span
               >
             </h4>
           </section>
@@ -529,11 +626,11 @@
             <h4>
               <span>2026-05-08 @ 12:03:26</span
               ><span class="points-container"
-                >Points: <span class="points">772</span></span
+                >Points: <span class="points">784</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48061884"
                   >Comments</a
-                ><span class="descendants">: 150</span></span
+                ><span class="descendants">: 152</span></span
               >
             </h4>
           </section>
@@ -548,51 +645,13 @@
             <h4>
               <span>2026-05-08 @ 11:22:11</span
               ><span class="points-container"
-                >Points: <span class="points">479</span></span
+                >Points: <span class="points">481</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48061566"
                   >Comments</a
-                ><span class="descendants">: 175</span></span
+                ><span class="descendants">: 176</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="48058197">
-          <h3>
-            <a
-              class="item"
-              href="https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html"
-              >AWS North Virginia data center outage – resolved</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-05-08 @ 03:31:58</span
-              ><span class="points-container"
-                >Points: <span class="points">246</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48058197"
-                  >Comments</a
-                ><span class="descendants">: 177</span></span
-              >
-            </h4>
-            <div class="text">
-              <a href="https://health.aws.amazon.com/health/status?t=2026-05-07"
-                >https://health.aws.amazon.com/health/status?t=2026-05-07</a
-              >
-              <p>
-                <a
-                  href="https://www.theregister.com/off-prem/2026/05/08/aws-warns-of-ec2-impairment-as-power-loss-hits-notorious-us-east-1-region/5235509"
-                  >https://www.theregister.com/off-prem/2026/05/08/aws-warns-of...</a
-                >
-              </p>
-              <p>
-                <a
-                  href="https://www.reuters.com/business/retail-consumer/amazon-cloud-unit-says-data-center-overheating-north-virginia-disrupts-services-2026-05-08/"
-                  >https://www.reuters.com/business/retail-consumer/amazon-clou...</a
-                >
-              </p>
-            </div>
           </section>
         </section>
         <section id="48051951">
@@ -605,11 +664,11 @@
             <h4>
               <span>2026-05-07 @ 17:11:59</span
               ><span class="points-container"
-                >Points: <span class="points">412</span></span
+                >Points: <span class="points">419</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48051951"
                   >Comments</a
-                ><span class="descendants">: 124</span></span
+                ><span class="descendants">: 130</span></span
               >
             </h4>
           </section>
@@ -626,32 +685,11 @@
             <h4>
               <span>2026-05-07 @ 12:39:45</span
               ><span class="points-container"
-                >Points: <span class="points">76</span></span
+                >Points: <span class="points">90</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48048679"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48047528">
-          <h3>
-            <a
-              class="item"
-              href="https://tia.mat.br/posts/2026/05/06/a-new-hash-table-for-lwan.html"
-              >A new hash table for Lwan</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-05-07 @ 10:05:27</span
-              ><span class="points-container"
-                >Points: <span class="points">5</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48047528"
-                  >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -666,11 +704,11 @@
             <h4>
               <span>2026-05-07 @ 09:25:58</span
               ><span class="points-container"
-                >Points: <span class="points">41</span></span
+                >Points: <span class="points">51</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48047280"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 43</span></span
               >
             </h4>
           </section>
@@ -687,13 +725,61 @@
             <h4>
               <span>2026-05-07 @ 07:20:55</span
               ><span class="points-container"
-                >Points: <span class="points">275</span></span
+                >Points: <span class="points">290</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48046436"
                   >Comments</a
-                ><span class="descendants">: 166</span></span
+                ><span class="descendants">: 173</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="48045384">
+          <h3>
+            <a
+              class="item"
+              href="https://jayakody2000lk.blogspot.com/2026/05/building-td4-4-bit-cpu.html"
+              >Building the TD4 4-Bit CPU</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-05-07 @ 04:25:43</span
+              ><span class="points-container"
+                >Points: <span class="points">32</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48045384"
+                  >Comments</a
+                ><span class="descendants">: 11</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48043002">
+          <h3>
+            <a class="item" href="https://tack.pics"
+              >Show HN: Free tool to mark points and polygon regions</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-05-06 @ 22:59:07</span
+              ><span class="points-container"
+                >Points: <span class="points">16</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48043002"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                It allows you to generate JSON or YAML from the coordinates you
+                tack on the image. tack runs entirely in your browser, there is
+                no server side component to it, so good in terms of privacy.
+              </p>
+              <p>Hope this is helpful.</p>
+            </div>
           </section>
         </section>
         <section id="48042204">
@@ -706,11 +792,11 @@
             <h4>
               <span>2026-05-06 @ 21:36:42</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">64</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48042204"
                   >Comments</a
-                ><span class="descendants">: 42</span></span
+                ><span class="descendants">: 49</span></span
               >
             </h4>
           </section>
@@ -725,11 +811,11 @@
             <h4>
               <span>2026-05-06 @ 19:16:49</span
               ><span class="points-container"
-                >Points: <span class="points">40</span></span
+                >Points: <span class="points">48</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48040412"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -745,7 +831,7 @@
             <h4>
               <span>2026-05-06 @ 16:01:50</span
               ><span class="points-container"
-                >Points: <span class="points">315</span></span
+                >Points: <span class="points">319</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48037760"
                   >Comments</a
@@ -767,11 +853,11 @@
             <h4>
               <span>2026-05-06 @ 15:41:06</span
               ><span class="points-container"
-                >Points: <span class="points">137</span></span
+                >Points: <span class="points">146</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48037517"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 37</span></span
               >
             </h4>
           </section>
@@ -788,11 +874,11 @@
             <h4>
               <span>2026-05-06 @ 15:17:44</span
               ><span class="points-container"
-                >Points: <span class="points">121</span></span
+                >Points: <span class="points">127</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48037243"
                   >Comments</a
-                ><span class="descendants">: 64</span></span
+                ><span class="descendants">: 73</span></span
               >
             </h4>
           </section>
