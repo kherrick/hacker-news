@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-05-09](index.md)
 
+* [2026-05-09, 18:47:58](https://news.ycombinator.com/item?id=48077231) - [Bun ported to Rust in 6 days](https://xunroll.com/thread/2053047748191232310)
+* [2026-05-09, 17:30:39](https://news.ycombinator.com/item?id=48076651) - [Zed Editor Theme-Builder](https://zed.dev/theme-builder)
 * [2026-05-09, 17:06:46](https://news.ycombinator.com/item?id=48076465) - [CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers](https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/)
+* [2026-05-09, 16:28:36](https://news.ycombinator.com/item?id=48076173) - [I Will Not Add Query Strings to Your URLs](https://susam.net/no-query-strings.html)
 * [2026-05-09, 16:02:38](https://news.ycombinator.com/item?id=48076009) - [Introduction to Beaver Triples](https://stoffelmpc.com/stoffel-blog/beaver-triples-tuples)
 * [2026-05-09, 15:15:39](https://news.ycombinator.com/item?id=48075645) - [The context window has been shattered: Subquadratic debuts a 12M token window](https://thenewstack.io/subquadratic-12-million-context-window/)
 * [2026-05-09, 15:01:16](https://news.ycombinator.com/item?id=48075528) - [PipeDream on the Acorn Archimedes](https://stonetools.ghost.io/pipedream-archimedes/)
 * [2026-05-09, 15:00:10](https://news.ycombinator.com/item?id=48075520) - [First, the FBI Searched Her Home. Then, She Won a Pulitzer.](https://www.nytimes.com/2026/05/05/business/media/hannah-natanson-washington-post-pulitzer.html)
+* [2026-05-09, 14:40:58](https://news.ycombinator.com/item?id=48075366) - [Apple is increasing my cortisol levels](https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels)
 * [2026-05-09, 14:18:13](https://news.ycombinator.com/item?id=48075185) - [The FCC Wants Your ID Before You Get a Phone Number](https://reclaimthenet.org/the-fcc-wants-your-id-before-you-get-a-phone-number)
 * [2026-05-09, 14:11:10](https://news.ycombinator.com/item?id=48075144) - [GrapheneOS fixes Android VPN leak Google refused to patch](https://cyberinsider.com/grapheneos-fixes-android-vpn-leak-google-refused-to-patch/)
 * [2026-05-09, 14:01:40](https://news.ycombinator.com/item?id=48075059) - [Show HN: Mochi.js: bun-native high-fidelity browser automation library](https://mochijs.com/)
