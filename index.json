@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-05-09, 21:42:50",
+      "https://news.ycombinator.com/item?id=48078538"
+    ],
+    [
+      "The 90 Day disclosure policy is dead",
+      "https://blog.himanshuanand.com/2026/05/the-90-day-disclosure-policy-is-dead/"
+    ]
+  ],
+  [
+    [
       "2026-05-09, 20:31:21",
       "https://news.ycombinator.com/item?id=48077971"
     ],
@@ -25,8 +35,18 @@
       "https://news.ycombinator.com/item?id=48077126"
     ],
     [
-      "Meta's Embrace of A.I. Is Making Its Employees Miserable",
+      "Meta's embrace of A.I. is making its employees miserable",
       "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-09, 17:52:13",
+      "https://news.ycombinator.com/item?id=48076815"
+    ],
+    [
+      "Show HN: I made a Clojure-like language in Go, boots in 7ms",
+      "https://github.com/nooga/let-go"
     ]
   ],
   [
@@ -61,16 +81,6 @@
   ],
   [
     [
-      "2026-05-09, 16:02:38",
-      "https://news.ycombinator.com/item?id=48076009"
-    ],
-    [
-      "Introduction to Beaver Triples",
-      "https://stoffelmpc.com/stoffel-blog/beaver-triples-tuples"
-    ]
-  ],
-  [
-    [
       "2026-05-09, 15:01:16",
       "https://news.ycombinator.com/item?id=48075528"
     ],
@@ -101,16 +111,6 @@
   ],
   [
     [
-      "2026-05-09, 14:01:40",
-      "https://news.ycombinator.com/item?id=48075059"
-    ],
-    [
-      "Show HN: Mochi.js: bun-native high-fidelity browser automation library",
-      "https://mochijs.com/"
-    ]
-  ],
-  [
-    [
       "2026-05-09, 13:48:32",
       "https://news.ycombinator.com/item?id=48074952"
     ],
@@ -131,6 +131,16 @@
   ],
   [
     [
+      "2026-05-09, 11:33:07",
+      "https://news.ycombinator.com/item?id=48074087"
+    ],
+    [
+      "Forking the Web",
+      "https://dillo-browser.org/lab/web-fork/"
+    ]
+  ],
+  [
+    [
       "2026-05-09, 10:12:55",
       "https://news.ycombinator.com/item?id=48073680"
     ],
@@ -141,22 +151,22 @@
   ],
   [
     [
-      "2026-05-09, 09:14:05",
-      "https://news.ycombinator.com/item?id=48073394"
-    ],
-    [
-      "Killswitch: Per-function short-circuit mitigation primitive",
-      "https://lwn.net/ml/all/20260507070547.2268452-1-sashal@kernel.org/"
-    ]
-  ],
-  [
-    [
       "2026-05-09, 08:44:34",
       "https://news.ycombinator.com/item?id=48073246"
     ],
     [
       "LLMs corrupt your documents when you delegate",
       "https://arxiv.org/abs/2604.15597"
+    ]
+  ],
+  [
+    [
+      "2026-05-09, 07:23:40",
+      "https://news.ycombinator.com/item?id=48072720"
+    ],
+    [
+      "All my clients wanted a carousel, now it's an AI chatbot",
+      "https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md"
     ]
   ],
   [
@@ -231,6 +241,16 @@
   ],
   [
     [
+      "2026-05-07, 13:01:21",
+      "https://news.ycombinator.com/item?id=48048902"
+    ],
+    [
+      "Making your own programming language is easier than you think (but also harder)",
+      "https://lisyarus.github.io/blog/posts/making-your-own-programming-language.html"
+    ]
+  ],
+  [
+    [
       "2026-05-07, 12:39:45",
       "https://news.ycombinator.com/item?id=48048679"
     ],
@@ -247,26 +267,6 @@
     [
       "Mythical Man Month",
       "https://martinfowler.com/bliki/MythicalManMonth.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-07, 04:25:43",
-      "https://news.ycombinator.com/item?id=48045384"
-    ],
-    [
-      "Building the TD4 4-Bit CPU",
-      "https://jayakody2000lk.blogspot.com/2026/05/building-td4-4-bit-cpu.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-06, 16:01:50",
-      "https://news.ycombinator.com/item?id=48037760"
-    ],
-    [
-      "Wi is Fi: Understanding Wi-Fi 4/5/6/6E/7/8 (802.11 n/AC/ax/be/bn)",
-      "https://www.wiisfi.com/"
     ]
   ],
   [
