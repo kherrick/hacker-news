@@ -45,6 +45,7 @@
 * [2026-05-07, 13:30:04](https://news.ycombinator.com/item?id=48049208) - [Child marriages plunged when girls stayed in school in Nigeria](https://www.nature.com/articles/d41586-026-00720-8)
 * [2026-05-07, 13:25:31](https://news.ycombinator.com/item?id=48049160) - [Cloudflare responded to the \"Copy Fail\" Linux vulnerability](https://blog.cloudflare.com/copy-fail-linux-vulnerability-mitigation/)
 * [2026-05-07, 13:12:39](https://news.ycombinator.com/item?id=48049014) - [Looking at the data behind prediction markets](https://asteriskmag.com/issues/14/are-prediction-markets-good-for-anything)
+* [2026-05-07, 13:01:21](https://news.ycombinator.com/item?id=48048902) - [Making your own programming language is easier than you think (but also harder)](https://lisyarus.github.io/blog/posts/making-your-own-programming-language.html)
 * [2026-05-07, 12:39:45](https://news.ycombinator.com/item?id=48048679) - [How LEDs are made (2014)](https://learn.sparkfun.com/tutorials/how-leds-are-made/all)
 * [2026-05-07, 12:01:13](https://news.ycombinator.com/item?id=48048339) - [GovernGPT (YC W24) Is Hiring Engineers to Build Thinking Systems in Montreal](https://www.ycombinator.com/companies/governgpt/jobs/hRyltS0-backend-engineer-thinking-systems)
 * [2026-05-07, 11:51:59](https://news.ycombinator.com/item?id=48048262) - [The Upper Middle Class Trap](https://ofdollarsanddata.com/the-upper-middle-class-trap/)
