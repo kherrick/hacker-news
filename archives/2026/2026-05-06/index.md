@@ -16,6 +16,7 @@
 * [2026-05-06, 20:02:42](https://news.ycombinator.com/item?id=48041009) - [MIT’s virtual violin offers luthiers a new design tool](https://arstechnica.com/science/2026/05/mits-virtual-violin-offers-luthiers-a-new-design-tool/)
 * [2026-05-06, 19:45:07](https://news.ycombinator.com/item?id=48040784) - [McDonald's is a premium product now (2024)](https://greyenlightenment.com/2024/07/31/mcdonalds-is-a-premium-product-now/)
 * [2026-05-06, 19:33:25](https://news.ycombinator.com/item?id=48040622) - [Inkscape 1.4.4](https://inkscape.org/doc/release_notes/1.4.4/Inkscape_1.4.4.html)
+* [2026-05-06, 19:25:24](https://news.ycombinator.com/item?id=48040522) - [How to Optimize MongoDB Query Performance with Indexes](https://visualeaf.com/blog/mongodb-query-optimization-indexes/)
 * [2026-05-06, 19:21:34](https://news.ycombinator.com/item?id=48040470) - [Light without electricity? Glowing algae could make it possible](https://www.colorado.edu/today/2026/05/06/light-without-electricity-glowing-algae-could-make-it-possible)
 * [2026-05-06, 19:21:18](https://news.ycombinator.com/item?id=48040465) - [OpenBSD Stories: The closest thing to cute kittens (OpenBSD/zaurus)](http://miod.online.fr/software/openbsd/stories/zaurus1.html)
 * [2026-05-06, 19:09:29](https://news.ycombinator.com/item?id=48040306) - [Bitter Lessons from the ISSpresso](https://mceglowski.substack.com/p/bitter-lessons-from-the-isspresso)
