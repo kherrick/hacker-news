@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-05-09](index.md)
 
+* [2026-05-09, 15:15:39](https://news.ycombinator.com/item?id=48075645) - [The context window has been shattered: Subquadratic debuts a 12M token window](https://thenewstack.io/subquadratic-12-million-context-window/)
+* [2026-05-09, 15:01:16](https://news.ycombinator.com/item?id=48075528) - [PipeDream on the Acorn Archimedes](https://stonetools.ghost.io/pipedream-archimedes/)
+* [2026-05-09, 15:00:10](https://news.ycombinator.com/item?id=48075520) - [First, the FBI Searched Her Home. Then, She Won a Pulitzer.](https://www.nytimes.com/2026/05/05/business/media/hannah-natanson-washington-post-pulitzer.html)
 * [2026-05-09, 14:18:13](https://news.ycombinator.com/item?id=48075185) - [The FCC Wants Your ID Before You Get a Phone Number](https://reclaimthenet.org/the-fcc-wants-your-id-before-you-get-a-phone-number)
+* [2026-05-09, 14:11:10](https://news.ycombinator.com/item?id=48075144) - [GrapheneOS fixes Android VPN leak Google refused to patch](https://cyberinsider.com/grapheneos-fixes-android-vpn-leak-google-refused-to-patch/)
+* [2026-05-09, 13:48:32](https://news.ycombinator.com/item?id=48074952) - [The Intolerable Hypocrisy of Cyberlibertarianism](https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/)
 * [2026-05-09, 13:31:53](https://news.ycombinator.com/item?id=48074829) - [Read Programming as Theory Building](https://codeutopia.net/blog/2026/05/09/you-should-read-programming-as-theory-building/)
 * [2026-05-09, 12:00:30](https://news.ycombinator.com/item?id=48074265) - [Internet Archive Switzerland](https://internetarchive.ch/)
 * [2026-05-09, 11:33:07](https://news.ycombinator.com/item?id=48074087) - [Forking the Web](https://dillo-browser.org/lab/web-fork/)
