@@ -1,22 +1,22 @@
 [
   [
     [
+      "2026-05-09, 17:06:46",
+      "https://news.ycombinator.com/item?id=48076465"
+    ],
+    [
+      "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
+      "https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/"
+    ]
+  ],
+  [
+    [
       "2026-05-09, 16:02:38",
       "https://news.ycombinator.com/item?id=48076009"
     ],
     [
       "Introduction to Beaver Triples",
       "https://stoffelmpc.com/stoffel-blog/beaver-triples-tuples"
-    ]
-  ],
-  [
-    [
-      "2026-05-09, 15:15:39",
-      "https://news.ycombinator.com/item?id=48075645"
-    ],
-    [
-      "The context window has been shattered: Subquadratic debuts a 12M token window",
-      "https://thenewstack.io/subquadratic-12-million-context-window/"
     ]
   ],
   [
@@ -77,16 +77,6 @@
     [
       "Internet Archive Switzerland",
       "https://internetarchive.ch/"
-    ]
-  ],
-  [
-    [
-      "2026-05-09, 11:33:07",
-      "https://news.ycombinator.com/item?id=48074087"
-    ],
-    [
-      "Forking the Web",
-      "https://dillo-browser.org/lab/web-fork/"
     ]
   ],
   [
@@ -191,6 +181,16 @@
   ],
   [
     [
+      "2026-05-08, 03:31:58",
+      "https://news.ycombinator.com/item?id=48058197"
+    ],
+    [
+      "AWS North Virginia data center outage – resolved",
+      "https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html"
+    ]
+  ],
+  [
+    [
       "2026-05-07, 17:11:59",
       "https://news.ycombinator.com/item?id=48051951"
     ],
@@ -207,16 +207,6 @@
     [
       "How LEDs are made (2014)",
       "https://learn.sparkfun.com/tutorials/how-leds-are-made/all"
-    ]
-  ],
-  [
-    [
-      "2026-05-07, 09:25:58",
-      "https://news.ycombinator.com/item?id=48047280"
-    ],
-    [
-      "Removing fsync from our local storage engine",
-      "https://fractalbits.com/blog/remove-fsync/"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Show HN: Free tool to mark points and polygon regions",
       "https://tack.pics"
+    ]
+  ],
+  [
+    [
+      "2026-05-06, 21:58:05",
+      "https://news.ycombinator.com/item?id=48042427"
+    ],
+    [
+      "Show HN: I wrote a flight simulator in my own programming language",
+      "https://github.com/navid-m/flightsim"
     ]
   ],
   [
