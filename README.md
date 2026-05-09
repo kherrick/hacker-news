@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-05-09, 21:42:50](https://news.ycombinator.com/item?id=48078538) - [The 90 Day disclosure policy is dead](https://blog.himanshuanand.com/2026/05/the-90-day-disclosure-policy-is-dead/)
-* [2026-05-09, 20:31:21](https://news.ycombinator.com/item?id=48077971) - [FreeBSD: Local Privilege Escalation via Execve()](https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc)
+* [2026-05-09, 22:14:35](https://news.ycombinator.com/item?id=48078811) - [France Moves to Break Encrypted Messaging](https://reclaimthenet.org/france-moves-to-break-encrypted-messaging)
+* [2026-05-09, 21:56:19](https://news.ycombinator.com/item?id=48078647) - [Getting Arrested in Japan](https://sundaicity.com/blogs/getting-arrested-in-japan)
+* [2026-05-09, 21:46:27](https://news.ycombinator.com/item?id=48078575) - [Rust but Lisp](https://github.com/ThatXliner/rust-but-lisp)
 * [2026-05-09, 20:31:07](https://news.ycombinator.com/item?id=48077966) - [I caught the car](https://undecidability.net/senior/)
 * [2026-05-09, 18:33:36](https://news.ycombinator.com/item?id=48077126) - [Meta's embrace of A.I. is making its employees miserable](https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html)
 * [2026-05-09, 17:52:13](https://news.ycombinator.com/item?id=48076815) - [Show HN: I made a Clojure-like language in Go, boots in 7ms](https://github.com/nooga/let-go)
@@ -21,15 +22,14 @@
 * [2026-05-09, 02:41:42](https://news.ycombinator.com/item?id=48071262) - [A recent experience with ChatGPT 5.5 Pro](https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/)
 * [2026-05-08, 19:45:21](https://news.ycombinator.com/item?id=48067786) - [Production engineering when trading billions of dollars a day [video]](https://www.youtube.com/watch?v=zR9PpXWsKFQ)
 * [2026-05-08, 18:45:58](https://news.ycombinator.com/item?id=48067119) - [Google broke reCAPTCHA for de-googled Android users](https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users)
-* [2026-05-08, 12:03:26](https://news.ycombinator.com/item?id=48061884) - [David Attenborough's 100th Birthday](https://www.bbc.com/news/articles/cp3pww9g0p5o)
 * [2026-05-07, 17:11:59](https://news.ycombinator.com/item?id=48051951) - [OpenAI’s WebRTC problem](https://moq.dev/blog/webrtc-is-the-problem/)
 * [2026-05-07, 14:25:16](https://news.ycombinator.com/item?id=48049890) - [The ROKR wooden typewriter: a closer look](http://writingball.blogspot.com/2026/05/the-rokr-wooden-typewriter-closer-look.html)
+* [2026-05-07, 14:19:55](https://news.ycombinator.com/item?id=48049828) - [The Serial TTL connector we deserve](https://kohlschuetter.github.io/blog/posts/2026/05/07/serial-ttl-connector/)
 * [2026-05-07, 13:01:21](https://news.ycombinator.com/item?id=48048902) - [Making your own programming language is easier than you think (but also harder)](https://lisyarus.github.io/blog/posts/making-your-own-programming-language.html)
 * [2026-05-07, 12:39:45](https://news.ycombinator.com/item?id=48048679) - [How LEDs are made (2014)](https://learn.sparkfun.com/tutorials/how-leds-are-made/all)
 * [2026-05-07, 07:20:55](https://news.ycombinator.com/item?id=48046436) - [Mythical Man Month](https://martinfowler.com/bliki/MythicalManMonth.html)
 * [2026-05-06, 15:41:06](https://news.ycombinator.com/item?id=48037517) - [What causes lightning? The answer keeps getting more interesting](https://www.quantamagazine.org/what-causes-lightning-the-answer-keeps-getting-more-interesting-20260506/)
 * [2026-05-06, 15:17:44](https://news.ycombinator.com/item?id=48037243) - [America's carpet capital: an empire and its toxic legacy](https://apnews.com/projects/pfas-forever-stained/)
-* [2026-05-06, 14:00:10](https://news.ycombinator.com/item?id=48036356) - [Random tie knots (2014)](https://tieknots.how/)
 
 ## [Archives](archives/index.md)
 

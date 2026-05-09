@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-05-09](index.md)
 
+* [2026-05-09, 22:14:35](https://news.ycombinator.com/item?id=48078811) - [France Moves to Break Encrypted Messaging](https://reclaimthenet.org/france-moves-to-break-encrypted-messaging)
+* [2026-05-09, 21:56:19](https://news.ycombinator.com/item?id=48078647) - [Getting Arrested in Japan](https://sundaicity.com/blogs/getting-arrested-in-japan)
+* [2026-05-09, 21:46:27](https://news.ycombinator.com/item?id=48078575) - [Rust but Lisp](https://github.com/ThatXliner/rust-but-lisp)
 * [2026-05-09, 21:42:50](https://news.ycombinator.com/item?id=48078538) - [The 90 Day disclosure policy is dead](https://blog.himanshuanand.com/2026/05/the-90-day-disclosure-policy-is-dead/)
 * [2026-05-09, 20:31:21](https://news.ycombinator.com/item?id=48077971) - [FreeBSD: Local Privilege Escalation via Execve()](https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc)
 * [2026-05-09, 20:31:07](https://news.ycombinator.com/item?id=48077966) - [I Caught the Car](https://undecidability.net/senior/)
