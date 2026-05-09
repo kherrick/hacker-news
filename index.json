@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-05-09, 18:47:58",
-      "https://news.ycombinator.com/item?id=48077231"
+      "2026-05-09, 18:33:36",
+      "https://news.ycombinator.com/item?id=48077126"
     ],
     [
-      "Bun ported to Rust in 6 days",
-      "https://xunroll.com/thread/2053047748191232310"
+      "Meta's Embrace of A.I. Is Making Its Employees Miserable",
+      "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html"
     ]
   ],
   [
@@ -35,8 +35,8 @@
       "https://news.ycombinator.com/item?id=48076173"
     ],
     [
-      "I Will Not Add Query Strings to Your URLs",
-      "https://susam.net/no-query-strings.html"
+      "I’ve banned query strings",
+      "https://chrismorgan.info/no-query-strings"
     ]
   ],
   [
@@ -65,8 +65,18 @@
       "https://news.ycombinator.com/item?id=48075366"
     ],
     [
-      "Apple is increasing my cortisol levels",
+      "Distributing Mac software is increasing my cortisol levels",
       "https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels"
+    ]
+  ],
+  [
+    [
+      "2026-05-09, 14:38:04",
+      "https://news.ycombinator.com/item?id=48075340"
+    ],
+    [
+      "Show HN: Create flashcards with Space CLI",
+      "https://getspace.app/cli"
     ]
   ],
   [
@@ -95,7 +105,7 @@
       "https://news.ycombinator.com/item?id=48074952"
     ],
     [
-      "The Intolerable Hypocrisy of Cyberlibertarianism",
+      "The hypocrisy of cyberlibertarianism",
       "https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/"
     ]
   ],
@@ -106,7 +116,17 @@
     ],
     [
       "Internet Archive Switzerland",
-      "https://internetarchive.ch/"
+      "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/"
+    ]
+  ],
+  [
+    [
+      "2026-05-09, 10:12:55",
+      "https://news.ycombinator.com/item?id=48073680"
+    ],
+    [
+      "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
+      "https://twitter.com/jarredsumner/status/2053047748191232310"
     ]
   ],
   [
@@ -151,6 +171,16 @@
   ],
   [
     [
+      "2026-05-08, 19:45:21",
+      "https://news.ycombinator.com/item?id=48067786"
+    ],
+    [
+      "Production engineering when trading billions of dollars a day [video]",
+      "https://www.youtube.com/watch?v=zR9PpXWsKFQ"
+    ]
+  ],
+  [
+    [
       "2026-05-08, 18:45:58",
       "https://news.ycombinator.com/item?id=48067119"
     ],
@@ -161,42 +191,12 @@
   ],
   [
     [
-      "2026-05-08, 17:55:08",
-      "https://news.ycombinator.com/item?id=48066524"
-    ],
-    [
-      "AI is breaking two vulnerability cultures",
-      "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures"
-    ]
-  ],
-  [
-    [
-      "2026-05-08, 16:29:52",
-      "https://news.ycombinator.com/item?id=48065360"
-    ],
-    [
-      "Cartoon Network Flash Games",
-      "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games"
-    ]
-  ],
-  [
-    [
       "2026-05-08, 12:03:26",
       "https://news.ycombinator.com/item?id=48061884"
     ],
     [
       "David Attenborough's 100th Birthday",
       "https://www.bbc.com/news/articles/cp3pww9g0p5o"
-    ]
-  ],
-  [
-    [
-      "2026-05-08, 11:22:11",
-      "https://news.ycombinator.com/item?id=48061566"
-    ],
-    [
-      "An Introduction to Meshtastic",
-      "https://meshtastic.org/docs/introduction/"
     ]
   ],
   [
