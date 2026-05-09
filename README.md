@@ -1,12 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-05-09, 07:23:40](https://news.ycombinator.com/item?id=48072720) - [All my clients wanted a carousel, now it's an AI chatbot](https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md)
-* [2026-05-09, 05:52:12](https://news.ycombinator.com/item?id=48072190) - [EU calls VPNs \"a loophole that needs closing\" in age verification push](https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/)
 * [2026-05-09, 04:53:52](https://news.ycombinator.com/item?id=48071940) - [Using Claude Code: The unreasonable effectiveness of HTML](https://twitter.com/trq212/status/2052809885763747935)
 * [2026-05-09, 02:41:42](https://news.ycombinator.com/item?id=48071262) - [A recent experience with ChatGPT 5.5 Pro](https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/)
-* [2026-05-08, 21:47:47](https://news.ycombinator.com/item?id=48069192) - [Meta Shuts Down End-to-End Encryption for Instagram Messaging](https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging)
 * [2026-05-08, 21:02:32](https://news.ycombinator.com/item?id=48068732) - [Mux (YC W16) Is Hiring](https://www.mux.com/jobs)
 * [2026-05-08, 20:18:39](https://news.ycombinator.com/item?id=48068254) - [When is your birthday? The math behind hash collisions](https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html)
+* [2026-05-08, 19:43:04](https://news.ycombinator.com/item?id=48067764) - [Roadside Attraction](https://theoffingmag.com/essay/roadside-attraction/)
 * [2026-05-08, 19:40:39](https://news.ycombinator.com/item?id=48067734) - [You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)](https://ze3tar.github.io/post-zcrx.html)
 * [2026-05-08, 18:45:58](https://news.ycombinator.com/item?id=48067119) - [Google broke reCAPTCHA for de-googled Android users](https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users)
 * [2026-05-08, 17:59:41](https://news.ycombinator.com/item?id=48066592) - [Teaching Claude Why](https://www.anthropic.com/research/teaching-claude-why)
@@ -18,6 +17,7 @@
 * [2026-05-08, 12:10:25](https://news.ycombinator.com/item?id=48061938) - [US Government releases first batch of UAP documents and videos](https://www.war.gov/UFO/)
 * [2026-05-08, 12:03:26](https://news.ycombinator.com/item?id=48061884) - [David Attenborough's 100th Birthday](https://www.bbc.com/news/articles/cp3pww9g0p5o)
 * [2026-05-08, 11:22:11](https://news.ycombinator.com/item?id=48061566) - [An Introduction to Meshtastic](https://meshtastic.org/docs/introduction/)
+* [2026-05-08, 03:31:58](https://news.ycombinator.com/item?id=48058197) - [AWS North Virginia data center outage – resolved](https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html)
 * [2026-05-08, 02:49:01](https://news.ycombinator.com/item?id=48057901) - [Mojo 1.0 Beta](https://mojolang.org/)
 * [2026-05-07, 17:11:59](https://news.ycombinator.com/item?id=48051951) - [OpenAI’s WebRTC problem](https://moq.dev/blog/webrtc-is-the-problem/)
 * [2026-05-07, 07:20:55](https://news.ycombinator.com/item?id=48046436) - [Mythical Man Month](https://martinfowler.com/bliki/MythicalManMonth.html)
@@ -29,7 +29,7 @@
 * [2026-05-06, 15:52:25](https://news.ycombinator.com/item?id=48037655) - [All means are fair except solving the problem](https://yosefk.com/blog/all-means-are-fair-except-solving-the-problem.html)
 * [2026-05-06, 15:41:06](https://news.ycombinator.com/item?id=48037517) - [What causes lightning? The answer keeps getting more interesting](https://www.quantamagazine.org/what-causes-lightning-the-answer-keeps-getting-more-interesting-20260506/)
 * [2026-05-06, 15:17:44](https://news.ycombinator.com/item?id=48037243) - [America's carpet capital: an empire and its toxic legacy](https://apnews.com/projects/pfas-forever-stained/)
-* [2026-05-06, 04:01:42](https://news.ycombinator.com/item?id=48032014) - [The Soul of Maintaining a New Machine](https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/3)
+* [2026-05-06, 04:01:42](https://news.ycombinator.com/item?id=48032014) - [The soul of maintaining a new machine](https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/3)
 
 ## [Archives](archives/index.md)
 
