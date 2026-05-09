@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-05-09, 18:47:58",
+      "https://news.ycombinator.com/item?id=48077231"
+    ],
+    [
+      "Bun ported to Rust in 6 days",
+      "https://xunroll.com/thread/2053047748191232310"
+    ]
+  ],
+  [
+    [
+      "2026-05-09, 17:30:39",
+      "https://news.ycombinator.com/item?id=48076651"
+    ],
+    [
+      "Zed Editor Theme-Builder",
+      "https://zed.dev/theme-builder"
+    ]
+  ],
+  [
+    [
       "2026-05-09, 17:06:46",
       "https://news.ycombinator.com/item?id=48076465"
     ],
     [
       "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
       "https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/"
+    ]
+  ],
+  [
+    [
+      "2026-05-09, 16:28:36",
+      "https://news.ycombinator.com/item?id=48076173"
+    ],
+    [
+      "I Will Not Add Query Strings to Your URLs",
+      "https://susam.net/no-query-strings.html"
     ]
   ],
   [
@@ -27,6 +57,16 @@
     [
       "PipeDream on the Acorn Archimedes",
       "https://stonetools.ghost.io/pipedream-archimedes/"
+    ]
+  ],
+  [
+    [
+      "2026-05-09, 14:40:58",
+      "https://news.ycombinator.com/item?id=48075366"
+    ],
+    [
+      "Apple is increasing my cortisol levels",
+      "https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels"
     ]
   ],
   [
@@ -61,16 +101,6 @@
   ],
   [
     [
-      "2026-05-09, 13:31:53",
-      "https://news.ycombinator.com/item?id=48074829"
-    ],
-    [
-      "Read Programming as Theory Building",
-      "https://codeutopia.net/blog/2026/05/09/you-should-read-programming-as-theory-building/"
-    ]
-  ],
-  [
-    [
       "2026-05-09, 12:00:30",
       "https://news.ycombinator.com/item?id=48074265"
     ],
@@ -95,7 +125,7 @@
       "https://news.ycombinator.com/item?id=48073246"
     ],
     [
-      "LLMs Corrupt Your Documents When You Delegate",
+      "LLMs corrupt your documents when you delegate",
       "https://arxiv.org/abs/2604.15597"
     ]
   ],
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2026-05-08, 16:39:48",
-      "https://news.ycombinator.com/item?id=48065511"
-    ],
-    [
-      "The React2Shell Story",
-      "https://lachlan.nz/blog/the-react2shell-story/"
-    ]
-  ],
-  [
-    [
       "2026-05-08, 16:29:52",
       "https://news.ycombinator.com/item?id=48065360"
     ],
@@ -181,22 +201,22 @@
   ],
   [
     [
-      "2026-05-08, 03:31:58",
-      "https://news.ycombinator.com/item?id=48058197"
-    ],
-    [
-      "AWS North Virginia data center outage – resolved",
-      "https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html"
-    ]
-  ],
-  [
-    [
       "2026-05-07, 17:11:59",
       "https://news.ycombinator.com/item?id=48051951"
     ],
     [
       "OpenAI’s WebRTC problem",
       "https://moq.dev/blog/webrtc-is-the-problem/"
+    ]
+  ],
+  [
+    [
+      "2026-05-07, 14:25:16",
+      "https://news.ycombinator.com/item?id=48049890"
+    ],
+    [
+      "The ROKR wooden typewriter: a closer look",
+      "http://writingball.blogspot.com/2026/05/the-rokr-wooden-typewriter-closer-look.html"
     ]
   ],
   [
@@ -231,32 +251,12 @@
   ],
   [
     [
-      "2026-05-06, 22:59:07",
-      "https://news.ycombinator.com/item?id=48043002"
-    ],
-    [
-      "Show HN: Free tool to mark points and polygon regions",
-      "https://tack.pics"
-    ]
-  ],
-  [
-    [
       "2026-05-06, 21:58:05",
       "https://news.ycombinator.com/item?id=48042427"
     ],
     [
       "Show HN: I wrote a flight simulator in my own programming language",
       "https://github.com/navid-m/flightsim"
-    ]
-  ],
-  [
-    [
-      "2026-05-06, 21:36:42",
-      "https://news.ycombinator.com/item?id=48042204"
-    ],
-    [
-      "Making Julia as Fast as C++ (2019)",
-      "https://flow.byu.edu/posts/julia-c++"
     ]
   ],
   [
