@@ -15,18 +15,8 @@
       "https://news.ycombinator.com/item?id=48077966"
     ],
     [
-      "I Caught the Car",
+      "I caught the car",
       "https://undecidability.net/senior/"
-    ]
-  ],
-  [
-    [
-      "2026-05-09, 18:59:49",
-      "https://news.ycombinator.com/item?id=48077314"
-    ],
-    [
-      "\"Dirty Frag\" (CVE-2026-43284): The Second Linux Root Exploit in Eight Days",
-      "https://www.copahost.com/blog/dirty-frag-cve-2026-43284/"
     ]
   ],
   [
@@ -151,6 +141,16 @@
   ],
   [
     [
+      "2026-05-09, 09:14:05",
+      "https://news.ycombinator.com/item?id=48073394"
+    ],
+    [
+      "Killswitch: Per-function short-circuit mitigation primitive",
+      "https://lwn.net/ml/all/20260507070547.2268452-1-sashal@kernel.org/"
+    ]
+  ],
+  [
+    [
       "2026-05-09, 08:44:34",
       "https://news.ycombinator.com/item?id=48073246"
     ],
@@ -261,22 +261,12 @@
   ],
   [
     [
-      "2026-05-06, 21:58:05",
-      "https://news.ycombinator.com/item?id=48042427"
+      "2026-05-06, 16:01:50",
+      "https://news.ycombinator.com/item?id=48037760"
     ],
     [
-      "Show HN: I wrote a flight simulator in my own programming language",
-      "https://github.com/navid-m/flightsim"
-    ]
-  ],
-  [
-    [
-      "2026-05-06, 19:16:49",
-      "https://news.ycombinator.com/item?id=48040412"
-    ],
-    [
-      "Reviving the IBM Selectric Composer Fonts (2023)",
-      "https://www.kutilek.de/selectric/"
+      "Wi is Fi: Understanding Wi-Fi 4/5/6/6E/7/8 (802.11 n/AC/ax/be/bn)",
+      "https://www.wiisfi.com/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "America's carpet capital: an empire and its toxic legacy",
       "https://apnews.com/projects/pfas-forever-stained/"
+    ]
+  ],
+  [
+    [
+      "2026-05-06, 14:00:10",
+      "https://news.ycombinator.com/item?id=48036356"
+    ],
+    [
+      "Random tie knots (2014)",
+      "https://tieknots.how/"
     ]
   ]
 ]
