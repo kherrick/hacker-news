@@ -13,6 +13,7 @@
 * [2026-05-07, 22:14:49](https://news.ycombinator.com/item?id=48055844) - [Hackers deface school login pages after claiming another Instructure hack](https://techcrunch.com/2026/05/07/hackers-deface-school-login-pages-after-claiming-another-instructure-hack/)
 * [2026-05-07, 20:23:37](https://news.ycombinator.com/item?id=48054423) - [Cloudflare to cut about 20% workforce](https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/)
 * [2026-05-07, 20:23:37](https://news.ycombinator.com/item?id=48054423) - [Building for the Future](https://blog.cloudflare.com/building-for-the-future/)
+* [2026-05-07, 20:03:20](https://news.ycombinator.com/item?id=48054154) - [Cooking the Hashish Cookbook](https://cookingthehashishcookbook.com/)
 * [2026-05-07, 19:38:36](https://news.ycombinator.com/item?id=48053842) - [Two Home Affairs officials suspended after AI 'hallucinations' found](https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/)
 * [2026-05-07, 19:36:45](https://news.ycombinator.com/item?id=48053816) - [Mozilla says 271 vulnerabilities found by Mythos and \"almost no false positives\"](https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/)
 * [2026-05-07, 19:32:33](https://news.ycombinator.com/item?id=48053770) - [Creating for a niche](https://www.davesnider.com/posts/working-in-a-niche)
