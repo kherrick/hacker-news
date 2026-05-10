@@ -56,6 +56,7 @@
 * [2026-05-07, 11:31:47](https://news.ycombinator.com/item?id=48048121) - [KLM flight attendant hospitalized after contact with hantavirus](https://nltimes.nl/2026/05/07/klm-flight-attendant-hospitalized-contact-hantavirus-cruise-ship-passenger)
 * [2026-05-07, 11:10:24](https://news.ycombinator.com/item?id=48047981) - [Grand Theft Oil Futures: Insider traders keep making a killing at our expense](https://paulkrugman.substack.com/p/grand-theft-oil-futures)
 * [2026-05-07, 11:08:43](https://news.ycombinator.com/item?id=48047970) - [LinkedIn profile visitor lists belong to the people, says Noyb](https://www.theregister.com/offbeat/2026/05/05/noyb-cries-foul-on-linkedin-withholding-profile-visitor-data/5225338)
+* [2026-05-07, 11:02:28](https://news.ycombinator.com/item?id=48047930) - [Idempotency Is Easy Until the Second Request Is Different](https://blog.dochia.dev/blog/idempotency/)
 * [2026-05-07, 10:45:59](https://news.ycombinator.com/item?id=48047826) - [Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)](https://ahk.cardor.dev)
 * [2026-05-07, 10:05:27](https://news.ycombinator.com/item?id=48047528) - [A new hash table for Lwan](https://tia.mat.br/posts/2026/05/06/a-new-hash-table-for-lwan.html)
 * [2026-05-07, 09:25:58](https://news.ycombinator.com/item?id=48047280) - [Removing fsync from our local storage engine](https://fractalbits.com/blog/remove-fsync/)
