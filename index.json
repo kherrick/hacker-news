@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-05-10, 16:07:26",
+      "https://news.ycombinator.com/item?id=48085095"
+    ],
+    [
+      "GitHub Is Sinking",
+      "https://dbushell.com/2026/04/29/github-is-sinking/"
+    ]
+  ],
+  [
+    [
+      "2026-05-10, 15:39:53",
+      "https://news.ycombinator.com/item?id=48084836"
+    ],
+    [
+      "Scientists warn Atlantic current at risk of shutting down",
+      "https://e360.yale.edu/features/amoc-climate-change"
+    ]
+  ],
+  [
+    [
+      "2026-05-10, 15:22:46",
+      "https://news.ycombinator.com/item?id=48084710"
+    ],
+    [
+      "Chrome's AI features may be hogging 4GB of your computer storage",
+      "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features"
+    ]
+  ],
+  [
+    [
+      "2026-05-10, 15:00:40",
+      "https://news.ycombinator.com/item?id=48084547"
+    ],
+    [
+      "Shunting-Yard Animation",
+      "https://somethingorotherwhatever.com/shunting-yard-animation/"
+    ]
+  ],
+  [
+    [
       "2026-05-10, 14:47:05",
       "https://news.ycombinator.com/item?id=48084432"
     ],
@@ -37,6 +77,16 @@
     [
       "Academic Research Skills for Claude Code",
       "https://github.com/Imbad0202/academic-research-skills"
+    ]
+  ],
+  [
+    [
+      "2026-05-10, 12:50:31",
+      "https://news.ycombinator.com/item?id=48083580"
+    ],
+    [
+      "Show HN: An index of indie web/blog indexes",
+      "https://theindex.fyi"
     ]
   ],
   [
@@ -111,16 +161,6 @@
   ],
   [
     [
-      "2026-05-10, 05:26:03",
-      "https://news.ycombinator.com/item?id=48081245"
-    ],
-    [
-      "Debian must ship reproducible packages",
-      "https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html"
-    ]
-  ],
-  [
-    [
       "2026-05-10, 03:22:02",
       "https://news.ycombinator.com/item?id=48080702"
     ],
@@ -131,52 +171,22 @@
   ],
   [
     [
-      "2026-05-10, 03:01:44",
-      "https://news.ycombinator.com/item?id=48080587"
-    ],
-    [
-      "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
-      "https://github.com/imtomt/ymawky"
-    ]
-  ],
-  [
-    [
-      "2026-05-09, 20:31:21",
-      "https://news.ycombinator.com/item?id=48077971"
-    ],
-    [
-      "Local privilege escalation via execve()",
-      "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc"
-    ]
-  ],
-  [
-    [
-      "2026-05-09, 17:52:13",
-      "https://news.ycombinator.com/item?id=48076815"
-    ],
-    [
-      "Show HN: I made a Clojure-like language in Go, boots in 7ms",
-      "https://github.com/nooga/let-go"
-    ]
-  ],
-  [
-    [
-      "2026-05-09, 17:30:39",
-      "https://news.ycombinator.com/item?id=48076651"
-    ],
-    [
-      "Zed Editor Theme-Builder",
-      "https://zed.dev/theme-builder"
-    ]
-  ],
-  [
-    [
       "2026-05-09, 16:28:36",
       "https://news.ycombinator.com/item?id=48076173"
     ],
     [
       "I’ve banned query strings",
       "https://chrismorgan.info/no-query-strings"
+    ]
+  ],
+  [
+    [
+      "2026-05-09, 14:49:48",
+      "https://news.ycombinator.com/item?id=48075429"
+    ],
+    [
+      "Walking Slower? Why Your Ears, Not Your Knees, Might Be the Problem",
+      "https://www.wsj.com/health/wellness/hearing-loss-walking-speed-iphone-study-c53c482a"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Idempotency Is Easy Until the Second Request Is Different",
       "https://blog.dochia.dev/blog/idempotency/"
-    ]
-  ],
-  [
-    [
-      "2026-05-06, 17:52:29",
-      "https://news.ycombinator.com/item?id=48039249"
-    ],
-    [
-      "I'm writing a history of Visual Basic, Chapter 1 is up",
-      "https://evilgeniuslabs.ca/blog/visual-basic-history-chapter-1-launch"
     ]
   ],
   [
