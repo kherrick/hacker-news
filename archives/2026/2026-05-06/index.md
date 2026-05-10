@@ -52,6 +52,7 @@
 * [2026-05-06, 15:41:06](https://news.ycombinator.com/item?id=48037517) - [What causes lightning? The answer keeps getting more interesting](https://www.quantamagazine.org/what-causes-lightning-the-answer-keeps-getting-more-interesting-20260506/)
 * [2026-05-06, 15:24:51](https://news.ycombinator.com/item?id=48037336) - [Rumors of my death are slightly exaggerated](https://news.ycombinator.com/item?id=48037336)
 * [2026-05-06, 15:17:44](https://news.ycombinator.com/item?id=48037243) - [America's carpet capital: an empire and its toxic legacy](https://apnews.com/projects/pfas-forever-stained/)
+* [2026-05-06, 15:15:23](https://news.ycombinator.com/item?id=48037223) - [We see something that works, and then we understand it](https://lemire.me/blog/2025/12/04/we-see-something-that-works-and-then-we-understand-it/)
 * [2026-05-06, 15:06:37](https://news.ycombinator.com/item?id=48037128) - [Vibe coding and agentic engineering are getting closer than I'd like](https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/)
 * [2026-05-06, 14:56:37](https://news.ycombinator.com/item?id=48037009) - [CNN founder Ted Turner, a pioneer of cable TV news, dies at 87](https://www.cnn.com/2026/05/06/us/ted-turner-death)
 * [2026-05-06, 14:48:03](https://news.ycombinator.com/item?id=48036923) - [Floats Don't Agree with Themselves](https://docs.merca.earth/blog/floats-dont-agree-with-themselves)

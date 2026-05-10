@@ -19,6 +19,7 @@
 * [2026-05-07, 19:21:32](https://news.ycombinator.com/item?id=48053623) - [Dirtyfrag: Universal Linux LPE](https://www.openwall.com/lists/oss-security/2026/05/07/8)
 * [2026-05-07, 19:04:30](https://news.ycombinator.com/item?id=48053435) - [Colored Shadow Penumbra](https://chosker.github.io/blog/colored-shadow-penumbra)
 * [2026-05-07, 18:46:25](https://news.ycombinator.com/item?id=48053203) - [AI Slop Is Killing Online Communities](https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/)
+* [2026-05-07, 18:03:15](https://news.ycombinator.com/item?id=48052656) - [A construction of the Hat tilings by a Markov partition](https://www.mathstat.dal.ca/~selinger/hat-partition/)
 * [2026-05-07, 17:54:02](https://news.ycombinator.com/item?id=48052537) - [Natural Language Autoencoders: Turning Claude's Thoughts into Text](https://www.anthropic.com/research/natural-language-autoencoders)
 * [2026-05-07, 17:42:58](https://news.ycombinator.com/item?id=48052371) - [Brazil's Pix Payment System Faces Pressure from Visa and Mastercard](https://www.elciudadano.com/en/brazils-pix-payment-system-faces-pressure-from-visa-and-mastercard/04/04/)
 * [2026-05-07, 17:40:05](https://news.ycombinator.com/item?id=48052333) - [Principles for agent-native CLIs](https://twitter.com/trevin/status/2051316002730991795)
