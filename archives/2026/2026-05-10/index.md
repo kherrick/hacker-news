@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-10](index.md)
 
+* [2026-05-10, 14:37:16](https://news.ycombinator.com/item?id=48084350) - [Taxpayers May Be Eligible for Significant Tax Refunds – If They Act by July 10](https://www.taxpayeradvocate.irs.gov/news/nta-blog/tens-of-millions-of-taxpayers-may-be-eligible-for-significant-tax-refunds/2026/04/)
+* [2026-05-10, 14:32:39](https://news.ycombinator.com/item?id=48084315) - [Chindogu: Weird and Useless Japanese Inventions](https://rarehistoricalphotos.com/weird-japanese-inventions/)
 * [2026-05-10, 12:00:11](https://news.ycombinator.com/item?id=48083251) - [9 Mothers (YC P26) Is Hiring](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q)
 * [2026-05-10, 11:26:50](https://news.ycombinator.com/item?id=48083007) - [What's a Mathematician to Do?](https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do)
 * [2026-05-10, 11:22:02](https://news.ycombinator.com/item?id=48082968) - [Space Cadet Pinball on Linux](https://brennan.io/2026/05/09/pinball-and-escrow/)
