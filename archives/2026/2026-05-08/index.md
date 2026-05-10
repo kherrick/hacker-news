@@ -31,6 +31,7 @@
 * [2026-05-08, 16:29:52](https://news.ycombinator.com/item?id=48065360) - [Cartoon Network Flash Games](https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games)
 * [2026-05-08, 16:21:56](https://news.ycombinator.com/item?id=48065254) - [Can LLMs model real-world systems in TLA+?](https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/)
 * [2026-05-08, 16:17:37](https://news.ycombinator.com/item?id=48065203) - [Show HN: GETadb.com – every GET request creates a DB](https://www.getadb.com/)
+* [2026-05-08, 15:46:12](https://news.ycombinator.com/item?id=48064789) - [5x perf increase on writes with FPW disabled in Postgres](https://www.databricks.com/blog/how-lakebase-architecture-delivers-5x-faster-postgres-writes)
 * [2026-05-08, 15:10:35](https://news.ycombinator.com/item?id=48064312) - [Serving a Website on a Raspberry Pi Zero Running in RAM](https://btxx.org/posts/memory/)
 * [2026-05-08, 14:15:36](https://news.ycombinator.com/item?id=48063548) - [Show HN: Git for AI Agents](https://github.com/regent-vcs/re_gent)
 * [2026-05-08, 14:14:31](https://news.ycombinator.com/item?id=48063521) - [PC Engine CPU](https://jsgroth.dev/blog/posts/pc-engine-cpu/)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-10](index.md)
 
+* [2026-05-10, 16:37:04](https://news.ycombinator.com/item?id=48085384) - [Remind HN: Today is Mother's Day, call your moms](https://news.ycombinator.com/item?id=48085384)
+* [2026-05-10, 16:31:53](https://news.ycombinator.com/item?id=48085332) - [I have seen the dystopian future of elderly care](https://www.telegraph.co.uk/world-news/2026/05/09/testing-the-japanese-airec-robot-for-elderly-care/)
 * [2026-05-10, 16:07:26](https://news.ycombinator.com/item?id=48085095) - [GitHub Is Sinking](https://dbushell.com/2026/04/29/github-is-sinking/)
 * [2026-05-10, 15:39:53](https://news.ycombinator.com/item?id=48084836) - [Scientists warn Atlantic current at risk of shutting down](https://e360.yale.edu/features/amoc-climate-change)
 * [2026-05-10, 15:22:46](https://news.ycombinator.com/item?id=48084710) - [Chrome's AI features may be hogging 4GB of your computer storage](https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features)
