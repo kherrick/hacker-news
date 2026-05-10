@@ -47,6 +47,7 @@
 * [2026-05-08, 12:03:26](https://news.ycombinator.com/item?id=48061884) - [David Attenborough's 100th Birthday](https://www.bbc.com/news/articles/cp3pww9g0p5o)
 * [2026-05-08, 11:26:38](https://news.ycombinator.com/item?id=48061602) - [Stop MitM on the first SSH connection, on any VPS or cloud provider](https://www.joachimschipper.nl/Stop%20MITM%20on%20the%20first%20SSH%20connection,%20on%20any%20VPS%20or%20cloud%20provider.html)
 * [2026-05-08, 11:22:11](https://news.ycombinator.com/item?id=48061566) - [An Introduction to Meshtastic](https://meshtastic.org/docs/introduction/)
+* [2026-05-08, 11:21:26](https://news.ycombinator.com/item?id=48061556) - [Eight More 8-bit Era Microprocessors (2024)](https://thechipletter.substack.com/p/eight-more-8-bit-era-microprocessors)
 * [2026-05-08, 09:55:37](https://news.ycombinator.com/item?id=48060918) - [GeoJSON](https://geojson.org/)
 * [2026-05-08, 07:57:14](https://news.ycombinator.com/item?id=48060054) - [Ask HN: We just had an actual UUID v4 collision...](https://news.ycombinator.com/item?id=48060054)
 * [2026-05-08, 07:04:24](https://news.ycombinator.com/item?id=48059662) - [ClojureScript Gets Async/Await](https://clojurescript.org/news/2026-05-07-release)
