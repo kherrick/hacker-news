@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-05-10, 22:02:43",
+      "https://news.ycombinator.com/item?id=48088576"
+    ],
+    [
+      "Obsidian plugin was abused to deploy a remote access trojan",
+      "https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/"
+    ]
+  ],
+  [
+    [
+      "2026-05-10, 21:49:59",
+      "https://news.ycombinator.com/item?id=48088459"
+    ],
+    [
+      "Plex's price hikes prove I was right to switch to Jellyfin",
+      "https://www.androidauthority.com/plex-price-hikes-get-jellyfin-3663600/"
+    ]
+  ],
+  [
+    [
       "2026-05-10, 21:36:52",
       "https://news.ycombinator.com/item?id=48088343"
     ],
@@ -91,12 +111,12 @@
   ],
   [
     [
-      "2026-05-10, 15:22:46",
-      "https://news.ycombinator.com/item?id=48084710"
+      "2026-05-10, 16:03:37",
+      "https://news.ycombinator.com/item?id=48085055"
     ],
     [
-      "Chrome's AI features may be hogging 4GB of your computer storage",
-      "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features"
+      "The locals don't know",
+      "https://www.quarter--mile.com/The-Locals-Dont-Know"
     ]
   ],
   [
@@ -181,12 +201,12 @@
   ],
   [
     [
-      "2026-05-10, 03:01:44",
-      "https://news.ycombinator.com/item?id=48080587"
+      "2026-05-10, 03:22:02",
+      "https://news.ycombinator.com/item?id=48080702"
     ],
     [
-      "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
-      "https://github.com/imtomt/ymawky"
+      "Gemini API File Search is now multimodal",
+      "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/"
     ]
   ],
   [
@@ -207,6 +227,16 @@
     [
       "I returned to AWS and was reminded why I left",
       "http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-09, 02:41:42",
+      "https://news.ycombinator.com/item?id=48071262"
+    ],
+    [
+      "A recent experience with ChatGPT 5.5 Pro",
+      "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/"
     ]
   ],
   [
@@ -251,32 +281,12 @@
   ],
   [
     [
-      "2026-05-07, 14:00:29",
-      "https://news.ycombinator.com/item?id=48049577"
+      "2026-05-07, 15:34:04",
+      "https://news.ycombinator.com/item?id=48050666"
     ],
     [
-      "The River Otter's Remarkable Comeback",
-      "https://www.rewildingmag.com/the-river-otters-remarkable-comeback/"
-    ]
-  ],
-  [
-    [
-      "2026-05-07, 12:40:35",
-      "https://news.ycombinator.com/item?id=48048684"
-    ],
-    [
-      "The One Dollar Counterfeiter",
-      "https://www.amusingplanet.com/2026/05/emerich-juettner-one-dollar.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-07, 12:09:47",
-      "https://news.ycombinator.com/item?id=48048407"
-    ],
-    [
-      "Casio S100X Japanese Lacquer Edition (JP Page Only)",
-      "https://www.casio.com/jp/basic-calculators/premium/en-s100x-jc1-u/"
+      "First tunnel element of the Fehmarnbelt Tunnel immersed",
+      "https://www.arup.com/en-us/news/first-fehmarnbelt-tunnel-element-lowered/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Idempotency is easy until the second request is different",
       "https://blog.dochia.dev/blog/idempotency/"
-    ]
-  ],
-  [
-    [
-      "2026-05-06, 15:15:23",
-      "https://news.ycombinator.com/item?id=48037223"
-    ],
-    [
-      "We see something that works, and then we understand it",
-      "https://lemire.me/blog/2025/12/04/we-see-something-that-works-and-then-we-understand-it/"
     ]
   ]
 ]
