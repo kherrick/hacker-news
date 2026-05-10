@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-07](index.md)
 
+* [2026-05-07, 23:49:51](https://news.ycombinator.com/item?id=48056639) - [The people preserving the scientific practice of bird banding](https://thenarwhal.ca/bird-banding-ontario/)
 * [2026-05-07, 23:17:03](https://news.ycombinator.com/item?id=48056359) - [Gambling ads on social media reach more than twice as many men as women: study](https://www.cam.ac.uk/research/news/gambling-ads-on-social-media-reach-more-than-twice-as-many-men-as-women)
 * [2026-05-07, 23:06:44](https://news.ycombinator.com/item?id=48056268) - [Researchers discover advanced language processing in the unconscious human brain](https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain)
 * [2026-05-07, 23:02:11](https://news.ycombinator.com/item?id=48056227) - [Maybe you shouldn't install new software for a bit](https://xeiaso.net/blog/2026/abstain-from-install/)

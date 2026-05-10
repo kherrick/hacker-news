@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-10](index.md)
 
+* [2026-05-10, 19:56:05](https://news.ycombinator.com/item?id=48087261) - [SpaceX wants to launch a million satellites](https://www.cbc.ca/news/science/spacex-data-centre-one-million-satellites-9.7117772)
 * [2026-05-10, 17:54:02](https://news.ycombinator.com/item?id=48086190) - [Hardware Attestation as Monopoly Enabler](https://grapheneos.social/@GrapheneOS/116550899908879585)
 * [2026-05-10, 17:43:10](https://news.ycombinator.com/item?id=48086082) - [Incident CVE-2024-Yikes](https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html)
 * [2026-05-10, 17:34:41](https://news.ycombinator.com/item?id=48085993) - [Ask HN: What are you working on? (May 2026)](https://news.ycombinator.com/item?id=48085993)
