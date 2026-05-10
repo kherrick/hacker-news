@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-05-10, 05:26:03",
+      "https://news.ycombinator.com/item?id=48081245"
+    ],
+    [
+      "Debian must ship reproducible packages",
+      "https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-10, 04:47:45",
+      "https://news.ycombinator.com/item?id=48081094"
+    ],
+    [
+      "Scouting's Real Crisis Is Not Marketing. It Is Decades of Neglect.",
+      "https://www.untendedfire.org/2026/05/09/scoutings-real-crisis-is-not-marketing-it-is-decades-of-neglect/"
+    ]
+  ],
+  [
+    [
       "2026-05-10, 03:22:02",
       "https://news.ycombinator.com/item?id=48080702"
     ],
@@ -31,16 +51,6 @@
   ],
   [
     [
-      "2026-05-09, 22:14:35",
-      "https://news.ycombinator.com/item?id=48078811"
-    ],
-    [
-      "France moves to break encrypted messaging",
-      "https://reclaimthenet.org/france-moves-to-break-encrypted-messaging"
-    ]
-  ],
-  [
-    [
       "2026-05-09, 21:46:27",
       "https://news.ycombinator.com/item?id=48078575"
     ],
@@ -57,16 +67,6 @@
     [
       "Local privilege escalation via execve()",
       "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc"
-    ]
-  ],
-  [
-    [
-      "2026-05-09, 20:31:07",
-      "https://news.ycombinator.com/item?id=48077966"
-    ],
-    [
-      "I caught the car",
-      "https://undecidability.net/senior/"
     ]
   ],
   [
@@ -221,12 +221,12 @@
   ],
   [
     [
-      "2026-05-07, 17:11:59",
-      "https://news.ycombinator.com/item?id=48051951"
+      "2026-05-07, 18:03:15",
+      "https://news.ycombinator.com/item?id=48052656"
     ],
     [
-      "OpenAI’s WebRTC problem",
-      "https://moq.dev/blog/webrtc-is-the-problem/"
+      "A construction of the Hat tilings by a Markov partition",
+      "https://www.mathstat.dal.ca/~selinger/hat-partition/"
     ]
   ],
   [
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=48048684"
     ],
     [
-      "Emerich Juettner: The One Dollar Counterfeiter",
+      "The One Dollar Counterfeiter",
       "https://www.amusingplanet.com/2026/05/emerich-juettner-one-dollar.html"
     ]
   ],
@@ -267,16 +267,6 @@
     [
       "Casio S100X Japanese Lacquer Edition (JP Page Only)",
       "https://www.casio.com/jp/basic-calculators/premium/en-s100x-jc1-u/"
-    ]
-  ],
-  [
-    [
-      "2026-05-07, 07:20:55",
-      "https://news.ycombinator.com/item?id=48046436"
-    ],
-    [
-      "Mythical Man Month",
-      "https://martinfowler.com/bliki/MythicalManMonth.html"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "The first microcomputer: The transfluxor-powered Arma Micro Computer from 1962",
       "https://www.righto.com/2024/02/the-first-microcomputer-transfluxor.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-06, 15:15:23",
+      "https://news.ycombinator.com/item?id=48037223"
+    ],
+    [
+      "We see something that works, and then we understand it",
+      "https://lemire.me/blog/2025/12/04/we-see-something-that-works-and-then-we-understand-it/"
     ]
   ]
 ]
