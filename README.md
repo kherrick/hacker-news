@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-05-10, 19:56:05](https://news.ycombinator.com/item?id=48087261) - [SpaceX wants to launch a million satellites](https://www.cbc.ca/news/science/spacex-data-centre-one-million-satellites-9.7117772)
+* [2026-05-10, 21:36:52](https://news.ycombinator.com/item?id=48088343) - [Why modern parents feel more sleep deprived than our ancestors did](https://www.bbc.com/future/article/20260508-parents-in-ancient-times-felt-less-sleep-deprived-what-our-ancestors-did-differently-on-baby-sleep)
+* [2026-05-10, 21:16:58](https://news.ycombinator.com/item?id=48088151) - [Maryland citizens hit with $2B power grid upgrade for out-of-state AI](https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises)
 * [2026-05-10, 17:54:02](https://news.ycombinator.com/item?id=48086190) - [Hardware Attestation as Monopoly Enabler](https://grapheneos.social/@GrapheneOS/116550899908879585)
 * [2026-05-10, 17:43:10](https://news.ycombinator.com/item?id=48086082) - [Incident Report: CVE-2024-YIKES](https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html)
 * [2026-05-10, 17:34:41](https://news.ycombinator.com/item?id=48085993) - [Ask HN: What are you working on? (May 2026)](https://news.ycombinator.com/item?id=48085993)
@@ -18,7 +19,6 @@
 * [2026-05-10, 09:40:33](https://news.ycombinator.com/item?id=48082396) - [Think Linear Algebra (2023)](https://allendowney.github.io/ThinkLinearAlgebra/index.html)
 * [2026-05-10, 06:20:50](https://news.ycombinator.com/item?id=48081469) - [Task Paralysis and AI](https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html)
 * [2026-05-10, 03:01:44](https://news.ycombinator.com/item?id=48080587) - [Show HN: Building a web server in assembly to give my life (a lack of) meaning](https://github.com/imtomt/ymawky)
-* [2026-05-09, 16:28:36](https://news.ycombinator.com/item?id=48076173) - [I’ve banned query strings](https://chrismorgan.info/no-query-strings)
 * [2026-05-09, 14:49:48](https://news.ycombinator.com/item?id=48075429) - [Walking slower? Your ears, not your knees, might be the problem](https://www.wsj.com/health/wellness/hearing-loss-walking-speed-iphone-study-c53c482a)
 * [2026-05-09, 08:37:41](https://news.ycombinator.com/item?id=48073201) - [I returned to AWS and was reminded why I left](http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html)
 * [2026-05-08, 15:46:12](https://news.ycombinator.com/item?id=48064789) - [Lakebase architecture delivers faster Postgres writes](https://www.databricks.com/blog/how-lakebase-architecture-delivers-5x-faster-postgres-writes)
