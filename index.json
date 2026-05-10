@@ -1,22 +1,42 @@
 [
   [
     [
-      "2026-05-09, 22:14:35",
-      "https://news.ycombinator.com/item?id=48078811"
+      "2026-05-10, 03:22:02",
+      "https://news.ycombinator.com/item?id=48080702"
     ],
     [
-      "France Moves to Break Encrypted Messaging",
-      "https://reclaimthenet.org/france-moves-to-break-encrypted-messaging"
+      "Gemini API File Search is now multimodal",
+      "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/"
     ]
   ],
   [
     [
-      "2026-05-09, 21:56:19",
-      "https://news.ycombinator.com/item?id=48078647"
+      "2026-05-10, 03:01:44",
+      "https://news.ycombinator.com/item?id=48080587"
     ],
     [
-      "Getting arrested in Japan",
-      "https://sundaicity.com/blogs/getting-arrested-in-japan"
+      "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
+      "https://github.com/imtomt/ymawky"
+    ]
+  ],
+  [
+    [
+      "2026-05-10, 01:52:55",
+      "https://news.ycombinator.com/item?id=48080221"
+    ],
+    [
+      "Sparse Cholesky Elimination Tree",
+      "https://www.reidatcheson.com/sparse/linear/cholesky/2026/04/09/etree.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-09, 22:14:35",
+      "https://news.ycombinator.com/item?id=48078811"
+    ],
+    [
+      "France moves to break encrypted messaging",
+      "https://reclaimthenet.org/france-moves-to-break-encrypted-messaging"
     ]
   ],
   [
@@ -25,7 +45,7 @@
       "https://news.ycombinator.com/item?id=48078575"
     ],
     [
-      "Rust but Lisp",
+      "Show HN: Rust but Lisp",
       "https://github.com/ThatXliner/rust-but-lisp"
     ]
   ],
@@ -65,7 +85,7 @@
       "https://news.ycombinator.com/item?id=48077126"
     ],
     [
-      "Meta's embrace of A.I. is making its employees miserable",
+      "Meta's embrace of AI is making its employees miserable",
       "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html"
     ]
   ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2026-05-09, 15:01:16",
-      "https://news.ycombinator.com/item?id=48075528"
-    ],
-    [
-      "PipeDream on the Acorn Archimedes",
-      "https://stonetools.ghost.io/pipedream-archimedes/"
-    ]
-  ],
-  [
-    [
       "2026-05-09, 14:40:58",
       "https://news.ycombinator.com/item?id=48075366"
     ],
@@ -147,16 +157,6 @@
     [
       "Internet Archive Switzerland",
       "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/"
-    ]
-  ],
-  [
-    [
-      "2026-05-09, 11:33:07",
-      "https://news.ycombinator.com/item?id=48074087"
-    ],
-    [
-      "Forking the Web",
-      "https://dillo-browser.org/lab/web-fork/"
     ]
   ],
   [
@@ -251,6 +251,26 @@
   ],
   [
     [
+      "2026-05-07, 12:40:35",
+      "https://news.ycombinator.com/item?id=48048684"
+    ],
+    [
+      "Emerich Juettner: The One Dollar Counterfeiter",
+      "https://www.amusingplanet.com/2026/05/emerich-juettner-one-dollar.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-07, 12:09:47",
+      "https://news.ycombinator.com/item?id=48048407"
+    ],
+    [
+      "Casio S100X Japanese Lacquer Edition (JP Page Only)",
+      "https://www.casio.com/jp/basic-calculators/premium/en-s100x-jc1-u/"
+    ]
+  ],
+  [
+    [
       "2026-05-07, 07:20:55",
       "https://news.ycombinator.com/item?id=48046436"
     ],
@@ -277,26 +297,6 @@
     [
       "The first microcomputer: The transfluxor-powered Arma Micro Computer from 1962",
       "https://www.righto.com/2024/02/the-first-microcomputer-transfluxor.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-06, 15:17:44",
-      "https://news.ycombinator.com/item?id=48037243"
-    ],
-    [
-      "America's carpet capital: an empire and its toxic legacy",
-      "https://apnews.com/projects/pfas-forever-stained/"
-    ]
-  ],
-  [
-    [
-      "2026-05-06, 14:00:10",
-      "https://news.ycombinator.com/item?id=48036356"
-    ],
-    [
-      "Random tie knots (2014)",
-      "https://tieknots.how/"
     ]
   ]
 ]
