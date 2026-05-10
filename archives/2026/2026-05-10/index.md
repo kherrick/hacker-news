@@ -4,10 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-05-10](index.md)
 
+* [2026-05-10, 16:07:26](https://news.ycombinator.com/item?id=48085095) - [GitHub Is Sinking](https://dbushell.com/2026/04/29/github-is-sinking/)
+* [2026-05-10, 15:39:53](https://news.ycombinator.com/item?id=48084836) - [Scientists warn Atlantic current at risk of shutting down](https://e360.yale.edu/features/amoc-climate-change)
+* [2026-05-10, 15:22:46](https://news.ycombinator.com/item?id=48084710) - [Chrome's AI features may be hogging 4GB of your computer storage](https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features)
+* [2026-05-10, 15:00:40](https://news.ycombinator.com/item?id=48084547) - [Shunting-Yard Animation](https://somethingorotherwhatever.com/shunting-yard-animation/)
 * [2026-05-10, 14:47:05](https://news.ycombinator.com/item?id=48084432) - [Louis Rossmann tells 3D printer maker Bambu Lab to 'Go (Bleep) yourself'](https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer)
 * [2026-05-10, 14:37:16](https://news.ycombinator.com/item?id=48084350) - [Taxpayers May Be Eligible for Significant Tax Refunds – If They Act by July 10](https://www.taxpayeradvocate.irs.gov/news/nta-blog/tens-of-millions-of-taxpayers-may-be-eligible-for-significant-tax-refunds/2026/04/)
 * [2026-05-10, 14:32:39](https://news.ycombinator.com/item?id=48084315) - [Chindogu: Weird and Useless Japanese Inventions](https://rarehistoricalphotos.com/weird-japanese-inventions/)
 * [2026-05-10, 13:42:00](https://news.ycombinator.com/item?id=48083919) - [Academic Research Skills for Claude Code](https://github.com/Imbad0202/academic-research-skills)
+* [2026-05-10, 12:50:31](https://news.ycombinator.com/item?id=48083580) - [Show HN: An index of indie web/blog indexes](https://theindex.fyi)
 * [2026-05-10, 12:00:11](https://news.ycombinator.com/item?id=48083251) - [9 Mothers (YC P26) Is Hiring](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q)
 * [2026-05-10, 11:26:50](https://news.ycombinator.com/item?id=48083007) - [What's a Mathematician to Do?](https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do)
 * [2026-05-10, 11:22:02](https://news.ycombinator.com/item?id=48082968) - [Space Cadet Pinball on Linux](https://brennan.io/2026/05/09/pinball-and-escrow/)

@@ -23,6 +23,7 @@
 * [2026-05-09, 15:15:39](https://news.ycombinator.com/item?id=48075645) - [The context window has been shattered: Subquadratic debuts a 12M token window](https://thenewstack.io/subquadratic-12-million-context-window/)
 * [2026-05-09, 15:01:16](https://news.ycombinator.com/item?id=48075528) - [PipeDream on the Acorn Archimedes](https://stonetools.ghost.io/pipedream-archimedes/)
 * [2026-05-09, 15:00:10](https://news.ycombinator.com/item?id=48075520) - [First, the FBI Searched Her Home. Then, She Won a Pulitzer.](https://www.nytimes.com/2026/05/05/business/media/hannah-natanson-washington-post-pulitzer.html)
+* [2026-05-09, 14:49:48](https://news.ycombinator.com/item?id=48075429) - [Walking Slower? Why Your Ears, Not Your Knees, Might Be the Problem](https://www.wsj.com/health/wellness/hearing-loss-walking-speed-iphone-study-c53c482a)
 * [2026-05-09, 14:40:58](https://news.ycombinator.com/item?id=48075366) - [Apple is increasing my cortisol levels](https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels)
 * [2026-05-09, 14:38:04](https://news.ycombinator.com/item?id=48075340) - [Show HN: Create flashcards with Space CLI](https://getspace.app/cli)
 * [2026-05-09, 14:18:13](https://news.ycombinator.com/item?id=48075185) - [The FCC Wants Your ID Before You Get a Phone Number](https://reclaimthenet.org/the-fcc-wants-your-id-before-you-get-a-phone-number)
