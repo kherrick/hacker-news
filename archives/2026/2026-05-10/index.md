@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-05-10](index.md)
 
+* [2026-05-10, 12:00:11](https://news.ycombinator.com/item?id=48083251) - [9 Mothers (YC P26) Is Hiring](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q)
+* [2026-05-10, 11:22:02](https://news.ycombinator.com/item?id=48082968) - [Space Cadet Pinball on Linux](https://brennan.io/2026/05/09/pinball-and-escrow/)
 * [2026-05-10, 10:33:06](https://news.ycombinator.com/item?id=48082676) - [Replacing a 3 GB SQLite db with a 10 MB FST (finite state transducer) binary](https://til.andrew-quinn.me/posts/replacing-a-3-gb-sqlite-database-with-a-7-mb-fst-finite-state-trandsucer-binary/)
+* [2026-05-10, 09:40:33](https://news.ycombinator.com/item?id=48082396) - [Think Linear Algebra](https://allendowney.github.io/ThinkLinearAlgebra/index.html)
 * [2026-05-10, 09:27:11](https://news.ycombinator.com/item?id=48082342) - [FreeBSD – A Lesson in Poor Defaults](https://vez.mrsk.me/freebsd-defaults)
 * [2026-05-10, 08:25:55](https://news.ycombinator.com/item?id=48082039) - [Rotten Dot Com](https://www.theparisreview.org/blog/2026/05/06/rotten-dot-com/)
 * [2026-05-10, 08:22:12](https://news.ycombinator.com/item?id=48082021) - [LLMorphism: When humans come to see themselves as language models](https://arxiv.org/abs/2605.05419)
