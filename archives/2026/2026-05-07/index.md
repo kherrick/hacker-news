@@ -43,6 +43,7 @@
 * [2026-05-07, 14:19:55](https://news.ycombinator.com/item?id=48049828) - [The Serial TTL connector we deserve](https://kohlschuetter.github.io/blog/posts/2026/05/07/serial-ttl-connector/)
 * [2026-05-07, 14:15:16](https://news.ycombinator.com/item?id=48049764) - [The Self-Cancelling Subscription](https://predr.ag/blog/the-self-cancelling-subscription/)
 * [2026-05-07, 14:06:10](https://news.ycombinator.com/item?id=48049653) - [The map that keeps Burning Man honest](https://www.not-ship.com/burning-man-moop/)
+* [2026-05-07, 14:00:29](https://news.ycombinator.com/item?id=48049577) - [The River Otter's Remarkable Comeback](https://www.rewildingmag.com/the-river-otters-remarkable-comeback/)
 * [2026-05-07, 13:42:15](https://news.ycombinator.com/item?id=48049343) - [From Buffon's Needle to Buffon's Noodle](https://mbmccoy.dev/posts/buffons-noodle/)
 * [2026-05-07, 13:38:02](https://news.ycombinator.com/item?id=48049289) - [Automating Hermitage to see how transactions differ in MySQL and MariaDB](https://theconsensus.dev/p/2026/05/02/automating-hermitage.html)
 * [2026-05-07, 13:30:04](https://news.ycombinator.com/item?id=48049208) - [Child marriages plunged when girls stayed in school in Nigeria](https://www.nature.com/articles/d41586-026-00796-2)

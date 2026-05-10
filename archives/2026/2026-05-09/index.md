@@ -36,6 +36,7 @@
 * [2026-05-09, 10:12:55](https://news.ycombinator.com/item?id=48073680) - [Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc](https://twitter.com/jarredsumner/status/2053047748191232310)
 * [2026-05-09, 09:14:05](https://news.ycombinator.com/item?id=48073394) - [Killswitch: Per-function short-circuit mitigation primitive](https://lwn.net/ml/all/20260507070547.2268452-1-sashal@kernel.org/)
 * [2026-05-09, 08:44:34](https://news.ycombinator.com/item?id=48073246) - [LLMs Corrupt Your Documents When You Delegate](https://arxiv.org/abs/2604.15597)
+* [2026-05-09, 08:37:41](https://news.ycombinator.com/item?id=48073201) - [I returned to AWS, and was reminded why I left](http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html)
 * [2026-05-09, 07:23:40](https://news.ycombinator.com/item?id=48072720) - [All my clients wanted a carousel, now it's an AI chatbot](https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md)
 * [2026-05-09, 05:52:12](https://news.ycombinator.com/item?id=48072190) - [EU calls VPNs \"a loophole that needs closing\" in age verification push](https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/)
 * [2026-05-09, 04:53:52](https://news.ycombinator.com/item?id=48071940) - [Using Claude Code: The unreasonable effectiveness of HTML](https://twitter.com/trq212/status/2052809885763747935)
