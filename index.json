@@ -1,22 +1,32 @@
 [
   [
     [
+      "2026-05-10, 16:37:04",
+      "https://news.ycombinator.com/item?id=48085384"
+    ],
+    [
+      "Remind HN: Today is Mother's Day, call your moms",
+      "https://news.ycombinator.com/item?id=48085384"
+    ]
+  ],
+  [
+    [
+      "2026-05-10, 16:31:53",
+      "https://news.ycombinator.com/item?id=48085332"
+    ],
+    [
+      "I have seen the dystopian future of elderly care",
+      "https://www.telegraph.co.uk/world-news/2026/05/09/testing-the-japanese-airec-robot-for-elderly-care/"
+    ]
+  ],
+  [
+    [
       "2026-05-10, 16:07:26",
       "https://news.ycombinator.com/item?id=48085095"
     ],
     [
       "GitHub Is Sinking",
       "https://dbushell.com/2026/04/29/github-is-sinking/"
-    ]
-  ],
-  [
-    [
-      "2026-05-10, 15:39:53",
-      "https://news.ycombinator.com/item?id=48084836"
-    ],
-    [
-      "Scientists warn Atlantic current at risk of shutting down",
-      "https://e360.yale.edu/features/amoc-climate-change"
     ]
   ],
   [
@@ -47,16 +57,6 @@
     [
       "Louis Rossmann tells 3D printer maker Bambu Lab to 'Go (Bleep) yourself'",
       "https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer"
-    ]
-  ],
-  [
-    [
-      "2026-05-10, 14:37:16",
-      "https://news.ycombinator.com/item?id=48084350"
-    ],
-    [
-      "Taxpayers May Be Eligible for Significant Tax Refunds – If They Act by July 10",
-      "https://www.taxpayeradvocate.irs.gov/news/nta-blog/tens-of-millions-of-taxpayers-may-be-eligible-for-significant-tax-refunds/2026/04/"
     ]
   ],
   [
@@ -137,16 +137,6 @@
     [
       "Think Linear Algebra (2023)",
       "https://allendowney.github.io/ThinkLinearAlgebra/index.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-10, 08:22:12",
-      "https://news.ycombinator.com/item?id=48082021"
-    ],
-    [
-      "LLMorphism: When humans come to see themselves as language models",
-      "https://arxiv.org/abs/2605.05419"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "A recent experience with ChatGPT 5.5 Pro",
       "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/"
+    ]
+  ],
+  [
+    [
+      "2026-05-08, 15:46:12",
+      "https://news.ycombinator.com/item?id=48064789"
+    ],
+    [
+      "5x perf increase on writes with FPW disabled in Postgres",
+      "https://www.databricks.com/blog/how-lakebase-architecture-delivers-5x-faster-postgres-writes"
     ]
   ],
   [
