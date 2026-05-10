@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=48078647"
     ],
     [
-      "Getting Arrested in Japan",
+      "Getting arrested in Japan",
       "https://sundaicity.com/blogs/getting-arrested-in-japan"
     ]
   ],
@@ -31,12 +31,32 @@
   ],
   [
     [
+      "2026-05-09, 20:31:21",
+      "https://news.ycombinator.com/item?id=48077971"
+    ],
+    [
+      "Local privilege escalation via execve()",
+      "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc"
+    ]
+  ],
+  [
+    [
       "2026-05-09, 20:31:07",
       "https://news.ycombinator.com/item?id=48077966"
     ],
     [
       "I caught the car",
       "https://undecidability.net/senior/"
+    ]
+  ],
+  [
+    [
+      "2026-05-09, 19:09:34",
+      "https://news.ycombinator.com/item?id=48077395"
+    ],
+    [
+      "Surfel-based global illumination on the web",
+      "https://juretriglav.si/surfel-based-global-illumination-on-the-web/"
     ]
   ],
   [
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2026-05-09, 14:11:10",
-      "https://news.ycombinator.com/item?id=48075144"
-    ],
-    [
-      "GrapheneOS fixes Android VPN leak Google refused to patch",
-      "https://cyberinsider.com/grapheneos-fixes-android-vpn-leak-google-refused-to-patch/"
-    ]
-  ],
-  [
-    [
       "2026-05-09, 13:48:32",
       "https://news.ycombinator.com/item?id=48074952"
     ],
@@ -171,12 +181,12 @@
   ],
   [
     [
-      "2026-05-09, 07:23:40",
-      "https://news.ycombinator.com/item?id=48072720"
+      "2026-05-09, 05:52:12",
+      "https://news.ycombinator.com/item?id=48072190"
     ],
     [
-      "All my clients wanted a carousel, now it's an AI chatbot",
-      "https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md"
+      "EU Parliamentary Research Service calls VPNs \"a loophole that needs closing\"",
+      "https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/"
     ]
   ],
   [
@@ -211,32 +221,12 @@
   ],
   [
     [
-      "2026-05-08, 18:45:58",
-      "https://news.ycombinator.com/item?id=48067119"
-    ],
-    [
-      "Google broke reCAPTCHA for de-googled Android users",
-      "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users"
-    ]
-  ],
-  [
-    [
       "2026-05-07, 17:11:59",
       "https://news.ycombinator.com/item?id=48051951"
     ],
     [
       "OpenAI’s WebRTC problem",
       "https://moq.dev/blog/webrtc-is-the-problem/"
-    ]
-  ],
-  [
-    [
-      "2026-05-07, 14:25:16",
-      "https://news.ycombinator.com/item?id=48049890"
-    ],
-    [
-      "The ROKR wooden typewriter: a closer look",
-      "http://writingball.blogspot.com/2026/05/the-rokr-wooden-typewriter-closer-look.html"
     ]
   ],
   [
@@ -261,16 +251,6 @@
   ],
   [
     [
-      "2026-05-07, 12:39:45",
-      "https://news.ycombinator.com/item?id=48048679"
-    ],
-    [
-      "How LEDs are made (2014)",
-      "https://learn.sparkfun.com/tutorials/how-leds-are-made/all"
-    ]
-  ],
-  [
-    [
       "2026-05-07, 07:20:55",
       "https://news.ycombinator.com/item?id=48046436"
     ],
@@ -281,12 +261,22 @@
   ],
   [
     [
-      "2026-05-06, 15:41:06",
-      "https://news.ycombinator.com/item?id=48037517"
+      "2026-05-06, 17:52:29",
+      "https://news.ycombinator.com/item?id=48039249"
     ],
     [
-      "What causes lightning? The answer keeps getting more interesting",
-      "https://www.quantamagazine.org/what-causes-lightning-the-answer-keeps-getting-more-interesting-20260506/"
+      "I'm writing a history of Visual Basic, Chapter 1 is up",
+      "https://evilgeniuslabs.ca/blog/visual-basic-history-chapter-1-launch"
+    ]
+  ],
+  [
+    [
+      "2026-05-06, 17:00:03",
+      "https://news.ycombinator.com/item?id=48038573"
+    ],
+    [
+      "The first microcomputer: The transfluxor-powered Arma Micro Computer from 1962",
+      "https://www.righto.com/2024/02/the-first-microcomputer-transfluxor.html"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "America's carpet capital: an empire and its toxic legacy",
       "https://apnews.com/projects/pfas-forever-stained/"
+    ]
+  ],
+  [
+    [
+      "2026-05-06, 14:00:10",
+      "https://news.ycombinator.com/item?id=48036356"
+    ],
+    [
+      "Random tie knots (2014)",
+      "https://tieknots.how/"
     ]
   ]
 ]
