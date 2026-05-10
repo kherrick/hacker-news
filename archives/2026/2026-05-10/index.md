@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-10](index.md)
 
+* [2026-05-10, 10:33:06](https://news.ycombinator.com/item?id=48082676) - [Replacing a 3 GB SQLite db with a 10 MB FST (finite state transducer) binary](https://til.andrew-quinn.me/posts/replacing-a-3-gb-sqlite-database-with-a-7-mb-fst-finite-state-trandsucer-binary/)
+* [2026-05-10, 09:27:11](https://news.ycombinator.com/item?id=48082342) - [FreeBSD – A Lesson in Poor Defaults](https://vez.mrsk.me/freebsd-defaults)
 * [2026-05-10, 08:25:55](https://news.ycombinator.com/item?id=48082039) - [Rotten Dot Com](https://www.theparisreview.org/blog/2026/05/06/rotten-dot-com/)
 * [2026-05-10, 08:22:12](https://news.ycombinator.com/item?id=48082021) - [LLMorphism: When humans come to see themselves as language models](https://arxiv.org/abs/2605.05419)
 * [2026-05-10, 08:03:15](https://news.ycombinator.com/item?id=48081942) - [Gen Z Resentment Toward AI Grows as Adoption Stagnates and Workplace Fears Mount](https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount)
