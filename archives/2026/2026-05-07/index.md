@@ -18,6 +18,7 @@
 * [2026-05-07, 19:36:45](https://news.ycombinator.com/item?id=48053816) - [Mozilla says 271 vulnerabilities found by Mythos and \"almost no false positives\"](https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/)
 * [2026-05-07, 19:32:33](https://news.ycombinator.com/item?id=48053770) - [Creating for a niche](https://www.davesnider.com/posts/working-in-a-niche)
 * [2026-05-07, 19:21:32](https://news.ycombinator.com/item?id=48053623) - [Dirtyfrag: Universal Linux LPE](https://www.openwall.com/lists/oss-security/2026/05/07/8)
+* [2026-05-07, 19:17:22](https://news.ycombinator.com/item?id=48053570) - [Decoding raw digital photos in Linux (1997)](https://dechifro.org/dcraw/)
 * [2026-05-07, 19:04:30](https://news.ycombinator.com/item?id=48053435) - [Colored Shadow Penumbra](https://chosker.github.io/blog/colored-shadow-penumbra)
 * [2026-05-07, 18:46:25](https://news.ycombinator.com/item?id=48053203) - [AI Slop Is Killing Online Communities](https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/)
 * [2026-05-07, 18:03:15](https://news.ycombinator.com/item?id=48052656) - [A construction of the Hat tilings by a Markov partition](https://www.mathstat.dal.ca/~selinger/hat-partition/)

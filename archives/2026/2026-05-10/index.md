@@ -6,6 +6,7 @@
 
 * [2026-05-10, 17:54:02](https://news.ycombinator.com/item?id=48086190) - [Hardware Attestation as Monopoly Enabler](https://grapheneos.social/@GrapheneOS/116550899908879585)
 * [2026-05-10, 17:43:10](https://news.ycombinator.com/item?id=48086082) - [Incident CVE-2024-Yikes](https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html)
+* [2026-05-10, 17:19:28](https://news.ycombinator.com/item?id=48085821) - [Local AI needs to be the norm](https://unix.foo/posts/local-ai-needs-to-be-norm/)
 * [2026-05-10, 17:15:10](https://news.ycombinator.com/item?id=48085782) - [Tracesofhumanity.org by Joanna Rutkowska](https://tracesofhumanity.org/hello-world/)
 * [2026-05-10, 16:37:04](https://news.ycombinator.com/item?id=48085384) - [Remind HN: Today is Mother's Day, call your moms](https://news.ycombinator.com/item?id=48085384)
 * [2026-05-10, 16:31:53](https://news.ycombinator.com/item?id=48085332) - [I have seen the dystopian future of elderly care](https://www.telegraph.co.uk/world-news/2026/05/09/testing-the-japanese-airec-robot-for-elderly-care/)
