@@ -1,22 +1,42 @@
 [
   [
     [
-      "2026-05-10, 16:37:04",
-      "https://news.ycombinator.com/item?id=48085384"
+      "2026-05-10, 17:54:02",
+      "https://news.ycombinator.com/item?id=48086190"
     ],
     [
-      "Remind HN: Today is Mother's Day, call your moms",
-      "https://news.ycombinator.com/item?id=48085384"
+      "Hardware Attestation as Monopoly Enabler",
+      "https://grapheneos.social/@GrapheneOS/116550899908879585"
     ]
   ],
   [
     [
-      "2026-05-10, 16:31:53",
-      "https://news.ycombinator.com/item?id=48085332"
+      "2026-05-10, 17:43:10",
+      "https://news.ycombinator.com/item?id=48086082"
     ],
     [
-      "I have seen the dystopian future of elderly care",
-      "https://www.telegraph.co.uk/world-news/2026/05/09/testing-the-japanese-airec-robot-for-elderly-care/"
+      "Incident CVE-2024-Yikes",
+      "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-10, 17:15:10",
+      "https://news.ycombinator.com/item?id=48085782"
+    ],
+    [
+      "Tracesofhumanity.org by Joanna Rutkowska",
+      "https://tracesofhumanity.org/hello-world/"
+    ]
+  ],
+  [
+    [
+      "2026-05-10, 16:31:51",
+      "https://news.ycombinator.com/item?id=48085330"
+    ],
+    [
+      "Spain just became one of Europe's cheapest power markets. Here is how",
+      "https://janrosenow.substack.com/p/spain-just-became-one-of-europes"
     ]
   ],
   [
@@ -25,8 +45,18 @@
       "https://news.ycombinator.com/item?id=48085095"
     ],
     [
-      "GitHub Is Sinking",
+      "GitHub is sinking",
       "https://dbushell.com/2026/04/29/github-is-sinking/"
+    ]
+  ],
+  [
+    [
+      "2026-05-10, 16:03:37",
+      "https://news.ycombinator.com/item?id=48085055"
+    ],
+    [
+      "The Locals Don't Know",
+      "https://www.quarter--mile.com/The-Locals-Dont-Know"
     ]
   ],
   [
@@ -55,18 +85,8 @@
       "https://news.ycombinator.com/item?id=48084432"
     ],
     [
-      "Louis Rossmann tells 3D printer maker Bambu Lab to 'Go (Bleep) yourself'",
+      "Louis Rossmann offers to pay legal fees for a threatened OrcaSlicer developer",
       "https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer"
-    ]
-  ],
-  [
-    [
-      "2026-05-10, 14:32:39",
-      "https://news.ycombinator.com/item?id=48084315"
-    ],
-    [
-      "Chindogu: Weird and Useless Japanese Inventions",
-      "https://rarehistoricalphotos.com/weird-japanese-inventions/"
     ]
   ],
   [
@@ -121,22 +141,22 @@
   ],
   [
     [
-      "2026-05-10, 10:33:06",
-      "https://news.ycombinator.com/item?id=48082676"
-    ],
-    [
-      "Replacing a 3 GB SQLite db with a 10 MB FST (finite state transducer) binary",
-      "https://til.andrew-quinn.me/posts/replacing-a-3-gb-sqlite-database-with-a-7-mb-fst-finite-state-trandsucer-binary/"
-    ]
-  ],
-  [
-    [
       "2026-05-10, 09:40:33",
       "https://news.ycombinator.com/item?id=48082396"
     ],
     [
       "Think Linear Algebra (2023)",
       "https://allendowney.github.io/ThinkLinearAlgebra/index.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-10, 08:25:55",
+      "https://news.ycombinator.com/item?id=48082039"
+    ],
+    [
+      "Rotten Dot Com",
+      "https://www.theparisreview.org/blog/2026/05/06/rotten-dot-com/"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2026-05-09, 14:40:58",
-      "https://news.ycombinator.com/item?id=48075366"
-    ],
-    [
-      "Distributing Mac software is increasing my cortisol levels",
-      "https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels"
-    ]
-  ],
-  [
-    [
       "2026-05-09, 12:00:30",
       "https://news.ycombinator.com/item?id=48074265"
     ],
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2026-05-09, 08:44:34",
-      "https://news.ycombinator.com/item?id=48073246"
-    ],
-    [
-      "LLMs corrupt your documents when you delegate",
-      "https://arxiv.org/abs/2604.15597"
-    ]
-  ],
-  [
-    [
       "2026-05-09, 08:37:41",
       "https://news.ycombinator.com/item?id=48073201"
     ],
@@ -231,22 +231,22 @@
   ],
   [
     [
-      "2026-05-09, 02:41:42",
-      "https://news.ycombinator.com/item?id=48071262"
-    ],
-    [
-      "A recent experience with ChatGPT 5.5 Pro",
-      "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/"
-    ]
-  ],
-  [
-    [
       "2026-05-08, 15:46:12",
       "https://news.ycombinator.com/item?id=48064789"
     ],
     [
       "5x perf increase on writes with FPW disabled in Postgres",
       "https://www.databricks.com/blog/how-lakebase-architecture-delivers-5x-faster-postgres-writes"
+    ]
+  ],
+  [
+    [
+      "2026-05-08, 11:26:38",
+      "https://news.ycombinator.com/item?id=48061602"
+    ],
+    [
+      "Stop MitM on the first SSH connection, on any VPS or cloud provider",
+      "https://www.joachimschipper.nl/Stop%20MITM%20on%20the%20first%20SSH%20connection,%20on%20any%20VPS%20or%20cloud%20provider.html"
     ]
   ],
   [
