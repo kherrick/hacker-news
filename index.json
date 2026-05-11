@@ -1,22 +1,42 @@
 [
   [
     [
+      "2026-05-11, 06:39:08",
+      "https://news.ycombinator.com/item?id=48091737"
+    ],
+    [
+      "Mythos Finds a Curl Vulnerability",
+      "https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/"
+    ]
+  ],
+  [
+    [
+      "2026-05-11, 04:34:40",
+      "https://news.ycombinator.com/item?id=48091085"
+    ],
+    [
+      "7 lines of code, 3 minutes: Implement a programming language (2010)",
+      "https://matt.might.net/articles/implementing-a-programming-language/"
+    ]
+  ],
+  [
+    [
       "2026-05-11, 02:43:34",
       "https://news.ycombinator.com/item?id=48090521"
     ],
     [
-      "The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene",
+      "The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene (2024)",
       "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html"
     ]
   ],
   [
     [
-      "2026-05-11, 02:18:35",
-      "https://news.ycombinator.com/item?id=48090349"
+      "2026-05-11, 02:06:29",
+      "https://news.ycombinator.com/item?id=48090276"
     ],
     [
-      "BSides Austin Is on Hold",
-      "https://bsidesaustin.com/"
+      "Show HN: adamsreview – better multi-agent PR reviews for Claude Code",
+      "https://github.com/adamjgmiller/adamsreview"
     ]
   ],
   [
@@ -37,16 +57,6 @@
     [
       "An AI coding agent, used to write code, needs to reduce your maintenance costs",
       "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs"
-    ]
-  ],
-  [
-    [
-      "2026-05-10, 23:36:48",
-      "https://news.ycombinator.com/item?id=48089263"
-    ],
-    [
-      "PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs",
-      "https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656"
     ]
   ],
   [
@@ -151,26 +161,6 @@
   ],
   [
     [
-      "2026-05-10, 11:26:50",
-      "https://news.ycombinator.com/item?id=48083007"
-    ],
-    [
-      "What's a mathematician to do? (2010)",
-      "https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do"
-    ]
-  ],
-  [
-    [
-      "2026-05-10, 09:40:33",
-      "https://news.ycombinator.com/item?id=48082396"
-    ],
-    [
-      "Think Linear Algebra (2023)",
-      "https://allendowney.github.io/ThinkLinearAlgebra/index.html"
-    ]
-  ],
-  [
-    [
       "2026-05-10, 06:20:50",
       "https://news.ycombinator.com/item?id=48081469"
     ],
@@ -221,22 +211,12 @@
   ],
   [
     [
-      "2026-05-08, 17:15:07",
-      "https://news.ycombinator.com/item?id=48066044"
+      "2026-05-08, 18:21:55",
+      "https://news.ycombinator.com/item?id=48066872"
     ],
     [
-      "Conway's Law and Cross-Hatching",
-      "https://willmanning.com/writing/conways-law-and-cross-hatching"
-    ]
-  ],
-  [
-    [
-      "2026-05-08, 15:46:12",
-      "https://news.ycombinator.com/item?id=48064789"
-    ],
-    [
-      "Lakebase architecture delivers faster Postgres writes",
-      "https://www.databricks.com/blog/how-lakebase-architecture-delivers-5x-faster-postgres-writes"
+      "Ice Cream Blending (1965) [pdf]",
+      "https://bitsavers.org/pdf/ibm/generalInfo/E20-0156-0_Linear_Programming_-_Ice_Cream_Blending.pdf"
     ]
   ],
   [
@@ -271,6 +251,16 @@
   ],
   [
     [
+      "2026-05-08, 00:55:25",
+      "https://news.ycombinator.com/item?id=48057144"
+    ],
+    [
+      "Seeing Birdsong",
+      "https://www.lucioarese.net/seeing-birdsong/"
+    ]
+  ],
+  [
+    [
       "2026-05-07, 23:49:51",
       "https://news.ycombinator.com/item?id=48056639"
     ],
@@ -287,6 +277,16 @@
     [
       "First tunnel element of the Fehmarnbelt Tunnel immersed",
       "https://www.arup.com/en-us/news/first-fehmarnbelt-tunnel-element-lowered/"
+    ]
+  ],
+  [
+    [
+      "2026-05-07, 13:51:14",
+      "https://news.ycombinator.com/item?id=48049460"
+    ],
+    [
+      "Gode Cookery – Authentic Medieval Recipes",
+      "http://www.godecookery.com/godeboke/godeboke.htm"
     ]
   ],
   [
