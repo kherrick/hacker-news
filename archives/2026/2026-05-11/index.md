@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-05-11](index.md)
 
+* [2026-05-11, 16:07:52](https://news.ycombinator.com/item?id=48096870) - [Why we lose our friends as we age](https://www.theatlantic.com/newsletters/archive/2023/02/friendship-aging/673026/)
+* [2026-05-11, 13:10:25](https://news.ycombinator.com/item?id=48094521) - [Scaffold a 1990s Geocities-themed static website](https://pypi.org/project/create-geocities-app/)
 * [2026-05-11, 11:07:30](https://news.ycombinator.com/item?id=48093468) - [Organized Dogmatism Controls the Message about Gender Bias in the Academy](https://journalofcontroversialideas.org/article/6/1/313)
 * [2026-05-11, 11:05:04](https://news.ycombinator.com/item?id=48093446) - [I Work in Hollywood. Everyone Who Used to Make TV Is Now Training AI](https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/)
 * [2026-05-11, 10:13:04](https://news.ycombinator.com/item?id=48093100) - [Ratty – A terminal emulator with inline 3D graphics](https://ratty-term.org/)
 * [2026-05-11, 10:04:47](https://news.ycombinator.com/item?id=48093043) - [All Those A.I. Note Takers? They're Making Lawyers Nervous](https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html)
 * [2026-05-11, 08:16:32](https://news.ycombinator.com/item?id=48092367) - [The Adventure Family Tree](https://mipmip.org/advfamily/advfamily.html)
+* [2026-05-11, 07:26:54](https://news.ycombinator.com/item?id=48092028) - [Gmail registration now requires scanning a QR code and sending a text message](https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082)
 * [2026-05-11, 06:39:08](https://news.ycombinator.com/item?id=48091737) - [Mythos Finds a Curl Vulnerability](https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/)
 * [2026-05-11, 04:34:40](https://news.ycombinator.com/item?id=48091085) - [7 lines of code, 3 minutes: Implement a programming language (2010)](https://matt.might.net/articles/implementing-a-programming-language/)
 * [2026-05-11, 02:43:34](https://news.ycombinator.com/item?id=48090521) - [The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene](https://www.openculture.com/2024/10/the-greatest-shot-in-television.html)
