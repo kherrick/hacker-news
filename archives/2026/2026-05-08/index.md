@@ -6,6 +6,7 @@
 
 * [2026-05-08, 23:37:55](https://news.ycombinator.com/item?id=48070115) - [Tesla Model Y Passes NHTSA's New 'Advanced Driver Assistance System' Tests](https://www.nhtsa.gov/press-releases/tesla-model-y-first-vehicle-pass-nhtsa-new-advanced-driver-assistance-system-tests)
 * [2026-05-08, 23:26:49](https://news.ycombinator.com/item?id=48070022) - [Show HN: CADara – I made an open-source in-browser CAD](https://cadara.app)
+* [2026-05-08, 22:47:06](https://news.ycombinator.com/item?id=48069685) - [The Boston Library Where You Still Can Borrow a Giant Puppet](https://binj.news/2026/05/06/the-boston-library-where-you-still-can-borrow-a-giant-puppet/)
 * [2026-05-08, 22:06:19](https://news.ycombinator.com/item?id=48069354) - [Judge rules DOGE cancellation of humanities grants was unconstitutional](https://apnews.com/article/trump-doge-humanities-funding-cuts-dda1383436c41be08da3bbf7cc08818e)
 * [2026-05-08, 22:00:22](https://news.ycombinator.com/item?id=48069313) - [Compound drivers of Antarctic sea ice loss and Southern Ocean destratification](https://www.science.org/doi/10.1126/sciadv.aeb0166)
 * [2026-05-08, 21:47:47](https://news.ycombinator.com/item?id=48069192) - [Meta Shuts Down End-to-End Encryption for Instagram Messaging](https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging)
@@ -45,6 +46,7 @@
 * [2026-05-08, 13:56:10](https://news.ycombinator.com/item?id=48063199) - [Google Cloud Fraud Defence is just WEI repackaged](https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/)
 * [2026-05-08, 13:39:26](https://news.ycombinator.com/item?id=48062977) - [Building a web server in aarch64 assembly to give my life (a lack of) meaning](https://imtomt.github.io/ymawky/)
 * [2026-05-08, 13:22:33](https://news.ycombinator.com/item?id=48062745) - [Podman rootless containers and the Copy Fail exploit](https://garrido.io/notes/podman-rootless-containers-copy-fail/)
+* [2026-05-08, 13:15:14](https://news.ycombinator.com/item?id=48062646) - [Holding Community Space](https://supernuclear.substack.com/p/building-a-space-people-never-want)
 * [2026-05-08, 13:12:41](https://news.ycombinator.com/item?id=48062606) - [Human typing habits and token counts](https://pankajpipada.com/posts/2026-05-08-human-habits-tokens/)
 * [2026-05-08, 13:06:51](https://news.ycombinator.com/item?id=48062530) - [UFO Release 1: Presidential Unsealing and Reporting System for UAP Encounters](https://www.war.gov/UFO/#release)
 * [2026-05-08, 12:37:05](https://news.ycombinator.com/item?id=48062178) - [A web page that shows you everything the browser told it without asking](https://sinceyouarrived.world/taken)

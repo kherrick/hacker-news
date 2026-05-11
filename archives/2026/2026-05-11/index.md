@@ -4,7 +4,16 @@
 
 ### [Archives](../../index.md) for [2026-05-11](index.md)
 
+* [2026-05-11, 17:43:12](https://news.ycombinator.com/item?id=48098122) - [Bild AI (YC W25) Is Hiring Founding Product Engineers](https://bild.ai/jobs)
+* [2026-05-11, 17:18:11](https://news.ycombinator.com/item?id=48097796) - [Microsoft Israel chief leaves amid ethical controversy](https://en.globes.co.il/en/article-microsoft-israel-chief-leaves-amid-ethical-controversy-1001542602)
+* [2026-05-11, 16:22:31](https://news.ycombinator.com/item?id=48097078) - [Interfaze: A new model architecture built for high accuracy at scale](https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale)
 * [2026-05-11, 16:07:52](https://news.ycombinator.com/item?id=48096870) - [Why we lose our friends as we age](https://www.theatlantic.com/newsletters/archive/2023/02/friendship-aging/673026/)
+* [2026-05-11, 16:05:50](https://news.ycombinator.com/item?id=48096842) - [Show HN: TikTok but for Scientific Papers](https://andreaturchet.github.io/website/index.html)
+* [2026-05-11, 15:55:07](https://news.ycombinator.com/item?id=48096692) - [CUDA-oxide: Nvidia's official Rust to CUDA compiler](https://nvlabs.github.io/cuda-oxide/index.html)
+* [2026-05-11, 15:53:23](https://news.ycombinator.com/item?id=48096674) - [Students Boo Commencement Speaker After She Calls AI Next Industrial Revolution](https://www.404media.co/ucf-ai-commencement-speaker-booed/)
+* [2026-05-11, 15:39:37](https://news.ycombinator.com/item?id=48096471) - [Should you leave red herrings about yourself online?](https://blog.alcazarsec.com/posts/should-you-leave-red-herrings-about-yourself-online)
+* [2026-05-11, 14:56:41](https://news.ycombinator.com/item?id=48095854) - [AI-powered hacking has exploded into industrial-scale threat, Google says](https://www.theguardian.com/technology/2026/may/11/ai-powered-hacking-industrial-scale-threat-three-months-google)
+* [2026-05-11, 14:34:08](https://news.ycombinator.com/item?id=48095550) - [Software engineering may no longer be a lifetime career](https://www.seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/)
 * [2026-05-11, 13:10:25](https://news.ycombinator.com/item?id=48094521) - [Scaffold a 1990s Geocities-themed static website](https://pypi.org/project/create-geocities-app/)
 * [2026-05-11, 11:07:30](https://news.ycombinator.com/item?id=48093468) - [Organized Dogmatism Controls the Message about Gender Bias in the Academy](https://journalofcontroversialideas.org/article/6/1/313)
 * [2026-05-11, 11:05:04](https://news.ycombinator.com/item?id=48093446) - [I Work in Hollywood. Everyone Who Used to Make TV Is Now Training AI](https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/)
