@@ -31,6 +31,7 @@
 * [2026-05-07, 17:06:00](https://news.ycombinator.com/item?id=48051873) - [California leaders report four to six weeks worth of gasoline and diesel supply](https://kmph.com/news/local/california-leaders-report-four-to-six-weeks-worth-of-gasoline-and-diesel-in-supply)
 * [2026-05-07, 17:00:21](https://news.ycombinator.com/item?id=48051804) - [Bubbles Are Really Evil](https://pluralistic.net/2026/05/07/dump-the-pumpers/)
 * [2026-05-07, 16:43:35](https://news.ycombinator.com/item?id=48051562) - [Agents need control flow, not more prompts](https://bsuh.bearblog.dev/agents-need-control-flow/)
+* [2026-05-07, 16:43:11](https://news.ycombinator.com/item?id=48051555) - [The rise and fall of snake oil](https://www.historytoday.com/archive/history-matters/rise-and-fall-snake-oil)
 * [2026-05-07, 16:05:45](https://news.ycombinator.com/item?id=48051080) - [Authorities say Flock cameras' data allegedly used for immigration enforcement](https://www.ohio.news/stories/dayton-authorities-say-that-flock-cameras-data-allegedly-used-for-immigration-enforcement/)
 * [2026-05-07, 16:05:33](https://news.ycombinator.com/item?id=48051079) - [Hardening Firefox with Claude Mythos Preview](https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/)
 * [2026-05-07, 16:01:24](https://news.ycombinator.com/item?id=48051025) - [I switched from Mac to a Lenovo Chromebook](https://blog.johnozbay.com/i-left-apples-ecosystem-for-a-lenovo-chromebook-and-you-can-too.html)

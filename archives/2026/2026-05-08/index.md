@@ -60,6 +60,7 @@
 * [2026-05-08, 09:55:37](https://news.ycombinator.com/item?id=48060918) - [GeoJSON](https://geojson.org/)
 * [2026-05-08, 08:00:44](https://news.ycombinator.com/item?id=48060077) - [Nullsoft, 1997-2004 AOL kills off the last maverick tech company (2004)](https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html)
 * [2026-05-08, 07:57:14](https://news.ycombinator.com/item?id=48060054) - [Ask HN: We just had an actual UUID v4 collision...](https://news.ycombinator.com/item?id=48060054)
+* [2026-05-08, 07:26:37](https://news.ycombinator.com/item?id=48059831) - [I hate soldering existentially](https://user8.bearblog.dev/rant/)
 * [2026-05-08, 07:18:24](https://news.ycombinator.com/item?id=48059761) - [Phel v0.36.0 – Lisp on PHP, now with numeric tower and first-class Vars](https://github.com/phel-lang/phel-lang/releases/tag/v0.36.0)
 * [2026-05-08, 07:04:24](https://news.ycombinator.com/item?id=48059662) - [ClojureScript Gets Async/Await](https://clojurescript.org/news/2026-05-07-release)
 * [2026-05-08, 07:00:25](https://news.ycombinator.com/item?id=48059633) - [QBE – Compiler Back End](https://c9x.me/compile/)

@@ -4,8 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-05-11](index.md)
 
+* [2026-05-11, 21:04:10](https://news.ycombinator.com/item?id=48100662) - [I let AI build a tool to help me figure out what was waking me up at night](https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/)
+* [2026-05-11, 20:51:57](https://news.ycombinator.com/item?id=48100500) - [GitLab Announces Workforce Reduction and End of Their CREDIT Values](https://about.gitlab.com/blog/gitlab-act-2/)
+* [2026-05-11, 20:26:17](https://news.ycombinator.com/item?id=48100227) - [Show HN: E2a – Open-source email gateway for AI agents](https://github.com/Mnexa-AI/e2a)
+* [2026-05-11, 20:23:25](https://news.ycombinator.com/item?id=48100192) - [Show HN: OpenGravity – A zero-install, BYOK vanilla JS clone of Antigravity](https://github.com/ab-613/opengravity)
+* [2026-05-11, 19:49:39](https://news.ycombinator.com/item?id=48099790) - [Linux Terminal Memory Usage](https://gilesorr.com/blog/linux-terminal-memory-usage.html)
 * [2026-05-11, 19:38:10](https://news.ycombinator.com/item?id=48099665) - [Red Hot Chili Peppers sell music catalogue for $300M](https://guitar.com/news/industry-news/red-hot-chili-peppers-sell-music-catalogue/)
 * [2026-05-11, 19:33:31](https://news.ycombinator.com/item?id=48099616) - [Library for fast mapping of Java records to native memory](https://github.com/mamba-studio/TypedMemory)
+* [2026-05-11, 18:12:38](https://news.ycombinator.com/item?id=48098537) - [Can Someone Please Explain Whether Cloudflare Blackmailed Canonical?](https://www.flyingpenguin.com/can-someone-please-explain-whether-cloudflare-blackmailed-canonical/)
 * [2026-05-11, 17:53:08](https://news.ycombinator.com/item?id=48098261) - [UCLA discovers first stroke rehabilitation drug to repair brain damage](https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage)
 * [2026-05-11, 17:43:12](https://news.ycombinator.com/item?id=48098122) - [Bild AI (YC W25) Is Hiring Founding Product Engineers](https://bild.ai/jobs)
 * [2026-05-11, 17:18:11](https://news.ycombinator.com/item?id=48097796) - [Microsoft Israel chief leaves amid ethical controversy](https://en.globes.co.il/en/article-microsoft-israel-chief-leaves-amid-ethical-controversy-1001542602)
@@ -17,6 +23,7 @@
 * [2026-05-11, 15:39:37](https://news.ycombinator.com/item?id=48096471) - [Should you leave red herrings about yourself online?](https://blog.alcazarsec.com/posts/should-you-leave-red-herrings-about-yourself-online)
 * [2026-05-11, 14:56:41](https://news.ycombinator.com/item?id=48095854) - [AI-powered hacking has exploded into industrial-scale threat, Google says](https://www.theguardian.com/technology/2026/may/11/ai-powered-hacking-industrial-scale-threat-three-months-google)
 * [2026-05-11, 14:34:08](https://news.ycombinator.com/item?id=48095550) - [Software engineering may no longer be a lifetime career](https://www.seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/)
+* [2026-05-11, 13:20:14](https://news.ycombinator.com/item?id=48094641) - [Google says criminal hackers used AI to find a major software flaw](https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html)
 * [2026-05-11, 13:10:25](https://news.ycombinator.com/item?id=48094521) - [Scaffold a 1990s Geocities-themed static website](https://pypi.org/project/create-geocities-app/)
 * [2026-05-11, 11:07:30](https://news.ycombinator.com/item?id=48093468) - [Organized Dogmatism Controls the Message about Gender Bias in the Academy](https://journalofcontroversialideas.org/article/6/1/313)
 * [2026-05-11, 11:05:04](https://news.ycombinator.com/item?id=48093446) - [I Work in Hollywood. Everyone Who Used to Make TV Is Now Training AI](https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/)
