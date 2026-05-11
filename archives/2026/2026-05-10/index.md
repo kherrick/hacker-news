@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-05-10](index.md)
 
+* [2026-05-10, 23:39:55](https://news.ycombinator.com/item?id=48089289) - [An AI coding agent, used to write code, needs to reduce your maintenance costs](https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs)
 * [2026-05-10, 23:36:48](https://news.ycombinator.com/item?id=48089263) - [PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs](https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656)
 * [2026-05-10, 23:09:10](https://news.ycombinator.com/item?id=48089091) - [Running local models on an M4 with 24GB memory](https://jola.dev/posts/running-local-models-on-m4)
+* [2026-05-10, 23:02:31](https://news.ycombinator.com/item?id=48089049) - [How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?](https://dunkels.com/adam/claude-user-space-ip-stack-ping/)
 * [2026-05-10, 22:02:43](https://news.ycombinator.com/item?id=48088576) - [Obsidian plugin was abused to deploy a remote access trojan](https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/)
 * [2026-05-10, 21:49:59](https://news.ycombinator.com/item?id=48088459) - [Plex's price hikes prove I was right to switch to Jellyfin](https://www.androidauthority.com/plex-price-hikes-get-jellyfin-3663600/)
 * [2026-05-10, 21:36:52](https://news.ycombinator.com/item?id=48088343) - [Why modern parents feel more sleep deprived than our ancestors did](https://www.bbc.com/future/article/20260508-parents-in-ancient-times-felt-less-sleep-deprived-what-our-ancestors-did-differently-on-baby-sleep)
