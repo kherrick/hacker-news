@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-05-11](index.md)
 
+* [2026-05-11, 19:38:10](https://news.ycombinator.com/item?id=48099665) - [Red Hot Chili Peppers sell music catalogue for $300M](https://guitar.com/news/industry-news/red-hot-chili-peppers-sell-music-catalogue/)
+* [2026-05-11, 19:33:31](https://news.ycombinator.com/item?id=48099616) - [Library for fast mapping of Java records to native memory](https://github.com/mamba-studio/TypedMemory)
+* [2026-05-11, 17:53:08](https://news.ycombinator.com/item?id=48098261) - [UCLA discovers first stroke rehabilitation drug to repair brain damage](https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage)
 * [2026-05-11, 17:43:12](https://news.ycombinator.com/item?id=48098122) - [Bild AI (YC W25) Is Hiring Founding Product Engineers](https://bild.ai/jobs)
 * [2026-05-11, 17:18:11](https://news.ycombinator.com/item?id=48097796) - [Microsoft Israel chief leaves amid ethical controversy](https://en.globes.co.il/en/article-microsoft-israel-chief-leaves-amid-ethical-controversy-1001542602)
 * [2026-05-11, 16:22:31](https://news.ycombinator.com/item?id=48097078) - [Interfaze: A new model architecture built for high accuracy at scale](https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale)
