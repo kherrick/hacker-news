@@ -129,31 +129,201 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="48099665">
+        <section id="48100662">
           <h3>
             <a
               class="item"
-              href="https://guitar.com/news/industry-news/red-hot-chili-peppers-sell-music-catalogue/"
-              >Red Hot Chili Peppers sell music catalogue for $300M</a
+              href="https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/"
+              >I let AI build a tool to help me figure out what was waking me up
+              at night</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-05-11 @ 19:38:10</span
+              <span>2026-05-11 @ 21:04:10</span
               ><span class="points-container"
-                >Points: <span class="points">47</span></span
+                >Points: <span class="points">45</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48099665"
+                ><a href="https://news.ycombinator.com/item?id=48100662"
                   >Comments</a
-                ><span class="descendants">: 42</span></span
+                ><span class="descendants">: 45</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48100500">
+          <h3>
+            <a class="item" href="https://about.gitlab.com/blog/gitlab-act-2/"
+              >GitLab Announces Workforce Reduction and End of Their CREDIT
+              Values</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-05-11 @ 20:51:57</span
+              ><span class="points-container"
+                >Points: <span class="points">142</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48100500"
+                  >Comments</a
+                ><span class="descendants">: 91</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48100227">
+          <h3>
+            <a class="item" href="https://github.com/Mnexa-AI/e2a"
+              >Show HN: E2a – Open-source email gateway for AI agents</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-05-11 @ 20:26:17</span
+              ><span class="points-container"
+                >Points: <span class="points">11</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48100227"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
               >
             </h4>
             <div class="text">
-              <a
-                href="https://guitar.com/news/industry-news/red-hot-chili-peppers-sell-music-catalogue/"
-                >https://guitar.com/news/industry-news/red-hot-chili-peppers-...</a
-              >
+              <p>
+                The primary email features we wanted and used for our own agent
+                system:
+              </p>
+              <p>
+                1. Email threading stays consistent with agent conversation
+                threading
+              </p>
+              <p>
+                2. Human in the loop review for outbound emails (especially
+                during testing phase)
+              </p>
+              <p>
+                3. Quick onboarding/offboarding email addresses for agents
+                within minutes
+              </p>
+              <p>
+                4. Websocket for local agents and at-least-once webhook delivery
+                for Cloud agents
+              </p>
+              <p>
+                Not yet: DMARC (only SPF/DKIM today), scoped API keys,
+                HA/multi-region (single VM + single Postgres), app-layer email
+                data encryption, compliance attestations (SOC 2/HIPAA).
+              </p>
+              <p>
+                GitHub:
+                <a href="https://github.com/Mnexa-AI/e2a"
+                  >https://github.com/Mnexa-AI/e2a</a
+                >
+              </p>
+              <p>Hosted: <a href="https://e2a.dev/">https://e2a.dev/</a></p>
+              <p>Appreciate any feedback / contributions.</p>
             </div>
+          </section>
+        </section>
+        <section id="48100192">
+          <h3>
+            <a class="item" href="https://github.com/ab-613/opengravity"
+              >Show HN: OpenGravity – A zero-install, BYOK vanilla JS clone of
+              Antigravity</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-05-11 @ 20:23:25</span
+              ><span class="points-container"
+                >Points: <span class="points">22</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48100192"
+                  >Comments</a
+                ><span class="descendants">: 8</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                I tried to keep it super lightweight, no build steps, or
+                dependencies, and now that its open source, I'm hoping people
+                can build things on top of it that arent possible with closed
+                source tools, like complex custom agent workflows.
+              </p>
+              <p>
+                Some screenshots: -
+                <a
+                  href="https://github.com/ab-613/OpenGravity/blob/main/examples/screenshot.png?raw=true"
+                  >https://github.com/ab-613/OpenGravity/blob/main/examples/scr...</a
+                >
+                -
+                <a
+                  href="https://github.com/ab-613/OpenGravity/blob/main/examples/html%20site%20example.png?raw=true"
+                  >https://github.com/ab-613/OpenGravity/blob/main/examples/htm...</a
+                >
+              </p>
+              <p>What it's made from:</p>
+              <p>
+                - Pure Vanilla JS: no react, vue, or build step. Built entirely
+                in plain HTML/CSS/JS to keep it super lightweight.
+              </p>
+              <p>
+                - WebContainer API and xterm.js: Instead of faking a terminal, I
+                (after much pain) hooked up the WebContainer API so the AI agent
+                has a real, in browser linux environment to run shell commands,
+                install dependencies, and edit local files.
+              </p>
+              <p>
+                - BYOK (Bring Your Own Key): API key ALWAYS stays in
+                localStorage.
+              </p>
+              <p>Whats currently happening:</p>
+              <p>
+                - It works, but it's an alpha. The AI can proactively start
+                projects going properly and edit files, but because I built this
+                over a few days before my exams, a lot of the UI dropdowns and
+                buttons are currently just hardcoded placeholders.
+              </p>
+              <p>
+                - I’m open sourcing it early because I think the foundation of a
+                Vanilla JS + WebContainer IDE is really strong, and I'd love to
+                see where the community takes it while I'm doing my exams.
+              </p>
+              <p>
+                - Live demo:
+                <a href="https://opengravity.pages.dev"
+                  >https://opengravity.pages.dev</a
+                >
+                (Zoom out to 80% if not full screen. It will prompt for a gemini
+                api key on load). Start by uploading a folder, then you can
+                fiddle with the terminal and agent, and see how it goes!
+              </p>
+              <p>
+                Would love to hear feedback on the code, the WebContainer
+                integration, or how to improve the agent loop!
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="48099790">
+          <h3>
+            <a
+              class="item"
+              href="https://gilesorr.com/blog/linux-terminal-memory-usage.html"
+              >Linux Terminal Memory Usage</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-05-11 @ 19:49:39</span
+              ><span class="points-container"
+                >Points: <span class="points">27</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48099790"
+                  >Comments</a
+                ><span class="descendants">: 23</span></span
+              >
+            </h4>
           </section>
         </section>
         <section id="48099616">
@@ -166,11 +336,33 @@
             <h4>
               <span>2026-05-11 @ 19:33:31</span
               ><span class="points-container"
-                >Points: <span class="points">64</span></span
+                >Points: <span class="points">81</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48099616"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 21</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48098537">
+          <h3>
+            <a
+              class="item"
+              href="https://www.flyingpenguin.com/can-someone-please-explain-whether-cloudflare-blackmailed-canonical/"
+              >Can Someone Please Explain Whether Cloudflare Blackmailed
+              Canonical?</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-05-11 @ 18:12:38</span
+              ><span class="points-container"
+                >Points: <span class="points">197</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48098537"
+                  >Comments</a
+                ><span class="descendants">: 110</span></span
               >
             </h4>
           </section>
@@ -181,18 +373,18 @@
               class="item"
               href="https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage"
               >UCLA discovers first stroke rehabilitation drug to repair brain
-              damage</a
+              damage (2025)</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-05-11 @ 17:53:08</span
               ><span class="points-container"
-                >Points: <span class="points">82</span></span
+                >Points: <span class="points">114</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48098261"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 27</span></span
               >
             </h4>
           </section>
@@ -212,6 +404,27 @@
             </h4>
           </section>
         </section>
+        <section id="48097796">
+          <h3>
+            <a
+              class="item"
+              href="https://en.globes.co.il/en/article-microsoft-israel-chief-leaves-amid-ethical-controversy-1001542602"
+              >Microsoft Israel chief leaves amid ethical controversy</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-05-11 @ 17:18:11</span
+              ><span class="points-container"
+                >Points: <span class="points">148</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48097796"
+                  >Comments</a
+                ><span class="descendants">: 126</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="48097078">
           <h3>
             <a
@@ -225,32 +438,11 @@
             <h4>
               <span>2026-05-11 @ 16:22:31</span
               ><span class="points-container"
-                >Points: <span class="points">83</span></span
+                >Points: <span class="points">92</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48097078"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48096842">
-          <h3>
-            <a
-              class="item"
-              href="https://andreaturchet.github.io/website/index.html"
-              >Show HN: TikTok but for Scientific Papers</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-05-11 @ 16:05:50</span
-              ><span class="points-container"
-                >Points: <span class="points">83</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48096842"
-                  >Comments</a
-                ><span class="descendants">: 49</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -267,11 +459,11 @@
             <h4>
               <span>2026-05-11 @ 15:55:07</span
               ><span class="points-container"
-                >Points: <span class="points">317</span></span
+                >Points: <span class="points">335</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48096692"
                   >Comments</a
-                ><span class="descendants">: 100</span></span
+                ><span class="descendants">: 103</span></span
               >
             </h4>
           </section>
@@ -288,13 +480,53 @@
             <h4>
               <span>2026-05-11 @ 14:34:08</span
               ><span class="points-container"
-                >Points: <span class="points">291</span></span
+                >Points: <span class="points">310</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48095550"
                   >Comments</a
-                ><span class="descendants">: 497</span></span
+                ><span class="descendants">: 529</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="48094641">
+          <h3>
+            <a
+              class="item"
+              href="https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html"
+              >Google says criminal hackers used AI to find a major software
+              flaw</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-05-11 @ 13:20:14</span
+              ><span class="points-container"
+                >Points: <span class="points">62</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48094641"
+                  >Comments</a
+                ><span class="descendants">: 34</span></span
+              >
+            </h4>
+            <div class="text">
+              <a
+                href="https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html?unlocked_article_code=1.hlA.vW7Y.pO_0G8yLYoca&amp;smid=nytcore-android-share"
+                >https://www.nytimes.com/2026/05/11/us/politics/google-hacker...</a
+              >, <a href="https://archive.ph/I4Ui5">https://archive.ph/I4Ui5</a>
+              <p>
+                <a
+                  href="https://apnews.com/article/google-ai-cybersecurity-exploitation-mythos-926aea7f7dc5e0e61adce3273c55c6d4"
+                  >https://apnews.com/article/google-ai-cybersecurity-exploitat...</a
+                >
+              </p>
+              <p>
+                <a
+                  href="https://www.cnbc.com/2026/05/11/google-thwarts-effort-hacker-group-use-ai-mass-exploitation-event.html"
+                  >https://www.cnbc.com/2026/05/11/google-thwarts-effort-hacker...</a
+                >
+              </p>
+            </div>
           </section>
         </section>
         <section id="48093100">
@@ -307,32 +539,11 @@
             <h4>
               <span>2026-05-11 @ 10:13:04</span
               ><span class="points-container"
-                >Points: <span class="points">574</span></span
+                >Points: <span class="points">584</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48093100"
                   >Comments</a
-                ><span class="descendants">: 181</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48093043">
-          <h3>
-            <a
-              class="item"
-              href="https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html"
-              >A.I. note takers are making lawyers nervous</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-05-11 @ 10:04:47</span
-              ><span class="points-container"
-                >Points: <span class="points">217</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48093043"
-                  >Comments</a
-                ><span class="descendants">: 158</span></span
+                ><span class="descendants">: 189</span></span
               >
             </h4>
           </section>
@@ -350,32 +561,11 @@
             <h4>
               <span>2026-05-11 @ 07:26:54</span
               ><span class="points-container"
-                >Points: <span class="points">495</span></span
+                >Points: <span class="points">514</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48092028"
                   >Comments</a
-                ><span class="descendants">: 344</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48091737">
-          <h3>
-            <a
-              class="item"
-              href="https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/"
-              >Mythos Finds a Curl Vulnerability</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-05-11 @ 06:39:08</span
-              ><span class="points-container"
-                >Points: <span class="points">591</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48091737"
-                  >Comments</a
-                ><span class="descendants">: 248</span></span
+                ><span class="descendants">: 360</span></span
               >
             </h4>
           </section>
@@ -393,96 +583,11 @@
             <h4>
               <span>2026-05-11 @ 02:43:34</span
               ><span class="points-container"
-                >Points: <span class="points">330</span></span
+                >Points: <span class="points">333</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48090521"
                   >Comments</a
-                ><span class="descendants">: 182</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48090029">
-          <h3>
-            <a
-              class="item"
-              href="https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/"
-              >I'm going back to writing code by hand</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-05-11 @ 01:23:51</span
-              ><span class="points-container"
-                >Points: <span class="points">895</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48090029"
-                  >Comments</a
-                ><span class="descendants">: 558</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48089289">
-          <h3>
-            <a
-              class="item"
-              href="https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs"
-              >An AI coding agent, used to write code, needs to reduce your
-              maintenance costs</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-05-10 @ 23:39:55</span
-              ><span class="points-container"
-                >Points: <span class="points">337</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48089289"
-                  >Comments</a
-                ><span class="descendants">: 99</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48089091">
-          <h3>
-            <a
-              class="item"
-              href="https://jola.dev/posts/running-local-models-on-m4"
-              >Running local models on an M4 with 24GB memory</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-05-10 @ 23:09:10</span
-              ><span class="points-container"
-                >Points: <span class="points">528</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48089091"
-                  >Comments</a
-                ><span class="descendants">: 157</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48088576">
-          <h3>
-            <a
-              class="item"
-              href="https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/"
-              >Obsidian plugin was abused to deploy a remote access trojan</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-05-10 @ 22:02:43</span
-              ><span class="points-container"
-                >Points: <span class="points">347</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48088576"
-                  >Comments</a
-                ><span class="descendants">: 204</span></span
+                ><span class="descendants">: 184</span></span
               >
             </h4>
           </section>
@@ -499,35 +604,13 @@
             <h4>
               <span>2026-05-10 @ 17:54:02</span
               ><span class="points-container"
-                >Points: <span class="points">2047</span></span
+                >Points: <span class="points">2060</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48086190"
                   >Comments</a
-                ><span class="descendants">: 691</span></span
+                ><span class="descendants">: 695</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="48085993">
-          <h3>
-            <a class="item" href="https://news.ycombinator.com/item?id=48085993"
-              >Ask HN: What are you working on? (May 2026)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-05-10 @ 17:34:41</span
-              ><span class="points-container"
-                >Points: <span class="points">256</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48085993"
-                  >Comments</a
-                ><span class="descendants">: 950</span></span
-              >
-            </h4>
-            <div class="text">
-              What are you working on? Any new ideas that you're thinking about?
-            </div>
           </section>
         </section>
         <section id="48085821">
@@ -542,11 +625,11 @@
             <h4>
               <span>2026-05-10 @ 17:19:28</span
               ><span class="points-container"
-                >Points: <span class="points">1734</span></span
+                >Points: <span class="points">1740</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48085821"
                   >Comments</a
-                ><span class="descendants">: 685</span></span
+                ><span class="descendants">: 689</span></span
               >
             </h4>
           </section>
@@ -564,11 +647,11 @@
             <h4>
               <span>2026-05-10 @ 17:05:05</span
               ><span class="points-container"
-                >Points: <span class="points">192</span></span
+                >Points: <span class="points">200</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48085685"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -585,7 +668,7 @@
             <h4>
               <span>2026-05-09 @ 08:26:57</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">59</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48073121"
                   >Comments</a
@@ -599,19 +682,19 @@
             <a
               class="item"
               href="https://www.wired.com/story/mexican-science-transforms-scorpion-venom-and-habanero-chile-into-antibiotics-against-resistant-bacteria/"
-              >Venom and Hot Peppers Offer a Key to Killing Resistant
-              Bacteria</a
+              >Venom and hot peppers offer a key to killing resistant
+              bacteria</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-05-09 @ 00:42:22</span
               ><span class="points-container"
-                >Points: <span class="points">152</span></span
+                >Points: <span class="points">158</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48070571"
                   >Comments</a
-                ><span class="descendants">: 63</span></span
+                ><span class="descendants">: 67</span></span
               >
             </h4>
           </section>
@@ -621,18 +704,18 @@
             <a
               class="item"
               href="https://binj.news/2026/05/06/the-boston-library-where-you-still-can-borrow-a-giant-puppet/"
-              >The Boston Library Where You Still Can Borrow a Giant Puppet</a
+              >The Boston library where you still can borrow a giant puppet</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-05-08 @ 22:47:06</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48069685"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -649,11 +732,11 @@
             <h4>
               <span>2026-05-08 @ 16:34:45</span
               ><span class="points-container"
-                >Points: <span class="points">101</span></span
+                >Points: <span class="points">106</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48065429"
                   >Comments</a
-                ><span class="descendants">: 51</span></span
+                ><span class="descendants">: 54</span></span
               >
             </h4>
           </section>
@@ -669,32 +752,11 @@
             <h4>
               <span>2026-05-08 @ 13:39:26</span
               ><span class="points-container"
-                >Points: <span class="points">84</span></span
+                >Points: <span class="points">89</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48062977"
                   >Comments</a
                 ><span class="descendants">: 29</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48062646">
-          <h3>
-            <a
-              class="item"
-              href="https://supernuclear.substack.com/p/building-a-space-people-never-want"
-              >Holding Community Space</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-05-08 @ 13:15:14</span
-              ><span class="points-container"
-                >Points: <span class="points">35</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48062646"
-                  >Comments</a
-                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
@@ -711,11 +773,30 @@
             <h4>
               <span>2026-05-08 @ 08:00:44</span
               ><span class="points-container"
-                >Points: <span class="points">183</span></span
+                >Points: <span class="points">200</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48060077"
                   >Comments</a
-                ><span class="descendants">: 58</span></span
+                ><span class="descendants">: 63</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48059831">
+          <h3>
+            <a class="item" href="https://user8.bearblog.dev/rant/"
+              >I hate soldering existentially</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-05-08 @ 07:26:37</span
+              ><span class="points-container"
+                >Points: <span class="points">27</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48059831"
+                  >Comments</a
+                ><span class="descendants">: 28</span></span
               >
             </h4>
           </section>
@@ -732,7 +813,7 @@
             <h4>
               <span>2026-05-08 @ 03:43:08</span
               ><span class="points-container"
-                >Points: <span class="points">144</span></span
+                >Points: <span class="points">147</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48058260"
                   >Comments</a
@@ -741,23 +822,42 @@
             </h4>
           </section>
         </section>
-        <section id="48057790">
+        <section id="48051555">
           <h3>
             <a
               class="item"
-              href="https://en.wikipedia.org/wiki/Bliss_(photograph)"
-              >Bliss (Photograph)</a
+              href="https://www.historytoday.com/archive/history-matters/rise-and-fall-snake-oil"
+              >The rise and fall of snake oil</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-05-08 @ 02:31:47</span
+              <span>2026-05-07 @ 16:43:11</span
               ><span class="points-container"
-                >Points: <span class="points">112</span></span
+                >Points: <span class="points">14</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48057790"
+                ><a href="https://news.ycombinator.com/item?id=48051555"
                   >Comments</a
-                ><span class="descendants">: 45</span></span
+                ><span class="descendants">: 5</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48049343">
+          <h3>
+            <a class="item" href="https://mbmccoy.dev/posts/buffons-noodle/"
+              >From Buffon's Needle to Buffon's Noodle</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-05-07 @ 13:42:15</span
+              ><span class="points-container"
+                >Points: <span class="points">21</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48049343"
+                  >Comments</a
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
