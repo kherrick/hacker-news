@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-05-11](index.md)
 
+* [2026-05-11, 21:35:38](https://news.ycombinator.com/item?id=48100970) - [Griffin PowerMate driver for modern macOS](https://github.com/jameslockman/Griffin-PowerMate-Driver)
+* [2026-05-11, 21:08:25](https://news.ycombinator.com/item?id=48100706) - [TanStack NPM Packages Compromised](https://github.com/TanStack/router/issues/7383)
 * [2026-05-11, 21:04:10](https://news.ycombinator.com/item?id=48100662) - [I let AI build a tool to help me figure out what was waking me up at night](https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/)
+* [2026-05-11, 20:53:37](https://news.ycombinator.com/item?id=48100524) - [Interaction Models](https://thinkingmachines.ai/blog/interaction-models/)
 * [2026-05-11, 20:51:57](https://news.ycombinator.com/item?id=48100500) - [GitLab Announces Workforce Reduction and End of Their CREDIT Values](https://about.gitlab.com/blog/gitlab-act-2/)
 * [2026-05-11, 20:26:17](https://news.ycombinator.com/item?id=48100227) - [Show HN: E2a – Open-source email gateway for AI agents](https://github.com/Mnexa-AI/e2a)
 * [2026-05-11, 20:23:25](https://news.ycombinator.com/item?id=48100192) - [Show HN: OpenGravity – A zero-install, BYOK vanilla JS clone of Antigravity](https://github.com/ab-613/opengravity)
