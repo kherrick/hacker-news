@@ -20,6 +20,7 @@
 * [2026-05-08, 19:45:21](https://news.ycombinator.com/item?id=48067786) - [Production engineering when trading billions of dollars a day [video]](https://www.youtube.com/watch?v=zR9PpXWsKFQ)
 * [2026-05-08, 19:43:04](https://news.ycombinator.com/item?id=48067764) - [Roadside Attraction](https://theoffingmag.com/essay/roadside-attraction/)
 * [2026-05-08, 19:40:39](https://news.ycombinator.com/item?id=48067734) - [You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)](https://ze3tar.github.io/post-zcrx.html)
+* [2026-05-08, 19:36:45](https://news.ycombinator.com/item?id=48067698) - [Guy Goma's Accidental BBC Interview Lives on After 20 Years](https://www.nytimes.com/2026/05/06/business/media/bbc-guy-goma-interview.html)
 * [2026-05-08, 19:35:36](https://news.ycombinator.com/item?id=48067686) - [My first in-prod corrupted hard drive problem](https://blog.pavementlink.ch/2026/05/07/my-first-corrupted-hard-drive-problem/)
 * [2026-05-08, 18:53:08](https://news.ycombinator.com/item?id=48067197) - [What we lost the last time code got cheap](https://www.poppastring.com/blog/what-we-lost-the-last-time-code-got-cheap)
 * [2026-05-08, 18:45:58](https://news.ycombinator.com/item?id=48067119) - [Google Broke reCAPTCHA for De-Googled Android Users](https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users)
