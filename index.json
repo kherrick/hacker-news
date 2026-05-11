@@ -1,22 +1,22 @@
 [
   [
     [
-      "2026-05-11, 11:07:30",
-      "https://news.ycombinator.com/item?id=48093468"
+      "2026-05-11, 16:07:52",
+      "https://news.ycombinator.com/item?id=48096870"
     ],
     [
-      "Organized Dogmatism Controls the Message about Gender Bias in the Academy",
-      "https://journalofcontroversialideas.org/article/6/1/313"
+      "Why we lose our friends as we age",
+      "https://www.theatlantic.com/newsletters/archive/2023/02/friendship-aging/673026/"
     ]
   ],
   [
     [
-      "2026-05-11, 11:05:04",
-      "https://news.ycombinator.com/item?id=48093446"
+      "2026-05-11, 13:10:25",
+      "https://news.ycombinator.com/item?id=48094521"
     ],
     [
-      "I Work in Hollywood. Everyone Who Used to Make TV Is Now Training AI",
-      "https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/"
+      "Scaffold a 1990s Geocities-themed static website",
+      "https://pypi.org/project/create-geocities-app/"
     ]
   ],
   [
@@ -45,8 +45,18 @@
       "https://news.ycombinator.com/item?id=48092367"
     ],
     [
-      "The Adventure Family Tree",
+      "The Adventure Family Tree (2024)",
       "https://mipmip.org/advfamily/advfamily.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-11, 07:26:54",
+      "https://news.ycombinator.com/item?id=48092028"
+    ],
+    [
+      "Gmail registration now requires scanning a QR code and sending a text message",
+      "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082"
     ]
   ],
   [
@@ -181,22 +191,12 @@
   ],
   [
     [
-      "2026-05-10, 17:15:10",
-      "https://news.ycombinator.com/item?id=48085782"
+      "2026-05-10, 17:05:05",
+      "https://news.ycombinator.com/item?id=48085685"
     ],
     [
-      "Traces Of Humanity",
-      "https://tracesofhumanity.org/hello-world/"
-    ]
-  ],
-  [
-    [
-      "2026-05-09, 08:37:41",
-      "https://news.ycombinator.com/item?id=48073201"
-    ],
-    [
-      "I returned to AWS and was reminded why I left",
-      "http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html"
+      "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
+      "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html"
     ]
   ],
   [
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2026-05-08, 20:07:46",
+      "https://news.ycombinator.com/item?id=48068072"
+    ],
+    [
+      "Classification of amino acids",
+      "https://www.khanacademy.org/test-prep/mcat/chemical-processes/amino-acids-peptides-proteins-5d/v/classification-amino-acids"
+    ]
+  ],
+  [
+    [
       "2026-05-08, 19:36:45",
       "https://news.ycombinator.com/item?id=48067698"
     ],
@@ -221,32 +231,42 @@
   ],
   [
     [
-      "2026-05-08, 11:26:38",
-      "https://news.ycombinator.com/item?id=48061602"
+      "2026-05-08, 18:51:35",
+      "https://news.ycombinator.com/item?id=48067184"
     ],
     [
-      "Stop MitM on the first SSH connection, on any VPS or cloud provider",
-      "https://www.joachimschipper.nl/Stop%20MITM%20on%20the%20first%20SSH%20connection,%20on%20any%20VPS%20or%20cloud%20provider.html"
+      "Driver accused of DUI tracks missing laptop to Illinois State trooper's house",
+      "https://abc7chicago.com/post/top-cop-driver-accused-dui-tracks-missing-laptop-illinois-state-police-trooper-kevin-bradleys-house/19060850/"
     ]
   ],
   [
     [
-      "2026-05-08, 07:18:24",
-      "https://news.ycombinator.com/item?id=48059761"
+      "2026-05-08, 16:34:45",
+      "https://news.ycombinator.com/item?id=48065429"
     ],
     [
-      "Phel v0.36.0 – Lisp on PHP, now with numeric tower and first-class Vars",
-      "https://github.com/phel-lang/phel-lang/releases/tag/v0.36.0"
+      "Amália and the Future of European Portuguese LLMs",
+      "https://duarteocarmo.com/blog/amalia-and-the-future-of-european-portuguese-llms"
     ]
   ],
   [
     [
-      "2026-05-08, 05:00:05",
-      "https://news.ycombinator.com/item?id=48058757"
+      "2026-05-08, 13:39:26",
+      "https://news.ycombinator.com/item?id=48062977"
     ],
     [
-      "dBase: 1979-2026",
-      "https://delphinightmares.substack.com/p/dbase-1979-2026"
+      "Building a web server in aarch64 assembly to give my life (a lack of) meaning",
+      "https://imtomt.github.io/ymawky/"
+    ]
+  ],
+  [
+    [
+      "2026-05-08, 08:00:44",
+      "https://news.ycombinator.com/item?id=48060077"
+    ],
+    [
+      "Nullsoft, 1997-2004 AOL kills off the last maverick tech company (2004)",
+      "https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html"
     ]
   ],
   [
@@ -267,26 +287,6 @@
     [
       "Bliss (Photograph)",
       "https://en.wikipedia.org/wiki/Bliss_(photograph)"
-    ]
-  ],
-  [
-    [
-      "2026-05-08, 00:55:25",
-      "https://news.ycombinator.com/item?id=48057144"
-    ],
-    [
-      "Seeing Birdsong",
-      "https://www.lucioarese.net/seeing-birdsong/"
-    ]
-  ],
-  [
-    [
-      "2026-05-07, 23:49:51",
-      "https://news.ycombinator.com/item?id=48056639"
-    ],
-    [
-      "The people preserving the scientific practice of bird banding",
-      "https://thenarwhal.ca/bird-banding-ontario/"
     ]
   ],
   [
