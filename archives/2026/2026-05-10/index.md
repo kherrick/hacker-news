@@ -25,6 +25,7 @@
 * [2026-05-10, 16:30:34](https://news.ycombinator.com/item?id=48085314) - [YC's Biggest Scandals](https://ycombinator.fyi/)
 * [2026-05-10, 16:07:26](https://news.ycombinator.com/item?id=48085095) - [GitHub Is Sinking](https://dbushell.com/2026/04/29/github-is-sinking/)
 * [2026-05-10, 16:03:37](https://news.ycombinator.com/item?id=48085055) - [The Locals Don't Know](https://www.quarter--mile.com/The-Locals-Dont-Know)
+* [2026-05-10, 15:41:31](https://news.ycombinator.com/item?id=48084852) - [We accidentally recreated old Facebook](https://amrshawky.com/posts/we-accidentally-recreated-fb/)
 * [2026-05-10, 15:39:53](https://news.ycombinator.com/item?id=48084836) - [Scientists warn Atlantic current at risk of shutting down](https://e360.yale.edu/features/amoc-climate-change)
 * [2026-05-10, 15:22:46](https://news.ycombinator.com/item?id=48084710) - [Chrome's AI features may be hogging 4GB of your computer storage](https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features)
 * [2026-05-10, 15:00:40](https://news.ycombinator.com/item?id=48084547) - [Shunting-Yard Animation](https://somethingorotherwhatever.com/shunting-yard-animation/)

@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-05-12](index.md)
 
+* [2026-05-12, 20:16:26](https://news.ycombinator.com/item?id=48113895) - [How to make your text look futuristic](https://typesetinthefuture.com/2016/02/18/futuristic/)
+* [2026-05-12, 19:51:41](https://news.ycombinator.com/item?id=48113518) - [Beyond Semantic Similarity](https://arxiv.org/abs/2605.05242)
+* [2026-05-12, 19:45:02](https://news.ycombinator.com/item?id=48113425) - [Snowflake Postgres, Lakebase, HorizonDB: Picking the Lock-In You Want](https://thebuild.com/blog/2026/05/12/snowflake-postgres-lakebase-horizondb-picking-the-lock-in-you-want/)
 * [2026-05-12, 18:12:28](https://news.ycombinator.com/item?id=48112042) - [CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq](https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html)
 * [2026-05-12, 18:03:11](https://news.ycombinator.com/item?id=48111896) - [Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model](https://github.com/cactus-compute/needle)
+* [2026-05-12, 17:56:40](https://news.ycombinator.com/item?id=48111798) - [SQL: Incorrect by Construction](https://chreke.com/posts/sql-incorrect-by-construction)
+* [2026-05-12, 17:54:12](https://news.ycombinator.com/item?id=48111765) - [Quack: The DuckDB Client-Server Protocol](https://duckdb.org/2026/05/12/quack-remote-protocol)
 * [2026-05-12, 17:52:34](https://news.ycombinator.com/item?id=48111748) - [Dead.Letter (CVE-2026-45185) – How XBOW found an unauthenticated RCE on Exim](https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim)
 * [2026-05-12, 17:40:13](https://news.ycombinator.com/item?id=48111581) - [Reimagining the mouse pointer for the AI era](https://deepmind.google/blog/ai-pointer/)
 * [2026-05-12, 17:37:36](https://news.ycombinator.com/item?id=48111545) - [Googlebook](https://googlebook.google/)

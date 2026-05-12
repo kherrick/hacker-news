@@ -46,3 +46,4 @@
 * [2026-05-11, 02:18:35](https://news.ycombinator.com/item?id=48090349) - [BSides Austin Is on Hold](https://bsidesaustin.com/)
 * [2026-05-11, 02:06:29](https://news.ycombinator.com/item?id=48090276) - [Show HN: adamsreview – better multi-agent PR reviews for Claude Code](https://github.com/adamjgmiller/adamsreview)
 * [2026-05-11, 01:23:51](https://news.ycombinator.com/item?id=48090029) - [I'm going back to writing code by hand](https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/)
+* [2026-05-11, 00:13:51](https://news.ycombinator.com/item?id=48089548) - [A Preview of the Future](https://unsung.aresluna.org/a-preview-of-the-future/)
