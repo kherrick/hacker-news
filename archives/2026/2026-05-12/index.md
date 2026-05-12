@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-12](index.md)
 
+* [2026-05-12, 09:30:21](https://news.ycombinator.com/item?id=48106024) - [Learning Software Architecture](https://matklad.github.io/2026/05/12/software-architecture.html)
+* [2026-05-12, 07:31:38](https://news.ycombinator.com/item?id=48105297) - [Toxicity on Social Media – The Noisy Room](https://thenoisyroom.com)
 * [2026-05-12, 05:11:24](https://news.ycombinator.com/item?id=48104428) - [Screenshots of Old Desktop OSes](http://www.typewritten.org/Media/)
 * [2026-05-12, 03:59:35](https://news.ycombinator.com/item?id=48104041) - [Extremely Low Frequencies](https://computer.rip/2026-05-09-extremely-low-frequencies.html)
 * [2026-05-12, 03:28:48](https://news.ycombinator.com/item?id=48103871) - [Productivity Isn't About Going Faster](https://humanpro.co/articles/productivity-isnt-about-going-faster/)

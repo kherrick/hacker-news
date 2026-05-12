@@ -49,4 +49,5 @@
 * [2026-05-09, 04:53:52](https://news.ycombinator.com/item?id=48071940) - [Using Claude Code: The unreasonable effectiveness of HTML](https://twitter.com/trq212/status/2052809885763747935)
 * [2026-05-09, 03:21:06](https://news.ycombinator.com/item?id=48071496) - [Over 97% of the 'Linux' Foundation's Budget Goes Not to Linux](https://techrights.org/n/2026/05/08/Over_97_of_the_Linux_Foundation_s_Budget_Goes_Not_to_Linux.shtml)
 * [2026-05-09, 02:41:42](https://news.ycombinator.com/item?id=48071262) - [A recent experience with ChatGPT 5.5 Pro](https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/)
+* [2026-05-09, 00:57:26](https://news.ycombinator.com/item?id=48070676) - [Remembering Planet Source Code: Sharing Code Before GitHub Made It Easy](https://www.pietschsoft.com/post/2026/05/05/remembering-planet-source-code-sharing-code-before-github-made-it-easy)
 * [2026-05-09, 00:42:22](https://news.ycombinator.com/item?id=48070571) - [Venom and Hot Peppers Offer a Key to Killing Resistant Bacteria](https://www.wired.com/story/mexican-science-transforms-scorpion-venom-and-habanero-chile-into-antibiotics-against-resistant-bacteria/)
