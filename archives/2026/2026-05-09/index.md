@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-09](index.md)
 
+* [2026-05-09, 23:10:54](https://news.ycombinator.com/item?id=48079202) - [The Real Story of Troy](https://storica.club/blog/troy-was-real/)
 * [2026-05-09, 22:14:35](https://news.ycombinator.com/item?id=48078811) - [France Moves to Break Encrypted Messaging](https://reclaimthenet.org/france-moves-to-break-encrypted-messaging)
 * [2026-05-09, 21:56:19](https://news.ycombinator.com/item?id=48078647) - [Getting Arrested in Japan](https://sundaicity.com/blogs/getting-arrested-in-japan)
 * [2026-05-09, 21:46:27](https://news.ycombinator.com/item?id=48078575) - [Rust but Lisp](https://github.com/ThatXliner/rust-but-lisp)

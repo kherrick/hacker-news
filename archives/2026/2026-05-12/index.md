@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-05-12](index.md)
 
+* [2026-05-12, 16:32:54](https://news.ycombinator.com/item?id=48110593) - [Show HN: Gigacatalyst – Extend your SaaS with an embedded AI builder](https://news.ycombinator.com/item?id=48110593)
+* [2026-05-12, 16:29:21](https://news.ycombinator.com/item?id=48110529) - [Amazon employees are \"tokenmaxxing\" due to pressure to use AI tools](https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/)
+* [2026-05-12, 15:49:47](https://news.ycombinator.com/item?id=48110021) - [eBay Rejects GameStop's $56B Takeover as Not Credible](https://www.bloomberg.com/news/articles/2026-05-12/ebay-rejects-gamestop-s-56-billion-takeover-as-not-credible)
+* [2026-05-12, 15:45:54](https://news.ycombinator.com/item?id=48109970) - [The Future of Obsidian Plugins](https://obsidian.md/blog/future-of-plugins/)
+* [2026-05-12, 15:45:20](https://news.ycombinator.com/item?id=48109962) - [Launch HN: Voker (YC S24) – Analytics for AI Agents](https://voker.ai)
+* [2026-05-12, 15:08:40](https://news.ycombinator.com/item?id=48109460) - [Why senior developers fail to communicate their expertise](https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise)
 * [2026-05-12, 14:54:41](https://news.ycombinator.com/item?id=48109224) - [Bambu Lab is abusing the open source social contract](https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/)
 * [2026-05-12, 13:26:46](https://news.ycombinator.com/item?id=48107997) - [Rendering the Sky, Sunsets, and Planets](https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/)
 * [2026-05-12, 12:38:45](https://news.ycombinator.com/item?id=48107404) - [UnDUNE II](https://liquidream.itch.io/undune2)
@@ -18,6 +24,7 @@
 * [2026-05-12, 05:11:24](https://news.ycombinator.com/item?id=48104428) - [Screenshots of Old Desktop OSes](http://www.typewritten.org/Media/)
 * [2026-05-12, 03:59:35](https://news.ycombinator.com/item?id=48104041) - [Extremely Low Frequencies](https://computer.rip/2026-05-09-extremely-low-frequencies.html)
 * [2026-05-12, 03:28:48](https://news.ycombinator.com/item?id=48103871) - [Productivity Isn't About Going Faster](https://humanpro.co/articles/productivity-isnt-about-going-faster/)
+* [2026-05-12, 02:56:31](https://news.ycombinator.com/item?id=48103668) - [Instructure pays ransom to Canvas hackers](https://www.insidehighered.com/news/tech-innovation/administrative-tech/2026/05/11/instructure-pays-ransom-canvas-hackers)
 * [2026-05-12, 02:33:10](https://news.ycombinator.com/item?id=48103529) - [Why Everyone's Picking Up a PSP Again in 2026](https://gardinerbryant.com/psp-in-2026/)
 * [2026-05-12, 02:28:11](https://news.ycombinator.com/item?id=48103511) - [Software Internals Book Club](https://eatonphil.com/bookclub.html)
 * [2026-05-12, 01:24:29](https://news.ycombinator.com/item?id=48103042) - [Claude Platform on AWS](https://claude.com/blog/claude-platform-on-aws)
