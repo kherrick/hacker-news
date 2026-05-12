@@ -1,22 +1,92 @@
 [
   [
     [
+      "2026-05-12, 18:12:28",
+      "https://news.ycombinator.com/item?id=48112042"
+    ],
+    [
+      "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
+      "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-12, 18:03:11",
+      "https://news.ycombinator.com/item?id=48111896"
+    ],
+    [
+      "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+      "https://github.com/cactus-compute/needle"
+    ]
+  ],
+  [
+    [
+      "2026-05-12, 17:52:34",
+      "https://news.ycombinator.com/item?id=48111748"
+    ],
+    [
+      "Dead.Letter (CVE-2026-45185) – How XBOW found an unauthenticated RCE on Exim",
+      "https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim"
+    ]
+  ],
+  [
+    [
+      "2026-05-12, 17:40:13",
+      "https://news.ycombinator.com/item?id=48111581"
+    ],
+    [
+      "Reimagining the mouse pointer for the AI era",
+      "https://deepmind.google/blog/ai-pointer/"
+    ]
+  ],
+  [
+    [
+      "2026-05-12, 17:37:36",
+      "https://news.ycombinator.com/item?id=48111545"
+    ],
+    [
+      "Googlebook",
+      "https://googlebook.google/"
+    ]
+  ],
+  [
+    [
+      "2026-05-12, 17:35:58",
+      "https://news.ycombinator.com/item?id=48111531"
+    ],
+    [
+      "Canada’s Bill C-22 Is a Repackaged Version of Last Year’s Surveillance Nightmare",
+      "https://www.eff.org/deeplinks/2026/05/canadas-bill-c-22-repackaged-version-last-years-surveillance-nightmare"
+    ]
+  ],
+  [
+    [
+      "2026-05-12, 17:10:22",
+      "https://news.ycombinator.com/item?id=48111143"
+    ],
+    [
+      "Show HN: Agentic interface for mainframes and COBOL",
+      "https://www.hypercubic.ai/hopper"
+    ]
+  ],
+  [
+    [
+      "2026-05-12, 16:50:59",
+      "https://news.ycombinator.com/item?id=48110858"
+    ],
+    [
+      "Testing UPS Output Waveforms",
+      "https://www.lttlabs.com/articles/2026/05/12/ups-exploration"
+    ]
+  ],
+  [
+    [
       "2026-05-12, 16:32:54",
       "https://news.ycombinator.com/item?id=48110593"
     ],
     [
       "Show HN: Gigacatalyst – Extend your SaaS with an embedded AI builder",
       "https://news.ycombinator.com/item?id=48110593"
-    ]
-  ],
-  [
-    [
-      "2026-05-12, 16:29:21",
-      "https://news.ycombinator.com/item?id=48110529"
-    ],
-    [
-      "Amazon employees are \"tokenmaxxing\" due to pressure to use AI tools",
-      "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/"
     ]
   ],
   [
@@ -71,22 +141,22 @@
   ],
   [
     [
+      "2026-05-12, 14:24:55",
+      "https://news.ycombinator.com/item?id=48108778"
+    ],
+    [
+      "Show HN: Statewright – Visual state machines that make AI agents reliable",
+      "https://github.com/statewright/statewright"
+    ]
+  ],
+  [
+    [
       "2026-05-12, 13:26:46",
       "https://news.ycombinator.com/item?id=48107997"
     ],
     [
       "Rendering the Sky, Sunsets, and Planets",
       "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/"
-    ]
-  ],
-  [
-    [
-      "2026-05-12, 12:38:45",
-      "https://news.ycombinator.com/item?id=48107404"
-    ],
-    [
-      "UnDUNE II",
-      "https://liquidream.itch.io/undune2"
     ]
   ],
   [
@@ -111,16 +181,6 @@
   ],
   [
     [
-      "2026-05-12, 10:37:44",
-      "https://news.ycombinator.com/item?id=48106367"
-    ],
-    [
-      "Coursera and Udemy are now one company",
-      "https://blog.coursera.org/coursera-and-udemy-are-now-one-company-creating-the-worlds-most-comprehensive-skills-platform/"
-    ]
-  ],
-  [
-    [
       "2026-05-12, 09:30:21",
       "https://news.ycombinator.com/item?id=48106024"
     ],
@@ -141,42 +201,12 @@
   ],
   [
     [
-      "2026-05-12, 03:59:35",
-      "https://news.ycombinator.com/item?id=48104041"
-    ],
-    [
-      "Extremely Low Frequencies",
-      "https://computer.rip/2026-05-09-extremely-low-frequencies.html"
-    ]
-  ],
-  [
-    [
       "2026-05-12, 02:56:31",
       "https://news.ycombinator.com/item?id=48103668"
     ],
     [
       "Instructure pays ransom to Canvas hackers",
       "https://www.insidehighered.com/news/tech-innovation/administrative-tech/2026/05/11/instructure-pays-ransom-canvas-hackers"
-    ]
-  ],
-  [
-    [
-      "2026-05-12, 02:28:11",
-      "https://news.ycombinator.com/item?id=48103511"
-    ],
-    [
-      "Software Internals Book Club",
-      "https://eatonphil.com/bookclub.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-12, 01:24:29",
-      "https://news.ycombinator.com/item?id=48103042"
-    ],
-    [
-      "Claude Platform on AWS",
-      "https://claude.com/blog/claude-platform-on-aws"
     ]
   ],
   [
@@ -191,32 +221,12 @@
   ],
   [
     [
-      "2026-05-11, 21:24:36",
-      "https://news.ycombinator.com/item?id=48100868"
-    ],
-    [
-      "Through the looking glass of benchmark hacking",
-      "https://poolside.ai/blog/through-the-looking-glass"
-    ]
-  ],
-  [
-    [
       "2026-05-11, 21:08:25",
       "https://news.ycombinator.com/item?id=48100706"
     ],
     [
       "Postmortem: TanStack NPM supply-chain compromise",
       "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem"
-    ]
-  ],
-  [
-    [
-      "2026-05-11, 21:04:10",
-      "https://news.ycombinator.com/item?id=48100662"
-    ],
-    [
-      "I let AI build a tool to help me figure out what was waking me up at night",
-      "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/"
     ]
   ],
   [
@@ -261,26 +271,6 @@
   ],
   [
     [
-      "2026-05-10, 01:45:49",
-      "https://news.ycombinator.com/item?id=48080179"
-    ],
-    [
-      "Analysis points to a unexpected cause of reading difficulties",
-      "https://phys.org/news/2026-05-years-struggles-obvious-massive-analysis.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-10, 01:31:23",
-      "https://news.ycombinator.com/item?id=48080111"
-    ],
-    [
-      "Chasing Chicago's movable bridges (2014)",
-      "https://aresluna.org/seesaws-for-giants/"
-    ]
-  ],
-  [
-    [
       "2026-05-09, 23:10:54",
       "https://news.ycombinator.com/item?id=48079202"
     ],
@@ -291,12 +281,22 @@
   ],
   [
     [
-      "2026-05-09, 15:40:49",
-      "https://news.ycombinator.com/item?id=48075844"
+      "2026-05-08, 22:30:23",
+      "https://news.ycombinator.com/item?id=48069562"
     ],
     [
-      "Docker images are hundreds of MB; a full game engine compiles to 35MB WASM",
-      "https://bogomolov.work/blog/posts/wasm-vs-docker/"
+      "The Moth Story Map",
+      "https://themoth.org/dispatches/story-map"
+    ]
+  ],
+  [
+    [
+      "2026-05-08, 21:31:44",
+      "https://news.ycombinator.com/item?id=48069032"
+    ],
+    [
+      "When life gives you lemons, write better error messages",
+      "https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f"
     ]
   ]
 ]
