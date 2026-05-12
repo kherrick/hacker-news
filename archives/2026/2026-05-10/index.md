@@ -36,6 +36,7 @@
 * [2026-05-10, 12:00:11](https://news.ycombinator.com/item?id=48083251) - [9 Mothers (YC P26) Is Hiring](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q)
 * [2026-05-10, 11:26:50](https://news.ycombinator.com/item?id=48083007) - [What's a Mathematician to Do?](https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do)
 * [2026-05-10, 11:22:02](https://news.ycombinator.com/item?id=48082968) - [Space Cadet Pinball on Linux](https://brennan.io/2026/05/09/pinball-and-escrow/)
+* [2026-05-10, 11:19:03](https://news.ycombinator.com/item?id=48082948) - [Profiling.sampling – Statistical Profiler](https://docs.python.org/3.15/library/profiling.sampling.html#module-profiling.sampling)
 * [2026-05-10, 10:33:06](https://news.ycombinator.com/item?id=48082676) - [Replacing a 3 GB SQLite db with a 10 MB FST (finite state transducer) binary](https://til.andrew-quinn.me/posts/replacing-a-3-gb-sqlite-database-with-a-7-mb-fst-finite-state-trandsucer-binary/)
 * [2026-05-10, 09:40:33](https://news.ycombinator.com/item?id=48082396) - [Think Linear Algebra](https://allendowney.github.io/ThinkLinearAlgebra/index.html)
 * [2026-05-10, 09:27:11](https://news.ycombinator.com/item?id=48082342) - [FreeBSD – A Lesson in Poor Defaults](https://vez.mrsk.me/freebsd-defaults)
@@ -51,3 +52,5 @@
 * [2026-05-10, 02:06:19](https://news.ycombinator.com/item?id=48080316) - [Silverback Imfura took a chance, and ended up alone](https://gorillafund.org/mountain-gorillas/silverback-imfura-took-a-chance-and-ended-up-alone/)
 * [2026-05-10, 01:52:55](https://news.ycombinator.com/item?id=48080221) - [Sparse Cholesky Elimination Tree](https://www.reidatcheson.com/sparse/linear/cholesky/2026/04/09/etree.html)
 * [2026-05-10, 01:49:09](https://news.ycombinator.com/item?id=48080201) - [Abstract Machines for Logic Programs](https://chrisistyping.bearblog.dev/abstract-machines-for-logic-programs/)
+* [2026-05-10, 01:45:49](https://news.ycombinator.com/item?id=48080179) - [Analysis points to a unexpected cause of reading difficulties](https://phys.org/news/2026-05-years-struggles-obvious-massive-analysis.html)
+* [2026-05-10, 01:31:23](https://news.ycombinator.com/item?id=48080111) - [Chasing Chicago's movable bridges (2014)](https://aresluna.org/seesaws-for-giants/)

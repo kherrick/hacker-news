@@ -6,6 +6,7 @@
 
 * [2026-05-11, 23:54:28](https://news.ycombinator.com/item?id=48102360) - [Can we code our way out of gentrification?](https://www.freerange.city/p/can-we-code-our-way-out-of-gentrification)
 * [2026-05-11, 21:35:38](https://news.ycombinator.com/item?id=48100970) - [Griffin PowerMate driver for modern macOS](https://github.com/jameslockman/Griffin-PowerMate-Driver)
+* [2026-05-11, 21:24:36](https://news.ycombinator.com/item?id=48100868) - [Through the looking glass of benchmark hacking](https://poolside.ai/blog/through-the-looking-glass)
 * [2026-05-11, 21:08:25](https://news.ycombinator.com/item?id=48100706) - [TanStack NPM Packages Compromised](https://github.com/TanStack/router/issues/7383)
 * [2026-05-11, 21:08:25](https://news.ycombinator.com/item?id=48100706) - [Postmortem: TanStack npm supply-chain compromise](https://tanstack.com/blog/npm-supply-chain-compromise-postmortem)
 * [2026-05-11, 21:04:10](https://news.ycombinator.com/item?id=48100662) - [I let AI build a tool to help me figure out what was waking me up at night](https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/)
@@ -28,6 +29,7 @@
 * [2026-05-11, 15:55:07](https://news.ycombinator.com/item?id=48096692) - [CUDA-oxide: Nvidia's official Rust to CUDA compiler](https://nvlabs.github.io/cuda-oxide/index.html)
 * [2026-05-11, 15:53:23](https://news.ycombinator.com/item?id=48096674) - [Students Boo Commencement Speaker After She Calls AI Next Industrial Revolution](https://www.404media.co/ucf-ai-commencement-speaker-booed/)
 * [2026-05-11, 15:39:37](https://news.ycombinator.com/item?id=48096471) - [Should you leave red herrings about yourself online?](https://blog.alcazarsec.com/posts/should-you-leave-red-herrings-about-yourself-online)
+* [2026-05-11, 15:30:17](https://news.ycombinator.com/item?id=48096328) - [The Surprisingly Long Life of the Vacuum Tube](https://www.construction-physics.com/p/the-surprisingly-long-life-of-the)
 * [2026-05-11, 14:56:41](https://news.ycombinator.com/item?id=48095854) - [AI-powered hacking has exploded into industrial-scale threat, Google says](https://www.theguardian.com/technology/2026/may/11/ai-powered-hacking-industrial-scale-threat-three-months-google)
 * [2026-05-11, 14:34:08](https://news.ycombinator.com/item?id=48095550) - [Software engineering may no longer be a lifetime career](https://www.seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/)
 * [2026-05-11, 13:20:14](https://news.ycombinator.com/item?id=48094641) - [Google says criminal hackers used AI to find a major software flaw](https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html)
