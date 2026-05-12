@@ -13,6 +13,7 @@
 * [2026-05-09, 20:31:07](https://news.ycombinator.com/item?id=48077966) - [I Caught the Car](https://undecidability.net/senior/)
 * [2026-05-09, 19:09:34](https://news.ycombinator.com/item?id=48077395) - [Surfel-based global illumination on the web](https://juretriglav.si/surfel-based-global-illumination-on-the-web/)
 * [2026-05-09, 18:59:49](https://news.ycombinator.com/item?id=48077314) - [\"Dirty Frag\" (CVE-2026-43284): The Second Linux Root Exploit in Eight Days](https://www.copahost.com/blog/dirty-frag-cve-2026-43284/)
+* [2026-05-09, 18:55:59](https://news.ycombinator.com/item?id=48077291) - [Lanzaboote – NixOS Secure Boot](https://x86.lol/generic/2022/11/26/lanzaboote.html)
 * [2026-05-09, 18:47:58](https://news.ycombinator.com/item?id=48077231) - [Bun ported to Rust in 6 days](https://xunroll.com/thread/2053047748191232310)
 * [2026-05-09, 18:45:01](https://news.ycombinator.com/item?id=48077205) - [Optimize for change not application performance](https://www.echooff.dev/blog/developer-experience-is-a-performance-feature)
 * [2026-05-09, 18:33:36](https://news.ycombinator.com/item?id=48077126) - [Meta's Embrace of A.I. Is Making Its Employees Miserable](https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html)

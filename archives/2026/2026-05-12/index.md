@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-12](index.md)
 
+* [2026-05-12, 21:55:21](https://news.ycombinator.com/item?id=48115127) - [Restore full BambuNetwork support for Bambu Lab printers](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)
 * [2026-05-12, 20:58:18](https://news.ycombinator.com/item?id=48114461) - [Meta employees protest against mouse tracking tech at US offices](https://www.reuters.com/sustainability/society-equity/meta-us-employees-organize-protest-against-mouse-tracking-tech-2026-05-12/)
 * [2026-05-12, 20:16:26](https://news.ycombinator.com/item?id=48113895) - [How to make your text look futuristic](https://typesetinthefuture.com/2016/02/18/futuristic/)
 * [2026-05-12, 19:51:41](https://news.ycombinator.com/item?id=48113518) - [Beyond Semantic Similarity](https://arxiv.org/abs/2605.05242)

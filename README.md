@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-05-12, 20:58:18](https://news.ycombinator.com/item?id=48114461) - [Meta employees protest against mouse tracking tech at US offices](https://www.reuters.com/sustainability/society-equity/meta-us-employees-organize-protest-against-mouse-tracking-tech-2026-05-12/)
+* [2026-05-12, 21:55:21](https://news.ycombinator.com/item?id=48115127) - [Restore full BambuNetwork support for Bambu Lab printers](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)
 * [2026-05-12, 20:16:26](https://news.ycombinator.com/item?id=48113895) - [How to make your text look futuristic (2016)](https://typesetinthefuture.com/2016/02/18/futuristic/)
 * [2026-05-12, 19:51:41](https://news.ycombinator.com/item?id=48113518) - [Beyond Semantic Similarity](https://arxiv.org/abs/2605.05242)
 * [2026-05-12, 19:45:02](https://news.ycombinator.com/item?id=48113425) - [Snowflake Postgres, Lakebase, HorizonDB: Picking the Lock-In You Want](https://thebuild.com/blog/2026/05/12/snowflake-postgres-lakebase-horizondb-picking-the-lock-in-you-want/)
@@ -23,12 +23,12 @@
 * [2026-05-12, 13:26:46](https://news.ycombinator.com/item?id=48107997) - [Rendering the Sky, Sunsets, and Planets](https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/)
 * [2026-05-12, 12:00:46](https://news.ycombinator.com/item?id=48107024) - [Text Blaze (YC W21) Is Hiring for a No-AI Summer Internship](https://www.ycombinator.com/companies/text-blaze/jobs/P4CCN62-the-blaze-no-ai-summer-internship)
 * [2026-05-12, 09:30:21](https://news.ycombinator.com/item?id=48106024) - [Learning Software Architecture](https://matklad.github.io/2026/05/12/software-architecture.html)
-* [2026-05-12, 05:11:24](https://news.ycombinator.com/item?id=48104428) - [Screenshots of Old Desktop OSes](http://www.typewritten.org/Media/)
 * [2026-05-12, 02:56:31](https://news.ycombinator.com/item?id=48103668) - [Instructure pays ransom to Canvas hackers](https://www.insidehighered.com/news/tech-innovation/administrative-tech/2026/05/11/instructure-pays-ransom-canvas-hackers)
-* [2026-05-11, 15:30:17](https://news.ycombinator.com/item?id=48096328) - [The Surprisingly Long Life of the Vacuum Tube](https://www.construction-physics.com/p/the-surprisingly-long-life-of-the)
 * [2026-05-10, 23:09:53](https://news.ycombinator.com/item?id=48089098) - [Riding the D in Los Angeles: city hopes new subway stations will be game changer](https://www.theguardian.com/us-news/2026/may/09/los-angeles-subway-public-transportation)
 * [2026-05-10, 15:41:31](https://news.ycombinator.com/item?id=48084852) - [We accidentally recreated old Facebook](https://amrshawky.com/posts/we-accidentally-recreated-fb/)
 * [2026-05-09, 23:10:54](https://news.ycombinator.com/item?id=48079202) - [The Real Story of Troy](https://storica.club/blog/troy-was-real/)
+* [2026-05-09, 18:55:59](https://news.ycombinator.com/item?id=48077291) - [Lanzaboote – NixOS Secure Boot](https://x86.lol/generic/2022/11/26/lanzaboote.html)
+* [2026-05-08, 22:30:23](https://news.ycombinator.com/item?id=48069562) - [The Moth Story Map](https://themoth.org/dispatches/story-map)
 * [2026-05-08, 21:31:44](https://news.ycombinator.com/item?id=48069032) - [When life gives you lemons, write better error messages](https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f)
 
 ## [Archives](archives/index.md)
