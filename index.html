@@ -129,6 +129,370 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="48112042">
+          <h3>
+            <a
+              class="item"
+              href="https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html"
+              >CERT is releasing six CVEs for serious security vulnerabilities
+              in dnsmasq</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-05-12 @ 18:12:28</span
+              ><span class="points-container"
+                >Points: <span class="points">136</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48112042"
+                  >Comments</a
+                ><span class="descendants">: 40</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48111896">
+          <h3>
+            <a class="item" href="https://github.com/cactus-compute/needle"
+              >Show HN: Needle: We Distilled Gemini Tool Calling into a 26M
+              Model</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-05-12 @ 18:03:11</span
+              ><span class="points-container"
+                >Points: <span class="points">115</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48111896"
+                  >Comments</a
+                ><span class="descendants">: 35</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                We were always frustrated by the little effort made towards
+                building agentic models that run on budget phones, so we
+                conducted investigations that led to an observation: agentic
+                experiences are built upon tool calling, and massive models are
+                overkill for it. Tool calling is fundamentally
+                retrieval-and-assembly (match query to tool name, extract
+                argument values, emit JSON), not reasoning. Cross-attention is
+                the right primitive for this, and FFN parameters are wasted at
+                this scale.
+              </p>
+              <p>
+                Simple Attention Networks: the entire model is just attention
+                and gating, no MLPs anywhere. Needle is an experimental run for
+                single-shot function calling for consumer devices (phones,
+                watches, glasses...).
+              </p>
+              <p>
+                Training: - Pretrained on 200B tokens across 16 TPU v6e (27
+                hours) - Post-trained on 2B tokens of synthesized
+                function-calling data (45 minutes) - Dataset synthesized via
+                Gemini with 15 tool categories (timers, messaging, navigation,
+                smart home, etc.)
+              </p>
+              <p>
+                You can test it right now and finetune on your Mac/PC:
+                <a href="https://github.com/cactus-compute/needle"
+                  >https://github.com/cactus-compute/needle</a
+                >
+              </p>
+              <p>
+                The full writeup on the architecture is here:
+                <a
+                  href="https://github.com/cactus-compute/needle/blob/main/docs/simple_attention_networks.md"
+                  >https://github.com/cactus-compute/needle/blob/main/docs/simp...</a
+                >
+              </p>
+              <p>
+                We found that the "no FFN" finding generalizes beyond function
+                calling to any task where the model has access to external
+                structured knowledge (RAG, tool use, retrieval-augmented
+                generation). The model doesn't need to memorize facts in FFN
+                weights if the facts are provided in the input. Experimental
+                results to published.
+              </p>
+              <p>
+                While it beats FunctionGemma-270M, Qwen-0.6B, Granite-350M,
+                LFM2.5-350M on single-shot function calling, those models have
+                more scope/capacity and excel in conversational settings. We
+                encourage you to test on your own tools via the playground and
+                finetune accordingly.
+              </p>
+              <p>
+                This is part of our broader work on Cactus (<a
+                  href="https://github.com/cactus-compute/cactus"
+                  >https://github.com/cactus-compute/cactus</a
+                >), an inference engine built from scratch for mobile, wearables
+                and custom hardware. We wrote about Cactus here previously:
+                <a href="https://news.ycombinator.com/item?id=44524544"
+                  >https://news.ycombinator.com/item?id=44524544</a
+                >
+              </p>
+              <p>
+                Everything is MIT licensed. Weights:
+                <a href="https://huggingface.co/Cactus-Compute/needle"
+                  >https://huggingface.co/Cactus-Compute/needle</a
+                >
+                GitHub:
+                <a href="https://github.com/cactus-compute/needle"
+                  >https://github.com/cactus-compute/needle</a
+                >
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="48111748">
+          <h3>
+            <a
+              class="item"
+              href="https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim"
+              >Dead.Letter (CVE-2026-45185) – How XBOW found an unauthenticated
+              RCE on Exim</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-05-12 @ 17:52:34</span
+              ><span class="points-container"
+                >Points: <span class="points">43</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48111748"
+                  >Comments</a
+                ><span class="descendants">: 14</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48111581">
+          <h3>
+            <a class="item" href="https://deepmind.google/blog/ai-pointer/"
+              >Reimagining the mouse pointer for the AI era</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-05-12 @ 17:40:13</span
+              ><span class="points-container"
+                >Points: <span class="points">61</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48111581"
+                  >Comments</a
+                ><span class="descendants">: 49</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48111545">
+          <h3>
+            <a class="item" href="https://googlebook.google/">Googlebook</a>
+          </h3>
+          <section>
+            <h4>
+              <span>2026-05-12 @ 17:37:36</span
+              ><span class="points-container"
+                >Points: <span class="points">372</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48111545"
+                  >Comments</a
+                ><span class="descendants">: 553</span></span
+              >
+            </h4>
+            <div class="text">
+              <a
+                href="https://www.reddit.com/r/Android/comments/1tb8xls/introducing_googlebook_a_new_category_of_laptops/"
+                >https://www.reddit.com/r/Android/comments/1tb8xls/introducin...</a
+              >
+            </div>
+          </section>
+        </section>
+        <section id="48111531">
+          <h3>
+            <a
+              class="item"
+              href="https://www.eff.org/deeplinks/2026/05/canadas-bill-c-22-repackaged-version-last-years-surveillance-nightmare"
+              >Canada’s Bill C-22 Is a Repackaged Version of Last Year’s
+              Surveillance Nightmare</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-05-12 @ 17:35:58</span
+              ><span class="points-container"
+                >Points: <span class="points">128</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48111531"
+                  >Comments</a
+                ><span class="descendants">: 41</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48111143">
+          <h3>
+            <a class="item" href="https://www.hypercubic.ai/hopper"
+              >Show HN: Agentic interface for mainframes and COBOL</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-05-12 @ 17:10:22</span
+              ><span class="points-container"
+                >Points: <span class="points">33</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48111143"
+                  >Comments</a
+                ><span class="descendants">: 14</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://www.hypercubic.ai/">https://www.hypercubic.ai/</a
+              >), bringing AI tools to the mainframe and COBOL world. (We did a
+              Launch HN last year:
+              <a href="https://news.ycombinator.com/item?id=45877517"
+                >https://news.ycombinator.com/item?id=45877517</a
+              >.) Today we’re launching Hopper, an agentic development
+              environment for mainframes.
+              <p>
+                You can download it here:
+                <a href="https://www.hypercubic.ai/hopper"
+                  >https://www.hypercubic.ai/hopper</a
+                >, and you can also request access and immediately get a
+                mainframe user account to play with.
+              </p>
+              <p>
+                There's also a video runthrough at
+                <a href="https://www.youtube.com/watch?v=q81L5DcfBvE"
+                  >https://www.youtube.com/watch?v=q81L5DcfBvE</a
+                >.
+              </p>
+              <p>
+                Mainframes still run a surprising amount of critical
+                infrastructure: banking, payments, insurance, airlines,
+                government programs, logistics, and core operations at large
+                institutions. Many of these systems are decades old, but they
+                continue to process enormous transaction volumes because they
+                are reliable, secure, and deeply embedded into business
+                operations.
+              </p>
+              <p>
+                A lot of that software is written in COBOL and runs on IBM z/OS.
+                The development environment looks very different from modern
+                cloud or Unix-style development. Instead of GitHub, shell
+                commands, package managers, and CI pipelines, developers often
+                work through TN3270 terminal sessions, ISPF panels, partitioned
+                datasets, JCL, JES queues, spool output, return codes, VSAM
+                files, CICS transactions, and shop-specific conventions.
+              </p>
+              <p>
+                TN3270 is the terminal interface used to interact with many IBM
+                mainframe systems. ISPF is the menu and panel system developers
+                use inside that terminal to browse datasets, edit source, submit
+                jobs, and inspect output. It is powerful and reliable, but it
+                was designed for expert humans navigating screens, function
+                keys, and fixed-width workflows, not AI agents.
+              </p>
+              <p>
+                A simple COBOL change might require finding the right source
+                member, checking copybooks, locating compile JCL, submitting a
+                job, reading JES/SYSPRINT output, interpreting condition codes,
+                patching fixed-width source, and resubmitting.
+              </p>
+              <p>
+                Much of this work is so well-defined and repetitive that it's a
+                good fit for agentic AI. To get that working, however, a chatbot
+                next to a terminal is not enough. The agent needs to operate
+                inside the mainframe environment.
+              </p>
+              <p>
+                Hopper combines three things: (1) A real TN3270 terminal, (2)
+                Mainframe-aware panels for datasets, members, jobs, and spool
+                output, and (3) An AI agent that can operate across those z/OS
+                surfaces.
+              </p>
+              <p>
+                For example, here is a tiny version of the kind of thing Hopper
+                can help debug:
+              </p>
+              <p></p>
+              <pre><code>  COBOL:
+
+   IDENTIFICATION DIVISION.
+   PROGRAM-ID. PAYCALC.
+
+   DATA DIVISION.
+   WORKING-STORAGE SECTION.
+   01  CUSTOMER-BALANCE     PIC 9(7)V99.
+
+   PROCEDURE DIVISION.
+       ADD 100.00 TO CUSTOMER-BALNCE
+       DISPLAY "UPDATED BALANCE: " CUSTOMER-BALANCE
+       STOP RUN.
+
+
+  JCL:
+
+    //PAYCOMP  JOB (ACCT),'COMPILE',CLASS=A,MSGCLASS=X
+    
+    //COBOL    EXEC IGYWCL
+    
+    [//COBOL.SYSIN](https://cobol.sysin/) DD DSN=USER1.APP.COBOL(PAYCALC),DISP=SHR
+    
+    [//LKED.SYSLMOD](https://lked.syslmod/) DD DSN=USER1.APP.LOAD(PAYCALC),DISP=SHR
+
+</code></pre>
+              A human would submit this job, inspect JES output, open
+              `SYSPRINT`, find the undefined `CUSTOMER-BALNCE`, map it back to
+              the source, patch the member, and resubmit. Hopper is designed to
+              let an agent operate through that same loop autonomously.
+              <p>
+                Hopper is not trying to hide the mainframe behind a generic
+                abstraction, and it's not a chatbot. The design principle is
+                simple: preserve the fidelity of the mainframe environment, but
+                make it accessible to AI agents.
+              </p>
+              <p>
+                Sensitive operations require approval, and the terminal remains
+                visible at all times.
+              </p>
+              <p>
+                Once agents can operate inside the mainframe environment, new
+                workflows become possible: faster job debugging, automated
+                documentation, safer code changes, test generation, migration
+                planning, traffic replay, and modernization verification.
+              </p>
+              <p>
+                We’re curious to hear your thoughts! especially from anyone who
+                has worked with mainframes, COBOL or has done legacy enterprise
+                modernization.
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="48110858">
+          <h3>
+            <a
+              class="item"
+              href="https://www.lttlabs.com/articles/2026/05/12/ups-exploration"
+              >Testing UPS Output Waveforms</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-05-12 @ 16:50:59</span
+              ><span class="points-container"
+                >Points: <span class="points">36</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48110858"
+                  >Comments</a
+                ><span class="descendants">: 32</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="48110593">
           <h3>
             <a class="item" href="https://news.ycombinator.com/item?id=48110593"
@@ -140,7 +504,7 @@
             <h4>
               <span>2026-05-12 @ 16:32:54</span
               ><span class="points-container"
-                >Points: <span class="points">20</span></span
+                >Points: <span class="points">28</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48110593"
                   >Comments</a
@@ -267,28 +631,6 @@
             </div>
           </section>
         </section>
-        <section id="48110529">
-          <h3>
-            <a
-              class="item"
-              href="https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/"
-              >Amazon employees are "tokenmaxxing" due to pressure to use AI
-              tools</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-05-12 @ 16:29:21</span
-              ><span class="points-container"
-                >Points: <span class="points">175</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48110529"
-                  >Comments</a
-                ><span class="descendants">: 156</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="48110021">
           <h3>
             <a
@@ -301,11 +643,11 @@
             <h4>
               <span>2026-05-12 @ 15:49:47</span
               ><span class="points-container"
-                >Points: <span class="points">181</span></span
+                >Points: <span class="points">196</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48110021"
                   >Comments</a
-                ><span class="descendants">: 162</span></span
+                ><span class="descendants">: 193</span></span
               >
             </h4>
           </section>
@@ -320,11 +662,11 @@
             <h4>
               <span>2026-05-12 @ 15:45:54</span
               ><span class="points-container"
-                >Points: <span class="points">146</span></span
+                >Points: <span class="points">213</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48109970"
                   >Comments</a
-                ><span class="descendants">: 64</span></span
+                ><span class="descendants">: 82</span></span
               >
             </h4>
           </section>
@@ -445,11 +787,11 @@
             <h4>
               <span>2026-05-12 @ 15:08:40</span
               ><span class="points-container"
-                >Points: <span class="points">134</span></span
+                >Points: <span class="points">221</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48109460"
                   >Comments</a
-                ><span class="descendants">: 56</span></span
+                ><span class="descendants">: 106</span></span
               >
             </h4>
           </section>
@@ -466,13 +808,127 @@
             <h4>
               <span>2026-05-12 @ 14:54:41</span
               ><span class="points-container"
-                >Points: <span class="points">775</span></span
+                >Points: <span class="points">909</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48109224"
                   >Comments</a
-                ><span class="descendants">: 278</span></span
+                ><span class="descendants">: 315</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="48108778">
+          <h3>
+            <a class="item" href="https://github.com/statewright/statewright"
+              >Show HN: Statewright – Visual state machines that make AI agents
+              reliable</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-05-12 @ 14:24:55</span
+              ><span class="points-container"
+                >Points: <span class="points">36</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48108778"
+                  >Comments</a
+                ><span class="descendants">: 8</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                I'm Ben Cochran, I spent 20+ years in the trenches with
+                full-stack Engineering, DevOps, high performance computing &amp;
+                ML with stints at NVIDIA, AMD and various other organizations
+                most recently as a Distinguished Engineer.
+              </p>
+              <p>
+                For agents to work reliably you either need massive parameter
+                counts or massive context windows to keep the solution spaces
+                workable. Most people are brute forcing reliability with bigger
+                models and longer prompts.
+              </p>
+              <p>
+                What if I made the problem smaller instead of making the model
+                bigger?
+              </p>
+              <p>
+                I took a different approach by using smaller models: models in
+                the 13-20B parameter range and set them to task solving real
+                SWE-bench problems. I constrained the tool and solution spaces
+                using formal state machines. Each state in the machine defines
+                which tools the model can access, how many iterations it gets
+                and what transitions are valid. A planning state gets read-only
+                tools. An implementation state gets edit tools (scoped to
+                prevent mega edits) and write friendly bash tools. The testing
+                state gets bash but only for testing commands. The model cannot
+                physically skip steps or use the wrong tool at the wrong time.
+                It is enforced via protocol, not via prompts.
+              </p>
+              <p>
+                The results were more promising than I would have expected.
+                Across multiple model families irrespective of age (qwen-coder,
+                gpt-oss, gemma4) and the improvements were consistent above the
+                13B parameter inflection point. Below that, models can navigate
+                the state machine but can't retain enough context to produce
+                accurate edits. More on the research bit:
+                <a href="https://statewright.ai/research"
+                  >https://statewright.ai/research</a
+                >
+              </p>
+              <p>
+                Surprisingly this yielded improvements in frontier models as
+                well. Haiku and Sonnet start to punch above their weight and
+                Opus solves more reliably with fewer tokens and death spirals.
+                Fine tuning did not yield these kinds of functional improvements
+                for me. The takeaway it seems is that context window utilization
+                matters more than raw context size - a tightly scoped working
+                context at each step outperforms a model given carte blanche
+                over everything. Constraining LLMs which are non-idempotent by
+                using deterministic code is a pattern that nobody is currently
+                talking about.
+              </p>
+              <p>
+                So, I built Statewright. Its core is a Rust engine that
+                evaluates state machine definitions: states, transitions, guards
+                and tool restrictions. Its orchestration doesn't use an LLM,
+                just enforces the state machine. On top of that is a plugin
+                layer that integrates with Claude Code (and soon Codex, Cursor
+                and others) via MCP. When you activate a workflow, hooks enforce
+                the guardrails per state automatically. The model sees 5 tools
+                available instead of dozens, gets clear instructions for the
+                current phase and transitions when conditions are met.
+                Importantly it tells the model when it's attempting to do
+                something that isn't in scope, incorrect or when it needs to try
+                something else after getting stuck.
+              </p>
+              <p>
+                You can use your agent via MCP to build a state machine for you
+                to solve a problem in your current context. The visual editor at
+                statewright.ai lets you tweak these workflows in a graph view...
+                You can clearly see the failure paths, the retry loops and the
+                approval gates. State machines aren't DAGs; they loop and retry,
+                which is what agentic work actually needs.
+              </p>
+              <p>
+                Statewright is currently live with a free tier, try it out in
+                Claude Code by running the following:
+              </p>
+              <p>/plugin marketplace add statewright/statewright</p>
+              <p>/plugin install statewright</p>
+              <p>/reload-plugins</p>
+              <p>
+                Then "start the bugfix workflow" or /statewright start bugfix.
+                You'll need to paste your API key when prompted. The latest
+                versions of Claude may complain -- paste the API key again and
+                say you really mean it, Claude is just being cautious here.
+              </p>
+              <p>
+                Feedback is welcome on the workflow editor, the plugin
+                experience, and tell me what workflows you'd want to build
+                first. Agents are suggestions, states are laws.
+              </p>
+            </div>
           </section>
         </section>
         <section id="48107997">
@@ -487,30 +943,11 @@
             <h4>
               <span>2026-05-12 @ 13:26:46</span
               ><span class="points-container"
-                >Points: <span class="points">315</span></span
+                >Points: <span class="points">343</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48107997"
                   >Comments</a
-                ><span class="descendants">: 28</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48107404">
-          <h3>
-            <a class="item" href="https://liquidream.itch.io/undune2"
-              >UnDUNE II</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-05-12 @ 12:38:45</span
-              ><span class="points-container"
-                >Points: <span class="points">140</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48107404"
-                  >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
           </section>
@@ -545,32 +982,11 @@
             <h4>
               <span>2026-05-12 @ 11:00:07</span
               ><span class="points-container"
-                >Points: <span class="points">432</span></span
+                >Points: <span class="points">442</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48106534"
                   >Comments</a
-                ><span class="descendants">: 381</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48106367">
-          <h3>
-            <a
-              class="item"
-              href="https://blog.coursera.org/coursera-and-udemy-are-now-one-company-creating-the-worlds-most-comprehensive-skills-platform/"
-              >Coursera and Udemy are now one company</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-05-12 @ 10:37:44</span
-              ><span class="points-container"
-                >Points: <span class="points">171</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48106367"
-                  >Comments</a
-                ><span class="descendants">: 73</span></span
+                ><span class="descendants">: 394</span></span
               >
             </h4>
           </section>
@@ -587,11 +1003,11 @@
             <h4>
               <span>2026-05-12 @ 09:30:21</span
               ><span class="points-container"
-                >Points: <span class="points">443</span></span
+                >Points: <span class="points">476</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48106024"
                   >Comments</a
-                ><span class="descendants">: 83</span></span
+                ><span class="descendants">: 97</span></span
               >
             </h4>
           </section>
@@ -606,32 +1022,11 @@
             <h4>
               <span>2026-05-12 @ 05:11:24</span
               ><span class="points-container"
-                >Points: <span class="points">575</span></span
+                >Points: <span class="points">603</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48104428"
                   >Comments</a
-                ><span class="descendants">: 296</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48104041">
-          <h3>
-            <a
-              class="item"
-              href="https://computer.rip/2026-05-09-extremely-low-frequencies.html"
-              >Extremely Low Frequencies</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-05-12 @ 03:59:35</span
-              ><span class="points-container"
-                >Points: <span class="points">185</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48104041"
-                  >Comments</a
-                ><span class="descendants">: 17</span></span
+                ><span class="descendants">: 315</span></span
               >
             </h4>
           </section>
@@ -648,11 +1043,11 @@
             <h4>
               <span>2026-05-12 @ 02:56:31</span
               ><span class="points-container"
-                >Points: <span class="points">142</span></span
+                >Points: <span class="points">179</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48103668"
                   >Comments</a
-                ><span class="descendants">: 118</span></span
+                ><span class="descendants">: 167</span></span
               >
             </h4>
             <div class="text">
@@ -670,46 +1065,6 @@
             </div>
           </section>
         </section>
-        <section id="48103511">
-          <h3>
-            <a class="item" href="https://eatonphil.com/bookclub.html"
-              >Software Internals Book Club</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-05-12 @ 02:28:11</span
-              ><span class="points-container"
-                >Points: <span class="points">184</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48103511"
-                  >Comments</a
-                ><span class="descendants">: 27</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48103042">
-          <h3>
-            <a
-              class="item"
-              href="https://claude.com/blog/claude-platform-on-aws"
-              >Claude Platform on AWS</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-05-12 @ 01:24:29</span
-              ><span class="points-container"
-                >Points: <span class="points">212</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48103042"
-                  >Comments</a
-                ><span class="descendants">: 89</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="48102700">
           <h3>
             <a
@@ -722,32 +1077,11 @@
             <h4>
               <span>2026-05-12 @ 00:37:54</span
               ><span class="points-container"
-                >Points: <span class="points">502</span></span
+                >Points: <span class="points">522</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48102700"
                   >Comments</a
-                ><span class="descendants">: 159</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48100868">
-          <h3>
-            <a
-              class="item"
-              href="https://poolside.ai/blog/through-the-looking-glass"
-              >Through the looking glass of benchmark hacking</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-05-11 @ 21:24:36</span
-              ><span class="points-container"
-                >Points: <span class="points">29</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48100868"
-                  >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 168</span></span
               >
             </h4>
           </section>
@@ -764,11 +1098,11 @@
             <h4>
               <span>2026-05-11 @ 21:08:25</span
               ><span class="points-container"
-                >Points: <span class="points">1029</span></span
+                >Points: <span class="points">1047</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48100706"
                   >Comments</a
-                ><span class="descendants">: 433</span></span
+                ><span class="descendants">: 435</span></span
               >
             </h4>
             <div class="text">
@@ -776,28 +1110,6 @@
                 >https://github.com/TanStack/router/issues/7383</a
               >
             </div>
-          </section>
-        </section>
-        <section id="48100662">
-          <h3>
-            <a
-              class="item"
-              href="https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/"
-              >I let AI build a tool to help me figure out what was waking me up
-              at night</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-05-11 @ 21:04:10</span
-              ><span class="points-container"
-                >Points: <span class="points">259</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48100662"
-                  >Comments</a
-                ><span class="descendants">: 274</span></span
-              >
-            </h4>
           </section>
         </section>
         <section id="48100433">
@@ -812,11 +1124,11 @@
             <h4>
               <span>2026-05-11 @ 20:45:55</span
               ><span class="points-container"
-                >Points: <span class="points">811</span></span
+                >Points: <span class="points">830</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48100433"
                   >Comments</a
-                ><span class="descendants">: 851</span></span
+                ><span class="descendants">: 883</span></span
               >
             </h4>
           </section>
@@ -834,11 +1146,11 @@
             <h4>
               <span>2026-05-11 @ 17:53:08</span
               ><span class="points-container"
-                >Points: <span class="points">424</span></span
+                >Points: <span class="points">428</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48098261"
                   >Comments</a
-                ><span class="descendants">: 86</span></span
+                ><span class="descendants">: 88</span></span
               >
             </h4>
           </section>
@@ -855,11 +1167,11 @@
             <h4>
               <span>2026-05-11 @ 15:30:17</span
               ><span class="points-container"
-                >Points: <span class="points">46</span></span
+                >Points: <span class="points">51</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48096328"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 32</span></span
               >
             </h4>
           </section>
@@ -876,51 +1188,11 @@
             <h4>
               <span>2026-05-10 @ 11:19:03</span
               ><span class="points-container"
-                >Points: <span class="points">76</span></span
+                >Points: <span class="points">78</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48082948"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48080179">
-          <h3>
-            <a
-              class="item"
-              href="https://phys.org/news/2026-05-years-struggles-obvious-massive-analysis.html"
-              >Analysis points to a unexpected cause of reading difficulties</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-05-10 @ 01:45:49</span
-              ><span class="points-container"
-                >Points: <span class="points">28</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48080179"
-                  >Comments</a
-                ><span class="descendants">: 42</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48080111">
-          <h3>
-            <a class="item" href="https://aresluna.org/seesaws-for-giants/"
-              >Chasing Chicago's movable bridges (2014)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-05-10 @ 01:31:23</span
-              ><span class="points-container"
-                >Points: <span class="points">69</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48080111"
-                  >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
@@ -935,33 +1207,51 @@
             <h4>
               <span>2026-05-09 @ 23:10:54</span
               ><span class="points-container"
-                >Points: <span class="points">28</span></span
+                >Points: <span class="points">38</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48079202"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="48075844">
+        <section id="48069562">
           <h3>
-            <a
-              class="item"
-              href="https://bogomolov.work/blog/posts/wasm-vs-docker/"
-              >Docker images are hundreds of MB; a full game engine compiles to
-              35MB WASM</a
+            <a class="item" href="https://themoth.org/dispatches/story-map"
+              >The Moth Story Map</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-05-09 @ 15:40:49</span
+              <span>2026-05-08 @ 22:30:23</span
               ><span class="points-container"
-                >Points: <span class="points">63</span></span
+                >Points: <span class="points">15</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48075844"
+                ><a href="https://news.ycombinator.com/item?id=48069562"
                   >Comments</a
-                ><span class="descendants">: 61</span></span
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48069032">
+          <h3>
+            <a
+              class="item"
+              href="https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f"
+              >When life gives you lemons, write better error messages</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-05-08 @ 21:31:44</span
+              ><span class="points-container"
+                >Points: <span class="points">73</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48069032"
+                  >Comments</a
+                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
