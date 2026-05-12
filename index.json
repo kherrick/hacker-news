@@ -1,12 +1,72 @@
 [
   [
     [
+      "2026-05-12, 12:00:46",
+      "https://news.ycombinator.com/item?id=48107024"
+    ],
+    [
+      "Text Blaze (YC W21) Is Hiring for a No-AI Summer Internship",
+      "https://www.ycombinator.com/companies/text-blaze/jobs/P4CCN62-the-blaze-no-ai-summer-internship"
+    ]
+  ],
+  [
+    [
+      "2026-05-12, 11:00:07",
+      "https://news.ycombinator.com/item?id=48106534"
+    ],
+    [
+      "EU to crack down on TikTok, Instagram's 'addictive design' targeting kids",
+      "https://www.cnbc.com/2026/05/12/tiktok-instagram-social-media-addictive-eu-crack-down.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-12, 10:37:44",
+      "https://news.ycombinator.com/item?id=48106367"
+    ],
+    [
+      "Coursera and Udemy are now one company",
+      "https://blog.coursera.org/coursera-and-udemy-are-now-one-company-creating-the-worlds-most-comprehensive-skills-platform/"
+    ]
+  ],
+  [
+    [
+      "2026-05-12, 10:29:24",
+      "https://news.ycombinator.com/item?id=48106316"
+    ],
+    [
+      "A HN post with negative points – how?",
+      "https://news.ycombinator.com/item?id=48104663"
+    ]
+  ],
+  [
+    [
+      "2026-05-12, 09:49:26",
+      "https://news.ycombinator.com/item?id=48106114"
+    ],
+    [
+      "Unitree GD01: China's $537k rideable transformer robot is now in production",
+      "https://gagadget.com/en/709729-unitree-gd01-chinas-537k-rideable-transformer-robot-is-now-in-production/"
+    ]
+  ],
+  [
+    [
       "2026-05-12, 09:30:21",
       "https://news.ycombinator.com/item?id=48106024"
     ],
     [
       "Learning Software Architecture",
       "https://matklad.github.io/2026/05/12/software-architecture.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-12, 08:28:45",
+      "https://news.ycombinator.com/item?id=48105670"
+    ],
+    [
+      "Music has scales / raagas. What about storytelling in movies and prestige shows?",
+      "https://arc.quanten.co/archetype"
     ]
   ],
   [
@@ -141,16 +201,6 @@
   ],
   [
     [
-      "2026-05-11, 16:22:31",
-      "https://news.ycombinator.com/item?id=48097078"
-    ],
-    [
-      "Interfaze: A new model architecture built for high accuracy at scale",
-      "https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale"
-    ]
-  ],
-  [
-    [
       "2026-05-11, 16:05:50",
       "https://news.ycombinator.com/item?id=48096842"
     ],
@@ -171,32 +221,22 @@
   ],
   [
     [
-      "2026-05-10, 17:05:05",
-      "https://news.ycombinator.com/item?id=48085685"
+      "2026-05-09, 18:45:01",
+      "https://news.ycombinator.com/item?id=48077205"
     ],
     [
-      "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
-      "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html"
+      "Optimize for change not application performance",
+      "https://www.echooff.dev/blog/developer-experience-is-a-performance-feature"
     ]
   ],
   [
     [
-      "2026-05-10, 02:06:19",
-      "https://news.ycombinator.com/item?id=48080316"
+      "2026-05-09, 15:40:49",
+      "https://news.ycombinator.com/item?id=48075844"
     ],
     [
-      "Silverback Imfura took a chance, and ended up alone",
-      "https://gorillafund.org/mountain-gorillas/silverback-imfura-took-a-chance-and-ended-up-alone/"
-    ]
-  ],
-  [
-    [
-      "2026-05-09, 17:49:44",
-      "https://news.ycombinator.com/item?id=48076798"
-    ],
-    [
-      "VGA Memory Access Is Complicated",
-      "https://www.os2museum.com/wp/learn-something-old-every-day-part-xxi-vga-memory-access-is-complicated/"
+      "Docker images are MB; a full game engine compiles to 35MB WASM",
+      "https://bogomolov.work/blog/posts/wasm-vs-docker/"
     ]
   ],
   [
@@ -241,26 +281,6 @@
   ],
   [
     [
-      "2026-05-08, 14:45:04",
-      "https://news.ycombinator.com/item?id=48063998"
-    ],
-    [
-      "Words Fail (2020)",
-      "https://carcinisation.com/2020/06/26/words-fail/"
-    ]
-  ],
-  [
-    [
-      "2026-05-08, 14:43:50",
-      "https://news.ycombinator.com/item?id=48063979"
-    ],
-    [
-      "When semiconductor materials misbehave",
-      "https://semiengineering.com/when-semiconductor-materials-misbehave/"
-    ]
-  ],
-  [
-    [
       "2026-05-08, 08:00:44",
       "https://news.ycombinator.com/item?id=48060077"
     ],
@@ -277,26 +297,6 @@
     [
       "I hate soldering",
       "https://user8.bearblog.dev/rant/"
-    ]
-  ],
-  [
-    [
-      "2026-05-07, 18:07:30",
-      "https://news.ycombinator.com/item?id=48052710"
-    ],
-    [
-      "A lost ancient script reveals how writing as we know it began",
-      "https://www.newscientist.com/article/2524042-a-lost-ancient-script-reveals-how-writing-as-we-know-it-really-began/"
-    ]
-  ],
-  [
-    [
-      "2026-05-07, 16:43:11",
-      "https://news.ycombinator.com/item?id=48051555"
-    ],
-    [
-      "The rise and fall of snake oil",
-      "https://www.historytoday.com/archive/history-matters/rise-and-fall-snake-oil"
     ]
   ]
 ]
