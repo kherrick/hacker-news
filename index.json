@@ -1,12 +1,52 @@
 [
   [
     [
-      "2026-05-11, 23:54:28",
-      "https://news.ycombinator.com/item?id=48102360"
+      "2026-05-12, 03:28:48",
+      "https://news.ycombinator.com/item?id=48103871"
     ],
     [
-      "Can we code our way out of gentrification?",
-      "https://www.freerange.city/p/can-we-code-our-way-out-of-gentrification"
+      "Productivity Isn't About Going Faster",
+      "https://humanpro.co/articles/productivity-isnt-about-going-faster/"
+    ]
+  ],
+  [
+    [
+      "2026-05-12, 02:33:10",
+      "https://news.ycombinator.com/item?id=48103529"
+    ],
+    [
+      "Why Everyone's Picking Up a PSP Again in 2026",
+      "https://gardinerbryant.com/psp-in-2026/"
+    ]
+  ],
+  [
+    [
+      "2026-05-12, 02:28:11",
+      "https://news.ycombinator.com/item?id=48103511"
+    ],
+    [
+      "Software Internals Book Club",
+      "https://eatonphil.com/bookclub.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-12, 01:24:29",
+      "https://news.ycombinator.com/item?id=48103042"
+    ],
+    [
+      "Claude Platform on AWS",
+      "https://claude.com/blog/claude-platform-on-aws"
+    ]
+  ],
+  [
+    [
+      "2026-05-12, 00:37:54",
+      "https://news.ycombinator.com/item?id=48102700"
+    ],
+    [
+      "They Live (1988) inspired Adblocker",
+      "https://github.com/davmlaw/they_live_adblocker"
     ]
   ],
   [
@@ -71,32 +111,12 @@
   ],
   [
     [
-      "2026-05-11, 20:26:17",
-      "https://news.ycombinator.com/item?id=48100227"
-    ],
-    [
-      "Show HN: E2a – Open-source email gateway for AI agents",
-      "https://github.com/Mnexa-AI/e2a"
-    ]
-  ],
-  [
-    [
       "2026-05-11, 20:23:25",
       "https://news.ycombinator.com/item?id=48100192"
     ],
     [
       "Show HN: OpenGravity – A zero-install, BYOK vanilla JS clone of Antigravity",
       "https://github.com/ab-613/opengravity"
-    ]
-  ],
-  [
-    [
-      "2026-05-11, 19:49:39",
-      "https://news.ycombinator.com/item?id=48099790"
-    ],
-    [
-      "Linux Terminal Memory Usage",
-      "https://gilesorr.com/blog/linux-terminal-memory-usage.html"
     ]
   ],
   [
@@ -151,42 +171,12 @@
   ],
   [
     [
-      "2026-05-11, 14:34:08",
-      "https://news.ycombinator.com/item?id=48095550"
-    ],
-    [
-      "Software engineering may no longer be a lifetime career",
-      "https://www.seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/"
-    ]
-  ],
-  [
-    [
       "2026-05-11, 13:20:14",
       "https://news.ycombinator.com/item?id=48094641"
     ],
     [
       "Google says criminal hackers used AI to find a major software flaw",
       "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-11, 10:13:04",
-      "https://news.ycombinator.com/item?id=48093100"
-    ],
-    [
-      "Ratty – A terminal emulator with inline 3D graphics",
-      "https://ratty-term.org/"
-    ]
-  ],
-  [
-    [
-      "2026-05-11, 07:26:54",
-      "https://news.ycombinator.com/item?id=48092028"
-    ],
-    [
-      "Gmail registration now requires scanning a QR code and sending a text message",
-      "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082"
     ]
   ],
   [
@@ -231,22 +221,32 @@
   ],
   [
     [
-      "2026-05-09, 08:26:57",
-      "https://news.ycombinator.com/item?id=48073121"
+      "2026-05-09, 17:49:44",
+      "https://news.ycombinator.com/item?id=48076798"
     ],
     [
-      "Counting Fast in Erlang with:counters and:atomics",
-      "https://andrealeopardi.com/posts/erlang-counters-and-atomics/"
+      "VGA Memory Access Is Complicated",
+      "https://www.os2museum.com/wp/learn-something-old-every-day-part-xxi-vga-memory-access-is-complicated/"
     ]
   ],
   [
     [
-      "2026-05-08, 22:47:06",
-      "https://news.ycombinator.com/item?id=48069685"
+      "2026-05-09, 13:03:33",
+      "https://news.ycombinator.com/item?id=48074668"
     ],
     [
-      "The Boston library where you still can borrow a giant puppet",
-      "https://binj.news/2026/05/06/the-boston-library-where-you-still-can-borrow-a-giant-puppet/"
+      "Show HN: A modern Music Player Daemon based on Rockbox firmware",
+      "https://github.com/tsirysndr/rockbox-zig"
+    ]
+  ],
+  [
+    [
+      "2026-05-09, 12:49:52",
+      "https://news.ycombinator.com/item?id=48074589"
+    ],
+    [
+      "Boriel BASIC",
+      "https://zxbasic.readthedocs.io/en/docs/"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2026-05-07, 18:07:30",
+      "https://news.ycombinator.com/item?id=48052710"
+    ],
+    [
+      "A lost ancient script reveals how writing as we know it began",
+      "https://www.newscientist.com/article/2524042-a-lost-ancient-script-reveals-how-writing-as-we-know-it-really-began/"
+    ]
+  ],
+  [
+    [
       "2026-05-07, 16:43:11",
       "https://news.ycombinator.com/item?id=48051555"
     ],
     [
       "The rise and fall of snake oil",
       "https://www.historytoday.com/archive/history-matters/rise-and-fall-snake-oil"
-    ]
-  ],
-  [
-    [
-      "2026-05-07, 13:42:15",
-      "https://news.ycombinator.com/item?id=48049343"
-    ],
-    [
-      "From Buffon's Needle to Buffon's Noodle",
-      "https://mbmccoy.dev/posts/buffons-noodle/"
     ]
   ]
 ]
