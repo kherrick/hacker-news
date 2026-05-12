@@ -40,6 +40,7 @@
 * [2026-05-08, 16:17:37](https://news.ycombinator.com/item?id=48065203) - [Show HN: GETadb.com – every GET request creates a DB](https://www.getadb.com/)
 * [2026-05-08, 15:46:12](https://news.ycombinator.com/item?id=48064789) - [5x perf increase on writes with FPW disabled in Postgres](https://www.databricks.com/blog/how-lakebase-architecture-delivers-5x-faster-postgres-writes)
 * [2026-05-08, 15:10:35](https://news.ycombinator.com/item?id=48064312) - [Serving a Website on a Raspberry Pi Zero Running in RAM](https://btxx.org/posts/memory/)
+* [2026-05-08, 14:43:50](https://news.ycombinator.com/item?id=48063979) - [When semiconductor materials misbehave](https://semiengineering.com/when-semiconductor-materials-misbehave/)
 * [2026-05-08, 14:15:36](https://news.ycombinator.com/item?id=48063548) - [Show HN: Git for AI Agents](https://github.com/regent-vcs/re_gent)
 * [2026-05-08, 14:14:31](https://news.ycombinator.com/item?id=48063521) - [PC Engine CPU](https://jsgroth.dev/blog/posts/pc-engine-cpu/)
 * [2026-05-08, 13:58:32](https://news.ycombinator.com/item?id=48063240) - [Tesla is recalling its cheaper Cybertruck because the wheels might fall off](https://www.theverge.com/transportation/926741/tesla-cybertruck-cheaper-recall)
