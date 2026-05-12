@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-05-11, 23:54:28",
+      "https://news.ycombinator.com/item?id=48102360"
+    ],
+    [
+      "Can we code our way out of gentrification?",
+      "https://www.freerange.city/p/can-we-code-our-way-out-of-gentrification"
+    ]
+  ],
+  [
+    [
       "2026-05-11, 21:35:38",
       "https://news.ycombinator.com/item?id=48100970"
     ],
@@ -15,8 +25,18 @@
       "https://news.ycombinator.com/item?id=48100706"
     ],
     [
-      "TanStack NPM Packages Compromised",
-      "https://github.com/TanStack/router/issues/7383"
+      "Postmortem: TanStack npm supply-chain compromise",
+      "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem"
+    ]
+  ],
+  [
+    [
+      "2026-05-11, 21:04:10",
+      "https://news.ycombinator.com/item?id=48100662"
+    ],
+    [
+      "I let AI build a tool to help me figure out what was waking me up at night",
+      "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/"
     ]
   ],
   [
@@ -35,8 +55,18 @@
       "https://news.ycombinator.com/item?id=48100500"
     ],
     [
-      "GitLab Announces Workforce Reduction and End of Their CREDIT Values",
+      "GitLab announces workforce reduction and end of their CREDIT values",
       "https://about.gitlab.com/blog/gitlab-act-2/"
+    ]
+  ],
+  [
+    [
+      "2026-05-11, 20:45:55",
+      "https://news.ycombinator.com/item?id=48100433"
+    ],
+    [
+      "If AI writes your code, why use Python?",
+      "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055"
     ]
   ],
   [
@@ -71,32 +101,12 @@
   ],
   [
     [
-      "2026-05-11, 19:38:10",
-      "https://news.ycombinator.com/item?id=48099665"
-    ],
-    [
-      "Red Hot Chili Peppers ink $300M deal with Warner Music to sell catalog",
-      "https://www.hollywoodreporter.com/music/music-industry-news/wmg-acquired-red-hot-chili-peppers-catalog-for-350-million-1236589567/"
-    ]
-  ],
-  [
-    [
       "2026-05-11, 19:33:31",
       "https://news.ycombinator.com/item?id=48099616"
     ],
     [
       "Library for fast mapping of Java records to native memory",
       "https://github.com/mamba-studio/TypedMemory"
-    ]
-  ],
-  [
-    [
-      "2026-05-11, 18:12:38",
-      "https://news.ycombinator.com/item?id=48098537"
-    ],
-    [
-      "Can someone please explain whether Cloudflare blackmailed Canonical?",
-      "https://www.flyingpenguin.com/can-someone-please-explain-whether-cloudflare-blackmailed-canonical/"
     ]
   ],
   [
@@ -211,22 +221,22 @@
   ],
   [
     [
+      "2026-05-10, 01:49:09",
+      "https://news.ycombinator.com/item?id=48080201"
+    ],
+    [
+      "Abstract Machines for Logic Programs",
+      "https://chrisistyping.bearblog.dev/abstract-machines-for-logic-programs/"
+    ]
+  ],
+  [
+    [
       "2026-05-09, 08:26:57",
       "https://news.ycombinator.com/item?id=48073121"
     ],
     [
       "Counting Fast in Erlang with:counters and:atomics",
       "https://andrealeopardi.com/posts/erlang-counters-and-atomics/"
-    ]
-  ],
-  [
-    [
-      "2026-05-09, 00:42:22",
-      "https://news.ycombinator.com/item?id=48070571"
-    ],
-    [
-      "Venom and hot peppers offer a key to killing resistant bacteria",
-      "https://www.wired.com/story/mexican-science-transforms-scorpion-venom-and-habanero-chile-into-antibiotics-against-resistant-bacteria/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Nullsoft, 1997-2004 (2004)",
       "https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-08, 03:43:08",
-      "https://news.ycombinator.com/item?id=48058260"
-    ],
-    [
-      "Guitar tuner that uses phone accelerometer",
-      "https://tautme.github.io/phone-sensors/accel-tuner.html"
     ]
   ],
   [
