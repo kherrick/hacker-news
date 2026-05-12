@@ -49,3 +49,4 @@
 * [2026-05-10, 03:01:44](https://news.ycombinator.com/item?id=48080587) - [Show HN: Building a web server in assembly to give my life (a lack of) meaning](https://github.com/imtomt/ymawky)
 * [2026-05-10, 02:06:19](https://news.ycombinator.com/item?id=48080316) - [Silverback Imfura took a chance, and ended up alone](https://gorillafund.org/mountain-gorillas/silverback-imfura-took-a-chance-and-ended-up-alone/)
 * [2026-05-10, 01:52:55](https://news.ycombinator.com/item?id=48080221) - [Sparse Cholesky Elimination Tree](https://www.reidatcheson.com/sparse/linear/cholesky/2026/04/09/etree.html)
+* [2026-05-10, 01:49:09](https://news.ycombinator.com/item?id=48080201) - [Abstract Machines for Logic Programs](https://chrisistyping.bearblog.dev/abstract-machines-for-logic-programs/)
