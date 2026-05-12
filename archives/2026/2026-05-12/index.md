@@ -4,7 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-05-12](index.md)
 
+* [2026-05-12, 12:00:46](https://news.ycombinator.com/item?id=48107024) - [Text Blaze (YC W21) Is Hiring for a No-AI Summer Internship](https://www.ycombinator.com/companies/text-blaze/jobs/P4CCN62-the-blaze-no-ai-summer-internship)
+* [2026-05-12, 11:00:07](https://news.ycombinator.com/item?id=48106534) - [EU to crack down on TikTok, Instagram's 'addictive design' targeting kids](https://www.cnbc.com/2026/05/12/tiktok-instagram-social-media-addictive-eu-crack-down.html)
+* [2026-05-12, 10:37:44](https://news.ycombinator.com/item?id=48106367) - [Coursera and Udemy are now one company](https://blog.coursera.org/coursera-and-udemy-are-now-one-company-creating-the-worlds-most-comprehensive-skills-platform/)
+* [2026-05-12, 10:29:24](https://news.ycombinator.com/item?id=48106316) - [A HN post with negative points – how?](https://news.ycombinator.com/item?id=48104663)
+* [2026-05-12, 09:49:26](https://news.ycombinator.com/item?id=48106114) - [Unitree GD01: China's $537k rideable transformer robot is now in production](https://gagadget.com/en/709729-unitree-gd01-chinas-537k-rideable-transformer-robot-is-now-in-production/)
 * [2026-05-12, 09:30:21](https://news.ycombinator.com/item?id=48106024) - [Learning Software Architecture](https://matklad.github.io/2026/05/12/software-architecture.html)
+* [2026-05-12, 08:28:45](https://news.ycombinator.com/item?id=48105670) - [Music has scales / raagas. What about storytelling in movies and prestige shows?](https://arc.quanten.co/archetype)
 * [2026-05-12, 07:31:38](https://news.ycombinator.com/item?id=48105297) - [Toxicity on Social Media – The Noisy Room](https://thenoisyroom.com)
 * [2026-05-12, 05:11:24](https://news.ycombinator.com/item?id=48104428) - [Screenshots of Old Desktop OSes](http://www.typewritten.org/Media/)
 * [2026-05-12, 03:59:35](https://news.ycombinator.com/item?id=48104041) - [Extremely Low Frequencies](https://computer.rip/2026-05-09-extremely-low-frequencies.html)
