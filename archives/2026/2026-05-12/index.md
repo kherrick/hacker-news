@@ -4,6 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-05-12](index.md)
 
+* [2026-05-12, 18:12:28](https://news.ycombinator.com/item?id=48112042) - [CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq](https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html)
+* [2026-05-12, 18:03:11](https://news.ycombinator.com/item?id=48111896) - [Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model](https://github.com/cactus-compute/needle)
+* [2026-05-12, 17:52:34](https://news.ycombinator.com/item?id=48111748) - [Dead.Letter (CVE-2026-45185) – How XBOW found an unauthenticated RCE on Exim](https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim)
+* [2026-05-12, 17:40:13](https://news.ycombinator.com/item?id=48111581) - [Reimagining the mouse pointer for the AI era](https://deepmind.google/blog/ai-pointer/)
+* [2026-05-12, 17:37:36](https://news.ycombinator.com/item?id=48111545) - [Googlebook](https://googlebook.google/)
+* [2026-05-12, 17:35:58](https://news.ycombinator.com/item?id=48111531) - [Canada’s Bill C-22 Is a Repackaged Version of Last Year’s Surveillance Nightmare](https://www.eff.org/deeplinks/2026/05/canadas-bill-c-22-repackaged-version-last-years-surveillance-nightmare)
+* [2026-05-12, 17:10:22](https://news.ycombinator.com/item?id=48111143) - [Show HN: Agentic interface for mainframes and COBOL](https://www.hypercubic.ai/hopper)
+* [2026-05-12, 16:50:59](https://news.ycombinator.com/item?id=48110858) - [Testing UPS Output Waveforms](https://www.lttlabs.com/articles/2026/05/12/ups-exploration)
 * [2026-05-12, 16:32:54](https://news.ycombinator.com/item?id=48110593) - [Show HN: Gigacatalyst – Extend your SaaS with an embedded AI builder](https://news.ycombinator.com/item?id=48110593)
 * [2026-05-12, 16:29:21](https://news.ycombinator.com/item?id=48110529) - [Amazon employees are \"tokenmaxxing\" due to pressure to use AI tools](https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/)
 * [2026-05-12, 15:49:47](https://news.ycombinator.com/item?id=48110021) - [eBay Rejects GameStop's $56B Takeover as Not Credible](https://www.bloomberg.com/news/articles/2026-05-12/ebay-rejects-gamestop-s-56-billion-takeover-as-not-credible)
@@ -11,6 +19,7 @@
 * [2026-05-12, 15:45:20](https://news.ycombinator.com/item?id=48109962) - [Launch HN: Voker (YC S24) – Analytics for AI Agents](https://voker.ai)
 * [2026-05-12, 15:08:40](https://news.ycombinator.com/item?id=48109460) - [Why senior developers fail to communicate their expertise](https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise)
 * [2026-05-12, 14:54:41](https://news.ycombinator.com/item?id=48109224) - [Bambu Lab is abusing the open source social contract](https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/)
+* [2026-05-12, 14:24:55](https://news.ycombinator.com/item?id=48108778) - [Show HN: Statewright – Visual state machines that make AI agents reliable](https://github.com/statewright/statewright)
 * [2026-05-12, 13:26:46](https://news.ycombinator.com/item?id=48107997) - [Rendering the Sky, Sunsets, and Planets](https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/)
 * [2026-05-12, 12:38:45](https://news.ycombinator.com/item?id=48107404) - [UnDUNE II](https://liquidream.itch.io/undune2)
 * [2026-05-12, 12:00:46](https://news.ycombinator.com/item?id=48107024) - [Text Blaze (YC W21) Is Hiring for a No-AI Summer Internship](https://www.ycombinator.com/companies/text-blaze/jobs/P4CCN62-the-blaze-no-ai-summer-internship)
