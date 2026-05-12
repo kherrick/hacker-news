@@ -6,6 +6,7 @@
 
 * [2026-05-10, 23:39:55](https://news.ycombinator.com/item?id=48089289) - [An AI coding agent, used to write code, needs to reduce your maintenance costs](https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs)
 * [2026-05-10, 23:36:48](https://news.ycombinator.com/item?id=48089263) - [PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs](https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656)
+* [2026-05-10, 23:09:53](https://news.ycombinator.com/item?id=48089098) - [Riding the D in Los Angeles: city hopes new subway stations will be game changer](https://www.theguardian.com/us-news/2026/may/09/los-angeles-subway-public-transportation)
 * [2026-05-10, 23:09:10](https://news.ycombinator.com/item?id=48089091) - [Running local models on an M4 with 24GB memory](https://jola.dev/posts/running-local-models-on-m4)
 * [2026-05-10, 23:02:31](https://news.ycombinator.com/item?id=48089049) - [How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?](https://dunkels.com/adam/claude-user-space-ip-stack-ping/)
 * [2026-05-10, 22:02:43](https://news.ycombinator.com/item?id=48088576) - [Obsidian plugin was abused to deploy a remote access trojan](https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/)

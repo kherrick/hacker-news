@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-12](index.md)
 
+* [2026-05-12, 20:58:18](https://news.ycombinator.com/item?id=48114461) - [Meta employees protest against mouse tracking tech at US offices](https://www.reuters.com/sustainability/society-equity/meta-us-employees-organize-protest-against-mouse-tracking-tech-2026-05-12/)
 * [2026-05-12, 20:16:26](https://news.ycombinator.com/item?id=48113895) - [How to make your text look futuristic](https://typesetinthefuture.com/2016/02/18/futuristic/)
 * [2026-05-12, 19:51:41](https://news.ycombinator.com/item?id=48113518) - [Beyond Semantic Similarity](https://arxiv.org/abs/2605.05242)
 * [2026-05-12, 19:45:02](https://news.ycombinator.com/item?id=48113425) - [Snowflake Postgres, Lakebase, HorizonDB: Picking the Lock-In You Want](https://thebuild.com/blog/2026/05/12/snowflake-postgres-lakebase-horizondb-picking-the-lock-in-you-want/)
@@ -15,6 +16,7 @@
 * [2026-05-12, 17:40:13](https://news.ycombinator.com/item?id=48111581) - [Reimagining the mouse pointer for the AI era](https://deepmind.google/blog/ai-pointer/)
 * [2026-05-12, 17:37:36](https://news.ycombinator.com/item?id=48111545) - [Googlebook](https://googlebook.google/)
 * [2026-05-12, 17:35:58](https://news.ycombinator.com/item?id=48111531) - [Canada’s Bill C-22 Is a Repackaged Version of Last Year’s Surveillance Nightmare](https://www.eff.org/deeplinks/2026/05/canadas-bill-c-22-repackaged-version-last-years-surveillance-nightmare)
+* [2026-05-12, 17:16:59](https://news.ycombinator.com/item?id=48111243) - [Is this why science advances one funeral at a time?](https://nautil.us/is-this-why-science-advances-one-funeral-at-a-time-1280650)
 * [2026-05-12, 17:10:22](https://news.ycombinator.com/item?id=48111143) - [Show HN: Agentic interface for mainframes and COBOL](https://www.hypercubic.ai/hopper)
 * [2026-05-12, 16:50:59](https://news.ycombinator.com/item?id=48110858) - [Testing UPS Output Waveforms](https://www.lttlabs.com/articles/2026/05/12/ups-exploration)
 * [2026-05-12, 16:32:54](https://news.ycombinator.com/item?id=48110593) - [Show HN: Gigacatalyst – Extend your SaaS with an embedded AI builder](https://news.ycombinator.com/item?id=48110593)
