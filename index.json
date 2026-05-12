@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-05-12, 14:54:41",
+      "https://news.ycombinator.com/item?id=48109224"
+    ],
+    [
+      "Bambu Lab is abusing the open source social contract",
+      "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/"
+    ]
+  ],
+  [
+    [
+      "2026-05-12, 13:26:46",
+      "https://news.ycombinator.com/item?id=48107997"
+    ],
+    [
+      "Rendering the Sky, Sunsets, and Planets",
+      "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/"
+    ]
+  ],
+  [
+    [
+      "2026-05-12, 12:38:45",
+      "https://news.ycombinator.com/item?id=48107404"
+    ],
+    [
+      "UnDUNE II",
+      "https://liquidream.itch.io/undune2"
+    ]
+  ],
+  [
+    [
       "2026-05-12, 12:00:46",
       "https://news.ycombinator.com/item?id=48107024"
     ],
@@ -41,42 +71,12 @@
   ],
   [
     [
-      "2026-05-12, 09:49:26",
-      "https://news.ycombinator.com/item?id=48106114"
-    ],
-    [
-      "Unitree GD01: China's $537k rideable transformer robot is now in production",
-      "https://gagadget.com/en/709729-unitree-gd01-chinas-537k-rideable-transformer-robot-is-now-in-production/"
-    ]
-  ],
-  [
-    [
       "2026-05-12, 09:30:21",
       "https://news.ycombinator.com/item?id=48106024"
     ],
     [
       "Learning Software Architecture",
       "https://matklad.github.io/2026/05/12/software-architecture.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-12, 08:28:45",
-      "https://news.ycombinator.com/item?id=48105670"
-    ],
-    [
-      "Music has scales / raagas. What about storytelling in movies and prestige shows?",
-      "https://arc.quanten.co/archetype"
-    ]
-  ],
-  [
-    [
-      "2026-05-12, 07:31:38",
-      "https://news.ycombinator.com/item?id=48105297"
-    ],
-    [
-      "Toxicity on Social Media – The Noisy Room",
-      "https://thenoisyroom.com"
     ]
   ],
   [
@@ -131,6 +131,16 @@
   ],
   [
     [
+      "2026-05-11, 21:24:36",
+      "https://news.ycombinator.com/item?id=48100868"
+    ],
+    [
+      "Through the looking glass of benchmark hacking",
+      "https://poolside.ai/blog/through-the-looking-glass"
+    ]
+  ],
+  [
+    [
       "2026-05-11, 21:08:25",
       "https://news.ycombinator.com/item?id=48100706"
     ],
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2026-05-11, 19:33:31",
-      "https://news.ycombinator.com/item?id=48099616"
-    ],
-    [
-      "Library for fast mapping of Java records to native memory",
-      "https://github.com/mamba-studio/TypedMemory"
-    ]
-  ],
-  [
-    [
       "2026-05-11, 17:53:08",
       "https://news.ycombinator.com/item?id=48098261"
     ],
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2026-05-11, 15:30:17",
+      "https://news.ycombinator.com/item?id=48096328"
+    ],
+    [
+      "The Surprisingly Long Life of the Vacuum Tube",
+      "https://www.construction-physics.com/p/the-surprisingly-long-life-of-the"
+    ]
+  ],
+  [
+    [
       "2026-05-11, 13:20:14",
       "https://news.ycombinator.com/item?id=48094641"
     ],
@@ -221,22 +231,32 @@
   ],
   [
     [
-      "2026-05-09, 18:45:01",
-      "https://news.ycombinator.com/item?id=48077205"
+      "2026-05-10, 11:19:03",
+      "https://news.ycombinator.com/item?id=48082948"
     ],
     [
-      "Optimize for change not application performance",
-      "https://www.echooff.dev/blog/developer-experience-is-a-performance-feature"
+      "Profiling.sampling – Statistical Profiler",
+      "https://docs.python.org/3.15/library/profiling.sampling.html#module-profiling.sampling"
     ]
   ],
   [
     [
-      "2026-05-09, 15:40:49",
-      "https://news.ycombinator.com/item?id=48075844"
+      "2026-05-10, 01:45:49",
+      "https://news.ycombinator.com/item?id=48080179"
     ],
     [
-      "Docker images are MB; a full game engine compiles to 35MB WASM",
-      "https://bogomolov.work/blog/posts/wasm-vs-docker/"
+      "Analysis points to a unexpected cause of reading difficulties",
+      "https://phys.org/news/2026-05-years-struggles-obvious-massive-analysis.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-10, 01:31:23",
+      "https://news.ycombinator.com/item?id=48080111"
+    ],
+    [
+      "Chasing Chicago's movable bridges (2014)",
+      "https://aresluna.org/seesaws-for-giants/"
     ]
   ],
   [
@@ -247,26 +267,6 @@
     [
       "Rtwatch: Watch videos with friends using WebRTC",
       "https://github.com/pion/rtwatch"
-    ]
-  ],
-  [
-    [
-      "2026-05-09, 13:03:33",
-      "https://news.ycombinator.com/item?id=48074668"
-    ],
-    [
-      "Show HN: A modern Music Player Daemon based on Rockbox firmware",
-      "https://github.com/tsirysndr/rockbox-zig"
-    ]
-  ],
-  [
-    [
-      "2026-05-09, 12:49:52",
-      "https://news.ycombinator.com/item?id=48074589"
-    ],
-    [
-      "Boriel BASIC",
-      "https://zxbasic.readthedocs.io/en/docs/"
     ]
   ],
   [
