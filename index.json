@@ -1,12 +1,52 @@
 [
   [
     [
-      "2026-05-13, 18:46:51",
-      "https://news.ycombinator.com/item?id=48125801"
+      "2026-05-13, 20:12:16",
+      "https://news.ycombinator.com/item?id=48126848"
     ],
     [
-      "Altman forced to confront claims at OpenAI trial that he's a prolific liar",
-      "https://arstechnica.com/tech-policy/2026/05/altman-forced-to-confront-claims-at-openai-trial-that-hes-a-prolific-liar/"
+      "Princeton mandates proctoring in-person exams, upending 133 years of precedent",
+      "https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent"
+    ]
+  ],
+  [
+    [
+      "2026-05-13, 19:59:35",
+      "https://news.ycombinator.com/item?id=48126675"
+    ],
+    [
+      "Rars: a Rust RAR implementation, mostly written by LLMs",
+      "https://bitplane.net/log/2026/05/rars/"
+    ]
+  ],
+  [
+    [
+      "2026-05-13, 19:14:47",
+      "https://news.ycombinator.com/item?id=48126156"
+    ],
+    [
+      "Making the news available at no cost is a victory",
+      "https://www.sltrib.com/opinion/commentary/2026/05/12/just-days-tribune-reporting/"
+    ]
+  ],
+  [
+    [
+      "2026-05-13, 19:01:54",
+      "https://news.ycombinator.com/item?id=48126000"
+    ],
+    [
+      "\"Not Medically Necessary\": Helping America's Health Insurers Deny Coverage",
+      "https://www.propublica.org/article/evicore-health-insurance-denials-cigna-unitedhealthcare-aetna-prior-authorizations"
+    ]
+  ],
+  [
+    [
+      "2026-05-13, 18:30:51",
+      "https://news.ycombinator.com/item?id=48125617"
+    ],
+    [
+      "MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble",
+      "https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/"
     ]
   ],
   [
@@ -21,12 +61,12 @@
   ],
   [
     [
-      "2026-05-13, 17:55:06",
-      "https://news.ycombinator.com/item?id=48125194"
+      "2026-05-13, 18:20:22",
+      "https://news.ycombinator.com/item?id=48125494"
     ],
     [
-      "Telegram Is Gone",
-      "https://lazybea.rs/telegram-is-gone/"
+      "ReactOS",
+      "https://reactos.org/"
     ]
   ],
   [
@@ -37,16 +77,6 @@
     [
       "Launch HN: Ardent (YC P26) – Postgres sandboxes in seconds with zero migration",
       "https://www.tryardent.com/"
-    ]
-  ],
-  [
-    [
-      "2026-05-13, 16:22:10",
-      "https://news.ycombinator.com/item?id=48124002"
-    ],
-    [
-      "Haiku",
-      "https://www.haiku-os.org"
     ]
   ],
   [
@@ -75,7 +105,7 @@
       "https://news.ycombinator.com/item?id=48122635"
     ],
     [
-      "Setting up a free *.city.state.us locality domain",
+      "Setting up a free *.city.state.us locality domain (2025)",
       "https://fredchan.org/blog/locality-domains-guide/"
     ]
   ],
@@ -121,22 +151,12 @@
   ],
   [
     [
-      "2026-05-13, 11:02:57",
-      "https://news.ycombinator.com/item?id=48120351"
+      "2026-05-13, 11:26:33",
+      "https://news.ycombinator.com/item?id=48120514"
     ],
     [
-      "Using OR-Tools CP-SAT for Scheduling Problems",
-      "https://atalaykutlay.com/or-tools-cp-sat-for-scheduling-problems.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-13, 08:41:30",
-      "https://news.ycombinator.com/item?id=48119326"
-    ],
-    [
-      "Cost of enum-to-string: C++26 reflection vs. the old ways",
-      "https://vittorioromeo.com/index/blog/refl_enum_to_string.html"
+      "GitHub Actions issued GitHub_TOKEN disclosure in GitHub Actions logs",
+      "https://github.com/composer/composer/security/advisories/GHSA-f9f8-rm49-7jv2"
     ]
   ],
   [
@@ -157,16 +177,6 @@
     [
       "Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
       "https://arxiv.org/abs/2605.08419"
-    ]
-  ],
-  [
-    [
-      "2026-05-12, 23:13:01",
-      "https://news.ycombinator.com/item?id=48115823"
-    ],
-    [
-      "Kraftwerk's radical 1976 track",
-      "https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem"
     ]
   ],
   [
@@ -197,6 +207,16 @@
     [
       "Heritability of human life span is ~50% when heritability is redefined",
       "https://dynomight.net/lifespan/"
+    ]
+  ],
+  [
+    [
+      "2026-05-11, 14:45:17",
+      "https://news.ycombinator.com/item?id=48095680"
+    ],
+    [
+      "Exploring 8 Shaft Weaving",
+      "https://algorithmicpattern.org/2026/03/11/exploring-8-shaft-weaving/"
     ]
   ],
   [
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2026-05-09, 21:32:16",
-      "https://news.ycombinator.com/item?id=48078452"
-    ],
-    [
-      "Web Server on a Nintendo Wii",
-      "http://wii.sjmulder.nl/"
-    ]
-  ],
-  [
-    [
       "2026-05-09, 20:25:55",
       "https://news.ycombinator.com/item?id=48077924"
     ],
     [
       "Reverting the incremental GC in Python 3.14 and 3.15",
       "https://discuss.python.org/t/reverting-the-incremental-gc-in-python-3-14-and-3-15/107014"
-    ]
-  ],
-  [
-    [
-      "2026-05-09, 16:50:51",
-      "https://news.ycombinator.com/item?id=48076342"
-    ],
-    [
-      "Nailing jelly to a wall: is it possible? (2005)",
-      "https://greem.co.uk/otherbits/jelly.html"
     ]
   ],
   [
