@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-05-13, 14:45:18",
+      "https://news.ycombinator.com/item?id=48122635"
+    ],
+    [
+      "Setting up a free *.city.state.us locality domain",
+      "https://fredchan.org/blog/locality-domains-guide/"
+    ]
+  ],
+  [
+    [
+      "2026-05-13, 14:44:41",
+      "https://news.ycombinator.com/item?id=48122624"
+    ],
+    [
+      "The AI Backlash Could Get Ugly",
+      "https://www.theatlantic.com/technology/2026/05/ai-backlash-data-centers-political-violence/687151/"
+    ]
+  ],
+  [
+    [
+      "2026-05-13, 12:57:42",
+      "https://news.ycombinator.com/item?id=48121299"
+    ],
+    [
+      "Dutch suicide prevention website shares data with tech companies without consent",
+      "https://nltimes.nl/2026/05/13/dutch-suicide-prevention-hotline-shares-visitor-data-tech-companies"
+    ]
+  ],
+  [
+    [
+      "2026-05-13, 12:54:00",
+      "https://news.ycombinator.com/item?id=48121266"
+    ],
+    [
+      "Why I'm leaving GitHub for Forgejo",
+      "https://jorijn.com/en/blog/leaving-github-for-forgejo/"
+    ]
+  ],
+  [
+    [
       "2026-05-13, 12:00:30",
       "https://news.ycombinator.com/item?id=48120776"
     ],
@@ -21,22 +61,12 @@
   ],
   [
     [
-      "2026-05-13, 08:41:30",
-      "https://news.ycombinator.com/item?id=48119326"
+      "2026-05-13, 11:02:57",
+      "https://news.ycombinator.com/item?id=48120351"
     ],
     [
-      "Cost of enum-to-string: C++26 reflection vs. the old ways",
-      "https://vittorioromeo.com/index/blog/refl_enum_to_string.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-13, 07:11:17",
-      "https://news.ycombinator.com/item?id=48118763"
-    ],
-    [
-      "SecurityBaseline.eu",
-      "https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/"
+      "Using OR-Tools CP-SAT for Scheduling Problems",
+      "https://atalaykutlay.com/or-tools-cp-sat-for-scheduling-problems.html"
     ]
   ],
   [
@@ -77,16 +107,6 @@
     [
       "Kraftwerk's radical 1976 track",
       "https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem"
-    ]
-  ],
-  [
-    [
-      "2026-05-12, 23:11:40",
-      "https://news.ycombinator.com/item?id=48115807"
-    ],
-    [
-      "Tell NYT, Atlantic, USA Today to keep Wayback Machine",
-      "https://www.savethearchive.com/newsleaders/"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2026-05-12, 17:40:13",
-      "https://news.ycombinator.com/item?id=48111581"
-    ],
-    [
-      "Reimagining the mouse pointer for the AI era",
-      "https://deepmind.google/blog/ai-pointer/"
-    ]
-  ],
-  [
-    [
       "2026-05-12, 17:37:36",
       "https://news.ycombinator.com/item?id=48111545"
     ],
@@ -177,16 +187,6 @@
     [
       "As researchers age, they produce less disruptive work",
       "https://nautil.us/is-this-why-science-advances-one-funeral-at-a-time-1280650"
-    ]
-  ],
-  [
-    [
-      "2026-05-12, 15:45:54",
-      "https://news.ycombinator.com/item?id=48109970"
-    ],
-    [
-      "The Future of Obsidian Plugins",
-      "https://obsidian.md/blog/future-of-plugins/"
     ]
   ],
   [
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2026-05-11, 11:21:33",
+      "https://news.ycombinator.com/item?id=48093578"
+    ],
+    [
+      "An idiot's guide to lead optimisation for proteins",
+      "https://magnusross.github.io/posts/protein-lead-optimisation-1/"
+    ]
+  ],
+  [
+    [
       "2026-05-11, 07:05:01",
       "https://news.ycombinator.com/item?id=48091898"
     ],
@@ -231,32 +241,12 @@
   ],
   [
     [
-      "2026-05-11, 02:13:02",
-      "https://news.ycombinator.com/item?id=48090321"
-    ],
-    [
-      "Up in Smoke",
-      "https://thebaffler.com/odds-and-ends/the-profession-that-does-not-exist-symposium"
-    ]
-  ],
-  [
-    [
       "2026-05-11, 01:05:59",
       "https://news.ycombinator.com/item?id=48089921"
     ],
     [
       "New stainless steel can survive conditions for hydrogen production in seawater",
       "https://www.sciencedaily.com/releases/2026/05/260510030950.htm"
-    ]
-  ],
-  [
-    [
-      "2026-05-10, 10:14:20",
-      "https://news.ycombinator.com/item?id=48082586"
-    ],
-    [
-      "Fc, a lossless compressor for floating-point streams",
-      "https://github.com/xtellect/fc"
     ]
   ],
   [
@@ -271,12 +261,22 @@
   ],
   [
     [
-      "2026-05-09, 11:55:29",
-      "https://news.ycombinator.com/item?id=48074226"
+      "2026-05-09, 20:25:55",
+      "https://news.ycombinator.com/item?id=48077924"
     ],
     [
-      "What if there was no BASIC in EndBASIC?",
-      "https://blogsystem5.substack.com/p/no-basic-in-endbasic"
+      "Reverting the incremental GC in Python 3.14 and 3.15",
+      "https://discuss.python.org/t/reverting-the-incremental-gc-in-python-3-14-and-3-15/107014"
+    ]
+  ],
+  [
+    [
+      "2026-05-09, 16:50:51",
+      "https://news.ycombinator.com/item?id=48076342"
+    ],
+    [
+      "Nailing jelly to a wall: is it possible? (2005)",
+      "https://greem.co.uk/otherbits/jelly.html"
     ]
   ],
   [
