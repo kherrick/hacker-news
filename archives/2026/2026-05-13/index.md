@@ -4,8 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-05-13](index.md)
 
+* [2026-05-13, 20:12:16](https://news.ycombinator.com/item?id=48126848) - [Princeton mandates proctoring in-person exams, upending 133 years of precedent](https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent)
+* [2026-05-13, 19:59:35](https://news.ycombinator.com/item?id=48126675) - [Rars: a Rust RAR implementation, mostly written by LLMs](https://bitplane.net/log/2026/05/rars/)
+* [2026-05-13, 19:14:47](https://news.ycombinator.com/item?id=48126156) - [Making the news available at no cost is a victory](https://www.sltrib.com/opinion/commentary/2026/05/12/just-days-tribune-reporting/)
+* [2026-05-13, 19:01:54](https://news.ycombinator.com/item?id=48126000) - [\"Not Medically Necessary\": Helping America's Health Insurers Deny Coverage](https://www.propublica.org/article/evicore-health-insurance-denials-cigna-unitedhealthcare-aetna-prior-authorizations)
 * [2026-05-13, 18:46:51](https://news.ycombinator.com/item?id=48125801) - [Altman forced to confront claims at OpenAI trial that he's a prolific liar](https://arstechnica.com/tech-policy/2026/05/altman-forced-to-confront-claims-at-openai-trial-that-hes-a-prolific-liar/)
+* [2026-05-13, 18:30:51](https://news.ycombinator.com/item?id=48125617) - [MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble](https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/)
 * [2026-05-13, 18:25:09](https://news.ycombinator.com/item?id=48125557) - [A sentimental tour of late 1990s and early 2000s hacking tools](https://andreafortuna.org/2026/05/13/amarcord/)
+* [2026-05-13, 18:20:22](https://news.ycombinator.com/item?id=48125494) - [ReactOS](https://reactos.org/)
 * [2026-05-13, 17:55:06](https://news.ycombinator.com/item?id=48125194) - [Telegram Is Gone](https://lazybea.rs/telegram-is-gone/)
 * [2026-05-13, 16:54:03](https://news.ycombinator.com/item?id=48124436) - [Launch HN: Ardent (YC P26) – Postgres sandboxes in seconds with zero migration](https://www.tryardent.com/)
 * [2026-05-13, 16:22:10](https://news.ycombinator.com/item?id=48124002) - [Haiku](https://www.haiku-os.org)
@@ -21,6 +27,7 @@
 * [2026-05-13, 12:54:00](https://news.ycombinator.com/item?id=48121266) - [Why I'm leaving GitHub for Forgejo](https://jorijn.com/en/blog/leaving-github-for-forgejo/)
 * [2026-05-13, 12:00:30](https://news.ycombinator.com/item?id=48120776) - [Substrate (YC S24) Is Hiring a Technical Success Manager](https://www.ycombinator.com/companies/substrate/jobs/T2fMBhD-technical-success-manager)
 * [2026-05-13, 11:42:20](https://news.ycombinator.com/item?id=48120629) - [I Moved My Digital Stack to Europe](https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/)
+* [2026-05-13, 11:26:33](https://news.ycombinator.com/item?id=48120514) - [GitHub Actions issued GitHub_TOKEN disclosure in GitHub Actions logs](https://github.com/composer/composer/security/advisories/GHSA-f9f8-rm49-7jv2)
 * [2026-05-13, 11:02:57](https://news.ycombinator.com/item?id=48120351) - [Using OR-Tools CP-SAT for Scheduling Problems](https://atalaykutlay.com/or-tools-cp-sat-for-scheduling-problems.html)
 * [2026-05-13, 08:41:30](https://news.ycombinator.com/item?id=48119326) - [Cost of enum-to-string: C++26 reflection vs. the old ways](https://vittorioromeo.com/index/blog/refl_enum_to_string.html)
 * [2026-05-13, 07:11:17](https://news.ycombinator.com/item?id=48118763) - [SecurityBaseline.eu](https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/)
