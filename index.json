@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-05-13, 12:00:30",
+      "https://news.ycombinator.com/item?id=48120776"
+    ],
+    [
+      "Substrate (YC S24) Is Hiring a Technical Success Manager",
+      "https://www.ycombinator.com/companies/substrate/jobs/T2fMBhD-technical-success-manager"
+    ]
+  ],
+  [
+    [
+      "2026-05-13, 11:42:20",
+      "https://news.ycombinator.com/item?id=48120629"
+    ],
+    [
+      "I Moved My Digital Stack to Europe",
+      "https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/"
+    ]
+  ],
+  [
+    [
+      "2026-05-13, 08:41:30",
+      "https://news.ycombinator.com/item?id=48119326"
+    ],
+    [
+      "Cost of enum-to-string: C++26 reflection vs. the old ways",
+      "https://vittorioromeo.com/index/blog/refl_enum_to_string.html"
+    ]
+  ],
+  [
+    [
       "2026-05-13, 07:11:17",
       "https://news.ycombinator.com/item?id=48118763"
     ],
@@ -17,16 +47,6 @@
     [
       "Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
       "https://arxiv.org/abs/2605.08419"
-    ]
-  ],
-  [
-    [
-      "2026-05-13, 01:29:31",
-      "https://news.ycombinator.com/item?id=48116781"
-    ],
-    [
-      "Starship V3",
-      "https://www.spacex.com/updates#starship-v3"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2026-05-12, 17:10:22",
-      "https://news.ycombinator.com/item?id=48111143"
-    ],
-    [
-      "Show HN: Agentic interface for mainframes and COBOL",
-      "https://www.hypercubic.ai/hopper"
-    ]
-  ],
-  [
-    [
       "2026-05-12, 15:45:54",
       "https://news.ycombinator.com/item?id=48109970"
     ],
@@ -187,16 +197,6 @@
     [
       "Why senior developers fail to communicate their expertise",
       "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise"
-    ]
-  ],
-  [
-    [
-      "2026-05-12, 14:54:41",
-      "https://news.ycombinator.com/item?id=48109224"
-    ],
-    [
-      "Bambu Lab is abusing the open source social contract",
-      "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/"
     ]
   ],
   [
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2026-05-11, 06:52:48",
+      "https://news.ycombinator.com/item?id=48091812"
+    ],
+    [
+      "Preserving Fisher-Price Pixter",
+      "https://dmitry.gr/?r=05.Projects&proj=37.%20Pixter"
+    ]
+  ],
+  [
+    [
       "2026-05-11, 02:13:02",
       "https://news.ycombinator.com/item?id=48090321"
     ],
@@ -241,32 +251,22 @@
   ],
   [
     [
-      "2026-05-10, 20:31:10",
-      "https://news.ycombinator.com/item?id=48087643"
-    ],
-    [
-      "Referer Reality",
-      "https://www.robinsloan.com/lab/referer/"
-    ]
-  ],
-  [
-    [
-      "2026-05-10, 14:44:17",
-      "https://news.ycombinator.com/item?id=48084415"
-    ],
-    [
-      "I made Rust’s cargo copy but for CPP",
-      "https://github.com/user-with-username/crow"
-    ]
-  ],
-  [
-    [
       "2026-05-10, 10:14:20",
       "https://news.ycombinator.com/item?id=48082586"
     ],
     [
       "Fc, a lossless compressor for floating-point streams",
       "https://github.com/xtellect/fc"
+    ]
+  ],
+  [
+    [
+      "2026-05-09, 21:32:16",
+      "https://news.ycombinator.com/item?id=48078452"
+    ],
+    [
+      "Web Server on a Nintendo Wii",
+      "http://wii.sjmulder.nl/"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=48062447"
     ],
     [
-      "The Boring Part of Bell Labs",
+      "The Boring Part of Bell Labs (2025)",
       "https://acesounderglass.com/2025/11/15/the-boring-part-of-bell-labs/"
     ]
   ],
