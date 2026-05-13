@@ -42,6 +42,7 @@
 * [2026-05-11, 08:16:32](https://news.ycombinator.com/item?id=48092367) - [The Adventure Family Tree](https://mipmip.org/advfamily/advfamily.html)
 * [2026-05-11, 07:26:54](https://news.ycombinator.com/item?id=48092028) - [Gmail registration now requires scanning a QR code and sending a text message](https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082)
 * [2026-05-11, 07:05:01](https://news.ycombinator.com/item?id=48091898) - [Traceway: MIT-licensed observability stack you can self-host in ~90s](https://github.com/tracewayapp/traceway)
+* [2026-05-11, 06:52:48](https://news.ycombinator.com/item?id=48091812) - [Preserving Fisher-Price Pixter](https://dmitry.gr/?r=05.Projects&proj=37.%20Pixter)
 * [2026-05-11, 06:39:08](https://news.ycombinator.com/item?id=48091737) - [Mythos Finds a Curl Vulnerability](https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/)
 * [2026-05-11, 04:34:40](https://news.ycombinator.com/item?id=48091085) - [7 lines of code, 3 minutes: Implement a programming language (2010)](https://matt.might.net/articles/implementing-a-programming-language/)
 * [2026-05-11, 02:43:34](https://news.ycombinator.com/item?id=48090521) - [The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene](https://www.openculture.com/2024/10/the-greatest-shot-in-television.html)
