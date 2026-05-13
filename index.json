@@ -1,11 +1,31 @@
 [
   [
     [
+      "2026-05-13, 21:24:14",
+      "https://news.ycombinator.com/item?id=48127815"
+    ],
+    [
+      "Medicare's new payment model is built for AI. Most of the tech world has no idea",
+      "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/"
+    ]
+  ],
+  [
+    [
+      "2026-05-13, 20:22:21",
+      "https://news.ycombinator.com/item?id=48126981"
+    ],
+    [
+      "Meta won't let you block its AI account on Threads",
+      "https://www.theverge.com/tech/929091/meta-ai-threads-account-block"
+    ]
+  ],
+  [
+    [
       "2026-05-13, 20:12:16",
       "https://news.ycombinator.com/item?id=48126848"
     ],
     [
-      "Princeton mandates proctoring in-person exams, upending 133 years of precedent",
+      "In-person examinations at Princeton will be proctored starting July 1",
       "https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent"
     ]
   ],
@@ -57,16 +77,6 @@
     [
       "A sentimental tour of late 1990s and early 2000s hacking tools",
       "https://andreafortuna.org/2026/05/13/amarcord/"
-    ]
-  ],
-  [
-    [
-      "2026-05-13, 18:20:22",
-      "https://news.ycombinator.com/item?id=48125494"
-    ],
-    [
-      "ReactOS",
-      "https://reactos.org/"
     ]
   ],
   [
@@ -151,32 +161,12 @@
   ],
   [
     [
-      "2026-05-13, 11:26:33",
-      "https://news.ycombinator.com/item?id=48120514"
-    ],
-    [
-      "GitHub Actions issued GitHub_TOKEN disclosure in GitHub Actions logs",
-      "https://github.com/composer/composer/security/advisories/GHSA-f9f8-rm49-7jv2"
-    ]
-  ],
-  [
-    [
       "2026-05-13, 07:06:14",
       "https://news.ycombinator.com/item?id=48118727"
     ],
     [
       "The Emacsification of Software",
       "https://sockpuppet.org/blog/2026/05/12/emacsification/"
-    ]
-  ],
-  [
-    [
-      "2026-05-13, 04:25:03",
-      "https://news.ycombinator.com/item?id=48117810"
-    ],
-    [
-      "Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
-      "https://arxiv.org/abs/2605.08419"
     ]
   ],
   [
@@ -201,12 +191,12 @@
   ],
   [
     [
-      "2026-05-12, 15:30:05",
-      "https://news.ycombinator.com/item?id=48109772"
+      "2026-05-11, 16:00:19",
+      "https://news.ycombinator.com/item?id=48096760"
     ],
     [
-      "Heritability of human life span is ~50% when heritability is redefined",
-      "https://dynomight.net/lifespan/"
+      "Chess puzzle I found in my dad's old book",
+      "https://ardoedo.it/kempelen/"
     ]
   ],
   [
@@ -225,7 +215,7 @@
       "https://news.ycombinator.com/item?id=48094986"
     ],
     [
-      "The great memory panic of 2026 – Asymco",
+      "How can Apple deal with the memory shortage?",
       "https://asymco.com/2026/05/11/the-great-memory-panic-of-2026/"
     ]
   ],
@@ -267,6 +257,16 @@
     [
       "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
       "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/"
+    ]
+  ],
+  [
+    [
+      "2026-05-10, 12:58:11",
+      "https://news.ycombinator.com/item?id=48083622"
+    ],
+    [
+      "Comparing a 1980s memory map to the Raspi Pico",
+      "https://medium.com/@noborutakahashi/a-40-year-old-memory-map-comparable-to-todays-raspberry-pi-pico-932c4309260d"
     ]
   ],
   [
