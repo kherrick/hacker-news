@@ -4,8 +4,16 @@
 
 ### [Archives](../../index.md) for [2026-05-13](index.md)
 
+* [2026-05-13, 16:54:03](https://news.ycombinator.com/item?id=48124436) - [Launch HN: Ardent (YC P26) – Postgres sandboxes in seconds with zero migration](https://www.tryardent.com/)
+* [2026-05-13, 16:22:10](https://news.ycombinator.com/item?id=48124002) - [Haiku](https://www.haiku-os.org)
+* [2026-05-13, 16:01:13](https://news.ycombinator.com/item?id=48123670) - [Fragnesia Made Public as Latest Linux Local Privilege Escalation Vulnerability](https://www.phoronix.com/news/Linux-Fragnesia)
+* [2026-05-13, 15:52:00](https://news.ycombinator.com/item?id=48123546) - [S-100 Virtual Workbench](https://grantmestrength.github.io/S100/)
+* [2026-05-13, 15:26:27](https://news.ycombinator.com/item?id=48123198) - [Kickstarter is forced to ban adult content by payment processors](https://kotaku.com/kickstarter-is-the-latest-platform-seemingly-forced-to-ban-adult-content-by-payment-processors-2000695648)
+* [2026-05-13, 15:18:41](https://news.ycombinator.com/item?id=48123090) - [50K Tahoe residents need power as utility eyes redirecting lines to data centers](https://fortune.com/2026/05/12/lake-tahoe-data-center-49000-residents-power-source/)
+* [2026-05-13, 15:13:37](https://news.ycombinator.com/item?id=48123015) - [Open Source Resistance: keep OSS alive on company time](https://ossresistance.com/)
 * [2026-05-13, 14:45:18](https://news.ycombinator.com/item?id=48122635) - [Setting up a free *.city.state.us locality domain](https://fredchan.org/blog/locality-domains-guide/)
 * [2026-05-13, 14:44:41](https://news.ycombinator.com/item?id=48122624) - [The AI Backlash Could Get Ugly](https://www.theatlantic.com/technology/2026/05/ai-backlash-data-centers-political-violence/687151/)
+* [2026-05-13, 13:53:53](https://news.ycombinator.com/item?id=48121929) - [The US is winning the AI race where it matters most: commercialization](https://avkcode.github.io/blog/us-winning-ai-race.html)
 * [2026-05-13, 12:57:42](https://news.ycombinator.com/item?id=48121299) - [Dutch suicide prevention website shares data with tech companies without consent](https://nltimes.nl/2026/05/13/dutch-suicide-prevention-hotline-shares-visitor-data-tech-companies)
 * [2026-05-13, 12:54:00](https://news.ycombinator.com/item?id=48121266) - [Why I'm leaving GitHub for Forgejo](https://jorijn.com/en/blog/leaving-github-for-forgejo/)
 * [2026-05-13, 12:00:30](https://news.ycombinator.com/item?id=48120776) - [Substrate (YC S24) Is Hiring a Technical Success Manager](https://www.ycombinator.com/companies/substrate/jobs/T2fMBhD-technical-success-manager)

@@ -52,6 +52,7 @@
 * [2026-05-10, 06:20:50](https://news.ycombinator.com/item?id=48081469) - [Task Paralysis and AI](https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html)
 * [2026-05-10, 05:26:03](https://news.ycombinator.com/item?id=48081245) - [Debian must ship reproducible packages](https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html)
 * [2026-05-10, 04:47:45](https://news.ycombinator.com/item?id=48081094) - [Scouting's Real Crisis Is Not Marketing. It Is Decades of Neglect.](https://www.untendedfire.org/2026/05/09/scoutings-real-crisis-is-not-marketing-it-is-decades-of-neglect/)
+* [2026-05-10, 03:32:59](https://news.ycombinator.com/item?id=48080755) - [Xs of Y – roguelike that names itself every run. Written in 4kLoC](https://github.com/nooga/xsofy)
 * [2026-05-10, 03:22:02](https://news.ycombinator.com/item?id=48080702) - [Gemini API File Search is now multimodal](https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/)
 * [2026-05-10, 03:01:44](https://news.ycombinator.com/item?id=48080587) - [Show HN: Building a web server in assembly to give my life (a lack of) meaning](https://github.com/imtomt/ymawky)
 * [2026-05-10, 02:06:19](https://news.ycombinator.com/item?id=48080316) - [Silverback Imfura took a chance, and ended up alone](https://gorillafund.org/mountain-gorillas/silverback-imfura-took-a-chance-and-ended-up-alone/)

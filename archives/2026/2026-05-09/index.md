@@ -47,6 +47,7 @@
 * [2026-05-09, 12:00:30](https://news.ycombinator.com/item?id=48074265) - [Internet Archive Switzerland](https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/)
 * [2026-05-09, 11:55:29](https://news.ycombinator.com/item?id=48074226) - [What if there was no BASIC in EndBASIC?](https://blogsystem5.substack.com/p/no-basic-in-endbasic)
 * [2026-05-09, 11:33:07](https://news.ycombinator.com/item?id=48074087) - [Forking the Web](https://dillo-browser.org/lab/web-fork/)
+* [2026-05-09, 11:14:18](https://news.ycombinator.com/item?id=48073979) - [A History of IDEs at Google](https://laurent.le-brun.eu/blog/a-history-of-ides-at-google)
 * [2026-05-09, 10:12:55](https://news.ycombinator.com/item?id=48073680) - [Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc](https://twitter.com/jarredsumner/status/2053047748191232310)
 * [2026-05-09, 09:14:05](https://news.ycombinator.com/item?id=48073394) - [Killswitch: Per-function short-circuit mitigation primitive](https://lwn.net/ml/all/20260507070547.2268452-1-sashal@kernel.org/)
 * [2026-05-09, 08:44:34](https://news.ycombinator.com/item?id=48073246) - [LLMs Corrupt Your Documents When You Delegate](https://arxiv.org/abs/2604.15597)
