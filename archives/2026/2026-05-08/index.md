@@ -53,6 +53,7 @@
 * [2026-05-08, 13:15:14](https://news.ycombinator.com/item?id=48062646) - [Holding Community Space](https://supernuclear.substack.com/p/building-a-space-people-never-want)
 * [2026-05-08, 13:12:41](https://news.ycombinator.com/item?id=48062606) - [Human typing habits and token counts](https://pankajpipada.com/posts/2026-05-08-human-habits-tokens/)
 * [2026-05-08, 13:06:51](https://news.ycombinator.com/item?id=48062530) - [UFO Release 1: Presidential Unsealing and Reporting System for UAP Encounters](https://www.war.gov/UFO/#release)
+* [2026-05-08, 13:00:19](https://news.ycombinator.com/item?id=48062447) - [The Boring Part of Bell Labs](https://acesounderglass.com/2025/11/15/the-boring-part-of-bell-labs/)
 * [2026-05-08, 12:37:05](https://news.ycombinator.com/item?id=48062178) - [A web page that shows you everything the browser told it without asking](https://sinceyouarrived.world/taken)
 * [2026-05-08, 12:30:05](https://news.ycombinator.com/item?id=48062117) - [Poland is now among the 20 largest economies. How it happened](https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa)
 * [2026-05-08, 12:20:01](https://news.ycombinator.com/item?id=48062035) - [Hackers breach JDownloader's website to serve malware-laced downloads](https://www.neowin.net/news/if-you-downloaded-this-popular-software-recently-you-might-have-installed-malware/)
