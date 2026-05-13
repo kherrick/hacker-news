@@ -35,6 +35,7 @@
 * [2026-05-11, 14:34:08](https://news.ycombinator.com/item?id=48095550) - [Software engineering may no longer be a lifetime career](https://www.seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/)
 * [2026-05-11, 13:20:14](https://news.ycombinator.com/item?id=48094641) - [Google says criminal hackers used AI to find a major software flaw](https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html)
 * [2026-05-11, 13:10:25](https://news.ycombinator.com/item?id=48094521) - [Scaffold a 1990s Geocities-themed static website](https://pypi.org/project/create-geocities-app/)
+* [2026-05-11, 11:21:33](https://news.ycombinator.com/item?id=48093578) - [An idiot's guide to lead optimisation for proteins](https://magnusross.github.io/posts/protein-lead-optimisation-1/)
 * [2026-05-11, 11:07:30](https://news.ycombinator.com/item?id=48093468) - [Organized Dogmatism Controls the Message about Gender Bias in the Academy](https://journalofcontroversialideas.org/article/6/1/313)
 * [2026-05-11, 11:05:04](https://news.ycombinator.com/item?id=48093446) - [I Work in Hollywood. Everyone Who Used to Make TV Is Now Training AI](https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/)
 * [2026-05-11, 10:13:04](https://news.ycombinator.com/item?id=48093100) - [Ratty – A terminal emulator with inline 3D graphics](https://ratty-term.org/)
