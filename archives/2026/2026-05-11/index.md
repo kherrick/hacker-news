@@ -33,6 +33,7 @@
 * [2026-05-11, 15:30:17](https://news.ycombinator.com/item?id=48096328) - [The Surprisingly Long Life of the Vacuum Tube](https://www.construction-physics.com/p/the-surprisingly-long-life-of-the)
 * [2026-05-11, 14:56:41](https://news.ycombinator.com/item?id=48095854) - [AI-powered hacking has exploded into industrial-scale threat, Google says](https://www.theguardian.com/technology/2026/may/11/ai-powered-hacking-industrial-scale-threat-three-months-google)
 * [2026-05-11, 14:34:08](https://news.ycombinator.com/item?id=48095550) - [Software engineering may no longer be a lifetime career](https://www.seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/)
+* [2026-05-11, 13:49:23](https://news.ycombinator.com/item?id=48094986) - [The great memory panic of 2026 – Asymco](https://asymco.com/2026/05/11/the-great-memory-panic-of-2026/)
 * [2026-05-11, 13:20:14](https://news.ycombinator.com/item?id=48094641) - [Google says criminal hackers used AI to find a major software flaw](https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html)
 * [2026-05-11, 13:10:25](https://news.ycombinator.com/item?id=48094521) - [Scaffold a 1990s Geocities-themed static website](https://pypi.org/project/create-geocities-app/)
 * [2026-05-11, 11:21:33](https://news.ycombinator.com/item?id=48093578) - [An idiot's guide to lead optimisation for proteins](https://magnusross.github.io/posts/protein-lead-optimisation-1/)

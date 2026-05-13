@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-05-13](index.md)
 
+* [2026-05-13, 18:46:51](https://news.ycombinator.com/item?id=48125801) - [Altman forced to confront claims at OpenAI trial that he's a prolific liar](https://arstechnica.com/tech-policy/2026/05/altman-forced-to-confront-claims-at-openai-trial-that-hes-a-prolific-liar/)
+* [2026-05-13, 18:25:09](https://news.ycombinator.com/item?id=48125557) - [A sentimental tour of late 1990s and early 2000s hacking tools](https://andreafortuna.org/2026/05/13/amarcord/)
+* [2026-05-13, 17:55:06](https://news.ycombinator.com/item?id=48125194) - [Telegram Is Gone](https://lazybea.rs/telegram-is-gone/)
 * [2026-05-13, 16:54:03](https://news.ycombinator.com/item?id=48124436) - [Launch HN: Ardent (YC P26) – Postgres sandboxes in seconds with zero migration](https://www.tryardent.com/)
 * [2026-05-13, 16:22:10](https://news.ycombinator.com/item?id=48124002) - [Haiku](https://www.haiku-os.org)
 * [2026-05-13, 16:01:13](https://news.ycombinator.com/item?id=48123670) - [Fragnesia Made Public as Latest Linux Local Privilege Escalation Vulnerability](https://www.phoronix.com/news/Linux-Fragnesia)
@@ -21,6 +24,7 @@
 * [2026-05-13, 11:02:57](https://news.ycombinator.com/item?id=48120351) - [Using OR-Tools CP-SAT for Scheduling Problems](https://atalaykutlay.com/or-tools-cp-sat-for-scheduling-problems.html)
 * [2026-05-13, 08:41:30](https://news.ycombinator.com/item?id=48119326) - [Cost of enum-to-string: C++26 reflection vs. the old ways](https://vittorioromeo.com/index/blog/refl_enum_to_string.html)
 * [2026-05-13, 07:11:17](https://news.ycombinator.com/item?id=48118763) - [SecurityBaseline.eu](https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/)
+* [2026-05-13, 07:06:14](https://news.ycombinator.com/item?id=48118727) - [The Emacsification of Software](https://sockpuppet.org/blog/2026/05/12/emacsification/)
 * [2026-05-13, 06:42:54](https://news.ycombinator.com/item?id=48118573) - [One Startup Is Gambling. Ten Is Mathematics](https://www.mynameisfeng.com/blog/one-startup-is-gambling-ten-is-mathematics)
 * [2026-05-13, 04:25:03](https://news.ycombinator.com/item?id=48117810) - [Deterministic Fully-Static Whole-Binary Translation Without Heuristics](https://arxiv.org/abs/2605.08419)
 * [2026-05-13, 01:29:31](https://news.ycombinator.com/item?id=48116781) - [Starship V3](https://www.spacex.com/updates#starship-v3)
