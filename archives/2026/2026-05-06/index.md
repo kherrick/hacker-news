@@ -74,6 +74,7 @@
 * [2026-05-06, 08:47:07](https://news.ycombinator.com/item?id=48033853) - [Why should a Trace-ID be 128 bits? (A Surprisingly Long Answer)](https://newsletter.signoz.io/p/why-should-a-trace-id-be-128-bits)
 * [2026-05-06, 08:25:50](https://news.ycombinator.com/item?id=48033705) - [The Deletion Test – The Phoenix Architecture](https://aicoding.leaflet.pub/3md5ftetaes2e)
 * [2026-05-06, 08:23:43](https://news.ycombinator.com/item?id=48033689) - [The Boring Internet](https://www.terrygodier.com/the-boring-internet)
+* [2026-05-06, 07:51:16](https://news.ycombinator.com/item?id=48033483) - [The vi family](https://lpar.ATH0.com/posts/2026/05/the-vi-family/)
 * [2026-05-06, 06:31:29](https://news.ycombinator.com/item?id=48032976) - [Reverse-engineering the 1998 Ultima Online demo server](https://draxinar.github.io/articles/2026-05-01-uodemo-reverse-engineering.html)
 * [2026-05-06, 06:29:53](https://news.ycombinator.com/item?id=48032968) - [Singapore introduces caning for boys who bully others at school](https://www.theguardian.com/world/2026/may/06/singapore-caning-school-bullies)
 * [2026-05-06, 05:34:48](https://news.ycombinator.com/item?id=48032617) - [Behavior-Oriented Concurrency for Python](https://microsoft.github.io/bocpy/)

@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-05-12](index.md)
 
+* [2026-05-12, 23:46:28](https://news.ycombinator.com/item?id=48116064) - [When \"idle\" isn't idle: how a Linux kernel optimization became a QUIC bug](https://blog.cloudflare.com/quic-death-spiral-fix/)
 * [2026-05-12, 23:13:01](https://news.ycombinator.com/item?id=48115823) - [Kraftwerk's radical 1976 track](https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem)
+* [2026-05-12, 23:11:40](https://news.ycombinator.com/item?id=48115807) - [Tell NYT, Atlantic, USA Today to keep Wayback Machine](https://www.savethearchive.com/newsleaders/)
 * [2026-05-12, 21:55:21](https://news.ycombinator.com/item?id=48115127) - [Restore full BambuNetwork support for Bambu Lab printers](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)
 * [2026-05-12, 21:48:24](https://news.ycombinator.com/item?id=48115059) - [EFF to 4th Circuit: Electronic Device Searches at the Border Require a Warrant](https://www.eff.org/deeplinks/2026/05/eff-fourth-circuit-electronic-device-searches-border-require-warrant)
 * [2026-05-12, 20:58:18](https://news.ycombinator.com/item?id=48114461) - [Meta employees protest against mouse tracking tech at US offices](https://www.reuters.com/sustainability/society-equity/meta-us-employees-organize-protest-against-mouse-tracking-tech-2026-05-12/)
+* [2026-05-12, 20:50:02](https://news.ycombinator.com/item?id=48114356) - [Scrcpy v4.0](https://github.com/Genymobile/scrcpy/releases/tag/v4.0)
 * [2026-05-12, 20:16:26](https://news.ycombinator.com/item?id=48113895) - [How to make your text look futuristic](https://typesetinthefuture.com/2016/02/18/futuristic/)
 * [2026-05-12, 19:51:41](https://news.ycombinator.com/item?id=48113518) - [Beyond Semantic Similarity](https://arxiv.org/abs/2605.05242)
 * [2026-05-12, 19:45:02](https://news.ycombinator.com/item?id=48113425) - [Snowflake Postgres, Lakebase, HorizonDB: Picking the Lock-In You Want](https://thebuild.com/blog/2026/05/12/snowflake-postgres-lakebase-horizondb-picking-the-lock-in-you-want/)
