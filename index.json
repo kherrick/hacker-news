@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-05-13, 06:42:54",
-      "https://news.ycombinator.com/item?id=48118573"
+      "2026-05-13, 07:11:17",
+      "https://news.ycombinator.com/item?id=48118763"
     ],
     [
-      "One Startup Is Gambling. Ten Is Mathematics",
-      "https://www.mynameisfeng.com/blog/one-startup-is-gambling-ten-is-mathematics"
+      "SecurityBaseline.eu",
+      "https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/"
     ]
   ],
   [
@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=48116064"
     ],
     [
-      "When \"idle\" isn't idle: how a Linux kernel optimization became a QUIC bug",
+      "When “idle” isn't idle: how a Linux kernel optimization became a QUIC bug",
       "https://blog.cloudflare.com/quic-death-spiral-fix/"
     ]
   ],
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2026-05-12, 15:45:20",
-      "https://news.ycombinator.com/item?id=48109962"
-    ],
-    [
-      "Launch HN: Voker (YC S24) – Analytics for AI Agents",
-      "https://voker.ai"
-    ]
-  ],
-  [
-    [
       "2026-05-12, 15:08:40",
       "https://news.ycombinator.com/item?id=48109460"
     ],
@@ -241,6 +231,16 @@
   ],
   [
     [
+      "2026-05-11, 01:05:59",
+      "https://news.ycombinator.com/item?id=48089921"
+    ],
+    [
+      "New stainless steel can survive conditions for hydrogen production in seawater",
+      "https://www.sciencedaily.com/releases/2026/05/260510030950.htm"
+    ]
+  ],
+  [
+    [
       "2026-05-10, 20:31:10",
       "https://news.ycombinator.com/item?id=48087643"
     ],
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=48084415"
     ],
     [
-      "I made rust's cargo copy but for CPP",
+      "I made Rust’s cargo copy but for CPP",
       "https://github.com/user-with-username/crow"
     ]
   ],
@@ -271,22 +271,22 @@
   ],
   [
     [
-      "2026-05-09, 18:55:59",
-      "https://news.ycombinator.com/item?id=48077291"
+      "2026-05-09, 11:55:29",
+      "https://news.ycombinator.com/item?id=48074226"
     ],
     [
-      "Lanzaboote – NixOS Secure Boot",
-      "https://x86.lol/generic/2022/11/26/lanzaboote.html"
+      "What if there was no BASIC in EndBASIC?",
+      "https://blogsystem5.substack.com/p/no-basic-in-endbasic"
     ]
   ],
   [
     [
-      "2026-05-08, 21:31:44",
-      "https://news.ycombinator.com/item?id=48069032"
+      "2026-05-08, 13:00:19",
+      "https://news.ycombinator.com/item?id=48062447"
     ],
     [
-      "When life gives you lemons, write better error messages",
-      "https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f"
+      "The Boring Part of Bell Labs",
+      "https://acesounderglass.com/2025/11/15/the-boring-part-of-bell-labs/"
     ]
   ],
   [
