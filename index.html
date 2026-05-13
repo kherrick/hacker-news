@@ -129,6 +129,207 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="48124436">
+          <h3>
+            <a class="item" href="https://www.tryardent.com/"
+              >Launch HN: Ardent (YC P26) – Postgres sandboxes in seconds with
+              zero migration</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-05-13 @ 16:54:03</span
+              ><span class="points-container"
+                >Points: <span class="points">35</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48124436"
+                  >Comments</a
+                ><span class="descendants">: 17</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://tryardent.com">https://tryardent.com</a>). We're
+              building database sandboxes for you and your coding agents.
+              <p>
+                In the last two years coding agents have gotten dramatically
+                more capable at handling complex engineering tasks. But without
+                access to a realistic sandbox at the DB layer for testing, they
+                ship garbage that can take down production databases. I spent
+                over a year building an AI Data Engineer that failed for this
+                exact reason. Evan spent the last 12 years in data engineering
+                and hit this wall building agents at his last company.
+              </p>
+              <p>
+                Ardent was built to make it possible for coding agents to get
+                near instant access to production-like sandboxes so they can
+                test their work. To do this we write a replication stream out of
+                the target DB, scaling with kafka onto a read replica with copy
+                on write enabled and autoscaling compute (we currently prefer
+                neon as a primary branching engine due to their implementation
+                of these properties).
+              </p>
+              <p>
+                Our replication stream uses logical replication + ddl triggers
+                to enable usage on any hosted postgres DB since most platforms
+                do not allow physical replication which is traditionally used
+                for creating replicas.
+              </p>
+              <p>This provides a few primary benefits:</p>
+              <p>
+                1. Does not require a platform migration to a DB provider like
+                neon, allowing strong separation of production and development
+                concerns. 2. Minimal impact on the production database while
+                allowing clones to spin up in &lt;6s, even at TB scale with
+                copy-on-write
+              </p>
+              <p>
+                Security matters a lot with cloning production so we run a proxy
+                layer to generate custom postgres URLs and route all connections
+                to allow more granular access control to clones, prevent
+                credential leak, and follow a split plane architecture to allow
+                full data residency on your cloud through BYOC.
+              </p>
+              <p>
+                We also support anonymization through the ability to register
+                SQL that runs on branches before they are returned. This has
+                been used for PII redaction and branch modification.
+              </p>
+              <p>
+                Our goal is to make every data infrastructure platform
+                “cloneable” in one place so agents can fully test the impact of
+                their changes on production like data environments without risk.
+              </p>
+              <p>
+                Here's a demo of it:
+                <a href="https://youtu.be/5S1kwPtiRU0"
+                  >https://youtu.be/5S1kwPtiRU0</a
+                >
+              </p>
+              <p>
+                We’d love to understand how you work with coding agents on the
+                DB and if you try Ardent (it's free to get started) what worked,
+                what broke and what’s missing.
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="48124002">
+          <h3><a class="item" href="https://www.haiku-os.org">Haiku</a></h3>
+          <section>
+            <h4>
+              <span>2026-05-13 @ 16:22:10</span
+              ><span class="points-container"
+                >Points: <span class="points">130</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48124002"
+                  >Comments</a
+                ><span class="descendants">: 61</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48123670">
+          <h3>
+            <a class="item" href="https://www.phoronix.com/news/Linux-Fragnesia"
+              >Fragnesia Made Public as Latest Linux Local Privilege Escalation
+              Vulnerability</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-05-13 @ 16:01:13</span
+              ><span class="points-container"
+                >Points: <span class="points">29</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48123670"
+                  >Comments</a
+                ><span class="descendants">: 12</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48123546">
+          <h3>
+            <a class="item" href="https://grantmestrength.github.io/S100/"
+              >S-100 Virtual Workbench</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-05-13 @ 15:52:00</span
+              ><span class="points-container"
+                >Points: <span class="points">58</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48123546"
+                  >Comments</a
+                ><span class="descendants">: 13</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48123198">
+          <h3>
+            <a
+              class="item"
+              href="https://kotaku.com/kickstarter-is-the-latest-platform-seemingly-forced-to-ban-adult-content-by-payment-processors-2000695648"
+              >Kickstarter is forced to ban adult content by payment
+              processors</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-05-13 @ 15:26:27</span
+              ><span class="points-container"
+                >Points: <span class="points">259</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48123198"
+                  >Comments</a
+                ><span class="descendants">: 198</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48123090">
+          <h3>
+            <a
+              class="item"
+              href="https://fortune.com/2026/05/12/lake-tahoe-data-center-49000-residents-power-source/"
+              >50K Tahoe residents need power as utility eyes redirecting lines
+              to data centers</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-05-13 @ 15:18:41</span
+              ><span class="points-container"
+                >Points: <span class="points">105</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48123090"
+                  >Comments</a
+                ><span class="descendants">: 104</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48123015">
+          <h3>
+            <a class="item" href="https://ossresistance.com/"
+              >Open Source Resistance: keep OSS alive on company time</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-05-13 @ 15:13:37</span
+              ><span class="points-container"
+                >Points: <span class="points">196</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48123015"
+                  >Comments</a
+                ><span class="descendants">: 62</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="48122635">
           <h3>
             <a
@@ -141,54 +342,33 @@
             <h4>
               <span>2026-05-13 @ 14:45:18</span
               ><span class="points-container"
-                >Points: <span class="points">239</span></span
+                >Points: <span class="points">348</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48122635"
                   >Comments</a
-                ><span class="descendants">: 61</span></span
+                ><span class="descendants">: 105</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="48122624">
+        <section id="48121929">
           <h3>
             <a
               class="item"
-              href="https://www.theatlantic.com/technology/2026/05/ai-backlash-data-centers-political-violence/687151/"
-              >The AI Backlash Could Get Ugly</a
+              href="https://avkcode.github.io/blog/us-winning-ai-race.html"
+              >The US is winning the AI race where it matters most:
+              commercialization</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-05-13 @ 14:44:41</span
+              <span>2026-05-13 @ 13:53:53</span
               ><span class="points-container"
-                >Points: <span class="points">50</span></span
+                >Points: <span class="points">86</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48122624"
+                ><a href="https://news.ycombinator.com/item?id=48121929"
                   >Comments</a
-                ><span class="descendants">: 109</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48121299">
-          <h3>
-            <a
-              class="item"
-              href="https://nltimes.nl/2026/05/13/dutch-suicide-prevention-hotline-shares-visitor-data-tech-companies"
-              >Dutch suicide prevention website shares data with tech companies
-              without consent</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-05-13 @ 12:57:42</span
-              ><span class="points-container"
-                >Points: <span class="points">222</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48121299"
-                  >Comments</a
-                ><span class="descendants">: 162</span></span
+                ><span class="descendants">: 227</span></span
               >
             </h4>
           </section>
@@ -198,18 +378,18 @@
             <a
               class="item"
               href="https://jorijn.com/en/blog/leaving-github-for-forgejo/"
-              >Why I'm leaving GitHub for Forgejo</a
+              >Leaving GitHub for Forgejo</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-05-13 @ 12:54:00</span
               ><span class="points-container"
-                >Points: <span class="points">381</span></span
+                >Points: <span class="points">441</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48121266"
                   >Comments</a
-                ><span class="descendants">: 205</span></span
+                ><span class="descendants">: 237</span></span
               >
             </h4>
           </section>
@@ -236,18 +416,18 @@
             <a
               class="item"
               href="https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/"
-              >I Moved My Digital Stack to Europe</a
+              >I moved my digital stack to Europe</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-05-13 @ 11:42:20</span
               ><span class="points-container"
-                >Points: <span class="points">663</span></span
+                >Points: <span class="points">747</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48120629"
                   >Comments</a
-                ><span class="descendants">: 448</span></span
+                ><span class="descendants">: 480</span></span
               >
             </h4>
           </section>
@@ -264,11 +444,32 @@
             <h4>
               <span>2026-05-13 @ 11:02:57</span
               ><span class="points-container"
-                >Points: <span class="points">55</span></span
+                >Points: <span class="points">67</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48120351"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 27</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48119326">
+          <h3>
+            <a
+              class="item"
+              href="https://vittorioromeo.com/index/blog/refl_enum_to_string.html"
+              >Cost of enum-to-string: C++26 reflection vs. the old ways</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-05-13 @ 08:41:30</span
+              ><span class="points-container"
+                >Points: <span class="points">61</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48119326"
+                  >Comments</a
+                ><span class="descendants">: 62</span></span
               >
             </h4>
           </section>
@@ -284,75 +485,11 @@
             <h4>
               <span>2026-05-13 @ 04:25:03</span
               ><span class="points-container"
-                >Points: <span class="points">270</span></span
+                >Points: <span class="points">277</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48117810"
                   >Comments</a
-                ><span class="descendants">: 64</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48116207">
-          <h3>
-            <a
-              class="item"
-              href="https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/"
-              >My graduation cap runs Rust</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-05-13 @ 00:04:21</span
-              ><span class="points-container"
-                >Points: <span class="points">201</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48116207"
-                  >Comments</a
-                ><span class="descendants">: 79</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48116064">
-          <h3>
-            <a
-              class="item"
-              href="https://blog.cloudflare.com/quic-death-spiral-fix/"
-              >When “idle” isn't idle: how a Linux kernel optimization became a
-              QUIC bug</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-05-12 @ 23:46:28</span
-              ><span class="points-container"
-                >Points: <span class="points">147</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48116064"
-                  >Comments</a
-                ><span class="descendants">: 27</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48115823">
-          <h3>
-            <a
-              class="item"
-              href="https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem"
-              >Kraftwerk's radical 1976 track</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-05-12 @ 23:13:01</span
-              ><span class="points-container"
-                >Points: <span class="points">216</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48115823"
-                  >Comments</a
-                ><span class="descendants">: 187</span></span
+                ><span class="descendants">: 65</span></span
               >
             </h4>
           </section>
@@ -369,32 +506,11 @@
             <h4>
               <span>2026-05-12 @ 21:55:21</span
               ><span class="points-container"
-                >Points: <span class="points">611</span></span
+                >Points: <span class="points">628</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48115127"
                   >Comments</a
-                ><span class="descendants">: 271</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48114356">
-          <h3>
-            <a
-              class="item"
-              href="https://github.com/Genymobile/scrcpy/releases/tag/v4.0"
-              >Scrcpy v4.0</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-05-12 @ 20:50:02</span
-              ><span class="points-container"
-                >Points: <span class="points">333</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48114356"
-                  >Comments</a
-                ><span class="descendants">: 50</span></span
+                ><span class="descendants">: 282</span></span
               >
             </h4>
           </section>
@@ -411,11 +527,11 @@
             <h4>
               <span>2026-05-12 @ 20:16:26</span
               ><span class="points-container"
-                >Points: <span class="points">448</span></span
+                >Points: <span class="points">467</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48113895"
                   >Comments</a
-                ><span class="descendants">: 56</span></span
+                ><span class="descendants">: 59</span></span
               >
             </h4>
           </section>
@@ -433,11 +549,11 @@
             <h4>
               <span>2026-05-12 @ 18:12:28</span
               ><span class="points-container"
-                >Points: <span class="points">357</span></span
+                >Points: <span class="points">360</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48112042"
                   >Comments</a
-                ><span class="descendants">: 197</span></span
+                ><span class="descendants">: 209</span></span
               >
             </h4>
           </section>
@@ -453,11 +569,11 @@
             <h4>
               <span>2026-05-12 @ 18:03:11</span
               ><span class="points-container"
-                >Points: <span class="points">580</span></span
+                >Points: <span class="points">600</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48111896"
                   >Comments</a
-                ><span class="descendants">: 168</span></span
+                ><span class="descendants">: 175</span></span
               >
             </h4>
             <div class="text">
@@ -536,27 +652,6 @@
             </div>
           </section>
         </section>
-        <section id="48111765">
-          <h3>
-            <a
-              class="item"
-              href="https://duckdb.org/2026/05/12/quack-remote-protocol"
-              >Quack: The DuckDB Client-Server Protocol</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-05-12 @ 17:54:12</span
-              ><span class="points-container"
-                >Points: <span class="points">355</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48111765"
-                  >Comments</a
-                ><span class="descendants">: 75</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="48111545">
           <h3>
             <a class="item" href="https://googlebook.google/">Googlebook</a>
@@ -565,11 +660,11 @@
             <h4>
               <span>2026-05-12 @ 17:37:36</span
               ><span class="points-container"
-                >Points: <span class="points">887</span></span
+                >Points: <span class="points">895</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48111545"
                   >Comments</a
-                ><span class="descendants">: 1470</span></span
+                ><span class="descendants">: 1488</span></span
               >
             </h4>
             <div class="text">
@@ -580,23 +675,22 @@
             </div>
           </section>
         </section>
-        <section id="48111243">
+        <section id="48109772">
           <h3>
-            <a
-              class="item"
-              href="https://nautil.us/is-this-why-science-advances-one-funeral-at-a-time-1280650"
-              >As researchers age, they produce less disruptive work</a
+            <a class="item" href="https://dynomight.net/lifespan/"
+              >Heritability of human life span is ~50% when heritability is
+              redefined</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-05-12 @ 17:16:59</span
+              <span>2026-05-12 @ 15:30:05</span
               ><span class="points-container"
-                >Points: <span class="points">131</span></span
+                >Points: <span class="points">61</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48111243"
+                ><a href="https://news.ycombinator.com/item?id=48109772"
                   >Comments</a
-                ><span class="descendants">: 120</span></span
+                ><span class="descendants">: 39</span></span
               >
             </h4>
           </section>
@@ -613,32 +707,11 @@
             <h4>
               <span>2026-05-12 @ 15:08:40</span
               ><span class="points-container"
-                >Points: <span class="points">738</span></span
+                >Points: <span class="points">754</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48109460"
                   >Comments</a
-                ><span class="descendants">: 313</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48107997">
-          <h3>
-            <a
-              class="item"
-              href="https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/"
-              >Rendering the Sky, Sunsets, and Planets</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-05-12 @ 13:26:46</span
-              ><span class="points-container"
-                >Points: <span class="points">516</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48107997"
-                  >Comments</a
-                ><span class="descendants">: 40</span></span
+                ><span class="descendants">: 317</span></span
               >
             </h4>
           </section>
@@ -655,31 +728,11 @@
             <h4>
               <span>2026-05-11 @ 11:21:33</span
               ><span class="points-container"
-                >Points: <span class="points">89</span></span
+                >Points: <span class="points">112</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48093578"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48091898">
-          <h3>
-            <a class="item" href="https://github.com/tracewayapp/traceway"
-              >Traceway: MIT-licensed observability stack you can self-host in
-              ~90s</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-05-11 @ 07:05:01</span
-              ><span class="points-container"
-                >Points: <span class="points">154</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48091898"
-                  >Comments</a
-                ><span class="descendants">: 38</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -696,11 +749,11 @@
             <h4>
               <span>2026-05-11 @ 06:52:48</span
               ><span class="points-container"
-                >Points: <span class="points">161</span></span
+                >Points: <span class="points">173</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48091812"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 39</span></span
               >
             </h4>
           </section>
@@ -718,11 +771,11 @@
             <h4>
               <span>2026-05-11 @ 01:05:59</span
               ><span class="points-container"
-                >Points: <span class="points">229</span></span
+                >Points: <span class="points">251</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48089921"
                   >Comments</a
-                ><span class="descendants">: 103</span></span
+                ><span class="descendants">: 111</span></span
               >
             </h4>
             <div class="text">
@@ -731,6 +784,26 @@
                 >https://www.sciencedirect.com/science/article/abs/pii/S13697...</a
               >
             </div>
+          </section>
+        </section>
+        <section id="48080755">
+          <h3>
+            <a class="item" href="https://github.com/nooga/xsofy"
+              >Xs of Y – roguelike that names itself every run. Written in
+              4kLoC</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-05-10 @ 03:32:59</span
+              ><span class="points-container"
+                >Points: <span class="points">92</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48080755"
+                  >Comments</a
+                ><span class="descendants">: 39</span></span
+              >
+            </h4>
           </section>
         </section>
         <section id="48078452">
@@ -743,11 +816,11 @@
             <h4>
               <span>2026-05-09 @ 21:32:16</span
               ><span class="points-container"
-                >Points: <span class="points">77</span></span
+                >Points: <span class="points">85</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48078452"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 32</span></span
               >
             </h4>
           </section>
@@ -764,11 +837,11 @@
             <h4>
               <span>2026-05-09 @ 20:25:55</span
               ><span class="points-container"
-                >Points: <span class="points">123</span></span
+                >Points: <span class="points">148</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48077924"
                   >Comments</a
-                ><span class="descendants">: 36</span></span
+                ><span class="descendants">: 48</span></span
               >
             </h4>
           </section>
@@ -783,53 +856,32 @@
             <h4>
               <span>2026-05-09 @ 16:50:51</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">58</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48076342"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="48062447">
+        <section id="48073979">
           <h3>
             <a
               class="item"
-              href="https://acesounderglass.com/2025/11/15/the-boring-part-of-bell-labs/"
-              >The Boring Part of Bell Labs (2025)</a
+              href="https://laurent.le-brun.eu/blog/a-history-of-ides-at-google"
+              >A History of IDEs at Google</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-05-08 @ 13:00:19</span
+              <span>2026-05-09 @ 11:14:18</span
               ><span class="points-container"
-                >Points: <span class="points">105</span></span
+                >Points: <span class="points">100</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48062447"
+                ><a href="https://news.ycombinator.com/item?id=48073979"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48033483">
-          <h3>
-            <a
-              class="item"
-              href="https://lpar.ATH0.com/posts/2026/05/the-vi-family/"
-              >The vi family</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-05-06 @ 07:51:16</span
-              ><span class="points-container"
-                >Points: <span class="points">252</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48033483"
-                  >Comments</a
-                ><span class="descendants">: 164</span></span
+                ><span class="descendants">: 79</span></span
               >
             </h4>
           </section>
