@@ -37,6 +37,7 @@
 * [2026-05-10, 14:37:16](https://news.ycombinator.com/item?id=48084350) - [Taxpayers May Be Eligible for Significant Tax Refunds – If They Act by July 10](https://www.taxpayeradvocate.irs.gov/news/nta-blog/tens-of-millions-of-taxpayers-may-be-eligible-for-significant-tax-refunds/2026/04/)
 * [2026-05-10, 14:32:39](https://news.ycombinator.com/item?id=48084315) - [Chindogu: Weird and Useless Japanese Inventions](https://rarehistoricalphotos.com/weird-japanese-inventions/)
 * [2026-05-10, 13:42:00](https://news.ycombinator.com/item?id=48083919) - [Academic Research Skills for Claude Code](https://github.com/Imbad0202/academic-research-skills)
+* [2026-05-10, 12:58:11](https://news.ycombinator.com/item?id=48083622) - [Comparing a 1980s memory map to the Raspi Pico](https://medium.com/@noborutakahashi/a-40-year-old-memory-map-comparable-to-todays-raspberry-pi-pico-932c4309260d)
 * [2026-05-10, 12:50:31](https://news.ycombinator.com/item?id=48083580) - [Show HN: An index of indie web/blog indexes](https://theindex.fyi)
 * [2026-05-10, 12:00:11](https://news.ycombinator.com/item?id=48083251) - [9 Mothers (YC P26) Is Hiring](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q)
 * [2026-05-10, 11:26:50](https://news.ycombinator.com/item?id=48083007) - [What's a Mathematician to Do?](https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do)

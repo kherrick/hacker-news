@@ -27,6 +27,7 @@
 * [2026-05-11, 16:22:31](https://news.ycombinator.com/item?id=48097078) - [Interfaze: A new model architecture built for high accuracy at scale](https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale)
 * [2026-05-11, 16:07:52](https://news.ycombinator.com/item?id=48096870) - [Why we lose our friends as we age](https://www.theatlantic.com/newsletters/archive/2023/02/friendship-aging/673026/)
 * [2026-05-11, 16:05:50](https://news.ycombinator.com/item?id=48096842) - [Show HN: TikTok but for Scientific Papers](https://andreaturchet.github.io/website/index.html)
+* [2026-05-11, 16:00:19](https://news.ycombinator.com/item?id=48096760) - [Chess puzzle I found in my dad's old book](https://ardoedo.it/kempelen/)
 * [2026-05-11, 15:55:07](https://news.ycombinator.com/item?id=48096692) - [CUDA-oxide: Nvidia's official Rust to CUDA compiler](https://nvlabs.github.io/cuda-oxide/index.html)
 * [2026-05-11, 15:53:23](https://news.ycombinator.com/item?id=48096674) - [Students Boo Commencement Speaker After She Calls AI Next Industrial Revolution](https://www.404media.co/ucf-ai-commencement-speaker-booed/)
 * [2026-05-11, 15:39:37](https://news.ycombinator.com/item?id=48096471) - [Should you leave red herrings about yourself online?](https://blog.alcazarsec.com/posts/should-you-leave-red-herrings-about-yourself-online)

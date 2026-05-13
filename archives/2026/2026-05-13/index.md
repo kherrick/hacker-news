@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-13](index.md)
 
+* [2026-05-13, 21:24:14](https://news.ycombinator.com/item?id=48127815) - [Medicare's new payment model is built for AI. Most of the tech world has no idea](https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/)
+* [2026-05-13, 20:22:21](https://news.ycombinator.com/item?id=48126981) - [Meta won't let you block its AI account on Threads](https://www.theverge.com/tech/929091/meta-ai-threads-account-block)
 * [2026-05-13, 20:12:16](https://news.ycombinator.com/item?id=48126848) - [Princeton mandates proctoring in-person exams, upending 133 years of precedent](https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent)
 * [2026-05-13, 19:59:35](https://news.ycombinator.com/item?id=48126675) - [Rars: a Rust RAR implementation, mostly written by LLMs](https://bitplane.net/log/2026/05/rars/)
 * [2026-05-13, 19:14:47](https://news.ycombinator.com/item?id=48126156) - [Making the news available at no cost is a victory](https://www.sltrib.com/opinion/commentary/2026/05/12/just-days-tribune-reporting/)
