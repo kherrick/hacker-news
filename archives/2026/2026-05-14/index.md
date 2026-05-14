@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-14](index.md)
 
+* [2026-05-14, 08:15:31](https://news.ycombinator.com/item?id=48132488) - [Rewrite Bun in Rust has been merged](https://github.com/oven-sh/bun/pull/30412)
+* [2026-05-14, 07:03:18](https://news.ycombinator.com/item?id=48132030) - [Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7](https://classic7.lol/)
 * [2026-05-14, 03:59:35](https://news.ycombinator.com/item?id=48130950) - [Claude for Small Business](https://www.anthropic.com/news/claude-for-small-business)
 * [2026-05-14, 03:19:05](https://news.ycombinator.com/item?id=48130711) - [Arena AI Model ELO History](https://mayerwin.github.io/AI-Arena-History/)
 * [2026-05-14, 03:13:31](https://news.ycombinator.com/item?id=48130679) - [A Claude Code and Codex Skill for Deliberate Skill Development](https://github.com/DrCatHicks/learning-opportunities)

@@ -20,6 +20,7 @@
 * [2026-05-12, 17:56:40](https://news.ycombinator.com/item?id=48111798) - [SQL: Incorrect by Construction](https://chreke.com/posts/sql-incorrect-by-construction)
 * [2026-05-12, 17:54:12](https://news.ycombinator.com/item?id=48111765) - [Quack: The DuckDB Client-Server Protocol](https://duckdb.org/2026/05/12/quack-remote-protocol)
 * [2026-05-12, 17:52:34](https://news.ycombinator.com/item?id=48111748) - [Dead.Letter (CVE-2026-45185) – How XBOW found an unauthenticated RCE on Exim](https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim)
+* [2026-05-12, 17:44:58](https://news.ycombinator.com/item?id=48111652) - [The Deathbed Notes of Henry James (1968)](https://www.theatlantic.com/past/docs/unbound/flashbks/james/jnote.htm)
 * [2026-05-12, 17:40:13](https://news.ycombinator.com/item?id=48111581) - [Reimagining the mouse pointer for the AI era](https://deepmind.google/blog/ai-pointer/)
 * [2026-05-12, 17:37:36](https://news.ycombinator.com/item?id=48111545) - [Googlebook](https://googlebook.google/)
 * [2026-05-12, 17:35:58](https://news.ycombinator.com/item?id=48111531) - [Canada’s Bill C-22 Is a Repackaged Version of Last Year’s Surveillance Nightmare](https://www.eff.org/deeplinks/2026/05/canadas-bill-c-22-repackaged-version-last-years-surveillance-nightmare)
