@@ -2,6 +2,7 @@
 
 * [2026-05-14, 03:59:35](https://news.ycombinator.com/item?id=48130950) - [Claude for Small Business](https://www.anthropic.com/news/claude-for-small-business)
 * [2026-05-14, 03:19:05](https://news.ycombinator.com/item?id=48130711) - [Arena AI Model ELO History](https://mayerwin.github.io/AI-Arena-History/)
+* [2026-05-14, 03:13:31](https://news.ycombinator.com/item?id=48130679) - [A Claude Code and Codex Skill for Deliberate Skill Development](https://github.com/DrCatHicks/learning-opportunities)
 * [2026-05-14, 02:45:08](https://news.ycombinator.com/item?id=48130519) - [Microsoft BitLocker – YellowKey zero-day exploit](https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit-demonstrates-an-apparent-backdoor)
 * [2026-05-14, 01:46:45](https://news.ycombinator.com/item?id=48130186) - [Show HN: Nibble](https://github.com/glouw/nibble)
 * [2026-05-14, 01:38:05](https://news.ycombinator.com/item?id=48130123) - [Cisco workforce reductions](https://blogs.cisco.com/news/our-path-forward)
@@ -19,8 +20,8 @@
 * [2026-05-12, 22:28:07](https://news.ycombinator.com/item?id=48115438) - [Twin brothers wipe 96 government databases minutes after being fired](https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job/)
 * [2026-05-12, 18:03:11](https://news.ycombinator.com/item?id=48111896) - [Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model](https://github.com/cactus-compute/needle)
 * [2026-05-12, 15:30:05](https://news.ycombinator.com/item?id=48109772) - [Heritability of human life span is ~50% when heritability is redefined](https://dynomight.net/lifespan/)
-* [2026-05-12, 12:58:39](https://news.ycombinator.com/item?id=48107619) - [AEPs: API Enhancement Proposals](https://github.com/aep-dev/aeps)
-* [2026-05-12, 07:44:19](https://news.ycombinator.com/item?id=48105385) - [Can a Language Model Paint?](https://www.etive-mor.com/blog/can-a-language-model-paint/)
+* [2026-05-12, 04:46:40](https://news.ycombinator.com/item?id=48104285) - [Notes from Optimizing CPU-Bound Go Hot Paths](https://blog.andr2i.com/posts/2026-05-03-notes-from-optimizing-cpu-bound-go-hot-paths)
+* [2026-05-12, 01:03:03](https://news.ycombinator.com/item?id=48102901) - [Extraordinary Ordinals](https://text.marvinborner.de/2026-04-09-17.html)
 * [2026-05-11, 19:12:34](https://news.ycombinator.com/item?id=48099347) - [Golden Testing a CAD Library](https://doscienceto.it/blog/posts/2026-04-27-golden-testing-cad.html)
 * [2026-05-11, 16:00:19](https://news.ycombinator.com/item?id=48096760) - [Chess puzzle I found in my dad's old book](https://ardoedo.it/kempelen/)
 * [2026-05-11, 14:52:25](https://news.ycombinator.com/item?id=48095782) - [Marco Polo: Finding a friend with only distance and motion](https://www.jackhogan.me/blog/marco-polo)
@@ -28,7 +29,6 @@
 * [2026-05-10, 20:54:06](https://news.ycombinator.com/item?id=48087887) - [Linux gaming is faster because Windows APIs are becoming Linux kernel features](https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/)
 * [2026-05-10, 03:32:59](https://news.ycombinator.com/item?id=48080755) - [Xs of Y – roguelike that names itself every run. Written in 4kLoC](https://github.com/nooga/xsofy)
 * [2026-05-09, 20:25:55](https://news.ycombinator.com/item?id=48077924) - [Reverting the incremental GC in Python 3.14 and 3.15](https://discuss.python.org/t/reverting-the-incremental-gc-in-python-3-14-and-3-15/107014)
-* [2026-05-09, 18:02:23](https://news.ycombinator.com/item?id=48076888) - ['A Four-Eyed World' Review: The Story of Spectacles](https://www.wsj.com/arts-culture/books/a-four-eyed-world-review-the-story-of-spectacles-504334ac)
 * [2026-05-09, 11:14:18](https://news.ycombinator.com/item?id=48073979) - [A History of IDEs at Google](https://laurent.le-brun.eu/blog/a-history-of-ides-at-google)
 
 ## [Archives](archives/index.md)
