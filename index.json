@@ -1,22 +1,82 @@
 [
   [
     [
-      "2026-05-14, 19:16:02",
-      "https://news.ycombinator.com/item?id=48139912"
+      "2026-05-14, 21:02:01",
+      "https://news.ycombinator.com/item?id=48141206"
     ],
     [
-      "Germany's Sovereign Tech Fund Backs KDE with €1.3M",
-      "https://www.theregister.com/oses/2026/05/14/kde-bags-13m-as-europe-realizes-it-might-need-an-os-of-its-own/5240562"
+      "Show HN: I built a Web-Scraper API that is 6-7x more efficient than current ones",
+      "https://scrapewithruno.com/"
     ]
   ],
   [
     [
-      "2026-05-14, 19:07:12",
-      "https://news.ycombinator.com/item?id=48139775"
+      "2026-05-14, 21:00:37",
+      "https://news.ycombinator.com/item?id=48141191"
     ],
     [
-      "Green Card Holders Targeted for Deportation by New 'Removal Apparatus'",
-      "https://www.nytimes.com/2026/05/14/us/politics/green-cards-immigration-deportation-trump.html"
+      "Infracost (YC W21) Is Hiring Sr Dev Advocate to make agents cloud cost-aware",
+      "https://www.ycombinator.com/companies/infracost/jobs/NzwUQ7c-senior-developer-advocate"
+    ]
+  ],
+  [
+    [
+      "2026-05-14, 20:50:46",
+      "https://news.ycombinator.com/item?id=48141060"
+    ],
+    [
+      "Minimal Structures",
+      "https://chefcinnamon.github.io/memo/posts/minimal-structures/"
+    ]
+  ],
+  [
+    [
+      "2026-05-14, 20:41:48",
+      "https://news.ycombinator.com/item?id=48140953"
+    ],
+    [
+      "Tesla Wall Connector bootloader bypasses the firmware downgrade ratchet",
+      "https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing"
+    ]
+  ],
+  [
+    [
+      "2026-05-14, 20:39:12",
+      "https://news.ycombinator.com/item?id=48140922"
+    ],
+    [
+      "New arXiv policy: 1-year ban for hallucinated references",
+      "https://twitter.com/tdietterich/status/2055000956144935055"
+    ]
+  ],
+  [
+    [
+      "2026-05-14, 20:22:35",
+      "https://news.ycombinator.com/item?id=48140730"
+    ],
+    [
+      "Amazonbot is finally respecting robots.txt",
+      "https://xeiaso.net/notes/2026/amazonbot-respecting-robots-txt/"
+    ]
+  ],
+  [
+    [
+      "2026-05-14, 20:06:53",
+      "https://news.ycombinator.com/item?id=48140541"
+    ],
+    [
+      "RISC-V Router",
+      "https://router.start9.com/"
+    ]
+  ],
+  [
+    [
+      "2026-05-14, 20:06:14",
+      "https://news.ycombinator.com/item?id=48140529"
+    ],
+    [
+      "Work with Codex from Anywhere",
+      "https://openai.com/index/work-with-codex-from-anywhere/"
     ]
   ],
   [
@@ -27,16 +87,6 @@
     [
       "WinUI 3 Performance: A Leap Forward",
       "https://github.com/microsoft/microsoft-ui-xaml/discussions/11096"
-    ]
-  ],
-  [
-    [
-      "2026-05-14, 18:50:02",
-      "https://news.ycombinator.com/item?id=48139547"
-    ],
-    [
-      "German intelligence offices snub Palantir software",
-      "https://www.dw.com/en/german-intelligence-offices-snub-us-based-palantir-software/a-77160897"
     ]
   ],
   [
@@ -101,16 +151,6 @@
   ],
   [
     [
-      "2026-05-14, 18:19:08",
-      "https://news.ycombinator.com/item?id=48139142"
-    ],
-    [
-      "OpenData Vector: MIT-Licensed Vector Search on Object Storage",
-      "https://www.opendata.dev/blog/introducing-vector/"
-    ]
-  ],
-  [
-    [
       "2026-05-14, 18:01:17",
       "https://news.ycombinator.com/item?id=48138913"
     ],
@@ -151,16 +191,6 @@
   ],
   [
     [
-      "2026-05-14, 17:01:16",
-      "https://news.ycombinator.com/item?id=48138063"
-    ],
-    [
-      "Terranox AI (YC W26) Is Hiring a Founding AI/ML Engineer and Summer AI/ML Intern",
-      "https://www.workatastartup.com/companies/terranox-ai"
-    ]
-  ],
-  [
-    [
       "2026-05-14, 16:19:29",
       "https://news.ycombinator.com/item?id=48137553"
     ],
@@ -177,16 +207,6 @@
     [
       "RTX 5090 and M4 MacBook Air: Can It Game?",
       "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/"
-    ]
-  ],
-  [
-    [
-      "2026-05-14, 15:36:24",
-      "https://news.ycombinator.com/item?id=48136992"
-    ],
-    [
-      "The conflation of money and things",
-      "https://lithub.com/is-it-even-real-on-the-conflation-of-money-and-things/"
     ]
   ],
   [
@@ -211,42 +231,12 @@
   ],
   [
     [
-      "2026-05-14, 11:26:22",
-      "https://news.ycombinator.com/item?id=48133908"
-    ],
-    [
-      "Myths about /dev/urandom (2014)",
-      "https://www.2uo.de/myths-about-urandom/"
-    ]
-  ],
-  [
-    [
-      "2026-05-14, 10:44:50",
-      "https://news.ycombinator.com/item?id=48133561"
-    ],
-    [
-      "Show HN: Running the second public ODoH relay",
-      "https://numa.rs/blog/posts/odoh-anonymous-dns-without-an-account.html"
-    ]
-  ],
-  [
-    [
       "2026-05-14, 08:15:31",
       "https://news.ycombinator.com/item?id=48132488"
     ],
     [
       "Rewrite Bun in Rust has been merged",
       "https://github.com/oven-sh/bun/pull/30412"
-    ]
-  ],
-  [
-    [
-      "2026-05-13, 19:22:14",
-      "https://news.ycombinator.com/item?id=48126241"
-    ],
-    [
-      "EditLens: Quantifying the extent of AI editing in text (2025)",
-      "https://arxiv.org/abs/2510.03154"
     ]
   ],
   [
@@ -271,22 +261,32 @@
   ],
   [
     [
-      "2026-05-11, 19:41:02",
-      "https://news.ycombinator.com/item?id=48099688"
+      "2026-05-11, 19:03:01",
+      "https://news.ycombinator.com/item?id=48099240"
     ],
     [
-      "The Tree House: A voyage to the source of a backyard dream",
-      "https://www.laphamsquarterly.org/roundtable/tree-house"
+      "London's Smallest Public Sculptures",
+      "https://lookup.london/londons-smallest-public-sculptures/"
     ]
   ],
   [
     [
-      "2026-05-10, 13:54:54",
-      "https://news.ycombinator.com/item?id=48084012"
+      "2026-05-11, 17:17:20",
+      "https://news.ycombinator.com/item?id=48097786"
     ],
     [
-      "Leaving the Physical World",
-      "https://www.eff.org/pages/leaving-physical-world"
+      "Porting 3D Movie Maker to Linux",
+      "https://benstoneonline.com/posts/porting-3d-movie-maker-to-linux/"
+    ]
+  ],
+  [
+    [
+      "2026-05-11, 14:30:02",
+      "https://news.ycombinator.com/item?id=48095490"
+    ],
+    [
+      "The Biochemical Beauty of Retatrutide: How GLP-1s Work",
+      "https://acesounderglass.com/2025/10/13/the-biochemical-beauty-of-retatrutide-how-glp-1s-actually-work/"
     ]
   ],
   [
