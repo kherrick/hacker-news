@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-14](index.md)
 
+* [2026-05-14, 21:50:17](https://news.ycombinator.com/item?id=48141732) - [OVMS: Open source electric vehicle remote monitoring, diagnosis and control](https://www.openvehicles.com/home)
+* [2026-05-14, 21:05:05](https://news.ycombinator.com/item?id=48141234) - [Claude for Legal](https://github.com/anthropics/claude-for-legal)
 * [2026-05-14, 21:02:01](https://news.ycombinator.com/item?id=48141206) - [Show HN: I built a Web-Scraper API that is 6-7x more efficient than current ones](https://scrapewithruno.com/)
 * [2026-05-14, 21:00:37](https://news.ycombinator.com/item?id=48141191) - [Infracost (YC W21) Is Hiring Sr Dev Advocate to make agents cloud cost-aware](https://www.ycombinator.com/companies/infracost/jobs/NzwUQ7c-senior-developer-advocate)
 * [2026-05-14, 20:50:46](https://news.ycombinator.com/item?id=48141060) - [Minimal Structures](https://chefcinnamon.github.io/memo/posts/minimal-structures/)
