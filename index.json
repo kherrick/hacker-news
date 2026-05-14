@@ -1,22 +1,32 @@
 [
   [
     [
+      "2026-05-14, 08:15:31",
+      "https://news.ycombinator.com/item?id=48132488"
+    ],
+    [
+      "Rewrite Bun in Rust has been merged",
+      "https://github.com/oven-sh/bun/pull/30412"
+    ]
+  ],
+  [
+    [
+      "2026-05-14, 07:03:18",
+      "https://news.ycombinator.com/item?id=48132030"
+    ],
+    [
+      "Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7",
+      "https://classic7.lol/"
+    ]
+  ],
+  [
+    [
       "2026-05-14, 03:59:35",
       "https://news.ycombinator.com/item?id=48130950"
     ],
     [
       "Claude for Small Business",
       "https://www.anthropic.com/news/claude-for-small-business"
-    ]
-  ],
-  [
-    [
-      "2026-05-14, 03:19:05",
-      "https://news.ycombinator.com/item?id=48130711"
-    ],
-    [
-      "Arena AI Model ELO History",
-      "https://mayerwin.github.io/AI-Arena-History/"
     ]
   ],
   [
@@ -91,16 +101,6 @@
   ],
   [
     [
-      "2026-05-14, 00:27:20",
-      "https://news.ycombinator.com/item?id=48129561"
-    ],
-    [
-      "The other half of AI safety",
-      "https://personalaisafety.com/p/the-other-half-of-ai-safety"
-    ]
-  ],
-  [
-    [
       "2026-05-13, 20:12:16",
       "https://news.ycombinator.com/item?id=48126848"
     ],
@@ -127,16 +127,6 @@
     [
       "Launch HN: Ardent (YC P26) – Postgres sandboxes in seconds with zero migration",
       "https://www.tryardent.com/"
-    ]
-  ],
-  [
-    [
-      "2026-05-13, 15:52:00",
-      "https://news.ycombinator.com/item?id=48123546"
-    ],
-    [
-      "S-100 Virtual Workbench",
-      "https://grantmestrength.github.io/S100/"
     ]
   ],
   [
@@ -191,6 +181,16 @@
   ],
   [
     [
+      "2026-05-12, 17:44:58",
+      "https://news.ycombinator.com/item?id=48111652"
+    ],
+    [
+      "The Deathbed Notes of Henry James (1968)",
+      "https://www.theatlantic.com/past/docs/unbound/flashbks/james/jnote.htm"
+    ]
+  ],
+  [
+    [
       "2026-05-12, 15:30:05",
       "https://news.ycombinator.com/item?id=48109772"
     ],
@@ -221,32 +221,12 @@
   ],
   [
     [
-      "2026-05-11, 19:12:34",
-      "https://news.ycombinator.com/item?id=48099347"
-    ],
-    [
-      "Golden Testing a CAD Library",
-      "https://doscienceto.it/blog/posts/2026-04-27-golden-testing-cad.html"
-    ]
-  ],
-  [
-    [
       "2026-05-11, 16:00:19",
       "https://news.ycombinator.com/item?id=48096760"
     ],
     [
       "Chess puzzle I found in my dad's old book",
       "https://ardoedo.it/kempelen/"
-    ]
-  ],
-  [
-    [
-      "2026-05-11, 14:52:25",
-      "https://news.ycombinator.com/item?id=48095782"
-    ],
-    [
-      "Marco Polo: Finding a friend with only distance and motion",
-      "https://www.jackhogan.me/blog/marco-polo"
     ]
   ],
   [
@@ -267,6 +247,26 @@
     [
       "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
       "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/"
+    ]
+  ],
+  [
+    [
+      "2026-05-10, 14:56:05",
+      "https://news.ycombinator.com/item?id=48084516"
+    ],
+    [
+      "Technical Dimensions of Live Feedback in Programming Systems",
+      "https://joshuahhh.com/dims-of-feedback/"
+    ]
+  ],
+  [
+    [
+      "2026-05-10, 13:54:54",
+      "https://news.ycombinator.com/item?id=48084012"
+    ],
+    [
+      "Leaving the Physical World",
+      "https://www.eff.org/pages/leaving-physical-world"
     ]
   ],
   [
