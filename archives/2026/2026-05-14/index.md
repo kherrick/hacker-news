@@ -4,6 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-05-14](index.md)
 
+* [2026-05-14, 17:45:18](https://news.ycombinator.com/item?id=48138680) - [Deal reached with hackers to delete data stolen from the Canvas platform](https://www.nbcnews.com/tech/tech-news/deal-reached-hackers-delete-data-stolen-canvas-educational-platform-rcna344693)
+* [2026-05-14, 17:37:39](https://news.ycombinator.com/item?id=48138572) - [Bun's Rust rewrite has been merged](https://old.reddit.com/r/rust/comments/1tcrmjs/rewrite_bun_in_rust_has_been_merged/)
+* [2026-05-14, 17:17:48](https://news.ycombinator.com/item?id=48138268) - [New Nginx Exploit](https://github.com/DepthFirstDisclosures/Nginx-Rift)
+* [2026-05-14, 17:08:00](https://news.ycombinator.com/item?id=48138136) - [Removing the Modem and GPS from My 2024 RAV4 Hybrid](https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/)
+* [2026-05-14, 17:01:16](https://news.ycombinator.com/item?id=48138063) - [Terranox AI (YC W26) Is Hiring a Founding AI/ML Engineer and Summer AI/ML Intern](https://www.workatastartup.com/companies/terranox-ai)
+* [2026-05-14, 16:57:12](https://news.ycombinator.com/item?id=48138009) - [Apple-OpenAI Relationship Frays, Setting Up Possible Legal Fight](https://www.bloomberg.com/news/articles/2026-05-14/openai-apple-partnership-frays-setting-up-possible-legal-fight)
+* [2026-05-14, 16:19:29](https://news.ycombinator.com/item?id=48137553) - [HDD Firmware Hacking](https://icode4.coffee/?p=1465)
 * [2026-05-14, 15:47:31](https://news.ycombinator.com/item?id=48137145) - [RTX 5090 and M4 MacBook Air: Can It Game?](https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/)
 * [2026-05-14, 15:36:24](https://news.ycombinator.com/item?id=48136992) - [On The Conflation of Money and Things](https://lithub.com/is-it-even-real-on-the-conflation-of-money-and-things/)
 * [2026-05-14, 15:32:44](https://news.ycombinator.com/item?id=48136943) - [New agents.txt file found on DreamHost](https://journal.kvibber.com/2026/05/agents-txt-on-dreamhost/)
