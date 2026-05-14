@@ -20,6 +20,7 @@
 * [2026-05-11, 19:38:10](https://news.ycombinator.com/item?id=48099665) - [Red Hot Chili Peppers sell music catalogue for $300M](https://guitar.com/news/industry-news/red-hot-chili-peppers-sell-music-catalogue/)
 * [2026-05-11, 19:38:10](https://news.ycombinator.com/item?id=48099665) - [Red Hot Chili Peppers ink $300M deal with Warner Music to sell catalog](https://www.hollywoodreporter.com/music/music-industry-news/wmg-acquired-red-hot-chili-peppers-catalog-for-350-million-1236589567/)
 * [2026-05-11, 19:33:31](https://news.ycombinator.com/item?id=48099616) - [Library for fast mapping of Java records to native memory](https://github.com/mamba-studio/TypedMemory)
+* [2026-05-11, 19:12:34](https://news.ycombinator.com/item?id=48099347) - [Golden Testing a CAD Library](https://doscienceto.it/blog/posts/2026-04-27-golden-testing-cad.html)
 * [2026-05-11, 18:12:38](https://news.ycombinator.com/item?id=48098537) - [Can Someone Please Explain Whether Cloudflare Blackmailed Canonical?](https://www.flyingpenguin.com/can-someone-please-explain-whether-cloudflare-blackmailed-canonical/)
 * [2026-05-11, 17:53:08](https://news.ycombinator.com/item?id=48098261) - [UCLA discovers first stroke rehabilitation drug to repair brain damage](https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage)
 * [2026-05-11, 17:43:12](https://news.ycombinator.com/item?id=48098122) - [Bild AI (YC W25) Is Hiring Founding Product Engineers](https://bild.ai/jobs)

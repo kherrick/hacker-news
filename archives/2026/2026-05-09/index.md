@@ -19,6 +19,7 @@
 * [2026-05-09, 18:47:58](https://news.ycombinator.com/item?id=48077231) - [Bun ported to Rust in 6 days](https://xunroll.com/thread/2053047748191232310)
 * [2026-05-09, 18:45:01](https://news.ycombinator.com/item?id=48077205) - [Optimize for change not application performance](https://www.echooff.dev/blog/developer-experience-is-a-performance-feature)
 * [2026-05-09, 18:33:36](https://news.ycombinator.com/item?id=48077126) - [Meta's Embrace of A.I. Is Making Its Employees Miserable](https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html)
+* [2026-05-09, 18:02:23](https://news.ycombinator.com/item?id=48076888) - ['A Four-Eyed World' Review: The Story of Spectacles](https://www.wsj.com/arts-culture/books/a-four-eyed-world-review-the-story-of-spectacles-504334ac)
 * [2026-05-09, 17:52:13](https://news.ycombinator.com/item?id=48076815) - [Show HN: I made a Clojure-like language in Go, boots in 7ms](https://github.com/nooga/let-go)
 * [2026-05-09, 17:49:44](https://news.ycombinator.com/item?id=48076798) - [VGA Memory Access Is Complicated](https://www.os2museum.com/wp/learn-something-old-every-day-part-xxi-vga-memory-access-is-complicated/)
 * [2026-05-09, 17:30:39](https://news.ycombinator.com/item?id=48076651) - [Zed Editor Theme-Builder](https://zed.dev/theme-builder)
