@@ -35,6 +35,7 @@
 * [2026-05-12, 15:30:05](https://news.ycombinator.com/item?id=48109772) - [Heritability of human life span is ~50% when heritability is redefined](https://dynomight.net/lifespan/)
 * [2026-05-12, 15:23:58](https://news.ycombinator.com/item?id=48109677) - [Wrap Go binaries in Python wheels](https://github.com/simonw/go-to-wheel)
 * [2026-05-12, 15:08:40](https://news.ycombinator.com/item?id=48109460) - [Why senior developers fail to communicate their expertise](https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise)
+* [2026-05-12, 14:57:25](https://news.ycombinator.com/item?id=48109270) - [Bare-metal STM32: vector table, linker script, and startup code from scratch](https://lmilz.dev/blog/2026/04/19/Embedded-Hello-World.html)
 * [2026-05-12, 14:54:41](https://news.ycombinator.com/item?id=48109224) - [Bambu Lab is abusing the open source social contract](https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/)
 * [2026-05-12, 14:24:55](https://news.ycombinator.com/item?id=48108778) - [Show HN: Statewright – Visual state machines that make AI agents reliable](https://github.com/statewright/statewright)
 * [2026-05-12, 14:14:04](https://news.ycombinator.com/item?id=48108621) - [Int a = 5; a = a++ + ++a; a =? (2011)](https://gynvael.coldwind.pl/?id=372)
