@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-05-14](index.md)
 
+* [2026-05-14, 12:05:13](https://news.ycombinator.com/item?id=48134225) - [The Dating App Swipe Is Dying. What Comes Next May Be Worse](https://www.insidehook.com/sex-and-dating/bumble-dating-app-swipe-dying)
+* [2026-05-14, 11:26:58](https://news.ycombinator.com/item?id=48133917) - [Ryan Cohen hits back at eBay, says his takeover proposal should not be dismissed](https://www.reuters.com/world/ryan-cohen-says-ebay-directors-should-not-dismiss-his-proposal-without-engaging-2026-05-13/)
+* [2026-05-14, 11:26:22](https://news.ycombinator.com/item?id=48133908) - [Myths about /dev/urandom](https://www.2uo.de/myths-about-urandom/)
+* [2026-05-14, 11:05:05](https://news.ycombinator.com/item?id=48133728) - [They Said It Would Cost $54M. We Said \"No Thanks.\"](https://nateglubish.substack.com/p/they-said-it-would-cost-54-million)
+* [2026-05-14, 10:44:50](https://news.ycombinator.com/item?id=48133561) - [Show HN: Running the second public ODoH relay](https://numa.rs/blog/posts/odoh-anonymous-dns-without-an-account.html)
 * [2026-05-14, 08:15:31](https://news.ycombinator.com/item?id=48132488) - [Rewrite Bun in Rust has been merged](https://github.com/oven-sh/bun/pull/30412)
 * [2026-05-14, 07:03:18](https://news.ycombinator.com/item?id=48132030) - [Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7](https://classic7.lol/)
 * [2026-05-14, 03:59:35](https://news.ycombinator.com/item?id=48130950) - [Claude for Small Business](https://www.anthropic.com/news/claude-for-small-business)
