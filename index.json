@@ -1,12 +1,52 @@
 [
   [
     [
-      "2026-05-14, 08:15:31",
-      "https://news.ycombinator.com/item?id=48132488"
+      "2026-05-14, 12:05:13",
+      "https://news.ycombinator.com/item?id=48134225"
     ],
     [
-      "Rewrite Bun in Rust has been merged",
-      "https://github.com/oven-sh/bun/pull/30412"
+      "The Dating App Swipe Is Dying. What Comes Next May Be Worse",
+      "https://www.insidehook.com/sex-and-dating/bumble-dating-app-swipe-dying"
+    ]
+  ],
+  [
+    [
+      "2026-05-14, 11:26:58",
+      "https://news.ycombinator.com/item?id=48133917"
+    ],
+    [
+      "Ryan Cohen hits back at eBay, says his takeover proposal should not be dismissed",
+      "https://www.reuters.com/world/ryan-cohen-says-ebay-directors-should-not-dismiss-his-proposal-without-engaging-2026-05-13/"
+    ]
+  ],
+  [
+    [
+      "2026-05-14, 11:26:22",
+      "https://news.ycombinator.com/item?id=48133908"
+    ],
+    [
+      "Myths about /dev/urandom",
+      "https://www.2uo.de/myths-about-urandom/"
+    ]
+  ],
+  [
+    [
+      "2026-05-14, 11:05:05",
+      "https://news.ycombinator.com/item?id=48133728"
+    ],
+    [
+      "They Said It Would Cost $54M. We Said \"No Thanks.\"",
+      "https://nateglubish.substack.com/p/they-said-it-would-cost-54-million"
+    ]
+  ],
+  [
+    [
+      "2026-05-14, 10:44:50",
+      "https://news.ycombinator.com/item?id=48133561"
+    ],
+    [
+      "Show HN: Running the second public ODoH relay",
+      "https://numa.rs/blog/posts/odoh-anonymous-dns-without-an-account.html"
     ]
   ],
   [
@@ -41,16 +81,6 @@
   ],
   [
     [
-      "2026-05-14, 02:45:08",
-      "https://news.ycombinator.com/item?id=48130519"
-    ],
-    [
-      "Microsoft BitLocker – YellowKey zero-day exploit",
-      "https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit-demonstrates-an-apparent-backdoor"
-    ]
-  ],
-  [
-    [
       "2026-05-14, 01:46:45",
       "https://news.ycombinator.com/item?id=48130186"
     ],
@@ -71,16 +101,6 @@
   ],
   [
     [
-      "2026-05-14, 01:15:24",
-      "https://news.ycombinator.com/item?id=48129953"
-    ],
-    [
-      "delta time",
-      "https://www.deltatime.life/"
-    ]
-  ],
-  [
-    [
       "2026-05-14, 01:13:02",
       "https://news.ycombinator.com/item?id=48129934"
     ],
@@ -97,16 +117,6 @@
     [
       "Scorched Earth 2000 – Web",
       "http://www.scorch2000.com/web/"
-    ]
-  ],
-  [
-    [
-      "2026-05-13, 20:12:16",
-      "https://news.ycombinator.com/item?id=48126848"
-    ],
-    [
-      "Princeton mandates proctoring for in-person exams, upending 133 year precedent",
-      "https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent"
     ]
   ],
   [
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2026-05-12, 17:44:58",
-      "https://news.ycombinator.com/item?id=48111652"
-    ],
-    [
-      "The Deathbed Notes of Henry James (1968)",
-      "https://www.theatlantic.com/past/docs/unbound/flashbks/james/jnote.htm"
-    ]
-  ],
-  [
-    [
       "2026-05-12, 15:30:05",
       "https://news.ycombinator.com/item?id=48109772"
     ],
@@ -201,22 +201,22 @@
   ],
   [
     [
-      "2026-05-12, 04:46:40",
-      "https://news.ycombinator.com/item?id=48104285"
-    ],
-    [
-      "Notes from Optimizing CPU-Bound Go Hot Paths",
-      "https://blog.andr2i.com/posts/2026-05-03-notes-from-optimizing-cpu-bound-go-hot-paths"
-    ]
-  ],
-  [
-    [
       "2026-05-12, 01:03:03",
       "https://news.ycombinator.com/item?id=48102901"
     ],
     [
       "Extraordinary Ordinals",
       "https://text.marvinborner.de/2026-04-09-17.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-11, 19:41:02",
+      "https://news.ycombinator.com/item?id=48099688"
+    ],
+    [
+      "The Tree House: A voyage to the source of a backyard dream",
+      "https://www.laphamsquarterly.org/roundtable/tree-house"
     ]
   ],
   [
@@ -237,6 +237,16 @@
     [
       "How can Apple deal with the memory shortage?",
       "https://asymco.com/2026/05/11/the-great-memory-panic-of-2026/"
+    ]
+  ],
+  [
+    [
+      "2026-05-11, 10:38:12",
+      "https://news.ycombinator.com/item?id=48093244"
+    ],
+    [
+      "Saying Goodbye to one line of APL",
+      "https://homewithinnowhere.com/posts/2026-05-10-one-line.html#fnref1"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Xs of Y – roguelike that names itself every run. Written in 4kLoC",
       "https://github.com/nooga/xsofy"
-    ]
-  ],
-  [
-    [
-      "2026-05-09, 20:25:55",
-      "https://news.ycombinator.com/item?id=48077924"
-    ],
-    [
-      "Reverting the incremental GC in Python 3.14 and 3.15",
-      "https://discuss.python.org/t/reverting-the-incremental-gc-in-python-3-14-and-3-15/107014"
     ]
   ],
   [
