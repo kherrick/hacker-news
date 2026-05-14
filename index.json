@@ -1,11 +1,81 @@
 [
   [
     [
+      "2026-05-14, 03:59:35",
+      "https://news.ycombinator.com/item?id=48130950"
+    ],
+    [
+      "Claude for Small Business",
+      "https://www.anthropic.com/news/claude-for-small-business"
+    ]
+  ],
+  [
+    [
+      "2026-05-14, 03:19:05",
+      "https://news.ycombinator.com/item?id=48130711"
+    ],
+    [
+      "Arena AI Model ELO History",
+      "https://mayerwin.github.io/AI-Arena-History/"
+    ]
+  ],
+  [
+    [
+      "2026-05-14, 02:45:08",
+      "https://news.ycombinator.com/item?id=48130519"
+    ],
+    [
+      "Microsoft BitLocker – YellowKey zero-day exploit",
+      "https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit-demonstrates-an-apparent-backdoor"
+    ]
+  ],
+  [
+    [
+      "2026-05-14, 01:46:45",
+      "https://news.ycombinator.com/item?id=48130186"
+    ],
+    [
+      "Show HN: Nibble",
+      "https://github.com/glouw/nibble"
+    ]
+  ],
+  [
+    [
+      "2026-05-14, 01:38:05",
+      "https://news.ycombinator.com/item?id=48130123"
+    ],
+    [
+      "Cisco workforce reductions",
+      "https://blogs.cisco.com/news/our-path-forward"
+    ]
+  ],
+  [
+    [
+      "2026-05-14, 01:15:24",
+      "https://news.ycombinator.com/item?id=48129953"
+    ],
+    [
+      "delta time",
+      "https://www.deltatime.life/"
+    ]
+  ],
+  [
+    [
+      "2026-05-14, 01:13:02",
+      "https://news.ycombinator.com/item?id=48129934"
+    ],
+    [
+      "Avoiding and reducing microplastic false positives from dry glove contact",
+      "https://pubs.rsc.org/en/content/articlelanding/2026/ay/d5ay01801c"
+    ]
+  ],
+  [
+    [
       "2026-05-14, 00:41:29",
       "https://news.ycombinator.com/item?id=48129694"
     ],
     [
-      "Scorched Earth 2000 is back",
+      "Scorched Earth 2000 – Web",
       "http://www.scorch2000.com/web/"
     ]
   ],
@@ -15,38 +85,8 @@
       "https://news.ycombinator.com/item?id=48129561"
     ],
     [
-      "The Other Half of AI Safety",
+      "The other half of AI safety",
       "https://personalaisafety.com/p/the-other-half-of-ai-safety"
-    ]
-  ],
-  [
-    [
-      "2026-05-13, 21:40:18",
-      "https://news.ycombinator.com/item?id=48128003"
-    ],
-    [
-      "Tell HN: Dont use Claude Design, lost access to my projects after unsubscribing",
-      "https://news.ycombinator.com/item?id=48128003"
-    ]
-  ],
-  [
-    [
-      "2026-05-13, 21:24:14",
-      "https://news.ycombinator.com/item?id=48127815"
-    ],
-    [
-      "Medicare's new payment model is built for AI. Most of the tech world has no idea",
-      "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/"
-    ]
-  ],
-  [
-    [
-      "2026-05-13, 20:22:21",
-      "https://news.ycombinator.com/item?id=48126981"
-    ],
-    [
-      "Meta won't let you block its AI account on Threads",
-      "https://www.theverge.com/tech/929091/meta-ai-threads-account-block"
     ]
   ],
   [
@@ -61,22 +101,12 @@
   ],
   [
     [
-      "2026-05-13, 19:14:47",
-      "https://news.ycombinator.com/item?id=48126156"
+      "2026-05-13, 18:30:51",
+      "https://news.ycombinator.com/item?id=48125617"
     ],
     [
-      "Making the news available at no cost is a victory",
-      "https://www.sltrib.com/opinion/commentary/2026/05/12/just-days-tribune-reporting/"
-    ]
-  ],
-  [
-    [
-      "2026-05-13, 18:25:09",
-      "https://news.ycombinator.com/item?id=48125557"
-    ],
-    [
-      "A sentimental tour of late 1990s and early 2000s hacking tools",
-      "https://andreafortuna.org/2026/05/13/amarcord/"
+      "MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble",
+      "https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/"
     ]
   ],
   [
@@ -121,36 +151,6 @@
   ],
   [
     [
-      "2026-05-13, 13:44:01",
-      "https://news.ycombinator.com/item?id=48121824"
-    ],
-    [
-      "Show HN: Rotunda - A browser built for agents with simulated typing",
-      "https://github.com/monkeysee-ai/rotunda"
-    ]
-  ],
-  [
-    [
-      "2026-05-13, 12:54:00",
-      "https://news.ycombinator.com/item?id=48121266"
-    ],
-    [
-      "Leaving GitHub for Forgejo",
-      "https://jorijn.com/en/blog/leaving-github-for-forgejo/"
-    ]
-  ],
-  [
-    [
-      "2026-05-13, 11:42:20",
-      "https://news.ycombinator.com/item?id=48120629"
-    ],
-    [
-      "I moved my digital stack to Europe",
-      "https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/"
-    ]
-  ],
-  [
-    [
       "2026-05-13, 07:06:14",
       "https://news.ycombinator.com/item?id=48118727"
     ],
@@ -181,12 +181,42 @@
   ],
   [
     [
-      "2026-05-12, 12:45:18",
-      "https://news.ycombinator.com/item?id=48107473"
+      "2026-05-12, 15:30:05",
+      "https://news.ycombinator.com/item?id=48109772"
     ],
     [
-      "The Age of the Amplifier",
-      "https://www.construction-physics.com/p/the-age-of-the-amplifier"
+      "Heritability of human life span is ~50% when heritability is redefined",
+      "https://dynomight.net/lifespan/"
+    ]
+  ],
+  [
+    [
+      "2026-05-12, 12:58:39",
+      "https://news.ycombinator.com/item?id=48107619"
+    ],
+    [
+      "AEPs: API Enhancement Proposals",
+      "https://github.com/aep-dev/aeps"
+    ]
+  ],
+  [
+    [
+      "2026-05-12, 07:44:19",
+      "https://news.ycombinator.com/item?id=48105385"
+    ],
+    [
+      "Can a Language Model Paint?",
+      "https://www.etive-mor.com/blog/can-a-language-model-paint/"
+    ]
+  ],
+  [
+    [
+      "2026-05-11, 19:12:34",
+      "https://news.ycombinator.com/item?id=48099347"
+    ],
+    [
+      "Golden Testing a CAD Library",
+      "https://doscienceto.it/blog/posts/2026-04-27-golden-testing-cad.html"
     ]
   ],
   [
@@ -211,32 +241,12 @@
   ],
   [
     [
-      "2026-05-11, 11:21:33",
-      "https://news.ycombinator.com/item?id=48093578"
+      "2026-05-11, 13:49:23",
+      "https://news.ycombinator.com/item?id=48094986"
     ],
     [
-      "An idiot's guide to lead optimisation for proteins",
-      "https://magnusross.github.io/posts/protein-lead-optimisation-1/"
-    ]
-  ],
-  [
-    [
-      "2026-05-11, 06:52:48",
-      "https://news.ycombinator.com/item?id=48091812"
-    ],
-    [
-      "Preserving Fisher-Price Pixter",
-      "https://dmitry.gr/?r=05.Projects&proj=37.%20Pixter"
-    ]
-  ],
-  [
-    [
-      "2026-05-11, 01:05:59",
-      "https://news.ycombinator.com/item?id=48089921"
-    ],
-    [
-      "New stainless steel can survive conditions for hydrogen production in seawater",
-      "https://www.sciencedaily.com/releases/2026/05/260510030950.htm"
+      "How can Apple deal with the memory shortage?",
+      "https://asymco.com/2026/05/11/the-great-memory-panic-of-2026/"
     ]
   ],
   [
@@ -247,26 +257,6 @@
     [
       "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
       "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/"
-    ]
-  ],
-  [
-    [
-      "2026-05-10, 16:40:11",
-      "https://news.ycombinator.com/item?id=48085423"
-    ],
-    [
-      "After 3 decades of splendid scientific communication, this one's for you, Ned",
-      "https://www.adn.com/alaska-news/science/2026/05/08/after-3-decades-of-splendid-scientific-communication-this-ones-for-you-ned/"
-    ]
-  ],
-  [
-    [
-      "2026-05-10, 12:58:11",
-      "https://news.ycombinator.com/item?id=48083622"
-    ],
-    [
-      "Comparing a 1980s memory map to the Raspi Pico",
-      "https://medium.com/@noborutakahashi/a-40-year-old-memory-map-comparable-to-todays-raspberry-pi-pico-932c4309260d"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Reverting the incremental GC in Python 3.14 and 3.15",
       "https://discuss.python.org/t/reverting-the-incremental-gc-in-python-3-14-and-3-15/107014"
+    ]
+  ],
+  [
+    [
+      "2026-05-09, 18:02:23",
+      "https://news.ycombinator.com/item?id=48076888"
+    ],
+    [
+      "'A Four-Eyed World' Review: The Story of Spectacles",
+      "https://www.wsj.com/arts-culture/books/a-four-eyed-world-review-the-story-of-spectacles-504334ac"
     ]
   ],
   [
