@@ -4,6 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-05-14](index.md)
 
+* [2026-05-14, 21:02:01](https://news.ycombinator.com/item?id=48141206) - [Show HN: I built a Web-Scraper API that is 6-7x more efficient than current ones](https://scrapewithruno.com/)
+* [2026-05-14, 21:00:37](https://news.ycombinator.com/item?id=48141191) - [Infracost (YC W21) Is Hiring Sr Dev Advocate to make agents cloud cost-aware](https://www.ycombinator.com/companies/infracost/jobs/NzwUQ7c-senior-developer-advocate)
+* [2026-05-14, 20:50:46](https://news.ycombinator.com/item?id=48141060) - [Minimal Structures](https://chefcinnamon.github.io/memo/posts/minimal-structures/)
+* [2026-05-14, 20:41:48](https://news.ycombinator.com/item?id=48140953) - [Tesla Wall Connector bootloader bypasses the firmware downgrade ratchet](https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing)
+* [2026-05-14, 20:39:12](https://news.ycombinator.com/item?id=48140922) - [New arXiv policy: 1-year ban for hallucinated references](https://twitter.com/tdietterich/status/2055000956144935055)
+* [2026-05-14, 20:22:35](https://news.ycombinator.com/item?id=48140730) - [Amazonbot is finally respecting robots.txt](https://xeiaso.net/notes/2026/amazonbot-respecting-robots-txt/)
+* [2026-05-14, 20:06:53](https://news.ycombinator.com/item?id=48140541) - [RISC-V Router](https://router.start9.com/)
+* [2026-05-14, 20:06:14](https://news.ycombinator.com/item?id=48140529) - [Work with Codex from Anywhere](https://openai.com/index/work-with-codex-from-anywhere/)
 * [2026-05-14, 19:16:02](https://news.ycombinator.com/item?id=48139912) - [Germany's Sovereign Tech Fund Backs KDE with €1.3M](https://www.theregister.com/oses/2026/05/14/kde-bags-13m-as-europe-realizes-it-might-need-an-os-of-its-own/5240562)
 * [2026-05-14, 19:07:12](https://news.ycombinator.com/item?id=48139775) - [Green Card Holders Targeted for Deportation by New 'Removal Apparatus'](https://www.nytimes.com/2026/05/14/us/politics/green-cards-immigration-deportation-trump.html)
 * [2026-05-14, 19:01:58](https://news.ycombinator.com/item?id=48139704) - [WinUI 3 Performance: A Leap Forward](https://github.com/microsoft/microsoft-ui-xaml/discussions/11096)
