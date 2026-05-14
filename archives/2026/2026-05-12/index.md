@@ -36,6 +36,7 @@
 * [2026-05-12, 14:54:41](https://news.ycombinator.com/item?id=48109224) - [Bambu Lab is abusing the open source social contract](https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/)
 * [2026-05-12, 14:24:55](https://news.ycombinator.com/item?id=48108778) - [Show HN: Statewright – Visual state machines that make AI agents reliable](https://github.com/statewright/statewright)
 * [2026-05-12, 13:26:46](https://news.ycombinator.com/item?id=48107997) - [Rendering the Sky, Sunsets, and Planets](https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/)
+* [2026-05-12, 12:45:18](https://news.ycombinator.com/item?id=48107473) - [The Age of the Amplifier](https://www.construction-physics.com/p/the-age-of-the-amplifier)
 * [2026-05-12, 12:38:45](https://news.ycombinator.com/item?id=48107404) - [UnDUNE II](https://liquidream.itch.io/undune2)
 * [2026-05-12, 12:00:46](https://news.ycombinator.com/item?id=48107024) - [Text Blaze (YC W21) Is Hiring for a No-AI Summer Internship](https://www.ycombinator.com/companies/text-blaze/jobs/P4CCN62-the-blaze-no-ai-summer-internship)
 * [2026-05-12, 11:00:07](https://news.ycombinator.com/item?id=48106534) - [EU to crack down on TikTok, Instagram's 'addictive design' targeting kids](https://www.cnbc.com/2026/05/12/tiktok-instagram-social-media-addictive-eu-crack-down.html)

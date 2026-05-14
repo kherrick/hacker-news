@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-13](index.md)
 
+* [2026-05-13, 21:40:18](https://news.ycombinator.com/item?id=48128003) - [Tell HN: Dont use Claude Design, lost access to my projects after unsubscribing](https://news.ycombinator.com/item?id=48128003)
 * [2026-05-13, 21:24:14](https://news.ycombinator.com/item?id=48127815) - [Medicare's new payment model is built for AI. Most of the tech world has no idea](https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/)
 * [2026-05-13, 20:22:21](https://news.ycombinator.com/item?id=48126981) - [Meta won't let you block its AI account on Threads](https://www.theverge.com/tech/929091/meta-ai-threads-account-block)
 * [2026-05-13, 20:12:16](https://news.ycombinator.com/item?id=48126848) - [Princeton mandates proctoring in-person exams, upending 133 years of precedent](https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent)
@@ -25,6 +26,7 @@
 * [2026-05-13, 14:45:18](https://news.ycombinator.com/item?id=48122635) - [Setting up a free *.city.state.us locality domain](https://fredchan.org/blog/locality-domains-guide/)
 * [2026-05-13, 14:44:41](https://news.ycombinator.com/item?id=48122624) - [The AI Backlash Could Get Ugly](https://www.theatlantic.com/technology/2026/05/ai-backlash-data-centers-political-violence/687151/)
 * [2026-05-13, 13:53:53](https://news.ycombinator.com/item?id=48121929) - [The US is winning the AI race where it matters most: commercialization](https://avkcode.github.io/blog/us-winning-ai-race.html)
+* [2026-05-13, 13:44:01](https://news.ycombinator.com/item?id=48121824) - [Show HN: Rotunda - A browser built for agents with simulated typing](https://github.com/monkeysee-ai/rotunda)
 * [2026-05-13, 12:57:42](https://news.ycombinator.com/item?id=48121299) - [Dutch suicide prevention website shares data with tech companies without consent](https://nltimes.nl/2026/05/13/dutch-suicide-prevention-hotline-shares-visitor-data-tech-companies)
 * [2026-05-13, 12:54:00](https://news.ycombinator.com/item?id=48121266) - [Why I'm leaving GitHub for Forgejo](https://jorijn.com/en/blog/leaving-github-for-forgejo/)
 * [2026-05-13, 12:00:30](https://news.ycombinator.com/item?id=48120776) - [Substrate (YC S24) Is Hiring a Technical Success Manager](https://www.ycombinator.com/companies/substrate/jobs/T2fMBhD-technical-success-manager)
