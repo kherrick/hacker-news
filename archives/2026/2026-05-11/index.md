@@ -16,6 +16,7 @@
 * [2026-05-11, 20:38:40](https://news.ycombinator.com/item?id=48100364) - [Foucault's Order of Things Explained with Trading Cards [video]](https://www.youtube.com/watch?v=1TbHYjGvS68)
 * [2026-05-11, 20:26:17](https://news.ycombinator.com/item?id=48100227) - [Show HN: E2a – Open-source email gateway for AI agents](https://github.com/Mnexa-AI/e2a)
 * [2026-05-11, 20:23:25](https://news.ycombinator.com/item?id=48100192) - [Show HN: OpenGravity – A zero-install, BYOK vanilla JS clone of Antigravity](https://github.com/ab-613/opengravity)
+* [2026-05-11, 20:17:58](https://news.ycombinator.com/item?id=48100126) - [What is Firecracker? (A beginners intro)](https://www.browserbase.com/blog/what-is-firecracker)
 * [2026-05-11, 19:49:39](https://news.ycombinator.com/item?id=48099790) - [Linux Terminal Memory Usage](https://gilesorr.com/blog/linux-terminal-memory-usage.html)
 * [2026-05-11, 19:41:02](https://news.ycombinator.com/item?id=48099688) - [The Tree House: A voyage to the source of a backyard dream](https://www.laphamsquarterly.org/roundtable/tree-house)
 * [2026-05-11, 19:38:10](https://news.ycombinator.com/item?id=48099665) - [Red Hot Chili Peppers sell music catalogue for $300M](https://guitar.com/news/industry-news/red-hot-chili-peppers-sell-music-catalogue/)

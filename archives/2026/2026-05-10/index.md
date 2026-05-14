@@ -65,3 +65,4 @@
 * [2026-05-10, 01:49:09](https://news.ycombinator.com/item?id=48080201) - [Abstract Machines for Logic Programs](https://chrisistyping.bearblog.dev/abstract-machines-for-logic-programs/)
 * [2026-05-10, 01:45:49](https://news.ycombinator.com/item?id=48080179) - [Analysis points to a unexpected cause of reading difficulties](https://phys.org/news/2026-05-years-struggles-obvious-massive-analysis.html)
 * [2026-05-10, 01:31:23](https://news.ycombinator.com/item?id=48080111) - [Chasing Chicago's movable bridges (2014)](https://aresluna.org/seesaws-for-giants/)
+* [2026-05-10, 00:04:29](https://news.ycombinator.com/item?id=48079587) - [Swift bricks to be installed on all new buildings in Scotland](https://www.theguardian.com/environment/2026/jan/28/swift-bricks-to-be-installed-in-all-new-buildings-in-scotland-after-holyrood-backs-ruling)
