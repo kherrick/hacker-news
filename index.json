@@ -1,6 +1,76 @@
 [
   [
     [
+      "2026-05-14, 17:45:18",
+      "https://news.ycombinator.com/item?id=48138680"
+    ],
+    [
+      "Deal reached with hackers to delete data stolen from the Canvas platform",
+      "https://www.nbcnews.com/tech/tech-news/deal-reached-hackers-delete-data-stolen-canvas-educational-platform-rcna344693"
+    ]
+  ],
+  [
+    [
+      "2026-05-14, 17:37:39",
+      "https://news.ycombinator.com/item?id=48138572"
+    ],
+    [
+      "Bun's Rust rewrite has been merged",
+      "https://old.reddit.com/r/rust/comments/1tcrmjs/rewrite_bun_in_rust_has_been_merged/"
+    ]
+  ],
+  [
+    [
+      "2026-05-14, 17:17:48",
+      "https://news.ycombinator.com/item?id=48138268"
+    ],
+    [
+      "New Nginx Exploit",
+      "https://github.com/DepthFirstDisclosures/Nginx-Rift"
+    ]
+  ],
+  [
+    [
+      "2026-05-14, 17:08:00",
+      "https://news.ycombinator.com/item?id=48138136"
+    ],
+    [
+      "Removing the Modem and GPS from My 2024 RAV4 Hybrid",
+      "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/"
+    ]
+  ],
+  [
+    [
+      "2026-05-14, 17:01:16",
+      "https://news.ycombinator.com/item?id=48138063"
+    ],
+    [
+      "Terranox AI (YC W26) Is Hiring a Founding AI/ML Engineer and Summer AI/ML Intern",
+      "https://www.workatastartup.com/companies/terranox-ai"
+    ]
+  ],
+  [
+    [
+      "2026-05-14, 16:57:12",
+      "https://news.ycombinator.com/item?id=48138009"
+    ],
+    [
+      "Apple-OpenAI Relationship Frays, Setting Up Possible Legal Fight",
+      "https://www.bloomberg.com/news/articles/2026-05-14/openai-apple-partnership-frays-setting-up-possible-legal-fight"
+    ]
+  ],
+  [
+    [
+      "2026-05-14, 16:19:29",
+      "https://news.ycombinator.com/item?id=48137553"
+    ],
+    [
+      "HDD Firmware Hacking",
+      "https://icode4.coffee/?p=1465"
+    ]
+  ],
+  [
+    [
       "2026-05-14, 15:47:31",
       "https://news.ycombinator.com/item?id=48137145"
     ],
@@ -17,16 +87,6 @@
     [
       "On The Conflation of Money and Things",
       "https://lithub.com/is-it-even-real-on-the-conflation-of-money-and-things/"
-    ]
-  ],
-  [
-    [
-      "2026-05-14, 15:32:44",
-      "https://news.ycombinator.com/item?id=48136943"
-    ],
-    [
-      "New agents.txt file found on DreamHost",
-      "https://journal.kvibber.com/2026/05/agents-txt-on-dreamhost/"
     ]
   ],
   [
@@ -91,16 +151,6 @@
   ],
   [
     [
-      "2026-05-14, 11:38:46",
-      "https://news.ycombinator.com/item?id=48134014"
-    ],
-    [
-      "The European Union backs Italy's right to make Meta pay for news",
-      "https://www.niemanlab.org/2026/05/the-eu-backs-italys-right-to-make-meta-pay-for-news/"
-    ]
-  ],
-  [
-    [
       "2026-05-14, 11:26:22",
       "https://news.ycombinator.com/item?id=48133908"
     ],
@@ -161,22 +211,22 @@
   ],
   [
     [
+      "2026-05-13, 19:22:14",
+      "https://news.ycombinator.com/item?id=48126241"
+    ],
+    [
+      "EditLens: Quantifying the extent of AI editing in text (2025)",
+      "https://arxiv.org/abs/2510.03154"
+    ]
+  ],
+  [
+    [
       "2026-05-13, 18:30:51",
       "https://news.ycombinator.com/item?id=48125617"
     ],
     [
       "MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble",
       "https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/"
-    ]
-  ],
-  [
-    [
-      "2026-05-13, 14:45:18",
-      "https://news.ycombinator.com/item?id=48122635"
-    ],
-    [
-      "Setting up a free *.city.state.us locality domain (2025)",
-      "https://fredchan.org/blog/locality-domains-guide/"
     ]
   ],
   [
@@ -191,12 +241,12 @@
   ],
   [
     [
-      "2026-05-12, 18:03:11",
-      "https://news.ycombinator.com/item?id=48111896"
+      "2026-05-12, 14:14:04",
+      "https://news.ycombinator.com/item?id=48108621"
     ],
     [
-      "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
-      "https://github.com/cactus-compute/needle"
+      "Int a = 5; a = a++ + ++a; a =? (2011)",
+      "https://gynvael.coldwind.pl/?id=372"
     ]
   ],
   [
@@ -221,42 +271,12 @@
   ],
   [
     [
-      "2026-05-11, 16:00:19",
-      "https://news.ycombinator.com/item?id=48096760"
-    ],
-    [
-      "Chess puzzle I found in my dad's old book",
-      "https://ardoedo.it/kempelen/"
-    ]
-  ],
-  [
-    [
       "2026-05-11, 10:38:12",
       "https://news.ycombinator.com/item?id=48093244"
     ],
     [
       "Saying Goodbye to one line of APL",
       "https://homewithinnowhere.com/posts/2026-05-10-one-line.html#fnref1"
-    ]
-  ],
-  [
-    [
-      "2026-05-10, 20:54:06",
-      "https://news.ycombinator.com/item?id=48087887"
-    ],
-    [
-      "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
-      "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/"
-    ]
-  ],
-  [
-    [
-      "2026-05-10, 14:56:05",
-      "https://news.ycombinator.com/item?id=48084516"
-    ],
-    [
-      "Technical Dimensions of Live Feedback in Programming Systems",
-      "https://joshuahhh.com/dims-of-feedback/"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "60fps Video on a CGA? – The GlyphBlaster",
       "https://martypc.blogspot.com/2026/05/60fps-video-on-cga-glyphblaster.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-10, 00:04:29",
-      "https://news.ycombinator.com/item?id=48079587"
-    ],
-    [
-      "Swift bricks to be installed on all new buildings in Scotland",
-      "https://www.theguardian.com/environment/2026/jan/28/swift-bricks-to-be-installed-in-all-new-buildings-in-scotland-after-holyrood-backs-ruling"
-    ]
-  ],
-  [
-    [
-      "2026-05-09, 11:14:18",
-      "https://news.ycombinator.com/item?id=48073979"
-    ],
-    [
-      "A History of IDEs at Google",
-      "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google"
     ]
   ]
 ]
