@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-05-14, 21:02:01",
-      "https://news.ycombinator.com/item?id=48141206"
+      "2026-05-14, 21:50:17",
+      "https://news.ycombinator.com/item?id=48141732"
     ],
     [
-      "Show HN: I built a Web-Scraper API that is 6-7x more efficient than current ones",
-      "https://scrapewithruno.com/"
+      "OVMS: Open source electric vehicle remote monitoring, diagnosis and control",
+      "https://www.openvehicles.com/home"
+    ]
+  ],
+  [
+    [
+      "2026-05-14, 21:05:05",
+      "https://news.ycombinator.com/item?id=48141234"
+    ],
+    [
+      "Claude for Legal",
+      "https://github.com/anthropics/claude-for-legal"
     ]
   ],
   [
@@ -17,16 +27,6 @@
     [
       "Infracost (YC W21) Is Hiring Sr Dev Advocate to make agents cloud cost-aware",
       "https://www.ycombinator.com/companies/infracost/jobs/NzwUQ7c-senior-developer-advocate"
-    ]
-  ],
-  [
-    [
-      "2026-05-14, 20:50:46",
-      "https://news.ycombinator.com/item?id=48141060"
-    ],
-    [
-      "Minimal Structures",
-      "https://chefcinnamon.github.io/memo/posts/minimal-structures/"
     ]
   ],
   [
@@ -87,16 +87,6 @@
     [
       "WinUI 3 Performance: A Leap Forward",
       "https://github.com/microsoft/microsoft-ui-xaml/discussions/11096"
-    ]
-  ],
-  [
-    [
-      "2026-05-14, 18:37:08",
-      "https://news.ycombinator.com/item?id=48139355"
-    ],
-    [
-      "The AI Zombification of Universities",
-      "https://www.thenewcritic.com/p/the-great-zombification"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "Rewrite Bun in Rust has been merged",
       "https://github.com/oven-sh/bun/pull/30412"
+    ]
+  ],
+  [
+    [
+      "2026-05-12, 15:23:58",
+      "https://news.ycombinator.com/item?id=48109677"
+    ],
+    [
+      "Wrap Go binaries in Python wheels",
+      "https://github.com/simonw/go-to-wheel"
     ]
   ],
   [
