@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-05-14](index.md)
 
+* [2026-05-14, 15:47:31](https://news.ycombinator.com/item?id=48137145) - [RTX 5090 and M4 MacBook Air: Can It Game?](https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/)
+* [2026-05-14, 15:36:24](https://news.ycombinator.com/item?id=48136992) - [On The Conflation of Money and Things](https://lithub.com/is-it-even-real-on-the-conflation-of-money-and-things/)
+* [2026-05-14, 15:32:44](https://news.ycombinator.com/item?id=48136943) - [New agents.txt file found on DreamHost](https://journal.kvibber.com/2026/05/agents-txt-on-dreamhost/)
+* [2026-05-14, 15:15:05](https://news.ycombinator.com/item?id=48136662) - [Anthropic forms $200M partnership with the Gates Foundation](https://www.anthropic.com/news/gates-foundation-partnership)
+* [2026-05-14, 14:51:14](https://news.ycombinator.com/item?id=48136262) - [MIT: 20% drop in incoming graduate students](https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline)
+* [2026-05-14, 14:49:48](https://news.ycombinator.com/item?id=48136240) - [Claude AI recovers an 11 yrs old BTC wallet holding 400k USD](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup)
 * [2026-05-14, 14:17:12](https://news.ycombinator.com/item?id=48135782) - [Meta's New Reality: Record High Profits. Record Low Morale](https://www.wired.com/story/meta-layoffs-bad-vibes-mark-zuckerberg-ai/)
 * [2026-05-14, 13:17:57](https://news.ycombinator.com/item?id=48134993) - [USDA Projects Smallest US Wheat Harvest Since 1972 Due to Plains Drought](https://www.agweb.com/news/usda-projects-smallest-us-wheat-harvest-1972-due-plains-drought)
 * [2026-05-14, 13:10:32](https://news.ycombinator.com/item?id=48134905) - [Beware of Drunk Deer, French Police Say, Announcing Season of Inebriation](https://www.nytimes.com/2026/05/13/world/europe/france-drunk-deer.html)
