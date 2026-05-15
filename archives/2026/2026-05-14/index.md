@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-14](index.md)
 
+* [2026-05-14, 23:37:21](https://news.ycombinator.com/item?id=48142650) - [LLM Policy for Rust Compiler](https://github.com/rust-lang/rust-forge/pull/1040)
 * [2026-05-14, 23:24:45](https://news.ycombinator.com/item?id=48142553) - [Have a Coherent AI Policy](https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/)
 * [2026-05-14, 22:44:16](https://news.ycombinator.com/item?id=48142251) - ['Millions' of pounds saved by replacing Palantir tech in refugee system](https://www.bbc.com/news/articles/c2l2j1lxdk5o)
 * [2026-05-14, 22:38:18](https://news.ycombinator.com/item?id=48142193) - [More than half of U.S. faces worst drought in decades](https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html)

@@ -41,6 +41,7 @@
 * [2026-05-12, 14:24:55](https://news.ycombinator.com/item?id=48108778) - [Show HN: Statewright – Visual state machines that make AI agents reliable](https://github.com/statewright/statewright)
 * [2026-05-12, 14:14:04](https://news.ycombinator.com/item?id=48108621) - [Int a = 5; a = a++ + ++a; a =? (2011)](https://gynvael.coldwind.pl/?id=372)
 * [2026-05-12, 13:26:46](https://news.ycombinator.com/item?id=48107997) - [Rendering the Sky, Sunsets, and Planets](https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/)
+* [2026-05-12, 13:11:16](https://news.ycombinator.com/item?id=48107766) - [Gyroflow: Video stabilization using gyroscope data](https://github.com/gyroflow/gyroflow)
 * [2026-05-12, 12:58:39](https://news.ycombinator.com/item?id=48107619) - [AEPs: API Enhancement Proposals](https://github.com/aep-dev/aeps)
 * [2026-05-12, 12:45:18](https://news.ycombinator.com/item?id=48107473) - [The Age of the Amplifier](https://www.construction-physics.com/p/the-age-of-the-amplifier)
 * [2026-05-12, 12:38:45](https://news.ycombinator.com/item?id=48107404) - [UnDUNE II](https://liquidream.itch.io/undune2)
