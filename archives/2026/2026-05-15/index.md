@@ -4,8 +4,17 @@
 
 ### [Archives](../../index.md) for [2026-05-15](index.md)
 
+* [2026-05-15, 20:28:44](https://news.ycombinator.com/item?id=48153400) - [London Police Deploy Facial Recognition at Protest for First Time](https://reclaimthenet.org/london-police-deploy-facial-recognition-at-protest-for-first-time)
+* [2026-05-15, 20:26:47](https://news.ycombinator.com/item?id=48153379) - [Mitchellh – I strongly believe there are entire companies now under AI psychosis](https://twitter.com/mitchellh/status/2055380239711457578)
+* [2026-05-15, 20:06:51](https://news.ycombinator.com/item?id=48153183) - [Palantir has hired more than 30 senior UK Government officials](https://www.thenational.scot/news/26055524.palantir-hired-30-senior-uk-government-officials/)
+* [2026-05-15, 20:03:17](https://news.ycombinator.com/item?id=48153142) - [Microscale Thermite Reaction](https://sciencedemonstrations.fas.harvard.edu/presentations/microscale-thermite-reaction)
+* [2026-05-15, 19:48:48](https://news.ycombinator.com/item?id=48152994) - [California bill would require patches or refunds when online games shut down](https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/)
+* [2026-05-15, 19:32:34](https://news.ycombinator.com/item?id=48152825) - [Meta to receive $3.3B in tax breaks for its $10B Louisiana data center](https://fortune.com/2026/05/14/meta-data-center-tax-break-hyperion-louisiana/)
 * [2026-05-15, 19:27:15](https://news.ycombinator.com/item?id=48152777) - [Judge Bars Kars4Kids from Broadcasting 'Misleading' Ads in California](https://www.nytimes.com/2026/05/15/us/kars4kids-advertising-banned-california.html)
+* [2026-05-15, 19:23:29](https://news.ycombinator.com/item?id=48152729) - [WinCE64 – Windows CE 2.11 for N64](https://github.com/ThroatyMumbo/WinCE64)
 * [2026-05-15, 19:07:08](https://news.ycombinator.com/item?id=48152553) - [ABC News has taken all FiveThirtyEight articles offline](https://twitter.com/baseballot/status/2055309076209492208)
+* [2026-05-15, 18:43:59](https://news.ycombinator.com/item?id=48152273) - [Echoes (Live at Pompeii)](https://genius.com/Pink-floyd-echoes-live-at-pompeii-lyrics)
+* [2026-05-15, 18:37:01](https://news.ycombinator.com/item?id=48152168) - [The Zulip Foundation](https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/)
 * [2026-05-15, 18:00:43](https://news.ycombinator.com/item?id=48151767) - [Waymo recalls 3,800 robotaxis after they drive into flood waters](https://www.cnbc.com/2026/05/12/waymo-recalls-3800-robotaxis-after-able-drive-into-standing-water.html)
 * [2026-05-15, 18:00:03](https://news.ycombinator.com/item?id=48151761) - [Building a UMatrix Replacement](https://lock.cmpxchg8b.com/umatrix.html)
 * [2026-05-15, 17:28:24](https://news.ycombinator.com/item?id=48151383) - [U.S. DOJ demands Apple and Google unmask over 100k users of car-tinkering app](https://macdailynews.com/2026/05/15/u-s-doj-demands-apple-and-google-unmask-over-100000-users-of-popular-car-tinkering-app-in-emissions-crackdown/)
