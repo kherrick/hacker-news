@@ -1,12 +1,52 @@
 [
   [
     [
-      "2026-05-15, 07:18:23",
-      "https://news.ycombinator.com/item?id=48145524"
+      "2026-05-15, 09:47:28",
+      "https://news.ycombinator.com/item?id=48146577"
     ],
     [
-      "Ask HN: How to be SOC2 Type 2 compliant as a solo-entreprenuer?",
-      "https://news.ycombinator.com/item?id=48145524"
+      "Geography is four-dimensional",
+      "https://sive.rs/4d"
+    ]
+  ],
+  [
+    [
+      "2026-05-15, 09:27:26",
+      "https://news.ycombinator.com/item?id=48146424"
+    ],
+    [
+      "UK sovereign LLM inference",
+      "https://relax.ai/docs"
+    ]
+  ],
+  [
+    [
+      "2026-05-15, 09:19:24",
+      "https://news.ycombinator.com/item?id=48146369"
+    ],
+    [
+      "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
+      "https://github.com/Andyyyy64/whichllm"
+    ]
+  ],
+  [
+    [
+      "2026-05-15, 08:45:36",
+      "https://news.ycombinator.com/item?id=48146129"
+    ],
+    [
+      "Explore Wikipedia Like a Windows XP Desktop",
+      "https://explorer.samismith.com/"
+    ]
+  ],
+  [
+    [
+      "2026-05-15, 04:48:23",
+      "https://news.ycombinator.com/item?id=48144670"
+    ],
+    [
+      "Show HN: GlycemicGPT – Open-source AI-powered diabetes management",
+      "https://github.com/GlycemicGPT/GlycemicGPT"
     ]
   ],
   [
@@ -51,16 +91,6 @@
   ],
   [
     [
-      "2026-05-15, 02:51:41",
-      "https://news.ycombinator.com/item?id=48143997"
-    ],
-    [
-      "reCAPTCHA Mobile Verification Is Bringing the Play Integrity API to Desktops",
-      "https://discuss.grapheneos.org/d/35428-recaptcha-mobile-verification-is-bringing-the-play-integrity-api-to-desktops"
-    ]
-  ],
-  [
-    [
       "2026-05-15, 02:35:35",
       "https://news.ycombinator.com/item?id=48143880"
     ],
@@ -81,16 +111,6 @@
   ],
   [
     [
-      "2026-05-14, 23:37:21",
-      "https://news.ycombinator.com/item?id=48142650"
-    ],
-    [
-      "LLM Policy for Rust Compiler",
-      "https://github.com/rust-lang/rust-forge/pull/1040"
-    ]
-  ],
-  [
-    [
       "2026-05-14, 22:44:16",
       "https://news.ycombinator.com/item?id=48142251"
     ],
@@ -107,16 +127,6 @@
     [
       "More than sixty percent of the United States is experiencing drought conditions",
       "https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-14, 22:37:40",
-      "https://news.ycombinator.com/item?id=48142188"
-    ],
-    [
-      "Ontario auditors find doctors' AI note takers routinely blow basic facts",
-      "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "Claude for Legal",
       "https://github.com/anthropics/claude-for-legal"
-    ]
-  ],
-  [
-    [
-      "2026-05-14, 21:00:37",
-      "https://news.ycombinator.com/item?id=48141191"
-    ],
-    [
-      "Infracost (YC W21) Is Hiring Sr Dev Advocate to make agents cloud cost-aware",
-      "https://www.ycombinator.com/companies/infracost/jobs/NzwUQ7c-senior-developer-advocate"
     ]
   ],
   [
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2026-05-14, 16:24:28",
+      "https://news.ycombinator.com/item?id=48137629"
+    ],
+    [
+      "Building ML framework with Rust and Category Theory",
+      "https://hghalebi.github.io/category_theory_transformer_rs/"
+    ]
+  ],
+  [
+    [
       "2026-05-14, 16:19:29",
       "https://news.ycombinator.com/item?id=48137553"
     ],
@@ -267,16 +277,6 @@
     [
       "RTX 5090 and M4 MacBook Air: Can It Game?",
       "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/"
-    ]
-  ],
-  [
-    [
-      "2026-05-14, 08:15:31",
-      "https://news.ycombinator.com/item?id=48132488"
-    ],
-    [
-      "Rewrite Bun in Rust has been merged",
-      "https://github.com/oven-sh/bun/pull/30412"
     ]
   ],
   [
