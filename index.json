@@ -1,22 +1,82 @@
 [
   [
     [
-      "2026-05-15, 00:22:53",
-      "https://news.ycombinator.com/item?id=48142964"
+      "2026-05-15, 04:15:31",
+      "https://news.ycombinator.com/item?id=48144494"
     ],
     [
-      "Elevated error rates on Opus 4.7",
-      "https://status.claude.com/incidents/8z7l5zcy0v3b"
+      "How Claude Code works in large codebases",
+      "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start"
     ]
   ],
   [
     [
-      "2026-05-14, 23:24:45",
-      "https://news.ycombinator.com/item?id=48142553"
+      "2026-05-15, 03:56:14",
+      "https://news.ycombinator.com/item?id=48144380"
     ],
     [
-      "Have a Coherent AI Policy",
-      "https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/"
+      "Details of the Daring Airdrop at Tristan Da Cunha",
+      "https://www.tristandc.com/government/news-2026-05-11-airdrop.php"
+    ]
+  ],
+  [
+    [
+      "2026-05-15, 02:51:41",
+      "https://news.ycombinator.com/item?id=48143997"
+    ],
+    [
+      "reCAPTCHA Mobile Verification Is Bringing the Play Integrity API to Desktops",
+      "https://discuss.grapheneos.org/d/35428-recaptcha-mobile-verification-is-bringing-the-play-integrity-api-to-desktops"
+    ]
+  ],
+  [
+    [
+      "2026-05-15, 02:35:35",
+      "https://news.ycombinator.com/item?id=48143880"
+    ],
+    [
+      "Mullvad exit IPs are surprisingly identifying",
+      "https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/"
+    ]
+  ],
+  [
+    [
+      "2026-05-15, 01:08:04",
+      "https://news.ycombinator.com/item?id=48143284"
+    ],
+    [
+      "Access to frontier AI will soon be limited by economic and security constraints",
+      "https://writing.antonleicht.me/p/cut-off"
+    ]
+  ],
+  [
+    [
+      "2026-05-15, 01:04:13",
+      "https://news.ycombinator.com/item?id=48143256"
+    ],
+    [
+      "UFerris a Versatile Learner Board for Rust Embedded Beginners",
+      "https://www.theembeddedrustacean.com/uferris"
+    ]
+  ],
+  [
+    [
+      "2026-05-15, 01:02:05",
+      "https://news.ycombinator.com/item?id=48143235"
+    ],
+    [
+      "Velonus – Open-source AppSec scanner that deduplicates SAST noise",
+      "https://github.com/AliAmmar15/Velonus"
+    ]
+  ],
+  [
+    [
+      "2026-05-14, 23:37:21",
+      "https://news.ycombinator.com/item?id=48142650"
+    ],
+    [
+      "LLM Policy for Rust Compiler",
+      "https://github.com/rust-lang/rust-forge/pull/1040"
     ]
   ],
   [
@@ -101,16 +161,6 @@
   ],
   [
     [
-      "2026-05-14, 20:22:35",
-      "https://news.ycombinator.com/item?id=48140730"
-    ],
-    [
-      "Amazonbot is finally respecting robots.txt",
-      "https://xeiaso.net/notes/2026/amazonbot-respecting-robots-txt/"
-    ]
-  ],
-  [
-    [
       "2026-05-14, 20:06:53",
       "https://news.ycombinator.com/item?id=48140541"
     ],
@@ -147,16 +197,6 @@
     [
       "First public macOS kernel memory corruption exploit on Apple M5",
       "https://blog.calif.io/p/first-public-kernel-memory-corruption"
-    ]
-  ],
-  [
-    [
-      "2026-05-14, 18:01:17",
-      "https://news.ycombinator.com/item?id=48138913"
-    ],
-    [
-      "DIY open-source ultrasound hardware on the rp2040/rp2350",
-      "http://un0rick.cc/pic0rick"
     ]
   ],
   [
@@ -231,16 +271,6 @@
   ],
   [
     [
-      "2026-05-14, 12:57:27",
-      "https://news.ycombinator.com/item?id=48134743"
-    ],
-    [
-      "Computer Hobby Movement in Canada",
-      "https://museum.eecs.yorku.ca/exhibits/show/hobby_canada/hobby_canada"
-    ]
-  ],
-  [
-    [
       "2026-05-14, 08:15:31",
       "https://news.ycombinator.com/item?id=48132488"
     ],
@@ -251,32 +281,12 @@
   ],
   [
     [
-      "2026-05-12, 21:12:55",
-      "https://news.ycombinator.com/item?id=48114673"
+      "2026-05-12, 13:11:16",
+      "https://news.ycombinator.com/item?id=48107766"
     ],
     [
-      "Do teachers need advanced degrees?",
-      "https://www.cremieux.xyz/p/do-teachers-need-advanced-degrees"
-    ]
-  ],
-  [
-    [
-      "2026-05-12, 14:14:04",
-      "https://news.ycombinator.com/item?id=48108621"
-    ],
-    [
-      "Int a = 5; a = a++ + ++a; a =? (2011)",
-      "https://gynvael.coldwind.pl/?id=372"
-    ]
-  ],
-  [
-    [
-      "2026-05-12, 07:46:15",
-      "https://news.ycombinator.com/item?id=48105400"
-    ],
-    [
-      "CSS Rhythmic Sizing Module Level 1",
-      "https://www.w3.org/TR/css-rhythm-1/"
+      "Gyroflow: Video stabilization using gyroscope data",
+      "https://github.com/gyroflow/gyroflow"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Porting 3D Movie Maker to Linux",
       "https://benstoneonline.com/posts/porting-3d-movie-maker-to-linux/"
-    ]
-  ],
-  [
-    [
-      "2026-05-11, 14:30:02",
-      "https://news.ycombinator.com/item?id=48095490"
-    ],
-    [
-      "The Biochemical Beauty of Retatrutide: How GLP-1s Work",
-      "https://acesounderglass.com/2025/10/13/the-biochemical-beauty-of-retatrutide-how-glp-1s-actually-work/"
     ]
   ]
 ]
