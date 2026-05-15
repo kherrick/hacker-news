@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-05-15, 14:08:00",
-      "https://news.ycombinator.com/item?id=48148797"
+      "2026-05-15, 16:15:36",
+      "https://news.ycombinator.com/item?id=48150431"
     ],
     [
-      "Check Your Fucking Sources, People",
-      "https://brodzinski.com/2026/05/check-fcking-sources.html"
+      "Project Gutenberg – keeps getting better",
+      "https://www.gutenberg.org/"
+    ]
+  ],
+  [
+    [
+      "2026-05-15, 15:45:11",
+      "https://news.ycombinator.com/item?id=48150097"
+    ],
+    [
+      "I built Zenith: a live local-first fixed viewport planetarium",
+      "https://smorgasb.org/zenith-tech/"
+    ]
+  ],
+  [
+    [
+      "2026-05-15, 15:42:37",
+      "https://news.ycombinator.com/item?id=48150069"
+    ],
+    [
+      "Image-blaster: Creates 3D environments, SFX, and meshes from a single image",
+      "https://github.com/neilsonnn/image-blaster"
     ]
   ],
   [
@@ -35,7 +55,7 @@
       "https://news.ycombinator.com/item?id=48148391"
     ],
     [
-      "The Wonders of AI: We Are Retiring Our Bug Bounty Program",
+      "We are retiring our bug bounty program",
       "https://turso.tech/blog/the-wonders-of-ai"
     ]
   ],
@@ -45,7 +65,7 @@
       "https://news.ycombinator.com/item?id=48148337"
     ],
     [
-      "Amazon workers under pressure to up their AI usage–so they're making up tasks",
+      "Amazon workers under pressure to up their AI usage are making up tasks",
       "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks"
     ]
   ],
@@ -67,36 +87,6 @@
     [
       "Trade Dollars with other startups. Book it as revenue",
       "https://www.revswap.ai/"
-    ]
-  ],
-  [
-    [
-      "2026-05-15, 12:49:27",
-      "https://news.ycombinator.com/item?id=48147945"
-    ],
-    [
-      "Too dangerous or just too expensive? The real reason Anthropic is hiding Mythos",
-      "https://kingy.ai/ai/too-dangerous-to-release-or-just-too-expensive-the-real-reason-anthropic-is-hiding-its-most-powerful-ai/"
-    ]
-  ],
-  [
-    [
-      "2026-05-15, 12:29:47",
-      "https://news.ycombinator.com/item?id=48147793"
-    ],
-    [
-      "The old world of tech is dying and the new cannot be born",
-      "https://www.baldurbjarnason.com/2026/the-old-world-of-tech-is-dying/"
-    ]
-  ],
-  [
-    [
-      "2026-05-15, 12:15:16",
-      "https://news.ycombinator.com/item?id=48147665"
-    ],
-    [
-      "Power Tools Got Worse on Purpose. Who Owns DeWalt, Craftsman, and Milwaukee?",
-      "https://www.worseonpurpose.com/p/your-power-tools-got-worse-on-purpose"
     ]
   ],
   [
@@ -141,11 +131,21 @@
   ],
   [
     [
+      "2026-05-15, 10:51:13",
+      "https://news.ycombinator.com/item?id=48147021"
+    ],
+    [
+      "The sigmoids won't save you",
+      "https://www.astralcodexten.com/p/the-sigmoids-wont-save-you"
+    ]
+  ],
+  [
+    [
       "2026-05-15, 10:34:58",
       "https://news.ycombinator.com/item?id=48146908"
     ],
     [
-      "Steve Jobs Next Computer: His Forgotten Exile Years",
+      "A new book on Steve Jobs at NeXT",
       "https://spectrum.ieee.org/steve-jobs-next-computer"
     ]
   ],
@@ -161,22 +161,22 @@
   ],
   [
     [
-      "2026-05-15, 09:19:24",
-      "https://news.ycombinator.com/item?id=48146369"
-    ],
-    [
-      "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
-      "https://github.com/Andyyyy64/whichllm"
-    ]
-  ],
-  [
-    [
       "2026-05-15, 08:45:36",
       "https://news.ycombinator.com/item?id=48146129"
     ],
     [
       "Explore Wikipedia Like a Windows XP Desktop",
       "https://explorer.samismith.com/"
+    ]
+  ],
+  [
+    [
+      "2026-05-15, 07:18:23",
+      "https://news.ycombinator.com/item?id=48145524"
+    ],
+    [
+      "Ask HN: How to be SOC2 Type 2 compliant as a solo-entreprenuer?",
+      "https://news.ycombinator.com/item?id=48145524"
     ]
   ],
   [
@@ -197,16 +197,6 @@
     [
       "Mullvad exit IPs are surprisingly identifying",
       "https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/"
-    ]
-  ],
-  [
-    [
-      "2026-05-14, 22:44:16",
-      "https://news.ycombinator.com/item?id=48142251"
-    ],
-    [
-      "UK government replaces Palantir software with internally-built refugee system",
-      "https://www.bbc.com/news/articles/c2l2j1lxdk5o"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "RTX 5090 and M4 MacBook Air: Can It Game?",
       "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/"
+    ]
+  ],
+  [
+    [
+      "2026-05-14, 15:35:14",
+      "https://news.ycombinator.com/item?id=48136981"
+    ],
+    [
+      "Show HN: Watch a neural net learn to play Snake",
+      "https://ppo.gradexp.xyz/"
     ]
   ],
   [
