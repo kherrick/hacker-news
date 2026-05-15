@@ -4,10 +4,16 @@
 
 ### [Archives](../../index.md) for [2026-05-15](index.md)
 
+* [2026-05-15, 12:00:31](https://news.ycombinator.com/item?id=48147533) - [SigNoz (YC W21, open source Datadog) Is hiring for growth and engineering roles](https://signoz.io/careers)
+* [2026-05-15, 11:37:17](https://news.ycombinator.com/item?id=48147339) - [Welcome to the Strip Mining Era of OSS Security](https://www.metabase.com/blog/strip-mining-era-of-open-source-security)
+* [2026-05-15, 10:55:51](https://news.ycombinator.com/item?id=48147058) - [O(x)Caml in Space](https://gazagnaire.org/blog/2026-05-14-borealis.html)
+* [2026-05-15, 10:34:58](https://news.ycombinator.com/item?id=48146908) - [Steve Jobs Next Computer: His Forgotten Exile Years](https://spectrum.ieee.org/steve-jobs-next-computer)
+* [2026-05-15, 10:31:51](https://news.ycombinator.com/item?id=48146877) - [NanoTDB – Golang Append-Only Time Series DB](https://github.com/aymanhs/nanotdb)
 * [2026-05-15, 09:47:28](https://news.ycombinator.com/item?id=48146577) - [Geography is four-dimensional](https://sive.rs/4d)
 * [2026-05-15, 09:27:26](https://news.ycombinator.com/item?id=48146424) - [UK sovereign LLM inference](https://relax.ai/docs)
 * [2026-05-15, 09:19:24](https://news.ycombinator.com/item?id=48146369) - [Show HN: Find the best local LLM for your hardware, ranked by benchmarks](https://github.com/Andyyyy64/whichllm)
 * [2026-05-15, 08:45:36](https://news.ycombinator.com/item?id=48146129) - [Explore Wikipedia Like a Windows XP Desktop](https://explorer.samismith.com/)
+* [2026-05-15, 08:16:39](https://news.ycombinator.com/item?id=48145913) - [Where's Ed: Anthropic Told Court $5B but Public $19B](https://www.flyingpenguin.com/wheres-ed-anthropic-told-court-5-billion-but-public-19-billion/)
 * [2026-05-15, 07:18:23](https://news.ycombinator.com/item?id=48145524) - [Ask HN: How to be SOC2 Type 2 compliant as a solo-entreprenuer?](https://news.ycombinator.com/item?id=48145524)
 * [2026-05-15, 04:48:23](https://news.ycombinator.com/item?id=48144670) - [Show HN: GlycemicGPT – Open-source AI-powered diabetes management](https://github.com/GlycemicGPT/GlycemicGPT)
 * [2026-05-15, 04:15:31](https://news.ycombinator.com/item?id=48144494) - [How Claude Code works in large codebases](https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start)
