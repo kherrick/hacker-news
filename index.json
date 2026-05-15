@@ -1,6 +1,116 @@
 [
   [
     [
+      "2026-05-15, 14:08:00",
+      "https://news.ycombinator.com/item?id=48148797"
+    ],
+    [
+      "Check Your Fucking Sources, People",
+      "https://brodzinski.com/2026/05/check-fcking-sources.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-15, 14:02:36",
+      "https://news.ycombinator.com/item?id=48148726"
+    ],
+    [
+      "ASCII by Jason Scott",
+      "https://ascii.textfiles.com/"
+    ]
+  ],
+  [
+    [
+      "2026-05-15, 13:39:54",
+      "https://news.ycombinator.com/item?id=48148460"
+    ],
+    [
+      "A 0-click exploit chain for the Pixel 10",
+      "https://projectzero.google/2026/05/pixel-10-exploit.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-15, 13:33:15",
+      "https://news.ycombinator.com/item?id=48148391"
+    ],
+    [
+      "The Wonders of AI: We Are Retiring Our Bug Bounty Program",
+      "https://turso.tech/blog/the-wonders-of-ai"
+    ]
+  ],
+  [
+    [
+      "2026-05-15, 13:28:55",
+      "https://news.ycombinator.com/item?id=48148337"
+    ],
+    [
+      "Amazon workers under pressure to up their AI usage–so they're making up tasks",
+      "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks"
+    ]
+  ],
+  [
+    [
+      "2026-05-15, 13:25:53",
+      "https://news.ycombinator.com/item?id=48148309"
+    ],
+    [
+      "High dimensional geometry is transforming the MRI industry(2017) [pdf]",
+      "https://www.ams.org/government/DonohoPresentation06-28-17Final.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-05-15, 13:05:29",
+      "https://news.ycombinator.com/item?id=48148084"
+    ],
+    [
+      "Trade Dollars with other startups. Book it as revenue",
+      "https://www.revswap.ai/"
+    ]
+  ],
+  [
+    [
+      "2026-05-15, 12:49:27",
+      "https://news.ycombinator.com/item?id=48147945"
+    ],
+    [
+      "Too dangerous or just too expensive? The real reason Anthropic is hiding Mythos",
+      "https://kingy.ai/ai/too-dangerous-to-release-or-just-too-expensive-the-real-reason-anthropic-is-hiding-its-most-powerful-ai/"
+    ]
+  ],
+  [
+    [
+      "2026-05-15, 12:29:47",
+      "https://news.ycombinator.com/item?id=48147793"
+    ],
+    [
+      "The old world of tech is dying and the new cannot be born",
+      "https://www.baldurbjarnason.com/2026/the-old-world-of-tech-is-dying/"
+    ]
+  ],
+  [
+    [
+      "2026-05-15, 12:15:16",
+      "https://news.ycombinator.com/item?id=48147665"
+    ],
+    [
+      "Power Tools Got Worse on Purpose. Who Owns DeWalt, Craftsman, and Milwaukee?",
+      "https://www.worseonpurpose.com/p/your-power-tools-got-worse-on-purpose"
+    ]
+  ],
+  [
+    [
+      "2026-05-15, 12:07:55",
+      "https://news.ycombinator.com/item?id=48147603"
+    ],
+    [
+      "Radicle: Sovereign {code forge} built on Git",
+      "https://radicle.dev/"
+    ]
+  ],
+  [
+    [
       "2026-05-15, 12:00:31",
       "https://news.ycombinator.com/item?id=48147533"
     ],
@@ -51,16 +161,6 @@
   ],
   [
     [
-      "2026-05-15, 09:27:26",
-      "https://news.ycombinator.com/item?id=48146424"
-    ],
-    [
-      "UK sovereign LLM inference",
-      "https://relax.ai/docs"
-    ]
-  ],
-  [
-    [
       "2026-05-15, 09:19:24",
       "https://news.ycombinator.com/item?id=48146369"
     ],
@@ -81,36 +181,6 @@
   ],
   [
     [
-      "2026-05-15, 08:16:39",
-      "https://news.ycombinator.com/item?id=48145913"
-    ],
-    [
-      "Where's Ed: Anthropic Told Court $5B but Public $19B",
-      "https://www.flyingpenguin.com/wheres-ed-anthropic-told-court-5-billion-but-public-19-billion/"
-    ]
-  ],
-  [
-    [
-      "2026-05-15, 04:48:23",
-      "https://news.ycombinator.com/item?id=48144670"
-    ],
-    [
-      "Show HN: GlycemicGPT – Open-source AI-powered diabetes management",
-      "https://github.com/GlycemicGPT/GlycemicGPT"
-    ]
-  ],
-  [
-    [
-      "2026-05-15, 04:15:24",
-      "https://news.ycombinator.com/item?id=48144490"
-    ],
-    [
-      "Solar-based sleep patterns compared to modern norms",
-      "https://dylan.gr/1775146616"
-    ]
-  ],
-  [
-    [
       "2026-05-15, 03:56:14",
       "https://news.ycombinator.com/item?id=48144380"
     ],
@@ -127,16 +197,6 @@
     [
       "Mullvad exit IPs are surprisingly identifying",
       "https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/"
-    ]
-  ],
-  [
-    [
-      "2026-05-15, 01:08:04",
-      "https://news.ycombinator.com/item?id=48143284"
-    ],
-    [
-      "Access to frontier AI will soon be limited by economic and security constraints",
-      "https://writing.antonleicht.me/p/cut-off"
     ]
   ],
   [
@@ -171,36 +231,6 @@
   ],
   [
     [
-      "2026-05-14, 20:41:48",
-      "https://news.ycombinator.com/item?id=48140953"
-    ],
-    [
-      "Tesla Wall Connector bootloader bypasses the firmware downgrade ratchet",
-      "https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing"
-    ]
-  ],
-  [
-    [
-      "2026-05-14, 20:39:12",
-      "https://news.ycombinator.com/item?id=48140922"
-    ],
-    [
-      "New arXiv policy: 1-year ban for hallucinated references",
-      "https://twitter.com/tdietterich/status/2055000956144935055"
-    ]
-  ],
-  [
-    [
-      "2026-05-14, 20:06:53",
-      "https://news.ycombinator.com/item?id=48140541"
-    ],
-    [
-      "RISC-V Router",
-      "https://router.start9.com/"
-    ]
-  ],
-  [
-    [
       "2026-05-14, 20:06:14",
       "https://news.ycombinator.com/item?id=48140529"
     ],
@@ -217,16 +247,6 @@
     [
       "First public macOS kernel memory corruption exploit on Apple M5",
       "https://blog.calif.io/p/first-public-kernel-memory-corruption"
-    ]
-  ],
-  [
-    [
-      "2026-05-14, 17:21:49",
-      "https://news.ycombinator.com/item?id=48138332"
-    ],
-    [
-      "What's in a GGUF, besides the weights – and what's still missing?",
-      "https://nobodywho.ooo/posts/whats-in-a-gguf/"
     ]
   ],
   [
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2026-05-14, 16:19:29",
-      "https://news.ycombinator.com/item?id=48137553"
-    ],
-    [
-      "HDD Firmware Hacking",
-      "https://icode4.coffee/?p=1465"
-    ]
-  ],
-  [
-    [
       "2026-05-14, 15:47:31",
       "https://news.ycombinator.com/item?id=48137145"
     ],
@@ -287,16 +297,6 @@
     [
       "Gyroflow: Video stabilization using gyroscope data",
       "https://github.com/gyroflow/gyroflow"
-    ]
-  ],
-  [
-    [
-      "2026-05-11, 17:17:20",
-      "https://news.ycombinator.com/item?id=48097786"
-    ],
-    [
-      "Porting 3D Movie Maker to Linux",
-      "https://benstoneonline.com/posts/porting-3d-movie-maker-to-linux/"
     ]
   ]
 ]
