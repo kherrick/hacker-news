@@ -9,7 +9,6 @@
 * [2026-05-15, 19:27:15](https://news.ycombinator.com/item?id=48152777) - [Judge Bars Kars4Kids from Broadcasting 'Misleading' Ads in California](https://www.nytimes.com/2026/05/15/us/kars4kids-advertising-banned-california.html)
 * [2026-05-15, 19:23:29](https://news.ycombinator.com/item?id=48152729) - [WinCE64 – Windows CE 2.11 for N64](https://github.com/ThroatyMumbo/WinCE64)
 * [2026-05-15, 19:07:08](https://news.ycombinator.com/item?id=48152553) - [ABC News has taken all FiveThirtyEight articles offline](https://twitter.com/baseballot/status/2055309076209492208)
-* [2026-05-15, 18:43:59](https://news.ycombinator.com/item?id=48152273) - [Echoes (Live at Pompeii)](https://genius.com/Pink-floyd-echoes-live-at-pompeii-lyrics)
 * [2026-05-15, 18:37:01](https://news.ycombinator.com/item?id=48152168) - [The Zulip Foundation](https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/)
 * [2026-05-15, 18:00:43](https://news.ycombinator.com/item?id=48151767) - [Waymo updates 3,800 robotaxis after they 'drive into standing water'](https://www.cnbc.com/2026/05/12/waymo-recalls-3800-robotaxis-after-able-drive-into-standing-water.html)
 * [2026-05-15, 18:00:03](https://news.ycombinator.com/item?id=48151761) - [Building a UMatrix Replacement](https://lock.cmpxchg8b.com/umatrix.html)
@@ -29,6 +28,7 @@
 * [2026-05-15, 10:34:58](https://news.ycombinator.com/item?id=48146908) - [A new book on Steve Jobs at NeXT](https://spectrum.ieee.org/steve-jobs-next-computer)
 * [2026-05-15, 08:45:36](https://news.ycombinator.com/item?id=48146129) - [Explore Wikipedia Like a Windows XP Desktop](https://explorer.samismith.com/)
 * [2026-05-14, 15:35:14](https://news.ycombinator.com/item?id=48136981) - [Show HN: Watch a neural net learn to play Snake](https://ppo.gradexp.xyz/)
+* [2026-05-13, 19:17:10](https://news.ycombinator.com/item?id=48126187) - [The day the Pintupi Nine entered the modern world](https://www.bbc.com/news/magazine-30500591)
 * [2026-05-13, 14:13:12](https://news.ycombinator.com/item?id=48122172) - [The nuclear-physics infrastructure behind PET scans](https://www.lanl.gov/media/publications/1663/proton-power-for-public-health)
 
 ## [Archives](archives/index.md)
