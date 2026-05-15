@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-15](index.md)
 
+* [2026-05-15, 22:23:38](https://news.ycombinator.com/item?id=48154711) - [How to Write to SSDs [pdf]](https://www.vldb.org/pvldb/vol19/p1469-lee.pdf)
 * [2026-05-15, 20:28:44](https://news.ycombinator.com/item?id=48153400) - [London Police Deploy Facial Recognition at Protest for First Time](https://reclaimthenet.org/london-police-deploy-facial-recognition-at-protest-for-first-time)
 * [2026-05-15, 20:26:47](https://news.ycombinator.com/item?id=48153379) - [Mitchellh – I strongly believe there are entire companies now under AI psychosis](https://twitter.com/mitchellh/status/2055380239711457578)
 * [2026-05-15, 20:06:51](https://news.ycombinator.com/item?id=48153183) - [Palantir has hired more than 30 senior UK Government officials](https://www.thenational.scot/news/26055524.palantir-hired-30-senior-uk-government-officials/)
