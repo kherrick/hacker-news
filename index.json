@@ -1,6 +1,96 @@
 [
   [
     [
+      "2026-05-15, 17:28:24",
+      "https://news.ycombinator.com/item?id=48151383"
+    ],
+    [
+      "U.S. DOJ demands Apple and Google unmask over 100k users of car-tinkering app",
+      "https://macdailynews.com/2026/05/15/u-s-doj-demands-apple-and-google-unmask-over-100000-users-of-popular-car-tinkering-app-in-emissions-crackdown/"
+    ]
+  ],
+  [
+    [
+      "2026-05-15, 17:22:53",
+      "https://news.ycombinator.com/item?id=48151317"
+    ],
+    [
+      "Feedr v0.8.0 – a TUI RSS reader, now read the full article from your terminal",
+      "https://github.com/bahdotsh/feedr"
+    ]
+  ],
+  [
+    [
+      "2026-05-15, 17:15:58",
+      "https://news.ycombinator.com/item?id=48151237"
+    ],
+    [
+      "I designed a nibble-oriented CPU in Verilog to build a scientific calculator",
+      "https://github.com/gdevic/FPGA-Calculator"
+    ]
+  ],
+  [
+    [
+      "2026-05-15, 17:12:48",
+      "https://news.ycombinator.com/item?id=48151199"
+    ],
+    [
+      "Aperio Lang",
+      "https://aperio-lang.github.io/aperio/introduction.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-15, 17:03:22",
+      "https://news.ycombinator.com/item?id=48151058"
+    ],
+    [
+      "Show HN: Sx – an open-source package manager for AI skills, MCPs, and commands",
+      "https://github.com/sleuth-io/sx"
+    ]
+  ],
+  [
+    [
+      "2026-05-15, 17:01:15",
+      "https://news.ycombinator.com/item?id=48151034"
+    ],
+    [
+      "Hightouch (YC S19) Is Hiring",
+      "https://hightouch.com/careers"
+    ]
+  ],
+  [
+    [
+      "2026-05-15, 16:57:05",
+      "https://news.ycombinator.com/item?id=48150971"
+    ],
+    [
+      "We don't know why Malawi is poor",
+      "https://newsletter.deenamousa.com/p/we-dont-know-why-malawi-is-poor"
+    ]
+  ],
+  [
+    [
+      "2026-05-15, 16:51:25",
+      "https://news.ycombinator.com/item?id=48150900"
+    ],
+    [
+      "Bun Rust rewrite: \"codebase fails basic miri checks, allows for UB in safe rust\"",
+      "https://github.com/oven-sh/bun/issues/30719"
+    ]
+  ],
+  [
+    [
+      "2026-05-15, 16:38:50",
+      "https://news.ycombinator.com/item?id=48150723"
+    ],
+    [
+      "OpenAI is connecting ChatGPT to bank accounts via Plaid",
+      "https://firethering.com/chatgpt-bank-account-plaid-openai/"
+    ]
+  ],
+  [
+    [
       "2026-05-15, 16:15:36",
       "https://news.ycombinator.com/item?id=48150431"
     ],
@@ -51,16 +141,6 @@
   ],
   [
     [
-      "2026-05-15, 13:33:15",
-      "https://news.ycombinator.com/item?id=48148391"
-    ],
-    [
-      "We are retiring our bug bounty program",
-      "https://turso.tech/blog/the-wonders-of-ai"
-    ]
-  ],
-  [
-    [
       "2026-05-15, 13:28:55",
       "https://news.ycombinator.com/item?id=48148337"
     ],
@@ -75,7 +155,7 @@
       "https://news.ycombinator.com/item?id=48148309"
     ],
     [
-      "High dimensional geometry is transforming the MRI industry(2017) [pdf]",
+      "High dimensional geometry is transforming the MRI industry (2017) [pdf]",
       "https://www.ams.org/government/DonohoPresentation06-28-17Final.pdf"
     ]
   ],
@@ -101,42 +181,12 @@
   ],
   [
     [
-      "2026-05-15, 12:00:31",
-      "https://news.ycombinator.com/item?id=48147533"
-    ],
-    [
-      "SigNoz (YC W21, open source Datadog) Is hiring for growth and engineering roles",
-      "https://signoz.io/careers"
-    ]
-  ],
-  [
-    [
-      "2026-05-15, 11:37:17",
-      "https://news.ycombinator.com/item?id=48147339"
-    ],
-    [
-      "Welcome to the Strip Mining Era of OSS Security",
-      "https://www.metabase.com/blog/strip-mining-era-of-open-source-security"
-    ]
-  ],
-  [
-    [
       "2026-05-15, 10:55:51",
       "https://news.ycombinator.com/item?id=48147058"
     ],
     [
       "O(x)Caml in Space",
       "https://gazagnaire.org/blog/2026-05-14-borealis.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-15, 10:51:13",
-      "https://news.ycombinator.com/item?id=48147021"
-    ],
-    [
-      "The sigmoids won't save you",
-      "https://www.astralcodexten.com/p/the-sigmoids-wont-save-you"
     ]
   ],
   [
@@ -191,16 +241,6 @@
   ],
   [
     [
-      "2026-05-15, 02:35:35",
-      "https://news.ycombinator.com/item?id=48143880"
-    ],
-    [
-      "Mullvad exit IPs are surprisingly identifying",
-      "https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/"
-    ]
-  ],
-  [
-    [
       "2026-05-14, 22:29:12",
       "https://news.ycombinator.com/item?id=48142108"
     ],
@@ -211,42 +251,12 @@
   ],
   [
     [
-      "2026-05-14, 21:05:05",
-      "https://news.ycombinator.com/item?id=48141234"
-    ],
-    [
-      "Claude for Legal",
-      "https://github.com/anthropics/claude-for-legal"
-    ]
-  ],
-  [
-    [
-      "2026-05-14, 20:06:14",
-      "https://news.ycombinator.com/item?id=48140529"
-    ],
-    [
-      "Codex is now in the ChatGPT mobile app",
-      "https://openai.com/index/work-with-codex-from-anywhere/"
-    ]
-  ],
-  [
-    [
       "2026-05-14, 18:25:09",
       "https://news.ycombinator.com/item?id=48139219"
     ],
     [
       "First public macOS kernel memory corruption exploit on Apple M5",
       "https://blog.calif.io/p/first-public-kernel-memory-corruption"
-    ]
-  ],
-  [
-    [
-      "2026-05-14, 17:17:48",
-      "https://news.ycombinator.com/item?id=48138268"
-    ],
-    [
-      "New Nginx Exploit",
-      "https://github.com/DepthFirstDisclosures/Nginx-Rift"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Show HN: Watch a neural net learn to play Snake",
       "https://ppo.gradexp.xyz/"
-    ]
-  ],
-  [
-    [
-      "2026-05-12, 13:11:16",
-      "https://news.ycombinator.com/item?id=48107766"
-    ],
-    [
-      "Gyroflow: Video stabilization using gyroscope data",
-      "https://github.com/gyroflow/gyroflow"
     ]
   ]
 ]
