@@ -44,6 +44,7 @@
 * [2026-05-14, 16:19:29](https://news.ycombinator.com/item?id=48137553) - [HDD Firmware Hacking](https://icode4.coffee/?p=1465)
 * [2026-05-14, 15:47:31](https://news.ycombinator.com/item?id=48137145) - [RTX 5090 and M4 MacBook Air: Can It Game?](https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/)
 * [2026-05-14, 15:36:24](https://news.ycombinator.com/item?id=48136992) - [On The Conflation of Money and Things](https://lithub.com/is-it-even-real-on-the-conflation-of-money-and-things/)
+* [2026-05-14, 15:35:14](https://news.ycombinator.com/item?id=48136981) - [Show HN: Watch a neural net learn to play Snake](https://ppo.gradexp.xyz/)
 * [2026-05-14, 15:32:44](https://news.ycombinator.com/item?id=48136943) - [New agents.txt file found on DreamHost](https://journal.kvibber.com/2026/05/agents-txt-on-dreamhost/)
 * [2026-05-14, 15:15:05](https://news.ycombinator.com/item?id=48136662) - [Anthropic forms $200M partnership with the Gates Foundation](https://www.anthropic.com/news/gates-foundation-partnership)
 * [2026-05-14, 14:51:14](https://news.ycombinator.com/item?id=48136262) - [MIT: 20% drop in incoming graduate students](https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline)

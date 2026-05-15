@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-05-15](index.md)
 
+* [2026-05-15, 16:15:36](https://news.ycombinator.com/item?id=48150431) - [Project Gutenberg – keeps getting better](https://www.gutenberg.org/)
+* [2026-05-15, 15:45:11](https://news.ycombinator.com/item?id=48150097) - [I built Zenith: a live local-first fixed viewport planetarium](https://smorgasb.org/zenith-tech/)
+* [2026-05-15, 15:42:37](https://news.ycombinator.com/item?id=48150069) - [Image-blaster: Creates 3D environments, SFX, and meshes from a single image](https://github.com/neilsonnn/image-blaster)
 * [2026-05-15, 14:08:00](https://news.ycombinator.com/item?id=48148797) - [Check Your Fucking Sources, People](https://brodzinski.com/2026/05/check-fcking-sources.html)
 * [2026-05-15, 14:02:36](https://news.ycombinator.com/item?id=48148726) - [ASCII by Jason Scott](https://ascii.textfiles.com/)
 * [2026-05-15, 13:39:54](https://news.ycombinator.com/item?id=48148460) - [A 0-click exploit chain for the Pixel 10](https://projectzero.google/2026/05/pixel-10-exploit.html)
@@ -18,6 +21,7 @@
 * [2026-05-15, 12:00:31](https://news.ycombinator.com/item?id=48147533) - [SigNoz (YC W21, open source Datadog) Is hiring for growth and engineering roles](https://signoz.io/careers)
 * [2026-05-15, 11:37:17](https://news.ycombinator.com/item?id=48147339) - [Welcome to the Strip Mining Era of OSS Security](https://www.metabase.com/blog/strip-mining-era-of-open-source-security)
 * [2026-05-15, 10:55:51](https://news.ycombinator.com/item?id=48147058) - [O(x)Caml in Space](https://gazagnaire.org/blog/2026-05-14-borealis.html)
+* [2026-05-15, 10:51:13](https://news.ycombinator.com/item?id=48147021) - [The sigmoids won't save you](https://www.astralcodexten.com/p/the-sigmoids-wont-save-you)
 * [2026-05-15, 10:34:58](https://news.ycombinator.com/item?id=48146908) - [Steve Jobs Next Computer: His Forgotten Exile Years](https://spectrum.ieee.org/steve-jobs-next-computer)
 * [2026-05-15, 10:31:51](https://news.ycombinator.com/item?id=48146877) - [NanoTDB – Golang Append-Only Time Series DB](https://github.com/aymanhs/nanotdb)
 * [2026-05-15, 09:47:28](https://news.ycombinator.com/item?id=48146577) - [Geography is four-dimensional](https://sive.rs/4d)
