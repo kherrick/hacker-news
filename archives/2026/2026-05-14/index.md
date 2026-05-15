@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-05-14](index.md)
 
+* [2026-05-14, 23:24:45](https://news.ycombinator.com/item?id=48142553) - [Have a Coherent AI Policy](https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/)
 * [2026-05-14, 22:44:16](https://news.ycombinator.com/item?id=48142251) - ['Millions' of pounds saved by replacing Palantir tech in refugee system](https://www.bbc.com/news/articles/c2l2j1lxdk5o)
 * [2026-05-14, 22:38:18](https://news.ycombinator.com/item?id=48142193) - [More than half of U.S. faces worst drought in decades](https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html)
 * [2026-05-14, 22:37:40](https://news.ycombinator.com/item?id=48142188) - [Ontario auditors find doctors' AI note takers routinely blow basic facts](https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771)
 * [2026-05-14, 22:29:12](https://news.ycombinator.com/item?id=48142108) - [A few words on DS4](https://antirez.com/news/165)
+* [2026-05-14, 22:05:30](https://news.ycombinator.com/item?id=48141902) - [Show HN: GridTravel- A community based travel app for users to share routes](https://www.gridtravel.app)
 * [2026-05-14, 21:50:17](https://news.ycombinator.com/item?id=48141732) - [OVMS: Open source electric vehicle remote monitoring, diagnosis and control](https://www.openvehicles.com/home)
 * [2026-05-14, 21:05:05](https://news.ycombinator.com/item?id=48141234) - [Claude for Legal](https://github.com/anthropics/claude-for-legal)
 * [2026-05-14, 21:02:01](https://news.ycombinator.com/item?id=48141206) - [Show HN: I built a Web-Scraper API that is 6-7x more efficient than current ones](https://scrapewithruno.com/)
@@ -45,6 +47,7 @@
 * [2026-05-14, 14:51:14](https://news.ycombinator.com/item?id=48136262) - [MIT: 20% drop in incoming graduate students](https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline)
 * [2026-05-14, 14:49:48](https://news.ycombinator.com/item?id=48136240) - [Claude AI recovers an 11 yrs old BTC wallet holding 400k USD](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup)
 * [2026-05-14, 14:17:12](https://news.ycombinator.com/item?id=48135782) - [Meta's New Reality: Record High Profits. Record Low Morale](https://www.wired.com/story/meta-layoffs-bad-vibes-mark-zuckerberg-ai/)
+* [2026-05-14, 14:15:50](https://news.ycombinator.com/item?id=48135764) - [Show HN: Race to the Bottom](https://race-to-the-bottom.onrender.com)
 * [2026-05-14, 13:17:57](https://news.ycombinator.com/item?id=48134993) - [USDA Projects Smallest US Wheat Harvest Since 1972 Due to Plains Drought](https://www.agweb.com/news/usda-projects-smallest-us-wheat-harvest-1972-due-plains-drought)
 * [2026-05-14, 13:10:32](https://news.ycombinator.com/item?id=48134905) - [Beware of Drunk Deer, French Police Say, Announcing Season of Inebriation](https://www.nytimes.com/2026/05/13/world/europe/france-drunk-deer.html)
 * [2026-05-14, 12:57:27](https://news.ycombinator.com/item?id=48134743) - [Computer Hobby Movement in Canada](https://museum.eecs.yorku.ca/exhibits/show/hobby_canada/hobby_canada)
