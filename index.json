@@ -1,12 +1,52 @@
 [
   [
     [
-      "2026-05-15, 09:47:28",
-      "https://news.ycombinator.com/item?id=48146577"
+      "2026-05-15, 12:00:31",
+      "https://news.ycombinator.com/item?id=48147533"
     ],
     [
-      "Geography is four-dimensional",
-      "https://sive.rs/4d"
+      "SigNoz (YC W21, open source Datadog) Is hiring for growth and engineering roles",
+      "https://signoz.io/careers"
+    ]
+  ],
+  [
+    [
+      "2026-05-15, 11:37:17",
+      "https://news.ycombinator.com/item?id=48147339"
+    ],
+    [
+      "Welcome to the Strip Mining Era of OSS Security",
+      "https://www.metabase.com/blog/strip-mining-era-of-open-source-security"
+    ]
+  ],
+  [
+    [
+      "2026-05-15, 10:55:51",
+      "https://news.ycombinator.com/item?id=48147058"
+    ],
+    [
+      "O(x)Caml in Space",
+      "https://gazagnaire.org/blog/2026-05-14-borealis.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-15, 10:34:58",
+      "https://news.ycombinator.com/item?id=48146908"
+    ],
+    [
+      "Steve Jobs Next Computer: His Forgotten Exile Years",
+      "https://spectrum.ieee.org/steve-jobs-next-computer"
+    ]
+  ],
+  [
+    [
+      "2026-05-15, 10:31:51",
+      "https://news.ycombinator.com/item?id=48146877"
+    ],
+    [
+      "NanoTDB – Golang Append-Only Time Series DB",
+      "https://github.com/aymanhs/nanotdb"
     ]
   ],
   [
@@ -41,6 +81,16 @@
   ],
   [
     [
+      "2026-05-15, 08:16:39",
+      "https://news.ycombinator.com/item?id=48145913"
+    ],
+    [
+      "Where's Ed: Anthropic Told Court $5B but Public $19B",
+      "https://www.flyingpenguin.com/wheres-ed-anthropic-told-court-5-billion-but-public-19-billion/"
+    ]
+  ],
+  [
+    [
       "2026-05-15, 04:48:23",
       "https://news.ycombinator.com/item?id=48144670"
     ],
@@ -51,32 +101,12 @@
   ],
   [
     [
-      "2026-05-15, 04:15:31",
-      "https://news.ycombinator.com/item?id=48144494"
-    ],
-    [
-      "How Claude Code works in large codebases",
-      "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start"
-    ]
-  ],
-  [
-    [
       "2026-05-15, 04:15:24",
       "https://news.ycombinator.com/item?id=48144490"
     ],
     [
       "Solar-based sleep patterns compared to modern norms",
       "https://dylan.gr/1775146616"
-    ]
-  ],
-  [
-    [
-      "2026-05-15, 04:02:09",
-      "https://news.ycombinator.com/item?id=48144410"
-    ],
-    [
-      "Coldkey – Post-quantum age key generation and paper backup tool",
-      "https://github.com/pike00/coldkey"
     ]
   ],
   [
@@ -121,32 +151,12 @@
   ],
   [
     [
-      "2026-05-14, 22:38:18",
-      "https://news.ycombinator.com/item?id=48142193"
-    ],
-    [
-      "More than sixty percent of the United States is experiencing drought conditions",
-      "https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html"
-    ]
-  ],
-  [
-    [
       "2026-05-14, 22:29:12",
       "https://news.ycombinator.com/item?id=48142108"
     ],
     [
       "A few words on DS4",
       "https://antirez.com/news/165"
-    ]
-  ],
-  [
-    [
-      "2026-05-14, 21:50:17",
-      "https://news.ycombinator.com/item?id=48141732"
-    ],
-    [
-      "OVMS: Open source electric vehicle remote monitoring, diagnosis and control",
-      "https://www.openvehicles.com/home"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Codex is now in the ChatGPT mobile app",
       "https://openai.com/index/work-with-codex-from-anywhere/"
-    ]
-  ],
-  [
-    [
-      "2026-05-14, 19:01:58",
-      "https://news.ycombinator.com/item?id=48139704"
-    ],
-    [
-      "WinUI 3 Performance: A Leap Forward",
-      "https://github.com/microsoft/microsoft-ui-xaml/discussions/11096"
     ]
   ],
   [
