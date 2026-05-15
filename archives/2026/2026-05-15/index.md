@@ -4,6 +4,17 @@
 
 ### [Archives](../../index.md) for [2026-05-15](index.md)
 
+* [2026-05-15, 14:08:00](https://news.ycombinator.com/item?id=48148797) - [Check Your Fucking Sources, People](https://brodzinski.com/2026/05/check-fcking-sources.html)
+* [2026-05-15, 14:02:36](https://news.ycombinator.com/item?id=48148726) - [ASCII by Jason Scott](https://ascii.textfiles.com/)
+* [2026-05-15, 13:39:54](https://news.ycombinator.com/item?id=48148460) - [A 0-click exploit chain for the Pixel 10](https://projectzero.google/2026/05/pixel-10-exploit.html)
+* [2026-05-15, 13:33:15](https://news.ycombinator.com/item?id=48148391) - [The Wonders of AI: We Are Retiring Our Bug Bounty Program](https://turso.tech/blog/the-wonders-of-ai)
+* [2026-05-15, 13:28:55](https://news.ycombinator.com/item?id=48148337) - [Amazon workers under pressure to up their AI usage–so they're making up tasks](https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks)
+* [2026-05-15, 13:25:53](https://news.ycombinator.com/item?id=48148309) - [High dimensional geometry is transforming the MRI industry(2017) [pdf]](https://www.ams.org/government/DonohoPresentation06-28-17Final.pdf)
+* [2026-05-15, 13:05:29](https://news.ycombinator.com/item?id=48148084) - [Trade Dollars with other startups. Book it as revenue](https://www.revswap.ai/)
+* [2026-05-15, 12:49:27](https://news.ycombinator.com/item?id=48147945) - [Too dangerous or just too expensive? The real reason Anthropic is hiding Mythos](https://kingy.ai/ai/too-dangerous-to-release-or-just-too-expensive-the-real-reason-anthropic-is-hiding-its-most-powerful-ai/)
+* [2026-05-15, 12:29:47](https://news.ycombinator.com/item?id=48147793) - [The old world of tech is dying and the new cannot be born](https://www.baldurbjarnason.com/2026/the-old-world-of-tech-is-dying/)
+* [2026-05-15, 12:15:16](https://news.ycombinator.com/item?id=48147665) - [Power Tools Got Worse on Purpose. Who Owns DeWalt, Craftsman, and Milwaukee?](https://www.worseonpurpose.com/p/your-power-tools-got-worse-on-purpose)
+* [2026-05-15, 12:07:55](https://news.ycombinator.com/item?id=48147603) - [Radicle: Sovereign {code forge} built on Git](https://radicle.dev/)
 * [2026-05-15, 12:00:31](https://news.ycombinator.com/item?id=48147533) - [SigNoz (YC W21, open source Datadog) Is hiring for growth and engineering roles](https://signoz.io/careers)
 * [2026-05-15, 11:37:17](https://news.ycombinator.com/item?id=48147339) - [Welcome to the Strip Mining Era of OSS Security](https://www.metabase.com/blog/strip-mining-era-of-open-source-security)
 * [2026-05-15, 10:55:51](https://news.ycombinator.com/item?id=48147058) - [O(x)Caml in Space](https://gazagnaire.org/blog/2026-05-14-borealis.html)
