@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-05-15, 19:27:15",
+      "https://news.ycombinator.com/item?id=48152777"
+    ],
+    [
+      "Judge Bars Kars4Kids from Broadcasting 'Misleading' Ads in California",
+      "https://www.nytimes.com/2026/05/15/us/kars4kids-advertising-banned-california.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-15, 19:07:08",
+      "https://news.ycombinator.com/item?id=48152553"
+    ],
+    [
+      "ABC News has taken all FiveThirtyEight articles offline",
+      "https://twitter.com/baseballot/status/2055309076209492208"
+    ]
+  ],
+  [
+    [
+      "2026-05-15, 18:00:43",
+      "https://news.ycombinator.com/item?id=48151767"
+    ],
+    [
+      "Waymo recalls 3,800 robotaxis after they drive into flood waters",
+      "https://www.cnbc.com/2026/05/12/waymo-recalls-3800-robotaxis-after-able-drive-into-standing-water.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-15, 18:00:03",
+      "https://news.ycombinator.com/item?id=48151761"
+    ],
+    [
+      "Building a UMatrix Replacement",
+      "https://lock.cmpxchg8b.com/umatrix.html"
+    ]
+  ],
+  [
+    [
       "2026-05-15, 17:28:24",
       "https://news.ycombinator.com/item?id=48151383"
     ],
@@ -31,16 +71,6 @@
   ],
   [
     [
-      "2026-05-15, 17:12:48",
-      "https://news.ycombinator.com/item?id=48151199"
-    ],
-    [
-      "Aperio Lang",
-      "https://aperio-lang.github.io/aperio/introduction.html"
-    ]
-  ],
-  [
-    [
       "2026-05-15, 17:03:22",
       "https://news.ycombinator.com/item?id=48151058"
     ],
@@ -61,32 +91,12 @@
   ],
   [
     [
-      "2026-05-15, 16:57:05",
-      "https://news.ycombinator.com/item?id=48150971"
-    ],
-    [
-      "We don't know why Malawi is poor",
-      "https://newsletter.deenamousa.com/p/we-dont-know-why-malawi-is-poor"
-    ]
-  ],
-  [
-    [
       "2026-05-15, 16:51:25",
       "https://news.ycombinator.com/item?id=48150900"
     ],
     [
       "Bun Rust rewrite: \"codebase fails basic miri checks, allows for UB in safe rust\"",
       "https://github.com/oven-sh/bun/issues/30719"
-    ]
-  ],
-  [
-    [
-      "2026-05-15, 16:38:50",
-      "https://news.ycombinator.com/item?id=48150723"
-    ],
-    [
-      "OpenAI is connecting ChatGPT to bank accounts via Plaid",
-      "https://firethering.com/chatgpt-bank-account-plaid-openai/"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "High dimensional geometry is transforming the MRI industry (2017) [pdf]",
       "https://www.ams.org/government/DonohoPresentation06-28-17Final.pdf"
-    ]
-  ],
-  [
-    [
-      "2026-05-15, 13:05:29",
-      "https://news.ycombinator.com/item?id=48148084"
-    ],
-    [
-      "Trade Dollars with other startups. Book it as revenue",
-      "https://www.revswap.ai/"
     ]
   ],
   [
@@ -251,22 +251,22 @@
   ],
   [
     [
+      "2026-05-14, 20:06:14",
+      "https://news.ycombinator.com/item?id=48140529"
+    ],
+    [
+      "Codex is now in the ChatGPT mobile app",
+      "https://openai.com/index/work-with-codex-from-anywhere/"
+    ]
+  ],
+  [
+    [
       "2026-05-14, 18:25:09",
       "https://news.ycombinator.com/item?id=48139219"
     ],
     [
       "First public macOS kernel memory corruption exploit on Apple M5",
       "https://blog.calif.io/p/first-public-kernel-memory-corruption"
-    ]
-  ],
-  [
-    [
-      "2026-05-14, 17:08:00",
-      "https://news.ycombinator.com/item?id=48138136"
-    ],
-    [
-      "Removing the modem and GPS from my 2024 RAV4 hybrid",
-      "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2026-05-14, 15:47:31",
-      "https://news.ycombinator.com/item?id=48137145"
-    ],
-    [
-      "RTX 5090 and M4 MacBook Air: Can It Game?",
-      "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/"
-    ]
-  ],
-  [
-    [
       "2026-05-14, 15:35:14",
       "https://news.ycombinator.com/item?id=48136981"
     ],
     [
       "Show HN: Watch a neural net learn to play Snake",
       "https://ppo.gradexp.xyz/"
+    ]
+  ],
+  [
+    [
+      "2026-05-13, 14:13:12",
+      "https://news.ycombinator.com/item?id=48122172"
+    ],
+    [
+      "The nuclear-physics infrastructure behind PET scans",
+      "https://www.lanl.gov/media/publications/1663/proton-power-for-public-health"
     ]
   ]
 ]
