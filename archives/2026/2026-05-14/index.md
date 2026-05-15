@@ -40,6 +40,7 @@
 * [2026-05-14, 17:08:00](https://news.ycombinator.com/item?id=48138136) - [Removing the Modem and GPS from My 2024 RAV4 Hybrid](https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/)
 * [2026-05-14, 17:01:16](https://news.ycombinator.com/item?id=48138063) - [Terranox AI (YC W26) Is Hiring a Founding AI/ML Engineer and Summer AI/ML Intern](https://www.workatastartup.com/companies/terranox-ai)
 * [2026-05-14, 16:57:12](https://news.ycombinator.com/item?id=48138009) - [Apple-OpenAI Relationship Frays, Setting Up Possible Legal Fight](https://www.bloomberg.com/news/articles/2026-05-14/openai-apple-partnership-frays-setting-up-possible-legal-fight)
+* [2026-05-14, 16:24:28](https://news.ycombinator.com/item?id=48137629) - [Building ML framework with Rust and Category Theory](https://hghalebi.github.io/category_theory_transformer_rs/)
 * [2026-05-14, 16:19:29](https://news.ycombinator.com/item?id=48137553) - [HDD Firmware Hacking](https://icode4.coffee/?p=1465)
 * [2026-05-14, 15:47:31](https://news.ycombinator.com/item?id=48137145) - [RTX 5090 and M4 MacBook Air: Can It Game?](https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/)
 * [2026-05-14, 15:36:24](https://news.ycombinator.com/item?id=48136992) - [On The Conflation of Money and Things](https://lithub.com/is-it-even-real-on-the-conflation-of-money-and-things/)
