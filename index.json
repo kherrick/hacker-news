@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-05-15, 07:18:23",
+      "https://news.ycombinator.com/item?id=48145524"
+    ],
+    [
+      "Ask HN: How to be SOC2 Type 2 compliant as a solo-entreprenuer?",
+      "https://news.ycombinator.com/item?id=48145524"
+    ]
+  ],
+  [
+    [
       "2026-05-15, 04:15:31",
       "https://news.ycombinator.com/item?id=48144494"
     ],
     [
       "How Claude Code works in large codebases",
       "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start"
+    ]
+  ],
+  [
+    [
+      "2026-05-15, 04:15:24",
+      "https://news.ycombinator.com/item?id=48144490"
+    ],
+    [
+      "Solar-based sleep patterns compared to modern norms",
+      "https://dylan.gr/1775146616"
+    ]
+  ],
+  [
+    [
+      "2026-05-15, 04:02:09",
+      "https://news.ycombinator.com/item?id=48144410"
+    ],
+    [
+      "Coldkey – Post-quantum age key generation and paper backup tool",
+      "https://github.com/pike00/coldkey"
     ]
   ],
   [
@@ -51,32 +81,22 @@
   ],
   [
     [
-      "2026-05-15, 01:04:13",
-      "https://news.ycombinator.com/item?id=48143256"
-    ],
-    [
-      "UFerris a Versatile Learner Board for Rust Embedded Beginners",
-      "https://www.theembeddedrustacean.com/uferris"
-    ]
-  ],
-  [
-    [
-      "2026-05-15, 01:02:05",
-      "https://news.ycombinator.com/item?id=48143235"
-    ],
-    [
-      "Velonus – Open-source AppSec scanner that deduplicates SAST noise",
-      "https://github.com/AliAmmar15/Velonus"
-    ]
-  ],
-  [
-    [
       "2026-05-14, 23:37:21",
       "https://news.ycombinator.com/item?id=48142650"
     ],
     [
       "LLM Policy for Rust Compiler",
       "https://github.com/rust-lang/rust-forge/pull/1040"
+    ]
+  ],
+  [
+    [
+      "2026-05-14, 22:44:16",
+      "https://news.ycombinator.com/item?id=48142251"
+    ],
+    [
+      "UK government replaces Palantir software with internally-built refugee system",
+      "https://www.bbc.com/news/articles/c2l2j1lxdk5o"
     ]
   ],
   [
@@ -111,22 +131,22 @@
   ],
   [
     [
-      "2026-05-14, 22:05:30",
-      "https://news.ycombinator.com/item?id=48141902"
-    ],
-    [
-      "Show HN: GridTravel- A community based travel app for users to share routes",
-      "https://www.gridtravel.app"
-    ]
-  ],
-  [
-    [
       "2026-05-14, 21:50:17",
       "https://news.ycombinator.com/item?id=48141732"
     ],
     [
       "OVMS: Open source electric vehicle remote monitoring, diagnosis and control",
       "https://www.openvehicles.com/home"
+    ]
+  ],
+  [
+    [
+      "2026-05-14, 21:05:05",
+      "https://news.ycombinator.com/item?id=48141234"
+    ],
+    [
+      "Claude for Legal",
+      "https://github.com/anthropics/claude-for-legal"
     ]
   ],
   [
@@ -181,12 +201,12 @@
   ],
   [
     [
-      "2026-05-14, 18:33:47",
-      "https://news.ycombinator.com/item?id=48139316"
+      "2026-05-14, 19:01:58",
+      "https://news.ycombinator.com/item?id=48139704"
     ],
     [
-      "The Power of a Free Popsicle (2018)",
-      "https://www.gsb.stanford.edu/insights/power-free-popsicle"
+      "WinUI 3 Performance: A Leap Forward",
+      "https://github.com/microsoft/microsoft-ui-xaml/discussions/11096"
     ]
   ],
   [
@@ -247,26 +267,6 @@
     [
       "RTX 5090 and M4 MacBook Air: Can It Game?",
       "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/"
-    ]
-  ],
-  [
-    [
-      "2026-05-14, 14:51:14",
-      "https://news.ycombinator.com/item?id=48136262"
-    ],
-    [
-      "A message from President Kornbluth about funding and the talent pipeline",
-      "https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline"
-    ]
-  ],
-  [
-    [
-      "2026-05-14, 14:15:50",
-      "https://news.ycombinator.com/item?id=48135764"
-    ],
-    [
-      "Show HN: Race to the Bottom",
-      "https://race-to-the-bottom.onrender.com"
     ]
   ],
   [
