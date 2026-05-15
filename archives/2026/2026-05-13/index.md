@@ -26,6 +26,7 @@
 * [2026-05-13, 15:13:37](https://news.ycombinator.com/item?id=48123015) - [Open Source Resistance: keep OSS alive on company time](https://ossresistance.com/)
 * [2026-05-13, 14:45:18](https://news.ycombinator.com/item?id=48122635) - [Setting up a free *.city.state.us locality domain](https://fredchan.org/blog/locality-domains-guide/)
 * [2026-05-13, 14:44:41](https://news.ycombinator.com/item?id=48122624) - [The AI Backlash Could Get Ugly](https://www.theatlantic.com/technology/2026/05/ai-backlash-data-centers-political-violence/687151/)
+* [2026-05-13, 14:13:12](https://news.ycombinator.com/item?id=48122172) - [The nuclear-physics infrastructure behind PET scans](https://www.lanl.gov/media/publications/1663/proton-power-for-public-health)
 * [2026-05-13, 13:53:53](https://news.ycombinator.com/item?id=48121929) - [The US is winning the AI race where it matters most: commercialization](https://avkcode.github.io/blog/us-winning-ai-race.html)
 * [2026-05-13, 13:44:01](https://news.ycombinator.com/item?id=48121824) - [Show HN: Rotunda - A browser built for agents with simulated typing](https://github.com/monkeysee-ai/rotunda)
 * [2026-05-13, 12:57:42](https://news.ycombinator.com/item?id=48121299) - [Dutch suicide prevention website shares data with tech companies without consent](https://nltimes.nl/2026/05/13/dutch-suicide-prevention-hotline-shares-visitor-data-tech-companies)
