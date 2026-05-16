@@ -8,6 +8,7 @@
 * [2026-05-16, 19:15:40](https://news.ycombinator.com/item?id=48162922) - [Why is Charlie Stross's site named Antipope?](https://www.antipope.org/charlie/old/antipope.html)
 * [2026-05-16, 19:10:38](https://news.ycombinator.com/item?id=48162882) - [Japan’s robot wolf sells out as record bear attacks drive demand](https://www.independent.co.uk/asia/japan/japan-robot-wolf-bear-attacks-ohta-seiki-b2975670.html)
 * [2026-05-16, 19:10:38](https://news.ycombinator.com/item?id=48162882) - [Japan runs out of robot wolves in fight against bears](https://www.popsci.com/environment/japan-robot-wolf-army/)
+* [2026-05-16, 18:16:29](https://news.ycombinator.com/item?id=48162468) - [Halt and Catch Fire](https://unstack.io/halt-and-catch-fire)
 * [2026-05-16, 18:11:23](https://news.ycombinator.com/item?id=48162431) - [Show HN: Daily vibe-coding video games, day 33: Tower Defense (single prompt)](https://gamevibe.us/33-tower-defense)
 * [2026-05-16, 17:59:45](https://news.ycombinator.com/item?id=48162354) - [US Is Starting to See Heavy Job Losses in Roles Exposed to AI](https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai)
 * [2026-05-16, 17:12:58](https://news.ycombinator.com/item?id=48161997) - [Kioxia and Dell cram 10 PB into slim 2RU server](https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574)

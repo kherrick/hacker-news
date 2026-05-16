@@ -9,6 +9,7 @@
 * [2026-05-13, 20:22:21](https://news.ycombinator.com/item?id=48126981) - [Meta won't let you block its AI account on Threads](https://www.theverge.com/tech/929091/meta-ai-threads-account-block)
 * [2026-05-13, 20:12:16](https://news.ycombinator.com/item?id=48126848) - [Princeton mandates proctoring in-person exams, upending 133 years of precedent](https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent)
 * [2026-05-13, 19:59:35](https://news.ycombinator.com/item?id=48126675) - [Rars: a Rust RAR implementation, mostly written by LLMs](https://bitplane.net/log/2026/05/rars/)
+* [2026-05-13, 19:38:19](https://news.ycombinator.com/item?id=48126431) - [3D Gaussian Splatting in a Weekend](https://bfeldman.me/3dgs-weekend/)
 * [2026-05-13, 19:22:14](https://news.ycombinator.com/item?id=48126241) - [EditLens: Quantifying the extent of AI editing in text (2025)](https://arxiv.org/abs/2510.03154)
 * [2026-05-13, 19:17:10](https://news.ycombinator.com/item?id=48126187) - [The day the Pintupi Nine entered the modern world](https://www.bbc.com/news/magazine-30500591)
 * [2026-05-13, 19:14:47](https://news.ycombinator.com/item?id=48126156) - [Making the news available at no cost is a victory](https://www.sltrib.com/opinion/commentary/2026/05/12/just-days-tribune-reporting/)
