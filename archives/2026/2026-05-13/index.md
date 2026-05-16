@@ -48,5 +48,6 @@
 * [2026-05-13, 06:42:54](https://news.ycombinator.com/item?id=48118573) - [One Startup Is Gambling. Ten Is Mathematics](https://www.mynameisfeng.com/blog/one-startup-is-gambling-ten-is-mathematics)
 * [2026-05-13, 06:25:01](https://news.ycombinator.com/item?id=48118478) - [England Runestones](https://en.wikipedia.org/wiki/England_runestones)
 * [2026-05-13, 04:25:03](https://news.ycombinator.com/item?id=48117810) - [Deterministic Fully-Static Whole-Binary Translation Without Heuristics](https://arxiv.org/abs/2605.08419)
+* [2026-05-13, 01:54:55](https://news.ycombinator.com/item?id=48116935) - [Recreation of the 1956 IPL-I version of the Logic Theorist theorem prover](https://github.com/dmoews/logic-theorist)
 * [2026-05-13, 01:29:31](https://news.ycombinator.com/item?id=48116781) - [Starship V3](https://www.spacex.com/updates#starship-v3)
 * [2026-05-13, 00:04:21](https://news.ycombinator.com/item?id=48116207) - [My graduation cap runs Rust](https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/)
