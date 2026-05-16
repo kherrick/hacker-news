@@ -31,6 +31,7 @@
 * [2026-05-13, 14:13:12](https://news.ycombinator.com/item?id=48122172) - [The nuclear-physics infrastructure behind PET scans](https://www.lanl.gov/media/publications/1663/proton-power-for-public-health)
 * [2026-05-13, 13:53:53](https://news.ycombinator.com/item?id=48121929) - [The US is winning the AI race where it matters most: commercialization](https://avkcode.github.io/blog/us-winning-ai-race.html)
 * [2026-05-13, 13:44:01](https://news.ycombinator.com/item?id=48121824) - [Show HN: Rotunda - A browser built for agents with simulated typing](https://github.com/monkeysee-ai/rotunda)
+* [2026-05-13, 13:00:09](https://news.ycombinator.com/item?id=48121333) - [ESP-EEG is an affordable 8-channel biosensing board](https://www.autodidacts.io/cerelog-esp-eeg-affordable-openbci-like-board/)
 * [2026-05-13, 12:57:42](https://news.ycombinator.com/item?id=48121299) - [Dutch suicide prevention website shares data with tech companies without consent](https://nltimes.nl/2026/05/13/dutch-suicide-prevention-hotline-shares-visitor-data-tech-companies)
 * [2026-05-13, 12:54:00](https://news.ycombinator.com/item?id=48121266) - [Why I'm leaving GitHub for Forgejo](https://jorijn.com/en/blog/leaving-github-for-forgejo/)
 * [2026-05-13, 12:00:30](https://news.ycombinator.com/item?id=48120776) - [Substrate (YC S24) Is Hiring a Technical Success Manager](https://www.ycombinator.com/companies/substrate/jobs/T2fMBhD-technical-success-manager)

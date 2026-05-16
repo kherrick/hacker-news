@@ -65,6 +65,7 @@
 * [2026-05-14, 10:44:50](https://news.ycombinator.com/item?id=48133561) - [Show HN: Running the second public ODoH relay](https://numa.rs/blog/posts/odoh-anonymous-dns-without-an-account.html)
 * [2026-05-14, 10:37:54](https://news.ycombinator.com/item?id=48133493) - [Pipes, Forks, and Zombies](https://cs61.seas.harvard.edu/wiki/2017/Shell3/)
 * [2026-05-14, 08:15:31](https://news.ycombinator.com/item?id=48132488) - [Rewrite Bun in Rust has been merged](https://github.com/oven-sh/bun/pull/30412)
+* [2026-05-14, 07:17:16](https://news.ycombinator.com/item?id=48132106) - [The bird eye was pushed to an evolutionary extreme](https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/)
 * [2026-05-14, 07:03:18](https://news.ycombinator.com/item?id=48132030) - [Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7](https://classic7.lol/)
 * [2026-05-14, 03:59:35](https://news.ycombinator.com/item?id=48130950) - [Claude for Small Business](https://www.anthropic.com/news/claude-for-small-business)
 * [2026-05-14, 03:19:05](https://news.ycombinator.com/item?id=48130711) - [Arena AI Model ELO History](https://mayerwin.github.io/AI-Arena-History/)

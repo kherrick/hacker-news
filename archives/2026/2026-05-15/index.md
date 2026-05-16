@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-05-15](index.md)
 
+* [2026-05-15, 23:37:32](https://news.ycombinator.com/item?id=48155324) - [The main thing about P2P meth is that there's so much of it (2021)](https://dynomight.net/p2p-meth/)
+* [2026-05-15, 23:33:32](https://news.ycombinator.com/item?id=48155297) - [Erlang/OTP 29.0](https://www.erlang.org/news/188)
+* [2026-05-15, 23:22:30](https://news.ycombinator.com/item?id=48155212) - [SQL patterns I use to catch transaction fraud](https://analytics.fixelsmith.com/posts/sql-fraud-patterns/)
 * [2026-05-15, 23:14:51](https://news.ycombinator.com/item?id=48155159) - [Spectre Programming Language](https://spectre-docs.pages.dev)
 * [2026-05-15, 22:23:38](https://news.ycombinator.com/item?id=48154711) - [How to Write to SSDs [pdf]](https://www.vldb.org/pvldb/vol19/p1469-lee.pdf)
 * [2026-05-15, 20:28:44](https://news.ycombinator.com/item?id=48153400) - [London Police Deploy Facial Recognition at Protest for First Time](https://reclaimthenet.org/london-police-deploy-facial-recognition-at-protest-for-first-time)
@@ -31,6 +34,7 @@
 * [2026-05-15, 16:15:36](https://news.ycombinator.com/item?id=48150431) - [Project Gutenberg – keeps getting better](https://www.gutenberg.org/)
 * [2026-05-15, 15:45:11](https://news.ycombinator.com/item?id=48150097) - [I built Zenith: a live local-first fixed viewport planetarium](https://smorgasb.org/zenith-tech/)
 * [2026-05-15, 15:42:37](https://news.ycombinator.com/item?id=48150069) - [Image-blaster: Creates 3D environments, SFX, and meshes from a single image](https://github.com/neilsonnn/image-blaster)
+* [2026-05-15, 14:39:51](https://news.ycombinator.com/item?id=48149259) - [Additive Blending on the Nintendo 64](https://phoboslab.org/log/2026/05/n64-additive-blending)
 * [2026-05-15, 14:08:00](https://news.ycombinator.com/item?id=48148797) - [Check Your Fucking Sources, People](https://brodzinski.com/2026/05/check-fcking-sources.html)
 * [2026-05-15, 14:02:36](https://news.ycombinator.com/item?id=48148726) - [ASCII by Jason Scott](https://ascii.textfiles.com/)
 * [2026-05-15, 13:39:54](https://news.ycombinator.com/item?id=48148460) - [A 0-click exploit chain for the Pixel 10](https://projectzero.google/2026/05/pixel-10-exploit.html)
