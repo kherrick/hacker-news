@@ -1,22 +1,22 @@
 [
   [
     [
+      "2026-05-16, 08:30:51",
+      "https://news.ycombinator.com/item?id=48158110"
+    ],
+    [
+      "Someone Shared a Real Monet Painting as AI and Asked for Critiques",
+      "https://petapixel.com/2026/05/14/someone-shared-a-real-monet-painting-as-ai-and-asked-for-critiques/"
+    ]
+  ],
+  [
+    [
       "2026-05-16, 07:01:55",
       "https://news.ycombinator.com/item?id=48157559"
     ],
     [
       "Frontier AI has broken the open CTF format",
       "https://kabir.au/blog/the-ctf-scene-is-dead"
-    ]
-  ],
-  [
-    [
-      "2026-05-16, 03:42:30",
-      "https://news.ycombinator.com/item?id=48156628"
-    ],
-    [
-      "California's Battery Array Is as Powerful as 12 Nuclear Power Plants",
-      "https://zolairenergy.com/californias-battery-array-is-as-powerful-as-12-nuclear-power-plants-heres-whats-on-the-horizon/"
     ]
   ],
   [
@@ -95,7 +95,7 @@
       "https://news.ycombinator.com/item?id=48152994"
     ],
     [
-      "California bill would require patches or refunds when online games shut down",
+      "Bill to block publishers from killing online games advances in California",
       "https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/"
     ]
   ],
@@ -107,16 +107,6 @@
     [
       "The Zulip Foundation",
       "https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/"
-    ]
-  ],
-  [
-    [
-      "2026-05-15, 17:28:24",
-      "https://news.ycombinator.com/item?id=48151383"
-    ],
-    [
-      "U.S. DOJ demands Apple and Google unmask over 100k users of car-tinkering app",
-      "https://macdailynews.com/2026/05/15/u-s-doj-demands-apple-and-google-unmask-over-100000-users-of-popular-car-tinkering-app-in-emissions-crackdown/"
     ]
   ],
   [
@@ -251,22 +241,22 @@
   ],
   [
     [
+      "2026-05-13, 14:47:13",
+      "https://news.ycombinator.com/item?id=48122657"
+    ],
+    [
+      "EMiX: Emulating Beyond Single-FPGA Limits",
+      "https://arxiv.org/abs/2604.27012"
+    ]
+  ],
+  [
+    [
       "2026-05-13, 13:00:09",
       "https://news.ycombinator.com/item?id=48121333"
     ],
     [
       "ESP-EEG is an affordable 8-channel biosensing board",
       "https://www.autodidacts.io/cerelog-esp-eeg-affordable-openbci-like-board/"
-    ]
-  ],
-  [
-    [
-      "2026-05-13, 12:39:44",
-      "https://news.ycombinator.com/item?id=48121143"
-    ],
-    [
-      "Matlab: Communications Toolbox",
-      "https://www.mathworks.com/products/communications.html"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Ploopy Bean: a trackpoint for every computer",
       "https://ploopy.co/shop/bean-pointing-stick/"
+    ]
+  ],
+  [
+    [
+      "2026-05-12, 18:17:37",
+      "https://news.ycombinator.com/item?id=48112129"
+    ],
+    [
+      "Charity – Categorical programming language (1998)",
+      "https://github.com/mietek/charity-lang/blob/master/doc/README.md"
     ]
   ]
 ]
