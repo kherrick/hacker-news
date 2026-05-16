@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-16](index.md)
 
+* [2026-05-16, 16:58:26](https://news.ycombinator.com/item?id=48161861) - [You don't know HTML Lists](https://blog.frankmtaylor.com/2026/05/13/you-dont-know-html-lists/)
+* [2026-05-16, 15:21:45](https://news.ycombinator.com/item?id=48160991) - [Tesla reveals two Robotaxi crashes involving teleoperators](https://techcrunch.com/2026/05/15/tesla-reveals-two-robotaxi-crashes-involving-teleoperators/)
 * [2026-05-16, 15:12:17](https://news.ycombinator.com/item?id=48160914) - [How an Australian Teen Team Is Making Radio Astronomy Affordable for Schools](https://mag.openrockets.com/p/how-an-australian-teen-team-is-making-radio-astronomy-affordable-for-rural-schools-4894opuisyhfdisubgi/?b=2)
 * [2026-05-16, 14:58:16](https://news.ycombinator.com/item?id=48160807) - [DeepSeek-V4-Flash means LLM steering is interesting again](https://www.seangoedecke.com/steering-vectors/)
 * [2026-05-16, 13:42:34](https://news.ycombinator.com/item?id=48160211) - [Accelerate](https://github.com/AccelerateHS/accelerate)

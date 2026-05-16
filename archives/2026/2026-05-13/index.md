@@ -41,6 +41,7 @@
 * [2026-05-13, 11:42:20](https://news.ycombinator.com/item?id=48120629) - [I Moved My Digital Stack to Europe](https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/)
 * [2026-05-13, 11:26:33](https://news.ycombinator.com/item?id=48120514) - [GitHub Actions issued GitHub_TOKEN disclosure in GitHub Actions logs](https://github.com/composer/composer/security/advisories/GHSA-f9f8-rm49-7jv2)
 * [2026-05-13, 11:02:57](https://news.ycombinator.com/item?id=48120351) - [Using OR-Tools CP-SAT for Scheduling Problems](https://atalaykutlay.com/or-tools-cp-sat-for-scheduling-problems.html)
+* [2026-05-13, 10:37:39](https://news.ycombinator.com/item?id=48120162) - [Windows 9x Subsystem for Linux](https://codeberg.org/hails/wsl9x)
 * [2026-05-13, 08:41:30](https://news.ycombinator.com/item?id=48119326) - [Cost of enum-to-string: C++26 reflection vs. the old ways](https://vittorioromeo.com/index/blog/refl_enum_to_string.html)
 * [2026-05-13, 07:11:17](https://news.ycombinator.com/item?id=48118763) - [SecurityBaseline.eu](https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/)
 * [2026-05-13, 07:06:14](https://news.ycombinator.com/item?id=48118727) - [The Emacsification of Software](https://sockpuppet.org/blog/2026/05/12/emacsification/)
