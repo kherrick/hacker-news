@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-16](index.md)
 
+* [2026-05-16, 14:58:16](https://news.ycombinator.com/item?id=48160807) - [DeepSeek-V4-Flash means LLM steering is interesting again](https://www.seangoedecke.com/steering-vectors/)
 * [2026-05-16, 13:42:34](https://news.ycombinator.com/item?id=48160211) - [Accelerate](https://github.com/AccelerateHS/accelerate)
 * [2026-05-16, 12:49:07](https://news.ycombinator.com/item?id=48159790) - [My Favorite Bugs: Invalid Surrogate Pairs](https://george.mand.is/2026/05/my-favorite-bugs-invalid-surrogate-pairs/)
 * [2026-05-16, 12:28:49](https://news.ycombinator.com/item?id=48159604) - [The End of Refugee Resettlement](https://www.newyorker.com/news/letter-from-jordan/the-end-of-refugee-resettlement)

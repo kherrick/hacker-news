@@ -34,6 +34,7 @@
 * [2026-05-12, 16:47:38](https://news.ycombinator.com/item?id=48110804) - [Nearly 50 Years Later, WKRP in Cincinnati Becomes a Real Radio Station](https://www.openculture.com/2026/05/nearly-50-years-later-wkrp-in-cincinnati-becomes-a-real-radio-station.html)
 * [2026-05-12, 16:32:54](https://news.ycombinator.com/item?id=48110593) - [Show HN: Gigacatalyst – Extend your SaaS with an embedded AI builder](https://news.ycombinator.com/item?id=48110593)
 * [2026-05-12, 16:29:21](https://news.ycombinator.com/item?id=48110529) - [Amazon employees are \"tokenmaxxing\" due to pressure to use AI tools](https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/)
+* [2026-05-12, 15:56:09](https://news.ycombinator.com/item?id=48110103) - [What Were Ancient Greco-Roman Curse Tablets?](https://www.history.com/articles/what-were-ancient-roman-curse-tablets)
 * [2026-05-12, 15:49:47](https://news.ycombinator.com/item?id=48110021) - [eBay Rejects GameStop's $56B Takeover as Not Credible](https://www.bloomberg.com/news/articles/2026-05-12/ebay-rejects-gamestop-s-56-billion-takeover-as-not-credible)
 * [2026-05-12, 15:45:54](https://news.ycombinator.com/item?id=48109970) - [The Future of Obsidian Plugins](https://obsidian.md/blog/future-of-plugins/)
 * [2026-05-12, 15:45:20](https://news.ycombinator.com/item?id=48109962) - [Launch HN: Voker (YC S24) – Analytics for AI Agents](https://voker.ai)
