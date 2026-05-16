@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-05-16, 14:58:16",
+      "https://news.ycombinator.com/item?id=48160807"
+    ],
+    [
+      "DeepSeek-V4-Flash means LLM steering is interesting again",
+      "https://www.seangoedecke.com/steering-vectors/"
+    ]
+  ],
+  [
+    [
       "2026-05-16, 13:42:34",
       "https://news.ycombinator.com/item?id=48160211"
     ],
@@ -17,16 +27,6 @@
     [
       "My Favorite Bugs: Invalid Surrogate Pairs",
       "https://george.mand.is/2026/05/my-favorite-bugs-invalid-surrogate-pairs/"
-    ]
-  ],
-  [
-    [
-      "2026-05-16, 12:28:49",
-      "https://news.ycombinator.com/item?id=48159604"
-    ],
-    [
-      "The End of Refugee Resettlement",
-      "https://www.newyorker.com/news/letter-from-jordan/the-end-of-refugee-resettlement"
     ]
   ],
   [
@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2026-05-15, 22:23:38",
-      "https://news.ycombinator.com/item?id=48154711"
-    ],
-    [
-      "How to Write to SSDs [pdf]",
-      "https://www.vldb.org/pvldb/vol19/p1469-lee.pdf"
-    ]
-  ],
-  [
-    [
       "2026-05-15, 20:26:47",
       "https://news.ycombinator.com/item?id=48153379"
     ],
@@ -177,16 +167,6 @@
     [
       "Project Gutenberg – keeps getting better",
       "https://www.gutenberg.org/"
-    ]
-  ],
-  [
-    [
-      "2026-05-15, 14:39:51",
-      "https://news.ycombinator.com/item?id=48149259"
-    ],
-    [
-      "Additive Blending on the Nintendo 64",
-      "https://phoboslab.org/log/2026/05/n64-additive-blending"
     ]
   ],
   [
@@ -227,6 +207,16 @@
     [
       "Points are a weird and inconsistent unit of measure",
       "https://buttondown.com/hillelwayne/archive/points-are-a-weird-and-inconsistent-unit-of/"
+    ]
+  ],
+  [
+    [
+      "2026-05-14, 07:36:20",
+      "https://news.ycombinator.com/item?id=48132232"
+    ],
+    [
+      "After 8 years, I rewrote my open-source PyTorch curvature library",
+      "https://github.com/noahgolmant/pytorch-hessian-eigenthings"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Nearly 50 Years Later, WKRP in Cincinnati Becomes a Real Radio Station",
       "https://www.openculture.com/2026/05/nearly-50-years-later-wkrp-in-cincinnati-becomes-a-real-radio-station.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-12, 15:56:09",
+      "https://news.ycombinator.com/item?id=48110103"
+    ],
+    [
+      "What Were Ancient Greco-Roman Curse Tablets?",
+      "https://www.history.com/articles/what-were-ancient-roman-curse-tablets"
     ]
   ]
 ]
