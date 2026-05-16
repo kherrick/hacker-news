@@ -34,6 +34,7 @@
 * [2026-05-13, 13:00:09](https://news.ycombinator.com/item?id=48121333) - [ESP-EEG is an affordable 8-channel biosensing board](https://www.autodidacts.io/cerelog-esp-eeg-affordable-openbci-like-board/)
 * [2026-05-13, 12:57:42](https://news.ycombinator.com/item?id=48121299) - [Dutch suicide prevention website shares data with tech companies without consent](https://nltimes.nl/2026/05/13/dutch-suicide-prevention-hotline-shares-visitor-data-tech-companies)
 * [2026-05-13, 12:54:00](https://news.ycombinator.com/item?id=48121266) - [Why I'm leaving GitHub for Forgejo](https://jorijn.com/en/blog/leaving-github-for-forgejo/)
+* [2026-05-13, 12:39:44](https://news.ycombinator.com/item?id=48121143) - [Matlab: Communications Toolbox](https://www.mathworks.com/products/communications.html)
 * [2026-05-13, 12:00:30](https://news.ycombinator.com/item?id=48120776) - [Substrate (YC S24) Is Hiring a Technical Success Manager](https://www.ycombinator.com/companies/substrate/jobs/T2fMBhD-technical-success-manager)
 * [2026-05-13, 11:42:20](https://news.ycombinator.com/item?id=48120629) - [I Moved My Digital Stack to Europe](https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/)
 * [2026-05-13, 11:26:33](https://news.ycombinator.com/item?id=48120514) - [GitHub Actions issued GitHub_TOKEN disclosure in GitHub Actions logs](https://github.com/composer/composer/security/advisories/GHSA-f9f8-rm49-7jv2)
