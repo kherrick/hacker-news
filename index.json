@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-05-15, 23:14:51",
+      "https://news.ycombinator.com/item?id=48155159"
+    ],
+    [
+      "Spectre Programming Language",
+      "https://spectre-docs.pages.dev"
+    ]
+  ],
+  [
+    [
       "2026-05-15, 22:23:38",
       "https://news.ycombinator.com/item?id=48154711"
     ],
@@ -31,16 +41,6 @@
   ],
   [
     [
-      "2026-05-15, 20:06:51",
-      "https://news.ycombinator.com/item?id=48153183"
-    ],
-    [
-      "Palantir has hired more than 30 senior UK Government officials",
-      "https://www.thenational.scot/news/26055524.palantir-hired-30-senior-uk-government-officials/"
-    ]
-  ],
-  [
-    [
       "2026-05-15, 20:03:17",
       "https://news.ycombinator.com/item?id=48153142"
     ],
@@ -57,16 +57,6 @@
     [
       "California bill would require patches or refunds when online games shut down",
       "https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/"
-    ]
-  ],
-  [
-    [
-      "2026-05-15, 19:23:29",
-      "https://news.ycombinator.com/item?id=48152729"
-    ],
-    [
-      "WinCE64 – Windows CE 2.11 for N64",
-      "https://github.com/ThroatyMumbo/WinCE64"
     ]
   ],
   [
@@ -285,8 +275,18 @@
       "https://news.ycombinator.com/item?id=48126187"
     ],
     [
-      "The day the Pintupi Nine entered the modern world",
+      "The day the Pintupi Nine entered the modern world (2014)",
       "https://www.bbc.com/news/magazine-30500591"
+    ]
+  ],
+  [
+    [
+      "2026-05-13, 19:02:52",
+      "https://news.ycombinator.com/item?id=48126014"
+    ],
+    [
+      "A SQL-Inspired Query Language Designed for Event Sourcing (2025)",
+      "https://yoeight.github.io/blog/2025/12/21/EventQL_A_SQL_Inspired_Query_Language_Designed_For_Event_Sourcing.html"
     ]
   ],
   [
