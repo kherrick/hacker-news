@@ -8,6 +8,7 @@
 * [2026-05-15, 23:33:32](https://news.ycombinator.com/item?id=48155297) - [Erlang/OTP 29.0](https://www.erlang.org/news/188)
 * [2026-05-15, 23:22:30](https://news.ycombinator.com/item?id=48155212) - [SQL patterns I use to catch transaction fraud](https://analytics.fixelsmith.com/posts/sql-fraud-patterns/)
 * [2026-05-15, 23:14:51](https://news.ycombinator.com/item?id=48155159) - [Spectre Programming Language](https://spectre-docs.pages.dev)
+* [2026-05-15, 22:38:58](https://news.ycombinator.com/item?id=48154865) - [Orthrus-Qwen3: up to 7.8×tokens/forward on Qwen3, identical output distribution](https://github.com/chiennv2000/orthrus)
 * [2026-05-15, 22:23:38](https://news.ycombinator.com/item?id=48154711) - [How to Write to SSDs [pdf]](https://www.vldb.org/pvldb/vol19/p1469-lee.pdf)
 * [2026-05-15, 20:28:44](https://news.ycombinator.com/item?id=48153400) - [London Police Deploy Facial Recognition at Protest for First Time](https://reclaimthenet.org/london-police-deploy-facial-recognition-at-protest-for-first-time)
 * [2026-05-15, 20:26:47](https://news.ycombinator.com/item?id=48153379) - [Mitchellh – I strongly believe there are entire companies now under AI psychosis](https://twitter.com/mitchellh/status/2055380239711457578)

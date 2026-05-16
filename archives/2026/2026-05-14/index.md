@@ -57,6 +57,7 @@
 * [2026-05-14, 12:57:27](https://news.ycombinator.com/item?id=48134743) - [Computer Hobby Movement in Canada](https://museum.eecs.yorku.ca/exhibits/show/hobby_canada/hobby_canada)
 * [2026-05-14, 12:27:29](https://news.ycombinator.com/item?id=48134429) - [Sam Altman's Business Dealings Under GOP Scrutiny Ahead of OpenAI's IPO](https://www.wsj.com/tech/ai/sam-altmans-business-dealings-under-gop-scrutiny-ahead-of-openais-ipo-52c1cc4d)
 * [2026-05-14, 12:05:13](https://news.ycombinator.com/item?id=48134225) - [The Dating App Swipe Is Dying. What Comes Next May Be Worse](https://www.insidehook.com/sex-and-dating/bumble-dating-app-swipe-dying)
+* [2026-05-14, 11:55:43](https://news.ycombinator.com/item?id=48134135) - [Research on mildew contamination affecting the sound quality of analog tapes](https://www.nature.com/articles/s40494-026-02592-7)
 * [2026-05-14, 11:47:47](https://news.ycombinator.com/item?id=48134084) - [The Siri for Families Apple Will Never Build](https://taoofmac.com/space/blog/2026/05/14/1220)
 * [2026-05-14, 11:38:46](https://news.ycombinator.com/item?id=48134014) - [The European Union backs Italy's right to make Meta pay for news](https://www.niemanlab.org/2026/05/the-eu-backs-italys-right-to-make-meta-pay-for-news/)
 * [2026-05-14, 11:26:58](https://news.ycombinator.com/item?id=48133917) - [Ryan Cohen hits back at eBay, says his takeover proposal should not be dismissed](https://www.reuters.com/world/ryan-cohen-says-ebay-directors-should-not-dismiss-his-proposal-without-engaging-2026-05-13/)
