@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-05-16, 22:25:33",
+      "https://news.ycombinator.com/item?id=48164294"
+    ],
+    [
+      "MCP Hello Page",
+      "https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page"
+    ]
+  ],
+  [
+    [
+      "2026-05-16, 22:23:50",
+      "https://news.ycombinator.com/item?id=48164287"
+    ],
+    [
+      "Zerostack – A Unix-inspired coding agent written in pure Rust",
+      "https://crates.io/crates/zerostack/1.0.0"
+    ]
+  ],
+  [
+    [
+      "2026-05-16, 22:13:54",
+      "https://news.ycombinator.com/item?id=48164229"
+    ],
+    [
+      "I tried to make Claude make me money on Algora bounties (data and tool)",
+      "https://github.com/ztc00/algora-scout/blob/main/POST.md"
+    ]
+  ],
+  [
+    [
+      "2026-05-16, 22:02:51",
+      "https://news.ycombinator.com/item?id=48164173"
+    ],
+    [
+      "Ask HN: When did computers stop being fun?",
+      "https://news.ycombinator.com/item?id=48164173"
+    ]
+  ],
+  [
+    [
       "2026-05-16, 19:10:38",
       "https://news.ycombinator.com/item?id=48162882"
     ],
@@ -47,16 +87,6 @@
     [
       "HTML Lists",
       "https://blog.frankmtaylor.com/2026/05/13/you-dont-know-html-lists/"
-    ]
-  ],
-  [
-    [
-      "2026-05-16, 15:12:17",
-      "https://news.ycombinator.com/item?id=48160914"
-    ],
-    [
-      "PART Telescopes – Bringing radio astronomy within reach of rural schools",
-      "https://parttelescopes.web.app/"
     ]
   ],
   [
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2026-05-16, 09:27:59",
-      "https://news.ycombinator.com/item?id=48158494"
-    ],
-    [
-      "Fecal transplants for autism deliver success in clinical trials (2019)",
-      "https://refractor.io/adhd-autism/fecal-transplants-for-autism-delivers-success-in-clinical-trials/"
-    ]
-  ],
-  [
-    [
       "2026-05-16, 09:14:26",
       "https://news.ycombinator.com/item?id=48158400"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2026-05-15, 22:38:58",
-      "https://news.ycombinator.com/item?id=48154865"
-    ],
-    [
-      "Orthrus-Qwen3: up to 7.8×tokens/forward on Qwen3, identical output distribution",
-      "https://github.com/chiennv2000/orthrus"
-    ]
-  ],
-  [
-    [
       "2026-05-15, 20:26:47",
       "https://news.ycombinator.com/item?id=48153379"
     ],
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2026-05-14, 12:32:43",
-      "https://news.ycombinator.com/item?id=48134472"
-    ],
-    [
-      "Points are a weird and inconsistent unit of measure",
-      "https://buttondown.com/hillelwayne/archive/points-are-a-weird-and-inconsistent-unit-of/"
-    ]
-  ],
-  [
-    [
       "2026-05-14, 07:36:20",
       "https://news.ycombinator.com/item?id=48132232"
     ],
@@ -231,22 +231,22 @@
   ],
   [
     [
-      "2026-05-14, 07:17:16",
-      "https://news.ycombinator.com/item?id=48132106"
-    ],
-    [
-      "The bird eye was pushed to an evolutionary extreme",
-      "https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/"
-    ]
-  ],
-  [
-    [
       "2026-05-14, 00:30:55",
       "https://news.ycombinator.com/item?id=48129593"
     ],
     [
       "Fame! A Misunderstanding: A new translation of Albert Camus's complete notebooks",
       "https://lareviewofbooks.org/article/albert-camus-complete-notebooks-ryan-bloom-existentialism-absurd/"
+    ]
+  ],
+  [
+    [
+      "2026-05-13, 20:57:06",
+      "https://news.ycombinator.com/item?id=48127453"
+    ],
+    [
+      "Content-defined chunking added to Bazel",
+      "https://www.buildbuddy.io/blog/content-defined-chunking/"
     ]
   ],
   [
