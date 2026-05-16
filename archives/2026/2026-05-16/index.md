@@ -4,8 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-05-16](index.md)
 
+* [2026-05-16, 12:06:21](https://news.ycombinator.com/item?id=48159445) - [SANA-WM, a 2.6B open-source world model for 1-minute 720p video](https://nvlabs.github.io/Sana/WM/)
+* [2026-05-16, 12:01:06](https://news.ycombinator.com/item?id=48159405) - [Kyber (YC W23) Is Hiring a Founding Marketer](https://www.ycombinator.com/companies/kyber/jobs/1rLQAro-founding-marketer-content-community)
+* [2026-05-16, 11:43:45](https://news.ycombinator.com/item?id=48159282) - [Europe built sovereign clouds to escape US control. Forgot about the processors](https://www.theregister.com/systems/2026/05/16/europe-built-sovereign-clouds-to-escape-us-control-then-forgot-about-the-processors/5237735)
+* [2026-05-16, 11:36:32](https://news.ycombinator.com/item?id=48159241) - [Accelerando (2005)](https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html)
+* [2026-05-16, 11:34:04](https://news.ycombinator.com/item?id=48159227) - [OpenClaw Creator Spent $1.3M on OpenAI Tokens in 30 Days](https://twitter.com/steipete/status/2055346265869721905)
 * [2026-05-16, 09:50:10](https://news.ycombinator.com/item?id=48158606) - [Futhark by Example](https://futhark-lang.org/examples.html)
 * [2026-05-16, 09:30:06](https://news.ycombinator.com/item?id=48158506) - [Δ-Mem: Efficient Online Memory for Large Language Models](https://arxiv.org/abs/2605.12357)
+* [2026-05-16, 09:27:59](https://news.ycombinator.com/item?id=48158494) - [Fecal transplants for autism deliver success in clinical trials](https://refractor.io/adhd-autism/fecal-transplants-for-autism-delivers-success-in-clinical-trials/)
 * [2026-05-16, 08:34:28](https://news.ycombinator.com/item?id=48158130) - [Where to buy a non-Apple, non-Google smartphone](https://www.theregister.com/on-prem/2026/05/01/where-to-buy-a-non-apple-non-google-smartphone/5219681)
 * [2026-05-16, 08:30:51](https://news.ycombinator.com/item?id=48158110) - [Someone Shared a Real Monet Painting as AI and Asked for Critiques](https://petapixel.com/2026/05/14/someone-shared-a-real-monet-painting-as-ai-and-asked-for-critiques/)
 * [2026-05-16, 08:25:17](https://news.ycombinator.com/item?id=48158065) - [We've made the world too complicated](https://user8.bearblog.dev/the-world-is-too-complicated/)
