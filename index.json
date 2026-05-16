@@ -1,32 +1,12 @@
 [
   [
     [
-      "2026-05-16, 20:14:06",
-      "https://news.ycombinator.com/item?id=48163392"
-    ],
-    [
-      "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
-      "https://openai.com/index/malta-chatgpt-plus-partnership/"
-    ]
-  ],
-  [
-    [
       "2026-05-16, 19:10:38",
       "https://news.ycombinator.com/item?id=48162882"
     ],
     [
-      "Japan runs out of robot wolves in fight against bears",
-      "https://www.popsci.com/environment/japan-robot-wolf-army/"
-    ]
-  ],
-  [
-    [
-      "2026-05-16, 18:11:23",
-      "https://news.ycombinator.com/item?id=48162431"
-    ],
-    [
-      "Show HN: Daily vibe-coding video games, day 33: Tower Defense (single prompt)",
-      "https://gamevibe.us/33-tower-defense"
+      "Japan’s robot wolf sells out as record bear attacks drive demand",
+      "https://www.independent.co.uk/asia/japan/japan-robot-wolf-bear-attacks-ohta-seiki-b2975670.html"
     ]
   ],
   [
@@ -37,16 +17,6 @@
     [
       "Kioxia and Dell cram 10 PB into slim 2RU server",
       "https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574"
-    ]
-  ],
-  [
-    [
-      "2026-05-16, 17:10:56",
-      "https://news.ycombinator.com/item?id=48161974"
-    ],
-    [
-      "Technofascism",
-      "https://third-bit.com/2026/05/15/technofascism/"
     ]
   ],
   [
@@ -75,8 +45,8 @@
       "https://news.ycombinator.com/item?id=48160914"
     ],
     [
-      "An australian teen team is making radio astronomy affordable for rural schools",
-      "https://mag.openrockets.com/p/how-an-australian-teen-team-is-making-radio-astronomy-affordable-for-rural-schools-4894opuisyhfdisubgi/?b=2"
+      "PART Telescopes – Bringing radio astronomy within reach of rural schools",
+      "https://parttelescopes.web.app/"
     ]
   ],
   [
@@ -95,7 +65,7 @@
       "https://news.ycombinator.com/item?id=48160211"
     ],
     [
-      "Accelerate",
+      "Accelerate – Embedded language for high-performance array computations",
       "https://github.com/AccelerateHS/accelerate"
     ]
   ],
@@ -175,7 +145,7 @@
       "https://news.ycombinator.com/item?id=48158494"
     ],
     [
-      "Fecal transplants for autism deliver success in clinical trials (2025)",
+      "Fecal transplants for autism deliver success in clinical trials (2019)",
       "https://refractor.io/adhd-autism/fecal-transplants-for-autism-delivers-success-in-clinical-trials/"
     ]
   ],
@@ -207,6 +177,16 @@
     [
       "Frontier AI has broken the open CTF format",
       "https://kabir.au/blog/the-ctf-scene-is-dead"
+    ]
+  ],
+  [
+    [
+      "2026-05-15, 22:38:58",
+      "https://news.ycombinator.com/item?id=48154865"
+    ],
+    [
+      "Orthrus-Qwen3: up to 7.8×tokens/forward on Qwen3, identical output distribution",
+      "https://github.com/chiennv2000/orthrus"
     ]
   ],
   [
@@ -251,6 +231,16 @@
   ],
   [
     [
+      "2026-05-14, 07:17:16",
+      "https://news.ycombinator.com/item?id=48132106"
+    ],
+    [
+      "The bird eye was pushed to an evolutionary extreme",
+      "https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/"
+    ]
+  ],
+  [
+    [
       "2026-05-14, 00:30:55",
       "https://news.ycombinator.com/item?id=48129593"
     ],
@@ -267,6 +257,16 @@
     [
       "Windows 9x Subsystem for Linux",
       "https://codeberg.org/hails/wsl9x"
+    ]
+  ],
+  [
+    [
+      "2026-05-13, 01:54:55",
+      "https://news.ycombinator.com/item?id=48116935"
+    ],
+    [
+      "Recreation of the 1956 IPL-I version of the Logic Theorist theorem prover",
+      "https://github.com/dmoews/logic-theorist"
     ]
   ],
   [
