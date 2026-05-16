@@ -26,6 +26,7 @@
 * [2026-05-13, 15:26:27](https://news.ycombinator.com/item?id=48123198) - [Kickstarter is forced to ban adult content by payment processors](https://kotaku.com/kickstarter-is-the-latest-platform-seemingly-forced-to-ban-adult-content-by-payment-processors-2000695648)
 * [2026-05-13, 15:18:41](https://news.ycombinator.com/item?id=48123090) - [50K Tahoe residents need power as utility eyes redirecting lines to data centers](https://fortune.com/2026/05/12/lake-tahoe-data-center-49000-residents-power-source/)
 * [2026-05-13, 15:13:37](https://news.ycombinator.com/item?id=48123015) - [Open Source Resistance: keep OSS alive on company time](https://ossresistance.com/)
+* [2026-05-13, 14:47:13](https://news.ycombinator.com/item?id=48122657) - [EMiX: Emulating Beyond Single-FPGA Limits](https://arxiv.org/abs/2604.27012)
 * [2026-05-13, 14:45:18](https://news.ycombinator.com/item?id=48122635) - [Setting up a free *.city.state.us locality domain](https://fredchan.org/blog/locality-domains-guide/)
 * [2026-05-13, 14:44:41](https://news.ycombinator.com/item?id=48122624) - [The AI Backlash Could Get Ugly](https://www.theatlantic.com/technology/2026/05/ai-backlash-data-centers-political-violence/687151/)
 * [2026-05-13, 14:13:12](https://news.ycombinator.com/item?id=48122172) - [The nuclear-physics infrastructure behind PET scans](https://www.lanl.gov/media/publications/1663/proton-power-for-public-health)

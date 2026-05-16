@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-05-16, 08:30:51](https://news.ycombinator.com/item?id=48158110) - [Someone Shared a Real Monet Painting as AI and Asked for Critiques](https://petapixel.com/2026/05/14/someone-shared-a-real-monet-painting-as-ai-and-asked-for-critiques/)
 * [2026-05-16, 07:01:55](https://news.ycombinator.com/item?id=48157559) - [Frontier AI has broken the open CTF format](https://kabir.au/blog/the-ctf-scene-is-dead)
-* [2026-05-16, 03:42:30](https://news.ycombinator.com/item?id=48156628) - [California's Battery Array Is as Powerful as 12 Nuclear Power Plants](https://zolairenergy.com/californias-battery-array-is-as-powerful-as-12-nuclear-power-plants-heres-whats-on-the-horizon/)
 * [2026-05-16, 00:18:03](https://news.ycombinator.com/item?id=48155570) - [Show HN: Epiq – Distributed Git based issue tracker TUI](https://ljtn.github.io/epiq/)
 * [2026-05-15, 23:37:32](https://news.ycombinator.com/item?id=48155324) - [The main thing about P2P meth is that there's so much of it (2021)](https://dynomight.net/p2p-meth/)
 * [2026-05-15, 23:33:32](https://news.ycombinator.com/item?id=48155297) - [Erlang/OTP 29.0](https://www.erlang.org/news/188)
@@ -9,9 +9,8 @@
 * [2026-05-15, 22:38:58](https://news.ycombinator.com/item?id=48154865) - [Orthrus-Qwen3: up to 7.8×tokens/forward on Qwen3, identical output distribution](https://github.com/chiennv2000/orthrus)
 * [2026-05-15, 22:23:38](https://news.ycombinator.com/item?id=48154711) - [How to Write to SSDs [pdf]](https://www.vldb.org/pvldb/vol19/p1469-lee.pdf)
 * [2026-05-15, 20:26:47](https://news.ycombinator.com/item?id=48153379) - [I believe there are entire companies right now under AI psychosis](https://twitter.com/mitchellh/status/2055380239711457578)
-* [2026-05-15, 19:48:48](https://news.ycombinator.com/item?id=48152994) - [California bill would require patches or refunds when online games shut down](https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/)
+* [2026-05-15, 19:48:48](https://news.ycombinator.com/item?id=48152994) - [Bill to block publishers from killing online games advances in California](https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/)
 * [2026-05-15, 18:37:01](https://news.ycombinator.com/item?id=48152168) - [The Zulip Foundation](https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/)
-* [2026-05-15, 17:28:24](https://news.ycombinator.com/item?id=48151383) - [U.S. DOJ demands Apple and Google unmask over 100k users of car-tinkering app](https://macdailynews.com/2026/05/15/u-s-doj-demands-apple-and-google-unmask-over-100000-users-of-popular-car-tinkering-app-in-emissions-crackdown/)
 * [2026-05-15, 17:15:58](https://news.ycombinator.com/item?id=48151237) - [I designed a nibble-oriented CPU in Verilog to build a scientific calculator](https://github.com/gdevic/FPGA-Calculator)
 * [2026-05-15, 16:51:25](https://news.ycombinator.com/item?id=48150900) - [Bun Rust rewrite: \"codebase fails basic miri checks, allows for UB in safe rust\"](https://github.com/oven-sh/bun/issues/30719)
 * [2026-05-15, 16:15:36](https://news.ycombinator.com/item?id=48150431) - [Project Gutenberg – keeps getting better](https://www.gutenberg.org/)
@@ -25,11 +24,12 @@
 * [2026-05-14, 11:55:43](https://news.ycombinator.com/item?id=48134135) - [Research on mildew contamination affecting the sound quality of analog tapes](https://www.nature.com/articles/s40494-026-02592-7)
 * [2026-05-14, 07:17:16](https://news.ycombinator.com/item?id=48132106) - [The bird eye was pushed to an evolutionary extreme](https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/)
 * [2026-05-14, 02:37:22](https://news.ycombinator.com/item?id=48130468) - [Gaining control of every projector and camera on campus](https://www.edna.land/blogs/posts/scanning/)
+* [2026-05-13, 14:47:13](https://news.ycombinator.com/item?id=48122657) - [EMiX: Emulating Beyond Single-FPGA Limits](https://arxiv.org/abs/2604.27012)
 * [2026-05-13, 13:00:09](https://news.ycombinator.com/item?id=48121333) - [ESP-EEG is an affordable 8-channel biosensing board](https://www.autodidacts.io/cerelog-esp-eeg-affordable-openbci-like-board/)
-* [2026-05-13, 12:39:44](https://news.ycombinator.com/item?id=48121143) - [Matlab: Communications Toolbox](https://www.mathworks.com/products/communications.html)
 * [2026-05-13, 06:25:01](https://news.ycombinator.com/item?id=48118478) - [England Runestones](https://en.wikipedia.org/wiki/England_runestones)
 * [2026-05-12, 22:26:51](https://news.ycombinator.com/item?id=48115425) - [I Bought a “Junk” PSP From Japan](https://gardinerbryant.com/i-bought-a-junk-psp-from-japan-heres-how-it-went/)
 * [2026-05-12, 20:39:04](https://news.ycombinator.com/item?id=48114208) - [Ploopy Bean: a trackpoint for every computer](https://ploopy.co/shop/bean-pointing-stick/)
+* [2026-05-12, 18:17:37](https://news.ycombinator.com/item?id=48112129) - [Charity – Categorical programming language (1998)](https://github.com/mietek/charity-lang/blob/master/doc/README.md)
 
 ## [Archives](archives/index.md)
 

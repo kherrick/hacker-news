@@ -18,6 +18,7 @@
 * [2026-05-12, 20:16:26](https://news.ycombinator.com/item?id=48113895) - [How to make your text look futuristic](https://typesetinthefuture.com/2016/02/18/futuristic/)
 * [2026-05-12, 19:51:41](https://news.ycombinator.com/item?id=48113518) - [Beyond Semantic Similarity](https://arxiv.org/abs/2605.05242)
 * [2026-05-12, 19:45:02](https://news.ycombinator.com/item?id=48113425) - [Snowflake Postgres, Lakebase, HorizonDB: Picking the Lock-In You Want](https://thebuild.com/blog/2026/05/12/snowflake-postgres-lakebase-horizondb-picking-the-lock-in-you-want/)
+* [2026-05-12, 18:17:37](https://news.ycombinator.com/item?id=48112129) - [Charity – Categorical programming language (1998)](https://github.com/mietek/charity-lang/blob/master/doc/README.md)
 * [2026-05-12, 18:12:28](https://news.ycombinator.com/item?id=48112042) - [CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq](https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html)
 * [2026-05-12, 18:03:11](https://news.ycombinator.com/item?id=48111896) - [Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model](https://github.com/cactus-compute/needle)
 * [2026-05-12, 17:56:40](https://news.ycombinator.com/item?id=48111798) - [SQL: Incorrect by Construction](https://chreke.com/posts/sql-incorrect-by-construction)
