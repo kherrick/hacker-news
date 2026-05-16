@@ -1,12 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-05-15, 23:14:51](https://news.ycombinator.com/item?id=48155159) - [Spectre Programming Language](https://spectre-docs.pages.dev)
 * [2026-05-15, 22:23:38](https://news.ycombinator.com/item?id=48154711) - [How to Write to SSDs [pdf]](https://www.vldb.org/pvldb/vol19/p1469-lee.pdf)
 * [2026-05-15, 20:28:44](https://news.ycombinator.com/item?id=48153400) - [London Police Deploy Facial Recognition at Protest for First Time](https://reclaimthenet.org/london-police-deploy-facial-recognition-at-protest-for-first-time)
 * [2026-05-15, 20:26:47](https://news.ycombinator.com/item?id=48153379) - [I believe there are entire companies right now under AI psychosis](https://twitter.com/mitchellh/status/2055380239711457578)
-* [2026-05-15, 20:06:51](https://news.ycombinator.com/item?id=48153183) - [Palantir has hired more than 30 senior UK Government officials](https://www.thenational.scot/news/26055524.palantir-hired-30-senior-uk-government-officials/)
 * [2026-05-15, 20:03:17](https://news.ycombinator.com/item?id=48153142) - [Microscale Thermite Reaction](https://sciencedemonstrations.fas.harvard.edu/presentations/microscale-thermite-reaction)
 * [2026-05-15, 19:48:48](https://news.ycombinator.com/item?id=48152994) - [California bill would require patches or refunds when online games shut down](https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/)
-* [2026-05-15, 19:23:29](https://news.ycombinator.com/item?id=48152729) - [WinCE64 – Windows CE 2.11 for N64](https://github.com/ThroatyMumbo/WinCE64)
 * [2026-05-15, 19:07:08](https://news.ycombinator.com/item?id=48152553) - [ABC News has taken all FiveThirtyEight articles offline](https://twitter.com/baseballot/status/2055309076209492208)
 * [2026-05-15, 18:37:01](https://news.ycombinator.com/item?id=48152168) - [The Zulip Foundation](https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/)
 * [2026-05-15, 18:00:43](https://news.ycombinator.com/item?id=48151767) - [Waymo updates 3,800 robotaxis after they 'drive into standing water'](https://www.cnbc.com/2026/05/12/waymo-recalls-3800-robotaxis-after-able-drive-into-standing-water.html)
@@ -28,7 +27,8 @@
 * [2026-05-15, 08:45:36](https://news.ycombinator.com/item?id=48146129) - [Explore Wikipedia Like a Windows XP Desktop](https://explorer.samismith.com/)
 * [2026-05-14, 15:35:14](https://news.ycombinator.com/item?id=48136981) - [Show HN: Watch a neural net learn to play Snake](https://ppo.gradexp.xyz/)
 * [2026-05-14, 14:32:46](https://news.ycombinator.com/item?id=48136000) - [Naturally Occurring Quasicrystals](https://johncarlosbaez.wordpress.com/2026/05/14/naturally-occurring-quasicrystals/)
-* [2026-05-13, 19:17:10](https://news.ycombinator.com/item?id=48126187) - [The day the Pintupi Nine entered the modern world](https://www.bbc.com/news/magazine-30500591)
+* [2026-05-13, 19:17:10](https://news.ycombinator.com/item?id=48126187) - [The day the Pintupi Nine entered the modern world (2014)](https://www.bbc.com/news/magazine-30500591)
+* [2026-05-13, 19:02:52](https://news.ycombinator.com/item?id=48126014) - [A SQL-Inspired Query Language Designed for Event Sourcing (2025)](https://yoeight.github.io/blog/2025/12/21/EventQL_A_SQL_Inspired_Query_Language_Designed_For_Event_Sourcing.html)
 * [2026-05-13, 14:13:12](https://news.ycombinator.com/item?id=48122172) - [The nuclear-physics infrastructure behind PET scans](https://www.lanl.gov/media/publications/1663/proton-power-for-public-health)
 
 ## [Archives](archives/index.md)

@@ -12,6 +12,7 @@
 * [2026-05-13, 19:22:14](https://news.ycombinator.com/item?id=48126241) - [EditLens: Quantifying the extent of AI editing in text (2025)](https://arxiv.org/abs/2510.03154)
 * [2026-05-13, 19:17:10](https://news.ycombinator.com/item?id=48126187) - [The day the Pintupi Nine entered the modern world](https://www.bbc.com/news/magazine-30500591)
 * [2026-05-13, 19:14:47](https://news.ycombinator.com/item?id=48126156) - [Making the news available at no cost is a victory](https://www.sltrib.com/opinion/commentary/2026/05/12/just-days-tribune-reporting/)
+* [2026-05-13, 19:02:52](https://news.ycombinator.com/item?id=48126014) - [A SQL-Inspired Query Language Designed for Event Sourcing (2025)](https://yoeight.github.io/blog/2025/12/21/EventQL_A_SQL_Inspired_Query_Language_Designed_For_Event_Sourcing.html)
 * [2026-05-13, 19:01:54](https://news.ycombinator.com/item?id=48126000) - [\"Not Medically Necessary\": Helping America's Health Insurers Deny Coverage](https://www.propublica.org/article/evicore-health-insurance-denials-cigna-unitedhealthcare-aetna-prior-authorizations)
 * [2026-05-13, 18:46:51](https://news.ycombinator.com/item?id=48125801) - [Altman forced to confront claims at OpenAI trial that he's a prolific liar](https://arstechnica.com/tech-policy/2026/05/altman-forced-to-confront-claims-at-openai-trial-that-hes-a-prolific-liar/)
 * [2026-05-13, 18:30:51](https://news.ycombinator.com/item?id=48125617) - [MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble](https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/)
