@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-05-16, 13:42:34",
+      "https://news.ycombinator.com/item?id=48160211"
+    ],
+    [
+      "Accelerate",
+      "https://github.com/AccelerateHS/accelerate"
+    ]
+  ],
+  [
+    [
+      "2026-05-16, 12:49:07",
+      "https://news.ycombinator.com/item?id=48159790"
+    ],
+    [
+      "My Favorite Bugs: Invalid Surrogate Pairs",
+      "https://george.mand.is/2026/05/my-favorite-bugs-invalid-surrogate-pairs/"
+    ]
+  ],
+  [
+    [
+      "2026-05-16, 12:28:49",
+      "https://news.ycombinator.com/item?id=48159604"
+    ],
+    [
+      "The End of Refugee Resettlement",
+      "https://www.newyorker.com/news/letter-from-jordan/the-end-of-refugee-resettlement"
+    ]
+  ],
+  [
+    [
       "2026-05-16, 12:06:21",
       "https://news.ycombinator.com/item?id=48159445"
     ],
@@ -21,12 +51,12 @@
   ],
   [
     [
-      "2026-05-16, 11:43:45",
-      "https://news.ycombinator.com/item?id=48159282"
+      "2026-05-16, 11:53:09",
+      "https://news.ycombinator.com/item?id=48159354"
     ],
     [
-      "Europe built sovereign clouds to escape US control. Forgot about the processors",
-      "https://www.theregister.com/systems/2026/05/16/europe-built-sovereign-clouds-to-escape-us-control-then-forgot-about-the-processors/5237735"
+      "Greek Alphabet Cards",
+      "https://labs.randomquark.com/alphabet_cards/"
     ]
   ],
   [
@@ -37,16 +67,6 @@
     [
       "Accelerando (2005)",
       "https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-16, 11:34:04",
-      "https://news.ycombinator.com/item?id=48159227"
-    ],
-    [
-      "OpenClaw Creator Spent $1.3M on OpenAI Tokens in 30 Days",
-      "https://twitter.com/steipete/status/2055346265869721905"
     ]
   ],
   [
@@ -81,6 +101,16 @@
   ],
   [
     [
+      "2026-05-16, 09:14:26",
+      "https://news.ycombinator.com/item?id=48158400"
+    ],
+    [
+      "Moving away from Tailwind, and learning to structure my CSS",
+      "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/"
+    ]
+  ],
+  [
+    [
       "2026-05-16, 08:34:28",
       "https://news.ycombinator.com/item?id=48158130"
     ],
@@ -97,16 +127,6 @@
     [
       "Frontier AI has broken the open CTF format",
       "https://kabir.au/blog/the-ctf-scene-is-dead"
-    ]
-  ],
-  [
-    [
-      "2026-05-16, 00:18:03",
-      "https://news.ycombinator.com/item?id=48155570"
-    ],
-    [
-      "Show HN: Epiq – Distributed Git based issue tracker TUI",
-      "https://ljtn.github.io/epiq/"
     ]
   ],
   [
@@ -147,16 +167,6 @@
     [
       "I believe there are entire companies right now under AI psychosis",
       "https://twitter.com/mitchellh/status/2055380239711457578"
-    ]
-  ],
-  [
-    [
-      "2026-05-15, 19:48:48",
-      "https://news.ycombinator.com/item?id=48152994"
-    ],
-    [
-      "Bill to block publishers from killing online games advances in California",
-      "https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/"
     ]
   ],
   [
@@ -211,6 +221,16 @@
   ],
   [
     [
+      "2026-05-14, 12:32:43",
+      "https://news.ycombinator.com/item?id=48134472"
+    ],
+    [
+      "Points are a weird and inconsistent unit of measure",
+      "https://buttondown.com/hillelwayne/archive/points-are-a-weird-and-inconsistent-unit-of/"
+    ]
+  ],
+  [
+    [
       "2026-05-14, 07:17:16",
       "https://news.ycombinator.com/item?id=48132106"
     ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2026-05-14, 06:35:10",
-      "https://news.ycombinator.com/item?id=48131865"
-    ],
-    [
-      "A Tiny E Reader",
-      "https://nthp.me/blog/2026/a-tiny-e-reader/"
-    ]
-  ],
-  [
-    [
       "2026-05-14, 02:37:22",
       "https://news.ycombinator.com/item?id=48130468"
     ],
     [
       "Gaining control of every projector and camera on campus",
       "https://www.edna.land/blogs/posts/scanning/"
-    ]
-  ],
-  [
-    [
-      "2026-05-13, 14:47:13",
-      "https://news.ycombinator.com/item?id=48122657"
-    ],
-    [
-      "EMiX: Emulating Beyond Single-FPGA Limits",
-      "https://arxiv.org/abs/2604.27012"
     ]
   ],
   [
