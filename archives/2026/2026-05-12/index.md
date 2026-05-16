@@ -31,6 +31,7 @@
 * [2026-05-12, 17:16:59](https://news.ycombinator.com/item?id=48111243) - [Is this why science advances one funeral at a time?](https://nautil.us/is-this-why-science-advances-one-funeral-at-a-time-1280650)
 * [2026-05-12, 17:10:22](https://news.ycombinator.com/item?id=48111143) - [Show HN: Agentic interface for mainframes and COBOL](https://www.hypercubic.ai/hopper)
 * [2026-05-12, 16:50:59](https://news.ycombinator.com/item?id=48110858) - [Testing UPS Output Waveforms](https://www.lttlabs.com/articles/2026/05/12/ups-exploration)
+* [2026-05-12, 16:47:38](https://news.ycombinator.com/item?id=48110804) - [Nearly 50 Years Later, WKRP in Cincinnati Becomes a Real Radio Station](https://www.openculture.com/2026/05/nearly-50-years-later-wkrp-in-cincinnati-becomes-a-real-radio-station.html)
 * [2026-05-12, 16:32:54](https://news.ycombinator.com/item?id=48110593) - [Show HN: Gigacatalyst – Extend your SaaS with an embedded AI builder](https://news.ycombinator.com/item?id=48110593)
 * [2026-05-12, 16:29:21](https://news.ycombinator.com/item?id=48110529) - [Amazon employees are \"tokenmaxxing\" due to pressure to use AI tools](https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/)
 * [2026-05-12, 15:49:47](https://news.ycombinator.com/item?id=48110021) - [eBay Rejects GameStop's $56B Takeover as Not Credible](https://www.bloomberg.com/news/articles/2026-05-12/ebay-rejects-gamestop-s-56-billion-takeover-as-not-credible)
