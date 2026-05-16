@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-05-16](index.md)
 
+* [2026-05-16, 19:15:40](https://news.ycombinator.com/item?id=48162922) - [Why is Charlie Stross's site named Antipope?](https://www.antipope.org/charlie/old/antipope.html)
+* [2026-05-16, 19:10:38](https://news.ycombinator.com/item?id=48162882) - [Japan runs out of robot wolves in fight against bears](https://www.popsci.com/environment/japan-robot-wolf-army/)
+* [2026-05-16, 17:59:45](https://news.ycombinator.com/item?id=48162354) - [US Is Starting to See Heavy Job Losses in Roles Exposed to AI](https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai)
 * [2026-05-16, 17:12:58](https://news.ycombinator.com/item?id=48161997) - [Kioxia and Dell cram 10 PB into slim 2RU server](https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574)
 * [2026-05-16, 17:00:41](https://news.ycombinator.com/item?id=48161881) - [Show HN: Rocksky – Music scrobbling and discovery on the AT Protocol](https://tangled.org/rocksky.app/rocksky)
 * [2026-05-16, 16:58:26](https://news.ycombinator.com/item?id=48161861) - [You don't know HTML Lists](https://blog.frankmtaylor.com/2026/05/13/you-dont-know-html-lists/)

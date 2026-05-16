@@ -40,6 +40,7 @@
 * [2026-05-12, 15:45:54](https://news.ycombinator.com/item?id=48109970) - [The Future of Obsidian Plugins](https://obsidian.md/blog/future-of-plugins/)
 * [2026-05-12, 15:45:20](https://news.ycombinator.com/item?id=48109962) - [Launch HN: Voker (YC S24) – Analytics for AI Agents](https://voker.ai)
 * [2026-05-12, 15:30:05](https://news.ycombinator.com/item?id=48109772) - [Heritability of human life span is ~50% when heritability is redefined](https://dynomight.net/lifespan/)
+* [2026-05-12, 15:28:31](https://news.ycombinator.com/item?id=48109756) - [A molecule with half-Möbius topology](https://www.science.org/doi/10.1126/science.aea3321)
 * [2026-05-12, 15:23:58](https://news.ycombinator.com/item?id=48109677) - [Wrap Go binaries in Python wheels](https://github.com/simonw/go-to-wheel)
 * [2026-05-12, 15:08:40](https://news.ycombinator.com/item?id=48109460) - [Why senior developers fail to communicate their expertise](https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise)
 * [2026-05-12, 14:57:25](https://news.ycombinator.com/item?id=48109270) - [Bare-metal STM32: vector table, linker script, and startup code from scratch](https://lmilz.dev/blog/2026/04/19/Embedded-Hello-World.html)

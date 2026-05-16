@@ -81,4 +81,5 @@
 * [2026-05-14, 01:15:24](https://news.ycombinator.com/item?id=48129953) - [delta time](https://www.deltatime.life/)
 * [2026-05-14, 01:13:02](https://news.ycombinator.com/item?id=48129934) - [Avoiding and reducing microplastic false positives from dry glove contact](https://pubs.rsc.org/en/content/articlelanding/2026/ay/d5ay01801c)
 * [2026-05-14, 00:41:29](https://news.ycombinator.com/item?id=48129694) - [Scorched Earth 2000 is back](http://www.scorch2000.com/web/)
+* [2026-05-14, 00:30:55](https://news.ycombinator.com/item?id=48129593) - [Fame! A Misunderstanding: A new translation of Albert Camus's complete notebooks](https://lareviewofbooks.org/article/albert-camus-complete-notebooks-ryan-bloom-existentialism-absurd/)
 * [2026-05-14, 00:27:20](https://news.ycombinator.com/item?id=48129561) - [The Other Half of AI Safety](https://personalaisafety.com/p/the-other-half-of-ai-safety)
