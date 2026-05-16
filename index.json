@@ -1,12 +1,72 @@
 [
   [
     [
-      "2026-05-15, 23:14:51",
-      "https://news.ycombinator.com/item?id=48155159"
+      "2026-05-16, 00:36:02",
+      "https://news.ycombinator.com/item?id=48155690"
     ],
     [
-      "Spectre Programming Language",
-      "https://spectre-docs.pages.dev"
+      "'No way to prevent this,' says only package manager where this regularly happens",
+      "https://kevinpatel.xyz/posts/no-way-to-prevent-this/"
+    ]
+  ],
+  [
+    [
+      "2026-05-16, 00:35:01",
+      "https://news.ycombinator.com/item?id=48155678"
+    ],
+    [
+      "I broke AppLovin's mediation cipher protocol",
+      "https://www.buchodi.com/i-broke-applovins-mediation-cipher-protocol/"
+    ]
+  ],
+  [
+    [
+      "2026-05-16, 00:18:03",
+      "https://news.ycombinator.com/item?id=48155570"
+    ],
+    [
+      "Show HN: Epiq – Distributed Git based issue tracker TUI",
+      "https://ljtn.github.io/epiq/"
+    ]
+  ],
+  [
+    [
+      "2026-05-16, 00:15:53",
+      "https://news.ycombinator.com/item?id=48155555"
+    ],
+    [
+      "NYT and Vaping: How to Lie by Saying Only True Things",
+      "https://gwern.net/vaping"
+    ]
+  ],
+  [
+    [
+      "2026-05-15, 23:37:32",
+      "https://news.ycombinator.com/item?id=48155324"
+    ],
+    [
+      "The main thing about P2P meth is that there's so much of it (2021)",
+      "https://dynomight.net/p2p-meth/"
+    ]
+  ],
+  [
+    [
+      "2026-05-15, 23:33:32",
+      "https://news.ycombinator.com/item?id=48155297"
+    ],
+    [
+      "Erlang/OTP 29.0",
+      "https://www.erlang.org/news/188"
+    ]
+  ],
+  [
+    [
+      "2026-05-15, 23:22:30",
+      "https://news.ycombinator.com/item?id=48155212"
+    ],
+    [
+      "SQL patterns I use to catch transaction fraud",
+      "https://analytics.fixelsmith.com/posts/sql-fraud-patterns/"
     ]
   ],
   [
@@ -21,32 +81,12 @@
   ],
   [
     [
-      "2026-05-15, 20:28:44",
-      "https://news.ycombinator.com/item?id=48153400"
-    ],
-    [
-      "London Police Deploy Facial Recognition at Protest for First Time",
-      "https://reclaimthenet.org/london-police-deploy-facial-recognition-at-protest-for-first-time"
-    ]
-  ],
-  [
-    [
       "2026-05-15, 20:26:47",
       "https://news.ycombinator.com/item?id=48153379"
     ],
     [
       "I believe there are entire companies right now under AI psychosis",
       "https://twitter.com/mitchellh/status/2055380239711457578"
-    ]
-  ],
-  [
-    [
-      "2026-05-15, 20:03:17",
-      "https://news.ycombinator.com/item?id=48153142"
-    ],
-    [
-      "Microscale Thermite Reaction",
-      "https://sciencedemonstrations.fas.harvard.edu/presentations/microscale-thermite-reaction"
     ]
   ],
   [
@@ -91,32 +131,12 @@
   ],
   [
     [
-      "2026-05-15, 18:00:03",
-      "https://news.ycombinator.com/item?id=48151761"
-    ],
-    [
-      "Building a UMatrix Replacement",
-      "https://lock.cmpxchg8b.com/umatrix.html"
-    ]
-  ],
-  [
-    [
       "2026-05-15, 17:28:24",
       "https://news.ycombinator.com/item?id=48151383"
     ],
     [
       "U.S. DOJ demands Apple and Google unmask over 100k users of car-tinkering app",
       "https://macdailynews.com/2026/05/15/u-s-doj-demands-apple-and-google-unmask-over-100000-users-of-popular-car-tinkering-app-in-emissions-crackdown/"
-    ]
-  ],
-  [
-    [
-      "2026-05-15, 17:22:53",
-      "https://news.ycombinator.com/item?id=48151317"
-    ],
-    [
-      "Feedr v0.8.0 – a TUI RSS reader, now read the full article from your terminal",
-      "https://github.com/bahdotsh/feedr"
     ]
   ],
   [
@@ -151,22 +171,22 @@
   ],
   [
     [
-      "2026-05-15, 15:45:11",
-      "https://news.ycombinator.com/item?id=48150097"
-    ],
-    [
-      "Zenith: a live local-first fixed viewport planetarium",
-      "https://smorgasb.org/zenith-tech/"
-    ]
-  ],
-  [
-    [
       "2026-05-15, 15:42:37",
       "https://news.ycombinator.com/item?id=48150069"
     ],
     [
       "Image-blaster: Creates 3D environments, SFX, and meshes from a single image",
       "https://github.com/neilsonnn/image-blaster"
+    ]
+  ],
+  [
+    [
+      "2026-05-15, 14:39:51",
+      "https://news.ycombinator.com/item?id=48149259"
+    ],
+    [
+      "Additive Blending on the Nintendo 64",
+      "https://phoboslab.org/log/2026/05/n64-additive-blending"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2026-05-15, 13:25:53",
-      "https://news.ycombinator.com/item?id=48148309"
-    ],
-    [
-      "High dimensional geometry is transforming the MRI industry (2017) [pdf]",
-      "https://www.ams.org/government/DonohoPresentation06-28-17Final.pdf"
-    ]
-  ],
-  [
-    [
       "2026-05-15, 12:07:55",
       "https://news.ycombinator.com/item?id=48147603"
     ],
@@ -211,42 +221,12 @@
   ],
   [
     [
-      "2026-05-15, 10:55:51",
-      "https://news.ycombinator.com/item?id=48147058"
-    ],
-    [
-      "O(x)Caml in Space",
-      "https://gazagnaire.org/blog/2026-05-14-borealis.html"
-    ]
-  ],
-  [
-    [
       "2026-05-15, 10:51:13",
       "https://news.ycombinator.com/item?id=48147021"
     ],
     [
       "The sigmoids won't save you",
       "https://www.astralcodexten.com/p/the-sigmoids-wont-save-you"
-    ]
-  ],
-  [
-    [
-      "2026-05-15, 10:34:58",
-      "https://news.ycombinator.com/item?id=48146908"
-    ],
-    [
-      "Steve Jobs in Exile – New book on Steve Jobs’s years at NeXT Computer",
-      "https://spectrum.ieee.org/steve-jobs-next-computer"
-    ]
-  ],
-  [
-    [
-      "2026-05-15, 08:45:36",
-      "https://news.ycombinator.com/item?id=48146129"
-    ],
-    [
-      "Explore Wikipedia Like a Windows XP Desktop",
-      "https://explorer.samismith.com/"
     ]
   ],
   [
@@ -271,12 +251,12 @@
   ],
   [
     [
-      "2026-05-13, 19:17:10",
-      "https://news.ycombinator.com/item?id=48126187"
+      "2026-05-14, 07:17:16",
+      "https://news.ycombinator.com/item?id=48132106"
     ],
     [
-      "The day the Pintupi Nine entered the modern world (2014)",
-      "https://www.bbc.com/news/magazine-30500591"
+      "The bird eye was pushed to an evolutionary extreme",
+      "https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/"
     ]
   ],
   [
@@ -291,12 +271,32 @@
   ],
   [
     [
-      "2026-05-13, 14:13:12",
-      "https://news.ycombinator.com/item?id=48122172"
+      "2026-05-13, 13:00:09",
+      "https://news.ycombinator.com/item?id=48121333"
     ],
     [
-      "The nuclear-physics infrastructure behind PET scans",
-      "https://www.lanl.gov/media/publications/1663/proton-power-for-public-health"
+      "ESP-EEG is an affordable 8-channel biosensing board",
+      "https://www.autodidacts.io/cerelog-esp-eeg-affordable-openbci-like-board/"
+    ]
+  ],
+  [
+    [
+      "2026-05-12, 22:26:51",
+      "https://news.ycombinator.com/item?id=48115425"
+    ],
+    [
+      "I Bought a “Junk” PSP From Japan",
+      "https://gardinerbryant.com/i-bought-a-junk-psp-from-japan-heres-how-it-went/"
+    ]
+  ],
+  [
+    [
+      "2026-05-12, 20:39:04",
+      "https://news.ycombinator.com/item?id=48114208"
+    ],
+    [
+      "Ploopy Bean: a trackpoint for every computer",
+      "https://ploopy.co/shop/bean-pointing-stick/"
     ]
   ]
 ]
