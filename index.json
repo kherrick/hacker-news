@@ -1,12 +1,42 @@
 [
   [
     [
-      "2026-05-16, 08:30:51",
-      "https://news.ycombinator.com/item?id=48158110"
+      "2026-05-16, 09:50:10",
+      "https://news.ycombinator.com/item?id=48158606"
     ],
     [
-      "Someone Shared a Real Monet Painting as AI and Asked for Critiques",
-      "https://petapixel.com/2026/05/14/someone-shared-a-real-monet-painting-as-ai-and-asked-for-critiques/"
+      "Futhark by Example",
+      "https://futhark-lang.org/examples.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-16, 09:30:06",
+      "https://news.ycombinator.com/item?id=48158506"
+    ],
+    [
+      "Δ-Mem: Efficient Online Memory for Large Language Models",
+      "https://arxiv.org/abs/2605.12357"
+    ]
+  ],
+  [
+    [
+      "2026-05-16, 08:34:28",
+      "https://news.ycombinator.com/item?id=48158130"
+    ],
+    [
+      "Where to buy a non-Apple, non-Google smartphone",
+      "https://www.theregister.com/on-prem/2026/05/01/where-to-buy-a-non-apple-non-google-smartphone/5219681"
+    ]
+  ],
+  [
+    [
+      "2026-05-16, 08:25:17",
+      "https://news.ycombinator.com/item?id=48158065"
+    ],
+    [
+      "We've made the world too complicated",
+      "https://user8.bearblog.dev/the-world-is-too-complicated/"
     ]
   ],
   [
@@ -37,16 +67,6 @@
     [
       "The main thing about P2P meth is that there's so much of it (2021)",
       "https://dynomight.net/p2p-meth/"
-    ]
-  ],
-  [
-    [
-      "2026-05-15, 23:33:32",
-      "https://news.ycombinator.com/item?id=48155297"
-    ],
-    [
-      "Erlang/OTP 29.0",
-      "https://www.erlang.org/news/188"
     ]
   ],
   [
@@ -101,32 +121,12 @@
   ],
   [
     [
-      "2026-05-15, 18:37:01",
-      "https://news.ycombinator.com/item?id=48152168"
-    ],
-    [
-      "The Zulip Foundation",
-      "https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/"
-    ]
-  ],
-  [
-    [
       "2026-05-15, 17:15:58",
       "https://news.ycombinator.com/item?id=48151237"
     ],
     [
       "I designed a nibble-oriented CPU in Verilog to build a scientific calculator",
       "https://github.com/gdevic/FPGA-Calculator"
-    ]
-  ],
-  [
-    [
-      "2026-05-15, 16:51:25",
-      "https://news.ycombinator.com/item?id=48150900"
-    ],
-    [
-      "Bun Rust rewrite: \"codebase fails basic miri checks, allows for UB in safe rust\"",
-      "https://github.com/oven-sh/bun/issues/30719"
     ]
   ],
   [
@@ -157,16 +157,6 @@
     [
       "Additive Blending on the Nintendo 64",
       "https://phoboslab.org/log/2026/05/n64-additive-blending"
-    ]
-  ],
-  [
-    [
-      "2026-05-15, 14:02:36",
-      "https://news.ycombinator.com/item?id=48148726"
-    ],
-    [
-      "ASCII by Jason Scott",
-      "https://ascii.textfiles.com/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Charity – Categorical programming language (1998)",
       "https://github.com/mietek/charity-lang/blob/master/doc/README.md"
+    ]
+  ],
+  [
+    [
+      "2026-05-12, 16:47:38",
+      "https://news.ycombinator.com/item?id=48110804"
+    ],
+    [
+      "Nearly 50 Years Later, WKRP in Cincinnati Becomes a Real Radio Station",
+      "https://www.openculture.com/2026/05/nearly-50-years-later-wkrp-in-cincinnati-becomes-a-real-radio-station.html"
     ]
   ]
 ]
