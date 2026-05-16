@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-16](index.md)
 
+* [2026-05-16, 15:12:17](https://news.ycombinator.com/item?id=48160914) - [How an Australian Teen Team Is Making Radio Astronomy Affordable for Schools](https://mag.openrockets.com/p/how-an-australian-teen-team-is-making-radio-astronomy-affordable-for-rural-schools-4894opuisyhfdisubgi/?b=2)
 * [2026-05-16, 14:58:16](https://news.ycombinator.com/item?id=48160807) - [DeepSeek-V4-Flash means LLM steering is interesting again](https://www.seangoedecke.com/steering-vectors/)
 * [2026-05-16, 13:42:34](https://news.ycombinator.com/item?id=48160211) - [Accelerate](https://github.com/AccelerateHS/accelerate)
 * [2026-05-16, 12:49:07](https://news.ycombinator.com/item?id=48159790) - [My Favorite Bugs: Invalid Surrogate Pairs](https://george.mand.is/2026/05/my-favorite-bugs-invalid-surrogate-pairs/)
