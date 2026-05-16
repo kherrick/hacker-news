@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2026-05-16, 00:35:01",
-      "https://news.ycombinator.com/item?id=48155678"
-    ],
-    [
-      "I broke AppLovin's mediation cipher protocol",
-      "https://www.buchodi.com/i-broke-applovins-mediation-cipher-protocol/"
-    ]
-  ],
-  [
-    [
       "2026-05-16, 00:18:03",
       "https://news.ycombinator.com/item?id=48155570"
     ],
@@ -35,7 +25,7 @@
       "https://news.ycombinator.com/item?id=48155555"
     ],
     [
-      "NYT and Vaping: How to Lie by Saying Only True Things",
+      "NYT and Vaping: How to Lie by Saying Only True Things (2022)",
       "https://gwern.net/vaping"
     ]
   ],
@@ -67,6 +57,16 @@
     [
       "SQL patterns I use to catch transaction fraud",
       "https://analytics.fixelsmith.com/posts/sql-fraud-patterns/"
+    ]
+  ],
+  [
+    [
+      "2026-05-15, 22:38:58",
+      "https://news.ycombinator.com/item?id=48154865"
+    ],
+    [
+      "Orthrus-Qwen3: up to 7.8×tokens/forward on Qwen3, identical output distribution",
+      "https://github.com/chiennv2000/orthrus"
     ]
   ],
   [
@@ -147,16 +147,6 @@
     [
       "I designed a nibble-oriented CPU in Verilog to build a scientific calculator",
       "https://github.com/gdevic/FPGA-Calculator"
-    ]
-  ],
-  [
-    [
-      "2026-05-15, 17:01:15",
-      "https://news.ycombinator.com/item?id=48151034"
-    ],
-    [
-      "Hightouch (YC S19) Is Hiring",
-      "https://hightouch.com/careers"
     ]
   ],
   [
@@ -251,6 +241,16 @@
   ],
   [
     [
+      "2026-05-14, 11:55:43",
+      "https://news.ycombinator.com/item?id=48134135"
+    ],
+    [
+      "Research on mildew contamination affecting the sound quality of analog tapes",
+      "https://www.nature.com/articles/s40494-026-02592-7"
+    ]
+  ],
+  [
+    [
       "2026-05-14, 07:17:16",
       "https://news.ycombinator.com/item?id=48132106"
     ],
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2026-05-13, 19:02:52",
-      "https://news.ycombinator.com/item?id=48126014"
-    ],
-    [
-      "A SQL-Inspired Query Language Designed for Event Sourcing (2025)",
-      "https://yoeight.github.io/blog/2025/12/21/EventQL_A_SQL_Inspired_Query_Language_Designed_For_Event_Sourcing.html"
-    ]
-  ],
-  [
-    [
       "2026-05-13, 13:00:09",
       "https://news.ycombinator.com/item?id=48121333"
     ],
     [
       "ESP-EEG is an affordable 8-channel biosensing board",
       "https://www.autodidacts.io/cerelog-esp-eeg-affordable-openbci-like-board/"
+    ]
+  ],
+  [
+    [
+      "2026-05-13, 06:25:01",
+      "https://news.ycombinator.com/item?id=48118478"
+    ],
+    [
+      "England Runestones",
+      "https://en.wikipedia.org/wiki/England_runestones"
     ]
   ],
   [
