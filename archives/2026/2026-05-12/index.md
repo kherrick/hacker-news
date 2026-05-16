@@ -6,6 +6,7 @@
 
 * [2026-05-12, 23:46:28](https://news.ycombinator.com/item?id=48116064) - [When \"idle\" isn't idle: how a Linux kernel optimization became a QUIC bug](https://blog.cloudflare.com/quic-death-spiral-fix/)
 * [2026-05-12, 23:13:01](https://news.ycombinator.com/item?id=48115823) - [Kraftwerk's radical 1976 track](https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem)
+* [2026-05-12, 23:12:16](https://news.ycombinator.com/item?id=48115816) - [Clusters become personal (like PCs did)](https://aranya.tech/blog/arrival-of-the-personal-cluster)
 * [2026-05-12, 23:11:40](https://news.ycombinator.com/item?id=48115807) - [Tell NYT, Atlantic, USA Today to keep Wayback Machine](https://www.savethearchive.com/newsleaders/)
 * [2026-05-12, 22:28:07](https://news.ycombinator.com/item?id=48115438) - [Twin brothers wipe 96 government databases minutes after being fired](https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job/)
 * [2026-05-12, 22:26:51](https://news.ycombinator.com/item?id=48115425) - [I Bought a “Junk” PSP From Japan](https://gardinerbryant.com/i-bought-a-junk-psp-from-japan-heres-how-it-went/)
