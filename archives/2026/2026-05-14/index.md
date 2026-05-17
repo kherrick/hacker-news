@@ -22,6 +22,7 @@
 * [2026-05-14, 20:41:48](https://news.ycombinator.com/item?id=48140953) - [Tesla Wall Connector bootloader bypasses the firmware downgrade ratchet](https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing)
 * [2026-05-14, 20:39:12](https://news.ycombinator.com/item?id=48140922) - [New arXiv policy: 1-year ban for hallucinated references](https://twitter.com/tdietterich/status/2055000956144935055)
 * [2026-05-14, 20:22:35](https://news.ycombinator.com/item?id=48140730) - [Amazonbot is finally respecting robots.txt](https://xeiaso.net/notes/2026/amazonbot-respecting-robots-txt/)
+* [2026-05-14, 20:08:12](https://news.ycombinator.com/item?id=48140556) - [Hindenburg's Smoking Room](https://www.airships.net/hindenburg-smoking-room/)
 * [2026-05-14, 20:06:53](https://news.ycombinator.com/item?id=48140541) - [RISC-V Router](https://router.start9.com/)
 * [2026-05-14, 20:06:14](https://news.ycombinator.com/item?id=48140529) - [Work with Codex from Anywhere](https://openai.com/index/work-with-codex-from-anywhere/)
 * [2026-05-14, 19:49:56](https://news.ycombinator.com/item?id=48140297) - [Illusions of Understanding in the Sciences](https://link.springer.com/article/10.1007/s42113-026-00271-1)
