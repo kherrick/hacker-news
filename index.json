@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-05-17, 18:42:35",
+      "https://news.ycombinator.com/item?id=48171906"
+    ],
+    [
+      "Scientists \"bottle the sun\" with a liquid battery that stores solar energy",
+      "https://www.sciencedaily.com/releases/2026/05/260513221821.htm"
+    ]
+  ],
+  [
+    [
       "2026-05-17, 17:29:38",
       "https://news.ycombinator.com/item?id=48171015"
     ],
@@ -35,18 +45,28 @@
       "https://news.ycombinator.com/item?id=48170798"
     ],
     [
-      "Americans Are Smashing Flock Cameras",
+      "At least 25 Flock cameras have been destroyed in five states since April 2025",
       "https://stateofsurveillance.org/news/flock-cameras-destroyed-nationwide-ice-backlash-2026/"
     ]
   ],
   [
     [
-      "2026-05-17, 16:04:28",
-      "https://news.ycombinator.com/item?id=48170122"
+      "2026-05-17, 16:15:01",
+      "https://news.ycombinator.com/item?id=48170247"
     ],
     [
-      "Mistral's CEO: Europe has 2 years to stop becoming America's AI 'vassal state'",
-      "https://www.businessinsider.com/mistral-ceo-warns-europe-2-years-avoid-us-ai-dependence-2026-5"
+      "Dontsurveil.me",
+      "https://opencivics-labs.github.io/dontsurveil.me/c22.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-17, 16:04:08",
+      "https://news.ycombinator.com/item?id=48170118"
+    ],
+    [
+      "Don't Outsource the Learning",
+      "https://addyosmani.com/blog/dont-outsource-learning/"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2026-05-17, 12:03:04",
-      "https://news.ycombinator.com/item?id=48168159"
-    ],
-    [
-      "Scientists believe ibogaine can help veterans overcome PTSD",
-      "https://www.bbc.com/future/article/20260514-how-hallucinogenic-ibogaine-helps-veterans-overcome-ptsd"
-    ]
-  ],
-  [
-    [
       "2026-05-17, 11:49:46",
       "https://news.ycombinator.com/item?id=48168058"
     ],
@@ -231,12 +241,12 @@
   ],
   [
     [
-      "2026-05-15, 23:18:39",
-      "https://news.ycombinator.com/item?id=48155185"
+      "2026-05-16, 03:34:26",
+      "https://news.ycombinator.com/item?id=48156596"
     ],
     [
-      "How Diamonds Are Made",
-      "https://diamond.jaydip.me/"
+      "Schanuel's Conjecture and the Semantics of Triton's FPSan",
+      "https://cp4space.hatsya.com/2026/05/03/schanuels-conjecture-and-the-semantics-of-fpsan/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Colossus: The Forbin Project",
       "https://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project"
-    ]
-  ],
-  [
-    [
-      "2026-05-14, 21:15:35",
-      "https://news.ycombinator.com/item?id=48141354"
-    ],
-    [
-      "Mado: Fast Markdown linter written in Rust",
-      "https://github.com/akiomik/mado"
     ]
   ],
   [
