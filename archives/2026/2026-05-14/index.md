@@ -25,6 +25,7 @@
 * [2026-05-14, 20:08:12](https://news.ycombinator.com/item?id=48140556) - [Hindenburg's Smoking Room](https://www.airships.net/hindenburg-smoking-room/)
 * [2026-05-14, 20:06:53](https://news.ycombinator.com/item?id=48140541) - [RISC-V Router](https://router.start9.com/)
 * [2026-05-14, 20:06:14](https://news.ycombinator.com/item?id=48140529) - [Work with Codex from Anywhere](https://openai.com/index/work-with-codex-from-anywhere/)
+* [2026-05-14, 19:56:05](https://news.ycombinator.com/item?id=48140368) - [Multi-Species Canopy Latrines in Costa Rican Cloud Forests](https://onlinelibrary.wiley.com/doi/10.1002/ece3.72964)
 * [2026-05-14, 19:49:56](https://news.ycombinator.com/item?id=48140297) - [Illusions of Understanding in the Sciences](https://link.springer.com/article/10.1007/s42113-026-00271-1)
 * [2026-05-14, 19:16:02](https://news.ycombinator.com/item?id=48139912) - [Germany's Sovereign Tech Fund Backs KDE with €1.3M](https://www.theregister.com/oses/2026/05/14/kde-bags-13m-as-europe-realizes-it-might-need-an-os-of-its-own/5240562)
 * [2026-05-14, 19:07:12](https://news.ycombinator.com/item?id=48139775) - [Green Card Holders Targeted for Deportation by New 'Removal Apparatus'](https://www.nytimes.com/2026/05/14/us/politics/green-cards-immigration-deportation-trump.html)

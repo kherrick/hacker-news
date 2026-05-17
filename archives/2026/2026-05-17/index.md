@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-17](index.md)
 
+* [2026-05-17, 19:39:10](https://news.ycombinator.com/item?id=48172505) - [VoIP brings back old-fashioned pay phones to rural Vermont](https://spectrum.ieee.org/payphone-voip)
 * [2026-05-17, 18:42:35](https://news.ycombinator.com/item?id=48171906) - [Scientists \"bottle the sun\" with a liquid battery that stores solar energy](https://www.sciencedaily.com/releases/2026/05/260513221821.htm)
 * [2026-05-17, 17:29:38](https://news.ycombinator.com/item?id=48171015) - [EU weighs restricting use of US cloud platforms to process sensitive gov data](https://www.osnews.com/story/144943/eu-weighs-restricting-use-of-us-cloud-platforms-to-process-sensitive-government-data/)
 * [2026-05-17, 17:10:48](https://news.ycombinator.com/item?id=48170810) - [Meta deletes popular 1M follower account after Kuwaiti request](https://twitter.com/ryangrim/status/2055992439031185782)
