@@ -13,6 +13,7 @@
 * [2026-05-17, 16:15:01](https://news.ycombinator.com/item?id=48170247) - [Dontsurveil.me](https://opencivics-labs.github.io/dontsurveil.me/c22.html)
 * [2026-05-17, 16:04:28](https://news.ycombinator.com/item?id=48170122) - [Mistral's CEO: Europe has 2 years to stop becoming America's AI 'vassal state'](https://www.businessinsider.com/mistral-ceo-warns-europe-2-years-avoid-us-ai-dependence-2026-5)
 * [2026-05-17, 16:04:08](https://news.ycombinator.com/item?id=48170118) - [Don't Outsource the Learning](https://addyosmani.com/blog/dont-outsource-learning/)
+* [2026-05-17, 15:37:07](https://news.ycombinator.com/item?id=48169874) - [Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep](https://github.com/MinishLab/semble)
 * [2026-05-17, 14:48:23](https://news.ycombinator.com/item?id=48169424) - [XS: A programming language. Anywhere, anytime, by anyone](https://xslang.org)
 * [2026-05-17, 13:42:30](https://news.ycombinator.com/item?id=48168856) - [Security researcher says Microsoft built a Bitlocker backdoor, releases exploit](https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html)
 * [2026-05-17, 13:22:14](https://news.ycombinator.com/item?id=48168708) - [WHO Declares Ebola Outbreak a Global Health Emergency](https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html)
