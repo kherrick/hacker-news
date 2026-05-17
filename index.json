@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-05-16, 22:45:16",
+      "https://news.ycombinator.com/item?id=48164432"
+    ],
+    [
+      "A Nicer Voltmeter Clock",
+      "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock"
+    ]
+  ],
+  [
+    [
       "2026-05-16, 22:25:33",
       "https://news.ycombinator.com/item?id=48164294"
     ],
@@ -25,18 +35,8 @@
       "https://news.ycombinator.com/item?id=48164229"
     ],
     [
-      "I tried to make Claude make me money on Algora bounties (data and tool)",
+      "I tried to make Claude make me money on open-source bounties",
       "https://github.com/ztc00/algora-scout/blob/main/POST.md"
-    ]
-  ],
-  [
-    [
-      "2026-05-16, 22:02:51",
-      "https://news.ycombinator.com/item?id=48164173"
-    ],
-    [
-      "Ask HN: When did computers stop being fun?",
-      "https://news.ycombinator.com/item?id=48164173"
     ]
   ],
   [
@@ -165,7 +165,7 @@
       "https://news.ycombinator.com/item?id=48158506"
     ],
     [
-      "Δ-Mem: Efficient Online Memory for Large Language Models",
+      "δ-mem: Efficient Online Memory for Large Language Models",
       "https://arxiv.org/abs/2605.12357"
     ]
   ],
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2026-05-14, 13:00:31",
+      "https://news.ycombinator.com/item?id=48134784"
+    ],
+    [
+      "The Third Hard Problem",
+      "https://mmapped.blog/posts/48-the-third-hard-problem"
+    ]
+  ],
+  [
+    [
       "2026-05-14, 07:36:20",
       "https://news.ycombinator.com/item?id=48132232"
     ],
@@ -257,16 +267,6 @@
     [
       "3D Gaussian Splatting in a Weekend",
       "https://bfeldman.me/3dgs-weekend/"
-    ]
-  ],
-  [
-    [
-      "2026-05-13, 10:37:39",
-      "https://news.ycombinator.com/item?id=48120162"
-    ],
-    [
-      "Windows 9x Subsystem for Linux",
-      "https://codeberg.org/hails/wsl9x"
     ]
   ],
   [
