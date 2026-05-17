@@ -9,6 +9,7 @@
 * [2026-05-14, 22:44:16](https://news.ycombinator.com/item?id=48142251) - ['Millions' of pounds saved by replacing Palantir tech in refugee system](https://www.bbc.com/news/articles/c2l2j1lxdk5o)
 * [2026-05-14, 22:38:18](https://news.ycombinator.com/item?id=48142193) - [More than half of U.S. faces worst drought in decades](https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html)
 * [2026-05-14, 22:37:40](https://news.ycombinator.com/item?id=48142188) - [Ontario auditors find doctors' AI note takers routinely blow basic facts](https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771)
+* [2026-05-14, 22:30:16](https://news.ycombinator.com/item?id=48142115) - [Colossus: The Forbin Project](https://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project)
 * [2026-05-14, 22:29:12](https://news.ycombinator.com/item?id=48142108) - [A few words on DS4](https://antirez.com/news/165)
 * [2026-05-14, 22:05:30](https://news.ycombinator.com/item?id=48141902) - [Show HN: GridTravel- A community based travel app for users to share routes](https://www.gridtravel.app)
 * [2026-05-14, 21:50:17](https://news.ycombinator.com/item?id=48141732) - [OVMS: Open source electric vehicle remote monitoring, diagnosis and control](https://www.openvehicles.com/home)

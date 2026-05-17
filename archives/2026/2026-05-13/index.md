@@ -23,6 +23,7 @@
 * [2026-05-13, 17:55:06](https://news.ycombinator.com/item?id=48125194) - [Telegram Is Gone](https://lazybea.rs/telegram-is-gone/)
 * [2026-05-13, 16:54:03](https://news.ycombinator.com/item?id=48124436) - [Launch HN: Ardent (YC P26) – Postgres sandboxes in seconds with zero migration](https://www.tryardent.com/)
 * [2026-05-13, 16:22:10](https://news.ycombinator.com/item?id=48124002) - [Haiku](https://www.haiku-os.org)
+* [2026-05-13, 16:09:00](https://news.ycombinator.com/item?id=48123801) - [Unknowable Math Can Help Hide Secrets](https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/)
 * [2026-05-13, 16:01:13](https://news.ycombinator.com/item?id=48123670) - [Fragnesia Made Public as Latest Linux Local Privilege Escalation Vulnerability](https://www.phoronix.com/news/Linux-Fragnesia)
 * [2026-05-13, 15:52:00](https://news.ycombinator.com/item?id=48123546) - [S-100 Virtual Workbench](https://grantmestrength.github.io/S100/)
 * [2026-05-13, 15:26:27](https://news.ycombinator.com/item?id=48123198) - [Kickstarter is forced to ban adult content by payment processors](https://kotaku.com/kickstarter-is-the-latest-platform-seemingly-forced-to-ban-adult-content-by-payment-processors-2000695648)

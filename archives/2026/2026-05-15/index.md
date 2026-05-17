@@ -60,6 +60,7 @@
 * [2026-05-15, 08:16:39](https://news.ycombinator.com/item?id=48145913) - [Where's Ed: Anthropic Told Court $5B but Public $19B](https://www.flyingpenguin.com/wheres-ed-anthropic-told-court-5-billion-but-public-19-billion/)
 * [2026-05-15, 07:18:23](https://news.ycombinator.com/item?id=48145524) - [Ask HN: How to be SOC2 Type 2 compliant as a solo-entreprenuer?](https://news.ycombinator.com/item?id=48145524)
 * [2026-05-15, 04:48:23](https://news.ycombinator.com/item?id=48144670) - [Show HN: GlycemicGPT – Open-source AI-powered diabetes management](https://github.com/GlycemicGPT/GlycemicGPT)
+* [2026-05-15, 04:32:21](https://news.ycombinator.com/item?id=48144584) - [C++26 Shipped a SIMD Library Nobody Asked For](https://lucisqr.substack.com/p/c26-shipped-a-simd-library-nobody)
 * [2026-05-15, 04:15:31](https://news.ycombinator.com/item?id=48144494) - [How Claude Code works in large codebases](https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start)
 * [2026-05-15, 04:15:24](https://news.ycombinator.com/item?id=48144490) - [Solar-based sleep patterns compared to modern norms](https://dylan.gr/1775146616)
 * [2026-05-15, 04:02:09](https://news.ycombinator.com/item?id=48144410) - [Coldkey – Post-quantum age key generation and paper backup tool](https://github.com/pike00/coldkey)
