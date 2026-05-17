@@ -1,6 +1,66 @@
 [
   [
     [
+      "2026-05-17, 22:23:30",
+      "https://news.ycombinator.com/item?id=48173708"
+    ],
+    [
+      "Fabricked: Misconfiguring Infinity Fabric to Break AMD SEV-SNP",
+      "https://xca-attacks.github.io/fabricked/"
+    ]
+  ],
+  [
+    [
+      "2026-05-17, 21:56:40",
+      "https://news.ycombinator.com/item?id=48173547"
+    ],
+    [
+      "ThinkPad: From IBM's Bento Box to Lenovo's AI Workstations",
+      "https://www.jdhodges.com/blog/thinkpad-history/"
+    ]
+  ],
+  [
+    [
+      "2026-05-17, 21:49:44",
+      "https://news.ycombinator.com/item?id=48173501"
+    ],
+    [
+      "AI Wearables Are Coming but They'll Need to Pass the Coffee Shop Test to Survive",
+      "https://www.inc.com/connor-jewiss/ai-wearables-are-coming-but-theyll-need-to-pass-this-crucial-coffee-shop-test-to-survive/91345526"
+    ]
+  ],
+  [
+    [
+      "2026-05-17, 21:45:30",
+      "https://news.ycombinator.com/item?id=48173468"
+    ],
+    [
+      "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
+      "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base"
+    ]
+  ],
+  [
+    [
+      "2026-05-17, 21:40:35",
+      "https://news.ycombinator.com/item?id=48173429"
+    ],
+    [
+      "GenCAD",
+      "https://gencad.github.io/"
+    ]
+  ],
+  [
+    [
+      "2026-05-17, 21:23:25",
+      "https://news.ycombinator.com/item?id=48173318"
+    ],
+    [
+      "An AI Hate Wave Is Here",
+      "https://www.axios.com/2026/05/17/ai-backlash-polling-sentiment"
+    ]
+  ],
+  [
+    [
       "2026-05-17, 21:15:51",
       "https://news.ycombinator.com/item?id=48173268"
     ],
@@ -21,32 +81,12 @@
   ],
   [
     [
-      "2026-05-17, 18:42:35",
-      "https://news.ycombinator.com/item?id=48171906"
-    ],
-    [
-      "Scientists “bottle the sun” with a liquid battery that stores solar energy",
-      "https://www.sciencedaily.com/releases/2026/05/260513221821.htm"
-    ]
-  ],
-  [
-    [
       "2026-05-17, 17:09:36",
       "https://news.ycombinator.com/item?id=48170799"
     ],
     [
       "The occasional ECONNRESET",
       "https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-17, 16:04:08",
-      "https://news.ycombinator.com/item?id=48170118"
-    ],
-    [
-      "Don’t Outsource the Learning",
-      "https://addyosmani.com/blog/dont-outsource-learning/"
     ]
   ],
   [
@@ -151,42 +191,12 @@
   ],
   [
     [
-      "2026-05-17, 01:25:26",
-      "https://news.ycombinator.com/item?id=48165295"
-    ],
-    [
-      "Hosting a website on an 8-bit microcontroller",
-      "https://maurycyz.com/projects/mcusite/"
-    ]
-  ],
-  [
-    [
       "2026-05-16, 22:45:16",
       "https://news.ycombinator.com/item?id=48164432"
     ],
     [
       "A nicer voltmeter clock",
       "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock"
-    ]
-  ],
-  [
-    [
-      "2026-05-16, 22:23:50",
-      "https://news.ycombinator.com/item?id=48164287"
-    ],
-    [
-      "Zerostack – A Unix-inspired coding agent written in pure Rust",
-      "https://crates.io/crates/zerostack/1.0.0"
-    ]
-  ],
-  [
-    [
-      "2026-05-16, 20:14:06",
-      "https://news.ycombinator.com/item?id=48163392"
-    ],
-    [
-      "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
-      "https://openai.com/index/malta-chatgpt-plus-partnership/"
     ]
   ],
   [
@@ -221,12 +231,12 @@
   ],
   [
     [
-      "2026-05-15, 23:18:39",
-      "https://news.ycombinator.com/item?id=48155185"
+      "2026-05-15, 19:25:43",
+      "https://news.ycombinator.com/item?id=48152754"
     ],
     [
-      "How diamonds are made",
-      "https://diamond.jaydip.me/"
+      "Ask an Astronaut: 333 hours of Q&A footage with astronauts",
+      "https://askanastronaut.issinrealtime.org/"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Prolog Basics Explained with Pokémon",
       "https://unplannedobsolescence.com/blog/prolog-basics-pokemon/"
-    ]
-  ],
-  [
-    [
-      "2026-05-15, 04:32:21",
-      "https://news.ycombinator.com/item?id=48144584"
-    ],
-    [
-      "C++26 Shipped a SIMD Library Nobody Asked For",
-      "https://lucisqr.substack.com/p/c26-shipped-a-simd-library-nobody"
     ]
   ],
   [
