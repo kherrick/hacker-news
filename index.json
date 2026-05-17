@@ -1,11 +1,21 @@
 [
   [
     [
+      "2026-05-17, 21:15:51",
+      "https://news.ycombinator.com/item?id=48173268"
+    ],
+    [
+      "Prolog Coding Horror",
+      "https://www.metalevel.at/prolog/horror"
+    ]
+  ],
+  [
+    [
       "2026-05-17, 19:39:10",
       "https://news.ycombinator.com/item?id=48172505"
     ],
     [
-      "VoIP brings back old-fashioned pay phones to rural Vermont",
+      "VoIP brings back old-fashioned pay phones to rural Vermont (2025)",
       "https://spectrum.ieee.org/payphone-voip"
     ]
   ],
@@ -47,16 +57,6 @@
     [
       "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
       "https://github.com/MinishLab/semble"
-    ]
-  ],
-  [
-    [
-      "2026-05-17, 14:48:23",
-      "https://news.ycombinator.com/item?id=48169424"
-    ],
-    [
-      "XS: A programming language. Anywhere, anytime, by anyone",
-      "https://xslang.org"
     ]
   ],
   [
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2026-05-16, 00:21:09",
+      "https://news.ycombinator.com/item?id=48155589"
+    ],
+    [
+      "New Nightmare Just Dropped: '3D' Animated Ads on Trucks in Traffic",
+      "https://www.thedrive.com/news/new-nightmare-just-dropped-3d-animated-ads-on-trucks-in-traffic"
+    ]
+  ],
+  [
+    [
       "2026-05-15, 23:18:39",
       "https://news.ycombinator.com/item?id=48155185"
     ],
@@ -257,16 +267,6 @@
     [
       "Colossus: The Forbin Project",
       "https://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project"
-    ]
-  ],
-  [
-    [
-      "2026-05-14, 21:15:35",
-      "https://news.ycombinator.com/item?id=48141354"
-    ],
-    [
-      "Mado: Fast Markdown linter written in Rust",
-      "https://github.com/akiomik/mado"
     ]
   ],
   [
