@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-05-17](index.md)
 
+* [2026-05-17, 17:09:15](https://news.ycombinator.com/item?id=48170798) - [Americans Are Smashing Flock Cameras](https://stateofsurveillance.org/news/flock-cameras-destroyed-nationwide-ice-backlash-2026/)
+* [2026-05-17, 16:37:44](https://news.ycombinator.com/item?id=48170505) - [Age Assurance on the Internet: Identity, Privacy, and the Limits of Verification](https://sphericalcowconsulting.com/2026/04/14/age-assurance/)
+* [2026-05-17, 14:48:23](https://news.ycombinator.com/item?id=48169424) - [XS: A programming language. Anywhere, anytime, by anyone](https://xslang.org)
 * [2026-05-17, 13:42:30](https://news.ycombinator.com/item?id=48168856) - [Security researcher says Microsoft built a Bitlocker backdoor, releases exploit](https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html)
 * [2026-05-17, 13:22:14](https://news.ycombinator.com/item?id=48168708) - [WHO Declares Ebola Outbreak a Global Health Emergency](https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html)
 * [2026-05-17, 13:16:27](https://news.ycombinator.com/item?id=48168668) - [I turned a $80 RK3562 Android tablet into a Debian Linux workstation](https://github.com/tech4bot/rk3562deb)
