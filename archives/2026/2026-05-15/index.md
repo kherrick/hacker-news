@@ -49,6 +49,7 @@
 * [2026-05-15, 12:15:16](https://news.ycombinator.com/item?id=48147665) - [Power Tools Got Worse on Purpose. Who Owns DeWalt, Craftsman, and Milwaukee?](https://www.worseonpurpose.com/p/your-power-tools-got-worse-on-purpose)
 * [2026-05-15, 12:07:55](https://news.ycombinator.com/item?id=48147603) - [Radicle: Sovereign {code forge} built on Git](https://radicle.dev/)
 * [2026-05-15, 12:00:31](https://news.ycombinator.com/item?id=48147533) - [SigNoz (YC W21, open source Datadog) Is hiring for growth and engineering roles](https://signoz.io/careers)
+* [2026-05-15, 11:39:13](https://news.ycombinator.com/item?id=48147351) - [Mercurial, 20 years and counting: how are we still alive and kicking? [video]](https://fosdem.org/2026/schedule/event/AGWUVH-mercurial-aint-you-dead-yet/)
 * [2026-05-15, 11:37:17](https://news.ycombinator.com/item?id=48147339) - [Welcome to the Strip Mining Era of OSS Security](https://www.metabase.com/blog/strip-mining-era-of-open-source-security)
 * [2026-05-15, 11:02:14](https://news.ycombinator.com/item?id=48147091) - [Prolog Basics Explained with Pokémon](https://unplannedobsolescence.com/blog/prolog-basics-pokemon/)
 * [2026-05-15, 10:55:51](https://news.ycombinator.com/item?id=48147058) - [O(x)Caml in Space](https://gazagnaire.org/blog/2026-05-14-borealis.html)

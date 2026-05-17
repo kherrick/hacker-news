@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-05-17](index.md)
 
+* [2026-05-17, 17:29:38](https://news.ycombinator.com/item?id=48171015) - [EU weighs restricting use of US cloud platforms to process sensitive gov data](https://www.osnews.com/story/144943/eu-weighs-restricting-use-of-us-cloud-platforms-to-process-sensitive-government-data/)
+* [2026-05-17, 17:10:48](https://news.ycombinator.com/item?id=48170810) - [Meta deletes popular 1M follower account after Kuwaiti request](https://twitter.com/ryangrim/status/2055992439031185782)
+* [2026-05-17, 17:09:36](https://news.ycombinator.com/item?id=48170799) - [The occasional ECONNRESET](https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html)
 * [2026-05-17, 17:09:15](https://news.ycombinator.com/item?id=48170798) - [Americans Are Smashing Flock Cameras](https://stateofsurveillance.org/news/flock-cameras-destroyed-nationwide-ice-backlash-2026/)
 * [2026-05-17, 16:37:44](https://news.ycombinator.com/item?id=48170505) - [Age Assurance on the Internet: Identity, Privacy, and the Limits of Verification](https://sphericalcowconsulting.com/2026/04/14/age-assurance/)
+* [2026-05-17, 16:04:28](https://news.ycombinator.com/item?id=48170122) - [Mistral's CEO: Europe has 2 years to stop becoming America's AI 'vassal state'](https://www.businessinsider.com/mistral-ceo-warns-europe-2-years-avoid-us-ai-dependence-2026-5)
 * [2026-05-17, 14:48:23](https://news.ycombinator.com/item?id=48169424) - [XS: A programming language. Anywhere, anytime, by anyone](https://xslang.org)
 * [2026-05-17, 13:42:30](https://news.ycombinator.com/item?id=48168856) - [Security researcher says Microsoft built a Bitlocker backdoor, releases exploit](https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html)
 * [2026-05-17, 13:22:14](https://news.ycombinator.com/item?id=48168708) - [WHO Declares Ebola Outbreak a Global Health Emergency](https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html)
