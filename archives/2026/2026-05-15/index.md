@@ -56,6 +56,7 @@
 * [2026-05-15, 09:47:28](https://news.ycombinator.com/item?id=48146577) - [Geography is four-dimensional](https://sive.rs/4d)
 * [2026-05-15, 09:27:26](https://news.ycombinator.com/item?id=48146424) - [UK sovereign LLM inference](https://relax.ai/docs)
 * [2026-05-15, 09:19:24](https://news.ycombinator.com/item?id=48146369) - [Show HN: Find the best local LLM for your hardware, ranked by benchmarks](https://github.com/Andyyyy64/whichllm)
+* [2026-05-15, 09:18:38](https://news.ycombinator.com/item?id=48146362) - [Citroën metropolis concept car (2010)](https://www.citroenet.org.uk/prototypes/metropolis/metropolis1.html)
 * [2026-05-15, 08:45:36](https://news.ycombinator.com/item?id=48146129) - [Explore Wikipedia Like a Windows XP Desktop](https://explorer.samismith.com/)
 * [2026-05-15, 08:16:39](https://news.ycombinator.com/item?id=48145913) - [Where's Ed: Anthropic Told Court $5B but Public $19B](https://www.flyingpenguin.com/wheres-ed-anthropic-told-court-5-billion-but-public-19-billion/)
 * [2026-05-15, 07:18:23](https://news.ycombinator.com/item?id=48145524) - [Ask HN: How to be SOC2 Type 2 compliant as a solo-entreprenuer?](https://news.ycombinator.com/item?id=48145524)
