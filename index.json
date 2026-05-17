@@ -5,18 +5,8 @@
       "https://news.ycombinator.com/item?id=48171906"
     ],
     [
-      "Scientists \"bottle the sun\" with a liquid battery that stores solar energy",
+      "Scientists “bottle the sun” with a liquid battery that stores solar energy",
       "https://www.sciencedaily.com/releases/2026/05/260513221821.htm"
-    ]
-  ],
-  [
-    [
-      "2026-05-17, 17:29:38",
-      "https://news.ycombinator.com/item?id=48171015"
-    ],
-    [
-      "EU weighs restricting use of US cloud platforms to process sensitive gov data",
-      "https://www.osnews.com/story/144943/eu-weighs-restricting-use-of-us-cloud-platforms-to-process-sensitive-government-data/"
     ]
   ],
   [
@@ -41,16 +31,6 @@
   ],
   [
     [
-      "2026-05-17, 17:09:15",
-      "https://news.ycombinator.com/item?id=48170798"
-    ],
-    [
-      "At least 25 Flock cameras have been destroyed in five states since April 2025",
-      "https://stateofsurveillance.org/news/flock-cameras-destroyed-nationwide-ice-backlash-2026/"
-    ]
-  ],
-  [
-    [
       "2026-05-17, 16:15:01",
       "https://news.ycombinator.com/item?id=48170247"
     ],
@@ -65,8 +45,18 @@
       "https://news.ycombinator.com/item?id=48170118"
     ],
     [
-      "Don't Outsource the Learning",
+      "Don’t Outsource the Learning",
       "https://addyosmani.com/blog/dont-outsource-learning/"
+    ]
+  ],
+  [
+    [
+      "2026-05-17, 15:37:07",
+      "https://news.ycombinator.com/item?id=48169874"
+    ],
+    [
+      "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
+      "https://github.com/MinishLab/semble"
     ]
   ],
   [
@@ -87,16 +77,6 @@
     [
       "Security researcher says Microsoft built a Bitlocker backdoor, releases exploit",
       "https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-17, 13:22:14",
-      "https://news.ycombinator.com/item?id=48168708"
-    ],
-    [
-      "WHO Declares Ebola Outbreak a Global Health Emergency",
-      "https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html"
     ]
   ],
   [
@@ -127,16 +107,6 @@
     [
       "CUDA Books",
       "https://github.com/alternbits/awesome-cuda-books"
-    ]
-  ],
-  [
-    [
-      "2026-05-17, 12:44:24",
-      "https://news.ycombinator.com/item?id=48168426"
-    ],
-    [
-      "Agentic Trading with Safe Guardrails",
-      "https://github.com/ShurikenTrade/shuriken-skills"
     ]
   ],
   [
@@ -175,7 +145,7 @@
       "https://news.ycombinator.com/item?id=48168056"
     ],
     [
-      "Every AI Subscription Is a Ticking Time Bomb for Enterprise",
+      "AI subscriptions are a ticking time bomb for enterprise",
       "https://www.thestateofbrand.com/news/ai-subscription-time-bomb"
     ]
   ],
@@ -251,6 +221,26 @@
   ],
   [
     [
+      "2026-05-16, 01:25:29",
+      "https://news.ycombinator.com/item?id=48155936"
+    ],
+    [
+      "Magical Realism: “Northern Exposure” 25 Years Later (2015)",
+      "https://www.rogerebert.com/streaming/magical-realism-nothern-exposure-25-years-later"
+    ]
+  ],
+  [
+    [
+      "2026-05-15, 23:18:39",
+      "https://news.ycombinator.com/item?id=48155185"
+    ],
+    [
+      "How diamonds are made",
+      "https://diamond.jaydip.me/"
+    ]
+  ],
+  [
+    [
       "2026-05-15, 11:39:13",
       "https://news.ycombinator.com/item?id=48147351"
     ],
@@ -267,6 +257,16 @@
     [
       "Prolog Basics Explained with Pokémon",
       "https://unplannedobsolescence.com/blog/prolog-basics-pokemon/"
+    ]
+  ],
+  [
+    [
+      "2026-05-15, 04:32:21",
+      "https://news.ycombinator.com/item?id=48144584"
+    ],
+    [
+      "C++26 Shipped a SIMD Library Nobody Asked For",
+      "https://lucisqr.substack.com/p/c26-shipped-a-simd-library-nobody"
     ]
   ],
   [
