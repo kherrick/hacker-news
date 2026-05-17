@@ -1,11 +1,51 @@
 [
   [
     [
+      "2026-05-17, 02:24:16",
+      "https://news.ycombinator.com/item?id=48165548"
+    ],
+    [
+      "Bear spray is exploding in the trash near Yellowstone National Park",
+      "https://www.sfgate.com/national-parks/article/exploding-bear-spray-yellowstone-22244713.php"
+    ]
+  ],
+  [
+    [
+      "2026-05-17, 01:25:26",
+      "https://news.ycombinator.com/item?id=48165295"
+    ],
+    [
+      "Hosting a website on an 8-bit microcontroller",
+      "https://maurycyz.com/projects/mcusite/"
+    ]
+  ],
+  [
+    [
+      "2026-05-17, 01:19:14",
+      "https://news.ycombinator.com/item?id=48165265"
+    ],
+    [
+      "Self-Distillation Enables Continual Learning [pdf]",
+      "https://arxiv.org/abs/2601.19897"
+    ]
+  ],
+  [
+    [
+      "2026-05-16, 23:59:47",
+      "https://news.ycombinator.com/item?id=48164891"
+    ],
+    [
+      "Fisker went bankrupt and owners built an open source car company from the ashes",
+      "https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/"
+    ]
+  ],
+  [
+    [
       "2026-05-16, 22:45:16",
       "https://news.ycombinator.com/item?id=48164432"
     ],
     [
-      "A Nicer Voltmeter Clock",
+      "A nicer voltmeter clock",
       "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock"
     ]
   ],
@@ -31,22 +71,12 @@
   ],
   [
     [
-      "2026-05-16, 22:13:54",
-      "https://news.ycombinator.com/item?id=48164229"
+      "2026-05-16, 20:14:06",
+      "https://news.ycombinator.com/item?id=48163392"
     ],
     [
-      "I tried to make Claude make me money on open-source bounties",
-      "https://github.com/ztc00/algora-scout/blob/main/POST.md"
-    ]
-  ],
-  [
-    [
-      "2026-05-16, 19:10:38",
-      "https://news.ycombinator.com/item?id=48162882"
-    ],
-    [
-      "Japan’s robot wolf sells out as record bear attacks drive demand",
-      "https://www.independent.co.uk/asia/japan/japan-robot-wolf-bear-attacks-ohta-seiki-b2975670.html"
+      "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
+      "https://openai.com/index/malta-chatgpt-plus-partnership/"
     ]
   ],
   [
@@ -81,32 +111,12 @@
   ],
   [
     [
-      "2026-05-16, 16:58:26",
-      "https://news.ycombinator.com/item?id=48161861"
+      "2026-05-16, 15:12:17",
+      "https://news.ycombinator.com/item?id=48160914"
     ],
     [
-      "HTML Lists",
-      "https://blog.frankmtaylor.com/2026/05/13/you-dont-know-html-lists/"
-    ]
-  ],
-  [
-    [
-      "2026-05-16, 14:58:16",
-      "https://news.ycombinator.com/item?id=48160807"
-    ],
-    [
-      "DeepSeek-V4-Flash means LLM steering is interesting again",
-      "https://www.seangoedecke.com/steering-vectors/"
-    ]
-  ],
-  [
-    [
-      "2026-05-16, 13:42:34",
-      "https://news.ycombinator.com/item?id=48160211"
-    ],
-    [
-      "Accelerate – Embedded language for high-performance array computations",
-      "https://github.com/AccelerateHS/accelerate"
+      "PART Telescopes – Bringing radio astronomy within reach of rural schools",
+      "https://parttelescopes.web.app/"
     ]
   ],
   [
@@ -117,16 +127,6 @@
     [
       "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
       "https://nvlabs.github.io/Sana/WM/"
-    ]
-  ],
-  [
-    [
-      "2026-05-16, 12:01:06",
-      "https://news.ycombinator.com/item?id=48159405"
-    ],
-    [
-      "Kyber (YC W23) Is Hiring a Founding Marketer",
-      "https://www.ycombinator.com/companies/kyber/jobs/1rLQAro-founding-marketer-content-community"
     ]
   ],
   [
@@ -155,7 +155,7 @@
       "https://news.ycombinator.com/item?id=48158606"
     ],
     [
-      "Futhark by example",
+      "Futhark by example (2020)",
       "https://futhark-lang.org/examples.html"
     ]
   ],
@@ -211,12 +211,22 @@
   ],
   [
     [
-      "2026-05-15, 16:15:36",
-      "https://news.ycombinator.com/item?id=48150431"
+      "2026-05-15, 04:32:21",
+      "https://news.ycombinator.com/item?id=48144584"
     ],
     [
-      "Project Gutenberg – keeps getting better",
-      "https://www.gutenberg.org/"
+      "C++26 Shipped a SIMD Library Nobody Asked For",
+      "https://lucisqr.substack.com/p/c26-shipped-a-simd-library-nobody"
+    ]
+  ],
+  [
+    [
+      "2026-05-14, 22:30:16",
+      "https://news.ycombinator.com/item?id=48142115"
+    ],
+    [
+      "Colossus: The Forbin Project",
+      "https://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "The Third Hard Problem",
       "https://mmapped.blog/posts/48-the-third-hard-problem"
-    ]
-  ],
-  [
-    [
-      "2026-05-14, 07:36:20",
-      "https://news.ycombinator.com/item?id=48132232"
-    ],
-    [
-      "After 8 years, I rewrote my open-source PyTorch curvature library",
-      "https://github.com/noahgolmant/pytorch-hessian-eigenthings"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2026-05-13, 01:54:55",
-      "https://news.ycombinator.com/item?id=48116935"
+      "2026-05-13, 16:09:00",
+      "https://news.ycombinator.com/item?id=48123801"
     ],
     [
-      "Recreation of the 1956 IPL-I version of the Logic Theorist theorem prover",
-      "https://github.com/dmoews/logic-theorist"
+      "Unknowable Math Can Help Hide Secrets",
+      "https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/"
     ]
   ],
   [
