@@ -71,4 +71,5 @@
 * [2026-05-15, 01:08:04](https://news.ycombinator.com/item?id=48143284) - [Access to frontier AI will soon be limited by economic and security constraints](https://writing.antonleicht.me/p/cut-off)
 * [2026-05-15, 01:04:13](https://news.ycombinator.com/item?id=48143256) - [UFerris a Versatile Learner Board for Rust Embedded Beginners](https://www.theembeddedrustacean.com/uferris)
 * [2026-05-15, 01:02:05](https://news.ycombinator.com/item?id=48143235) - [Velonus – Open-source AppSec scanner that deduplicates SAST noise](https://github.com/AliAmmar15/Velonus)
+* [2026-05-15, 00:58:29](https://news.ycombinator.com/item?id=48143205) - [XS Programming Language](https://news.ycombinator.com/item?id=48143205)
 * [2026-05-15, 00:22:53](https://news.ycombinator.com/item?id=48142964) - [Elevated error rates on Opus 4.7](https://status.claude.com/incidents/8z7l5zcy0v3b)
