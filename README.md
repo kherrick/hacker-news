@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-05-17, 12:13:45](https://news.ycombinator.com/item?id=48168221) - [I don't think AI will make your processes go faster](https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/)
+* [2026-05-17, 12:09:23](https://news.ycombinator.com/item?id=48168198) - [Apple Silicon costs more than OpenRouter](https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html)
+* [2026-05-17, 11:49:46](https://news.ycombinator.com/item?id=48168058) - [Native all the way, until you need text](https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/)
 * [2026-05-17, 08:00:04](https://news.ycombinator.com/item?id=48166920) - [Playing Atari ST Music on the Amiga with Zero CPU](https://arnaud-carre.github.io/2026-05-15-ym-fast-emu/)
 * [2026-05-17, 06:17:26](https://news.ycombinator.com/item?id=48166459) - [Mozilla to UK regulators: VPNs are essential privacy and security tools](https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/)
 * [2026-05-17, 01:25:26](https://news.ycombinator.com/item?id=48165295) - [Hosting a website on an 8-bit microcontroller](https://maurycyz.com/projects/mcusite/)
@@ -18,7 +21,6 @@
 * [2026-05-16, 08:25:17](https://news.ycombinator.com/item?id=48158065) - [We've made the world too complicated](https://user8.bearblog.dev/the-world-is-too-complicated/)
 * [2026-05-16, 07:01:55](https://news.ycombinator.com/item?id=48157559) - [Frontier AI has broken the open CTF format](https://kabir.au/blog/the-ctf-scene-is-dead)
 * [2026-05-15, 23:18:39](https://news.ycombinator.com/item?id=48155185) - [How Diamonds Are Made](https://diamond.jaydip.me/)
-* [2026-05-15, 20:26:47](https://news.ycombinator.com/item?id=48153379) - [I believe there are entire companies right now under AI psychosis](https://twitter.com/mitchellh/status/2055380239711457578)
 * [2026-05-15, 11:02:14](https://news.ycombinator.com/item?id=48147091) - [Prolog Basics Explained with Pokémon](https://unplannedobsolescence.com/blog/prolog-basics-pokemon/)
 * [2026-05-15, 04:32:21](https://news.ycombinator.com/item?id=48144584) - [C++26 Shipped a SIMD Library Nobody Asked For](https://lucisqr.substack.com/p/c26-shipped-a-simd-library-nobody)
 * [2026-05-14, 22:34:32](https://news.ycombinator.com/item?id=48142154) - [Roman Letters](https://romanletters.org/)
@@ -26,8 +28,6 @@
 * [2026-05-14, 19:49:56](https://news.ycombinator.com/item?id=48140297) - [Illusions of understanding in the sciences](https://link.springer.com/article/10.1007/s42113-026-00271-1)
 * [2026-05-14, 18:43:29](https://news.ycombinator.com/item?id=48139435) - [Why did Clovis toolmakers choose difficult quartz crystal?](https://phys.org/news/2026-04-clovis-toolmakers-difficult-quartz-crystal.html)
 * [2026-05-14, 13:00:31](https://news.ycombinator.com/item?id=48134784) - [The Third Hard Problem](https://mmapped.blog/posts/48-the-third-hard-problem)
-* [2026-05-13, 20:57:06](https://news.ycombinator.com/item?id=48127453) - [Content-defined chunking added to Bazel](https://www.buildbuddy.io/blog/content-defined-chunking/)
-* [2026-05-13, 19:38:19](https://news.ycombinator.com/item?id=48126431) - [3D Gaussian Splatting in a Weekend](https://bfeldman.me/3dgs-weekend/)
 * [2026-05-13, 16:09:00](https://news.ycombinator.com/item?id=48123801) - [Unknowable Math Can Help Hide Secrets](https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/)
 * [2026-05-12, 15:28:31](https://news.ycombinator.com/item?id=48109756) - [A molecule with half-Möbius topology](https://www.science.org/doi/10.1126/science.aea3321)
 
