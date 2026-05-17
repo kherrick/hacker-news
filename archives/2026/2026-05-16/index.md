@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-16](index.md)
 
+* [2026-05-16, 22:45:16](https://news.ycombinator.com/item?id=48164432) - [A Nicer Voltmeter Clock](https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock)
 * [2026-05-16, 22:25:33](https://news.ycombinator.com/item?id=48164294) - [MCP Hello Page](https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page)
 * [2026-05-16, 22:23:50](https://news.ycombinator.com/item?id=48164287) - [Zerostack – A Unix-inspired coding agent written in pure Rust](https://crates.io/crates/zerostack/1.0.0)
 * [2026-05-16, 22:13:54](https://news.ycombinator.com/item?id=48164229) - [I tried to make Claude make me money on Algora bounties (data and tool)](https://github.com/ztc00/algora-scout/blob/main/POST.md)

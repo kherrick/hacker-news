@@ -54,6 +54,7 @@
 * [2026-05-14, 14:15:50](https://news.ycombinator.com/item?id=48135764) - [Show HN: Race to the Bottom](https://race-to-the-bottom.onrender.com)
 * [2026-05-14, 13:17:57](https://news.ycombinator.com/item?id=48134993) - [USDA Projects Smallest US Wheat Harvest Since 1972 Due to Plains Drought](https://www.agweb.com/news/usda-projects-smallest-us-wheat-harvest-1972-due-plains-drought)
 * [2026-05-14, 13:10:32](https://news.ycombinator.com/item?id=48134905) - [Beware of Drunk Deer, French Police Say, Announcing Season of Inebriation](https://www.nytimes.com/2026/05/13/world/europe/france-drunk-deer.html)
+* [2026-05-14, 13:00:31](https://news.ycombinator.com/item?id=48134784) - [The Third Hard Problem](https://mmapped.blog/posts/48-the-third-hard-problem)
 * [2026-05-14, 12:57:27](https://news.ycombinator.com/item?id=48134743) - [Computer Hobby Movement in Canada](https://museum.eecs.yorku.ca/exhibits/show/hobby_canada/hobby_canada)
 * [2026-05-14, 12:32:43](https://news.ycombinator.com/item?id=48134472) - [Points are a weird and inconsistent unit of measure](https://buttondown.com/hillelwayne/archive/points-are-a-weird-and-inconsistent-unit-of/)
 * [2026-05-14, 12:27:29](https://news.ycombinator.com/item?id=48134429) - [Sam Altman's Business Dealings Under GOP Scrutiny Ahead of OpenAI's IPO](https://www.wsj.com/tech/ai/sam-altmans-business-dealings-under-gop-scrutiny-ahead-of-openais-ipo-52c1cc4d)
