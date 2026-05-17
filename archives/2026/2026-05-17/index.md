@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-05-17](index.md)
 
+* [2026-05-17, 22:23:30](https://news.ycombinator.com/item?id=48173708) - [Fabricked: Misconfiguring Infinity Fabric to Break AMD SEV-SNP](https://xca-attacks.github.io/fabricked/)
+* [2026-05-17, 21:56:40](https://news.ycombinator.com/item?id=48173547) - [ThinkPad: From IBM's Bento Box to Lenovo's AI Workstations](https://www.jdhodges.com/blog/thinkpad-history/)
+* [2026-05-17, 21:49:44](https://news.ycombinator.com/item?id=48173501) - [AI Wearables Are Coming but They'll Need to Pass the Coffee Shop Test to Survive](https://www.inc.com/connor-jewiss/ai-wearables-are-coming-but-theyll-need-to-pass-this-crucial-coffee-shop-test-to-survive/91345526)
+* [2026-05-17, 21:45:30](https://news.ycombinator.com/item?id=48173468) - [Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely](https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base)
+* [2026-05-17, 21:40:35](https://news.ycombinator.com/item?id=48173429) - [GenCAD](https://gencad.github.io/)
+* [2026-05-17, 21:23:25](https://news.ycombinator.com/item?id=48173318) - [An AI Hate Wave Is Here](https://www.axios.com/2026/05/17/ai-backlash-polling-sentiment)
 * [2026-05-17, 21:15:51](https://news.ycombinator.com/item?id=48173268) - [Prolog Coding Horror](https://www.metalevel.at/prolog/horror)
 * [2026-05-17, 19:39:10](https://news.ycombinator.com/item?id=48172505) - [VoIP brings back old-fashioned pay phones to rural Vermont](https://spectrum.ieee.org/payphone-voip)
 * [2026-05-17, 18:42:35](https://news.ycombinator.com/item?id=48171906) - [Scientists \"bottle the sun\" with a liquid battery that stores solar energy](https://www.sciencedaily.com/releases/2026/05/260513221821.htm)

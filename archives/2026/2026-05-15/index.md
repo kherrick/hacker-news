@@ -18,6 +18,7 @@
 * [2026-05-15, 19:48:48](https://news.ycombinator.com/item?id=48152994) - [California bill would require patches or refunds when online games shut down](https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/)
 * [2026-05-15, 19:32:34](https://news.ycombinator.com/item?id=48152825) - [Meta to receive $3.3B in tax breaks for its $10B Louisiana data center](https://fortune.com/2026/05/14/meta-data-center-tax-break-hyperion-louisiana/)
 * [2026-05-15, 19:27:15](https://news.ycombinator.com/item?id=48152777) - [Judge Bars Kars4Kids from Broadcasting 'Misleading' Ads in California](https://www.nytimes.com/2026/05/15/us/kars4kids-advertising-banned-california.html)
+* [2026-05-15, 19:25:43](https://news.ycombinator.com/item?id=48152754) - [Ask an Astronaut: 333 hours of Q&A footage with astronauts](https://askanastronaut.issinrealtime.org/)
 * [2026-05-15, 19:23:29](https://news.ycombinator.com/item?id=48152729) - [WinCE64 – Windows CE 2.11 for N64](https://github.com/ThroatyMumbo/WinCE64)
 * [2026-05-15, 19:07:08](https://news.ycombinator.com/item?id=48152553) - [ABC News has taken all FiveThirtyEight articles offline](https://twitter.com/baseballot/status/2055309076209492208)
 * [2026-05-15, 18:43:59](https://news.ycombinator.com/item?id=48152273) - [Echoes (Live at Pompeii)](https://genius.com/Pink-floyd-echoes-live-at-pompeii-lyrics)
