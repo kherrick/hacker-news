@@ -49,5 +49,6 @@
 * [2026-05-16, 00:53:27](https://news.ycombinator.com/item?id=48155768) - [Legacy Update for Windows 8.1 for x64-based Systems](https://legacyupdate.net/download-center/download/51025/update-for-windows-8.1-x64-kb3132080)
 * [2026-05-16, 00:36:02](https://news.ycombinator.com/item?id=48155690) - ['No way to prevent this,' says only package manager where this regularly happens](https://kevinpatel.xyz/posts/no-way-to-prevent-this/)
 * [2026-05-16, 00:35:01](https://news.ycombinator.com/item?id=48155678) - [I broke AppLovin's mediation cipher protocol](https://www.buchodi.com/i-broke-applovins-mediation-cipher-protocol/)
+* [2026-05-16, 00:21:09](https://news.ycombinator.com/item?id=48155589) - [New Nightmare Just Dropped: '3D' Animated Ads on Trucks in Traffic](https://www.thedrive.com/news/new-nightmare-just-dropped-3d-animated-ads-on-trucks-in-traffic)
 * [2026-05-16, 00:18:03](https://news.ycombinator.com/item?id=48155570) - [Show HN: Epiq – Distributed Git based issue tracker TUI](https://ljtn.github.io/epiq/)
 * [2026-05-16, 00:15:53](https://news.ycombinator.com/item?id=48155555) - [NYT and Vaping: How to Lie by Saying Only True Things](https://gwern.net/vaping)
