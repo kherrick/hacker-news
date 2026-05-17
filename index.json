@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-05-17, 13:42:30",
+      "https://news.ycombinator.com/item?id=48168856"
+    ],
+    [
+      "Security researcher says Microsoft built a Bitlocker backdoor, releases exploit",
+      "https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-17, 13:22:14",
+      "https://news.ycombinator.com/item?id=48168708"
+    ],
+    [
+      "WHO Declares Ebola Outbreak a Global Health Emergency",
+      "https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-17, 13:11:20",
+      "https://news.ycombinator.com/item?id=48168626"
+    ],
+    [
+      "AI is a technology not a product",
+      "https://daringfireball.net/2026/05/ai_is_technology_not_a_product"
+    ]
+  ],
+  [
+    [
       "2026-05-17, 12:13:45",
       "https://news.ycombinator.com/item?id=48168221"
     ],
@@ -21,12 +51,32 @@
   ],
   [
     [
+      "2026-05-17, 12:03:04",
+      "https://news.ycombinator.com/item?id=48168159"
+    ],
+    [
+      "Scientists believe ibogaine can help veterans overcome PTSD",
+      "https://www.bbc.com/future/article/20260514-how-hallucinogenic-ibogaine-helps-veterans-overcome-ptsd"
+    ]
+  ],
+  [
+    [
       "2026-05-17, 11:49:46",
       "https://news.ycombinator.com/item?id=48168058"
     ],
     [
       "Native all the way, until you need text",
       "https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/"
+    ]
+  ],
+  [
+    [
+      "2026-05-17, 11:49:31",
+      "https://news.ycombinator.com/item?id=48168056"
+    ],
+    [
+      "Every AI Subscription Is a Ticking Time Bomb for Enterprise",
+      "https://www.thestateofbrand.com/news/ai-subscription-time-bomb"
     ]
   ],
   [
@@ -61,32 +111,12 @@
   ],
   [
     [
-      "2026-05-17, 01:19:14",
-      "https://news.ycombinator.com/item?id=48165265"
-    ],
-    [
-      "Self-Distillation Enables Continual Learning [pdf]",
-      "https://arxiv.org/abs/2601.19897"
-    ]
-  ],
-  [
-    [
       "2026-05-16, 22:45:16",
       "https://news.ycombinator.com/item?id=48164432"
     ],
     [
       "A nicer voltmeter clock",
       "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock"
-    ]
-  ],
-  [
-    [
-      "2026-05-16, 22:25:33",
-      "https://news.ycombinator.com/item?id=48164294"
-    ],
-    [
-      "MCP Hello Page",
-      "https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page"
     ]
   ],
   [
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2026-05-16, 17:00:41",
-      "https://news.ycombinator.com/item?id=48161881"
-    ],
-    [
-      "Show HN: Rocksky – Music scrobbling and discovery on the AT Protocol",
-      "https://tangled.org/rocksky.app/rocksky"
-    ]
-  ],
-  [
-    [
       "2026-05-16, 12:06:21",
       "https://news.ycombinator.com/item?id=48159445"
     ],
@@ -157,16 +177,6 @@
     [
       "Accelerando (2005)",
       "https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-16, 09:30:06",
-      "https://news.ycombinator.com/item?id=48158506"
-    ],
-    [
-      "δ-mem: Efficient Online Memory for Large Language Models",
-      "https://arxiv.org/abs/2605.12357"
     ]
   ],
   [
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2026-05-15, 04:32:21",
-      "https://news.ycombinator.com/item?id=48144584"
-    ],
-    [
-      "C++26 Shipped a SIMD Library Nobody Asked For",
-      "https://lucisqr.substack.com/p/c26-shipped-a-simd-library-nobody"
-    ]
-  ],
-  [
-    [
       "2026-05-14, 22:34:32",
       "https://news.ycombinator.com/item?id=48142154"
     ],
@@ -247,6 +247,16 @@
     [
       "Colossus: The Forbin Project",
       "https://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project"
+    ]
+  ],
+  [
+    [
+      "2026-05-14, 21:15:35",
+      "https://news.ycombinator.com/item?id=48141354"
+    ],
+    [
+      "Mado: Fast Markdown linter written in Rust",
+      "https://github.com/akiomik/mado"
     ]
   ],
   [
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2026-05-13, 16:09:00",
-      "https://news.ycombinator.com/item?id=48123801"
+      "2026-05-14, 10:08:04",
+      "https://news.ycombinator.com/item?id=48133293"
     ],
     [
-      "Unknowable Math Can Help Hide Secrets",
-      "https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/"
-    ]
-  ],
-  [
-    [
-      "2026-05-12, 15:28:31",
-      "https://news.ycombinator.com/item?id=48109756"
-    ],
-    [
-      "A molecule with half-Möbius topology",
-      "https://www.science.org/doi/10.1126/science.aea3321"
+      "High-Entropy Alloy",
+      "https://en.wikipedia.org/wiki/High-entropy_alloy"
     ]
   ]
 ]
