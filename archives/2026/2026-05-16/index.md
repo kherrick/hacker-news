@@ -10,6 +10,7 @@
 * [2026-05-16, 22:23:50](https://news.ycombinator.com/item?id=48164287) - [Zerostack – A Unix-inspired coding agent written in pure Rust](https://crates.io/crates/zerostack/1.0.0)
 * [2026-05-16, 22:13:54](https://news.ycombinator.com/item?id=48164229) - [I tried to make Claude make me money on Algora bounties (data and tool)](https://github.com/ztc00/algora-scout/blob/main/POST.md)
 * [2026-05-16, 22:02:51](https://news.ycombinator.com/item?id=48164173) - [Ask HN: When did computers stop being fun?](https://news.ycombinator.com/item?id=48164173)
+* [2026-05-16, 21:57:39](https://news.ycombinator.com/item?id=48164147) - [Understanding Singleflight in Go](https://www.codingexplorations.com/blog/understanding-singleflight-in-golang-a-solution-for-eliminating-redundant-work)
 * [2026-05-16, 21:25:07](https://news.ycombinator.com/item?id=48163956) - [Twilight of the Velocipede: Typesetting Races Before the Age of Linotype](https://publicdomainreview.org/essay/twilight-of-the-velocipede/)
 * [2026-05-16, 20:14:06](https://news.ycombinator.com/item?id=48163392) - [OpenAI and Malta partner to bring ChatGPT Plus to all citizens](https://openai.com/index/malta-chatgpt-plus-partnership/)
 * [2026-05-16, 20:13:41](https://news.ycombinator.com/item?id=48163389) - [The Quiet Renovation at Bitwarden](https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden)

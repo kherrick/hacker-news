@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-05-18](index.md)
 
+* [2026-05-18, 20:30:58](https://news.ycombinator.com/item?id=48185188) - [No More JetBrains Products for Me](https://matthewkosarek.xyz/posts/jetbrains/)
+* [2026-05-18, 19:50:09](https://news.ycombinator.com/item?id=48184635) - [Shutterstock to pay $35M over hard-to-cancel subscriptions](https://www.ftc.gov/news-events/news/press-releases/2026/05/shutterstock-pay-35-million-settle-ftc-allegations-over-illegal-subscription-cancellation-practices)
 * [2026-05-18, 19:28:59](https://news.ycombinator.com/item?id=48184350) - [The FBI Wants to Buy Nationwide Access to License Plate Readers](https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-readers/)
 * [2026-05-18, 19:27:25](https://news.ycombinator.com/item?id=48184322) - [Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp](https://hyperpolyglot.org/lisp)
+* [2026-05-18, 19:20:33](https://news.ycombinator.com/item?id=48184214) - [Show HN: We missed Winamp, so we built an audio player for macOS](https://www.advanced-research.net/180db)
 * [2026-05-18, 18:45:29](https://news.ycombinator.com/item?id=48183784) - [New York to tax luxury second homes in NYC](https://apnews.com/article/mamdani-nyc-hochul-tax-rich-a30833850bfdbd638634def266ca76dd)
+* [2026-05-18, 18:44:03](https://news.ycombinator.com/item?id=48183757) - [loopmaster – Livecoding Music IDE](https://loopmaster.xyz/)
 * [2026-05-18, 18:43:30](https://news.ycombinator.com/item?id=48183748) - [Agora-1: The Multi-Agent World Model](https://odyssey.ml/introducing-agora-1)
 * [2026-05-18, 18:30:55](https://news.ycombinator.com/item?id=48183579) - [Haiku OS runs on M1 Macs now](https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2)
 * [2026-05-18, 18:17:21](https://news.ycombinator.com/item?id=48183379) - [Haiku OS runs on M1 Macs now](https://www.osnews.com/story/144985/haiku-os-runs-on-m1-macs-now/)
