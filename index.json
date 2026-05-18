@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-05-18, 20:30:58",
+      "https://news.ycombinator.com/item?id=48185188"
+    ],
+    [
+      "No More JetBrains Products for Me",
+      "https://matthewkosarek.xyz/posts/jetbrains/"
+    ]
+  ],
+  [
+    [
+      "2026-05-18, 19:50:09",
+      "https://news.ycombinator.com/item?id=48184635"
+    ],
+    [
+      "Shutterstock to pay $35M over hard-to-cancel subscriptions",
+      "https://www.ftc.gov/news-events/news/press-releases/2026/05/shutterstock-pay-35-million-settle-ftc-allegations-over-illegal-subscription-cancellation-practices"
+    ]
+  ],
+  [
+    [
       "2026-05-18, 19:28:59",
       "https://news.ycombinator.com/item?id=48184350"
     ],
@@ -21,12 +41,22 @@
   ],
   [
     [
-      "2026-05-18, 18:45:29",
-      "https://news.ycombinator.com/item?id=48183784"
+      "2026-05-18, 19:20:33",
+      "https://news.ycombinator.com/item?id=48184214"
     ],
     [
-      "New York to tax luxury second homes in NYC",
-      "https://apnews.com/article/mamdani-nyc-hochul-tax-rich-a30833850bfdbd638634def266ca76dd"
+      "Show HN: We missed Winamp, so we built an audio player for macOS",
+      "https://www.advanced-research.net/180db"
+    ]
+  ],
+  [
+    [
+      "2026-05-18, 18:44:03",
+      "https://news.ycombinator.com/item?id=48183757"
+    ],
+    [
+      "loopmaster – Livecoding Music IDE",
+      "https://loopmaster.xyz/"
     ]
   ],
   [
@@ -47,16 +77,6 @@
     [
       "Haiku OS runs on M1 Macs now",
       "https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2"
-    ]
-  ],
-  [
-    [
-      "2026-05-18, 18:17:21",
-      "https://news.ycombinator.com/item?id=48183379"
-    ],
-    [
-      "Haiku OS runs on M1 Macs now",
-      "https://www.osnews.com/story/144985/haiku-os-runs-on-m1-macs-now/"
     ]
   ],
   [
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2026-05-18, 15:40:42",
-      "https://news.ycombinator.com/item?id=48181342"
-    ],
-    [
-      "Show HN: InsForge – Open-source Heroku for coding agents",
-      "https://github.com/InsForge/InsForge"
-    ]
-  ],
-  [
-    [
       "2026-05-18, 15:24:19",
       "https://news.ycombinator.com/item?id=48181125"
     ],
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2026-05-18, 14:04:26",
-      "https://news.ycombinator.com/item?id=48180091"
-    ],
-    [
-      "Actually, democracy dies in H.R.",
-      "https://www.nytimes.com/2026/05/18/world/americas/actually-democracy-dies-in-hr.html"
-    ]
-  ],
-  [
-    [
       "2026-05-18, 13:37:11",
       "https://news.ycombinator.com/item?id=48179732"
     ],
@@ -177,16 +177,6 @@
     [
       "Show HN: Files.md – Open-source alternative to Obsidian",
       "https://github.com/zakirullin/files.md"
-    ]
-  ],
-  [
-    [
-      "2026-05-18, 13:01:18",
-      "https://news.ycombinator.com/item?id=48179183"
-    ],
-    [
-      "'We mould trees to grow into the shape of chairs'",
-      "https://www.bbc.co.uk/news/articles/cvg0yy3gp71o"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "It is time to give up the dualism introduced by the debate on consciousness",
       "https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/"
+    ]
+  ],
+  [
+    [
+      "2026-05-16, 21:57:39",
+      "https://news.ycombinator.com/item?id=48164147"
+    ],
+    [
+      "Understanding Singleflight in Go",
+      "https://www.codingexplorations.com/blog/understanding-singleflight-in-golang-a-solution-for-eliminating-redundant-work"
     ]
   ],
   [
