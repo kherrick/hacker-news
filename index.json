@@ -1,6 +1,86 @@
 [
   [
     [
+      "2026-05-18, 19:28:59",
+      "https://news.ycombinator.com/item?id=48184350"
+    ],
+    [
+      "The FBI Wants to Buy Nationwide Access to License Plate Readers",
+      "https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-readers/"
+    ]
+  ],
+  [
+    [
+      "2026-05-18, 19:27:25",
+      "https://news.ycombinator.com/item?id=48184322"
+    ],
+    [
+      "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
+      "https://hyperpolyglot.org/lisp"
+    ]
+  ],
+  [
+    [
+      "2026-05-18, 18:45:29",
+      "https://news.ycombinator.com/item?id=48183784"
+    ],
+    [
+      "New York to tax luxury second homes in NYC",
+      "https://apnews.com/article/mamdani-nyc-hochul-tax-rich-a30833850bfdbd638634def266ca76dd"
+    ]
+  ],
+  [
+    [
+      "2026-05-18, 18:43:30",
+      "https://news.ycombinator.com/item?id=48183748"
+    ],
+    [
+      "Agora-1: The Multi-Agent World Model",
+      "https://odyssey.ml/introducing-agora-1"
+    ]
+  ],
+  [
+    [
+      "2026-05-18, 18:30:55",
+      "https://news.ycombinator.com/item?id=48183579"
+    ],
+    [
+      "Haiku OS runs on M1 Macs now",
+      "https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2"
+    ]
+  ],
+  [
+    [
+      "2026-05-18, 18:17:21",
+      "https://news.ycombinator.com/item?id=48183379"
+    ],
+    [
+      "Haiku OS runs on M1 Macs now",
+      "https://www.osnews.com/story/144985/haiku-os-runs-on-m1-macs-now/"
+    ]
+  ],
+  [
+    [
+      "2026-05-18, 18:12:18",
+      "https://news.ycombinator.com/item?id=48183301"
+    ],
+    [
+      "We let AIs run radio stations",
+      "https://andonlabs.com/blog/andon-fm"
+    ]
+  ],
+  [
+    [
+      "2026-05-18, 17:56:26",
+      "https://news.ycombinator.com/item?id=48183038"
+    ],
+    [
+      "Cutting inference cold starts by 40x with LP, FUSE, C/R, and CUDA-checkpoint",
+      "https://modal.com/blog/truly-serverless-gpus"
+    ]
+  ],
+  [
+    [
       "2026-05-18, 17:38:22",
       "https://news.ycombinator.com/item?id=48182754"
     ],
@@ -15,18 +95,8 @@
       "https://news.ycombinator.com/item?id=48182592"
     ],
     [
-      "Iran Starts Bitcoin-Backed Ship Insurance for Hormuz Strait",
+      "Iran starts Bitcoin-backed ship insurance for Hormuz strait",
       "https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait"
-    ]
-  ],
-  [
-    [
-      "2026-05-18, 17:20:43",
-      "https://news.ycombinator.com/item?id=48182516"
-    ],
-    [
-      "Cursor Introduces Composer 2.5",
-      "https://twitter.com/cursor_ai/status/2056415413077233983"
     ]
   ],
   [
@@ -35,7 +105,7 @@
       "https://news.ycombinator.com/item?id=48182281"
     ],
     [
-      "Anthropic Acquires Stainless",
+      "Anthropic acquires Stainless",
       "https://www.anthropic.com/news/anthropic-acquires-stainless"
     ]
   ],
@@ -81,16 +151,6 @@
   ],
   [
     [
-      "2026-05-18, 14:13:07",
-      "https://news.ycombinator.com/item?id=48180204"
-    ],
-    [
-      "1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries",
-      "https://github.com/2b2tplace/1m_release"
-    ]
-  ],
-  [
-    [
       "2026-05-18, 14:04:26",
       "https://news.ycombinator.com/item?id=48180091"
     ],
@@ -131,26 +191,6 @@
   ],
   [
     [
-      "2026-05-18, 12:49:54",
-      "https://news.ycombinator.com/item?id=48179029"
-    ],
-    [
-      "Enough with the AI FOMO, go slow-mo, says Domo CDO",
-      "https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840"
-    ]
-  ],
-  [
-    [
-      "2026-05-18, 12:20:50",
-      "https://news.ycombinator.com/item?id=48178692"
-    ],
-    [
-      "Linux security mailing list 'almost unmanageable'",
-      "https://www.theregister.com/security/2026/05/18/linus-torvalds-says-ai-powered-bug-hunters-have-made-linux-security-mailing-list-almost-entirely-unmanageable/5241633"
-    ]
-  ],
-  [
-    [
       "2026-05-18, 12:17:04",
       "https://news.ycombinator.com/item?id=48178652"
     ],
@@ -165,7 +205,7 @@
       "https://news.ycombinator.com/item?id=48178510"
     ],
     [
-      "When Kierkegaard Got Cancelled",
+      "Mocked by a scandal sheet, Kierkegaard endured months of personal attacks",
       "https://www.plough.com/en/topics/faith/discipleship/when-kierkegaard-got-cancelled"
     ]
   ],
@@ -181,62 +221,12 @@
   ],
   [
     [
-      "2026-05-18, 11:32:42",
-      "https://news.ycombinator.com/item?id=48178184"
-    ],
-    [
-      "Show HN: Auto-identity-remove – Automated data broker opt-out runner for macOS",
-      "https://github.com/stephenlthorn/auto-identity-remove"
-    ]
-  ],
-  [
-    [
-      "2026-05-18, 09:40:51",
-      "https://news.ycombinator.com/item?id=48177300"
-    ],
-    [
-      "The foundations of a provably secure operating system (PSOS) (1979) [pdf]",
-      "http://www.csl.sri.com/users/neumann/psos.pdf"
-    ]
-  ],
-  [
-    [
-      "2026-05-18, 09:21:42",
-      "https://news.ycombinator.com/item?id=48177163"
-    ],
-    [
-      "Don't answer the first question",
-      "https://lalitm.com/post/dont-answer-the-first-question/"
-    ]
-  ],
-  [
-    [
       "2026-05-18, 02:59:34",
       "https://news.ycombinator.com/item?id=48175140"
     ],
     [
       "It is time to give up the dualism introduced by the debate on consciousness",
       "https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/"
-    ]
-  ],
-  [
-    [
-      "2026-05-17, 21:40:35",
-      "https://news.ycombinator.com/item?id=48173429"
-    ],
-    [
-      "GenCAD",
-      "https://gencad.github.io/"
-    ]
-  ],
-  [
-    [
-      "2026-05-17, 08:55:28",
-      "https://news.ycombinator.com/item?id=48167177"
-    ],
-    [
-      "Porting my 3D points renderer on a ZX Spectrum 48K",
-      "https://github.com/ttsiodras/3D-on-a-ZX-Spectrum-48K/"
     ]
   ],
   [
@@ -261,6 +251,16 @@
   ],
   [
     [
+      "2026-05-16, 18:02:56",
+      "https://news.ycombinator.com/item?id=48162379"
+    ],
+    [
+      "I 3D Printed Origami [video]",
+      "https://www.youtube.com/watch?v=FNVBK7-h9Fs"
+    ]
+  ],
+  [
+    [
       "2026-05-16, 17:31:35",
       "https://news.ycombinator.com/item?id=48162157"
     ],
@@ -275,18 +275,8 @@
       "https://news.ycombinator.com/item?id=48156186"
     ],
     [
-      "Two computers, one monitor, zero fiddling – Alex Plescan",
+      "Two computers, one monitor, zero fiddling (2025)",
       "https://alexplescan.com/posts/2025/08/16/kvm/"
-    ]
-  ],
-  [
-    [
-      "2026-05-15, 23:54:33",
-      "https://news.ycombinator.com/item?id=48155450"
-    ],
-    [
-      "Crystals found inside wreckage from the first nuclear bomb test",
-      "https://www.scientificamerican.com/article/strange-crystals-found-inside-wreckage-from-the-first-nuclear-bomb-test/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "The Aperiodic Table",
       "https://blog.jgc.org/2026/05/the-aperiodic-table.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-15, 12:58:26",
+      "https://news.ycombinator.com/item?id=48148026"
+    ],
+    [
+      "Stratum: System-Hardware Co-Design with 3D-Stackable DRAM for Efficient Moe",
+      "https://dl.acm.org/doi/10.1145/3725843.3756043"
     ]
   ]
 ]
