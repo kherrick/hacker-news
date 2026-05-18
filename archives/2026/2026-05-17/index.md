@@ -36,6 +36,7 @@
 * [2026-05-17, 12:03:04](https://news.ycombinator.com/item?id=48168159) - [Scientists believe ibogaine can help veterans overcome PTSD](https://www.bbc.com/future/article/20260514-how-hallucinogenic-ibogaine-helps-veterans-overcome-ptsd)
 * [2026-05-17, 11:49:46](https://news.ycombinator.com/item?id=48168058) - [Native all the way, until you need text](https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/)
 * [2026-05-17, 11:49:31](https://news.ycombinator.com/item?id=48168056) - [Every AI Subscription Is a Ticking Time Bomb for Enterprise](https://www.thestateofbrand.com/news/ai-subscription-time-bomb)
+* [2026-05-17, 08:55:28](https://news.ycombinator.com/item?id=48167177) - [Porting my 3D points renderer on a ZX Spectrum 48K](https://github.com/ttsiodras/3D-on-a-ZX-Spectrum-48K/)
 * [2026-05-17, 08:00:04](https://news.ycombinator.com/item?id=48166920) - [Playing Atari ST Music on the Amiga with Zero CPU](https://arnaud-carre.github.io/2026-05-15-ym-fast-emu/)
 * [2026-05-17, 07:44:16](https://news.ycombinator.com/item?id=48166856) - [kharp – k version 3 Language Interpreter in C#](https://github.com/ERufian/ksharp)
 * [2026-05-17, 06:17:26](https://news.ycombinator.com/item?id=48166459) - [Mozilla to UK regulators: VPNs are essential privacy and security tools](https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/)
