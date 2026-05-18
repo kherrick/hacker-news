@@ -4,9 +4,17 @@
 
 ### [Archives](../../index.md) for [2026-05-18](index.md)
 
+* [2026-05-18, 17:38:22](https://news.ycombinator.com/item?id=48182754) - [Elon Musk has lost his lawsuit against Sam Altman and OpenAI](https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/)
+* [2026-05-18, 17:25:54](https://news.ycombinator.com/item?id=48182592) - [Iran Starts Bitcoin-Backed Ship Insurance for Hormuz Strait](https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait)
+* [2026-05-18, 17:20:43](https://news.ycombinator.com/item?id=48182516) - [Cursor Introduces Composer 2.5](https://twitter.com/cursor_ai/status/2056415413077233983)
+* [2026-05-18, 17:01:21](https://news.ycombinator.com/item?id=48182281) - [Anthropic Acquires Stainless](https://www.anthropic.com/news/anthropic-acquires-stainless)
+* [2026-05-18, 16:24:11](https://news.ycombinator.com/item?id=48181877) - [Qwen 3.7 Preview](https://twitter.com/Alibaba_Qwen/status/2056403591464984753)
+* [2026-05-18, 15:40:42](https://news.ycombinator.com/item?id=48181342) - [Show HN: InsForge – Open-source Heroku for coding agents](https://github.com/InsForge/InsForge)
 * [2026-05-18, 15:24:19](https://news.ycombinator.com/item?id=48181125) - [We stopped AI bot spam in our GitHub repo using Git's –author flag](https://archestra.ai/blog/only-responsible-ai)
+* [2026-05-18, 15:18:19](https://news.ycombinator.com/item?id=48181041) - [Garry Tan, the CEO of YC, accused me of unethical reporting](https://radleybalko.substack.com/p/truth-power-and-honest-journalism)
 * [2026-05-18, 15:05:04](https://news.ycombinator.com/item?id=48180881) - [What “Amazon Supply Chain Services” Tells Us About What Amazon Is](https://gadallon.substack.com/p/the-third-time-amazon-did-this-what)
 * [2026-05-18, 14:13:07](https://news.ycombinator.com/item?id=48180204) - [1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries](https://github.com/2b2tplace/1m_release)
+* [2026-05-18, 14:04:26](https://news.ycombinator.com/item?id=48180091) - [Actually, democracy dies in H.R.](https://www.nytimes.com/2026/05/18/world/americas/actually-democracy-dies-in-hr.html)
 * [2026-05-18, 13:37:11](https://news.ycombinator.com/item?id=48179732) - [Project Glasswing: what Mythos showed us](https://blog.cloudflare.com/cyber-frontier-models/)
 * [2026-05-18, 13:33:33](https://news.ycombinator.com/item?id=48179677) - [Show HN: Files.md – Open-source alternative to Obsidian](https://github.com/zakirullin/files.md)
 * [2026-05-18, 13:26:34](https://news.ycombinator.com/item?id=48179569) - [Researchers Wanted Preschool Teachers to Wear Cameras to Train AI](https://www.404media.co/researchers-wanted-preschool-teachers-to-wear-cameras-to-train-ai/)
