@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-17](index.md)
 
+* [2026-05-17, 22:47:05](https://news.ycombinator.com/item?id=48173849) - [Design posters showcasing your country's electrical grid](https://github.com/open-energy-transition/grid2poster)
 * [2026-05-17, 22:23:30](https://news.ycombinator.com/item?id=48173708) - [Fabricked: Misconfiguring Infinity Fabric to Break AMD SEV-SNP](https://xca-attacks.github.io/fabricked/)
 * [2026-05-17, 21:56:40](https://news.ycombinator.com/item?id=48173547) - [ThinkPad: From IBM's Bento Box to Lenovo's AI Workstations](https://www.jdhodges.com/blog/thinkpad-history/)
 * [2026-05-17, 21:49:44](https://news.ycombinator.com/item?id=48173501) - [AI Wearables Are Coming but They'll Need to Pass the Coffee Shop Test to Survive](https://www.inc.com/connor-jewiss/ai-wearables-are-coming-but-theyll-need-to-pass-this-crucial-coffee-shop-test-to-survive/91345526)

@@ -27,6 +27,7 @@
 * [2026-05-15, 18:00:03](https://news.ycombinator.com/item?id=48151761) - [Building a UMatrix Replacement](https://lock.cmpxchg8b.com/umatrix.html)
 * [2026-05-15, 17:28:24](https://news.ycombinator.com/item?id=48151383) - [U.S. DOJ demands Apple and Google unmask over 100k users of car-tinkering app](https://macdailynews.com/2026/05/15/u-s-doj-demands-apple-and-google-unmask-over-100000-users-of-popular-car-tinkering-app-in-emissions-crackdown/)
 * [2026-05-15, 17:22:53](https://news.ycombinator.com/item?id=48151317) - [Feedr v0.8.0 – a TUI RSS reader, now read the full article from your terminal](https://github.com/bahdotsh/feedr)
+* [2026-05-15, 17:17:04](https://news.ycombinator.com/item?id=48151251) - [Jank now has its own custom IR](https://jank-lang.org/blog/2026-05-08-optimization/)
 * [2026-05-15, 17:15:58](https://news.ycombinator.com/item?id=48151237) - [I designed a nibble-oriented CPU in Verilog to build a scientific calculator](https://github.com/gdevic/FPGA-Calculator)
 * [2026-05-15, 17:12:48](https://news.ycombinator.com/item?id=48151199) - [Aperio Lang](https://aperio-lang.github.io/aperio/introduction.html)
 * [2026-05-15, 17:03:22](https://news.ycombinator.com/item?id=48151058) - [Show HN: Sx – an open-source package manager for AI skills, MCPs, and commands](https://github.com/sleuth-io/sx)

@@ -12,6 +12,7 @@
 * [2026-05-14, 22:34:32](https://news.ycombinator.com/item?id=48142154) - [Roman Letters](https://romanletters.org/)
 * [2026-05-14, 22:30:16](https://news.ycombinator.com/item?id=48142115) - [Colossus: The Forbin Project](https://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project)
 * [2026-05-14, 22:29:12](https://news.ycombinator.com/item?id=48142108) - [A few words on DS4](https://antirez.com/news/165)
+* [2026-05-14, 22:12:45](https://news.ycombinator.com/item?id=48141960) - [Cannibalistic attacks between gray seals leave telltale “corkscrew” injuries](https://www.science.org/content/article/scientists-id-corkscrew-killer-behind-gruesome-seal-deaths)
 * [2026-05-14, 22:05:30](https://news.ycombinator.com/item?id=48141902) - [Show HN: GridTravel- A community based travel app for users to share routes](https://www.gridtravel.app)
 * [2026-05-14, 21:50:17](https://news.ycombinator.com/item?id=48141732) - [OVMS: Open source electric vehicle remote monitoring, diagnosis and control](https://www.openvehicles.com/home)
 * [2026-05-14, 21:15:35](https://news.ycombinator.com/item?id=48141354) - [Mado: Fast Markdown linter written in Rust](https://github.com/akiomik/mado)
