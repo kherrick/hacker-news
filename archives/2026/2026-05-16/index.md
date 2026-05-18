@@ -6,6 +6,7 @@
 
 * [2026-05-16, 23:59:47](https://news.ycombinator.com/item?id=48164891) - [Fisker went bankrupt and owners built an open source car company from the ashes](https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/)
 * [2026-05-16, 22:45:16](https://news.ycombinator.com/item?id=48164432) - [A Nicer Voltmeter Clock](https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock)
+* [2026-05-16, 22:40:37](https://news.ycombinator.com/item?id=48164388) - [The Futility of Lava Lamps: What Random Means](https://loup-vaillant.fr/articles/lava-lamps-and-randomness)
 * [2026-05-16, 22:25:33](https://news.ycombinator.com/item?id=48164294) - [MCP Hello Page](https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page)
 * [2026-05-16, 22:23:50](https://news.ycombinator.com/item?id=48164287) - [Zerostack – A Unix-inspired coding agent written in pure Rust](https://crates.io/crates/zerostack/1.0.0)
 * [2026-05-16, 22:13:54](https://news.ycombinator.com/item?id=48164229) - [I tried to make Claude make me money on Algora bounties (data and tool)](https://github.com/ztc00/algora-scout/blob/main/POST.md)
