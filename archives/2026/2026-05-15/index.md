@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-15](index.md)
 
+* [2026-05-15, 23:54:33](https://news.ycombinator.com/item?id=48155450) - [Crystals found inside wreckage from the first nuclear bomb test](https://www.scientificamerican.com/article/strange-crystals-found-inside-wreckage-from-the-first-nuclear-bomb-test/)
 * [2026-05-15, 23:37:32](https://news.ycombinator.com/item?id=48155324) - [The main thing about P2P meth is that there's so much of it (2021)](https://dynomight.net/p2p-meth/)
 * [2026-05-15, 23:33:32](https://news.ycombinator.com/item?id=48155297) - [Erlang/OTP 29.0](https://www.erlang.org/news/188)
 * [2026-05-15, 23:22:30](https://news.ycombinator.com/item?id=48155212) - [SQL patterns I use to catch transaction fraud](https://analytics.fixelsmith.com/posts/sql-fraud-patterns/)
@@ -35,6 +36,7 @@
 * [2026-05-15, 16:57:05](https://news.ycombinator.com/item?id=48150971) - [We don't know why Malawi is poor](https://newsletter.deenamousa.com/p/we-dont-know-why-malawi-is-poor)
 * [2026-05-15, 16:51:25](https://news.ycombinator.com/item?id=48150900) - [Bun Rust rewrite: \"codebase fails basic miri checks, allows for UB in safe rust\"](https://github.com/oven-sh/bun/issues/30719)
 * [2026-05-15, 16:38:50](https://news.ycombinator.com/item?id=48150723) - [OpenAI is connecting ChatGPT to bank accounts via Plaid](https://firethering.com/chatgpt-bank-account-plaid-openai/)
+* [2026-05-15, 16:36:30](https://news.ycombinator.com/item?id=48150690) - [Build a Radio Wave Detector with Balls of Aluminum Foil](https://www.wired.com/story/build-a-radio-wave-detector-with-balls-of-aluminum-foil/)
 * [2026-05-15, 16:15:36](https://news.ycombinator.com/item?id=48150431) - [Project Gutenberg – keeps getting better](https://www.gutenberg.org/)
 * [2026-05-15, 15:45:11](https://news.ycombinator.com/item?id=48150097) - [I built Zenith: a live local-first fixed viewport planetarium](https://smorgasb.org/zenith-tech/)
 * [2026-05-15, 15:42:37](https://news.ycombinator.com/item?id=48150069) - [Image-blaster: Creates 3D environments, SFX, and meshes from a single image](https://github.com/neilsonnn/image-blaster)
