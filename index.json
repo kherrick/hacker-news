@@ -1,22 +1,92 @@
 [
   [
     [
+      "2026-05-18, 12:20:50",
+      "https://news.ycombinator.com/item?id=48178692"
+    ],
+    [
+      "Linux security mailing list 'almost unmanageable'",
+      "https://www.theregister.com/security/2026/05/18/linus-torvalds-says-ai-powered-bug-hunters-have-made-linux-security-mailing-list-almost-entirely-unmanageable/5241633"
+    ]
+  ],
+  [
+    [
+      "2026-05-18, 11:32:42",
+      "https://news.ycombinator.com/item?id=48178184"
+    ],
+    [
+      "I automated opt-outs for 500 data broker sites (open source)",
+      "https://github.com/stephenlthorn/auto-identity-remove"
+    ]
+  ],
+  [
+    [
+      "2026-05-18, 10:50:25",
+      "https://news.ycombinator.com/item?id=48177785"
+    ],
+    [
+      "Eric Schmidt speech about AI booed during graduation",
+      "https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585"
+    ]
+  ],
+  [
+    [
+      "2026-05-18, 10:43:56",
+      "https://news.ycombinator.com/item?id=48177716"
+    ],
+    [
+      "NASA still maintains some of the Voyager spacecraft code from the 70s era",
+      "https://spacedaily.com/nasa-still-maintains-some-of-the-voyager-spacecraft-code-in-a-1970s-era-programming-language-that-almost-nobody-on-earth-fully-understands-anymore-and-the-handful-of-engineers-who-do-are-now-in-their/"
+    ]
+  ],
+  [
+    [
+      "2026-05-18, 10:05:52",
+      "https://news.ycombinator.com/item?id=48177452"
+    ],
+    [
+      "Dogme 25 – Vow of Chastity",
+      "https://dogma25.dk/"
+    ]
+  ],
+  [
+    [
+      "2026-05-18, 09:40:51",
+      "https://news.ycombinator.com/item?id=48177300"
+    ],
+    [
+      "The foundations of a provably secure operating system (PSOS) (1979) [pdf]",
+      "http://www.csl.sri.com/users/neumann/psos.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-05-18, 09:28:56",
+      "https://news.ycombinator.com/item?id=48177228"
+    ],
+    [
+      "Where Are the Vibecoded Photoshops?",
+      "https://indiepixel.de/blog/posts/where-are-the-vibecoded-photoshops/"
+    ]
+  ],
+  [
+    [
+      "2026-05-18, 09:21:42",
+      "https://news.ycombinator.com/item?id=48177163"
+    ],
+    [
+      "Don't Answer the First Question",
+      "https://lalitm.com/post/dont-answer-the-first-question/"
+    ]
+  ],
+  [
+    [
       "2026-05-18, 08:19:21",
       "https://news.ycombinator.com/item?id=48176762"
     ],
     [
       "Why is Google Maps back to showing old satellite images of Altadena?",
       "https://www.reddit.com/r/pasadena/s/94BHlkE84r"
-    ]
-  ],
-  [
-    [
-      "2026-05-18, 04:38:58",
-      "https://news.ycombinator.com/item?id=48175637"
-    ],
-    [
-      "Étienne Ghys: The Shape of Letters: From Leonardo da Vinci to Donald Knuth",
-      "https://www.youtube.com/watch?v=1OIxzewWilc"
     ]
   ],
   [
@@ -71,16 +141,6 @@
   ],
   [
     [
-      "2026-05-17, 19:39:10",
-      "https://news.ycombinator.com/item?id=48172505"
-    ],
-    [
-      "VoIP brings back old-fashioned pay phones to rural Vermont (2025)",
-      "https://spectrum.ieee.org/payphone-voip"
-    ]
-  ],
-  [
-    [
       "2026-05-17, 15:37:07",
       "https://news.ycombinator.com/item?id=48169874"
     ],
@@ -111,52 +171,12 @@
   ],
   [
     [
-      "2026-05-17, 12:13:45",
-      "https://news.ycombinator.com/item?id=48168221"
-    ],
-    [
-      "I don't think AI will make your processes go faster",
-      "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/"
-    ]
-  ],
-  [
-    [
-      "2026-05-17, 12:03:04",
-      "https://news.ycombinator.com/item?id=48168159"
-    ],
-    [
-      "Trials on veterans suggest ibogaine could provide a new treatment for PTSD",
-      "https://www.bbc.com/future/article/20260514-how-hallucinogenic-ibogaine-helps-veterans-overcome-ptsd"
-    ]
-  ],
-  [
-    [
       "2026-05-17, 07:44:16",
       "https://news.ycombinator.com/item?id=48166856"
     ],
     [
       "kharp – k version 3 Language Interpreter in C#",
       "https://github.com/ERufian/ksharp"
-    ]
-  ],
-  [
-    [
-      "2026-05-17, 04:09:52",
-      "https://news.ycombinator.com/item?id=48165980"
-    ],
-    [
-      "Tesla Solar Roof is on life support as it pivot to panels",
-      "https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels/"
-    ]
-  ],
-  [
-    [
-      "2026-05-16, 22:45:16",
-      "https://news.ycombinator.com/item?id=48164432"
-    ],
-    [
-      "A nicer voltmeter clock",
-      "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock"
     ]
   ],
   [
@@ -241,12 +261,12 @@
   ],
   [
     [
-      "2026-05-15, 14:05:25",
-      "https://news.ycombinator.com/item?id=48148766"
+      "2026-05-15, 13:29:52",
+      "https://news.ycombinator.com/item?id=48148351"
     ],
     [
-      "The SGI Buyer's Guide (2003)",
-      "https://hardware.majix.org/computers/sgi/buyers-guide.shtml"
+      "Graphing Scientific Calculator Based on the ESP32",
+      "https://github.com/El-EnderJ/NeoCalculator"
     ]
   ],
   [
@@ -261,26 +281,6 @@
   ],
   [
     [
-      "2026-05-14, 22:30:16",
-      "https://news.ycombinator.com/item?id=48142115"
-    ],
-    [
-      "Colossus: The Forbin Project",
-      "https://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project"
-    ]
-  ],
-  [
-    [
-      "2026-05-14, 22:12:45",
-      "https://news.ycombinator.com/item?id=48141960"
-    ],
-    [
-      "Cannibalistic attacks between gray seals leave telltale “corkscrew” injuries",
-      "https://www.science.org/content/article/scientists-id-corkscrew-killer-behind-gruesome-seal-deaths"
-    ]
-  ],
-  [
-    [
       "2026-05-14, 20:08:12",
       "https://news.ycombinator.com/item?id=48140556"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-05-14, 10:08:04",
-      "https://news.ycombinator.com/item?id=48133293"
+      "2026-05-14, 13:28:16",
+      "https://news.ycombinator.com/item?id=48135096"
     ],
     [
-      "High-Entropy Alloy",
-      "https://en.wikipedia.org/wiki/High-entropy_alloy"
+      "Math Jokes in Alice in Wonderland",
+      "https://storica.club/blog/alice-is-math-jokes/"
     ]
   ]
 ]
