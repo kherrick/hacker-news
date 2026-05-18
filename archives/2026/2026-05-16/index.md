@@ -43,6 +43,7 @@
 * [2026-05-16, 08:30:51](https://news.ycombinator.com/item?id=48158110) - [Someone Shared a Real Monet Painting as AI and Asked for Critiques](https://petapixel.com/2026/05/14/someone-shared-a-real-monet-painting-as-ai-and-asked-for-critiques/)
 * [2026-05-16, 08:25:17](https://news.ycombinator.com/item?id=48158065) - [We've made the world too complicated](https://user8.bearblog.dev/the-world-is-too-complicated/)
 * [2026-05-16, 07:01:55](https://news.ycombinator.com/item?id=48157559) - [Frontier AI has broken the open CTF format](https://kabir.au/blog/the-ctf-scene-is-dead)
+* [2026-05-16, 05:56:41](https://news.ycombinator.com/item?id=48157229) - [A Good Lemma Is Worth a Thousand Theorems (2007)](https://sites.math.rutgers.edu/~zeilberg/Opinion82.html)
 * [2026-05-16, 03:42:30](https://news.ycombinator.com/item?id=48156628) - [California's Battery Array Is as Powerful as 12 Nuclear Power Plants](https://zolairenergy.com/californias-battery-array-is-as-powerful-as-12-nuclear-power-plants-heres-whats-on-the-horizon/)
 * [2026-05-16, 03:34:26](https://news.ycombinator.com/item?id=48156596) - [Schanuel's Conjecture and the Semantics of Triton's FPSan](https://cp4space.hatsya.com/2026/05/03/schanuels-conjecture-and-the-semantics-of-fpsan/)
 * [2026-05-16, 01:25:29](https://news.ycombinator.com/item?id=48155936) - [Magical Realism: “Northern Exposure” 25 Years Later (2015)](https://www.rogerebert.com/streaming/magical-realism-nothern-exposure-25-years-later)

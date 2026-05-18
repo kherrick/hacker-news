@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-17](index.md)
 
+* [2026-05-17, 23:10:09](https://news.ycombinator.com/item?id=48173962) - [WriteUp: 16 Bytes of x86 that turn Matrix rain into sound](https://hellmood.111mb.de//wake_up_16b_writeup.html)
 * [2026-05-17, 22:47:05](https://news.ycombinator.com/item?id=48173849) - [Design posters showcasing your country's electrical grid](https://github.com/open-energy-transition/grid2poster)
 * [2026-05-17, 22:23:30](https://news.ycombinator.com/item?id=48173708) - [Fabricked: Misconfiguring Infinity Fabric to Break AMD SEV-SNP](https://xca-attacks.github.io/fabricked/)
 * [2026-05-17, 21:56:40](https://news.ycombinator.com/item?id=48173547) - [ThinkPad: From IBM's Bento Box to Lenovo's AI Workstations](https://www.jdhodges.com/blog/thinkpad-history/)
