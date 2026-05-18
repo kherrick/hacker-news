@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-18](index.md)
 
+* [2026-05-18, 23:03:02](https://news.ycombinator.com/item?id=48187054) - [Click](https://clickclickclick.click/)
 * [2026-05-18, 21:29:13](https://news.ycombinator.com/item?id=48185938) - [Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment](https://arxiv.org/abs/2601.10160)
 * [2026-05-18, 21:18:25](https://news.ycombinator.com/item?id=48185789) - [Who will buy your services if you fire us all?](https://carette.xyz/posts/who_will_buy_your_services/)
 * [2026-05-18, 20:30:58](https://news.ycombinator.com/item?id=48185188) - [No More JetBrains Products for Me](https://matthewkosarek.xyz/posts/jetbrains/)
@@ -46,6 +47,7 @@
 * [2026-05-18, 09:40:51](https://news.ycombinator.com/item?id=48177300) - [The foundations of a provably secure operating system (PSOS) (1979) [pdf]](http://www.csl.sri.com/users/neumann/psos.pdf)
 * [2026-05-18, 09:28:56](https://news.ycombinator.com/item?id=48177228) - [Where Are the Vibecoded Photoshops?](https://indiepixel.de/blog/posts/where-are-the-vibecoded-photoshops/)
 * [2026-05-18, 09:21:42](https://news.ycombinator.com/item?id=48177163) - [Don't Answer the First Question](https://lalitm.com/post/dont-answer-the-first-question/)
+* [2026-05-18, 08:36:42](https://news.ycombinator.com/item?id=48176873) - [Earth's Radio Bubble: Every signal we've ever sent into space](https://www.thescientificdrop.com/2026/05/earths-radio-bubble-every-signal-weve.html)
 * [2026-05-18, 08:19:21](https://news.ycombinator.com/item?id=48176762) - [Why is Google Maps back to showing old satellite images of Altadena?](https://www.reddit.com/r/pasadena/s/94BHlkE84r)
 * [2026-05-18, 04:38:58](https://news.ycombinator.com/item?id=48175637) - [Étienne Ghys: The Shape of Letters: From Leonardo da Vinci to Donald Knuth](https://www.youtube.com/watch?v=1OIxzewWilc)
 * [2026-05-18, 03:41:35](https://news.ycombinator.com/item?id=48175319) - [America's Most-Spoken Languages After English and Spanish](https://www.visualcapitalist.com/mapped-americas-most-spoken-languages-after-english-and-spanish/)

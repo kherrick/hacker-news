@@ -24,6 +24,7 @@
 * [2026-05-15, 19:07:08](https://news.ycombinator.com/item?id=48152553) - [ABC News has taken all FiveThirtyEight articles offline](https://twitter.com/baseballot/status/2055309076209492208)
 * [2026-05-15, 18:43:59](https://news.ycombinator.com/item?id=48152273) - [Echoes (Live at Pompeii)](https://genius.com/Pink-floyd-echoes-live-at-pompeii-lyrics)
 * [2026-05-15, 18:37:01](https://news.ycombinator.com/item?id=48152168) - [The Zulip Foundation](https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/)
+* [2026-05-15, 18:27:07](https://news.ycombinator.com/item?id=48152047) - [Heirs and Spares in Early Modern France](https://www.historytoday.com/archive/feature/heirs-and-spares-early-modern-france)
 * [2026-05-15, 18:23:19](https://news.ycombinator.com/item?id=48151990) - [The Aperiodic Table](https://blog.jgc.org/2026/05/the-aperiodic-table.html)
 * [2026-05-15, 18:00:43](https://news.ycombinator.com/item?id=48151767) - [Waymo recalls 3,800 robotaxis after they drive into flood waters](https://www.cnbc.com/2026/05/12/waymo-recalls-3800-robotaxis-after-able-drive-into-standing-water.html)
 * [2026-05-15, 18:00:03](https://news.ycombinator.com/item?id=48151761) - [Building a UMatrix Replacement](https://lock.cmpxchg8b.com/umatrix.html)
