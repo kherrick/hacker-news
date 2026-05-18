@@ -47,6 +47,7 @@
 * [2026-05-15, 14:02:36](https://news.ycombinator.com/item?id=48148726) - [ASCII by Jason Scott](https://ascii.textfiles.com/)
 * [2026-05-15, 13:39:54](https://news.ycombinator.com/item?id=48148460) - [A 0-click exploit chain for the Pixel 10](https://projectzero.google/2026/05/pixel-10-exploit.html)
 * [2026-05-15, 13:33:15](https://news.ycombinator.com/item?id=48148391) - [The Wonders of AI: We Are Retiring Our Bug Bounty Program](https://turso.tech/blog/the-wonders-of-ai)
+* [2026-05-15, 13:29:52](https://news.ycombinator.com/item?id=48148351) - [Graphing Scientific Calculator Based on the ESP32](https://github.com/El-EnderJ/NeoCalculator)
 * [2026-05-15, 13:28:55](https://news.ycombinator.com/item?id=48148337) - [Amazon workers under pressure to up their AI usage–so they're making up tasks](https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks)
 * [2026-05-15, 13:25:53](https://news.ycombinator.com/item?id=48148309) - [High dimensional geometry is transforming the MRI industry(2017) [pdf]](https://www.ams.org/government/DonohoPresentation06-28-17Final.pdf)
 * [2026-05-15, 13:05:29](https://news.ycombinator.com/item?id=48148084) - [Trade Dollars with other startups. Book it as revenue](https://www.revswap.ai/)

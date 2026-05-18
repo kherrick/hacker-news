@@ -60,6 +60,7 @@
 * [2026-05-14, 14:32:46](https://news.ycombinator.com/item?id=48136000) - [Naturally Occurring Quasicrystals](https://johncarlosbaez.wordpress.com/2026/05/14/naturally-occurring-quasicrystals/)
 * [2026-05-14, 14:17:12](https://news.ycombinator.com/item?id=48135782) - [Meta's New Reality: Record High Profits. Record Low Morale](https://www.wired.com/story/meta-layoffs-bad-vibes-mark-zuckerberg-ai/)
 * [2026-05-14, 14:15:50](https://news.ycombinator.com/item?id=48135764) - [Show HN: Race to the Bottom](https://race-to-the-bottom.onrender.com)
+* [2026-05-14, 13:28:16](https://news.ycombinator.com/item?id=48135096) - [Math Jokes in Alice in Wonderland](https://storica.club/blog/alice-is-math-jokes/)
 * [2026-05-14, 13:17:57](https://news.ycombinator.com/item?id=48134993) - [USDA Projects Smallest US Wheat Harvest Since 1972 Due to Plains Drought](https://www.agweb.com/news/usda-projects-smallest-us-wheat-harvest-1972-due-plains-drought)
 * [2026-05-14, 13:10:32](https://news.ycombinator.com/item?id=48134905) - [Beware of Drunk Deer, French Police Say, Announcing Season of Inebriation](https://www.nytimes.com/2026/05/13/world/europe/france-drunk-deer.html)
 * [2026-05-14, 13:00:31](https://news.ycombinator.com/item?id=48134784) - [The Third Hard Problem](https://mmapped.blog/posts/48-the-third-hard-problem)
