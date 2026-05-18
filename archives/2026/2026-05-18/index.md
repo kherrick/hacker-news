@@ -4,6 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-05-18](index.md)
 
+* [2026-05-18, 19:28:59](https://news.ycombinator.com/item?id=48184350) - [The FBI Wants to Buy Nationwide Access to License Plate Readers](https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-readers/)
+* [2026-05-18, 19:27:25](https://news.ycombinator.com/item?id=48184322) - [Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp](https://hyperpolyglot.org/lisp)
+* [2026-05-18, 18:45:29](https://news.ycombinator.com/item?id=48183784) - [New York to tax luxury second homes in NYC](https://apnews.com/article/mamdani-nyc-hochul-tax-rich-a30833850bfdbd638634def266ca76dd)
+* [2026-05-18, 18:43:30](https://news.ycombinator.com/item?id=48183748) - [Agora-1: The Multi-Agent World Model](https://odyssey.ml/introducing-agora-1)
+* [2026-05-18, 18:30:55](https://news.ycombinator.com/item?id=48183579) - [Haiku OS runs on M1 Macs now](https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2)
+* [2026-05-18, 18:17:21](https://news.ycombinator.com/item?id=48183379) - [Haiku OS runs on M1 Macs now](https://www.osnews.com/story/144985/haiku-os-runs-on-m1-macs-now/)
+* [2026-05-18, 18:12:18](https://news.ycombinator.com/item?id=48183301) - [We let AIs run radio stations](https://andonlabs.com/blog/andon-fm)
+* [2026-05-18, 17:56:26](https://news.ycombinator.com/item?id=48183038) - [Cutting inference cold starts by 40x with LP, FUSE, C/R, and CUDA-checkpoint](https://modal.com/blog/truly-serverless-gpus)
 * [2026-05-18, 17:38:22](https://news.ycombinator.com/item?id=48182754) - [Elon Musk has lost his lawsuit against Sam Altman and OpenAI](https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/)
 * [2026-05-18, 17:25:54](https://news.ycombinator.com/item?id=48182592) - [Iran Starts Bitcoin-Backed Ship Insurance for Hormuz Strait](https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait)
 * [2026-05-18, 17:20:43](https://news.ycombinator.com/item?id=48182516) - [Cursor Introduces Composer 2.5](https://twitter.com/cursor_ai/status/2056415413077233983)

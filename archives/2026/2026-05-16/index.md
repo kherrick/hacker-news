@@ -19,6 +19,7 @@
 * [2026-05-16, 19:10:08](https://news.ycombinator.com/item?id=48162876) - [The Fil-C Optimized Calling Convention](https://fil-c.org/calling_convention)
 * [2026-05-16, 18:16:29](https://news.ycombinator.com/item?id=48162468) - [Halt and Catch Fire](https://unstack.io/halt-and-catch-fire)
 * [2026-05-16, 18:11:23](https://news.ycombinator.com/item?id=48162431) - [Show HN: Daily vibe-coding video games, day 33: Tower Defense (single prompt)](https://gamevibe.us/33-tower-defense)
+* [2026-05-16, 18:02:56](https://news.ycombinator.com/item?id=48162379) - [I 3D Printed Origami [video]](https://www.youtube.com/watch?v=FNVBK7-h9Fs)
 * [2026-05-16, 17:59:45](https://news.ycombinator.com/item?id=48162354) - [US Is Starting to See Heavy Job Losses in Roles Exposed to AI](https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai)
 * [2026-05-16, 17:31:35](https://news.ycombinator.com/item?id=48162157) - [What Is Date:Italy?](http://aesthetikx.info/blog/date_italy.html)
 * [2026-05-16, 17:12:58](https://news.ycombinator.com/item?id=48161997) - [Kioxia and Dell cram 10 PB into slim 2RU server](https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574)

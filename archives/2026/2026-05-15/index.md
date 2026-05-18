@@ -52,6 +52,7 @@
 * [2026-05-15, 13:28:55](https://news.ycombinator.com/item?id=48148337) - [Amazon workers under pressure to up their AI usage–so they're making up tasks](https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks)
 * [2026-05-15, 13:25:53](https://news.ycombinator.com/item?id=48148309) - [High dimensional geometry is transforming the MRI industry(2017) [pdf]](https://www.ams.org/government/DonohoPresentation06-28-17Final.pdf)
 * [2026-05-15, 13:05:29](https://news.ycombinator.com/item?id=48148084) - [Trade Dollars with other startups. Book it as revenue](https://www.revswap.ai/)
+* [2026-05-15, 12:58:26](https://news.ycombinator.com/item?id=48148026) - [Stratum: System-Hardware Co-Design with 3D-Stackable DRAM for Efficient Moe](https://dl.acm.org/doi/10.1145/3725843.3756043)
 * [2026-05-15, 12:49:27](https://news.ycombinator.com/item?id=48147945) - [Too dangerous or just too expensive? The real reason Anthropic is hiding Mythos](https://kingy.ai/ai/too-dangerous-to-release-or-just-too-expensive-the-real-reason-anthropic-is-hiding-its-most-powerful-ai/)
 * [2026-05-15, 12:29:47](https://news.ycombinator.com/item?id=48147793) - [The old world of tech is dying and the new cannot be born](https://www.baldurbjarnason.com/2026/the-old-world-of-tech-is-dying/)
 * [2026-05-15, 12:15:16](https://news.ycombinator.com/item?id=48147665) - [Power Tools Got Worse on Purpose. Who Owns DeWalt, Craftsman, and Milwaukee?](https://www.worseonpurpose.com/p/your-power-tools-got-worse-on-purpose)
