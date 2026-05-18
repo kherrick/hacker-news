@@ -1,6 +1,66 @@
 [
   [
     [
+      "2026-05-18, 17:38:22",
+      "https://news.ycombinator.com/item?id=48182754"
+    ],
+    [
+      "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+      "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/"
+    ]
+  ],
+  [
+    [
+      "2026-05-18, 17:25:54",
+      "https://news.ycombinator.com/item?id=48182592"
+    ],
+    [
+      "Iran Starts Bitcoin-Backed Ship Insurance for Hormuz Strait",
+      "https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait"
+    ]
+  ],
+  [
+    [
+      "2026-05-18, 17:20:43",
+      "https://news.ycombinator.com/item?id=48182516"
+    ],
+    [
+      "Cursor Introduces Composer 2.5",
+      "https://twitter.com/cursor_ai/status/2056415413077233983"
+    ]
+  ],
+  [
+    [
+      "2026-05-18, 17:01:21",
+      "https://news.ycombinator.com/item?id=48182281"
+    ],
+    [
+      "Anthropic Acquires Stainless",
+      "https://www.anthropic.com/news/anthropic-acquires-stainless"
+    ]
+  ],
+  [
+    [
+      "2026-05-18, 16:24:11",
+      "https://news.ycombinator.com/item?id=48181877"
+    ],
+    [
+      "Qwen 3.7 Preview",
+      "https://twitter.com/Alibaba_Qwen/status/2056403591464984753"
+    ]
+  ],
+  [
+    [
+      "2026-05-18, 15:40:42",
+      "https://news.ycombinator.com/item?id=48181342"
+    ],
+    [
+      "Show HN: InsForge – Open-source Heroku for coding agents",
+      "https://github.com/InsForge/InsForge"
+    ]
+  ],
+  [
+    [
       "2026-05-18, 15:24:19",
       "https://news.ycombinator.com/item?id=48181125"
     ],
@@ -11,12 +71,12 @@
   ],
   [
     [
-      "2026-05-18, 15:05:04",
-      "https://news.ycombinator.com/item?id=48180881"
+      "2026-05-18, 15:18:19",
+      "https://news.ycombinator.com/item?id=48181041"
     ],
     [
-      "What “Amazon Supply Chain Services” Tells Us About What Amazon Is",
-      "https://gadallon.substack.com/p/the-third-time-amazon-did-this-what"
+      "Garry Tan, the CEO of YC, accused me of unethical reporting",
+      "https://radleybalko.substack.com/p/truth-power-and-honest-journalism"
     ]
   ],
   [
@@ -27,6 +87,16 @@
     [
       "1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries",
       "https://github.com/2b2tplace/1m_release"
+    ]
+  ],
+  [
+    [
+      "2026-05-18, 14:04:26",
+      "https://news.ycombinator.com/item?id=48180091"
+    ],
+    [
+      "Actually, democracy dies in H.R.",
+      "https://www.nytimes.com/2026/05/18/world/americas/actually-democracy-dies-in-hr.html"
     ]
   ],
   [
@@ -51,16 +121,6 @@
   ],
   [
     [
-      "2026-05-18, 13:26:34",
-      "https://news.ycombinator.com/item?id=48179569"
-    ],
-    [
-      "Researchers Wanted Preschool Teachers to Wear Cameras to Train AI",
-      "https://www.404media.co/researchers-wanted-preschool-teachers-to-wear-cameras-to-train-ai/"
-    ]
-  ],
-  [
-    [
       "2026-05-18, 13:01:18",
       "https://news.ycombinator.com/item?id=48179183"
     ],
@@ -77,16 +137,6 @@
     [
       "Enough with the AI FOMO, go slow-mo, says Domo CDO",
       "https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840"
-    ]
-  ],
-  [
-    [
-      "2026-05-18, 12:49:28",
-      "https://news.ycombinator.com/item?id=48179021"
-    ],
-    [
-      "AI eats the world (Spring 26) [pdf]",
-      "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf"
     ]
   ],
   [
@@ -141,16 +191,6 @@
   ],
   [
     [
-      "2026-05-18, 10:43:56",
-      "https://news.ycombinator.com/item?id=48177716"
-    ],
-    [
-      "NASA still maintains some of the Voyager spacecraft code from the 70s era",
-      "https://spacedaily.com/nasa-still-maintains-some-of-the-voyager-spacecraft-code-in-a-1970s-era-programming-language-that-almost-nobody-on-earth-fully-understands-anymore-and-the-handful-of-engineers-who-do-are-now-in-their/"
-    ]
-  ],
-  [
-    [
       "2026-05-18, 09:40:51",
       "https://news.ycombinator.com/item?id=48177300"
     ],
@@ -191,26 +231,6 @@
   ],
   [
     [
-      "2026-05-17, 15:37:07",
-      "https://news.ycombinator.com/item?id=48169874"
-    ],
-    [
-      "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
-      "https://github.com/MinishLab/semble"
-    ]
-  ],
-  [
-    [
-      "2026-05-17, 13:16:27",
-      "https://news.ycombinator.com/item?id=48168668"
-    ],
-    [
-      "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
-      "https://github.com/tech4bot/rk3562deb"
-    ]
-  ],
-  [
-    [
       "2026-05-17, 08:55:28",
       "https://news.ycombinator.com/item?id=48167177"
     ],
@@ -231,12 +251,32 @@
   ],
   [
     [
+      "2026-05-16, 19:10:08",
+      "https://news.ycombinator.com/item?id=48162876"
+    ],
+    [
+      "The Fil-C Optimized Calling Convention",
+      "https://fil-c.org/calling_convention"
+    ]
+  ],
+  [
+    [
       "2026-05-16, 17:31:35",
       "https://news.ycombinator.com/item?id=48162157"
     ],
     [
       "What Is Date:Italy?",
       "http://aesthetikx.info/blog/date_italy.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-16, 02:13:19",
+      "https://news.ycombinator.com/item?id=48156186"
+    ],
+    [
+      "Two computers, one monitor, zero fiddling – Alex Plescan",
+      "https://alexplescan.com/posts/2025/08/16/kvm/"
     ]
   ],
   [
@@ -251,52 +291,12 @@
   ],
   [
     [
-      "2026-05-15, 19:25:43",
-      "https://news.ycombinator.com/item?id=48152754"
-    ],
-    [
-      "Ask an Astronaut: 333 hours of Q&A footage with astronauts",
-      "https://askanastronaut.issinrealtime.org/"
-    ]
-  ],
-  [
-    [
       "2026-05-15, 18:23:19",
       "https://news.ycombinator.com/item?id=48151990"
     ],
     [
       "The Aperiodic Table",
       "https://blog.jgc.org/2026/05/the-aperiodic-table.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-15, 17:17:04",
-      "https://news.ycombinator.com/item?id=48151251"
-    ],
-    [
-      "Jank now has its own custom IR",
-      "https://jank-lang.org/blog/2026-05-08-optimization/"
-    ]
-  ],
-  [
-    [
-      "2026-05-15, 16:36:30",
-      "https://news.ycombinator.com/item?id=48150690"
-    ],
-    [
-      "Build a Radio Wave Detector with Balls of Aluminum Foil",
-      "https://www.wired.com/story/build-a-radio-wave-detector-with-balls-of-aluminum-foil/"
-    ]
-  ],
-  [
-    [
-      "2026-05-14, 13:28:16",
-      "https://news.ycombinator.com/item?id=48135096"
-    ],
-    [
-      "Math Jokes in Alice in Wonderland",
-      "https://storica.club/blog/alice-is-math-jokes/"
     ]
   ]
 ]
