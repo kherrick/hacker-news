@@ -1,6 +1,86 @@
 [
   [
     [
+      "2026-05-19, 17:01:25",
+      "https://news.ycombinator.com/item?id=48196020"
+    ],
+    [
+      "Google I/O",
+      "https://io.google/2026/"
+    ]
+  ],
+  [
+    [
+      "2026-05-19, 16:53:01",
+      "https://news.ycombinator.com/item?id=48195914"
+    ],
+    [
+      "Google IO 26 Keynote",
+      "https://www.youtube.com/watch?v=wYSncx9zLIU"
+    ]
+  ],
+  [
+    [
+      "2026-05-19, 16:19:17",
+      "https://news.ycombinator.com/item?id=48195387"
+    ],
+    [
+      "RuView – See through walls with WiFi",
+      "https://github.com/ruvnet/RuView"
+    ]
+  ],
+  [
+    [
+      "2026-05-19, 15:54:06",
+      "https://news.ycombinator.com/item?id=48195021"
+    ],
+    [
+      "Show HN: Superlog (YC P26) – Observability that installs itself and fixes bugs",
+      "https://superlog.sh/"
+    ]
+  ],
+  [
+    [
+      "2026-05-19, 15:53:38",
+      "https://news.ycombinator.com/item?id=48195009"
+    ],
+    [
+      "I’ve built a virtual museum with nearly every operating system you can think of",
+      "https://virtualosmuseum.org/"
+    ]
+  ],
+  [
+    [
+      "2026-05-19, 15:27:53",
+      "https://news.ycombinator.com/item?id=48194614"
+    ],
+    [
+      "Gentoo News: Copy Fail, Dirty Frag, and Fragnesia Kernel Vulnerabilities",
+      "https://www.gentoo.org/news/2026/05/19/copy-fail-fragnesia-vulnerabilities.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-19, 15:07:45",
+      "https://news.ycombinator.com/item?id=48194352"
+    ],
+    [
+      "I’ve joined Anthropic",
+      "https://twitter.com/karpathy/status/2056753169888334312"
+    ]
+  ],
+  [
+    [
+      "2026-05-19, 14:50:42",
+      "https://news.ycombinator.com/item?id=48194098"
+    ],
+    [
+      "Why are most humans right-handed? The answer may lie in how we learned to walk",
+      "https://www.ox.ac.uk/news/2026-05-15-why-is-almost-everyone-right-handed-the-answer-may-lie-in-how-we-learned-to-walk"
+    ]
+  ],
+  [
+    [
       "2026-05-19, 14:04:19",
       "https://news.ycombinator.com/item?id=48193474"
     ],
@@ -11,21 +91,11 @@
   ],
   [
     [
-      "2026-05-19, 13:30:58",
-      "https://news.ycombinator.com/item?id=48193111"
-    ],
-    [
-      "Anthropic Is Preparing for IPO and We Should Be Worried",
-      "https://www.vincentschmalbach.com/anthropic-ipo-developers-should-be-worried-v2/"
-    ]
-  ],
-  [
-    [
       "2026-05-19, 13:11:51",
       "https://news.ycombinator.com/item?id=48192882"
     ],
     [
-      "OpenBSD 7.9 Released",
+      "OpenBSD 7.9",
       "https://www.openbsd.org/79.html"
     ]
   ],
@@ -45,7 +115,7 @@
       "https://news.ycombinator.com/item?id=48192224"
     ],
     [
-      "New accessibility features powered by Apple Intelligence",
+      "Apple unveils new accessibility features",
       "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/"
     ]
   ],
@@ -91,16 +161,6 @@
   ],
   [
     [
-      "2026-05-19, 04:06:09",
-      "https://news.ycombinator.com/item?id=48189044"
-    ],
-    [
-      "Show HN: Hsrs – Type-Safe Haskell Bindings Generator for Rust",
-      "https://github.com/harmont-dev/hsrs"
-    ]
-  ],
-  [
-    [
       "2026-05-19, 03:17:45",
       "https://news.ycombinator.com/item?id=48188787"
     ],
@@ -141,32 +201,22 @@
   ],
   [
     [
-      "2026-05-18, 19:27:25",
-      "https://news.ycombinator.com/item?id=48184322"
-    ],
-    [
-      "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
-      "https://hyperpolyglot.org/lisp"
-    ]
-  ],
-  [
-    [
-      "2026-05-18, 18:12:18",
-      "https://news.ycombinator.com/item?id=48183301"
-    ],
-    [
-      "We let AIs run radio stations",
-      "https://andonlabs.com/blog/andon-fm"
-    ]
-  ],
-  [
-    [
       "2026-05-18, 17:45:02",
       "https://news.ycombinator.com/item?id=48182872"
     ],
     [
-      "Hanoi's humble beer glass and the memory of a nation",
+      "Hanoi’s humble beer glass and the memory of a nation",
       "https://sundaylongread.com/2026/05/15/hanois-humble-beer-glass-and-the-memory-of-a-nation/"
+    ]
+  ],
+  [
+    [
+      "2026-05-18, 17:44:12",
+      "https://news.ycombinator.com/item?id=48182856"
+    ],
+    [
+      "Show HN: Haystack – Review the PRs that need human attention",
+      "https://haystackeditor.com/"
     ]
   ],
   [
@@ -191,22 +241,12 @@
   ],
   [
     [
-      "2026-05-18, 14:13:07",
-      "https://news.ycombinator.com/item?id=48180204"
+      "2026-05-17, 15:52:21",
+      "https://news.ycombinator.com/item?id=48170007"
     ],
     [
-      "1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries",
-      "https://github.com/2b2tplace/1m_release"
-    ]
-  ],
-  [
-    [
-      "2026-05-17, 19:12:15",
-      "https://news.ycombinator.com/item?id=48172234"
-    ],
-    [
-      "Energy return in running shoes explained (2025)",
-      "https://runrepeat.com/guides/energy-return-in-running-shoes"
+      "Intro to TLA+ for the LLM Era: Prompt Your Way to Victory",
+      "https://emptysqua.re/blog/intro-to-tla-plus-for-the-llm-era/"
     ]
   ],
   [
@@ -251,52 +291,12 @@
   ],
   [
     [
-      "2026-05-17, 01:22:57",
-      "https://news.ycombinator.com/item?id=48165283"
-    ],
-    [
-      "The lasting influence of Netscape Time",
-      "https://thehistoryoftheweb.com/the-lasting-influence-of-netscape-time/"
-    ]
-  ],
-  [
-    [
-      "2026-05-17, 00:26:04",
-      "https://news.ycombinator.com/item?id=48165030"
-    ],
-    [
-      "Make ZIP files smaller with ZIP Shrinker",
-      "https://evanhahn.com/make-zip-files-smaller-with-zip-shrinker/"
-    ]
-  ],
-  [
-    [
       "2026-05-16, 16:49:15",
       "https://news.ycombinator.com/item?id=48161772"
     ],
     [
       "Kv4p HT – A homebrew 1W radio (VHF or UHF) that plugs into an Android phone",
       "https://www.kv4p.com/"
-    ]
-  ],
-  [
-    [
-      "2026-05-14, 15:30:36",
-      "https://news.ycombinator.com/item?id=48136909"
-    ],
-    [
-      "Regex Chess: A 2-ply minimax chess engine in 84,688 regular expressions",
-      "https://nicholas.carlini.com/writing/2025/regex-chess.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-13, 15:39:41",
-      "https://news.ycombinator.com/item?id=48123359"
-    ],
-    [
-      "Show HN: Number Gacha, a gacha game distilled to its essence",
-      "https://isabisabel.com/gacha/"
     ]
   ]
 ]
