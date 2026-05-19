@@ -4,6 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-05-19](index.md)
 
+* [2026-05-19, 17:01:25](https://news.ycombinator.com/item?id=48196020) - [Google I/O](https://io.google/2026/)
+* [2026-05-19, 16:53:01](https://news.ycombinator.com/item?id=48195914) - [Google IO 26 Keynote](https://www.youtube.com/watch?v=wYSncx9zLIU)
+* [2026-05-19, 16:19:17](https://news.ycombinator.com/item?id=48195387) - [RuView – See through walls with WiFi](https://github.com/ruvnet/RuView)
+* [2026-05-19, 15:54:06](https://news.ycombinator.com/item?id=48195021) - [Show HN: Superlog (YC P26) – Observability that installs itself and fixes bugs](https://superlog.sh/)
+* [2026-05-19, 15:53:38](https://news.ycombinator.com/item?id=48195009) - [I’ve built a virtual museum with nearly every operating system you can think of](https://virtualosmuseum.org/)
+* [2026-05-19, 15:27:53](https://news.ycombinator.com/item?id=48194614) - [Gentoo News: Copy Fail, Dirty Frag, and Fragnesia Kernel Vulnerabilities](https://www.gentoo.org/news/2026/05/19/copy-fail-fragnesia-vulnerabilities.html)
+* [2026-05-19, 15:07:45](https://news.ycombinator.com/item?id=48194352) - [I’ve joined Anthropic](https://twitter.com/karpathy/status/2056753169888334312)
+* [2026-05-19, 14:50:42](https://news.ycombinator.com/item?id=48194098) - [Why are most humans right-handed? The answer may lie in how we learned to walk](https://www.ox.ac.uk/news/2026-05-15-why-is-almost-everyone-right-handed-the-answer-may-lie-in-how-we-learned-to-walk)
 * [2026-05-19, 14:04:19](https://news.ycombinator.com/item?id=48193474) - [Show HN: I made a 3D pose maker for artists](https://setpose.com/)
 * [2026-05-19, 13:30:58](https://news.ycombinator.com/item?id=48193111) - [Anthropic Is Preparing for IPO and We Should Be Worried](https://www.vincentschmalbach.com/anthropic-ipo-developers-should-be-worried-v2/)
 * [2026-05-19, 13:11:51](https://news.ycombinator.com/item?id=48192882) - [OpenBSD 7.9 Released](https://www.openbsd.org/79.html)

@@ -21,6 +21,7 @@
 * [2026-05-18, 18:12:18](https://news.ycombinator.com/item?id=48183301) - [We let AIs run radio stations](https://andonlabs.com/blog/andon-fm)
 * [2026-05-18, 17:56:26](https://news.ycombinator.com/item?id=48183038) - [Cutting inference cold starts by 40x with LP, FUSE, C/R, and CUDA-checkpoint](https://modal.com/blog/truly-serverless-gpus)
 * [2026-05-18, 17:45:02](https://news.ycombinator.com/item?id=48182872) - [Hanoi's humble beer glass and the memory of a nation](https://sundaylongread.com/2026/05/15/hanois-humble-beer-glass-and-the-memory-of-a-nation/)
+* [2026-05-18, 17:44:12](https://news.ycombinator.com/item?id=48182856) - [Show HN: Haystack – Review the PRs that need human attention](https://haystackeditor.com/)
 * [2026-05-18, 17:38:22](https://news.ycombinator.com/item?id=48182754) - [Elon Musk has lost his lawsuit against Sam Altman and OpenAI](https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/)
 * [2026-05-18, 17:25:54](https://news.ycombinator.com/item?id=48182592) - [Iran Starts Bitcoin-Backed Ship Insurance for Hormuz Strait](https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait)
 * [2026-05-18, 17:20:43](https://news.ycombinator.com/item?id=48182516) - [Cursor Introduces Composer 2.5](https://twitter.com/cursor_ai/status/2056415413077233983)
