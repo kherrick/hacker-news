@@ -1,12 +1,72 @@
 [
   [
     [
-      "2026-05-19, 00:16:31",
-      "https://news.ycombinator.com/item?id=48187680"
+      "2026-05-19, 04:29:39",
+      "https://news.ycombinator.com/item?id=48189178"
     ],
     [
-      "What political censorship looks like inside an LLM's weights (Qwen 3.5)",
-      "https://vas-blog.pages.dev/qwen-censorship/"
+      "PyTorch Landscape",
+      "https://pytorch.landscape2.io"
+    ]
+  ],
+  [
+    [
+      "2026-05-19, 04:24:45",
+      "https://news.ycombinator.com/item?id=48189156"
+    ],
+    [
+      "Codex-Maxxing",
+      "https://jxnl.co/writing/2026/05/10/codex-maxxing/"
+    ]
+  ],
+  [
+    [
+      "2026-05-19, 04:06:09",
+      "https://news.ycombinator.com/item?id=48189044"
+    ],
+    [
+      "Show HN: Hsrs – Type-Safe Haskell Bindings Generator for Rust",
+      "https://github.com/harmont-dev/hsrs"
+    ]
+  ],
+  [
+    [
+      "2026-05-19, 03:17:45",
+      "https://news.ycombinator.com/item?id=48188787"
+    ],
+    [
+      "Peter Neumann has died",
+      "https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-19, 02:56:42",
+      "https://news.ycombinator.com/item?id=48188665"
+    ],
+    [
+      "Peter Salus has died",
+      "https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-19, 02:25:29",
+      "https://news.ycombinator.com/item?id=48188506"
+    ],
+    [
+      "War game exposed U.S. vulnerability to low-tech warfare",
+      "https://nsarchive.gwu.edu/news/2024-11-01/rigged-war-game-exposed-us-vulnerability-low-tech-warfare"
+    ]
+  ],
+  [
+    [
+      "2026-05-19, 01:30:42",
+      "https://news.ycombinator.com/item?id=48188183"
+    ],
+    [
+      "The last six months in LLMs in five minutes",
+      "https://simonwillison.net/2026/May/19/5-minute-llms/"
     ]
   ],
   [
@@ -15,7 +75,7 @@
       "https://news.ycombinator.com/item?id=48187201"
     ],
     [
-      "Anthropic co-founder to present AI encyclical alongside Pope Leo XIV",
+      "Pope Leo XIV’s first encyclical Magnifica humanitas to be published May 25",
       "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html"
     ]
   ],
@@ -41,42 +101,12 @@
   ],
   [
     [
-      "2026-05-18, 19:50:09",
-      "https://news.ycombinator.com/item?id=48184635"
-    ],
-    [
-      "Shutterstock to pay $35M over hard-to-cancel subscriptions",
-      "https://www.ftc.gov/news-events/news/press-releases/2026/05/shutterstock-pay-35-million-settle-ftc-allegations-over-illegal-subscription-cancellation-practices"
-    ]
-  ],
-  [
-    [
-      "2026-05-18, 19:28:59",
-      "https://news.ycombinator.com/item?id=48184350"
-    ],
-    [
-      "The FBI Wants to Buy Nationwide Access to License Plate Readers",
-      "https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-readers/"
-    ]
-  ],
-  [
-    [
       "2026-05-18, 19:27:25",
       "https://news.ycombinator.com/item?id=48184322"
     ],
     [
       "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
       "https://hyperpolyglot.org/lisp"
-    ]
-  ],
-  [
-    [
-      "2026-05-18, 18:44:03",
-      "https://news.ycombinator.com/item?id=48183757"
-    ],
-    [
-      "Loopmaster – Livecoding Music IDE",
-      "https://loopmaster.xyz/"
     ]
   ],
   [
@@ -91,32 +121,12 @@
   ],
   [
     [
-      "2026-05-18, 18:30:55",
-      "https://news.ycombinator.com/item?id=48183579"
-    ],
-    [
-      "Haiku OS runs on M1 Macs now",
-      "https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2"
-    ]
-  ],
-  [
-    [
       "2026-05-18, 18:12:18",
       "https://news.ycombinator.com/item?id=48183301"
     ],
     [
       "We let AIs run radio stations",
       "https://andonlabs.com/blog/andon-fm"
-    ]
-  ],
-  [
-    [
-      "2026-05-18, 17:56:26",
-      "https://news.ycombinator.com/item?id=48183038"
-    ],
-    [
-      "Cutting inference cold starts by 40x with LP, FUSE, C/R, and CUDA-checkpoint",
-      "https://modal.com/blog/truly-serverless-gpus"
     ]
   ],
   [
@@ -131,12 +141,12 @@
   ],
   [
     [
-      "2026-05-18, 17:25:54",
-      "https://news.ycombinator.com/item?id=48182592"
+      "2026-05-18, 17:20:43",
+      "https://news.ycombinator.com/item?id=48182516"
     ],
     [
-      "Iran starts Bitcoin-backed ship insurance for Hormuz strait",
-      "https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait"
+      "Cursor Introduces Composer 2.5",
+      "https://cursor.com/blog/composer-2-5"
     ]
   ],
   [
@@ -151,22 +161,22 @@
   ],
   [
     [
-      "2026-05-18, 15:40:42",
-      "https://news.ycombinator.com/item?id=48181342"
-    ],
-    [
-      "Show HN: InsForge – Open-source Heroku for coding agents",
-      "https://github.com/InsForge/InsForge"
-    ]
-  ],
-  [
-    [
       "2026-05-18, 15:24:19",
       "https://news.ycombinator.com/item?id=48181125"
     ],
     [
       "We stopped AI bot spam in our GitHub repo using Git's –author flag",
       "https://archestra.ai/blog/only-responsible-ai"
+    ]
+  ],
+  [
+    [
+      "2026-05-18, 14:13:07",
+      "https://news.ycombinator.com/item?id=48180204"
+    ],
+    [
+      "1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries",
+      "https://github.com/2b2tplace/1m_release"
     ]
   ],
   [
@@ -191,32 +201,22 @@
   ],
   [
     [
+      "2026-05-18, 12:49:28",
+      "https://news.ycombinator.com/item?id=48179021"
+    ],
+    [
+      "AI eats the world (Spring 26) [pdf]",
+      "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf"
+    ]
+  ],
+  [
+    [
       "2026-05-18, 08:36:42",
       "https://news.ycombinator.com/item?id=48176873"
     ],
     [
       "Earth's Radio Bubble: Every signal we've ever sent into space",
       "https://www.thescientificdrop.com/2026/05/earths-radio-bubble-every-signal-weve.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-18, 00:26:33",
-      "https://news.ycombinator.com/item?id=48174409"
-    ],
-    [
-      "Designing an FPGA Calculator from Scratch",
-      "https://baltazarstudios.com/calculator/"
-    ]
-  ],
-  [
-    [
-      "2026-05-17, 13:29:16",
-      "https://news.ycombinator.com/item?id=48168761"
-    ],
-    [
-      "Coding on Paper",
-      "https://wickstrom.tech/2026-05-16-coding-on-paper.html"
     ]
   ],
   [
@@ -231,22 +231,12 @@
   ],
   [
     [
-      "2026-05-16, 22:40:37",
-      "https://news.ycombinator.com/item?id=48164388"
+      "2026-05-17, 03:59:22",
+      "https://news.ycombinator.com/item?id=48165944"
     ],
     [
-      "The Futility of Lava Lamps: What Random Means",
-      "https://loup-vaillant.fr/articles/lava-lamps-and-randomness"
-    ]
-  ],
-  [
-    [
-      "2026-05-16, 21:57:39",
-      "https://news.ycombinator.com/item?id=48164147"
-    ],
-    [
-      "Understanding Singleflight in Go",
-      "https://www.codingexplorations.com/blog/understanding-singleflight-in-golang-a-solution-for-eliminating-redundant-work"
+      "Anyone on the Internet Can Ring Your Doorbell",
+      "https://www.abgeo.dev/blog/anyone-can-ring-your-doorbell"
     ]
   ],
   [
@@ -255,28 +245,28 @@
       "https://news.ycombinator.com/item?id=48163389"
     ],
     [
-      "The Quiet Renovation at Bitwarden",
+      "The quiet renovation at Bitwarden",
       "https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden"
     ]
   ],
   [
     [
-      "2026-05-16, 19:10:08",
-      "https://news.ycombinator.com/item?id=48162876"
+      "2026-05-16, 16:49:15",
+      "https://news.ycombinator.com/item?id=48161772"
     ],
     [
-      "The Fil-C Optimized Calling Convention",
-      "https://fil-c.org/calling_convention"
+      "Turn your Android phone into a ham radio transceiver",
+      "https://www.kv4p.com/"
     ]
   ],
   [
     [
-      "2026-05-16, 17:31:35",
-      "https://news.ycombinator.com/item?id=48162157"
+      "2026-05-16, 10:19:02",
+      "https://news.ycombinator.com/item?id=48158780"
     ],
     [
-      "What Is Date:Italy?",
-      "http://aesthetikx.info/blog/date_italy.html"
+      "Why is it called Kent House?",
+      "https://diamondgeezer.blogspot.com/2026/05/kent-house.html"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Two computers, one monitor, zero fiddling (2025)",
       "https://alexplescan.com/posts/2025/08/16/kvm/"
+    ]
+  ],
+  [
+    [
+      "2026-05-14, 15:30:36",
+      "https://news.ycombinator.com/item?id=48136909"
+    ],
+    [
+      "Regex Chess: A 2-ply minimax chess engine in 84,688 regular expressions",
+      "https://nicholas.carlini.com/writing/2025/regex-chess.html"
     ]
   ],
   [
