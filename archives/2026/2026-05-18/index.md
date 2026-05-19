@@ -23,6 +23,7 @@
 * [2026-05-18, 17:38:22](https://news.ycombinator.com/item?id=48182754) - [Elon Musk has lost his lawsuit against Sam Altman and OpenAI](https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/)
 * [2026-05-18, 17:25:54](https://news.ycombinator.com/item?id=48182592) - [Iran Starts Bitcoin-Backed Ship Insurance for Hormuz Strait](https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait)
 * [2026-05-18, 17:20:43](https://news.ycombinator.com/item?id=48182516) - [Cursor Introduces Composer 2.5](https://twitter.com/cursor_ai/status/2056415413077233983)
+* [2026-05-18, 17:20:43](https://news.ycombinator.com/item?id=48182516) - [Cursor Introduces Composer 2.5](https://cursor.com/blog/composer-2-5)
 * [2026-05-18, 17:01:21](https://news.ycombinator.com/item?id=48182281) - [Anthropic Acquires Stainless](https://www.anthropic.com/news/anthropic-acquires-stainless)
 * [2026-05-18, 16:24:11](https://news.ycombinator.com/item?id=48181877) - [Qwen 3.7 Preview](https://twitter.com/Alibaba_Qwen/status/2056403591464984753)
 * [2026-05-18, 15:40:42](https://news.ycombinator.com/item?id=48181342) - [Show HN: InsForge – Open-source Heroku for coding agents](https://github.com/InsForge/InsForge)

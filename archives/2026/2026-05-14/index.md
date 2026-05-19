@@ -54,6 +54,7 @@
 * [2026-05-14, 15:36:24](https://news.ycombinator.com/item?id=48136992) - [On The Conflation of Money and Things](https://lithub.com/is-it-even-real-on-the-conflation-of-money-and-things/)
 * [2026-05-14, 15:35:14](https://news.ycombinator.com/item?id=48136981) - [Show HN: Watch a neural net learn to play Snake](https://ppo.gradexp.xyz/)
 * [2026-05-14, 15:32:44](https://news.ycombinator.com/item?id=48136943) - [New agents.txt file found on DreamHost](https://journal.kvibber.com/2026/05/agents-txt-on-dreamhost/)
+* [2026-05-14, 15:30:36](https://news.ycombinator.com/item?id=48136909) - [Regex Chess: A 2-ply minimax chess engine in 84,688 regular expressions](https://nicholas.carlini.com/writing/2025/regex-chess.html)
 * [2026-05-14, 15:15:05](https://news.ycombinator.com/item?id=48136662) - [Anthropic forms $200M partnership with the Gates Foundation](https://www.anthropic.com/news/gates-foundation-partnership)
 * [2026-05-14, 14:51:14](https://news.ycombinator.com/item?id=48136262) - [MIT: 20% drop in incoming graduate students](https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline)
 * [2026-05-14, 14:49:48](https://news.ycombinator.com/item?id=48136240) - [Claude AI recovers an 11 yrs old BTC wallet holding 400k USD](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup)
