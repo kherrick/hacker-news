@@ -43,6 +43,7 @@
 * [2026-05-18, 12:20:50](https://news.ycombinator.com/item?id=48178692) - [Linux security mailing list 'almost unmanageable'](https://www.theregister.com/security/2026/05/18/linus-torvalds-says-ai-powered-bug-hunters-have-made-linux-security-mailing-list-almost-entirely-unmanageable/5241633)
 * [2026-05-18, 12:17:04](https://news.ycombinator.com/item?id=48178652) - [Learn Harness Engineering](https://walkinglabs.github.io/learn-harness-engineering/en/)
 * [2026-05-18, 12:03:10](https://news.ycombinator.com/item?id=48178510) - [When Kierkegaard Got Cancelled](https://www.plough.com/en/topics/faith/discipleship/when-kierkegaard-got-cancelled)
+* [2026-05-18, 11:51:50](https://news.ycombinator.com/item?id=48178390) - [Lisp in Web-Based Applications (2001)](https://sep.turbifycdn.com/ty/cdn/paulgraham/bbnexcerpts.txt)
 * [2026-05-18, 11:51:05](https://news.ycombinator.com/item?id=48178378) - [Voice AI Systems Are Vulnerable to Hidden Audio Attacks](https://spectrum.ieee.org/voice-ai-audio-attacks)
 * [2026-05-18, 11:32:42](https://news.ycombinator.com/item?id=48178184) - [I automated opt-outs for 500 data broker sites (open source)](https://github.com/stephenlthorn/auto-identity-remove)
 * [2026-05-18, 11:00:15](https://news.ycombinator.com/item?id=48177891) - [The Silver Swan Automaton (1773)](https://thebowesmuseum.org.uk/collections/the-silver-swan/)

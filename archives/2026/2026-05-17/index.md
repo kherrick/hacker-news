@@ -28,6 +28,7 @@
 * [2026-05-17, 16:04:08](https://news.ycombinator.com/item?id=48170118) - [Don't Outsource the Learning](https://addyosmani.com/blog/dont-outsource-learning/)
 * [2026-05-17, 15:52:21](https://news.ycombinator.com/item?id=48170007) - [Intro to TLA+ for the LLM Era: Prompt Your Way to Victory](https://emptysqua.re/blog/intro-to-tla-plus-for-the-llm-era/)
 * [2026-05-17, 15:37:07](https://news.ycombinator.com/item?id=48169874) - [Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep](https://github.com/MinishLab/semble)
+* [2026-05-17, 15:22:10](https://news.ycombinator.com/item?id=48169736) - [Tool mapping 90 companies in the photonics and CPO supply chain](https://leonardo-boquillon.com/photonic-cop-supply-chain)
 * [2026-05-17, 14:57:39](https://news.ycombinator.com/item?id=48169508) - [KV Cache Is Becoming the Memory Hierarchy of Inference](https://touchdown-labs.com/blog/kv-cache-memory-hierarchy-inference.html)
 * [2026-05-17, 14:48:23](https://news.ycombinator.com/item?id=48169424) - [XS: A programming language. Anywhere, anytime, by anyone](https://xslang.org)
 * [2026-05-17, 13:42:30](https://news.ycombinator.com/item?id=48168856) - [Security researcher says Microsoft built a Bitlocker backdoor, releases exploit](https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html)

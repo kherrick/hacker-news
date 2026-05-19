@@ -15,6 +15,7 @@
 * [2026-05-19, 18:04:58](https://news.ycombinator.com/item?id=48196897) - [Deciphering the Hashihara Castle Town Map](https://www.obayashi.co.jp/en/kikan_obayashi/detail/kikan_64_project.html)
 * [2026-05-19, 17:46:19](https://news.ycombinator.com/item?id=48196609) - [Gemini Omni](https://deepmind.google/models/gemini-omni/)
 * [2026-05-19, 17:43:45](https://news.ycombinator.com/item?id=48196570) - [Gemini 3.5 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/)
+* [2026-05-19, 17:22:45](https://news.ycombinator.com/item?id=48196303) - [AI, \"Humanity\", and Dr. Manhattan Syndrome: A Communications Intervention](https://www.personfamiliar.com/p/ai-humanity-and-dr-manhattan-syndrome)
 * [2026-05-19, 17:01:25](https://news.ycombinator.com/item?id=48196020) - [Google I/O](https://io.google/2026/)
 * [2026-05-19, 16:53:01](https://news.ycombinator.com/item?id=48195914) - [Google IO 26 Keynote](https://www.youtube.com/watch?v=wYSncx9zLIU)
 * [2026-05-19, 16:40:27](https://news.ycombinator.com/item?id=48195706) - [KV Sharing, MHC, and Compressed Attention](https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures)
