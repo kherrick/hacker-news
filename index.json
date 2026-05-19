@@ -1,11 +1,71 @@
 [
   [
     [
+      "2026-05-19, 19:52:49",
+      "https://news.ycombinator.com/item?id=48198551"
+    ],
+    [
+      "Tesla's lithium refinery discharges 231,000 gallons of polluted wastewater a day",
+      "https://www.autonocion.com/us/tesla-lithium-refinery-texas/"
+    ]
+  ],
+  [
+    [
+      "2026-05-19, 19:34:38",
+      "https://news.ycombinator.com/item?id=48198293"
+    ],
+    [
+      "Era: From Nature publication to catalyzing Computational Discovery",
+      "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/"
+    ]
+  ],
+  [
+    [
+      "2026-05-19, 19:34:30",
+      "https://news.ycombinator.com/item?id=48198291"
+    ],
+    [
+      "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
+      "https://openai.com/index/advancing-content-provenance/"
+    ]
+  ],
+  [
+    [
+      "2026-05-19, 19:22:56",
+      "https://news.ycombinator.com/item?id=48198127"
+    ],
+    [
+      "Dumb Ways for an Open Source Project to Die",
+      "https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-19, 19:14:12",
+      "https://news.ycombinator.com/item?id=48197995"
+    ],
+    [
+      "Mistral AI Acquires Emmi AI to Create the Leading AI Stack",
+      "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai"
+    ]
+  ],
+  [
+    [
+      "2026-05-19, 19:13:26",
+      "https://news.ycombinator.com/item?id=48197980"
+    ],
+    [
+      "Minnesota becomes first state to ban prediction markets",
+      "https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets"
+    ]
+  ],
+  [
+    [
       "2026-05-19, 18:56:25",
       "https://news.ycombinator.com/item?id=48197703"
     ],
     [
-      "Disney Erased FiveThirtyEight",
+      "Disney erased FiveThirtyEight",
       "https://www.natesilver.net/p/disney-erased-fivethirtyeight"
     ]
   ],
@@ -15,18 +75,8 @@
       "https://news.ycombinator.com/item?id=48197370"
     ],
     [
-      "A new era for AI Search",
+      "Google changes its search box",
       "https://blog.google/products-and-platforms/products/search/search-io-2026/"
-    ]
-  ],
-  [
-    [
-      "2026-05-19, 18:04:58",
-      "https://news.ycombinator.com/item?id=48196897"
-    ],
-    [
-      "Deciphering the Hashihara Castle Town Map",
-      "https://www.obayashi.co.jp/en/kikan_obayashi/detail/kikan_64_project.html"
     ]
   ],
   [
@@ -47,16 +97,6 @@
     [
       "Gemini 3.5 Flash",
       "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/"
-    ]
-  ],
-  [
-    [
-      "2026-05-19, 17:01:25",
-      "https://news.ycombinator.com/item?id=48196020"
-    ],
-    [
-      "Google I/O",
-      "https://io.google/2026/"
     ]
   ],
   [
@@ -95,7 +135,7 @@
       "https://news.ycombinator.com/item?id=48194614"
     ],
     [
-      "Gentoo News: Copy Fail, Dirty Frag, and Fragnesia Kernel Vulnerabilities",
+      "Copy Fail, Dirty Frag, and Fragnesia kernel vulnerabilities",
       "https://www.gentoo.org/news/2026/05/19/copy-fail-fragnesia-vulnerabilities.html"
     ]
   ],
@@ -111,12 +151,12 @@
   ],
   [
     [
-      "2026-05-19, 14:04:19",
-      "https://news.ycombinator.com/item?id=48193474"
+      "2026-05-19, 14:50:42",
+      "https://news.ycombinator.com/item?id=48194098"
     ],
     [
-      "Show HN: I made a 3D pose maker for artists",
-      "https://setpose.com/"
+      "Why is almost everyone right-handed? A new study connects it to bipedalism",
+      "https://www.ox.ac.uk/news/2026-05-15-why-is-almost-everyone-right-handed-the-answer-may-lie-in-how-we-learned-to-walk"
     ]
   ],
   [
@@ -127,6 +167,16 @@
     [
       "OpenBSD 7.9",
       "https://www.openbsd.org/79.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-19, 12:23:07",
+      "https://news.ycombinator.com/item?id=48192383"
+    ],
+    [
+      "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
+      "https://github.com/antoinezambelli/forge"
     ]
   ],
   [
@@ -145,7 +195,7 @@
       "https://news.ycombinator.com/item?id=48191602"
     ],
     [
-      "Gaussian Splat of a Strawberry",
+      "Show HN: Gaussian Splat of a Strawberry",
       "https://superspl.at/scene/84df8849"
     ]
   ],
@@ -171,42 +221,12 @@
   ],
   [
     [
-      "2026-05-19, 03:17:45",
-      "https://news.ycombinator.com/item?id=48188787"
-    ],
-    [
-      "Peter Neumann has died",
-      "https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html"
-    ]
-  ],
-  [
-    [
       "2026-05-19, 01:30:42",
       "https://news.ycombinator.com/item?id=48188183"
     ],
     [
       "The last six months in LLMs in five minutes",
       "https://simonwillison.net/2026/May/19/5-minute-llms/"
-    ]
-  ],
-  [
-    [
-      "2026-05-19, 00:25:50",
-      "https://news.ycombinator.com/item?id=48187752"
-    ],
-    [
-      "An Apple (II) for Teacher",
-      "https://technicshistory.com/2026/05/19/an-apple-ii-for-teacher/"
-    ]
-  ],
-  [
-    [
-      "2026-05-18, 23:03:02",
-      "https://news.ycombinator.com/item?id=48187054"
-    ],
-    [
-      "Click (2016)",
-      "https://clickclickclick.click/"
     ]
   ],
   [
@@ -231,22 +251,32 @@
   ],
   [
     [
-      "2026-05-18, 17:20:43",
-      "https://news.ycombinator.com/item?id=48182516"
-    ],
-    [
-      "Cursor Introduces Composer 2.5",
-      "https://cursor.com/blog/composer-2-5"
-    ]
-  ],
-  [
-    [
       "2026-05-18, 11:00:15",
       "https://news.ycombinator.com/item?id=48177891"
     ],
     [
-      "The Silver Swan Automaton (1773)",
+      "The Silver Swan",
       "https://thebowesmuseum.org.uk/collections/the-silver-swan/"
+    ]
+  ],
+  [
+    [
+      "2026-05-18, 09:40:51",
+      "https://news.ycombinator.com/item?id=48177300"
+    ],
+    [
+      "The foundations of a provably secure operating system (PSOS) (1979) [pdf]",
+      "http://www.csl.sri.com/users/neumann/psos.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-05-17, 19:21:09",
+      "https://news.ycombinator.com/item?id=48172320"
+    ],
+    [
+      "Growing Neural Cellular Automata",
+      "https://distill.pub/2020/growing-ca/"
     ]
   ],
   [
@@ -261,42 +291,12 @@
   ],
   [
     [
-      "2026-05-17, 14:57:39",
-      "https://news.ycombinator.com/item?id=48169508"
-    ],
-    [
-      "KV Cache Is Becoming the Memory Hierarchy of Inference",
-      "https://touchdown-labs.com/blog/kv-cache-memory-hierarchy-inference.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-17, 07:20:14",
-      "https://news.ycombinator.com/item?id=48166744"
-    ],
-    [
-      "Polypad",
-      "https://polypad.amplify.com/"
-    ]
-  ],
-  [
-    [
       "2026-05-17, 03:25:23",
       "https://news.ycombinator.com/item?id=48165797"
     ],
     [
-      "I Found Ultra-Pure Quantum Crystals in an Abandoned Mine in the Atacama Desert",
+      "I found ultra-pure quantum crystals in an abandoned mine in the Atacama desert",
       "https://medium.com/@breid.at/ultra-pure-quantum-crystals-from-an-abandoned-mine-in-a-mysterious-desert-93cc87d12314"
-    ]
-  ],
-  [
-    [
-      "2026-05-16, 16:49:15",
-      "https://news.ycombinator.com/item?id=48161772"
-    ],
-    [
-      "Kv4p HT – A homebrew 1W radio (VHF or UHF) that plugs into an Android phone",
-      "https://www.kv4p.com/"
     ]
   ]
 ]
