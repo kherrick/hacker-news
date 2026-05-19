@@ -129,6 +129,285 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="48196020">
+          <h3><a class="item" href="https://io.google/2026/">Google I/O</a></h3>
+          <section>
+            <h4>
+              <span>2026-05-19 @ 17:01:25</span
+              ><span class="points-container"
+                >Points: <span class="points">157</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48196020"
+                  >Comments</a
+                ><span class="descendants">: 209</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48195914">
+          <h3>
+            <a class="item" href="https://www.youtube.com/watch?v=wYSncx9zLIU"
+              >Google IO 26 Keynote</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-05-19 @ 16:53:01</span
+              ><span class="points-container"
+                >Points: <span class="points">26</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48195914"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48195387">
+          <h3>
+            <a class="item" href="https://github.com/ruvnet/RuView"
+              >RuView – See through walls with WiFi</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-05-19 @ 16:19:17</span
+              ><span class="points-container"
+                >Points: <span class="points">18</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48195021">
+          <h3>
+            <a class="item" href="https://superlog.sh/"
+              >Show HN: Superlog (YC P26) – Observability that installs itself
+              and fixes bugs</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-05-19 @ 15:54:06</span
+              ><span class="points-container"
+                >Points: <span class="points">32</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48195021"
+                  >Comments</a
+                ><span class="descendants">: 27</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://superlog.sh">https://superlog.sh</a>). We're
+              building a self-installing, self healing observability tool meant
+              not to be opened. It has a wizard that daily sets up proper
+              logging and an agent that investigates errors and opens PRs.
+              <p>
+                Super short demo:
+                <a href="https://www.youtube.com/watch?v=xFhU9Mk247M"
+                  >https://www.youtube.com/watch?v=xFhU9Mk247M</a
+                >.
+              </p>
+              <p>
+                In our earlier startups, we tried Sentry, Datadog, Grafana,
+                Dash0, and nothing was good enough. Proper telemetry and
+                alerting still requires a ton of manual setup. We struggled with
+                adding good logs, so debugging was tough, especially as
+                codebases grow at a faster pace. Meanwhile, the Datadog/Dash0
+                bill kept climbing, and we still spent engineering hours to
+                learn, configure, and maintain our observability tooling.
+              </p>
+              <p>
+                With Sentry, we found ourselves flooded by a stream of alerts
+                into our Slack channel, most were duplicates or lacked context,
+                so alert fatigue/constant interrupts were a real pain. The #ops
+                notification is consistently the worst feeling on a Saturday
+                morning
+              </p>
+              <p>
+                We’ve seen too many times servers run out of memory and disk,
+                and three AWS metrics giving us three different values. Half of
+                the graphs on dashboards are normally empty or outdated, and
+                manually clicking through UIs, especially when the team is
+                small, seems like a huge waste of time.
+              </p>
+              <p>
+                At some point we realized that solving this problem would be
+                more valuable than the things we had been working on, and we had
+                the expertise to do it, since Arseniy had spent years at
+                Datadog, getting paged during the night to debug production
+                incidents. So we decided to build a platform that would just
+                work: agent-first, MCP-native, zero-setup.
+              </p>
+              <p>
+                Here’s how Superlog works: we have a wizard that scans your
+                repo, and automatically instruments it with well-structured
+                logs, traces and metrics via OpenTelemetry. We make sure to
+                highlight main failure modes, endpoint performance, usage per
+                tenant, and LLM/upstream cost (by callsite, tenant and model).
+              </p>
+              <p>
+                Errors get fingerprinted and grouped into incidents, so you see
+                one issue, not a thousand duplicates. When you get a
+                notification from Superlog, you see a clear failure summary, its
+                inferred severity and impact upfront.
+              </p>
+              <p>
+                Then the agent investigates and tries to solve the issue. If it
+                has enough context, it produces a concise and tested PR. If it
+                doesn't, it posts its findings for the investigating team, and
+                automatically pulls in the engineers that could contribute more
+                context based on documentation, previous investigations and
+                Slack threads.
+              </p>
+              <p>
+                Either way the output is one clean PR per incident, posted in
+                Slack, that you can merge, ignore, or open as a Claude Code
+                session and modify.
+              </p>
+              <p>
+                Three things we think are different from other observability
+                vendors:
+              </p>
+              <p>
+                (1) We solve the setup pain. The wizard will instrument
+                everything with native OTel SDKs, respecting the semantic
+                conventions, with proper service and environment tagging. We’re
+                also working on native automatic dashboards and alerts, so that
+                you can see what’s going on in a glance and don’t miss subtle
+                failure modes.
+              </p>
+              <p>
+                (2) Our telemetry doesn’t decay. The wizard runs daily, and
+                keeps adding logs, alerts and dashboards where it’s needed. You
+                don't have to remember to instrument new features. The next time
+                something breaks, the data you need to debug it is already
+                there.
+              </p>
+              <p>
+                (3) Our goal is to solve alert fatigue. We use agents to merge
+                similar errors and refine the summaries, giving you relevant
+                information upfront. We have a custom evaluation setup that
+                makes sure that our summaries are dense and correct, and
+                severity and impact is on point. We also give you confidence
+                scores for every LLM-enhanced metric so that wrong guesses don’t
+                get boosted.
+              </p>
+              <p>
+                Important: superlog telemetry is vendor-neutral, so you keep all
+                the logs/metrics/traces we install. Pricing is on the site.
+                We're early, so expect rough edges and please tell us when you
+                find them.
+              </p>
+              <p>
+                You can try it at
+                <a href="https://superlog.sh">https://superlog.sh</a>. We'd love
+                to hear what you're using today, what's broken about it, and
+                whether the "one mergeable PR per incident" model sounds useful
+                or terrifying. Especially keen to hear from folks running
+                integration-heavy products, anyone who's rolled their own
+                observability, and anyone who has tried Sentry / Datadog MCPs
+                and given up. Comments and feedback welcome!
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="48195009">
+          <h3>
+            <a class="item" href="https://virtualosmuseum.org/"
+              >I’ve built a virtual museum with nearly every operating system
+              you can think of</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-05-19 @ 15:53:38</span
+              ><span class="points-container"
+                >Points: <span class="points">347</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48195009"
+                  >Comments</a
+                ><span class="descendants">: 72</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48194614">
+          <h3>
+            <a
+              class="item"
+              href="https://www.gentoo.org/news/2026/05/19/copy-fail-fragnesia-vulnerabilities.html"
+              >Gentoo News: Copy Fail, Dirty Frag, and Fragnesia Kernel
+              Vulnerabilities</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-05-19 @ 15:27:53</span
+              ><span class="points-container"
+                >Points: <span class="points">67</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48194614"
+                  >Comments</a
+                ><span class="descendants">: 17</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48194352">
+          <h3>
+            <a
+              class="item"
+              href="https://twitter.com/karpathy/status/2056753169888334312"
+              >I’ve joined Anthropic</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-05-19 @ 15:07:45</span
+              ><span class="points-container"
+                >Points: <span class="points">851</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48194352"
+                  >Comments</a
+                ><span class="descendants">: 339</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://xcancel.com/karpathy/status/2056753169888334312"
+                >https://xcancel.com/karpathy/status/2056753169888334312</a
+              >
+              <p>
+                <a
+                  href="https://www.axios.com/2026/05/19/anthropic-openai-karpathy-andrej-claude"
+                  >https://www.axios.com/2026/05/19/anthropic-openai-karpathy-a...</a
+                >,
+                <a href="https://archive.ph/h6T3X">https://archive.ph/h6T3X</a>
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="48194098">
+          <h3>
+            <a
+              class="item"
+              href="https://www.ox.ac.uk/news/2026-05-15-why-is-almost-everyone-right-handed-the-answer-may-lie-in-how-we-learned-to-walk"
+              >Why are most humans right-handed? The answer may lie in how we
+              learned to walk</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-05-19 @ 14:50:42</span
+              ><span class="points-container"
+                >Points: <span class="points">37</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48194098"
+                  >Comments</a
+                ><span class="descendants">: 57</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="48193474">
           <h3>
             <a class="item" href="https://setpose.com/"
@@ -139,32 +418,11 @@
             <h4>
               <span>2026-05-19 @ 14:04:19</span
               ><span class="points-container"
-                >Points: <span class="points">43</span></span
+                >Points: <span class="points">58</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48193474"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48193111">
-          <h3>
-            <a
-              class="item"
-              href="https://www.vincentschmalbach.com/anthropic-ipo-developers-should-be-worried-v2/"
-              >Anthropic Is Preparing for IPO and We Should Be Worried</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-05-19 @ 13:30:58</span
-              ><span class="points-container"
-                >Points: <span class="points">70</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48193111"
-                  >Comments</a
-                ><span class="descendants">: 83</span></span
+                ><span class="descendants">: 27</span></span
               >
             </h4>
           </section>
@@ -172,18 +430,18 @@
         <section id="48192882">
           <h3>
             <a class="item" href="https://www.openbsd.org/79.html"
-              >OpenBSD 7.9 Released</a
+              >OpenBSD 7.9</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-05-19 @ 13:11:51</span
               ><span class="points-container"
-                >Points: <span class="points">256</span></span
+                >Points: <span class="points">302</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48192882"
                   >Comments</a
-                ><span class="descendants">: 167</span></span
+                ><span class="descendants">: 217</span></span
               >
             </h4>
           </section>
@@ -200,11 +458,11 @@
             <h4>
               <span>2026-05-19 @ 12:26:45</span
               ><span class="points-container"
-                >Points: <span class="points">102</span></span
+                >Points: <span class="points">104</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48192410"
                   >Comments</a
-                ><span class="descendants">: 67</span></span
+                ><span class="descendants">: 82</span></span
               >
             </h4>
           </section>
@@ -214,18 +472,18 @@
             <a
               class="item"
               href="https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/"
-              >New accessibility features powered by Apple Intelligence</a
+              >Apple unveils new accessibility features</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-05-19 @ 12:04:18</span
               ><span class="points-container"
-                >Points: <span class="points">379</span></span
+                >Points: <span class="points">483</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48192224"
                   >Comments</a
-                ><span class="descendants">: 213</span></span
+                ><span class="descendants">: 251</span></span
               >
             </h4>
           </section>
@@ -240,11 +498,11 @@
             <h4>
               <span>2026-05-19 @ 10:38:47</span
               ><span class="points-container"
-                >Points: <span class="points">357</span></span
+                >Points: <span class="points">409</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48191602"
                   >Comments</a
-                ><span class="descendants">: 144</span></span
+                ><span class="descendants">: 164</span></span
               >
             </h4>
           </section>
@@ -261,11 +519,11 @@
             <h4>
               <span>2026-05-19 @ 07:45:53</span
               ><span class="points-container"
-                >Points: <span class="points">228</span></span
+                >Points: <span class="points">298</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48190454"
                   >Comments</a
-                ><span class="descendants">: 89</span></span
+                ><span class="descendants">: 140</span></span
               >
             </h4>
           </section>
@@ -282,11 +540,11 @@
             <h4>
               <span>2026-05-19 @ 05:04:49</span
               ><span class="points-container"
-                >Points: <span class="points">293</span></span
+                >Points: <span class="points">317</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48189368"
                   >Comments</a
-                ><span class="descendants">: 211</span></span
+                ><span class="descendants">: 243</span></span
               >
             </h4>
           </section>
@@ -301,53 +559,13 @@
             <h4>
               <span>2026-05-19 @ 04:29:39</span
               ><span class="points-container"
-                >Points: <span class="points">85</span></span
+                >Points: <span class="points">90</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48189178"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="48189044">
-          <h3>
-            <a class="item" href="https://github.com/harmont-dev/hsrs"
-              >Show HN: Hsrs – Type-Safe Haskell Bindings Generator for Rust</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-05-19 @ 04:06:09</span
-              ><span class="points-container"
-                >Points: <span class="points">51</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48189044"
-                  >Comments</a
-                ><span class="descendants">: 6</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                I couldn't really find any bindings generator that would create
-                type-safe, rich bindings for Haskell from Rust. Naturally, both
-                languages have rich type systems, so I was amazed that no
-                awesome bindings generator already existed, hence I decided to
-                write my own. hsrs feels very similar to pyo3 and napi-rs, and
-                if you've used those, hsrs will feel right at home.
-              </p>
-              <p>
-                What's unique about hsrs as opposed to hs-bindgen is that it has
-                type-safe bindings for rich types, like Result, Maybe, etc.
-                while also generating Haskell bindings. The repo contains a
-                minimal example, and more details are available in the haskell
-                discourse:
-                <a
-                  href="https://discourse.haskell.org/t/ann-hsrs-ergonomic-haskell-bindings-for-rust/14129"
-                  >https://discourse.haskell.org/t/ann-hsrs-ergonomic-haskell-b...</a
-                >
-              </p>
-            </div>
           </section>
         </section>
         <section id="48188787">
@@ -362,11 +580,11 @@
             <h4>
               <span>2026-05-19 @ 03:17:45</span
               ><span class="points-container"
-                >Points: <span class="points">268</span></span
+                >Points: <span class="points">289</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48188787"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
             <div class="text">
@@ -388,11 +606,11 @@
             <h4>
               <span>2026-05-19 @ 01:30:42</span
               ><span class="points-container"
-                >Points: <span class="points">632</span></span
+                >Points: <span class="points">678</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48188183"
                   >Comments</a
-                ><span class="descendants">: 506</span></span
+                ><span class="descendants">: 530</span></span
               >
             </h4>
           </section>
@@ -409,11 +627,11 @@
             <h4>
               <span>2026-05-19 @ 00:25:50</span
               ><span class="points-container"
-                >Points: <span class="points">41</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48187752"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
           </section>
@@ -428,65 +646,13 @@
             <h4>
               <span>2026-05-18 @ 23:03:02</span
               ><span class="points-container"
-                >Points: <span class="points">352</span></span
+                >Points: <span class="points">359</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48187054"
                   >Comments</a
-                ><span class="descendants">: 90</span></span
+                ><span class="descendants">: 91</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="48184322">
-          <h3>
-            <a class="item" href="https://hyperpolyglot.org/lisp"
-              >Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-05-18 @ 19:27:25</span
-              ><span class="points-container"
-                >Points: <span class="points">183</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48184322"
-                  >Comments</a
-                ><span class="descendants">: 44</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48183301">
-          <h3>
-            <a class="item" href="https://andonlabs.com/blog/andon-fm"
-              >We let AIs run radio stations</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-05-18 @ 18:12:18</span
-              ><span class="points-container"
-                >Points: <span class="points">340</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48183301"
-                  >Comments</a
-                ><span class="descendants">: 258</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                I'm Lukas from Andon Labs. We let AIs run companies without
-                humans in the loop and report to the public on what can go
-                wrong. Previously, we've done experiments in retail (vending
-                machines, stores, and cafes), but we just launched one in the
-                media sector. We gave four AI agents all the tools they need to
-                both broadcast radio shows live and handle all the business side
-                of running a media company. The agents' revenue is so far
-                terrible (you can try to strike a sponsor deal with them if you
-                want!), but their shows are at times hilarious. You can listen
-                to them at andon.fm, I hope you enjoy this!
-              </p>
-            </div>
           </section>
         </section>
         <section id="48182872">
@@ -494,20 +660,153 @@
             <a
               class="item"
               href="https://sundaylongread.com/2026/05/15/hanois-humble-beer-glass-and-the-memory-of-a-nation/"
-              >Hanoi's humble beer glass and the memory of a nation</a
+              >Hanoi’s humble beer glass and the memory of a nation</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-05-18 @ 17:45:02</span
               ><span class="points-container"
-                >Points: <span class="points">72</span></span
+                >Points: <span class="points">90</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48182872"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="48182856">
+          <h3>
+            <a class="item" href="https://haystackeditor.com/"
+              >Show HN: Haystack – Review the PRs that need human attention</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-05-18 @ 17:44:12</span
+              ><span class="points-container"
+                >Points: <span class="points">11</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48182856"
+                  >Comments</a
+                ><span class="descendants">: 6</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://haystackeditor.com/"
+                >https://haystackeditor.com/</a
+              >) to help teams deal with the explosion in the number of pull
+              requests that need to be reviewed due to the rise of coding
+              agents.
+              <p>
+                Haystack replaces the GitHub PR review system with a queue that
+                triages each PR before a human has to read any diffs. It looks
+                at the diffs, the codebase, and the coding-agent conversation
+                that produced the PR. Haystack then routes it into one of three
+                buckets:
+              </p>
+              <p>
+                1. Safe to merge. This means the PR has enough evidence behind
+                it that the team can merge it without another human's review.
+              </p>
+              <p>Some examples:</p>
+              <p>
+                -- A small UI copy change that includes a screenshot showing the
+                final state
+              </p>
+              <p>
+                -- A backend change where the author clearly tested the
+                important paths and ran the changes in a real environment
+              </p>
+              <p>
+                2. Needs fixes. This means that the PR has bugs or violates a
+                rule in your codebase and therefore the PR needs to be fixed by
+                the author.
+              </p>
+              <p>Some examples:</p>
+              <p>
+                -- The agent was asked to make loading a large table faster by
+                adding pagination, but the PR still loads every result at once
+                and "implements" pagination in the UI
+              </p>
+              <p>
+                -- The PR silently catches an error instead of logging,
+                surfacing, or handling it. This violates the team's "no silent
+                error swallowing" rule
+              </p>
+              <p>
+                3. Needs human review. This means that the PR could not be
+                sufficiently verified by the author or is touching a sensitive
+                part of the codebase (determined by user-input guidelines) and
+                thus requires human review.
+              </p>
+              <p>Some examples:</p>
+              <p>-- The PR changes a significant amount of logic in billing</p>
+              <p>
+                -- The PR changes an important user flow like onboarding, but
+                the author only ran unit tests and never opened the app to check
+                the flow end-to-end. That violates the team's rule that
+                high-impact user-facing changes need manual verification.
+              </p>
+              <p>
+                Instead of starting with line-by-line diffs, Haystack
+                immediately tells the reviewer the goal behind the PR, what
+                design decisions the author made (informed by their coding-agent
+                conversation), and how much the author did to verify that the
+                pull request works (e.g. run scripts, checked the frontend,
+                etc.).
+              </p>
+              <p>
+                In this way, review shifts from "what changed?" to "is this the
+                right behavior and is there evidence that it works?".
+              </p>
+              <p>
+                Here's a quick demo:
+                <a
+                  href="https://www.tella.tv/video/streamlining-code-reviews-with-haystack-65zj"
+                  >https://www.tella.tv/video/streamlining-code-reviews-with-ha...</a
+                >
+              </p>
+              <p>
+                We previously launched Haystack as a tool for understanding
+                large PRs (<a
+                  href="https://news.ycombinator.com/item?id=45201703"
+                  >https://news.ycombinator.com/item?id=45201703</a
+                >). As many of you can probably relate to, the release of Opus
+                4.5 completely shattered our conception of how fast an engineer
+                could craft a PR.
+              </p>
+              <p>
+                And as coding agents got even better from 4.5, we realized that
+                pull requests did not scale along with our coding velocity. With
+                each member of our team being able to pump out more than 20 pull
+                requests a day, code review quickly became cognitively
+                exhausting and less helpful.
+              </p>
+              <p>
+                After talking with other folks, we learned many feel similarly,
+                and currently face the binary option of either not doing review
+                at all or trying to keep up with a fire hose of pull requests.
+              </p>
+              <p>
+                Haystack is our attempt at a third path. We still believe in
+                code review, but as coding agents produce more code, human
+                reviewer attention becomes more valuable and more expensive.
+              </p>
+              <p>
+                Haystack helps teams spend that attention on the PRs where a
+                human can meaningfully change the outcome of that PR. And for
+                such PRs, Haystack shows the reviewer what the PR intended to
+                do, whether the author showed that it works, and what design
+                decisions need a second pair of eyes.
+              </p>
+              <p>
+                We're still quite early and are figuring out whether Haystack
+                truly makes code review better. We would love any and all
+                feedback!
+              </p>
+            </div>
           </section>
         </section>
         <section id="48182516">
@@ -520,11 +819,11 @@
             <h4>
               <span>2026-05-18 @ 17:20:43</span
               ><span class="points-container"
-                >Points: <span class="points">252</span></span
+                >Points: <span class="points">272</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48182516"
                   >Comments</a
-                ><span class="descendants">: 186</span></span
+                ><span class="descendants">: 196</span></span
               >
             </h4>
             <div class="text">
@@ -546,52 +845,32 @@
             <h4>
               <span>2026-05-18 @ 17:01:21</span
               ><span class="points-container"
-                >Points: <span class="points">514</span></span
+                >Points: <span class="points">519</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48182281"
                   >Comments</a
-                ><span class="descendants">: 358</span></span
+                ><span class="descendants">: 365</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="48180204">
-          <h3>
-            <a class="item" href="https://github.com/2b2tplace/1m_release"
-              >1024000^2 Blocks, 2B2T Minecraft Server World Download Project,
-              and Discoveries</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-05-18 @ 14:13:07</span
-              ><span class="points-container"
-                >Points: <span class="points">172</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48180204"
-                  >Comments</a
-                ><span class="descendants">: 111</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48172234">
+        <section id="48170007">
           <h3>
             <a
               class="item"
-              href="https://runrepeat.com/guides/energy-return-in-running-shoes"
-              >Energy return in running shoes explained (2025)</a
+              href="https://emptysqua.re/blog/intro-to-tla-plus-for-the-llm-era/"
+              >Intro to TLA+ for the LLM Era: Prompt Your Way to Victory</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-05-17 @ 19:12:15</span
+              <span>2026-05-17 @ 15:52:21</span
               ><span class="points-container"
-                >Points: <span class="points">41</span></span
+                >Points: <span class="points">74</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48172234"
+                ><a href="https://news.ycombinator.com/item?id=48170007"
                   >Comments</a
-                ><span class="descendants">: 54</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
@@ -606,11 +885,11 @@
             <h4>
               <span>2026-05-17 @ 13:09:20</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">55</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48168610"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -625,11 +904,11 @@
             <h4>
               <span>2026-05-17 @ 11:18:44</span
               ><span class="points-container"
-                >Points: <span class="points">173</span></span
+                >Points: <span class="points">184</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48167890"
                   >Comments</a
-                ><span class="descendants">: 140</span></span
+                ><span class="descendants">: 166</span></span
               >
             </h4>
           </section>
@@ -642,11 +921,11 @@
             <h4>
               <span>2026-05-17 @ 07:20:14</span
               ><span class="points-container"
-                >Points: <span class="points">180</span></span
+                >Points: <span class="points">196</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48166744"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
@@ -664,53 +943,11 @@
             <h4>
               <span>2026-05-17 @ 03:25:23</span
               ><span class="points-container"
-                >Points: <span class="points">211</span></span
+                >Points: <span class="points">228</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48165797"
                   >Comments</a
-                ><span class="descendants">: 70</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48165283">
-          <h3>
-            <a
-              class="item"
-              href="https://thehistoryoftheweb.com/the-lasting-influence-of-netscape-time/"
-              >The lasting influence of Netscape Time</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-05-17 @ 01:22:57</span
-              ><span class="points-container"
-                >Points: <span class="points">86</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48165283"
-                  >Comments</a
-                ><span class="descendants">: 25</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48165030">
-          <h3>
-            <a
-              class="item"
-              href="https://evanhahn.com/make-zip-files-smaller-with-zip-shrinker/"
-              >Make ZIP files smaller with ZIP Shrinker</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-05-17 @ 00:26:04</span
-              ><span class="points-container"
-                >Points: <span class="points">58</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48165030"
-                  >Comments</a
-                ><span class="descendants">: 41</span></span
+                ><span class="descendants">: 92</span></span
               >
             </h4>
           </section>
@@ -726,59 +963,13 @@
             <h4>
               <span>2026-05-16 @ 16:49:15</span
               ><span class="points-container"
-                >Points: <span class="points">143</span></span
+                >Points: <span class="points">156</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48161772"
                   >Comments</a
-                ><span class="descendants">: 63</span></span
+                ><span class="descendants">: 66</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="48136909">
-          <h3>
-            <a
-              class="item"
-              href="https://nicholas.carlini.com/writing/2025/regex-chess.html"
-              >Regex Chess: A 2-ply minimax chess engine in 84,688 regular
-              expressions</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-05-14 @ 15:30:36</span
-              ><span class="points-container"
-                >Points: <span class="points">162</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48136909"
-                  >Comments</a
-                ><span class="descendants">: 47</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48123359">
-          <h3>
-            <a class="item" href="https://isabisabel.com/gacha/"
-              >Show HN: Number Gacha, a gacha game distilled to its essence</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-05-13 @ 15:39:41</span
-              ><span class="points-container"
-                >Points: <span class="points">220</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48123359"
-                  >Comments</a
-                ><span class="descendants">: 112</span></span
-              >
-            </h4>
-            <div class="text">
-              Number Gacha is a half-parody, half-real gacha game where you
-              roll, unwrap, and battle numbers. Play on Desktop for the best
-              experience!
-            </div>
           </section>
         </section>
       </section>
