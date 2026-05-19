@@ -1,11 +1,31 @@
 [
   [
     [
+      "2026-05-19, 00:16:31",
+      "https://news.ycombinator.com/item?id=48187680"
+    ],
+    [
+      "What political censorship looks like inside an LLM's weights (Qwen 3.5)",
+      "https://vas-blog.pages.dev/qwen-censorship/"
+    ]
+  ],
+  [
+    [
+      "2026-05-18, 23:18:10",
+      "https://news.ycombinator.com/item?id=48187201"
+    ],
+    [
+      "Anthropic co-founder to present AI encyclical alongside Pope Leo XIV",
+      "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html"
+    ]
+  ],
+  [
+    [
       "2026-05-18, 23:03:02",
       "https://news.ycombinator.com/item?id=48187054"
     ],
     [
-      "Click",
+      "Click (2016)",
       "https://clickclickclick.click/"
     ]
   ],
@@ -17,16 +37,6 @@
     [
       "Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment",
       "https://arxiv.org/abs/2601.10160"
-    ]
-  ],
-  [
-    [
-      "2026-05-18, 21:18:25",
-      "https://news.ycombinator.com/item?id=48185789"
-    ],
-    [
-      "Who will buy your services if you fire us all?",
-      "https://carette.xyz/posts/who_will_buy_your_services/"
     ]
   ],
   [
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2026-05-18, 11:51:05",
-      "https://news.ycombinator.com/item?id=48178378"
-    ],
-    [
-      "Voice AI Systems Are Vulnerable to Hidden Audio Attacks",
-      "https://spectrum.ieee.org/voice-ai-audio-attacks"
-    ]
-  ],
-  [
-    [
       "2026-05-18, 08:36:42",
       "https://news.ycombinator.com/item?id=48176873"
     ],
@@ -207,6 +207,26 @@
     [
       "Designing an FPGA Calculator from Scratch",
       "https://baltazarstudios.com/calculator/"
+    ]
+  ],
+  [
+    [
+      "2026-05-17, 13:29:16",
+      "https://news.ycombinator.com/item?id=48168761"
+    ],
+    [
+      "Coding on Paper",
+      "https://wickstrom.tech/2026-05-16-coding-on-paper.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-17, 08:58:31",
+      "https://news.ycombinator.com/item?id=48167187"
+    ],
+    [
+      "When can the C++ compiler devirtualize a call?",
+      "https://quuxplusone.github.io/blog/2021/02/15/devirtualization/"
     ]
   ],
   [
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2026-05-16, 18:02:56",
-      "https://news.ycombinator.com/item?id=48162379"
-    ],
-    [
-      "I 3D Printed Origami [video]",
-      "https://www.youtube.com/watch?v=FNVBK7-h9Fs"
-    ]
-  ],
-  [
-    [
       "2026-05-16, 17:31:35",
       "https://news.ycombinator.com/item?id=48162157"
     ],
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2026-05-15, 18:27:07",
-      "https://news.ycombinator.com/item?id=48152047"
+      "2026-05-13, 15:39:41",
+      "https://news.ycombinator.com/item?id=48123359"
     ],
     [
-      "Heirs and Spares in Early Modern France",
-      "https://www.historytoday.com/archive/feature/heirs-and-spares-early-modern-france"
-    ]
-  ],
-  [
-    [
-      "2026-05-15, 12:58:26",
-      "https://news.ycombinator.com/item?id=48148026"
-    ],
-    [
-      "Stratum: System-Hardware Co-Design with 3D-Stackable DRAM for Efficient Moe",
-      "https://dl.acm.org/doi/10.1145/3725843.3756043"
+      "Show HN: Number Gacha, a gacha game distilled to its essence",
+      "https://isabisabel.com/gacha/"
     ]
   ]
 ]
