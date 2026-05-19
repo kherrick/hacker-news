@@ -45,6 +45,7 @@
 * [2026-05-18, 12:03:10](https://news.ycombinator.com/item?id=48178510) - [When Kierkegaard Got Cancelled](https://www.plough.com/en/topics/faith/discipleship/when-kierkegaard-got-cancelled)
 * [2026-05-18, 11:51:05](https://news.ycombinator.com/item?id=48178378) - [Voice AI Systems Are Vulnerable to Hidden Audio Attacks](https://spectrum.ieee.org/voice-ai-audio-attacks)
 * [2026-05-18, 11:32:42](https://news.ycombinator.com/item?id=48178184) - [I automated opt-outs for 500 data broker sites (open source)](https://github.com/stephenlthorn/auto-identity-remove)
+* [2026-05-18, 11:00:15](https://news.ycombinator.com/item?id=48177891) - [The Silver Swan Automaton (1773)](https://thebowesmuseum.org.uk/collections/the-silver-swan/)
 * [2026-05-18, 10:50:25](https://news.ycombinator.com/item?id=48177785) - [Eric Schmidt speech about AI booed during graduation](https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585)
 * [2026-05-18, 10:43:56](https://news.ycombinator.com/item?id=48177716) - [NASA still maintains some of the Voyager spacecraft code from the 70s era](https://spacedaily.com/nasa-still-maintains-some-of-the-voyager-spacecraft-code-in-a-1970s-era-programming-language-that-almost-nobody-on-earth-fully-understands-anymore-and-the-handful-of-engineers-who-do-are-now-in-their/)
 * [2026-05-18, 10:05:52](https://news.ycombinator.com/item?id=48177452) - [Dogme 25 – Vow of Chastity](https://dogma25.dk/)
