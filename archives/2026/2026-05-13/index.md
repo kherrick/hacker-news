@@ -26,6 +26,7 @@
 * [2026-05-13, 16:09:00](https://news.ycombinator.com/item?id=48123801) - [Unknowable Math Can Help Hide Secrets](https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/)
 * [2026-05-13, 16:01:13](https://news.ycombinator.com/item?id=48123670) - [Fragnesia Made Public as Latest Linux Local Privilege Escalation Vulnerability](https://www.phoronix.com/news/Linux-Fragnesia)
 * [2026-05-13, 15:52:00](https://news.ycombinator.com/item?id=48123546) - [S-100 Virtual Workbench](https://grantmestrength.github.io/S100/)
+* [2026-05-13, 15:39:41](https://news.ycombinator.com/item?id=48123359) - [Show HN: Number Gacha, a gacha game distilled to its essence](https://isabisabel.com/gacha/)
 * [2026-05-13, 15:26:27](https://news.ycombinator.com/item?id=48123198) - [Kickstarter is forced to ban adult content by payment processors](https://kotaku.com/kickstarter-is-the-latest-platform-seemingly-forced-to-ban-adult-content-by-payment-processors-2000695648)
 * [2026-05-13, 15:18:41](https://news.ycombinator.com/item?id=48123090) - [50K Tahoe residents need power as utility eyes redirecting lines to data centers](https://fortune.com/2026/05/12/lake-tahoe-data-center-49000-residents-power-source/)
 * [2026-05-13, 15:13:37](https://news.ycombinator.com/item?id=48123015) - [Open Source Resistance: keep OSS alive on company time](https://ossresistance.com/)

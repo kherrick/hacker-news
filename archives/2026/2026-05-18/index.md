@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-18](index.md)
 
+* [2026-05-18, 23:18:10](https://news.ycombinator.com/item?id=48187201) - [Anthropic co-founder to present AI encyclical alongside Pope Leo XIV](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html)
 * [2026-05-18, 23:03:02](https://news.ycombinator.com/item?id=48187054) - [Click](https://clickclickclick.click/)
 * [2026-05-18, 21:29:13](https://news.ycombinator.com/item?id=48185938) - [Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment](https://arxiv.org/abs/2601.10160)
 * [2026-05-18, 21:18:25](https://news.ycombinator.com/item?id=48185789) - [Who will buy your services if you fire us all?](https://carette.xyz/posts/who_will_buy_your_services/)
