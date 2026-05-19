@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-19](index.md)
 
+* [2026-05-19, 22:30:31](https://news.ycombinator.com/item?id=48200569) - [Remove AI Watermarks](https://github.com/wiltodelta/remove-ai-watermarks)
 * [2026-05-19, 19:52:49](https://news.ycombinator.com/item?id=48198551) - [Tesla's lithium refinery discharges 231,000 gallons of polluted wastewater a day](https://www.autonocion.com/us/tesla-lithium-refinery-texas/)
 * [2026-05-19, 19:34:38](https://news.ycombinator.com/item?id=48198293) - [Era: From Nature publication to catalyzing Computational Discovery](https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/)
 * [2026-05-19, 19:34:30](https://news.ycombinator.com/item?id=48198291) - [OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool](https://openai.com/index/advancing-content-provenance/)
@@ -11,6 +12,7 @@
 * [2026-05-19, 19:14:12](https://news.ycombinator.com/item?id=48197995) - [Mistral AI Acquires Emmi AI to Create the Leading AI Stack](https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai)
 * [2026-05-19, 19:13:26](https://news.ycombinator.com/item?id=48197980) - [Minnesota becomes first state to ban prediction markets](https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets)
 * [2026-05-19, 18:56:25](https://news.ycombinator.com/item?id=48197703) - [Disney Erased FiveThirtyEight](https://www.natesilver.net/p/disney-erased-fivethirtyeight)
+* [2026-05-19, 18:40:19](https://news.ycombinator.com/item?id=48197445) - [The TTY Demystified (2008)](https://www.linusakesson.net/programming/tty/index.php)
 * [2026-05-19, 18:34:27](https://news.ycombinator.com/item?id=48197370) - [A new era for AI Search](https://blog.google/products-and-platforms/products/search/search-io-2026/)
 * [2026-05-19, 18:04:58](https://news.ycombinator.com/item?id=48196897) - [Deciphering the Hashihara Castle Town Map](https://www.obayashi.co.jp/en/kikan_obayashi/detail/kikan_64_project.html)
 * [2026-05-19, 17:46:19](https://news.ycombinator.com/item?id=48196609) - [Gemini Omni](https://deepmind.google/models/gemini-omni/)
