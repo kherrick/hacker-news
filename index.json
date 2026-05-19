@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-05-19, 18:56:25",
+      "https://news.ycombinator.com/item?id=48197703"
+    ],
+    [
+      "Disney Erased FiveThirtyEight",
+      "https://www.natesilver.net/p/disney-erased-fivethirtyeight"
+    ]
+  ],
+  [
+    [
+      "2026-05-19, 18:34:27",
+      "https://news.ycombinator.com/item?id=48197370"
+    ],
+    [
+      "A new era for AI Search",
+      "https://blog.google/products-and-platforms/products/search/search-io-2026/"
+    ]
+  ],
+  [
+    [
+      "2026-05-19, 18:04:58",
+      "https://news.ycombinator.com/item?id=48196897"
+    ],
+    [
+      "Deciphering the Hashihara Castle Town Map",
+      "https://www.obayashi.co.jp/en/kikan_obayashi/detail/kikan_64_project.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-19, 17:46:19",
+      "https://news.ycombinator.com/item?id=48196609"
+    ],
+    [
+      "Gemini Omni",
+      "https://deepmind.google/models/gemini-omni/"
+    ]
+  ],
+  [
+    [
+      "2026-05-19, 17:43:45",
+      "https://news.ycombinator.com/item?id=48196570"
+    ],
+    [
+      "Gemini 3.5 Flash",
+      "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/"
+    ]
+  ],
+  [
+    [
       "2026-05-19, 17:01:25",
       "https://news.ycombinator.com/item?id=48196020"
     ],
@@ -11,22 +61,12 @@
   ],
   [
     [
-      "2026-05-19, 16:53:01",
-      "https://news.ycombinator.com/item?id=48195914"
+      "2026-05-19, 16:40:27",
+      "https://news.ycombinator.com/item?id=48195706"
     ],
     [
-      "Google IO 26 Keynote",
-      "https://www.youtube.com/watch?v=wYSncx9zLIU"
-    ]
-  ],
-  [
-    [
-      "2026-05-19, 16:19:17",
-      "https://news.ycombinator.com/item?id=48195387"
-    ],
-    [
-      "RuView – See through walls with WiFi",
-      "https://github.com/ruvnet/RuView"
+      "KV Sharing, MHC, and Compressed Attention",
+      "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures"
     ]
   ],
   [
@@ -71,16 +111,6 @@
   ],
   [
     [
-      "2026-05-19, 14:50:42",
-      "https://news.ycombinator.com/item?id=48194098"
-    ],
-    [
-      "Why are most humans right-handed? The answer may lie in how we learned to walk",
-      "https://www.ox.ac.uk/news/2026-05-15-why-is-almost-everyone-right-handed-the-answer-may-lie-in-how-we-learned-to-walk"
-    ]
-  ],
-  [
-    [
       "2026-05-19, 14:04:19",
       "https://news.ycombinator.com/item?id=48193474"
     ],
@@ -97,16 +127,6 @@
     [
       "OpenBSD 7.9",
       "https://www.openbsd.org/79.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-19, 12:26:45",
-      "https://news.ycombinator.com/item?id=48192410"
-    ],
-    [
-      "Colonization of Venus",
-      "https://en.wikipedia.org/wiki/Colonization_of_Venus"
     ]
   ],
   [
@@ -147,16 +167,6 @@
     [
       "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
       "https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/"
-    ]
-  ],
-  [
-    [
-      "2026-05-19, 04:29:39",
-      "https://news.ycombinator.com/item?id=48189178"
-    ],
-    [
-      "PyTorch Landscape",
-      "https://pytorch.landscape2.io"
     ]
   ],
   [
@@ -231,12 +241,12 @@
   ],
   [
     [
-      "2026-05-18, 17:01:21",
-      "https://news.ycombinator.com/item?id=48182281"
+      "2026-05-18, 11:00:15",
+      "https://news.ycombinator.com/item?id=48177891"
     ],
     [
-      "Anthropic acquires Stainless",
-      "https://www.anthropic.com/news/anthropic-acquires-stainless"
+      "The Silver Swan Automaton (1773)",
+      "https://thebowesmuseum.org.uk/collections/the-silver-swan/"
     ]
   ],
   [
@@ -251,22 +261,12 @@
   ],
   [
     [
-      "2026-05-17, 13:09:20",
-      "https://news.ycombinator.com/item?id=48168610"
+      "2026-05-17, 14:57:39",
+      "https://news.ycombinator.com/item?id=48169508"
     ],
     [
-      "Nim-Presto – REST API Framework for Nim Language",
-      "https://github.com/status-im/nim-presto"
-    ]
-  ],
-  [
-    [
-      "2026-05-17, 11:18:44",
-      "https://news.ycombinator.com/item?id=48167890"
-    ],
-    [
-      "Photo GIMP – A Patch for GIMP 3 for Photoshop Users",
-      "https://github.com/Diolinux/PhotoGIMP"
+      "KV Cache Is Becoming the Memory Hierarchy of Inference",
+      "https://touchdown-labs.com/blog/kv-cache-memory-hierarchy-inference.html"
     ]
   ],
   [
