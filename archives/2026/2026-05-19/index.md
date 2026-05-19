@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-05-19](index.md)
 
+* [2026-05-19, 19:52:49](https://news.ycombinator.com/item?id=48198551) - [Tesla's lithium refinery discharges 231,000 gallons of polluted wastewater a day](https://www.autonocion.com/us/tesla-lithium-refinery-texas/)
+* [2026-05-19, 19:34:38](https://news.ycombinator.com/item?id=48198293) - [Era: From Nature publication to catalyzing Computational Discovery](https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/)
+* [2026-05-19, 19:34:30](https://news.ycombinator.com/item?id=48198291) - [OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool](https://openai.com/index/advancing-content-provenance/)
+* [2026-05-19, 19:22:56](https://news.ycombinator.com/item?id=48198127) - [Dumb Ways for an Open Source Project to Die](https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html)
+* [2026-05-19, 19:14:12](https://news.ycombinator.com/item?id=48197995) - [Mistral AI Acquires Emmi AI to Create the Leading AI Stack](https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai)
+* [2026-05-19, 19:13:26](https://news.ycombinator.com/item?id=48197980) - [Minnesota becomes first state to ban prediction markets](https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets)
 * [2026-05-19, 18:56:25](https://news.ycombinator.com/item?id=48197703) - [Disney Erased FiveThirtyEight](https://www.natesilver.net/p/disney-erased-fivethirtyeight)
 * [2026-05-19, 18:34:27](https://news.ycombinator.com/item?id=48197370) - [A new era for AI Search](https://blog.google/products-and-platforms/products/search/search-io-2026/)
 * [2026-05-19, 18:04:58](https://news.ycombinator.com/item?id=48196897) - [Deciphering the Hashihara Castle Town Map](https://www.obayashi.co.jp/en/kikan_obayashi/detail/kikan_64_project.html)
@@ -22,6 +28,7 @@
 * [2026-05-19, 13:30:58](https://news.ycombinator.com/item?id=48193111) - [Anthropic Is Preparing for IPO and We Should Be Worried](https://www.vincentschmalbach.com/anthropic-ipo-developers-should-be-worried-v2/)
 * [2026-05-19, 13:11:51](https://news.ycombinator.com/item?id=48192882) - [OpenBSD 7.9 Released](https://www.openbsd.org/79.html)
 * [2026-05-19, 12:26:45](https://news.ycombinator.com/item?id=48192410) - [Colonization of Venus](https://en.wikipedia.org/wiki/Colonization_of_Venus)
+* [2026-05-19, 12:23:07](https://news.ycombinator.com/item?id=48192383) - [Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks](https://github.com/antoinezambelli/forge)
 * [2026-05-19, 12:04:18](https://news.ycombinator.com/item?id=48192224) - [New accessibility features powered by Apple Intelligence](https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/)
 * [2026-05-19, 11:16:56](https://news.ycombinator.com/item?id=48191852) - [Show HN: Id-agent – Token efficient UUID alternative for AI agents](https://github.com/vostride/id-agent)
 * [2026-05-19, 10:38:47](https://news.ycombinator.com/item?id=48191602) - [Gaussian Splat of a Strawberry](https://superspl.at/scene/84df8849)

@@ -14,6 +14,7 @@
 * [2026-05-17, 21:23:25](https://news.ycombinator.com/item?id=48173318) - [An AI Hate Wave Is Here](https://www.axios.com/2026/05/17/ai-backlash-polling-sentiment)
 * [2026-05-17, 21:15:51](https://news.ycombinator.com/item?id=48173268) - [Prolog Coding Horror](https://www.metalevel.at/prolog/horror)
 * [2026-05-17, 19:39:10](https://news.ycombinator.com/item?id=48172505) - [VoIP brings back old-fashioned pay phones to rural Vermont](https://spectrum.ieee.org/payphone-voip)
+* [2026-05-17, 19:21:09](https://news.ycombinator.com/item?id=48172320) - [Growing Neural Cellular Automata](https://distill.pub/2020/growing-ca/)
 * [2026-05-17, 19:13:21](https://news.ycombinator.com/item?id=48172253) - [Consider the Sister](https://www.thesmallbow.com/p/consider-the-sister-2b94)
 * [2026-05-17, 19:12:15](https://news.ycombinator.com/item?id=48172234) - [Energy return in running shoes explained (2025)](https://runrepeat.com/guides/energy-return-in-running-shoes)
 * [2026-05-17, 18:42:35](https://news.ycombinator.com/item?id=48171906) - [Scientists \"bottle the sun\" with a liquid battery that stores solar energy](https://www.sciencedaily.com/releases/2026/05/260513221821.htm)
