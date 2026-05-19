@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-05-19, 07:28:59",
-      "https://news.ycombinator.com/item?id=48190348"
+      "2026-05-19, 11:16:56",
+      "https://news.ycombinator.com/item?id=48191852"
     ],
     [
-      "My domain got abused on GitHub Pages",
-      "https://meertens.dev/blog/github-enables-domain-abuse/"
+      "Show HN: Id-agent – Token efficient UUID alternative for AI agents",
+      "https://github.com/vostride/id-agent"
+    ]
+  ],
+  [
+    [
+      "2026-05-19, 10:38:47",
+      "https://news.ycombinator.com/item?id=48191602"
+    ],
+    [
+      "Gaussian Splat of a Strawberry",
+      "https://superspl.at/scene/84df8849"
     ]
   ],
   [
@@ -31,32 +41,12 @@
   ],
   [
     [
-      "2026-05-19, 04:24:45",
-      "https://news.ycombinator.com/item?id=48189156"
-    ],
-    [
-      "Codex-maxxing",
-      "https://jxnl.co/writing/2026/05/10/codex-maxxing/"
-    ]
-  ],
-  [
-    [
       "2026-05-19, 04:06:09",
       "https://news.ycombinator.com/item?id=48189044"
     ],
     [
       "Show HN: Hsrs – Type-Safe Haskell Bindings Generator for Rust",
       "https://github.com/harmont-dev/hsrs"
-    ]
-  ],
-  [
-    [
-      "2026-05-19, 03:56:57",
-      "https://news.ycombinator.com/item?id=48188996"
-    ],
-    [
-      "LLMCap – A proxy that hard-stops LLM API calls when you hit a dollar cap",
-      "https://www.llmcap.io/"
     ]
   ],
   [
@@ -131,6 +121,16 @@
   ],
   [
     [
+      "2026-05-18, 18:43:30",
+      "https://news.ycombinator.com/item?id=48183748"
+    ],
+    [
+      "Agora-1: The Multi-Agent World Model",
+      "https://odyssey.ml/introducing-agora-1"
+    ]
+  ],
+  [
+    [
       "2026-05-18, 18:12:18",
       "https://news.ycombinator.com/item?id=48183301"
     ],
@@ -191,12 +191,22 @@
   ],
   [
     [
-      "2026-05-17, 19:13:21",
-      "https://news.ycombinator.com/item?id=48172253"
+      "2026-05-17, 19:12:15",
+      "https://news.ycombinator.com/item?id=48172234"
     ],
     [
-      "Consider the Sister",
-      "https://www.thesmallbow.com/p/consider-the-sister-2b94"
+      "Energy return in running shoes explained (2025)",
+      "https://runrepeat.com/guides/energy-return-in-running-shoes"
+    ]
+  ],
+  [
+    [
+      "2026-05-17, 11:18:44",
+      "https://news.ycombinator.com/item?id=48167890"
+    ],
+    [
+      "Photo GIMP – A Patch for GIMP 3 for Photoshop Users",
+      "https://github.com/Diolinux/PhotoGIMP"
     ]
   ],
   [
@@ -221,12 +231,12 @@
   ],
   [
     [
-      "2026-05-17, 03:59:22",
-      "https://news.ycombinator.com/item?id=48165944"
+      "2026-05-17, 03:25:23",
+      "https://news.ycombinator.com/item?id=48165797"
     ],
     [
-      "Anyone on the Internet Can Ring Your Doorbell",
-      "https://www.abgeo.dev/blog/anyone-can-ring-your-doorbell"
+      "I Found Ultra-Pure Quantum Crystals in an Abandoned Mine in the Atacama Desert",
+      "https://medium.com/@breid.at/ultra-pure-quantum-crystals-from-an-abandoned-mine-in-a-mysterious-desert-93cc87d12314"
     ]
   ],
   [
@@ -255,18 +265,8 @@
       "https://news.ycombinator.com/item?id=48161772"
     ],
     [
-      "Turn your Android phone into a ham radio transceiver",
+      "Kv4p HT – A homebrew 1W radio (VHF or UHF) that plugs into an Android phone",
       "https://www.kv4p.com/"
-    ]
-  ],
-  [
-    [
-      "2026-05-16, 10:19:02",
-      "https://news.ycombinator.com/item?id=48158780"
-    ],
-    [
-      "Why is it called Kent House?",
-      "https://diamondgeezer.blogspot.com/2026/05/kent-house.html"
     ]
   ],
   [
