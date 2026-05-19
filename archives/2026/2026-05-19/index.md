@@ -4,8 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-05-19](index.md)
 
+* [2026-05-19, 14:04:19](https://news.ycombinator.com/item?id=48193474) - [Show HN: I made a 3D pose maker for artists](https://setpose.com/)
+* [2026-05-19, 13:30:58](https://news.ycombinator.com/item?id=48193111) - [Anthropic Is Preparing for IPO and We Should Be Worried](https://www.vincentschmalbach.com/anthropic-ipo-developers-should-be-worried-v2/)
+* [2026-05-19, 13:11:51](https://news.ycombinator.com/item?id=48192882) - [OpenBSD 7.9 Released](https://www.openbsd.org/79.html)
+* [2026-05-19, 12:26:45](https://news.ycombinator.com/item?id=48192410) - [Colonization of Venus](https://en.wikipedia.org/wiki/Colonization_of_Venus)
+* [2026-05-19, 12:04:18](https://news.ycombinator.com/item?id=48192224) - [New accessibility features powered by Apple Intelligence](https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/)
 * [2026-05-19, 11:16:56](https://news.ycombinator.com/item?id=48191852) - [Show HN: Id-agent – Token efficient UUID alternative for AI agents](https://github.com/vostride/id-agent)
 * [2026-05-19, 10:38:47](https://news.ycombinator.com/item?id=48191602) - [Gaussian Splat of a Strawberry](https://superspl.at/scene/84df8849)
+* [2026-05-19, 07:45:53](https://news.ycombinator.com/item?id=48190454) - [CISA Admin Leaked AWS GovCloud Keys on GitHub](https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/)
 * [2026-05-19, 07:28:59](https://news.ycombinator.com/item?id=48190348) - [My domain got abused on GitHub Pages](https://meertens.dev/blog/github-enables-domain-abuse/)
 * [2026-05-19, 05:04:49](https://news.ycombinator.com/item?id=48189368) - [Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised](https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/)
 * [2026-05-19, 04:29:39](https://news.ycombinator.com/item?id=48189178) - [PyTorch Landscape](https://pytorch.landscape2.io)
@@ -16,4 +22,5 @@
 * [2026-05-19, 02:56:42](https://news.ycombinator.com/item?id=48188665) - [Peter Salus has died](https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html)
 * [2026-05-19, 02:25:29](https://news.ycombinator.com/item?id=48188506) - [War game exposed U.S. vulnerability to low-tech warfare](https://nsarchive.gwu.edu/news/2024-11-01/rigged-war-game-exposed-us-vulnerability-low-tech-warfare)
 * [2026-05-19, 01:30:42](https://news.ycombinator.com/item?id=48188183) - [The last six months in LLMs in five minutes](https://simonwillison.net/2026/May/19/5-minute-llms/)
+* [2026-05-19, 00:25:50](https://news.ycombinator.com/item?id=48187752) - [An Apple (II) for Teacher](https://technicshistory.com/2026/05/19/an-apple-ii-for-teacher/)
 * [2026-05-19, 00:16:31](https://news.ycombinator.com/item?id=48187680) - [What political censorship looks like inside an LLM's weights (Qwen 3.5)](https://vas-blog.pages.dev/qwen-censorship/)

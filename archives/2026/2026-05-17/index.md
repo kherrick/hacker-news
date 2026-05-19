@@ -32,6 +32,7 @@
 * [2026-05-17, 13:22:14](https://news.ycombinator.com/item?id=48168708) - [WHO Declares Ebola Outbreak a Global Health Emergency](https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html)
 * [2026-05-17, 13:16:27](https://news.ycombinator.com/item?id=48168668) - [I turned a $80 RK3562 Android tablet into a Debian Linux workstation](https://github.com/tech4bot/rk3562deb)
 * [2026-05-17, 13:11:20](https://news.ycombinator.com/item?id=48168626) - [AI is a technology not a product](https://daringfireball.net/2026/05/ai_is_technology_not_a_product)
+* [2026-05-17, 13:09:20](https://news.ycombinator.com/item?id=48168610) - [Nim-Presto – REST API Framework for Nim Language](https://github.com/status-im/nim-presto)
 * [2026-05-17, 12:52:06](https://news.ycombinator.com/item?id=48168485) - [CUDA Books](https://github.com/alternbits/awesome-cuda-books)
 * [2026-05-17, 12:44:24](https://news.ycombinator.com/item?id=48168426) - [Agentic Trading with Safe Guardrails](https://github.com/ShurikenTrade/shuriken-skills)
 * [2026-05-17, 12:13:45](https://news.ycombinator.com/item?id=48168221) - [I don't think AI will make your processes go faster](https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/)
