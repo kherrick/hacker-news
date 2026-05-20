@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-05-20, 10:47:20",
+      "https://news.ycombinator.com/item?id=48205699"
+    ],
+    [
+      "Map of Metal",
+      "https://mapofmetal.com/"
+    ]
+  ],
+  [
+    [
+      "2026-05-20, 10:04:28",
+      "https://news.ycombinator.com/item?id=48205415"
+    ],
+    [
+      "Learnings from 100K lines of Rust with AI (2025)",
+      "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-20, 09:09:40",
+      "https://news.ycombinator.com/item?id=48205026"
+    ],
+    [
+      "The weird, wild story of humanity's obsession with gold",
+      "https://www.economist.com/culture/2026/05/14/the-weird-wild-story-of-humanitys-obsession-with-gold"
+    ]
+  ],
+  [
+    [
       "2026-05-20, 06:07:22",
       "https://news.ycombinator.com/item?id=48203698"
     ],
@@ -17,26 +47,6 @@
     [
       "Infomaniak transitions to a foundation model to protect user data privacy",
       "https://news.infomaniak.com/en/infomaniak-foundation-sovereign-cloud/"
-    ]
-  ],
-  [
-    [
-      "2026-05-20, 05:33:06",
-      "https://news.ycombinator.com/item?id=48203484"
-    ],
-    [
-      "There's no earthly way of knowing which direction we are going",
-      "https://kottke.org/26/05/theres-no-earthly-way-of-knowing-which-direction-we-are-going"
-    ]
-  ],
-  [
-    [
-      "2026-05-20, 04:51:42",
-      "https://news.ycombinator.com/item?id=48203249"
-    ],
-    [
-      "Testing MiniMax M2.7 via API on three real ML and coding workflows",
-      "https://andlukyane.com//blog/minimax-m27-workflows"
     ]
   ],
   [
@@ -65,8 +75,8 @@
       "https://news.ycombinator.com/item?id=48201484"
     ],
     [
-      "Railway Blocked by Google Cloud",
-      "https://status.railway.com/?date=20260519"
+      "Incident Report: Railway Blocked by Google Cloud (Resolved)",
+      "https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage"
     ]
   ],
   [
@@ -81,21 +91,11 @@
   ],
   [
     [
-      "2026-05-19, 23:49:03",
-      "https://news.ycombinator.com/item?id=48201222"
-    ],
-    [
-      "HTML-in-Canvas Demos",
-      "https://github.com/GoogleChromeLabs/css-web-ui-demos/blob/main/html-in-canvas/awesome-html-in-canvas.md"
-    ]
-  ],
-  [
-    [
       "2026-05-19, 22:30:31",
       "https://news.ycombinator.com/item?id=48200569"
     ],
     [
-      "Remove–AI–Watermarks – CLI and library for removing AI watermarks from images",
+      "Remove-AI-Watermarks – CLI and library for removing AI watermarks from images",
       "https://github.com/wiltodelta/remove-ai-watermarks"
     ]
   ],
@@ -221,12 +221,12 @@
   ],
   [
     [
-      "2026-05-18, 20:15:17",
-      "https://news.ycombinator.com/item?id=48184941"
+      "2026-05-18, 14:00:11",
+      "https://news.ycombinator.com/item?id=48180030"
     ],
     [
-      "Skills in Web, iOS, and Android",
-      "https://x.ai/news/grok-skills"
+      "The Invention of Buses",
+      "https://worksinprogress.co/issue/the-invention-of-buses/"
     ]
   ],
   [
