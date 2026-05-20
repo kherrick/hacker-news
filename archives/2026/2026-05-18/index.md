@@ -67,5 +67,6 @@
 * [2026-05-18, 04:38:58](https://news.ycombinator.com/item?id=48175637) - [Étienne Ghys: The Shape of Letters: From Leonardo da Vinci to Donald Knuth](https://www.youtube.com/watch?v=1OIxzewWilc)
 * [2026-05-18, 03:41:35](https://news.ycombinator.com/item?id=48175319) - [America's Most-Spoken Languages After English and Spanish](https://www.visualcapitalist.com/mapped-americas-most-spoken-languages-after-english-and-spanish/)
 * [2026-05-18, 02:59:34](https://news.ycombinator.com/item?id=48175140) - [It is time to give up the dualism introduced by the debate on consciousness](https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/)
+* [2026-05-18, 02:04:38](https://news.ycombinator.com/item?id=48174920) - [How fast is N tokens per second really?](https://mikeveerman.github.io/tokenspeed/)
 * [2026-05-18, 00:45:52](https://news.ycombinator.com/item?id=48174516) - [Museum of Imaginary Musical Instruments](https://imaginaryinstruments.org/)
 * [2026-05-18, 00:26:33](https://news.ycombinator.com/item?id=48174409) - [Designing an FPGA Calculator from Scratch](https://baltazarstudios.com/calculator/)
