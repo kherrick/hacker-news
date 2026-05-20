@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-05-20](index.md)
 
+* [2026-05-20, 21:41:54](https://news.ycombinator.com/item?id=48214558) - [Starship's Twelfth Flight Test](https://www.spacex.com/launches/starship-flight-12)
+* [2026-05-20, 21:33:18](https://news.ycombinator.com/item?id=48214449) - [Google Declaring War on the Web](https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/)
+* [2026-05-20, 21:28:28](https://news.ycombinator.com/item?id=48214399) - [Show HN: CPU-only transcription for YouTube, TikTok, X, Instagram videos](https://github.com/kouhxp/yapsnap)
+* [2026-05-20, 21:14:03](https://news.ycombinator.com/item?id=48214215) - [GitHub's take on age assurance for developers](https://github.blog/news-insights/policy-news-and-insights/why-age-assurance-laws-matter-for-developers/)
 * [2026-05-20, 21:11:55](https://news.ycombinator.com/item?id=48214188) - [PopuLoRA: Co-Evolving LLM Populations for Reasoning Self- Play](https://vmax.ai/team/populora-co-evolving-llm-populations-for-reasoning-self-play)
 * [2026-05-20, 20:49:59](https://news.ycombinator.com/item?id=48213933) - [SpaceX S-1](https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm)
+* [2026-05-20, 20:28:18](https://news.ycombinator.com/item?id=48213651) - [Colorado Amended SB051 (Age Verification Bill) to Exclude Open Source Projects](https://legiscan.com/CO/bill/SB051/2026)
 * [2026-05-20, 20:21:14](https://news.ycombinator.com/item?id=48213550) - [SpaceX punts Starship launch as investigation opens into Starbase worker's death](https://www.scientificamerican.com/article/spacex-punts-starship-v3-launch-to-may-21-as-investigation-opens-into-starbase-worker-death/)
 * [2026-05-20, 19:38:25](https://news.ycombinator.com/item?id=48212992) - [Not alive, but not dead: disembodied human brains used for drug testing](https://www.science.org/content/article/not-alive-not-dead-disembodied-human-brains-used-drug-testing)
 * [2026-05-20, 19:05:30](https://news.ycombinator.com/item?id=48212493) - [An OpenAI model has disproved a central conjecture in discrete geometry](https://openai.com/index/model-disproves-discrete-geometry-conjecture/)

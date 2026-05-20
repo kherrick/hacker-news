@@ -13,6 +13,7 @@
 * [2026-05-17, 21:40:35](https://news.ycombinator.com/item?id=48173429) - [GenCAD](https://gencad.github.io/)
 * [2026-05-17, 21:23:25](https://news.ycombinator.com/item?id=48173318) - [An AI Hate Wave Is Here](https://www.axios.com/2026/05/17/ai-backlash-polling-sentiment)
 * [2026-05-17, 21:15:51](https://news.ycombinator.com/item?id=48173268) - [Prolog Coding Horror](https://www.metalevel.at/prolog/horror)
+* [2026-05-17, 20:46:57](https://news.ycombinator.com/item?id=48173042) - [Long-term editing of brain circuits using an engineered electrical synapse](https://www.nature.com/articles/s41586-026-10501-y)
 * [2026-05-17, 20:07:14](https://news.ycombinator.com/item?id=48172747) - [Autoregressive next token prediction and KV Cache in transformers](https://medium.com/advanced-deep-learning/autoregressive-next-token-prediction-kv-cache-in-transformers-afad22285baf)
 * [2026-05-17, 19:39:10](https://news.ycombinator.com/item?id=48172505) - [VoIP brings back old-fashioned pay phones to rural Vermont](https://spectrum.ieee.org/payphone-voip)
 * [2026-05-17, 19:22:42](https://news.ycombinator.com/item?id=48172336) - [Smartmedia Card Spec Opened, available free (2000)](https://www.edn.com/smartmedia-card-interface-spec-opened-available-for-free/#google_vignette)

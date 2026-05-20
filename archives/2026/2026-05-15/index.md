@@ -11,6 +11,7 @@
 * [2026-05-15, 23:18:39](https://news.ycombinator.com/item?id=48155185) - [How Diamonds Are Made](https://diamond.jaydip.me/)
 * [2026-05-15, 23:14:51](https://news.ycombinator.com/item?id=48155159) - [Spectre Programming Language](https://spectre-docs.pages.dev)
 * [2026-05-15, 22:38:58](https://news.ycombinator.com/item?id=48154865) - [Orthrus-Qwen3: up to 7.8×tokens/forward on Qwen3, identical output distribution](https://github.com/chiennv2000/orthrus)
+* [2026-05-15, 22:31:45](https://news.ycombinator.com/item?id=48154796) - [Archaeologists find Egyptian mummy buried with the 'Iliad'](https://www.openculture.com/2026/05/archaeologists-discover-ancient-egyptian-mummy-buried-with-pages-from-homers-iliad.html)
 * [2026-05-15, 22:23:38](https://news.ycombinator.com/item?id=48154711) - [How to Write to SSDs [pdf]](https://www.vldb.org/pvldb/vol19/p1469-lee.pdf)
 * [2026-05-15, 20:28:44](https://news.ycombinator.com/item?id=48153400) - [London Police Deploy Facial Recognition at Protest for First Time](https://reclaimthenet.org/london-police-deploy-facial-recognition-at-protest-for-first-time)
 * [2026-05-15, 20:26:47](https://news.ycombinator.com/item?id=48153379) - [Mitchellh – I strongly believe there are entire companies now under AI psychosis](https://twitter.com/mitchellh/status/2055380239711457578)
