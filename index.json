@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-05-20, 05:07:23",
+      "https://news.ycombinator.com/item?id=48203333"
+    ],
+    [
+      "India's hottest district shuts at 10 am as mercury breaches 48 C mark",
+      "https://www.hindustantimes.com/india-news/indias-hottest-district-banda-shuts-at-10-am-as-mercury-breaches-48-degrees-celsius-mark-101779240653594.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-20, 04:51:42",
+      "https://news.ycombinator.com/item?id=48203249"
+    ],
+    [
+      "Testing MiniMax M2.7 via API on three real ML and coding workflows",
+      "https://andlukyane.com//blog/minimax-m27-workflows"
+    ]
+  ],
+  [
+    [
+      "2026-05-20, 04:12:48",
+      "https://news.ycombinator.com/item?id=48202993"
+    ],
+    [
+      "GitHub Compromised",
+      "https://twitter.com/i/status/2056949168208552080"
+    ]
+  ],
+  [
+    [
+      "2026-05-20, 03:10:30",
+      "https://news.ycombinator.com/item?id=48202658"
+    ],
+    [
+      "Evals will break",
+      "https://wanglun1996.github.io/blog/your-evals-will-break.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-20, 01:34:19",
+      "https://news.ycombinator.com/item?id=48201973"
+    ],
+    [
+      "FiveThirtyEight articles on the Internet Archive",
+      "https://fivethirtyeightindex.com/"
+    ]
+  ],
+  [
+    [
       "2026-05-20, 00:23:54",
       "https://news.ycombinator.com/item?id=48201484"
     ],
@@ -21,6 +71,16 @@
   ],
   [
     [
+      "2026-05-19, 23:49:03",
+      "https://news.ycombinator.com/item?id=48201222"
+    ],
+    [
+      "HTML-in-Canvas Demos",
+      "https://github.com/GoogleChromeLabs/css-web-ui-demos/blob/main/html-in-canvas/awesome-html-in-canvas.md"
+    ]
+  ],
+  [
+    [
       "2026-05-19, 22:30:31",
       "https://news.ycombinator.com/item?id=48200569"
     ],
@@ -37,16 +97,6 @@
     [
       "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
       "https://openai.com/index/advancing-content-provenance/"
-    ]
-  ],
-  [
-    [
-      "2026-05-19, 19:22:56",
-      "https://news.ycombinator.com/item?id=48198127"
-    ],
-    [
-      "Dumb ways for an open source project to die",
-      "https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html"
     ]
   ],
   [
@@ -81,16 +131,6 @@
   ],
   [
     [
-      "2026-05-19, 18:40:19",
-      "https://news.ycombinator.com/item?id=48197445"
-    ],
-    [
-      "The TTY Demystified (2008)",
-      "https://www.linusakesson.net/programming/tty/index.php"
-    ]
-  ],
-  [
-    [
       "2026-05-19, 18:34:27",
       "https://news.ycombinator.com/item?id=48197370"
     ],
@@ -107,16 +147,6 @@
     [
       "Gemini CLI will stop working from June 18, 2026",
       "https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/"
-    ]
-  ],
-  [
-    [
-      "2026-05-19, 17:46:19",
-      "https://news.ycombinator.com/item?id=48196609"
-    ],
-    [
-      "Gemini Omni",
-      "https://deepmind.google/models/gemini-omni/"
     ]
   ],
   [
@@ -191,42 +221,12 @@
   ],
   [
     [
-      "2026-05-19, 10:38:47",
-      "https://news.ycombinator.com/item?id=48191602"
+      "2026-05-18, 20:15:17",
+      "https://news.ycombinator.com/item?id=48184941"
     ],
     [
-      "Show HN: Gaussian Splat of a Strawberry",
-      "https://superspl.at/scene/84df8849"
-    ]
-  ],
-  [
-    [
-      "2026-05-19, 07:45:53",
-      "https://news.ycombinator.com/item?id=48190454"
-    ],
-    [
-      "CISA Admin Leaked AWS GovCloud Keys on GitHub",
-      "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/"
-    ]
-  ],
-  [
-    [
-      "2026-05-18, 17:45:02",
-      "https://news.ycombinator.com/item?id=48182872"
-    ],
-    [
-      "Hanoi’s humble beer glass and the memory of a nation",
-      "https://sundaylongread.com/2026/05/15/hanois-humble-beer-glass-and-the-memory-of-a-nation/"
-    ]
-  ],
-  [
-    [
-      "2026-05-18, 13:00:24",
-      "https://news.ycombinator.com/item?id=48179172"
-    ],
-    [
-      "Unusual uses of OEIS sequences on GitHub",
-      "https://www.jeremykun.com/shortform/2026-04-13-0700/"
+      "Skills in Web, iOS, and Android",
+      "https://x.ai/news/grok-skills"
     ]
   ],
   [
@@ -237,16 +237,6 @@
     [
       "Lisp in Web-Based Applications (2001)",
       "https://sep.turbifycdn.com/ty/cdn/paulgraham/bbnexcerpts.txt"
-    ]
-  ],
-  [
-    [
-      "2026-05-18, 09:40:51",
-      "https://news.ycombinator.com/item?id=48177300"
-    ],
-    [
-      "The foundations of a provably secure operating system (PSOS) (1979) [pdf]",
-      "http://www.csl.sri.com/users/neumann/psos.pdf"
     ]
   ],
   [
@@ -271,6 +261,16 @@
   ],
   [
     [
+      "2026-05-18, 00:45:52",
+      "https://news.ycombinator.com/item?id=48174516"
+    ],
+    [
+      "Museum of Imaginary Musical Instruments",
+      "https://imaginaryinstruments.org/"
+    ]
+  ],
+  [
+    [
       "2026-05-17, 19:21:09",
       "https://news.ycombinator.com/item?id=48172320"
     ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2026-05-17, 15:52:21",
-      "https://news.ycombinator.com/item?id=48170007"
+      "2026-05-17, 16:00:48",
+      "https://news.ycombinator.com/item?id=48170096"
     ],
     [
-      "Intro to TLA+ for the LLM Era: Prompt Your Way to Victory",
-      "https://emptysqua.re/blog/intro-to-tla-plus-for-the-llm-era/"
+      "In 1979 engineer Hugh Padgham discovered \"gated reverb\" – by accident",
+      "https://producelikeapro.com/blog/how-one-recording-mistake-created-a-musical-phenomenon-in-the-80s/"
     ]
   ],
   [
