@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-19](index.md)
 
+* [2026-05-19, 23:49:03](https://news.ycombinator.com/item?id=48201222) - [HTML-in-Canvas Demos](https://github.com/GoogleChromeLabs/css-web-ui-demos/blob/main/html-in-canvas/awesome-html-in-canvas.md)
 * [2026-05-19, 22:30:31](https://news.ycombinator.com/item?id=48200569) - [Remove AI Watermarks](https://github.com/wiltodelta/remove-ai-watermarks)
 * [2026-05-19, 19:52:49](https://news.ycombinator.com/item?id=48198551) - [Tesla's lithium refinery discharges 231,000 gallons of polluted wastewater a day](https://www.autonocion.com/us/tesla-lithium-refinery-texas/)
 * [2026-05-19, 19:34:38](https://news.ycombinator.com/item?id=48198293) - [Era: From Nature publication to catalyzing Computational Discovery](https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/)

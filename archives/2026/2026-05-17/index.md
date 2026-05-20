@@ -26,6 +26,7 @@
 * [2026-05-17, 16:15:01](https://news.ycombinator.com/item?id=48170247) - [Dontsurveil.me](https://opencivics-labs.github.io/dontsurveil.me/c22.html)
 * [2026-05-17, 16:04:28](https://news.ycombinator.com/item?id=48170122) - [Mistral's CEO: Europe has 2 years to stop becoming America's AI 'vassal state'](https://www.businessinsider.com/mistral-ceo-warns-europe-2-years-avoid-us-ai-dependence-2026-5)
 * [2026-05-17, 16:04:08](https://news.ycombinator.com/item?id=48170118) - [Don't Outsource the Learning](https://addyosmani.com/blog/dont-outsource-learning/)
+* [2026-05-17, 16:00:48](https://news.ycombinator.com/item?id=48170096) - [In 1979 engineer Hugh Padgham discovered \"gated reverb\" – by accident](https://producelikeapro.com/blog/how-one-recording-mistake-created-a-musical-phenomenon-in-the-80s/)
 * [2026-05-17, 15:52:21](https://news.ycombinator.com/item?id=48170007) - [Intro to TLA+ for the LLM Era: Prompt Your Way to Victory](https://emptysqua.re/blog/intro-to-tla-plus-for-the-llm-era/)
 * [2026-05-17, 15:37:07](https://news.ycombinator.com/item?id=48169874) - [Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep](https://github.com/MinishLab/semble)
 * [2026-05-17, 15:22:10](https://news.ycombinator.com/item?id=48169736) - [Tool mapping 90 companies in the photonics and CPO supply chain](https://leonardo-boquillon.com/photonic-cop-supply-chain)

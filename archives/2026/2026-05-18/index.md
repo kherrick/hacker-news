@@ -9,6 +9,7 @@
 * [2026-05-18, 21:29:13](https://news.ycombinator.com/item?id=48185938) - [Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment](https://arxiv.org/abs/2601.10160)
 * [2026-05-18, 21:18:25](https://news.ycombinator.com/item?id=48185789) - [Who will buy your services if you fire us all?](https://carette.xyz/posts/who_will_buy_your_services/)
 * [2026-05-18, 20:30:58](https://news.ycombinator.com/item?id=48185188) - [No More JetBrains Products for Me](https://matthewkosarek.xyz/posts/jetbrains/)
+* [2026-05-18, 20:15:17](https://news.ycombinator.com/item?id=48184941) - [Skills in Web, iOS, and Android](https://x.ai/news/grok-skills)
 * [2026-05-18, 19:50:09](https://news.ycombinator.com/item?id=48184635) - [Shutterstock to pay $35M over hard-to-cancel subscriptions](https://www.ftc.gov/news-events/news/press-releases/2026/05/shutterstock-pay-35-million-settle-ftc-allegations-over-illegal-subscription-cancellation-practices)
 * [2026-05-18, 19:28:59](https://news.ycombinator.com/item?id=48184350) - [The FBI Wants to Buy Nationwide Access to License Plate Readers](https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-readers/)
 * [2026-05-18, 19:27:25](https://news.ycombinator.com/item?id=48184322) - [Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp](https://hyperpolyglot.org/lisp)
@@ -61,4 +62,5 @@
 * [2026-05-18, 04:38:58](https://news.ycombinator.com/item?id=48175637) - [Étienne Ghys: The Shape of Letters: From Leonardo da Vinci to Donald Knuth](https://www.youtube.com/watch?v=1OIxzewWilc)
 * [2026-05-18, 03:41:35](https://news.ycombinator.com/item?id=48175319) - [America's Most-Spoken Languages After English and Spanish](https://www.visualcapitalist.com/mapped-americas-most-spoken-languages-after-english-and-spanish/)
 * [2026-05-18, 02:59:34](https://news.ycombinator.com/item?id=48175140) - [It is time to give up the dualism introduced by the debate on consciousness](https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/)
+* [2026-05-18, 00:45:52](https://news.ycombinator.com/item?id=48174516) - [Museum of Imaginary Musical Instruments](https://imaginaryinstruments.org/)
 * [2026-05-18, 00:26:33](https://news.ycombinator.com/item?id=48174409) - [Designing an FPGA Calculator from Scratch](https://baltazarstudios.com/calculator/)
