@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-05-20, 21:41:54",
+      "https://news.ycombinator.com/item?id=48214558"
+    ],
+    [
+      "Starship's Twelfth Flight Test",
+      "https://www.spacex.com/launches/starship-flight-12"
+    ]
+  ],
+  [
+    [
+      "2026-05-20, 21:33:18",
+      "https://news.ycombinator.com/item?id=48214449"
+    ],
+    [
+      "Google Declaring War on the Web",
+      "https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/"
+    ]
+  ],
+  [
+    [
+      "2026-05-20, 21:28:28",
+      "https://news.ycombinator.com/item?id=48214399"
+    ],
+    [
+      "Show HN: CPU-only transcription for YouTube, TikTok, X, Instagram videos",
+      "https://github.com/kouhxp/yapsnap"
+    ]
+  ],
+  [
+    [
+      "2026-05-20, 21:14:03",
+      "https://news.ycombinator.com/item?id=48214215"
+    ],
+    [
+      "GitHub's take on age assurance for developers",
+      "https://github.blog/news-insights/policy-news-and-insights/why-age-assurance-laws-matter-for-developers/"
+    ]
+  ],
+  [
+    [
       "2026-05-20, 21:11:55",
       "https://news.ycombinator.com/item?id=48214188"
     ],
@@ -21,12 +61,12 @@
   ],
   [
     [
-      "2026-05-20, 20:21:14",
-      "https://news.ycombinator.com/item?id=48213550"
+      "2026-05-20, 20:28:18",
+      "https://news.ycombinator.com/item?id=48213651"
     ],
     [
-      "SpaceX punts Starship launch as investigation opens into Starbase worker's death",
-      "https://www.scientificamerican.com/article/spacex-punts-starship-v3-launch-to-may-21-as-investigation-opens-into-starbase-worker-death/"
+      "Colorado Amended SB051 (Age Verification Bill) to Exclude Open Source Projects",
+      "https://legiscan.com/CO/bill/SB051/2026"
     ]
   ],
   [
@@ -111,16 +151,6 @@
   ],
   [
     [
-      "2026-05-20, 16:27:25",
-      "https://news.ycombinator.com/item?id=48210263"
-    ],
-    [
-      "Apparently Google hates us now",
-      "https://twitter.com/pokemoncentral/status/2057123807404638250"
-    ]
-  ],
-  [
-    [
       "2026-05-20, 15:39:48",
       "https://news.ycombinator.com/item?id=48209558"
     ],
@@ -137,16 +167,6 @@
     [
       "Formal Verification Gates for AI Coding Loops",
       "https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/"
-    ]
-  ],
-  [
-    [
-      "2026-05-20, 14:40:42",
-      "https://news.ycombinator.com/item?id=48208685"
-    ],
-    [
-      "Testing distributed systems with AI agents",
-      "https://github.com/shenli/distributed-system-testing"
     ]
   ],
   [
@@ -221,26 +241,6 @@
   ],
   [
     [
-      "2026-05-20, 06:07:22",
-      "https://news.ycombinator.com/item?id=48203698"
-    ],
-    [
-      "Everything in C is undefined behavior",
-      "https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-20, 01:43:06",
-      "https://news.ycombinator.com/item?id=48202047"
-    ],
-    [
-      "Japan is gripped by mass allergies. A 1950s project is to blame",
-      "https://www.bbc.com/future/article/20260515-the-1950s-blunder-which-causes-mass-hay-fever-in-japan"
-    ]
-  ],
-  [
-    [
       "2026-05-18, 22:33:47",
       "https://news.ycombinator.com/item?id=48186730"
     ],
@@ -257,16 +257,6 @@
     [
       "Sharla Boehm, the programmer whose code underpins the Internet",
       "https://www.scientificamerican.com/article/the-programmer-whose-code-underpins-the-internet/"
-    ]
-  ],
-  [
-    [
-      "2026-05-18, 14:10:47",
-      "https://news.ycombinator.com/item?id=48180172"
-    ],
-    [
-      "When Fast Fourier Transform Meets Transformer for Image Restoration (2024)",
-      "https://github.com/deng-ai-lab/SFHformer"
     ]
   ],
   [
@@ -291,12 +281,22 @@
   ],
   [
     [
-      "2026-05-17, 15:31:03",
-      "https://news.ycombinator.com/item?id=48169818"
+      "2026-05-17, 20:46:57",
+      "https://news.ycombinator.com/item?id=48173042"
     ],
     [
-      "Handling the great code forge fragmentation",
-      "https://www.alexselimov.com/posts/forge_fragmentation/"
+      "Long-term editing of brain circuits using an engineered electrical synapse",
+      "https://www.nature.com/articles/s41586-026-10501-y"
+    ]
+  ],
+  [
+    [
+      "2026-05-15, 22:31:45",
+      "https://news.ycombinator.com/item?id=48154796"
+    ],
+    [
+      "Archaeologists find Egyptian mummy buried with the 'Iliad'",
+      "https://www.openculture.com/2026/05/archaeologists-discover-ancient-egyptian-mummy-buried-with-pages-from-homers-iliad.html"
     ]
   ]
 ]
