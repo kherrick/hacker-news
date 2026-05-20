@@ -19,6 +19,7 @@
 * [2026-05-19, 18:03:10](https://news.ycombinator.com/item?id=48196867) - [Gemini CLI will stop working from June 18, 2026](https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/)
 * [2026-05-19, 17:46:19](https://news.ycombinator.com/item?id=48196609) - [Gemini Omni](https://deepmind.google/models/gemini-omni/)
 * [2026-05-19, 17:43:45](https://news.ycombinator.com/item?id=48196570) - [Gemini 3.5 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/)
+* [2026-05-19, 17:25:33](https://news.ycombinator.com/item?id=48196337) - [CopyFail: From Pod to Host](https://xint.io/blog/copy-fail-pod-to-host)
 * [2026-05-19, 17:22:45](https://news.ycombinator.com/item?id=48196303) - [AI, \"Humanity\", and Dr. Manhattan Syndrome: A Communications Intervention](https://www.personfamiliar.com/p/ai-humanity-and-dr-manhattan-syndrome)
 * [2026-05-19, 17:01:25](https://news.ycombinator.com/item?id=48196020) - [Google I/O](https://io.google/2026/)
 * [2026-05-19, 16:53:01](https://news.ycombinator.com/item?id=48195914) - [Google IO 26 Keynote](https://www.youtube.com/watch?v=wYSncx9zLIU)

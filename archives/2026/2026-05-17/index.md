@@ -19,6 +19,7 @@
 * [2026-05-17, 19:12:15](https://news.ycombinator.com/item?id=48172234) - [Energy return in running shoes explained (2025)](https://runrepeat.com/guides/energy-return-in-running-shoes)
 * [2026-05-17, 18:42:35](https://news.ycombinator.com/item?id=48171906) - [Scientists \"bottle the sun\" with a liquid battery that stores solar energy](https://www.sciencedaily.com/releases/2026/05/260513221821.htm)
 * [2026-05-17, 17:29:38](https://news.ycombinator.com/item?id=48171015) - [EU weighs restricting use of US cloud platforms to process sensitive gov data](https://www.osnews.com/story/144943/eu-weighs-restricting-use-of-us-cloud-platforms-to-process-sensitive-government-data/)
+* [2026-05-17, 17:14:25](https://news.ycombinator.com/item?id=48170855) - [Nostalgic Kits Central (2024)](https://www.nostalgickitscentral.com/)
 * [2026-05-17, 17:10:48](https://news.ycombinator.com/item?id=48170810) - [Meta deletes popular 1M follower account after Kuwaiti request](https://twitter.com/ryangrim/status/2055992439031185782)
 * [2026-05-17, 17:09:36](https://news.ycombinator.com/item?id=48170799) - [The occasional ECONNRESET](https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html)
 * [2026-05-17, 17:09:15](https://news.ycombinator.com/item?id=48170798) - [Americans Are Smashing Flock Cameras](https://stateofsurveillance.org/news/flock-cameras-destroyed-nationwide-ice-backlash-2026/)
