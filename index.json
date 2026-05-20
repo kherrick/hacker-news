@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-05-20, 22:53:27",
+      "https://news.ycombinator.com/item?id=48215418"
+    ],
+    [
+      "DOS Zone",
+      "https://dos.zone/"
+    ]
+  ],
+  [
+    [
       "2026-05-20, 21:41:54",
       "https://news.ycombinator.com/item?id=48214558"
     ],
@@ -51,6 +61,16 @@
   ],
   [
     [
+      "2026-05-20, 20:55:52",
+      "https://news.ycombinator.com/item?id=48214017"
+    ],
+    [
+      "Anthropic is expanding to Colossus2. Will use GB200",
+      "https://xcancel.com/nottombrown/status/2057194829986300375"
+    ]
+  ],
+  [
+    [
       "2026-05-20, 20:49:59",
       "https://news.ycombinator.com/item?id=48213933"
     ],
@@ -91,26 +111,6 @@
   ],
   [
     [
-      "2026-05-20, 18:50:59",
-      "https://news.ycombinator.com/item?id=48212279"
-    ],
-    [
-      "Tracking Starbucks' 'widely recyclable' cups: none ended up at recycling",
-      "https://www.beyondplastics.org/press-releases/starbucks-cups-recyclable-report"
-    ]
-  ],
-  [
-    [
-      "2026-05-20, 18:48:30",
-      "https://news.ycombinator.com/item?id=48212242"
-    ],
-    [
-      "Node.js 26.0.0 (Now with Temporal)",
-      "https://nodejs.org/en/blog/release/v26.0.0"
-    ]
-  ],
-  [
-    [
       "2026-05-20, 18:33:56",
       "https://news.ycombinator.com/item?id=48212046"
     ],
@@ -137,16 +137,6 @@
     [
       "Why is Inkwell stuck in review",
       "https://www.manton.org/2026/05/19/why-is-inkwell-stuck-in.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-20, 16:53:07",
-      "https://news.ycombinator.com/item?id=48210615"
-    ],
-    [
-      "Show HN: Dari-docs – Optimize your docs using parallel coding agents",
-      "https://github.com/mupt-ai/dari-docs"
     ]
   ],
   [
@@ -195,7 +185,7 @@
       "https://news.ycombinator.com/item?id=48206340"
     ],
     [
-      "Saying Goodbye to Asm.js",
+      "Saying goodbye to asm.js",
       "https://spidermonkey.dev/blog/2026/05/20/saying-goodbye-to-asmjs.html"
     ]
   ],
@@ -257,6 +247,16 @@
     [
       "Sharla Boehm, the programmer whose code underpins the Internet",
       "https://www.scientificamerican.com/article/the-programmer-whose-code-underpins-the-internet/"
+    ]
+  ],
+  [
+    [
+      "2026-05-18, 13:15:10",
+      "https://news.ycombinator.com/item?id=48179392"
+    ],
+    [
+      "The OEIS meta sequence and subway stations",
+      "https://www.jeremykun.com/shortform/2026-04-09-0556/"
     ]
   ],
   [
