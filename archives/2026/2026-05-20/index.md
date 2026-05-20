@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-05-20](index.md)
 
+* [2026-05-20, 21:11:55](https://news.ycombinator.com/item?id=48214188) - [PopuLoRA: Co-Evolving LLM Populations for Reasoning Self- Play](https://vmax.ai/team/populora-co-evolving-llm-populations-for-reasoning-self-play)
+* [2026-05-20, 20:49:59](https://news.ycombinator.com/item?id=48213933) - [SpaceX S-1](https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm)
+* [2026-05-20, 20:21:14](https://news.ycombinator.com/item?id=48213550) - [SpaceX punts Starship launch as investigation opens into Starbase worker's death](https://www.scientificamerican.com/article/spacex-punts-starship-v3-launch-to-may-21-as-investigation-opens-into-starbase-worker-death/)
+* [2026-05-20, 19:38:25](https://news.ycombinator.com/item?id=48212992) - [Not alive, but not dead: disembodied human brains used for drug testing](https://www.science.org/content/article/not-alive-not-dead-disembodied-human-brains-used-drug-testing)
 * [2026-05-20, 19:05:30](https://news.ycombinator.com/item?id=48212493) - [An OpenAI model has disproved a central conjecture in discrete geometry](https://openai.com/index/model-disproves-discrete-geometry-conjecture/)
 * [2026-05-20, 18:50:59](https://news.ycombinator.com/item?id=48212279) - [Tracking Starbucks' 'widely recyclable' cups: none ended up at recycling](https://www.beyondplastics.org/press-releases/starbucks-cups-recyclable-report)
 * [2026-05-20, 18:48:30](https://news.ycombinator.com/item?id=48212242) - [Node.js 26.0.0 (Now with Temporal)](https://nodejs.org/en/blog/release/v26.0.0)
@@ -12,6 +16,7 @@
 * [2026-05-20, 17:30:15](https://news.ycombinator.com/item?id=48211134) - [Why is Inkwell stuck in review](https://www.manton.org/2026/05/19/why-is-inkwell-stuck-in.html)
 * [2026-05-20, 16:56:42](https://news.ycombinator.com/item?id=48210667) - [I Don't Vibe Code](https://jacobharr.is/personal/i-dont-vibe-code)
 * [2026-05-20, 16:55:17](https://news.ycombinator.com/item?id=48210644) - [After Town Bans Flock, Councilmember Crashes Out, Proposes Internet, Phone Ban](https://www.404media.co/after-town-bans-flock-councilmember-crashes-out-proposes-internet-and-phone-ban/)
+* [2026-05-20, 16:53:07](https://news.ycombinator.com/item?id=48210615) - [Show HN: Dari-docs – Optimize your docs using parallel coding agents](https://github.com/mupt-ai/dari-docs)
 * [2026-05-20, 16:50:54](https://news.ycombinator.com/item?id=48210590) - [Ask HN: Shouldn't Google need to give a public statement about Railway incident?](https://news.ycombinator.com/item?id=48210590)
 * [2026-05-20, 16:27:25](https://news.ycombinator.com/item?id=48210263) - [Apparently Google hates us now](https://twitter.com/pokemoncentral/status/2057123807404638250)
 * [2026-05-20, 16:24:42](https://news.ycombinator.com/item?id=48210226) - [OpenAI Is Preparing to File for an IPO Soon](https://www.wsj.com/tech/ai/openai-is-preparing-to-file-for-an-ipo-very-soon-0ec95af5)
