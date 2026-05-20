@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-05-20](index.md)
 
+* [2026-05-20, 19:05:30](https://news.ycombinator.com/item?id=48212493) - [An OpenAI model has disproved a central conjecture in discrete geometry](https://openai.com/index/model-disproves-discrete-geometry-conjecture/)
+* [2026-05-20, 18:50:59](https://news.ycombinator.com/item?id=48212279) - [Tracking Starbucks' 'widely recyclable' cups: none ended up at recycling](https://www.beyondplastics.org/press-releases/starbucks-cups-recyclable-report)
+* [2026-05-20, 18:48:30](https://news.ycombinator.com/item?id=48212242) - [Node.js 26.0.0 (Now with Temporal)](https://nodejs.org/en/blog/release/v26.0.0)
+* [2026-05-20, 18:33:56](https://news.ycombinator.com/item?id=48212046) - [Flipper One Tech Specs](https://docs.flipper.net/one/general/tech-specs)
+* [2026-05-20, 17:48:52](https://news.ycombinator.com/item?id=48211409) - [Qian Xuesen: The missile genius America lost and China gained (2025)](https://www.usni.org/magazines/naval-history/2025/december/missile-genius-america-lost-and-china-gained)
+* [2026-05-20, 17:30:15](https://news.ycombinator.com/item?id=48211134) - [Why is Inkwell stuck in review](https://www.manton.org/2026/05/19/why-is-inkwell-stuck-in.html)
 * [2026-05-20, 16:56:42](https://news.ycombinator.com/item?id=48210667) - [I Don't Vibe Code](https://jacobharr.is/personal/i-dont-vibe-code)
 * [2026-05-20, 16:55:17](https://news.ycombinator.com/item?id=48210644) - [After Town Bans Flock, Councilmember Crashes Out, Proposes Internet, Phone Ban](https://www.404media.co/after-town-bans-flock-councilmember-crashes-out-proposes-internet-and-phone-ban/)
 * [2026-05-20, 16:50:54](https://news.ycombinator.com/item?id=48210590) - [Ask HN: Shouldn't Google need to give a public statement about Railway incident?](https://news.ycombinator.com/item?id=48210590)
@@ -13,8 +19,10 @@
 * [2026-05-20, 15:39:48](https://news.ycombinator.com/item?id=48209558) - [SBCL: the ultimate assembly code breadboard (2014)](https://pvk.ca/Blog/2014/03/15/sbcl-the-ultimate-assembly-code-breadboard/)
 * [2026-05-20, 15:25:45](https://news.ycombinator.com/item?id=48209323) - [Formal Verification Gates for AI Coding Loops](https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/)
 * [2026-05-20, 15:10:05](https://news.ycombinator.com/item?id=48209105) - [Stable Audio 3](https://arxiv.org/abs/2605.17991)
+* [2026-05-20, 14:51:00](https://news.ycombinator.com/item?id=48208834) - [Show HN: Hocuspocus 4 – self-hosted Yjs collaboration backend](https://github.com/ueberdosis/hocuspocus)
 * [2026-05-20, 14:40:42](https://news.ycombinator.com/item?id=48208685) - [Testing distributed systems with AI agents](https://github.com/shenli/distributed-system-testing)
 * [2026-05-20, 14:30:47](https://news.ycombinator.com/item?id=48208502) - [Victory: Tennessee man jailed 37 days for Trump meme wins $835,000 settlement](https://www.fire.org/news/victory-tennessee-man-jailed-37-days-trump-meme-wins-835000-settlement-after-first-amendment)
+* [2026-05-20, 13:43:37](https://news.ycombinator.com/item?id=48207660) - [GitHub confirms breach of 3,800 repos via malicious VSCode extension](https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/)
 * [2026-05-20, 13:35:21](https://news.ycombinator.com/item?id=48207509) - [560-610 minutes of exercise a week needed for substantial heart benefits](https://bmjgroup.com/560-610-minutes-of-exercise-a-week-needed-for-substantial-heart-benefits/)
 * [2026-05-20, 13:19:36](https://news.ycombinator.com/item?id=48207251) - [America's Greatest Strategic Blunder: The Imprisonment of Qian Xuesen](https://danieltan.weblog.lol/2026/05/americas-greatest-strategic-blunder-the-imprisonment-of-qian-xuesen)
 * [2026-05-20, 13:02:30](https://news.ycombinator.com/item?id=48207004) - [Goodbye Visa and Mastercard: 130M Europeans switching to sovereign payment](https://www.lesnumeriques.com/banque-en-ligne/adieu-visa-et-mastercard-130-millions-d-europeens-basculent-vers-un-paiement-100-souverain-des-2026-n250918.html)

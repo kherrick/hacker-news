@@ -6,6 +6,7 @@
 
 * [2026-05-18, 23:18:10](https://news.ycombinator.com/item?id=48187201) - [Anthropic co-founder to present AI encyclical alongside Pope Leo XIV](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html)
 * [2026-05-18, 23:03:02](https://news.ycombinator.com/item?id=48187054) - [Click](https://clickclickclick.click/)
+* [2026-05-18, 22:33:47](https://news.ycombinator.com/item?id=48186730) - [LoRA and Weight Decay (2023)](https://irhum.github.io/blog/lorawd/)
 * [2026-05-18, 21:29:13](https://news.ycombinator.com/item?id=48185938) - [Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment](https://arxiv.org/abs/2601.10160)
 * [2026-05-18, 21:18:25](https://news.ycombinator.com/item?id=48185789) - [Who will buy your services if you fire us all?](https://carette.xyz/posts/who_will_buy_your_services/)
 * [2026-05-18, 20:30:58](https://news.ycombinator.com/item?id=48185188) - [No More JetBrains Products for Me](https://matthewkosarek.xyz/posts/jetbrains/)
@@ -34,6 +35,7 @@
 * [2026-05-18, 15:18:19](https://news.ycombinator.com/item?id=48181041) - [Garry Tan, the CEO of YC, accused me of unethical reporting](https://radleybalko.substack.com/p/truth-power-and-honest-journalism)
 * [2026-05-18, 15:05:04](https://news.ycombinator.com/item?id=48180881) - [What “Amazon Supply Chain Services” Tells Us About What Amazon Is](https://gadallon.substack.com/p/the-third-time-amazon-did-this-what)
 * [2026-05-18, 14:13:07](https://news.ycombinator.com/item?id=48180204) - [1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries](https://github.com/2b2tplace/1m_release)
+* [2026-05-18, 14:10:50](https://news.ycombinator.com/item?id=48180173) - [Sharla Boehm, the programmer whose code underpins the Internet](https://www.scientificamerican.com/article/the-programmer-whose-code-underpins-the-internet/)
 * [2026-05-18, 14:10:47](https://news.ycombinator.com/item?id=48180172) - [When Fast Fourier Transform Meets Transformer for Image Restoration](https://github.com/deng-ai-lab/SFHformer)
 * [2026-05-18, 14:04:26](https://news.ycombinator.com/item?id=48180091) - [Actually, democracy dies in H.R.](https://www.nytimes.com/2026/05/18/world/americas/actually-democracy-dies-in-hr.html)
 * [2026-05-18, 14:00:11](https://news.ycombinator.com/item?id=48180030) - [The Invention of Buses](https://worksinprogress.co/issue/the-invention-of-buses/)
