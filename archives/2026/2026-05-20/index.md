@@ -4,7 +4,17 @@
 
 ### [Archives](../../index.md) for [2026-05-20](index.md)
 
+* [2026-05-20, 13:35:21](https://news.ycombinator.com/item?id=48207509) - [560-610 minutes of exercise a week needed for substantial heart benefits](https://bmjgroup.com/560-610-minutes-of-exercise-a-week-needed-for-substantial-heart-benefits/)
+* [2026-05-20, 13:19:36](https://news.ycombinator.com/item?id=48207251) - [America's Greatest Strategic Blunder: The Imprisonment of Qian Xuesen](https://danieltan.weblog.lol/2026/05/americas-greatest-strategic-blunder-the-imprisonment-of-qian-xuesen)
+* [2026-05-20, 13:02:30](https://news.ycombinator.com/item?id=48207004) - [Goodbye Visa and Mastercard: 130M Europeans switching to sovereign payment](https://www.lesnumeriques.com/banque-en-ligne/adieu-visa-et-mastercard-130-millions-d-europeens-basculent-vers-un-paiement-100-souverain-des-2026-n250918.html)
+* [2026-05-20, 12:43:41](https://news.ycombinator.com/item?id=48206768) - [Meta blocks human rights accounts from reaching audiences in Arabia and the UAE](https://www.alqst.org/ar/posts/1190)
+* [2026-05-20, 12:30:58](https://news.ycombinator.com/item?id=48206640) - [Anna's Archive Hit with $19.5M Default Judgment and Global Domain Takedown Order](https://torrentfreak.com/annas-archive-hit-with-19-5m-default-judgment-and-global-domain-takedown-order/)
+* [2026-05-20, 12:01:56](https://news.ycombinator.com/item?id=48206340) - [Saying Goodbye to Asm.js](https://spidermonkey.dev/blog/2026/05/20/saying-goodbye-to-asmjs.html)
+* [2026-05-20, 11:51:32](https://news.ycombinator.com/item?id=48206241) - [College students drown out AI-praising commencement speeches with boos](https://www.tomshardware.com/tech-industry/artificial-intelligence/college-students-drown-out-ai-praising-commencement-speeches-with-boos-deal-with-it-one-speaker-fires-back-as-students-heckle-positive-pitches-for-ais-role)
+* [2026-05-20, 10:57:09](https://news.ycombinator.com/item?id=48205782) - [Google's AI is being manipulated. The search giant is quietly fighting back](https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results)
 * [2026-05-20, 10:47:20](https://news.ycombinator.com/item?id=48205699) - [Map of Metal](https://mapofmetal.com/)
+* [2026-05-20, 10:35:02](https://news.ycombinator.com/item?id=48205626) - [Qwen3.7-Max: The Agent Frontier](https://qwen.ai/blog?id=qwen3.7)
+* [2026-05-20, 10:28:05](https://news.ycombinator.com/item?id=48205580) - [No way to parse integers in C (2022)](https://blog.habets.se/2022/10/No-way-to-parse-integers-in-C.html)
 * [2026-05-20, 10:04:28](https://news.ycombinator.com/item?id=48205415) - [Learnings from 100K lines of Rust with AI (2025)](https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html)
 * [2026-05-20, 09:09:40](https://news.ycombinator.com/item?id=48205026) - [The weird, wild story of humanity's obsession with gold](https://www.economist.com/culture/2026/05/14/the-weird-wild-story-of-humanitys-obsession-with-gold)
 * [2026-05-20, 06:07:22](https://news.ycombinator.com/item?id=48203698) - [Everything in C is undefined behavior](https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html)
