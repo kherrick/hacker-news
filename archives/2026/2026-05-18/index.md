@@ -35,6 +35,7 @@
 * [2026-05-18, 15:05:04](https://news.ycombinator.com/item?id=48180881) - [What “Amazon Supply Chain Services” Tells Us About What Amazon Is](https://gadallon.substack.com/p/the-third-time-amazon-did-this-what)
 * [2026-05-18, 14:13:07](https://news.ycombinator.com/item?id=48180204) - [1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries](https://github.com/2b2tplace/1m_release)
 * [2026-05-18, 14:04:26](https://news.ycombinator.com/item?id=48180091) - [Actually, democracy dies in H.R.](https://www.nytimes.com/2026/05/18/world/americas/actually-democracy-dies-in-hr.html)
+* [2026-05-18, 14:00:11](https://news.ycombinator.com/item?id=48180030) - [The Invention of Buses](https://worksinprogress.co/issue/the-invention-of-buses/)
 * [2026-05-18, 13:37:11](https://news.ycombinator.com/item?id=48179732) - [Project Glasswing: what Mythos showed us](https://blog.cloudflare.com/cyber-frontier-models/)
 * [2026-05-18, 13:33:33](https://news.ycombinator.com/item?id=48179677) - [Show HN: Files.md – Open-source alternative to Obsidian](https://github.com/zakirullin/files.md)
 * [2026-05-18, 13:26:34](https://news.ycombinator.com/item?id=48179569) - [Researchers Wanted Preschool Teachers to Wear Cameras to Train AI](https://www.404media.co/researchers-wanted-preschool-teachers-to-wear-cameras-to-train-ai/)

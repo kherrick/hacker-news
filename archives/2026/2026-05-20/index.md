@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-05-20](index.md)
 
+* [2026-05-20, 10:47:20](https://news.ycombinator.com/item?id=48205699) - [Map of Metal](https://mapofmetal.com/)
+* [2026-05-20, 10:04:28](https://news.ycombinator.com/item?id=48205415) - [Learnings from 100K lines of Rust with AI (2025)](https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html)
+* [2026-05-20, 09:09:40](https://news.ycombinator.com/item?id=48205026) - [The weird, wild story of humanity's obsession with gold](https://www.economist.com/culture/2026/05/14/the-weird-wild-story-of-humanitys-obsession-with-gold)
 * [2026-05-20, 06:07:22](https://news.ycombinator.com/item?id=48203698) - [Everything in C is undefined behavior](https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html)
 * [2026-05-20, 05:43:51](https://news.ycombinator.com/item?id=48203536) - [Infomaniak transitions to a foundation model to protect user data privacy](https://news.infomaniak.com/en/infomaniak-foundation-sovereign-cloud/)
 * [2026-05-20, 05:33:06](https://news.ycombinator.com/item?id=48203484) - [There's no earthly way of knowing which direction we are going](https://kottke.org/26/05/theres-no-earthly-way-of-knowing-which-direction-we-are-going)
@@ -14,4 +17,5 @@
 * [2026-05-20, 01:43:06](https://news.ycombinator.com/item?id=48202047) - [Japan is gripped by mass allergies. A 1950s project is to blame](https://www.bbc.com/future/article/20260515-the-1950s-blunder-which-causes-mass-hay-fever-in-japan)
 * [2026-05-20, 01:34:19](https://news.ycombinator.com/item?id=48201973) - [FiveThirtyEight articles on the Internet Archive](https://fivethirtyeightindex.com/)
 * [2026-05-20, 00:23:54](https://news.ycombinator.com/item?id=48201484) - [Railway Blocked by Google Cloud](https://status.railway.com/?date=20260519)
+* [2026-05-20, 00:23:54](https://news.ycombinator.com/item?id=48201484) - [Incident Report: Railway Blocked by Google Cloud (Resolved)](https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage)
 * [2026-05-20, 00:01:18](https://news.ycombinator.com/item?id=48201316) - [GitHub is investigating unauthorized access to their internal repositories](https://twitter.com/github/status/2056884788179726685)
