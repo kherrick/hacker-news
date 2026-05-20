@@ -15,6 +15,7 @@
 * [2026-05-19, 18:40:19](https://news.ycombinator.com/item?id=48197445) - [The TTY Demystified (2008)](https://www.linusakesson.net/programming/tty/index.php)
 * [2026-05-19, 18:34:27](https://news.ycombinator.com/item?id=48197370) - [A new era for AI Search](https://blog.google/products-and-platforms/products/search/search-io-2026/)
 * [2026-05-19, 18:04:58](https://news.ycombinator.com/item?id=48196897) - [Deciphering the Hashihara Castle Town Map](https://www.obayashi.co.jp/en/kikan_obayashi/detail/kikan_64_project.html)
+* [2026-05-19, 18:03:10](https://news.ycombinator.com/item?id=48196867) - [Gemini CLI will stop working from June 18, 2026](https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/)
 * [2026-05-19, 17:46:19](https://news.ycombinator.com/item?id=48196609) - [Gemini Omni](https://deepmind.google/models/gemini-omni/)
 * [2026-05-19, 17:43:45](https://news.ycombinator.com/item?id=48196570) - [Gemini 3.5 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/)
 * [2026-05-19, 17:22:45](https://news.ycombinator.com/item?id=48196303) - [AI, \"Humanity\", and Dr. Manhattan Syndrome: A Communications Intervention](https://www.personfamiliar.com/p/ai-humanity-and-dr-manhattan-syndrome)
