@@ -43,6 +43,7 @@
 * [2026-05-18, 13:33:33](https://news.ycombinator.com/item?id=48179677) - [Show HN: Files.md – Open-source alternative to Obsidian](https://github.com/zakirullin/files.md)
 * [2026-05-18, 13:26:34](https://news.ycombinator.com/item?id=48179569) - [Researchers Wanted Preschool Teachers to Wear Cameras to Train AI](https://www.404media.co/researchers-wanted-preschool-teachers-to-wear-cameras-to-train-ai/)
 * [2026-05-18, 13:24:40](https://news.ycombinator.com/item?id=48179531) - [RISC-V and Floating-Point](https://fprox.substack.com/p/risc-v-and-floating-point)
+* [2026-05-18, 13:15:10](https://news.ycombinator.com/item?id=48179392) - [The OEIS meta sequence and subway stations](https://www.jeremykun.com/shortform/2026-04-09-0556/)
 * [2026-05-18, 13:12:29](https://news.ycombinator.com/item?id=48179348) - [Simulated Evolution on the PICO-8](https://bumbershootsoft.wordpress.com/2026/05/16/simulated-evolution-on-the-pico-8/)
 * [2026-05-18, 13:01:18](https://news.ycombinator.com/item?id=48179183) - ['We mould trees to grow into the shape of chairs'](https://www.bbc.co.uk/news/articles/cvg0yy3gp71o)
 * [2026-05-18, 13:00:24](https://news.ycombinator.com/item?id=48179172) - [Unusual uses of OEIS sequences on GitHub](https://www.jeremykun.com/shortform/2026-04-13-0700/)
