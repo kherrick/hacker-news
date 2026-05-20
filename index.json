@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-05-20, 05:07:23",
-      "https://news.ycombinator.com/item?id=48203333"
+      "2026-05-20, 06:07:22",
+      "https://news.ycombinator.com/item?id=48203698"
     ],
     [
-      "India's hottest district shuts at 10 am as mercury breaches 48 C mark",
-      "https://www.hindustantimes.com/india-news/indias-hottest-district-banda-shuts-at-10-am-as-mercury-breaches-48-degrees-celsius-mark-101779240653594.html"
+      "Everything in C is undefined behavior",
+      "https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-20, 05:43:51",
+      "https://news.ycombinator.com/item?id=48203536"
+    ],
+    [
+      "Infomaniak transitions to a foundation model to protect user data privacy",
+      "https://news.infomaniak.com/en/infomaniak-foundation-sovereign-cloud/"
+    ]
+  ],
+  [
+    [
+      "2026-05-20, 05:33:06",
+      "https://news.ycombinator.com/item?id=48203484"
+    ],
+    [
+      "There's no earthly way of knowing which direction we are going",
+      "https://kottke.org/26/05/theres-no-earthly-way-of-knowing-which-direction-we-are-going"
     ]
   ],
   [
@@ -21,22 +41,12 @@
   ],
   [
     [
-      "2026-05-20, 04:12:48",
-      "https://news.ycombinator.com/item?id=48202993"
+      "2026-05-20, 01:43:06",
+      "https://news.ycombinator.com/item?id=48202047"
     ],
     [
-      "GitHub Compromised",
-      "https://twitter.com/i/status/2056949168208552080"
-    ]
-  ],
-  [
-    [
-      "2026-05-20, 03:10:30",
-      "https://news.ycombinator.com/item?id=48202658"
-    ],
-    [
-      "Evals will break",
-      "https://wanglun1996.github.io/blog/your-evals-will-break.html"
+      "Japan is gripped by mass allergies. A 1950s project is to blame",
+      "https://www.bbc.com/future/article/20260515-the-1950s-blunder-which-causes-mass-hay-fever-in-japan"
     ]
   ],
   [
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2026-05-19, 18:56:25",
-      "https://news.ycombinator.com/item?id=48197703"
-    ],
-    [
-      "Disney erased FiveThirtyEight",
-      "https://www.natesilver.net/p/disney-erased-fivethirtyeight"
-    ]
-  ],
-  [
-    [
       "2026-05-19, 18:34:27",
       "https://news.ycombinator.com/item?id=48197370"
     ],
@@ -161,22 +161,22 @@
   ],
   [
     [
+      "2026-05-19, 17:25:33",
+      "https://news.ycombinator.com/item?id=48196337"
+    ],
+    [
+      "CopyFail: From Pod to Host",
+      "https://xint.io/blog/copy-fail-pod-to-host"
+    ]
+  ],
+  [
+    [
       "2026-05-19, 15:53:38",
       "https://news.ycombinator.com/item?id=48195009"
     ],
     [
       "I’ve built a virtual museum with nearly every operating system you can think of",
       "https://virtualosmuseum.org/"
-    ]
-  ],
-  [
-    [
-      "2026-05-19, 15:27:53",
-      "https://news.ycombinator.com/item?id=48194614"
-    ],
-    [
-      "Copy Fail, Dirty Frag, and Fragnesia kernel vulnerabilities",
-      "https://www.gentoo.org/news/2026/05/19/copy-fail-fragnesia-vulnerabilities.html"
     ]
   ],
   [
@@ -231,6 +231,26 @@
   ],
   [
     [
+      "2026-05-18, 13:24:40",
+      "https://news.ycombinator.com/item?id=48179531"
+    ],
+    [
+      "RISC-V and Floating-Point",
+      "https://fprox.substack.com/p/risc-v-and-floating-point"
+    ]
+  ],
+  [
+    [
+      "2026-05-18, 13:12:29",
+      "https://news.ycombinator.com/item?id=48179348"
+    ],
+    [
+      "Simulated Evolution on the PICO-8",
+      "https://bumbershootsoft.wordpress.com/2026/05/16/simulated-evolution-on-the-pico-8/"
+    ]
+  ],
+  [
+    [
       "2026-05-18, 11:51:50",
       "https://news.ycombinator.com/item?id=48178390"
     ],
@@ -251,26 +271,6 @@
   ],
   [
     [
-      "2026-05-18, 05:01:19",
-      "https://news.ycombinator.com/item?id=48175748"
-    ],
-    [
-      "The two oldest printing presses",
-      "https://museumplantinmoretus.be/en/worlds-two-oldest-printing-presses"
-    ]
-  ],
-  [
-    [
-      "2026-05-18, 00:45:52",
-      "https://news.ycombinator.com/item?id=48174516"
-    ],
-    [
-      "Museum of Imaginary Musical Instruments",
-      "https://imaginaryinstruments.org/"
-    ]
-  ],
-  [
-    [
       "2026-05-17, 19:21:09",
       "https://news.ycombinator.com/item?id=48172320"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2026-05-17, 17:14:25",
+      "https://news.ycombinator.com/item?id=48170855"
+    ],
+    [
+      "Nostalgic Kits Central (2024)",
+      "https://www.nostalgickitscentral.com/"
+    ]
+  ],
+  [
+    [
       "2026-05-17, 16:00:48",
       "https://news.ycombinator.com/item?id=48170096"
     ],
     [
       "In 1979 engineer Hugh Padgham discovered \"gated reverb\" – by accident",
       "https://producelikeapro.com/blog/how-one-recording-mistake-created-a-musical-phenomenon-in-the-80s/"
-    ]
-  ],
-  [
-    [
-      "2026-05-17, 15:22:10",
-      "https://news.ycombinator.com/item?id=48169736"
-    ],
-    [
-      "Tool mapping 90 companies in the photonics and CPO supply chain",
-      "https://leonardo-boquillon.com/photonic-cop-supply-chain"
     ]
   ]
 ]
