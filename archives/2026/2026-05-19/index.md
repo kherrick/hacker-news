@@ -40,6 +40,7 @@
 * [2026-05-19, 11:16:56](https://news.ycombinator.com/item?id=48191852) - [Show HN: Id-agent – Token efficient UUID alternative for AI agents](https://github.com/vostride/id-agent)
 * [2026-05-19, 10:38:47](https://news.ycombinator.com/item?id=48191602) - [Gaussian Splat of a Strawberry](https://superspl.at/scene/84df8849)
 * [2026-05-19, 10:33:35](https://news.ycombinator.com/item?id=48191572) - [All the bugs they found](https://andreapivetta.com/posts/all-the-bugs-they-found.html)
+* [2026-05-19, 09:32:58](https://news.ycombinator.com/item?id=48191192) - [Bournegol???](https://oldhome.schmorp.de/marc/bournegol.html)
 * [2026-05-19, 07:45:53](https://news.ycombinator.com/item?id=48190454) - [CISA Admin Leaked AWS GovCloud Keys on GitHub](https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/)
 * [2026-05-19, 07:32:56](https://news.ycombinator.com/item?id=48190373) - [Mounting Git commits as folders with NFS](https://jvns.ca/blog/2023/12/04/mounting-git-commits-as-folders-with-nfs/)
 * [2026-05-19, 07:28:59](https://news.ycombinator.com/item?id=48190348) - [My domain got abused on GitHub Pages](https://meertens.dev/blog/github-enables-domain-abuse/)

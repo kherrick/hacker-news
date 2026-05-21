@@ -13,6 +13,7 @@
 * [2026-05-18, 20:15:17](https://news.ycombinator.com/item?id=48184941) - [Skills in Web, iOS, and Android](https://x.ai/news/grok-skills)
 * [2026-05-18, 19:51:19](https://news.ycombinator.com/item?id=48184652) - [Recreate famous water profiles using supermarket bottled water](https://www.waterdictionary.net)
 * [2026-05-18, 19:50:09](https://news.ycombinator.com/item?id=48184635) - [Shutterstock to pay $35M over hard-to-cancel subscriptions](https://www.ftc.gov/news-events/news/press-releases/2026/05/shutterstock-pay-35-million-settle-ftc-allegations-over-illegal-subscription-cancellation-practices)
+* [2026-05-18, 19:33:03](https://news.ycombinator.com/item?id=48184402) - [Was my $48K GPU server worth it?](https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/)
 * [2026-05-18, 19:28:59](https://news.ycombinator.com/item?id=48184350) - [The FBI Wants to Buy Nationwide Access to License Plate Readers](https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-readers/)
 * [2026-05-18, 19:27:25](https://news.ycombinator.com/item?id=48184322) - [Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp](https://hyperpolyglot.org/lisp)
 * [2026-05-18, 19:20:33](https://news.ycombinator.com/item?id=48184214) - [Show HN: We missed Winamp, so we built an audio player for macOS](https://www.advanced-research.net/180db)
