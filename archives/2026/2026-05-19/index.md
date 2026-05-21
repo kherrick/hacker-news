@@ -41,6 +41,8 @@
 * [2026-05-19, 10:33:35](https://news.ycombinator.com/item?id=48191572) - [All the bugs they found](https://andreapivetta.com/posts/all-the-bugs-they-found.html)
 * [2026-05-19, 07:45:53](https://news.ycombinator.com/item?id=48190454) - [CISA Admin Leaked AWS GovCloud Keys on GitHub](https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/)
 * [2026-05-19, 07:28:59](https://news.ycombinator.com/item?id=48190348) - [My domain got abused on GitHub Pages](https://meertens.dev/blog/github-enables-domain-abuse/)
+* [2026-05-19, 06:54:20](https://news.ycombinator.com/item?id=48190121) - [Show HN: The Hanging Sculptures of the Xiaoxitian](https://funes.world/apps/the-hanging-sculptures-of-the-xiaoxitian)
+* [2026-05-19, 05:28:30](https://news.ycombinator.com/item?id=48189539) - [Fender escalates legal campaign against S-style guitars](https://www.guitarworld.com/gear/electric-guitars/fender-cease-and-desist-lsl-instruments)
 * [2026-05-19, 05:04:49](https://news.ycombinator.com/item?id=48189368) - [Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised](https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/)
 * [2026-05-19, 04:29:39](https://news.ycombinator.com/item?id=48189178) - [PyTorch Landscape](https://pytorch.landscape2.io)
 * [2026-05-19, 04:24:45](https://news.ycombinator.com/item?id=48189156) - [Codex-Maxxing](https://jxnl.co/writing/2026/05/10/codex-maxxing/)

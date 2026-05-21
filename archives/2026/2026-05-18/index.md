@@ -35,6 +35,7 @@
 * [2026-05-18, 17:01:21](https://news.ycombinator.com/item?id=48182281) - [Anthropic Acquires Stainless](https://www.anthropic.com/news/anthropic-acquires-stainless)
 * [2026-05-18, 16:24:11](https://news.ycombinator.com/item?id=48181877) - [Qwen 3.7 Preview](https://twitter.com/Alibaba_Qwen/status/2056403591464984753)
 * [2026-05-18, 15:40:42](https://news.ycombinator.com/item?id=48181342) - [Show HN: InsForge – Open-source Heroku for coding agents](https://github.com/InsForge/InsForge)
+* [2026-05-18, 15:24:34](https://news.ycombinator.com/item?id=48181132) - [The Interview That Ships to Production: replacing whiteboards with pull requests](https://www.angellist.com/blog/the-interview-that-ships-to-production)
 * [2026-05-18, 15:24:19](https://news.ycombinator.com/item?id=48181125) - [We stopped AI bot spam in our GitHub repo using Git's –author flag](https://archestra.ai/blog/only-responsible-ai)
 * [2026-05-18, 15:18:19](https://news.ycombinator.com/item?id=48181041) - [Garry Tan, the CEO of YC, accused me of unethical reporting](https://radleybalko.substack.com/p/truth-power-and-honest-journalism)
 * [2026-05-18, 15:08:21](https://news.ycombinator.com/item?id=48180924) - [Show HN: I made a tactical map-based WWII submarine simulator (public beta)](https://silentshark.app/alpha/)
