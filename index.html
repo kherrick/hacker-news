@@ -129,6 +129,296 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="48225852">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=48225852"
+              >ParadeDB (YC S23) Is Hiring Distributed Systems/Platform
+              Engineers</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-05-21 @ 17:00:52</span
+              ><span class="points-container"
+                >Points: <span class="points">1</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Up until now, we've focused exclusively on our core database and
+                haven't built any managed service to deliver it. This is
+                changing, and we're looking for a seasoned distributed
+                systems/platform engineer to help us build it. The ideal
+                candidate has experience with Kubernetes, Go, and Postgres.
+              </p>
+              <p>
+                We're a Series A company of 10 people distributed across the US.
+                Our project is open-source at
+                <a href="https://github.com/paradedb/paradedb"
+                  >https://github.com/paradedb/paradedb</a
+                >
+              </p>
+              <p>
+                More details:
+                <a href="https://paradedb.notion.site/"
+                  >https://paradedb.notion.site/</a
+                >
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="48225489">
+          <h3>
+            <a
+              class="item"
+              href="https://www.theguardian.com/uk-news/2026/may/21/london-mayor-sadiq-khan-blocks-met-police-deal-with-palantir"
+              >London Mayor Blocks Palantir</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-05-21 @ 16:35:01</span
+              ><span class="points-container"
+                >Points: <span class="points">155</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48225489"
+                  >Comments</a
+                ><span class="descendants">: 44</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48225426">
+          <h3>
+            <a
+              class="item"
+              href="https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/"
+              >Waymo pauses Atlanta service as its robotaxis keep driving into
+              floods</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-05-21 @ 16:30:47</span
+              ><span class="points-container"
+                >Points: <span class="points">133</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48225426"
+                  >Comments</a
+                ><span class="descendants">: 165</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48225297">
+          <h3>
+            <a class="item" href="https://valhovey.github.io/gaia-mary/"
+              >Project Hail Mary – Stellar Navigation Chart</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-05-21 @ 16:23:11</span
+              ><span class="points-container"
+                >Points: <span class="points">185</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48225297"
+                  >Comments</a
+                ><span class="descendants">: 52</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48225040">
+          <h3>
+            <a class="item" href="https://www.runtm.com/"
+              >Launch HN: Runtime (YC P26) – Sandboxed coding agents for
+              everyone on a team</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-05-21 @ 16:07:13</span
+              ><span class="points-container"
+                >Points: <span class="points">35</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48225040"
+                  >Comments</a
+                ><span class="descendants">: 11</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://runtm.com">https://runtm.com</a>). We're building
+              infra that lets your whole team (including non-engineers) ship
+              with Claude Code, Codex, and other agents without engineering
+              having to handhold every session.
+              <p>
+                After Mentum (YC S21) was acquired, I personally shipped 4
+                full-stack products in 3 months using coding agents. When I
+                tried to roll the same workflow out to the rest of the team, it
+                fell apart: Most PRs were unmergeable slop - Every repo required
+                an engineer doing one-off local setup. - Skills and context
+                lived in one person's head. - There was no safe way for a PM to
+                touch a real codebase without risking a bad deploy or a secrets
+                leak.
+              </p>
+              <p>
+                Carlos comes from building agentic reconciliation systems at
+                Modern Treasury and had a similar experience when letting his
+                support team use devin.
+              </p>
+              <p>
+                We ended up building internal background agent infra but it
+                quickly became a nightmare to mantain and develop. We built
+                Runtime so you don't have to do this kind of thing.
+              </p>
+              <p>
+                Runtime work like as follows. Engineering defines the context
+                once: system instructions, skills, and scoped integrations
+                installable via CLI, mise, npm, or any package manager. Then
+                Runtime snapshots your full running environment including
+                multi-service Docker Compose setups, Kafka, Redis, seeded DBs,
+                so it comes up in milliseconds with every server already
+                running.
+              </p>
+              <p>
+                We orchestrate across sandbox providers like E2B, Daytona, EC2
+                or self-hosted K8s depending on your setup. Secrets are injected
+                through our managed proxy so they never touch the agent
+                directly, and guardrails run at the infrastructure level:
+                command allow/deny lists, network egress controls, and RBAC
+                scoped per human and per agent. Every session also gets a
+                shareable preview URL, so internal builds go from sandbox to the
+                rest of the team without needing production access.
+              </p>
+              <p>
+                Runtime works with whichever agent your team already uses:
+                Claude Code, Codex, Cursor, Copilot, Gemini, Devin. You can
+                trigger sandboxes from our web app, CLI, Slack, Linear, GitHub,
+                or API.
+              </p>
+              <p>
+                One of our customers built an on-call inspector that wires
+                PagerDuty, Sentry, and their repo so when an alert fires, the
+                agent finds the cause and opens a PR with a unit test before
+                anyone gets paged. Another runs a finance agent in a private
+                Slack channel pulling from Stripe, NetSuite, and Snowflake to
+                run reconciliations in minutes with source rows attached.
+              </p>
+              <p>
+                A fintech unicorn and several YC scaleups are live on Runtime,
+                including a few teams who had built similar infrastructure
+                internally and handed it to us to take over.
+              </p>
+              <p>
+                The core is open source at
+                <a href="https://github.com/runtm-ai/runtm"
+                  >https://github.com/runtm-ai/runtm</a
+                >. Hosted version is live at
+                <a href="https://app.runtm.com">https://app.runtm.com</a>, free
+                tier included. We're charging a flat platform fee plus compute,
+                no token markup.
+              </p>
+              <p>
+                Check our demo:
+                <a href="https://www.youtube.com/watch?v=wLwj__aEEh4"
+                  >https://www.youtube.com/watch?v=wLwj__aEEh4</a
+                >
+              </p>
+              <p>
+                We'd love to hear how you're thinking about the infra for
+                letting more people across your org use coding agents without
+                creating chaos!
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="48223693">
+          <h3>
+            <a
+              class="item"
+              href="https://rivet.dev/blog/2026-02-04-we-reverse-engineered-docker-sandbox-undocumented-microvm-api/"
+              >We Reverse-Engineered Docker Sandbox's Undocumented MicroVM
+              API</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-05-21 @ 14:50:34</span
+              ><span class="points-container"
+                >Points: <span class="points">49</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48223693"
+                  >Comments</a
+                ><span class="descendants">: 6</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48223303">
+          <h3>
+            <a
+              class="item"
+              href="https://www.bigfinish.com/news/v/michael-keating-1947-2026"
+              >Michael Keating has died</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-05-21 @ 14:31:33</span
+              ><span class="points-container"
+                >Points: <span class="points">74</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48223303"
+                  >Comments</a
+                ><span class="descendants">: 34</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48223258">
+          <h3>
+            <a
+              class="item"
+              href="https://www.osnews.com/story/145029/get-your-passwords-out-of-bitwarden-while-you-still-can/"
+              >Get your passwords out of Bitwarden while you still can</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-05-21 @ 14:29:14</span
+              ><span class="points-container"
+                >Points: <span class="points">189</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48223258"
+                  >Comments</a
+                ><span class="descendants">: 151</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48222733">
+          <h3>
+            <a
+              class="item"
+              href="https://blog.simbastack.com/indexed-a-year-of-video-locally/"
+              >Indexing a year of video locally on a 2021 MacBook with
+              Gemma4-31B (50GB swap)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-05-21 @ 14:01:37</span
+              ><span class="points-container"
+                >Points: <span class="points">175</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48222733"
+                  >Comments</a
+                ><span class="descendants">: 60</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="48222529">
           <h3>
             <a
@@ -141,11 +431,11 @@
             <h4>
               <span>2026-05-21 @ 13:50:59</span
               ><span class="points-container"
-                >Points: <span class="points">297</span></span
+                >Points: <span class="points">389</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48222529"
                   >Comments</a
-                ><span class="descendants">: 152</span></span
+                ><span class="descendants">: 211</span></span
               >
             </h4>
           </section>
@@ -162,75 +452,11 @@
             <h4>
               <span>2026-05-21 @ 13:38:12</span
               ><span class="points-container"
-                >Points: <span class="points">581</span></span
+                >Points: <span class="points">685</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48222383"
                   >Comments</a
-                ><span class="descendants">: 451</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48222366">
-          <h3>
-            <a
-              class="item"
-              href="https://www.thehandbasket.co/p/hating-ai-is-good-actually"
-              >Hating AI Is Good</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-05-21 @ 13:36:06</span
-              ><span class="points-container"
-                >Points: <span class="points">306</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48222366"
-                  >Comments</a
-                ><span class="descendants">: 430</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48222241">
-          <h3>
-            <a
-              class="item"
-              href="https://www.theguardian.com/us-news/2026/may/20/how-much-companies-spend-fight-unions"
-              >US employers spend more than $1.5B a year to fight labor unions,
-              report finds</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-05-21 @ 13:25:41</span
-              ><span class="points-container"
-                >Points: <span class="points">188</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48222241"
-                  >Comments</a
-                ><span class="descendants">: 149</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48222105">
-          <h3>
-            <a
-              class="item"
-              href="https://fabiensanglard.net/mtg/fun//index.html"
-              >Magic the Gathering format: Fun 40</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-05-21 @ 13:13:36</span
-              ><span class="points-container"
-                >Points: <span class="points">51</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48222105"
-                  >Comments</a
-                ><span class="descendants">: 42</span></span
+                ><span class="descendants">: 566</span></span
               >
             </h4>
           </section>
@@ -248,13 +474,108 @@
             <h4>
               <span>2026-05-21 @ 12:58:18</span
               ><span class="points-container"
-                >Points: <span class="points">126</span></span
+                >Points: <span class="points">186</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48221915"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 59</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="48221896">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=48221896"
+              >Show HN: I Dedicated 4 Years to Mastering Offline Password
+              Cracking</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-05-21 @ 12:56:37</span
+              ><span class="points-container"
+                >Points: <span class="points">160</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48221896"
+                  >Comments</a
+                ><span class="descendants">: 24</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                I am Bojta Lepenye, and first of all, I want to thank the core
+                developers of Hashcat. In my experience, it is quite literally
+                the most capable tool available for offline password cracking
+                across a wide range of use cases.
+              </p>
+              <p>
+                I have spent the last 4 years (from age 14 to 18) extensively
+                working with Hashcat and the tools surrounding it, and I have
+                documented what I have learned throughout that time (since
+                January 18, 2022) in my first book. During that period, I also
+                had to continuously update and rewrite major sections as the
+                field evolved. One example was the introduction of GPU support
+                for Argon2 and other memory-hard password hashing algorithms,
+                which significantly changed some cracking workflows.
+              </p>
+              <p>
+                My passion for this book, or its “quick starter,” if you will,
+                came from an ethically conducted penetration test I performed
+                with full authorization at my school. This is something I am
+                both hesitant and quite proud to acknowledge.
+              </p>
+              <p>
+                At the beginning, I simply wrote down everything I had learned
+                from YouTube videos and online blogs. However, not long after
+                starting my project, I realized I practically knew nothing about
+                password security, and that small 10 to 15 pages I had written
+                would never be enough if someone was looking for a professional
+                guide to cracking passwords.
+              </p>
+              <p>
+                The other main driving force behind the book was the fact that
+                while researching online, browsing forums, reading academic
+                papers and white papers, watching videos, exploring blogs,
+                inspecting presentations, and examining infographics, I did not
+                find a single source that comprehensively covers and explains
+                everything one needs to understand about offline password
+                cracking. Literally. Not one.
+              </p>
+              <p>
+                Therefore, I continued my research and learned about password
+                hashing algorithms, the security properties of hash functions,
+                advanced hash cracking techniques, password analysis, attack
+                optimization, and much, much more.
+              </p>
+              <p>
+                From the very beginning, I wanted to share this knowledge with
+                the community because having access to a resource like this
+                would have helped me tremendously when I first started learning
+                password cracking.
+              </p>
+              <p>
+                I sincerely hope this work will be useful to both beginners and
+                experienced professionals alike, and I look forward to hearing
+                your thoughts and feedback.
+              </p>
+              <p>
+                I have also put together a little video to give you a little
+                sneak peek into it. It is on Google Drive. It is the official
+                domain, and you do not need to download anything. Here it is:
+                <a
+                  href="https://drive.google.com/file/d/13LeysSZO8Mx-LGKt8UQjUGBKOYH7MqiS/view?usp=sharing"
+                  >https://drive.google.com/file/d/13LeysSZO8Mx-LGKt8UQjUGBKOYH...</a
+                >
+              </p>
+              <p>
+                If you are interested, the book is now publicly available on
+                Amazon, and can be read for free with a Kindle Unlimited
+                subscription:
+                <a href="https://www.amazon.com/dp/B0GX36XRCD"
+                  >https://www.amazon.com/dp/B0GX36XRCD</a
+                >
+              </p>
+            </div>
           </section>
         </section>
         <section id="48221877">
@@ -270,11 +591,11 @@
             <h4>
               <span>2026-05-21 @ 12:55:16</span
               ><span class="points-container"
-                >Points: <span class="points">91</span></span
+                >Points: <span class="points">99</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48221877"
                   >Comments</a
-                ><span class="descendants">: 67</span></span
+                ><span class="descendants">: 91</span></span
               >
             </h4>
           </section>
@@ -289,28 +610,11 @@
             <h4>
               <span>2026-05-21 @ 12:15:02</span
               ><span class="points-container"
-                >Points: <span class="points">59</span></span
+                >Points: <span class="points">71</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48221415"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48221230">
-          <h3>
-            <a
-              class="item"
-              href="https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us"
-              >Cekura (YC F24) Is Hiring</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-05-21 @ 12:00:20</span
-              ><span class="points-container"
-                >Points: <span class="points">1</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
           </section>
@@ -327,11 +631,11 @@
             <h4>
               <span>2026-05-21 @ 11:10:11</span
               ><span class="points-container"
-                >Points: <span class="points">211</span></span
+                >Points: <span class="points">251</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48220696"
                   >Comments</a
-                ><span class="descendants">: 96</span></span
+                ><span class="descendants">: 121</span></span
               >
             </h4>
           </section>
@@ -348,11 +652,11 @@
             <h4>
               <span>2026-05-21 @ 11:03:38</span
               ><span class="points-container"
-                >Points: <span class="points">730</span></span
+                >Points: <span class="points">847</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48220647"
                   >Comments</a
-                ><span class="descendants">: 328</span></span
+                ><span class="descendants">: 369</span></span
               >
             </h4>
           </section>
@@ -369,11 +673,11 @@
             <h4>
               <span>2026-05-21 @ 11:02:26</span
               ><span class="points-container"
-                >Points: <span class="points">158</span></span
+                >Points: <span class="points">215</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48220639"
                   >Comments</a
-                ><span class="descendants">: 51</span></span
+                ><span class="descendants">: 65</span></span
               >
             </h4>
           </section>
@@ -390,11 +694,11 @@
             <h4>
               <span>2026-05-21 @ 10:39:48</span
               ><span class="points-container"
-                >Points: <span class="points">49</span></span
+                >Points: <span class="points">63</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48220446"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -404,19 +708,19 @@
             <a
               class="item"
               href="https://blog.google/products/ads-commerce/google-marketing-live-search-ads/"
-              >Google officially announces that ads will be included in AI Mode
-              search results</a
+              >We're testing new ad formats in Search and expanding our Direct
+              Offers pilot</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-05-21 @ 09:49:46</span
               ><span class="points-container"
-                >Points: <span class="points">459</span></span
+                >Points: <span class="points">498</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48220105"
                   >Comments</a
-                ><span class="descendants">: 390</span></span
+                ><span class="descendants">: 418</span></span
               >
             </h4>
           </section>
@@ -431,11 +735,11 @@
             <h4>
               <span>2026-05-21 @ 09:31:15</span
               ><span class="points-container"
-                >Points: <span class="points">291</span></span
+                >Points: <span class="points">370</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48219992"
                   >Comments</a
-                ><span class="descendants">: 176</span></span
+                ><span class="descendants">: 210</span></span
               >
             </h4>
           </section>
@@ -451,11 +755,11 @@
             <h4>
               <span>2026-05-21 @ 09:22:00</span
               ><span class="points-container"
-                >Points: <span class="points">141</span></span
+                >Points: <span class="points">150</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48219918"
                   >Comments</a
-                ><span class="descendants">: 68</span></span
+                ><span class="descendants">: 72</span></span
               >
             </h4>
             <div class="text">
@@ -474,23 +778,23 @@
             </div>
           </section>
         </section>
-        <section id="48216983">
+        <section id="48219060">
           <h3>
             <a
               class="item"
-              href="https://discourse.haskell.org/t/haskell-foundation-2026-update/14136"
-              >Haskell Foundation 2026 Update</a
+              href="https://vivaldi.com/blog/vivaldi-on-desktop-8-0/"
+              >Vivaldi 8.0</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-05-21 @ 02:13:23</span
+              <span>2026-05-21 @ 07:21:55</span
               ><span class="points-container"
-                >Points: <span class="points">166</span></span
+                >Points: <span class="points">272</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48216983"
+                ><a href="https://news.ycombinator.com/item?id=48219060"
                   >Comments</a
-                ><span class="descendants">: 58</span></span
+                ><span class="descendants">: 207</span></span
               >
             </h4>
           </section>
@@ -507,11 +811,11 @@
             <h4>
               <span>2026-05-20 @ 23:58:51</span
               ><span class="points-container"
-                >Points: <span class="points">248</span></span
+                >Points: <span class="points">258</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48216016"
                   >Comments</a
-                ><span class="descendants">: 43</span></span
+                ><span class="descendants">: 50</span></span
               >
             </h4>
           </section>
@@ -526,11 +830,11 @@
             <h4>
               <span>2026-05-20 @ 23:54:06</span
               ><span class="points-container"
-                >Points: <span class="points">376</span></span
+                >Points: <span class="points">393</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48215979"
                   >Comments</a
-                ><span class="descendants">: 93</span></span
+                ><span class="descendants">: 95</span></span
               >
             </h4>
             <div class="text">
@@ -559,48 +863,6 @@
             </div>
           </section>
         </section>
-        <section id="48215418">
-          <h3><a class="item" href="https://dos.zone/">DOS Zone</a></h3>
-          <section>
-            <h4>
-              <span>2026-05-20 @ 22:53:27</span
-              ><span class="points-container"
-                >Points: <span class="points">326</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48215418"
-                  >Comments</a
-                ><span class="descendants">: 73</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48214017">
-          <h3>
-            <a
-              class="item"
-              href="https://twitter.com/nottombrown/status/2057194829986300375"
-              >Anthropic is expanding to Colossus2. Will use GB200</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-05-20 @ 20:55:52</span
-              ><span class="points-container"
-                >Points: <span class="points">265</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48214017"
-                  >Comments</a
-                ><span class="descendants">: 308</span></span
-              >
-            </h4>
-            <div class="text">
-              <a
-                href="https://xcancel.com/nottombrown/status/2057194829986300375"
-                >https://xcancel.com/nottombrown/status/2057194829986300375</a
-              >
-            </div>
-          </section>
-        </section>
         <section id="48212493">
           <h3>
             <a
@@ -614,11 +876,11 @@
             <h4>
               <span>2026-05-20 @ 19:05:30</span
               ><span class="points-container"
-                >Points: <span class="points">1335</span></span
+                >Points: <span class="points">1356</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48212493"
                   >Comments</a
-                ><span class="descendants">: 967</span></span
+                ><span class="descendants">: 982</span></span
               >
             </h4>
             <div class="text">
@@ -643,131 +905,53 @@
             <h4>
               <span>2026-05-20 @ 18:33:56</span
               ><span class="points-container"
-                >Points: <span class="points">485</span></span
+                >Points: <span class="points">491</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48212046"
                   >Comments</a
-                ><span class="descendants">: 161</span></span
+                ><span class="descendants">: 165</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="48207660">
+        <section id="48199011">
           <h3>
             <a
               class="item"
-              href="https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/"
-              >GitHub confirms breach of 3,800 repos via malicious VSCode
-              extension</a
+              href="https://resobscura.substack.com/p/what-is-happening-to-publishing"
+              >What Is Happening to Publishing?</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-05-20 @ 13:43:37</span
+              <span>2026-05-19 @ 20:23:44</span
               ><span class="points-container"
-                >Points: <span class="points">988</span></span
+                >Points: <span class="points">47</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48207660"
+                ><a href="https://news.ycombinator.com/item?id=48199011"
                   >Comments</a
-                ><span class="descendants">: 434</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                <i
-                  >GitHub is investigating unauthorized access to their internal
-                  repositories</i
-                >
-                -
-                <a href="https://news.ycombinator.com/item?id=48201316"
-                  >https://news.ycombinator.com/item?id=48201316</a
-                >
-                - May 2026 (321 comments)
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="48191572">
-          <h3>
-            <a
-              class="item"
-              href="https://andreapivetta.com/posts/all-the-bugs-they-found.html"
-              >All the bugs they found</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-05-19 @ 10:33:35</span
-              ><span class="points-container"
-                >Points: <span class="points">73</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48191572"
-                  >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="48189539">
+        <section id="48190373">
           <h3>
             <a
               class="item"
-              href="https://www.guitarworld.com/gear/electric-guitars/fender-cease-and-desist-lsl-instruments"
-              >Fender escalates legal campaign against S-style guitars</a
+              href="https://jvns.ca/blog/2023/12/04/mounting-git-commits-as-folders-with-nfs/"
+              >Mounting Git commits as folders with NFS</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-05-19 @ 05:28:30</span
+              <span>2026-05-19 @ 07:32:56</span
               ><span class="points-container"
-                >Points: <span class="points">90</span></span
+                >Points: <span class="points">58</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48189539"
+                ><a href="https://news.ycombinator.com/item?id=48190373"
                   >Comments</a
-                ><span class="descendants">: 89</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48189233">
-          <h3>
-            <a
-              class="item"
-              href="https://theappendix.net/issues/2014/4/mug-shots-a-small-town-noir"
-              >Mug Shots: A Small Town Noir (2014)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-05-19 @ 04:39:31</span
-              ><span class="points-container"
-                >Points: <span class="points">11</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48189233"
-                  >Comments</a
-                ><span class="descendants">: 2</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48188302">
-          <h3>
-            <a
-              class="item"
-              href="https://developers.redhat.com/articles/2026/04/28/gcc-16-improved-error-messages-sarif-output"
-              >New features in GCC 16: Improved error messages and SARIF
-              output</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-05-19 @ 01:51:04</span
-              ><span class="points-container"
-                >Points: <span class="points">121</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48188302"
-                  >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 35</span></span
               >
             </h4>
           </section>
@@ -784,30 +968,11 @@
             <h4>
               <span>2026-05-18 @ 17:59:53</span
               ><span class="points-container"
-                >Points: <span class="points">88</span></span
+                >Points: <span class="points">112</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48183097"
                   >Comments</a
-                ><span class="descendants">: 38</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48174920">
-          <h3>
-            <a class="item" href="https://mikeveerman.github.io/tokenspeed/"
-              >How fast is N tokens per second really?</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-05-18 @ 02:04:38</span
-              ><span class="points-container"
-                >Points: <span class="points">468</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48174920"
-                  >Comments</a
-                ><span class="descendants">: 95</span></span
+                ><span class="descendants">: 49</span></span
               >
             </h4>
           </section>
