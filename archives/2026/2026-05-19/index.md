@@ -6,6 +6,7 @@
 
 * [2026-05-19, 23:49:03](https://news.ycombinator.com/item?id=48201222) - [HTML-in-Canvas Demos](https://github.com/GoogleChromeLabs/css-web-ui-demos/blob/main/html-in-canvas/awesome-html-in-canvas.md)
 * [2026-05-19, 22:30:31](https://news.ycombinator.com/item?id=48200569) - [Remove AI Watermarks](https://github.com/wiltodelta/remove-ai-watermarks)
+* [2026-05-19, 20:23:44](https://news.ycombinator.com/item?id=48199011) - [What Is Happening to Publishing?](https://resobscura.substack.com/p/what-is-happening-to-publishing)
 * [2026-05-19, 19:52:49](https://news.ycombinator.com/item?id=48198551) - [Tesla's lithium refinery discharges 231,000 gallons of polluted wastewater a day](https://www.autonocion.com/us/tesla-lithium-refinery-texas/)
 * [2026-05-19, 19:34:38](https://news.ycombinator.com/item?id=48198293) - [Era: From Nature publication to catalyzing Computational Discovery](https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/)
 * [2026-05-19, 19:34:30](https://news.ycombinator.com/item?id=48198291) - [OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool](https://openai.com/index/advancing-content-provenance/)
@@ -40,6 +41,7 @@
 * [2026-05-19, 10:38:47](https://news.ycombinator.com/item?id=48191602) - [Gaussian Splat of a Strawberry](https://superspl.at/scene/84df8849)
 * [2026-05-19, 10:33:35](https://news.ycombinator.com/item?id=48191572) - [All the bugs they found](https://andreapivetta.com/posts/all-the-bugs-they-found.html)
 * [2026-05-19, 07:45:53](https://news.ycombinator.com/item?id=48190454) - [CISA Admin Leaked AWS GovCloud Keys on GitHub](https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/)
+* [2026-05-19, 07:32:56](https://news.ycombinator.com/item?id=48190373) - [Mounting Git commits as folders with NFS](https://jvns.ca/blog/2023/12/04/mounting-git-commits-as-folders-with-nfs/)
 * [2026-05-19, 07:28:59](https://news.ycombinator.com/item?id=48190348) - [My domain got abused on GitHub Pages](https://meertens.dev/blog/github-enables-domain-abuse/)
 * [2026-05-19, 06:54:20](https://news.ycombinator.com/item?id=48190121) - [Show HN: The Hanging Sculptures of the Xiaoxitian](https://funes.world/apps/the-hanging-sculptures-of-the-xiaoxitian)
 * [2026-05-19, 05:28:30](https://news.ycombinator.com/item?id=48189539) - [Fender escalates legal campaign against S-style guitars](https://www.guitarworld.com/gear/electric-guitars/fender-cease-and-desist-lsl-instruments)
