@@ -25,6 +25,7 @@
 * [2026-05-18, 18:17:21](https://news.ycombinator.com/item?id=48183379) - [Haiku OS runs on M1 Macs now](https://www.osnews.com/story/144985/haiku-os-runs-on-m1-macs-now/)
 * [2026-05-18, 18:12:18](https://news.ycombinator.com/item?id=48183301) - [We let AIs run radio stations](https://andonlabs.com/blog/andon-fm)
 * [2026-05-18, 18:04:13](https://news.ycombinator.com/item?id=48183167) - [Your Most Improbable Life](https://kevinkelly.substack.com/p/your-most-improbable-life)
+* [2026-05-18, 17:59:53](https://news.ycombinator.com/item?id=48183097) - [What Do Gödel's Incompleteness Theorems Mean?](https://www.quantamagazine.org/what-do-godels-incompleteness-theorems-truly-mean-20260518/)
 * [2026-05-18, 17:56:26](https://news.ycombinator.com/item?id=48183038) - [Cutting inference cold starts by 40x with LP, FUSE, C/R, and CUDA-checkpoint](https://modal.com/blog/truly-serverless-gpus)
 * [2026-05-18, 17:45:02](https://news.ycombinator.com/item?id=48182872) - [Hanoi's humble beer glass and the memory of a nation](https://sundaylongread.com/2026/05/15/hanois-humble-beer-glass-and-the-memory-of-a-nation/)
 * [2026-05-18, 17:44:12](https://news.ycombinator.com/item?id=48182856) - [Show HN: Haystack – Review the PRs that need human attention](https://haystackeditor.com/)

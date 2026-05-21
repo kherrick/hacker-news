@@ -44,6 +44,7 @@
 * [2026-05-19, 06:54:20](https://news.ycombinator.com/item?id=48190121) - [Show HN: The Hanging Sculptures of the Xiaoxitian](https://funes.world/apps/the-hanging-sculptures-of-the-xiaoxitian)
 * [2026-05-19, 05:28:30](https://news.ycombinator.com/item?id=48189539) - [Fender escalates legal campaign against S-style guitars](https://www.guitarworld.com/gear/electric-guitars/fender-cease-and-desist-lsl-instruments)
 * [2026-05-19, 05:04:49](https://news.ycombinator.com/item?id=48189368) - [Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised](https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/)
+* [2026-05-19, 04:39:31](https://news.ycombinator.com/item?id=48189233) - [Mug Shots: A Small Town Noir (2014)](https://theappendix.net/issues/2014/4/mug-shots-a-small-town-noir)
 * [2026-05-19, 04:29:39](https://news.ycombinator.com/item?id=48189178) - [PyTorch Landscape](https://pytorch.landscape2.io)
 * [2026-05-19, 04:24:45](https://news.ycombinator.com/item?id=48189156) - [Codex-Maxxing](https://jxnl.co/writing/2026/05/10/codex-maxxing/)
 * [2026-05-19, 04:06:09](https://news.ycombinator.com/item?id=48189044) - [Show HN: Hsrs – Type-Safe Haskell Bindings Generator for Rust](https://github.com/harmont-dev/hsrs)
