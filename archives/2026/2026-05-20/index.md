@@ -13,6 +13,7 @@
 * [2026-05-20, 21:14:03](https://news.ycombinator.com/item?id=48214215) - [GitHub's take on age assurance for developers](https://github.blog/news-insights/policy-news-and-insights/why-age-assurance-laws-matter-for-developers/)
 * [2026-05-20, 21:11:55](https://news.ycombinator.com/item?id=48214188) - [PopuLoRA: Co-Evolving LLM Populations for Reasoning Self- Play](https://vmax.ai/team/populora-co-evolving-llm-populations-for-reasoning-self-play)
 * [2026-05-20, 20:55:52](https://news.ycombinator.com/item?id=48214017) - [Anthropic is expanding to Colossus2. Will use GB200](https://xcancel.com/nottombrown/status/2057194829986300375)
+* [2026-05-20, 20:55:52](https://news.ycombinator.com/item?id=48214017) - [Anthropic is expanding to Colossus2. Will use GB200](https://twitter.com/nottombrown/status/2057194829986300375)
 * [2026-05-20, 20:49:59](https://news.ycombinator.com/item?id=48213933) - [SpaceX S-1](https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm)
 * [2026-05-20, 20:28:18](https://news.ycombinator.com/item?id=48213651) - [Colorado Amended SB051 (Age Verification Bill) to Exclude Open Source Projects](https://legiscan.com/CO/bill/SB051/2026)
 * [2026-05-20, 20:21:14](https://news.ycombinator.com/item?id=48213550) - [SpaceX punts Starship launch as investigation opens into Starbase worker's death](https://www.scientificamerican.com/article/spacex-punts-starship-v3-launch-to-may-21-as-investigation-opens-into-starbase-worker-death/)
