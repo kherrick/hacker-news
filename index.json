@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-05-21, 11:10:11",
+      "https://news.ycombinator.com/item?id=48220696"
+    ],
+    [
+      "Python 3.15: features that didn't make the headlines",
+      "https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-21, 11:03:38",
+      "https://news.ycombinator.com/item?id=48220647"
+    ],
+    [
+      "Flipper One – we need your help",
+      "https://blog.flipper.net/flipper-one-we-need-your-help/"
+    ]
+  ],
+  [
+    [
+      "2026-05-21, 09:49:46",
+      "https://news.ycombinator.com/item?id=48220105"
+    ],
+    [
+      "Google officially announces that ads will be included in AI Mode search results",
+      "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/"
+    ]
+  ],
+  [
+    [
+      "2026-05-21, 09:31:15",
+      "https://news.ycombinator.com/item?id=48219992"
+    ],
+    [
+      "No Slop Grenade",
+      "https://noslopgrenade.com/"
+    ]
+  ],
+  [
+    [
+      "2026-05-21, 09:22:00",
+      "https://news.ycombinator.com/item?id=48219918"
+    ],
+    [
+      "Show HN: Rmux – A programmable terminal multiplexer with a Playwright-style SDK",
+      "https://github.com/helvesec/rmux"
+    ]
+  ],
+  [
+    [
       "2026-05-21, 08:01:53",
       "https://news.ycombinator.com/item?id=48219340"
     ],
@@ -21,16 +71,6 @@
   ],
   [
     [
-      "2026-05-21, 02:24:35",
-      "https://news.ycombinator.com/item?id=48217052"
-    ],
-    [
-      "OpenAI to confidentially file for IPO as soon as Friday",
-      "https://www.cnbc.com/2026/05/20/openai-ipo-filing.html"
-    ]
-  ],
-  [
-    [
       "2026-05-21, 02:13:23",
       "https://news.ycombinator.com/item?id=48216983"
     ],
@@ -41,12 +81,12 @@
   ],
   [
     [
-      "2026-05-21, 00:36:01",
-      "https://news.ycombinator.com/item?id=48216278"
+      "2026-05-21, 01:20:52",
+      "https://news.ycombinator.com/item?id=48216619"
     ],
     [
-      "Intuit to lay off over 3k employees to refocus on AI",
-      "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/"
+      "What is a Demand Coop",
+      "https://cahootzcoops.com/blog/what-is-a-demand-coop"
     ]
   ],
   [
@@ -81,32 +121,12 @@
   ],
   [
     [
-      "2026-05-20, 21:28:28",
-      "https://news.ycombinator.com/item?id=48214399"
-    ],
-    [
-      "Show HN: CPU-only transcription for YouTube, TikTok, X, Instagram videos",
-      "https://github.com/kouhxp/yapsnap"
-    ]
-  ],
-  [
-    [
       "2026-05-20, 20:55:52",
       "https://news.ycombinator.com/item?id=48214017"
     ],
     [
       "Anthropic is expanding to Colossus2. Will use GB200",
       "https://twitter.com/nottombrown/status/2057194829986300375"
-    ]
-  ],
-  [
-    [
-      "2026-05-20, 20:49:59",
-      "https://news.ycombinator.com/item?id=48213933"
-    ],
-    [
-      "SpaceX S-1",
-      "https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm"
     ]
   ],
   [
@@ -131,32 +151,12 @@
   ],
   [
     [
-      "2026-05-20, 17:48:52",
-      "https://news.ycombinator.com/item?id=48211409"
+      "2026-05-20, 16:24:42",
+      "https://news.ycombinator.com/item?id=48210226"
     ],
     [
-      "Qian Xuesen: The missile genius America lost and China gained (2025)",
-      "https://www.usni.org/magazines/naval-history/2025/december/missile-genius-america-lost-and-china-gained"
-    ]
-  ],
-  [
-    [
-      "2026-05-20, 17:30:15",
-      "https://news.ycombinator.com/item?id=48211134"
-    ],
-    [
-      "Why is Inkwell stuck in review",
-      "https://www.manton.org/2026/05/19/why-is-inkwell-stuck-in.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-20, 15:39:48",
-      "https://news.ycombinator.com/item?id=48209558"
-    ],
-    [
-      "SBCL: the ultimate assembly code breadboard (2014)",
-      "https://pvk.ca/Blog/2014/03/15/sbcl-the-ultimate-assembly-code-breadboard/"
+      "OpenAI Is Preparing to File for an IPO Soon",
+      "https://www.wsj.com/tech/ai/openai-is-preparing-to-file-for-an-ipo-very-soon-0ec95af5"
     ]
   ],
   [
@@ -181,42 +181,32 @@
   ],
   [
     [
-      "2026-05-20, 10:57:09",
-      "https://news.ycombinator.com/item?id=48205782"
-    ],
-    [
-      "Google’s AI is being manipulated. The search giant is quietly fighting back",
-      "https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results"
-    ]
-  ],
-  [
-    [
-      "2026-05-20, 10:04:28",
-      "https://news.ycombinator.com/item?id=48205415"
-    ],
-    [
-      "Learnings from 100K lines of Rust with AI (2025)",
-      "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-20, 08:37:55",
-      "https://news.ycombinator.com/item?id=48204770"
-    ],
-    [
-      "Incident Report: May 19, 2026 – GCP Account Suspension",
-      "https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage"
-    ]
-  ],
-  [
-    [
       "2026-05-19, 10:33:35",
       "https://news.ycombinator.com/item?id=48191572"
     ],
     [
       "All the bugs they found",
       "https://andreapivetta.com/posts/all-the-bugs-they-found.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-19, 06:54:20",
+      "https://news.ycombinator.com/item?id=48190121"
+    ],
+    [
+      "Show HN: The Hanging Sculptures of the Xiaoxitian",
+      "https://funes.world/apps/the-hanging-sculptures-of-the-xiaoxitian"
+    ]
+  ],
+  [
+    [
+      "2026-05-19, 05:28:30",
+      "https://news.ycombinator.com/item?id=48189539"
+    ],
+    [
+      "Fender escalates legal campaign against S-style guitars",
+      "https://www.guitarworld.com/gear/electric-guitars/fender-cease-and-desist-lsl-instruments"
     ]
   ],
   [
@@ -241,22 +231,32 @@
   ],
   [
     [
-      "2026-05-18, 18:38:05",
-      "https://news.ycombinator.com/item?id=48183678"
-    ],
-    [
-      "A Markdown-based test suite",
-      "https://blogsystem5.substack.com/p/markdown-based-test-suite"
-    ]
-  ],
-  [
-    [
       "2026-05-18, 18:29:43",
       "https://news.ycombinator.com/item?id=48183563"
     ],
     [
       "Simulating Infinity in Conway's Game of Life with Modern C++",
       "https://ryanjk5.github.io/posts/GOLDE/"
+    ]
+  ],
+  [
+    [
+      "2026-05-18, 18:04:13",
+      "https://news.ycombinator.com/item?id=48183167"
+    ],
+    [
+      "Your Most Improbable Life",
+      "https://kevinkelly.substack.com/p/your-most-improbable-life"
+    ]
+  ],
+  [
+    [
+      "2026-05-18, 15:24:34",
+      "https://news.ycombinator.com/item?id=48181132"
+    ],
+    [
+      "The Interview That Ships to Production: replacing whiteboards with pull requests",
+      "https://www.angellist.com/blog/the-interview-that-ships-to-production"
     ]
   ],
   [
