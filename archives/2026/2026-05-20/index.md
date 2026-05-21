@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-20](index.md)
 
+* [2026-05-20, 23:58:51](https://news.ycombinator.com/item?id=48216016) - [The Letter S, by Donald Knuth (1980) [pdf]](https://gwern.net/doc/design/typography/1980-knuth.pdf)
+* [2026-05-20, 23:54:06](https://news.ycombinator.com/item?id=48215979) - [Show HN: I reverse engineered Apple's video wallpapers](https://github.com/kageroumado/phosphene)
 * [2026-05-20, 22:53:27](https://news.ycombinator.com/item?id=48215418) - [DOS Zone](https://dos.zone/)
 * [2026-05-20, 21:41:54](https://news.ycombinator.com/item?id=48214558) - [Starship's Twelfth Flight Test](https://www.spacex.com/launches/starship-flight-12)
 * [2026-05-20, 21:33:18](https://news.ycombinator.com/item?id=48214449) - [Google Declaring War on the Web](https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/)
