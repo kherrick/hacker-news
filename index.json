@@ -1,12 +1,42 @@
 [
   [
     [
-      "2026-05-21, 18:29:35",
-      "https://news.ycombinator.com/item?id=48227068"
+      "2026-05-21, 20:31:04",
+      "https://news.ycombinator.com/item?id=48228491"
     ],
     [
-      "Serving Netflix Video Traffic at 400Gb/S and Beyond (2022) [pdf]",
-      "https://nabstreamingsummit.com/wp-content/uploads/2022/05/2022-Streaming-Summit-Netflix.pdf"
+      "There’s a real chance you will not have the same job by the end of 2027",
+      "https://www.elenaverna.com/p/youll-lose-your-job-in-2027"
+    ]
+  ],
+  [
+    [
+      "2026-05-21, 19:37:26",
+      "https://news.ycombinator.com/item?id=48227923"
+    ],
+    [
+      "Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O",
+      "https://arxiv.org/abs/2605.12460"
+    ]
+  ],
+  [
+    [
+      "2026-05-21, 19:32:16",
+      "https://news.ycombinator.com/item?id=48227860"
+    ],
+    [
+      "Using Kagi Search with Low Vision",
+      "https://veroniiiica.com/using-kagi-search-with-low-vision/"
+    ]
+  ],
+  [
+    [
+      "2026-05-21, 18:54:55",
+      "https://news.ycombinator.com/item?id=48227397"
+    ],
+    [
+      "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
+      "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/"
     ]
   ],
   [
@@ -35,7 +65,7 @@
       "https://news.ycombinator.com/item?id=48226588"
     ],
     [
-      "Amazon, Facebook, FBI have access to a private intelligence-sharing network",
+      "Seattle Shield, an intelligence-sharing network operated by the Seattle police",
       "https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/"
     ]
   ],
@@ -65,7 +95,7 @@
       "https://news.ycombinator.com/item?id=48225838"
     ],
     [
-      "More than 340 local news outlets are limiting the Internet Archive's access",
+      "News outlets are limiting the Internet Archive’s access to their journalism",
       "https://www.niemanlab.org/2026/05/more-than-340-local-news-outlets-are-limiting-the-internet-archives-access-to-their-journalism/"
     ]
   ],
@@ -131,22 +161,12 @@
   ],
   [
     [
-      "2026-05-21, 14:50:34",
-      "https://news.ycombinator.com/item?id=48223693"
+      "2026-05-21, 14:34:57",
+      "https://news.ycombinator.com/item?id=48223362"
     ],
     [
-      "We Reverse-Engineered Docker Sandbox's Undocumented MicroVM API",
-      "https://rivet.dev/blog/2026-02-04-we-reverse-engineered-docker-sandbox-undocumented-microvm-api/"
-    ]
-  ],
-  [
-    [
-      "2026-05-21, 14:31:33",
-      "https://news.ycombinator.com/item?id=48223303"
-    ],
-    [
-      "Michael Keating has died",
-      "https://www.bigfinish.com/news/v/michael-keating-1947-2026"
+      "Show HN: Freenet, a peer-to-peer platform for decentralized apps",
+      "https://freenet.org/"
     ]
   ],
   [
@@ -161,32 +181,22 @@
   ],
   [
     [
-      "2026-05-21, 13:13:36",
-      "https://news.ycombinator.com/item?id=48222105"
+      "2026-05-21, 13:50:59",
+      "https://news.ycombinator.com/item?id=48222529"
     ],
     [
-      "Magic the Gathering format: Fun 40",
-      "https://fabiensanglard.net/mtg/fun/"
+      "Google's Antigravity bait and switch",
+      "https://www.0xsid.com/blog/antigravity-bait-n-switch"
     ]
   ],
   [
     [
-      "2026-05-21, 12:56:37",
-      "https://news.ycombinator.com/item?id=48221896"
+      "2026-05-21, 12:55:16",
+      "https://news.ycombinator.com/item?id=48221877"
     ],
     [
-      "Show HN: I Dedicated 4 Years to Mastering Offline Password Cracking",
-      "https://news.ycombinator.com/item?id=48221896"
-    ]
-  ],
-  [
-    [
-      "2026-05-21, 12:15:02",
-      "https://news.ycombinator.com/item?id=48221415"
-    ],
-    [
-      "FatGid: FreeBSD 14.x kernel local privilege escalation",
-      "https://fatgid.io/"
+      "Who wins and who loses in prediction markets? Evidence from Polymarket",
+      "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6443103"
     ]
   ],
   [
@@ -231,12 +241,12 @@
   ],
   [
     [
-      "2026-05-21, 09:22:00",
-      "https://news.ycombinator.com/item?id=48219918"
+      "2026-05-21, 09:31:15",
+      "https://news.ycombinator.com/item?id=48219992"
     ],
     [
-      "Show HN: Rmux – A programmable terminal multiplexer with a Playwright-style SDK",
-      "https://github.com/helvesec/rmux"
+      "Stop throwing AI-generated walls of text into conversations",
+      "https://noslopgrenade.com/"
     ]
   ],
   [
@@ -251,21 +261,11 @@
   ],
   [
     [
-      "2026-05-19, 20:23:44",
-      "https://news.ycombinator.com/item?id=48199011"
-    ],
-    [
-      "What Is Happening to Publishing?",
-      "https://resobscura.substack.com/p/what-is-happening-to-publishing"
-    ]
-  ],
-  [
-    [
       "2026-05-19, 09:32:58",
       "https://news.ycombinator.com/item?id=48191192"
     ],
     [
-      "Bournegol???",
+      "Bournegol??? (2014)",
       "https://oldhome.schmorp.de/marc/bournegol.html"
     ]
   ],
@@ -275,8 +275,18 @@
       "https://news.ycombinator.com/item?id=48190373"
     ],
     [
-      "Mounting Git commits as folders with NFS",
+      "Mounting git commits as folders with NFS (2023)",
       "https://jvns.ca/blog/2023/12/04/mounting-git-commits-as-folders-with-nfs/"
+    ]
+  ],
+  [
+    [
+      "2026-05-19, 07:17:24",
+      "https://news.ycombinator.com/item?id=48190272"
+    ],
+    [
+      "Thoughts on People and Blogs",
+      "https://afranca.com.br/thoughts-on-people-and-blogs/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Was my $48K GPU server worth it?",
       "https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/"
-    ]
-  ],
-  [
-    [
-      "2026-05-18, 17:59:53",
-      "https://news.ycombinator.com/item?id=48183097"
-    ],
-    [
-      "What Do Gödel's Incompleteness Theorems Mean?",
-      "https://www.quantamagazine.org/what-do-godels-incompleteness-theorems-truly-mean-20260518/"
     ]
   ]
 ]
