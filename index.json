@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-05-21, 08:01:53",
+      "https://news.ycombinator.com/item?id=48219340"
+    ],
+    [
+      "Typewise (YC S22) Is Hiring an AI Growth Engineer (Zurich or Remote)",
+      "https://www.ycombinator.com/companies/typewise/jobs/HmCzfBK-ai-growth-engineer"
+    ]
+  ],
+  [
+    [
+      "2026-05-21, 07:21:55",
+      "https://news.ycombinator.com/item?id=48219060"
+    ],
+    [
+      "Vivaldi 8.0",
+      "https://vivaldi.com/blog/vivaldi-on-desktop-8-0/"
+    ]
+  ],
+  [
+    [
       "2026-05-21, 02:24:35",
       "https://news.ycombinator.com/item?id=48217052"
     ],
@@ -17,16 +37,6 @@
     [
       "Haskell Foundation 2026 Update",
       "https://discourse.haskell.org/t/haskell-foundation-2026-update/14136"
-    ]
-  ],
-  [
-    [
-      "2026-05-21, 01:20:52",
-      "https://news.ycombinator.com/item?id=48216619"
-    ],
-    [
-      "What is Demand Coop and why tech workers should join one",
-      "https://cahootzcoops.com/blog/what-is-a-demand-coop"
     ]
   ],
   [
@@ -71,16 +81,6 @@
   ],
   [
     [
-      "2026-05-20, 21:33:18",
-      "https://news.ycombinator.com/item?id=48214449"
-    ],
-    [
-      "Google Declaring War on the Web",
-      "https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/"
-    ]
-  ],
-  [
-    [
       "2026-05-20, 21:28:28",
       "https://news.ycombinator.com/item?id=48214399"
     ],
@@ -91,12 +91,12 @@
   ],
   [
     [
-      "2026-05-20, 21:11:55",
-      "https://news.ycombinator.com/item?id=48214188"
+      "2026-05-20, 20:55:52",
+      "https://news.ycombinator.com/item?id=48214017"
     ],
     [
-      "PopuLoRA: Co-Evolving LLM Populations for Reasoning Self- Play",
-      "https://vmax.ai/team/populora-co-evolving-llm-populations-for-reasoning-self-play"
+      "Anthropic is expanding to Colossus2. Will use GB200",
+      "https://twitter.com/nottombrown/status/2057194829986300375"
     ]
   ],
   [
@@ -107,16 +107,6 @@
     [
       "SpaceX S-1",
       "https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm"
-    ]
-  ],
-  [
-    [
-      "2026-05-20, 20:28:18",
-      "https://news.ycombinator.com/item?id=48213651"
-    ],
-    [
-      "Colorado Amended SB051 (Age Verification Bill) to Exclude Open Source Projects",
-      "https://legiscan.com/CO/bill/SB051/2026"
     ]
   ],
   [
@@ -181,16 +171,6 @@
   ],
   [
     [
-      "2026-05-20, 12:43:41",
-      "https://news.ycombinator.com/item?id=48206768"
-    ],
-    [
-      "Meta blocks human rights accounts from reaching audiences in Saudi Arabia, UAE",
-      "https://www.alqst.org/ar/posts/1190"
-    ]
-  ],
-  [
-    [
       "2026-05-20, 12:01:56",
       "https://news.ycombinator.com/item?id=48206340"
     ],
@@ -205,8 +185,18 @@
       "https://news.ycombinator.com/item?id=48205782"
     ],
     [
-      "Google's AI is being manipulated. The search giant is quietly fighting back",
+      "Google’s AI is being manipulated. The search giant is quietly fighting back",
       "https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results"
+    ]
+  ],
+  [
+    [
+      "2026-05-20, 10:04:28",
+      "https://news.ycombinator.com/item?id=48205415"
+    ],
+    [
+      "Learnings from 100K lines of Rust with AI (2025)",
+      "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html"
     ]
   ],
   [
@@ -217,6 +207,16 @@
     [
       "Incident Report: May 19, 2026 – GCP Account Suspension",
       "https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage"
+    ]
+  ],
+  [
+    [
+      "2026-05-19, 10:33:35",
+      "https://news.ycombinator.com/item?id=48191572"
+    ],
+    [
+      "All the bugs they found",
+      "https://andreapivetta.com/posts/all-the-bugs-they-found.html"
     ]
   ],
   [
@@ -251,22 +251,22 @@
   ],
   [
     [
-      "2026-05-18, 18:04:13",
-      "https://news.ycombinator.com/item?id=48183167"
+      "2026-05-18, 18:29:43",
+      "https://news.ycombinator.com/item?id=48183563"
     ],
     [
-      "Your Most Improbable Life",
-      "https://kevinkelly.substack.com/p/your-most-improbable-life"
+      "Simulating Infinity in Conway's Game of Life with Modern C++",
+      "https://ryanjk5.github.io/posts/GOLDE/"
     ]
   ],
   [
     [
-      "2026-05-18, 14:10:50",
-      "https://news.ycombinator.com/item?id=48180173"
+      "2026-05-18, 15:08:21",
+      "https://news.ycombinator.com/item?id=48180924"
     ],
     [
-      "Sharla Boehm, the programmer whose code underpins the Internet",
-      "https://www.scientificamerican.com/article/the-programmer-whose-code-underpins-the-internet/"
+      "Show HN: I made a tactical map-based WWII submarine simulator (public beta)",
+      "https://silentshark.app/alpha/"
     ]
   ],
   [
