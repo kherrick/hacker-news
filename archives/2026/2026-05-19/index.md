@@ -37,6 +37,7 @@
 * [2026-05-19, 12:26:45](https://news.ycombinator.com/item?id=48192410) - [Colonization of Venus](https://en.wikipedia.org/wiki/Colonization_of_Venus)
 * [2026-05-19, 12:23:07](https://news.ycombinator.com/item?id=48192383) - [Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks](https://github.com/antoinezambelli/forge)
 * [2026-05-19, 12:04:18](https://news.ycombinator.com/item?id=48192224) - [New accessibility features powered by Apple Intelligence](https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/)
+* [2026-05-19, 11:23:58](https://news.ycombinator.com/item?id=48191902) - [Triangle Tessellation with Clamped Parallelograms](https://filmicworlds.com/blog/compute-tessellation-with-clamped-parallelograms/)
 * [2026-05-19, 11:16:56](https://news.ycombinator.com/item?id=48191852) - [Show HN: Id-agent – Token efficient UUID alternative for AI agents](https://github.com/vostride/id-agent)
 * [2026-05-19, 10:38:47](https://news.ycombinator.com/item?id=48191602) - [Gaussian Splat of a Strawberry](https://superspl.at/scene/84df8849)
 * [2026-05-19, 10:33:35](https://news.ycombinator.com/item?id=48191572) - [All the bugs they found](https://andreapivetta.com/posts/all-the-bugs-they-found.html)

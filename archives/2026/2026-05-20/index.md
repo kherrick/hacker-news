@@ -30,6 +30,7 @@
 * [2026-05-20, 16:50:54](https://news.ycombinator.com/item?id=48210590) - [Ask HN: Shouldn't Google need to give a public statement about Railway incident?](https://news.ycombinator.com/item?id=48210590)
 * [2026-05-20, 16:27:25](https://news.ycombinator.com/item?id=48210263) - [Apparently Google hates us now](https://twitter.com/pokemoncentral/status/2057123807404638250)
 * [2026-05-20, 16:24:42](https://news.ycombinator.com/item?id=48210226) - [OpenAI Is Preparing to File for an IPO Soon](https://www.wsj.com/tech/ai/openai-is-preparing-to-file-for-an-ipo-very-soon-0ec95af5)
+* [2026-05-20, 16:01:26](https://news.ycombinator.com/item?id=48209905) - [Mycorrhizal Fungi, Nature's Key to Plant Survival and Success](https://pacifichorticulture.org/articles/mycorrhizal-fungi-natures-key-to-plant-survival-and-success/)
 * [2026-05-20, 15:45:32](https://news.ycombinator.com/item?id=48209668) - [Show HN: Lance – image/video generation and understanding in one model](https://github.com/bytedance/Lance)
 * [2026-05-20, 15:39:48](https://news.ycombinator.com/item?id=48209558) - [SBCL: the ultimate assembly code breadboard (2014)](https://pvk.ca/Blog/2014/03/15/sbcl-the-ultimate-assembly-code-breadboard/)
 * [2026-05-20, 15:25:45](https://news.ycombinator.com/item?id=48209323) - [Formal Verification Gates for AI Coding Loops](https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/)
