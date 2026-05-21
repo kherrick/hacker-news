@@ -1,22 +1,72 @@
 [
   [
     [
+      "2026-05-21, 02:24:35",
+      "https://news.ycombinator.com/item?id=48217052"
+    ],
+    [
+      "OpenAI to confidentially file for IPO as soon as Friday",
+      "https://www.cnbc.com/2026/05/20/openai-ipo-filing.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-21, 02:13:23",
+      "https://news.ycombinator.com/item?id=48216983"
+    ],
+    [
+      "Haskell Foundation 2026 Update",
+      "https://discourse.haskell.org/t/haskell-foundation-2026-update/14136"
+    ]
+  ],
+  [
+    [
+      "2026-05-21, 01:20:52",
+      "https://news.ycombinator.com/item?id=48216619"
+    ],
+    [
+      "What is Demand Coop and why tech workers should join one",
+      "https://cahootzcoops.com/blog/what-is-a-demand-coop"
+    ]
+  ],
+  [
+    [
+      "2026-05-21, 00:36:01",
+      "https://news.ycombinator.com/item?id=48216278"
+    ],
+    [
+      "Intuit to lay off over 3k employees to refocus on AI",
+      "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/"
+    ]
+  ],
+  [
+    [
+      "2026-05-20, 23:58:51",
+      "https://news.ycombinator.com/item?id=48216016"
+    ],
+    [
+      "The Letter S, by Donald Knuth (1980) [pdf]",
+      "https://gwern.net/doc/design/typography/1980-knuth.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-05-20, 23:54:06",
+      "https://news.ycombinator.com/item?id=48215979"
+    ],
+    [
+      "Show HN: I reverse engineered Apple's video wallpapers",
+      "https://github.com/kageroumado/phosphene"
+    ]
+  ],
+  [
+    [
       "2026-05-20, 22:53:27",
       "https://news.ycombinator.com/item?id=48215418"
     ],
     [
       "DOS Zone",
       "https://dos.zone/"
-    ]
-  ],
-  [
-    [
-      "2026-05-20, 21:41:54",
-      "https://news.ycombinator.com/item?id=48214558"
-    ],
-    [
-      "Starship's Twelfth Flight Test",
-      "https://www.spacex.com/launches/starship-flight-12"
     ]
   ],
   [
@@ -41,32 +91,12 @@
   ],
   [
     [
-      "2026-05-20, 21:14:03",
-      "https://news.ycombinator.com/item?id=48214215"
-    ],
-    [
-      "GitHub's take on age assurance for developers",
-      "https://github.blog/news-insights/policy-news-and-insights/why-age-assurance-laws-matter-for-developers/"
-    ]
-  ],
-  [
-    [
       "2026-05-20, 21:11:55",
       "https://news.ycombinator.com/item?id=48214188"
     ],
     [
       "PopuLoRA: Co-Evolving LLM Populations for Reasoning Self- Play",
       "https://vmax.ai/team/populora-co-evolving-llm-populations-for-reasoning-self-play"
-    ]
-  ],
-  [
-    [
-      "2026-05-20, 20:55:52",
-      "https://news.ycombinator.com/item?id=48214017"
-    ],
-    [
-      "Anthropic is expanding to Colossus2. Will use GB200",
-      "https://xcancel.com/nottombrown/status/2057194829986300375"
     ]
   ],
   [
@@ -87,16 +117,6 @@
     [
       "Colorado Amended SB051 (Age Verification Bill) to Exclude Open Source Projects",
       "https://legiscan.com/CO/bill/SB051/2026"
-    ]
-  ],
-  [
-    [
-      "2026-05-20, 19:38:25",
-      "https://news.ycombinator.com/item?id=48212992"
-    ],
-    [
-      "Not alive, but not dead: disembodied human brains used for drug testing",
-      "https://www.science.org/content/article/not-alive-not-dead-disembodied-human-brains-used-drug-testing"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2026-05-20, 15:25:45",
-      "https://news.ycombinator.com/item?id=48209323"
-    ],
-    [
-      "Formal Verification Gates for AI Coding Loops",
-      "https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/"
-    ]
-  ],
-  [
-    [
       "2026-05-20, 13:43:37",
       "https://news.ycombinator.com/item?id=48207660"
     ],
@@ -201,26 +211,6 @@
   ],
   [
     [
-      "2026-05-20, 10:47:20",
-      "https://news.ycombinator.com/item?id=48205699"
-    ],
-    [
-      "Map of Metal",
-      "https://mapofmetal.com/"
-    ]
-  ],
-  [
-    [
-      "2026-05-20, 10:35:02",
-      "https://news.ycombinator.com/item?id=48205626"
-    ],
-    [
-      "Qwen3.7-Max: The Agent Frontier",
-      "https://qwen.ai/blog?id=qwen3.7"
-    ]
-  ],
-  [
-    [
       "2026-05-20, 08:37:55",
       "https://news.ycombinator.com/item?id=48204770"
     ],
@@ -231,12 +221,42 @@
   ],
   [
     [
-      "2026-05-18, 22:33:47",
-      "https://news.ycombinator.com/item?id=48186730"
+      "2026-05-19, 01:51:04",
+      "https://news.ycombinator.com/item?id=48188302"
     ],
     [
-      "LoRA and Weight Decay (2023)",
-      "https://irhum.github.io/blog/lorawd/"
+      "New features in GCC 16: Improved error messages and SARIF output",
+      "https://developers.redhat.com/articles/2026/04/28/gcc-16-improved-error-messages-sarif-output"
+    ]
+  ],
+  [
+    [
+      "2026-05-18, 19:51:19",
+      "https://news.ycombinator.com/item?id=48184652"
+    ],
+    [
+      "Recreate famous water profiles using supermarket bottled water",
+      "https://www.waterdictionary.net"
+    ]
+  ],
+  [
+    [
+      "2026-05-18, 18:38:05",
+      "https://news.ycombinator.com/item?id=48183678"
+    ],
+    [
+      "A Markdown-based test suite",
+      "https://blogsystem5.substack.com/p/markdown-based-test-suite"
+    ]
+  ],
+  [
+    [
+      "2026-05-18, 18:04:13",
+      "https://news.ycombinator.com/item?id=48183167"
+    ],
+    [
+      "Your Most Improbable Life",
+      "https://kevinkelly.substack.com/p/your-most-improbable-life"
     ]
   ],
   [
@@ -251,22 +271,12 @@
   ],
   [
     [
-      "2026-05-18, 13:15:10",
-      "https://news.ycombinator.com/item?id=48179392"
+      "2026-05-18, 10:08:26",
+      "https://news.ycombinator.com/item?id=48177467"
     ],
     [
-      "The OEIS meta sequence and subway stations",
-      "https://www.jeremykun.com/shortform/2026-04-09-0556/"
-    ]
-  ],
-  [
-    [
-      "2026-05-18, 04:38:58",
-      "https://news.ycombinator.com/item?id=48175637"
-    ],
-    [
-      "Étienne Ghys: The Shape of Letters: From Leonardo da Vinci to Donald Knuth",
-      "https://www.youtube.com/watch?v=1OIxzewWilc"
+      "Reviving old scanners with an in-browser Linux VM bridged to WebUSB over USB/IP",
+      "https://yes-we-scan.app/details"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "How fast is N tokens per second really?",
       "https://mikeveerman.github.io/tokenspeed/"
-    ]
-  ],
-  [
-    [
-      "2026-05-17, 20:46:57",
-      "https://news.ycombinator.com/item?id=48173042"
-    ],
-    [
-      "Long-term editing of brain circuits using an engineered electrical synapse",
-      "https://www.nature.com/articles/s41586-026-10501-y"
     ]
   ],
   [
