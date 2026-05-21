@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-05-21](index.md)
 
+* [2026-05-21, 20:31:04](https://news.ycombinator.com/item?id=48228491) - [There’s a real chance you will not have the same job by the end of 2027](https://www.elenaverna.com/p/youll-lose-your-job-in-2027)
+* [2026-05-21, 19:37:26](https://news.ycombinator.com/item?id=48227923) - [Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O](https://arxiv.org/abs/2605.12460)
+* [2026-05-21, 19:32:16](https://news.ycombinator.com/item?id=48227860) - [Using Kagi Search with Low Vision](https://veroniiiica.com/using-kagi-search-with-low-vision/)
+* [2026-05-21, 18:54:55](https://news.ycombinator.com/item?id=48227397) - [Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD](https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/)
 * [2026-05-21, 18:29:35](https://news.ycombinator.com/item?id=48227068) - [Serving Netflix Video Traffic at 400Gb/S and Beyond (2022) [pdf]](https://nabstreamingsummit.com/wp-content/uploads/2022/05/2022-Streaming-Summit-Netflix.pdf)
 * [2026-05-21, 18:21:37](https://news.ycombinator.com/item?id=48226944) - [BBEdit 16](https://www.barebones.com/products/bbedit/bbedit16.html)
 * [2026-05-21, 18:04:17](https://news.ycombinator.com/item?id=48226703) - [Where are all the UK red telephone kiosks?](https://www.thek6project.co.uk/)
@@ -19,6 +23,7 @@
 * [2026-05-21, 16:07:13](https://news.ycombinator.com/item?id=48225040) - [Launch HN: Runtime (YC P26) – Sandboxed coding agents for everyone on a team](https://www.runtm.com/)
 * [2026-05-21, 15:50:04](https://news.ycombinator.com/item?id=48224768) - [Museum of Pocket Calculating Devices](https://www.calculators.de/)
 * [2026-05-21, 14:50:34](https://news.ycombinator.com/item?id=48223693) - [We Reverse-Engineered Docker Sandbox's Undocumented MicroVM API](https://rivet.dev/blog/2026-02-04-we-reverse-engineered-docker-sandbox-undocumented-microvm-api/)
+* [2026-05-21, 14:34:57](https://news.ycombinator.com/item?id=48223362) - [Show HN: Freenet, a peer-to-peer platform for decentralized apps](https://freenet.org/)
 * [2026-05-21, 14:31:33](https://news.ycombinator.com/item?id=48223303) - [Michael Keating has died](https://www.bigfinish.com/news/v/michael-keating-1947-2026)
 * [2026-05-21, 14:29:14](https://news.ycombinator.com/item?id=48223258) - [Get your passwords out of Bitwarden while you still can](https://www.osnews.com/story/145029/get-your-passwords-out-of-bitwarden-while-you-still-can/)
 * [2026-05-21, 14:01:37](https://news.ycombinator.com/item?id=48222733) - [Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)](https://blog.simbastack.com/indexed-a-year-of-video-locally/)
