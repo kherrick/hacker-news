@@ -31,6 +31,7 @@
 * [2026-05-19, 15:27:53](https://news.ycombinator.com/item?id=48194614) - [Gentoo News: Copy Fail, Dirty Frag, and Fragnesia Kernel Vulnerabilities](https://www.gentoo.org/news/2026/05/19/copy-fail-fragnesia-vulnerabilities.html)
 * [2026-05-19, 15:07:45](https://news.ycombinator.com/item?id=48194352) - [I’ve joined Anthropic](https://twitter.com/karpathy/status/2056753169888334312)
 * [2026-05-19, 14:50:42](https://news.ycombinator.com/item?id=48194098) - [Why are most humans right-handed? The answer may lie in how we learned to walk](https://www.ox.ac.uk/news/2026-05-15-why-is-almost-everyone-right-handed-the-answer-may-lie-in-how-we-learned-to-walk)
+* [2026-05-19, 14:39:56](https://news.ycombinator.com/item?id=48193932) - [Tristan Davey's Punch Card Archive](https://punchcards.tristandavey.com/)
 * [2026-05-19, 14:04:19](https://news.ycombinator.com/item?id=48193474) - [Show HN: I made a 3D pose maker for artists](https://setpose.com/)
 * [2026-05-19, 13:30:58](https://news.ycombinator.com/item?id=48193111) - [Anthropic Is Preparing for IPO and We Should Be Worried](https://www.vincentschmalbach.com/anthropic-ipo-developers-should-be-worried-v2/)
 * [2026-05-19, 13:11:51](https://news.ycombinator.com/item?id=48192882) - [OpenBSD 7.9 Released](https://www.openbsd.org/79.html)
