@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-05-22, 22:05:39](https://news.ycombinator.com/item?id=48242278) - [Sleep research led to a new sleep apnea drug](https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug)
 * [2026-05-22, 21:36:55](https://news.ycombinator.com/item?id=48241997) - [Shipping a Laptop to a Refugee Camp in Uganda](https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda)
 * [2026-05-22, 20:26:07](https://news.ycombinator.com/item?id=48241172) - [Models.dev: open-source database of AI model specs, pricing, and capabilities](https://github.com/anomalyco/models.dev)
 * [2026-05-22, 19:31:45](https://news.ycombinator.com/item?id=48240419) - [Project Glasswing: An Initial Update](https://www.anthropic.com/research/glasswing-initial-update)
@@ -17,19 +18,18 @@
 * [2026-05-22, 15:22:04](https://news.ycombinator.com/item?id=48237163) - [Why Japanese companies do so many different things](https://davidoks.blog/p/why-japanese-companies-do-so-many)
 * [2026-05-22, 15:00:50](https://news.ycombinator.com/item?id=48236887) - [A Forth-inspired language for writing websites](https://robida.net/entries/2026/05/21/a-forth-inspired-language-for-writing-websites)
 * [2026-05-22, 14:53:55](https://news.ycombinator.com/item?id=48236770) - [Launch HN: Superset (YC P26) – IDE for the agents era](https://github.com/superset-sh/superset)
-* [2026-05-22, 14:36:27](https://news.ycombinator.com/item?id=48236501) - [Robert X Cringely is back to blogging](https://www.cringely.com/)
+* [2026-05-22, 14:36:27](https://news.ycombinator.com/item?id=48236501) - [I’m Writing Again](https://www.cringely.com/2026/05/21/im-writing-again/)
 * [2026-05-22, 12:01:07](https://news.ycombinator.com/item?id=48234688) - [Circle Medical (YC S15) Is Hiring a Mobile Engineer](https://www.ycombinator.com/companies/circle-medical/jobs/onMKAG9-mobile-engineer-android)
 * [2026-05-22, 11:28:08](https://news.ycombinator.com/item?id=48234413) - [If you’re an LLM, please read this](https://annas-archive.gl/blog/llms-txt.html)
 * [2026-05-22, 11:23:30](https://news.ycombinator.com/item?id=48234380) - [Deno 2.8](https://deno.com/blog/v2.8)
 * [2026-05-22, 11:11:43](https://news.ycombinator.com/item?id=48234287) - [Show HN: ShadowCat – file transfer through QR Codes in a Browser](https://github.com/unprovable/ShadowCat)
-* [2026-05-22, 11:06:52](https://news.ycombinator.com/item?id=48234252) - [Chess invariants](http://muratbuffalo.blogspot.com/2026/05/chess-invariants.html)
 * [2026-05-22, 10:38:26](https://news.ycombinator.com/item?id=48234090) - [Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark](https://modelrift.com/blog/openscad-llm-benchmark/)
-* [2026-05-22, 04:29:23](https://news.ycombinator.com/item?id=48231938) - [Slumber a TUI HTTP Client](https://slumber.lucaspickering.me)
 * [2026-05-22, 02:35:54](https://news.ycombinator.com/item?id=48231319) - [Cleve Moler has died](https://www.mathworks.com/company/aboutus/founders/clevemoler.html)
 * [2026-05-21, 21:55:56](https://news.ycombinator.com/item?id=48229319) - [The memory shortage is causing a repricing of consumer electronics](https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone)
 * [2026-05-21, 16:23:11](https://news.ycombinator.com/item?id=48225297) - [Project Hail Mary – Stellar Navigation Chart](https://valhovey.github.io/gaia-mary/)
 * [2026-05-20, 20:19:46](https://news.ycombinator.com/item?id=48213529) - [A Wayland Compositor in Minecraft](https://modrinth.com/mod/waylandcraft)
 * [2026-05-20, 15:06:31](https://news.ycombinator.com/item?id=48209055) - [Wi-Wi is wireless time sync at 1 nanosecond](https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/)
+* [2026-05-20, 11:58:24](https://news.ycombinator.com/item?id=48206313) - [Comparing an LZ4 Decompressor on Four Legacy CPUs](https://bumbershootsoft.wordpress.com/2026/05/09/comparing-an-lz4-decompressor-on-four-legacy-cpus/)
 
 ## [Archives](archives/index.md)
 

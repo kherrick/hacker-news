@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-22](index.md)
 
+* [2026-05-22, 22:05:39](https://news.ycombinator.com/item?id=48242278) - [Sleep research led to a new sleep apnea drug](https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug)
 * [2026-05-22, 21:36:55](https://news.ycombinator.com/item?id=48241997) - [Shipping a Laptop to a Refugee Camp in Uganda](https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda)
 * [2026-05-22, 20:52:37](https://news.ycombinator.com/item?id=48241501) - [NTSB pulls docket after AI recreates dead pilots' voices](https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/)
 * [2026-05-22, 20:26:07](https://news.ycombinator.com/item?id=48241172) - [Models.dev: open-source database of AI model specs, pricing, and capabilities](https://github.com/anomalyco/models.dev)
@@ -29,6 +30,7 @@
 * [2026-05-22, 15:00:50](https://news.ycombinator.com/item?id=48236887) - [A Forth-inspired language for writing websites](https://robida.net/entries/2026/05/21/a-forth-inspired-language-for-writing-websites)
 * [2026-05-22, 14:53:55](https://news.ycombinator.com/item?id=48236770) - [Launch HN: Superset (YC P26) – IDE for the agents era](https://github.com/superset-sh/superset)
 * [2026-05-22, 14:36:27](https://news.ycombinator.com/item?id=48236501) - [Robert X Cringely is back to blogging](https://www.cringely.com/)
+* [2026-05-22, 14:36:27](https://news.ycombinator.com/item?id=48236501) - [I’m Writing Again](https://www.cringely.com/2026/05/21/im-writing-again/)
 * [2026-05-22, 13:40:55](https://news.ycombinator.com/item?id=48235733) - [The Spread of Christianity Animated](https://www.openculture.com/2026/05/the-spread-of-christianity-animated-from-antiquity-until-today.html)
 * [2026-05-22, 13:22:42](https://news.ycombinator.com/item?id=48235526) - [The AI Elephant in the Room](https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/)
 * [2026-05-22, 13:18:51](https://news.ycombinator.com/item?id=48235489) - [Alberta to hold referendum on whether to remain in Canada](https://www.bbc.com/news/articles/cvgze8n5dxko)
