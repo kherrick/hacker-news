@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-05-22, 07:52:15",
+      "https://news.ycombinator.com/item?id=48233177"
+    ],
+    [
+      "Deepfakes Tore a High School Apart",
+      "https://www.404media.co/radnor-high-school-pennsylvania-ai-deepfakes-child-sexual-abuse-material/"
+    ]
+  ],
+  [
+    [
+      "2026-05-22, 04:54:33",
+      "https://news.ycombinator.com/item?id=48232118"
+    ],
+    [
+      "CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs",
+      "https://arxiv.org/abs/2605.19269"
+    ]
+  ],
+  [
+    [
       "2026-05-22, 04:29:23",
       "https://news.ycombinator.com/item?id=48231938"
     ],
@@ -15,18 +35,18 @@
       "https://news.ycombinator.com/item?id=48231319"
     ],
     [
-      "Cleve Moler (Matlab, MathWorks) passed away on May 20, 2026",
+      "Cleve Moler has died",
       "https://www.mathworks.com/company/aboutus/founders/clevemoler.html"
     ]
   ],
   [
     [
-      "2026-05-22, 01:30:45",
-      "https://news.ycombinator.com/item?id=48230892"
+      "2026-05-21, 21:55:56",
+      "https://news.ycombinator.com/item?id=48229319"
     ],
     [
-      "Samsung chip workers will get an average $340k bonus as AI profits soar",
-      "https://qz.com/samsung-chip-workers-bonus-ai-profits-052126"
+      "The memory shortage is causing a repricing of consumer electronics",
+      "https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone"
     ]
   ],
   [
@@ -71,16 +91,6 @@
   ],
   [
     [
-      "2026-05-21, 18:21:37",
-      "https://news.ycombinator.com/item?id=48226944"
-    ],
-    [
-      "BBEdit 16",
-      "https://www.barebones.com/products/bbedit/bbedit16.html"
-    ]
-  ],
-  [
-    [
       "2026-05-21, 17:55:58",
       "https://news.ycombinator.com/item?id=48226588"
     ],
@@ -91,32 +101,12 @@
   ],
   [
     [
-      "2026-05-21, 17:00:52",
-      "https://news.ycombinator.com/item?id=48225852"
-    ],
-    [
-      "ParadeDB (YC S23) Is Hiring Distributed Systems/Platform Engineers",
-      "https://news.ycombinator.com/item?id=48225852"
-    ]
-  ],
-  [
-    [
       "2026-05-21, 16:59:27",
       "https://news.ycombinator.com/item?id=48225838"
     ],
     [
       "News outlets are limiting the Internet Archive’s access to their journalism",
       "https://www.niemanlab.org/2026/05/more-than-340-local-news-outlets-are-limiting-the-internet-archives-access-to-their-journalism/"
-    ]
-  ],
-  [
-    [
-      "2026-05-21, 16:42:34",
-      "https://news.ycombinator.com/item?id=48225596"
-    ],
-    [
-      "Show HN: Agent.email – sign up via curl, claim with a human OTP",
-      "https://news.ycombinator.com/item?id=48225596"
     ]
   ],
   [
@@ -251,6 +241,16 @@
   ],
   [
     [
+      "2026-05-20, 15:48:16",
+      "https://news.ycombinator.com/item?id=48209706"
+    ],
+    [
+      "The Hardware Lottery",
+      "https://hardwarelottery.github.io/"
+    ]
+  ],
+  [
+    [
       "2026-05-20, 15:47:26",
       "https://news.ycombinator.com/item?id=48209691"
     ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2026-05-19, 07:32:56",
-      "https://news.ycombinator.com/item?id=48190373"
+      "2026-05-19, 12:48:20",
+      "https://news.ycombinator.com/item?id=48192605"
     ],
     [
-      "Mounting git commits as folders with NFS (2023)",
-      "https://jvns.ca/blog/2023/12/04/mounting-git-commits-as-folders-with-nfs/"
+      "The death of the brick and mortar toy store",
+      "https://brainbaking.com/post/2026/05/the-death-of-the-brick-and-mortar-toy-store/"
     ]
   ],
   [
