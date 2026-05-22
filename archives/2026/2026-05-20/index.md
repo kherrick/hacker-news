@@ -17,6 +17,7 @@
 * [2026-05-20, 20:49:59](https://news.ycombinator.com/item?id=48213933) - [SpaceX S-1](https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm)
 * [2026-05-20, 20:28:18](https://news.ycombinator.com/item?id=48213651) - [Colorado Amended SB051 (Age Verification Bill) to Exclude Open Source Projects](https://legiscan.com/CO/bill/SB051/2026)
 * [2026-05-20, 20:21:14](https://news.ycombinator.com/item?id=48213550) - [SpaceX punts Starship launch as investigation opens into Starbase worker's death](https://www.scientificamerican.com/article/spacex-punts-starship-v3-launch-to-may-21-as-investigation-opens-into-starbase-worker-death/)
+* [2026-05-20, 20:19:46](https://news.ycombinator.com/item?id=48213529) - [A Wayland Compositor in Minecraft](https://modrinth.com/mod/waylandcraft)
 * [2026-05-20, 19:38:25](https://news.ycombinator.com/item?id=48212992) - [Not alive, but not dead: disembodied human brains used for drug testing](https://www.science.org/content/article/not-alive-not-dead-disembodied-human-brains-used-drug-testing)
 * [2026-05-20, 19:05:30](https://news.ycombinator.com/item?id=48212493) - [An OpenAI model has disproved a central conjecture in discrete geometry](https://openai.com/index/model-disproves-discrete-geometry-conjecture/)
 * [2026-05-20, 18:50:59](https://news.ycombinator.com/item?id=48212279) - [Tracking Starbucks' 'widely recyclable' cups: none ended up at recycling](https://www.beyondplastics.org/press-releases/starbucks-cups-recyclable-report)

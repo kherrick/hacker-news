@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-05-22](index.md)
 
+* [2026-05-22, 21:36:55](https://news.ycombinator.com/item?id=48241997) - [Shipping a Laptop to a Refugee Camp in Uganda](https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda)
 * [2026-05-22, 20:52:37](https://news.ycombinator.com/item?id=48241501) - [NTSB pulls docket after AI recreates dead pilots' voices](https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/)
 * [2026-05-22, 20:26:07](https://news.ycombinator.com/item?id=48241172) - [Models.dev: open-source database of AI model specs, pricing, and capabilities](https://github.com/anomalyco/models.dev)
 * [2026-05-22, 19:31:45](https://news.ycombinator.com/item?id=48240419) - [Project Glasswing: An Initial Update](https://www.anthropic.com/research/glasswing-initial-update)
 * [2026-05-22, 19:24:58](https://news.ycombinator.com/item?id=48240323) - [USCIS Will Grant 'Adjustment of Status' Only in Extraordinary Circumstances](https://www.uscis.gov/newsroom/news-releases/us-citizenship-and-immigration-services-will-grant-adjustment-of-status-only-in-extraordinary)
 * [2026-05-22, 19:16:09](https://news.ycombinator.com/item?id=48240198) - [Anthropic's \"Profitability\" Swindle](https://www.wheresyoured.at/anthropics-profitability-swindle/)
+* [2026-05-22, 18:52:17](https://news.ycombinator.com/item?id=48239862) - [A blueprint for formal verification of Apple corecrypto](https://security.apple.com/blog/formal-verification-corecrypto/)
 * [2026-05-22, 18:46:25](https://news.ycombinator.com/item?id=48239790) - [Bun's unreleased Rust port has 13,365 unsafe blocks](https://bun.com/bun-unsafe-audit)
 * [2026-05-22, 18:46:07](https://news.ycombinator.com/item?id=48239786) - [Domain-Camouflaged Injection Attacks Evade Detection in Multi-Agent LLM Systems](https://arxiv.org/abs/2605.22001)
 * [2026-05-22, 18:17:57](https://news.ycombinator.com/item?id=48239413) - [Open source Kanban desktop app that runs parallel agents on every card](https://www.kanbots.dev/)
