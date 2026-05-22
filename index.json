@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-05-22, 22:05:39",
+      "https://news.ycombinator.com/item?id=48242278"
+    ],
+    [
+      "Sleep research led to a new sleep apnea drug",
+      "https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug"
+    ]
+  ],
+  [
+    [
       "2026-05-22, 21:36:55",
       "https://news.ycombinator.com/item?id=48241997"
     ],
@@ -175,8 +185,8 @@
       "https://news.ycombinator.com/item?id=48236501"
     ],
     [
-      "Robert X Cringely is back to blogging",
-      "https://www.cringely.com/"
+      "I’m Writing Again",
+      "https://www.cringely.com/2026/05/21/im-writing-again/"
     ]
   ],
   [
@@ -221,32 +231,12 @@
   ],
   [
     [
-      "2026-05-22, 11:06:52",
-      "https://news.ycombinator.com/item?id=48234252"
-    ],
-    [
-      "Chess invariants",
-      "http://muratbuffalo.blogspot.com/2026/05/chess-invariants.html"
-    ]
-  ],
-  [
-    [
       "2026-05-22, 10:38:26",
       "https://news.ycombinator.com/item?id=48234090"
     ],
     [
       "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
       "https://modelrift.com/blog/openscad-llm-benchmark/"
-    ]
-  ],
-  [
-    [
-      "2026-05-22, 04:29:23",
-      "https://news.ycombinator.com/item?id=48231938"
-    ],
-    [
-      "Slumber a TUI HTTP Client",
-      "https://slumber.lucaspickering.me"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Wi-Wi is wireless time sync at 1 nanosecond",
       "https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/"
+    ]
+  ],
+  [
+    [
+      "2026-05-20, 11:58:24",
+      "https://news.ycombinator.com/item?id=48206313"
+    ],
+    [
+      "Comparing an LZ4 Decompressor on Four Legacy CPUs",
+      "https://bumbershootsoft.wordpress.com/2026/05/09/comparing-an-lz4-decompressor-on-four-legacy-cpus/"
     ]
   ]
 ]
