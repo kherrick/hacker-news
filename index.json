@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-05-22, 20:52:37",
-      "https://news.ycombinator.com/item?id=48241501"
+      "2026-05-22, 21:36:55",
+      "https://news.ycombinator.com/item?id=48241997"
     ],
     [
-      "NTSB pulls docket after AI recreates dead pilots' voices",
-      "https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/"
+      "Shipping a Laptop to a Refugee Camp in Uganda",
+      "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda"
     ]
   ],
   [
@@ -27,6 +27,16 @@
     [
       "Project Glasswing: An Initial Update",
       "https://www.anthropic.com/research/glasswing-initial-update"
+    ]
+  ],
+  [
+    [
+      "2026-05-22, 18:52:17",
+      "https://news.ycombinator.com/item?id=48239862"
+    ],
+    [
+      "A blueprint for formal verification of Apple corecrypto",
+      "https://security.apple.com/blog/formal-verification-corecrypto/"
     ]
   ],
   [
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2026-05-22, 13:22:42",
-      "https://news.ycombinator.com/item?id=48235526"
-    ],
-    [
-      "AI has a multiplying effect on existing technical skills",
-      "https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/"
-    ]
-  ],
-  [
-    [
       "2026-05-22, 12:01:07",
       "https://news.ycombinator.com/item?id=48234688"
     ],
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2026-05-21, 20:56:36",
-      "https://news.ycombinator.com/item?id=48228788"
-    ],
-    [
-      "Uv is fantastic, but its package management UX is a mess",
-      "https://www.loopwerk.io/articles/2026/uv-ux-mess/"
-    ]
-  ],
-  [
-    [
       "2026-05-21, 16:23:11",
       "https://news.ycombinator.com/item?id=48225297"
     ],
@@ -291,11 +281,21 @@
   ],
   [
     [
+      "2026-05-20, 20:19:46",
+      "https://news.ycombinator.com/item?id=48213529"
+    ],
+    [
+      "A Wayland Compositor in Minecraft",
+      "https://modrinth.com/mod/waylandcraft"
+    ]
+  ],
+  [
+    [
       "2026-05-20, 15:06:31",
       "https://news.ycombinator.com/item?id=48209055"
     ],
     [
-      "Wi-Wi Is Wireless Time Sync at 1 Nanosecond",
+      "Wi-Wi is wireless time sync at 1 nanosecond",
       "https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/"
     ]
   ]
