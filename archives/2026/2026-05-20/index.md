@@ -37,6 +37,7 @@
 * [2026-05-20, 15:39:48](https://news.ycombinator.com/item?id=48209558) - [SBCL: the ultimate assembly code breadboard (2014)](https://pvk.ca/Blog/2014/03/15/sbcl-the-ultimate-assembly-code-breadboard/)
 * [2026-05-20, 15:25:45](https://news.ycombinator.com/item?id=48209323) - [Formal Verification Gates for AI Coding Loops](https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/)
 * [2026-05-20, 15:10:05](https://news.ycombinator.com/item?id=48209105) - [Stable Audio 3](https://arxiv.org/abs/2605.17991)
+* [2026-05-20, 15:06:31](https://news.ycombinator.com/item?id=48209055) - [Wi-Wi Is Wireless Time Sync at 1 Nanosecond](https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/)
 * [2026-05-20, 14:51:00](https://news.ycombinator.com/item?id=48208834) - [Show HN: Hocuspocus 4 – self-hosted Yjs collaboration backend](https://github.com/ueberdosis/hocuspocus)
 * [2026-05-20, 14:40:42](https://news.ycombinator.com/item?id=48208685) - [Testing distributed systems with AI agents](https://github.com/shenli/distributed-system-testing)
 * [2026-05-20, 14:30:47](https://news.ycombinator.com/item?id=48208502) - [Victory: Tennessee man jailed 37 days for Trump meme wins $835,000 settlement](https://www.fire.org/news/victory-tennessee-man-jailed-37-days-trump-meme-wins-835000-settlement-after-first-amendment)

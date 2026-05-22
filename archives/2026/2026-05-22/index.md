@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-22](index.md)
 
+* [2026-05-22, 20:52:37](https://news.ycombinator.com/item?id=48241501) - [NTSB pulls docket after AI recreates dead pilots' voices](https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/)
+* [2026-05-22, 20:26:07](https://news.ycombinator.com/item?id=48241172) - [Models.dev: open-source database of AI model specs, pricing, and capabilities](https://github.com/anomalyco/models.dev)
 * [2026-05-22, 19:31:45](https://news.ycombinator.com/item?id=48240419) - [Project Glasswing: An Initial Update](https://www.anthropic.com/research/glasswing-initial-update)
 * [2026-05-22, 19:24:58](https://news.ycombinator.com/item?id=48240323) - [USCIS Will Grant 'Adjustment of Status' Only in Extraordinary Circumstances](https://www.uscis.gov/newsroom/news-releases/us-citizenship-and-immigration-services-will-grant-adjustment-of-status-only-in-extraordinary)
 * [2026-05-22, 19:16:09](https://news.ycombinator.com/item?id=48240198) - [Anthropic's \"Profitability\" Swindle](https://www.wheresyoured.at/anthropics-profitability-swindle/)
