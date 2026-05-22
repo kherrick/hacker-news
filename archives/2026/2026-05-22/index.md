@@ -4,6 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-05-22](index.md)
 
+* [2026-05-22, 13:22:42](https://news.ycombinator.com/item?id=48235526) - [The AI Elephant in the Room](https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/)
+* [2026-05-22, 13:07:16](https://news.ycombinator.com/item?id=48235361) - [Sam Altman Won in Court Against Elon Musk. But, We All Lost](https://www.newyorker.com/news/letter-from-silicon-valley/sam-altman-won-in-court-against-elon-musk-but-really-we-all-lost)
+* [2026-05-22, 12:36:37](https://news.ycombinator.com/item?id=48235033) - [Valve removes free game from Steam after players discover it contains malware](https://www.pcguide.com/news/valve-removes-free-horror-game-from-steam-after-players-discover-it-contains-malware-that-steals-your-data/)
+* [2026-05-22, 12:01:07](https://news.ycombinator.com/item?id=48234688) - [Circle Medical (YC S15) Is Hiring a Mobile Engineer](https://www.ycombinator.com/companies/circle-medical/jobs/onMKAG9-mobile-engineer-android)
+* [2026-05-22, 11:45:24](https://news.ycombinator.com/item?id=48234547) - [The Companies Cutting Headcount for AI Will Lose to the Ones Who Didn't](https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt)
+* [2026-05-22, 11:39:37](https://news.ycombinator.com/item?id=48234503) - [Breakthroughs for batteries could soon make them better](https://www.economist.com/science-and-technology/2026/05/20/breakthroughs-for-batteries-could-soon-make-them-much-better)
+* [2026-05-22, 11:28:08](https://news.ycombinator.com/item?id=48234413) - [If you're an LLM, please read this – Anna's Blog](https://annas-archive.gl/blog/llms-txt.html)
+* [2026-05-22, 11:11:43](https://news.ycombinator.com/item?id=48234287) - [Show HN: ShadowCat – file transfer through QR Codes in a Browser](https://github.com/unprovable/ShadowCat)
+* [2026-05-22, 11:06:52](https://news.ycombinator.com/item?id=48234252) - [Chess Invariants](http://muratbuffalo.blogspot.com/2026/05/chess-invariants.html)
 * [2026-05-22, 10:45:16](https://news.ycombinator.com/item?id=48234128) - [The case against boolean logic](https://abuseofnotation.github.io/boolean-thinking/)
 * [2026-05-22, 10:38:26](https://news.ycombinator.com/item?id=48234090) - [Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark](https://modelrift.com/blog/openscad-llm-benchmark/)
 * [2026-05-22, 10:09:03](https://news.ycombinator.com/item?id=48233939) - [FSFE intervenes against Apple before EUCJ for the second time](https://fsfe.org/news/2026/news-20260519-01.en.html)
