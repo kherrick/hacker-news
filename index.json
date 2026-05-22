@@ -1,42 +1,32 @@
 [
   [
     [
+      "2026-05-22, 20:52:37",
+      "https://news.ycombinator.com/item?id=48241501"
+    ],
+    [
+      "NTSB pulls docket after AI recreates dead pilots' voices",
+      "https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/"
+    ]
+  ],
+  [
+    [
+      "2026-05-22, 20:26:07",
+      "https://news.ycombinator.com/item?id=48241172"
+    ],
+    [
+      "Models.dev: open-source database of AI model specs, pricing, and capabilities",
+      "https://github.com/anomalyco/models.dev"
+    ]
+  ],
+  [
+    [
       "2026-05-22, 19:31:45",
       "https://news.ycombinator.com/item?id=48240419"
     ],
     [
       "Project Glasswing: An Initial Update",
       "https://www.anthropic.com/research/glasswing-initial-update"
-    ]
-  ],
-  [
-    [
-      "2026-05-22, 19:24:58",
-      "https://news.ycombinator.com/item?id=48240323"
-    ],
-    [
-      "USCIS Will Grant 'Adjustment of Status' Only in Extraordinary Circumstances",
-      "https://www.uscis.gov/newsroom/news-releases/us-citizenship-and-immigration-services-will-grant-adjustment-of-status-only-in-extraordinary"
-    ]
-  ],
-  [
-    [
-      "2026-05-22, 19:16:09",
-      "https://news.ycombinator.com/item?id=48240198"
-    ],
-    [
-      "Anthropic's \"Profitability\" Swindle",
-      "https://www.wheresyoured.at/anthropics-profitability-swindle/"
-    ]
-  ],
-  [
-    [
-      "2026-05-22, 18:46:25",
-      "https://news.ycombinator.com/item?id=48239790"
-    ],
-    [
-      "Bun's unreleased Rust port has 13,365 unsafe blocks",
-      "https://bun.com/bun-unsafe-audit"
     ]
   ],
   [
@@ -61,32 +51,12 @@
   ],
   [
     [
-      "2026-05-22, 18:12:28",
-      "https://news.ycombinator.com/item?id=48239347"
-    ],
-    [
-      "A scoping review of bicycling interventions’ impacts on well-being",
-      "https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2026.1807791/full"
-    ]
-  ],
-  [
-    [
       "2026-05-22, 17:42:53",
       "https://news.ycombinator.com/item?id=48239023"
     ],
     [
       "Thinking in an array language (2022)",
       "https://github.com/razetime/ngn-k-tutorial/blob/main/12-thinking-in-k.md"
-    ]
-  ],
-  [
-    [
-      "2026-05-22, 17:32:04",
-      "https://news.ycombinator.com/item?id=48238896"
-    ],
-    [
-      "Microsoft starts canceling Claude Code licenses",
-      "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad"
     ]
   ],
   [
@@ -271,6 +241,16 @@
   ],
   [
     [
+      "2026-05-22, 04:29:23",
+      "https://news.ycombinator.com/item?id=48231938"
+    ],
+    [
+      "Slumber a TUI HTTP Client",
+      "https://slumber.lucaspickering.me"
+    ]
+  ],
+  [
+    [
       "2026-05-22, 02:35:54",
       "https://news.ycombinator.com/item?id=48231319"
     ],
@@ -291,12 +271,32 @@
   ],
   [
     [
+      "2026-05-21, 20:56:36",
+      "https://news.ycombinator.com/item?id=48228788"
+    ],
+    [
+      "Uv is fantastic, but its package management UX is a mess",
+      "https://www.loopwerk.io/articles/2026/uv-ux-mess/"
+    ]
+  ],
+  [
+    [
       "2026-05-21, 16:23:11",
       "https://news.ycombinator.com/item?id=48225297"
     ],
     [
       "Project Hail Mary – Stellar Navigation Chart",
       "https://valhovey.github.io/gaia-mary/"
+    ]
+  ],
+  [
+    [
+      "2026-05-20, 15:06:31",
+      "https://news.ycombinator.com/item?id=48209055"
+    ],
+    [
+      "Wi-Wi Is Wireless Time Sync at 1 Nanosecond",
+      "https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/"
     ]
   ]
 ]
