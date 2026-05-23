@@ -7,6 +7,7 @@
 * [2026-05-19, 23:49:03](https://news.ycombinator.com/item?id=48201222) - [HTML-in-Canvas Demos](https://github.com/GoogleChromeLabs/css-web-ui-demos/blob/main/html-in-canvas/awesome-html-in-canvas.md)
 * [2026-05-19, 22:30:31](https://news.ycombinator.com/item?id=48200569) - [Remove AI Watermarks](https://github.com/wiltodelta/remove-ai-watermarks)
 * [2026-05-19, 20:23:44](https://news.ycombinator.com/item?id=48199011) - [What Is Happening to Publishing?](https://resobscura.substack.com/p/what-is-happening-to-publishing)
+* [2026-05-19, 19:56:58](https://news.ycombinator.com/item?id=48198615) - [Solving the \"Zork\" Mystery](https://www.dpolakovic.space/blogs/zork-part2)
 * [2026-05-19, 19:52:49](https://news.ycombinator.com/item?id=48198551) - [Tesla's lithium refinery discharges 231,000 gallons of polluted wastewater a day](https://www.autonocion.com/us/tesla-lithium-refinery-texas/)
 * [2026-05-19, 19:34:38](https://news.ycombinator.com/item?id=48198293) - [Era: From Nature publication to catalyzing Computational Discovery](https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/)
 * [2026-05-19, 19:34:30](https://news.ycombinator.com/item?id=48198291) - [OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool](https://openai.com/index/advancing-content-provenance/)
