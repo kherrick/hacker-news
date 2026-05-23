@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-05-23, 16:24:50",
+      "https://news.ycombinator.com/item?id=48248954"
+    ],
+    [
+      "Reverse engineering circuitry in a Spacelab computer from 1980",
+      "https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-23, 16:02:43",
+      "https://news.ycombinator.com/item?id=48248775"
+    ],
+    [
+      "Italy Cancels Boeing Pegasus Order, Shifting to Airbus A330 MRTT",
+      "https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift"
+    ]
+  ],
+  [
+    [
+      "2026-05-23, 15:47:38",
+      "https://news.ycombinator.com/item?id=48248659"
+    ],
+    [
+      "Ebola Outbreak Now Third Largest Recorded and \"Spreading Rapidly\"",
+      "https://arstechnica.com/health/2026/05/ebola-outbreak-now-third-largest-recorded-and-spreading-rapidly/"
+    ]
+  ],
+  [
+    [
       "2026-05-23, 14:55:59",
       "https://news.ycombinator.com/item?id=48248238"
     ],
@@ -25,7 +55,7 @@
       "https://news.ycombinator.com/item?id=48247876"
     ],
     [
-      "Oura says it gets government demands for user data. Will it share how many?",
+      "Oura says it gets government demands for user data",
       "https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/"
     ]
   ],
@@ -105,7 +135,7 @@
       "https://news.ycombinator.com/item?id=48246232"
     ],
     [
-      "- -dangerously-skip-reading-code – olano.dev",
+      "- -dangerously-skip-reading-code",
       "https://olano.dev/blog/dangerously-skip/"
     ]
   ],
@@ -127,16 +157,6 @@
     [
       "Rubish: A Unix shell written in pure Ruby",
       "https://github.com/amatsuda/rubish"
-    ]
-  ],
-  [
-    [
-      "2026-05-22, 22:05:39",
-      "https://news.ycombinator.com/item?id=48242278"
-    ],
-    [
-      "Sleep research led to a new sleep apnea drug",
-      "https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug"
     ]
   ],
   [
@@ -191,26 +211,6 @@
   ],
   [
     [
-      "2026-05-22, 11:23:30",
-      "https://news.ycombinator.com/item?id=48234380"
-    ],
-    [
-      "Deno 2.8",
-      "https://deno.com/blog/v2.8"
-    ]
-  ],
-  [
-    [
-      "2026-05-22, 10:38:26",
-      "https://news.ycombinator.com/item?id=48234090"
-    ],
-    [
-      "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
-      "https://modelrift.com/blog/openscad-llm-benchmark/"
-    ]
-  ],
-  [
-    [
       "2026-05-21, 16:54:48",
       "https://news.ycombinator.com/item?id=48225782"
     ],
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2026-05-20, 09:03:44",
-      "https://news.ycombinator.com/item?id=48204985"
-    ],
-    [
-      "Blood Pumping Mechanism of the Hoof (2020)",
-      "https://horses.extension.org/blood-pumping-mechanism-of-the-hoof/"
-    ]
-  ],
-  [
-    [
       "2026-05-20, 03:55:58",
       "https://news.ycombinator.com/item?id=48202909"
     ],
@@ -281,11 +271,21 @@
   ],
   [
     [
+      "2026-05-19, 20:41:48",
+      "https://news.ycombinator.com/item?id=48199314"
+    ],
+    [
+      "PHP's Oddities",
+      "https://flowtwo.io/post/php%27s-oddities"
+    ]
+  ],
+  [
+    [
       "2026-05-19, 19:56:58",
       "https://news.ycombinator.com/item?id=48198615"
     ],
     [
-      "Solving the \"Zork\" Mystery",
+      "Solving the “Zork” Mystery",
       "https://www.dpolakovic.space/blogs/zork-part2"
     ]
   ],
