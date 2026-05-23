@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-05-23](index.md)
 
+* [2026-05-23, 16:24:50](https://news.ycombinator.com/item?id=48248954) - [Reverse engineering circuitry in a Spacelab computer from 1980](https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html)
+* [2026-05-23, 16:02:43](https://news.ycombinator.com/item?id=48248775) - [Italy Cancels Boeing Pegasus Order, Shifting to Airbus A330 MRTT](https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift)
+* [2026-05-23, 15:47:38](https://news.ycombinator.com/item?id=48248659) - [Ebola Outbreak Now Third Largest Recorded and \"Spreading Rapidly\"](https://arstechnica.com/health/2026/05/ebola-outbreak-now-third-largest-recorded-and-spreading-rapidly/)
 * [2026-05-23, 14:55:59](https://news.ycombinator.com/item?id=48248238) - [Lisp in Vim (2019)](https://susam.net/lisp-in-vim.html)
 * [2026-05-23, 14:25:30](https://news.ycombinator.com/item?id=48248014) - [z386: An Open-Source 80386 Built Around Original Microcode](https://nand2mario.github.io/posts/2026/z386/)
 * [2026-05-23, 14:09:57](https://news.ycombinator.com/item?id=48247876) - [Oura says it gets government demands for user data. Will it share how many?](https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/)
