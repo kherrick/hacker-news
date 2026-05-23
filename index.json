@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-05-23, 18:45:37",
+      "https://news.ycombinator.com/item?id=48250144"
+    ],
+    [
+      "It's time to talk about my writerdeck",
+      "https://veronicaexplains.net/my-first-writerdeck/"
+    ]
+  ],
+  [
+    [
       "2026-05-23, 18:02:42",
       "https://news.ycombinator.com/item?id=48249747"
     ],
@@ -71,16 +81,6 @@
   ],
   [
     [
-      "2026-05-23, 13:57:02",
-      "https://news.ycombinator.com/item?id=48247737"
-    ],
-    [
-      "The FBI Wants 'Near Real-Time' Access to US License Plate Readers",
-      "https://www.wired.com/story/security-news-this-week-fbi-license-plate-reader-real-time-access/"
-    ]
-  ],
-  [
-    [
       "2026-05-23, 13:03:43",
       "https://news.ycombinator.com/item?id=48247325"
     ],
@@ -141,22 +141,22 @@
   ],
   [
     [
-      "2026-05-23, 08:24:57",
-      "https://news.ycombinator.com/item?id=48245862"
-    ],
-    [
-      "BambuStudio has been violating PrusaSlicer AGPL license since their fork",
-      "https://xcancel.com/josefprusa/status/2054602354851254330"
-    ]
-  ],
-  [
-    [
       "2026-05-23, 06:32:00",
       "https://news.ycombinator.com/item?id=48245262"
     ],
     [
       "Rubish: A Unix shell written in pure Ruby",
       "https://github.com/amatsuda/rubish"
+    ]
+  ],
+  [
+    [
+      "2026-05-22, 23:41:55",
+      "https://news.ycombinator.com/item?id=48242959"
+    ],
+    [
+      "SpaceX launches Starship v3 rocket",
+      "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-v3-megarocket-first-test-flight"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2026-05-22, 17:32:04",
-      "https://news.ycombinator.com/item?id=48238896"
-    ],
-    [
-      "Microsoft starts canceling Claude Code licenses",
-      "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad"
-    ]
-  ],
-  [
-    [
       "2026-05-22, 15:22:04",
       "https://news.ycombinator.com/item?id=48237163"
     ],
@@ -231,22 +221,22 @@
   ],
   [
     [
+      "2026-05-21, 15:41:18",
+      "https://news.ycombinator.com/item?id=48224623"
+    ],
+    [
+      "Reflections on Building Forum Software",
+      "https://www.counting-stuff.com/reflections-on-building-forum-software/"
+    ]
+  ],
+  [
+    [
       "2026-05-21, 13:48:29",
       "https://news.ycombinator.com/item?id=48222492"
     ],
     [
       "Highest Random Weight in Elixir",
       "https://jola.dev/posts/highest-random-weight-in-elixir"
-    ]
-  ],
-  [
-    [
-      "2026-05-21, 09:14:13",
-      "https://news.ycombinator.com/item?id=48219853"
-    ],
-    [
-      "AI Engineering from Scratch",
-      "https://aiengineeringfromscratch.com"
     ]
   ],
   [
@@ -261,12 +251,12 @@
   ],
   [
     [
-      "2026-05-20, 12:06:56",
-      "https://news.ycombinator.com/item?id=48206387"
+      "2026-05-20, 13:05:46",
+      "https://news.ycombinator.com/item?id=48207043"
     ],
     [
-      "The quadratic sandwich",
-      "https://fedemagnani.github.io/math/2026/04/08/the-quadratic-sandwich.html"
+      "sp.h: Fixing C by giving it a high quality, ultra portable standard library",
+      "https://spader.zone/sp/"
     ]
   ],
   [
@@ -291,12 +281,22 @@
   ],
   [
     [
-      "2026-05-19, 16:55:17",
-      "https://news.ycombinator.com/item?id=48195941"
+      "2026-05-19, 18:01:23",
+      "https://news.ycombinator.com/item?id=48196831"
     ],
     [
-      "A 1955 Los Alamos computer experiment changed our understanding of chaos",
-      "https://www.lanl.gov/media/publications/1663/science-of-unpredictability"
+      "We made our filesystem 47× faster by deleting it",
+      "https://microsandbox.dev/blog/oci-filesystem-47x-faster"
+    ]
+  ],
+  [
+    [
+      "2026-05-19, 15:30:01",
+      "https://news.ycombinator.com/item?id=48194645"
+    ],
+    [
+      "Kindle loyalists scramble as Amazon turns page on old e-readers",
+      "https://www.reuters.com/business/retail-consumer/kindle-loyalists-scramble-amazon-turns-page-old-e-readers-2026-05-19/"
     ]
   ]
 ]
