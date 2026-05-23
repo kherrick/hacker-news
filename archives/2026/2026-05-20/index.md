@@ -54,6 +54,7 @@
 * [2026-05-20, 12:43:41](https://news.ycombinator.com/item?id=48206768) - [Meta blocks human rights accounts from reaching audiences in Arabia and the UAE](https://www.alqst.org/ar/posts/1190)
 * [2026-05-20, 12:42:46](https://news.ycombinator.com/item?id=48206763) - [Neutron scattering explains why gluten-free pasta falls apart (2025)](https://phys.org/news/2025-09-science-spaghetti-neutron-gluten-free.html)
 * [2026-05-20, 12:30:58](https://news.ycombinator.com/item?id=48206640) - [Anna's Archive Hit with $19.5M Default Judgment and Global Domain Takedown Order](https://torrentfreak.com/annas-archive-hit-with-19-5m-default-judgment-and-global-domain-takedown-order/)
+* [2026-05-20, 12:22:31](https://news.ycombinator.com/item?id=48206543) - [New map reveals lost roads of the Roman Empire](https://www.scientificamerican.com/article/new-high-resolution-map-transforms-what-we-know-about-roman-roads-and-the-roman-empire/)
 * [2026-05-20, 12:06:56](https://news.ycombinator.com/item?id=48206387) - [The Quadratic Sandwich](https://fedemagnani.github.io/math/2026/04/08/the-quadratic-sandwich.html)
 * [2026-05-20, 12:01:56](https://news.ycombinator.com/item?id=48206340) - [Saying Goodbye to Asm.js](https://spidermonkey.dev/blog/2026/05/20/saying-goodbye-to-asmjs.html)
 * [2026-05-20, 11:58:24](https://news.ycombinator.com/item?id=48206313) - [Comparing an LZ4 Decompressor on Four Legacy CPUs](https://bumbershootsoft.wordpress.com/2026/05/09/comparing-an-lz4-decompressor-on-four-legacy-cpus/)

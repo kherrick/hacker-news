@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-05-23](index.md)
 
+* [2026-05-23, 22:09:05](https://news.ycombinator.com/item?id=48252060) - [CA declares state of emergency as fire crews race to contain toxic chemical leak](https://www.bbc.com/news/articles/c3w2l249j8go)
 * [2026-05-23, 21:08:38](https://news.ycombinator.com/item?id=48251553) - [Software Engineering at the Tipping Point](https://io.google/2026/explore/workshop-2)
+* [2026-05-23, 21:06:37](https://news.ycombinator.com/item?id=48251528) - [A self-powered computer in actual credit-card size (~1mm thick)](https://old.reddit.com/r/electronics/comments/1td7yxl/i_built_a_fully_selfpowered_computer_in_actual/)
 * [2026-05-23, 20:36:42](https://news.ycombinator.com/item?id=48251229) - [Pardon MIE?](https://ironpeak.be/blog/bypassing-apple-mie/)
 * [2026-05-23, 18:45:37](https://news.ycombinator.com/item?id=48250144) - [It's time to talk about my writerdeck](https://veronicaexplains.net/my-first-writerdeck/)
 * [2026-05-23, 18:02:42](https://news.ycombinator.com/item?id=48249747) - [Texas woman arrested for Facebook post about town water quality](https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality)
@@ -22,6 +24,7 @@
 * [2026-05-23, 12:35:28](https://news.ycombinator.com/item?id=48247127) - [I Miss Terry Pratchett](https://www.mahl.me/blog/the-spell-that-wouldnt-leave/)
 * [2026-05-23, 12:11:43](https://news.ycombinator.com/item?id=48247004) - [80386 Microcode Disassembled](https://www.reenigne.org/blog/80386-microcode-disassembled/)
 * [2026-05-23, 11:54:39](https://news.ycombinator.com/item?id=48246917) - [Electrobun 2.0 will be decoupled from Bun due to the rust rewrite](https://twitter.com/i/status/2058064720553222567)
+* [2026-05-23, 11:54:39](https://news.ycombinator.com/item?id=48246917) - [Electrobun 2.0 will be decoupled from Bun due to the Rust rewrite](https://twitter.com/YoavCodes/status/2058064720553222567)
 * [2026-05-23, 11:50:22](https://news.ycombinator.com/item?id=48246889) - [Making Deep Learning Go Brrrr from First Principles](https://horace.io/brrr_intro.html)
 * [2026-05-23, 11:18:23](https://news.ycombinator.com/item?id=48246735) - [DHS Quits Granting Green Cards–Almost](https://www.cato.org/blog/dhs-quits-granting-green-cards-almost-entirely)
 * [2026-05-23, 10:57:14](https://news.ycombinator.com/item?id=48246614) - [US tech firms share Dutch regulator officials' names with Senate](https://www.dutchnews.nl/2026/05/us-tech-firms-share-dutch-regulator-officials-names-with-senate/)
