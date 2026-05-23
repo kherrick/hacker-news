@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-05-23](index.md)
 
+* [2026-05-23, 18:02:42](https://news.ycombinator.com/item?id=48249747) - [Texas woman arrested for Facebook post about town water quality](https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality)
 * [2026-05-23, 16:24:50](https://news.ycombinator.com/item?id=48248954) - [Reverse engineering circuitry in a Spacelab computer from 1980](https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html)
+* [2026-05-23, 16:13:22](https://news.ycombinator.com/item?id=48248861) - [Evaluating Spec CPU2026](https://chipsandcheese.com/p/evaluating-spec-cpu2026)
 * [2026-05-23, 16:06:25](https://news.ycombinator.com/item?id=48248801) - [Show HN: I built a RAG and knowledge graph agent that runs locally](https://news.ycombinator.com/item?id=48248801)
 * [2026-05-23, 16:02:43](https://news.ycombinator.com/item?id=48248775) - [Italy Cancels Boeing Pegasus Order, Shifting to Airbus A330 MRTT](https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift)
 * [2026-05-23, 15:47:38](https://news.ycombinator.com/item?id=48248659) - [Ebola Outbreak Now Third Largest Recorded and \"Spreading Rapidly\"](https://arstechnica.com/health/2026/05/ebola-outbreak-now-third-largest-recorded-and-spreading-rapidly/)

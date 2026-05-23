@@ -10,6 +10,7 @@
 * [2026-05-20, 21:41:54](https://news.ycombinator.com/item?id=48214558) - [Starship's Twelfth Flight Test](https://www.spacex.com/launches/starship-flight-12)
 * [2026-05-20, 21:33:18](https://news.ycombinator.com/item?id=48214449) - [Google Declaring War on the Web](https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/)
 * [2026-05-20, 21:28:28](https://news.ycombinator.com/item?id=48214399) - [Show HN: CPU-only transcription for YouTube, TikTok, X, Instagram videos](https://github.com/kouhxp/yapsnap)
+* [2026-05-20, 21:21:14](https://news.ycombinator.com/item?id=48214311) - [My two-part desk setup](https://arslan.io/2025/11/18/my-two-part-desk-setup/)
 * [2026-05-20, 21:14:03](https://news.ycombinator.com/item?id=48214215) - [GitHub's take on age assurance for developers](https://github.blog/news-insights/policy-news-and-insights/why-age-assurance-laws-matter-for-developers/)
 * [2026-05-20, 21:11:55](https://news.ycombinator.com/item?id=48214188) - [PopuLoRA: Co-Evolving LLM Populations for Reasoning Self- Play](https://vmax.ai/team/populora-co-evolving-llm-populations-for-reasoning-self-play)
 * [2026-05-20, 20:56:30](https://news.ycombinator.com/item?id=48214025) - [What is the history of the ERROR_ARENA_TRASHED error code?](https://devblogs.microsoft.com/oldnewthing/20260519-00/?p=112339)
