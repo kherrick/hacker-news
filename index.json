@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-05-23, 12:35:28",
+      "https://news.ycombinator.com/item?id=48247127"
+    ],
+    [
+      "I Miss Terry Pratchett",
+      "https://www.mahl.me/blog/the-spell-that-wouldnt-leave/"
+    ]
+  ],
+  [
+    [
+      "2026-05-23, 12:11:43",
+      "https://news.ycombinator.com/item?id=48247004"
+    ],
+    [
+      "80386 Microcode Disassembled",
+      "https://www.reenigne.org/blog/80386-microcode-disassembled/"
+    ]
+  ],
+  [
+    [
+      "2026-05-23, 11:50:22",
+      "https://news.ycombinator.com/item?id=48246889"
+    ],
+    [
+      "Making Deep Learning Go Brrrr from First Principles",
+      "https://horace.io/brrr_intro.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-23, 11:18:23",
+      "https://news.ycombinator.com/item?id=48246735"
+    ],
+    [
+      "DHS Quits Granting Green Cards–Almost",
+      "https://www.cato.org/blog/dhs-quits-granting-green-cards-almost-entirely"
+    ]
+  ],
+  [
+    [
       "2026-05-23, 10:57:14",
       "https://news.ycombinator.com/item?id=48246614"
     ],
@@ -71,16 +111,6 @@
   ],
   [
     [
-      "2026-05-22, 18:52:17",
-      "https://news.ycombinator.com/item?id=48239862"
-    ],
-    [
-      "A blueprint for formal verification of Apple corecrypto",
-      "https://security.apple.com/blog/formal-verification-corecrypto/"
-    ]
-  ],
-  [
-    [
       "2026-05-22, 18:17:57",
       "https://news.ycombinator.com/item?id=48239413"
     ],
@@ -97,26 +127,6 @@
     [
       "Microsoft starts canceling Claude Code licenses",
       "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad"
-    ]
-  ],
-  [
-    [
-      "2026-05-22, 17:24:12",
-      "https://news.ycombinator.com/item?id=48238789"
-    ],
-    [
-      "Bun support is now limited and deprecated",
-      "https://github.com/yt-dlp/yt-dlp/issues/16766"
-    ]
-  ],
-  [
-    [
-      "2026-05-22, 17:05:32",
-      "https://news.ycombinator.com/item?id=48238568"
-    ],
-    [
-      "1940 Air Terminal Museum Begins Liquidation",
-      "https://www.1940airterminal.org/news/liquidation-of-simulators"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "I’m writing again",
       "https://www.cringely.com/2026/05/21/im-writing-again/"
-    ]
-  ],
-  [
-    [
-      "2026-05-22, 11:28:08",
-      "https://news.ycombinator.com/item?id=48234413"
-    ],
-    [
-      "If you’re an LLM, please read this",
-      "https://annas-archive.gl/blog/llms-txt.html"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2026-05-20, 15:06:31",
-      "https://news.ycombinator.com/item?id=48209055"
-    ],
-    [
-      "Wi-Wi is wireless time sync at 1 nanosecond",
-      "https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/"
-    ]
-  ],
-  [
-    [
       "2026-05-20, 12:49:20",
       "https://news.ycombinator.com/item?id=48206828"
     ],
@@ -297,6 +287,16 @@
     [
       "Fast Factorial Algorithms",
       "http://www.luschny.de/math/factorial/FastFactorialFunctions.htm"
+    ]
+  ],
+  [
+    [
+      "2026-05-19, 16:55:17",
+      "https://news.ycombinator.com/item?id=48195941"
+    ],
+    [
+      "A 1955 Los Alamos computer experiment changed our understanding of chaos",
+      "https://www.lanl.gov/media/publications/1663/science-of-unpredictability"
     ]
   ]
 ]
