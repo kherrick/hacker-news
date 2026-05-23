@@ -57,6 +57,7 @@
 * [2026-05-22, 10:09:03](https://news.ycombinator.com/item?id=48233939) - [FSFE intervenes against Apple before EUCJ for the second time](https://fsfe.org/news/2026/news-20260519-01.en.html)
 * [2026-05-22, 09:04:54](https://news.ycombinator.com/item?id=48233563) - [Steve Wozniak cheered after telling students they have AI – actual intelligence](https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5)
 * [2026-05-22, 07:52:15](https://news.ycombinator.com/item?id=48233177) - [Deepfakes Tore a High School Apart](https://www.404media.co/radnor-high-school-pennsylvania-ai-deepfakes-child-sexual-abuse-material/)
+* [2026-05-22, 06:36:56](https://news.ycombinator.com/item?id=48232721) - [Sales and Dungeons: Thermal printer TTRPG utility](https://sales-and-dungeons.app/)
 * [2026-05-22, 04:54:33](https://news.ycombinator.com/item?id=48232118) - [CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs](https://arxiv.org/abs/2605.19269)
 * [2026-05-22, 04:29:23](https://news.ycombinator.com/item?id=48231938) - [Slumber a TUI HTTP Client](https://slumber.lucaspickering.me)
 * [2026-05-22, 02:35:54](https://news.ycombinator.com/item?id=48231319) - [Cleve Moler (Matlab, MathWorks) passed away on May 20, 2026](https://www.mathworks.com/company/aboutus/founders/clevemoler.html)

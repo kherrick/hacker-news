@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-05-23](index.md)
 
+* [2026-05-23, 23:13:42](https://news.ycombinator.com/item?id=48252535) - [My I3-Emacs Integration](https://khz.ac/software/i3-integration.html)
+* [2026-05-23, 22:57:51](https://news.ycombinator.com/item?id=48252442) - [Bun.Image](https://bun.com/docs/runtime/image)
+* [2026-05-23, 22:25:05](https://news.ycombinator.com/item?id=48252192) - [Don't Roll Your Own](https://susam.net/do-not-roll-your-own.html)
+* [2026-05-23, 22:19:36](https://news.ycombinator.com/item?id=48252146) - [Byrne's Euclid](https://www.c82.net/euclid/)
 * [2026-05-23, 22:09:05](https://news.ycombinator.com/item?id=48252060) - [CA declares state of emergency as fire crews race to contain toxic chemical leak](https://www.bbc.com/news/articles/c3w2l249j8go)
 * [2026-05-23, 21:08:38](https://news.ycombinator.com/item?id=48251553) - [Software Engineering at the Tipping Point](https://io.google/2026/explore/workshop-2)
 * [2026-05-23, 21:06:37](https://news.ycombinator.com/item?id=48251528) - [A self-powered computer in actual credit-card size (~1mm thick)](https://old.reddit.com/r/electronics/comments/1td7yxl/i_built_a_fully_selfpowered_computer_in_actual/)
@@ -23,6 +27,7 @@
 * [2026-05-23, 12:48:02](https://news.ycombinator.com/item?id=48247208) - [The Art of Money Getting](https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/)
 * [2026-05-23, 12:35:28](https://news.ycombinator.com/item?id=48247127) - [I Miss Terry Pratchett](https://www.mahl.me/blog/the-spell-that-wouldnt-leave/)
 * [2026-05-23, 12:11:43](https://news.ycombinator.com/item?id=48247004) - [80386 Microcode Disassembled](https://www.reenigne.org/blog/80386-microcode-disassembled/)
+* [2026-05-23, 12:09:05](https://news.ycombinator.com/item?id=48246993) - [Judson's Last Ride](https://www.realclearpolitics.com/articles/2026/05/22/judsons_last_ride_154150.html)
 * [2026-05-23, 11:54:39](https://news.ycombinator.com/item?id=48246917) - [Electrobun 2.0 will be decoupled from Bun due to the rust rewrite](https://twitter.com/i/status/2058064720553222567)
 * [2026-05-23, 11:54:39](https://news.ycombinator.com/item?id=48246917) - [Electrobun 2.0 will be decoupled from Bun due to the Rust rewrite](https://twitter.com/YoavCodes/status/2058064720553222567)
 * [2026-05-23, 11:50:22](https://news.ycombinator.com/item?id=48246889) - [Making Deep Learning Go Brrrr from First Principles](https://horace.io/brrr_intro.html)
