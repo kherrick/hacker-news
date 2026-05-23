@@ -33,6 +33,7 @@
 * [2026-05-21, 14:29:14](https://news.ycombinator.com/item?id=48223258) - [Get your passwords out of Bitwarden while you still can](https://www.osnews.com/story/145029/get-your-passwords-out-of-bitwarden-while-you-still-can/)
 * [2026-05-21, 14:01:37](https://news.ycombinator.com/item?id=48222733) - [Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)](https://blog.simbastack.com/indexed-a-year-of-video-locally/)
 * [2026-05-21, 13:50:59](https://news.ycombinator.com/item?id=48222529) - [Google's Antigravity Bait and Switch](https://www.0xsid.com/blog/antigravity-bait-n-switch)
+* [2026-05-21, 13:48:29](https://news.ycombinator.com/item?id=48222492) - [Highest Random Weight in Elixir](https://jola.dev/posts/highest-random-weight-in-elixir)
 * [2026-05-21, 13:38:12](https://news.ycombinator.com/item?id=48222383) - [AI is just unauthorised plagiarism at a bigger scale](https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/)
 * [2026-05-21, 13:36:06](https://news.ycombinator.com/item?id=48222366) - [Hating AI Is Good](https://www.thehandbasket.co/p/hating-ai-is-good-actually)
 * [2026-05-21, 13:25:41](https://news.ycombinator.com/item?id=48222241) - [US employers spend more than $1.5B a year to fight labor unions, report finds](https://www.theguardian.com/us-news/2026/may/20/how-much-companies-spend-fight-unions)

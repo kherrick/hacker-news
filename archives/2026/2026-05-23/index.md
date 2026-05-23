@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-05-23](index.md)
 
+* [2026-05-23, 14:55:59](https://news.ycombinator.com/item?id=48248238) - [Lisp in Vim (2019)](https://susam.net/lisp-in-vim.html)
+* [2026-05-23, 14:25:30](https://news.ycombinator.com/item?id=48248014) - [z386: An Open-Source 80386 Built Around Original Microcode](https://nand2mario.github.io/posts/2026/z386/)
+* [2026-05-23, 14:09:57](https://news.ycombinator.com/item?id=48247876) - [Oura says it gets government demands for user data. Will it share how many?](https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/)
+* [2026-05-23, 13:57:02](https://news.ycombinator.com/item?id=48247737) - [The FBI Wants 'Near Real-Time' Access to US License Plate Readers](https://www.wired.com/story/security-news-this-week-fbi-license-plate-reader-real-time-access/)
 * [2026-05-23, 13:03:43](https://news.ycombinator.com/item?id=48247325) - [On The <dl>](https://benmyers.dev/blog/on-the-dl/)
+* [2026-05-23, 12:48:02](https://news.ycombinator.com/item?id=48247208) - [The Art of Money Getting](https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/)
 * [2026-05-23, 12:35:28](https://news.ycombinator.com/item?id=48247127) - [I Miss Terry Pratchett](https://www.mahl.me/blog/the-spell-that-wouldnt-leave/)
 * [2026-05-23, 12:11:43](https://news.ycombinator.com/item?id=48247004) - [80386 Microcode Disassembled](https://www.reenigne.org/blog/80386-microcode-disassembled/)
 * [2026-05-23, 11:54:39](https://news.ycombinator.com/item?id=48246917) - [Electrobun 2.0 will be decoupled from Bun due to the rust rewrite](https://twitter.com/i/status/2058064720553222567)
