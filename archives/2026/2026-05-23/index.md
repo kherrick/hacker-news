@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-23](index.md)
 
+* [2026-05-23, 10:57:14](https://news.ycombinator.com/item?id=48246614) - [US tech firms share Dutch regulator officials' names with Senate](https://www.dutchnews.nl/2026/05/us-tech-firms-share-dutch-regulator-officials-names-with-senate/)
 * [2026-05-23, 08:24:57](https://news.ycombinator.com/item?id=48245862) - [BambuStudio has been violating PrusaSlicer AGPL license since their fork](https://xcancel.com/josefprusa/status/2054602354851254330)
 * [2026-05-23, 07:34:33](https://news.ycombinator.com/item?id=48245571) - [Experience: We found a baby on the subway – now he's our 26-year-old son](https://www.theguardian.com/lifeandstyle/2026/may/22/experience-found-baby-subway-now-26-year-old-son)
 * [2026-05-23, 06:54:49](https://news.ycombinator.com/item?id=48245362) - [Spanish Court Declines to Fine NordVPN over LaLiga Piracy Blocking Order](https://torrentfreak.com/spanish-court-declines-to-fine-nordvpn-over-laliga-piracy-blocking-order/)

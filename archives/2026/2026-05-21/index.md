@@ -19,6 +19,7 @@
 * [2026-05-21, 17:14:56](https://news.ycombinator.com/item?id=48226038) - [Chewing gum restores dad's taste and smell years after Covid](https://discover.swns.com/2026/05/chewing-gum-restores-dads-taste-and-smell-years-after-covid/)
 * [2026-05-21, 17:00:52](https://news.ycombinator.com/item?id=48225852) - [ParadeDB (YC S23) Is Hiring Distributed Systems/Platform Engineers](https://news.ycombinator.com/item?id=48225852)
 * [2026-05-21, 16:59:27](https://news.ycombinator.com/item?id=48225838) - [More than 340 local news outlets are limiting the Internet Archive's access](https://www.niemanlab.org/2026/05/more-than-340-local-news-outlets-are-limiting-the-internet-archives-access-to-their-journalism/)
+* [2026-05-21, 16:54:48](https://news.ycombinator.com/item?id=48225782) - [Improving C# Memory Safety](https://devblogs.microsoft.com/dotnet/improving-csharp-memory-safety/)
 * [2026-05-21, 16:42:34](https://news.ycombinator.com/item?id=48225596) - [Show HN: Agent.email – sign up via curl, claim with a human OTP](https://news.ycombinator.com/item?id=48225596)
 * [2026-05-21, 16:35:01](https://news.ycombinator.com/item?id=48225489) - [London Mayor Blocks Palantir](https://www.theguardian.com/uk-news/2026/may/21/london-mayor-sadiq-khan-blocks-met-police-deal-with-palantir)
 * [2026-05-21, 16:30:47](https://news.ycombinator.com/item?id=48225426) - [Waymo pauses Atlanta service as its robotaxis keep driving into floods](https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/)
