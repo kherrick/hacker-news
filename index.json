@@ -1,22 +1,12 @@
 [
   [
     [
-      "2026-05-23, 03:44:16",
-      "https://news.ycombinator.com/item?id=48244434"
+      "2026-05-23, 06:54:49",
+      "https://news.ycombinator.com/item?id=48245362"
     ],
     [
-      "Microsoft reports AI is more expensive than paying human employees",
-      "https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/"
-    ]
-  ],
-  [
-    [
-      "2026-05-23, 03:09:55",
-      "https://news.ycombinator.com/item?id=48244220"
-    ],
-    [
-      "New rule requires most green-card applicants to apply from outside U.S.",
-      "https://www.washingtonpost.com/immigration/2026/05/22/new-rule-requires-most-green-card-applicants-apply-outside-us/"
+      "Spanish Court Declines to Fine NordVPN over LaLiga Piracy Blocking Order",
+      "https://torrentfreak.com/spanish-court-declines-to-fine-nordvpn-over-laliga-piracy-blocking-order/"
     ]
   ],
   [
@@ -27,16 +17,6 @@
     [
       "FBI director's Based Apparel site has been spotted hosting a 'ClickFix' attack",
       "https://www.pcmag.com/news/kash-patels-apparel-site-is-trying-to-trick-visitors-into-installing-malware"
-    ]
-  ],
-  [
-    [
-      "2026-05-22, 23:41:55",
-      "https://news.ycombinator.com/item?id=48242959"
-    ],
-    [
-      "SpaceX launches Starship v3 rocket",
-      "https://www.nbcnews.com/now/video/spacex-successfully-launches-prototype-of-starship-rocket-263835205505"
     ]
   ],
   [
@@ -61,11 +41,21 @@
   ],
   [
     [
+      "2026-05-22, 20:26:07",
+      "https://news.ycombinator.com/item?id=48241172"
+    ],
+    [
+      "Models.dev: open-source database of AI model specs, pricing, and capabilities",
+      "https://github.com/anomalyco/models.dev"
+    ]
+  ],
+  [
+    [
       "2026-05-22, 19:49:57",
       "https://news.ycombinator.com/item?id=48240679"
     ],
     [
-      "GitHub introduces staged publishing and new install-time controls for NPM",
+      "Staged publishing and new install-time controls for npm",
       "https://github.blog/changelog/2026-05-22-staged-publishing-and-new-install-time-controls-for-npm/"
     ]
   ],
@@ -77,16 +67,6 @@
     [
       "Project Glasswing: An Initial Update",
       "https://www.anthropic.com/research/glasswing-initial-update"
-    ]
-  ],
-  [
-    [
-      "2026-05-22, 19:25:35",
-      "https://news.ycombinator.com/item?id=48240331"
-    ],
-    [
-      "Waymo expands pause to four cities as robotaxis keep driving into floods",
-      "https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/"
     ]
   ],
   [
@@ -107,6 +87,16 @@
     [
       "Open source Kanban desktop app that runs parallel agents on every card",
       "https://www.kanbots.dev/"
+    ]
+  ],
+  [
+    [
+      "2026-05-22, 17:32:04",
+      "https://news.ycombinator.com/item?id=48238896"
+    ],
+    [
+      "Microsoft starts canceling Claude Code licenses",
+      "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad"
     ]
   ],
   [
@@ -271,6 +261,16 @@
   ],
   [
     [
+      "2026-05-20, 12:06:56",
+      "https://news.ycombinator.com/item?id=48206387"
+    ],
+    [
+      "The Quadratic Sandwich",
+      "https://fedemagnani.github.io/math/2026/04/08/the-quadratic-sandwich.html"
+    ]
+  ],
+  [
+    [
       "2026-05-20, 11:58:24",
       "https://news.ycombinator.com/item?id=48206313"
     ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=48204985"
     ],
     [
-      "Blood Pumping Mechanism of the Hoof",
+      "Blood Pumping Mechanism of the Hoof (2020)",
       "https://horses.extension.org/blood-pumping-mechanism-of-the-hoof/"
     ]
   ]
