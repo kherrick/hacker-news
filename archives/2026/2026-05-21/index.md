@@ -51,6 +51,7 @@
 * [2026-05-21, 09:22:00](https://news.ycombinator.com/item?id=48219918) - [Show HN: Rmux – A programmable terminal multiplexer with a Playwright-style SDK](https://github.com/helvesec/rmux)
 * [2026-05-21, 08:01:53](https://news.ycombinator.com/item?id=48219340) - [Typewise (YC S22) Is Hiring an AI Growth Engineer (Zurich or Remote)](https://www.ycombinator.com/companies/typewise/jobs/HmCzfBK-ai-growth-engineer)
 * [2026-05-21, 07:21:55](https://news.ycombinator.com/item?id=48219060) - [Vivaldi 8.0](https://vivaldi.com/blog/vivaldi-on-desktop-8-0/)
+* [2026-05-21, 04:18:53](https://news.ycombinator.com/item?id=48217823) - [YAML? That's Norway Problem](https://lab174.com/blog/202601-yaml-norway/)
 * [2026-05-21, 02:24:35](https://news.ycombinator.com/item?id=48217052) - [OpenAI to confidentially file for IPO as soon as Friday](https://www.cnbc.com/2026/05/20/openai-ipo-filing.html)
 * [2026-05-21, 02:13:23](https://news.ycombinator.com/item?id=48216983) - [Haskell Foundation 2026 Update](https://discourse.haskell.org/t/haskell-foundation-2026-update/14136)
 * [2026-05-21, 01:20:52](https://news.ycombinator.com/item?id=48216619) - [What is Demand Coop and why tech workers should join one](https://cahootzcoops.com/blog/what-is-a-demand-coop)

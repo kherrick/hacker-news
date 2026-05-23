@@ -57,6 +57,7 @@
 * [2026-05-20, 10:28:05](https://news.ycombinator.com/item?id=48205580) - [No way to parse integers in C (2022)](https://blog.habets.se/2022/10/No-way-to-parse-integers-in-C.html)
 * [2026-05-20, 10:04:28](https://news.ycombinator.com/item?id=48205415) - [Learnings from 100K lines of Rust with AI (2025)](https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html)
 * [2026-05-20, 09:09:40](https://news.ycombinator.com/item?id=48205026) - [The weird, wild story of humanity's obsession with gold](https://www.economist.com/culture/2026/05/14/the-weird-wild-story-of-humanitys-obsession-with-gold)
+* [2026-05-20, 09:03:44](https://news.ycombinator.com/item?id=48204985) - [Blood Pumping Mechanism of the Hoof](https://horses.extension.org/blood-pumping-mechanism-of-the-hoof/)
 * [2026-05-20, 08:37:55](https://news.ycombinator.com/item?id=48204770) - [Incident Report: May 19, 2026 – GCP Account Suspension](https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage)
 * [2026-05-20, 06:07:22](https://news.ycombinator.com/item?id=48203698) - [Everything in C is undefined behavior](https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html)
 * [2026-05-20, 05:43:51](https://news.ycombinator.com/item?id=48203536) - [Infomaniak transitions to a foundation model to protect user data privacy](https://news.infomaniak.com/en/infomaniak-foundation-sovereign-cloud/)
