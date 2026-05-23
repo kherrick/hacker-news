@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-23](index.md)
 
+* [2026-05-23, 21:08:38](https://news.ycombinator.com/item?id=48251553) - [Software Engineering at the Tipping Point](https://io.google/2026/explore/workshop-2)
+* [2026-05-23, 20:36:42](https://news.ycombinator.com/item?id=48251229) - [Pardon MIE?](https://ironpeak.be/blog/bypassing-apple-mie/)
 * [2026-05-23, 18:45:37](https://news.ycombinator.com/item?id=48250144) - [It's time to talk about my writerdeck](https://veronicaexplains.net/my-first-writerdeck/)
 * [2026-05-23, 18:02:42](https://news.ycombinator.com/item?id=48249747) - [Texas woman arrested for Facebook post about town water quality](https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality)
 * [2026-05-23, 16:24:50](https://news.ycombinator.com/item?id=48248954) - [Reverse engineering circuitry in a Spacelab computer from 1980](https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html)

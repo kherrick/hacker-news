@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-05-23, 21:08:38](https://news.ycombinator.com/item?id=48251553) - [Software Engineering at the Tipping Point](https://io.google/2026/explore/workshop-2)
+* [2026-05-23, 20:36:42](https://news.ycombinator.com/item?id=48251229) - [Pardon MIE?](https://ironpeak.be/blog/bypassing-apple-mie/)
 * [2026-05-23, 18:45:37](https://news.ycombinator.com/item?id=48250144) - [It's time to talk about my writerdeck](https://veronicaexplains.net/my-first-writerdeck/)
 * [2026-05-23, 18:02:42](https://news.ycombinator.com/item?id=48249747) - [Texas woman arrested for Facebook post about town water quality](https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality)
 * [2026-05-23, 16:24:50](https://news.ycombinator.com/item?id=48248954) - [Reverse engineering circuitry in a Spacelab computer from 1980](https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html)
@@ -20,14 +22,12 @@
 * [2026-05-22, 21:27:12](https://news.ycombinator.com/item?id=48241890) - [Green card seekers must leave U.S. to apply, Trump administration says](https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html)
 * [2026-05-22, 20:39:42](https://news.ycombinator.com/item?id=48241335) - [Hengefinder: Finding When the Sun Aligns with Your Street](https://victoriaritvo.com/blog/hengefinder/)
 * [2026-05-22, 19:31:45](https://news.ycombinator.com/item?id=48240419) - [Project Glasswing: An Initial Update](https://www.anthropic.com/research/glasswing-initial-update)
-* [2026-05-22, 15:22:04](https://news.ycombinator.com/item?id=48237163) - [Why Japanese companies do so many different things](https://davidoks.blog/p/why-japanese-companies-do-so-many)
-* [2026-05-21, 16:54:48](https://news.ycombinator.com/item?id=48225782) - [Improving C# Memory Safety](https://devblogs.microsoft.com/dotnet/improving-csharp-memory-safety/)
+* [2026-05-22, 12:28:50](https://news.ycombinator.com/item?id=48234954) - [dotNET (OK, C#) gets union types](https://andrewlock.net/exploring-the-dotnet-11-preview-2-dotnet-gets-union-types/)
 * [2026-05-21, 15:41:18](https://news.ycombinator.com/item?id=48224623) - [Reflections on Building Forum Software](https://www.counting-stuff.com/reflections-on-building-forum-software/)
 * [2026-05-21, 13:48:29](https://news.ycombinator.com/item?id=48222492) - [Highest Random Weight in Elixir](https://jola.dev/posts/highest-random-weight-in-elixir)
 * [2026-05-20, 21:21:14](https://news.ycombinator.com/item?id=48214311) - [My two-part desk setup](https://arslan.io/2025/11/18/my-two-part-desk-setup/)
 * [2026-05-20, 13:05:46](https://news.ycombinator.com/item?id=48207043) - [sp.h: Fixing C by giving it a high quality, ultra portable standard library](https://spader.zone/sp/)
 * [2026-05-19, 20:41:48](https://news.ycombinator.com/item?id=48199314) - [PHP's Oddities](https://flowtwo.io/post/php%27s-oddities)
-* [2026-05-19, 19:56:58](https://news.ycombinator.com/item?id=48198615) - [Solving the “Zork” Mystery](https://www.dpolakovic.space/blogs/zork-part2)
 * [2026-05-19, 18:01:23](https://news.ycombinator.com/item?id=48196831) - [We made our filesystem 47× faster by deleting it](https://microsandbox.dev/blog/oci-filesystem-47x-faster)
 * [2026-05-19, 15:30:01](https://news.ycombinator.com/item?id=48194645) - [Kindle loyalists scramble as Amazon turns page on old e-readers](https://www.reuters.com/business/retail-consumer/kindle-loyalists-scramble-amazon-turns-page-old-e-readers-2026-05-19/)
 
