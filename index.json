@@ -1,11 +1,51 @@
 [
   [
     [
+      "2026-05-23, 23:13:42",
+      "https://news.ycombinator.com/item?id=48252535"
+    ],
+    [
+      "My I3-Emacs Integration",
+      "https://khz.ac/software/i3-integration.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-23, 22:57:51",
+      "https://news.ycombinator.com/item?id=48252442"
+    ],
+    [
+      "Bun.Image",
+      "https://bun.com/docs/runtime/image"
+    ]
+  ],
+  [
+    [
+      "2026-05-23, 22:25:05",
+      "https://news.ycombinator.com/item?id=48252192"
+    ],
+    [
+      "Don't Roll Your Own",
+      "https://susam.net/do-not-roll-your-own.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-23, 22:19:36",
+      "https://news.ycombinator.com/item?id=48252146"
+    ],
+    [
+      "Byrne's Euclid",
+      "https://www.c82.net/euclid/"
+    ]
+  ],
+  [
+    [
       "2026-05-23, 22:09:05",
       "https://news.ycombinator.com/item?id=48252060"
     ],
     [
-      "CA declares state of emergency as fire crews race to contain toxic chemical leak",
+      "Toxic chemical leak at a manufacturing facility in Orange County",
       "https://www.bbc.com/news/articles/c3w2l249j8go"
     ]
   ],
@@ -51,42 +91,12 @@
   ],
   [
     [
-      "2026-05-23, 16:13:22",
-      "https://news.ycombinator.com/item?id=48248861"
-    ],
-    [
-      "Evaluating Spec CPU2026",
-      "https://chipsandcheese.com/p/evaluating-spec-cpu2026"
-    ]
-  ],
-  [
-    [
       "2026-05-23, 16:02:43",
       "https://news.ycombinator.com/item?id=48248775"
     ],
     [
       "Italy moves to Airbus A330 tankers",
       "https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift"
-    ]
-  ],
-  [
-    [
-      "2026-05-23, 14:55:59",
-      "https://news.ycombinator.com/item?id=48248238"
-    ],
-    [
-      "Lisp in Vim (2019)",
-      "https://susam.net/lisp-in-vim.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-23, 14:25:30",
-      "https://news.ycombinator.com/item?id=48248014"
-    ],
-    [
-      "z386: An Open-Source 80386 Built Around Original Microcode",
-      "https://nand2mario.github.io/posts/2026/z386/"
     ]
   ],
   [
@@ -125,18 +135,18 @@
       "https://news.ycombinator.com/item?id=48247004"
     ],
     [
-      "80386 Microcode Disassembled",
+      "80386 microcode disassembled",
       "https://www.reenigne.org/blog/80386-microcode-disassembled/"
     ]
   ],
   [
     [
-      "2026-05-23, 11:54:39",
-      "https://news.ycombinator.com/item?id=48246917"
+      "2026-05-23, 12:09:05",
+      "https://news.ycombinator.com/item?id=48246993"
     ],
     [
-      "Electrobun 2.0 will be decoupled from Bun due to the Rust rewrite",
-      "https://twitter.com/YoavCodes/status/2058064720553222567"
+      "Judson's Last Ride",
+      "https://www.realclearpolitics.com/articles/2026/05/22/judsons_last_ride_154150.html"
     ]
   ],
   [
@@ -145,7 +155,7 @@
       "https://news.ycombinator.com/item?id=48246889"
     ],
     [
-      "Making Deep Learning Go Brrrr from First Principles (2022)",
+      "Making deep learning go brrrr from first principles (2022)",
       "https://horace.io/brrr_intro.html"
     ]
   ],
@@ -205,18 +215,8 @@
       "https://news.ycombinator.com/item?id=48241335"
     ],
     [
-      "Hengefinder: Finding When the Sun Aligns with Your Street",
+      "Hengefinder: Finding when the sun aligns with your street",
       "https://victoriaritvo.com/blog/hengefinder/"
-    ]
-  ],
-  [
-    [
-      "2026-05-22, 17:32:04",
-      "https://news.ycombinator.com/item?id=48238896"
-    ],
-    [
-      "Microsoft starts canceling Claude Code licenses",
-      "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad"
     ]
   ],
   [
@@ -225,8 +225,18 @@
       "https://news.ycombinator.com/item?id=48234954"
     ],
     [
-      ".NET (OK, C#) gets union types",
+      ".NET (OK, C#) finally gets union types",
       "https://andrewlock.net/exploring-the-dotnet-11-preview-2-dotnet-gets-union-types/"
+    ]
+  ],
+  [
+    [
+      "2026-05-22, 06:36:56",
+      "https://news.ycombinator.com/item?id=48232721"
+    ],
+    [
+      "Sales and Dungeons: Thermal printer TTRPG utility",
+      "https://sales-and-dungeons.app/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "PHP's Oddities",
       "https://flowtwo.io/post/php%27s-oddities"
-    ]
-  ],
-  [
-    [
-      "2026-05-19, 19:56:58",
-      "https://news.ycombinator.com/item?id=48198615"
-    ],
-    [
-      "Solving the “Zork” Mystery",
-      "https://www.dpolakovic.space/blogs/zork-part2"
     ]
   ],
   [
