@@ -1,22 +1,22 @@
 [
   [
     [
-      "2026-05-23, 21:08:38",
-      "https://news.ycombinator.com/item?id=48251553"
+      "2026-05-23, 22:09:05",
+      "https://news.ycombinator.com/item?id=48252060"
     ],
     [
-      "Software Engineering at the Tipping Point",
-      "https://io.google/2026/explore/workshop-2"
+      "CA declares state of emergency as fire crews race to contain toxic chemical leak",
+      "https://www.bbc.com/news/articles/c3w2l249j8go"
     ]
   ],
   [
     [
-      "2026-05-23, 20:36:42",
-      "https://news.ycombinator.com/item?id=48251229"
+      "2026-05-23, 21:06:37",
+      "https://news.ycombinator.com/item?id=48251528"
     ],
     [
-      "Pardon MIE?",
-      "https://ironpeak.be/blog/bypassing-apple-mie/"
+      "A self-powered computer in actual credit-card size (~1mm thick)",
+      "https://old.reddit.com/r/electronics/comments/1td7yxl/i_built_a_fully_selfpowered_computer_in_actual/"
     ]
   ],
   [
@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=48248775"
     ],
     [
-      "Italy Cancels Boeing Pegasus Order, Shifting to Airbus A330 MRTT",
+      "Italy moves to Airbus A330 tankers",
       "https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift"
     ]
   ],
@@ -136,7 +136,7 @@
     ],
     [
       "Electrobun 2.0 will be decoupled from Bun due to the Rust rewrite",
-      "https://twitter.com/i/status/2058064720553222567"
+      "https://twitter.com/YoavCodes/status/2058064720553222567"
     ]
   ],
   [
@@ -155,8 +155,18 @@
       "https://news.ycombinator.com/item?id=48246232"
     ],
     [
-      "- -dangerously-skip-reading-code",
+      "-​-dangerously-skip-reading-code",
       "https://olano.dev/blog/dangerously-skip/"
+    ]
+  ],
+  [
+    [
+      "2026-05-23, 06:54:49",
+      "https://news.ycombinator.com/item?id=48245362"
+    ],
+    [
+      "Spanish court declines to fine NordVPN over LaLiga piracy blocking order",
+      "https://torrentfreak.com/spanish-court-declines-to-fine-nordvpn-over-laliga-piracy-blocking-order/"
     ]
   ],
   [
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2026-05-22, 21:36:55",
-      "https://news.ycombinator.com/item?id=48241997"
-    ],
-    [
-      "Shipping a laptop to a refugee camp in Uganda",
-      "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda"
-    ]
-  ],
-  [
-    [
       "2026-05-22, 21:27:12",
       "https://news.ycombinator.com/item?id=48241890"
     ],
@@ -211,12 +211,12 @@
   ],
   [
     [
-      "2026-05-22, 19:31:45",
-      "https://news.ycombinator.com/item?id=48240419"
+      "2026-05-22, 17:32:04",
+      "https://news.ycombinator.com/item?id=48238896"
     ],
     [
-      "Project Glasswing: An Initial Update",
-      "https://www.anthropic.com/research/glasswing-initial-update"
+      "Microsoft starts canceling Claude Code licenses",
+      "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad"
     ]
   ],
   [
@@ -225,18 +225,8 @@
       "https://news.ycombinator.com/item?id=48234954"
     ],
     [
-      "dotNET (OK, C#) gets union types",
+      ".NET (OK, C#) gets union types",
       "https://andrewlock.net/exploring-the-dotnet-11-preview-2-dotnet-gets-union-types/"
-    ]
-  ],
-  [
-    [
-      "2026-05-21, 15:41:18",
-      "https://news.ycombinator.com/item?id=48224623"
-    ],
-    [
-      "Reflections on Building Forum Software",
-      "https://www.counting-stuff.com/reflections-on-building-forum-software/"
     ]
   ],
   [
@@ -255,7 +245,7 @@
       "https://news.ycombinator.com/item?id=48214311"
     ],
     [
-      "My two-part desk setup",
+      "My two-part desk setup (2025)",
       "https://arslan.io/2025/11/18/my-two-part-desk-setup/"
     ]
   ],
@@ -271,6 +261,16 @@
   ],
   [
     [
+      "2026-05-20, 12:22:31",
+      "https://news.ycombinator.com/item?id=48206543"
+    ],
+    [
+      "New map reveals lost roads of the Roman Empire",
+      "https://www.scientificamerican.com/article/new-high-resolution-map-transforms-what-we-know-about-roman-roads-and-the-roman-empire/"
+    ]
+  ],
+  [
+    [
       "2026-05-19, 20:41:48",
       "https://news.ycombinator.com/item?id=48199314"
     ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2026-05-19, 18:01:23",
-      "https://news.ycombinator.com/item?id=48196831"
+      "2026-05-19, 19:56:58",
+      "https://news.ycombinator.com/item?id=48198615"
     ],
     [
-      "We made our filesystem 47× faster by deleting it",
-      "https://microsandbox.dev/blog/oci-filesystem-47x-faster"
+      "Solving the “Zork” Mystery",
+      "https://www.dpolakovic.space/blogs/zork-part2"
     ]
   ],
   [
