@@ -23,6 +23,7 @@
 * [2026-05-19, 17:25:33](https://news.ycombinator.com/item?id=48196337) - [CopyFail: From Pod to Host](https://xint.io/blog/copy-fail-pod-to-host)
 * [2026-05-19, 17:22:45](https://news.ycombinator.com/item?id=48196303) - [AI, \"Humanity\", and Dr. Manhattan Syndrome: A Communications Intervention](https://www.personfamiliar.com/p/ai-humanity-and-dr-manhattan-syndrome)
 * [2026-05-19, 17:01:25](https://news.ycombinator.com/item?id=48196020) - [Google I/O](https://io.google/2026/)
+* [2026-05-19, 16:55:17](https://news.ycombinator.com/item?id=48195941) - [A 1955 Los Alamos computer experiment changed our understanding of chaos](https://www.lanl.gov/media/publications/1663/science-of-unpredictability)
 * [2026-05-19, 16:53:01](https://news.ycombinator.com/item?id=48195914) - [Google IO 26 Keynote](https://www.youtube.com/watch?v=wYSncx9zLIU)
 * [2026-05-19, 16:40:27](https://news.ycombinator.com/item?id=48195706) - [KV Sharing, MHC, and Compressed Attention](https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures)
 * [2026-05-19, 16:19:17](https://news.ycombinator.com/item?id=48195387) - [RuView – See through walls with WiFi](https://github.com/ruvnet/RuView)
