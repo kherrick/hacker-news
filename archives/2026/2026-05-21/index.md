@@ -27,6 +27,7 @@
 * [2026-05-21, 16:23:11](https://news.ycombinator.com/item?id=48225297) - [Project Hail Mary – Stellar Navigation Chart](https://valhovey.github.io/gaia-mary/)
 * [2026-05-21, 16:07:13](https://news.ycombinator.com/item?id=48225040) - [Launch HN: Runtime (YC P26) – Sandboxed coding agents for everyone on a team](https://www.runtm.com/)
 * [2026-05-21, 15:50:04](https://news.ycombinator.com/item?id=48224768) - [Museum of Pocket Calculating Devices](https://www.calculators.de/)
+* [2026-05-21, 15:41:18](https://news.ycombinator.com/item?id=48224623) - [Reflections on Building Forum Software](https://www.counting-stuff.com/reflections-on-building-forum-software/)
 * [2026-05-21, 14:50:34](https://news.ycombinator.com/item?id=48223693) - [We Reverse-Engineered Docker Sandbox's Undocumented MicroVM API](https://rivet.dev/blog/2026-02-04-we-reverse-engineered-docker-sandbox-undocumented-microvm-api/)
 * [2026-05-21, 14:34:57](https://news.ycombinator.com/item?id=48223362) - [Show HN: Freenet, a peer-to-peer platform for decentralized apps](https://freenet.org/)
 * [2026-05-21, 14:31:33](https://news.ycombinator.com/item?id=48223303) - [Michael Keating has died](https://www.bigfinish.com/news/v/michael-keating-1947-2026)

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-05-22](index.md)
 
 * [2026-05-22, 23:51:56](https://news.ycombinator.com/item?id=48243021) - [TikTok disproportionately served anti-Democratic videos during the 2024 election](https://www.psypost.org/tiktok-disproportionately-served-anti-democratic-videos-during-the-2024-election-study-finds/)
+* [2026-05-22, 23:41:55](https://news.ycombinator.com/item?id=48242959) - [SpaceX launches Starship v3 rocket](https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-v3-megarocket-first-test-flight)
 * [2026-05-22, 23:41:55](https://news.ycombinator.com/item?id=48242959) - [SpaceX launches Starship v3 rocket](https://www.nbcnews.com/now/video/spacex-successfully-launches-prototype-of-starship-rocket-263835205505)
 * [2026-05-22, 22:05:39](https://news.ycombinator.com/item?id=48242278) - [Sleep research led to a new sleep apnea drug](https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug)
 * [2026-05-22, 21:36:55](https://news.ycombinator.com/item?id=48241997) - [Shipping a Laptop to a Refugee Camp in Uganda](https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda)

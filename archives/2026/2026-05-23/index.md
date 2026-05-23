@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-23](index.md)
 
+* [2026-05-23, 18:45:37](https://news.ycombinator.com/item?id=48250144) - [It's time to talk about my writerdeck](https://veronicaexplains.net/my-first-writerdeck/)
 * [2026-05-23, 18:02:42](https://news.ycombinator.com/item?id=48249747) - [Texas woman arrested for Facebook post about town water quality](https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality)
 * [2026-05-23, 16:24:50](https://news.ycombinator.com/item?id=48248954) - [Reverse engineering circuitry in a Spacelab computer from 1980](https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html)
 * [2026-05-23, 16:13:22](https://news.ycombinator.com/item?id=48248861) - [Evaluating Spec CPU2026](https://chipsandcheese.com/p/evaluating-spec-cpu2026)
