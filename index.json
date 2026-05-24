@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-05-24, 14:27:26",
+      "https://news.ycombinator.com/item?id=48257532"
+    ],
+    [
+      "The seed oil panic is hurting my cardiac patients",
+      "https://www.statnews.com/2026/05/22/seed-oils-healthy-fats-tallow-fact-check-cardiac-health/"
+    ]
+  ],
+  [
+    [
+      "2026-05-24, 14:09:33",
+      "https://news.ycombinator.com/item?id=48257410"
+    ],
+    [
+      "DeepSeek to Make Permanent 75% Discount on Flagship AI Model",
+      "https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model"
+    ]
+  ],
+  [
+    [
+      "2026-05-24, 13:16:33",
+      "https://news.ycombinator.com/item?id=48257058"
+    ],
+    [
+      "Microsoft's 6502 BASIC is now Open Source (2025)",
+      "https://opensource.microsoft.com/blog/2025/09/03/microsoft-open-source-historic-6502-basic/"
+    ]
+  ],
+  [
+    [
+      "2026-05-24, 13:02:06",
+      "https://news.ycombinator.com/item?id=48256953"
+    ],
+    [
+      "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+      "https://esengine.github.io/DeepSeek-Reasonix/"
+    ]
+  ],
+  [
+    [
+      "2026-05-24, 12:55:53",
+      "https://news.ycombinator.com/item?id=48256912"
+    ],
+    [
+      "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+      "https://arxiv.org/abs/2605.06445"
+    ]
+  ],
+  [
+    [
       "2026-05-24, 12:07:34",
       "https://news.ycombinator.com/item?id=48256597"
     ],
@@ -35,18 +85,8 @@
       "https://news.ycombinator.com/item?id=48255593"
     ],
     [
-      "Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI",
+      "Greg Brockman interview [video]",
       "https://fs.blog/knowledge-project-podcast/greg-brockman/"
-    ]
-  ],
-  [
-    [
-      "2026-05-24, 04:51:22",
-      "https://news.ycombinator.com/item?id=48254475"
-    ],
-    [
-      "Amazon Web Services – Four Years and Out",
-      "https://www.adventuresinoss.com/aws-four-years/"
     ]
   ],
   [
@@ -151,42 +191,12 @@
   ],
   [
     [
-      "2026-05-23, 12:11:43",
-      "https://news.ycombinator.com/item?id=48247004"
+      "2026-05-22, 12:13:21",
+      "https://news.ycombinator.com/item?id=48234793"
     ],
     [
-      "80386 microcode disassembled",
-      "https://www.reenigne.org/blog/80386-microcode-disassembled/"
-    ]
-  ],
-  [
-    [
-      "2026-05-23, 12:09:05",
-      "https://news.ycombinator.com/item?id=48246993"
-    ],
-    [
-      "Judson's Last Ride",
-      "https://www.realclearpolitics.com/articles/2026/05/22/judsons_last_ride_154150.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-22, 21:27:12",
-      "https://news.ycombinator.com/item?id=48241890"
-    ],
-    [
-      "Green card seekers must leave U.S. to apply, Trump administration says",
-      "https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-22, 20:39:42",
-      "https://news.ycombinator.com/item?id=48241335"
-    ],
-    [
-      "Hengefinder: Finding when the sun aligns with your street",
-      "https://victoriaritvo.com/blog/hengefinder/"
+      "Predicting the 2026 Bristol Bay and Kodiak Salmon Runs",
+      "https://www.salmonfinder.com/2026/05/13/bristol-bay-kodiak-predictions-2026"
     ]
   ],
   [
@@ -211,22 +221,22 @@
   ],
   [
     [
-      "2026-05-21, 19:32:35",
-      "https://news.ycombinator.com/item?id=48227864"
-    ],
-    [
-      "Schlitz Is Gone, but First It's Getting One Last Hurrah",
-      "https://www.milwaukeemag.com/schlitz-is-gone/"
-    ]
-  ],
-  [
-    [
       "2026-05-21, 15:05:28",
       "https://news.ycombinator.com/item?id=48223997"
     ],
     [
       "I spent 50 hours drawing a line graph",
       "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-21, 07:39:21",
+      "https://news.ycombinator.com/item?id=48219158"
+    ],
+    [
+      "Artificial egg hatched 26 healthy chickens",
+      "https://www.nationalgeographic.com/science/article/artificial-egg-colossal-chickens-moa-dodo"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Converting an Integer to a Decimal String in Under Two Nanoseconds",
       "https://onlinelibrary.wiley.com/doi/10.1002/spe.70079"
-    ]
-  ],
-  [
-    [
-      "2026-05-19, 15:30:01",
-      "https://news.ycombinator.com/item?id=48194645"
-    ],
-    [
-      "Kindle loyalists scramble as Amazon turns page on old e-readers",
-      "https://www.reuters.com/business/retail-consumer/kindle-loyalists-scramble-amazon-turns-page-old-e-readers-2026-05-19/"
     ]
   ]
 ]
