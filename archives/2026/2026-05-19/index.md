@@ -32,6 +32,7 @@
 * [2026-05-19, 16:19:17](https://news.ycombinator.com/item?id=48195387) - [RuView – See through walls with WiFi](https://github.com/ruvnet/RuView)
 * [2026-05-19, 15:54:06](https://news.ycombinator.com/item?id=48195021) - [Show HN: Superlog (YC P26) – Observability that installs itself and fixes bugs](https://superlog.sh/)
 * [2026-05-19, 15:53:38](https://news.ycombinator.com/item?id=48195009) - [I’ve built a virtual museum with nearly every operating system you can think of](https://virtualosmuseum.org/)
+* [2026-05-19, 15:43:51](https://news.ycombinator.com/item?id=48194857) - [Converting an Integer to a Decimal String in Under Two Nanoseconds](https://onlinelibrary.wiley.com/doi/10.1002/spe.70079)
 * [2026-05-19, 15:30:01](https://news.ycombinator.com/item?id=48194645) - [Kindle loyalists scramble as Amazon turns page on old e-readers](https://www.reuters.com/business/retail-consumer/kindle-loyalists-scramble-amazon-turns-page-old-e-readers-2026-05-19/)
 * [2026-05-19, 15:27:53](https://news.ycombinator.com/item?id=48194614) - [Gentoo News: Copy Fail, Dirty Frag, and Fragnesia Kernel Vulnerabilities](https://www.gentoo.org/news/2026/05/19/copy-fail-fragnesia-vulnerabilities.html)
 * [2026-05-19, 15:07:45](https://news.ycombinator.com/item?id=48194352) - [I’ve joined Anthropic](https://twitter.com/karpathy/status/2056753169888334312)

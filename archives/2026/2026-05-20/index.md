@@ -78,6 +78,7 @@
 * [2026-05-20, 04:12:48](https://news.ycombinator.com/item?id=48202993) - [GitHub Compromised](https://twitter.com/i/status/2056949168208552080)
 * [2026-05-20, 03:55:58](https://news.ycombinator.com/item?id=48202909) - [Fast Factorial Algorithms](http://www.luschny.de/math/factorial/FastFactorialFunctions.htm)
 * [2026-05-20, 03:10:30](https://news.ycombinator.com/item?id=48202658) - [Evals will break](https://wanglun1996.github.io/blog/your-evals-will-break.html)
+* [2026-05-20, 01:53:35](https://news.ycombinator.com/item?id=48202129) - [Key, in sight [Creative uses of keyboard shortcuts and macros]](https://aresluna.org/key-in-sight/)
 * [2026-05-20, 01:43:06](https://news.ycombinator.com/item?id=48202047) - [Japan is gripped by mass allergies. A 1950s project is to blame](https://www.bbc.com/future/article/20260515-the-1950s-blunder-which-causes-mass-hay-fever-in-japan)
 * [2026-05-20, 01:34:19](https://news.ycombinator.com/item?id=48201973) - [FiveThirtyEight articles on the Internet Archive](https://fivethirtyeightindex.com/)
 * [2026-05-20, 00:23:54](https://news.ycombinator.com/item?id=48201484) - [Railway Blocked by Google Cloud](https://status.railway.com/?date=20260519)
