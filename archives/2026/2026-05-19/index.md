@@ -29,6 +29,7 @@
 * [2026-05-19, 16:55:17](https://news.ycombinator.com/item?id=48195941) - [A 1955 Los Alamos computer experiment changed our understanding of chaos](https://www.lanl.gov/media/publications/1663/science-of-unpredictability)
 * [2026-05-19, 16:53:01](https://news.ycombinator.com/item?id=48195914) - [Google IO 26 Keynote](https://www.youtube.com/watch?v=wYSncx9zLIU)
 * [2026-05-19, 16:40:27](https://news.ycombinator.com/item?id=48195706) - [KV Sharing, MHC, and Compressed Attention](https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures)
+* [2026-05-19, 16:40:03](https://news.ycombinator.com/item?id=48195698) - [Using HTTP/2 Cleartext for a server in Go 1.24](https://www.clarityboss.com/blog/go-http2-cleartext-h2c-cloud-run)
 * [2026-05-19, 16:19:17](https://news.ycombinator.com/item?id=48195387) - [RuView – See through walls with WiFi](https://github.com/ruvnet/RuView)
 * [2026-05-19, 15:54:06](https://news.ycombinator.com/item?id=48195021) - [Show HN: Superlog (YC P26) – Observability that installs itself and fixes bugs](https://superlog.sh/)
 * [2026-05-19, 15:53:38](https://news.ycombinator.com/item?id=48195009) - [I’ve built a virtual museum with nearly every operating system you can think of](https://virtualosmuseum.org/)

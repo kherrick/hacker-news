@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-05-24](index.md)
 
+* [2026-05-24, 19:36:57](https://news.ycombinator.com/item?id=48260331) - [The political polarization of health outcomes in the USA](https://www.nature.com/articles/s41562-026-02474-9)
+* [2026-05-24, 19:12:46](https://news.ycombinator.com/item?id=48260140) - [CBP Directive 3340-049B: Border Search of Electronic Devices](https://www.cbp.gov/document/directives/cbp-directive-no-3340-049b-border-search-electronic-devices)
+* [2026-05-24, 18:56:09](https://news.ycombinator.com/item?id=48259990) - [Australia Four-Day Work Week Study Data Shows Boosted Productivity](https://scienceaim.com/australia-just-proved-the-four-day-work-week-works-here-is-what-the-data-actually-says/)
+* [2026-05-24, 18:39:10](https://news.ycombinator.com/item?id=48259861) - [Defeating Git Rigour Fatigue with Jujutsu](https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/)
+* [2026-05-24, 18:38:12](https://news.ycombinator.com/item?id=48259849) - [Understanding WebAuthn credential protection policy](https://pilcrowonpaper.com/blog/16)
+* [2026-05-24, 18:31:42](https://news.ycombinator.com/item?id=48259808) - [Migrating from Go to Rust](https://corrode.dev/learn/migration-guides/go-to-rust/)
 * [2026-05-24, 18:28:11](https://news.ycombinator.com/item?id=48259784) - [Claude Is Not Your Architect. Stop Letting It Pretend](https://www.hollandtech.net/claude-is-not-your-architect/)
 * [2026-05-24, 18:06:45](https://news.ycombinator.com/item?id=48259608) - [$100 CPU Shootout: Comparing the Ryzen 5 5500, Core i3-14100F, & Core i3-12100F](https://www.tomshardware.com/pc-components/cpus/100-budget-cpu-shootout-ddr4)
 * [2026-05-24, 17:53:16](https://news.ycombinator.com/item?id=48259485) - [CBP updated its electronic device search directive in Jan 2026](https://www.mayerbrown.com/en/insights/publications/2026/04/traveling-abroad-your-phone-may-be-the-first-checkpoint)
