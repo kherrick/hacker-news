@@ -6,6 +6,7 @@
 
 * [2026-05-24, 19:36:57](https://news.ycombinator.com/item?id=48260331) - [The political polarization of health outcomes in the USA](https://www.nature.com/articles/s41562-026-02474-9)
 * [2026-05-24, 19:12:46](https://news.ycombinator.com/item?id=48260140) - [CBP Directive 3340-049B: Border Search of Electronic Devices](https://www.cbp.gov/document/directives/cbp-directive-no-3340-049b-border-search-electronic-devices)
+* [2026-05-24, 19:10:26](https://news.ycombinator.com/item?id=48260117) - [A fundamental principle of aeronautical engineering has been overturned](https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/)
 * [2026-05-24, 18:56:09](https://news.ycombinator.com/item?id=48259990) - [Australia Four-Day Work Week Study Data Shows Boosted Productivity](https://scienceaim.com/australia-just-proved-the-four-day-work-week-works-here-is-what-the-data-actually-says/)
 * [2026-05-24, 18:39:10](https://news.ycombinator.com/item?id=48259861) - [Defeating Git Rigour Fatigue with Jujutsu](https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/)
 * [2026-05-24, 18:38:12](https://news.ycombinator.com/item?id=48259849) - [Understanding WebAuthn credential protection policy](https://pilcrowonpaper.com/blog/16)
@@ -20,6 +21,7 @@
 * [2026-05-24, 15:49:19](https://news.ycombinator.com/item?id=48258254) - [Ruby for Good](https://ti.to/codeforgood/rubyforgood)
 * [2026-05-24, 15:47:34](https://news.ycombinator.com/item?id=48258236) - [When (if ever) it's appropriate to make jokes before the US Supreme Court](https://www.scotusblog.com/2026/05/when-if-ever-its-appropriate-to-make-jokes-take-selfies-or-curse-before-the-court/)
 * [2026-05-24, 15:43:00](https://news.ycombinator.com/item?id=48258194) - [Usborne 1980s Computer Books](https://usborne.com/us/books/computer-and-coding-books)
+* [2026-05-24, 15:25:43](https://news.ycombinator.com/item?id=48258015) - [Show HN: Audiomass – a free, open-source multitrack audio editor for the web](https://audiomass.co/?multitrack=1)
 * [2026-05-24, 15:21:28](https://news.ycombinator.com/item?id=48257980) - ['AI washing': firms are scrambling to rebrand themselves as tech-focused](https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand)
 * [2026-05-24, 14:37:21](https://news.ycombinator.com/item?id=48257612) - [Omarchy Is Not A Distro](https://abyss.fish/your_dotfiles_are_not_a_distro)
 * [2026-05-24, 14:27:26](https://news.ycombinator.com/item?id=48257532) - [The seed oil panic is hurting my cardiac patients](https://www.statnews.com/2026/05/22/seed-oils-healthy-fats-tallow-fact-check-cardiac-health/)
