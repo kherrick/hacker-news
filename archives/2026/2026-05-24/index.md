@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-05-24](index.md)
 
+* [2026-05-24, 15:47:34](https://news.ycombinator.com/item?id=48258236) - [When (if ever) it's appropriate to make jokes before the US Supreme Court](https://www.scotusblog.com/2026/05/when-if-ever-its-appropriate-to-make-jokes-take-selfies-or-curse-before-the-court/)
+* [2026-05-24, 15:43:00](https://news.ycombinator.com/item?id=48258194) - [Usborne 1980s Computer Books](https://usborne.com/us/books/computer-and-coding-books)
+* [2026-05-24, 15:21:28](https://news.ycombinator.com/item?id=48257980) - ['AI washing': firms are scrambling to rebrand themselves as tech-focused](https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand)
+* [2026-05-24, 14:37:21](https://news.ycombinator.com/item?id=48257612) - [Omarchy Is Not A Distro](https://abyss.fish/your_dotfiles_are_not_a_distro)
 * [2026-05-24, 14:27:26](https://news.ycombinator.com/item?id=48257532) - [The seed oil panic is hurting my cardiac patients](https://www.statnews.com/2026/05/22/seed-oils-healthy-fats-tallow-fact-check-cardiac-health/)
 * [2026-05-24, 14:09:33](https://news.ycombinator.com/item?id=48257410) - [DeepSeek to Make Permanent 75% Discount on Flagship AI Model](https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model)
 * [2026-05-24, 13:16:33](https://news.ycombinator.com/item?id=48257058) - [Microsoft's 6502 BASIC is now Open Source (2025)](https://opensource.microsoft.com/blog/2025/09/03/microsoft-open-source-historic-6502-basic/)

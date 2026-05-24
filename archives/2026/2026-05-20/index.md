@@ -27,6 +27,7 @@
 * [2026-05-20, 18:50:59](https://news.ycombinator.com/item?id=48212279) - [Tracking Starbucks' 'widely recyclable' cups: none ended up at recycling](https://www.beyondplastics.org/press-releases/starbucks-cups-recyclable-report)
 * [2026-05-20, 18:48:30](https://news.ycombinator.com/item?id=48212242) - [Node.js 26.0.0 (Now with Temporal)](https://nodejs.org/en/blog/release/v26.0.0)
 * [2026-05-20, 18:33:56](https://news.ycombinator.com/item?id=48212046) - [Flipper One Tech Specs](https://docs.flipper.net/one/general/tech-specs)
+* [2026-05-20, 17:49:48](https://news.ycombinator.com/item?id=48211418) - [Curly braces: An evolution of Unix and C](https://thalia.dev/blog/unix-braces/)
 * [2026-05-20, 17:48:52](https://news.ycombinator.com/item?id=48211409) - [Qian Xuesen: The missile genius America lost and China gained (2025)](https://www.usni.org/magazines/naval-history/2025/december/missile-genius-america-lost-and-china-gained)
 * [2026-05-20, 17:30:15](https://news.ycombinator.com/item?id=48211134) - [Why is Inkwell stuck in review](https://www.manton.org/2026/05/19/why-is-inkwell-stuck-in.html)
 * [2026-05-20, 17:15:40](https://news.ycombinator.com/item?id=48210937) - [Silk: Open-source cooperative fiber scheduler](https://github.com/ClickHouse/silk)
