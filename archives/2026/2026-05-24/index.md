@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-05-24](index.md)
 
 * [2026-05-24, 12:07:34](https://news.ycombinator.com/item?id=48256597) - [Childhood Computing](https://susam.net/childhood-computing.html)
+* [2026-05-24, 12:01:24](https://news.ycombinator.com/item?id=48256565) - [Perceptual Image Codec: What Matters in Practical Learned Image Compression](https://apple.github.io/ml-pico/)
 * [2026-05-24, 11:42:15](https://news.ycombinator.com/item?id=48256475) - [Mastering Dyalog APL](https://mastering.dyalog.com/README.html)
 * [2026-05-24, 10:48:48](https://news.ycombinator.com/item?id=48256192) - [The Worlds Left to Conquer](https://ludic.mataroa.blog/blog/the-worlds-left-to-conquer/)
 * [2026-05-24, 08:29:38](https://news.ycombinator.com/item?id=48255593) - [Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI](https://fs.blog/knowledge-project-podcast/greg-brockman/)
