@@ -48,6 +48,7 @@
 * [2026-05-20, 14:51:00](https://news.ycombinator.com/item?id=48208834) - [Show HN: Hocuspocus 4 – self-hosted Yjs collaboration backend](https://github.com/ueberdosis/hocuspocus)
 * [2026-05-20, 14:40:42](https://news.ycombinator.com/item?id=48208685) - [Testing distributed systems with AI agents](https://github.com/shenli/distributed-system-testing)
 * [2026-05-20, 14:30:47](https://news.ycombinator.com/item?id=48208502) - [Victory: Tennessee man jailed 37 days for Trump meme wins $835,000 settlement](https://www.fire.org/news/victory-tennessee-man-jailed-37-days-trump-meme-wins-835000-settlement-after-first-amendment)
+* [2026-05-20, 14:16:34](https://news.ycombinator.com/item?id=48208233) - [Swap tables, flash-friendly swap, swap_ops, and more](https://lwn.net/SubscriberLink/1072657/394b87abd7cc215e/)
 * [2026-05-20, 13:43:37](https://news.ycombinator.com/item?id=48207660) - [GitHub confirms breach of 3,800 repos via malicious VSCode extension](https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/)
 * [2026-05-20, 13:35:21](https://news.ycombinator.com/item?id=48207509) - [560-610 minutes of exercise a week needed for substantial heart benefits](https://bmjgroup.com/560-610-minutes-of-exercise-a-week-needed-for-substantial-heart-benefits/)
 * [2026-05-20, 13:19:36](https://news.ycombinator.com/item?id=48207251) - [America's Greatest Strategic Blunder: The Imprisonment of Qian Xuesen](https://danieltan.weblog.lol/2026/05/americas-greatest-strategic-blunder-the-imprisonment-of-qian-xuesen)
