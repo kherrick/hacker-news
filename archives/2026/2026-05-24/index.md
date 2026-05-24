@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-05-24](index.md)
 
+* [2026-05-24, 14:27:26](https://news.ycombinator.com/item?id=48257532) - [The seed oil panic is hurting my cardiac patients](https://www.statnews.com/2026/05/22/seed-oils-healthy-fats-tallow-fact-check-cardiac-health/)
+* [2026-05-24, 14:09:33](https://news.ycombinator.com/item?id=48257410) - [DeepSeek to Make Permanent 75% Discount on Flagship AI Model](https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model)
+* [2026-05-24, 13:16:33](https://news.ycombinator.com/item?id=48257058) - [Microsoft's 6502 BASIC is now Open Source (2025)](https://opensource.microsoft.com/blog/2025/09/03/microsoft-open-source-historic-6502-basic/)
+* [2026-05-24, 13:02:06](https://news.ycombinator.com/item?id=48256953) - [DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost](https://esengine.github.io/DeepSeek-Reasonix/)
+* [2026-05-24, 12:55:53](https://news.ycombinator.com/item?id=48256912) - [Constraint Decay: The Fragility of LLM Agents in Back End Code Generation](https://arxiv.org/abs/2605.06445)
 * [2026-05-24, 12:07:34](https://news.ycombinator.com/item?id=48256597) - [Childhood Computing](https://susam.net/childhood-computing.html)
 * [2026-05-24, 12:01:24](https://news.ycombinator.com/item?id=48256565) - [Perceptual Image Codec: What Matters in Practical Learned Image Compression](https://apple.github.io/ml-pico/)
 * [2026-05-24, 11:42:15](https://news.ycombinator.com/item?id=48256475) - [Mastering Dyalog APL](https://mastering.dyalog.com/README.html)
