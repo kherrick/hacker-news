@@ -28,6 +28,7 @@
 * [2026-05-20, 18:33:56](https://news.ycombinator.com/item?id=48212046) - [Flipper One Tech Specs](https://docs.flipper.net/one/general/tech-specs)
 * [2026-05-20, 17:48:52](https://news.ycombinator.com/item?id=48211409) - [Qian Xuesen: The missile genius America lost and China gained (2025)](https://www.usni.org/magazines/naval-history/2025/december/missile-genius-america-lost-and-china-gained)
 * [2026-05-20, 17:30:15](https://news.ycombinator.com/item?id=48211134) - [Why is Inkwell stuck in review](https://www.manton.org/2026/05/19/why-is-inkwell-stuck-in.html)
+* [2026-05-20, 17:15:40](https://news.ycombinator.com/item?id=48210937) - [Silk: Open-source cooperative fiber scheduler](https://github.com/ClickHouse/silk)
 * [2026-05-20, 16:56:42](https://news.ycombinator.com/item?id=48210667) - [I Don't Vibe Code](https://jacobharr.is/personal/i-dont-vibe-code)
 * [2026-05-20, 16:55:17](https://news.ycombinator.com/item?id=48210644) - [After Town Bans Flock, Councilmember Crashes Out, Proposes Internet, Phone Ban](https://www.404media.co/after-town-bans-flock-councilmember-crashes-out-proposes-internet-and-phone-ban/)
 * [2026-05-20, 16:53:07](https://news.ycombinator.com/item?id=48210615) - [Show HN: Dari-docs – Optimize your docs using parallel coding agents](https://github.com/mupt-ai/dari-docs)

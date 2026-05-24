@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-05-24, 04:51:22](https://news.ycombinator.com/item?id=48254475) - [Amazon Web Services – Four Years and Out](https://www.adventuresinoss.com/aws-four-years/)
-* [2026-05-24, 04:34:46](https://news.ycombinator.com/item?id=48254401) - [The C++ Standard Library Has Been Walking Itself Back for Fifteen Years](https://hftuniversity.com/post/the-c-standard-library-has-been-walking-itself-back-for-fifteen-years-and-the-receipts-are-public)
 * [2026-05-24, 04:14:52](https://news.ycombinator.com/item?id=48254309) - [Why is Vivado 2026.1 dropping Linux support for free tier?](https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US)
 * [2026-05-24, 03:57:01](https://news.ycombinator.com/item?id=48254236) - [The C64 Dead Test Font](https://www.masswerk.at/nowgobang/2026/c64-dead-test-font)
 * [2026-05-24, 03:19:02](https://news.ycombinator.com/item?id=48254020) - [Alexander Grothendieck Revolutionized 20th-Century Mathematics](https://www.quantamagazine.org/how-alexander-grothendieck-revolutionized-20th-century-mathematics-20260520/)
@@ -25,9 +24,10 @@
 * [2026-05-22, 09:50:48](https://news.ycombinator.com/item?id=48233829) - [Buildcraft Is a Compiler Problem](https://mitander.xyz/posts/buildcraft-is-a-compiler-problem/)
 * [2026-05-22, 06:36:56](https://news.ycombinator.com/item?id=48232721) - [Sales and Dungeons: Thermal printer TTRPG utility](https://sales-and-dungeons.app/)
 * [2026-05-21, 19:32:35](https://news.ycombinator.com/item?id=48227864) - [Schlitz Is Gone, but First It's Getting One Last Hurrah](https://www.milwaukeemag.com/schlitz-is-gone/)
+* [2026-05-21, 15:05:28](https://news.ycombinator.com/item?id=48223997) - [I spent 50 hours drawing a line graph](https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html)
 * [2026-05-20, 21:21:14](https://news.ycombinator.com/item?id=48214311) - [My two-part desk setup (2025)](https://arslan.io/2025/11/18/my-two-part-desk-setup/)
-* [2026-05-20, 12:22:31](https://news.ycombinator.com/item?id=48206543) - [New map reveals lost roads of the Roman Empire](https://www.scientificamerican.com/article/new-high-resolution-map-transforms-what-we-know-about-roman-roads-and-the-roman-empire/)
-* [2026-05-20, 01:53:35](https://news.ycombinator.com/item?id=48202129) - [Key, in sight [Creative uses of keyboard shortcuts and macros]](https://aresluna.org/key-in-sight/)
+* [2026-05-20, 17:15:40](https://news.ycombinator.com/item?id=48210937) - [Silk: Open-source cooperative fiber scheduler](https://github.com/ClickHouse/silk)
+* [2026-05-20, 01:53:35](https://news.ycombinator.com/item?id=48202129) - [Key, in sight – A guide, of sorts, to keyboard customization](https://aresluna.org/key-in-sight/)
 * [2026-05-19, 15:43:51](https://news.ycombinator.com/item?id=48194857) - [Converting an Integer to a Decimal String in Under Two Nanoseconds](https://onlinelibrary.wiley.com/doi/10.1002/spe.70079)
 * [2026-05-19, 15:30:01](https://news.ycombinator.com/item?id=48194645) - [Kindle loyalists scramble as Amazon turns page on old e-readers](https://www.reuters.com/business/retail-consumer/kindle-loyalists-scramble-amazon-turns-page-old-e-readers-2026-05-19/)
 
