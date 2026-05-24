@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-23](index.md)
 
+* [2026-05-23, 23:39:43](https://news.ycombinator.com/item?id=48252720) - [ICE Awards $25M Iris-Scanning Contract to Bi2 Technologies](https://www.projectsaltbox.com/p/ice-awards-25-million-iris-scanning)
 * [2026-05-23, 23:13:42](https://news.ycombinator.com/item?id=48252535) - [My I3-Emacs Integration](https://khz.ac/software/i3-integration.html)
 * [2026-05-23, 22:57:51](https://news.ycombinator.com/item?id=48252442) - [Bun.Image](https://bun.com/docs/runtime/image)
 * [2026-05-23, 22:25:05](https://news.ycombinator.com/item?id=48252192) - [Don't Roll Your Own](https://susam.net/do-not-roll-your-own.html)
@@ -12,6 +13,7 @@
 * [2026-05-23, 21:08:38](https://news.ycombinator.com/item?id=48251553) - [Software Engineering at the Tipping Point](https://io.google/2026/explore/workshop-2)
 * [2026-05-23, 21:06:37](https://news.ycombinator.com/item?id=48251528) - [A self-powered computer in actual credit-card size (~1mm thick)](https://old.reddit.com/r/electronics/comments/1td7yxl/i_built_a_fully_selfpowered_computer_in_actual/)
 * [2026-05-23, 20:36:42](https://news.ycombinator.com/item?id=48251229) - [Pardon MIE?](https://ironpeak.be/blog/bypassing-apple-mie/)
+* [2026-05-23, 18:51:01](https://news.ycombinator.com/item?id=48250198) - [NeuralNote](https://github.com/DamRsn/NeuralNote)
 * [2026-05-23, 18:45:37](https://news.ycombinator.com/item?id=48250144) - [It's time to talk about my writerdeck](https://veronicaexplains.net/my-first-writerdeck/)
 * [2026-05-23, 18:02:42](https://news.ycombinator.com/item?id=48249747) - [Texas woman arrested for Facebook post about town water quality](https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality)
 * [2026-05-23, 16:24:50](https://news.ycombinator.com/item?id=48248954) - [Reverse engineering circuitry in a Spacelab computer from 1980](https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html)

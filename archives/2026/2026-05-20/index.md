@@ -35,6 +35,7 @@
 * [2026-05-20, 16:24:42](https://news.ycombinator.com/item?id=48210226) - [OpenAI Is Preparing to File for an IPO Soon](https://www.wsj.com/tech/ai/openai-is-preparing-to-file-for-an-ipo-very-soon-0ec95af5)
 * [2026-05-20, 16:11:15](https://news.ycombinator.com/item?id=48210041) - [ArcBrush – Node-based 2D image editor](https://arcbrush.com/)
 * [2026-05-20, 16:01:26](https://news.ycombinator.com/item?id=48209905) - [Mycorrhizal Fungi, Nature's Key to Plant Survival and Success](https://pacifichorticulture.org/articles/mycorrhizal-fungi-natures-key-to-plant-survival-and-success/)
+* [2026-05-20, 15:54:33](https://news.ycombinator.com/item?id=48209803) - [The Security of Ephemeral Pages](https://schalkneethling.com/posts/the-security-of-ephemeral-pages/)
 * [2026-05-20, 15:48:16](https://news.ycombinator.com/item?id=48209706) - [The Hardware Lottery](https://hardwarelottery.github.io/)
 * [2026-05-20, 15:47:26](https://news.ycombinator.com/item?id=48209691) - [The surprising story behind the first British person in space](https://www.bbc.com/culture/article/20260518-helen-sharman-the-story-behind-the-first-british-person-in-space)
 * [2026-05-20, 15:45:32](https://news.ycombinator.com/item?id=48209668) - [Show HN: Lance – image/video generation and understanding in one model](https://github.com/bytedance/Lance)

@@ -9,6 +9,7 @@
 * [2026-05-21, 20:56:36](https://news.ycombinator.com/item?id=48228788) - [Uv is fantastic, but its package management UX is a mess](https://www.loopwerk.io/articles/2026/uv-ux-mess/)
 * [2026-05-21, 20:31:04](https://news.ycombinator.com/item?id=48228491) - [There’s a real chance you will not have the same job by the end of 2027](https://www.elenaverna.com/p/youll-lose-your-job-in-2027)
 * [2026-05-21, 20:23:37](https://news.ycombinator.com/item?id=48228411) - [Show HN: Open-source .docx editor library for building document apps](https://github.com/eigenpal/docx-editor)
+* [2026-05-21, 19:53:51](https://news.ycombinator.com/item?id=48228106) - [Show HN: Anyone interested in a tool helps to explore C++ ASTs](https://uvic-aurora.github.io/acav-manual/index.html)
 * [2026-05-21, 19:37:26](https://news.ycombinator.com/item?id=48227923) - [Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O](https://arxiv.org/abs/2605.12460)
 * [2026-05-21, 19:32:16](https://news.ycombinator.com/item?id=48227860) - [Using Kagi Search with Low Vision](https://veroniiiica.com/using-kagi-search-with-low-vision/)
 * [2026-05-21, 18:54:55](https://news.ycombinator.com/item?id=48227397) - [Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD](https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/)
