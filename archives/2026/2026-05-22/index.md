@@ -55,6 +55,7 @@
 * [2026-05-22, 10:45:16](https://news.ycombinator.com/item?id=48234128) - [The case against boolean logic](https://abuseofnotation.github.io/boolean-thinking/)
 * [2026-05-22, 10:38:26](https://news.ycombinator.com/item?id=48234090) - [Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark](https://modelrift.com/blog/openscad-llm-benchmark/)
 * [2026-05-22, 10:09:03](https://news.ycombinator.com/item?id=48233939) - [FSFE intervenes against Apple before EUCJ for the second time](https://fsfe.org/news/2026/news-20260519-01.en.html)
+* [2026-05-22, 09:50:48](https://news.ycombinator.com/item?id=48233829) - [Buildcraft Is a Compiler Problem](https://mitander.xyz/posts/buildcraft-is-a-compiler-problem/)
 * [2026-05-22, 09:04:54](https://news.ycombinator.com/item?id=48233563) - [Steve Wozniak cheered after telling students they have AI – actual intelligence](https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5)
 * [2026-05-22, 07:52:15](https://news.ycombinator.com/item?id=48233177) - [Deepfakes Tore a High School Apart](https://www.404media.co/radnor-high-school-pennsylvania-ai-deepfakes-child-sexual-abuse-material/)
 * [2026-05-22, 06:36:56](https://news.ycombinator.com/item?id=48232721) - [Sales and Dungeons: Thermal printer TTRPG utility](https://sales-and-dungeons.app/)
