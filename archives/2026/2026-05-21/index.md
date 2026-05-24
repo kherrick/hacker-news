@@ -17,6 +17,7 @@
 * [2026-05-21, 18:29:35](https://news.ycombinator.com/item?id=48227068) - [Serving Netflix Video Traffic at 400Gb/S and Beyond (2022) [pdf]](https://nabstreamingsummit.com/wp-content/uploads/2022/05/2022-Streaming-Summit-Netflix.pdf)
 * [2026-05-21, 18:21:37](https://news.ycombinator.com/item?id=48226944) - [BBEdit 16](https://www.barebones.com/products/bbedit/bbedit16.html)
 * [2026-05-21, 18:04:17](https://news.ycombinator.com/item?id=48226703) - [Where are all the UK red telephone kiosks?](https://www.thek6project.co.uk/)
+* [2026-05-21, 18:03:50](https://news.ycombinator.com/item?id=48226697) - [Getting an old Computer online with Android Ethernet tethering](https://82mhz.net/posts/2026/05/getting-an-old-computer-online-with-android-ethernet-tethering/)
 * [2026-05-21, 17:55:58](https://news.ycombinator.com/item?id=48226588) - [Amazon, Facebook, FBI have access to a private intelligence-sharing network](https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/)
 * [2026-05-21, 17:14:56](https://news.ycombinator.com/item?id=48226038) - [Chewing gum restores dad's taste and smell years after Covid](https://discover.swns.com/2026/05/chewing-gum-restores-dads-taste-and-smell-years-after-covid/)
 * [2026-05-21, 17:00:52](https://news.ycombinator.com/item?id=48225852) - [ParadeDB (YC S23) Is Hiring Distributed Systems/Platform Engineers](https://news.ycombinator.com/item?id=48225852)
