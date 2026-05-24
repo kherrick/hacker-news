@@ -35,6 +35,7 @@
 * [2026-05-21, 14:34:57](https://news.ycombinator.com/item?id=48223362) - [Show HN: Freenet, a peer-to-peer platform for decentralized apps](https://freenet.org/)
 * [2026-05-21, 14:31:33](https://news.ycombinator.com/item?id=48223303) - [Michael Keating has died](https://www.bigfinish.com/news/v/michael-keating-1947-2026)
 * [2026-05-21, 14:29:14](https://news.ycombinator.com/item?id=48223258) - [Get your passwords out of Bitwarden while you still can](https://www.osnews.com/story/145029/get-your-passwords-out-of-bitwarden-while-you-still-can/)
+* [2026-05-21, 14:24:11](https://news.ycombinator.com/item?id=48223154) - [Book Review: On the Calculation of Volume](https://www.stephendiehl.com/posts/calculation_of_volume/)
 * [2026-05-21, 14:01:37](https://news.ycombinator.com/item?id=48222733) - [Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)](https://blog.simbastack.com/indexed-a-year-of-video-locally/)
 * [2026-05-21, 13:50:59](https://news.ycombinator.com/item?id=48222529) - [Google's Antigravity Bait and Switch](https://www.0xsid.com/blog/antigravity-bait-n-switch)
 * [2026-05-21, 13:48:29](https://news.ycombinator.com/item?id=48222492) - [Highest Random Weight in Elixir](https://jola.dev/posts/highest-random-weight-in-elixir)
