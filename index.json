@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-05-24, 10:48:48",
+      "https://news.ycombinator.com/item?id=48256192"
+    ],
+    [
+      "The Worlds Left to Conquer",
+      "https://ludic.mataroa.blog/blog/the-worlds-left-to-conquer/"
+    ]
+  ],
+  [
+    [
+      "2026-05-24, 08:29:38",
+      "https://news.ycombinator.com/item?id=48255593"
+    ],
+    [
+      "Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI",
+      "https://fs.blog/knowledge-project-podcast/greg-brockman/"
+    ]
+  ],
+  [
+    [
+      "2026-05-24, 08:13:32",
+      "https://news.ycombinator.com/item?id=48255501"
+    ],
+    [
+      "All Lean Books and Where to Find Them",
+      "https://lakesare.brick.do/all-lean-books-and-where-to-find-them-x2nYwjM3AwBQ"
+    ]
+  ],
+  [
+    [
       "2026-05-24, 04:51:22",
       "https://news.ycombinator.com/item?id=48254475"
     ],
@@ -77,26 +107,6 @@
     [
       "My I3-Emacs Integration",
       "https://khz.ac/software/i3-integration.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-23, 22:19:36",
-      "https://news.ycombinator.com/item?id=48252146"
-    ],
-    [
-      "Byrne's Euclid",
-      "https://www.c82.net/euclid/"
-    ]
-  ],
-  [
-    [
-      "2026-05-23, 20:09:13",
-      "https://news.ycombinator.com/item?id=48250980"
-    ],
-    [
-      "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
-      "https://www.bbc.com/news/articles/czd2qmdvmq6o"
     ]
   ],
   [
@@ -201,26 +211,6 @@
   ],
   [
     [
-      "2026-05-22, 12:28:50",
-      "https://news.ycombinator.com/item?id=48234954"
-    ],
-    [
-      ".NET (OK, C#) finally gets union types",
-      "https://andrewlock.net/exploring-the-dotnet-11-preview-2-dotnet-gets-union-types/"
-    ]
-  ],
-  [
-    [
-      "2026-05-22, 09:50:48",
-      "https://news.ycombinator.com/item?id=48233829"
-    ],
-    [
-      "Buildcraft Is a Compiler Problem",
-      "https://mitander.xyz/posts/buildcraft-is-a-compiler-problem/"
-    ]
-  ],
-  [
-    [
       "2026-05-22, 06:36:56",
       "https://news.ycombinator.com/item?id=48232721"
     ],
@@ -267,6 +257,16 @@
     [
       "Silk: Open-source cooperative fiber scheduler",
       "https://github.com/ClickHouse/silk"
+    ]
+  ],
+  [
+    [
+      "2026-05-20, 14:16:34",
+      "https://news.ycombinator.com/item?id=48208233"
+    ],
+    [
+      "Swap tables, flash-friendly swap, swap_ops, and more",
+      "https://lwn.net/SubscriberLink/1072657/394b87abd7cc215e/"
     ]
   ],
   [
