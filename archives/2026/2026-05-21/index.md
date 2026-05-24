@@ -65,3 +65,4 @@
 * [2026-05-21, 02:13:23](https://news.ycombinator.com/item?id=48216983) - [Haskell Foundation 2026 Update](https://discourse.haskell.org/t/haskell-foundation-2026-update/14136)
 * [2026-05-21, 01:20:52](https://news.ycombinator.com/item?id=48216619) - [What is Demand Coop and why tech workers should join one](https://cahootzcoops.com/blog/what-is-a-demand-coop)
 * [2026-05-21, 00:36:01](https://news.ycombinator.com/item?id=48216278) - [Intuit to lay off over 3k employees to refocus on AI](https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/)
+* [2026-05-21, 00:15:32](https://news.ycombinator.com/item?id=48216146) - [LAN-LOK: The Antarctic DOS Sabotage Game Lost for 34 Years](https://alphapixeldev.com/lan-lok-the-antarctic-dos-sabotage-game-lost-for-34-years-part-1/)

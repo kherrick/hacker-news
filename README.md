@@ -1,10 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-05-24, 19:36:57](https://news.ycombinator.com/item?id=48260331) - [The political polarization of health outcomes in the USA](https://www.nature.com/articles/s41562-026-02474-9)
 * [2026-05-24, 19:12:46](https://news.ycombinator.com/item?id=48260140) - [CBP Directive 3340-049B: Border Search of Electronic Devices](https://www.cbp.gov/document/directives/cbp-directive-no-3340-049b-border-search-electronic-devices)
 * [2026-05-24, 18:56:09](https://news.ycombinator.com/item?id=48259990) - [Australia Four-Day Work Week Study Data Shows Boosted Productivity](https://scienceaim.com/australia-just-proved-the-four-day-work-week-works-here-is-what-the-data-actually-says/)
 * [2026-05-24, 18:39:10](https://news.ycombinator.com/item?id=48259861) - [Defeating Git Rigour Fatigue with Jujutsu](https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/)
-* [2026-05-24, 18:38:12](https://news.ycombinator.com/item?id=48259849) - [Understanding WebAuthn credential protection policy](https://pilcrowonpaper.com/blog/16)
 * [2026-05-24, 18:31:42](https://news.ycombinator.com/item?id=48259808) - [Migrating from Go to Rust](https://corrode.dev/learn/migration-guides/go-to-rust/)
 * [2026-05-24, 18:28:11](https://news.ycombinator.com/item?id=48259784) - [Claude is not your architect. Stop letting it pretend](https://www.hollandtech.net/claude-is-not-your-architect/)
 * [2026-05-24, 17:18:52](https://news.ycombinator.com/item?id=48259158) - [Don't know where your data is from? Bayesian modeling for unknown coordinates](https://christopherkrapu.com/blog/2026/dont-know-where-your-data-is-from/)
@@ -20,6 +18,7 @@
 * [2026-05-24, 11:42:15](https://news.ycombinator.com/item?id=48256475) - [Mastering Dyalog APL](https://mastering.dyalog.com/README.html)
 * [2026-05-24, 08:29:38](https://news.ycombinator.com/item?id=48255593) - [Greg Brockman interview [video]](https://fs.blog/knowledge-project-podcast/greg-brockman/)
 * [2026-05-24, 04:14:52](https://news.ycombinator.com/item?id=48254309) - [Why is Vivado 2026.1 dropping Linux support for free tier?](https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US)
+* [2026-05-24, 03:57:01](https://news.ycombinator.com/item?id=48254236) - [The C64 Dead Test Font](https://www.masswerk.at/nowgobang/2026/c64-dead-test-font)
 * [2026-05-24, 01:21:13](https://news.ycombinator.com/item?id=48253386) - [Microsoft open-sources \"the earliest DOS source code discovered to date\"](https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/)
 * [2026-05-24, 00:51:32](https://news.ycombinator.com/item?id=48253186) - [Scammers are abusing an internal Microsoft account to send spam links](https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/)
 * [2026-05-24, 00:30:50](https://news.ycombinator.com/item?id=48253060) - [Wake up! 16b](https://hellmood.111mb.de/wake_up_16b_writeup.html)
@@ -28,7 +27,8 @@
 * [2026-05-22, 03:13:07](https://news.ycombinator.com/item?id=48231547) - [Build Adafruit projects right from Firefox](https://www.firefox.com/en-US/landing/adafruit/)
 * [2026-05-21, 15:05:28](https://news.ycombinator.com/item?id=48223997) - [I spent 50 hours drawing a line graph](https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html)
 * [2026-05-21, 14:24:11](https://news.ycombinator.com/item?id=48223154) - [Book Review: On the Calculation of Volume](https://www.stephendiehl.com/posts/calculation_of_volume/)
-* [2026-05-20, 17:49:48](https://news.ycombinator.com/item?id=48211418) - [Curly braces: An evolution of Unix and C](https://thalia.dev/blog/unix-braces/)
+* [2026-05-21, 00:15:32](https://news.ycombinator.com/item?id=48216146) - [LAN-LOK: The Antarctic DOS Sabotage Game Lost for 34 Years](https://alphapixeldev.com/lan-lok-the-antarctic-dos-sabotage-game-lost-for-34-years-part-1/)
+* [2026-05-20, 14:16:34](https://news.ycombinator.com/item?id=48208233) - [Swap tables, flash-friendly swap, swap_ops, and more](https://lwn.net/SubscriberLink/1072657/394b87abd7cc215e/)
 * [2026-05-19, 16:40:03](https://news.ycombinator.com/item?id=48195698) - [Using HTTP/2 Cleartext for a server in Go 1.24](https://www.clarityboss.com/blog/go-http2-cleartext-h2c-cloud-run)
 
 ## [Archives](archives/index.md)
