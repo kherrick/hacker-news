@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-24](index.md)
 
+* [2026-05-24, 18:06:45](https://news.ycombinator.com/item?id=48259608) - [$100 CPU Shootout: Comparing the Ryzen 5 5500, Core i3-14100F, & Core i3-12100F](https://www.tomshardware.com/pc-components/cpus/100-budget-cpu-shootout-ddr4)
+* [2026-05-24, 17:18:52](https://news.ycombinator.com/item?id=48259158) - [Don't know where your data is from? Bayesian modeling for unknown coordinates](https://christopherkrapu.com/blog/2026/dont-know-where-your-data-is-from/)
 * [2026-05-24, 17:00:46](https://news.ycombinator.com/item?id=48258995) - [Flick (YC F25) Is Hiring Front End Engineer to Build Figma for AI Filmmaking](https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer)
 * [2026-05-24, 16:36:26](https://news.ycombinator.com/item?id=48258736) - [FreeBSD Foundation Executive Director Tries Daily Driving FreeBSD on Laptop](https://www.phoronix.com/news/FreeBSD-On-Laptop-Driver)
 * [2026-05-24, 16:31:29](https://news.ycombinator.com/item?id=48258684) - [Memory has grown to nearly two-thirds of AI chip component costs](https://epoch.ai/data-insights/ai-chip-component-cost-shares)

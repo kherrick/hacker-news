@@ -35,6 +35,7 @@
 * [2026-05-22, 15:43:28](https://news.ycombinator.com/item?id=48237422) - [How to convert between wealth and income tax](https://paulgraham.com/winc.html)
 * [2026-05-22, 15:22:04](https://news.ycombinator.com/item?id=48237163) - [Why Japanese companies do so many different things](https://davidoks.blog/p/why-japanese-companies-do-so-many)
 * [2026-05-22, 15:00:50](https://news.ycombinator.com/item?id=48236887) - [A Forth-inspired language for writing websites](https://robida.net/entries/2026/05/21/a-forth-inspired-language-for-writing-websites)
+* [2026-05-22, 14:55:37](https://news.ycombinator.com/item?id=48236791) - [Noroboto: Lying Fonts and Mitigation in Rust](https://tritium.legal/blog/noroboto)
 * [2026-05-22, 14:53:55](https://news.ycombinator.com/item?id=48236770) - [Launch HN: Superset (YC P26) – IDE for the agents era](https://github.com/superset-sh/superset)
 * [2026-05-22, 14:36:27](https://news.ycombinator.com/item?id=48236501) - [Robert X Cringely is back to blogging](https://www.cringely.com/)
 * [2026-05-22, 14:36:27](https://news.ycombinator.com/item?id=48236501) - [I’m Writing Again](https://www.cringely.com/2026/05/21/im-writing-again/)
