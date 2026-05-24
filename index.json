@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-05-24, 19:36:57",
-      "https://news.ycombinator.com/item?id=48260331"
-    ],
-    [
-      "The political polarization of health outcomes in the USA",
-      "https://www.nature.com/articles/s41562-026-02474-9"
-    ]
-  ],
-  [
-    [
       "2026-05-24, 19:12:46",
       "https://news.ycombinator.com/item?id=48260140"
     ],
@@ -37,16 +27,6 @@
     [
       "Defeating Git Rigour Fatigue with Jujutsu",
       "https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/"
-    ]
-  ],
-  [
-    [
-      "2026-05-24, 18:38:12",
-      "https://news.ycombinator.com/item?id=48259849"
-    ],
-    [
-      "Understanding WebAuthn credential protection policy",
-      "https://pilcrowonpaper.com/blog/16"
     ]
   ],
   [
@@ -201,6 +181,16 @@
   ],
   [
     [
+      "2026-05-24, 03:57:01",
+      "https://news.ycombinator.com/item?id=48254236"
+    ],
+    [
+      "The C64 Dead Test Font",
+      "https://www.masswerk.at/nowgobang/2026/c64-dead-test-font"
+    ]
+  ],
+  [
+    [
       "2026-05-24, 01:21:13",
       "https://news.ycombinator.com/item?id=48253386"
     ],
@@ -281,12 +271,22 @@
   ],
   [
     [
-      "2026-05-20, 17:49:48",
-      "https://news.ycombinator.com/item?id=48211418"
+      "2026-05-21, 00:15:32",
+      "https://news.ycombinator.com/item?id=48216146"
     ],
     [
-      "Curly braces: An evolution of Unix and C",
-      "https://thalia.dev/blog/unix-braces/"
+      "LAN-LOK: The Antarctic DOS Sabotage Game Lost for 34 Years",
+      "https://alphapixeldev.com/lan-lok-the-antarctic-dos-sabotage-game-lost-for-34-years-part-1/"
+    ]
+  ],
+  [
+    [
+      "2026-05-20, 14:16:34",
+      "https://news.ycombinator.com/item?id=48208233"
+    ],
+    [
+      "Swap tables, flash-friendly swap, swap_ops, and more",
+      "https://lwn.net/SubscriberLink/1072657/394b87abd7cc215e/"
     ]
   ],
   [
