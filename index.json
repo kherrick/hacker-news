@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-05-24, 18:06:45",
+      "https://news.ycombinator.com/item?id=48259608"
+    ],
+    [
+      "$100 CPU Shootout: Comparing the Ryzen 5 5500, Core i3-14100F, & Core i3-12100F",
+      "https://www.tomshardware.com/pc-components/cpus/100-budget-cpu-shootout-ddr4"
+    ]
+  ],
+  [
+    [
+      "2026-05-24, 17:18:52",
+      "https://news.ycombinator.com/item?id=48259158"
+    ],
+    [
+      "Don't know where your data is from? Bayesian modeling for unknown coordinates",
+      "https://christopherkrapu.com/blog/2026/dont-know-where-your-data-is-from/"
+    ]
+  ],
+  [
+    [
       "2026-05-24, 17:00:46",
       "https://news.ycombinator.com/item?id=48258995"
     ],
@@ -41,16 +61,6 @@
   ],
   [
     [
-      "2026-05-24, 15:47:34",
-      "https://news.ycombinator.com/item?id=48258236"
-    ],
-    [
-      "When (if ever) it's appropriate to make jokes before the US Supreme Court",
-      "https://www.scotusblog.com/2026/05/when-if-ever-its-appropriate-to-make-jokes-take-selfies-or-curse-before-the-court/"
-    ]
-  ],
-  [
-    [
       "2026-05-24, 15:43:00",
       "https://news.ycombinator.com/item?id=48258194"
     ],
@@ -71,12 +81,12 @@
   ],
   [
     [
-      "2026-05-24, 14:37:21",
-      "https://news.ycombinator.com/item?id=48257612"
+      "2026-05-24, 14:09:33",
+      "https://news.ycombinator.com/item?id=48257410"
     ],
     [
-      "Omarchy Is Not A Distro",
-      "https://abyss.fish/your_dotfiles_are_not_a_distro"
+      "DeepSeek to Make Permanent 75% Discount on Flagship AI Model",
+      "https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model"
     ]
   ],
   [
@@ -127,16 +137,6 @@
     [
       "Mastering Dyalog APL",
       "https://mastering.dyalog.com/README.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-24, 08:29:38",
-      "https://news.ycombinator.com/item?id=48255593"
-    ],
-    [
-      "Greg Brockman interview [video]",
-      "https://fs.blog/knowledge-project-podcast/greg-brockman/"
     ]
   ],
   [
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2026-05-22, 14:55:37",
+      "https://news.ycombinator.com/item?id=48236791"
+    ],
+    [
+      "Noroboto: Lying Fonts and Mitigation in Rust",
+      "https://tritium.legal/blog/noroboto"
+    ]
+  ],
+  [
+    [
       "2026-05-22, 12:13:21",
       "https://news.ycombinator.com/item?id=48234793"
     ],
@@ -247,16 +257,6 @@
     [
       "I spent 50 hours drawing a line graph",
       "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-21, 07:39:21",
-      "https://news.ycombinator.com/item?id=48219158"
-    ],
-    [
-      "Artificial egg hatched 26 healthy chickens",
-      "https://www.nationalgeographic.com/science/article/artificial-egg-colossal-chickens-moa-dodo"
     ]
   ],
   [
