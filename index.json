@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-05-24, 18:06:45",
-      "https://news.ycombinator.com/item?id=48259608"
+      "2026-05-24, 18:28:11",
+      "https://news.ycombinator.com/item?id=48259784"
     ],
     [
-      "$100 CPU Shootout: Comparing the Ryzen 5 5500, Core i3-14100F, & Core i3-12100F",
-      "https://www.tomshardware.com/pc-components/cpus/100-budget-cpu-shootout-ddr4"
+      "Claude Is Not Your Architect. Stop Letting It Pretend",
+      "https://www.hollandtech.net/claude-is-not-your-architect/"
+    ]
+  ],
+  [
+    [
+      "2026-05-24, 17:53:16",
+      "https://news.ycombinator.com/item?id=48259485"
+    ],
+    [
+      "CBP updated its electronic device search directive in Jan 2026",
+      "https://www.mayerbrown.com/en/insights/publications/2026/04/traveling-abroad-your-phone-may-be-the-first-checkpoint"
     ]
   ],
   [
@@ -27,16 +37,6 @@
     [
       "Flick (YC F25) Is Hiring Front End Engineer to Build Figma for AI Filmmaking",
       "https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer"
-    ]
-  ],
-  [
-    [
-      "2026-05-24, 16:36:26",
-      "https://news.ycombinator.com/item?id=48258736"
-    ],
-    [
-      "FreeBSD Foundation Executive Director Tries Daily Driving FreeBSD on Laptop",
-      "https://www.phoronix.com/news/FreeBSD-On-Laptop-Driver"
     ]
   ],
   [
@@ -211,22 +211,22 @@
   ],
   [
     [
+      "2026-05-22, 15:59:26",
+      "https://news.ycombinator.com/item?id=48237663"
+    ],
+    [
+      "DeepSeek makes the V4 Pro price discount permanent",
+      "https://api-docs.deepseek.com/quick_start/pricing"
+    ]
+  ],
+  [
+    [
       "2026-05-22, 14:55:37",
       "https://news.ycombinator.com/item?id=48236791"
     ],
     [
       "Noroboto: Lying Fonts and Mitigation in Rust",
       "https://tritium.legal/blog/noroboto"
-    ]
-  ],
-  [
-    [
-      "2026-05-22, 12:13:21",
-      "https://news.ycombinator.com/item?id=48234793"
-    ],
-    [
-      "Predicting the 2026 Bristol Bay and Kodiak Salmon Runs",
-      "https://www.salmonfinder.com/2026/05/13/bristol-bay-kodiak-predictions-2026"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2026-05-21, 14:24:11",
+      "https://news.ycombinator.com/item?id=48223154"
+    ],
+    [
+      "Book Review: On the Calculation of Volume",
+      "https://www.stephendiehl.com/posts/calculation_of_volume/"
+    ]
+  ],
+  [
+    [
       "2026-05-20, 17:49:48",
       "https://news.ycombinator.com/item?id=48211418"
     ],
@@ -287,16 +297,6 @@
     [
       "Swap tables, flash-friendly swap, swap_ops, and more",
       "https://lwn.net/SubscriberLink/1072657/394b87abd7cc215e/"
-    ]
-  ],
-  [
-    [
-      "2026-05-19, 15:43:51",
-      "https://news.ycombinator.com/item?id=48194857"
-    ],
-    [
-      "Converting an Integer to a Decimal String in Under Two Nanoseconds",
-      "https://onlinelibrary.wiley.com/doi/10.1002/spe.70079"
     ]
   ]
 ]
