@@ -51,6 +51,7 @@
 * [2026-05-21, 12:55:16](https://news.ycombinator.com/item?id=48221877) - [Who Wins and Who Loses in Prediction Markets? Evidence from Polymarket](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6443103)
 * [2026-05-21, 12:15:02](https://news.ycombinator.com/item?id=48221415) - [FatGid: FreeBSD 14.x kernel local privilege escalation](https://fatgid.io/)
 * [2026-05-21, 12:00:20](https://news.ycombinator.com/item?id=48221230) - [Cekura (YC F24) Is Hiring](https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us)
+* [2026-05-21, 11:50:56](https://news.ycombinator.com/item?id=48221122) - [CPPL: A Circuit Prompt Programming Language](https://arxiv.org/abs/2605.17892)
 * [2026-05-21, 11:10:11](https://news.ycombinator.com/item?id=48220696) - [Python 3.15: features that didn't make the headlines](https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html)
 * [2026-05-21, 11:03:38](https://news.ycombinator.com/item?id=48220647) - [Flipper One – we need your help](https://blog.flipper.net/flipper-one-we-need-your-help/)
 * [2026-05-21, 11:02:26](https://news.ycombinator.com/item?id=48220639) - [Lost Images from the 1945 Trinity Nuclear Test Restored](https://spectrum.ieee.org/trinity-nuclear-test)

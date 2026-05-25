@@ -25,6 +25,7 @@
 * [2026-05-20, 20:19:46](https://news.ycombinator.com/item?id=48213529) - [A Wayland Compositor in Minecraft](https://modrinth.com/mod/waylandcraft)
 * [2026-05-20, 19:38:25](https://news.ycombinator.com/item?id=48212992) - [Not alive, but not dead: disembodied human brains used for drug testing](https://www.science.org/content/article/not-alive-not-dead-disembodied-human-brains-used-drug-testing)
 * [2026-05-20, 19:05:30](https://news.ycombinator.com/item?id=48212493) - [An OpenAI model has disproved a central conjecture in discrete geometry](https://openai.com/index/model-disproves-discrete-geometry-conjecture/)
+* [2026-05-20, 19:02:53](https://news.ycombinator.com/item?id=48212461) - [Everyone Against Us (2023)](https://www.chicagomag.com/chicago-magazine/april-2023/everyone-against-us/)
 * [2026-05-20, 18:50:59](https://news.ycombinator.com/item?id=48212279) - [Tracking Starbucks' 'widely recyclable' cups: none ended up at recycling](https://www.beyondplastics.org/press-releases/starbucks-cups-recyclable-report)
 * [2026-05-20, 18:48:30](https://news.ycombinator.com/item?id=48212242) - [Node.js 26.0.0 (Now with Temporal)](https://nodejs.org/en/blog/release/v26.0.0)
 * [2026-05-20, 18:33:56](https://news.ycombinator.com/item?id=48212046) - [Flipper One Tech Specs](https://docs.flipper.net/one/general/tech-specs)

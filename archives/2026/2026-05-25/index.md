@@ -4,8 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-05-25](index.md)
 
+* [2026-05-25, 19:12:29](https://news.ycombinator.com/item?id=48270497) - [Anthropic Cofounder Chris Olah's Remarks on Pope Leo XIV's \"Magnifica Humanitas\"](https://www.anthropic.com/news/chris-olah-pope-leo-encyclical)
+* [2026-05-25, 18:37:05](https://news.ycombinator.com/item?id=48270111) - [The bootstrapper's EU stack for under €10 per month](https://eualternative.eu/guides/bootstrapper-free-tier-eu-stack/)
+* [2026-05-25, 18:20:46](https://news.ycombinator.com/item?id=48269971) - [Alaska's oil revival sparks a new energy rush Into the Arctic](https://fortune.com/2026/05/24/alaska-oil-revival-energy-investment-arctic-drilling-national-petroleum-reserve-npra/)
+* [2026-05-25, 18:19:58](https://news.ycombinator.com/item?id=48269961) - [California moves to exempt Linux from its age-verification law after backlash](https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law)
+* [2026-05-25, 18:18:26](https://news.ycombinator.com/item?id=48269937) - [Weave (YC W25) is hiring ML, AI, product, & design engineers](https://jobs.ashbyhq.com/workweave)
+* [2026-05-25, 17:45:11](https://news.ycombinator.com/item?id=48269580) - [Exit IP VPN servers mitigation rollout](https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout)
 * [2026-05-25, 17:00:27](https://news.ycombinator.com/item?id=48269041) - [RentFlow (YC S24) Is Hiring](https://www.ycombinator.com/companies/rentflow/jobs/V2yneIE-senior-ai-ml-lead)
 * [2026-05-25, 16:44:49](https://news.ycombinator.com/item?id=48268871) - [Uber’s COO says it’s getting harder to justify money spent on tokenmaxxing](https://www.businessinsider.com/uber-coo-andrew-macdonald-ai-token-spending-harder-justify-2026-5)
+* [2026-05-25, 16:20:36](https://news.ycombinator.com/item?id=48268609) - [Founder of 7/11 Japan, Toshifumi Suzuki, has died at age 93](https://www.referenceforbusiness.com/biography/S-Z/Suzuki-Toshifumi-1932.html)
 * [2026-05-25, 15:12:33](https://news.ycombinator.com/item?id=48267829) - [Launch HN: Chert (YC P26) – Twilio for iMessage](https://www.trychert.com)
 * [2026-05-25, 14:32:47](https://news.ycombinator.com/item?id=48267324) - [Hive (YC S14) is hiring sr back-end developers (CA/US remote OK)](https://jobs.ashbyhq.com/hive.co/538c47f9-d008-49b7-b0d4-583d9294a481)
 * [2026-05-25, 14:29:52](https://news.ycombinator.com/item?id=48267290) - [The Cost of Safetyism](https://stevemagness.substack.com/p/the-cost-of-safetyism)
