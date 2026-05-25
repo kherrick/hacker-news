@@ -2,7 +2,6 @@
 
 * [2026-05-24, 19:12:46](https://news.ycombinator.com/item?id=48260140) - [CBP Directive 3340-049B: Border Search of Electronic Devices](https://www.cbp.gov/document/directives/cbp-directive-no-3340-049b-border-search-electronic-devices)
 * [2026-05-24, 19:10:26](https://news.ycombinator.com/item?id=48260117) - [A fundamental principle of aeronautical engineering has been overturned](https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/)
-* [2026-05-24, 18:56:09](https://news.ycombinator.com/item?id=48259990) - [Australia Four-Day Work Week Study Data Shows Boosted Productivity](https://scienceaim.com/australia-just-proved-the-four-day-work-week-works-here-is-what-the-data-actually-says/)
 * [2026-05-24, 18:39:10](https://news.ycombinator.com/item?id=48259861) - [Defeating Git Rigour Fatigue with Jujutsu](https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/)
 * [2026-05-24, 18:31:42](https://news.ycombinator.com/item?id=48259808) - [Migrating from Go to Rust](https://corrode.dev/learn/migration-guides/go-to-rust/)
 * [2026-05-24, 17:00:46](https://news.ycombinator.com/item?id=48258995) - [Flick (YC F25) Is Hiring Front End Engineer to Build Figma for AI Filmmaking](https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer)
@@ -20,7 +19,7 @@
 * [2026-05-24, 03:57:01](https://news.ycombinator.com/item?id=48254236) - [The C64 Dead Test Font](https://www.masswerk.at/nowgobang/2026/c64-dead-test-font)
 * [2026-05-24, 01:21:13](https://news.ycombinator.com/item?id=48253386) - [Microsoft open-sources “the earliest DOS source code discovered to date”](https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/)
 * [2026-05-24, 00:51:32](https://news.ycombinator.com/item?id=48253186) - [Scammers are abusing an internal Microsoft account to send spam links](https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/)
-* [2026-05-24, 00:30:50](https://news.ycombinator.com/item?id=48253060) - [Wake up! 16b](https://hellmood.111mb.de/wake_up_16b_writeup.html)
+* [2026-05-22, 15:59:26](https://news.ycombinator.com/item?id=48237663) - [DeepSeek makes the V4 Pro price discount permanent](https://api-docs.deepseek.com/quick_start/pricing)
 * [2026-05-22, 14:55:37](https://news.ycombinator.com/item?id=48236791) - [Noroboto: Lying Fonts and Mitigation in Rust](https://tritium.legal/blog/noroboto)
 * [2026-05-22, 12:16:56](https://news.ycombinator.com/item?id=48234831) - [Scientists solve 200-year-old puzzle of how tobacco plants make nicotine](https://www.york.ac.uk/news-and-events/news/2026/research/200-year-old-puzzle-tobacco-plants-nicotine/)
 * [2026-05-22, 08:32:39](https://news.ycombinator.com/item?id=48233398) - [I keep bouncing off the Scheme language](https://www.sicpers.info/2026/05/i-keep-bouncing-off-the-scheme-language/)
@@ -29,6 +28,7 @@
 * [2026-05-21, 15:05:28](https://news.ycombinator.com/item?id=48223997) - [I spent 50 hours drawing a line graph](https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html)
 * [2026-05-21, 14:24:11](https://news.ycombinator.com/item?id=48223154) - [Book Review: On the Calculation of Volume](https://www.stephendiehl.com/posts/calculation_of_volume/)
 * [2026-05-21, 00:15:32](https://news.ycombinator.com/item?id=48216146) - [LAN-LOK: The Antarctic DOS Sabotage Game Lost for 34 Years](https://alphapixeldev.com/lan-lok-the-antarctic-dos-sabotage-game-lost-for-34-years-part-1/)
+* [2026-05-19, 21:41:01](https://news.ycombinator.com/item?id=48200071) - [1k-year-old dingo bones show that it was injured, cared for, and ritually buried](https://www.popsci.com/environment/dingo-bones-ritual-burial-australia/)
 * [2026-05-19, 16:40:03](https://news.ycombinator.com/item?id=48195698) - [Using HTTP/2 Cleartext for a server in Go 1.24](https://www.clarityboss.com/blog/go-http2-cleartext-h2c-cloud-run)
 
 ## [Archives](archives/index.md)
