@@ -1,22 +1,72 @@
 [
   [
     [
-      "2026-05-25, 17:00:27",
-      "https://news.ycombinator.com/item?id=48269041"
+      "2026-05-25, 19:12:29",
+      "https://news.ycombinator.com/item?id=48270497"
     ],
     [
-      "RentFlow (YC S24) Is Hiring",
-      "https://www.ycombinator.com/companies/rentflow/jobs/V2yneIE-senior-ai-ml-lead"
+      "Anthropic Cofounder Chris Olah's Remarks on Pope Leo XIV's \"Magnifica Humanitas\"",
+      "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical"
     ]
   ],
   [
     [
-      "2026-05-25, 16:44:49",
-      "https://news.ycombinator.com/item?id=48268871"
+      "2026-05-25, 18:37:05",
+      "https://news.ycombinator.com/item?id=48270111"
     ],
     [
-      "Uber’s COO says it’s getting harder to justify money spent on tokenmaxxing",
-      "https://www.businessinsider.com/uber-coo-andrew-macdonald-ai-token-spending-harder-justify-2026-5"
+      "The bootstrapper's EU stack for under €10 per month",
+      "https://eualternative.eu/guides/bootstrapper-free-tier-eu-stack/"
+    ]
+  ],
+  [
+    [
+      "2026-05-25, 18:20:46",
+      "https://news.ycombinator.com/item?id=48269971"
+    ],
+    [
+      "Alaska's oil revival sparks a new energy rush Into the Arctic",
+      "https://fortune.com/2026/05/24/alaska-oil-revival-energy-investment-arctic-drilling-national-petroleum-reserve-npra/"
+    ]
+  ],
+  [
+    [
+      "2026-05-25, 18:19:58",
+      "https://news.ycombinator.com/item?id=48269961"
+    ],
+    [
+      "California moves to exempt Linux from its age-verification law after backlash",
+      "https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law"
+    ]
+  ],
+  [
+    [
+      "2026-05-25, 18:18:26",
+      "https://news.ycombinator.com/item?id=48269937"
+    ],
+    [
+      "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+      "https://jobs.ashbyhq.com/workweave"
+    ]
+  ],
+  [
+    [
+      "2026-05-25, 17:45:11",
+      "https://news.ycombinator.com/item?id=48269580"
+    ],
+    [
+      "Exit IP VPN servers mitigation rollout",
+      "https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout"
+    ]
+  ],
+  [
+    [
+      "2026-05-25, 16:20:36",
+      "https://news.ycombinator.com/item?id=48268609"
+    ],
+    [
+      "Founder of 7/11 Japan, Toshifumi Suzuki, has died at age 93",
+      "https://www.referenceforbusiness.com/biography/S-Z/Suzuki-Toshifumi-1932.html"
     ]
   ],
   [
@@ -71,26 +121,6 @@
   ],
   [
     [
-      "2026-05-25, 12:03:54",
-      "https://news.ycombinator.com/item?id=48265876"
-    ],
-    [
-      "Leave Me Behind",
-      "http://androidessence.com/leave-me-behind/"
-    ]
-  ],
-  [
-    [
-      "2026-05-25, 12:03:10",
-      "https://news.ycombinator.com/item?id=48265869"
-    ],
-    [
-      "I manage teams without a single call",
-      "https://orchidfiles.com/build-without-calls/"
-    ]
-  ],
-  [
-    [
       "2026-05-25, 10:11:29",
       "https://news.ycombinator.com/item?id=48265206"
     ],
@@ -115,28 +145,8 @@
       "https://news.ycombinator.com/item?id=48264635"
     ],
     [
-      "Show HN: Geomatic – a command-driven geometry studio enabled with autodiff",
+      "Show HN: Geomatic – A command-driven geometry studio enabled with autodiff",
       "https://www.tinyvolt.com/geomatic"
-    ]
-  ],
-  [
-    [
-      "2026-05-25, 03:54:14",
-      "https://news.ycombinator.com/item?id=48263253"
-    ],
-    [
-      "Jira Is Turing-Complete",
-      "https://seriot.ch/computation/jira.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-24, 19:10:26",
-      "https://news.ycombinator.com/item?id=48260117"
-    ],
-    [
-      "A fundamental principle of aeronautical engineering has been overturned",
-      "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "Migrating from Go to Rust",
       "https://corrode.dev/learn/migration-guides/go-to-rust/"
-    ]
-  ],
-  [
-    [
-      "2026-05-24, 17:22:48",
-      "https://news.ycombinator.com/item?id=48259192"
-    ],
-    [
-      "Building Pi with Pi",
-      "https://lucumr.pocoo.org/2026/5/24/pi-oss/"
     ]
   ],
   [
@@ -177,16 +177,6 @@
     [
       "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
       "https://esengine.github.io/DeepSeek-Reasonix/"
-    ]
-  ],
-  [
-    [
-      "2026-05-24, 01:21:13",
-      "https://news.ycombinator.com/item?id=48253386"
-    ],
-    [
-      "Microsoft open-sources “the earliest DOS source code discovered to date”",
-      "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/"
     ]
   ],
   [
@@ -217,16 +207,6 @@
     [
       "Didgeridoo playing as alternative treatment for obstructive sleep apnoea (2006)",
       "https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/"
-    ]
-  ],
-  [
-    [
-      "2026-05-22, 22:43:04",
-      "https://news.ycombinator.com/item?id=48242546"
-    ],
-    [
-      "Bug 1950764: Work Around Crash on Intel Raptor Lake CPU",
-      "https://phabricator.services.mozilla.com/D301917"
     ]
   ],
   [
@@ -271,6 +251,16 @@
   ],
   [
     [
+      "2026-05-21, 11:50:56",
+      "https://news.ycombinator.com/item?id=48221122"
+    ],
+    [
+      "CPPL: A Circuit Prompt Programming Language",
+      "https://arxiv.org/abs/2605.17892"
+    ]
+  ],
+  [
+    [
       "2026-05-21, 08:06:45",
       "https://news.ycombinator.com/item?id=48219373"
     ],
@@ -287,6 +277,16 @@
     [
       "He Lost It at the Movies",
       "https://www.theideasletter.org/essay/he-lost-it-at-the-movies/"
+    ]
+  ],
+  [
+    [
+      "2026-05-20, 19:02:53",
+      "https://news.ycombinator.com/item?id=48212461"
+    ],
+    [
+      "Everyone Against Us (2023)",
+      "https://www.chicagomag.com/chicago-magazine/april-2023/everyone-against-us/"
     ]
   ],
   [
