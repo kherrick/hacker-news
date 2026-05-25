@@ -1,12 +1,52 @@
 [
   [
     [
+      "2026-05-25, 21:34:40",
+      "https://news.ycombinator.com/item?id=48271933"
+    ],
+    [
+      "Ferrari Luce, Maranello's first ever electric car",
+      "https://www.topgear.com/car-news/electric/its-finally-here-meet-ferrari-luce-maranellos-first-ever-fully-electric-car"
+    ]
+  ],
+  [
+    [
+      "2026-05-25, 21:01:10",
+      "https://news.ycombinator.com/item?id=48271632"
+    ],
+    [
+      "Riscrithm – An intuitive RISC-V assembler and optimizer coded in Go",
+      "https://github.com/ghetea-patrick/riscrithm"
+    ]
+  ],
+  [
+    [
       "2026-05-25, 20:30:25",
       "https://news.ycombinator.com/item?id=48271327"
     ],
     [
       "Yoti age checks share facial photos and device fingerprints with third parties",
       "https://techxplore.com/news/2026-05-online-age-pointless-privacy.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-25, 20:24:16",
+      "https://news.ycombinator.com/item?id=48271270"
+    ],
+    [
+      "Ninth Circuit Panel Goes Out of Its Way to Question Section 230–DOE vs. Meta",
+      "https://blog.ericgoldman.org/archives/2026/05/ninth-circuit-panel-goes-out-of-its-way-to-question-section-230-doe-v-meta.htm"
+    ]
+  ],
+  [
+    [
+      "2026-05-25, 20:12:29",
+      "https://news.ycombinator.com/item?id=48271127"
+    ],
+    [
+      "Hacker News front page as a site",
+      "https://thefrontpage.dev/"
     ]
   ],
   [
@@ -37,16 +77,6 @@
     [
       "The bootstrapper's EU stack for under €10 per month",
       "https://eualternative.eu/guides/bootstrapper-free-tier-eu-stack/"
-    ]
-  ],
-  [
-    [
-      "2026-05-25, 18:20:46",
-      "https://news.ycombinator.com/item?id=48269971"
-    ],
-    [
-      "Alaska's oil revival sparks a new energy rush Into the Arctic",
-      "https://fortune.com/2026/05/24/alaska-oil-revival-energy-investment-arctic-drilling-national-petroleum-reserve-npra/"
     ]
   ],
   [
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2026-05-25, 08:25:00",
-      "https://news.ycombinator.com/item?id=48264635"
-    ],
-    [
-      "Show HN: Geomatic – A command-driven geometry studio enabled with autodiff",
-      "https://www.tinyvolt.com/geomatic"
-    ]
-  ],
-  [
-    [
       "2026-05-24, 18:31:42",
       "https://news.ycombinator.com/item?id=48259808"
     ],
@@ -187,16 +207,6 @@
     [
       "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
       "https://esengine.github.io/DeepSeek-Reasonix/"
-    ]
-  ],
-  [
-    [
-      "2026-05-23, 08:38:44",
-      "https://news.ycombinator.com/item?id=48245916"
-    ],
-    [
-      "White Rabbit – sub-nanosecond synchronization for large distributed systems",
-      "https://ohwr.org/projects/white-rabbit/"
     ]
   ],
   [
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2026-05-22, 14:56:57",
-      "https://news.ycombinator.com/item?id=48236816"
-    ],
-    [
-      "AI errno(2) values",
-      "https://www.netmeister.org/blog/ai-errno.html"
-    ]
-  ],
-  [
-    [
       "2026-05-22, 14:12:08",
       "https://news.ycombinator.com/item?id=48236122"
     ],
@@ -261,22 +261,22 @@
   ],
   [
     [
+      "2026-05-21, 16:25:46",
+      "https://news.ycombinator.com/item?id=48225338"
+    ],
+    [
+      "Show HN: Write your BPF programs in Go, not C",
+      "https://github.com/boratanrikulu/gobee"
+    ]
+  ],
+  [
+    [
       "2026-05-21, 11:50:56",
       "https://news.ycombinator.com/item?id=48221122"
     ],
     [
       "CPPL: A Circuit Prompt Programming Language",
       "https://arxiv.org/abs/2605.17892"
-    ]
-  ],
-  [
-    [
-      "2026-05-21, 08:06:45",
-      "https://news.ycombinator.com/item?id=48219373"
-    ],
-    [
-      "The physicists who convinced Fermilab to send Brazil's emails",
-      "https://buttondown.com/blog/brazil-fermilab-email"
     ]
   ],
   [
