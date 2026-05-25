@@ -17,6 +17,7 @@
 * [2026-05-22, 20:26:07](https://news.ycombinator.com/item?id=48241172) - [Models.dev: open-source database of AI model specs, pricing, and capabilities](https://github.com/anomalyco/models.dev)
 * [2026-05-22, 19:49:57](https://news.ycombinator.com/item?id=48240679) - [GitHub introduces staged publishing and new install-time controls for NPM](https://github.blog/changelog/2026-05-22-staged-publishing-and-new-install-time-controls-for-npm/)
 * [2026-05-22, 19:31:45](https://news.ycombinator.com/item?id=48240419) - [Project Glasswing: An Initial Update](https://www.anthropic.com/research/glasswing-initial-update)
+* [2026-05-22, 19:27:27](https://news.ycombinator.com/item?id=48240356) - [Jensen–Shannon Divergence](https://en.wikipedia.org/wiki/Jensen%E2%80%93Shannon_divergence)
 * [2026-05-22, 19:25:35](https://news.ycombinator.com/item?id=48240331) - [Waymo expands pause to four cities as robotaxis keep driving into floods](https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/)
 * [2026-05-22, 19:24:58](https://news.ycombinator.com/item?id=48240323) - [USCIS Will Grant 'Adjustment of Status' Only in Extraordinary Circumstances](https://www.uscis.gov/newsroom/news-releases/us-citizenship-and-immigration-services-will-grant-adjustment-of-status-only-in-extraordinary)
 * [2026-05-22, 19:16:09](https://news.ycombinator.com/item?id=48240198) - [Anthropic's \"Profitability\" Swindle](https://www.wheresyoured.at/anthropics-profitability-swindle/)

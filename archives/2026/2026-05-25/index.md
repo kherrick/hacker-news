@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-05-25](index.md)
 
+* [2026-05-25, 20:30:25](https://news.ycombinator.com/item?id=48271327) - [Yoti age checks share facial photos and device fingerprints with third parties](https://techxplore.com/news/2026-05-online-age-pointless-privacy.html)
+* [2026-05-25, 19:43:45](https://news.ycombinator.com/item?id=48270812) - [Japan's New Hypersonic Engine Could Make 2-Hour Flights to the US a Reality](https://www.bgr.com/2178211/japan-hypersonic-engine-ramjet-2-hour-flights-to-us/)
+* [2026-05-25, 19:37:57](https://news.ycombinator.com/item?id=48270770) - [Norway's 2 petabytes of Huawei flash storage and LLM training](https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910)
 * [2026-05-25, 19:12:29](https://news.ycombinator.com/item?id=48270497) - [Anthropic Cofounder Chris Olah's Remarks on Pope Leo XIV's \"Magnifica Humanitas\"](https://www.anthropic.com/news/chris-olah-pope-leo-encyclical)
 * [2026-05-25, 18:37:05](https://news.ycombinator.com/item?id=48270111) - [The bootstrapper's EU stack for under €10 per month](https://eualternative.eu/guides/bootstrapper-free-tier-eu-stack/)
 * [2026-05-25, 18:20:46](https://news.ycombinator.com/item?id=48269971) - [Alaska's oil revival sparks a new energy rush Into the Arctic](https://fortune.com/2026/05/24/alaska-oil-revival-energy-investment-arctic-drilling-national-petroleum-reserve-npra/)
