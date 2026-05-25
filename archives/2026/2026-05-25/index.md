@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-05-25](index.md)
 
+* [2026-05-25, 22:42:41](https://news.ycombinator.com/item?id=48272749) - [Canada losing top talent as workers head to the U.S.](https://www.bnnbloomberg.ca/investing/market-outlook/2026/05/25/market-outlook-canada-losing-top-talent-as-workers-head-to-the-us/)
+* [2026-05-25, 21:50:03](https://news.ycombinator.com/item?id=48272393) - [Show HN: OpenBrief – Local-first video downloader/summarizer](https://github.com/tantara/openbrief)
+* [2026-05-25, 21:45:57](https://news.ycombinator.com/item?id=48272354) - [Microsoft Copilot Cowork Exfiltrates Files](https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files)
 * [2026-05-25, 21:34:40](https://news.ycombinator.com/item?id=48271933) - [Ferrari Luce, Maranello's first ever electric car](https://www.topgear.com/car-news/electric/its-finally-here-meet-ferrari-luce-maranellos-first-ever-fully-electric-car)
 * [2026-05-25, 21:01:10](https://news.ycombinator.com/item?id=48271632) - [Riscrithm – An intuitive RISC-V assembler and optimizer coded in Go](https://github.com/ghetea-patrick/riscrithm)
 * [2026-05-25, 20:30:25](https://news.ycombinator.com/item?id=48271327) - [Yoti age checks share facial photos and device fingerprints with third parties](https://techxplore.com/news/2026-05-online-age-pointless-privacy.html)
