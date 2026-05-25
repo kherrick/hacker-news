@@ -59,6 +59,7 @@
 * [2026-05-21, 09:31:15](https://news.ycombinator.com/item?id=48219992) - [No Slop Grenade](https://noslopgrenade.com/)
 * [2026-05-21, 09:22:00](https://news.ycombinator.com/item?id=48219918) - [Show HN: Rmux – A programmable terminal multiplexer with a Playwright-style SDK](https://github.com/helvesec/rmux)
 * [2026-05-21, 09:14:13](https://news.ycombinator.com/item?id=48219853) - [AI Engineering from Scratch](https://aiengineeringfromscratch.com)
+* [2026-05-21, 08:06:45](https://news.ycombinator.com/item?id=48219373) - [The physicists who convinced Fermilab to send Brazil's emails](https://buttondown.com/blog/brazil-fermilab-email)
 * [2026-05-21, 08:01:53](https://news.ycombinator.com/item?id=48219340) - [Typewise (YC S22) Is Hiring an AI Growth Engineer (Zurich or Remote)](https://www.ycombinator.com/companies/typewise/jobs/HmCzfBK-ai-growth-engineer)
 * [2026-05-21, 07:39:21](https://news.ycombinator.com/item?id=48219158) - [Artificial egg hatched 26 healthy chickens](https://www.nationalgeographic.com/science/article/artificial-egg-colossal-chickens-moa-dodo)
 * [2026-05-21, 07:21:55](https://news.ycombinator.com/item?id=48219060) - [Vivaldi 8.0](https://vivaldi.com/blog/vivaldi-on-desktop-8-0/)
