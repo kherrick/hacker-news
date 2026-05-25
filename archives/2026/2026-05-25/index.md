@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-25](index.md)
 
+* [2026-05-25, 17:00:27](https://news.ycombinator.com/item?id=48269041) - [RentFlow (YC S24) Is Hiring](https://www.ycombinator.com/companies/rentflow/jobs/V2yneIE-senior-ai-ml-lead)
+* [2026-05-25, 16:44:49](https://news.ycombinator.com/item?id=48268871) - [Uber’s COO says it’s getting harder to justify money spent on tokenmaxxing](https://www.businessinsider.com/uber-coo-andrew-macdonald-ai-token-spending-harder-justify-2026-5)
 * [2026-05-25, 15:12:33](https://news.ycombinator.com/item?id=48267829) - [Launch HN: Chert (YC P26) – Twilio for iMessage](https://www.trychert.com)
 * [2026-05-25, 14:32:47](https://news.ycombinator.com/item?id=48267324) - [Hive (YC S14) is hiring sr back-end developers (CA/US remote OK)](https://jobs.ashbyhq.com/hive.co/538c47f9-d008-49b7-b0d4-583d9294a481)
 * [2026-05-25, 14:29:52](https://news.ycombinator.com/item?id=48267290) - [The Cost of Safetyism](https://stevemagness.substack.com/p/the-cost-of-safetyism)
