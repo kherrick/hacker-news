@@ -4,9 +4,18 @@
 
 ### [Archives](../../index.md) for [2026-05-25](index.md)
 
+* [2026-05-25, 15:12:33](https://news.ycombinator.com/item?id=48267829) - [Launch HN: Chert (YC P26) – Twilio for iMessage](https://www.trychert.com)
+* [2026-05-25, 14:32:47](https://news.ycombinator.com/item?id=48267324) - [Hive (YC S14) is hiring sr back-end developers (CA/US remote OK)](https://jobs.ashbyhq.com/hive.co/538c47f9-d008-49b7-b0d4-583d9294a481)
+* [2026-05-25, 14:29:52](https://news.ycombinator.com/item?id=48267290) - [The Cost of Safetyism](https://stevemagness.substack.com/p/the-cost-of-safetyism)
+* [2026-05-25, 14:15:19](https://news.ycombinator.com/item?id=48267126) - [C extensions, portability, and alternative compilers](https://lemon.rip/w/6-c-extensions-compilers/)
+* [2026-05-25, 13:56:39](https://news.ycombinator.com/item?id=48266906) - [Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks](https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/)
+* [2026-05-25, 13:55:28](https://news.ycombinator.com/item?id=48266895) - [2026 HIPAA Security Rule Update](https://medcurity.com/hipaa-security-rule-2026-update/)
 * [2026-05-25, 13:17:58](https://news.ycombinator.com/item?id=48266485) - [Pope Leo XIV says AI must serve humanity, not the powerful few](https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/)
+* [2026-05-25, 13:12:40](https://news.ycombinator.com/item?id=48266435) - [Pope Leo: opaque AI run by few firms risks \"New Forms of Dehumanization\"](https://variety.com/2026/biz/global/pope-leo-ai-encyclical-algorithms-threaten-dehumanisation-1236758186/)
+* [2026-05-25, 13:09:53](https://news.ycombinator.com/item?id=48266422) - [Microsoft pulls plug on plans for 244-acre data center in Caledonia](https://www.tmj4.com/news/racine-county/microsoft-pulls-plug-on-plans-for-244-acre-data-center-in-caledonia-after-community-pushback)
 * [2026-05-25, 12:27:11](https://news.ycombinator.com/item?id=48266051) - [Search engines alternatives now that Google isn't Google anymore](https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/)
 * [2026-05-25, 12:03:54](https://news.ycombinator.com/item?id=48265876) - [Leave Me Behind](http://androidessence.com/leave-me-behind/)
+* [2026-05-25, 12:03:10](https://news.ycombinator.com/item?id=48265869) - [I manage teams without a single call](https://orchidfiles.com/build-without-calls/)
 * [2026-05-25, 10:11:29](https://news.ycombinator.com/item?id=48265206) - [Magnifica Humanitas (Encyclical Letter)](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html)
 * [2026-05-25, 09:43:03](https://news.ycombinator.com/item?id=48265056) - [IBM Spins Off the First Pure-Play Quantum Chip Foundry](https://futurumgroup.com/insights/2-billion-chips-act-investment-in-quantum-bets-on-ibms-300mm-superconducting-silicon/)
 * [2026-05-25, 09:41:38](https://news.ycombinator.com/item?id=48265049) - [Rising seas will swallow New Orleans. People need to start relocating now](https://www.cnn.com/2026/05/25/climate/new-orleans-sea-level-rise-relocation)

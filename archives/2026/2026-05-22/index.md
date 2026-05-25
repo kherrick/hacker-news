@@ -73,4 +73,5 @@
 * [2026-05-22, 04:29:23](https://news.ycombinator.com/item?id=48231938) - [Slumber a TUI HTTP Client](https://slumber.lucaspickering.me)
 * [2026-05-22, 03:13:07](https://news.ycombinator.com/item?id=48231547) - [Build Adafruit projects right from Firefox](https://www.firefox.com/en-US/landing/adafruit/)
 * [2026-05-22, 02:35:54](https://news.ycombinator.com/item?id=48231319) - [Cleve Moler (Matlab, MathWorks) passed away on May 20, 2026](https://www.mathworks.com/company/aboutus/founders/clevemoler.html)
+* [2026-05-22, 02:24:48](https://news.ycombinator.com/item?id=48231247) - [Gnutella: A Protocol Outliving the World That Created It](https://rickcarlino.com/notes/p2p/gnutella-explanation.html)
 * [2026-05-22, 01:30:45](https://news.ycombinator.com/item?id=48230892) - [Samsung chip workers will get an average $340k bonus as AI profits soar](https://qz.com/samsung-chip-workers-bonus-ai-profits-052126)
