@@ -41,6 +41,7 @@
 * [2026-05-22, 14:53:55](https://news.ycombinator.com/item?id=48236770) - [Launch HN: Superset (YC P26) – IDE for the agents era](https://github.com/superset-sh/superset)
 * [2026-05-22, 14:36:27](https://news.ycombinator.com/item?id=48236501) - [Robert X Cringely is back to blogging](https://www.cringely.com/)
 * [2026-05-22, 14:36:27](https://news.ycombinator.com/item?id=48236501) - [I’m Writing Again](https://www.cringely.com/2026/05/21/im-writing-again/)
+* [2026-05-22, 14:12:08](https://news.ycombinator.com/item?id=48236122) - [Bytecode VMs in surprising places (2024)](https://dubroy.com/blog/bytecode-vms-in-surprising-places/)
 * [2026-05-22, 14:06:44](https://news.ycombinator.com/item?id=48236057) - [Neoclassical C++: segmented iterators revisited](https://boostedcpp.net/2026/05/18/neoclassical-c-segmented-iterators-revisited-1/)
 * [2026-05-22, 13:40:55](https://news.ycombinator.com/item?id=48235733) - [The Spread of Christianity Animated](https://www.openculture.com/2026/05/the-spread-of-christianity-animated-from-antiquity-until-today.html)
 * [2026-05-22, 13:22:42](https://news.ycombinator.com/item?id=48235526) - [The AI Elephant in the Room](https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/)
