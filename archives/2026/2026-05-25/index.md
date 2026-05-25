@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-05-25](index.md)
 
+* [2026-05-25, 21:34:40](https://news.ycombinator.com/item?id=48271933) - [Ferrari Luce, Maranello's first ever electric car](https://www.topgear.com/car-news/electric/its-finally-here-meet-ferrari-luce-maranellos-first-ever-fully-electric-car)
+* [2026-05-25, 21:01:10](https://news.ycombinator.com/item?id=48271632) - [Riscrithm – An intuitive RISC-V assembler and optimizer coded in Go](https://github.com/ghetea-patrick/riscrithm)
 * [2026-05-25, 20:30:25](https://news.ycombinator.com/item?id=48271327) - [Yoti age checks share facial photos and device fingerprints with third parties](https://techxplore.com/news/2026-05-online-age-pointless-privacy.html)
+* [2026-05-25, 20:24:16](https://news.ycombinator.com/item?id=48271270) - [Ninth Circuit Panel Goes Out of Its Way to Question Section 230–DOE vs. Meta](https://blog.ericgoldman.org/archives/2026/05/ninth-circuit-panel-goes-out-of-its-way-to-question-section-230-doe-v-meta.htm)
+* [2026-05-25, 20:12:29](https://news.ycombinator.com/item?id=48271127) - [Hacker News front page as a site](https://thefrontpage.dev/)
 * [2026-05-25, 19:43:45](https://news.ycombinator.com/item?id=48270812) - [Japan's New Hypersonic Engine Could Make 2-Hour Flights to the US a Reality](https://www.bgr.com/2178211/japan-hypersonic-engine-ramjet-2-hour-flights-to-us/)
 * [2026-05-25, 19:37:57](https://news.ycombinator.com/item?id=48270770) - [Norway's 2 petabytes of Huawei flash storage and LLM training](https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910)
 * [2026-05-25, 19:12:29](https://news.ycombinator.com/item?id=48270497) - [Anthropic Cofounder Chris Olah's Remarks on Pope Leo XIV's \"Magnifica Humanitas\"](https://www.anthropic.com/news/chris-olah-pope-leo-encyclical)

@@ -28,6 +28,7 @@
 * [2026-05-21, 16:35:01](https://news.ycombinator.com/item?id=48225489) - [London Mayor Blocks Palantir](https://www.theguardian.com/uk-news/2026/may/21/london-mayor-sadiq-khan-blocks-met-police-deal-with-palantir)
 * [2026-05-21, 16:30:47](https://news.ycombinator.com/item?id=48225426) - [Waymo pauses Atlanta service as its robotaxis keep driving into floods](https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/)
 * [2026-05-21, 16:26:58](https://news.ycombinator.com/item?id=48225357) - [Spotify will start reserving concert tickets for fans](https://www.hollywoodreporter.com/music/music-industry-news/spotify-will-start-reserving-concert-tickets-for-superfans-1236603106/)
+* [2026-05-21, 16:25:46](https://news.ycombinator.com/item?id=48225338) - [Show HN: Write your BPF programs in Go, not C](https://github.com/boratanrikulu/gobee)
 * [2026-05-21, 16:23:11](https://news.ycombinator.com/item?id=48225297) - [Project Hail Mary – Stellar Navigation Chart](https://valhovey.github.io/gaia-mary/)
 * [2026-05-21, 16:07:13](https://news.ycombinator.com/item?id=48225040) - [Launch HN: Runtime (YC P26) – Sandboxed coding agents for everyone on a team](https://www.runtm.com/)
 * [2026-05-21, 15:50:04](https://news.ycombinator.com/item?id=48224768) - [Museum of Pocket Calculating Devices](https://www.calculators.de/)
