@@ -7,6 +7,7 @@
 * [2026-05-21, 23:30:10](https://news.ycombinator.com/item?id=48230049) - [The IBM-ification of Google?](https://zeroshot.bearblog.dev/google-is-shattering-under-its-own-weight-the-ibm-ification-of-google/)
 * [2026-05-21, 21:55:56](https://news.ycombinator.com/item?id=48229319) - [The memory shortage is causing a repricing of consumer electronics](https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone)
 * [2026-05-21, 20:56:36](https://news.ycombinator.com/item?id=48228788) - [Uv is fantastic, but its package management UX is a mess](https://www.loopwerk.io/articles/2026/uv-ux-mess/)
+* [2026-05-21, 20:40:47](https://news.ycombinator.com/item?id=48228608) - [C constructs that still don't work in C++](https://lospino.so/blog/c-constructs-that-still-dont-work-in-cpp/)
 * [2026-05-21, 20:31:04](https://news.ycombinator.com/item?id=48228491) - [There’s a real chance you will not have the same job by the end of 2027](https://www.elenaverna.com/p/youll-lose-your-job-in-2027)
 * [2026-05-21, 20:23:37](https://news.ycombinator.com/item?id=48228411) - [Show HN: Open-source .docx editor library for building document apps](https://github.com/eigenpal/docx-editor)
 * [2026-05-21, 19:53:51](https://news.ycombinator.com/item?id=48228106) - [Show HN: Anyone interested in a tool helps to explore C++ ASTs](https://uvic-aurora.github.io/acav-manual/index.html)
