@@ -1,12 +1,62 @@
 [
   [
     [
+      "2026-05-25, 13:17:58",
+      "https://news.ycombinator.com/item?id=48266485"
+    ],
+    [
+      "Pope Leo XIV says AI must serve humanity, not the powerful few",
+      "https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/"
+    ]
+  ],
+  [
+    [
+      "2026-05-25, 12:27:11",
+      "https://news.ycombinator.com/item?id=48266051"
+    ],
+    [
+      "Search engines alternatives now that Google isn't Google anymore",
+      "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/"
+    ]
+  ],
+  [
+    [
+      "2026-05-25, 12:03:54",
+      "https://news.ycombinator.com/item?id=48265876"
+    ],
+    [
+      "Leave Me Behind",
+      "http://androidessence.com/leave-me-behind/"
+    ]
+  ],
+  [
+    [
       "2026-05-25, 10:11:29",
       "https://news.ycombinator.com/item?id=48265206"
     ],
     [
       "Magnifica Humanitas (Encyclical Letter)",
       "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-25, 09:43:03",
+      "https://news.ycombinator.com/item?id=48265056"
+    ],
+    [
+      "IBM Spins Off the First Pure-Play Quantum Chip Foundry",
+      "https://futurumgroup.com/insights/2-billion-chips-act-investment-in-quantum-bets-on-ibms-300mm-superconducting-silicon/"
+    ]
+  ],
+  [
+    [
+      "2026-05-25, 09:41:38",
+      "https://news.ycombinator.com/item?id=48265049"
+    ],
+    [
+      "Rising seas will swallow New Orleans. People need to start relocating now",
+      "https://www.cnn.com/2026/05/25/climate/new-orleans-sea-level-rise-relocation"
     ]
   ],
   [
@@ -21,32 +71,12 @@
   ],
   [
     [
-      "2026-05-25, 05:33:31",
-      "https://news.ycombinator.com/item?id=48263711"
-    ],
-    [
-      "Why Do We Sleep Under Blankets, Even on the Hottest Nights? (2017)",
-      "https://www.atlasobscura.com/articles/blankets-summer-hot"
-    ]
-  ],
-  [
-    [
       "2026-05-25, 03:54:14",
       "https://news.ycombinator.com/item?id=48263253"
     ],
     [
       "Jira Is Turing-Complete",
       "https://seriot.ch/computation/jira.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-25, 03:47:24",
-      "https://news.ycombinator.com/item?id=48263238"
-    ],
-    [
-      "The Eternal Sloptember",
-      "https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html"
     ]
   ],
   [
@@ -141,26 +171,6 @@
   ],
   [
     [
-      "2026-05-24, 11:42:15",
-      "https://news.ycombinator.com/item?id=48256475"
-    ],
-    [
-      "Mastering Dyalog APL",
-      "https://mastering.dyalog.com/README.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-24, 08:29:38",
-      "https://news.ycombinator.com/item?id=48255593"
-    ],
-    [
-      "Greg Brockman interview [video]",
-      "https://fs.blog/knowledge-project-podcast/greg-brockman/"
-    ]
-  ],
-  [
-    [
       "2026-05-24, 01:21:13",
       "https://news.ycombinator.com/item?id=48253386"
     ],
@@ -211,12 +221,32 @@
   ],
   [
     [
+      "2026-05-22, 20:31:04",
+      "https://news.ycombinator.com/item?id=48241239"
+    ],
+    [
+      "you_can::turn_off_the_borrow_checker",
+      "https://docs.rs/you-can/latest/you_can/attr.turn_off_the_borrow_checker.html"
+    ]
+  ],
+  [
+    [
       "2026-05-22, 19:04:25",
       "https://news.ycombinator.com/item?id=48240025"
     ],
     [
       "I love my Bluetooth keyboard",
       "https://liquidbrain.net/blog/i-love-my-bluetooth-keyboard/"
+    ]
+  ],
+  [
+    [
+      "2026-05-22, 14:56:57",
+      "https://news.ycombinator.com/item?id=48236816"
+    ],
+    [
+      "AI errno(2) values",
+      "https://www.netmeister.org/blog/ai-errno.html"
     ]
   ],
   [
@@ -231,36 +261,6 @@
   ],
   [
     [
-      "2026-05-22, 12:16:56",
-      "https://news.ycombinator.com/item?id=48234831"
-    ],
-    [
-      "Scientists solve 200-year-old puzzle of how tobacco plants make nicotine",
-      "https://www.york.ac.uk/news-and-events/news/2026/research/200-year-old-puzzle-tobacco-plants-nicotine/"
-    ]
-  ],
-  [
-    [
-      "2026-05-22, 03:13:07",
-      "https://news.ycombinator.com/item?id=48231547"
-    ],
-    [
-      "Build Adafruit projects right from Firefox",
-      "https://www.firefox.com/en-US/landing/adafruit/"
-    ]
-  ],
-  [
-    [
-      "2026-05-21, 20:40:47",
-      "https://news.ycombinator.com/item?id=48228608"
-    ],
-    [
-      "C constructs that still don't work in C++",
-      "https://lospino.so/blog/c-constructs-that-still-dont-work-in-cpp/"
-    ]
-  ],
-  [
-    [
       "2026-05-21, 15:05:28",
       "https://news.ycombinator.com/item?id=48223997"
     ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2026-05-20, 20:36:19",
-      "https://news.ycombinator.com/item?id=48213750"
+      "2026-05-21, 08:06:45",
+      "https://news.ycombinator.com/item?id=48219373"
     ],
     [
-      "Gorilla: A fast, scalable, in-memory time series database (2016)",
-      "https://blog.acolyer.org/2016/05/03/gorilla-a-fast-scalable-in-memory-time-series-database/"
+      "The physicists who convinced Fermilab to send Brazil's emails",
+      "https://buttondown.com/blog/brazil-fermilab-email"
     ]
   ],
   [
