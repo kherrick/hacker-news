@@ -1,12 +1,92 @@
 [
   [
     [
+      "2026-05-25, 15:12:33",
+      "https://news.ycombinator.com/item?id=48267829"
+    ],
+    [
+      "Launch HN: Chert (YC P26) – Twilio for iMessage",
+      "https://www.trychert.com"
+    ]
+  ],
+  [
+    [
+      "2026-05-25, 14:32:47",
+      "https://news.ycombinator.com/item?id=48267324"
+    ],
+    [
+      "Hive (YC S14) is hiring sr back-end developers (CA/US remote OK)",
+      "https://jobs.ashbyhq.com/hive.co/538c47f9-d008-49b7-b0d4-583d9294a481"
+    ]
+  ],
+  [
+    [
+      "2026-05-25, 14:29:52",
+      "https://news.ycombinator.com/item?id=48267290"
+    ],
+    [
+      "The Cost of Safetyism",
+      "https://stevemagness.substack.com/p/the-cost-of-safetyism"
+    ]
+  ],
+  [
+    [
+      "2026-05-25, 14:15:19",
+      "https://news.ycombinator.com/item?id=48267126"
+    ],
+    [
+      "C extensions, portability, and alternative compilers",
+      "https://lemon.rip/w/6-c-extensions-compilers/"
+    ]
+  ],
+  [
+    [
+      "2026-05-25, 13:56:39",
+      "https://news.ycombinator.com/item?id=48266906"
+    ],
+    [
+      "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
+      "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/"
+    ]
+  ],
+  [
+    [
+      "2026-05-25, 13:55:28",
+      "https://news.ycombinator.com/item?id=48266895"
+    ],
+    [
+      "2026 HIPAA Security Rule Update",
+      "https://medcurity.com/hipaa-security-rule-2026-update/"
+    ]
+  ],
+  [
+    [
       "2026-05-25, 13:17:58",
       "https://news.ycombinator.com/item?id=48266485"
     ],
     [
       "Pope Leo XIV says AI must serve humanity, not the powerful few",
       "https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/"
+    ]
+  ],
+  [
+    [
+      "2026-05-25, 13:12:40",
+      "https://news.ycombinator.com/item?id=48266435"
+    ],
+    [
+      "Pope Leo: opaque AI run by few firms risks \"New Forms of Dehumanization\"",
+      "https://variety.com/2026/biz/global/pope-leo-ai-encyclical-algorithms-threaten-dehumanisation-1236758186/"
+    ]
+  ],
+  [
+    [
+      "2026-05-25, 13:09:53",
+      "https://news.ycombinator.com/item?id=48266422"
+    ],
+    [
+      "Microsoft pulls plug on plans for 244-acre data center in Caledonia",
+      "https://www.tmj4.com/news/racine-county/microsoft-pulls-plug-on-plans-for-244-acre-data-center-in-caledonia-after-community-pushback"
     ]
   ],
   [
@@ -31,6 +111,16 @@
   ],
   [
     [
+      "2026-05-25, 12:03:10",
+      "https://news.ycombinator.com/item?id=48265869"
+    ],
+    [
+      "I manage teams without a single call",
+      "https://orchidfiles.com/build-without-calls/"
+    ]
+  ],
+  [
+    [
       "2026-05-25, 10:11:29",
       "https://news.ycombinator.com/item?id=48265206"
     ],
@@ -47,16 +137,6 @@
     [
       "IBM Spins Off the First Pure-Play Quantum Chip Foundry",
       "https://futurumgroup.com/insights/2-billion-chips-act-investment-in-quantum-bets-on-ibms-300mm-superconducting-silicon/"
-    ]
-  ],
-  [
-    [
-      "2026-05-25, 09:41:38",
-      "https://news.ycombinator.com/item?id=48265049"
-    ],
-    [
-      "Rising seas will swallow New Orleans. People need to start relocating now",
-      "https://www.cnn.com/2026/05/25/climate/new-orleans-sea-level-rise-relocation"
     ]
   ],
   [
@@ -91,42 +171,12 @@
   ],
   [
     [
-      "2026-05-24, 18:39:10",
-      "https://news.ycombinator.com/item?id=48259861"
-    ],
-    [
-      "Defeating Git Rigour Fatigue with Jujutsu",
-      "https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/"
-    ]
-  ],
-  [
-    [
       "2026-05-24, 18:31:42",
       "https://news.ycombinator.com/item?id=48259808"
     ],
     [
       "Migrating from Go to Rust",
       "https://corrode.dev/learn/migration-guides/go-to-rust/"
-    ]
-  ],
-  [
-    [
-      "2026-05-24, 17:22:48",
-      "https://news.ycombinator.com/item?id=48259192"
-    ],
-    [
-      "Building Pi with Pi",
-      "https://lucumr.pocoo.org/2026/5/24/pi-oss/"
-    ]
-  ],
-  [
-    [
-      "2026-05-24, 16:31:29",
-      "https://news.ycombinator.com/item?id=48258684"
-    ],
-    [
-      "Memory has grown to nearly two-thirds of AI chip component costs",
-      "https://epoch.ai/data-insights/ai-chip-component-cost-shares"
     ]
   ],
   [
@@ -147,46 +197,6 @@
     [
       "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
       "https://esengine.github.io/DeepSeek-Reasonix/"
-    ]
-  ],
-  [
-    [
-      "2026-05-24, 12:55:53",
-      "https://news.ycombinator.com/item?id=48256912"
-    ],
-    [
-      "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
-      "https://arxiv.org/abs/2605.06445"
-    ]
-  ],
-  [
-    [
-      "2026-05-24, 12:07:34",
-      "https://news.ycombinator.com/item?id=48256597"
-    ],
-    [
-      "Childhood Computing",
-      "https://susam.net/childhood-computing.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-24, 01:21:13",
-      "https://news.ycombinator.com/item?id=48253386"
-    ],
-    [
-      "Microsoft open-sources “the earliest DOS source code discovered to date”",
-      "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/"
-    ]
-  ],
-  [
-    [
-      "2026-05-24, 00:51:32",
-      "https://news.ycombinator.com/item?id=48253186"
-    ],
-    [
-      "Scammers are abusing an internal Microsoft account to send spam links",
-      "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/"
     ]
   ],
   [
@@ -221,26 +231,6 @@
   ],
   [
     [
-      "2026-05-22, 20:31:04",
-      "https://news.ycombinator.com/item?id=48241239"
-    ],
-    [
-      "you_can::turn_off_the_borrow_checker",
-      "https://docs.rs/you-can/latest/you_can/attr.turn_off_the_borrow_checker.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-22, 19:04:25",
-      "https://news.ycombinator.com/item?id=48240025"
-    ],
-    [
-      "I love my Bluetooth keyboard",
-      "https://liquidbrain.net/blog/i-love-my-bluetooth-keyboard/"
-    ]
-  ],
-  [
-    [
       "2026-05-22, 14:56:57",
       "https://news.ycombinator.com/item?id=48236816"
     ],
@@ -257,6 +247,16 @@
     [
       "Bytecode VMs in surprising places (2024)",
       "https://dubroy.com/blog/bytecode-vms-in-surprising-places/"
+    ]
+  ],
+  [
+    [
+      "2026-05-22, 02:24:48",
+      "https://news.ycombinator.com/item?id=48231247"
+    ],
+    [
+      "Gnutella: A Protocol Outliving the World That Created It",
+      "https://rickcarlino.com/notes/p2p/gnutella-explanation.html"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2026-05-21, 05:22:07",
+      "https://news.ycombinator.com/item?id=48218210"
+    ],
+    [
+      "He Lost It at the Movies",
+      "https://www.theideasletter.org/essay/he-lost-it-at-the-movies/"
+    ]
+  ],
+  [
+    [
       "2026-05-20, 08:13:53",
       "https://news.ycombinator.com/item?id=48204632"
     ],
     [
       "Notes about reading messages with the Python email packages",
       "https://utcc.utoronto.ca/~cks/space/blog/python/EmailPackagesNotes"
-    ]
-  ],
-  [
-    [
-      "2026-05-19, 16:40:03",
-      "https://news.ycombinator.com/item?id=48195698"
-    ],
-    [
-      "Using HTTP/2 Cleartext for a server in Go 1.24",
-      "https://www.clarityboss.com/blog/go-http2-cleartext-h2c-cloud-run"
     ]
   ]
 ]
