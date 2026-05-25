@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-05-25, 04:00:48",
-      "https://news.ycombinator.com/item?id=48263284"
+      "2026-05-25, 10:11:29",
+      "https://news.ycombinator.com/item?id=48265206"
     ],
     [
-      "Companies Are Just a Graph of Algorithms",
-      "https://danielmiessler.com/blog/companies-graph-of-algorithms"
+      "Magnifica Humanitas (Encyclical Letter)",
+      "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-25, 08:25:00",
+      "https://news.ycombinator.com/item?id=48264635"
+    ],
+    [
+      "Show HN: Geomatic – a command-driven geometry studio enabled with autodiff",
+      "https://www.tinyvolt.com/geomatic"
+    ]
+  ],
+  [
+    [
+      "2026-05-25, 05:33:31",
+      "https://news.ycombinator.com/item?id=48263711"
+    ],
+    [
+      "Why Do We Sleep Under Blankets, Even on the Hottest Nights? (2017)",
+      "https://www.atlasobscura.com/articles/blankets-summer-hot"
     ]
   ],
   [
@@ -41,6 +61,16 @@
   ],
   [
     [
+      "2026-05-24, 18:39:10",
+      "https://news.ycombinator.com/item?id=48259861"
+    ],
+    [
+      "Defeating Git Rigour Fatigue with Jujutsu",
+      "https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/"
+    ]
+  ],
+  [
+    [
       "2026-05-24, 18:31:42",
       "https://news.ycombinator.com/item?id=48259808"
     ],
@@ -57,16 +87,6 @@
     [
       "Building Pi with Pi",
       "https://lucumr.pocoo.org/2026/5/24/pi-oss/"
-    ]
-  ],
-  [
-    [
-      "2026-05-24, 17:00:46",
-      "https://news.ycombinator.com/item?id=48258995"
-    ],
-    [
-      "Flick (YC F25) Is Hiring Front End Engineer to Build Figma for AI Filmmaking",
-      "https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer"
     ]
   ],
   [
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2026-05-24, 12:01:24",
-      "https://news.ycombinator.com/item?id=48256565"
-    ],
-    [
-      "Perceptual Image Codec: What Matters in Practical Learned Image Compression",
-      "https://apple.github.io/ml-pico/"
-    ]
-  ],
-  [
-    [
       "2026-05-24, 11:42:15",
       "https://news.ycombinator.com/item?id=48256475"
     ],
@@ -147,16 +157,6 @@
     [
       "Greg Brockman interview [video]",
       "https://fs.blog/knowledge-project-podcast/greg-brockman/"
-    ]
-  ],
-  [
-    [
-      "2026-05-24, 04:14:52",
-      "https://news.ycombinator.com/item?id=48254309"
-    ],
-    [
-      "Why is Vivado 2026.1 dropping Linux support for free tier?",
-      "https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US"
     ]
   ],
   [
@@ -195,7 +195,7 @@
       "https://news.ycombinator.com/item?id=48243666"
     ],
     [
-      "Didgeridoo playing as alternative treatment for obstructive sleep apnea(2006)",
+      "Didgeridoo playing as alternative treatment for obstructive sleep apnoea (2006)",
       "https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/"
     ]
   ],
@@ -221,22 +221,12 @@
   ],
   [
     [
-      "2026-05-22, 15:59:26",
-      "https://news.ycombinator.com/item?id=48237663"
+      "2026-05-22, 14:12:08",
+      "https://news.ycombinator.com/item?id=48236122"
     ],
     [
-      "DeepSeek makes the V4 Pro price discount permanent",
-      "https://api-docs.deepseek.com/quick_start/pricing"
-    ]
-  ],
-  [
-    [
-      "2026-05-22, 14:55:37",
-      "https://news.ycombinator.com/item?id=48236791"
-    ],
-    [
-      "Noroboto: Lying Fonts and Mitigation in Rust",
-      "https://tritium.legal/blog/noroboto"
+      "Bytecode VMs in surprising places (2024)",
+      "https://dubroy.com/blog/bytecode-vms-in-surprising-places/"
     ]
   ],
   [
@@ -271,22 +261,32 @@
   ],
   [
     [
-      "2026-05-21, 18:03:50",
-      "https://news.ycombinator.com/item?id=48226697"
-    ],
-    [
-      "Getting an old Computer online with Android Ethernet tethering",
-      "https://82mhz.net/posts/2026/05/getting-an-old-computer-online-with-android-ethernet-tethering/"
-    ]
-  ],
-  [
-    [
       "2026-05-21, 15:05:28",
       "https://news.ycombinator.com/item?id=48223997"
     ],
     [
       "I spent 50 hours drawing a line graph",
       "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-20, 20:36:19",
+      "https://news.ycombinator.com/item?id=48213750"
+    ],
+    [
+      "Gorilla: A fast, scalable, in-memory time series database (2016)",
+      "https://blog.acolyer.org/2016/05/03/gorilla-a-fast-scalable-in-memory-time-series-database/"
+    ]
+  ],
+  [
+    [
+      "2026-05-20, 08:13:53",
+      "https://news.ycombinator.com/item?id=48204632"
+    ],
+    [
+      "Notes about reading messages with the Python email packages",
+      "https://utcc.utoronto.ca/~cks/space/blog/python/EmailPackagesNotes"
     ]
   ],
   [
