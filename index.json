@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-05-25, 22:42:41",
+      "https://news.ycombinator.com/item?id=48272749"
+    ],
+    [
+      "Canada losing top talent as workers head to the U.S.",
+      "https://www.bnnbloomberg.ca/investing/market-outlook/2026/05/25/market-outlook-canada-losing-top-talent-as-workers-head-to-the-us/"
+    ]
+  ],
+  [
+    [
+      "2026-05-25, 21:50:03",
+      "https://news.ycombinator.com/item?id=48272393"
+    ],
+    [
+      "Show HN: OpenBrief – Local-first video downloader/summarizer",
+      "https://github.com/tantara/openbrief"
+    ]
+  ],
+  [
+    [
+      "2026-05-25, 21:45:57",
+      "https://news.ycombinator.com/item?id=48272354"
+    ],
+    [
+      "Microsoft Copilot Cowork Exfiltrates Files",
+      "https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files"
+    ]
+  ],
+  [
+    [
       "2026-05-25, 21:34:40",
       "https://news.ycombinator.com/item?id=48271933"
     ],
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2026-05-25, 13:09:53",
-      "https://news.ycombinator.com/item?id=48266422"
-    ],
-    [
-      "Microsoft pulls plug on plans for 244-acre data center in Caledonia (2025)",
-      "https://www.tmj4.com/news/racine-county/microsoft-pulls-plug-on-plans-for-244-acre-data-center-in-caledonia-after-community-pushback"
-    ]
-  ],
-  [
-    [
       "2026-05-25, 10:11:29",
       "https://news.ycombinator.com/item?id=48265206"
     ],
@@ -177,16 +197,6 @@
     [
       "IBM Spins Off the First Pure-Play Quantum Chip Foundry",
       "https://futurumgroup.com/insights/2-billion-chips-act-investment-in-quantum-bets-on-ibms-300mm-superconducting-silicon/"
-    ]
-  ],
-  [
-    [
-      "2026-05-24, 18:31:42",
-      "https://news.ycombinator.com/item?id=48259808"
-    ],
-    [
-      "Migrating from Go to Rust",
-      "https://corrode.dev/learn/migration-guides/go-to-rust/"
     ]
   ],
   [
@@ -211,12 +221,22 @@
   ],
   [
     [
-      "2026-05-23, 04:04:12",
-      "https://news.ycombinator.com/item?id=48244547"
+      "2026-05-23, 16:03:08",
+      "https://news.ycombinator.com/item?id=48248778"
     ],
     [
-      "The analog computer museum's online library",
-      "https://www.analogmuseum.org/english/library.html"
+      "The Skeuomorphism Nobody Talks About [video]",
+      "https://www.youtube.com/watch?v=3Q-G9x315-g"
+    ]
+  ],
+  [
+    [
+      "2026-05-23, 08:08:05",
+      "https://news.ycombinator.com/item?id=48245778"
+    ],
+    [
+      "Building an AWS Lambda-Like Runtime with Firecracker MicroVMs",
+      "https://medium.com/@vivek1502/building-an-aws-lambda-like-runtime-with-firecracker-microvms-42a418c6e3d7"
     ]
   ],
   [
@@ -237,16 +257,6 @@
     [
       "Jensen–Shannon Divergence",
       "https://en.wikipedia.org/wiki/Jensen%E2%80%93Shannon_divergence"
-    ]
-  ],
-  [
-    [
-      "2026-05-22, 14:12:08",
-      "https://news.ycombinator.com/item?id=48236122"
-    ],
-    [
-      "Bytecode VMs in surprising places (2024)",
-      "https://dubroy.com/blog/bytecode-vms-in-surprising-places/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "CPPL: A Circuit Prompt Programming Language",
       "https://arxiv.org/abs/2605.17892"
-    ]
-  ],
-  [
-    [
-      "2026-05-21, 05:22:07",
-      "https://news.ycombinator.com/item?id=48218210"
-    ],
-    [
-      "He Lost It at the Movies",
-      "https://www.theideasletter.org/essay/he-lost-it-at-the-movies/"
     ]
   ],
   [
