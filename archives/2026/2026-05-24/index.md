@@ -27,6 +27,7 @@
 * [2026-05-24, 14:37:21](https://news.ycombinator.com/item?id=48257612) - [Omarchy Is Not A Distro](https://abyss.fish/your_dotfiles_are_not_a_distro)
 * [2026-05-24, 14:27:26](https://news.ycombinator.com/item?id=48257532) - [The seed oil panic is hurting my cardiac patients](https://www.statnews.com/2026/05/22/seed-oils-healthy-fats-tallow-fact-check-cardiac-health/)
 * [2026-05-24, 14:09:33](https://news.ycombinator.com/item?id=48257410) - [DeepSeek to Make Permanent 75% Discount on Flagship AI Model](https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model)
+* [2026-05-24, 13:20:14](https://news.ycombinator.com/item?id=48257087) - [Squares in Squares](https://kingbird.myphotos.cc/packing/squares_in_squares.html)
 * [2026-05-24, 13:16:33](https://news.ycombinator.com/item?id=48257058) - [Microsoft's 6502 BASIC is now Open Source (2025)](https://opensource.microsoft.com/blog/2025/09/03/microsoft-open-source-historic-6502-basic/)
 * [2026-05-24, 13:02:06](https://news.ycombinator.com/item?id=48256953) - [DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost](https://esengine.github.io/DeepSeek-Reasonix/)
 * [2026-05-24, 12:55:53](https://news.ycombinator.com/item?id=48256912) - [Constraint Decay: The Fragility of LLM Agents in Back End Code Generation](https://arxiv.org/abs/2605.06445)

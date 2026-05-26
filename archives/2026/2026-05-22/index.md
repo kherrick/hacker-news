@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-05-22](index.md)
 
 * [2026-05-22, 23:51:56](https://news.ycombinator.com/item?id=48243021) - [TikTok disproportionately served anti-Democratic videos during the 2024 election](https://www.psypost.org/tiktok-disproportionately-served-anti-democratic-videos-during-the-2024-election-study-finds/)
+* [2026-05-22, 23:49:52](https://news.ycombinator.com/item?id=48243010) - [The Lottery – Shirley Jackson (1948)](https://www.newyorker.com/magazine/1948/06/26/the-lottery)
 * [2026-05-22, 23:41:55](https://news.ycombinator.com/item?id=48242959) - [SpaceX launches Starship v3 rocket](https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-v3-megarocket-first-test-flight)
 * [2026-05-22, 23:41:55](https://news.ycombinator.com/item?id=48242959) - [SpaceX launches Starship v3 rocket](https://www.nbcnews.com/now/video/spacex-successfully-launches-prototype-of-starship-rocket-263835205505)
 * [2026-05-22, 22:43:04](https://news.ycombinator.com/item?id=48242546) - [Bug 1950764: Work Around Crash on Intel Raptor Lake CPU](https://phabricator.services.mozilla.com/D301917)
