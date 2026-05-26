@@ -44,6 +44,7 @@
 * [2026-05-21, 13:48:29](https://news.ycombinator.com/item?id=48222492) - [Highest Random Weight in Elixir](https://jola.dev/posts/highest-random-weight-in-elixir)
 * [2026-05-21, 13:38:12](https://news.ycombinator.com/item?id=48222383) - [AI is just unauthorised plagiarism at a bigger scale](https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/)
 * [2026-05-21, 13:36:06](https://news.ycombinator.com/item?id=48222366) - [Hating AI Is Good](https://www.thehandbasket.co/p/hating-ai-is-good-actually)
+* [2026-05-21, 13:31:46](https://news.ycombinator.com/item?id=48222318) - [Micropatching Brings the Abandoned Equation Editor Back to Life (2018)](https://blog.0patch.com/2018/01/bringing-abandoned-equation-editor-back.html)
 * [2026-05-21, 13:25:41](https://news.ycombinator.com/item?id=48222241) - [US employers spend more than $1.5B a year to fight labor unions, report finds](https://www.theguardian.com/us-news/2026/may/20/how-much-companies-spend-fight-unions)
 * [2026-05-21, 13:13:36](https://news.ycombinator.com/item?id=48222105) - [Magic the Gathering format: Fun 40](https://fabiensanglard.net/mtg/fun//index.html)
 * [2026-05-21, 13:13:36](https://news.ycombinator.com/item?id=48222105) - [Magic the Gathering format: Fun 40](https://fabiensanglard.net/mtg/fun/)

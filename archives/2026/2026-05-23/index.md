@@ -47,5 +47,6 @@
 * [2026-05-23, 04:04:12](https://news.ycombinator.com/item?id=48244547) - [The analog computer museum's online library](https://www.analogmuseum.org/english/library.html)
 * [2026-05-23, 03:44:16](https://news.ycombinator.com/item?id=48244434) - [Microsoft reports AI is more expensive than paying human employees](https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/)
 * [2026-05-23, 03:09:55](https://news.ycombinator.com/item?id=48244220) - [New rule requires most green-card applicants to apply from outside U.S.](https://www.washingtonpost.com/immigration/2026/05/22/new-rule-requires-most-green-card-applicants-apply-outside-us/)
+* [2026-05-23, 02:07:35](https://news.ycombinator.com/item?id=48243849) - [You Only Use 10% of Printf() – Here Are Things They Didn't Teach You [video]](https://www.youtube.com/watch?v=kdnN0kk7MS0)
 * [2026-05-23, 01:37:02](https://news.ycombinator.com/item?id=48243666) - [Didgeridoo playing as alternative treatment for obstructive sleep apnea(2006)](https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/)
 * [2026-05-23, 00:34:25](https://news.ycombinator.com/item?id=48243293) - [FBI director's Based Apparel site has been spotted hosting a 'ClickFix' attack](https://www.pcmag.com/news/kash-patels-apparel-site-is-trying-to-trick-visitors-into-installing-malware)

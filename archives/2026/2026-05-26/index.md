@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-05-26](index.md)
 
+* [2026-05-26, 07:35:20](https://news.ycombinator.com/item?id=48276363) - [DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD](https://dynip.dev/)
+* [2026-05-26, 05:49:35](https://news.ycombinator.com/item?id=48275508) - [Ask HN: Is anyone working at least 4 hours daily on an Apple Vision Pro?](https://news.ycombinator.com/item?id=48275508)
+* [2026-05-26, 05:43:25](https://news.ycombinator.com/item?id=48275462) - [Logseq Doctor: heal your flat old Markdown files before importing to Logseq](https://github.com/andreoliwa/logseq-doctor)
 * [2026-05-26, 04:45:29](https://news.ycombinator.com/item?id=48275098) - [Notes on Pope Leo XIV's Encyclical on AI](https://simonwillison.net/2026/May/25/encyclical-on-ai/)
 * [2026-05-26, 04:39:03](https://news.ycombinator.com/item?id=48275059) - [The User Is Visibly Frustrated](https://pscanf.com/s/354/)
 * [2026-05-26, 03:56:09](https://news.ycombinator.com/item?id=48274794) - [Motorola phones have started hijacking the Amazon app to insert affiliate codes](https://9to5google.com/2026/05/25/motorola-amazon-app-hijacking-behavior/)

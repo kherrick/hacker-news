@@ -40,6 +40,7 @@
 * [2026-05-22, 15:59:26](https://news.ycombinator.com/item?id=48237663) - [DeepSeek makes the V4 Pro price discount permanent](https://api-docs.deepseek.com/quick_start/pricing)
 * [2026-05-22, 15:43:28](https://news.ycombinator.com/item?id=48237422) - [How to convert between wealth and income tax](https://paulgraham.com/winc.html)
 * [2026-05-22, 15:22:04](https://news.ycombinator.com/item?id=48237163) - [Why Japanese companies do so many different things](https://davidoks.blog/p/why-japanese-companies-do-so-many)
+* [2026-05-22, 15:10:22](https://news.ycombinator.com/item?id=48237012) - [Use Boring Languages with LLMs](https://jry.io/writing/use-boring-languages-with-llms/)
 * [2026-05-22, 15:00:50](https://news.ycombinator.com/item?id=48236887) - [A Forth-inspired language for writing websites](https://robida.net/entries/2026/05/21/a-forth-inspired-language-for-writing-websites)
 * [2026-05-22, 14:56:57](https://news.ycombinator.com/item?id=48236816) - [AI errno(2) values](https://www.netmeister.org/blog/ai-errno.html)
 * [2026-05-22, 14:55:37](https://news.ycombinator.com/item?id=48236791) - [Noroboto: Lying Fonts and Mitigation in Rust](https://tritium.legal/blog/noroboto)
