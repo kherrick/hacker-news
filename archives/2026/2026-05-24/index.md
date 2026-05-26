@@ -44,6 +44,7 @@
 * [2026-05-24, 04:14:52](https://news.ycombinator.com/item?id=48254309) - [Why Is Vivado 2026.1 Dropping Linux Support for Free Tier?](https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US)
 * [2026-05-24, 03:57:01](https://news.ycombinator.com/item?id=48254236) - [The C64 Dead Test Font](https://www.masswerk.at/nowgobang/2026/c64-dead-test-font)
 * [2026-05-24, 03:19:02](https://news.ycombinator.com/item?id=48254020) - [Alexander Grothendieck Revolutionized 20th-Century Mathematics](https://www.quantamagazine.org/how-alexander-grothendieck-revolutionized-20th-century-mathematics-20260520/)
+* [2026-05-24, 01:23:34](https://news.ycombinator.com/item?id=48253401) - [Extending MySQL with VillageSQL](https://maxdemarzi.com/2026/05/21/extending-mysql-with-villagesql/)
 * [2026-05-24, 01:21:13](https://news.ycombinator.com/item?id=48253386) - [Microsoft open-sources \"the earliest DOS source code discovered to date\"](https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/)
 * [2026-05-24, 00:53:08](https://news.ycombinator.com/item?id=48253198) - [Suspect killed after opening fire on Secret Service agents near White House](https://www.bbc.com/news/live/c5y09vpe713t)
 * [2026-05-24, 00:51:32](https://news.ycombinator.com/item?id=48253186) - [Scammers are abusing an internal Microsoft account to send spam links](https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/)

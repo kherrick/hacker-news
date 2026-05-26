@@ -33,6 +33,7 @@
 * [2026-05-22, 17:32:04](https://news.ycombinator.com/item?id=48238896) - [Microsoft starts canceling Claude Code licenses](https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad)
 * [2026-05-22, 17:31:17](https://news.ycombinator.com/item?id=48238887) - [TorQ: Kdb+ Production Framework](https://github.com/DataIntellectTech/TorQ)
 * [2026-05-22, 17:24:12](https://news.ycombinator.com/item?id=48238789) - [Bun support is now limited and deprecated](https://github.com/yt-dlp/yt-dlp/issues/16766)
+* [2026-05-22, 17:17:43](https://news.ycombinator.com/item?id=48238703) - [I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline](https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/)
 * [2026-05-22, 17:05:32](https://news.ycombinator.com/item?id=48238568) - [1940 Air Terminal Museum Begins Liquidation](https://www.1940airterminal.org/news/liquidation-of-simulators)
 * [2026-05-22, 16:54:31](https://news.ycombinator.com/item?id=48238429) - [Lawmakers Demand Answers as CISA Tries to Contain Data Leak](https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/)
 * [2026-05-22, 16:23:08](https://news.ycombinator.com/item?id=48238025) - [U.S. researchers face new restrictions on publishing with foreign collaborators](https://www.science.org/content/article/u-s-researchers-face-new-restrictions-publishing-foreign-collaborators)
