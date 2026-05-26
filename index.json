@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-05-26, 17:17:12",
-      "https://news.ycombinator.com/item?id=48282709"
+      "2026-05-26, 19:25:16",
+      "https://news.ycombinator.com/item?id=48284712"
     ],
     [
-      "Stack Overflow's forum is dead thanks to AI",
-      "https://wiert.me/2026/05/26/stack-overflows-forum-is-dead-thanks-to-ai-but-the-companys-still-kicking-thanks-to-ai-sherwood-news/"
+      "Chemistry behind the Garden Grove chemical tank",
+      "https://www.science.org/content/blog-post/methyl-methacrylate-tank"
+    ]
+  ],
+  [
+    [
+      "2026-05-26, 18:44:34",
+      "https://news.ycombinator.com/item?id=48284032"
+    ],
+    [
+      "Modern Blu-ray drives can now rip GameCube, Wii, and Xbox 360 games to PC",
+      "https://www.tomshardware.com/video-games/console-gaming/modern-blu-ray-drives-can-now-rip-gamecube-wii-and-xbox-360-games-to-pc-third-party-firmware-unlocks-game-rips-from-physical-media-on-select-players"
+    ]
+  ],
+  [
+    [
+      "2026-05-26, 18:37:07",
+      "https://news.ycombinator.com/item?id=48283914"
+    ],
+    [
+      "Stop Advertising in Your Commits",
+      "https://akselmo.dev/posts/stop-advertising-in-your-commits/"
     ]
   ],
   [
@@ -75,7 +95,7 @@
       "https://news.ycombinator.com/item?id=48281226"
     ],
     [
-      "Language Models Need Sleep",
+      "A sleep-like consolidation mechanism for LLMs",
       "https://arxiv.org/abs/2605.26099"
     ]
   ],
@@ -91,21 +111,11 @@
   ],
   [
     [
-      "2026-05-26, 14:50:25",
-      "https://news.ycombinator.com/item?id=48280636"
-    ],
-    [
-      "Don't Subscribe So Casually",
-      "https://thebestworstcase.substack.com/p/dont-subscribe-so-casually"
-    ]
-  ],
-  [
-    [
       "2026-05-26, 13:47:39",
       "https://news.ycombinator.com/item?id=48279842"
     ],
     [
-      "C64 Basic: Game Map Overhead \"Camera View\"",
+      "C64 Basic: Game Map Overhead “Camera View”",
       "https://retrogamecoders.com/overhead-camera-view/"
     ]
   ],
@@ -147,16 +157,6 @@
     [
       "Netherlands blocks US takeover of vital digital supplier",
       "https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier/"
-    ]
-  ],
-  [
-    [
-      "2026-05-26, 11:10:19",
-      "https://news.ycombinator.com/item?id=48278090"
-    ],
-    [
-      "Incident with Actions and Pages",
-      "https://www.githubstatus.com/incidents/gnftqj9htp0g"
     ]
   ],
   [
@@ -211,26 +211,6 @@
   ],
   [
     [
-      "2026-05-25, 22:30:27",
-      "https://news.ycombinator.com/item?id=48272670"
-    ],
-    [
-      "Taking a walk may lead to more creativity than sitting, study finds (2014)",
-      "https://www.apa.org/news/press/releases/2014/04/creativity-walk"
-    ]
-  ],
-  [
-    [
-      "2026-05-25, 21:00:38",
-      "https://news.ycombinator.com/item?id=48271629"
-    ],
-    [
-      "Ferrari Luce",
-      "https://www.ferrari.com/en-EN/auto/ferrari-luce"
-    ]
-  ],
-  [
-    [
       "2026-05-25, 20:41:49",
       "https://news.ycombinator.com/item?id=48271448"
     ],
@@ -241,12 +221,32 @@
   ],
   [
     [
+      "2026-05-24, 01:23:34",
+      "https://news.ycombinator.com/item?id=48253401"
+    ],
+    [
+      "Extending MySQL with VillageSQL",
+      "https://maxdemarzi.com/2026/05/21/extending-mysql-with-villagesql/"
+    ]
+  ],
+  [
+    [
       "2026-05-23, 13:17:39",
       "https://news.ycombinator.com/item?id=48247416"
     ],
     [
       "Opaque Types in Python",
       "https://blog.glyph.im/2026/05/opaque-types-in-python.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-22, 17:17:43",
+      "https://news.ycombinator.com/item?id=48238703"
+    ],
+    [
+      "I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline",
+      "https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/"
     ]
   ],
   [
