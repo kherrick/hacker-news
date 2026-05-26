@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-05-21](index.md)
 
 * [2026-05-21, 23:30:10](https://news.ycombinator.com/item?id=48230049) - [The IBM-ification of Google?](https://zeroshot.bearblog.dev/google-is-shattering-under-its-own-weight-the-ibm-ification-of-google/)
+* [2026-05-21, 22:49:37](https://news.ycombinator.com/item?id=48229776) - [Are we self-sovereign PKI yet?](https://buffrr.dev/blog/are-we-self-sovereign-pki-yet/)
 * [2026-05-21, 21:55:56](https://news.ycombinator.com/item?id=48229319) - [The memory shortage is causing a repricing of consumer electronics](https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone)
 * [2026-05-21, 20:56:36](https://news.ycombinator.com/item?id=48228788) - [Uv is fantastic, but its package management UX is a mess](https://www.loopwerk.io/articles/2026/uv-ux-mess/)
 * [2026-05-21, 20:40:47](https://news.ycombinator.com/item?id=48228608) - [C constructs that still don't work in C++](https://lospino.so/blog/c-constructs-that-still-dont-work-in-cpp/)
