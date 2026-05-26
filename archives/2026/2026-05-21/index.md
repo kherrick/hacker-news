@@ -41,6 +41,7 @@
 * [2026-05-21, 14:29:14](https://news.ycombinator.com/item?id=48223258) - [Get your passwords out of Bitwarden while you still can](https://www.osnews.com/story/145029/get-your-passwords-out-of-bitwarden-while-you-still-can/)
 * [2026-05-21, 14:24:11](https://news.ycombinator.com/item?id=48223154) - [Book Review: On the Calculation of Volume](https://www.stephendiehl.com/posts/calculation_of_volume/)
 * [2026-05-21, 14:01:37](https://news.ycombinator.com/item?id=48222733) - [Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)](https://blog.simbastack.com/indexed-a-year-of-video-locally/)
+* [2026-05-21, 13:55:13](https://news.ycombinator.com/item?id=48222600) - [Rosalind: A genomics toolkit in Rust running whole-genome pipelines on a laptop](https://github.com/logannye/rosalind)
 * [2026-05-21, 13:50:59](https://news.ycombinator.com/item?id=48222529) - [Google's Antigravity Bait and Switch](https://www.0xsid.com/blog/antigravity-bait-n-switch)
 * [2026-05-21, 13:48:29](https://news.ycombinator.com/item?id=48222492) - [Highest Random Weight in Elixir](https://jola.dev/posts/highest-random-weight-in-elixir)
 * [2026-05-21, 13:38:12](https://news.ycombinator.com/item?id=48222383) - [AI is just unauthorised plagiarism at a bigger scale](https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/)

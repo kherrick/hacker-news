@@ -17,6 +17,7 @@
 * [2026-05-25, 21:34:40](https://news.ycombinator.com/item?id=48271933) - [Ferrari Luce, Maranello's first ever electric car](https://www.topgear.com/car-news/electric/its-finally-here-meet-ferrari-luce-maranellos-first-ever-fully-electric-car)
 * [2026-05-25, 21:01:10](https://news.ycombinator.com/item?id=48271632) - [Riscrithm – An intuitive RISC-V assembler and optimizer coded in Go](https://github.com/ghetea-patrick/riscrithm)
 * [2026-05-25, 21:00:38](https://news.ycombinator.com/item?id=48271629) - [Ferrari Luce](https://www.ferrari.com/en-EN/auto/ferrari-luce)
+* [2026-05-25, 20:41:49](https://news.ycombinator.com/item?id=48271448) - [A few interesting modern pixel fonts](https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/)
 * [2026-05-25, 20:30:25](https://news.ycombinator.com/item?id=48271327) - [Yoti age checks share facial photos and device fingerprints with third parties](https://techxplore.com/news/2026-05-online-age-pointless-privacy.html)
 * [2026-05-25, 20:24:16](https://news.ycombinator.com/item?id=48271270) - [Ninth Circuit Panel Goes Out of Its Way to Question Section 230–DOE vs. Meta](https://blog.ericgoldman.org/archives/2026/05/ninth-circuit-panel-goes-out-of-its-way-to-question-section-230-doe-v-meta.htm)
 * [2026-05-25, 20:23:03](https://news.ycombinator.com/item?id=48271257) - [Tidy PSU – PD-64 C64 PSU Brings USB PD to Commodore 64](https://theoasisbbs.com/pd-64-c64-psu-brings-usb-pd-to-commodore-64/)
