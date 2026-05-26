@@ -19,6 +19,7 @@
 * [2026-05-24, 17:00:46](https://news.ycombinator.com/item?id=48258995) - [Flick (YC F25) Is Hiring Front End Engineer to Build Figma for AI Filmmaking](https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer)
 * [2026-05-24, 16:36:26](https://news.ycombinator.com/item?id=48258736) - [FreeBSD Foundation Executive Director Tries Daily Driving FreeBSD on Laptop](https://www.phoronix.com/news/FreeBSD-On-Laptop-Driver)
 * [2026-05-24, 16:31:29](https://news.ycombinator.com/item?id=48258684) - [Memory has grown to nearly two-thirds of AI chip component costs](https://epoch.ai/data-insights/ai-chip-component-cost-shares)
+* [2026-05-24, 15:51:29](https://news.ycombinator.com/item?id=48258271) - [RescueRadar – UK Emergency Services Flight Tracking Since 2013](https://rescueradar.co.uk/about)
 * [2026-05-24, 15:49:19](https://news.ycombinator.com/item?id=48258254) - [Ruby for Good](https://ti.to/codeforgood/rubyforgood)
 * [2026-05-24, 15:47:34](https://news.ycombinator.com/item?id=48258236) - [When (if ever) it's appropriate to make jokes before the US Supreme Court](https://www.scotusblog.com/2026/05/when-if-ever-its-appropriate-to-make-jokes-take-selfies-or-curse-before-the-court/)
 * [2026-05-24, 15:43:00](https://news.ycombinator.com/item?id=48258194) - [Usborne 1980s Computer Books](https://usborne.com/us/books/computer-and-coding-books)

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-05-26](index.md)
 
 * [2026-05-26, 20:33:24](https://news.ycombinator.com/item?id=48285592) - [Big tech's anti-labor playbook has come for Wikipedia](https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943)
+* [2026-05-26, 20:11:49](https://news.ycombinator.com/item?id=48285344) - [The worst job interview I ever had](https://www.oliverio.dev/blog/the-worst-job-interview-i-had)
 * [2026-05-26, 19:25:16](https://news.ycombinator.com/item?id=48284712) - [Chemistry behind the Garden Grove chemical tank](https://www.science.org/content/blog-post/methyl-methacrylate-tank)
 * [2026-05-26, 18:44:34](https://news.ycombinator.com/item?id=48284032) - [Modern Blu-ray drives can now rip GameCube, Wii, and Xbox 360 games to PC](https://www.tomshardware.com/video-games/console-gaming/modern-blu-ray-drives-can-now-rip-gamecube-wii-and-xbox-360-games-to-pc-third-party-firmware-unlocks-game-rips-from-physical-media-on-select-players)
 * [2026-05-26, 18:37:07](https://news.ycombinator.com/item?id=48283914) - [Stop Advertising in Your Commits](https://akselmo.dev/posts/stop-advertising-in-your-commits/)
@@ -33,6 +34,7 @@
 * [2026-05-26, 10:01:39](https://news.ycombinator.com/item?id=48277485) - [Uber president says AI spending is getting 'harder to justify'](https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify)
 * [2026-05-26, 09:43:40](https://news.ycombinator.com/item?id=48277357) - [Exposing Critical Vulnerabilities in CBSE's On-Screen Marking Portal](https://ni5arga.com/blog/posts/hacking-cbse/)
 * [2026-05-26, 07:35:20](https://news.ycombinator.com/item?id=48276363) - [DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD](https://dynip.dev/)
+* [2026-05-26, 05:57:45](https://news.ycombinator.com/item?id=48275564) - [A portentous reunion](https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/)
 * [2026-05-26, 05:49:35](https://news.ycombinator.com/item?id=48275508) - [Ask HN: Is anyone working at least 4 hours daily on an Apple Vision Pro?](https://news.ycombinator.com/item?id=48275508)
 * [2026-05-26, 05:43:25](https://news.ycombinator.com/item?id=48275462) - [Logseq Doctor: heal your flat old Markdown files before importing to Logseq](https://github.com/andreoliwa/logseq-doctor)
 * [2026-05-26, 04:45:29](https://news.ycombinator.com/item?id=48275098) - [Notes on Pope Leo XIV's Encyclical on AI](https://simonwillison.net/2026/May/25/encyclical-on-ai/)
