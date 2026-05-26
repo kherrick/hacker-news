@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-05-25](index.md)
 
 * [2026-05-25, 23:40:40](https://news.ycombinator.com/item?id=48273169) - [CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude](https://support.apple.com/en-us/127115)
+* [2026-05-25, 23:37:31](https://news.ycombinator.com/item?id=48273147) - [Performance of Rust Language [pdf]](https://github.com/yugr/rust-slides/)
 * [2026-05-25, 23:21:57](https://news.ycombinator.com/item?id=48273030) - [Nobody cracks open a programming book anymore](https://unix.foo/posts/nobody-cracks-open-a-programming-book/)
 * [2026-05-25, 23:16:59](https://news.ycombinator.com/item?id=48272984) - [Using AI to write better code more slowly](https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/)
 * [2026-05-25, 22:42:41](https://news.ycombinator.com/item?id=48272749) - [Canada losing top talent as workers head to the U.S.](https://www.bnnbloomberg.ca/investing/market-outlook/2026/05/25/market-outlook-canada-losing-top-talent-as-workers-head-to-the-us/)
@@ -15,6 +16,7 @@
 * [2026-05-25, 21:45:57](https://news.ycombinator.com/item?id=48272354) - [Microsoft Copilot Cowork Exfiltrates Files](https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files)
 * [2026-05-25, 21:34:40](https://news.ycombinator.com/item?id=48271933) - [Ferrari Luce, Maranello's first ever electric car](https://www.topgear.com/car-news/electric/its-finally-here-meet-ferrari-luce-maranellos-first-ever-fully-electric-car)
 * [2026-05-25, 21:01:10](https://news.ycombinator.com/item?id=48271632) - [Riscrithm – An intuitive RISC-V assembler and optimizer coded in Go](https://github.com/ghetea-patrick/riscrithm)
+* [2026-05-25, 21:00:38](https://news.ycombinator.com/item?id=48271629) - [Ferrari Luce](https://www.ferrari.com/en-EN/auto/ferrari-luce)
 * [2026-05-25, 20:30:25](https://news.ycombinator.com/item?id=48271327) - [Yoti age checks share facial photos and device fingerprints with third parties](https://techxplore.com/news/2026-05-online-age-pointless-privacy.html)
 * [2026-05-25, 20:24:16](https://news.ycombinator.com/item?id=48271270) - [Ninth Circuit Panel Goes Out of Its Way to Question Section 230–DOE vs. Meta](https://blog.ericgoldman.org/archives/2026/05/ninth-circuit-panel-goes-out-of-its-way-to-question-section-230-doe-v-meta.htm)
 * [2026-05-25, 20:23:03](https://news.ycombinator.com/item?id=48271257) - [Tidy PSU – PD-64 C64 PSU Brings USB PD to Commodore 64](https://theoasisbbs.com/pd-64-c64-psu-brings-usb-pd-to-commodore-64/)
