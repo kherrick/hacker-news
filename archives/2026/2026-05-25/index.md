@@ -50,6 +50,7 @@
 * [2026-05-25, 09:41:38](https://news.ycombinator.com/item?id=48265049) - [Rising seas will swallow New Orleans. People need to start relocating now](https://www.cnn.com/2026/05/25/climate/new-orleans-sea-level-rise-relocation)
 * [2026-05-25, 08:25:00](https://news.ycombinator.com/item?id=48264635) - [Show HN: Geomatic – a command-driven geometry studio enabled with autodiff](https://www.tinyvolt.com/geomatic)
 * [2026-05-25, 05:33:31](https://news.ycombinator.com/item?id=48263711) - [Why Do We Sleep Under Blankets, Even on the Hottest Nights? (2017)](https://www.atlasobscura.com/articles/blankets-summer-hot)
+* [2026-05-25, 05:05:11](https://news.ycombinator.com/item?id=48263560) - [C array types are weird](https://anselmschueler.com/blogposts/2025-c-pointers/)
 * [2026-05-25, 04:00:48](https://news.ycombinator.com/item?id=48263284) - [Companies Are Just a Graph of Algorithms](https://danielmiessler.com/blog/companies-graph-of-algorithms)
 * [2026-05-25, 03:54:14](https://news.ycombinator.com/item?id=48263253) - [Jira Is Turing-Complete](https://seriot.ch/computation/jira.html)
 * [2026-05-25, 03:47:24](https://news.ycombinator.com/item?id=48263238) - [The Eternal Sloptember](https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html)

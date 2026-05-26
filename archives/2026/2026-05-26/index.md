@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-05-26](index.md)
 
+* [2026-05-26, 20:33:24](https://news.ycombinator.com/item?id=48285592) - [Big tech's anti-labor playbook has come for Wikipedia](https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943)
 * [2026-05-26, 19:25:16](https://news.ycombinator.com/item?id=48284712) - [Chemistry behind the Garden Grove chemical tank](https://www.science.org/content/blog-post/methyl-methacrylate-tank)
 * [2026-05-26, 18:44:34](https://news.ycombinator.com/item?id=48284032) - [Modern Blu-ray drives can now rip GameCube, Wii, and Xbox 360 games to PC](https://www.tomshardware.com/video-games/console-gaming/modern-blu-ray-drives-can-now-rip-gamecube-wii-and-xbox-360-games-to-pc-third-party-firmware-unlocks-game-rips-from-physical-media-on-select-players)
 * [2026-05-26, 18:37:07](https://news.ycombinator.com/item?id=48283914) - [Stop Advertising in Your Commits](https://akselmo.dev/posts/stop-advertising-in-your-commits/)
+* [2026-05-26, 17:17:12](https://news.ycombinator.com/item?id=48282709) - [Stack Overflow’s forum is dead but the company’s still kicking](https://sherwood.news/tech/stack-overflow-forum-dead-thanks-ai-but-companys-still-kicking-ai/)
 * [2026-05-26, 17:17:12](https://news.ycombinator.com/item?id=48282709) - [Stack Overflow's forum is dead thanks to AI](https://wiert.me/2026/05/26/stack-overflows-forum-is-dead-thanks-to-ai-but-the-companys-still-kicking-thanks-to-ai-sherwood-news/)
 * [2026-05-26, 17:00:40](https://news.ycombinator.com/item?id=48282478) - [Sage Care (YC S24) Is Hiring Software Engineers](https://www.ycombinator.com/companies/sagecare/jobs/xtloH8r-senior-software-engineer)
 * [2026-05-26, 16:04:39](https://news.ycombinator.com/item?id=48281611) - [The real cost of owning a home](https://ericturner.dev/posts/cost-of-home-ownership/)

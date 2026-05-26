@@ -10,6 +10,7 @@
 * [2026-05-23, 22:25:05](https://news.ycombinator.com/item?id=48252192) - [Don't Roll Your Own](https://susam.net/do-not-roll-your-own.html)
 * [2026-05-23, 22:19:36](https://news.ycombinator.com/item?id=48252146) - [Byrne's Euclid](https://www.c82.net/euclid/)
 * [2026-05-23, 22:09:05](https://news.ycombinator.com/item?id=48252060) - [CA declares state of emergency as fire crews race to contain toxic chemical leak](https://www.bbc.com/news/articles/c3w2l249j8go)
+* [2026-05-23, 21:28:09](https://news.ycombinator.com/item?id=48251709) - [The Steinwinter Supercargo](https://www.thedrive.com/article/12603/the-forgotten-steinwinter-supercargo-is-unlike-anything-on-the-road-today)
 * [2026-05-23, 21:08:38](https://news.ycombinator.com/item?id=48251553) - [Software Engineering at the Tipping Point](https://io.google/2026/explore/workshop-2)
 * [2026-05-23, 21:06:37](https://news.ycombinator.com/item?id=48251528) - [A self-powered computer in actual credit-card size (~1mm thick)](https://old.reddit.com/r/electronics/comments/1td7yxl/i_built_a_fully_selfpowered_computer_in_actual/)
 * [2026-05-23, 20:36:42](https://news.ycombinator.com/item?id=48251229) - [Pardon MIE?](https://ironpeak.be/blog/bypassing-apple-mie/)
