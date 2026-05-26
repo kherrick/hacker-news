@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-05-26, 04:45:29",
-      "https://news.ycombinator.com/item?id=48275098"
+      "2026-05-26, 07:35:20",
+      "https://news.ycombinator.com/item?id=48276363"
     ],
     [
-      "Notes on Pope Leo XIV's Encyclical on AI",
-      "https://simonwillison.net/2026/May/25/encyclical-on-ai/"
+      "DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD",
+      "https://dynip.dev/"
+    ]
+  ],
+  [
+    [
+      "2026-05-26, 05:49:35",
+      "https://news.ycombinator.com/item?id=48275508"
+    ],
+    [
+      "Ask HN: Is anyone working at least 4 hours daily on an Apple Vision Pro?",
+      "https://news.ycombinator.com/item?id=48275508"
+    ]
+  ],
+  [
+    [
+      "2026-05-26, 05:43:25",
+      "https://news.ycombinator.com/item?id=48275462"
+    ],
+    [
+      "Logseq Doctor: heal your flat old Markdown files before importing to Logseq",
+      "https://github.com/andreoliwa/logseq-doctor"
     ]
   ],
   [
@@ -41,42 +61,12 @@
   ],
   [
     [
-      "2026-05-26, 03:35:17",
-      "https://news.ycombinator.com/item?id=48274667"
-    ],
-    [
-      "Why the smart home bubble popped",
-      "https://hackaday.com/2026/05/21/why-the-smart-home-bubble-popped/"
-    ]
-  ],
-  [
-    [
       "2026-05-26, 01:55:15",
       "https://news.ycombinator.com/item?id=48274077"
     ],
     [
       "Does anybody like React?",
       "https://jsx.lol"
-    ]
-  ],
-  [
-    [
-      "2026-05-26, 00:36:17",
-      "https://news.ycombinator.com/item?id=48273597"
-    ],
-    [
-      "Designing for and against the manufactured normalcy field (2012)",
-      "https://www.urbanhonking.com/ideasfordozens/2012/06/24/designing-for-and-against-the-manufactured-normalcy-field/index.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-25, 23:40:40",
-      "https://news.ycombinator.com/item?id=48273169"
-    ],
-    [
-      "CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude",
-      "https://support.apple.com/en-us/127115"
     ]
   ],
   [
@@ -161,6 +151,16 @@
   ],
   [
     [
+      "2026-05-25, 19:43:45",
+      "https://news.ycombinator.com/item?id=48270812"
+    ],
+    [
+      "A successful Japanese trial of a ramjet engine designed for Mach‑5 aircraft",
+      "https://www.bgr.com/2178211/japan-hypersonic-engine-ramjet-2-hour-flights-to-us/"
+    ]
+  ],
+  [
+    [
       "2026-05-25, 19:37:57",
       "https://news.ycombinator.com/item?id=48270770"
     ],
@@ -177,16 +177,6 @@
     [
       "California moves to exempt Linux from its age-verification law after backlash",
       "https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law"
-    ]
-  ],
-  [
-    [
-      "2026-05-25, 18:18:26",
-      "https://news.ycombinator.com/item?id=48269937"
-    ],
-    [
-      "Weave (YC W25) is hiring ML, AI, product, & design engineers",
-      "https://jobs.ashbyhq.com/workweave"
     ]
   ],
   [
@@ -241,22 +231,12 @@
   ],
   [
     [
-      "2026-05-24, 10:30:39",
-      "https://news.ycombinator.com/item?id=48256108"
+      "2026-05-23, 02:07:35",
+      "https://news.ycombinator.com/item?id=48243849"
     ],
     [
-      "What it takes to transpose a matrix",
-      "https://gudok.xyz/transpose/"
-    ]
-  ],
-  [
-    [
-      "2026-05-22, 23:49:52",
-      "https://news.ycombinator.com/item?id=48243010"
-    ],
-    [
-      "The Lottery – Shirley Jackson (1948)",
-      "https://www.newyorker.com/magazine/1948/06/26/the-lottery"
+      "You Only Use 10% of Printf() – Here Are Things They Didn't Teach You [video]",
+      "https://www.youtube.com/watch?v=kdnN0kk7MS0"
     ]
   ],
   [
@@ -281,12 +261,22 @@
   ],
   [
     [
-      "2026-05-22, 10:38:41",
-      "https://news.ycombinator.com/item?id=48234091"
+      "2026-05-22, 15:10:22",
+      "https://news.ycombinator.com/item?id=48237012"
     ],
     [
-      "A Comma and a Question Mark",
-      "https://www.thetypicalset.com/blog/a-comma-and-a-question-mark"
+      "Use Boring Languages with LLMs",
+      "https://jry.io/writing/use-boring-languages-with-llms/"
+    ]
+  ],
+  [
+    [
+      "2026-05-22, 02:24:48",
+      "https://news.ycombinator.com/item?id=48231247"
+    ],
+    [
+      "Gnutella: A Protocol Outliving the World That Created It",
+      "https://rickcarlino.com/notes/p2p/gnutella-explanation.html"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Show HN: Write your BPF programs in Go, not C",
       "https://github.com/boratanrikulu/gobee"
+    ]
+  ],
+  [
+    [
+      "2026-05-21, 13:31:46",
+      "https://news.ycombinator.com/item?id=48222318"
+    ],
+    [
+      "Micropatching Brings the Abandoned Equation Editor Back to Life (2018)",
+      "https://blog.0patch.com/2018/01/bringing-abandoned-equation-editor-back.html"
     ]
   ]
 ]
