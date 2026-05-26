@@ -1,12 +1,92 @@
 [
   [
     [
+      "2026-05-26, 04:45:29",
+      "https://news.ycombinator.com/item?id=48275098"
+    ],
+    [
+      "Notes on Pope Leo XIV's Encyclical on AI",
+      "https://simonwillison.net/2026/May/25/encyclical-on-ai/"
+    ]
+  ],
+  [
+    [
+      "2026-05-26, 04:39:03",
+      "https://news.ycombinator.com/item?id=48275059"
+    ],
+    [
+      "The User Is Visibly Frustrated",
+      "https://pscanf.com/s/354/"
+    ]
+  ],
+  [
+    [
+      "2026-05-26, 03:56:09",
+      "https://news.ycombinator.com/item?id=48274794"
+    ],
+    [
+      "Motorola phones have started hijacking the Amazon app to insert affiliate codes",
+      "https://9to5google.com/2026/05/25/motorola-amazon-app-hijacking-behavior/"
+    ]
+  ],
+  [
+    [
+      "2026-05-26, 03:42:23",
+      "https://news.ycombinator.com/item?id=48274711"
+    ],
+    [
+      "Earthion: A New Mega Drive-Style Shoot-Em-Up",
+      "https://earthiongame.com/"
+    ]
+  ],
+  [
+    [
+      "2026-05-26, 03:35:17",
+      "https://news.ycombinator.com/item?id=48274667"
+    ],
+    [
+      "Why the smart home bubble popped",
+      "https://hackaday.com/2026/05/21/why-the-smart-home-bubble-popped/"
+    ]
+  ],
+  [
+    [
+      "2026-05-26, 01:55:15",
+      "https://news.ycombinator.com/item?id=48274077"
+    ],
+    [
+      "Does anybody like React?",
+      "https://jsx.lol"
+    ]
+  ],
+  [
+    [
+      "2026-05-26, 00:36:17",
+      "https://news.ycombinator.com/item?id=48273597"
+    ],
+    [
+      "Designing for and against the manufactured normalcy field (2012)",
+      "https://www.urbanhonking.com/ideasfordozens/2012/06/24/designing-for-and-against-the-manufactured-normalcy-field/index.html"
+    ]
+  ],
+  [
+    [
       "2026-05-25, 23:40:40",
       "https://news.ycombinator.com/item?id=48273169"
     ],
     [
       "CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude",
       "https://support.apple.com/en-us/127115"
+    ]
+  ],
+  [
+    [
+      "2026-05-25, 23:37:31",
+      "https://news.ycombinator.com/item?id=48273147"
+    ],
+    [
+      "Performance of Rust Language [pdf]",
+      "https://github.com/yugr/rust-slides/"
     ]
   ],
   [
@@ -41,16 +121,6 @@
   ],
   [
     [
-      "2026-05-25, 22:32:57",
-      "https://news.ycombinator.com/item?id=48272694"
-    ],
-    [
-      "Agentic Patterns",
-      "https://veso.ai/research/agentic-patterns/"
-    ]
-  ],
-  [
-    [
       "2026-05-25, 22:30:27",
       "https://news.ycombinator.com/item?id=48272670"
     ],
@@ -71,42 +141,12 @@
   ],
   [
     [
-      "2026-05-25, 21:45:57",
-      "https://news.ycombinator.com/item?id=48272354"
+      "2026-05-25, 21:00:38",
+      "https://news.ycombinator.com/item?id=48271629"
     ],
     [
-      "Microsoft Copilot Cowork Exfiltrates Files",
-      "https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files"
-    ]
-  ],
-  [
-    [
-      "2026-05-25, 21:01:10",
-      "https://news.ycombinator.com/item?id=48271632"
-    ],
-    [
-      "Riscrithm – An intuitive RISC-V assembler and optimizer coded in Go",
-      "https://github.com/ghetea-patrick/riscrithm"
-    ]
-  ],
-  [
-    [
-      "2026-05-25, 20:30:25",
-      "https://news.ycombinator.com/item?id=48271327"
-    ],
-    [
-      "Yoti age checks share facial photos and device fingerprints with third parties",
-      "https://techxplore.com/news/2026-05-online-age-pointless-privacy.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-25, 20:23:03",
-      "https://news.ycombinator.com/item?id=48271257"
-    ],
-    [
-      "Tidy PSU – PD-64 C64 PSU Brings USB PD to Commodore 64",
-      "https://theoasisbbs.com/pd-64-c64-psu-brings-usb-pd-to-commodore-64/"
+      "Ferrari Luce",
+      "https://www.ferrari.com/en-EN/auto/ferrari-luce"
     ]
   ],
   [
@@ -171,12 +211,12 @@
   ],
   [
     [
-      "2026-05-25, 15:12:33",
-      "https://news.ycombinator.com/item?id=48267829"
+      "2026-05-25, 14:29:52",
+      "https://news.ycombinator.com/item?id=48267290"
     ],
     [
-      "Launch HN: Chert (YC P26) – Twilio for iMessage",
-      "https://www.trychert.com"
+      "What we lost when we stopped letting kids leave the front yard",
+      "https://stevemagness.substack.com/p/the-cost-of-safetyism"
     ]
   ],
   [
@@ -191,36 +231,6 @@
   ],
   [
     [
-      "2026-05-25, 13:56:39",
-      "https://news.ycombinator.com/item?id=48266906"
-    ],
-    [
-      "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
-      "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/"
-    ]
-  ],
-  [
-    [
-      "2026-05-25, 10:11:29",
-      "https://news.ycombinator.com/item?id=48265206"
-    ],
-    [
-      "Magnifica Humanitas",
-      "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-25, 09:43:03",
-      "https://news.ycombinator.com/item?id=48265056"
-    ],
-    [
-      "IBM Spins Off the First Pure-Play Quantum Chip Foundry",
-      "https://futurumgroup.com/insights/2-billion-chips-act-investment-in-quantum-bets-on-ibms-300mm-superconducting-silicon/"
-    ]
-  ],
-  [
-    [
       "2026-05-24, 13:20:14",
       "https://news.ycombinator.com/item?id=48257087"
     ],
@@ -231,12 +241,12 @@
   ],
   [
     [
-      "2026-05-23, 16:03:08",
-      "https://news.ycombinator.com/item?id=48248778"
+      "2026-05-24, 10:30:39",
+      "https://news.ycombinator.com/item?id=48256108"
     ],
     [
-      "The Skeuomorphism Nobody Talks About [video]",
-      "https://www.youtube.com/watch?v=3Q-G9x315-g"
+      "What it takes to transpose a matrix",
+      "https://gudok.xyz/transpose/"
     ]
   ],
   [
@@ -251,6 +261,16 @@
   ],
   [
     [
+      "2026-05-22, 22:38:00",
+      "https://news.ycombinator.com/item?id=48242512"
+    ],
+    [
+      "Dehydration's role in learning and memory",
+      "https://www.cshl.edu/dehydrations-role-in-learning-and-memory/"
+    ]
+  ],
+  [
+    [
       "2026-05-22, 19:27:27",
       "https://news.ycombinator.com/item?id=48240356"
     ],
@@ -261,12 +281,12 @@
   ],
   [
     [
-      "2026-05-22, 02:24:48",
-      "https://news.ycombinator.com/item?id=48231247"
+      "2026-05-22, 10:38:41",
+      "https://news.ycombinator.com/item?id=48234091"
     ],
     [
-      "Gnutella: A Protocol Outliving the World That Created It",
-      "https://rickcarlino.com/notes/p2p/gnutella-explanation.html"
+      "A Comma and a Question Mark",
+      "https://www.thetypicalset.com/blog/a-comma-and-a-question-mark"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Show HN: Write your BPF programs in Go, not C",
       "https://github.com/boratanrikulu/gobee"
-    ]
-  ],
-  [
-    [
-      "2026-05-21, 11:50:56",
-      "https://news.ycombinator.com/item?id=48221122"
-    ],
-    [
-      "CPPL: A Circuit Prompt Programming Language",
-      "https://arxiv.org/abs/2605.17892"
-    ]
-  ],
-  [
-    [
-      "2026-05-20, 19:02:53",
-      "https://news.ycombinator.com/item?id=48212461"
-    ],
-    [
-      "Everyone Against Us (2023)",
-      "https://www.chicagomag.com/chicago-magazine/april-2023/everyone-against-us/"
     ]
   ]
 ]
