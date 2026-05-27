@@ -1,22 +1,52 @@
 [
   [
     [
-      "2026-05-27, 03:56:42",
-      "https://news.ycombinator.com/item?id=48289439"
+      "2026-05-27, 08:15:35",
+      "https://news.ycombinator.com/item?id=48291230"
     ],
     [
-      "The just-say-no engineer was a ZIRP phenomenon",
-      "https://www.seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/"
+      "Nvidia Vera CPU Benchmarks: Olympus Cores Delivering Great Performance",
+      "https://www.phoronix.com/review/nvidia-vera-benchmarks"
     ]
   ],
   [
     [
-      "2026-05-27, 01:10:44",
-      "https://news.ycombinator.com/item?id=48288191"
+      "2026-05-27, 07:28:25",
+      "https://news.ycombinator.com/item?id=48290881"
     ],
     [
-      "Where does next-token prediction leave us?",
-      "https://pop.rdi.sh/where-does-next-token-prediction-leave-us/"
+      "Unicode 18.0.0 Beta",
+      "https://www.unicode.org/versions/Unicode18.0.0/"
+    ]
+  ],
+  [
+    [
+      "2026-05-27, 05:13:39",
+      "https://news.ycombinator.com/item?id=48289950"
+    ],
+    [
+      "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs",
+      "https://arps18.github.io/posts/claude-code-mastery/"
+    ]
+  ],
+  [
+    [
+      "2026-05-27, 04:26:26",
+      "https://news.ycombinator.com/item?id=48289624"
+    ],
+    [
+      "Show HN: Posthorn, self-hosted mail without the mail server",
+      "https://github.com/craigmccaskill/posthorn"
+    ]
+  ],
+  [
+    [
+      "2026-05-27, 02:22:59",
+      "https://news.ycombinator.com/item?id=48288709"
+    ],
+    [
+      "TSDuck: Open-source toolkit for MPEG-TS analysis and manipulation",
+      "https://tsduck.io/"
     ]
   ],
   [
@@ -31,62 +61,12 @@
   ],
   [
     [
-      "2026-05-27, 00:40:05",
-      "https://news.ycombinator.com/item?id=48287982"
-    ],
-    [
-      "Stripe is friendly to “friendly fraud”",
-      "https://www.gingerlime.com/2026/stripe-seem-friendly-to-friendly-fraud/"
-    ]
-  ],
-  [
-    [
-      "2026-05-27, 00:36:03",
-      "https://news.ycombinator.com/item?id=48287952"
-    ],
-    [
-      "Erin Brockovich made a map to track data centers around the country",
-      "https://www.niemanlab.org/2026/05/erin-brockovich-made-a-map-to-track-data-centers-around-the-country/"
-    ]
-  ],
-  [
-    [
-      "2026-05-27, 00:03:04",
-      "https://news.ycombinator.com/item?id=48287678"
-    ],
-    [
-      "Sonny Rollins, jazz saxophonist, has died",
-      "https://www.rollingstone.com/music/music-news/sonny-rollins-jazz-legend-saxophone-colossus-dead-obit-1234715446/"
-    ]
-  ],
-  [
-    [
       "2026-05-26, 23:36:06",
       "https://news.ycombinator.com/item?id=48287468"
     ],
     [
       "Cloudflare Flagship",
       "https://developers.cloudflare.com/flagship/"
-    ]
-  ],
-  [
-    [
-      "2026-05-26, 21:57:03",
-      "https://news.ycombinator.com/item?id=48286561"
-    ],
-    [
-      "From Rust to Ruby",
-      "https://xlii.space/eng/from-rust-to-ruby/"
-    ]
-  ],
-  [
-    [
-      "2026-05-26, 20:33:24",
-      "https://news.ycombinator.com/item?id=48285592"
-    ],
-    [
-      "Big tech's anti-labor playbook has come for Wikipedia",
-      "https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943"
     ]
   ],
   [
@@ -105,28 +85,18 @@
       "https://news.ycombinator.com/item?id=48284712"
     ],
     [
-      "Chemistry behind the Garden Grove chemical tank",
+      "That Methyl Methacrylate Tank",
       "https://www.science.org/content/blog-post/methyl-methacrylate-tank"
     ]
   ],
   [
     [
-      "2026-05-26, 17:00:40",
-      "https://news.ycombinator.com/item?id=48282478"
+      "2026-05-26, 19:25:13",
+      "https://news.ycombinator.com/item?id=48284711"
     ],
     [
-      "Sage Care (YC S24) Is Hiring Software Engineers",
-      "https://www.ycombinator.com/companies/sagecare/jobs/xtloH8r-senior-software-engineer"
-    ]
-  ],
-  [
-    [
-      "2026-05-26, 16:04:39",
-      "https://news.ycombinator.com/item?id=48281611"
-    ],
-    [
-      "The real cost of owning a home",
-      "https://ericturner.dev/posts/cost-of-home-ownership/"
+      "The Melancholy of Slaying Monsters",
+      "https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/"
     ]
   ],
   [
@@ -147,16 +117,6 @@
     [
       "Launch HN: Minicor (YC P26) – Windows desktop automations at scale",
       "https://www.minicor.com/"
-    ]
-  ],
-  [
-    [
-      "2026-05-26, 13:47:39",
-      "https://news.ycombinator.com/item?id=48279842"
-    ],
-    [
-      "C64 Basic: Game Map Overhead “Camera View”",
-      "https://retrogamecoders.com/overhead-camera-view/"
     ]
   ],
   [
@@ -191,6 +151,26 @@
   ],
   [
     [
+      "2026-05-26, 10:30:25",
+      "https://news.ycombinator.com/item?id=48277723"
+    ],
+    [
+      "Raft Consensus with a Minority of Nodes",
+      "https://padhye.org/raft-minority/"
+    ]
+  ],
+  [
+    [
+      "2026-05-26, 09:07:18",
+      "https://news.ycombinator.com/item?id=48277107"
+    ],
+    [
+      "BadHost – CVE-2026-48710: Starlette Host-Header Auth Bypass",
+      "https://badhost.org/"
+    ]
+  ],
+  [
+    [
       "2026-05-26, 05:57:45",
       "https://news.ycombinator.com/item?id=48275564"
     ],
@@ -211,12 +191,22 @@
   ],
   [
     [
-      "2026-05-25, 03:30:02",
-      "https://news.ycombinator.com/item?id=48263174"
+      "2026-05-25, 10:57:57",
+      "https://news.ycombinator.com/item?id=48265470"
     ],
     [
-      "Splinter Cell veteran says realistic modern lighting has screwed up stealth game",
-      "https://www.rockpapershotgun.com/splinter-cell-veteran-says-realistic-modern-lighting-has-screwed-up-stealth-games-it-gets-very-hard-to-tell-whats-light-whats-shadow-whats-dark-whats-safe"
+      "Cate v1.0 is out: The Infinite canvas workspace for developers",
+      "https://github.com/0-AI-UG/cate"
+    ]
+  ],
+  [
+    [
+      "2026-05-25, 05:05:11",
+      "https://news.ycombinator.com/item?id=48263560"
+    ],
+    [
+      "C array types are weird",
+      "https://anselmschueler.com/blogposts/2025-c-pointers/"
     ]
   ],
   [
@@ -235,8 +225,18 @@
       "https://news.ycombinator.com/item?id=48260219"
     ],
     [
-      "A History of Obituaries in American Newspapers",
+      "A history of obituaries in American newspapers",
       "https://blogs.loc.gov/headlinesandheroes/2026/05/mourn-not-a-history-of-obituaries-in-american-newspapers/"
+    ]
+  ],
+  [
+    [
+      "2026-05-24, 16:46:25",
+      "https://news.ycombinator.com/item?id=48258848"
+    ],
+    [
+      "What Gets Kept",
+      "https://www.newyorker.com/culture/the-weekend-essay/what-jack-kerouac-left-behind"
     ]
   ],
   [
@@ -247,6 +247,16 @@
     [
       "What I've Learned (So Far) Building Online Mini Games with Elixir and Swift",
       "https://calvinflegal.com/2026/05/24/what-ive-learned-so-far-building-online-mini-games-with-elixir-and-swift.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-24, 05:56:04",
+      "https://news.ycombinator.com/item?id=48254795"
+    ],
+    [
+      "Seeking a Language in Mathematics 1523-1571",
+      "https://tyndale.org/journals/reformj01/bmarsden.html"
     ]
   ],
   [
@@ -275,18 +285,8 @@
       "https://news.ycombinator.com/item?id=48238703"
     ],
     [
-      "I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline",
+      "I built a Git-tracked book production pipeline",
       "https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/"
-    ]
-  ],
-  [
-    [
-      "2026-05-22, 15:10:22",
-      "https://news.ycombinator.com/item?id=48237012"
-    ],
-    [
-      "Use boring languages with LLMs",
-      "https://jry.io/writing/use-boring-languages-with-llms/"
     ]
   ],
   [
