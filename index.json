@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-05-27, 20:53:47",
-      "https://news.ycombinator.com/item?id=48300509"
+      "2026-05-27, 22:52:15",
+      "https://news.ycombinator.com/item?id=48301851"
     ],
     [
-      "iPhones Running iOS 26 Are Freezing FaceTime Calls When They Detect Nudity",
-      "https://www.pcmag.com/news/iphones-running-ios-26-freeze-facetime-calls-when-theres-nudity"
+      "Pelica (YC P25) Is Hiring",
+      "https://www.ycombinator.com/companies/pelica/jobs/MDeC49o-machine-learning-engineer"
+    ]
+  ],
+  [
+    [
+      "2026-05-27, 22:24:25",
+      "https://news.ycombinator.com/item?id=48301603"
+    ],
+    [
+      "Internet traffic in Iran increasing",
+      "https://radar.cloudflare.com/traffic/ir?dateRange=28d"
     ]
   ],
   [
@@ -15,8 +25,18 @@
       "https://news.ycombinator.com/item?id=48300342"
     ],
     [
-      "How to Quickly Warm Up Your MacBook",
+      "Warm up your MacBook (2019)",
       "https://z3ugma.github.io/2019/11/18/warm-up-your-macbook/"
+    ]
+  ],
+  [
+    [
+      "2026-05-27, 20:37:42",
+      "https://news.ycombinator.com/item?id=48300280"
+    ],
+    [
+      "Show HN: Open-Source AI Racing Harness",
+      "https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness"
     ]
   ],
   [
@@ -31,6 +51,16 @@
   ],
   [
     [
+      "2026-05-27, 19:52:49",
+      "https://news.ycombinator.com/item?id=48299638"
+    ],
+    [
+      "I'm Getting into Mesh Networks (Meshtastic, MeshCore, and Reticulum)",
+      "https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/"
+    ]
+  ],
+  [
+    [
       "2026-05-27, 19:51:47",
       "https://news.ycombinator.com/item?id=48299623"
     ],
@@ -41,22 +71,22 @@
   ],
   [
     [
+      "2026-05-27, 19:31:47",
+      "https://news.ycombinator.com/item?id=48299335"
+    ],
+    [
+      "On Labubu and the Hyperreal",
+      "https://2earth.github.io/website/20260525.html"
+    ]
+  ],
+  [
+    [
       "2026-05-27, 19:24:10",
       "https://news.ycombinator.com/item?id=48299220"
     ],
     [
       "What Apple and Google are doing to push notifications",
       "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications"
-    ]
-  ],
-  [
-    [
-      "2026-05-27, 17:42:24",
-      "https://news.ycombinator.com/item?id=48297723"
-    ],
-    [
-      "Multi-Agent LLM System for Automated Vulnerability Discovery and Reproduction",
-      "https://arxiv.org/abs/2605.21779"
     ]
   ],
   [
@@ -77,16 +107,6 @@
     [
       "Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS",
       "https://brennan.day/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https/"
-    ]
-  ],
-  [
-    [
-      "2026-05-27, 17:01:05",
-      "https://news.ycombinator.com/item?id=48297116"
-    ],
-    [
-      "Reflex (YC W23) Is Hiring SWEs, Growth, and GTM Roles",
-      "https://www.ycombinator.com/companies/reflex/jobs"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2026-05-27, 16:08:42",
-      "https://news.ycombinator.com/item?id=48296359"
-    ],
-    [
-      "Training our own AI models",
-      "https://posthog.com/blog/training-ai-models"
-    ]
-  ],
-  [
-    [
       "2026-05-27, 15:36:09",
       "https://news.ycombinator.com/item?id=48295892"
     ],
@@ -157,16 +167,6 @@
     [
       "Tech CEOs are apparently suffering from AI psychosis",
       "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/"
-    ]
-  ],
-  [
-    [
-      "2026-05-27, 14:36:41",
-      "https://news.ycombinator.com/item?id=48295071"
-    ],
-    [
-      "Show HN: Open-source Workspace (mail,docs,spreadsheet,drive) web/iOS",
-      "https://tinycld.org/"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2026-05-27, 08:14:40",
-      "https://news.ycombinator.com/item?id=48291225"
-    ],
-    [
-      "All of human cooking compressed into 2 megabytes",
-      "https://arxiv.org/abs/2605.22391"
-    ]
-  ],
-  [
-    [
       "2026-05-27, 05:13:39",
       "https://news.ycombinator.com/item?id=48289950"
     ],
@@ -241,12 +231,32 @@
   ],
   [
     [
+      "2026-05-26, 05:08:56",
+      "https://news.ycombinator.com/item?id=48275255"
+    ],
+    [
+      "A New Typst Template for Pandoc",
+      "https://imaginarytext.ca/posts/2025/typst-templates-for-pandoc/"
+    ]
+  ],
+  [
+    [
       "2026-05-25, 22:43:39",
       "https://news.ycombinator.com/item?id=48272763"
     ],
     [
-      "What Is a Direct Attach Copper (DAC) Cable?",
+      "What Is a Direct Attach Copper (DAC) Cable? (2021)",
       "https://www.servethehome.com/what-is-a-direct-attach-copper-dac-cable/"
+    ]
+  ],
+  [
+    [
+      "2026-05-25, 16:28:06",
+      "https://news.ycombinator.com/item?id=48268695"
+    ],
+    [
+      "Dimensions of Geiger-Muller tube holder on GGreg20_V3 Geiger counter PCB (2025)",
+      "https://iot-devices.com.ua/en/ggreg20-v3-j305-tube-mounting-dimensions/"
     ]
   ],
   [
@@ -255,7 +265,7 @@
       "https://news.ycombinator.com/item?id=48266323"
     ],
     [
-      "In-Browser Container Builds",
+      "Fully in-browser container builds",
       "https://ochagavia.nl/blog/fully-in-browser-container-builds/"
     ]
   ],
@@ -265,7 +275,7 @@
       "https://news.ycombinator.com/item?id=48262703"
     ],
     [
-      "Freediving, Embodiment and Humanity – Joanna Rutkowska",
+      "Freediving, Embodiment and Humanity",
       "https://tracesofhumanity.org/freediving-embodiment-and-humanity/"
     ]
   ],
@@ -281,21 +291,11 @@
   ],
   [
     [
-      "2026-05-24, 00:31:29",
-      "https://news.ycombinator.com/item?id=48253063"
-    ],
-    [
-      "Reconstructing a Mixbook movie from its data API with FFmpeg",
-      "https://segar.me/blog/posts/reconstructing_a_mixbook_movie.html"
-    ]
-  ],
-  [
-    [
       "2026-05-23, 12:11:47",
       "https://news.ycombinator.com/item?id=48247005"
     ],
     [
-      "Matrix Multiplications on GPUs Run Faster When Given \"Predictable\" Data (2024)",
+      "Matrix Multiplications on GPUs Run Faster When Given “Predictable” Data (2024)",
       "https://www.thonking.ai/p/strangely-matrix-multiplications"
     ]
   ]
