@@ -45,6 +45,7 @@
 * [2026-05-25, 12:27:11](https://news.ycombinator.com/item?id=48266051) - [Search engines alternatives now that Google isn't Google anymore](https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/)
 * [2026-05-25, 12:03:54](https://news.ycombinator.com/item?id=48265876) - [Leave Me Behind](http://androidessence.com/leave-me-behind/)
 * [2026-05-25, 12:03:10](https://news.ycombinator.com/item?id=48265869) - [I manage teams without a single call](https://orchidfiles.com/build-without-calls/)
+* [2026-05-25, 10:57:57](https://news.ycombinator.com/item?id=48265470) - [Cate v1.0 is out: The Infinite canvas workspace for developers](https://github.com/0-AI-UG/cate)
 * [2026-05-25, 10:11:29](https://news.ycombinator.com/item?id=48265206) - [Magnifica Humanitas (Encyclical Letter)](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html)
 * [2026-05-25, 09:43:03](https://news.ycombinator.com/item?id=48265056) - [IBM Spins Off the First Pure-Play Quantum Chip Foundry](https://futurumgroup.com/insights/2-billion-chips-act-investment-in-quantum-bets-on-ibms-300mm-superconducting-silicon/)
 * [2026-05-25, 09:41:38](https://news.ycombinator.com/item?id=48265049) - [Rising seas will swallow New Orleans. People need to start relocating now](https://www.cnn.com/2026/05/25/climate/new-orleans-sea-level-rise-relocation)
