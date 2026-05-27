@@ -34,6 +34,7 @@
 * [2026-05-23, 12:48:02](https://news.ycombinator.com/item?id=48247208) - [The Art of Money Getting](https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/)
 * [2026-05-23, 12:37:59](https://news.ycombinator.com/item?id=48247142) - [Multimodal adaptive optical microscope: in vivo imaging, molecules to organisms](https://www.nature.com/articles/s41592-026-03066-1)
 * [2026-05-23, 12:35:28](https://news.ycombinator.com/item?id=48247127) - [I Miss Terry Pratchett](https://www.mahl.me/blog/the-spell-that-wouldnt-leave/)
+* [2026-05-23, 12:11:47](https://news.ycombinator.com/item?id=48247005) - [Matrix Multiplications on GPUs Run Faster When Given \"Predictable\" Data](https://www.thonking.ai/p/strangely-matrix-multiplications)
 * [2026-05-23, 12:11:43](https://news.ycombinator.com/item?id=48247004) - [80386 Microcode Disassembled](https://www.reenigne.org/blog/80386-microcode-disassembled/)
 * [2026-05-23, 12:09:05](https://news.ycombinator.com/item?id=48246993) - [Judson's Last Ride](https://www.realclearpolitics.com/articles/2026/05/22/judsons_last_ride_154150.html)
 * [2026-05-23, 11:54:39](https://news.ycombinator.com/item?id=48246917) - [Electrobun 2.0 will be decoupled from Bun due to the rust rewrite](https://twitter.com/i/status/2058064720553222567)
