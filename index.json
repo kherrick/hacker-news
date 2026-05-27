@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-05-27, 00:40:05",
+      "https://news.ycombinator.com/item?id=48287982"
+    ],
+    [
+      "Stripe is friendly to \"friendly fraud\"",
+      "https://www.gingerlime.com/2026/stripe-seem-friendly-to-friendly-fraud/"
+    ]
+  ],
+  [
+    [
+      "2026-05-27, 00:36:03",
+      "https://news.ycombinator.com/item?id=48287952"
+    ],
+    [
+      "Erin Brockovich made a map to track data centers around the country",
+      "https://www.niemanlab.org/2026/05/erin-brockovich-made-a-map-to-track-data-centers-around-the-country/"
+    ]
+  ],
+  [
+    [
+      "2026-05-27, 00:14:02",
+      "https://news.ycombinator.com/item?id=48287775"
+    ],
+    [
+      "Wikipedia Whitewashes Mao – The Anatomy of Ideological Capture",
+      "https://www.tracingwoodgrains.com/p/how-wikipedia-whitewashes-mao"
+    ]
+  ],
+  [
+    [
+      "2026-05-27, 00:03:04",
+      "https://news.ycombinator.com/item?id=48287678"
+    ],
+    [
+      "Sonny Rollins, Jazz's Saxophone Colossus and Greatest Improvisor, Dead at 95",
+      "https://www.rollingstone.com/music/music-news/sonny-rollins-jazz-legend-saxophone-colossus-dead-obit-1234715446/"
+    ]
+  ],
+  [
+    [
+      "2026-05-26, 23:36:06",
+      "https://news.ycombinator.com/item?id=48287468"
+    ],
+    [
+      "Cloudflare Flagship",
+      "https://developers.cloudflare.com/flagship/"
+    ]
+  ],
+  [
+    [
       "2026-05-26, 20:33:24",
       "https://news.ycombinator.com/item?id=48285592"
     ],
@@ -11,12 +61,12 @@
   ],
   [
     [
-      "2026-05-26, 20:11:49",
-      "https://news.ycombinator.com/item?id=48285344"
+      "2026-05-26, 19:40:59",
+      "https://news.ycombinator.com/item?id=48284939"
     ],
     [
-      "The worst job interview I ever had",
-      "https://www.oliverio.dev/blog/the-worst-job-interview-i-had"
+      "DeepSWE: A contamination-free benchmark for long-horizon coding agents",
+      "https://deepswe.datacurve.ai/blog"
     ]
   ],
   [
@@ -27,16 +77,6 @@
     [
       "Chemistry behind the Garden Grove chemical tank",
       "https://www.science.org/content/blog-post/methyl-methacrylate-tank"
-    ]
-  ],
-  [
-    [
-      "2026-05-26, 17:17:12",
-      "https://news.ycombinator.com/item?id=48282709"
-    ],
-    [
-      "Stack Overflow’s forum is dead but the company’s still kicking",
-      "https://sherwood.news/tech/stack-overflow-forum-dead-thanks-ai-but-companys-still-kicking-ai/"
     ]
   ],
   [
@@ -57,16 +97,6 @@
     [
       "The real cost of owning a home",
       "https://ericturner.dev/posts/cost-of-home-ownership/"
-    ]
-  ],
-  [
-    [
-      "2026-05-26, 16:00:21",
-      "https://news.ycombinator.com/item?id=48281539"
-    ],
-    [
-      "Is \"colorectal cancer\" rising in \"young people\"?",
-      "https://dynomight.net/crc-rates/"
     ]
   ],
   [
@@ -97,16 +127,6 @@
     [
       "Launch HN: Minicor (YC P26) – Windows desktop automations at scale",
       "https://www.minicor.com/"
-    ]
-  ],
-  [
-    [
-      "2026-05-26, 14:50:25",
-      "https://news.ycombinator.com/item?id=48280636"
-    ],
-    [
-      "Don't Subscribe So Casually",
-      "https://thebestworstcase.substack.com/p/dont-subscribe-so-casually"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2026-05-26, 07:35:20",
-      "https://news.ycombinator.com/item?id=48276363"
-    ],
-    [
-      "DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD",
-      "https://dynip.dev/"
-    ]
-  ],
-  [
-    [
       "2026-05-26, 05:57:45",
       "https://news.ycombinator.com/item?id=48275564"
     ],
@@ -181,22 +191,12 @@
   ],
   [
     [
-      "2026-05-26, 03:42:23",
-      "https://news.ycombinator.com/item?id=48274711"
+      "2026-05-26, 03:24:01",
+      "https://news.ycombinator.com/item?id=48274609"
     ],
     [
-      "Earthion: A New Mega Drive-Style Shoot-Em-Up",
-      "https://earthiongame.com/"
-    ]
-  ],
-  [
-    [
-      "2026-05-25, 23:37:31",
-      "https://news.ycombinator.com/item?id=48273147"
-    ],
-    [
-      "Performance of Rust Language [pdf]",
-      "https://github.com/yugr/rust-slides/"
+      "Show HN: Rapel – chunked resumable downloads in unstable networks",
+      "https://github.com/redraw/rapel"
     ]
   ],
   [
@@ -217,6 +217,16 @@
     [
       "C array types are weird",
       "https://anselmschueler.com/blogposts/2025-c-pointers/"
+    ]
+  ],
+  [
+    [
+      "2026-05-24, 15:56:26",
+      "https://news.ycombinator.com/item?id=48258314"
+    ],
+    [
+      "Liverpool and Manchester Railway",
+      "https://en.wikipedia.org/wiki/Liverpool_and_Manchester_Railway"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Use boring languages with LLMs",
       "https://jry.io/writing/use-boring-languages-with-llms/"
-    ]
-  ],
-  [
-    [
-      "2026-05-22, 13:46:56",
-      "https://news.ycombinator.com/item?id=48235812"
-    ],
-    [
-      "Phantasy Star IV – 1993 Developer Interviews",
-      "https://shmuplations.com/phantasystariv/"
     ]
   ],
   [
