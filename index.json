@@ -1,22 +1,72 @@
 [
   [
     [
-      "2026-05-27, 08:15:35",
-      "https://news.ycombinator.com/item?id=48291230"
+      "2026-05-27, 12:15:14",
+      "https://news.ycombinator.com/item?id=48293080"
     ],
     [
-      "Nvidia Vera CPU Benchmarks: Olympus Cores Delivering Great Performance",
-      "https://www.phoronix.com/review/nvidia-vera-benchmarks"
+      "Incident with Pull Requests, Issues, Git Operations and API Requests",
+      "https://www.githubstatus.com/incidents/xy1tt3hs572m"
     ]
   ],
   [
     [
-      "2026-05-27, 07:28:25",
-      "https://news.ycombinator.com/item?id=48290881"
+      "2026-05-27, 12:08:18",
+      "https://news.ycombinator.com/item?id=48293014"
     ],
     [
-      "Unicode 18.0.0 Beta",
-      "https://www.unicode.org/versions/Unicode18.0.0/"
+      "XLIDE: VBA without excel",
+      "https://github.com/WilliamSmithEdward/xlide_vscode"
+    ]
+  ],
+  [
+    [
+      "2026-05-27, 12:00:53",
+      "https://news.ycombinator.com/item?id=48292941"
+    ],
+    [
+      "Private Equity Bought America's Essential Services",
+      "https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/"
+    ]
+  ],
+  [
+    [
+      "2026-05-27, 10:43:25",
+      "https://news.ycombinator.com/item?id=48292224"
+    ],
+    [
+      "I'm Tired of Talking to AI",
+      "https://orchidfiles.com/im-tired-of-ai-generated-answers/"
+    ]
+  ],
+  [
+    [
+      "2026-05-27, 09:56:02",
+      "https://news.ycombinator.com/item?id=48291947"
+    ],
+    [
+      "Mini Micro Fantasy Computer",
+      "https://miniscript.org/MiniMicro/index.html#about"
+    ]
+  ],
+  [
+    [
+      "2026-05-27, 09:02:59",
+      "https://news.ycombinator.com/item?id=48291575"
+    ],
+    [
+      "Go: Support for Generic Methods",
+      "https://github.com/golang/go/issues/77273"
+    ]
+  ],
+  [
+    [
+      "2026-05-27, 08:14:40",
+      "https://news.ycombinator.com/item?id=48291225"
+    ],
+    [
+      "All of human cooking compressed into 2 megabytes",
+      "https://arxiv.org/abs/2605.22391"
     ]
   ],
   [
@@ -47,16 +97,6 @@
     [
       "TSDuck: Open-source toolkit for MPEG-TS analysis and manipulation",
       "https://tsduck.io/"
-    ]
-  ],
-  [
-    [
-      "2026-05-27, 01:08:16",
-      "https://news.ycombinator.com/item?id=48288174"
-    ],
-    [
-      "Tunecat: Simple Internet Radio",
-      "https://codeberg.org/lindenii/tunecat/"
     ]
   ],
   [
@@ -101,12 +141,12 @@
   ],
   [
     [
-      "2026-05-26, 15:58:32",
-      "https://news.ycombinator.com/item?id=48281515"
+      "2026-05-26, 17:00:40",
+      "https://news.ycombinator.com/item?id=48282478"
     ],
     [
-      "What color is your function? (2015)",
-      "https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/"
+      "Sage Care (YC S24) Is Hiring Software Engineers",
+      "https://www.ycombinator.com/companies/sagecare/jobs/xtloH8r-senior-software-engineer"
     ]
   ],
   [
@@ -121,32 +161,12 @@
   ],
   [
     [
-      "2026-05-26, 13:18:33",
-      "https://news.ycombinator.com/item?id=48279453"
-    ],
-    [
-      "Dropbox CEO Drew Houston to step down",
-      "https://www.cnbc.com/2026/05/26/dropbox-ceo-drew-houston-ashraf-alkarmi.html"
-    ]
-  ],
-  [
-    [
       "2026-05-26, 13:08:13",
       "https://news.ycombinator.com/item?id=48279316"
     ],
     [
       "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
       "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/"
-    ]
-  ],
-  [
-    [
-      "2026-05-26, 12:08:33",
-      "https://news.ycombinator.com/item?id=48278610"
-    ],
-    [
-      "Outsourcing plus local AI will soon become more economical vs. frontier labs",
-      "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/"
     ]
   ],
   [
@@ -181,22 +201,22 @@
   ],
   [
     [
+      "2026-05-25, 22:43:39",
+      "https://news.ycombinator.com/item?id=48272763"
+    ],
+    [
+      "What Is a Direct Attach Copper (DAC) Cable",
+      "https://www.servethehome.com/what-is-a-direct-attach-copper-dac-cable/"
+    ]
+  ],
+  [
+    [
       "2026-05-25, 20:41:49",
       "https://news.ycombinator.com/item?id=48271448"
     ],
     [
       "A few interesting modern pixel fonts",
       "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/"
-    ]
-  ],
-  [
-    [
-      "2026-05-25, 10:57:57",
-      "https://news.ycombinator.com/item?id=48265470"
-    ],
-    [
-      "Cate v1.0 is out: The Infinite canvas workspace for developers",
-      "https://github.com/0-AI-UG/cate"
     ]
   ],
   [
@@ -231,12 +251,12 @@
   ],
   [
     [
-      "2026-05-24, 16:46:25",
-      "https://news.ycombinator.com/item?id=48258848"
+      "2026-05-24, 12:29:42",
+      "https://news.ycombinator.com/item?id=48256733"
     ],
     [
-      "What Gets Kept",
-      "https://www.newyorker.com/culture/the-weekend-essay/what-jack-kerouac-left-behind"
+      "We are Poles, so, of course, we print in Latin",
+      "https://www.ustc.ac.uk/news/we-are-poles-so-of-course-we-print-in-latin"
     ]
   ],
   [
@@ -257,26 +277,6 @@
     [
       "Seeking a Language in Mathematics 1523-1571",
       "https://tyndale.org/journals/reformj01/bmarsden.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-23, 21:28:09",
-      "https://news.ycombinator.com/item?id=48251709"
-    ],
-    [
-      "The Steinwinter Supercargo",
-      "https://www.thedrive.com/article/12603/the-forgotten-steinwinter-supercargo-is-unlike-anything-on-the-road-today"
-    ]
-  ],
-  [
-    [
-      "2026-05-23, 19:01:13",
-      "https://news.ycombinator.com/item?id=48250300"
-    ],
-    [
-      "The Forgotten Art of the LAN Party (2023)",
-      "https://www.superjumpmagazine.com/the-forgotten-art-of-the-lan-party/"
     ]
   ],
   [
