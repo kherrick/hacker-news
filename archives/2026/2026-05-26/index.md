@@ -45,6 +45,7 @@
 * [2026-05-26, 05:57:45](https://news.ycombinator.com/item?id=48275564) - [A portentous reunion](https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/)
 * [2026-05-26, 05:49:35](https://news.ycombinator.com/item?id=48275508) - [Ask HN: Is anyone working at least 4 hours daily on an Apple Vision Pro?](https://news.ycombinator.com/item?id=48275508)
 * [2026-05-26, 05:43:25](https://news.ycombinator.com/item?id=48275462) - [Logseq Doctor: heal your flat old Markdown files before importing to Logseq](https://github.com/andreoliwa/logseq-doctor)
+* [2026-05-26, 05:08:56](https://news.ycombinator.com/item?id=48275255) - [A New Typst Template for Pandoc](https://imaginarytext.ca/posts/2025/typst-templates-for-pandoc/)
 * [2026-05-26, 04:45:29](https://news.ycombinator.com/item?id=48275098) - [Notes on Pope Leo XIV's Encyclical on AI](https://simonwillison.net/2026/May/25/encyclical-on-ai/)
 * [2026-05-26, 04:39:03](https://news.ycombinator.com/item?id=48275059) - [The User Is Visibly Frustrated](https://pscanf.com/s/354/)
 * [2026-05-26, 03:56:09](https://news.ycombinator.com/item?id=48274794) - [Motorola phones have started hijacking the Amazon app to insert affiliate codes](https://9to5google.com/2026/05/25/motorola-amazon-app-hijacking-behavior/)

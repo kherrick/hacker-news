@@ -34,6 +34,7 @@
 * [2026-05-25, 17:45:11](https://news.ycombinator.com/item?id=48269580) - [Exit IP VPN servers mitigation rollout](https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout)
 * [2026-05-25, 17:00:27](https://news.ycombinator.com/item?id=48269041) - [RentFlow (YC S24) Is Hiring](https://www.ycombinator.com/companies/rentflow/jobs/V2yneIE-senior-ai-ml-lead)
 * [2026-05-25, 16:44:49](https://news.ycombinator.com/item?id=48268871) - [Uber’s COO says it’s getting harder to justify money spent on tokenmaxxing](https://www.businessinsider.com/uber-coo-andrew-macdonald-ai-token-spending-harder-justify-2026-5)
+* [2026-05-25, 16:28:06](https://news.ycombinator.com/item?id=48268695) - [Dimensions of Geiger-Muller tube holder on GGreg20_V3 Geiger counter PCB (2025)](https://iot-devices.com.ua/en/ggreg20-v3-j305-tube-mounting-dimensions/)
 * [2026-05-25, 16:20:36](https://news.ycombinator.com/item?id=48268609) - [Founder of 7/11 Japan, Toshifumi Suzuki, has died at age 93](https://www.referenceforbusiness.com/biography/S-Z/Suzuki-Toshifumi-1932.html)
 * [2026-05-25, 15:45:04](https://news.ycombinator.com/item?id=48268185) - [My new obsession: A horse-racing board game of pure luck](https://alexanderbjoy.com/horse-race-board-game/)
 * [2026-05-25, 15:12:33](https://news.ycombinator.com/item?id=48267829) - [Launch HN: Chert (YC P26) – Twilio for iMessage](https://www.trychert.com)
