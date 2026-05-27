@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-05-26](index.md)
 
+* [2026-05-26, 23:36:06](https://news.ycombinator.com/item?id=48287468) - [Cloudflare Flagship](https://developers.cloudflare.com/flagship/)
 * [2026-05-26, 20:33:24](https://news.ycombinator.com/item?id=48285592) - [Big tech's anti-labor playbook has come for Wikipedia](https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943)
 * [2026-05-26, 20:11:49](https://news.ycombinator.com/item?id=48285344) - [The worst job interview I ever had](https://www.oliverio.dev/blog/the-worst-job-interview-i-had)
+* [2026-05-26, 19:40:59](https://news.ycombinator.com/item?id=48284939) - [DeepSWE: A contamination-free benchmark for long-horizon coding agents](https://deepswe.datacurve.ai/blog)
 * [2026-05-26, 19:25:16](https://news.ycombinator.com/item?id=48284712) - [Chemistry behind the Garden Grove chemical tank](https://www.science.org/content/blog-post/methyl-methacrylate-tank)
 * [2026-05-26, 18:44:34](https://news.ycombinator.com/item?id=48284032) - [Modern Blu-ray drives can now rip GameCube, Wii, and Xbox 360 games to PC](https://www.tomshardware.com/video-games/console-gaming/modern-blu-ray-drives-can-now-rip-gamecube-wii-and-xbox-360-games-to-pc-third-party-firmware-unlocks-game-rips-from-physical-media-on-select-players)
 * [2026-05-26, 18:37:07](https://news.ycombinator.com/item?id=48283914) - [Stop Advertising in Your Commits](https://akselmo.dev/posts/stop-advertising-in-your-commits/)
@@ -42,5 +44,6 @@
 * [2026-05-26, 03:56:09](https://news.ycombinator.com/item?id=48274794) - [Motorola phones have started hijacking the Amazon app to insert affiliate codes](https://9to5google.com/2026/05/25/motorola-amazon-app-hijacking-behavior/)
 * [2026-05-26, 03:42:23](https://news.ycombinator.com/item?id=48274711) - [Earthion: A New Mega Drive-Style Shoot-Em-Up](https://earthiongame.com/)
 * [2026-05-26, 03:35:17](https://news.ycombinator.com/item?id=48274667) - [Why the smart home bubble popped](https://hackaday.com/2026/05/21/why-the-smart-home-bubble-popped/)
+* [2026-05-26, 03:24:01](https://news.ycombinator.com/item?id=48274609) - [Show HN: Rapel – chunked resumable downloads in unstable networks](https://github.com/redraw/rapel)
 * [2026-05-26, 01:55:15](https://news.ycombinator.com/item?id=48274077) - [Does anybody like React?](https://jsx.lol)
 * [2026-05-26, 00:36:17](https://news.ycombinator.com/item?id=48273597) - [Designing for and against the manufactured normalcy field (2012)](https://www.urbanhonking.com/ideasfordozens/2012/06/24/designing-for-and-against-the-manufactured-normalcy-field/index.html)
