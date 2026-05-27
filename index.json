@@ -1,6 +1,96 @@
 [
   [
     [
+      "2026-05-27, 17:58:47",
+      "https://news.ycombinator.com/item?id=48297976"
+    ],
+    [
+      "Valve raises Steam Deck prices by more than $200",
+      "https://www.theverge.com/games/938340/valve-steam-deck-price-increase"
+    ]
+  ],
+  [
+    [
+      "2026-05-27, 17:42:24",
+      "https://news.ycombinator.com/item?id=48297723"
+    ],
+    [
+      "Multi-Agent LLM System for Automated Vulnerability Discovery and Reproduction",
+      "https://arxiv.org/abs/2605.21779"
+    ]
+  ],
+  [
+    [
+      "2026-05-27, 17:36:29",
+      "https://news.ycombinator.com/item?id=48297645"
+    ],
+    [
+      "SimCity 3k in 4k (2025)",
+      "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-27, 17:24:25",
+      "https://news.ycombinator.com/item?id=48297467"
+    ],
+    [
+      "Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS",
+      "https://brennan.day/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https/"
+    ]
+  ],
+  [
+    [
+      "2026-05-27, 17:01:05",
+      "https://news.ycombinator.com/item?id=48297116"
+    ],
+    [
+      "Reflex (YC W23) Is Hiring SWEs, Growth, and GTM Roles",
+      "https://www.ycombinator.com/companies/reflex/jobs"
+    ]
+  ],
+  [
+    [
+      "2026-05-27, 16:53:25",
+      "https://news.ycombinator.com/item?id=48296994"
+    ],
+    [
+      "Canada to order military plane fleet from Sweden in shift from US suppliers",
+      "https://www.theguardian.com/world/2026/may/27/canada-sweden-saab-globaleye-aircraft"
+    ]
+  ],
+  [
+    [
+      "2026-05-27, 16:39:13",
+      "https://news.ycombinator.com/item?id=48296794"
+    ],
+    [
+      "I think Anthropic and OpenAI have found product-market fit",
+      "https://simonwillison.net/2026/May/27/product-market-fit/"
+    ]
+  ],
+  [
+    [
+      "2026-05-27, 16:28:41",
+      "https://news.ycombinator.com/item?id=48296649"
+    ],
+    [
+      "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+      "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/"
+    ]
+  ],
+  [
+    [
+      "2026-05-27, 16:08:42",
+      "https://news.ycombinator.com/item?id=48296359"
+    ],
+    [
+      "Training our own AI models",
+      "https://posthog.com/blog/training-ai-models"
+    ]
+  ],
+  [
+    [
       "2026-05-27, 15:36:09",
       "https://news.ycombinator.com/item?id=48295892"
     ],
@@ -11,12 +101,32 @@
   ],
   [
     [
-      "2026-05-27, 14:21:20",
-      "https://news.ycombinator.com/item?id=48294831"
+      "2026-05-27, 15:20:47",
+      "https://news.ycombinator.com/item?id=48295679"
     ],
     [
-      "Declassified CIA Cartography Maps from the 1980s",
-      "https://brilliantmaps.com/cia-maps-1980s/"
+      "Tech CEOs are apparently suffering from AI psychosis",
+      "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/"
+    ]
+  ],
+  [
+    [
+      "2026-05-27, 15:05:16",
+      "https://news.ycombinator.com/item?id=48295460"
+    ],
+    [
+      "Corporations can vote in some Delaware elections, judge says",
+      "https://news.bloomberglaw.com/esg/corporations-have-the-right-to-vote-in-delaware-town-judge-says"
+    ]
+  ],
+  [
+    [
+      "2026-05-27, 14:36:41",
+      "https://news.ycombinator.com/item?id=48295071"
+    ],
+    [
+      "Show HN: Open-source Workspace (mail,docs,spreadsheet,drive) web/iOS",
+      "https://tinycld.org/"
     ]
   ],
   [
@@ -25,38 +135,8 @@
       "https://news.ycombinator.com/item?id=48294791"
     ],
     [
-      "Show HN: I made an emergency page for my family. You should too",
+      "Show HN: I made an emergency page for my family",
       "https://help.delduca.org"
-    ]
-  ],
-  [
-    [
-      "2026-05-27, 14:09:44",
-      "https://news.ycombinator.com/item?id=48294670"
-    ],
-    [
-      "The VibeSec Reckoning",
-      "https://martinfowler.com/articles/vibesec-reckoning.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-27, 14:02:38",
-      "https://news.ycombinator.com/item?id=48294549"
-    ],
-    [
-      "Evolving Webflow for the Agentic Web",
-      "https://webflow.com/blog/evolving-webflow-for-the-agentic-web"
-    ]
-  ],
-  [
-    [
-      "2026-05-27, 13:52:48",
-      "https://news.ycombinator.com/item?id=48294401"
-    ],
-    [
-      "Italy region: +200% tax on datacenters built in green/agricultural areas",
-      "https://en.ilsole24ore.com/art/lombardy-introduces-increased-charges-of-up-to-200-per-cent-for-data-centre-construction-in-green-and-agricultural-areas-AI6Jp4ID"
     ]
   ],
   [
@@ -77,16 +157,6 @@
     [
       "XLIDE: VBA without excel",
       "https://github.com/WilliamSmithEdward/xlide_vscode"
-    ]
-  ],
-  [
-    [
-      "2026-05-27, 12:00:53",
-      "https://news.ycombinator.com/item?id=48292941"
-    ],
-    [
-      "Private Equity Bought America's Essential Services",
-      "https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/"
     ]
   ],
   [
@@ -121,16 +191,6 @@
   ],
   [
     [
-      "2026-05-27, 09:02:59",
-      "https://news.ycombinator.com/item?id=48291575"
-    ],
-    [
-      "Go: Support for Generic Methods",
-      "https://github.com/golang/go/issues/77273"
-    ]
-  ],
-  [
-    [
       "2026-05-27, 08:14:40",
       "https://news.ycombinator.com/item?id=48291225"
     ],
@@ -147,16 +207,6 @@
     [
       "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs",
       "https://arps18.github.io/posts/claude-code-mastery/"
-    ]
-  ],
-  [
-    [
-      "2026-05-27, 02:22:59",
-      "https://news.ycombinator.com/item?id=48288709"
-    ],
-    [
-      "TSDuck: Open-source toolkit for MPEG-TS analysis and manipulation",
-      "https://tsduck.io/"
     ]
   ],
   [
@@ -181,26 +231,6 @@
   ],
   [
     [
-      "2026-05-26, 20:11:49",
-      "https://news.ycombinator.com/item?id=48285344"
-    ],
-    [
-      "The worst job interview I ever had",
-      "https://www.oliverio.dev/blog/the-worst-job-interview-i-had"
-    ]
-  ],
-  [
-    [
-      "2026-05-26, 19:25:16",
-      "https://news.ycombinator.com/item?id=48284712"
-    ],
-    [
-      "That Methyl Methacrylate Tank",
-      "https://www.science.org/content/blog-post/methyl-methacrylate-tank"
-    ]
-  ],
-  [
-    [
       "2026-05-26, 19:25:13",
       "https://news.ycombinator.com/item?id=48284711"
     ],
@@ -221,32 +251,12 @@
   ],
   [
     [
-      "2026-05-26, 09:07:18",
-      "https://news.ycombinator.com/item?id=48277107"
+      "2026-05-25, 19:14:45",
+      "https://news.ycombinator.com/item?id=48270514"
     ],
     [
-      "BadHost – CVE-2026-48710: Starlette Host-Header Auth Bypass",
-      "https://badhost.org/"
-    ]
-  ],
-  [
-    [
-      "2026-05-25, 22:43:39",
-      "https://news.ycombinator.com/item?id=48272763"
-    ],
-    [
-      "What Is a Direct Attach Copper (DAC) Cable",
-      "https://www.servethehome.com/what-is-a-direct-attach-copper-dac-cable/"
-    ]
-  ],
-  [
-    [
-      "2026-05-25, 20:41:49",
-      "https://news.ycombinator.com/item?id=48271448"
-    ],
-    [
-      "A few interesting modern pixel fonts",
-      "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/"
+      "A Comma and a Question Mark, Redux: Quick Terminal Helpers Using Pi",
+      "https://z3ugma.github.io/2026/05/25/a-comma-and-a-question-mark/"
     ]
   ],
   [
@@ -261,6 +271,16 @@
   ],
   [
     [
+      "2026-05-25, 13:00:27",
+      "https://news.ycombinator.com/item?id=48266323"
+    ],
+    [
+      "In-Browser Container Builds",
+      "https://ochagavia.nl/blog/fully-in-browser-container-builds/"
+    ]
+  ],
+  [
+    [
       "2026-05-25, 07:26:20",
       "https://news.ycombinator.com/item?id=48264328"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2026-05-24, 12:29:42",
-      "https://news.ycombinator.com/item?id=48256733"
-    ],
-    [
-      "We are Poles, so, of course, we print in Latin",
-      "https://www.ustc.ac.uk/news/we-are-poles-so-of-course-we-print-in-latin"
-    ]
-  ],
-  [
-    [
       "2026-05-23, 12:11:47",
       "https://news.ycombinator.com/item?id=48247005"
     ],
     [
-      "Matrix Multiplications on GPUs Run Faster When Given \"Predictable\" Data",
+      "Matrix Multiplications on GPUs Run Faster When Given \"Predictable\" Data (2024)",
       "https://www.thonking.ai/p/strangely-matrix-multiplications"
-    ]
-  ],
-  [
-    [
-      "2026-05-22, 17:17:43",
-      "https://news.ycombinator.com/item?id=48238703"
-    ],
-    [
-      "I built a Git-tracked book production pipeline",
-      "https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/"
     ]
   ]
 ]
