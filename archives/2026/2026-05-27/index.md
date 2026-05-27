@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-05-27](index.md)
 
+* [2026-05-27, 20:53:47](https://news.ycombinator.com/item?id=48300509) - [iPhones Running iOS 26 Are Freezing FaceTime Calls When They Detect Nudity](https://www.pcmag.com/news/iphones-running-ios-26-freeze-facetime-calls-when-theres-nudity)
+* [2026-05-27, 20:42:01](https://news.ycombinator.com/item?id=48300342) - [How to Quickly Warm Up Your MacBook](https://z3ugma.github.io/2019/11/18/warm-up-your-macbook/)
 * [2026-05-27, 20:00:51](https://news.ycombinator.com/item?id=48299753) - [YouTube to automatically label AI-generated videos](https://variety.com/2026/digital/news/youtube-ai-video-labels-automatic-detection-1236758865/)
+* [2026-05-27, 20:00:51](https://news.ycombinator.com/item?id=48299753) - [YouTube to automatically label AI-generated videos](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/)
 * [2026-05-27, 19:51:47](https://news.ycombinator.com/item?id=48299623) - [Rust (and Slint) on a Jailbroken Kindle](https://sverre.me/blog/rust-on-kindle/)
 * [2026-05-27, 19:31:47](https://news.ycombinator.com/item?id=48299335) - [On Labubu and the Hyperreal](https://2earth.github.io/website/20260525.html)
 * [2026-05-27, 19:24:10](https://news.ycombinator.com/item?id=48299220) - [What Apple and Google are doing to your push notifications](https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications)

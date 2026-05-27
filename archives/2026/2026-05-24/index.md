@@ -57,4 +57,5 @@
 * [2026-05-24, 01:21:13](https://news.ycombinator.com/item?id=48253386) - [Microsoft open-sources \"the earliest DOS source code discovered to date\"](https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/)
 * [2026-05-24, 00:53:08](https://news.ycombinator.com/item?id=48253198) - [Suspect killed after opening fire on Secret Service agents near White House](https://www.bbc.com/news/live/c5y09vpe713t)
 * [2026-05-24, 00:51:32](https://news.ycombinator.com/item?id=48253186) - [Scammers are abusing an internal Microsoft account to send spam links](https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/)
+* [2026-05-24, 00:31:29](https://news.ycombinator.com/item?id=48253063) - [Reconstructing a Mixbook movie from its data API with FFmpeg](https://segar.me/blog/posts/reconstructing_a_mixbook_movie.html)
 * [2026-05-24, 00:30:50](https://news.ycombinator.com/item?id=48253060) - [Wake up! 16b](https://hellmood.111mb.de/wake_up_16b_writeup.html)

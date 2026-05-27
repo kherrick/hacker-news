@@ -28,6 +28,7 @@
 * [2026-05-26, 14:57:27](https://news.ycombinator.com/item?id=48280729) - [Launch HN: Minicor (YC P26) – Windows desktop automations at scale](https://www.minicor.com/)
 * [2026-05-26, 14:50:25](https://news.ycombinator.com/item?id=48280636) - [Don't Subscribe So Casually](https://thebestworstcase.substack.com/p/dont-subscribe-so-casually)
 * [2026-05-26, 14:44:31](https://news.ycombinator.com/item?id=48280561) - [Stockholm poised to become leading European geospatial intel player](https://www.intelligenceonline.com/europe-russia/2026/05/26/stockholm-poised-to-become-leading-european-geospatial-intel-player,110772386-eve)
+* [2026-05-26, 14:30:21](https://news.ycombinator.com/item?id=48280356) - [Interleaved Deltas](https://mmapped.blog/posts/51-interleaved-deltas)
 * [2026-05-26, 13:47:39](https://news.ycombinator.com/item?id=48279842) - [C64 Basic: Game Map Overhead \"Camera View\"](https://retrogamecoders.com/overhead-camera-view/)
 * [2026-05-26, 13:18:33](https://news.ycombinator.com/item?id=48279453) - [Dropbox CEO Drew Houston to step down](https://www.cnbc.com/2026/05/26/dropbox-ceo-drew-houston-ashraf-alkarmi.html)
 * [2026-05-26, 13:08:13](https://news.ycombinator.com/item?id=48279316) - [Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence](https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/)
