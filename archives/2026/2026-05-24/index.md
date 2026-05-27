@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-05-24](index.md)
 
+* [2026-05-24, 21:21:58](https://news.ycombinator.com/item?id=48261120) - [IBM Confidential: System/360 File Organization [video]](https://www.youtube.com/watch?v=zokKqP0plrM)
 * [2026-05-24, 19:36:57](https://news.ycombinator.com/item?id=48260331) - [The political polarization of health outcomes in the USA](https://www.nature.com/articles/s41562-026-02474-9)
+* [2026-05-24, 19:22:18](https://news.ycombinator.com/item?id=48260219) - [A History of Obituaries in American Newspapers](https://blogs.loc.gov/headlinesandheroes/2026/05/mourn-not-a-history-of-obituaries-in-american-newspapers/)
 * [2026-05-24, 19:12:46](https://news.ycombinator.com/item?id=48260140) - [CBP Directive 3340-049B: Border Search of Electronic Devices](https://www.cbp.gov/document/directives/cbp-directive-no-3340-049b-border-search-electronic-devices)
 * [2026-05-24, 19:10:26](https://news.ycombinator.com/item?id=48260117) - [A fundamental principle of aeronautical engineering has been overturned](https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/)
 * [2026-05-24, 18:56:09](https://news.ycombinator.com/item?id=48259990) - [Australia Four-Day Work Week Study Data Shows Boosted Productivity](https://scienceaim.com/australia-just-proved-the-four-day-work-week-works-here-is-what-the-data-actually-says/)
@@ -38,6 +40,7 @@
 * [2026-05-24, 11:42:15](https://news.ycombinator.com/item?id=48256475) - [Mastering Dyalog APL](https://mastering.dyalog.com/README.html)
 * [2026-05-24, 10:48:48](https://news.ycombinator.com/item?id=48256192) - [The Worlds Left to Conquer](https://ludic.mataroa.blog/blog/the-worlds-left-to-conquer/)
 * [2026-05-24, 10:30:39](https://news.ycombinator.com/item?id=48256108) - [What it takes to transpose a matrix](https://gudok.xyz/transpose/)
+* [2026-05-24, 10:17:19](https://news.ycombinator.com/item?id=48256053) - [What I've Learned (So Far) Building Online Mini Games with Elixir and Swift](https://calvinflegal.com/2026/05/24/what-ive-learned-so-far-building-online-mini-games-with-elixir-and-swift.html)
 * [2026-05-24, 08:29:38](https://news.ycombinator.com/item?id=48255593) - [Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI](https://fs.blog/knowledge-project-podcast/greg-brockman/)
 * [2026-05-24, 08:13:32](https://news.ycombinator.com/item?id=48255501) - [All Lean Books and Where to Find Them](https://lakesare.brick.do/all-lean-books-and-where-to-find-them-x2nYwjM3AwBQ)
 * [2026-05-24, 04:51:22](https://news.ycombinator.com/item?id=48254475) - [Amazon Web Services – Four Years and Out](https://www.adventuresinoss.com/aws-four-years/)

@@ -15,6 +15,7 @@
 * [2026-05-23, 21:06:37](https://news.ycombinator.com/item?id=48251528) - [A self-powered computer in actual credit-card size (~1mm thick)](https://old.reddit.com/r/electronics/comments/1td7yxl/i_built_a_fully_selfpowered_computer_in_actual/)
 * [2026-05-23, 20:36:42](https://news.ycombinator.com/item?id=48251229) - [Pardon MIE?](https://ironpeak.be/blog/bypassing-apple-mie/)
 * [2026-05-23, 20:09:13](https://news.ycombinator.com/item?id=48250980) - [Air France and Airbus found guilty of manslaughter over 2009 plane crash](https://www.bbc.com/news/articles/czd2qmdvmq6o)
+* [2026-05-23, 19:01:13](https://news.ycombinator.com/item?id=48250300) - [The Forgotten Art of the LAN Party (2023)](https://www.superjumpmagazine.com/the-forgotten-art-of-the-lan-party/)
 * [2026-05-23, 18:51:01](https://news.ycombinator.com/item?id=48250198) - [NeuralNote](https://github.com/DamRsn/NeuralNote)
 * [2026-05-23, 18:45:37](https://news.ycombinator.com/item?id=48250144) - [It's time to talk about my writerdeck](https://veronicaexplains.net/my-first-writerdeck/)
 * [2026-05-23, 18:02:42](https://news.ycombinator.com/item?id=48249747) - [Texas woman arrested for Facebook post about town water quality](https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality)
