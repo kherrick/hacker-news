@@ -49,6 +49,7 @@
 * [2026-05-24, 04:51:22](https://news.ycombinator.com/item?id=48254475) - [Amazon Web Services – Four Years and Out](https://www.adventuresinoss.com/aws-four-years/)
 * [2026-05-24, 04:34:46](https://news.ycombinator.com/item?id=48254401) - [The C++ Standard Library Has Been Walking Itself Back for Fifteen Years](https://hftuniversity.com/post/the-c-standard-library-has-been-walking-itself-back-for-fifteen-years-and-the-receipts-are-public)
 * [2026-05-24, 04:22:39](https://news.ycombinator.com/item?id=48254345) - ['Fuck you, Bambu': How one private message could change the face of 3D printing](https://www.theverge.com/tech/931532/bambu-agpl-pawel-jarczak-open-source-threat-dmca-github)
+* [2026-05-24, 04:19:23](https://news.ycombinator.com/item?id=48254336) - [Human Bottlenecks](https://borretti.me/article/human-bottlenecks)
 * [2026-05-24, 04:14:52](https://news.ycombinator.com/item?id=48254309) - [Why Is Vivado 2026.1 Dropping Linux Support for Free Tier?](https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US)
 * [2026-05-24, 03:57:01](https://news.ycombinator.com/item?id=48254236) - [The C64 Dead Test Font](https://www.masswerk.at/nowgobang/2026/c64-dead-test-font)
 * [2026-05-24, 03:19:02](https://news.ycombinator.com/item?id=48254020) - [Alexander Grothendieck Revolutionized 20th-Century Mathematics](https://www.quantamagazine.org/how-alexander-grothendieck-revolutionized-20th-century-mathematics-20260520/)

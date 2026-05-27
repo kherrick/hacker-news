@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-05-27](index.md)
 
+* [2026-05-27, 20:00:51](https://news.ycombinator.com/item?id=48299753) - [YouTube to automatically label AI-generated videos](https://variety.com/2026/digital/news/youtube-ai-video-labels-automatic-detection-1236758865/)
+* [2026-05-27, 19:51:47](https://news.ycombinator.com/item?id=48299623) - [Rust (and Slint) on a Jailbroken Kindle](https://sverre.me/blog/rust-on-kindle/)
+* [2026-05-27, 19:31:47](https://news.ycombinator.com/item?id=48299335) - [On Labubu and the Hyperreal](https://2earth.github.io/website/20260525.html)
+* [2026-05-27, 19:24:10](https://news.ycombinator.com/item?id=48299220) - [What Apple and Google are doing to your push notifications](https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications)
 * [2026-05-27, 17:58:47](https://news.ycombinator.com/item?id=48297976) - [Valve raises Steam Deck prices by more than $200](https://www.theverge.com/games/938340/valve-steam-deck-price-increase)
 * [2026-05-27, 17:42:24](https://news.ycombinator.com/item?id=48297723) - [Multi-Agent LLM System for Automated Vulnerability Discovery and Reproduction](https://arxiv.org/abs/2605.21779)
 * [2026-05-27, 17:36:29](https://news.ycombinator.com/item?id=48297645) - [SimCity 3k in 4k (2025)](https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html)
@@ -12,6 +16,7 @@
 * [2026-05-27, 16:53:25](https://news.ycombinator.com/item?id=48296994) - [Canada to order military plane fleet from Sweden in shift from US suppliers](https://www.theguardian.com/world/2026/may/27/canada-sweden-saab-globaleye-aircraft)
 * [2026-05-27, 16:39:13](https://news.ycombinator.com/item?id=48296794) - [I think Anthropic and OpenAI have found product-market fit](https://simonwillison.net/2026/May/27/product-market-fit/)
 * [2026-05-27, 16:28:41](https://news.ycombinator.com/item?id=48296649) - [DuckDuckGo search saw 28% more visits after Google said people love AI mode](https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/)
+* [2026-05-27, 16:26:31](https://news.ycombinator.com/item?id=48296622) - [Stress disrupts hippocampal integration of overlapping events, memory inference](https://www.science.org/doi/10.1126/sciadv.aea5496?user_id=66c4bf745d78644b3aa57b08)
 * [2026-05-27, 16:08:42](https://news.ycombinator.com/item?id=48296359) - [Training our own AI models](https://posthog.com/blog/training-ai-models)
 * [2026-05-27, 15:36:09](https://news.ycombinator.com/item?id=48295892) - [Last.fm is now independent](https://support.last.fm/t/last-fm-is-now-independent/118591)
 * [2026-05-27, 15:20:47](https://news.ycombinator.com/item?id=48295679) - [Tech CEOs are apparently suffering from AI psychosis](https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/)
