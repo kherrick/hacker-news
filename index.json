@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-05-28, 06:40:31",
+      "https://news.ycombinator.com/item?id=48305446"
+    ],
+    [
+      "A Eureka machine that thinks like nature and explores what AI cannot",
+      "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/"
+    ]
+  ],
+  [
+    [
       "2026-05-28, 03:50:01",
       "https://news.ycombinator.com/item?id=48304260"
     ],
     [
       "Hallucinate – Massively Multiplayer Online Rave",
       "https://hallucinate.site"
+    ]
+  ],
+  [
+    [
+      "2026-05-28, 02:58:44",
+      "https://news.ycombinator.com/item?id=48303881"
+    ],
+    [
+      "Biff is a command line datetime Swiss army knife",
+      "https://github.com/BurntSushi/biff"
     ]
   ],
   [
@@ -121,26 +141,6 @@
   ],
   [
     [
-      "2026-05-27, 17:24:25",
-      "https://news.ycombinator.com/item?id=48297467"
-    ],
-    [
-      "Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS",
-      "https://brennan.day/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https/"
-    ]
-  ],
-  [
-    [
-      "2026-05-27, 16:53:25",
-      "https://news.ycombinator.com/item?id=48296994"
-    ],
-    [
-      "Canada to order military plane fleet from Sweden in shift from US suppliers",
-      "https://www.theguardian.com/world/2026/may/27/canada-sweden-saab-globaleye-aircraft"
-    ]
-  ],
-  [
-    [
       "2026-05-27, 16:39:13",
       "https://news.ycombinator.com/item?id=48296794"
     ],
@@ -167,16 +167,6 @@
     [
       "Stress disrupts hippocampal integration of overlapping events, memory inference",
       "https://www.science.org/doi/10.1126/sciadv.aea5496?user_id=66c4bf745d78644b3aa57b08"
-    ]
-  ],
-  [
-    [
-      "2026-05-27, 15:36:09",
-      "https://news.ycombinator.com/item?id=48295892"
-    ],
-    [
-      "Last.fm is now independent",
-      "https://support.last.fm/t/last-fm-is-now-independent/118591"
     ]
   ],
   [
@@ -251,6 +241,16 @@
   ],
   [
     [
+      "2026-05-25, 17:28:03",
+      "https://news.ycombinator.com/item?id=48269357"
+    ],
+    [
+      "AI Datacenters Were Built for GPUs. What Happens When You Remove the GPUs?",
+      "https://almartis.xyz/gpu-free-datacenter.html"
+    ]
+  ],
+  [
+    [
       "2026-05-25, 15:45:04",
       "https://news.ycombinator.com/item?id=48268185"
     ],
@@ -271,22 +271,22 @@
   ],
   [
     [
-      "2026-05-25, 14:41:09",
-      "https://news.ycombinator.com/item?id=48267432"
+      "2026-05-25, 11:32:56",
+      "https://news.ycombinator.com/item?id=48265668"
     ],
     [
-      "Why Ctrl+V won't paste images in Claude Code on WSL, with a fix",
-      "https://rajveerbachkaniwala.com/blog/2026/05/24/on-the-difficulty-of-pasting-a-picture/"
+      "Seeing Around Corners Using Smartphone-Grade Lidar",
+      "https://spectrum.ieee.org/smartphone-grade-lidar"
     ]
   ],
   [
     [
-      "2026-05-25, 08:30:05",
-      "https://news.ycombinator.com/item?id=48264663"
+      "2026-05-25, 08:37:36",
+      "https://news.ycombinator.com/item?id=48264705"
     ],
     [
-      "Qwen3.7-Max Ran for 35 Hours on Unknown Hardware and Achieved a 10× Speedup",
-      "https://firethering.com/alibaba-qwen3-7-max-autonomous-agent/"
+      "Rapira (Рапира) – Soviet programming language interpreter",
+      "https://github.com/begoon/rapira"
     ]
   ],
   [
