@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-05-28, 03:50:01",
+      "https://news.ycombinator.com/item?id=48304260"
+    ],
+    [
+      "Hallucinate – Massively Multiplayer Online Rave",
+      "https://hallucinate.site"
+    ]
+  ],
+  [
+    [
+      "2026-05-28, 02:21:11",
+      "https://news.ycombinator.com/item?id=48303599"
+    ],
+    [
+      "RamAIn (YC W26) Is Hiring",
+      "https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer"
+    ]
+  ],
+  [
+    [
+      "2026-05-28, 00:49:58",
+      "https://news.ycombinator.com/item?id=48302822"
+    ],
+    [
+      "Google employee charged with $1M Polymarket insider trading bet on search term",
+      "https://www.cnbc.com/2026/05/27/google-employee-polymarket-insider-trading.html"
+    ]
+  ],
+  [
+    [
       "2026-05-28, 00:40:26",
       "https://news.ycombinator.com/item?id=48302745"
     ],
@@ -11,12 +41,12 @@
   ],
   [
     [
-      "2026-05-27, 23:42:49",
-      "https://news.ycombinator.com/item?id=48302319"
+      "2026-05-27, 23:31:13",
+      "https://news.ycombinator.com/item?id=48302220"
     ],
     [
-      "You Should Not Update Your Dependencies",
-      "https://www.mendral.com/blog/you-should-not-update"
+      "I analysed 20 years of my chats",
+      "https://drobinin.com/posts/am-i-a-bad-friend/"
     ]
   ],
   [
@@ -31,22 +61,12 @@
   ],
   [
     [
-      "2026-05-27, 22:52:15",
-      "https://news.ycombinator.com/item?id=48301851"
+      "2026-05-27, 20:42:01",
+      "https://news.ycombinator.com/item?id=48300342"
     ],
     [
-      "Pelica (YC P25) Is Hiring",
-      "https://www.ycombinator.com/companies/pelica/jobs/MDeC49o-machine-learning-engineer"
-    ]
-  ],
-  [
-    [
-      "2026-05-27, 22:24:25",
-      "https://news.ycombinator.com/item?id=48301603"
-    ],
-    [
-      "Internet traffic in Iran increasing",
-      "https://radar.cloudflare.com/traffic/ir?dateRange=28d"
+      "Warm up your MacBook (2019)",
+      "https://z3ugma.github.io/2019/11/18/warm-up-your-macbook/"
     ]
   ],
   [
@@ -77,16 +97,6 @@
     [
       "Rust (and Slint) on a Jailbroken Kindle",
       "https://sverre.me/blog/rust-on-kindle/"
-    ]
-  ],
-  [
-    [
-      "2026-05-27, 19:31:47",
-      "https://news.ycombinator.com/item?id=48299335"
-    ],
-    [
-      "On Labubu and the Hyperreal",
-      "https://2earth.github.io/website/20260525.html"
     ]
   ],
   [
@@ -171,32 +181,12 @@
   ],
   [
     [
-      "2026-05-27, 15:20:47",
-      "https://news.ycombinator.com/item?id=48295679"
-    ],
-    [
-      "Tech CEOs are apparently suffering from AI psychosis",
-      "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/"
-    ]
-  ],
-  [
-    [
       "2026-05-27, 12:15:14",
       "https://news.ycombinator.com/item?id=48293080"
     ],
     [
       "Incident with Pull Requests, Issues, Git Operations and API Requests",
       "https://www.githubstatus.com/incidents/xy1tt3hs572m"
-    ]
-  ],
-  [
-    [
-      "2026-05-27, 12:00:53",
-      "https://news.ycombinator.com/item?id=48292941"
-    ],
-    [
-      "Private equity bought America's essential services",
-      "https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/"
     ]
   ],
   [
@@ -221,16 +211,6 @@
   ],
   [
     [
-      "2026-05-27, 05:13:39",
-      "https://news.ycombinator.com/item?id=48289950"
-    ],
-    [
-      "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs",
-      "https://arps18.github.io/posts/claude-code-mastery/"
-    ]
-  ],
-  [
-    [
       "2026-05-26, 14:30:21",
       "https://news.ycombinator.com/item?id=48280356"
     ],
@@ -241,62 +221,82 @@
   ],
   [
     [
+      "2026-05-26, 13:22:36",
+      "https://news.ycombinator.com/item?id=48279507"
+    ],
+    [
+      "Zero Lines Maze: What the 8-Bit Guy's One-Liner Can Still Teach Us",
+      "https://retrogamecoders.com/zero-lines-maze/"
+    ]
+  ],
+  [
+    [
+      "2026-05-26, 07:43:22",
+      "https://news.ycombinator.com/item?id=48276429"
+    ],
+    [
+      "Investigating how prompt politeness affects LLM accuracy (2025)",
+      "https://arxiv.org/abs/2510.04950"
+    ]
+  ],
+  [
+    [
       "2026-05-26, 05:08:56",
       "https://news.ycombinator.com/item?id=48275255"
     ],
     [
-      "A New Typst Template for Pandoc",
+      "A New Typst Template for Pandoc (2025)",
       "https://imaginarytext.ca/posts/2025/typst-templates-for-pandoc/"
     ]
   ],
   [
     [
-      "2026-05-25, 22:43:39",
-      "https://news.ycombinator.com/item?id=48272763"
+      "2026-05-25, 15:45:04",
+      "https://news.ycombinator.com/item?id=48268185"
     ],
     [
-      "What Is a Direct Attach Copper (DAC) Cable? (2021)",
-      "https://www.servethehome.com/what-is-a-direct-attach-copper-dac-cable/"
+      "My new obsession: A horse-racing board game of pure luck",
+      "https://alexanderbjoy.com/horse-race-board-game/"
     ]
   ],
   [
     [
-      "2026-05-25, 01:41:04",
-      "https://news.ycombinator.com/item?id=48262703"
+      "2026-05-25, 14:51:20",
+      "https://news.ycombinator.com/item?id=48267558"
     ],
     [
-      "Freediving, Embodiment and Humanity",
-      "https://tracesofhumanity.org/freediving-embodiment-and-humanity/"
+      "The Ask",
+      "https://randsinrepose.com/archives/the-ask/"
     ]
   ],
   [
     [
-      "2026-05-24, 19:31:41",
-      "https://news.ycombinator.com/item?id=48260289"
+      "2026-05-25, 14:41:09",
+      "https://news.ycombinator.com/item?id=48267432"
     ],
     [
-      "I am not a black belt",
-      "https://rodolphoarruda.pro.br/i-am-not-a-black-belt/"
+      "Why Ctrl+V won't paste images in Claude Code on WSL, with a fix",
+      "https://rajveerbachkaniwala.com/blog/2026/05/24/on-the-difficulty-of-pasting-a-picture/"
     ]
   ],
   [
     [
-      "2026-05-24, 04:19:23",
-      "https://news.ycombinator.com/item?id=48254336"
+      "2026-05-25, 08:30:05",
+      "https://news.ycombinator.com/item?id=48264663"
     ],
     [
-      "Human Bottlenecks",
-      "https://borretti.me/article/human-bottlenecks"
+      "Qwen3.7-Max Ran for 35 Hours on Unknown Hardware and Achieved a 10× Speedup",
+      "https://firethering.com/alibaba-qwen3-7-max-autonomous-agent/"
     ]
   ],
   [
     [
-      "2026-05-23, 12:11:47",
-      "https://news.ycombinator.com/item?id=48247005"
+      "2026-05-24, 23:44:58",
+      "https://news.ycombinator.com/item?id=48262160"
     ],
     [
-      "Matrix Multiplications on GPUs Run Faster When Given “Predictable” Data (2024)",
-      "https://www.thonking.ai/p/strangely-matrix-multiplications"
+      "The Green Side of the Lua",
+      "https://arxiv.org/abs/2601.16670"
     ]
   ]
 ]
