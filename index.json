@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-05-28, 12:20:19",
+      "https://news.ycombinator.com/item?id=48307887"
+    ],
+    [
+      "Five frontier LLMs disagree on 67% of 1k real-world fact-check claims",
+      "https://lenz.io/research/llm-disagreement"
+    ]
+  ],
+  [
+    [
+      "2026-05-28, 10:57:34",
+      "https://news.ycombinator.com/item?id=48307237"
+    ],
+    [
+      "Commission fines Temu €200M for breaching the Digital Services Act",
+      "https://ec.europa.eu/commission/presscorner/home/en"
+    ]
+  ],
+  [
+    [
+      "2026-05-28, 10:56:55",
+      "https://news.ycombinator.com/item?id=48307231"
+    ],
+    [
+      "AMD pulls a bait-and-switch on Linux users with Vivado licensing changes",
+      "https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/"
+    ]
+  ],
+  [
+    [
+      "2026-05-28, 10:39:32",
+      "https://news.ycombinator.com/item?id=48307098"
+    ],
+    [
+      "AI sticker shock hits corporate America",
+      "https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs"
+    ]
+  ],
+  [
+    [
       "2026-05-28, 06:40:31",
       "https://news.ycombinator.com/item?id=48305446"
     ],
@@ -47,16 +87,6 @@
     [
       "Google employee charged with $1M Polymarket insider trading bet on search term",
       "https://www.cnbc.com/2026/05/27/google-employee-polymarket-insider-trading.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-28, 00:40:26",
-      "https://news.ycombinator.com/item?id=48302745"
-    ],
-    [
-      "Can we have the day off?",
-      "https://mlsu.io/posts/day-off/"
     ]
   ],
   [
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2026-05-27, 09:56:02",
-      "https://news.ycombinator.com/item?id=48291947"
-    ],
-    [
-      "Mini Micro Fantasy Computer",
-      "https://miniscript.org/MiniMicro/index.html#about"
-    ]
-  ],
-  [
-    [
       "2026-05-27, 09:02:59",
       "https://news.ycombinator.com/item?id=48291575"
     ],
@@ -201,22 +221,12 @@
   ],
   [
     [
-      "2026-05-26, 14:30:21",
-      "https://news.ycombinator.com/item?id=48280356"
+      "2026-05-26, 15:45:12",
+      "https://news.ycombinator.com/item?id=48281336"
     ],
     [
-      "Interleaved Deltas",
-      "https://mmapped.blog/posts/51-interleaved-deltas"
-    ]
-  ],
-  [
-    [
-      "2026-05-26, 13:22:36",
-      "https://news.ycombinator.com/item?id=48279507"
-    ],
-    [
-      "Zero Lines Maze: What the 8-Bit Guy's One-Liner Can Still Teach Us",
-      "https://retrogamecoders.com/zero-lines-maze/"
+      "More Whimsical OEIS Sequences",
+      "https://www.jeremykun.com/shortform/2026-05-22-1528/"
     ]
   ],
   [
@@ -241,22 +251,12 @@
   ],
   [
     [
-      "2026-05-25, 17:28:03",
-      "https://news.ycombinator.com/item?id=48269357"
+      "2026-05-25, 18:49:32",
+      "https://news.ycombinator.com/item?id=48270265"
     ],
     [
-      "AI Datacenters Were Built for GPUs. What Happens When You Remove the GPUs?",
-      "https://almartis.xyz/gpu-free-datacenter.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-25, 15:45:04",
-      "https://news.ycombinator.com/item?id=48268185"
-    ],
-    [
-      "My new obsession: A horse-racing board game of pure luck",
-      "https://alexanderbjoy.com/horse-race-board-game/"
+      "Ruby vs. Java vs. TypeScript: my experience on building a Cowork DOCX plugin",
+      "https://tanin.nanakorn.com/ruby-java-typescrip-claude-docx-plugin/"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-05-24, 23:44:58",
-      "https://news.ycombinator.com/item?id=48262160"
+      "2026-05-24, 13:43:15",
+      "https://news.ycombinator.com/item?id=48257224"
     ],
     [
-      "The Green Side of the Lua",
-      "https://arxiv.org/abs/2601.16670"
+      "Libwce: The entropy layer of a wavelet codec, on its own",
+      "https://yogthos.net/posts/2026-05-24-libwce.html"
     ]
   ]
 ]
