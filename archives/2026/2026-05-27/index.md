@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-05-27](index.md)
 
 * [2026-05-27, 23:42:49](https://news.ycombinator.com/item?id=48302319) - [You Should Not Update Your Dependencies](https://www.mendral.com/blog/you-should-not-update)
+* [2026-05-27, 23:31:13](https://news.ycombinator.com/item?id=48302220) - [I analysed 20 years of my chats](https://drobinin.com/posts/am-i-a-bad-friend/)
 * [2026-05-27, 23:23:29](https://news.ycombinator.com/item?id=48302151) - [FBI Arrests CIA Official with $40M in Gold Bars in His Home](https://www.nytimes.com/2026/05/27/us/politics/fbi-arrest-cia-official-gold-bars.html)
 * [2026-05-27, 22:52:15](https://news.ycombinator.com/item?id=48301851) - [Pelica (YC P25) Is Hiring](https://www.ycombinator.com/companies/pelica/jobs/MDeC49o-machine-learning-engineer)
 * [2026-05-27, 22:24:25](https://news.ycombinator.com/item?id=48301603) - [Internet traffic in Iran increasing](https://radar.cloudflare.com/traffic/ir?dateRange=28d)
