@@ -44,6 +44,7 @@
 * [2026-05-26, 10:01:39](https://news.ycombinator.com/item?id=48277485) - [Uber president says AI spending is getting 'harder to justify'](https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify)
 * [2026-05-26, 09:43:40](https://news.ycombinator.com/item?id=48277357) - [Exposing Critical Vulnerabilities in CBSE's On-Screen Marking Portal](https://ni5arga.com/blog/posts/hacking-cbse/)
 * [2026-05-26, 09:07:18](https://news.ycombinator.com/item?id=48277107) - [BadHost – CVE-2026-48710: Starlette Host-Header Auth Bypass](https://badhost.org/)
+* [2026-05-26, 08:02:52](https://news.ycombinator.com/item?id=48276598) - [News about Raspberry Pi 6 and Microcontroller Development](https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/)
 * [2026-05-26, 07:43:22](https://news.ycombinator.com/item?id=48276429) - [Investigating how prompt politeness affects LLM accuracy (2025)](https://arxiv.org/abs/2510.04950)
 * [2026-05-26, 07:35:20](https://news.ycombinator.com/item?id=48276363) - [DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD](https://dynip.dev/)
 * [2026-05-26, 05:57:45](https://news.ycombinator.com/item?id=48275564) - [A portentous reunion](https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/)
