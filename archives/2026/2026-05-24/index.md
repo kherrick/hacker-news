@@ -6,6 +6,7 @@
 
 * [2026-05-24, 21:21:58](https://news.ycombinator.com/item?id=48261120) - [IBM Confidential: System/360 File Organization [video]](https://www.youtube.com/watch?v=zokKqP0plrM)
 * [2026-05-24, 19:36:57](https://news.ycombinator.com/item?id=48260331) - [The political polarization of health outcomes in the USA](https://www.nature.com/articles/s41562-026-02474-9)
+* [2026-05-24, 19:31:41](https://news.ycombinator.com/item?id=48260289) - [I am not a black belt](https://rodolphoarruda.pro.br/i-am-not-a-black-belt/)
 * [2026-05-24, 19:22:18](https://news.ycombinator.com/item?id=48260219) - [A History of Obituaries in American Newspapers](https://blogs.loc.gov/headlinesandheroes/2026/05/mourn-not-a-history-of-obituaries-in-american-newspapers/)
 * [2026-05-24, 19:12:46](https://news.ycombinator.com/item?id=48260140) - [CBP Directive 3340-049B: Border Search of Electronic Devices](https://www.cbp.gov/document/directives/cbp-directive-no-3340-049b-border-search-electronic-devices)
 * [2026-05-24, 19:10:26](https://news.ycombinator.com/item?id=48260117) - [A fundamental principle of aeronautical engineering has been overturned](https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/)

@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-05-28, 00:40:26](https://news.ycombinator.com/item?id=48302745) - [Can we have the day off?](https://mlsu.io/posts/day-off/)
+* [2026-05-27, 23:42:49](https://news.ycombinator.com/item?id=48302319) - [You Should Not Update Your Dependencies](https://www.mendral.com/blog/you-should-not-update)
+* [2026-05-27, 23:23:29](https://news.ycombinator.com/item?id=48302151) - [FBI Arrests CIA Official with $40M in Gold Bars in His Home](https://www.nytimes.com/2026/05/27/us/politics/fbi-arrest-cia-official-gold-bars.html)
 * [2026-05-27, 22:52:15](https://news.ycombinator.com/item?id=48301851) - [Pelica (YC P25) Is Hiring](https://www.ycombinator.com/companies/pelica/jobs/MDeC49o-machine-learning-engineer)
 * [2026-05-27, 22:24:25](https://news.ycombinator.com/item?id=48301603) - [Internet traffic in Iran increasing](https://radar.cloudflare.com/traffic/ir?dateRange=28d)
-* [2026-05-27, 20:42:01](https://news.ycombinator.com/item?id=48300342) - [Warm up your MacBook (2019)](https://z3ugma.github.io/2019/11/18/warm-up-your-macbook/)
-* [2026-05-27, 20:37:42](https://news.ycombinator.com/item?id=48300280) - [Show HN: Open-Source AI Racing Harness](https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness)
 * [2026-05-27, 20:00:51](https://news.ycombinator.com/item?id=48299753) - [YouTube to automatically label AI-generated videos](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/)
 * [2026-05-27, 19:52:49](https://news.ycombinator.com/item?id=48299638) - [I'm Getting into Mesh Networks (Meshtastic, MeshCore, and Reticulum)](https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/)
 * [2026-05-27, 19:51:47](https://news.ycombinator.com/item?id=48299623) - [Rust (and Slint) on a Jailbroken Kindle](https://sverre.me/blog/rust-on-kindle/)
@@ -25,9 +26,8 @@
 * [2026-05-26, 14:30:21](https://news.ycombinator.com/item?id=48280356) - [Interleaved Deltas](https://mmapped.blog/posts/51-interleaved-deltas)
 * [2026-05-26, 05:08:56](https://news.ycombinator.com/item?id=48275255) - [A New Typst Template for Pandoc](https://imaginarytext.ca/posts/2025/typst-templates-for-pandoc/)
 * [2026-05-25, 22:43:39](https://news.ycombinator.com/item?id=48272763) - [What Is a Direct Attach Copper (DAC) Cable? (2021)](https://www.servethehome.com/what-is-a-direct-attach-copper-dac-cable/)
-* [2026-05-25, 16:28:06](https://news.ycombinator.com/item?id=48268695) - [Dimensions of Geiger-Muller tube holder on GGreg20_V3 Geiger counter PCB (2025)](https://iot-devices.com.ua/en/ggreg20-v3-j305-tube-mounting-dimensions/)
-* [2026-05-25, 13:00:27](https://news.ycombinator.com/item?id=48266323) - [Fully in-browser container builds](https://ochagavia.nl/blog/fully-in-browser-container-builds/)
 * [2026-05-25, 01:41:04](https://news.ycombinator.com/item?id=48262703) - [Freediving, Embodiment and Humanity](https://tracesofhumanity.org/freediving-embodiment-and-humanity/)
+* [2026-05-24, 19:31:41](https://news.ycombinator.com/item?id=48260289) - [I am not a black belt](https://rodolphoarruda.pro.br/i-am-not-a-black-belt/)
 * [2026-05-24, 04:19:23](https://news.ycombinator.com/item?id=48254336) - [Human Bottlenecks](https://borretti.me/article/human-bottlenecks)
 * [2026-05-23, 12:11:47](https://news.ycombinator.com/item?id=48247005) - [Matrix Multiplications on GPUs Run Faster When Given “Predictable” Data (2024)](https://www.thonking.ai/p/strangely-matrix-multiplications)
 
