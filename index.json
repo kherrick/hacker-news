@@ -1,12 +1,122 @@
 [
   [
     [
-      "2026-05-28, 15:42:25",
-      "https://news.ycombinator.com/item?id=48310604"
+      "2026-05-28, 19:15:54",
+      "https://news.ycombinator.com/item?id=48314002"
     ],
     [
-      "We replaced Zendesk",
-      "https://tradecore.com/resources/blog/we-replaced-zendesk-in-48-hours"
+      "Nitpicking the shell history scene in 'Tron: Legacy'",
+      "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/"
+    ]
+  ],
+  [
+    [
+      "2026-05-28, 18:41:46",
+      "https://news.ycombinator.com/item?id=48313530"
+    ],
+    [
+      "Just Use Postgres for Durable Workflows",
+      "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution"
+    ]
+  ],
+  [
+    [
+      "2026-05-28, 18:20:34",
+      "https://news.ycombinator.com/item?id=48313219"
+    ],
+    [
+      "About LLMs at Zig Days",
+      "https://kristoff.it/blog/llms-at-zig-days/"
+    ]
+  ],
+  [
+    [
+      "2026-05-28, 18:16:20",
+      "https://news.ycombinator.com/item?id=48313142"
+    ],
+    [
+      "The Lone Lisp Heap",
+      "https://www.matheusmoreira.com/articles/lone-lisp-heap"
+    ]
+  ],
+  [
+    [
+      "2026-05-28, 18:09:44",
+      "https://news.ycombinator.com/item?id=48313048"
+    ],
+    [
+      "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+      "https://www.anthropic.com/news/series-h"
+    ]
+  ],
+  [
+    [
+      "2026-05-28, 17:43:36",
+      "https://news.ycombinator.com/item?id=48312616"
+    ],
+    [
+      "Bitburner, programming-based incremental game",
+      "https://bitburner-official.github.io/"
+    ]
+  ],
+  [
+    [
+      "2026-05-28, 17:36:47",
+      "https://news.ycombinator.com/item?id=48312528"
+    ],
+    [
+      "I hated writing–until I learned there's a science to it(2024)",
+      "https://www.science.org/content/article/i-hated-writing-until-i-learned-there-s-science-it"
+    ]
+  ],
+  [
+    [
+      "2026-05-28, 17:10:05",
+      "https://news.ycombinator.com/item?id=48312082"
+    ],
+    [
+      "Legislation Killed Would Have Effectively Blocked Police LPR, Including Flock",
+      "https://ipvm.com/reports/bipartisan-alpr-amendment-killed"
+    ]
+  ],
+  [
+    [
+      "2026-05-28, 16:52:21",
+      "https://news.ycombinator.com/item?id=48311705"
+    ],
+    [
+      "Dynamic Workflows in Claude Code",
+      "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code"
+    ]
+  ],
+  [
+    [
+      "2026-05-28, 16:49:14",
+      "https://news.ycombinator.com/item?id=48311647"
+    ],
+    [
+      "Claude Opus 4.8",
+      "https://www.anthropic.com/news/claude-opus-4-8"
+    ]
+  ],
+  [
+    [
+      "2026-05-28, 16:43:24",
+      "https://news.ycombinator.com/item?id=48311539"
+    ],
+    [
+      "Trivial Pursuits",
+      "https://www.lrb.co.uk/the-paper/v48/n10/david-runciman/trivial-pursuits"
+    ]
+  ],
+  [
+    [
+      "2026-05-28, 16:40:33",
+      "https://news.ycombinator.com/item?id=48311490"
+    ],
+    [
+      "Endive: A JVM native WebAssembly runtime",
+      "https://github.com/bytecodealliance/endive"
     ]
   ],
   [
@@ -21,32 +131,12 @@
   ],
   [
     [
-      "2026-05-28, 14:42:04",
-      "https://news.ycombinator.com/item?id=48309645"
+      "2026-05-28, 15:05:06",
+      "https://news.ycombinator.com/item?id=48309986"
     ],
     [
-      "Creusot helps you prove your Rust code is correct",
-      "https://github.com/creusot-rs/creusot/tree/master"
-    ]
-  ],
-  [
-    [
-      "2026-05-28, 14:37:51",
-      "https://news.ycombinator.com/item?id=48309584"
-    ],
-    [
-      "New York Passes Tax on the Ultra-Wealthy",
-      "https://www.cnbc.com/2026/05/28/new-york-mamdani-pied-a-terre-tax-passes.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-28, 14:30:09",
-      "https://news.ycombinator.com/item?id=48309463"
-    ],
-    [
-      "Valve hikes Steam Deck prices by more than 40%, blaming rising costs",
-      "https://www.bbc.com/news/articles/cz725d5d1x7o"
+      "Show HN: Ktx – Open-source executable context layer for data agents",
+      "https://github.com/Kaelio/ktx"
     ]
   ],
   [
@@ -61,16 +151,6 @@
   ],
   [
     [
-      "2026-05-28, 14:13:00",
-      "https://news.ycombinator.com/item?id=48309233"
-    ],
-    [
-      "Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM",
-      "https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions"
-    ]
-  ],
-  [
-    [
       "2026-05-28, 13:02:00",
       "https://news.ycombinator.com/item?id=48308376"
     ],
@@ -81,41 +161,11 @@
   ],
   [
     [
-      "2026-05-28, 12:20:19",
-      "https://news.ycombinator.com/item?id=48307887"
-    ],
-    [
-      "Disagreement Among Frontier LLMs on Real-World Fact-Checks",
-      "https://lenz.io/research/llm-disagreement"
-    ]
-  ],
-  [
-    [
-      "2026-05-28, 10:56:55",
-      "https://news.ycombinator.com/item?id=48307231"
-    ],
-    [
-      "AMD pulls a bait-and-switch on Linux users with Vivado licensing changes",
-      "https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/"
-    ]
-  ],
-  [
-    [
-      "2026-05-28, 06:40:31",
-      "https://news.ycombinator.com/item?id=48305446"
-    ],
-    [
-      "A Eureka machine that thinks like nature and explores what AI cannot",
-      "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/"
-    ]
-  ],
-  [
-    [
       "2026-05-28, 03:50:01",
       "https://news.ycombinator.com/item?id=48304260"
     ],
     [
-      "Hallucinate – Massively Multiplayer Online Rave",
+      "Show HN: Hallucinate – Massively Multiplayer Online Rave",
       "https://hallucinate.site"
     ]
   ],
@@ -125,8 +175,8 @@
       "https://news.ycombinator.com/item?id=48303881"
     ],
     [
-      "Biff is a command line datetime Swiss army knife",
-      "https://github.com/BurntSushi/biff"
+      "Bttf is a command line datetime Swiss army knife",
+      "https://github.com/BurntSushi/bttf"
     ]
   ],
   [
@@ -137,6 +187,16 @@
     [
       "RamAIn (YC W26) Is Hiring",
       "https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer"
+    ]
+  ],
+  [
+    [
+      "2026-05-27, 20:37:42",
+      "https://news.ycombinator.com/item?id=48300280"
+    ],
+    [
+      "Show HN: Open-Source AI Racing Harness",
+      "https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness"
     ]
   ],
   [
@@ -161,16 +221,6 @@
   ],
   [
     [
-      "2026-05-27, 19:51:47",
-      "https://news.ycombinator.com/item?id=48299623"
-    ],
-    [
-      "Rust (and Slint) on a Jailbroken Kindle",
-      "https://sverre.me/blog/rust-on-kindle/"
-    ]
-  ],
-  [
-    [
       "2026-05-27, 19:24:10",
       "https://news.ycombinator.com/item?id=48299220"
     ],
@@ -181,32 +231,12 @@
   ],
   [
     [
-      "2026-05-27, 17:36:29",
-      "https://news.ycombinator.com/item?id=48297645"
+      "2026-05-27, 18:56:32",
+      "https://news.ycombinator.com/item?id=48298819"
     ],
     [
-      "SimCity 3k in 4k (2025)",
-      "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-27, 16:39:13",
-      "https://news.ycombinator.com/item?id=48296794"
-    ],
-    [
-      "I think Anthropic and OpenAI have found product-market fit",
-      "https://simonwillison.net/2026/May/27/product-market-fit/"
-    ]
-  ],
-  [
-    [
-      "2026-05-27, 16:28:41",
-      "https://news.ycombinator.com/item?id=48296649"
-    ],
-    [
-      "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-      "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/"
+      "Thornton Wilder's Last Play Vanished into Thin Air. Or Did It?",
+      "https://www.nytimes.com/2026/05/27/theater/thornton-wilder-emporium-last-play.html"
     ]
   ],
   [
@@ -221,22 +251,12 @@
   ],
   [
     [
-      "2026-05-26, 15:45:12",
-      "https://news.ycombinator.com/item?id=48281336"
+      "2026-05-26, 08:02:52",
+      "https://news.ycombinator.com/item?id=48276598"
     ],
     [
-      "More Whimsical OEIS Sequences",
-      "https://www.jeremykun.com/shortform/2026-05-22-1528/"
-    ]
-  ],
-  [
-    [
-      "2026-05-26, 07:43:22",
-      "https://news.ycombinator.com/item?id=48276429"
-    ],
-    [
-      "Investigating how prompt politeness affects LLM accuracy (2025)",
-      "https://arxiv.org/abs/2510.04950"
+      "News about Raspberry Pi 6 and Microcontroller Development",
+      "https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/"
     ]
   ],
   [
@@ -251,6 +271,16 @@
   ],
   [
     [
+      "2026-05-25, 22:10:08",
+      "https://news.ycombinator.com/item?id=48272545"
+    ],
+    [
+      "Using Tailscale with an OrbStack VM on macOS",
+      "https://github.com/highpost/tailscale-macos-vm"
+    ]
+  ],
+  [
+    [
       "2026-05-25, 21:50:59",
       "https://news.ycombinator.com/item?id=48272402"
     ],
@@ -261,42 +291,12 @@
   ],
   [
     [
-      "2026-05-25, 18:49:32",
-      "https://news.ycombinator.com/item?id=48270265"
+      "2026-05-24, 08:17:28",
+      "https://news.ycombinator.com/item?id=48255525"
     ],
     [
-      "Ruby vs. Java vs. TypeScript: my experience on building a Cowork DOCX plugin",
-      "https://tanin.nanakorn.com/ruby-java-typescrip-claude-docx-plugin/"
-    ]
-  ],
-  [
-    [
-      "2026-05-25, 14:51:20",
-      "https://news.ycombinator.com/item?id=48267558"
-    ],
-    [
-      "The Ask",
-      "https://randsinrepose.com/archives/the-ask/"
-    ]
-  ],
-  [
-    [
-      "2026-05-25, 11:32:56",
-      "https://news.ycombinator.com/item?id=48265668"
-    ],
-    [
-      "Seeing Around Corners Using Smartphone-Grade Lidar",
-      "https://spectrum.ieee.org/smartphone-grade-lidar"
-    ]
-  ],
-  [
-    [
-      "2026-05-24, 13:43:15",
-      "https://news.ycombinator.com/item?id=48257224"
-    ],
-    [
-      "Libwce: The entropy layer of a wavelet codec, on its own",
-      "https://yogthos.net/posts/2026-05-24-libwce.html"
+      "Show HN: TapToyPia",
+      "https://memalign.github.io/m/taptoypia/index.html"
     ]
   ]
 ]
