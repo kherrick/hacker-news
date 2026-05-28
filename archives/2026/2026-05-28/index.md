@@ -4,6 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-05-28](index.md)
 
+* [2026-05-28, 15:42:25](https://news.ycombinator.com/item?id=48310604) - [We replaced Zendesk](https://tradecore.com/resources/blog/we-replaced-zendesk-in-48-hours)
+* [2026-05-28, 15:23:04](https://news.ycombinator.com/item?id=48310280) - [The Permanent Upper Crow](https://permanent-upper-crow.jasonwu.ink/)
+* [2026-05-28, 14:42:04](https://news.ycombinator.com/item?id=48309645) - [Creusot helps you prove your Rust code is correct](https://github.com/creusot-rs/creusot/tree/master)
+* [2026-05-28, 14:37:51](https://news.ycombinator.com/item?id=48309584) - [New York Passes Tax on the Ultra-Wealthy](https://www.cnbc.com/2026/05/28/new-york-mamdani-pied-a-terre-tax-passes.html)
+* [2026-05-28, 14:30:09](https://news.ycombinator.com/item?id=48309463) - [Valve hikes Steam Deck prices by more than 40%, blaming rising costs](https://www.bbc.com/news/articles/cz725d5d1x7o)
+* [2026-05-28, 14:18:18](https://news.ycombinator.com/item?id=48309302) - [EU fines Temu €200M for allowing sale of illegal products](https://www.bbc.co.uk/news/articles/c1k2ydn1rz8o)
+* [2026-05-28, 14:13:00](https://news.ycombinator.com/item?id=48309233) - [Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM](https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions)
+* [2026-05-28, 13:02:00](https://news.ycombinator.com/item?id=48308376) - [Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue](https://llmgame.scalex.dev)
 * [2026-05-28, 12:20:19](https://news.ycombinator.com/item?id=48307887) - [Five frontier LLMs disagree on 67% of 1k real-world fact-check claims](https://lenz.io/research/llm-disagreement)
 * [2026-05-28, 10:57:34](https://news.ycombinator.com/item?id=48307237) - [Commission fines Temu €200M for breaching the Digital Services Act](https://ec.europa.eu/commission/presscorner/home/en)
 * [2026-05-28, 10:56:55](https://news.ycombinator.com/item?id=48307231) - [AMD pulls a bait-and-switch on Linux users with Vivado licensing changes](https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/)
