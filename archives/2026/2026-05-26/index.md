@@ -30,6 +30,7 @@
 * [2026-05-26, 14:57:27](https://news.ycombinator.com/item?id=48280729) - [Launch HN: Minicor (YC P26) – Windows desktop automations at scale](https://www.minicor.com/)
 * [2026-05-26, 14:50:25](https://news.ycombinator.com/item?id=48280636) - [Don't Subscribe So Casually](https://thebestworstcase.substack.com/p/dont-subscribe-so-casually)
 * [2026-05-26, 14:44:31](https://news.ycombinator.com/item?id=48280561) - [Stockholm poised to become leading European geospatial intel player](https://www.intelligenceonline.com/europe-russia/2026/05/26/stockholm-poised-to-become-leading-european-geospatial-intel-player,110772386-eve)
+* [2026-05-26, 14:36:20](https://news.ycombinator.com/item?id=48280451) - [Coalton is an efficient, statically typed Lisp with ideas from Haskell and OCaml](https://coalton-lang.github.io/)
 * [2026-05-26, 14:30:21](https://news.ycombinator.com/item?id=48280356) - [Interleaved Deltas](https://mmapped.blog/posts/51-interleaved-deltas)
 * [2026-05-26, 13:47:39](https://news.ycombinator.com/item?id=48279842) - [C64 Basic: Game Map Overhead \"Camera View\"](https://retrogamecoders.com/overhead-camera-view/)
 * [2026-05-26, 13:22:36](https://news.ycombinator.com/item?id=48279507) - [Zero Lines Maze: What the 8-Bit Guy's One-Liner Can Still Teach Us](https://retrogamecoders.com/zero-lines-maze/)

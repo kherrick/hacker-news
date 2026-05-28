@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-05-28](index.md)
 
+* [2026-05-28, 22:32:39](https://news.ycombinator.com/item?id=48316462) - [Minimax M3](https://www.minimax.co.uk/products/water-softeners/minimax-m3-water-softener/)
+* [2026-05-28, 21:45:54](https://news.ycombinator.com/item?id=48315968) - [GitHub bans security researcher who posted zero-day Windows exploits](https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation)
+* [2026-05-28, 21:03:24](https://news.ycombinator.com/item?id=48315440) - [Protestware for Coding Agents](https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html)
 * [2026-05-28, 20:45:28](https://news.ycombinator.com/item?id=48315206) - [Ask HN: Entrepreneurs, how long did it take you to succeed?](https://news.ycombinator.com/item?id=48315206)
 * [2026-05-28, 20:25:21](https://news.ycombinator.com/item?id=48314951) - [I Made a Million Dollar Product from My Dorm Room (2025)](https://nick.winans.io/blog/nice-nano/)
 * [2026-05-28, 20:20:17](https://news.ycombinator.com/item?id=48314875) - [Social Animus](https://justine.lol/animus/)
 * [2026-05-28, 19:43:14](https://news.ycombinator.com/item?id=48314363) - [Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions](https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/)
 * [2026-05-28, 19:24:09](https://news.ycombinator.com/item?id=48314136) - [Bricks and Minifigs Stole a Man's $200k Lego Collection](https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection)
+* [2026-05-28, 19:20:06](https://news.ycombinator.com/item?id=48314069) - [Announcing Rust 1.96](https://blog.rust-lang.org/2026/05/28/Rust-1.96.0/)
 * [2026-05-28, 19:15:54](https://news.ycombinator.com/item?id=48314002) - [Nitpicking the shell history scene in 'Tron: Legacy'](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/)
 * [2026-05-28, 19:14:38](https://news.ycombinator.com/item?id=48313990) - [Separate the Cord from the Device](https://bookofjoe2.blogspot.com/2026/05/blog-post_27.html)
 * [2026-05-28, 19:02:18](https://news.ycombinator.com/item?id=48313810) - [Various LLM Smells](https://shvbsle.in/various-llm-smells/)
@@ -33,6 +37,7 @@
 * [2026-05-28, 14:13:00](https://news.ycombinator.com/item?id=48309233) - [Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM](https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions)
 * [2026-05-28, 13:02:00](https://news.ycombinator.com/item?id=48308376) - [Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue](https://llmgame.scalex.dev)
 * [2026-05-28, 12:20:19](https://news.ycombinator.com/item?id=48307887) - [Five frontier LLMs disagree on 67% of 1k real-world fact-check claims](https://lenz.io/research/llm-disagreement)
+* [2026-05-28, 12:11:03](https://news.ycombinator.com/item?id=48307802) - [Durable Execution the Hard Way](https://github.com/hatchet-dev/durable-execution-the-hard-way)
 * [2026-05-28, 10:57:34](https://news.ycombinator.com/item?id=48307237) - [Commission fines Temu €200M for breaching the Digital Services Act](https://ec.europa.eu/commission/presscorner/home/en)
 * [2026-05-28, 10:56:55](https://news.ycombinator.com/item?id=48307231) - [AMD pulls a bait-and-switch on Linux users with Vivado licensing changes](https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/)
 * [2026-05-28, 10:39:32](https://news.ycombinator.com/item?id=48307098) - [AI sticker shock hits corporate America](https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs)

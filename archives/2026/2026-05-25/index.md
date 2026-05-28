@@ -14,6 +14,7 @@
 * [2026-05-25, 22:37:24](https://news.ycombinator.com/item?id=48272715) - [How Shamir's Secret Sharing Works](https://ente.com/blog/how-shamirs-secret-sharing-works/)
 * [2026-05-25, 22:32:57](https://news.ycombinator.com/item?id=48272694) - [Agentic Patterns](https://veso.ai/research/agentic-patterns/)
 * [2026-05-25, 22:30:27](https://news.ycombinator.com/item?id=48272670) - [Taking a walk may lead to more creativity than sitting, study finds (2014)](https://www.apa.org/news/press/releases/2014/04/creativity-walk)
+* [2026-05-25, 22:29:07](https://news.ycombinator.com/item?id=48272661) - [Micromania: The Whole Truth about Home Computers (1984)](https://taff.org.uk/ebooks.php?x=Micromania)
 * [2026-05-25, 22:10:08](https://news.ycombinator.com/item?id=48272545) - [Using Tailscale with an OrbStack VM on macOS](https://github.com/highpost/tailscale-macos-vm)
 * [2026-05-25, 21:50:59](https://news.ycombinator.com/item?id=48272402) - [Boston and Bermuda](https://askthepilot.com/boston-and-bermuda/)
 * [2026-05-25, 21:50:03](https://news.ycombinator.com/item?id=48272393) - [Show HN: OpenBrief – Local-first video downloader/summarizer](https://github.com/tantara/openbrief)
