@@ -4,7 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-05-28](index.md)
 
+* [2026-05-28, 20:45:28](https://news.ycombinator.com/item?id=48315206) - [Ask HN: Entrepreneurs, how long did it take you to succeed?](https://news.ycombinator.com/item?id=48315206)
+* [2026-05-28, 20:25:21](https://news.ycombinator.com/item?id=48314951) - [I Made a Million Dollar Product from My Dorm Room (2025)](https://nick.winans.io/blog/nice-nano/)
+* [2026-05-28, 20:20:17](https://news.ycombinator.com/item?id=48314875) - [Social Animus](https://justine.lol/animus/)
+* [2026-05-28, 19:43:14](https://news.ycombinator.com/item?id=48314363) - [Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions](https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/)
+* [2026-05-28, 19:24:09](https://news.ycombinator.com/item?id=48314136) - [Bricks and Minifigs Stole a Man's $200k Lego Collection](https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection)
 * [2026-05-28, 19:15:54](https://news.ycombinator.com/item?id=48314002) - [Nitpicking the shell history scene in 'Tron: Legacy'](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/)
+* [2026-05-28, 19:14:38](https://news.ycombinator.com/item?id=48313990) - [Separate the Cord from the Device](https://bookofjoe2.blogspot.com/2026/05/blog-post_27.html)
+* [2026-05-28, 19:02:18](https://news.ycombinator.com/item?id=48313810) - [Various LLM Smells](https://shvbsle.in/various-llm-smells/)
 * [2026-05-28, 18:41:46](https://news.ycombinator.com/item?id=48313530) - [Just Use Postgres for Durable Workflows](https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution)
 * [2026-05-28, 18:20:34](https://news.ycombinator.com/item?id=48313219) - [About LLMs at Zig Days](https://kristoff.it/blog/llms-at-zig-days/)
 * [2026-05-28, 18:16:20](https://news.ycombinator.com/item?id=48313142) - [The Lone Lisp Heap](https://www.matheusmoreira.com/articles/lone-lisp-heap)
