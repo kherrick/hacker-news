@@ -23,6 +23,7 @@
 * [2026-05-26, 15:58:02](https://news.ycombinator.com/item?id=48281509) - [Uber, Lyft drivers in Massachusetts form first US ride-share union](https://www.reuters.com/business/world-at-work/uber-lyft-drivers-massachusetts-form-first-us-ride-share-union-2026-05-26/)
 * [2026-05-26, 15:52:58](https://news.ycombinator.com/item?id=48281453) - [Germany news: Childfree adults to pay more for elder care](https://www.dw.com/en/germany-news-childfree-adults-to-pay-more-for-elder-care/live-77292208)
 * [2026-05-26, 15:47:32](https://news.ycombinator.com/item?id=48281367) - [The Ballad of TIGIT](https://www.owlposting.com/p/the-ballad-of-tigit)
+* [2026-05-26, 15:45:12](https://news.ycombinator.com/item?id=48281336) - [More Whimsical OEIS Sequences](https://www.jeremykun.com/shortform/2026-05-22-1528/)
 * [2026-05-26, 15:36:24](https://news.ycombinator.com/item?id=48281226) - [Language Models Need Sleep](https://arxiv.org/abs/2605.26099)
 * [2026-05-26, 15:34:04](https://news.ycombinator.com/item?id=48281199) - ['Incredible' milestone reached as Sweden becomes a smoke-free country](https://www.thelocal.se/20260525/incredible-milestone-reached-as-sweden-becomes-a-smoke-free-country)
 * [2026-05-26, 14:57:27](https://news.ycombinator.com/item?id=48280729) - [Launch HN: Minicor (YC P26) – Windows desktop automations at scale](https://www.minicor.com/)
