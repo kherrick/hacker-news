@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-05-28, 22:32:39",
-      "https://news.ycombinator.com/item?id=48316462"
+      "2026-05-28, 23:42:47",
+      "https://news.ycombinator.com/item?id=48317093"
     ],
     [
-      "Minimax M3",
-      "https://www.minimax.co.uk/products/water-softeners/minimax-m3-water-softener/"
+      "Bot Company allegedly trashing Airbnb rentals with their prototype robots",
+      "https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/"
+    ]
+  ],
+  [
+    [
+      "2026-05-28, 23:36:41",
+      "https://news.ycombinator.com/item?id=48317043"
+    ],
+    [
+      "Garnix (A Nix CI) is shutting down",
+      "https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895"
     ]
   ],
   [
@@ -35,18 +45,18 @@
       "https://news.ycombinator.com/item?id=48314951"
     ],
     [
-      "I Made a Million Dollar Product from My Dorm Room (2025)",
+      "I made a million dollar product from my dorm room (2025)",
       "https://nick.winans.io/blog/nice-nano/"
     ]
   ],
   [
     [
-      "2026-05-28, 19:43:14",
-      "https://news.ycombinator.com/item?id=48314363"
+      "2026-05-28, 20:20:17",
+      "https://news.ycombinator.com/item?id=48314875"
     ],
     [
-      "Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions",
-      "https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/"
+      "Social Animus",
+      "https://justine.lol/animus/"
     ]
   ],
   [
@@ -105,7 +115,7 @@
       "https://news.ycombinator.com/item?id=48313530"
     ],
     [
-      "Just Use Postgres for Durable Workflows",
+      "Building durable workflows on Postgres",
       "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution"
     ]
   ],
@@ -145,7 +155,7 @@
       "https://news.ycombinator.com/item?id=48312528"
     ],
     [
-      "I hated writing–until I learned there's a science to it(2024)",
+      "I hated writing until I learned there’s a science to it (2024)",
       "https://www.science.org/content/article/i-hated-writing-until-i-learned-there-s-science-it"
     ]
   ],
@@ -207,16 +217,6 @@
     [
       "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
       "https://llmgame.scalex.dev"
-    ]
-  ],
-  [
-    [
-      "2026-05-28, 12:11:03",
-      "https://news.ycombinator.com/item?id=48307802"
-    ],
-    [
-      "Durable Execution the Hard Way",
-      "https://github.com/hatchet-dev/durable-execution-the-hard-way"
     ]
   ],
   [
@@ -285,18 +285,18 @@
       "https://news.ycombinator.com/item?id=48266757"
     ],
     [
-      "The Most Unlikely School Bag",
+      "The most unlikely school bag",
       "https://www.carryology.com/insights/carry-culture/the-tale-of-the-worlds-most-unlikely-school-bag/"
     ]
   ],
   [
     [
-      "2026-05-25, 13:30:14",
-      "https://news.ycombinator.com/item?id=48266619"
+      "2026-05-24, 21:52:55",
+      "https://news.ycombinator.com/item?id=48261377"
     ],
     [
-      "Confidence Scores for Exam Questions",
-      "https://nomagicpill.substack.com/p/confidence-scores-for-exam-questions"
+      "Ten Basic Clouds",
+      "https://www.noaa.gov/jetstream/clouds/ten-basic-clouds"
     ]
   ]
 ]
