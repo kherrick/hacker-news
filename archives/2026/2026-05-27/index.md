@@ -48,6 +48,7 @@
 * [2026-05-27, 08:15:35](https://news.ycombinator.com/item?id=48291230) - [Nvidia Vera CPU Benchmarks: Olympus Cores Delivering Great Performance](https://www.phoronix.com/review/nvidia-vera-benchmarks)
 * [2026-05-27, 08:14:40](https://news.ycombinator.com/item?id=48291225) - [All of human cooking compressed into 2 megabytes](https://arxiv.org/abs/2605.22391)
 * [2026-05-27, 07:28:25](https://news.ycombinator.com/item?id=48290881) - [Unicode 18.0.0 Beta](https://www.unicode.org/versions/Unicode18.0.0/)
+* [2026-05-27, 07:17:14](https://news.ycombinator.com/item?id=48290805) - [Franklin Pierce by David W. Blight](https://inpursuit.substack.com/p/franklin-pierce-by-david-w-blight)
 * [2026-05-27, 05:13:39](https://news.ycombinator.com/item?id=48289950) - [Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs](https://arps18.github.io/posts/claude-code-mastery/)
 * [2026-05-27, 04:26:26](https://news.ycombinator.com/item?id=48289624) - [Show HN: Posthorn, self-hosted mail without the mail server](https://github.com/craigmccaskill/posthorn)
 * [2026-05-27, 03:56:42](https://news.ycombinator.com/item?id=48289439) - [The just-say-no engineer was a ZIRP phenomenon](https://www.seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/)

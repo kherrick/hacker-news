@@ -27,6 +27,7 @@
 * [2026-05-26, 15:45:12](https://news.ycombinator.com/item?id=48281336) - [More Whimsical OEIS Sequences](https://www.jeremykun.com/shortform/2026-05-22-1528/)
 * [2026-05-26, 15:36:24](https://news.ycombinator.com/item?id=48281226) - [Language Models Need Sleep](https://arxiv.org/abs/2605.26099)
 * [2026-05-26, 15:34:04](https://news.ycombinator.com/item?id=48281199) - ['Incredible' milestone reached as Sweden becomes a smoke-free country](https://www.thelocal.se/20260525/incredible-milestone-reached-as-sweden-becomes-a-smoke-free-country)
+* [2026-05-26, 15:15:02](https://news.ycombinator.com/item?id=48280967) - [Avoid Using \"< [Cdata[ ]]>\" in RSS](https://waspdev.com/articles/2026-05-11/avoid-using-cdata-in-rss)
 * [2026-05-26, 14:57:27](https://news.ycombinator.com/item?id=48280729) - [Launch HN: Minicor (YC P26) – Windows desktop automations at scale](https://www.minicor.com/)
 * [2026-05-26, 14:50:25](https://news.ycombinator.com/item?id=48280636) - [Don't Subscribe So Casually](https://thebestworstcase.substack.com/p/dont-subscribe-so-casually)
 * [2026-05-26, 14:44:31](https://news.ycombinator.com/item?id=48280561) - [Stockholm poised to become leading European geospatial intel player](https://www.intelligenceonline.com/europe-russia/2026/05/26/stockholm-poised-to-become-leading-european-geospatial-intel-player,110772386-eve)
