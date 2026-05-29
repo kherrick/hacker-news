@@ -4,7 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-05-29](index.md)
 
+* [2026-05-29, 21:29:51](https://news.ycombinator.com/item?id=48329549) - [EV Stupidity Checklist](http://hypercritical.co/2026/05/29/ev-stupidity-checklist)
+* [2026-05-29, 20:40:38](https://news.ycombinator.com/item?id=48328932) - [Why I collect DLES](https://dles.gg/blog/dles-gg-manifesto)
+* [2026-05-29, 20:32:56](https://news.ycombinator.com/item?id=48328843) - [A Trillion Characters](https://characters.fastserial.com)
+* [2026-05-29, 20:23:33](https://news.ycombinator.com/item?id=48328718) - [Canada in Technical Recession](https://www.cbc.ca/news/business/recession-gdp-may-2026-statscan-9.7216352)
+* [2026-05-29, 19:55:56](https://news.ycombinator.com/item?id=48328365) - [The California state assembly has passed the 'Protect Our Games Act'](https://www.invenglobal.com/articles/22330/stop-killing-games-movement-gains-momentum-california-assembly-passes-game-protection-bill)
 * [2026-05-29, 19:38:27](https://news.ycombinator.com/item?id=48328184) - [Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA](https://github.com/jmaczan/tiny-vllm)
+* [2026-05-29, 19:37:41](https://news.ycombinator.com/item?id=48328175) - [Microsoft 0-day feud escalates as researcher threatens another exploit dump](https://www.theregister.com/security/2026/05/28/microsoft-0-day-feud-escalates-as-researcher-threatens-another-windows-exploit-dump/5248085)
 * [2026-05-29, 19:28:55](https://news.ycombinator.com/item?id=48328088) - [CVE-Bench: testing LLM agents on real-world vulnerability patches](https://giovannigatti.github.io/cve-bench/)
 * [2026-05-29, 19:16:32](https://news.ycombinator.com/item?id=48327962) - [Shift will clean homes for free to train future robots](https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning)
 * [2026-05-29, 19:04:54](https://news.ycombinator.com/item?id=48327809) - [On Rendering Diffs](https://pierre.computer/writing/on-rendering-diffs)
