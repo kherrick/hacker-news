@@ -36,6 +36,7 @@
 * [2026-05-26, 14:30:21](https://news.ycombinator.com/item?id=48280356) - [Interleaved Deltas](https://mmapped.blog/posts/51-interleaved-deltas)
 * [2026-05-26, 14:20:07](https://news.ycombinator.com/item?id=48280231) - [Show HN: Compile-time model-id validation with declared capability](https://github.com/yujonglee/openrouter-toolkit)
 * [2026-05-26, 13:47:39](https://news.ycombinator.com/item?id=48279842) - [C64 Basic: Game Map Overhead \"Camera View\"](https://retrogamecoders.com/overhead-camera-view/)
+* [2026-05-26, 13:30:03](https://news.ycombinator.com/item?id=48279616) - [An Obsessive Focus on UX: Pilot's Pressure-Regulating Kire-Na Highlighter](https://www.core77.com/posts/143832/An-Obsessive-Focus-on-UX-Pilots-Pressure-Regulating-Kire-Na-Highlighter)
 * [2026-05-26, 13:22:36](https://news.ycombinator.com/item?id=48279507) - [Zero Lines Maze: What the 8-Bit Guy's One-Liner Can Still Teach Us](https://retrogamecoders.com/zero-lines-maze/)
 * [2026-05-26, 13:18:33](https://news.ycombinator.com/item?id=48279453) - [Dropbox CEO Drew Houston to step down](https://www.cnbc.com/2026/05/26/dropbox-ceo-drew-houston-ashraf-alkarmi.html)
 * [2026-05-26, 13:08:13](https://news.ycombinator.com/item?id=48279316) - [Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence](https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/)

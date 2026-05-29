@@ -47,6 +47,7 @@
 * [2026-05-27, 09:02:59](https://news.ycombinator.com/item?id=48291575) - [Go: Support for Generic Methods](https://github.com/golang/go/issues/77273)
 * [2026-05-27, 08:15:35](https://news.ycombinator.com/item?id=48291230) - [Nvidia Vera CPU Benchmarks: Olympus Cores Delivering Great Performance](https://www.phoronix.com/review/nvidia-vera-benchmarks)
 * [2026-05-27, 08:14:40](https://news.ycombinator.com/item?id=48291225) - [All of human cooking compressed into 2 megabytes](https://arxiv.org/abs/2605.22391)
+* [2026-05-27, 07:49:56](https://news.ycombinator.com/item?id=48291016) - [Even (very) noisy LLM evaluators are useful for improving AI agents](https://www.tensorzero.com/blog/even-very-noisy-llm-evaluators-are-useful-for-improving-ai-agents/)
 * [2026-05-27, 07:28:25](https://news.ycombinator.com/item?id=48290881) - [Unicode 18.0.0 Beta](https://www.unicode.org/versions/Unicode18.0.0/)
 * [2026-05-27, 07:17:14](https://news.ycombinator.com/item?id=48290805) - [Franklin Pierce by David W. Blight](https://inpursuit.substack.com/p/franklin-pierce-by-david-w-blight)
 * [2026-05-27, 05:13:39](https://news.ycombinator.com/item?id=48289950) - [Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs](https://arps18.github.io/posts/claude-code-mastery/)
