@@ -4,12 +4,18 @@
 
 ### [Archives](../../index.md) for [2026-05-29](index.md)
 
+* [2026-05-29, 10:14:43](https://news.ycombinator.com/item?id=48321264) - [Is This Sustainable?](https://jamiehurst.co.uk/2026-05-24_ai-sustainable)
+* [2026-05-29, 09:47:23](https://news.ycombinator.com/item?id=48321076) - [Real-time LLM Inference on Standard GPUs: 3k tokens/s per request](https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/)
+* [2026-05-29, 09:34:37](https://news.ycombinator.com/item?id=48320985) - [The $500K AI Film That \"Premiered at Cannes\" Was Not in the Official Festival](https://firethering.com/hell-grind-ai-film-cannes-premiere-higgsfield/)
+* [2026-05-29, 08:36:32](https://news.ycombinator.com/item?id=48320639) - [Cache Aware Scheduling Shows Nice Wins for AMD Zen 5 on PostgreSQL, Valkey](https://www.phoronix.com/review/cache-aware-scheduling-hedt)
 * [2026-05-29, 07:10:52](https://news.ycombinator.com/item?id=48320007) - [US Military personnel are being targeted using location data](https://www.reuters.com/business/media-telecom/pentagon-says-us-military-personnel-are-reportedly-being-targeted-using-location-2026-05-28/)
 * [2026-05-29, 07:05:31](https://news.ycombinator.com/item?id=48319968) - [Undisclosed addition in jqwik instructed AI coding agents to delete app output](https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/)
 * [2026-05-29, 05:48:21](https://news.ycombinator.com/item?id=48319524) - [Zot now supports Claude Opus 4.8](https://www.zot.sh)
 * [2026-05-29, 05:45:36](https://news.ycombinator.com/item?id=48319509) - [Volkswagen blocks Home Assistant by requiring client assertion](https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967)
 * [2026-05-29, 04:18:34](https://news.ycombinator.com/item?id=48318978) - [Python utility package for building Claude Code hooks](https://github.com/RasmusGodske/claude-hook-utils)
 * [2026-05-29, 03:32:15](https://news.ycombinator.com/item?id=48318678) - [The most spectacular rocket explosion since N1 just happened in Florida](https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/)
+* [2026-05-29, 03:14:39](https://news.ycombinator.com/item?id=48318568) - [HeidiSQL – Lightweight MariaDB, MySQL, SQL Server, PostgreSQL and SQLite Manager](https://github.com/HeidiSQL/HeidiSQL)
+* [2026-05-29, 03:07:22](https://news.ycombinator.com/item?id=48318522) - [Let's compile Quake like it's 1997](https://fabiensanglard.net/compile_like_1997/)
 * [2026-05-29, 03:01:00](https://news.ycombinator.com/item?id=48318481) - [Cars are trying to spy on you, and it's only just the beginning](https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse)
 * [2026-05-29, 02:33:13](https://news.ycombinator.com/item?id=48318313) - [Italians and Dutch share the same gestural instinct for teaching](https://www.mpi.nl/news/italians-and-dutch-share-same-gestural-instinct-teaching)
 * [2026-05-29, 02:13:20](https://news.ycombinator.com/item?id=48318174) - [Claude Code – Everything You Can Configure That the Docs Don't Tell You](https://buildingbetter.tech/p/i-read-the-claude-code-source-code)
