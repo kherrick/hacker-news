@@ -1,32 +1,42 @@
 [
   [
     [
-      "2026-05-29, 07:10:52",
-      "https://news.ycombinator.com/item?id=48320007"
+      "2026-05-29, 10:14:43",
+      "https://news.ycombinator.com/item?id=48321264"
     ],
     [
-      "US Military personnel are being targeted using location data",
-      "https://www.reuters.com/business/media-telecom/pentagon-says-us-military-personnel-are-reportedly-being-targeted-using-location-2026-05-28/"
+      "Is This Sustainable?",
+      "https://jamiehurst.co.uk/2026-05-24_ai-sustainable"
     ]
   ],
   [
     [
-      "2026-05-29, 07:05:31",
-      "https://news.ycombinator.com/item?id=48319968"
+      "2026-05-29, 09:47:23",
+      "https://news.ycombinator.com/item?id=48321076"
     ],
     [
-      "Undisclosed addition in jqwik instructed AI coding agents to delete app output",
-      "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/"
+      "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
+      "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/"
     ]
   ],
   [
     [
-      "2026-05-29, 05:48:21",
-      "https://news.ycombinator.com/item?id=48319524"
+      "2026-05-29, 09:34:37",
+      "https://news.ycombinator.com/item?id=48320985"
     ],
     [
-      "Zot now supports Claude Opus 4.8",
-      "https://www.zot.sh"
+      "The $500K AI Film That \"Premiered at Cannes\" Was Not in the Official Festival",
+      "https://firethering.com/hell-grind-ai-film-cannes-premiere-higgsfield/"
+    ]
+  ],
+  [
+    [
+      "2026-05-29, 08:36:32",
+      "https://news.ycombinator.com/item?id=48320639"
+    ],
+    [
+      "Cache Aware Scheduling Shows Nice Wins for AMD Zen 5 on PostgreSQL, Valkey",
+      "https://www.phoronix.com/review/cache-aware-scheduling-hedt"
     ]
   ],
   [
@@ -37,6 +47,26 @@
     [
       "Volkswagen blocks Home Assistant by requiring client assertion",
       "https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967"
+    ]
+  ],
+  [
+    [
+      "2026-05-29, 03:14:39",
+      "https://news.ycombinator.com/item?id=48318568"
+    ],
+    [
+      "HeidiSQL – Lightweight MariaDB, MySQL, SQL Server, PostgreSQL and SQLite Manager",
+      "https://github.com/HeidiSQL/HeidiSQL"
+    ]
+  ],
+  [
+    [
+      "2026-05-29, 03:07:22",
+      "https://news.ycombinator.com/item?id=48318522"
+    ],
+    [
+      "Let's compile Quake like it's 1997",
+      "https://fabiensanglard.net/compile_like_1997/"
     ]
   ],
   [
@@ -77,26 +107,6 @@
     [
       "Blue Origin's New Glenn blows up during static fire test",
       "https://twitter.com/nasaspaceflight/status/2060164928472854821"
-    ]
-  ],
-  [
-    [
-      "2026-05-29, 00:09:35",
-      "https://news.ycombinator.com/item?id=48317294"
-    ],
-    [
-      "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
-      "https://minimaxir.com/2026/05/openrouter-hy3/"
-    ]
-  ],
-  [
-    [
-      "2026-05-28, 23:42:47",
-      "https://news.ycombinator.com/item?id=48317093"
-    ],
-    [
-      "SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims",
-      "https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/"
     ]
   ],
   [
@@ -151,32 +161,12 @@
   ],
   [
     [
-      "2026-05-28, 19:02:18",
-      "https://news.ycombinator.com/item?id=48313810"
-    ],
-    [
-      "Various LLM Smells",
-      "https://shvbsle.in/various-llm-smells/"
-    ]
-  ],
-  [
-    [
       "2026-05-28, 18:41:46",
       "https://news.ycombinator.com/item?id=48313530"
     ],
     [
       "Building durable workflows on Postgres",
       "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution"
-    ]
-  ],
-  [
-    [
-      "2026-05-28, 17:43:36",
-      "https://news.ycombinator.com/item?id=48312616"
-    ],
-    [
-      "Bitburner, programming-based incremental game",
-      "https://bitburner-official.github.io/"
     ]
   ],
   [
@@ -211,16 +201,6 @@
   ],
   [
     [
-      "2026-05-28, 15:05:06",
-      "https://news.ycombinator.com/item?id=48309986"
-    ],
-    [
-      "Show HN: Ktx – Open-source executable context layer for data agents",
-      "https://github.com/Kaelio/ktx"
-    ]
-  ],
-  [
-    [
       "2026-05-28, 13:02:00",
       "https://news.ycombinator.com/item?id=48308376"
     ],
@@ -231,12 +211,22 @@
   ],
   [
     [
-      "2026-05-27, 07:17:14",
-      "https://news.ycombinator.com/item?id=48290805"
+      "2026-05-26, 21:11:40",
+      "https://news.ycombinator.com/item?id=48286028"
     ],
     [
-      "Franklin Pierce by David W. Blight",
-      "https://inpursuit.substack.com/p/franklin-pierce-by-david-w-blight"
+      "Phloto for My Photo Flow",
+      "https://cceckman.com/writing/phloto/"
+    ]
+  ],
+  [
+    [
+      "2026-05-26, 19:19:22",
+      "https://news.ycombinator.com/item?id=48284604"
+    ],
+    [
+      "Barthelme, the Houstonian",
+      "https://www.theparisreview.org/blog/2026/05/22/barthelme-the-houstonian/"
     ]
   ],
   [
@@ -271,6 +261,16 @@
   ],
   [
     [
+      "2026-05-26, 14:20:07",
+      "https://news.ycombinator.com/item?id=48280231"
+    ],
+    [
+      "Show HN: Compile-time model-id validation with declared capability",
+      "https://github.com/yujonglee/openrouter-toolkit"
+    ]
+  ],
+  [
+    [
       "2026-05-26, 08:02:52",
       "https://news.ycombinator.com/item?id=48276598"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2026-05-26, 07:06:28",
+      "https://news.ycombinator.com/item?id=48276152"
+    ],
+    [
+      "Orchestrating AI code review at scale",
+      "https://blog.cloudflare.com/ai-code-review/"
+    ]
+  ],
+  [
+    [
       "2026-05-24, 21:52:55",
       "https://news.ycombinator.com/item?id=48261377"
     ],
     [
       "Ten Basic Clouds",
       "https://www.noaa.gov/jetstream/clouds/ten-basic-clouds"
-    ]
-  ],
-  [
-    [
-      "2026-05-24, 16:46:25",
-      "https://news.ycombinator.com/item?id=48258848"
-    ],
-    [
-      "What Gets Kept",
-      "https://www.newyorker.com/culture/the-weekend-essay/what-jack-kerouac-left-behind"
     ]
   ]
 ]
