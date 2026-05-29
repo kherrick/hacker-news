@@ -4,8 +4,18 @@
 
 ### [Archives](../../index.md) for [2026-05-29](index.md)
 
+* [2026-05-29, 19:38:27](https://news.ycombinator.com/item?id=48328184) - [Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA](https://github.com/jmaczan/tiny-vllm)
+* [2026-05-29, 19:28:55](https://news.ycombinator.com/item?id=48328088) - [CVE-Bench: testing LLM agents on real-world vulnerability patches](https://giovannigatti.github.io/cve-bench/)
+* [2026-05-29, 19:16:32](https://news.ycombinator.com/item?id=48327962) - [Shift will clean homes for free to train future robots](https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning)
+* [2026-05-29, 19:04:54](https://news.ycombinator.com/item?id=48327809) - [On Rendering Diffs](https://pierre.computer/writing/on-rendering-diffs)
+* [2026-05-29, 18:31:52](https://news.ycombinator.com/item?id=48327367) - [Rothko for your current weather conditions](https://rothko.joonas.wtf/)
+* [2026-05-29, 18:23:03](https://news.ycombinator.com/item?id=48327222) - [AI will be used to estimate age of asylum seekers from next year](https://www.bbc.co.uk/news/articles/ce3pe36qe7ro)
+* [2026-05-29, 17:54:50](https://news.ycombinator.com/item?id=48326802) - [SQLite is all you need for durable workflows](https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/)
 * [2026-05-29, 17:46:27](https://news.ycombinator.com/item?id=48326659) - [Robinhood now lets your AI agents trade stocks](https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/)
+* [2026-05-29, 17:39:49](https://news.ycombinator.com/item?id=48326561) - [Letter from the Duke of Wellington to the British Foreign Office (1809)](https://wellsoc.org/society-member-pages/anecdotes-of-wellington/)
+* [2026-05-29, 16:39:09](https://news.ycombinator.com/item?id=48325624) - [Show HN: TV Explorer. Adding advanced UI to free online TV](https://tvexplorer.live)
 * [2026-05-29, 16:22:01](https://news.ycombinator.com/item?id=48325340) - [Notes from the Mistral AI Now Summit in Paris](https://koenvangilst.nl/lab/mistral-ai-now-summit)
+* [2026-05-29, 16:19:54](https://news.ycombinator.com/item?id=48325306) - [Liquid AI reveals 8B-A1B MoE trained on 38T](https://www.liquid.ai/blog/lfm2-5-8b-a1b)
 * [2026-05-29, 15:57:37](https://news.ycombinator.com/item?id=48324910) - [CAPTCHAs can still detect AI agents](https://research.roundtable.ai/captchas-detect-ai/)
 * [2026-05-29, 15:46:24](https://news.ycombinator.com/item?id=48324712) - [The Dead Economy Theory](https://www.owenmcgrann.com/p/the-dead-economy-theory)
 * [2026-05-29, 15:32:55](https://news.ycombinator.com/item?id=48324499) - [GTA 6 Developers Unionize](https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/)
