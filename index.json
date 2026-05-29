@@ -1,22 +1,42 @@
 [
   [
     [
-      "2026-05-29, 04:18:34",
-      "https://news.ycombinator.com/item?id=48318978"
+      "2026-05-29, 07:10:52",
+      "https://news.ycombinator.com/item?id=48320007"
     ],
     [
-      "Python utility package for building Claude Code hooks",
-      "https://github.com/RasmusGodske/claude-hook-utils"
+      "US Military personnel are being targeted using location data",
+      "https://www.reuters.com/business/media-telecom/pentagon-says-us-military-personnel-are-reportedly-being-targeted-using-location-2026-05-28/"
     ]
   ],
   [
     [
-      "2026-05-29, 03:32:15",
-      "https://news.ycombinator.com/item?id=48318678"
+      "2026-05-29, 07:05:31",
+      "https://news.ycombinator.com/item?id=48319968"
     ],
     [
-      "The most spectacular rocket explosion since N1 just happened in Florida",
-      "https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/"
+      "Undisclosed addition in jqwik instructed AI coding agents to delete app output",
+      "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/"
+    ]
+  ],
+  [
+    [
+      "2026-05-29, 05:48:21",
+      "https://news.ycombinator.com/item?id=48319524"
+    ],
+    [
+      "Zot now supports Claude Opus 4.8",
+      "https://www.zot.sh"
+    ]
+  ],
+  [
+    [
+      "2026-05-29, 05:45:36",
+      "https://news.ycombinator.com/item?id=48319509"
+    ],
+    [
+      "Volkswagen blocks Home Assistant by requiring client assertion",
+      "https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967"
     ]
   ],
   [
@@ -25,7 +45,7 @@
       "https://news.ycombinator.com/item?id=48318481"
     ],
     [
-      "Cars are trying to spy on you, and it's only just the beginning",
+      "Cars collect a startling amount of data about you",
       "https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse"
     ]
   ],
@@ -41,22 +61,22 @@
   ],
   [
     [
+      "2026-05-29, 02:13:20",
+      "https://news.ycombinator.com/item?id=48318174"
+    ],
+    [
+      "Claude Code – Everything You Can Configure That the Docs Don't Tell You",
+      "https://buildingbetter.tech/p/i-read-the-claude-code-source-code"
+    ]
+  ],
+  [
+    [
       "2026-05-29, 01:16:38",
       "https://news.ycombinator.com/item?id=48317774"
     ],
     [
       "Blue Origin's New Glenn blows up during static fire test",
       "https://twitter.com/nasaspaceflight/status/2060164928472854821"
-    ]
-  ],
-  [
-    [
-      "2026-05-29, 00:16:20",
-      "https://news.ycombinator.com/item?id=48317339"
-    ],
-    [
-      "Where are the economies of scale in homebuilding?",
-      "https://www.construction-physics.com/p/where-are-the-economies-of-scale"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "Garnix (A Nix CI) is shutting down",
       "https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895"
-    ]
-  ],
-  [
-    [
-      "2026-05-28, 21:47:22",
-      "https://news.ycombinator.com/item?id=48315980"
-    ],
-    [
-      "Why Gentoo?",
-      "https://blogs.gentoo.org/mgorny/2026/05/28/why-gentoo/"
     ]
   ],
   [
@@ -161,22 +171,12 @@
   ],
   [
     [
-      "2026-05-28, 18:09:44",
-      "https://news.ycombinator.com/item?id=48313048"
+      "2026-05-28, 17:43:36",
+      "https://news.ycombinator.com/item?id=48312616"
     ],
     [
-      "Anthropic raises $65B in Series H funding at $965B post-money valuation",
-      "https://www.anthropic.com/news/series-h"
-    ]
-  ],
-  [
-    [
-      "2026-05-28, 17:36:47",
-      "https://news.ycombinator.com/item?id=48312528"
-    ],
-    [
-      "I hated writing until I learned there’s a science to it (2024)",
-      "https://www.science.org/content/article/i-hated-writing-until-i-learned-there-s-science-it"
+      "Bitburner, programming-based incremental game",
+      "https://bitburner-official.github.io/"
     ]
   ],
   [
@@ -231,12 +231,32 @@
   ],
   [
     [
+      "2026-05-27, 07:17:14",
+      "https://news.ycombinator.com/item?id=48290805"
+    ],
+    [
+      "Franklin Pierce by David W. Blight",
+      "https://inpursuit.substack.com/p/franklin-pierce-by-david-w-blight"
+    ]
+  ],
+  [
+    [
       "2026-05-26, 16:41:58",
       "https://news.ycombinator.com/item?id=48282180"
     ],
     [
       "Indoor Wi-Fi Roaming with OpenWRT",
       "https://taoofmac.com/space/blog/2026/05/26/1730"
+    ]
+  ],
+  [
+    [
+      "2026-05-26, 15:15:02",
+      "https://news.ycombinator.com/item?id=48280967"
+    ],
+    [
+      "Avoid Using \"< [Cdata[ ]]>\" in RSS",
+      "https://waspdev.com/articles/2026-05-11/avoid-using-cdata-in-rss"
     ]
   ],
   [
@@ -261,42 +281,22 @@
   ],
   [
     [
-      "2026-05-25, 21:59:01",
-      "https://news.ycombinator.com/item?id=48272458"
-    ],
-    [
-      "Some Like It Literary",
-      "https://www.nytimes.com/2026/05/24/books/review/marilyn-monroe-books-arthur-miller.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-25, 13:45:05",
-      "https://news.ycombinator.com/item?id=48266757"
-    ],
-    [
-      "The most unlikely school bag",
-      "https://www.carryology.com/insights/carry-culture/the-tale-of-the-worlds-most-unlikely-school-bag/"
-    ]
-  ],
-  [
-    [
-      "2026-05-25, 12:00:13",
-      "https://news.ycombinator.com/item?id=48265849"
-    ],
-    [
-      "The Pack That Killed the Pack Mule",
-      "https://www.carryology.com/liking/industry/the-pack-that-killed-the-pack-mule/"
-    ]
-  ],
-  [
-    [
       "2026-05-24, 21:52:55",
       "https://news.ycombinator.com/item?id=48261377"
     ],
     [
       "Ten Basic Clouds",
       "https://www.noaa.gov/jetstream/clouds/ten-basic-clouds"
+    ]
+  ],
+  [
+    [
+      "2026-05-24, 16:46:25",
+      "https://news.ycombinator.com/item?id=48258848"
+    ],
+    [
+      "What Gets Kept",
+      "https://www.newyorker.com/culture/the-weekend-essay/what-jack-kerouac-left-behind"
     ]
   ]
 ]
