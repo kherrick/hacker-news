@@ -1,12 +1,42 @@
 [
   [
     [
-      "2026-05-29, 21:29:51",
-      "https://news.ycombinator.com/item?id=48329549"
+      "2026-05-29, 22:56:49",
+      "https://news.ycombinator.com/item?id=48330436"
     ],
     [
-      "EV Stupidity Checklist",
-      "http://hypercritical.co/2026/05/29/ev-stupidity-checklist"
+      "MCP Is Dead",
+      "https://www.quandri.io/engineering-blog/mcp-is-dead"
+    ]
+  ],
+  [
+    [
+      "2026-05-29, 22:44:10",
+      "https://news.ycombinator.com/item?id=48330306"
+    ],
+    [
+      "Show HN: Free activity calendar for schools, sports clubs, and organizations",
+      "https://freecal.eu/?lang=en"
+    ]
+  ],
+  [
+    [
+      "2026-05-29, 22:32:29",
+      "https://news.ycombinator.com/item?id=48330192"
+    ],
+    [
+      "Show HN: Open-source private home security camera system (end-to-end encryption)",
+      "https://github.com/secluso/core"
+    ]
+  ],
+  [
+    [
+      "2026-05-29, 22:21:58",
+      "https://news.ycombinator.com/item?id=48330088"
+    ],
+    [
+      "Free full BGP feed. IPv4 and IPv6",
+      "https://lukasz.bromirski.net/post/bgp-w-labie-3/"
     ]
   ],
   [
@@ -17,26 +47,6 @@
     [
       "Why I collect DLES",
       "https://dles.gg/blog/dles-gg-manifesto"
-    ]
-  ],
-  [
-    [
-      "2026-05-29, 20:32:56",
-      "https://news.ycombinator.com/item?id=48328843"
-    ],
-    [
-      "A Trillion Characters",
-      "https://characters.fastserial.com"
-    ]
-  ],
-  [
-    [
-      "2026-05-29, 20:23:33",
-      "https://news.ycombinator.com/item?id=48328718"
-    ],
-    [
-      "Canada in Technical Recession",
-      "https://www.cbc.ca/news/business/recession-gdp-may-2026-statscan-9.7216352"
     ]
   ],
   [
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2026-05-29, 17:46:27",
-      "https://news.ycombinator.com/item?id=48326659"
-    ],
-    [
-      "Robinhood now lets your AI agents trade stocks",
-      "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/"
-    ]
-  ],
-  [
-    [
       "2026-05-29, 17:39:49",
       "https://news.ycombinator.com/item?id=48326561"
     ],
@@ -145,7 +145,7 @@
       "https://news.ycombinator.com/item?id=48325340"
     ],
     [
-      "Notes from the Mistral AI Now Summit in Paris",
+      "Notes from the Mistral AI Now Summit",
       "https://koenvangilst.nl/lab/mistral-ai-now-summit"
     ]
   ],
@@ -167,6 +167,16 @@
     [
       "CAPTCHAs can still detect AI agents",
       "https://research.roundtable.ai/captchas-detect-ai/"
+    ]
+  ],
+  [
+    [
+      "2026-05-29, 15:54:28",
+      "https://news.ycombinator.com/item?id=48324853"
+    ],
+    [
+      "You can just say it",
+      "https://noperator.dev/posts/you-can-just-say-it/"
     ]
   ],
   [
@@ -207,36 +217,6 @@
     [
       "It's hard to justify buying a Framework 12",
       "https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/"
-    ]
-  ],
-  [
-    [
-      "2026-05-29, 14:40:47",
-      "https://news.ycombinator.com/item?id=48323683"
-    ],
-    [
-      "I am retiring from tech to live offline",
-      "https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/"
-    ]
-  ],
-  [
-    [
-      "2026-05-29, 13:35:13",
-      "https://news.ycombinator.com/item?id=48322929"
-    ],
-    [
-      "Expertise in the age of AI",
-      "https://www.moderndescartes.com/essays/ai_and_expertise/"
-    ]
-  ],
-  [
-    [
-      "2026-05-29, 12:30:02",
-      "https://news.ycombinator.com/item?id=48322241"
-    ],
-    [
-      "High Density Living, 2000 Years Ago: Inside the Roman Apartment Building",
-      "https://commonedge.org/high-density-living-2000-years-ago-inside-the-roman-apartment-building/"
     ]
   ],
   [
@@ -287,6 +267,26 @@
     [
       "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
       "https://minimaxir.com/2026/05/openrouter-hy3/"
+    ]
+  ],
+  [
+    [
+      "2026-05-28, 14:13:00",
+      "https://news.ycombinator.com/item?id=48309233"
+    ],
+    [
+      "Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM",
+      "https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions"
+    ]
+  ],
+  [
+    [
+      "2026-05-28, 01:10:39",
+      "https://news.ycombinator.com/item?id=48302997"
+    ],
+    [
+      "Finding Miscompiles for Fun, Not Profit",
+      "https://newsletter.semianalysis.com/p/finding-miscompiles-for-fun-not-profit"
     ]
   ],
   [
