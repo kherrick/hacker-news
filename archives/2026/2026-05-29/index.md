@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-05-29](index.md)
 
+* [2026-05-29, 22:56:49](https://news.ycombinator.com/item?id=48330436) - [MCP Is Dead](https://www.quandri.io/engineering-blog/mcp-is-dead)
+* [2026-05-29, 22:44:10](https://news.ycombinator.com/item?id=48330306) - [Show HN: Free activity calendar for schools, sports clubs, and organizations](https://freecal.eu/?lang=en)
+* [2026-05-29, 22:32:29](https://news.ycombinator.com/item?id=48330192) - [Show HN: Open-source private home security camera system (end-to-end encryption)](https://github.com/secluso/core)
+* [2026-05-29, 22:21:58](https://news.ycombinator.com/item?id=48330088) - [Free full BGP feed. IPv4 and IPv6](https://lukasz.bromirski.net/post/bgp-w-labie-3/)
 * [2026-05-29, 21:29:51](https://news.ycombinator.com/item?id=48329549) - [EV Stupidity Checklist](http://hypercritical.co/2026/05/29/ev-stupidity-checklist)
 * [2026-05-29, 20:40:38](https://news.ycombinator.com/item?id=48328932) - [Why I collect DLES](https://dles.gg/blog/dles-gg-manifesto)
 * [2026-05-29, 20:32:56](https://news.ycombinator.com/item?id=48328843) - [A Trillion Characters](https://characters.fastserial.com)
@@ -23,6 +27,7 @@
 * [2026-05-29, 16:22:01](https://news.ycombinator.com/item?id=48325340) - [Notes from the Mistral AI Now Summit in Paris](https://koenvangilst.nl/lab/mistral-ai-now-summit)
 * [2026-05-29, 16:19:54](https://news.ycombinator.com/item?id=48325306) - [Liquid AI reveals 8B-A1B MoE trained on 38T](https://www.liquid.ai/blog/lfm2-5-8b-a1b)
 * [2026-05-29, 15:57:37](https://news.ycombinator.com/item?id=48324910) - [CAPTCHAs can still detect AI agents](https://research.roundtable.ai/captchas-detect-ai/)
+* [2026-05-29, 15:54:28](https://news.ycombinator.com/item?id=48324853) - [You can just say it](https://noperator.dev/posts/you-can-just-say-it/)
 * [2026-05-29, 15:46:24](https://news.ycombinator.com/item?id=48324712) - [The Dead Economy Theory](https://www.owenmcgrann.com/p/the-dead-economy-theory)
 * [2026-05-29, 15:32:55](https://news.ycombinator.com/item?id=48324499) - [GTA 6 Developers Unionize](https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/)
 * [2026-05-29, 15:03:32](https://news.ycombinator.com/item?id=48323992) - [Bijou64: A variable-length integer encoding](https://www.inkandswitch.com/tangents/bijou64/)
