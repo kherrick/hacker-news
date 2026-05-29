@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-05-24](index.md)
 
 * [2026-05-24, 23:44:58](https://news.ycombinator.com/item?id=48262160) - [The Green Side of the Lua](https://arxiv.org/abs/2601.16670)
+* [2026-05-24, 21:52:55](https://news.ycombinator.com/item?id=48261377) - [Ten Basic Clouds](https://www.noaa.gov/jetstream/clouds/ten-basic-clouds)
 * [2026-05-24, 21:21:58](https://news.ycombinator.com/item?id=48261120) - [IBM Confidential: System/360 File Organization [video]](https://www.youtube.com/watch?v=zokKqP0plrM)
 * [2026-05-24, 19:36:57](https://news.ycombinator.com/item?id=48260331) - [The political polarization of health outcomes in the USA](https://www.nature.com/articles/s41562-026-02474-9)
 * [2026-05-24, 19:31:41](https://news.ycombinator.com/item?id=48260289) - [I am not a black belt](https://rodolphoarruda.pro.br/i-am-not-a-black-belt/)
