@@ -1,11 +1,81 @@
 [
   [
     [
+      "2026-05-29, 04:18:34",
+      "https://news.ycombinator.com/item?id=48318978"
+    ],
+    [
+      "Python utility package for building Claude Code hooks",
+      "https://github.com/RasmusGodske/claude-hook-utils"
+    ]
+  ],
+  [
+    [
+      "2026-05-29, 03:32:15",
+      "https://news.ycombinator.com/item?id=48318678"
+    ],
+    [
+      "The most spectacular rocket explosion since N1 just happened in Florida",
+      "https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/"
+    ]
+  ],
+  [
+    [
+      "2026-05-29, 03:01:00",
+      "https://news.ycombinator.com/item?id=48318481"
+    ],
+    [
+      "Cars are trying to spy on you, and it's only just the beginning",
+      "https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse"
+    ]
+  ],
+  [
+    [
+      "2026-05-29, 02:33:13",
+      "https://news.ycombinator.com/item?id=48318313"
+    ],
+    [
+      "Italians and Dutch share the same gestural instinct for teaching",
+      "https://www.mpi.nl/news/italians-and-dutch-share-same-gestural-instinct-teaching"
+    ]
+  ],
+  [
+    [
+      "2026-05-29, 01:16:38",
+      "https://news.ycombinator.com/item?id=48317774"
+    ],
+    [
+      "Blue Origin's New Glenn blows up during static fire test",
+      "https://twitter.com/nasaspaceflight/status/2060164928472854821"
+    ]
+  ],
+  [
+    [
+      "2026-05-29, 00:16:20",
+      "https://news.ycombinator.com/item?id=48317339"
+    ],
+    [
+      "Where are the economies of scale in homebuilding?",
+      "https://www.construction-physics.com/p/where-are-the-economies-of-scale"
+    ]
+  ],
+  [
+    [
+      "2026-05-29, 00:09:35",
+      "https://news.ycombinator.com/item?id=48317294"
+    ],
+    [
+      "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
+      "https://minimaxir.com/2026/05/openrouter-hy3/"
+    ]
+  ],
+  [
+    [
       "2026-05-28, 23:42:47",
       "https://news.ycombinator.com/item?id=48317093"
     ],
     [
-      "Bot Company allegedly trashing Airbnb rentals with their prototype robots",
+      "SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims",
       "https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/"
     ]
   ],
@@ -21,22 +91,22 @@
   ],
   [
     [
+      "2026-05-28, 21:47:22",
+      "https://news.ycombinator.com/item?id=48315980"
+    ],
+    [
+      "Why Gentoo?",
+      "https://blogs.gentoo.org/mgorny/2026/05/28/why-gentoo/"
+    ]
+  ],
+  [
+    [
       "2026-05-28, 21:45:54",
       "https://news.ycombinator.com/item?id=48315968"
     ],
     [
       "GitHub bans security researcher who posted zero-day Windows exploits",
       "https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation"
-    ]
-  ],
-  [
-    [
-      "2026-05-28, 21:03:24",
-      "https://news.ycombinator.com/item?id=48315440"
-    ],
-    [
-      "Protestware for Coding Agents",
-      "https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html"
     ]
   ],
   [
@@ -51,16 +121,6 @@
   ],
   [
     [
-      "2026-05-28, 20:20:17",
-      "https://news.ycombinator.com/item?id=48314875"
-    ],
-    [
-      "Social Animus",
-      "https://justine.lol/animus/"
-    ]
-  ],
-  [
-    [
       "2026-05-28, 19:24:09",
       "https://news.ycombinator.com/item?id=48314136"
     ],
@@ -71,32 +131,12 @@
   ],
   [
     [
-      "2026-05-28, 19:20:06",
-      "https://news.ycombinator.com/item?id=48314069"
-    ],
-    [
-      "Announcing Rust 1.96",
-      "https://blog.rust-lang.org/2026/05/28/Rust-1.96.0/"
-    ]
-  ],
-  [
-    [
       "2026-05-28, 19:15:54",
       "https://news.ycombinator.com/item?id=48314002"
     ],
     [
       "Nitpicking the shell history scene in 'Tron: Legacy'",
       "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/"
-    ]
-  ],
-  [
-    [
-      "2026-05-28, 19:14:38",
-      "https://news.ycombinator.com/item?id=48313990"
-    ],
-    [
-      "Separate the Cord from the Device",
-      "https://bookofjoe2.blogspot.com/2026/05/blog-post_27.html"
     ]
   ],
   [
@@ -121,32 +161,12 @@
   ],
   [
     [
-      "2026-05-28, 18:16:20",
-      "https://news.ycombinator.com/item?id=48313142"
-    ],
-    [
-      "The Lone Lisp Heap",
-      "https://www.matheusmoreira.com/articles/lone-lisp-heap"
-    ]
-  ],
-  [
-    [
       "2026-05-28, 18:09:44",
       "https://news.ycombinator.com/item?id=48313048"
     ],
     [
       "Anthropic raises $65B in Series H funding at $965B post-money valuation",
       "https://www.anthropic.com/news/series-h"
-    ]
-  ],
-  [
-    [
-      "2026-05-28, 17:43:36",
-      "https://news.ycombinator.com/item?id=48312616"
-    ],
-    [
-      "Bitburner, programming-based incremental game",
-      "https://bitburner-official.github.io/"
     ]
   ],
   [
@@ -201,32 +221,12 @@
   ],
   [
     [
-      "2026-05-28, 14:18:18",
-      "https://news.ycombinator.com/item?id=48309302"
-    ],
-    [
-      "EU fines Temu €200M for allowing sale of illegal products",
-      "https://www.bbc.co.uk/news/articles/c1k2ydn1rz8o"
-    ]
-  ],
-  [
-    [
       "2026-05-28, 13:02:00",
       "https://news.ycombinator.com/item?id=48308376"
     ],
     [
       "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
       "https://llmgame.scalex.dev"
-    ]
-  ],
-  [
-    [
-      "2026-05-27, 20:00:51",
-      "https://news.ycombinator.com/item?id=48299753"
-    ],
-    [
-      "YouTube to automatically label AI-generated videos",
-      "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/"
     ]
   ],
   [
@@ -261,22 +261,12 @@
   ],
   [
     [
-      "2026-05-25, 22:29:07",
-      "https://news.ycombinator.com/item?id=48272661"
+      "2026-05-25, 21:59:01",
+      "https://news.ycombinator.com/item?id=48272458"
     ],
     [
-      "Micromania: The Whole Truth about Home Computers (1984)",
-      "https://taff.org.uk/ebooks.php?x=Micromania"
-    ]
-  ],
-  [
-    [
-      "2026-05-25, 22:10:08",
-      "https://news.ycombinator.com/item?id=48272545"
-    ],
-    [
-      "Using Tailscale with an OrbStack VM on macOS",
-      "https://github.com/highpost/tailscale-macos-vm"
+      "Some Like It Literary",
+      "https://www.nytimes.com/2026/05/24/books/review/marilyn-monroe-books-arthur-miller.html"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "The most unlikely school bag",
       "https://www.carryology.com/insights/carry-culture/the-tale-of-the-worlds-most-unlikely-school-bag/"
+    ]
+  ],
+  [
+    [
+      "2026-05-25, 12:00:13",
+      "https://news.ycombinator.com/item?id=48265849"
+    ],
+    [
+      "The Pack That Killed the Pack Mule",
+      "https://www.carryology.com/liking/industry/the-pack-that-killed-the-pack-mule/"
     ]
   ],
   [
