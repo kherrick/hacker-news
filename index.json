@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-05-30, 13:56:34",
+      "https://news.ycombinator.com/item?id=48336233"
+    ],
+    [
+      "Anthropic surpasses OpenAI to become most valuable AI startup",
+      "https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup"
+    ]
+  ],
+  [
+    [
+      "2026-05-30, 12:25:08",
+      "https://news.ycombinator.com/item?id=48335442"
+    ],
+    [
+      "Adding Linux support back for the BASIC (free) version of Vivado",
+      "https://adaptivesupport.amd.com/s/question/0D5Pd00001aT5IcKAK/adding-linux-support-back-for-the-basic-free-version-of-vivado?language=en_US"
+    ]
+  ],
+  [
+    [
+      "2026-05-30, 12:17:33",
+      "https://news.ycombinator.com/item?id=48335388"
+    ],
+    [
+      "Corporate America Is Starting to Ration AI as Cost Skyrockets",
+      "https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a"
+    ]
+  ],
+  [
+    [
       "2026-05-30, 11:41:29",
       "https://news.ycombinator.com/item?id=48335135"
     ],
@@ -17,6 +47,16 @@
     [
       "Show HN: Helios – what plug-in solar could generate for any address in Britain",
       "https://helios.southlondonscientific.com/"
+    ]
+  ],
+  [
+    [
+      "2026-05-30, 10:51:48",
+      "https://news.ycombinator.com/item?id=48334854"
+    ],
+    [
+      "Openrsync: An implementation of rsync, by the OpenBSD team",
+      "https://github.com/kristapsdz/openrsync"
     ]
   ],
   [
@@ -41,16 +81,6 @@
   ],
   [
     [
-      "2026-05-30, 09:18:49",
-      "https://news.ycombinator.com/item?id=48334283"
-    ],
-    [
-      "The Kaiser and a \"Mediocre Man\" Theory of History",
-      "https://www.deadcarl.com/p/the-kaiser-and-a-mediocre-man-theory"
-    ]
-  ],
-  [
-    [
       "2026-05-30, 08:38:28",
       "https://news.ycombinator.com/item?id=48334048"
     ],
@@ -71,22 +101,12 @@
   ],
   [
     [
-      "2026-05-30, 06:00:32",
-      "https://news.ycombinator.com/item?id=48333096"
+      "2026-05-30, 06:58:23",
+      "https://news.ycombinator.com/item?id=48333440"
     ],
     [
-      "OpenRCT2 v0.5.1 \"Swamp Castle\" released Last version to support Windows 7",
-      "https://openrct2.io/blog/2026/05/openrct2-v0.5.1-released"
-    ]
-  ],
-  [
-    [
-      "2026-05-30, 03:14:25",
-      "https://news.ycombinator.com/item?id=48332151"
-    ],
-    [
-      "Perry Compiles TypeScript directly to executables using SWC and LLVM",
-      "https://www.perryts.com/"
+      "Macsurf, \"modern\" web browser for macOS 9",
+      "https://github.com/mplsllc/macsurf"
     ]
   ],
   [
@@ -111,32 +131,12 @@
   ],
   [
     [
-      "2026-05-29, 22:32:29",
-      "https://news.ycombinator.com/item?id=48330192"
-    ],
-    [
-      "Show HN: Open-source private home security camera system (end-to-end encryption)",
-      "https://github.com/secluso/core"
-    ]
-  ],
-  [
-    [
       "2026-05-29, 19:58:56",
       "https://news.ycombinator.com/item?id=48328405"
     ],
     [
       "The Last Technical Interview",
       "https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564"
-    ]
-  ],
-  [
-    [
-      "2026-05-29, 19:38:27",
-      "https://news.ycombinator.com/item?id=48328184"
-    ],
-    [
-      "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
-      "https://github.com/jmaczan/tiny-vllm"
     ]
   ],
   [
@@ -231,12 +231,32 @@
   ],
   [
     [
+      "2026-05-27, 19:03:17",
+      "https://news.ycombinator.com/item?id=48298912"
+    ],
+    [
+      "IXI's autofocusing lenses are almost ready to replace multifocal glasses",
+      "https://www.engadget.com/wearables/ixis-autofocusing-lenses-multifocal-glasses-ces-2026-212608427.html"
+    ]
+  ],
+  [
+    [
       "2026-05-27, 16:50:10",
       "https://news.ycombinator.com/item?id=48296946"
     ],
     [
       "A new register allocator for ZJIT",
       "https://railsatscale.com/2026-05-27-a-new-register-allocator-for-zjit/"
+    ]
+  ],
+  [
+    [
+      "2026-05-26, 22:15:28",
+      "https://news.ycombinator.com/item?id=48286745"
+    ],
+    [
+      "Navier-Stokes fluid simulation explained with Godot game engine",
+      "https://myzopotamia.dev/navier-stokes-fluid-simulation-explained-with-godot"
     ]
   ],
   [
@@ -257,26 +277,6 @@
     [
       "Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer",
       "https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/"
-    ]
-  ],
-  [
-    [
-      "2026-05-26, 17:38:51",
-      "https://news.ycombinator.com/item?id=48283009"
-    ],
-    [
-      "Algebraic Effects for the Rest of Us",
-      "https://overreacted.io/algebraic-effects-for-the-rest-of-us/"
-    ]
-  ],
-  [
-    [
-      "2026-05-26, 16:31:43",
-      "https://news.ycombinator.com/item?id=48282025"
-    ],
-    [
-      "Understand Anything – Graphs that teach the codebase",
-      "https://understand-anything.com/"
     ]
   ],
   [
