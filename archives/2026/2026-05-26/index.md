@@ -22,6 +22,7 @@
 * [2026-05-26, 17:17:12](https://news.ycombinator.com/item?id=48282709) - [Stack Overflow’s forum is dead but the company’s still kicking](https://sherwood.news/tech/stack-overflow-forum-dead-thanks-ai-but-companys-still-kicking-ai/)
 * [2026-05-26, 17:17:12](https://news.ycombinator.com/item?id=48282709) - [Stack Overflow's forum is dead thanks to AI](https://wiert.me/2026/05/26/stack-overflows-forum-is-dead-thanks-to-ai-but-the-companys-still-kicking-thanks-to-ai-sherwood-news/)
 * [2026-05-26, 17:00:40](https://news.ycombinator.com/item?id=48282478) - [Sage Care (YC S24) Is Hiring Software Engineers](https://www.ycombinator.com/companies/sagecare/jobs/xtloH8r-senior-software-engineer)
+* [2026-05-26, 16:51:55](https://news.ycombinator.com/item?id=48282335) - [It Takes Two Neurons to Ride a Bicycle](https://fermatslibrary.com/s/it-takes-two-neurons-to-ride-a-bicycle#email-newsletter)
 * [2026-05-26, 16:41:58](https://news.ycombinator.com/item?id=48282180) - [Indoor Wi-Fi Roaming with OpenWRT](https://taoofmac.com/space/blog/2026/05/26/1730)
 * [2026-05-26, 16:31:43](https://news.ycombinator.com/item?id=48282025) - [Understand Anything – Graphs that teach the codebase](https://understand-anything.com/)
 * [2026-05-26, 16:15:17](https://news.ycombinator.com/item?id=48281772) - [What Happened to the Locusts?](https://explosion-scratch.github.io/locusts/)

@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-05-30](index.md)
 
+* [2026-05-30, 16:04:00](https://news.ycombinator.com/item?id=48337676) - [To have a moral stance on AI is to be an outcast, and it sucks](https://musings.martyn.berlin/to-have-a-moral-stance-on-ai-is-to-be-an-outcast-and-it-sucks)
+* [2026-05-30, 15:41:04](https://news.ycombinator.com/item?id=48337409) - [Ask HN: What Is the State of App Development in 2026?](https://news.ycombinator.com/item?id=48337409)
+* [2026-05-30, 15:15:23](https://news.ycombinator.com/item?id=48337137) - [A Probabilistic Algorithm for Repairing All Roads in Lebanon via Papal Visits](https://sigbovik.org/2026/proceedings.pdf#%5B%7B%22num%22%3A13%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C72%2C720%2Cnull%5D)
 * [2026-05-30, 14:25:50](https://news.ycombinator.com/item?id=48336564) - [Voxel Space](https://s-macke.github.io/VoxelSpace/)
 * [2026-05-30, 14:03:31](https://news.ycombinator.com/item?id=48336312) - [Memory decline after menopause linked to loss of estrogen production in brain](https://news.northwestern.edu/stories/2026/05/memory-decline-after-menopause-linked-to-loss-of-estrogen-production-in-brain-tissue)
 * [2026-05-30, 13:56:34](https://news.ycombinator.com/item?id=48336233) - [Anthropic surpasses OpenAI to become most valuable AI startup](https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup)
+* [2026-05-30, 13:35:43](https://news.ycombinator.com/item?id=48336022) - [Airlines Can't Charge You for What You Wear](https://voyagecoat.com/)
 * [2026-05-30, 12:25:08](https://news.ycombinator.com/item?id=48335442) - [Adding Linux support back for the BASIC (free) version of Vivado](https://adaptivesupport.amd.com/s/question/0D5Pd00001aT5IcKAK/adding-linux-support-back-for-the-basic-free-version-of-vivado?language=en_US)
 * [2026-05-30, 12:17:33](https://news.ycombinator.com/item?id=48335388) - [Corporate America Is Starting to Ration AI as Cost Skyrockets](https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a)
 * [2026-05-30, 11:41:29](https://news.ycombinator.com/item?id=48335135) - [Proposed new US funding rules: We can cancel any grant at any time](https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/)
