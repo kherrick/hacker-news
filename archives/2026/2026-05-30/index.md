@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-05-30](index.md)
 
+* [2026-05-30, 08:32:57](https://news.ycombinator.com/item?id=48334021) - [Rsync 3.4.3 has hundreds of Claude commits](https://mastodon.gamedev.place/@JeremiahFieldhaven/116654345332213390)
+* [2026-05-30, 08:04:57](https://news.ycombinator.com/item?id=48333844) - [Iron-rich immune cells help homing pigeons navigate](https://www.science.org/content/article/mind-blowing-iron-rich-immune-cells-help-homing-pigeons-navigate)
+* [2026-05-30, 08:00:20](https://news.ycombinator.com/item?id=48333820) - [Danish pension fund excludes SpaceX citing governance and valuation](https://www.reuters.com/legal/transactional/danish-pension-fund-excludes-spacex-citing-governance-valuation-2026-05-29/)
 * [2026-05-30, 06:00:32](https://news.ycombinator.com/item?id=48333096) - [OpenRCT2 v0.5.1 \"Swamp Castle\" released Last version to support Windows 7](https://openrct2.io/blog/2026/05/openrct2-v0.5.1-released)
 * [2026-05-30, 03:14:25](https://news.ycombinator.com/item?id=48332151) - [Perry Compiles TypeScript directly to executables using SWC and LLVM](https://www.perryts.com/)
 * [2026-05-30, 03:07:25](https://news.ycombinator.com/item?id=48332098) - [Show HN: VT Code – open-source terminal coding agent in Rust](https://github.com/vinhnx/VTCode)

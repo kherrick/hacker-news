@@ -47,6 +47,7 @@
 * [2026-05-27, 11:25:30](https://news.ycombinator.com/item?id=48292560) - [Atomically precise mechanosynthesis of carbon structures on hydrogenated Silicon](https://arxiv.org/abs/2605.27250)
 * [2026-05-27, 10:43:25](https://news.ycombinator.com/item?id=48292224) - [I'm Tired of Talking to AI](https://orchidfiles.com/im-tired-of-ai-generated-answers/)
 * [2026-05-27, 09:56:02](https://news.ycombinator.com/item?id=48291947) - [Mini Micro Fantasy Computer](https://miniscript.org/MiniMicro/index.html#about)
+* [2026-05-27, 09:15:22](https://news.ycombinator.com/item?id=48291648) - [Quantum dot qubit using High NA EUV lithography](https://www.imec-int.com/en/press/world-first-imec-presents-quantum-dot-qubit-device-using-high-na-euv-lithography)
 * [2026-05-27, 09:02:59](https://news.ycombinator.com/item?id=48291575) - [Go: Support for Generic Methods](https://github.com/golang/go/issues/77273)
 * [2026-05-27, 08:15:35](https://news.ycombinator.com/item?id=48291230) - [Nvidia Vera CPU Benchmarks: Olympus Cores Delivering Great Performance](https://www.phoronix.com/review/nvidia-vera-benchmarks)
 * [2026-05-27, 08:14:40](https://news.ycombinator.com/item?id=48291225) - [All of human cooking compressed into 2 megabytes](https://arxiv.org/abs/2605.22391)
