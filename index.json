@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-05-30, 16:04:00",
+      "https://news.ycombinator.com/item?id=48337676"
+    ],
+    [
+      "To have a moral stance on AI is to be an outcast, and it sucks",
+      "https://musings.martyn.berlin/to-have-a-moral-stance-on-ai-is-to-be-an-outcast-and-it-sucks"
+    ]
+  ],
+  [
+    [
+      "2026-05-30, 15:41:04",
+      "https://news.ycombinator.com/item?id=48337409"
+    ],
+    [
+      "Ask HN: What Is the State of App Development in 2026?",
+      "https://news.ycombinator.com/item?id=48337409"
+    ]
+  ],
+  [
+    [
+      "2026-05-30, 15:15:23",
+      "https://news.ycombinator.com/item?id=48337137"
+    ],
+    [
+      "A Probabilistic Algorithm for Repairing All Roads in Lebanon via Papal Visits",
+      "https://sigbovik.org/2026/proceedings.pdf#%5B%7B%22num%22%3A13%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C72%2C720%2Cnull%5D"
+    ]
+  ],
+  [
+    [
       "2026-05-30, 14:25:50",
       "https://news.ycombinator.com/item?id=48336564"
     ],
@@ -31,12 +61,12 @@
   ],
   [
     [
-      "2026-05-30, 12:17:33",
-      "https://news.ycombinator.com/item?id=48335388"
+      "2026-05-30, 13:35:43",
+      "https://news.ycombinator.com/item?id=48336022"
     ],
     [
-      "Corporate America Is Starting to Ration AI as Cost Skyrockets",
-      "https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a"
+      "Airlines Can't Charge You for What You Wear",
+      "https://voyagecoat.com/"
     ]
   ],
   [
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2026-05-29, 19:38:27",
-      "https://news.ycombinator.com/item?id=48328184"
-    ],
-    [
-      "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
-      "https://github.com/jmaczan/tiny-vllm"
-    ]
-  ],
-  [
-    [
       "2026-05-29, 19:16:32",
       "https://news.ycombinator.com/item?id=48327962"
     ],
@@ -181,32 +201,12 @@
   ],
   [
     [
-      "2026-05-29, 16:19:54",
-      "https://news.ycombinator.com/item?id=48325306"
-    ],
-    [
-      "Liquid AI reveals 8B-A1B MoE trained on 38T",
-      "https://www.liquid.ai/blog/lfm2-5-8b-a1b"
-    ]
-  ],
-  [
-    [
       "2026-05-29, 15:46:24",
       "https://news.ycombinator.com/item?id=48324712"
     ],
     [
       "The dead economy theory",
       "https://www.owenmcgrann.com/p/the-dead-economy-theory"
-    ]
-  ],
-  [
-    [
-      "2026-05-29, 15:03:32",
-      "https://news.ycombinator.com/item?id=48323992"
-    ],
-    [
-      "Bijou64: A variable-length integer encoding",
-      "https://www.inkandswitch.com/tangents/bijou64/"
     ]
   ],
   [
@@ -227,16 +227,6 @@
     [
       "Testing the WWI concrete ships and WWII concrete barges",
       "https://thecretefleet.com/blog/f/testing-the-wwi-concrete-ships-and-wwii-concrete-barges"
-    ]
-  ],
-  [
-    [
-      "2026-05-28, 02:23:31",
-      "https://news.ycombinator.com/item?id=48303623"
-    ],
-    [
-      "What It Takes to Preserve Floppy Disks",
-      "https://spectrum.ieee.org/floppy-disk-data-preservation-archives"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer",
       "https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/"
+    ]
+  ],
+  [
+    [
+      "2026-05-26, 16:51:55",
+      "https://news.ycombinator.com/item?id=48282335"
+    ],
+    [
+      "It Takes Two Neurons to Ride a Bicycle",
+      "https://fermatslibrary.com/s/it-takes-two-neurons-to-ride-a-bicycle#email-newsletter"
     ]
   ],
   [
