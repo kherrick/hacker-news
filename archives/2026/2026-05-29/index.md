@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-29](index.md)
 
+* [2026-05-29, 23:54:22](https://news.ycombinator.com/item?id=48330882) - [What Is a Dickover?](https://daringfireball.net/2026/05/what_is_a_dickover)
 * [2026-05-29, 22:56:49](https://news.ycombinator.com/item?id=48330436) - [MCP Is Dead](https://www.quandri.io/engineering-blog/mcp-is-dead)
 * [2026-05-29, 22:44:10](https://news.ycombinator.com/item?id=48330306) - [Show HN: Free activity calendar for schools, sports clubs, and organizations](https://freecal.eu/?lang=en)
 * [2026-05-29, 22:32:29](https://news.ycombinator.com/item?id=48330192) - [Show HN: Open-source private home security camera system (end-to-end encryption)](https://github.com/secluso/core)
@@ -12,6 +13,7 @@
 * [2026-05-29, 20:40:38](https://news.ycombinator.com/item?id=48328932) - [Why I collect DLES](https://dles.gg/blog/dles-gg-manifesto)
 * [2026-05-29, 20:32:56](https://news.ycombinator.com/item?id=48328843) - [A Trillion Characters](https://characters.fastserial.com)
 * [2026-05-29, 20:23:33](https://news.ycombinator.com/item?id=48328718) - [Canada in Technical Recession](https://www.cbc.ca/news/business/recession-gdp-may-2026-statscan-9.7216352)
+* [2026-05-29, 19:58:56](https://news.ycombinator.com/item?id=48328405) - [The Last Technical Interview](https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564)
 * [2026-05-29, 19:55:56](https://news.ycombinator.com/item?id=48328365) - [The California state assembly has passed the 'Protect Our Games Act'](https://www.invenglobal.com/articles/22330/stop-killing-games-movement-gains-momentum-california-assembly-passes-game-protection-bill)
 * [2026-05-29, 19:38:27](https://news.ycombinator.com/item?id=48328184) - [Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA](https://github.com/jmaczan/tiny-vllm)
 * [2026-05-29, 19:37:41](https://news.ycombinator.com/item?id=48328175) - [Microsoft 0-day feud escalates as researcher threatens another exploit dump](https://www.theregister.com/security/2026/05/28/microsoft-0-day-feud-escalates-as-researcher-threatens-another-windows-exploit-dump/5248085)

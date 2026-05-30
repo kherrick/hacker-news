@@ -13,6 +13,7 @@
 * [2026-05-26, 19:25:16](https://news.ycombinator.com/item?id=48284712) - [Chemistry behind the Garden Grove chemical tank](https://www.science.org/content/blog-post/methyl-methacrylate-tank)
 * [2026-05-26, 19:25:13](https://news.ycombinator.com/item?id=48284711) - [The Melancholy of Slaying Monsters](https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/)
 * [2026-05-26, 19:19:22](https://news.ycombinator.com/item?id=48284604) - [Barthelme, the Houstonian](https://www.theparisreview.org/blog/2026/05/22/barthelme-the-houstonian/)
+* [2026-05-26, 19:12:59](https://news.ycombinator.com/item?id=48284494) - [Snowboard Kids 2 is 100% Decompiled](https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/)
 * [2026-05-26, 18:44:34](https://news.ycombinator.com/item?id=48284032) - [Modern Blu-ray drives can now rip GameCube, Wii, and Xbox 360 games to PC](https://www.tomshardware.com/video-games/console-gaming/modern-blu-ray-drives-can-now-rip-gamecube-wii-and-xbox-360-games-to-pc-third-party-firmware-unlocks-game-rips-from-physical-media-on-select-players)
 * [2026-05-26, 18:37:07](https://news.ycombinator.com/item?id=48283914) - [Stop Advertising in Your Commits](https://akselmo.dev/posts/stop-advertising-in-your-commits/)
 * [2026-05-26, 18:05:42](https://news.ycombinator.com/item?id=48283410) - [Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer](https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/)
