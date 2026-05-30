@@ -50,6 +50,7 @@
 * [2026-05-28, 03:50:01](https://news.ycombinator.com/item?id=48304260) - [Hallucinate – Massively Multiplayer Online Rave](https://hallucinate.site)
 * [2026-05-28, 02:58:44](https://news.ycombinator.com/item?id=48303881) - [Bttf is a command line datetime Swiss army knife](https://github.com/BurntSushi/bttf)
 * [2026-05-28, 02:58:44](https://news.ycombinator.com/item?id=48303881) - [Biff is a command line datetime Swiss army knife](https://github.com/BurntSushi/biff)
+* [2026-05-28, 02:23:31](https://news.ycombinator.com/item?id=48303623) - [What It Takes to Preserve Floppy Disks](https://spectrum.ieee.org/floppy-disk-data-preservation-archives)
 * [2026-05-28, 02:21:11](https://news.ycombinator.com/item?id=48303599) - [RamAIn (YC W26) Is Hiring](https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer)
 * [2026-05-28, 01:10:39](https://news.ycombinator.com/item?id=48302997) - [Finding Miscompiles for Fun, Not Profit](https://newsletter.semianalysis.com/p/finding-miscompiles-for-fun-not-profit)
 * [2026-05-28, 00:49:58](https://news.ycombinator.com/item?id=48302822) - [Google employee charged with $1M Polymarket insider trading bet on search term](https://www.cnbc.com/2026/05/27/google-employee-polymarket-insider-trading.html)

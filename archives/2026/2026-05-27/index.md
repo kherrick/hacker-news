@@ -39,6 +39,7 @@
 * [2026-05-27, 14:09:44](https://news.ycombinator.com/item?id=48294670) - [The VibeSec Reckoning](https://martinfowler.com/articles/vibesec-reckoning.html)
 * [2026-05-27, 14:02:38](https://news.ycombinator.com/item?id=48294549) - [Evolving Webflow for the Agentic Web](https://webflow.com/blog/evolving-webflow-for-the-agentic-web)
 * [2026-05-27, 13:52:48](https://news.ycombinator.com/item?id=48294401) - [Italy region: +200% tax on datacenters built in green/agricultural areas](https://en.ilsole24ore.com/art/lombardy-introduces-increased-charges-of-up-to-200-per-cent-for-data-centre-construction-in-green-and-agricultural-areas-AI6Jp4ID)
+* [2026-05-27, 12:18:19](https://news.ycombinator.com/item?id=48293119) - [Math-to-Manim](https://github.com/HarleyCoops/Math-To-Manim)
 * [2026-05-27, 12:15:14](https://news.ycombinator.com/item?id=48293080) - [Incident with Pull Requests, Issues, Git Operations and API Requests](https://www.githubstatus.com/incidents/xy1tt3hs572m)
 * [2026-05-27, 12:08:18](https://news.ycombinator.com/item?id=48293014) - [XLIDE: VBA without excel](https://github.com/WilliamSmithEdward/xlide_vscode)
 * [2026-05-27, 12:00:53](https://news.ycombinator.com/item?id=48292941) - [Private Equity Bought America's Essential Services](https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/)

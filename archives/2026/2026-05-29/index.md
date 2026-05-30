@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-29](index.md)
 
+* [2026-05-29, 23:57:45](https://news.ycombinator.com/item?id=48330902) - [Ember.js 7.0](https://blog.emberjs.com/ember-released-7-0/)
 * [2026-05-29, 23:54:22](https://news.ycombinator.com/item?id=48330882) - [What Is a Dickover?](https://daringfireball.net/2026/05/what_is_a_dickover)
 * [2026-05-29, 22:56:49](https://news.ycombinator.com/item?id=48330436) - [MCP Is Dead](https://www.quandri.io/engineering-blog/mcp-is-dead)
 * [2026-05-29, 22:44:10](https://news.ycombinator.com/item?id=48330306) - [Show HN: Free activity calendar for schools, sports clubs, and organizations](https://freecal.eu/?lang=en)
