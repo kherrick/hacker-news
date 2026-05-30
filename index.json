@@ -11,11 +11,31 @@
   ],
   [
     [
+      "2026-05-30, 20:46:54",
+      "https://news.ycombinator.com/item?id=48340448"
+    ],
+    [
+      "Design Engineering Magazine",
+      "https://interfaces.dev/"
+    ]
+  ],
+  [
+    [
+      "2026-05-30, 20:42:28",
+      "https://news.ycombinator.com/item?id=48340422"
+    ],
+    [
+      "wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack",
+      "https://github.com/wolfSSL/wolfCOSE"
+    ]
+  ],
+  [
+    [
       "2026-05-30, 20:40:57",
       "https://news.ycombinator.com/item?id=48340411"
     ],
     [
-      "Domain Expertise Has Always Been the Real Moat",
+      "Domain expertise has always been the real moat",
       "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/"
     ]
   ],
@@ -27,16 +47,6 @@
     [
       "Dusklight – GC Twilight Princess Decompiled",
       "https://twilitrealm.dev/"
-    ]
-  ],
-  [
-    [
-      "2026-05-30, 20:05:21",
-      "https://news.ycombinator.com/item?id=48340107"
-    ],
-    [
-      "A disappearing Service Processor (2025)",
-      "https://oxide.computer/blog/cosmo-sp"
     ]
   ],
   [
@@ -77,16 +87,6 @@
     [
       "EY Canada published a cybersecurity report and most citations were hallucinated",
       "https://gptzero.me/investigations/ey"
-    ]
-  ],
-  [
-    [
-      "2026-05-30, 18:19:44",
-      "https://news.ycombinator.com/item?id=48339186"
-    ],
-    [
-      "We are constantly broadcasting emotional data",
-      "https://www.tonyrice.me/emotional-intelligence/"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2026-05-29, 17:54:50",
-      "https://news.ycombinator.com/item?id=48326802"
-    ],
-    [
-      "SQLite is all you need for durable workflows",
-      "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/"
-    ]
-  ],
-  [
-    [
       "2026-05-29, 13:28:01",
       "https://news.ycombinator.com/item?id=48322853"
     ],
@@ -241,12 +231,22 @@
   ],
   [
     [
-      "2026-05-28, 14:32:53",
-      "https://news.ycombinator.com/item?id=48309505"
+      "2026-05-28, 20:30:20",
+      "https://news.ycombinator.com/item?id=48315016"
     ],
     [
-      "Searching for Birds",
-      "https://SearchingForBirds.VisualCinnamon.com/"
+      "Show HN: Open Envelope – an open schema for defining AI agent teams",
+      "https://openenvelope.org/docs/schema/"
+    ]
+  ],
+  [
+    [
+      "2026-05-28, 12:15:55",
+      "https://news.ycombinator.com/item?id=48307851"
+    ],
+    [
+      "Tsplat – Run Gaussian splatting in your terminal",
+      "https://github.com/darshanmakwana412/tsplat"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=48281772"
     ],
     [
-      "What Happened to the Locusts?",
+      "What are locusts and what happened to them?",
       "https://explosion-scratch.github.io/locusts/"
     ]
   ]
