@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-05-30](index.md)
 
+* [2026-05-30, 09:56:42](https://news.ycombinator.com/item?id=48334515) - [Pandoc Templates](https://pandoc-templates.org/)
+* [2026-05-30, 09:18:49](https://news.ycombinator.com/item?id=48334283) - [The Kaiser and a \"Mediocre Man\" Theory of History](https://www.deadcarl.com/p/the-kaiser-and-a-mediocre-man-theory)
+* [2026-05-30, 08:38:28](https://news.ycombinator.com/item?id=48334048) - [Zig: Build System Reworked](https://ziglang.org/devlog/2026/#2026-05-26)
 * [2026-05-30, 08:32:57](https://news.ycombinator.com/item?id=48334021) - [Rsync 3.4.3 has hundreds of Claude commits](https://mastodon.gamedev.place/@JeremiahFieldhaven/116654345332213390)
 * [2026-05-30, 08:04:57](https://news.ycombinator.com/item?id=48333844) - [Iron-rich immune cells help homing pigeons navigate](https://www.science.org/content/article/mind-blowing-iron-rich-immune-cells-help-homing-pigeons-navigate)
 * [2026-05-30, 08:00:20](https://news.ycombinator.com/item?id=48333820) - [Danish pension fund excludes SpaceX citing governance and valuation](https://www.reuters.com/legal/transactional/danish-pension-fund-excludes-spacex-citing-governance-valuation-2026-05-29/)
