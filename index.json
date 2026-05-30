@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-05-30, 03:14:25",
+      "https://news.ycombinator.com/item?id=48332151"
+    ],
+    [
+      "Perry Compiles TypeScript directly to executables using SWC and LLVM",
+      "https://www.perryts.com/"
+    ]
+  ],
+  [
+    [
+      "2026-05-30, 03:07:25",
+      "https://news.ycombinator.com/item?id=48332098"
+    ],
+    [
+      "Show HN: VT Code – open-source terminal coding agent in Rust",
+      "https://github.com/vinhnx/VTCode"
+    ]
+  ],
+  [
+    [
+      "2026-05-30, 02:20:40",
+      "https://news.ycombinator.com/item?id=48331786"
+    ],
+    [
+      "Naphtha Shortages Having a Growing Impact in Japan",
+      "https://www.nippon.com/en/japan-data/h02783/"
+    ]
+  ],
+  [
+    [
+      "2026-05-30, 01:39:52",
+      "https://news.ycombinator.com/item?id=48331511"
+    ],
+    [
+      "WH proposes rules giving political appointees final approval on research grants",
+      "https://www.scientificamerican.com/article/white-house-proposes-new-rules-giving-political-appointees-final-say-on-research-grants/"
+    ]
+  ],
+  [
+    [
+      "2026-05-29, 23:57:45",
+      "https://news.ycombinator.com/item?id=48330902"
+    ],
+    [
+      "Ember.js 7.0",
+      "https://blog.emberjs.com/ember-released-7-0/"
+    ]
+  ],
+  [
+    [
       "2026-05-29, 23:54:22",
       "https://news.ycombinator.com/item?id=48330882"
     ],
@@ -21,32 +71,12 @@
   ],
   [
     [
-      "2026-05-29, 22:32:29",
-      "https://news.ycombinator.com/item?id=48330192"
-    ],
-    [
-      "Show HN: Open-source private home security camera system (end-to-end encryption)",
-      "https://github.com/secluso/core"
-    ]
-  ],
-  [
-    [
       "2026-05-29, 22:21:58",
       "https://news.ycombinator.com/item?id=48330088"
     ],
     [
-      "Free full BGP feed. IPv4 and IPv6",
+      "Free full BGP feed. IPv4 and IPv6 (2020)",
       "https://lukasz.bromirski.net/post/bgp-w-labie-3/"
-    ]
-  ],
-  [
-    [
-      "2026-05-29, 19:58:56",
-      "https://news.ycombinator.com/item?id=48328405"
-    ],
-    [
-      "The Last Technical Interview",
-      "https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564"
     ]
   ],
   [
@@ -71,16 +101,6 @@
   ],
   [
     [
-      "2026-05-29, 19:37:41",
-      "https://news.ycombinator.com/item?id=48328175"
-    ],
-    [
-      "Microsoft 0-day feud escalates as researcher threatens another exploit dump",
-      "https://www.theregister.com/security/2026/05/28/microsoft-0-day-feud-escalates-as-researcher-threatens-another-windows-exploit-dump/5248085"
-    ]
-  ],
-  [
-    [
       "2026-05-29, 19:16:32",
       "https://news.ycombinator.com/item?id=48327962"
     ],
@@ -97,16 +117,6 @@
     [
       "On Rendering Diffs",
       "https://pierre.computer/writing/on-rendering-diffs"
-    ]
-  ],
-  [
-    [
-      "2026-05-29, 18:31:52",
-      "https://news.ycombinator.com/item?id=48327367"
-    ],
-    [
-      "Rothko for your current weather conditions",
-      "https://rothko.joonas.wtf/"
     ]
   ],
   [
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2026-05-29, 15:57:37",
-      "https://news.ycombinator.com/item?id=48324910"
-    ],
-    [
-      "CAPTCHAs can still detect AI agents",
-      "https://research.roundtable.ai/captchas-detect-ai/"
-    ]
-  ],
-  [
-    [
       "2026-05-29, 15:54:28",
       "https://news.ycombinator.com/item?id=48324853"
     ],
@@ -221,22 +221,22 @@
   ],
   [
     [
+      "2026-05-29, 12:12:16",
+      "https://news.ycombinator.com/item?id=48322118"
+    ],
+    [
+      "We should be more tired than the model",
+      "https://vickiboykis.com/2026/05/28/we-should-be-more-tired-than-the-model/"
+    ]
+  ],
+  [
+    [
       "2026-05-29, 11:09:32",
       "https://news.ycombinator.com/item?id=48321631"
     ],
     [
       "Is AI causing a repeat of frontend’s lost decade?",
       "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/"
-    ]
-  ],
-  [
-    [
-      "2026-05-29, 05:48:21",
-      "https://news.ycombinator.com/item?id=48319524"
-    ],
-    [
-      "Show HN: Zot – Yet another coding agent harness",
-      "https://www.zot.sh"
     ]
   ],
   [
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2026-05-28, 01:10:39",
-      "https://news.ycombinator.com/item?id=48302997"
+      "2026-05-28, 02:23:31",
+      "https://news.ycombinator.com/item?id=48303623"
     ],
     [
-      "Finding Miscompiles for Fun, Not Profit",
-      "https://newsletter.semianalysis.com/p/finding-miscompiles-for-fun-not-profit"
+      "What It Takes to Preserve Floppy Disks",
+      "https://spectrum.ieee.org/floppy-disk-data-preservation-archives"
     ]
   ],
   [
     [
-      "2026-05-27, 16:42:04",
-      "https://news.ycombinator.com/item?id=48296834"
+      "2026-05-27, 12:18:19",
+      "https://news.ycombinator.com/item?id=48293119"
     ],
     [
-      "What Did the Hudson River School Painters See?",
-      "https://www.nytimes.com/2026/05/25/travel/hudson-valley-painting-thomas-cole-frederic-church.html"
+      "Math-to-Manim",
+      "https://github.com/HarleyCoops/Math-To-Manim"
     ]
   ],
   [
