@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-05-30](index.md)
 
+* [2026-05-30, 18:14:35](https://news.ycombinator.com/item?id=48339127) - [White House's Aliens.gov Site Brags That ICE Arrested More Than 700 US Citizens](https://www.wired.com/story/white-house-aliens-gov-us-citizens-arrested/)
+* [2026-05-30, 17:49:48](https://news.ycombinator.com/item?id=48338887) - [Let's talk about EU Sovereignty (2025)](https://musings.martyn.berlin/lets-talk-about-eu-sovereignty)
+* [2026-05-30, 17:29:22](https://news.ycombinator.com/item?id=48338673) - [Zig ELF Linker Improvements Devlog](https://ziglang.org/devlog/2026/#2026-05-30)
+* [2026-05-30, 17:27:28](https://news.ycombinator.com/item?id=48338660) - [OpenRouter raises $113M Series B](https://openrouter.ai/announcements/series-b)
+* [2026-05-30, 17:27:13](https://news.ycombinator.com/item?id=48338656) - [Microcode inside the Intel 8087 floating-point chip: register exchange](https://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html)
 * [2026-05-30, 16:28:58](https://news.ycombinator.com/item?id=48337987) - [Downdetector and Speedtest sold to Accenture for $1.2B](https://www.theverge.com/tech/889234/downdetector-ookla-speedtest-sold-accenture)
 * [2026-05-30, 16:13:11](https://news.ycombinator.com/item?id=48337808) - [Werner Herzog in conversation with Paul Cronin (2014)](https://fsgworkinprogress.com/2014/09/26/insignificant-bullets-evil-poachers-and-l-a-culture/)
 * [2026-05-30, 16:04:00](https://news.ycombinator.com/item?id=48337676) - [To have a moral stance on AI is to be an outcast, and it sucks](https://musings.martyn.berlin/to-have-a-moral-stance-on-ai-is-to-be-an-outcast-and-it-sucks)

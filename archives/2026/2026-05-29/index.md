@@ -41,6 +41,7 @@
 * [2026-05-29, 13:50:25](https://news.ycombinator.com/item?id=48323101) - [Please Use AI](https://shawnsmucker.substack.com/p/please-use-ai)
 * [2026-05-29, 13:37:38](https://news.ycombinator.com/item?id=48322956) - [Show HN: AISlop, a CLI for catching AI generated code smells](https://github.com/scanaislop/aislop)
 * [2026-05-29, 13:35:13](https://news.ycombinator.com/item?id=48322929) - [Expertise in the age of AI](https://www.moderndescartes.com/essays/ai_and_expertise/)
+* [2026-05-29, 13:28:01](https://news.ycombinator.com/item?id=48322853) - [Stateless Actors](https://www.massicotte.org/stateless-actors/)
 * [2026-05-29, 13:18:57](https://news.ycombinator.com/item?id=48322753) - [Someone used my open source project to phish people](https://andrej.sh/posts/phishing-through-my-open-source-project)
 * [2026-05-29, 12:51:43](https://news.ycombinator.com/item?id=48322451) - [Step 3.7 Flash](https://static.stepfun.com/blog/step-3.7-flash/)
 * [2026-05-29, 12:45:02](https://news.ycombinator.com/item?id=48322389) - [Local Git Remotes](https://cblgh.org/posts/local-git-remotes/)
