@@ -4,8 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-05-30](index.md)
 
+* [2026-05-30, 20:54:22](https://news.ycombinator.com/item?id=48340528) - [Kore: Binary File Format Optimized for Modern Data Systems (Open Source)](https://github.com/arunkatherashala/Kore)
+* [2026-05-30, 20:40:57](https://news.ycombinator.com/item?id=48340411) - [Domain Expertise Has Always Been the Real Moat](https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/)
+* [2026-05-30, 20:24:26](https://news.ycombinator.com/item?id=48340262) - [Dusklight – GC Twilight Princess Decompiled](https://twilitrealm.dev/)
+* [2026-05-30, 20:05:21](https://news.ycombinator.com/item?id=48340107) - [A disappearing Service Processor (2025)](https://oxide.computer/blog/cosmo-sp)
+* [2026-05-30, 19:47:36](https://news.ycombinator.com/item?id=48339943) - [Parallel Reconstruction of Lawful TLS Wiretapping](https://remyhax.xyz/posts/reproducing-lawful-tls-wiretapping/)
+* [2026-05-30, 19:42:33](https://news.ycombinator.com/item?id=48339894) - [Jef Raskin, the Visionary Behind the Mac (2013)](https://lowendmac.com/2013/jef-raskin-the-visionary-behind-the-mac/)
 * [2026-05-30, 19:23:36](https://news.ycombinator.com/item?id=48339753) - [Show HN: 500 years of Joseon court omens as an observability dashboard](https://ajin.im/is/building/omen.ops/)
 * [2026-05-30, 19:02:54](https://news.ycombinator.com/item?id=48339580) - [Ernst & Young published cybersecurity report full of hallucinations](https://gptzero.me/investigations/ey)
+* [2026-05-30, 18:19:44](https://news.ycombinator.com/item?id=48339186) - [We are constantly broadcasting emotional data](https://www.tonyrice.me/emotional-intelligence/)
 * [2026-05-30, 18:19:23](https://news.ycombinator.com/item?id=48339180) - [Hormuz crisis side effect: a sharp rise in container shipping rates](https://www.lloydslist.com/LL1157327/Hormuz-crisis-side-effect-a-sharp-rise-in-container-shipping-rates)
 * [2026-05-30, 18:14:35](https://news.ycombinator.com/item?id=48339127) - [White House's Aliens.gov Site Brags That ICE Arrested More Than 700 US Citizens](https://www.wired.com/story/white-house-aliens-gov-us-citizens-arrested/)
 * [2026-05-30, 17:49:48](https://news.ycombinator.com/item?id=48338887) - [Let's talk about EU Sovereignty (2025)](https://musings.martyn.berlin/lets-talk-about-eu-sovereignty)
@@ -13,6 +20,7 @@
 * [2026-05-30, 17:27:28](https://news.ycombinator.com/item?id=48338660) - [OpenRouter raises $113M Series B](https://openrouter.ai/announcements/series-b)
 * [2026-05-30, 17:27:13](https://news.ycombinator.com/item?id=48338656) - [Microcode inside the Intel 8087 floating-point chip: register exchange](https://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html)
 * [2026-05-30, 16:28:58](https://news.ycombinator.com/item?id=48337987) - [Downdetector and Speedtest sold to Accenture for $1.2B](https://www.theverge.com/tech/889234/downdetector-ookla-speedtest-sold-accenture)
+* [2026-05-30, 16:28:58](https://news.ycombinator.com/item?id=48337987) - [Accenture to acquire Ookla](https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises)
 * [2026-05-30, 16:13:11](https://news.ycombinator.com/item?id=48337808) - [Werner Herzog in conversation with Paul Cronin (2014)](https://fsgworkinprogress.com/2014/09/26/insignificant-bullets-evil-poachers-and-l-a-culture/)
 * [2026-05-30, 16:04:00](https://news.ycombinator.com/item?id=48337676) - [To have a moral stance on AI is to be an outcast, and it sucks](https://musings.martyn.berlin/to-have-a-moral-stance-on-ai-is-to-be-an-outcast-and-it-sucks)
 * [2026-05-30, 15:41:04](https://news.ycombinator.com/item?id=48337409) - [Ask HN: What Is the State of App Development in 2026?](https://news.ycombinator.com/item?id=48337409)

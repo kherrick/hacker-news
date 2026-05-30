@@ -68,6 +68,7 @@
 * [2026-05-29, 03:14:39](https://news.ycombinator.com/item?id=48318568) - [HeidiSQL – Lightweight MariaDB, MySQL, SQL Server, PostgreSQL and SQLite Manager](https://github.com/HeidiSQL/HeidiSQL)
 * [2026-05-29, 03:07:22](https://news.ycombinator.com/item?id=48318522) - [Let's compile Quake like it's 1997](https://fabiensanglard.net/compile_like_1997/)
 * [2026-05-29, 03:01:00](https://news.ycombinator.com/item?id=48318481) - [Cars are trying to spy on you, and it's only just the beginning](https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse)
+* [2026-05-29, 02:49:43](https://news.ycombinator.com/item?id=48318402) - [I found a seashell in the middle of the desert](https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert)
 * [2026-05-29, 02:33:13](https://news.ycombinator.com/item?id=48318313) - [Italians and Dutch share the same gestural instinct for teaching](https://www.mpi.nl/news/italians-and-dutch-share-same-gestural-instinct-teaching)
 * [2026-05-29, 02:13:20](https://news.ycombinator.com/item?id=48318174) - [Claude Code – Everything You Can Configure That the Docs Don't Tell You](https://buildingbetter.tech/p/i-read-the-claude-code-source-code)
 * [2026-05-29, 01:16:38](https://news.ycombinator.com/item?id=48317774) - [Blue Origin's New Glenn blows up during static fire test](https://twitter.com/nasaspaceflight/status/2060164928472854821)
