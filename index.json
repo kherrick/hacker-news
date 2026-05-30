@@ -1,6 +1,66 @@
 [
   [
     [
+      "2026-05-30, 20:54:22",
+      "https://news.ycombinator.com/item?id=48340528"
+    ],
+    [
+      "Kore: Binary File Format Optimized for Modern Data Systems (Open Source)",
+      "https://github.com/arunkatherashala/Kore"
+    ]
+  ],
+  [
+    [
+      "2026-05-30, 20:40:57",
+      "https://news.ycombinator.com/item?id=48340411"
+    ],
+    [
+      "Domain Expertise Has Always Been the Real Moat",
+      "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/"
+    ]
+  ],
+  [
+    [
+      "2026-05-30, 20:24:26",
+      "https://news.ycombinator.com/item?id=48340262"
+    ],
+    [
+      "Dusklight – GC Twilight Princess Decompiled",
+      "https://twilitrealm.dev/"
+    ]
+  ],
+  [
+    [
+      "2026-05-30, 20:05:21",
+      "https://news.ycombinator.com/item?id=48340107"
+    ],
+    [
+      "A disappearing Service Processor (2025)",
+      "https://oxide.computer/blog/cosmo-sp"
+    ]
+  ],
+  [
+    [
+      "2026-05-30, 19:47:36",
+      "https://news.ycombinator.com/item?id=48339943"
+    ],
+    [
+      "Parallel Reconstruction of Lawful TLS Wiretapping",
+      "https://remyhax.xyz/posts/reproducing-lawful-tls-wiretapping/"
+    ]
+  ],
+  [
+    [
+      "2026-05-30, 19:42:33",
+      "https://news.ycombinator.com/item?id=48339894"
+    ],
+    [
+      "Jef Raskin, the Visionary Behind the Mac (2013)",
+      "https://lowendmac.com/2013/jef-raskin-the-visionary-behind-the-mac/"
+    ]
+  ],
+  [
+    [
       "2026-05-30, 19:23:36",
       "https://news.ycombinator.com/item?id=48339753"
     ],
@@ -15,8 +75,18 @@
       "https://news.ycombinator.com/item?id=48339580"
     ],
     [
-      "Ernst & Young published cybersecurity report full of hallucinations",
+      "EY Canada published a cybersecurity report and most citations were hallucinated",
       "https://gptzero.me/investigations/ey"
+    ]
+  ],
+  [
+    [
+      "2026-05-30, 18:19:44",
+      "https://news.ycombinator.com/item?id=48339186"
+    ],
+    [
+      "We are constantly broadcasting emotional data",
+      "https://www.tonyrice.me/emotional-intelligence/"
     ]
   ],
   [
@@ -27,16 +97,6 @@
     [
       "Hormuz crisis side effect: a sharp rise in container shipping rates",
       "https://www.lloydslist.com/LL1157327/Hormuz-crisis-side-effect-a-sharp-rise-in-container-shipping-rates"
-    ]
-  ],
-  [
-    [
-      "2026-05-30, 17:49:48",
-      "https://news.ycombinator.com/item?id=48338887"
-    ],
-    [
-      "Let's talk about EU Sovereignty (2025)",
-      "https://musings.martyn.berlin/lets-talk-about-eu-sovereignty"
     ]
   ],
   [
@@ -75,8 +135,8 @@
       "https://news.ycombinator.com/item?id=48337987"
     ],
     [
-      "Downdetector and Speedtest sold to Accenture for $1.2B",
-      "https://www.theverge.com/tech/889234/downdetector-ookla-speedtest-sold-accenture"
+      "Accenture to acquire Ookla",
+      "https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises"
     ]
   ],
   [
@@ -91,32 +151,12 @@
   ],
   [
     [
-      "2026-05-30, 15:15:23",
-      "https://news.ycombinator.com/item?id=48337137"
-    ],
-    [
-      "A Probabilistic Algorithm for Repairing All Roads in Lebanon via Papal Visits (2025)",
-      "https://sigbovik.org/2026/proceedings.pdf#%5B%7B%22num%22%3A13%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C72%2C720%2Cnull%5D"
-    ]
-  ],
-  [
-    [
       "2026-05-30, 14:25:50",
       "https://news.ycombinator.com/item?id=48336564"
     ],
     [
-      "Voxel Space",
+      "Voxel Space (2017)",
       "https://s-macke.github.io/VoxelSpace/"
-    ]
-  ],
-  [
-    [
-      "2026-05-30, 14:03:31",
-      "https://news.ycombinator.com/item?id=48336312"
-    ],
-    [
-      "Memory decline after menopause linked to loss of estrogen production in brain",
-      "https://news.northwestern.edu/stories/2026/05/memory-decline-after-menopause-linked-to-loss-of-estrogen-production-in-brain-tissue"
     ]
   ],
   [
@@ -141,6 +181,16 @@
   ],
   [
     [
+      "2026-05-30, 10:30:50",
+      "https://news.ycombinator.com/item?id=48334710"
+    ],
+    [
+      "Leo's first encyclical attacks technological messianism",
+      "https://www.economist.com/europe/2026/05/28/leos-first-encyclical-attacks-technological-messianism"
+    ]
+  ],
+  [
+    [
       "2026-05-30, 09:56:42",
       "https://news.ycombinator.com/item?id=48334515"
     ],
@@ -161,52 +211,12 @@
   ],
   [
     [
-      "2026-05-30, 06:58:23",
-      "https://news.ycombinator.com/item?id=48333440"
-    ],
-    [
-      "Macsurf, \"modern\" web browser for macOS 9",
-      "https://github.com/mplsllc/macsurf"
-    ]
-  ],
-  [
-    [
-      "2026-05-29, 22:56:49",
-      "https://news.ycombinator.com/item?id=48330436"
-    ],
-    [
-      "MCP is dead?",
-      "https://www.quandri.io/engineering-blog/mcp-is-dead"
-    ]
-  ],
-  [
-    [
-      "2026-05-29, 19:58:56",
-      "https://news.ycombinator.com/item?id=48328405"
-    ],
-    [
-      "The Last Technical Interview",
-      "https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564"
-    ]
-  ],
-  [
-    [
       "2026-05-29, 17:54:50",
       "https://news.ycombinator.com/item?id=48326802"
     ],
     [
       "SQLite is all you need for durable workflows",
       "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/"
-    ]
-  ],
-  [
-    [
-      "2026-05-29, 16:22:01",
-      "https://news.ycombinator.com/item?id=48325340"
-    ],
-    [
-      "Notes from the Mistral AI Now Summit",
-      "https://koenvangilst.nl/lab/mistral-ai-now-summit"
     ]
   ],
   [
@@ -221,12 +231,12 @@
   ],
   [
     [
-      "2026-05-29, 12:00:24",
-      "https://news.ycombinator.com/item?id=48322025"
+      "2026-05-29, 02:49:43",
+      "https://news.ycombinator.com/item?id=48318402"
     ],
     [
-      "Testing the WWI concrete ships and WWII concrete barges",
-      "https://thecretefleet.com/blog/f/testing-the-wwi-concrete-ships-and-wwii-concrete-barges"
+      "I found a seashell in the middle of the desert",
+      "https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert"
     ]
   ],
   [
@@ -261,22 +271,12 @@
   ],
   [
     [
-      "2026-05-26, 19:12:59",
-      "https://news.ycombinator.com/item?id=48284494"
+      "2026-05-26, 17:59:15",
+      "https://news.ycombinator.com/item?id=48283312"
     ],
     [
-      "Snowboard Kids 2 is 100% Decompiled",
-      "https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/"
-    ]
-  ],
-  [
-    [
-      "2026-05-26, 18:05:42",
-      "https://news.ycombinator.com/item?id=48283410"
-    ],
-    [
-      "Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer",
-      "https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/"
+      "Shakespeare's World – I thought this would be simple but",
+      "https://knowwhereconsulting.co.uk/blog/shakespeares-world/"
     ]
   ],
   [
