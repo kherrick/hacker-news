@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-05-30, 20:54:22",
-      "https://news.ycombinator.com/item?id=48340528"
-    ],
-    [
-      "Kore: Binary File Format Optimized for Modern Data Systems (Open Source)",
-      "https://github.com/arunkatherashala/Kore"
-    ]
-  ],
-  [
-    [
       "2026-05-30, 20:46:54",
       "https://news.ycombinator.com/item?id=48340448"
     ],
@@ -47,6 +37,16 @@
     [
       "Dusklight – GC Twilight Princess Decompiled",
       "https://twilitrealm.dev/"
+    ]
+  ],
+  [
+    [
+      "2026-05-30, 20:05:21",
+      "https://news.ycombinator.com/item?id=48340107"
+    ],
+    [
+      "A disappearing Service Processor (2025)",
+      "https://oxide.computer/blog/cosmo-sp"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2026-05-29, 13:28:01",
-      "https://news.ycombinator.com/item?id=48322853"
-    ],
-    [
-      "Stateless Actors",
-      "https://www.massicotte.org/stateless-actors/"
-    ]
-  ],
-  [
-    [
       "2026-05-29, 02:49:43",
       "https://news.ycombinator.com/item?id=48318402"
     ],
@@ -261,6 +251,16 @@
   ],
   [
     [
+      "2026-05-27, 13:29:40",
+      "https://news.ycombinator.com/item?id=48294057"
+    ],
+    [
+      "90% of the T Distribution",
+      "https://entropicthoughts.com/ninety-percent-of-the-t-distribution"
+    ]
+  ],
+  [
+    [
       "2026-05-26, 22:15:28",
       "https://news.ycombinator.com/item?id=48286745"
     ],
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=48283312"
     ],
     [
-      "Shakespeare's World – I thought this would be simple but",
+      "Shakespeare’s World – I thought this would be simple but",
       "https://knowwhereconsulting.co.uk/blog/shakespeares-world/"
     ]
   ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=48282335"
     ],
     [
-      "It Takes Two Neurons to Ride a Bicycle",
+      "It takes two neurons to ride a bicycle (2004)",
       "https://fermatslibrary.com/s/it-takes-two-neurons-to-ride-a-bicycle#email-newsletter"
     ]
   ],
