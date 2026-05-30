@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-05-30, 18:14:35",
+      "https://news.ycombinator.com/item?id=48339127"
+    ],
+    [
+      "White House's Aliens.gov Site Brags That ICE Arrested More Than 700 US Citizens",
+      "https://www.wired.com/story/white-house-aliens-gov-us-citizens-arrested/"
+    ]
+  ],
+  [
+    [
+      "2026-05-30, 17:49:48",
+      "https://news.ycombinator.com/item?id=48338887"
+    ],
+    [
+      "Let's talk about EU Sovereignty (2025)",
+      "https://musings.martyn.berlin/lets-talk-about-eu-sovereignty"
+    ]
+  ],
+  [
+    [
+      "2026-05-30, 17:29:22",
+      "https://news.ycombinator.com/item?id=48338673"
+    ],
+    [
+      "Zig ELF Linker Improvements Devlog",
+      "https://ziglang.org/devlog/2026/#2026-05-30"
+    ]
+  ],
+  [
+    [
+      "2026-05-30, 17:27:28",
+      "https://news.ycombinator.com/item?id=48338660"
+    ],
+    [
+      "OpenRouter raises $113M Series B",
+      "https://openrouter.ai/announcements/series-b"
+    ]
+  ],
+  [
+    [
+      "2026-05-30, 17:27:13",
+      "https://news.ycombinator.com/item?id=48338656"
+    ],
+    [
+      "Microcode inside the Intel 8087 floating-point chip: register exchange",
+      "https://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html"
+    ]
+  ],
+  [
+    [
       "2026-05-30, 16:28:58",
       "https://news.ycombinator.com/item?id=48337987"
     ],
@@ -35,7 +85,7 @@
       "https://news.ycombinator.com/item?id=48337137"
     ],
     [
-      "A Probabilistic Algorithm for Repairing All Roads in Lebanon via Papal Visits",
+      "A Probabilistic Algorithm for Repairing All Roads in Lebanon via Papal Visits (2025)",
       "https://sigbovik.org/2026/proceedings.pdf#%5B%7B%22num%22%3A13%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C72%2C720%2Cnull%5D"
     ]
   ],
@@ -61,26 +111,6 @@
   ],
   [
     [
-      "2026-05-30, 13:56:34",
-      "https://news.ycombinator.com/item?id=48336233"
-    ],
-    [
-      "Anthropic surpasses OpenAI to become most valuable AI startup",
-      "https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup"
-    ]
-  ],
-  [
-    [
-      "2026-05-30, 11:41:29",
-      "https://news.ycombinator.com/item?id=48335135"
-    ],
-    [
-      "Proposed new US funding rules: We can cancel any grant at any time",
-      "https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/"
-    ]
-  ],
-  [
-    [
       "2026-05-30, 11:08:37",
       "https://news.ycombinator.com/item?id=48334949"
     ],
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2026-05-30, 10:30:50",
-      "https://news.ycombinator.com/item?id=48334710"
-    ],
-    [
-      "Leo's first encyclical attacks technological messianism",
-      "https://www.economist.com/europe/2026/05/28/leos-first-encyclical-attacks-technological-messianism"
-    ]
-  ],
-  [
-    [
       "2026-05-30, 09:56:42",
       "https://news.ycombinator.com/item?id=48334515"
     ],
@@ -127,16 +147,6 @@
     [
       "Zig: Build System Reworked",
       "https://ziglang.org/devlog/2026/#2026-05-26"
-    ]
-  ],
-  [
-    [
-      "2026-05-30, 08:00:20",
-      "https://news.ycombinator.com/item?id=48333820"
-    ],
-    [
-      "Danish pension fund excludes SpaceX citing governance and valuation",
-      "https://www.reuters.com/legal/transactional/danish-pension-fund-excludes-spacex-citing-governance-valuation-2026-05-29/"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "The Last Technical Interview",
       "https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564"
-    ]
-  ],
-  [
-    [
-      "2026-05-29, 19:16:32",
-      "https://news.ycombinator.com/item?id=48327962"
-    ],
-    [
-      "Shift will clean homes for free to train future robots",
-      "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning"
     ]
   ],
   [
@@ -217,6 +217,16 @@
     [
       "It's hard to justify buying a Framework 12",
       "https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/"
+    ]
+  ],
+  [
+    [
+      "2026-05-29, 13:28:01",
+      "https://news.ycombinator.com/item?id=48322853"
+    ],
+    [
+      "Stateless Actors",
+      "https://www.massicotte.org/stateless-actors/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "What Happened to the Locusts?",
       "https://explosion-scratch.github.io/locusts/"
-    ]
-  ],
-  [
-    [
-      "2026-05-26, 13:22:13",
-      "https://news.ycombinator.com/item?id=48279499"
-    ],
-    [
-      "Floor and Ceil versus Denormals on CPU and GPU",
-      "https://asawicki.info/news_1802_floor_and_ceil_versus_denormals_on_cpu_and_gpu"
     ]
   ]
 ]
