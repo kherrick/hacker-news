@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2026-05-30](index.md)
 
 * [2026-05-30, 20:54:22](https://news.ycombinator.com/item?id=48340528) - [Kore: Binary File Format Optimized for Modern Data Systems (Open Source)](https://github.com/arunkatherashala/Kore)
+* [2026-05-30, 20:46:54](https://news.ycombinator.com/item?id=48340448) - [Design Engineering Magazine](https://interfaces.dev/)
+* [2026-05-30, 20:42:28](https://news.ycombinator.com/item?id=48340422) - [wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack](https://github.com/wolfSSL/wolfCOSE)
 * [2026-05-30, 20:40:57](https://news.ycombinator.com/item?id=48340411) - [Domain Expertise Has Always Been the Real Moat](https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/)
 * [2026-05-30, 20:24:26](https://news.ycombinator.com/item?id=48340262) - [Dusklight – GC Twilight Princess Decompiled](https://twilitrealm.dev/)
 * [2026-05-30, 20:05:21](https://news.ycombinator.com/item?id=48340107) - [A disappearing Service Processor (2025)](https://oxide.computer/blog/cosmo-sp)
