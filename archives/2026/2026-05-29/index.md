@@ -49,6 +49,7 @@
 * [2026-05-29, 12:17:55](https://news.ycombinator.com/item?id=48322154) - [The UK Government's Low Value Purchase System Is a Waste of Time](https://shkspr.mobi/blog/2026/05/the-uk-governments-low-value-purchase-system-is-a-waste-of-time/)
 * [2026-05-29, 12:12:16](https://news.ycombinator.com/item?id=48322118) - [We should be more tired than the model](https://vickiboykis.com/2026/05/28/we-should-be-more-tired-than-the-model/)
 * [2026-05-29, 12:01:00](https://news.ycombinator.com/item?id=48322030) - [Cedana (YC S23) Is Hiring](https://www.ycombinator.com/companies/cedana/jobs/d1vYocG-forward-deployed-engineer-ai-hpc)
+* [2026-05-29, 12:00:24](https://news.ycombinator.com/item?id=48322025) - [Testing the WWI concrete ships and WWII concrete barges](https://thecretefleet.com/blog/f/testing-the-wwi-concrete-ships-and-wwii-concrete-barges)
 * [2026-05-29, 11:51:34](https://news.ycombinator.com/item?id=48321956) - [Tulip mania: when a single flower was worth more than a house](https://dutchreview.com/culture/tulip-mania-netherlands/)
 * [2026-05-29, 11:09:32](https://news.ycombinator.com/item?id=48321631) - [Is AI causing a repeat of Front end's Lost Decade?](https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/)
 * [2026-05-29, 10:42:53](https://news.ycombinator.com/item?id=48321421) - [Digital Identity Management in Norway Is a Catastrophe](https://www.uio.no/english/research/research-news/articles/2026/digital-id-management-is-a-catastrophe.html)
