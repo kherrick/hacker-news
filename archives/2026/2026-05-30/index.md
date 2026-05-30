@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-05-30](index.md)
 
+* [2026-05-30, 11:41:29](https://news.ycombinator.com/item?id=48335135) - [Proposed new US funding rules: We can cancel any grant at any time](https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/)
+* [2026-05-30, 11:08:37](https://news.ycombinator.com/item?id=48334949) - [Show HN: Helios – what plug-in solar could generate for any address in Britain](https://helios.southlondonscientific.com/)
+* [2026-05-30, 10:30:50](https://news.ycombinator.com/item?id=48334710) - [Leo's first encyclical attacks technological messianism](https://www.economist.com/europe/2026/05/28/leos-first-encyclical-attacks-technological-messianism)
 * [2026-05-30, 09:56:42](https://news.ycombinator.com/item?id=48334515) - [Pandoc Templates](https://pandoc-templates.org/)
 * [2026-05-30, 09:18:49](https://news.ycombinator.com/item?id=48334283) - [The Kaiser and a \"Mediocre Man\" Theory of History](https://www.deadcarl.com/p/the-kaiser-and-a-mediocre-man-theory)
 * [2026-05-30, 08:38:28](https://news.ycombinator.com/item?id=48334048) - [Zig: Build System Reworked](https://ziglang.org/devlog/2026/#2026-05-26)

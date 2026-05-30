@@ -22,6 +22,7 @@
 * [2026-05-26, 17:17:12](https://news.ycombinator.com/item?id=48282709) - [Stack Overflow's forum is dead thanks to AI](https://wiert.me/2026/05/26/stack-overflows-forum-is-dead-thanks-to-ai-but-the-companys-still-kicking-thanks-to-ai-sherwood-news/)
 * [2026-05-26, 17:00:40](https://news.ycombinator.com/item?id=48282478) - [Sage Care (YC S24) Is Hiring Software Engineers](https://www.ycombinator.com/companies/sagecare/jobs/xtloH8r-senior-software-engineer)
 * [2026-05-26, 16:41:58](https://news.ycombinator.com/item?id=48282180) - [Indoor Wi-Fi Roaming with OpenWRT](https://taoofmac.com/space/blog/2026/05/26/1730)
+* [2026-05-26, 16:31:43](https://news.ycombinator.com/item?id=48282025) - [Understand Anything – Graphs that teach the codebase](https://understand-anything.com/)
 * [2026-05-26, 16:15:17](https://news.ycombinator.com/item?id=48281772) - [What Happened to the Locusts?](https://explosion-scratch.github.io/locusts/)
 * [2026-05-26, 16:04:39](https://news.ycombinator.com/item?id=48281611) - [The real cost of owning a home](https://ericturner.dev/posts/cost-of-home-ownership/)
 * [2026-05-26, 16:00:21](https://news.ycombinator.com/item?id=48281539) - [Is \"colorectal cancer\" rising in \"young people\"?](https://dynomight.net/crc-rates/)
