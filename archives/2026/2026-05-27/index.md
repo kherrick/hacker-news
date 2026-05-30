@@ -25,6 +25,7 @@
 * [2026-05-27, 17:24:25](https://news.ycombinator.com/item?id=48297467) - [Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS](https://brennan.day/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https/)
 * [2026-05-27, 17:01:05](https://news.ycombinator.com/item?id=48297116) - [Reflex (YC W23) Is Hiring SWEs, Growth, and GTM Roles](https://www.ycombinator.com/companies/reflex/jobs)
 * [2026-05-27, 16:53:25](https://news.ycombinator.com/item?id=48296994) - [Canada to order military plane fleet from Sweden in shift from US suppliers](https://www.theguardian.com/world/2026/may/27/canada-sweden-saab-globaleye-aircraft)
+* [2026-05-27, 16:50:10](https://news.ycombinator.com/item?id=48296946) - [A new register allocator for ZJIT](https://railsatscale.com/2026-05-27-a-new-register-allocator-for-zjit/)
 * [2026-05-27, 16:42:04](https://news.ycombinator.com/item?id=48296834) - [What Did the Hudson River School Painters See?](https://www.nytimes.com/2026/05/25/travel/hudson-valley-painting-thomas-cole-frederic-church.html)
 * [2026-05-27, 16:39:13](https://news.ycombinator.com/item?id=48296794) - [I think Anthropic and OpenAI have found product-market fit](https://simonwillison.net/2026/May/27/product-market-fit/)
 * [2026-05-27, 16:28:41](https://news.ycombinator.com/item?id=48296649) - [DuckDuckGo search saw 28% more visits after Google said people love AI mode](https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/)
