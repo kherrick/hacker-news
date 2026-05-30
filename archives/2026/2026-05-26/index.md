@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-05-26](index.md)
 
 * [2026-05-26, 23:36:06](https://news.ycombinator.com/item?id=48287468) - [Cloudflare Flagship](https://developers.cloudflare.com/flagship/)
+* [2026-05-26, 22:15:28](https://news.ycombinator.com/item?id=48286745) - [Navier-Stokes fluid simulation explained with Godot game engine](https://myzopotamia.dev/navier-stokes-fluid-simulation-explained-with-godot)
 * [2026-05-26, 21:57:03](https://news.ycombinator.com/item?id=48286561) - [From Rust to Ruby](https://xlii.space/eng/from-rust-to-ruby/)
 * [2026-05-26, 21:11:40](https://news.ycombinator.com/item?id=48286028) - [Phloto for My Photo Flow](https://cceckman.com/writing/phloto/)
 * [2026-05-26, 20:33:24](https://news.ycombinator.com/item?id=48285592) - [Big tech's anti-labor playbook has come for Wikipedia](https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943)

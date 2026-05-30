@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-05-30](index.md)
 
+* [2026-05-30, 13:56:34](https://news.ycombinator.com/item?id=48336233) - [Anthropic surpasses OpenAI to become most valuable AI startup](https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup)
+* [2026-05-30, 12:25:08](https://news.ycombinator.com/item?id=48335442) - [Adding Linux support back for the BASIC (free) version of Vivado](https://adaptivesupport.amd.com/s/question/0D5Pd00001aT5IcKAK/adding-linux-support-back-for-the-basic-free-version-of-vivado?language=en_US)
+* [2026-05-30, 12:17:33](https://news.ycombinator.com/item?id=48335388) - [Corporate America Is Starting to Ration AI as Cost Skyrockets](https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a)
 * [2026-05-30, 11:41:29](https://news.ycombinator.com/item?id=48335135) - [Proposed new US funding rules: We can cancel any grant at any time](https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/)
 * [2026-05-30, 11:08:37](https://news.ycombinator.com/item?id=48334949) - [Show HN: Helios – what plug-in solar could generate for any address in Britain](https://helios.southlondonscientific.com/)
+* [2026-05-30, 10:51:48](https://news.ycombinator.com/item?id=48334854) - [Openrsync: An implementation of rsync, by the OpenBSD team](https://github.com/kristapsdz/openrsync)
 * [2026-05-30, 10:30:50](https://news.ycombinator.com/item?id=48334710) - [Leo's first encyclical attacks technological messianism](https://www.economist.com/europe/2026/05/28/leos-first-encyclical-attacks-technological-messianism)
 * [2026-05-30, 09:56:42](https://news.ycombinator.com/item?id=48334515) - [Pandoc Templates](https://pandoc-templates.org/)
 * [2026-05-30, 09:18:49](https://news.ycombinator.com/item?id=48334283) - [The Kaiser and a \"Mediocre Man\" Theory of History](https://www.deadcarl.com/p/the-kaiser-and-a-mediocre-man-theory)
@@ -13,6 +17,7 @@
 * [2026-05-30, 08:32:57](https://news.ycombinator.com/item?id=48334021) - [Rsync 3.4.3 has hundreds of Claude commits](https://mastodon.gamedev.place/@JeremiahFieldhaven/116654345332213390)
 * [2026-05-30, 08:04:57](https://news.ycombinator.com/item?id=48333844) - [Iron-rich immune cells help homing pigeons navigate](https://www.science.org/content/article/mind-blowing-iron-rich-immune-cells-help-homing-pigeons-navigate)
 * [2026-05-30, 08:00:20](https://news.ycombinator.com/item?id=48333820) - [Danish pension fund excludes SpaceX citing governance and valuation](https://www.reuters.com/legal/transactional/danish-pension-fund-excludes-spacex-citing-governance-valuation-2026-05-29/)
+* [2026-05-30, 06:58:23](https://news.ycombinator.com/item?id=48333440) - [Macsurf, \"modern\" web browser for macOS 9](https://github.com/mplsllc/macsurf)
 * [2026-05-30, 06:00:32](https://news.ycombinator.com/item?id=48333096) - [OpenRCT2 v0.5.1 \"Swamp Castle\" released Last version to support Windows 7](https://openrct2.io/blog/2026/05/openrct2-v0.5.1-released)
 * [2026-05-30, 03:14:25](https://news.ycombinator.com/item?id=48332151) - [Perry Compiles TypeScript directly to executables using SWC and LLVM](https://www.perryts.com/)
 * [2026-05-30, 03:07:25](https://news.ycombinator.com/item?id=48332098) - [Show HN: VT Code – open-source terminal coding agent in Rust](https://github.com/vinhnx/VTCode)

@@ -18,6 +18,7 @@
 * [2026-05-27, 19:51:47](https://news.ycombinator.com/item?id=48299623) - [Rust (and Slint) on a Jailbroken Kindle](https://sverre.me/blog/rust-on-kindle/)
 * [2026-05-27, 19:31:47](https://news.ycombinator.com/item?id=48299335) - [On Labubu and the Hyperreal](https://2earth.github.io/website/20260525.html)
 * [2026-05-27, 19:24:10](https://news.ycombinator.com/item?id=48299220) - [What Apple and Google are doing to your push notifications](https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications)
+* [2026-05-27, 19:03:17](https://news.ycombinator.com/item?id=48298912) - [IXI's autofocusing lenses are almost ready to replace multifocal glasses](https://www.engadget.com/wearables/ixis-autofocusing-lenses-multifocal-glasses-ces-2026-212608427.html)
 * [2026-05-27, 18:56:32](https://news.ycombinator.com/item?id=48298819) - [Thornton Wilder's Last Play Vanished into Thin Air. Or Did It?](https://www.nytimes.com/2026/05/27/theater/thornton-wilder-emporium-last-play.html)
 * [2026-05-27, 17:58:47](https://news.ycombinator.com/item?id=48297976) - [Valve raises Steam Deck prices by more than $200](https://www.theverge.com/games/938340/valve-steam-deck-price-increase)
 * [2026-05-27, 17:42:24](https://news.ycombinator.com/item?id=48297723) - [Multi-Agent LLM System for Automated Vulnerability Discovery and Reproduction](https://arxiv.org/abs/2605.21779)
