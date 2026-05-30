@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-05-30](index.md)
 
+* [2026-05-30, 19:23:36](https://news.ycombinator.com/item?id=48339753) - [Show HN: 500 years of Joseon court omens as an observability dashboard](https://ajin.im/is/building/omen.ops/)
+* [2026-05-30, 19:02:54](https://news.ycombinator.com/item?id=48339580) - [Ernst & Young published cybersecurity report full of hallucinations](https://gptzero.me/investigations/ey)
+* [2026-05-30, 18:19:23](https://news.ycombinator.com/item?id=48339180) - [Hormuz crisis side effect: a sharp rise in container shipping rates](https://www.lloydslist.com/LL1157327/Hormuz-crisis-side-effect-a-sharp-rise-in-container-shipping-rates)
 * [2026-05-30, 18:14:35](https://news.ycombinator.com/item?id=48339127) - [White House's Aliens.gov Site Brags That ICE Arrested More Than 700 US Citizens](https://www.wired.com/story/white-house-aliens-gov-us-citizens-arrested/)
 * [2026-05-30, 17:49:48](https://news.ycombinator.com/item?id=48338887) - [Let's talk about EU Sovereignty (2025)](https://musings.martyn.berlin/lets-talk-about-eu-sovereignty)
 * [2026-05-30, 17:29:22](https://news.ycombinator.com/item?id=48338673) - [Zig ELF Linker Improvements Devlog](https://ziglang.org/devlog/2026/#2026-05-30)
