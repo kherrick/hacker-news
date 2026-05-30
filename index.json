@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-05-30, 08:32:57",
-      "https://news.ycombinator.com/item?id=48334021"
+      "2026-05-30, 09:56:42",
+      "https://news.ycombinator.com/item?id=48334515"
     ],
     [
-      "Rsync 3.4.3 has hundreds of Claude commits",
-      "https://mastodon.gamedev.place/@JeremiahFieldhaven/116654345332213390"
+      "Pandoc Templates",
+      "https://pandoc-templates.org/"
+    ]
+  ],
+  [
+    [
+      "2026-05-30, 09:18:49",
+      "https://news.ycombinator.com/item?id=48334283"
+    ],
+    [
+      "The Kaiser and a \"Mediocre Man\" Theory of History",
+      "https://www.deadcarl.com/p/the-kaiser-and-a-mediocre-man-theory"
+    ]
+  ],
+  [
+    [
+      "2026-05-30, 08:38:28",
+      "https://news.ycombinator.com/item?id=48334048"
+    ],
+    [
+      "Zig: Build System Reworked",
+      "https://ziglang.org/devlog/2026/#2026-05-26"
     ]
   ],
   [
@@ -57,16 +77,6 @@
     [
       "Naphtha shortages in Japan",
       "https://www.nippon.com/en/japan-data/h02783/"
-    ]
-  ],
-  [
-    [
-      "2026-05-29, 23:54:22",
-      "https://news.ycombinator.com/item?id=48330882"
-    ],
-    [
-      "What Is a Dickover?",
-      "https://daringfireball.net/2026/05/what_is_a_dickover"
     ]
   ],
   [
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2026-05-29, 15:54:28",
-      "https://news.ycombinator.com/item?id=48324853"
-    ],
-    [
-      "You can just say it",
-      "https://noperator.dev/posts/you-can-just-say-it/"
-    ]
-  ],
-  [
-    [
       "2026-05-29, 15:46:24",
       "https://news.ycombinator.com/item?id=48324712"
     ],
@@ -207,26 +207,6 @@
     [
       "Is AI causing a repeat of frontend’s lost decade?",
       "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/"
-    ]
-  ],
-  [
-    [
-      "2026-05-29, 00:09:35",
-      "https://news.ycombinator.com/item?id=48317294"
-    ],
-    [
-      "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
-      "https://minimaxir.com/2026/05/openrouter-hy3/"
-    ]
-  ],
-  [
-    [
-      "2026-05-28, 14:13:00",
-      "https://news.ycombinator.com/item?id=48309233"
-    ],
-    [
-      "Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM",
-      "https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions"
     ]
   ],
   [
@@ -297,6 +277,26 @@
     [
       "Algebraic Effects for the Rest of Us",
       "https://overreacted.io/algebraic-effects-for-the-rest-of-us/"
+    ]
+  ],
+  [
+    [
+      "2026-05-26, 16:15:17",
+      "https://news.ycombinator.com/item?id=48281772"
+    ],
+    [
+      "What Happened to the Locusts?",
+      "https://explosion-scratch.github.io/locusts/"
+    ]
+  ],
+  [
+    [
+      "2026-05-26, 13:22:13",
+      "https://news.ycombinator.com/item?id=48279499"
+    ],
+    [
+      "Floor and Ceil versus Denormals on CPU and GPU",
+      "https://asawicki.info/news_1802_floor_and_ceil_versus_denormals_on_cpu_and_gpu"
     ]
   ]
 ]
