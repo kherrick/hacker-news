@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-05-30, 06:00:32",
+      "https://news.ycombinator.com/item?id=48333096"
+    ],
+    [
+      "OpenRCT2 v0.5.1 \"Swamp Castle\" released Last version to support Windows 7",
+      "https://openrct2.io/blog/2026/05/openrct2-v0.5.1-released"
+    ]
+  ],
+  [
+    [
       "2026-05-30, 03:14:25",
       "https://news.ycombinator.com/item?id=48332151"
     ],
@@ -11,32 +21,12 @@
   ],
   [
     [
-      "2026-05-30, 03:07:25",
-      "https://news.ycombinator.com/item?id=48332098"
-    ],
-    [
-      "Show HN: VT Code – open-source terminal coding agent in Rust",
-      "https://github.com/vinhnx/VTCode"
-    ]
-  ],
-  [
-    [
       "2026-05-30, 02:20:40",
       "https://news.ycombinator.com/item?id=48331786"
     ],
     [
-      "Naphtha Shortages Having a Growing Impact in Japan",
+      "Naphtha shortages in Japan",
       "https://www.nippon.com/en/japan-data/h02783/"
-    ]
-  ],
-  [
-    [
-      "2026-05-30, 01:39:52",
-      "https://news.ycombinator.com/item?id=48331511"
-    ],
-    [
-      "WH proposes rules giving political appointees final approval on research grants",
-      "https://www.scientificamerican.com/article/white-house-proposes-new-rules-giving-political-appointees-final-say-on-research-grants/"
     ]
   ],
   [
@@ -71,22 +61,22 @@
   ],
   [
     [
-      "2026-05-29, 22:21:58",
-      "https://news.ycombinator.com/item?id=48330088"
+      "2026-05-29, 22:32:29",
+      "https://news.ycombinator.com/item?id=48330192"
     ],
     [
-      "Free full BGP feed. IPv4 and IPv6 (2020)",
-      "https://lukasz.bromirski.net/post/bgp-w-labie-3/"
+      "Show HN: Open-source private home security camera system (end-to-end encryption)",
+      "https://github.com/secluso/core"
     ]
   ],
   [
     [
-      "2026-05-29, 19:55:56",
-      "https://news.ycombinator.com/item?id=48328365"
+      "2026-05-29, 19:58:56",
+      "https://news.ycombinator.com/item?id=48328405"
     ],
     [
-      "The California state assembly has passed the 'Protect Our Games Act'",
-      "https://www.invenglobal.com/articles/22330/stop-killing-games-movement-gains-momentum-california-assembly-passes-game-protection-bill"
+      "The Last Technical Interview",
+      "https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564"
     ]
   ],
   [
@@ -127,16 +117,6 @@
     [
       "SQLite is all you need for durable workflows",
       "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/"
-    ]
-  ],
-  [
-    [
-      "2026-05-29, 17:39:49",
-      "https://news.ycombinator.com/item?id=48326561"
-    ],
-    [
-      "Letter from the Duke of Wellington to the British Foreign Office (1809)",
-      "https://wellsoc.org/society-member-pages/anecdotes-of-wellington/"
     ]
   ],
   [
@@ -271,6 +251,16 @@
   ],
   [
     [
+      "2026-05-27, 16:50:10",
+      "https://news.ycombinator.com/item?id=48296946"
+    ],
+    [
+      "A new register allocator for ZJIT",
+      "https://railsatscale.com/2026-05-27-a-new-register-allocator-for-zjit/"
+    ]
+  ],
+  [
+    [
       "2026-05-27, 12:18:19",
       "https://news.ycombinator.com/item?id=48293119"
     ],
@@ -297,6 +287,16 @@
     [
       "Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer",
       "https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/"
+    ]
+  ],
+  [
+    [
+      "2026-05-26, 17:38:51",
+      "https://news.ycombinator.com/item?id=48283009"
+    ],
+    [
+      "Algebraic Effects for the Rest of Us",
+      "https://overreacted.io/algebraic-effects-for-the-rest-of-us/"
     ]
   ]
 ]
