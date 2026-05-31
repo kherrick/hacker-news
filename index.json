@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-05-30, 23:26:13",
+      "https://news.ycombinator.com/item?id=48341578"
+    ],
+    [
+      "Microsoft degrades functionality of perpetually-licensed offline products",
+      "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)"
+    ]
+  ],
+  [
+    [
+      "2026-05-30, 23:17:52",
+      "https://news.ycombinator.com/item?id=48341532"
+    ],
+    [
+      "I am against GenAI and everything it stands for",
+      "https://lpcvoid.com/blog/0018_why_i_am_against_genai/index.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-30, 23:14:18",
+      "https://news.ycombinator.com/item?id=48341505"
+    ],
+    [
+      "Custom Errors Are Non-Negotiable in My Rust Applications",
+      "https://tristonarmstrong.com/blog/custom-errors-are-non-negotiable-in-my-rust-applications"
+    ]
+  ],
+  [
+    [
+      "2026-05-30, 22:58:41",
+      "https://news.ycombinator.com/item?id=48341407"
+    ],
+    [
+      "Cheese Paper: a text editor specifically designed for writing",
+      "https://brie.gay/cheese-paper/"
+    ]
+  ],
+  [
+    [
+      "2026-05-30, 22:06:38",
+      "https://news.ycombinator.com/item?id=48341062"
+    ],
+    [
+      "Shantell Sans",
+      "https://shantellsans.com/process"
+    ]
+  ],
+  [
+    [
       "2026-05-30, 20:46:54",
       "https://news.ycombinator.com/item?id=48340448"
     ],
@@ -41,16 +91,6 @@
   ],
   [
     [
-      "2026-05-30, 20:05:21",
-      "https://news.ycombinator.com/item?id=48340107"
-    ],
-    [
-      "A disappearing Service Processor (2025)",
-      "https://oxide.computer/blog/cosmo-sp"
-    ]
-  ],
-  [
-    [
       "2026-05-30, 19:47:36",
       "https://news.ycombinator.com/item?id=48339943"
     ],
@@ -77,26 +117,6 @@
     [
       "Show HN: 500 years of Joseon court omens as an observability dashboard",
       "https://ajin.im/is/building/omen.ops/"
-    ]
-  ],
-  [
-    [
-      "2026-05-30, 19:02:54",
-      "https://news.ycombinator.com/item?id=48339580"
-    ],
-    [
-      "EY Canada published a cybersecurity report and most citations were hallucinated",
-      "https://gptzero.me/investigations/ey"
-    ]
-  ],
-  [
-    [
-      "2026-05-30, 18:19:23",
-      "https://news.ycombinator.com/item?id=48339180"
-    ],
-    [
-      "Hormuz crisis side effect: a sharp rise in container shipping rates",
-      "https://www.lloydslist.com/LL1157327/Hormuz-crisis-side-effect-a-sharp-rise-in-container-shipping-rates"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2026-05-30, 11:08:37",
-      "https://news.ycombinator.com/item?id=48334949"
-    ],
-    [
-      "Show HN: Helios – what plug-in solar could generate for any address in Britain",
-      "https://helios.southlondonscientific.com/"
-    ]
-  ],
-  [
-    [
       "2026-05-30, 10:51:48",
       "https://news.ycombinator.com/item?id=48334854"
     ],
@@ -217,6 +227,16 @@
     [
       "I found a seashell in the middle of the desert",
       "https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert"
+    ]
+  ],
+  [
+    [
+      "2026-05-28, 22:29:31",
+      "https://news.ycombinator.com/item?id=48316424"
+    ],
+    [
+      "Gustav Klimt and Egon Schiele in Conversation",
+      "https://www.theparisreview.org/blog/2018/01/31/the-drawings-of-klimt-and-schiele/"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2026-05-26, 17:59:15",
-      "https://news.ycombinator.com/item?id=48283312"
-    ],
-    [
-      "Shakespeare’s World – I thought this would be simple but",
-      "https://knowwhereconsulting.co.uk/blog/shakespeares-world/"
-    ]
-  ],
-  [
-    [
       "2026-05-26, 16:51:55",
       "https://news.ycombinator.com/item?id=48282335"
     ],
     [
       "It takes two neurons to ride a bicycle (2004)",
       "https://fermatslibrary.com/s/it-takes-two-neurons-to-ride-a-bicycle#email-newsletter"
-    ]
-  ],
-  [
-    [
-      "2026-05-26, 16:15:17",
-      "https://news.ycombinator.com/item?id=48281772"
-    ],
-    [
-      "What are locusts and what happened to them?",
-      "https://explosion-scratch.github.io/locusts/"
     ]
   ]
 ]
