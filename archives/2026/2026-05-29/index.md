@@ -34,6 +34,7 @@
 * [2026-05-29, 15:54:28](https://news.ycombinator.com/item?id=48324853) - [You can just say it](https://noperator.dev/posts/you-can-just-say-it/)
 * [2026-05-29, 15:46:24](https://news.ycombinator.com/item?id=48324712) - [The Dead Economy Theory](https://www.owenmcgrann.com/p/the-dead-economy-theory)
 * [2026-05-29, 15:32:55](https://news.ycombinator.com/item?id=48324499) - [GTA 6 Developers Unionize](https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/)
+* [2026-05-29, 15:21:42](https://news.ycombinator.com/item?id=48324288) - [Unix in East Germany (GDR) (1990)](https://groups.google.com/g/comp.unix.wizards/c/QX_dxElrVNs)
 * [2026-05-29, 15:03:32](https://news.ycombinator.com/item?id=48323992) - [Bijou64: A variable-length integer encoding](https://www.inkandswitch.com/tangents/bijou64/)
 * [2026-05-29, 14:55:31](https://news.ycombinator.com/item?id=48323869) - [It's hard to justify buying a Framework 12](https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/)
 * [2026-05-29, 14:40:47](https://news.ycombinator.com/item?id=48323683) - [I am retiring from tech to live offline](https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/)

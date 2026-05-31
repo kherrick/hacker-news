@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-05-31](index.md)
 
+* [2026-05-31, 22:59:50](https://news.ycombinator.com/item?id=48350598) - [Chuwi Minibook X: the netbook we deserve](https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/)
+* [2026-05-31, 21:57:48](https://news.ycombinator.com/item?id=48350149) - [It's Not Just X. It's Y](https://mail.cyberneticforests.com/its-not-just-data-its-post-training/)
+* [2026-05-31, 21:55:33](https://news.ycombinator.com/item?id=48350131) - [Atherton spent $145K to delay train electrification. The rest of us paid $400M](https://peninsulaforeveryone.org/blog/atherton-spent-145k-to-delay-caltrain-electrification-the-rest-of-us-paid-400-million-and-waited-3-extra-years/)
 * [2026-05-31, 20:41:10](https://news.ycombinator.com/item?id=48349527) - [US healthcare still stupidly expensive, with pathetic outcomes, study finds](https://arstechnica.com/health/2026/05/us-healthcare-still-stupidly-expensive-with-pathetic-outcomes-study-finds/)
 * [2026-05-31, 20:38:52](https://news.ycombinator.com/item?id=48349507) - [New solar desalination breakthrough makes fresh water without toxic brine](https://www.sciencedaily.com/releases/2026/05/260530053418.htm)
 * [2026-05-31, 20:35:38](https://news.ycombinator.com/item?id=48349487) - [ChatGPT for Google Sheets Exfiltrates Workbooks](https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration)
