@@ -65,6 +65,7 @@
 * [2026-05-29, 05:45:36](https://news.ycombinator.com/item?id=48319509) - [Volkswagen blocks Home Assistant by requiring client assertion](https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967)
 * [2026-05-29, 04:18:34](https://news.ycombinator.com/item?id=48318978) - [Python utility package for building Claude Code hooks](https://github.com/RasmusGodske/claude-hook-utils)
 * [2026-05-29, 03:32:15](https://news.ycombinator.com/item?id=48318678) - [The most spectacular rocket explosion since N1 just happened in Florida](https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/)
+* [2026-05-29, 03:22:19](https://news.ycombinator.com/item?id=48318624) - [A Gentle Introduction to Lattice-Based Cryptography [pdf]](https://cryptography101.ca/wp-content/uploads/lattice-based-cryptography.pdf)
 * [2026-05-29, 03:14:39](https://news.ycombinator.com/item?id=48318568) - [HeidiSQL – Lightweight MariaDB, MySQL, SQL Server, PostgreSQL and SQLite Manager](https://github.com/HeidiSQL/HeidiSQL)
 * [2026-05-29, 03:07:22](https://news.ycombinator.com/item?id=48318522) - [Let's compile Quake like it's 1997](https://fabiensanglard.net/compile_like_1997/)
 * [2026-05-29, 03:01:00](https://news.ycombinator.com/item?id=48318481) - [Cars are trying to spy on you, and it's only just the beginning](https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse)

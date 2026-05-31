@@ -9,6 +9,8 @@
 * [2026-05-30, 23:14:18](https://news.ycombinator.com/item?id=48341505) - [Custom Errors Are Non-Negotiable in My Rust Applications](https://tristonarmstrong.com/blog/custom-errors-are-non-negotiable-in-my-rust-applications)
 * [2026-05-30, 22:58:41](https://news.ycombinator.com/item?id=48341407) - [Cheese Paper: a text editor specifically designed for writing](https://brie.gay/cheese-paper/)
 * [2026-05-30, 22:06:38](https://news.ycombinator.com/item?id=48341062) - [Shantell Sans](https://shantellsans.com/process)
+* [2026-05-30, 21:46:18](https://news.ycombinator.com/item?id=48340910) - [The AV2 Video Standard Has Released (Final v1.0 Specification)](https://av2.aomedia.org)
+* [2026-05-30, 21:05:40](https://news.ycombinator.com/item?id=48340616) - [Rotary GPU: Exploring Local Execution for Large MoE Models Under Limited VRAM](https://arxiv.org/abs/2605.29135)
 * [2026-05-30, 20:54:22](https://news.ycombinator.com/item?id=48340528) - [Kore: Binary File Format Optimized for Modern Data Systems (Open Source)](https://github.com/arunkatherashala/Kore)
 * [2026-05-30, 20:46:54](https://news.ycombinator.com/item?id=48340448) - [Design Engineering Magazine](https://interfaces.dev/)
 * [2026-05-30, 20:42:28](https://news.ycombinator.com/item?id=48340422) - [wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack](https://github.com/wolfSSL/wolfCOSE)
