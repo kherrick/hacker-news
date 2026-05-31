@@ -1,32 +1,22 @@
 [
   [
     [
+      "2026-05-31, 00:25:12",
+      "https://news.ycombinator.com/item?id=48341932"
+    ],
+    [
+      "Mechanical Pencin: A website about the hidden engineering in everyday objects",
+      "https://mechanical-pencil.com/"
+    ]
+  ],
+  [
+    [
       "2026-05-30, 23:26:13",
       "https://news.ycombinator.com/item?id=48341578"
     ],
     [
       "Microsoft degrades functionality of perpetually-licensed offline products",
       "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)"
-    ]
-  ],
-  [
-    [
-      "2026-05-30, 23:17:52",
-      "https://news.ycombinator.com/item?id=48341532"
-    ],
-    [
-      "I am against GenAI and everything it stands for",
-      "https://lpcvoid.com/blog/0018_why_i_am_against_genai/index.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-30, 23:14:18",
-      "https://news.ycombinator.com/item?id=48341505"
-    ],
-    [
-      "Custom Errors Are Non-Negotiable in My Rust Applications",
-      "https://tristonarmstrong.com/blog/custom-errors-are-non-negotiable-in-my-rust-applications"
     ]
   ],
   [
@@ -45,8 +35,28 @@
       "https://news.ycombinator.com/item?id=48341062"
     ],
     [
-      "Shantell Sans",
+      "Shantell Sans (2023)",
       "https://shantellsans.com/process"
+    ]
+  ],
+  [
+    [
+      "2026-05-30, 21:46:18",
+      "https://news.ycombinator.com/item?id=48340910"
+    ],
+    [
+      "The AV2 Video Standard Has Released (Final v1.0 Specification)",
+      "https://av2.aomedia.org"
+    ]
+  ],
+  [
+    [
+      "2026-05-30, 21:05:40",
+      "https://news.ycombinator.com/item?id=48340616"
+    ],
+    [
+      "Rotary GPU: Exploring Local Execution for Large MoE Models Under Limited VRAM",
+      "https://arxiv.org/abs/2605.29135"
     ]
   ],
   [
@@ -221,6 +231,16 @@
   ],
   [
     [
+      "2026-05-29, 03:22:19",
+      "https://news.ycombinator.com/item?id=48318624"
+    ],
+    [
+      "A Gentle Introduction to Lattice-Based Cryptography [pdf]",
+      "https://cryptography101.ca/wp-content/uploads/lattice-based-cryptography.pdf"
+    ]
+  ],
+  [
+    [
       "2026-05-29, 02:49:43",
       "https://news.ycombinator.com/item?id=48318402"
     ],
@@ -235,7 +255,7 @@
       "https://news.ycombinator.com/item?id=48316424"
     ],
     [
-      "Gustav Klimt and Egon Schiele in Conversation",
+      "Gustav Klimt and Egon Schiele in Conversation (2018)",
       "https://www.theparisreview.org/blog/2018/01/31/the-drawings-of-klimt-and-schiele/"
     ]
   ],
@@ -251,22 +271,12 @@
   ],
   [
     [
-      "2026-05-28, 12:15:55",
-      "https://news.ycombinator.com/item?id=48307851"
+      "2026-05-28, 09:42:40",
+      "https://news.ycombinator.com/item?id=48306713"
     ],
     [
-      "Tsplat – Run Gaussian splatting in your terminal",
-      "https://github.com/darshanmakwana412/tsplat"
-    ]
-  ],
-  [
-    [
-      "2026-05-27, 19:03:17",
-      "https://news.ycombinator.com/item?id=48298912"
-    ],
-    [
-      "IXI's autofocusing lenses are almost ready to replace multifocal glasses",
-      "https://www.engadget.com/wearables/ixis-autofocusing-lenses-multifocal-glasses-ces-2026-212608427.html"
+      "Racket v9.2 is now available",
+      "https://blog.racket-lang.org/2026/05/racket-v9-2.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Navier-Stokes fluid simulation explained with Godot game engine",
       "https://myzopotamia.dev/navier-stokes-fluid-simulation-explained-with-godot"
-    ]
-  ],
-  [
-    [
-      "2026-05-26, 16:51:55",
-      "https://news.ycombinator.com/item?id=48282335"
-    ],
-    [
-      "It takes two neurons to ride a bicycle (2004)",
-      "https://fermatslibrary.com/s/it-takes-two-neurons-to-ride-a-bicycle#email-newsletter"
     ]
   ]
 ]
