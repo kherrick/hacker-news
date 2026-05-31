@@ -46,6 +46,7 @@
 * [2026-05-28, 14:30:09](https://news.ycombinator.com/item?id=48309463) - [Valve hikes Steam Deck prices by more than 40%, blaming rising costs](https://www.bbc.com/news/articles/cz725d5d1x7o)
 * [2026-05-28, 14:18:18](https://news.ycombinator.com/item?id=48309302) - [EU fines Temu €200M for allowing sale of illegal products](https://www.bbc.co.uk/news/articles/c1k2ydn1rz8o)
 * [2026-05-28, 14:13:00](https://news.ycombinator.com/item?id=48309233) - [Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM](https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions)
+* [2026-05-28, 14:00:32](https://news.ycombinator.com/item?id=48309080) - [Inkstravaganza](https://www.inkandswitch.com/newsletter/dispatch-015/)
 * [2026-05-28, 13:02:00](https://news.ycombinator.com/item?id=48308376) - [Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue](https://llmgame.scalex.dev)
 * [2026-05-28, 12:20:19](https://news.ycombinator.com/item?id=48307887) - [Five frontier LLMs disagree on 67% of 1k real-world fact-check claims](https://lenz.io/research/llm-disagreement)
 * [2026-05-28, 12:15:55](https://news.ycombinator.com/item?id=48307851) - [Tsplat – Run Gaussian splatting in your terminal](https://github.com/darshanmakwana412/tsplat)

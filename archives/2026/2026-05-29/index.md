@@ -36,6 +36,7 @@
 * [2026-05-29, 15:03:32](https://news.ycombinator.com/item?id=48323992) - [Bijou64: A variable-length integer encoding](https://www.inkandswitch.com/tangents/bijou64/)
 * [2026-05-29, 14:55:31](https://news.ycombinator.com/item?id=48323869) - [It's hard to justify buying a Framework 12](https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/)
 * [2026-05-29, 14:40:47](https://news.ycombinator.com/item?id=48323683) - [I am retiring from tech to live offline](https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/)
+* [2026-05-29, 14:20:53](https://news.ycombinator.com/item?id=48323467) - [The \"Stars\" of Titanic (2012)](https://blogs.loc.gov/inside_adams/2012/04/the-stars-of-titanic/)
 * [2026-05-29, 14:15:41](https://news.ycombinator.com/item?id=48323397) - [Headway Therapy Patients Forced to Scan Their Faces to Keep Getting Care](https://www.404media.co/headway-therapy-facial-scan-biometric-data-identity-verification/)
 * [2026-05-29, 14:07:59](https://news.ycombinator.com/item?id=48323303) - [One year of Roto, a compiled scripting language for Rust](https://blog.nlnetlabs.nl/one-year-of-roto-the-compiled-scripting-language-for-rust/)
 * [2026-05-29, 14:04:22](https://news.ycombinator.com/item?id=48323266) - [The Secret Garden of Rock-Paper-Scissors](https://theshamblog.com/the-secret-garden-of-rock-paper-scissors/)

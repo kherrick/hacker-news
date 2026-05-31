@@ -4,8 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-05-31](index.md)
 
+* [2026-05-31, 14:23:30](https://news.ycombinator.com/item?id=48345896) - [The solution might be cancelling my AI subscription](https://thoughts.hmmz.org/2026-05-31.html)
+* [2026-05-31, 14:20:12](https://news.ycombinator.com/item?id=48345881) - [The people who actually want AI to replace humanity](https://www.vox.com/future-perfect/489976/ai-successionism-transhumanism-posthumanism)
+* [2026-05-31, 14:13:20](https://news.ycombinator.com/item?id=48345840) - [Cloudflare Turnstile requiring fingerprintable WebGL](https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting)
+* [2026-05-31, 13:53:16](https://news.ycombinator.com/item?id=48345694) - [I Put a Datacenter GPU in My Gaming PC for £200](https://blog.tymscar.com/posts/v100localllm/)
 * [2026-05-31, 13:11:53](https://news.ycombinator.com/item?id=48345414) - [Human brains are misaligned, hallucinative, stochastic parrots](https://substack.com/@samuelfitoussi/p-191268395)
+* [2026-05-31, 12:49:03](https://news.ycombinator.com/item?id=48345282) - [You Weren't Meant to Have a Boss (2008)](https://paulgraham.com/boss.html)
 * [2026-05-31, 12:41:19](https://news.ycombinator.com/item?id=48345248) - [United Airlines 767 Returns to Newark After Bluetooth Name Sparks Alert](https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/)
+* [2026-05-31, 12:32:54](https://news.ycombinator.com/item?id=48345201) - [Show HN: Atomic Editor – Obsidian-style live preview for CodeMirror 6](https://kenforthewin.github.io/atomic-editor/)
 * [2026-05-31, 12:11:27](https://news.ycombinator.com/item?id=48345090) - [Backpressure is all you need](https://www.lucasfcosta.com/blog/backpressure-is-all-you-need)
 * [2026-05-31, 11:44:45](https://news.ycombinator.com/item?id=48344961) - [Dav2d](https://jbkempf.com/blog/2026/dav2d/)
 * [2026-05-31, 08:35:19](https://news.ycombinator.com/item?id=48344016) - [The dangerous delusion of modern warfare](https://economist.com/interactive/essay/2026/05/28/the-dangerous-delusion-of-modern-warfare)
