@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-05-31](index.md)
 
+* [2026-05-31, 13:11:53](https://news.ycombinator.com/item?id=48345414) - [Human brains are misaligned, hallucinative, stochastic parrots](https://substack.com/@samuelfitoussi/p-191268395)
+* [2026-05-31, 12:41:19](https://news.ycombinator.com/item?id=48345248) - [United Airlines 767 Returns to Newark After Bluetooth Name Sparks Alert](https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/)
+* [2026-05-31, 12:11:27](https://news.ycombinator.com/item?id=48345090) - [Backpressure is all you need](https://www.lucasfcosta.com/blog/backpressure-is-all-you-need)
+* [2026-05-31, 11:44:45](https://news.ycombinator.com/item?id=48344961) - [Dav2d](https://jbkempf.com/blog/2026/dav2d/)
 * [2026-05-31, 08:35:19](https://news.ycombinator.com/item?id=48344016) - [The dangerous delusion of modern warfare](https://economist.com/interactive/essay/2026/05/28/the-dangerous-delusion-of-modern-warfare)
 * [2026-05-31, 07:16:18](https://news.ycombinator.com/item?id=48343714) - [London's Free Roof Terraces](https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html)
 * [2026-05-31, 07:09:50](https://news.ycombinator.com/item?id=48343683) - [The Website Specification](https://specification.website/)

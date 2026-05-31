@@ -24,6 +24,7 @@
 * [2026-05-28, 19:11:59](https://news.ycombinator.com/item?id=48313952) - [Associative learning turns DEET from aversive to appetitive in Aedes aegypti](https://journals.biologists.com/jeb/article/229/10/jeb251935/371741/Associative-learning-switches-DEET-valence-from)
 * [2026-05-28, 19:02:18](https://news.ycombinator.com/item?id=48313810) - [Various LLM Smells](https://shvbsle.in/various-llm-smells/)
 * [2026-05-28, 18:41:46](https://news.ycombinator.com/item?id=48313530) - [Just Use Postgres for Durable Workflows](https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution)
+* [2026-05-28, 18:33:54](https://news.ycombinator.com/item?id=48313427) - [What it's like to have your insulin pump die while you're on vacation](https://blog.lauramichet.com/what-its-like-to-have-the-machine-that-keeps-you-alive-die-while-youre-on-vacation/)
 * [2026-05-28, 18:20:34](https://news.ycombinator.com/item?id=48313219) - [About LLMs at Zig Days](https://kristoff.it/blog/llms-at-zig-days/)
 * [2026-05-28, 18:16:20](https://news.ycombinator.com/item?id=48313142) - [The Lone Lisp Heap](https://www.matheusmoreira.com/articles/lone-lisp-heap)
 * [2026-05-28, 18:09:44](https://news.ycombinator.com/item?id=48313048) - [Anthropic raises $65B in Series H funding at $965B post-money valuation](https://www.anthropic.com/news/series-h)
