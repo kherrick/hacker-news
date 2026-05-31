@@ -1,11 +1,81 @@
 [
   [
     [
+      "2026-05-31, 07:09:50",
+      "https://news.ycombinator.com/item?id=48343683"
+    ],
+    [
+      "The Website Specification",
+      "https://specification.website/"
+    ]
+  ],
+  [
+    [
+      "2026-05-31, 07:00:50",
+      "https://news.ycombinator.com/item?id=48343635"
+    ],
+    [
+      "Telli (YC F24) is hiring in engineering, design, and GTM [Berlin, on-site]",
+      "https://hi.telli.com/join-us"
+    ]
+  ],
+  [
+    [
+      "2026-05-31, 06:13:59",
+      "https://news.ycombinator.com/item?id=48343424"
+    ],
+    [
+      "Avian Visitors",
+      "https://theodore.net/projects/AvianVisitors/"
+    ]
+  ],
+  [
+    [
+      "2026-05-31, 05:30:18",
+      "https://news.ycombinator.com/item?id=48343287"
+    ],
+    [
+      "A pictorial introduction to differential geometry (2017)",
+      "https://arxiv.org/abs/1709.08492"
+    ]
+  ],
+  [
+    [
+      "2026-05-31, 05:11:40",
+      "https://news.ycombinator.com/item?id=48343216"
+    ],
+    [
+      "Show HN: Komi-learn – continuous memory and self-improvement for coding agents",
+      "https://github.com/kurikomi-labs/komi-learn"
+    ]
+  ],
+  [
+    [
+      "2026-05-31, 04:42:14",
+      "https://news.ycombinator.com/item?id=48343078"
+    ],
+    [
+      "Ahoy, DECmate II the little PDP-8 that could",
+      "http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-31, 03:16:48",
+      "https://news.ycombinator.com/item?id=48342705"
+    ],
+    [
+      "Please Do Not Vibe Fuck Up This Software",
+      "https://github.com/RsyncProject/rsync/issues/929"
+    ]
+  ],
+  [
+    [
       "2026-05-31, 00:25:12",
       "https://news.ycombinator.com/item?id=48341932"
     ],
     [
-      "Mechanical Pencin: A website about the hidden engineering in everyday objects",
+      "Mechanical Pencil: An illustrated celebration of the engineering around us",
       "https://mechanical-pencil.com/"
     ]
   ],
@@ -15,7 +85,7 @@
       "https://news.ycombinator.com/item?id=48341578"
     ],
     [
-      "Microsoft degrades functionality of perpetually-licensed offline products",
+      "Microsoft Office 2019 and 2021 for Mac view-only conversion",
       "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)"
     ]
   ],
@@ -51,26 +121,6 @@
   ],
   [
     [
-      "2026-05-30, 21:05:40",
-      "https://news.ycombinator.com/item?id=48340616"
-    ],
-    [
-      "Rotary GPU: Exploring Local Execution for Large MoE Models Under Limited VRAM",
-      "https://arxiv.org/abs/2605.29135"
-    ]
-  ],
-  [
-    [
-      "2026-05-30, 20:46:54",
-      "https://news.ycombinator.com/item?id=48340448"
-    ],
-    [
-      "Design Engineering Magazine",
-      "https://interfaces.dev/"
-    ]
-  ],
-  [
-    [
       "2026-05-30, 20:42:28",
       "https://news.ycombinator.com/item?id=48340422"
     ],
@@ -91,12 +141,12 @@
   ],
   [
     [
-      "2026-05-30, 20:24:26",
-      "https://news.ycombinator.com/item?id=48340262"
+      "2026-05-30, 20:30:53",
+      "https://news.ycombinator.com/item?id=48340315"
     ],
     [
-      "Dusklight – GC Twilight Princess Decompiled",
-      "https://twilitrealm.dev/"
+      "Show HN: Breathe CLI – Paced resonance breathing in the macOS terminal",
+      "https://github.com/marekkowalczyk/breathe-cli"
     ]
   ],
   [
@@ -171,16 +221,6 @@
   ],
   [
     [
-      "2026-05-30, 16:13:11",
-      "https://news.ycombinator.com/item?id=48337808"
-    ],
-    [
-      "Werner Herzog in conversation with Paul Cronin (2014)",
-      "https://fsgworkinprogress.com/2014/09/26/insignificant-bullets-evil-poachers-and-l-a-culture/"
-    ]
-  ],
-  [
-    [
       "2026-05-30, 14:25:50",
       "https://news.ycombinator.com/item?id=48336564"
     ],
@@ -201,16 +241,6 @@
   ],
   [
     [
-      "2026-05-30, 10:30:50",
-      "https://news.ycombinator.com/item?id=48334710"
-    ],
-    [
-      "Leo's first encyclical attacks technological messianism",
-      "https://www.economist.com/europe/2026/05/28/leos-first-encyclical-attacks-technological-messianism"
-    ]
-  ],
-  [
-    [
       "2026-05-30, 09:56:42",
       "https://news.ycombinator.com/item?id=48334515"
     ],
@@ -221,12 +251,12 @@
   ],
   [
     [
-      "2026-05-30, 08:38:28",
-      "https://news.ycombinator.com/item?id=48334048"
+      "2026-05-29, 14:07:59",
+      "https://news.ycombinator.com/item?id=48323303"
     ],
     [
-      "Zig: Build System Reworked",
-      "https://ziglang.org/devlog/2026/#2026-05-26"
+      "One year of Roto, a compiled scripting language for Rust",
+      "https://blog.nlnetlabs.nl/one-year-of-roto-the-compiled-scripting-language-for-rust/"
     ]
   ],
   [
@@ -246,27 +276,17 @@
     ],
     [
       "I found a seashell in the middle of the desert",
-      "https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert"
+      "https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert#i-found-a-seashell-in-the-middle-of-the-desert"
     ]
   ],
   [
     [
-      "2026-05-28, 22:29:31",
-      "https://news.ycombinator.com/item?id=48316424"
+      "2026-05-28, 19:11:59",
+      "https://news.ycombinator.com/item?id=48313952"
     ],
     [
-      "Gustav Klimt and Egon Schiele in Conversation (2018)",
-      "https://www.theparisreview.org/blog/2018/01/31/the-drawings-of-klimt-and-schiele/"
-    ]
-  ],
-  [
-    [
-      "2026-05-28, 20:30:20",
-      "https://news.ycombinator.com/item?id=48315016"
-    ],
-    [
-      "Show HN: Open Envelope – an open schema for defining AI agent teams",
-      "https://openenvelope.org/docs/schema/"
+      "Associative learning turns DEET from aversive to appetitive in Aedes aegypti",
+      "https://journals.biologists.com/jeb/article/229/10/jeb251935/371741/Associative-learning-switches-DEET-valence-from"
     ]
   ],
   [
@@ -275,28 +295,8 @@
       "https://news.ycombinator.com/item?id=48306713"
     ],
     [
-      "Racket v9.2 is now available",
+      "Racket v9.2",
       "https://blog.racket-lang.org/2026/05/racket-v9-2.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-27, 13:29:40",
-      "https://news.ycombinator.com/item?id=48294057"
-    ],
-    [
-      "90% of the T Distribution",
-      "https://entropicthoughts.com/ninety-percent-of-the-t-distribution"
-    ]
-  ],
-  [
-    [
-      "2026-05-26, 22:15:28",
-      "https://news.ycombinator.com/item?id=48286745"
-    ],
-    [
-      "Navier-Stokes fluid simulation explained with Godot game engine",
-      "https://myzopotamia.dev/navier-stokes-fluid-simulation-explained-with-godot"
     ]
   ]
 ]
