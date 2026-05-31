@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-05-31](index.md)
 
+* [2026-05-31, 15:50:34](https://news.ycombinator.com/item?id=48346693) - [Odysseus – self-hosted AI workspace](https://github.com/pewdiepie-archdaemon/odysseus)
+* [2026-05-31, 15:43:29](https://news.ycombinator.com/item?id=48346629) - [Daily pill can double survival time for deadliest cancer, trial shows](https://www.theguardian.com/society/2026/may/31/daily-pill-daraxonrasib-double-survival-time-pancreatic-pancreas-cancer-clinical-trial)
+* [2026-05-31, 15:29:58](https://news.ycombinator.com/item?id=48346507) - [I'm So Tired of Ads](https://blog.absurdpirate.com/im-so-tired-of-ads/)
+* [2026-05-31, 15:04:52](https://news.ycombinator.com/item?id=48346257) - [1-Bit Bonsai Image 4B Image Generation for Local Devices](https://prismml.com/news/bonsai-image-4b)
+* [2026-05-31, 14:51:04](https://news.ycombinator.com/item?id=48346125) - [Folding Beijing](https://www.uncannymagazine.com/article/folding-beijing-2/)
+* [2026-05-31, 14:38:48](https://news.ycombinator.com/item?id=48346019) - [Restartable Sequences](https://justine.lol/rseq/)
 * [2026-05-31, 14:23:30](https://news.ycombinator.com/item?id=48345896) - [The solution might be cancelling my AI subscription](https://thoughts.hmmz.org/2026-05-31.html)
 * [2026-05-31, 14:20:12](https://news.ycombinator.com/item?id=48345881) - [The people who actually want AI to replace humanity](https://www.vox.com/future-perfect/489976/ai-successionism-transhumanism-posthumanism)
 * [2026-05-31, 14:13:20](https://news.ycombinator.com/item?id=48345840) - [Cloudflare Turnstile requiring fingerprintable WebGL](https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting)
