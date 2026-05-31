@@ -1,12 +1,52 @@
 [
   [
     [
+      "2026-05-31, 17:02:23",
+      "https://news.ycombinator.com/item?id=48347354"
+    ],
+    [
+      "Meta launches Instagram, Facebook, and WhatsApp subscriptions",
+      "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/"
+    ]
+  ],
+  [
+    [
+      "2026-05-31, 16:37:34",
+      "https://news.ycombinator.com/item?id=48347153"
+    ],
+    [
+      "The Speed of Prototyping in the Age of AI",
+      "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai"
+    ]
+  ],
+  [
+    [
+      "2026-05-31, 16:19:34",
+      "https://news.ycombinator.com/item?id=48346947"
+    ],
+    [
+      "Creatine raise brain energy levels and slow Alzheimer's cognitive decline by 30%",
+      "https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/"
+    ]
+  ],
+  [
+    [
       "2026-05-31, 15:50:34",
       "https://news.ycombinator.com/item?id=48346693"
     ],
     [
       "Odysseus – self-hosted AI workspace",
       "https://github.com/pewdiepie-archdaemon/odysseus"
+    ]
+  ],
+  [
+    [
+      "2026-05-31, 15:46:32",
+      "https://news.ycombinator.com/item?id=48346660"
+    ],
+    [
+      "Chibil: A C compiler targeting .NET IL",
+      "https://github.com/MichalStrehovsky/chibil"
     ]
   ],
   [
@@ -21,32 +61,12 @@
   ],
   [
     [
-      "2026-05-31, 15:29:58",
-      "https://news.ycombinator.com/item?id=48346507"
-    ],
-    [
-      "I'm So Tired of Ads",
-      "https://blog.absurdpirate.com/im-so-tired-of-ads/"
-    ]
-  ],
-  [
-    [
       "2026-05-31, 15:04:52",
       "https://news.ycombinator.com/item?id=48346257"
     ],
     [
       "1-Bit Bonsai Image 4B Image Generation for Local Devices",
       "https://prismml.com/news/bonsai-image-4b"
-    ]
-  ],
-  [
-    [
-      "2026-05-31, 14:51:04",
-      "https://news.ycombinator.com/item?id=48346125"
-    ],
-    [
-      "Folding Beijing",
-      "https://www.uncannymagazine.com/article/folding-beijing-2/"
     ]
   ],
   [
@@ -81,11 +101,21 @@
   ],
   [
     [
+      "2026-05-31, 14:10:36",
+      "https://news.ycombinator.com/item?id=48345822"
+    ],
+    [
+      "FROST: Fingerprinting Remotely using OPFS-based SSD Timing [pdf]",
+      "https://hannesweissteiner.com/pdfs/frost.pdf"
+    ]
+  ],
+  [
+    [
       "2026-05-31, 13:53:16",
       "https://news.ycombinator.com/item?id=48345694"
     ],
     [
-      "I Put a Datacenter GPU in My Gaming PC for £200",
+      "I put a datacenter GPU in my gaming PC",
       "https://blog.tymscar.com/posts/v100localllm/"
     ]
   ],
@@ -95,8 +125,18 @@
       "https://news.ycombinator.com/item?id=48345282"
     ],
     [
-      "You Weren't Meant to Have a Boss (2008)",
+      "You weren't meant to have a boss (2008)",
       "https://paulgraham.com/boss.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-31, 12:41:19",
+      "https://news.ycombinator.com/item?id=48345248"
+    ],
+    [
+      "United Airlines 767 returns to Newark after Bluetooth name sparks alert",
+      "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/"
     ]
   ],
   [
@@ -107,6 +147,16 @@
     [
       "Show HN: Atomic Editor – Obsidian-style live preview for CodeMirror 6",
       "https://kenforthewin.github.io/atomic-editor/"
+    ]
+  ],
+  [
+    [
+      "2026-05-31, 12:11:27",
+      "https://news.ycombinator.com/item?id=48345090"
+    ],
+    [
+      "Backpressure is all you need",
+      "https://www.lucasfcosta.com/blog/backpressure-is-all-you-need"
     ]
   ],
   [
@@ -151,26 +201,6 @@
   ],
   [
     [
-      "2026-05-31, 06:13:59",
-      "https://news.ycombinator.com/item?id=48343424"
-    ],
-    [
-      "Avian Visitors",
-      "https://theodore.net/projects/AvianVisitors/"
-    ]
-  ],
-  [
-    [
-      "2026-05-31, 05:30:18",
-      "https://news.ycombinator.com/item?id=48343287"
-    ],
-    [
-      "A pictorial introduction to differential geometry (2017)",
-      "https://arxiv.org/abs/1709.08492"
-    ]
-  ],
-  [
-    [
       "2026-05-30, 22:06:38",
       "https://news.ycombinator.com/item?id=48341062"
     ],
@@ -197,26 +227,6 @@
     [
       "Domain expertise has always been the real moat",
       "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/"
-    ]
-  ],
-  [
-    [
-      "2026-05-30, 20:30:53",
-      "https://news.ycombinator.com/item?id=48340315"
-    ],
-    [
-      "Show HN: Breathe CLI – Paced resonance breathing in the macOS terminal",
-      "https://github.com/marekkowalczyk/breathe-cli"
-    ]
-  ],
-  [
-    [
-      "2026-05-29, 14:20:53",
-      "https://news.ycombinator.com/item?id=48323467"
-    ],
-    [
-      "The \"Stars\" of Titanic (2012)",
-      "https://blogs.loc.gov/inside_adams/2012/04/the-stars-of-titanic/"
     ]
   ],
   [
@@ -261,12 +271,22 @@
   ],
   [
     [
-      "2026-05-28, 19:11:59",
-      "https://news.ycombinator.com/item?id=48313952"
+      "2026-05-28, 21:09:36",
+      "https://news.ycombinator.com/item?id=48315521"
     ],
     [
-      "Associative learning turns DEET from aversive to appetitive in Aedes aegypti",
-      "https://journals.biologists.com/jeb/article/229/10/jeb251935/371741/Associative-learning-switches-DEET-valence-from"
+      "Avoiding Death on the Yellow Brick Road",
+      "https://www.a16z.news/p/avoiding-death-on-the-yellow-brick"
+    ]
+  ],
+  [
+    [
+      "2026-05-28, 18:33:54",
+      "https://news.ycombinator.com/item?id=48313427"
+    ],
+    [
+      "Having your insulin pump die while you're on vacation",
+      "https://blog.lauramichet.com/what-its-like-to-have-the-machine-that-keeps-you-alive-die-while-youre-on-vacation/"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Inkstravaganza",
       "https://www.inkandswitch.com/newsletter/dispatch-015/"
-    ]
-  ],
-  [
-    [
-      "2026-05-28, 09:42:40",
-      "https://news.ycombinator.com/item?id=48306713"
-    ],
-    [
-      "Racket v9.2",
-      "https://blog.racket-lang.org/2026/05/racket-v9-2.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-27, 18:56:32",
-      "https://news.ycombinator.com/item?id=48298819"
-    ],
-    [
-      "Thornton Wilder's Last Play Vanished into Thin Air. Or Did It?",
-      "https://www.nytimes.com/2026/05/27/theater/thornton-wilder-emporium-last-play.html"
     ]
   ]
 ]
