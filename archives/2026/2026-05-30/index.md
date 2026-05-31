@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-05-30](index.md)
 
+* [2026-05-30, 23:26:13](https://news.ycombinator.com/item?id=48341578) - [Microsoft degrades functionality of perpetually-licensed offline products](https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026))
+* [2026-05-30, 23:17:52](https://news.ycombinator.com/item?id=48341532) - [I am against GenAI and everything it stands for](https://lpcvoid.com/blog/0018_why_i_am_against_genai/index.html)
+* [2026-05-30, 23:14:18](https://news.ycombinator.com/item?id=48341505) - [Custom Errors Are Non-Negotiable in My Rust Applications](https://tristonarmstrong.com/blog/custom-errors-are-non-negotiable-in-my-rust-applications)
+* [2026-05-30, 22:58:41](https://news.ycombinator.com/item?id=48341407) - [Cheese Paper: a text editor specifically designed for writing](https://brie.gay/cheese-paper/)
+* [2026-05-30, 22:06:38](https://news.ycombinator.com/item?id=48341062) - [Shantell Sans](https://shantellsans.com/process)
 * [2026-05-30, 20:54:22](https://news.ycombinator.com/item?id=48340528) - [Kore: Binary File Format Optimized for Modern Data Systems (Open Source)](https://github.com/arunkatherashala/Kore)
 * [2026-05-30, 20:46:54](https://news.ycombinator.com/item?id=48340448) - [Design Engineering Magazine](https://interfaces.dev/)
 * [2026-05-30, 20:42:28](https://news.ycombinator.com/item?id=48340422) - [wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack](https://github.com/wolfSSL/wolfCOSE)

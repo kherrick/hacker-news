@@ -7,6 +7,7 @@
 * [2026-05-28, 23:42:47](https://news.ycombinator.com/item?id=48317093) - [Bot Company allegedly trashing Airbnb rentals with their prototype robots](https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/)
 * [2026-05-28, 23:36:41](https://news.ycombinator.com/item?id=48317043) - [Garnix (A Nix CI) is shutting down](https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895)
 * [2026-05-28, 22:32:39](https://news.ycombinator.com/item?id=48316462) - [Minimax M3](https://www.minimax.co.uk/products/water-softeners/minimax-m3-water-softener/)
+* [2026-05-28, 22:29:31](https://news.ycombinator.com/item?id=48316424) - [Gustav Klimt and Egon Schiele in Conversation](https://www.theparisreview.org/blog/2018/01/31/the-drawings-of-klimt-and-schiele/)
 * [2026-05-28, 21:47:22](https://news.ycombinator.com/item?id=48315980) - [Why Gentoo?](https://blogs.gentoo.org/mgorny/2026/05/28/why-gentoo/)
 * [2026-05-28, 21:45:54](https://news.ycombinator.com/item?id=48315968) - [GitHub bans security researcher who posted zero-day Windows exploits](https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation)
 * [2026-05-28, 21:03:24](https://news.ycombinator.com/item?id=48315440) - [Protestware for Coding Agents](https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html)
