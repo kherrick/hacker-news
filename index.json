@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-05-31, 22:59:50",
+      "https://news.ycombinator.com/item?id=48350598"
+    ],
+    [
+      "Chuwi Minibook X: the netbook we deserve",
+      "https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/"
+    ]
+  ],
+  [
+    [
+      "2026-05-31, 21:57:48",
+      "https://news.ycombinator.com/item?id=48350149"
+    ],
+    [
+      "It's Not Just X. It's Y",
+      "https://mail.cyberneticforests.com/its-not-just-data-its-post-training/"
+    ]
+  ],
+  [
+    [
+      "2026-05-31, 21:55:33",
+      "https://news.ycombinator.com/item?id=48350131"
+    ],
+    [
+      "Atherton spent $145K to delay train electrification. The rest of us paid $400M",
+      "https://peninsulaforeveryone.org/blog/atherton-spent-145k-to-delay-caltrain-electrification-the-rest-of-us-paid-400-million-and-waited-3-extra-years/"
+    ]
+  ],
+  [
+    [
       "2026-05-31, 20:41:10",
       "https://news.ycombinator.com/item?id=48349527"
     ],
@@ -111,16 +141,6 @@
   ],
   [
     [
-      "2026-05-31, 15:43:29",
-      "https://news.ycombinator.com/item?id=48346629"
-    ],
-    [
-      "Daily pill can double survival time for deadliest cancer, trial shows",
-      "https://www.theguardian.com/society/2026/may/31/daily-pill-daraxonrasib-double-survival-time-pancreatic-pancreas-cancer-clinical-trial"
-    ]
-  ],
-  [
-    [
       "2026-05-31, 15:04:52",
       "https://news.ycombinator.com/item?id=48346257"
     ],
@@ -161,32 +181,12 @@
   ],
   [
     [
-      "2026-05-31, 13:53:16",
-      "https://news.ycombinator.com/item?id=48345694"
-    ],
-    [
-      "I put a datacenter GPU in my gaming PC",
-      "https://blog.tymscar.com/posts/v100localllm/"
-    ]
-  ],
-  [
-    [
       "2026-05-31, 12:41:19",
       "https://news.ycombinator.com/item?id=48345248"
     ],
     [
       "United Airlines 767 returns to Newark after Bluetooth name sparks alert",
       "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/"
-    ]
-  ],
-  [
-    [
-      "2026-05-31, 12:32:54",
-      "https://news.ycombinator.com/item?id=48345201"
-    ],
-    [
-      "Show HN: Atomic Editor – Obsidian-style live preview for CodeMirror 6",
-      "https://kenforthewin.github.io/atomic-editor/"
     ]
   ],
   [
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2026-05-29, 15:21:42",
+      "https://news.ycombinator.com/item?id=48324288"
+    ],
+    [
+      "Unix in East Germany (GDR) (1990)",
+      "https://groups.google.com/g/comp.unix.wizards/c/QX_dxElrVNs"
+    ]
+  ],
+  [
+    [
       "2026-05-29, 13:39:41",
       "https://news.ycombinator.com/item?id=48322984"
     ],
@@ -261,16 +271,6 @@
   ],
   [
     [
-      "2026-05-29, 03:22:19",
-      "https://news.ycombinator.com/item?id=48318624"
-    ],
-    [
-      "A Gentle Introduction to Lattice-Based Cryptography [pdf]",
-      "https://cryptography101.ca/wp-content/uploads/lattice-based-cryptography.pdf"
-    ]
-  ],
-  [
-    [
       "2026-05-28, 18:33:54",
       "https://news.ycombinator.com/item?id=48313427"
     ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=48306225"
     ],
     [
-      "The Four Programming Questions from My 1994 Microsoft Internship Interview (2023)",
+      "The four programming questions from my 1994 Microsoft internship interview (2023)",
       "https://www.computerenhance.com/p/the-four-programming-questions-from"
     ]
   ]
