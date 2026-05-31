@@ -39,6 +39,7 @@
 * [2026-05-28, 15:23:04](https://news.ycombinator.com/item?id=48310280) - [The Permanent Upper Crow](https://permanent-upper-crow.jasonwu.ink/)
 * [2026-05-28, 15:05:06](https://news.ycombinator.com/item?id=48309986) - [Show HN: Ktx – Open-source executable context layer for data agents](https://github.com/Kaelio/ktx)
 * [2026-05-28, 14:42:04](https://news.ycombinator.com/item?id=48309645) - [Creusot helps you prove your Rust code is correct](https://github.com/creusot-rs/creusot/tree/master)
+* [2026-05-28, 14:40:38](https://news.ycombinator.com/item?id=48309623) - [Soviet 80s supercomputer project \"Start\"](https://start.iis.nsk.su/)
 * [2026-05-28, 14:37:51](https://news.ycombinator.com/item?id=48309584) - [New York Passes Tax on the Ultra-Wealthy](https://www.cnbc.com/2026/05/28/new-york-mamdani-pied-a-terre-tax-passes.html)
 * [2026-05-28, 14:32:53](https://news.ycombinator.com/item?id=48309505) - [Searching for Birds](https://SearchingForBirds.VisualCinnamon.com/)
 * [2026-05-28, 14:30:09](https://news.ycombinator.com/item?id=48309463) - [Valve hikes Steam Deck prices by more than 40%, blaming rising costs](https://www.bbc.com/news/articles/cz725d5d1x7o)

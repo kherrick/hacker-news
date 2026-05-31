@@ -10,6 +10,7 @@
 * [2026-05-26, 21:11:40](https://news.ycombinator.com/item?id=48286028) - [Phloto for My Photo Flow](https://cceckman.com/writing/phloto/)
 * [2026-05-26, 20:33:24](https://news.ycombinator.com/item?id=48285592) - [Big tech's anti-labor playbook has come for Wikipedia](https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943)
 * [2026-05-26, 20:11:49](https://news.ycombinator.com/item?id=48285344) - [The worst job interview I ever had](https://www.oliverio.dev/blog/the-worst-job-interview-i-had)
+* [2026-05-26, 20:07:35](https://news.ycombinator.com/item?id=48285282) - [Mysteries of the Griffin iMate](https://www.projectgus.com/2023/04/griffin-imate/)
 * [2026-05-26, 19:40:59](https://news.ycombinator.com/item?id=48284939) - [DeepSWE: A contamination-free benchmark for long-horizon coding agents](https://deepswe.datacurve.ai/blog)
 * [2026-05-26, 19:25:16](https://news.ycombinator.com/item?id=48284712) - [Chemistry behind the Garden Grove chemical tank](https://www.science.org/content/blog-post/methyl-methacrylate-tank)
 * [2026-05-26, 19:25:13](https://news.ycombinator.com/item?id=48284711) - [The Melancholy of Slaying Monsters](https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/)
