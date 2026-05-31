@@ -57,6 +57,7 @@
 * [2026-05-28, 10:56:55](https://news.ycombinator.com/item?id=48307231) - [AMD pulls a bait-and-switch on Linux users with Vivado licensing changes](https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/)
 * [2026-05-28, 10:39:32](https://news.ycombinator.com/item?id=48307098) - [AI sticker shock hits corporate America](https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs)
 * [2026-05-28, 09:42:40](https://news.ycombinator.com/item?id=48306713) - [Racket v9.2 is now available](https://blog.racket-lang.org/2026/05/racket-v9-2.html)
+* [2026-05-28, 08:28:23](https://news.ycombinator.com/item?id=48306225) - [The Four Programming Questions from My 1994 Microsoft Internship Interview (2023)](https://www.computerenhance.com/p/the-four-programming-questions-from)
 * [2026-05-28, 06:40:31](https://news.ycombinator.com/item?id=48305446) - [A Eureka machine that thinks like nature and explores what AI cannot](https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/)
 * [2026-05-28, 03:50:01](https://news.ycombinator.com/item?id=48304260) - [Hallucinate – Massively Multiplayer Online Rave](https://hallucinate.site)
 * [2026-05-28, 02:58:44](https://news.ycombinator.com/item?id=48303881) - [Bttf is a command line datetime Swiss army knife](https://github.com/BurntSushi/bttf)

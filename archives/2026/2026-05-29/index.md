@@ -42,6 +42,7 @@
 * [2026-05-29, 14:07:59](https://news.ycombinator.com/item?id=48323303) - [One year of Roto, a compiled scripting language for Rust](https://blog.nlnetlabs.nl/one-year-of-roto-the-compiled-scripting-language-for-rust/)
 * [2026-05-29, 14:04:22](https://news.ycombinator.com/item?id=48323266) - [The Secret Garden of Rock-Paper-Scissors](https://theshamblog.com/the-secret-garden-of-rock-paper-scissors/)
 * [2026-05-29, 13:50:25](https://news.ycombinator.com/item?id=48323101) - [Please Use AI](https://shawnsmucker.substack.com/p/please-use-ai)
+* [2026-05-29, 13:39:41](https://news.ycombinator.com/item?id=48322984) - [New Beam Spring Keyboards](https://www.modelfkeyboards.com/product/beam-spring-b104-keyboard/)
 * [2026-05-29, 13:37:38](https://news.ycombinator.com/item?id=48322956) - [Show HN: AISlop, a CLI for catching AI generated code smells](https://github.com/scanaislop/aislop)
 * [2026-05-29, 13:35:13](https://news.ycombinator.com/item?id=48322929) - [Expertise in the age of AI](https://www.moderndescartes.com/essays/ai_and_expertise/)
 * [2026-05-29, 13:28:01](https://news.ycombinator.com/item?id=48322853) - [Stateless Actors](https://www.massicotte.org/stateless-actors/)
