@@ -1,32 +1,62 @@
 [
   [
     [
-      "2026-05-31, 13:11:53",
-      "https://news.ycombinator.com/item?id=48345414"
+      "2026-05-31, 14:23:30",
+      "https://news.ycombinator.com/item?id=48345896"
     ],
     [
-      "Human brains are misaligned, hallucinative, stochastic parrots",
-      "https://substack.com/@samuelfitoussi/p-191268395"
+      "The solution might be cancelling my AI subscription",
+      "https://thoughts.hmmz.org/2026-05-31.html"
     ]
   ],
   [
     [
-      "2026-05-31, 12:41:19",
-      "https://news.ycombinator.com/item?id=48345248"
+      "2026-05-31, 14:20:12",
+      "https://news.ycombinator.com/item?id=48345881"
     ],
     [
-      "United Airlines 767 Returns to Newark After Bluetooth Name Sparks Alert",
-      "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/"
+      "The people who actually want AI to replace humanity",
+      "https://www.vox.com/future-perfect/489976/ai-successionism-transhumanism-posthumanism"
     ]
   ],
   [
     [
-      "2026-05-31, 12:11:27",
-      "https://news.ycombinator.com/item?id=48345090"
+      "2026-05-31, 14:13:20",
+      "https://news.ycombinator.com/item?id=48345840"
     ],
     [
-      "Backpressure is all you need",
-      "https://www.lucasfcosta.com/blog/backpressure-is-all-you-need"
+      "Cloudflare Turnstile requiring fingerprintable WebGL",
+      "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting"
+    ]
+  ],
+  [
+    [
+      "2026-05-31, 13:53:16",
+      "https://news.ycombinator.com/item?id=48345694"
+    ],
+    [
+      "I Put a Datacenter GPU in My Gaming PC for £200",
+      "https://blog.tymscar.com/posts/v100localllm/"
+    ]
+  ],
+  [
+    [
+      "2026-05-31, 12:49:03",
+      "https://news.ycombinator.com/item?id=48345282"
+    ],
+    [
+      "You Weren't Meant to Have a Boss (2008)",
+      "https://paulgraham.com/boss.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-31, 12:32:54",
+      "https://news.ycombinator.com/item?id=48345201"
+    ],
+    [
+      "Show HN: Atomic Editor – Obsidian-style live preview for CodeMirror 6",
+      "https://kenforthewin.github.io/atomic-editor/"
     ]
   ],
   [
@@ -111,16 +141,6 @@
   ],
   [
     [
-      "2026-05-30, 22:58:41",
-      "https://news.ycombinator.com/item?id=48341407"
-    ],
-    [
-      "Cheese Paper: a text editor specifically designed for writing",
-      "https://brie.gay/cheese-paper/"
-    ]
-  ],
-  [
-    [
       "2026-05-30, 22:06:38",
       "https://news.ycombinator.com/item?id=48341062"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2026-05-30, 20:42:28",
-      "https://news.ycombinator.com/item?id=48340422"
-    ],
-    [
-      "wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack",
-      "https://github.com/wolfSSL/wolfCOSE"
-    ]
-  ],
-  [
-    [
       "2026-05-30, 20:40:57",
       "https://news.ycombinator.com/item?id=48340411"
     ],
@@ -167,16 +177,6 @@
     [
       "Show HN: Breathe CLI – Paced resonance breathing in the macOS terminal",
       "https://github.com/marekkowalczyk/breathe-cli"
-    ]
-  ],
-  [
-    [
-      "2026-05-30, 17:29:22",
-      "https://news.ycombinator.com/item?id=48338673"
-    ],
-    [
-      "Zig ELF Linker Improvements Devlog",
-      "https://ziglang.org/devlog/2026/#2026-05-30"
     ]
   ],
   [
@@ -211,12 +211,12 @@
   ],
   [
     [
-      "2026-05-30, 09:56:42",
-      "https://news.ycombinator.com/item?id=48334515"
+      "2026-05-29, 14:20:53",
+      "https://news.ycombinator.com/item?id=48323467"
     ],
     [
-      "Pandoc Templates",
-      "https://pandoc-templates.org/"
+      "The \"Stars\" of Titanic (2012)",
+      "https://blogs.loc.gov/inside_adams/2012/04/the-stars-of-titanic/"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2026-05-28, 14:00:32",
+      "https://news.ycombinator.com/item?id=48309080"
+    ],
+    [
+      "Inkstravaganza",
+      "https://www.inkandswitch.com/newsletter/dispatch-015/"
+    ]
+  ],
+  [
+    [
       "2026-05-28, 09:42:40",
       "https://news.ycombinator.com/item?id=48306713"
     ],
     [
       "Racket v9.2",
       "https://blog.racket-lang.org/2026/05/racket-v9-2.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-26, 20:07:35",
-      "https://news.ycombinator.com/item?id=48285282"
-    ],
-    [
-      "Mysteries of the Griffin iMate",
-      "https://www.projectgus.com/2023/04/griffin-imate/"
     ]
   ]
 ]
