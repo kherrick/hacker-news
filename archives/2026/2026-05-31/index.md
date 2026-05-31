@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-31](index.md)
 
+* [2026-05-31, 19:27:44](https://news.ycombinator.com/item?id=48348864) - ['Backrooms' Stuns with $81M Debut](https://variety.com/2026/film/box-office/backrooms-box-office-record-opening-weekend-obsession-jumps-star-wars-crumbles-1236763355/)
 * [2026-05-31, 19:11:34](https://news.ycombinator.com/item?id=48348704) - [Steam Deck sells out in North America within 24 hours of price hike](https://arstechnica.com/gaming/2026/05/despite-price-hike-steam-deck-is-already-sold-out-in-north-america/)
 * [2026-05-31, 18:57:48](https://news.ycombinator.com/item?id=48348578) - [Codex just found a \"workaround\" of not having sudo on my PC](https://twitter.com/i/status/2060746160558543217)
 * [2026-05-31, 18:43:05](https://news.ycombinator.com/item?id=48348429) - [Show HN: Streambed – Stream Postgres to Iceberg on S3, Supports Postgres Wire](https://github.com/viggy28/streambed)

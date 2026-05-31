@@ -24,6 +24,7 @@
 * [2026-05-29, 18:31:52](https://news.ycombinator.com/item?id=48327367) - [Rothko for your current weather conditions](https://rothko.joonas.wtf/)
 * [2026-05-29, 18:23:03](https://news.ycombinator.com/item?id=48327222) - [AI will be used to estimate age of asylum seekers from next year](https://www.bbc.co.uk/news/articles/ce3pe36qe7ro)
 * [2026-05-29, 17:54:50](https://news.ycombinator.com/item?id=48326802) - [SQLite is all you need for durable workflows](https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/)
+* [2026-05-29, 17:50:11](https://news.ycombinator.com/item?id=48326721) - [What if remote working, not AI, is to blame for weak junior hiring?](https://www.ft.com/content/2205e2d0-50dc-4e80-9bf7-78d0272276c0)
 * [2026-05-29, 17:46:27](https://news.ycombinator.com/item?id=48326659) - [Robinhood now lets your AI agents trade stocks](https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/)
 * [2026-05-29, 17:39:49](https://news.ycombinator.com/item?id=48326561) - [Letter from the Duke of Wellington to the British Foreign Office (1809)](https://wellsoc.org/society-member-pages/anecdotes-of-wellington/)
 * [2026-05-29, 16:39:09](https://news.ycombinator.com/item?id=48325624) - [Show HN: TV Explorer. Adding advanced UI to free online TV](https://tvexplorer.live)
