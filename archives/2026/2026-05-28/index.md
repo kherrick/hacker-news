@@ -44,6 +44,7 @@
 * [2026-05-28, 14:40:38](https://news.ycombinator.com/item?id=48309623) - [Soviet 80s supercomputer project \"Start\"](https://start.iis.nsk.su/)
 * [2026-05-28, 14:37:51](https://news.ycombinator.com/item?id=48309584) - [New York Passes Tax on the Ultra-Wealthy](https://www.cnbc.com/2026/05/28/new-york-mamdani-pied-a-terre-tax-passes.html)
 * [2026-05-28, 14:32:53](https://news.ycombinator.com/item?id=48309505) - [Searching for Birds](https://SearchingForBirds.VisualCinnamon.com/)
+* [2026-05-28, 14:32:01](https://news.ycombinator.com/item?id=48309492) - [Websites have a new way to spy on visitors: analyzing their SSD activity](https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/)
 * [2026-05-28, 14:30:09](https://news.ycombinator.com/item?id=48309463) - [Valve hikes Steam Deck prices by more than 40%, blaming rising costs](https://www.bbc.com/news/articles/cz725d5d1x7o)
 * [2026-05-28, 14:18:18](https://news.ycombinator.com/item?id=48309302) - [EU fines Temu €200M for allowing sale of illegal products](https://www.bbc.co.uk/news/articles/c1k2ydn1rz8o)
 * [2026-05-28, 14:13:00](https://news.ycombinator.com/item?id=48309233) - [Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM](https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions)

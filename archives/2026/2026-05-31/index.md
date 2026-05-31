@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-31](index.md)
 
+* [2026-05-31, 17:04:10](https://news.ycombinator.com/item?id=48347370) - [Deflock hits 100k ALPRs Mapped in USA](https://deflock.org/)
 * [2026-05-31, 17:02:23](https://news.ycombinator.com/item?id=48347354) - [Meta launches Instagram, Facebook, and WhatsApp subscriptions](https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/)
 * [2026-05-31, 16:37:34](https://news.ycombinator.com/item?id=48347153) - [The Speed of Prototyping in the Age of AI](https://darylcecile.net/notes/speed-of-prototyping-age-of-ai)
 * [2026-05-31, 16:19:34](https://news.ycombinator.com/item?id=48346947) - [Creatine raise brain energy levels and slow Alzheimer's cognitive decline by 30%](https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/)
