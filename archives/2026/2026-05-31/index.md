@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-05-31](index.md)
 
+* [2026-05-31, 17:02:23](https://news.ycombinator.com/item?id=48347354) - [Meta launches Instagram, Facebook, and WhatsApp subscriptions](https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/)
+* [2026-05-31, 16:37:34](https://news.ycombinator.com/item?id=48347153) - [The Speed of Prototyping in the Age of AI](https://darylcecile.net/notes/speed-of-prototyping-age-of-ai)
+* [2026-05-31, 16:19:34](https://news.ycombinator.com/item?id=48346947) - [Creatine raise brain energy levels and slow Alzheimer's cognitive decline by 30%](https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/)
 * [2026-05-31, 15:50:34](https://news.ycombinator.com/item?id=48346693) - [Odysseus – self-hosted AI workspace](https://github.com/pewdiepie-archdaemon/odysseus)
+* [2026-05-31, 15:46:32](https://news.ycombinator.com/item?id=48346660) - [Chibil: A C compiler targeting .NET IL](https://github.com/MichalStrehovsky/chibil)
 * [2026-05-31, 15:43:29](https://news.ycombinator.com/item?id=48346629) - [Daily pill can double survival time for deadliest cancer, trial shows](https://www.theguardian.com/society/2026/may/31/daily-pill-daraxonrasib-double-survival-time-pancreatic-pancreas-cancer-clinical-trial)
 * [2026-05-31, 15:29:58](https://news.ycombinator.com/item?id=48346507) - [I'm So Tired of Ads](https://blog.absurdpirate.com/im-so-tired-of-ads/)
 * [2026-05-31, 15:04:52](https://news.ycombinator.com/item?id=48346257) - [1-Bit Bonsai Image 4B Image Generation for Local Devices](https://prismml.com/news/bonsai-image-4b)
@@ -13,6 +17,7 @@
 * [2026-05-31, 14:23:30](https://news.ycombinator.com/item?id=48345896) - [The solution might be cancelling my AI subscription](https://thoughts.hmmz.org/2026-05-31.html)
 * [2026-05-31, 14:20:12](https://news.ycombinator.com/item?id=48345881) - [The people who actually want AI to replace humanity](https://www.vox.com/future-perfect/489976/ai-successionism-transhumanism-posthumanism)
 * [2026-05-31, 14:13:20](https://news.ycombinator.com/item?id=48345840) - [Cloudflare Turnstile requiring fingerprintable WebGL](https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting)
+* [2026-05-31, 14:10:36](https://news.ycombinator.com/item?id=48345822) - [FROST: Fingerprinting Remotely using OPFS-based SSD Timing [pdf]](https://hannesweissteiner.com/pdfs/frost.pdf)
 * [2026-05-31, 13:53:16](https://news.ycombinator.com/item?id=48345694) - [I Put a Datacenter GPU in My Gaming PC for £200](https://blog.tymscar.com/posts/v100localllm/)
 * [2026-05-31, 13:11:53](https://news.ycombinator.com/item?id=48345414) - [Human brains are misaligned, hallucinative, stochastic parrots](https://substack.com/@samuelfitoussi/p-191268395)
 * [2026-05-31, 12:49:03](https://news.ycombinator.com/item?id=48345282) - [You Weren't Meant to Have a Boss (2008)](https://paulgraham.com/boss.html)

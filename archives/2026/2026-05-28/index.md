@@ -10,6 +10,7 @@
 * [2026-05-28, 22:29:31](https://news.ycombinator.com/item?id=48316424) - [Gustav Klimt and Egon Schiele in Conversation](https://www.theparisreview.org/blog/2018/01/31/the-drawings-of-klimt-and-schiele/)
 * [2026-05-28, 21:47:22](https://news.ycombinator.com/item?id=48315980) - [Why Gentoo?](https://blogs.gentoo.org/mgorny/2026/05/28/why-gentoo/)
 * [2026-05-28, 21:45:54](https://news.ycombinator.com/item?id=48315968) - [GitHub bans security researcher who posted zero-day Windows exploits](https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation)
+* [2026-05-28, 21:09:36](https://news.ycombinator.com/item?id=48315521) - [Avoiding Death on the Yellow Brick Road](https://www.a16z.news/p/avoiding-death-on-the-yellow-brick)
 * [2026-05-28, 21:03:24](https://news.ycombinator.com/item?id=48315440) - [Protestware for Coding Agents](https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html)
 * [2026-05-28, 20:45:28](https://news.ycombinator.com/item?id=48315206) - [Ask HN: Entrepreneurs, how long did it take you to succeed?](https://news.ycombinator.com/item?id=48315206)
 * [2026-05-28, 20:30:20](https://news.ycombinator.com/item?id=48315016) - [Show HN: Open Envelope – an open schema for defining AI agent teams](https://openenvelope.org/docs/schema/)
