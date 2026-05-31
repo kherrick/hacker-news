@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-05-31, 19:11:34",
+      "https://news.ycombinator.com/item?id=48348704"
+    ],
+    [
+      "Steam Deck sells out in North America within 24 hours of price hike",
+      "https://arstechnica.com/gaming/2026/05/despite-price-hike-steam-deck-is-already-sold-out-in-north-america/"
+    ]
+  ],
+  [
+    [
+      "2026-05-31, 18:57:48",
+      "https://news.ycombinator.com/item?id=48348578"
+    ],
+    [
+      "Codex just found a \"workaround\" of not having sudo on my PC",
+      "https://twitter.com/i/status/2060746160558543217"
+    ]
+  ],
+  [
+    [
+      "2026-05-31, 18:43:05",
+      "https://news.ycombinator.com/item?id=48348429"
+    ],
+    [
+      "Show HN: Streambed – Stream Postgres to Iceberg on S3, Supports Postgres Wire",
+      "https://github.com/viggy28/streambed"
+    ]
+  ],
+  [
+    [
+      "2026-05-31, 17:58:15",
+      "https://news.ycombinator.com/item?id=48347961"
+    ],
+    [
+      "Re: [PATCH] OOM_pardon, a.k.a. don't kill my xlock",
+      "https://lwn.net/Articles/104185/"
+    ]
+  ],
+  [
+    [
       "2026-05-31, 17:04:10",
       "https://news.ycombinator.com/item?id=48347370"
     ],
@@ -27,16 +67,6 @@
     [
       "Creatine raise brain energy levels and slow Alzheimer's cognitive decline by 30%",
       "https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/"
-    ]
-  ],
-  [
-    [
-      "2026-05-31, 15:46:32",
-      "https://news.ycombinator.com/item?id=48346660"
-    ],
-    [
-      "Chibil: A C compiler targeting .NET IL",
-      "https://github.com/MichalStrehovsky/chibil"
     ]
   ],
   [
@@ -191,22 +221,12 @@
   ],
   [
     [
-      "2026-05-30, 22:06:38",
-      "https://news.ycombinator.com/item?id=48341062"
+      "2026-05-31, 05:30:18",
+      "https://news.ycombinator.com/item?id=48343287"
     ],
     [
-      "Shantell Sans (2023)",
-      "https://shantellsans.com/process"
-    ]
-  ],
-  [
-    [
-      "2026-05-30, 21:46:18",
-      "https://news.ycombinator.com/item?id=48340910"
-    ],
-    [
-      "The AV2 Video Standard Has Released (Final v1.0 Specification)",
-      "https://av2.aomedia.org"
+      "A pictorial introduction to differential geometry (2017)",
+      "https://arxiv.org/abs/1709.08492"
     ]
   ],
   [
@@ -231,6 +251,16 @@
   ],
   [
     [
+      "2026-05-29, 11:46:52",
+      "https://news.ycombinator.com/item?id=48321916"
+    ],
+    [
+      "Linux/M68k",
+      "http://www.linux-m68k.org/"
+    ]
+  ],
+  [
+    [
       "2026-05-29, 09:49:13",
       "https://news.ycombinator.com/item?id=48321089"
     ],
@@ -251,26 +281,6 @@
   ],
   [
     [
-      "2026-05-29, 02:49:43",
-      "https://news.ycombinator.com/item?id=48318402"
-    ],
-    [
-      "I found a seashell in the middle of the desert",
-      "https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert#i-found-a-seashell-in-the-middle-of-the-desert"
-    ]
-  ],
-  [
-    [
-      "2026-05-28, 21:09:36",
-      "https://news.ycombinator.com/item?id=48315521"
-    ],
-    [
-      "Avoiding Death on the Yellow Brick Road",
-      "https://www.a16z.news/p/avoiding-death-on-the-yellow-brick"
-    ]
-  ],
-  [
-    [
       "2026-05-28, 18:33:54",
       "https://news.ycombinator.com/item?id=48313427"
     ],
@@ -287,16 +297,6 @@
     [
       "Websites have a new way to spy on visitors: analyzing their SSD activity",
       "https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/"
-    ]
-  ],
-  [
-    [
-      "2026-05-28, 14:00:32",
-      "https://news.ycombinator.com/item?id=48309080"
-    ],
-    [
-      "Inkstravaganza",
-      "https://www.inkandswitch.com/newsletter/dispatch-015/"
     ]
   ]
 ]
