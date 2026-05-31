@@ -21,6 +21,7 @@
 * [2026-05-28, 19:20:06](https://news.ycombinator.com/item?id=48314069) - [Announcing Rust 1.96](https://blog.rust-lang.org/2026/05/28/Rust-1.96.0/)
 * [2026-05-28, 19:15:54](https://news.ycombinator.com/item?id=48314002) - [Nitpicking the shell history scene in 'Tron: Legacy'](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/)
 * [2026-05-28, 19:14:38](https://news.ycombinator.com/item?id=48313990) - [Separate the Cord from the Device](https://bookofjoe2.blogspot.com/2026/05/blog-post_27.html)
+* [2026-05-28, 19:11:59](https://news.ycombinator.com/item?id=48313952) - [Associative learning turns DEET from aversive to appetitive in Aedes aegypti](https://journals.biologists.com/jeb/article/229/10/jeb251935/371741/Associative-learning-switches-DEET-valence-from)
 * [2026-05-28, 19:02:18](https://news.ycombinator.com/item?id=48313810) - [Various LLM Smells](https://shvbsle.in/various-llm-smells/)
 * [2026-05-28, 18:41:46](https://news.ycombinator.com/item?id=48313530) - [Just Use Postgres for Durable Workflows](https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution)
 * [2026-05-28, 18:20:34](https://news.ycombinator.com/item?id=48313219) - [About LLMs at Zig Days](https://kristoff.it/blog/llms-at-zig-days/)

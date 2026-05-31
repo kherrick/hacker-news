@@ -15,6 +15,7 @@
 * [2026-05-30, 20:46:54](https://news.ycombinator.com/item?id=48340448) - [Design Engineering Magazine](https://interfaces.dev/)
 * [2026-05-30, 20:42:28](https://news.ycombinator.com/item?id=48340422) - [wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack](https://github.com/wolfSSL/wolfCOSE)
 * [2026-05-30, 20:40:57](https://news.ycombinator.com/item?id=48340411) - [Domain Expertise Has Always Been the Real Moat](https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/)
+* [2026-05-30, 20:30:53](https://news.ycombinator.com/item?id=48340315) - [Show HN: Breathe CLI – Paced resonance breathing in the macOS terminal](https://github.com/marekkowalczyk/breathe-cli)
 * [2026-05-30, 20:24:26](https://news.ycombinator.com/item?id=48340262) - [Dusklight – GC Twilight Princess Decompiled](https://twilitrealm.dev/)
 * [2026-05-30, 20:05:21](https://news.ycombinator.com/item?id=48340107) - [A disappearing Service Processor (2025)](https://oxide.computer/blog/cosmo-sp)
 * [2026-05-30, 19:47:36](https://news.ycombinator.com/item?id=48339943) - [Parallel Reconstruction of Lawful TLS Wiretapping](https://remyhax.xyz/posts/reproducing-lawful-tls-wiretapping/)
