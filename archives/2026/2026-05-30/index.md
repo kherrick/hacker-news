@@ -51,6 +51,7 @@
 * [2026-05-30, 08:38:28](https://news.ycombinator.com/item?id=48334048) - [Zig: Build System Reworked](https://ziglang.org/devlog/2026/#2026-05-26)
 * [2026-05-30, 08:32:57](https://news.ycombinator.com/item?id=48334021) - [Rsync 3.4.3 has hundreds of Claude commits](https://mastodon.gamedev.place/@JeremiahFieldhaven/116654345332213390)
 * [2026-05-30, 08:04:57](https://news.ycombinator.com/item?id=48333844) - [Iron-rich immune cells help homing pigeons navigate](https://www.science.org/content/article/mind-blowing-iron-rich-immune-cells-help-homing-pigeons-navigate)
+* [2026-05-30, 08:00:50](https://news.ycombinator.com/item?id=48333823) - [The SLAX Scripting Language: An Alternate Syntax for XSLT](http://juniper.github.io/libslax/slax-manual.html)
 * [2026-05-30, 08:00:20](https://news.ycombinator.com/item?id=48333820) - [Danish pension fund excludes SpaceX citing governance and valuation](https://www.reuters.com/legal/transactional/danish-pension-fund-excludes-spacex-citing-governance-valuation-2026-05-29/)
 * [2026-05-30, 06:58:23](https://news.ycombinator.com/item?id=48333440) - [Macsurf, \"modern\" web browser for macOS 9](https://github.com/mplsllc/macsurf)
 * [2026-05-30, 06:00:32](https://news.ycombinator.com/item?id=48333096) - [OpenRCT2 v0.5.1 \"Swamp Castle\" released Last version to support Windows 7](https://openrct2.io/blog/2026/05/openrct2-v0.5.1-released)
