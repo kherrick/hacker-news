@@ -40,6 +40,7 @@
 * [2026-05-30, 13:56:34](https://news.ycombinator.com/item?id=48336233) - [Anthropic surpasses OpenAI to become most valuable AI startup](https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup)
 * [2026-05-30, 13:43:02](https://news.ycombinator.com/item?id=48336096) - [Using safe-area-inset to build mobile-safe layouts](https://polypane.app/blog/using-safe-area-inset-to-build-mobile-safe-layouts/)
 * [2026-05-30, 13:35:43](https://news.ycombinator.com/item?id=48336022) - [Airlines Can't Charge You for What You Wear](https://voyagecoat.com/)
+* [2026-05-30, 13:02:56](https://news.ycombinator.com/item?id=48335704) - [Handmade Hawaiian Islands Map](https://www.notesfromtheroad.com/roam/hawaiian-islands-map.html)
 * [2026-05-30, 12:25:08](https://news.ycombinator.com/item?id=48335442) - [Adding Linux support back for the BASIC (free) version of Vivado](https://adaptivesupport.amd.com/s/question/0D5Pd00001aT5IcKAK/adding-linux-support-back-for-the-basic-free-version-of-vivado?language=en_US)
 * [2026-05-30, 12:17:33](https://news.ycombinator.com/item?id=48335388) - [Corporate America Is Starting to Ration AI as Cost Skyrockets](https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a)
 * [2026-05-30, 11:41:29](https://news.ycombinator.com/item?id=48335135) - [Proposed new US funding rules: We can cancel any grant at any time](https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/)
@@ -58,4 +59,5 @@
 * [2026-05-30, 03:14:25](https://news.ycombinator.com/item?id=48332151) - [Perry Compiles TypeScript directly to executables using SWC and LLVM](https://www.perryts.com/)
 * [2026-05-30, 03:07:25](https://news.ycombinator.com/item?id=48332098) - [Show HN: VT Code – open-source terminal coding agent in Rust](https://github.com/vinhnx/VTCode)
 * [2026-05-30, 02:20:40](https://news.ycombinator.com/item?id=48331786) - [Naphtha Shortages Having a Growing Impact in Japan](https://www.nippon.com/en/japan-data/h02783/)
+* [2026-05-30, 01:50:52](https://news.ycombinator.com/item?id=48331587) - [\"The Apple Boogie\" 1987 Mac Promo Album Cassette Tape [video]](https://www.youtube.com/watch?v=chJHB-btMNI)
 * [2026-05-30, 01:39:52](https://news.ycombinator.com/item?id=48331511) - [WH proposes rules giving political appointees final approval on research grants](https://www.scientificamerican.com/article/white-house-proposes-new-rules-giving-political-appointees-final-say-on-research-grants/)
