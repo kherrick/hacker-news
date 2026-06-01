@@ -38,6 +38,7 @@
 * [2026-05-30, 14:25:50](https://news.ycombinator.com/item?id=48336564) - [Voxel Space](https://s-macke.github.io/VoxelSpace/)
 * [2026-05-30, 14:03:31](https://news.ycombinator.com/item?id=48336312) - [Memory decline after menopause linked to loss of estrogen production in brain](https://news.northwestern.edu/stories/2026/05/memory-decline-after-menopause-linked-to-loss-of-estrogen-production-in-brain-tissue)
 * [2026-05-30, 13:56:34](https://news.ycombinator.com/item?id=48336233) - [Anthropic surpasses OpenAI to become most valuable AI startup](https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup)
+* [2026-05-30, 13:43:02](https://news.ycombinator.com/item?id=48336096) - [Using safe-area-inset to build mobile-safe layouts](https://polypane.app/blog/using-safe-area-inset-to-build-mobile-safe-layouts/)
 * [2026-05-30, 13:35:43](https://news.ycombinator.com/item?id=48336022) - [Airlines Can't Charge You for What You Wear](https://voyagecoat.com/)
 * [2026-05-30, 12:25:08](https://news.ycombinator.com/item?id=48335442) - [Adding Linux support back for the BASIC (free) version of Vivado](https://adaptivesupport.amd.com/s/question/0D5Pd00001aT5IcKAK/adding-linux-support-back-for-the-basic-free-version-of-vivado?language=en_US)
 * [2026-05-30, 12:17:33](https://news.ycombinator.com/item?id=48335388) - [Corporate America Is Starting to Ration AI as Cost Skyrockets](https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a)

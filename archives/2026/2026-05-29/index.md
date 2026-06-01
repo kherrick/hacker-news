@@ -27,6 +27,7 @@
 * [2026-05-29, 17:50:11](https://news.ycombinator.com/item?id=48326721) - [What if remote working, not AI, is to blame for weak junior hiring?](https://www.ft.com/content/2205e2d0-50dc-4e80-9bf7-78d0272276c0)
 * [2026-05-29, 17:46:27](https://news.ycombinator.com/item?id=48326659) - [Robinhood now lets your AI agents trade stocks](https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/)
 * [2026-05-29, 17:39:49](https://news.ycombinator.com/item?id=48326561) - [Letter from the Duke of Wellington to the British Foreign Office (1809)](https://wellsoc.org/society-member-pages/anecdotes-of-wellington/)
+* [2026-05-29, 17:06:10](https://news.ycombinator.com/item?id=48326053) - [Reconciling Kubernetes cost estimates with CUR / FOCUS billing data](https://github.com/tanrikuluozlem/burn)
 * [2026-05-29, 16:39:09](https://news.ycombinator.com/item?id=48325624) - [Show HN: TV Explorer. Adding advanced UI to free online TV](https://tvexplorer.live)
 * [2026-05-29, 16:22:01](https://news.ycombinator.com/item?id=48325340) - [Notes from the Mistral AI Now Summit in Paris](https://koenvangilst.nl/lab/mistral-ai-now-summit)
 * [2026-05-29, 16:19:54](https://news.ycombinator.com/item?id=48325306) - [Liquid AI reveals 8B-A1B MoE trained on 38T](https://www.liquid.ai/blog/lfm2-5-8b-a1b)
