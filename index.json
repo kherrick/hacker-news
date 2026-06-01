@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-06-01, 20:55:15",
-      "https://news.ycombinator.com/item?id=48362515"
-    ],
-    [
-      "Alphabet announces $80B equity capital raise to expand AI infra and compute",
-      "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx"
-    ]
-  ],
-  [
-    [
       "2026-06-01, 20:40:13",
       "https://news.ycombinator.com/item?id=48362347"
     ],
@@ -27,6 +17,16 @@
     [
       "GitHub and the crime against software",
       "https://eblog.fly.dev/githubbad.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-01, 18:54:12",
+      "https://news.ycombinator.com/item?id=48361054"
+    ],
+    [
+      "Show HN: Textile – A desktop app for weaving together bits of text",
+      "https://www.gettextile.app"
     ]
   ],
   [
@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2026-06-01, 13:58:04",
-      "https://news.ycombinator.com/item?id=48356946"
-    ],
-    [
-      "Show HN: A CSS 3D Engine (no WebGL)",
-      "https://github.com/LayoutitStudio/polycss"
-    ]
-  ],
-  [
-    [
       "2026-06-01, 13:50:14",
       "https://news.ycombinator.com/item?id=48356847"
     ],
@@ -231,22 +221,22 @@
   ],
   [
     [
-      "2026-06-01, 06:38:42",
-      "https://news.ycombinator.com/item?id=48353348"
-    ],
-    [
-      "A 10 year old Xeon is all you need",
-      "https://point.free/blog/gemma-4-on-a-2016-xeon/"
-    ]
-  ],
-  [
-    [
       "2026-06-01, 05:24:40",
       "https://news.ycombinator.com/item?id=48352939"
     ],
     [
       "Nvidia RTX Spark",
       "https://www.nvidia.com/en-us/products/rtx-spark/"
+    ]
+  ],
+  [
+    [
+      "2026-05-30, 22:54:13",
+      "https://news.ycombinator.com/item?id=48341377"
+    ],
+    [
+      "Building a custom mount for a telescoping webcam",
+      "https://john.mercouris.online/webcam-mount.html"
     ]
   ],
   [
@@ -265,7 +255,7 @@
       "https://news.ycombinator.com/item?id=48338145"
     ],
     [
-      "I missed Network integrated tools on Windows so I built a Linux equivalent",
+      "Show HN: A free Linux adaptation of NETworkManager by BornToBeRoot",
       "https://github.com/thongor77/nmlinux"
     ]
   ],
@@ -287,6 +277,16 @@
     [
       "I made my phone slow on purpose",
       "https://vinewallapp.com/notes/i-made-my-phone-slow-on-purpose/"
+    ]
+  ],
+  [
+    [
+      "2026-05-28, 16:46:10",
+      "https://news.ycombinator.com/item?id=48311587"
+    ],
+    [
+      "Tracing HTTP Requests with Go's net/HTTP/httptrace",
+      "https://blainsmith.com/articles/httptrace-with-go/"
     ]
   ],
   [
