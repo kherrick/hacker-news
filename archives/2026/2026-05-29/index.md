@@ -6,6 +6,7 @@
 
 * [2026-05-29, 23:57:45](https://news.ycombinator.com/item?id=48330902) - [Ember.js 7.0](https://blog.emberjs.com/ember-released-7-0/)
 * [2026-05-29, 23:54:22](https://news.ycombinator.com/item?id=48330882) - [What Is a Dickover?](https://daringfireball.net/2026/05/what_is_a_dickover)
+* [2026-05-29, 23:26:41](https://news.ycombinator.com/item?id=48330696) - [Bias Compounds, Variance Washes Out](https://convergentthinking.sh/posts/bias-compounds-variance-washes-out/)
 * [2026-05-29, 22:56:49](https://news.ycombinator.com/item?id=48330436) - [MCP Is Dead](https://www.quandri.io/engineering-blog/mcp-is-dead)
 * [2026-05-29, 22:44:10](https://news.ycombinator.com/item?id=48330306) - [Show HN: Free activity calendar for schools, sports clubs, and organizations](https://freecal.eu/?lang=en)
 * [2026-05-29, 22:32:29](https://news.ycombinator.com/item?id=48330192) - [Show HN: Open-source private home security camera system (end-to-end encryption)](https://github.com/secluso/core)
@@ -21,6 +22,7 @@
 * [2026-05-29, 19:28:55](https://news.ycombinator.com/item?id=48328088) - [CVE-Bench: testing LLM agents on real-world vulnerability patches](https://giovannigatti.github.io/cve-bench/)
 * [2026-05-29, 19:16:32](https://news.ycombinator.com/item?id=48327962) - [Shift will clean homes for free to train future robots](https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning)
 * [2026-05-29, 19:04:54](https://news.ycombinator.com/item?id=48327809) - [On Rendering Diffs](https://pierre.computer/writing/on-rendering-diffs)
+* [2026-05-29, 18:37:22](https://news.ycombinator.com/item?id=48327453) - [Decades of Effort Restore Steelhead and Salmon Passage on Alameda Creek](https://www.fisheries.noaa.gov/feature-story/decades-effort-restore-steelhead-and-salmon-passage-californias-alameda-creek)
 * [2026-05-29, 18:31:52](https://news.ycombinator.com/item?id=48327367) - [Rothko for your current weather conditions](https://rothko.joonas.wtf/)
 * [2026-05-29, 18:23:03](https://news.ycombinator.com/item?id=48327222) - [AI will be used to estimate age of asylum seekers from next year](https://www.bbc.co.uk/news/articles/ce3pe36qe7ro)
 * [2026-05-29, 17:54:50](https://news.ycombinator.com/item?id=48326802) - [SQLite is all you need for durable workflows](https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/)
@@ -54,6 +56,7 @@
 * [2026-05-29, 12:31:59](https://news.ycombinator.com/item?id=48322267) - [Poll: How often do you check \"newest\"?](https://news.ycombinator.com/item?id=48322267)
 * [2026-05-29, 12:30:02](https://news.ycombinator.com/item?id=48322241) - [High Density Living, 2000 Years Ago: Inside the Roman Apartment Building](https://commonedge.org/high-density-living-2000-years-ago-inside-the-roman-apartment-building/)
 * [2026-05-29, 12:17:55](https://news.ycombinator.com/item?id=48322154) - [The UK Government's Low Value Purchase System Is a Waste of Time](https://shkspr.mobi/blog/2026/05/the-uk-governments-low-value-purchase-system-is-a-waste-of-time/)
+* [2026-05-29, 12:15:43](https://news.ycombinator.com/item?id=48322134) - [Finding success in industry as a chip designer](https://spectrum.ieee.org/chip-design-academic-vs-industry)
 * [2026-05-29, 12:12:16](https://news.ycombinator.com/item?id=48322118) - [We should be more tired than the model](https://vickiboykis.com/2026/05/28/we-should-be-more-tired-than-the-model/)
 * [2026-05-29, 12:01:00](https://news.ycombinator.com/item?id=48322030) - [Cedana (YC S23) Is Hiring](https://www.ycombinator.com/companies/cedana/jobs/d1vYocG-forward-deployed-engineer-ai-hpc)
 * [2026-05-29, 12:00:24](https://news.ycombinator.com/item?id=48322025) - [Testing the WWI concrete ships and WWII concrete barges](https://thecretefleet.com/blog/f/testing-the-wwi-concrete-ships-and-wwii-concrete-barges)
