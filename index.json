@@ -1,22 +1,32 @@
 [
   [
     [
-      "2026-05-31, 22:59:50",
-      "https://news.ycombinator.com/item?id=48350598"
+      "2026-06-01, 05:24:40",
+      "https://news.ycombinator.com/item?id=48352939"
     ],
     [
-      "Chuwi Minibook X: the netbook we deserve",
-      "https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/"
+      "Nvidia RTX Spark",
+      "https://www.nvidia.com/en-us/products/rtx-spark/"
     ]
   ],
   [
     [
-      "2026-05-31, 21:57:48",
-      "https://news.ycombinator.com/item?id=48350149"
+      "2026-06-01, 04:08:02",
+      "https://news.ycombinator.com/item?id=48352500"
     ],
     [
-      "It's Not Just X. It's Y",
-      "https://mail.cyberneticforests.com/its-not-just-data-its-post-training/"
+      "Rubin Tracks Skyscraper-Size Asteroids and Failed Supernovas",
+      "https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/"
+    ]
+  ],
+  [
+    [
+      "2026-05-31, 22:59:50",
+      "https://news.ycombinator.com/item?id=48350598"
+    ],
+    [
+      "Chuwi Minibook X",
+      "https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/"
     ]
   ],
   [
@@ -25,18 +35,8 @@
       "https://news.ycombinator.com/item?id=48349487"
     ],
     [
-      "ChatGPT for Google Sheets is vulnerable to data exfiltration and phishing",
+      "ChatGPT for Google Sheets exfiltrates workbooks",
       "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration"
-    ]
-  ],
-  [
-    [
-      "2026-05-31, 19:27:44",
-      "https://news.ycombinator.com/item?id=48348864"
-    ],
-    [
-      "'Backrooms' Stuns with $81M Debut",
-      "https://variety.com/2026/film/box-office/backrooms-box-office-record-opening-weekend-obsession-jumps-star-wars-crumbles-1236763355/"
     ]
   ],
   [
@@ -101,26 +101,6 @@
   ],
   [
     [
-      "2026-05-31, 16:19:34",
-      "https://news.ycombinator.com/item?id=48346947"
-    ],
-    [
-      "Creatine raises brain energy levels and slows cognitive decline: study",
-      "https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/"
-    ]
-  ],
-  [
-    [
-      "2026-05-31, 15:50:34",
-      "https://news.ycombinator.com/item?id=48346693"
-    ],
-    [
-      "Odysseus – self-hosted AI workspace",
-      "https://github.com/pewdiepie-archdaemon/odysseus"
-    ]
-  ],
-  [
-    [
       "2026-05-31, 15:04:52",
       "https://news.ycombinator.com/item?id=48346257"
     ],
@@ -147,16 +127,6 @@
     [
       "Cloudflare Turnstile requiring fingerprintable WebGL",
       "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting"
-    ]
-  ],
-  [
-    [
-      "2026-05-31, 14:10:36",
-      "https://news.ycombinator.com/item?id=48345822"
-    ],
-    [
-      "FROST: Fingerprinting Remotely using OPFS-based SSD Timing [pdf]",
-      "https://hannesweissteiner.com/pdfs/frost.pdf"
     ]
   ],
   [
@@ -221,22 +191,32 @@
   ],
   [
     [
+      "2026-05-29, 23:26:41",
+      "https://news.ycombinator.com/item?id=48330696"
+    ],
+    [
+      "Bias Compounds, Variance Washes Out",
+      "https://convergentthinking.sh/posts/bias-compounds-variance-washes-out/"
+    ]
+  ],
+  [
+    [
+      "2026-05-29, 18:37:22",
+      "https://news.ycombinator.com/item?id=48327453"
+    ],
+    [
+      "Decades of Effort Restore Steelhead and Salmon Passage on Alameda Creek",
+      "https://www.fisheries.noaa.gov/feature-story/decades-effort-restore-steelhead-and-salmon-passage-californias-alameda-creek"
+    ]
+  ],
+  [
+    [
       "2026-05-29, 17:50:11",
       "https://news.ycombinator.com/item?id=48326721"
     ],
     [
       "What if remote working, not AI, is to blame for weak junior hiring?",
       "https://www.ft.com/content/2205e2d0-50dc-4e80-9bf7-78d0272276c0"
-    ]
-  ],
-  [
-    [
-      "2026-05-29, 17:06:10",
-      "https://news.ycombinator.com/item?id=48326053"
-    ],
-    [
-      "Reconciling Kubernetes cost estimates with CUR / FOCUS billing data",
-      "https://github.com/tanrikuluozlem/burn"
     ]
   ],
   [
@@ -261,12 +241,32 @@
   ],
   [
     [
+      "2026-05-29, 12:15:43",
+      "https://news.ycombinator.com/item?id=48322134"
+    ],
+    [
+      "Finding success in industry as a chip designer",
+      "https://spectrum.ieee.org/chip-design-academic-vs-industry"
+    ]
+  ],
+  [
+    [
       "2026-05-29, 11:46:52",
       "https://news.ycombinator.com/item?id=48321916"
     ],
     [
       "Linux/M68k",
       "http://www.linux-m68k.org/"
+    ]
+  ],
+  [
+    [
+      "2026-05-28, 22:21:59",
+      "https://news.ycombinator.com/item?id=48316350"
+    ],
+    [
+      "The Genius of the Barn Owl's Feathers",
+      "https://thereader.mitpress.mit.edu/the-genius-of-the-barn-owls-feathers/"
     ]
   ],
   [
