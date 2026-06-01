@@ -7,6 +7,7 @@
 * [2026-06-01, 20:55:15](https://news.ycombinator.com/item?id=48362515) - [Alphabet announces $80B equity capital raise to expand AI infra and compute](https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx)
 * [2026-06-01, 20:40:13](https://news.ycombinator.com/item?id=48362347) - [Debug Project](https://debug.com/)
 * [2026-06-01, 18:54:55](https://news.ycombinator.com/item?id=48361064) - [GitHub and the crime against software](https://eblog.fly.dev/githubbad.html)
+* [2026-06-01, 18:54:12](https://news.ycombinator.com/item?id=48361054) - [Show HN: Textile – A desktop app for weaving together bits of text](https://www.gettextile.app)
 * [2026-06-01, 18:39:53](https://news.ycombinator.com/item?id=48360871) - [GrapheneOS Speech Services version 2 released](https://discuss.grapheneos.org/d/36001-grapheneos-speech-services-version-2-released)
 * [2026-06-01, 17:43:07](https://news.ycombinator.com/item?id=48360137) - [Superintelligence: The Idea That Eats Smart People (2016)](https://idlewords.com/talks/superintelligence.htm)
 * [2026-06-01, 17:37:20](https://news.ycombinator.com/item?id=48360054) - [Should you normalize RGB values by 255 or 256?](https://30fps.net/pages/255-vs-256-division/)
