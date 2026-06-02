@@ -41,6 +41,7 @@
 * [2026-05-30, 15:41:04](https://news.ycombinator.com/item?id=48337409) - [Ask HN: What Is the State of App Development in 2026?](https://news.ycombinator.com/item?id=48337409)
 * [2026-05-30, 15:15:23](https://news.ycombinator.com/item?id=48337137) - [A Probabilistic Algorithm for Repairing All Roads in Lebanon via Papal Visits](https://sigbovik.org/2026/proceedings.pdf#%5B%7B%22num%22%3A13%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C72%2C720%2Cnull%5D)
 * [2026-05-30, 15:04:39](https://news.ycombinator.com/item?id=48337021) - [KL Zero: KL divergence intuition game](https://klzero.sarna.dev)
+* [2026-05-30, 14:42:55](https://news.ycombinator.com/item?id=48336783) - [Webcam head tracking, webcam to control in‑game FOV](https://www.openfov.com/)
 * [2026-05-30, 14:25:50](https://news.ycombinator.com/item?id=48336564) - [Voxel Space](https://s-macke.github.io/VoxelSpace/)
 * [2026-05-30, 14:03:31](https://news.ycombinator.com/item?id=48336312) - [Memory decline after menopause linked to loss of estrogen production in brain](https://news.northwestern.edu/stories/2026/05/memory-decline-after-menopause-linked-to-loss-of-estrogen-production-in-brain-tissue)
 * [2026-05-30, 13:56:34](https://news.ycombinator.com/item?id=48336233) - [Anthropic surpasses OpenAI to become most valuable AI startup](https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup)

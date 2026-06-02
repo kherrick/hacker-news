@@ -45,6 +45,7 @@
 * [2026-05-31, 07:16:18](https://news.ycombinator.com/item?id=48343714) - [London's Free Roof Terraces](https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html)
 * [2026-05-31, 07:09:50](https://news.ycombinator.com/item?id=48343683) - [The Website Specification](https://specification.website/)
 * [2026-05-31, 07:00:50](https://news.ycombinator.com/item?id=48343635) - [Telli (YC F24) is hiring in engineering, design, and GTM [Berlin, on-site]](https://hi.telli.com/join-us)
+* [2026-05-31, 06:16:06](https://news.ycombinator.com/item?id=48343435) - [Why Custom Attributes in .NET Give Me Nightmares](https://blog.washi.dev/posts/custom-attributes-and-why-they-suck/)
 * [2026-05-31, 06:13:59](https://news.ycombinator.com/item?id=48343424) - [Avian Visitors](https://theodore.net/projects/AvianVisitors/)
 * [2026-05-31, 05:30:18](https://news.ycombinator.com/item?id=48343287) - [A pictorial introduction to differential geometry (2017)](https://arxiv.org/abs/1709.08492)
 * [2026-05-31, 05:11:40](https://news.ycombinator.com/item?id=48343216) - [Show HN: Komi-learn – continuous memory and self-improvement for coding agents](https://github.com/kurikomi-labs/komi-learn)
