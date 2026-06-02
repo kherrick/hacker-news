@@ -50,6 +50,7 @@
 * [2026-05-30, 12:25:08](https://news.ycombinator.com/item?id=48335442) - [Adding Linux support back for the BASIC (free) version of Vivado](https://adaptivesupport.amd.com/s/question/0D5Pd00001aT5IcKAK/adding-linux-support-back-for-the-basic-free-version-of-vivado?language=en_US)
 * [2026-05-30, 12:17:33](https://news.ycombinator.com/item?id=48335388) - [Corporate America Is Starting to Ration AI as Cost Skyrockets](https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a)
 * [2026-05-30, 11:41:29](https://news.ycombinator.com/item?id=48335135) - [Proposed new US funding rules: We can cancel any grant at any time](https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/)
+* [2026-05-30, 11:18:04](https://news.ycombinator.com/item?id=48335022) - [CQL: Categorical Databases](https://categoricaldata.net/)
 * [2026-05-30, 11:08:37](https://news.ycombinator.com/item?id=48334949) - [Show HN: Helios – what plug-in solar could generate for any address in Britain](https://helios.southlondonscientific.com/)
 * [2026-05-30, 10:51:48](https://news.ycombinator.com/item?id=48334854) - [Openrsync: An implementation of rsync, by the OpenBSD team](https://github.com/kristapsdz/openrsync)
 * [2026-05-30, 10:30:50](https://news.ycombinator.com/item?id=48334710) - [Leo's first encyclical attacks technological messianism](https://www.economist.com/europe/2026/05/28/leos-first-encyclical-attacks-technological-messianism)
