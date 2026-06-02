@@ -1,12 +1,62 @@
 [
   [
     [
+      "2026-06-02, 22:55:33",
+      "https://news.ycombinator.com/item?id=48377404"
+    ],
+    [
+      "Use your Nvidia GPU's VRAM as swap space on Linux",
+      "https://github.com/c0dejedi/nbd-vram"
+    ]
+  ],
+  [
+    [
+      "2026-06-02, 22:34:42",
+      "https://news.ycombinator.com/item?id=48377250"
+    ],
+    [
+      "Paseo – Beautiful open-source coding agent interface (desktop, mobile, CLI)",
+      "https://github.com/getpaseo/paseo"
+    ]
+  ],
+  [
+    [
+      "2026-06-02, 22:22:34",
+      "https://news.ycombinator.com/item?id=48377140"
+    ],
+    [
+      "4K years ago, Mohenjo-daro grew more equal over time",
+      "https://archaeologymag.com/2026/05/mohenjo-daro-grew-more-equal-over-time/"
+    ]
+  ],
+  [
+    [
+      "2026-06-02, 22:16:20",
+      "https://news.ycombinator.com/item?id=48377080"
+    ],
+    [
+      "Gleam v1.17.0 Released",
+      "https://gleam.run/news/single-file-gleam-beam-programs-with-escript/"
+    ]
+  ],
+  [
+    [
       "2026-06-02, 20:30:08",
       "https://news.ycombinator.com/item?id=48375824"
     ],
     [
       "CT scans of BYD car parts",
       "https://www.lumafield.com/scan-of-the-month/byd"
+    ]
+  ],
+  [
+    [
+      "2026-06-02, 20:19:11",
+      "https://news.ycombinator.com/item?id=48375673"
+    ],
+    [
+      "Now AI agents need what RSS does",
+      "https://julienreszka.com/blog/rss-is-back-ai-agents-are-reading-it/"
     ]
   ],
   [
@@ -81,52 +131,12 @@
   ],
   [
     [
-      "2026-06-02, 18:39:34",
-      "https://news.ycombinator.com/item?id=48374362"
-    ],
-    [
-      "MAI-Thinking-1",
-      "https://microsoft.ai/news/introducing-mai-thinking-1/"
-    ]
-  ],
-  [
-    [
-      "2026-06-02, 18:19:27",
-      "https://news.ycombinator.com/item?id=48374079"
-    ],
-    [
-      "Microsoft announces Scout, an autonomous AI agent built on OpenClaw",
-      "https://www.computerworld.com/article/4180103/microsoft-unveils-scout-an-autonomous-ai-agent-built-on-openclaw.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-02, 17:58:55",
-      "https://news.ycombinator.com/item?id=48373764"
-    ],
-    [
-      "GitHub Copilot App",
-      "https://github.com/features/preview/github-app"
-    ]
-  ],
-  [
-    [
       "2026-06-02, 17:52:48",
       "https://news.ycombinator.com/item?id=48373675"
     ],
     [
       "Bringing Up DeepSeek-V4-Flash on AMD MI300X",
       "https://fergusfinn.com/blog/deepseek-v4-flash-mi300x/"
-    ]
-  ],
-  [
-    [
-      "2026-06-02, 17:40:15",
-      "https://news.ycombinator.com/item?id=48373482"
-    ],
-    [
-      "Show HN: RePlaya – self-hosted browser session replay with live tailing",
-      "https://github.com/s2-streamstore/replaya"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "Trump signs downsized AI order after weeks of reversals",
       "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389"
-    ]
-  ],
-  [
-    [
-      "2026-06-02, 16:35:20",
-      "https://news.ycombinator.com/item?id=48372547"
-    ],
-    [
-      "Rethinking search as code generation",
-      "https://research.perplexity.ai/articles/rethinking-search-as-code-generation"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2026-06-02, 07:46:20",
+      "https://news.ycombinator.com/item?id=48367223"
+    ],
+    [
+      "California’s university system went all in on AI, now it's tearing itself apart",
+      "https://www.nytimes.com/2026/06/01/magazine/ai-university-college-california.html"
+    ]
+  ],
+  [
+    [
       "2026-06-01, 23:22:28",
       "https://news.ycombinator.com/item?id=48363882"
     ],
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2026-05-31, 07:11:36",
-      "https://news.ycombinator.com/item?id=48343695"
+      "2026-05-30, 15:01:45",
+      "https://news.ycombinator.com/item?id=48337000"
     ],
     [
-      "Made a Tool to Streams Changes from Microsoft SQL Server to Apache Kafka",
-      "https://github.com/Niyko/Athena"
-    ]
-  ],
-  [
-    [
-      "2026-05-30, 09:38:52",
-      "https://news.ycombinator.com/item?id=48334395"
-    ],
-    [
-      "BQN: What Is a Primitive?",
-      "https://mlochbaum.github.io/BQN/commentary/primitive.html"
+      "MP3s from Google Drive in Music Assistant on Home Assistant",
+      "https://blog.tomayac.com/2026/05/30/your-mp3s-from-google-drive-in-music-assistant-on-home-assistant/"
     ]
   ]
 ]
