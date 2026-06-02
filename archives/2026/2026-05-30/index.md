@@ -56,6 +56,7 @@
 * [2026-05-30, 10:51:48](https://news.ycombinator.com/item?id=48334854) - [Openrsync: An implementation of rsync, by the OpenBSD team](https://github.com/kristapsdz/openrsync)
 * [2026-05-30, 10:30:50](https://news.ycombinator.com/item?id=48334710) - [Leo's first encyclical attacks technological messianism](https://www.economist.com/europe/2026/05/28/leos-first-encyclical-attacks-technological-messianism)
 * [2026-05-30, 09:56:42](https://news.ycombinator.com/item?id=48334515) - [Pandoc Templates](https://pandoc-templates.org/)
+* [2026-05-30, 09:38:52](https://news.ycombinator.com/item?id=48334395) - [BQN: What Is a Primitive?](https://mlochbaum.github.io/BQN/commentary/primitive.html)
 * [2026-05-30, 09:18:49](https://news.ycombinator.com/item?id=48334283) - [The Kaiser and a \"Mediocre Man\" Theory of History](https://www.deadcarl.com/p/the-kaiser-and-a-mediocre-man-theory)
 * [2026-05-30, 08:38:28](https://news.ycombinator.com/item?id=48334048) - [Zig: Build System Reworked](https://ziglang.org/devlog/2026/#2026-05-26)
 * [2026-05-30, 08:32:57](https://news.ycombinator.com/item?id=48334021) - [Rsync 3.4.3 has hundreds of Claude commits](https://mastodon.gamedev.place/@JeremiahFieldhaven/116654345332213390)
