@@ -129,73 +129,297 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="48370437">
+        <section id="48373909">
           <h3>
             <a
               class="item"
-              href="https://www.wheresyoured.at/ai-doesnt-have-roi/"
-              >AI Doesn't Have ROI</a
+              href="https://www.reuters.com/business/media-telecom/morningstar-values-spacex-780-billion-half-its-ipo-target-2026-06-02/"
+              >Morningstar values SpaceX at $780B, half its IPO target</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-06-02 @ 14:06:52</span
+              <span>2026-06-02 @ 18:09:53</span
               ><span class="points-container"
-                >Points: <span class="points">50</span></span
+                >Points: <span class="points">171</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48370437"
+                ><a href="https://news.ycombinator.com/item?id=48373909"
                   >Comments</a
-                ><span class="descendants">: 40</span></span
+                ><span class="descendants">: 141</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="48370330">
+        <section id="48373764">
           <h3>
-            <a class="item" href="https://news.ycombinator.com/item?id=48370330"
-              >Please don't spam people looking for employment. It's just
-              cruel</a
+            <a
+              class="item"
+              href="https://github.com/features/preview/github-app"
+              >GitHub Copilot App</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-06-02 @ 13:56:46</span
+              <span>2026-06-02 @ 17:58:55</span
               ><span class="points-container"
-                >Points: <span class="points">823</span></span
+                >Points: <span class="points">79</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48370330"
+                ><a href="https://news.ycombinator.com/item?id=48373764"
                   >Comments</a
-                ><span class="descendants">: 235</span></span
+                ><span class="descendants">: 55</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48373544">
+          <h3>
+            <a
+              class="item"
+              href="https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/"
+              >Anthropic scales Claude Mythos to critical infrastructure in 15
+              countries</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-06-02 @ 17:44:05</span
+              ><span class="points-container"
+                >Points: <span class="points">45</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48373544"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48373482">
+          <h3>
+            <a class="item" href="https://github.com/s2-streamstore/replaya"
+              >Show HN: RePlaya – self-hosted browser session replay with live
+              tailing</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-06-02 @ 17:40:15</span
+              ><span class="points-container"
+                >Points: <span class="points">29</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48373482"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
               >
             </h4>
             <div class="text">
-              <p>A couple hours later I received an email:</p>
-              <p>“Hi Ilia,</p>
+              <a href="https://github.com/s2-streamstore/replaya"
+                >https://github.com/s2-streamstore/replaya</a
+              >) is a self-hosted browser session replay tool using rrweb (<a
+                href="https://github.com/rrweb-io/rrweb"
+                >https://github.com/rrweb-io/rrweb</a
+              >).
               <p>
-                I saw your comment on the June Who’s Hiring thread. I build
-                production-ready TypeScript and Python systems that integrate
-                LLMs into real workflows, with particular focus on RAG, agent
-                orchestration, and clear blah-blah-blah”
+                It occurred to me that a durable stream per session would be a
+                much neater architectural foundation for much of what you'd want
+                from such a tool. As a unique feature, it also made live tailing
+                straightforward because the player can read from the same stream
+                the recorder is appending to.
               </p>
               <p>
-                Come on. I am a forced immigrant with a wife, a cat, rent and
-                crushing debt, who’s been unemployed for 6 months. I am
-                naturally an extremely optimistic person, but boy is energy on
-                the low by now. And every e-mail in my inbox, especially one
-                starting with something related to my job search, is a glimmer
-                of hope. Just to be crushed by what comes next. Yes, it’s a
-                minor cut, but those compound.
+                The alternative architecture is likely an ingest firehose which
+                is then indexed, with associated complexity and latency. You'd
+                have to string together multiple data systems like a message
+                queue, a metadata database, and blob storage and/or an OLAP
+                database.
               </p>
-              <p>Please just don’t do this.</p>
               <p>
-                Maybe add a skill to your Claude Code called “empathy”? You can
-                have your Claw access a “be considerate of other people’s
-                experiences” MCP server! Or just ask your “Daily Grind Reminder”
-                Telegram bot to recommend a good book of fiction from time to
-                time. Just to develop some humanity.
+                Here the only dependency is S2, which has an open source version
+                you can self-host called s2-lite (<a
+                  href="https://news.ycombinator.com/item?id=46708055"
+                  >https://news.ycombinator.com/item?id=46708055</a
+                >).
               </p>
-              <p>Sorry for venting.</p>
+              <p>How it works:</p>
+              <p>- one S2 stream per browser session</p>
+              <p>
+                - large rrweb events (like a full snapshot) get framed across
+                multiple binary S2 records and reassembled on read
+              </p>
+              <p>
+                - active sessions are tailed with an S2 read session, and
+                bridged to the browser over SSE
+              </p>
+              <p>
+                - session listing relies on stream names encoding reverse
+                timestamps, as S2 returns a lexicographic order listing
+              </p>
+              <p>
+                - relying on fencing tokens so a stopped session can't be
+                written to again by a late recorder
+              </p>
+              <p>
+                - retention and GC are handled via S2 stream config, so no
+                background job needed
+              </p>
+              <p>
+                Curious to hear from folks on the tool or the stream-per-session
+                model!
+              </p>
             </div>
+          </section>
+        </section>
+        <section id="48373442">
+          <h3>
+            <a class="item" href="https://c9x.me/compile/release/qbe-1.3.html"
+              >QBE – Compiler Back end: Version 1.3</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-06-02 @ 17:37:32</span
+              ><span class="points-container"
+                >Points: <span class="points">56</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48373442"
+                  >Comments</a
+                ><span class="descendants">: 10</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48373391">
+          <h3>
+            <a
+              class="item"
+              href="https://www.techradar.com/pro/quote-of-the-day-by-oracle-co-founder-larry-ellison-citizens-will-be-on-their-best-behavior-because-were-constantly-recording-and-reporting-everything-that-is-going-on-a-dire-warning-on-the-erosion-of-privacy"
+              >Larry Ellison: "Citizens will be on their best behavior because
+              we’re recording"</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-06-02 @ 17:34:10</span
+              ><span class="points-container"
+                >Points: <span class="points">269</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48373391"
+                  >Comments</a
+                ><span class="descendants">: 204</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48373054">
+          <h3>
+            <a
+              class="item"
+              href="https://jasonzweig.com/three-ways-to-get-paid/"
+              >Three Ways to Get Paid (2018)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-06-02 @ 17:09:04</span
+              ><span class="points-container"
+                >Points: <span class="points">191</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48373054"
+                  >Comments</a
+                ><span class="descendants">: 124</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48372853">
+          <h3>
+            <a class="item" href="https://github.com/microsoft/coreutils"
+              >Coreutils for Windows</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-06-02 @ 16:55:11</span
+              ><span class="points-container"
+                >Points: <span class="points">181</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48372853"
+                  >Comments</a
+                ><span class="descendants">: 175</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48372628">
+          <h3>
+            <a
+              class="item"
+              href="https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389"
+              >Trump signs downsized AI order after weeks of reversals</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-06-02 @ 16:40:16</span
+              ><span class="points-container"
+                >Points: <span class="points">127</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48372628"
+                  >Comments</a
+                ><span class="descendants">: 83</span></span
+              >
+            </h4>
+            <div class="text">
+              <a
+                href="https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/"
+                >https://www.whitehouse.gov/presidential-actions/2026/06/prom...</a
+              >
+              <p>
+                <a
+                  href="https://www.nytimes.com/2026/06/02/technology/trump-executive-order-ai.html"
+                  >https://www.nytimes.com/2026/06/02/technology/trump-executiv...</a
+                >
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="48372547">
+          <h3>
+            <a
+              class="item"
+              href="https://research.perplexity.ai/articles/rethinking-search-as-code-generation"
+              >Rethinking Search as Code Generation</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-06-02 @ 16:35:20</span
+              ><span class="points-container"
+                >Points: <span class="points">62</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48372547"
+                  >Comments</a
+                ><span class="descendants">: 18</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48370588">
+          <h3>
+            <a class="item" href="https://blog.davidedmundson.co.uk/blog/596/"
+              >Preparing for KDE Plasma's Last X11-Supported Release</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-06-02 @ 14:16:30</span
+              ><span class="points-container"
+                >Points: <span class="points">117</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48370588"
+                  >Comments</a
+                ><span class="descendants">: 143</span></span
+              >
+            </h4>
           </section>
         </section>
         <section id="48370291">
@@ -208,32 +432,11 @@
             <h4>
               <span>2026-06-02 @ 13:53:52</span
               ><span class="points-container"
-                >Points: <span class="points">108</span></span
+                >Points: <span class="points">136</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48370291"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48370144">
-          <h3>
-            <a
-              class="item"
-              href="https://www.nytimes.com/2026/06/02/business/media/martin-scorsese-artificial-intelligence.html"
-              >Martin Scorsese Is Embracing A.I</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-06-02 @ 13:39:29</span
-              ><span class="points-container"
-                >Points: <span class="points">43</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48370144"
-                  >Comments</a
-                ><span class="descendants">: 50</span></span
+                ><span class="descendants">: 48</span></span
               >
             </h4>
           </section>
@@ -250,11 +453,11 @@
             <h4>
               <span>2026-06-02 @ 13:24:32</span
               ><span class="points-container"
-                >Points: <span class="points">255</span></span
+                >Points: <span class="points">341</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48369980"
                   >Comments</a
-                ><span class="descendants">: 124</span></span
+                ><span class="descendants">: 201</span></span
               >
             </h4>
           </section>
@@ -271,13 +474,19 @@
             <h4>
               <span>2026-06-02 @ 13:15:14</span
               ><span class="points-container"
-                >Points: <span class="points">110</span></span
+                >Points: <span class="points">139</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48369863"
                   >Comments</a
-                ><span class="descendants">: 120</span></span
+                ><span class="descendants">: 182</span></span
               >
             </h4>
+            <div class="text">
+              <a
+                href="https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/"
+                >https://techcrunch.com/2026/06/02/anthropic-scales-claude-my...</a
+              >
+            </div>
           </section>
         </section>
         <section id="48369098">
@@ -310,11 +519,11 @@
             <h4>
               <span>2026-06-02 @ 12:00:03</span
               ><span class="points-container"
-                >Points: <span class="points">249</span></span
+                >Points: <span class="points">275</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48369088"
                   >Comments</a
-                ><span class="descendants">: 152</span></span
+                ><span class="descendants">: 159</span></span
               >
             </h4>
           </section>
@@ -331,11 +540,11 @@
             <h4>
               <span>2026-06-02 @ 10:23:37</span
               ><span class="points-container"
-                >Points: <span class="points">112</span></span
+                >Points: <span class="points">125</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48368291"
                   >Comments</a
-                ><span class="descendants">: 46</span></span
+                ><span class="descendants">: 47</span></span
               >
             </h4>
           </section>
@@ -351,11 +560,11 @@
             <h4>
               <span>2026-06-02 @ 10:00:56</span
               ><span class="points-container"
-                >Points: <span class="points">487</span></span
+                >Points: <span class="points">553</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48368121"
                   >Comments</a
-                ><span class="descendants">: 210</span></span
+                ><span class="descendants">: 230</span></span
               >
             </h4>
           </section>
@@ -370,11 +579,11 @@
             <h4>
               <span>2026-06-02 @ 09:52:42</span
               ><span class="points-container"
-                >Points: <span class="points">176</span></span
+                >Points: <span class="points">225</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48368059"
                   >Comments</a
-                ><span class="descendants">: 87</span></span
+                ><span class="descendants">: 110</span></span
               >
             </h4>
           </section>
@@ -389,11 +598,11 @@
             <h4>
               <span>2026-06-02 @ 09:34:31</span
               ><span class="points-container"
-                >Points: <span class="points">376</span></span
+                >Points: <span class="points">410</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48367907"
                   >Comments</a
-                ><span class="descendants">: 189</span></span
+                ><span class="descendants">: 218</span></span
               >
             </h4>
           </section>
@@ -403,18 +612,18 @@
             <a
               class="item"
               href="https://blog.tjll.net/you-dont-love-systemd-timers-enough/"
-              >You Don't Love Systemd Timers Enough</a
+              >Love systemd timers</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-06-02 @ 09:34:11</span
               ><span class="points-container"
-                >Points: <span class="points">252</span></span
+                >Points: <span class="points">305</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48367904"
                   >Comments</a
-                ><span class="descendants">: 172</span></span
+                ><span class="descendants">: 200</span></span
               >
             </h4>
           </section>
@@ -429,32 +638,11 @@
             <h4>
               <span>2026-06-02 @ 09:04:49</span
               ><span class="points-container"
-                >Points: <span class="points">182</span></span
+                >Points: <span class="points">217</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48367723"
                   >Comments</a
-                ><span class="descendants">: 62</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48365904">
-          <h3>
-            <a
-              class="item"
-              href="https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance/"
-              >Strace-ui, Bonsai_term, and the TUI renaissance</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-06-02 @ 04:05:23</span
-              ><span class="points-container"
-                >Points: <span class="points">129</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48365904"
-                  >Comments</a
-                ><span class="descendants">: 67</span></span
+                ><span class="descendants">: 70</span></span
               >
             </h4>
           </section>
@@ -471,11 +659,11 @@
             <h4>
               <span>2026-06-02 @ 01:28:34</span
               ><span class="points-container"
-                >Points: <span class="points">367</span></span
+                >Points: <span class="points">377</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48364800"
                   >Comments</a
-                ><span class="descendants">: 240</span></span
+                ><span class="descendants">: 250</span></span
               >
             </h4>
           </section>
@@ -492,111 +680,16 @@
             <h4>
               <span>2026-06-01 @ 23:45:46</span
               ><span class="points-container"
-                >Points: <span class="points">631</span></span
+                >Points: <span class="points">669</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48364055"
                   >Comments</a
-                ><span class="descendants">: 1092</span></span
+                ><span class="descendants">: 1149</span></span
               >
             </h4>
             <div class="text">
               <a href="https://archive.ph/nKEVw">https://archive.ph/nKEVw</a>
             </div>
-          </section>
-        </section>
-        <section id="48363765">
-          <h3>
-            <a class="item" href="https://github.com/cyberpapiii/chipotlai-max"
-              >Chipotlai Max</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-06-01 @ 23:06:35</span
-              ><span class="points-container"
-                >Points: <span class="points">359</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48363765"
-                  >Comments</a
-                ><span class="descendants">: 62</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48363132">
-          <h3>
-            <a
-              class="item"
-              href="https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/"
-              >OpenAI frontier models and Codex are now available on AWS</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-06-01 @ 21:50:02</span
-              ><span class="points-container"
-                >Points: <span class="points">350</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48363132"
-                  >Comments</a
-                ><span class="descendants">: 122</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48362347">
-          <h3><a class="item" href="https://debug.com/">Debug Project</a></h3>
-          <section>
-            <h4>
-              <span>2026-06-01 @ 20:40:13</span
-              ><span class="points-container"
-                >Points: <span class="points">268</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48362347"
-                  >Comments</a
-                ><span class="descendants">: 111</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48360054">
-          <h3>
-            <a class="item" href="https://30fps.net/pages/255-vs-256-division/"
-              >Should you normalize RGB values by 255 or 256?</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-06-01 @ 17:37:20</span
-              ><span class="points-container"
-                >Points: <span class="points">312</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48360054"
-                  >Comments</a
-                ><span class="descendants">: 131</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48359232">
-          <h3>
-            <a
-              class="item"
-              href="https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md"
-              >AI Agent Guidelines for CS336 at Stanford</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-06-01 @ 16:41:49</span
-              ><span class="points-container"
-                >Points: <span class="points">482</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48359232"
-                  >Comments</a
-                ><span class="descendants">: 151</span></span
-              >
-            </h4>
           </section>
         </section>
         <section id="48359102">
@@ -611,11 +704,11 @@
             <h4>
               <span>2026-06-01 @ 16:31:42</span
               ><span class="points-container"
-                >Points: <span class="points">2099</span></span
+                >Points: <span class="points">2115</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48359102"
                   >Comments</a
-                ><span class="descendants">: 466</span></span
+                ><span class="descendants">: 472</span></span
               >
             </h4>
             <div class="text">
@@ -626,23 +719,34 @@
             </div>
           </section>
         </section>
-        <section id="48357075">
+        <section id="48344535">
           <h3>
-            <a class="item" href="https://cs336.stanford.edu/"
-              >CS336: Language Modeling from Scratch</a
+            <a
+              class="item"
+              href="https://www.lrb.co.uk/the-paper/v48/n09/john-lanchester/squillions"
+              >Squillions: How money laundering won</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-06-01 @ 14:10:32</span
+              <span>2026-05-31 @ 10:26:55</span
               ><span class="points-container"
-                >Points: <span class="points">534</span></span
+                >Points: <span class="points">156</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48357075"
+                ><a href="https://news.ycombinator.com/item?id=48344535"
                   >Comments</a
-                ><span class="descendants">: 49</span></span
+                ><span class="descendants">: 158</span></span
               >
             </h4>
+            <div class="text">
+              <a
+                href="https://web.archive.org/web/20260602021543/https://www.lrb.co.uk/the-paper/v48/n09/john-lanchester/squillions"
+                >https://web.archive.org/web/20260602021543/https://www.lrb.c...</a
+              >
+              <p>
+                <a href="https://archive.ph/Tl5ci">https://archive.ph/Tl5ci</a>
+              </p>
+            </div>
           </section>
         </section>
         <section id="48343435">
@@ -657,30 +761,11 @@
             <h4>
               <span>2026-05-31 @ 06:16:06</span
               ><span class="points-container"
-                >Points: <span class="points">65</span></span
+                >Points: <span class="points">77</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48343435"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48342399">
-          <h3>
-            <a class="item" href="https://github.com/krauseler/muxcard"
-              >Muxcard, a dyi credit card size computer</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-05-31 @ 01:59:06</span
-              ><span class="points-container"
-                >Points: <span class="points">201</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48342399"
-                  >Comments</a
-                ><span class="descendants">: 57</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
@@ -695,30 +780,11 @@
             <h4>
               <span>2026-05-30 @ 14:42:55</span
               ><span class="points-container"
-                >Points: <span class="points">80</span></span
+                >Points: <span class="points">82</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48336783"
                   >Comments</a
-                ><span class="descendants">: 38</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48335022">
-          <h3>
-            <a class="item" href="https://categoricaldata.net/"
-              >CQL: Categorical Databases</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-05-30 @ 11:18:04</span
-              ><span class="points-container"
-                >Points: <span class="points">91</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48335022"
-                  >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 45</span></span
               >
             </h4>
           </section>
@@ -735,32 +801,32 @@
             <h4>
               <span>2026-05-29 @ 16:41:56</span
               ><span class="points-container"
-                >Points: <span class="points">46</span></span
+                >Points: <span class="points">59</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48325668"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 33</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="48321210">
+        <section id="48323220">
           <h3>
             <a
               class="item"
-              href="https://blog.cryptographyengineering.com/2026/05/29/fooling-around-with-encrypted-reasoning-blobs/"
-              >Fooling around with encrypted reasoning blobs</a
+              href="https://www.quantamagazine.org/key-chemistry-question-answered-no-quantum-computer-required-20260529/"
+              >Key Chemistry Question Answered, No Quantum Computer Required</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-05-29 @ 10:06:47</span
+              <span>2026-05-29 @ 13:59:49</span
               ><span class="points-container"
-                >Points: <span class="points">147</span></span
+                >Points: <span class="points">30</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48321210"
+                ><a href="https://news.ycombinator.com/item?id=48323220"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
