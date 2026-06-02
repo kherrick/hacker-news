@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-06-02](index.md)
 
+* [2026-06-02, 22:55:33](https://news.ycombinator.com/item?id=48377404) - [Use your Nvidia GPU's VRAM as swap space on Linux](https://github.com/c0dejedi/nbd-vram)
+* [2026-06-02, 22:34:42](https://news.ycombinator.com/item?id=48377250) - [Paseo – Beautiful open-source coding agent interface (desktop, mobile, CLI)](https://github.com/getpaseo/paseo)
+* [2026-06-02, 22:22:34](https://news.ycombinator.com/item?id=48377140) - [4K years ago, Mohenjo-daro grew more equal over time](https://archaeologymag.com/2026/05/mohenjo-daro-grew-more-equal-over-time/)
+* [2026-06-02, 22:16:20](https://news.ycombinator.com/item?id=48377080) - [Gleam v1.17.0 Released](https://gleam.run/news/single-file-gleam-beam-programs-with-escript/)
 * [2026-06-02, 20:30:08](https://news.ycombinator.com/item?id=48375824) - [CT scans of BYD car parts](https://www.lumafield.com/scan-of-the-month/byd)
+* [2026-06-02, 20:19:11](https://news.ycombinator.com/item?id=48375673) - [Now AI agents need what RSS does](https://julienreszka.com/blog/rss-is-back-ai-agents-are-reading-it/)
 * [2026-06-02, 19:56:46](https://news.ycombinator.com/item?id=48375393) - [My thoughts after using Clojure for about a month](https://www.acdw.net/clojure/)
 * [2026-06-02, 19:39:25](https://news.ycombinator.com/item?id=48375175) - [The advertising cartel coming to your web browser](https://blog.zgp.org/the-advertising-cartel-coming-to-your-web-browser/)
 * [2026-06-02, 19:37:10](https://news.ycombinator.com/item?id=48375150) - [Open Repair Data Standard – Open Repair Alliance](https://openrepair.org/open-data/open-standard/)
@@ -43,6 +48,7 @@
 * [2026-06-02, 09:34:31](https://news.ycombinator.com/item?id=48367907) - [Why Janet? (2023)](https://ianthehenry.com/posts/why-janet/)
 * [2026-06-02, 09:34:11](https://news.ycombinator.com/item?id=48367904) - [You Don't Love Systemd Timers Enough](https://blog.tjll.net/you-dont-love-systemd-timers-enough/)
 * [2026-06-02, 09:04:49](https://news.ycombinator.com/item?id=48367723) - [Show HN: Eyeball](https://eyeball.rory.codes/)
+* [2026-06-02, 07:46:20](https://news.ycombinator.com/item?id=48367223) - [California’s university system went all in on AI, now it's tearing itself apart](https://www.nytimes.com/2026/06/01/magazine/ai-university-college-california.html)
 * [2026-06-02, 04:05:23](https://news.ycombinator.com/item?id=48365904) - [strace-ui, Bonsai_term, and the TUI renaissance](https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance/)
 * [2026-06-02, 01:28:34](https://news.ycombinator.com/item?id=48364800) - [macOS needs its grid back](https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/)
 * [2026-06-02, 01:22:42](https://news.ycombinator.com/item?id=48364754) - [Crystal Nights (2008)](https://www.gregegan.net/MISC/CRYSTAL/Crystal.html)
