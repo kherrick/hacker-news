@@ -4,6 +4,17 @@
 
 ### [Archives](../../index.md) for [2026-06-02](index.md)
 
+* [2026-06-02, 18:09:53](https://news.ycombinator.com/item?id=48373909) - [Morningstar values SpaceX at $780B, half its IPO target](https://www.reuters.com/business/media-telecom/morningstar-values-spacex-780-billion-half-its-ipo-target-2026-06-02/)
+* [2026-06-02, 17:58:55](https://news.ycombinator.com/item?id=48373764) - [GitHub Copilot App](https://github.com/features/preview/github-app)
+* [2026-06-02, 17:44:05](https://news.ycombinator.com/item?id=48373544) - [Anthropic scales Claude Mythos to critical infrastructure in 15 countries](https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/)
+* [2026-06-02, 17:40:15](https://news.ycombinator.com/item?id=48373482) - [Show HN: RePlaya – self-hosted browser session replay with live tailing](https://github.com/s2-streamstore/replaya)
+* [2026-06-02, 17:37:32](https://news.ycombinator.com/item?id=48373442) - [QBE – Compiler Back end: Version 1.3](https://c9x.me/compile/release/qbe-1.3.html)
+* [2026-06-02, 17:34:10](https://news.ycombinator.com/item?id=48373391) - [Larry Ellison: \"Citizens will be on their best behavior because we’re recording\"](https://www.techradar.com/pro/quote-of-the-day-by-oracle-co-founder-larry-ellison-citizens-will-be-on-their-best-behavior-because-were-constantly-recording-and-reporting-everything-that-is-going-on-a-dire-warning-on-the-erosion-of-privacy)
+* [2026-06-02, 17:09:04](https://news.ycombinator.com/item?id=48373054) - [Three Ways to Get Paid (2018)](https://jasonzweig.com/three-ways-to-get-paid/)
+* [2026-06-02, 16:55:11](https://news.ycombinator.com/item?id=48372853) - [Coreutils for Windows](https://github.com/microsoft/coreutils)
+* [2026-06-02, 16:40:16](https://news.ycombinator.com/item?id=48372628) - [Trump signs downsized AI order after weeks of reversals](https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389)
+* [2026-06-02, 16:35:20](https://news.ycombinator.com/item?id=48372547) - [Rethinking Search as Code Generation](https://research.perplexity.ai/articles/rethinking-search-as-code-generation)
+* [2026-06-02, 14:16:30](https://news.ycombinator.com/item?id=48370588) - [Preparing for KDE Plasma's Last X11-Supported Release](https://blog.davidedmundson.co.uk/blog/596/)
 * [2026-06-02, 14:06:52](https://news.ycombinator.com/item?id=48370437) - [AI Doesn't Have ROI](https://www.wheresyoured.at/ai-doesnt-have-roi/)
 * [2026-06-02, 13:56:46](https://news.ycombinator.com/item?id=48370330) - [Please don't spam people looking for employment. It's just cruel](https://news.ycombinator.com/item?id=48370330)
 * [2026-06-02, 13:53:52](https://news.ycombinator.com/item?id=48370291) - [Fidonet: Technology, Use, Tools, and History (1993)](https://www.fidonet.org/inet92_Randy_Bush.txt)
