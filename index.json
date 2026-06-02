@@ -1,12 +1,42 @@
 [
   [
     [
-      "2026-06-02, 00:21:14",
-      "https://news.ycombinator.com/item?id=48364284"
+      "2026-06-02, 04:05:23",
+      "https://news.ycombinator.com/item?id=48365904"
     ],
     [
-      "What's gonna happen to software engineers?",
-      "https://yakko.dev/blog/whats-gonna-happen-to-software-developers"
+      "strace-ui, Bonsai_term, and the TUI renaissance",
+      "https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance/"
+    ]
+  ],
+  [
+    [
+      "2026-06-02, 01:28:34",
+      "https://news.ycombinator.com/item?id=48364800"
+    ],
+    [
+      "macOS needs its grid back",
+      "https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/"
+    ]
+  ],
+  [
+    [
+      "2026-06-02, 01:22:42",
+      "https://news.ycombinator.com/item?id=48364754"
+    ],
+    [
+      "Crystal Nights (2008)",
+      "https://www.gregegan.net/MISC/CRYSTAL/Crystal.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-02, 01:05:29",
+      "https://news.ycombinator.com/item?id=48364620"
+    ],
+    [
+      "How is Groq raising more money?",
+      "https://www.zach.be/p/how-the-hell-is-groq-raising-more"
     ]
   ],
   [
@@ -17,16 +47,6 @@
     [
       "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
       "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai"
-    ]
-  ],
-  [
-    [
-      "2026-06-01, 23:25:39",
-      "https://news.ycombinator.com/item?id=48363903"
-    ],
-    [
-      "The Frame Problem (2004)",
-      "https://plato.stanford.edu/entries/frame-problem/"
     ]
   ],
   [
@@ -81,16 +101,6 @@
   ],
   [
     [
-      "2026-06-01, 18:39:53",
-      "https://news.ycombinator.com/item?id=48360871"
-    ],
-    [
-      "GrapheneOS Speech Services version 2 released",
-      "https://discuss.grapheneos.org/d/36001-grapheneos-speech-services-version-2-released"
-    ]
-  ],
-  [
-    [
       "2026-06-01, 17:37:20",
       "https://news.ycombinator.com/item?id=48360054"
     ],
@@ -121,12 +131,12 @@
   ],
   [
     [
-      "2026-06-01, 16:00:40",
-      "https://news.ycombinator.com/item?id=48358646"
+      "2026-06-01, 16:02:04",
+      "https://news.ycombinator.com/item?id=48358667"
     ],
     [
-      "Anthropic confidentially submits draft S-1 to the SEC",
-      "https://www.anthropic.com/news/confidential-draft-s1-sec"
+      "Florida sues OpenAI and Sam Altman over AI risks",
+      "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215"
     ]
   ],
   [
@@ -161,52 +171,12 @@
   ],
   [
     [
-      "2026-06-01, 14:16:41",
-      "https://news.ycombinator.com/item?id=48357154"
-    ],
-    [
-      "The Pirate Bay Remains Resilient, 20 Years After the Raid",
-      "https://torrentfreak.com/the-pirate-bay-remains-resilient-20-years-after-the-raid/"
-    ]
-  ],
-  [
-    [
       "2026-06-01, 14:10:32",
       "https://news.ycombinator.com/item?id=48357075"
     ],
     [
       "CS336: Language Modeling from Scratch",
       "https://cs336.stanford.edu/"
-    ]
-  ],
-  [
-    [
-      "2026-06-01, 13:30:21",
-      "https://news.ycombinator.com/item?id=48356625"
-    ],
-    [
-      "Malicious npm packages detected across Red Hat Cloud Services",
-      "https://github.com/RedHatInsights/javascript-clients/issues/492"
-    ]
-  ],
-  [
-    [
-      "2026-06-01, 13:28:53",
-      "https://news.ycombinator.com/item?id=48356603"
-    ],
-    [
-      "Windows GOG DOS Games on M-Series Macs",
-      "https://f055.net/technology/windows-gog-dos-games-on-m-series-macs/"
-    ]
-  ],
-  [
-    [
-      "2026-06-01, 13:20:54",
-      "https://news.ycombinator.com/item?id=48356490"
-    ],
-    [
-      "Flipper Zero Zig Template",
-      "https://github.com/NishantJoshi00/flipper-template"
     ]
   ],
   [
@@ -241,12 +211,52 @@
   ],
   [
     [
+      "2026-05-31, 10:26:55",
+      "https://news.ycombinator.com/item?id=48344535"
+    ],
+    [
+      "Squillions: How Money Laundering Won",
+      "https://www.lrb.co.uk/the-paper/v48/n09/john-lanchester/squillions"
+    ]
+  ],
+  [
+    [
+      "2026-05-31, 09:38:08",
+      "https://news.ycombinator.com/item?id=48344297"
+    ],
+    [
+      "Palindromes by Eric Harshbarger",
+      "http://www.ericharshbarger.org/cgi-bin/palindrome_viewer.cgi"
+    ]
+  ],
+  [
+    [
+      "2026-05-31, 01:01:58",
+      "https://news.ycombinator.com/item?id=48342117"
+    ],
+    [
+      "Anyone seen a CC- serial prefix on legacy networking hardware?",
+      "https://news.ycombinator.com/item?id=48342117"
+    ]
+  ],
+  [
+    [
       "2026-05-30, 22:38:48",
       "https://news.ycombinator.com/item?id=48341285"
     ],
     [
       "A new way to build chips: Sequentially stacking silicon to extend Moore's Law",
       "https://matse.illinois.edu/news/85775"
+    ]
+  ],
+  [
+    [
+      "2026-05-30, 19:32:53",
+      "https://news.ycombinator.com/item?id=48339824"
+    ],
+    [
+      "Show HN: AI Simulaionen Based on FEP",
+      "https://aic-ai-lab.site/login"
     ]
   ],
   [
@@ -261,22 +271,22 @@
   ],
   [
     [
-      "2026-05-30, 13:02:56",
-      "https://news.ycombinator.com/item?id=48335704"
+      "2026-05-30, 15:04:39",
+      "https://news.ycombinator.com/item?id=48337021"
     ],
     [
-      "Handmade Hawaiian Islands Map",
-      "https://www.notesfromtheroad.com/roam/hawaiian-islands-map.html"
+      "KL Zero: KL divergence intuition game",
+      "https://klzero.sarna.dev"
     ]
   ],
   [
     [
-      "2026-05-29, 14:32:40",
-      "https://news.ycombinator.com/item?id=48323577"
+      "2026-05-29, 10:06:47",
+      "https://news.ycombinator.com/item?id=48321210"
     ],
     [
-      "Constant Q Transform – A Visual Guide",
-      "https://brendanjameslynskey.github.io/ConstantQ-Transform/"
+      "Fooling around with encrypted reasoning blobs",
+      "https://blog.cryptographyengineering.com/2026/05/29/fooling-around-with-encrypted-reasoning-blobs/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "I made my phone slow on purpose",
       "https://vinewallapp.com/notes/i-made-my-phone-slow-on-purpose/"
-    ]
-  ],
-  [
-    [
-      "2026-05-28, 16:11:45",
-      "https://news.ycombinator.com/item?id=48311003"
-    ],
-    [
-      "Only 17% of all 64-bit Integers are products of two 32-bit integers",
-      "https://lemire.me/blog/2026/05/22/only-17-of-all-64-bit-integers-are-products-of-two-32-bit-integers/"
     ]
   ]
 ]
