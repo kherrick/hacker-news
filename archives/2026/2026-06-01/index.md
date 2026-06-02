@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-06-01](index.md)
 
+* [2026-06-01, 23:45:46](https://news.ycombinator.com/item?id=48364055) - [Can the stockmarket swallow Anthropic, SpaceX and OpenAI?](https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai)
+* [2026-06-01, 23:25:39](https://news.ycombinator.com/item?id=48363903) - [The Frame Problem (2004)](https://plato.stanford.edu/entries/frame-problem/)
+* [2026-06-01, 23:22:28](https://news.ycombinator.com/item?id=48363882) - [Age verification for social media, the beginning of the end for a free internet?](https://mullvad.net/en/blog/age-verification-for-social-media-the-beginning-of-the-end-for-a-free-internet)
+* [2026-06-01, 23:06:35](https://news.ycombinator.com/item?id=48363765) - [Chipotlai Max](https://github.com/cyberpapiii/chipotlai-max)
+* [2026-06-01, 21:50:02](https://news.ycombinator.com/item?id=48363132) - [OpenAI frontier models and Codex are now available on AWS](https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/)
 * [2026-06-01, 20:55:15](https://news.ycombinator.com/item?id=48362515) - [Alphabet announces $80B equity capital raise to expand AI infra and compute](https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx)
 * [2026-06-01, 20:40:13](https://news.ycombinator.com/item?id=48362347) - [Debug Project](https://debug.com/)
 * [2026-06-01, 18:54:55](https://news.ycombinator.com/item?id=48361064) - [GitHub and the crime against software](https://eblog.fly.dev/githubbad.html)

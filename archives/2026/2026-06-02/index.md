@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-06-02](index.md)
+
+* [2026-06-02, 00:21:14](https://news.ycombinator.com/item?id=48364284) - [What's gonna happen to software engineers?](https://yakko.dev/blog/whats-gonna-happen-to-software-developers)
