@@ -1,6 +1,76 @@
 [
   [
     [
+      "2026-06-02, 00:21:14",
+      "https://news.ycombinator.com/item?id=48364284"
+    ],
+    [
+      "What's gonna happen to software engineers?",
+      "https://yakko.dev/blog/whats-gonna-happen-to-software-developers"
+    ]
+  ],
+  [
+    [
+      "2026-06-01, 23:45:46",
+      "https://news.ycombinator.com/item?id=48364055"
+    ],
+    [
+      "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
+      "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai"
+    ]
+  ],
+  [
+    [
+      "2026-06-01, 23:25:39",
+      "https://news.ycombinator.com/item?id=48363903"
+    ],
+    [
+      "The Frame Problem (2004)",
+      "https://plato.stanford.edu/entries/frame-problem/"
+    ]
+  ],
+  [
+    [
+      "2026-06-01, 23:22:28",
+      "https://news.ycombinator.com/item?id=48363882"
+    ],
+    [
+      "Age verification for social media, the beginning of the end for a free internet?",
+      "https://mullvad.net/en/blog/age-verification-for-social-media-the-beginning-of-the-end-for-a-free-internet"
+    ]
+  ],
+  [
+    [
+      "2026-06-01, 23:06:35",
+      "https://news.ycombinator.com/item?id=48363765"
+    ],
+    [
+      "Chipotlai Max",
+      "https://github.com/cyberpapiii/chipotlai-max"
+    ]
+  ],
+  [
+    [
+      "2026-06-01, 21:50:02",
+      "https://news.ycombinator.com/item?id=48363132"
+    ],
+    [
+      "OpenAI frontier models and Codex are now available on AWS",
+      "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/"
+    ]
+  ],
+  [
+    [
+      "2026-06-01, 20:55:15",
+      "https://news.ycombinator.com/item?id=48362515"
+    ],
+    [
+      "Alphabet announces $80B equity capital raise to expand AI infra and compute",
+      "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx"
+    ]
+  ],
+  [
+    [
       "2026-06-01, 20:40:13",
       "https://news.ycombinator.com/item?id=48362347"
     ],
@@ -11,42 +81,12 @@
   ],
   [
     [
-      "2026-06-01, 18:54:55",
-      "https://news.ycombinator.com/item?id=48361064"
-    ],
-    [
-      "GitHub and the crime against software",
-      "https://eblog.fly.dev/githubbad.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-01, 18:54:12",
-      "https://news.ycombinator.com/item?id=48361054"
-    ],
-    [
-      "Show HN: Textile – A desktop app for weaving together bits of text",
-      "https://www.gettextile.app"
-    ]
-  ],
-  [
-    [
       "2026-06-01, 18:39:53",
       "https://news.ycombinator.com/item?id=48360871"
     ],
     [
       "GrapheneOS Speech Services version 2 released",
       "https://discuss.grapheneos.org/d/36001-grapheneos-speech-services-version-2-released"
-    ]
-  ],
-  [
-    [
-      "2026-06-01, 17:43:07",
-      "https://news.ycombinator.com/item?id=48360137"
-    ],
-    [
-      "Superintelligence: The Idea That Eats Smart People (2016)",
-      "https://idlewords.com/talks/superintelligence.htm"
     ]
   ],
   [
@@ -77,16 +117,6 @@
     [
       "The newest Instagram “exploit” is the goofiest I've seen",
       "https://www.0xsid.com/blog/meta-account-takeover-fiasco"
-    ]
-  ],
-  [
-    [
-      "2026-06-01, 16:02:04",
-      "https://news.ycombinator.com/item?id=48358667"
-    ],
-    [
-      "Florida sues OpenAI and Sam Altman over AI risks",
-      "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215"
     ]
   ],
   [
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2026-06-01, 13:50:14",
-      "https://news.ycombinator.com/item?id=48356847"
-    ],
-    [
-      "Sysadmining Like It's 2009",
-      "https://lambdacreate.com/posts/sysadmining-like-its-2009"
-    ]
-  ],
-  [
-    [
       "2026-06-01, 13:30:21",
       "https://news.ycombinator.com/item?id=48356625"
     ],
@@ -187,16 +207,6 @@
     [
       "Flipper Zero Zig Template",
       "https://github.com/NishantJoshi00/flipper-template"
-    ]
-  ],
-  [
-    [
-      "2026-06-01, 13:19:01",
-      "https://news.ycombinator.com/item?id=48356468"
-    ],
-    [
-      "Linux Basics for Hackers (2019)",
-      "https://github.com/ahegazy0/linux-basics-for-hackers-notes"
     ]
   ],
   [
@@ -231,12 +241,12 @@
   ],
   [
     [
-      "2026-05-30, 22:54:13",
-      "https://news.ycombinator.com/item?id=48341377"
+      "2026-05-30, 22:38:48",
+      "https://news.ycombinator.com/item?id=48341285"
     ],
     [
-      "Building a custom mount for a telescoping webcam",
-      "https://john.mercouris.online/webcam-mount.html"
+      "A new way to build chips: Sequentially stacking silicon to extend Moore's Law",
+      "https://matse.illinois.edu/news/85775"
     ]
   ],
   [
@@ -251,16 +261,6 @@
   ],
   [
     [
-      "2026-05-30, 16:40:34",
-      "https://news.ycombinator.com/item?id=48338145"
-    ],
-    [
-      "Show HN: A free Linux adaptation of NETworkManager by BornToBeRoot",
-      "https://github.com/thongor77/nmlinux"
-    ]
-  ],
-  [
-    [
       "2026-05-30, 13:02:56",
       "https://news.ycombinator.com/item?id=48335704"
     ],
@@ -271,22 +271,22 @@
   ],
   [
     [
+      "2026-05-29, 14:32:40",
+      "https://news.ycombinator.com/item?id=48323577"
+    ],
+    [
+      "Constant Q Transform – A Visual Guide",
+      "https://brendanjameslynskey.github.io/ConstantQ-Transform/"
+    ]
+  ],
+  [
+    [
       "2026-05-28, 17:30:46",
       "https://news.ycombinator.com/item?id=48312443"
     ],
     [
       "I made my phone slow on purpose",
       "https://vinewallapp.com/notes/i-made-my-phone-slow-on-purpose/"
-    ]
-  ],
-  [
-    [
-      "2026-05-28, 16:46:10",
-      "https://news.ycombinator.com/item?id=48311587"
-    ],
-    [
-      "Tracing HTTP Requests with Go's net/HTTP/httptrace",
-      "https://blainsmith.com/articles/httptrace-with-go/"
     ]
   ],
   [
