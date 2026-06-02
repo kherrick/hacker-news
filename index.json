@@ -1,11 +1,51 @@
 [
   [
     [
+      "2026-06-02, 10:23:37",
+      "https://news.ycombinator.com/item?id=48368291"
+    ],
+    [
+      "CSS-Native Parallax Effect",
+      "https://dan-webnotes.com/posts/2026-06-02-css-native-parallax-effect/"
+    ]
+  ],
+  [
+    [
+      "2026-06-02, 10:09:21",
+      "https://news.ycombinator.com/item?id=48368187"
+    ],
+    [
+      "Michael Burry says neither SpaceX nor Anthropic is worth $1T",
+      "https://www.businessinsider.com/big-short-michael-burry-spacex-anthropic-ipo-ai-bubble-claude-2026-6"
+    ]
+  ],
+  [
+    [
+      "2026-06-02, 10:00:56",
+      "https://news.ycombinator.com/item?id=48368121"
+    ],
+    [
+      "Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai",
+      "https://blog.adafruit.com/"
+    ]
+  ],
+  [
+    [
+      "2026-06-02, 09:34:31",
+      "https://news.ycombinator.com/item?id=48367907"
+    ],
+    [
+      "Why Janet? (2023)",
+      "https://ianthehenry.com/posts/why-janet/"
+    ]
+  ],
+  [
+    [
       "2026-06-02, 04:05:23",
       "https://news.ycombinator.com/item?id=48365904"
     ],
     [
-      "strace-ui, Bonsai_term, and the TUI renaissance",
+      "Strace-ui, Bonsai_term, and the TUI renaissance",
       "https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance/"
     ]
   ],
@@ -201,42 +241,22 @@
   ],
   [
     [
-      "2026-06-01, 05:24:40",
-      "https://news.ycombinator.com/item?id=48352939"
+      "2026-05-31, 16:25:12",
+      "https://news.ycombinator.com/item?id=48347002"
     ],
     [
-      "Nvidia RTX Spark",
-      "https://www.nvidia.com/en-us/products/rtx-spark/"
+      "On Reading SRAMs in IR Images, and Establishing Bounds on Trust",
+      "https://www.bunniestudios.com/blog/2026/on-reading-srams-in-ir-images-and-establishing-bounds-on-trust/"
     ]
   ],
   [
     [
-      "2026-05-31, 10:26:55",
-      "https://news.ycombinator.com/item?id=48344535"
+      "2026-05-31, 01:59:06",
+      "https://news.ycombinator.com/item?id=48342399"
     ],
     [
-      "Squillions: How Money Laundering Won",
-      "https://www.lrb.co.uk/the-paper/v48/n09/john-lanchester/squillions"
-    ]
-  ],
-  [
-    [
-      "2026-05-31, 09:38:08",
-      "https://news.ycombinator.com/item?id=48344297"
-    ],
-    [
-      "Palindromes by Eric Harshbarger",
-      "http://www.ericharshbarger.org/cgi-bin/palindrome_viewer.cgi"
-    ]
-  ],
-  [
-    [
-      "2026-05-31, 01:01:58",
-      "https://news.ycombinator.com/item?id=48342117"
-    ],
-    [
-      "Anyone seen a CC- serial prefix on legacy networking hardware?",
-      "https://news.ycombinator.com/item?id=48342117"
+      "Muxcard, a dyi credit card size computer",
+      "https://github.com/krauseler/muxcard"
     ]
   ],
   [
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2026-05-30, 19:32:53",
-      "https://news.ycombinator.com/item?id=48339824"
+      "2026-05-30, 11:18:04",
+      "https://news.ycombinator.com/item?id=48335022"
     ],
     [
-      "Show HN: AI Simulaionen Based on FEP",
-      "https://aic-ai-lab.site/login"
-    ]
-  ],
-  [
-    [
-      "2026-05-30, 17:50:21",
-      "https://news.ycombinator.com/item?id=48338891"
-    ],
-    [
-      "Stealing from Biologists to Compile Haskell Faster",
-      "https://www.iankduncan.com/engineering/2026-05-30-stealing-from-biologists-to-compile-haskell-faster/"
-    ]
-  ],
-  [
-    [
-      "2026-05-30, 15:04:39",
-      "https://news.ycombinator.com/item?id=48337021"
-    ],
-    [
-      "KL Zero: KL divergence intuition game",
-      "https://klzero.sarna.dev"
+      "CQL: Categorical Databases",
+      "https://categoricaldata.net/"
     ]
   ],
   [
