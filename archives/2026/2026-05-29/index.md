@@ -67,6 +67,7 @@
 * [2026-05-29, 11:09:32](https://news.ycombinator.com/item?id=48321631) - [Is AI causing a repeat of Front end's Lost Decade?](https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/)
 * [2026-05-29, 10:42:53](https://news.ycombinator.com/item?id=48321421) - [Digital Identity Management in Norway Is a Catastrophe](https://www.uio.no/english/research/research-news/articles/2026/digital-id-management-is-a-catastrophe.html)
 * [2026-05-29, 10:14:43](https://news.ycombinator.com/item?id=48321264) - [Is This Sustainable?](https://jamiehurst.co.uk/2026-05-24_ai-sustainable)
+* [2026-05-29, 10:06:47](https://news.ycombinator.com/item?id=48321210) - [Fooling around with encrypted reasoning blobs](https://blog.cryptographyengineering.com/2026/05/29/fooling-around-with-encrypted-reasoning-blobs/)
 * [2026-05-29, 09:49:13](https://news.ycombinator.com/item?id=48321089) - [Security Envelope Pattern collection – S.E.C.R.E.T](https://secret-archive.org/)
 * [2026-05-29, 09:47:23](https://news.ycombinator.com/item?id=48321076) - [Real-time LLM Inference on Standard GPUs: 3k tokens/s per request](https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/)
 * [2026-05-29, 09:34:37](https://news.ycombinator.com/item?id=48320985) - [The $500K AI Film That \"Premiered at Cannes\" Was Not in the Official Festival](https://firethering.com/hell-grind-ai-film-cannes-premiere-higgsfield/)
