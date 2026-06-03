@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-06-02](index.md)
 
+* [2026-06-02, 23:55:04](https://news.ycombinator.com/item?id=48377854) - [More than 6 out of 10 people turn to AI for psychological support](https://www.axa.com/en/press/press-releases/2026-mind-health-report)
+* [2026-06-02, 23:43:12](https://news.ycombinator.com/item?id=48377761) - [AI outperforms law professors in Stanford Law study](https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/)
+* [2026-06-02, 23:27:30](https://news.ycombinator.com/item?id=48377631) - [LLMs are not the black box you were promised](https://www.jay.ai/blog/llms-are-not-a-black-box)
 * [2026-06-02, 22:55:33](https://news.ycombinator.com/item?id=48377404) - [Use your Nvidia GPU's VRAM as swap space on Linux](https://github.com/c0dejedi/nbd-vram)
 * [2026-06-02, 22:34:42](https://news.ycombinator.com/item?id=48377250) - [Paseo – Beautiful open-source coding agent interface (desktop, mobile, CLI)](https://github.com/getpaseo/paseo)
 * [2026-06-02, 22:22:34](https://news.ycombinator.com/item?id=48377140) - [4K years ago, Mohenjo-daro grew more equal over time](https://archaeologymag.com/2026/05/mohenjo-daro-grew-more-equal-over-time/)

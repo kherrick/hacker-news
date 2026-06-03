@@ -29,6 +29,7 @@
 * [2026-06-01, 14:10:32](https://news.ycombinator.com/item?id=48357075) - [CS336: Language Modeling from Scratch](https://cs336.stanford.edu/)
 * [2026-06-01, 13:58:04](https://news.ycombinator.com/item?id=48356946) - [Show HN: A CSS 3D Engine (no WebGL)](https://github.com/LayoutitStudio/polycss)
 * [2026-06-01, 13:50:14](https://news.ycombinator.com/item?id=48356847) - [Sysadmining Like It's 2009](https://lambdacreate.com/posts/sysadmining-like-its-2009)
+* [2026-06-01, 13:40:35](https://news.ycombinator.com/item?id=48356754) - [Are blue zones real? Answering that question is harder then ever](https://www.statnews.com/2026/05/04/are-blue-zones-real-new-scrutiny-longevity-hot-spots/)
 * [2026-06-01, 13:39:38](https://news.ycombinator.com/item?id=48356741) - [Radxa Dragon Q8B: A Laptop Cosplaying as an SBC?](https://bret.dk/radxa-dragon-q8b-a-laptop-cosplaying-as-an-sbc/)
 * [2026-06-01, 13:32:44](https://news.ycombinator.com/item?id=48356654) - [Nvidia Cosmos 3](https://developer.nvidia.com/blog/develop-physical-ai-reasoning-world-and-action-models-with-nvidia-cosmos-3/)
 * [2026-06-01, 13:30:21](https://news.ycombinator.com/item?id=48356625) - [Malicious npm packages detected across Red Hat Cloud Services](https://github.com/RedHatInsights/javascript-clients/issues/492)

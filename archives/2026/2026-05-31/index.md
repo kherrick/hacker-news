@@ -21,6 +21,7 @@
 * [2026-05-31, 16:37:34](https://news.ycombinator.com/item?id=48347153) - [The Speed of Prototyping in the Age of AI](https://darylcecile.net/notes/speed-of-prototyping-age-of-ai)
 * [2026-05-31, 16:25:12](https://news.ycombinator.com/item?id=48347002) - [On Reading SRAMs in IR Images, and Establishing Bounds on Trust](https://www.bunniestudios.com/blog/2026/on-reading-srams-in-ir-images-and-establishing-bounds-on-trust/)
 * [2026-05-31, 16:19:34](https://news.ycombinator.com/item?id=48346947) - [Creatine raise brain energy levels and slow Alzheimer's cognitive decline by 30%](https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/)
+* [2026-05-31, 15:58:50](https://news.ycombinator.com/item?id=48346766) - [Loading Sega Games Off a Vinyl Record [video]](https://www.youtube.com/watch?v=c744iD0_fWU)
 * [2026-05-31, 15:50:34](https://news.ycombinator.com/item?id=48346693) - [Odysseus – self-hosted AI workspace](https://github.com/pewdiepie-archdaemon/odysseus)
 * [2026-05-31, 15:46:32](https://news.ycombinator.com/item?id=48346660) - [Chibil: A C compiler targeting .NET IL](https://github.com/MichalStrehovsky/chibil)
 * [2026-05-31, 15:43:29](https://news.ycombinator.com/item?id=48346629) - [Daily pill can double survival time for deadliest cancer, trial shows](https://www.theguardian.com/society/2026/may/31/daily-pill-daraxonrasib-double-survival-time-pancreatic-pancreas-cancer-clinical-trial)
