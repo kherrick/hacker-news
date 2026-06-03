@@ -1,6 +1,126 @@
 [
   [
     [
+      "2026-06-03, 17:01:00",
+      "https://news.ycombinator.com/item?id=48386588"
+    ],
+    [
+      "Skyvern (YC S23) Is Hiring Open-Source Loving DevRel Engineers",
+      "https://www.ycombinator.com/companies/skyvern/jobs/1qRTlVx-founding-developer-marketing-open-source-ai"
+    ]
+  ],
+  [
+    [
+      "2026-06-03, 16:24:46",
+      "https://news.ycombinator.com/item?id=48386129"
+    ],
+    [
+      "Show HN: Nutrepedia – nutrition info in 29 locales built with Clojure and Htmx",
+      "https://nutrepedia.com/en-us/"
+    ]
+  ],
+  [
+    [
+      "2026-06-03, 16:10:25",
+      "https://news.ycombinator.com/item?id=48385965"
+    ],
+    [
+      "ESP32-S31",
+      "https://www.espressif.com/en/products/socs/esp32-s31"
+    ]
+  ],
+  [
+    [
+      "2026-06-03, 16:06:04",
+      "https://news.ycombinator.com/item?id=48385919"
+    ],
+    [
+      "Uber to cut 23% of jobs in HR",
+      "https://stocktwits.com/news-articles/markets/equity/uber-reportedly-slashes-many-senior-roles-in-people-division-retail-calls-the-cuts-aggressive/cZ0j99kReUR"
+    ]
+  ],
+  [
+    [
+      "2026-06-03, 16:04:42",
+      "https://news.ycombinator.com/item?id=48385906"
+    ],
+    [
+      "Gemma 4 12B: A unified, encoder-free multimodal model",
+      "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/"
+    ]
+  ],
+  [
+    [
+      "2026-06-03, 15:06:09",
+      "https://news.ycombinator.com/item?id=48385114"
+    ],
+    [
+      "A Post-Quantum Future for Let's Encrypt",
+      "https://letsencrypt.org/2026/06/03/pq-certs"
+    ]
+  ],
+  [
+    [
+      "2026-06-03, 14:18:39",
+      "https://news.ycombinator.com/item?id=48384482"
+    ],
+    [
+      "DaVinci Resolve 21",
+      "https://www.blackmagicdesign.com/products/davinciresolve/whatsnew"
+    ]
+  ],
+  [
+    [
+      "2026-06-03, 14:00:08",
+      "https://news.ycombinator.com/item?id=48384221"
+    ],
+    [
+      "Shopify Is Down",
+      "https://www.shopifystatus.com"
+    ]
+  ],
+  [
+    [
+      "2026-06-03, 13:53:03",
+      "https://news.ycombinator.com/item?id=48384125"
+    ],
+    [
+      "REST3D: Reconstructing Physically Stable 3D Scenes from a Single Image",
+      "https://shirleymaxx.github.io/REST3D/"
+    ]
+  ],
+  [
+    [
+      "2026-06-03, 13:33:00",
+      "https://news.ycombinator.com/item?id=48383823"
+    ],
+    [
+      "I built a ceiling projection mapping of the planes flying over my house",
+      "https://old.reddit.com/r/nextfuckinglevel/comments/1tvmcin/i_live_in_the_take_off_path_of_sfo_and_built_a/"
+    ]
+  ],
+  [
+    [
+      "2026-06-03, 12:43:43",
+      "https://news.ycombinator.com/item?id=48383241"
+    ],
+    [
+      "32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building",
+      "https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building"
+    ]
+  ],
+  [
+    [
+      "2026-06-03, 12:42:07",
+      "https://news.ycombinator.com/item?id=48383220"
+    ],
+    [
+      "Meta workers can opt out of being tracked at work up to 30 min",
+      "https://www.bbc.com/news/articles/c93x0k194yno"
+    ]
+  ],
+  [
+    [
       "2026-06-03, 11:04:04",
       "https://news.ycombinator.com/item?id=48382382"
     ],
@@ -31,32 +151,12 @@
   ],
   [
     [
-      "2026-06-03, 08:00:14",
-      "https://news.ycombinator.com/item?id=48381211"
-    ],
-    [
-      "It is an amazing time for programmers",
-      "https://46elks.com/blog/2026/05/29/an-amazing-time-for-programmers"
-    ]
-  ],
-  [
-    [
       "2026-06-03, 06:33:27",
       "https://news.ycombinator.com/item?id=48380670"
     ],
     [
       "Leiden Declaration on Artificial Intelligence and Mathematics",
       "https://leidendeclaration.ai/"
-    ]
-  ],
-  [
-    [
-      "2026-06-03, 05:49:31",
-      "https://news.ycombinator.com/item?id=48380395"
-    ],
-    [
-      "Recovering Eric Graham's 1987 Amiga Juggler raytracer source code",
-      "https://alphapixeldev.com/recovering-eric-grahams-1987-amiga-juggler-raytracer-source-code/"
     ]
   ],
   [
@@ -77,26 +177,6 @@
     [
       "U of T researchers demonstrate AI worm could target any online device",
       "https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device"
-    ]
-  ],
-  [
-    [
-      "2026-06-03, 01:59:46",
-      "https://news.ycombinator.com/item?id=48378925"
-    ],
-    [
-      "Capstone – multi-platform, multi-architecture disassembly framework",
-      "https://www.capstone-engine.org/"
-    ]
-  ],
-  [
-    [
-      "2026-06-03, 01:13:38",
-      "https://news.ycombinator.com/item?id=48378495"
-    ],
-    [
-      "Roku LT Operating System open source distribution",
-      "https://blog.roku.com/developer/roku-lt-os"
     ]
   ],
   [
@@ -131,56 +211,6 @@
   ],
   [
     [
-      "2026-06-02, 20:30:08",
-      "https://news.ycombinator.com/item?id=48375824"
-    ],
-    [
-      "CT scans of BYD car parts",
-      "https://www.lumafield.com/scan-of-the-month/byd"
-    ]
-  ],
-  [
-    [
-      "2026-06-02, 19:56:46",
-      "https://news.ycombinator.com/item?id=48375393"
-    ],
-    [
-      "My thoughts after using Clojure for about a month",
-      "https://www.acdw.net/clojure/"
-    ]
-  ],
-  [
-    [
-      "2026-06-02, 19:37:10",
-      "https://news.ycombinator.com/item?id=48375150"
-    ],
-    [
-      "Open Repair Data Standard",
-      "https://openrepair.org/open-data/open-standard/"
-    ]
-  ],
-  [
-    [
-      "2026-06-02, 19:27:40",
-      "https://news.ycombinator.com/item?id=48375016"
-    ],
-    [
-      "Gmail thinks I'm stupid, so I left",
-      "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left"
-    ]
-  ],
-  [
-    [
-      "2026-06-02, 19:02:40",
-      "https://news.ycombinator.com/item?id=48374685"
-    ],
-    [
-      "HP re-releases classic computer science calculator: The HP-16C",
-      "https://hpcalcs.com/product/hp-16c-collectors-edition/"
-    ]
-  ],
-  [
-    [
       "2026-06-02, 18:52:52",
       "https://news.ycombinator.com/item?id=48374552"
     ],
@@ -201,16 +231,6 @@
   ],
   [
     [
-      "2026-06-02, 16:13:41",
-      "https://news.ycombinator.com/item?id=48372239"
-    ],
-    [
-      "How we index images for RAG",
-      "https://www.kapa.ai/blog/how-we-index-images-for-rag"
-    ]
-  ],
-  [
-    [
       "2026-06-02, 15:29:05",
       "https://news.ycombinator.com/item?id=48371562"
     ],
@@ -221,22 +241,22 @@
   ],
   [
     [
-      "2026-06-02, 14:16:30",
-      "https://news.ycombinator.com/item?id=48370588"
+      "2026-06-01, 16:00:23",
+      "https://news.ycombinator.com/item?id=48358643"
     ],
     [
-      "Preparing for KDE Plasma's Last X11-Supported Release",
-      "https://blog.davidedmundson.co.uk/blog/596/"
+      "Are You Enjoying Our Linguine? (2025)",
+      "https://www.thedial.world/articles/news/american-tourists-rome"
     ]
   ],
   [
     [
-      "2026-06-01, 22:52:19",
-      "https://news.ycombinator.com/item?id=48363646"
+      "2026-06-01, 05:56:04",
+      "https://news.ycombinator.com/item?id=48353112"
     ],
     [
-      "Jonathan Franzen on Talent, Theatre, and His Next Novel",
-      "https://www.newyorker.com/books/this-week-in-fiction/jonathan-franzen-06-08-26"
+      "Thomas Mann: Goethe Heartened by Panama (As Suez for English, or Danube-Rhine)",
+      "https://yalereview.org/article/thomas-mann-goethe"
     ]
   ],
   [
@@ -247,26 +267,6 @@
     [
       "Nabokov's pale fire: the lost 'father of all hypertext demos'? (2011)",
       "https://dl.acm.org/doi/pdf/10.1145/1995966.1996008"
-    ]
-  ],
-  [
-    [
-      "2026-05-31, 18:28:45",
-      "https://news.ycombinator.com/item?id=48348286"
-    ],
-    [
-      "Words of Type",
-      "https://wiki.wordsoftype.com/"
-    ]
-  ],
-  [
-    [
-      "2026-05-31, 17:59:39",
-      "https://news.ycombinator.com/item?id=48347977"
-    ],
-    [
-      "Writing Portable ARM64 Assembly (2023)",
-      "https://ariadne.space/2023/04/12/writing-portable-arm-assembly.html"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-05-31, 00:07:04",
-      "https://news.ycombinator.com/item?id=48341806"
+      "2026-05-30, 16:46:38",
+      "https://news.ycombinator.com/item?id=48338215"
     ],
     [
-      "OpenRidingController – DIY horse riding controller for the PC",
-      "https://github.com/Squalius-cephalus/OpenRidingController"
+      "Fluid Simulation for Dummies",
+      "https://www.mikeash.com/pyblog/fluid-simulation-for-dummies.html"
     ]
   ]
 ]
