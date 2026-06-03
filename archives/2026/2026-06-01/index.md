@@ -8,6 +8,7 @@
 * [2026-06-01, 23:25:39](https://news.ycombinator.com/item?id=48363903) - [The Frame Problem (2004)](https://plato.stanford.edu/entries/frame-problem/)
 * [2026-06-01, 23:22:28](https://news.ycombinator.com/item?id=48363882) - [Age verification for social media, the beginning of the end for a free internet?](https://mullvad.net/en/blog/age-verification-for-social-media-the-beginning-of-the-end-for-a-free-internet)
 * [2026-06-01, 23:06:35](https://news.ycombinator.com/item?id=48363765) - [Chipotlai Max](https://github.com/cyberpapiii/chipotlai-max)
+* [2026-06-01, 22:52:19](https://news.ycombinator.com/item?id=48363646) - [Jonathan Franzen on Talent, Theatre, and His Next Novel](https://www.newyorker.com/books/this-week-in-fiction/jonathan-franzen-06-08-26)
 * [2026-06-01, 21:50:02](https://news.ycombinator.com/item?id=48363132) - [OpenAI frontier models and Codex are now available on AWS](https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/)
 * [2026-06-01, 20:55:15](https://news.ycombinator.com/item?id=48362515) - [Alphabet announces $80B equity capital raise to expand AI infra and compute](https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx)
 * [2026-06-01, 20:40:13](https://news.ycombinator.com/item?id=48362347) - [Debug Project](https://debug.com/)
@@ -49,3 +50,4 @@
 * [2026-06-01, 05:24:40](https://news.ycombinator.com/item?id=48352939) - [Nvidia RTX Spark](https://www.nvidia.com/en-us/products/rtx-spark/)
 * [2026-06-01, 04:32:45](https://news.ycombinator.com/item?id=48352627) - [Surface Laptop Ultra](https://blogs.windows.com/devices/2026/05/31/introducing-surface-laptop-ultra-made-for-world-makers/)
 * [2026-06-01, 04:08:02](https://news.ycombinator.com/item?id=48352500) - [Rubin Tracks Skyscraper-Size Asteroids and Failed Supernovas](https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/)
+* [2026-06-01, 01:18:16](https://news.ycombinator.com/item?id=48351579) - [Nabokov's pale fire: the lost 'father of all hypertext demos'? (2011)](https://dl.acm.org/doi/pdf/10.1145/1995966.1996008)

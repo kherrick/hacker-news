@@ -19,6 +19,7 @@
 * [2026-06-02, 19:37:10](https://news.ycombinator.com/item?id=48375150) - [Open Repair Data Standard – Open Repair Alliance](https://openrepair.org/open-data/open-standard/)
 * [2026-06-02, 19:27:40](https://news.ycombinator.com/item?id=48375016) - [Gmail thinks I'm stupid, so I left](https://moddedbear.com/gmail-thinks-im-stupid-so-i-left)
 * [2026-06-02, 19:02:40](https://news.ycombinator.com/item?id=48374685) - [HP re-releases classic computer science calculator: The HP-16C](https://hpcalcs.com/product/hp-16c-collectors-edition/)
+* [2026-06-02, 18:52:52](https://news.ycombinator.com/item?id=48374552) - [Show HN: Edsger – A handwritten Clojure REPL for the reMarkable 2](https://handwritten.danieljanus.pl/2026-06-01-edsger.html)
 * [2026-06-02, 18:51:09](https://news.ycombinator.com/item?id=48374528) - [Launch HN: Rudus (YC P26) – AI for concrete contractors](https://news.ycombinator.com/item?id=48374528)
 * [2026-06-02, 18:47:07](https://news.ycombinator.com/item?id=48374466) - [MAI-Code-1-Flash](https://microsoft.ai/news/introducingmai-code-1-flash/)
 * [2026-06-02, 18:39:34](https://news.ycombinator.com/item?id=48374362) - [MAI-Thinking-1](https://microsoft.ai/news/introducing-mai-thinking-1/)

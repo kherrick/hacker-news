@@ -16,6 +16,7 @@
 * [2026-05-31, 18:57:48](https://news.ycombinator.com/item?id=48348578) - [Codex just found a \"workaround\" of not having sudo on my PC](https://twitter.com/i/status/2060746160558543217)
 * [2026-05-31, 18:43:05](https://news.ycombinator.com/item?id=48348429) - [Show HN: Streambed – Stream Postgres to Iceberg on S3, Supports Postgres Wire](https://github.com/viggy28/streambed)
 * [2026-05-31, 18:28:45](https://news.ycombinator.com/item?id=48348286) - [Words of Type](https://wiki.wordsoftype.com/)
+* [2026-05-31, 17:59:39](https://news.ycombinator.com/item?id=48347977) - [Writing Portable ARM64 Assembly (2023)](https://ariadne.space/2023/04/12/writing-portable-arm-assembly.html)
 * [2026-05-31, 17:58:15](https://news.ycombinator.com/item?id=48347961) - [Re: [PATCH] OOM_pardon, a.k.a. don't kill my xlock](https://lwn.net/Articles/104185/)
 * [2026-05-31, 17:04:10](https://news.ycombinator.com/item?id=48347370) - [Deflock hits 100k ALPRs Mapped in USA](https://deflock.org/)
 * [2026-05-31, 17:02:23](https://news.ycombinator.com/item?id=48347354) - [Meta launches Instagram, Facebook, and WhatsApp subscriptions](https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/)
@@ -61,3 +62,4 @@
 * [2026-05-31, 01:59:06](https://news.ycombinator.com/item?id=48342399) - [Muxcard, a dyi credit card size computer](https://github.com/krauseler/muxcard)
 * [2026-05-31, 01:01:58](https://news.ycombinator.com/item?id=48342117) - [Anyone seen a CC- serial prefix on legacy networking hardware?](https://news.ycombinator.com/item?id=48342117)
 * [2026-05-31, 00:25:12](https://news.ycombinator.com/item?id=48341932) - [Mechanical Pencin: A website about the hidden engineering in everyday objects](https://mechanical-pencil.com/)
+* [2026-05-31, 00:07:04](https://news.ycombinator.com/item?id=48341806) - [OpenRidingController – DIY horse riding controller for the PC](https://github.com/Squalius-cephalus/OpenRidingController)

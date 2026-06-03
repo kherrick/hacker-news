@@ -4,7 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-06-03](index.md)
 
+* [2026-06-03, 11:04:04](https://news.ycombinator.com/item?id=48382382) - [Every Byte Matters](https://fzakaria.com/2026/06/01/every-byte-matters)
+* [2026-06-03, 10:53:00](https://news.ycombinator.com/item?id=48382310) - [Hacking your PC using your speaker without ever touching it](https://blog.nns.ee/2026/06/03/katana-badusb/)
+* [2026-06-03, 10:24:25](https://news.ycombinator.com/item?id=48382142) - [PlayStation Architecture](https://www.copetti.org/writings/consoles/playstation/)
+* [2026-06-03, 08:00:14](https://news.ycombinator.com/item?id=48381211) - [It is an amazing time for programmers](https://46elks.com/blog/2026/05/29/an-amazing-time-for-programmers)
+* [2026-06-03, 06:33:27](https://news.ycombinator.com/item?id=48380670) - [Leiden Declaration on Artificial Intelligence and Mathematics](https://leidendeclaration.ai/)
 * [2026-06-03, 06:04:36](https://news.ycombinator.com/item?id=48380516) - [Microsoft Doubles Down on Controversial Quantum Computing Claims](https://www.science.org/content/article/doubling-down-controversial-claims-microsoft-accelerates-quantum-computing-plans)
+* [2026-06-03, 05:49:31](https://news.ycombinator.com/item?id=48380395) - [Recovering Eric Graham's 1987 Amiga Juggler raytracer source code](https://alphapixeldev.com/recovering-eric-grahams-1987-amiga-juggler-raytracer-source-code/)
 * [2026-06-03, 03:47:56](https://news.ycombinator.com/item?id=48379669) - [The Unreasonable Redundancy of Nature's Protein Folds](https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/)
 * [2026-06-03, 03:47:21](https://news.ycombinator.com/item?id=48379664) - [U of T researchers demonstrate AI worm could target any online device](https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device)
 * [2026-06-03, 01:59:46](https://news.ycombinator.com/item?id=48378925) - [Capstone – multi-platform, multi-architecture disassembly framework](https://www.capstone-engine.org/)
