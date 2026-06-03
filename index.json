@@ -1,22 +1,72 @@
 [
   [
     [
+      "2026-06-03, 00:29:07",
+      "https://news.ycombinator.com/item?id=48378099"
+    ],
+    [
+      "I Don't Want My Search Engine to Think for Me",
+      "https://searchzee.com/blog/search-without-ai-summaries"
+    ]
+  ],
+  [
+    [
+      "2026-06-03, 00:23:41",
+      "https://news.ycombinator.com/item?id=48378068"
+    ],
+    [
+      "Amazon Has Axed Its New Stargate Series",
+      "https://www.gateworld.net/news/2026/06/amazon-axed-new-stargate-series/"
+    ]
+  ],
+  [
+    [
+      "2026-06-03, 00:03:19",
+      "https://news.ycombinator.com/item?id=48377909"
+    ],
+    [
+      "My Students Can't Read",
+      "https://www.chronicle.com/article/my-students-cant-read"
+    ]
+  ],
+  [
+    [
+      "2026-06-02, 23:55:04",
+      "https://news.ycombinator.com/item?id=48377854"
+    ],
+    [
+      "More than 6 out of 10 people turn to AI for psychological support",
+      "https://www.axa.com/en/press/press-releases/2026-mind-health-report"
+    ]
+  ],
+  [
+    [
+      "2026-06-02, 23:43:12",
+      "https://news.ycombinator.com/item?id=48377761"
+    ],
+    [
+      "AI outperforms law professors in Stanford Law study",
+      "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/"
+    ]
+  ],
+  [
+    [
+      "2026-06-02, 23:27:30",
+      "https://news.ycombinator.com/item?id=48377631"
+    ],
+    [
+      "LLMs are not the black box you were promised",
+      "https://www.jay.ai/blog/llms-are-not-a-black-box"
+    ]
+  ],
+  [
+    [
       "2026-06-02, 22:55:33",
       "https://news.ycombinator.com/item?id=48377404"
     ],
     [
       "Use your Nvidia GPU's VRAM as swap space on Linux",
       "https://github.com/c0dejedi/nbd-vram"
-    ]
-  ],
-  [
-    [
-      "2026-06-02, 22:34:42",
-      "https://news.ycombinator.com/item?id=48377250"
-    ],
-    [
-      "Paseo – Beautiful open-source coding agent interface (desktop, mobile, CLI)",
-      "https://github.com/getpaseo/paseo"
     ]
   ],
   [
@@ -35,7 +85,7 @@
       "https://news.ycombinator.com/item?id=48377080"
     ],
     [
-      "Gleam v1.17.0 Released",
+      "Gleam v1.17.0",
       "https://gleam.run/news/single-file-gleam-beam-programs-with-escript/"
     ]
   ],
@@ -47,16 +97,6 @@
     [
       "CT scans of BYD car parts",
       "https://www.lumafield.com/scan-of-the-month/byd"
-    ]
-  ],
-  [
-    [
-      "2026-06-02, 20:19:11",
-      "https://news.ycombinator.com/item?id=48375673"
-    ],
-    [
-      "Now AI agents need what RSS does",
-      "https://julienreszka.com/blog/rss-is-back-ai-agents-are-reading-it/"
     ]
   ],
   [
@@ -111,16 +151,6 @@
   ],
   [
     [
-      "2026-06-02, 18:51:09",
-      "https://news.ycombinator.com/item?id=48374528"
-    ],
-    [
-      "Launch HN: Rudus (YC P26) – AI for concrete contractors",
-      "https://news.ycombinator.com/item?id=48374528"
-    ]
-  ],
-  [
-    [
       "2026-06-02, 18:47:07",
       "https://news.ycombinator.com/item?id=48374466"
     ],
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2026-06-02, 16:02:47",
-      "https://news.ycombinator.com/item?id=48372036"
-    ],
-    [
-      "Show HN: Live breath detection and biofeedback from a phone microphone",
-      "https://github.com/shiihaa-app/shiihaa-breath-detection"
-    ]
-  ],
-  [
-    [
       "2026-06-02, 14:16:30",
       "https://news.ycombinator.com/item?id=48370588"
     ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2026-06-02, 12:01:04",
-      "https://news.ycombinator.com/item?id=48369098"
-    ],
-    [
-      "Great Question (YC W21) Is Hiring Applied AI Interns",
-      "https://www.ycombinator.com/companies/great-question/jobs/J5TNvQH-ai-engineer-intern"
-    ]
-  ],
-  [
-    [
       "2026-06-02, 10:00:56",
       "https://news.ycombinator.com/item?id=48368121"
     ],
     [
       "Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai",
       "https://blog.adafruit.com/"
-    ]
-  ],
-  [
-    [
-      "2026-06-02, 09:34:31",
-      "https://news.ycombinator.com/item?id=48367907"
-    ],
-    [
-      "Why Janet? (2023)",
-      "https://ianthehenry.com/posts/why-janet/"
     ]
   ],
   [
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2026-06-02, 07:46:20",
-      "https://news.ycombinator.com/item?id=48367223"
+      "2026-06-01, 13:40:35",
+      "https://news.ycombinator.com/item?id=48356754"
     ],
     [
-      "California’s university system went all in on AI, now it's tearing itself apart",
-      "https://www.nytimes.com/2026/06/01/magazine/ai-university-college-california.html"
+      "Are blue zones real? Answering that question is harder then ever",
+      "https://www.statnews.com/2026/05/04/are-blue-zones-real-new-scrutiny-longevity-hot-spots/"
     ]
   ],
   [
     [
-      "2026-06-01, 23:22:28",
-      "https://news.ycombinator.com/item?id=48363882"
+      "2026-05-31, 15:58:50",
+      "https://news.ycombinator.com/item?id=48346766"
     ],
     [
-      "Age verification for social media, the beginning of the end for a free internet?",
-      "https://mullvad.net/en/blog/age-verification-for-social-media-the-beginning-of-the-end-for-a-free-internet"
+      "Loading Sega Games Off a Vinyl Record [video]",
+      "https://www.youtube.com/watch?v=c744iD0_fWU"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-05-30, 15:01:45",
-      "https://news.ycombinator.com/item?id=48337000"
+      "2026-05-30, 14:42:55",
+      "https://news.ycombinator.com/item?id=48336783"
     ],
     [
-      "MP3s from Google Drive in Music Assistant on Home Assistant",
-      "https://blog.tomayac.com/2026/05/30/your-mp3s-from-google-drive-in-music-assistant-on-home-assistant/"
+      "OpenFOV – Webcam head tracking for iRacing",
+      "https://www.openfov.com/"
     ]
   ]
 ]
