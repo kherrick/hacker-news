@@ -33,6 +33,7 @@
 * [2026-05-30, 17:29:22](https://news.ycombinator.com/item?id=48338673) - [Zig ELF Linker Improvements Devlog](https://ziglang.org/devlog/2026/#2026-05-30)
 * [2026-05-30, 17:27:28](https://news.ycombinator.com/item?id=48338660) - [OpenRouter raises $113M Series B](https://openrouter.ai/announcements/series-b)
 * [2026-05-30, 17:27:13](https://news.ycombinator.com/item?id=48338656) - [Microcode inside the Intel 8087 floating-point chip: register exchange](https://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html)
+* [2026-05-30, 16:46:38](https://news.ycombinator.com/item?id=48338215) - [Fluid Simulation for Dummies](https://www.mikeash.com/pyblog/fluid-simulation-for-dummies.html)
 * [2026-05-30, 16:40:34](https://news.ycombinator.com/item?id=48338145) - [I missed Network integrated tools on Windows so I built a Linux equivalent](https://github.com/thongor77/nmlinux)
 * [2026-05-30, 16:28:58](https://news.ycombinator.com/item?id=48337987) - [Downdetector and Speedtest sold to Accenture for $1.2B](https://www.theverge.com/tech/889234/downdetector-ookla-speedtest-sold-accenture)
 * [2026-05-30, 16:28:58](https://news.ycombinator.com/item?id=48337987) - [Accenture to acquire Ookla](https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises)

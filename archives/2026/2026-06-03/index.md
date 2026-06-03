@@ -4,6 +4,18 @@
 
 ### [Archives](../../index.md) for [2026-06-03](index.md)
 
+* [2026-06-03, 17:01:00](https://news.ycombinator.com/item?id=48386588) - [Skyvern (YC S23) Is Hiring Open-Source Loving DevRel Engineers](https://www.ycombinator.com/companies/skyvern/jobs/1qRTlVx-founding-developer-marketing-open-source-ai)
+* [2026-06-03, 16:24:46](https://news.ycombinator.com/item?id=48386129) - [Show HN: Nutrepedia – nutrition info in 29 locales built with Clojure and Htmx](https://nutrepedia.com/en-us/)
+* [2026-06-03, 16:10:25](https://news.ycombinator.com/item?id=48385965) - [ESP32-S31](https://www.espressif.com/en/products/socs/esp32-s31)
+* [2026-06-03, 16:06:04](https://news.ycombinator.com/item?id=48385919) - [Uber to cut 23% of jobs in HR](https://stocktwits.com/news-articles/markets/equity/uber-reportedly-slashes-many-senior-roles-in-people-division-retail-calls-the-cuts-aggressive/cZ0j99kReUR)
+* [2026-06-03, 16:04:42](https://news.ycombinator.com/item?id=48385906) - [Gemma 4 12B: A unified, encoder-free multimodal model](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/)
+* [2026-06-03, 15:06:09](https://news.ycombinator.com/item?id=48385114) - [A Post-Quantum Future for Let's Encrypt](https://letsencrypt.org/2026/06/03/pq-certs)
+* [2026-06-03, 14:18:39](https://news.ycombinator.com/item?id=48384482) - [DaVinci Resolve 21](https://www.blackmagicdesign.com/products/davinciresolve/whatsnew)
+* [2026-06-03, 14:00:08](https://news.ycombinator.com/item?id=48384221) - [Shopify Is Down](https://www.shopifystatus.com)
+* [2026-06-03, 13:53:03](https://news.ycombinator.com/item?id=48384125) - [REST3D: Reconstructing Physically Stable 3D Scenes from a Single Image](https://shirleymaxx.github.io/REST3D/)
+* [2026-06-03, 13:33:00](https://news.ycombinator.com/item?id=48383823) - [I built a ceiling projection mapping of the planes flying over my house](https://old.reddit.com/r/nextfuckinglevel/comments/1tvmcin/i_live_in_the_take_off_path_of_sfo_and_built_a/)
+* [2026-06-03, 12:43:43](https://news.ycombinator.com/item?id=48383241) - [32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building](https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building)
+* [2026-06-03, 12:42:07](https://news.ycombinator.com/item?id=48383220) - [Meta workers can opt out of being tracked at work up to 30 min](https://www.bbc.com/news/articles/c93x0k194yno)
 * [2026-06-03, 11:04:04](https://news.ycombinator.com/item?id=48382382) - [Every Byte Matters](https://fzakaria.com/2026/06/01/every-byte-matters)
 * [2026-06-03, 10:53:00](https://news.ycombinator.com/item?id=48382310) - [Hacking your PC using your speaker without ever touching it](https://blog.nns.ee/2026/06/03/katana-badusb/)
 * [2026-06-03, 10:24:25](https://news.ycombinator.com/item?id=48382142) - [PlayStation Architecture](https://www.copetti.org/writings/consoles/playstation/)
