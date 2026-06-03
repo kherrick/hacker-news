@@ -1,12 +1,62 @@
 [
   [
     [
-      "2026-06-03, 06:04:36",
-      "https://news.ycombinator.com/item?id=48380516"
+      "2026-06-03, 11:04:04",
+      "https://news.ycombinator.com/item?id=48382382"
     ],
     [
-      "Microsoft Doubles Down on Controversial Quantum Computing Claims",
-      "https://www.science.org/content/article/doubling-down-controversial-claims-microsoft-accelerates-quantum-computing-plans"
+      "Every Byte Matters",
+      "https://fzakaria.com/2026/06/01/every-byte-matters"
+    ]
+  ],
+  [
+    [
+      "2026-06-03, 10:53:00",
+      "https://news.ycombinator.com/item?id=48382310"
+    ],
+    [
+      "Hacking your PC using your speaker without ever touching it",
+      "https://blog.nns.ee/2026/06/03/katana-badusb/"
+    ]
+  ],
+  [
+    [
+      "2026-06-03, 10:24:25",
+      "https://news.ycombinator.com/item?id=48382142"
+    ],
+    [
+      "PlayStation Architecture",
+      "https://www.copetti.org/writings/consoles/playstation/"
+    ]
+  ],
+  [
+    [
+      "2026-06-03, 08:00:14",
+      "https://news.ycombinator.com/item?id=48381211"
+    ],
+    [
+      "It is an amazing time for programmers",
+      "https://46elks.com/blog/2026/05/29/an-amazing-time-for-programmers"
+    ]
+  ],
+  [
+    [
+      "2026-06-03, 06:33:27",
+      "https://news.ycombinator.com/item?id=48380670"
+    ],
+    [
+      "Leiden Declaration on Artificial Intelligence and Mathematics",
+      "https://leidendeclaration.ai/"
+    ]
+  ],
+  [
+    [
+      "2026-06-03, 05:49:31",
+      "https://news.ycombinator.com/item?id=48380395"
+    ],
+    [
+      "Recovering Eric Graham's 1987 Amiga Juggler raytracer source code",
+      "https://alphapixeldev.com/recovering-eric-grahams-1987-amiga-juggler-raytracer-source-code/"
     ]
   ],
   [
@@ -81,26 +131,6 @@
   ],
   [
     [
-      "2026-06-02, 22:34:42",
-      "https://news.ycombinator.com/item?id=48377250"
-    ],
-    [
-      "Show HN: Paseo – Beautiful open-source coding agent interface",
-      "https://github.com/getpaseo/paseo"
-    ]
-  ],
-  [
-    [
-      "2026-06-02, 22:22:34",
-      "https://news.ycombinator.com/item?id=48377140"
-    ],
-    [
-      "4K years ago, Mohenjo-daro grew more equal over time",
-      "https://archaeologymag.com/2026/05/mohenjo-daro-grew-more-equal-over-time/"
-    ]
-  ],
-  [
-    [
       "2026-06-02, 20:30:08",
       "https://news.ycombinator.com/item?id=48375824"
     ],
@@ -125,7 +155,7 @@
       "https://news.ycombinator.com/item?id=48375150"
     ],
     [
-      "Open Repair Data Standard – Open Repair Alliance",
+      "Open Repair Data Standard",
       "https://openrepair.org/open-data/open-standard/"
     ]
   ],
@@ -151,6 +181,16 @@
   ],
   [
     [
+      "2026-06-02, 18:52:52",
+      "https://news.ycombinator.com/item?id=48374552"
+    ],
+    [
+      "Show HN: Edsger – A handwritten Clojure REPL for the reMarkable 2",
+      "https://handwritten.danieljanus.pl/2026-06-01-edsger.html"
+    ]
+  ],
+  [
+    [
       "2026-06-02, 18:47:07",
       "https://news.ycombinator.com/item?id=48374466"
     ],
@@ -161,42 +201,12 @@
   ],
   [
     [
-      "2026-06-02, 17:52:48",
-      "https://news.ycombinator.com/item?id=48373675"
-    ],
-    [
-      "Bringing Up DeepSeek-V4-Flash on AMD MI300X",
-      "https://fergusfinn.com/blog/deepseek-v4-flash-mi300x/"
-    ]
-  ],
-  [
-    [
-      "2026-06-02, 16:40:16",
-      "https://news.ycombinator.com/item?id=48372628"
-    ],
-    [
-      "Trump signs downsized AI order after weeks of reversals",
-      "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389"
-    ]
-  ],
-  [
-    [
       "2026-06-02, 16:13:41",
       "https://news.ycombinator.com/item?id=48372239"
     ],
     [
       "How we index images for RAG",
       "https://www.kapa.ai/blog/how-we-index-images-for-rag"
-    ]
-  ],
-  [
-    [
-      "2026-06-02, 16:02:47",
-      "https://news.ycombinator.com/item?id=48372036"
-    ],
-    [
-      "Show HN: Live breath detection and biofeedback from a phone microphone",
-      "https://github.com/shiihaa-app/shiihaa-breath-detection"
     ]
   ],
   [
@@ -221,22 +231,22 @@
   ],
   [
     [
-      "2026-06-02, 13:53:52",
-      "https://news.ycombinator.com/item?id=48370291"
+      "2026-06-01, 22:52:19",
+      "https://news.ycombinator.com/item?id=48363646"
     ],
     [
-      "Fidonet: Technology, Use, Tools, and History (1993)",
-      "https://www.fidonet.org/inet92_Randy_Bush.txt"
+      "Jonathan Franzen on Talent, Theatre, and His Next Novel",
+      "https://www.newyorker.com/books/this-week-in-fiction/jonathan-franzen-06-08-26"
     ]
   ],
   [
     [
-      "2026-06-01, 14:56:54",
-      "https://news.ycombinator.com/item?id=48357655"
+      "2026-06-01, 01:18:16",
+      "https://news.ycombinator.com/item?id=48351579"
     ],
     [
-      "SaySynth: A Brief History of Speaking Machines",
-      "https://brian.abelson.live/log/2025/12/20/saysynth-composition-codes.html"
+      "Nabokov's pale fire: the lost 'father of all hypertext demos'? (2011)",
+      "https://dl.acm.org/doi/pdf/10.1145/1995966.1996008"
     ]
   ],
   [
@@ -251,12 +261,12 @@
   ],
   [
     [
-      "2026-05-31, 15:58:50",
-      "https://news.ycombinator.com/item?id=48346766"
+      "2026-05-31, 17:59:39",
+      "https://news.ycombinator.com/item?id=48347977"
     ],
     [
-      "Loading Sega Games Off a Vinyl Record [video]",
-      "https://www.youtube.com/watch?v=c744iD0_fWU"
+      "Writing Portable ARM64 Assembly (2023)",
+      "https://ariadne.space/2023/04/12/writing-portable-arm-assembly.html"
     ]
   ],
   [
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2026-05-31, 08:06:33",
-      "https://news.ycombinator.com/item?id=48343901"
+      "2026-05-31, 00:07:04",
+      "https://news.ycombinator.com/item?id=48341806"
     ],
     [
-      "Multicore suppport for DOS is real – partly",
-      "https://www.vogons.org/viewtopic.php?t=111336"
-    ]
-  ],
-  [
-    [
-      "2026-05-30, 14:42:55",
-      "https://news.ycombinator.com/item?id=48336783"
-    ],
-    [
-      "OpenFOV – Webcam head tracking for iRacing",
-      "https://www.openfov.com/"
+      "OpenRidingController – DIY horse riding controller for the PC",
+      "https://github.com/Squalius-cephalus/OpenRidingController"
     ]
   ]
 ]
