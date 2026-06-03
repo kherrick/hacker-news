@@ -1,6 +1,96 @@
 [
   [
     [
+      "2026-06-03, 19:41:21",
+      "https://news.ycombinator.com/item?id=48388870"
+    ],
+    [
+      "Brume is a 24-voice multi-timbral desktop synth for the CM5",
+      "https://brume.aftertone.co/"
+    ]
+  ],
+  [
+    [
+      "2026-06-03, 19:30:12",
+      "https://news.ycombinator.com/item?id=48388710"
+    ],
+    [
+      "Building iOS Apps with Doom Emacs",
+      "https://wassimans.com/blog/building-ios-apps-with-doom-emacs/"
+    ]
+  ],
+  [
+    [
+      "2026-06-03, 19:02:26",
+      "https://news.ycombinator.com/item?id=48388324"
+    ],
+    [
+      "Elixir v1.20: Now a gradually typed language",
+      "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/"
+    ]
+  ],
+  [
+    [
+      "2026-06-03, 18:58:05",
+      "https://news.ycombinator.com/item?id=48388253"
+    ],
+    [
+      "Rootshell: A new E2EE email service hosted in Iceland",
+      "https://rootshell.is"
+    ]
+  ],
+  [
+    [
+      "2026-06-03, 17:51:37",
+      "https://news.ycombinator.com/item?id=48387270"
+    ],
+    [
+      "Artificial intelligence is not conscious – Ted Chiang",
+      "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/"
+    ]
+  ],
+  [
+    [
+      "2026-06-03, 17:50:16",
+      "https://news.ycombinator.com/item?id=48387251"
+    ],
+    [
+      "Embryos shape their limbs: a key discovery of \"genetic brakes\"",
+      "https://nouvelles.umontreal.ca/en/article/2026/06/02/how-embryos-shape-their-limbs-a-key-discovery-of-genetic-brakes"
+    ]
+  ],
+  [
+    [
+      "2026-06-03, 17:43:00",
+      "https://news.ycombinator.com/item?id=48387144"
+    ],
+    [
+      "Bot vs human traffic",
+      "https://radar.cloudflare.com/traffic#bot-vs-human"
+    ]
+  ],
+  [
+    [
+      "2026-06-03, 17:39:53",
+      "https://news.ycombinator.com/item?id=48387095"
+    ],
+    [
+      "Launch HN: Hyper (YC P26) – Company brain to power agentic development",
+      "https://news.ycombinator.com/item?id=48387095"
+    ]
+  ],
+  [
+    [
+      "2026-06-03, 17:12:27",
+      "https://news.ycombinator.com/item?id=48386725"
+    ],
+    [
+      "Gooey: A GPU-accelerated UI framework for Zig",
+      "https://github.com/duanebester/gooey"
+    ]
+  ],
+  [
+    [
       "2026-06-03, 17:01:00",
       "https://news.ycombinator.com/item?id=48386588"
     ],
@@ -11,12 +101,22 @@
   ],
   [
     [
-      "2026-06-03, 16:24:46",
-      "https://news.ycombinator.com/item?id=48386129"
+      "2026-06-03, 16:51:49",
+      "https://news.ycombinator.com/item?id=48386463"
     ],
     [
-      "Show HN: Nutrepedia – nutrition info in 29 locales built with Clojure and Htmx",
-      "https://nutrepedia.com/en-us/"
+      "Angular v22",
+      "https://blog.angular.dev/announcing-angular-v22-c52bb83a4664"
+    ]
+  ],
+  [
+    [
+      "2026-06-03, 16:25:08",
+      "https://news.ycombinator.com/item?id=48386133"
+    ],
+    [
+      "New Texas Instruments 5532 chips are not the 5532's we've used for decades",
+      "https://groupdiy.com/threads/the-new-ti-5532-chips-are-not-5532s-weve-used-for-decades.93707/"
     ]
   ],
   [
@@ -27,16 +127,6 @@
     [
       "ESP32-S31",
       "https://www.espressif.com/en/products/socs/esp32-s31"
-    ]
-  ],
-  [
-    [
-      "2026-06-03, 16:06:04",
-      "https://news.ycombinator.com/item?id=48385919"
-    ],
-    [
-      "Uber to cut 23% of jobs in HR",
-      "https://stocktwits.com/news-articles/markets/equity/uber-reportedly-slashes-many-senior-roles-in-people-division-retail-calls-the-cuts-aggressive/cZ0j99kReUR"
     ]
   ],
   [
@@ -71,32 +161,12 @@
   ],
   [
     [
-      "2026-06-03, 14:00:08",
-      "https://news.ycombinator.com/item?id=48384221"
+      "2026-06-03, 14:10:06",
+      "https://news.ycombinator.com/item?id=48384355"
     ],
     [
-      "Shopify Is Down",
-      "https://www.shopifystatus.com"
-    ]
-  ],
-  [
-    [
-      "2026-06-03, 13:53:03",
-      "https://news.ycombinator.com/item?id=48384125"
-    ],
-    [
-      "REST3D: Reconstructing Physically Stable 3D Scenes from a Single Image",
-      "https://shirleymaxx.github.io/REST3D/"
-    ]
-  ],
-  [
-    [
-      "2026-06-03, 13:33:00",
-      "https://news.ycombinator.com/item?id=48383823"
-    ],
-    [
-      "I built a ceiling projection mapping of the planes flying over my house",
-      "https://old.reddit.com/r/nextfuckinglevel/comments/1tvmcin/i_live_in_the_take_off_path_of_sfo_and_built_a/"
+      "I was recently diagnosed with anti-NMDA receptor encephalitis",
+      "https://burntsushi.net/encephalitis/"
     ]
   ],
   [
@@ -121,6 +191,16 @@
   ],
   [
     [
+      "2026-06-03, 12:25:14",
+      "https://news.ycombinator.com/item?id=48383056"
+    ],
+    [
+      "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
+      "https://simonwillison.net/2026/Jun/3/uber-caps-usage/"
+    ]
+  ],
+  [
+    [
       "2026-06-03, 11:04:04",
       "https://news.ycombinator.com/item?id=48382382"
     ],
@@ -141,6 +221,16 @@
   ],
   [
     [
+      "2026-06-03, 10:51:29",
+      "https://news.ycombinator.com/item?id=48382305"
+    ],
+    [
+      "What I've learned about the trombone",
+      "http://bryanhu.com/blog/posts/what-ive-learned-about-the-trombone/"
+    ]
+  ],
+  [
+    [
       "2026-06-03, 10:24:25",
       "https://news.ycombinator.com/item?id=48382142"
     ],
@@ -151,62 +241,12 @@
   ],
   [
     [
-      "2026-06-03, 06:33:27",
-      "https://news.ycombinator.com/item?id=48380670"
+      "2026-06-03, 10:05:48",
+      "https://news.ycombinator.com/item?id=48382052"
     ],
     [
-      "Leiden Declaration on Artificial Intelligence and Mathematics",
-      "https://leidendeclaration.ai/"
-    ]
-  ],
-  [
-    [
-      "2026-06-03, 03:47:56",
-      "https://news.ycombinator.com/item?id=48379669"
-    ],
-    [
-      "The Unreasonable Redundancy of Nature's Protein Folds",
-      "https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/"
-    ]
-  ],
-  [
-    [
-      "2026-06-03, 03:47:21",
-      "https://news.ycombinator.com/item?id=48379664"
-    ],
-    [
-      "U of T researchers demonstrate AI worm could target any online device",
-      "https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device"
-    ]
-  ],
-  [
-    [
-      "2026-06-02, 23:43:12",
-      "https://news.ycombinator.com/item?id=48377761"
-    ],
-    [
-      "AI outperforms law professors in Stanford Law study",
-      "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/"
-    ]
-  ],
-  [
-    [
-      "2026-06-02, 23:09:09",
-      "https://news.ycombinator.com/item?id=48377496"
-    ],
-    [
-      "Pluto.jl 1.0 release – reactive notebook for Julia",
-      "https://discourse.julialang.org/t/pluto-1-0-release/137296"
-    ]
-  ],
-  [
-    [
-      "2026-06-02, 22:55:33",
-      "https://news.ycombinator.com/item?id=48377404"
-    ],
-    [
-      "Use your Nvidia GPU's VRAM as swap space on Linux",
-      "https://github.com/c0dejedi/nbd-vram"
+      "Mathematicians issue warning as AI rapidly gains ground",
+      "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground"
     ]
   ],
   [
@@ -221,42 +261,22 @@
   ],
   [
     [
-      "2026-06-02, 18:47:07",
-      "https://news.ycombinator.com/item?id=48374466"
+      "2026-06-02, 03:08:02",
+      "https://news.ycombinator.com/item?id=48365509"
     ],
     [
-      "MAI-Code-1-Flash",
-      "https://microsoft.ai/news/introducingmai-code-1-flash/"
+      "GoPro warned it may not survive",
+      "https://thenextweb.com/news/gopro-going-concern-ai-memory-crisis-default"
     ]
   ],
   [
     [
-      "2026-06-02, 15:29:05",
-      "https://news.ycombinator.com/item?id=48371562"
+      "2026-06-01, 13:16:51",
+      "https://news.ycombinator.com/item?id=48356449"
     ],
     [
-      "1-Click GitHub Token Stealing via a VSCode Bug",
-      "https://blog.ammaraskar.com/github-token-stealing/"
-    ]
-  ],
-  [
-    [
-      "2026-06-01, 16:00:23",
-      "https://news.ycombinator.com/item?id=48358643"
-    ],
-    [
-      "Are You Enjoying Our Linguine? (2025)",
-      "https://www.thedial.world/articles/news/american-tourists-rome"
-    ]
-  ],
-  [
-    [
-      "2026-06-01, 05:56:04",
-      "https://news.ycombinator.com/item?id=48353112"
-    ],
-    [
-      "Thomas Mann: Goethe Heartened by Panama (As Suez for English, or Danube-Rhine)",
-      "https://yalereview.org/article/thomas-mann-goethe"
+      "Stop Killing Games",
+      "https://jxself.org/stop-killing-games.shtml"
     ]
   ],
   [
@@ -271,31 +291,11 @@
   ],
   [
     [
-      "2026-05-31, 13:11:02",
-      "https://news.ycombinator.com/item?id=48345409"
-    ],
-    [
-      "DIY Bipedal Robot Used Pneumatic \"Air-Muscles\" Instead of Motors",
-      "https://spectrum.ieee.org/shadow-walker-biped-humanoid-robot"
-    ]
-  ],
-  [
-    [
-      "2026-05-31, 09:45:45",
-      "https://news.ycombinator.com/item?id=48344327"
-    ],
-    [
-      "Show HN: I reverse-engineered the world maps of Test Drive III (1990 DOS game)",
-      "https://github.com/s-macke/Test-Drive-3-Maps"
-    ]
-  ],
-  [
-    [
       "2026-05-30, 16:46:38",
       "https://news.ycombinator.com/item?id=48338215"
     ],
     [
-      "Fluid Simulation for Dummies",
+      "Fluid Simulation for Dummies (2006)",
       "https://www.mikeash.com/pyblog/fluid-simulation-for-dummies.html"
     ]
   ]
