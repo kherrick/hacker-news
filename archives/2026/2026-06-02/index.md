@@ -60,4 +60,5 @@
 * [2026-06-02, 01:28:34](https://news.ycombinator.com/item?id=48364800) - [macOS needs its grid back](https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/)
 * [2026-06-02, 01:22:42](https://news.ycombinator.com/item?id=48364754) - [Crystal Nights (2008)](https://www.gregegan.net/MISC/CRYSTAL/Crystal.html)
 * [2026-06-02, 01:05:29](https://news.ycombinator.com/item?id=48364620) - [How is Groq raising more money?](https://www.zach.be/p/how-the-hell-is-groq-raising-more)
+* [2026-06-02, 00:36:03](https://news.ycombinator.com/item?id=48364379) - [Book Dedications](https://walzr.com/dedications)
 * [2026-06-02, 00:21:14](https://news.ycombinator.com/item?id=48364284) - [What's gonna happen to software engineers?](https://yakko.dev/blog/whats-gonna-happen-to-software-developers)

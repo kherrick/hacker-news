@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-06-03](index.md)
 
+* [2026-06-03, 20:39:34](https://news.ycombinator.com/item?id=48389681) - [Ableton Extensions SDK](https://www.ableton.com/en/live/extensions/)
+* [2026-06-03, 20:32:10](https://news.ycombinator.com/item?id=48389586) - [Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph)](https://github.com/zaydmulani09/mnemo)
+* [2026-06-03, 20:08:33](https://news.ycombinator.com/item?id=48389284) - [A Man Who Reads Books for a Living (One Every Two Days)](https://lithub.com/the-man-who-reads-books-for-a-living-one-every-two-days/)
+* [2026-06-03, 19:43:37](https://news.ycombinator.com/item?id=48388909) - [Self-hosted dev sandboxes with preview URLs (Docker, Go, no K8s)](https://github.com/tastyeffectco/sandboxes)
 * [2026-06-03, 19:41:21](https://news.ycombinator.com/item?id=48388870) - [Brume is a 24-voice multi-timbral desktop synth for the CM5](https://brume.aftertone.co/)
 * [2026-06-03, 19:30:12](https://news.ycombinator.com/item?id=48388710) - [Building iOS Apps with Doom Emacs](https://wassimans.com/blog/building-ios-apps-with-doom-emacs/)
 * [2026-06-03, 19:02:26](https://news.ycombinator.com/item?id=48388324) - [Elixir v1.20: Now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/)
@@ -15,6 +19,7 @@
 * [2026-06-03, 17:12:27](https://news.ycombinator.com/item?id=48386725) - [Gooey: A GPU-accelerated UI framework for Zig](https://github.com/duanebester/gooey)
 * [2026-06-03, 17:01:00](https://news.ycombinator.com/item?id=48386588) - [Skyvern (YC S23) Is Hiring Open-Source Loving DevRel Engineers](https://www.ycombinator.com/companies/skyvern/jobs/1qRTlVx-founding-developer-marketing-open-source-ai)
 * [2026-06-03, 16:51:49](https://news.ycombinator.com/item?id=48386463) - [Angular v22](https://blog.angular.dev/announcing-angular-v22-c52bb83a4664)
+* [2026-06-03, 16:33:17](https://news.ycombinator.com/item?id=48386238) - [MacBook Neo is so popular that Apple doubled production](https://www.macrumors.com/2026/06/03/macbook-neo-production-doubled-says-kuo/)
 * [2026-06-03, 16:25:08](https://news.ycombinator.com/item?id=48386133) - [New Texas Instruments 5532 chips are not the 5532's we've used for decades](https://groupdiy.com/threads/the-new-ti-5532-chips-are-not-5532s-weve-used-for-decades.93707/)
 * [2026-06-03, 16:24:46](https://news.ycombinator.com/item?id=48386129) - [Show HN: Nutrepedia – nutrition info in 29 locales built with Clojure and Htmx](https://nutrepedia.com/en-us/)
 * [2026-06-03, 16:10:25](https://news.ycombinator.com/item?id=48385965) - [ESP32-S31](https://www.espressif.com/en/products/socs/esp32-s31)
