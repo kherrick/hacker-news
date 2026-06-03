@@ -1,22 +1,52 @@
 [
   [
     [
+      "2026-06-03, 20:39:34",
+      "https://news.ycombinator.com/item?id=48389681"
+    ],
+    [
+      "Ableton Extensions SDK",
+      "https://www.ableton.com/en/live/extensions/"
+    ]
+  ],
+  [
+    [
+      "2026-06-03, 20:32:10",
+      "https://news.ycombinator.com/item?id=48389586"
+    ],
+    [
+      "Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph)",
+      "https://github.com/zaydmulani09/mnemo"
+    ]
+  ],
+  [
+    [
+      "2026-06-03, 20:08:33",
+      "https://news.ycombinator.com/item?id=48389284"
+    ],
+    [
+      "A Man Who Reads Books for a Living (One Every Two Days)",
+      "https://lithub.com/the-man-who-reads-books-for-a-living-one-every-two-days/"
+    ]
+  ],
+  [
+    [
+      "2026-06-03, 19:43:37",
+      "https://news.ycombinator.com/item?id=48388909"
+    ],
+    [
+      "Self-hosted dev sandboxes with preview URLs (Docker, Go, no K8s)",
+      "https://github.com/tastyeffectco/sandboxes"
+    ]
+  ],
+  [
+    [
       "2026-06-03, 19:41:21",
       "https://news.ycombinator.com/item?id=48388870"
     ],
     [
       "Brume is a 24-voice multi-timbral desktop synth for the CM5",
       "https://brume.aftertone.co/"
-    ]
-  ],
-  [
-    [
-      "2026-06-03, 19:30:12",
-      "https://news.ycombinator.com/item?id=48388710"
-    ],
-    [
-      "Building iOS Apps with Doom Emacs",
-      "https://wassimans.com/blog/building-ios-apps-with-doom-emacs/"
     ]
   ],
   [
@@ -41,32 +71,12 @@
   ],
   [
     [
-      "2026-06-03, 17:51:37",
-      "https://news.ycombinator.com/item?id=48387270"
-    ],
-    [
-      "Artificial intelligence is not conscious – Ted Chiang",
-      "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/"
-    ]
-  ],
-  [
-    [
       "2026-06-03, 17:50:16",
       "https://news.ycombinator.com/item?id=48387251"
     ],
     [
       "Embryos shape their limbs: a key discovery of \"genetic brakes\"",
       "https://nouvelles.umontreal.ca/en/article/2026/06/02/how-embryos-shape-their-limbs-a-key-discovery-of-genetic-brakes"
-    ]
-  ],
-  [
-    [
-      "2026-06-03, 17:43:00",
-      "https://news.ycombinator.com/item?id=48387144"
-    ],
-    [
-      "Bot vs human traffic",
-      "https://radar.cloudflare.com/traffic#bot-vs-human"
     ]
   ],
   [
@@ -111,12 +121,32 @@
   ],
   [
     [
+      "2026-06-03, 16:33:17",
+      "https://news.ycombinator.com/item?id=48386238"
+    ],
+    [
+      "MacBook Neo is so popular that Apple doubled production",
+      "https://www.macrumors.com/2026/06/03/macbook-neo-production-doubled-says-kuo/"
+    ]
+  ],
+  [
+    [
       "2026-06-03, 16:25:08",
       "https://news.ycombinator.com/item?id=48386133"
     ],
     [
-      "New Texas Instruments 5532 chips are not the 5532's we've used for decades",
+      "New Texas Instruments 5532 chips are not the 5532s we’ve used for decades",
       "https://groupdiy.com/threads/the-new-ti-5532-chips-are-not-5532s-weve-used-for-decades.93707/"
+    ]
+  ],
+  [
+    [
+      "2026-06-03, 16:24:46",
+      "https://news.ycombinator.com/item?id=48386129"
+    ],
+    [
+      "Show HN: Nutrepedia – Nutrition info in 29 locales built with Clojure and Htmx",
+      "https://nutrepedia.com/en-us/"
     ]
   ],
   [
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2026-06-03, 12:43:43",
-      "https://news.ycombinator.com/item?id=48383241"
-    ],
-    [
-      "32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building",
-      "https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building"
-    ]
-  ],
-  [
-    [
       "2026-06-03, 12:42:07",
       "https://news.ycombinator.com/item?id=48383220"
     ],
@@ -215,7 +235,7 @@
       "https://news.ycombinator.com/item?id=48382310"
     ],
     [
-      "Hacking your PC using your speaker without ever touching it",
+      "Pwnd Blaster: Hacking your PC using your speaker without ever touching it",
       "https://blog.nns.ee/2026/06/03/katana-badusb/"
     ]
   ],
@@ -251,22 +271,12 @@
   ],
   [
     [
-      "2026-06-02, 18:52:52",
-      "https://news.ycombinator.com/item?id=48374552"
+      "2026-06-02, 00:36:03",
+      "https://news.ycombinator.com/item?id=48364379"
     ],
     [
-      "Show HN: Edsger – A handwritten Clojure REPL for the reMarkable 2",
-      "https://handwritten.danieljanus.pl/2026-06-01-edsger.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-02, 03:08:02",
-      "https://news.ycombinator.com/item?id=48365509"
-    ],
-    [
-      "GoPro warned it may not survive",
-      "https://thenextweb.com/news/gopro-going-concern-ai-memory-crisis-default"
+      "Book Dedications",
+      "https://walzr.com/dedications"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Stop Killing Games",
       "https://jxself.org/stop-killing-games.shtml"
-    ]
-  ],
-  [
-    [
-      "2026-06-01, 01:18:16",
-      "https://news.ycombinator.com/item?id=48351579"
-    ],
-    [
-      "Nabokov's pale fire: the lost 'father of all hypertext demos'? (2011)",
-      "https://dl.acm.org/doi/pdf/10.1145/1995966.1996008"
     ]
   ],
   [
