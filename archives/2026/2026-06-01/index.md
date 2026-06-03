@@ -39,6 +39,7 @@
 * [2026-06-01, 13:28:53](https://news.ycombinator.com/item?id=48356603) - [Windows GOG DOS Games on M-Series Macs](https://f055.net/technology/windows-gog-dos-games-on-m-series-macs/)
 * [2026-06-01, 13:20:54](https://news.ycombinator.com/item?id=48356490) - [Flipper Zero Zig Template](https://github.com/NishantJoshi00/flipper-template)
 * [2026-06-01, 13:19:01](https://news.ycombinator.com/item?id=48356468) - [Linux Basics for Hackers (2019)](https://github.com/ahegazy0/linux-basics-for-hackers-notes)
+* [2026-06-01, 13:16:51](https://news.ycombinator.com/item?id=48356449) - [Stop Killing Games](https://jxself.org/stop-killing-games.shtml)
 * [2026-06-01, 13:05:02](https://news.ycombinator.com/item?id=48356312) - [Launch HN: Expanse (YC P26) – Unlock Wasted GPU Capacity](https://news.ycombinator.com/item?id=48356312)
 * [2026-06-01, 12:04:29](https://news.ycombinator.com/item?id=48355720) - [Microsoft builds MacBook Pro rival with NVIDIA-powered Surface Laptop Ultra](https://www.windowslatest.com/2026/06/01/microsoft-builds-its-ultimate-macbook-pro-rival-with-the-nvidia-powered-surface-laptop-ultra/)
 * [2026-06-01, 11:03:38](https://news.ycombinator.com/item?id=48355229) - [LLMs Are Closer to Religion Than They Appear](https://www.theregister.com/ai-ml/2026/06/01/llms-are-closer-to-religion-than-they-appear-watch-out-for-those-who-like-it-that-way/5248189)
