@@ -24,6 +24,7 @@
 * [2026-06-01, 15:11:35](https://news.ycombinator.com/item?id=48357905) - [Lifelike biochemistry continued to unfold in sterilized soil](https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/)
 * [2026-06-01, 15:00:48](https://news.ycombinator.com/item?id=48357725) - [Ask HN: Who is hiring? (June 2026)](https://news.ycombinator.com/item?id=48357725)
 * [2026-06-01, 15:00:48](https://news.ycombinator.com/item?id=48357724) - [Ask HN: Who wants to be hired? (June 2026)](https://news.ycombinator.com/item?id=48357724)
+* [2026-06-01, 14:56:54](https://news.ycombinator.com/item?id=48357655) - [SaySynth: A Brief History of Speaking Machines](https://brian.abelson.live/log/2025/12/20/saysynth-composition-codes.html)
 * [2026-06-01, 14:31:26](https://news.ycombinator.com/item?id=48357355) - [KDE at 30](https://kde.org/anniversaries/30/)
 * [2026-06-01, 14:16:41](https://news.ycombinator.com/item?id=48357154) - [The Pirate Bay Remains Resilient, 20 Years After the Raid](https://torrentfreak.com/the-pirate-bay-remains-resilient-20-years-after-the-raid/)
 * [2026-06-01, 14:10:32](https://news.ycombinator.com/item?id=48357075) - [CS336: Language Modeling from Scratch](https://cs336.stanford.edu/)
