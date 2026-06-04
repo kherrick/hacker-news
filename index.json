@@ -1,12 +1,72 @@
 [
   [
     [
+      "2026-06-04, 00:56:32",
+      "https://news.ycombinator.com/item?id=48392343"
+    ],
+    [
+      "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
+      "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/"
+    ]
+  ],
+  [
+    [
+      "2026-06-04, 00:44:13",
+      "https://news.ycombinator.com/item?id=48392232"
+    ],
+    [
+      "U.S. to dismantle system tracking Atlantic currents that are at risk of collapse",
+      "https://e360.yale.edu/digest/trump-ooi-amoc"
+    ]
+  ],
+  [
+    [
+      "2026-06-04, 00:27:52",
+      "https://news.ycombinator.com/item?id=48392082"
+    ],
+    [
+      "The ways we contain Claude across products",
+      "https://www.anthropic.com/engineering/how-we-contain-claude"
+    ]
+  ],
+  [
+    [
+      "2026-06-04, 00:18:02",
+      "https://news.ycombinator.com/item?id=48392004"
+    ],
+    [
+      "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+      "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-04, 00:12:50",
+      "https://news.ycombinator.com/item?id=48391957"
+    ],
+    [
+      "DNS Is for People – Not for IT Infrastructure",
+      "https://louwrentius.com/dns-is-for-people-not-for-it-infrastructure.html"
+    ]
+  ],
+  [
+    [
       "2026-06-04, 00:00:04",
       "https://news.ycombinator.com/item?id=48391838"
     ],
     [
       "The Ü Programming Language",
       "https://github.com/Panzerschrek/U-00DC-Sprache/"
+    ]
+  ],
+  [
+    [
+      "2026-06-03, 23:37:18",
+      "https://news.ycombinator.com/item?id=48391611"
+    ],
+    [
+      "\"They're made out of weights\"",
+      "https://maxleiter.com/blog/weights"
     ]
   ],
   [
@@ -41,21 +101,11 @@
   ],
   [
     [
-      "2026-06-03, 20:32:10",
-      "https://news.ycombinator.com/item?id=48389586"
-    ],
-    [
-      "Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph)",
-      "https://github.com/zaydmulani09/mnemo"
-    ]
-  ],
-  [
-    [
       "2026-06-03, 20:08:33",
       "https://news.ycombinator.com/item?id=48389284"
     ],
     [
-      "A Man Who Reads Books for a Living (One Every Two Days)",
+      "A Man Who Reads Books for a Living",
       "https://lithub.com/the-man-who-reads-books-for-a-living-one-every-two-days/"
     ]
   ],
@@ -71,16 +121,6 @@
   ],
   [
     [
-      "2026-06-03, 19:41:21",
-      "https://news.ycombinator.com/item?id=48388870"
-    ],
-    [
-      "Brume is a 24-voice multi-timbral desktop synth for the CM5",
-      "https://brume.aftertone.co/"
-    ]
-  ],
-  [
-    [
       "2026-06-03, 19:02:26",
       "https://news.ycombinator.com/item?id=48388324"
     ],
@@ -91,32 +131,12 @@
   ],
   [
     [
-      "2026-06-03, 18:58:05",
-      "https://news.ycombinator.com/item?id=48388253"
-    ],
-    [
-      "Rootshell: A new E2EE email service hosted in Iceland",
-      "https://rootshell.is"
-    ]
-  ],
-  [
-    [
       "2026-06-03, 17:51:37",
       "https://news.ycombinator.com/item?id=48387270"
     ],
     [
       "Artificial intelligence is not conscious – Ted Chiang",
       "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/"
-    ]
-  ],
-  [
-    [
-      "2026-06-03, 17:50:16",
-      "https://news.ycombinator.com/item?id=48387251"
-    ],
-    [
-      "Embryos shape their limbs: a key discovery of \"genetic brakes\"",
-      "https://nouvelles.umontreal.ca/en/article/2026/06/02/how-embryos-shape-their-limbs-a-key-discovery-of-genetic-brakes"
     ]
   ],
   [
@@ -147,16 +167,6 @@
     [
       "Skyvern (YC S23) Is Hiring Open-Source Loving DevRel Engineers",
       "https://www.ycombinator.com/companies/skyvern/jobs/1qRTlVx-founding-developer-marketing-open-source-ai"
-    ]
-  ],
-  [
-    [
-      "2026-06-03, 16:33:17",
-      "https://news.ycombinator.com/item?id=48386238"
-    ],
-    [
-      "MacBook Neo is so popular that Apple doubled production",
-      "https://www.macrumors.com/2026/06/03/macbook-neo-production-doubled-says-kuo/"
     ]
   ],
   [
@@ -211,42 +221,12 @@
   ],
   [
     [
-      "2026-06-03, 12:42:07",
-      "https://news.ycombinator.com/item?id=48383220"
-    ],
-    [
-      "Meta workers can opt out of being tracked at work up to 30 min",
-      "https://www.bbc.com/news/articles/c93x0k194yno"
-    ]
-  ],
-  [
-    [
       "2026-06-03, 12:25:14",
       "https://news.ycombinator.com/item?id=48383056"
     ],
     [
       "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
       "https://simonwillison.net/2026/Jun/3/uber-caps-usage/"
-    ]
-  ],
-  [
-    [
-      "2026-06-03, 11:04:04",
-      "https://news.ycombinator.com/item?id=48382382"
-    ],
-    [
-      "Every Byte Matters",
-      "https://fzakaria.com/2026/06/01/every-byte-matters"
-    ]
-  ],
-  [
-    [
-      "2026-06-03, 10:53:00",
-      "https://news.ycombinator.com/item?id=48382310"
-    ],
-    [
-      "Pwnd Blaster: Hacking your PC using your speaker without ever touching it",
-      "https://blog.nns.ee/2026/06/03/katana-badusb/"
     ]
   ],
   [
@@ -271,6 +251,16 @@
   ],
   [
     [
+      "2026-06-02, 13:22:59",
+      "https://news.ycombinator.com/item?id=48369964"
+    ],
+    [
+      "Life saving / first aid posters",
+      "https://news.ycombinator.com/item?id=48369964"
+    ]
+  ],
+  [
+    [
       "2026-06-01, 20:31:24",
       "https://news.ycombinator.com/item?id=48362255"
     ],
@@ -281,12 +271,12 @@
   ],
   [
     [
-      "2026-06-01, 13:16:51",
-      "https://news.ycombinator.com/item?id=48356449"
+      "2026-06-01, 18:43:51",
+      "https://news.ycombinator.com/item?id=48360929"
     ],
     [
-      "Stop Killing Games",
-      "https://jxself.org/stop-killing-games.shtml"
+      "When does fragmentation occur in the CUDA caching allocator?",
+      "https://docs.pytorch.org/devlogs/eager/2026-06-01-cuda-caching-allocator/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Patching my guitar amp's firmware",
       "https://mforney.org/blog/2026-05-28-patching-my-guitar-amps-firmware.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-31, 18:05:37",
+      "https://news.ycombinator.com/item?id=48348040"
+    ],
+    [
+      "CP/M-86 & MS-DOS Cross Development Environment",
+      "https://github.com/tsupplis/cpm86-crossdev"
     ]
   ]
 ]
