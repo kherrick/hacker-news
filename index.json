@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2026-06-04, 00:41:09",
+      "https://news.ycombinator.com/item?id=48392203"
+    ],
+    [
+      "Dumbphone 2",
+      "https://dumb.co/"
+    ]
+  ],
+  [
+    [
       "2026-06-04, 00:27:52",
       "https://news.ycombinator.com/item?id=48392082"
     ],
@@ -41,31 +51,11 @@
   ],
   [
     [
-      "2026-06-04, 00:12:50",
-      "https://news.ycombinator.com/item?id=48391957"
-    ],
-    [
-      "DNS Is for People – Not for IT Infrastructure",
-      "https://louwrentius.com/dns-is-for-people-not-for-it-infrastructure.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-04, 00:00:04",
-      "https://news.ycombinator.com/item?id=48391838"
-    ],
-    [
-      "The Ü Programming Language",
-      "https://github.com/Panzerschrek/U-00DC-Sprache/"
-    ]
-  ],
-  [
-    [
       "2026-06-03, 23:37:18",
       "https://news.ycombinator.com/item?id=48391611"
     ],
     [
-      "\"They're made out of weights\"",
+      "They’re made out of weights",
       "https://maxleiter.com/blog/weights"
     ]
   ],
@@ -85,7 +75,7 @@
       "https://news.ycombinator.com/item?id=48390400"
     ],
     [
-      "A Mathematician's Lament – Paul Lockhart (2002) [pdf]",
+      "A Mathematician's Lament (2002) [pdf]",
       "https://worrydream.com/refs/Lockhart_2002_-_A_Mathematician%27s_Lament.pdf"
     ]
   ],
@@ -161,16 +151,6 @@
   ],
   [
     [
-      "2026-06-03, 17:01:00",
-      "https://news.ycombinator.com/item?id=48386588"
-    ],
-    [
-      "Skyvern (YC S23) Is Hiring Open-Source Loving DevRel Engineers",
-      "https://www.ycombinator.com/companies/skyvern/jobs/1qRTlVx-founding-developer-marketing-open-source-ai"
-    ]
-  ],
-  [
-    [
       "2026-06-03, 16:10:25",
       "https://news.ycombinator.com/item?id=48385965"
     ],
@@ -231,6 +211,16 @@
   ],
   [
     [
+      "2026-06-03, 11:04:04",
+      "https://news.ycombinator.com/item?id=48382382"
+    ],
+    [
+      "Every Byte Matters",
+      "https://fzakaria.com/2026/06/01/every-byte-matters"
+    ]
+  ],
+  [
+    [
       "2026-06-03, 10:24:25",
       "https://news.ycombinator.com/item?id=48382142"
     ],
@@ -251,12 +241,12 @@
   ],
   [
     [
-      "2026-06-02, 13:22:59",
-      "https://news.ycombinator.com/item?id=48369964"
+      "2026-06-02, 11:20:10",
+      "https://news.ycombinator.com/item?id=48368725"
     ],
     [
-      "Life saving / first aid posters",
-      "https://news.ycombinator.com/item?id=48369964"
+      "Under Notre Dame, a 'dig of the century' unearths 1,700 years of history",
+      "https://apnews.com/article/notre-dame-dig-treasures-paris-archaeology-roman-dae41f792c1402faf32a87c154cc9a77"
     ]
   ],
   [
@@ -271,12 +261,12 @@
   ],
   [
     [
-      "2026-06-01, 18:43:51",
-      "https://news.ycombinator.com/item?id=48360929"
+      "2026-06-01, 04:12:06",
+      "https://news.ycombinator.com/item?id=48352517"
     ],
     [
-      "When does fragmentation occur in the CUDA caching allocator?",
-      "https://docs.pytorch.org/devlogs/eager/2026-06-01-cuda-caching-allocator/"
+      "The Capacity of HotHands to Facilitate High-Altitude Research (2023) [pdf]",
+      "https://www.colorado.edu/center/spacegrant/sites/default/files/attached-files/B3_RRCC_BringingTheHeatTo100%2C000Feet.pdf"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "CP/M-86 & MS-DOS Cross Development Environment",
       "https://github.com/tsupplis/cpm86-crossdev"
+    ]
+  ],
+  [
+    [
+      "2026-05-31, 17:16:15",
+      "https://news.ycombinator.com/item?id=48347483"
+    ],
+    [
+      "Learn SQL Once, Use It for 30 Years",
+      "https://fagnerbrack.com/learn-sql-once-use-it-for-30-years-9aceb0bdee03"
     ]
   ]
 ]
