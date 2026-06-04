@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-03](index.md)
 
+* [2026-06-03, 23:37:18](https://news.ycombinator.com/item?id=48391611) - [\"They're made out of weights\"](https://maxleiter.com/blog/weights)
 * [2026-06-03, 21:55:23](https://news.ycombinator.com/item?id=48390688) - [Journey to JPEG XL: open-source experiments shaped the future of image coding](https://opensource.googleblog.com/2026/06/journey-to-jpeg-xl-how-open-source-experiments-shaped-the-future-of-image-coding.html)
 * [2026-06-03, 21:32:10](https://news.ycombinator.com/item?id=48390400) - [A Mathematician's Lament – Paul Lockhart (2002) [pdf]](https://worrydream.com/refs/Lockhart_2002_-_A_Mathematician%27s_Lament.pdf)
 * [2026-06-03, 20:39:34](https://news.ycombinator.com/item?id=48389681) - [Ableton Extensions SDK](https://www.ableton.com/en/live/extensions/)

@@ -44,6 +44,7 @@
 * [2026-06-02, 13:53:52](https://news.ycombinator.com/item?id=48370291) - [Fidonet: Technology, Use, Tools, and History (1993)](https://www.fidonet.org/inet92_Randy_Bush.txt)
 * [2026-06-02, 13:39:29](https://news.ycombinator.com/item?id=48370144) - [Martin Scorsese Is Embracing A.I](https://www.nytimes.com/2026/06/02/business/media/martin-scorsese-artificial-intelligence.html)
 * [2026-06-02, 13:24:32](https://news.ycombinator.com/item?id=48369980) - [A walking tour of surveillance infrastructure in Seattle](https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/)
+* [2026-06-02, 13:22:59](https://news.ycombinator.com/item?id=48369964) - [Life saving / first aid posters](https://news.ycombinator.com/item?id=48369964)
 * [2026-06-02, 13:15:14](https://news.ycombinator.com/item?id=48369863) - [Expanding Project Glasswing](https://www.anthropic.com/news/expanding-project-glasswing)
 * [2026-06-02, 12:01:04](https://news.ycombinator.com/item?id=48369098) - [Great Question (YC W21) Is Hiring Applied AI Interns](https://www.ycombinator.com/companies/great-question/jobs/J5TNvQH-ai-engineer-intern)
 * [2026-06-02, 12:00:03](https://news.ycombinator.com/item?id=48369088) - [Apple rejected my dictation app for using the accessibility API](https://www.mitmllc.com/blog/apple-rejected-my-dictation-app/)

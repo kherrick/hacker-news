@@ -17,6 +17,7 @@
 * [2026-05-31, 18:57:48](https://news.ycombinator.com/item?id=48348578) - [Codex just found a \"workaround\" of not having sudo on my PC](https://twitter.com/i/status/2060746160558543217)
 * [2026-05-31, 18:43:05](https://news.ycombinator.com/item?id=48348429) - [Show HN: Streambed – Stream Postgres to Iceberg on S3, Supports Postgres Wire](https://github.com/viggy28/streambed)
 * [2026-05-31, 18:28:45](https://news.ycombinator.com/item?id=48348286) - [Words of Type](https://wiki.wordsoftype.com/)
+* [2026-05-31, 18:05:37](https://news.ycombinator.com/item?id=48348040) - [CP/M-86 & MS-DOS Cross Development Environment](https://github.com/tsupplis/cpm86-crossdev)
 * [2026-05-31, 17:59:39](https://news.ycombinator.com/item?id=48347977) - [Writing Portable ARM64 Assembly (2023)](https://ariadne.space/2023/04/12/writing-portable-arm-assembly.html)
 * [2026-05-31, 17:58:15](https://news.ycombinator.com/item?id=48347961) - [Re: [PATCH] OOM_pardon, a.k.a. don't kill my xlock](https://lwn.net/Articles/104185/)
 * [2026-05-31, 17:04:10](https://news.ycombinator.com/item?id=48347370) - [Deflock hits 100k ALPRs Mapped in USA](https://deflock.org/)

@@ -15,6 +15,7 @@
 * [2026-06-01, 20:31:24](https://news.ycombinator.com/item?id=48362255) - [Meteor Explodes over Massachusetts](https://www.nbcboston.com/news/local/meteor-explodes-over-massachusetts-what-we-know-and-where-it-landed/3957663/)
 * [2026-06-01, 18:54:55](https://news.ycombinator.com/item?id=48361064) - [GitHub and the crime against software](https://eblog.fly.dev/githubbad.html)
 * [2026-06-01, 18:54:12](https://news.ycombinator.com/item?id=48361054) - [Show HN: Textile – A desktop app for weaving together bits of text](https://www.gettextile.app)
+* [2026-06-01, 18:43:51](https://news.ycombinator.com/item?id=48360929) - [When does fragmentation occur in the CUDA caching allocator?](https://docs.pytorch.org/devlogs/eager/2026-06-01-cuda-caching-allocator/)
 * [2026-06-01, 18:39:53](https://news.ycombinator.com/item?id=48360871) - [GrapheneOS Speech Services version 2 released](https://discuss.grapheneos.org/d/36001-grapheneos-speech-services-version-2-released)
 * [2026-06-01, 17:43:07](https://news.ycombinator.com/item?id=48360137) - [Superintelligence: The Idea That Eats Smart People (2016)](https://idlewords.com/talks/superintelligence.htm)
 * [2026-06-01, 17:37:20](https://news.ycombinator.com/item?id=48360054) - [Should you normalize RGB values by 255 or 256?](https://30fps.net/pages/255-vs-256-division/)
