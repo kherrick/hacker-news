@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-03](index.md)
 
+* [2026-06-03, 21:55:23](https://news.ycombinator.com/item?id=48390688) - [Journey to JPEG XL: open-source experiments shaped the future of image coding](https://opensource.googleblog.com/2026/06/journey-to-jpeg-xl-how-open-source-experiments-shaped-the-future-of-image-coding.html)
+* [2026-06-03, 21:32:10](https://news.ycombinator.com/item?id=48390400) - [A Mathematician's Lament – Paul Lockhart (2002) [pdf]](https://worrydream.com/refs/Lockhart_2002_-_A_Mathematician%27s_Lament.pdf)
 * [2026-06-03, 20:39:34](https://news.ycombinator.com/item?id=48389681) - [Ableton Extensions SDK](https://www.ableton.com/en/live/extensions/)
 * [2026-06-03, 20:32:10](https://news.ycombinator.com/item?id=48389586) - [Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph)](https://github.com/zaydmulani09/mnemo)
 * [2026-06-03, 20:08:33](https://news.ycombinator.com/item?id=48389284) - [A Man Who Reads Books for a Living (One Every Two Days)](https://lithub.com/the-man-who-reads-books-for-a-living-one-every-two-days/)
