@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-06-04, 20:33:02",
+      "https://news.ycombinator.com/item?id=48404233"
+    ],
+    [
+      "NSA using Anthropic's Mythos for cyber attacks",
+      "https://www.ft.com/content/d02d91b3-2636-454e-9442-dc7e69f51815"
+    ]
+  ],
+  [
+    [
+      "2026-06-04, 20:32:18",
+      "https://news.ycombinator.com/item?id=48404224"
+    ],
+    [
+      "Show HN: FFmpeg WebCLI – Full FFmpeg in Browser, Offline PWA, No Uploads(WASM)",
+      "https://github.com/tejaswigowda/ffmpeg-webCLI"
+    ]
+  ],
+  [
+    [
+      "2026-06-04, 20:19:07",
+      "https://news.ycombinator.com/item?id=48404063"
+    ],
+    [
+      "Iran Shock Jolts Asia and Europe to Speed Up Energy Transition",
+      "https://www.bloomberg.com/graphics/2026-energy-transition-iran-war/"
+    ]
+  ],
+  [
+    [
       "2026-06-04, 20:11:20",
       "https://news.ycombinator.com/item?id=48403980"
     ],
@@ -51,16 +81,6 @@
   ],
   [
     [
-      "2026-06-04, 16:25:20",
-      "https://news.ycombinator.com/item?id=48400918"
-    ],
-    [
-      "Sagrada Família Lego set",
-      "https://www.lego.com/en-us/product/sagrada-familia-21065"
-    ]
-  ],
-  [
-    [
       "2026-06-04, 16:20:17",
       "https://news.ycombinator.com/item?id=48400842"
     ],
@@ -101,32 +121,12 @@
   ],
   [
     [
-      "2026-06-04, 14:36:39",
-      "https://news.ycombinator.com/item?id=48399332"
-    ],
-    [
-      "Wind and solar generated more power than gas globally in April 2026",
-      "https://electrek.co/2026/05/20/in-a-first-wind-solar-generated-more-power-than-gas-globally-april-2026/"
-    ]
-  ],
-  [
-    [
       "2026-06-04, 13:00:51",
       "https://news.ycombinator.com/item?id=48398055"
     ],
     [
       "VoidZero Is Joining Cloudflare",
       "https://blog.cloudflare.com/voidzero-joins-cloudflare/"
-    ]
-  ],
-  [
-    [
-      "2026-06-04, 11:39:28",
-      "https://news.ycombinator.com/item?id=48397233"
-    ],
-    [
-      "French-Iranian author Marjane Satrapi, author of 'Persepolis', dies at 56",
-      "https://www.france24.com/en/culture/20260604-french-iranian-author-marjane-satrapi-author-of-persepolis-dies-at-56"
     ]
   ],
   [
@@ -221,12 +221,12 @@
   ],
   [
     [
-      "2026-06-03, 16:04:42",
-      "https://news.ycombinator.com/item?id=48385906"
+      "2026-06-02, 20:00:54",
+      "https://news.ycombinator.com/item?id=48375445"
     ],
     [
-      "Gemma 4 12B: A unified, encoder-free multimodal model",
-      "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/"
+      "Branchless Quicksort faster than std:sort and pdqsort with C and C++ API",
+      "https://tiki.li/blog/blqsort"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2026-06-02, 12:35:20",
+      "https://news.ycombinator.com/item?id=48369416"
+    ],
+    [
+      "Mornings and nights no longer exist at 47C: A day in the hottest place in India",
+      "https://www.bbc.co.uk/news/articles/crmp0krp98ro"
+    ]
+  ],
+  [
+    [
       "2026-06-02, 04:32:19",
       "https://news.ycombinator.com/item?id=48366090"
     ],
@@ -277,16 +287,6 @@
     [
       "Making Debian or Fedora persistent live images",
       "https://sigwait.org/~alex/blog/2026/05/28/smdBC8.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-01, 13:26:01",
-      "https://news.ycombinator.com/item?id=48356563"
-    ],
-    [
-      "Show HN: Prela – Purely Algebraic Relation Combinators",
-      "https://github.com/remysucre/prela"
     ]
   ],
   [
