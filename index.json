@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-06-04, 00:00:04",
+      "https://news.ycombinator.com/item?id=48391838"
+    ],
+    [
+      "The Ü Programming Language",
+      "https://github.com/Panzerschrek/U-00DC-Sprache/"
+    ]
+  ],
+  [
+    [
+      "2026-06-03, 21:55:23",
+      "https://news.ycombinator.com/item?id=48390688"
+    ],
+    [
+      "Journey to JPEG XL: open-source experiments shaped the future of image coding",
+      "https://opensource.googleblog.com/2026/06/journey-to-jpeg-xl-how-open-source-experiments-shaped-the-future-of-image-coding.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-03, 21:32:10",
+      "https://news.ycombinator.com/item?id=48390400"
+    ],
+    [
+      "A Mathematician's Lament – Paul Lockhart (2002) [pdf]",
+      "https://worrydream.com/refs/Lockhart_2002_-_A_Mathematician%27s_Lament.pdf"
+    ]
+  ],
+  [
+    [
       "2026-06-03, 20:39:34",
       "https://news.ycombinator.com/item?id=48389681"
     ],
@@ -71,6 +101,16 @@
   ],
   [
     [
+      "2026-06-03, 17:51:37",
+      "https://news.ycombinator.com/item?id=48387270"
+    ],
+    [
+      "Artificial intelligence is not conscious – Ted Chiang",
+      "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/"
+    ]
+  ],
+  [
+    [
       "2026-06-03, 17:50:16",
       "https://news.ycombinator.com/item?id=48387251"
     ],
@@ -111,42 +151,12 @@
   ],
   [
     [
-      "2026-06-03, 16:51:49",
-      "https://news.ycombinator.com/item?id=48386463"
-    ],
-    [
-      "Angular v22",
-      "https://blog.angular.dev/announcing-angular-v22-c52bb83a4664"
-    ]
-  ],
-  [
-    [
       "2026-06-03, 16:33:17",
       "https://news.ycombinator.com/item?id=48386238"
     ],
     [
       "MacBook Neo is so popular that Apple doubled production",
       "https://www.macrumors.com/2026/06/03/macbook-neo-production-doubled-says-kuo/"
-    ]
-  ],
-  [
-    [
-      "2026-06-03, 16:25:08",
-      "https://news.ycombinator.com/item?id=48386133"
-    ],
-    [
-      "New Texas Instruments 5532 chips are not the 5532s we’ve used for decades",
-      "https://groupdiy.com/threads/the-new-ti-5532-chips-are-not-5532s-weve-used-for-decades.93707/"
-    ]
-  ],
-  [
-    [
-      "2026-06-03, 16:24:46",
-      "https://news.ycombinator.com/item?id=48386129"
-    ],
-    [
-      "Show HN: Nutrepedia – Nutrition info in 29 locales built with Clojure and Htmx",
-      "https://nutrepedia.com/en-us/"
     ]
   ],
   [
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2026-06-03, 10:51:29",
-      "https://news.ycombinator.com/item?id=48382305"
-    ],
-    [
-      "What I've learned about the trombone",
-      "http://bryanhu.com/blog/posts/what-ive-learned-about-the-trombone/"
-    ]
-  ],
-  [
-    [
       "2026-06-03, 10:24:25",
       "https://news.ycombinator.com/item?id=48382142"
     ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2026-06-02, 00:36:03",
-      "https://news.ycombinator.com/item?id=48364379"
+      "2026-06-01, 20:31:24",
+      "https://news.ycombinator.com/item?id=48362255"
     ],
     [
-      "Book Dedications",
-      "https://walzr.com/dedications"
+      "Meteor Explodes over Massachusetts",
+      "https://www.nbcboston.com/news/local/meteor-explodes-over-massachusetts-what-we-know-and-where-it-landed/3957663/"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-05-30, 16:46:38",
-      "https://news.ycombinator.com/item?id=48338215"
+      "2026-05-31, 20:26:43",
+      "https://news.ycombinator.com/item?id=48349404"
     ],
     [
-      "Fluid Simulation for Dummies (2006)",
-      "https://www.mikeash.com/pyblog/fluid-simulation-for-dummies.html"
+      "Patching my guitar amp's firmware",
+      "https://mforney.org/blog/2026-05-28-patching-my-guitar-amps-firmware.html"
     ]
   ]
 ]
