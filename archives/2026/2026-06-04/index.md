@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-06-04](index.md)
 
+* [2026-06-04, 20:33:02](https://news.ycombinator.com/item?id=48404233) - [NSA using Anthropic's Mythos for cyber attacks](https://www.ft.com/content/d02d91b3-2636-454e-9442-dc7e69f51815)
+* [2026-06-04, 20:32:18](https://news.ycombinator.com/item?id=48404224) - [Show HN: FFmpeg WebCLI – Full FFmpeg in Browser, Offline PWA, No Uploads(WASM)](https://github.com/tejaswigowda/ffmpeg-webCLI)
+* [2026-06-04, 20:19:07](https://news.ycombinator.com/item?id=48404063) - [Iran Shock Jolts Asia and Europe to Speed Up Energy Transition](https://www.bloomberg.com/graphics/2026-energy-transition-iran-war/)
 * [2026-06-04, 20:11:20](https://news.ycombinator.com/item?id=48403980) - [Anthropic's open-source framework for AI-powered vulnerability discovery](https://github.com/anthropics/defending-code-reference-harness)
 * [2026-06-04, 19:52:02](https://news.ycombinator.com/item?id=48403753) - [Castor: CERN Advanced STORage Manager](https://castor.web.cern.ch/content/home.html)
 * [2026-06-04, 19:36:48](https://news.ycombinator.com/item?id=48403588) - [Meta's ships facial recognition on smart glasses](https://www.buchodi.com/meta-glasses-facial-recognition/)
