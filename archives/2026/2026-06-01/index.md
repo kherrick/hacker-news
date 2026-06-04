@@ -8,6 +8,7 @@
 * [2026-06-01, 23:25:39](https://news.ycombinator.com/item?id=48363903) - [The Frame Problem (2004)](https://plato.stanford.edu/entries/frame-problem/)
 * [2026-06-01, 23:22:28](https://news.ycombinator.com/item?id=48363882) - [Age verification for social media, the beginning of the end for a free internet?](https://mullvad.net/en/blog/age-verification-for-social-media-the-beginning-of-the-end-for-a-free-internet)
 * [2026-06-01, 23:06:35](https://news.ycombinator.com/item?id=48363765) - [Chipotlai Max](https://github.com/cyberpapiii/chipotlai-max)
+* [2026-06-01, 22:57:06](https://news.ycombinator.com/item?id=48363683) - [My two light switches got stuck in an infinite echo loop](https://docodethatmatters.com/the-infinite-echo-state-mirror-bug/)
 * [2026-06-01, 22:52:19](https://news.ycombinator.com/item?id=48363646) - [Jonathan Franzen on Talent, Theatre, and His Next Novel](https://www.newyorker.com/books/this-week-in-fiction/jonathan-franzen-06-08-26)
 * [2026-06-01, 21:50:02](https://news.ycombinator.com/item?id=48363132) - [OpenAI frontier models and Codex are now available on AWS](https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/)
 * [2026-06-01, 20:55:15](https://news.ycombinator.com/item?id=48362515) - [Alphabet announces $80B equity capital raise to expand AI infra and compute](https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx)
