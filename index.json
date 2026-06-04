@@ -1,32 +1,62 @@
 [
   [
     [
+      "2026-06-04, 12:00:29",
+      "https://news.ycombinator.com/item?id=48397435"
+    ],
+    [
+      "AccessOwl (YC S22) is hiring an AI TypeScript Engineer to connect 300 SaaS tools",
+      "https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus"
+    ]
+  ],
+  [
+    [
+      "2026-06-04, 11:36:00",
+      "https://news.ycombinator.com/item?id=48397199"
+    ],
+    [
+      "When su replaced login for becoming another Unix login",
+      "https://utcc.utoronto.ca/~cks/space/blog/unix/SuAsLoginReplacement"
+    ]
+  ],
+  [
+    [
+      "2026-06-04, 10:48:13",
+      "https://news.ycombinator.com/item?id=48396792"
+    ],
+    [
+      "Gaussian Point Splatting",
+      "https://momentsingraphics.de/Siggraph2026.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-04, 08:56:10",
+      "https://news.ycombinator.com/item?id=48396004"
+    ],
+    [
+      "Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites",
+      "https://uruky.com/?il=en"
+    ]
+  ],
+  [
+    [
+      "2026-06-04, 08:45:36",
+      "https://news.ycombinator.com/item?id=48395938"
+    ],
+    [
+      "UK media fails to disclose defence sector links in nearly 60% of cases",
+      "https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/"
+    ]
+  ],
+  [
+    [
       "2026-06-04, 00:56:32",
       "https://news.ycombinator.com/item?id=48392343"
     ],
     [
       "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
       "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/"
-    ]
-  ],
-  [
-    [
-      "2026-06-04, 00:44:13",
-      "https://news.ycombinator.com/item?id=48392232"
-    ],
-    [
-      "U.S. to dismantle system tracking Atlantic currents that are at risk of collapse",
-      "https://e360.yale.edu/digest/trump-ooi-amoc"
-    ]
-  ],
-  [
-    [
-      "2026-06-04, 00:41:09",
-      "https://news.ycombinator.com/item?id=48392203"
-    ],
-    [
-      "Dumbphone 2",
-      "https://dumb.co/"
     ]
   ],
   [
@@ -61,26 +91,6 @@
   ],
   [
     [
-      "2026-06-03, 21:55:23",
-      "https://news.ycombinator.com/item?id=48390688"
-    ],
-    [
-      "Journey to JPEG XL: open-source experiments shaped the future of image coding",
-      "https://opensource.googleblog.com/2026/06/journey-to-jpeg-xl-how-open-source-experiments-shaped-the-future-of-image-coding.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-03, 21:32:10",
-      "https://news.ycombinator.com/item?id=48390400"
-    ],
-    [
-      "A Mathematician's Lament (2002) [pdf]",
-      "https://worrydream.com/refs/Lockhart_2002_-_A_Mathematician%27s_Lament.pdf"
-    ]
-  ],
-  [
-    [
       "2026-06-03, 20:39:34",
       "https://news.ycombinator.com/item?id=48389681"
     ],
@@ -101,16 +111,6 @@
   ],
   [
     [
-      "2026-06-03, 19:43:37",
-      "https://news.ycombinator.com/item?id=48388909"
-    ],
-    [
-      "Self-hosted dev sandboxes with preview URLs (Docker, Go, no K8s)",
-      "https://github.com/tastyeffectco/sandboxes"
-    ]
-  ],
-  [
-    [
       "2026-06-03, 19:02:26",
       "https://news.ycombinator.com/item?id=48388324"
     ],
@@ -127,16 +127,6 @@
     [
       "Artificial intelligence is not conscious – Ted Chiang",
       "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/"
-    ]
-  ],
-  [
-    [
-      "2026-06-03, 17:39:53",
-      "https://news.ycombinator.com/item?id=48387095"
-    ],
-    [
-      "Launch HN: Hyper (YC P26) – Company brain to power agentic development",
-      "https://news.ycombinator.com/item?id=48387095"
     ]
   ],
   [
@@ -211,16 +201,6 @@
   ],
   [
     [
-      "2026-06-03, 11:04:04",
-      "https://news.ycombinator.com/item?id=48382382"
-    ],
-    [
-      "Every Byte Matters",
-      "https://fzakaria.com/2026/06/01/every-byte-matters"
-    ]
-  ],
-  [
-    [
       "2026-06-03, 10:24:25",
       "https://news.ycombinator.com/item?id=48382142"
     ],
@@ -237,6 +217,26 @@
     [
       "Mathematicians issue warning as AI rapidly gains ground",
       "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground"
+    ]
+  ],
+  [
+    [
+      "2026-06-02, 17:50:00",
+      "https://news.ycombinator.com/item?id=48373642"
+    ],
+    [
+      "U.S. Army Corps of Engineers Bay Model",
+      "https://en.wikipedia.org/wiki/U.S._Army_Corps_of_Engineers_Bay_Model"
+    ]
+  ],
+  [
+    [
+      "2026-06-02, 14:48:44",
+      "https://news.ycombinator.com/item?id=48371008"
+    ],
+    [
+      "thunderbolt-ibverbs: We have InfiniBand at home",
+      "https://blog.hellas.ai/blog/thunderbolt-ibverbs/"
     ]
   ],
   [
@@ -261,22 +261,12 @@
   ],
   [
     [
-      "2026-06-01, 04:12:06",
-      "https://news.ycombinator.com/item?id=48352517"
+      "2026-05-31, 18:54:55",
+      "https://news.ycombinator.com/item?id=48348545"
     ],
     [
-      "The Capacity of HotHands to Facilitate High-Altitude Research (2023) [pdf]",
-      "https://www.colorado.edu/center/spacegrant/sites/default/files/attached-files/B3_RRCC_BringingTheHeatTo100%2C000Feet.pdf"
-    ]
-  ],
-  [
-    [
-      "2026-05-31, 20:26:43",
-      "https://news.ycombinator.com/item?id=48349404"
-    ],
-    [
-      "Patching my guitar amp's firmware",
-      "https://mforney.org/blog/2026-05-28-patching-my-guitar-amps-firmware.html"
+      "Kiki – a tiny homepage construction kit with a small footprint",
+      "https://tomotama.com/kiki"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Learn SQL Once, Use It for 30 Years",
       "https://fagnerbrack.com/learn-sql-once-use-it-for-30-years-9aceb0bdee03"
+    ]
+  ],
+  [
+    [
+      "2026-05-31, 14:12:48",
+      "https://news.ycombinator.com/item?id=48345837"
+    ],
+    [
+      "Claude Code and Codex Can Have Real-Time Conversation via Git",
+      "https://medium.com/@Koukyosyumei/claude-code-and-codex-can-have-real-time-conversation-via-git-f95b696c1c05"
     ]
   ]
 ]
