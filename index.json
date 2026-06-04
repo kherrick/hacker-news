@@ -1,12 +1,42 @@
 [
   [
     [
-      "2026-06-04, 20:33:02",
-      "https://news.ycombinator.com/item?id=48404233"
+      "2026-06-04, 22:06:18",
+      "https://news.ycombinator.com/item?id=48405264"
     ],
     [
-      "NSA using Anthropic's Mythos for cyber attacks",
-      "https://www.ft.com/content/d02d91b3-2636-454e-9442-dc7e69f51815"
+      "Show HN: Formally verified polygon intersection – Opus 4.8 oneshots, prev failed",
+      "https://github.com/schildep/verified-polygon-intersection"
+    ]
+  ],
+  [
+    [
+      "2026-06-04, 21:42:34",
+      "https://news.ycombinator.com/item?id=48405019"
+    ],
+    [
+      "IPv6 zones in URLs are a mistake",
+      "https://xeiaso.net/notes/2026/ipv6-zones-go-url/"
+    ]
+  ],
+  [
+    [
+      "2026-06-04, 21:31:31",
+      "https://news.ycombinator.com/item?id=48404905"
+    ],
+    [
+      "Queen bees emerge from special wax chambers",
+      "https://cen.acs.org/materials/biobased-materials/queen-bees-special-wax/104/web/2026/06"
+    ]
+  ],
+  [
+    [
+      "2026-06-04, 21:15:16",
+      "https://news.ycombinator.com/item?id=48404732"
+    ],
+    [
+      "Show HN: Mercek – A Desktop IDE for AWS ECS",
+      "https://www.mercek.dev/"
     ]
   ],
   [
@@ -61,12 +91,12 @@
   ],
   [
     [
-      "2026-06-04, 17:39:13",
-      "https://news.ycombinator.com/item?id=48401965"
+      "2026-06-04, 17:48:58",
+      "https://news.ycombinator.com/item?id=48402082"
     ],
     [
-      "The desperation of NYTimes",
-      "https://rozumem.xyz/posts/16"
+      "Show HN: Hitoku Draft – Context aware local assistant",
+      "https://hitoku.me/draft/"
     ]
   ],
   [
@@ -121,22 +151,22 @@
   ],
   [
     [
+      "2026-06-04, 13:28:59",
+      "https://news.ycombinator.com/item?id=48398358"
+    ],
+    [
+      "Ask HN: Gin rummy strategies",
+      "https://news.ycombinator.com/item?id=48398358"
+    ]
+  ],
+  [
+    [
       "2026-06-04, 13:00:51",
       "https://news.ycombinator.com/item?id=48398055"
     ],
     [
       "VoidZero Is Joining Cloudflare",
       "https://blog.cloudflare.com/voidzero-joins-cloudflare/"
-    ]
-  ],
-  [
-    [
-      "2026-06-04, 11:30:13",
-      "https://news.ycombinator.com/item?id=48397148"
-    ],
-    [
-      "Show HN: Cost.dev (YC W21) – making agents cost-aware and cheaper to call",
-      "https://cost.dev/"
     ]
   ],
   [
@@ -171,52 +201,12 @@
   ],
   [
     [
-      "2026-06-04, 00:56:32",
-      "https://news.ycombinator.com/item?id=48392343"
+      "2026-06-02, 20:43:39",
+      "https://news.ycombinator.com/item?id=48376008"
     ],
     [
-      "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
-      "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/"
-    ]
-  ],
-  [
-    [
-      "2026-06-04, 00:18:02",
-      "https://news.ycombinator.com/item?id=48392004"
-    ],
-    [
-      "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
-      "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-03, 23:37:18",
-      "https://news.ycombinator.com/item?id=48391611"
-    ],
-    [
-      "They’re made out of weights",
-      "https://maxleiter.com/blog/weights"
-    ]
-  ],
-  [
-    [
-      "2026-06-03, 19:02:26",
-      "https://news.ycombinator.com/item?id=48388324"
-    ],
-    [
-      "Elixir v1.20: Now a gradually typed language",
-      "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/"
-    ]
-  ],
-  [
-    [
-      "2026-06-03, 17:51:37",
-      "https://news.ycombinator.com/item?id=48387270"
-    ],
-    [
-      "Artificial intelligence is not conscious – Ted Chiang",
-      "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/"
+      "I'm skeptical about efforts to revolutionize schooling",
+      "https://www.scotthyoung.com/blog/2026/05/27/revolutionize-schooling/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Samurai City",
       "https://worksinprogress.co/issue/samurai-city/"
+    ]
+  ],
+  [
+    [
+      "2026-06-01, 22:57:06",
+      "https://news.ycombinator.com/item?id=48363683"
+    ],
+    [
+      "My two light switches got stuck in an infinite echo loop",
+      "https://docodethatmatters.com/the-infinite-echo-state-mirror-bug/"
     ]
   ],
   [
