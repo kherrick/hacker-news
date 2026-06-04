@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-06-04, 14:36:39",
+      "https://news.ycombinator.com/item?id=48399332"
+    ],
+    [
+      "In a first, wind and solar generated more power than gas globally in April 2026",
+      "https://electrek.co/2026/05/20/in-a-first-wind-solar-generated-more-power-than-gas-globally-april-2026/"
+    ]
+  ],
+  [
+    [
+      "2026-06-04, 13:00:51",
+      "https://news.ycombinator.com/item?id=48398055"
+    ],
+    [
+      "VoidZero Is Joining Cloudflare",
+      "https://blog.cloudflare.com/voidzero-joins-cloudflare/"
+    ]
+  ],
+  [
+    [
       "2026-06-04, 12:00:29",
       "https://news.ycombinator.com/item?id=48397435"
     ],
     [
       "AccessOwl (YC S22) is hiring an AI TypeScript Engineer to connect 300 SaaS tools",
       "https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus"
+    ]
+  ],
+  [
+    [
+      "2026-06-04, 11:39:28",
+      "https://news.ycombinator.com/item?id=48397233"
+    ],
+    [
+      "French-Iranian author Marjane Satrapi, author of 'Persepolis', dies at 56",
+      "https://www.france24.com/en/culture/20260604-french-iranian-author-marjane-satrapi-author-of-persepolis-dies-at-56"
     ]
   ],
   [
@@ -21,22 +51,22 @@
   ],
   [
     [
+      "2026-06-04, 11:17:34",
+      "https://news.ycombinator.com/item?id=48397028"
+    ],
+    [
+      "Ian's Secure Shoelace Knot",
+      "https://www.fieggen.com/shoelace/secureknot.htm"
+    ]
+  ],
+  [
+    [
       "2026-06-04, 10:48:13",
       "https://news.ycombinator.com/item?id=48396792"
     ],
     [
       "Gaussian Point Splatting",
       "https://momentsingraphics.de/Siggraph2026.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-04, 08:56:10",
-      "https://news.ycombinator.com/item?id=48396004"
-    ],
-    [
-      "Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites",
-      "https://uruky.com/?il=en"
     ]
   ],
   [
@@ -91,16 +121,6 @@
   ],
   [
     [
-      "2026-06-03, 20:39:34",
-      "https://news.ycombinator.com/item?id=48389681"
-    ],
-    [
-      "Ableton Extensions SDK",
-      "https://www.ableton.com/en/live/extensions/"
-    ]
-  ],
-  [
-    [
       "2026-06-03, 20:08:33",
       "https://news.ycombinator.com/item?id=48389284"
     ],
@@ -125,18 +145,8 @@
       "https://news.ycombinator.com/item?id=48387270"
     ],
     [
-      "Artificial intelligence is not conscious – Ted Chiang",
+      "Artificial intelligence is not conscious",
       "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/"
-    ]
-  ],
-  [
-    [
-      "2026-06-03, 17:12:27",
-      "https://news.ycombinator.com/item?id=48386725"
-    ],
-    [
-      "Gooey: A GPU-accelerated UI framework for Zig",
-      "https://github.com/duanebester/gooey"
     ]
   ],
   [
@@ -201,26 +211,6 @@
   ],
   [
     [
-      "2026-06-03, 10:24:25",
-      "https://news.ycombinator.com/item?id=48382142"
-    ],
-    [
-      "PlayStation Architecture",
-      "https://www.copetti.org/writings/consoles/playstation/"
-    ]
-  ],
-  [
-    [
-      "2026-06-03, 10:05:48",
-      "https://news.ycombinator.com/item?id=48382052"
-    ],
-    [
-      "Mathematicians issue warning as AI rapidly gains ground",
-      "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground"
-    ]
-  ],
-  [
-    [
       "2026-06-02, 17:50:00",
       "https://news.ycombinator.com/item?id=48373642"
     ],
@@ -237,6 +227,16 @@
     [
       "thunderbolt-ibverbs: We have InfiniBand at home",
       "https://blog.hellas.ai/blog/thunderbolt-ibverbs/"
+    ]
+  ],
+  [
+    [
+      "2026-06-02, 14:15:15",
+      "https://news.ycombinator.com/item?id=48370558"
+    ],
+    [
+      "3D-printed book turns its own G-code into raised lettering",
+      "https://www.designboom.com/design/3d-printed-book-manual-darius-ou-benson-chong/"
     ]
   ],
   [
@@ -261,22 +261,22 @@
   ],
   [
     [
+      "2026-06-01, 13:26:01",
+      "https://news.ycombinator.com/item?id=48356563"
+    ],
+    [
+      "Show HN: Prela – Purely Algebraic Relation Combinators",
+      "https://github.com/remysucre/prela"
+    ]
+  ],
+  [
+    [
       "2026-05-31, 18:54:55",
       "https://news.ycombinator.com/item?id=48348545"
     ],
     [
       "Kiki – a tiny homepage construction kit with a small footprint",
       "https://tomotama.com/kiki"
-    ]
-  ],
-  [
-    [
-      "2026-05-31, 18:05:37",
-      "https://news.ycombinator.com/item?id=48348040"
-    ],
-    [
-      "CP/M-86 & MS-DOS Cross Development Environment",
-      "https://github.com/tsupplis/cpm86-crossdev"
     ]
   ],
   [
