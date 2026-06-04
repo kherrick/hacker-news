@@ -4,6 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-06-04](index.md)
 
+* [2026-06-04, 17:39:13](https://news.ycombinator.com/item?id=48401965) - [The desperation of NYTimes](https://rozumem.xyz/posts/16)
+* [2026-06-04, 17:00:37](https://news.ycombinator.com/item?id=48401433) - [Zettascale (YC S24) Is Hiring Founding FPGA Engineers](https://www.ycombinator.com/companies/zettascale/jobs/O9S1vqO-founding-engineer-fpga-rtl-asic-architect)
+* [2026-06-04, 16:25:20](https://news.ycombinator.com/item?id=48400918) - [12,060 piece, $799.99, Sagrada Família is the largest Lego building set to date](https://www.lego.com/en-us/product/sagrada-familia-21065)
+* [2026-06-04, 16:20:17](https://news.ycombinator.com/item?id=48400842) - [When AI Builds Itself: Our progress toward recursive self-improvement](https://www.anthropic.com/institute/recursive-self-improvement)
+* [2026-06-04, 16:02:35](https://news.ycombinator.com/item?id=48400588) - [Retro-Tech Parenting](https://havenweb.org/2026/05/28/retro-tech.html)
+* [2026-06-04, 15:37:16](https://news.ycombinator.com/item?id=48400242) - [Several injured in Boeing 787 nose-gear collapse in Frankfurt](https://www.reuters.com/business/aerospace-defense/lufthansa-787-jet-suffers-front-wheel-collapse-frankfurt-gate-2026-06-04/)
+* [2026-06-04, 15:18:00](https://news.ycombinator.com/item?id=48399974) - [KVarN: Native vLLM backend for KV-cache quantization by Huawei](https://github.com/huawei-csl/KVarN)
+* [2026-06-04, 14:38:35](https://news.ycombinator.com/item?id=48399358) - [Show HN: Boxes.dev: ditch localhost; run Claude Code and Codex in the cloud](https://boxes.dev)
 * [2026-06-04, 14:36:39](https://news.ycombinator.com/item?id=48399332) - [In a first, wind and solar generated more power than gas globally in April 2026](https://electrek.co/2026/05/20/in-a-first-wind-solar-generated-more-power-than-gas-globally-april-2026/)
 * [2026-06-04, 13:00:51](https://news.ycombinator.com/item?id=48398055) - [VoidZero Is Joining Cloudflare](https://blog.cloudflare.com/voidzero-joins-cloudflare/)
 * [2026-06-04, 12:00:29](https://news.ycombinator.com/item?id=48397435) - [AccessOwl (YC S22) is hiring an AI TypeScript Engineer to connect 300 SaaS tools](https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus)
