@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-06-04](index.md)
 
+* [2026-06-04, 12:00:29](https://news.ycombinator.com/item?id=48397435) - [AccessOwl (YC S22) is hiring an AI TypeScript Engineer to connect 300 SaaS tools](https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus)
+* [2026-06-04, 11:36:00](https://news.ycombinator.com/item?id=48397199) - [When su replaced login for becoming another Unix login](https://utcc.utoronto.ca/~cks/space/blog/unix/SuAsLoginReplacement)
+* [2026-06-04, 10:48:13](https://news.ycombinator.com/item?id=48396792) - [Gaussian Point Splatting](https://momentsingraphics.de/Siggraph2026.html)
+* [2026-06-04, 08:56:10](https://news.ycombinator.com/item?id=48396004) - [Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites](https://uruky.com/?il=en)
+* [2026-06-04, 08:45:36](https://news.ycombinator.com/item?id=48395938) - [UK media fails to disclose defence sector links in nearly 60% of cases](https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/)
 * [2026-06-04, 00:56:32](https://news.ycombinator.com/item?id=48392343) - [I built a vulnerable app and spent $1,500 seeing if LLMs could hack it](https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/)
 * [2026-06-04, 00:44:13](https://news.ycombinator.com/item?id=48392232) - [U.S. to dismantle system tracking Atlantic currents that are at risk of collapse](https://e360.yale.edu/digest/trump-ooi-amoc)
 * [2026-06-04, 00:41:09](https://news.ycombinator.com/item?id=48392203) - [Dumbphone 2](https://dumb.co/)
