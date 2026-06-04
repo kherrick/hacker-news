@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-06-04, 20:11:20",
+      "https://news.ycombinator.com/item?id=48403980"
+    ],
+    [
+      "Anthropic's open-source framework for AI-powered vulnerability discovery",
+      "https://github.com/anthropics/defending-code-reference-harness"
+    ]
+  ],
+  [
+    [
+      "2026-06-04, 19:52:02",
+      "https://news.ycombinator.com/item?id=48403753"
+    ],
+    [
+      "Castor: CERN Advanced STORage Manager",
+      "https://castor.web.cern.ch/content/home.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-04, 19:36:48",
+      "https://news.ycombinator.com/item?id=48403588"
+    ],
+    [
+      "Meta's ships facial recognition on smart glasses",
+      "https://www.buchodi.com/meta-glasses-facial-recognition/"
+    ]
+  ],
+  [
+    [
       "2026-06-04, 17:39:13",
       "https://news.ycombinator.com/item?id=48401965"
     ],
@@ -25,7 +55,7 @@
       "https://news.ycombinator.com/item?id=48400918"
     ],
     [
-      "12,060 piece, $799.99, Sagrada Família is the largest Lego building set to date",
+      "Sagrada Família Lego set",
       "https://www.lego.com/en-us/product/sagrada-familia-21065"
     ]
   ],
@@ -51,16 +81,6 @@
   ],
   [
     [
-      "2026-06-04, 15:37:16",
-      "https://news.ycombinator.com/item?id=48400242"
-    ],
-    [
-      "Several injured in Boeing 787 nose-gear collapse in Frankfurt",
-      "https://www.reuters.com/business/aerospace-defense/lufthansa-787-jet-suffers-front-wheel-collapse-frankfurt-gate-2026-06-04/"
-    ]
-  ],
-  [
-    [
       "2026-06-04, 15:18:00",
       "https://news.ycombinator.com/item?id=48399974"
     ],
@@ -71,12 +91,12 @@
   ],
   [
     [
-      "2026-06-04, 14:38:35",
-      "https://news.ycombinator.com/item?id=48399358"
+      "2026-06-04, 14:48:44",
+      "https://news.ycombinator.com/item?id=48399528"
     ],
     [
-      "Show HN: Boxes.dev: ditch localhost; run Claude Code and Codex in the cloud",
-      "https://boxes.dev"
+      "AI, Ashby Engineering, and the future",
+      "https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future"
     ]
   ],
   [
@@ -85,7 +105,7 @@
       "https://news.ycombinator.com/item?id=48399332"
     ],
     [
-      "In a first, wind and solar generated more power than gas globally in April 2026",
+      "Wind and solar generated more power than gas globally in April 2026",
       "https://electrek.co/2026/05/20/in-a-first-wind-solar-generated-more-power-than-gas-globally-april-2026/"
     ]
   ],
@@ -111,6 +131,16 @@
   ],
   [
     [
+      "2026-06-04, 11:30:13",
+      "https://news.ycombinator.com/item?id=48397148"
+    ],
+    [
+      "Show HN: Cost.dev (YC W21) – making agents cost-aware and cheaper to call",
+      "https://cost.dev/"
+    ]
+  ],
+  [
+    [
       "2026-06-04, 11:17:34",
       "https://news.ycombinator.com/item?id=48397028"
     ],
@@ -131,12 +161,12 @@
   ],
   [
     [
-      "2026-06-04, 08:45:36",
-      "https://news.ycombinator.com/item?id=48395938"
+      "2026-06-04, 08:56:10",
+      "https://news.ycombinator.com/item?id=48396004"
     ],
     [
-      "UK media fails to disclose defence sector links in nearly 60% of cases",
-      "https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/"
+      "Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites",
+      "https://uruky.com/?il=en"
     ]
   ],
   [
@@ -151,12 +181,12 @@
   ],
   [
     [
-      "2026-06-04, 00:27:52",
-      "https://news.ycombinator.com/item?id=48392082"
+      "2026-06-04, 00:18:02",
+      "https://news.ycombinator.com/item?id=48392004"
     ],
     [
-      "The ways we contain Claude across products",
-      "https://www.anthropic.com/engineering/how-we-contain-claude"
+      "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+      "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html"
     ]
   ],
   [
@@ -201,22 +231,12 @@
   ],
   [
     [
-      "2026-06-03, 14:10:06",
-      "https://news.ycombinator.com/item?id=48384355"
+      "2026-06-02, 19:30:44",
+      "https://news.ycombinator.com/item?id=48375064"
     ],
     [
-      "I was recently diagnosed with anti-NMDA receptor encephalitis",
-      "https://burntsushi.net/encephalitis/"
-    ]
-  ],
-  [
-    [
-      "2026-06-03, 12:25:14",
-      "https://news.ycombinator.com/item?id=48383056"
-    ],
-    [
-      "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
-      "https://simonwillison.net/2026/Jun/3/uber-caps-usage/"
+      "JLink JTAG Access on the Pinecil",
+      "https://danielmangum.com/posts/jlink-jtag-pinecil/"
     ]
   ],
   [
@@ -241,12 +261,12 @@
   ],
   [
     [
-      "2026-06-02, 11:20:10",
-      "https://news.ycombinator.com/item?id=48368725"
+      "2026-06-02, 04:32:19",
+      "https://news.ycombinator.com/item?id=48366090"
     ],
     [
-      "Under Notre Dame, a 'dig of the century' unearths 1,700 years of history",
-      "https://apnews.com/article/notre-dame-dig-treasures-paris-archaeology-roman-dae41f792c1402faf32a87c154cc9a77"
+      "Samurai City",
+      "https://worksinprogress.co/issue/samurai-city/"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2026-06-01, 11:49:02",
-      "https://news.ycombinator.com/item?id=48355607"
-    ],
-    [
-      "Now Is the Best Time to Be a Duct Tape Engineer",
-      "https://derwiki.medium.com/now-is-the-best-time-to-be-a-duct-tape-engineer-eefc1d141c23"
-    ]
-  ],
-  [
-    [
       "2026-06-01, 05:54:27",
       "https://news.ycombinator.com/item?id=48353098"
     ],
     [
       "Sum-product, unit distances, and number fields",
       "https://www.erdosproblems.com/forum/thread/blog:6"
-    ]
-  ],
-  [
-    [
-      "2026-05-31, 17:16:15",
-      "https://news.ycombinator.com/item?id=48347483"
-    ],
-    [
-      "Learn SQL Once, Use It for 30 Years",
-      "https://fagnerbrack.com/learn-sql-once-use-it-for-30-years-9aceb0bdee03"
     ]
   ]
 ]
