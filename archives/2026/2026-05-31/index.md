@@ -20,6 +20,7 @@
 * [2026-05-31, 18:05:37](https://news.ycombinator.com/item?id=48348040) - [CP/M-86 & MS-DOS Cross Development Environment](https://github.com/tsupplis/cpm86-crossdev)
 * [2026-05-31, 17:59:39](https://news.ycombinator.com/item?id=48347977) - [Writing Portable ARM64 Assembly (2023)](https://ariadne.space/2023/04/12/writing-portable-arm-assembly.html)
 * [2026-05-31, 17:58:15](https://news.ycombinator.com/item?id=48347961) - [Re: [PATCH] OOM_pardon, a.k.a. don't kill my xlock](https://lwn.net/Articles/104185/)
+* [2026-05-31, 17:16:15](https://news.ycombinator.com/item?id=48347483) - [Learn SQL Once, Use It for 30 Years](https://fagnerbrack.com/learn-sql-once-use-it-for-30-years-9aceb0bdee03)
 * [2026-05-31, 17:04:10](https://news.ycombinator.com/item?id=48347370) - [Deflock hits 100k ALPRs Mapped in USA](https://deflock.org/)
 * [2026-05-31, 17:02:23](https://news.ycombinator.com/item?id=48347354) - [Meta launches Instagram, Facebook, and WhatsApp subscriptions](https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/)
 * [2026-05-31, 16:37:34](https://news.ycombinator.com/item?id=48347153) - [The Speed of Prototyping in the Age of AI](https://darylcecile.net/notes/speed-of-prototyping-age-of-ai)

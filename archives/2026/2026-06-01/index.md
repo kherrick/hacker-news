@@ -54,5 +54,6 @@
 * [2026-06-01, 05:56:04](https://news.ycombinator.com/item?id=48353112) - [Thomas Mann: Goethe Heartened by Panama (As Suez for English, or Danube-Rhine)](https://yalereview.org/article/thomas-mann-goethe)
 * [2026-06-01, 05:24:40](https://news.ycombinator.com/item?id=48352939) - [Nvidia RTX Spark](https://www.nvidia.com/en-us/products/rtx-spark/)
 * [2026-06-01, 04:32:45](https://news.ycombinator.com/item?id=48352627) - [Surface Laptop Ultra](https://blogs.windows.com/devices/2026/05/31/introducing-surface-laptop-ultra-made-for-world-makers/)
+* [2026-06-01, 04:12:06](https://news.ycombinator.com/item?id=48352517) - [The Capacity of HotHands to Facilitate High-Altitude Research (2023) [pdf]](https://www.colorado.edu/center/spacegrant/sites/default/files/attached-files/B3_RRCC_BringingTheHeatTo100%2C000Feet.pdf)
 * [2026-06-01, 04:08:02](https://news.ycombinator.com/item?id=48352500) - [Rubin Tracks Skyscraper-Size Asteroids and Failed Supernovas](https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/)
 * [2026-06-01, 01:18:16](https://news.ycombinator.com/item?id=48351579) - [Nabokov's pale fire: the lost 'father of all hypertext demos'? (2011)](https://dl.acm.org/doi/pdf/10.1145/1995966.1996008)

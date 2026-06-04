@@ -48,6 +48,7 @@
 * [2026-06-02, 13:15:14](https://news.ycombinator.com/item?id=48369863) - [Expanding Project Glasswing](https://www.anthropic.com/news/expanding-project-glasswing)
 * [2026-06-02, 12:01:04](https://news.ycombinator.com/item?id=48369098) - [Great Question (YC W21) Is Hiring Applied AI Interns](https://www.ycombinator.com/companies/great-question/jobs/J5TNvQH-ai-engineer-intern)
 * [2026-06-02, 12:00:03](https://news.ycombinator.com/item?id=48369088) - [Apple rejected my dictation app for using the accessibility API](https://www.mitmllc.com/blog/apple-rejected-my-dictation-app/)
+* [2026-06-02, 11:20:10](https://news.ycombinator.com/item?id=48368725) - [Under Notre Dame, a 'dig of the century' unearths 1,700 years of history](https://apnews.com/article/notre-dame-dig-treasures-paris-archaeology-roman-dae41f792c1402faf32a87c154cc9a77)
 * [2026-06-02, 10:23:37](https://news.ycombinator.com/item?id=48368291) - [CSS-Native Parallax Effect](https://dan-webnotes.com/posts/2026-06-02-css-native-parallax-effect/)
 * [2026-06-02, 10:09:21](https://news.ycombinator.com/item?id=48368187) - [Michael Burry says neither SpaceX nor Anthropic is worth $1T](https://www.businessinsider.com/big-short-michael-burry-spacex-anthropic-ipo-ai-bubble-claude-2026-6)
 * [2026-06-02, 10:00:56](https://news.ycombinator.com/item?id=48368121) - [Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai](https://blog.adafruit.com/)
