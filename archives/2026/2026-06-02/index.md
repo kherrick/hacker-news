@@ -41,6 +41,7 @@
 * [2026-06-02, 15:29:05](https://news.ycombinator.com/item?id=48371562) - [1-Click GitHub Token Stealing via a VSCode Bug](https://blog.ammaraskar.com/github-token-stealing/)
 * [2026-06-02, 14:48:44](https://news.ycombinator.com/item?id=48371008) - [thunderbolt-ibverbs: We have InfiniBand at home](https://blog.hellas.ai/blog/thunderbolt-ibverbs/)
 * [2026-06-02, 14:16:30](https://news.ycombinator.com/item?id=48370588) - [Preparing for KDE Plasma's Last X11-Supported Release](https://blog.davidedmundson.co.uk/blog/596/)
+* [2026-06-02, 14:15:15](https://news.ycombinator.com/item?id=48370558) - [3D-printed book turns its own G-code into raised lettering](https://www.designboom.com/design/3d-printed-book-manual-darius-ou-benson-chong/)
 * [2026-06-02, 14:06:52](https://news.ycombinator.com/item?id=48370437) - [AI Doesn't Have ROI](https://www.wheresyoured.at/ai-doesnt-have-roi/)
 * [2026-06-02, 13:56:46](https://news.ycombinator.com/item?id=48370330) - [Please don't spam people looking for employment. It's just cruel](https://news.ycombinator.com/item?id=48370330)
 * [2026-06-02, 13:53:52](https://news.ycombinator.com/item?id=48370291) - [Fidonet: Technology, Use, Tools, and History (1993)](https://www.fidonet.org/inet92_Randy_Bush.txt)

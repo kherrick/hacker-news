@@ -39,6 +39,7 @@
 * [2026-06-01, 13:32:44](https://news.ycombinator.com/item?id=48356654) - [Nvidia Cosmos 3](https://developer.nvidia.com/blog/develop-physical-ai-reasoning-world-and-action-models-with-nvidia-cosmos-3/)
 * [2026-06-01, 13:30:21](https://news.ycombinator.com/item?id=48356625) - [Malicious npm packages detected across Red Hat Cloud Services](https://github.com/RedHatInsights/javascript-clients/issues/492)
 * [2026-06-01, 13:28:53](https://news.ycombinator.com/item?id=48356603) - [Windows GOG DOS Games on M-Series Macs](https://f055.net/technology/windows-gog-dos-games-on-m-series-macs/)
+* [2026-06-01, 13:26:01](https://news.ycombinator.com/item?id=48356563) - [Show HN: Prela – Purely Algebraic Relation Combinators](https://github.com/remysucre/prela)
 * [2026-06-01, 13:20:54](https://news.ycombinator.com/item?id=48356490) - [Flipper Zero Zig Template](https://github.com/NishantJoshi00/flipper-template)
 * [2026-06-01, 13:19:01](https://news.ycombinator.com/item?id=48356468) - [Linux Basics for Hackers (2019)](https://github.com/ahegazy0/linux-basics-for-hackers-notes)
 * [2026-06-01, 13:16:51](https://news.ycombinator.com/item?id=48356449) - [Stop Killing Games](https://jxself.org/stop-killing-games.shtml)

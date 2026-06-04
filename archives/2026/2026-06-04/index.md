@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-06-04](index.md)
 
+* [2026-06-04, 14:36:39](https://news.ycombinator.com/item?id=48399332) - [In a first, wind and solar generated more power than gas globally in April 2026](https://electrek.co/2026/05/20/in-a-first-wind-solar-generated-more-power-than-gas-globally-april-2026/)
+* [2026-06-04, 13:00:51](https://news.ycombinator.com/item?id=48398055) - [VoidZero Is Joining Cloudflare](https://blog.cloudflare.com/voidzero-joins-cloudflare/)
 * [2026-06-04, 12:00:29](https://news.ycombinator.com/item?id=48397435) - [AccessOwl (YC S22) is hiring an AI TypeScript Engineer to connect 300 SaaS tools](https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus)
+* [2026-06-04, 11:39:28](https://news.ycombinator.com/item?id=48397233) - [French-Iranian author Marjane Satrapi, author of 'Persepolis', dies at 56](https://www.france24.com/en/culture/20260604-french-iranian-author-marjane-satrapi-author-of-persepolis-dies-at-56)
 * [2026-06-04, 11:36:00](https://news.ycombinator.com/item?id=48397199) - [When su replaced login for becoming another Unix login](https://utcc.utoronto.ca/~cks/space/blog/unix/SuAsLoginReplacement)
+* [2026-06-04, 11:17:34](https://news.ycombinator.com/item?id=48397028) - [Ian's Secure Shoelace Knot](https://www.fieggen.com/shoelace/secureknot.htm)
 * [2026-06-04, 10:48:13](https://news.ycombinator.com/item?id=48396792) - [Gaussian Point Splatting](https://momentsingraphics.de/Siggraph2026.html)
 * [2026-06-04, 08:56:10](https://news.ycombinator.com/item?id=48396004) - [Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites](https://uruky.com/?il=en)
 * [2026-06-04, 08:45:36](https://news.ycombinator.com/item?id=48395938) - [UK media fails to disclose defence sector links in nearly 60% of cases](https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/)
