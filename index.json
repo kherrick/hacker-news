@@ -1,22 +1,92 @@
 [
   [
     [
+      "2026-06-05, 07:40:04",
+      "https://news.ycombinator.com/item?id=48409306"
+    ],
+    [
+      "ESP32 Bit Pirate, a Hardware Hacking Tool with WebCLI That Speaks Every Protocol",
+      "https://github.com/geo-tp/ESP32-Bit-Pirate"
+    ]
+  ],
+  [
+    [
+      "2026-06-05, 07:26:33",
+      "https://news.ycombinator.com/item?id=48409191"
+    ],
+    [
+      "Changing How We Develop Ladybird",
+      "https://ladybird.org/posts/changing-how-we-develop-ladybird/"
+    ]
+  ],
+  [
+    [
+      "2026-06-05, 07:02:14",
+      "https://news.ycombinator.com/item?id=48408995"
+    ],
+    [
+      "There's no escaping it: an exploration of ANSI codes",
+      "https://blog.safia.rocks/2025/12/22/ansi-codes/"
+    ]
+  ],
+  [
+    [
+      "2026-06-05, 05:46:06",
+      "https://news.ycombinator.com/item?id=48408442"
+    ],
+    [
+      "Fine-tuning an LLM to write docs like it's 1995",
+      "https://passo.uno/fine-tuning-docs-llm/"
+    ]
+  ],
+  [
+    [
+      "2026-06-05, 04:44:48",
+      "https://news.ycombinator.com/item?id=48408067"
+    ],
+    [
+      "The IsUpMap lets you check the status of over 100 major sites at once",
+      "https://isupmap.com/"
+    ]
+  ],
+  [
+    [
+      "2026-06-05, 04:37:01",
+      "https://news.ycombinator.com/item?id=48408016"
+    ],
+    [
+      "C++: The Documentary",
+      "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/"
+    ]
+  ],
+  [
+    [
+      "2026-06-05, 04:09:53",
+      "https://news.ycombinator.com/item?id=48407815"
+    ],
+    [
+      "Magenta RealTime 2: Open and Local Live Music Models",
+      "https://magenta.withgoogle.com/magenta-realtime-2"
+    ]
+  ],
+  [
+    [
+      "2026-06-05, 03:40:02",
+      "https://news.ycombinator.com/item?id=48407653"
+    ],
+    [
+      "Linear Cosine Palettes(2025)",
+      "https://blog.djnavarro.net/posts/2025-09-14_cosine-palettes/"
+    ]
+  ],
+  [
+    [
       "2026-06-05, 03:14:28",
       "https://news.ycombinator.com/item?id=48407499"
     ],
     [
       "Azure Linux 4.0 is Microsoft's first general-purpose Linux",
       "https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/"
-    ]
-  ],
-  [
-    [
-      "2026-06-05, 03:04:28",
-      "https://news.ycombinator.com/item?id=48407451"
-    ],
-    [
-      "The Causes of Long Covid",
-      "https://www.science.org/content/blog-post/causes-long-covid"
     ]
   ],
   [
@@ -51,32 +121,12 @@
   ],
   [
     [
-      "2026-06-04, 23:45:56",
-      "https://news.ycombinator.com/item?id=48406198"
-    ],
-    [
-      "South Korean Forums Will Need to Scan Every Images with AI Censorship Tools",
-      "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341"
-    ]
-  ],
-  [
-    [
       "2026-06-04, 23:11:56",
       "https://news.ycombinator.com/item?id=48405931"
     ],
     [
       "Do transformers need three projections? Systematic study of QKV variants",
       "https://arxiv.org/abs/2606.04032"
-    ]
-  ],
-  [
-    [
-      "2026-06-04, 23:01:40",
-      "https://news.ycombinator.com/item?id=48405841"
-    ],
-    [
-      "Latent Agents: A Post-Training Procedure for Internalized Multi-Agent Debate",
-      "https://arxiv.org/abs/2604.24881"
     ]
   ],
   [
@@ -91,32 +141,12 @@
   ],
   [
     [
-      "2026-06-04, 21:42:34",
-      "https://news.ycombinator.com/item?id=48405019"
-    ],
-    [
-      "IPv6 zones in URLs are a mistake",
-      "https://xeiaso.net/notes/2026/ipv6-zones-go-url/"
-    ]
-  ],
-  [
-    [
       "2026-06-04, 21:31:31",
       "https://news.ycombinator.com/item?id=48404905"
     ],
     [
       "Queen bees emerge from special wax chambers",
       "https://cen.acs.org/materials/biobased-materials/queen-bees-special-wax/104/web/2026/06"
-    ]
-  ],
-  [
-    [
-      "2026-06-04, 21:15:16",
-      "https://news.ycombinator.com/item?id=48404732"
-    ],
-    [
-      "Show HN: Mercek – A Desktop IDE for AWS ECS",
-      "https://www.mercek.dev/"
     ]
   ],
   [
@@ -131,22 +161,22 @@
   ],
   [
     [
-      "2026-06-04, 19:52:02",
-      "https://news.ycombinator.com/item?id=48403753"
+      "2026-06-04, 19:21:18",
+      "https://news.ycombinator.com/item?id=48403377"
     ],
     [
-      "Castor: CERN Advanced STORage Manager",
-      "https://castor.web.cern.ch/content/home.html"
+      "WSL 2 is getting faster Windows file system access",
+      "https://www.boxofcables.dev/wsl2-per-device-swiotlb-pools-for-virtiofs-and-virtioproxy/"
     ]
   ],
   [
     [
-      "2026-06-04, 17:00:37",
-      "https://news.ycombinator.com/item?id=48401433"
+      "2026-06-04, 17:51:10",
+      "https://news.ycombinator.com/item?id=48402116"
     ],
     [
-      "Zettascale (YC S24) Is Hiring Founding FPGA Engineers",
-      "https://www.ycombinator.com/companies/zettascale/jobs/O9S1vqO-founding-engineer-fpga-rtl-asic-architect"
+      "Leap in DNA synthesis slashes time to build new genetic sequences",
+      "https://spectrum.ieee.org/faster-dna-synthesis-sidewinder"
     ]
   ],
   [
@@ -191,26 +221,6 @@
   ],
   [
     [
-      "2026-06-04, 10:48:13",
-      "https://news.ycombinator.com/item?id=48396792"
-    ],
-    [
-      "Gaussian Point Splatting",
-      "https://momentsingraphics.de/Siggraph2026.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-03, 23:37:18",
-      "https://news.ycombinator.com/item?id=48391611"
-    ],
-    [
-      "They’re made out of weights",
-      "https://maxleiter.com/blog/weights"
-    ]
-  ],
-  [
-    [
       "2026-06-02, 20:43:39",
       "https://news.ycombinator.com/item?id=48376008"
     ],
@@ -241,22 +251,22 @@
   ],
   [
     [
-      "2026-06-02, 17:50:00",
-      "https://news.ycombinator.com/item?id=48373642"
+      "2026-06-02, 18:18:01",
+      "https://news.ycombinator.com/item?id=48374049"
     ],
     [
-      "U.S. Army Corps of Engineers Bay Model",
-      "https://en.wikipedia.org/wiki/U.S._Army_Corps_of_Engineers_Bay_Model"
+      "Watching a Z80 from an RP2350",
+      "https://emalliab.wordpress.com/2026/05/26/watching-a-z80-from-an-rp2350/"
     ]
   ],
   [
     [
-      "2026-06-02, 17:26:13",
-      "https://news.ycombinator.com/item?id=48373266"
+      "2026-06-02, 14:30:14",
+      "https://news.ycombinator.com/item?id=48370775"
     ],
     [
-      "I made a kernel 2.2x faster. It made my training loop 3x slower",
-      "https://kyrieblunders.bearblog.dev/making-dr-grpo-go-brrr/"
+      "WiFi Time",
+      "https://mitxela.com/projects/wifi_time"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Samurai City",
       "https://worksinprogress.co/issue/samurai-city/"
-    ]
-  ],
-  [
-    [
-      "2026-06-01, 18:02:10",
-      "https://news.ycombinator.com/item?id=48360414"
-    ],
-    [
-      "Making Debian or Fedora persistent live images",
-      "https://sigwait.org/~alex/blog/2026/05/28/smdBC8.html"
     ]
   ],
   [
