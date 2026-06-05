@@ -19,6 +19,7 @@
 * [2026-06-04, 19:52:02](https://news.ycombinator.com/item?id=48403753) - [Castor: CERN Advanced STORage Manager](https://castor.web.cern.ch/content/home.html)
 * [2026-06-04, 19:36:48](https://news.ycombinator.com/item?id=48403588) - [Meta's ships facial recognition on smart glasses](https://www.buchodi.com/meta-glasses-facial-recognition/)
 * [2026-06-04, 19:21:18](https://news.ycombinator.com/item?id=48403377) - [WSL 2 is getting faster Windows file system access](https://www.boxofcables.dev/wsl2-per-device-swiotlb-pools-for-virtiofs-and-virtioproxy/)
+* [2026-06-04, 17:51:10](https://news.ycombinator.com/item?id=48402116) - [Leap in DNA synthesis slashes time to build new genetic sequences](https://spectrum.ieee.org/faster-dna-synthesis-sidewinder)
 * [2026-06-04, 17:48:58](https://news.ycombinator.com/item?id=48402082) - [Show HN: Hitoku Draft – Context aware local assistant](https://hitoku.me/draft/)
 * [2026-06-04, 17:39:13](https://news.ycombinator.com/item?id=48401965) - [The desperation of NYTimes](https://rozumem.xyz/posts/16)
 * [2026-06-04, 17:00:37](https://news.ycombinator.com/item?id=48401433) - [Zettascale (YC S24) Is Hiring Founding FPGA Engineers](https://www.ycombinator.com/companies/zettascale/jobs/O9S1vqO-founding-engineer-fpga-rtl-asic-architect)
