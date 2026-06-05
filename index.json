@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-06-05, 22:12:58",
+      "https://news.ycombinator.com/item?id=48419023"
+    ],
+    [
+      "Microsoft wants users to be addicted to Scout, their AI personal assistant",
+      "https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/"
+    ]
+  ],
+  [
+    [
+      "2026-06-05, 22:02:27",
+      "https://news.ycombinator.com/item?id=48418949"
+    ],
+    [
+      "Boeing 787 Dreamliner Loses Door at Remote Pacific Airport, Puzzling Engineers",
+      "https://aeroxplorer.com/articles/boeing-787-dreamliner-loses-door-at-remote-pacific-airport-puzzling-engineers"
+    ]
+  ],
+  [
+    [
+      "2026-06-05, 21:52:02",
+      "https://news.ycombinator.com/item?id=48418839"
+    ],
+    [
+      "Warren's Abstract Machine: A Tutorial Reconstruction",
+      "https://github.com/a-yiorgos/wambook"
+    ]
+  ],
+  [
+    [
       "2026-06-05, 20:38:40",
       "https://news.ycombinator.com/item?id=48417916"
     ],
@@ -37,6 +67,16 @@
     [
       "Transformers Are Inherently Succinct",
       "https://openreview.net/pdf?id=Yxz92UuPLQ"
+    ]
+  ],
+  [
+    [
+      "2026-06-05, 18:30:31",
+      "https://news.ycombinator.com/item?id=48416392"
+    ],
+    [
+      "Aging and Eye Problems",
+      "https://ldstephens.net/posts/aging-and-eye-problems/"
     ]
   ],
   [
@@ -121,16 +161,6 @@
   ],
   [
     [
-      "2026-06-05, 14:48:44",
-      "https://news.ycombinator.com/item?id=48413295"
-    ],
-    [
-      "Dutch gov't will only allow European company to operate DigiD platform",
-      "https://nltimes.nl/2026/06/05/dutch-govt-will-allow-european-company-operate-digid-platform"
-    ]
-  ],
-  [
-    [
       "2026-06-05, 14:44:44",
       "https://news.ycombinator.com/item?id=48413254"
     ],
@@ -155,7 +185,7 @@
       "https://news.ycombinator.com/item?id=48411799"
     ],
     [
-      "The Empty Field That Wasn't: GPS Broadcasts a Numbers Station",
+      "The Empty Field That Wasn't: GPS, OTAD and Two Decades of Encrypted Broadcasts",
       "https://lsc-pagepro.mydigitalpublication.com/publication/?i=865273&p=62&view=issueViewer"
     ]
   ],
@@ -181,42 +211,12 @@
   ],
   [
     [
-      "2026-06-05, 09:10:42",
-      "https://news.ycombinator.com/item?id=48409955"
-    ],
-    [
-      "Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my LLM tokens",
-      "https://github.com/zdk/lowfat"
-    ]
-  ],
-  [
-    [
-      "2026-06-05, 08:33:37",
-      "https://news.ycombinator.com/item?id=48409675"
-    ],
-    [
-      "Entanglement Builds Space-Time. Now \"Magic\" Gives It Gravity",
-      "https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/"
-    ]
-  ],
-  [
-    [
       "2026-06-05, 08:32:16",
       "https://news.ycombinator.com/item?id=48409664"
     ],
     [
       "Tracing a powerful GNSS interference source over Europe",
       "https://arxiv.org/abs/2606.03673"
-    ]
-  ],
-  [
-    [
-      "2026-06-05, 07:26:33",
-      "https://news.ycombinator.com/item?id=48409191"
-    ],
-    [
-      "Changing how we develop Ladybird",
-      "https://ladybird.org/posts/changing-how-we-develop-ladybird/"
     ]
   ],
   [
