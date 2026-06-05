@@ -1,22 +1,42 @@
 [
   [
     [
-      "2026-06-05, 17:27:39",
-      "https://news.ycombinator.com/item?id=48415633"
+      "2026-06-05, 20:06:36",
+      "https://news.ycombinator.com/item?id=48417490"
     ],
     [
-      "Sakana AI's Recursive Self-Improvement (RSI) Lab",
-      "https://sakana.ai/rsi-lab/"
+      "Google to pay SpaceX $920M a month for compute capacity at xAI data centers",
+      "https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html"
     ]
   ],
   [
     [
-      "2026-06-05, 17:00:06",
-      "https://news.ycombinator.com/item?id=48415279"
+      "2026-06-05, 19:15:36",
+      "https://news.ycombinator.com/item?id=48416936"
     ],
     [
-      "Adyen Selected as Payment Services Provider for GOV.UK Pay",
-      "https://www.adyen.com/press-and-media/adyen-payments-gov-uk"
+      "Accidentally deleted subscriptions for chat integrations (Slack and MS Teams)",
+      "https://www.githubstatus.com/incidents/2nmfnbknhlnv"
+    ]
+  ],
+  [
+    [
+      "2026-06-05, 19:08:12",
+      "https://news.ycombinator.com/item?id=48416845"
+    ],
+    [
+      "Three of our worst VC stories",
+      "https://twitter.com/eastdakota/status/2062860530360959273"
+    ]
+  ],
+  [
+    [
+      "2026-06-05, 18:50:26",
+      "https://news.ycombinator.com/item?id=48416635"
+    ],
+    [
+      "Transformers Are Inherently Succinct",
+      "https://openreview.net/pdf?id=Yxz92UuPLQ"
     ]
   ],
   [
@@ -25,7 +45,7 @@
       "https://news.ycombinator.com/item?id=48415217"
     ],
     [
-      "Gov.uk goes Dutch on payments as it dumps Stripe",
+      "Gov.uk has replaced Stripe with Dutch provider Adyen",
       "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763"
     ]
   ],
@@ -51,22 +71,22 @@
   ],
   [
     [
+      "2026-06-05, 16:32:38",
+      "https://news.ycombinator.com/item?id=48414862"
+    ],
+    [
+      "The company I work for is losing all of its humanity, I don't know where to go",
+      "https://superlemon.bearblog.dev/the-company-i-work-for-is-losing-all-of-its-humanity-but-i-dont-know-where-else-to-go/"
+    ]
+  ],
+  [
+    [
       "2026-06-05, 16:18:48",
       "https://news.ycombinator.com/item?id=48414653"
     ],
     [
       "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
       "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/"
-    ]
-  ],
-  [
-    [
-      "2026-06-05, 16:06:36",
-      "https://news.ycombinator.com/item?id=48414479"
-    ],
-    [
-      "U.S. Military Turned GPS into a Global \"Numbers Station\"",
-      "https://www.404media.co/the-u-s-military-quietly-turned-gps-into-a-global-numbers-station-evidence-suggests/"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "Conventional Commits encourages focus on the wrong things",
       "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/"
-    ]
-  ],
-  [
-    [
-      "2026-06-05, 15:13:54",
-      "https://news.ycombinator.com/item?id=48413629"
-    ],
-    [
-      "Ask HN: What is your (AI) dev tech stack / workflow?",
-      "https://news.ycombinator.com/item?id=48413629"
     ]
   ],
   [
@@ -201,46 +211,6 @@
   ],
   [
     [
-      "2026-06-05, 07:40:04",
-      "https://news.ycombinator.com/item?id=48409306"
-    ],
-    [
-      "ESP32 Bit Pirate, a Hardware Hacking Tool with WebCLI That Speaks Every Protocol",
-      "https://github.com/geo-tp/ESP32-Bit-Pirate"
-    ]
-  ],
-  [
-    [
-      "2026-06-05, 07:26:33",
-      "https://news.ycombinator.com/item?id=48409191"
-    ],
-    [
-      "Changing how we develop Ladybird",
-      "https://ladybird.org/posts/changing-how-we-develop-ladybird/"
-    ]
-  ],
-  [
-    [
-      "2026-06-05, 07:23:44",
-      "https://news.ycombinator.com/item?id=48409173"
-    ],
-    [
-      "Lee Kuan Yew's Singapore Story (2023)",
-      "https://www.historytoday.com/archive/feature/lee-kuan-yews-singapore-story"
-    ]
-  ],
-  [
-    [
-      "2026-06-05, 05:46:06",
-      "https://news.ycombinator.com/item?id=48408442"
-    ],
-    [
-      "Fine-tuning an LLM to write docs like it's 1995",
-      "https://passo.uno/fine-tuning-docs-llm/"
-    ]
-  ],
-  [
-    [
       "2026-06-05, 04:37:01",
       "https://news.ycombinator.com/item?id=48408016"
     ],
@@ -251,22 +221,52 @@
   ],
   [
     [
-      "2026-06-05, 03:14:28",
-      "https://news.ycombinator.com/item?id=48407499"
+      "2026-06-04, 23:42:20",
+      "https://news.ycombinator.com/item?id=48406174"
     ],
     [
-      "Azure Linux 4.0 is Microsoft's first general-purpose Linux",
-      "https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/"
+      "Ask HN: What was your \"oh shit\" moment with GenAI?",
+      "https://news.ycombinator.com/item?id=48406174"
     ]
   ],
   [
     [
-      "2026-06-04, 23:45:56",
-      "https://news.ycombinator.com/item?id=48406198"
+      "2026-06-04, 18:31:55",
+      "https://news.ycombinator.com/item?id=48402744"
     ],
     [
-      "South Korean forums will need to scan every images with AI censorship tools",
-      "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341"
+      "\"Maybe later\" was a feature",
+      "https://arnorhs.dev/posts/2026-06-04/maybe-later-was-a-feature/"
+    ]
+  ],
+  [
+    [
+      "2026-06-04, 16:07:21",
+      "https://news.ycombinator.com/item?id=48400653"
+    ],
+    [
+      "Do the Hardest Thing",
+      "https://justinjackson.ca/hard-thing"
+    ]
+  ],
+  [
+    [
+      "2026-06-04, 14:10:40",
+      "https://news.ycombinator.com/item?id=48398925"
+    ],
+    [
+      "My Agent Skill for Test-Driven Development",
+      "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-04, 13:54:28",
+      "https://news.ycombinator.com/item?id=48398689"
+    ],
+    [
+      "Inside FAISS: Billion-Scale Similarity Search",
+      "https://fremaconsulting.ch/blog/faiss"
     ]
   ],
   [
