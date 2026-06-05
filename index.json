@@ -1,12 +1,92 @@
 [
   [
     [
-      "2026-06-05, 12:16:40",
-      "https://news.ycombinator.com/item?id=48411382"
+      "2026-06-05, 16:06:36",
+      "https://news.ycombinator.com/item?id=48414479"
     ],
     [
-      "Investigation: Russian censorship systems (TMCT) expose Chinese DPI signatures",
-      "https://freenet.monster/china-unicom.html?lang=en"
+      "U.S. Military Turned GPS into a Global \"Numbers Station\"",
+      "https://www.404media.co/the-u-s-military-quietly-turned-gps-into-a-global-numbers-station-evidence-suggests/"
+    ]
+  ],
+  [
+    [
+      "2026-06-05, 15:59:57",
+      "https://news.ycombinator.com/item?id=48414367"
+    ],
+    [
+      "pg_durable: Microsoft open sources in-database durable execution",
+      "https://github.com/microsoft/pg_durable"
+    ]
+  ],
+  [
+    [
+      "2026-06-05, 15:39:38",
+      "https://news.ycombinator.com/item?id=48414027"
+    ],
+    [
+      "Stop Using Conventional Commits",
+      "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/"
+    ]
+  ],
+  [
+    [
+      "2026-06-05, 15:32:58",
+      "https://news.ycombinator.com/item?id=48413924"
+    ],
+    [
+      "Leak Reveals Microsoft Wants Its AI to Be 'Addictive'",
+      "https://kotaku.com/microsoft-ai-scout-addictive-satya-nadella-404-media-copilot-2000702924"
+    ]
+  ],
+  [
+    [
+      "2026-06-05, 15:13:54",
+      "https://news.ycombinator.com/item?id=48413629"
+    ],
+    [
+      "Ask HN: What is your (AI) dev tech stack / workflow? (June 2026)",
+      "https://news.ycombinator.com/item?id=48413629"
+    ]
+  ],
+  [
+    [
+      "2026-06-05, 15:00:31",
+      "https://news.ycombinator.com/item?id=48413464"
+    ],
+    [
+      "Astronauts on ISS told to shelter as repairs under way to fix air leaks",
+      "https://www.bbc.com/news/live/c4g44ew3g1kt"
+    ]
+  ],
+  [
+    [
+      "2026-06-05, 14:48:44",
+      "https://news.ycombinator.com/item?id=48413295"
+    ],
+    [
+      "Dutch gov't will only allow European company to operate DigiD platform",
+      "https://nltimes.nl/2026/06/05/dutch-govt-will-allow-european-company-operate-digid-platform"
+    ]
+  ],
+  [
+    [
+      "2026-06-05, 14:30:50",
+      "https://news.ycombinator.com/item?id=48413072"
+    ],
+    [
+      "I tested every IP KVM in my Homelab",
+      "https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/"
+    ]
+  ],
+  [
+    [
+      "2026-06-05, 12:30:17",
+      "https://news.ycombinator.com/item?id=48411510"
+    ],
+    [
+      "Programmers will document for Claude, but not for each other",
+      "https://blog.plover.com/2026/03/09/#documentation-wins-2"
     ]
   ],
   [
@@ -17,36 +97,6 @@
     [
       "Nango (YC W23, dev infra) is hiring staff back end engineers",
       "https://nango.dev/careers"
-    ]
-  ],
-  [
-    [
-      "2026-06-05, 11:56:27",
-      "https://news.ycombinator.com/item?id=48411190"
-    ],
-    [
-      "Ultra-processed foods in the global food system: The role of tobacco companies",
-      "https://ajph.aphapublications.org/doi/10.2105/AJPH.2026.308501"
-    ]
-  ],
-  [
-    [
-      "2026-06-05, 10:44:48",
-      "https://news.ycombinator.com/item?id=48410602"
-    ],
-    [
-      "Communication on European Tech Sovereignty, and an EU Open-Source Strategy",
-      "https://digital-strategy.ec.europa.eu/en/library/communication-european-tech-sovereignty-accompanied-eu-open-source-strategy"
-    ]
-  ],
-  [
-    [
-      "2026-06-05, 09:10:42",
-      "https://news.ycombinator.com/item?id=48409955"
-    ],
-    [
-      "Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my LLM tokens",
-      "https://github.com/zdk/lowfat"
     ]
   ],
   [
@@ -85,8 +135,18 @@
       "https://news.ycombinator.com/item?id=48409191"
     ],
     [
-      "Changing How We Develop Ladybird",
+      "Changing how we develop Ladybird",
       "https://ladybird.org/posts/changing-how-we-develop-ladybird/"
+    ]
+  ],
+  [
+    [
+      "2026-06-05, 07:23:44",
+      "https://news.ycombinator.com/item?id=48409173"
+    ],
+    [
+      "Lee Kuan Yew's Singapore Story (2023)",
+      "https://www.historytoday.com/archive/feature/lee-kuan-yews-singapore-story"
     ]
   ],
   [
@@ -121,22 +181,12 @@
   ],
   [
     [
-      "2026-06-05, 03:40:02",
-      "https://news.ycombinator.com/item?id=48407653"
+      "2026-06-05, 03:14:28",
+      "https://news.ycombinator.com/item?id=48407499"
     ],
     [
-      "Linear Cosine Palettes(2025)",
-      "https://blog.djnavarro.net/posts/2025-09-14_cosine-palettes/"
-    ]
-  ],
-  [
-    [
-      "2026-06-05, 02:48:44",
-      "https://news.ycombinator.com/item?id=48407368"
-    ],
-    [
-      "Delacroix's Entry of the Crusaders into Constantinople Restored",
-      "https://www.louvre.fr/en/explore/life-at-the-museum/delacroix-s-entry-of-the-crusaders-into-constantinople-restored-to-its-original-glory"
+      "Azure Linux 4.0 is Microsoft's first general-purpose Linux",
+      "https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/"
     ]
   ],
   [
@@ -167,16 +217,6 @@
     [
       "Do transformers need three projections? Systematic study of QKV variants",
       "https://arxiv.org/abs/2606.04032"
-    ]
-  ],
-  [
-    [
-      "2026-06-04, 22:48:19",
-      "https://news.ycombinator.com/item?id=48405718"
-    ],
-    [
-      "SpaceX, Other Mega IPOs Denied Fast Index Entry by S&P",
-      "https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation"
     ]
   ],
   [
@@ -257,46 +297,6 @@
     [
       "I'm skeptical about efforts to revolutionize schooling",
       "https://www.scotthyoung.com/blog/2026/05/27/revolutionize-schooling/"
-    ]
-  ],
-  [
-    [
-      "2026-06-02, 20:00:54",
-      "https://news.ycombinator.com/item?id=48375445"
-    ],
-    [
-      "Branchless Quicksort faster than std:sort and pdqsort with C and C++ API",
-      "https://tiki.li/blog/blqsort"
-    ]
-  ],
-  [
-    [
-      "2026-06-02, 18:18:01",
-      "https://news.ycombinator.com/item?id=48374049"
-    ],
-    [
-      "Watching a Z80 from an RP2350",
-      "https://emalliab.wordpress.com/2026/05/26/watching-a-z80-from-an-rp2350/"
-    ]
-  ],
-  [
-    [
-      "2026-06-02, 12:02:36",
-      "https://news.ycombinator.com/item?id=48369105"
-    ],
-    [
-      "Ohbin – uv wrapper for installing tools from GitHub",
-      "https://github.com/prostomarkeloff/ohbin"
-    ]
-  ],
-  [
-    [
-      "2026-06-01, 08:39:31",
-      "https://news.ycombinator.com/item?id=48354136"
-    ],
-    [
-      "Go Experiments Explained",
-      "https://www.alexedwards.net/blog/go-experiments-explained"
     ]
   ]
 ]
