@@ -4,6 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-06-05](index.md)
 
+* [2026-06-05, 16:06:36](https://news.ycombinator.com/item?id=48414479) - [U.S. Military Turned GPS into a Global \"Numbers Station\"](https://www.404media.co/the-u-s-military-quietly-turned-gps-into-a-global-numbers-station-evidence-suggests/)
+* [2026-06-05, 15:59:57](https://news.ycombinator.com/item?id=48414367) - [pg_durable: Microsoft open sources in-database durable execution](https://github.com/microsoft/pg_durable)
+* [2026-06-05, 15:39:38](https://news.ycombinator.com/item?id=48414027) - [Stop Using Conventional Commits](https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/)
+* [2026-06-05, 15:32:58](https://news.ycombinator.com/item?id=48413924) - [Leak Reveals Microsoft Wants Its AI to Be 'Addictive'](https://kotaku.com/microsoft-ai-scout-addictive-satya-nadella-404-media-copilot-2000702924)
+* [2026-06-05, 15:13:54](https://news.ycombinator.com/item?id=48413629) - [Ask HN: What is your (AI) dev tech stack / workflow? (June 2026)](https://news.ycombinator.com/item?id=48413629)
+* [2026-06-05, 15:00:31](https://news.ycombinator.com/item?id=48413464) - [Astronauts on ISS told to shelter as repairs under way to fix air leaks](https://www.bbc.com/news/live/c4g44ew3g1kt)
+* [2026-06-05, 14:48:44](https://news.ycombinator.com/item?id=48413295) - [Dutch gov't will only allow European company to operate DigiD platform](https://nltimes.nl/2026/06/05/dutch-govt-will-allow-european-company-operate-digid-platform)
+* [2026-06-05, 14:30:50](https://news.ycombinator.com/item?id=48413072) - [I tested every IP KVM in my Homelab](https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/)
+* [2026-06-05, 12:30:17](https://news.ycombinator.com/item?id=48411510) - [Programmers will document for Claude, but not for each other](https://blog.plover.com/2026/03/09/#documentation-wins-2)
 * [2026-06-05, 12:16:40](https://news.ycombinator.com/item?id=48411382) - [Investigation: Russian censorship systems (TMCT) expose Chinese DPI signatures](https://freenet.monster/china-unicom.html?lang=en)
 * [2026-06-05, 12:00:18](https://news.ycombinator.com/item?id=48411227) - [Nango (YC W23, dev infra) is hiring staff back end engineers](https://nango.dev/careers)
 * [2026-06-05, 11:56:27](https://news.ycombinator.com/item?id=48411190) - [Ultra-processed foods in the global food system: The role of tobacco companies](https://ajph.aphapublications.org/doi/10.2105/AJPH.2026.308501)
