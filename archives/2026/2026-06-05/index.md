@@ -4,11 +4,16 @@
 
 ### [Archives](../../index.md) for [2026-06-05](index.md)
 
+* [2026-06-05, 20:06:36](https://news.ycombinator.com/item?id=48417490) - [Google to pay SpaceX $920M a month for compute capacity at xAI data centers](https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html)
+* [2026-06-05, 19:15:36](https://news.ycombinator.com/item?id=48416936) - [Accidentally deleted subscriptions for chat integrations (Slack and MS Teams)](https://www.githubstatus.com/incidents/2nmfnbknhlnv)
+* [2026-06-05, 19:08:12](https://news.ycombinator.com/item?id=48416845) - [Three of our worst VC stories](https://twitter.com/eastdakota/status/2062860530360959273)
+* [2026-06-05, 18:50:26](https://news.ycombinator.com/item?id=48416635) - [Transformers Are Inherently Succinct](https://openreview.net/pdf?id=Yxz92UuPLQ)
 * [2026-06-05, 17:27:39](https://news.ycombinator.com/item?id=48415633) - [Sakana AI's Recursive Self-Improvement (RSI) Lab](https://sakana.ai/rsi-lab/)
 * [2026-06-05, 17:00:06](https://news.ycombinator.com/item?id=48415279) - [Adyen Selected as Payment Services Provider for GOV.UK Pay](https://www.adyen.com/press-and-media/adyen-payments-gov-uk)
 * [2026-06-05, 16:55:30](https://news.ycombinator.com/item?id=48415217) - [Gov.uk goes Dutch on payments as it dumps Stripe](https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763)
 * [2026-06-05, 16:39:57](https://news.ycombinator.com/item?id=48414978) - [Mantine-datatable (and others) compromised – owner account suspended](https://github.com/icflorescu/mantine-datatable/discussions/813)
 * [2026-06-05, 16:33:00](https://news.ycombinator.com/item?id=48414869) - [Launch HN: General Instinct (YC P26) – Frontier models on edge devices](https://news.ycombinator.com/item?id=48414869)
+* [2026-06-05, 16:32:38](https://news.ycombinator.com/item?id=48414862) - [The company I work for is losing all of its humanity, I don't know where to go](https://superlemon.bearblog.dev/the-company-i-work-for-is-losing-all-of-its-humanity-but-i-dont-know-where-else-to-go/)
 * [2026-06-05, 16:18:48](https://news.ycombinator.com/item?id=48414653) - [Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency](https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/)
 * [2026-06-05, 16:06:36](https://news.ycombinator.com/item?id=48414479) - [U.S. Military Turned GPS into a Global \"Numbers Station\"](https://www.404media.co/the-u-s-military-quietly-turned-gps-into-a-global-numbers-station-evidence-suggests/)
 * [2026-06-05, 15:59:57](https://news.ycombinator.com/item?id=48414367) - [pg_durable: Microsoft open sources in-database durable execution](https://github.com/microsoft/pg_durable)
