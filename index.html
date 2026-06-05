@@ -129,6 +129,198 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="48415633">
+          <h3>
+            <a class="item" href="https://sakana.ai/rsi-lab/"
+              >Sakana AI's Recursive Self-Improvement (RSI) Lab</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-06-05 @ 17:27:39</span
+              ><span class="points-container"
+                >Points: <span class="points">25</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48415633"
+                  >Comments</a
+                ><span class="descendants">: 17</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48415279">
+          <h3>
+            <a
+              class="item"
+              href="https://www.adyen.com/press-and-media/adyen-payments-gov-uk"
+              >Adyen Selected as Payment Services Provider for GOV.UK Pay</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-06-05 @ 17:00:06</span
+              ><span class="points-container"
+                >Points: <span class="points">48</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48415279"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48415217">
+          <h3>
+            <a
+              class="item"
+              href="https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763"
+              >Gov.uk goes Dutch on payments as it dumps Stripe</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-06-05 @ 16:55:30</span
+              ><span class="points-container"
+                >Points: <span class="points">175</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48415217"
+                  >Comments</a
+                ><span class="descendants">: 42</span></span
+              >
+            </h4>
+            <div class="text">
+              <a
+                href="https://gds.blog.gov.uk/2026/06/02/building-for-the-future-making-change-simple-on-gov-uk-pay/"
+                >https://gds.blog.gov.uk/2026/06/02/building-for-the-future-m...</a
+              >
+              <p>
+                <a
+                  href="https://www.adyen.com/press-and-media/adyen-payments-gov-uk"
+                  >https://www.adyen.com/press-and-media/adyen-payments-gov-uk</a
+                >
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="48414978">
+          <h3>
+            <a
+              class="item"
+              href="https://github.com/icflorescu/mantine-datatable/discussions/813"
+              >Mantine-datatable (and others) compromised – owner account
+              suspended</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-06-05 @ 16:39:57</span
+              ><span class="points-container"
+                >Points: <span class="points">47</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48414978"
+                  >Comments</a
+                ><span class="descendants">: 14</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48414869">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=48414869"
+              >Launch HN: General Instinct (YC P26) – Frontier models on edge
+              devices</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-06-05 @ 16:33:00</span
+              ><span class="points-container"
+                >Points: <span class="points">32</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48414869"
+                  >Comments</a
+                ><span class="descendants">: 10</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://general-instinct.com/"
+                >https://general-instinct.com/</a
+              >).
+              <p>
+                After years of working in robotics, we kept running into the
+                same problem: the best models never fit the hardware we actually
+                had available.
+              </p>
+              <p>
+                The models that performed best were usually designed around
+                datacenter assumptions: large GPUs, lots of memory bandwidth,
+                and reliable network access. But most physical systems have the
+                opposite constraints.
+              </p>
+              <p>
+                That led us down the path of figuring out how much of a frontier
+                model could be preserved while still making it practical to run
+                on edge hardware.
+              </p>
+              <p>
+                As part of that work, we recently open sourced InstinctRazor (<a
+                  href="https://github.com/General-Instinct/InstinctRazor"
+                  >https://github.com/General-Instinct/InstinctRazor</a
+                >)
+              </p>
+              <p>
+                One result we're excited about is compressing Qwen3.5-122B-A10B,
+                a roughly 245 GB BF16 MoE model, into a 48 GiB GGUF. The
+                resulting model is actually smaller than Gemma-4-26B-A4B while
+                outperforming it on benchmarks like MMLU-Pro and GPQA-D etc. we
+                preserve the parts that are always active (router, norms,
+                Gated-DeltaNet/SSM layers, vision pathway, etc.) and quantize
+                the routed experts much more aggressively. We then use on-policy
+                distillation to recover capability lost during quantization.
+              </p>
+              <p>
+                The model can also run in a "small GPU" configuration where
+                experts are streamed from system RAM. With an 8k context window,
+                peak VRAM usage is around 7.6–8 GB.
+              </p>
+              <p>
+                If you're interested in the technical details, we wrote up the
+                approach here (<a
+                  href="https://general-instinct.com/blog/frontier-moe-sub-4-bit"
+                  >https://general-instinct.com/blog/frontier-moe-sub-4-bit</a
+                >)
+              </p>
+              <p>
+                We're especially interested in hearing from people deploying
+                models onto robots or other edge devices. What models are you
+                trying to run locally today? What has been the biggest
+                bottleneck in getting them into production?
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="48414653">
+          <h3>
+            <a
+              class="item"
+              href="https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/"
+              >Gemma 4 QAT models: Optimizing compression for mobile and laptop
+              efficiency</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-06-05 @ 16:18:48</span
+              ><span class="points-container"
+                >Points: <span class="points">168</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48414653"
+                  >Comments</a
+                ><span class="descendants">: 30</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="48414479">
           <h3>
             <a
@@ -141,11 +333,11 @@
             <h4>
               <span>2026-06-05 @ 16:06:36</span
               ><span class="points-container"
-                >Points: <span class="points">64</span></span
+                >Points: <span class="points">88</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48414479"
                   >Comments</a
-                ><span class="descendants">: 37</span></span
+                ><span class="descendants">: 47</span></span
               >
             </h4>
           </section>
@@ -161,11 +353,11 @@
             <h4>
               <span>2026-06-05 @ 15:59:57</span
               ><span class="points-container"
-                >Points: <span class="points">141</span></span
+                >Points: <span class="points">211</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48414367"
                   >Comments</a
-                ><span class="descendants">: 35</span></span
+                ><span class="descendants">: 44</span></span
               >
             </h4>
           </section>
@@ -175,39 +367,18 @@
             <a
               class="item"
               href="https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/"
-              >Stop Using Conventional Commits</a
+              >Conventional Commits encourages focus on the wrong things</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-06-05 @ 15:39:38</span
               ><span class="points-container"
-                >Points: <span class="points">143</span></span
+                >Points: <span class="points">194</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48414027"
                   >Comments</a
-                ><span class="descendants">: 113</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48413924">
-          <h3>
-            <a
-              class="item"
-              href="https://kotaku.com/microsoft-ai-scout-addictive-satya-nadella-404-media-copilot-2000702924"
-              >Leak Reveals Microsoft Wants Its AI to Be 'Addictive'</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-06-05 @ 15:32:58</span
-              ><span class="points-container"
-                >Points: <span class="points">63</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48413924"
-                  >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 151</span></span
               >
             </h4>
           </section>
@@ -215,19 +386,18 @@
         <section id="48413629">
           <h3>
             <a class="item" href="https://news.ycombinator.com/item?id=48413629"
-              >Ask HN: What is your (AI) dev tech stack / workflow? (June
-              2026)</a
+              >Ask HN: What is your (AI) dev tech stack / workflow?</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-06-05 @ 15:13:54</span
               ><span class="points-container"
-                >Points: <span class="points">80</span></span
+                >Points: <span class="points">99</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48413629"
                   >Comments</a
-                ><span class="descendants">: 64</span></span
+                ><span class="descendants">: 84</span></span
               >
             </h4>
             <div class="text">
@@ -303,22 +473,44 @@
             </div>
           </section>
         </section>
+        <section id="48413500">
+          <h3>
+            <a
+              class="item"
+              href="https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/"
+              >New method turns ocean water into drinking water, without
+              waste</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-06-05 @ 15:04:03</span
+              ><span class="points-container"
+                >Points: <span class="points">110</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48413500"
+                  >Comments</a
+                ><span class="descendants">: 59</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="48413464">
           <h3>
             <a class="item" href="https://www.bbc.com/news/live/c4g44ew3g1kt"
-              >Astronauts on ISS told to shelter as repairs under way to fix air
-              leaks</a
+              >Astronauts told to return to ISS after sheltering over air leak
+              repairs</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-06-05 @ 15:00:31</span
               ><span class="points-container"
-                >Points: <span class="points">231</span></span
+                >Points: <span class="points">293</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48413464"
                   >Comments</a
-                ><span class="descendants">: 154</span></span
+                ><span class="descendants">: 192</span></span
               >
             </h4>
           </section>
@@ -336,13 +528,37 @@
             <h4>
               <span>2026-06-05 @ 14:48:44</span
               ><span class="points-container"
-                >Points: <span class="points">154</span></span
+                >Points: <span class="points">203</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48413295"
                   >Comments</a
-                ><span class="descendants">: 52</span></span
+                ><span class="descendants">: 65</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="48413254">
+          <h3>
+            <a
+              class="item"
+              href="https://www.economist.com/leaders/2026/06/04/indias-surprise-baby-bust-is-a-warning-to-the-world"
+              >India's surprise baby bust</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-06-05 @ 14:44:44</span
+              ><span class="points-container"
+                >Points: <span class="points">67</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48413254"
+                  >Comments</a
+                ><span class="descendants">: 323</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://archive.ph/ZDxIe">https://archive.ph/ZDxIe</a>
+            </div>
           </section>
         </section>
         <section id="48413072">
@@ -357,32 +573,32 @@
             <h4>
               <span>2026-06-05 @ 14:30:50</span
               ><span class="points-container"
-                >Points: <span class="points">131</span></span
+                >Points: <span class="points">175</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48413072"
                   >Comments</a
-                ><span class="descendants">: 40</span></span
+                ><span class="descendants">: 49</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="48411510">
+        <section id="48411635">
           <h3>
             <a
               class="item"
-              href="https://blog.plover.com/2026/03/09/#documentation-wins-2"
-              >Programmers will document for Claude, but not for each other</a
+              href="https://alexispurslane.github.io/rsync-analysis/"
+              >Did Claude increase bugs in rsync?</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-06-05 @ 12:30:17</span
+              <span>2026-06-05 @ 12:43:33</span
               ><span class="points-container"
-                >Points: <span class="points">145</span></span
+                >Points: <span class="points">165</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48411510"
+                ><a href="https://news.ycombinator.com/item?id=48411635"
                   >Comments</a
-                ><span class="descendants">: 136</span></span
+                ><span class="descendants">: 162</span></span
               >
             </h4>
           </section>
@@ -402,6 +618,97 @@
             </h4>
           </section>
         </section>
+        <section id="48409955">
+          <h3>
+            <a class="item" href="https://github.com/zdk/lowfat"
+              >Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my LLM
+              tokens</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-06-05 @ 09:10:42</span
+              ><span class="points-container"
+                >Points: <span class="points">76</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48409955"
+                  >Comments</a
+                ><span class="descendants">: 46</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                The idea is pretty simple: agents don't need the full kubectl
+                get -o yaml or any 10k-line dump to make decisions. So that
+                lowfat sits in between, strips the noise, and passes through
+                what matters. Here's my real report after 2 months of personal
+                use:
+              </p>
+              <p></p>
+              <pre><code>  lowfat history --all
+
+  lowfat plugin candidates
+  ─────────────────────────────────────────────────────────
+
+    #  command                    runs   avg raw      cost   savings  source    status  
+    1  kubectl get                101x     14.4K      1.5M     93.9%  plugin    good    
+    2  grep                       103x     13.5K      1.4M     96.2%  plugin    good    
+    3  git diff                    81x       995     80.6K     57.9%  built-in  good    
+    4  kubectl                     90x       485     43.6K     33.6%  plugin    good    
+    5  docker                     127x      5.5K    693.6K     96.1%  built-in  good    
+    6  ls                         489x       117     57.3K     56.2%  built-in  good    
+    7  find                        30x     16.5K    495.0K     95.5%  plugin    good    
+    8  git show                    63x       490     30.9K     38.0%  built-in  good    
+    9  git                        177x       368     65.2K     76.1%  built-in  good    
+   10  git log                     86x       556     47.8K     78.5%  built-in  good    
+   11  kubectl logs                 5x      3.6K     17.8K     43.0%  plugin    good    
+   12  git status                  86x       152     13.1K     58.0%  built-in  good    
+   13  docker ps                   20x       467      9.3K     52.8%  plugin    good    
+   14  kubectl describe             6x       656      3.9K      1.2%  plugin    weak    
+   15  docker images                9x       940      8.5K     61.8%  built-in  good    
+   16  k get                        2x      2.1K      4.2K     35.9%  plugin    good    
+   17  terraform                   10x       395      3.9K     32.1%  plugin    good    
+   18  git commit                  32x        77      2.5K      0.0%  built-in  weak    
+   19  docker build                 8x       487      3.9K     37.6%  built-in  good    
+   20  docker compose              22x       979     21.5K     89.4%  built-in  good    
+
+  total: 4.4M raw → 4.1M saved (91.8%)
+</code></pre>
+              My toolset above is kind limited, but it works pretty well for my
+              usecase without any interruption Kinda help me not reaching the
+              token limit for my company Bedrock limit usage and keep optimizing
+              the saving on the go for later usage.
+              <p>
+                But, why not alternatives (<a
+                  href="https://github.com/zdk/lowfat#alternatives"
+                  >https://github.com/zdk/lowfat#alternatives</a
+                >) ? The answers are: - My goal is to make the core lightweight
+                but extensible via plugins i.e. not trying to bundle every
+                command in the installed binary so that people own their output
+                filters. - Customizable per usecase via plugin or filter
+                pipelines as I am using my own toolset. - Customizable for
+                non-public CLI tools, for example, some enterprise might have
+                their interal CLI tools that public won't have access. - People
+                should own their data. So the design is local-first, No
+                telemetry forever. - I kinda love UNIX-style composible pipes,
+                so lowfat-filter has implemented this style. - Be able to adjust
+                aggressiveness of the filter, so we can control that we won't
+                strip something the agent needed.
+              </p>
+              <p>
+                GitHub:
+                <a href="https://github.com/zdk/lowfat"
+                  >https://github.com/zdk/lowfat</a
+                >
+              </p>
+              <p>
+                Anyway, if anyone is interested, feedbacks and questions are
+                welcome!
+              </p>
+              <p>Thanks!</p>
+            </div>
+          </section>
+        </section>
         <section id="48409675">
           <h3>
             <a
@@ -414,11 +721,11 @@
             <h4>
               <span>2026-06-05 @ 08:33:37</span
               ><span class="points-container"
-                >Points: <span class="points">131</span></span
+                >Points: <span class="points">153</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48409675"
                   >Comments</a
-                ><span class="descendants">: 134</span></span
+                ><span class="descendants">: 144</span></span
               >
             </h4>
           </section>
@@ -433,11 +740,11 @@
             <h4>
               <span>2026-06-05 @ 08:32:16</span
               ><span class="points-container"
-                >Points: <span class="points">310</span></span
+                >Points: <span class="points">324</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48409664"
                   >Comments</a
-                ><span class="descendants">: 150</span></span
+                ><span class="descendants">: 176</span></span
               >
             </h4>
           </section>
@@ -453,11 +760,11 @@
             <h4>
               <span>2026-06-05 @ 07:40:04</span
               ><span class="points-container"
-                >Points: <span class="points">150</span></span
+                >Points: <span class="points">168</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48409306"
                   >Comments</a
-                ><span class="descendants">: 44</span></span
+                ><span class="descendants">: 43</span></span
               >
             </h4>
           </section>
@@ -474,11 +781,11 @@
             <h4>
               <span>2026-06-05 @ 07:26:33</span
               ><span class="points-container"
-                >Points: <span class="points">724</span></span
+                >Points: <span class="points">755</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48409191"
                   >Comments</a
-                ><span class="descendants">: 476</span></span
+                ><span class="descendants">: 490</span></span
               >
             </h4>
           </section>
@@ -495,11 +802,11 @@
             <h4>
               <span>2026-06-05 @ 07:23:44</span
               ><span class="points-container"
-                >Points: <span class="points">135</span></span
+                >Points: <span class="points">140</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48409173"
                   >Comments</a
-                ><span class="descendants">: 130</span></span
+                ><span class="descendants">: 139</span></span
               >
             </h4>
           </section>
@@ -514,31 +821,11 @@
             <h4>
               <span>2026-06-05 @ 05:46:06</span
               ><span class="points-container"
-                >Points: <span class="points">168</span></span
+                >Points: <span class="points">171</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48408442"
                   >Comments</a
-                ><span class="descendants">: 59</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48408067">
-          <h3>
-            <a class="item" href="https://isupmap.com/"
-              >The IsUpMap lets you check the status of over 100 major sites at
-              once</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-06-05 @ 04:44:48</span
-              ><span class="points-container"
-                >Points: <span class="points">112</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48408067"
-                  >Comments</a
-                ><span class="descendants">: 43</span></span
+                ><span class="descendants">: 64</span></span
               >
             </h4>
           </section>
@@ -555,11 +842,11 @@
             <h4>
               <span>2026-06-05 @ 04:37:01</span
               ><span class="points-container"
-                >Points: <span class="points">318</span></span
+                >Points: <span class="points">335</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48408016"
                   >Comments</a
-                ><span class="descendants">: 230</span></span
+                ><span class="descendants">: 244</span></span
               >
             </h4>
           </section>
@@ -576,119 +863,33 @@
             <h4>
               <span>2026-06-05 @ 03:14:28</span
               ><span class="points-container"
-                >Points: <span class="points">173</span></span
+                >Points: <span class="points">182</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48407499"
                   >Comments</a
-                ><span class="descendants">: 133</span></span
+                ><span class="descendants">: 136</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="48406640">
-          <h3>
-            <a class="item" href="https://fb.watch/HxPu0fSyeH/"
-              >Meta enables ADB on deprecated Portal devices [video]</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-06-05 @ 00:44:38</span
-              ><span class="points-container"
-                >Points: <span class="points">289</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48406640"
-                  >Comments</a
-                ><span class="descendants">: 114</span></span
-              >
-            </h4>
-            <div class="text">
-              <a
-                href="https://developers.meta.com/horizon/blog/build-apps-for-portal-with-ai/"
-                >https://developers.meta.com/horizon/blog/build-apps-for-port...</a
-              >
-            </div>
-          </section>
-        </section>
-        <section id="48406358">
-          <h3>
-            <a class="item" href="https://github.com/alibaba/open-code-review"
-              >Open Code Review – An AI-powered code review CLI tool</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-06-05 @ 00:04:29</span
-              ><span class="points-container"
-                >Points: <span class="points">246</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48406358"
-                  >Comments</a
-                ><span class="descendants">: 67</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48405931">
-          <h3>
-            <a class="item" href="https://arxiv.org/abs/2606.04032"
-              >Do transformers need three projections? Systematic study of QKV
-              variants</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-06-04 @ 23:11:56</span
-              ><span class="points-container"
-                >Points: <span class="points">202</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48405931"
-                  >Comments</a
-                ><span class="descendants">: 43</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48403980">
+        <section id="48406198">
           <h3>
             <a
               class="item"
-              href="https://github.com/anthropics/defending-code-reference-harness"
-              >Anthropic's open-source framework for AI-powered vulnerability
-              discovery</a
+              href="https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341"
+              >South Korean forums will need to scan every images with AI
+              censorship tools</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-06-04 @ 20:11:20</span
+              <span>2026-06-04 @ 23:45:56</span
               ><span class="points-container"
-                >Points: <span class="points">509</span></span
+                >Points: <span class="points">191</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48403980"
+                ><a href="https://news.ycombinator.com/item?id=48406198"
                   >Comments</a
-                ><span class="descendants">: 140</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48402116">
-          <h3>
-            <a
-              class="item"
-              href="https://spectrum.ieee.org/faster-dna-synthesis-sidewinder"
-              >Leap in DNA synthesis slashes time to build new genetic
-              sequences</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-06-04 @ 17:51:10</span
-              ><span class="points-container"
-                >Points: <span class="points">106</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48402116"
-                  >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 126</span></span
               >
             </h4>
           </section>
@@ -703,11 +904,11 @@
             <h4>
               <span>2026-06-03 @ 13:22:06</span
               ><span class="points-container"
-                >Points: <span class="points">308</span></span
+                >Points: <span class="points">362</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48383667"
                   >Comments</a
-                ><span class="descendants">: 153</span></span
+                ><span class="descendants">: 164</span></span
               >
             </h4>
           </section>
@@ -723,11 +924,11 @@
             <h4>
               <span>2026-06-03 @ 10:05:11</span
               ><span class="points-container"
-                >Points: <span class="points">170</span></span
+                >Points: <span class="points">182</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48382047"
                   >Comments</a
-                ><span class="descendants">: 79</span></span
+                ><span class="descendants">: 83</span></span
               >
             </h4>
           </section>
@@ -744,74 +945,11 @@
             <h4>
               <span>2026-06-03 @ 05:15:09</span
               ><span class="points-container"
-                >Points: <span class="points">106</span></span
+                >Points: <span class="points">126</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48380174"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48379232">
-          <h3>
-            <a
-              class="item"
-              href="https://oldster.substack.com/p/at-the-autograph-show"
-              >At the Autograph Show</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-06-03 @ 02:35:42</span
-              ><span class="points-container"
-                >Points: <span class="points">32</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48379232"
-                  >Comments</a
-                ><span class="descendants">: 2</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48377510">
-          <h3>
-            <a
-              class="item"
-              href="https://columnar.tech/blog/introducing-databow//"
-              >databow: a Rust CLI to query any database with an ADBC driver</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-06-02 @ 23:11:13</span
-              ><span class="points-container"
-                >Points: <span class="points">107</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48377510"
-                  >Comments</a
-                ><span class="descendants">: 20</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48376008">
-          <h3>
-            <a
-              class="item"
-              href="https://www.scotthyoung.com/blog/2026/05/27/revolutionize-schooling/"
-              >I'm skeptical about efforts to revolutionize schooling</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-06-02 @ 20:43:39</span
-              ><span class="points-container"
-                >Points: <span class="points">287</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48376008"
-                  >Comments</a
-                ><span class="descendants">: 483</span></span
+                ><span class="descendants">: 29</span></span
               >
             </h4>
           </section>
