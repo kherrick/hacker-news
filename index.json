@@ -1,6 +1,66 @@
 [
   [
     [
+      "2026-06-05, 17:27:39",
+      "https://news.ycombinator.com/item?id=48415633"
+    ],
+    [
+      "Sakana AI's Recursive Self-Improvement (RSI) Lab",
+      "https://sakana.ai/rsi-lab/"
+    ]
+  ],
+  [
+    [
+      "2026-06-05, 17:00:06",
+      "https://news.ycombinator.com/item?id=48415279"
+    ],
+    [
+      "Adyen Selected as Payment Services Provider for GOV.UK Pay",
+      "https://www.adyen.com/press-and-media/adyen-payments-gov-uk"
+    ]
+  ],
+  [
+    [
+      "2026-06-05, 16:55:30",
+      "https://news.ycombinator.com/item?id=48415217"
+    ],
+    [
+      "Gov.uk goes Dutch on payments as it dumps Stripe",
+      "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763"
+    ]
+  ],
+  [
+    [
+      "2026-06-05, 16:39:57",
+      "https://news.ycombinator.com/item?id=48414978"
+    ],
+    [
+      "Mantine-datatable (and others) compromised – owner account suspended",
+      "https://github.com/icflorescu/mantine-datatable/discussions/813"
+    ]
+  ],
+  [
+    [
+      "2026-06-05, 16:33:00",
+      "https://news.ycombinator.com/item?id=48414869"
+    ],
+    [
+      "Launch HN: General Instinct (YC P26) – Frontier models on edge devices",
+      "https://news.ycombinator.com/item?id=48414869"
+    ]
+  ],
+  [
+    [
+      "2026-06-05, 16:18:48",
+      "https://news.ycombinator.com/item?id=48414653"
+    ],
+    [
+      "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
+      "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/"
+    ]
+  ],
+  [
+    [
       "2026-06-05, 16:06:36",
       "https://news.ycombinator.com/item?id=48414479"
     ],
@@ -25,18 +85,8 @@
       "https://news.ycombinator.com/item?id=48414027"
     ],
     [
-      "Stop Using Conventional Commits",
+      "Conventional Commits encourages focus on the wrong things",
       "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/"
-    ]
-  ],
-  [
-    [
-      "2026-06-05, 15:32:58",
-      "https://news.ycombinator.com/item?id=48413924"
-    ],
-    [
-      "Leak Reveals Microsoft Wants Its AI to Be 'Addictive'",
-      "https://kotaku.com/microsoft-ai-scout-addictive-satya-nadella-404-media-copilot-2000702924"
     ]
   ],
   [
@@ -45,8 +95,18 @@
       "https://news.ycombinator.com/item?id=48413629"
     ],
     [
-      "Ask HN: What is your (AI) dev tech stack / workflow? (June 2026)",
+      "Ask HN: What is your (AI) dev tech stack / workflow?",
       "https://news.ycombinator.com/item?id=48413629"
+    ]
+  ],
+  [
+    [
+      "2026-06-05, 15:04:03",
+      "https://news.ycombinator.com/item?id=48413500"
+    ],
+    [
+      "New method turns ocean water into drinking water, without waste",
+      "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/"
     ]
   ],
   [
@@ -55,7 +115,7 @@
       "https://news.ycombinator.com/item?id=48413464"
     ],
     [
-      "Astronauts on ISS told to shelter as repairs under way to fix air leaks",
+      "Astronauts told to return to ISS after sheltering over air leak repairs",
       "https://www.bbc.com/news/live/c4g44ew3g1kt"
     ]
   ],
@@ -71,6 +131,16 @@
   ],
   [
     [
+      "2026-06-05, 14:44:44",
+      "https://news.ycombinator.com/item?id=48413254"
+    ],
+    [
+      "India's surprise baby bust",
+      "https://www.economist.com/leaders/2026/06/04/indias-surprise-baby-bust-is-a-warning-to-the-world"
+    ]
+  ],
+  [
+    [
       "2026-06-05, 14:30:50",
       "https://news.ycombinator.com/item?id=48413072"
     ],
@@ -81,12 +151,12 @@
   ],
   [
     [
-      "2026-06-05, 12:30:17",
-      "https://news.ycombinator.com/item?id=48411510"
+      "2026-06-05, 12:43:33",
+      "https://news.ycombinator.com/item?id=48411635"
     ],
     [
-      "Programmers will document for Claude, but not for each other",
-      "https://blog.plover.com/2026/03/09/#documentation-wins-2"
+      "Did Claude increase bugs in rsync?",
+      "https://alexispurslane.github.io/rsync-analysis/"
     ]
   ],
   [
@@ -97,6 +167,16 @@
     [
       "Nango (YC W23, dev infra) is hiring staff back end engineers",
       "https://nango.dev/careers"
+    ]
+  ],
+  [
+    [
+      "2026-06-05, 09:10:42",
+      "https://news.ycombinator.com/item?id=48409955"
+    ],
+    [
+      "Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my LLM tokens",
+      "https://github.com/zdk/lowfat"
     ]
   ],
   [
@@ -161,16 +241,6 @@
   ],
   [
     [
-      "2026-06-05, 04:44:48",
-      "https://news.ycombinator.com/item?id=48408067"
-    ],
-    [
-      "The IsUpMap lets you check the status of over 100 major sites at once",
-      "https://isupmap.com/"
-    ]
-  ],
-  [
-    [
       "2026-06-05, 04:37:01",
       "https://news.ycombinator.com/item?id=48408016"
     ],
@@ -191,52 +261,12 @@
   ],
   [
     [
-      "2026-06-05, 00:44:38",
-      "https://news.ycombinator.com/item?id=48406640"
+      "2026-06-04, 23:45:56",
+      "https://news.ycombinator.com/item?id=48406198"
     ],
     [
-      "Meta enables ADB on deprecated Portal devices [video]",
-      "https://fb.watch/HxPu0fSyeH/"
-    ]
-  ],
-  [
-    [
-      "2026-06-05, 00:04:29",
-      "https://news.ycombinator.com/item?id=48406358"
-    ],
-    [
-      "Open Code Review – An AI-powered code review CLI tool",
-      "https://github.com/alibaba/open-code-review"
-    ]
-  ],
-  [
-    [
-      "2026-06-04, 23:11:56",
-      "https://news.ycombinator.com/item?id=48405931"
-    ],
-    [
-      "Do transformers need three projections? Systematic study of QKV variants",
-      "https://arxiv.org/abs/2606.04032"
-    ]
-  ],
-  [
-    [
-      "2026-06-04, 20:11:20",
-      "https://news.ycombinator.com/item?id=48403980"
-    ],
-    [
-      "Anthropic's open-source framework for AI-powered vulnerability discovery",
-      "https://github.com/anthropics/defending-code-reference-harness"
-    ]
-  ],
-  [
-    [
-      "2026-06-04, 17:51:10",
-      "https://news.ycombinator.com/item?id=48402116"
-    ],
-    [
-      "Leap in DNA synthesis slashes time to build new genetic sequences",
-      "https://spectrum.ieee.org/faster-dna-synthesis-sidewinder"
+      "South Korean forums will need to scan every images with AI censorship tools",
+      "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341"
     ]
   ],
   [
@@ -267,36 +297,6 @@
     [
       "Cooldown Support for Ruby Bundler",
       "https://blog.rubygems.org/2026/06/03/cooldown-let-new-gems-be-vetted.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-03, 02:35:42",
-      "https://news.ycombinator.com/item?id=48379232"
-    ],
-    [
-      "At the Autograph Show",
-      "https://oldster.substack.com/p/at-the-autograph-show"
-    ]
-  ],
-  [
-    [
-      "2026-06-02, 23:11:13",
-      "https://news.ycombinator.com/item?id=48377510"
-    ],
-    [
-      "databow: a Rust CLI to query any database with an ADBC driver",
-      "https://columnar.tech/blog/introducing-databow//"
-    ]
-  ],
-  [
-    [
-      "2026-06-02, 20:43:39",
-      "https://news.ycombinator.com/item?id=48376008"
-    ],
-    [
-      "I'm skeptical about efforts to revolutionize schooling",
-      "https://www.scotthyoung.com/blog/2026/05/27/revolutionize-schooling/"
     ]
   ]
 ]
