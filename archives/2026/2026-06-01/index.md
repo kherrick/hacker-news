@@ -52,6 +52,7 @@
 * [2026-06-01, 10:33:25](https://news.ycombinator.com/item?id=48354967) - [Nvidia announces new AI chip for personal computers](https://www.bbc.com/news/articles/crmp9mppvzro)
 * [2026-06-01, 09:15:46](https://news.ycombinator.com/item?id=48354414) - [two strangers. one call. no names](https://just2voices.com/)
 * [2026-06-01, 08:52:05](https://news.ycombinator.com/item?id=48354224) - [Cessation of public development of Kefir C compiler](https://kefir.protopopov.lv/posts/announce2.html)
+* [2026-06-01, 08:39:31](https://news.ycombinator.com/item?id=48354136) - [Go Experiments Explained](https://www.alexedwards.net/blog/go-experiments-explained)
 * [2026-06-01, 08:08:36](https://news.ycombinator.com/item?id=48353920) - [Is Python Becoming Pinyin?](https://lernerpython.com/2026/05/19/is-python-becoming-pinyin/)
 * [2026-06-01, 07:35:15](https://news.ycombinator.com/item?id=48353694) - [Blorp Language](https://blorp-lang.org/)
 * [2026-06-01, 06:38:42](https://news.ycombinator.com/item?id=48353348) - [A 10 year old Xeon is all you need](https://point.free/blog/gemma-4-on-a-2016-xeon/)
