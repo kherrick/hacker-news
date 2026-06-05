@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-06-05](index.md)
 
+* [2026-06-05, 10:44:48](https://news.ycombinator.com/item?id=48410602) - [Communication on European Tech Sovereignty, and an EU Open-Source Strategy](https://digital-strategy.ec.europa.eu/en/library/communication-european-tech-sovereignty-accompanied-eu-open-source-strategy)
+* [2026-06-05, 10:43:28](https://news.ycombinator.com/item?id=48410589) - [Ask HN: Is the web for machines (/llm.txt) the one we wished we had as humans?](https://news.ycombinator.com/item?id=48410589)
+* [2026-06-05, 08:33:37](https://news.ycombinator.com/item?id=48409675) - [Entanglement Builds Space-Time. Now \"Magic\" Gives It Gravity](https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/)
+* [2026-06-05, 08:32:16](https://news.ycombinator.com/item?id=48409664) - [Tracing a powerful GNSS interference source over Europe](https://arxiv.org/abs/2606.03673)
 * [2026-06-05, 07:40:04](https://news.ycombinator.com/item?id=48409306) - [ESP32 Bit Pirate, a Hardware Hacking Tool with WebCLI That Speaks Every Protocol](https://github.com/geo-tp/ESP32-Bit-Pirate)
 * [2026-06-05, 07:26:33](https://news.ycombinator.com/item?id=48409191) - [Changing How We Develop Ladybird](https://ladybird.org/posts/changing-how-we-develop-ladybird/)
+* [2026-06-05, 07:23:44](https://news.ycombinator.com/item?id=48409173) - [Lee Kuan Yew's Singapore Story](https://www.historytoday.com/archive/feature/lee-kuan-yews-singapore-story)
 * [2026-06-05, 07:02:14](https://news.ycombinator.com/item?id=48408995) - [There's no escaping it: an exploration of ANSI codes](https://blog.safia.rocks/2025/12/22/ansi-codes/)
 * [2026-06-05, 05:46:06](https://news.ycombinator.com/item?id=48408442) - [Fine-tuning an LLM to write docs like it's 1995](https://passo.uno/fine-tuning-docs-llm/)
 * [2026-06-05, 04:44:48](https://news.ycombinator.com/item?id=48408067) - [The IsUpMap lets you check the status of over 100 major sites at once](https://isupmap.com/)

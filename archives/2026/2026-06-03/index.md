@@ -49,6 +49,7 @@
 * [2026-06-03, 03:47:56](https://news.ycombinator.com/item?id=48379669) - [The Unreasonable Redundancy of Nature's Protein Folds](https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/)
 * [2026-06-03, 03:47:21](https://news.ycombinator.com/item?id=48379664) - [U of T researchers demonstrate AI worm could target any online device](https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device)
 * [2026-06-03, 03:35:54](https://news.ycombinator.com/item?id=48379580) - [External Clock Generation on RTX 50 Series](https://www.xtremesystems.us/post/external-clock-generation-on-rtx-50-series)
+* [2026-06-03, 02:35:42](https://news.ycombinator.com/item?id=48379232) - [At the Autograph Show](https://oldster.substack.com/p/at-the-autograph-show)
 * [2026-06-03, 01:59:46](https://news.ycombinator.com/item?id=48378925) - [Capstone – multi-platform, multi-architecture disassembly framework](https://www.capstone-engine.org/)
 * [2026-06-03, 01:13:38](https://news.ycombinator.com/item?id=48378495) - [Roku LT Operating System open source distribution](https://blog.roku.com/developer/roku-lt-os)
 * [2026-06-03, 00:29:07](https://news.ycombinator.com/item?id=48378099) - [I Don't Want My Search Engine to Think for Me](https://searchzee.com/blog/search-without-ai-summaries)
