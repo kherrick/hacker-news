@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-04](index.md)
 
+* [2026-06-04, 23:11:56](https://news.ycombinator.com/item?id=48405931) - [Do transformers need three projections? Systematic study of QKV variants](https://arxiv.org/abs/2606.04032)
+* [2026-06-04, 23:01:40](https://news.ycombinator.com/item?id=48405841) - [Latent Agents: A Post-Training Procedure for Internalized Multi-Agent Debate](https://arxiv.org/abs/2604.24881)
 * [2026-06-04, 22:06:18](https://news.ycombinator.com/item?id=48405264) - [Show HN: Formally verified polygon intersection – Opus 4.8 oneshots, prev failed](https://github.com/schildep/verified-polygon-intersection)
 * [2026-06-04, 21:42:34](https://news.ycombinator.com/item?id=48405019) - [IPv6 zones in URLs are a mistake](https://xeiaso.net/notes/2026/ipv6-zones-go-url/)
 * [2026-06-04, 21:31:31](https://news.ycombinator.com/item?id=48404905) - [Queen bees emerge from special wax chambers](https://cen.acs.org/materials/biobased-materials/queen-bees-special-wax/104/web/2026/06)
@@ -14,6 +16,7 @@
 * [2026-06-04, 20:11:20](https://news.ycombinator.com/item?id=48403980) - [Anthropic's open-source framework for AI-powered vulnerability discovery](https://github.com/anthropics/defending-code-reference-harness)
 * [2026-06-04, 19:52:02](https://news.ycombinator.com/item?id=48403753) - [Castor: CERN Advanced STORage Manager](https://castor.web.cern.ch/content/home.html)
 * [2026-06-04, 19:36:48](https://news.ycombinator.com/item?id=48403588) - [Meta's ships facial recognition on smart glasses](https://www.buchodi.com/meta-glasses-facial-recognition/)
+* [2026-06-04, 19:21:18](https://news.ycombinator.com/item?id=48403377) - [WSL 2 is getting faster Windows file system access](https://www.boxofcables.dev/wsl2-per-device-swiotlb-pools-for-virtiofs-and-virtioproxy/)
 * [2026-06-04, 17:48:58](https://news.ycombinator.com/item?id=48402082) - [Show HN: Hitoku Draft – Context aware local assistant](https://hitoku.me/draft/)
 * [2026-06-04, 17:39:13](https://news.ycombinator.com/item?id=48401965) - [The desperation of NYTimes](https://rozumem.xyz/posts/16)
 * [2026-06-04, 17:00:37](https://news.ycombinator.com/item?id=48401433) - [Zettascale (YC S24) Is Hiring Founding FPGA Engineers](https://www.ycombinator.com/companies/zettascale/jobs/O9S1vqO-founding-engineer-fpga-rtl-asic-architect)
@@ -27,6 +30,7 @@
 * [2026-06-04, 14:36:39](https://news.ycombinator.com/item?id=48399332) - [In a first, wind and solar generated more power than gas globally in April 2026](https://electrek.co/2026/05/20/in-a-first-wind-solar-generated-more-power-than-gas-globally-april-2026/)
 * [2026-06-04, 13:28:59](https://news.ycombinator.com/item?id=48398358) - [Ask HN: Gin rummy strategies](https://news.ycombinator.com/item?id=48398358)
 * [2026-06-04, 13:00:51](https://news.ycombinator.com/item?id=48398055) - [VoidZero Is Joining Cloudflare](https://blog.cloudflare.com/voidzero-joins-cloudflare/)
+* [2026-06-04, 12:32:40](https://news.ycombinator.com/item?id=48397731) - [Ask HN: So what happened to Facebook \"localhost\" tracking?](https://news.ycombinator.com/item?id=48397731)
 * [2026-06-04, 12:00:29](https://news.ycombinator.com/item?id=48397435) - [AccessOwl (YC S22) is hiring an AI TypeScript Engineer to connect 300 SaaS tools](https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus)
 * [2026-06-04, 11:39:28](https://news.ycombinator.com/item?id=48397233) - [French-Iranian author Marjane Satrapi, author of 'Persepolis', dies at 56](https://www.france24.com/en/culture/20260604-french-iranian-author-marjane-satrapi-author-of-persepolis-dies-at-56)
 * [2026-06-04, 11:36:00](https://news.ycombinator.com/item?id=48397199) - [When su replaced login for becoming another Unix login](https://utcc.utoronto.ca/~cks/space/blog/unix/SuAsLoginReplacement)
