@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-05](index.md)
 
+* [2026-06-05, 20:38:40](https://news.ycombinator.com/item?id=48417916) - [Hacker News, Sans AI](https://elijahpotter.dev/articles/hacker-news-sans-AI)
 * [2026-06-05, 20:06:36](https://news.ycombinator.com/item?id=48417490) - [Google to pay SpaceX $920M a month for compute capacity at xAI data centers](https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html)
 * [2026-06-05, 19:15:36](https://news.ycombinator.com/item?id=48416936) - [Accidentally deleted subscriptions for chat integrations (Slack and MS Teams)](https://www.githubstatus.com/incidents/2nmfnbknhlnv)
 * [2026-06-05, 19:08:12](https://news.ycombinator.com/item?id=48416845) - [Three of our worst VC stories](https://twitter.com/eastdakota/status/2062860530360959273)
@@ -25,6 +26,7 @@
 * [2026-06-05, 14:48:44](https://news.ycombinator.com/item?id=48413295) - [Dutch gov't will only allow European company to operate DigiD platform](https://nltimes.nl/2026/06/05/dutch-govt-will-allow-european-company-operate-digid-platform)
 * [2026-06-05, 14:44:44](https://news.ycombinator.com/item?id=48413254) - [India's surprise baby bust](https://www.economist.com/leaders/2026/06/04/indias-surprise-baby-bust-is-a-warning-to-the-world)
 * [2026-06-05, 14:30:50](https://news.ycombinator.com/item?id=48413072) - [I tested every IP KVM in my Homelab](https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/)
+* [2026-06-05, 12:56:44](https://news.ycombinator.com/item?id=48411799) - [The Empty Field That Wasn't: GPS Broadcasts a Numbers Station](https://lsc-pagepro.mydigitalpublication.com/publication/?i=865273&p=62&view=issueViewer)
 * [2026-06-05, 12:43:33](https://news.ycombinator.com/item?id=48411635) - [Did Claude increase bugs in rsync?](https://alexispurslane.github.io/rsync-analysis/)
 * [2026-06-05, 12:30:17](https://news.ycombinator.com/item?id=48411510) - [Programmers will document for Claude, but not for each other](https://blog.plover.com/2026/03/09/#documentation-wins-2)
 * [2026-06-05, 12:16:40](https://news.ycombinator.com/item?id=48411382) - [Investigation: Russian censorship systems (TMCT) expose Chinese DPI signatures](https://freenet.monster/china-unicom.html?lang=en)
