@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-06-04, 22:06:18",
-      "https://news.ycombinator.com/item?id=48405264"
+      "2026-06-04, 23:11:56",
+      "https://news.ycombinator.com/item?id=48405931"
     ],
     [
-      "Show HN: Formally verified polygon intersection – Opus 4.8 oneshots, prev failed",
-      "https://github.com/schildep/verified-polygon-intersection"
+      "Do transformers need three projections? Systematic study of QKV variants",
+      "https://arxiv.org/abs/2606.04032"
+    ]
+  ],
+  [
+    [
+      "2026-06-04, 23:01:40",
+      "https://news.ycombinator.com/item?id=48405841"
+    ],
+    [
+      "Latent Agents: A Post-Training Procedure for Internalized Multi-Agent Debate",
+      "https://arxiv.org/abs/2604.24881"
     ]
   ],
   [
@@ -51,16 +61,6 @@
   ],
   [
     [
-      "2026-06-04, 20:19:07",
-      "https://news.ycombinator.com/item?id=48404063"
-    ],
-    [
-      "Iran Shock Jolts Asia and Europe to Speed Up Energy Transition",
-      "https://www.bloomberg.com/graphics/2026-energy-transition-iran-war/"
-    ]
-  ],
-  [
-    [
       "2026-06-04, 20:11:20",
       "https://news.ycombinator.com/item?id=48403980"
     ],
@@ -87,6 +87,16 @@
     [
       "Meta's ships facial recognition on smart glasses",
       "https://www.buchodi.com/meta-glasses-facial-recognition/"
+    ]
+  ],
+  [
+    [
+      "2026-06-04, 19:21:18",
+      "https://news.ycombinator.com/item?id=48403377"
+    ],
+    [
+      "WSL 2 is getting faster Windows file system access",
+      "https://www.boxofcables.dev/wsl2-per-device-swiotlb-pools-for-virtiofs-and-virtioproxy/"
     ]
   ],
   [
@@ -151,22 +161,22 @@
   ],
   [
     [
-      "2026-06-04, 13:28:59",
-      "https://news.ycombinator.com/item?id=48398358"
-    ],
-    [
-      "Ask HN: Gin rummy strategies",
-      "https://news.ycombinator.com/item?id=48398358"
-    ]
-  ],
-  [
-    [
       "2026-06-04, 13:00:51",
       "https://news.ycombinator.com/item?id=48398055"
     ],
     [
       "VoidZero Is Joining Cloudflare",
       "https://blog.cloudflare.com/voidzero-joins-cloudflare/"
+    ]
+  ],
+  [
+    [
+      "2026-06-04, 12:32:40",
+      "https://news.ycombinator.com/item?id=48397731"
+    ],
+    [
+      "Ask HN: So what happened to Facebook \"localhost\" tracking?",
+      "https://news.ycombinator.com/item?id=48397731"
     ]
   ],
   [
@@ -201,12 +211,12 @@
   ],
   [
     [
-      "2026-06-02, 20:43:39",
-      "https://news.ycombinator.com/item?id=48376008"
+      "2026-06-03, 03:35:54",
+      "https://news.ycombinator.com/item?id=48379580"
     ],
     [
-      "I'm skeptical about efforts to revolutionize schooling",
-      "https://www.scotthyoung.com/blog/2026/05/27/revolutionize-schooling/"
+      "External Clock Generation on RTX 50 Series",
+      "https://www.xtremesystems.us/post/external-clock-generation-on-rtx-50-series"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Samurai City",
       "https://worksinprogress.co/issue/samurai-city/"
-    ]
-  ],
-  [
-    [
-      "2026-06-01, 22:57:06",
-      "https://news.ycombinator.com/item?id=48363683"
-    ],
-    [
-      "My two light switches got stuck in an infinite echo loop",
-      "https://docodethatmatters.com/the-infinite-echo-state-mirror-bug/"
     ]
   ],
   [
