@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-06-05, 12:16:40",
+      "https://news.ycombinator.com/item?id=48411382"
+    ],
+    [
+      "Investigation: Russian censorship systems (TMCT) expose Chinese DPI signatures",
+      "https://freenet.monster/china-unicom.html?lang=en"
+    ]
+  ],
+  [
+    [
+      "2026-06-05, 12:00:18",
+      "https://news.ycombinator.com/item?id=48411227"
+    ],
+    [
+      "Nango (YC W23, dev infra) is hiring staff back end engineers",
+      "https://nango.dev/careers"
+    ]
+  ],
+  [
+    [
+      "2026-06-05, 11:56:27",
+      "https://news.ycombinator.com/item?id=48411190"
+    ],
+    [
+      "Ultra-processed foods in the global food system: The role of tobacco companies",
+      "https://ajph.aphapublications.org/doi/10.2105/AJPH.2026.308501"
+    ]
+  ],
+  [
+    [
       "2026-06-05, 10:44:48",
       "https://news.ycombinator.com/item?id=48410602"
     ],
@@ -11,12 +41,12 @@
   ],
   [
     [
-      "2026-06-05, 10:43:28",
-      "https://news.ycombinator.com/item?id=48410589"
+      "2026-06-05, 09:10:42",
+      "https://news.ycombinator.com/item?id=48409955"
     ],
     [
-      "Ask HN: Is the web for machines (/llm.txt) the one we wished we had as humans?",
-      "https://news.ycombinator.com/item?id=48410589"
+      "Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my LLM tokens",
+      "https://github.com/zdk/lowfat"
     ]
   ],
   [
@@ -61,26 +91,6 @@
   ],
   [
     [
-      "2026-06-05, 07:23:44",
-      "https://news.ycombinator.com/item?id=48409173"
-    ],
-    [
-      "Lee Kuan Yew's Singapore Story",
-      "https://www.historytoday.com/archive/feature/lee-kuan-yews-singapore-story"
-    ]
-  ],
-  [
-    [
-      "2026-06-05, 07:02:14",
-      "https://news.ycombinator.com/item?id=48408995"
-    ],
-    [
-      "There's no escaping it: an exploration of ANSI codes",
-      "https://blog.safia.rocks/2025/12/22/ansi-codes/"
-    ]
-  ],
-  [
-    [
       "2026-06-05, 05:46:06",
       "https://news.ycombinator.com/item?id=48408442"
     ],
@@ -107,16 +117,6 @@
     [
       "C++: The Documentary",
       "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/"
-    ]
-  ],
-  [
-    [
-      "2026-06-05, 04:09:53",
-      "https://news.ycombinator.com/item?id=48407815"
-    ],
-    [
-      "Magenta RealTime 2: Open and Local Live Music Models",
-      "https://magenta.withgoogle.com/magenta-realtime-2"
     ]
   ],
   [
@@ -201,12 +201,32 @@
   ],
   [
     [
-      "2026-06-04, 16:02:35",
-      "https://news.ycombinator.com/item?id=48400588"
+      "2026-06-03, 13:22:06",
+      "https://news.ycombinator.com/item?id=48383667"
     ],
     [
-      "Retro-Tech Parenting",
-      "https://havenweb.org/2026/05/28/retro-tech.html"
+      "Mouseless – keyboard-driven control of macOS/Linux/Windows",
+      "https://mouseless.click"
+    ]
+  ],
+  [
+    [
+      "2026-06-03, 10:05:11",
+      "https://news.ycombinator.com/item?id=48382047"
+    ],
+    [
+      "Redis 8.8: New array data structure, rate limiter, performance improvements",
+      "https://redis.io/blog/announcing-redis-8-8/"
+    ]
+  ],
+  [
+    [
+      "2026-06-03, 05:15:09",
+      "https://news.ycombinator.com/item?id=48380174"
+    ],
+    [
+      "Cooldown Support for Ruby Bundler",
+      "https://blog.rubygems.org/2026/06/03/cooldown-let-new-gems-be-vetted.html"
     ]
   ],
   [
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2026-06-02, 14:30:14",
-      "https://news.ycombinator.com/item?id=48370775"
-    ],
-    [
-      "WiFi Time",
-      "https://mitxela.com/projects/wifi_time"
-    ]
-  ],
-  [
-    [
       "2026-06-02, 12:02:36",
       "https://news.ycombinator.com/item?id=48369105"
     ],
     [
       "Ohbin – uv wrapper for installing tools from GitHub",
       "https://github.com/prostomarkeloff/ohbin"
-    ]
-  ],
-  [
-    [
-      "2026-06-02, 04:32:19",
-      "https://news.ycombinator.com/item?id=48366090"
-    ],
-    [
-      "Samurai City",
-      "https://worksinprogress.co/issue/samurai-city/"
     ]
   ],
   [
