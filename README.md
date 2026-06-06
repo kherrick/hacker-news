@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-06-05, 22:12:58](https://news.ycombinator.com/item?id=48419023) - [Microsoft wants users to be addicted to Scout, their AI personal assistant](https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/)
-* [2026-06-05, 22:02:27](https://news.ycombinator.com/item?id=48418949) - [Boeing 787 Dreamliner Loses Door at Remote Pacific Airport, Puzzling Engineers](https://aeroxplorer.com/articles/boeing-787-dreamliner-loses-door-at-remote-pacific-airport-puzzling-engineers)
 * [2026-06-05, 21:52:02](https://news.ycombinator.com/item?id=48418839) - [Warren's Abstract Machine: A Tutorial Reconstruction](https://github.com/a-yiorgos/wambook)
 * [2026-06-05, 20:38:40](https://news.ycombinator.com/item?id=48417916) - [Hacker News, Sans AI](https://elijahpotter.dev/articles/hacker-news-sans-AI)
 * [2026-06-05, 19:15:36](https://news.ycombinator.com/item?id=48416936) - [Accidentally deleted subscriptions for chat integrations (Slack and MS Teams)](https://www.githubstatus.com/incidents/2nmfnbknhlnv)
@@ -21,6 +20,7 @@
 * [2026-06-05, 12:56:44](https://news.ycombinator.com/item?id=48411799) - [The Empty Field That Wasn't: GPS, OTAD and Two Decades of Encrypted Broadcasts](https://lsc-pagepro.mydigitalpublication.com/publication/?i=865273&p=62&view=issueViewer)
 * [2026-06-05, 12:43:33](https://news.ycombinator.com/item?id=48411635) - [Did Claude increase bugs in rsync?](https://alexispurslane.github.io/rsync-analysis/)
 * [2026-06-05, 12:00:18](https://news.ycombinator.com/item?id=48411227) - [Nango (YC W23, dev infra) is hiring staff back end engineers](https://nango.dev/careers)
+* [2026-06-05, 09:10:42](https://news.ycombinator.com/item?id=48409955) - [Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my LLM tokens](https://github.com/zdk/lowfat)
 * [2026-06-05, 08:32:16](https://news.ycombinator.com/item?id=48409664) - [Tracing a powerful GNSS interference source over Europe](https://arxiv.org/abs/2606.03673)
 * [2026-06-05, 04:37:01](https://news.ycombinator.com/item?id=48408016) - [C++: The Documentary](https://herbsutter.com/2026/06/04/c-the-documentary-released-today/)
 * [2026-06-04, 23:42:20](https://news.ycombinator.com/item?id=48406174) - [Ask HN: What was your \"oh shit\" moment with GenAI?](https://news.ycombinator.com/item?id=48406174)
