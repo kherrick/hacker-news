@@ -44,6 +44,7 @@
 * [2026-06-02, 16:40:16](https://news.ycombinator.com/item?id=48372628) - [Trump signs downsized AI order after weeks of reversals](https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389)
 * [2026-06-02, 16:35:20](https://news.ycombinator.com/item?id=48372547) - [Rethinking Search as Code Generation](https://research.perplexity.ai/articles/rethinking-search-as-code-generation)
 * [2026-06-02, 16:13:41](https://news.ycombinator.com/item?id=48372239) - [How we index images for RAG](https://www.kapa.ai/blog/how-we-index-images-for-rag)
+* [2026-06-02, 16:08:26](https://news.ycombinator.com/item?id=48372138) - [Show HN: Infinite canvas notes in the non-Euclidean Poincaré disk](https://uonr.github.io/poincake/)
 * [2026-06-02, 16:02:47](https://news.ycombinator.com/item?id=48372036) - [Show HN: Live breath detection and biofeedback from a phone microphone](https://github.com/shiihaa-app/shiihaa-breath-detection)
 * [2026-06-02, 15:29:05](https://news.ycombinator.com/item?id=48371562) - [1-Click GitHub Token Stealing via a VSCode Bug](https://blog.ammaraskar.com/github-token-stealing/)
 * [2026-06-02, 14:48:44](https://news.ycombinator.com/item?id=48371008) - [thunderbolt-ibverbs: We have InfiniBand at home](https://blog.hellas.ai/blog/thunderbolt-ibverbs/)

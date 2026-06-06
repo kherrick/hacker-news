@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-06-06, 15:55:46](https://news.ycombinator.com/item?id=48426202) - [You Can Run](https://magazine.atavist.com/2026/mccann-cocaine-fugitives)
 * [2026-06-06, 15:35:49](https://news.ycombinator.com/item?id=48426022) - [Police in England and Wales told to halt AI use in court statements](https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241)
 * [2026-06-06, 15:30:09](https://news.ycombinator.com/item?id=48425982) - [Python JIT project was asked to pause development](https://discuss.python.org/t/an-announcement-from-the-steering-council-regarding-the-jit-project/107638)
 * [2026-06-06, 14:59:43](https://news.ycombinator.com/item?id=48425723) - [Zeroserve: A zero-config web server you can script with eBPF](https://su3.io/posts/introducing-zeroserve)
@@ -13,7 +14,6 @@
 * [2026-06-06, 12:00:56](https://news.ycombinator.com/item?id=48424103) - [Mbodi AI (YC P25) Is Hiring Founding Machine Learning Engineer (Robotics)](https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer)
 * [2026-06-06, 11:46:15](https://news.ycombinator.com/item?id=48423990) - [Google will pay SpaceX $920M per month for compute](https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/)
 * [2026-06-06, 11:12:58](https://news.ycombinator.com/item?id=48423762) - [Pokemon Emerald Ported to WebAssembly (100k FPS)](https://pokeemerald.com/)
-* [2026-06-06, 07:42:25](https://news.ycombinator.com/item?id=48422451) - [Azure Linux Desktop](https://www.boxofcables.dev/azure-linux-desktop-a-build-2026-mashup-of-wslc-winui-reactor-and-azure-linux-4-0/)
 * [2026-06-06, 04:38:36](https://news.ycombinator.com/item?id=48421442) - [S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic](https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/)
 * [2026-06-06, 03:41:32](https://news.ycombinator.com/item?id=48421171) - [Pre-Modern Armies for Worldbuilders, Part I: Why They Fight](https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/)
 * [2026-06-06, 00:33:26](https://news.ycombinator.com/item?id=48420148) - [The intracies of modern camera lens repair (2024)](https://salvagedcircuitry.com/sigma-45mm.html)
@@ -26,7 +26,7 @@
 * [2026-06-04, 23:42:20](https://news.ycombinator.com/item?id=48406174) - [Ask HN: What was your \"oh shit\" moment with GenAI?](https://news.ycombinator.com/item?id=48406174)
 * [2026-06-03, 21:22:23](https://news.ycombinator.com/item?id=48390269) - [Splash Is a Colour Format](https://www.todepond.com/lab/splash/)
 * [2026-06-03, 20:15:13](https://news.ycombinator.com/item?id=48389360) - [How LLMs work](https://www.0xkato.xyz/how-llms-actually-work/)
-* [2026-06-03, 13:22:06](https://news.ycombinator.com/item?id=48383667) - [Mouseless – keyboard-driven control of macOS/Linux/Windows](https://mouseless.click)
+* [2026-06-02, 16:08:26](https://news.ycombinator.com/item?id=48372138) - [Show HN: Infinite canvas notes in the non-Euclidean Poincaré disk](https://uonr.github.io/poincake/)
 * [2026-06-02, 13:15:18](https://news.ycombinator.com/item?id=48369864) - [Social Cache Busting](https://www.autodidacts.io/social-cache-busting/)
 * [2026-06-01, 20:20:02](https://news.ycombinator.com/item?id=48362115) - [Show HN: Soft Body Jiggle Physics](https://github.com/xloveee/jiggle-physics)
 * [2026-05-31, 19:28:49](https://news.ycombinator.com/item?id=48348876) - [Building Rust Procedural Macros from the Grounds Up](https://www.learnix-os.com/ch02-03-implementing-the-bitfields-proc-macro.html)
