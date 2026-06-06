@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2026-06-06, 07:42:25",
+      "https://news.ycombinator.com/item?id=48422451"
+    ],
+    [
+      "Azure Linux Desktop",
+      "https://www.boxofcables.dev/azure-linux-desktop-a-build-2026-mashup-of-wslc-winui-reactor-and-azure-linux-4-0/"
+    ]
+  ],
+  [
+    [
       "2026-06-06, 04:38:36",
       "https://news.ycombinator.com/item?id=48421442"
     ],
@@ -87,26 +97,6 @@
     [
       "The perils of UUID primary keys in SQLite",
       "https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-05, 19:08:12",
-      "https://news.ycombinator.com/item?id=48416845"
-    ],
-    [
-      "Three of our worst VC stories",
-      "https://twitter.com/eastdakota/status/2062860530360959273"
-    ]
-  ],
-  [
-    [
-      "2026-06-05, 18:50:26",
-      "https://news.ycombinator.com/item?id=48416635"
-    ],
-    [
-      "Transformers are inherently succinct",
-      "https://openreview.net/pdf?id=Yxz92UuPLQ"
     ]
   ],
   [
@@ -231,22 +221,22 @@
   ],
   [
     [
-      "2026-06-03, 22:27:20",
-      "https://news.ycombinator.com/item?id=48390993"
-    ],
-    [
-      "We shrank our TimescaleDB chunks from 30 days to 7",
-      "https://tech.wmg.com/why-we-shrank-our-timescaledb-chunks-from-30-days-to-7-07cab8afefc5"
-    ]
-  ],
-  [
-    [
       "2026-06-03, 20:15:13",
       "https://news.ycombinator.com/item?id=48389360"
     ],
     [
       "How LLMs work",
       "https://www.0xkato.xyz/how-llms-actually-work/"
+    ]
+  ],
+  [
+    [
+      "2026-06-03, 16:12:47",
+      "https://news.ycombinator.com/item?id=48385990"
+    ],
+    [
+      "What 100k concurrent sandboxes has taught us so far",
+      "https://www.computesdk.com/blog/scale-invitational-update/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Raytracing Geometries in 3D Rendering",
       "https://andeplane.github.io/Raytracing/"
+    ]
+  ],
+  [
+    [
+      "2026-06-03, 08:29:46",
+      "https://news.ycombinator.com/item?id=48381399"
+    ],
+    [
+      "Exact UNORM8 to Float",
+      "https://fgiesen.wordpress.com/2024/11/06/exact-unorm8-to-float/"
     ]
   ],
   [
