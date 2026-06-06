@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-06-06, 20:39:21",
-      "https://news.ycombinator.com/item?id=48428796"
-    ],
-    [
-      "Universal Memory Protocol – a shared format for agent memory",
-      "https://universalmemoryprotocol.io/"
-    ]
-  ],
-  [
-    [
       "2026-06-06, 20:35:40",
       "https://news.ycombinator.com/item?id=48428763"
     ],
@@ -91,16 +81,6 @@
   ],
   [
     [
-      "2026-06-06, 15:30:09",
-      "https://news.ycombinator.com/item?id=48425982"
-    ],
-    [
-      "Python JIT project was asked to pause development",
-      "https://discuss.python.org/t/an-announcement-from-the-steering-council-regarding-the-jit-project/107638"
-    ]
-  ],
-  [
-    [
       "2026-06-06, 14:59:43",
       "https://news.ycombinator.com/item?id=48425723"
     ],
@@ -117,6 +97,16 @@
     [
       "Motorola effectively bricked its entire line of WiFi routers without explanation",
       "https://mashable.com/tech/motorola-wifi-routers-stop-working-motosync-plus-app-down"
+    ]
+  ],
+  [
+    [
+      "2026-06-06, 14:34:20",
+      "https://news.ycombinator.com/item?id=48425528"
+    ],
+    [
+      "Moving beyond fork() + exec()",
+      "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/"
     ]
   ],
   [
@@ -161,22 +151,22 @@
   ],
   [
     [
+      "2026-06-06, 12:03:21",
+      "https://news.ycombinator.com/item?id=48424125"
+    ],
+    [
+      "The new bibliomaniacs",
+      "https://engelsbergideas.com/notebook/the-new-bibliomaniacs/"
+    ]
+  ],
+  [
+    [
       "2026-06-06, 12:00:56",
       "https://news.ycombinator.com/item?id=48424103"
     ],
     [
       "Mbodi AI (YC P25) Is Hiring Founding Machine Learning Engineer (Robotics)",
       "https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer"
-    ]
-  ],
-  [
-    [
-      "2026-06-06, 11:46:15",
-      "https://news.ycombinator.com/item?id=48423990"
-    ],
-    [
-      "Google will pay SpaceX $920M per month for compute",
-      "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/"
     ]
   ],
   [
@@ -221,12 +211,22 @@
   ],
   [
     [
-      "2026-06-05, 20:52:56",
-      "https://news.ycombinator.com/item?id=48418125"
+      "2026-06-05, 20:06:36",
+      "https://news.ycombinator.com/item?id=48417490"
     ],
     [
-      "Tribute to Jiro Yamada, Automotive Artist (1960-2025) [video]",
-      "https://www.youtube.com/watch?v=rJ2gQ5Md60U"
+      "Google to pay SpaceX $920M a month for compute capacity at xAI data centers",
+      "https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-05, 14:01:57",
+      "https://news.ycombinator.com/item?id=48412708"
+    ],
+    [
+      "How to make firecracker faster to start Chromium in < 20ms",
+      "https://www.kernel.sh/blog/firecracker-faster"
     ]
   ],
   [
