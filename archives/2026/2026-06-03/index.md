@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-06-03](index.md)
 
 * [2026-06-03, 23:37:18](https://news.ycombinator.com/item?id=48391611) - [\"They're made out of weights\"](https://maxleiter.com/blog/weights)
+* [2026-06-03, 22:27:20](https://news.ycombinator.com/item?id=48390993) - [We shrank our TimescaleDB chunks from 30 days to 7](https://tech.wmg.com/why-we-shrank-our-timescaledb-chunks-from-30-days-to-7-07cab8afefc5)
 * [2026-06-03, 21:55:23](https://news.ycombinator.com/item?id=48390688) - [Journey to JPEG XL: open-source experiments shaped the future of image coding](https://opensource.googleblog.com/2026/06/journey-to-jpeg-xl-how-open-source-experiments-shaped-the-future-of-image-coding.html)
 * [2026-06-03, 21:32:10](https://news.ycombinator.com/item?id=48390400) - [A Mathematician's Lament – Paul Lockhart (2002) [pdf]](https://worrydream.com/refs/Lockhart_2002_-_A_Mathematician%27s_Lament.pdf)
 * [2026-06-03, 20:39:34](https://news.ycombinator.com/item?id=48389681) - [Ableton Extensions SDK](https://www.ableton.com/en/live/extensions/)
@@ -43,6 +44,7 @@
 * [2026-06-03, 11:04:04](https://news.ycombinator.com/item?id=48382382) - [Every Byte Matters](https://fzakaria.com/2026/06/01/every-byte-matters)
 * [2026-06-03, 10:53:00](https://news.ycombinator.com/item?id=48382310) - [Hacking your PC using your speaker without ever touching it](https://blog.nns.ee/2026/06/03/katana-badusb/)
 * [2026-06-03, 10:51:29](https://news.ycombinator.com/item?id=48382305) - [What I've learned about the trombone](http://bryanhu.com/blog/posts/what-ive-learned-about-the-trombone/)
+* [2026-06-03, 10:37:40](https://news.ycombinator.com/item?id=48382219) - [Raytracing Geometries in 3D Rendering](https://andeplane.github.io/Raytracing/)
 * [2026-06-03, 10:24:25](https://news.ycombinator.com/item?id=48382142) - [PlayStation Architecture](https://www.copetti.org/writings/consoles/playstation/)
 * [2026-06-03, 10:05:48](https://news.ycombinator.com/item?id=48382052) - [Mathematicians issue warning as AI rapidly gains ground](https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground)
 * [2026-06-03, 10:05:11](https://news.ycombinator.com/item?id=48382047) - [Redis 8.8: New array data structure, rate limiter, performance improvements](https://redis.io/blog/announcing-redis-8-8/)
