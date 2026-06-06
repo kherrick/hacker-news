@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-05](index.md)
 
+* [2026-06-05, 23:42:54](https://news.ycombinator.com/item?id=48419821) - [Nordstjernen 1.0](https://github.com/nordstjernen-web/nordstjernen/releases/tag/1.0.0)
+* [2026-06-05, 23:13:12](https://news.ycombinator.com/item?id=48419571) - [The perils of UUID primary keys in SQLite](https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html)
 * [2026-06-05, 22:12:58](https://news.ycombinator.com/item?id=48419023) - [Microsoft wants users to be addicted to Scout, their AI personal assistant](https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/)
 * [2026-06-05, 22:02:27](https://news.ycombinator.com/item?id=48418949) - [Boeing 787 Dreamliner Loses Door at Remote Pacific Airport, Puzzling Engineers](https://aeroxplorer.com/articles/boeing-787-dreamliner-loses-door-at-remote-pacific-airport-puzzling-engineers)
 * [2026-06-05, 21:52:02](https://news.ycombinator.com/item?id=48418839) - [Warren's Abstract Machine: A Tutorial Reconstruction](https://github.com/a-yiorgos/wambook)
@@ -30,6 +32,7 @@
 * [2026-06-05, 14:48:44](https://news.ycombinator.com/item?id=48413295) - [Dutch gov't will only allow European company to operate DigiD platform](https://nltimes.nl/2026/06/05/dutch-govt-will-allow-european-company-operate-digid-platform)
 * [2026-06-05, 14:44:44](https://news.ycombinator.com/item?id=48413254) - [India's surprise baby bust](https://www.economist.com/leaders/2026/06/04/indias-surprise-baby-bust-is-a-warning-to-the-world)
 * [2026-06-05, 14:30:50](https://news.ycombinator.com/item?id=48413072) - [I tested every IP KVM in my Homelab](https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/)
+* [2026-06-05, 12:56:44](https://news.ycombinator.com/item?id=48411799) - [The Quiet Numbers Station: Decoding Nineteen Years of GPS Cryptography](https://www.benthamsgaze.org/2026/06/02/the-quiet-numbers-station-decoding-nineteen-years-of-gps-cryptography/)
 * [2026-06-05, 12:56:44](https://news.ycombinator.com/item?id=48411799) - [The Empty Field That Wasn't: GPS Broadcasts a Numbers Station](https://lsc-pagepro.mydigitalpublication.com/publication/?i=865273&p=62&view=issueViewer)
 * [2026-06-05, 12:43:33](https://news.ycombinator.com/item?id=48411635) - [Did Claude increase bugs in rsync?](https://alexispurslane.github.io/rsync-analysis/)
 * [2026-06-05, 12:30:17](https://news.ycombinator.com/item?id=48411510) - [Programmers will document for Claude, but not for each other](https://blog.plover.com/2026/03/09/#documentation-wins-2)
