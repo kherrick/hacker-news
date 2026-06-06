@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-06-06](index.md)
 
+* [2026-06-06, 20:39:21](https://news.ycombinator.com/item?id=48428796) - [Universal Memory Protocol – a shared format for agent memory](https://universalmemoryprotocol.io/)
+* [2026-06-06, 20:24:29](https://news.ycombinator.com/item?id=48428647) - [Computex 2026: Are We Heading for the Agentic PC Era Yet? – EE Times](https://www.eetimes.com/computex-2026-are-we-heading-for-the-agentic-pc-era-yet/)
+* [2026-06-06, 19:51:10](https://news.ycombinator.com/item?id=48428356) - [Home alone: Remote work, isolation, and mental health](https://www.science.org/doi/10.1126/science.aec7671)
 * [2026-06-06, 19:17:46](https://news.ycombinator.com/item?id=48428025) - [Ntsc-rs – open-source video emulation of analog TV and VHS artifacts](https://ntsc.rs/)
 * [2026-06-06, 18:35:27](https://news.ycombinator.com/item?id=48427643) - [Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot](https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/)
 * [2026-06-06, 18:21:06](https://news.ycombinator.com/item?id=48427523) - [Pentagon raised threat of Israeli spying on U.S. to highest level, sources say](https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565)

@@ -28,6 +28,7 @@
 * [2026-06-01, 16:02:04](https://news.ycombinator.com/item?id=48358667) - [Florida sues OpenAI and Sam Altman over AI risks](https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215)
 * [2026-06-01, 16:00:40](https://news.ycombinator.com/item?id=48358646) - [Anthropic confidentially submits draft S-1 to the SEC](https://www.anthropic.com/news/confidential-draft-s1-sec)
 * [2026-06-01, 16:00:23](https://news.ycombinator.com/item?id=48358643) - [Are You Enjoying Our Linguine? (2025)](https://www.thedial.world/articles/news/american-tourists-rome)
+* [2026-06-01, 15:39:29](https://news.ycombinator.com/item?id=48358339) - [PyTorch Custom Operation](https://leimao.github.io/blog/PyTorch-Custom-Operation/)
 * [2026-06-01, 15:11:35](https://news.ycombinator.com/item?id=48357905) - [Lifelike biochemistry continued to unfold in sterilized soil](https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/)
 * [2026-06-01, 15:00:48](https://news.ycombinator.com/item?id=48357725) - [Ask HN: Who is hiring? (June 2026)](https://news.ycombinator.com/item?id=48357725)
 * [2026-06-01, 15:00:48](https://news.ycombinator.com/item?id=48357724) - [Ask HN: Who wants to be hired? (June 2026)](https://news.ycombinator.com/item?id=48357724)
