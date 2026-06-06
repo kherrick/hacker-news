@@ -1,42 +1,72 @@
 [
   [
     [
-      "2026-06-05, 22:12:58",
-      "https://news.ycombinator.com/item?id=48419023"
+      "2026-06-06, 03:41:32",
+      "https://news.ycombinator.com/item?id=48421171"
     ],
     [
-      "Microsoft wants users to be addicted to Scout, their AI personal assistant",
-      "https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/"
+      "Pre-Modern Armies for Worldbuilders, Part I: Why They Fight",
+      "https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/"
     ]
   ],
   [
     [
-      "2026-06-05, 21:52:02",
-      "https://news.ycombinator.com/item?id=48418839"
+      "2026-06-06, 03:36:15",
+      "https://news.ycombinator.com/item?id=48421145"
     ],
     [
-      "Warren's Abstract Machine: A Tutorial Reconstruction",
-      "https://github.com/a-yiorgos/wambook"
+      "Lockdown Mode",
+      "https://help.openai.com/en/articles/20001061-lockdown-mode"
     ]
   ],
   [
     [
-      "2026-06-05, 20:38:40",
-      "https://news.ycombinator.com/item?id=48417916"
+      "2026-06-06, 02:31:51",
+      "https://news.ycombinator.com/item?id=48420827"
     ],
     [
-      "Hacker News, Sans AI",
-      "https://elijahpotter.dev/articles/hacker-news-sans-AI"
+      "Ask HN: Why is the HN crowd so anti-AI?",
+      "https://news.ycombinator.com/item?id=48420827"
     ]
   ],
   [
     [
-      "2026-06-05, 19:15:36",
-      "https://news.ycombinator.com/item?id=48416936"
+      "2026-06-06, 01:32:09",
+      "https://news.ycombinator.com/item?id=48420494"
     ],
     [
-      "Accidentally deleted subscriptions for chat integrations (Slack and MS Teams)",
-      "https://www.githubstatus.com/incidents/2nmfnbknhlnv"
+      "Show HN: ABC Classic 100 Rankings visualised",
+      "https://classic100.gotski.workers.dev/"
+    ]
+  ],
+  [
+    [
+      "2026-06-06, 00:33:26",
+      "https://news.ycombinator.com/item?id=48420148"
+    ],
+    [
+      "The intracies of modern camera lens repair (2024)",
+      "https://salvagedcircuitry.com/sigma-45mm.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-05, 23:42:54",
+      "https://news.ycombinator.com/item?id=48419821"
+    ],
+    [
+      "Nordstjernen 1.0",
+      "https://github.com/nordstjernen-web/nordstjernen/releases/tag/1.0.0"
+    ]
+  ],
+  [
+    [
+      "2026-06-05, 23:13:12",
+      "https://news.ycombinator.com/item?id=48419571"
+    ],
+    [
+      "The perils of UUID primary keys in SQLite",
+      "https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html"
     ]
   ],
   [
@@ -55,7 +85,7 @@
       "https://news.ycombinator.com/item?id=48416635"
     ],
     [
-      "Transformers Are Inherently Succinct",
+      "Transformers are inherently succinct",
       "https://openreview.net/pdf?id=Yxz92UuPLQ"
     ]
   ],
@@ -77,16 +107,6 @@
     [
       "Gov.uk has replaced Stripe with Dutch provider Adyen",
       "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763"
-    ]
-  ],
-  [
-    [
-      "2026-06-05, 16:39:57",
-      "https://news.ycombinator.com/item?id=48414978"
-    ],
-    [
-      "Mantine-datatable (and others) compromised – owner account suspended",
-      "https://github.com/icflorescu/mantine-datatable/discussions/813"
     ]
   ],
   [
@@ -175,8 +195,8 @@
       "https://news.ycombinator.com/item?id=48411799"
     ],
     [
-      "The Empty Field That Wasn't: GPS, OTAD and Two Decades of Encrypted Broadcasts",
-      "https://lsc-pagepro.mydigitalpublication.com/publication/?i=865273&p=62&view=issueViewer"
+      "The Quiet Numbers Station: Decoding Nineteen Years of GPS Cryptography",
+      "https://www.benthamsgaze.org/2026/06/02/the-quiet-numbers-station-decoding-nineteen-years-of-gps-cryptography/"
     ]
   ],
   [
@@ -191,42 +211,12 @@
   ],
   [
     [
-      "2026-06-05, 12:00:18",
-      "https://news.ycombinator.com/item?id=48411227"
-    ],
-    [
-      "Nango (YC W23, dev infra) is hiring staff back end engineers",
-      "https://nango.dev/careers"
-    ]
-  ],
-  [
-    [
-      "2026-06-05, 09:10:42",
-      "https://news.ycombinator.com/item?id=48409955"
-    ],
-    [
-      "Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my LLM tokens",
-      "https://github.com/zdk/lowfat"
-    ]
-  ],
-  [
-    [
       "2026-06-05, 08:32:16",
       "https://news.ycombinator.com/item?id=48409664"
     ],
     [
       "Tracing a powerful GNSS interference source over Europe",
       "https://arxiv.org/abs/2606.03673"
-    ]
-  ],
-  [
-    [
-      "2026-06-05, 04:37:01",
-      "https://news.ycombinator.com/item?id=48408016"
-    ],
-    [
-      "C++: The Documentary",
-      "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/"
     ]
   ],
   [
@@ -241,12 +231,12 @@
   ],
   [
     [
-      "2026-06-04, 18:31:55",
-      "https://news.ycombinator.com/item?id=48402744"
+      "2026-06-04, 22:06:18",
+      "https://news.ycombinator.com/item?id=48405264"
     ],
     [
-      "\"Maybe later\" was a feature",
-      "https://arnorhs.dev/posts/2026-06-04/maybe-later-was-a-feature/"
+      "Show HN: Formally verified polygon intersection – Opus 4.8 oneshots, prev failed",
+      "https://github.com/schildep/verified-polygon-intersection"
     ]
   ],
   [
@@ -261,12 +251,32 @@
   ],
   [
     [
-      "2026-06-04, 13:54:28",
-      "https://news.ycombinator.com/item?id=48398689"
+      "2026-06-04, 13:17:25",
+      "https://news.ycombinator.com/item?id=48398233"
     ],
     [
-      "Inside FAISS: Billion-Scale Similarity Search",
-      "https://fremaconsulting.ch/blog/faiss"
+      "Europe's largest Copper Age tomb: children's bones show ancient health crisis",
+      "https://phys.org/news/2026-05-europe-largest-copper-age-tomb.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-03, 20:15:13",
+      "https://news.ycombinator.com/item?id=48389360"
+    ],
+    [
+      "How LLMs work",
+      "https://www.0xkato.xyz/how-llms-actually-work/"
+    ]
+  ],
+  [
+    [
+      "2026-06-03, 13:29:03",
+      "https://news.ycombinator.com/item?id=48383760"
+    ],
+    [
+      "Nine Ways to Do Inheritance in Rust, a Language Without Inheritance",
+      "https://medium.com/@carlmkadie/nine-ways-to-do-inheritance-in-rust-a-language-without-inheritance-14825bf1e215"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Mouseless – keyboard-driven control of macOS/Linux/Windows",
       "https://mouseless.click"
-    ]
-  ],
-  [
-    [
-      "2026-06-03, 10:05:11",
-      "https://news.ycombinator.com/item?id=48382047"
-    ],
-    [
-      "Redis 8.8: New array data structure, rate limiter, performance improvements",
-      "https://redis.io/blog/announcing-redis-8-8/"
     ]
   ],
   [
