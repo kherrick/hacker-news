@@ -47,6 +47,7 @@
 * [2026-06-03, 10:05:48](https://news.ycombinator.com/item?id=48382052) - [Mathematicians issue warning as AI rapidly gains ground](https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground)
 * [2026-06-03, 10:05:11](https://news.ycombinator.com/item?id=48382047) - [Redis 8.8: New array data structure, rate limiter, performance improvements](https://redis.io/blog/announcing-redis-8-8/)
 * [2026-06-03, 08:00:14](https://news.ycombinator.com/item?id=48381211) - [It is an amazing time for programmers](https://46elks.com/blog/2026/05/29/an-amazing-time-for-programmers)
+* [2026-06-03, 07:17:30](https://news.ycombinator.com/item?id=48380932) - [Ten Years of Franz](https://meetfranz.com/blog/ten-years-of-franz)
 * [2026-06-03, 06:33:27](https://news.ycombinator.com/item?id=48380670) - [Leiden Declaration on Artificial Intelligence and Mathematics](https://leidendeclaration.ai/)
 * [2026-06-03, 06:04:36](https://news.ycombinator.com/item?id=48380516) - [Microsoft Doubles Down on Controversial Quantum Computing Claims](https://www.science.org/content/article/doubling-down-controversial-claims-microsoft-accelerates-quantum-computing-plans)
 * [2026-06-03, 05:49:31](https://news.ycombinator.com/item?id=48380395) - [Recovering Eric Graham's 1987 Amiga Juggler raytracer source code](https://alphapixeldev.com/recovering-eric-grahams-1987-amiga-juggler-raytracer-source-code/)
