@@ -4,9 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-06-06](index.md)
 
+* [2026-06-06, 15:35:49](https://news.ycombinator.com/item?id=48426022) - [Police in England and Wales told to halt AI use in court statements](https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241)
+* [2026-06-06, 15:30:09](https://news.ycombinator.com/item?id=48425982) - [Python JIT project was asked to pause development](https://discuss.python.org/t/an-announcement-from-the-steering-council-regarding-the-jit-project/107638)
+* [2026-06-06, 14:59:43](https://news.ycombinator.com/item?id=48425723) - [Zeroserve: A zero-config web server you can script with eBPF](https://su3.io/posts/introducing-zeroserve)
 * [2026-06-06, 14:34:20](https://news.ycombinator.com/item?id=48425528) - [Moving beyond fork() + exec()](https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/)
+* [2026-06-06, 14:15:32](https://news.ycombinator.com/item?id=48425347) - [Running Python code in a sandbox with MicroPython and WASM](https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/)
 * [2026-06-06, 14:00:52](https://news.ycombinator.com/item?id=48425247) - [Benchmarks in Leipzig](https://arxiv.org/abs/2606.05818)
 * [2026-06-06, 13:40:22](https://news.ycombinator.com/item?id=48425031) - [US House lawmakers release draft bill to prohibit state AI rules](https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/)
+* [2026-06-06, 12:59:59](https://news.ycombinator.com/item?id=48424674) - [Trees to Flows and Back: Unifying Decision Trees and Diffusion Models](https://arxiv.org/abs/2605.00414)
 * [2026-06-06, 12:52:18](https://news.ycombinator.com/item?id=48424605) - [Nvidia is proposing a beast of a CPU system for Windows PCs](https://twitter.com/lemire/status/2062880075117113739)
 * [2026-06-06, 12:15:59](https://news.ycombinator.com/item?id=48424252) - [Meta Keeps Delaying the Release of Its New AI Model to Developers](https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c)
 * [2026-06-06, 12:03:21](https://news.ycombinator.com/item?id=48424125) - [The new bibliomaniacs](https://engelsbergideas.com/notebook/the-new-bibliomaniacs/)

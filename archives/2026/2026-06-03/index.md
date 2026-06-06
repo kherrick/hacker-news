@@ -9,6 +9,7 @@
 * [2026-06-03, 22:27:20](https://news.ycombinator.com/item?id=48390993) - [We shrank our TimescaleDB chunks from 30 days to 7](https://tech.wmg.com/why-we-shrank-our-timescaledb-chunks-from-30-days-to-7-07cab8afefc5)
 * [2026-06-03, 21:55:23](https://news.ycombinator.com/item?id=48390688) - [Journey to JPEG XL: open-source experiments shaped the future of image coding](https://opensource.googleblog.com/2026/06/journey-to-jpeg-xl-how-open-source-experiments-shaped-the-future-of-image-coding.html)
 * [2026-06-03, 21:32:10](https://news.ycombinator.com/item?id=48390400) - [A Mathematician's Lament – Paul Lockhart (2002) [pdf]](https://worrydream.com/refs/Lockhart_2002_-_A_Mathematician%27s_Lament.pdf)
+* [2026-06-03, 21:22:23](https://news.ycombinator.com/item?id=48390269) - [Splash Is a Colour Format](https://www.todepond.com/lab/splash/)
 * [2026-06-03, 20:39:34](https://news.ycombinator.com/item?id=48389681) - [Ableton Extensions SDK](https://www.ableton.com/en/live/extensions/)
 * [2026-06-03, 20:32:10](https://news.ycombinator.com/item?id=48389586) - [Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph)](https://github.com/zaydmulani09/mnemo)
 * [2026-06-03, 20:15:13](https://news.ycombinator.com/item?id=48389360) - [How LLMs work](https://www.0xkato.xyz/how-llms-actually-work/)
