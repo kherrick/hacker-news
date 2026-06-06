@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-06-06](index.md)
 
+* [2026-06-06, 14:34:20](https://news.ycombinator.com/item?id=48425528) - [Moving beyond fork() + exec()](https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/)
 * [2026-06-06, 14:00:52](https://news.ycombinator.com/item?id=48425247) - [Benchmarks in Leipzig](https://arxiv.org/abs/2606.05818)
+* [2026-06-06, 13:40:22](https://news.ycombinator.com/item?id=48425031) - [US House lawmakers release draft bill to prohibit state AI rules](https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/)
+* [2026-06-06, 12:52:18](https://news.ycombinator.com/item?id=48424605) - [Nvidia is proposing a beast of a CPU system for Windows PCs](https://twitter.com/lemire/status/2062880075117113739)
 * [2026-06-06, 12:15:59](https://news.ycombinator.com/item?id=48424252) - [Meta Keeps Delaying the Release of Its New AI Model to Developers](https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c)
 * [2026-06-06, 12:03:21](https://news.ycombinator.com/item?id=48424125) - [The new bibliomaniacs](https://engelsbergideas.com/notebook/the-new-bibliomaniacs/)
 * [2026-06-06, 12:00:56](https://news.ycombinator.com/item?id=48424103) - [Mbodi AI (YC P25) Is Hiring Founding Machine Learning Engineer (Robotics)](https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer)
