@@ -1,12 +1,52 @@
 [
   [
     [
+      "2026-06-06, 15:35:49",
+      "https://news.ycombinator.com/item?id=48426022"
+    ],
+    [
+      "Police in England and Wales told to halt AI use in court statements",
+      "https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241"
+    ]
+  ],
+  [
+    [
+      "2026-06-06, 15:30:09",
+      "https://news.ycombinator.com/item?id=48425982"
+    ],
+    [
+      "Python JIT project was asked to pause development",
+      "https://discuss.python.org/t/an-announcement-from-the-steering-council-regarding-the-jit-project/107638"
+    ]
+  ],
+  [
+    [
+      "2026-06-06, 14:59:43",
+      "https://news.ycombinator.com/item?id=48425723"
+    ],
+    [
+      "Zeroserve: A zero-config web server you can script with eBPF",
+      "https://su3.io/posts/introducing-zeroserve"
+    ]
+  ],
+  [
+    [
       "2026-06-06, 14:34:20",
       "https://news.ycombinator.com/item?id=48425528"
     ],
     [
       "Moving beyond fork() + exec()",
       "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/"
+    ]
+  ],
+  [
+    [
+      "2026-06-06, 14:15:32",
+      "https://news.ycombinator.com/item?id=48425347"
+    ],
+    [
+      "Running Python code in a sandbox with MicroPython and WASM",
+      "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/"
     ]
   ],
   [
@@ -31,22 +71,22 @@
   ],
   [
     [
+      "2026-06-06, 12:59:59",
+      "https://news.ycombinator.com/item?id=48424674"
+    ],
+    [
+      "Trees to Flows and Back: Unifying Decision Trees and Diffusion Models",
+      "https://arxiv.org/abs/2605.00414"
+    ]
+  ],
+  [
+    [
       "2026-06-06, 12:52:18",
       "https://news.ycombinator.com/item?id=48424605"
     ],
     [
       "Nvidia is proposing a beast of a CPU system for Windows PCs",
       "https://twitter.com/lemire/status/2062880075117113739"
-    ]
-  ],
-  [
-    [
-      "2026-06-06, 12:15:59",
-      "https://news.ycombinator.com/item?id=48424252"
-    ],
-    [
-      "Meta Keeps Delaying the Release of Its New AI Model to Developers",
-      "https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c"
     ]
   ],
   [
@@ -91,16 +131,6 @@
   ],
   [
     [
-      "2026-06-06, 09:17:49",
-      "https://news.ycombinator.com/item?id=48422993"
-    ],
-    [
-      "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy",
-      "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/"
-    ]
-  ],
-  [
-    [
       "2026-06-06, 07:42:25",
       "https://news.ycombinator.com/item?id=48422451"
     ],
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2026-06-06, 03:23:47",
-      "https://news.ycombinator.com/item?id=48421079"
-    ],
-    [
-      "The back cover of C++: The Language raises questions not answered by front cover",
-      "https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391"
-    ]
-  ],
-  [
-    [
       "2026-06-06, 00:33:26",
       "https://news.ycombinator.com/item?id=48420148"
     ],
@@ -167,16 +187,6 @@
     [
       "Tribute to Jiro Yamada, Automotive Artist (1960-2025) [video]",
       "https://www.youtube.com/watch?v=rJ2gQ5Md60U"
-    ]
-  ],
-  [
-    [
-      "2026-06-05, 16:55:30",
-      "https://news.ycombinator.com/item?id=48415217"
-    ],
-    [
-      "Gov.uk has replaced Stripe with Dutch provider Adyen",
-      "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763"
     ]
   ],
   [
@@ -231,22 +241,12 @@
   ],
   [
     [
-      "2026-06-04, 14:10:40",
-      "https://news.ycombinator.com/item?id=48398925"
+      "2026-06-03, 21:22:23",
+      "https://news.ycombinator.com/item?id=48390269"
     ],
     [
-      "My Agent Skill for Test-Driven Development",
-      "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-03, 23:29:45",
-      "https://news.ycombinator.com/item?id=48391541"
-    ],
-    [
-      "HISE – Toolkit for building VST plugins",
-      "https://hise.dev"
+      "Splash Is a Colour Format",
+      "https://www.todepond.com/lab/splash/"
     ]
   ],
   [
