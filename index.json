@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-06-06, 14:34:20",
+      "https://news.ycombinator.com/item?id=48425528"
+    ],
+    [
+      "Moving beyond fork() + exec()",
+      "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/"
+    ]
+  ],
+  [
+    [
       "2026-06-06, 14:00:52",
       "https://news.ycombinator.com/item?id=48425247"
     ],
     [
       "Benchmarks in Leipzig",
       "https://arxiv.org/abs/2606.05818"
+    ]
+  ],
+  [
+    [
+      "2026-06-06, 13:40:22",
+      "https://news.ycombinator.com/item?id=48425031"
+    ],
+    [
+      "US House lawmakers release draft bill to prohibit state AI rules",
+      "https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/"
+    ]
+  ],
+  [
+    [
+      "2026-06-06, 12:52:18",
+      "https://news.ycombinator.com/item?id=48424605"
+    ],
+    [
+      "Nvidia is proposing a beast of a CPU system for Windows PCs",
+      "https://twitter.com/lemire/status/2062880075117113739"
     ]
   ],
   [
@@ -61,32 +91,12 @@
   ],
   [
     [
-      "2026-06-06, 10:52:25",
-      "https://news.ycombinator.com/item?id=48423615"
-    ],
-    [
-      "Introduction – Rust for Python Programmers",
-      "https://microsoft.github.io/RustTraining/python-book/"
-    ]
-  ],
-  [
-    [
       "2026-06-06, 09:17:49",
       "https://news.ycombinator.com/item?id=48422993"
     ],
     [
       "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy",
       "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/"
-    ]
-  ],
-  [
-    [
-      "2026-06-06, 08:38:44",
-      "https://news.ycombinator.com/item?id=48422769"
-    ],
-    [
-      "Zig Zen Update",
-      "https://codeberg.org/ziglang/zig/commit/621844bde551ee1a9b8142d7d146d1fa804247a2"
     ]
   ],
   [
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2026-06-06, 03:36:15",
-      "https://news.ycombinator.com/item?id=48421145"
-    ],
-    [
-      "Lockdown Mode",
-      "https://help.openai.com/en/articles/20001061-lockdown-mode"
-    ]
-  ],
-  [
-    [
       "2026-06-06, 03:23:47",
       "https://news.ycombinator.com/item?id=48421079"
     ],
@@ -147,6 +147,26 @@
     [
       "The intracies of modern camera lens repair (2024)",
       "https://salvagedcircuitry.com/sigma-45mm.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-05, 23:13:12",
+      "https://news.ycombinator.com/item?id=48419571"
+    ],
+    [
+      "The perils of UUID primary keys in SQLite",
+      "https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-05, 20:52:56",
+      "https://news.ycombinator.com/item?id=48418125"
+    ],
+    [
+      "Tribute to Jiro Yamada, Automotive Artist (1960-2025) [video]",
+      "https://www.youtube.com/watch?v=rJ2gQ5Md60U"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2026-06-05, 15:39:38",
-      "https://news.ycombinator.com/item?id=48414027"
-    ],
-    [
-      "Conventional Commits encourages focus on the wrong things",
-      "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/"
-    ]
-  ],
-  [
-    [
       "2026-06-05, 15:04:03",
       "https://news.ycombinator.com/item?id=48413500"
     ],
@@ -207,16 +217,6 @@
     [
       "Astronauts told to return to ISS after sheltering over air leak repairs",
       "https://www.bbc.com/news/live/c4g44ew3g1kt"
-    ]
-  ],
-  [
-    [
-      "2026-06-05, 12:43:33",
-      "https://news.ycombinator.com/item?id=48411635"
-    ],
-    [
-      "Did Claude increase bugs in rsync?",
-      "https://alexispurslane.github.io/rsync-analysis/"
     ]
   ],
   [
@@ -271,22 +271,22 @@
   ],
   [
     [
-      "2026-06-03, 07:17:30",
-      "https://news.ycombinator.com/item?id=48380932"
-    ],
-    [
-      "Ten Years of Franz",
-      "https://meetfranz.com/blog/ten-years-of-franz"
-    ]
-  ],
-  [
-    [
       "2026-06-02, 13:15:18",
       "https://news.ycombinator.com/item?id=48369864"
     ],
     [
       "Social Cache Busting",
       "https://www.autodidacts.io/social-cache-busting/"
+    ]
+  ],
+  [
+    [
+      "2026-06-01, 20:20:02",
+      "https://news.ycombinator.com/item?id=48362115"
+    ],
+    [
+      "Show HN: Soft Body Jiggle Physics",
+      "https://github.com/xloveee/jiggle-physics"
     ]
   ],
   [
