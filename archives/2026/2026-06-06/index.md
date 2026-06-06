@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-06-06](index.md)
 
+* [2026-06-06, 12:00:56](https://news.ycombinator.com/item?id=48424103) - [Mbodi AI (YC P25) Is Hiring Founding Machine Learning Engineer (Robotics)](https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer)
+* [2026-06-06, 12:00:06](https://news.ycombinator.com/item?id=48424098) - [There's still no point in gigabit broadband](https://shkspr.mobi/blog/2026/06/theres-still-no-point-in-gigabit-broadband/)
+* [2026-06-06, 10:52:25](https://news.ycombinator.com/item?id=48423615) - [Introduction – Rust for Python Programmers](https://microsoft.github.io/RustTraining/python-book/)
+* [2026-06-06, 10:42:09](https://news.ycombinator.com/item?id=48423541) - [Do Women's Mate Preferences Change Across the Ovulatory Cycle? A Meta-Analysis [pdf]](https://www.martiehaselton.com/_files/ugd/3ae410_aeb76edab75f457aae0c14c4c68d93c0.pdf)
+* [2026-06-06, 10:16:01](https://news.ycombinator.com/item?id=48423381) - [Is anyone here interested in contributing to this OS?](https://github.com/valivalivali/x-os)
+* [2026-06-06, 09:17:49](https://news.ycombinator.com/item?id=48422993) - [The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy](https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/)
 * [2026-06-06, 08:43:59](https://news.ycombinator.com/item?id=48422798) - [GrapheneOS user reported to authorities for using GrapheneOS](https://discuss.grapheneos.org/d/36134-grapheneos-user-reported-to-authorities-for-using-grapheneos)
 * [2026-06-06, 08:38:44](https://news.ycombinator.com/item?id=48422769) - [Zig Zen Update](https://codeberg.org/ziglang/zig/commit/621844bde551ee1a9b8142d7d146d1fa804247a2)
 * [2026-06-06, 07:42:25](https://news.ycombinator.com/item?id=48422451) - [Azure Linux Desktop](https://www.boxofcables.dev/azure-linux-desktop-a-build-2026-mashup-of-wslc-winui-reactor-and-azure-linux-4-0/)
