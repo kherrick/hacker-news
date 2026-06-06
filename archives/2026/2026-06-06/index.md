@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-06](index.md)
 
+* [2026-06-06, 18:35:27](https://news.ycombinator.com/item?id=48427643) - [Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot](https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/)
+* [2026-06-06, 18:21:06](https://news.ycombinator.com/item?id=48427523) - [Pentagon raised threat of Israeli spying on U.S. to highest level, sources say](https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565)
 * [2026-06-06, 15:55:46](https://news.ycombinator.com/item?id=48426202) - [You Can Run](https://magazine.atavist.com/2026/mccann-cocaine-fugitives)
 * [2026-06-06, 15:35:49](https://news.ycombinator.com/item?id=48426022) - [Police in England and Wales told to halt AI use in court statements](https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241)
 * [2026-06-06, 15:30:09](https://news.ycombinator.com/item?id=48425982) - [Python JIT project was asked to pause development](https://discuss.python.org/t/an-announcement-from-the-steering-council-regarding-the-jit-project/107638)
