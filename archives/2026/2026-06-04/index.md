@@ -47,6 +47,7 @@
 * [2026-06-04, 11:17:34](https://news.ycombinator.com/item?id=48397028) - [Ian's Secure Shoelace Knot](https://www.fieggen.com/shoelace/secureknot.htm)
 * [2026-06-04, 10:48:13](https://news.ycombinator.com/item?id=48396792) - [Gaussian Point Splatting](https://momentsingraphics.de/Siggraph2026.html)
 * [2026-06-04, 10:47:07](https://news.ycombinator.com/item?id=48396783) - [Summer of '85: DOSBOS is rejected by ANALOG Computing](https://www.goto10retro.com/p/summer-of-85-dosbos-is-rejected-by)
+* [2026-06-04, 10:03:15](https://news.ycombinator.com/item?id=48396417) - [Lambda isn't leaking memory, your metrics are lying to you](https://engineering.taktile.com/blog/onnx-memory-usage-on-lambda/)
 * [2026-06-04, 08:56:10](https://news.ycombinator.com/item?id=48396004) - [Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites](https://uruky.com/?il=en)
 * [2026-06-04, 08:45:36](https://news.ycombinator.com/item?id=48395938) - [UK media fails to disclose defence sector links in nearly 60% of cases](https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/)
 * [2026-06-04, 07:32:20](https://news.ycombinator.com/item?id=48395370) - [WoofWare.PawPrint, a Deterministic .NET Runtime](https://www.patrickstevens.co.uk/posts/2026-06-04-announcing-woofware-pawprint/)

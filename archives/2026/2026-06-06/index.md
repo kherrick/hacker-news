@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-06](index.md)
 
+* [2026-06-06, 19:17:46](https://news.ycombinator.com/item?id=48428025) - [Ntsc-rs – open-source video emulation of analog TV and VHS artifacts](https://ntsc.rs/)
 * [2026-06-06, 18:35:27](https://news.ycombinator.com/item?id=48427643) - [Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot](https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/)
 * [2026-06-06, 18:21:06](https://news.ycombinator.com/item?id=48427523) - [Pentagon raised threat of Israeli spying on U.S. to highest level, sources say](https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565)
 * [2026-06-06, 15:55:46](https://news.ycombinator.com/item?id=48426202) - [You Can Run](https://magazine.atavist.com/2026/mccann-cocaine-fugitives)
