@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2026-06-06](index.md)
 
 * [2026-06-06, 20:39:21](https://news.ycombinator.com/item?id=48428796) - [Universal Memory Protocol – a shared format for agent memory](https://universalmemoryprotocol.io/)
+* [2026-06-06, 20:35:40](https://news.ycombinator.com/item?id=48428763) - [New U.S. college grads now have higher unemployment than the average worker](https://www.randalolson.com/2026/06/04/recent-grad-unemployment-flip/)
 * [2026-06-06, 20:24:29](https://news.ycombinator.com/item?id=48428647) - [Computex 2026: Are We Heading for the Agentic PC Era Yet? – EE Times](https://www.eetimes.com/computex-2026-are-we-heading-for-the-agentic-pc-era-yet/)
+* [2026-06-06, 20:03:55](https://news.ycombinator.com/item?id=48428475) - [Sem: New primitive for code understanding – not LSPs, but entities on top of Git](https://ataraxy-labs.github.io/sem/)
 * [2026-06-06, 19:51:10](https://news.ycombinator.com/item?id=48428356) - [Home alone: Remote work, isolation, and mental health](https://www.science.org/doi/10.1126/science.aec7671)
 * [2026-06-06, 19:17:46](https://news.ycombinator.com/item?id=48428025) - [Ntsc-rs – open-source video emulation of analog TV and VHS artifacts](https://ntsc.rs/)
 * [2026-06-06, 18:35:27](https://news.ycombinator.com/item?id=48427643) - [Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot](https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/)
@@ -14,6 +16,7 @@
 * [2026-06-06, 15:35:49](https://news.ycombinator.com/item?id=48426022) - [Police in England and Wales told to halt AI use in court statements](https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241)
 * [2026-06-06, 15:30:09](https://news.ycombinator.com/item?id=48425982) - [Python JIT project was asked to pause development](https://discuss.python.org/t/an-announcement-from-the-steering-council-regarding-the-jit-project/107638)
 * [2026-06-06, 14:59:43](https://news.ycombinator.com/item?id=48425723) - [Zeroserve: A zero-config web server you can script with eBPF](https://su3.io/posts/introducing-zeroserve)
+* [2026-06-06, 14:43:53](https://news.ycombinator.com/item?id=48425611) - [Motorola effectively bricked its entire line of WiFi routers without explanation](https://mashable.com/tech/motorola-wifi-routers-stop-working-motosync-plus-app-down)
 * [2026-06-06, 14:34:20](https://news.ycombinator.com/item?id=48425528) - [Moving beyond fork() + exec()](https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/)
 * [2026-06-06, 14:15:32](https://news.ycombinator.com/item?id=48425347) - [Running Python code in a sandbox with MicroPython and WASM](https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/)
 * [2026-06-06, 14:00:52](https://news.ycombinator.com/item?id=48425247) - [Benchmarks in Leipzig](https://arxiv.org/abs/2606.05818)

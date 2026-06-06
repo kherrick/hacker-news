@@ -15,6 +15,7 @@
 * [2026-06-02, 22:16:20](https://news.ycombinator.com/item?id=48377080) - [Gleam v1.17.0 Released](https://gleam.run/news/single-file-gleam-beam-programs-with-escript/)
 * [2026-06-02, 20:43:39](https://news.ycombinator.com/item?id=48376008) - [I'm skeptical about efforts to revolutionize schooling](https://www.scotthyoung.com/blog/2026/05/27/revolutionize-schooling/)
 * [2026-06-02, 20:30:08](https://news.ycombinator.com/item?id=48375824) - [CT scans of BYD car parts](https://www.lumafield.com/scan-of-the-month/byd)
+* [2026-06-02, 20:27:26](https://news.ycombinator.com/item?id=48375776) - [Static Devirtualization of Themida](https://back.engineering/blog/09/05/2026/)
 * [2026-06-02, 20:19:11](https://news.ycombinator.com/item?id=48375673) - [Now AI agents need what RSS does](https://julienreszka.com/blog/rss-is-back-ai-agents-are-reading-it/)
 * [2026-06-02, 20:00:54](https://news.ycombinator.com/item?id=48375445) - [Branchless Quicksort faster than std:sort and pdqsort with C and C++ API](https://tiki.li/blog/blqsort)
 * [2026-06-02, 19:56:46](https://news.ycombinator.com/item?id=48375393) - [My thoughts after using Clojure for about a month](https://www.acdw.net/clojure/)
