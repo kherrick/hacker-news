@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-06, 08:43:59",
+      "https://news.ycombinator.com/item?id=48422798"
+    ],
+    [
+      "GrapheneOS user reported to authorities for using GrapheneOS",
+      "https://discuss.grapheneos.org/d/36134-grapheneos-user-reported-to-authorities-for-using-grapheneos"
+    ]
+  ],
+  [
+    [
+      "2026-06-06, 08:38:44",
+      "https://news.ycombinator.com/item?id=48422769"
+    ],
+    [
+      "Zig Zen Update",
+      "https://codeberg.org/ziglang/zig/commit/621844bde551ee1a9b8142d7d146d1fa804247a2"
+    ]
+  ],
+  [
+    [
       "2026-06-06, 04:38:36",
       "https://news.ycombinator.com/item?id=48421442"
     ],
@@ -51,32 +71,12 @@
   ],
   [
     [
-      "2026-06-06, 01:32:09",
-      "https://news.ycombinator.com/item?id=48420494"
-    ],
-    [
-      "Show HN: ABC Classic 100 Rankings visualised",
-      "https://classic100.gotski.workers.dev/"
-    ]
-  ],
-  [
-    [
       "2026-06-06, 00:33:26",
       "https://news.ycombinator.com/item?id=48420148"
     ],
     [
       "The intracies of modern camera lens repair (2024)",
       "https://salvagedcircuitry.com/sigma-45mm.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-05, 23:42:54",
-      "https://news.ycombinator.com/item?id=48419821"
-    ],
-    [
-      "Nordstjernen 1.0",
-      "https://github.com/nordstjernen-web/nordstjernen/releases/tag/1.0.0"
     ]
   ],
   [
@@ -231,12 +231,12 @@
   ],
   [
     [
-      "2026-06-04, 13:17:25",
-      "https://news.ycombinator.com/item?id=48398233"
+      "2026-06-03, 22:27:20",
+      "https://news.ycombinator.com/item?id=48390993"
     ],
     [
-      "Europe's largest Copper Age tomb: children's bones show ancient health crisis",
-      "https://phys.org/news/2026-05-europe-largest-copper-age-tomb.html"
+      "We shrank our TimescaleDB chunks from 30 days to 7",
+      "https://tech.wmg.com/why-we-shrank-our-timescaledb-chunks-from-30-days-to-7-07cab8afefc5"
     ]
   ],
   [
@@ -271,22 +271,22 @@
   ],
   [
     [
+      "2026-06-03, 10:37:40",
+      "https://news.ycombinator.com/item?id=48382219"
+    ],
+    [
+      "Raytracing Geometries in 3D Rendering",
+      "https://andeplane.github.io/Raytracing/"
+    ]
+  ],
+  [
+    [
       "2026-06-03, 07:17:30",
       "https://news.ycombinator.com/item?id=48380932"
     ],
     [
       "Ten Years of Franz",
       "https://meetfranz.com/blog/ten-years-of-franz"
-    ]
-  ],
-  [
-    [
-      "2026-06-02, 18:12:21",
-      "https://news.ycombinator.com/item?id=48373954"
-    ],
-    [
-      "No Let, No Rec, No Problem: A Gentler Introduction to the Y and Z Combinators",
-      "https://irfanali.org/blog/zcom"
     ]
   ],
   [
