@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-06, 19:17:46",
+      "https://news.ycombinator.com/item?id=48428025"
+    ],
+    [
+      "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
+      "https://ntsc.rs/"
+    ]
+  ],
+  [
+    [
       "2026-06-06, 18:35:27",
       "https://news.ycombinator.com/item?id=48427643"
     ],
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2026-06-06, 12:03:21",
-      "https://news.ycombinator.com/item?id=48424125"
-    ],
-    [
-      "The new bibliomaniacs",
-      "https://engelsbergideas.com/notebook/the-new-bibliomaniacs/"
-    ]
-  ],
-  [
-    [
       "2026-06-06, 12:00:56",
       "https://news.ycombinator.com/item?id=48424103"
     ],
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2026-06-05, 15:59:57",
-      "https://news.ycombinator.com/item?id=48414367"
-    ],
-    [
-      "pg_durable: Microsoft open sources in-database durable execution",
-      "https://github.com/microsoft/pg_durable"
-    ]
-  ],
-  [
-    [
       "2026-06-05, 15:04:03",
       "https://news.ycombinator.com/item?id=48413500"
     ],
@@ -237,6 +227,16 @@
     [
       "Summer of '85: DOSBOS is rejected by ANALOG Computing",
       "https://www.goto10retro.com/p/summer-of-85-dosbos-is-rejected-by"
+    ]
+  ],
+  [
+    [
+      "2026-06-04, 10:03:15",
+      "https://news.ycombinator.com/item?id=48396417"
+    ],
+    [
+      "Lambda isn't leaking memory, your metrics are lying to you",
+      "https://engineering.taktile.com/blog/onnx-memory-usage-on-lambda/"
     ]
   ],
   [
