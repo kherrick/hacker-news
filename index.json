@@ -1,6 +1,66 @@
 [
   [
     [
+      "2026-06-06, 12:00:56",
+      "https://news.ycombinator.com/item?id=48424103"
+    ],
+    [
+      "Mbodi AI (YC P25) Is Hiring Founding Machine Learning Engineer (Robotics)",
+      "https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer"
+    ]
+  ],
+  [
+    [
+      "2026-06-06, 12:00:06",
+      "https://news.ycombinator.com/item?id=48424098"
+    ],
+    [
+      "There's still no point in gigabit broadband",
+      "https://shkspr.mobi/blog/2026/06/theres-still-no-point-in-gigabit-broadband/"
+    ]
+  ],
+  [
+    [
+      "2026-06-06, 10:52:25",
+      "https://news.ycombinator.com/item?id=48423615"
+    ],
+    [
+      "Introduction – Rust for Python Programmers",
+      "https://microsoft.github.io/RustTraining/python-book/"
+    ]
+  ],
+  [
+    [
+      "2026-06-06, 10:42:09",
+      "https://news.ycombinator.com/item?id=48423541"
+    ],
+    [
+      "Do Women's Mate Preferences Change Across the Ovulatory Cycle? A Meta-Analysis [pdf]",
+      "https://www.martiehaselton.com/_files/ugd/3ae410_aeb76edab75f457aae0c14c4c68d93c0.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-06-06, 10:16:01",
+      "https://news.ycombinator.com/item?id=48423381"
+    ],
+    [
+      "Is anyone here interested in contributing to this OS?",
+      "https://github.com/valivalivali/x-os"
+    ]
+  ],
+  [
+    [
+      "2026-06-06, 09:17:49",
+      "https://news.ycombinator.com/item?id=48422993"
+    ],
+    [
+      "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy",
+      "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/"
+    ]
+  ],
+  [
+    [
       "2026-06-06, 08:43:59",
       "https://news.ycombinator.com/item?id=48422798"
     ],
@@ -71,32 +131,12 @@
   ],
   [
     [
-      "2026-06-06, 02:31:51",
-      "https://news.ycombinator.com/item?id=48420827"
-    ],
-    [
-      "Ask HN: Why is the HN crowd so anti-AI?",
-      "https://news.ycombinator.com/item?id=48420827"
-    ]
-  ],
-  [
-    [
       "2026-06-06, 00:33:26",
       "https://news.ycombinator.com/item?id=48420148"
     ],
     [
       "The intracies of modern camera lens repair (2024)",
       "https://salvagedcircuitry.com/sigma-45mm.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-05, 23:13:12",
-      "https://news.ycombinator.com/item?id=48419571"
-    ],
-    [
-      "The perils of UUID primary keys in SQLite",
-      "https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html"
     ]
   ],
   [
@@ -131,16 +171,6 @@
   ],
   [
     [
-      "2026-06-05, 15:39:38",
-      "https://news.ycombinator.com/item?id=48414027"
-    ],
-    [
-      "Conventional Commits encourages focus on the wrong things",
-      "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/"
-    ]
-  ],
-  [
-    [
       "2026-06-05, 15:04:03",
       "https://news.ycombinator.com/item?id=48413500"
     ],
@@ -161,42 +191,12 @@
   ],
   [
     [
-      "2026-06-05, 14:44:44",
-      "https://news.ycombinator.com/item?id=48413254"
-    ],
-    [
-      "India's surprise baby bust",
-      "https://www.economist.com/leaders/2026/06/04/indias-surprise-baby-bust-is-a-warning-to-the-world"
-    ]
-  ],
-  [
-    [
-      "2026-06-05, 12:56:44",
-      "https://news.ycombinator.com/item?id=48411799"
-    ],
-    [
-      "The Quiet Numbers Station: Decoding Nineteen Years of GPS Cryptography",
-      "https://www.benthamsgaze.org/2026/06/02/the-quiet-numbers-station-decoding-nineteen-years-of-gps-cryptography/"
-    ]
-  ],
-  [
-    [
       "2026-06-05, 12:43:33",
       "https://news.ycombinator.com/item?id=48411635"
     ],
     [
       "Did Claude increase bugs in rsync?",
       "https://alexispurslane.github.io/rsync-analysis/"
-    ]
-  ],
-  [
-    [
-      "2026-06-05, 08:32:16",
-      "https://news.ycombinator.com/item?id=48409664"
-    ],
-    [
-      "Tracing a powerful GNSS interference source over Europe",
-      "https://arxiv.org/abs/2606.03673"
     ]
   ],
   [
@@ -217,6 +217,16 @@
     [
       "My Agent Skill for Test-Driven Development",
       "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-03, 23:29:45",
+      "https://news.ycombinator.com/item?id=48391541"
+    ],
+    [
+      "HISE – Toolkit for building VST plugins",
+      "https://hise.dev"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Raytracing Geometries in 3D Rendering",
       "https://andeplane.github.io/Raytracing/"
-    ]
-  ],
-  [
-    [
-      "2026-06-03, 08:29:46",
-      "https://news.ycombinator.com/item?id=48381399"
-    ],
-    [
-      "Exact UNORM8 to Float",
-      "https://fgiesen.wordpress.com/2024/11/06/exact-unorm8-to-float/"
     ]
   ],
   [
