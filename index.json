@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-06, 18:35:27",
+      "https://news.ycombinator.com/item?id=48427643"
+    ],
+    [
+      "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+      "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/"
+    ]
+  ],
+  [
+    [
+      "2026-06-06, 18:21:06",
+      "https://news.ycombinator.com/item?id=48427523"
+    ],
+    [
+      "Pentagon raised threat of Israeli spying on U.S. to highest level, sources say",
+      "https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565"
+    ]
+  ],
+  [
+    [
       "2026-06-06, 15:55:46",
       "https://news.ycombinator.com/item?id=48426202"
     ],
@@ -67,16 +87,6 @@
     [
       "Benchmarks in Leipzig",
       "https://arxiv.org/abs/2606.05818"
-    ]
-  ],
-  [
-    [
-      "2026-06-06, 13:40:22",
-      "https://news.ycombinator.com/item?id=48425031"
-    ],
-    [
-      "US House lawmakers release draft bill to prohibit state AI rules",
-      "https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/"
     ]
   ],
   [
@@ -161,6 +171,16 @@
   ],
   [
     [
+      "2026-06-06, 02:31:51",
+      "https://news.ycombinator.com/item?id=48420827"
+    ],
+    [
+      "Ask HN: Why is the HN crowd so anti-AI?",
+      "https://news.ycombinator.com/item?id=48420827"
+    ]
+  ],
+  [
+    [
       "2026-06-06, 00:33:26",
       "https://news.ycombinator.com/item?id=48420148"
     ],
@@ -171,32 +191,12 @@
   ],
   [
     [
-      "2026-06-05, 23:13:12",
-      "https://news.ycombinator.com/item?id=48419571"
-    ],
-    [
-      "The perils of UUID primary keys in SQLite",
-      "https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html"
-    ]
-  ],
-  [
-    [
       "2026-06-05, 20:52:56",
       "https://news.ycombinator.com/item?id=48418125"
     ],
     [
       "Tribute to Jiro Yamada, Automotive Artist (1960-2025) [video]",
       "https://www.youtube.com/watch?v=rJ2gQ5Md60U"
-    ]
-  ],
-  [
-    [
-      "2026-06-05, 16:18:48",
-      "https://news.ycombinator.com/item?id=48414653"
-    ],
-    [
-      "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
-      "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/"
     ]
   ],
   [
@@ -221,22 +221,32 @@
   ],
   [
     [
-      "2026-06-05, 15:00:31",
-      "https://news.ycombinator.com/item?id=48413464"
-    ],
-    [
-      "Astronauts told to return to ISS after sheltering over air leak repairs",
-      "https://www.bbc.com/news/live/c4g44ew3g1kt"
-    ]
-  ],
-  [
-    [
       "2026-06-04, 23:42:20",
       "https://news.ycombinator.com/item?id=48406174"
     ],
     [
       "Ask HN: What was your \"oh shit\" moment with GenAI?",
       "https://news.ycombinator.com/item?id=48406174"
+    ]
+  ],
+  [
+    [
+      "2026-06-04, 10:47:07",
+      "https://news.ycombinator.com/item?id=48396783"
+    ],
+    [
+      "Summer of '85: DOSBOS is rejected by ANALOG Computing",
+      "https://www.goto10retro.com/p/summer-of-85-dosbos-is-rejected-by"
+    ]
+  ],
+  [
+    [
+      "2026-06-04, 07:32:20",
+      "https://news.ycombinator.com/item?id=48395370"
+    ],
+    [
+      "WoofWare.PawPrint, a Deterministic .NET Runtime",
+      "https://www.patrickstevens.co.uk/posts/2026-06-04-announcing-woofware-pawprint/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Social Cache Busting",
       "https://www.autodidacts.io/social-cache-busting/"
-    ]
-  ],
-  [
-    [
-      "2026-06-01, 20:20:02",
-      "https://news.ycombinator.com/item?id=48362115"
-    ],
-    [
-      "Show HN: Soft Body Jiggle Physics",
-      "https://github.com/xloveee/jiggle-physics"
     ]
   ],
   [
