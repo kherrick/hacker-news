@@ -11,6 +11,7 @@
 * [2026-05-31, 20:38:52](https://news.ycombinator.com/item?id=48349507) - [New solar desalination breakthrough makes fresh water without toxic brine](https://www.sciencedaily.com/releases/2026/05/260530053418.htm)
 * [2026-05-31, 20:35:38](https://news.ycombinator.com/item?id=48349487) - [ChatGPT for Google Sheets Exfiltrates Workbooks](https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration)
 * [2026-05-31, 20:26:43](https://news.ycombinator.com/item?id=48349404) - [Patching my guitar amp's firmware](https://mforney.org/blog/2026-05-28-patching-my-guitar-amps-firmware.html)
+* [2026-05-31, 19:28:49](https://news.ycombinator.com/item?id=48348876) - [Building Rust Procedural Macros from the Grounds Up](https://www.learnix-os.com/ch02-03-implementing-the-bitfields-proc-macro.html)
 * [2026-05-31, 19:27:44](https://news.ycombinator.com/item?id=48348864) - ['Backrooms' Stuns with $81M Debut](https://variety.com/2026/film/box-office/backrooms-box-office-record-opening-weekend-obsession-jumps-star-wars-crumbles-1236763355/)
 * [2026-05-31, 19:14:23](https://news.ycombinator.com/item?id=48348737) - [The History of \"Prisencolinensinainciusol\"](https://dirkdeklein.net/2026/02/03/the-fascinating-history-of-prisencolinensinainciusol-the-nonsense-song-that-became-a-global-hit/)
 * [2026-05-31, 19:11:34](https://news.ycombinator.com/item?id=48348704) - [Steam Deck sells out in North America within 24 hours of price hike](https://arstechnica.com/gaming/2026/05/despite-price-hike-steam-deck-is-already-sold-out-in-north-america/)

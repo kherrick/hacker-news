@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-06-06](index.md)
 
+* [2026-06-06, 14:00:52](https://news.ycombinator.com/item?id=48425247) - [Benchmarks in Leipzig](https://arxiv.org/abs/2606.05818)
+* [2026-06-06, 12:15:59](https://news.ycombinator.com/item?id=48424252) - [Meta Keeps Delaying the Release of Its New AI Model to Developers](https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c)
+* [2026-06-06, 12:03:21](https://news.ycombinator.com/item?id=48424125) - [The new bibliomaniacs](https://engelsbergideas.com/notebook/the-new-bibliomaniacs/)
 * [2026-06-06, 12:00:56](https://news.ycombinator.com/item?id=48424103) - [Mbodi AI (YC P25) Is Hiring Founding Machine Learning Engineer (Robotics)](https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer)
 * [2026-06-06, 12:00:06](https://news.ycombinator.com/item?id=48424098) - [There's still no point in gigabit broadband](https://shkspr.mobi/blog/2026/06/theres-still-no-point-in-gigabit-broadband/)
+* [2026-06-06, 11:46:15](https://news.ycombinator.com/item?id=48423990) - [Google will pay SpaceX $920M per month for compute](https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/)
+* [2026-06-06, 11:12:58](https://news.ycombinator.com/item?id=48423762) - [Pokemon Emerald Ported to WebAssembly (100k FPS)](https://pokeemerald.com/)
 * [2026-06-06, 10:52:25](https://news.ycombinator.com/item?id=48423615) - [Introduction – Rust for Python Programmers](https://microsoft.github.io/RustTraining/python-book/)
 * [2026-06-06, 10:42:09](https://news.ycombinator.com/item?id=48423541) - [Do Women's Mate Preferences Change Across the Ovulatory Cycle? A Meta-Analysis [pdf]](https://www.martiehaselton.com/_files/ugd/3ae410_aeb76edab75f457aae0c14c4c68d93c0.pdf)
 * [2026-06-06, 10:16:01](https://news.ycombinator.com/item?id=48423381) - [Is anyone here interested in contributing to this OS?](https://github.com/valivalivali/x-os)
