@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-06-07, 22:41:36](https://news.ycombinator.com/item?id=48439348) - [Firefox Merges Support for Vulkan Video Decoding](https://www.phoronix.com/news/Firefox-Vulkan-Video-Merged)
 * [2026-06-07, 21:29:21](https://news.ycombinator.com/item?id=48438754) - [VibeOS: First ever AI-native operating system](https://vibeos.sh/)
-* [2026-06-07, 20:28:19](https://news.ycombinator.com/item?id=48438212) - [The architecture of the internet creates risks for democracy](https://www.science.org/doi/10.1126/science.aei2409)
-* [2026-06-07, 20:24:36](https://news.ycombinator.com/item?id=48438180) - [Show HN: Nightwatch, The open-source, read-only AI SRE](https://github.com/ninoxAI/nightwatch)
 * [2026-06-07, 19:41:20](https://news.ycombinator.com/item?id=48437848) - [Why isn't the U.S. better at soccer?](https://www.natesilver.net/p/why-isnt-the-us-better-at-soccer)
 * [2026-06-07, 19:01:37](https://news.ycombinator.com/item?id=48437609) - [How's Linear so fast? A technical breakdown](https://performance.dev/how-is-linear-so-fast-a-technical-breakdown)
 * [2026-06-07, 18:54:55](https://news.ycombinator.com/item?id=48437568) - [If LLMs Have Human-Like Attributes, Then So Does Age of Empires II](https://arxiv.org/abs/2605.31514)
@@ -26,6 +25,7 @@
 * [2026-06-05, 11:16:47](https://news.ycombinator.com/item?id=48410844) - [Win16 Memory Management](http://www.os2museum.com/wp/win16-memory-management/)
 * [2026-06-05, 08:08:33](https://news.ycombinator.com/item?id=48409474) - [What is the purpose of the lost+found folder in Linux and Unix? (2014)](https://unix.stackexchange.com/questions/18154/what-is-the-purpose-of-the-lostfound-folder-in-linux-and-unix)
 * [2026-06-05, 06:42:42](https://news.ycombinator.com/item?id=48408854) - [Show HN: I Derived a Pancake](https://www.absurdlyoptimized.com/recipes/pancakes/)
+* [2026-06-04, 20:19:39](https://news.ycombinator.com/item?id=48404070) - [Crashing cars and improving hover detection](https://motion.dev/magazine/collision-detection-in-hover-detection)
 * [2026-06-03, 21:22:23](https://news.ycombinator.com/item?id=48390269) - [Splash Is a Colour Format](https://www.todepond.com/lab/splash/)
 * [2026-06-03, 14:21:19](https://news.ycombinator.com/item?id=48384525) - [Do we fear the serializable isolation level more than we fear subtle bugs?](https://blog.ydb.tech/do-we-fear-the-serializable-isolation-level-more-than-we-fear-subtle-bugs-5a025401b609)
 * [2026-06-02, 13:52:34](https://news.ycombinator.com/item?id=48370278) - [Backrest – a web UI and orchestrator for restic backup](https://github.com/garethgeorge/backrest)

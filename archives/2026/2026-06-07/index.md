@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-07](index.md)
 
+* [2026-06-07, 22:41:36](https://news.ycombinator.com/item?id=48439348) - [Firefox Merges Support for Vulkan Video Decoding](https://www.phoronix.com/news/Firefox-Vulkan-Video-Merged)
 * [2026-06-07, 21:29:21](https://news.ycombinator.com/item?id=48438754) - [VibeOS: First ever AI-native operating system](https://vibeos.sh/)
 * [2026-06-07, 20:52:11](https://news.ycombinator.com/item?id=48438421) - [Flock license plate reader wrongly linked a San Diego man to a violent crime](https://timesofsandiego.com/crime/2026/06/07/a-flock-license-plate-reader-linked-a-san-diego-man-to-a-violent-crime-he-was-five-miles-away/)
 * [2026-06-07, 20:28:19](https://news.ycombinator.com/item?id=48438212) - [The architecture of the internet creates risks for democracy](https://www.science.org/doi/10.1126/science.aei2409)
