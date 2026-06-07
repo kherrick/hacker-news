@@ -51,6 +51,7 @@
 * [2026-06-05, 09:10:42](https://news.ycombinator.com/item?id=48409955) - [Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my LLM tokens](https://github.com/zdk/lowfat)
 * [2026-06-05, 08:33:37](https://news.ycombinator.com/item?id=48409675) - [Entanglement Builds Space-Time. Now \"Magic\" Gives It Gravity](https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/)
 * [2026-06-05, 08:32:16](https://news.ycombinator.com/item?id=48409664) - [Tracing a powerful GNSS interference source over Europe](https://arxiv.org/abs/2606.03673)
+* [2026-06-05, 08:08:33](https://news.ycombinator.com/item?id=48409474) - [What is the purpose of the lost+found folder in Linux and Unix? (2014)](https://unix.stackexchange.com/questions/18154/what-is-the-purpose-of-the-lostfound-folder-in-linux-and-unix)
 * [2026-06-05, 07:40:04](https://news.ycombinator.com/item?id=48409306) - [ESP32 Bit Pirate, a Hardware Hacking Tool with WebCLI That Speaks Every Protocol](https://github.com/geo-tp/ESP32-Bit-Pirate)
 * [2026-06-05, 07:26:33](https://news.ycombinator.com/item?id=48409191) - [Changing How We Develop Ladybird](https://ladybird.org/posts/changing-how-we-develop-ladybird/)
 * [2026-06-05, 07:23:44](https://news.ycombinator.com/item?id=48409173) - [Lee Kuan Yew's Singapore Story](https://www.historytoday.com/archive/feature/lee-kuan-yews-singapore-story)
