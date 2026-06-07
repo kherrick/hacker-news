@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-06-07](index.md)
 
+* [2026-06-07, 20:52:11](https://news.ycombinator.com/item?id=48438421) - [Flock license plate reader wrongly linked a San Diego man to a violent crime](https://timesofsandiego.com/crime/2026/06/07/a-flock-license-plate-reader-linked-a-san-diego-man-to-a-violent-crime-he-was-five-miles-away/)
+* [2026-06-07, 20:28:19](https://news.ycombinator.com/item?id=48438212) - [The architecture of the internet creates risks for democracy](https://www.science.org/doi/10.1126/science.aei2409)
 * [2026-06-07, 19:41:20](https://news.ycombinator.com/item?id=48437848) - [Why isn't the U.S. better at soccer?](https://www.natesilver.net/p/why-isnt-the-us-better-at-soccer)
 * [2026-06-07, 19:01:37](https://news.ycombinator.com/item?id=48437609) - [How's Linear so fast? A technical breakdown](https://performance.dev/how-is-linear-so-fast-a-technical-breakdown)
+* [2026-06-07, 18:54:55](https://news.ycombinator.com/item?id=48437568) - [If LLMs Have Human-Like Attributes, Then So Does Age of Empires II](https://arxiv.org/abs/2605.31514)
 * [2026-06-07, 18:37:17](https://news.ycombinator.com/item?id=48437450) - [The curious case of low-protein diets](https://knowablemagazine.org/content/article/living-world/2026/low-protein-diet-animals-live-longer)
 * [2026-06-07, 18:36:36](https://news.ycombinator.com/item?id=48437442) - [Leiden Declaration on Artificial Intelligence and Mathematics](https://www.lms.ac.uk/news/leiden-declaration-on-ai-and-mathematics)
 * [2026-06-07, 18:33:07](https://news.ycombinator.com/item?id=48437406) - [Building from Zero After Addiction, Prison, and a Felony](https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony)
