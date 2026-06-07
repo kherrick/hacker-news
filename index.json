@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-06-07, 00:50:13",
+      "https://news.ycombinator.com/item?id=48430693"
+    ],
+    [
+      "Show HN: DomainTasker – avoid losing domains and surprise renewals",
+      "https://domaintasker.com/"
+    ]
+  ],
+  [
+    [
+      "2026-06-07, 00:22:51",
+      "https://news.ycombinator.com/item?id=48430539"
+    ],
+    [
+      "Public Domain Image Archive",
+      "https://pdimagearchive.org/"
+    ]
+  ],
+  [
+    [
+      "2026-06-06, 23:20:01",
+      "https://news.ycombinator.com/item?id=48430070"
+    ],
+    [
+      "Context Sculpting",
+      "https://perceptiontheory.bearblog.dev/context-sculpting/"
+    ]
+  ],
+  [
+    [
+      "2026-06-06, 23:06:06",
+      "https://news.ycombinator.com/item?id=48429957"
+    ],
+    [
+      "Show HN: Keybench – Scriptable, extensible performance tool for key value stores",
+      "https://github.com/guycipher/keybench"
+    ]
+  ],
+  [
+    [
       "2026-06-06, 20:35:40",
       "https://news.ycombinator.com/item?id=48428763"
     ],
@@ -181,36 +221,6 @@
   ],
   [
     [
-      "2026-06-06, 04:38:36",
-      "https://news.ycombinator.com/item?id=48421442"
-    ],
-    [
-      "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
-      "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/"
-    ]
-  ],
-  [
-    [
-      "2026-06-06, 02:31:51",
-      "https://news.ycombinator.com/item?id=48420827"
-    ],
-    [
-      "Ask HN: Why is the HN crowd so anti-AI?",
-      "https://news.ycombinator.com/item?id=48420827"
-    ]
-  ],
-  [
-    [
-      "2026-06-06, 00:33:26",
-      "https://news.ycombinator.com/item?id=48420148"
-    ],
-    [
-      "The intracies of modern camera lens repair (2024)",
-      "https://salvagedcircuitry.com/sigma-45mm.html"
-    ]
-  ],
-  [
-    [
       "2026-06-05, 20:06:36",
       "https://news.ycombinator.com/item?id=48417490"
     ],
@@ -221,12 +231,22 @@
   ],
   [
     [
-      "2026-06-05, 14:01:57",
-      "https://news.ycombinator.com/item?id=48412708"
+      "2026-06-05, 18:20:06",
+      "https://news.ycombinator.com/item?id=48416264"
     ],
     [
-      "How to make firecracker faster to start Chromium in < 20ms",
-      "https://www.kernel.sh/blog/firecracker-faster"
+      "Harness engineering: Leveraging Codex in an agent-first world",
+      "https://openai.com/index/harness-engineering/"
+    ]
+  ],
+  [
+    [
+      "2026-06-05, 00:58:15",
+      "https://news.ycombinator.com/item?id=48406729"
+    ],
+    [
+      "Unicode Fonts and Tools for X11",
+      "https://www.cl.cam.ac.uk/~mgk25/ucs-fonts.html"
     ]
   ],
   [
@@ -241,6 +261,16 @@
   ],
   [
     [
+      "2026-06-04, 22:58:48",
+      "https://news.ycombinator.com/item?id=48405815"
+    ],
+    [
+      "Introducing Boron Buckyballs: Theory that B80 cages can’t be made is disproved",
+      "https://cen.acs.org/materials/nanomaterials/buckyballs-boron-buckminster-fullerene-nanomaterials/104/web/2026/06"
+    ]
+  ],
+  [
+    [
       "2026-06-04, 10:47:07",
       "https://news.ycombinator.com/item?id=48396783"
     ],
@@ -251,22 +281,12 @@
   ],
   [
     [
-      "2026-06-04, 07:32:20",
-      "https://news.ycombinator.com/item?id=48395370"
+      "2026-06-03, 18:48:13",
+      "https://news.ycombinator.com/item?id=48388101"
     ],
     [
-      "WoofWare.PawPrint, a Deterministic .NET Runtime",
-      "https://www.patrickstevens.co.uk/posts/2026-06-04-announcing-woofware-pawprint/"
-    ]
-  ],
-  [
-    [
-      "2026-06-02, 20:27:26",
-      "https://news.ycombinator.com/item?id=48375776"
-    ],
-    [
-      "Static Devirtualization of Themida",
-      "https://back.engineering/blog/09/05/2026/"
+      "How Other Link Checkers Do Recursion",
+      "https://endler.dev/2026/how-other-link-checkers-recurse/"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Show HN: Infinite canvas notes in the non-Euclidean Poincaré disk",
       "https://uonr.github.io/poincake/"
-    ]
-  ],
-  [
-    [
-      "2026-06-01, 15:39:29",
-      "https://news.ycombinator.com/item?id=48358339"
-    ],
-    [
-      "PyTorch Custom Operation",
-      "https://leimao.github.io/blog/PyTorch-Custom-Operation/"
-    ]
-  ],
-  [
-    [
-      "2026-05-31, 19:28:49",
-      "https://news.ycombinator.com/item?id=48348876"
-    ],
-    [
-      "Building Rust Procedural Macros from the Grounds Up",
-      "https://www.learnix-os.com/ch02-03-implementing-the-bitfields-proc-macro.html"
     ]
   ]
 ]
