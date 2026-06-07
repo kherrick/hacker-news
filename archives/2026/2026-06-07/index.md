@@ -4,5 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-06-07](index.md)
 
+* [2026-06-07, 05:47:54](https://news.ycombinator.com/item?id=48432199) - [The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners](https://www.ioccc.org/2025/)
+* [2026-06-07, 05:04:24](https://news.ycombinator.com/item?id=48431981) - [I design with Claude more than Figma now](https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/)
+* [2026-06-07, 04:57:02](https://news.ycombinator.com/item?id=48431952) - [The circus freaks of open source](https://drewdevault.com/blog/Circus-freaks-of-FOSS/)
+* [2026-06-07, 03:21:52](https://news.ycombinator.com/item?id=48431461) - [Valve P2P networking broken for more than 2 months](https://github.com/ValveSoftware/GameNetworkingSockets/issues/398)
+* [2026-06-07, 02:46:37](https://news.ycombinator.com/item?id=48431286) - [Field of clones: How horse replicas came to dominate polo](https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses)
+* [2026-06-07, 02:42:24](https://news.ycombinator.com/item?id=48431257) - [Show HN: TakoVM – Isolated model and tool execution used by enterprises](https://github.com/las7/TakoVM)
+* [2026-06-07, 02:12:19](https://news.ycombinator.com/item?id=48431085) - [How Liminalism Became the Defining Aesthetic of Our Time](https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/)
+* [2026-06-07, 02:11:29](https://news.ycombinator.com/item?id=48431079) - [Show HN: Oproxy – inspect and modify network traffic from the browser](https://github.com/sauravrao637/oproxy)
+* [2026-06-07, 01:37:11](https://news.ycombinator.com/item?id=48430923) - [Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering](https://arxiv.org/abs/2601.14470)
+* [2026-06-07, 01:24:15](https://news.ycombinator.com/item?id=48430860) - [An Ohio Valley 100k-Watt FM Signal Is Severed in Broad Daylight – Radio World](https://www.radioworld.com/news-and-business/headlines/an-ohio-valley-100000-watt-fm-signal-is-severed-in-broad-daylight)
 * [2026-06-07, 00:50:13](https://news.ycombinator.com/item?id=48430693) - [Show HN: DomainTasker – avoid losing domains and surprise renewals](https://domaintasker.com/)
 * [2026-06-07, 00:22:51](https://news.ycombinator.com/item?id=48430539) - [Public Domain Image Archive](https://pdimagearchive.org/)

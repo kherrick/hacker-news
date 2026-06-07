@@ -12,6 +12,7 @@
 * [2026-06-03, 21:22:23](https://news.ycombinator.com/item?id=48390269) - [Splash Is a Colour Format](https://www.todepond.com/lab/splash/)
 * [2026-06-03, 20:39:34](https://news.ycombinator.com/item?id=48389681) - [Ableton Extensions SDK](https://www.ableton.com/en/live/extensions/)
 * [2026-06-03, 20:32:10](https://news.ycombinator.com/item?id=48389586) - [Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph)](https://github.com/zaydmulani09/mnemo)
+* [2026-06-03, 20:16:07](https://news.ycombinator.com/item?id=48389368) - [My Software North Star](https://kristoff.it/blog/north-star/)
 * [2026-06-03, 20:15:13](https://news.ycombinator.com/item?id=48389360) - [How LLMs work](https://www.0xkato.xyz/how-llms-actually-work/)
 * [2026-06-03, 20:08:33](https://news.ycombinator.com/item?id=48389284) - [A Man Who Reads Books for a Living (One Every Two Days)](https://lithub.com/the-man-who-reads-books-for-a-living-one-every-two-days/)
 * [2026-06-03, 19:43:37](https://news.ycombinator.com/item?id=48388909) - [Self-hosted dev sandboxes with preview URLs (Docker, Go, no K8s)](https://github.com/tastyeffectco/sandboxes)

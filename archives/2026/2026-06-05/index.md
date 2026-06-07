@@ -18,6 +18,7 @@
 * [2026-06-05, 18:30:31](https://news.ycombinator.com/item?id=48416392) - [Aging and Eye Problems](https://ldstephens.net/posts/aging-and-eye-problems/)
 * [2026-06-05, 18:20:06](https://news.ycombinator.com/item?id=48416264) - [Harness engineering: Leveraging Codex in an agent-first world](https://openai.com/index/harness-engineering/)
 * [2026-06-05, 17:27:39](https://news.ycombinator.com/item?id=48415633) - [Sakana AI's Recursive Self-Improvement (RSI) Lab](https://sakana.ai/rsi-lab/)
+* [2026-06-05, 17:13:59](https://news.ycombinator.com/item?id=48415457) - [Symbolica 2.0: Programmable Symbols for Python and Rust](https://symbolica.io/posts/symbolica_2_0_release/)
 * [2026-06-05, 17:00:06](https://news.ycombinator.com/item?id=48415279) - [Adyen Selected as Payment Services Provider for GOV.UK Pay](https://www.adyen.com/press-and-media/adyen-payments-gov-uk)
 * [2026-06-05, 16:55:30](https://news.ycombinator.com/item?id=48415217) - [Gov.uk goes Dutch on payments as it dumps Stripe](https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763)
 * [2026-06-05, 16:39:57](https://news.ycombinator.com/item?id=48414978) - [Mantine-datatable (and others) compromised – owner account suspended](https://github.com/icflorescu/mantine-datatable/discussions/813)

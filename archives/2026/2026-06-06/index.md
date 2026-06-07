@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-06](index.md)
 
+* [2026-06-06, 23:45:36](https://news.ycombinator.com/item?id=48430282) - [Human-Like Neural Nets by Catapulting](https://gwern.net/llm-catapult)
 * [2026-06-06, 23:20:01](https://news.ycombinator.com/item?id=48430070) - [Context Sculpting](https://perceptiontheory.bearblog.dev/context-sculpting/)
 * [2026-06-06, 23:06:06](https://news.ycombinator.com/item?id=48429957) - [Show HN: Keybench – Scriptable, extensible performance tool for key value stores](https://github.com/guycipher/keybench)
 * [2026-06-06, 20:39:21](https://news.ycombinator.com/item?id=48428796) - [Universal Memory Protocol – a shared format for agent memory](https://universalmemoryprotocol.io/)
