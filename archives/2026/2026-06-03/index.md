@@ -19,6 +19,7 @@
 * [2026-06-03, 19:30:12](https://news.ycombinator.com/item?id=48388710) - [Building iOS Apps with Doom Emacs](https://wassimans.com/blog/building-ios-apps-with-doom-emacs/)
 * [2026-06-03, 19:02:26](https://news.ycombinator.com/item?id=48388324) - [Elixir v1.20: Now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/)
 * [2026-06-03, 18:58:05](https://news.ycombinator.com/item?id=48388253) - [Rootshell: A new E2EE email service hosted in Iceland](https://rootshell.is)
+* [2026-06-03, 18:48:13](https://news.ycombinator.com/item?id=48388101) - [How Other Link Checkers Do Recursion](https://endler.dev/2026/how-other-link-checkers-recurse/)
 * [2026-06-03, 17:51:37](https://news.ycombinator.com/item?id=48387270) - [Artificial intelligence is not conscious – Ted Chiang](https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/)
 * [2026-06-03, 17:50:16](https://news.ycombinator.com/item?id=48387251) - [Embryos shape their limbs: a key discovery of \"genetic brakes\"](https://nouvelles.umontreal.ca/en/article/2026/06/02/how-embryos-shape-their-limbs-a-key-discovery-of-genetic-brakes)
 * [2026-06-03, 17:43:00](https://news.ycombinator.com/item?id=48387144) - [Bot vs human traffic](https://radar.cloudflare.com/traffic#bot-vs-human)

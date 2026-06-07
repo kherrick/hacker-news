@@ -8,6 +8,7 @@
 * [2026-06-04, 23:42:20](https://news.ycombinator.com/item?id=48406174) - [Ask HN: What was your \"oh shit\" moment with GenAI?](https://news.ycombinator.com/item?id=48406174)
 * [2026-06-04, 23:11:56](https://news.ycombinator.com/item?id=48405931) - [Do transformers need three projections? Systematic study of QKV variants](https://arxiv.org/abs/2606.04032)
 * [2026-06-04, 23:01:40](https://news.ycombinator.com/item?id=48405841) - [Latent Agents: A Post-Training Procedure for Internalized Multi-Agent Debate](https://arxiv.org/abs/2604.24881)
+* [2026-06-04, 22:58:48](https://news.ycombinator.com/item?id=48405815) - [Introducing Boron Buckyballs: Theory that B80 cages can’t be made is disproved](https://cen.acs.org/materials/nanomaterials/buckyballs-boron-buckminster-fullerene-nanomaterials/104/web/2026/06)
 * [2026-06-04, 22:48:19](https://news.ycombinator.com/item?id=48405718) - [SpaceX, Other Mega IPOs Denied Fast Index Entry by S&P](https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation)
 * [2026-06-04, 22:06:18](https://news.ycombinator.com/item?id=48405264) - [Show HN: Formally verified polygon intersection – Opus 4.8 oneshots, prev failed](https://github.com/schildep/verified-polygon-intersection)
 * [2026-06-04, 21:42:34](https://news.ycombinator.com/item?id=48405019) - [IPv6 zones in URLs are a mistake](https://xeiaso.net/notes/2026/ipv6-zones-go-url/)

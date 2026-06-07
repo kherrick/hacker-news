@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-06](index.md)
 
+* [2026-06-06, 23:20:01](https://news.ycombinator.com/item?id=48430070) - [Context Sculpting](https://perceptiontheory.bearblog.dev/context-sculpting/)
+* [2026-06-06, 23:06:06](https://news.ycombinator.com/item?id=48429957) - [Show HN: Keybench – Scriptable, extensible performance tool for key value stores](https://github.com/guycipher/keybench)
 * [2026-06-06, 20:39:21](https://news.ycombinator.com/item?id=48428796) - [Universal Memory Protocol – a shared format for agent memory](https://universalmemoryprotocol.io/)
 * [2026-06-06, 20:35:40](https://news.ycombinator.com/item?id=48428763) - [New U.S. college grads now have higher unemployment than the average worker](https://www.randalolson.com/2026/06/04/recent-grad-unemployment-flip/)
 * [2026-06-06, 20:24:29](https://news.ycombinator.com/item?id=48428647) - [Computex 2026: Are We Heading for the Agentic PC Era Yet? – EE Times](https://www.eetimes.com/computex-2026-are-we-heading-for-the-agentic-pc-era-yet/)
