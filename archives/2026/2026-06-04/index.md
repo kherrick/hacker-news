@@ -31,6 +31,7 @@
 * [2026-06-04, 16:07:21](https://news.ycombinator.com/item?id=48400653) - [Do the Hardest Thing](https://justinjackson.ca/hard-thing)
 * [2026-06-04, 16:02:35](https://news.ycombinator.com/item?id=48400588) - [Retro-Tech Parenting](https://havenweb.org/2026/05/28/retro-tech.html)
 * [2026-06-04, 15:37:16](https://news.ycombinator.com/item?id=48400242) - [Several injured in Boeing 787 nose-gear collapse in Frankfurt](https://www.reuters.com/business/aerospace-defense/lufthansa-787-jet-suffers-front-wheel-collapse-frankfurt-gate-2026-06-04/)
+* [2026-06-04, 15:29:53](https://news.ycombinator.com/item?id=48400151) - [Speculative KV coding: losslessly compressing KV cache by up to ~4×](https://fergusfinn.com/blog/kv-entropy-coder/)
 * [2026-06-04, 15:18:00](https://news.ycombinator.com/item?id=48399974) - [KVarN: Native vLLM backend for KV-cache quantization by Huawei](https://github.com/huawei-csl/KVarN)
 * [2026-06-04, 14:48:44](https://news.ycombinator.com/item?id=48399528) - [AI, Ashby Engineering, and the future](https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future)
 * [2026-06-04, 14:38:35](https://news.ycombinator.com/item?id=48399358) - [Show HN: Boxes.dev: ditch localhost; run Claude Code and Codex in the cloud](https://boxes.dev)
