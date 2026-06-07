@@ -129,24 +129,21 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="48438421">
+        <section id="48438754">
           <h3>
-            <a
-              class="item"
-              href="https://timesofsandiego.com/crime/2026/06/07/a-flock-license-plate-reader-linked-a-san-diego-man-to-a-violent-crime-he-was-five-miles-away/"
-              >Flock license plate reader wrongly linked a San Diego man to a
-              violent crime</a
+            <a class="item" href="https://vibeos.sh/"
+              >VibeOS: First ever AI-native operating system</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-06-07 @ 20:52:11</span
+              <span>2026-06-07 @ 21:29:21</span
               ><span class="points-container"
-                >Points: <span class="points">64</span></span
+                >Points: <span class="points">19</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48438421"
+                ><a href="https://news.ycombinator.com/item?id=48438754"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
           </section>
@@ -163,11 +160,94 @@
             <h4>
               <span>2026-06-07 @ 20:28:19</span
               ><span class="points-container"
-                >Points: <span class="points">67</span></span
+                >Points: <span class="points">72</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48438212"
                   >Comments</a
-                ><span class="descendants">: 83</span></span
+                ><span class="descendants">: 101</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48438180">
+          <h3>
+            <a class="item" href="https://github.com/ninoxAI/nightwatch"
+              >Show HN: Nightwatch, The open-source, read-only AI SRE</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-06-07 @ 20:24:36</span
+              ><span class="points-container"
+                >Points: <span class="points">4</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48438180"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                the reason for this weekend project is that we had a kubernetes
+                upgrade that went wrong, and at some point a rollback wasn't
+                possible anymore, so it had to be fixed live during the night
+                while several problems came together. We run a lot of different
+                systems, on-prem and several Kubernetes clusters, and in a
+                situation like that you spend most of the time just figuring out
+                what is actually broken and where.
+              </p>
+              <p>
+                So i thought that it would be pretty cool to have eyes in the
+                dark in each system that can talk to your "brain".
+              </p>
+              <p>
+                so the idea is to put a baby owl into each environment. Each owl
+                runs where the systems live, keeps that environment's
+                credentials local, and only dials outbound to a central brain,
+                so there is no inbound hole into prod. It exposes a set of
+                read-only skills, and the agent uses them to gather evidence and
+                form a root-cause hypothesis, so the on-call engineer starts
+                with a head start instead of from zero.
+              </p>
+              <p>
+                read-only for now, i don't trust it near prod yet and honestly
+                neither should you.
+              </p>
+              <p>
+                llocal-first for easy self-hosting and to keep credentials on
+                your side. the clustering and recommendations run fully offline
+                with no llm at all. the agent needs a tool-calling llm, you can
+                point it at a remote one, or self-host one (ollama etc.) if you
+                want to stay fully offline.
+              </p>
+              <p>
+                for non selfhosters: before every remote llm call, nightwatch
+                strips real secrets (unrestorable) and swaps identifiers like
+                ips, hostnames and paths for reversible placeholders, so the
+                model only sees masked data while real values are restored only
+                in the proposed commands and tool calls
+              </p>
+              <p>Would love if you try it in your Systems</p>
+            </div>
+          </section>
+        </section>
+        <section id="48437848">
+          <h3>
+            <a
+              class="item"
+              href="https://www.natesilver.net/p/why-isnt-the-us-better-at-soccer"
+              >Why isn't the U.S. better at soccer?</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-06-07 @ 19:41:20</span
+              ><span class="points-container"
+                >Points: <span class="points">53</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48437848"
+                  >Comments</a
+                ><span class="descendants">: 127</span></span
               >
             </h4>
           </section>
@@ -184,11 +264,11 @@
             <h4>
               <span>2026-06-07 @ 19:01:37</span
               ><span class="points-container"
-                >Points: <span class="points">216</span></span
+                >Points: <span class="points">249</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48437609"
                   >Comments</a
-                ><span class="descendants">: 112</span></span
+                ><span class="descendants">: 132</span></span
               >
             </h4>
           </section>
@@ -204,32 +284,11 @@
             <h4>
               <span>2026-06-07 @ 18:54:55</span
               ><span class="points-container"
-                >Points: <span class="points">72</span></span
+                >Points: <span class="points">88</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48437568"
                   >Comments</a
-                ><span class="descendants">: 48</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48437450">
-          <h3>
-            <a
-              class="item"
-              href="https://knowablemagazine.org/content/article/living-world/2026/low-protein-diet-animals-live-longer"
-              >The curious case of low-protein diets</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-06-07 @ 18:37:17</span
-              ><span class="points-container"
-                >Points: <span class="points">41</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48437450"
-                  >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 80</span></span
               >
             </h4>
           </section>
@@ -246,11 +305,11 @@
             <h4>
               <span>2026-06-07 @ 18:33:07</span
               ><span class="points-container"
-                >Points: <span class="points">246</span></span
+                >Points: <span class="points">296</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48437406"
                   >Comments</a
-                ><span class="descendants">: 124</span></span
+                ><span class="descendants">: 148</span></span
               >
             </h4>
           </section>
@@ -265,11 +324,11 @@
             <h4>
               <span>2026-06-07 @ 18:17:40</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">47</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48437305"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -286,11 +345,11 @@
             <h4>
               <span>2026-06-07 @ 18:15:47</span
               ><span class="points-container"
-                >Points: <span class="points">96</span></span
+                >Points: <span class="points">113</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48437290"
                   >Comments</a
-                ><span class="descendants">: 43</span></span
+                ><span class="descendants">: 49</span></span
               >
             </h4>
           </section>
@@ -305,11 +364,11 @@
             <h4>
               <span>2026-06-07 @ 18:14:11</span
               ><span class="points-container"
-                >Points: <span class="points">26</span></span
+                >Points: <span class="points">31</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48437279"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -327,11 +386,11 @@
             <h4>
               <span>2026-06-07 @ 17:22:28</span
               ><span class="points-container"
-                >Points: <span class="points">105</span></span
+                >Points: <span class="points">111</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48436863"
                   >Comments</a
-                ><span class="descendants">: 36</span></span
+                ><span class="descendants">: 42</span></span
               >
             </h4>
           </section>
@@ -349,7 +408,7 @@
             <h4>
               <span>2026-06-07 @ 17:18:12</span
               ><span class="points-container"
-                >Points: <span class="points">63</span></span
+                >Points: <span class="points">67</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48436819"
                   >Comments</a
@@ -375,6 +434,28 @@
             </h4>
           </section>
         </section>
+        <section id="48436246">
+          <h3>
+            <a
+              class="item"
+              href="https://www.bbc.com/news/articles/c8e8e7g0r82o"
+              >The gamers taking on the industry to stop it switching off
+              games</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-06-07 @ 16:16:54</span
+              ><span class="points-container"
+                >Points: <span class="points">101</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48436246"
+                  >Comments</a
+                ><span class="descendants">: 114</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="48434963">
           <h3>
             <a
@@ -387,30 +468,11 @@
             <h4>
               <span>2026-06-07 @ 14:01:27</span
               ><span class="points-container"
-                >Points: <span class="points">86</span></span
+                >Points: <span class="points">92</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48434963"
                   >Comments</a
                 ><span class="descendants">: 6</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48434906">
-          <h3>
-            <a class="item" href="https://gitlab.com/cznic/sqlite"
-              >sqlite: A CGo-free port of SQLite/SQLite3</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-06-07 @ 13:53:27</span
-              ><span class="points-container"
-                >Points: <span class="points">38</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48434906"
-                  >Comments</a
-                ><span class="descendants">: 26</span></span
               >
             </h4>
           </section>
@@ -427,11 +489,33 @@
             <h4>
               <span>2026-06-07 @ 13:06:52</span
               ><span class="points-container"
-                >Points: <span class="points">416</span></span
+                >Points: <span class="points">433</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48434436"
                   >Comments</a
-                ><span class="descendants">: 239</span></span
+                ><span class="descendants">: 247</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48434312">
+          <h3>
+            <a
+              class="item"
+              href="https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/"
+              >LLMs are eroding my software engineering career and I don't know
+              what to do</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-06-07 @ 12:49:29</span
+              ><span class="points-container"
+                >Points: <span class="points">764</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48434312"
+                  >Comments</a
+                ><span class="descendants">: 731</span></span
               >
             </h4>
           </section>
@@ -447,7 +531,7 @@
             <h4>
               <span>2026-06-07 @ 11:16:46</span
               ><span class="points-container"
-                >Points: <span class="points">213</span></span
+                >Points: <span class="points">221</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48433756"
                   >Comments</a
@@ -521,26 +605,6 @@
             </div>
           </section>
         </section>
-        <section id="48432722">
-          <h3>
-            <a class="item" href="https://kyushu.dev/"
-              >Show HN: Kyushu – A self-hostable WASM sandbox for JavaScript
-              workers</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-06-07 @ 07:35:02</span
-              ><span class="points-container"
-                >Points: <span class="points">70</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48432722"
-                  >Comments</a
-                ><span class="descendants">: 28</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="48432199">
           <h3>
             <a class="item" href="https://www.ioccc.org/2025/"
@@ -552,30 +616,54 @@
             <h4>
               <span>2026-06-07 @ 05:47:54</span
               ><span class="points-container"
-                >Points: <span class="points">353</span></span
+                >Points: <span class="points">354</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48432199"
                   >Comments</a
-                ><span class="descendants">: 85</span></span
+                ><span class="descendants">: 86</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="48430539">
+        <section id="48431981">
           <h3>
-            <a class="item" href="https://pdimagearchive.org/"
-              >Public Domain Image Archive</a
+            <a
+              class="item"
+              href="https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/"
+              >I design with Claude more than Figma now</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-06-07 @ 00:22:51</span
+              <span>2026-06-07 @ 05:04:24</span
               ><span class="points-container"
-                >Points: <span class="points">236</span></span
+                >Points: <span class="points">245</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48430539"
+                ><a href="https://news.ycombinator.com/item?id=48431981"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 223</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48430860">
+          <h3>
+            <a
+              class="item"
+              href="https://www.radioworld.com/news-and-business/headlines/an-ohio-valley-100000-watt-fm-signal-is-severed-in-broad-daylight"
+              >An Ohio Valley 100k-watt FM signal is severed in broad
+              daylight</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-06-07 @ 01:24:15</span
+              ><span class="points-container"
+                >Points: <span class="points">136</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48430860"
+                  >Comments</a
+                ><span class="descendants">: 127</span></span
               >
             </h4>
           </section>
@@ -592,32 +680,11 @@
             <h4>
               <span>2026-06-06 @ 18:16:40</span
               ><span class="points-container"
-                >Points: <span class="points">92</span></span
+                >Points: <span class="points">99</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48427480"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48415457">
-          <h3>
-            <a
-              class="item"
-              href="https://symbolica.io/posts/symbolica_2_0_release/"
-              >Symbolica 2.0: Programmable Symbols for Python and Rust</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-06-05 @ 17:13:59</span
-              ><span class="points-container"
-                >Points: <span class="points">143</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48415457"
-                  >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -634,11 +701,11 @@
             <h4>
               <span>2026-06-05 @ 14:11:17</span
               ><span class="points-container"
-                >Points: <span class="points">21</span></span
+                >Points: <span class="points">24</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48412818"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -655,11 +722,11 @@
             <h4>
               <span>2026-06-05 @ 11:16:47</span
               ><span class="points-container"
-                >Points: <span class="points">125</span></span
+                >Points: <span class="points">126</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48410844"
                   >Comments</a
-                ><span class="descendants">: 64</span></span
+                ><span class="descendants">: 67</span></span
               >
             </h4>
           </section>
@@ -677,95 +744,72 @@
             <h4>
               <span>2026-06-05 @ 08:08:33</span
               ><span class="points-container"
-                >Points: <span class="points">101</span></span
+                >Points: <span class="points">116</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48409474"
                   >Comments</a
-                ><span class="descendants">: 37</span></span
+                ><span class="descendants">: 46</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="48408995">
+        <section id="48408854">
           <h3>
             <a
               class="item"
-              href="https://blog.safia.rocks/2025/12/22/ansi-codes/"
-              >There's no escaping it: an exploration of ANSI codes</a
+              href="https://www.absurdlyoptimized.com/recipes/pancakes/"
+              >Show HN: I Derived a Pancake</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-06-05 @ 07:02:14</span
+              <span>2026-06-05 @ 06:42:42</span
               ><span class="points-container"
-                >Points: <span class="points">28</span></span
+                >Points: <span class="points">67</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48408995"
+                ><a href="https://news.ycombinator.com/item?id=48408854"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
+            <div class="text">
+              <p>
+                You mark checkboxes for what you have on hand (ricotta, sour
+                cream, kefir, buttermilk, yogurt, cottage cheese, lemon, cream
+                of tartar, etc.) and it computes the best recipe based on
+                targets for acid, fat, salt, sugar, and CO2.
+              </p>
+              <p>
+                My particular favorite are the yeast-raised lemon ricotta kefir
+                pancakes - the best I've ever had.
+              </p>
+              <p>
+                The math is done in a small pure-ESM library: ingredient
+                composition to component masses and acid moles, a stoichiometry
+                layer, and a bisection solver for the target deficits.
+              </p>
+              <p>
+                I'm not a chemist, so if something is off, tell me and I will
+                fix it!
+              </p>
+            </div>
           </section>
         </section>
-        <section id="48400151">
+        <section id="48390269">
           <h3>
-            <a class="item" href="https://fergusfinn.com/blog/kv-entropy-coder/"
-              >Speculative KV coding: losslessly compressing KV cache by up to
-              ~4×</a
+            <a class="item" href="https://www.todepond.com/lab/splash/"
+              >Splash Is a Colour Format</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-06-04 @ 15:29:53</span
+              <span>2026-06-03 @ 21:22:23</span
               ><span class="points-container"
-                >Points: <span class="points">138</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48400151"
+                ><a href="https://news.ycombinator.com/item?id=48390269"
                   >Comments</a
-                ><span class="descendants">: 28</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48399223">
-          <h3>
-            <a
-              class="item"
-              href="https://signoregalilei.com/2026/05/31/youll-never-guess-who-made-the-first-wireless-telephone/"
-              >You'll never guess who made the first wireless telephone</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-06-04 @ 14:30:16</span
-              ><span class="points-container"
-                >Points: <span class="points">53</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48399223"
-                  >Comments</a
-                ><span class="descendants">: 9</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48398703">
-          <h3>
-            <a
-              class="item"
-              href="https://theamphour.com/725-the-secret-life-of-circuits-with-lcamtuf-michal-zalewski/"
-              >The Secret Life of Circuits with lcamtuf / Michał Zalewski (Audio
-              Interview)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-06-04 @ 13:55:39</span
-              ><span class="points-container"
-                >Points: <span class="points">60</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48398703"
-                  >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 62</span></span
               >
             </h4>
           </section>
@@ -783,11 +827,11 @@
             <h4>
               <span>2026-06-03 @ 14:21:19</span
               ><span class="points-container"
-                >Points: <span class="points">27</span></span
+                >Points: <span class="points">36</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48384525"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
@@ -802,11 +846,33 @@
             <h4>
               <span>2026-06-02 @ 13:52:34</span
               ><span class="points-container"
-                >Points: <span class="points">67</span></span
+                >Points: <span class="points">72</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48370278"
                   >Comments</a
                 ><span class="descendants">: 5</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48369703">
+          <h3>
+            <a
+              class="item"
+              href="https://www.tohoku.ac.jp/japanese/2026/05/press20260512-02-DMR.html"
+              >A Fundamental Principle of Aeronautical Engineering Has Been
+              Overturned</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-06-02 @ 13:01:48</span
+              ><span class="points-container"
+                >Points: <span class="points">18</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48369703"
+                  >Comments</a
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
