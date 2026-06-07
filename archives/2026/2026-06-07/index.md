@@ -4,9 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-06-07](index.md)
 
+* [2026-06-07, 14:47:17](https://news.ycombinator.com/item?id=48435371) - [The OnlyFans Economy of American AI](https://leoveanu.com/2026-06-06-qwen3.7max/)
+* [2026-06-07, 14:15:41](https://news.ycombinator.com/item?id=48435093) - [Netlify CTO Dana Lawson: Writing code is no longer the job](https://thenewstack.io/netlify-agent-experience-engineers/)
+* [2026-06-07, 13:06:52](https://news.ycombinator.com/item?id=48434436) - [Anthropic, please ship an official Claude Desktop for Linux](https://github.com/anthropics/claude-code/issues/65697)
 * [2026-06-07, 12:49:29](https://news.ycombinator.com/item?id=48434312) - [LLMs are eroding my software engineering career and I don't know what to do](https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/)
 * [2026-06-07, 12:34:27](https://news.ycombinator.com/item?id=48434204) - [Misguided Misstatements Continue to Dismantle Biomedical Research in the U.S.](https://diabetesjournals.org/care/article/49/6/901/164764/Misguided-Brushes-of-a-Pen-Continue-to-Dismantle)
 * [2026-06-07, 12:00:40](https://news.ycombinator.com/item?id=48433987) - [9 Mothers (YC P26) Is Hiring](https://9mothers.com/careers)
+* [2026-06-07, 11:55:05](https://news.ycombinator.com/item?id=48433962) - [The best relationships are all-encompassing.](https://andys.blog/the-best-relationships/)
+* [2026-06-07, 11:16:46](https://news.ycombinator.com/item?id=48433756) - [Show HN: Lathe – Use LLMs to learn a new domain, not skip past it](https://github.com/devenjarvis/lathe)
 * [2026-06-07, 10:10:33](https://news.ycombinator.com/item?id=48433410) - [Scientists ejected from diabetes conference for distributing journal reprints](https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/)
 * [2026-06-07, 09:43:45](https://news.ycombinator.com/item?id=48433305) - [Efficient and Training-Free Single-Image Diffusion Models](https://arxiv.org/abs/2606.04299)
 * [2026-06-07, 07:35:02](https://news.ycombinator.com/item?id=48432722) - [Show HN: Kyushu – A self-hostable WASM sandbox for JavaScript workers](https://kyushu.dev/)

@@ -12,6 +12,7 @@
 * [2026-06-05, 20:52:56](https://news.ycombinator.com/item?id=48418125) - [Tribute to Jiro Yamada, Automotive Artist (1960-2025) [video]](https://www.youtube.com/watch?v=rJ2gQ5Md60U)
 * [2026-06-05, 20:38:40](https://news.ycombinator.com/item?id=48417916) - [Hacker News, Sans AI](https://elijahpotter.dev/articles/hacker-news-sans-AI)
 * [2026-06-05, 20:06:36](https://news.ycombinator.com/item?id=48417490) - [Google to pay SpaceX $920M a month for compute capacity at xAI data centers](https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html)
+* [2026-06-05, 20:06:19](https://news.ycombinator.com/item?id=48417488) - [Partitions over Permutations](https://www.johndcook.com/blog/2026/06/04/partitions-over-permutations/)
 * [2026-06-05, 19:15:36](https://news.ycombinator.com/item?id=48416936) - [Accidentally deleted subscriptions for chat integrations (Slack and MS Teams)](https://www.githubstatus.com/incidents/2nmfnbknhlnv)
 * [2026-06-05, 19:08:12](https://news.ycombinator.com/item?id=48416845) - [Three of our worst VC stories](https://twitter.com/eastdakota/status/2062860530360959273)
 * [2026-06-05, 18:50:26](https://news.ycombinator.com/item?id=48416635) - [Transformers Are Inherently Succinct](https://openreview.net/pdf?id=Yxz92UuPLQ)
