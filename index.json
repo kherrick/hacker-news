@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-07, 15:08:10",
+      "https://news.ycombinator.com/item?id=48435584"
+    ],
+    [
+      "Vitamin D3 During Pregnancy and Cognitive Performance at 10 Years",
+      "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2849122"
+    ]
+  ],
+  [
+    [
       "2026-06-07, 14:47:17",
       "https://news.ycombinator.com/item?id=48435371"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2026-06-07, 14:15:41",
-      "https://news.ycombinator.com/item?id=48435093"
+      "2026-06-07, 14:01:27",
+      "https://news.ycombinator.com/item?id=48434963"
     ],
     [
-      "Netlify CTO Dana Lawson: Writing code is no longer the job",
-      "https://thenewstack.io/netlify-agent-experience-engineers/"
+      "Podman 6: machine usability improvements",
+      "https://blog.podman.io/2025/10/podman-6-machine-usability-improvements/"
     ]
   ],
   [
@@ -161,12 +171,12 @@
   ],
   [
     [
-      "2026-06-06, 14:34:20",
-      "https://news.ycombinator.com/item?id=48425528"
+      "2026-06-06, 18:16:40",
+      "https://news.ycombinator.com/item?id=48427480"
     ],
     [
-      "Moving beyond fork() + exec()",
-      "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/"
+      "Cloning a Sennheiser BA2015 battery pack",
+      "https://blog.brixit.nl/cloning-a-sennheiser-ba2015-accu-pack/"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Warren's Abstract Machine: A Tutorial Reconstruction",
       "https://github.com/a-yiorgos/wambook"
-    ]
-  ],
-  [
-    [
-      "2026-06-05, 20:06:19",
-      "https://news.ycombinator.com/item?id=48417488"
-    ],
-    [
-      "Partitions over Permutations",
-      "https://www.johndcook.com/blog/2026/06/04/partitions-over-permutations/"
     ]
   ],
   [
@@ -231,22 +231,22 @@
   ],
   [
     [
+      "2026-06-05, 07:02:14",
+      "https://news.ycombinator.com/item?id=48408995"
+    ],
+    [
+      "There's no escaping it: an exploration of ANSI codes",
+      "https://blog.safia.rocks/2025/12/22/ansi-codes/"
+    ]
+  ],
+  [
+    [
       "2026-06-05, 00:28:17",
       "https://news.ycombinator.com/item?id=48406530"
     ],
     [
       "Yon – a topos-oriented language with a content-addressed lattice heap",
       "https://yon-lang.org/"
-    ]
-  ],
-  [
-    [
-      "2026-06-04, 22:58:48",
-      "https://news.ycombinator.com/item?id=48405815"
-    ],
-    [
-      "Introducing Boron Buckyballs: Theory that B80 cages can’t be made is disproved",
-      "https://cen.acs.org/materials/nanomaterials/buckyballs-boron-buckminster-fullerene-nanomaterials/104/web/2026/06"
     ]
   ],
   [
