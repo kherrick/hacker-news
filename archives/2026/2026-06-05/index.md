@@ -57,6 +57,7 @@
 * [2026-06-05, 07:26:33](https://news.ycombinator.com/item?id=48409191) - [Changing How We Develop Ladybird](https://ladybird.org/posts/changing-how-we-develop-ladybird/)
 * [2026-06-05, 07:23:44](https://news.ycombinator.com/item?id=48409173) - [Lee Kuan Yew's Singapore Story](https://www.historytoday.com/archive/feature/lee-kuan-yews-singapore-story)
 * [2026-06-05, 07:02:14](https://news.ycombinator.com/item?id=48408995) - [There's no escaping it: an exploration of ANSI codes](https://blog.safia.rocks/2025/12/22/ansi-codes/)
+* [2026-06-05, 06:42:42](https://news.ycombinator.com/item?id=48408854) - [Show HN: I Derived a Pancake](https://www.absurdlyoptimized.com/recipes/pancakes/)
 * [2026-06-05, 05:46:06](https://news.ycombinator.com/item?id=48408442) - [Fine-tuning an LLM to write docs like it's 1995](https://passo.uno/fine-tuning-docs-llm/)
 * [2026-06-05, 04:44:48](https://news.ycombinator.com/item?id=48408067) - [The IsUpMap lets you check the status of over 100 major sites at once](https://isupmap.com/)
 * [2026-06-05, 04:37:01](https://news.ycombinator.com/item?id=48408016) - [C++: The Documentary](https://herbsutter.com/2026/06/04/c-the-documentary-released-today/)

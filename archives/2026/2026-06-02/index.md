@@ -61,6 +61,7 @@
 * [2026-06-02, 13:22:59](https://news.ycombinator.com/item?id=48369964) - [Life saving / first aid posters](https://news.ycombinator.com/item?id=48369964)
 * [2026-06-02, 13:15:18](https://news.ycombinator.com/item?id=48369864) - [Social Cache Busting](https://www.autodidacts.io/social-cache-busting/)
 * [2026-06-02, 13:15:14](https://news.ycombinator.com/item?id=48369863) - [Expanding Project Glasswing](https://www.anthropic.com/news/expanding-project-glasswing)
+* [2026-06-02, 13:01:48](https://news.ycombinator.com/item?id=48369703) - [A Fundamental Principle of Aeronautical Engineering Has Been Overturned](https://www.tohoku.ac.jp/japanese/2026/05/press20260512-02-DMR.html)
 * [2026-06-02, 12:35:20](https://news.ycombinator.com/item?id=48369416) - [Mornings and nights no longer exist at 47C: A day in the hottest place in India](https://www.bbc.co.uk/news/articles/crmp0krp98ro)
 * [2026-06-02, 12:02:36](https://news.ycombinator.com/item?id=48369105) - [Ohbin – uv wrapper for installing tools from GitHub](https://github.com/prostomarkeloff/ohbin)
 * [2026-06-02, 12:01:04](https://news.ycombinator.com/item?id=48369098) - [Great Question (YC W21) Is Hiring Applied AI Interns](https://www.ycombinator.com/companies/great-question/jobs/J5TNvQH-ai-engineer-intern)
