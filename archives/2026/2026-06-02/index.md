@@ -55,6 +55,7 @@
 * [2026-06-02, 14:06:52](https://news.ycombinator.com/item?id=48370437) - [AI Doesn't Have ROI](https://www.wheresyoured.at/ai-doesnt-have-roi/)
 * [2026-06-02, 13:56:46](https://news.ycombinator.com/item?id=48370330) - [Please don't spam people looking for employment. It's just cruel](https://news.ycombinator.com/item?id=48370330)
 * [2026-06-02, 13:53:52](https://news.ycombinator.com/item?id=48370291) - [Fidonet: Technology, Use, Tools, and History (1993)](https://www.fidonet.org/inet92_Randy_Bush.txt)
+* [2026-06-02, 13:52:34](https://news.ycombinator.com/item?id=48370278) - [Backrest – a web UI and orchestrator for restic backup](https://github.com/garethgeorge/backrest)
 * [2026-06-02, 13:39:29](https://news.ycombinator.com/item?id=48370144) - [Martin Scorsese Is Embracing A.I](https://www.nytimes.com/2026/06/02/business/media/martin-scorsese-artificial-intelligence.html)
 * [2026-06-02, 13:24:32](https://news.ycombinator.com/item?id=48369980) - [A walking tour of surveillance infrastructure in Seattle](https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/)
 * [2026-06-02, 13:22:59](https://news.ycombinator.com/item?id=48369964) - [Life saving / first aid posters](https://news.ycombinator.com/item?id=48369964)

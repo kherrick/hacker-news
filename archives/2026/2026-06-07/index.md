@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-06-07](index.md)
 
+* [2026-06-07, 17:18:12](https://news.ycombinator.com/item?id=48436819) - [Powering up a module from the IBM 604: an electronic calculator from 1948](https://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html)
+* [2026-06-07, 17:01:17](https://news.ycombinator.com/item?id=48436669) - [Proliferate (YC S25) is hiring to building open source Codex](https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer)
+* [2026-06-07, 16:16:54](https://news.ycombinator.com/item?id=48436246) - [The gamers taking on the industry to stop it switching off games](https://www.bbc.com/news/articles/c8e8e7g0r82o)
 * [2026-06-07, 15:08:10](https://news.ycombinator.com/item?id=48435584) - [Vitamin D3 During Pregnancy and Cognitive Performance at 10 Years](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2849122)
 * [2026-06-07, 14:47:17](https://news.ycombinator.com/item?id=48435371) - [The OnlyFans Economy of American AI](https://leoveanu.com/2026-06-06-qwen3.7max/)
 * [2026-06-07, 14:15:41](https://news.ycombinator.com/item?id=48435093) - [Netlify CTO Dana Lawson: Writing code is no longer the job](https://thenewstack.io/netlify-agent-experience-engineers/)
