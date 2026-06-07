@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-06-07, 18:36:36",
+      "https://news.ycombinator.com/item?id=48437442"
+    ],
+    [
+      "Leiden Declaration on Artificial Intelligence and Mathematics",
+      "https://www.lms.ac.uk/news/leiden-declaration-on-ai-and-mathematics"
+    ]
+  ],
+  [
+    [
+      "2026-06-07, 18:17:40",
+      "https://news.ycombinator.com/item?id=48437305"
+    ],
+    [
+      "My automated doubt development process",
+      "https://www.alexself.dev/blog/automated-doubt"
+    ]
+  ],
+  [
+    [
+      "2026-06-07, 17:22:28",
+      "https://news.ycombinator.com/item?id=48436863"
+    ],
+    [
+      "Silurus/ooxml: Pixel-faithful Office documents, rendered in the browser",
+      "https://github.com/yukiyokotani/office-open-xml-viewer"
+    ]
+  ],
+  [
+    [
       "2026-06-07, 17:18:12",
       "https://news.ycombinator.com/item?id=48436819"
     ],
@@ -45,8 +75,18 @@
       "https://news.ycombinator.com/item?id=48434963"
     ],
     [
-      "Podman 6: machine usability improvements",
+      "Podman 6: machine usability improvements (2025)",
       "https://blog.podman.io/2025/10/podman-6-machine-usability-improvements/"
+    ]
+  ],
+  [
+    [
+      "2026-06-07, 13:53:27",
+      "https://news.ycombinator.com/item?id=48434906"
+    ],
+    [
+      "sqlite: A CGo-free port of SQLite/SQLite3",
+      "https://gitlab.com/cznic/sqlite"
     ]
   ],
   [
@@ -67,16 +107,6 @@
     [
       "LLMs are eroding my software engineering career and I don't know what to do",
       "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/"
-    ]
-  ],
-  [
-    [
-      "2026-06-07, 11:55:05",
-      "https://news.ycombinator.com/item?id=48433962"
-    ],
-    [
-      "The best relationships are all-encompassing.",
-      "https://andys.blog/the-best-relationships/"
     ]
   ],
   [
@@ -171,32 +201,12 @@
   ],
   [
     [
-      "2026-06-06, 19:17:46",
-      "https://news.ycombinator.com/item?id=48428025"
-    ],
-    [
-      "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
-      "https://ntsc.rs/"
-    ]
-  ],
-  [
-    [
       "2026-06-06, 18:16:40",
       "https://news.ycombinator.com/item?id=48427480"
     ],
     [
       "Cloning a Sennheiser BA2015 battery pack",
       "https://blog.brixit.nl/cloning-a-sennheiser-ba2015-accu-pack/"
-    ]
-  ],
-  [
-    [
-      "2026-06-05, 21:52:02",
-      "https://news.ycombinator.com/item?id=48418839"
-    ],
-    [
-      "Warren's Abstract Machine: A Tutorial Reconstruction",
-      "https://github.com/a-yiorgos/wambook"
     ]
   ],
   [
@@ -221,12 +231,12 @@
   ],
   [
     [
-      "2026-06-05, 10:19:39",
-      "https://news.ycombinator.com/item?id=48410427"
+      "2026-06-05, 08:08:33",
+      "https://news.ycombinator.com/item?id=48409474"
     ],
     [
-      "Arithmetic Without Numbers – How LLMs Do Math",
-      "https://alvaro-videla.com/llm-arithmetic-internals/article_interactive/article.html"
+      "What is the purpose of the lost+found folder in Linux and Unix? (2014)",
+      "https://unix.stackexchange.com/questions/18154/what-is-the-purpose-of-the-lostfound-folder-in-linux-and-unix"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "The Secret Life of Circuits with lcamtuf / Michał Zalewski (Audio Interview)",
       "https://theamphour.com/725-the-secret-life-of-circuits-with-lcamtuf-michal-zalewski/"
-    ]
-  ],
-  [
-    [
-      "2026-06-04, 03:12:05",
-      "https://news.ycombinator.com/item?id=48393252"
-    ],
-    [
-      "Biohub releases a world model of protein biology",
-      "https://biohub.org/news/world-model-of-protein-biology/"
     ]
   ],
   [
