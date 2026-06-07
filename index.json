@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-06-07, 12:49:29",
+      "https://news.ycombinator.com/item?id=48434312"
+    ],
+    [
+      "LLMs are eroding my software engineering career and I don't know what to do",
+      "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/"
+    ]
+  ],
+  [
+    [
+      "2026-06-07, 12:34:27",
+      "https://news.ycombinator.com/item?id=48434204"
+    ],
+    [
+      "Misguided Misstatements Continue to Dismantle Biomedical Research in the U.S.",
+      "https://diabetesjournals.org/care/article/49/6/901/164764/Misguided-Brushes-of-a-Pen-Continue-to-Dismantle"
+    ]
+  ],
+  [
+    [
+      "2026-06-07, 12:00:40",
+      "https://news.ycombinator.com/item?id=48433987"
+    ],
+    [
+      "9 Mothers (YC P26) Is Hiring",
+      "https://9mothers.com/careers"
+    ]
+  ],
+  [
+    [
       "2026-06-07, 10:10:33",
       "https://news.ycombinator.com/item?id=48433410"
     ],
@@ -17,6 +47,16 @@
     [
       "Efficient and Training-Free Single-Image Diffusion Models",
       "https://arxiv.org/abs/2606.04299"
+    ]
+  ],
+  [
+    [
+      "2026-06-07, 07:35:02",
+      "https://news.ycombinator.com/item?id=48432722"
+    ],
+    [
+      "Show HN: Kyushu – A self-hostable WASM sandbox for JavaScript workers",
+      "https://kyushu.dev/"
     ]
   ],
   [
@@ -71,16 +111,6 @@
   ],
   [
     [
-      "2026-06-07, 02:11:29",
-      "https://news.ycombinator.com/item?id=48431079"
-    ],
-    [
-      "Show HN: Oproxy – inspect and modify network traffic from the browser",
-      "https://github.com/sauravrao637/oproxy"
-    ]
-  ],
-  [
-    [
       "2026-06-07, 01:37:11",
       "https://news.ycombinator.com/item?id=48430923"
     ],
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2026-06-06, 20:03:55",
-      "https://news.ycombinator.com/item?id=48428475"
-    ],
-    [
-      "Sem: New primitive for code understanding – not LSPs, but entities on top of Git",
-      "https://ataraxy-labs.github.io/sem/"
-    ]
-  ],
-  [
-    [
       "2026-06-06, 19:17:46",
       "https://news.ycombinator.com/item?id=48428025"
     ],
@@ -121,32 +141,12 @@
   ],
   [
     [
-      "2026-06-06, 18:35:27",
-      "https://news.ycombinator.com/item?id=48427643"
-    ],
-    [
-      "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
-      "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/"
-    ]
-  ],
-  [
-    [
       "2026-06-06, 14:59:43",
       "https://news.ycombinator.com/item?id=48425723"
     ],
     [
       "Zeroserve: A zero-config web server you can script with eBPF",
       "https://su3.io/posts/introducing-zeroserve"
-    ]
-  ],
-  [
-    [
-      "2026-06-06, 14:43:53",
-      "https://news.ycombinator.com/item?id=48425611"
-    ],
-    [
-      "Motorola effectively bricked its entire line of WiFi routers without explanation",
-      "https://mashable.com/tech/motorola-wifi-routers-stop-working-motosync-plus-app-down"
     ]
   ],
   [
@@ -221,12 +221,12 @@
   ],
   [
     [
-      "2026-06-04, 23:42:20",
-      "https://news.ycombinator.com/item?id=48406174"
+      "2026-06-05, 00:28:17",
+      "https://news.ycombinator.com/item?id=48406530"
     ],
     [
-      "Ask HN: What was your \"oh shit\" moment with GenAI?",
-      "https://news.ycombinator.com/item?id=48406174"
+      "Yon – a topos-oriented language with a content-addressed lattice heap",
+      "https://yon-lang.org/"
     ]
   ],
   [
@@ -237,6 +237,16 @@
     [
       "Introducing Boron Buckyballs: Theory that B80 cages can’t be made is disproved",
       "https://cen.acs.org/materials/nanomaterials/buckyballs-boron-buckminster-fullerene-nanomaterials/104/web/2026/06"
+    ]
+  ],
+  [
+    [
+      "2026-06-04, 19:29:29",
+      "https://news.ycombinator.com/item?id=48403488"
+    ],
+    [
+      "How Long Does It Take for a QQuickItem to Become Visible?",
+      "https://www.kdab.com/how-long-does-it-take-for-an-item-to-become-visible/"
     ]
   ],
   [
@@ -261,22 +271,12 @@
   ],
   [
     [
-      "2026-06-04, 13:04:37",
-      "https://news.ycombinator.com/item?id=48398092"
+      "2026-06-04, 13:55:39",
+      "https://news.ycombinator.com/item?id=48398703"
     ],
     [
-      "Enforcing the First as in BGP AS_PATHs",
-      "https://blog.cloudflare.com/enforce-first-as-bgp/"
-    ]
-  ],
-  [
-    [
-      "2026-06-04, 08:07:21",
-      "https://news.ycombinator.com/item?id=48395648"
-    ],
-    [
-      "Show HN: Free animated icon library for Vue",
-      "https://respeak-io.github.io/lucide-motion-vue/"
+      "The Secret Life of Circuits with lcamtuf / Michał Zalewski (Audio Interview)",
+      "https://theamphour.com/725-the-secret-life-of-circuits-with-lcamtuf-michal-zalewski/"
     ]
   ],
   [
