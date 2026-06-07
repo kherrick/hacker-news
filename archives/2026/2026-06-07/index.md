@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-06-07](index.md)
 
+* [2026-06-07, 12:49:29](https://news.ycombinator.com/item?id=48434312) - [LLMs are eroding my software engineering career and I don't know what to do](https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/)
+* [2026-06-07, 12:34:27](https://news.ycombinator.com/item?id=48434204) - [Misguided Misstatements Continue to Dismantle Biomedical Research in the U.S.](https://diabetesjournals.org/care/article/49/6/901/164764/Misguided-Brushes-of-a-Pen-Continue-to-Dismantle)
+* [2026-06-07, 12:00:40](https://news.ycombinator.com/item?id=48433987) - [9 Mothers (YC P26) Is Hiring](https://9mothers.com/careers)
 * [2026-06-07, 10:10:33](https://news.ycombinator.com/item?id=48433410) - [Scientists ejected from diabetes conference for distributing journal reprints](https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/)
 * [2026-06-07, 09:43:45](https://news.ycombinator.com/item?id=48433305) - [Efficient and Training-Free Single-Image Diffusion Models](https://arxiv.org/abs/2606.04299)
+* [2026-06-07, 07:35:02](https://news.ycombinator.com/item?id=48432722) - [Show HN: Kyushu – A self-hostable WASM sandbox for JavaScript workers](https://kyushu.dev/)
 * [2026-06-07, 05:47:54](https://news.ycombinator.com/item?id=48432199) - [The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners](https://www.ioccc.org/2025/)
 * [2026-06-07, 05:04:24](https://news.ycombinator.com/item?id=48431981) - [I design with Claude more than Figma now](https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/)
 * [2026-06-07, 04:57:02](https://news.ycombinator.com/item?id=48431952) - [The circus freaks of open source](https://drewdevault.com/blog/Circus-freaks-of-FOSS/)

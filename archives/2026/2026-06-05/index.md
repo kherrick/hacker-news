@@ -64,4 +64,5 @@
 * [2026-06-05, 02:48:44](https://news.ycombinator.com/item?id=48407368) - [Delacroix's Entry of the Crusaders into Constantinople Restored](https://www.louvre.fr/en/explore/life-at-the-museum/delacroix-s-entry-of-the-crusaders-into-constantinople-restored-to-its-original-glory)
 * [2026-06-05, 00:58:15](https://news.ycombinator.com/item?id=48406729) - [Unicode Fonts and Tools for X11](https://www.cl.cam.ac.uk/~mgk25/ucs-fonts.html)
 * [2026-06-05, 00:44:38](https://news.ycombinator.com/item?id=48406640) - [Meta enables ADB on deprecated Portal devices [video]](https://fb.watch/HxPu0fSyeH/)
+* [2026-06-05, 00:28:17](https://news.ycombinator.com/item?id=48406530) - [Yon – a topos-oriented language with a content-addressed lattice heap](https://yon-lang.org/)
 * [2026-06-05, 00:04:29](https://news.ycombinator.com/item?id=48406358) - [Open Code Review – An AI-powered code review CLI tool](https://github.com/alibaba/open-code-review)
