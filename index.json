@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-07, 10:10:33",
+      "https://news.ycombinator.com/item?id=48433410"
+    ],
+    [
+      "Scientists ejected from diabetes conference for distributing journal reprints",
+      "https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/"
+    ]
+  ],
+  [
+    [
+      "2026-06-07, 09:43:45",
+      "https://news.ycombinator.com/item?id=48433305"
+    ],
+    [
+      "Efficient and Training-Free Single-Image Diffusion Models",
+      "https://arxiv.org/abs/2606.04299"
+    ]
+  ],
+  [
+    [
       "2026-06-07, 05:47:54",
       "https://news.ycombinator.com/item?id=48432199"
     ],
@@ -81,16 +101,6 @@
   ],
   [
     [
-      "2026-06-06, 23:45:36",
-      "https://news.ycombinator.com/item?id=48430282"
-    ],
-    [
-      "Human-Like Neural Nets by Catapulting",
-      "https://gwern.net/llm-catapult"
-    ]
-  ],
-  [
-    [
       "2026-06-06, 20:03:55",
       "https://news.ycombinator.com/item?id=48428475"
     ],
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2026-06-06, 11:12:58",
-      "https://news.ycombinator.com/item?id=48423762"
-    ],
-    [
-      "Pokemon Emerald Ported to WebAssembly (100k FPS)",
-      "https://pokeemerald.com/"
-    ]
-  ],
-  [
-    [
       "2026-06-05, 20:06:36",
       "https://news.ycombinator.com/item?id=48417490"
     ],
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2026-06-05, 00:58:15",
-      "https://news.ycombinator.com/item?id=48406729"
-    ],
-    [
-      "Unicode Fonts and Tools for X11",
-      "https://www.cl.cam.ac.uk/~mgk25/ucs-fonts.html"
-    ]
-  ],
-  [
-    [
       "2026-06-04, 23:42:20",
       "https://news.ycombinator.com/item?id=48406174"
     ],
@@ -251,12 +241,32 @@
   ],
   [
     [
+      "2026-06-04, 17:54:28",
+      "https://news.ycombinator.com/item?id=48402157"
+    ],
+    [
+      "Games Between Programs: The Ruliology of Competition",
+      "https://writings.stephenwolfram.com/2026/06/games-between-programs-the-ruliology-of-competition/"
+    ]
+  ],
+  [
+    [
       "2026-06-04, 15:29:53",
       "https://news.ycombinator.com/item?id=48400151"
     ],
     [
       "Speculative KV coding: losslessly compressing KV cache by up to ~4×",
       "https://fergusfinn.com/blog/kv-entropy-coder/"
+    ]
+  ],
+  [
+    [
+      "2026-06-04, 13:04:37",
+      "https://news.ycombinator.com/item?id=48398092"
+    ],
+    [
+      "Enforcing the First as in BGP AS_PATHs",
+      "https://blog.cloudflare.com/enforce-first-as-bgp/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "My Software North Star",
       "https://kristoff.it/blog/north-star/"
-    ]
-  ],
-  [
-    [
-      "2026-06-02, 16:08:26",
-      "https://news.ycombinator.com/item?id=48372138"
-    ],
-    [
-      "Show HN: Infinite canvas notes in the non-Euclidean Poincaré disk",
-      "https://uonr.github.io/poincake/"
     ]
   ]
 ]
