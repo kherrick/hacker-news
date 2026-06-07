@@ -4,8 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-06-07](index.md)
 
+* [2026-06-07, 19:41:20](https://news.ycombinator.com/item?id=48437848) - [Why isn't the U.S. better at soccer?](https://www.natesilver.net/p/why-isnt-the-us-better-at-soccer)
+* [2026-06-07, 19:01:37](https://news.ycombinator.com/item?id=48437609) - [How's Linear so fast? A technical breakdown](https://performance.dev/how-is-linear-so-fast-a-technical-breakdown)
+* [2026-06-07, 18:37:17](https://news.ycombinator.com/item?id=48437450) - [The curious case of low-protein diets](https://knowablemagazine.org/content/article/living-world/2026/low-protein-diet-animals-live-longer)
 * [2026-06-07, 18:36:36](https://news.ycombinator.com/item?id=48437442) - [Leiden Declaration on Artificial Intelligence and Mathematics](https://www.lms.ac.uk/news/leiden-declaration-on-ai-and-mathematics)
+* [2026-06-07, 18:33:07](https://news.ycombinator.com/item?id=48437406) - [Building from Zero After Addiction, Prison, and a Felony](https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony)
 * [2026-06-07, 18:17:40](https://news.ycombinator.com/item?id=48437305) - [My automated doubt development process](https://www.alexself.dev/blog/automated-doubt)
+* [2026-06-07, 18:15:47](https://news.ycombinator.com/item?id=48437290) - [Making Peace with Your Unlived Dreams](https://nik.art/making-peace-with-your-unlived-dreams/)
+* [2026-06-07, 18:14:11](https://news.ycombinator.com/item?id=48437279) - [The complete IPv4 address space, mapped](https://worldip.io/)
 * [2026-06-07, 17:22:28](https://news.ycombinator.com/item?id=48436863) - [Silurus/ooxml: Pixel-faithful Office documents, rendered in the browser](https://github.com/yukiyokotani/office-open-xml-viewer)
 * [2026-06-07, 17:18:12](https://news.ycombinator.com/item?id=48436819) - [Powering up a module from the IBM 604: an electronic calculator from 1948](https://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html)
 * [2026-06-07, 17:01:17](https://news.ycombinator.com/item?id=48436669) - [Proliferate (YC S25) is hiring to building open source Codex](https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer)
