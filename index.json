@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2026-06-07, 04:57:02",
-      "https://news.ycombinator.com/item?id=48431952"
-    ],
-    [
-      "The circus freaks of open source",
-      "https://drewdevault.com/blog/Circus-freaks-of-FOSS/"
-    ]
-  ],
-  [
-    [
       "2026-06-07, 03:21:52",
       "https://news.ycombinator.com/item?id=48431461"
     ],
@@ -47,16 +37,6 @@
     [
       "Field of clones: How horse replicas came to dominate polo",
       "https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses"
-    ]
-  ],
-  [
-    [
-      "2026-06-07, 02:42:24",
-      "https://news.ycombinator.com/item?id=48431257"
-    ],
-    [
-      "Show HN: TakoVM – Isolated model and tool execution used by enterprises",
-      "https://github.com/las7/TakoVM"
     ]
   ],
   [
@@ -87,16 +67,6 @@
     [
       "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
       "https://arxiv.org/abs/2601.14470"
-    ]
-  ],
-  [
-    [
-      "2026-06-07, 01:24:15",
-      "https://news.ycombinator.com/item?id=48430860"
-    ],
-    [
-      "An Ohio Valley 100k-Watt FM Signal Is Severed in Broad Daylight – Radio World",
-      "https://www.radioworld.com/news-and-business/headlines/an-ohio-valley-100000-watt-fm-signal-is-severed-in-broad-daylight"
     ]
   ],
   [
@@ -231,6 +201,26 @@
   ],
   [
     [
+      "2026-06-05, 11:16:47",
+      "https://news.ycombinator.com/item?id=48410844"
+    ],
+    [
+      "Win16 Memory Management",
+      "http://www.os2museum.com/wp/win16-memory-management/"
+    ]
+  ],
+  [
+    [
+      "2026-06-05, 10:19:39",
+      "https://news.ycombinator.com/item?id=48410427"
+    ],
+    [
+      "Arithmetic Without Numbers – How LLMs Do Math",
+      "https://alvaro-videla.com/llm-arithmetic-internals/article_interactive/article.html"
+    ]
+  ],
+  [
+    [
       "2026-06-05, 00:58:15",
       "https://news.ycombinator.com/item?id=48406729"
     ],
@@ -257,6 +247,16 @@
     [
       "Introducing Boron Buckyballs: Theory that B80 cages can’t be made is disproved",
       "https://cen.acs.org/materials/nanomaterials/buckyballs-boron-buckminster-fullerene-nanomaterials/104/web/2026/06"
+    ]
+  ],
+  [
+    [
+      "2026-06-04, 15:29:53",
+      "https://news.ycombinator.com/item?id=48400151"
+    ],
+    [
+      "Speculative KV coding: losslessly compressing KV cache by up to ~4×",
+      "https://fergusfinn.com/blog/kv-entropy-coder/"
     ]
   ],
   [
