@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-06-07](index.md)
 
+* [2026-06-07, 15:08:10](https://news.ycombinator.com/item?id=48435584) - [Vitamin D3 During Pregnancy and Cognitive Performance at 10 Years](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2849122)
 * [2026-06-07, 14:47:17](https://news.ycombinator.com/item?id=48435371) - [The OnlyFans Economy of American AI](https://leoveanu.com/2026-06-06-qwen3.7max/)
 * [2026-06-07, 14:15:41](https://news.ycombinator.com/item?id=48435093) - [Netlify CTO Dana Lawson: Writing code is no longer the job](https://thenewstack.io/netlify-agent-experience-engineers/)
+* [2026-06-07, 14:01:27](https://news.ycombinator.com/item?id=48434963) - [Podman 6: machine usability improvements](https://blog.podman.io/2025/10/podman-6-machine-usability-improvements/)
 * [2026-06-07, 13:06:52](https://news.ycombinator.com/item?id=48434436) - [Anthropic, please ship an official Claude Desktop for Linux](https://github.com/anthropics/claude-code/issues/65697)
 * [2026-06-07, 12:49:29](https://news.ycombinator.com/item?id=48434312) - [LLMs are eroding my software engineering career and I don't know what to do](https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/)
 * [2026-06-07, 12:34:27](https://news.ycombinator.com/item?id=48434204) - [Misguided Misstatements Continue to Dismantle Biomedical Research in the U.S.](https://diabetesjournals.org/care/article/49/6/901/164764/Misguided-Brushes-of-a-Pen-Continue-to-Dismantle)
