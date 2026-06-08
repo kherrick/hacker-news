@@ -1,22 +1,52 @@
 [
   [
     [
+      "2026-06-08, 01:27:22",
+      "https://news.ycombinator.com/item?id=48440383"
+    ],
+    [
+      "Teenage Engineering: Introducing APC-2",
+      "https://teenage.engineering/products/apc-2"
+    ]
+  ],
+  [
+    [
+      "2026-06-08, 01:22:21",
+      "https://news.ycombinator.com/item?id=48440360"
+    ],
+    [
+      "7.8 magnitude earthquake shakes part of southern Philippines. Tsunami possible",
+      "https://www.yahoo.com/news/weather-news/articles/as--philippines-earthquake-001322726.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-08, 00:28:37",
+      "https://news.ycombinator.com/item?id=48440064"
+    ],
+    [
+      "The Smallest Brain You Can Build: A Perceptron in Python",
+      "https://ranpara.net/posts/perceptron-explained-from-scratch/"
+    ]
+  ],
+  [
+    [
+      "2026-06-08, 00:17:45",
+      "https://news.ycombinator.com/item?id=48440008"
+    ],
+    [
+      "A Matter Wi-Fi Light Bulb in Rust on the Raspberry Pi Pico 2 W",
+      "https://github.com/melastmohican/rust-rpico2-embassy-examples"
+    ]
+  ],
+  [
+    [
       "2026-06-07, 22:41:36",
       "https://news.ycombinator.com/item?id=48439348"
     ],
     [
       "Firefox Merges Support for Vulkan Video Decoding",
       "https://www.phoronix.com/news/Firefox-Vulkan-Video-Merged"
-    ]
-  ],
-  [
-    [
-      "2026-06-07, 21:29:21",
-      "https://news.ycombinator.com/item?id=48438754"
-    ],
-    [
-      "VibeOS: First ever AI-native operating system",
-      "https://vibeos.sh/"
     ]
   ],
   [
@@ -37,16 +67,6 @@
     [
       "How's Linear so fast? A technical breakdown",
       "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown"
-    ]
-  ],
-  [
-    [
-      "2026-06-07, 18:54:55",
-      "https://news.ycombinator.com/item?id=48437568"
-    ],
-    [
-      "If LLMs Have Human-Like Attributes, Then So Does Age of Empires II",
-      "https://arxiv.org/abs/2605.31514"
     ]
   ],
   [
@@ -81,21 +101,11 @@
   ],
   [
     [
-      "2026-06-07, 18:14:11",
-      "https://news.ycombinator.com/item?id=48437279"
-    ],
-    [
-      "The complete IPv4 address space, mapped",
-      "https://worldip.io/"
-    ]
-  ],
-  [
-    [
       "2026-06-07, 17:22:28",
       "https://news.ycombinator.com/item?id=48436863"
     ],
     [
-      "Silurus/ooxml: Pixel-faithful Office documents, rendered in the browser",
+      "Office-open-xml-viewer: Office XML document viewer that renders to HTML Canvas",
       "https://github.com/yukiyokotani/office-open-xml-viewer"
     ]
   ],
@@ -117,16 +127,6 @@
     [
       "Proliferate (YC S25) is hiring to building open source Codex",
       "https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer"
-    ]
-  ],
-  [
-    [
-      "2026-06-07, 16:16:54",
-      "https://news.ycombinator.com/item?id=48436246"
-    ],
-    [
-      "The gamers taking on the industry to stop it switching off games",
-      "https://www.bbc.com/news/articles/c8e8e7g0r82o"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2026-06-05, 11:16:47",
-      "https://news.ycombinator.com/item?id=48410844"
-    ],
-    [
-      "Win16 Memory Management",
-      "http://www.os2museum.com/wp/win16-memory-management/"
-    ]
-  ],
-  [
-    [
       "2026-06-05, 08:08:33",
       "https://news.ycombinator.com/item?id=48409474"
     ],
@@ -251,12 +241,12 @@
   ],
   [
     [
-      "2026-06-04, 20:19:39",
-      "https://news.ycombinator.com/item?id=48404070"
+      "2026-06-04, 12:35:15",
+      "https://news.ycombinator.com/item?id=48397765"
     ],
     [
-      "Crashing cars and improving hover detection",
-      "https://motion.dev/magazine/collision-detection-in-hover-detection"
+      "Learn PHP in 2026 (Yes, Really)",
+      "https://fagnerbrack.com/learn-php-in-2026-yes-really-bd567753dd84"
     ]
   ],
   [
@@ -271,12 +261,32 @@
   ],
   [
     [
+      "2026-06-03, 21:07:14",
+      "https://news.ycombinator.com/item?id=48390068"
+    ],
+    [
+      "Back end is full of hidden workflows",
+      "https://unmeshed.io/blog/your-backend-is-full-of-hidden-workflows"
+    ]
+  ],
+  [
+    [
       "2026-06-03, 14:21:19",
       "https://news.ycombinator.com/item?id=48384525"
     ],
     [
-      "Do we fear the serializable isolation level more than we fear subtle bugs?",
+      "Do we fear the serializable isolation level more than we fear subtle bugs (2024)",
       "https://blog.ydb.tech/do-we-fear-the-serializable-isolation-level-more-than-we-fear-subtle-bugs-5a025401b609"
+    ]
+  ],
+  [
+    [
+      "2026-06-03, 11:50:28",
+      "https://news.ycombinator.com/item?id=48382783"
+    ],
+    [
+      "KNN early termination in Manticore Search",
+      "https://manticoresearch.com/blog/knn-early-termination/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Backrest – a web UI and orchestrator for restic backup",
       "https://github.com/garethgeorge/backrest"
-    ]
-  ],
-  [
-    [
-      "2026-06-02, 13:01:48",
-      "https://news.ycombinator.com/item?id=48369703"
-    ],
-    [
-      "A Fundamental Principle of Aeronautical Engineering Has Been Overturned",
-      "https://www.tohoku.ac.jp/japanese/2026/05/press20260512-02-DMR.html"
     ]
   ]
 ]
