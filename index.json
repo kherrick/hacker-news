@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-08, 17:41:33",
+      "https://news.ycombinator.com/item?id=48448493"
+    ],
+    [
+      "Full Reverse Engineering of the TI-84 Plus Operating System",
+      "https://siraben.github.io/ti84p-re/"
+    ]
+  ],
+  [
+    [
+      "2026-06-08, 17:31:34",
+      "https://news.ycombinator.com/item?id=48448357"
+    ],
+    [
+      "Thunderbird Littering My Home",
+      "https://thefoggiest.dev/2026/06/04/thunderbird-littering-my-home"
+    ]
+  ],
+  [
+    [
       "2026-06-08, 17:14:24",
       "https://news.ycombinator.com/item?id=48448106"
     ],
@@ -11,12 +31,12 @@
   ],
   [
     [
-      "2026-06-08, 17:06:37",
-      "https://news.ycombinator.com/item?id=48448000"
+      "2026-06-08, 17:07:33",
+      "https://news.ycombinator.com/item?id=48448012"
     ],
     [
-      "New Referendum Would Flip Brexit Result 10 Years On, Poll Finds",
-      "https://www.bloomberg.com/news/articles/2026-06-08/new-referendum-would-flip-brexit-result-10-years-on-poll-finds"
+      "Massachusetts bans sale of precise location data in new privacy rights bill",
+      "https://techcrunch.com/2026/06/08/massachusetts-votes-to-pass-new-privacy-rights-bill-that-bans-sale-of-precise-location-data/"
     ]
   ],
   [
@@ -35,8 +55,18 @@
       "https://news.ycombinator.com/item?id=48446909"
     ],
     [
-      "Why are so many young people getting cancer? What researchers do and don't know",
+      "Why are so many young people getting cancer?",
       "https://www.nature.com/articles/d41586-026-01780-6"
+    ]
+  ],
+  [
+    [
+      "2026-06-08, 15:46:37",
+      "https://news.ycombinator.com/item?id=48446893"
+    ],
+    [
+      "AI Is Slowing Down",
+      "https://www.wheresyoured.at/ai-is-slowing-down/"
     ]
   ],
   [
@@ -61,22 +91,22 @@
   ],
   [
     [
-      "2026-06-08, 15:19:42",
-      "https://news.ycombinator.com/item?id=48446521"
-    ],
-    [
-      "Amazon Cognito now supports multi-Region replication",
-      "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cognito-multi-region/"
-    ]
-  ],
-  [
-    [
       "2026-06-08, 15:14:29",
       "https://news.ycombinator.com/item?id=48446439"
     ],
     [
       "A Farmer Donated Land to Turn into a Park. The City Is Building a Data Center",
       "https://www.404media.co/a-farmer-donated-land-to-turn-into-a-park-the-city-is-building-a-massive-data-center-instead/"
+    ]
+  ],
+  [
+    [
+      "2026-06-08, 15:13:43",
+      "https://news.ycombinator.com/item?id=48446428"
+    ],
+    [
+      "xAI is looking more like a datacentre REIT than a frontier lab",
+      "https://martinalderson.com/posts/xais-new-rental-business/"
     ]
   ],
   [
@@ -121,6 +151,26 @@
   ],
   [
     [
+      "2026-06-08, 12:57:54",
+      "https://news.ycombinator.com/item?id=48444784"
+    ],
+    [
+      "Spanish traders set the standard for GnuCash database design",
+      "https://handson.money/blog/2026-06-06-horse-arse-and-design/"
+    ]
+  ],
+  [
+    [
+      "2026-06-08, 12:24:10",
+      "https://news.ycombinator.com/item?id=48444442"
+    ],
+    [
+      "Are you expected to run five Python type-checkers now?",
+      "https://pyrefly.org/blog/too-many-type-checkers/"
+    ]
+  ],
+  [
+    [
       "2026-06-08, 11:58:02",
       "https://news.ycombinator.com/item?id=48444228"
     ],
@@ -131,12 +181,12 @@
   ],
   [
     [
-      "2026-06-08, 09:35:19",
-      "https://news.ycombinator.com/item?id=48443135"
+      "2026-06-08, 09:52:03",
+      "https://news.ycombinator.com/item?id=48443258"
     ],
     [
-      "Config Files That Run Code: Supply Chain Security Blindspot",
-      "https://safedep.io/config-files-that-run-code/"
+      "Replies to comments on my \"LLMs are eroding my career\" post",
+      "https://human-in-the-loop.bearblog.dev/replies-to-comments-on-my-llms-are-eroding-my-career-post/"
     ]
   ],
   [
@@ -161,16 +211,6 @@
   ],
   [
     [
-      "2026-06-08, 04:10:08",
-      "https://news.ycombinator.com/item?id=48441242"
-    ],
-    [
-      "Richard Scolyer Has Died",
-      "https://www.bbc.com/news/articles/c14yz5jg476o"
-    ]
-  ],
-  [
-    [
       "2026-06-08, 03:17:10",
       "https://news.ycombinator.com/item?id=48440952"
     ],
@@ -191,32 +231,12 @@
   ],
   [
     [
-      "2026-06-08, 01:41:42",
-      "https://news.ycombinator.com/item?id=48440463"
+      "2026-06-07, 21:14:02",
+      "https://news.ycombinator.com/item?id=48438625"
     ],
     [
-      "New drug 'functionally cures' many hepatitis B virus infections",
-      "https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections?user_id=66c4bf745d78644b3aa57b08"
-    ]
-  ],
-  [
-    [
-      "2026-06-08, 01:27:22",
-      "https://news.ycombinator.com/item?id=48440383"
-    ],
-    [
-      "APC–2 – A professional record cutter for producing original playback discs",
-      "https://teenage.engineering/products/apc-2"
-    ]
-  ],
-  [
-    [
-      "2026-06-08, 00:28:37",
-      "https://news.ycombinator.com/item?id=48440064"
-    ],
-    [
-      "The Smallest Brain You Can Build: A Perceptron in Python",
-      "https://ranpara.net/posts/perceptron-explained-from-scratch/"
+      "NEC PC Engine LT Recap and LCD Bias Fix (Necromancy)",
+      "https://hitmanmcc.com/entry/pc-engine-lt-necromancy"
     ]
   ],
   [
@@ -231,32 +251,12 @@
   ],
   [
     [
-      "2026-06-07, 18:15:47",
-      "https://news.ycombinator.com/item?id=48437290"
+      "2026-06-06, 12:44:48",
+      "https://news.ycombinator.com/item?id=48424545"
     ],
     [
-      "Making peace with your unlived dreams (2023)",
-      "https://nik.art/making-peace-with-your-unlived-dreams/"
-    ]
-  ],
-  [
-    [
-      "2026-06-05, 15:15:03",
-      "https://news.ycombinator.com/item?id=48413645"
-    ],
-    [
-      "A Family Project (2022)",
-      "https://bittersoutherner.com/feature/2022/a-family-project"
-    ]
-  ],
-  [
-    [
-      "2026-06-05, 14:54:37",
-      "https://news.ycombinator.com/item?id=48413366"
-    ],
-    [
-      "Playing with Vision Embeddings",
-      "https://prestonbjensen.com/posts/playing-with-vision-embeddings"
+      "Life is too short for a slow terminal",
+      "https://mijndertstuij.nl/posts/life-is-too-short-for-a-slow-terminal/"
     ]
   ],
   [
@@ -271,22 +271,22 @@
   ],
   [
     [
+      "2026-06-04, 14:20:59",
+      "https://news.ycombinator.com/item?id=48399069"
+    ],
+    [
+      "Good type against all odds",
+      "https://unsung.aresluna.org/good-type-against-all-odds/"
+    ]
+  ],
+  [
+    [
       "2026-06-04, 06:28:36",
       "https://news.ycombinator.com/item?id=48394799"
     ],
     [
       "Zig Structs of Arrays (2024)",
       "https://andreashohmann.com/zig-struct-of-arrays/"
-    ]
-  ],
-  [
-    [
-      "2026-06-03, 15:32:12",
-      "https://news.ycombinator.com/item?id=48385457"
-    ],
-    [
-      "Spherical Voronoi Diagram",
-      "https://www.jasondavies.com/maps/voronoi/"
     ]
   ],
   [
