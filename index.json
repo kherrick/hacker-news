@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-08, 20:45:03",
+      "https://news.ycombinator.com/item?id=48451723"
+    ],
+    [
+      "FrontierCode",
+      "https://cognition.ai/blog/frontier-code"
+    ]
+  ],
+  [
+    [
       "2026-06-08, 19:45:04",
       "https://news.ycombinator.com/item?id=48450694"
     ],
@@ -191,21 +201,11 @@
   ],
   [
     [
-      "2026-06-08, 15:04:17",
-      "https://news.ycombinator.com/item?id=48446310"
-    ],
-    [
-      "Italy's Bending Spoons, owner of AOL and Vimeo, files for Nasdaq IPO",
-      "https://www.reuters.com/legal/transactional/italys-bending-spoons-files-us-ipo-2026-06-08/"
-    ]
-  ],
-  [
-    [
       "2026-06-08, 14:05:16",
       "https://news.ycombinator.com/item?id=48445554"
     ],
     [
-      "Show HN: Performative-UI – a react component library of design tropes",
+      "Show HN: Performative-UI – A react component library of design tropes",
       "https://vorpus.github.io/performativeUI/"
     ]
   ],
@@ -217,16 +217,6 @@
     [
       "Launch HN: Intuned (YC S22) – Build and run reliable browser automations as code",
       "https://intunedhq.com"
-    ]
-  ],
-  [
-    [
-      "2026-06-08, 12:24:10",
-      "https://news.ycombinator.com/item?id=48444442"
-    ],
-    [
-      "Are you expected to run five Python type-checkers now?",
-      "https://pyrefly.org/blog/too-many-type-checkers/"
     ]
   ],
   [
@@ -261,6 +251,16 @@
   ],
   [
     [
+      "2026-06-06, 13:52:42",
+      "https://news.ycombinator.com/item?id=48425166"
+    ],
+    [
+      "Fooling Go's X.509 Certificate Verification",
+      "https://danielmangum.com/posts/fooling-go-x509-certificate-verification/"
+    ]
+  ],
+  [
+    [
       "2026-06-06, 13:34:16",
       "https://news.ycombinator.com/item?id=48424960"
     ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2026-06-06, 12:44:48",
-      "https://news.ycombinator.com/item?id=48424545"
+      "2026-06-05, 23:43:04",
+      "https://news.ycombinator.com/item?id=48419823"
     ],
     [
-      "Life is too short for a slow terminal",
-      "https://mijndertstuij.nl/posts/life-is-too-short-for-a-slow-terminal/"
+      "Show HN: Courtside – TUI for NBA Games",
+      "https://github.com/NolanFogarty/courtside"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=48397986"
     ],
     [
-      "Using XDG-Compliant Config Files",
+      "Using XDG-Compliant Config Files (2024)",
       "https://wxwidgets.org/blog/2024/01/using-xdg-compliant-config-files/"
     ]
   ]
