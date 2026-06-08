@@ -50,6 +50,7 @@
 * [2026-06-04, 13:17:25](https://news.ycombinator.com/item?id=48398233) - [Europe's largest Copper Age tomb: children's bones show ancient health crisis](https://phys.org/news/2026-05-europe-largest-copper-age-tomb.html)
 * [2026-06-04, 13:04:37](https://news.ycombinator.com/item?id=48398092) - [Enforcing the First as in BGP AS_PATHs](https://blog.cloudflare.com/enforce-first-as-bgp/)
 * [2026-06-04, 13:00:51](https://news.ycombinator.com/item?id=48398055) - [VoidZero Is Joining Cloudflare](https://blog.cloudflare.com/voidzero-joins-cloudflare/)
+* [2026-06-04, 12:54:28](https://news.ycombinator.com/item?id=48397986) - [Using XDG-Compliant Config Files – WxWidgets](https://wxwidgets.org/blog/2024/01/using-xdg-compliant-config-files/)
 * [2026-06-04, 12:35:15](https://news.ycombinator.com/item?id=48397765) - [Learn PHP in 2026 (Yes, Really)](https://fagnerbrack.com/learn-php-in-2026-yes-really-bd567753dd84)
 * [2026-06-04, 12:32:40](https://news.ycombinator.com/item?id=48397731) - [Ask HN: So what happened to Facebook \"localhost\" tracking?](https://news.ycombinator.com/item?id=48397731)
 * [2026-06-04, 12:00:29](https://news.ycombinator.com/item?id=48397435) - [AccessOwl (YC S22) is hiring an AI TypeScript Engineer to connect 300 SaaS tools](https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus)
