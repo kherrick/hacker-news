@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-08, 19:45:04",
+      "https://news.ycombinator.com/item?id=48450694"
+    ],
+    [
+      "I'm building a parallel internet, and it's called The Thinnernet",
+      "https://inavoyage.blogspot.com/2026/06/im-building-parallel-internet-and-its.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-08, 19:42:28",
+      "https://news.ycombinator.com/item?id=48450646"
+    ],
+    [
+      "Surveillance Is Not Safety: A statement on the UK's latest threat to privacy [pdf]",
+      "https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf"
+    ]
+  ],
+  [
+    [
       "2026-06-08, 19:14:47",
       "https://news.ycombinator.com/item?id=48450142"
     ],
@@ -31,12 +51,22 @@
   ],
   [
     [
-      "2026-06-08, 18:26:35",
-      "https://news.ycombinator.com/item?id=48449262"
+      "2026-06-08, 18:47:38",
+      "https://news.ycombinator.com/item?id=48449665"
     ],
     [
-      "Sam Bankman-Fried applies for a pardon from Trump",
-      "https://techcrunch.com/2026/06/08/sam-bankman-fried-applies-for-a-pardon-from-trump/"
+      "Apple Core AI Framework",
+      "https://developer.apple.com/documentation/coreai/"
+    ]
+  ],
+  [
+    [
+      "2026-06-08, 18:22:39",
+      "https://news.ycombinator.com/item?id=48449187"
+    ],
+    [
+      "Ask HN: What are tools you have made for yourself since the advent of AI?",
+      "https://news.ycombinator.com/item?id=48449187"
     ]
   ],
   [
@@ -85,7 +115,7 @@
       "https://news.ycombinator.com/item?id=48448106"
     ],
     [
-      "Apple WWDC 2026 Livestream",
+      "Apple WWDC 2026",
       "https://www.apple.com/apple-events/event-stream/"
     ]
   ],
@@ -101,22 +131,22 @@
   ],
   [
     [
-      "2026-06-08, 17:04:52",
-      "https://news.ycombinator.com/item?id=48447980"
-    ],
-    [
-      "Ask HN: How to escalate a rejected Google extension?",
-      "https://news.ycombinator.com/item?id=48447980"
-    ]
-  ],
-  [
-    [
       "2026-06-08, 17:01:43",
       "https://news.ycombinator.com/item?id=48447935"
     ],
     [
       "Stop the Apple Music app from launching",
       "https://lowtechguys.com/musicdecoy/"
+    ]
+  ],
+  [
+    [
+      "2026-06-08, 16:52:11",
+      "https://news.ycombinator.com/item?id=48447806"
+    ],
+    [
+      "Show HN: Gitdot – a better GitHub. Open-source, anti-AI, and written in Rust",
+      "https://gitdot.io/"
     ]
   ],
   [
@@ -135,7 +165,7 @@
       "https://news.ycombinator.com/item?id=48446893"
     ],
     [
-      "AI Is Slowing Down",
+      "AI is slowing down",
       "https://www.wheresyoured.at/ai-is-slowing-down/"
     ]
   ],
@@ -147,16 +177,6 @@
     [
       "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
       "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps"
-    ]
-  ],
-  [
-    [
-      "2026-06-08, 15:14:29",
-      "https://news.ycombinator.com/item?id=48446439"
-    ],
-    [
-      "A Farmer Donated Land to Turn into a Park. The City Is Building a Data Center",
-      "https://www.404media.co/a-farmer-donated-land-to-turn-into-a-park-the-city-is-building-a-massive-data-center-instead/"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2026-06-08, 13:06:19",
-      "https://news.ycombinator.com/item?id=48444871"
-    ],
-    [
-      "Zig by Example",
-      "https://github.com/boringcollege/zig-by-example"
-    ]
-  ],
-  [
-    [
       "2026-06-08, 12:24:10",
       "https://news.ycombinator.com/item?id=48444442"
     ],
@@ -251,12 +261,12 @@
   ],
   [
     [
-      "2026-06-08, 02:42:24",
-      "https://news.ycombinator.com/item?id=48440792"
+      "2026-06-06, 13:34:16",
+      "https://news.ycombinator.com/item?id=48424960"
     ],
     [
-      "Dopamine Fracking",
-      "https://igerman.cc/blog/dopamine-fracking/"
+      "120k Lines of Rust: Inside the Nosdesk Backend",
+      "https://kyle.au/blog/nosdesk-backend-rust"
     ]
   ],
   [
@@ -285,18 +295,8 @@
       "https://news.ycombinator.com/item?id=48397986"
     ],
     [
-      "Using XDG-Compliant Config Files – WxWidgets",
+      "Using XDG-Compliant Config Files",
       "https://wxwidgets.org/blog/2024/01/using-xdg-compliant-config-files/"
-    ]
-  ],
-  [
-    [
-      "2026-06-03, 14:29:02",
-      "https://news.ycombinator.com/item?id=48384630"
-    ],
-    [
-      "Mutation Testing in Haskell",
-      "https://cs-syd.eu/posts/2026-06-03-mutation-testing-in-haskell"
     ]
   ]
 ]
