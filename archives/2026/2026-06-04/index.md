@@ -62,6 +62,7 @@
 * [2026-06-04, 08:45:36](https://news.ycombinator.com/item?id=48395938) - [UK media fails to disclose defence sector links in nearly 60% of cases](https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/)
 * [2026-06-04, 08:07:21](https://news.ycombinator.com/item?id=48395648) - [Show HN: Free animated icon library for Vue](https://respeak-io.github.io/lucide-motion-vue/)
 * [2026-06-04, 07:32:20](https://news.ycombinator.com/item?id=48395370) - [WoofWare.PawPrint, a Deterministic .NET Runtime](https://www.patrickstevens.co.uk/posts/2026-06-04-announcing-woofware-pawprint/)
+* [2026-06-04, 06:28:36](https://news.ycombinator.com/item?id=48394799) - [Zig Structs of Arrays (2024)](https://andreashohmann.com/zig-struct-of-arrays/)
 * [2026-06-04, 05:59:22](https://news.ycombinator.com/item?id=48394587) - [A discovery about GCC's unidirectional rotation algorithm](https://devblogs.microsoft.com/oldnewthing/20260603-00/?p=112378)
 * [2026-06-04, 03:12:05](https://news.ycombinator.com/item?id=48393252) - [Biohub releases a world model of protein biology](https://biohub.org/news/world-model-of-protein-biology/)
 * [2026-06-04, 00:56:32](https://news.ycombinator.com/item?id=48392343) - [I built a vulnerable app and spent $1,500 seeing if LLMs could hack it](https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/)

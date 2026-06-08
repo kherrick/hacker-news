@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-06-08](index.md)
 
+* [2026-06-08, 09:35:19](https://news.ycombinator.com/item?id=48443135) - [Config Files That Run Code: Supply Chain Security Blindspot](https://safedep.io/config-files-that-run-code/)
+* [2026-06-08, 08:32:52](https://news.ycombinator.com/item?id=48442725) - [The Cypherpunk Library](https://www.cypherpunkbooks.com)
+* [2026-06-08, 08:11:24](https://news.ycombinator.com/item?id=48442569) - [OneDrive data now has an expiry date](https://ms365news.com/blogs/f/your-onedrive-data-now-has-an-expiry-data)
+* [2026-06-08, 08:00:01](https://news.ycombinator.com/item?id=48442503) - [The EU Open Source Strategy](https://digital-strategy.ec.europa.eu/en/policies/open-source-strategy)
+* [2026-06-08, 07:40:27](https://news.ycombinator.com/item?id=48442371) - [Age verification tech could put children at greater risk, says think tank](https://www.computerweekly.com/news/366643835/Age-verification-tech-could-put-children-at-greater-risk-says-think-tank)
+* [2026-06-08, 06:56:06](https://news.ycombinator.com/item?id=48442075) - [How much of Thermo Fisher's antibody data has been manipulated?](https://reeserichardson.blog/2026/05/28/how-much-of-thermo-fishers-antibody-data-has-been-manipulated/)
 * [2026-06-08, 05:22:06](https://news.ycombinator.com/item?id=48441591) - [Cannibalism](https://b-ark.ca/2026/06/07/cannibalism.html)
 * [2026-06-08, 04:10:08](https://news.ycombinator.com/item?id=48441242) - [Richard Scolyer Has Died](https://www.bbc.com/news/articles/c14yz5jg476o)
 * [2026-06-08, 03:17:10](https://news.ycombinator.com/item?id=48440952) - [1k Data Breaches Later, the Disclosure Lag Is Worse](https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/)
