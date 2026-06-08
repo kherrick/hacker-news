@@ -6,6 +6,7 @@
 
 * [2026-06-07, 22:41:36](https://news.ycombinator.com/item?id=48439348) - [Firefox Merges Support for Vulkan Video Decoding](https://www.phoronix.com/news/Firefox-Vulkan-Video-Merged)
 * [2026-06-07, 21:29:21](https://news.ycombinator.com/item?id=48438754) - [VibeOS: First ever AI-native operating system](https://vibeos.sh/)
+* [2026-06-07, 21:14:02](https://news.ycombinator.com/item?id=48438625) - [NEC PC Engine LT Recap and LCD Bias Fix (Necromancy)](https://hitmanmcc.com/entry/pc-engine-lt-necromancy)
 * [2026-06-07, 20:52:11](https://news.ycombinator.com/item?id=48438421) - [Flock license plate reader wrongly linked a San Diego man to a violent crime](https://timesofsandiego.com/crime/2026/06/07/a-flock-license-plate-reader-linked-a-san-diego-man-to-a-violent-crime-he-was-five-miles-away/)
 * [2026-06-07, 20:28:19](https://news.ycombinator.com/item?id=48438212) - [The architecture of the internet creates risks for democracy](https://www.science.org/doi/10.1126/science.aei2409)
 * [2026-06-07, 20:24:36](https://news.ycombinator.com/item?id=48438180) - [Show HN: Nightwatch, The open-source, read-only AI SRE](https://github.com/ninoxAI/nightwatch)

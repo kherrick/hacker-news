@@ -42,6 +42,7 @@
 * [2026-06-04, 14:38:35](https://news.ycombinator.com/item?id=48399358) - [Show HN: Boxes.dev: ditch localhost; run Claude Code and Codex in the cloud](https://boxes.dev)
 * [2026-06-04, 14:36:39](https://news.ycombinator.com/item?id=48399332) - [In a first, wind and solar generated more power than gas globally in April 2026](https://electrek.co/2026/05/20/in-a-first-wind-solar-generated-more-power-than-gas-globally-april-2026/)
 * [2026-06-04, 14:30:16](https://news.ycombinator.com/item?id=48399223) - [You'll never guess who made the first wireless telephone](https://signoregalilei.com/2026/05/31/youll-never-guess-who-made-the-first-wireless-telephone/)
+* [2026-06-04, 14:20:59](https://news.ycombinator.com/item?id=48399069) - [Good type against all odds](https://unsung.aresluna.org/good-type-against-all-odds/)
 * [2026-06-04, 14:10:40](https://news.ycombinator.com/item?id=48398925) - [My Agent Skill for Test-Driven Development](https://www.saturnci.com/my-agent-skill-for-test-driven-development.html)
 * [2026-06-04, 13:55:39](https://news.ycombinator.com/item?id=48398703) - [The Secret Life of Circuits with lcamtuf / Michał Zalewski (Audio Interview)](https://theamphour.com/725-the-secret-life-of-circuits-with-lcamtuf-michal-zalewski/)
 * [2026-06-04, 13:54:28](https://news.ycombinator.com/item?id=48398689) - [Inside FAISS: Billion-Scale Similarity Search](https://fremaconsulting.ch/blog/faiss)
