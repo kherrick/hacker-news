@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-06-08, 20:45:03](https://news.ycombinator.com/item?id=48451723) - [FrontierCode](https://cognition.ai/blog/frontier-code)
 * [2026-06-08, 19:45:04](https://news.ycombinator.com/item?id=48450694) - [I'm building a parallel internet, and it's called The Thinnernet](https://inavoyage.blogspot.com/2026/06/im-building-parallel-internet-and-its.html)
 * [2026-06-08, 19:42:28](https://news.ycombinator.com/item?id=48450646) - [Surveillance Is Not Safety: A statement on the UK's latest threat to privacy [pdf]](https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf)
 * [2026-06-08, 19:14:47](https://news.ycombinator.com/item?id=48450142) - [Apple reveals new AI architecture built around Google Gemini models](https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/)
@@ -19,17 +20,16 @@
 * [2026-06-08, 15:46:37](https://news.ycombinator.com/item?id=48446893) - [AI is slowing down](https://www.wheresyoured.at/ai-is-slowing-down/)
 * [2026-06-08, 15:27:33](https://news.ycombinator.com/item?id=48446639) - [MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second](https://mimo.xiaomi.com/blog/mimo-tilert-1000tps)
 * [2026-06-08, 15:13:43](https://news.ycombinator.com/item?id=48446428) - [xAI is looking more like a datacentre REIT than a frontier lab](https://martinalderson.com/posts/xais-new-rental-business/)
-* [2026-06-08, 15:04:17](https://news.ycombinator.com/item?id=48446310) - [Italy's Bending Spoons, owner of AOL and Vimeo, files for Nasdaq IPO](https://www.reuters.com/legal/transactional/italys-bending-spoons-files-us-ipo-2026-06-08/)
-* [2026-06-08, 14:05:16](https://news.ycombinator.com/item?id=48445554) - [Show HN: Performative-UI – a react component library of design tropes](https://vorpus.github.io/performativeUI/)
+* [2026-06-08, 14:05:16](https://news.ycombinator.com/item?id=48445554) - [Show HN: Performative-UI – A react component library of design tropes](https://vorpus.github.io/performativeUI/)
 * [2026-06-08, 13:35:27](https://news.ycombinator.com/item?id=48445171) - [Launch HN: Intuned (YC S22) – Build and run reliable browser automations as code](https://intunedhq.com)
-* [2026-06-08, 12:24:10](https://news.ycombinator.com/item?id=48444442) - [Are you expected to run five Python type-checkers now?](https://pyrefly.org/blog/too-many-type-checkers/)
 * [2026-06-08, 11:58:02](https://news.ycombinator.com/item?id=48444228) - [Anti-social: It's fads, not friends, which now dominate social media feeds](https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social)
 * [2026-06-08, 08:32:52](https://news.ycombinator.com/item?id=48442725) - [The Cypherpunk Library](https://www.cypherpunkbooks.com)
 * [2026-06-08, 06:56:06](https://news.ycombinator.com/item?id=48442075) - [How much of Thermo Fisher's antibody data has been manipulated?](https://reeserichardson.blog/2026/05/28/how-much-of-thermo-fishers-antibody-data-has-been-manipulated/)
+* [2026-06-06, 13:52:42](https://news.ycombinator.com/item?id=48425166) - [Fooling Go's X.509 Certificate Verification](https://danielmangum.com/posts/fooling-go-x509-certificate-verification/)
 * [2026-06-06, 13:34:16](https://news.ycombinator.com/item?id=48424960) - [120k Lines of Rust: Inside the Nosdesk Backend](https://kyle.au/blog/nosdesk-backend-rust)
-* [2026-06-06, 12:44:48](https://news.ycombinator.com/item?id=48424545) - [Life is too short for a slow terminal](https://mijndertstuij.nl/posts/life-is-too-short-for-a-slow-terminal/)
+* [2026-06-05, 23:43:04](https://news.ycombinator.com/item?id=48419823) - [Show HN: Courtside – TUI for NBA Games](https://github.com/NolanFogarty/courtside)
 * [2026-06-04, 17:52:29](https://news.ycombinator.com/item?id=48402137) - [OCaml Onboarding: Introduction to the Dune build system](https://ocamlpro.com/blog/2025_07_29_ocaml_onboarding_introduction_to_dune/)
-* [2026-06-04, 12:54:28](https://news.ycombinator.com/item?id=48397986) - [Using XDG-Compliant Config Files](https://wxwidgets.org/blog/2024/01/using-xdg-compliant-config-files/)
+* [2026-06-04, 12:54:28](https://news.ycombinator.com/item?id=48397986) - [Using XDG-Compliant Config Files (2024)](https://wxwidgets.org/blog/2024/01/using-xdg-compliant-config-files/)
 
 ## [Archives](archives/index.md)
 

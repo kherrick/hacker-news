@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-05](index.md)
 
+* [2026-06-05, 23:43:04](https://news.ycombinator.com/item?id=48419823) - [Show HN: Courtside – TUI for NBA Games](https://github.com/NolanFogarty/courtside)
 * [2026-06-05, 23:42:54](https://news.ycombinator.com/item?id=48419821) - [Nordstjernen 1.0](https://github.com/nordstjernen-web/nordstjernen/releases/tag/1.0.0)
 * [2026-06-05, 23:13:12](https://news.ycombinator.com/item?id=48419571) - [The perils of UUID primary keys in SQLite](https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html)
 * [2026-06-05, 22:12:58](https://news.ycombinator.com/item?id=48419023) - [Microsoft wants users to be addicted to Scout, their AI personal assistant](https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/)

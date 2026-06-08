@@ -24,6 +24,7 @@
 * [2026-06-06, 14:34:20](https://news.ycombinator.com/item?id=48425528) - [Moving beyond fork() + exec()](https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/)
 * [2026-06-06, 14:15:32](https://news.ycombinator.com/item?id=48425347) - [Running Python code in a sandbox with MicroPython and WASM](https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/)
 * [2026-06-06, 14:00:52](https://news.ycombinator.com/item?id=48425247) - [Benchmarks in Leipzig](https://arxiv.org/abs/2606.05818)
+* [2026-06-06, 13:52:42](https://news.ycombinator.com/item?id=48425166) - [Fooling Go's X.509 Certificate Verification](https://danielmangum.com/posts/fooling-go-x509-certificate-verification/)
 * [2026-06-06, 13:40:22](https://news.ycombinator.com/item?id=48425031) - [US House lawmakers release draft bill to prohibit state AI rules](https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/)
 * [2026-06-06, 13:34:16](https://news.ycombinator.com/item?id=48424960) - [120k Lines of Rust: Inside the Nosdesk Backend](https://kyle.au/blog/nosdesk-backend-rust)
 * [2026-06-06, 12:59:59](https://news.ycombinator.com/item?id=48424674) - [Trees to Flows and Back: Unifying Decision Trees and Diffusion Models](https://arxiv.org/abs/2605.00414)
