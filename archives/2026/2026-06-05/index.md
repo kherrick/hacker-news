@@ -32,6 +32,7 @@
 * [2026-06-05, 15:59:57](https://news.ycombinator.com/item?id=48414367) - [pg_durable: Microsoft open sources in-database durable execution](https://github.com/microsoft/pg_durable)
 * [2026-06-05, 15:39:38](https://news.ycombinator.com/item?id=48414027) - [Stop Using Conventional Commits](https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/)
 * [2026-06-05, 15:32:58](https://news.ycombinator.com/item?id=48413924) - [Leak Reveals Microsoft Wants Its AI to Be 'Addictive'](https://kotaku.com/microsoft-ai-scout-addictive-satya-nadella-404-media-copilot-2000702924)
+* [2026-06-05, 15:15:35](https://news.ycombinator.com/item?id=48413655) - [Looking Forward to Postgres 19: Query Hints](https://www.pgedge.com/blog/looking-forward-to-postgres-19-query-hints)
 * [2026-06-05, 15:15:03](https://news.ycombinator.com/item?id=48413645) - [A Family Project (2022)](https://bittersoutherner.com/feature/2022/a-family-project)
 * [2026-06-05, 15:13:54](https://news.ycombinator.com/item?id=48413629) - [Ask HN: What is your (AI) dev tech stack / workflow? (June 2026)](https://news.ycombinator.com/item?id=48413629)
 * [2026-06-05, 15:04:03](https://news.ycombinator.com/item?id=48413500) - [New method turns ocean water into drinking water, without waste](https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/)

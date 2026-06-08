@@ -26,7 +26,7 @@
 * [2026-06-08, 01:37:52](https://news.ycombinator.com/item?id=48440435) - [1worldflag: A blue dot on a transparent background](https://1worldflag.com/)
 * [2026-06-06, 13:52:42](https://news.ycombinator.com/item?id=48425166) - [Fooling Go's X.509 Certificate Verification](https://danielmangum.com/posts/fooling-go-x509-certificate-verification/)
 * [2026-06-06, 13:34:16](https://news.ycombinator.com/item?id=48424960) - [120k Lines of Rust: Inside the Nosdesk Backend](https://kyle.au/blog/nosdesk-backend-rust)
-* [2026-06-05, 23:43:04](https://news.ycombinator.com/item?id=48419823) - [Show HN: Courtside – TUI for NBA Games](https://github.com/NolanFogarty/courtside)
+* [2026-06-05, 15:15:35](https://news.ycombinator.com/item?id=48413655) - [Looking Forward to Postgres 19: Query Hints](https://www.pgedge.com/blog/looking-forward-to-postgres-19-query-hints)
 * [2026-06-05, 14:30:05](https://news.ycombinator.com/item?id=48413067) - [Doing Something That's Never Been Done Before](https://talglobus.com/p/doing-something-thats-never-been-done-before/)
 * [2026-06-04, 17:52:29](https://news.ycombinator.com/item?id=48402137) - [OCaml Onboarding: Introduction to the Dune build system](https://ocamlpro.com/blog/2025_07_29_ocaml_onboarding_introduction_to_dune/)
 * [2026-06-04, 12:54:28](https://news.ycombinator.com/item?id=48397986) - [Using XDG-Compliant Config Files (2024)](https://wxwidgets.org/blog/2024/01/using-xdg-compliant-config-files/)
