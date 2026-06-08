@@ -1,12 +1,42 @@
 [
   [
     [
-      "2026-06-08, 15:46:37",
-      "https://news.ycombinator.com/item?id=48446893"
+      "2026-06-08, 17:14:24",
+      "https://news.ycombinator.com/item?id=48448106"
     ],
     [
-      "AI Is Slowing Down",
-      "https://www.wheresyoured.at/ai-is-slowing-down/"
+      "Apple WWDC 2026 Livestream",
+      "https://www.apple.com/apple-events/event-stream/"
+    ]
+  ],
+  [
+    [
+      "2026-06-08, 17:06:37",
+      "https://news.ycombinator.com/item?id=48448000"
+    ],
+    [
+      "New Referendum Would Flip Brexit Result 10 Years On, Poll Finds",
+      "https://www.bloomberg.com/news/articles/2026-06-08/new-referendum-would-flip-brexit-result-10-years-on-poll-finds"
+    ]
+  ],
+  [
+    [
+      "2026-06-08, 17:01:43",
+      "https://news.ycombinator.com/item?id=48447935"
+    ],
+    [
+      "Stop the Apple Music app from launching",
+      "https://lowtechguys.com/musicdecoy/"
+    ]
+  ],
+  [
+    [
+      "2026-06-08, 15:48:00",
+      "https://news.ycombinator.com/item?id=48446909"
+    ],
+    [
+      "Why are so many young people getting cancer? What researchers do and don't know",
+      "https://www.nature.com/articles/d41586-026-01780-6"
     ]
   ],
   [
@@ -67,16 +97,6 @@
     [
       "Show HN: Performative-UI – a react component library of design tropes",
       "https://vorpus.github.io/performativeUI/"
-    ]
-  ],
-  [
-    [
-      "2026-06-08, 14:00:22",
-      "https://news.ycombinator.com/item?id=48445469"
-    ],
-    [
-      "SoulsOnly.tff – A font for humans not AI and keyboard firmware to type in it",
-      "https://github.com/convictional/souls-only"
     ]
   ],
   [
@@ -221,26 +241,6 @@
   ],
   [
     [
-      "2026-06-06, 12:44:48",
-      "https://news.ycombinator.com/item?id=48424545"
-    ],
-    [
-      "Life is too short for a slow terminal",
-      "https://mijndertstuij.nl/posts/life-is-too-short-for-a-slow-terminal/"
-    ]
-  ],
-  [
-    [
-      "2026-06-05, 17:41:58",
-      "https://news.ycombinator.com/item?id=48415828"
-    ],
-    [
-      "Tiny hackable CUDA language model implementation",
-      "https://github.com/markusheimerl/gpt"
-    ]
-  ],
-  [
-    [
       "2026-06-05, 15:15:03",
       "https://news.ycombinator.com/item?id=48413645"
     ],
@@ -257,16 +257,6 @@
     [
       "Playing with Vision Embeddings",
       "https://prestonbjensen.com/posts/playing-with-vision-embeddings"
-    ]
-  ],
-  [
-    [
-      "2026-06-05, 06:42:42",
-      "https://news.ycombinator.com/item?id=48408854"
-    ],
-    [
-      "Show HN: I Derived a Pancake",
-      "https://www.absurdlyoptimized.com/recipes/pancakes/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Spherical Voronoi Diagram",
       "https://www.jasondavies.com/maps/voronoi/"
+    ]
+  ],
+  [
+    [
+      "2026-06-03, 14:29:02",
+      "https://news.ycombinator.com/item?id=48384630"
+    ],
+    [
+      "Mutation Testing in Haskell",
+      "https://cs-syd.eu/posts/2026-06-03-mutation-testing-in-haskell"
     ]
   ]
 ]
