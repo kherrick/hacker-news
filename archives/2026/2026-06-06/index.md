@@ -25,6 +25,7 @@
 * [2026-06-06, 14:15:32](https://news.ycombinator.com/item?id=48425347) - [Running Python code in a sandbox with MicroPython and WASM](https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/)
 * [2026-06-06, 14:00:52](https://news.ycombinator.com/item?id=48425247) - [Benchmarks in Leipzig](https://arxiv.org/abs/2606.05818)
 * [2026-06-06, 13:40:22](https://news.ycombinator.com/item?id=48425031) - [US House lawmakers release draft bill to prohibit state AI rules](https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/)
+* [2026-06-06, 13:34:16](https://news.ycombinator.com/item?id=48424960) - [120k Lines of Rust: Inside the Nosdesk Backend](https://kyle.au/blog/nosdesk-backend-rust)
 * [2026-06-06, 12:59:59](https://news.ycombinator.com/item?id=48424674) - [Trees to Flows and Back: Unifying Decision Trees and Diffusion Models](https://arxiv.org/abs/2605.00414)
 * [2026-06-06, 12:52:18](https://news.ycombinator.com/item?id=48424605) - [Nvidia is proposing a beast of a CPU system for Windows PCs](https://twitter.com/lemire/status/2062880075117113739)
 * [2026-06-06, 12:44:48](https://news.ycombinator.com/item?id=48424545) - [Life is too short for a slow terminal](https://mijndertstuij.nl/posts/life-is-too-short-for-a-slow-terminal/)

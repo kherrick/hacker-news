@@ -4,10 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-06-08](index.md)
 
+* [2026-06-08, 19:45:04](https://news.ycombinator.com/item?id=48450694) - [I'm building a parallel internet, and it's called The Thinnernet](https://inavoyage.blogspot.com/2026/06/im-building-parallel-internet-and-its.html)
+* [2026-06-08, 19:42:28](https://news.ycombinator.com/item?id=48450646) - [Surveillance Is Not Safety: A statement on the UK's latest threat to privacy [pdf]](https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf)
 * [2026-06-08, 19:14:47](https://news.ycombinator.com/item?id=48450142) - [Apple reveals new AI architecture built around Google Gemini models](https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/)
 * [2026-06-08, 19:10:27](https://news.ycombinator.com/item?id=48450065) - [Why are cells small?](https://burrito.bio/essays/what-limits-a-cells-size)
 * [2026-06-08, 19:09:48](https://news.ycombinator.com/item?id=48450059) - [Switzerland wil have a referendum to cap population at 10M](https://www.admin.ch/en/sustainability-initiative)
+* [2026-06-08, 18:47:38](https://news.ycombinator.com/item?id=48449665) - [Apple Core AI Framework](https://developer.apple.com/documentation/coreai/)
 * [2026-06-08, 18:26:35](https://news.ycombinator.com/item?id=48449262) - [Sam Bankman-Fried applies for a pardon from Trump](https://techcrunch.com/2026/06/08/sam-bankman-fried-applies-for-a-pardon-from-trump/)
+* [2026-06-08, 18:22:39](https://news.ycombinator.com/item?id=48449187) - [Ask HN: What are tools you have made for yourself since the advent of AI?](https://news.ycombinator.com/item?id=48449187)
 * [2026-06-08, 18:17:53](https://news.ycombinator.com/item?id=48449084) - [Siri AI](https://www.apple.com/apple-intelligence/)
 * [2026-06-08, 17:41:33](https://news.ycombinator.com/item?id=48448493) - [Full Reverse Engineering of the TI-84 Plus Operating System](https://siraben.github.io/ti84p-re/)
 * [2026-06-08, 17:38:52](https://news.ycombinator.com/item?id=48448459) - [Why all new flags look the same](https://www.worksinprogress.news/p/good-design-is-ruining-american-flags)
@@ -18,6 +22,7 @@
 * [2026-06-08, 17:06:37](https://news.ycombinator.com/item?id=48448000) - [New Referendum Would Flip Brexit Result 10 Years On, Poll Finds](https://www.bloomberg.com/news/articles/2026-06-08/new-referendum-would-flip-brexit-result-10-years-on-poll-finds)
 * [2026-06-08, 17:04:52](https://news.ycombinator.com/item?id=48447980) - [Ask HN: How to escalate a rejected Google extension?](https://news.ycombinator.com/item?id=48447980)
 * [2026-06-08, 17:01:43](https://news.ycombinator.com/item?id=48447935) - [Stop the Apple Music app from launching](https://lowtechguys.com/musicdecoy/)
+* [2026-06-08, 16:52:11](https://news.ycombinator.com/item?id=48447806) - [Show HN: Gitdot – a better GitHub. Open-source, anti-AI, and written in Rust](https://gitdot.io/)
 * [2026-06-08, 15:59:04](https://news.ycombinator.com/item?id=48447062) - [EU-banned pesticides found in rice, tea and spices](https://www.foodwatch.org/en/eu-banned-pesticides-found-in-rice-tea-and-spices)
 * [2026-06-08, 15:48:00](https://news.ycombinator.com/item?id=48446909) - [Why are so many young people getting cancer? What researchers do and don't know](https://www.nature.com/articles/d41586-026-01780-6)
 * [2026-06-08, 15:46:37](https://news.ycombinator.com/item?id=48446893) - [AI Is Slowing Down](https://www.wheresyoured.at/ai-is-slowing-down/)
