@@ -1,11 +1,101 @@
 [
   [
     [
+      "2026-06-08, 05:22:06",
+      "https://news.ycombinator.com/item?id=48441591"
+    ],
+    [
+      "Cannibalism",
+      "https://b-ark.ca/2026/06/07/cannibalism.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-08, 04:10:08",
+      "https://news.ycombinator.com/item?id=48441242"
+    ],
+    [
+      "Richard Scolyer Has Died",
+      "https://www.bbc.com/news/articles/c14yz5jg476o"
+    ]
+  ],
+  [
+    [
+      "2026-06-08, 03:17:10",
+      "https://news.ycombinator.com/item?id=48440952"
+    ],
+    [
+      "1k Data Breaches Later, the Disclosure Lag Is Worse",
+      "https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/"
+    ]
+  ],
+  [
+    [
+      "2026-06-08, 02:42:24",
+      "https://news.ycombinator.com/item?id=48440792"
+    ],
+    [
+      "Dopamine Fracking",
+      "https://igerman.cc/blog/dopamine-fracking/"
+    ]
+  ],
+  [
+    [
+      "2026-06-08, 02:05:40",
+      "https://news.ycombinator.com/item?id=48440610"
+    ],
+    [
+      "Texas grid flags risks as data centers, crypto sites fail voltage tests",
+      "https://www.reuters.com/business/energy/texas-grid-flags-risks-data-centers-crypto-sites-fail-voltage-tests-2026-06-05/"
+    ]
+  ],
+  [
+    [
+      "2026-06-08, 01:54:54",
+      "https://news.ycombinator.com/item?id=48440549"
+    ],
+    [
+      "Algorithmic Monocultures in Hiring",
+      "https://algorithmichiring.github.io/"
+    ]
+  ],
+  [
+    [
+      "2026-06-08, 01:41:42",
+      "https://news.ycombinator.com/item?id=48440463"
+    ],
+    [
+      "New drug 'functionally cures' many hepatitis B virus infections",
+      "https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections?user_id=66c4bf745d78644b3aa57b08"
+    ]
+  ],
+  [
+    [
+      "2026-06-08, 01:39:30",
+      "https://news.ycombinator.com/item?id=48440448"
+    ],
+    [
+      "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
+      "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision"
+    ]
+  ],
+  [
+    [
+      "2026-06-08, 01:37:52",
+      "https://news.ycombinator.com/item?id=48440435"
+    ],
+    [
+      "1worldflag: A blue dot on a transparent background",
+      "https://1worldflag.com/"
+    ]
+  ],
+  [
+    [
       "2026-06-08, 01:27:22",
       "https://news.ycombinator.com/item?id=48440383"
     ],
     [
-      "Teenage Engineering: Introducing APC-2",
+      "APC–2 – A professional record cutter for producing original playback discs",
       "https://teenage.engineering/products/apc-2"
     ]
   ],
@@ -37,26 +127,6 @@
     [
       "A Matter Wi-Fi Light Bulb in Rust on the Raspberry Pi Pico 2 W",
       "https://github.com/melastmohican/rust-rpico2-embassy-examples"
-    ]
-  ],
-  [
-    [
-      "2026-06-07, 22:41:36",
-      "https://news.ycombinator.com/item?id=48439348"
-    ],
-    [
-      "Firefox Merges Support for Vulkan Video Decoding",
-      "https://www.phoronix.com/news/Firefox-Vulkan-Video-Merged"
-    ]
-  ],
-  [
-    [
-      "2026-06-07, 19:41:20",
-      "https://news.ycombinator.com/item?id=48437848"
-    ],
-    [
-      "Why isn't the U.S. better at soccer?",
-      "https://www.natesilver.net/p/why-isnt-the-us-better-at-soccer"
     ]
   ],
   [
@@ -101,52 +171,12 @@
   ],
   [
     [
-      "2026-06-07, 17:22:28",
-      "https://news.ycombinator.com/item?id=48436863"
-    ],
-    [
-      "Office-open-xml-viewer: Office XML document viewer that renders to HTML Canvas",
-      "https://github.com/yukiyokotani/office-open-xml-viewer"
-    ]
-  ],
-  [
-    [
       "2026-06-07, 17:18:12",
       "https://news.ycombinator.com/item?id=48436819"
     ],
     [
       "Powering up a module from the IBM 604: an electronic calculator from 1948",
       "https://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-07, 17:01:17",
-      "https://news.ycombinator.com/item?id=48436669"
-    ],
-    [
-      "Proliferate (YC S25) is hiring to building open source Codex",
-      "https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer"
-    ]
-  ],
-  [
-    [
-      "2026-06-07, 14:01:27",
-      "https://news.ycombinator.com/item?id=48434963"
-    ],
-    [
-      "Podman 6: machine usability improvements (2025)",
-      "https://blog.podman.io/2025/10/podman-6-machine-usability-improvements/"
-    ]
-  ],
-  [
-    [
-      "2026-06-07, 13:06:52",
-      "https://news.ycombinator.com/item?id=48434436"
-    ],
-    [
-      "Anthropic, please ship an official Claude Desktop for Linux",
-      "https://github.com/anthropics/claude-code/issues/65697"
     ]
   ],
   [
@@ -181,26 +211,6 @@
   ],
   [
     [
-      "2026-06-07, 05:04:24",
-      "https://news.ycombinator.com/item?id=48431981"
-    ],
-    [
-      "I design with Claude more than Figma now",
-      "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/"
-    ]
-  ],
-  [
-    [
-      "2026-06-07, 01:24:15",
-      "https://news.ycombinator.com/item?id=48430860"
-    ],
-    [
-      "An Ohio Valley 100k-watt FM signal is severed in broad daylight",
-      "https://www.radioworld.com/news-and-business/headlines/an-ohio-valley-100000-watt-fm-signal-is-severed-in-broad-daylight"
-    ]
-  ],
-  [
-    [
       "2026-06-06, 18:16:40",
       "https://news.ycombinator.com/item?id=48427480"
     ],
@@ -211,12 +221,22 @@
   ],
   [
     [
-      "2026-06-05, 14:11:17",
-      "https://news.ycombinator.com/item?id=48412818"
+      "2026-06-05, 17:41:58",
+      "https://news.ycombinator.com/item?id=48415828"
     ],
     [
-      "A visual introduction to kernel functions",
-      "https://kelvinpaschal.com/blog/kernel-functions/"
+      "Tiny hackable CUDA language model implementation",
+      "https://github.com/markusheimerl/gpt"
+    ]
+  ],
+  [
+    [
+      "2026-06-05, 14:54:37",
+      "https://news.ycombinator.com/item?id=48413366"
+    ],
+    [
+      "Playing with Vision Embeddings",
+      "https://prestonbjensen.com/posts/playing-with-vision-embeddings"
     ]
   ],
   [
@@ -241,32 +261,32 @@
   ],
   [
     [
-      "2026-06-04, 12:35:15",
-      "https://news.ycombinator.com/item?id=48397765"
+      "2026-06-04, 23:07:39",
+      "https://news.ycombinator.com/item?id=48405890"
     ],
     [
-      "Learn PHP in 2026 (Yes, Really)",
-      "https://fagnerbrack.com/learn-php-in-2026-yes-really-bd567753dd84"
+      "Man-Computer Symbiosis J. C. R. Licklider (1960)",
+      "https://groups.csail.mit.edu/medg/people/psz/Licklider.html"
     ]
   ],
   [
     [
-      "2026-06-03, 21:22:23",
-      "https://news.ycombinator.com/item?id=48390269"
+      "2026-06-04, 05:59:22",
+      "https://news.ycombinator.com/item?id=48394587"
     ],
     [
-      "Splash Is a Colour Format",
-      "https://www.todepond.com/lab/splash/"
+      "A discovery about GCC's unidirectional rotation algorithm",
+      "https://devblogs.microsoft.com/oldnewthing/20260603-00/?p=112378"
     ]
   ],
   [
     [
-      "2026-06-03, 21:07:14",
-      "https://news.ycombinator.com/item?id=48390068"
+      "2026-06-03, 21:14:36",
+      "https://news.ycombinator.com/item?id=48390175"
     ],
     [
-      "Back end is full of hidden workflows",
-      "https://unmeshed.io/blog/your-backend-is-full-of-hidden-workflows"
+      "Show HN: NoSuggest – Watch YouTube without the recommendation algorithm",
+      "https://www.nosuggest.com/"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Do we fear the serializable isolation level more than we fear subtle bugs (2024)",
       "https://blog.ydb.tech/do-we-fear-the-serializable-isolation-level-more-than-we-fear-subtle-bugs-5a025401b609"
-    ]
-  ],
-  [
-    [
-      "2026-06-03, 11:50:28",
-      "https://news.ycombinator.com/item?id=48382783"
-    ],
-    [
-      "KNN early termination in Manticore Search",
-      "https://manticoresearch.com/blog/knn-early-termination/"
-    ]
-  ],
-  [
-    [
-      "2026-06-02, 13:52:34",
-      "https://news.ycombinator.com/item?id=48370278"
-    ],
-    [
-      "Backrest – a web UI and orchestrator for restic backup",
-      "https://github.com/garethgeorge/backrest"
     ]
   ]
 ]
