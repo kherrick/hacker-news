@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-06-08, 23:05:20](https://news.ycombinator.com/item?id=48453666) - [Show HN: Mach – A compiled systems language looking for contributions](https://github.com/octalide/mach)
 * [2026-06-08, 21:22:43](https://news.ycombinator.com/item?id=48452317) - [OpenAI Submits S-1 Draft to SEC](https://openai.com/index/openai-submits-confidential-s-1/)
+* [2026-06-08, 21:02:00](https://news.ycombinator.com/item?id=48452000) - [Apple bets cheaper AI will woo small developers](https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/)
 * [2026-06-08, 20:45:03](https://news.ycombinator.com/item?id=48451723) - [FrontierCode](https://cognition.ai/blog/frontier-code)
-* [2026-06-08, 19:45:04](https://news.ycombinator.com/item?id=48450694) - [I'm building a parallel internet, and it's called The Thinnernet](https://inavoyage.blogspot.com/2026/06/im-building-parallel-internet-and-its.html)
 * [2026-06-08, 19:42:28](https://news.ycombinator.com/item?id=48450646) - [Surveillance Is Not Safety: A statement on the UK's latest threat to privacy [pdf]](https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf)
 * [2026-06-08, 19:14:47](https://news.ycombinator.com/item?id=48450142) - [Apple reveals new AI architecture built around Google Gemini models](https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/)
 * [2026-06-08, 19:10:27](https://news.ycombinator.com/item?id=48450065) - [Why are cells small?](https://burrito.bio/essays/what-limits-a-cells-size)
@@ -10,7 +11,6 @@
 * [2026-06-08, 18:47:38](https://news.ycombinator.com/item?id=48449665) - [Apple Core AI Framework](https://developer.apple.com/documentation/coreai/)
 * [2026-06-08, 18:22:39](https://news.ycombinator.com/item?id=48449187) - [Ask HN: What are tools you have made for yourself since the advent of AI?](https://news.ycombinator.com/item?id=48449187)
 * [2026-06-08, 18:17:53](https://news.ycombinator.com/item?id=48449084) - [Siri AI](https://www.apple.com/apple-intelligence/)
-* [2026-06-08, 17:14:24](https://news.ycombinator.com/item?id=48448106) - [Apple WWDC 2026](https://www.apple.com/apple-events/event-stream/)
 * [2026-06-08, 17:07:33](https://news.ycombinator.com/item?id=48448012) - [Massachusetts bans sale of precise location data in new privacy rights bill](https://techcrunch.com/2026/06/08/massachusetts-votes-to-pass-new-privacy-rights-bill-that-bans-sale-of-precise-location-data/)
 * [2026-06-08, 17:01:43](https://news.ycombinator.com/item?id=48447935) - [Stop the Apple Music app from launching](https://lowtechguys.com/musicdecoy/)
 * [2026-06-08, 16:52:11](https://news.ycombinator.com/item?id=48447806) - [Show HN: Gitdot – a better GitHub. Open-source, written in Rust](https://gitdot.io/)
