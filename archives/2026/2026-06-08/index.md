@@ -4,6 +4,17 @@
 
 ### [Archives](../../index.md) for [2026-06-08](index.md)
 
+* [2026-06-08, 15:46:37](https://news.ycombinator.com/item?id=48446893) - [AI Is Slowing Down](https://www.wheresyoured.at/ai-is-slowing-down/)
+* [2026-06-08, 15:27:33](https://news.ycombinator.com/item?id=48446639) - [MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second](https://mimo.xiaomi.com/blog/mimo-tilert-1000tps)
+* [2026-06-08, 15:25:40](https://news.ycombinator.com/item?id=48446611) - [I replaced Spotify with a homemade FM radio station](https://old.reddit.com/r/digitalminimalism/comments/1tes8yu/i_replaced_spotify_with_a_homemade_fm_radio/)
+* [2026-06-08, 15:19:42](https://news.ycombinator.com/item?id=48446521) - [Amazon Cognito now supports multi-Region replication](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cognito-multi-region/)
+* [2026-06-08, 15:14:29](https://news.ycombinator.com/item?id=48446439) - [A Farmer Donated Land to Turn into a Park. The City Is Building a Data Center](https://www.404media.co/a-farmer-donated-land-to-turn-into-a-park-the-city-is-building-a-massive-data-center-instead/)
+* [2026-06-08, 15:04:17](https://news.ycombinator.com/item?id=48446310) - [Italy's Bending Spoons, Owner of AOL and Vimeo, Files for Nasdaq IPO](https://www.reuters.com/legal/transactional/italys-bending-spoons-files-us-ipo-2026-06-08/)
+* [2026-06-08, 14:05:16](https://news.ycombinator.com/item?id=48445554) - [Show HN: Performative-UI – a react component library of design tropes](https://vorpus.github.io/performativeUI/)
+* [2026-06-08, 14:00:22](https://news.ycombinator.com/item?id=48445469) - [SoulsOnly.tff – A font for humans not AI and keyboard firmware to type in it](https://github.com/convictional/souls-only)
+* [2026-06-08, 13:35:27](https://news.ycombinator.com/item?id=48445171) - [Launch HN: Intuned (YC S22) – Build and run reliable browser automations as code](https://intunedhq.com)
+* [2026-06-08, 13:06:19](https://news.ycombinator.com/item?id=48444871) - [Zig by Example](https://github.com/boringcollege/zig-by-example)
+* [2026-06-08, 11:58:02](https://news.ycombinator.com/item?id=48444228) - [Anti-social: It's fads, not friends, which now dominate social media feeds](https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social)
 * [2026-06-08, 09:35:19](https://news.ycombinator.com/item?id=48443135) - [Config Files That Run Code: Supply Chain Security Blindspot](https://safedep.io/config-files-that-run-code/)
 * [2026-06-08, 08:32:52](https://news.ycombinator.com/item?id=48442725) - [The Cypherpunk Library](https://www.cypherpunkbooks.com)
 * [2026-06-08, 08:11:24](https://news.ycombinator.com/item?id=48442569) - [OneDrive data now has an expiry date](https://ms365news.com/blogs/f/your-onedrive-data-now-has-an-expiry-data)

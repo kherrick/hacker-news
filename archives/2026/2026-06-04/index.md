@@ -26,6 +26,7 @@
 * [2026-06-04, 19:21:18](https://news.ycombinator.com/item?id=48403377) - [WSL 2 is getting faster Windows file system access](https://www.boxofcables.dev/wsl2-per-device-swiotlb-pools-for-virtiofs-and-virtioproxy/)
 * [2026-06-04, 18:31:55](https://news.ycombinator.com/item?id=48402744) - [\"Maybe later\" was a feature](https://arnorhs.dev/posts/2026-06-04/maybe-later-was-a-feature/)
 * [2026-06-04, 17:54:28](https://news.ycombinator.com/item?id=48402157) - [Games Between Programs: The Ruliology of Competition](https://writings.stephenwolfram.com/2026/06/games-between-programs-the-ruliology-of-competition/)
+* [2026-06-04, 17:52:29](https://news.ycombinator.com/item?id=48402137) - [OCaml Onboarding: Introduction to the Dune build system](https://ocamlpro.com/blog/2025_07_29_ocaml_onboarding_introduction_to_dune/)
 * [2026-06-04, 17:51:10](https://news.ycombinator.com/item?id=48402116) - [Leap in DNA synthesis slashes time to build new genetic sequences](https://spectrum.ieee.org/faster-dna-synthesis-sidewinder)
 * [2026-06-04, 17:48:58](https://news.ycombinator.com/item?id=48402082) - [Show HN: Hitoku Draft – Context aware local assistant](https://hitoku.me/draft/)
 * [2026-06-04, 17:39:13](https://news.ycombinator.com/item?id=48401965) - [The desperation of NYTimes](https://rozumem.xyz/posts/16)
