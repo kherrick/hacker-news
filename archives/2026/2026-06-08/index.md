@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-08](index.md)
 
+* [2026-06-08, 21:22:43](https://news.ycombinator.com/item?id=48452317) - [OpenAI Submits S-1 Draft to SEC](https://openai.com/index/openai-submits-confidential-s-1/)
 * [2026-06-08, 20:45:03](https://news.ycombinator.com/item?id=48451723) - [FrontierCode](https://cognition.ai/blog/frontier-code)
 * [2026-06-08, 19:45:04](https://news.ycombinator.com/item?id=48450694) - [I'm building a parallel internet, and it's called The Thinnernet](https://inavoyage.blogspot.com/2026/06/im-building-parallel-internet-and-its.html)
 * [2026-06-08, 19:42:28](https://news.ycombinator.com/item?id=48450646) - [Surveillance Is Not Safety: A statement on the UK's latest threat to privacy [pdf]](https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf)

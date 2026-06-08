@@ -40,6 +40,7 @@
 * [2026-06-05, 14:48:44](https://news.ycombinator.com/item?id=48413295) - [Dutch gov't will only allow European company to operate DigiD platform](https://nltimes.nl/2026/06/05/dutch-govt-will-allow-european-company-operate-digid-platform)
 * [2026-06-05, 14:44:44](https://news.ycombinator.com/item?id=48413254) - [India's surprise baby bust](https://www.economist.com/leaders/2026/06/04/indias-surprise-baby-bust-is-a-warning-to-the-world)
 * [2026-06-05, 14:30:50](https://news.ycombinator.com/item?id=48413072) - [I tested every IP KVM in my Homelab](https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/)
+* [2026-06-05, 14:30:05](https://news.ycombinator.com/item?id=48413067) - [Doing Something That's Never Been Done Before](https://talglobus.com/p/doing-something-thats-never-been-done-before/)
 * [2026-06-05, 14:11:17](https://news.ycombinator.com/item?id=48412818) - [A visual introduction to kernel functions](https://kelvinpaschal.com/blog/kernel-functions/)
 * [2026-06-05, 14:01:57](https://news.ycombinator.com/item?id=48412708) - [How to make firecracker faster to start Chromium in < 20ms](https://www.kernel.sh/blog/firecracker-faster)
 * [2026-06-05, 12:56:44](https://news.ycombinator.com/item?id=48411799) - [The Quiet Numbers Station: Decoding Nineteen Years of GPS Cryptography](https://www.benthamsgaze.org/2026/06/02/the-quiet-numbers-station-decoding-nineteen-years-of-gps-cryptography/)
