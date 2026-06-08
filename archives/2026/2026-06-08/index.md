@@ -4,12 +4,16 @@
 
 ### [Archives](../../index.md) for [2026-06-08](index.md)
 
+* [2026-06-08, 18:26:35](https://news.ycombinator.com/item?id=48449262) - [Sam Bankman-Fried applies for a pardon from Trump](https://techcrunch.com/2026/06/08/sam-bankman-fried-applies-for-a-pardon-from-trump/)
+* [2026-06-08, 18:17:53](https://news.ycombinator.com/item?id=48449084) - [Siri AI](https://www.apple.com/apple-intelligence/)
 * [2026-06-08, 17:41:33](https://news.ycombinator.com/item?id=48448493) - [Full Reverse Engineering of the TI-84 Plus Operating System](https://siraben.github.io/ti84p-re/)
+* [2026-06-08, 17:38:52](https://news.ycombinator.com/item?id=48448459) - [Why all new flags look the same](https://www.worksinprogress.news/p/good-design-is-ruining-american-flags)
 * [2026-06-08, 17:31:34](https://news.ycombinator.com/item?id=48448357) - [Thunderbird Littering My Home](https://thefoggiest.dev/2026/06/04/thunderbird-littering-my-home)
 * [2026-06-08, 17:14:24](https://news.ycombinator.com/item?id=48448106) - [Apple WWDC 2026 Livestream](https://www.apple.com/apple-events/event-stream/)
 * [2026-06-08, 17:07:33](https://news.ycombinator.com/item?id=48448012) - [Massachusetts bans sale of precise location data in new privacy rights bill](https://techcrunch.com/2026/06/08/massachusetts-votes-to-pass-new-privacy-rights-bill-that-bans-sale-of-precise-location-data/)
 * [2026-06-08, 17:06:37](https://news.ycombinator.com/item?id=48448000) - [New Referendum Would Flip Brexit Result 10 Years On, Poll Finds](https://www.bloomberg.com/news/articles/2026-06-08/new-referendum-would-flip-brexit-result-10-years-on-poll-finds)
 * [2026-06-08, 17:01:43](https://news.ycombinator.com/item?id=48447935) - [Stop the Apple Music app from launching](https://lowtechguys.com/musicdecoy/)
+* [2026-06-08, 15:59:04](https://news.ycombinator.com/item?id=48447062) - [EU-banned pesticides found in rice, tea and spices](https://www.foodwatch.org/en/eu-banned-pesticides-found-in-rice-tea-and-spices)
 * [2026-06-08, 15:48:00](https://news.ycombinator.com/item?id=48446909) - [Why are so many young people getting cancer? What researchers do and don't know](https://www.nature.com/articles/d41586-026-01780-6)
 * [2026-06-08, 15:46:37](https://news.ycombinator.com/item?id=48446893) - [AI Is Slowing Down](https://www.wheresyoured.at/ai-is-slowing-down/)
 * [2026-06-08, 15:27:33](https://news.ycombinator.com/item?id=48446639) - [MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second](https://mimo.xiaomi.com/blog/mimo-tilert-1000tps)
