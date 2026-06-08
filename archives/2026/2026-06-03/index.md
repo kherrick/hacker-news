@@ -39,6 +39,7 @@
 * [2026-06-03, 16:04:42](https://news.ycombinator.com/item?id=48385906) - [Gemma 4 12B: A unified, encoder-free multimodal model](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/)
 * [2026-06-03, 15:32:12](https://news.ycombinator.com/item?id=48385457) - [Spherical Voronoi Diagram](https://www.jasondavies.com/maps/voronoi/)
 * [2026-06-03, 15:06:09](https://news.ycombinator.com/item?id=48385114) - [A Post-Quantum Future for Let's Encrypt](https://letsencrypt.org/2026/06/03/pq-certs)
+* [2026-06-03, 14:29:02](https://news.ycombinator.com/item?id=48384630) - [Mutation Testing in Haskell](https://cs-syd.eu/posts/2026-06-03-mutation-testing-in-haskell)
 * [2026-06-03, 14:21:19](https://news.ycombinator.com/item?id=48384525) - [Do we fear the serializable isolation level more than we fear subtle bugs?](https://blog.ydb.tech/do-we-fear-the-serializable-isolation-level-more-than-we-fear-subtle-bugs-5a025401b609)
 * [2026-06-03, 14:18:39](https://news.ycombinator.com/item?id=48384482) - [DaVinci Resolve 21](https://www.blackmagicdesign.com/products/davinciresolve/whatsnew)
 * [2026-06-03, 14:10:06](https://news.ycombinator.com/item?id=48384355) - [I was recently diagnosed with anti-NMDA receptor encephalitis](https://burntsushi.net/encephalitis/)

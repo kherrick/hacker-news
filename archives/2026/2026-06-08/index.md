@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-06-08](index.md)
 
+* [2026-06-08, 17:14:24](https://news.ycombinator.com/item?id=48448106) - [Apple WWDC 2026 Livestream](https://www.apple.com/apple-events/event-stream/)
+* [2026-06-08, 17:06:37](https://news.ycombinator.com/item?id=48448000) - [New Referendum Would Flip Brexit Result 10 Years On, Poll Finds](https://www.bloomberg.com/news/articles/2026-06-08/new-referendum-would-flip-brexit-result-10-years-on-poll-finds)
+* [2026-06-08, 17:01:43](https://news.ycombinator.com/item?id=48447935) - [Stop the Apple Music app from launching](https://lowtechguys.com/musicdecoy/)
+* [2026-06-08, 15:48:00](https://news.ycombinator.com/item?id=48446909) - [Why are so many young people getting cancer? What researchers do and don't know](https://www.nature.com/articles/d41586-026-01780-6)
 * [2026-06-08, 15:46:37](https://news.ycombinator.com/item?id=48446893) - [AI Is Slowing Down](https://www.wheresyoured.at/ai-is-slowing-down/)
 * [2026-06-08, 15:27:33](https://news.ycombinator.com/item?id=48446639) - [MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second](https://mimo.xiaomi.com/blog/mimo-tilert-1000tps)
 * [2026-06-08, 15:25:40](https://news.ycombinator.com/item?id=48446611) - [I replaced Spotify with a homemade FM radio station](https://old.reddit.com/r/digitalminimalism/comments/1tes8yu/i_replaced_spotify_with_a_homemade_fm_radio/)
