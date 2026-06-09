@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2026-06-09, 19:58:21",
+      "https://news.ycombinator.com/item?id=48466812"
+    ],
+    [
+      "Grit: Rewriting Git in Rust with Agents",
+      "https://blog.gitbutler.com/true-grit"
+    ]
+  ],
+  [
+    [
       "2026-06-09, 19:21:45",
       "https://news.ycombinator.com/item?id=48466277"
     ],
@@ -101,16 +111,6 @@
   ],
   [
     [
-      "2026-06-09, 17:17:21",
-      "https://news.ycombinator.com/item?id=48464140"
-    ],
-    [
-      "What it feels like to work with Mythos",
-      "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos"
-    ]
-  ],
-  [
-    [
       "2026-06-09, 16:58:01",
       "https://news.ycombinator.com/item?id=48463808"
     ],
@@ -157,16 +157,6 @@
     [
       "FCC wants to kill burner phones by forcing telecoms to get all customers' IDs",
       "https://www.404media.co/fcc-wants-to-kill-burner-phones-by-forcing-telecoms-to-get-all-customers-ids/"
-    ]
-  ],
-  [
-    [
-      "2026-06-09, 15:01:15",
-      "https://news.ycombinator.com/item?id=48462062"
-    ],
-    [
-      "Can LLMs Beat Classical Hyperparameter Optimization Algorithms?",
-      "https://arxiv.org/abs/2603.24647"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Show HN: GentleOS – A pair of hobby OSes for vintage 32-bit and 16-bit PCs",
       "https://github.com/luke8086/gentleos32"
+    ]
+  ],
+  [
+    [
+      "2026-06-06, 18:09:59",
+      "https://news.ycombinator.com/item?id=48427423"
+    ],
+    [
+      "Show HN: Resonate – Low-latency, high-resolution spectral analysis",
+      "https://alexandrefrancois.org/Resonate/"
     ]
   ],
   [
