@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-06-09, 12:26:34",
-      "https://news.ycombinator.com/item?id=48460210"
+      "2026-06-09, 13:56:38",
+      "https://news.ycombinator.com/item?id=48461226"
     ],
     [
-      "Show HN: We post-trained a model that pen tests instead of refusing your code",
-      "https://www.argusred.com/cli"
+      "WWDC 2026: Apple is Folding",
+      "https://cupertinolens.com/2026/06/09/wwdc-2026-apple-is-folding/"
+    ]
+  ],
+  [
+    [
+      "2026-06-09, 13:39:31",
+      "https://news.ycombinator.com/item?id=48461012"
+    ],
+    [
+      "Albania Is Not for Sale: Kushner's $4B Resort Triggers'Flamingo Revolution'",
+      "https://www.yacnews.com/albania-is-not-for-sale-kushners-4-billion-resort-triggers-flamingo-revolution-asset-freeze-and-an-eu-warning/"
+    ]
+  ],
+  [
+    [
+      "2026-06-09, 13:17:34",
+      "https://news.ycombinator.com/item?id=48460758"
+    ],
+    [
+      "The better the autopilot the worse the pilot",
+      "https://julienreszka.com/blog/the-better-the-autopilot-the-worse-the-pilot/"
     ]
   ],
   [
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2026-06-09, 06:14:20",
-      "https://news.ycombinator.com/item?id=48457181"
-    ],
-    [
-      "Facebook is paying people overseas promoting Alberta separatism",
-      "https://www.cbc.ca/news/canada/facebook-overseas-alberta-separtism-9.7223966"
-    ]
-  ],
-  [
-    [
       "2026-06-09, 04:06:14",
       "https://news.ycombinator.com/item?id=48456245"
     ],
@@ -151,32 +161,12 @@
   ],
   [
     [
-      "2026-06-08, 18:22:39",
-      "https://news.ycombinator.com/item?id=48449187"
-    ],
-    [
-      "Ask HN: What are tools you have made for yourself since the advent of AI?",
-      "https://news.ycombinator.com/item?id=48449187"
-    ]
-  ],
-  [
-    [
       "2026-06-08, 18:17:53",
       "https://news.ycombinator.com/item?id=48449084"
     ],
     [
       "Siri AI",
       "https://www.apple.com/apple-intelligence/"
-    ]
-  ],
-  [
-    [
-      "2026-06-08, 16:52:11",
-      "https://news.ycombinator.com/item?id=48447806"
-    ],
-    [
-      "Show HN: Gitdot – A better GitHub. Open-source, written in Rust",
-      "https://gitdot.io/"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "H2JVM – A Haskell Library for Writing JVM Bytecode",
       "https://discourse.haskell.org/t/h2jvm-a-haskell-library-for-writing-jvm-bytecode/14182"
+    ]
+  ],
+  [
+    [
+      "2026-06-06, 18:34:03",
+      "https://news.ycombinator.com/item?id=48427629"
+    ],
+    [
+      "Corrupting a ZFS File on Purpose",
+      "https://oshogbo.com/blog/90/"
     ]
   ],
   [
