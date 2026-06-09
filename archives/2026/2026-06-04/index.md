@@ -53,6 +53,7 @@
 * [2026-06-04, 12:54:28](https://news.ycombinator.com/item?id=48397986) - [Using XDG-Compliant Config Files – WxWidgets](https://wxwidgets.org/blog/2024/01/using-xdg-compliant-config-files/)
 * [2026-06-04, 12:35:15](https://news.ycombinator.com/item?id=48397765) - [Learn PHP in 2026 (Yes, Really)](https://fagnerbrack.com/learn-php-in-2026-yes-really-bd567753dd84)
 * [2026-06-04, 12:32:40](https://news.ycombinator.com/item?id=48397731) - [Ask HN: So what happened to Facebook \"localhost\" tracking?](https://news.ycombinator.com/item?id=48397731)
+* [2026-06-04, 12:27:58](https://news.ycombinator.com/item?id=48397681) - [A Survey of Inlining Heuristics](https://bernsteinbear.com/blog/inlining-heuristics/)
 * [2026-06-04, 12:00:29](https://news.ycombinator.com/item?id=48397435) - [AccessOwl (YC S22) is hiring an AI TypeScript Engineer to connect 300 SaaS tools](https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus)
 * [2026-06-04, 11:39:28](https://news.ycombinator.com/item?id=48397233) - [French-Iranian author Marjane Satrapi, author of 'Persepolis', dies at 56](https://www.france24.com/en/culture/20260604-french-iranian-author-marjane-satrapi-author-of-persepolis-dies-at-56)
 * [2026-06-04, 11:36:00](https://news.ycombinator.com/item?id=48397199) - [When su replaced login for becoming another Unix login](https://utcc.utoronto.ca/~cks/space/blog/unix/SuAsLoginReplacement)
