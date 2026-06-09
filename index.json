@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2026-06-09, 17:17:21",
-      "https://news.ycombinator.com/item?id=48464140"
-    ],
-    [
-      "What it feels like to work with Mythos",
-      "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos"
-    ]
-  ],
-  [
-    [
       "2026-06-09, 16:58:13",
       "https://news.ycombinator.com/item?id=48463811"
     ],
@@ -77,16 +67,6 @@
     [
       "Biff.core: system composition for Clojure web apps",
       "https://biffweb.com/p/core/"
-    ]
-  ],
-  [
-    [
-      "2026-06-09, 15:59:41",
-      "https://news.ycombinator.com/item?id=48462823"
-    ],
-    [
-      "'Sloppenheimer:' Amazon Employees Mock the Company's AI on Slack",
-      "https://www.404media.co/sloppenheimer-amazon-employees-mock-the-companys-ai-on-slack/"
     ]
   ],
   [
@@ -261,6 +241,16 @@
   ],
   [
     [
+      "2026-06-07, 17:01:34",
+      "https://news.ycombinator.com/item?id=48436672"
+    ],
+    [
+      "An introduction to functional analysis for science and engineering",
+      "https://arxiv.org/abs/1904.02539"
+    ]
+  ],
+  [
+    [
       "2026-06-07, 15:45:50",
       "https://news.ycombinator.com/item?id=48435943"
     ],
@@ -271,22 +261,32 @@
   ],
   [
     [
+      "2026-06-06, 19:01:32",
+      "https://news.ycombinator.com/item?id=48427883"
+    ],
+    [
+      "Rayforce",
+      "https://github.com/RayforceDB/rayforce"
+    ]
+  ],
+  [
+    [
+      "2026-06-06, 18:34:03",
+      "https://news.ycombinator.com/item?id=48427629"
+    ],
+    [
+      "Corrupting a ZFS File on Purpose",
+      "https://oshogbo.com/blog/90/"
+    ]
+  ],
+  [
+    [
       "2026-06-06, 06:02:28",
       "https://news.ycombinator.com/item?id=48421858"
     ],
     [
       "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
       "https://opencv.org/opencv-5/"
-    ]
-  ],
-  [
-    [
-      "2026-06-06, 01:49:18",
-      "https://news.ycombinator.com/item?id=48420586"
-    ],
-    [
-      "SAT-Physical Thermodynamic Framework: treating constraints as a thermal system",
-      "https://github.com/alikamp/SAT_HARDNESS_P-NP"
     ]
   ],
   [
