@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-06-09](index.md)
 
+* [2026-06-09, 12:26:34](https://news.ycombinator.com/item?id=48460210) - [Show HN: We post-trained a model that pen tests instead of refusing your code](https://www.argusred.com/cli)
 * [2026-06-09, 12:01:09](https://news.ycombinator.com/item?id=48459968) - [Emerge Career (YC S22) Is Hiring a Founding Growth Marketer](https://www.ycombinator.com/companies/emerge-career/jobs/v0S1AEG-founding-growth-marketer)
+* [2026-06-09, 11:46:40](https://news.ycombinator.com/item?id=48459837) - [Show HN: Gravity – interactive solar-system simulator, from Newton to Einstein](https://qunabu.github.io/Gravity/)
 * [2026-06-09, 10:46:14](https://news.ycombinator.com/item?id=48459294) - [Making Graphics Like it's 1993](https://staniks.github.io/articles/catlantean-3d-blog-1/)
 * [2026-06-09, 10:08:18](https://news.ycombinator.com/item?id=48459001) - [The iPhone's Last Stand](https://stratechery.com/2026/the-iphones-last-stand/)
 * [2026-06-09, 09:50:30](https://news.ycombinator.com/item?id=48458890) - [GentleOS – Classic operating system with a lovely retro GUI](https://github.com/luke8086/gentleos32)
 * [2026-06-09, 09:17:41](https://news.ycombinator.com/item?id=48458636) - [Eagle Computer: The rise and fall of an early PC clone](https://dfarq.homeip.net/eagle-computer-the-rise-and-fall-of-an-early-pc-clone/)
+* [2026-06-09, 09:10:10](https://news.ycombinator.com/item?id=48458586) - [Cleaning up after AI rockstar developers](https://www.codingwithjesse.com/blog/rockstar-developers/)
 * [2026-06-09, 09:05:39](https://news.ycombinator.com/item?id=48458552) - ['They were laughing': Israel's use of rape and sexual abuse in prisons](https://www.aljazeera.com/news/2026/6/9/they-were-laughing-israels-use-of-rape-and-sexual-abuse-in-prisons)
 * [2026-06-09, 08:25:36](https://news.ycombinator.com/item?id=48458257) - [Forever Young: how one molecule can lock plants in a youthful state.(2025)](https://omnia.sas.upenn.edu/story/biologist-scott-poethig-plants-never-age)
 * [2026-06-09, 07:33:16](https://news.ycombinator.com/item?id=48457830) - [Microsoft's open source tools were hacked to steal passwords of AI developers](https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/)

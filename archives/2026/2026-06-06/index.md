@@ -17,6 +17,7 @@
 * [2026-06-06, 18:21:51](https://news.ycombinator.com/item?id=48427526) - [The beauty and simplicity of the good old C-style void* in C++](https://giodicanio.com/2026/06/05/how-to-declare-a-c-plus-plus-function-that-takes-a-blob-of-memory/)
 * [2026-06-06, 18:21:06](https://news.ycombinator.com/item?id=48427523) - [Pentagon raised threat of Israeli spying on U.S. to highest level, sources say](https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565)
 * [2026-06-06, 18:16:40](https://news.ycombinator.com/item?id=48427480) - [Cloning a Sennheiser BA2015 battery pack](https://blog.brixit.nl/cloning-a-sennheiser-ba2015-accu-pack/)
+* [2026-06-06, 17:16:12](https://news.ycombinator.com/item?id=48426956) - [Adopting the Parallel DWARF linker in dsymutil](https://jonasdevlieghere.com/post/dsymutil-parallel-linker/)
 * [2026-06-06, 15:55:46](https://news.ycombinator.com/item?id=48426202) - [You Can Run](https://magazine.atavist.com/2026/mccann-cocaine-fugitives)
 * [2026-06-06, 15:35:49](https://news.ycombinator.com/item?id=48426022) - [Police in England and Wales told to halt AI use in court statements](https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241)
 * [2026-06-06, 15:30:09](https://news.ycombinator.com/item?id=48425982) - [Python JIT project was asked to pause development](https://discuss.python.org/t/an-announcement-from-the-steering-council-regarding-the-jit-project/107638)
