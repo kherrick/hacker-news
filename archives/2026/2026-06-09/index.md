@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-06-09](index.md)
 
+* [2026-06-09, 21:19:11](https://news.ycombinator.com/item?id=48467896) - [If Claude Fable stops helping you, you'll never know](https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html)
+* [2026-06-09, 21:06:00](https://news.ycombinator.com/item?id=48467759) - [Exif Smuggling](https://github.com/signalblur/exifsmugglingpoc)
+* [2026-06-09, 21:01:40](https://news.ycombinator.com/item?id=48467712) - [Company Will Add Phone, AirPod, and Smartwatch Trackers to ALPRs](https://www.404media.co/this-company-will-add-phone-airpod-and-smartwatch-trackers-to-license-plate-readers/)
+* [2026-06-09, 21:01:00](https://news.ycombinator.com/item?id=48467705) - [Upcoming breaking changes for NPM v12](https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/)
+* [2026-06-09, 20:50:54](https://news.ycombinator.com/item?id=48467570) - [Alpine Linux 3.24.0 Released](https://alpinelinux.org/posts/Alpine-3.24.0-released.html)
 * [2026-06-09, 19:21:45](https://news.ycombinator.com/item?id=48466277) - [Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks](https://aarushgupta.io/posts/kan-fpga/)
 * [2026-06-09, 18:50:27](https://news.ycombinator.com/item?id=48465744) - [Apple's AI Can Now Change Your Passwords. What Could Possibly Go Wrong?](https://www.kylereddoch.me/blog/apples-ai-can-now-change-your-passwords-what-could-possibly-go-wrong/)
 * [2026-06-09, 18:47:52](https://news.ycombinator.com/item?id=48465702) - [Ask HN: Are you still using your Vision Pro?](https://news.ycombinator.com/item?id=48465702)
