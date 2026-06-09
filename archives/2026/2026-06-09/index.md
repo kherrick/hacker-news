@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-09](index.md)
 
+* [2026-06-09, 07:33:16](https://news.ycombinator.com/item?id=48457830) - [Microsoft's open source tools were hacked to steal passwords of AI developers](https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/)
 * [2026-06-09, 06:14:20](https://news.ycombinator.com/item?id=48457181) - [Facebook is paying people overseas promoting Alberta separatism](https://www.cbc.ca/news/canada/facebook-overseas-alberta-separtism-9.7223966)
 * [2026-06-09, 04:48:10](https://news.ycombinator.com/item?id=48456555) - [CRDTs merge concurrent edits. Why not concurrent creation?](https://loro.dev/blog/mergeable-containers)
 * [2026-06-09, 04:06:14](https://news.ycombinator.com/item?id=48456245) - [Porting the ThinkPad X61 to Coreboot](https://blog.aheymans.xyz/post/thinkpad_x61/)
