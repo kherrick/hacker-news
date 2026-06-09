@@ -58,6 +58,7 @@
 * [2026-06-08, 04:10:08](https://news.ycombinator.com/item?id=48441242) - [Richard Scolyer Has Died](https://www.bbc.com/news/articles/c14yz5jg476o)
 * [2026-06-08, 03:17:10](https://news.ycombinator.com/item?id=48440952) - [1k Data Breaches Later, the Disclosure Lag Is Worse](https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/)
 * [2026-06-08, 02:42:24](https://news.ycombinator.com/item?id=48440792) - [Dopamine Fracking](https://igerman.cc/blog/dopamine-fracking/)
+* [2026-06-08, 02:05:44](https://news.ycombinator.com/item?id=48440611) - [Painting the Internet: A Different Kind of Warhol Worm [pdf]](https://cspages.ucalgary.ca/~aycock/papers/artworm.pdf)
 * [2026-06-08, 02:05:40](https://news.ycombinator.com/item?id=48440610) - [Texas grid flags risks as data centers, crypto sites fail voltage tests](https://www.reuters.com/business/energy/texas-grid-flags-risks-data-centers-crypto-sites-fail-voltage-tests-2026-06-05/)
 * [2026-06-08, 01:54:54](https://news.ycombinator.com/item?id=48440549) - [Algorithmic Monocultures in Hiring](https://algorithmichiring.github.io/)
 * [2026-06-08, 01:41:42](https://news.ycombinator.com/item?id=48440463) - [New drug 'functionally cures' many hepatitis B virus infections](https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections?user_id=66c4bf745d78644b3aa57b08)

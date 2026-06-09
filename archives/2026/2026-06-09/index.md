@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-06-09](index.md)
 
+* [2026-06-09, 17:29:17](https://news.ycombinator.com/item?id=48464333) - [Where is the AI jobs crisis?](https://www.apollo.com/wealth/the-daily-spark/where-is-the-ai-jobs-crisis)
+* [2026-06-09, 17:29:05](https://news.ycombinator.com/item?id=48464330) - [The LD_DEBUG environment variable (2012)](https://bnikolic.co.uk/blog/linux-ld-debug.html)
+* [2026-06-09, 17:17:21](https://news.ycombinator.com/item?id=48464140) - [What it feels like to work with Mythos](https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos)
 * [2026-06-09, 16:58:13](https://news.ycombinator.com/item?id=48463811) - [System Card: Claude Fable 5 and Claude Mythos 5 [pdf]](https://www-cdn.anthropic.com/d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf)
 * [2026-06-09, 16:58:01](https://news.ycombinator.com/item?id=48463808) - [Claude Fable 5](https://www.anthropic.com/news/claude-fable-5-mythos-5)
 * [2026-06-09, 16:38:38](https://news.ycombinator.com/item?id=48463430) - [I Think Rutger Bregman and the School for Moral Ambition Are Full of Shit](https://louwrentius.com/i-think-rutger-bregman-the-school-for-moral-ambition-are-full-of-shit.html)
