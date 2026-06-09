@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-06-08](index.md)
 
 * [2026-06-08, 23:05:20](https://news.ycombinator.com/item?id=48453666) - [Show HN: Mach – A compiled systems language looking for contributions](https://github.com/octalide/mach)
+* [2026-06-08, 22:10:18](https://news.ycombinator.com/item?id=48453002) - [Show HN: Command Center, the AI coding env for people who care about quality](https://www.cc.dev/)
 * [2026-06-08, 21:22:43](https://news.ycombinator.com/item?id=48452317) - [OpenAI Submits S-1 Draft to SEC](https://openai.com/index/openai-submits-confidential-s-1/)
 * [2026-06-08, 21:02:00](https://news.ycombinator.com/item?id=48452000) - [Apple bets cheaper AI will woo small developers](https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/)
 * [2026-06-08, 20:45:03](https://news.ycombinator.com/item?id=48451723) - [FrontierCode](https://cognition.ai/blog/frontier-code)

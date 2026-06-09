@@ -33,6 +33,7 @@
 * [2026-06-07, 12:34:27](https://news.ycombinator.com/item?id=48434204) - [Misguided Misstatements Continue to Dismantle Biomedical Research in the U.S.](https://diabetesjournals.org/care/article/49/6/901/164764/Misguided-Brushes-of-a-Pen-Continue-to-Dismantle)
 * [2026-06-07, 12:00:40](https://news.ycombinator.com/item?id=48433987) - [9 Mothers (YC P26) Is Hiring](https://9mothers.com/careers)
 * [2026-06-07, 11:55:05](https://news.ycombinator.com/item?id=48433962) - [The best relationships are all-encompassing.](https://andys.blog/the-best-relationships/)
+* [2026-06-07, 11:45:58](https://news.ycombinator.com/item?id=48433927) - [The Grate Cheese Robbery](https://longreads.com/2026/05/28/the-cheese-theft-food-crime/)
 * [2026-06-07, 11:16:46](https://news.ycombinator.com/item?id=48433756) - [Show HN: Lathe – Use LLMs to learn a new domain, not skip past it](https://github.com/devenjarvis/lathe)
 * [2026-06-07, 10:10:33](https://news.ycombinator.com/item?id=48433410) - [Scientists ejected from diabetes conference for distributing journal reprints](https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/)
 * [2026-06-07, 09:43:45](https://news.ycombinator.com/item?id=48433305) - [Efficient and Training-Free Single-Image Diffusion Models](https://arxiv.org/abs/2606.04299)
