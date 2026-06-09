@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-06-09](index.md)
 
+* [2026-06-09, 13:56:38](https://news.ycombinator.com/item?id=48461226) - [WWDC 2026: Apple is Folding](https://cupertinolens.com/2026/06/09/wwdc-2026-apple-is-folding/)
+* [2026-06-09, 13:39:31](https://news.ycombinator.com/item?id=48461012) - [Albania Is Not for Sale: Kushner's $4B Resort Triggers'Flamingo Revolution'](https://www.yacnews.com/albania-is-not-for-sale-kushners-4-billion-resort-triggers-flamingo-revolution-asset-freeze-and-an-eu-warning/)
+* [2026-06-09, 13:17:34](https://news.ycombinator.com/item?id=48460758) - [The better the autopilot the worse the pilot](https://julienreszka.com/blog/the-better-the-autopilot-the-worse-the-pilot/)
 * [2026-06-09, 12:26:34](https://news.ycombinator.com/item?id=48460210) - [Show HN: We post-trained a model that pen tests instead of refusing your code](https://www.argusred.com/cli)
 * [2026-06-09, 12:01:09](https://news.ycombinator.com/item?id=48459968) - [Emerge Career (YC S22) Is Hiring a Founding Growth Marketer](https://www.ycombinator.com/companies/emerge-career/jobs/v0S1AEG-founding-growth-marketer)
 * [2026-06-09, 11:46:40](https://news.ycombinator.com/item?id=48459837) - [Show HN: Gravity – interactive solar-system simulator, from Newton to Einstein](https://qunabu.github.io/Gravity/)
