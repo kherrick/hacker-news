@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-06-09](index.md)
 
+* [2026-06-09, 09:17:41](https://news.ycombinator.com/item?id=48458636) - [Eagle Computer: The rise and fall of an early PC clone](https://dfarq.homeip.net/eagle-computer-the-rise-and-fall-of-an-early-pc-clone/)
+* [2026-06-09, 09:05:39](https://news.ycombinator.com/item?id=48458552) - ['They were laughing': Israel's use of rape and sexual abuse in prisons](https://www.aljazeera.com/news/2026/6/9/they-were-laughing-israels-use-of-rape-and-sexual-abuse-in-prisons)
+* [2026-06-09, 08:25:36](https://news.ycombinator.com/item?id=48458257) - [Forever Young: how one molecule can lock plants in a youthful state.(2025)](https://omnia.sas.upenn.edu/story/biologist-scott-poethig-plants-never-age)
 * [2026-06-09, 07:33:16](https://news.ycombinator.com/item?id=48457830) - [Microsoft's open source tools were hacked to steal passwords of AI developers](https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/)
 * [2026-06-09, 06:14:20](https://news.ycombinator.com/item?id=48457181) - [Facebook is paying people overseas promoting Alberta separatism](https://www.cbc.ca/news/canada/facebook-overseas-alberta-separtism-9.7223966)
 * [2026-06-09, 04:48:10](https://news.ycombinator.com/item?id=48456555) - [CRDTs merge concurrent edits. Why not concurrent creation?](https://loro.dev/blog/mergeable-containers)

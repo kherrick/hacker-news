@@ -38,6 +38,7 @@
 * [2026-06-07, 11:45:58](https://news.ycombinator.com/item?id=48433927) - [The Grate Cheese Robbery](https://longreads.com/2026/05/28/the-cheese-theft-food-crime/)
 * [2026-06-07, 11:16:46](https://news.ycombinator.com/item?id=48433756) - [Show HN: Lathe – Use LLMs to learn a new domain, not skip past it](https://github.com/devenjarvis/lathe)
 * [2026-06-07, 10:10:33](https://news.ycombinator.com/item?id=48433410) - [Scientists ejected from diabetes conference for distributing journal reprints](https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/)
+* [2026-06-07, 09:59:52](https://news.ycombinator.com/item?id=48433356) - [H2JVM – A Haskell Library for Writing JVM Bytecode](https://discourse.haskell.org/t/h2jvm-a-haskell-library-for-writing-jvm-bytecode/14182)
 * [2026-06-07, 09:43:45](https://news.ycombinator.com/item?id=48433305) - [Efficient and Training-Free Single-Image Diffusion Models](https://arxiv.org/abs/2606.04299)
 * [2026-06-07, 07:35:02](https://news.ycombinator.com/item?id=48432722) - [Show HN: Kyushu – A self-hostable WASM sandbox for JavaScript workers](https://kyushu.dev/)
 * [2026-06-07, 05:47:54](https://news.ycombinator.com/item?id=48432199) - [The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners](https://www.ioccc.org/2025/)
