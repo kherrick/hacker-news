@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-06-09, 17:29:17",
+      "https://news.ycombinator.com/item?id=48464333"
+    ],
+    [
+      "Where is the AI jobs crisis?",
+      "https://www.apollo.com/wealth/the-daily-spark/where-is-the-ai-jobs-crisis"
+    ]
+  ],
+  [
+    [
+      "2026-06-09, 17:29:05",
+      "https://news.ycombinator.com/item?id=48464330"
+    ],
+    [
+      "The LD_DEBUG environment variable (2012)",
+      "https://bnikolic.co.uk/blog/linux-ld-debug.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-09, 17:17:21",
+      "https://news.ycombinator.com/item?id=48464140"
+    ],
+    [
+      "What it feels like to work with Mythos",
+      "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos"
+    ]
+  ],
+  [
+    [
       "2026-06-09, 16:58:13",
       "https://news.ycombinator.com/item?id=48463811"
     ],
@@ -21,22 +51,22 @@
   ],
   [
     [
-      "2026-06-09, 16:38:38",
-      "https://news.ycombinator.com/item?id=48463430"
-    ],
-    [
-      "I Think Rutger Bregman and the School for Moral Ambition Are Full of Shit",
-      "https://louwrentius.com/i-think-rutger-bregman-the-school-for-moral-ambition-are-full-of-shit.html"
-    ]
-  ],
-  [
-    [
       "2026-06-09, 16:28:28",
       "https://news.ycombinator.com/item?id=48463273"
     ],
     [
       "Launch HN: Transload (YC P26) – Measuring freight items with CCTV",
       "https://news.ycombinator.com/item?id=48463273"
+    ]
+  ],
+  [
+    [
+      "2026-06-09, 16:13:10",
+      "https://news.ycombinator.com/item?id=48463024"
+    ],
+    [
+      "Apple decided not to roll out Siri in EU after denied request for exemption",
+      "https://www.reuters.com/business/apple-failed-make-its-ai-tool-comply-eu-regulations-eu-commission-says-2026-06-09/"
     ]
   ],
   [
@@ -65,7 +95,7 @@
       "https://news.ycombinator.com/item?id=48462308"
     ],
     [
-      "FCC Wants to Kill Burner Phones by Forcing Telecoms to Get All Customers' IDs",
+      "FCC wants to kill burner phones by forcing telecoms to get all customers' IDs",
       "https://www.404media.co/fcc-wants-to-kill-burner-phones-by-forcing-telecoms-to-get-all-customers-ids/"
     ]
   ],
@@ -211,22 +241,12 @@
   ],
   [
     [
-      "2026-06-08, 19:14:47",
-      "https://news.ycombinator.com/item?id=48450142"
+      "2026-06-08, 02:05:44",
+      "https://news.ycombinator.com/item?id=48440611"
     ],
     [
-      "Apple reveals new AI architecture built around Google Gemini models",
-      "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/"
-    ]
-  ],
-  [
-    [
-      "2026-06-08, 15:13:43",
-      "https://news.ycombinator.com/item?id=48446428"
-    ],
-    [
-      "xAI is looking more like a datacentre REIT than a frontier lab",
-      "https://martinalderson.com/posts/xais-new-rental-business/"
+      "Painting the Internet: A Different Kind of Warhol Worm [pdf]",
+      "https://cspages.ucalgary.ca/~aycock/papers/artworm.pdf"
     ]
   ],
   [
@@ -241,32 +261,12 @@
   ],
   [
     [
-      "2026-06-07, 17:01:34",
-      "https://news.ycombinator.com/item?id=48436672"
-    ],
-    [
-      "An introduction to functional analysis for science and engineering",
-      "https://arxiv.org/abs/1904.02539"
-    ]
-  ],
-  [
-    [
       "2026-06-07, 15:45:50",
       "https://news.ycombinator.com/item?id=48435943"
     ],
     [
       "Show HN: GentleOS – A pair of hobby OSes for vintage 32-bit and 16-bit PCs",
       "https://github.com/luke8086/gentleos32"
-    ]
-  ],
-  [
-    [
-      "2026-06-06, 17:16:12",
-      "https://news.ycombinator.com/item?id=48426956"
-    ],
-    [
-      "Adopting the Parallel DWARF linker in dsymutil",
-      "https://jonasdevlieghere.com/post/dsymutil-parallel-linker/"
     ]
   ],
   [
