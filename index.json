@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-06-09, 16:13:10",
+      "https://news.ycombinator.com/item?id=48463024"
+    ],
+    [
+      "Apple decided not to roll out Siri in EU after denied request for exemption",
+      "https://www.reuters.com/business/apple-failed-make-its-ai-tool-comply-eu-regulations-eu-commission-says-2026-06-09/"
+    ]
+  ],
+  [
+    [
+      "2026-06-09, 16:12:52",
+      "https://news.ycombinator.com/item?id=48463018"
+    ],
+    [
+      "Biff.core: system composition for Clojure web apps",
+      "https://biffweb.com/p/core/"
+    ]
+  ],
+  [
+    [
+      "2026-06-09, 15:59:41",
+      "https://news.ycombinator.com/item?id=48462823"
+    ],
+    [
+      "'Sloppenheimer:' Amazon Employees Mock the Company's AI on Slack",
+      "https://www.404media.co/sloppenheimer-amazon-employees-mock-the-companys-ai-on-slack/"
+    ]
+  ],
+  [
+    [
+      "2026-06-09, 15:21:46",
+      "https://news.ycombinator.com/item?id=48462308"
+    ],
+    [
+      "FCC Wants to Kill Burner Phones by Forcing Telecoms to Get All Customers' IDs",
+      "https://www.404media.co/fcc-wants-to-kill-burner-phones-by-forcing-telecoms-to-get-all-customers-ids/"
+    ]
+  ],
+  [
+    [
+      "2026-06-09, 15:12:30",
+      "https://news.ycombinator.com/item?id=48462184"
+    ],
+    [
+      "Using Optical Aberrations to Distinguish Real Astronomical Transients",
+      "https://arxiv.org/abs/2606.08319"
+    ]
+  ],
+  [
+    [
       "2026-06-09, 15:09:38",
       "https://news.ycombinator.com/item?id=48462156"
     ],
@@ -41,32 +91,12 @@
   ],
   [
     [
-      "2026-06-09, 13:39:31",
-      "https://news.ycombinator.com/item?id=48461012"
-    ],
-    [
-      "Albania Is Not for Sale: Kushner's $4B Resort Triggers'Flamingo Revolution'",
-      "https://www.yacnews.com/albania-is-not-for-sale-kushners-4-billion-resort-triggers-flamingo-revolution-asset-freeze-and-an-eu-warning/"
-    ]
-  ],
-  [
-    [
       "2026-06-09, 13:27:03",
       "https://news.ycombinator.com/item?id=48460863"
     ],
     [
       "Is Grep All You Need? How Agent Harnesses Reshape Agentic Search",
       "https://arxiv.org/abs/2605.15184"
-    ]
-  ],
-  [
-    [
-      "2026-06-09, 13:17:34",
-      "https://news.ycombinator.com/item?id=48460758"
-    ],
-    [
-      "The better the autopilot the worse the pilot",
-      "https://julienreszka.com/blog/the-better-the-autopilot-the-worse-the-pilot/"
     ]
   ],
   [
@@ -97,26 +127,6 @@
     [
       "Making Graphics Like it's 1993",
       "https://staniks.github.io/articles/catlantean-3d-blog-1/"
-    ]
-  ],
-  [
-    [
-      "2026-06-09, 10:08:18",
-      "https://news.ycombinator.com/item?id=48459001"
-    ],
-    [
-      "The iPhone's Last Stand",
-      "https://stratechery.com/2026/the-iphones-last-stand/"
-    ]
-  ],
-  [
-    [
-      "2026-06-09, 09:50:30",
-      "https://news.ycombinator.com/item?id=48458890"
-    ],
-    [
-      "GentleOS – Classic operating system with a lovely retro GUI",
-      "https://github.com/luke8086/gentleos32"
     ]
   ],
   [
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2026-06-09, 04:06:14",
-      "https://news.ycombinator.com/item?id=48456245"
-    ],
-    [
-      "Porting the ThinkPad X61 to Coreboot",
-      "https://blog.aheymans.xyz/post/thinkpad_x61/"
-    ]
-  ],
-  [
-    [
       "2026-06-09, 03:20:40",
       "https://news.ycombinator.com/item?id=48455928"
     ],
@@ -197,16 +197,6 @@
     [
       "Siri AI",
       "https://www.apple.com/apple-intelligence/"
-    ]
-  ],
-  [
-    [
-      "2026-06-08, 15:59:04",
-      "https://news.ycombinator.com/item?id=48447062"
-    ],
-    [
-      "EU-banned pesticides found in rice, tea and spices",
-      "https://www.foodwatch.org/en/eu-banned-pesticides-found-in-rice-tea-and-spices"
     ]
   ],
   [
@@ -251,22 +241,22 @@
   ],
   [
     [
+      "2026-06-07, 15:45:50",
+      "https://news.ycombinator.com/item?id=48435943"
+    ],
+    [
+      "Show HN: GentleOS – A pair of hobby OSes for vintage 32-bit and 16-bit PCs",
+      "https://github.com/luke8086/gentleos32"
+    ]
+  ],
+  [
+    [
       "2026-06-06, 18:34:03",
       "https://news.ycombinator.com/item?id=48427629"
     ],
     [
       "Corrupting a ZFS File on Purpose",
       "https://oshogbo.com/blog/90/"
-    ]
-  ],
-  [
-    [
-      "2026-06-06, 18:21:51",
-      "https://news.ycombinator.com/item?id=48427526"
-    ],
-    [
-      "The beauty and simplicity of the good old C-style void* in C++",
-      "https://giodicanio.com/2026/06/05/how-to-declare-a-c-plus-plus-function-that-takes-a-blob-of-memory/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
       "https://opencv.org/opencv-5/"
+    ]
+  ],
+  [
+    [
+      "2026-06-06, 01:49:18",
+      "https://news.ycombinator.com/item?id=48420586"
+    ],
+    [
+      "SAT-Physical Thermodynamic Framework: treating constraints as a thermal system",
+      "https://github.com/alikamp/SAT_HARDNESS_P-NP"
     ]
   ],
   [
