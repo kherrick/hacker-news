@@ -13,6 +13,7 @@
 * [2026-06-06, 20:03:55](https://news.ycombinator.com/item?id=48428475) - [Sem: New primitive for code understanding – not LSPs, but entities on top of Git](https://ataraxy-labs.github.io/sem/)
 * [2026-06-06, 19:51:10](https://news.ycombinator.com/item?id=48428356) - [Home alone: Remote work, isolation, and mental health](https://www.science.org/doi/10.1126/science.aec7671)
 * [2026-06-06, 19:17:46](https://news.ycombinator.com/item?id=48428025) - [Ntsc-rs – open-source video emulation of analog TV and VHS artifacts](https://ntsc.rs/)
+* [2026-06-06, 19:01:32](https://news.ycombinator.com/item?id=48427883) - [Rayforce](https://github.com/RayforceDB/rayforce)
 * [2026-06-06, 18:35:27](https://news.ycombinator.com/item?id=48427643) - [Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot](https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/)
 * [2026-06-06, 18:34:03](https://news.ycombinator.com/item?id=48427629) - [Corrupting a ZFS File on Purpose](https://oshogbo.com/blog/90/)
 * [2026-06-06, 18:21:51](https://news.ycombinator.com/item?id=48427526) - [The beauty and simplicity of the good old C-style void* in C++](https://giodicanio.com/2026/06/05/how-to-declare-a-c-plus-plus-function-that-takes-a-blob-of-memory/)
