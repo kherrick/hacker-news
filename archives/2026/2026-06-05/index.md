@@ -9,6 +9,7 @@
 * [2026-06-05, 23:36:00](https://news.ycombinator.com/item?id=48419769) - [Games Between Programs: The Ruliology of Competition](https://writings.stephenwolfram.com/2026/06/games-between-programs-the-ruliology-of-competition/)
 * [2026-06-05, 23:13:12](https://news.ycombinator.com/item?id=48419571) - [The perils of UUID primary keys in SQLite](https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html)
 * [2026-06-05, 22:12:58](https://news.ycombinator.com/item?id=48419023) - [Microsoft wants users to be addicted to Scout, their AI personal assistant](https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/)
+* [2026-06-05, 22:09:38](https://news.ycombinator.com/item?id=48419000) - [Hermes Agent – Open-source AI agent with persistent memory](https://hermes-agent.org/)
 * [2026-06-05, 22:02:27](https://news.ycombinator.com/item?id=48418949) - [Boeing 787 Dreamliner Loses Door at Remote Pacific Airport, Puzzling Engineers](https://aeroxplorer.com/articles/boeing-787-dreamliner-loses-door-at-remote-pacific-airport-puzzling-engineers)
 * [2026-06-05, 21:52:02](https://news.ycombinator.com/item?id=48418839) - [Warren's Abstract Machine: A Tutorial Reconstruction](https://github.com/a-yiorgos/wambook)
 * [2026-06-05, 20:52:56](https://news.ycombinator.com/item?id=48418125) - [Tribute to Jiro Yamada, Automotive Artist (1960-2025) [video]](https://www.youtube.com/watch?v=rJ2gQ5Md60U)
