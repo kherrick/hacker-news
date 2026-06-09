@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-06-09, 04:48:10](https://news.ycombinator.com/item?id=48456555) - [CRDTs merge concurrent edits. Why not concurrent creation?](https://loro.dev/blog/mergeable-containers)
+* [2026-06-09, 04:06:14](https://news.ycombinator.com/item?id=48456245) - [Porting the ThinkPad X61 to Coreboot](https://blog.aheymans.xyz/post/thinkpad_x61/)
 * [2026-06-09, 03:34:00](https://news.ycombinator.com/item?id=48456015) - [GoGoGrandparent (YC S16) is hiring Back end Engineers](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer)
 * [2026-06-09, 03:20:40](https://news.ycombinator.com/item?id=48455928) - [Job: Head of Stonehenge](https://www.english-heritage.org.uk/about/our-people/careers-with-us/job-search/default-job-page/?jobRef=16449)
 * [2026-06-09, 00:01:37](https://news.ycombinator.com/item?id=48454210) - [Federal judge blocks H1B visa $100K fee](https://www.alaskasnewssource.com/2026/06/08/federal-judge-blocks-h1-b-visa-100k-fee/)
@@ -23,13 +25,11 @@
 * [2026-06-08, 14:05:16](https://news.ycombinator.com/item?id=48445554) - [Show HN: Performative-UI – A react component library of design tropes](https://vorpus.github.io/performativeUI/)
 * [2026-06-08, 13:35:27](https://news.ycombinator.com/item?id=48445171) - [Launch HN: Intuned (YC S22) – Build and run reliable browser automations as code](https://intunedhq.com)
 * [2026-06-08, 11:58:02](https://news.ycombinator.com/item?id=48444228) - [Anti-social: It's fads, not friends, which now dominate social media feeds](https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social)
-* [2026-06-08, 01:37:52](https://news.ycombinator.com/item?id=48440435) - [1worldflag: A blue dot on a transparent background](https://1worldflag.com/)
 * [2026-06-07, 21:10:20](https://news.ycombinator.com/item?id=48438595) - [How much do amd64 microarchitecture levels help in Go?](https://lemire.me/blog/2026/06/06/how-much-do-amd64-microarchitecture-levels-help-in-go/)
 * [2026-06-07, 01:17:40](https://news.ycombinator.com/item?id=48430821) - [Passing DBs through continuations](https://remy.wang/blog/cps.html)
 * [2026-06-05, 23:36:00](https://news.ycombinator.com/item?id=48419769) - [Games Between Programs: The Ruliology of Competition](https://writings.stephenwolfram.com/2026/06/games-between-programs-the-ruliology-of-competition/)
 * [2026-06-05, 15:15:35](https://news.ycombinator.com/item?id=48413655) - [Looking Forward to Postgres 19: Query Hints](https://www.pgedge.com/blog/looking-forward-to-postgres-19-query-hints)
 * [2026-06-04, 17:52:29](https://news.ycombinator.com/item?id=48402137) - [OCaml Onboarding: Introduction to the Dune build system](https://ocamlpro.com/blog/2025_07_29_ocaml_onboarding_introduction_to_dune/)
-* [2026-06-04, 12:27:58](https://news.ycombinator.com/item?id=48397681) - [A Survey of Inlining Heuristics](https://bernsteinbear.com/blog/inlining-heuristics/)
 
 ## [Archives](archives/index.md)
 
