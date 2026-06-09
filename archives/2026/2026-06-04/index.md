@@ -24,6 +24,7 @@
 * [2026-06-04, 19:36:48](https://news.ycombinator.com/item?id=48403588) - [Meta's ships facial recognition on smart glasses](https://www.buchodi.com/meta-glasses-facial-recognition/)
 * [2026-06-04, 19:29:29](https://news.ycombinator.com/item?id=48403488) - [How Long Does It Take for a QQuickItem to Become Visible?](https://www.kdab.com/how-long-does-it-take-for-an-item-to-become-visible/)
 * [2026-06-04, 19:21:18](https://news.ycombinator.com/item?id=48403377) - [WSL 2 is getting faster Windows file system access](https://www.boxofcables.dev/wsl2-per-device-swiotlb-pools-for-virtiofs-and-virtioproxy/)
+* [2026-06-04, 18:47:13](https://news.ycombinator.com/item?id=48402936) - [The Effective Sample Size](https://alex.smola.org/posts/40-effective-sample-size/)
 * [2026-06-04, 18:31:55](https://news.ycombinator.com/item?id=48402744) - [\"Maybe later\" was a feature](https://arnorhs.dev/posts/2026-06-04/maybe-later-was-a-feature/)
 * [2026-06-04, 17:54:28](https://news.ycombinator.com/item?id=48402157) - [Games Between Programs: The Ruliology of Competition](https://writings.stephenwolfram.com/2026/06/games-between-programs-the-ruliology-of-competition/)
 * [2026-06-04, 17:52:29](https://news.ycombinator.com/item?id=48402137) - [OCaml Onboarding: Introduction to the Dune build system](https://ocamlpro.com/blog/2025_07_29_ocaml_onboarding_introduction_to_dune/)
