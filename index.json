@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-06-09, 00:01:37",
+      "https://news.ycombinator.com/item?id=48454210"
+    ],
+    [
+      "Federal judge blocks H1B visa $100K fee",
+      "https://www.alaskasnewssource.com/2026/06/08/federal-judge-blocks-h1-b-visa-100k-fee/"
+    ]
+  ],
+  [
+    [
       "2026-06-08, 23:05:20",
       "https://news.ycombinator.com/item?id=48453666"
     ],
     [
       "Show HN: Mach – A compiled systems language looking for contributions",
       "https://github.com/octalide/mach"
+    ]
+  ],
+  [
+    [
+      "2026-06-08, 22:10:18",
+      "https://news.ycombinator.com/item?id=48453002"
+    ],
+    [
+      "Show HN: Command Center, the AI coding env for people who care about quality",
+      "https://www.cc.dev/"
     ]
   ],
   [
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2026-06-08, 17:14:24",
-      "https://news.ycombinator.com/item?id=48448106"
-    ],
-    [
-      "Apple WWDC 2026",
-      "https://www.apple.com/apple-events/event-stream/"
-    ]
-  ],
-  [
-    [
       "2026-06-08, 17:07:33",
       "https://news.ycombinator.com/item?id=48448012"
     ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2026-06-08, 12:24:10",
-      "https://news.ycombinator.com/item?id=48444442"
-    ],
-    [
-      "Are you expected to run five Python type-checkers now?",
-      "https://pyrefly.org/blog/too-many-type-checkers/"
-    ]
-  ],
-  [
-    [
       "2026-06-08, 11:58:02",
       "https://news.ycombinator.com/item?id=48444228"
     ],
@@ -237,6 +237,16 @@
     [
       "1worldflag: A blue dot on a transparent background",
       "https://1worldflag.com/"
+    ]
+  ],
+  [
+    [
+      "2026-06-07, 11:45:58",
+      "https://news.ycombinator.com/item?id=48433927"
+    ],
+    [
+      "The Grate Cheese Robbery",
+      "https://longreads.com/2026/05/28/the-cheese-theft-food-crime/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "OCaml Onboarding: Introduction to the Dune build system",
       "https://ocamlpro.com/blog/2025_07_29_ocaml_onboarding_introduction_to_dune/"
-    ]
-  ],
-  [
-    [
-      "2026-06-04, 12:54:28",
-      "https://news.ycombinator.com/item?id=48397986"
-    ],
-    [
-      "Using XDG-Compliant Config Files (2024)",
-      "https://wxwidgets.org/blog/2024/01/using-xdg-compliant-config-files/"
     ]
   ]
 ]
