@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-06-09, 22:37:49](https://news.ycombinator.com/item?id=48468789) - [AI misidentification results in wrongful arrest; man seeks justice](https://www.wsoctv.com/news/local/ai-misidentification-results-wrongful-arrest-man-seeks-justice/I7UQJWV33FBN3LMKHCSXI6FIVA/)
+* [2026-06-09, 22:35:57](https://news.ycombinator.com/item?id=48468766) - [RIP software hackathons. Long live the hardware hackathon](https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/)
 * [2026-06-09, 21:19:11](https://news.ycombinator.com/item?id=48467896) - [If Claude Fable stops helping you, you'll never know](https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html)
 * [2026-06-09, 21:06:00](https://news.ycombinator.com/item?id=48467759) - [Exif Smuggling](https://github.com/signalblur/exifsmugglingpoc)
 * [2026-06-09, 21:01:40](https://news.ycombinator.com/item?id=48467712) - [Company Will Add Phone, AirPod, and Smartwatch Trackers to ALPRs](https://www.404media.co/this-company-will-add-phone-airpod-and-smartwatch-trackers-to-license-plate-readers/)
@@ -22,12 +24,10 @@
 * [2026-06-09, 11:27:49](https://news.ycombinator.com/item?id=48459659) - [Test-case reducers are underappreciated debugging tools](https://tratt.net/laurie/blog/2026/test_case_reducers_are_underappreciated_debugging_tools.html)
 * [2026-06-09, 10:46:14](https://news.ycombinator.com/item?id=48459294) - [Making Graphics Like it's 1993](https://staniks.github.io/articles/catlantean-3d-blog-1/)
 * [2026-06-09, 10:08:18](https://news.ycombinator.com/item?id=48459001) - [The iPhone's Last Stand?](https://stratechery.com/2026/the-iphones-last-stand/)
-* [2026-06-09, 07:33:16](https://news.ycombinator.com/item?id=48457830) - [Microsoft's open source tools were hacked to steal passwords of AI developers](https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/)
 * [2026-06-09, 03:39:32](https://news.ycombinator.com/item?id=48456048) - [Flat Datacenter Networks at Scale at Amazon](https://perspectives.mvdirona.com/2026/06/flat-datacenter-networks-at-scale/)
 * [2026-06-08, 22:32:36](https://news.ycombinator.com/item?id=48453275) - [Let's Encrypt bans certificate usage in any US sanctioned territory [pdf]](https://letsencrypt.org/documents/LE-SA-v1.7-June-04-2026-diff.pdf)
 * [2026-06-08, 21:00:13](https://news.ycombinator.com/item?id=48451966) - [A giant star may have destroyed itself in one of the rarest explosions](https://phys.org/news/2026-05-giant-star-destroyed-universe-rarest.html)
-* [2026-06-08, 12:55:01](https://news.ycombinator.com/item?id=48444758) - [Blaise v0.10.0: Native Back End, Threads and Incremental Compilation](https://github.com/graemeg/blaise/discussions/82)
-* [2026-06-07, 15:45:50](https://news.ycombinator.com/item?id=48435943) - [Show HN: GentleOS – A pair of hobby OSes for vintage 32-bit and 16-bit PCs](https://github.com/luke8086/gentleos32)
+* [2026-06-08, 14:24:57](https://news.ycombinator.com/item?id=48445834) - [Lies We Tell Ourselves About Email Addresses](https://gitpush--force.com/commits/2026/06/lies-we-tell-ourselves-about-email/)
 * [2026-06-06, 18:09:59](https://news.ycombinator.com/item?id=48427423) - [Show HN: Resonate – Low-latency, high-resolution spectral analysis](https://alexandrefrancois.org/Resonate/)
 * [2026-06-06, 06:02:28](https://news.ycombinator.com/item?id=48421858) - [OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision](https://opencv.org/opencv-5/)
 

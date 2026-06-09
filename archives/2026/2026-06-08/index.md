@@ -40,6 +40,7 @@
 * [2026-06-08, 15:14:29](https://news.ycombinator.com/item?id=48446439) - [A Farmer Donated Land to Turn into a Park. The City Is Building a Data Center](https://www.404media.co/a-farmer-donated-land-to-turn-into-a-park-the-city-is-building-a-massive-data-center-instead/)
 * [2026-06-08, 15:13:43](https://news.ycombinator.com/item?id=48446428) - [xAI is looking more like a datacentre REIT than a frontier lab](https://martinalderson.com/posts/xais-new-rental-business/)
 * [2026-06-08, 15:04:17](https://news.ycombinator.com/item?id=48446310) - [Italy's Bending Spoons, Owner of AOL and Vimeo, Files for Nasdaq IPO](https://www.reuters.com/legal/transactional/italys-bending-spoons-files-us-ipo-2026-06-08/)
+* [2026-06-08, 14:24:57](https://news.ycombinator.com/item?id=48445834) - [Lies We Tell Ourselves About Email Addresses](https://gitpush--force.com/commits/2026/06/lies-we-tell-ourselves-about-email/)
 * [2026-06-08, 14:05:16](https://news.ycombinator.com/item?id=48445554) - [Show HN: Performative-UI – a react component library of design tropes](https://vorpus.github.io/performativeUI/)
 * [2026-06-08, 14:00:22](https://news.ycombinator.com/item?id=48445469) - [SoulsOnly.tff – A font for humans not AI and keyboard firmware to type in it](https://github.com/convictional/souls-only)
 * [2026-06-08, 13:35:27](https://news.ycombinator.com/item?id=48445171) - [Launch HN: Intuned (YC S22) – Build and run reliable browser automations as code](https://intunedhq.com)

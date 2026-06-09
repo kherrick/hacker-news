@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-09](index.md)
 
+* [2026-06-09, 22:37:49](https://news.ycombinator.com/item?id=48468789) - [AI misidentification results in wrongful arrest; man seeks justice](https://www.wsoctv.com/news/local/ai-misidentification-results-wrongful-arrest-man-seeks-justice/I7UQJWV33FBN3LMKHCSXI6FIVA/)
+* [2026-06-09, 22:35:57](https://news.ycombinator.com/item?id=48468766) - [RIP software hackathons. Long live the hardware hackathon](https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/)
 * [2026-06-09, 21:19:11](https://news.ycombinator.com/item?id=48467896) - [If Claude Fable stops helping you, you'll never know](https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html)
 * [2026-06-09, 21:06:00](https://news.ycombinator.com/item?id=48467759) - [Exif Smuggling](https://github.com/signalblur/exifsmugglingpoc)
 * [2026-06-09, 21:01:40](https://news.ycombinator.com/item?id=48467712) - [Company Will Add Phone, AirPod, and Smartwatch Trackers to ALPRs](https://www.404media.co/this-company-will-add-phone-airpod-and-smartwatch-trackers-to-license-plate-readers/)
