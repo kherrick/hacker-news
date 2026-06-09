@@ -129,26 +129,191 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="48463024">
+        <section id="48463811">
           <h3>
             <a
               class="item"
-              href="https://www.reuters.com/business/apple-failed-make-its-ai-tool-comply-eu-regulations-eu-commission-says-2026-06-09/"
-              >Apple decided not to roll out Siri in EU after denied request for
-              exemption</a
+              href="https://www-cdn.anthropic.com/d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf"
+              >System Card: Claude Fable 5 and Claude Mythos 5 [pdf]</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-06-09 @ 16:13:10</span
+              <span>2026-06-09 @ 16:58:13</span
               ><span class="points-container"
-                >Points: <span class="points">85</span></span
+                >Points: <span class="points">133</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48463024"
+                ><a href="https://news.ycombinator.com/item?id=48463811"
                   >Comments</a
-                ><span class="descendants">: 177</span></span
+                ><span class="descendants">: 32</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="48463808">
+          <h3>
+            <a
+              class="item"
+              href="https://www.anthropic.com/news/claude-fable-5-mythos-5"
+              >Claude Fable 5</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-06-09 @ 16:58:01</span
+              ><span class="points-container"
+                >Points: <span class="points">566</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48463808"
+                  >Comments</a
+                ><span class="descendants">: 332</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48463430">
+          <h3>
+            <a
+              class="item"
+              href="https://louwrentius.com/i-think-rutger-bregman-the-school-for-moral-ambition-are-full-of-shit.html"
+              >I Think Rutger Bregman and the School for Moral Ambition Are Full
+              of Shit</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-06-09 @ 16:38:38</span
+              ><span class="points-container"
+                >Points: <span class="points">21</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48463273">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=48463273"
+              >Launch HN: Transload (YC P26) – Measuring freight items with
+              CCTV</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-06-09 @ 16:28:28</span
+              ><span class="points-container"
+                >Points: <span class="points">16</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48463273"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                transload helps LTL trucking companies measure freight
+                dimensions using the security cameras already installed in their
+                terminals. Instead of sending shipments through a dedicated
+                dimensioning station, we measure them automatically as they move
+                through the normal dock workflow.
+              </p>
+              <p>
+                We’ve put together a small HN-specific demo site here:
+                <a href="https://hn.transload.io/">https://hn.transload.io/</a>
+              </p>
+              <p>
+                In LTL trucking, dimensions matter because they affect pricing,
+                freight classification, and trailer utilization. If a shipment
+                is larger than the shipper reported, the carrier may undercharge
+                for it while still giving up the same amount of trailer space.
+                The obvious fix is to measure every shipment, but that is
+                surprisingly hard in a busy freight terminal. Dedicated
+                dimensioning systems work for freight that passes through them,
+                but they can add forklift travel, create dock congestion, and
+                change the normal flow of work. In practice, many terminals only
+                measure a sample of their shipments.
+              </p>
+              <p>
+                Jago grew up close to this industry through his family’s LTL
+                trucking and cross-docking business. We did not start out
+                building freight dimensioning. Our first idea was an AI system
+                for optimizing forklift routes inside cross-dock terminals.
+                After spending time with customers and talking to more than 50
+                trucking companies, we realized that forklift routing was not
+                the pain people kept bringing up. Freight dimensions were.
+              </p>
+              <p>
+                At the same time, we saw that spatial AI was advancing quickly.
+                Monocular metric depth estimation has become dramatically
+                better, making it possible to recover accurate 3D structure from
+                ordinary camera footage without expensive LiDAR sensors.
+                MapAnything (<a
+                  href="https://github.com/facebookresearch/map-anything"
+                  >https://github.com/facebookresearch/map-anything</a
+                >) and MoGe (<a href="https://github.com/microsoft/moge"
+                  >https://github.com/microsoft/moge</a
+                >) are two examples.
+              </p>
+              <p>
+                Freight terminals also have helpful structure: fixed cameras,
+                repeated workflows, barcode scan timestamps, and known layouts.
+                Nearly every warehouse already has CCTV. That led us to a simple
+                question: what if we could measure freight automatically using
+                the existing security cameras, entirely in the background? That
+                would allow carriers to measure every shipment without changing
+                the dock workflow.
+              </p>
+              <p>
+                Our system has two main steps: connect a barcode scan to the
+                right object in the video, then estimate that object’s
+                dimensions in real-world units.
+              </p>
+              <p>
+                Dock workers already scan freight as part of the normal
+                workflow. Each scan gives us a timestamp and a handling-unit ID.
+                Around that timestamp, we analyze the video to infer which
+                worker scanned and which shipment they scanned. We expected VLMs
+                to handle this; they turned out to be far too unreliable.
+                Instead, we train our own model that reasons in 3D over cues
+                like gaze, body orientation, and movement.
+              </p>
+              <p>
+                That association step is critical. A frame can contain dozens of
+                pallets, several workers, forklifts, and partially hidden
+                freight. If we attach the scan to the wrong object, the
+                measurement is useless.
+              </p>
+              <p>
+                Once we know the target shipment, we segment it and estimate a
+                metric 3D bounding box from the monocular camera view. After the
+                box is fitted, the dimensions are straightforward: length,
+                width, height, and volume come directly from it.
+              </p>
+              <p>
+                The hard part is precisely fitting that bounding box from one
+                ordinary security camera. A single 2D image does not directly
+                tell you object shape or scale, and many different 3D boxes can
+                explain similar-looking image evidence. We use the object mask,
+                visible edges, floor contact, camera geometry, and constraints
+                from the terminal to find the 3D box that best matches the
+                scene.
+              </p>
+              <p>
+                We are currently working with several LTL carriers. For one
+                customer, roughly 10% of checked shipments had dimension errors.
+                The first use case is revenue recovery: identify
+                under-dimensioned shipments, attach visual evidence, and help
+                carriers correct the billing or classification. Longer term, the
+                same data can help carriers understand trailer utilization
+                better.
+              </p>
+              <p>
+                LTL freight is an odd place to be doing 3D computer vision, and
+                we learn something new every week. If you’ve worked on monocular
+                reconstruction, 3D object detection, warehouse perception, or
+                messy real-world CV, we’d love your take. Questions about
+                freight, LTL terminals, or the technical approach are very
+                welcome too.
+              </p>
+            </div>
           </section>
         </section>
         <section id="48463018">
@@ -161,11 +326,11 @@
             <h4>
               <span>2026-06-09 @ 16:12:52</span
               ><span class="points-container"
-                >Points: <span class="points">19</span></span
+                >Points: <span class="points">30</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48463018"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -183,11 +348,11 @@
             <h4>
               <span>2026-06-09 @ 15:59:41</span
               ><span class="points-container"
-                >Points: <span class="points">98</span></span
+                >Points: <span class="points">128</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48462823"
                   >Comments</a
-                ><span class="descendants">: 50</span></span
+                ><span class="descendants">: 64</span></span
               >
             </h4>
           </section>
@@ -205,11 +370,11 @@
             <h4>
               <span>2026-06-09 @ 15:21:46</span
               ><span class="points-container"
-                >Points: <span class="points">122</span></span
+                >Points: <span class="points">167</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48462308"
                   >Comments</a
-                ><span class="descendants">: 90</span></span
+                ><span class="descendants">: 114</span></span
               >
             </h4>
           </section>
@@ -225,32 +390,11 @@
             <h4>
               <span>2026-06-09 @ 15:12:30</span
               ><span class="points-container"
-                >Points: <span class="points">16</span></span
+                >Points: <span class="points">18</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48462184"
                   >Comments</a
                 ><span class="descendants">: 1</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48462156">
-          <h3>
-            <a
-              class="item"
-              href="https://cleantechnica.com/2026/06/08/solar-energy-saves-europeans-135-million-a-day/"
-              >Solar Energy Saves Europeans $135M a Day</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-06-09 @ 15:09:38</span
-              ><span class="points-container"
-                >Points: <span class="points">138</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48462156"
-                  >Comments</a
-                ><span class="descendants">: 98</span></span
               >
             </h4>
           </section>
@@ -266,11 +410,11 @@
             <h4>
               <span>2026-06-09 @ 15:01:15</span
               ><span class="points-container"
-                >Points: <span class="points">52</span></span
+                >Points: <span class="points">61</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48462062"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -286,32 +430,11 @@
             <h4>
               <span>2026-06-09 @ 14:04:54</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48461311"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48461226">
-          <h3>
-            <a
-              class="item"
-              href="https://cupertinolens.com/2026/06/09/wwdc-2026-apple-is-folding/"
-              >WWDC 2026: Apple is Folding</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-06-09 @ 13:56:38</span
-              ><span class="points-container"
-                >Points: <span class="points">149</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48461226"
-                  >Comments</a
-                ><span class="descendants">: 167</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -327,11 +450,11 @@
             <h4>
               <span>2026-06-09 @ 13:27:03</span
               ><span class="points-container"
-                >Points: <span class="points">55</span></span
+                >Points: <span class="points">68</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48460863"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
           </section>
@@ -353,6 +476,68 @@
             </h4>
           </section>
         </section>
+        <section id="48459913">
+          <h3>
+            <a class="item" href="https://github.com/chipmates/agoracosmica"
+              >Show HN: Learn from 30 historical figures, open source,
+              nonprofit, self-hosted</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-06-09 @ 11:56:25</span
+              ><span class="points-container"
+                >Points: <span class="points">11</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48459913"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                This started about three years ago. On a walk I asked a chatbot
+                to interpret the cave dream from Cormac McCarthy's book "The
+                Road" as C.G. Jung. It gave me a perspective I had not thought
+                of. But for my own dreams the policies of the big providers felt
+                wrong for so personal conversations, as zero data retention is
+                not available. So I started building.
+              </p>
+              <p>
+                The project evolved to a German nonprofit and we published the
+                code (AGPL-3.0) last month. The content is still copyright, but
+                will be opened to CC-BY 4.0 in the next 6 to 12 months.
+              </p>
+              <p>
+                Agora Cosmica is a library to learn from 30 historical figures.
+                Each one has 12 narrated stories about their teachings / life
+                wisdom, speech to speech conversation. Four learning modes and a
+                council where you can gather the figures to discuss or reflect
+                on a topic. Each figure is an AI Echo, an interpretation
+                grounded in primary works, historical context, with a factcheck
+                per figure to show what's verified versus recreated. On privacy:
+                The speech is self hosted on Hetzner GPU servers, Qwen3-TTS for
+                German, Kokoro TTS for English, Faster-Whisper for
+                transcription. 30 free messages per day (EU-hosted for GDPR),
+                BYOK, or you can run it in a full local self-hosted mode.
+              </p>
+              <p>
+                No conversation is stored, no tracking cookies, no profiling, no
+                signup.
+              </p>
+              <p>The app is slow on purpose. Cosmic, no dopamine rush.</p>
+              <p>
+                The mission is to be a doorway, a first step, an introduction to
+                get people interested and outgrow the app to move to primary
+                texts and human teachers.
+              </p>
+              <p>
+                Live at:
+                <a href="https://agoracosmica.org">https://agoracosmica.org</a>
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="48459837">
           <h3>
             <a class="item" href="https://qunabu.github.io/Gravity/"
@@ -364,7 +549,7 @@
             <h4>
               <span>2026-06-09 @ 11:46:40</span
               ><span class="points-container"
-                >Points: <span class="points">79</span></span
+                >Points: <span class="points">90</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48459837"
                   >Comments</a
@@ -396,32 +581,32 @@
             <h4>
               <span>2026-06-09 @ 10:46:14</span
               ><span class="points-container"
-                >Points: <span class="points">502</span></span
+                >Points: <span class="points">538</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48459294"
                   >Comments</a
-                ><span class="descendants">: 71</span></span
+                ><span class="descendants">: 81</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="48458636">
+        <section id="48459001">
           <h3>
             <a
               class="item"
-              href="https://dfarq.homeip.net/eagle-computer-the-rise-and-fall-of-an-early-pc-clone/"
-              >Eagle Computer: The rise and fall of an early PC clone</a
+              href="https://stratechery.com/2026/the-iphones-last-stand/"
+              >The iPhone's Last Stand?</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-06-09 @ 09:17:41</span
+              <span>2026-06-09 @ 10:08:18</span
               ><span class="points-container"
-                >Points: <span class="points">49</span></span
+                >Points: <span class="points">117</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48458636"
+                ><a href="https://news.ycombinator.com/item?id=48459001"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 159</span></span
               >
             </h4>
           </section>
@@ -438,11 +623,11 @@
             <h4>
               <span>2026-06-09 @ 09:10:10</span
               ><span class="points-container"
-                >Points: <span class="points">338</span></span
+                >Points: <span class="points">363</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48458586"
                   >Comments</a
-                ><span class="descendants">: 246</span></span
+                ><span class="descendants">: 265</span></span
               >
             </h4>
           </section>
@@ -460,11 +645,11 @@
             <h4>
               <span>2026-06-09 @ 08:25:36</span
               ><span class="points-container"
-                >Points: <span class="points">103</span></span
+                >Points: <span class="points">105</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48458257"
                   >Comments</a
-                ><span class="descendants">: 61</span></span
+                ><span class="descendants">: 62</span></span
               >
             </h4>
           </section>
@@ -482,32 +667,55 @@
             <h4>
               <span>2026-06-09 @ 07:33:16</span
               ><span class="points-container"
-                >Points: <span class="points">428</span></span
+                >Points: <span class="points">448</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48457830"
                   >Comments</a
-                ><span class="descendants">: 159</span></span
+                ><span class="descendants">: 161</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="48455928">
+        <section id="48453275">
           <h3>
             <a
               class="item"
-              href="https://www.english-heritage.org.uk/about/our-people/careers-with-us/job-search/default-job-page/?jobRef=16449"
-              >Job: Head of Stonehenge</a
+              href="https://letsencrypt.org/documents/LE-SA-v1.7-June-04-2026-diff.pdf"
+              >Let's Encrypt bans certificate usage in any US sanctioned
+              territory [pdf]</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-06-09 @ 03:20:40</span
+              <span>2026-06-08 @ 22:32:36</span
               ><span class="points-container"
-                >Points: <span class="points">214</span></span
+                >Points: <span class="points">126</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48455928"
+                ><a href="https://news.ycombinator.com/item?id=48453275"
                   >Comments</a
-                ><span class="descendants">: 204</span></span
+                ><span class="descendants">: 92</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48451966">
+          <h3>
+            <a
+              class="item"
+              href="https://phys.org/news/2026-05-giant-star-destroyed-universe-rarest.html"
+              >A giant star may have destroyed itself in one of the rarest
+              explosions</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-06-08 @ 21:00:13</span
+              ><span class="points-container"
+                >Points: <span class="points">53</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48451966"
+                  >Comments</a
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -525,30 +733,11 @@
             <h4>
               <span>2026-06-08 @ 19:14:47</span
               ><span class="points-container"
-                >Points: <span class="points">697</span></span
+                >Points: <span class="points">698</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48450142"
                   >Comments</a
-                ><span class="descendants">: 536</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48449084">
-          <h3>
-            <a class="item" href="https://www.apple.com/apple-intelligence/"
-              >Siri AI</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-06-08 @ 18:17:53</span
-              ><span class="points-container"
-                >Points: <span class="points">651</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48449084"
-                  >Comments</a
-                ><span class="descendants">: 659</span></span
+                ><span class="descendants">: 538</span></span
               >
             </h4>
           </section>
@@ -565,34 +754,13 @@
             <h4>
               <span>2026-06-08 @ 15:13:43</span
               ><span class="points-container"
-                >Points: <span class="points">660</span></span
+                >Points: <span class="points">663</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48446428"
                   >Comments</a
-                ><span class="descendants">: 510</span></span
+                ><span class="descendants">: 517</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="48445554">
-          <h3>
-            <a class="item" href="https://vorpus.github.io/performativeUI/"
-              >Show HN: Performative-UI – A react component library of design
-              tropes</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-06-08 @ 14:05:16</span
-              ><span class="points-container"
-                >Points: <span class="points">1102</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48445554"
-                  >Comments</a
-                ><span class="descendants">: 197</span></span
-              >
-            </h4>
-            <div class="text">hope you enjoy</div>
           </section>
         </section>
         <section id="48437743">
@@ -606,11 +774,11 @@
             <h4>
               <span>2026-06-07 @ 19:25:24</span
               ><span class="points-container"
-                >Points: <span class="points">153</span></span
+                >Points: <span class="points">159</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48437743"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
@@ -626,11 +794,11 @@
             <h4>
               <span>2026-06-07 @ 17:01:34</span
               ><span class="points-container"
-                >Points: <span class="points">89</span></span
+                >Points: <span class="points">94</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48436672"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -646,11 +814,11 @@
             <h4>
               <span>2026-06-07 @ 15:45:50</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">49</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48435943"
                   >Comments</a
-                ><span class="descendants">: 73</span></span
+                ><span class="descendants">: 75</span></span
               >
             </h4>
             <div class="text">
@@ -679,25 +847,6 @@
             </div>
           </section>
         </section>
-        <section id="48427629">
-          <h3>
-            <a class="item" href="https://oshogbo.com/blog/90/"
-              >Corrupting a ZFS File on Purpose</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-06-06 @ 18:34:03</span
-              ><span class="points-container"
-                >Points: <span class="points">64</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48427629"
-                  >Comments</a
-                ><span class="descendants">: 11</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="48426956">
           <h3>
             <a
@@ -710,7 +859,7 @@
             <h4>
               <span>2026-06-06 @ 17:16:12</span
               ><span class="points-container"
-                >Points: <span class="points">21</span></span
+                >Points: <span class="points">22</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48426956"
                   >Comments</a
@@ -730,11 +879,11 @@
             <h4>
               <span>2026-06-06 @ 06:02:28</span
               ><span class="points-container"
-                >Points: <span class="points">524</span></span
+                >Points: <span class="points">548</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48421858"
                   >Comments</a
-                ><span class="descendants">: 97</span></span
+                ><span class="descendants">: 101</span></span
               >
             </h4>
           </section>
@@ -750,11 +899,11 @@
             <h4>
               <span>2026-06-06 @ 01:49:18</span
               ><span class="points-container"
-                >Points: <span class="points">8</span></span
+                >Points: <span class="points">10</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48420586"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -771,7 +920,7 @@
             <h4>
               <span>2026-06-04 @ 18:47:13</span
               ><span class="points-container"
-                >Points: <span class="points">12</span></span
+                >Points: <span class="points">13</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48402936"
                   >Comments</a
