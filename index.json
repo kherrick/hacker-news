@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-06-09, 21:19:11",
+      "https://news.ycombinator.com/item?id=48467896"
+    ],
+    [
+      "If Claude Fable stops helping you, you'll never know",
+      "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-09, 21:06:00",
+      "https://news.ycombinator.com/item?id=48467759"
+    ],
+    [
+      "Exif Smuggling",
+      "https://github.com/signalblur/exifsmugglingpoc"
+    ]
+  ],
+  [
+    [
+      "2026-06-09, 21:01:40",
+      "https://news.ycombinator.com/item?id=48467712"
+    ],
+    [
+      "Company Will Add Phone, AirPod, and Smartwatch Trackers to ALPRs",
+      "https://www.404media.co/this-company-will-add-phone-airpod-and-smartwatch-trackers-to-license-plate-readers/"
+    ]
+  ],
+  [
+    [
+      "2026-06-09, 21:01:00",
+      "https://news.ycombinator.com/item?id=48467705"
+    ],
+    [
+      "Upcoming breaking changes for NPM v12",
+      "https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/"
+    ]
+  ],
+  [
+    [
+      "2026-06-09, 20:50:54",
+      "https://news.ycombinator.com/item?id=48467570"
+    ],
+    [
+      "Alpine Linux 3.24.0 Released",
+      "https://alpinelinux.org/posts/Alpine-3.24.0-released.html"
+    ]
+  ],
+  [
+    [
       "2026-06-09, 19:21:45",
       "https://news.ycombinator.com/item?id=48466277"
     ],
@@ -27,16 +77,6 @@
     [
       "CEOs Who Think AI Replaces Their Employees Are Just Bad CEOs",
       "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/"
-    ]
-  ],
-  [
-    [
-      "2026-06-09, 18:21:43",
-      "https://news.ycombinator.com/item?id=48465269"
-    ],
-    [
-      "GPT-2: Too Dangerous To Release (2019)",
-      "https://naokishibuya.github.io/blog/2022-12-30-gpt-2-2019/"
     ]
   ],
   [
@@ -121,32 +161,12 @@
   ],
   [
     [
-      "2026-06-09, 15:12:30",
-      "https://news.ycombinator.com/item?id=48462184"
-    ],
-    [
-      "Using Optical Aberrations to Distinguish Real Astronomical Transients",
-      "https://arxiv.org/abs/2606.08319"
-    ]
-  ],
-  [
-    [
       "2026-06-09, 15:01:15",
       "https://news.ycombinator.com/item?id=48462062"
     ],
     [
       "Can LLMs Beat Classical Hyperparameter Optimization Algorithms?",
       "https://arxiv.org/abs/2603.24647"
-    ]
-  ],
-  [
-    [
-      "2026-06-09, 14:04:54",
-      "https://news.ycombinator.com/item?id=48461311"
-    ],
-    [
-      "Unified Controllable and Faithful Text-to-CAD Generation with LLMs",
-      "https://arxiv.org/abs/2604.19773"
     ]
   ],
   [
@@ -207,16 +227,6 @@
     [
       "The iPhone's Last Stand?",
       "https://stratechery.com/2026/the-iphones-last-stand/"
-    ]
-  ],
-  [
-    [
-      "2026-06-09, 08:25:36",
-      "https://news.ycombinator.com/item?id=48458257"
-    ],
-    [
-      "Forever Young: how one molecule can lock plants in a youthful state (2025)",
-      "https://omnia.sas.upenn.edu/story/biologist-scott-poethig-plants-never-age"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
       "https://opencv.org/opencv-5/"
-    ]
-  ],
-  [
-    [
-      "2026-06-04, 11:30:13",
-      "https://news.ycombinator.com/item?id=48397148"
-    ],
-    [
-      "Show HN: Cost.dev (YC W21) – making agents cost-aware and cheaper to call",
-      "https://cost.dev/"
     ]
   ]
 ]
