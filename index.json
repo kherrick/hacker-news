@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-06-09, 15:09:38",
+      "https://news.ycombinator.com/item?id=48462156"
+    ],
+    [
+      "Solar Energy Saves Europeans $135M a Day",
+      "https://cleantechnica.com/2026/06/08/solar-energy-saves-europeans-135-million-a-day/"
+    ]
+  ],
+  [
+    [
+      "2026-06-09, 15:01:15",
+      "https://news.ycombinator.com/item?id=48462062"
+    ],
+    [
+      "Can LLMs Beat Classical Hyperparameter Optimization Algorithms?",
+      "https://arxiv.org/abs/2603.24647"
+    ]
+  ],
+  [
+    [
+      "2026-06-09, 14:04:54",
+      "https://news.ycombinator.com/item?id=48461311"
+    ],
+    [
+      "Unified Controllable and Faithful Text-to-CAD Generation with LLMs",
+      "https://arxiv.org/abs/2604.19773"
+    ]
+  ],
+  [
+    [
       "2026-06-09, 13:56:38",
       "https://news.ycombinator.com/item?id=48461226"
     ],
@@ -17,6 +47,16 @@
     [
       "Albania Is Not for Sale: Kushner's $4B Resort Triggers'Flamingo Revolution'",
       "https://www.yacnews.com/albania-is-not-for-sale-kushners-4-billion-resort-triggers-flamingo-revolution-asset-freeze-and-an-eu-warning/"
+    ]
+  ],
+  [
+    [
+      "2026-06-09, 13:27:03",
+      "https://news.ycombinator.com/item?id=48460863"
+    ],
+    [
+      "Is Grep All You Need? How Agent Harnesses Reshape Agentic Search",
+      "https://arxiv.org/abs/2605.15184"
     ]
   ],
   [
@@ -151,16 +191,6 @@
   ],
   [
     [
-      "2026-06-08, 18:47:38",
-      "https://news.ycombinator.com/item?id=48449665"
-    ],
-    [
-      "Apple Core AI Framework",
-      "https://developer.apple.com/documentation/coreai/"
-    ]
-  ],
-  [
-    [
       "2026-06-08, 18:17:53",
       "https://news.ycombinator.com/item?id=48449084"
     ],
@@ -171,32 +201,12 @@
   ],
   [
     [
-      "2026-06-08, 16:02:10",
-      "https://news.ycombinator.com/item?id=48447111"
-    ],
-    [
-      "Old'aVista – The most powerful guide to the old Internet",
-      "https://oldavista.com/"
-    ]
-  ],
-  [
-    [
       "2026-06-08, 15:59:04",
       "https://news.ycombinator.com/item?id=48447062"
     ],
     [
       "EU-banned pesticides found in rice, tea and spices",
       "https://www.foodwatch.org/en/eu-banned-pesticides-found-in-rice-tea-and-spices"
-    ]
-  ],
-  [
-    [
-      "2026-06-08, 15:27:33",
-      "https://news.ycombinator.com/item?id=48446639"
-    ],
-    [
-      "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
-      "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps"
     ]
   ],
   [
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2026-06-07, 09:59:52",
-      "https://news.ycombinator.com/item?id=48433356"
-    ],
-    [
-      "H2JVM – A Haskell Library for Writing JVM Bytecode",
-      "https://discourse.haskell.org/t/h2jvm-a-haskell-library-for-writing-jvm-bytecode/14182"
-    ]
-  ],
-  [
-    [
       "2026-06-06, 18:34:03",
       "https://news.ycombinator.com/item?id=48427629"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-06-05, 15:15:35",
-      "https://news.ycombinator.com/item?id=48413655"
+      "2026-06-04, 18:47:13",
+      "https://news.ycombinator.com/item?id=48402936"
     ],
     [
-      "Looking Forward to Postgres 19: Query Hints",
-      "https://www.pgedge.com/blog/looking-forward-to-postgres-19-query-hints"
+      "The Effective Sample Size",
+      "https://alex.smola.org/posts/40-effective-sample-size/"
     ]
   ]
 ]
