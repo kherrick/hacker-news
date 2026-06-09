@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-09, 12:01:09",
+      "https://news.ycombinator.com/item?id=48459968"
+    ],
+    [
+      "Emerge Career (YC S22) Is Hiring a Founding Growth Marketer",
+      "https://www.ycombinator.com/companies/emerge-career/jobs/v0S1AEG-founding-growth-marketer"
+    ]
+  ],
+  [
+    [
+      "2026-06-09, 10:46:14",
+      "https://news.ycombinator.com/item?id=48459294"
+    ],
+    [
+      "Making Graphics Like it's 1993",
+      "https://staniks.github.io/articles/catlantean-3d-blog-1/"
+    ]
+  ],
+  [
+    [
       "2026-06-09, 10:08:18",
       "https://news.ycombinator.com/item?id=48459001"
     ],
@@ -35,7 +55,7 @@
       "https://news.ycombinator.com/item?id=48458257"
     ],
     [
-      "Forever Young: how one molecule can lock plants in a youthful state.(2025)",
+      "Forever Young: how one molecule can lock plants in a youthful state (2025)",
       "https://omnia.sas.upenn.edu/story/biologist-scott-poethig-plants-never-age"
     ]
   ],
@@ -67,16 +87,6 @@
     [
       "Porting the ThinkPad X61 to Coreboot",
       "https://blog.aheymans.xyz/post/thinkpad_x61/"
-    ]
-  ],
-  [
-    [
-      "2026-06-09, 03:34:00",
-      "https://news.ycombinator.com/item?id=48456015"
-    ],
-    [
-      "GoGoGrandparent (YC S16) is hiring Back end Engineers",
-      "https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer"
     ]
   ],
   [
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2026-06-07, 21:10:20",
-      "https://news.ycombinator.com/item?id=48438595"
-    ],
-    [
-      "How much do amd64 microarchitecture levels help in Go?",
-      "https://lemire.me/blog/2026/06/06/how-much-do-amd64-microarchitecture-levels-help-in-go/"
-    ]
-  ],
-  [
-    [
       "2026-06-07, 19:25:24",
       "https://news.ycombinator.com/item?id=48437743"
     ],
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2026-06-07, 16:57:56",
+      "https://news.ycombinator.com/item?id=48436643"
+    ],
+    [
+      "Softmax: Why neural networks need non-linearity? life isn't straight-line simple",
+      "https://blog.sparsh.dev/softmax-activation-function/"
+    ]
+  ],
+  [
+    [
       "2026-06-07, 09:59:52",
       "https://news.ycombinator.com/item?id=48433356"
     ],
@@ -267,16 +277,6 @@
     [
       "Passing DBs through continuations",
       "https://remy.wang/blog/cps.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-06, 18:21:51",
-      "https://news.ycombinator.com/item?id=48427526"
-    ],
-    [
-      "The beauty and simplicity of the good old C-style void* in C++",
-      "https://giodicanio.com/2026/06/05/how-to-declare-a-c-plus-plus-function-that-takes-a-blob-of-memory/"
     ]
   ],
   [
