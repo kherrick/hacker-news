@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-06-09, 12:26:34",
+      "https://news.ycombinator.com/item?id=48460210"
+    ],
+    [
+      "Show HN: We post-trained a model that pen tests instead of refusing your code",
+      "https://www.argusred.com/cli"
+    ]
+  ],
+  [
+    [
       "2026-06-09, 12:01:09",
       "https://news.ycombinator.com/item?id=48459968"
     ],
     [
       "Emerge Career (YC S22) Is Hiring a Founding Growth Marketer",
       "https://www.ycombinator.com/companies/emerge-career/jobs/v0S1AEG-founding-growth-marketer"
+    ]
+  ],
+  [
+    [
+      "2026-06-09, 11:46:40",
+      "https://news.ycombinator.com/item?id=48459837"
+    ],
+    [
+      "Show HN: Gravity – interactive solar-system simulator, from Newton to Einstein",
+      "https://qunabu.github.io/Gravity/"
     ]
   ],
   [
@@ -51,6 +71,16 @@
   ],
   [
     [
+      "2026-06-09, 09:10:10",
+      "https://news.ycombinator.com/item?id=48458586"
+    ],
+    [
+      "Cleaning up after AI rockstar developers",
+      "https://www.codingwithjesse.com/blog/rockstar-developers/"
+    ]
+  ],
+  [
+    [
       "2026-06-09, 08:25:36",
       "https://news.ycombinator.com/item?id=48458257"
     ],
@@ -91,22 +121,12 @@
   ],
   [
     [
-      "2026-06-08, 20:45:03",
-      "https://news.ycombinator.com/item?id=48451723"
+      "2026-06-09, 03:20:40",
+      "https://news.ycombinator.com/item?id=48455928"
     ],
     [
-      "FrontierCode",
-      "https://cognition.ai/blog/frontier-code"
-    ]
-  ],
-  [
-    [
-      "2026-06-08, 19:42:28",
-      "https://news.ycombinator.com/item?id=48450646"
-    ],
-    [
-      "Surveillance is not safety: A statement on the UK's latest threat to privacy [pdf]",
-      "https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf"
+      "Job: Head of Stonehenge",
+      "https://www.english-heritage.org.uk/about/our-people/careers-with-us/job-search/default-job-page/?jobRef=16449"
     ]
   ],
   [
@@ -117,16 +137,6 @@
     [
       "Apple reveals new AI architecture built around Google Gemini models",
       "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/"
-    ]
-  ],
-  [
-    [
-      "2026-06-08, 19:10:27",
-      "https://news.ycombinator.com/item?id=48450065"
-    ],
-    [
-      "Why are cells small?",
-      "https://burrito.bio/essays/what-limits-a-cells-size"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "Siri AI",
       "https://www.apple.com/apple-intelligence/"
-    ]
-  ],
-  [
-    [
-      "2026-06-08, 17:28:29",
-      "https://news.ycombinator.com/item?id=48448313"
-    ],
-    [
-      "Ask HN: Why hasn't there been a real competitor to Ticketmaster yet?",
-      "https://news.ycombinator.com/item?id=48448313"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2026-06-07, 16:57:56",
-      "https://news.ycombinator.com/item?id=48436643"
-    ],
-    [
-      "Softmax: Why neural networks need non-linearity? life isn't straight-line simple",
-      "https://blog.sparsh.dev/softmax-activation-function/"
-    ]
-  ],
-  [
-    [
       "2026-06-07, 09:59:52",
       "https://news.ycombinator.com/item?id=48433356"
     ],
@@ -271,12 +261,22 @@
   ],
   [
     [
-      "2026-06-07, 01:17:40",
-      "https://news.ycombinator.com/item?id=48430821"
+      "2026-06-06, 18:21:51",
+      "https://news.ycombinator.com/item?id=48427526"
     ],
     [
-      "Passing DBs through continuations",
-      "https://remy.wang/blog/cps.html"
+      "The beauty and simplicity of the good old C-style void* in C++",
+      "https://giodicanio.com/2026/06/05/how-to-declare-a-c-plus-plus-function-that-takes-a-blob-of-memory/"
+    ]
+  ],
+  [
+    [
+      "2026-06-06, 17:16:12",
+      "https://news.ycombinator.com/item?id=48426956"
+    ],
+    [
+      "Adopting the Parallel DWARF linker in dsymutil",
+      "https://jonasdevlieghere.com/post/dsymutil-parallel-linker/"
     ]
   ],
   [
