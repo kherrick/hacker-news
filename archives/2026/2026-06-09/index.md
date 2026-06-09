@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-09](index.md)
 
+* [2026-06-09, 12:01:09](https://news.ycombinator.com/item?id=48459968) - [Emerge Career (YC S22) Is Hiring a Founding Growth Marketer](https://www.ycombinator.com/companies/emerge-career/jobs/v0S1AEG-founding-growth-marketer)
+* [2026-06-09, 10:46:14](https://news.ycombinator.com/item?id=48459294) - [Making Graphics Like it's 1993](https://staniks.github.io/articles/catlantean-3d-blog-1/)
 * [2026-06-09, 10:08:18](https://news.ycombinator.com/item?id=48459001) - [The iPhone's Last Stand](https://stratechery.com/2026/the-iphones-last-stand/)
 * [2026-06-09, 09:50:30](https://news.ycombinator.com/item?id=48458890) - [GentleOS – Classic operating system with a lovely retro GUI](https://github.com/luke8086/gentleos32)
 * [2026-06-09, 09:17:41](https://news.ycombinator.com/item?id=48458636) - [Eagle Computer: The rise and fall of an early PC clone](https://dfarq.homeip.net/eagle-computer-the-rise-and-fall-of-an-early-pc-clone/)
