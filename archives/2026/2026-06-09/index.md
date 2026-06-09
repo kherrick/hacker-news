@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-06-09](index.md)
 
+* [2026-06-09, 16:13:10](https://news.ycombinator.com/item?id=48463024) - [Apple decided not to roll out Siri in EU after denied request for exemption](https://www.reuters.com/business/apple-failed-make-its-ai-tool-comply-eu-regulations-eu-commission-says-2026-06-09/)
+* [2026-06-09, 16:12:52](https://news.ycombinator.com/item?id=48463018) - [Biff.core: system composition for Clojure web apps](https://biffweb.com/p/core/)
+* [2026-06-09, 15:59:41](https://news.ycombinator.com/item?id=48462823) - ['Sloppenheimer:' Amazon Employees Mock the Company's AI on Slack](https://www.404media.co/sloppenheimer-amazon-employees-mock-the-companys-ai-on-slack/)
+* [2026-06-09, 15:21:46](https://news.ycombinator.com/item?id=48462308) - [FCC Wants to Kill Burner Phones by Forcing Telecoms to Get All Customers' IDs](https://www.404media.co/fcc-wants-to-kill-burner-phones-by-forcing-telecoms-to-get-all-customers-ids/)
+* [2026-06-09, 15:12:30](https://news.ycombinator.com/item?id=48462184) - [Using Optical Aberrations to Distinguish Real Astronomical Transients](https://arxiv.org/abs/2606.08319)
 * [2026-06-09, 15:09:38](https://news.ycombinator.com/item?id=48462156) - [Solar Energy Saves Europeans $135M a Day](https://cleantechnica.com/2026/06/08/solar-energy-saves-europeans-135-million-a-day/)
 * [2026-06-09, 15:01:15](https://news.ycombinator.com/item?id=48462062) - [Can LLMs Beat Classical Hyperparameter Optimization Algorithms?](https://arxiv.org/abs/2603.24647)
 * [2026-06-09, 14:04:54](https://news.ycombinator.com/item?id=48461311) - [Unified Controllable and Faithful Text-to-CAD Generation with LLMs](https://arxiv.org/abs/2604.19773)

@@ -52,5 +52,6 @@
 * [2026-06-06, 03:36:15](https://news.ycombinator.com/item?id=48421145) - [Lockdown Mode](https://help.openai.com/en/articles/20001061-lockdown-mode)
 * [2026-06-06, 03:23:47](https://news.ycombinator.com/item?id=48421079) - [The back cover of C++: The Language raises questions not answered by front cover](https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391)
 * [2026-06-06, 02:31:51](https://news.ycombinator.com/item?id=48420827) - [Ask HN: Why is the HN crowd so anti-AI?](https://news.ycombinator.com/item?id=48420827)
+* [2026-06-06, 01:49:18](https://news.ycombinator.com/item?id=48420586) - [SAT-Physical Thermodynamic Framework: treating constraints as a thermal system](https://github.com/alikamp/SAT_HARDNESS_P-NP)
 * [2026-06-06, 01:32:09](https://news.ycombinator.com/item?id=48420494) - [Show HN: ABC Classic 100 Rankings visualised](https://classic100.gotski.workers.dev/)
 * [2026-06-06, 00:33:26](https://news.ycombinator.com/item?id=48420148) - [The intracies of modern camera lens repair (2024)](https://salvagedcircuitry.com/sigma-45mm.html)
