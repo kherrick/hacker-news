@@ -14,6 +14,7 @@
 * [2026-06-06, 19:51:10](https://news.ycombinator.com/item?id=48428356) - [Home alone: Remote work, isolation, and mental health](https://www.science.org/doi/10.1126/science.aec7671)
 * [2026-06-06, 19:17:46](https://news.ycombinator.com/item?id=48428025) - [Ntsc-rs – open-source video emulation of analog TV and VHS artifacts](https://ntsc.rs/)
 * [2026-06-06, 18:35:27](https://news.ycombinator.com/item?id=48427643) - [Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot](https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/)
+* [2026-06-06, 18:21:51](https://news.ycombinator.com/item?id=48427526) - [The beauty and simplicity of the good old C-style void* in C++](https://giodicanio.com/2026/06/05/how-to-declare-a-c-plus-plus-function-that-takes-a-blob-of-memory/)
 * [2026-06-06, 18:21:06](https://news.ycombinator.com/item?id=48427523) - [Pentagon raised threat of Israeli spying on U.S. to highest level, sources say](https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565)
 * [2026-06-06, 18:16:40](https://news.ycombinator.com/item?id=48427480) - [Cloning a Sennheiser BA2015 battery pack](https://blog.brixit.nl/cloning-a-sennheiser-ba2015-accu-pack/)
 * [2026-06-06, 15:55:46](https://news.ycombinator.com/item?id=48426202) - [You Can Run](https://magazine.atavist.com/2026/mccann-cocaine-fugitives)

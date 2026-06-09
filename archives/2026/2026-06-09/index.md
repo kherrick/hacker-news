@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-09](index.md)
 
+* [2026-06-09, 10:08:18](https://news.ycombinator.com/item?id=48459001) - [The iPhone's Last Stand](https://stratechery.com/2026/the-iphones-last-stand/)
+* [2026-06-09, 09:50:30](https://news.ycombinator.com/item?id=48458890) - [GentleOS – Classic operating system with a lovely retro GUI](https://github.com/luke8086/gentleos32)
 * [2026-06-09, 09:17:41](https://news.ycombinator.com/item?id=48458636) - [Eagle Computer: The rise and fall of an early PC clone](https://dfarq.homeip.net/eagle-computer-the-rise-and-fall-of-an-early-pc-clone/)
 * [2026-06-09, 09:05:39](https://news.ycombinator.com/item?id=48458552) - ['They were laughing': Israel's use of rape and sexual abuse in prisons](https://www.aljazeera.com/news/2026/6/9/they-were-laughing-israels-use-of-rape-and-sexual-abuse-in-prisons)
 * [2026-06-09, 08:25:36](https://news.ycombinator.com/item?id=48458257) - [Forever Young: how one molecule can lock plants in a youthful state.(2025)](https://omnia.sas.upenn.edu/story/biologist-scott-poethig-plants-never-age)
