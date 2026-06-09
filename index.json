@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-06-09, 00:01:37",
-      "https://news.ycombinator.com/item?id=48454210"
+      "2026-06-09, 01:56:40",
+      "https://news.ycombinator.com/item?id=48455233"
     ],
     [
-      "Federal judge blocks H1B visa $100K fee",
-      "https://www.alaskasnewssource.com/2026/06/08/federal-judge-blocks-h1-b-visa-100k-fee/"
+      "We Think the SpaceX IPO Is Overvalued",
+      "https://www.morningstar.com/stocks/why-we-think-spacex-ipo-is-overvalued?content_id=20768396545"
     ]
   ],
   [
@@ -35,8 +35,18 @@
       "https://news.ycombinator.com/item?id=48452317"
     ],
     [
-      "OpenAI Submits S-1 Draft to SEC",
+      "Confidential submission of draft S-1 to the SEC",
       "https://openai.com/index/openai-submits-confidential-s-1/"
+    ]
+  ],
+  [
+    [
+      "2026-06-08, 21:02:00",
+      "https://news.ycombinator.com/item?id=48452000"
+    ],
+    [
+      "Apple bets cheaper AI will woo small developers",
+      "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/"
     ]
   ],
   [
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=48450646"
     ],
     [
-      "Surveillance Is Not Safety: A statement on the UK's latest threat to privacy [pdf]",
+      "Surveillance is not safety: A statement on the UK's latest threat to privacy [pdf]",
       "https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf"
     ]
   ],
@@ -127,16 +137,6 @@
     [
       "Massachusetts bans sale of precise location data in new privacy rights bill",
       "https://techcrunch.com/2026/06/08/massachusetts-votes-to-pass-new-privacy-rights-bill-that-bans-sale-of-precise-location-data/"
-    ]
-  ],
-  [
-    [
-      "2026-06-08, 17:01:43",
-      "https://news.ycombinator.com/item?id=48447935"
-    ],
-    [
-      "Stop the Apple Music app from launching",
-      "https://lowtechguys.com/musicdecoy/"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2026-06-08, 06:56:06",
-      "https://news.ycombinator.com/item?id=48442075"
-    ],
-    [
-      "How much of Thermo Fisher's antibody data has been manipulated?",
-      "https://reeserichardson.blog/2026/05/28/how-much-of-thermo-fishers-antibody-data-has-been-manipulated/"
-    ]
-  ],
-  [
-    [
       "2026-06-08, 01:37:52",
       "https://news.ycombinator.com/item?id=48440435"
     ],
@@ -271,6 +261,16 @@
   ],
   [
     [
+      "2026-06-05, 22:09:38",
+      "https://news.ycombinator.com/item?id=48419000"
+    ],
+    [
+      "Hermes Agent – Open-source AI agent with persistent memory",
+      "https://hermes-agent.org/"
+    ]
+  ],
+  [
+    [
       "2026-06-05, 15:15:35",
       "https://news.ycombinator.com/item?id=48413655"
     ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=48413067"
     ],
     [
-      "Doing Something That's Never Been Done Before",
+      "Doing something that’s never been done before (2025)",
       "https://talglobus.com/p/doing-something-thats-never-been-done-before/"
     ]
   ],
