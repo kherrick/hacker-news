@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-06-09](index.md)
 
+* [2026-06-09, 16:58:13](https://news.ycombinator.com/item?id=48463811) - [System Card: Claude Fable 5 and Claude Mythos 5 [pdf]](https://www-cdn.anthropic.com/d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf)
+* [2026-06-09, 16:58:01](https://news.ycombinator.com/item?id=48463808) - [Claude Fable 5](https://www.anthropic.com/news/claude-fable-5-mythos-5)
+* [2026-06-09, 16:38:38](https://news.ycombinator.com/item?id=48463430) - [I Think Rutger Bregman and the School for Moral Ambition Are Full of Shit](https://louwrentius.com/i-think-rutger-bregman-the-school-for-moral-ambition-are-full-of-shit.html)
+* [2026-06-09, 16:28:28](https://news.ycombinator.com/item?id=48463273) - [Launch HN: Transload (YC P26) – Measuring freight items with CCTV](https://news.ycombinator.com/item?id=48463273)
 * [2026-06-09, 16:13:10](https://news.ycombinator.com/item?id=48463024) - [Apple decided not to roll out Siri in EU after denied request for exemption](https://www.reuters.com/business/apple-failed-make-its-ai-tool-comply-eu-regulations-eu-commission-says-2026-06-09/)
 * [2026-06-09, 16:12:52](https://news.ycombinator.com/item?id=48463018) - [Biff.core: system composition for Clojure web apps](https://biffweb.com/p/core/)
 * [2026-06-09, 15:59:41](https://news.ycombinator.com/item?id=48462823) - ['Sloppenheimer:' Amazon Employees Mock the Company's AI on Slack](https://www.404media.co/sloppenheimer-amazon-employees-mock-the-companys-ai-on-slack/)
@@ -18,6 +22,7 @@
 * [2026-06-09, 13:17:34](https://news.ycombinator.com/item?id=48460758) - [The better the autopilot the worse the pilot](https://julienreszka.com/blog/the-better-the-autopilot-the-worse-the-pilot/)
 * [2026-06-09, 12:26:34](https://news.ycombinator.com/item?id=48460210) - [Show HN: We post-trained a model that pen tests instead of refusing your code](https://www.argusred.com/cli)
 * [2026-06-09, 12:01:09](https://news.ycombinator.com/item?id=48459968) - [Emerge Career (YC S22) Is Hiring a Founding Growth Marketer](https://www.ycombinator.com/companies/emerge-career/jobs/v0S1AEG-founding-growth-marketer)
+* [2026-06-09, 11:56:25](https://news.ycombinator.com/item?id=48459913) - [Show HN: Learn from 30 historical figures, open source, nonprofit, self-hosted](https://github.com/chipmates/agoracosmica)
 * [2026-06-09, 11:46:40](https://news.ycombinator.com/item?id=48459837) - [Show HN: Gravity – interactive solar-system simulator, from Newton to Einstein](https://qunabu.github.io/Gravity/)
 * [2026-06-09, 10:46:14](https://news.ycombinator.com/item?id=48459294) - [Making Graphics Like it's 1993](https://staniks.github.io/articles/catlantean-3d-blog-1/)
 * [2026-06-09, 10:08:18](https://news.ycombinator.com/item?id=48459001) - [The iPhone's Last Stand](https://stratechery.com/2026/the-iphones-last-stand/)

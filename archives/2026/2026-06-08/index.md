@@ -5,9 +5,11 @@
 ### [Archives](../../index.md) for [2026-06-08](index.md)
 
 * [2026-06-08, 23:05:20](https://news.ycombinator.com/item?id=48453666) - [Show HN: Mach – A compiled systems language looking for contributions](https://github.com/octalide/mach)
+* [2026-06-08, 22:32:36](https://news.ycombinator.com/item?id=48453275) - [Let's Encrypt bans certificate usage in any US sanctioned territory [pdf]](https://letsencrypt.org/documents/LE-SA-v1.7-June-04-2026-diff.pdf)
 * [2026-06-08, 22:10:18](https://news.ycombinator.com/item?id=48453002) - [Show HN: Command Center, the AI coding env for people who care about quality](https://www.cc.dev/)
 * [2026-06-08, 21:22:43](https://news.ycombinator.com/item?id=48452317) - [OpenAI Submits S-1 Draft to SEC](https://openai.com/index/openai-submits-confidential-s-1/)
 * [2026-06-08, 21:02:00](https://news.ycombinator.com/item?id=48452000) - [Apple bets cheaper AI will woo small developers](https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/)
+* [2026-06-08, 21:00:13](https://news.ycombinator.com/item?id=48451966) - [A giant star may have destroyed itself in one of the rarest explosions](https://phys.org/news/2026-05-giant-star-destroyed-universe-rarest.html)
 * [2026-06-08, 20:45:03](https://news.ycombinator.com/item?id=48451723) - [FrontierCode](https://cognition.ai/blog/frontier-code)
 * [2026-06-08, 19:45:04](https://news.ycombinator.com/item?id=48450694) - [I'm building a parallel internet, and it's called The Thinnernet](https://inavoyage.blogspot.com/2026/06/im-building-parallel-internet-and-its.html)
 * [2026-06-08, 19:42:28](https://news.ycombinator.com/item?id=48450646) - [Surveillance Is Not Safety: A statement on the UK's latest threat to privacy [pdf]](https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf)
