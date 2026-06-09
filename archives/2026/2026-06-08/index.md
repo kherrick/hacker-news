@@ -45,6 +45,7 @@
 * [2026-06-08, 13:35:27](https://news.ycombinator.com/item?id=48445171) - [Launch HN: Intuned (YC S22) – Build and run reliable browser automations as code](https://intunedhq.com)
 * [2026-06-08, 13:06:19](https://news.ycombinator.com/item?id=48444871) - [Zig by Example](https://github.com/boringcollege/zig-by-example)
 * [2026-06-08, 12:57:54](https://news.ycombinator.com/item?id=48444784) - [Spanish traders set the standard for GnuCash database design](https://handson.money/blog/2026-06-06-horse-arse-and-design/)
+* [2026-06-08, 12:55:01](https://news.ycombinator.com/item?id=48444758) - [Blaise v0.10.0: Native Back End, Threads and Incremental Compilation](https://github.com/graemeg/blaise/discussions/82)
 * [2026-06-08, 12:24:10](https://news.ycombinator.com/item?id=48444442) - [Are you expected to run five Python type-checkers now?](https://pyrefly.org/blog/too-many-type-checkers/)
 * [2026-06-08, 11:58:02](https://news.ycombinator.com/item?id=48444228) - [Anti-social: It's fads, not friends, which now dominate social media feeds](https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social)
 * [2026-06-08, 09:52:03](https://news.ycombinator.com/item?id=48443258) - [Replies to comments on my \"LLMs are eroding my career\" post](https://human-in-the-loop.bearblog.dev/replies-to-comments-on-my-llms-are-eroding-my-career-post/)

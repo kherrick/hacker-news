@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-06-09](index.md)
 
+* [2026-06-09, 19:21:45](https://news.ycombinator.com/item?id=48466277) - [Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks](https://aarushgupta.io/posts/kan-fpga/)
+* [2026-06-09, 18:50:27](https://news.ycombinator.com/item?id=48465744) - [Apple's AI Can Now Change Your Passwords. What Could Possibly Go Wrong?](https://www.kylereddoch.me/blog/apples-ai-can-now-change-your-passwords-what-could-possibly-go-wrong/)
 * [2026-06-09, 18:47:52](https://news.ycombinator.com/item?id=48465702) - [Ask HN: Are you still using your Vision Pro?](https://news.ycombinator.com/item?id=48465702)
 * [2026-06-09, 18:45:59](https://news.ycombinator.com/item?id=48465675) - [CEOs Who Think AI Replaces Their Employees Are Just Bad CEOs](https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/)
+* [2026-06-09, 18:21:43](https://news.ycombinator.com/item?id=48465269) - [GPT-2: Too Dangerous To Release (2019)](https://naokishibuya.github.io/blog/2022-12-30-gpt-2-2019/)
 * [2026-06-09, 17:29:17](https://news.ycombinator.com/item?id=48464333) - [Where is the AI jobs crisis?](https://www.apollo.com/wealth/the-daily-spark/where-is-the-ai-jobs-crisis)
 * [2026-06-09, 17:29:05](https://news.ycombinator.com/item?id=48464330) - [The LD_DEBUG environment variable (2012)](https://bnikolic.co.uk/blog/linux-ld-debug.html)
 * [2026-06-09, 17:17:21](https://news.ycombinator.com/item?id=48464140) - [What it feels like to work with Mythos](https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos)
@@ -29,6 +32,7 @@
 * [2026-06-09, 12:01:09](https://news.ycombinator.com/item?id=48459968) - [Emerge Career (YC S22) Is Hiring a Founding Growth Marketer](https://www.ycombinator.com/companies/emerge-career/jobs/v0S1AEG-founding-growth-marketer)
 * [2026-06-09, 11:56:25](https://news.ycombinator.com/item?id=48459913) - [Show HN: Learn from 30 historical figures, open source, nonprofit, self-hosted](https://github.com/chipmates/agoracosmica)
 * [2026-06-09, 11:46:40](https://news.ycombinator.com/item?id=48459837) - [Show HN: Gravity – interactive solar-system simulator, from Newton to Einstein](https://qunabu.github.io/Gravity/)
+* [2026-06-09, 11:27:49](https://news.ycombinator.com/item?id=48459659) - [Test-case reducers are underappreciated debugging tools](https://tratt.net/laurie/blog/2026/test_case_reducers_are_underappreciated_debugging_tools.html)
 * [2026-06-09, 10:46:14](https://news.ycombinator.com/item?id=48459294) - [Making Graphics Like it's 1993](https://staniks.github.io/articles/catlantean-3d-blog-1/)
 * [2026-06-09, 10:08:18](https://news.ycombinator.com/item?id=48459001) - [The iPhone's Last Stand](https://stratechery.com/2026/the-iphones-last-stand/)
 * [2026-06-09, 09:50:30](https://news.ycombinator.com/item?id=48458890) - [GentleOS – Classic operating system with a lovely retro GUI](https://github.com/luke8086/gentleos32)
@@ -40,6 +44,7 @@
 * [2026-06-09, 06:14:20](https://news.ycombinator.com/item?id=48457181) - [Facebook is paying people overseas promoting Alberta separatism](https://www.cbc.ca/news/canada/facebook-overseas-alberta-separtism-9.7223966)
 * [2026-06-09, 04:48:10](https://news.ycombinator.com/item?id=48456555) - [CRDTs merge concurrent edits. Why not concurrent creation?](https://loro.dev/blog/mergeable-containers)
 * [2026-06-09, 04:06:14](https://news.ycombinator.com/item?id=48456245) - [Porting the ThinkPad X61 to Coreboot](https://blog.aheymans.xyz/post/thinkpad_x61/)
+* [2026-06-09, 03:39:32](https://news.ycombinator.com/item?id=48456048) - [Flat Datacenter Networks at Scale at Amazon](https://perspectives.mvdirona.com/2026/06/flat-datacenter-networks-at-scale/)
 * [2026-06-09, 03:34:00](https://news.ycombinator.com/item?id=48456015) - [GoGoGrandparent (YC S16) is hiring Back end Engineers](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer)
 * [2026-06-09, 03:20:40](https://news.ycombinator.com/item?id=48455928) - [Job: Head of Stonehenge](https://www.english-heritage.org.uk/about/our-people/careers-with-us/job-search/default-job-page/?jobRef=16449)
 * [2026-06-09, 01:56:40](https://news.ycombinator.com/item?id=48455233) - [We Think the SpaceX IPO Is Overvalued](https://www.morningstar.com/stocks/why-we-think-spacex-ipo-is-overvalued?content_id=20768396545)
