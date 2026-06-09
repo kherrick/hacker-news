@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2026-06-08, 21:02:00",
-      "https://news.ycombinator.com/item?id=48452000"
-    ],
-    [
-      "Apple bets cheaper AI will woo small developers",
-      "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/"
-    ]
-  ],
-  [
-    [
       "2026-06-08, 20:45:03",
       "https://news.ycombinator.com/item?id=48451723"
     ],
@@ -107,6 +97,16 @@
     [
       "Siri AI",
       "https://www.apple.com/apple-intelligence/"
+    ]
+  ],
+  [
+    [
+      "2026-06-08, 17:14:24",
+      "https://news.ycombinator.com/item?id=48448106"
+    ],
+    [
+      "Apple WWDC 2026",
+      "https://www.apple.com/apple-events/event-stream/"
     ]
   ],
   [
@@ -201,22 +201,22 @@
   ],
   [
     [
+      "2026-06-08, 12:24:10",
+      "https://news.ycombinator.com/item?id=48444442"
+    ],
+    [
+      "Are you expected to run five Python type-checkers now?",
+      "https://pyrefly.org/blog/too-many-type-checkers/"
+    ]
+  ],
+  [
+    [
       "2026-06-08, 11:58:02",
       "https://news.ycombinator.com/item?id=48444228"
     ],
     [
       "Anti-social: It's fads, not friends, which now dominate social media feeds",
       "https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social"
-    ]
-  ],
-  [
-    [
-      "2026-06-08, 08:32:52",
-      "https://news.ycombinator.com/item?id=48442725"
-    ],
-    [
-      "The Cypherpunk Library",
-      "https://www.cypherpunkbooks.com"
     ]
   ],
   [
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2026-06-06, 13:34:16",
-      "https://news.ycombinator.com/item?id=48424960"
+      "2026-06-05, 23:36:00",
+      "https://news.ycombinator.com/item?id=48419769"
     ],
     [
-      "120k Lines of Rust: Inside the Nosdesk Backend",
-      "https://kyle.au/blog/nosdesk-backend-rust"
+      "Games Between Programs: The Ruliology of Competition",
+      "https://writings.stephenwolfram.com/2026/06/games-between-programs-the-ruliology-of-competition/"
     ]
   ],
   [
