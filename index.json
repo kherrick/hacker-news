@@ -1,12 +1,42 @@
 [
   [
     [
-      "2026-06-09, 16:13:10",
-      "https://news.ycombinator.com/item?id=48463024"
+      "2026-06-09, 16:58:13",
+      "https://news.ycombinator.com/item?id=48463811"
     ],
     [
-      "Apple decided not to roll out Siri in EU after denied request for exemption",
-      "https://www.reuters.com/business/apple-failed-make-its-ai-tool-comply-eu-regulations-eu-commission-says-2026-06-09/"
+      "System Card: Claude Fable 5 and Claude Mythos 5 [pdf]",
+      "https://www-cdn.anthropic.com/d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-06-09, 16:58:01",
+      "https://news.ycombinator.com/item?id=48463808"
+    ],
+    [
+      "Claude Fable 5",
+      "https://www.anthropic.com/news/claude-fable-5-mythos-5"
+    ]
+  ],
+  [
+    [
+      "2026-06-09, 16:38:38",
+      "https://news.ycombinator.com/item?id=48463430"
+    ],
+    [
+      "I Think Rutger Bregman and the School for Moral Ambition Are Full of Shit",
+      "https://louwrentius.com/i-think-rutger-bregman-the-school-for-moral-ambition-are-full-of-shit.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-09, 16:28:28",
+      "https://news.ycombinator.com/item?id=48463273"
+    ],
+    [
+      "Launch HN: Transload (YC P26) – Measuring freight items with CCTV",
+      "https://news.ycombinator.com/item?id=48463273"
     ]
   ],
   [
@@ -51,16 +81,6 @@
   ],
   [
     [
-      "2026-06-09, 15:09:38",
-      "https://news.ycombinator.com/item?id=48462156"
-    ],
-    [
-      "Solar Energy Saves Europeans $135M a Day",
-      "https://cleantechnica.com/2026/06/08/solar-energy-saves-europeans-135-million-a-day/"
-    ]
-  ],
-  [
-    [
       "2026-06-09, 15:01:15",
       "https://news.ycombinator.com/item?id=48462062"
     ],
@@ -77,16 +97,6 @@
     [
       "Unified Controllable and Faithful Text-to-CAD Generation with LLMs",
       "https://arxiv.org/abs/2604.19773"
-    ]
-  ],
-  [
-    [
-      "2026-06-09, 13:56:38",
-      "https://news.ycombinator.com/item?id=48461226"
-    ],
-    [
-      "WWDC 2026: Apple is Folding",
-      "https://cupertinolens.com/2026/06/09/wwdc-2026-apple-is-folding/"
     ]
   ],
   [
@@ -111,6 +121,16 @@
   ],
   [
     [
+      "2026-06-09, 11:56:25",
+      "https://news.ycombinator.com/item?id=48459913"
+    ],
+    [
+      "Show HN: Learn from 30 historical figures, open source, nonprofit, self-hosted",
+      "https://github.com/chipmates/agoracosmica"
+    ]
+  ],
+  [
+    [
       "2026-06-09, 11:46:40",
       "https://news.ycombinator.com/item?id=48459837"
     ],
@@ -131,12 +151,12 @@
   ],
   [
     [
-      "2026-06-09, 09:17:41",
-      "https://news.ycombinator.com/item?id=48458636"
+      "2026-06-09, 10:08:18",
+      "https://news.ycombinator.com/item?id=48459001"
     ],
     [
-      "Eagle Computer: The rise and fall of an early PC clone",
-      "https://dfarq.homeip.net/eagle-computer-the-rise-and-fall-of-an-early-pc-clone/"
+      "The iPhone's Last Stand?",
+      "https://stratechery.com/2026/the-iphones-last-stand/"
     ]
   ],
   [
@@ -171,12 +191,22 @@
   ],
   [
     [
-      "2026-06-09, 03:20:40",
-      "https://news.ycombinator.com/item?id=48455928"
+      "2026-06-08, 22:32:36",
+      "https://news.ycombinator.com/item?id=48453275"
     ],
     [
-      "Job: Head of Stonehenge",
-      "https://www.english-heritage.org.uk/about/our-people/careers-with-us/job-search/default-job-page/?jobRef=16449"
+      "Let's Encrypt bans certificate usage in any US sanctioned territory [pdf]",
+      "https://letsencrypt.org/documents/LE-SA-v1.7-June-04-2026-diff.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-06-08, 21:00:13",
+      "https://news.ycombinator.com/item?id=48451966"
+    ],
+    [
+      "A giant star may have destroyed itself in one of the rarest explosions",
+      "https://phys.org/news/2026-05-giant-star-destroyed-universe-rarest.html"
     ]
   ],
   [
@@ -191,32 +221,12 @@
   ],
   [
     [
-      "2026-06-08, 18:17:53",
-      "https://news.ycombinator.com/item?id=48449084"
-    ],
-    [
-      "Siri AI",
-      "https://www.apple.com/apple-intelligence/"
-    ]
-  ],
-  [
-    [
       "2026-06-08, 15:13:43",
       "https://news.ycombinator.com/item?id=48446428"
     ],
     [
       "xAI is looking more like a datacentre REIT than a frontier lab",
       "https://martinalderson.com/posts/xais-new-rental-business/"
-    ]
-  ],
-  [
-    [
-      "2026-06-08, 14:05:16",
-      "https://news.ycombinator.com/item?id=48445554"
-    ],
-    [
-      "Show HN: Performative-UI – A react component library of design tropes",
-      "https://vorpus.github.io/performativeUI/"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Show HN: GentleOS – A pair of hobby OSes for vintage 32-bit and 16-bit PCs",
       "https://github.com/luke8086/gentleos32"
-    ]
-  ],
-  [
-    [
-      "2026-06-06, 18:34:03",
-      "https://news.ycombinator.com/item?id=48427629"
-    ],
-    [
-      "Corrupting a ZFS File on Purpose",
-      "https://oshogbo.com/blog/90/"
     ]
   ],
   [
