@@ -4,6 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-06-10](index.md)
 
+* [2026-06-10, 14:23:12](https://news.ycombinator.com/item?id=48476751) - [Britain Became as Poor as Mississippi](https://www.theatlantic.com/magazine/2026/07/uk-productivity-economy-reform-party/687303/)
+* [2026-06-10, 14:06:22](https://news.ycombinator.com/item?id=48476514) - [GnuCash is right. It's also why I built my own finance app](https://k-id.app/blog/gnucash-is-right/)
+* [2026-06-10, 14:03:40](https://news.ycombinator.com/item?id=48476474) - [Notes on DeepSeek](https://twitter.com/NikoMcCarty/status/2064686557400100884)
+* [2026-06-10, 14:02:59](https://news.ycombinator.com/item?id=48476466) - [PgDog is funded and coming to a database near you](https://pgdog.dev/blog/our-funding-announcement)
+* [2026-06-10, 13:34:14](https://news.ycombinator.com/item?id=48476067) - [ICE denies having a protester database. A letter to Congress sheds more light](https://www.npr.org/2026/06/10/nx-s1-5843159/ice-protester-database-dhs)
+* [2026-06-10, 13:22:52](https://news.ycombinator.com/item?id=48475938) - [I Hate (Most) Keyboard 'Fn' Keys](https://danq.me/2026/06/09/fn-keys/)
+* [2026-06-10, 12:45:47](https://news.ycombinator.com/item?id=48475483) - [Building an HTML-first site doubled our users overnight](https://mohkohn.co.uk/writing/html-first/)
 * [2026-06-10, 12:11:28](https://news.ycombinator.com/item?id=48475100) - [All 9,300 Japanese train station, animated by the year it opened (1872–2026)](https://jivx.com/eki)
 * [2026-06-10, 09:43:16](https://news.ycombinator.com/item?id=48473845) - [Show HN: macOS menu bar gauges for your Claude Code quota](https://github.com/grzegorz-raczek-unit8/claude-quota)
 * [2026-06-10, 09:19:55](https://news.ycombinator.com/item?id=48473662) - [Port React Compiler to Rust](https://github.com/react/react/pull/36173)

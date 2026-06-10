@@ -33,6 +33,7 @@
 * [2026-06-08, 17:04:52](https://news.ycombinator.com/item?id=48447980) - [Ask HN: How to escalate a rejected Google extension?](https://news.ycombinator.com/item?id=48447980)
 * [2026-06-08, 17:01:43](https://news.ycombinator.com/item?id=48447935) - [Stop the Apple Music app from launching](https://lowtechguys.com/musicdecoy/)
 * [2026-06-08, 16:52:11](https://news.ycombinator.com/item?id=48447806) - [Show HN: Gitdot – a better GitHub. Open-source, anti-AI, and written in Rust](https://gitdot.io/)
+* [2026-06-08, 16:23:16](https://news.ycombinator.com/item?id=48447378) - ['They take you out of life, out of time': a journey into Spain's cave paintings](https://www.theguardian.com/science/2026/jun/02/journey-into-spain-palaeolithic-cave-paintings-altamira)
 * [2026-06-08, 16:02:10](https://news.ycombinator.com/item?id=48447111) - [Old'aVista – The most powerful guide to the old Internet](https://oldavista.com/)
 * [2026-06-08, 15:59:04](https://news.ycombinator.com/item?id=48447062) - [EU-banned pesticides found in rice, tea and spices](https://www.foodwatch.org/en/eu-banned-pesticides-found-in-rice-tea-and-spices)
 * [2026-06-08, 15:48:00](https://news.ycombinator.com/item?id=48446909) - [Why are so many young people getting cancer? What researchers do and don't know](https://www.nature.com/articles/d41586-026-01780-6)
