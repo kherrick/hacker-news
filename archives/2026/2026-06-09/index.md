@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-09](index.md)
 
+* [2026-06-09, 23:44:16](https://news.ycombinator.com/item?id=48469347) - [It's Death](https://jesseduffield.com/ITS-DEATH/)
+* [2026-06-09, 23:03:40](https://news.ycombinator.com/item?id=48469039) - [Show HN: Nucleus – A security-hardened, Nix-native container runtime](https://github.com/sig-id/nucleus)
 * [2026-06-09, 22:37:49](https://news.ycombinator.com/item?id=48468789) - [AI misidentification results in wrongful arrest; man seeks justice](https://www.wsoctv.com/news/local/ai-misidentification-results-wrongful-arrest-man-seeks-justice/I7UQJWV33FBN3LMKHCSXI6FIVA/)
 * [2026-06-09, 22:35:57](https://news.ycombinator.com/item?id=48468766) - [RIP software hackathons. Long live the hardware hackathon](https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/)
 * [2026-06-09, 21:19:11](https://news.ycombinator.com/item?id=48467896) - [If Claude Fable stops helping you, you'll never know](https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html)
