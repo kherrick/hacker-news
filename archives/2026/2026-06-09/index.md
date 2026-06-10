@@ -23,6 +23,7 @@
 * [2026-06-09, 17:37:11](https://news.ycombinator.com/item?id=48464484) - [Who's the Smartest Corvid?](https://thetyee.ca/Culture/2026/06/05/Whos-the-Smartest-Corvid/)
 * [2026-06-09, 17:29:17](https://news.ycombinator.com/item?id=48464333) - [Where is the AI jobs crisis?](https://www.apollo.com/wealth/the-daily-spark/where-is-the-ai-jobs-crisis)
 * [2026-06-09, 17:29:05](https://news.ycombinator.com/item?id=48464330) - [The LD_DEBUG environment variable (2012)](https://bnikolic.co.uk/blog/linux-ld-debug.html)
+* [2026-06-09, 17:23:40](https://news.ycombinator.com/item?id=48464258) - [Anthropic requires 30 day data retention for Fable and Mythos](https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models)
 * [2026-06-09, 17:17:21](https://news.ycombinator.com/item?id=48464140) - [What it feels like to work with Mythos](https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos)
 * [2026-06-09, 16:58:13](https://news.ycombinator.com/item?id=48463811) - [System Card: Claude Fable 5 and Claude Mythos 5 [pdf]](https://www-cdn.anthropic.com/d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf)
 * [2026-06-09, 16:58:01](https://news.ycombinator.com/item?id=48463808) - [Claude Fable 5](https://www.anthropic.com/news/claude-fable-5-mythos-5)

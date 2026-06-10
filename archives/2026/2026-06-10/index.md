@@ -19,6 +19,7 @@
 * [2026-06-10, 17:18:39](https://news.ycombinator.com/item?id=48479537) - [Meta steals a tactic from Tesla and builds data centers in tents](https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/)
 * [2026-06-10, 17:11:56](https://news.ycombinator.com/item?id=48479452) - [Claude Desktop spins up a VM without no way of stopping it](https://github.com/anthropics/claude-code/issues/29045)
 * [2026-06-10, 16:54:29](https://news.ycombinator.com/item?id=48479177) - [Textbooks Should Be Free](http://from-a-to-remzi.blogspot.com/2014/01/the-case-for-free-online-books-fobs.html)
+* [2026-06-10, 16:42:00](https://news.ycombinator.com/item?id=48478969) - [Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable](https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/)
 * [2026-06-10, 16:28:30](https://news.ycombinator.com/item?id=48478766) - [Babel-USB: USB drive with every file](https://github.com/p2r3/babel-usb)
 * [2026-06-10, 16:09:37](https://news.ycombinator.com/item?id=48478471) - [DiffusionGemma: 4x Faster Text Generation](https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/)
 * [2026-06-10, 16:09:26](https://news.ycombinator.com/item?id=48478469) - [Show HN: Extend UI – open-source UI kit for modern document apps](https://www.extend.ai/ui)
