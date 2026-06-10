@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-06-10](index.md)
 
+* [2026-06-10, 16:54:29](https://news.ycombinator.com/item?id=48479177) - [Textbooks Should Be Free](http://from-a-to-remzi.blogspot.com/2014/01/the-case-for-free-online-books-fobs.html)
+* [2026-06-10, 16:09:37](https://news.ycombinator.com/item?id=48478471) - [DiffusionGemma: 4x Faster Text Generation](https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/)
+* [2026-06-10, 16:05:06](https://news.ycombinator.com/item?id=48478410) - [Postgres by Example](https://github.com/boringcollege/postgres-by-example)
+* [2026-06-10, 15:57:03](https://news.ycombinator.com/item?id=48478285) - [The Last Evolution, by John W Campbell Jr. (1932)](https://www.gutenberg.org/files/27462/27462-h/27462-h.htm)
+* [2026-06-10, 15:29:52](https://news.ycombinator.com/item?id=48477851) - [GitHub Authentication issues related to API requests](https://www.githubstatus.com/incidents/fcj3088jg1wx)
 * [2026-06-10, 15:13:16](https://news.ycombinator.com/item?id=48477589) - [The iPad was on Tailscale: a WebRTC debugging story](https://p2claw.com/blog/2026-06-09-the-ipad-was-on-tailscale/)
 * [2026-06-10, 15:10:40](https://news.ycombinator.com/item?id=48477551) - [US Consumer Price Index up 4.2%](https://www.bls.gov/news.release/cpi.nr0.htm)
 * [2026-06-10, 15:01:06](https://news.ycombinator.com/item?id=48477400) - [Apache Burr: Build reliable AI agents and applications](https://burr.apache.org/)
@@ -15,6 +20,7 @@
 * [2026-06-10, 13:39:11](https://news.ycombinator.com/item?id=48476136) - [A €0.01 bank transfer could compromise a banking AI agent](https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/)
 * [2026-06-10, 13:34:14](https://news.ycombinator.com/item?id=48476067) - [ICE denies having a protester database. A letter to Congress sheds more light](https://www.npr.org/2026/06/10/nx-s1-5843159/ice-protester-database-dhs)
 * [2026-06-10, 13:22:52](https://news.ycombinator.com/item?id=48475938) - [I Hate (Most) Keyboard 'Fn' Keys](https://danq.me/2026/06/09/fn-keys/)
+* [2026-06-10, 13:18:34](https://news.ycombinator.com/item?id=48475871) - [Ask HN: Are most corporate SWE jobs performative?](https://news.ycombinator.com/item?id=48475871)
 * [2026-06-10, 12:45:47](https://news.ycombinator.com/item?id=48475483) - [Building an HTML-first site doubled our users overnight](https://mohkohn.co.uk/writing/html-first/)
 * [2026-06-10, 12:11:28](https://news.ycombinator.com/item?id=48475100) - [All 9,300 Japanese train station, animated by the year it opened (1872–2026)](https://jivx.com/eki)
 * [2026-06-10, 09:43:16](https://news.ycombinator.com/item?id=48473845) - [Show HN: macOS menu bar gauges for your Claude Code quota](https://github.com/grzegorz-raczek-unit8/claude-quota)
