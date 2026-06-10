@@ -4,10 +4,17 @@
 
 ### [Archives](../../index.md) for [2026-06-10](index.md)
 
+* [2026-06-10, 17:47:46](https://news.ycombinator.com/item?id=48479996) - [The Dynamo and the Computer: The Modern Productivity Paradox (1989) [pdf]](https://www.almendron.com/tribuna/wp-content/uploads/2018/03/the-dynamo-and-the-computer-an-historical-perspective-on-the-modern-productivity-paradox.pdf)
+* [2026-06-10, 17:37:26](https://news.ycombinator.com/item?id=48479818) - [Providers, not insurers, are responsible for excess U.S. health care cost (2024)](https://www.noahpinion.blog/p/insurers-arent-the-main-villain-of)
+* [2026-06-10, 17:30:48](https://news.ycombinator.com/item?id=48479705) - [How JPL keeps the 13-year-old Curiosity rover doing science](https://spectrum.ieee.org/curiosity-rover-jpl-mars-science)
+* [2026-06-10, 17:11:56](https://news.ycombinator.com/item?id=48479452) - [Claude Desktop spins up a VM without no way of stopping it](https://github.com/anthropics/claude-code/issues/29045)
 * [2026-06-10, 16:54:29](https://news.ycombinator.com/item?id=48479177) - [Textbooks Should Be Free](http://from-a-to-remzi.blogspot.com/2014/01/the-case-for-free-online-books-fobs.html)
+* [2026-06-10, 16:28:30](https://news.ycombinator.com/item?id=48478766) - [Babel-USB: USB drive with every file](https://github.com/p2r3/babel-usb)
 * [2026-06-10, 16:09:37](https://news.ycombinator.com/item?id=48478471) - [DiffusionGemma: 4x Faster Text Generation](https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/)
 * [2026-06-10, 16:05:06](https://news.ycombinator.com/item?id=48478410) - [Postgres by Example](https://github.com/boringcollege/postgres-by-example)
+* [2026-06-10, 16:04:11](https://news.ycombinator.com/item?id=48478396) - [Anatomy of a high-performance EP kernel](https://fergusfinn.com/blog/anatomy-of-a-high-performance-ep-kernel/)
 * [2026-06-10, 15:57:03](https://news.ycombinator.com/item?id=48478285) - [The Last Evolution, by John W Campbell Jr. (1932)](https://www.gutenberg.org/files/27462/27462-h/27462-h.htm)
+* [2026-06-10, 15:47:31](https://news.ycombinator.com/item?id=48478148) - [Show HN: HelixDB – A graph database built on object storage](https://github.com/HelixDB/helix-db/tree/main)
 * [2026-06-10, 15:29:52](https://news.ycombinator.com/item?id=48477851) - [GitHub Authentication issues related to API requests](https://www.githubstatus.com/incidents/fcj3088jg1wx)
 * [2026-06-10, 15:13:16](https://news.ycombinator.com/item?id=48477589) - [The iPad was on Tailscale: a WebRTC debugging story](https://p2claw.com/blog/2026-06-09-the-ipad-was-on-tailscale/)
 * [2026-06-10, 15:10:40](https://news.ycombinator.com/item?id=48477551) - [US Consumer Price Index up 4.2%](https://www.bls.gov/news.release/cpi.nr0.htm)

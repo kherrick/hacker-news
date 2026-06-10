@@ -20,6 +20,7 @@
 * [2026-06-09, 18:47:52](https://news.ycombinator.com/item?id=48465702) - [Ask HN: Are you still using your Vision Pro?](https://news.ycombinator.com/item?id=48465702)
 * [2026-06-09, 18:45:59](https://news.ycombinator.com/item?id=48465675) - [CEOs Who Think AI Replaces Their Employees Are Just Bad CEOs](https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/)
 * [2026-06-09, 18:21:43](https://news.ycombinator.com/item?id=48465269) - [GPT-2: Too Dangerous To Release (2019)](https://naokishibuya.github.io/blog/2022-12-30-gpt-2-2019/)
+* [2026-06-09, 17:37:11](https://news.ycombinator.com/item?id=48464484) - [Who's the Smartest Corvid?](https://thetyee.ca/Culture/2026/06/05/Whos-the-Smartest-Corvid/)
 * [2026-06-09, 17:29:17](https://news.ycombinator.com/item?id=48464333) - [Where is the AI jobs crisis?](https://www.apollo.com/wealth/the-daily-spark/where-is-the-ai-jobs-crisis)
 * [2026-06-09, 17:29:05](https://news.ycombinator.com/item?id=48464330) - [The LD_DEBUG environment variable (2012)](https://bnikolic.co.uk/blog/linux-ld-debug.html)
 * [2026-06-09, 17:17:21](https://news.ycombinator.com/item?id=48464140) - [What it feels like to work with Mythos](https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos)
