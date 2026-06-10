@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-06-10, 20:35:07",
+      "https://news.ycombinator.com/item?id=48482293"
+    ],
+    [
+      "What Is It Like to Be a Bat? [pdf]",
+      "https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-06-10, 20:05:21",
+      "https://news.ycombinator.com/item?id=48481857"
+    ],
+    [
+      "Raspberry Pi 5 – 16 GB, $350",
+      "https://www.adafruit.com/product/6125?src=raspberrypi"
+    ]
+  ],
+  [
+    [
+      "2026-06-10, 19:38:51",
+      "https://news.ycombinator.com/item?id=48481524"
+    ],
+    [
+      "The Abundance Illusion",
+      "https://www.carlyle.com/carlyle-compass/the-abundance-illusion"
+    ]
+  ],
+  [
+    [
+      "2026-06-10, 19:06:50",
+      "https://news.ycombinator.com/item?id=48481126"
+    ],
+    [
+      "Farmer donates land for a park, city sells it for $10M as data center land",
+      "https://www.tomshardware.com/tech-industry/farmer-donates-land-for-a-park-city-sells-it-for-data-center-development-usd10-gift-became-usd10m-for-city-government-with-usd30m-tax-expected-over-next-decade"
+    ]
+  ],
+  [
+    [
       "2026-06-10, 18:54:54",
       "https://news.ycombinator.com/item?id=48480978"
     ],
@@ -17,26 +57,6 @@
     [
       "Anthropic's Model Naming, Extrapolated",
       "https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated"
-    ]
-  ],
-  [
-    [
-      "2026-06-10, 18:36:04",
-      "https://news.ycombinator.com/item?id=48480719"
-    ],
-    [
-      "Policy on the AI Exponential",
-      "https://darioamodei.com/post/policy-on-the-ai-exponential"
-    ]
-  ],
-  [
-    [
-      "2026-06-10, 17:47:46",
-      "https://news.ycombinator.com/item?id=48479996"
-    ],
-    [
-      "The Dynamo and the Computer: The Modern Productivity Paradox (1989) [pdf]",
-      "https://www.almendron.com/tribuna/wp-content/uploads/2018/03/the-dynamo-and-the-computer-an-historical-perspective-on-the-modern-productivity-paradox.pdf"
     ]
   ],
   [
@@ -71,32 +91,12 @@
   ],
   [
     [
-      "2026-06-10, 17:18:39",
-      "https://news.ycombinator.com/item?id=48479537"
-    ],
-    [
-      "Meta steals a tactic from Tesla and builds data centers in tents",
-      "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/"
-    ]
-  ],
-  [
-    [
       "2026-06-10, 17:11:56",
       "https://news.ycombinator.com/item?id=48479452"
     ],
     [
       "Claude Desktop spins up a VM without no way of stopping it",
       "https://github.com/anthropics/claude-code/issues/29045"
-    ]
-  ],
-  [
-    [
-      "2026-06-10, 16:54:29",
-      "https://news.ycombinator.com/item?id=48479177"
-    ],
-    [
-      "The Case for Free Online Books (2014)",
-      "http://from-a-to-remzi.blogspot.com/2014/01/the-case-for-free-online-books-fobs.html"
     ]
   ],
   [
@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2026-06-10, 15:57:03",
-      "https://news.ycombinator.com/item?id=48478285"
-    ],
-    [
-      "The Last Evolution, by John W Campbell Jr. (1932)",
-      "https://www.gutenberg.org/files/27462/27462-h/27462-h.htm"
-    ]
-  ],
-  [
-    [
       "2026-06-10, 15:47:31",
       "https://news.ycombinator.com/item?id=48478148"
     ],
@@ -147,16 +137,6 @@
     [
       "GitHub Authentication issues related to API requests",
       "https://www.githubstatus.com/incidents/fcj3088jg1wx"
-    ]
-  ],
-  [
-    [
-      "2026-06-10, 15:13:16",
-      "https://news.ycombinator.com/item?id=48477589"
-    ],
-    [
-      "The iPad was on Tailscale: a WebRTC debugging story",
-      "https://p2claw.com/blog/2026-06-09-the-ipad-was-on-tailscale/"
     ]
   ],
   [
@@ -231,12 +211,22 @@
   ],
   [
     [
-      "2026-06-10, 00:29:01",
-      "https://news.ycombinator.com/item?id=48469658"
+      "2026-06-10, 05:27:31",
+      "https://news.ycombinator.com/item?id=48471805"
     ],
     [
-      "macOS Container Machines",
-      "https://github.com/apple/container/blob/main/docs/container-machine.md"
+      "Show HN: Artie – Real-time data replication to your warehouse, now self-serve",
+      "https://www.artie.com"
+    ]
+  ],
+  [
+    [
+      "2026-06-10, 02:25:05",
+      "https://news.ycombinator.com/item?id=48470578"
+    ],
+    [
+      "Smudging the game disc to make speedrunning 'SpongeBob' faster",
+      "https://www.inverse.com/input/gaming/the-dirty-secret-that-makes-speedrunning-on-spongebob-a-lot-faster"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Who's the Smartest Corvid?",
       "https://thetyee.ca/Culture/2026/06/05/Whos-the-Smartest-Corvid/"
+    ]
+  ],
+  [
+    [
+      "2026-06-09, 12:35:01",
+      "https://news.ycombinator.com/item?id=48460286"
+    ],
+    [
+      "Show HN: Atlasphere – Live Infrastructure Diagrams",
+      "https://news.ycombinator.com/item?id=48460286"
     ]
   ],
   [
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2026-06-08, 10:44:44",
-      "https://news.ycombinator.com/item?id=48443644"
+      "2026-06-08, 11:47:50",
+      "https://news.ycombinator.com/item?id=48444136"
     ],
     [
-      "Reviving Papers with Code",
-      "https://paperswithcode.co/"
+      "Pick and Place: Carbon Nanotube Nanoassembly Process",
+      "https://www.c12qe.com/news/pick-and-place-carbon-nanotube-quantum-chip-manufacturing"
     ]
   ],
   [
