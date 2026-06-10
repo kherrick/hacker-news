@@ -4,13 +4,18 @@
 
 ### [Archives](../../index.md) for [2026-06-10](index.md)
 
+* [2026-06-10, 18:45:20](https://news.ycombinator.com/item?id=48480852) - [Anthropic's Model Naming, Extrapolated](https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated)
+* [2026-06-10, 18:36:04](https://news.ycombinator.com/item?id=48480719) - [Policy on the AI Exponential](https://darioamodei.com/post/policy-on-the-ai-exponential)
 * [2026-06-10, 17:47:46](https://news.ycombinator.com/item?id=48479996) - [The Dynamo and the Computer: The Modern Productivity Paradox (1989) [pdf]](https://www.almendron.com/tribuna/wp-content/uploads/2018/03/the-dynamo-and-the-computer-an-historical-perspective-on-the-modern-productivity-paradox.pdf)
+* [2026-06-10, 17:44:59](https://news.ycombinator.com/item?id=48479947) - [Why SpaceX 2040 Revenue FCST $4.3T in highly unlikely](https://www.matteast.io/spacex-escape-velocity.html)
 * [2026-06-10, 17:37:26](https://news.ycombinator.com/item?id=48479818) - [Providers, not insurers, are responsible for excess U.S. health care cost (2024)](https://www.noahpinion.blog/p/insurers-arent-the-main-villain-of)
 * [2026-06-10, 17:30:48](https://news.ycombinator.com/item?id=48479705) - [How JPL keeps the 13-year-old Curiosity rover doing science](https://spectrum.ieee.org/curiosity-rover-jpl-mars-science)
+* [2026-06-10, 17:18:39](https://news.ycombinator.com/item?id=48479537) - [Meta steals a tactic from Tesla and builds data centers in tents](https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/)
 * [2026-06-10, 17:11:56](https://news.ycombinator.com/item?id=48479452) - [Claude Desktop spins up a VM without no way of stopping it](https://github.com/anthropics/claude-code/issues/29045)
 * [2026-06-10, 16:54:29](https://news.ycombinator.com/item?id=48479177) - [Textbooks Should Be Free](http://from-a-to-remzi.blogspot.com/2014/01/the-case-for-free-online-books-fobs.html)
 * [2026-06-10, 16:28:30](https://news.ycombinator.com/item?id=48478766) - [Babel-USB: USB drive with every file](https://github.com/p2r3/babel-usb)
 * [2026-06-10, 16:09:37](https://news.ycombinator.com/item?id=48478471) - [DiffusionGemma: 4x Faster Text Generation](https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/)
+* [2026-06-10, 16:09:26](https://news.ycombinator.com/item?id=48478469) - [Show HN: Extend UI – open-source UI kit for modern document apps](https://www.extend.ai/ui)
 * [2026-06-10, 16:05:06](https://news.ycombinator.com/item?id=48478410) - [Postgres by Example](https://github.com/boringcollege/postgres-by-example)
 * [2026-06-10, 16:04:11](https://news.ycombinator.com/item?id=48478396) - [Anatomy of a high-performance EP kernel](https://fergusfinn.com/blog/anatomy-of-a-high-performance-ep-kernel/)
 * [2026-06-10, 15:57:03](https://news.ycombinator.com/item?id=48478285) - [The Last Evolution, by John W Campbell Jr. (1932)](https://www.gutenberg.org/files/27462/27462-h/27462-h.htm)
