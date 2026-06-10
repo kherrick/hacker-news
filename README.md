@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-06-10, 22:07:52](https://news.ycombinator.com/item?id=48483387) - [A Written Language for the Cherokee So Efficient It Was Thought to Be Magic](https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/)
 * [2026-06-10, 20:35:07](https://news.ycombinator.com/item?id=48482293) - [What is it like to be a bat? (1974) [pdf]](https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf)
 * [2026-06-10, 20:05:21](https://news.ycombinator.com/item?id=48481857) - [Raspberry Pi 5 – 16 GB, $350](https://www.adafruit.com/product/6125?src=raspberrypi)
-* [2026-06-10, 19:38:51](https://news.ycombinator.com/item?id=48481524) - [The Abundance Illusion](https://www.carlyle.com/carlyle-compass/the-abundance-illusion)
 * [2026-06-10, 19:06:50](https://news.ycombinator.com/item?id=48481126) - [Farmer donates land for a park, city sells it for $10M as data center land](https://www.tomshardware.com/tech-industry/farmer-donates-land-for-a-park-city-sells-it-for-data-center-development-usd10-gift-became-usd10m-for-city-government-with-usd30m-tax-expected-over-next-decade)
 * [2026-06-10, 18:54:54](https://news.ycombinator.com/item?id=48480978) - [πFS](https://github.com/philipl/pifs)
 * [2026-06-10, 18:45:20](https://news.ycombinator.com/item?id=48480852) - [Anthropic's model naming, extrapolated](https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated)
@@ -27,9 +27,9 @@
 * [2026-06-09, 17:23:40](https://news.ycombinator.com/item?id=48464258) - [Anthropic requires 30 day data retention for Fable and Mythos](https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models)
 * [2026-06-09, 12:35:01](https://news.ycombinator.com/item?id=48460286) - [Show HN: Atlasphere – Live Infrastructure Diagrams](https://news.ycombinator.com/item?id=48460286)
 * [2026-06-09, 05:21:39](https://news.ycombinator.com/item?id=48456808) - [L'Affaire Siloxane](https://mceglowski.substack.com/p/laffaire-siloxane)
-* [2026-06-08, 16:23:16](https://news.ycombinator.com/item?id=48447378) - ['They take you out of life, out of time': a journey into Spain's cave paintings](https://www.theguardian.com/science/2026/jun/02/journey-into-spain-palaeolithic-cave-paintings-altamira)
+* [2026-06-08, 15:20:08](https://news.ycombinator.com/item?id=48446532) - [World Capitals Voronoi](https://www.jasondavies.com/maps/voronoi/capitals/)
+* [2026-06-08, 14:15:32](https://news.ycombinator.com/item?id=48445702) - [Who Runs Your Rust Future? Hands-On Intro to Async Rust](https://aibodh.com/posts/async-rust-chapter-1-hands-on-intro-to-async-rust/)
 * [2026-06-08, 11:47:50](https://news.ycombinator.com/item?id=48444136) - [Pick and Place: Carbon Nanotube Nanoassembly Process](https://www.c12qe.com/news/pick-and-place-carbon-nanotube-quantum-chip-manufacturing)
-* [2026-06-08, 09:05:29](https://news.ycombinator.com/item?id=48442932) - [Buy a train, bridge or tracks from the Swiss Railway](https://sbbresale.ch/)
 
 ## [Archives](archives/index.md)
 
