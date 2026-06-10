@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-10, 02:25:24",
+      "https://news.ycombinator.com/item?id=48470581"
+    ],
+    [
+      "Rich Sutton on AI creativity and discovery",
+      "https://twitter.com/RichardSSutton/status/2061216087744946656"
+    ]
+  ],
+  [
+    [
       "2026-06-10, 01:44:13",
       "https://news.ycombinator.com/item?id=48470248"
     ],
@@ -65,7 +75,7 @@
       "https://news.ycombinator.com/item?id=48467759"
     ],
     [
-      "Exif Smuggling",
+      "Exif Smuggling (2025)",
       "https://github.com/signalblur/exifsmugglingpoc"
     ]
   ],
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2026-06-09, 16:13:10",
-      "https://news.ycombinator.com/item?id=48463024"
-    ],
-    [
-      "Apple decided not to roll out Siri in EU after denied request for exemption",
-      "https://www.reuters.com/business/apple-failed-make-its-ai-tool-comply-eu-regulations-eu-commission-says-2026-06-09/"
-    ]
-  ],
-  [
-    [
       "2026-06-09, 15:21:46",
       "https://news.ycombinator.com/item?id=48462308"
     ],
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2026-06-09, 11:46:40",
-      "https://news.ycombinator.com/item?id=48459837"
-    ],
-    [
-      "Show HN: Gravity – Interactive solar-system simulator, from Newton to Einstein",
-      "https://qunabu.github.io/Gravity/"
-    ]
-  ],
-  [
-    [
       "2026-06-09, 11:27:49",
       "https://news.ycombinator.com/item?id=48459659"
     ],
@@ -217,16 +207,6 @@
     [
       "Making Graphics Like it's 1993",
       "https://staniks.github.io/articles/catlantean-3d-blog-1/"
-    ]
-  ],
-  [
-    [
-      "2026-06-09, 03:39:32",
-      "https://news.ycombinator.com/item?id=48456048"
-    ],
-    [
-      "Flat Datacenter Networks at Scale at Amazon",
-      "https://perspectives.mvdirona.com/2026/06/flat-datacenter-networks-at-scale/"
     ]
   ],
   [
@@ -251,12 +231,32 @@
   ],
   [
     [
+      "2026-06-08, 18:42:01",
+      "https://news.ycombinator.com/item?id=48449567"
+    ],
+    [
+      "Experience using AI software to prove Euler sum results [pdf]",
+      "https://www.davidhbailey.com/dhbpapers/Chatbots.pdf"
+    ]
+  ],
+  [
+    [
       "2026-06-08, 14:24:57",
       "https://news.ycombinator.com/item?id=48445834"
     ],
     [
       "Lies we tell ourselves about email addresses",
       "https://gitpush--force.com/commits/2026/06/lies-we-tell-ourselves-about-email/"
+    ]
+  ],
+  [
+    [
+      "2026-06-08, 12:45:01",
+      "https://news.ycombinator.com/item?id=48444654"
+    ],
+    [
+      "Value Numbering",
+      "https://bernsteinbear.com/blog/value-numbering/"
     ]
   ],
   [
