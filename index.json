@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-06-10, 16:54:29",
+      "https://news.ycombinator.com/item?id=48479177"
+    ],
+    [
+      "Textbooks Should Be Free",
+      "http://from-a-to-remzi.blogspot.com/2014/01/the-case-for-free-online-books-fobs.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-10, 16:09:37",
+      "https://news.ycombinator.com/item?id=48478471"
+    ],
+    [
+      "DiffusionGemma: 4x Faster Text Generation",
+      "https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/"
+    ]
+  ],
+  [
+    [
+      "2026-06-10, 16:05:06",
+      "https://news.ycombinator.com/item?id=48478410"
+    ],
+    [
+      "Postgres by Example",
+      "https://github.com/boringcollege/postgres-by-example"
+    ]
+  ],
+  [
+    [
+      "2026-06-10, 15:57:03",
+      "https://news.ycombinator.com/item?id=48478285"
+    ],
+    [
+      "The Last Evolution, by John W Campbell Jr. (1932)",
+      "https://www.gutenberg.org/files/27462/27462-h/27462-h.htm"
+    ]
+  ],
+  [
+    [
+      "2026-06-10, 15:29:52",
+      "https://news.ycombinator.com/item?id=48477851"
+    ],
+    [
+      "GitHub Authentication issues related to API requests",
+      "https://www.githubstatus.com/incidents/fcj3088jg1wx"
+    ]
+  ],
+  [
+    [
       "2026-06-10, 15:13:16",
       "https://news.ycombinator.com/item?id=48477589"
     ],
@@ -35,18 +85,8 @@
       "https://news.ycombinator.com/item?id=48477135"
     ],
     [
-      "AMA: I'm Eric Ries (The Lean Startup) & Author of New Bestseller Incorruptible",
+      "I'm Eric Ries (The Lean Startup) and Author of New Book \"Incorruptible\" - AMA",
       "https://news.ycombinator.com/item?id=48477135"
-    ]
-  ],
-  [
-    [
-      "2026-06-10, 14:03:40",
-      "https://news.ycombinator.com/item?id=48476474"
-    ],
-    [
-      "Notes on DeepSeek",
-      "https://twitter.com/NikoMcCarty/status/2064686557400100884"
     ]
   ],
   [
@@ -81,6 +121,16 @@
   ],
   [
     [
+      "2026-06-10, 13:18:34",
+      "https://news.ycombinator.com/item?id=48475871"
+    ],
+    [
+      "Ask HN: Are most corporate SWE jobs performative?",
+      "https://news.ycombinator.com/item?id=48475871"
+    ]
+  ],
+  [
+    [
       "2026-06-10, 12:45:47",
       "https://news.ycombinator.com/item?id=48475483"
     ],
@@ -97,16 +147,6 @@
     [
       "All 9,300 Japanese train station, animated by the year it opened (1872–2026)",
       "https://jivx.com/eki"
-    ]
-  ],
-  [
-    [
-      "2026-06-10, 09:43:16",
-      "https://news.ycombinator.com/item?id=48473845"
-    ],
-    [
-      "Show HN: macOS menu bar gauges for your Claude Code quota",
-      "https://github.com/grzegorz-raczek-unit8/claude-quota"
     ]
   ],
   [
@@ -131,12 +171,12 @@
   ],
   [
     [
-      "2026-06-10, 02:25:24",
-      "https://news.ycombinator.com/item?id=48470581"
+      "2026-06-10, 05:50:07",
+      "https://news.ycombinator.com/item?id=48471970"
     ],
     [
-      "Rich Sutton on AI creativity and discovery",
-      "https://twitter.com/RichardSSutton/status/2061216087744946656"
+      "Chrome is looking to permanently drop MV2 extension",
+      "https://www.neowin.net/news/google-chrome-is-killing-all-ublock-origin-bypasses-microsoft-edge-opera-to-follow/"
     ]
   ],
   [
@@ -181,42 +221,12 @@
   ],
   [
     [
-      "2026-06-09, 22:01:15",
-      "https://news.ycombinator.com/item?id=48468370"
-    ],
-    [
-      "Surprise, pay $1000",
-      "https://forestwalk.ai/blog/surprise-blacksmith-costs/"
-    ]
-  ],
-  [
-    [
       "2026-06-09, 21:01:00",
       "https://news.ycombinator.com/item?id=48467705"
     ],
     [
       "Upcoming breaking changes for npm v12",
       "https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/"
-    ]
-  ],
-  [
-    [
-      "2026-06-09, 19:21:45",
-      "https://news.ycombinator.com/item?id=48466277"
-    ],
-    [
-      "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
-      "https://aarushgupta.io/posts/kan-fpga/"
-    ]
-  ],
-  [
-    [
-      "2026-06-09, 17:17:21",
-      "https://news.ycombinator.com/item?id=48464140"
-    ],
-    [
-      "What it feels like to work with Mythos",
-      "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Magnetoelectric antennas could transform how underwater robots talk",
       "https://newatlas.com/engineering/magnetoelectric-antennas-submarine-robots-communications/"
-    ]
-  ],
-  [
-    [
-      "2026-06-05, 11:45:23",
-      "https://news.ycombinator.com/item?id=48411102"
-    ],
-    [
-      "I thought I knew how electrolysis worked [video]",
-      "https://www.youtube.com/watch?v=eq7fR9ISuCw"
     ]
   ]
 ]
