@@ -6,6 +6,7 @@
 
 * [2026-06-07, 22:41:36](https://news.ycombinator.com/item?id=48439348) - [Firefox Merges Support for Vulkan Video Decoding](https://www.phoronix.com/news/Firefox-Vulkan-Video-Merged)
 * [2026-06-07, 21:29:21](https://news.ycombinator.com/item?id=48438754) - [VibeOS: First ever AI-native operating system](https://vibeos.sh/)
+* [2026-06-07, 21:20:54](https://news.ycombinator.com/item?id=48438685) - [Why are there so many canines in fine art?](https://www.theatlantic.com/magazine/2026/07/the-dogs-gaze-thomas-w-laqueur/687312/)
 * [2026-06-07, 21:14:02](https://news.ycombinator.com/item?id=48438625) - [NEC PC Engine LT Recap and LCD Bias Fix (Necromancy)](https://hitmanmcc.com/entry/pc-engine-lt-necromancy)
 * [2026-06-07, 21:10:20](https://news.ycombinator.com/item?id=48438595) - [How much do amd64 microarchitecture levels help in Go?](https://lemire.me/blog/2026/06/06/how-much-do-amd64-microarchitecture-levels-help-in-go/)
 * [2026-06-07, 20:52:11](https://news.ycombinator.com/item?id=48438421) - [Flock license plate reader wrongly linked a San Diego man to a violent crime](https://timesofsandiego.com/crime/2026/06/07/a-flock-license-plate-reader-linked-a-san-diego-man-to-a-violent-crime-he-was-five-miles-away/)

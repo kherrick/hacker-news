@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-06-10](index.md)
 
+* [2026-06-10, 22:48:58](https://news.ycombinator.com/item?id=48483854) - [Unix GC Remastered](https://mohandacherir.github.io/Qdiv7/posts/unix_new_gc/)
 * [2026-06-10, 22:07:52](https://news.ycombinator.com/item?id=48483387) - [A Written Language for the Cherokee So Efficient It Was Thought to Be Magic](https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/)
+* [2026-06-10, 22:04:29](https://news.ycombinator.com/item?id=48483345) - [Free financial literacy platform for kids – 90 lessons, no paywall](https://learnfinly.com)
 * [2026-06-10, 20:35:07](https://news.ycombinator.com/item?id=48482293) - [What Is It Like to Be a Bat? [pdf]](https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf)
 * [2026-06-10, 20:05:21](https://news.ycombinator.com/item?id=48481857) - [Raspberry Pi 5 – 16 GB, $350](https://www.adafruit.com/product/6125?src=raspberrypi)
 * [2026-06-10, 19:38:51](https://news.ycombinator.com/item?id=48481524) - [The Abundance Illusion](https://www.carlyle.com/carlyle-compass/the-abundance-illusion)
