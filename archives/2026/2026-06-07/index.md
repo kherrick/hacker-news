@@ -41,6 +41,7 @@
 * [2026-06-07, 11:55:05](https://news.ycombinator.com/item?id=48433962) - [The best relationships are all-encompassing.](https://andys.blog/the-best-relationships/)
 * [2026-06-07, 11:45:58](https://news.ycombinator.com/item?id=48433927) - [The Grate Cheese Robbery](https://longreads.com/2026/05/28/the-cheese-theft-food-crime/)
 * [2026-06-07, 11:16:46](https://news.ycombinator.com/item?id=48433756) - [Show HN: Lathe – Use LLMs to learn a new domain, not skip past it](https://github.com/devenjarvis/lathe)
+* [2026-06-07, 10:38:31](https://news.ycombinator.com/item?id=48433525) - [Magnetoelectric antennas could transform how underwater robots talk](https://newatlas.com/engineering/magnetoelectric-antennas-submarine-robots-communications/)
 * [2026-06-07, 10:10:33](https://news.ycombinator.com/item?id=48433410) - [Scientists ejected from diabetes conference for distributing journal reprints](https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/)
 * [2026-06-07, 09:59:52](https://news.ycombinator.com/item?id=48433356) - [H2JVM – A Haskell Library for Writing JVM Bytecode](https://discourse.haskell.org/t/h2jvm-a-haskell-library-for-writing-jvm-bytecode/14182)
 * [2026-06-07, 09:43:45](https://news.ycombinator.com/item?id=48433305) - [Efficient and Training-Free Single-Image Diffusion Models](https://arxiv.org/abs/2606.04299)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-10](index.md)
 
+* [2026-06-10, 09:19:55](https://news.ycombinator.com/item?id=48473662) - [Port React Compiler to Rust](https://github.com/react/react/pull/36173)
+* [2026-06-10, 08:27:46](https://news.ycombinator.com/item?id=48473204) - [European sentiments towards the US hit an all-time low](https://ecfr.eu/publication/home-alone-europeans-are-ready-to-defend-themselves/)
 * [2026-06-10, 08:21:38](https://news.ycombinator.com/item?id=48473166) - [AWS Bedrock to require sharing data with Anthropic for Mythos and future models](https://news.ycombinator.com/item?id=48473166)
 * [2026-06-10, 07:44:49](https://news.ycombinator.com/item?id=48472877) - [Mercedes‑Benz starts large‑scale production of electric axial flux motor](https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf)
 * [2026-06-10, 05:50:07](https://news.ycombinator.com/item?id=48471970) - [Google Chrome is killing all uBlock Origin bypasses, Edge, Opera to follow](https://www.neowin.net/news/google-chrome-is-killing-all-ublock-origin-bypasses-microsoft-edge-opera-to-follow/)
