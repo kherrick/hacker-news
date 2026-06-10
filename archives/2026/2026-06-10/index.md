@@ -4,10 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-06-10](index.md)
 
+* [2026-06-10, 15:13:16](https://news.ycombinator.com/item?id=48477589) - [The iPad was on Tailscale: a WebRTC debugging story](https://p2claw.com/blog/2026-06-09-the-ipad-was-on-tailscale/)
+* [2026-06-10, 15:10:40](https://news.ycombinator.com/item?id=48477551) - [US Consumer Price Index up 4.2%](https://www.bls.gov/news.release/cpi.nr0.htm)
+* [2026-06-10, 15:01:06](https://news.ycombinator.com/item?id=48477400) - [Apache Burr: Build reliable AI agents and applications](https://burr.apache.org/)
+* [2026-06-10, 14:47:52](https://news.ycombinator.com/item?id=48477135) - [AMA: I'm Eric Ries (The Lean Startup) & Author of New Bestseller Incorruptible](https://news.ycombinator.com/item?id=48477135)
 * [2026-06-10, 14:23:12](https://news.ycombinator.com/item?id=48476751) - [Britain Became as Poor as Mississippi](https://www.theatlantic.com/magazine/2026/07/uk-productivity-economy-reform-party/687303/)
 * [2026-06-10, 14:06:22](https://news.ycombinator.com/item?id=48476514) - [GnuCash is right. It's also why I built my own finance app](https://k-id.app/blog/gnucash-is-right/)
 * [2026-06-10, 14:03:40](https://news.ycombinator.com/item?id=48476474) - [Notes on DeepSeek](https://twitter.com/NikoMcCarty/status/2064686557400100884)
 * [2026-06-10, 14:02:59](https://news.ycombinator.com/item?id=48476466) - [PgDog is funded and coming to a database near you](https://pgdog.dev/blog/our-funding-announcement)
+* [2026-06-10, 13:39:11](https://news.ycombinator.com/item?id=48476136) - [A €0.01 bank transfer could compromise a banking AI agent](https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/)
 * [2026-06-10, 13:34:14](https://news.ycombinator.com/item?id=48476067) - [ICE denies having a protester database. A letter to Congress sheds more light](https://www.npr.org/2026/06/10/nx-s1-5843159/ice-protester-database-dhs)
 * [2026-06-10, 13:22:52](https://news.ycombinator.com/item?id=48475938) - [I Hate (Most) Keyboard 'Fn' Keys](https://danq.me/2026/06/09/fn-keys/)
 * [2026-06-10, 12:45:47](https://news.ycombinator.com/item?id=48475483) - [Building an HTML-first site doubled our users overnight](https://mohkohn.co.uk/writing/html-first/)
@@ -21,5 +26,6 @@
 * [2026-06-10, 03:27:47](https://news.ycombinator.com/item?id=48471048) - [Vibe coding my way to a healthy family: Introducing Gamow Labs](https://www.ddmckinnon.com/2026/06/09/vibe-coding-my-way-to-a-healthy-family-introducing-gamow-labs/)
 * [2026-06-10, 03:16:25](https://news.ycombinator.com/item?id=48470975) - [The Evolution of 'More Like This'](https://manticoresearch.com/blog/the-evolution-of-more-like-this/)
 * [2026-06-10, 02:25:24](https://news.ycombinator.com/item?id=48470581) - [Rich Sutton on AI creativity and discovery](https://twitter.com/RichardSSutton/status/2061216087744946656)
+* [2026-06-10, 02:25:05](https://news.ycombinator.com/item?id=48470578) - [Smudging the game disc to make speedrunning 'SpongeBob' faster](https://www.inverse.com/input/gaming/the-dirty-secret-that-makes-speedrunning-on-spongebob-a-lot-faster)
 * [2026-06-10, 01:44:13](https://news.ycombinator.com/item?id=48470248) - [German ruling declares Google liable for false answers in AI Overviews](https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/)
 * [2026-06-10, 00:29:01](https://news.ycombinator.com/item?id=48469658) - [macOS Container Machines](https://github.com/apple/container/blob/main/docs/container-machine.md)
