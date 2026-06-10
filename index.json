@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-10, 03:16:25",
+      "https://news.ycombinator.com/item?id=48470975"
+    ],
+    [
+      "The Evolution of 'More Like This'",
+      "https://manticoresearch.com/blog/the-evolution-of-more-like-this/"
+    ]
+  ],
+  [
+    [
       "2026-06-10, 02:25:24",
       "https://news.ycombinator.com/item?id=48470581"
     ],
@@ -41,22 +51,22 @@
   ],
   [
     [
-      "2026-06-09, 23:03:40",
-      "https://news.ycombinator.com/item?id=48469039"
-    ],
-    [
-      "Show HN: Nucleus – A security-hardened, Nix-native container runtime",
-      "https://github.com/sig-id/nucleus"
-    ]
-  ],
-  [
-    [
       "2026-06-09, 22:35:57",
       "https://news.ycombinator.com/item?id=48468766"
     ],
     [
       "RIP software hackathons. Long live the hardware hackathon",
       "https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/"
+    ]
+  ],
+  [
+    [
+      "2026-06-09, 22:01:15",
+      "https://news.ycombinator.com/item?id=48468370"
+    ],
+    [
+      "Surprise, Pay $1000",
+      "https://forestwalk.ai/blog/surprise-blacksmith-costs/"
     ]
   ],
   [
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2026-06-09, 17:29:05",
-      "https://news.ycombinator.com/item?id=48464330"
-    ],
-    [
-      "The LD_DEBUG environment variable (2012)",
-      "https://bnikolic.co.uk/blog/linux-ld-debug.html"
-    ]
-  ],
-  [
-    [
       "2026-06-09, 17:17:21",
       "https://news.ycombinator.com/item?id=48464140"
     ],
@@ -177,16 +177,6 @@
     [
       "WWDC 2026: Apple is Folding",
       "https://cupertinolens.com/2026/06/09/wwdc-2026-apple-is-folding/"
-    ]
-  ],
-  [
-    [
-      "2026-06-09, 13:27:03",
-      "https://news.ycombinator.com/item?id=48460863"
-    ],
-    [
-      "Is Grep All You Need? How Agent Harnesses Reshape Agentic Search",
-      "https://arxiv.org/abs/2605.15184"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Lies we tell ourselves about email addresses",
       "https://gitpush--force.com/commits/2026/06/lies-we-tell-ourselves-about-email/"
+    ]
+  ],
+  [
+    [
+      "2026-06-08, 13:22:37",
+      "https://news.ycombinator.com/item?id=48445028"
+    ],
+    [
+      "Bit Propagation over a Noisy Grid",
+      "https://jasonfantl.com/posts/Propagating-Bit-on-Grid/"
     ]
   ],
   [
