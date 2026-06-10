@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-06-10, 00:29:01",
+      "https://news.ycombinator.com/item?id=48469658"
+    ],
+    [
+      "macOS Container Machines",
+      "https://github.com/apple/container/blob/main/docs/container-machine.md"
+    ]
+  ],
+  [
+    [
+      "2026-06-09, 23:44:16",
+      "https://news.ycombinator.com/item?id=48469347"
+    ],
+    [
+      "It's Death",
+      "https://jesseduffield.com/ITS-DEATH/"
+    ]
+  ],
+  [
+    [
+      "2026-06-09, 23:03:40",
+      "https://news.ycombinator.com/item?id=48469039"
+    ],
+    [
+      "Show HN: Nucleus – A security-hardened, Nix-native container runtime",
+      "https://github.com/sig-id/nucleus"
+    ]
+  ],
+  [
+    [
       "2026-06-09, 22:35:57",
       "https://news.ycombinator.com/item?id=48468766"
     ],
@@ -45,18 +75,8 @@
       "https://news.ycombinator.com/item?id=48467705"
     ],
     [
-      "Upcoming breaking changes for NPM v12",
+      "Upcoming breaking changes for npm v12",
       "https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/"
-    ]
-  ],
-  [
-    [
-      "2026-06-09, 19:58:21",
-      "https://news.ycombinator.com/item?id=48466812"
-    ],
-    [
-      "Grit: Rewriting Git in Rust with Agents",
-      "https://blog.gitbutler.com/true-grit"
     ]
   ],
   [
@@ -67,16 +87,6 @@
     [
       "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
       "https://aarushgupta.io/posts/kan-fpga/"
-    ]
-  ],
-  [
-    [
-      "2026-06-09, 18:47:52",
-      "https://news.ycombinator.com/item?id=48465702"
-    ],
-    [
-      "Ask HN: Are you still using a Vision Pro?",
-      "https://news.ycombinator.com/item?id=48465702"
     ]
   ],
   [
@@ -151,32 +161,12 @@
   ],
   [
     [
-      "2026-06-09, 15:01:15",
-      "https://news.ycombinator.com/item?id=48462062"
-    ],
-    [
-      "Can LLMs Beat Classical Hyperparameter Optimization Algorithms?",
-      "https://arxiv.org/abs/2603.24647"
-    ]
-  ],
-  [
-    [
       "2026-06-09, 13:27:03",
       "https://news.ycombinator.com/item?id=48460863"
     ],
     [
       "Is Grep All You Need? How Agent Harnesses Reshape Agentic Search",
       "https://arxiv.org/abs/2605.15184"
-    ]
-  ],
-  [
-    [
-      "2026-06-09, 12:01:09",
-      "https://news.ycombinator.com/item?id=48459968"
-    ],
-    [
-      "Emerge Career (YC S22) Is Hiring a Founding Growth Marketer",
-      "https://www.ycombinator.com/companies/emerge-career/jobs/v0S1AEG-founding-growth-marketer"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Show HN: GentleOS – A pair of hobby OSes for vintage 32-bit and 16-bit PCs",
       "https://github.com/luke8086/gentleos32"
+    ]
+  ],
+  [
+    [
+      "2026-06-06, 18:15:04",
+      "https://news.ycombinator.com/item?id=48427468"
+    ],
+    [
+      "More Molly Guards",
+      "https://unsung.aresluna.org/more-molly-guards/"
     ]
   ],
   [
