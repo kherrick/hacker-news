@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-06-10, 05:50:07",
-      "https://news.ycombinator.com/item?id=48471970"
+      "2026-06-10, 08:21:38",
+      "https://news.ycombinator.com/item?id=48473166"
     ],
     [
-      "Google Chrome is killing all uBlock Origin bypasses, Edge, Opera to follow",
-      "https://www.neowin.net/news/google-chrome-is-killing-all-ublock-origin-bypasses-microsoft-edge-opera-to-follow/"
+      "AWS Bedrock to require sharing data with Anthropic for Mythos and future models",
+      "https://news.ycombinator.com/item?id=48473166"
+    ]
+  ],
+  [
+    [
+      "2026-06-10, 07:44:49",
+      "https://news.ycombinator.com/item?id=48472877"
+    ],
+    [
+      "Mercedes‑Benz starts large‑scale production of electric axial flux motor",
+      "https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf"
     ]
   ],
   [
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2026-06-09, 11:46:40",
-      "https://news.ycombinator.com/item?id=48459837"
-    ],
-    [
-      "Show HN: Gravity – Interactive solar-system simulator, from Newton to Einstein",
-      "https://qunabu.github.io/Gravity/"
-    ]
-  ],
-  [
-    [
       "2026-06-09, 11:27:49",
       "https://news.ycombinator.com/item?id=48459659"
     ],
@@ -197,16 +197,6 @@
     [
       "Making Graphics Like it's 1993",
       "https://staniks.github.io/articles/catlantean-3d-blog-1/"
-    ]
-  ],
-  [
-    [
-      "2026-06-08, 22:32:36",
-      "https://news.ycombinator.com/item?id=48453275"
-    ],
-    [
-      "Let's Encrypt bans certificate usage in any US sanctioned territory [pdf]",
-      "https://letsencrypt.org/documents/LE-SA-v1.7-June-04-2026-diff.pdf"
     ]
   ],
   [
@@ -241,12 +231,12 @@
   ],
   [
     [
-      "2026-06-08, 12:45:01",
-      "https://news.ycombinator.com/item?id=48444654"
+      "2026-06-08, 10:44:44",
+      "https://news.ycombinator.com/item?id=48443644"
     ],
     [
-      "Value Numbering",
-      "https://bernsteinbear.com/blog/value-numbering/"
+      "Reviving Papers with Code",
+      "https://paperswithcode.co/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
       "https://opencv.org/opencv-5/"
+    ]
+  ],
+  [
+    [
+      "2026-06-05, 11:45:23",
+      "https://news.ycombinator.com/item?id=48411102"
+    ],
+    [
+      "I Thought I Knew How Electrolysis Worked [video]",
+      "https://www.youtube.com/watch?v=eq7fR9ISuCw"
     ]
   ]
 ]
