@@ -53,6 +53,7 @@
 * [2026-06-08, 12:45:01](https://news.ycombinator.com/item?id=48444654) - [Value Numbering](https://bernsteinbear.com/blog/value-numbering/)
 * [2026-06-08, 12:24:10](https://news.ycombinator.com/item?id=48444442) - [Are you expected to run five Python type-checkers now?](https://pyrefly.org/blog/too-many-type-checkers/)
 * [2026-06-08, 11:58:02](https://news.ycombinator.com/item?id=48444228) - [Anti-social: It's fads, not friends, which now dominate social media feeds](https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social)
+* [2026-06-08, 10:44:44](https://news.ycombinator.com/item?id=48443644) - [Reviving Papers with Code](https://paperswithcode.co/)
 * [2026-06-08, 10:01:31](https://news.ycombinator.com/item?id=48443322) - [Premature Optimization Is Fun Sometimes](https://invlpg.com/posts/2025-06-19-premature-optimization.html)
 * [2026-06-08, 09:52:03](https://news.ycombinator.com/item?id=48443258) - [Replies to comments on my \"LLMs are eroding my career\" post](https://human-in-the-loop.bearblog.dev/replies-to-comments-on-my-llms-are-eroding-my-career-post/)
 * [2026-06-08, 09:35:19](https://news.ycombinator.com/item?id=48443135) - [Config Files That Run Code: Supply Chain Security Blindspot](https://safedep.io/config-files-that-run-code/)

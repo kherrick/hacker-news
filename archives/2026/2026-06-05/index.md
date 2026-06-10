@@ -53,6 +53,7 @@
 * [2026-06-05, 12:16:40](https://news.ycombinator.com/item?id=48411382) - [Investigation: Russian censorship systems (TMCT) expose Chinese DPI signatures](https://freenet.monster/china-unicom.html?lang=en)
 * [2026-06-05, 12:00:18](https://news.ycombinator.com/item?id=48411227) - [Nango (YC W23, dev infra) is hiring staff back end engineers](https://nango.dev/careers)
 * [2026-06-05, 11:56:27](https://news.ycombinator.com/item?id=48411190) - [Ultra-processed foods in the global food system: The role of tobacco companies](https://ajph.aphapublications.org/doi/10.2105/AJPH.2026.308501)
+* [2026-06-05, 11:45:23](https://news.ycombinator.com/item?id=48411102) - [I Thought I Knew How Electrolysis Worked [video]](https://www.youtube.com/watch?v=eq7fR9ISuCw)
 * [2026-06-05, 11:16:47](https://news.ycombinator.com/item?id=48410844) - [Win16 Memory Management](http://www.os2museum.com/wp/win16-memory-management/)
 * [2026-06-05, 10:44:48](https://news.ycombinator.com/item?id=48410602) - [Communication on European Tech Sovereignty, and an EU Open-Source Strategy](https://digital-strategy.ec.europa.eu/en/library/communication-european-tech-sovereignty-accompanied-eu-open-source-strategy)
 * [2026-06-05, 10:43:28](https://news.ycombinator.com/item?id=48410589) - [Ask HN: Is the web for machines (/llm.txt) the one we wished we had as humans?](https://news.ycombinator.com/item?id=48410589)
