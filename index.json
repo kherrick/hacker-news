@@ -1,12 +1,62 @@
 [
   [
     [
+      "2026-06-10, 17:47:46",
+      "https://news.ycombinator.com/item?id=48479996"
+    ],
+    [
+      "The Dynamo and the Computer: The Modern Productivity Paradox (1989) [pdf]",
+      "https://www.almendron.com/tribuna/wp-content/uploads/2018/03/the-dynamo-and-the-computer-an-historical-perspective-on-the-modern-productivity-paradox.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-06-10, 17:37:26",
+      "https://news.ycombinator.com/item?id=48479818"
+    ],
+    [
+      "Providers, not insurers, are responsible for excess U.S. health care cost (2024)",
+      "https://www.noahpinion.blog/p/insurers-arent-the-main-villain-of"
+    ]
+  ],
+  [
+    [
+      "2026-06-10, 17:30:48",
+      "https://news.ycombinator.com/item?id=48479705"
+    ],
+    [
+      "How JPL keeps the 13-year-old Curiosity rover doing science",
+      "https://spectrum.ieee.org/curiosity-rover-jpl-mars-science"
+    ]
+  ],
+  [
+    [
+      "2026-06-10, 17:11:56",
+      "https://news.ycombinator.com/item?id=48479452"
+    ],
+    [
+      "Claude Desktop spins up a VM without no way of stopping it",
+      "https://github.com/anthropics/claude-code/issues/29045"
+    ]
+  ],
+  [
+    [
       "2026-06-10, 16:54:29",
       "https://news.ycombinator.com/item?id=48479177"
     ],
     [
-      "Textbooks Should Be Free",
+      "The Case for Free Online Books (2014)",
       "http://from-a-to-remzi.blogspot.com/2014/01/the-case-for-free-online-books-fobs.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-10, 16:28:30",
+      "https://news.ycombinator.com/item?id=48478766"
+    ],
+    [
+      "Babel-USB: USB drive with every file",
+      "https://github.com/p2r3/babel-usb"
     ]
   ],
   [
@@ -21,12 +71,12 @@
   ],
   [
     [
-      "2026-06-10, 16:05:06",
-      "https://news.ycombinator.com/item?id=48478410"
+      "2026-06-10, 16:04:11",
+      "https://news.ycombinator.com/item?id=48478396"
     ],
     [
-      "Postgres by Example",
-      "https://github.com/boringcollege/postgres-by-example"
+      "Anatomy of a high-performance EP kernel",
+      "https://fergusfinn.com/blog/anatomy-of-a-high-performance-ep-kernel/"
     ]
   ],
   [
@@ -37,6 +87,16 @@
     [
       "The Last Evolution, by John W Campbell Jr. (1932)",
       "https://www.gutenberg.org/files/27462/27462-h/27462-h.htm"
+    ]
+  ],
+  [
+    [
+      "2026-06-10, 15:47:31",
+      "https://news.ycombinator.com/item?id=48478148"
+    ],
+    [
+      "Show HN: HelixDB – A graph database built on object storage",
+      "https://github.com/HelixDB/helix-db/tree/main"
     ]
   ],
   [
@@ -85,7 +145,7 @@
       "https://news.ycombinator.com/item?id=48477135"
     ],
     [
-      "I'm Eric Ries (The Lean Startup) and Author of New Book \"Incorruptible\" - AMA",
+      "I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" – AMA",
       "https://news.ycombinator.com/item?id=48477135"
     ]
   ],
@@ -107,16 +167,6 @@
     [
       "A €0.01 bank transfer could compromise a banking AI agent",
       "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/"
-    ]
-  ],
-  [
-    [
-      "2026-06-10, 13:22:52",
-      "https://news.ycombinator.com/item?id=48475938"
-    ],
-    [
-      "I Hate (Most) Keyboard 'Fn' Keys",
-      "https://danq.me/2026/06/09/fn-keys/"
     ]
   ],
   [
@@ -171,32 +221,12 @@
   ],
   [
     [
-      "2026-06-10, 05:50:07",
-      "https://news.ycombinator.com/item?id=48471970"
-    ],
-    [
-      "Chrome is looking to permanently drop MV2 extension",
-      "https://www.neowin.net/news/google-chrome-is-killing-all-ublock-origin-bypasses-microsoft-edge-opera-to-follow/"
-    ]
-  ],
-  [
-    [
       "2026-06-10, 02:25:05",
       "https://news.ycombinator.com/item?id=48470578"
     ],
     [
       "Smudging the game disc to make speedrunning 'SpongeBob' faster",
       "https://www.inverse.com/input/gaming/the-dirty-secret-that-makes-speedrunning-on-spongebob-a-lot-faster"
-    ]
-  ],
-  [
-    [
-      "2026-06-10, 01:44:13",
-      "https://news.ycombinator.com/item?id=48470248"
-    ],
-    [
-      "German ruling declares Google liable for false answers in AI Overviews",
-      "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/"
     ]
   ],
   [
@@ -211,22 +241,12 @@
   ],
   [
     [
-      "2026-06-09, 22:35:57",
-      "https://news.ycombinator.com/item?id=48468766"
+      "2026-06-09, 17:37:11",
+      "https://news.ycombinator.com/item?id=48464484"
     ],
     [
-      "RIP software hackathons. Long live the hardware hackathon",
-      "https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/"
-    ]
-  ],
-  [
-    [
-      "2026-06-09, 21:01:00",
-      "https://news.ycombinator.com/item?id=48467705"
-    ],
-    [
-      "Upcoming breaking changes for npm v12",
-      "https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/"
+      "Who's the Smartest Corvid?",
+      "https://thetyee.ca/Culture/2026/06/05/Whos-the-Smartest-Corvid/"
     ]
   ],
   [
@@ -237,16 +257,6 @@
     [
       "Claude Fable 5",
       "https://www.anthropic.com/news/claude-fable-5-mythos-5"
-    ]
-  ],
-  [
-    [
-      "2026-06-08, 20:48:43",
-      "https://news.ycombinator.com/item?id=48451789"
-    ],
-    [
-      "Hacking for Defense Stanford 2026 – Lessons Learned Presentations",
-      "https://steveblank.com/2026/06/08/g-for-defense-stanford-2026-lessons-learned-presentations/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Buy a train, bridge or tracks from the Swiss Railway",
       "https://sbbresale.ch/"
-    ]
-  ],
-  [
-    [
-      "2026-06-07, 10:38:31",
-      "https://news.ycombinator.com/item?id=48433525"
-    ],
-    [
-      "Magnetoelectric antennas could transform how underwater robots talk",
-      "https://newatlas.com/engineering/magnetoelectric-antennas-submarine-robots-communications/"
     ]
   ]
 ]
