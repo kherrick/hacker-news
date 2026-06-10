@@ -1,12 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-06-09, 22:37:49](https://news.ycombinator.com/item?id=48468789) - [AI misidentification results in wrongful arrest; man seeks justice](https://www.wsoctv.com/news/local/ai-misidentification-results-wrongful-arrest-man-seeks-justice/I7UQJWV33FBN3LMKHCSXI6FIVA/)
 * [2026-06-09, 22:35:57](https://news.ycombinator.com/item?id=48468766) - [RIP software hackathons. Long live the hardware hackathon](https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/)
 * [2026-06-09, 21:19:11](https://news.ycombinator.com/item?id=48467896) - [If Claude Fable stops helping you, you'll never know](https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html)
 * [2026-06-09, 21:06:00](https://news.ycombinator.com/item?id=48467759) - [Exif Smuggling](https://github.com/signalblur/exifsmugglingpoc)
 * [2026-06-09, 21:01:40](https://news.ycombinator.com/item?id=48467712) - [Company Will Add Phone, AirPod, and Smartwatch Trackers to ALPRs](https://www.404media.co/this-company-will-add-phone-airpod-and-smartwatch-trackers-to-license-plate-readers/)
 * [2026-06-09, 21:01:00](https://news.ycombinator.com/item?id=48467705) - [Upcoming breaking changes for NPM v12](https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/)
-* [2026-06-09, 20:50:54](https://news.ycombinator.com/item?id=48467570) - [Alpine Linux 3.24.0 Released](https://alpinelinux.org/posts/Alpine-3.24.0-released.html)
 * [2026-06-09, 19:58:21](https://news.ycombinator.com/item?id=48466812) - [Grit: Rewriting Git in Rust with Agents](https://blog.gitbutler.com/true-grit)
 * [2026-06-09, 19:21:45](https://news.ycombinator.com/item?id=48466277) - [Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks](https://aarushgupta.io/posts/kan-fpga/)
 * [2026-06-09, 18:47:52](https://news.ycombinator.com/item?id=48465702) - [Ask HN: Are you still using a Vision Pro?](https://news.ycombinator.com/item?id=48465702)
@@ -28,6 +26,8 @@
 * [2026-06-08, 22:32:36](https://news.ycombinator.com/item?id=48453275) - [Let's Encrypt bans certificate usage in any US sanctioned territory [pdf]](https://letsencrypt.org/documents/LE-SA-v1.7-June-04-2026-diff.pdf)
 * [2026-06-08, 21:00:13](https://news.ycombinator.com/item?id=48451966) - [A giant star may have destroyed itself in one of the rarest explosions](https://phys.org/news/2026-05-giant-star-destroyed-universe-rarest.html)
 * [2026-06-08, 14:24:57](https://news.ycombinator.com/item?id=48445834) - [Lies We Tell Ourselves About Email Addresses](https://gitpush--force.com/commits/2026/06/lies-we-tell-ourselves-about-email/)
+* [2026-06-08, 12:55:01](https://news.ycombinator.com/item?id=48444758) - [Blaise v0.10.0: Native Back End, Threads and Incremental Compilation](https://github.com/graemeg/blaise/discussions/82)
+* [2026-06-07, 15:45:50](https://news.ycombinator.com/item?id=48435943) - [Show HN: GentleOS – A pair of hobby OSes for vintage 32-bit and 16-bit PCs](https://github.com/luke8086/gentleos32)
 * [2026-06-06, 18:09:59](https://news.ycombinator.com/item?id=48427423) - [Show HN: Resonate – Low-latency, high-resolution spectral analysis](https://alexandrefrancois.org/Resonate/)
 * [2026-06-06, 06:02:28](https://news.ycombinator.com/item?id=48421858) - [OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision](https://opencv.org/opencv-5/)
 
