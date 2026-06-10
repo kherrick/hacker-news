@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=48482293"
     ],
     [
-      "What Is It Like to Be a Bat? [pdf] (1974)",
+      "What is it like to be a bat? (1974) [pdf]",
       "https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf"
     ]
   ],
@@ -55,18 +55,18 @@
       "https://news.ycombinator.com/item?id=48480852"
     ],
     [
-      "Anthropic's Model Naming, Extrapolated",
+      "Anthropic's model naming, extrapolated",
       "https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated"
     ]
   ],
   [
     [
-      "2026-06-10, 17:44:59",
-      "https://news.ycombinator.com/item?id=48479947"
+      "2026-06-10, 18:36:04",
+      "https://news.ycombinator.com/item?id=48480719"
     ],
     [
-      "Why SpaceX 2040 Revenue FCST $4.3T in highly unlikely",
-      "https://www.matteast.io/spacex-escape-velocity.html"
+      "Policy on the AI Exponential",
+      "https://darioamodei.com/post/policy-on-the-ai-exponential"
     ]
   ],
   [
@@ -91,22 +91,22 @@
   ],
   [
     [
-      "2026-06-10, 17:18:39",
-      "https://news.ycombinator.com/item?id=48479537"
-    ],
-    [
-      "Meta steals a tactic from Tesla and builds data centers in tents",
-      "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/"
-    ]
-  ],
-  [
-    [
       "2026-06-10, 17:11:56",
       "https://news.ycombinator.com/item?id=48479452"
     ],
     [
       "Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use",
       "https://github.com/anthropics/claude-code/issues/29045"
+    ]
+  ],
+  [
+    [
+      "2026-06-10, 16:42:00",
+      "https://news.ycombinator.com/item?id=48478969"
+    ],
+    [
+      "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+      "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/"
     ]
   ],
   [
@@ -241,22 +241,22 @@
   ],
   [
     [
+      "2026-06-09, 17:23:40",
+      "https://news.ycombinator.com/item?id=48464258"
+    ],
+    [
+      "Anthropic requires 30 day data retention for Fable and Mythos",
+      "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models"
+    ]
+  ],
+  [
+    [
       "2026-06-09, 12:35:01",
       "https://news.ycombinator.com/item?id=48460286"
     ],
     [
       "Show HN: Atlasphere – Live Infrastructure Diagrams",
       "https://news.ycombinator.com/item?id=48460286"
-    ]
-  ],
-  [
-    [
-      "2026-06-09, 06:06:00",
-      "https://news.ycombinator.com/item?id=48457133"
-    ],
-    [
-      "A game's homemade crypto fell to a DIY supercomputer",
-      "https://www.ud2.rip/blog/towerunite/"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2026-06-08, 14:15:32",
-      "https://news.ycombinator.com/item?id=48445702"
-    ],
-    [
-      "Who Runs Your Rust Future? Hands-On Intro to Async Rust",
-      "https://aibodh.com/posts/async-rust-chapter-1-hands-on-intro-to-async-rust/"
-    ]
-  ],
-  [
-    [
       "2026-06-08, 11:47:50",
       "https://news.ycombinator.com/item?id=48444136"
     ],
     [
       "Pick and Place: Carbon Nanotube Nanoassembly Process",
       "https://www.c12qe.com/news/pick-and-place-carbon-nanotube-quantum-chip-manufacturing"
+    ]
+  ],
+  [
+    [
+      "2026-06-08, 09:05:29",
+      "https://news.ycombinator.com/item?id=48442932"
+    ],
+    [
+      "Buy a train, bridge or tracks from the Swiss Railway",
+      "https://sbbresale.ch/"
     ]
   ]
 ]
