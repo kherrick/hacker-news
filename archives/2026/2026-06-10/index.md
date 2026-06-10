@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-10](index.md)
 
+* [2026-06-10, 12:11:28](https://news.ycombinator.com/item?id=48475100) - [All 9,300 Japanese train station, animated by the year it opened (1872–2026)](https://jivx.com/eki)
 * [2026-06-10, 09:43:16](https://news.ycombinator.com/item?id=48473845) - [Show HN: macOS menu bar gauges for your Claude Code quota](https://github.com/grzegorz-raczek-unit8/claude-quota)
 * [2026-06-10, 09:19:55](https://news.ycombinator.com/item?id=48473662) - [Port React Compiler to Rust](https://github.com/react/react/pull/36173)
 * [2026-06-10, 08:27:46](https://news.ycombinator.com/item?id=48473204) - [European sentiments towards the US hit an all-time low](https://ecfr.eu/publication/home-alone-europeans-are-ready-to-defend-themselves/)
