@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-06-10](index.md)
 
+* [2026-06-10, 20:35:07](https://news.ycombinator.com/item?id=48482293) - [What Is It Like to Be a Bat? [pdf]](https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf)
+* [2026-06-10, 20:05:21](https://news.ycombinator.com/item?id=48481857) - [Raspberry Pi 5 – 16 GB, $350](https://www.adafruit.com/product/6125?src=raspberrypi)
+* [2026-06-10, 19:38:51](https://news.ycombinator.com/item?id=48481524) - [The Abundance Illusion](https://www.carlyle.com/carlyle-compass/the-abundance-illusion)
+* [2026-06-10, 19:06:50](https://news.ycombinator.com/item?id=48481126) - [Farmer donates land for a park, city sells it for $10M as data center land](https://www.tomshardware.com/tech-industry/farmer-donates-land-for-a-park-city-sells-it-for-data-center-development-usd10-gift-became-usd10m-for-city-government-with-usd30m-tax-expected-over-next-decade)
 * [2026-06-10, 18:54:54](https://news.ycombinator.com/item?id=48480978) - [ΠFS](https://github.com/philipl/pifs)
 * [2026-06-10, 18:45:20](https://news.ycombinator.com/item?id=48480852) - [Anthropic's Model Naming, Extrapolated](https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated)
 * [2026-06-10, 18:36:04](https://news.ycombinator.com/item?id=48480719) - [Policy on the AI Exponential](https://darioamodei.com/post/policy-on-the-ai-exponential)
@@ -43,6 +47,7 @@
 * [2026-06-10, 08:21:38](https://news.ycombinator.com/item?id=48473166) - [AWS Bedrock to require sharing data with Anthropic for Mythos and future models](https://news.ycombinator.com/item?id=48473166)
 * [2026-06-10, 07:44:49](https://news.ycombinator.com/item?id=48472877) - [Mercedes‑Benz starts large‑scale production of electric axial flux motor](https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf)
 * [2026-06-10, 05:50:07](https://news.ycombinator.com/item?id=48471970) - [Google Chrome is killing all uBlock Origin bypasses, Edge, Opera to follow](https://www.neowin.net/news/google-chrome-is-killing-all-ublock-origin-bypasses-microsoft-edge-opera-to-follow/)
+* [2026-06-10, 05:27:31](https://news.ycombinator.com/item?id=48471805) - [Show HN: Artie – Real-time data replication to your warehouse, now self-serve](https://www.artie.com)
 * [2026-06-10, 03:27:47](https://news.ycombinator.com/item?id=48471048) - [Vibe coding my way to a healthy family: Introducing Gamow Labs](https://www.ddmckinnon.com/2026/06/09/vibe-coding-my-way-to-a-healthy-family-introducing-gamow-labs/)
 * [2026-06-10, 03:16:25](https://news.ycombinator.com/item?id=48470975) - [The Evolution of 'More Like This'](https://manticoresearch.com/blog/the-evolution-of-more-like-this/)
 * [2026-06-10, 02:25:24](https://news.ycombinator.com/item?id=48470581) - [Rich Sutton on AI creativity and discovery](https://twitter.com/RichardSSutton/status/2061216087744946656)
