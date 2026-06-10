@@ -50,6 +50,7 @@
 * [2026-06-07, 03:21:52](https://news.ycombinator.com/item?id=48431461) - [Valve P2P networking broken for more than 2 months](https://github.com/ValveSoftware/GameNetworkingSockets/issues/398)
 * [2026-06-07, 02:46:37](https://news.ycombinator.com/item?id=48431286) - [Field of clones: How horse replicas came to dominate polo](https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses)
 * [2026-06-07, 02:42:24](https://news.ycombinator.com/item?id=48431257) - [Show HN: TakoVM – Isolated model and tool execution used by enterprises](https://github.com/las7/TakoVM)
+* [2026-06-07, 02:35:20](https://news.ycombinator.com/item?id=48431213) - [The oldest surviving animated feature film at 100](https://www.bbc.com/culture/article/20260603-how-a-26-year-old-german-woman-made-the-worlds-oldest-surviving-animated-feature-film)
 * [2026-06-07, 02:12:19](https://news.ycombinator.com/item?id=48431085) - [How Liminalism Became the Defining Aesthetic of Our Time](https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/)
 * [2026-06-07, 02:11:29](https://news.ycombinator.com/item?id=48431079) - [Show HN: Oproxy – inspect and modify network traffic from the browser](https://github.com/sauravrao637/oproxy)
 * [2026-06-07, 01:37:11](https://news.ycombinator.com/item?id=48430923) - [Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering](https://arxiv.org/abs/2601.14470)
