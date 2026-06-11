@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-06-10, 23:57:24](https://news.ycombinator.com/item?id=48484475) - [Aws.com and google.com don't have DNSSEC enabled](https://gist.github.com/acetousk/3c17d2aefde9175ffef21a8ec4673053)
+* [2026-06-11, 00:23:04](https://news.ycombinator.com/item?id=48484695) - [I was tired of repos that say they run but don't](https://github.com/rossbuckley1990-hash/bootproof)
+* [2026-06-11, 00:10:08](https://news.ycombinator.com/item?id=48484584) - [AI agent runs amok in Fedora and elsewhere](https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/)
 * [2026-06-10, 23:35:01](https://news.ycombinator.com/item?id=48484282) - [Deficient executive control in transformer attention](https://academic.oup.com/pnasnexus/article/5/6/pgag149/8698838)
 * [2026-06-10, 22:48:58](https://news.ycombinator.com/item?id=48483854) - [Unix GC Remastered](https://mohandacherir.github.io/Qdiv7/posts/unix_new_gc/)
 * [2026-06-10, 22:07:52](https://news.ycombinator.com/item?id=48483387) - [A Written Language for the Cherokee So Efficient It Was Thought to Be Magic](https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/)
@@ -9,7 +10,6 @@
 * [2026-06-10, 19:06:50](https://news.ycombinator.com/item?id=48481126) - [Farmer donates land for a park, city sells it for $10M as data center land](https://www.tomshardware.com/tech-industry/farmer-donates-land-for-a-park-city-sells-it-for-data-center-development-usd10-gift-became-usd10m-for-city-government-with-usd30m-tax-expected-over-next-decade)
 * [2026-06-10, 18:54:54](https://news.ycombinator.com/item?id=48480978) - [πFS](https://github.com/philipl/pifs)
 * [2026-06-10, 18:45:20](https://news.ycombinator.com/item?id=48480852) - [Anthropic's model naming, extrapolated](https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated)
-* [2026-06-10, 18:36:04](https://news.ycombinator.com/item?id=48480719) - [Policy on the AI Exponential](https://darioamodei.com/post/policy-on-the-ai-exponential)
 * [2026-06-10, 17:39:47](https://news.ycombinator.com/item?id=48479852) - [GeoLibre 1.0](https://geolibre.app/)
 * [2026-06-10, 17:30:48](https://news.ycombinator.com/item?id=48479705) - [How JPL keeps the 13-year-old Curiosity rover doing science](https://spectrum.ieee.org/curiosity-rover-jpl-mars-science)
 * [2026-06-10, 17:11:56](https://news.ycombinator.com/item?id=48479452) - [Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use](https://github.com/anthropics/claude-code/issues/29045)
@@ -26,10 +26,10 @@
 * [2026-06-10, 02:25:05](https://news.ycombinator.com/item?id=48470578) - [Smudging the game disc to make speedrunning 'SpongeBob' faster](https://www.inverse.com/input/gaming/the-dirty-secret-that-makes-speedrunning-on-spongebob-a-lot-faster)
 * [2026-06-09, 17:37:11](https://news.ycombinator.com/item?id=48464484) - [Who's the smartest corvid?](https://thetyee.ca/Culture/2026/06/05/Whos-the-Smartest-Corvid/)
 * [2026-06-09, 17:23:40](https://news.ycombinator.com/item?id=48464258) - [Anthropic requires 30 day data retention for Fable and Mythos](https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models)
-* [2026-06-09, 12:35:01](https://news.ycombinator.com/item?id=48460286) - [Show HN: Atlasphere – Live Infrastructure Diagrams](https://news.ycombinator.com/item?id=48460286)
 * [2026-06-09, 05:21:39](https://news.ycombinator.com/item?id=48456808) - [L'Affaire Siloxane](https://mceglowski.substack.com/p/laffaire-siloxane)
 * [2026-06-08, 15:20:08](https://news.ycombinator.com/item?id=48446532) - [World Capitals Voronoi](https://www.jasondavies.com/maps/voronoi/capitals/)
 * [2026-06-07, 21:20:54](https://news.ycombinator.com/item?id=48438685) - [Why are there so many canines in fine art?](https://www.theatlantic.com/magazine/2026/07/the-dogs-gaze-thomas-w-laqueur/687312/)
+* [2026-06-06, 16:18:39](https://news.ycombinator.com/item?id=48426421) - [Computer Lessons](https://technicshistory.com/2026/06/06/computer-lessons/)
 
 ## [Archives](archives/index.md)
 
