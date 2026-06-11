@@ -50,6 +50,7 @@
 * [2026-06-09, 11:27:49](https://news.ycombinator.com/item?id=48459659) - [Test-case reducers are underappreciated debugging tools](https://tratt.net/laurie/blog/2026/test_case_reducers_are_underappreciated_debugging_tools.html)
 * [2026-06-09, 10:46:14](https://news.ycombinator.com/item?id=48459294) - [Making Graphics Like it's 1993](https://staniks.github.io/articles/catlantean-3d-blog-1/)
 * [2026-06-09, 10:08:18](https://news.ycombinator.com/item?id=48459001) - [The iPhone's Last Stand](https://stratechery.com/2026/the-iphones-last-stand/)
+* [2026-06-09, 09:50:50](https://news.ycombinator.com/item?id=48458895) - [Linux latency measurements and compositor tuning](https://farnoy.dev/posts/linux-latency)
 * [2026-06-09, 09:50:30](https://news.ycombinator.com/item?id=48458890) - [GentleOS – Classic operating system with a lovely retro GUI](https://github.com/luke8086/gentleos32)
 * [2026-06-09, 09:17:41](https://news.ycombinator.com/item?id=48458636) - [Eagle Computer: The rise and fall of an early PC clone](https://dfarq.homeip.net/eagle-computer-the-rise-and-fall-of-an-early-pc-clone/)
 * [2026-06-09, 09:10:10](https://news.ycombinator.com/item?id=48458586) - [Cleaning up after AI rockstar developers](https://www.codingwithjesse.com/blog/rockstar-developers/)
