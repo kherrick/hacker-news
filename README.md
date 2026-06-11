@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-06-11, 22:28:01](https://news.ycombinator.com/item?id=48497260) - [OpenAI Prepping for On-Prem Product?](https://ledger.somantix.ai/posts/open-ai-lays-groundwork-for-on-prem-product/)
+* [2026-06-11, 22:17:08](https://news.ycombinator.com/item?id=48497168) - [The unreasonable effectiveness of simple HTML](https://shkspr.mobi/blog/2021/01/the-unreasonable-effectiveness-of-simple-html/)
 * [2026-06-11, 21:17:30](https://news.ycombinator.com/item?id=48496539) - [Show HN: FablePool – pool money behind a prompt, and Fable builds it in public](https://fablepool.com)
 * [2026-06-11, 21:04:47](https://news.ycombinator.com/item?id=48496396) - [Why I'm Forced to Say Farewell: Google Management Has Lost Its Moral Compass](https://www.mayrhofer.eu.org/post/leaving-google/)
 * [2026-06-11, 20:52:26](https://news.ycombinator.com/item?id=48496250) - [Show HN: Boo – screen-style terminal multiplexer built on libghostty](https://github.com/coder/boo)
@@ -18,8 +20,6 @@
 * [2026-06-11, 13:24:29](https://news.ycombinator.com/item?id=48490024) - [Show HN: Homebrew 6.0.0](https://brew.sh/2026/06/11/homebrew-6.0.0/)
 * [2026-06-11, 13:14:31](https://news.ycombinator.com/item?id=48489917) - [Open Reproduction of DeepSeek-R1](https://github.com/huggingface/open-r1)
 * [2026-06-11, 12:26:42](https://news.ycombinator.com/item?id=48489402) - [Lines of code got a better publicist](https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/)
-* [2026-06-11, 06:42:06](https://news.ycombinator.com/item?id=48487029) - [Pokémon Go Scans Trained the Navigation Tech for Military Drones](https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/)
-* [2026-06-10, 13:46:14](https://news.ycombinator.com/item?id=48476214) - [Fully autonomous drones have killed human soldiers for the first time](https://www.newscientist.com/article/2529849-fully-autonomous-drones-have-killed-human-soldiers-for-the-first-time/)
 * [2026-06-10, 10:37:45](https://news.ycombinator.com/item?id=48474274) - [Emacs appearances in pop culture](https://ianyepan.github.io/posts/emacs-in-pop-culture/)
 * [2026-06-09, 22:12:20](https://news.ycombinator.com/item?id=48468495) - [Programming a GBA Game on an iPhone](https://blog.adamledoux.net/posts/2026-06-08-programming-a-gba-game-on-an-iphone.html)
 * [2026-06-09, 16:06:50](https://news.ycombinator.com/item?id=48462928) - [Show HN: Claw Patrol, a security firewall for agents](https://github.com/denoland/clawpatrol)
