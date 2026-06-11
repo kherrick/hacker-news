@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-11, 23:01:55",
+      "https://news.ycombinator.com/item?id=48497609"
+    ],
+    [
+      "If You Are Asking for Human Attention, Demonstrate Human Effort",
+      "https://tombedor.dev/human-attention-and-human-effort/"
+    ]
+  ],
+  [
+    [
       "2026-06-11, 22:28:01",
       "https://news.ycombinator.com/item?id=48497260"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=48497168"
     ],
     [
-      "The unreasonable effectiveness of simple HTML",
+      "The unreasonable effectiveness of simple HTML (2021)",
       "https://shkspr.mobi/blog/2021/01/the-unreasonable-effectiveness-of-simple-html/"
     ]
   ],
@@ -51,11 +61,21 @@
   ],
   [
     [
+      "2026-06-11, 20:14:33",
+      "https://news.ycombinator.com/item?id=48495818"
+    ],
+    [
+      "I stopped tracking my time. Now I can't focus",
+      "https://newsletter.masilotti.com/p/i-stopped-tracking-my-time-now-i"
+    ]
+  ],
+  [
+    [
       "2026-06-11, 20:08:26",
       "https://news.ycombinator.com/item?id=48495751"
     ],
     [
-      "Travel Locally, Where You Are",
+      "Travel locally, where you are",
       "https://www.ssp.sh/brain/travel-where-you-are/"
     ]
   ],
@@ -95,7 +115,7 @@
       "https://news.ycombinator.com/item?id=48492533"
     ],
     [
-      "Software Is Made Between Commits",
+      "Software is made between commits",
       "https://zed.dev/blog/introducing-deltadb"
     ]
   ],
@@ -201,6 +221,16 @@
   ],
   [
     [
+      "2026-06-11, 12:05:02",
+      "https://news.ycombinator.com/item?id=48489229"
+    ],
+    [
+      "Anthropic apologizes for invisible Claude Fable guardrails",
+      "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail"
+    ]
+  ],
+  [
+    [
       "2026-06-10, 10:37:45",
       "https://news.ycombinator.com/item?id=48474274"
     ],
@@ -211,32 +241,22 @@
   ],
   [
     [
-      "2026-06-09, 22:12:20",
-      "https://news.ycombinator.com/item?id=48468495"
-    ],
-    [
-      "Programming a GBA Game on an iPhone",
-      "https://blog.adamledoux.net/posts/2026-06-08-programming-a-gba-game-on-an-iphone.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-09, 16:06:50",
-      "https://news.ycombinator.com/item?id=48462928"
-    ],
-    [
-      "Show HN: Claw Patrol, a security firewall for agents",
-      "https://github.com/denoland/clawpatrol"
-    ]
-  ],
-  [
-    [
       "2026-06-09, 15:01:43",
       "https://news.ycombinator.com/item?id=48462070"
     ],
     [
       "macOS 27 Beta breaks the ability to boot Asahi Linux",
       "https://www.phoronix.com/news/macOS-27-Beta-Breaks-Asahi"
+    ]
+  ],
+  [
+    [
+      "2026-06-09, 07:06:08",
+      "https://news.ycombinator.com/item?id=48457601"
+    ],
+    [
+      "A worm in my Erlang cluster, and adventures in microfluidics",
+      "https://lucassifoni.info/blog/a-worm-in-my-erlang-cluster-and-adventures-in-microfluidics/"
     ]
   ],
   [
@@ -265,28 +285,8 @@
       "https://news.ycombinator.com/item?id=48447598"
     ],
     [
-      "Ear Training Practice Exercises",
+      "Ear Training Practice",
       "https://tonedear.com/"
-    ]
-  ],
-  [
-    [
-      "2026-06-08, 08:57:11",
-      "https://news.ycombinator.com/item?id=48442880"
-    ],
-    [
-      "Doing nothing at work",
-      "https://www.seangoedecke.com/doing-nothing-at-work/"
-    ]
-  ],
-  [
-    [
-      "2026-06-07, 09:57:18",
-      "https://news.ycombinator.com/item?id=48433351"
-    ],
-    [
-      "A new era for software testing",
-      "https://antirez.com/news/168"
     ]
   ],
   [
