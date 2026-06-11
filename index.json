@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-11, 01:26:03",
+      "https://news.ycombinator.com/item?id=48485160"
+    ],
+    [
+      "Are insecure code completions in PyCharm a vulnerability?",
+      "https://sethmlarson.dev/are-insecure-code-completions-a-vulnerability"
+    ]
+  ],
+  [
+    [
       "2026-06-11, 00:10:08",
       "https://news.ycombinator.com/item?id=48484584"
     ],
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2026-06-10, 13:39:11",
-      "https://news.ycombinator.com/item?id=48476136"
-    ],
-    [
-      "A €0.01 bank transfer could compromise a banking AI agent",
-      "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/"
-    ]
-  ],
-  [
-    [
       "2026-06-10, 12:45:47",
       "https://news.ycombinator.com/item?id=48475483"
     ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2026-06-08, 15:21:23",
-      "https://news.ycombinator.com/item?id=48446554"
+      "2026-06-08, 17:12:44",
+      "https://news.ycombinator.com/item?id=48448083"
     ],
     [
-      "Building a Korean ambiguity solver fast enough to skip the GPU: 7,300 words/SEC",
-      "https://kimchi-reader.app/blog/int8-cpu-korean-disambiguation"
+      "The Road to the WASM Component Model 1.0",
+      "https://bytecodealliance.org/articles/the-road-to-component-model-1-0"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-06-06, 16:18:39",
-      "https://news.ycombinator.com/item?id=48426421"
+      "2026-06-07, 11:20:13",
+      "https://news.ycombinator.com/item?id=48433777"
     ],
     [
-      "Computer Lessons",
-      "https://technicshistory.com/2026/06/06/computer-lessons/"
+      "Reverse engineering the Creative Katana soundbar to control it from Linux",
+      "https://blog.nns.ee/2026/02/20/katana-v2x-re/"
     ]
   ]
 ]
