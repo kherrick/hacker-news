@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-11, 11:26:25",
+      "https://news.ycombinator.com/item?id=48488901"
+    ],
+    [
+      "Human migration has surged since 2000 – these maps reveal where people are going",
+      "https://www.nature.com/articles/d41586-026-01796-y"
+    ]
+  ],
+  [
+    [
+      "2026-06-11, 10:38:24",
+      "https://news.ycombinator.com/item?id=48488553"
+    ],
+    [
+      "HTML is a native image format, hear me out",
+      "https://hmml.eddocu.com"
+    ]
+  ],
+  [
+    [
       "2026-06-11, 08:47:36",
       "https://news.ycombinator.com/item?id=48487897"
     ],
@@ -31,16 +51,6 @@
   ],
   [
     [
-      "2026-06-11, 06:32:33",
-      "https://news.ycombinator.com/item?id=48486944"
-    ],
-    [
-      "Macaroni – a single HTML file messenger",
-      "https://github.com/vanyapr/makaroshki"
-    ]
-  ],
-  [
-    [
       "2026-06-11, 00:10:08",
       "https://news.ycombinator.com/item?id=48484584"
     ],
@@ -57,16 +67,6 @@
     [
       "Sequoyah’s syllabary created a written language for the Cherokee",
       "https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/"
-    ]
-  ],
-  [
-    [
-      "2026-06-10, 20:35:07",
-      "https://news.ycombinator.com/item?id=48482293"
-    ],
-    [
-      "What is it like to be a bat? (1974) [pdf]",
-      "https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf"
     ]
   ],
   [
@@ -127,16 +127,6 @@
     [
       "Show HN: Extend UI – open-source UI kit for modern document apps",
       "https://www.extend.ai/ui"
-    ]
-  ],
-  [
-    [
-      "2026-06-10, 15:47:31",
-      "https://news.ycombinator.com/item?id=48478148"
-    ],
-    [
-      "Show HN: HelixDB – A graph database built on object storage",
-      "https://github.com/HelixDB/helix-db/tree/main"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Klondike Solitaire game for curses in 5k of C",
       "https://nanochess.org/klondike_in_c.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-08, 17:33:40",
+      "https://news.ycombinator.com/item?id=48448386"
+    ],
+    [
+      "The Life and Works of Raoul Bott",
+      "https://arxiv.org/abs/math/0201027"
     ]
   ],
   [
