@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-11, 08:47:36",
+      "https://news.ycombinator.com/item?id=48487897"
+    ],
+    [
+      "Web Browsers on Video Game Consoles",
+      "https://vale.rocks/posts/game-console-browsers"
+    ]
+  ],
+  [
+    [
       "2026-06-11, 07:35:12",
       "https://news.ycombinator.com/item?id=48487435"
     ],
@@ -27,16 +37,6 @@
     [
       "Macaroni – a single HTML file messenger",
       "https://github.com/vanyapr/makaroshki"
-    ]
-  ],
-  [
-    [
-      "2026-06-11, 01:26:03",
-      "https://news.ycombinator.com/item?id=48485160"
-    ],
-    [
-      "Are insecure code completions in PyCharm a vulnerability?",
-      "https://sethmlarson.dev/are-insecure-code-completions-a-vulnerability"
     ]
   ],
   [
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2026-06-10, 12:11:28",
-      "https://news.ycombinator.com/item?id=48475100"
-    ],
-    [
-      "All 9,300 Japanese train station, animated by the year it opened (1872–2026)",
-      "https://jivx.com/eki"
-    ]
-  ],
-  [
-    [
       "2026-06-10, 02:48:20",
       "https://news.ycombinator.com/item?id=48470748"
     ],
@@ -217,6 +207,16 @@
     [
       "Anthropic requires 30 day data retention for Fable and Mythos",
       "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models"
+    ]
+  ],
+  [
+    [
+      "2026-06-09, 14:29:34",
+      "https://news.ycombinator.com/item?id=48461635"
+    ],
+    [
+      "Build a Basic AI Agent from Scratch: Long Task Planning",
+      "https://medium.com/@rogi23696/build-a-basic-ai-agent-from-scratch-long-task-planning-14e803f9bd6d"
     ]
   ],
   [
@@ -271,22 +271,22 @@
   ],
   [
     [
-      "2026-06-08, 17:12:44",
-      "https://news.ycombinator.com/item?id=48448083"
-    ],
-    [
-      "The Road to the WASM Component Model 1.0",
-      "https://bytecodealliance.org/articles/the-road-to-component-model-1-0"
-    ]
-  ],
-  [
-    [
       "2026-06-08, 15:20:08",
       "https://news.ycombinator.com/item?id=48446532"
     ],
     [
       "World Capitals Voronoi",
       "https://www.jasondavies.com/maps/voronoi/capitals/"
+    ]
+  ],
+  [
+    [
+      "2026-06-08, 13:03:44",
+      "https://news.ycombinator.com/item?id=48444841"
+    ],
+    [
+      "Making a Shading Language for My Offline Renderer",
+      "https://agraphicsguynotes.com/posts/making_a_shading_langauge_for_my_offline_renderer/"
     ]
   ],
   [
