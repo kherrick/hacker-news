@@ -46,6 +46,7 @@
 * [2026-06-09, 12:01:09](https://news.ycombinator.com/item?id=48459968) - [Emerge Career (YC S22) Is Hiring a Founding Growth Marketer](https://www.ycombinator.com/companies/emerge-career/jobs/v0S1AEG-founding-growth-marketer)
 * [2026-06-09, 11:56:25](https://news.ycombinator.com/item?id=48459913) - [Show HN: Learn from 30 historical figures, open source, nonprofit, self-hosted](https://github.com/chipmates/agoracosmica)
 * [2026-06-09, 11:46:40](https://news.ycombinator.com/item?id=48459837) - [Show HN: Gravity – interactive solar-system simulator, from Newton to Einstein](https://qunabu.github.io/Gravity/)
+* [2026-06-09, 11:30:20](https://news.ycombinator.com/item?id=48459678) - [CSS: Unavoidable Bad Parts](https://matklad.github.io/2026/06/04/css-unavoidable-bad-parts.html)
 * [2026-06-09, 11:27:49](https://news.ycombinator.com/item?id=48459659) - [Test-case reducers are underappreciated debugging tools](https://tratt.net/laurie/blog/2026/test_case_reducers_are_underappreciated_debugging_tools.html)
 * [2026-06-09, 10:46:14](https://news.ycombinator.com/item?id=48459294) - [Making Graphics Like it's 1993](https://staniks.github.io/articles/catlantean-3d-blog-1/)
 * [2026-06-09, 10:08:18](https://news.ycombinator.com/item?id=48459001) - [The iPhone's Last Stand](https://stratechery.com/2026/the-iphones-last-stand/)

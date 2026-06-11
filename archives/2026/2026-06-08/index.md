@@ -41,6 +41,7 @@
 * [2026-06-08, 15:46:37](https://news.ycombinator.com/item?id=48446893) - [AI Is Slowing Down](https://www.wheresyoured.at/ai-is-slowing-down/)
 * [2026-06-08, 15:27:33](https://news.ycombinator.com/item?id=48446639) - [MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second](https://mimo.xiaomi.com/blog/mimo-tilert-1000tps)
 * [2026-06-08, 15:25:40](https://news.ycombinator.com/item?id=48446611) - [I replaced Spotify with a homemade FM radio station](https://old.reddit.com/r/digitalminimalism/comments/1tes8yu/i_replaced_spotify_with_a_homemade_fm_radio/)
+* [2026-06-08, 15:21:23](https://news.ycombinator.com/item?id=48446554) - [Building a Korean ambiguity solver fast enough to skip the GPU: 7,300 words/SEC](https://kimchi-reader.app/blog/int8-cpu-korean-disambiguation)
 * [2026-06-08, 15:20:08](https://news.ycombinator.com/item?id=48446532) - [World Capitals Voronoi](https://www.jasondavies.com/maps/voronoi/capitals/)
 * [2026-06-08, 15:19:42](https://news.ycombinator.com/item?id=48446521) - [Amazon Cognito now supports multi-Region replication](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cognito-multi-region/)
 * [2026-06-08, 15:14:29](https://news.ycombinator.com/item?id=48446439) - [A Farmer Donated Land to Turn into a Park. The City Is Building a Data Center](https://www.404media.co/a-farmer-donated-land-to-turn-into-a-park-the-city-is-building-a-massive-data-center-instead/)
