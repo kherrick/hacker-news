@@ -4,7 +4,16 @@
 
 ### [Archives](../../index.md) for [2026-06-11](index.md)
 
+* [2026-06-11, 15:13:57](https://news.ycombinator.com/item?id=48491486) - [FPS.cob: A first person shooter in COBOL](https://github.com/icitry/FPS.cob)
+* [2026-06-11, 15:09:42](https://news.ycombinator.com/item?id=48491426) - [Show HN: Open-source API Key server written in Go by Ory](https://github.com/ory/talos/tree/master)
+* [2026-06-11, 14:55:59](https://news.ycombinator.com/item?id=48491214) - [Driving in America Is Headlight Hell](https://www.theatlantic.com/technology/2026/06/car-headlights-too-bright-adaptive-beams/687488/)
+* [2026-06-11, 14:35:53](https://news.ycombinator.com/item?id=48490946) - [AMD Gaslights Security Researcher, Changes Rules Retroactively [video]](https://www.youtube.com/watch?v=4HjWHNLRMB0)
+* [2026-06-11, 14:27:19](https://news.ycombinator.com/item?id=48490826) - [MiMo Code Is Now Released and Open-Source](https://mimo.xiaomi.com/mimocode)
+* [2026-06-11, 14:17:47](https://news.ycombinator.com/item?id=48490715) - [Nextcloud Hub 26 Spring: Built together, designed for the future](https://nextcloud.com/blog/nextcloud-hub26-spring/)
+* [2026-06-11, 14:06:43](https://news.ycombinator.com/item?id=48490564) - [Euro-Office: First version of the open-source web office is here](https://www.heise.de/en/news/Euro-Office-First-version-of-the-open-source-web-office-is-here-11322160.html)
+* [2026-06-11, 14:04:05](https://news.ycombinator.com/item?id=48490532) - [MapComplete – Contibute to OpenStreetMaps](https://mapcomplete.org/)
 * [2026-06-11, 13:42:42](https://news.ycombinator.com/item?id=48490245) - [US-Canada border library gets new Quebec-only entrance](https://www.bbc.com/news/videos/clyrvrde160o)
+* [2026-06-11, 13:29:19](https://news.ycombinator.com/item?id=48490094) - [Why Thermodynamics Rules Future Orbital Data Centers](https://spectrum.ieee.org/orbital-data-centers-heat)
 * [2026-06-11, 13:26:59](https://news.ycombinator.com/item?id=48490057) - [Workers are spending over 6 hours a week botsitting AI, fueling job frustration](https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6)
 * [2026-06-11, 13:14:31](https://news.ycombinator.com/item?id=48489917) - [Open Reproduction of DeepSeek-R1](https://github.com/huggingface/open-r1)
 * [2026-06-11, 13:06:08](https://news.ycombinator.com/item?id=48489835) - [More AI-generated code doesn't make your team faster. It might slow you](https://twitter.com/awscloud/status/2064449711155589396)

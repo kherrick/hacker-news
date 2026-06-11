@@ -63,6 +63,7 @@
 * [2026-06-09, 06:06:00](https://news.ycombinator.com/item?id=48457133) - [A game's homemade crypto fell to a DIY supercomputer](https://www.ud2.rip/blog/towerunite/)
 * [2026-06-09, 05:21:39](https://news.ycombinator.com/item?id=48456808) - [L'Affaire Siloxane](https://mceglowski.substack.com/p/laffaire-siloxane)
 * [2026-06-09, 04:48:10](https://news.ycombinator.com/item?id=48456555) - [CRDTs merge concurrent edits. Why not concurrent creation?](https://loro.dev/blog/mergeable-containers)
+* [2026-06-09, 04:10:19](https://news.ycombinator.com/item?id=48456279) - [Queues Don't Fix Overload (2014)](https://ferd.ca/queues-don-t-fix-overload.html)
 * [2026-06-09, 04:06:14](https://news.ycombinator.com/item?id=48456245) - [Porting the ThinkPad X61 to Coreboot](https://blog.aheymans.xyz/post/thinkpad_x61/)
 * [2026-06-09, 03:39:32](https://news.ycombinator.com/item?id=48456048) - [Flat Datacenter Networks at Scale at Amazon](https://perspectives.mvdirona.com/2026/06/flat-datacenter-networks-at-scale/)
 * [2026-06-09, 03:34:00](https://news.ycombinator.com/item?id=48456015) - [GoGoGrandparent (YC S16) is hiring Back end Engineers](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer)
