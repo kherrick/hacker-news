@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-06-11, 06:42:06",
+      "https://news.ycombinator.com/item?id=48487029"
+    ],
+    [
+      "Pokémon Go Scans Trained the Navigation Tech for Military Drones",
+      "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/"
+    ]
+  ],
+  [
+    [
+      "2026-06-11, 06:32:33",
+      "https://news.ycombinator.com/item?id=48486944"
+    ],
+    [
+      "Macaroni – a single HTML file messenger",
+      "https://github.com/vanyapr/makaroshki"
+    ]
+  ],
+  [
+    [
+      "2026-06-11, 05:35:06",
+      "https://news.ycombinator.com/item?id=48486577"
+    ],
+    [
+      "Validation, Docs, tests, and database schemas from one source of truth",
+      "https://github.com/justhamade/triadjs"
+    ]
+  ],
+  [
+    [
       "2026-06-11, 01:26:03",
       "https://news.ycombinator.com/item?id=48485160"
     ],
@@ -27,16 +57,6 @@
     [
       "Deficient executive control in transformer attention",
       "https://academic.oup.com/pnasnexus/article/5/6/pgag149/8698838"
-    ]
-  ],
-  [
-    [
-      "2026-06-10, 22:48:58",
-      "https://news.ycombinator.com/item?id=48483854"
-    ],
-    [
-      "Unix GC Remastered",
-      "https://mohandacherir.github.io/Qdiv7/posts/unix_new_gc/"
     ]
   ],
   [
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2026-06-10, 17:11:56",
-      "https://news.ycombinator.com/item?id=48479452"
-    ],
-    [
-      "Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use",
-      "https://github.com/anthropics/claude-code/issues/29045"
-    ]
-  ],
-  [
-    [
       "2026-06-10, 16:42:00",
       "https://news.ycombinator.com/item?id=48478969"
     ],
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2026-06-10, 15:29:52",
-      "https://news.ycombinator.com/item?id=48477851"
-    ],
-    [
-      "Authentication issues related to API requests",
-      "https://www.githubstatus.com/incidents/fcj3088jg1wx"
-    ]
-  ],
-  [
-    [
       "2026-06-10, 15:01:06",
       "https://news.ycombinator.com/item?id=48477400"
     ],
@@ -167,16 +167,6 @@
     [
       "I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" – AMA",
       "https://news.ycombinator.com/item?id=48477135"
-    ]
-  ],
-  [
-    [
-      "2026-06-10, 14:03:40",
-      "https://news.ycombinator.com/item?id=48476474"
-    ],
-    [
-      "Notes on DeepSeek",
-      "https://news.ycombinator.com/item?id=48476474"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "L'Affaire Siloxane",
       "https://mceglowski.substack.com/p/laffaire-siloxane"
+    ]
+  ],
+  [
+    [
+      "2026-06-09, 01:45:38",
+      "https://news.ycombinator.com/item?id=48455145"
+    ],
+    [
+      "Starfish by Peter Watts (1999)",
+      "https://www.rifters.com/real/STARFISH.htm#prelude"
     ]
   ],
   [
