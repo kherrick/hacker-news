@@ -18,6 +18,7 @@
 * [2026-06-08, 19:14:47](https://news.ycombinator.com/item?id=48450142) - [Apple reveals new AI architecture built around Google Gemini models](https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/)
 * [2026-06-08, 19:10:27](https://news.ycombinator.com/item?id=48450065) - [Why are cells small?](https://burrito.bio/essays/what-limits-a-cells-size)
 * [2026-06-08, 19:09:48](https://news.ycombinator.com/item?id=48450059) - [Switzerland wil have a referendum to cap population at 10M](https://www.admin.ch/en/sustainability-initiative)
+* [2026-06-08, 19:08:12](https://news.ycombinator.com/item?id=48450024) - [Klondike Solitaire game for curses in 5k of C](https://nanochess.org/klondike_in_c.html)
 * [2026-06-08, 18:47:38](https://news.ycombinator.com/item?id=48449665) - [Apple Core AI Framework](https://developer.apple.com/documentation/coreai/)
 * [2026-06-08, 18:42:01](https://news.ycombinator.com/item?id=48449567) - [Experience using AI software to prove Euler sum results [pdf]](https://www.davidhbailey.com/dhbpapers/Chatbots.pdf)
 * [2026-06-08, 18:26:35](https://news.ycombinator.com/item?id=48449262) - [Sam Bankman-Fried applies for a pardon from Trump](https://techcrunch.com/2026/06/08/sam-bankman-fried-applies-for-a-pardon-from-trump/)
