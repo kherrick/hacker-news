@@ -1,22 +1,32 @@
 [
   [
     [
+      "2026-06-11, 12:26:42",
+      "https://news.ycombinator.com/item?id=48489402"
+    ],
+    [
+      "Lines of Code Got a Better Publicist",
+      "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/"
+    ]
+  ],
+  [
+    [
+      "2026-06-11, 11:41:17",
+      "https://news.ycombinator.com/item?id=48489004"
+    ],
+    [
+      "BYD is bringing its 5-min 'Flash' electric car charging to Canada",
+      "https://electrek.co/2026/06/10/byd-flash-charging-canada-5-minute-ev-charging-network/"
+    ]
+  ],
+  [
+    [
       "2026-06-11, 11:26:25",
       "https://news.ycombinator.com/item?id=48488901"
     ],
     [
       "Human migration has surged since 2000 – these maps reveal where people are going",
       "https://www.nature.com/articles/d41586-026-01796-y"
-    ]
-  ],
-  [
-    [
-      "2026-06-11, 10:38:24",
-      "https://news.ycombinator.com/item?id=48488553"
-    ],
-    [
-      "HTML is a native image format, hear me out",
-      "https://hmml.eddocu.com"
     ]
   ],
   [
@@ -71,16 +81,6 @@
   ],
   [
     [
-      "2026-06-10, 20:05:21",
-      "https://news.ycombinator.com/item?id=48481857"
-    ],
-    [
-      "Raspberry Pi 5 – 16GB RAM",
-      "https://www.adafruit.com/product/6125?src=raspberrypi"
-    ]
-  ],
-  [
-    [
       "2026-06-10, 18:54:54",
       "https://news.ycombinator.com/item?id=48480978"
     ],
@@ -127,16 +127,6 @@
     [
       "Show HN: Extend UI – open-source UI kit for modern document apps",
       "https://www.extend.ai/ui"
-    ]
-  ],
-  [
-    [
-      "2026-06-10, 15:01:06",
-      "https://news.ycombinator.com/item?id=48477400"
-    ],
-    [
-      "Apache Burr: Build reliable AI agents and applications",
-      "https://burr.apache.org/"
     ]
   ],
   [
@@ -207,6 +197,16 @@
     [
       "Build a Basic AI Agent from Scratch: Long Task Planning",
       "https://medium.com/@rogi23696/build-a-basic-ai-agent-from-scratch-long-task-planning-14e803f9bd6d"
+    ]
+  ],
+  [
+    [
+      "2026-06-09, 14:14:04",
+      "https://news.ycombinator.com/item?id=48461442"
+    ],
+    [
+      "Symbolicating a minified stack trace by hand: why source maps can't do it alone",
+      "https://tracewayapp.com/blog/deep-dive-into-the-sourcemaps"
     ]
   ],
   [
