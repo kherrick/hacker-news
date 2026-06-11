@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-06-11](index.md)
 
 * [2026-06-11, 21:17:30](https://news.ycombinator.com/item?id=48496539) - [Show HN: FablePool – pool money behind a prompt, and Fable builds it in public](https://fablepool.com)
+* [2026-06-11, 21:04:47](https://news.ycombinator.com/item?id=48496396) - [Why I'm Forced to Say Farewell: Google Management Has Lost Its Moral Compass](https://www.mayrhofer.eu.org/post/leaving-google/)
 * [2026-06-11, 20:52:26](https://news.ycombinator.com/item?id=48496250) - [Show HN: Boo – screen-style terminal multiplexer built on libghostty](https://github.com/coder/boo)
 * [2026-06-11, 20:14:33](https://news.ycombinator.com/item?id=48495818) - [I stopped tracking my time. Now I can't focus](https://newsletter.masilotti.com/p/i-stopped-tracking-my-time-now-i)
 * [2026-06-11, 20:08:26](https://news.ycombinator.com/item?id=48495751) - [Travel Locally, Where You Are](https://www.ssp.sh/brain/travel-where-you-are/)

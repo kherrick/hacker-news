@@ -66,6 +66,7 @@
 * [2026-06-09, 06:14:20](https://news.ycombinator.com/item?id=48457181) - [Facebook is paying people overseas promoting Alberta separatism](https://www.cbc.ca/news/canada/facebook-overseas-alberta-separtism-9.7223966)
 * [2026-06-09, 06:06:00](https://news.ycombinator.com/item?id=48457133) - [A game's homemade crypto fell to a DIY supercomputer](https://www.ud2.rip/blog/towerunite/)
 * [2026-06-09, 05:21:39](https://news.ycombinator.com/item?id=48456808) - [L'Affaire Siloxane](https://mceglowski.substack.com/p/laffaire-siloxane)
+* [2026-06-09, 04:58:49](https://news.ycombinator.com/item?id=48456637) - [Gram Newton-Schulz: A Fast, Hardware-Aware Newton-Schulz Algorithm for Muon](https://tridao.me/blog/2026/gram-newton-schulz/)
 * [2026-06-09, 04:48:10](https://news.ycombinator.com/item?id=48456555) - [CRDTs merge concurrent edits. Why not concurrent creation?](https://loro.dev/blog/mergeable-containers)
 * [2026-06-09, 04:10:19](https://news.ycombinator.com/item?id=48456279) - [Queues Don't Fix Overload (2014)](https://ferd.ca/queues-don-t-fix-overload.html)
 * [2026-06-09, 04:06:14](https://news.ycombinator.com/item?id=48456245) - [Porting the ThinkPad X61 to Coreboot](https://blog.aheymans.xyz/post/thinkpad_x61/)
