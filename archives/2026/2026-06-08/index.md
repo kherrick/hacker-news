@@ -26,6 +26,7 @@
 * [2026-06-08, 18:17:53](https://news.ycombinator.com/item?id=48449084) - [Siri AI](https://www.apple.com/apple-intelligence/)
 * [2026-06-08, 17:41:33](https://news.ycombinator.com/item?id=48448493) - [Full Reverse Engineering of the TI-84 Plus Operating System](https://siraben.github.io/ti84p-re/)
 * [2026-06-08, 17:38:52](https://news.ycombinator.com/item?id=48448459) - [Why all new flags look the same](https://www.worksinprogress.news/p/good-design-is-ruining-american-flags)
+* [2026-06-08, 17:33:40](https://news.ycombinator.com/item?id=48448386) - [The Life and Works of Raoul Bott](https://arxiv.org/abs/math/0201027)
 * [2026-06-08, 17:31:34](https://news.ycombinator.com/item?id=48448357) - [Thunderbird Littering My Home](https://thefoggiest.dev/2026/06/04/thunderbird-littering-my-home)
 * [2026-06-08, 17:28:29](https://news.ycombinator.com/item?id=48448313) - [Ask HN: Why hasn't there been a real competitor to Ticketmaster yet?](https://news.ycombinator.com/item?id=48448313)
 * [2026-06-08, 17:14:24](https://news.ycombinator.com/item?id=48448106) - [Apple WWDC 2026 Livestream](https://www.apple.com/apple-events/event-stream/)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-11](index.md)
 
+* [2026-06-11, 11:26:25](https://news.ycombinator.com/item?id=48488901) - [Human migration has surged since 2000 – these maps reveal where people are going](https://www.nature.com/articles/d41586-026-01796-y)
+* [2026-06-11, 10:38:24](https://news.ycombinator.com/item?id=48488553) - [HTML is a native image format, hear me out](https://hmml.eddocu.com)
 * [2026-06-11, 08:47:36](https://news.ycombinator.com/item?id=48487897) - [Web Browsers on Video Game Consoles](https://vale.rocks/posts/game-console-browsers)
 * [2026-06-11, 07:35:12](https://news.ycombinator.com/item?id=48487435) - [Sweet Jeebus, macOS 27 Golden Gate Removes the Dumb Icons from Menu Items](https://daringfireball.net/2026/06/macos_27_golden_gate_removes_the_dumb_icons_from_menu_items)
 * [2026-06-11, 06:42:06](https://news.ycombinator.com/item?id=48487029) - [Pokémon Go Scans Trained the Navigation Tech for Military Drones](https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/)
