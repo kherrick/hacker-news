@@ -63,6 +63,7 @@
 * [2026-06-09, 09:05:39](https://news.ycombinator.com/item?id=48458552) - ['They were laughing': Israel's use of rape and sexual abuse in prisons](https://www.aljazeera.com/news/2026/6/9/they-were-laughing-israels-use-of-rape-and-sexual-abuse-in-prisons)
 * [2026-06-09, 08:25:36](https://news.ycombinator.com/item?id=48458257) - [Forever Young: how one molecule can lock plants in a youthful state.(2025)](https://omnia.sas.upenn.edu/story/biologist-scott-poethig-plants-never-age)
 * [2026-06-09, 07:33:16](https://news.ycombinator.com/item?id=48457830) - [Microsoft's open source tools were hacked to steal passwords of AI developers](https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/)
+* [2026-06-09, 07:06:08](https://news.ycombinator.com/item?id=48457601) - [A worm in my Erlang cluster, and adventures in microfluidics](https://lucassifoni.info/blog/a-worm-in-my-erlang-cluster-and-adventures-in-microfluidics/)
 * [2026-06-09, 06:14:20](https://news.ycombinator.com/item?id=48457181) - [Facebook is paying people overseas promoting Alberta separatism](https://www.cbc.ca/news/canada/facebook-overseas-alberta-separtism-9.7223966)
 * [2026-06-09, 06:06:00](https://news.ycombinator.com/item?id=48457133) - [A game's homemade crypto fell to a DIY supercomputer](https://www.ud2.rip/blog/towerunite/)
 * [2026-06-09, 05:21:39](https://news.ycombinator.com/item?id=48456808) - [L'Affaire Siloxane](https://mceglowski.substack.com/p/laffaire-siloxane)

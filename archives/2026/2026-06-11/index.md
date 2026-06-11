@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-11](index.md)
 
+* [2026-06-11, 23:01:55](https://news.ycombinator.com/item?id=48497609) - [If You Are Asking for Human Attention, Demonstrate Human Effort](https://tombedor.dev/human-attention-and-human-effort/)
 * [2026-06-11, 22:28:01](https://news.ycombinator.com/item?id=48497260) - [OpenAI Prepping for On-Prem Product?](https://ledger.somantix.ai/posts/open-ai-lays-groundwork-for-on-prem-product/)
 * [2026-06-11, 22:17:08](https://news.ycombinator.com/item?id=48497168) - [The unreasonable effectiveness of simple HTML](https://shkspr.mobi/blog/2021/01/the-unreasonable-effectiveness-of-simple-html/)
 * [2026-06-11, 21:17:30](https://news.ycombinator.com/item?id=48496539) - [Show HN: FablePool – pool money behind a prompt, and Fable builds it in public](https://fablepool.com)
