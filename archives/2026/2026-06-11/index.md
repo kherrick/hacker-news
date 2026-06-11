@@ -4,11 +4,17 @@
 
 ### [Archives](../../index.md) for [2026-06-11](index.md)
 
+* [2026-06-11, 13:42:42](https://news.ycombinator.com/item?id=48490245) - [US-Canada border library gets new Quebec-only entrance](https://www.bbc.com/news/videos/clyrvrde160o)
+* [2026-06-11, 13:26:59](https://news.ycombinator.com/item?id=48490057) - [Workers are spending over 6 hours a week botsitting AI, fueling job frustration](https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6)
+* [2026-06-11, 13:14:31](https://news.ycombinator.com/item?id=48489917) - [Open Reproduction of DeepSeek-R1](https://github.com/huggingface/open-r1)
+* [2026-06-11, 13:06:08](https://news.ycombinator.com/item?id=48489835) - [More AI-generated code doesn't make your team faster. It might slow you](https://twitter.com/awscloud/status/2064449711155589396)
+* [2026-06-11, 12:51:43](https://news.ycombinator.com/item?id=48489655) - [Core PPI up 9.6% annualized (0.8% MoM) in May](https://www.bls.gov/news.release/ppi.nr0.htm)
 * [2026-06-11, 12:26:42](https://news.ycombinator.com/item?id=48489402) - [Lines of Code Got a Better Publicist](https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/)
 * [2026-06-11, 11:41:17](https://news.ycombinator.com/item?id=48489004) - [BYD is bringing its 5-min 'Flash' electric car charging to Canada](https://electrek.co/2026/06/10/byd-flash-charging-canada-5-minute-ev-charging-network/)
 * [2026-06-11, 11:26:25](https://news.ycombinator.com/item?id=48488901) - [Human migration has surged since 2000 – these maps reveal where people are going](https://www.nature.com/articles/d41586-026-01796-y)
 * [2026-06-11, 10:38:24](https://news.ycombinator.com/item?id=48488553) - [HTML is a native image format, hear me out](https://hmml.eddocu.com)
 * [2026-06-11, 08:47:36](https://news.ycombinator.com/item?id=48487897) - [Web Browsers on Video Game Consoles](https://vale.rocks/posts/game-console-browsers)
+* [2026-06-11, 07:51:17](https://news.ycombinator.com/item?id=48487540) - [Why AI hasn't replaced software engineers, and won't](https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers)
 * [2026-06-11, 07:35:12](https://news.ycombinator.com/item?id=48487435) - [Sweet Jeebus, macOS 27 Golden Gate Removes the Dumb Icons from Menu Items](https://daringfireball.net/2026/06/macos_27_golden_gate_removes_the_dumb_icons_from_menu_items)
 * [2026-06-11, 06:42:06](https://news.ycombinator.com/item?id=48487029) - [Pokémon Go Scans Trained the Navigation Tech for Military Drones](https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/)
 * [2026-06-11, 06:32:33](https://news.ycombinator.com/item?id=48486944) - [Macaroni – a single HTML file messenger](https://github.com/vanyapr/makaroshki)

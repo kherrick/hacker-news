@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-08](index.md)
 
+* [2026-06-08, 23:34:15](https://news.ycombinator.com/item?id=48453949) - [Supporting Exchange and beyond](https://brendan.abolivier.bzh/exchange-pt-2/)
 * [2026-06-08, 23:05:20](https://news.ycombinator.com/item?id=48453666) - [Show HN: Mach – A compiled systems language looking for contributions](https://github.com/octalide/mach)
 * [2026-06-08, 22:32:36](https://news.ycombinator.com/item?id=48453275) - [Let's Encrypt bans certificate usage in any US sanctioned territory [pdf]](https://letsencrypt.org/documents/LE-SA-v1.7-June-04-2026-diff.pdf)
 * [2026-06-08, 22:10:18](https://news.ycombinator.com/item?id=48453002) - [Show HN: Command Center, the AI coding env for people who care about quality](https://www.cc.dev/)
@@ -24,6 +25,7 @@
 * [2026-06-08, 18:26:35](https://news.ycombinator.com/item?id=48449262) - [Sam Bankman-Fried applies for a pardon from Trump](https://techcrunch.com/2026/06/08/sam-bankman-fried-applies-for-a-pardon-from-trump/)
 * [2026-06-08, 18:22:39](https://news.ycombinator.com/item?id=48449187) - [Ask HN: What are tools you have made for yourself since the advent of AI?](https://news.ycombinator.com/item?id=48449187)
 * [2026-06-08, 18:17:53](https://news.ycombinator.com/item?id=48449084) - [Siri AI](https://www.apple.com/apple-intelligence/)
+* [2026-06-08, 18:15:03](https://news.ycombinator.com/item?id=48449036) - [The Economics of Speculative Decoding](https://fergusfinn.com/blog/economics-of-speculative-decoding/)
 * [2026-06-08, 17:41:33](https://news.ycombinator.com/item?id=48448493) - [Full Reverse Engineering of the TI-84 Plus Operating System](https://siraben.github.io/ti84p-re/)
 * [2026-06-08, 17:38:52](https://news.ycombinator.com/item?id=48448459) - [Why all new flags look the same](https://www.worksinprogress.news/p/good-design-is-ruining-american-flags)
 * [2026-06-08, 17:33:40](https://news.ycombinator.com/item?id=48448386) - [The Life and Works of Raoul Bott](https://arxiv.org/abs/math/0201027)
