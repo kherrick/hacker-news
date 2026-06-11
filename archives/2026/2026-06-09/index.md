@@ -15,6 +15,7 @@
 * [2026-06-09, 21:01:00](https://news.ycombinator.com/item?id=48467705) - [Upcoming breaking changes for NPM v12](https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/)
 * [2026-06-09, 20:50:54](https://news.ycombinator.com/item?id=48467570) - [Alpine Linux 3.24.0 Released](https://alpinelinux.org/posts/Alpine-3.24.0-released.html)
 * [2026-06-09, 19:58:21](https://news.ycombinator.com/item?id=48466812) - [Grit: Rewriting Git in Rust with Agents](https://blog.gitbutler.com/true-grit)
+* [2026-06-09, 19:35:00](https://news.ycombinator.com/item?id=48466488) - [Ask HN: Favorite text heavy blogs that are a joy to read?](https://news.ycombinator.com/item?id=48466488)
 * [2026-06-09, 19:21:45](https://news.ycombinator.com/item?id=48466277) - [Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks](https://aarushgupta.io/posts/kan-fpga/)
 * [2026-06-09, 18:50:27](https://news.ycombinator.com/item?id=48465744) - [Apple's AI Can Now Change Your Passwords. What Could Possibly Go Wrong?](https://www.kylereddoch.me/blog/apples-ai-can-now-change-your-passwords-what-could-possibly-go-wrong/)
 * [2026-06-09, 18:47:52](https://news.ycombinator.com/item?id=48465702) - [Ask HN: Are you still using your Vision Pro?](https://news.ycombinator.com/item?id=48465702)
