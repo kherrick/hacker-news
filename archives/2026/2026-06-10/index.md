@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-10](index.md)
 
+* [2026-06-10, 23:57:24](https://news.ycombinator.com/item?id=48484475) - [Aws.com and google.com don't have DNSSEC enabled](https://gist.github.com/acetousk/3c17d2aefde9175ffef21a8ec4673053)
+* [2026-06-10, 23:35:01](https://news.ycombinator.com/item?id=48484282) - [Deficient executive control in transformer attention](https://academic.oup.com/pnasnexus/article/5/6/pgag149/8698838)
 * [2026-06-10, 22:48:58](https://news.ycombinator.com/item?id=48483854) - [Unix GC Remastered](https://mohandacherir.github.io/Qdiv7/posts/unix_new_gc/)
 * [2026-06-10, 22:07:52](https://news.ycombinator.com/item?id=48483387) - [A Written Language for the Cherokee So Efficient It Was Thought to Be Magic](https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/)
 * [2026-06-10, 22:04:29](https://news.ycombinator.com/item?id=48483345) - [Free financial literacy platform for kids – 90 lessons, no paywall](https://learnfinly.com)
