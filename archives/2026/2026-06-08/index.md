@@ -10,6 +10,7 @@
 * [2026-06-08, 22:10:18](https://news.ycombinator.com/item?id=48453002) - [Show HN: Command Center, the AI coding env for people who care about quality](https://www.cc.dev/)
 * [2026-06-08, 22:02:47](https://news.ycombinator.com/item?id=48452901) - [Computer Lessons](https://technicshistory.com/2026/06/06/computer-lessons/)
 * [2026-06-08, 21:22:43](https://news.ycombinator.com/item?id=48452317) - [OpenAI Submits S-1 Draft to SEC](https://openai.com/index/openai-submits-confidential-s-1/)
+* [2026-06-08, 21:13:33](https://news.ycombinator.com/item?id=48452174) - [Pozzo: A Fast Lucky Number Checker](https://github.com/Robert-Cunningham/pozzo)
 * [2026-06-08, 21:02:01](https://news.ycombinator.com/item?id=48452001) - [Developer gets Half-Life running at 30 FPS on a Nokia N95](https://www.tomshardware.com/video-games/handheld-gaming/developer-gets-half-life-running-at-30-fps-on-a-2007-nokia-n95)
 * [2026-06-08, 21:02:00](https://news.ycombinator.com/item?id=48452000) - [Apple bets cheaper AI will woo small developers](https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/)
 * [2026-06-08, 21:00:13](https://news.ycombinator.com/item?id=48451966) - [A giant star may have destroyed itself in one of the rarest explosions](https://phys.org/news/2026-05-giant-star-destroyed-universe-rarest.html)
