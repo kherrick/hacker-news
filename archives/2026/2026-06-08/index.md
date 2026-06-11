@@ -29,6 +29,7 @@
 * [2026-06-08, 17:31:34](https://news.ycombinator.com/item?id=48448357) - [Thunderbird Littering My Home](https://thefoggiest.dev/2026/06/04/thunderbird-littering-my-home)
 * [2026-06-08, 17:28:29](https://news.ycombinator.com/item?id=48448313) - [Ask HN: Why hasn't there been a real competitor to Ticketmaster yet?](https://news.ycombinator.com/item?id=48448313)
 * [2026-06-08, 17:14:24](https://news.ycombinator.com/item?id=48448106) - [Apple WWDC 2026 Livestream](https://www.apple.com/apple-events/event-stream/)
+* [2026-06-08, 17:12:44](https://news.ycombinator.com/item?id=48448083) - [The Road to the WASM Component Model 1.0](https://bytecodealliance.org/articles/the-road-to-component-model-1-0)
 * [2026-06-08, 17:07:33](https://news.ycombinator.com/item?id=48448012) - [Massachusetts bans sale of precise location data in new privacy rights bill](https://techcrunch.com/2026/06/08/massachusetts-votes-to-pass-new-privacy-rights-bill-that-bans-sale-of-precise-location-data/)
 * [2026-06-08, 17:06:37](https://news.ycombinator.com/item?id=48448000) - [New Referendum Would Flip Brexit Result 10 Years On, Poll Finds](https://www.bloomberg.com/news/articles/2026-06-08/new-referendum-would-flip-brexit-result-10-years-on-poll-finds)
 * [2026-06-08, 17:04:52](https://news.ycombinator.com/item?id=48447980) - [Ask HN: How to escalate a rejected Google extension?](https://news.ycombinator.com/item?id=48447980)

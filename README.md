@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-06-11, 01:26:03](https://news.ycombinator.com/item?id=48485160) - [Are insecure code completions in PyCharm a vulnerability?](https://sethmlarson.dev/are-insecure-code-completions-a-vulnerability)
 * [2026-06-11, 00:10:08](https://news.ycombinator.com/item?id=48484584) - [AI agent runs amok in Fedora and elsewhere](https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/)
 * [2026-06-10, 23:35:01](https://news.ycombinator.com/item?id=48484282) - [Deficient executive control in transformer attention](https://academic.oup.com/pnasnexus/article/5/6/pgag149/8698838)
 * [2026-06-10, 22:48:58](https://news.ycombinator.com/item?id=48483854) - [Unix GC Remastered](https://mohandacherir.github.io/Qdiv7/posts/unix_new_gc/)
@@ -18,7 +19,6 @@
 * [2026-06-10, 14:47:52](https://news.ycombinator.com/item?id=48477135) - [I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" – AMA](https://news.ycombinator.com/item?id=48477135)
 * [2026-06-10, 14:03:40](https://news.ycombinator.com/item?id=48476474) - [Notes on DeepSeek](https://news.ycombinator.com/item?id=48476474)
 * [2026-06-10, 14:02:59](https://news.ycombinator.com/item?id=48476466) - [PgDog is funded and coming to a database near you](https://pgdog.dev/blog/our-funding-announcement)
-* [2026-06-10, 13:39:11](https://news.ycombinator.com/item?id=48476136) - [A €0.01 bank transfer could compromise a banking AI agent](https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/)
 * [2026-06-10, 12:45:47](https://news.ycombinator.com/item?id=48475483) - [Building an HTML-first site doubled our users overnight](https://mohkohn.co.uk/writing/html-first/)
 * [2026-06-10, 12:11:28](https://news.ycombinator.com/item?id=48475100) - [All 9,300 Japanese train station, animated by the year it opened (1872–2026)](https://jivx.com/eki)
 * [2026-06-10, 02:48:20](https://news.ycombinator.com/item?id=48470748) - [Vacuum-Form Signage](https://bethmathews.substack.com/p/the-history-behind-the-signs-lighting)
@@ -27,9 +27,9 @@
 * [2026-06-09, 11:30:20](https://news.ycombinator.com/item?id=48459678) - [CSS: Unavoidable Bad Parts](https://matklad.github.io/2026/06/04/css-unavoidable-bad-parts.html)
 * [2026-06-09, 05:21:39](https://news.ycombinator.com/item?id=48456808) - [L'Affaire Siloxane](https://mceglowski.substack.com/p/laffaire-siloxane)
 * [2026-06-08, 19:08:12](https://news.ycombinator.com/item?id=48450024) - [Klondike Solitaire game for curses in 5k of C](https://nanochess.org/klondike_in_c.html)
-* [2026-06-08, 15:21:23](https://news.ycombinator.com/item?id=48446554) - [Building a Korean ambiguity solver fast enough to skip the GPU: 7,300 words/SEC](https://kimchi-reader.app/blog/int8-cpu-korean-disambiguation)
+* [2026-06-08, 17:12:44](https://news.ycombinator.com/item?id=48448083) - [The Road to the WASM Component Model 1.0](https://bytecodealliance.org/articles/the-road-to-component-model-1-0)
 * [2026-06-08, 15:20:08](https://news.ycombinator.com/item?id=48446532) - [World Capitals Voronoi](https://www.jasondavies.com/maps/voronoi/capitals/)
-* [2026-06-06, 16:18:39](https://news.ycombinator.com/item?id=48426421) - [Computer Lessons](https://technicshistory.com/2026/06/06/computer-lessons/)
+* [2026-06-07, 11:20:13](https://news.ycombinator.com/item?id=48433777) - [Reverse engineering the Creative Katana soundbar to control it from Linux](https://blog.nns.ee/2026/02/20/katana-v2x-re/)
 
 ## [Archives](archives/index.md)
 
