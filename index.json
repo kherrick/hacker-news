@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-06-10, 23:57:24",
-      "https://news.ycombinator.com/item?id=48484475"
+      "2026-06-11, 00:23:04",
+      "https://news.ycombinator.com/item?id=48484695"
     ],
     [
-      "Aws.com and google.com don't have DNSSEC enabled",
-      "https://gist.github.com/acetousk/3c17d2aefde9175ffef21a8ec4673053"
+      "I was tired of repos that say they run but don't",
+      "https://github.com/rossbuckley1990-hash/bootproof"
+    ]
+  ],
+  [
+    [
+      "2026-06-11, 00:10:08",
+      "https://news.ycombinator.com/item?id=48484584"
+    ],
+    [
+      "AI agent runs amok in Fedora and elsewhere",
+      "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/"
     ]
   ],
   [
@@ -87,16 +97,6 @@
     [
       "Anthropic's model naming, extrapolated",
       "https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated"
-    ]
-  ],
-  [
-    [
-      "2026-06-10, 18:36:04",
-      "https://news.ycombinator.com/item?id=48480719"
-    ],
-    [
-      "Policy on the AI Exponential",
-      "https://darioamodei.com/post/policy-on-the-ai-exponential"
     ]
   ],
   [
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2026-06-09, 12:35:01",
-      "https://news.ycombinator.com/item?id=48460286"
-    ],
-    [
-      "Show HN: Atlasphere – Live Infrastructure Diagrams",
-      "https://news.ycombinator.com/item?id=48460286"
-    ]
-  ],
-  [
-    [
       "2026-06-09, 05:21:39",
       "https://news.ycombinator.com/item?id=48456808"
     ],
@@ -297,6 +287,16 @@
     [
       "Why are there so many canines in fine art?",
       "https://www.theatlantic.com/magazine/2026/07/the-dogs-gaze-thomas-w-laqueur/687312/"
+    ]
+  ],
+  [
+    [
+      "2026-06-06, 16:18:39",
+      "https://news.ycombinator.com/item?id=48426421"
+    ],
+    [
+      "Computer Lessons",
+      "https://technicshistory.com/2026/06/06/computer-lessons/"
     ]
   ]
 ]
