@@ -1,12 +1,102 @@
 [
   [
     [
+      "2026-06-11, 15:13:57",
+      "https://news.ycombinator.com/item?id=48491486"
+    ],
+    [
+      "FPS.cob: A first person shooter in COBOL",
+      "https://github.com/icitry/FPS.cob"
+    ]
+  ],
+  [
+    [
+      "2026-06-11, 15:09:42",
+      "https://news.ycombinator.com/item?id=48491426"
+    ],
+    [
+      "Show HN: Open-source API Key server written in Go by Ory",
+      "https://github.com/ory/talos/tree/master"
+    ]
+  ],
+  [
+    [
+      "2026-06-11, 14:55:59",
+      "https://news.ycombinator.com/item?id=48491214"
+    ],
+    [
+      "Driving in America Is Headlight Hell",
+      "https://www.theatlantic.com/technology/2026/06/car-headlights-too-bright-adaptive-beams/687488/"
+    ]
+  ],
+  [
+    [
+      "2026-06-11, 14:35:53",
+      "https://news.ycombinator.com/item?id=48490946"
+    ],
+    [
+      "AMD Gaslights Security Researcher, Changes Rules Retroactively [video]",
+      "https://www.youtube.com/watch?v=4HjWHNLRMB0"
+    ]
+  ],
+  [
+    [
+      "2026-06-11, 14:27:19",
+      "https://news.ycombinator.com/item?id=48490826"
+    ],
+    [
+      "MiMo Code Is Now Released and Open-Source",
+      "https://mimo.xiaomi.com/mimocode"
+    ]
+  ],
+  [
+    [
+      "2026-06-11, 14:17:47",
+      "https://news.ycombinator.com/item?id=48490715"
+    ],
+    [
+      "Nextcloud Hub 26 Spring: Built together, designed for the future",
+      "https://nextcloud.com/blog/nextcloud-hub26-spring/"
+    ]
+  ],
+  [
+    [
+      "2026-06-11, 14:06:43",
+      "https://news.ycombinator.com/item?id=48490564"
+    ],
+    [
+      "Euro-Office: First version of the open-source web office is here",
+      "https://www.heise.de/en/news/Euro-Office-First-version-of-the-open-source-web-office-is-here-11322160.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-11, 14:04:05",
+      "https://news.ycombinator.com/item?id=48490532"
+    ],
+    [
+      "MapComplete – Contibute to OpenStreetMaps",
+      "https://mapcomplete.org/"
+    ]
+  ],
+  [
+    [
       "2026-06-11, 13:42:42",
       "https://news.ycombinator.com/item?id=48490245"
     ],
     [
       "US-Canada border library gets new Quebec-only entrance",
       "https://www.bbc.com/news/videos/clyrvrde160o"
+    ]
+  ],
+  [
+    [
+      "2026-06-11, 13:29:19",
+      "https://news.ycombinator.com/item?id=48490094"
+    ],
+    [
+      "Why Thermodynamics Rules Future Orbital Data Centers",
+      "https://spectrum.ieee.org/orbital-data-centers-heat"
     ]
   ],
   [
@@ -27,26 +117,6 @@
     [
       "Open Reproduction of DeepSeek-R1",
       "https://github.com/huggingface/open-r1"
-    ]
-  ],
-  [
-    [
-      "2026-06-11, 13:06:08",
-      "https://news.ycombinator.com/item?id=48489835"
-    ],
-    [
-      "More AI-generated code doesn't make your team faster. It might slow you",
-      "https://twitter.com/awscloud/status/2064449711155589396"
-    ]
-  ],
-  [
-    [
-      "2026-06-11, 12:51:43",
-      "https://news.ycombinator.com/item?id=48489655"
-    ],
-    [
-      "Core PPI up 9.6% annualized (0.8% MoM) in May",
-      "https://www.bls.gov/news.release/ppi.nr0.htm"
     ]
   ],
   [
@@ -81,32 +151,12 @@
   ],
   [
     [
-      "2026-06-11, 07:35:12",
-      "https://news.ycombinator.com/item?id=48487435"
-    ],
-    [
-      "Sweet Jeebus, macOS 27 Golden Gate Removes the Dumb Icons from Menu Items",
-      "https://daringfireball.net/2026/06/macos_27_golden_gate_removes_the_dumb_icons_from_menu_items"
-    ]
-  ],
-  [
-    [
       "2026-06-11, 06:42:06",
       "https://news.ycombinator.com/item?id=48487029"
     ],
     [
       "Pokémon Go Scans Trained the Navigation Tech for Military Drones",
       "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/"
-    ]
-  ],
-  [
-    [
-      "2026-06-11, 06:32:33",
-      "https://news.ycombinator.com/item?id=48486944"
-    ],
-    [
-      "Macaroni – a single HTML file messenger",
-      "https://github.com/vanyapr/makaroshki"
     ]
   ],
   [
@@ -137,16 +187,6 @@
     [
       "πFS",
       "https://github.com/philipl/pifs"
-    ]
-  ],
-  [
-    [
-      "2026-06-10, 17:39:47",
-      "https://news.ycombinator.com/item?id=48479852"
-    ],
-    [
-      "GeoLibre 1.0",
-      "https://geolibre.app/"
     ]
   ],
   [
@@ -191,16 +231,6 @@
   ],
   [
     [
-      "2026-06-10, 02:48:20",
-      "https://news.ycombinator.com/item?id=48470748"
-    ],
-    [
-      "Vacuum-Form Signage",
-      "https://bethmathews.substack.com/p/the-history-behind-the-signs-lighting"
-    ]
-  ],
-  [
-    [
       "2026-06-09, 17:23:40",
       "https://news.ycombinator.com/item?id=48464258"
     ],
@@ -231,12 +261,12 @@
   ],
   [
     [
-      "2026-06-09, 05:21:39",
-      "https://news.ycombinator.com/item?id=48456808"
+      "2026-06-09, 04:10:19",
+      "https://news.ycombinator.com/item?id=48456279"
     ],
     [
-      "L'Affaire Siloxane",
-      "https://mceglowski.substack.com/p/laffaire-siloxane"
+      "Queues Don't Fix Overload (2014)",
+      "https://ferd.ca/queues-don-t-fix-overload.html"
     ]
   ],
   [
@@ -257,36 +287,6 @@
     [
       "Supporting Exchange and beyond",
       "https://brendan.abolivier.bzh/exchange-pt-2/"
-    ]
-  ],
-  [
-    [
-      "2026-06-08, 18:15:03",
-      "https://news.ycombinator.com/item?id=48449036"
-    ],
-    [
-      "The Economics of Speculative Decoding",
-      "https://fergusfinn.com/blog/economics-of-speculative-decoding/"
-    ]
-  ],
-  [
-    [
-      "2026-06-08, 17:33:40",
-      "https://news.ycombinator.com/item?id=48448386"
-    ],
-    [
-      "The Life and Works of Raoul Bott",
-      "https://arxiv.org/abs/math/0201027"
-    ]
-  ],
-  [
-    [
-      "2026-06-08, 13:03:44",
-      "https://news.ycombinator.com/item?id=48444841"
-    ],
-    [
-      "Making a Shading Language for My Offline Renderer",
-      "https://agraphicsguynotes.com/posts/making_a_shading_langauge_for_my_offline_renderer/"
     ]
   ],
   [
