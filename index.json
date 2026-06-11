@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-06-11, 16:34:11",
-      "https://news.ycombinator.com/item?id=48492613"
-    ],
-    [
-      "Fable 5 lies 96% of the time",
-      "https://twitter.com/kradleai/status/2064907897373642912"
-    ]
-  ],
-  [
-    [
       "2026-06-11, 16:28:24",
       "https://news.ycombinator.com/item?id=48492533"
     ],
@@ -35,7 +25,7 @@
       "https://news.ycombinator.com/item?id=48492304"
     ],
     [
-      "Introducing Waymo Premier, an elevated rider experience",
+      "Waymo Premier",
       "https://waymo.com/blog/2026/06/waymo-premier/"
     ]
   ],
@@ -47,16 +37,6 @@
     [
       "The RCE that AMD wouldn't fix",
       "https://mrbruh.com/amd2/"
-    ]
-  ],
-  [
-    [
-      "2026-06-11, 15:56:25",
-      "https://news.ycombinator.com/item?id=48492118"
-    ],
-    [
-      "Ask HN: How do you get into a flow state when using AI to code?",
-      "https://news.ycombinator.com/item?id=48492118"
     ]
   ],
   [
@@ -77,26 +57,6 @@
     [
       "FPS.cob: A first person shooter in COBOL",
       "https://github.com/icitry/FPS.cob"
-    ]
-  ],
-  [
-    [
-      "2026-06-11, 15:13:52",
-      "https://news.ycombinator.com/item?id=48491480"
-    ],
-    [
-      "Omniglot: The Online Encyclopedia of Writing Systems and Languages",
-      "https://www.omniglot.com/"
-    ]
-  ],
-  [
-    [
-      "2026-06-11, 15:09:42",
-      "https://news.ycombinator.com/item?id=48491426"
-    ],
-    [
-      "Show HN: Open-source API Key server written in Go by Ory",
-      "https://github.com/ory/talos/tree/master"
     ]
   ],
   [
@@ -127,16 +87,6 @@
     [
       "MapComplete: Maps about various topics which you can contribute to",
       "https://mapcomplete.org/"
-    ]
-  ],
-  [
-    [
-      "2026-06-11, 13:29:19",
-      "https://news.ycombinator.com/item?id=48490094"
-    ],
-    [
-      "Thermodynamics rules future orbital data centers",
-      "https://spectrum.ieee.org/orbital-data-centers-heat"
     ]
   ],
   [
@@ -191,16 +141,6 @@
   ],
   [
     [
-      "2026-06-11, 08:47:36",
-      "https://news.ycombinator.com/item?id=48487897"
-    ],
-    [
-      "Web Browsers on Video Game Consoles",
-      "https://vale.rocks/posts/game-console-browsers"
-    ]
-  ],
-  [
-    [
       "2026-06-11, 06:42:06",
       "https://news.ycombinator.com/item?id=48487029"
     ],
@@ -211,52 +151,72 @@
   ],
   [
     [
-      "2026-06-11, 05:16:42",
-      "https://news.ycombinator.com/item?id=48486486"
+      "2026-06-10, 17:03:48",
+      "https://news.ycombinator.com/item?id=48479314"
     ],
     [
-      "OpenAI mulls slashing prices as it competes with Anthropic for users",
-      "https://www.cnbc.com/2026/06/11/openai-mulls-slashing-prices-ahead-of-competition-from-anthropic-wsj.html"
+      "Reading for pleasure is sharply down among schoolkids, report shows",
+      "https://www.nbcnews.com/data-graphics/kids-reading-less-lower-levels-department-education-study-rcna348987"
     ]
   ],
   [
     [
-      "2026-06-10, 16:42:00",
-      "https://news.ycombinator.com/item?id=48478969"
+      "2026-06-10, 13:46:14",
+      "https://news.ycombinator.com/item?id=48476214"
     ],
     [
-      "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
-      "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/"
+      "Fully autonomous drones have killed human soldiers for the first time",
+      "https://www.newscientist.com/article/2529849-fully-autonomous-drones-have-killed-human-soldiers-for-the-first-time/"
     ]
   ],
   [
     [
-      "2026-06-10, 14:51:11",
-      "https://news.ycombinator.com/item?id=48477208"
+      "2026-06-10, 13:20:23",
+      "https://news.ycombinator.com/item?id=48475898"
     ],
     [
-      "Spoiling Linux Kernel with \"sanctioned\" code",
-      "https://printserver.ink/blog/spoiling-the-kernel/"
+      "Oh good, screwworms are back (2025)",
+      "https://www.marginallycompelling.com/p/oh-good-screwworms-are-back"
     ]
   ],
   [
     [
-      "2026-06-09, 19:35:00",
-      "https://news.ycombinator.com/item?id=48466488"
+      "2026-06-10, 10:37:45",
+      "https://news.ycombinator.com/item?id=48474274"
     ],
     [
-      "Ask HN: Favorite text heavy blogs that are a joy to read?",
-      "https://news.ycombinator.com/item?id=48466488"
+      "Emacs appearances in pop culture",
+      "https://ianyepan.github.io/posts/emacs-in-pop-culture/"
     ]
   ],
   [
     [
-      "2026-06-09, 14:29:34",
-      "https://news.ycombinator.com/item?id=48461635"
+      "2026-06-09, 22:12:20",
+      "https://news.ycombinator.com/item?id=48468495"
     ],
     [
-      "Build a Basic AI Agent from Scratch: Long Task Planning",
-      "https://medium.com/@rogi23696/build-a-basic-ai-agent-from-scratch-long-task-planning-14e803f9bd6d"
+      "Programming a GBA Game on an iPhone",
+      "https://blog.adamledoux.net/posts/2026-06-08-programming-a-gba-game-on-an-iphone.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-09, 16:06:50",
+      "https://news.ycombinator.com/item?id=48462928"
+    ],
+    [
+      "Show HN: Claw Patrol, a security firewall for agents",
+      "https://github.com/denoland/clawpatrol"
+    ]
+  ],
+  [
+    [
+      "2026-06-09, 15:01:43",
+      "https://news.ycombinator.com/item?id=48462070"
+    ],
+    [
+      "macOS 27 Beta breaks the ability to boot Asahi Linux",
+      "https://www.phoronix.com/news/macOS-27-Beta-Breaks-Asahi"
     ]
   ],
   [
@@ -271,12 +231,32 @@
   ],
   [
     [
+      "2026-06-08, 21:02:01",
+      "https://news.ycombinator.com/item?id=48452001"
+    ],
+    [
+      "Developer gets Half-Life running at 30 FPS on a Nokia N95",
+      "https://www.tomshardware.com/video-games/handheld-gaming/developer-gets-half-life-running-at-30-fps-on-a-2007-nokia-n95"
+    ]
+  ],
+  [
+    [
       "2026-06-08, 20:01:51",
       "https://news.ycombinator.com/item?id=48451013"
     ],
     [
       "SVG-Line: Better Status Bars for Emacs – Charlie Holland's Blog",
       "https://www.chiply.dev/post-svg-line"
+    ]
+  ],
+  [
+    [
+      "2026-06-08, 15:30:09",
+      "https://news.ycombinator.com/item?id=48446673"
+    ],
+    [
+      "How Terry Tao became an evangelist for AI in math",
+      "https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/"
     ]
   ],
   [
@@ -297,6 +277,26 @@
     [
       "A new era for software testing",
       "https://antirez.com/news/168"
+    ]
+  ],
+  [
+    [
+      "2026-06-06, 21:00:31",
+      "https://news.ycombinator.com/item?id=48428959"
+    ],
+    [
+      "Discovery of Cold War-era rare Eastern Bloc computers in a German hangar",
+      "https://computerhistory.org/stories/explorers-of-the-lost-computers/"
+    ]
+  ],
+  [
+    [
+      "2026-06-06, 18:09:53",
+      "https://news.ycombinator.com/item?id=48427421"
+    ],
+    [
+      "Vinyl succumbs to Loudness War: more than just collateral damage (2025)",
+      "https://magicvinyldigital.net/2025/04/27/vinyl-succumbs-to-loudness-war-more-than-just-collateral-damage/"
     ]
   ]
 ]
