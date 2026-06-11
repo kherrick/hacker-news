@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-06-11, 00:23:04",
-      "https://news.ycombinator.com/item?id=48484695"
-    ],
-    [
-      "I was tired of repos that say they run but don't",
-      "https://github.com/rossbuckley1990-hash/bootproof"
-    ]
-  ],
-  [
-    [
       "2026-06-11, 00:10:08",
       "https://news.ycombinator.com/item?id=48484584"
     ],
@@ -87,16 +77,6 @@
     [
       "πFS",
       "https://github.com/philipl/pifs"
-    ]
-  ],
-  [
-    [
-      "2026-06-10, 18:45:20",
-      "https://news.ycombinator.com/item?id=48480852"
-    ],
-    [
-      "Anthropic's model naming, extrapolated",
-      "https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated"
     ]
   ],
   [
@@ -191,22 +171,22 @@
   ],
   [
     [
+      "2026-06-10, 14:03:40",
+      "https://news.ycombinator.com/item?id=48476474"
+    ],
+    [
+      "Notes on DeepSeek",
+      "https://news.ycombinator.com/item?id=48476474"
+    ]
+  ],
+  [
+    [
       "2026-06-10, 14:02:59",
       "https://news.ycombinator.com/item?id=48476466"
     ],
     [
       "PgDog is funded and coming to a database near you",
       "https://pgdog.dev/blog/our-funding-announcement"
-    ]
-  ],
-  [
-    [
-      "2026-06-10, 13:39:11",
-      "https://news.ycombinator.com/item?id=48476136"
-    ],
-    [
-      "A €0.01 bank transfer could compromise a banking AI agent",
-      "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/"
     ]
   ],
   [
@@ -227,6 +207,16 @@
     [
       "All 9,300 Japanese train station, animated by the year it opened (1872–2026)",
       "https://jivx.com/eki"
+    ]
+  ],
+  [
+    [
+      "2026-06-10, 02:48:20",
+      "https://news.ycombinator.com/item?id=48470748"
+    ],
+    [
+      "Vacuum-Form Signage",
+      "https://bethmathews.substack.com/p/the-history-behind-the-signs-lighting"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "L'Affaire Siloxane",
       "https://mceglowski.substack.com/p/laffaire-siloxane"
+    ]
+  ],
+  [
+    [
+      "2026-06-08, 19:08:12",
+      "https://news.ycombinator.com/item?id=48450024"
+    ],
+    [
+      "Klondike Solitaire game for curses in 5k of C",
+      "https://nanochess.org/klondike_in_c.html"
     ]
   ],
   [
