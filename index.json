@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-11, 07:35:12",
+      "https://news.ycombinator.com/item?id=48487435"
+    ],
+    [
+      "Sweet Jeebus, macOS 27 Golden Gate Removes the Dumb Icons from Menu Items",
+      "https://daringfireball.net/2026/06/macos_27_golden_gate_removes_the_dumb_icons_from_menu_items"
+    ]
+  ],
+  [
+    [
       "2026-06-11, 06:42:06",
       "https://news.ycombinator.com/item?id=48487029"
     ],
@@ -21,16 +31,6 @@
   ],
   [
     [
-      "2026-06-11, 05:35:06",
-      "https://news.ycombinator.com/item?id=48486577"
-    ],
-    [
-      "Validation, Docs, tests, and database schemas from one source of truth",
-      "https://github.com/justhamade/triadjs"
-    ]
-  ],
-  [
-    [
       "2026-06-11, 01:26:03",
       "https://news.ycombinator.com/item?id=48485160"
     ],
@@ -47,16 +47,6 @@
     [
       "AI agent runs amok in Fedora and elsewhere",
       "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/"
-    ]
-  ],
-  [
-    [
-      "2026-06-10, 23:35:01",
-      "https://news.ycombinator.com/item?id=48484282"
-    ],
-    [
-      "Deficient executive control in transformer attention",
-      "https://academic.oup.com/pnasnexus/article/5/6/pgag149/8698838"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "CSS: Unavoidable Bad Parts",
       "https://matklad.github.io/2026/06/04/css-unavoidable-bad-parts.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-09, 09:50:50",
+      "https://news.ycombinator.com/item?id=48458895"
+    ],
+    [
+      "Linux latency measurements and compositor tuning",
+      "https://farnoy.dev/posts/linux-latency"
     ]
   ],
   [
