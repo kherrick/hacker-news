@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-06-11, 17:47:39](https://news.ycombinator.com/item?id=48493786) - [Show HN: A police department for your Claude Code agents](https://github.com/varmabudharaju/agent-pd/blob/master/README.md)
+* [2026-06-11, 19:23:52](https://news.ycombinator.com/item?id=48495197) - [Who Runs the Ransomware Group 'The Gentlemen?'](https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/)
+* [2026-06-11, 17:28:52](https://news.ycombinator.com/item?id=48493447) - [Building agents without harness engineering](https://rajitkhanna.com/agents/)
 * [2026-06-11, 16:28:24](https://news.ycombinator.com/item?id=48492533) - [Software Is Made Between Commits](https://zed.dev/blog/introducing-deltadb)
 * [2026-06-11, 16:10:05](https://news.ycombinator.com/item?id=48492306) - [Solar generates more energy in US than coal for first time](https://www.theguardian.com/us-news/2026/jun/11/solar-energy-us-coal)
 * [2026-06-11, 16:10:02](https://news.ycombinator.com/item?id=48492304) - [Waymo Premier](https://waymo.com/blog/2026/06/waymo-premier/)
@@ -29,7 +30,6 @@
 * [2026-06-08, 08:57:11](https://news.ycombinator.com/item?id=48442880) - [Doing nothing at work](https://www.seangoedecke.com/doing-nothing-at-work/)
 * [2026-06-07, 09:57:18](https://news.ycombinator.com/item?id=48433351) - [A new era for software testing](https://antirez.com/news/168)
 * [2026-06-06, 21:00:31](https://news.ycombinator.com/item?id=48428959) - [Discovery of Cold War-era rare Eastern Bloc computers in a German hangar](https://computerhistory.org/stories/explorers-of-the-lost-computers/)
-* [2026-06-06, 18:09:53](https://news.ycombinator.com/item?id=48427421) - [Vinyl succumbs to Loudness War: more than just collateral damage (2025)](https://magicvinyldigital.net/2025/04/27/vinyl-succumbs-to-loudness-war-more-than-just-collateral-damage/)
 
 ## [Archives](archives/index.md)
 
