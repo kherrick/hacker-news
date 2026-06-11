@@ -55,6 +55,7 @@
 * [2026-06-08, 13:35:27](https://news.ycombinator.com/item?id=48445171) - [Launch HN: Intuned (YC S22) – Build and run reliable browser automations as code](https://intunedhq.com)
 * [2026-06-08, 13:22:37](https://news.ycombinator.com/item?id=48445028) - [Bit Propagation over a Noisy Grid](https://jasonfantl.com/posts/Propagating-Bit-on-Grid/)
 * [2026-06-08, 13:06:19](https://news.ycombinator.com/item?id=48444871) - [Zig by Example](https://github.com/boringcollege/zig-by-example)
+* [2026-06-08, 13:03:44](https://news.ycombinator.com/item?id=48444841) - [Making a Shading Language for My Offline Renderer](https://agraphicsguynotes.com/posts/making_a_shading_langauge_for_my_offline_renderer/)
 * [2026-06-08, 12:57:54](https://news.ycombinator.com/item?id=48444784) - [Spanish traders set the standard for GnuCash database design](https://handson.money/blog/2026-06-06-horse-arse-and-design/)
 * [2026-06-08, 12:55:01](https://news.ycombinator.com/item?id=48444758) - [Blaise v0.10.0: Native Back End, Threads and Incremental Compilation](https://github.com/graemeg/blaise/discussions/82)
 * [2026-06-08, 12:45:01](https://news.ycombinator.com/item?id=48444654) - [Value Numbering](https://bernsteinbear.com/blog/value-numbering/)
