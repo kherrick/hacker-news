@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-06-11](index.md)
 
+* [2026-06-11, 17:47:39](https://news.ycombinator.com/item?id=48493786) - [Show HN: A police department for your Claude Code agents](https://github.com/varmabudharaju/agent-pd/blob/master/README.md)
 * [2026-06-11, 16:34:11](https://news.ycombinator.com/item?id=48492613) - [Fable 5 lies 96% of the time](https://twitter.com/kradleai/status/2064907897373642912)
 * [2026-06-11, 16:28:24](https://news.ycombinator.com/item?id=48492533) - [Software Is Made Between Commits](https://zed.dev/blog/introducing-deltadb)
 * [2026-06-11, 16:10:05](https://news.ycombinator.com/item?id=48492306) - [Solar generates more energy in US than coal for first time](https://www.theguardian.com/us-news/2026/jun/11/solar-energy-us-coal)
 * [2026-06-11, 16:10:02](https://news.ycombinator.com/item?id=48492304) - [Introducing Waymo Premier, an elevated rider experience](https://waymo.com/blog/2026/06/waymo-premier/)
 * [2026-06-11, 16:03:40](https://news.ycombinator.com/item?id=48492215) - [The RCE that AMD wouldn't fix](https://mrbruh.com/amd2/)
+* [2026-06-11, 16:03:21](https://news.ycombinator.com/item?id=48492210) - [Claude Fable 5: mid-tier results on coding tasks](https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype)
 * [2026-06-11, 15:56:25](https://news.ycombinator.com/item?id=48492118) - [Ask HN: How do you get into a flow state when using AI to code?](https://news.ycombinator.com/item?id=48492118)
 * [2026-06-11, 15:37:23](https://news.ycombinator.com/item?id=48491830) - [Petition to Withdraw Canada's Bill C-22](https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416)
 * [2026-06-11, 15:13:57](https://news.ycombinator.com/item?id=48491486) - [FPS.cob: A first person shooter in COBOL](https://github.com/icitry/FPS.cob)
