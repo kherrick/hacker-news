@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-06-12, 13:22:59",
-      "https://news.ycombinator.com/item?id=48503796"
+      "2026-06-12, 13:51:15",
+      "https://news.ycombinator.com/item?id=48504063"
     ],
     [
-      "The Unsung Hero of the Lord of the Rings",
-      "https://www.theculturist.io/p/the-unsung-hero-of-the-lord-of-the"
+      "WASI 0.3.0 Released",
+      "https://github.com/WebAssembly/WASI/releases/tag/v0.3.0"
     ]
   ],
   [
@@ -17,6 +17,16 @@
     [
       "Hazel (YC W24) Is Hiring a Full Stack Engineer",
       "https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci"
+    ]
+  ],
+  [
+    [
+      "2026-06-12, 12:22:07",
+      "https://news.ycombinator.com/item?id=48503219"
+    ],
+    [
+      "Encrypted Spaces An architecture for collaborative applications",
+      "https://encryptedspaces.org/"
     ]
   ],
   [
@@ -67,16 +77,6 @@
     [
       "The Future of Email",
       "https://www.fastmail.com/blog/the-future-of-email/"
-    ]
-  ],
-  [
-    [
-      "2026-06-12, 07:35:46",
-      "https://news.ycombinator.com/item?id=48501012"
-    ],
-    [
-      "Report on an Unidentified Space Station",
-      "https://sseh.uchicago.edu/doc/roauss.htm"
     ]
   ],
   [
@@ -161,12 +161,12 @@
   ],
   [
     [
-      "2026-06-11, 16:03:40",
-      "https://news.ycombinator.com/item?id=48492215"
+      "2026-06-11, 16:03:21",
+      "https://news.ycombinator.com/item?id=48492210"
     ],
     [
-      "The RCE that AMD wouldn't fix",
-      "https://mrbruh.com/amd2/"
+      "Claude Fable 5: mid-tier results on coding tasks",
+      "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype"
     ]
   ],
   [
