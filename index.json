@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-06-12, 22:56:06",
+      "https://news.ycombinator.com/item?id=48510341"
+    ],
+    [
+      "Show HN: Putt.day a daily mini golf game",
+      "https://putt.day/"
+    ]
+  ],
+  [
+    [
       "2026-06-12, 22:13:29",
       "https://news.ycombinator.com/item?id=48510046"
     ],
     [
       "Twenty One Zero-Days in FFmpeg",
       "https://depthfirst.com/research/21-zero-days-in-ffmpeg"
+    ]
+  ],
+  [
+    [
+      "2026-06-12, 22:08:03",
+      "https://news.ycombinator.com/item?id=48510010"
+    ],
+    [
+      "Renault: Electric motors with no rare earths",
+      "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/"
     ]
   ],
   [
@@ -31,6 +51,16 @@
   ],
   [
     [
+      "2026-06-12, 20:33:22",
+      "https://news.ycombinator.com/item?id=48509133"
+    ],
+    [
+      "/architect: Reduce Fable tokens by 80%, Fable orchestrates/reviews, Codex builds",
+      "https://github.com/DanMcInerney/architect-loop"
+    ]
+  ],
+  [
+    [
       "2026-06-12, 20:14:27",
       "https://news.ycombinator.com/item?id=48508949"
     ],
@@ -47,16 +77,6 @@
     [
       "Swift at Apple: Migrating the TrueType hinting interpreter",
       "https://www.swift.org/blog/migrating-truetype-hinting-to-swift/"
-    ]
-  ],
-  [
-    [
-      "2026-06-12, 18:50:18",
-      "https://news.ycombinator.com/item?id=48507986"
-    ],
-    [
-      "EV demand up 50% in France and Germany since Iran war",
-      "https://www.reuters.com/business/renault-electric-vehicle-orders-have-surged-since-start-iran-war-says-ceo-2026-06-10/"
     ]
   ],
   [
@@ -131,21 +151,11 @@
   ],
   [
     [
-      "2026-06-12, 16:44:47",
-      "https://news.ycombinator.com/item?id=48506372"
-    ],
-    [
-      "Looking Forward to Postgres 19: It's About Time",
-      "https://www.pgedge.com/blog/looking-forward-to-postgres-19-its-about-time"
-    ]
-  ],
-  [
-    [
       "2026-06-12, 16:32:50",
       "https://news.ycombinator.com/item?id=48506209"
     ],
     [
-      "A PDF that changes based on how its read",
+      "Adaptive PDFs",
       "https://sgaud.com/texts/pdf"
     ]
   ],
@@ -211,32 +221,12 @@
   ],
   [
     [
-      "2026-06-12, 13:51:15",
-      "https://news.ycombinator.com/item?id=48504063"
-    ],
-    [
-      "WASI 0.3",
-      "https://bytecodealliance.org/articles/WASI-0.3"
-    ]
-  ],
-  [
-    [
       "2026-06-12, 13:14:18",
       "https://news.ycombinator.com/item?id=48503717"
     ],
     [
       "Hazel (YC W24) Is Hiring a Full Stack Engineer",
       "https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci"
-    ]
-  ],
-  [
-    [
-      "2026-06-12, 12:22:07",
-      "https://news.ycombinator.com/item?id=48503219"
-    ],
-    [
-      "Encrypted Spaces An architecture for collaborative applications",
-      "https://encryptedspaces.org/"
     ]
   ],
   [
@@ -281,11 +271,21 @@
   ],
   [
     [
+      "2026-06-11, 12:37:42",
+      "https://news.ycombinator.com/item?id=48489519"
+    ],
+    [
+      "Enhance RAW image processing with Core Image [video]",
+      "https://developer.apple.com/videos/play/wwdc2026/305/"
+    ]
+  ],
+  [
+    [
       "2026-06-11, 00:00:42",
       "https://news.ycombinator.com/item?id=48484496"
     ],
     [
-      "Congress Just Rushed Through a Disastrous Copyright Office Overhaul",
+      "H.R. 6028 would fundamentally change the U.S. Copyright Office",
       "https://www.eff.org/deeplinks/2026/06/congress-just-rushed-through-disastrous-copyright-office-overhaul"
     ]
   ],
