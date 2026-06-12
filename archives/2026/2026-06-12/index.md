@@ -4,7 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-06-12](index.md)
 
+* [2026-06-12, 15:08:59](https://news.ycombinator.com/item?id=48505161) - [Show HN: Script to bulk delete Claude chats from the web UI](https://github.com/MatteoLeonesi/bulk-delete-claude-chat)
+* [2026-06-12, 14:48:38](https://news.ycombinator.com/item?id=48504912) - [Slightly reducing the sloppiness of AI generated front end](https://envs.net/~volpe/blog/posts/reduce-slop.html)
+* [2026-06-12, 14:41:40](https://news.ycombinator.com/item?id=48504814) - [My Struggles Talking to an Old Piece of Junk (Fanuc 0M)](https://3nt3.de/blog/fanuc-0m-rs232-struggles)
+* [2026-06-12, 14:37:30](https://news.ycombinator.com/item?id=48504753) - [WhatsApp Business API pricing 2026: what's free and where markup hides](https://wexio.io/blog/free-whatsapp-business-api)
+* [2026-06-12, 14:33:29](https://news.ycombinator.com/item?id=48504697) - [A Call to Action: Stop the FCC's KYC Regime](https://blog.lopp.net/call-to-action-stop-the-fcc-kyc-regime/)
+* [2026-06-12, 14:21:30](https://news.ycombinator.com/item?id=48504544) - [How to automate Instagram engagements with computer vision (and get banned)](https://blog.florianherrengt.com/how-to-automate-instagram-engagements.html)
+* [2026-06-12, 14:21:22](https://news.ycombinator.com/item?id=48504543) - [A dumpster arrived behind my university's library](https://yalereview.org/article/sheila-liming-the-end-of-books)
 * [2026-06-12, 13:51:15](https://news.ycombinator.com/item?id=48504063) - [WASI 0.3.0 Released](https://github.com/WebAssembly/WASI/releases/tag/v0.3.0)
+* [2026-06-12, 13:40:23](https://news.ycombinator.com/item?id=48503940) - [European sunscreens are safer than American (2024)](https://www.ms.now/opinion/msnbc-opinion/sunscreen-united-states-fda-ingredients-rcna153526)
 * [2026-06-12, 13:22:59](https://news.ycombinator.com/item?id=48503796) - [The Unsung Hero of the Lord of the Rings](https://www.theculturist.io/p/the-unsung-hero-of-the-lord-of-the)
 * [2026-06-12, 13:14:18](https://news.ycombinator.com/item?id=48503717) - [Hazel (YC W24) Is Hiring a Full Stack Engineer](https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci)
 * [2026-06-12, 12:22:07](https://news.ycombinator.com/item?id=48503219) - [Encrypted Spaces An architecture for collaborative applications](https://encryptedspaces.org/)
