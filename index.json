@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-12, 23:12:39",
+      "https://news.ycombinator.com/item?id=48510471"
+    ],
+    [
+      "I Think They [Anthropic] Are Lying to You [video]",
+      "https://www.youtube.com/watch?v=zfYsSFY4l18"
+    ]
+  ],
+  [
+    [
+      "2026-06-12, 22:57:27",
+      "https://news.ycombinator.com/item?id=48510357"
+    ],
+    [
+      "AMD Stiffs Researcher $10k Bug Bounty",
+      "https://www.gadgetreview.com/amd-stiffs-researcher-10000-bug-bounty-after-critical-security-flaw-takes-124-days-to-fix"
+    ]
+  ],
+  [
+    [
       "2026-06-12, 22:56:06",
       "https://news.ycombinator.com/item?id=48510341"
     ],
@@ -31,22 +51,22 @@
   ],
   [
     [
+      "2026-06-12, 21:49:49",
+      "https://news.ycombinator.com/item?id=48509844"
+    ],
+    [
+      "SkillSpector",
+      "https://github.com/NVIDIA/SkillSpector"
+    ]
+  ],
+  [
+    [
       "2026-06-12, 20:39:36",
       "https://news.ycombinator.com/item?id=48509182"
     ],
     [
       "Palantir loses legal challenge against Swiss investigative magazine",
       "https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979"
-    ]
-  ],
-  [
-    [
-      "2026-06-12, 20:34:42",
-      "https://news.ycombinator.com/item?id=48509143"
-    ],
-    [
-      "Mmorpg World of ClaudeCraft, vibe coded with Fable 5",
-      "https://worldofclaudecraft.com/"
     ]
   ],
   [
@@ -61,32 +81,12 @@
   ],
   [
     [
-      "2026-06-12, 20:14:27",
-      "https://news.ycombinator.com/item?id=48508949"
-    ],
-    [
-      "Can I Buy Your KV Cache?",
-      "https://arxiv.org/abs/2606.13361"
-    ]
-  ],
-  [
-    [
       "2026-06-12, 19:54:27",
       "https://news.ycombinator.com/item?id=48508726"
     ],
     [
       "Swift at Apple: Migrating the TrueType hinting interpreter",
       "https://www.swift.org/blog/migrating-truetype-hinting-to-swift/"
-    ]
-  ],
-  [
-    [
-      "2026-06-12, 18:20:17",
-      "https://news.ycombinator.com/item?id=48507571"
-    ],
-    [
-      "Cosmodial Sky Atlas",
-      "https://killedbyapixel.github.io/Cosmodial/"
     ]
   ],
   [
@@ -211,12 +211,12 @@
   ],
   [
     [
-      "2026-06-12, 14:21:22",
-      "https://news.ycombinator.com/item?id=48504543"
+      "2026-06-12, 13:51:15",
+      "https://news.ycombinator.com/item?id=48504063"
     ],
     [
-      "A dumpster arrived behind my university's library",
-      "https://yalereview.org/article/sheila-liming-the-end-of-books"
+      "WASI 0.3",
+      "https://bytecodealliance.org/articles/WASI-0.3"
     ]
   ],
   [
