@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-06-12, 22:13:29](https://news.ycombinator.com/item?id=48510046) - [Twenty One Zero-Days in FFmpeg](https://depthfirst.com/research/21-zero-days-in-ffmpeg)
 * [2026-06-12, 20:39:36](https://news.ycombinator.com/item?id=48509182) - [Palantir loses legal challenge against Swiss investigative magazine](https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979)
 * [2026-06-12, 20:34:42](https://news.ycombinator.com/item?id=48509143) - [Mmorpg World of ClaudeCraft, vibe coded with Fable 5](https://worldofclaudecraft.com/)
 * [2026-06-12, 20:14:27](https://news.ycombinator.com/item?id=48508949) - [Can I Buy Your KV Cache?](https://arxiv.org/abs/2606.13361)
@@ -19,17 +20,16 @@
 * [2026-06-12, 15:15:24](https://news.ycombinator.com/item?id=48505231) - [CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers](https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/)
 * [2026-06-12, 14:50:06](https://news.ycombinator.com/item?id=48504929) - [Introduction to UEFI HTTP(s) Boot with QEMU/OVMF](https://blog.yadutaf.fr/2026/06/12/introduction-to-uefi-https-boot-qemu-ovmf/)
 * [2026-06-12, 14:48:38](https://news.ycombinator.com/item?id=48504912) - [Slightly reducing the sloppiness of AI generated front end](https://envs.net/~volpe/blog/posts/reduce-slop.html)
-* [2026-06-12, 14:33:29](https://news.ycombinator.com/item?id=48504697) - [A Call to Action: Stop the FCC's KYC Regime](https://blog.lopp.net/call-to-action-stop-the-fcc-kyc-regime/)
 * [2026-06-12, 14:21:22](https://news.ycombinator.com/item?id=48504543) - [A dumpster arrived behind my university's library](https://yalereview.org/article/sheila-liming-the-end-of-books)
 * [2026-06-12, 13:51:15](https://news.ycombinator.com/item?id=48504063) - [WASI 0.3](https://bytecodealliance.org/articles/WASI-0.3)
 * [2026-06-12, 13:14:18](https://news.ycombinator.com/item?id=48503717) - [Hazel (YC W24) Is Hiring a Full Stack Engineer](https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci)
 * [2026-06-12, 12:22:07](https://news.ycombinator.com/item?id=48503219) - [Encrypted Spaces An architecture for collaborative applications](https://encryptedspaces.org/)
 * [2026-06-12, 12:00:02](https://news.ycombinator.com/item?id=48503014) - [Maxproof](https://arxiv.org/abs/2606.13473)
-* [2026-06-12, 10:42:50](https://news.ycombinator.com/item?id=48502347) - [Kimi K2.7-Code: open-source coding model with better token efficiency](https://huggingface.co/moonshotai/Kimi-K2.7-Code)
-* [2026-06-12, 00:38:11](https://news.ycombinator.com/item?id=48498385) - [Nobody ever gets credit for fixing problems that never happened (2001) [pdf]](https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf)
 * [2026-06-11, 23:01:55](https://news.ycombinator.com/item?id=48497609) - [If you are asking for human attention, demonstrate human effort](https://tombedor.dev/human-attention-and-human-effort/)
 * [2026-06-11, 20:24:18](https://news.ycombinator.com/item?id=48495928) - [Malware developers added nuclear and biological weapons text to to their spyware](https://twitter.com/jsrailton/status/2064661778978533571)
 * [2026-06-11, 17:32:35](https://news.ycombinator.com/item?id=48493512) - [There Is Life Before Main in Rust](https://grack.com/blog/2026/06/11/life-before-main/)
+* [2026-06-11, 00:00:42](https://news.ycombinator.com/item?id=48484496) - [Congress Just Rushed Through a Disastrous Copyright Office Overhaul](https://www.eff.org/deeplinks/2026/06/congress-just-rushed-through-disastrous-copyright-office-overhaul)
+* [2026-06-10, 14:39:57](https://news.ycombinator.com/item?id=48477001) - [Show HN: Turn your name into a tree in an infinite procedural shanshui landscape](https://landscape.bairui.dev/)
 
 ## [Archives](archives/index.md)
 

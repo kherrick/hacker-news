@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-12](index.md)
 
+* [2026-06-12, 22:13:29](https://news.ycombinator.com/item?id=48510046) - [Twenty One Zero-Days in FFmpeg](https://depthfirst.com/research/21-zero-days-in-ffmpeg)
 * [2026-06-12, 20:39:36](https://news.ycombinator.com/item?id=48509182) - [Palantir loses legal challenge against Swiss investigative magazine](https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979)
 * [2026-06-12, 20:34:42](https://news.ycombinator.com/item?id=48509143) - [Mmorpg World of ClaudeCraft, vibe coded with Fable 5](https://worldofclaudecraft.com/)
 * [2026-06-12, 20:14:27](https://news.ycombinator.com/item?id=48508949) - [Can I Buy Your KV Cache?](https://arxiv.org/abs/2606.13361)

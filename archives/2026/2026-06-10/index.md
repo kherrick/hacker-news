@@ -39,6 +39,7 @@
 * [2026-06-10, 15:01:06](https://news.ycombinator.com/item?id=48477400) - [Apache Burr: Build reliable AI agents and applications](https://burr.apache.org/)
 * [2026-06-10, 14:51:11](https://news.ycombinator.com/item?id=48477208) - [Spoiling Linux Kernel with \"sanctioned\" code](https://printserver.ink/blog/spoiling-the-kernel/)
 * [2026-06-10, 14:47:52](https://news.ycombinator.com/item?id=48477135) - [AMA: I'm Eric Ries (The Lean Startup) & Author of New Bestseller Incorruptible](https://news.ycombinator.com/item?id=48477135)
+* [2026-06-10, 14:39:57](https://news.ycombinator.com/item?id=48477001) - [Show HN: Turn your name into a tree in an infinite procedural shanshui landscape](https://landscape.bairui.dev/)
 * [2026-06-10, 14:23:12](https://news.ycombinator.com/item?id=48476751) - [Britain Became as Poor as Mississippi](https://www.theatlantic.com/magazine/2026/07/uk-productivity-economy-reform-party/687303/)
 * [2026-06-10, 14:06:22](https://news.ycombinator.com/item?id=48476514) - [GnuCash is right. It's also why I built my own finance app](https://k-id.app/blog/gnucash-is-right/)
 * [2026-06-10, 14:03:40](https://news.ycombinator.com/item?id=48476474) - [Notes on DeepSeek](https://twitter.com/NikoMcCarty/status/2064686557400100884)
