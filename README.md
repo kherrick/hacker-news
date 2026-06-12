@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-06-12, 19:54:27](https://news.ycombinator.com/item?id=48508726) - [Swift at Apple: Migrating the TrueType Hinting Interpreter](https://www.swift.org/blog/migrating-truetype-hinting-to-swift/)
+* [2026-06-12, 18:50:18](https://news.ycombinator.com/item?id=48507986) - [EV demand up 50% in France and Germany since Iran war](https://www.reuters.com/business/renault-electric-vehicle-orders-have-surged-since-start-iran-war-says-ceo-2026-06-10/)
 * [2026-06-12, 18:20:17](https://news.ycombinator.com/item?id=48507571) - [Cosmodial Sky Atlas](https://killedbyapixel.github.io/Cosmodial/)
 * [2026-06-12, 17:53:20](https://news.ycombinator.com/item?id=48507282) - [I Am Not a Reverse Centaur](https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur)
 * [2026-06-12, 17:52:46](https://news.ycombinator.com/item?id=48507278) - [\"Don't You Just Upload It to ChatGPT?\"](https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/)
@@ -11,9 +13,9 @@
 * [2026-06-12, 16:41:16](https://news.ycombinator.com/item?id=48506324) - [New privacy frontier: Europe eyes crackdown on smart glasses](https://www.politico.com/www.politico.eu/article/new-privacy-frontier-europe-eyes-crackdown-smart-glasses/)
 * [2026-06-12, 16:32:50](https://news.ycombinator.com/item?id=48506209) - [A PDF that changes based on how its read](https://sgaud.com/texts/pdf)
 * [2026-06-12, 15:32:56](https://news.ycombinator.com/item?id=48505452) - [Where Did Earth Get Its Oceans? Maybe It Made Them Itself](https://www.quantamagazine.org/where-did-earth-get-its-oceans-maybe-it-made-them-itself-20260612/)
+* [2026-06-12, 15:31:50](https://news.ycombinator.com/item?id=48505435) - [You can power on a Mac remotely](https://www.jeffgeerling.com/blog/2026/power-on-your-mac-remotely/)
 * [2026-06-12, 15:26:12](https://news.ycombinator.com/item?id=48505364) - [Show HN: StackScope – I crawled over 40k indie launches to see what they ship](https://stackscope.dev/)
 * [2026-06-12, 15:15:24](https://news.ycombinator.com/item?id=48505231) - [CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers](https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/)
-* [2026-06-12, 15:08:59](https://news.ycombinator.com/item?id=48505161) - [Show HN: Script to bulk delete Claude chats from the web UI](https://github.com/MatteoLeonesi/bulk-delete-claude-chat)
 * [2026-06-12, 14:50:06](https://news.ycombinator.com/item?id=48504929) - [Introduction to UEFI HTTP(s) Boot with QEMU/OVMF](https://blog.yadutaf.fr/2026/06/12/introduction-to-uefi-https-boot-qemu-ovmf/)
 * [2026-06-12, 14:48:38](https://news.ycombinator.com/item?id=48504912) - [Slightly reducing the sloppiness of AI generated front end](https://envs.net/~volpe/blog/posts/reduce-slop.html)
 * [2026-06-12, 14:33:29](https://news.ycombinator.com/item?id=48504697) - [A Call to Action: Stop the FCC's KYC Regime](https://blog.lopp.net/call-to-action-stop-the-fcc-kyc-regime/)
@@ -23,13 +25,11 @@
 * [2026-06-12, 12:22:07](https://news.ycombinator.com/item?id=48503219) - [Encrypted Spaces An architecture for collaborative applications](https://encryptedspaces.org/)
 * [2026-06-12, 12:00:02](https://news.ycombinator.com/item?id=48503014) - [Maxproof](https://arxiv.org/abs/2606.13473)
 * [2026-06-12, 10:42:50](https://news.ycombinator.com/item?id=48502347) - [Kimi K2.7-Code: open-source coding model with better token efficiency](https://huggingface.co/moonshotai/Kimi-K2.7-Code)
-* [2026-06-12, 04:42:53](https://news.ycombinator.com/item?id=48500012) - [AI agent bankrupted their operator while trying to scan DN42](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/)
 * [2026-06-12, 00:38:11](https://news.ycombinator.com/item?id=48498385) - [Nobody ever gets credit for fixing problems that never happened (2001) [pdf]](https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf)
 * [2026-06-11, 23:01:55](https://news.ycombinator.com/item?id=48497609) - [If you are asking for human attention, demonstrate human effort](https://tombedor.dev/human-attention-and-human-effort/)
 * [2026-06-11, 22:59:22](https://news.ycombinator.com/item?id=48497576) - [A jacket that harvests drinking water from the air](https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/)
 * [2026-06-11, 20:24:18](https://news.ycombinator.com/item?id=48495928) - [Malware developers added nuclear and biological weapons text to to their spyware](https://twitter.com/jsrailton/status/2064661778978533571)
 * [2026-06-11, 17:32:35](https://news.ycombinator.com/item?id=48493512) - [There Is Life Before Main in Rust](https://grack.com/blog/2026/06/11/life-before-main/)
-* [2026-06-06, 18:09:53](https://news.ycombinator.com/item?id=48427421) - [Vinyl succumbs to Loudness War: more than just collateral damage (2025)](https://magicvinyldigital.net/2025/04/27/vinyl-succumbs-to-loudness-war-more-than-just-collateral-damage/)
 
 ## [Archives](archives/index.md)
 

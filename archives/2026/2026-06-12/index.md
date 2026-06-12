@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-12](index.md)
 
+* [2026-06-12, 19:54:27](https://news.ycombinator.com/item?id=48508726) - [Swift at Apple: Migrating the TrueType Hinting Interpreter](https://www.swift.org/blog/migrating-truetype-hinting-to-swift/)
+* [2026-06-12, 18:50:18](https://news.ycombinator.com/item?id=48507986) - [EV demand up 50% in France and Germany since Iran war](https://www.reuters.com/business/renault-electric-vehicle-orders-have-surged-since-start-iran-war-says-ceo-2026-06-10/)
 * [2026-06-12, 18:40:47](https://news.ycombinator.com/item?id=48507836) - [A Peter Thiel-Backed Tribunal Is Putting Journalists on Trial](https://www.hollywoodreporter.com/business/business-news/peter-thiel-tribunal-journalists-trial-1236617579/)
 * [2026-06-12, 18:37:25](https://news.ycombinator.com/item?id=48507783) - [I Won't Buy You a Coffee](https://hakkerman.eu/blog/i-wont-buy-you-a-coffee/)
 * [2026-06-12, 18:20:17](https://news.ycombinator.com/item?id=48507571) - [Cosmodial Sky Atlas](https://killedbyapixel.github.io/Cosmodial/)
@@ -22,6 +24,7 @@
 * [2026-06-12, 15:51:54](https://news.ycombinator.com/item?id=48505690) - [Euro-Office, open standards, and native ODF](https://blog.documentfoundation.org/blog/2026/06/11/euro-office-open-standards-and-native-odf/)
 * [2026-06-12, 15:42:04](https://news.ycombinator.com/item?id=48505561) - [Keygen.music](https://keygen.music)
 * [2026-06-12, 15:32:56](https://news.ycombinator.com/item?id=48505452) - [Where Did Earth Get Its Oceans? Maybe It Made Them Itself](https://www.quantamagazine.org/where-did-earth-get-its-oceans-maybe-it-made-them-itself-20260612/)
+* [2026-06-12, 15:31:50](https://news.ycombinator.com/item?id=48505435) - [You can power on a Mac remotely](https://www.jeffgeerling.com/blog/2026/power-on-your-mac-remotely/)
 * [2026-06-12, 15:26:12](https://news.ycombinator.com/item?id=48505364) - [Show HN: StackScope – I crawled over 40k indie launches to see what they ship](https://stackscope.dev/)
 * [2026-06-12, 15:15:24](https://news.ycombinator.com/item?id=48505231) - [CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers](https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/)
 * [2026-06-12, 15:08:59](https://news.ycombinator.com/item?id=48505161) - [Show HN: Script to bulk delete Claude chats from the web UI](https://github.com/MatteoLeonesi/bulk-delete-claude-chat)
