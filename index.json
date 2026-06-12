@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-06-12, 10:38:31",
+      "https://news.ycombinator.com/item?id=48502321"
+    ],
+    [
+      "The Future of Email",
+      "https://www.fastmail.com/blog/the-future-of-email/"
+    ]
+  ],
+  [
+    [
       "2026-06-12, 07:35:46",
       "https://news.ycombinator.com/item?id=48501012"
     ],
     [
       "Report on an Unidentified Space Station",
       "https://sseh.uchicago.edu/doc/roauss.htm"
+    ]
+  ],
+  [
+    [
+      "2026-06-12, 05:59:39",
+      "https://news.ycombinator.com/item?id=48500447"
+    ],
+    [
+      "AUR Packages Compromised with Infostealer and Rootkit",
+      "https://discourse.ifin.network/t/400-aur-packages-compromised-with-infostealer-and-rootkit/577"
     ]
   ],
   [
@@ -91,22 +111,12 @@
   ],
   [
     [
-      "2026-06-11, 18:46:22",
-      "https://news.ycombinator.com/item?id=48494716"
+      "2026-06-11, 20:55:18",
+      "https://news.ycombinator.com/item?id=48496278"
     ],
     [
-      "Finding Optimal Tokenizers",
-      "https://blog.aqnichol.com/2026/06/10/optimal-tokenizers/"
-    ]
-  ],
-  [
-    [
-      "2026-06-11, 17:35:19",
-      "https://news.ycombinator.com/item?id=48493564"
-    ],
-    [
-      "Apple didn't revolutionize power supplies; new transistors did (2012)",
-      "https://www.righto.com/2012/02/apple-didnt-revolutionize-power.html"
+      "Trying to fix complicated problems",
+      "https://blog.griffens.net/blog/trying-to-fix-complicated-problems/"
     ]
   ],
   [
@@ -127,16 +137,6 @@
     [
       "Software is made between commits",
       "https://zed.dev/blog/introducing-deltadb"
-    ]
-  ],
-  [
-    [
-      "2026-06-11, 16:10:02",
-      "https://news.ycombinator.com/item?id=48492304"
-    ],
-    [
-      "Waymo Premier",
-      "https://waymo.com/blog/2026/06/waymo-premier/"
     ]
   ],
   [
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2026-06-11, 08:38:00",
+      "https://news.ycombinator.com/item?id=48487829"
+    ],
+    [
+      "Making a vintage LLM from scratch",
+      "https://crlf.link/log/entries/260525-1/"
+    ]
+  ],
+  [
+    [
       "2026-06-10, 17:03:48",
       "https://news.ycombinator.com/item?id=48479314"
     ],
@@ -267,16 +277,6 @@
     [
       "Ear Training Practice",
       "https://tonedear.com/"
-    ]
-  ],
-  [
-    [
-      "2026-06-08, 15:40:41",
-      "https://news.ycombinator.com/item?id=48446809"
-    ],
-    [
-      "Speech Plus Prose 2000 vintage speech synthesizer, as used by Stephen Hawking [video]",
-      "https://www.youtube.com/watch?v=K4E01_ZfO5I"
     ]
   ],
   [
