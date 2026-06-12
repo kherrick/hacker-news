@@ -6,6 +6,7 @@
 
 * [2026-06-09, 23:44:16](https://news.ycombinator.com/item?id=48469347) - [It's Death](https://jesseduffield.com/ITS-DEATH/)
 * [2026-06-09, 23:03:40](https://news.ycombinator.com/item?id=48469039) - [Show HN: Nucleus – A security-hardened, Nix-native container runtime](https://github.com/sig-id/nucleus)
+* [2026-06-09, 22:44:28](https://news.ycombinator.com/item?id=48468852) - [How we made hit video game Prince of Persia](https://www.theguardian.com/culture/2026/jan/05/raiders-of-the-lost-ark-hit-video-game-prince-of-persia)
 * [2026-06-09, 22:37:49](https://news.ycombinator.com/item?id=48468789) - [AI misidentification results in wrongful arrest; man seeks justice](https://www.wsoctv.com/news/local/ai-misidentification-results-wrongful-arrest-man-seeks-justice/I7UQJWV33FBN3LMKHCSXI6FIVA/)
 * [2026-06-09, 22:35:57](https://news.ycombinator.com/item?id=48468766) - [RIP software hackathons. Long live the hardware hackathon](https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/)
 * [2026-06-09, 22:12:20](https://news.ycombinator.com/item?id=48468495) - [Programming a GBA Game on an iPhone](https://blog.adamledoux.net/posts/2026-06-08-programming-a-gba-game-on-an-iphone.html)
