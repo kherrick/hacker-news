@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-12, 05:53:19",
+      "https://news.ycombinator.com/item?id=48500404"
+    ],
+    [
+      "Digital Sovereignty Becomes an Imperative as the US Reads Dutch Emails",
+      "https://www.korte.co/2026/06/11/digital-sovereignty-becomes-an-imparative-as-the-us-reads-dutch-emails/"
+    ]
+  ],
+  [
+    [
       "2026-06-12, 04:42:53",
       "https://news.ycombinator.com/item?id=48500012"
     ],
@@ -81,12 +91,12 @@
   ],
   [
     [
-      "2026-06-11, 20:52:26",
-      "https://news.ycombinator.com/item?id=48496250"
+      "2026-06-11, 18:46:22",
+      "https://news.ycombinator.com/item?id=48494716"
     ],
     [
-      "Show HN: Boo – Screen-style terminal multiplexer built on libghostty",
-      "https://github.com/coder/boo"
+      "Finding Optimal Tokenizers",
+      "https://blog.aqnichol.com/2026/06/10/optimal-tokenizers/"
     ]
   ],
   [
@@ -151,42 +161,12 @@
   ],
   [
     [
-      "2026-06-11, 16:01:01",
-      "https://news.ycombinator.com/item?id=48492177"
-    ],
-    [
-      "MTG Bench: Testing how well LLMs can play Magic",
-      "https://mtgautodeck.com/articles/mtg-bench/"
-    ]
-  ],
-  [
-    [
       "2026-06-11, 15:37:23",
       "https://news.ycombinator.com/item?id=48491830"
     ],
     [
       "Petition to Withdraw Canada's Bill C-22",
       "https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416"
-    ]
-  ],
-  [
-    [
-      "2026-06-11, 15:13:57",
-      "https://news.ycombinator.com/item?id=48491486"
-    ],
-    [
-      "FPS.cob: A first person shooter in COBOL",
-      "https://github.com/icitry/FPS.cob"
-    ]
-  ],
-  [
-    [
-      "2026-06-11, 14:35:41",
-      "https://news.ycombinator.com/item?id=48490939"
-    ],
-    [
-      "How a new DSL may survive in the era of LLMs",
-      "https://www.williamcotton.com/articles/how-a-new-dsl-survives-in-the-era-of-llms"
     ]
   ],
   [
@@ -211,16 +191,6 @@
   ],
   [
     [
-      "2026-06-11, 13:14:31",
-      "https://news.ycombinator.com/item?id=48489917"
-    ],
-    [
-      "Open Reproduction of DeepSeek-R1",
-      "https://github.com/huggingface/open-r1"
-    ]
-  ],
-  [
-    [
       "2026-06-11, 12:26:42",
       "https://news.ycombinator.com/item?id=48489402"
     ],
@@ -237,6 +207,16 @@
     [
       "Anthropic apologizes for invisible Claude Fable guardrails",
       "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail"
+    ]
+  ],
+  [
+    [
+      "2026-06-11, 11:56:17",
+      "https://news.ycombinator.com/item?id=48489151"
+    ],
+    [
+      "A Commons of Software Productive Infrastructure, by and for Capital",
+      "https://marewolf.me/posts/draupnir/26/software-productive-infrastructure.html"
     ]
   ],
   [
@@ -297,6 +277,26 @@
     [
       "Ear Training Practice",
       "https://tonedear.com/"
+    ]
+  ],
+  [
+    [
+      "2026-06-08, 15:30:09",
+      "https://news.ycombinator.com/item?id=48446673"
+    ],
+    [
+      "How Terry Tao became an evangelist for AI in math",
+      "https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/"
+    ]
+  ],
+  [
+    [
+      "2026-06-06, 18:09:53",
+      "https://news.ycombinator.com/item?id=48427421"
+    ],
+    [
+      "Vinyl succumbs to Loudness War: more than just collateral damage (2025)",
+      "https://magicvinyldigital.net/2025/04/27/vinyl-succumbs-to-loudness-war-more-than-just-collateral-damage/"
     ]
   ]
 ]
