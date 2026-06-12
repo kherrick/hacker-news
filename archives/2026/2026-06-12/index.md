@@ -4,7 +4,16 @@
 
 ### [Archives](../../index.md) for [2026-06-12](index.md)
 
+* [2026-06-12, 17:00:40](https://news.ycombinator.com/item?id=48506575) - [Gauntlet AI will fly you to Austin, train you in AI, give $200k+ job](https://apply.gauntletai.com/register/champions?utm_source=Third%20Party&utm_campaign=Hacker%20News&utm_medium=organic&utm_content=HN)
+* [2026-06-12, 16:58:03](https://news.ycombinator.com/item?id=48506545) - [Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents](https://bitboard.work/)
+* [2026-06-12, 16:32:50](https://news.ycombinator.com/item?id=48506209) - [A PDF that changes based on who is reading](https://sgaud.com/texts/pdf)
+* [2026-06-12, 15:51:54](https://news.ycombinator.com/item?id=48505690) - [Euro-Office, open standards, and native ODF](https://blog.documentfoundation.org/blog/2026/06/11/euro-office-open-standards-and-native-odf/)
+* [2026-06-12, 15:42:04](https://news.ycombinator.com/item?id=48505561) - [Keygen.music](https://keygen.music)
+* [2026-06-12, 15:32:56](https://news.ycombinator.com/item?id=48505452) - [Where Did Earth Get Its Oceans? Maybe It Made Them Itself](https://www.quantamagazine.org/where-did-earth-get-its-oceans-maybe-it-made-them-itself-20260612/)
+* [2026-06-12, 15:26:12](https://news.ycombinator.com/item?id=48505364) - [Show HN: StackScope – I crawled over 40k indie launches to see what they ship](https://stackscope.dev/)
+* [2026-06-12, 15:15:24](https://news.ycombinator.com/item?id=48505231) - [CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers](https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/)
 * [2026-06-12, 15:08:59](https://news.ycombinator.com/item?id=48505161) - [Show HN: Script to bulk delete Claude chats from the web UI](https://github.com/MatteoLeonesi/bulk-delete-claude-chat)
+* [2026-06-12, 14:50:06](https://news.ycombinator.com/item?id=48504929) - [Introduction to UEFI HTTP(s) Boot with QEMU/OVMF](https://blog.yadutaf.fr/2026/06/12/introduction-to-uefi-https-boot-qemu-ovmf/)
 * [2026-06-12, 14:48:38](https://news.ycombinator.com/item?id=48504912) - [Slightly reducing the sloppiness of AI generated front end](https://envs.net/~volpe/blog/posts/reduce-slop.html)
 * [2026-06-12, 14:41:40](https://news.ycombinator.com/item?id=48504814) - [My Struggles Talking to an Old Piece of Junk (Fanuc 0M)](https://3nt3.de/blog/fanuc-0m-rs232-struggles)
 * [2026-06-12, 14:37:30](https://news.ycombinator.com/item?id=48504753) - [WhatsApp Business API pricing 2026: what's free and where markup hides](https://wexio.io/blog/free-whatsapp-business-api)
