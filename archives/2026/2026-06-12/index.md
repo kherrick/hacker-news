@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-06-12](index.md)
 
+* [2026-06-12, 20:39:36](https://news.ycombinator.com/item?id=48509182) - [Palantir loses legal challenge against Swiss investigative magazine](https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979)
+* [2026-06-12, 20:34:42](https://news.ycombinator.com/item?id=48509143) - [Mmorpg World of ClaudeCraft, vibe coded with Fable 5](https://worldofclaudecraft.com/)
+* [2026-06-12, 20:14:27](https://news.ycombinator.com/item?id=48508949) - [Can I Buy Your KV Cache?](https://arxiv.org/abs/2606.13361)
 * [2026-06-12, 19:54:27](https://news.ycombinator.com/item?id=48508726) - [Swift at Apple: Migrating the TrueType Hinting Interpreter](https://www.swift.org/blog/migrating-truetype-hinting-to-swift/)
 * [2026-06-12, 18:50:18](https://news.ycombinator.com/item?id=48507986) - [EV demand up 50% in France and Germany since Iran war](https://www.reuters.com/business/renault-electric-vehicle-orders-have-surged-since-start-iran-war-says-ceo-2026-06-10/)
 * [2026-06-12, 18:40:47](https://news.ycombinator.com/item?id=48507836) - [A Peter Thiel-Backed Tribunal Is Putting Journalists on Trial](https://www.hollywoodreporter.com/business/business-news/peter-thiel-tribunal-journalists-trial-1236617579/)
 * [2026-06-12, 18:37:25](https://news.ycombinator.com/item?id=48507783) - [I Won't Buy You a Coffee](https://hakkerman.eu/blog/i-wont-buy-you-a-coffee/)
 * [2026-06-12, 18:20:17](https://news.ycombinator.com/item?id=48507571) - [Cosmodial Sky Atlas](https://killedbyapixel.github.io/Cosmodial/)
+* [2026-06-12, 18:15:19](https://news.ycombinator.com/item?id=48507499) - [Most Beautiful Will Ever Made (1936)](https://paperspast.natlib.govt.nz/newspapers/DOM19360307.2.43)
 * [2026-06-12, 17:53:20](https://news.ycombinator.com/item?id=48507282) - [I Am Not a Reverse Centaur](https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur)
 * [2026-06-12, 17:52:46](https://news.ycombinator.com/item?id=48507278) - [\"Don't You Just Upload It to ChatGPT?\"](https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/)
 * [2026-06-12, 17:49:48](https://news.ycombinator.com/item?id=48507248) - [Tesla Full Self Driving uses bicycle lane in official Denmark approval video](https://politiken.dk/danmark/forbrug/biler/art10875514/Allerede-12-sekunder-inde-i-PR-videoen-beg%C3%A5r-selvk%C3%B8rende-Tesla-f%C3%B8rste-fejl-i-k%C3%B8benhavnsk-gade-%E2%80%93-men-det-bliver-v%C3%A6rre-endnu)
