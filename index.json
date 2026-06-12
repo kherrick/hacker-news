@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-12, 19:54:27",
+      "https://news.ycombinator.com/item?id=48508726"
+    ],
+    [
+      "Swift at Apple: Migrating the TrueType Hinting Interpreter",
+      "https://www.swift.org/blog/migrating-truetype-hinting-to-swift/"
+    ]
+  ],
+  [
+    [
+      "2026-06-12, 18:50:18",
+      "https://news.ycombinator.com/item?id=48507986"
+    ],
+    [
+      "EV demand up 50% in France and Germany since Iran war",
+      "https://www.reuters.com/business/renault-electric-vehicle-orders-have-surged-since-start-iran-war-says-ceo-2026-06-10/"
+    ]
+  ],
+  [
+    [
       "2026-06-12, 18:20:17",
       "https://news.ycombinator.com/item?id=48507571"
     ],
@@ -111,6 +131,16 @@
   ],
   [
     [
+      "2026-06-12, 15:31:50",
+      "https://news.ycombinator.com/item?id=48505435"
+    ],
+    [
+      "You can power on a Mac remotely",
+      "https://www.jeffgeerling.com/blog/2026/power-on-your-mac-remotely/"
+    ]
+  ],
+  [
+    [
       "2026-06-12, 15:26:12",
       "https://news.ycombinator.com/item?id=48505364"
     ],
@@ -127,16 +157,6 @@
     [
       "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
       "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/"
-    ]
-  ],
-  [
-    [
-      "2026-06-12, 15:08:59",
-      "https://news.ycombinator.com/item?id=48505161"
-    ],
-    [
-      "Show HN: Script to bulk delete Claude chats from the web UI",
-      "https://github.com/MatteoLeonesi/bulk-delete-claude-chat"
     ]
   ],
   [
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2026-06-12, 04:42:53",
-      "https://news.ycombinator.com/item?id=48500012"
-    ],
-    [
-      "AI agent bankrupted their operator while trying to scan DN42",
-      "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/"
-    ]
-  ],
-  [
-    [
       "2026-06-12, 00:38:11",
       "https://news.ycombinator.com/item?id=48498385"
     ],
@@ -287,16 +297,6 @@
     [
       "There Is Life Before Main in Rust",
       "https://grack.com/blog/2026/06/11/life-before-main/"
-    ]
-  ],
-  [
-    [
-      "2026-06-06, 18:09:53",
-      "https://news.ycombinator.com/item?id=48427421"
-    ],
-    [
-      "Vinyl succumbs to Loudness War: more than just collateral damage (2025)",
-      "https://magicvinyldigital.net/2025/04/27/vinyl-succumbs-to-loudness-war-more-than-just-collateral-damage/"
     ]
   ]
 ]
