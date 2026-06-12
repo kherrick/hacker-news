@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-12, 22:13:29",
+      "https://news.ycombinator.com/item?id=48510046"
+    ],
+    [
+      "Twenty One Zero-Days in FFmpeg",
+      "https://depthfirst.com/research/21-zero-days-in-ffmpeg"
+    ]
+  ],
+  [
+    [
       "2026-06-12, 20:39:36",
       "https://news.ycombinator.com/item?id=48509182"
     ],
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2026-06-12, 14:33:29",
-      "https://news.ycombinator.com/item?id=48504697"
-    ],
-    [
-      "A Call to Action: Stop the FCC's KYC Regime",
-      "https://blog.lopp.net/call-to-action-stop-the-fcc-kyc-regime/"
-    ]
-  ],
-  [
-    [
       "2026-06-12, 14:21:22",
       "https://news.ycombinator.com/item?id=48504543"
     ],
@@ -251,26 +251,6 @@
   ],
   [
     [
-      "2026-06-12, 10:42:50",
-      "https://news.ycombinator.com/item?id=48502347"
-    ],
-    [
-      "Kimi K2.7-Code: open-source coding model with better token efficiency",
-      "https://huggingface.co/moonshotai/Kimi-K2.7-Code"
-    ]
-  ],
-  [
-    [
-      "2026-06-12, 00:38:11",
-      "https://news.ycombinator.com/item?id=48498385"
-    ],
-    [
-      "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
-      "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf"
-    ]
-  ],
-  [
-    [
       "2026-06-11, 23:01:55",
       "https://news.ycombinator.com/item?id=48497609"
     ],
@@ -297,6 +277,26 @@
     [
       "There Is Life Before Main in Rust",
       "https://grack.com/blog/2026/06/11/life-before-main/"
+    ]
+  ],
+  [
+    [
+      "2026-06-11, 00:00:42",
+      "https://news.ycombinator.com/item?id=48484496"
+    ],
+    [
+      "Congress Just Rushed Through a Disastrous Copyright Office Overhaul",
+      "https://www.eff.org/deeplinks/2026/06/congress-just-rushed-through-disastrous-copyright-office-overhaul"
+    ]
+  ],
+  [
+    [
+      "2026-06-10, 14:39:57",
+      "https://news.ycombinator.com/item?id=48477001"
+    ],
+    [
+      "Show HN: Turn your name into a tree in an infinite procedural shanshui landscape",
+      "https://landscape.bairui.dev/"
     ]
   ]
 ]
