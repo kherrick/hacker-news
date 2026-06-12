@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-06-11, 23:33:17",
-      "https://news.ycombinator.com/item?id=48497873"
+      "2026-06-12, 00:38:11",
+      "https://news.ycombinator.com/item?id=48498385"
     ],
     [
-      "Biological Evolution and Information Acquisition",
-      "https://www.construction-physics.com/p/biological-evolution-and-information"
+      "Nobody ever gets credit for fixing problems that never happened (2002) [pdf]",
+      "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf"
     ]
   ],
   [
@@ -25,18 +25,8 @@
       "https://news.ycombinator.com/item?id=48497576"
     ],
     [
-      "A jacket that harvests drinking water directly from the air",
+      "A jacket that harvests drinking water from the air",
       "https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/"
-    ]
-  ],
-  [
-    [
-      "2026-06-11, 22:17:08",
-      "https://news.ycombinator.com/item?id=48497168"
-    ],
-    [
-      "The unreasonable effectiveness of simple HTML (2021)",
-      "https://shkspr.mobi/blog/2021/01/the-unreasonable-effectiveness-of-simple-html/"
     ]
   ],
   [
@@ -55,18 +45,8 @@
       "https://news.ycombinator.com/item?id=48496483"
     ],
     [
-      "Tailwind and Slop Apps",
+      "Tailwind and slop apps",
       "https://briandouglas.ie/llm-tailwind-template/"
-    ]
-  ],
-  [
-    [
-      "2026-06-11, 20:55:18",
-      "https://news.ycombinator.com/item?id=48496278"
-    ],
-    [
-      "Trying to fix complicated problems",
-      "https://blog.griffens.net/blog/trying-to-fix-complicated-problems/"
     ]
   ],
   [
@@ -97,16 +77,6 @@
     [
       "Shall we play a game? My AI nuclear simulation",
       "https://www.kennethpayne.uk/p/shall-we-play-a-game"
-    ]
-  ],
-  [
-    [
-      "2026-06-11, 18:46:22",
-      "https://news.ycombinator.com/item?id=48494716"
-    ],
-    [
-      "Finding Optimal Tokenizers",
-      "https://blog.aqnichol.com/2026/06/10/optimal-tokenizers/"
     ]
   ],
   [
@@ -191,6 +161,16 @@
   ],
   [
     [
+      "2026-06-11, 14:35:41",
+      "https://news.ycombinator.com/item?id=48490939"
+    ],
+    [
+      "How a new DSL may survive in the era of LLMs",
+      "https://www.williamcotton.com/articles/how-a-new-dsl-survives-in-the-era-of-llms"
+    ]
+  ],
+  [
+    [
       "2026-06-11, 14:27:19",
       "https://news.ycombinator.com/item?id=48490826"
     ],
@@ -241,6 +221,46 @@
   ],
   [
     [
+      "2026-06-11, 08:38:00",
+      "https://news.ycombinator.com/item?id=48487829"
+    ],
+    [
+      "Making a vintage LLM from scratch",
+      "https://crlf.link/log/entries/260525-1/"
+    ]
+  ],
+  [
+    [
+      "2026-06-11, 07:06:40",
+      "https://news.ycombinator.com/item?id=48487229"
+    ],
+    [
+      "A greyscale iPhone setup that works in everyday life",
+      "https://www.fabianhemmert.com/opinions/a-greyscale-iphone-setup-that-works-in-everyday-life"
+    ]
+  ],
+  [
+    [
+      "2026-06-10, 17:03:48",
+      "https://news.ycombinator.com/item?id=48479314"
+    ],
+    [
+      "Reading for pleasure is sharply down among schoolkids, report shows",
+      "https://www.nbcnews.com/data-graphics/kids-reading-less-lower-levels-department-education-study-rcna348987"
+    ]
+  ],
+  [
+    [
+      "2026-06-10, 16:28:30",
+      "https://news.ycombinator.com/item?id=48478766"
+    ],
+    [
+      "Babel-USB: USB drive with every file",
+      "https://github.com/p2r3/babel-usb"
+    ]
+  ],
+  [
+    [
       "2026-06-10, 10:37:45",
       "https://news.ycombinator.com/item?id=48474274"
     ],
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2026-06-09, 04:58:49",
-      "https://news.ycombinator.com/item?id=48456637"
-    ],
-    [
-      "Gram Newton-Schulz: A Fast, Hardware-Aware Newton-Schulz Algorithm for Muon",
-      "https://tridao.me/blog/2026/gram-newton-schulz/"
-    ]
-  ],
-  [
-    [
       "2026-06-08, 21:02:01",
       "https://news.ycombinator.com/item?id=48452001"
     ],
@@ -287,16 +297,6 @@
     [
       "Ear Training Practice",
       "https://tonedear.com/"
-    ]
-  ],
-  [
-    [
-      "2026-06-08, 12:45:33",
-      "https://news.ycombinator.com/item?id=48444664"
-    ],
-    [
-      "Did Ahmes find the best expansions for 2/n?",
-      "https://blog.plover.com/2026/03/17/#egyptian-fractions-2"
     ]
   ]
 ]
