@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=48508726"
     ],
     [
-      "Swift at Apple: Migrating the TrueType Hinting Interpreter",
+      "Swift at Apple: Migrating the TrueType hinting interpreter",
       "https://www.swift.org/blog/migrating-truetype-hinting-to-swift/"
     ]
   ],
@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2026-06-12, 15:31:50",
-      "https://news.ycombinator.com/item?id=48505435"
-    ],
-    [
-      "You can power on a Mac remotely",
-      "https://www.jeffgeerling.com/blog/2026/power-on-your-mac-remotely/"
-    ]
-  ],
-  [
-    [
       "2026-06-12, 15:26:12",
       "https://news.ycombinator.com/item?id=48505364"
     ],
@@ -261,22 +251,32 @@
   ],
   [
     [
+      "2026-06-12, 10:42:50",
+      "https://news.ycombinator.com/item?id=48502347"
+    ],
+    [
+      "Kimi K2.7-Code: open-source coding model with better token efficiency",
+      "https://huggingface.co/moonshotai/Kimi-K2.7-Code"
+    ]
+  ],
+  [
+    [
+      "2026-06-12, 00:38:11",
+      "https://news.ycombinator.com/item?id=48498385"
+    ],
+    [
+      "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
+      "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf"
+    ]
+  ],
+  [
+    [
       "2026-06-11, 23:01:55",
       "https://news.ycombinator.com/item?id=48497609"
     ],
     [
       "If you are asking for human attention, demonstrate human effort",
       "https://tombedor.dev/human-attention-and-human-effort/"
-    ]
-  ],
-  [
-    [
-      "2026-06-11, 22:59:22",
-      "https://news.ycombinator.com/item?id=48497576"
-    ],
-    [
-      "A jacket that harvests drinking water from the air",
-      "https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/"
     ]
   ],
   [
