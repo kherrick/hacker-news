@@ -1,26 +1,6 @@
 [
   [
     [
-      "2026-06-12, 18:40:47",
-      "https://news.ycombinator.com/item?id=48507836"
-    ],
-    [
-      "A Peter Thiel-Backed Tribunal Is Putting Journalists on Trial",
-      "https://www.hollywoodreporter.com/business/business-news/peter-thiel-tribunal-journalists-trial-1236617579/"
-    ]
-  ],
-  [
-    [
-      "2026-06-12, 18:37:25",
-      "https://news.ycombinator.com/item?id=48507783"
-    ],
-    [
-      "I Won't Buy You a Coffee",
-      "https://hakkerman.eu/blog/i-wont-buy-you-a-coffee/"
-    ]
-  ],
-  [
-    [
       "2026-06-12, 18:20:17",
       "https://news.ycombinator.com/item?id=48507571"
     ],
@@ -55,7 +35,7 @@
       "https://news.ycombinator.com/item?id=48507020"
     ],
     [
-      "How to Setup a Local Coding Agent on macOS",
+      "How to setup a local coding agent on macOS",
       "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos"
     ]
   ],
@@ -117,16 +97,6 @@
     [
       "A PDF that changes based on how its read",
       "https://sgaud.com/texts/pdf"
-    ]
-  ],
-  [
-    [
-      "2026-06-12, 15:42:04",
-      "https://news.ycombinator.com/item?id=48505561"
-    ],
-    [
-      "Keygen.music",
-      "https://keygen.music"
     ]
   ],
   [
@@ -251,6 +221,16 @@
   ],
   [
     [
+      "2026-06-12, 10:42:50",
+      "https://news.ycombinator.com/item?id=48502347"
+    ],
+    [
+      "Kimi K2.7-Code: open-source coding model with better token efficiency",
+      "https://huggingface.co/moonshotai/Kimi-K2.7-Code"
+    ]
+  ],
+  [
+    [
       "2026-06-12, 04:42:53",
       "https://news.ycombinator.com/item?id=48500012"
     ],
@@ -261,12 +241,32 @@
   ],
   [
     [
+      "2026-06-12, 00:38:11",
+      "https://news.ycombinator.com/item?id=48498385"
+    ],
+    [
+      "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
+      "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf"
+    ]
+  ],
+  [
+    [
       "2026-06-11, 23:01:55",
       "https://news.ycombinator.com/item?id=48497609"
     ],
     [
       "If you are asking for human attention, demonstrate human effort",
       "https://tombedor.dev/human-attention-and-human-effort/"
+    ]
+  ],
+  [
+    [
+      "2026-06-11, 22:59:22",
+      "https://news.ycombinator.com/item?id=48497576"
+    ],
+    [
+      "A jacket that harvests drinking water from the air",
+      "https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-06-09, 22:44:28",
-      "https://news.ycombinator.com/item?id=48468852"
+      "2026-06-06, 18:09:53",
+      "https://news.ycombinator.com/item?id=48427421"
     ],
     [
-      "How we made hit video game Prince of Persia",
-      "https://www.theguardian.com/culture/2026/jan/05/raiders-of-the-lost-ark-hit-video-game-prince-of-persia"
+      "Vinyl succumbs to Loudness War: more than just collateral damage (2025)",
+      "https://magicvinyldigital.net/2025/04/27/vinyl-succumbs-to-loudness-war-more-than-just-collateral-damage/"
     ]
   ]
 ]
