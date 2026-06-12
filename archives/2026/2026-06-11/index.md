@@ -22,6 +22,7 @@
 * [2026-06-11, 17:47:39](https://news.ycombinator.com/item?id=48493786) - [Show HN: A police department for your Claude Code agents](https://github.com/varmabudharaju/agent-pd/blob/master/README.md)
 * [2026-06-11, 17:35:19](https://news.ycombinator.com/item?id=48493564) - [Apple didn't revolutionize power supplies; new transistors did](https://www.righto.com/2012/02/apple-didnt-revolutionize-power.html)
 * [2026-06-11, 17:28:52](https://news.ycombinator.com/item?id=48493447) - [Building agents without harness engineering](https://rajitkhanna.com/agents/)
+* [2026-06-11, 17:14:42](https://news.ycombinator.com/item?id=48493218) - [WikiLambda the Ultimate](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-05-22/Recent_research)
 * [2026-06-11, 16:34:11](https://news.ycombinator.com/item?id=48492613) - [Fable 5 lies 96% of the time](https://twitter.com/kradleai/status/2064907897373642912)
 * [2026-06-11, 16:28:24](https://news.ycombinator.com/item?id=48492533) - [Software Is Made Between Commits](https://zed.dev/blog/introducing-deltadb)
 * [2026-06-11, 16:10:05](https://news.ycombinator.com/item?id=48492306) - [Solar generates more energy in US than coal for first time](https://www.theguardian.com/us-news/2026/jun/11/solar-energy-us-coal)
