@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-06-12](index.md)
 
+* [2026-06-12, 10:38:31](https://news.ycombinator.com/item?id=48502321) - [The Future of Email](https://www.fastmail.com/blog/the-future-of-email/)
 * [2026-06-12, 07:35:46](https://news.ycombinator.com/item?id=48501012) - [Report on an Unidentified Space Station](https://sseh.uchicago.edu/doc/roauss.htm)
+* [2026-06-12, 05:59:39](https://news.ycombinator.com/item?id=48500447) - [AUR Packages Compromised with Infostealer and Rootkit](https://discourse.ifin.network/t/400-aur-packages-compromised-with-infostealer-and-rootkit/577)
 * [2026-06-12, 05:53:19](https://news.ycombinator.com/item?id=48500404) - [Digital Sovereignty Becomes an Imperative as the US Reads Dutch Emails](https://www.korte.co/2026/06/11/digital-sovereignty-becomes-an-imparative-as-the-us-reads-dutch-emails/)
 * [2026-06-12, 04:42:53](https://news.ycombinator.com/item?id=48500012) - [AI agent bankrupted their operator while trying to scan DN42](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/)
 * [2026-06-12, 04:24:16](https://news.ycombinator.com/item?id=48499890) - [Device Clock Generation (2025)](https://zipcpu.com/blog/2025/12/17/devclk.html)
