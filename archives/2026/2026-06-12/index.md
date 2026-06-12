@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-06-12](index.md)
 
+* [2026-06-12, 13:51:15](https://news.ycombinator.com/item?id=48504063) - [WASI 0.3.0 Released](https://github.com/WebAssembly/WASI/releases/tag/v0.3.0)
 * [2026-06-12, 13:22:59](https://news.ycombinator.com/item?id=48503796) - [The Unsung Hero of the Lord of the Rings](https://www.theculturist.io/p/the-unsung-hero-of-the-lord-of-the)
 * [2026-06-12, 13:14:18](https://news.ycombinator.com/item?id=48503717) - [Hazel (YC W24) Is Hiring a Full Stack Engineer](https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci)
+* [2026-06-12, 12:22:07](https://news.ycombinator.com/item?id=48503219) - [Encrypted Spaces An architecture for collaborative applications](https://encryptedspaces.org/)
 * [2026-06-12, 12:00:02](https://news.ycombinator.com/item?id=48503014) - [Maxproof](https://arxiv.org/abs/2606.13473)
 * [2026-06-12, 11:26:54](https://news.ycombinator.com/item?id=48502730) - [David Hockney, Who Restored the Human Form to Art, Dies at 88](https://www.nytimes.com/2026/06/12/arts/design/david-hockney-dead.html)
 * [2026-06-12, 11:11:42](https://news.ycombinator.com/item?id=48502601) - [Ryanair dark UX patterns summer 2026 refresher](https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher/)
