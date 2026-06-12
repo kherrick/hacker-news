@@ -47,6 +47,7 @@
 * [2026-06-08, 15:59:04](https://news.ycombinator.com/item?id=48447062) - [EU-banned pesticides found in rice, tea and spices](https://www.foodwatch.org/en/eu-banned-pesticides-found-in-rice-tea-and-spices)
 * [2026-06-08, 15:48:00](https://news.ycombinator.com/item?id=48446909) - [Why are so many young people getting cancer? What researchers do and don't know](https://www.nature.com/articles/d41586-026-01780-6)
 * [2026-06-08, 15:46:37](https://news.ycombinator.com/item?id=48446893) - [AI Is Slowing Down](https://www.wheresyoured.at/ai-is-slowing-down/)
+* [2026-06-08, 15:40:41](https://news.ycombinator.com/item?id=48446809) - [Speech Plus Prose 2000 vintage speech synthesizer, as used by Stephen Hawking [video]](https://www.youtube.com/watch?v=K4E01_ZfO5I)
 * [2026-06-08, 15:30:09](https://news.ycombinator.com/item?id=48446673) - [How Terry Tao became an evangelist for AI in math](https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/)
 * [2026-06-08, 15:27:33](https://news.ycombinator.com/item?id=48446639) - [MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second](https://mimo.xiaomi.com/blog/mimo-tilert-1000tps)
 * [2026-06-08, 15:25:40](https://news.ycombinator.com/item?id=48446611) - [I replaced Spotify with a homemade FM radio station](https://old.reddit.com/r/digitalminimalism/comments/1tes8yu/i_replaced_spotify_with_a_homemade_fm_radio/)
