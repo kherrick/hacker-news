@@ -66,6 +66,7 @@
 * [2026-06-08, 13:03:44](https://news.ycombinator.com/item?id=48444841) - [Making a Shading Language for My Offline Renderer](https://agraphicsguynotes.com/posts/making_a_shading_langauge_for_my_offline_renderer/)
 * [2026-06-08, 12:57:54](https://news.ycombinator.com/item?id=48444784) - [Spanish traders set the standard for GnuCash database design](https://handson.money/blog/2026-06-06-horse-arse-and-design/)
 * [2026-06-08, 12:55:01](https://news.ycombinator.com/item?id=48444758) - [Blaise v0.10.0: Native Back End, Threads and Incremental Compilation](https://github.com/graemeg/blaise/discussions/82)
+* [2026-06-08, 12:45:33](https://news.ycombinator.com/item?id=48444664) - [Did Ahmes find the best expansions for 2/n?](https://blog.plover.com/2026/03/17/#egyptian-fractions-2)
 * [2026-06-08, 12:45:01](https://news.ycombinator.com/item?id=48444654) - [Value Numbering](https://bernsteinbear.com/blog/value-numbering/)
 * [2026-06-08, 12:24:10](https://news.ycombinator.com/item?id=48444442) - [Are you expected to run five Python type-checkers now?](https://pyrefly.org/blog/too-many-type-checkers/)
 * [2026-06-08, 11:58:02](https://news.ycombinator.com/item?id=48444228) - [Anti-social: It's fads, not friends, which now dominate social media feeds](https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social)
