@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-12, 17:22:06",
+      "https://news.ycombinator.com/item?id=48506850"
+    ],
+    [
+      "Ask HN: Why is there some sort of a scam website being advertised on HN?",
+      "https://news.ycombinator.com/item?id=48506850"
+    ]
+  ],
+  [
+    [
       "2026-06-12, 17:00:40",
       "https://news.ycombinator.com/item?id=48506575"
     ],
@@ -17,6 +27,26 @@
     [
       "Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents",
       "https://bitboard.work/"
+    ]
+  ],
+  [
+    [
+      "2026-06-12, 16:44:47",
+      "https://news.ycombinator.com/item?id=48506372"
+    ],
+    [
+      "Looking Forward to Postgres 19: It's About Time",
+      "https://www.pgedge.com/blog/looking-forward-to-postgres-19-its-about-time"
+    ]
+  ],
+  [
+    [
+      "2026-06-12, 16:41:16",
+      "https://news.ycombinator.com/item?id=48506324"
+    ],
+    [
+      "New privacy frontier: Europe eyes crackdown on smart glasses",
+      "https://www.politico.com/www.politico.eu/article/new-privacy-frontier-europe-eyes-crackdown-smart-glasses/"
     ]
   ],
   [
@@ -145,18 +175,8 @@
       "https://news.ycombinator.com/item?id=48504063"
     ],
     [
-      "WASI 0.3.0 Released",
-      "https://github.com/WebAssembly/WASI/releases/tag/v0.3.0"
-    ]
-  ],
-  [
-    [
-      "2026-06-12, 13:40:23",
-      "https://news.ycombinator.com/item?id=48503940"
-    ],
-    [
-      "European sunscreens are safer than American (2024)",
-      "https://www.ms.now/opinion/msnbc-opinion/sunscreen-united-states-fda-ingredients-rcna153526"
+      "WASI 0.3",
+      "https://bytecodealliance.org/articles/WASI-0.3"
     ]
   ],
   [
@@ -177,16 +197,6 @@
     [
       "Maxproof",
       "https://arxiv.org/abs/2606.13473"
-    ]
-  ],
-  [
-    [
-      "2026-06-12, 11:11:42",
-      "https://news.ycombinator.com/item?id=48502601"
-    ],
-    [
-      "Ryanair dark UX patterns summer 2026 refresher",
-      "https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher/"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "AI agent bankrupted their operator while trying to scan DN42",
       "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/"
-    ]
-  ],
-  [
-    [
-      "2026-06-12, 00:42:11",
-      "https://news.ycombinator.com/item?id=48498421"
-    ],
-    [
-      "Removing 'um' from a recording is harder than it sounds",
-      "https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2026-06-11, 08:38:00",
-      "https://news.ycombinator.com/item?id=48487829"
+      "2026-06-11, 17:32:35",
+      "https://news.ycombinator.com/item?id=48493512"
     ],
     [
-      "Making a vintage LLM from scratch",
-      "https://crlf.link/log/entries/260525-1/"
+      "There Is Life Before Main in Rust",
+      "https://grack.com/blog/2026/06/11/life-before-main/"
     ]
   ],
   [
