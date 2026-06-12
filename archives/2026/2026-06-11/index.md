@@ -51,6 +51,7 @@
 * [2026-06-11, 12:51:43](https://news.ycombinator.com/item?id=48489655) - [Core PPI up 9.6% annualized (0.8% MoM) in May](https://www.bls.gov/news.release/ppi.nr0.htm)
 * [2026-06-11, 12:26:42](https://news.ycombinator.com/item?id=48489402) - [Lines of Code Got a Better Publicist](https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/)
 * [2026-06-11, 12:05:02](https://news.ycombinator.com/item?id=48489229) - [Anthropic apologizes for invisible Claude Fable guardrails](https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail)
+* [2026-06-11, 11:56:17](https://news.ycombinator.com/item?id=48489151) - [A Commons of Software Productive Infrastructure, by and for Capital](https://marewolf.me/posts/draupnir/26/software-productive-infrastructure.html)
 * [2026-06-11, 11:41:17](https://news.ycombinator.com/item?id=48489004) - [BYD is bringing its 5-min 'Flash' electric car charging to Canada](https://electrek.co/2026/06/10/byd-flash-charging-canada-5-minute-ev-charging-network/)
 * [2026-06-11, 11:26:25](https://news.ycombinator.com/item?id=48488901) - [Human migration has surged since 2000 – these maps reveal where people are going](https://www.nature.com/articles/d41586-026-01796-y)
 * [2026-06-11, 10:38:24](https://news.ycombinator.com/item?id=48488553) - [HTML is a native image format, hear me out](https://hmml.eddocu.com)

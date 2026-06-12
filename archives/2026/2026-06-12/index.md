@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-12](index.md)
 
+* [2026-06-12, 05:53:19](https://news.ycombinator.com/item?id=48500404) - [Digital Sovereignty Becomes an Imperative as the US Reads Dutch Emails](https://www.korte.co/2026/06/11/digital-sovereignty-becomes-an-imparative-as-the-us-reads-dutch-emails/)
 * [2026-06-12, 04:42:53](https://news.ycombinator.com/item?id=48500012) - [AI agent bankrupted their operator while trying to scan DN42](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/)
 * [2026-06-12, 04:24:16](https://news.ycombinator.com/item?id=48499890) - [Device Clock Generation (2025)](https://zipcpu.com/blog/2025/12/17/devclk.html)
 * [2026-06-12, 01:06:51](https://news.ycombinator.com/item?id=48498573) - [Claude Fable is relentlessly proactive](https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/)
