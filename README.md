@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-06-12, 13:22:59](https://news.ycombinator.com/item?id=48503796) - [The Unsung Hero of the Lord of the Rings](https://www.theculturist.io/p/the-unsung-hero-of-the-lord-of-the)
+* [2026-06-12, 13:14:18](https://news.ycombinator.com/item?id=48503717) - [Hazel (YC W24) Is Hiring a Full Stack Engineer](https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci)
 * [2026-06-12, 12:00:02](https://news.ycombinator.com/item?id=48503014) - [Maxproof](https://arxiv.org/abs/2606.13473)
 * [2026-06-12, 11:26:54](https://news.ycombinator.com/item?id=48502730) - [David Hockney, Who Restored the Human Form to Art, Dies at 88](https://www.nytimes.com/2026/06/12/arts/design/david-hockney-dead.html)
 * [2026-06-12, 11:11:42](https://news.ycombinator.com/item?id=48502601) - [Ryanair dark UX patterns summer 2026 refresher](https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher/)
@@ -15,7 +17,6 @@
 * [2026-06-11, 21:17:30](https://news.ycombinator.com/item?id=48496539) - [Show HN: FablePool – pool money behind a prompt, and Fable builds it in public](https://fablepool.com)
 * [2026-06-11, 16:28:24](https://news.ycombinator.com/item?id=48492533) - [Software is made between commits](https://zed.dev/blog/introducing-deltadb)
 * [2026-06-11, 16:03:40](https://news.ycombinator.com/item?id=48492215) - [The RCE that AMD wouldn't fix](https://mrbruh.com/amd2/)
-* [2026-06-11, 16:03:21](https://news.ycombinator.com/item?id=48492210) - [Claude Fable 5: mid-tier results on coding tasks](https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype)
 * [2026-06-11, 15:37:23](https://news.ycombinator.com/item?id=48491830) - [Petition to Withdraw Canada's Bill C-22](https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416)
 * [2026-06-11, 14:27:19](https://news.ycombinator.com/item?id=48490826) - [MiMo Code is now released and open-source](https://mimo.xiaomi.com/mimocode)
 * [2026-06-11, 13:24:29](https://news.ycombinator.com/item?id=48490024) - [Show HN: Homebrew 6.0.0](https://brew.sh/2026/06/11/homebrew-6.0.0/)
@@ -28,7 +29,6 @@
 * [2026-06-09, 15:01:43](https://news.ycombinator.com/item?id=48462070) - [macOS 27 Beta breaks the ability to boot Asahi Linux](https://www.phoronix.com/news/macOS-27-Beta-Breaks-Asahi)
 * [2026-06-08, 21:02:01](https://news.ycombinator.com/item?id=48452001) - [Developer gets Half-Life running at 30 FPS on a Nokia N95](https://www.tomshardware.com/video-games/handheld-gaming/developer-gets-half-life-running-at-30-fps-on-a-2007-nokia-n95)
 * [2026-06-08, 16:38:07](https://news.ycombinator.com/item?id=48447598) - [Ear Training Practice](https://tonedear.com/)
-* [2026-06-08, 15:30:09](https://news.ycombinator.com/item?id=48446673) - [How Terry Tao became an evangelist for AI in math](https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/)
 * [2026-06-06, 18:09:53](https://news.ycombinator.com/item?id=48427421) - [Vinyl succumbs to Loudness War: more than just collateral damage (2025)](https://magicvinyldigital.net/2025/04/27/vinyl-succumbs-to-loudness-war-more-than-just-collateral-damage/)
 
 ## [Archives](archives/index.md)
