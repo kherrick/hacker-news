@@ -49,6 +49,7 @@
 * [2026-06-09, 13:17:34](https://news.ycombinator.com/item?id=48460758) - [The better the autopilot the worse the pilot](https://julienreszka.com/blog/the-better-the-autopilot-the-worse-the-pilot/)
 * [2026-06-09, 12:35:01](https://news.ycombinator.com/item?id=48460286) - [Show HN: Atlasphere – Live Infrastructure Diagrams](https://news.ycombinator.com/item?id=48460286)
 * [2026-06-09, 12:26:34](https://news.ycombinator.com/item?id=48460210) - [Show HN: We post-trained a model that pen tests instead of refusing your code](https://www.argusred.com/cli)
+* [2026-06-09, 12:05:12](https://news.ycombinator.com/item?id=48459999) - [Faking keyword arguments to functions in C++](https://nibblestew.blogspot.com/2026/06/faking-keyword-arguments-to-functions.html)
 * [2026-06-09, 12:01:09](https://news.ycombinator.com/item?id=48459968) - [Emerge Career (YC S22) Is Hiring a Founding Growth Marketer](https://www.ycombinator.com/companies/emerge-career/jobs/v0S1AEG-founding-growth-marketer)
 * [2026-06-09, 11:56:25](https://news.ycombinator.com/item?id=48459913) - [Show HN: Learn from 30 historical figures, open source, nonprofit, self-hosted](https://github.com/chipmates/agoracosmica)
 * [2026-06-09, 11:46:40](https://news.ycombinator.com/item?id=48459837) - [Show HN: Gravity – interactive solar-system simulator, from Newton to Einstein](https://qunabu.github.io/Gravity/)
