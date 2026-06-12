@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-06-12](index.md)
 
+* [2026-06-12, 18:40:47](https://news.ycombinator.com/item?id=48507836) - [A Peter Thiel-Backed Tribunal Is Putting Journalists on Trial](https://www.hollywoodreporter.com/business/business-news/peter-thiel-tribunal-journalists-trial-1236617579/)
+* [2026-06-12, 18:37:25](https://news.ycombinator.com/item?id=48507783) - [I Won't Buy You a Coffee](https://hakkerman.eu/blog/i-wont-buy-you-a-coffee/)
+* [2026-06-12, 18:20:17](https://news.ycombinator.com/item?id=48507571) - [Cosmodial Sky Atlas](https://killedbyapixel.github.io/Cosmodial/)
 * [2026-06-12, 17:53:20](https://news.ycombinator.com/item?id=48507282) - [I Am Not a Reverse Centaur](https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur)
 * [2026-06-12, 17:52:46](https://news.ycombinator.com/item?id=48507278) - [\"Don't You Just Upload It to ChatGPT?\"](https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/)
 * [2026-06-12, 17:49:48](https://news.ycombinator.com/item?id=48507248) - [Tesla Full Self Driving uses bicycle lane in official Denmark approval video](https://politiken.dk/danmark/forbrug/biler/art10875514/Allerede-12-sekunder-inde-i-PR-videoen-beg%C3%A5r-selvk%C3%B8rende-Tesla-f%C3%B8rste-fejl-i-k%C3%B8benhavnsk-gade-%E2%80%93-men-det-bliver-v%C3%A6rre-endnu)
