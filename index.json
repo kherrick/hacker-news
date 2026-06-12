@@ -1,22 +1,62 @@
 [
   [
     [
-      "2026-06-12, 17:22:06",
-      "https://news.ycombinator.com/item?id=48506850"
+      "2026-06-12, 17:53:20",
+      "https://news.ycombinator.com/item?id=48507282"
     ],
     [
-      "Ask HN: Why is there some sort of a scam website being advertised on HN?",
-      "https://news.ycombinator.com/item?id=48506850"
+      "I Am Not a Reverse Centaur",
+      "https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur"
     ]
   ],
   [
     [
-      "2026-06-12, 17:00:40",
-      "https://news.ycombinator.com/item?id=48506575"
+      "2026-06-12, 17:52:46",
+      "https://news.ycombinator.com/item?id=48507278"
     ],
     [
-      "Gauntlet AI will fly you to Austin, train you in AI, give $200k+ job",
-      "https://apply.gauntletai.com/register/champions?utm_source=Third%20Party&utm_campaign=Hacker%20News&utm_medium=organic&utm_content=HN"
+      "\"Don't You Just Upload It to ChatGPT?\"",
+      "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/"
+    ]
+  ],
+  [
+    [
+      "2026-06-12, 17:49:48",
+      "https://news.ycombinator.com/item?id=48507248"
+    ],
+    [
+      "Tesla Full Self Driving uses bicycle lane in official Denmark approval video",
+      "https://politiken.dk/danmark/forbrug/biler/art10875514/Allerede-12-sekunder-inde-i-PR-videoen-beg%C3%A5r-selvk%C3%B8rende-Tesla-f%C3%B8rste-fejl-i-k%C3%B8benhavnsk-gade-%E2%80%93-men-det-bliver-v%C3%A6rre-endnu"
+    ]
+  ],
+  [
+    [
+      "2026-06-12, 17:34:55",
+      "https://news.ycombinator.com/item?id=48507020"
+    ],
+    [
+      "How to Setup a Local Coding Agent on macOS",
+      "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos"
+    ]
+  ],
+  [
+    [
+      "2026-06-12, 17:07:46",
+      "https://news.ycombinator.com/item?id=48506659"
+    ],
+    [
+      "Pirates, a naval warfare game inspired by Sid Meier's Pirates",
+      "https://piwodlaiwo.github.io/pirates/"
+    ]
+  ],
+  [
+    [
+      "2026-06-12, 17:04:09",
+      "https://news.ycombinator.com/item?id=48506616"
+    ],
+    [
+      "Law Enforcement's \"Warrior\" Problem (2015)",
+      "https://harvardlawreview.org/forum/vol-128/law-enforcements-warrior-problem/"
     ]
   ],
   [
@@ -55,18 +95,8 @@
       "https://news.ycombinator.com/item?id=48506209"
     ],
     [
-      "A PDF that changes based on who is reading",
+      "A PDF that changes based on how its read",
       "https://sgaud.com/texts/pdf"
-    ]
-  ],
-  [
-    [
-      "2026-06-12, 15:51:54",
-      "https://news.ycombinator.com/item?id=48505690"
-    ],
-    [
-      "Euro-Office, open standards, and native ODF",
-      "https://blog.documentfoundation.org/blog/2026/06/11/euro-office-open-standards-and-native-odf/"
     ]
   ],
   [
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2026-06-12, 14:37:30",
-      "https://news.ycombinator.com/item?id=48504753"
-    ],
-    [
-      "WhatsApp Business API pricing 2026: what's free and where markup hides",
-      "https://wexio.io/blog/free-whatsapp-business-api"
-    ]
-  ],
-  [
-    [
       "2026-06-12, 14:33:29",
       "https://news.ycombinator.com/item?id=48504697"
     ],
@@ -177,6 +197,16 @@
     [
       "WASI 0.3",
       "https://bytecodealliance.org/articles/WASI-0.3"
+    ]
+  ],
+  [
+    [
+      "2026-06-12, 13:14:18",
+      "https://news.ycombinator.com/item?id=48503717"
+    ],
+    [
+      "Hazel (YC W24) Is Hiring a Full Stack Engineer",
+      "https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci"
     ]
   ],
   [
@@ -231,32 +261,12 @@
   ],
   [
     [
-      "2026-06-12, 00:38:11",
-      "https://news.ycombinator.com/item?id=48498385"
-    ],
-    [
-      "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
-      "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf"
-    ]
-  ],
-  [
-    [
       "2026-06-11, 23:01:55",
       "https://news.ycombinator.com/item?id=48497609"
     ],
     [
       "If you are asking for human attention, demonstrate human effort",
       "https://tombedor.dev/human-attention-and-human-effort/"
-    ]
-  ],
-  [
-    [
-      "2026-06-11, 22:59:22",
-      "https://news.ycombinator.com/item?id=48497576"
-    ],
-    [
-      "A jacket that harvests drinking water from the air",
-      "https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "How we made hit video game Prince of Persia",
       "https://www.theguardian.com/culture/2026/jan/05/raiders-of-the-lost-ark-hit-video-game-prince-of-persia"
-    ]
-  ],
-  [
-    [
-      "2026-06-06, 18:09:53",
-      "https://news.ycombinator.com/item?id=48427421"
-    ],
-    [
-      "Vinyl succumbs to Loudness War: more than just collateral damage (2025)",
-      "https://magicvinyldigital.net/2025/04/27/vinyl-succumbs-to-loudness-war-more-than-just-collateral-damage/"
     ]
   ]
 ]
