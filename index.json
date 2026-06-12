@@ -1,22 +1,32 @@
 [
   [
     [
+      "2026-06-11, 23:33:17",
+      "https://news.ycombinator.com/item?id=48497873"
+    ],
+    [
+      "Biological Evolution and Information Acquisition",
+      "https://www.construction-physics.com/p/biological-evolution-and-information"
+    ]
+  ],
+  [
+    [
       "2026-06-11, 23:01:55",
       "https://news.ycombinator.com/item?id=48497609"
     ],
     [
-      "If You Are Asking for Human Attention, Demonstrate Human Effort",
+      "If you are asking for human attention, demonstrate human effort",
       "https://tombedor.dev/human-attention-and-human-effort/"
     ]
   ],
   [
     [
-      "2026-06-11, 22:28:01",
-      "https://news.ycombinator.com/item?id=48497260"
+      "2026-06-11, 22:59:22",
+      "https://news.ycombinator.com/item?id=48497576"
     ],
     [
-      "OpenAI Prepping for On-Prem Product?",
-      "https://ledger.somantix.ai/posts/open-ai-lays-groundwork-for-on-prem-product/"
+      "A jacket that harvests drinking water directly from the air",
+      "https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/"
     ]
   ],
   [
@@ -41,12 +51,22 @@
   ],
   [
     [
-      "2026-06-11, 21:04:47",
-      "https://news.ycombinator.com/item?id=48496396"
+      "2026-06-11, 21:12:47",
+      "https://news.ycombinator.com/item?id=48496483"
     ],
     [
-      "Why I'm Forced to Say Farewell: Google Management Has Lost Its Moral Compass",
-      "https://www.mayrhofer.eu.org/post/leaving-google/"
+      "Tailwind and Slop Apps",
+      "https://briandouglas.ie/llm-tailwind-template/"
+    ]
+  ],
+  [
+    [
+      "2026-06-11, 20:55:18",
+      "https://news.ycombinator.com/item?id=48496278"
+    ],
+    [
+      "Trying to fix complicated problems",
+      "https://blog.griffens.net/blog/trying-to-fix-complicated-problems/"
     ]
   ],
   [
@@ -55,18 +75,8 @@
       "https://news.ycombinator.com/item?id=48496250"
     ],
     [
-      "Show HN: Boo – screen-style terminal multiplexer built on libghostty",
+      "Show HN: Boo – Screen-style terminal multiplexer built on libghostty",
       "https://github.com/coder/boo"
-    ]
-  ],
-  [
-    [
-      "2026-06-11, 20:14:33",
-      "https://news.ycombinator.com/item?id=48495818"
-    ],
-    [
-      "I stopped tracking my time. Now I can't focus",
-      "https://newsletter.masilotti.com/p/i-stopped-tracking-my-time-now-i"
     ]
   ],
   [
@@ -85,18 +95,18 @@
       "https://news.ycombinator.com/item?id=48495575"
     ],
     [
-      "Shall we play a game? – LLMs use tactical nukes in 95% of simulations",
+      "Shall we play a game? My AI nuclear simulation",
       "https://www.kennethpayne.uk/p/shall-we-play-a-game"
     ]
   ],
   [
     [
-      "2026-06-11, 19:23:52",
-      "https://news.ycombinator.com/item?id=48495197"
+      "2026-06-11, 18:46:22",
+      "https://news.ycombinator.com/item?id=48494716"
     ],
     [
-      "Who Runs the Ransomware Group 'The Gentlemen?'",
-      "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/"
+      "Finding Optimal Tokenizers",
+      "https://blog.aqnichol.com/2026/06/10/optimal-tokenizers/"
     ]
   ],
   [
@@ -117,16 +127,6 @@
     [
       "Software is made between commits",
       "https://zed.dev/blog/introducing-deltadb"
-    ]
-  ],
-  [
-    [
-      "2026-06-11, 16:10:05",
-      "https://news.ycombinator.com/item?id=48492306"
-    ],
-    [
-      "Solar generates more energy in US than coal for first time",
-      "https://www.theguardian.com/us-news/2026/jun/11/solar-energy-us-coal"
     ]
   ],
   [
@@ -157,6 +157,16 @@
     [
       "Claude Fable 5: mid-tier results on coding tasks",
       "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype"
+    ]
+  ],
+  [
+    [
+      "2026-06-11, 16:01:01",
+      "https://news.ycombinator.com/item?id=48492177"
+    ],
+    [
+      "MTG Bench: Testing how well LLMs can play Magic",
+      "https://mtgautodeck.com/articles/mtg-bench/"
     ]
   ],
   [
@@ -251,16 +261,6 @@
   ],
   [
     [
-      "2026-06-09, 07:06:08",
-      "https://news.ycombinator.com/item?id=48457601"
-    ],
-    [
-      "A worm in my Erlang cluster, and adventures in microfluidics",
-      "https://lucassifoni.info/blog/a-worm-in-my-erlang-cluster-and-adventures-in-microfluidics/"
-    ]
-  ],
-  [
-    [
       "2026-06-09, 04:58:49",
       "https://news.ycombinator.com/item?id=48456637"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-06-06, 21:00:31",
-      "https://news.ycombinator.com/item?id=48428959"
+      "2026-06-08, 12:45:33",
+      "https://news.ycombinator.com/item?id=48444664"
     ],
     [
-      "Discovery of Cold War-era rare Eastern Bloc computers in a German hangar",
-      "https://computerhistory.org/stories/explorers-of-the-lost-computers/"
+      "Did Ahmes find the best expansions for 2/n?",
+      "https://blog.plover.com/2026/03/17/#egyptian-fractions-2"
     ]
   ]
 ]
