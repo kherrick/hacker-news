@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-06-12](index.md)
 
+* [2026-06-12, 22:56:06](https://news.ycombinator.com/item?id=48510341) - [Show HN: Putt.day a daily mini golf game](https://putt.day/)
 * [2026-06-12, 22:13:29](https://news.ycombinator.com/item?id=48510046) - [Twenty One Zero-Days in FFmpeg](https://depthfirst.com/research/21-zero-days-in-ffmpeg)
+* [2026-06-12, 22:08:03](https://news.ycombinator.com/item?id=48510010) - [Renault: Electric motors with no rare earths](https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/)
 * [2026-06-12, 20:39:36](https://news.ycombinator.com/item?id=48509182) - [Palantir loses legal challenge against Swiss investigative magazine](https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979)
 * [2026-06-12, 20:34:42](https://news.ycombinator.com/item?id=48509143) - [Mmorpg World of ClaudeCraft, vibe coded with Fable 5](https://worldofclaudecraft.com/)
+* [2026-06-12, 20:33:22](https://news.ycombinator.com/item?id=48509133) - [/architect: Reduce Fable tokens by 80%, Fable orchestrates/reviews, Codex builds](https://github.com/DanMcInerney/architect-loop)
 * [2026-06-12, 20:14:27](https://news.ycombinator.com/item?id=48508949) - [Can I Buy Your KV Cache?](https://arxiv.org/abs/2606.13361)
 * [2026-06-12, 19:54:27](https://news.ycombinator.com/item?id=48508726) - [Swift at Apple: Migrating the TrueType Hinting Interpreter](https://www.swift.org/blog/migrating-truetype-hinting-to-swift/)
 * [2026-06-12, 18:50:18](https://news.ycombinator.com/item?id=48507986) - [EV demand up 50% in France and Germany since Iran war](https://www.reuters.com/business/renault-electric-vehicle-orders-have-surged-since-start-iran-war-says-ceo-2026-06-10/)

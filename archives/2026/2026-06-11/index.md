@@ -51,6 +51,7 @@
 * [2026-06-11, 13:14:31](https://news.ycombinator.com/item?id=48489917) - [Open Reproduction of DeepSeek-R1](https://github.com/huggingface/open-r1)
 * [2026-06-11, 13:06:08](https://news.ycombinator.com/item?id=48489835) - [More AI-generated code doesn't make your team faster. It might slow you](https://twitter.com/awscloud/status/2064449711155589396)
 * [2026-06-11, 12:51:43](https://news.ycombinator.com/item?id=48489655) - [Core PPI up 9.6% annualized (0.8% MoM) in May](https://www.bls.gov/news.release/ppi.nr0.htm)
+* [2026-06-11, 12:37:42](https://news.ycombinator.com/item?id=48489519) - [Enhance RAW image processing with Core Image [video]](https://developer.apple.com/videos/play/wwdc2026/305/)
 * [2026-06-11, 12:26:42](https://news.ycombinator.com/item?id=48489402) - [Lines of Code Got a Better Publicist](https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/)
 * [2026-06-11, 12:05:02](https://news.ycombinator.com/item?id=48489229) - [Anthropic apologizes for invisible Claude Fable guardrails](https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail)
 * [2026-06-11, 11:56:17](https://news.ycombinator.com/item?id=48489151) - [A Commons of Software Productive Infrastructure, by and for Capital](https://marewolf.me/posts/draupnir/26/software-productive-infrastructure.html)
