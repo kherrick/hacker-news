@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-06-12](index.md)
 
+* [2026-06-12, 17:22:06](https://news.ycombinator.com/item?id=48506850) - [Ask HN: Why is there some sort of a scam website being advertised on HN?](https://news.ycombinator.com/item?id=48506850)
 * [2026-06-12, 17:00:40](https://news.ycombinator.com/item?id=48506575) - [Gauntlet AI will fly you to Austin, train you in AI, give $200k+ job](https://apply.gauntletai.com/register/champions?utm_source=Third%20Party&utm_campaign=Hacker%20News&utm_medium=organic&utm_content=HN)
 * [2026-06-12, 16:58:03](https://news.ycombinator.com/item?id=48506545) - [Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents](https://bitboard.work/)
+* [2026-06-12, 16:44:47](https://news.ycombinator.com/item?id=48506372) - [Looking Forward to Postgres 19: It's About Time](https://www.pgedge.com/blog/looking-forward-to-postgres-19-its-about-time)
+* [2026-06-12, 16:41:16](https://news.ycombinator.com/item?id=48506324) - [New privacy frontier: Europe eyes crackdown on smart glasses](https://www.politico.com/www.politico.eu/article/new-privacy-frontier-europe-eyes-crackdown-smart-glasses/)
 * [2026-06-12, 16:32:50](https://news.ycombinator.com/item?id=48506209) - [A PDF that changes based on who is reading](https://sgaud.com/texts/pdf)
 * [2026-06-12, 15:51:54](https://news.ycombinator.com/item?id=48505690) - [Euro-Office, open standards, and native ODF](https://blog.documentfoundation.org/blog/2026/06/11/euro-office-open-standards-and-native-odf/)
 * [2026-06-12, 15:42:04](https://news.ycombinator.com/item?id=48505561) - [Keygen.music](https://keygen.music)
@@ -20,6 +23,7 @@
 * [2026-06-12, 14:33:29](https://news.ycombinator.com/item?id=48504697) - [A Call to Action: Stop the FCC's KYC Regime](https://blog.lopp.net/call-to-action-stop-the-fcc-kyc-regime/)
 * [2026-06-12, 14:21:30](https://news.ycombinator.com/item?id=48504544) - [How to automate Instagram engagements with computer vision (and get banned)](https://blog.florianherrengt.com/how-to-automate-instagram-engagements.html)
 * [2026-06-12, 14:21:22](https://news.ycombinator.com/item?id=48504543) - [A dumpster arrived behind my university's library](https://yalereview.org/article/sheila-liming-the-end-of-books)
+* [2026-06-12, 13:51:15](https://news.ycombinator.com/item?id=48504063) - [WASI 0.3](https://bytecodealliance.org/articles/WASI-0.3)
 * [2026-06-12, 13:51:15](https://news.ycombinator.com/item?id=48504063) - [WASI 0.3.0 Released](https://github.com/WebAssembly/WASI/releases/tag/v0.3.0)
 * [2026-06-12, 13:40:23](https://news.ycombinator.com/item?id=48503940) - [European sunscreens are safer than American (2024)](https://www.ms.now/opinion/msnbc-opinion/sunscreen-united-states-fda-ingredients-rcna153526)
 * [2026-06-12, 13:22:59](https://news.ycombinator.com/item?id=48503796) - [The Unsung Hero of the Lord of the Rings](https://www.theculturist.io/p/the-unsung-hero-of-the-lord-of-the)
