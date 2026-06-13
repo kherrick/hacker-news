@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2026-06-13, 12:17:27",
-      "https://news.ycombinator.com/item?id=48516558"
-    ],
-    [
-      "Sam Bankman-Fried loses bid to appeal against fraud conviction in FTX case",
-      "https://www.theguardian.com/business/2026/jun/12/sam-bankman-fried-loses-appeal"
-    ]
-  ],
-  [
-    [
       "2026-06-13, 12:11:35",
       "https://news.ycombinator.com/item?id=48516510"
     ],
@@ -297,6 +287,16 @@
     [
       "Appreciating Exif",
       "https://brentfitzgerald.com/posts/appreciating-exif/"
+    ]
+  ],
+  [
+    [
+      "2026-06-09, 15:41:21",
+      "https://news.ycombinator.com/item?id=48462577"
+    ],
+    [
+      "What about OpenCL and CUDA C++ alternatives?",
+      "https://www.modular.com/blog/democratizing-ai-compute-part-5-what-about-cuda-c-alternatives"
     ]
   ]
 ]
