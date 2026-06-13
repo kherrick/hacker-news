@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-13, 11:55:30",
+      "https://news.ycombinator.com/item?id=48516379"
+    ],
+    [
+      "Arch Linux Now Believes Malware Incident Under Control: More Than 1,500 Packages",
+      "https://www.phoronix.com/news/Arch-Linux-AUR-More-Than-1500"
+    ]
+  ],
+  [
+    [
       "2026-06-13, 09:44:25",
       "https://news.ycombinator.com/item?id=48515385"
     ],
@@ -27,16 +37,6 @@
     [
       "Israeli firm BlackCore suspected of meddling in New York and Scotland votes",
       "https://www.reuters.com/world/israeli-firm-blackcore-also-suspected-meddling-nyc-scotland-votes-french-2026-06-11/"
-    ]
-  ],
-  [
-    [
-      "2026-06-13, 06:43:42",
-      "https://news.ycombinator.com/item?id=48514124"
-    ],
-    [
-      "Show HN: Skill for your agent to visualize your gbrain and Obsidian",
-      "https://github.com/vladignatyev/brain-map-skill"
     ]
   ],
   [
@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2026-06-11, 23:01:55",
+      "https://news.ycombinator.com/item?id=48497609"
+    ],
+    [
+      "If you are asking for human attention, demonstrate human effort",
+      "https://tombedor.dev/human-attention-and-human-effort/"
+    ]
+  ],
+  [
+    [
       "2026-06-11, 20:24:18",
       "https://news.ycombinator.com/item?id=48495928"
     ],
@@ -287,16 +297,6 @@
     [
       "The Future of wasi-gfx and wasi:webgpu",
       "https://wasi-gfx.dev/blog/posts/future-of-wasi-gfx/"
-    ]
-  ],
-  [
-    [
-      "2026-06-09, 14:09:26",
-      "https://news.ycombinator.com/item?id=48461365"
-    ],
-    [
-      "Exceptions should not be handled – they should be aggregated",
-      "https://zenodo.org/records/20492768"
     ]
   ]
 ]
