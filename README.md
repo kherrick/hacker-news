@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-06-13, 12:40:16](https://news.ycombinator.com/item?id=48516710) - [Introduction to the experience of rendering Arabic typography&its technical debt](https://lr0.org/blog/p/arabic/)
 * [2026-06-13, 12:20:05](https://news.ycombinator.com/item?id=48516573) - [An Interview with Intel's Kira Boyko: Xeon 6's Product Director](https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko)
+* [2026-06-13, 12:17:27](https://news.ycombinator.com/item?id=48516558) - [Sam Bankman-Fried loses bid to appeal against fraud conviction in FTX case](https://www.theguardian.com/business/2026/jun/12/sam-bankman-fried-loses-appeal)
 * [2026-06-13, 12:11:35](https://news.ycombinator.com/item?id=48516510) - [Show HN: 2 Weeks of Hallucinate – The Photo Gallery](https://hallucinate.site/gallery)
 * [2026-06-13, 12:10:47](https://news.ycombinator.com/item?id=48516504) - [AI OSS tool repo goes archived over night after raising $7.3M Seed](https://github.com/tensorzero/tensorzero)
 * [2026-06-13, 11:55:30](https://news.ycombinator.com/item?id=48516379) - [Arch Linux Now Believes Malware Incident Under Control: More Than 1,500 Packages](https://www.phoronix.com/news/Arch-Linux-AUR-More-Than-1500)
@@ -10,7 +12,6 @@
 * [2026-06-13, 05:57:14](https://news.ycombinator.com/item?id=48513806) - [Leaving Mozilla](https://blog.unitedheroes.net/5751)
 * [2026-06-13, 05:44:46](https://news.ycombinator.com/item?id=48513728) - [Shepherd's Dog: A Game by the Most Dangerous AI Model](https://koenvangilst.nl/lab/claude-fable-shepherds-dog)
 * [2026-06-13, 05:16:41](https://news.ycombinator.com/item?id=48513536) - [There is a shadow hanging over this Fable thing](https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow)
-* [2026-06-13, 04:37:08](https://news.ycombinator.com/item?id=48513222) - [On CPU Physics and CPU Cycles](https://6it.dev/blog/on-cpu-physics-and-cpu-cycles-80730)
 * [2026-06-13, 02:14:24](https://news.ycombinator.com/item?id=48511908) - [Open source AI must win](https://opensourceaimustwin.com/?share=v2)
 * [2026-06-13, 00:51:30](https://news.ycombinator.com/item?id=48511072) - [Statement on US government directive to suspend access to Fable 5 and Mythos 5](https://www.anthropic.com/news/fable-mythos-access)
 * [2026-06-12, 22:56:06](https://news.ycombinator.com/item?id=48510341) - [Show HN: Putt.day a daily mini golf game](https://putt.day/)
@@ -27,7 +28,6 @@
 * [2026-06-10, 16:44:23](https://news.ycombinator.com/item?id=48479008) - [The state of building user interfaces in Rust](https://areweguiyet.com/#ecosystem)
 * [2026-06-10, 13:45:26](https://news.ycombinator.com/item?id=48476202) - [Show HN: Lightweight Task queue on Erlang/OTP, SQLite-backed, no overengineering](https://github.com/entGriff/ezra)
 * [2026-06-10, 01:33:43](https://news.ycombinator.com/item?id=48470152) - [The computer science degree isn’t dead](https://spectrum.ieee.org/computer-science-degree-isnt-dead)
-* [2026-06-09, 21:00:39](https://news.ycombinator.com/item?id=48467697) - [Tectonic: A modernized, complete, self-contained TeX/LaTeX engine](https://tectonic-typesetting.github.io/en-US/)
 * [2026-06-09, 20:14:42](https://news.ycombinator.com/item?id=48467028) - [Woman Gets on Route 66. Then She Starts Hearing Music Coming from Her Tires](https://www.motor1.com/news/798011/route-66-missouri-musical-road/)
 * [2026-06-09, 18:59:19](https://news.ycombinator.com/item?id=48465890) - [Automating Myself Out of Development](https://www.thoughtfultechnologist.com/p/automating-myself-out-of-development)
 

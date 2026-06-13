@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-06-13](index.md)
 
+* [2026-06-13, 12:40:16](https://news.ycombinator.com/item?id=48516710) - [Introduction to the experience of rendering Arabic typography&its technical debt](https://lr0.org/blog/p/arabic/)
 * [2026-06-13, 12:21:18](https://news.ycombinator.com/item?id=48516585) - [Thoughts on AI and Jobs](https://blog.keyvan.net/p/thoughts-on-ai-and-jobs)
 * [2026-06-13, 12:20:05](https://news.ycombinator.com/item?id=48516573) - [An Interview with Intel's Kira Boyko: Xeon 6's Product Director](https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko)
+* [2026-06-13, 12:17:27](https://news.ycombinator.com/item?id=48516558) - [Sam Bankman-Fried loses bid to appeal against fraud conviction in FTX case](https://www.theguardian.com/business/2026/jun/12/sam-bankman-fried-loses-appeal)
 * [2026-06-13, 12:11:35](https://news.ycombinator.com/item?id=48516510) - [Show HN: 2 Weeks of Hallucinate – The Photo Gallery](https://hallucinate.site/gallery)
 * [2026-06-13, 12:10:47](https://news.ycombinator.com/item?id=48516504) - [AI OSS tool repo goes archived over night after raising $7.3M Seed](https://github.com/tensorzero/tensorzero)
 * [2026-06-13, 11:55:30](https://news.ycombinator.com/item?id=48516379) - [Arch Linux Now Believes Malware Incident Under Control: More Than 1,500 Packages](https://www.phoronix.com/news/Arch-Linux-AUR-More-Than-1500)
