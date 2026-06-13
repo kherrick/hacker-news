@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2026-06-13, 17:39:14",
-      "https://news.ycombinator.com/item?id=48519519"
-    ],
-    [
-      "PwC Report: AI Making Medical Bills Higher",
-      "https://fortune.com/2026/06/12/ai-making-medical-bills-higher/"
-    ]
-  ],
-  [
-    [
       "2026-06-13, 16:57:49",
       "https://news.ycombinator.com/item?id=48519092"
     ],
@@ -147,16 +137,6 @@
     [
       "AI OSS tool repo goes archived over night after raising $7.3M Seed",
       "https://github.com/tensorzero/tensorzero"
-    ]
-  ],
-  [
-    [
-      "2026-06-13, 11:55:30",
-      "https://news.ycombinator.com/item?id=48516379"
-    ],
-    [
-      "Arch Linux Now Believes Malware Incident Under Control: More Than 1,500 Packages",
-      "https://www.phoronix.com/news/Arch-Linux-AUR-More-Than-1500"
     ]
   ],
   [
@@ -271,6 +251,16 @@
   ],
   [
     [
+      "2026-06-10, 01:33:43",
+      "https://news.ycombinator.com/item?id=48470152"
+    ],
+    [
+      "The computer science degree isn’t dead",
+      "https://spectrum.ieee.org/computer-science-degree-isnt-dead"
+    ]
+  ],
+  [
+    [
       "2026-06-09, 21:59:41",
       "https://news.ycombinator.com/item?id=48468352"
     ],
@@ -297,6 +287,16 @@
     [
       "Automating myself out of development",
       "https://www.thoughtfultechnologist.com/p/automating-myself-out-of-development"
+    ]
+  ],
+  [
+    [
+      "2026-06-09, 15:54:31",
+      "https://news.ycombinator.com/item?id=48462759"
+    ],
+    [
+      "Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI",
+      "https://blog.pyodide.org/posts/314-release/"
     ]
   ]
 ]
