@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-06-13, 12:21:18",
+      "https://news.ycombinator.com/item?id=48516585"
+    ],
+    [
+      "Thoughts on AI and Jobs",
+      "https://blog.keyvan.net/p/thoughts-on-ai-and-jobs"
+    ]
+  ],
+  [
+    [
+      "2026-06-13, 12:20:05",
+      "https://news.ycombinator.com/item?id=48516573"
+    ],
+    [
+      "An Interview with Intel's Kira Boyko: Xeon 6's Product Director",
+      "https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko"
+    ]
+  ],
+  [
+    [
+      "2026-06-13, 12:11:35",
+      "https://news.ycombinator.com/item?id=48516510"
+    ],
+    [
+      "Show HN: 2 Weeks of Hallucinate – The Photo Gallery",
+      "https://hallucinate.site/gallery"
+    ]
+  ],
+  [
+    [
       "2026-06-13, 11:55:30",
       "https://news.ycombinator.com/item?id=48516379"
     ],
@@ -191,16 +221,6 @@
   ],
   [
     [
-      "2026-06-11, 23:01:55",
-      "https://news.ycombinator.com/item?id=48497609"
-    ],
-    [
-      "If you are asking for human attention, demonstrate human effort",
-      "https://tombedor.dev/human-attention-and-human-effort/"
-    ]
-  ],
-  [
-    [
       "2026-06-11, 20:24:18",
       "https://news.ycombinator.com/item?id=48495928"
     ],
@@ -211,22 +231,12 @@
   ],
   [
     [
-      "2026-06-11, 19:14:23",
-      "https://news.ycombinator.com/item?id=48495077"
+      "2026-06-11, 11:50:45",
+      "https://news.ycombinator.com/item?id=48489100"
     ],
     [
-      "Fudgetown, USA (2024)",
-      "https://tastecooking.com/fudgetown-usa/"
-    ]
-  ],
-  [
-    [
-      "2026-06-11, 00:06:36",
-      "https://news.ycombinator.com/item?id=48484555"
-    ],
-    [
-      "The Alchemist of Flesh: The Man Who Turned Humans into Stone(2025)",
-      "https://medium.com/@Arcaarcana/the-extraordinary-story-of-girolamo-segato-03d8dae30758"
+      "The Riemann Hypothesis – interactive explanation",
+      "https://riemann.adilmoujahid.com"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Automating Myself Out of Development",
       "https://www.thoughtfultechnologist.com/p/automating-myself-out-of-development"
-    ]
-  ],
-  [
-    [
-      "2026-06-09, 18:42:58",
-      "https://news.ycombinator.com/item?id=48465634"
-    ],
-    [
-      "The Future of wasi-gfx and wasi:webgpu",
-      "https://wasi-gfx.dev/blog/posts/future-of-wasi-gfx/"
     ]
   ]
 ]
