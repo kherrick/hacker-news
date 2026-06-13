@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-06-13, 12:40:16",
+      "https://news.ycombinator.com/item?id=48516710"
+    ],
+    [
+      "Introduction to the experience of rendering Arabic typography&its technical debt",
+      "https://lr0.org/blog/p/arabic/"
+    ]
+  ],
+  [
+    [
       "2026-06-13, 12:20:05",
       "https://news.ycombinator.com/item?id=48516573"
     ],
     [
       "An Interview with Intel's Kira Boyko: Xeon 6's Product Director",
       "https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko"
+    ]
+  ],
+  [
+    [
+      "2026-06-13, 12:17:27",
+      "https://news.ycombinator.com/item?id=48516558"
+    ],
+    [
+      "Sam Bankman-Fried loses bid to appeal against fraud conviction in FTX case",
+      "https://www.theguardian.com/business/2026/jun/12/sam-bankman-fried-loses-appeal"
     ]
   ],
   [
@@ -97,16 +117,6 @@
     [
       "There is a shadow hanging over this Fable thing",
       "https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow"
-    ]
-  ],
-  [
-    [
-      "2026-06-13, 04:37:08",
-      "https://news.ycombinator.com/item?id=48513222"
-    ],
-    [
-      "On CPU Physics and CPU Cycles",
-      "https://6it.dev/blog/on-cpu-physics-and-cpu-cycles-80730"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "The computer science degree isn’t dead",
       "https://spectrum.ieee.org/computer-science-degree-isnt-dead"
-    ]
-  ],
-  [
-    [
-      "2026-06-09, 21:00:39",
-      "https://news.ycombinator.com/item?id=48467697"
-    ],
-    [
-      "Tectonic: A modernized, complete, self-contained TeX/LaTeX engine",
-      "https://tectonic-typesetting.github.io/en-US/"
     ]
   ],
   [
