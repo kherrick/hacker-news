@@ -20,6 +20,7 @@
 * [2026-06-09, 19:58:21](https://news.ycombinator.com/item?id=48466812) - [Grit: Rewriting Git in Rust with Agents](https://blog.gitbutler.com/true-grit)
 * [2026-06-09, 19:35:00](https://news.ycombinator.com/item?id=48466488) - [Ask HN: Favorite text heavy blogs that are a joy to read?](https://news.ycombinator.com/item?id=48466488)
 * [2026-06-09, 19:21:45](https://news.ycombinator.com/item?id=48466277) - [Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks](https://aarushgupta.io/posts/kan-fpga/)
+* [2026-06-09, 18:59:19](https://news.ycombinator.com/item?id=48465890) - [Automating Myself Out of Development](https://www.thoughtfultechnologist.com/p/automating-myself-out-of-development)
 * [2026-06-09, 18:50:27](https://news.ycombinator.com/item?id=48465744) - [Apple's AI Can Now Change Your Passwords. What Could Possibly Go Wrong?](https://www.kylereddoch.me/blog/apples-ai-can-now-change-your-passwords-what-could-possibly-go-wrong/)
 * [2026-06-09, 18:47:52](https://news.ycombinator.com/item?id=48465702) - [Ask HN: Are you still using your Vision Pro?](https://news.ycombinator.com/item?id=48465702)
 * [2026-06-09, 18:45:59](https://news.ycombinator.com/item?id=48465675) - [CEOs Who Think AI Replaces Their Employees Are Just Bad CEOs](https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/)

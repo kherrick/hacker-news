@@ -47,6 +47,7 @@
 * [2026-06-10, 14:03:40](https://news.ycombinator.com/item?id=48476474) - [Notes on DeepSeek](https://news.ycombinator.com/item?id=48476474)
 * [2026-06-10, 14:02:59](https://news.ycombinator.com/item?id=48476466) - [PgDog is funded and coming to a database near you](https://pgdog.dev/blog/our-funding-announcement)
 * [2026-06-10, 13:46:14](https://news.ycombinator.com/item?id=48476214) - [Fully autonomous drones have killed human soldiers for the first time](https://www.newscientist.com/article/2529849-fully-autonomous-drones-have-killed-human-soldiers-for-the-first-time/)
+* [2026-06-10, 13:45:26](https://news.ycombinator.com/item?id=48476202) - [Show HN: Lightweight Task queue on Erlang/OTP, SQLite-backed, no overengineering](https://github.com/entGriff/ezra)
 * [2026-06-10, 13:39:11](https://news.ycombinator.com/item?id=48476136) - [A €0.01 bank transfer could compromise a banking AI agent](https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/)
 * [2026-06-10, 13:34:14](https://news.ycombinator.com/item?id=48476067) - [ICE denies having a protester database. A letter to Congress sheds more light](https://www.npr.org/2026/06/10/nx-s1-5843159/ice-protester-database-dhs)
 * [2026-06-10, 13:22:52](https://news.ycombinator.com/item?id=48475938) - [I Hate (Most) Keyboard 'Fn' Keys](https://danq.me/2026/06/09/fn-keys/)

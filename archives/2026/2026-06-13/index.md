@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-06-13](index.md)
 
+* [2026-06-13, 05:44:46](https://news.ycombinator.com/item?id=48513728) - [Shepherd's Dog: A Game by the Most Dangerous AI Model](https://koenvangilst.nl/lab/claude-fable-shepherds-dog)
+* [2026-06-13, 05:16:41](https://news.ycombinator.com/item?id=48513536) - [There is a shadow hanging over this Fable thing](https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow)
+* [2026-06-13, 04:37:08](https://news.ycombinator.com/item?id=48513222) - [On CPU Physics and CPU Cycles](https://6it.dev/blog/on-cpu-physics-and-cpu-cycles-80730)
 * [2026-06-13, 03:59:45](https://news.ycombinator.com/item?id=48512915) - [Our response to the US ban on Fable 5 and Mythos 5](https://isaacus.com/blog/our-response-to-the-us-ban-on-fable-5-and-mythos-5)
+* [2026-06-13, 02:50:10](https://news.ycombinator.com/item?id=48512286) - [A generic dynamic array in C that stores no capacity and needs no struct](https://gist.github.com/alurm/2ca14be134d719fe7431217a6b18d91e)
 * [2026-06-13, 02:14:24](https://news.ycombinator.com/item?id=48511908) - [Open Source AI Must Win](https://opensourceaimustwin.com/?share=v2)
 * [2026-06-13, 02:02:07](https://news.ycombinator.com/item?id=48511773) - [TycoonLE: A Jax reinforcement learning environment for long-horizon planning](https://github.com/vrtnis/tycoon-learning-environment)
 * [2026-06-13, 01:51:49](https://news.ycombinator.com/item?id=48511663) - [Reddit RSS feeds recent rate limiting and solution](https://lapcatsoftware.com/articles/2026/6/3.html)
