@@ -68,4 +68,5 @@
 * [2026-06-10, 02:25:24](https://news.ycombinator.com/item?id=48470581) - [Rich Sutton on AI creativity and discovery](https://twitter.com/RichardSSutton/status/2061216087744946656)
 * [2026-06-10, 02:25:05](https://news.ycombinator.com/item?id=48470578) - [Smudging the game disc to make speedrunning 'SpongeBob' faster](https://www.inverse.com/input/gaming/the-dirty-secret-that-makes-speedrunning-on-spongebob-a-lot-faster)
 * [2026-06-10, 01:44:13](https://news.ycombinator.com/item?id=48470248) - [German ruling declares Google liable for false answers in AI Overviews](https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/)
+* [2026-06-10, 01:33:43](https://news.ycombinator.com/item?id=48470152) - [Why a Computer Science Degree Still Opens Hidden Doors](https://spectrum.ieee.org/computer-science-degree-isnt-dead)
 * [2026-06-10, 00:29:01](https://news.ycombinator.com/item?id=48469658) - [macOS Container Machines](https://github.com/apple/container/blob/main/docs/container-machine.md)

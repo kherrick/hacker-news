@@ -23,6 +23,7 @@
 * [2026-06-09, 18:50:27](https://news.ycombinator.com/item?id=48465744) - [Apple's AI Can Now Change Your Passwords. What Could Possibly Go Wrong?](https://www.kylereddoch.me/blog/apples-ai-can-now-change-your-passwords-what-could-possibly-go-wrong/)
 * [2026-06-09, 18:47:52](https://news.ycombinator.com/item?id=48465702) - [Ask HN: Are you still using your Vision Pro?](https://news.ycombinator.com/item?id=48465702)
 * [2026-06-09, 18:45:59](https://news.ycombinator.com/item?id=48465675) - [CEOs Who Think AI Replaces Their Employees Are Just Bad CEOs](https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/)
+* [2026-06-09, 18:42:58](https://news.ycombinator.com/item?id=48465634) - [The Future of wasi-gfx and wasi:webgpu](https://wasi-gfx.dev/blog/posts/future-of-wasi-gfx/)
 * [2026-06-09, 18:21:43](https://news.ycombinator.com/item?id=48465269) - [GPT-2: Too Dangerous To Release (2019)](https://naokishibuya.github.io/blog/2022-12-30-gpt-2-2019/)
 * [2026-06-09, 17:37:11](https://news.ycombinator.com/item?id=48464484) - [Who's the Smartest Corvid?](https://thetyee.ca/Culture/2026/06/05/Whos-the-Smartest-Corvid/)
 * [2026-06-09, 17:29:17](https://news.ycombinator.com/item?id=48464333) - [Where is the AI jobs crisis?](https://www.apollo.com/wealth/the-daily-spark/where-is-the-ai-jobs-crisis)
