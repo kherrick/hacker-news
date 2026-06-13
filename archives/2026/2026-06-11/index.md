@@ -21,6 +21,7 @@
 * [2026-06-11, 19:23:52](https://news.ycombinator.com/item?id=48495197) - [Who Runs the Ransomware Group 'The Gentlemen?'](https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/)
 * [2026-06-11, 19:14:23](https://news.ycombinator.com/item?id=48495077) - [Fudgetown, USA (2024)](https://tastecooking.com/fudgetown-usa/)
 * [2026-06-11, 18:46:22](https://news.ycombinator.com/item?id=48494716) - [Finding Optimal Tokenizers](https://blog.aqnichol.com/2026/06/10/optimal-tokenizers/)
+* [2026-06-11, 18:14:58](https://news.ycombinator.com/item?id=48494270) - [The MilkV Jupiter 2/SpacemiT K3 (RISC-V vector compute)](https://taoofmac.com/space/reviews/2026/06/11/1830)
 * [2026-06-11, 17:47:39](https://news.ycombinator.com/item?id=48493786) - [Show HN: A police department for your Claude Code agents](https://github.com/varmabudharaju/agent-pd/blob/master/README.md)
 * [2026-06-11, 17:35:19](https://news.ycombinator.com/item?id=48493564) - [Apple didn't revolutionize power supplies; new transistors did](https://www.righto.com/2012/02/apple-didnt-revolutionize-power.html)
 * [2026-06-11, 17:32:35](https://news.ycombinator.com/item?id=48493512) - [There Is Life Before Main in Rust](https://grack.com/blog/2026/06/11/life-before-main/)
