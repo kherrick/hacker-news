@@ -4,7 +4,6 @@
 * [2026-06-13, 16:49:42](https://news.ycombinator.com/item?id=48519011) - [The adder at the heart of Intel's 8087 floating-point chip](https://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html)
 * [2026-06-13, 16:45:03](https://news.ycombinator.com/item?id=48518969) - [AI Coding at Home Without Going Broke](https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/)
 * [2026-06-13, 16:18:31](https://news.ycombinator.com/item?id=48518684) - [GLM 5.2 Is Out](https://digg.com/tech/ii9xibgn)
-* [2026-06-13, 13:58:46](https://news.ycombinator.com/item?id=48517412) - [Orthodox C++](https://bkaradzic.github.io/posts/orthodoxc++/)
 * [2026-06-13, 13:54:56](https://news.ycombinator.com/item?id=48517377) - [US bans differential privacy in Census data](https://desfontain.es/blog/banning-noise.html)
 * [2026-06-13, 13:34:00](https://news.ycombinator.com/item?id=48517199) - [Treating pancreatic tumours may have revealed cancer's master switch](https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch)
 * [2026-06-13, 12:40:16](https://news.ycombinator.com/item?id=48516710) - [Introduction to the experience of rendering Arabic typography&its technical debt](https://lr0.org/blog/p/arabic/)
@@ -25,11 +24,12 @@
 * [2026-06-12, 17:34:55](https://news.ycombinator.com/item?id=48507020) - [How to setup a local coding agent on macOS](https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos)
 * [2026-06-12, 15:15:24](https://news.ycombinator.com/item?id=48505231) - [CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers](https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/)
 * [2026-06-11, 20:24:18](https://news.ycombinator.com/item?id=48495928) - [Malware developers added nuclear and biological weapons text to to their spyware](https://twitter.com/jsrailton/status/2064661778978533571)
+* [2026-06-11, 00:00:42](https://news.ycombinator.com/item?id=48484496) - [H.R. 6028 would fundamentally change the U.S. Copyright Office](https://www.eff.org/deeplinks/2026/06/congress-just-rushed-through-disastrous-copyright-office-overhaul)
 * [2026-06-10, 19:28:49](https://news.ycombinator.com/item?id=48481400) - [Show HN: I am building a map of people who lived in the Roman Empire](https://new.roman-names.com/)
 * [2026-06-10, 16:44:23](https://news.ycombinator.com/item?id=48479008) - [The state of building user interfaces in Rust](https://areweguiyet.com/#ecosystem)
 * [2026-06-10, 01:33:43](https://news.ycombinator.com/item?id=48470152) - [The computer science degree isn’t dead](https://spectrum.ieee.org/computer-science-degree-isnt-dead)
+* [2026-06-09, 21:59:41](https://news.ycombinator.com/item?id=48468352) - [Trophic memory, deer, and a unique scientific object](https://thoughtforms.life/trophic-memory-deer-and-a-truly-unique-scientific-object/)
 * [2026-06-09, 20:41:44](https://news.ycombinator.com/item?id=48467437) - [Appreciating Exif](https://brentfitzgerald.com/posts/appreciating-exif/)
-* [2026-06-09, 15:41:21](https://news.ycombinator.com/item?id=48462577) - [What about OpenCL and CUDA C++ alternatives?](https://www.modular.com/blog/democratizing-ai-compute-part-5-what-about-cuda-c-alternatives)
 
 ## [Archives](archives/index.md)
 
