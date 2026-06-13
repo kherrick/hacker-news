@@ -46,6 +46,7 @@
 * [2026-06-09, 15:01:15](https://news.ycombinator.com/item?id=48462062) - [Can LLMs Beat Classical Hyperparameter Optimization Algorithms?](https://arxiv.org/abs/2603.24647)
 * [2026-06-09, 14:29:34](https://news.ycombinator.com/item?id=48461635) - [Build a Basic AI Agent from Scratch: Long Task Planning](https://medium.com/@rogi23696/build-a-basic-ai-agent-from-scratch-long-task-planning-14e803f9bd6d)
 * [2026-06-09, 14:14:04](https://news.ycombinator.com/item?id=48461442) - [Symbolicating a minified stack trace by hand: why source maps can't do it alone](https://tracewayapp.com/blog/deep-dive-into-the-sourcemaps)
+* [2026-06-09, 14:09:26](https://news.ycombinator.com/item?id=48461365) - [Exceptions should not be handled – they should be aggregated](https://zenodo.org/records/20492768)
 * [2026-06-09, 14:04:54](https://news.ycombinator.com/item?id=48461311) - [Unified Controllable and Faithful Text-to-CAD Generation with LLMs](https://arxiv.org/abs/2604.19773)
 * [2026-06-09, 13:56:38](https://news.ycombinator.com/item?id=48461226) - [WWDC 2026: Apple is Folding](https://cupertinolens.com/2026/06/09/wwdc-2026-apple-is-folding/)
 * [2026-06-09, 13:39:31](https://news.ycombinator.com/item?id=48461012) - [Albania Is Not for Sale: Kushner's $4B Resort Triggers'Flamingo Revolution'](https://www.yacnews.com/albania-is-not-for-sale-kushners-4-billion-resort-triggers-flamingo-revolution-asset-freeze-and-an-eu-warning/)

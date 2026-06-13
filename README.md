@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-06-13, 09:44:25](https://news.ycombinator.com/item?id=48515385) - [Show HN: Paca – Lightweight Jira alternative for human-AI collaboration](https://github.com/Paca-AI/paca)
+* [2026-06-13, 09:38:32](https://news.ycombinator.com/item?id=48515336) - [A low-carbon computing platform from your retired phones](https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/)
 * [2026-06-13, 07:45:39](https://news.ycombinator.com/item?id=48514560) - [Israeli firm BlackCore suspected of meddling in New York and Scotland votes](https://www.reuters.com/world/israeli-firm-blackcore-also-suspected-meddling-nyc-scotland-votes-french-2026-06-11/)
-* [2026-06-13, 07:30:59](https://news.ycombinator.com/item?id=48514461) - [Ask HN: What Are You Working On?](https://news.ycombinator.com/item?id=48514461)
 * [2026-06-13, 06:43:42](https://news.ycombinator.com/item?id=48514124) - [Show HN: Skill for your agent to visualize your gbrain and Obsidian](https://github.com/vladignatyev/brain-map-skill)
 * [2026-06-13, 05:57:14](https://news.ycombinator.com/item?id=48513806) - [Leaving Mozilla](https://blog.unitedheroes.net/5751)
 * [2026-06-13, 05:44:46](https://news.ycombinator.com/item?id=48513728) - [Shepherd's Dog: A Game by the Most Dangerous AI Model](https://koenvangilst.nl/lab/claude-fable-shepherds-dog)
@@ -12,7 +13,6 @@
 * [2026-06-12, 22:56:06](https://news.ycombinator.com/item?id=48510341) - [Show HN: Putt.day a daily mini golf game](https://putt.day/)
 * [2026-06-12, 22:13:29](https://news.ycombinator.com/item?id=48510046) - [Twenty One Zero-Days in FFmpeg](https://depthfirst.com/research/21-zero-days-in-ffmpeg)
 * [2026-06-12, 22:08:03](https://news.ycombinator.com/item?id=48510010) - [Electric motors with no rare earths](https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/)
-* [2026-06-12, 20:39:36](https://news.ycombinator.com/item?id=48509182) - [Palantir loses legal challenge against Swiss investigative magazine](https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979)
 * [2026-06-12, 19:54:27](https://news.ycombinator.com/item?id=48508726) - [Swift at Apple: Migrating the TrueType hinting interpreter](https://www.swift.org/blog/migrating-truetype-hinting-to-swift/)
 * [2026-06-12, 17:34:55](https://news.ycombinator.com/item?id=48507020) - [How to setup a local coding agent on macOS](https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos)
 * [2026-06-12, 17:07:46](https://news.ycombinator.com/item?id=48506659) - [Pirates, a naval warfare game inspired by Sid Meier's Pirates](https://piwodlaiwo.github.io/pirates/)
@@ -24,12 +24,12 @@
 * [2026-06-11, 10:23:59](https://news.ycombinator.com/item?id=48488463) - [Using the Epson Perfection V39 II Scanner on Ubuntu](https://patches.joao.town/using-epson-perfection-v39ii-scanner-ubuntu/)
 * [2026-06-11, 00:06:36](https://news.ycombinator.com/item?id=48484555) - [The Alchemist of Flesh: The Man Who Turned Humans into Stone(2025)](https://medium.com/@Arcaarcana/the-extraordinary-story-of-girolamo-segato-03d8dae30758)
 * [2026-06-11, 00:00:42](https://news.ycombinator.com/item?id=48484496) - [H.R. 6028 would fundamentally change the U.S. Copyright Office](https://www.eff.org/deeplinks/2026/06/congress-just-rushed-through-disastrous-copyright-office-overhaul)
-* [2026-06-10, 17:27:56](https://news.ycombinator.com/item?id=48479652) - [A key remapping daemon for Linux](https://github.com/rvaiya/keyd)
 * [2026-06-10, 13:45:26](https://news.ycombinator.com/item?id=48476202) - [Show HN: Lightweight Task queue on Erlang/OTP, SQLite-backed, no overengineering](https://github.com/entGriff/ezra)
 * [2026-06-10, 01:33:43](https://news.ycombinator.com/item?id=48470152) - [The computer science degree isn’t dead](https://spectrum.ieee.org/computer-science-degree-isnt-dead)
 * [2026-06-09, 21:00:39](https://news.ycombinator.com/item?id=48467697) - [Tectonic: A modernized, complete, self-contained TeX/LaTeX engine](https://tectonic-typesetting.github.io/en-US/)
 * [2026-06-09, 18:59:19](https://news.ycombinator.com/item?id=48465890) - [Automating Myself Out of Development](https://www.thoughtfultechnologist.com/p/automating-myself-out-of-development)
 * [2026-06-09, 18:42:58](https://news.ycombinator.com/item?id=48465634) - [The Future of wasi-gfx and wasi:webgpu](https://wasi-gfx.dev/blog/posts/future-of-wasi-gfx/)
+* [2026-06-09, 14:09:26](https://news.ycombinator.com/item?id=48461365) - [Exceptions should not be handled – they should be aggregated](https://zenodo.org/records/20492768)
 
 ## [Archives](archives/index.md)
 

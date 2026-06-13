@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-13](index.md)
 
+* [2026-06-13, 09:44:25](https://news.ycombinator.com/item?id=48515385) - [Show HN: Paca – Lightweight Jira alternative for human-AI collaboration](https://github.com/Paca-AI/paca)
+* [2026-06-13, 09:38:32](https://news.ycombinator.com/item?id=48515336) - [A low-carbon computing platform from your retired phones](https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/)
 * [2026-06-13, 07:45:39](https://news.ycombinator.com/item?id=48514560) - [Israeli firm BlackCore suspected of meddling in New York and Scotland votes](https://www.reuters.com/world/israeli-firm-blackcore-also-suspected-meddling-nyc-scotland-votes-french-2026-06-11/)
 * [2026-06-13, 07:30:59](https://news.ycombinator.com/item?id=48514461) - [Ask HN: What Are You Working On?](https://news.ycombinator.com/item?id=48514461)
 * [2026-06-13, 06:43:42](https://news.ycombinator.com/item?id=48514124) - [Show HN: Skill for your agent to visualize your gbrain and Obsidian](https://github.com/vladignatyev/brain-map-skill)
