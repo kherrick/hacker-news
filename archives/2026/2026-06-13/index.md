@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-06-13](index.md)
 
+* [2026-06-13, 19:33:10](https://news.ycombinator.com/item?id=48520613) - [Texas is America Inc's new centre of gravity](https://www.economist.com/business/2026/05/31/texas-is-america-incs-new-centre-of-gravity)
+* [2026-06-13, 18:35:15](https://news.ycombinator.com/item?id=48520110) - [What Happens to an Economy When It's Too Hot to Work?](https://www.bloomberg.com/news/features/2026-06-12/india-s-extreme-heat-is-hurting-its-economy-and-workers)
 * [2026-06-13, 18:32:22](https://news.ycombinator.com/item?id=48520080) - [Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch](https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/)
 * [2026-06-13, 17:43:02](https://news.ycombinator.com/item?id=48519552) - [GameBoy Workboy](https://tcrf.net/Workboy)
 * [2026-06-13, 17:39:14](https://news.ycombinator.com/item?id=48519519) - [PwC Report: AI Making Medical Bills Higher](https://fortune.com/2026/06/12/ai-making-medical-bills-higher/)
+* [2026-06-13, 16:57:49](https://news.ycombinator.com/item?id=48519092) - [Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models](https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink)
 * [2026-06-13, 16:57:49](https://news.ycombinator.com/item?id=48519092) - [Amazon CEO's Talks with U.S. Officials Triggered Crackdown on Anthropic Models](https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578)
 * [2026-06-13, 16:49:42](https://news.ycombinator.com/item?id=48519011) - [The adder at the heart of Intel's 8087 floating-point chip](https://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html)
 * [2026-06-13, 16:45:03](https://news.ycombinator.com/item?id=48518969) - [AI Coding at Home Without Going Broke](https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/)
