@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-06-13](index.md)
 
 * [2026-06-13, 22:43:30](https://news.ycombinator.com/item?id=48522237) - [Derbyshire Police officer accused of using AI to 'create evidence'](https://www.bbc.com/news/articles/cy8wppwdxl6o)
+* [2026-06-13, 21:35:24](https://news.ycombinator.com/item?id=48521709) - [Human Routers of Machine Words](https://borretti.me/article/human-routers-of-machine-words)
 * [2026-06-13, 19:54:55](https://news.ycombinator.com/item?id=48520807) - [Police officer investigated for using AI to 'create evidence' in multiple cases](https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661)
 * [2026-06-13, 19:33:10](https://news.ycombinator.com/item?id=48520613) - [Texas is America Inc's new centre of gravity](https://www.economist.com/business/2026/05/31/texas-is-america-incs-new-centre-of-gravity)
 * [2026-06-13, 18:35:15](https://news.ycombinator.com/item?id=48520110) - [What Happens to an Economy When It's Too Hot to Work?](https://www.bloomberg.com/news/features/2026-06-12/india-s-extreme-heat-is-hurting-its-economy-and-workers)

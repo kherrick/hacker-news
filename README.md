@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-06-13, 22:43:30](https://news.ycombinator.com/item?id=48522237) - [Derbyshire Police officer accused of using AI to 'create evidence'](https://www.bbc.com/news/articles/cy8wppwdxl6o)
+* [2026-06-13, 21:35:24](https://news.ycombinator.com/item?id=48521709) - [Human Routers of Machine Words](https://borretti.me/article/human-routers-of-machine-words)
 * [2026-06-13, 19:54:55](https://news.ycombinator.com/item?id=48520807) - [Police officer investigated for using AI to 'create evidence' in multiple cases](https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661)
 * [2026-06-13, 18:35:15](https://news.ycombinator.com/item?id=48520110) - [What Happens to an Economy When It's Too Hot to Work?](https://www.bloomberg.com/news/features/2026-06-12/india-s-extreme-heat-is-hurting-its-economy-and-workers)
 * [2026-06-13, 18:32:22](https://news.ycombinator.com/item?id=48520080) - [Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch](https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/)
@@ -20,7 +21,6 @@
 * [2026-06-13, 09:44:25](https://news.ycombinator.com/item?id=48515385) - [Show HN: Paca – Lightweight Jira alternative for human-AI collaboration](https://github.com/Paca-AI/paca)
 * [2026-06-13, 09:38:32](https://news.ycombinator.com/item?id=48515336) - [A low-carbon computing platform from your retired phones](https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/)
 * [2026-06-13, 07:45:39](https://news.ycombinator.com/item?id=48514560) - [Israeli firm BlackCore suspected of meddling in New York and Scotland votes](https://www.reuters.com/world/israeli-firm-blackcore-also-suspected-meddling-nyc-scotland-votes-french-2026-06-11/)
-* [2026-06-13, 05:44:46](https://news.ycombinator.com/item?id=48513728) - [Shepherd's Dog: A Game by Fable](https://koenvangilst.nl/lab/claude-fable-shepherds-dog)
 * [2026-06-11, 22:20:03](https://news.ycombinator.com/item?id=48497195) - [Codex for open source](https://openai.com/form/codex-for-oss/)
 * [2026-06-11, 18:14:58](https://news.ycombinator.com/item?id=48494270) - [The MilkV Jupiter 2/SpacemiT K3 (RISC-V vector compute)](https://taoofmac.com/space/reviews/2026/06/11/1830)
 * [2026-06-11, 15:46:27](https://news.ycombinator.com/item?id=48491968) - [Resurrecting a Soaked, corroded, and damaged Commodore SX‑64 (2025)](https://jerrylparker.com/blogs/posts/sx-64.html)
