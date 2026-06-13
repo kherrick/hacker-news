@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-13](index.md)
 
+* [2026-06-13, 18:32:22](https://news.ycombinator.com/item?id=48520080) - [Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch](https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/)
 * [2026-06-13, 17:43:02](https://news.ycombinator.com/item?id=48519552) - [GameBoy Workboy](https://tcrf.net/Workboy)
 * [2026-06-13, 17:39:14](https://news.ycombinator.com/item?id=48519519) - [PwC Report: AI Making Medical Bills Higher](https://fortune.com/2026/06/12/ai-making-medical-bills-higher/)
 * [2026-06-13, 16:57:49](https://news.ycombinator.com/item?id=48519092) - [Amazon CEO's Talks with U.S. Officials Triggered Crackdown on Anthropic Models](https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578)
