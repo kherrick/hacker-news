@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-06-13, 11:55:30](https://news.ycombinator.com/item?id=48516379) - [Arch Linux Now Believes Malware Incident Under Control: More Than 1,500 Packages](https://www.phoronix.com/news/Arch-Linux-AUR-More-Than-1500)
 * [2026-06-13, 09:44:25](https://news.ycombinator.com/item?id=48515385) - [Show HN: Paca – Lightweight Jira alternative for human-AI collaboration](https://github.com/Paca-AI/paca)
 * [2026-06-13, 09:38:32](https://news.ycombinator.com/item?id=48515336) - [A low-carbon computing platform from your retired phones](https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/)
 * [2026-06-13, 07:45:39](https://news.ycombinator.com/item?id=48514560) - [Israeli firm BlackCore suspected of meddling in New York and Scotland votes](https://www.reuters.com/world/israeli-firm-blackcore-also-suspected-meddling-nyc-scotland-votes-french-2026-06-11/)
-* [2026-06-13, 06:43:42](https://news.ycombinator.com/item?id=48514124) - [Show HN: Skill for your agent to visualize your gbrain and Obsidian](https://github.com/vladignatyev/brain-map-skill)
 * [2026-06-13, 05:57:14](https://news.ycombinator.com/item?id=48513806) - [Leaving Mozilla](https://blog.unitedheroes.net/5751)
 * [2026-06-13, 05:44:46](https://news.ycombinator.com/item?id=48513728) - [Shepherd's Dog: A Game by the Most Dangerous AI Model](https://koenvangilst.nl/lab/claude-fable-shepherds-dog)
 * [2026-06-13, 05:16:41](https://news.ycombinator.com/item?id=48513536) - [There is a shadow hanging over this Fable thing](https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow)
@@ -19,6 +19,7 @@
 * [2026-06-12, 16:58:03](https://news.ycombinator.com/item?id=48506545) - [Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents](https://bitboard.work/)
 * [2026-06-12, 15:15:24](https://news.ycombinator.com/item?id=48505231) - [CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers](https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/)
 * [2026-06-12, 14:48:38](https://news.ycombinator.com/item?id=48504912) - [Slightly reducing the sloppiness of AI generated front end](https://envs.net/~volpe/blog/posts/reduce-slop.html)
+* [2026-06-11, 23:01:55](https://news.ycombinator.com/item?id=48497609) - [If you are asking for human attention, demonstrate human effort](https://tombedor.dev/human-attention-and-human-effort/)
 * [2026-06-11, 20:24:18](https://news.ycombinator.com/item?id=48495928) - [Malware developers added nuclear and biological weapons text to to their spyware](https://twitter.com/jsrailton/status/2064661778978533571)
 * [2026-06-11, 19:14:23](https://news.ycombinator.com/item?id=48495077) - [Fudgetown, USA (2024)](https://tastecooking.com/fudgetown-usa/)
 * [2026-06-11, 00:06:36](https://news.ycombinator.com/item?id=48484555) - [The Alchemist of Flesh: The Man Who Turned Humans into Stone(2025)](https://medium.com/@Arcaarcana/the-extraordinary-story-of-girolamo-segato-03d8dae30758)
@@ -29,7 +30,6 @@
 * [2026-06-09, 21:00:39](https://news.ycombinator.com/item?id=48467697) - [Tectonic: A modernized, complete, self-contained TeX/LaTeX engine](https://tectonic-typesetting.github.io/en-US/)
 * [2026-06-09, 18:59:19](https://news.ycombinator.com/item?id=48465890) - [Automating Myself Out of Development](https://www.thoughtfultechnologist.com/p/automating-myself-out-of-development)
 * [2026-06-09, 18:42:58](https://news.ycombinator.com/item?id=48465634) - [The Future of wasi-gfx and wasi:webgpu](https://wasi-gfx.dev/blog/posts/future-of-wasi-gfx/)
-* [2026-06-09, 14:09:26](https://news.ycombinator.com/item?id=48461365) - [Exceptions should not be handled – they should be aggregated](https://zenodo.org/records/20492768)
 
 ## [Archives](archives/index.md)
 
