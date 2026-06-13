@@ -58,6 +58,7 @@
 * [2026-06-11, 11:41:17](https://news.ycombinator.com/item?id=48489004) - [BYD is bringing its 5-min 'Flash' electric car charging to Canada](https://electrek.co/2026/06/10/byd-flash-charging-canada-5-minute-ev-charging-network/)
 * [2026-06-11, 11:26:25](https://news.ycombinator.com/item?id=48488901) - [Human migration has surged since 2000 – these maps reveal where people are going](https://www.nature.com/articles/d41586-026-01796-y)
 * [2026-06-11, 10:38:24](https://news.ycombinator.com/item?id=48488553) - [HTML is a native image format, hear me out](https://hmml.eddocu.com)
+* [2026-06-11, 10:23:59](https://news.ycombinator.com/item?id=48488463) - [Using the Epson Perfection V39 II Scanner on Ubuntu](https://patches.joao.town/using-epson-perfection-v39ii-scanner-ubuntu/)
 * [2026-06-11, 08:47:36](https://news.ycombinator.com/item?id=48487897) - [Web Browsers on Video Game Consoles](https://vale.rocks/posts/game-console-browsers)
 * [2026-06-11, 08:38:00](https://news.ycombinator.com/item?id=48487829) - [Making a vintage LLM from scratch](https://crlf.link/log/entries/260525-1/)
 * [2026-06-11, 07:51:17](https://news.ycombinator.com/item?id=48487540) - [Why AI hasn't replaced software engineers, and won't](https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-13](index.md)
 
+* [2026-06-13, 07:45:39](https://news.ycombinator.com/item?id=48514560) - [Israeli firm BlackCore suspected of meddling in New York and Scotland votes](https://www.reuters.com/world/israeli-firm-blackcore-also-suspected-meddling-nyc-scotland-votes-french-2026-06-11/)
+* [2026-06-13, 06:43:42](https://news.ycombinator.com/item?id=48514124) - [Show HN: Skill for your agent to visualize your gbrain and Obsidian](https://github.com/vladignatyev/brain-map-skill)
 * [2026-06-13, 05:57:14](https://news.ycombinator.com/item?id=48513806) - [Leaving Mozilla](https://blog.unitedheroes.net/5751)
 * [2026-06-13, 05:44:46](https://news.ycombinator.com/item?id=48513728) - [Shepherd's Dog: A Game by the Most Dangerous AI Model](https://koenvangilst.nl/lab/claude-fable-shepherds-dog)
 * [2026-06-13, 05:16:41](https://news.ycombinator.com/item?id=48513536) - [There is a shadow hanging over this Fable thing](https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow)
