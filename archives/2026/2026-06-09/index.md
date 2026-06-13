@@ -41,6 +41,7 @@
 * [2026-06-09, 16:12:52](https://news.ycombinator.com/item?id=48463018) - [Biff.core: system composition for Clojure web apps](https://biffweb.com/p/core/)
 * [2026-06-09, 16:06:50](https://news.ycombinator.com/item?id=48462928) - [Show HN: Claw Patrol, a security firewall for agents](https://github.com/denoland/clawpatrol)
 * [2026-06-09, 15:59:41](https://news.ycombinator.com/item?id=48462823) - ['Sloppenheimer:' Amazon Employees Mock the Company's AI on Slack](https://www.404media.co/sloppenheimer-amazon-employees-mock-the-companys-ai-on-slack/)
+* [2026-06-09, 15:41:21](https://news.ycombinator.com/item?id=48462577) - [What about OpenCL and CUDA C++ alternatives?](https://www.modular.com/blog/democratizing-ai-compute-part-5-what-about-cuda-c-alternatives)
 * [2026-06-09, 15:21:46](https://news.ycombinator.com/item?id=48462308) - [FCC Wants to Kill Burner Phones by Forcing Telecoms to Get All Customers' IDs](https://www.404media.co/fcc-wants-to-kill-burner-phones-by-forcing-telecoms-to-get-all-customers-ids/)
 * [2026-06-09, 15:12:30](https://news.ycombinator.com/item?id=48462184) - [Using Optical Aberrations to Distinguish Real Astronomical Transients](https://arxiv.org/abs/2606.08319)
 * [2026-06-09, 15:09:38](https://news.ycombinator.com/item?id=48462156) - [Solar Energy Saves Europeans $135M a Day](https://cleantechnica.com/2026/06/08/solar-energy-saves-europeans-135-million-a-day/)
