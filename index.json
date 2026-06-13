@@ -1,12 +1,42 @@
 [
   [
     [
-      "2026-06-13, 03:59:45",
-      "https://news.ycombinator.com/item?id=48512915"
+      "2026-06-13, 05:44:46",
+      "https://news.ycombinator.com/item?id=48513728"
     ],
     [
-      "Our response to the US ban on Fable 5 and Mythos 5",
-      "https://isaacus.com/blog/our-response-to-the-us-ban-on-fable-5-and-mythos-5"
+      "Shepherd's Dog: A Game by the Most Dangerous AI Model",
+      "https://koenvangilst.nl/lab/claude-fable-shepherds-dog"
+    ]
+  ],
+  [
+    [
+      "2026-06-13, 05:16:41",
+      "https://news.ycombinator.com/item?id=48513536"
+    ],
+    [
+      "There is a shadow hanging over this Fable thing",
+      "https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow"
+    ]
+  ],
+  [
+    [
+      "2026-06-13, 04:37:08",
+      "https://news.ycombinator.com/item?id=48513222"
+    ],
+    [
+      "On CPU Physics and CPU Cycles",
+      "https://6it.dev/blog/on-cpu-physics-and-cpu-cycles-80730"
+    ]
+  ],
+  [
+    [
+      "2026-06-13, 02:50:10",
+      "https://news.ycombinator.com/item?id=48512286"
+    ],
+    [
+      "A generic dynamic array in C that stores no capacity and needs no struct",
+      "https://gist.github.com/alurm/2ca14be134d719fe7431217a6b18d91e"
     ]
   ],
   [
@@ -31,32 +61,12 @@
   ],
   [
     [
-      "2026-06-13, 01:02:41",
-      "https://news.ycombinator.com/item?id=48511168"
-    ],
-    [
-      "As a result of a US Government directive, we are suspending access to Fable 5",
-      "https://twitter.com/ClaudeDevs/status/2065597942602531163"
-    ]
-  ],
-  [
-    [
       "2026-06-13, 00:51:30",
       "https://news.ycombinator.com/item?id=48511072"
     ],
     [
       "Statement on US government directive to suspend access to Fable 5 and Mythos 5",
       "https://www.anthropic.com/news/fable-mythos-access"
-    ]
-  ],
-  [
-    [
-      "2026-06-12, 22:57:27",
-      "https://news.ycombinator.com/item?id=48510357"
-    ],
-    [
-      "AMD Stiffs Researcher $10k Bug Bounty",
-      "https://www.gadgetreview.com/amd-stiffs-researcher-10000-bug-bounty-after-critical-security-flaw-takes-124-days-to-fix"
     ]
   ],
   [
@@ -85,7 +95,7 @@
       "https://news.ycombinator.com/item?id=48510010"
     ],
     [
-      "Renault: Electric motors with no rare earths",
+      "Electric motors with no rare earths",
       "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/"
     ]
   ],
@@ -111,32 +121,12 @@
   ],
   [
     [
-      "2026-06-12, 20:33:22",
-      "https://news.ycombinator.com/item?id=48509133"
-    ],
-    [
-      "/architect: Reduce Fable tokens by 80%, Fable orchestrates/reviews, Codex builds",
-      "https://github.com/DanMcInerney/architect-loop"
-    ]
-  ],
-  [
-    [
       "2026-06-12, 19:54:27",
       "https://news.ycombinator.com/item?id=48508726"
     ],
     [
       "Swift at Apple: Migrating the TrueType hinting interpreter",
       "https://www.swift.org/blog/migrating-truetype-hinting-to-swift/"
-    ]
-  ],
-  [
-    [
-      "2026-06-12, 18:15:19",
-      "https://news.ycombinator.com/item?id=48507499"
-    ],
-    [
-      "Most Beautiful Will Ever Made (1936)",
-      "https://paperspast.natlib.govt.nz/newspapers/DOM19360307.2.43"
     ]
   ],
   [
@@ -221,16 +211,6 @@
   ],
   [
     [
-      "2026-06-12, 12:00:02",
-      "https://news.ycombinator.com/item?id=48503014"
-    ],
-    [
-      "Maxproof",
-      "https://arxiv.org/abs/2606.13473"
-    ]
-  ],
-  [
-    [
       "2026-06-11, 23:01:55",
       "https://news.ycombinator.com/item?id=48497609"
     ],
@@ -271,11 +251,21 @@
   ],
   [
     [
+      "2026-06-10, 13:45:26",
+      "https://news.ycombinator.com/item?id=48476202"
+    ],
+    [
+      "Show HN: Lightweight Task queue on Erlang/OTP, SQLite-backed, no overengineering",
+      "https://github.com/entGriff/ezra"
+    ]
+  ],
+  [
+    [
       "2026-06-10, 01:33:43",
       "https://news.ycombinator.com/item?id=48470152"
     ],
     [
-      "Why a Computer Science Degree Still Opens Hidden Doors",
+      "The computer science degree isn’t dead",
       "https://spectrum.ieee.org/computer-science-degree-isnt-dead"
     ]
   ],
@@ -287,6 +277,16 @@
     [
       "Tectonic: A modernized, complete, self-contained TeX/LaTeX engine",
       "https://tectonic-typesetting.github.io/en-US/"
+    ]
+  ],
+  [
+    [
+      "2026-06-09, 18:59:19",
+      "https://news.ycombinator.com/item?id=48465890"
+    ],
+    [
+      "Automating Myself Out of Development",
+      "https://www.thoughtfultechnologist.com/p/automating-myself-out-of-development"
     ]
   ],
   [
