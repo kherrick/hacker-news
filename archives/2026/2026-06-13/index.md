@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-13](index.md)
 
+* [2026-06-13, 05:57:14](https://news.ycombinator.com/item?id=48513806) - [Leaving Mozilla](https://blog.unitedheroes.net/5751)
 * [2026-06-13, 05:44:46](https://news.ycombinator.com/item?id=48513728) - [Shepherd's Dog: A Game by the Most Dangerous AI Model](https://koenvangilst.nl/lab/claude-fable-shepherds-dog)
 * [2026-06-13, 05:16:41](https://news.ycombinator.com/item?id=48513536) - [There is a shadow hanging over this Fable thing](https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow)
 * [2026-06-13, 04:37:08](https://news.ycombinator.com/item?id=48513222) - [On CPU Physics and CPU Cycles](https://6it.dev/blog/on-cpu-physics-and-cpu-cycles-80730)

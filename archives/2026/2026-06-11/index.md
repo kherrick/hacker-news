@@ -71,4 +71,5 @@
 * [2026-06-11, 01:26:03](https://news.ycombinator.com/item?id=48485160) - [Are insecure code completions in PyCharm a vulnerability?](https://sethmlarson.dev/are-insecure-code-completions-a-vulnerability)
 * [2026-06-11, 00:23:04](https://news.ycombinator.com/item?id=48484695) - [I was tired of repos that say they run but don't](https://github.com/rossbuckley1990-hash/bootproof)
 * [2026-06-11, 00:10:08](https://news.ycombinator.com/item?id=48484584) - [AI agent runs amok in Fedora and elsewhere](https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/)
+* [2026-06-11, 00:06:36](https://news.ycombinator.com/item?id=48484555) - [The Alchemist of Flesh: The Man Who Turned Humans into Stone(2025)](https://medium.com/@Arcaarcana/the-extraordinary-story-of-girolamo-segato-03d8dae30758)
 * [2026-06-11, 00:00:42](https://news.ycombinator.com/item?id=48484496) - [Congress Just Rushed Through a Disastrous Copyright Office Overhaul](https://www.eff.org/deeplinks/2026/06/congress-just-rushed-through-disastrous-copyright-office-overhaul)
