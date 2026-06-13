@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-13, 19:33:10",
+      "https://news.ycombinator.com/item?id=48520613"
+    ],
+    [
+      "Texas is America Inc's new centre of gravity",
+      "https://www.economist.com/business/2026/05/31/texas-is-america-incs-new-centre-of-gravity"
+    ]
+  ],
+  [
+    [
+      "2026-06-13, 18:35:15",
+      "https://news.ycombinator.com/item?id=48520110"
+    ],
+    [
+      "What Happens to an Economy When It's Too Hot to Work?",
+      "https://www.bloomberg.com/news/features/2026-06-12/india-s-extreme-heat-is-hurting-its-economy-and-workers"
+    ]
+  ],
+  [
+    [
       "2026-06-13, 18:32:22",
       "https://news.ycombinator.com/item?id=48520080"
     ],
@@ -35,8 +55,8 @@
       "https://news.ycombinator.com/item?id=48519092"
     ],
     [
-      "Amazon CEO's Talks with U.S. Officials Triggered Crackdown on Anthropic Models",
-      "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578"
+      "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
+      "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink"
     ]
   ],
   [
@@ -55,7 +75,7 @@
       "https://news.ycombinator.com/item?id=48518969"
     ],
     [
-      "AI Coding at Home Without Going Broke",
+      "AI coding at home without going broke",
       "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/"
     ]
   ],
@@ -67,6 +87,16 @@
     [
       "GLM 5.2 Is Out",
       "https://digg.com/tech/ii9xibgn"
+    ]
+  ],
+  [
+    [
+      "2026-06-13, 13:58:46",
+      "https://news.ycombinator.com/item?id=48517412"
+    ],
+    [
+      "Orthodox C++ (2016)",
+      "https://bkaradzic.github.io/posts/orthodoxc++/"
     ]
   ],
   [
@@ -107,16 +137,6 @@
     [
       "An Interview with Intel's Kira Boyko: Xeon 6's Product Director",
       "https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko"
-    ]
-  ],
-  [
-    [
-      "2026-06-13, 12:11:35",
-      "https://news.ycombinator.com/item?id=48516510"
-    ],
-    [
-      "Show HN: 2 Weeks of Hallucinate – The Photo Gallery",
-      "https://hallucinate.site/gallery"
     ]
   ],
   [
@@ -181,22 +201,12 @@
   ],
   [
     [
-      "2026-06-13, 05:44:46",
-      "https://news.ycombinator.com/item?id=48513728"
+      "2026-06-13, 07:45:39",
+      "https://news.ycombinator.com/item?id=48514560"
     ],
     [
-      "Shepherd's Dog: A Game by Fable",
-      "https://koenvangilst.nl/lab/claude-fable-shepherds-dog"
-    ]
-  ],
-  [
-    [
-      "2026-06-13, 02:14:24",
-      "https://news.ycombinator.com/item?id=48511908"
-    ],
-    [
-      "Open source AI must win",
-      "https://opensourceaimustwin.com/?share=v2"
+      "Israeli firm BlackCore suspected of meddling in New York and Scotland votes",
+      "https://www.reuters.com/world/israeli-firm-blackcore-also-suspected-meddling-nyc-scotland-votes-french-2026-06-11/"
     ]
   ],
   [
@@ -211,22 +221,12 @@
   ],
   [
     [
-      "2026-06-12, 22:56:06",
-      "https://news.ycombinator.com/item?id=48510341"
+      "2026-06-11, 22:20:03",
+      "https://news.ycombinator.com/item?id=48497195"
     ],
     [
-      "Show HN: Putt.day a daily mini golf game",
-      "https://putt.day/"
-    ]
-  ],
-  [
-    [
-      "2026-06-12, 22:08:03",
-      "https://news.ycombinator.com/item?id=48510010"
-    ],
-    [
-      "Electric motors with no rare earths",
-      "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/"
+      "Codex for open source",
+      "https://openai.com/form/codex-for-oss/"
     ]
   ],
   [
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2026-06-10, 12:59:07",
-      "https://news.ycombinator.com/item?id=48475642"
-    ],
-    [
-      "Tessera – a consent-gated tunnel that's blind to your traffic",
-      "https://github.com/emmayusufu/tessera"
-    ]
-  ],
-  [
-    [
       "2026-06-10, 01:33:43",
       "https://news.ycombinator.com/item?id=48470152"
     ],
@@ -297,6 +287,16 @@
     [
       "Appreciating Exif",
       "https://brentfitzgerald.com/posts/appreciating-exif/"
+    ]
+  ],
+  [
+    [
+      "2026-06-09, 18:59:19",
+      "https://news.ycombinator.com/item?id=48465890"
+    ],
+    [
+      "Automating myself out of development",
+      "https://www.thoughtfultechnologist.com/p/automating-myself-out-of-development"
     ]
   ]
 ]
