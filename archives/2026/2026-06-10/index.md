@@ -21,6 +21,7 @@
 * [2026-06-10, 17:39:47](https://news.ycombinator.com/item?id=48479852) - [GeoLibre 1.0](https://geolibre.app/)
 * [2026-06-10, 17:37:26](https://news.ycombinator.com/item?id=48479818) - [Providers, not insurers, are responsible for excess U.S. health care cost (2024)](https://www.noahpinion.blog/p/insurers-arent-the-main-villain-of)
 * [2026-06-10, 17:30:48](https://news.ycombinator.com/item?id=48479705) - [How JPL keeps the 13-year-old Curiosity rover doing science](https://spectrum.ieee.org/curiosity-rover-jpl-mars-science)
+* [2026-06-10, 17:27:56](https://news.ycombinator.com/item?id=48479652) - [A key remapping daemon for Linux](https://github.com/rvaiya/keyd)
 * [2026-06-10, 17:18:39](https://news.ycombinator.com/item?id=48479537) - [Meta steals a tactic from Tesla and builds data centers in tents](https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/)
 * [2026-06-10, 17:11:56](https://news.ycombinator.com/item?id=48479452) - [Claude Desktop spins up a VM without no way of stopping it](https://github.com/anthropics/claude-code/issues/29045)
 * [2026-06-10, 17:03:48](https://news.ycombinator.com/item?id=48479314) - [Reading for pleasure is sharply down among schoolkids, report shows](https://www.nbcnews.com/data-graphics/kids-reading-less-lower-levels-department-education-study-rcna348987)

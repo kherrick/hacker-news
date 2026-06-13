@@ -7,6 +7,7 @@
 * [2026-06-12, 23:12:39](https://news.ycombinator.com/item?id=48510471) - [I Think They [Anthropic] Are Lying to You [video]](https://www.youtube.com/watch?v=zfYsSFY4l18)
 * [2026-06-12, 22:57:27](https://news.ycombinator.com/item?id=48510357) - [AMD Stiffs Researcher $10k Bug Bounty](https://www.gadgetreview.com/amd-stiffs-researcher-10000-bug-bounty-after-critical-security-flaw-takes-124-days-to-fix)
 * [2026-06-12, 22:56:06](https://news.ycombinator.com/item?id=48510341) - [Show HN: Putt.day a daily mini golf game](https://putt.day/)
+* [2026-06-12, 22:41:33](https://news.ycombinator.com/item?id=48510230) - [DNI Gabbard Reveals Evidence of U.S. Taxpayer-Funded Global Biolab Program](https://www.dni.gov/index.php/newsroom/press-releases/press-releases-2026/4163-pr-10-26)
 * [2026-06-12, 22:13:29](https://news.ycombinator.com/item?id=48510046) - [Twenty One Zero-Days in FFmpeg](https://depthfirst.com/research/21-zero-days-in-ffmpeg)
 * [2026-06-12, 22:08:03](https://news.ycombinator.com/item?id=48510010) - [Renault: Electric motors with no rare earths](https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/)
 * [2026-06-12, 21:49:49](https://news.ycombinator.com/item?id=48509844) - [SkillSpector](https://github.com/NVIDIA/SkillSpector)
