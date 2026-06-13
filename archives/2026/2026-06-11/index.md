@@ -36,6 +36,7 @@
 * [2026-06-11, 16:03:21](https://news.ycombinator.com/item?id=48492210) - [Claude Fable 5: mid-tier results on coding tasks](https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype)
 * [2026-06-11, 16:01:01](https://news.ycombinator.com/item?id=48492177) - [MTG Bench: Testing how well LLMs can play Magic](https://mtgautodeck.com/articles/mtg-bench/)
 * [2026-06-11, 15:56:25](https://news.ycombinator.com/item?id=48492118) - [Ask HN: How do you get into a flow state when using AI to code?](https://news.ycombinator.com/item?id=48492118)
+* [2026-06-11, 15:46:27](https://news.ycombinator.com/item?id=48491968) - [Resurrecting a Soaked, corroded, and damaged Commodore SX‑64 (2025)](https://jerrylparker.com/blogs/posts/sx-64.html)
 * [2026-06-11, 15:37:23](https://news.ycombinator.com/item?id=48491830) - [Petition to Withdraw Canada's Bill C-22](https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416)
 * [2026-06-11, 15:13:57](https://news.ycombinator.com/item?id=48491486) - [FPS.cob: A first person shooter in COBOL](https://github.com/icitry/FPS.cob)
 * [2026-06-11, 15:13:52](https://news.ycombinator.com/item?id=48491480) - [Omniglot: The Online Encyclopedia of Writing Systems and Languages](https://www.omniglot.com/)
