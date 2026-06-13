@@ -19,6 +19,7 @@
 * [2026-06-11, 20:08:26](https://news.ycombinator.com/item?id=48495751) - [Travel Locally, Where You Are](https://www.ssp.sh/brain/travel-where-you-are/)
 * [2026-06-11, 19:54:54](https://news.ycombinator.com/item?id=48495575) - [Shall we play a game? – LLMs use tactical nukes in 95% of simulations](https://www.kennethpayne.uk/p/shall-we-play-a-game)
 * [2026-06-11, 19:23:52](https://news.ycombinator.com/item?id=48495197) - [Who Runs the Ransomware Group 'The Gentlemen?'](https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/)
+* [2026-06-11, 19:14:23](https://news.ycombinator.com/item?id=48495077) - [Fudgetown, USA (2024)](https://tastecooking.com/fudgetown-usa/)
 * [2026-06-11, 18:46:22](https://news.ycombinator.com/item?id=48494716) - [Finding Optimal Tokenizers](https://blog.aqnichol.com/2026/06/10/optimal-tokenizers/)
 * [2026-06-11, 17:47:39](https://news.ycombinator.com/item?id=48493786) - [Show HN: A police department for your Claude Code agents](https://github.com/varmabudharaju/agent-pd/blob/master/README.md)
 * [2026-06-11, 17:35:19](https://news.ycombinator.com/item?id=48493564) - [Apple didn't revolutionize power supplies; new transistors did](https://www.righto.com/2012/02/apple-didnt-revolutionize-power.html)
