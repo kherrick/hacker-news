@@ -15,6 +15,7 @@
 * [2026-06-09, 21:06:00](https://news.ycombinator.com/item?id=48467759) - [Exif Smuggling](https://github.com/signalblur/exifsmugglingpoc)
 * [2026-06-09, 21:01:40](https://news.ycombinator.com/item?id=48467712) - [Company Will Add Phone, AirPod, and Smartwatch Trackers to ALPRs](https://www.404media.co/this-company-will-add-phone-airpod-and-smartwatch-trackers-to-license-plate-readers/)
 * [2026-06-09, 21:01:00](https://news.ycombinator.com/item?id=48467705) - [Upcoming breaking changes for NPM v12](https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/)
+* [2026-06-09, 21:00:39](https://news.ycombinator.com/item?id=48467697) - [Tectonic: A modernized, complete, self-contained TeX/LaTeX engine](https://tectonic-typesetting.github.io/en-US/)
 * [2026-06-09, 20:50:54](https://news.ycombinator.com/item?id=48467570) - [Alpine Linux 3.24.0 Released](https://alpinelinux.org/posts/Alpine-3.24.0-released.html)
 * [2026-06-09, 19:58:21](https://news.ycombinator.com/item?id=48466812) - [Grit: Rewriting Git in Rust with Agents](https://blog.gitbutler.com/true-grit)
 * [2026-06-09, 19:35:00](https://news.ycombinator.com/item?id=48466488) - [Ask HN: Favorite text heavy blogs that are a joy to read?](https://news.ycombinator.com/item?id=48466488)
