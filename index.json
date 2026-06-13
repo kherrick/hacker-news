@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-06-13, 01:51:49",
-      "https://news.ycombinator.com/item?id=48511663"
+      "2026-06-13, 02:14:24",
+      "https://news.ycombinator.com/item?id=48511908"
     ],
     [
-      "Reddit RSS feeds recent rate limiting and solution",
-      "https://lapcatsoftware.com/articles/2026/6/3.html"
+      "Open Source AI Must Win",
+      "https://opensourceaimustwin.com/?share=v2"
     ]
   ],
   [
@@ -17,6 +17,16 @@
     [
       "As a result of a US Government directive, we are suspending access to Fable 5",
       "https://twitter.com/ClaudeDevs/status/2065597942602531163"
+    ]
+  ],
+  [
+    [
+      "2026-06-13, 00:58:06",
+      "https://news.ycombinator.com/item?id=48511121"
+    ],
+    [
+      "We've suspended access to Claude Mythos 5 and Claude Fable 5",
+      "https://status.claude.com/incidents/s9w82lp9dcn9"
     ]
   ],
   [
@@ -47,16 +57,6 @@
     [
       "Show HN: Putt.day a daily mini golf game",
       "https://putt.day/"
-    ]
-  ],
-  [
-    [
-      "2026-06-12, 22:41:33",
-      "https://news.ycombinator.com/item?id=48510230"
-    ],
-    [
-      "DNI Gabbard Reveals Evidence of U.S. Taxpayer-Funded Global Biolab Program",
-      "https://www.dni.gov/index.php/newsroom/press-releases/press-releases-2026/4163-pr-10-26"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2026-06-12, 13:14:18",
-      "https://news.ycombinator.com/item?id=48503717"
-    ],
-    [
-      "Hazel (YC W24) Is Hiring a Full Stack Engineer",
-      "https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci"
-    ]
-  ],
-  [
-    [
       "2026-06-12, 12:00:02",
       "https://news.ycombinator.com/item?id=48503014"
     ],
@@ -261,12 +251,12 @@
   ],
   [
     [
-      "2026-06-11, 04:28:02",
-      "https://news.ycombinator.com/item?id=48486209"
+      "2026-06-11, 17:32:35",
+      "https://news.ycombinator.com/item?id=48493512"
     ],
     [
-      "The forgotten Scots who gave Kafka his voice",
-      "https://engelsbergideas.com/reviews/the-forgotten-scots-who-gave-kafka-his-voice/"
+      "There Is Life Before Main in Rust",
+      "https://grack.com/blog/2026/06/11/life-before-main/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Show HN: Turn your name into a tree in an infinite procedural shanshui landscape",
       "https://landscape.bairui.dev/"
+    ]
+  ],
+  [
+    [
+      "2026-06-09, 21:00:39",
+      "https://news.ycombinator.com/item?id=48467697"
+    ],
+    [
+      "Tectonic: A modernized, complete, self-contained TeX/LaTeX engine",
+      "https://tectonic-typesetting.github.io/en-US/"
     ]
   ]
 ]
