@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-06-13, 13:58:46](https://news.ycombinator.com/item?id=48517412) - [Orthodox C++](https://bkaradzic.github.io/posts/orthodoxc++/)
 * [2026-06-13, 13:54:56](https://news.ycombinator.com/item?id=48517377) - [US bans differential privacy in Census data](https://desfontain.es/blog/banning-noise.html)
 * [2026-06-13, 13:34:00](https://news.ycombinator.com/item?id=48517199) - [Treating pancreatic tumours may have revealed cancer's master switch](https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch)
 * [2026-06-13, 12:40:16](https://news.ycombinator.com/item?id=48516710) - [Introduction to the experience of rendering Arabic typography&its technical debt](https://lr0.org/blog/p/arabic/)
@@ -12,6 +13,7 @@
 * [2026-06-13, 09:55:32](https://news.ycombinator.com/item?id=48515454) - [RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8](https://imil.net/blog/posts/2026/rtx-5080-+-rtx-3090-setup-80+-tok-s-on-qwen-3.6-27b-q8/)
 * [2026-06-13, 09:44:25](https://news.ycombinator.com/item?id=48515385) - [Show HN: Paca – Lightweight Jira alternative for human-AI collaboration](https://github.com/Paca-AI/paca)
 * [2026-06-13, 09:38:32](https://news.ycombinator.com/item?id=48515336) - [A low-carbon computing platform from your retired phones](https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/)
+* [2026-06-13, 05:57:14](https://news.ycombinator.com/item?id=48513806) - [Leaving Mozilla](https://blog.unitedheroes.net/5751)
 * [2026-06-13, 05:44:46](https://news.ycombinator.com/item?id=48513728) - [Shepherd's Dog: A Game by the Most Dangerous AI Model](https://koenvangilst.nl/lab/claude-fable-shepherds-dog)
 * [2026-06-13, 05:16:41](https://news.ycombinator.com/item?id=48513536) - [There is a shadow hanging over this Fable thing](https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow)
 * [2026-06-13, 02:14:24](https://news.ycombinator.com/item?id=48511908) - [Open source AI must win](https://opensourceaimustwin.com/?share=v2)
@@ -21,15 +23,13 @@
 * [2026-06-12, 22:08:03](https://news.ycombinator.com/item?id=48510010) - [Electric motors with no rare earths](https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/)
 * [2026-06-12, 19:54:27](https://news.ycombinator.com/item?id=48508726) - [Swift at Apple: Migrating the TrueType hinting interpreter](https://www.swift.org/blog/migrating-truetype-hinting-to-swift/)
 * [2026-06-12, 17:34:55](https://news.ycombinator.com/item?id=48507020) - [How to setup a local coding agent on macOS](https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos)
-* [2026-06-12, 17:07:46](https://news.ycombinator.com/item?id=48506659) - [Pirates, a naval warfare game inspired by Sid Meier's Pirates](https://piwodlaiwo.github.io/pirates/)
-* [2026-06-12, 16:58:03](https://news.ycombinator.com/item?id=48506545) - [Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents](https://bitboard.work/)
 * [2026-06-12, 15:15:24](https://news.ycombinator.com/item?id=48505231) - [CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers](https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/)
 * [2026-06-11, 20:24:18](https://news.ycombinator.com/item?id=48495928) - [Malware developers added nuclear and biological weapons text to to their spyware](https://twitter.com/jsrailton/status/2064661778978533571)
 * [2026-06-11, 00:00:42](https://news.ycombinator.com/item?id=48484496) - [H.R. 6028 would fundamentally change the U.S. Copyright Office](https://www.eff.org/deeplinks/2026/06/congress-just-rushed-through-disastrous-copyright-office-overhaul)
 * [2026-06-10, 19:28:49](https://news.ycombinator.com/item?id=48481400) - [Show HN: I am building a map of people who lived in the Roman Empire](https://new.roman-names.com/)
 * [2026-06-10, 16:44:23](https://news.ycombinator.com/item?id=48479008) - [The state of building user interfaces in Rust](https://areweguiyet.com/#ecosystem)
 * [2026-06-10, 01:33:43](https://news.ycombinator.com/item?id=48470152) - [The computer science degree isn’t dead](https://spectrum.ieee.org/computer-science-degree-isnt-dead)
-* [2026-06-09, 18:59:19](https://news.ycombinator.com/item?id=48465890) - [Automating Myself Out of Development](https://www.thoughtfultechnologist.com/p/automating-myself-out-of-development)
+* [2026-06-09, 20:41:44](https://news.ycombinator.com/item?id=48467437) - [Appreciating Exif](https://brentfitzgerald.com/posts/appreciating-exif/)
 
 ## [Archives](archives/index.md)
 

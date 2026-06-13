@@ -17,6 +17,7 @@
 * [2026-06-09, 21:01:00](https://news.ycombinator.com/item?id=48467705) - [Upcoming breaking changes for NPM v12](https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/)
 * [2026-06-09, 21:00:39](https://news.ycombinator.com/item?id=48467697) - [Tectonic: A modernized, complete, self-contained TeX/LaTeX engine](https://tectonic-typesetting.github.io/en-US/)
 * [2026-06-09, 20:50:54](https://news.ycombinator.com/item?id=48467570) - [Alpine Linux 3.24.0 Released](https://alpinelinux.org/posts/Alpine-3.24.0-released.html)
+* [2026-06-09, 20:41:44](https://news.ycombinator.com/item?id=48467437) - [Appreciating Exif](https://brentfitzgerald.com/posts/appreciating-exif/)
 * [2026-06-09, 20:14:42](https://news.ycombinator.com/item?id=48467028) - [Woman Gets on Route 66. Then She Starts Hearing Music Coming from Her Tires](https://www.motor1.com/news/798011/route-66-missouri-musical-road/)
 * [2026-06-09, 19:58:21](https://news.ycombinator.com/item?id=48466812) - [Grit: Rewriting Git in Rust with Agents](https://blog.gitbutler.com/true-grit)
 * [2026-06-09, 19:35:00](https://news.ycombinator.com/item?id=48466488) - [Ask HN: Favorite text heavy blogs that are a joy to read?](https://news.ycombinator.com/item?id=48466488)
