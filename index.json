@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-13, 17:43:02",
+      "https://news.ycombinator.com/item?id=48519552"
+    ],
+    [
+      "GameBoy Workboy",
+      "https://tcrf.net/Workboy"
+    ]
+  ],
+  [
+    [
+      "2026-06-13, 17:39:14",
+      "https://news.ycombinator.com/item?id=48519519"
+    ],
+    [
+      "PwC Report: AI Making Medical Bills Higher",
+      "https://fortune.com/2026/06/12/ai-making-medical-bills-higher/"
+    ]
+  ],
+  [
+    [
       "2026-06-13, 16:57:49",
       "https://news.ycombinator.com/item?id=48519092"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2026-06-13, 05:57:14",
-      "https://news.ycombinator.com/item?id=48513806"
-    ],
-    [
-      "Leaving Mozilla",
-      "https://blog.unitedheroes.net/5751"
-    ]
-  ],
-  [
-    [
       "2026-06-13, 05:44:46",
       "https://news.ycombinator.com/item?id=48513728"
     ],
@@ -221,32 +231,12 @@
   ],
   [
     [
-      "2026-06-12, 15:15:24",
-      "https://news.ycombinator.com/item?id=48505231"
-    ],
-    [
-      "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
-      "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/"
-    ]
-  ],
-  [
-    [
       "2026-06-11, 20:24:18",
       "https://news.ycombinator.com/item?id=48495928"
     ],
     [
       "Malware developers added nuclear and biological weapons text to to their spyware",
       "https://twitter.com/jsrailton/status/2064661778978533571"
-    ]
-  ],
-  [
-    [
-      "2026-06-11, 00:00:42",
-      "https://news.ycombinator.com/item?id=48484496"
-    ],
-    [
-      "H.R. 6028 would fundamentally change the U.S. Copyright Office",
-      "https://www.eff.org/deeplinks/2026/06/congress-just-rushed-through-disastrous-copyright-office-overhaul"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "The state of building user interfaces in Rust",
       "https://areweguiyet.com/#ecosystem"
+    ]
+  ],
+  [
+    [
+      "2026-06-10, 12:59:07",
+      "https://news.ycombinator.com/item?id=48475642"
+    ],
+    [
+      "Tessera – a consent-gated tunnel that's blind to your traffic",
+      "https://github.com/emmayusufu/tessera"
     ]
   ],
   [
