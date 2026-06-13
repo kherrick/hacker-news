@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-13, 07:45:39",
+      "https://news.ycombinator.com/item?id=48514560"
+    ],
+    [
+      "Israeli firm BlackCore suspected of meddling in New York and Scotland votes",
+      "https://www.reuters.com/world/israeli-firm-blackcore-also-suspected-meddling-nyc-scotland-votes-french-2026-06-11/"
+    ]
+  ],
+  [
+    [
+      "2026-06-13, 06:43:42",
+      "https://news.ycombinator.com/item?id=48514124"
+    ],
+    [
+      "Show HN: Skill for your agent to visualize your gbrain and Obsidian",
+      "https://github.com/vladignatyev/brain-map-skill"
+    ]
+  ],
+  [
+    [
       "2026-06-13, 05:57:14",
       "https://news.ycombinator.com/item?id=48513806"
     ],
@@ -61,16 +81,6 @@
   ],
   [
     [
-      "2026-06-13, 02:02:07",
-      "https://news.ycombinator.com/item?id=48511773"
-    ],
-    [
-      "TycoonLE: A Jax reinforcement learning environment for long-horizon planning",
-      "https://github.com/vrtnis/tycoon-learning-environment"
-    ]
-  ],
-  [
-    [
       "2026-06-13, 00:51:30",
       "https://news.ycombinator.com/item?id=48511072"
     ],
@@ -107,16 +117,6 @@
     [
       "Electric motors with no rare earths",
       "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/"
-    ]
-  ],
-  [
-    [
-      "2026-06-12, 21:49:49",
-      "https://news.ycombinator.com/item?id=48509844"
-    ],
-    [
-      "SkillSpector",
-      "https://github.com/NVIDIA/SkillSpector"
     ]
   ],
   [
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2026-06-12, 14:50:06",
-      "https://news.ycombinator.com/item?id=48504929"
-    ],
-    [
-      "Introduction to UEFI HTTP(s) Boot with QEMU/OVMF",
-      "https://blog.yadutaf.fr/2026/06/12/introduction-to-uefi-https-boot-qemu-ovmf/"
-    ]
-  ],
-  [
-    [
       "2026-06-12, 14:48:38",
       "https://news.ycombinator.com/item?id=48504912"
     ],
@@ -217,6 +207,16 @@
     [
       "Malware developers added nuclear and biological weapons text to to their spyware",
       "https://twitter.com/jsrailton/status/2064661778978533571"
+    ]
+  ],
+  [
+    [
+      "2026-06-11, 10:23:59",
+      "https://news.ycombinator.com/item?id=48488463"
+    ],
+    [
+      "Using the Epson Perfection V39 II Scanner on Ubuntu",
+      "https://patches.joao.town/using-epson-perfection-v39ii-scanner-ubuntu/"
     ]
   ],
   [
