@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-06-13, 22:43:30](https://news.ycombinator.com/item?id=48522237) - [Derbyshire Police officer accused of using AI to 'create evidence'](https://www.bbc.com/news/articles/cy8wppwdxl6o)
 * [2026-06-13, 19:54:55](https://news.ycombinator.com/item?id=48520807) - [Police officer investigated for using AI to 'create evidence' in multiple cases](https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661)
 * [2026-06-13, 18:35:15](https://news.ycombinator.com/item?id=48520110) - [What Happens to an Economy When It's Too Hot to Work?](https://www.bloomberg.com/news/features/2026-06-12/india-s-extreme-heat-is-hurting-its-economy-and-workers)
 * [2026-06-13, 18:32:22](https://news.ycombinator.com/item?id=48520080) - [Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch](https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/)
@@ -28,7 +29,6 @@
 * [2026-06-10, 16:44:23](https://news.ycombinator.com/item?id=48479008) - [The state of building user interfaces in Rust](https://areweguiyet.com/#ecosystem)
 * [2026-06-09, 21:59:41](https://news.ycombinator.com/item?id=48468352) - [Trophic memory, deer, and a unique scientific object](https://thoughtforms.life/trophic-memory-deer-and-a-truly-unique-scientific-object/)
 * [2026-06-09, 20:41:44](https://news.ycombinator.com/item?id=48467437) - [Appreciating Exif](https://brentfitzgerald.com/posts/appreciating-exif/)
-* [2026-06-09, 18:59:19](https://news.ycombinator.com/item?id=48465890) - [Automating myself out of development](https://www.thoughtfultechnologist.com/p/automating-myself-out-of-development)
 * [2026-06-09, 15:54:31](https://news.ycombinator.com/item?id=48462759) - [Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI](https://blog.pyodide.org/posts/314-release/)
 
 ## [Archives](archives/index.md)
