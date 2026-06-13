@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-13](index.md)
 
+* [2026-06-13, 13:54:56](https://news.ycombinator.com/item?id=48517377) - [US bans differential privacy in Census data](https://desfontain.es/blog/banning-noise.html)
+* [2026-06-13, 13:34:00](https://news.ycombinator.com/item?id=48517199) - [Treating pancreatic tumours may have revealed cancer's master switch](https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch)
 * [2026-06-13, 12:40:16](https://news.ycombinator.com/item?id=48516710) - [Introduction to the experience of rendering Arabic typography&its technical debt](https://lr0.org/blog/p/arabic/)
 * [2026-06-13, 12:21:18](https://news.ycombinator.com/item?id=48516585) - [Thoughts on AI and Jobs](https://blog.keyvan.net/p/thoughts-on-ai-and-jobs)
 * [2026-06-13, 12:20:05](https://news.ycombinator.com/item?id=48516573) - [An Interview with Intel's Kira Boyko: Xeon 6's Product Director](https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko)
@@ -11,6 +13,8 @@
 * [2026-06-13, 12:11:35](https://news.ycombinator.com/item?id=48516510) - [Show HN: 2 Weeks of Hallucinate – The Photo Gallery](https://hallucinate.site/gallery)
 * [2026-06-13, 12:10:47](https://news.ycombinator.com/item?id=48516504) - [AI OSS tool repo goes archived over night after raising $7.3M Seed](https://github.com/tensorzero/tensorzero)
 * [2026-06-13, 11:55:30](https://news.ycombinator.com/item?id=48516379) - [Arch Linux Now Believes Malware Incident Under Control: More Than 1,500 Packages](https://www.phoronix.com/news/Arch-Linux-AUR-More-Than-1500)
+* [2026-06-13, 11:40:20](https://news.ycombinator.com/item?id=48516251) - [Every Frame Perfect](https://tonsky.me/blog/every-frame-perfect/)
+* [2026-06-13, 09:55:32](https://news.ycombinator.com/item?id=48515454) - [RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8](https://imil.net/blog/posts/2026/rtx-5080-+-rtx-3090-setup-80+-tok-s-on-qwen-3.6-27b-q8/)
 * [2026-06-13, 09:44:25](https://news.ycombinator.com/item?id=48515385) - [Show HN: Paca – Lightweight Jira alternative for human-AI collaboration](https://github.com/Paca-AI/paca)
 * [2026-06-13, 09:38:32](https://news.ycombinator.com/item?id=48515336) - [A low-carbon computing platform from your retired phones](https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/)
 * [2026-06-13, 07:45:39](https://news.ycombinator.com/item?id=48514560) - [Israeli firm BlackCore suspected of meddling in New York and Scotland votes](https://www.reuters.com/world/israeli-firm-blackcore-also-suspected-meddling-nyc-scotland-votes-french-2026-06-11/)

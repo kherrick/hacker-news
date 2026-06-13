@@ -12,6 +12,7 @@
 * [2026-06-10, 20:35:07](https://news.ycombinator.com/item?id=48482293) - [What Is It Like to Be a Bat? [pdf]](https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf)
 * [2026-06-10, 20:05:21](https://news.ycombinator.com/item?id=48481857) - [Raspberry Pi 5 – 16 GB, $350](https://www.adafruit.com/product/6125?src=raspberrypi)
 * [2026-06-10, 19:38:51](https://news.ycombinator.com/item?id=48481524) - [The Abundance Illusion](https://www.carlyle.com/carlyle-compass/the-abundance-illusion)
+* [2026-06-10, 19:28:49](https://news.ycombinator.com/item?id=48481400) - [Show HN: I am building a map of people who lived in the Roman Empire](https://new.roman-names.com/)
 * [2026-06-10, 19:06:50](https://news.ycombinator.com/item?id=48481126) - [Farmer donates land for a park, city sells it for $10M as data center land](https://www.tomshardware.com/tech-industry/farmer-donates-land-for-a-park-city-sells-it-for-data-center-development-usd10-gift-became-usd10m-for-city-government-with-usd30m-tax-expected-over-next-decade)
 * [2026-06-10, 18:54:54](https://news.ycombinator.com/item?id=48480978) - [ΠFS](https://github.com/philipl/pifs)
 * [2026-06-10, 18:45:20](https://news.ycombinator.com/item?id=48480852) - [Anthropic's Model Naming, Extrapolated](https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated)
