@@ -7,6 +7,7 @@
 * [2026-06-13, 12:21:18](https://news.ycombinator.com/item?id=48516585) - [Thoughts on AI and Jobs](https://blog.keyvan.net/p/thoughts-on-ai-and-jobs)
 * [2026-06-13, 12:20:05](https://news.ycombinator.com/item?id=48516573) - [An Interview with Intel's Kira Boyko: Xeon 6's Product Director](https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko)
 * [2026-06-13, 12:11:35](https://news.ycombinator.com/item?id=48516510) - [Show HN: 2 Weeks of Hallucinate – The Photo Gallery](https://hallucinate.site/gallery)
+* [2026-06-13, 12:10:47](https://news.ycombinator.com/item?id=48516504) - [AI OSS tool repo goes archived over night after raising $7.3M Seed](https://github.com/tensorzero/tensorzero)
 * [2026-06-13, 11:55:30](https://news.ycombinator.com/item?id=48516379) - [Arch Linux Now Believes Malware Incident Under Control: More Than 1,500 Packages](https://www.phoronix.com/news/Arch-Linux-AUR-More-Than-1500)
 * [2026-06-13, 09:44:25](https://news.ycombinator.com/item?id=48515385) - [Show HN: Paca – Lightweight Jira alternative for human-AI collaboration](https://github.com/Paca-AI/paca)
 * [2026-06-13, 09:38:32](https://news.ycombinator.com/item?id=48515336) - [A low-carbon computing platform from your retired phones](https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/)
