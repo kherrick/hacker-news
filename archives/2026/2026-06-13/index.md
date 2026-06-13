@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-06-13](index.md)
 
+* [2026-06-13, 16:57:49](https://news.ycombinator.com/item?id=48519092) - [Amazon CEO's Talks with U.S. Officials Triggered Crackdown on Anthropic Models](https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578)
+* [2026-06-13, 16:49:42](https://news.ycombinator.com/item?id=48519011) - [The adder at the heart of Intel's 8087 floating-point chip](https://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html)
+* [2026-06-13, 16:45:03](https://news.ycombinator.com/item?id=48518969) - [AI Coding at Home Without Going Broke](https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/)
+* [2026-06-13, 16:18:31](https://news.ycombinator.com/item?id=48518684) - [GLM 5.2 Is Out](https://digg.com/tech/ii9xibgn)
 * [2026-06-13, 13:58:46](https://news.ycombinator.com/item?id=48517412) - [Orthodox C++](https://bkaradzic.github.io/posts/orthodoxc++/)
 * [2026-06-13, 13:54:56](https://news.ycombinator.com/item?id=48517377) - [US bans differential privacy in Census data](https://desfontain.es/blog/banning-noise.html)
 * [2026-06-13, 13:34:00](https://news.ycombinator.com/item?id=48517199) - [Treating pancreatic tumours may have revealed cancer's master switch](https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch)
