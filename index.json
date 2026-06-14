@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-06-14, 12:57:33",
+      "https://news.ycombinator.com/item?id=48526793"
+    ],
+    [
+      "How did Atari apply side art to Arcade Cabinets?",
+      "https://arcadeblogger.com/2026/06/14/how-did-atari-apply-side-art-to-arcade-cabinets/"
+    ]
+  ],
+  [
+    [
       "2026-06-14, 12:38:31",
       "https://news.ycombinator.com/item?id=48526661"
     ],
     [
       "The Birth and Death of JavaScript (2014)",
       "https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript"
+    ]
+  ],
+  [
+    [
+      "2026-06-14, 11:50:48",
+      "https://news.ycombinator.com/item?id=48526360"
+    ],
+    [
+      "How to Earn a Billion Dollars",
+      "https://paulgraham.com/earn.html"
     ]
   ],
   [
@@ -61,12 +81,12 @@
   ],
   [
     [
-      "2026-06-14, 02:45:38",
-      "https://news.ycombinator.com/item?id=48523705"
+      "2026-06-14, 02:55:36",
+      "https://news.ycombinator.com/item?id=48523752"
     ],
     [
-      "Weave: Merging based on language structure and not lines",
-      "https://ataraxy-labs.github.io/weave/"
+      "Making Claude a Chemist",
+      "https://www.anthropic.com/research/making-claude-a-chemist"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "Honda Civics and the Evil Valet",
       "https://juniperspring.org/posts/honda-evil-valet/"
-    ]
-  ],
-  [
-    [
-      "2026-06-13, 23:22:05",
-      "https://news.ycombinator.com/item?id=48522486"
-    ],
-    [
-      "ReactOS (FOSS \"Windows\") achieves 3D-accelerated Half-Life on real hardware",
-      "https://www.phoronix.com/news/ReactOS-Running-Half-Life"
     ]
   ],
   [
@@ -155,7 +165,7 @@
       "https://news.ycombinator.com/item?id=48517199"
     ],
     [
-      "Treating pancreatic tumours may have revealed cancer's master switch",
+      "New pancreatic cancer drug might open the door to much longer survival times",
       "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch"
     ]
   ],
@@ -201,22 +211,22 @@
   ],
   [
     [
+      "2026-06-12, 11:59:40",
+      "https://news.ycombinator.com/item?id=48503009"
+    ],
+    [
+      "Python 3.14 garbage collection rigamarole",
+      "https://theconsensus.dev/p/2026/06/06/python-3-14-garbage-collection-rigamarole.html"
+    ]
+  ],
+  [
+    [
       "2026-06-12, 02:58:17",
       "https://news.ycombinator.com/item?id=48499348"
     ],
     [
       "500-year-old monasteries outperform at digital transformation (U. of Zurich)",
       "https://phys.org/news/2026-05-historic-monasteries-digital-countries.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-12, 01:27:35",
-      "https://news.ycombinator.com/item?id=48498705"
-    ],
-    [
-      "Raress96/Dolby-Atmos-encoder: PoC Dolby Atmos encoder",
-      "https://github.com/raress96/dolby-atmos-encoder"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Firewood Splitting Simulator",
       "https://screen.toys/firewood/"
-    ]
-  ],
-  [
-    [
-      "2026-06-09, 20:41:44",
-      "https://news.ycombinator.com/item?id=48467437"
-    ],
-    [
-      "Appreciating Exif",
-      "https://brentfitzgerald.com/posts/appreciating-exif/"
     ]
   ],
   [
