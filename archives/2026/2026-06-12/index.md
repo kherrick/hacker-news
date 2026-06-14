@@ -59,6 +59,7 @@
 * [2026-06-12, 11:11:42](https://news.ycombinator.com/item?id=48502601) - [Ryanair dark UX patterns summer 2026 refresher](https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher/)
 * [2026-06-12, 10:42:50](https://news.ycombinator.com/item?id=48502347) - [Kimi K2.7-Code: open-source coding model with better token efficiency](https://huggingface.co/moonshotai/Kimi-K2.7-Code)
 * [2026-06-12, 10:38:31](https://news.ycombinator.com/item?id=48502321) - [The Future of Email](https://www.fastmail.com/blog/the-future-of-email/)
+* [2026-06-12, 10:02:21](https://news.ycombinator.com/item?id=48502053) - [The first game engine for robotics](https://luckyrobots.com/)
 * [2026-06-12, 07:35:46](https://news.ycombinator.com/item?id=48501012) - [Report on an Unidentified Space Station](https://sseh.uchicago.edu/doc/roauss.htm)
 * [2026-06-12, 05:59:39](https://news.ycombinator.com/item?id=48500447) - [AUR Packages Compromised with Infostealer and Rootkit](https://discourse.ifin.network/t/400-aur-packages-compromised-with-infostealer-and-rootkit/577)
 * [2026-06-12, 05:53:19](https://news.ycombinator.com/item?id=48500404) - [Digital Sovereignty Becomes an Imperative as the US Reads Dutch Emails](https://www.korte.co/2026/06/11/digital-sovereignty-becomes-an-imparative-as-the-us-reads-dutch-emails/)
