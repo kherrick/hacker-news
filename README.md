@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-06-14, 15:37:31](https://news.ycombinator.com/item?id=48528371) - [Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model](https://github.com/nex-agi/Nex-N2/issues/4)
 * [2026-06-14, 15:13:57](https://news.ycombinator.com/item?id=48528029) - [I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models](https://news.ycombinator.com/item?id=48528029)
 * [2026-06-14, 15:13:42](https://news.ycombinator.com/item?id=48528025) - [Measles surge in Utah sparks fears US could undo decades of progress](https://www.dailymail.com/news/article-15897903/measles-surge-utah-US-elimination-status.html)
 * [2026-06-14, 14:56:56](https://news.ycombinator.com/item?id=48527820) - [Perlisisms](https://www.cs.yale.edu/homes/perlis-alan/quotes.html)
 * [2026-06-14, 14:56:35](https://news.ycombinator.com/item?id=48527817) - [Cloud-based LLM gold rush is ending](https://automato.substack.com/p/apple-wwdc-and-the-fable-5-embargo)
-* [2026-06-14, 14:51:03](https://news.ycombinator.com/item?id=48527766) - [UK set to announce social media ban for under-16s](https://www.manchestereveningnews.co.uk/news/uk-news/uk-set-announce-social-media-34119132)
 * [2026-06-14, 14:47:12](https://news.ycombinator.com/item?id=48527731) - [Dangerous hormone-disrupting chemicals found in US breast milk samples](https://www.theguardian.com/us-news/2026/jun/14/breast-milk-research-chemicals)
 * [2026-06-14, 14:44:29](https://news.ycombinator.com/item?id=48527700) - [No, everyone is not using AI for everything](https://gabrielweinberg.com/p/people-are-consuming-ai-like-they)
 * [2026-06-14, 14:40:33](https://news.ycombinator.com/item?id=48527658) - [A 'cold blob' in the Atlantic could be a sign of AMOC shutdown – CNN](https://www.cnn.com/2026/06/12/climate/cold-blob-atlantic-amoc-ocean-circulation)
@@ -19,7 +19,6 @@
 * [2026-06-14, 12:57:33](https://news.ycombinator.com/item?id=48526793) - [How did Atari apply side art to Arcade Cabinets?](https://arcadeblogger.com/2026/06/14/how-did-atari-apply-side-art-to-arcade-cabinets/)
 * [2026-06-14, 12:38:31](https://news.ycombinator.com/item?id=48526661) - [The Birth and Death of JavaScript (2014)](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)
 * [2026-06-14, 12:35:27](https://news.ycombinator.com/item?id=48526633) - [Formal Methods and the Future of Programming](https://blog.janestreet.com/formal-methods-at-jane-street-index/?from_theconsensus=1)
-* [2026-06-14, 12:15:27](https://news.ycombinator.com/item?id=48526472) - [Can't Stop the Signal. Poison It](https://blog.digitalgrease.dev/posts/fauxx-cant-stop-the-signal)
 * [2026-06-14, 11:50:48](https://news.ycombinator.com/item?id=48526360) - [How to Earn a Billion Dollars](https://paulgraham.com/earn.html)
 * [2026-06-14, 06:07:09](https://news.ycombinator.com/item?id=48524620) - [Don't trust large context windows](https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows)
 * [2026-06-14, 03:43:30](https://news.ycombinator.com/item?id=48523992) - [Free SQL→ER diagram tool, runs in the browser, nothing uploaded](https://sqltoerdiagram.com/)
@@ -28,6 +27,7 @@
 * [2026-06-12, 02:58:17](https://news.ycombinator.com/item?id=48499348) - [Historic co-determination helps monasteries navigate digital change](https://phys.org/news/2026-05-historic-monasteries-digital-countries.html)
 * [2026-06-11, 16:48:49](https://news.ycombinator.com/item?id=48492822) - [The only scalable delete in Postgres is DROP TABLE](https://planetscale.com/blog/the-only-scalable-delete)
 * [2026-06-11, 14:43:11](https://news.ycombinator.com/item?id=48491048) - [Lisp's Influence on Ruby](https://blog.tacoda.dev/lisps-influence-on-ruby-6a54f1a7740e)
+* [2026-06-11, 14:34:46](https://news.ycombinator.com/item?id=48490927) - [FreeOberon – Open-Source, Cross-Platform, Free Pascal/Turbo Pascal-Like Language](https://github.com/kekcleader/FreeOberon)
 * [2026-06-10, 05:01:31](https://news.ycombinator.com/item?id=48471638) - [Firewood Splitting Simulator](https://screen.toys/firewood/)
 * [2026-06-09, 13:17:53](https://news.ycombinator.com/item?id=48460762) - [Show HN: 3D print Z reinforcement via injected loops](https://mgunlogson.github.io/magma/)
 
