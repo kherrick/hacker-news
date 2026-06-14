@@ -56,6 +56,7 @@
 * [2026-06-09, 13:56:38](https://news.ycombinator.com/item?id=48461226) - [WWDC 2026: Apple is Folding](https://cupertinolens.com/2026/06/09/wwdc-2026-apple-is-folding/)
 * [2026-06-09, 13:39:31](https://news.ycombinator.com/item?id=48461012) - [Albania Is Not for Sale: Kushner's $4B Resort Triggers'Flamingo Revolution'](https://www.yacnews.com/albania-is-not-for-sale-kushners-4-billion-resort-triggers-flamingo-revolution-asset-freeze-and-an-eu-warning/)
 * [2026-06-09, 13:27:03](https://news.ycombinator.com/item?id=48460863) - [Is Grep All You Need? How Agent Harnesses Reshape Agentic Search](https://arxiv.org/abs/2605.15184)
+* [2026-06-09, 13:17:53](https://news.ycombinator.com/item?id=48460762) - [Show HN: 3D print Z reinforcement via injected loops](https://mgunlogson.github.io/magma/)
 * [2026-06-09, 13:17:34](https://news.ycombinator.com/item?id=48460758) - [The better the autopilot the worse the pilot](https://julienreszka.com/blog/the-better-the-autopilot-the-worse-the-pilot/)
 * [2026-06-09, 12:35:01](https://news.ycombinator.com/item?id=48460286) - [Show HN: Atlasphere – Live Infrastructure Diagrams](https://news.ycombinator.com/item?id=48460286)
 * [2026-06-09, 12:26:34](https://news.ycombinator.com/item?id=48460210) - [Show HN: We post-trained a model that pen tests instead of refusing your code](https://www.argusred.com/cli)
