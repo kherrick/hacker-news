@@ -42,6 +42,7 @@
 * [2026-06-11, 15:13:57](https://news.ycombinator.com/item?id=48491486) - [FPS.cob: A first person shooter in COBOL](https://github.com/icitry/FPS.cob)
 * [2026-06-11, 15:13:52](https://news.ycombinator.com/item?id=48491480) - [Omniglot: The Online Encyclopedia of Writing Systems and Languages](https://www.omniglot.com/)
 * [2026-06-11, 15:09:42](https://news.ycombinator.com/item?id=48491426) - [Show HN: Open-source API Key server written in Go by Ory](https://github.com/ory/talos/tree/master)
+* [2026-06-11, 15:06:28](https://news.ycombinator.com/item?id=48491376) - [(Re//Verse 2026) Taxonomy and Deobfuscation of a Real World Binary Obfuscator [pdf]](https://github.com/AnalogCyberNuke/RE-Verse-2026-Slides/blob/main/Reverse26.pdf)
 * [2026-06-11, 14:55:59](https://news.ycombinator.com/item?id=48491214) - [Driving in America Is Headlight Hell](https://www.theatlantic.com/technology/2026/06/car-headlights-too-bright-adaptive-beams/687488/)
 * [2026-06-11, 14:35:53](https://news.ycombinator.com/item?id=48490946) - [AMD Gaslights Security Researcher, Changes Rules Retroactively [video]](https://www.youtube.com/watch?v=4HjWHNLRMB0)
 * [2026-06-11, 14:35:41](https://news.ycombinator.com/item?id=48490939) - [How a new DSL may survive in the era of LLMs](https://www.williamcotton.com/articles/how-a-new-dsl-survives-in-the-era-of-llms)
