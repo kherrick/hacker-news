@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-14](index.md)
 
+* [2026-06-14, 12:57:33](https://news.ycombinator.com/item?id=48526793) - [How did Atari apply side art to Arcade Cabinets?](https://arcadeblogger.com/2026/06/14/how-did-atari-apply-side-art-to-arcade-cabinets/)
 * [2026-06-14, 12:38:31](https://news.ycombinator.com/item?id=48526661) - [The Birth and Death of JavaScript (2014)](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)
 * [2026-06-14, 11:50:48](https://news.ycombinator.com/item?id=48526360) - [How to Earn a Billion Dollars](https://paulgraham.com/earn.html)
 * [2026-06-14, 06:07:09](https://news.ycombinator.com/item?id=48524620) - [Don't trust large context windows](https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows)
