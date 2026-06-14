@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-06-14, 22:04:01](https://news.ycombinator.com/item?id=48533308) - [Why Is Claude Turning into an a**Hole?](https://bramcohen.com/p/why-is-claude-turning-into-an-asshole)
 * [2026-06-14, 21:06:41](https://news.ycombinator.com/item?id=48532722) - [Abu Fanous](https://en.wikipedia.org/wiki/Abu_Fanous)
-* [2026-06-14, 21:04:46](https://news.ycombinator.com/item?id=48532705) - [Zinnia: A modular 64-bit Unix-like kernel written in Rust](https://zinnia-os.org/)
+* [2026-06-14, 20:17:54](https://news.ycombinator.com/item?id=48532178) - [AI is code – and can't be prompted into being smarter](https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141)
 * [2026-06-14, 20:12:42](https://news.ycombinator.com/item?id=48532116) - [Vibe Coder vs. Software Engineer](https://yusufaytas.com/vibe-coder-vs-software-engineer)
 * [2026-06-14, 19:14:21](https://news.ycombinator.com/item?id=48531449) - [Chaosnet (1981)](https://tumbleweed.nu/r/lm-3/uv/amber.html)
 * [2026-06-14, 19:10:35](https://news.ycombinator.com/item?id=48531394) - [Yserver: A modern X11 server written in Rust](https://github.com/joske/yserver)
@@ -24,10 +25,9 @@
 * [2026-06-11, 16:48:49](https://news.ycombinator.com/item?id=48492822) - [The only scalable delete in Postgres is DROP TABLE](https://planetscale.com/blog/the-only-scalable-delete)
 * [2026-06-11, 14:43:11](https://news.ycombinator.com/item?id=48491048) - [Lisp's Influence on Ruby](https://blog.tacoda.dev/lisps-influence-on-ruby-6a54f1a7740e)
 * [2026-06-11, 12:50:29](https://news.ycombinator.com/item?id=48489636) - [Segmented type appreciation corner (2018)](https://aresluna.org/segmented-type/)
+* [2026-06-11, 12:15:22](https://news.ycombinator.com/item?id=48489309) - [USB Power Delivery: Plugging into the Benefits](https://www.aptiv.com/en/insights/article/usb-power-delivery-plugging-into-the-benefits)
 * [2026-06-11, 01:43:19](https://news.ycombinator.com/item?id=48485277) - [Inverse Rubric Optimization: A testbed for agent science](https://fulcrum.inc/2026/06/09/inverse-rubric-optimization.html)
-* [2026-06-11, 00:13:12](https://news.ycombinator.com/item?id=48484608) - [Lattice Triangles Are Rare](https://axiommath.ai/territory/the-reveal)
 * [2026-06-10, 14:08:36](https://news.ycombinator.com/item?id=48476539) - [TorchCodec 0.14: HDR Video Decoding for CPU and CUDA, and Fast Wav Decoder](https://github.com/meta-pytorch/torchcodec/releases/tag/v0.14.0)
-* [2026-06-10, 11:57:21](https://news.ycombinator.com/item?id=48474982) - [Quivers: A year of linear algebra by drawing arrows](https://lisyarus.github.io/blog/posts/quivers-a-year-of-linear-algebra-by-drawing-arrows.html)
 * [2026-06-10, 05:01:31](https://news.ycombinator.com/item?id=48471638) - [Firewood Splitting Simulator](https://screen.toys/firewood/)
 * [2026-06-09, 13:17:53](https://news.ycombinator.com/item?id=48460762) - [Show HN: 3D print Z reinforcement via injected loops](https://mgunlogson.github.io/magma/)
 
