@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-14](index.md)
 
+* [2026-06-14, 16:28:54](https://news.ycombinator.com/item?id=48529149) - [Swiss voters reject proposal to cap population at ten million](https://www.swissinfo.ch/eng/swiss-politics/swiss-voters-reject-proposal-to-cap-population-at-ten-million/91548146)
+* [2026-06-14, 16:01:30](https://news.ycombinator.com/item?id=48528729) - [Linux 7.1](https://lore.kernel.org/lkml/CAHk-=wi4BF4bMhZNZ1tqs+FFV4OuZRe3ZqdWB+LxRLmRweUzQw@mail.gmail.com/T/#u)
 * [2026-06-14, 15:37:31](https://news.ycombinator.com/item?id=48528371) - [Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model](https://github.com/nex-agi/Nex-N2/issues/4)
 * [2026-06-14, 15:13:57](https://news.ycombinator.com/item?id=48528029) - [I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models](https://news.ycombinator.com/item?id=48528029)
 * [2026-06-14, 15:13:42](https://news.ycombinator.com/item?id=48528025) - [Measles surge in Utah sparks fears US could undo decades of progress](https://www.dailymail.com/news/article-15897903/measles-surge-utah-US-elimination-status.html)

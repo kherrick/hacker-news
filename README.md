@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-06-14, 16:28:54](https://news.ycombinator.com/item?id=48529149) - [Swiss voters reject proposal to cap population at ten million](https://www.swissinfo.ch/eng/swiss-politics/swiss-voters-reject-proposal-to-cap-population-at-ten-million/91548146)
+* [2026-06-14, 16:01:30](https://news.ycombinator.com/item?id=48528729) - [Linux 7.1](https://lore.kernel.org/lkml/CAHk-=wi4BF4bMhZNZ1tqs+FFV4OuZRe3ZqdWB+LxRLmRweUzQw@mail.gmail.com/T/#u)
 * [2026-06-14, 15:37:31](https://news.ycombinator.com/item?id=48528371) - [Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model](https://github.com/nex-agi/Nex-N2/issues/4)
 * [2026-06-14, 15:13:57](https://news.ycombinator.com/item?id=48528029) - [I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models](https://news.ycombinator.com/item?id=48528029)
 * [2026-06-14, 15:13:42](https://news.ycombinator.com/item?id=48528025) - [Measles surge in Utah sparks fears US could undo decades of progress](https://www.dailymail.com/news/article-15897903/measles-surge-utah-US-elimination-status.html)
@@ -7,10 +9,8 @@
 * [2026-06-14, 14:56:35](https://news.ycombinator.com/item?id=48527817) - [Cloud-based LLM gold rush is ending](https://automato.substack.com/p/apple-wwdc-and-the-fable-5-embargo)
 * [2026-06-14, 14:47:12](https://news.ycombinator.com/item?id=48527731) - [Dangerous hormone-disrupting chemicals found in US breast milk samples](https://www.theguardian.com/us-news/2026/jun/14/breast-milk-research-chemicals)
 * [2026-06-14, 14:44:29](https://news.ycombinator.com/item?id=48527700) - [No, everyone is not using AI for everything](https://gabrielweinberg.com/p/people-are-consuming-ai-like-they)
-* [2026-06-14, 14:40:33](https://news.ycombinator.com/item?id=48527658) - [A 'cold blob' in the Atlantic could be a sign of AMOC shutdown – CNN](https://www.cnn.com/2026/06/12/climate/cold-blob-atlantic-amoc-ocean-circulation)
 * [2026-06-14, 14:38:37](https://news.ycombinator.com/item?id=48527634) - [Rio de Janeiro's city government model Rio3.5 beats Qwen3.7 in recent benchmarks](https://twitter.com/zenmagnets/status/2065796012820848699)
 * [2026-06-14, 14:37:51](https://news.ycombinator.com/item?id=48527623) - [Show HN: Dual YOLOv8n UAV Detection on RK3588S at 42 FPS Using NPU](https://github.com/alebal123bal/khadas_yolov8n_multithread)
-* [2026-06-14, 14:33:11](https://news.ycombinator.com/item?id=48527574) - [EU Commission looking at practical consequences of Anthropic decision](https://www.reuters.com/legal/litigation/eu-commission-looking-practical-consequences-anthropic-decision-spokesperson-2026-06-14/)
 * [2026-06-14, 14:29:54](https://news.ycombinator.com/item?id=48527533) - [Extinction-Level Capitalism](https://matthewbutterick.com/extinction-level-capitalism.html)
 * [2026-06-14, 14:11:33](https://news.ycombinator.com/item?id=48527377) - [Conversations with a six-year-old on functional programming (2018)](https://byorgey.wordpress.com/2018/05/06/conversations-with-a-six-year-old-on-functional-programming/)
 * [2026-06-14, 14:09:29](https://news.ycombinator.com/item?id=48527360) - [FarOutCompany](https://faroutcompany.com/)
@@ -27,7 +27,7 @@
 * [2026-06-12, 02:58:17](https://news.ycombinator.com/item?id=48499348) - [Historic co-determination helps monasteries navigate digital change](https://phys.org/news/2026-05-historic-monasteries-digital-countries.html)
 * [2026-06-11, 16:48:49](https://news.ycombinator.com/item?id=48492822) - [The only scalable delete in Postgres is DROP TABLE](https://planetscale.com/blog/the-only-scalable-delete)
 * [2026-06-11, 14:43:11](https://news.ycombinator.com/item?id=48491048) - [Lisp's Influence on Ruby](https://blog.tacoda.dev/lisps-influence-on-ruby-6a54f1a7740e)
-* [2026-06-11, 14:34:46](https://news.ycombinator.com/item?id=48490927) - [FreeOberon – Open-Source, Cross-Platform, Free Pascal/Turbo Pascal-Like Language](https://github.com/kekcleader/FreeOberon)
+* [2026-06-10, 11:57:21](https://news.ycombinator.com/item?id=48474982) - [Quivers: A year of linear algebra by drawing arrows](https://lisyarus.github.io/blog/posts/quivers-a-year-of-linear-algebra-by-drawing-arrows.html)
 * [2026-06-10, 05:01:31](https://news.ycombinator.com/item?id=48471638) - [Firewood Splitting Simulator](https://screen.toys/firewood/)
 * [2026-06-09, 13:17:53](https://news.ycombinator.com/item?id=48460762) - [Show HN: 3D print Z reinforcement via injected loops](https://mgunlogson.github.io/magma/)
 

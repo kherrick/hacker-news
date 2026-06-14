@@ -61,6 +61,7 @@
 * [2026-06-10, 12:59:07](https://news.ycombinator.com/item?id=48475642) - [Tessera – a consent-gated tunnel that's blind to your traffic](https://github.com/emmayusufu/tessera)
 * [2026-06-10, 12:45:47](https://news.ycombinator.com/item?id=48475483) - [Building an HTML-first site doubled our users overnight](https://mohkohn.co.uk/writing/html-first/)
 * [2026-06-10, 12:11:28](https://news.ycombinator.com/item?id=48475100) - [All 9,300 Japanese train station, animated by the year it opened (1872–2026)](https://jivx.com/eki)
+* [2026-06-10, 11:57:21](https://news.ycombinator.com/item?id=48474982) - [Quivers: A year of linear algebra by drawing arrows](https://lisyarus.github.io/blog/posts/quivers-a-year-of-linear-algebra-by-drawing-arrows.html)
 * [2026-06-10, 10:37:45](https://news.ycombinator.com/item?id=48474274) - [Emacs appearances in pop culture](https://ianyepan.github.io/posts/emacs-in-pop-culture/)
 * [2026-06-10, 09:43:16](https://news.ycombinator.com/item?id=48473845) - [Show HN: macOS menu bar gauges for your Claude Code quota](https://github.com/grzegorz-raczek-unit8/claude-quota)
 * [2026-06-10, 09:19:55](https://news.ycombinator.com/item?id=48473662) - [Port React Compiler to Rust](https://github.com/react/react/pull/36173)
