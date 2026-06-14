@@ -1,12 +1,52 @@
 [
   [
     [
+      "2026-06-14, 04:18:45",
+      "https://news.ycombinator.com/item?id=48524135"
+    ],
+    [
+      "Pac-Man, but You're the Ghost",
+      "https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost"
+    ]
+  ],
+  [
+    [
+      "2026-06-14, 04:07:37",
+      "https://news.ycombinator.com/item?id=48524084"
+    ],
+    [
+      "Software Architecture Guide",
+      "https://martinfowler.com/architecture/"
+    ]
+  ],
+  [
+    [
+      "2026-06-14, 03:43:30",
+      "https://news.ycombinator.com/item?id=48523992"
+    ],
+    [
+      "Free SQL→ER diagram tool, runs in the browser, nothing uploaded",
+      "https://sqltoerdiagram.com/"
+    ]
+  ],
+  [
+    [
       "2026-06-14, 02:59:34",
       "https://news.ycombinator.com/item?id=48523773"
     ],
     [
       "The Redistribution of Housing Wealth Caused by Rent Control [pdf]",
       "https://www.rhawa.org/file/secure/shs-the-impact-of-rent-control-in-st-paul.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-06-14, 02:45:38",
+      "https://news.ycombinator.com/item?id=48523705"
+    ],
+    [
+      "Weave: Merging based on language structure and not lines",
+      "https://ataraxy-labs.github.io/weave/"
     ]
   ],
   [
@@ -47,16 +87,6 @@
     [
       "10th Gen Honda Civic Updates Are Signed with AOSP Test Keys",
       "https://juniperspring.org/posts/honda-evil-valet/"
-    ]
-  ],
-  [
-    [
-      "2026-06-13, 23:52:19",
-      "https://news.ycombinator.com/item?id=48522675"
-    ],
-    [
-      "State Attorneys General Are Investigating OpenAI",
-      "https://www.nytimes.com/2026/06/13/technology/states-investigating-openai.html"
     ]
   ],
   [
@@ -141,32 +171,12 @@
   ],
   [
     [
-      "2026-06-13, 16:45:03",
-      "https://news.ycombinator.com/item?id=48518969"
-    ],
-    [
-      "AI coding at home without going broke",
-      "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/"
-    ]
-  ],
-  [
-    [
       "2026-06-13, 16:18:31",
       "https://news.ycombinator.com/item?id=48518684"
     ],
     [
       "GLM 5.2 Is Out",
       "https://twitter.com/jietang/status/2065784751345287314"
-    ]
-  ],
-  [
-    [
-      "2026-06-13, 13:58:46",
-      "https://news.ycombinator.com/item?id=48517412"
-    ],
-    [
-      "Orthodox C++ (2016)",
-      "https://bkaradzic.github.io/posts/orthodoxc++/"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Treating pancreatic tumours may have revealed cancer's master switch",
       "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch"
-    ]
-  ],
-  [
-    [
-      "2026-06-13, 12:40:16",
-      "https://news.ycombinator.com/item?id=48516710"
-    ],
-    [
-      "The experience of rendering Arabic typography and its technical debt",
-      "https://lr0.org/blog/p/arabic/"
     ]
   ],
   [
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2026-06-11, 15:46:27",
-      "https://news.ycombinator.com/item?id=48491968"
+      "2026-06-11, 15:06:28",
+      "https://news.ycombinator.com/item?id=48491376"
     ],
     [
-      "Resurrecting a soaked, corroded, and damaged Commodore SX‑64 (2025)",
-      "https://jerrylparker.com/blogs/posts/sx-64.html"
+      "(Re//Verse 2026) Taxonomy and Deobfuscation of a Real World Binary Obfuscator [pdf]",
+      "https://github.com/AnalogCyberNuke/RE-Verse-2026-Slides/blob/main/Reverse26.pdf"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2026-06-10, 19:40:34",
-      "https://news.ycombinator.com/item?id=48481546"
+      "2026-06-10, 09:01:25",
+      "https://news.ycombinator.com/item?id=48473509"
     ],
     [
-      "A whale necropolis has been found",
-      "https://www.nature.com/articles/d41586-026-01581-x"
+      "The Field Guide to CSS Grid Lanes",
+      "https://gridlanes.webkit.org/"
     ]
   ],
   [
