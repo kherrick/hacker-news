@@ -24,10 +24,10 @@
 * [2026-06-13, 09:38:32](https://news.ycombinator.com/item?id=48515336) - [A low-carbon computing platform from your retired phones](https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/)
 * [2026-06-12, 11:59:40](https://news.ycombinator.com/item?id=48503009) - [Python 3.14 garbage collection rigamarole](https://theconsensus.dev/p/2026/06/06/python-3-14-garbage-collection-rigamarole.html)
 * [2026-06-11, 22:20:03](https://news.ycombinator.com/item?id=48497195) - [Codex for open source](https://openai.com/form/codex-for-oss/)
+* [2026-06-11, 18:05:52](https://news.ycombinator.com/item?id=48494135) - [Beagle: Git, URIs and all the dirty words](https://replicated.wiki/blog/uris.html)
 * [2026-06-11, 15:06:28](https://news.ycombinator.com/item?id=48491376) - [(Re//Verse 2026) Taxonomy and Deobfuscation of a Real World Binary Obfuscator [pdf]](https://github.com/AnalogCyberNuke/RE-Verse-2026-Slides/blob/main/Reverse26.pdf)
 * [2026-06-11, 14:34:46](https://news.ycombinator.com/item?id=48490927) - [FreeOberon – Open-Source, Cross-Platform, Free Pascal/Turbo Pascal-Like Language](https://github.com/kekcleader/FreeOberon)
-* [2026-06-10, 22:47:46](https://news.ycombinator.com/item?id=48483841) - [LaserWriter Seeds](https://inventingthefuture.ghost.io/laserwriter-seeds/)
-* [2026-06-10, 02:48:08](https://news.ycombinator.com/item?id=48470746) - [The Neat Little Vehicles That Run a Cemetery](https://www.thedrive.com/news/meet-the-neat-little-vehicles-that-run-a-cemetery)
+* [2026-06-10, 22:47:46](https://news.ycombinator.com/item?id=48483841) - [LaserWriter seeds](https://inventingthefuture.ghost.io/laserwriter-seeds/)
 * [2026-06-09, 20:41:44](https://news.ycombinator.com/item?id=48467437) - [Appreciating Exif](https://brentfitzgerald.com/posts/appreciating-exif/)
 * [2026-06-09, 15:54:31](https://news.ycombinator.com/item?id=48462759) - [Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI](https://blog.pyodide.org/posts/314-release/)
 
