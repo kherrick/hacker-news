@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-06-14, 01:23:45",
-      "https://news.ycombinator.com/item?id=48523271"
+      "2026-06-14, 02:59:34",
+      "https://news.ycombinator.com/item?id=48523773"
     ],
     [
-      "'Tell Him He's a Piece of Shit': Meta's New AI Unit Is a Total Mess",
-      "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/"
+      "The Redistribution of Housing Wealth Caused by Rent Control [pdf]",
+      "https://www.rhawa.org/file/secure/shs-the-impact-of-rent-control-in-st-paul.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-06-14, 02:31:15",
+      "https://news.ycombinator.com/item?id=48523615"
+    ],
+    [
+      "Building a serial and VGA \"everything console\"",
+      "http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-14, 02:17:13",
+      "https://news.ycombinator.com/item?id=48523550"
+    ],
+    [
+      "Apt Encounters of the Third Kind",
+      "https://igor-blue.github.io/2021/03/24/apt1.html"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2026-06-13, 12:10:47",
-      "https://news.ycombinator.com/item?id=48516504"
-    ],
-    [
-      "AI OSS tool repo goes archived over night after raising $7.3M Seed",
-      "https://github.com/tensorzero/tensorzero"
-    ]
-  ],
-  [
-    [
       "2026-06-13, 11:40:20",
       "https://news.ycombinator.com/item?id=48516251"
     ],
@@ -221,12 +231,12 @@
   ],
   [
     [
-      "2026-06-13, 07:45:39",
-      "https://news.ycombinator.com/item?id=48514560"
+      "2026-06-12, 11:59:40",
+      "https://news.ycombinator.com/item?id=48503009"
     ],
     [
-      "Israeli firm BlackCore suspected of meddling in New York and Scotland votes",
-      "https://www.reuters.com/world/israeli-firm-blackcore-also-suspected-meddling-nyc-scotland-votes-french-2026-06-11/"
+      "Python 3.14 garbage collection rigamarole",
+      "https://theconsensus.dev/p/2026/06/06/python-3-14-garbage-collection-rigamarole.html"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "A whale necropolis has been found",
       "https://www.nature.com/articles/d41586-026-01581-x"
-    ]
-  ],
-  [
-    [
-      "2026-06-10, 16:44:23",
-      "https://news.ycombinator.com/item?id=48479008"
-    ],
-    [
-      "The state of building user interfaces in Rust",
-      "https://areweguiyet.com/#ecosystem"
     ]
   ],
   [
