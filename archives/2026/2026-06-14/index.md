@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-06-14](index.md)
 
+* [2026-06-14, 23:07:48](https://news.ycombinator.com/item?id=48533976) - [US and Iran announce deal to end military operations](https://www.bbc.com/news/live/cj0grpyg4v1t)
+* [2026-06-14, 22:54:55](https://news.ycombinator.com/item?id=48533848) - [Your ePub Is Fine. Kobo Disagrees. Blame Adobe](https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/)
+* [2026-06-14, 22:53:17](https://news.ycombinator.com/item?id=48533829) - [What even is food authenticity? Why we guard carbonara, and flatten chicken rice](https://iza.ac/posts/2026/06/food-authenticity/)
+* [2026-06-14, 22:45:55](https://news.ycombinator.com/item?id=48533756) - [Stanford grads walk out on Google CEO Sundar Pichai speech](https://twitter.com/maattttbrown/status/2066215255987163246)
+* [2026-06-14, 22:43:49](https://news.ycombinator.com/item?id=48533736) - [The Jqwik Anti-AI Affair](https://blog.johanneslink.net/2026/06/09/the-jqwik-anti-ai-affair/)
 * [2026-06-14, 22:23:05](https://news.ycombinator.com/item?id=48533504) - [Did Anthropic ask for this?](https://www.verysane.ai/p/did-anthropic-ask-for-this)
 * [2026-06-14, 22:04:01](https://news.ycombinator.com/item?id=48533308) - [Why Is Claude Turning into an a**Hole?](https://bramcohen.com/p/why-is-claude-turning-into-an-asshole)
 * [2026-06-14, 21:06:41](https://news.ycombinator.com/item?id=48532722) - [Abu Fanous](https://en.wikipedia.org/wiki/Abu_Fanous)
