@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-06-14, 15:13:57",
+      "https://news.ycombinator.com/item?id=48528029"
+    ],
+    [
+      "I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models",
+      "https://news.ycombinator.com/item?id=48528029"
+    ]
+  ],
+  [
+    [
+      "2026-06-14, 15:13:42",
+      "https://news.ycombinator.com/item?id=48528025"
+    ],
+    [
+      "Measles surge in Utah sparks fears US could undo decades of progress",
+      "https://www.dailymail.com/news/article-15897903/measles-surge-utah-US-elimination-status.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-14, 14:56:56",
+      "https://news.ycombinator.com/item?id=48527820"
+    ],
+    [
+      "Perlisisms",
+      "https://www.cs.yale.edu/homes/perlis-alan/quotes.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-14, 14:56:35",
+      "https://news.ycombinator.com/item?id=48527817"
+    ],
+    [
+      "Cloud-based LLM gold rush is ending",
+      "https://automato.substack.com/p/apple-wwdc-and-the-fable-5-embargo"
+    ]
+  ],
+  [
+    [
       "2026-06-14, 14:51:03",
       "https://news.ycombinator.com/item?id=48527766"
     ],
@@ -21,6 +61,16 @@
   ],
   [
     [
+      "2026-06-14, 14:44:29",
+      "https://news.ycombinator.com/item?id=48527700"
+    ],
+    [
+      "No, everyone is not using AI for everything",
+      "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they"
+    ]
+  ],
+  [
+    [
       "2026-06-14, 14:40:33",
       "https://news.ycombinator.com/item?id=48527658"
     ],
@@ -37,6 +87,16 @@
     [
       "Rio de Janeiro's city government model Rio3.5 beats Qwen3.7 in recent benchmarks",
       "https://twitter.com/zenmagnets/status/2065796012820848699"
+    ]
+  ],
+  [
+    [
+      "2026-06-14, 14:37:51",
+      "https://news.ycombinator.com/item?id=48527623"
+    ],
+    [
+      "Show HN: Dual YOLOv8n UAV Detection on RK3588S at 42 FPS Using NPU",
+      "https://github.com/alebal123bal/khadas_yolov8n_multithread"
     ]
   ],
   [
@@ -101,16 +161,6 @@
   ],
   [
     [
-      "2026-06-14, 13:30:01",
-      "https://news.ycombinator.com/item?id=48527040"
-    ],
-    [
-      "Arch Linux AUR Hit by Another Wave of Now More Sophisticated Malware Attack",
-      "https://www.phoronix.com/news/Arch-Linux-AUR-More-Malware"
-    ]
-  ],
-  [
-    [
       "2026-06-14, 12:57:33",
       "https://news.ycombinator.com/item?id=48526793"
     ],
@@ -141,6 +191,16 @@
   ],
   [
     [
+      "2026-06-14, 12:15:27",
+      "https://news.ycombinator.com/item?id=48526472"
+    ],
+    [
+      "Can't Stop the Signal. Poison It",
+      "https://blog.digitalgrease.dev/posts/fauxx-cant-stop-the-signal"
+    ]
+  ],
+  [
+    [
       "2026-06-14, 11:50:48",
       "https://news.ycombinator.com/item?id=48526360"
     ],
@@ -157,26 +217,6 @@
     [
       "Don't trust large context windows",
       "https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows"
-    ]
-  ],
-  [
-    [
-      "2026-06-14, 05:23:12",
-      "https://news.ycombinator.com/item?id=48524434"
-    ],
-    [
-      "Tribblix: The retro Illumos distribution",
-      "http://tribblix.org/"
-    ]
-  ],
-  [
-    [
-      "2026-06-14, 04:18:45",
-      "https://news.ycombinator.com/item?id=48524135"
-    ],
-    [
-      "Pac-Man, but you're the ghost",
-      "https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost"
     ]
   ],
   [
@@ -201,32 +241,12 @@
   ],
   [
     [
-      "2026-06-13, 16:18:31",
-      "https://news.ycombinator.com/item?id=48518684"
+      "2026-06-13, 16:58:52",
+      "https://news.ycombinator.com/item?id=48519102"
     ],
     [
-      "GLM 5.2 Is Out",
-      "https://twitter.com/jietang/status/2065784751345287314"
-    ]
-  ],
-  [
-    [
-      "2026-06-13, 13:34:00",
-      "https://news.ycombinator.com/item?id=48517199"
-    ],
-    [
-      "New pancreatic cancer drug might open the door to much longer survival times",
-      "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch"
-    ]
-  ],
-  [
-    [
-      "2026-06-12, 11:59:40",
-      "https://news.ycombinator.com/item?id=48503009"
-    ],
-    [
-      "Python 3.14 garbage collection rigamarole",
-      "https://theconsensus.dev/p/2026/06/06/python-3-14-garbage-collection-rigamarole.html"
+      "Global density and biomass of arbuscular mycorrhizal fungal networks",
+      "https://www.science.org/doi/10.1126/science.adu4373"
     ]
   ],
   [
@@ -241,32 +261,12 @@
   ],
   [
     [
-      "2026-06-11, 22:20:03",
-      "https://news.ycombinator.com/item?id=48497195"
-    ],
-    [
-      "Codex for open source",
-      "https://openai.com/form/codex-for-oss/"
-    ]
-  ],
-  [
-    [
       "2026-06-11, 16:48:49",
       "https://news.ycombinator.com/item?id=48492822"
     ],
     [
       "The only scalable delete in Postgres is DROP TABLE",
       "https://planetscale.com/blog/the-only-scalable-delete"
-    ]
-  ],
-  [
-    [
-      "2026-06-11, 16:14:55",
-      "https://news.ycombinator.com/item?id=48492366"
-    ],
-    [
-      "Windows 1.0 and the WinAPI, 40 Years Later",
-      "https://medium.com/@stassaf.uae/windows-1-0-and-the-winapi-40-years-later-abaf64832918"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2026-06-11, 14:34:46",
-      "https://news.ycombinator.com/item?id=48490927"
-    ],
-    [
-      "FreeOberon – Open-Source, Cross-Platform, Free Pascal/Turbo Pascal-Like Language",
-      "https://github.com/kekcleader/FreeOberon"
-    ]
-  ],
-  [
-    [
       "2026-06-10, 05:01:31",
       "https://news.ycombinator.com/item?id=48471638"
     ],
     [
       "Firewood Splitting Simulator",
       "https://screen.toys/firewood/"
+    ]
+  ],
+  [
+    [
+      "2026-06-09, 13:17:53",
+      "https://news.ycombinator.com/item?id=48460762"
+    ],
+    [
+      "Show HN: 3D print Z reinforcement via injected loops",
+      "https://mgunlogson.github.io/magma/"
     ]
   ]
 ]
