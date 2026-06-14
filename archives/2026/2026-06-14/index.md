@@ -4,10 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-06-14](index.md)
 
+* [2026-06-14, 06:07:09](https://news.ycombinator.com/item?id=48524620) - [Don't trust large context windows](https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows)
+* [2026-06-14, 05:27:45](https://news.ycombinator.com/item?id=48524447) - [Consciousness likely not unique to earthlings, paper says](https://news.ucr.edu/articles/2026/06/10/consciousness-likely-not-unique-earthlings-paper-says)
+* [2026-06-14, 05:23:12](https://news.ycombinator.com/item?id=48524434) - [Tribblix: The retro Illumos distribution](http://tribblix.org/)
+* [2026-06-14, 04:53:51](https://news.ycombinator.com/item?id=48524293) - [Phoenix LiveView 1.2 Released](https://phoenixframework.org/blog/phoenix-liveview-1-2-released)
 * [2026-06-14, 04:18:45](https://news.ycombinator.com/item?id=48524135) - [Pac-Man, but You're the Ghost](https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost)
 * [2026-06-14, 04:07:37](https://news.ycombinator.com/item?id=48524084) - [Software Architecture Guide](https://martinfowler.com/architecture/)
 * [2026-06-14, 03:43:30](https://news.ycombinator.com/item?id=48523992) - [Free SQL→ER diagram tool, runs in the browser, nothing uploaded](https://sqltoerdiagram.com/)
 * [2026-06-14, 02:59:34](https://news.ycombinator.com/item?id=48523773) - [The Redistribution of Housing Wealth Caused by Rent Control [pdf]](https://www.rhawa.org/file/secure/shs-the-impact-of-rent-control-in-st-paul.pdf)
+* [2026-06-14, 02:55:36](https://news.ycombinator.com/item?id=48523752) - [Making Claude a Chemist](https://www.anthropic.com/research/making-claude-a-chemist)
 * [2026-06-14, 02:45:38](https://news.ycombinator.com/item?id=48523705) - [Weave: Merging based on language structure and not lines](https://ataraxy-labs.github.io/weave/)
 * [2026-06-14, 02:31:15](https://news.ycombinator.com/item?id=48523615) - [Building a serial and VGA \"everything console\"](http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html)
 * [2026-06-14, 02:17:13](https://news.ycombinator.com/item?id=48523550) - [Apt Encounters of the Third Kind](https://igor-blue.github.io/2021/03/24/apt1.html)
