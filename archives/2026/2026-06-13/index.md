@@ -6,6 +6,8 @@
 
 * [2026-06-13, 23:52:19](https://news.ycombinator.com/item?id=48522675) - [State Attorneys General Are Investigating OpenAI](https://www.nytimes.com/2026/06/13/technology/states-investigating-openai.html)
 * [2026-06-13, 23:35:40](https://news.ycombinator.com/item?id=48522555) - [Show HN: I built 80 mini-games using Fable before it was shut down](https://minigames.world/en)
+* [2026-06-13, 23:22:05](https://news.ycombinator.com/item?id=48522486) - [ReactOS (FOSS \"Windows\") achieves 3D-accelerated Half-Life on real hardware](https://www.phoronix.com/news/ReactOS-Running-Half-Life)
+* [2026-06-13, 22:54:37](https://news.ycombinator.com/item?id=48522310) - [Ancient genome duplications laid the foundations of complex brains](https://www.ox.ac.uk/news/2026-06-09-ancient-genome-duplications-laid-the-foundations-of-complex-brains)
 * [2026-06-13, 22:43:30](https://news.ycombinator.com/item?id=48522237) - [Derbyshire Police officer accused of using AI to 'create evidence'](https://www.bbc.com/news/articles/cy8wppwdxl6o)
 * [2026-06-13, 21:35:24](https://news.ycombinator.com/item?id=48521709) - [Human Routers of Machine Words](https://borretti.me/article/human-routers-of-machine-words)
 * [2026-06-13, 19:54:55](https://news.ycombinator.com/item?id=48520807) - [Police officer investigated for using AI to 'create evidence' in multiple cases](https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661)

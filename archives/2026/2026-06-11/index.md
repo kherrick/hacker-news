@@ -45,6 +45,7 @@
 * [2026-06-11, 14:55:59](https://news.ycombinator.com/item?id=48491214) - [Driving in America Is Headlight Hell](https://www.theatlantic.com/technology/2026/06/car-headlights-too-bright-adaptive-beams/687488/)
 * [2026-06-11, 14:35:53](https://news.ycombinator.com/item?id=48490946) - [AMD Gaslights Security Researcher, Changes Rules Retroactively [video]](https://www.youtube.com/watch?v=4HjWHNLRMB0)
 * [2026-06-11, 14:35:41](https://news.ycombinator.com/item?id=48490939) - [How a new DSL may survive in the era of LLMs](https://www.williamcotton.com/articles/how-a-new-dsl-survives-in-the-era-of-llms)
+* [2026-06-11, 14:34:46](https://news.ycombinator.com/item?id=48490927) - [FreeOberon – Open-Source, Cross-Platform, Free Pascal/Turbo Pascal-Like Language](https://github.com/kekcleader/FreeOberon)
 * [2026-06-11, 14:27:19](https://news.ycombinator.com/item?id=48490826) - [MiMo Code Is Now Released and Open-Source](https://mimo.xiaomi.com/mimocode)
 * [2026-06-11, 14:17:47](https://news.ycombinator.com/item?id=48490715) - [Nextcloud Hub 26 Spring: Built together, designed for the future](https://nextcloud.com/blog/nextcloud-hub26-spring/)
 * [2026-06-11, 14:06:43](https://news.ycombinator.com/item?id=48490564) - [Euro-Office: First version of the open-source web office is here](https://www.heise.de/en/news/Euro-Office-First-version-of-the-open-source-web-office-is-here-11322160.html)
