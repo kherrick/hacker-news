@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-14](index.md)
 
+* [2026-06-14, 21:06:41](https://news.ycombinator.com/item?id=48532722) - [Abu Fanous](https://en.wikipedia.org/wiki/Abu_Fanous)
 * [2026-06-14, 21:04:46](https://news.ycombinator.com/item?id=48532705) - [Zinnia: A modular 64-bit Unix-like kernel written in Rust](https://zinnia-os.org/)
 * [2026-06-14, 20:12:42](https://news.ycombinator.com/item?id=48532116) - [Vibe Coder vs. Software Engineer](https://yusufaytas.com/vibe-coder-vs-software-engineer)
 * [2026-06-14, 19:14:21](https://news.ycombinator.com/item?id=48531449) - [Chaosnet](https://tumbleweed.nu/r/lm-3/uv/amber.html)
