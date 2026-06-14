@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-14, 22:04:01",
+      "https://news.ycombinator.com/item?id=48533308"
+    ],
+    [
+      "Why Is Claude Turning into an a**Hole?",
+      "https://bramcohen.com/p/why-is-claude-turning-into-an-asshole"
+    ]
+  ],
+  [
+    [
       "2026-06-14, 21:06:41",
       "https://news.ycombinator.com/item?id=48532722"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2026-06-14, 21:04:46",
-      "https://news.ycombinator.com/item?id=48532705"
+      "2026-06-14, 20:17:54",
+      "https://news.ycombinator.com/item?id=48532178"
     ],
     [
-      "Zinnia: A modular 64-bit Unix-like kernel written in Rust",
-      "https://zinnia-os.org/"
+      "AI is code – and can't be prompted into being smarter",
+      "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141"
     ]
   ],
   [
@@ -241,6 +251,16 @@
   ],
   [
     [
+      "2026-06-11, 12:15:22",
+      "https://news.ycombinator.com/item?id=48489309"
+    ],
+    [
+      "USB Power Delivery: Plugging into the Benefits",
+      "https://www.aptiv.com/en/insights/article/usb-power-delivery-plugging-into-the-benefits"
+    ]
+  ],
+  [
+    [
       "2026-06-11, 01:43:19",
       "https://news.ycombinator.com/item?id=48485277"
     ],
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2026-06-11, 00:13:12",
-      "https://news.ycombinator.com/item?id=48484608"
-    ],
-    [
-      "Lattice Triangles Are Rare",
-      "https://axiommath.ai/territory/the-reveal"
-    ]
-  ],
-  [
-    [
       "2026-06-10, 14:08:36",
       "https://news.ycombinator.com/item?id=48476539"
     ],
     [
       "TorchCodec 0.14: HDR Video Decoding for CPU and CUDA, and Fast Wav Decoder",
       "https://github.com/meta-pytorch/torchcodec/releases/tag/v0.14.0"
-    ]
-  ],
-  [
-    [
-      "2026-06-10, 11:57:21",
-      "https://news.ycombinator.com/item?id=48474982"
-    ],
-    [
-      "Quivers: A year of linear algebra by drawing arrows",
-      "https://lisyarus.github.io/blog/posts/quivers-a-year-of-linear-algebra-by-drawing-arrows.html"
     ]
   ],
   [
