@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-06-14, 11:50:48](https://news.ycombinator.com/item?id=48526360) - [How to Earn a Billion Dollars](https://paulgraham.com/earn.html)
+* [2026-06-14, 12:38:31](https://news.ycombinator.com/item?id=48526661) - [The Birth and Death of JavaScript (2014)](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)
 * [2026-06-14, 06:07:09](https://news.ycombinator.com/item?id=48524620) - [Don't trust large context windows](https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows)
 * [2026-06-14, 05:23:12](https://news.ycombinator.com/item?id=48524434) - [Tribblix: The retro Illumos distribution](http://tribblix.org/)
 * [2026-06-14, 04:53:51](https://news.ycombinator.com/item?id=48524293) - [Phoenix LiveView 1.2](https://phoenixframework.org/blog/phoenix-liveview-1-2-released)
@@ -13,7 +13,6 @@
 * [2026-06-13, 18:32:22](https://news.ycombinator.com/item?id=48520080) - [Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch](https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/)
 * [2026-06-13, 17:43:02](https://news.ycombinator.com/item?id=48519552) - [GameBoy Workboy](https://tcrf.net/Workboy)
 * [2026-06-13, 16:57:49](https://news.ycombinator.com/item?id=48519092) - [Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models](https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink)
-* [2026-06-13, 16:45:03](https://news.ycombinator.com/item?id=48518969) - [AI coding at home without going broke](https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/)
 * [2026-06-13, 16:18:31](https://news.ycombinator.com/item?id=48518684) - [GLM 5.2 Is Out](https://twitter.com/jietang/status/2065784751345287314)
 * [2026-06-13, 13:54:56](https://news.ycombinator.com/item?id=48517377) - [Noise infusion banned from statistical products published by Census Bureau](https://desfontain.es/blog/banning-noise.html)
 * [2026-06-13, 13:34:00](https://news.ycombinator.com/item?id=48517199) - [Treating pancreatic tumours may have revealed cancer's master switch](https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch)
@@ -28,6 +27,7 @@
 * [2026-06-11, 16:14:55](https://news.ycombinator.com/item?id=48492366) - [Windows 1.0 and the WinAPI, 40 Years Later](https://medium.com/@stassaf.uae/windows-1-0-and-the-winapi-40-years-later-abaf64832918)
 * [2026-06-11, 14:34:46](https://news.ycombinator.com/item?id=48490927) - [FreeOberon – Open-Source, Cross-Platform, Free Pascal/Turbo Pascal-Like Language](https://github.com/kekcleader/FreeOberon)
 * [2026-06-10, 22:47:46](https://news.ycombinator.com/item?id=48483841) - [LaserWriter seeds](https://inventingthefuture.ghost.io/laserwriter-seeds/)
+* [2026-06-10, 05:01:31](https://news.ycombinator.com/item?id=48471638) - [Firewood Splitting Simulator](https://screen.toys/firewood/)
 * [2026-06-09, 20:41:44](https://news.ycombinator.com/item?id=48467437) - [Appreciating Exif](https://brentfitzgerald.com/posts/appreciating-exif/)
 * [2026-06-09, 15:54:31](https://news.ycombinator.com/item?id=48462759) - [Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI](https://blog.pyodide.org/posts/314-release/)
 
