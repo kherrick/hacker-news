@@ -5,8 +5,18 @@
       "https://news.ycombinator.com/item?id=48531449"
     ],
     [
-      "Chaosnet",
+      "Chaosnet (1981)",
       "https://tumbleweed.nu/r/lm-3/uv/amber.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-14, 19:10:35",
+      "https://news.ycombinator.com/item?id=48531394"
+    ],
+    [
+      "Yserver: A modern X11 server written in Rust",
+      "https://github.com/joske/yserver"
     ]
   ],
   [
@@ -27,6 +37,16 @@
     [
       "Show HN: Kage – Shadow any website to a single binary for offline viewing",
       "https://github.com/tamnd/kage"
+    ]
+  ],
+  [
+    [
+      "2026-06-14, 17:02:16",
+      "https://news.ycombinator.com/item?id=48529645"
+    ],
+    [
+      "Dillo directory – Directory of useful sites that work reasonably well on Dillo",
+      "https://dir.dillo-browser.org/"
     ]
   ],
   [
@@ -85,7 +105,7 @@
       "https://news.ycombinator.com/item?id=48527700"
     ],
     [
-      "No, everyone is not using AI for everything",
+      "Not everyone is using AI for everything",
       "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they"
     ]
   ],
@@ -107,16 +127,6 @@
     [
       "Rio de Janeiro's city government model Rio3.5 beats Qwen3.7 in recent benchmarks",
       "https://twitter.com/zenmagnets/status/2065796012820848699"
-    ]
-  ],
-  [
-    [
-      "2026-06-14, 14:37:51",
-      "https://news.ycombinator.com/item?id=48527623"
-    ],
-    [
-      "Show HN: Dual YOLOv8n UAV Detection on RK3588S at 42 FPS Using NPU",
-      "https://github.com/alebal123bal/khadas_yolov8n_multithread"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Segmented type appreciation corner (2018)",
       "https://aresluna.org/segmented-type/"
-    ]
-  ],
-  [
-    [
-      "2026-06-11, 12:15:22",
-      "https://news.ycombinator.com/item?id=48489309"
-    ],
-    [
-      "USB Power Delivery: Plugging into the Benefits",
-      "https://www.aptiv.com/en/insights/article/usb-power-delivery-plugging-into-the-benefits"
     ]
   ],
   [
