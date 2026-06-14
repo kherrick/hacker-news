@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-06-14](index.md)
 
+* [2026-06-14, 17:25:38](https://news.ycombinator.com/item?id=48529990) - [Show HN: Kage – Shadow any website to a single binary for offline viewing](https://github.com/tamnd/kage)
+* [2026-06-14, 17:02:16](https://news.ycombinator.com/item?id=48529645) - [Dillo directory – Directory of useful sites that work reasonably well on Dillo](https://dir.dillo-browser.org/)
+* [2026-06-14, 16:31:27](https://news.ycombinator.com/item?id=48529190) - [FTX's former Anthropic stake would be worth about $75B at today's valuation](https://news.ycombinator.com/item?id=48529190)
 * [2026-06-14, 16:28:54](https://news.ycombinator.com/item?id=48529149) - [Swiss voters reject proposal to cap population at ten million](https://www.swissinfo.ch/eng/swiss-politics/swiss-voters-reject-proposal-to-cap-population-at-ten-million/91548146)
+* [2026-06-14, 16:05:28](https://news.ycombinator.com/item?id=48528779) - [Ask HN: What are you working on? (June 2026)](https://news.ycombinator.com/item?id=48528779)
 * [2026-06-14, 16:01:30](https://news.ycombinator.com/item?id=48528729) - [Linux 7.1](https://lore.kernel.org/lkml/CAHk-=wi4BF4bMhZNZ1tqs+FFV4OuZRe3ZqdWB+LxRLmRweUzQw@mail.gmail.com/T/#u)
 * [2026-06-14, 15:37:31](https://news.ycombinator.com/item?id=48528371) - [Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model](https://github.com/nex-agi/Nex-N2/issues/4)
 * [2026-06-14, 15:13:57](https://news.ycombinator.com/item?id=48528029) - [I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models](https://news.ycombinator.com/item?id=48528029)
