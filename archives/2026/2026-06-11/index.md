@@ -31,6 +31,7 @@
 * [2026-06-11, 17:32:35](https://news.ycombinator.com/item?id=48493512) - [There Is Life Before Main in Rust](https://grack.com/blog/2026/06/11/life-before-main/)
 * [2026-06-11, 17:28:52](https://news.ycombinator.com/item?id=48493447) - [Building agents without harness engineering](https://rajitkhanna.com/agents/)
 * [2026-06-11, 17:14:42](https://news.ycombinator.com/item?id=48493218) - [WikiLambda the Ultimate](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-05-22/Recent_research)
+* [2026-06-11, 16:48:49](https://news.ycombinator.com/item?id=48492822) - [The only scalable delete in Postgres is DROP TABLE](https://planetscale.com/blog/the-only-scalable-delete)
 * [2026-06-11, 16:34:11](https://news.ycombinator.com/item?id=48492613) - [Fable 5 lies 96% of the time](https://twitter.com/kradleai/status/2064907897373642912)
 * [2026-06-11, 16:28:24](https://news.ycombinator.com/item?id=48492533) - [Software Is Made Between Commits](https://zed.dev/blog/introducing-deltadb)
 * [2026-06-11, 16:14:55](https://news.ycombinator.com/item?id=48492366) - [Windows 1.0 and the WinAPI, 40 Years Later](https://medium.com/@stassaf.uae/windows-1-0-and-the-winapi-40-years-later-abaf64832918)

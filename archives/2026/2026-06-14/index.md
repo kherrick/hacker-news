@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-06-14](index.md)
 
+* [2026-06-14, 14:51:03](https://news.ycombinator.com/item?id=48527766) - [UK set to announce social media ban for under-16s](https://www.manchestereveningnews.co.uk/news/uk-news/uk-set-announce-social-media-34119132)
+* [2026-06-14, 14:47:12](https://news.ycombinator.com/item?id=48527731) - [Dangerous hormone-disrupting chemicals found in US breast milk samples](https://www.theguardian.com/us-news/2026/jun/14/breast-milk-research-chemicals)
+* [2026-06-14, 14:40:33](https://news.ycombinator.com/item?id=48527658) - [A 'cold blob' in the Atlantic could be a sign of AMOC shutdown – CNN](https://www.cnn.com/2026/06/12/climate/cold-blob-atlantic-amoc-ocean-circulation)
+* [2026-06-14, 14:38:37](https://news.ycombinator.com/item?id=48527634) - [Rio de Janeiro's city government model Rio3.5 beats Qwen3.7 in recent benchmarks](https://twitter.com/zenmagnets/status/2065796012820848699)
+* [2026-06-14, 14:33:11](https://news.ycombinator.com/item?id=48527574) - [EU Commission looking at practical consequences of Anthropic decision](https://www.reuters.com/legal/litigation/eu-commission-looking-practical-consequences-anthropic-decision-spokesperson-2026-06-14/)
+* [2026-06-14, 14:29:54](https://news.ycombinator.com/item?id=48527533) - [Extinction-Level Capitalism](https://matthewbutterick.com/extinction-level-capitalism.html)
 * [2026-06-14, 14:13:22](https://news.ycombinator.com/item?id=48527392) - [SpaceX, Adding It Up – The $235B Cash Gap](https://capefearadvisors.substack.com/p/spacex-adding-it-up-the-235-billion)
 * [2026-06-14, 14:11:33](https://news.ycombinator.com/item?id=48527377) - [Conversations with a six-year-old on functional programming (2018)](https://byorgey.wordpress.com/2018/05/06/conversations-with-a-six-year-old-on-functional-programming/)
 * [2026-06-14, 14:09:29](https://news.ycombinator.com/item?id=48527360) - [FarOutCompany](https://faroutcompany.com/)
@@ -12,6 +18,7 @@
 * [2026-06-14, 13:30:01](https://news.ycombinator.com/item?id=48527040) - [Arch Linux AUR Hit by Another Wave of Now More Sophisticated Malware Attack](https://www.phoronix.com/news/Arch-Linux-AUR-More-Malware)
 * [2026-06-14, 12:57:33](https://news.ycombinator.com/item?id=48526793) - [How did Atari apply side art to Arcade Cabinets?](https://arcadeblogger.com/2026/06/14/how-did-atari-apply-side-art-to-arcade-cabinets/)
 * [2026-06-14, 12:38:31](https://news.ycombinator.com/item?id=48526661) - [The Birth and Death of JavaScript (2014)](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)
+* [2026-06-14, 12:35:27](https://news.ycombinator.com/item?id=48526633) - [Formal Methods and the Future of Programming](https://blog.janestreet.com/formal-methods-at-jane-street-index/?from_theconsensus=1)
 * [2026-06-14, 11:50:48](https://news.ycombinator.com/item?id=48526360) - [How to Earn a Billion Dollars](https://paulgraham.com/earn.html)
 * [2026-06-14, 06:07:09](https://news.ycombinator.com/item?id=48524620) - [Don't trust large context windows](https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows)
 * [2026-06-14, 05:27:45](https://news.ycombinator.com/item?id=48524447) - [Consciousness likely not unique to earthlings, paper says](https://news.ucr.edu/articles/2026/06/10/consciousness-likely-not-unique-earthlings-paper-says)
