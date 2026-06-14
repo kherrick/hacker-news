@@ -1,12 +1,62 @@
 [
   [
     [
-      "2026-06-14, 14:13:22",
-      "https://news.ycombinator.com/item?id=48527392"
+      "2026-06-14, 14:51:03",
+      "https://news.ycombinator.com/item?id=48527766"
     ],
     [
-      "SpaceX, Adding It Up – The $235B Cash Gap",
-      "https://capefearadvisors.substack.com/p/spacex-adding-it-up-the-235-billion"
+      "UK set to announce social media ban for under-16s",
+      "https://www.manchestereveningnews.co.uk/news/uk-news/uk-set-announce-social-media-34119132"
+    ]
+  ],
+  [
+    [
+      "2026-06-14, 14:47:12",
+      "https://news.ycombinator.com/item?id=48527731"
+    ],
+    [
+      "Dangerous hormone-disrupting chemicals found in US breast milk samples",
+      "https://www.theguardian.com/us-news/2026/jun/14/breast-milk-research-chemicals"
+    ]
+  ],
+  [
+    [
+      "2026-06-14, 14:40:33",
+      "https://news.ycombinator.com/item?id=48527658"
+    ],
+    [
+      "A 'cold blob' in the Atlantic could be a sign of AMOC shutdown – CNN",
+      "https://www.cnn.com/2026/06/12/climate/cold-blob-atlantic-amoc-ocean-circulation"
+    ]
+  ],
+  [
+    [
+      "2026-06-14, 14:38:37",
+      "https://news.ycombinator.com/item?id=48527634"
+    ],
+    [
+      "Rio de Janeiro's city government model Rio3.5 beats Qwen3.7 in recent benchmarks",
+      "https://twitter.com/zenmagnets/status/2065796012820848699"
+    ]
+  ],
+  [
+    [
+      "2026-06-14, 14:33:11",
+      "https://news.ycombinator.com/item?id=48527574"
+    ],
+    [
+      "EU Commission looking at practical consequences of Anthropic decision",
+      "https://www.reuters.com/legal/litigation/eu-commission-looking-practical-consequences-anthropic-decision-spokesperson-2026-06-14/"
+    ]
+  ],
+  [
+    [
+      "2026-06-14, 14:29:54",
+      "https://news.ycombinator.com/item?id=48527533"
+    ],
+    [
+      "Extinction-Level Capitalism",
+      "https://matthewbutterick.com/extinction-level-capitalism.html"
     ]
   ],
   [
@@ -81,6 +131,16 @@
   ],
   [
     [
+      "2026-06-14, 12:35:27",
+      "https://news.ycombinator.com/item?id=48526633"
+    ],
+    [
+      "Formal Methods and the Future of Programming",
+      "https://blog.janestreet.com/formal-methods-at-jane-street-index/?from_theconsensus=1"
+    ]
+  ],
+  [
+    [
       "2026-06-14, 11:50:48",
       "https://news.ycombinator.com/item?id=48526360"
     ],
@@ -111,16 +171,6 @@
   ],
   [
     [
-      "2026-06-14, 04:53:51",
-      "https://news.ycombinator.com/item?id=48524293"
-    ],
-    [
-      "Phoenix LiveView 1.2",
-      "https://phoenixframework.org/blog/phoenix-liveview-1-2-released"
-    ]
-  ],
-  [
-    [
       "2026-06-14, 04:18:45",
       "https://news.ycombinator.com/item?id=48524135"
     ],
@@ -137,26 +187,6 @@
     [
       "Free SQL→ER diagram tool, runs in the browser, nothing uploaded",
       "https://sqltoerdiagram.com/"
-    ]
-  ],
-  [
-    [
-      "2026-06-14, 02:55:36",
-      "https://news.ycombinator.com/item?id=48523752"
-    ],
-    [
-      "Making Claude a Chemist",
-      "https://www.anthropic.com/research/making-claude-a-chemist"
-    ]
-  ],
-  [
-    [
-      "2026-06-14, 02:31:15",
-      "https://news.ycombinator.com/item?id=48523615"
-    ],
-    [
-      "Building a serial and VGA \"everything console\"",
-      "http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html"
     ]
   ],
   [
@@ -181,42 +211,12 @@
   ],
   [
     [
-      "2026-06-13, 13:54:56",
-      "https://news.ycombinator.com/item?id=48517377"
-    ],
-    [
-      "Noise infusion banned from statistical products published by Census Bureau",
-      "https://desfontain.es/blog/banning-noise.html"
-    ]
-  ],
-  [
-    [
       "2026-06-13, 13:34:00",
       "https://news.ycombinator.com/item?id=48517199"
     ],
     [
       "New pancreatic cancer drug might open the door to much longer survival times",
       "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch"
-    ]
-  ],
-  [
-    [
-      "2026-06-13, 11:40:20",
-      "https://news.ycombinator.com/item?id=48516251"
-    ],
-    [
-      "Every Frame Perfect",
-      "https://tonsky.me/blog/every-frame-perfect/"
-    ]
-  ],
-  [
-    [
-      "2026-06-13, 09:38:32",
-      "https://news.ycombinator.com/item?id=48515336"
-    ],
-    [
-      "A low-carbon computing platform from your retired phones",
-      "https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/"
     ]
   ],
   [
@@ -247,6 +247,16 @@
     [
       "Codex for open source",
       "https://openai.com/form/codex-for-oss/"
+    ]
+  ],
+  [
+    [
+      "2026-06-11, 16:48:49",
+      "https://news.ycombinator.com/item?id=48492822"
+    ],
+    [
+      "The only scalable delete in Postgres is DROP TABLE",
+      "https://planetscale.com/blog/the-only-scalable-delete"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Firewood Splitting Simulator",
       "https://screen.toys/firewood/"
-    ]
-  ],
-  [
-    [
-      "2026-06-09, 15:54:31",
-      "https://news.ycombinator.com/item?id=48462759"
-    ],
-    [
-      "Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI",
-      "https://blog.pyodide.org/posts/314-release/"
     ]
   ]
 ]
