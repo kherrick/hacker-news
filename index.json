@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-14, 21:06:41",
+      "https://news.ycombinator.com/item?id=48532722"
+    ],
+    [
+      "Abu Fanous",
+      "https://en.wikipedia.org/wiki/Abu_Fanous"
+    ]
+  ],
+  [
+    [
       "2026-06-14, 21:04:46",
       "https://news.ycombinator.com/item?id=48532705"
     ],
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2026-06-14, 12:57:33",
-      "https://news.ycombinator.com/item?id=48526793"
-    ],
-    [
-      "How did Atari apply side art to Arcade Cabinets?",
-      "https://arcadeblogger.com/2026/06/14/how-did-atari-apply-side-art-to-arcade-cabinets/"
-    ]
-  ],
-  [
-    [
       "2026-06-14, 12:38:31",
       "https://news.ycombinator.com/item?id=48526661"
     ],
@@ -177,26 +177,6 @@
     [
       "How to earn a billion dollars",
       "https://paulgraham.com/earn.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-14, 03:43:30",
-      "https://news.ycombinator.com/item?id=48523992"
-    ],
-    [
-      "Free SQL→ER diagram tool, runs in the browser, nothing uploaded",
-      "https://sqltoerdiagram.com/"
-    ]
-  ],
-  [
-    [
-      "2026-06-14, 00:49:46",
-      "https://news.ycombinator.com/item?id=48523080"
-    ],
-    [
-      "Honda Civics and the Evil Valet",
-      "https://juniperspring.org/posts/honda-evil-valet/"
     ]
   ],
   [
@@ -267,6 +247,26 @@
     [
       "Inverse Rubric Optimization: A testbed for agent science",
       "https://fulcrum.inc/2026/06/09/inverse-rubric-optimization.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-11, 00:13:12",
+      "https://news.ycombinator.com/item?id=48484608"
+    ],
+    [
+      "Lattice Triangles Are Rare",
+      "https://axiommath.ai/territory/the-reveal"
+    ]
+  ],
+  [
+    [
+      "2026-06-10, 14:08:36",
+      "https://news.ycombinator.com/item?id=48476539"
+    ],
+    [
+      "TorchCodec 0.14: HDR Video Decoding for CPU and CUDA, and Fast Wav Decoder",
+      "https://github.com/meta-pytorch/torchcodec/releases/tag/v0.14.0"
     ]
   ],
   [
