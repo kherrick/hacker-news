@@ -11,6 +11,7 @@
 * [2026-06-10, 22:04:29](https://news.ycombinator.com/item?id=48483345) - [Free financial literacy platform for kids – 90 lessons, no paywall](https://learnfinly.com)
 * [2026-06-10, 20:35:07](https://news.ycombinator.com/item?id=48482293) - [What Is It Like to Be a Bat? [pdf]](https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf)
 * [2026-06-10, 20:05:21](https://news.ycombinator.com/item?id=48481857) - [Raspberry Pi 5 – 16 GB, $350](https://www.adafruit.com/product/6125?src=raspberrypi)
+* [2026-06-10, 19:40:34](https://news.ycombinator.com/item?id=48481546) - [A whale necropolis has been found](https://www.nature.com/articles/d41586-026-01581-x)
 * [2026-06-10, 19:38:51](https://news.ycombinator.com/item?id=48481524) - [The Abundance Illusion](https://www.carlyle.com/carlyle-compass/the-abundance-illusion)
 * [2026-06-10, 19:28:49](https://news.ycombinator.com/item?id=48481400) - [Show HN: I am building a map of people who lived in the Roman Empire](https://new.roman-names.com/)
 * [2026-06-10, 19:27:53](https://news.ycombinator.com/item?id=48481385) - [C47/R47 Calculators](https://47calc.com/index.html)
