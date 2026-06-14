@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-14, 15:37:31",
+      "https://news.ycombinator.com/item?id=48528371"
+    ],
+    [
+      "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+      "https://github.com/nex-agi/Nex-N2/issues/4"
+    ]
+  ],
+  [
+    [
       "2026-06-14, 15:13:57",
       "https://news.ycombinator.com/item?id=48528029"
     ],
@@ -37,16 +47,6 @@
     [
       "Cloud-based LLM gold rush is ending",
       "https://automato.substack.com/p/apple-wwdc-and-the-fable-5-embargo"
-    ]
-  ],
-  [
-    [
-      "2026-06-14, 14:51:03",
-      "https://news.ycombinator.com/item?id=48527766"
-    ],
-    [
-      "UK set to announce social media ban for under-16s",
-      "https://www.manchestereveningnews.co.uk/news/uk-news/uk-set-announce-social-media-34119132"
     ]
   ],
   [
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2026-06-14, 12:15:27",
-      "https://news.ycombinator.com/item?id=48526472"
-    ],
-    [
-      "Can't Stop the Signal. Poison It",
-      "https://blog.digitalgrease.dev/posts/fauxx-cant-stop-the-signal"
-    ]
-  ],
-  [
-    [
       "2026-06-14, 11:50:48",
       "https://news.ycombinator.com/item?id=48526360"
     ],
@@ -277,6 +267,16 @@
     [
       "Lisp's Influence on Ruby",
       "https://blog.tacoda.dev/lisps-influence-on-ruby-6a54f1a7740e"
+    ]
+  ],
+  [
+    [
+      "2026-06-11, 14:34:46",
+      "https://news.ycombinator.com/item?id=48490927"
+    ],
+    [
+      "FreeOberon – Open-Source, Cross-Platform, Free Pascal/Turbo Pascal-Like Language",
+      "https://github.com/kekcleader/FreeOberon"
     ]
   ],
   [
