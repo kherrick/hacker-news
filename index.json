@@ -1,6 +1,66 @@
 [
   [
     [
+      "2026-06-14, 14:13:22",
+      "https://news.ycombinator.com/item?id=48527392"
+    ],
+    [
+      "SpaceX, Adding It Up – The $235B Cash Gap",
+      "https://capefearadvisors.substack.com/p/spacex-adding-it-up-the-235-billion"
+    ]
+  ],
+  [
+    [
+      "2026-06-14, 14:11:33",
+      "https://news.ycombinator.com/item?id=48527377"
+    ],
+    [
+      "Conversations with a six-year-old on functional programming (2018)",
+      "https://byorgey.wordpress.com/2018/05/06/conversations-with-a-six-year-old-on-functional-programming/"
+    ]
+  ],
+  [
+    [
+      "2026-06-14, 14:09:29",
+      "https://news.ycombinator.com/item?id=48527360"
+    ],
+    [
+      "FarOutCompany",
+      "https://faroutcompany.com/"
+    ]
+  ],
+  [
+    [
+      "2026-06-14, 14:01:35",
+      "https://news.ycombinator.com/item?id=48527297"
+    ],
+    [
+      "KPMG pulls report on AI usage due to apparent hallucinations",
+      "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/"
+    ]
+  ],
+  [
+    [
+      "2026-06-14, 13:43:08",
+      "https://news.ycombinator.com/item?id=48527145"
+    ],
+    [
+      "Caddy compatibility for zeroserve: 3x throughput and 70% lower latency",
+      "https://su3.io/posts/zeroserve-caddy-compat"
+    ]
+  ],
+  [
+    [
+      "2026-06-14, 13:30:01",
+      "https://news.ycombinator.com/item?id=48527040"
+    ],
+    [
+      "Arch Linux AUR Hit by Another Wave of Now More Sophisticated Malware Attack",
+      "https://www.phoronix.com/news/Arch-Linux-AUR-More-Malware"
+    ]
+  ],
+  [
+    [
       "2026-06-14, 12:57:33",
       "https://news.ycombinator.com/item?id=48526793"
     ],
@@ -111,36 +171,6 @@
   ],
   [
     [
-      "2026-06-13, 18:32:22",
-      "https://news.ycombinator.com/item?id=48520080"
-    ],
-    [
-      "Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch",
-      "https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/"
-    ]
-  ],
-  [
-    [
-      "2026-06-13, 17:43:02",
-      "https://news.ycombinator.com/item?id=48519552"
-    ],
-    [
-      "GameBoy Workboy",
-      "https://tcrf.net/Workboy"
-    ]
-  ],
-  [
-    [
-      "2026-06-13, 16:57:49",
-      "https://news.ycombinator.com/item?id=48519092"
-    ],
-    [
-      "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
-      "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink"
-    ]
-  ],
-  [
-    [
       "2026-06-13, 16:18:31",
       "https://news.ycombinator.com/item?id=48518684"
     ],
@@ -171,32 +201,12 @@
   ],
   [
     [
-      "2026-06-13, 12:40:16",
-      "https://news.ycombinator.com/item?id=48516710"
-    ],
-    [
-      "The experience of rendering Arabic typography and its technical debt",
-      "https://lr0.org/blog/p/arabic/"
-    ]
-  ],
-  [
-    [
       "2026-06-13, 11:40:20",
       "https://news.ycombinator.com/item?id=48516251"
     ],
     [
       "Every Frame Perfect",
       "https://tonsky.me/blog/every-frame-perfect/"
-    ]
-  ],
-  [
-    [
-      "2026-06-13, 09:55:32",
-      "https://news.ycombinator.com/item?id=48515454"
-    ],
-    [
-      "RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8",
-      "https://imil.net/blog/posts/2026/rtx-5080-+-rtx-3090-setup-80+-tok-s-on-qwen-3.6-27b-q8/"
     ]
   ],
   [
@@ -225,7 +235,7 @@
       "https://news.ycombinator.com/item?id=48499348"
     ],
     [
-      "500-year-old monasteries outperform at digital transformation (U. of Zurich)",
+      "Historic co-determination helps monasteries navigate digital change",
       "https://phys.org/news/2026-05-historic-monasteries-digital-countries.html"
     ]
   ],
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2026-06-11, 18:05:52",
-      "https://news.ycombinator.com/item?id=48494135"
-    ],
-    [
-      "Beagle: Git, URIs and all the dirty words",
-      "https://replicated.wiki/blog/uris.html"
-    ]
-  ],
-  [
-    [
       "2026-06-11, 16:14:55",
       "https://news.ycombinator.com/item?id=48492366"
     ],
@@ -261,22 +261,22 @@
   ],
   [
     [
+      "2026-06-11, 14:43:11",
+      "https://news.ycombinator.com/item?id=48491048"
+    ],
+    [
+      "Lisp's Influence on Ruby",
+      "https://blog.tacoda.dev/lisps-influence-on-ruby-6a54f1a7740e"
+    ]
+  ],
+  [
+    [
       "2026-06-11, 14:34:46",
       "https://news.ycombinator.com/item?id=48490927"
     ],
     [
       "FreeOberon – Open-Source, Cross-Platform, Free Pascal/Turbo Pascal-Like Language",
       "https://github.com/kekcleader/FreeOberon"
-    ]
-  ],
-  [
-    [
-      "2026-06-10, 22:47:46",
-      "https://news.ycombinator.com/item?id=48483841"
-    ],
-    [
-      "LaserWriter seeds",
-      "https://inventingthefuture.ghost.io/laserwriter-seeds/"
     ]
   ],
   [
