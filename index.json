@@ -1,11 +1,51 @@
 [
   [
     [
+      "2026-06-14, 06:07:09",
+      "https://news.ycombinator.com/item?id=48524620"
+    ],
+    [
+      "Don't trust large context windows",
+      "https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows"
+    ]
+  ],
+  [
+    [
+      "2026-06-14, 05:27:45",
+      "https://news.ycombinator.com/item?id=48524447"
+    ],
+    [
+      "Consciousness likely not unique to earthlings, paper says",
+      "https://news.ucr.edu/articles/2026/06/10/consciousness-likely-not-unique-earthlings-paper-says"
+    ]
+  ],
+  [
+    [
+      "2026-06-14, 05:23:12",
+      "https://news.ycombinator.com/item?id=48524434"
+    ],
+    [
+      "Tribblix: The retro Illumos distribution",
+      "http://tribblix.org/"
+    ]
+  ],
+  [
+    [
+      "2026-06-14, 04:53:51",
+      "https://news.ycombinator.com/item?id=48524293"
+    ],
+    [
+      "Phoenix LiveView 1.2 Released",
+      "https://phoenixframework.org/blog/phoenix-liveview-1-2-released"
+    ]
+  ],
+  [
+    [
       "2026-06-14, 04:18:45",
       "https://news.ycombinator.com/item?id=48524135"
     ],
     [
-      "Pac-Man, but You're the Ghost",
+      "Pac-Man, but you're the ghost",
       "https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost"
     ]
   ],
@@ -15,7 +55,7 @@
       "https://news.ycombinator.com/item?id=48524084"
     ],
     [
-      "Software Architecture Guide",
+      "Software Architecture Guide (2019)",
       "https://martinfowler.com/architecture/"
     ]
   ],
@@ -31,12 +71,12 @@
   ],
   [
     [
-      "2026-06-14, 02:59:34",
-      "https://news.ycombinator.com/item?id=48523773"
+      "2026-06-14, 02:55:36",
+      "https://news.ycombinator.com/item?id=48523752"
     ],
     [
-      "The Redistribution of Housing Wealth Caused by Rent Control [pdf]",
-      "https://www.rhawa.org/file/secure/shs-the-impact-of-rent-control-in-st-paul.pdf"
+      "Making Claude a Chemist",
+      "https://www.anthropic.com/research/making-claude-a-chemist"
     ]
   ],
   [
@@ -71,21 +111,11 @@
   ],
   [
     [
-      "2026-06-14, 01:10:46",
-      "https://news.ycombinator.com/item?id=48523203"
-    ],
-    [
-      "4 things to know about the new sunscreen ingredient the FDA approved",
-      "https://www.npr.org/2026/06/13/nx-s1-5856385/sunscreen-skin-protection-bemotrizinol"
-    ]
-  ],
-  [
-    [
       "2026-06-14, 00:49:46",
       "https://news.ycombinator.com/item?id=48523080"
     ],
     [
-      "10th Gen Honda Civic Updates Are Signed with AOSP Test Keys",
+      "Honda Civics and the Evil Valet",
       "https://juniperspring.org/posts/honda-evil-valet/"
     ]
   ],
@@ -97,36 +127,6 @@
     [
       "ReactOS (FOSS \"Windows\") achieves 3D-accelerated Half-Life on real hardware",
       "https://www.phoronix.com/news/ReactOS-Running-Half-Life"
-    ]
-  ],
-  [
-    [
-      "2026-06-13, 22:54:37",
-      "https://news.ycombinator.com/item?id=48522310"
-    ],
-    [
-      "Ancient genome duplications laid the foundations of complex brains",
-      "https://www.ox.ac.uk/news/2026-06-09-ancient-genome-duplications-laid-the-foundations-of-complex-brains"
-    ]
-  ],
-  [
-    [
-      "2026-06-13, 21:35:24",
-      "https://news.ycombinator.com/item?id=48521709"
-    ],
-    [
-      "Human Routers of Machine Words",
-      "https://borretti.me/article/human-routers-of-machine-words"
-    ]
-  ],
-  [
-    [
-      "2026-06-13, 19:54:55",
-      "https://news.ycombinator.com/item?id=48520807"
-    ],
-    [
-      "Police officer investigated for using AI to 'create evidence' in multiple cases",
-      "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661"
     ]
   ],
   [
@@ -157,16 +157,6 @@
     [
       "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
       "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink"
-    ]
-  ],
-  [
-    [
-      "2026-06-13, 16:49:42",
-      "https://news.ycombinator.com/item?id=48519011"
-    ],
-    [
-      "The adder at the heart of Intel's 8087 floating-point chip",
-      "https://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html"
     ]
   ],
   [
@@ -271,12 +261,22 @@
   ],
   [
     [
-      "2026-06-10, 09:01:25",
-      "https://news.ycombinator.com/item?id=48473509"
+      "2026-06-10, 22:47:46",
+      "https://news.ycombinator.com/item?id=48483841"
     ],
     [
-      "The Field Guide to CSS Grid Lanes",
-      "https://gridlanes.webkit.org/"
+      "LaserWriter Seeds",
+      "https://inventingthefuture.ghost.io/laserwriter-seeds/"
+    ]
+  ],
+  [
+    [
+      "2026-06-10, 02:48:08",
+      "https://news.ycombinator.com/item?id=48470746"
+    ],
+    [
+      "The Neat Little Vehicles That Run a Cemetery",
+      "https://www.thedrive.com/news/meet-the-neat-little-vehicles-that-run-a-cemetery"
     ]
   ],
   [
