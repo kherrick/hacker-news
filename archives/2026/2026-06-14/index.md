@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-06-14](index.md)
 
+* [2026-06-14, 21:04:46](https://news.ycombinator.com/item?id=48532705) - [Zinnia: A modular 64-bit Unix-like kernel written in Rust](https://zinnia-os.org/)
+* [2026-06-14, 20:12:42](https://news.ycombinator.com/item?id=48532116) - [Vibe Coder vs. Software Engineer](https://yusufaytas.com/vibe-coder-vs-software-engineer)
 * [2026-06-14, 19:14:21](https://news.ycombinator.com/item?id=48531449) - [Chaosnet](https://tumbleweed.nu/r/lm-3/uv/amber.html)
 * [2026-06-14, 19:10:35](https://news.ycombinator.com/item?id=48531394) - [Yserver: A modern X11 server written in Rust](https://github.com/joske/yserver)
 * [2026-06-14, 18:29:13](https://news.ycombinator.com/item?id=48530841) - [Rome Fell and Nobody Noticed](https://friedkielbasa.substack.com/p/rome-fell-and-nobody-noticed)
+* [2026-06-14, 17:54:17](https://news.ycombinator.com/item?id=48530382) - [Show HN: Discover Wikipedia articles popular on Hacker News](https://www.orangecrumbs.com/)
 * [2026-06-14, 17:47:11](https://news.ycombinator.com/item?id=48530290) - [A clear fishing wire is tied around the island of Manhattan](https://old.reddit.com/r/Damnthatsinteresting/comments/boea4v/a_clear_fishing_wire_is_tied_around_the_island_of/)
 * [2026-06-14, 17:25:38](https://news.ycombinator.com/item?id=48529990) - [Show HN: Kage – Shadow any website to a single binary for offline viewing](https://github.com/tamnd/kage)
 * [2026-06-14, 17:02:16](https://news.ycombinator.com/item?id=48529645) - [Dillo directory – Directory of useful sites that work reasonably well on Dillo](https://dir.dillo-browser.org/)
