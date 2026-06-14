@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-06-14](index.md)
 
+* [2026-06-14, 14:13:22](https://news.ycombinator.com/item?id=48527392) - [SpaceX, Adding It Up – The $235B Cash Gap](https://capefearadvisors.substack.com/p/spacex-adding-it-up-the-235-billion)
+* [2026-06-14, 14:11:33](https://news.ycombinator.com/item?id=48527377) - [Conversations with a six-year-old on functional programming (2018)](https://byorgey.wordpress.com/2018/05/06/conversations-with-a-six-year-old-on-functional-programming/)
+* [2026-06-14, 14:09:29](https://news.ycombinator.com/item?id=48527360) - [FarOutCompany](https://faroutcompany.com/)
+* [2026-06-14, 14:01:35](https://news.ycombinator.com/item?id=48527297) - [KPMG pulls report on AI usage due to apparent hallucinations](https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/)
+* [2026-06-14, 13:43:08](https://news.ycombinator.com/item?id=48527145) - [Caddy compatibility for zeroserve: 3x throughput and 70% lower latency](https://su3.io/posts/zeroserve-caddy-compat)
+* [2026-06-14, 13:30:01](https://news.ycombinator.com/item?id=48527040) - [Arch Linux AUR Hit by Another Wave of Now More Sophisticated Malware Attack](https://www.phoronix.com/news/Arch-Linux-AUR-More-Malware)
 * [2026-06-14, 12:57:33](https://news.ycombinator.com/item?id=48526793) - [How did Atari apply side art to Arcade Cabinets?](https://arcadeblogger.com/2026/06/14/how-did-atari-apply-side-art-to-arcade-cabinets/)
 * [2026-06-14, 12:38:31](https://news.ycombinator.com/item?id=48526661) - [The Birth and Death of JavaScript (2014)](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)
 * [2026-06-14, 11:50:48](https://news.ycombinator.com/item?id=48526360) - [How to Earn a Billion Dollars](https://paulgraham.com/earn.html)

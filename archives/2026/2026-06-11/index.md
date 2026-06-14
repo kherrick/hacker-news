@@ -47,6 +47,7 @@
 * [2026-06-11, 15:09:42](https://news.ycombinator.com/item?id=48491426) - [Show HN: Open-source API Key server written in Go by Ory](https://github.com/ory/talos/tree/master)
 * [2026-06-11, 15:06:28](https://news.ycombinator.com/item?id=48491376) - [(Re//Verse 2026) Taxonomy and Deobfuscation of a Real World Binary Obfuscator [pdf]](https://github.com/AnalogCyberNuke/RE-Verse-2026-Slides/blob/main/Reverse26.pdf)
 * [2026-06-11, 14:55:59](https://news.ycombinator.com/item?id=48491214) - [Driving in America Is Headlight Hell](https://www.theatlantic.com/technology/2026/06/car-headlights-too-bright-adaptive-beams/687488/)
+* [2026-06-11, 14:43:11](https://news.ycombinator.com/item?id=48491048) - [Lisp's Influence on Ruby](https://blog.tacoda.dev/lisps-influence-on-ruby-6a54f1a7740e)
 * [2026-06-11, 14:35:53](https://news.ycombinator.com/item?id=48490946) - [AMD Gaslights Security Researcher, Changes Rules Retroactively [video]](https://www.youtube.com/watch?v=4HjWHNLRMB0)
 * [2026-06-11, 14:35:41](https://news.ycombinator.com/item?id=48490939) - [How a new DSL may survive in the era of LLMs](https://www.williamcotton.com/articles/how-a-new-dsl-survives-in-the-era-of-llms)
 * [2026-06-11, 14:34:46](https://news.ycombinator.com/item?id=48490927) - [FreeOberon – Open-Source, Cross-Platform, Free Pascal/Turbo Pascal-Like Language](https://github.com/kekcleader/FreeOberon)
