@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-14](index.md)
 
+* [2026-06-14, 19:14:21](https://news.ycombinator.com/item?id=48531449) - [Chaosnet](https://tumbleweed.nu/r/lm-3/uv/amber.html)
 * [2026-06-14, 18:29:13](https://news.ycombinator.com/item?id=48530841) - [Rome Fell and Nobody Noticed](https://friedkielbasa.substack.com/p/rome-fell-and-nobody-noticed)
 * [2026-06-14, 17:47:11](https://news.ycombinator.com/item?id=48530290) - [A clear fishing wire is tied around the island of Manhattan](https://old.reddit.com/r/Damnthatsinteresting/comments/boea4v/a_clear_fishing_wire_is_tied_around_the_island_of/)
 * [2026-06-14, 17:25:38](https://news.ycombinator.com/item?id=48529990) - [Show HN: Kage – Shadow any website to a single binary for offline viewing](https://github.com/tamnd/kage)
