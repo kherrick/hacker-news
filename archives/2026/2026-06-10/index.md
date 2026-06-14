@@ -10,6 +10,7 @@
 * [2026-06-10, 22:47:46](https://news.ycombinator.com/item?id=48483841) - [LaserWriter Seeds](https://inventingthefuture.ghost.io/laserwriter-seeds/)
 * [2026-06-10, 22:07:52](https://news.ycombinator.com/item?id=48483387) - [A Written Language for the Cherokee So Efficient It Was Thought to Be Magic](https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/)
 * [2026-06-10, 22:04:29](https://news.ycombinator.com/item?id=48483345) - [Free financial literacy platform for kids – 90 lessons, no paywall](https://learnfinly.com)
+* [2026-06-10, 21:27:10](https://news.ycombinator.com/item?id=48482951) - [Chopped, Stored, Secured – The Story of the Hash Function](https://0xkrt26.github.io/math_behind_security/2026/06/09/the-story-of-the-hash-function.html)
 * [2026-06-10, 20:35:07](https://news.ycombinator.com/item?id=48482293) - [What Is It Like to Be a Bat? [pdf]](https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf)
 * [2026-06-10, 20:05:21](https://news.ycombinator.com/item?id=48481857) - [Raspberry Pi 5 – 16 GB, $350](https://www.adafruit.com/product/6125?src=raspberrypi)
 * [2026-06-10, 19:40:34](https://news.ycombinator.com/item?id=48481546) - [A whale necropolis has been found](https://www.nature.com/articles/d41586-026-01581-x)

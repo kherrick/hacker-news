@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-14](index.md)
 
+* [2026-06-14, 22:23:05](https://news.ycombinator.com/item?id=48533504) - [Did Anthropic ask for this?](https://www.verysane.ai/p/did-anthropic-ask-for-this)
 * [2026-06-14, 22:04:01](https://news.ycombinator.com/item?id=48533308) - [Why Is Claude Turning into an a**Hole?](https://bramcohen.com/p/why-is-claude-turning-into-an-asshole)
 * [2026-06-14, 21:06:41](https://news.ycombinator.com/item?id=48532722) - [Abu Fanous](https://en.wikipedia.org/wiki/Abu_Fanous)
 * [2026-06-14, 21:04:46](https://news.ycombinator.com/item?id=48532705) - [Zinnia: A modular 64-bit Unix-like kernel written in Rust](https://zinnia-os.org/)
