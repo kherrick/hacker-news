@@ -63,6 +63,7 @@
 * [2026-06-11, 13:14:31](https://news.ycombinator.com/item?id=48489917) - [Open Reproduction of DeepSeek-R1](https://github.com/huggingface/open-r1)
 * [2026-06-11, 13:06:08](https://news.ycombinator.com/item?id=48489835) - [More AI-generated code doesn't make your team faster. It might slow you](https://twitter.com/awscloud/status/2064449711155589396)
 * [2026-06-11, 12:51:43](https://news.ycombinator.com/item?id=48489655) - [Core PPI up 9.6% annualized (0.8% MoM) in May](https://www.bls.gov/news.release/ppi.nr0.htm)
+* [2026-06-11, 12:50:29](https://news.ycombinator.com/item?id=48489636) - [Not mine, but it's a website where you can use a segment display](https://aresluna.org/segmented-type/)
 * [2026-06-11, 12:37:42](https://news.ycombinator.com/item?id=48489519) - [Enhance RAW image processing with Core Image [video]](https://developer.apple.com/videos/play/wwdc2026/305/)
 * [2026-06-11, 12:26:42](https://news.ycombinator.com/item?id=48489402) - [Lines of Code Got a Better Publicist](https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/)
 * [2026-06-11, 12:15:22](https://news.ycombinator.com/item?id=48489309) - [USB Power Delivery: Plugging into the Benefits](https://www.aptiv.com/en/insights/article/usb-power-delivery-plugging-into-the-benefits)
