@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=48524293"
     ],
     [
-      "Phoenix LiveView 1.2 Released",
+      "Phoenix LiveView 1.2",
       "https://phoenixframework.org/blog/phoenix-liveview-1-2-released"
     ]
   ],
@@ -37,16 +37,6 @@
     [
       "Pac-Man, but you're the ghost",
       "https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost"
-    ]
-  ],
-  [
-    [
-      "2026-06-14, 04:07:37",
-      "https://news.ycombinator.com/item?id=48524084"
-    ],
-    [
-      "Software Architecture Guide (2019)",
-      "https://martinfowler.com/architecture/"
     ]
   ],
   [
@@ -111,16 +101,6 @@
   ],
   [
     [
-      "2026-06-13, 19:54:55",
-      "https://news.ycombinator.com/item?id=48520807"
-    ],
-    [
-      "Police officer investigated for using AI to 'create evidence' in multiple cases",
-      "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661"
-    ]
-  ],
-  [
-    [
       "2026-06-13, 18:32:22",
       "https://news.ycombinator.com/item?id=48520080"
     ],
@@ -151,12 +131,12 @@
   ],
   [
     [
-      "2026-06-13, 16:49:42",
-      "https://news.ycombinator.com/item?id=48519011"
+      "2026-06-13, 16:45:03",
+      "https://news.ycombinator.com/item?id=48518969"
     ],
     [
-      "The adder at the heart of Intel's 8087 floating-point chip",
-      "https://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html"
+      "AI coding at home without going broke",
+      "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/"
     ]
   ],
   [
@@ -241,12 +221,32 @@
   ],
   [
     [
+      "2026-06-12, 01:27:35",
+      "https://news.ycombinator.com/item?id=48498705"
+    ],
+    [
+      "Raress96/Dolby-Atmos-encoder: PoC Dolby Atmos encoder",
+      "https://github.com/raress96/dolby-atmos-encoder"
+    ]
+  ],
+  [
+    [
       "2026-06-11, 22:20:03",
       "https://news.ycombinator.com/item?id=48497195"
     ],
     [
       "Codex for open source",
       "https://openai.com/form/codex-for-oss/"
+    ]
+  ],
+  [
+    [
+      "2026-06-11, 20:43:32",
+      "https://news.ycombinator.com/item?id=48496156"
+    ],
+    [
+      "Cooling in Space",
+      "https://guille.site/posts/space-cooling/"
     ]
   ],
   [
