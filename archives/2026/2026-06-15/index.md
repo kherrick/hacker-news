@@ -4,6 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-06-15](index.md)
 
+* [2026-06-15, 15:13:06](https://news.ycombinator.com/item?id=48542480) - [Iroh 1.0](https://www.iroh.computer/blog/v1)
+* [2026-06-15, 14:55:50](https://news.ycombinator.com/item?id=48542209) - [Fox Is Buying Roku](https://www.fastcompany.com/91559558/fox-corp-buying-roku-stock-prices-fall-on-tv-streaming-merger)
+* [2026-06-15, 14:48:47](https://news.ycombinator.com/item?id=48542132) - [Copper transport drug restores memory and clears toxic Alzheimer's proteins](https://www.monash.edu/news/articles/copper-drug-restores-memory-and-clears-toxic-alzheimers-proteins)
+* [2026-06-15, 14:44:02](https://news.ycombinator.com/item?id=48542064) - [Hetzner increased dedicated server prices 3-4x](https://news.ycombinator.com/item?id=48542064)
+* [2026-06-15, 13:31:09](https://news.ycombinator.com/item?id=48541014) - [Show HN: Can Europe train a frontier AI model on the compute it owns?](https://github.com/sammysltd/euromesh)
+* [2026-06-15, 13:26:08](https://news.ycombinator.com/item?id=48540945) - [Google Flight Simulator](https://developers.google.com/maps/documentation/earth/flight-simulator)
+* [2026-06-15, 13:20:13](https://news.ycombinator.com/item?id=48540854) - [CrankGPT](https://crankgpt.com)
+* [2026-06-15, 13:16:20](https://news.ycombinator.com/item?id=48540813) - [Applying Brevity and Language Efficiency in Prompt Engineering](https://prahladyeri.github.io/guides/applying-brevity-and-language-efficiency-to-prompt-engineering.html)
 * [2026-06-15, 12:50:03](https://news.ycombinator.com/item?id=48540499) - [Fox to Buy Roku Streaming Service in $22B Deal](https://www.wsj.com/business/deals/fox-roku-deal-f6e564f9)
 * [2026-06-15, 12:08:59](https://news.ycombinator.com/item?id=48540126) - [Salesforce to Acquire Fin (formerly Intercom) for $3.6BN](https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL)
 * [2026-06-15, 10:06:35](https://news.ycombinator.com/item?id=48539078) - [Anthropic's Safety Superpower](https://stratechery.com/2026/anthropics-safety-superpower/)
