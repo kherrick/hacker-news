@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-15, 12:50:03",
+      "https://news.ycombinator.com/item?id=48540499"
+    ],
+    [
+      "Fox to Buy Roku Streaming Service in $22B Deal",
+      "https://www.wsj.com/business/deals/fox-roku-deal-f6e564f9"
+    ]
+  ],
+  [
+    [
+      "2026-06-15, 12:08:59",
+      "https://news.ycombinator.com/item?id=48540126"
+    ],
+    [
+      "Salesforce to Acquire Fin (formerly Intercom) for $3.6BN",
+      "https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL"
+    ]
+  ],
+  [
+    [
       "2026-06-15, 10:06:35",
       "https://news.ycombinator.com/item?id=48539078"
     ],
@@ -17,16 +37,6 @@
     [
       "Show HN: I wrote a C++ ray tracer from scratch without AI",
       "https://github.com/themartiano/luz"
-    ]
-  ],
-  [
-    [
-      "2026-06-15, 09:23:15",
-      "https://news.ycombinator.com/item?id=48538737"
-    ],
-    [
-      "Anthropic flies staff to D.C. to clean up White House fight",
-      "https://www.axios.com/2026/06/14/anthropic-white-house-mythos-fable"
     ]
   ],
   [
@@ -57,6 +67,16 @@
     [
       "Dalus (YC W25) Is Hiring a Senior Software Engineer in Germany",
       "https://www.ycombinator.com/companies/dalus/jobs/5IDmKJt-senior-software-frontend-engineer-germany-office"
+    ]
+  ],
+  [
+    [
+      "2026-06-15, 06:52:21",
+      "https://news.ycombinator.com/item?id=48537512"
+    ],
+    [
+      "Successful Psilocybin Treatment of Alzheimer",
+      "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1813281/full"
     ]
   ],
   [
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2026-06-14, 19:14:21",
-      "https://news.ycombinator.com/item?id=48531449"
-    ],
-    [
-      "Chaosnet (1981)",
-      "https://tumbleweed.nu/r/lm-3/uv/amber.html"
-    ]
-  ],
-  [
-    [
       "2026-06-14, 17:25:38",
       "https://news.ycombinator.com/item?id=48529990"
     ],
@@ -157,16 +167,6 @@
     [
       "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
       "https://github.com/nex-agi/Nex-N2/issues/4"
-    ]
-  ],
-  [
-    [
-      "2026-06-14, 14:56:56",
-      "https://news.ycombinator.com/item?id=48527820"
-    ],
-    [
-      "Perlisisms (1982)",
-      "https://www.cs.yale.edu/homes/perlis-alan/quotes.html"
     ]
   ],
   [
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2026-06-12, 04:39:46",
+      "https://news.ycombinator.com/item?id=48499993"
+    ],
+    [
+      "Asciline – real-time ASCII video rendering engine",
+      "https://github.com/YusufB5/ASCILINE"
+    ]
+  ],
+  [
+    [
       "2026-06-12, 04:24:53",
       "https://news.ycombinator.com/item?id=48499898"
     ],
@@ -251,16 +261,6 @@
   ],
   [
     [
-      "2026-06-11, 16:48:49",
-      "https://news.ycombinator.com/item?id=48492822"
-    ],
-    [
-      "The only scalable delete in Postgres is DROP TABLE",
-      "https://planetscale.com/blog/the-only-scalable-delete"
-    ]
-  ],
-  [
-    [
       "2026-06-11, 14:13:03",
       "https://news.ycombinator.com/item?id=48490649"
     ],
@@ -271,22 +271,22 @@
   ],
   [
     [
+      "2026-06-11, 02:22:06",
+      "https://news.ycombinator.com/item?id=48485527"
+    ],
+    [
+      "Teenagers Stayed Overnight at Their School and Found Hidden Ancient Roman Ruins",
+      "https://www.smithsonianmag.com/smart-news/these-italian-teenagers-stayed-overnight-at-their-school-they-found-ancient-roman-ruins-hidden-in-the-basement-180988917/"
+    ]
+  ],
+  [
+    [
       "2026-06-11, 00:25:05",
       "https://news.ycombinator.com/item?id=48484711"
     ],
     [
       "A short history of Cerro Torre, the most controversial mountain (2012)",
       "https://www.markhorrell.com/blog/2012/a-short-history-of-cerro-torre/"
-    ]
-  ],
-  [
-    [
-      "2026-06-10, 14:08:36",
-      "https://news.ycombinator.com/item?id=48476539"
-    ],
-    [
-      "TorchCodec 0.14: HDR Video Decoding for CPU and CUDA, and Fast Wav Decoder",
-      "https://github.com/meta-pytorch/torchcodec/releases/tag/v0.14.0"
     ]
   ],
   [
