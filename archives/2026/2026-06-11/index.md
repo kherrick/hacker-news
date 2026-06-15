@@ -72,6 +72,7 @@
 * [2026-06-11, 12:26:42](https://news.ycombinator.com/item?id=48489402) - [Lines of Code Got a Better Publicist](https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/)
 * [2026-06-11, 12:15:22](https://news.ycombinator.com/item?id=48489309) - [USB Power Delivery: Plugging into the Benefits](https://www.aptiv.com/en/insights/article/usb-power-delivery-plugging-into-the-benefits)
 * [2026-06-11, 12:05:02](https://news.ycombinator.com/item?id=48489229) - [Anthropic apologizes for invisible Claude Fable guardrails](https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail)
+* [2026-06-11, 11:57:03](https://news.ycombinator.com/item?id=48489163) - [Show HN: Fata – Spaced repetition to fight skill rot from AI coding](https://fata.dev)
 * [2026-06-11, 11:56:17](https://news.ycombinator.com/item?id=48489151) - [A Commons of Software Productive Infrastructure, by and for Capital](https://marewolf.me/posts/draupnir/26/software-productive-infrastructure.html)
 * [2026-06-11, 11:50:45](https://news.ycombinator.com/item?id=48489100) - [The Riemann Hypothesis – interactive explanation](https://riemann.adilmoujahid.com)
 * [2026-06-11, 11:41:17](https://news.ycombinator.com/item?id=48489004) - [BYD is bringing its 5-min 'Flash' electric car charging to Canada](https://electrek.co/2026/06/10/byd-flash-charging-canada-5-minute-ev-charging-network/)
