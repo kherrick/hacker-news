@@ -1,12 +1,52 @@
 [
   [
     [
+      "2026-06-15, 10:06:35",
+      "https://news.ycombinator.com/item?id=48539078"
+    ],
+    [
+      "Anthropic's Safety Superpower",
+      "https://stratechery.com/2026/anthropics-safety-superpower/"
+    ]
+  ],
+  [
+    [
+      "2026-06-15, 09:34:10",
+      "https://news.ycombinator.com/item?id=48538833"
+    ],
+    [
+      "Show HN: I wrote a C++ ray tracer from scratch without AI",
+      "https://github.com/themartiano/luz"
+    ]
+  ],
+  [
+    [
+      "2026-06-15, 09:23:15",
+      "https://news.ycombinator.com/item?id=48538737"
+    ],
+    [
+      "Anthropic flies staff to D.C. to clean up White House fight",
+      "https://www.axios.com/2026/06/14/anthropic-white-house-mythos-fable"
+    ]
+  ],
+  [
+    [
       "2026-06-15, 08:23:52",
       "https://news.ycombinator.com/item?id=48538229"
     ],
     [
       "What the Fuck Happened to Nerds",
       "https://mrmarket.lol/what-the-fuck-happened-to-nerds/"
+    ]
+  ],
+  [
+    [
+      "2026-06-15, 07:10:57",
+      "https://news.ycombinator.com/item?id=48537641"
+    ],
+    [
+      "Openrouter Fusion API",
+      "https://openrouter.ai/openrouter/fusion"
     ]
   ],
   [
@@ -91,16 +131,6 @@
   ],
   [
     [
-      "2026-06-14, 17:54:17",
-      "https://news.ycombinator.com/item?id=48530382"
-    ],
-    [
-      "Show HN: Discover Wikipedia articles popular on Hacker News",
-      "https://www.orangecrumbs.com/"
-    ]
-  ],
-  [
-    [
       "2026-06-14, 17:25:38",
       "https://news.ycombinator.com/item?id=48529990"
     ],
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2026-06-14, 15:13:57",
-      "https://news.ycombinator.com/item?id=48528029"
-    ],
-    [
-      "I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models",
-      "https://news.ycombinator.com/item?id=48528029"
-    ]
-  ],
-  [
-    [
       "2026-06-14, 14:56:56",
       "https://news.ycombinator.com/item?id=48527820"
     ],
@@ -151,32 +171,12 @@
   ],
   [
     [
-      "2026-06-14, 13:43:08",
-      "https://news.ycombinator.com/item?id=48527145"
-    ],
-    [
-      "Caddy compatibility for zeroserve: 3x throughput and 70% lower latency",
-      "https://su3.io/posts/zeroserve-caddy-compat"
-    ]
-  ],
-  [
-    [
       "2026-06-14, 12:35:27",
       "https://news.ycombinator.com/item?id=48526633"
     ],
     [
       "Formal methods and the future of programming",
       "https://blog.janestreet.com/formal-methods-at-jane-street-index/?from_theconsensus=1"
-    ]
-  ],
-  [
-    [
-      "2026-06-14, 11:50:48",
-      "https://news.ycombinator.com/item?id=48526360"
-    ],
-    [
-      "How to earn a billion dollars",
-      "https://paulgraham.com/earn.html"
     ]
   ],
   [
@@ -211,12 +211,12 @@
   ],
   [
     [
-      "2026-06-12, 17:36:10",
-      "https://news.ycombinator.com/item?id=48507039"
+      "2026-06-12, 17:30:57",
+      "https://news.ycombinator.com/item?id=48506980"
     ],
     [
-      "Write for One Person",
-      "https://wizardzines.com/comics/write-for-one-person/"
+      "Ported my C game to WASM, here's everybug that I hit",
+      "http://ernesernesto.github.io/writes/portingmatchmorphosistowasm/"
     ]
   ],
   [
@@ -227,6 +227,16 @@
     [
       "Exploring building a tiny FUSE filesystem",
       "https://www.shayon.dev/post/2026/161/building-a-tiny-fuse-filesystem/"
+    ]
+  ],
+  [
+    [
+      "2026-06-12, 04:24:53",
+      "https://news.ycombinator.com/item?id=48499898"
+    ],
+    [
+      "Foreign business owners are scrambling to raise capital to stay in Japan",
+      "https://tokyopaladin.substack.com/p/foreign-business-owners-are-scrambling"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "There Is(Ǝ) – Such That (∋)",
       "https://www.fractalkitty.com/there-is-3-such-that/"
-    ]
-  ],
-  [
-    [
-      "2026-06-11, 12:50:29",
-      "https://news.ycombinator.com/item?id=48489636"
-    ],
-    [
-      "Segmented type appreciation corner (2018)",
-      "https://aresluna.org/segmented-type/"
     ]
   ],
   [
