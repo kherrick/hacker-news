@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-06-15, 20:28:24",
+      "https://news.ycombinator.com/item?id=48546616"
+    ],
+    [
+      "US battery manufacturing output continues to break records",
+      "https://fred.stlouisfed.org/series/IPG33591S"
+    ]
+  ],
+  [
+    [
+      "2026-06-15, 20:14:15",
+      "https://news.ycombinator.com/item?id=48546441"
+    ],
+    [
+      "I Love the Computer",
+      "https://michaelenger.com/blog/i-love-the-computer/"
+    ]
+  ],
+  [
+    [
+      "2026-06-15, 20:06:49",
+      "https://news.ycombinator.com/item?id=48546358"
+    ],
+    [
+      "US Government Reportedly Allowing Federal Data Center Rules to Expire",
+      "https://gizmodo.com/us-government-reportedly-allowing-federal-data-center-rules-to-expire-2000772083"
+    ]
+  ],
+  [
+    [
+      "2026-06-15, 20:02:02",
+      "https://news.ycombinator.com/item?id=48546306"
+    ],
+    [
+      "US Air Force B-52 bomber crashes after takeoff, Edwards Air Force Base says",
+      "https://www.reuters.com/business/aerospace-defense/us-air-force-b-52-bomber-crashes-after-takeoff-edwards-air-force-base-says-2026-06-15/"
+    ]
+  ],
+  [
+    [
+      "2026-06-15, 20:00:57",
+      "https://news.ycombinator.com/item?id=48546294"
+    ],
+    [
+      "A backdoor in a LinkedIn job offer",
+      "https://roman.pt/posts/linkedin-backdoor/"
+    ]
+  ],
+  [
+    [
       "2026-06-15, 18:37:27",
       "https://news.ycombinator.com/item?id=48545293"
     ],
@@ -11,32 +61,12 @@
   ],
   [
     [
-      "2026-06-15, 18:34:14",
-      "https://news.ycombinator.com/item?id=48545260"
-    ],
-    [
-      "Around 200 Stanford students walk out as Google CEO takes stage",
-      "https://www.sfgate.com/tech/article/sundar-pichai-stanford-commencement-22304888.php"
-    ]
-  ],
-  [
-    [
       "2026-06-15, 17:52:39",
       "https://news.ycombinator.com/item?id=48544781"
     ],
     [
       "Game Engine White Papers Commander Keen",
       "https://forgottenbytes.net/commander_keen.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-15, 17:41:24",
-      "https://news.ycombinator.com/item?id=48544637"
-    ],
-    [
-      "Claude Corps",
-      "https://www.anthropic.com/news/claude-corps"
     ]
   ],
   [
@@ -81,6 +111,16 @@
   ],
   [
     [
+      "2026-06-15, 16:11:02",
+      "https://news.ycombinator.com/item?id=48543392"
+    ],
+    [
+      "How memory safety CVEs differ between Rust and C/C++",
+      "https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html"
+    ]
+  ],
+  [
+    [
       "2026-06-15, 16:03:26",
       "https://news.ycombinator.com/item?id=48543269"
     ],
@@ -97,16 +137,6 @@
     [
       "Show HN: machine0 – Persistent NixOS VMs You Control from the CLI",
       "https://machine0.io"
-    ]
-  ],
-  [
-    [
-      "2026-06-15, 15:43:17",
-      "https://news.ycombinator.com/item?id=48542970"
-    ],
-    [
-      "Show HN: Exploiting Slack's video embeds to achieve E2EE communication",
-      "https://v1c.rocks/log/exploiting-slack-video/"
     ]
   ],
   [
@@ -201,52 +231,12 @@
   ],
   [
     [
-      "2026-06-15, 06:52:21",
-      "https://news.ycombinator.com/item?id=48537512"
-    ],
-    [
-      "Improvement in advanced Alzheimer’s disease following high-dose psilocybin",
-      "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1813281/full"
-    ]
-  ],
-  [
-    [
       "2026-06-15, 04:55:34",
       "https://news.ycombinator.com/item?id=48536776"
     ],
     [
       "Apple Foundation Models",
       "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models"
-    ]
-  ],
-  [
-    [
-      "2026-06-15, 02:30:25",
-      "https://news.ycombinator.com/item?id=48535886"
-    ],
-    [
-      "Even more batteries included with Emacs",
-      "https://karthinks.com/software/even-more-batteries-included-with-emacs/"
-    ]
-  ],
-  [
-    [
-      "2026-06-14, 22:54:55",
-      "https://news.ycombinator.com/item?id=48533848"
-    ],
-    [
-      "Your ePub Is fine",
-      "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/"
-    ]
-  ],
-  [
-    [
-      "2026-06-14, 17:25:38",
-      "https://news.ycombinator.com/item?id=48529990"
-    ],
-    [
-      "Show HN: Kage – Shadow any website to a single binary for offline viewing",
-      "https://github.com/tamnd/kage"
     ]
   ],
   [
@@ -261,12 +251,22 @@
   ],
   [
     [
-      "2026-06-12, 17:30:57",
-      "https://news.ycombinator.com/item?id=48506980"
+      "2026-06-13, 22:01:29",
+      "https://news.ycombinator.com/item?id=48521925"
     ],
     [
-      "Ported my C game to WASM, here's every bug that I hit",
-      "http://ernesernesto.github.io/writes/portingmatchmorphosistowasm/"
+      "What every coder should know about Gamma Correction",
+      "https://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/"
+    ]
+  ],
+  [
+    [
+      "2026-06-12, 16:18:20",
+      "https://news.ycombinator.com/item?id=48506023"
+    ],
+    [
+      "A calculator that doesn't round",
+      "https://constructive-calculator.dimview.org/writeup.html"
     ]
   ],
   [
