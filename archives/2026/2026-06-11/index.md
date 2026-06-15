@@ -56,6 +56,7 @@
 * [2026-06-11, 14:34:46](https://news.ycombinator.com/item?id=48490927) - [FreeOberon – Open-Source, Cross-Platform, Free Pascal/Turbo Pascal-Like Language](https://github.com/kekcleader/FreeOberon)
 * [2026-06-11, 14:27:19](https://news.ycombinator.com/item?id=48490826) - [MiMo Code Is Now Released and Open-Source](https://mimo.xiaomi.com/mimocode)
 * [2026-06-11, 14:17:47](https://news.ycombinator.com/item?id=48490715) - [Nextcloud Hub 26 Spring: Built together, designed for the future](https://nextcloud.com/blog/nextcloud-hub26-spring/)
+* [2026-06-11, 14:13:03](https://news.ycombinator.com/item?id=48490649) - [There Is(Ǝ) – Such That (∋)](https://www.fractalkitty.com/there-is-3-such-that/)
 * [2026-06-11, 14:06:43](https://news.ycombinator.com/item?id=48490564) - [Euro-Office: First version of the open-source web office is here](https://www.heise.de/en/news/Euro-Office-First-version-of-the-open-source-web-office-is-here-11322160.html)
 * [2026-06-11, 14:04:05](https://news.ycombinator.com/item?id=48490532) - [MapComplete – Contibute to OpenStreetMaps](https://mapcomplete.org/)
 * [2026-06-11, 13:42:42](https://news.ycombinator.com/item?id=48490245) - [US-Canada border library gets new Quebec-only entrance](https://www.bbc.com/news/videos/clyrvrde160o)

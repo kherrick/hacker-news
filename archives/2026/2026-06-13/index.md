@@ -50,6 +50,7 @@
 * [2026-06-13, 02:50:10](https://news.ycombinator.com/item?id=48512286) - [A generic dynamic array in C that stores no capacity and needs no struct](https://gist.github.com/alurm/2ca14be134d719fe7431217a6b18d91e)
 * [2026-06-13, 02:14:24](https://news.ycombinator.com/item?id=48511908) - [Open Source AI Must Win](https://opensourceaimustwin.com/?share=v2)
 * [2026-06-13, 02:02:07](https://news.ycombinator.com/item?id=48511773) - [TycoonLE: A Jax reinforcement learning environment for long-horizon planning](https://github.com/vrtnis/tycoon-learning-environment)
+* [2026-06-13, 01:58:11](https://news.ycombinator.com/item?id=48511734) - [The Last Surviving Japanese Porsche 912 Police Car](https://kottke.org/26/06/the-last-surviving-japanese-porsche-912-police-car)
 * [2026-06-13, 01:51:49](https://news.ycombinator.com/item?id=48511663) - [Reddit RSS feeds recent rate limiting and solution](https://lapcatsoftware.com/articles/2026/6/3.html)
 * [2026-06-13, 01:02:41](https://news.ycombinator.com/item?id=48511168) - [As a result of a US Government directive, we are suspending access to Fable 5](https://twitter.com/ClaudeDevs/status/2065597942602531163)
 * [2026-06-13, 00:58:06](https://news.ycombinator.com/item?id=48511121) - [We've suspended access to Claude Mythos 5 and Claude Fable 5](https://status.claude.com/incidents/s9w82lp9dcn9)
