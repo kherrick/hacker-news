@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-06-15, 17:52:39",
+      "https://news.ycombinator.com/item?id=48544781"
+    ],
+    [
+      "Game Engine White Papers Commander Keen",
+      "https://forgottenbytes.net/commander_keen.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-15, 17:29:17",
+      "https://news.ycombinator.com/item?id=48544451"
+    ],
+    [
+      "How TimescaleDB compresses time-series data",
+      "https://roszigit.com/en/blog/timescaledb-compression-hypercore"
+    ]
+  ],
+  [
+    [
+      "2026-06-15, 17:24:17",
+      "https://news.ycombinator.com/item?id=48544396"
+    ],
+    [
+      "Typst 0.15.0",
+      "https://typst.app/docs/changelog/0.15.0/"
+    ]
+  ],
+  [
+    [
       "2026-06-15, 16:47:21",
       "https://news.ycombinator.com/item?id=48543908"
     ],
@@ -101,12 +131,12 @@
   ],
   [
     [
-      "2026-06-15, 13:26:08",
-      "https://news.ycombinator.com/item?id=48540945"
+      "2026-06-15, 13:31:09",
+      "https://news.ycombinator.com/item?id=48541014"
     ],
     [
-      "Google Flight Simulator",
-      "https://developers.google.com/maps/documentation/earth/flight-simulator"
+      "Can Europe train a frontier AI model on the compute it owns?",
+      "https://github.com/sammysltd/euromesh"
     ]
   ],
   [
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2026-06-15, 10:06:35",
-      "https://news.ycombinator.com/item?id=48539078"
-    ],
-    [
-      "Anthropic's Safety Superpower",
-      "https://stratechery.com/2026/anthropics-safety-superpower/"
-    ]
-  ],
-  [
-    [
       "2026-06-15, 07:10:57",
       "https://news.ycombinator.com/item?id=48537641"
     ],
@@ -187,16 +207,6 @@
     [
       "Improvement in advanced Alzheimer’s disease following high-dose psilocybin",
       "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1813281/full"
-    ]
-  ],
-  [
-    [
-      "2026-06-15, 06:02:57",
-      "https://news.ycombinator.com/item?id=48537165"
-    ],
-    [
-      "Curl will not accept vulnerability reports during July 2026",
-      "https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/"
     ]
   ],
   [
@@ -251,32 +261,32 @@
   ],
   [
     [
-      "2026-06-13, 17:07:37",
-      "https://news.ycombinator.com/item?id=48519198"
+      "2026-06-12, 17:30:57",
+      "https://news.ycombinator.com/item?id=48506980"
     ],
     [
-      "How to build a virtual cell and biology scaling laws",
-      "https://letter.nikomc.com/p/virtual-cells"
+      "Ported my C game to WASM, here's every bug that I hit",
+      "http://ernesernesto.github.io/writes/portingmatchmorphosistowasm/"
     ]
   ],
   [
     [
-      "2026-06-12, 04:39:46",
-      "https://news.ycombinator.com/item?id=48499993"
+      "2026-06-12, 07:39:46",
+      "https://news.ycombinator.com/item?id=48501044"
     ],
     [
-      "Asciline – real-time ASCII video rendering engine",
-      "https://github.com/YusufB5/ASCILINE"
+      "Building a plugin system without runtime, storage, or shared JavaScript context",
+      "https://tolgee.io/blog/building-a-plugin-system-for-tolgee-without-a-runtime-storage-or-shared-js-context"
     ]
   ],
   [
     [
-      "2026-06-11, 16:29:36",
-      "https://news.ycombinator.com/item?id=48492548"
+      "2026-06-11, 11:57:03",
+      "https://news.ycombinator.com/item?id=48489163"
     ],
     [
-      "Bots flooded my anti-bot startup with 55,000 fake signups",
-      "https://humaverify.com/blog/anatomy-of-a-55k-bot-attack"
+      "Show HN: Fata – Spaced repetition to fight skill rot from AI coding",
+      "https://fata.dev"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Teenagers Stayed Overnight at Their School and Found Hidden Ancient Roman Ruins",
       "https://www.smithsonianmag.com/smart-news/these-italian-teenagers-stayed-overnight-at-their-school-they-found-ancient-roman-ruins-hidden-in-the-basement-180988917/"
-    ]
-  ],
-  [
-    [
-      "2026-06-10, 05:01:31",
-      "https://news.ycombinator.com/item?id=48471638"
-    ],
-    [
-      "Firewood Splitting Simulator",
-      "https://screen.toys/firewood/"
     ]
   ]
 ]
