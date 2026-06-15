@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-06-15](index.md)
 
+* [2026-06-15, 12:50:03](https://news.ycombinator.com/item?id=48540499) - [Fox to Buy Roku Streaming Service in $22B Deal](https://www.wsj.com/business/deals/fox-roku-deal-f6e564f9)
+* [2026-06-15, 12:08:59](https://news.ycombinator.com/item?id=48540126) - [Salesforce to Acquire Fin (formerly Intercom) for $3.6BN](https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL)
 * [2026-06-15, 10:06:35](https://news.ycombinator.com/item?id=48539078) - [Anthropic's Safety Superpower](https://stratechery.com/2026/anthropics-safety-superpower/)
 * [2026-06-15, 09:34:10](https://news.ycombinator.com/item?id=48538833) - [Show HN: I wrote a C++ ray tracer from scratch without AI](https://github.com/themartiano/luz)
 * [2026-06-15, 09:23:15](https://news.ycombinator.com/item?id=48538737) - [Anthropic flies staff to D.C. to clean up White House fight](https://www.axios.com/2026/06/14/anthropic-white-house-mythos-fable)
 * [2026-06-15, 08:23:52](https://news.ycombinator.com/item?id=48538229) - [What the Fuck Happened to Nerds](https://mrmarket.lol/what-the-fuck-happened-to-nerds/)
 * [2026-06-15, 07:10:57](https://news.ycombinator.com/item?id=48537641) - [Openrouter Fusion API](https://openrouter.ai/openrouter/fusion)
 * [2026-06-15, 07:00:22](https://news.ycombinator.com/item?id=48537556) - [Dalus (YC W25) Is Hiring a Senior Software Engineer in Germany](https://www.ycombinator.com/companies/dalus/jobs/5IDmKJt-senior-software-frontend-engineer-germany-office)
+* [2026-06-15, 06:52:21](https://news.ycombinator.com/item?id=48537512) - [Successful Psilocybin Treatment of Alzheimer](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1813281/full)
 * [2026-06-15, 06:02:57](https://news.ycombinator.com/item?id=48537165) - [Curl will not accept vulnerability reports during July 2026](https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/)
 * [2026-06-15, 04:55:34](https://news.ycombinator.com/item?id=48536776) - [Apple Foundation Models](https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models)
 * [2026-06-15, 02:30:25](https://news.ycombinator.com/item?id=48535886) - [Even More Batteries Included with Emacs](https://karthinks.com/software/even-more-batteries-included-with-emacs/)
