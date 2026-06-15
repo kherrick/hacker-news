@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-06-15](index.md)
 
+* [2026-06-15, 22:37:55](https://news.ycombinator.com/item?id=48547985) - [Banned Book Library in a Wi-Fi Smart Light Bulb](https://www.richardosgood.com/posts/banned-book-library/)
+* [2026-06-15, 22:23:38](https://news.ycombinator.com/item?id=48547834) - [Swedish parliament abolishes permanent residence visas for migrants](https://www.riksdagen.se/en/news/articles/2026/jun/9/permanent-residence-permits-to-be-abolished_cmsc5d86c7b-fecc-4799-9e89-e63592d6c6bfen/)
+* [2026-06-15, 21:57:10](https://news.ycombinator.com/item?id=48547566) - [Why I Email Complete Strangers](https://www.goodinternetmagazine.com/why-i-email-complete-strangers/)
 * [2026-06-15, 21:30:41](https://news.ycombinator.com/item?id=48547271) - [Techno-libertarians are flocking to the Caribbean](https://economist.com/the-americas/2026/06/11/techno-libertarians-are-flocking-to-the-caribbean)
 * [2026-06-15, 21:10:36](https://news.ycombinator.com/item?id=48547062) - [The Dead Economy Theory](https://gmalandrakis.com/writings/ad-economicum.html)
+* [2026-06-15, 20:30:37](https://news.ycombinator.com/item?id=48546648) - [Commander Keen Games (free book)](https://forgottenbytes.net/)
 * [2026-06-15, 20:28:24](https://news.ycombinator.com/item?id=48546616) - [US battery manufacturing output continues to break records](https://fred.stlouisfed.org/series/IPG33591S)
 * [2026-06-15, 20:14:15](https://news.ycombinator.com/item?id=48546441) - [I Love the Computer](https://michaelenger.com/blog/i-love-the-computer/)
 * [2026-06-15, 20:12:37](https://news.ycombinator.com/item?id=48546428) - [What job interviews taught me about Kubernetes](https://notnotp.com/notes/what-job-interviews-taught-me-about-kubernetes/)
