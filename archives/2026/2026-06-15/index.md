@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-06-15](index.md)
 
+* [2026-06-15, 18:37:27](https://news.ycombinator.com/item?id=48545293) - [The Alaska Server](https://serialport.org/blog/the-alaska-server/)
+* [2026-06-15, 18:34:14](https://news.ycombinator.com/item?id=48545260) - [Around 200 Stanford students walk out as Google CEO takes stage](https://www.sfgate.com/tech/article/sundar-pichai-stanford-commencement-22304888.php)
 * [2026-06-15, 17:52:39](https://news.ycombinator.com/item?id=48544781) - [Game Engine White Papers Commander Keen](https://forgottenbytes.net/commander_keen.html)
+* [2026-06-15, 17:41:24](https://news.ycombinator.com/item?id=48544637) - [Claude Corps](https://www.anthropic.com/news/claude-corps)
 * [2026-06-15, 17:29:17](https://news.ycombinator.com/item?id=48544451) - [How TimescaleDB compresses time-series data](https://roszigit.com/en/blog/timescaledb-compression-hypercore)
 * [2026-06-15, 17:24:17](https://news.ycombinator.com/item?id=48544396) - [Typst 0.15.0](https://typst.app/docs/changelog/0.15.0/)
 * [2026-06-15, 16:47:21](https://news.ycombinator.com/item?id=48543908) - [Launch HN: Drafted (YC P26) – Models for residential architecture](https://news.ycombinator.com/item?id=48543908)
