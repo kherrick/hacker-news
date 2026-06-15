@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-06-15, 18:37:27",
+      "https://news.ycombinator.com/item?id=48545293"
+    ],
+    [
+      "The Alaska Server",
+      "https://serialport.org/blog/the-alaska-server/"
+    ]
+  ],
+  [
+    [
+      "2026-06-15, 18:34:14",
+      "https://news.ycombinator.com/item?id=48545260"
+    ],
+    [
+      "Around 200 Stanford students walk out as Google CEO takes stage",
+      "https://www.sfgate.com/tech/article/sundar-pichai-stanford-commencement-22304888.php"
+    ]
+  ],
+  [
+    [
       "2026-06-15, 17:52:39",
       "https://news.ycombinator.com/item?id=48544781"
     ],
     [
       "Game Engine White Papers Commander Keen",
       "https://forgottenbytes.net/commander_keen.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-15, 17:41:24",
+      "https://news.ycombinator.com/item?id=48544637"
+    ],
+    [
+      "Claude Corps",
+      "https://www.anthropic.com/news/claude-corps"
     ]
   ],
   [
@@ -47,16 +77,6 @@
     [
       "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
       "https://tinywind.io"
-    ]
-  ],
-  [
-    [
-      "2026-06-15, 16:11:02",
-      "https://news.ycombinator.com/item?id=48543392"
-    ],
-    [
-      "Memory safety CVEs differ between Rust and C/C++",
-      "https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html"
     ]
   ],
   [
@@ -171,32 +191,12 @@
   ],
   [
     [
-      "2026-06-15, 12:08:59",
-      "https://news.ycombinator.com/item?id=48540126"
-    ],
-    [
-      "Salesforce to Acquire Fin (formerly Intercom) for $3.6B",
-      "https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL"
-    ]
-  ],
-  [
-    [
       "2026-06-15, 07:10:57",
       "https://news.ycombinator.com/item?id=48537641"
     ],
     [
       "Openrouter Fusion API",
       "https://openrouter.ai/openrouter/fusion"
-    ]
-  ],
-  [
-    [
-      "2026-06-15, 07:00:22",
-      "https://news.ycombinator.com/item?id=48537556"
-    ],
-    [
-      "Dalus (YC W25) Is Hiring a Senior Software Engineer in Germany",
-      "https://www.ycombinator.com/companies/dalus/jobs/5IDmKJt-senior-software-frontend-engineer-germany-office"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2026-06-12, 07:39:46",
-      "https://news.ycombinator.com/item?id=48501044"
+      "2026-06-12, 12:52:49",
+      "https://news.ycombinator.com/item?id=48503509"
     ],
     [
-      "Building a plugin system without runtime, storage, or shared JavaScript context",
-      "https://tolgee.io/blog/building-a-plugin-system-for-tolgee-without-a-runtime-storage-or-shared-js-context"
+      "Factoring \"short-sleeve\" RSA keys with polynomials",
+      "https://blog.trailofbits.com/2026/06/12/factoring-short-sleeve-rsa-keys-with-polynomials/"
     ]
   ],
   [
