@@ -1,22 +1,42 @@
 [
   [
     [
+      "2026-06-15, 07:00:22",
+      "https://news.ycombinator.com/item?id=48537556"
+    ],
+    [
+      "Dalus (YC W25) Is Hiring a Senior Software Engineer in Germany",
+      "https://www.ycombinator.com/companies/dalus/jobs/5IDmKJt-senior-software-frontend-engineer-germany-office"
+    ]
+  ],
+  [
+    [
+      "2026-06-15, 06:02:57",
+      "https://news.ycombinator.com/item?id=48537165"
+    ],
+    [
+      "Curl will not accept vulnerability reports during July 2026",
+      "https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/"
+    ]
+  ],
+  [
+    [
+      "2026-06-15, 04:55:34",
+      "https://news.ycombinator.com/item?id=48536776"
+    ],
+    [
+      "Apple Foundation Models",
+      "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models"
+    ]
+  ],
+  [
+    [
       "2026-06-15, 02:30:25",
       "https://news.ycombinator.com/item?id=48535886"
     ],
     [
       "Even more batteries included with Emacs",
       "https://karthinks.com/software/even-more-batteries-included-with-emacs/"
-    ]
-  ],
-  [
-    [
-      "2026-06-15, 01:07:37",
-      "https://news.ycombinator.com/item?id=48535215"
-    ],
-    [
-      "The hallucinogenic mushroom that contains no known psychedelic",
-      "https://psychedelics.co.uk/news/a-mushroom-genus-that-gets-people-high-but-not-the"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2026-06-14, 12:38:31",
-      "https://news.ycombinator.com/item?id=48526661"
-    ],
-    [
-      "The Birth and Death of JavaScript (2014)",
-      "https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript"
-    ]
-  ],
-  [
-    [
       "2026-06-14, 12:35:27",
       "https://news.ycombinator.com/item?id=48526633"
     ],
@@ -187,6 +197,16 @@
     [
       "Why does paper fold so well?",
       "https://www.bbc.co.uk/programmes/w3ct8k70"
+    ]
+  ],
+  [
+    [
+      "2026-06-13, 01:58:11",
+      "https://news.ycombinator.com/item?id=48511734"
+    ],
+    [
+      "The Last Surviving Japanese Porsche 912 Police Car",
+      "https://kottke.org/26/06/the-last-surviving-japanese-porsche-912-police-car"
     ]
   ],
   [
@@ -231,12 +251,12 @@
   ],
   [
     [
-      "2026-06-11, 14:43:11",
-      "https://news.ycombinator.com/item?id=48491048"
+      "2026-06-11, 14:13:03",
+      "https://news.ycombinator.com/item?id=48490649"
     ],
     [
-      "Lisp's Influence on Ruby",
-      "https://blog.tacoda.dev/lisps-influence-on-ruby-6a54f1a7740e"
+      "There Is(Ǝ) – Such That (∋)",
+      "https://www.fractalkitty.com/there-is-3-such-that/"
     ]
   ],
   [
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2026-06-11, 12:15:22",
-      "https://news.ycombinator.com/item?id=48489309"
-    ],
-    [
-      "USB Power Delivery: Plugging into the Benefits",
-      "https://www.aptiv.com/en/insights/article/usb-power-delivery-plugging-into-the-benefits"
-    ]
-  ],
-  [
-    [
       "2026-06-11, 00:25:05",
       "https://news.ycombinator.com/item?id=48484711"
     ],
     [
       "A short history of Cerro Torre, the most controversial mountain (2012)",
       "https://www.markhorrell.com/blog/2012/a-short-history-of-cerro-torre/"
-    ]
-  ],
-  [
-    [
-      "2026-06-10, 21:27:10",
-      "https://news.ycombinator.com/item?id=48482951"
-    ],
-    [
-      "Chopped, Stored, Secured – The Story of the Hash Function",
-      "https://0xkrt26.github.io/math_behind_security/2026/06/09/the-story-of-the-hash-function.html"
     ]
   ],
   [
