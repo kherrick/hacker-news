@@ -24,6 +24,7 @@
 * [2026-06-12, 17:53:20](https://news.ycombinator.com/item?id=48507282) - [I Am Not a Reverse Centaur](https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur)
 * [2026-06-12, 17:52:46](https://news.ycombinator.com/item?id=48507278) - [\"Don't You Just Upload It to ChatGPT?\"](https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/)
 * [2026-06-12, 17:49:48](https://news.ycombinator.com/item?id=48507248) - [Tesla Full Self Driving uses bicycle lane in official Denmark approval video](https://politiken.dk/danmark/forbrug/biler/art10875514/Allerede-12-sekunder-inde-i-PR-videoen-beg%C3%A5r-selvk%C3%B8rende-Tesla-f%C3%B8rste-fejl-i-k%C3%B8benhavnsk-gade-%E2%80%93-men-det-bliver-v%C3%A6rre-endnu)
+* [2026-06-12, 17:36:10](https://news.ycombinator.com/item?id=48507039) - [Write for One Person](https://wizardzines.com/comics/write-for-one-person/)
 * [2026-06-12, 17:34:55](https://news.ycombinator.com/item?id=48507020) - [How to Setup a Local Coding Agent on macOS](https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos)
 * [2026-06-12, 17:22:06](https://news.ycombinator.com/item?id=48506850) - [Ask HN: Why is there some sort of a scam website being advertised on HN?](https://news.ycombinator.com/item?id=48506850)
 * [2026-06-12, 17:07:46](https://news.ycombinator.com/item?id=48506659) - [Pirates, a naval warfare game inspired by Sid Meier's Pirates](https://piwodlaiwo.github.io/pirates/)

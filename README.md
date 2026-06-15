@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-06-14, 23:07:48](https://news.ycombinator.com/item?id=48533976) - [US and Iran announce deal to end military operations](https://www.bbc.com/news/live/cj0grpyg4v1t)
 * [2026-06-14, 22:54:55](https://news.ycombinator.com/item?id=48533848) - [Your ePub Is Fine. Kobo Disagrees. Blame Adobe](https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/)
 * [2026-06-14, 22:53:17](https://news.ycombinator.com/item?id=48533829) - [What even is food authenticity? Why we guard carbonara, and flatten chicken rice](https://iza.ac/posts/2026/06/food-authenticity/)
 * [2026-06-14, 22:45:55](https://news.ycombinator.com/item?id=48533756) - [Stanford grads walk out on Google CEO Sundar Pichai speech](https://twitter.com/maattttbrown/status/2066215255987163246)
@@ -22,6 +21,7 @@
 * [2026-06-14, 12:35:27](https://news.ycombinator.com/item?id=48526633) - [Formal methods and the future of programming](https://blog.janestreet.com/formal-methods-at-jane-street-index/?from_theconsensus=1)
 * [2026-06-14, 11:50:48](https://news.ycombinator.com/item?id=48526360) - [How to earn a billion dollars](https://paulgraham.com/earn.html)
 * [2026-06-13, 20:41:58](https://news.ycombinator.com/item?id=48521236) - [Show HN: Trace – Offline Mac meeting transcripts you can flag mid-call](https://traceapp.info)
+* [2026-06-12, 17:36:10](https://news.ycombinator.com/item?id=48507039) - [Write for One Person](https://wizardzines.com/comics/write-for-one-person/)
 * [2026-06-12, 10:02:21](https://news.ycombinator.com/item?id=48502053) - [The first game engine for robotics](https://luckyrobots.com/)
 * [2026-06-11, 16:48:49](https://news.ycombinator.com/item?id=48492822) - [The only scalable delete in Postgres is DROP TABLE](https://planetscale.com/blog/the-only-scalable-delete)
 * [2026-06-11, 14:43:11](https://news.ycombinator.com/item?id=48491048) - [Lisp's Influence on Ruby](https://blog.tacoda.dev/lisps-influence-on-ruby-6a54f1a7740e)
