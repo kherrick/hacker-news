@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=48535886"
     ],
     [
-      "Even More Batteries Included with Emacs",
+      "Even more batteries included with Emacs",
       "https://karthinks.com/software/even-more-batteries-included-with-emacs/"
     ]
   ],
@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=48533848"
     ],
     [
-      "Your ePub Is Fine. Kobo Disagrees. Blame Adobe",
+      "Your ePub Is fine",
       "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/"
     ]
   ],
@@ -47,16 +47,6 @@
     [
       "Windows 11 users are tired of MS account requirements creeping into everything",
       "https://www.windowscentral.com/microsoft/windows-11/windows-11-users-are-tired-of-microsoft-account-requirements-and-workarounds"
-    ]
-  ],
-  [
-    [
-      "2026-06-14, 20:17:54",
-      "https://news.ycombinator.com/item?id=48532178"
-    ],
-    [
-      "AI is code – and can't be prompted into being smarter",
-      "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141"
     ]
   ],
   [
@@ -191,12 +181,32 @@
   ],
   [
     [
+      "2026-06-13, 19:31:54",
+      "https://news.ycombinator.com/item?id=48520596"
+    ],
+    [
+      "Why does paper fold so well?",
+      "https://www.bbc.co.uk/programmes/w3ct8k70"
+    ]
+  ],
+  [
+    [
       "2026-06-12, 17:36:10",
       "https://news.ycombinator.com/item?id=48507039"
     ],
     [
       "Write for One Person",
       "https://wizardzines.com/comics/write-for-one-person/"
+    ]
+  ],
+  [
+    [
+      "2026-06-12, 13:23:48",
+      "https://news.ycombinator.com/item?id=48503806"
+    ],
+    [
+      "Prove you're human by winning a claw machine",
+      "https://feralui.vercel.app/#/captcha"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "The only scalable delete in Postgres is DROP TABLE",
       "https://planetscale.com/blog/the-only-scalable-delete"
-    ]
-  ],
-  [
-    [
-      "2026-06-11, 15:34:05",
-      "https://news.ycombinator.com/item?id=48491773"
-    ],
-    [
-      "Why Your CPU Is Fast but Your Program Is Slow: Understanding the Memory Wall",
-      "https://prawns.dev/blogs/memory-wall"
     ]
   ],
   [
