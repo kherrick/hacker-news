@@ -1,6 +1,66 @@
 [
   [
     [
+      "2026-06-15, 16:47:21",
+      "https://news.ycombinator.com/item?id=48543908"
+    ],
+    [
+      "Launch HN: Drafted (YC P26) – Models for residential architecture",
+      "https://news.ycombinator.com/item?id=48543908"
+    ]
+  ],
+  [
+    [
+      "2026-06-15, 16:15:53",
+      "https://news.ycombinator.com/item?id=48543475"
+    ],
+    [
+      "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
+      "https://tinywind.io"
+    ]
+  ],
+  [
+    [
+      "2026-06-15, 16:11:02",
+      "https://news.ycombinator.com/item?id=48543392"
+    ],
+    [
+      "Memory safety CVEs differ between Rust and C/C++",
+      "https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-15, 16:03:26",
+      "https://news.ycombinator.com/item?id=48543269"
+    ],
+    [
+      "Boot Naked Linux",
+      "https://nick.zoic.org/art/boot-naked-linux/"
+    ]
+  ],
+  [
+    [
+      "2026-06-15, 16:01:43",
+      "https://news.ycombinator.com/item?id=48543245"
+    ],
+    [
+      "Show HN: machine0 – Persistent NixOS VMs You Control from the CLI",
+      "https://machine0.io"
+    ]
+  ],
+  [
+    [
+      "2026-06-15, 15:43:17",
+      "https://news.ycombinator.com/item?id=48542970"
+    ],
+    [
+      "Show HN: Exploiting Slack's video embeds to achieve E2EE communication",
+      "https://v1c.rocks/log/exploiting-slack-video/"
+    ]
+  ],
+  [
+    [
       "2026-06-15, 15:13:06",
       "https://news.ycombinator.com/item?id=48542480"
     ],
@@ -11,12 +71,12 @@
   ],
   [
     [
-      "2026-06-15, 14:55:50",
-      "https://news.ycombinator.com/item?id=48542209"
+      "2026-06-15, 15:09:40",
+      "https://news.ycombinator.com/item?id=48542433"
     ],
     [
-      "Fox Is Buying Roku",
-      "https://www.fastcompany.com/91559558/fox-corp-buying-roku-stock-prices-fall-on-tv-streaming-merger"
+      "My Homelab AI Dev Platform",
+      "https://rsgm.dev/post/ai-dev-platform/"
     ]
   ],
   [
@@ -31,22 +91,12 @@
   ],
   [
     [
-      "2026-06-15, 14:44:02",
-      "https://news.ycombinator.com/item?id=48542064"
+      "2026-06-15, 14:46:53",
+      "https://news.ycombinator.com/item?id=48542100"
     ],
     [
-      "Hetzner increased dedicated server prices 3-4x",
-      "https://news.ycombinator.com/item?id=48542064"
-    ]
-  ],
-  [
-    [
-      "2026-06-15, 13:31:09",
-      "https://news.ycombinator.com/item?id=48541014"
-    ],
-    [
-      "Show HN: Can Europe train a frontier AI model on the compute it owns?",
-      "https://github.com/sammysltd/euromesh"
+      "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
+      "https://news.ycombinator.com/item?id=48542100"
     ]
   ],
   [
@@ -71,12 +121,22 @@
   ],
   [
     [
-      "2026-06-15, 13:16:20",
-      "https://news.ycombinator.com/item?id=48540813"
+      "2026-06-15, 13:19:39",
+      "https://news.ycombinator.com/item?id=48540844"
     ],
     [
-      "Applying Brevity and Language Efficiency in Prompt Engineering",
-      "https://prahladyeri.github.io/guides/applying-brevity-and-language-efficiency-to-prompt-engineering.html"
+      "Hetzner Price Adjustment",
+      "https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/#cloud-servers"
+    ]
+  ],
+  [
+    [
+      "2026-06-15, 12:50:03",
+      "https://news.ycombinator.com/item?id=48540499"
+    ],
+    [
+      "Fox to buy Roku",
+      "https://www.wsj.com/business/deals/fox-roku-deal-f6e564f9"
     ]
   ],
   [
@@ -85,7 +145,7 @@
       "https://news.ycombinator.com/item?id=48540126"
     ],
     [
-      "Salesforce to Acquire Fin (formerly Intercom) for $3.6BN",
+      "Salesforce to Acquire Fin (formerly Intercom) for $3.6B",
       "https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL"
     ]
   ],
@@ -97,16 +157,6 @@
     [
       "Anthropic's Safety Superpower",
       "https://stratechery.com/2026/anthropics-safety-superpower/"
-    ]
-  ],
-  [
-    [
-      "2026-06-15, 09:34:10",
-      "https://news.ycombinator.com/item?id=48538833"
-    ],
-    [
-      "Show HN: I wrote a C++ ray tracer from scratch without AI",
-      "https://github.com/themartiano/luz"
     ]
   ],
   [
@@ -135,7 +185,7 @@
       "https://news.ycombinator.com/item?id=48537512"
     ],
     [
-      "Successful Psilocybin Treatment of Alzheimer",
+      "Improvement in advanced Alzheimer’s disease following high-dose psilocybin",
       "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1813281/full"
     ]
   ],
@@ -171,16 +221,6 @@
   ],
   [
     [
-      "2026-06-15, 00:07:32",
-      "https://news.ycombinator.com/item?id=48534628"
-    ],
-    [
-      "21 years and counting of 'eight fallacies of distributed computing' (2025)",
-      "https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/"
-    ]
-  ],
-  [
-    [
       "2026-06-14, 22:54:55",
       "https://news.ycombinator.com/item?id=48533848"
     ],
@@ -201,42 +241,22 @@
   ],
   [
     [
-      "2026-06-14, 15:37:31",
-      "https://news.ycombinator.com/item?id=48528371"
+      "2026-06-14, 15:52:09",
+      "https://news.ycombinator.com/item?id=48528587"
     ],
     [
-      "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
-      "https://github.com/nex-agi/Nex-N2/issues/4"
+      "Making glass-to-metal seals for home­made vacuum tubes",
+      "https://maurycyz.com/projects/glass/1/"
     ]
   ],
   [
     [
-      "2026-06-13, 19:31:54",
-      "https://news.ycombinator.com/item?id=48520596"
+      "2026-06-13, 17:07:37",
+      "https://news.ycombinator.com/item?id=48519198"
     ],
     [
-      "Why does paper fold so well?",
-      "https://www.bbc.co.uk/programmes/w3ct8k70"
-    ]
-  ],
-  [
-    [
-      "2026-06-12, 17:30:57",
-      "https://news.ycombinator.com/item?id=48506980"
-    ],
-    [
-      "Ported my C game to WASM, here's everybug that I hit",
-      "http://ernesernesto.github.io/writes/portingmatchmorphosistowasm/"
-    ]
-  ],
-  [
-    [
-      "2026-06-12, 16:38:10",
-      "https://news.ycombinator.com/item?id=48506286"
-    ],
-    [
-      "Exploring building a tiny FUSE filesystem",
-      "https://www.shayon.dev/post/2026/161/building-a-tiny-fuse-filesystem/"
+      "How to build a virtual cell and biology scaling laws",
+      "https://letter.nikomc.com/p/virtual-cells"
     ]
   ],
   [
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2026-06-12, 03:46:12",
-      "https://news.ycombinator.com/item?id=48499690"
+      "2026-06-11, 16:29:36",
+      "https://news.ycombinator.com/item?id=48492548"
     ],
     [
-      "Stdx, Rust's extended standard library",
-      "https://kerkour.com/stdx"
-    ]
-  ],
-  [
-    [
-      "2026-06-11, 20:56:30",
-      "https://news.ycombinator.com/item?id=48496290"
-    ],
-    [
-      "Bitsy",
-      "https://bitsy.org/"
-    ]
-  ],
-  [
-    [
-      "2026-06-11, 14:13:03",
-      "https://news.ycombinator.com/item?id=48490649"
-    ],
-    [
-      "There Is(Ǝ) – Such That (∋)",
-      "https://www.fractalkitty.com/there-is-3-such-that/"
+      "Bots flooded my anti-bot startup with 55,000 fake signups",
+      "https://humaverify.com/blog/anatomy-of-a-55k-bot-attack"
     ]
   ],
   [
