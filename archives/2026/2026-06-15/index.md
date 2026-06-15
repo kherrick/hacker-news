@@ -4,13 +4,17 @@
 
 ### [Archives](../../index.md) for [2026-06-15](index.md)
 
+* [2026-06-15, 21:30:41](https://news.ycombinator.com/item?id=48547271) - [Techno-libertarians are flocking to the Caribbean](https://economist.com/the-americas/2026/06/11/techno-libertarians-are-flocking-to-the-caribbean)
+* [2026-06-15, 21:10:36](https://news.ycombinator.com/item?id=48547062) - [The Dead Economy Theory](https://gmalandrakis.com/writings/ad-economicum.html)
 * [2026-06-15, 20:28:24](https://news.ycombinator.com/item?id=48546616) - [US battery manufacturing output continues to break records](https://fred.stlouisfed.org/series/IPG33591S)
 * [2026-06-15, 20:14:15](https://news.ycombinator.com/item?id=48546441) - [I Love the Computer](https://michaelenger.com/blog/i-love-the-computer/)
+* [2026-06-15, 20:12:37](https://news.ycombinator.com/item?id=48546428) - [What job interviews taught me about Kubernetes](https://notnotp.com/notes/what-job-interviews-taught-me-about-kubernetes/)
 * [2026-06-15, 20:06:49](https://news.ycombinator.com/item?id=48546358) - [US Government Reportedly Allowing Federal Data Center Rules to Expire](https://gizmodo.com/us-government-reportedly-allowing-federal-data-center-rules-to-expire-2000772083)
 * [2026-06-15, 20:02:02](https://news.ycombinator.com/item?id=48546306) - [US Air Force B-52 bomber crashes after takeoff, Edwards Air Force Base says](https://www.reuters.com/business/aerospace-defense/us-air-force-b-52-bomber-crashes-after-takeoff-edwards-air-force-base-says-2026-06-15/)
 * [2026-06-15, 20:00:57](https://news.ycombinator.com/item?id=48546294) - [A backdoor in a LinkedIn job offer](https://roman.pt/posts/linkedin-backdoor/)
 * [2026-06-15, 18:37:27](https://news.ycombinator.com/item?id=48545293) - [The Alaska Server](https://serialport.org/blog/the-alaska-server/)
 * [2026-06-15, 18:34:14](https://news.ycombinator.com/item?id=48545260) - [Around 200 Stanford students walk out as Google CEO takes stage](https://www.sfgate.com/tech/article/sundar-pichai-stanford-commencement-22304888.php)
+* [2026-06-15, 17:56:00](https://news.ycombinator.com/item?id=48544823) - [Show HN: Vet turned founder, AI lawn diagnosis](https://grassdx.com/)
 * [2026-06-15, 17:52:39](https://news.ycombinator.com/item?id=48544781) - [Game Engine White Papers Commander Keen](https://forgottenbytes.net/commander_keen.html)
 * [2026-06-15, 17:41:24](https://news.ycombinator.com/item?id=48544637) - [Claude Corps](https://www.anthropic.com/news/claude-corps)
 * [2026-06-15, 17:29:17](https://news.ycombinator.com/item?id=48544451) - [How TimescaleDB compresses time-series data](https://roszigit.com/en/blog/timescaledb-compression-hypercore)
