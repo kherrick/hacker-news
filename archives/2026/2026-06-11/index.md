@@ -88,6 +88,7 @@
 * [2026-06-11, 04:28:02](https://news.ycombinator.com/item?id=48486209) - [The forgotten Scots who gave Kafka his voice](https://engelsbergideas.com/reviews/the-forgotten-scots-who-gave-kafka-his-voice/)
 * [2026-06-11, 01:43:19](https://news.ycombinator.com/item?id=48485277) - [Inverse Rubric Optimization: A testbed for agent science](https://fulcrum.inc/2026/06/09/inverse-rubric-optimization.html)
 * [2026-06-11, 01:26:03](https://news.ycombinator.com/item?id=48485160) - [Are insecure code completions in PyCharm a vulnerability?](https://sethmlarson.dev/are-insecure-code-completions-a-vulnerability)
+* [2026-06-11, 00:25:05](https://news.ycombinator.com/item?id=48484711) - [A short history of Cerro Torre, the most controversial mountain (2012)](https://www.markhorrell.com/blog/2012/a-short-history-of-cerro-torre/)
 * [2026-06-11, 00:23:04](https://news.ycombinator.com/item?id=48484695) - [I was tired of repos that say they run but don't](https://github.com/rossbuckley1990-hash/bootproof)
 * [2026-06-11, 00:13:12](https://news.ycombinator.com/item?id=48484608) - [Lattice Triangles Are Rare](https://axiommath.ai/territory/the-reveal)
 * [2026-06-11, 00:10:08](https://news.ycombinator.com/item?id=48484584) - [AI agent runs amok in Fedora and elsewhere](https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/)
