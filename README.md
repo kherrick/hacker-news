@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-06-15, 01:07:37](https://news.ycombinator.com/item?id=48535215) - [The hallucinogenic mushroom that contains no known psychedelic](https://psychedelics.co.uk/news/a-mushroom-genus-that-gets-people-high-but-not-the)
-* [2026-06-15, 00:54:50](https://news.ycombinator.com/item?id=48535118) - [The rich aren't your role models](https://theslowburningfuse.wordpress.com/2026/06/14/the-rich-arent-your-role-models-theyre-your-oppressors/)
+* [2026-06-15, 00:07:32](https://news.ycombinator.com/item?id=48534628) - [21 years and counting of 'eight fallacies of distributed computing' (2025)](https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/)
 * [2026-06-14, 22:54:55](https://news.ycombinator.com/item?id=48533848) - [Your ePub Is Fine. Kobo Disagrees. Blame Adobe](https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/)
-* [2026-06-14, 22:45:55](https://news.ycombinator.com/item?id=48533756) - [Stanford grads walk out on Google CEO Sundar Pichai speech](https://twitter.com/maattttbrown/status/2066215255987163246)
 * [2026-06-14, 21:42:12](https://news.ycombinator.com/item?id=48533101) - [Windows 11 users are tired of MS account requirements creeping into everything](https://www.windowscentral.com/microsoft/windows-11/windows-11-users-are-tired-of-microsoft-account-requirements-and-workarounds)
 * [2026-06-14, 20:17:54](https://news.ycombinator.com/item?id=48532178) - [AI is code – and can't be prompted into being smarter](https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141)
 * [2026-06-14, 19:14:21](https://news.ycombinator.com/item?id=48531449) - [Chaosnet (1981)](https://tumbleweed.nu/r/lm-3/uv/amber.html)
@@ -24,6 +23,7 @@
 * [2026-06-12, 17:36:10](https://news.ycombinator.com/item?id=48507039) - [Write for One Person](https://wizardzines.com/comics/write-for-one-person/)
 * [2026-06-11, 20:56:30](https://news.ycombinator.com/item?id=48496290) - [Bitsy](https://bitsy.org/)
 * [2026-06-11, 16:48:49](https://news.ycombinator.com/item?id=48492822) - [The only scalable delete in Postgres is DROP TABLE](https://planetscale.com/blog/the-only-scalable-delete)
+* [2026-06-11, 15:34:05](https://news.ycombinator.com/item?id=48491773) - [Why Your CPU Is Fast but Your Program Is Slow: Understanding the Memory Wall](https://prawns.dev/blogs/memory-wall)
 * [2026-06-11, 14:43:11](https://news.ycombinator.com/item?id=48491048) - [Lisp's Influence on Ruby](https://blog.tacoda.dev/lisps-influence-on-ruby-6a54f1a7740e)
 * [2026-06-11, 12:50:29](https://news.ycombinator.com/item?id=48489636) - [Segmented type appreciation corner (2018)](https://aresluna.org/segmented-type/)
 * [2026-06-11, 12:15:22](https://news.ycombinator.com/item?id=48489309) - [USB Power Delivery: Plugging into the Benefits](https://www.aptiv.com/en/insights/article/usb-power-delivery-plugging-into-the-benefits)

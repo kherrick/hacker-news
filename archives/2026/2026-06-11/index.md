@@ -44,6 +44,7 @@
 * [2026-06-11, 15:56:25](https://news.ycombinator.com/item?id=48492118) - [Ask HN: How do you get into a flow state when using AI to code?](https://news.ycombinator.com/item?id=48492118)
 * [2026-06-11, 15:46:27](https://news.ycombinator.com/item?id=48491968) - [Resurrecting a Soaked, corroded, and damaged Commodore SX‑64 (2025)](https://jerrylparker.com/blogs/posts/sx-64.html)
 * [2026-06-11, 15:37:23](https://news.ycombinator.com/item?id=48491830) - [Petition to Withdraw Canada's Bill C-22](https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416)
+* [2026-06-11, 15:34:05](https://news.ycombinator.com/item?id=48491773) - [Why Your CPU Is Fast but Your Program Is Slow: Understanding the Memory Wall](https://prawns.dev/blogs/memory-wall)
 * [2026-06-11, 15:13:57](https://news.ycombinator.com/item?id=48491486) - [FPS.cob: A first person shooter in COBOL](https://github.com/icitry/FPS.cob)
 * [2026-06-11, 15:13:52](https://news.ycombinator.com/item?id=48491480) - [Omniglot: The Online Encyclopedia of Writing Systems and Languages](https://www.omniglot.com/)
 * [2026-06-11, 15:09:42](https://news.ycombinator.com/item?id=48491426) - [Show HN: Open-source API Key server written in Go by Ory](https://github.com/ory/talos/tree/master)
