@@ -31,6 +31,7 @@
 * [2026-06-13, 13:58:46](https://news.ycombinator.com/item?id=48517412) - [Orthodox C++](https://bkaradzic.github.io/posts/orthodoxc++/)
 * [2026-06-13, 13:54:56](https://news.ycombinator.com/item?id=48517377) - [US bans differential privacy in Census data](https://desfontain.es/blog/banning-noise.html)
 * [2026-06-13, 13:34:00](https://news.ycombinator.com/item?id=48517199) - [Treating pancreatic tumours may have revealed cancer's master switch](https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch)
+* [2026-06-13, 13:11:04](https://news.ycombinator.com/item?id=48516964) - [An O(x)Caml book that runs](https://kcsrk.info/ocaml/oxcaml/teaching/nptel/llm/2026/06/13/an-oxcaml-book-that-runs/)
 * [2026-06-13, 12:40:16](https://news.ycombinator.com/item?id=48516710) - [Introduction to the experience of rendering Arabic typography&its technical debt](https://lr0.org/blog/p/arabic/)
 * [2026-06-13, 12:21:18](https://news.ycombinator.com/item?id=48516585) - [Thoughts on AI and Jobs](https://blog.keyvan.net/p/thoughts-on-ai-and-jobs)
 * [2026-06-13, 12:20:05](https://news.ycombinator.com/item?id=48516573) - [An Interview with Intel's Kira Boyko: Xeon 6's Product Director](https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko)

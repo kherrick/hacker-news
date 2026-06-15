@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-06-15, 22:37:55](https://news.ycombinator.com/item?id=48547985) - [Banned Book Library in a Wi-Fi Smart Light Bulb](https://www.richardosgood.com/posts/banned-book-library/)
-* [2026-06-15, 22:23:38](https://news.ycombinator.com/item?id=48547834) - [Swedish parliament abolishes permanent residence visas for migrants](https://www.riksdagen.se/en/news/articles/2026/jun/9/permanent-residence-permits-to-be-abolished_cmsc5d86c7b-fecc-4799-9e89-e63592d6c6bfen/)
+* [2026-06-15, 22:00:44](https://news.ycombinator.com/item?id=48547608) - [San Francisco Weighs PG&E Takeover Amid Soaring Utility Costs](https://www.kqed.org/news/12081882/san-francisco-has-been-trying-to-leave-pge-for-100-years-will-this-time-be-different)
 * [2026-06-15, 21:57:10](https://news.ycombinator.com/item?id=48547566) - [Why I Email Complete Strangers](https://www.goodinternetmagazine.com/why-i-email-complete-strangers/)
 * [2026-06-15, 21:30:41](https://news.ycombinator.com/item?id=48547271) - [Techno-libertarians are flocking to the Caribbean](https://economist.com/the-americas/2026/06/11/techno-libertarians-are-flocking-to-the-caribbean)
 * [2026-06-15, 21:10:36](https://news.ycombinator.com/item?id=48547062) - [The Dead Economy Theory](https://gmalandrakis.com/writings/ad-economicum.html)
@@ -18,7 +18,6 @@
 * [2026-06-15, 16:15:53](https://news.ycombinator.com/item?id=48543475) - [TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)](https://tinywind.io)
 * [2026-06-15, 16:11:02](https://news.ycombinator.com/item?id=48543392) - [How memory safety CVEs differ between Rust and C/C++](https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html)
 * [2026-06-15, 16:03:26](https://news.ycombinator.com/item?id=48543269) - [Boot Naked Linux](https://nick.zoic.org/art/boot-naked-linux/)
-* [2026-06-15, 16:01:43](https://news.ycombinator.com/item?id=48543245) - [Show HN: machine0 – Persistent NixOS VMs You Control from the CLI](https://machine0.io)
 * [2026-06-15, 15:13:06](https://news.ycombinator.com/item?id=48542480) - [Iroh 1.0](https://www.iroh.computer/blog/v1)
 * [2026-06-15, 15:09:40](https://news.ycombinator.com/item?id=48542433) - [My Homelab AI Dev Platform](https://rsgm.dev/post/ai-dev-platform/)
 * [2026-06-15, 14:48:47](https://news.ycombinator.com/item?id=48542132) - [Copper transport drug restores memory and clears toxic Alzheimer's proteins](https://www.monash.edu/news/articles/copper-drug-restores-memory-and-clears-toxic-alzheimers-proteins)
@@ -28,6 +27,7 @@
 * [2026-06-14, 15:52:09](https://news.ycombinator.com/item?id=48528587) - [Making glass-to-metal seals for home­made vacuum tubes](https://maurycyz.com/projects/glass/1/)
 * [2026-06-13, 22:01:29](https://news.ycombinator.com/item?id=48521925) - [What every coder should know about Gamma Correction](https://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/)
 * [2026-06-13, 19:53:41](https://news.ycombinator.com/item?id=48520793) - [Reviving an abandoned open-source project: 6 years of Atomic Calendar Revive](https://totaldebug.uk/posts/reviving-an-abandoned-open-source-project/)
+* [2026-06-13, 13:11:04](https://news.ycombinator.com/item?id=48516964) - [An O(x)Caml book that runs](https://kcsrk.info/ocaml/oxcaml/teaching/nptel/llm/2026/06/13/an-oxcaml-book-that-runs/)
 * [2026-06-12, 12:52:49](https://news.ycombinator.com/item?id=48503509) - [Factoring \"short-sleeve\" RSA keys with polynomials](https://blog.trailofbits.com/2026/06/12/factoring-short-sleeve-rsa-keys-with-polynomials/)
 * [2026-06-11, 11:57:03](https://news.ycombinator.com/item?id=48489163) - [Show HN: Fata – Spaced repetition to fight skill rot from AI coding](https://fata.dev)
 
