@@ -13,6 +13,7 @@
 * [2026-06-11, 21:17:30](https://news.ycombinator.com/item?id=48496539) - [Show HN: FablePool – pool money behind a prompt, and Fable builds it in public](https://fablepool.com)
 * [2026-06-11, 21:12:47](https://news.ycombinator.com/item?id=48496483) - [Tailwind and Slop Apps](https://briandouglas.ie/llm-tailwind-template/)
 * [2026-06-11, 21:04:47](https://news.ycombinator.com/item?id=48496396) - [Why I'm Forced to Say Farewell: Google Management Has Lost Its Moral Compass](https://www.mayrhofer.eu.org/post/leaving-google/)
+* [2026-06-11, 20:56:30](https://news.ycombinator.com/item?id=48496290) - [Bitsy](https://bitsy.org/)
 * [2026-06-11, 20:55:18](https://news.ycombinator.com/item?id=48496278) - [Trying to fix complicated problems](https://blog.griffens.net/blog/trying-to-fix-complicated-problems/)
 * [2026-06-11, 20:52:26](https://news.ycombinator.com/item?id=48496250) - [Show HN: Boo – screen-style terminal multiplexer built on libghostty](https://github.com/coder/boo)
 * [2026-06-11, 20:43:32](https://news.ycombinator.com/item?id=48496156) - [Cooling in Space](https://guille.site/posts/space-cooling/)
