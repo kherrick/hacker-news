@@ -28,6 +28,7 @@
 * [2026-06-13, 16:45:03](https://news.ycombinator.com/item?id=48518969) - [AI Coding at Home Without Going Broke](https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/)
 * [2026-06-13, 16:18:31](https://news.ycombinator.com/item?id=48518684) - [GLM 5.2 Is Out](https://twitter.com/jietang/status/2065784751345287314)
 * [2026-06-13, 16:18:31](https://news.ycombinator.com/item?id=48518684) - [GLM 5.2 Is Out](https://digg.com/tech/ii9xibgn)
+* [2026-06-13, 14:27:26](https://news.ycombinator.com/item?id=48517675) - [The Null Is Always False (Except When It Is True) (2014)](http://daniellakens.blogspot.com/2014/06/the-null-is-always-false-except-when-it.html)
 * [2026-06-13, 13:58:46](https://news.ycombinator.com/item?id=48517412) - [Orthodox C++](https://bkaradzic.github.io/posts/orthodoxc++/)
 * [2026-06-13, 13:54:56](https://news.ycombinator.com/item?id=48517377) - [US bans differential privacy in Census data](https://desfontain.es/blog/banning-noise.html)
 * [2026-06-13, 13:34:00](https://news.ycombinator.com/item?id=48517199) - [Treating pancreatic tumours may have revealed cancer's master switch](https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch)
