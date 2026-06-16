@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-06-16, 21:18:36](https://news.ycombinator.com/item?id=48562274) - [Total Iran Economic Damage Estimate](https://www.fdd.org/analysis/2026/04/23/total-iran-economic-damage-estimate/)
+* [2026-06-16, 22:15:55](https://news.ycombinator.com/item?id=48562957) - [The UK's Teen Social Media Ban Is Political Theater, Not Child Safety Policy](https://www.techdirt.com/2026/06/16/the-uks-teen-social-media-ban-is-political-theater-not-child-safety-policy/)
 * [2026-06-16, 20:34:35](https://news.ycombinator.com/item?id=48561654) - [GrapheneOS has been ported to Android 17 and official releases are coming soon](https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon)
 * [2026-06-16, 20:17:42](https://news.ycombinator.com/item?id=48561410) - [Show HN: cuTile Rust: Safe, data-race-free GPU kernels in Rust](https://github.com/nvlabs/cutile-rs)
 * [2026-06-16, 20:17:04](https://news.ycombinator.com/item?id=48561402) - [Frood, an Alpine Initramfs NAS (2024)](https://words.filippo.io/frood/)
@@ -24,11 +24,11 @@
 * [2026-06-16, 11:26:27](https://news.ycombinator.com/item?id=48553550) - [Mechanical Watch (2022)](https://ciechanow.ski/mechanical-watch/)
 * [2026-06-16, 10:44:24](https://news.ycombinator.com/item?id=48553224) - [SpaceX to buy Cursor for $60B](https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/)
 * [2026-06-16, 09:46:49](https://news.ycombinator.com/item?id=48552844) - [Correlated randomness in Slay the Spire 2](https://tck.mn/blog/correlated-randomness-sts2/)
+* [2026-06-14, 11:33:18](https://news.ycombinator.com/item?id=48526256) - [A Nipkow Disk Mechanical TV Simulator](https://analogtv.net/mechanical-lab)
 * [2026-06-14, 08:33:22](https://news.ycombinator.com/item?id=48525340) - [Show HN: Sabela – A Reactive Notebook for Haskell](https://sabela.datahaskell.com/)
 * [2026-06-13, 22:55:39](https://news.ycombinator.com/item?id=48522316) - [Getting Creative with Perlin Noise Fields](https://sighack.com/post/getting-creative-with-perlin-noise-fields)
 * [2026-06-13, 22:14:53](https://news.ycombinator.com/item?id=48522037) - [W.H. Auden and James Schuyler in life and literature](https://hedgehogreview.com/web-features/thr/posts/companions-on-parnassus)
 * [2026-06-13, 17:56:47](https://news.ycombinator.com/item?id=48519723) - [An interview with an Apple emoji designer](https://shadycharacters.co.uk/2026/06/ollie-wagner/)
-* [2026-06-12, 02:04:55](https://news.ycombinator.com/item?id=48498981) - [ASM Shader Toy](https://wegfawefgawefg.github.io/asm-shader-toy/)
 * [2026-06-11, 22:07:37](https://news.ycombinator.com/item?id=48497067) - [Formal Methods and the Future of Programming](https://blog.janestreet.com/formal-methods-at-jane-street-index/)
 
 ## [Archives](archives/index.md)
