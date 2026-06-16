@@ -4,6 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-06-16](index.md)
 
+* [2026-06-16, 15:39:36](https://news.ycombinator.com/item?id=48556985) - [UK to require ID or face scan before you can make social media accounts](https://www.bleepingcomputer.com/news/security/uk-to-require-id-or-face-scan-before-you-can-make-social-media-accounts/)
+* [2026-06-16, 15:30:26](https://news.ycombinator.com/item?id=48556821) - [CJEU: Social networks are the 'publishers' of algorithmically-altered feeds](https://bsky.app/profile/stevepeers.bsky.social/post/3mofdspytds2l)
+* [2026-06-16, 15:27:56](https://news.ycombinator.com/item?id=48556785) - [Fable ban was never about a jailbreak](https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/)
+* [2026-06-16, 15:05:09](https://news.ycombinator.com/item?id=48556414) - [Google Chrome's Next Update Will Mark the End of Popular Ad Blockers](https://tech.slashdot.org/story/26/06/15/205219/google-chromes-next-update-will-mark-the-end-of-popular-ad-blockers)
+* [2026-06-16, 14:50:10](https://news.ycombinator.com/item?id=48556163) - [Subquadratic – Introducing SubQ 1.1 Small](https://subq.ai/subq-1-1-small-technical-report)
+* [2026-06-16, 14:36:57](https://news.ycombinator.com/item?id=48555993) - [Running local models is good now](https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/)
+* [2026-06-16, 14:26:26](https://news.ycombinator.com/item?id=48555838) - [But yak shaving is fun](https://parksb.github.io/en/article/32.html)
 * [2026-06-16, 14:26:19](https://news.ycombinator.com/item?id=48555835) - [I Fired Google](https://www.theartofdoingstuff.com/i-fired-google/)
 * [2026-06-16, 14:15:00](https://news.ycombinator.com/item?id=48555677) - [Show HN: Hackers for Granny (defense against industrialized elder fraud)](https://professorsigmund.com/praxis/hackers_for_granny_manifesto.html)
 * [2026-06-16, 13:46:19](https://news.ycombinator.com/item?id=48555244) - [Google Chrome update will close the door on ad blockers](https://9to5google.com/2026/06/15/google-chromes-next-update-will-mark-the-end-of-popular-ad-blockers/)

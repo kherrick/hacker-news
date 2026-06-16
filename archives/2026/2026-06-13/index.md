@@ -12,6 +12,7 @@
 * [2026-06-13, 22:43:30](https://news.ycombinator.com/item?id=48522237) - [Derbyshire Police officer accused of using AI to 'create evidence'](https://www.bbc.com/news/articles/cy8wppwdxl6o)
 * [2026-06-13, 22:01:29](https://news.ycombinator.com/item?id=48521925) - [What every coder should know about Gamma Correction](https://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/)
 * [2026-06-13, 21:35:24](https://news.ycombinator.com/item?id=48521709) - [Human Routers of Machine Words](https://borretti.me/article/human-routers-of-machine-words)
+* [2026-06-13, 21:00:45](https://news.ycombinator.com/item?id=48521414) - [The history of butterfly swimming](https://www.swimming.org/sport/history-of-butterfly/)
 * [2026-06-13, 20:41:58](https://news.ycombinator.com/item?id=48521236) - [Show HN: Trace – Offline Mac meeting transcripts you can flag mid-call](https://traceapp.info)
 * [2026-06-13, 19:54:55](https://news.ycombinator.com/item?id=48520807) - [Police officer investigated for using AI to 'create evidence' in multiple cases](https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661)
 * [2026-06-13, 19:53:41](https://news.ycombinator.com/item?id=48520793) - [Reviving an abandoned open-source project: 6 years of Atomic Calendar Revive](https://totaldebug.uk/posts/reviving-an-abandoned-open-source-project/)
