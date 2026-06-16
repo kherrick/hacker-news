@@ -19,6 +19,7 @@
 * [2026-06-13, 19:31:54](https://news.ycombinator.com/item?id=48520596) - [Why does paper fold so well?](https://www.bbc.co.uk/programmes/w3ct8k70)
 * [2026-06-13, 18:35:15](https://news.ycombinator.com/item?id=48520110) - [What Happens to an Economy When It's Too Hot to Work?](https://www.bloomberg.com/news/features/2026-06-12/india-s-extreme-heat-is-hurting-its-economy-and-workers)
 * [2026-06-13, 18:32:22](https://news.ycombinator.com/item?id=48520080) - [Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch](https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/)
+* [2026-06-13, 17:56:47](https://news.ycombinator.com/item?id=48519723) - [An interview with an Apple emoji designer](https://shadycharacters.co.uk/2026/06/ollie-wagner/)
 * [2026-06-13, 17:43:02](https://news.ycombinator.com/item?id=48519552) - [GameBoy Workboy](https://tcrf.net/Workboy)
 * [2026-06-13, 17:39:14](https://news.ycombinator.com/item?id=48519519) - [PwC Report: AI Making Medical Bills Higher](https://fortune.com/2026/06/12/ai-making-medical-bills-higher/)
 * [2026-06-13, 17:07:37](https://news.ycombinator.com/item?id=48519198) - [How to build a virtual cell and biology scaling laws](https://letter.nikomc.com/p/virtual-cells)
