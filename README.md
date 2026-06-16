@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-06-16, 08:52:06](https://news.ycombinator.com/item?id=48552440) - [New way of making espresso with ultrasound](https://www.unsw.edu.au/newsroom/news/2026/06/New-way-making-espresso)
+* [2026-06-16, 07:35:27](https://news.ycombinator.com/item?id=48551876) - [Understanding the rationale behind a rule when trying to circumvent it](https://devblogs.microsoft.com/oldnewthing/20260611-00/?p=112415)
 * [2026-06-16, 04:58:15](https://news.ycombinator.com/item?id=48550779) - [John Carmack on Fabrice Bellard](https://twitter.com/ID_AA_Carmack/status/2064095424420487226)
 * [2026-06-16, 04:46:36](https://news.ycombinator.com/item?id=48550693) - [The time the x86 emulator team found code so bad they fixed it during emulation](https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419)
 * [2026-06-16, 04:25:57](https://news.ycombinator.com/item?id=48550569) - [Show HN: Garden of Flowers – an archive of pictorial typography before ASCII art](https://garden-of-flowers.heikkilotvonen.com/)
@@ -11,7 +13,6 @@
 * [2026-06-15, 20:14:15](https://news.ycombinator.com/item?id=48546441) - [I Love the Computer](https://michaelenger.com/blog/i-love-the-computer/)
 * [2026-06-15, 20:12:37](https://news.ycombinator.com/item?id=48546428) - [What job interviews taught me about Kubernetes](https://notnotp.com/notes/what-job-interviews-taught-me-about-kubernetes/)
 * [2026-06-15, 20:00:57](https://news.ycombinator.com/item?id=48546294) - [A backdoor in a LinkedIn job offer](https://roman.pt/posts/linkedin-backdoor/)
-* [2026-06-15, 17:56:00](https://news.ycombinator.com/item?id=48544823) - [Show HN: Veterinarian turned founder, AI lawn diagnosis](https://grassdx.com/)
 * [2026-06-15, 17:52:39](https://news.ycombinator.com/item?id=48544781) - [Game Engine White Papers: Commander Keen](https://forgottenbytes.net/commander_keen.html)
 * [2026-06-15, 17:41:24](https://news.ycombinator.com/item?id=48544637) - [Claude Corps](https://www.anthropic.com/news/claude-corps)
 * [2026-06-15, 17:29:17](https://news.ycombinator.com/item?id=48544451) - [How TimescaleDB compresses time-series data](https://roszigit.com/en/blog/timescaledb-compression-hypercore)
@@ -24,10 +25,9 @@
 * [2026-06-15, 13:19:39](https://news.ycombinator.com/item?id=48540844) - [Hetzner Price Adjustment](https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/#cloud-servers)
 * [2026-06-15, 12:50:03](https://news.ycombinator.com/item?id=48540499) - [Fox to buy Roku](https://www.wsj.com/business/deals/fox-roku-deal-f6e564f9)
 * [2026-06-15, 12:08:59](https://news.ycombinator.com/item?id=48540126) - [Salesforce to Acquire Fin (formerly Intercom) for $3.6B](https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL)
+* [2026-06-13, 22:55:39](https://news.ycombinator.com/item?id=48522316) - [Getting Creative with Perlin Noise Fields](https://sighack.com/post/getting-creative-with-perlin-noise-fields)
 * [2026-06-13, 22:01:29](https://news.ycombinator.com/item?id=48521925) - [What every coder should know about gamma (2016)](https://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/)
-* [2026-06-13, 14:27:26](https://news.ycombinator.com/item?id=48517675) - [The Null Is Always False (Except When It Is True) (2014)](http://daniellakens.blogspot.com/2014/06/the-null-is-always-false-except-when-it.html)
-* [2026-06-12, 17:42:04](https://news.ycombinator.com/item?id=48507128) - [Chili peppers of the world: cultivars, species, and heat](https://www.notesfromtheroad.com/desertmexico/chili-peppers.html)
-* [2026-06-11, 14:07:39](https://news.ycombinator.com/item?id=48490578) - [The 90-year-old idea behind JEPA models: Canonical Correlation Analysis](https://shonczinner.github.io/posts/embedding-prediction/)
+* [2026-06-12, 16:09:14](https://news.ycombinator.com/item?id=48505910) - [Show HN: SharkClean MCP](https://github.com/a-funk/sharkclean-mcp)
 * [2026-06-11, 13:15:45](https://news.ycombinator.com/item?id=48489934) - [Cohere's First Model for Developers](https://cohere.com/blog/north-mini-code)
 * [2026-06-10, 17:45:24](https://news.ycombinator.com/item?id=48479957) - [I hacked into the worst e-bike and fixed it [video]](https://www.youtube.com/watch?v=hPrtVGimBYs)
 

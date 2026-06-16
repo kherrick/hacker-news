@@ -40,6 +40,7 @@
 * [2026-06-12, 16:38:10](https://news.ycombinator.com/item?id=48506286) - [Exploring building a tiny FUSE filesystem](https://www.shayon.dev/post/2026/161/building-a-tiny-fuse-filesystem/)
 * [2026-06-12, 16:32:50](https://news.ycombinator.com/item?id=48506209) - [A PDF that changes based on who is reading](https://sgaud.com/texts/pdf)
 * [2026-06-12, 16:18:20](https://news.ycombinator.com/item?id=48506023) - [A calculator that doesn't round](https://constructive-calculator.dimview.org/writeup.html)
+* [2026-06-12, 16:09:14](https://news.ycombinator.com/item?id=48505910) - [Show HN: SharkClean MCP](https://github.com/a-funk/sharkclean-mcp)
 * [2026-06-12, 15:51:54](https://news.ycombinator.com/item?id=48505690) - [Euro-Office, open standards, and native ODF](https://blog.documentfoundation.org/blog/2026/06/11/euro-office-open-standards-and-native-odf/)
 * [2026-06-12, 15:42:04](https://news.ycombinator.com/item?id=48505561) - [Keygen.music](https://keygen.music)
 * [2026-06-12, 15:32:56](https://news.ycombinator.com/item?id=48505452) - [Where Did Earth Get Its Oceans? Maybe It Made Them Itself](https://www.quantamagazine.org/where-did-earth-get-its-oceans-maybe-it-made-them-itself-20260612/)
