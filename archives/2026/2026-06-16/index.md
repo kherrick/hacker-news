@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-06-16](index.md)
 
+* [2026-06-16, 21:18:36](https://news.ycombinator.com/item?id=48562274) - [Total Iran Economic Damage Estimate](https://www.fdd.org/analysis/2026/04/23/total-iran-economic-damage-estimate/)
 * [2026-06-16, 20:34:35](https://news.ycombinator.com/item?id=48561654) - [GrapheneOS has been ported to Android 17 and official releases are coming soon](https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon)
+* [2026-06-16, 20:17:42](https://news.ycombinator.com/item?id=48561410) - [Show HN: cuTile Rust: Safe, data-race-free GPU kernels in Rust](https://github.com/nvlabs/cutile-rs)
 * [2026-06-16, 20:17:04](https://news.ycombinator.com/item?id=48561402) - [Frood, an Alpine Initramfs NAS (2024)](https://words.filippo.io/frood/)
 * [2026-06-16, 20:12:05](https://news.ycombinator.com/item?id=48561332) - [Nobody clicks your share buttons](https://ankursethi.com/links/nobody-clicks-your-share-buttons/)
 * [2026-06-16, 19:45:11](https://news.ycombinator.com/item?id=48560886) - [Databricks Launches LTAP: A Unified OLAP/OLTP Data Architecture](https://www.databricks.com/company/newsroom/press-releases/databricks-launches-ltap-first-lake-transactionalanalytical)

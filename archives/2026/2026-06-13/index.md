@@ -10,6 +10,7 @@
 * [2026-06-13, 22:55:39](https://news.ycombinator.com/item?id=48522316) - [Getting Creative with Perlin Noise Fields](https://sighack.com/post/getting-creative-with-perlin-noise-fields)
 * [2026-06-13, 22:54:37](https://news.ycombinator.com/item?id=48522310) - [Ancient genome duplications laid the foundations of complex brains](https://www.ox.ac.uk/news/2026-06-09-ancient-genome-duplications-laid-the-foundations-of-complex-brains)
 * [2026-06-13, 22:43:30](https://news.ycombinator.com/item?id=48522237) - [Derbyshire Police officer accused of using AI to 'create evidence'](https://www.bbc.com/news/articles/cy8wppwdxl6o)
+* [2026-06-13, 22:14:53](https://news.ycombinator.com/item?id=48522037) - [W.H. Auden and James Schuyler in life and literature](https://hedgehogreview.com/web-features/thr/posts/companions-on-parnassus)
 * [2026-06-13, 22:01:29](https://news.ycombinator.com/item?id=48521925) - [What every coder should know about Gamma Correction](https://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/)
 * [2026-06-13, 21:35:24](https://news.ycombinator.com/item?id=48521709) - [Human Routers of Machine Words](https://borretti.me/article/human-routers-of-machine-words)
 * [2026-06-13, 21:00:45](https://news.ycombinator.com/item?id=48521414) - [The history of butterfly swimming](https://www.swimming.org/sport/history-of-butterfly/)
