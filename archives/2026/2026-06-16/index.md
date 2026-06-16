@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-06-16](index.md)
 
+* [2026-06-16, 20:12:05](https://news.ycombinator.com/item?id=48561332) - [Nobody clicks your share buttons](https://ankursethi.com/links/nobody-clicks-your-share-buttons/)
+* [2026-06-16, 19:45:11](https://news.ycombinator.com/item?id=48560886) - [Databricks Launches LTAP: A Unified OLAP/OLTP Data Architecture](https://www.databricks.com/company/newsroom/press-releases/databricks-launches-ltap-first-lake-transactionalanalytical)
+* [2026-06-16, 19:42:05](https://news.ycombinator.com/item?id=48560847) - [U.S. pulling ocean sensors a 'shock' for Canadian research as El Niño nears](https://www.timescolonist.com/local-news/us-pulling-ocean-sensors-a-shock-for-canadian-research-as-el-nino-nears-12422874)
+* [2026-06-16, 18:37:21](https://news.ycombinator.com/item?id=48559935) - [Apple is about to make Hide My Email useless](https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/)
 * [2026-06-16, 17:54:02](https://news.ycombinator.com/item?id=48559188) - [GPT‑NL: a sovereign language model for the Netherlands](https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/)
 * [2026-06-16, 17:49:54](https://news.ycombinator.com/item?id=48559108) - [Show HN: Pen and paper resource development game with an emergent world](https://www.jameshylands.co.uk/2026/06/sortis-paper-empire-game.html)
 * [2026-06-16, 17:48:42](https://news.ycombinator.com/item?id=48559083) - [10Gb/s Ethernet: switching to a Broadcom SFP+ module](https://www.gilesthomas.com/2026/06/10g-ethernet-switching-to-broadcom-sfp-plus)

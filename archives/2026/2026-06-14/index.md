@@ -52,6 +52,7 @@
 * [2026-06-14, 12:35:27](https://news.ycombinator.com/item?id=48526633) - [Formal Methods and the Future of Programming](https://blog.janestreet.com/formal-methods-at-jane-street-index/?from_theconsensus=1)
 * [2026-06-14, 12:15:27](https://news.ycombinator.com/item?id=48526472) - [Can't Stop the Signal. Poison It](https://blog.digitalgrease.dev/posts/fauxx-cant-stop-the-signal)
 * [2026-06-14, 11:50:48](https://news.ycombinator.com/item?id=48526360) - [How to Earn a Billion Dollars](https://paulgraham.com/earn.html)
+* [2026-06-14, 08:33:22](https://news.ycombinator.com/item?id=48525340) - [Show HN: Sabela – A Reactive Notebook for Haskell](https://sabela.datahaskell.com/)
 * [2026-06-14, 06:07:09](https://news.ycombinator.com/item?id=48524620) - [Don't trust large context windows](https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows)
 * [2026-06-14, 05:27:45](https://news.ycombinator.com/item?id=48524447) - [Consciousness likely not unique to earthlings, paper says](https://news.ucr.edu/articles/2026/06/10/consciousness-likely-not-unique-earthlings-paper-says)
 * [2026-06-14, 05:23:12](https://news.ycombinator.com/item?id=48524434) - [Tribblix: The retro Illumos distribution](http://tribblix.org/)
