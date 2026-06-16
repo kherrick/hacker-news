@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-16, 02:47:57",
+      "https://news.ycombinator.com/item?id=48549918"
+    ],
+    [
+      "Microsoft turns to AWS as GitHub faces AI capacity crunch",
+      "https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch"
+    ]
+  ],
+  [
+    [
+      "2026-06-16, 02:00:45",
+      "https://news.ycombinator.com/item?id=48549628"
+    ],
+    [
+      "Humanity isn't ready for the coming intelligence explosion",
+      "https://www.economist.com/by-invitation/2026/06/15/humanity-isnt-ready-for-the-coming-intelligence-explosion"
+    ]
+  ],
+  [
+    [
       "2026-06-16, 00:28:14",
       "https://news.ycombinator.com/item?id=48548975"
     ],
@@ -95,7 +115,7 @@
       "https://news.ycombinator.com/item?id=48544823"
     ],
     [
-      "Show HN: Vet turned founder, AI lawn diagnosis",
+      "Show HN: Veterinarian turned founder, AI lawn diagnosis",
       "https://grassdx.com/"
     ]
   ],
@@ -147,16 +167,6 @@
     [
       "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
       "https://tinywind.io"
-    ]
-  ],
-  [
-    [
-      "2026-06-15, 16:11:02",
-      "https://news.ycombinator.com/item?id=48543392"
-    ],
-    [
-      "How memory safety CVEs differ between Rust and C/C++",
-      "https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html"
     ]
   ],
   [
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2026-06-14, 15:52:09",
-      "https://news.ycombinator.com/item?id=48528587"
-    ],
-    [
-      "Making glass-to-metal seals for home­made vacuum tubes",
-      "https://maurycyz.com/projects/glass/1/"
-    ]
-  ],
-  [
-    [
       "2026-06-13, 22:01:29",
       "https://news.ycombinator.com/item?id=48521925"
     ],
@@ -257,16 +257,6 @@
     [
       "An O(x)Caml book that runs",
       "https://kcsrk.info/ocaml/oxcaml/teaching/nptel/llm/2026/06/13/an-oxcaml-book-that-runs/"
-    ]
-  ],
-  [
-    [
-      "2026-06-12, 12:52:49",
-      "https://news.ycombinator.com/item?id=48503509"
-    ],
-    [
-      "Factoring \"short-sleeve\" RSA keys with polynomials",
-      "https://blog.trailofbits.com/2026/06/12/factoring-short-sleeve-rsa-keys-with-polynomials/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Show HN: Fata – Spaced repetition to fight skill rot from AI coding",
       "https://fata.dev"
+    ]
+  ],
+  [
+    [
+      "2026-06-10, 17:45:24",
+      "https://news.ycombinator.com/item?id=48479957"
+    ],
+    [
+      "I Hacked into the Worst E-Bike and Fixed It [video]",
+      "https://www.youtube.com/watch?v=hPrtVGimBYs"
     ]
   ]
 ]
