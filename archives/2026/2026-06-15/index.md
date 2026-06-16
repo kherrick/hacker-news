@@ -52,6 +52,7 @@
 * [2026-06-15, 06:52:21](https://news.ycombinator.com/item?id=48537512) - [Successful Psilocybin Treatment of Alzheimer](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1813281/full)
 * [2026-06-15, 06:02:57](https://news.ycombinator.com/item?id=48537165) - [Curl will not accept vulnerability reports during July 2026](https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/)
 * [2026-06-15, 04:55:34](https://news.ycombinator.com/item?id=48536776) - [Apple Foundation Models](https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models)
+* [2026-06-15, 04:37:42](https://news.ycombinator.com/item?id=48536660) - [A brief tour of the PDP-11, the most influential minicomputer of all time (2022)](https://arstechnica.com/gadgets/2022/03/a-brief-tour-of-the-pdp-11-the-most-influential-minicomputer-of-all-time/)
 * [2026-06-15, 02:30:25](https://news.ycombinator.com/item?id=48535886) - [Even More Batteries Included with Emacs](https://karthinks.com/software/even-more-batteries-included-with-emacs/)
 * [2026-06-15, 01:07:37](https://news.ycombinator.com/item?id=48535215) - [The hallucinogenic mushroom that contains no known psychedelic](https://psychedelics.co.uk/news/a-mushroom-genus-that-gets-people-high-but-not-the)
 * [2026-06-15, 00:54:50](https://news.ycombinator.com/item?id=48535118) - [The rich aren't your role models](https://theslowburningfuse.wordpress.com/2026/06/14/the-rich-arent-your-role-models-theyre-your-oppressors/)
