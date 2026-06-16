@@ -22,6 +22,7 @@
 * [2026-06-10, 18:45:20](https://news.ycombinator.com/item?id=48480852) - [Anthropic's Model Naming, Extrapolated](https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated)
 * [2026-06-10, 18:36:04](https://news.ycombinator.com/item?id=48480719) - [Policy on the AI Exponential](https://darioamodei.com/post/policy-on-the-ai-exponential)
 * [2026-06-10, 17:47:46](https://news.ycombinator.com/item?id=48479996) - [The Dynamo and the Computer: The Modern Productivity Paradox (1989) [pdf]](https://www.almendron.com/tribuna/wp-content/uploads/2018/03/the-dynamo-and-the-computer-an-historical-perspective-on-the-modern-productivity-paradox.pdf)
+* [2026-06-10, 17:45:24](https://news.ycombinator.com/item?id=48479957) - [I Hacked into the Worst E-Bike and Fixed It [video]](https://www.youtube.com/watch?v=hPrtVGimBYs)
 * [2026-06-10, 17:44:59](https://news.ycombinator.com/item?id=48479947) - [Why SpaceX 2040 Revenue FCST $4.3T in highly unlikely](https://www.matteast.io/spacex-escape-velocity.html)
 * [2026-06-10, 17:39:47](https://news.ycombinator.com/item?id=48479852) - [GeoLibre 1.0](https://geolibre.app/)
 * [2026-06-10, 17:37:26](https://news.ycombinator.com/item?id=48479818) - [Providers, not insurers, are responsible for excess U.S. health care cost (2024)](https://www.noahpinion.blog/p/insurers-arent-the-main-villain-of)
