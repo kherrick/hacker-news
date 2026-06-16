@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-06-16, 00:28:14](https://news.ycombinator.com/item?id=48548975) - [Amazon Announces Multibillion-Dollar Data Center in Missouri](https://www.narracomm.com/amazon-announces-multibillion-dollar-data-center-in-missouri/)
+* [2026-06-16, 00:13:34](https://news.ycombinator.com/item?id=48548883) - [Reviews have become expensive, rewrites have become cheap](http://ishmeetbindra.com/posts/reviews-have-become-expensive-rewrites-have-become-cheap/)
 * [2026-06-15, 22:37:55](https://news.ycombinator.com/item?id=48547985) - [Banned Book Library in a Wi-Fi Smart Light Bulb](https://www.richardosgood.com/posts/banned-book-library/)
 * [2026-06-15, 21:57:10](https://news.ycombinator.com/item?id=48547566) - [Why I email complete strangers](https://www.goodinternetmagazine.com/why-i-email-complete-strangers/)
 * [2026-06-15, 21:10:36](https://news.ycombinator.com/item?id=48547062) - [Peopleless economy? Not technically impossible](https://gmalandrakis.com/writings/ad-economicum.html)
@@ -15,7 +16,6 @@
 * [2026-06-15, 16:47:21](https://news.ycombinator.com/item?id=48543908) - [Launch HN: Drafted (YC P26) – Models for residential architecture](https://news.ycombinator.com/item?id=48543908)
 * [2026-06-15, 16:15:53](https://news.ycombinator.com/item?id=48543475) - [TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)](https://tinywind.io)
 * [2026-06-15, 16:11:02](https://news.ycombinator.com/item?id=48543392) - [How memory safety CVEs differ between Rust and C/C++](https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html)
-* [2026-06-15, 16:03:26](https://news.ycombinator.com/item?id=48543269) - [Boot Naked Linux](https://nick.zoic.org/art/boot-naked-linux/)
 * [2026-06-15, 15:13:06](https://news.ycombinator.com/item?id=48542480) - [Iroh 1.0](https://www.iroh.computer/blog/v1)
 * [2026-06-15, 15:09:40](https://news.ycombinator.com/item?id=48542433) - [My Homelab AI Dev Platform](https://rsgm.dev/post/ai-dev-platform/)
 * [2026-06-15, 14:48:47](https://news.ycombinator.com/item?id=48542132) - [Copper transport drug restores memory and clears toxic Alzheimer's proteins](https://www.monash.edu/news/articles/copper-drug-restores-memory-and-clears-toxic-alzheimers-proteins)
@@ -26,8 +26,8 @@
 * [2026-06-14, 15:52:09](https://news.ycombinator.com/item?id=48528587) - [Making glass-to-metal seals for home­made vacuum tubes](https://maurycyz.com/projects/glass/1/)
 * [2026-06-13, 22:01:29](https://news.ycombinator.com/item?id=48521925) - [What every coder should know about Gamma Correction](https://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/)
 * [2026-06-13, 13:11:04](https://news.ycombinator.com/item?id=48516964) - [An O(x)Caml book that runs](https://kcsrk.info/ocaml/oxcaml/teaching/nptel/llm/2026/06/13/an-oxcaml-book-that-runs/)
-* [2026-06-12, 13:09:32](https://news.ycombinator.com/item?id=48503675) - [The ghost domain problem in DNS, and what we're doing about it](https://ohdear.app/news-and-updates/the-ghost-domain-problem-in-dns-and-what-were-doing-about-it)
 * [2026-06-12, 12:52:49](https://news.ycombinator.com/item?id=48503509) - [Factoring \"short-sleeve\" RSA keys with polynomials](https://blog.trailofbits.com/2026/06/12/factoring-short-sleeve-rsa-keys-with-polynomials/)
+* [2026-06-11, 14:07:39](https://news.ycombinator.com/item?id=48490578) - [The 90-year-old idea behind JEPA models: Canonical Correlation Analysis](https://shonczinner.github.io/posts/embedding-prediction/)
 * [2026-06-11, 13:15:45](https://news.ycombinator.com/item?id=48489934) - [Cohere's First Model for Developers](https://cohere.com/blog/north-mini-code)
 * [2026-06-11, 11:57:03](https://news.ycombinator.com/item?id=48489163) - [Show HN: Fata – Spaced repetition to fight skill rot from AI coding](https://fata.dev)
 
