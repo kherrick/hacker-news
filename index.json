@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-06-16, 00:13:34",
+      "https://news.ycombinator.com/item?id=48548883"
+    ],
+    [
+      "Reviews have become expensive, rewrites have become cheap",
+      "http://ishmeetbindra.com/posts/reviews-have-become-expensive-rewrites-have-become-cheap/"
+    ]
+  ],
+  [
+    [
       "2026-06-15, 22:37:55",
       "https://news.ycombinator.com/item?id=48547985"
     ],
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2026-06-15, 16:03:26",
-      "https://news.ycombinator.com/item?id=48543269"
-    ],
-    [
-      "Boot Naked Linux",
-      "https://nick.zoic.org/art/boot-naked-linux/"
-    ]
-  ],
-  [
-    [
       "2026-06-15, 15:13:06",
       "https://news.ycombinator.com/item?id=48542480"
     ],
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2026-06-12, 13:09:32",
-      "https://news.ycombinator.com/item?id=48503675"
-    ],
-    [
-      "The ghost domain problem in DNS, and what we're doing about it",
-      "https://ohdear.app/news-and-updates/the-ghost-domain-problem-in-dns-and-what-were-doing-about-it"
-    ]
-  ],
-  [
-    [
       "2026-06-12, 12:52:49",
       "https://news.ycombinator.com/item?id=48503509"
     ],
     [
       "Factoring \"short-sleeve\" RSA keys with polynomials",
       "https://blog.trailofbits.com/2026/06/12/factoring-short-sleeve-rsa-keys-with-polynomials/"
+    ]
+  ],
+  [
+    [
+      "2026-06-11, 14:07:39",
+      "https://news.ycombinator.com/item?id=48490578"
+    ],
+    [
+      "The 90-year-old idea behind JEPA models: Canonical Correlation Analysis",
+      "https://shonczinner.github.io/posts/embedding-prediction/"
     ]
   ],
   [
