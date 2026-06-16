@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-16, 08:52:06",
+      "https://news.ycombinator.com/item?id=48552440"
+    ],
+    [
+      "New way of making espresso with ultrasound",
+      "https://www.unsw.edu.au/newsroom/news/2026/06/New-way-making-espresso"
+    ]
+  ],
+  [
+    [
+      "2026-06-16, 07:35:27",
+      "https://news.ycombinator.com/item?id=48551876"
+    ],
+    [
+      "Understanding the rationale behind a rule when trying to circumvent it",
+      "https://devblogs.microsoft.com/oldnewthing/20260611-00/?p=112415"
+    ]
+  ],
+  [
+    [
       "2026-06-16, 04:58:15",
       "https://news.ycombinator.com/item?id=48550779"
     ],
@@ -107,16 +127,6 @@
     [
       "A backdoor in a LinkedIn job offer",
       "https://roman.pt/posts/linkedin-backdoor/"
-    ]
-  ],
-  [
-    [
-      "2026-06-15, 17:56:00",
-      "https://news.ycombinator.com/item?id=48544823"
-    ],
-    [
-      "Show HN: Veterinarian turned founder, AI lawn diagnosis",
-      "https://grassdx.com/"
     ]
   ],
   [
@@ -241,6 +251,16 @@
   ],
   [
     [
+      "2026-06-13, 22:55:39",
+      "https://news.ycombinator.com/item?id=48522316"
+    ],
+    [
+      "Getting Creative with Perlin Noise Fields",
+      "https://sighack.com/post/getting-creative-with-perlin-noise-fields"
+    ]
+  ],
+  [
+    [
       "2026-06-13, 22:01:29",
       "https://news.ycombinator.com/item?id=48521925"
     ],
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2026-06-13, 14:27:26",
-      "https://news.ycombinator.com/item?id=48517675"
+      "2026-06-12, 16:09:14",
+      "https://news.ycombinator.com/item?id=48505910"
     ],
     [
-      "The Null Is Always False (Except When It Is True) (2014)",
-      "http://daniellakens.blogspot.com/2014/06/the-null-is-always-false-except-when-it.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-12, 17:42:04",
-      "https://news.ycombinator.com/item?id=48507128"
-    ],
-    [
-      "Chili peppers of the world: cultivars, species, and heat",
-      "https://www.notesfromtheroad.com/desertmexico/chili-peppers.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-11, 14:07:39",
-      "https://news.ycombinator.com/item?id=48490578"
-    ],
-    [
-      "The 90-year-old idea behind JEPA models: Canonical Correlation Analysis",
-      "https://shonczinner.github.io/posts/embedding-prediction/"
+      "Show HN: SharkClean MCP",
+      "https://github.com/a-funk/sharkclean-mcp"
     ]
   ],
   [
