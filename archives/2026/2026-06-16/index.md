@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-06-16](index.md)
 
+* [2026-06-16, 17:54:02](https://news.ycombinator.com/item?id=48559188) - [GPT‑NL: a sovereign language model for the Netherlands](https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/)
+* [2026-06-16, 17:49:54](https://news.ycombinator.com/item?id=48559108) - [Show HN: Pen and paper resource development game with an emergent world](https://www.jameshylands.co.uk/2026/06/sortis-paper-empire-game.html)
 * [2026-06-16, 17:48:42](https://news.ycombinator.com/item?id=48559083) - [10Gb/s Ethernet: switching to a Broadcom SFP+ module](https://www.gilesthomas.com/2026/06/10g-ethernet-switching-to-broadcom-sfp-plus)
 * [2026-06-16, 17:30:30](https://news.ycombinator.com/item?id=48558766) - [Claude: Elevated errors across many models](https://status.claude.com/incidents/xmhsglsz3h3w)
 * [2026-06-16, 17:24:45](https://news.ycombinator.com/item?id=48558696) - [The octopus architecture for AI agents](https://blog.goodman.dev/blog/octopus-agent-architecture/)
 * [2026-06-16, 17:15:02](https://news.ycombinator.com/item?id=48558545) - [Gamers beware: malicious wallpapers on Steam found stealing accounts](https://securelist.com/dozens-of-malicious-wallpapers-found-on-steam-workshop/120186/)
+* [2026-06-16, 17:11:05](https://news.ycombinator.com/item?id=48558489) - [Has AI already killed self-help nonfiction books?](https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/)
 * [2026-06-16, 17:01:12](https://news.ycombinator.com/item?id=48558338) - ['Ghost jobs' could soon be illegal in New York](https://www.fastcompany.com/91558427/ghost-jobs-could-soon-be-illegal-in-new-york)
 * [2026-06-16, 17:00:59](https://news.ycombinator.com/item?id=48558337) - [Specs Augmented Reality Glasses](https://newsroom.snap.com/introducing-specs-augmented-reality-glasses)
 * [2026-06-16, 16:49:46](https://news.ycombinator.com/item?id=48558147) - [Stop Using JWTs](https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452)
@@ -16,6 +19,7 @@
 * [2026-06-16, 16:25:28](https://news.ycombinator.com/item?id=48557768) - [Making ast.walk 220x Faster](https://reflex.dev/blog/why-ast-walk-when-you-can-ast-sprint/)
 * [2026-06-16, 16:12:26](https://news.ycombinator.com/item?id=48557535) - [GateGPT: 56k tokens per second Transformer (KV cache) on FPGA at 80 MHz](https://twitter.com/fguzmanai/status/2065832668172845209)
 * [2026-06-16, 16:12:06](https://news.ycombinator.com/item?id=48557530) - [Apple's weird anti-nausea dots cured my car sickness](https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work)
+* [2026-06-16, 15:44:44](https://news.ycombinator.com/item?id=48557079) - [Calvin and Hobbes and the price of integrity](https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of)
 * [2026-06-16, 15:39:36](https://news.ycombinator.com/item?id=48556985) - [UK to require ID or face scan before you can make social media accounts](https://www.bleepingcomputer.com/news/security/uk-to-require-id-or-face-scan-before-you-can-make-social-media-accounts/)
 * [2026-06-16, 15:30:26](https://news.ycombinator.com/item?id=48556821) - [CJEU: Social networks are the 'publishers' of algorithmically-altered feeds](https://bsky.app/profile/stevepeers.bsky.social/post/3mofdspytds2l)
 * [2026-06-16, 15:27:56](https://news.ycombinator.com/item?id=48556785) - [Fable ban was never about a jailbreak](https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/)

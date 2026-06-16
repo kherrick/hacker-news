@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-06-12](index.md)
 
 * [2026-06-12, 23:12:39](https://news.ycombinator.com/item?id=48510471) - [I Think They [Anthropic] Are Lying to You [video]](https://www.youtube.com/watch?v=zfYsSFY4l18)
+* [2026-06-12, 22:59:28](https://news.ycombinator.com/item?id=48510375) - [Cooling at the Speed of Light](https://cacm.acm.org/news/cooling-at-the-speed-of-light/)
 * [2026-06-12, 22:57:27](https://news.ycombinator.com/item?id=48510357) - [AMD Stiffs Researcher $10k Bug Bounty](https://www.gadgetreview.com/amd-stiffs-researcher-10000-bug-bounty-after-critical-security-flaw-takes-124-days-to-fix)
 * [2026-06-12, 22:56:06](https://news.ycombinator.com/item?id=48510341) - [Show HN: Putt.day a daily mini golf game](https://putt.day/)
 * [2026-06-12, 22:41:33](https://news.ycombinator.com/item?id=48510230) - [DNI Gabbard Reveals Evidence of U.S. Taxpayer-Funded Global Biolab Program](https://www.dni.gov/index.php/newsroom/press-releases/press-releases-2026/4163-pr-10-26)
