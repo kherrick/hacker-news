@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-16, 21:18:36",
+      "https://news.ycombinator.com/item?id=48562274"
+    ],
+    [
+      "Total Iran Economic Damage Estimate",
+      "https://www.fdd.org/analysis/2026/04/23/total-iran-economic-damage-estimate/"
+    ]
+  ],
+  [
+    [
       "2026-06-16, 20:34:35",
       "https://news.ycombinator.com/item?id=48561654"
     ],
@@ -11,42 +21,22 @@
   ],
   [
     [
+      "2026-06-16, 20:17:42",
+      "https://news.ycombinator.com/item?id=48561410"
+    ],
+    [
+      "Show HN: cuTile Rust: Safe, data-race-free GPU kernels in Rust",
+      "https://github.com/nvlabs/cutile-rs"
+    ]
+  ],
+  [
+    [
       "2026-06-16, 20:17:04",
       "https://news.ycombinator.com/item?id=48561402"
     ],
     [
       "Frood, an Alpine Initramfs NAS (2024)",
       "https://words.filippo.io/frood/"
-    ]
-  ],
-  [
-    [
-      "2026-06-16, 20:12:05",
-      "https://news.ycombinator.com/item?id=48561332"
-    ],
-    [
-      "Nobody clicks share buttons",
-      "https://ankursethi.com/links/nobody-clicks-your-share-buttons/"
-    ]
-  ],
-  [
-    [
-      "2026-06-16, 19:45:11",
-      "https://news.ycombinator.com/item?id=48560886"
-    ],
-    [
-      "Databricks Launches LTAP: A Unified OLAP/OLTP Data Architecture",
-      "https://www.databricks.com/company/newsroom/press-releases/databricks-launches-ltap-first-lake-transactionalanalytical"
-    ]
-  ],
-  [
-    [
-      "2026-06-16, 19:42:05",
-      "https://news.ycombinator.com/item?id=48560847"
-    ],
-    [
-      "U.S. pulling ocean sensors a 'shock' for Canadian research as El Niño nears",
-      "https://www.timescolonist.com/local-news/us-pulling-ocean-sensors-a-shock-for-canadian-research-as-el-nino-nears-12422874"
     ]
   ],
   [
@@ -127,6 +117,16 @@
     [
       "Stop Using JWTs",
       "https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452"
+    ]
+  ],
+  [
+    [
+      "2026-06-16, 16:42:32",
+      "https://news.ycombinator.com/item?id=48558045"
+    ],
+    [
+      "Is Meta destroying its engineering organization?",
+      "https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering"
     ]
   ],
   [
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2026-06-16, 04:58:15",
-      "https://news.ycombinator.com/item?id=48550779"
-    ],
-    [
-      "I admire Fabrice Bellard. He is almost certainly a better overall programmer",
-      "https://twitter.com/ID_AA_Carmack/status/2064095424420487226"
-    ]
-  ],
-  [
-    [
       "2026-06-14, 08:33:22",
       "https://news.ycombinator.com/item?id=48525340"
     ],
@@ -271,6 +261,16 @@
   ],
   [
     [
+      "2026-06-13, 22:14:53",
+      "https://news.ycombinator.com/item?id=48522037"
+    ],
+    [
+      "W.H. Auden and James Schuyler in life and literature",
+      "https://hedgehogreview.com/web-features/thr/posts/companions-on-parnassus"
+    ]
+  ],
+  [
+    [
       "2026-06-13, 17:56:47",
       "https://news.ycombinator.com/item?id=48519723"
     ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=48498981"
     ],
     [
-      "ASM SHADER TOY – It's shader toy but you code in asm",
+      "ASM Shader Toy",
       "https://wegfawefgawefg.github.io/asm-shader-toy/"
     ]
   ],
