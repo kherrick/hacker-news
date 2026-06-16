@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-06-16, 02:47:57](https://news.ycombinator.com/item?id=48549918) - [Microsoft turns to AWS as GitHub faces AI capacity crunch](https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch)
+* [2026-06-16, 04:46:36](https://news.ycombinator.com/item?id=48550693) - [The time the x86 emulator team found code so bad they fixed it during emulation](https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419)
+* [2026-06-16, 04:25:57](https://news.ycombinator.com/item?id=48550569) - [Show HN: Garden of Flowers – an archive of pictorial typography before ASCII art](https://garden-of-flowers.heikkilotvonen.com/)
 * [2026-06-16, 02:00:45](https://news.ycombinator.com/item?id=48549628) - [Humanity isn't ready for the coming intelligence explosion](https://www.economist.com/by-invitation/2026/06/15/humanity-isnt-ready-for-the-coming-intelligence-explosion)
 * [2026-06-16, 00:28:14](https://news.ycombinator.com/item?id=48548975) - [Amazon Announces Multibillion-Dollar Data Center in Missouri](https://www.narracomm.com/amazon-announces-multibillion-dollar-data-center-in-missouri/)
 * [2026-06-16, 00:13:34](https://news.ycombinator.com/item?id=48548883) - [Reviews have become expensive, rewrites have become cheap](http://ishmeetbindra.com/posts/reviews-have-become-expensive-rewrites-have-become-cheap/)
@@ -12,7 +13,7 @@
 * [2026-06-15, 20:12:37](https://news.ycombinator.com/item?id=48546428) - [What job interviews taught me about Kubernetes](https://notnotp.com/notes/what-job-interviews-taught-me-about-kubernetes/)
 * [2026-06-15, 20:00:57](https://news.ycombinator.com/item?id=48546294) - [A backdoor in a LinkedIn job offer](https://roman.pt/posts/linkedin-backdoor/)
 * [2026-06-15, 17:56:00](https://news.ycombinator.com/item?id=48544823) - [Show HN: Veterinarian turned founder, AI lawn diagnosis](https://grassdx.com/)
-* [2026-06-15, 17:52:39](https://news.ycombinator.com/item?id=48544781) - [Game Engine White Papers Commander Keen](https://forgottenbytes.net/commander_keen.html)
+* [2026-06-15, 17:52:39](https://news.ycombinator.com/item?id=48544781) - [Game Engine White Papers: Commander Keen](https://forgottenbytes.net/commander_keen.html)
 * [2026-06-15, 17:41:24](https://news.ycombinator.com/item?id=48544637) - [Claude Corps](https://www.anthropic.com/news/claude-corps)
 * [2026-06-15, 17:29:17](https://news.ycombinator.com/item?id=48544451) - [How TimescaleDB compresses time-series data](https://roszigit.com/en/blog/timescaledb-compression-hypercore)
 * [2026-06-15, 16:47:21](https://news.ycombinator.com/item?id=48543908) - [Launch HN: Drafted (YC P26) – Models for residential architecture](https://news.ycombinator.com/item?id=48543908)
@@ -24,12 +25,11 @@
 * [2026-06-15, 13:19:39](https://news.ycombinator.com/item?id=48540844) - [Hetzner Price Adjustment](https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/#cloud-servers)
 * [2026-06-15, 12:50:03](https://news.ycombinator.com/item?id=48540499) - [Fox to buy Roku](https://www.wsj.com/business/deals/fox-roku-deal-f6e564f9)
 * [2026-06-15, 12:08:59](https://news.ycombinator.com/item?id=48540126) - [Salesforce to Acquire Fin (formerly Intercom) for $3.6B](https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL)
-* [2026-06-13, 22:01:29](https://news.ycombinator.com/item?id=48521925) - [What every coder should know about Gamma Correction](https://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/)
-* [2026-06-13, 13:11:04](https://news.ycombinator.com/item?id=48516964) - [An O(x)Caml book that runs](https://kcsrk.info/ocaml/oxcaml/teaching/nptel/llm/2026/06/13/an-oxcaml-book-that-runs/)
+* [2026-06-13, 22:01:29](https://news.ycombinator.com/item?id=48521925) - [What every coder should know about gamma (2016)](https://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/)
+* [2026-06-12, 18:56:42](https://news.ycombinator.com/item?id=48508069) - [Honeypot Design](https://bruceediger.com/posts/honeypot-design/)
 * [2026-06-11, 14:07:39](https://news.ycombinator.com/item?id=48490578) - [The 90-year-old idea behind JEPA models: Canonical Correlation Analysis](https://shonczinner.github.io/posts/embedding-prediction/)
 * [2026-06-11, 13:15:45](https://news.ycombinator.com/item?id=48489934) - [Cohere's First Model for Developers](https://cohere.com/blog/north-mini-code)
-* [2026-06-11, 11:57:03](https://news.ycombinator.com/item?id=48489163) - [Show HN: Fata – Spaced repetition to fight skill rot from AI coding](https://fata.dev)
-* [2026-06-10, 17:45:24](https://news.ycombinator.com/item?id=48479957) - [I Hacked into the Worst E-Bike and Fixed It [video]](https://www.youtube.com/watch?v=hPrtVGimBYs)
+* [2026-06-10, 17:45:24](https://news.ycombinator.com/item?id=48479957) - [I hacked into the worst e-bike and fixed it [video]](https://www.youtube.com/watch?v=hPrtVGimBYs)
 
 ## [Archives](archives/index.md)
 

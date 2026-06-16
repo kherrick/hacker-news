@@ -16,6 +16,7 @@
 * [2026-06-12, 20:33:22](https://news.ycombinator.com/item?id=48509133) - [/architect: Reduce Fable tokens by 80%, Fable orchestrates/reviews, Codex builds](https://github.com/DanMcInerney/architect-loop)
 * [2026-06-12, 20:14:27](https://news.ycombinator.com/item?id=48508949) - [Can I Buy Your KV Cache?](https://arxiv.org/abs/2606.13361)
 * [2026-06-12, 19:54:27](https://news.ycombinator.com/item?id=48508726) - [Swift at Apple: Migrating the TrueType Hinting Interpreter](https://www.swift.org/blog/migrating-truetype-hinting-to-swift/)
+* [2026-06-12, 18:56:42](https://news.ycombinator.com/item?id=48508069) - [Honeypot Design](https://bruceediger.com/posts/honeypot-design/)
 * [2026-06-12, 18:52:44](https://news.ycombinator.com/item?id=48508021) - [Being an old school web-based sports sim dev in the era of vibe coded games](https://zengm.com/blog/2026/06/vibecoded-games/)
 * [2026-06-12, 18:50:18](https://news.ycombinator.com/item?id=48507986) - [EV demand up 50% in France and Germany since Iran war](https://www.reuters.com/business/renault-electric-vehicle-orders-have-surged-since-start-iran-war-says-ceo-2026-06-10/)
 * [2026-06-12, 18:40:47](https://news.ycombinator.com/item?id=48507836) - [A Peter Thiel-Backed Tribunal Is Putting Journalists on Trial](https://www.hollywoodreporter.com/business/business-news/peter-thiel-tribunal-journalists-trial-1236617579/)
