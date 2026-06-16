@@ -23,6 +23,7 @@
 * [2026-06-11, 19:54:54](https://news.ycombinator.com/item?id=48495575) - [Shall we play a game? – LLMs use tactical nukes in 95% of simulations](https://www.kennethpayne.uk/p/shall-we-play-a-game)
 * [2026-06-11, 19:23:52](https://news.ycombinator.com/item?id=48495197) - [Who Runs the Ransomware Group 'The Gentlemen?'](https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/)
 * [2026-06-11, 19:14:23](https://news.ycombinator.com/item?id=48495077) - [Fudgetown, USA (2024)](https://tastecooking.com/fudgetown-usa/)
+* [2026-06-11, 19:06:18](https://news.ycombinator.com/item?id=48494959) - [Conquering Recursion (2019)](https://vector.org.uk/conquering-recursion/)
 * [2026-06-11, 18:46:22](https://news.ycombinator.com/item?id=48494716) - [Finding Optimal Tokenizers](https://blog.aqnichol.com/2026/06/10/optimal-tokenizers/)
 * [2026-06-11, 18:14:58](https://news.ycombinator.com/item?id=48494270) - [The MilkV Jupiter 2/SpacemiT K3 (RISC-V vector compute)](https://taoofmac.com/space/reviews/2026/06/11/1830)
 * [2026-06-11, 18:05:52](https://news.ycombinator.com/item?id=48494135) - [Beagle: Git, URIs and all the dirty words](https://replicated.wiki/blog/uris.html)

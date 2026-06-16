@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-06-16](index.md)
 
+* [2026-06-16, 09:30:58](https://news.ycombinator.com/item?id=48552723) - [Trinket.io shutting down, so we saved it and hosted it a trinket.strivemath.org](https://trinket.strivemath.org/)
+* [2026-06-16, 09:26:09](https://news.ycombinator.com/item?id=48552687) - [Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak](https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827)
+* [2026-06-16, 09:15:31](https://news.ycombinator.com/item?id=48552614) - [Commodore Releases Flip Phone](https://commodore.net/why-a-flip-phone/)
 * [2026-06-16, 08:52:06](https://news.ycombinator.com/item?id=48552440) - [New way of making espresso with ultrasound](https://www.unsw.edu.au/newsroom/news/2026/06/New-way-making-espresso)
 * [2026-06-16, 07:35:27](https://news.ycombinator.com/item?id=48551876) - [Understanding the rationale behind a rule when trying to circumvent it](https://devblogs.microsoft.com/oldnewthing/20260611-00/?p=112415)
 * [2026-06-16, 04:58:15](https://news.ycombinator.com/item?id=48550779) - [John Carmack on Fabrice Bellard](https://twitter.com/ID_AA_Carmack/status/2064095424420487226)
