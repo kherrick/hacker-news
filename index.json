@@ -1,11 +1,31 @@
 [
   [
     [
+      "2026-06-16, 20:34:35",
+      "https://news.ycombinator.com/item?id=48561654"
+    ],
+    [
+      "GrapheneOS has been ported to Android 17 and official releases are coming soon",
+      "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon"
+    ]
+  ],
+  [
+    [
+      "2026-06-16, 20:17:04",
+      "https://news.ycombinator.com/item?id=48561402"
+    ],
+    [
+      "Frood, an Alpine Initramfs NAS (2024)",
+      "https://words.filippo.io/frood/"
+    ]
+  ],
+  [
+    [
       "2026-06-16, 20:12:05",
       "https://news.ycombinator.com/item?id=48561332"
     ],
     [
-      "Nobody clicks your share buttons",
+      "Nobody clicks share buttons",
       "https://ankursethi.com/links/nobody-clicks-your-share-buttons/"
     ]
   ],
@@ -27,6 +47,16 @@
     [
       "U.S. pulling ocean sensors a 'shock' for Canadian research as El Niño nears",
       "https://www.timescolonist.com/local-news/us-pulling-ocean-sensors-a-shock-for-canadian-research-as-el-nino-nears-12422874"
+    ]
+  ],
+  [
+    [
+      "2026-06-16, 19:13:30",
+      "https://news.ycombinator.com/item?id=48560454"
+    ],
+    [
+      "Show HN: VoiceDraw – Talk system design out loud, the diagrams draw themselves",
+      "https://voicedraw.com/"
     ]
   ],
   [
@@ -61,12 +91,12 @@
   ],
   [
     [
-      "2026-06-16, 17:30:30",
-      "https://news.ycombinator.com/item?id=48558766"
+      "2026-06-16, 17:11:05",
+      "https://news.ycombinator.com/item?id=48558489"
     ],
     [
-      "Claude: Elevated errors across many models",
-      "https://status.claude.com/incidents/xmhsglsz3h3w"
+      "Has AI already killed self-help nonfiction books?",
+      "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/"
     ]
   ],
   [
@@ -165,7 +195,7 @@
       "https://news.ycombinator.com/item?id=48555838"
     ],
     [
-      "But yak shaving is fun",
+      "But yak shaving is fun (2019)",
       "https://parksb.github.io/en/article/32.html"
     ]
   ],
@@ -187,16 +217,6 @@
     [
       "Mechanical Watch (2022)",
       "https://ciechanow.ski/mechanical-watch/"
-    ]
-  ],
-  [
-    [
-      "2026-06-16, 11:14:38",
-      "https://news.ycombinator.com/item?id=48553450"
-    ],
-    [
-      "Unicorn – The Ultimate CPU Emulator",
-      "https://www.unicorn-engine.org/"
     ]
   ],
   [
@@ -231,26 +251,6 @@
   ],
   [
     [
-      "2026-06-16, 04:46:36",
-      "https://news.ycombinator.com/item?id=48550693"
-    ],
-    [
-      "The time the x86 emulator team found code so bad they fixed it during emulation",
-      "https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419"
-    ]
-  ],
-  [
-    [
-      "2026-06-16, 04:25:57",
-      "https://news.ycombinator.com/item?id=48550569"
-    ],
-    [
-      "Show HN: Garden of Flowers – an archive of pictorial typography before ASCII art",
-      "https://garden-of-flowers.heikkilotvonen.com/"
-    ]
-  ],
-  [
-    [
       "2026-06-14, 08:33:22",
       "https://news.ycombinator.com/item?id=48525340"
     ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2026-06-12, 22:59:28",
-      "https://news.ycombinator.com/item?id=48510375"
+      "2026-06-12, 02:04:55",
+      "https://news.ycombinator.com/item?id=48498981"
     ],
     [
-      "Cooling at the Speed of Light",
-      "https://cacm.acm.org/news/cooling-at-the-speed-of-light/"
+      "ASM SHADER TOY – It's shader toy but you code in asm",
+      "https://wegfawefgawefg.github.io/asm-shader-toy/"
     ]
   ],
   [
