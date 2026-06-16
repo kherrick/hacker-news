@@ -1,22 +1,52 @@
 [
   [
     [
+      "2026-06-16, 20:12:05",
+      "https://news.ycombinator.com/item?id=48561332"
+    ],
+    [
+      "Nobody clicks your share buttons",
+      "https://ankursethi.com/links/nobody-clicks-your-share-buttons/"
+    ]
+  ],
+  [
+    [
+      "2026-06-16, 19:45:11",
+      "https://news.ycombinator.com/item?id=48560886"
+    ],
+    [
+      "Databricks Launches LTAP: A Unified OLAP/OLTP Data Architecture",
+      "https://www.databricks.com/company/newsroom/press-releases/databricks-launches-ltap-first-lake-transactionalanalytical"
+    ]
+  ],
+  [
+    [
+      "2026-06-16, 19:42:05",
+      "https://news.ycombinator.com/item?id=48560847"
+    ],
+    [
+      "U.S. pulling ocean sensors a 'shock' for Canadian research as El Niño nears",
+      "https://www.timescolonist.com/local-news/us-pulling-ocean-sensors-a-shock-for-canadian-research-as-el-nino-nears-12422874"
+    ]
+  ],
+  [
+    [
+      "2026-06-16, 18:37:21",
+      "https://news.ycombinator.com/item?id=48559935"
+    ],
+    [
+      "Apple is about to make Hide My Email useless",
+      "https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/"
+    ]
+  ],
+  [
+    [
       "2026-06-16, 17:54:02",
       "https://news.ycombinator.com/item?id=48559188"
     ],
     [
       "GPT‑NL: a sovereign language model for the Netherlands",
       "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/"
-    ]
-  ],
-  [
-    [
-      "2026-06-16, 17:49:54",
-      "https://news.ycombinator.com/item?id=48559108"
-    ],
-    [
-      "Show HN: Pen and paper resource development game with an emergent world",
-      "https://www.jameshylands.co.uk/2026/06/sortis-paper-empire-game.html"
     ]
   ],
   [
@@ -37,26 +67,6 @@
     [
       "Claude: Elevated errors across many models",
       "https://status.claude.com/incidents/xmhsglsz3h3w"
-    ]
-  ],
-  [
-    [
-      "2026-06-16, 17:24:45",
-      "https://news.ycombinator.com/item?id=48558696"
-    ],
-    [
-      "The octopus architecture for AI agents",
-      "https://blog.goodman.dev/blog/octopus-agent-architecture/"
-    ]
-  ],
-  [
-    [
-      "2026-06-16, 17:11:05",
-      "https://news.ycombinator.com/item?id=48558489"
-    ],
-    [
-      "Has AI already killed self-help nonfiction books?",
-      "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/"
     ]
   ],
   [
@@ -87,16 +97,6 @@
     [
       "Stop Using JWTs",
       "https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452"
-    ]
-  ],
-  [
-    [
-      "2026-06-16, 16:42:32",
-      "https://news.ycombinator.com/item?id=48558045"
-    ],
-    [
-      "Why is Meta destroying its engineering organization?",
-      "https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering"
     ]
   ],
   [
@@ -137,16 +137,6 @@
     [
       "Calvin and Hobbes and the price of integrity",
       "https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of"
-    ]
-  ],
-  [
-    [
-      "2026-06-16, 15:20:05",
-      "https://news.ycombinator.com/item?id=48556644"
-    ],
-    [
-      "After AI Takes Everything",
-      "https://ursb.me/en/posts/after-ai-takes-everything/"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Show HN: Garden of Flowers – an archive of pictorial typography before ASCII art",
       "https://garden-of-flowers.heikkilotvonen.com/"
+    ]
+  ],
+  [
+    [
+      "2026-06-14, 08:33:22",
+      "https://news.ycombinator.com/item?id=48525340"
+    ],
+    [
+      "Show HN: Sabela – A Reactive Notebook for Haskell",
+      "https://sabela.datahaskell.com/"
     ]
   ],
   [
