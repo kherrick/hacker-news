@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-06-16, 00:28:14](https://news.ycombinator.com/item?id=48548975) - [Amazon Announces Multibillion-Dollar Data Center in Missouri](https://www.narracomm.com/amazon-announces-multibillion-dollar-data-center-in-missouri/)
 * [2026-06-15, 22:37:55](https://news.ycombinator.com/item?id=48547985) - [Banned Book Library in a Wi-Fi Smart Light Bulb](https://www.richardosgood.com/posts/banned-book-library/)
-* [2026-06-15, 22:00:44](https://news.ycombinator.com/item?id=48547608) - [San Francisco Weighs PG&E Takeover Amid Soaring Utility Costs](https://www.kqed.org/news/12081882/san-francisco-has-been-trying-to-leave-pge-for-100-years-will-this-time-be-different)
 * [2026-06-15, 21:57:10](https://news.ycombinator.com/item?id=48547566) - [Why I email complete strangers](https://www.goodinternetmagazine.com/why-i-email-complete-strangers/)
 * [2026-06-15, 21:10:36](https://news.ycombinator.com/item?id=48547062) - [Peopleless economy? Not technically impossible](https://gmalandrakis.com/writings/ad-economicum.html)
 * [2026-06-15, 20:28:24](https://news.ycombinator.com/item?id=48546616) - [US battery manufacturing output continues to break records](https://fred.stlouisfed.org/series/IPG33591S)
@@ -12,7 +12,6 @@
 * [2026-06-15, 17:52:39](https://news.ycombinator.com/item?id=48544781) - [Game Engine White Papers Commander Keen](https://forgottenbytes.net/commander_keen.html)
 * [2026-06-15, 17:41:24](https://news.ycombinator.com/item?id=48544637) - [Claude Corps](https://www.anthropic.com/news/claude-corps)
 * [2026-06-15, 17:29:17](https://news.ycombinator.com/item?id=48544451) - [How TimescaleDB compresses time-series data](https://roszigit.com/en/blog/timescaledb-compression-hypercore)
-* [2026-06-15, 17:24:17](https://news.ycombinator.com/item?id=48544396) - [Typst 0.15.0](https://typst.app/docs/changelog/0.15.0/)
 * [2026-06-15, 16:47:21](https://news.ycombinator.com/item?id=48543908) - [Launch HN: Drafted (YC P26) – Models for residential architecture](https://news.ycombinator.com/item?id=48543908)
 * [2026-06-15, 16:15:53](https://news.ycombinator.com/item?id=48543475) - [TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)](https://tinywind.io)
 * [2026-06-15, 16:11:02](https://news.ycombinator.com/item?id=48543392) - [How memory safety CVEs differ between Rust and C/C++](https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html)
@@ -26,9 +25,10 @@
 * [2026-06-15, 12:08:59](https://news.ycombinator.com/item?id=48540126) - [Salesforce to Acquire Fin (formerly Intercom) for $3.6B](https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL)
 * [2026-06-14, 15:52:09](https://news.ycombinator.com/item?id=48528587) - [Making glass-to-metal seals for home­made vacuum tubes](https://maurycyz.com/projects/glass/1/)
 * [2026-06-13, 22:01:29](https://news.ycombinator.com/item?id=48521925) - [What every coder should know about Gamma Correction](https://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/)
-* [2026-06-13, 19:53:41](https://news.ycombinator.com/item?id=48520793) - [Reviving an abandoned open-source project: 6 years of Atomic Calendar Revive](https://totaldebug.uk/posts/reviving-an-abandoned-open-source-project/)
 * [2026-06-13, 13:11:04](https://news.ycombinator.com/item?id=48516964) - [An O(x)Caml book that runs](https://kcsrk.info/ocaml/oxcaml/teaching/nptel/llm/2026/06/13/an-oxcaml-book-that-runs/)
+* [2026-06-12, 13:09:32](https://news.ycombinator.com/item?id=48503675) - [The ghost domain problem in DNS, and what we're doing about it](https://ohdear.app/news-and-updates/the-ghost-domain-problem-in-dns-and-what-were-doing-about-it)
 * [2026-06-12, 12:52:49](https://news.ycombinator.com/item?id=48503509) - [Factoring \"short-sleeve\" RSA keys with polynomials](https://blog.trailofbits.com/2026/06/12/factoring-short-sleeve-rsa-keys-with-polynomials/)
+* [2026-06-11, 13:15:45](https://news.ycombinator.com/item?id=48489934) - [Cohere's First Model for Developers](https://cohere.com/blog/north-mini-code)
 * [2026-06-11, 11:57:03](https://news.ycombinator.com/item?id=48489163) - [Show HN: Fata – Spaced repetition to fight skill rot from AI coding](https://fata.dev)
 
 ## [Archives](archives/index.md)

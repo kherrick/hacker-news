@@ -64,6 +64,7 @@
 * [2026-06-11, 13:29:19](https://news.ycombinator.com/item?id=48490094) - [Why Thermodynamics Rules Future Orbital Data Centers](https://spectrum.ieee.org/orbital-data-centers-heat)
 * [2026-06-11, 13:26:59](https://news.ycombinator.com/item?id=48490057) - [Workers are spending over 6 hours a week botsitting AI, fueling job frustration](https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6)
 * [2026-06-11, 13:24:29](https://news.ycombinator.com/item?id=48490024) - [Show HN: Homebrew 6.0.0](https://brew.sh/2026/06/11/homebrew-6.0.0/)
+* [2026-06-11, 13:15:45](https://news.ycombinator.com/item?id=48489934) - [Cohere's First Model for Developers](https://cohere.com/blog/north-mini-code)
 * [2026-06-11, 13:14:31](https://news.ycombinator.com/item?id=48489917) - [Open Reproduction of DeepSeek-R1](https://github.com/huggingface/open-r1)
 * [2026-06-11, 13:06:08](https://news.ycombinator.com/item?id=48489835) - [More AI-generated code doesn't make your team faster. It might slow you](https://twitter.com/awscloud/status/2064449711155589396)
 * [2026-06-11, 12:51:43](https://news.ycombinator.com/item?id=48489655) - [Core PPI up 9.6% annualized (0.8% MoM) in May](https://www.bls.gov/news.release/ppi.nr0.htm)

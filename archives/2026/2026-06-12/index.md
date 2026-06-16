@@ -58,6 +58,7 @@
 * [2026-06-12, 13:23:48](https://news.ycombinator.com/item?id=48503806) - [Prove you're human by winning a claw machine](https://feralui.vercel.app/#/captcha)
 * [2026-06-12, 13:22:59](https://news.ycombinator.com/item?id=48503796) - [The Unsung Hero of the Lord of the Rings](https://www.theculturist.io/p/the-unsung-hero-of-the-lord-of-the)
 * [2026-06-12, 13:14:18](https://news.ycombinator.com/item?id=48503717) - [Hazel (YC W24) Is Hiring a Full Stack Engineer](https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci)
+* [2026-06-12, 13:09:32](https://news.ycombinator.com/item?id=48503675) - [The ghost domain problem in DNS, and what we're doing about it](https://ohdear.app/news-and-updates/the-ghost-domain-problem-in-dns-and-what-were-doing-about-it)
 * [2026-06-12, 12:52:49](https://news.ycombinator.com/item?id=48503509) - [Factoring \"short-sleeve\" RSA keys with polynomials](https://blog.trailofbits.com/2026/06/12/factoring-short-sleeve-rsa-keys-with-polynomials/)
 * [2026-06-12, 12:22:07](https://news.ycombinator.com/item?id=48503219) - [Encrypted Spaces An architecture for collaborative applications](https://encryptedspaces.org/)
 * [2026-06-12, 12:00:02](https://news.ycombinator.com/item?id=48503014) - [Maxproof](https://arxiv.org/abs/2606.13473)
