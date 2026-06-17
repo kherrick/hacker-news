@@ -1,12 +1,52 @@
 [
   [
     [
+      "2026-06-17, 09:54:21",
+      "https://news.ycombinator.com/item?id=48568058"
+    ],
+    [
+      "U.S. Science Is in Chaos",
+      "https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/"
+    ]
+  ],
+  [
+    [
+      "2026-06-17, 09:28:36",
+      "https://news.ycombinator.com/item?id=48567877"
+    ],
+    [
+      "Show HN: High-Res Neural Cellular Automata",
+      "https://cells2pixels.github.io/"
+    ]
+  ],
+  [
+    [
+      "2026-06-17, 09:12:00",
+      "https://news.ycombinator.com/item?id=48567759"
+    ],
+    [
+      "GLM-5.2 is the new leading open weights model on Artificial Analysis",
+      "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index"
+    ]
+  ],
+  [
+    [
       "2026-06-17, 07:49:44",
       "https://news.ycombinator.com/item?id=48567155"
     ],
     [
       "Hacker News but for Independent Blogs",
       "https://bubbles.town/"
+    ]
+  ],
+  [
+    [
+      "2026-06-17, 07:30:51",
+      "https://news.ycombinator.com/item?id=48567004"
+    ],
+    [
+      "GLM 5.2 Performance Benchmarks",
+      "https://artificialanalysis.ai/models/glm-5-2"
     ]
   ],
   [
@@ -21,32 +61,12 @@
   ],
   [
     [
-      "2026-06-17, 06:59:29",
-      "https://news.ycombinator.com/item?id=48566791"
-    ],
-    [
-      "Why do commercial spaces sit vacant?",
-      "https://www.freerange.city/p/why-do-commercial-spaces-sit-vacant"
-    ]
-  ],
-  [
-    [
       "2026-06-17, 06:50:47",
       "https://news.ycombinator.com/item?id=48566727"
     ],
     [
       "From Chesterton's fence to Chesterton's gap",
       "https://stephantul.github.io/blog/unfence/"
-    ]
-  ],
-  [
-    [
-      "2026-06-17, 04:30:49",
-      "https://news.ycombinator.com/item?id=48565685"
-    ],
-    [
-      "NetNewsWire Status",
-      "https://inessential.com/2026/06/15/netnewswire-status.html"
     ]
   ],
   [
@@ -97,16 +117,6 @@
     [
       "GrapheneOS has been ported to Android 17",
       "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon"
-    ]
-  ],
-  [
-    [
-      "2026-06-16, 20:17:42",
-      "https://news.ycombinator.com/item?id=48561410"
-    ],
-    [
-      "Show HN: cuTile Rust: Safe, data-race-free GPU kernels in Rust",
-      "https://github.com/nvlabs/cutile-rs"
     ]
   ],
   [
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2026-06-16, 11:26:27",
-      "https://news.ycombinator.com/item?id=48553550"
-    ],
-    [
-      "Mechanical Watch (2022)",
-      "https://ciechanow.ski/mechanical-watch/"
-    ]
-  ],
-  [
-    [
       "2026-06-16, 10:44:24",
       "https://news.ycombinator.com/item?id=48553224"
     ],
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2026-06-14, 15:18:33",
-      "https://news.ycombinator.com/item?id=48528111"
-    ],
-    [
-      "Chameleon Ultra: a flashdrive sized NFC toolkit",
-      "https://github.com/RfidResearchGroup/ChameleonUltra"
-    ]
-  ],
-  [
-    [
       "2026-06-14, 13:55:04",
       "https://news.ycombinator.com/item?id=48527233"
     ],
@@ -271,22 +261,32 @@
   ],
   [
     [
+      "2026-06-14, 11:19:56",
+      "https://news.ycombinator.com/item?id=48526174"
+    ],
+    [
+      "Show HN: Capacitor Alarm Clock",
+      "https://github.com/ArcaEge/capacitor-alarm-clock"
+    ]
+  ],
+  [
+    [
+      "2026-06-13, 06:12:52",
+      "https://news.ycombinator.com/item?id=48513920"
+    ],
+    [
+      "Map Clustering Is Not My Favorite",
+      "https://blog.greg.technology/2026/06/12/map-clustering-is-not-my-favorite.html"
+    ]
+  ],
+  [
+    [
       "2026-06-11, 20:51:11",
       "https://news.ycombinator.com/item?id=48496233"
     ],
     [
       "Subterranean fungi networks more than 100 quadrillion km in length",
       "https://www.theguardian.com/science/2026/jun/11/arbuscular-mycorrhizal-fungi-plant-life-climate-global-mapping-study"
-    ]
-  ],
-  [
-    [
-      "2026-06-11, 19:15:29",
-      "https://news.ycombinator.com/item?id=48495090"
-    ],
-    [
-      "Working in Glass",
-      "https://www.asimov.press/p/glass"
     ]
   ],
   [
