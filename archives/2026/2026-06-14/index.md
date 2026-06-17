@@ -21,6 +21,7 @@
 * [2026-06-14, 19:25:21](https://news.ycombinator.com/item?id=48531590) - [Abandoned and Little-Known Airfields](https://airfields-freeman.com/)
 * [2026-06-14, 19:14:21](https://news.ycombinator.com/item?id=48531449) - [Chaosnet](https://tumbleweed.nu/r/lm-3/uv/amber.html)
 * [2026-06-14, 19:10:35](https://news.ycombinator.com/item?id=48531394) - [Yserver: A modern X11 server written in Rust](https://github.com/joske/yserver)
+* [2026-06-14, 18:40:09](https://news.ycombinator.com/item?id=48530974) - [Open-source React UI and D-pad focus engine for Meta Ray-Ban Display](https://glasskit.app/ui)
 * [2026-06-14, 18:29:13](https://news.ycombinator.com/item?id=48530841) - [Rome Fell and Nobody Noticed](https://friedkielbasa.substack.com/p/rome-fell-and-nobody-noticed)
 * [2026-06-14, 17:54:17](https://news.ycombinator.com/item?id=48530382) - [Show HN: Discover Wikipedia articles popular on Hacker News](https://www.orangecrumbs.com/)
 * [2026-06-14, 17:47:11](https://news.ycombinator.com/item?id=48530290) - [A clear fishing wire is tied around the island of Manhattan](https://old.reddit.com/r/Damnthatsinteresting/comments/boea4v/a_clear_fishing_wire_is_tied_around_the_island_of/)

@@ -4,9 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-06-17](index.md)
 
+* [2026-06-17, 15:23:49](https://news.ycombinator.com/item?id=48571767) - [French physicist and media star loses doctorate after plagiarism investigation](https://www.science.org/content/article/french-physicist-and-media-star-loses-doctorate-after-plagiarism-investigation)
+* [2026-06-17, 15:04:47](https://news.ycombinator.com/item?id=48571526) - [Volkswagen started blocking GrapheneOS users](https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3)
+* [2026-06-17, 14:45:09](https://news.ycombinator.com/item?id=48571266) - [Why stdx is not on crates.io](https://kerkour.com/stdx-cratesio)
 * [2026-06-17, 14:30:27](https://news.ycombinator.com/item?id=48571081) - [Epic Games announces Lore version control system](https://lore.org/)
+* [2026-06-17, 14:26:07](https://news.ycombinator.com/item?id=48571016) - [Pentagon boasts of using AI to write reports mandated by Congress (1.5mil users)](https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/)
 * [2026-06-17, 14:20:44](https://news.ycombinator.com/item?id=48570948) - [AI demands more engineering discipline. Not less](https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline)
+* [2026-06-17, 14:06:09](https://news.ycombinator.com/item?id=48570763) - [ICE Appears to Be Buying Immigrants' Tax Identifiers from a Data Broker](https://www.404media.co/ice-appears-to-be-buying-immigrants-tax-identifiers-from-a-data-broker/)
 * [2026-06-17, 13:05:03](https://news.ycombinator.com/item?id=48569954) - [Want your images back? Sure... That'll be $5!](https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars)
+* [2026-06-17, 13:00:38](https://news.ycombinator.com/item?id=48569894) - [Why thinking out loud with someone beats thinking alone](https://www.thesignalist.io/s/the-dialogue-dividend/)
 * [2026-06-17, 12:11:27](https://news.ycombinator.com/item?id=48569278) - [Sixty percent of US consumers say 'AI' in brand messaging is a turnoff](https://wpvip.com/future-of-the-web-2026/)
 * [2026-06-17, 12:04:28](https://news.ycombinator.com/item?id=48569205) - [MicroUI – A tiny, portable, immediate-mode UI library written in ANSI C](https://github.com/rxi/microui)
 * [2026-06-17, 10:51:17](https://news.ycombinator.com/item?id=48568502) - [RFC 10008: The new HTTP Query Method](https://www.rfc-editor.org/info/rfc10008/)
