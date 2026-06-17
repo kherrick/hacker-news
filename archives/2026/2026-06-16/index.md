@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-16](index.md)
 
+* [2026-06-16, 23:15:44](https://news.ycombinator.com/item?id=48563609) - [Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More](https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/)
 * [2026-06-16, 23:12:09](https://news.ycombinator.com/item?id=48563569) - [NLnet announces funding for 67 more open-source projects](https://nlnet.nl/news/2026/20260616-67-new-projects.html)
 * [2026-06-16, 22:53:34](https://news.ycombinator.com/item?id=48563394) - [Humiliating IIS servers for fun and jail time](https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/)
 * [2026-06-16, 22:15:55](https://news.ycombinator.com/item?id=48562957) - [The UK's Teen Social Media Ban Is Political Theater, Not Child Safety Policy](https://www.techdirt.com/2026/06/16/the-uks-teen-social-media-ban-is-political-theater-not-child-safety-policy/)
