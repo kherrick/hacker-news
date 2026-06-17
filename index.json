@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-17, 17:34:20",
+      "https://news.ycombinator.com/item?id=48573757"
+    ],
+    [
+      "AI chemist improves a challenging reaction in medicinal chemistry",
+      "https://openai.com/index/ai-chemist-improves-reaction/"
+    ]
+  ],
+  [
+    [
+      "2026-06-17, 17:07:32",
+      "https://news.ycombinator.com/item?id=48573332"
+    ],
+    [
+      "Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society",
+      "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/"
+    ]
+  ],
+  [
+    [
       "2026-06-17, 17:00:02",
       "https://news.ycombinator.com/item?id=48573221"
     ],
@@ -31,6 +51,16 @@
   ],
   [
     [
+      "2026-06-17, 15:29:01",
+      "https://news.ycombinator.com/item?id=48571851"
+    ],
+    [
+      "TREX: An AI code reviewer that runs your code",
+      "https://www.greptile.com/blog/trex-code-execution"
+    ]
+  ],
+  [
+    [
       "2026-06-17, 15:26:29",
       "https://news.ycombinator.com/item?id=48571811"
     ],
@@ -51,32 +81,12 @@
   ],
   [
     [
-      "2026-06-17, 15:15:34",
-      "https://news.ycombinator.com/item?id=48571660"
-    ],
-    [
-      "Anthropic employees accuse Trump administration of targeting them",
-      "https://www.nytimes.com/2026/06/17/technology/anthropic-trump-administration-fable.html"
-    ]
-  ],
-  [
-    [
       "2026-06-17, 15:04:47",
       "https://news.ycombinator.com/item?id=48571526"
     ],
     [
       "Volkswagen started blocking GrapheneOS users",
       "https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3"
-    ]
-  ],
-  [
-    [
-      "2026-06-17, 14:45:09",
-      "https://news.ycombinator.com/item?id=48571266"
-    ],
-    [
-      "Why stdx is not on crates.io",
-      "https://kerkour.com/stdx-cratesio"
     ]
   ],
   [
@@ -151,6 +161,16 @@
   ],
   [
     [
+      "2026-06-17, 09:54:21",
+      "https://news.ycombinator.com/item?id=48568058"
+    ],
+    [
+      "U.S. science is in chaos",
+      "https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/"
+    ]
+  ],
+  [
+    [
       "2026-06-17, 09:28:36",
       "https://news.ycombinator.com/item?id=48567877"
     ],
@@ -175,18 +195,28 @@
       "https://news.ycombinator.com/item?id=48567155"
     ],
     [
-      "Hacker News but for Independent Blogs",
+      "Hacker News but for independent blogs",
       "https://bubbles.town/"
     ]
   ],
   [
     [
-      "2026-06-17, 07:30:51",
-      "https://news.ycombinator.com/item?id=48567004"
+      "2026-06-17, 07:04:42",
+      "https://news.ycombinator.com/item?id=48566832"
     ],
     [
-      "GLM 5.2 Performance Benchmarks",
-      "https://artificialanalysis.ai/models/glm-5-2"
+      "The founder's playbook: Building an AI-native startup",
+      "https://claude.com/blog/the-founders-playbook"
+    ]
+  ],
+  [
+    [
+      "2026-06-17, 06:59:29",
+      "https://news.ycombinator.com/item?id=48566791"
+    ],
+    [
+      "Why do commercial spaces sit vacant? (2025)",
+      "https://www.freerange.city/p/why-do-commercial-spaces-sit-vacant"
     ]
   ],
   [
@@ -201,22 +231,22 @@
   ],
   [
     [
-      "2026-06-16, 20:34:35",
-      "https://news.ycombinator.com/item?id=48561654"
+      "2026-06-16, 15:15:01",
+      "https://news.ycombinator.com/item?id=48556561"
     ],
     [
-      "GrapheneOS has been ported to Android 17",
-      "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon"
+      "How we run Firecracker VMs inside EC2 and start browsers in less than 1s",
+      "https://browser-use.com/posts/firecracker-browser-infra"
     ]
   ],
   [
     [
-      "2026-06-16, 14:36:57",
-      "https://news.ycombinator.com/item?id=48555993"
+      "2026-06-15, 17:12:33",
+      "https://news.ycombinator.com/item?id=48544250"
     ],
     [
-      "Running local models is good now",
-      "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/"
+      "Seventeen Camels and Where They Can Take You",
+      "https://mathenchant.wordpress.com/2026/06/15/seventeen-camels-and-where-they-can-take-you/"
     ]
   ],
   [
@@ -231,32 +261,22 @@
   ],
   [
     [
+      "2026-06-14, 21:41:56",
+      "https://news.ycombinator.com/item?id=48533098"
+    ],
+    [
+      "Kirkland Roundabouts",
+      "https://kirklandroundabouts.com"
+    ]
+  ],
+  [
+    [
       "2026-06-14, 19:25:21",
       "https://news.ycombinator.com/item?id=48531590"
     ],
     [
       "Abandoned and Little-Known Airfields",
       "https://airfields-freeman.com/"
-    ]
-  ],
-  [
-    [
-      "2026-06-14, 18:40:09",
-      "https://news.ycombinator.com/item?id=48530974"
-    ],
-    [
-      "Open-source React UI and D-pad focus engine for Meta Ray-Ban Display",
-      "https://glasskit.app/ui"
-    ]
-  ],
-  [
-    [
-      "2026-06-14, 11:19:56",
-      "https://news.ycombinator.com/item?id=48526174"
-    ],
-    [
-      "Show HN: Capacitor Alarm Clock",
-      "https://github.com/ArcaEge/capacitor-alarm-clock"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Image Compression",
       "https://www.makingsoftware.com/chapters/image-compression"
-    ]
-  ],
-  [
-    [
-      "2026-06-13, 06:12:52",
-      "https://news.ycombinator.com/item?id=48513920"
-    ],
-    [
-      "Map Clustering Is Not My Favorite",
-      "https://blog.greg.technology/2026/06/12/map-clustering-is-not-my-favorite.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-09, 17:03:33",
-      "https://news.ycombinator.com/item?id=48463894"
-    ],
-    [
-      "The Rise and (Potential) Fall of Letterboxd",
-      "https://www.statsignificant.com/p/the-rise-and-potential-fall-of-letterboxd"
     ]
   ]
 ]
