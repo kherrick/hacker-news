@@ -4,7 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-06-17](index.md)
 
+* [2026-06-17, 21:49:03](https://news.ycombinator.com/item?id=48577374) - [Storied Colors – a catalogue of named colors](https://storiedcolors.com/)
+* [2026-06-17, 21:35:27](https://news.ycombinator.com/item?id=48577246) - [Why Can't Walnut Creek Build 3 Bedroom Apartments with a Playground?](https://kevin.burke.dev/kevin/walnut-creek-single-stair/)
+* [2026-06-17, 21:31:35](https://news.ycombinator.com/item?id=48577208) - [Leaked financial docs show OpenAI is losing billions of dollars a year](https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/)
+* [2026-06-17, 21:00:53](https://news.ycombinator.com/item?id=48576838) - [Tesco moving 40k server workloads off VMware amid Broadcom's abusive conduct](https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/)
 * [2026-06-17, 21:00:07](https://news.ycombinator.com/item?id=48576824) - [A Robot Is Sprinting Towards You: Do You Want It Running on Claude or Grok?](https://openrouter.ai/blog/insights/royale-last-agent-standing/)
+* [2026-06-17, 20:29:15](https://news.ycombinator.com/item?id=48576395) - [Loreline – Tools for writing interactive fiction](https://loreline.app/en/)
+* [2026-06-17, 20:23:00](https://news.ycombinator.com/item?id=48576307) - [Apple Intelligence may become mandatory in iOS and macOS 27](https://manualdousuario.net/en/apple-intelligence-mandatory-ios-macos-27/)
 * [2026-06-17, 20:07:47](https://news.ycombinator.com/item?id=48576113) - [Krugman: Musk, a Human Ponzi Scheme](https://paulkrugman.substack.com/p/elon-musk-human-ponzi-scheme)
 * [2026-06-17, 19:50:11](https://news.ycombinator.com/item?id=48575878) - [Made a free macOS menu bar app that fixes typing in the wrong keyboard layout](https://flickey.site)
 * [2026-06-17, 19:22:02](https://news.ycombinator.com/item?id=48575451) - [The hacker sent by Anthropic to calm the government's nerves about AI safety](https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas-carlini-20bceaa3)
