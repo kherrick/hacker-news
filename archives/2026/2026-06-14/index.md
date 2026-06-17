@@ -78,3 +78,4 @@
 * [2026-06-14, 00:59:08](https://news.ycombinator.com/item?id=48523126) - [The Manhoff Archives: Color photos of Stalin-era USSR taken by a US diplomat](https://www.rferl.org/a/the-manhoff-archive/28359558.html)
 * [2026-06-14, 00:59:08](https://news.ycombinator.com/item?id=48523126) - [Color Photos of Stalin-Era Soviet Union Taken by a US Diplomat](https://rarehistoricalphotos.com/stalin-era-soviet-union-pictures-martin-manhoff/)
 * [2026-06-14, 00:49:46](https://news.ycombinator.com/item?id=48523080) - [10th Gen Honda Civic Updates Are Signed with AOSP Test Keys](https://juniperspring.org/posts/honda-evil-valet/)
+* [2026-06-14, 00:26:02](https://news.ycombinator.com/item?id=48522927) - [Image Compression](https://www.makingsoftware.com/chapters/image-compression)

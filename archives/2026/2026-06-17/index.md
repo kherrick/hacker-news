@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-06-17](index.md)
 
+* [2026-06-17, 13:05:03](https://news.ycombinator.com/item?id=48569954) - [Want your images back? Sure... That'll be $5!](https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars)
+* [2026-06-17, 12:11:27](https://news.ycombinator.com/item?id=48569278) - [Sixty percent of US consumers say 'AI' in brand messaging is a turnoff](https://wpvip.com/future-of-the-web-2026/)
+* [2026-06-17, 12:04:28](https://news.ycombinator.com/item?id=48569205) - [MicroUI – A tiny, portable, immediate-mode UI library written in ANSI C](https://github.com/rxi/microui)
 * [2026-06-17, 10:51:17](https://news.ycombinator.com/item?id=48568502) - [RFC 10008: The new HTTP Query Method](https://www.rfc-editor.org/info/rfc10008/)
 * [2026-06-17, 09:54:21](https://news.ycombinator.com/item?id=48568058) - [U.S. Science Is in Chaos](https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/)
+* [2026-06-17, 09:48:59](https://news.ycombinator.com/item?id=48568023) - [Show HN: I built 184 free browser tools – PDF, image, dev, AI tasks, no upload](https://brevio.pro)
 * [2026-06-17, 09:28:36](https://news.ycombinator.com/item?id=48567877) - [Show HN: High-Res Neural Cellular Automata](https://cells2pixels.github.io/)
 * [2026-06-17, 09:12:00](https://news.ycombinator.com/item?id=48567759) - [GLM-5.2 is the new leading open weights model on Artificial Analysis](https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index)
 * [2026-06-17, 07:49:44](https://news.ycombinator.com/item?id=48567155) - [Hacker News but for Independent Blogs](https://bubbles.town/)
