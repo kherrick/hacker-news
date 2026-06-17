@@ -51,6 +51,7 @@
 * [2026-06-15, 07:00:22](https://news.ycombinator.com/item?id=48537556) - [Dalus (YC W25) Is Hiring a Senior Software Engineer in Germany](https://www.ycombinator.com/companies/dalus/jobs/5IDmKJt-senior-software-frontend-engineer-germany-office)
 * [2026-06-15, 06:52:21](https://news.ycombinator.com/item?id=48537512) - [Successful Psilocybin Treatment of Alzheimer](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1813281/full)
 * [2026-06-15, 06:02:57](https://news.ycombinator.com/item?id=48537165) - [Curl will not accept vulnerability reports during July 2026](https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/)
+* [2026-06-15, 04:58:15](https://news.ycombinator.com/item?id=48536796) - [Demystifying Noise Contrastive Estimation](https://jxmo.io/posts/nce)
 * [2026-06-15, 04:55:34](https://news.ycombinator.com/item?id=48536776) - [Apple Foundation Models](https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models)
 * [2026-06-15, 04:37:42](https://news.ycombinator.com/item?id=48536660) - [A brief tour of the PDP-11, the most influential minicomputer of all time (2022)](https://arstechnica.com/gadgets/2022/03/a-brief-tour-of-the-pdp-11-the-most-influential-minicomputer-of-all-time/)
 * [2026-06-15, 02:30:25](https://news.ycombinator.com/item?id=48535886) - [Even More Batteries Included with Emacs](https://karthinks.com/software/even-more-batteries-included-with-emacs/)
