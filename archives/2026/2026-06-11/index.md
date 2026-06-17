@@ -17,6 +17,7 @@
 * [2026-06-11, 20:56:30](https://news.ycombinator.com/item?id=48496290) - [Bitsy](https://bitsy.org/)
 * [2026-06-11, 20:55:18](https://news.ycombinator.com/item?id=48496278) - [Trying to fix complicated problems](https://blog.griffens.net/blog/trying-to-fix-complicated-problems/)
 * [2026-06-11, 20:52:26](https://news.ycombinator.com/item?id=48496250) - [Show HN: Boo – screen-style terminal multiplexer built on libghostty](https://github.com/coder/boo)
+* [2026-06-11, 20:51:11](https://news.ycombinator.com/item?id=48496233) - [Subterranean fungi networks more than 100 quadrillion km in length](https://www.theguardian.com/science/2026/jun/11/arbuscular-mycorrhizal-fungi-plant-life-climate-global-mapping-study)
 * [2026-06-11, 20:43:32](https://news.ycombinator.com/item?id=48496156) - [Cooling in Space](https://guille.site/posts/space-cooling/)
 * [2026-06-11, 20:24:18](https://news.ycombinator.com/item?id=48495928) - [Malware developers added nuclear and biological weapons text to to their spyware](https://twitter.com/jsrailton/status/2064661778978533571)
 * [2026-06-11, 20:14:33](https://news.ycombinator.com/item?id=48495818) - [I stopped tracking my time. Now I can't focus](https://newsletter.masilotti.com/p/i-stopped-tracking-my-time-now-i)
