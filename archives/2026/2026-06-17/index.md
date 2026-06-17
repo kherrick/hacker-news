@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-17](index.md)
 
+* [2026-06-17, 14:30:27](https://news.ycombinator.com/item?id=48571081) - [Epic Games announces Lore version control system](https://lore.org/)
+* [2026-06-17, 14:20:44](https://news.ycombinator.com/item?id=48570948) - [AI demands more engineering discipline. Not less](https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline)
 * [2026-06-17, 13:05:03](https://news.ycombinator.com/item?id=48569954) - [Want your images back? Sure... That'll be $5!](https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars)
 * [2026-06-17, 12:11:27](https://news.ycombinator.com/item?id=48569278) - [Sixty percent of US consumers say 'AI' in brand messaging is a turnoff](https://wpvip.com/future-of-the-web-2026/)
 * [2026-06-17, 12:04:28](https://news.ycombinator.com/item?id=48569205) - [MicroUI – A tiny, portable, immediate-mode UI library written in ANSI C](https://github.com/rxi/microui)
