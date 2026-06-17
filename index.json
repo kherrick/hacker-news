@@ -1,12 +1,62 @@
 [
   [
     [
+      "2026-06-17, 17:00:02",
+      "https://news.ycombinator.com/item?id=48573221"
+    ],
+    [
+      "Trellis AI (YC W24)  hiring a product lead to build agents for healthcare access",
+      "https://www.ycombinator.com/companies/trellis-ai/jobs/Cg94htp-product-lead"
+    ]
+  ],
+  [
+    [
+      "2026-06-17, 16:44:15",
+      "https://news.ycombinator.com/item?id=48573012"
+    ],
+    [
+      "Show HN: An 8-bit live gamecast for baseball",
+      "https://ribbie.tv/watch"
+    ]
+  ],
+  [
+    [
+      "2026-06-17, 16:14:04",
+      "https://news.ycombinator.com/item?id=48572553"
+    ],
+    [
+      "Launch HN: Adam (YC W25) – Open-Source AI CAD",
+      "https://github.com/Adam-CAD/CADAM"
+    ]
+  ],
+  [
+    [
+      "2026-06-17, 15:26:29",
+      "https://news.ycombinator.com/item?id=48571811"
+    ],
+    [
+      "Agentic coding deserves more than a chat box bolted onto VS Code",
+      "https://github.com/evanklem/polypore"
+    ]
+  ],
+  [
+    [
       "2026-06-17, 15:23:49",
       "https://news.ycombinator.com/item?id=48571767"
     ],
     [
       "French physicist and media star loses doctorate after plagiarism investigation",
       "https://www.science.org/content/article/french-physicist-and-media-star-loses-doctorate-after-plagiarism-investigation"
+    ]
+  ],
+  [
+    [
+      "2026-06-17, 15:15:34",
+      "https://news.ycombinator.com/item?id=48571660"
+    ],
+    [
+      "Anthropic employees accuse Trump administration of targeting them",
+      "https://www.nytimes.com/2026/06/17/technology/anthropic-trump-administration-fable.html"
     ]
   ],
   [
@@ -41,16 +91,6 @@
   ],
   [
     [
-      "2026-06-17, 14:26:07",
-      "https://news.ycombinator.com/item?id=48571016"
-    ],
-    [
-      "Pentagon boasts of using AI to write reports mandated by Congress (1.5mil users)",
-      "https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/"
-    ]
-  ],
-  [
-    [
       "2026-06-17, 14:20:44",
       "https://news.ycombinator.com/item?id=48570948"
     ],
@@ -61,21 +101,11 @@
   ],
   [
     [
-      "2026-06-17, 14:06:09",
-      "https://news.ycombinator.com/item?id=48570763"
-    ],
-    [
-      "ICE Appears to Be Buying Immigrants' Tax Identifiers from a Data Broker",
-      "https://www.404media.co/ice-appears-to-be-buying-immigrants-tax-identifiers-from-a-data-broker/"
-    ]
-  ],
-  [
-    [
       "2026-06-17, 13:05:03",
       "https://news.ycombinator.com/item?id=48569954"
     ],
     [
-      "Want your images back? Sure... That'll be $5!",
+      "Want your images back? That'll be $5",
       "https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars"
     ]
   ],
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2026-06-17, 09:48:59",
-      "https://news.ycombinator.com/item?id=48568023"
-    ],
-    [
-      "Show HN: I built 184 free browser tools – PDF, image, dev, AI tasks, no upload",
-      "https://brevio.pro"
-    ]
-  ],
-  [
-    [
       "2026-06-17, 09:28:36",
       "https://news.ycombinator.com/item?id=48567877"
     ],
@@ -171,12 +191,12 @@
   ],
   [
     [
-      "2026-06-16, 22:53:34",
-      "https://news.ycombinator.com/item?id=48563394"
+      "2026-06-17, 03:55:16",
+      "https://news.ycombinator.com/item?id=48565498"
     ],
     [
-      "Humiliating IIS servers for fun and jail time",
-      "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/"
+      "US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",
+      "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/"
     ]
   ],
   [
@@ -191,32 +211,22 @@
   ],
   [
     [
-      "2026-06-16, 17:11:05",
-      "https://news.ycombinator.com/item?id=48558489"
-    ],
-    [
-      "Has AI already killed self-help nonfiction books?",
-      "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/"
-    ]
-  ],
-  [
-    [
-      "2026-06-16, 16:40:58",
-      "https://news.ycombinator.com/item?id=48558018"
-    ],
-    [
-      "TIL: You can make HTTP requests without curl using Bash /dev/TCP",
-      "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/"
-    ]
-  ],
-  [
-    [
       "2026-06-16, 14:36:57",
       "https://news.ycombinator.com/item?id=48555993"
     ],
     [
       "Running local models is good now",
       "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/"
+    ]
+  ],
+  [
+    [
+      "2026-06-15, 12:40:31",
+      "https://news.ycombinator.com/item?id=48540396"
+    ],
+    [
+      "Show HN: Deconvolution – a Rust image deconvolution and restoration crate",
+      "https://github.com/pbkx/deconvolution"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Map Clustering Is Not My Favorite",
       "https://blog.greg.technology/2026/06/12/map-clustering-is-not-my-favorite.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-11, 20:51:11",
-      "https://news.ycombinator.com/item?id=48496233"
-    ],
-    [
-      "Subterranean fungi networks more than 100 quadrillion km in length",
-      "https://www.theguardian.com/science/2026/jun/11/arbuscular-mycorrhizal-fungi-plant-life-climate-global-mapping-study"
     ]
   ],
   [
