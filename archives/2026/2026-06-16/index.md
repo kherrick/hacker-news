@@ -37,6 +37,7 @@
 * [2026-06-16, 15:30:26](https://news.ycombinator.com/item?id=48556821) - [CJEU: Social networks are the 'publishers' of algorithmically-altered feeds](https://bsky.app/profile/stevepeers.bsky.social/post/3mofdspytds2l)
 * [2026-06-16, 15:27:56](https://news.ycombinator.com/item?id=48556785) - [Fable ban was never about a jailbreak](https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/)
 * [2026-06-16, 15:20:05](https://news.ycombinator.com/item?id=48556644) - [After AI Takes Everything](https://ursb.me/en/posts/after-ai-takes-everything/)
+* [2026-06-16, 15:15:01](https://news.ycombinator.com/item?id=48556561) - [How we run Firecracker VMs inside EC2 and start browsers in less than 1s](https://browser-use.com/posts/firecracker-browser-infra)
 * [2026-06-16, 15:05:09](https://news.ycombinator.com/item?id=48556414) - [Google Chrome's Next Update Will Mark the End of Popular Ad Blockers](https://tech.slashdot.org/story/26/06/15/205219/google-chromes-next-update-will-mark-the-end-of-popular-ad-blockers)
 * [2026-06-16, 14:50:10](https://news.ycombinator.com/item?id=48556163) - [Subquadratic – Introducing SubQ 1.1 Small](https://subq.ai/subq-1-1-small-technical-report)
 * [2026-06-16, 14:36:57](https://news.ycombinator.com/item?id=48555993) - [Running local models is good now](https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/)

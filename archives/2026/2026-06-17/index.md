@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-06-17](index.md)
 
+* [2026-06-17, 17:34:20](https://news.ycombinator.com/item?id=48573757) - [AI chemist improves a challenging reaction in medicinal chemistry](https://openai.com/index/ai-chemist-improves-reaction/)
+* [2026-06-17, 17:07:32](https://news.ycombinator.com/item?id=48573332) - [Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society](https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/)
 * [2026-06-17, 17:00:02](https://news.ycombinator.com/item?id=48573221) - [Trellis AI (YC W24)  hiring a product lead to build agents for healthcare access](https://www.ycombinator.com/companies/trellis-ai/jobs/Cg94htp-product-lead)
 * [2026-06-17, 16:44:15](https://news.ycombinator.com/item?id=48573012) - [Show HN: An 8-bit live gamecast for baseball](https://ribbie.tv/watch)
 * [2026-06-17, 16:14:04](https://news.ycombinator.com/item?id=48572553) - [Launch HN: Adam (YC W25) – Open-Source AI CAD](https://github.com/Adam-CAD/CADAM)
+* [2026-06-17, 15:29:01](https://news.ycombinator.com/item?id=48571851) - [TREX: An AI code reviewer that runs your code](https://www.greptile.com/blog/trex-code-execution)
 * [2026-06-17, 15:26:29](https://news.ycombinator.com/item?id=48571811) - [Agentic coding deserves more than a chat box bolted onto VS Code](https://github.com/evanklem/polypore)
 * [2026-06-17, 15:23:49](https://news.ycombinator.com/item?id=48571767) - [French physicist and media star loses doctorate after plagiarism investigation](https://www.science.org/content/article/french-physicist-and-media-star-loses-doctorate-after-plagiarism-investigation)
 * [2026-06-17, 15:15:34](https://news.ycombinator.com/item?id=48571660) - [Anthropic employees accuse Trump administration of targeting them](https://www.nytimes.com/2026/06/17/technology/anthropic-trump-administration-fable.html)
