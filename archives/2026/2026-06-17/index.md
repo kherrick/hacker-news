@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-06-17](index.md)
 
+* [2026-06-17, 17:00:02](https://news.ycombinator.com/item?id=48573221) - [Trellis AI (YC W24)  hiring a product lead to build agents for healthcare access](https://www.ycombinator.com/companies/trellis-ai/jobs/Cg94htp-product-lead)
+* [2026-06-17, 16:44:15](https://news.ycombinator.com/item?id=48573012) - [Show HN: An 8-bit live gamecast for baseball](https://ribbie.tv/watch)
+* [2026-06-17, 16:14:04](https://news.ycombinator.com/item?id=48572553) - [Launch HN: Adam (YC W25) – Open-Source AI CAD](https://github.com/Adam-CAD/CADAM)
+* [2026-06-17, 15:26:29](https://news.ycombinator.com/item?id=48571811) - [Agentic coding deserves more than a chat box bolted onto VS Code](https://github.com/evanklem/polypore)
 * [2026-06-17, 15:23:49](https://news.ycombinator.com/item?id=48571767) - [French physicist and media star loses doctorate after plagiarism investigation](https://www.science.org/content/article/french-physicist-and-media-star-loses-doctorate-after-plagiarism-investigation)
+* [2026-06-17, 15:15:34](https://news.ycombinator.com/item?id=48571660) - [Anthropic employees accuse Trump administration of targeting them](https://www.nytimes.com/2026/06/17/technology/anthropic-trump-administration-fable.html)
 * [2026-06-17, 15:04:47](https://news.ycombinator.com/item?id=48571526) - [Volkswagen started blocking GrapheneOS users](https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3)
 * [2026-06-17, 14:45:09](https://news.ycombinator.com/item?id=48571266) - [Why stdx is not on crates.io](https://kerkour.com/stdx-cratesio)
 * [2026-06-17, 14:30:27](https://news.ycombinator.com/item?id=48571081) - [Epic Games announces Lore version control system](https://lore.org/)
@@ -26,6 +31,7 @@
 * [2026-06-17, 06:59:29](https://news.ycombinator.com/item?id=48566791) - [Why do commercial spaces sit vacant?](https://www.freerange.city/p/why-do-commercial-spaces-sit-vacant)
 * [2026-06-17, 06:50:47](https://news.ycombinator.com/item?id=48566727) - [From Chesterton's fence to Chesterton's gap](https://stephantul.github.io/blog/unfence/)
 * [2026-06-17, 04:30:49](https://news.ycombinator.com/item?id=48565685) - [NetNewsWire Status](https://inessential.com/2026/06/15/netnewswire-status.html)
+* [2026-06-17, 03:55:16](https://news.ycombinator.com/item?id=48565498) - [US holds off blacklisting DeepSeek, more than 100 firms deemed security risks](https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/)
 * [2026-06-17, 03:25:51](https://news.ycombinator.com/item?id=48565326) - [Semiclassical Gravity Efficiently Solves NP-Complete Problems](https://arxiv.org/abs/2606.14806)
 * [2026-06-17, 02:47:29](https://news.ycombinator.com/item?id=48565130) - [Leaked OpenAI financials show $38.5B loss and compute burn](https://runtimewire.com/article/openai-leaked-financials-altman-compute-burn)
 * [2026-06-17, 01:40:22](https://news.ycombinator.com/item?id=48564696) - [Stop Killing Games fails to secure EU law despite 1.3M signatures](https://www.dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431/)
