@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-06-17](index.md)
 
 * [2026-06-17, 17:34:20](https://news.ycombinator.com/item?id=48573757) - [AI chemist improves a challenging reaction in medicinal chemistry](https://openai.com/index/ai-chemist-improves-reaction/)
+* [2026-06-17, 17:14:21](https://news.ycombinator.com/item?id=48573435) - [The Competitive Moat That AI Can't Replicate](https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/)
 * [2026-06-17, 17:07:32](https://news.ycombinator.com/item?id=48573332) - [Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society](https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/)
 * [2026-06-17, 17:00:02](https://news.ycombinator.com/item?id=48573221) - [Trellis AI (YC W24)  hiring a product lead to build agents for healthcare access](https://www.ycombinator.com/companies/trellis-ai/jobs/Cg94htp-product-lead)
 * [2026-06-17, 16:44:15](https://news.ycombinator.com/item?id=48573012) - [Show HN: An 8-bit live gamecast for baseball](https://ribbie.tv/watch)

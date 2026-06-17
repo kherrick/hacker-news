@@ -26,6 +26,7 @@
 * [2026-06-14, 17:54:17](https://news.ycombinator.com/item?id=48530382) - [Show HN: Discover Wikipedia articles popular on Hacker News](https://www.orangecrumbs.com/)
 * [2026-06-14, 17:47:11](https://news.ycombinator.com/item?id=48530290) - [A clear fishing wire is tied around the island of Manhattan](https://old.reddit.com/r/Damnthatsinteresting/comments/boea4v/a_clear_fishing_wire_is_tied_around_the_island_of/)
 * [2026-06-14, 17:25:38](https://news.ycombinator.com/item?id=48529990) - [Show HN: Kage – Shadow any website to a single binary for offline viewing](https://github.com/tamnd/kage)
+* [2026-06-14, 17:21:40](https://news.ycombinator.com/item?id=48529923) - [The Capitoline Wolf](https://thehappytraveler.ca/travel-guide-italy/capitoline-wolf-siena-rome-myths/)
 * [2026-06-14, 17:02:16](https://news.ycombinator.com/item?id=48529645) - [Dillo directory – Directory of useful sites that work reasonably well on Dillo](https://dir.dillo-browser.org/)
 * [2026-06-14, 16:31:27](https://news.ycombinator.com/item?id=48529190) - [FTX's former Anthropic stake would be worth about $75B at today's valuation](https://news.ycombinator.com/item?id=48529190)
 * [2026-06-14, 16:28:54](https://news.ycombinator.com/item?id=48529149) - [Swiss voters reject proposal to cap population at ten million](https://www.swissinfo.ch/eng/swiss-politics/swiss-voters-reject-proposal-to-cap-population-at-ten-million/91548146)
