@@ -26,8 +26,8 @@
 * [2026-06-17, 03:55:16](https://news.ycombinator.com/item?id=48565498) - [US holds off blacklisting DeepSeek, more than 100 firms deemed security risks](https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/)
 * [2026-06-16, 15:15:01](https://news.ycombinator.com/item?id=48556561) - [How we run Firecracker VMs inside EC2 and start browsers in less than 1s](https://browser-use.com/posts/firecracker-browser-infra)
 * [2026-06-16, 05:49:51](https://news.ycombinator.com/item?id=48551069) - [The Return of Rigorous Full-System Timing Simulation](https://www.sigarch.org/the-return-of-rigorous-full-system-timing-simulation/)
+* [2026-06-15, 14:55:12](https://news.ycombinator.com/item?id=48542200) - [Gliderboy Reinvents Humble Weather Balloon with Flight Home](https://www.bloomberg.com/news/newsletters/2026-06-15/-gliderboy-reinvents-weather-balloon-with-return-flight-home)
 * [2026-06-14, 21:41:56](https://news.ycombinator.com/item?id=48533098) - [Kirkland Roundabouts](https://kirklandroundabouts.com)
-* [2026-06-14, 18:18:04](https://news.ycombinator.com/item?id=48530685) - [A World of First Drafts](https://leejo.github.io/2026/06/14/first_drafts/)
 * [2026-06-14, 02:14:43](https://news.ycombinator.com/item?id=48523534) - [Show HN: Inkwash, a watercolor sketching app and explanation](https://johnowhitaker.github.io/inkwash/about)
 * [2026-06-14, 00:26:02](https://news.ycombinator.com/item?id=48522927) - [Image Compression](https://www.makingsoftware.com/chapters/image-compression)
 

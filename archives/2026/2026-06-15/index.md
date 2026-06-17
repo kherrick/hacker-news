@@ -35,6 +35,7 @@
 * [2026-06-15, 15:13:06](https://news.ycombinator.com/item?id=48542480) - [Iroh 1.0](https://www.iroh.computer/blog/v1)
 * [2026-06-15, 15:09:40](https://news.ycombinator.com/item?id=48542433) - [My Homelab AI Dev Platform](https://rsgm.dev/post/ai-dev-platform/)
 * [2026-06-15, 14:55:50](https://news.ycombinator.com/item?id=48542209) - [Fox Is Buying Roku](https://www.fastcompany.com/91559558/fox-corp-buying-roku-stock-prices-fall-on-tv-streaming-merger)
+* [2026-06-15, 14:55:12](https://news.ycombinator.com/item?id=48542200) - [Gliderboy Reinvents Humble Weather Balloon with Flight Home](https://www.bloomberg.com/news/newsletters/2026-06-15/-gliderboy-reinvents-weather-balloon-with-return-flight-home)
 * [2026-06-15, 14:48:47](https://news.ycombinator.com/item?id=48542132) - [Copper transport drug restores memory and clears toxic Alzheimer's proteins](https://www.monash.edu/news/articles/copper-drug-restores-memory-and-clears-toxic-alzheimers-proteins)
 * [2026-06-15, 14:46:53](https://news.ycombinator.com/item?id=48542100) - [Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?](https://news.ycombinator.com/item?id=48542100)
 * [2026-06-15, 14:44:02](https://news.ycombinator.com/item?id=48542064) - [Hetzner increased dedicated server prices 3-4x](https://news.ycombinator.com/item?id=48542064)
