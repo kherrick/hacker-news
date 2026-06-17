@@ -23,6 +23,7 @@
 * [2026-06-11, 20:08:26](https://news.ycombinator.com/item?id=48495751) - [Travel Locally, Where You Are](https://www.ssp.sh/brain/travel-where-you-are/)
 * [2026-06-11, 19:54:54](https://news.ycombinator.com/item?id=48495575) - [Shall we play a game? – LLMs use tactical nukes in 95% of simulations](https://www.kennethpayne.uk/p/shall-we-play-a-game)
 * [2026-06-11, 19:23:52](https://news.ycombinator.com/item?id=48495197) - [Who Runs the Ransomware Group 'The Gentlemen?'](https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/)
+* [2026-06-11, 19:15:29](https://news.ycombinator.com/item?id=48495090) - [Working in Glass](https://www.asimov.press/p/glass)
 * [2026-06-11, 19:14:23](https://news.ycombinator.com/item?id=48495077) - [Fudgetown, USA (2024)](https://tastecooking.com/fudgetown-usa/)
 * [2026-06-11, 19:06:18](https://news.ycombinator.com/item?id=48494959) - [Conquering Recursion (2019)](https://vector.org.uk/conquering-recursion/)
 * [2026-06-11, 18:46:22](https://news.ycombinator.com/item?id=48494716) - [Finding Optimal Tokenizers](https://blog.aqnichol.com/2026/06/10/optimal-tokenizers/)
