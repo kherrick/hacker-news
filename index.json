@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-17, 04:30:49",
+      "https://news.ycombinator.com/item?id=48565685"
+    ],
+    [
+      "NetNewsWire Status",
+      "https://inessential.com/2026/06/15/netnewswire-status.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-17, 02:47:29",
+      "https://news.ycombinator.com/item?id=48565130"
+    ],
+    [
+      "Leaked OpenAI financials show $38.5B loss and compute burn",
+      "https://runtimewire.com/article/openai-leaked-financials-altman-compute-burn"
+    ]
+  ],
+  [
+    [
       "2026-06-17, 01:40:22",
       "https://news.ycombinator.com/item?id=48564696"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2026-06-16, 16:25:28",
-      "https://news.ycombinator.com/item?id=48557768"
-    ],
-    [
-      "Making ast.walk 220x Faster",
-      "https://reflex.dev/blog/why-ast-walk-when-you-can-ast-sprint/"
-    ]
-  ],
-  [
-    [
       "2026-06-16, 16:12:06",
       "https://news.ycombinator.com/item?id=48557530"
     ],
@@ -167,6 +177,16 @@
     [
       "Calvin and Hobbes and the price of integrity",
       "https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of"
+    ]
+  ],
+  [
+    [
+      "2026-06-16, 14:50:10",
+      "https://news.ycombinator.com/item?id=48556163"
+    ],
+    [
+      "SubQ 1.1 Small",
+      "https://subq.ai/subq-1-1-small-technical-report"
     ]
   ],
   [
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2026-06-15, 04:58:15",
-      "https://news.ycombinator.com/item?id=48536796"
-    ],
-    [
-      "Demystifying Noise Contrastive Estimation",
-      "https://jxmo.io/posts/nce"
-    ]
-  ],
-  [
-    [
       "2026-06-15, 04:37:42",
       "https://news.ycombinator.com/item?id=48536660"
     ],
     [
       "A brief tour of the PDP-11, the most influential minicomputer of all time (2022)",
       "https://arstechnica.com/gadgets/2022/03/a-brief-tour-of-the-pdp-11-the-most-influential-minicomputer-of-all-time/"
-    ]
-  ],
-  [
-    [
-      "2026-06-14, 21:41:56",
-      "https://news.ycombinator.com/item?id=48533098"
-    ],
-    [
-      "The Magic Roundabout of Seattle Area",
-      "https://kirklandroundabouts.com"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2026-06-13, 22:55:39",
-      "https://news.ycombinator.com/item?id=48522316"
-    ],
-    [
-      "Getting Creative with Perlin Noise Fields",
-      "https://sighack.com/post/getting-creative-with-perlin-noise-fields"
-    ]
-  ],
-  [
-    [
       "2026-06-11, 22:07:37",
       "https://news.ycombinator.com/item?id=48497067"
     ],
     [
       "Formal Methods and the Future of Programming",
       "https://blog.janestreet.com/formal-methods-at-jane-street-index/"
+    ]
+  ],
+  [
+    [
+      "2026-06-11, 19:15:29",
+      "https://news.ycombinator.com/item?id=48495090"
+    ],
+    [
+      "Working in Glass",
+      "https://www.asimov.press/p/glass"
     ]
   ]
 ]
