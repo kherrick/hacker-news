@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-17](index.md)
 
+* [2026-06-17, 21:00:07](https://news.ycombinator.com/item?id=48576824) - [A Robot Is Sprinting Towards You: Do You Want It Running on Claude or Grok?](https://openrouter.ai/blog/insights/royale-last-agent-standing/)
 * [2026-06-17, 20:07:47](https://news.ycombinator.com/item?id=48576113) - [Krugman: Musk, a Human Ponzi Scheme](https://paulkrugman.substack.com/p/elon-musk-human-ponzi-scheme)
 * [2026-06-17, 19:50:11](https://news.ycombinator.com/item?id=48575878) - [Made a free macOS menu bar app that fixes typing in the wrong keyboard layout](https://flickey.site)
 * [2026-06-17, 19:22:02](https://news.ycombinator.com/item?id=48575451) - [The hacker sent by Anthropic to calm the government's nerves about AI safety](https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas-carlini-20bceaa3)

@@ -17,6 +17,7 @@
 * [2026-06-15, 20:06:49](https://news.ycombinator.com/item?id=48546358) - [US Government Reportedly Allowing Federal Data Center Rules to Expire](https://gizmodo.com/us-government-reportedly-allowing-federal-data-center-rules-to-expire-2000772083)
 * [2026-06-15, 20:02:02](https://news.ycombinator.com/item?id=48546306) - [US Air Force B-52 bomber crashes after takeoff, Edwards Air Force Base says](https://www.reuters.com/business/aerospace-defense/us-air-force-b-52-bomber-crashes-after-takeoff-edwards-air-force-base-says-2026-06-15/)
 * [2026-06-15, 20:00:57](https://news.ycombinator.com/item?id=48546294) - [A backdoor in a LinkedIn job offer](https://roman.pt/posts/linkedin-backdoor/)
+* [2026-06-15, 19:21:17](https://news.ycombinator.com/item?id=48545818) - [Show HN: StarScope – Free astronomy dashboard for observers outside the US/UK](https://starscope.live/feed)
 * [2026-06-15, 18:37:27](https://news.ycombinator.com/item?id=48545293) - [The Alaska Server](https://serialport.org/blog/the-alaska-server/)
 * [2026-06-15, 18:34:14](https://news.ycombinator.com/item?id=48545260) - [Around 200 Stanford students walk out as Google CEO takes stage](https://www.sfgate.com/tech/article/sundar-pichai-stanford-commencement-22304888.php)
 * [2026-06-15, 17:56:00](https://news.ycombinator.com/item?id=48544823) - [Show HN: Vet turned founder, AI lawn diagnosis](https://grassdx.com/)
