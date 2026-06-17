@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-06-17, 07:49:44",
+      "https://news.ycombinator.com/item?id=48567155"
+    ],
+    [
+      "Hacker News but for Independent Blogs",
+      "https://bubbles.town/"
+    ]
+  ],
+  [
+    [
+      "2026-06-17, 07:04:42",
+      "https://news.ycombinator.com/item?id=48566832"
+    ],
+    [
+      "The founder's playbook: Building an AI-native startup",
+      "https://claude.com/blog/the-founders-playbook"
+    ]
+  ],
+  [
+    [
+      "2026-06-17, 06:59:29",
+      "https://news.ycombinator.com/item?id=48566791"
+    ],
+    [
+      "Why do commercial spaces sit vacant?",
+      "https://www.freerange.city/p/why-do-commercial-spaces-sit-vacant"
+    ]
+  ],
+  [
+    [
+      "2026-06-17, 06:50:47",
+      "https://news.ycombinator.com/item?id=48566727"
+    ],
+    [
+      "From Chesterton's fence to Chesterton's gap",
+      "https://stephantul.github.io/blog/unfence/"
+    ]
+  ],
+  [
+    [
       "2026-06-17, 04:30:49",
       "https://news.ycombinator.com/item?id=48565685"
     ],
@@ -35,7 +75,7 @@
       "https://news.ycombinator.com/item?id=48563609"
     ],
     [
-      "Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
+      "Wolfram Language and Mathematica version 15",
       "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/"
     ]
   ],
@@ -67,26 +107,6 @@
     [
       "Show HN: cuTile Rust: Safe, data-race-free GPU kernels in Rust",
       "https://github.com/nvlabs/cutile-rs"
-    ]
-  ],
-  [
-    [
-      "2026-06-16, 20:17:04",
-      "https://news.ycombinator.com/item?id=48561402"
-    ],
-    [
-      "Frood, an Alpine Initramfs NAS (2024)",
-      "https://words.filippo.io/frood/"
-    ]
-  ],
-  [
-    [
-      "2026-06-16, 18:37:21",
-      "https://news.ycombinator.com/item?id=48559935"
-    ],
-    [
-      "Apple is about to make Hide My Email useless",
-      "https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/"
     ]
   ],
   [
@@ -131,32 +151,12 @@
   ],
   [
     [
-      "2026-06-16, 16:42:32",
-      "https://news.ycombinator.com/item?id=48558045"
-    ],
-    [
-      "Is Meta destroying its engineering organization?",
-      "https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering"
-    ]
-  ],
-  [
-    [
       "2026-06-16, 16:40:58",
       "https://news.ycombinator.com/item?id=48558018"
     ],
     [
       "TIL: You can make HTTP requests without curl using Bash /dev/TCP",
       "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/"
-    ]
-  ],
-  [
-    [
-      "2026-06-16, 16:12:06",
-      "https://news.ycombinator.com/item?id=48557530"
-    ],
-    [
-      "Apple's weird anti-nausea dots cured my car sickness",
-      "https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work"
     ]
   ],
   [
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2026-06-14, 21:45:50",
+      "https://news.ycombinator.com/item?id=48533135"
+    ],
+    [
+      "Making 'food out of thin air' (2024)",
+      "https://www.noemamag.com/making-food-out-of-thin-air/"
+    ]
+  ],
+  [
+    [
       "2026-06-14, 15:18:33",
       "https://news.ycombinator.com/item?id=48528111"
     ],
@@ -251,32 +261,12 @@
   ],
   [
     [
-      "2026-06-14, 13:53:04",
-      "https://news.ycombinator.com/item?id=48527210"
-    ],
-    [
-      "All about the IBM 1130 Computing System",
-      "http://ibm1130.org/"
-    ]
-  ],
-  [
-    [
       "2026-06-14, 11:33:18",
       "https://news.ycombinator.com/item?id=48526256"
     ],
     [
       "A Nipkow Disk Mechanical TV Simulator",
       "https://analogtv.net/mechanical-lab"
-    ]
-  ],
-  [
-    [
-      "2026-06-13, 17:56:47",
-      "https://news.ycombinator.com/item?id=48519723"
-    ],
-    [
-      "An interview with an Apple emoji designer",
-      "https://shadycharacters.co.uk/2026/06/ollie-wagner/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Working in Glass",
       "https://www.asimov.press/p/glass"
+    ]
+  ],
+  [
+    [
+      "2026-06-11, 00:13:12",
+      "https://news.ycombinator.com/item?id=48484608"
+    ],
+    [
+      "Lattice Triangles Are Rare",
+      "https://axiommath.ai/territory/the-reveal"
     ]
   ]
 ]
