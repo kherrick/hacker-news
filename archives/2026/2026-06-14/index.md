@@ -11,6 +11,7 @@
 * [2026-06-14, 22:43:49](https://news.ycombinator.com/item?id=48533736) - [The Jqwik Anti-AI Affair](https://blog.johanneslink.net/2026/06/09/the-jqwik-anti-ai-affair/)
 * [2026-06-14, 22:23:05](https://news.ycombinator.com/item?id=48533504) - [Did Anthropic ask for this?](https://www.verysane.ai/p/did-anthropic-ask-for-this)
 * [2026-06-14, 22:04:01](https://news.ycombinator.com/item?id=48533308) - [Why Is Claude Turning into an a**Hole?](https://bramcohen.com/p/why-is-claude-turning-into-an-asshole)
+* [2026-06-14, 21:45:50](https://news.ycombinator.com/item?id=48533135) - [Making 'food out of thin air' (2024)](https://www.noemamag.com/making-food-out-of-thin-air/)
 * [2026-06-14, 21:42:12](https://news.ycombinator.com/item?id=48533101) - [Windows 11 users are tired of MS account requirements creeping into everything](https://www.windowscentral.com/microsoft/windows-11/windows-11-users-are-tired-of-microsoft-account-requirements-and-workarounds)
 * [2026-06-14, 21:41:56](https://news.ycombinator.com/item?id=48533098) - [The Magic Roundabout of Seattle Area](https://kirklandroundabouts.com)
 * [2026-06-14, 21:06:41](https://news.ycombinator.com/item?id=48532722) - [Abu Fanous](https://en.wikipedia.org/wiki/Abu_Fanous)
