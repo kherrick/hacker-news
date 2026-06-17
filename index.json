@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-16, 23:15:44",
+      "https://news.ycombinator.com/item?id=48563609"
+    ],
+    [
+      "Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
+      "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/"
+    ]
+  ],
+  [
+    [
       "2026-06-16, 23:12:09",
       "https://news.ycombinator.com/item?id=48563569"
     ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=48561654"
     ],
     [
-      "GrapheneOS has been ported to Android 17 and official releases are coming soon",
+      "GrapheneOS has been ported to Android 17",
       "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon"
     ]
   ],
@@ -247,16 +257,6 @@
     [
       "A Nipkow Disk Mechanical TV Simulator",
       "https://analogtv.net/mechanical-lab"
-    ]
-  ],
-  [
-    [
-      "2026-06-14, 08:33:22",
-      "https://news.ycombinator.com/item?id=48525340"
-    ],
-    [
-      "Show HN: Sabela – A Reactive Notebook for Haskell",
-      "https://sabela.datahaskell.com/"
     ]
   ],
   [
