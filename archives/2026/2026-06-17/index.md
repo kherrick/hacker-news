@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-17](index.md)
 
+* [2026-06-17, 23:04:38](https://news.ycombinator.com/item?id=48578248) - [The (real) dead economy theory](https://pluralistic.net/2026/06/17/its-the-stupid-economy-stupid/)
 * [2026-06-17, 21:49:03](https://news.ycombinator.com/item?id=48577374) - [Storied Colors – a catalogue of named colors](https://storiedcolors.com/)
 * [2026-06-17, 21:35:27](https://news.ycombinator.com/item?id=48577246) - [Why Can't Walnut Creek Build 3 Bedroom Apartments with a Playground?](https://kevin.burke.dev/kevin/walnut-creek-single-stair/)
 * [2026-06-17, 21:31:35](https://news.ycombinator.com/item?id=48577208) - [Leaked financial docs show OpenAI is losing billions of dollars a year](https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/)

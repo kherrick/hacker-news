@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-06-17, 23:04:38](https://news.ycombinator.com/item?id=48578248) - [The (real) dead economy theory](https://pluralistic.net/2026/06/17/its-the-stupid-economy-stupid/)
 * [2026-06-17, 21:49:03](https://news.ycombinator.com/item?id=48577374) - [Storied Colors – a catalogue of named colors](https://storiedcolors.com/)
 * [2026-06-17, 21:31:35](https://news.ycombinator.com/item?id=48577208) - [Leaked financial docs show OpenAI is losing billions of dollars a year](https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/)
 * [2026-06-17, 21:00:53](https://news.ycombinator.com/item?id=48576838) - [Tesco moving 40k server workloads off VMware amid Broadcom's abusive conduct](https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/)
@@ -13,7 +14,6 @@
 * [2026-06-17, 16:14:04](https://news.ycombinator.com/item?id=48572553) - [Launch HN: Adam (YC W25) – Open-Source AI CAD](https://github.com/Adam-CAD/CADAM)
 * [2026-06-17, 15:04:47](https://news.ycombinator.com/item?id=48571526) - [Volkswagen started blocking GrapheneOS users](https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3)
 * [2026-06-17, 14:30:27](https://news.ycombinator.com/item?id=48571081) - [Lore – Open source version control system designed for scalability](https://lore.org/)
-* [2026-06-17, 14:20:44](https://news.ycombinator.com/item?id=48570948) - [AI demands more engineering discipline. Not less](https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline)
 * [2026-06-17, 13:05:03](https://news.ycombinator.com/item?id=48569954) - [Want your images back? That'll be $5](https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars)
 * [2026-06-17, 13:00:38](https://news.ycombinator.com/item?id=48569894) - [Why thinking out loud with someone beats thinking alone](https://www.thesignalist.io/s/the-dialogue-dividend/)
 * [2026-06-17, 12:04:28](https://news.ycombinator.com/item?id=48569205) - [MicroUI – A tiny, portable, immediate-mode UI library written in ANSI C](https://github.com/rxi/microui)
