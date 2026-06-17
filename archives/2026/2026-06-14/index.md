@@ -18,6 +18,7 @@
 * [2026-06-14, 21:04:46](https://news.ycombinator.com/item?id=48532705) - [Zinnia: A modular 64-bit Unix-like kernel written in Rust](https://zinnia-os.org/)
 * [2026-06-14, 20:17:54](https://news.ycombinator.com/item?id=48532178) - [AI is code – and can't be prompted into being smarter](https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141)
 * [2026-06-14, 20:12:42](https://news.ycombinator.com/item?id=48532116) - [Vibe Coder vs. Software Engineer](https://yusufaytas.com/vibe-coder-vs-software-engineer)
+* [2026-06-14, 19:25:21](https://news.ycombinator.com/item?id=48531590) - [Abandoned and Little-Known Airfields](https://airfields-freeman.com/)
 * [2026-06-14, 19:14:21](https://news.ycombinator.com/item?id=48531449) - [Chaosnet](https://tumbleweed.nu/r/lm-3/uv/amber.html)
 * [2026-06-14, 19:10:35](https://news.ycombinator.com/item?id=48531394) - [Yserver: A modern X11 server written in Rust](https://github.com/joske/yserver)
 * [2026-06-14, 18:29:13](https://news.ycombinator.com/item?id=48530841) - [Rome Fell and Nobody Noticed](https://friedkielbasa.substack.com/p/rome-fell-and-nobody-noticed)

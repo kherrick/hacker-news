@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-06-17, 10:51:17](https://news.ycombinator.com/item?id=48568502) - [RFC 10008: The new HTTP Query Method](https://www.rfc-editor.org/info/rfc10008/)
 * [2026-06-17, 09:54:21](https://news.ycombinator.com/item?id=48568058) - [U.S. Science Is in Chaos](https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/)
 * [2026-06-17, 09:28:36](https://news.ycombinator.com/item?id=48567877) - [Show HN: High-Res Neural Cellular Automata](https://cells2pixels.github.io/)
 * [2026-06-17, 09:12:00](https://news.ycombinator.com/item?id=48567759) - [GLM-5.2 is the new leading open weights model on Artificial Analysis](https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index)
@@ -24,8 +25,7 @@
 * [2026-06-16, 10:44:24](https://news.ycombinator.com/item?id=48553224) - [SpaceX to buy Cursor for $60B](https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/)
 * [2026-06-15, 04:37:42](https://news.ycombinator.com/item?id=48536660) - [A brief tour of the PDP-11, the most influential minicomputer of all time (2022)](https://arstechnica.com/gadgets/2022/03/a-brief-tour-of-the-pdp-11-the-most-influential-minicomputer-of-all-time/)
 * [2026-06-14, 21:45:50](https://news.ycombinator.com/item?id=48533135) - [Making 'food out of thin air' (2024)](https://www.noemamag.com/making-food-out-of-thin-air/)
-* [2026-06-14, 13:55:04](https://news.ycombinator.com/item?id=48527233) - [The Amphibious Villagers of Indonesia](https://www.economist.com/interactive/1843/2026/06/12/the-amphibious-villagers-of-indonesia)
-* [2026-06-14, 11:33:18](https://news.ycombinator.com/item?id=48526256) - [A Nipkow Disk Mechanical TV Simulator](https://analogtv.net/mechanical-lab)
+* [2026-06-14, 19:25:21](https://news.ycombinator.com/item?id=48531590) - [Abandoned and Little-Known Airfields](https://airfields-freeman.com/)
 * [2026-06-14, 11:19:56](https://news.ycombinator.com/item?id=48526174) - [Show HN: Capacitor Alarm Clock](https://github.com/ArcaEge/capacitor-alarm-clock)
 * [2026-06-13, 06:12:52](https://news.ycombinator.com/item?id=48513920) - [Map Clustering Is Not My Favorite](https://blog.greg.technology/2026/06/12/map-clustering-is-not-my-favorite.html)
 * [2026-06-11, 20:51:11](https://news.ycombinator.com/item?id=48496233) - [Subterranean fungi networks more than 100 quadrillion km in length](https://www.theguardian.com/science/2026/jun/11/arbuscular-mycorrhizal-fungi-plant-life-climate-global-mapping-study)

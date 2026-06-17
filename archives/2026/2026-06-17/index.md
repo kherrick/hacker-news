@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-17](index.md)
 
+* [2026-06-17, 10:51:17](https://news.ycombinator.com/item?id=48568502) - [RFC 10008: The new HTTP Query Method](https://www.rfc-editor.org/info/rfc10008/)
 * [2026-06-17, 09:54:21](https://news.ycombinator.com/item?id=48568058) - [U.S. Science Is in Chaos](https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/)
 * [2026-06-17, 09:28:36](https://news.ycombinator.com/item?id=48567877) - [Show HN: High-Res Neural Cellular Automata](https://cells2pixels.github.io/)
 * [2026-06-17, 09:12:00](https://news.ycombinator.com/item?id=48567759) - [GLM-5.2 is the new leading open weights model on Artificial Analysis](https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index)
