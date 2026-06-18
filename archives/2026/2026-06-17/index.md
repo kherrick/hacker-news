@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-17](index.md)
 
+* [2026-06-17, 23:20:38](https://news.ycombinator.com/item?id=48578388) - [Taxonomy of the Occlupanida (parasitoids on bread bag tags)](https://www.horg.com/horg/?page_id=921)
+* [2026-06-17, 23:14:49](https://news.ycombinator.com/item?id=48578326) - [Clojure Hosted on Go](https://github.com/glojurelang/glojure)
 * [2026-06-17, 23:04:38](https://news.ycombinator.com/item?id=48578248) - [The (real) dead economy theory](https://pluralistic.net/2026/06/17/its-the-stupid-economy-stupid/)
 * [2026-06-17, 21:49:03](https://news.ycombinator.com/item?id=48577374) - [Storied Colors – a catalogue of named colors](https://storiedcolors.com/)
 * [2026-06-17, 21:35:27](https://news.ycombinator.com/item?id=48577246) - [Why Can't Walnut Creek Build 3 Bedroom Apartments with a Playground?](https://kevin.burke.dev/kevin/walnut-creek-single-stair/)

@@ -12,6 +12,7 @@
 * [2026-06-15, 21:10:36](https://news.ycombinator.com/item?id=48547062) - [The Dead Economy Theory](https://gmalandrakis.com/writings/ad-economicum.html)
 * [2026-06-15, 20:30:37](https://news.ycombinator.com/item?id=48546648) - [Commander Keen Games (free book)](https://forgottenbytes.net/)
 * [2026-06-15, 20:28:24](https://news.ycombinator.com/item?id=48546616) - [US battery manufacturing output continues to break records](https://fred.stlouisfed.org/series/IPG33591S)
+* [2026-06-15, 20:22:48](https://news.ycombinator.com/item?id=48546549) - [Show HN: We built an 8-bit CPU as 2nd year EE students](https://github.com/c0rRupT9/STEPLA-1)
 * [2026-06-15, 20:14:15](https://news.ycombinator.com/item?id=48546441) - [I Love the Computer](https://michaelenger.com/blog/i-love-the-computer/)
 * [2026-06-15, 20:12:37](https://news.ycombinator.com/item?id=48546428) - [What job interviews taught me about Kubernetes](https://notnotp.com/notes/what-job-interviews-taught-me-about-kubernetes/)
 * [2026-06-15, 20:06:49](https://news.ycombinator.com/item?id=48546358) - [US Government Reportedly Allowing Federal Data Center Rules to Expire](https://gizmodo.com/us-government-reportedly-allowing-federal-data-center-rules-to-expire-2000772083)
