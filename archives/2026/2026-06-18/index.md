@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-18](index.md)
 
+* [2026-06-18, 16:44:04](https://news.ycombinator.com/item?id=48588072) - [Securing the Future of AI Agents](https://deepmind.google/blog/securing-the-future-of-ai-agents/)
+* [2026-06-18, 16:05:58](https://news.ycombinator.com/item?id=48587527) - [The Harajuku Moment](https://tim.blog/2024/02/09/harajuku-moment/)
 * [2026-06-18, 15:23:30](https://news.ycombinator.com/item?id=48586811) - [Show HN: 10x better performance from the Coding Harnesses with LLM-wiki](https://llm-wiki.net/)
 * [2026-06-18, 15:13:26](https://news.ycombinator.com/item?id=48586648) - [TerraPower in Deal with Meta for Eight Natrium 345 MW Advanced Nuclear Plants](https://neutronbytes.com/2026/01/09/terrapower-in-mega-deal-with-meta-for-eight-natrium-345-mw-advanced-nuclear-plants/)
 * [2026-06-18, 15:12:43](https://news.ycombinator.com/item?id=48586631) - [A website that lists websites to submit your website to](https://www.submission.directory/)

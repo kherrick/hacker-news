@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-06-18, 15:23:30](https://news.ycombinator.com/item?id=48586811) - [Show HN: 10x better performance from the Coding Harnesses with LLM-wiki](https://llm-wiki.net/)
+* [2026-06-18, 16:44:04](https://news.ycombinator.com/item?id=48588072) - [Securing the Future of AI Agents](https://deepmind.google/blog/securing-the-future-of-ai-agents/)
+* [2026-06-18, 16:05:58](https://news.ycombinator.com/item?id=48587527) - [The Harajuku Moment](https://tim.blog/2024/02/09/harajuku-moment/)
 * [2026-06-18, 15:13:26](https://news.ycombinator.com/item?id=48586648) - [TerraPower in Deal with Meta for Eight Natrium 345 MW Advanced Nuclear Plants](https://neutronbytes.com/2026/01/09/terrapower-in-mega-deal-with-meta-for-eight-natrium-345-mw-advanced-nuclear-plants/)
 * [2026-06-18, 15:12:43](https://news.ycombinator.com/item?id=48586631) - [A website that lists websites to submit your website to](https://www.submission.directory/)
 * [2026-06-18, 14:49:44](https://news.ycombinator.com/item?id=48586299) - [Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps](https://tester.army)
@@ -12,7 +13,7 @@
 * [2026-06-18, 13:05:58](https://news.ycombinator.com/item?id=48584709) - [How Alberta Eradicated Rats](https://worksinprogress.co/issue/albertas-war-on-rats/)
 * [2026-06-18, 12:46:04](https://news.ycombinator.com/item?id=48584497) - [Has W Social switched to closed source?](https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/)
 * [2026-06-18, 12:19:05](https://news.ycombinator.com/item?id=48584207) - [Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly](https://www.windowslatest.com/2026/06/15/microsofts-new-outlook-takes-10-seconds-to-do-what-outlook-classic-does-instantly-on-windows/)
-* [2026-06-18, 12:10:53](https://news.ycombinator.com/item?id=48584135) - [Emacs 31 Is Around the Corner: The Changes I'm Daily Driving](https://www.rahuljuliato.com/posts/emacs-31-around-the-corner)
+* [2026-06-18, 12:10:53](https://news.ycombinator.com/item?id=48584135) - [Emacs 31 is around the corner: The changes I'm daily driving](https://www.rahuljuliato.com/posts/emacs-31-around-the-corner)
 * [2026-06-18, 11:45:43](https://news.ycombinator.com/item?id=48583928) - [I found 10k GitHub repositories distributing Trojan malware](https://orchidfiles.com/github-repositories-distributing-malware/)
 * [2026-06-18, 11:41:21](https://news.ycombinator.com/item?id=48583897) - [Modos Color Monitor Pushes E-Paper Displays Further](https://spectrum.ieee.org/modos-e-paper-monitor)
 * [2026-06-18, 11:20:18](https://news.ycombinator.com/item?id=48583703) - [We built a persistent agent memory layer on Elasticsearch with 0.89 recall](https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch)
@@ -25,9 +26,8 @@
 * [2026-06-18, 05:10:28](https://news.ycombinator.com/item?id=48581070) - [I hate compilers](https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/)
 * [2026-06-18, 03:04:20](https://news.ycombinator.com/item?id=48580209) - [Local Qwen isn't a worse Opus, it's a different tool](https://blog.alexellis.io/local-ai-is-not-opus/)
 * [2026-06-18, 01:59:51](https://news.ycombinator.com/item?id=48579650) - [Midjourney Medical](https://www.midjourney.com/medical/blogpost)
-* [2026-06-17, 03:55:16](https://news.ycombinator.com/item?id=48565498) - [US holds off blacklisting DeepSeek, more than 100 firms deemed security risks](https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/)
+* [2026-06-15, 15:32:07](https://news.ycombinator.com/item?id=48542784) - [Emacs, how it all started (for me)](https://xvw.lol/en/articles/emacs-start.html)
 * [2026-06-15, 11:53:47](https://news.ycombinator.com/item?id=48539971) - [Unity vs. Floating Point](https://aras-p.info/blog/2026/06/11/Unity-vs-floating-point/)
-* [2026-06-15, 08:55:21](https://news.ycombinator.com/item?id=48538483) - [Dwarf Fortress in the Browser](https://github.com/Sessa93/remote-df)
 * [2026-06-15, 00:32:24](https://news.ycombinator.com/item?id=48534900) - [Vinyl Cache and Varnish Cache](https://vinyl-cache.org/organization/on_vinyl_cache_and_varnish_cache.html#org-vinyl-varnish)
 * [2026-06-14, 23:20:00](https://news.ycombinator.com/item?id=48534104) - [Image Toolbox (T8RIN)](https://github.com/T8RIN/ImageToolbox/)
 
