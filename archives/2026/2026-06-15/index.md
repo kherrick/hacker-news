@@ -27,6 +27,7 @@
 * [2026-06-15, 17:52:39](https://news.ycombinator.com/item?id=48544781) - [Game Engine White Papers Commander Keen](https://forgottenbytes.net/commander_keen.html)
 * [2026-06-15, 17:41:24](https://news.ycombinator.com/item?id=48544637) - [Claude Corps](https://www.anthropic.com/news/claude-corps)
 * [2026-06-15, 17:29:17](https://news.ycombinator.com/item?id=48544451) - [How TimescaleDB compresses time-series data](https://roszigit.com/en/blog/timescaledb-compression-hypercore)
+* [2026-06-15, 17:26:52](https://news.ycombinator.com/item?id=48544429) - [If your product is Great, it doesn't need to be Good (2010)](http://paulbuchheit.blogspot.com/2010/02/if-your-product-is-great-it-doesnt-need.html)
 * [2026-06-15, 17:24:17](https://news.ycombinator.com/item?id=48544396) - [Typst 0.15.0](https://typst.app/docs/changelog/0.15.0/)
 * [2026-06-15, 17:12:33](https://news.ycombinator.com/item?id=48544250) - [Seventeen Camels and Where They Can Take You](https://mathenchant.wordpress.com/2026/06/15/seventeen-camels-and-where-they-can-take-you/)
 * [2026-06-15, 16:47:21](https://news.ycombinator.com/item?id=48543908) - [Launch HN: Drafted (YC P26) – Models for residential architecture](https://news.ycombinator.com/item?id=48543908)

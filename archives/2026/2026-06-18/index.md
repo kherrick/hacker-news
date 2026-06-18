@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-06-18](index.md)
 
+* [2026-06-18, 21:54:10](https://news.ycombinator.com/item?id=48592163) - [Zero-Touch OAuth for MCP](https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/)
+* [2026-06-18, 21:03:31](https://news.ycombinator.com/item?id=48591562) - [Everything Is BOM: Bill of Materials Encyclopedia](https://bomwiki.com/)
 * [2026-06-18, 20:49:03](https://news.ycombinator.com/item?id=48591348) - [Show HN: Are You in the Weights?](https://www.intheweights.com/)
+* [2026-06-18, 20:27:28](https://news.ycombinator.com/item?id=48591066) - [Zork name origin got an update on Wikipedia](https://www.dpolakovic.space/blogs/zork-part2#update)
 * [2026-06-18, 20:10:39](https://news.ycombinator.com/item?id=48590849) - [McMansions 101: What Makes a McMansion Bad Architecture?](https://mcmansionhell.com/post/148605513816/mcmansions-101-what-makes-a-mcmansion-bad)
 * [2026-06-18, 19:25:46](https://news.ycombinator.com/item?id=48590280) - [Integer Quantization: Deep Dive](https://hello-fri-end.github.io/2026/06/integer-quantization-deep-dive/)
 * [2026-06-18, 18:31:23](https://news.ycombinator.com/item?id=48589501) - [I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M](https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/)
