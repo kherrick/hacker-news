@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-06-18, 11:34:41",
+      "https://news.ycombinator.com/item?id=48583843"
+    ],
+    [
+      "Challenging the Narrative of European Decline",
+      "https://paulkrugman.substack.com/p/challenging-the-narrative-of-european-478"
+    ]
+  ],
+  [
+    [
+      "2026-06-18, 11:20:18",
+      "https://news.ycombinator.com/item?id=48583703"
+    ],
+    [
+      "We built a persistent agent memory layer on Elasticsearch with 0.89 recall",
+      "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch"
+    ]
+  ],
+  [
+    [
       "2026-06-18, 10:33:22",
       "https://news.ycombinator.com/item?id=48583386"
     ],
     [
       "Hospitals and universities repurposing drugs at 90% lower cost",
       "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost"
+    ]
+  ],
+  [
+    [
+      "2026-06-18, 09:08:04",
+      "https://news.ycombinator.com/item?id=48582794"
+    ],
+    [
+      "Seven Perfect Shuffles Randomize a Deck of Cards. But How Many Sloppy Ones?",
+      "https://www.quantamagazine.org/seven-perfect-shuffles-randomize-a-deck-of-cards-but-how-many-sloppy-ones-20260617/"
     ]
   ],
   [
@@ -27,16 +57,6 @@
     [
       "AMD silently removes memory encryption from consumer Ryzen CPUs",
       "https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change"
-    ]
-  ],
-  [
-    [
-      "2026-06-18, 07:46:55",
-      "https://news.ycombinator.com/item?id=48582147"
-    ],
-    [
-      "The Forge We Deserve",
-      "https://btao.org/posts/2026-05-09-the-forge-we-deserve/"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "Local Qwen isn't a worse Opus, it's a different tool",
       "https://blog.alexellis.io/local-ai-is-not-opus/"
-    ]
-  ],
-  [
-    [
-      "2026-06-18, 02:32:01",
-      "https://news.ycombinator.com/item?id=48579913"
-    ],
-    [
-      "AI Compute Extensions (ACE) Specification",
-      "https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "Launch HN: Adam (YC W25) – Open-Source AI CAD",
       "https://github.com/Adam-CAD/CADAM"
-    ]
-  ],
-  [
-    [
-      "2026-06-17, 15:04:47",
-      "https://news.ycombinator.com/item?id=48571526"
-    ],
-    [
-      "Volkswagen started blocking GrapheneOS users",
-      "https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2026-06-15, 18:37:27",
+      "https://news.ycombinator.com/item?id=48545293"
+    ],
+    [
+      "The Alaska Server",
+      "https://serialport.org/blog/the-alaska-server/"
+    ]
+  ],
+  [
+    [
       "2026-06-15, 06:47:54",
       "https://news.ycombinator.com/item?id=48537481"
     ],
@@ -287,16 +297,6 @@
     [
       "Vinyl Cache and Varnish Cache",
       "https://vinyl-cache.org/organization/on_vinyl_cache_and_varnish_cache.html#org-vinyl-varnish"
-    ]
-  ],
-  [
-    [
-      "2026-06-11, 23:33:17",
-      "https://news.ycombinator.com/item?id=48497873"
-    ],
-    [
-      "Biological evolution and information acquisition",
-      "https://www.construction-physics.com/p/biological-evolution-and-information"
     ]
   ]
 ]
