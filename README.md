@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-06-18, 23:08:35](https://news.ycombinator.com/item?id=48592832) - [The AirPods Effect](https://www.theescapenewsletter.com/p/the-airpods-effect)
 * [2026-06-18, 21:54:10](https://news.ycombinator.com/item?id=48592163) - [Zero-Touch OAuth for MCP](https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/)
-* [2026-06-18, 21:03:31](https://news.ycombinator.com/item?id=48591562) - [Everything Is BOM: Bill of Materials Encyclopedia](https://bomwiki.com/)
 * [2026-06-18, 20:49:03](https://news.ycombinator.com/item?id=48591348) - [Show HN: Are You in the Weights?](https://www.intheweights.com/)
 * [2026-06-18, 20:27:28](https://news.ycombinator.com/item?id=48591066) - [Zork name origin got an update on Wikipedia](https://www.dpolakovic.space/blogs/zork-part2#update)
 * [2026-06-18, 18:31:23](https://news.ycombinator.com/item?id=48589501) - [I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M](https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/)
@@ -26,10 +26,10 @@
 * [2026-06-18, 08:52:45](https://news.ycombinator.com/item?id=48582679) - [Ask HN: Is anyone using the A2A protocol?](https://news.ycombinator.com/item?id=48582679)
 * [2026-06-18, 00:26:06](https://news.ycombinator.com/item?id=48578913) - [Noam Shazeer Joins OpenAI](https://twitter.com/NoamShazeer/status/2067400851438932297)
 * [2026-06-17, 17:03:17](https://news.ycombinator.com/item?id=48573268) - [Agentic Resource Discovery Specification](https://agenticresourcediscovery.org/introduction/)
-* [2026-06-15, 22:36:33](https://news.ycombinator.com/item?id=48547969) - [American Express: Cell-Based Architecture for Resilient Payment Systems](https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/)
+* [2026-06-15, 22:36:33](https://news.ycombinator.com/item?id=48547969) - [Cell-based architecture for resilient payment systems](https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/)
+* [2026-06-15, 19:31:11](https://news.ycombinator.com/item?id=48545935) - [Flip TABLE: storing arbitrary data in iNaturalist](https://exclav.es/2026/06/13/flip-table-storing-arbitrary-data-in-inaturalist/)
 * [2026-06-15, 17:26:52](https://news.ycombinator.com/item?id=48544429) - [If your product is Great, it doesn't need to be Good (2010)](http://paulbuchheit.blogspot.com/2010/02/if-your-product-is-great-it-doesnt-need.html)
 * [2026-06-15, 16:44:54](https://news.ycombinator.com/item?id=48543872) - [Dutch Railways offers unlimited off-peak train travel nationwide for €49/month](https://www.ns.nl/en/season-tickets/dal-vrij)
-* [2026-06-15, 15:32:07](https://news.ycombinator.com/item?id=48542784) - [Emacs, how it all started for me](https://xvw.lol/en/articles/emacs-start.html)
 
 ## [Archives](archives/index.md)
 
