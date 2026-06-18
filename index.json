@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-06-18, 02:32:01",
+      "https://news.ycombinator.com/item?id=48579913"
+    ],
+    [
+      "[x86] AI Compute Extensions (ACE) Specification",
+      "https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/"
+    ]
+  ],
+  [
+    [
+      "2026-06-18, 01:59:51",
+      "https://news.ycombinator.com/item?id=48579650"
+    ],
+    [
+      "Midjourney Medical",
+      "https://www.midjourney.com/medical/blogpost"
+    ]
+  ],
+  [
+    [
+      "2026-06-18, 00:24:04",
+      "https://news.ycombinator.com/item?id=48578894"
+    ],
+    [
+      "ChatGPT's image generator can be manipulated to produce violent, sexual content",
+      "https://mindgard.ai/blog/chatgpt-spontaneously-generated-violent-images-from-a-viral-prompt"
+    ]
+  ],
+  [
+    [
       "2026-06-17, 23:20:38",
       "https://news.ycombinator.com/item?id=48578388"
     ],
@@ -27,16 +57,6 @@
     [
       "Storied Colors – a catalogue of named colors",
       "https://storiedcolors.com/"
-    ]
-  ],
-  [
-    [
-      "2026-06-17, 21:31:35",
-      "https://news.ycombinator.com/item?id=48577208"
-    ],
-    [
-      "Leaked financial docs show OpenAI is losing billions of dollars a year",
-      "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/"
     ]
   ],
   [
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2026-06-17, 17:14:21",
-      "https://news.ycombinator.com/item?id=48573435"
-    ],
-    [
-      "The Competitive Moat That AI Can't Replicate",
-      "https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/"
-    ]
-  ],
-  [
-    [
       "2026-06-17, 17:00:02",
       "https://news.ycombinator.com/item?id=48573221"
     ],
@@ -147,16 +157,6 @@
     [
       "Lore – Open source version control system designed for scalability",
       "https://lore.org/"
-    ]
-  ],
-  [
-    [
-      "2026-06-17, 13:05:03",
-      "https://news.ycombinator.com/item?id=48569954"
-    ],
-    [
-      "Want your images back? That'll be $5",
-      "https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars"
     ]
   ],
   [
@@ -221,12 +221,32 @@
   ],
   [
     [
+      "2026-06-16, 15:41:02",
+      "https://news.ycombinator.com/item?id=48557002"
+    ],
+    [
+      "Show HN: BlitzGraph – Supabase for graphs, built for LLM agents",
+      "https://blitzgraph.com"
+    ]
+  ],
+  [
+    [
       "2026-06-16, 15:15:01",
       "https://news.ycombinator.com/item?id=48556561"
     ],
     [
       "How we run Firecracker VMs inside EC2 and start browsers in less than 1s",
       "https://browser-use.com/posts/firecracker-browser-infra"
+    ]
+  ],
+  [
+    [
+      "2026-06-16, 12:16:11",
+      "https://news.ycombinator.com/item?id=48554044"
+    ],
+    [
+      "Show HN: Spin Lab",
+      "https://srijanshukla.com/artifacts/spin-lab/"
     ]
   ],
   [
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2026-06-15, 18:56:22",
-      "https://news.ycombinator.com/item?id=48545510"
-    ],
-    [
-      "Brad Feld – Does the Rule of 40 Work for Hardware?",
-      "https://feld.com/archives/2026/06/does-the-rule-of-40-work-for-hardware/"
-    ]
-  ],
-  [
-    [
       "2026-06-14, 21:41:56",
       "https://news.ycombinator.com/item?id=48533098"
     ],
     [
       "Kirkland Roundabouts",
       "https://kirklandroundabouts.com"
-    ]
-  ],
-  [
-    [
-      "2026-06-14, 14:22:41",
-      "https://news.ycombinator.com/item?id=48527464"
-    ],
-    [
-      "Pink Cosmo berries a hit in their trial season (2023)",
-      "https://fruitgrowersnews.com/article/pink-cosmo-berries-a-hit-in-their-trial-season/"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-06-14, 00:26:02",
-      "https://news.ycombinator.com/item?id=48522927"
+      "2026-06-11, 23:33:17",
+      "https://news.ycombinator.com/item?id=48497873"
     ],
     [
-      "Image Compression",
-      "https://www.makingsoftware.com/chapters/image-compression"
+      "Biological evolution and information acquisition",
+      "https://www.construction-physics.com/p/biological-evolution-and-information"
     ]
   ]
 ]
