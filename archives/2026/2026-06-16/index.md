@@ -51,6 +51,7 @@
 * [2026-06-16, 12:31:37](https://news.ycombinator.com/item?id=48554215) - [SpaceX Is Buying Cursor](https://www.bbc.com/news/articles/cvgd5g7d7gyo)
 * [2026-06-16, 12:31:18](https://news.ycombinator.com/item?id=48554208) - [Russian artist and Putin critic shot dead in Poland](https://www.bbc.com/news/articles/clyrzd5g6k2o)
 * [2026-06-16, 12:16:11](https://news.ycombinator.com/item?id=48554044) - [Show HN: Spin Lab](https://srijanshukla.com/artifacts/spin-lab/)
+* [2026-06-16, 12:00:48](https://news.ycombinator.com/item?id=48553876) - [The 2-Year Apartment Rule](https://tadaima.bearblog.dev/the-2-year-apartment-rule/)
 * [2026-06-16, 11:26:27](https://news.ycombinator.com/item?id=48553550) - [Mechanical Watch](https://ciechanow.ski/mechanical-watch/)
 * [2026-06-16, 11:14:38](https://news.ycombinator.com/item?id=48553450) - [Unicorn – The Ultimate CPU Emulator](https://www.unicorn-engine.org/)
 * [2026-06-16, 10:44:24](https://news.ycombinator.com/item?id=48553224) - [SpaceX to buy Cursor AI coding agent operator Anysphere for $60B](https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/)

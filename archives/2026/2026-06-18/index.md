@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-18](index.md)
 
+* [2026-06-18, 06:23:24](https://news.ycombinator.com/item?id=48581489) - [The Australian Government to Require SMS/MMS Sender ID Registraion](https://www.acma.gov.au/sms-sender-id-register)
+* [2026-06-18, 06:17:40](https://news.ycombinator.com/item?id=48581458) - [DeepSeek Introduces Vision](https://chat.deepseek.com/)
 * [2026-06-18, 05:10:28](https://news.ycombinator.com/item?id=48581070) - [I Hate Compilers](https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/)
 * [2026-06-18, 04:05:06](https://news.ycombinator.com/item?id=48580686) - [SteamOS Linux 3.8 released as stable](https://store.steampowered.com/news/app/1675200/view/697641379212298072)
 * [2026-06-18, 03:38:31](https://news.ycombinator.com/item?id=48580504) - [Nim Conf 2026 (Online, Sat June 20)](https://conf.nim-lang.org/)
