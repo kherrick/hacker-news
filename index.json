@@ -1,22 +1,12 @@
 [
   [
     [
-      "2026-06-18, 18:30:33",
-      "https://news.ycombinator.com/item?id=48589485"
+      "2026-06-18, 19:25:46",
+      "https://news.ycombinator.com/item?id=48590280"
     ],
     [
-      "The AI Hate Progression",
-      "https://www.xodium.net/2026/06/the-ai-hate-progression.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-18, 18:20:22",
-      "https://news.ycombinator.com/item?id=48589357"
-    ],
-    [
-      "Ask HN: What is the job market like?",
-      "https://news.ycombinator.com/item?id=48589357"
+      "Integer Quantization: Deep Dive",
+      "https://hello-fri-end.github.io/2026/06/integer-quantization-deep-dive/"
     ]
   ],
   [
@@ -27,16 +17,6 @@
     [
       "The Token Compression Illusion: Why I'm Skeptical of RTK",
       "https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk/"
-    ]
-  ],
-  [
-    [
-      "2026-06-18, 17:09:53",
-      "https://news.ycombinator.com/item?id=48588413"
-    ],
-    [
-      "Migrating from GNU Stow to Chezmoi",
-      "https://rednafi.com/misc/chezmoi/"
     ]
   ],
   [
@@ -55,7 +35,7 @@
       "https://news.ycombinator.com/item?id=48587527"
     ],
     [
-      "The Harajuku Moment",
+      "The Harajuku Moment (2024)",
       "https://tim.blog/2024/02/09/harajuku-moment/"
     ]
   ],
@@ -65,7 +45,7 @@
       "https://news.ycombinator.com/item?id=48586648"
     ],
     [
-      "TerraPower in Deal with Meta for Eight Natrium 345 MW Advanced Nuclear Plants",
+      "TerraPower in deal with Meta for eight Natrium 345 MW nuclear plants",
       "https://neutronbytes.com/2026/01/09/terrapower-in-mega-deal-with-meta-for-eight-natrium-345-mw-advanced-nuclear-plants/"
     ]
   ],
@@ -91,26 +71,6 @@
   ],
   [
     [
-      "2026-06-18, 14:32:13",
-      "https://news.ycombinator.com/item?id=48586005"
-    ],
-    [
-      "Migrate from OpenClaw",
-      "https://hermes-agent.nousresearch.com/docs/guides/migrate-from-openclaw"
-    ]
-  ],
-  [
-    [
-      "2026-06-18, 14:24:30",
-      "https://news.ycombinator.com/item?id=48585866"
-    ],
-    [
-      "Ubiquiti: Enterprise NAS, Built on ZFS",
-      "https://blog.ui.com/article/introducing-enterprise-nas"
-    ]
-  ],
-  [
-    [
       "2026-06-18, 14:17:07",
       "https://news.ycombinator.com/item?id=48585746"
     ],
@@ -131,12 +91,32 @@
   ],
   [
     [
+      "2026-06-18, 13:05:58",
+      "https://news.ycombinator.com/item?id=48584709"
+    ],
+    [
+      "How Alberta Eradicated Rats",
+      "https://worksinprogress.co/issue/albertas-war-on-rats/"
+    ]
+  ],
+  [
+    [
       "2026-06-18, 12:46:04",
       "https://news.ycombinator.com/item?id=48584497"
     ],
     [
-      "Has W Social switched to closed source?",
+      "W Social, public institutions and the theater of European digital sovereignty",
       "https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/"
+    ]
+  ],
+  [
+    [
+      "2026-06-18, 12:44:09",
+      "https://news.ycombinator.com/item?id=48584484"
+    ],
+    [
+      "The Korean telecom giant at the center of Anthropic's Mythos controversy",
+      "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/"
     ]
   ],
   [
@@ -195,7 +175,7 @@
       "https://news.ycombinator.com/item?id=48583606"
     ],
     [
-      "Advanced Compilers: The Self-Guided Online Course",
+      "CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)",
       "https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/"
     ]
   ],
@@ -215,18 +195,48 @@
       "https://news.ycombinator.com/item?id=48583356"
     ],
     [
-      ".gitignore Isn't the Only Way to Ignore Files in Git",
+      ".gitignore Isn't the only way to ignore files in Git",
       "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/"
     ]
   ],
   [
     [
-      "2026-06-18, 09:08:04",
-      "https://news.ycombinator.com/item?id=48582794"
+      "2026-06-18, 08:52:45",
+      "https://news.ycombinator.com/item?id=48582679"
     ],
     [
-      "Seven Perfect Shuffles Randomize a Deck of Cards. But How Many Sloppy Ones?",
-      "https://www.quantamagazine.org/seven-perfect-shuffles-randomize-a-deck-of-cards-but-how-many-sloppy-ones-20260617/"
+      "Ask HN: Is anyone using the A2A protocol?",
+      "https://news.ycombinator.com/item?id=48582679"
+    ]
+  ],
+  [
+    [
+      "2026-06-18, 08:28:04",
+      "https://news.ycombinator.com/item?id=48582464"
+    ],
+    [
+      "I need your clothes, your boots, and your motorcycle",
+      "https://rbelmont.mameworld.info/?p=1725"
+    ]
+  ],
+  [
+    [
+      "2026-06-18, 08:02:56",
+      "https://news.ycombinator.com/item?id=48582278"
+    ],
+    [
+      "The value of employee equity depends a lot on volatility",
+      "https://devanshpanda.com/writing/volatility/"
+    ]
+  ],
+  [
+    [
+      "2026-06-18, 07:27:56",
+      "https://news.ycombinator.com/item?id=48582005"
+    ],
+    [
+      "Ask HN: Am I being advertised an ARG via user agent logs?",
+      "https://news.ycombinator.com/item?id=48582005"
     ]
   ],
   [
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2026-06-18, 03:04:20",
-      "https://news.ycombinator.com/item?id=48580209"
-    ],
-    [
-      "Local Qwen isn't a worse Opus, it's a different tool",
-      "https://blog.alexellis.io/local-ai-is-not-opus/"
-    ]
-  ],
-  [
-    [
       "2026-06-18, 01:59:51",
       "https://news.ycombinator.com/item?id=48579650"
     ],
@@ -261,12 +261,32 @@
   ],
   [
     [
-      "2026-06-16, 09:36:30",
-      "https://news.ycombinator.com/item?id=48552767"
+      "2026-06-18, 00:26:06",
+      "https://news.ycombinator.com/item?id=48578913"
     ],
     [
-      "Notes from Tired Egyptian Whose Job Is Explaining That Humans Built the Pyramids",
-      "https://www.mcsweeneys.net/articles/notes-from-a-tired-egyptian-guy-whose-job-is-explaining-that-humans-built-the-pyramids"
+      "Noam Shazeer Joins OpenAI",
+      "https://twitter.com/NoamShazeer/status/2067400851438932297"
+    ]
+  ],
+  [
+    [
+      "2026-06-17, 17:03:17",
+      "https://news.ycombinator.com/item?id=48573268"
+    ],
+    [
+      "Agentic Resource Discovery Specification",
+      "https://agenticresourcediscovery.org/introduction/"
+    ]
+  ],
+  [
+    [
+      "2026-06-15, 15:42:42",
+      "https://news.ycombinator.com/item?id=48542963"
+    ],
+    [
+      "My LSM tree was slower than a B-tree. Then I profiled it",
+      "https://aasheesh.vercel.app/blog/lsm-tree"
     ]
   ],
   [
@@ -275,28 +295,8 @@
       "https://news.ycombinator.com/item?id=48542784"
     ],
     [
-      "Emacs, how it all started (for me)",
+      "Emacs, how it all started for me",
       "https://xvw.lol/en/articles/emacs-start.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-15, 11:53:47",
-      "https://news.ycombinator.com/item?id=48539971"
-    ],
-    [
-      "Unity vs. Floating Point",
-      "https://aras-p.info/blog/2026/06/11/Unity-vs-floating-point/"
-    ]
-  ],
-  [
-    [
-      "2026-06-15, 00:32:24",
-      "https://news.ycombinator.com/item?id=48534900"
-    ],
-    [
-      "Vinyl Cache and Varnish Cache",
-      "https://vinyl-cache.org/organization/on_vinyl_cache_and_varnish_cache.html#org-vinyl-varnish"
     ]
   ]
 ]
