@@ -1,22 +1,22 @@
 [
   [
     [
+      "2026-06-18, 23:08:35",
+      "https://news.ycombinator.com/item?id=48592832"
+    ],
+    [
+      "The AirPods Effect",
+      "https://www.theescapenewsletter.com/p/the-airpods-effect"
+    ]
+  ],
+  [
+    [
       "2026-06-18, 21:54:10",
       "https://news.ycombinator.com/item?id=48592163"
     ],
     [
       "Zero-Touch OAuth for MCP",
       "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/"
-    ]
-  ],
-  [
-    [
-      "2026-06-18, 21:03:31",
-      "https://news.ycombinator.com/item?id=48591562"
-    ],
-    [
-      "Everything Is BOM: Bill of Materials Encyclopedia",
-      "https://bomwiki.com/"
     ]
   ],
   [
@@ -265,8 +265,18 @@
       "https://news.ycombinator.com/item?id=48547969"
     ],
     [
-      "American Express: Cell-Based Architecture for Resilient Payment Systems",
+      "Cell-based architecture for resilient payment systems",
       "https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/"
+    ]
+  ],
+  [
+    [
+      "2026-06-15, 19:31:11",
+      "https://news.ycombinator.com/item?id=48545935"
+    ],
+    [
+      "Flip TABLE: storing arbitrary data in iNaturalist",
+      "https://exclav.es/2026/06/13/flip-table-storing-arbitrary-data-in-inaturalist/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Dutch Railways offers unlimited off-peak train travel nationwide for €49/month",
       "https://www.ns.nl/en/season-tickets/dal-vrij"
-    ]
-  ],
-  [
-    [
-      "2026-06-15, 15:32:07",
-      "https://news.ycombinator.com/item?id=48542784"
-    ],
-    [
-      "Emacs, how it all started for me",
-      "https://xvw.lol/en/articles/emacs-start.html"
     ]
   ]
 ]
