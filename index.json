@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-18, 06:23:24",
+      "https://news.ycombinator.com/item?id=48581489"
+    ],
+    [
+      "The Australian Government to Require SMS/MMS Sender ID Registraion",
+      "https://www.acma.gov.au/sms-sender-id-register"
+    ]
+  ],
+  [
+    [
+      "2026-06-18, 06:17:40",
+      "https://news.ycombinator.com/item?id=48581458"
+    ],
+    [
+      "DeepSeek Introduces Vision",
+      "https://chat.deepseek.com/"
+    ]
+  ],
+  [
+    [
       "2026-06-18, 05:10:28",
       "https://news.ycombinator.com/item?id=48581070"
     ],
@@ -31,16 +51,6 @@
   ],
   [
     [
-      "2026-06-18, 03:34:54",
-      "https://news.ycombinator.com/item?id=48580466"
-    ],
-    [
-      "Apple boss Tim Cook says prices to rise due to memory chip costs",
-      "https://www.bbc.com/news/articles/c3wyxvqdx1zo"
-    ]
-  ],
-  [
-    [
       "2026-06-18, 03:04:20",
       "https://news.ycombinator.com/item?id=48580209"
     ],
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=48579913"
     ],
     [
-      "[x86] AI Compute Extensions (ACE) Specification",
+      "AI Compute Extensions (ACE) Specification",
       "https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/"
     ]
   ],
@@ -95,7 +105,7 @@
       "https://news.ycombinator.com/item?id=48577374"
     ],
     [
-      "Storied Colors – a catalogue of named colors",
+      "Storied Colors – A catalogue of named colors",
       "https://storiedcolors.com/"
     ]
   ],
@@ -127,16 +137,6 @@
     [
       "How Madrid built its metro cheaply (2024)",
       "https://worksinprogress.co/issue/how-madrid-built-its-metro-cheaply/"
-    ]
-  ],
-  [
-    [
-      "2026-06-17, 17:00:02",
-      "https://news.ycombinator.com/item?id=48573221"
-    ],
-    [
-      "Trellis AI (YC W24)  hiring a product lead to build agents for healthcare access",
-      "https://www.ycombinator.com/companies/trellis-ai/jobs/Cg94htp-product-lead"
     ]
   ],
   [
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2026-06-16, 12:00:48",
+      "https://news.ycombinator.com/item?id=48553876"
+    ],
+    [
+      "The 2-Year Apartment Rule",
+      "https://tadaima.bearblog.dev/the-2-year-apartment-rule/"
+    ]
+  ],
+  [
+    [
       "2026-06-15, 20:22:48",
       "https://news.ycombinator.com/item?id=48546549"
     ],
@@ -261,12 +271,12 @@
   ],
   [
     [
-      "2026-06-15, 09:10:56",
-      "https://news.ycombinator.com/item?id=48538615"
+      "2026-06-15, 06:47:54",
+      "https://news.ycombinator.com/item?id=48537481"
     ],
     [
-      "Magic Buffers and io_uring Registered Buffers",
-      "https://www.mindfruit.co.uk/posts/2025/10/magic-buffers-and-io-uring-write-fixed/"
+      "Sogen – High-performance Windows and Linux userspace emulator",
+      "https://sogen.dev/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Show HN: Inkwash, a watercolor sketching app and explanation",
       "https://johnowhitaker.github.io/inkwash/about"
-    ]
-  ],
-  [
-    [
-      "2026-06-13, 00:37:06",
-      "https://news.ycombinator.com/item?id=48511010"
-    ],
-    [
-      "Sodium Bicarbonate for In-Hospital Cardiac Arrest – A Randomized Clinical Trial",
-      "https://jamanetwork.com/journals/jama/fullarticle/2850405"
     ]
   ],
   [
