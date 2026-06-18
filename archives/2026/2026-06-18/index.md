@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-18](index.md)
 
+* [2026-06-18, 18:30:33](https://news.ycombinator.com/item?id=48589485) - [The AI Hate Progression](https://www.xodium.net/2026/06/the-ai-hate-progression.html)
+* [2026-06-18, 18:20:22](https://news.ycombinator.com/item?id=48589357) - [Ask HN: What is the job market like?](https://news.ycombinator.com/item?id=48589357)
 * [2026-06-18, 17:37:00](https://news.ycombinator.com/item?id=48588755) - [The Token Compression Illusion: Why I'm Skeptical of RTK](https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk/)
 * [2026-06-18, 17:09:53](https://news.ycombinator.com/item?id=48588413) - [Migrating from GNU Stow to Chezmoi](https://rednafi.com/misc/chezmoi/)
 * [2026-06-18, 16:55:25](https://news.ycombinator.com/item?id=48588216) - [The founder of Craigslist has given away half a billion dollars](https://www.independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html)

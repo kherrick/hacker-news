@@ -58,6 +58,7 @@
 * [2026-06-16, 10:51:14](https://news.ycombinator.com/item?id=48553265) - [About ASCII art and Jgs font (2023)](https://velvetyne.fr/news/about-ascii-art-and-jgs-font/)
 * [2026-06-16, 10:44:24](https://news.ycombinator.com/item?id=48553224) - [SpaceX to buy Cursor AI coding agent operator Anysphere for $60B](https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/)
 * [2026-06-16, 09:46:49](https://news.ycombinator.com/item?id=48552844) - [Correlated randomness in Slay the Spire 2](https://tck.mn/blog/correlated-randomness-sts2/)
+* [2026-06-16, 09:36:30](https://news.ycombinator.com/item?id=48552767) - [Notes from Tired Egyptian Whose Job Is Explaining That Humans Built the Pyramids](https://www.mcsweeneys.net/articles/notes-from-a-tired-egyptian-guy-whose-job-is-explaining-that-humans-built-the-pyramids)
 * [2026-06-16, 09:30:58](https://news.ycombinator.com/item?id=48552723) - [Trinket.io shutting down, so we saved it and hosted it a trinket.strivemath.org](https://trinket.strivemath.org/)
 * [2026-06-16, 09:26:09](https://news.ycombinator.com/item?id=48552687) - [Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak](https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827)
 * [2026-06-16, 09:15:31](https://news.ycombinator.com/item?id=48552614) - [Commodore Releases Flip Phone](https://commodore.net/why-a-flip-phone/)

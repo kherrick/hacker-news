@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-06-18, 18:30:33](https://news.ycombinator.com/item?id=48589485) - [The AI Hate Progression](https://www.xodium.net/2026/06/the-ai-hate-progression.html)
+* [2026-06-18, 18:20:22](https://news.ycombinator.com/item?id=48589357) - [Ask HN: What is the job market like?](https://news.ycombinator.com/item?id=48589357)
 * [2026-06-18, 17:37:00](https://news.ycombinator.com/item?id=48588755) - [The Token Compression Illusion: Why I'm Skeptical of RTK](https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk/)
 * [2026-06-18, 17:09:53](https://news.ycombinator.com/item?id=48588413) - [Migrating from GNU Stow to Chezmoi](https://rednafi.com/misc/chezmoi/)
 * [2026-06-18, 16:55:25](https://news.ycombinator.com/item?id=48588216) - [The founder of Craigslist has given away half a billion dollars](https://www.independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html)
@@ -21,15 +23,13 @@
 * [2026-06-18, 10:33:22](https://news.ycombinator.com/item?id=48583386) - [Hospitals and universities repurposing drugs at 90% lower cost](https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost)
 * [2026-06-18, 10:29:20](https://news.ycombinator.com/item?id=48583356) - [.gitignore Isn't the Only Way to Ignore Files in Git](https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/)
 * [2026-06-18, 09:08:04](https://news.ycombinator.com/item?id=48582794) - [Seven Perfect Shuffles Randomize a Deck of Cards. But How Many Sloppy Ones?](https://www.quantamagazine.org/seven-perfect-shuffles-randomize-a-deck-of-cards-but-how-many-sloppy-ones-20260617/)
-* [2026-06-18, 08:08:00](https://news.ycombinator.com/item?id=48582320) - [AMD silently removes memory encryption from consumer Ryzen CPUs](https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change)
 * [2026-06-18, 06:17:40](https://news.ycombinator.com/item?id=48581458) - [DeepSeek Introduces Vision](https://chat.deepseek.com/)
 * [2026-06-18, 03:04:20](https://news.ycombinator.com/item?id=48580209) - [Local Qwen isn't a worse Opus, it's a different tool](https://blog.alexellis.io/local-ai-is-not-opus/)
 * [2026-06-18, 01:59:51](https://news.ycombinator.com/item?id=48579650) - [Midjourney Medical](https://www.midjourney.com/medical/blogpost)
-* [2026-06-16, 13:00:20](https://news.ycombinator.com/item?id=48554590) - [Our Achilles Heel](https://collabfund.com/blog/our-achilles-heel/)
+* [2026-06-16, 09:36:30](https://news.ycombinator.com/item?id=48552767) - [Notes from Tired Egyptian Whose Job Is Explaining That Humans Built the Pyramids](https://www.mcsweeneys.net/articles/notes-from-a-tired-egyptian-guy-whose-job-is-explaining-that-humans-built-the-pyramids)
 * [2026-06-15, 15:32:07](https://news.ycombinator.com/item?id=48542784) - [Emacs, how it all started (for me)](https://xvw.lol/en/articles/emacs-start.html)
 * [2026-06-15, 11:53:47](https://news.ycombinator.com/item?id=48539971) - [Unity vs. Floating Point](https://aras-p.info/blog/2026/06/11/Unity-vs-floating-point/)
 * [2026-06-15, 00:32:24](https://news.ycombinator.com/item?id=48534900) - [Vinyl Cache and Varnish Cache](https://vinyl-cache.org/organization/on_vinyl_cache_and_varnish_cache.html#org-vinyl-varnish)
-* [2026-06-14, 23:20:00](https://news.ycombinator.com/item?id=48534104) - [Image Toolbox (T8RIN)](https://github.com/T8RIN/ImageToolbox/)
 
 ## [Archives](archives/index.md)
 
