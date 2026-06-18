@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-06-18](index.md)
 
+* [2026-06-18, 05:10:28](https://news.ycombinator.com/item?id=48581070) - [I Hate Compilers](https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/)
 * [2026-06-18, 04:05:06](https://news.ycombinator.com/item?id=48580686) - [SteamOS Linux 3.8 released as stable](https://store.steampowered.com/news/app/1675200/view/697641379212298072)
 * [2026-06-18, 03:38:31](https://news.ycombinator.com/item?id=48580504) - [Nim Conf 2026 (Online, Sat June 20)](https://conf.nim-lang.org/)
+* [2026-06-18, 03:34:54](https://news.ycombinator.com/item?id=48580466) - [Apple boss Tim Cook says prices to rise due to memory chip costs](https://www.bbc.com/news/articles/c3wyxvqdx1zo)
 * [2026-06-18, 03:04:20](https://news.ycombinator.com/item?id=48580209) - [Local Qwen isn't a worse Opus, it's a different tool](https://blog.alexellis.io/local-ai-is-not-opus/)
 * [2026-06-18, 02:32:25](https://news.ycombinator.com/item?id=48579915) - [Scaling opencomputer from 1 VM to 1 million sandboxes](https://opencomputer.dev/blog/scaling-one-vm-to-million-sandboxes/)
 * [2026-06-18, 02:32:01](https://news.ycombinator.com/item?id=48579913) - [[x86] AI Compute Extensions (ACE) Specification](https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/)
