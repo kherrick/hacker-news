@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-06-18, 16:44:04",
-      "https://news.ycombinator.com/item?id=48588072"
+      "2026-06-18, 17:37:00",
+      "https://news.ycombinator.com/item?id=48588755"
     ],
     [
-      "Securing the Future of AI Agents",
-      "https://deepmind.google/blog/securing-the-future-of-ai-agents/"
+      "The Token Compression Illusion: Why I'm Skeptical of RTK",
+      "https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk/"
+    ]
+  ],
+  [
+    [
+      "2026-06-18, 17:09:53",
+      "https://news.ycombinator.com/item?id=48588413"
+    ],
+    [
+      "Migrating from GNU Stow to Chezmoi",
+      "https://rednafi.com/misc/chezmoi/"
+    ]
+  ],
+  [
+    [
+      "2026-06-18, 16:55:25",
+      "https://news.ycombinator.com/item?id=48588216"
+    ],
+    [
+      "The founder of Craigslist has given away half a billion dollars",
+      "https://www.independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html"
     ]
   ],
   [
@@ -51,16 +71,6 @@
   ],
   [
     [
-      "2026-06-18, 14:45:43",
-      "https://news.ycombinator.com/item?id=48586231"
-    ],
-    [
-      "What was nice about the UI of Windows 2000",
-      "https://movq.de/blog/postings/2026-06-16/0/POSTING-en.html"
-    ]
-  ],
-  [
-    [
       "2026-06-18, 14:32:13",
       "https://news.ycombinator.com/item?id=48586005"
     ],
@@ -97,16 +107,6 @@
     [
       "Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts",
       "https://gerrymandle.cc/"
-    ]
-  ],
-  [
-    [
-      "2026-06-18, 13:05:58",
-      "https://news.ycombinator.com/item?id=48584709"
-    ],
-    [
-      "How Alberta Eradicated Rats",
-      "https://worksinprogress.co/issue/albertas-war-on-rats/"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2026-06-18, 05:10:28",
-      "https://news.ycombinator.com/item?id=48581070"
-    ],
-    [
-      "I hate compilers",
-      "https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/"
-    ]
-  ],
-  [
-    [
       "2026-06-18, 03:04:20",
       "https://news.ycombinator.com/item?id=48580209"
     ],
@@ -257,6 +247,16 @@
     [
       "Midjourney Medical",
       "https://www.midjourney.com/medical/blogpost"
+    ]
+  ],
+  [
+    [
+      "2026-06-16, 13:00:20",
+      "https://news.ycombinator.com/item?id=48554590"
+    ],
+    [
+      "Our Achilles Heel",
+      "https://collabfund.com/blog/our-achilles-heel/"
     ]
   ],
   [
