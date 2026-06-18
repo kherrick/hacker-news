@@ -4,9 +4,17 @@
 
 ### [Archives](../../index.md) for [2026-06-18](index.md)
 
+* [2026-06-18, 13:21:28](https://news.ycombinator.com/item?id=48584891) - [Wages in America Are Too Low for the 30% Rule to Work for Renters Anymore](https://www.realtor.com/advice/rent/wages-in-america-are-too-low-for-the-30-rule-to-work-for-renters-anymore/)
+* [2026-06-18, 12:46:04](https://news.ycombinator.com/item?id=48584497) - [Has W Social switched to closed source?](https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/)
+* [2026-06-18, 12:19:05](https://news.ycombinator.com/item?id=48584207) - [Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly](https://www.windowslatest.com/2026/06/15/microsofts-new-outlook-takes-10-seconds-to-do-what-outlook-classic-does-instantly-on-windows/)
+* [2026-06-18, 12:10:53](https://news.ycombinator.com/item?id=48584135) - [Emacs 31 Is Around the Corner: The Changes I'm Daily Driving](https://www.rahuljuliato.com/posts/emacs-31-around-the-corner)
+* [2026-06-18, 11:45:43](https://news.ycombinator.com/item?id=48583928) - [I found 10k GitHub repositories distributing Trojan malware](https://orchidfiles.com/github-repositories-distributing-malware/)
+* [2026-06-18, 11:41:21](https://news.ycombinator.com/item?id=48583897) - [Modos Color Monitor Pushes E-Paper Displays Further](https://spectrum.ieee.org/modos-e-paper-monitor)
 * [2026-06-18, 11:34:41](https://news.ycombinator.com/item?id=48583843) - [Challenging the Narrative of European Decline](https://paulkrugman.substack.com/p/challenging-the-narrative-of-european-478)
 * [2026-06-18, 11:20:18](https://news.ycombinator.com/item?id=48583703) - [We built a persistent agent memory layer on Elasticsearch with 0.89 recall](https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch)
+* [2026-06-18, 11:04:31](https://news.ycombinator.com/item?id=48583606) - [Advanced Compilers: The Self-Guided Online Course](https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/)
 * [2026-06-18, 10:33:22](https://news.ycombinator.com/item?id=48583386) - [Hospitals and universities repurposing drugs at 90% lower cost](https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost)
+* [2026-06-18, 10:29:20](https://news.ycombinator.com/item?id=48583356) - [.gitignore Isn't the Only Way to Ignore Files in Git](https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/)
 * [2026-06-18, 09:08:04](https://news.ycombinator.com/item?id=48582794) - [Seven Perfect Shuffles Randomize a Deck of Cards. But How Many Sloppy Ones?](https://www.quantamagazine.org/seven-perfect-shuffles-randomize-a-deck-of-cards-but-how-many-sloppy-ones-20260617/)
 * [2026-06-18, 08:28:04](https://news.ycombinator.com/item?id=48582464) - [I need your clothes, your boots, and your motorcycle](https://rbelmont.mameworld.info/?p=1725)
 * [2026-06-18, 08:08:00](https://news.ycombinator.com/item?id=48582320) - [AMD silently removes memory encryption from consumer Ryzen CPUs](https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change)
