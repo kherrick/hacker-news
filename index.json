@@ -1,12 +1,52 @@
 [
   [
     [
-      "2026-06-18, 13:21:28",
-      "https://news.ycombinator.com/item?id=48584891"
+      "2026-06-18, 14:49:44",
+      "https://news.ycombinator.com/item?id=48586299"
     ],
     [
-      "Wages in America Are Too Low for the 30% Rule to Work for Renters Anymore",
-      "https://www.realtor.com/advice/rent/wages-in-america-are-too-low-for-the-30-rule-to-work-for-renters-anymore/"
+      "Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps",
+      "https://tester.army"
+    ]
+  ],
+  [
+    [
+      "2026-06-18, 14:32:13",
+      "https://news.ycombinator.com/item?id=48586005"
+    ],
+    [
+      "Migrate from OpenClaw",
+      "https://hermes-agent.nousresearch.com/docs/guides/migrate-from-openclaw"
+    ]
+  ],
+  [
+    [
+      "2026-06-18, 14:24:30",
+      "https://news.ycombinator.com/item?id=48585866"
+    ],
+    [
+      "Ubiquiti: Enterprise NAS, Built on ZFS",
+      "https://blog.ui.com/article/introducing-enterprise-nas"
+    ]
+  ],
+  [
+    [
+      "2026-06-18, 13:19:57",
+      "https://news.ycombinator.com/item?id=48584873"
+    ],
+    [
+      "Git platform built for agentic era",
+      "https://gitlawb.com/node"
+    ]
+  ],
+  [
+    [
+      "2026-06-18, 13:05:58",
+      "https://news.ycombinator.com/item?id=48584709"
+    ],
+    [
+      "How Alberta Eradicated Rats",
+      "https://worksinprogress.co/issue/albertas-war-on-rats/"
     ]
   ],
   [
@@ -191,26 +231,6 @@
   ],
   [
     [
-      "2026-06-17, 21:49:03",
-      "https://news.ycombinator.com/item?id=48577374"
-    ],
-    [
-      "Storied Colors – A catalogue of named colors",
-      "https://storiedcolors.com/"
-    ]
-  ],
-  [
-    [
-      "2026-06-17, 19:59:27",
-      "https://news.ycombinator.com/item?id=48575997"
-    ],
-    [
-      "How Madrid built its metro cheaply (2024)",
-      "https://worksinprogress.co/issue/how-madrid-built-its-metro-cheaply/"
-    ]
-  ],
-  [
-    [
       "2026-06-17, 14:30:27",
       "https://news.ycombinator.com/item?id=48571081"
     ],
@@ -241,26 +261,6 @@
   ],
   [
     [
-      "2026-06-16, 12:00:48",
-      "https://news.ycombinator.com/item?id=48553876"
-    ],
-    [
-      "The 2-Year Apartment Rule",
-      "https://tadaima.bearblog.dev/the-2-year-apartment-rule/"
-    ]
-  ],
-  [
-    [
-      "2026-06-15, 18:37:27",
-      "https://news.ycombinator.com/item?id=48545293"
-    ],
-    [
-      "The Alaska Server",
-      "https://serialport.org/blog/the-alaska-server/"
-    ]
-  ],
-  [
-    [
       "2026-06-15, 11:53:47",
       "https://news.ycombinator.com/item?id=48539971"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2026-06-15, 02:19:48",
-      "https://news.ycombinator.com/item?id=48535821"
-    ],
-    [
-      "Smashed Toilet Phone Web Server",
-      "https://www.offthebricks.com/articles/smashed-toilet-phone-web-server"
-    ]
-  ],
-  [
-    [
       "2026-06-15, 00:32:24",
       "https://news.ycombinator.com/item?id=48534900"
     ],
     [
       "Vinyl Cache and Varnish Cache",
       "https://vinyl-cache.org/organization/on_vinyl_cache_and_varnish_cache.html#org-vinyl-varnish"
+    ]
+  ],
+  [
+    [
+      "2026-06-14, 23:20:00",
+      "https://news.ycombinator.com/item?id=48534104"
+    ],
+    [
+      "Image Toolbox (T8RIN)",
+      "https://github.com/T8RIN/ImageToolbox/"
     ]
   ]
 ]
