@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-06-18, 08:28:04",
+      "https://news.ycombinator.com/item?id=48582464"
+    ],
+    [
+      "I need your clothes, your boots, and your motorcycle",
+      "https://rbelmont.mameworld.info/?p=1725"
+    ]
+  ],
+  [
+    [
+      "2026-06-18, 08:08:00",
+      "https://news.ycombinator.com/item?id=48582320"
+    ],
+    [
+      "AMD silently removes memory encryption from consumer Ryzen CPUs",
+      "https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change"
+    ]
+  ],
+  [
+    [
+      "2026-06-18, 07:46:55",
+      "https://news.ycombinator.com/item?id=48582147"
+    ],
+    [
+      "The Forge We Deserve",
+      "https://btao.org/posts/2026-05-09-the-forge-we-deserve/"
+    ]
+  ],
+  [
+    [
       "2026-06-18, 06:23:24",
       "https://news.ycombinator.com/item?id=48581489"
     ],
@@ -111,12 +141,12 @@
   ],
   [
     [
-      "2026-06-17, 21:00:53",
-      "https://news.ycombinator.com/item?id=48576838"
+      "2026-06-17, 21:00:07",
+      "https://news.ycombinator.com/item?id=48576824"
     ],
     [
-      "Tesco moving 40k server workloads off VMware amid Broadcom's abusive conduct",
-      "https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/"
+      "A robot is sprinting towards you. Do you want it running on Claude or Grok?",
+      "https://openrouter.ai/blog/insights/royale-last-agent-standing/"
     ]
   ],
   [
@@ -191,32 +221,12 @@
   ],
   [
     [
-      "2026-06-17, 12:04:28",
-      "https://news.ycombinator.com/item?id=48569205"
-    ],
-    [
-      "MicroUI – A tiny, portable, immediate-mode UI library written in ANSI C",
-      "https://github.com/rxi/microui"
-    ]
-  ],
-  [
-    [
       "2026-06-17, 10:51:17",
       "https://news.ycombinator.com/item?id=48568502"
     ],
     [
       "RFC 10008: The new HTTP Query Method",
       "https://www.rfc-editor.org/info/rfc10008/"
-    ]
-  ],
-  [
-    [
-      "2026-06-17, 09:12:00",
-      "https://news.ycombinator.com/item?id=48567759"
-    ],
-    [
-      "GLM-5.2 is the new leading open weights model on Artificial Analysis",
-      "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index"
     ]
   ],
   [
@@ -241,22 +251,22 @@
   ],
   [
     [
-      "2026-06-16, 12:16:11",
-      "https://news.ycombinator.com/item?id=48554044"
-    ],
-    [
-      "Show HN: Spin Lab",
-      "https://srijanshukla.com/artifacts/spin-lab/"
-    ]
-  ],
-  [
-    [
       "2026-06-16, 12:00:48",
       "https://news.ycombinator.com/item?id=48553876"
     ],
     [
       "The 2-Year Apartment Rule",
       "https://tadaima.bearblog.dev/the-2-year-apartment-rule/"
+    ]
+  ],
+  [
+    [
+      "2026-06-16, 10:51:14",
+      "https://news.ycombinator.com/item?id=48553265"
+    ],
+    [
+      "About ASCII art and Jgs font (2023)",
+      "https://velvetyne.fr/news/about-ascii-art-and-jgs-font/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Sogen – High-performance Windows and Linux userspace emulator",
       "https://sogen.dev/"
-    ]
-  ],
-  [
-    [
-      "2026-06-14, 02:14:43",
-      "https://news.ycombinator.com/item?id=48523534"
-    ],
-    [
-      "Show HN: Inkwash, a watercolor sketching app and explanation",
-      "https://johnowhitaker.github.io/inkwash/about"
     ]
   ],
   [
