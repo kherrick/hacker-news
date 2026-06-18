@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-18, 05:10:28",
+      "https://news.ycombinator.com/item?id=48581070"
+    ],
+    [
+      "I Hate Compilers",
+      "https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/"
+    ]
+  ],
+  [
+    [
       "2026-06-18, 04:05:06",
       "https://news.ycombinator.com/item?id=48580686"
     ],
@@ -21,22 +31,22 @@
   ],
   [
     [
+      "2026-06-18, 03:34:54",
+      "https://news.ycombinator.com/item?id=48580466"
+    ],
+    [
+      "Apple boss Tim Cook says prices to rise due to memory chip costs",
+      "https://www.bbc.com/news/articles/c3wyxvqdx1zo"
+    ]
+  ],
+  [
+    [
       "2026-06-18, 03:04:20",
       "https://news.ycombinator.com/item?id=48580209"
     ],
     [
       "Local Qwen isn't a worse Opus, it's a different tool",
       "https://blog.alexellis.io/local-ai-is-not-opus/"
-    ]
-  ],
-  [
-    [
-      "2026-06-18, 02:32:25",
-      "https://news.ycombinator.com/item?id=48579915"
-    ],
-    [
-      "Scaling opencomputer from 1 VM to 1 million sandboxes",
-      "https://opencomputer.dev/blog/scaling-one-vm-to-million-sandboxes/"
     ]
   ],
   [
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2026-06-17, 09:54:21",
-      "https://news.ycombinator.com/item?id=48568058"
-    ],
-    [
-      "U.S. science is in chaos",
-      "https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/"
-    ]
-  ],
-  [
-    [
       "2026-06-17, 09:12:00",
       "https://news.ycombinator.com/item?id=48567759"
     ],
@@ -251,22 +251,22 @@
   ],
   [
     [
-      "2026-06-16, 05:49:51",
-      "https://news.ycombinator.com/item?id=48551069"
-    ],
-    [
-      "The Return of Rigorous Full-System Timing Simulation",
-      "https://www.sigarch.org/the-return-of-rigorous-full-system-timing-simulation/"
-    ]
-  ],
-  [
-    [
       "2026-06-15, 20:22:48",
       "https://news.ycombinator.com/item?id=48546549"
     ],
     [
       "Show HN: We built an 8-bit CPU as 2nd year EE students",
       "https://github.com/c0rRupT9/STEPLA-1"
+    ]
+  ],
+  [
+    [
+      "2026-06-15, 09:10:56",
+      "https://news.ycombinator.com/item?id=48538615"
+    ],
+    [
+      "Magic Buffers and io_uring Registered Buffers",
+      "https://www.mindfruit.co.uk/posts/2025/10/magic-buffers-and-io-uring-write-fixed/"
     ]
   ],
   [
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2026-06-14, 00:26:02",
-      "https://news.ycombinator.com/item?id=48522927"
+      "2026-06-13, 00:37:06",
+      "https://news.ycombinator.com/item?id=48511010"
     ],
     [
-      "Image Compression",
-      "https://www.makingsoftware.com/chapters/image-compression"
+      "Sodium Bicarbonate for In-Hospital Cardiac Arrest – A Randomized Clinical Trial",
+      "https://jamanetwork.com/journals/jama/fullarticle/2850405"
     ]
   ],
   [
