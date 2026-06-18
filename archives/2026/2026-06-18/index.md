@@ -4,9 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-06-18](index.md)
 
+* [2026-06-18, 15:23:30](https://news.ycombinator.com/item?id=48586811) - [Show HN: 10x better performance from the Coding Harnesses with LLM-wiki](https://llm-wiki.net/)
+* [2026-06-18, 15:13:26](https://news.ycombinator.com/item?id=48586648) - [TerraPower in Deal with Meta for Eight Natrium 345 MW Advanced Nuclear Plants](https://neutronbytes.com/2026/01/09/terrapower-in-mega-deal-with-meta-for-eight-natrium-345-mw-advanced-nuclear-plants/)
+* [2026-06-18, 15:12:43](https://news.ycombinator.com/item?id=48586631) - [A website that lists websites to submit your website to](https://www.submission.directory/)
 * [2026-06-18, 14:49:44](https://news.ycombinator.com/item?id=48586299) - [Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps](https://tester.army)
+* [2026-06-18, 14:45:43](https://news.ycombinator.com/item?id=48586231) - [What was nice about the UI of Windows 2000](https://movq.de/blog/postings/2026-06-16/0/POSTING-en.html)
 * [2026-06-18, 14:32:13](https://news.ycombinator.com/item?id=48586005) - [Migrate from OpenClaw](https://hermes-agent.nousresearch.com/docs/guides/migrate-from-openclaw)
 * [2026-06-18, 14:24:30](https://news.ycombinator.com/item?id=48585866) - [Ubiquiti: Enterprise NAS, Built on ZFS](https://blog.ui.com/article/introducing-enterprise-nas)
+* [2026-06-18, 14:17:07](https://news.ycombinator.com/item?id=48585746) - [Swiss parliament lifts ban on new nuclear power plants](https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html)
+* [2026-06-18, 14:16:25](https://news.ycombinator.com/item?id=48585739) - [Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts](https://gerrymandle.cc/)
 * [2026-06-18, 13:21:28](https://news.ycombinator.com/item?id=48584891) - [Wages in America Are Too Low for the 30% Rule to Work for Renters Anymore](https://www.realtor.com/advice/rent/wages-in-america-are-too-low-for-the-30-rule-to-work-for-renters-anymore/)
 * [2026-06-18, 13:19:57](https://news.ycombinator.com/item?id=48584873) - [Git platform built for agentic era](https://gitlawb.com/node)
 * [2026-06-18, 13:05:58](https://news.ycombinator.com/item?id=48584709) - [How Alberta Eradicated Rats](https://worksinprogress.co/issue/albertas-war-on-rats/)
