@@ -47,6 +47,7 @@
 * [2026-06-16, 14:15:00](https://news.ycombinator.com/item?id=48555677) - [Show HN: Hackers for Granny (defense against industrialized elder fraud)](https://professorsigmund.com/praxis/hackers_for_granny_manifesto.html)
 * [2026-06-16, 13:46:19](https://news.ycombinator.com/item?id=48555244) - [Google Chrome update will close the door on ad blockers](https://9to5google.com/2026/06/15/google-chromes-next-update-will-mark-the-end-of-popular-ad-blockers/)
 * [2026-06-16, 13:15:15](https://news.ycombinator.com/item?id=48554814) - [Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence](https://qwen.ai/blog?id=qwen-robotsuite)
+* [2026-06-16, 13:00:20](https://news.ycombinator.com/item?id=48554590) - [Our Achilles Heel](https://collabfund.com/blog/our-achilles-heel/)
 * [2026-06-16, 12:51:10](https://news.ycombinator.com/item?id=48554433) - ['Wow, it really worked ': 70s TV show causing worldwide panic today](https://www.theguardian.com/tv-and-radio/2026/jun/16/alternative-3-mockumentary-missing-scientists-conspiracy-50-years-later)
 * [2026-06-16, 12:31:37](https://news.ycombinator.com/item?id=48554215) - [SpaceX Is Buying Cursor](https://www.bbc.com/news/articles/cvgd5g7d7gyo)
 * [2026-06-16, 12:31:18](https://news.ycombinator.com/item?id=48554208) - [Russian artist and Putin critic shot dead in Poland](https://www.bbc.com/news/articles/clyrzd5g6k2o)
