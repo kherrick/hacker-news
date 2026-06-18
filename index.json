@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-18, 10:33:22",
+      "https://news.ycombinator.com/item?id=48583386"
+    ],
+    [
+      "Hospitals and universities repurposing drugs at 90% lower cost",
+      "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost"
+    ]
+  ],
+  [
+    [
       "2026-06-18, 08:28:04",
       "https://news.ycombinator.com/item?id=48582464"
     ],
@@ -55,18 +65,8 @@
       "https://news.ycombinator.com/item?id=48581070"
     ],
     [
-      "I Hate Compilers",
+      "I hate compilers",
       "https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/"
-    ]
-  ],
-  [
-    [
-      "2026-06-18, 04:05:06",
-      "https://news.ycombinator.com/item?id=48580686"
-    ],
-    [
-      "SteamOS Linux 3.8 released as stable",
-      "https://store.steampowered.com/news/app/1675200/view/697641379212298072"
     ]
   ],
   [
@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2026-06-17, 21:00:07",
-      "https://news.ycombinator.com/item?id=48576824"
-    ],
-    [
-      "A robot is sprinting towards you. Do you want it running on Claude or Grok?",
-      "https://openrouter.ai/blog/insights/royale-last-agent-standing/"
-    ]
-  ],
-  [
-    [
       "2026-06-17, 20:29:15",
       "https://news.ycombinator.com/item?id=48576395"
     ],
@@ -167,16 +157,6 @@
     [
       "How Madrid built its metro cheaply (2024)",
       "https://worksinprogress.co/issue/how-madrid-built-its-metro-cheaply/"
-    ]
-  ],
-  [
-    [
-      "2026-06-17, 16:44:15",
-      "https://news.ycombinator.com/item?id=48573012"
-    ],
-    [
-      "Show HN: An 8-bit live gamecast for baseball",
-      "https://ribbie.tv/watch"
     ]
   ],
   [
@@ -287,6 +267,26 @@
     [
       "Sogen – High-performance Windows and Linux userspace emulator",
       "https://sogen.dev/"
+    ]
+  ],
+  [
+    [
+      "2026-06-15, 02:19:48",
+      "https://news.ycombinator.com/item?id=48535821"
+    ],
+    [
+      "Smashed Toilet Phone Web Server",
+      "https://www.offthebricks.com/articles/smashed-toilet-phone-web-server"
+    ]
+  ],
+  [
+    [
+      "2026-06-15, 00:32:24",
+      "https://news.ycombinator.com/item?id=48534900"
+    ],
+    [
+      "Vinyl Cache and Varnish Cache",
+      "https://vinyl-cache.org/organization/on_vinyl_cache_and_varnish_cache.html#org-vinyl-varnish"
     ]
   ],
   [
