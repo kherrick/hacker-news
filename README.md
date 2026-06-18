@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-06-18, 00:24:04](https://news.ycombinator.com/item?id=48578894) - [ChatGPT Spontaneously Generates Sexual Violence and Hardcore Snuff Imagery](https://mindgard.ai/blog/chatgpt-spontaneously-generated-violent-images-from-a-viral-prompt)
 * [2026-06-17, 23:20:38](https://news.ycombinator.com/item?id=48578388) - [Taxonomy of the Occlupanida (parasitoids on bread bag tags)](https://www.horg.com/horg/?page_id=921)
 * [2026-06-17, 23:14:49](https://news.ycombinator.com/item?id=48578326) - [Clojure Hosted on Go](https://github.com/glojurelang/glojure)
 * [2026-06-17, 21:49:03](https://news.ycombinator.com/item?id=48577374) - [Storied Colors – a catalogue of named colors](https://storiedcolors.com/)
@@ -8,6 +7,7 @@
 * [2026-06-17, 21:00:53](https://news.ycombinator.com/item?id=48576838) - [Tesco moving 40k server workloads off VMware amid Broadcom's abusive conduct](https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/)
 * [2026-06-17, 21:00:07](https://news.ycombinator.com/item?id=48576824) - [A robot is sprinting towards you. Do you want it running on Claude or Grok?](https://openrouter.ai/blog/insights/royale-last-agent-standing/)
 * [2026-06-17, 20:29:15](https://news.ycombinator.com/item?id=48576395) - [Loreline – Tools for writing interactive fiction](https://loreline.app/en/)
+* [2026-06-17, 19:59:27](https://news.ycombinator.com/item?id=48575997) - [How Madrid built its metro cheaply](https://worksinprogress.co/issue/how-madrid-built-its-metro-cheaply/)
 * [2026-06-17, 19:50:11](https://news.ycombinator.com/item?id=48575878) - [Made a free macOS menu bar app that fixes typing in the wrong keyboard layout](https://flickey.site)
 * [2026-06-17, 17:14:21](https://news.ycombinator.com/item?id=48573435) - [The Competitive Moat That AI Can't Replicate](https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/)
 * [2026-06-17, 17:00:02](https://news.ycombinator.com/item?id=48573221) - [Trellis AI (YC W24)  hiring a product lead to build agents for healthcare access](https://www.ycombinator.com/companies/trellis-ai/jobs/Cg94htp-product-lead)
@@ -25,7 +25,7 @@
 * [2026-06-16, 15:15:01](https://news.ycombinator.com/item?id=48556561) - [How we run Firecracker VMs inside EC2 and start browsers in less than 1s](https://browser-use.com/posts/firecracker-browser-infra)
 * [2026-06-16, 05:49:51](https://news.ycombinator.com/item?id=48551069) - [The Return of Rigorous Full-System Timing Simulation](https://www.sigarch.org/the-return-of-rigorous-full-system-timing-simulation/)
 * [2026-06-15, 20:22:48](https://news.ycombinator.com/item?id=48546549) - [Show HN: We built an 8-bit CPU as 2nd year EE students](https://github.com/c0rRupT9/STEPLA-1)
-* [2026-06-15, 14:55:12](https://news.ycombinator.com/item?id=48542200) - [Gliderboy Reinvents Humble Weather Balloon with Flight Home](https://www.bloomberg.com/news/newsletters/2026-06-15/-gliderboy-reinvents-weather-balloon-with-return-flight-home)
+* [2026-06-15, 18:56:22](https://news.ycombinator.com/item?id=48545510) - [Brad Feld – Does the Rule of 40 Work for Hardware?](https://feld.com/archives/2026/06/does-the-rule-of-40-work-for-hardware/)
 * [2026-06-14, 21:41:56](https://news.ycombinator.com/item?id=48533098) - [Kirkland Roundabouts](https://kirklandroundabouts.com)
 * [2026-06-14, 14:22:41](https://news.ycombinator.com/item?id=48527464) - [Pink Cosmo berries a hit in their trial season (2023)](https://fruitgrowersnews.com/article/pink-cosmo-berries-a-hit-in-their-trial-season/)
 * [2026-06-14, 02:14:43](https://news.ycombinator.com/item?id=48523534) - [Show HN: Inkwash, a watercolor sketching app and explanation](https://johnowhitaker.github.io/inkwash/about)

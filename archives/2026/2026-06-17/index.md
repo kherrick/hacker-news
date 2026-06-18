@@ -15,6 +15,7 @@
 * [2026-06-17, 20:29:15](https://news.ycombinator.com/item?id=48576395) - [Loreline – Tools for writing interactive fiction](https://loreline.app/en/)
 * [2026-06-17, 20:23:00](https://news.ycombinator.com/item?id=48576307) - [Apple Intelligence may become mandatory in iOS and macOS 27](https://manualdousuario.net/en/apple-intelligence-mandatory-ios-macos-27/)
 * [2026-06-17, 20:07:47](https://news.ycombinator.com/item?id=48576113) - [Krugman: Musk, a Human Ponzi Scheme](https://paulkrugman.substack.com/p/elon-musk-human-ponzi-scheme)
+* [2026-06-17, 19:59:27](https://news.ycombinator.com/item?id=48575997) - [How Madrid built its metro cheaply](https://worksinprogress.co/issue/how-madrid-built-its-metro-cheaply/)
 * [2026-06-17, 19:50:11](https://news.ycombinator.com/item?id=48575878) - [Made a free macOS menu bar app that fixes typing in the wrong keyboard layout](https://flickey.site)
 * [2026-06-17, 19:22:02](https://news.ycombinator.com/item?id=48575451) - [The hacker sent by Anthropic to calm the government's nerves about AI safety](https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas-carlini-20bceaa3)
 * [2026-06-17, 17:34:20](https://news.ycombinator.com/item?id=48573757) - [AI chemist improves a challenging reaction in medicinal chemistry](https://openai.com/index/ai-chemist-improves-reaction/)
