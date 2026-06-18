@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-06-18, 04:05:06",
+      "https://news.ycombinator.com/item?id=48580686"
+    ],
+    [
+      "SteamOS Linux 3.8 released as stable",
+      "https://store.steampowered.com/news/app/1675200/view/697641379212298072"
+    ]
+  ],
+  [
+    [
+      "2026-06-18, 03:38:31",
+      "https://news.ycombinator.com/item?id=48580504"
+    ],
+    [
+      "Nim Conf 2026 (Online, Sat June 20)",
+      "https://conf.nim-lang.org/"
+    ]
+  ],
+  [
+    [
+      "2026-06-18, 03:04:20",
+      "https://news.ycombinator.com/item?id=48580209"
+    ],
+    [
+      "Local Qwen isn't a worse Opus, it's a different tool",
+      "https://blog.alexellis.io/local-ai-is-not-opus/"
+    ]
+  ],
+  [
+    [
+      "2026-06-18, 02:32:25",
+      "https://news.ycombinator.com/item?id=48579915"
+    ],
+    [
+      "Scaling opencomputer from 1 VM to 1 million sandboxes",
+      "https://opencomputer.dev/blog/scaling-one-vm-to-million-sandboxes/"
+    ]
+  ],
+  [
+    [
       "2026-06-18, 02:32:01",
       "https://news.ycombinator.com/item?id=48579913"
     ],
@@ -17,16 +57,6 @@
     [
       "Midjourney Medical",
       "https://www.midjourney.com/medical/blogpost"
-    ]
-  ],
-  [
-    [
-      "2026-06-18, 00:24:04",
-      "https://news.ycombinator.com/item?id=48578894"
-    ],
-    [
-      "ChatGPT's image generator can be manipulated to produce violent, sexual content",
-      "https://mindgard.ai/blog/chatgpt-spontaneously-generated-violent-images-from-a-viral-prompt"
     ]
   ],
   [
@@ -71,16 +101,6 @@
   ],
   [
     [
-      "2026-06-17, 21:00:07",
-      "https://news.ycombinator.com/item?id=48576824"
-    ],
-    [
-      "A robot is sprinting towards you. Do you want it running on Claude or Grok?",
-      "https://openrouter.ai/blog/insights/royale-last-agent-standing/"
-    ]
-  ],
-  [
-    [
       "2026-06-17, 20:29:15",
       "https://news.ycombinator.com/item?id=48576395"
     ],
@@ -95,18 +115,8 @@
       "https://news.ycombinator.com/item?id=48575997"
     ],
     [
-      "How Madrid built its metro cheaply",
+      "How Madrid built its metro cheaply (2024)",
       "https://worksinprogress.co/issue/how-madrid-built-its-metro-cheaply/"
-    ]
-  ],
-  [
-    [
-      "2026-06-17, 19:50:11",
-      "https://news.ycombinator.com/item?id=48575878"
-    ],
-    [
-      "Made a free macOS menu bar app that fixes typing in the wrong keyboard layout",
-      "https://flickey.site"
     ]
   ],
   [
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2026-06-16, 15:41:02",
-      "https://news.ycombinator.com/item?id=48557002"
-    ],
-    [
-      "Show HN: BlitzGraph – Supabase for graphs, built for LLM agents",
-      "https://blitzgraph.com"
-    ]
-  ],
-  [
-    [
       "2026-06-16, 15:15:01",
       "https://news.ycombinator.com/item?id=48556561"
     ],
@@ -271,22 +271,22 @@
   ],
   [
     [
-      "2026-06-14, 21:41:56",
-      "https://news.ycombinator.com/item?id=48533098"
-    ],
-    [
-      "Kirkland Roundabouts",
-      "https://kirklandroundabouts.com"
-    ]
-  ],
-  [
-    [
       "2026-06-14, 02:14:43",
       "https://news.ycombinator.com/item?id=48523534"
     ],
     [
       "Show HN: Inkwash, a watercolor sketching app and explanation",
       "https://johnowhitaker.github.io/inkwash/about"
+    ]
+  ],
+  [
+    [
+      "2026-06-14, 00:26:02",
+      "https://news.ycombinator.com/item?id=48522927"
+    ],
+    [
+      "Image Compression",
+      "https://www.makingsoftware.com/chapters/image-compression"
     ]
   ],
   [
