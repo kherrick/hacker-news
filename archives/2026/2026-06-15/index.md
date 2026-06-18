@@ -63,6 +63,8 @@
 * [2026-06-15, 04:55:34](https://news.ycombinator.com/item?id=48536776) - [Apple Foundation Models](https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models)
 * [2026-06-15, 04:37:42](https://news.ycombinator.com/item?id=48536660) - [A brief tour of the PDP-11, the most influential minicomputer of all time (2022)](https://arstechnica.com/gadgets/2022/03/a-brief-tour-of-the-pdp-11-the-most-influential-minicomputer-of-all-time/)
 * [2026-06-15, 02:30:25](https://news.ycombinator.com/item?id=48535886) - [Even More Batteries Included with Emacs](https://karthinks.com/software/even-more-batteries-included-with-emacs/)
+* [2026-06-15, 02:19:48](https://news.ycombinator.com/item?id=48535821) - [Smashed Toilet Phone Web Server](https://www.offthebricks.com/articles/smashed-toilet-phone-web-server)
 * [2026-06-15, 01:07:37](https://news.ycombinator.com/item?id=48535215) - [The hallucinogenic mushroom that contains no known psychedelic](https://psychedelics.co.uk/news/a-mushroom-genus-that-gets-people-high-but-not-the)
 * [2026-06-15, 00:54:50](https://news.ycombinator.com/item?id=48535118) - [The rich aren't your role models](https://theslowburningfuse.wordpress.com/2026/06/14/the-rich-arent-your-role-models-theyre-your-oppressors/)
+* [2026-06-15, 00:32:24](https://news.ycombinator.com/item?id=48534900) - [Vinyl Cache and Varnish Cache](https://vinyl-cache.org/organization/on_vinyl_cache_and_varnish_cache.html#org-vinyl-varnish)
 * [2026-06-15, 00:07:32](https://news.ycombinator.com/item?id=48534628) - [21 years and counting of 'eight fallacies of distributed computing' (2025)](https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/)
