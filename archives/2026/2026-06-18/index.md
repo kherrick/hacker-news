@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-06-18](index.md)
 
+* [2026-06-18, 14:49:44](https://news.ycombinator.com/item?id=48586299) - [Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps](https://tester.army)
+* [2026-06-18, 14:32:13](https://news.ycombinator.com/item?id=48586005) - [Migrate from OpenClaw](https://hermes-agent.nousresearch.com/docs/guides/migrate-from-openclaw)
+* [2026-06-18, 14:24:30](https://news.ycombinator.com/item?id=48585866) - [Ubiquiti: Enterprise NAS, Built on ZFS](https://blog.ui.com/article/introducing-enterprise-nas)
 * [2026-06-18, 13:21:28](https://news.ycombinator.com/item?id=48584891) - [Wages in America Are Too Low for the 30% Rule to Work for Renters Anymore](https://www.realtor.com/advice/rent/wages-in-america-are-too-low-for-the-30-rule-to-work-for-renters-anymore/)
+* [2026-06-18, 13:19:57](https://news.ycombinator.com/item?id=48584873) - [Git platform built for agentic era](https://gitlawb.com/node)
+* [2026-06-18, 13:05:58](https://news.ycombinator.com/item?id=48584709) - [How Alberta Eradicated Rats](https://worksinprogress.co/issue/albertas-war-on-rats/)
 * [2026-06-18, 12:46:04](https://news.ycombinator.com/item?id=48584497) - [Has W Social switched to closed source?](https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/)
 * [2026-06-18, 12:19:05](https://news.ycombinator.com/item?id=48584207) - [Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly](https://www.windowslatest.com/2026/06/15/microsofts-new-outlook-takes-10-seconds-to-do-what-outlook-classic-does-instantly-on-windows/)
 * [2026-06-18, 12:10:53](https://news.ycombinator.com/item?id=48584135) - [Emacs 31 Is Around the Corner: The Changes I'm Daily Driving](https://www.rahuljuliato.com/posts/emacs-31-around-the-corner)
