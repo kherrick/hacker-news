@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-18, 18:30:33",
+      "https://news.ycombinator.com/item?id=48589485"
+    ],
+    [
+      "The AI Hate Progression",
+      "https://www.xodium.net/2026/06/the-ai-hate-progression.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-18, 18:20:22",
+      "https://news.ycombinator.com/item?id=48589357"
+    ],
+    [
+      "Ask HN: What is the job market like?",
+      "https://news.ycombinator.com/item?id=48589357"
+    ]
+  ],
+  [
+    [
       "2026-06-18, 17:37:00",
       "https://news.ycombinator.com/item?id=48588755"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2026-06-18, 08:08:00",
-      "https://news.ycombinator.com/item?id=48582320"
-    ],
-    [
-      "AMD silently removes memory encryption from consumer Ryzen CPUs",
-      "https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change"
-    ]
-  ],
-  [
-    [
       "2026-06-18, 06:17:40",
       "https://news.ycombinator.com/item?id=48581458"
     ],
@@ -251,12 +261,12 @@
   ],
   [
     [
-      "2026-06-16, 13:00:20",
-      "https://news.ycombinator.com/item?id=48554590"
+      "2026-06-16, 09:36:30",
+      "https://news.ycombinator.com/item?id=48552767"
     ],
     [
-      "Our Achilles Heel",
-      "https://collabfund.com/blog/our-achilles-heel/"
+      "Notes from Tired Egyptian Whose Job Is Explaining That Humans Built the Pyramids",
+      "https://www.mcsweeneys.net/articles/notes-from-a-tired-egyptian-guy-whose-job-is-explaining-that-humans-built-the-pyramids"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Vinyl Cache and Varnish Cache",
       "https://vinyl-cache.org/organization/on_vinyl_cache_and_varnish_cache.html#org-vinyl-varnish"
-    ]
-  ],
-  [
-    [
-      "2026-06-14, 23:20:00",
-      "https://news.ycombinator.com/item?id=48534104"
-    ],
-    [
-      "Image Toolbox (T8RIN)",
-      "https://github.com/T8RIN/ImageToolbox/"
     ]
   ]
 ]
