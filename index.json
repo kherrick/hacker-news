@@ -1,12 +1,62 @@
 [
   [
     [
-      "2026-06-18, 11:34:41",
-      "https://news.ycombinator.com/item?id=48583843"
+      "2026-06-18, 13:21:28",
+      "https://news.ycombinator.com/item?id=48584891"
     ],
     [
-      "Challenging the Narrative of European Decline",
-      "https://paulkrugman.substack.com/p/challenging-the-narrative-of-european-478"
+      "Wages in America Are Too Low for the 30% Rule to Work for Renters Anymore",
+      "https://www.realtor.com/advice/rent/wages-in-america-are-too-low-for-the-30-rule-to-work-for-renters-anymore/"
+    ]
+  ],
+  [
+    [
+      "2026-06-18, 12:46:04",
+      "https://news.ycombinator.com/item?id=48584497"
+    ],
+    [
+      "Has W Social switched to closed source?",
+      "https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/"
+    ]
+  ],
+  [
+    [
+      "2026-06-18, 12:19:05",
+      "https://news.ycombinator.com/item?id=48584207"
+    ],
+    [
+      "Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly",
+      "https://www.windowslatest.com/2026/06/15/microsofts-new-outlook-takes-10-seconds-to-do-what-outlook-classic-does-instantly-on-windows/"
+    ]
+  ],
+  [
+    [
+      "2026-06-18, 12:10:53",
+      "https://news.ycombinator.com/item?id=48584135"
+    ],
+    [
+      "Emacs 31 Is Around the Corner: The Changes I'm Daily Driving",
+      "https://www.rahuljuliato.com/posts/emacs-31-around-the-corner"
+    ]
+  ],
+  [
+    [
+      "2026-06-18, 11:45:43",
+      "https://news.ycombinator.com/item?id=48583928"
+    ],
+    [
+      "I found 10k GitHub repositories distributing Trojan malware",
+      "https://orchidfiles.com/github-repositories-distributing-malware/"
+    ]
+  ],
+  [
+    [
+      "2026-06-18, 11:41:21",
+      "https://news.ycombinator.com/item?id=48583897"
+    ],
+    [
+      "Modos Color Monitor Pushes E-Paper Displays Further",
+      "https://spectrum.ieee.org/modos-e-paper-monitor"
     ]
   ],
   [
@@ -21,12 +71,32 @@
   ],
   [
     [
+      "2026-06-18, 11:04:31",
+      "https://news.ycombinator.com/item?id=48583606"
+    ],
+    [
+      "Advanced Compilers: The Self-Guided Online Course",
+      "https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/"
+    ]
+  ],
+  [
+    [
       "2026-06-18, 10:33:22",
       "https://news.ycombinator.com/item?id=48583386"
     ],
     [
       "Hospitals and universities repurposing drugs at 90% lower cost",
       "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost"
+    ]
+  ],
+  [
+    [
+      "2026-06-18, 10:29:20",
+      "https://news.ycombinator.com/item?id=48583356"
+    ],
+    [
+      ".gitignore Isn't the Only Way to Ignore Files in Git",
+      "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/"
     ]
   ],
   [
@@ -61,16 +131,6 @@
   ],
   [
     [
-      "2026-06-18, 06:23:24",
-      "https://news.ycombinator.com/item?id=48581489"
-    ],
-    [
-      "The Australian Government to Require SMS/MMS Sender ID Registraion",
-      "https://www.acma.gov.au/sms-sender-id-register"
-    ]
-  ],
-  [
-    [
       "2026-06-18, 06:17:40",
       "https://news.ycombinator.com/item?id=48581458"
     ],
@@ -87,16 +147,6 @@
     [
       "I hate compilers",
       "https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/"
-    ]
-  ],
-  [
-    [
-      "2026-06-18, 03:38:31",
-      "https://news.ycombinator.com/item?id=48580504"
-    ],
-    [
-      "Nim Conf 2026 (Online, Sat June 20)",
-      "https://conf.nim-lang.org/"
     ]
   ],
   [
@@ -151,16 +201,6 @@
   ],
   [
     [
-      "2026-06-17, 20:29:15",
-      "https://news.ycombinator.com/item?id=48576395"
-    ],
-    [
-      "Loreline – Tools for writing interactive fiction",
-      "https://loreline.app/en/"
-    ]
-  ],
-  [
-    [
       "2026-06-17, 19:59:27",
       "https://news.ycombinator.com/item?id=48575997"
     ],
@@ -171,42 +211,12 @@
   ],
   [
     [
-      "2026-06-17, 16:14:04",
-      "https://news.ycombinator.com/item?id=48572553"
-    ],
-    [
-      "Launch HN: Adam (YC W25) – Open-Source AI CAD",
-      "https://github.com/Adam-CAD/CADAM"
-    ]
-  ],
-  [
-    [
       "2026-06-17, 14:30:27",
       "https://news.ycombinator.com/item?id=48571081"
     ],
     [
       "Lore – Open source version control system designed for scalability",
       "https://lore.org/"
-    ]
-  ],
-  [
-    [
-      "2026-06-17, 13:00:38",
-      "https://news.ycombinator.com/item?id=48569894"
-    ],
-    [
-      "Why thinking out loud with someone beats thinking alone",
-      "https://www.thesignalist.io/s/the-dialogue-dividend/"
-    ]
-  ],
-  [
-    [
-      "2026-06-17, 10:51:17",
-      "https://news.ycombinator.com/item?id=48568502"
-    ],
-    [
-      "RFC 10008: The new HTTP Query Method",
-      "https://www.rfc-editor.org/info/rfc10008/"
     ]
   ],
   [
@@ -241,32 +251,22 @@
   ],
   [
     [
-      "2026-06-16, 10:51:14",
-      "https://news.ycombinator.com/item?id=48553265"
-    ],
-    [
-      "About ASCII art and Jgs font (2023)",
-      "https://velvetyne.fr/news/about-ascii-art-and-jgs-font/"
-    ]
-  ],
-  [
-    [
-      "2026-06-15, 20:22:48",
-      "https://news.ycombinator.com/item?id=48546549"
-    ],
-    [
-      "Show HN: We built an 8-bit CPU as 2nd year EE students",
-      "https://github.com/c0rRupT9/STEPLA-1"
-    ]
-  ],
-  [
-    [
       "2026-06-15, 18:37:27",
       "https://news.ycombinator.com/item?id=48545293"
     ],
     [
       "The Alaska Server",
       "https://serialport.org/blog/the-alaska-server/"
+    ]
+  ],
+  [
+    [
+      "2026-06-15, 11:53:47",
+      "https://news.ycombinator.com/item?id=48539971"
+    ],
+    [
+      "Unity vs. Floating Point",
+      "https://aras-p.info/blog/2026/06/11/Unity-vs-floating-point/"
     ]
   ],
   [
