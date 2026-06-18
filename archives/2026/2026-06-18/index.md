@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-06-18](index.md)
 
+* [2026-06-18, 20:49:03](https://news.ycombinator.com/item?id=48591348) - [Show HN: Are You in the Weights?](https://www.intheweights.com/)
 * [2026-06-18, 20:10:39](https://news.ycombinator.com/item?id=48590849) - [McMansions 101: What Makes a McMansion Bad Architecture?](https://mcmansionhell.com/post/148605513816/mcmansions-101-what-makes-a-mcmansion-bad)
 * [2026-06-18, 19:25:46](https://news.ycombinator.com/item?id=48590280) - [Integer Quantization: Deep Dive](https://hello-fri-end.github.io/2026/06/integer-quantization-deep-dive/)
+* [2026-06-18, 18:31:23](https://news.ycombinator.com/item?id=48589501) - [I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M](https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/)
 * [2026-06-18, 18:30:33](https://news.ycombinator.com/item?id=48589485) - [The AI Hate Progression](https://www.xodium.net/2026/06/the-ai-hate-progression.html)
 * [2026-06-18, 18:20:22](https://news.ycombinator.com/item?id=48589357) - [Ask HN: What is the job market like?](https://news.ycombinator.com/item?id=48589357)
 * [2026-06-18, 17:37:00](https://news.ycombinator.com/item?id=48588755) - [The Token Compression Illusion: Why I'm Skeptical of RTK](https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk/)

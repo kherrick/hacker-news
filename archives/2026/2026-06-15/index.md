@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-06-15](index.md)
 
 * [2026-06-15, 22:37:55](https://news.ycombinator.com/item?id=48547985) - [Banned Book Library in a Wi-Fi Smart Light Bulb](https://www.richardosgood.com/posts/banned-book-library/)
+* [2026-06-15, 22:36:33](https://news.ycombinator.com/item?id=48547969) - [American Express: Cell-Based Architecture for Resilient Payment Systems](https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/)
 * [2026-06-15, 22:23:38](https://news.ycombinator.com/item?id=48547834) - [Swedish parliament abolishes permanent residence visas for migrants](https://www.riksdagen.se/en/news/articles/2026/jun/9/permanent-residence-permits-to-be-abolished_cmsc5d86c7b-fecc-4799-9e89-e63592d6c6bfen/)
 * [2026-06-15, 22:00:44](https://news.ycombinator.com/item?id=48547608) - [San Francisco Weighs PG&E Takeover Amid Soaring Utility Costs](https://www.kqed.org/news/12081882/san-francisco-has-been-trying-to-leave-pge-for-100-years-will-this-time-be-different)
 * [2026-06-15, 21:57:10](https://news.ycombinator.com/item?id=48547566) - [Why I Email Complete Strangers](https://www.goodinternetmagazine.com/why-i-email-complete-strangers/)
