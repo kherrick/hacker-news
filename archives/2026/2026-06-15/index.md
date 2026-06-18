@@ -34,6 +34,7 @@
 * [2026-06-15, 16:03:26](https://news.ycombinator.com/item?id=48543269) - [Boot Naked Linux](https://nick.zoic.org/art/boot-naked-linux/)
 * [2026-06-15, 16:01:43](https://news.ycombinator.com/item?id=48543245) - [Show HN: machine0 – Persistent NixOS VMs You Control from the CLI](https://machine0.io)
 * [2026-06-15, 15:43:17](https://news.ycombinator.com/item?id=48542970) - [Show HN: Exploiting Slack's video embeds to achieve E2EE communication](https://v1c.rocks/log/exploiting-slack-video/)
+* [2026-06-15, 15:42:42](https://news.ycombinator.com/item?id=48542963) - [My LSM tree was slower than a B-tree. Then I profiled it](https://aasheesh.vercel.app/blog/lsm-tree)
 * [2026-06-15, 15:32:07](https://news.ycombinator.com/item?id=48542784) - [Emacs, how it all started (for me)](https://xvw.lol/en/articles/emacs-start.html)
 * [2026-06-15, 15:13:06](https://news.ycombinator.com/item?id=48542480) - [Iroh 1.0](https://www.iroh.computer/blog/v1)
 * [2026-06-15, 15:09:40](https://news.ycombinator.com/item?id=48542433) - [My Homelab AI Dev Platform](https://rsgm.dev/post/ai-dev-platform/)
