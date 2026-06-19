@@ -55,6 +55,7 @@
 * [2026-06-15, 14:46:53](https://news.ycombinator.com/item?id=48542100) - [Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?](https://news.ycombinator.com/item?id=48542100)
 * [2026-06-15, 14:44:02](https://news.ycombinator.com/item?id=48542064) - [Hetzner increased dedicated server prices 3-4x](https://news.ycombinator.com/item?id=48542064)
 * [2026-06-15, 14:36:29](https://news.ycombinator.com/item?id=48541940) - [The Raku Foundation is born](https://raku.foundation)
+* [2026-06-15, 14:25:51](https://news.ycombinator.com/item?id=48541777) - [This 1976 University Experiment Spun Up the U.S. Wind Industry](https://spectrum.ieee.org/william-heronemus-wind-energy)
 * [2026-06-15, 13:35:23](https://news.ycombinator.com/item?id=48541062) - [Gribouille 0.3.0: A Grammar of Graphics for Typst](https://mickael.canouil.fr/posts/2026-06-15-gribouille-0-3/)
 * [2026-06-15, 13:31:09](https://news.ycombinator.com/item?id=48541014) - [Show HN: Can Europe train a frontier AI model on the compute it owns?](https://github.com/sammysltd/euromesh)
 * [2026-06-15, 13:26:08](https://news.ycombinator.com/item?id=48540945) - [Google Flight Simulator](https://developers.google.com/maps/documentation/earth/flight-simulator)

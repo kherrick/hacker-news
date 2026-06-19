@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-06-19](index.md)
 
+* [2026-06-19, 17:34:28](https://news.ycombinator.com/item?id=48600950) - [A New Bill Takes Aim at Government Pressure to Silence Lawful Online Speech](https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech)
+* [2026-06-19, 16:30:49](https://news.ycombinator.com/item?id=48600345) - [Google workspace threatening to block Firefox access](https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html)
+* [2026-06-19, 16:28:20](https://news.ycombinator.com/item?id=48600312) - [Hyundai buys Boston Dynamics, Atlas humanoid to be used at vehicle plant by 2028](https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/)
+* [2026-06-19, 16:19:55](https://news.ycombinator.com/item?id=48600236) - [Spotify Killed the Thrill of the Hunt](https://erildrun.bearblog.dev/spotify-killed-the-thrill-of-the-hunt/)
 * [2026-06-19, 16:04:42](https://news.ycombinator.com/item?id=48600107) - [Amateur may have cracked Linear A, a 120-year-old puzzle](https://aiclambake.com/clamtakes/linear-a/)
 * [2026-06-19, 15:10:02](https://news.ycombinator.com/item?id=48599515) - [There Are No Instances in ATProto](https://overreacted.io/there-are-no-instances-in-atproto/)
 * [2026-06-19, 13:51:36](https://news.ycombinator.com/item?id=48598586) - [How many of the 170k English words do you know?](https://vocabowl-870366514258.us-west1.run.app/)
