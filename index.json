@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-19, 10:16:10",
+      "https://news.ycombinator.com/item?id=48596910"
+    ],
+    [
+      "Norway greenlights first full-scale ship tunnel",
+      "https://eandt.theiet.org/2026/06/18/norway-greenlights-world-s-first-full-scale-ship-tunnel"
+    ]
+  ],
+  [
+    [
       "2026-06-19, 06:35:57",
       "https://news.ycombinator.com/item?id=48595511"
     ],
@@ -17,16 +27,6 @@
     [
       "So You Want to Define a Well-Known URI",
       "https://mnot.net/blog/2026/well_known_uris"
-    ]
-  ],
-  [
-    [
-      "2026-06-19, 04:21:07",
-      "https://news.ycombinator.com/item?id=48594733"
-    ],
-    [
-      "Fable Converted Pylint to Rust",
-      "https://pypi.org/project/prylint/"
     ]
   ],
   [
@@ -87,16 +87,6 @@
     [
       "Show HN: Are You in the Weights?",
       "https://www.intheweights.com/"
-    ]
-  ],
-  [
-    [
-      "2026-06-18, 18:31:23",
-      "https://news.ycombinator.com/item?id=48589501"
-    ],
-    [
-      "I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M",
-      "https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "If your product is Great, it doesn't need to be Good (2010)",
       "http://paulbuchheit.blogspot.com/2010/02/if-your-product-is-great-it-doesnt-need.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-15, 16:13:24",
+      "https://news.ycombinator.com/item?id=48543430"
+    ],
+    [
+      "UCCL-EP: DeepEP-style expert parallelism on any NIC, no GPU-initiated comms",
+      "https://fergusfinn.com/blog/uccl-ep-without-owning-the-nic/"
     ]
   ],
   [
