@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-06-19, 12:45:11](https://news.ycombinator.com/item?id=48597939) - [Leave a Trace](https://www.jakeworth.com/posts/leave-a-trace)
-* [2026-06-19, 12:41:15](https://news.ycombinator.com/item?id=48597910) - [NASA picks Eric Schmidt's rocket company for Mars mission](https://techcrunch.com/2026/06/17/nasa-picks-eric-schmidts-rocket-company-for-mars-mission-setting-up-a-race-with-spacex/)
+* [2026-06-19, 13:51:36](https://news.ycombinator.com/item?id=48598586) - [How many of the 170k English words do you know?](https://vocabowl-870366514258.us-west1.run.app/)
 * [2026-06-19, 10:16:20](https://news.ycombinator.com/item?id=48596911) - [The room the economy can't see](https://wilsoniumite.com/2026/06/19/the-room-the-economy-cant-see/)
 * [2026-06-19, 10:16:10](https://news.ycombinator.com/item?id=48596910) - [Norway greenlights first full-scale ship tunnel](https://eandt.theiet.org/2026/06/18/norway-greenlights-world-s-first-full-scale-ship-tunnel)
 * [2026-06-19, 06:35:57](https://news.ycombinator.com/item?id=48595511) - [Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28](https://www.jvm-weekly.com/p/project-valhalla-explained-how-a)
@@ -21,6 +20,7 @@
 * [2026-06-17, 14:03:58](https://news.ycombinator.com/item?id=48570730) - [How Japan's railways stayed one while splitting apart](https://arun.is/blog/jr-logo/)
 * [2026-06-16, 11:07:08](https://news.ycombinator.com/item?id=48553388) - [DuckDB Internals: Why Is DuckDB Fast? (Part 1)](https://www.greybeam.ai/blog/duckdb-internals-part-1)
 * [2026-06-16, 00:45:50](https://news.ycombinator.com/item?id=48549118) - [Zen and the Art of Machine Learning Research](https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning)
+* [2026-06-15, 23:47:55](https://news.ycombinator.com/item?id=48548695) - [The Productivity J-Curve [pdf] (2018)](https://ide.mit.edu/sites/default/files/publications/jcurve.pdf)
 * [2026-06-15, 22:36:33](https://news.ycombinator.com/item?id=48547969) - [Cell-based architecture for resilient payment systems](https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/)
 * [2026-06-15, 22:06:12](https://news.ycombinator.com/item?id=48547658) - [SMTP Relay with Web Dashboard](https://github.com/toinbox/simplerelay)
 * [2026-06-15, 20:51:54](https://news.ycombinator.com/item?id=48546890) - [Ten years of ClickHouse in open source](https://clickhouse.com/blog/open-source-10)
