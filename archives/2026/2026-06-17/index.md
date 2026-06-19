@@ -18,6 +18,7 @@
 * [2026-06-17, 19:59:27](https://news.ycombinator.com/item?id=48575997) - [How Madrid built its metro cheaply](https://worksinprogress.co/issue/how-madrid-built-its-metro-cheaply/)
 * [2026-06-17, 19:50:11](https://news.ycombinator.com/item?id=48575878) - [Made a free macOS menu bar app that fixes typing in the wrong keyboard layout](https://flickey.site)
 * [2026-06-17, 19:22:02](https://news.ycombinator.com/item?id=48575451) - [The hacker sent by Anthropic to calm the government's nerves about AI safety](https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas-carlini-20bceaa3)
+* [2026-06-17, 17:54:37](https://news.ycombinator.com/item?id=48574082) - [Ask HN: How do you separate intentional test boilerplate from real duplication?](https://news.ycombinator.com/item?id=48574082)
 * [2026-06-17, 17:34:20](https://news.ycombinator.com/item?id=48573757) - [AI chemist improves a challenging reaction in medicinal chemistry](https://openai.com/index/ai-chemist-improves-reaction/)
 * [2026-06-17, 17:14:21](https://news.ycombinator.com/item?id=48573435) - [The Competitive Moat That AI Can't Replicate](https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/)
 * [2026-06-17, 17:07:32](https://news.ycombinator.com/item?id=48573332) - [Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society](https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/)
