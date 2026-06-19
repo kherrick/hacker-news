@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-19](index.md)
 
+* [2026-06-19, 12:45:11](https://news.ycombinator.com/item?id=48597939) - [Leave a Trace](https://www.jakeworth.com/posts/leave-a-trace)
+* [2026-06-19, 12:41:15](https://news.ycombinator.com/item?id=48597910) - [NASA picks Eric Schmidt's rocket company for Mars mission](https://techcrunch.com/2026/06/17/nasa-picks-eric-schmidts-rocket-company-for-mars-mission-setting-up-a-race-with-spacex/)
 * [2026-06-19, 12:25:06](https://news.ycombinator.com/item?id=48597783) - [Google is turning Android into a 'sloperating' system. Your thoughts?](https://android-developers.googleblog.com/2026/06/Android-17.html)
 * [2026-06-19, 12:10:54](https://news.ycombinator.com/item?id=48597668) - [From Australia to Europe, countries move to curb children's social media access](https://www.reuters.com/legal/government/australia-europe-countries-move-curb-childrens-social-media-access-2026-06-18/)
 * [2026-06-19, 10:16:20](https://news.ycombinator.com/item?id=48596911) - [The room the economy can't see](https://wilsoniumite.com/2026/06/19/the-room-the-economy-cant-see/)

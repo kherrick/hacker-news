@@ -21,6 +21,7 @@
 * [2026-06-15, 20:06:49](https://news.ycombinator.com/item?id=48546358) - [US Government Reportedly Allowing Federal Data Center Rules to Expire](https://gizmodo.com/us-government-reportedly-allowing-federal-data-center-rules-to-expire-2000772083)
 * [2026-06-15, 20:02:02](https://news.ycombinator.com/item?id=48546306) - [US Air Force B-52 bomber crashes after takeoff, Edwards Air Force Base says](https://www.reuters.com/business/aerospace-defense/us-air-force-b-52-bomber-crashes-after-takeoff-edwards-air-force-base-says-2026-06-15/)
 * [2026-06-15, 20:00:57](https://news.ycombinator.com/item?id=48546294) - [A backdoor in a LinkedIn job offer](https://roman.pt/posts/linkedin-backdoor/)
+* [2026-06-15, 19:45:07](https://news.ycombinator.com/item?id=48546093) - [\"No Feigning Surprise\"](https://wizardzines.com/comics/surprise/)
 * [2026-06-15, 19:31:11](https://news.ycombinator.com/item?id=48545935) - [Flip TABLE: storing arbitrary data in iNaturalist](https://exclav.es/2026/06/13/flip-table-storing-arbitrary-data-in-inaturalist/)
 * [2026-06-15, 19:21:17](https://news.ycombinator.com/item?id=48545818) - [Show HN: StarScope – Free astronomy dashboard for observers outside the US/UK](https://starscope.live/feed)
 * [2026-06-15, 18:56:22](https://news.ycombinator.com/item?id=48545510) - [Brad Feld – Does the Rule of 40 Work for Hardware?](https://feld.com/archives/2026/06/does-the-rule-of-40-work-for-hardware/)
