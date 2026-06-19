@@ -17,6 +17,7 @@
 * [2026-06-14, 21:41:56](https://news.ycombinator.com/item?id=48533098) - [The Magic Roundabout of Seattle Area](https://kirklandroundabouts.com)
 * [2026-06-14, 21:06:41](https://news.ycombinator.com/item?id=48532722) - [Abu Fanous](https://en.wikipedia.org/wiki/Abu_Fanous)
 * [2026-06-14, 21:04:46](https://news.ycombinator.com/item?id=48532705) - [Zinnia: A modular 64-bit Unix-like kernel written in Rust](https://zinnia-os.org/)
+* [2026-06-14, 20:43:23](https://news.ycombinator.com/item?id=48532447) - [RhinoCollab a plugin for real-time editing for Rhino 3D](https://rhinocollab.com)
 * [2026-06-14, 20:17:54](https://news.ycombinator.com/item?id=48532178) - [AI is code – and can't be prompted into being smarter](https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141)
 * [2026-06-14, 20:12:42](https://news.ycombinator.com/item?id=48532116) - [Vibe Coder vs. Software Engineer](https://yusufaytas.com/vibe-coder-vs-software-engineer)
 * [2026-06-14, 19:25:21](https://news.ycombinator.com/item?id=48531590) - [Abandoned and Little-Known Airfields](https://airfields-freeman.com/)
