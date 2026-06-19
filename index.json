@@ -161,22 +161,12 @@
   ],
   [
     [
-      "2026-06-18, 11:45:43",
-      "https://news.ycombinator.com/item?id=48583928"
+      "2026-06-18, 10:29:20",
+      "https://news.ycombinator.com/item?id=48583356"
     ],
     [
-      "I found 10k GitHub repositories distributing Trojan malware",
-      "https://orchidfiles.com/github-repositories-distributing-malware/"
-    ]
-  ],
-  [
-    [
-      "2026-06-17, 17:54:37",
-      "https://news.ycombinator.com/item?id=48574082"
-    ],
-    [
-      "Ask HN: How do you separate intentional test boilerplate from real duplication?",
-      "https://news.ycombinator.com/item?id=48574082"
+      ".gitignore Isn't the only way to ignore files in Git",
+      "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "The Productivity J-Curve [pdf] (2018)",
       "https://ide.mit.edu/sites/default/files/publications/jcurve.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-06-15, 23:37:54",
+      "https://news.ycombinator.com/item?id=48548612"
+    ],
+    [
+      "Egyptian Fractions",
+      "https://blog.plover.com/math/egyptian-fractions.html"
     ]
   ],
   [
