@@ -35,6 +35,7 @@
 * [2026-06-17, 14:26:07](https://news.ycombinator.com/item?id=48571016) - [Pentagon boasts of using AI to write reports mandated by Congress (1.5mil users)](https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/)
 * [2026-06-17, 14:20:44](https://news.ycombinator.com/item?id=48570948) - [AI demands more engineering discipline. Not less](https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline)
 * [2026-06-17, 14:06:09](https://news.ycombinator.com/item?id=48570763) - [ICE Appears to Be Buying Immigrants' Tax Identifiers from a Data Broker](https://www.404media.co/ice-appears-to-be-buying-immigrants-tax-identifiers-from-a-data-broker/)
+* [2026-06-17, 14:03:58](https://news.ycombinator.com/item?id=48570730) - [How Japan's railways stayed one while splitting apart](https://arun.is/blog/jr-logo/)
 * [2026-06-17, 13:05:03](https://news.ycombinator.com/item?id=48569954) - [Want your images back? Sure... That'll be $5!](https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars)
 * [2026-06-17, 13:00:38](https://news.ycombinator.com/item?id=48569894) - [Why thinking out loud with someone beats thinking alone](https://www.thesignalist.io/s/the-dialogue-dividend/)
 * [2026-06-17, 12:11:27](https://news.ycombinator.com/item?id=48569278) - [Sixty percent of US consumers say 'AI' in brand messaging is a turnoff](https://wpvip.com/future-of-the-web-2026/)
@@ -53,4 +54,5 @@
 * [2026-06-17, 03:55:16](https://news.ycombinator.com/item?id=48565498) - [US holds off blacklisting DeepSeek, more than 100 firms deemed security risks](https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/)
 * [2026-06-17, 03:25:51](https://news.ycombinator.com/item?id=48565326) - [Semiclassical Gravity Efficiently Solves NP-Complete Problems](https://arxiv.org/abs/2606.14806)
 * [2026-06-17, 02:47:29](https://news.ycombinator.com/item?id=48565130) - [Leaked OpenAI financials show $38.5B loss and compute burn](https://runtimewire.com/article/openai-leaked-financials-altman-compute-burn)
+* [2026-06-17, 01:51:07](https://news.ycombinator.com/item?id=48564763) - [NOLA 'Nacular: One man's crusade to preserve New Orleans's vernacular signage](https://countryroadsmagazine.com/art-and-culture/people-places/nola-nacular/)
 * [2026-06-17, 01:40:22](https://news.ycombinator.com/item?id=48564696) - [Stop Killing Games fails to secure EU law despite 1.3M signatures](https://www.dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431/)

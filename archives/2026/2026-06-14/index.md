@@ -73,6 +73,7 @@
 * [2026-06-14, 04:18:45](https://news.ycombinator.com/item?id=48524135) - [Pac-Man, but You're the Ghost](https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost)
 * [2026-06-14, 04:07:37](https://news.ycombinator.com/item?id=48524084) - [Software Architecture Guide](https://martinfowler.com/architecture/)
 * [2026-06-14, 03:43:30](https://news.ycombinator.com/item?id=48523992) - [Free SQL→ER diagram tool, runs in the browser, nothing uploaded](https://sqltoerdiagram.com/)
+* [2026-06-14, 03:05:12](https://news.ycombinator.com/item?id=48523800) - [Automating my job away](https://austinhenley.com/blog/automatingmyjob.html)
 * [2026-06-14, 02:59:34](https://news.ycombinator.com/item?id=48523773) - [The Redistribution of Housing Wealth Caused by Rent Control [pdf]](https://www.rhawa.org/file/secure/shs-the-impact-of-rent-control-in-st-paul.pdf)
 * [2026-06-14, 02:55:36](https://news.ycombinator.com/item?id=48523752) - [Making Claude a Chemist](https://www.anthropic.com/research/making-claude-a-chemist)
 * [2026-06-14, 02:45:38](https://news.ycombinator.com/item?id=48523705) - [Weave: Merging based on language structure and not lines](https://ataraxy-labs.github.io/weave/)
