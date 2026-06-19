@@ -1,15 +1,14 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-06-19, 18:14:11](https://news.ycombinator.com/item?id=48601420) - [Giant Banana Pulled over in Montana Driver Says Cops Have Stopped Him 100s Times](https://cowboystatedaily.com/2026/06/18/giant-banana-pulled-over-in-montana-driver-says-cops-have-stopped-him-100s-of-times/)
 * [2026-06-19, 18:00:48](https://news.ycombinator.com/item?id=48601286) - [Is AI ruining our skills? Early results are in – and they're not good](https://www.nature.com/articles/d41586-026-01947-1)
 * [2026-06-19, 17:53:12](https://news.ycombinator.com/item?id=48601164) - [Windows 11 update broke the Recycle Bin, OneDrive, and your PC's stability](https://www.techspot.com/news/112831-microsoft-confirms-weird-recycle-bin-bug-windows-11.html)
 * [2026-06-19, 17:34:28](https://news.ycombinator.com/item?id=48600950) - [A new bill takes aim at government pressure to silence lawful online speech](https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech)
-* [2026-06-19, 17:33:32](https://news.ycombinator.com/item?id=48600935) - [Agentic Coding Is a Trap](https://khalilstemmler.com/articles/agentic-coding-is-a-trap/)
 * [2026-06-19, 16:30:49](https://news.ycombinator.com/item?id=48600345) - [Google workspace threatening to block Firefox access](https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html)
 * [2026-06-19, 16:28:20](https://news.ycombinator.com/item?id=48600312) - [Hyundai buys Boston Dynamics](https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/)
 * [2026-06-19, 16:04:42](https://news.ycombinator.com/item?id=48600107) - [Amateur may have cracked Linear A, a 120-year-old puzzle](https://aiclambake.com/clamtakes/linear-a/)
 * [2026-06-19, 15:10:02](https://news.ycombinator.com/item?id=48599515) - [There Are No Instances in ATProto](https://overreacted.io/there-are-no-instances-in-atproto/)
 * [2026-06-19, 06:35:57](https://news.ycombinator.com/item?id=48595511) - [Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28](https://www.jvm-weekly.com/p/project-valhalla-explained-how-a)
-* [2026-06-19, 01:01:13](https://news.ycombinator.com/item?id=48593694) - [Flexport (YC W14) Is Hiring in Indonesia, India, and Thailand](https://www.flexport.com/company/careers/)
 * [2026-06-18, 23:08:35](https://news.ycombinator.com/item?id=48592832) - [The AirPods Effect](https://www.theescapenewsletter.com/p/the-airpods-effect)
 * [2026-06-18, 21:54:10](https://news.ycombinator.com/item?id=48592163) - [Zero-Touch OAuth for MCP](https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/)
 * [2026-06-18, 19:42:54](https://news.ycombinator.com/item?id=48590505) - [Show HN: Pagecast – Publish Markdown/HTML Reports to Cloudflare Pages](https://github.com/Amal-David/pagecast)
@@ -30,6 +29,7 @@
 * [2026-06-15, 14:25:51](https://news.ycombinator.com/item?id=48541777) - [This 1976 University Experiment Spun Up the U.S. Wind Industry](https://spectrum.ieee.org/william-heronemus-wind-energy)
 * [2026-06-15, 13:35:23](https://news.ycombinator.com/item?id=48541062) - [Gribouille 0.3.0: A Grammar of Graphics for Typst](https://mickael.canouil.fr/posts/2026-06-15-gribouille-0-3/)
 * [2026-06-15, 13:13:38](https://news.ycombinator.com/item?id=48540779) - [Akse3D – open-source 3D modelling anyone can master](https://akse3d-en.skaperiet.no)
+* [2026-06-13, 08:21:45](https://news.ycombinator.com/item?id=48514843) - [I used sound waves to make espresso. It could cut coffee‑brewing energy use by ¾](https://theconversation.com/i-used-sound-waves-to-make-espresso-it-could-cut-coffee-brewing-energy-use-by-75-284929)
 
 ## [Archives](archives/index.md)
 

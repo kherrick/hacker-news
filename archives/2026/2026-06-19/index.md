@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-19](index.md)
 
+* [2026-06-19, 18:14:11](https://news.ycombinator.com/item?id=48601420) - [Giant Banana Pulled over in Montana Driver Says Cops Have Stopped Him 100s Times](https://cowboystatedaily.com/2026/06/18/giant-banana-pulled-over-in-montana-driver-says-cops-have-stopped-him-100s-of-times/)
 * [2026-06-19, 18:00:48](https://news.ycombinator.com/item?id=48601286) - [Is AI ruining our skills? Early results are in – and they're not good](https://www.nature.com/articles/d41586-026-01947-1)
 * [2026-06-19, 17:53:12](https://news.ycombinator.com/item?id=48601164) - [Windows 11 update broke the Recycle Bin, OneDrive, and your PC's stability](https://www.techspot.com/news/112831-microsoft-confirms-weird-recycle-bin-bug-windows-11.html)
 * [2026-06-19, 17:34:28](https://news.ycombinator.com/item?id=48600950) - [A New Bill Takes Aim at Government Pressure to Silence Lawful Online Speech](https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech)
