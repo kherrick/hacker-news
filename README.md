@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-06-18, 23:41:48](https://news.ycombinator.com/item?id=48593093) - [Update on Ocean Observatories Initiative](https://www.nsf.gov/news/update-ocean-observatories-initiative)
 * [2026-06-18, 23:08:35](https://news.ycombinator.com/item?id=48592832) - [The AirPods Effect](https://www.theescapenewsletter.com/p/the-airpods-effect)
 * [2026-06-18, 21:54:10](https://news.ycombinator.com/item?id=48592163) - [Zero-Touch OAuth for MCP](https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/)
 * [2026-06-18, 20:49:03](https://news.ycombinator.com/item?id=48591348) - [Show HN: Are You in the Weights?](https://www.intheweights.com/)
@@ -23,13 +24,12 @@
 * [2026-06-18, 11:04:31](https://news.ycombinator.com/item?id=48583606) - [CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)](https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/)
 * [2026-06-18, 10:33:22](https://news.ycombinator.com/item?id=48583386) - [Hospitals and universities repurposing drugs at lower cost](https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost)
 * [2026-06-18, 10:29:20](https://news.ycombinator.com/item?id=48583356) - [.gitignore Isn't the only way to ignore files in Git](https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/)
-* [2026-06-18, 08:52:45](https://news.ycombinator.com/item?id=48582679) - [Ask HN: Is anyone using the A2A protocol?](https://news.ycombinator.com/item?id=48582679)
 * [2026-06-18, 00:26:06](https://news.ycombinator.com/item?id=48578913) - [Noam Shazeer Joins OpenAI](https://twitter.com/NoamShazeer/status/2067400851438932297)
 * [2026-06-17, 17:03:17](https://news.ycombinator.com/item?id=48573268) - [Agentic Resource Discovery Specification](https://agenticresourcediscovery.org/introduction/)
 * [2026-06-15, 22:36:33](https://news.ycombinator.com/item?id=48547969) - [Cell-based architecture for resilient payment systems](https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/)
-* [2026-06-15, 19:31:11](https://news.ycombinator.com/item?id=48545935) - [Flip TABLE: storing arbitrary data in iNaturalist](https://exclav.es/2026/06/13/flip-table-storing-arbitrary-data-in-inaturalist/)
 * [2026-06-15, 17:26:52](https://news.ycombinator.com/item?id=48544429) - [If your product is Great, it doesn't need to be Good (2010)](http://paulbuchheit.blogspot.com/2010/02/if-your-product-is-great-it-doesnt-need.html)
 * [2026-06-15, 16:44:54](https://news.ycombinator.com/item?id=48543872) - [Dutch Railways offers unlimited off-peak train travel nationwide for €49/month](https://www.ns.nl/en/season-tickets/dal-vrij)
+* [2026-06-15, 10:48:59](https://news.ycombinator.com/item?id=48539412) - [It doesn't matter if it works](https://henry.codes/writing/it-doesnt-matter-if-it-works/)
 
 ## [Archives](archives/index.md)
 

@@ -56,6 +56,7 @@
 * [2026-06-15, 12:40:31](https://news.ycombinator.com/item?id=48540396) - [Show HN: Deconvolution – a Rust image deconvolution and restoration crate](https://github.com/pbkx/deconvolution)
 * [2026-06-15, 12:08:59](https://news.ycombinator.com/item?id=48540126) - [Salesforce to Acquire Fin (formerly Intercom) for $3.6BN](https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL)
 * [2026-06-15, 11:53:47](https://news.ycombinator.com/item?id=48539971) - [Unity vs. Floating Point](https://aras-p.info/blog/2026/06/11/Unity-vs-floating-point/)
+* [2026-06-15, 10:48:59](https://news.ycombinator.com/item?id=48539412) - [It doesn't matter if it works](https://henry.codes/writing/it-doesnt-matter-if-it-works/)
 * [2026-06-15, 10:06:35](https://news.ycombinator.com/item?id=48539078) - [Anthropic's Safety Superpower](https://stratechery.com/2026/anthropics-safety-superpower/)
 * [2026-06-15, 09:34:10](https://news.ycombinator.com/item?id=48538833) - [Show HN: I wrote a C++ ray tracer from scratch without AI](https://github.com/themartiano/luz)
 * [2026-06-15, 09:23:15](https://news.ycombinator.com/item?id=48538737) - [Anthropic flies staff to D.C. to clean up White House fight](https://www.axios.com/2026/06/14/anthropic-white-house-mythos-fable)
