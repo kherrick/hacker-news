@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-19](index.md)
 
+* [2026-06-19, 16:04:42](https://news.ycombinator.com/item?id=48600107) - [Amateur may have cracked Linear A, a 120-year-old puzzle](https://aiclambake.com/clamtakes/linear-a/)
+* [2026-06-19, 15:10:02](https://news.ycombinator.com/item?id=48599515) - [There Are No Instances in ATProto](https://overreacted.io/there-are-no-instances-in-atproto/)
 * [2026-06-19, 13:51:36](https://news.ycombinator.com/item?id=48598586) - [How many of the 170k English words do you know?](https://vocabowl-870366514258.us-west1.run.app/)
 * [2026-06-19, 12:45:11](https://news.ycombinator.com/item?id=48597939) - [Leave a Trace](https://www.jakeworth.com/posts/leave-a-trace)
 * [2026-06-19, 12:41:15](https://news.ycombinator.com/item?id=48597910) - [NASA picks Eric Schmidt's rocket company for Mars mission](https://techcrunch.com/2026/06/17/nasa-picks-eric-schmidts-rocket-company-for-mars-mission-setting-up-a-race-with-spacex/)
