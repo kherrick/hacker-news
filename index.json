@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-19, 04:18:09",
+      "https://news.ycombinator.com/item?id=48594715"
+    ],
+    [
+      "Let's Encrypt has been down most of today",
+      "https://letsencrypt.status.io/#2026"
+    ]
+  ],
+  [
+    [
+      "2026-06-19, 03:50:25",
+      "https://news.ycombinator.com/item?id=48594592"
+    ],
+    [
+      "Ice Water Drowning Survival After 147-Minute Submersion and Hypothermic Arrest",
+      "https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885"
+    ]
+  ],
+  [
+    [
       "2026-06-19, 01:06:27",
       "https://news.ycombinator.com/item?id=48593731"
     ],
@@ -17,16 +37,6 @@
     [
       "Flexport (YC W14) Is Hiring in Indonesia, India, and Thailand",
       "https://www.flexport.com/company/careers/"
-    ]
-  ],
-  [
-    [
-      "2026-06-18, 23:41:48",
-      "https://news.ycombinator.com/item?id=48593093"
-    ],
-    [
-      "Update on Ocean Observatories Initiative",
-      "https://www.nsf.gov/news/update-ocean-observatories-initiative"
     ]
   ],
   [
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2026-06-17, 17:03:17",
-      "https://news.ycombinator.com/item?id=48573268"
-    ],
-    [
-      "Agentic Resource Discovery Specification",
-      "https://agenticresourcediscovery.org/introduction/"
-    ]
-  ],
-  [
-    [
       "2026-06-17, 14:03:58",
       "https://news.ycombinator.com/item?id=48570730"
     ],
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2026-06-17, 01:51:07",
-      "https://news.ycombinator.com/item?id=48564763"
+      "2026-06-16, 11:07:08",
+      "https://news.ycombinator.com/item?id=48553388"
     ],
     [
-      "NOLA 'Nacular: One man's crusade to preserve New Orleans's vernacular signage",
-      "https://countryroadsmagazine.com/art-and-culture/people-places/nola-nacular/"
+      "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
+      "https://www.greybeam.ai/blog/duckdb-internals-part-1"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-06-14, 03:05:12",
-      "https://news.ycombinator.com/item?id=48523800"
+      "2026-06-15, 03:15:41",
+      "https://news.ycombinator.com/item?id=48536167"
     ],
     [
-      "Automating my job away",
-      "https://austinhenley.com/blog/automatingmyjob.html"
+      "Horizons JPL Solar System Data Demo and NASA DSN Updates: Datastar, Common Lisp",
+      "https://horizons.lambda-combine.net/"
     ]
   ]
 ]
