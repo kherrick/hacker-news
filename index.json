@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-06-19, 06:35:57",
+      "https://news.ycombinator.com/item?id=48595511"
+    ],
+    [
+      "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+      "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a"
+    ]
+  ],
+  [
+    [
+      "2026-06-19, 06:05:01",
+      "https://news.ycombinator.com/item?id=48595331"
+    ],
+    [
+      "So You Want to Define a Well-Known URI",
+      "https://mnot.net/blog/2026/well_known_uris"
+    ]
+  ],
+  [
+    [
+      "2026-06-19, 05:37:51",
+      "https://news.ycombinator.com/item?id=48595144"
+    ],
+    [
+      "Generative AI Is Having Its Herbalife Moment",
+      "https://www.whatwelo.st/p/generative-ai-is-having-its-herbalife"
+    ]
+  ],
+  [
+    [
+      "2026-06-19, 05:01:19",
+      "https://news.ycombinator.com/item?id=48594933"
+    ],
+    [
+      "DARPA Heavy Life Challenge",
+      "https://www.darpa.mil/research/challenges/lift"
+    ]
+  ],
+  [
+    [
+      "2026-06-19, 04:21:07",
+      "https://news.ycombinator.com/item?id=48594733"
+    ],
+    [
+      "Fable Converted Pylint to Rust",
+      "https://pypi.org/project/prylint/"
+    ]
+  ],
+  [
+    [
       "2026-06-19, 04:18:09",
       "https://news.ycombinator.com/item?id=48594715"
     ],
@@ -15,7 +65,7 @@
       "https://news.ycombinator.com/item?id=48594592"
     ],
     [
-      "Ice Water Drowning Survival After 147-Minute Submersion and Hypothermic Arrest",
+      "Ice water drowning survival of young patient (2025)",
       "https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885"
     ]
   ],
@@ -41,6 +91,16 @@
   ],
   [
     [
+      "2026-06-18, 23:08:35",
+      "https://news.ycombinator.com/item?id=48592832"
+    ],
+    [
+      "The AirPods Effect",
+      "https://www.theescapenewsletter.com/p/the-airpods-effect"
+    ]
+  ],
+  [
+    [
       "2026-06-18, 21:54:10",
       "https://news.ycombinator.com/item?id=48592163"
     ],
@@ -57,16 +117,6 @@
     [
       "Show HN: Are You in the Weights?",
       "https://www.intheweights.com/"
-    ]
-  ],
-  [
-    [
-      "2026-06-18, 20:27:28",
-      "https://news.ycombinator.com/item?id=48591066"
-    ],
-    [
-      "Zork name origin got an update on Wikipedia",
-      "https://www.dpolakovic.space/blogs/zork-part2#update"
     ]
   ],
   [
@@ -111,42 +161,12 @@
   ],
   [
     [
-      "2026-06-18, 14:17:07",
-      "https://news.ycombinator.com/item?id=48585746"
-    ],
-    [
-      "Swiss parliament lifts ban on new nuclear power plants",
-      "https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-18, 14:16:25",
-      "https://news.ycombinator.com/item?id=48585739"
-    ],
-    [
-      "Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts",
-      "https://gerrymandle.cc/"
-    ]
-  ],
-  [
-    [
       "2026-06-18, 13:10:44",
       "https://news.ycombinator.com/item?id=48584761"
     ],
     [
       "Show HN: Talos – Open-source WASM interpreter for Lean",
       "https://github.com/cajal-technologies/talos"
-    ]
-  ],
-  [
-    [
-      "2026-06-18, 13:05:58",
-      "https://news.ycombinator.com/item?id=48584709"
-    ],
-    [
-      "How Alberta Eradicated Rats",
-      "https://worksinprogress.co/issue/albertas-war-on-rats/"
     ]
   ],
   [
@@ -161,22 +181,22 @@
   ],
   [
     [
+      "2026-06-18, 12:44:09",
+      "https://news.ycombinator.com/item?id=48584484"
+    ],
+    [
+      "The Korean telecom giant at the center of Anthropic's Mythos controversy",
+      "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/"
+    ]
+  ],
+  [
+    [
       "2026-06-18, 11:45:43",
       "https://news.ycombinator.com/item?id=48583928"
     ],
     [
       "I found 10k GitHub repositories distributing Trojan malware",
       "https://orchidfiles.com/github-repositories-distributing-malware/"
-    ]
-  ],
-  [
-    [
-      "2026-06-18, 11:41:21",
-      "https://news.ycombinator.com/item?id=48583897"
-    ],
-    [
-      "Modos Color Monitor Pushes E-Paper Displays Further",
-      "https://spectrum.ieee.org/modos-e-paper-monitor"
     ]
   ],
   [
@@ -207,16 +227,6 @@
     [
       ".gitignore Isn't the only way to ignore files in Git",
       "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/"
-    ]
-  ],
-  [
-    [
-      "2026-06-18, 00:26:06",
-      "https://news.ycombinator.com/item?id=48578913"
-    ],
-    [
-      "Noam Shazeer Joins OpenAI",
-      "https://twitter.com/NoamShazeer/status/2067400851438932297"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Gribouille 0.3.0: A Grammar of Graphics for Typst",
       "https://mickael.canouil.fr/posts/2026-06-15-gribouille-0-3/"
-    ]
-  ],
-  [
-    [
-      "2026-06-15, 03:15:41",
-      "https://news.ycombinator.com/item?id=48536167"
-    ],
-    [
-      "Horizons JPL Solar System Data Demo and NASA DSN Updates: Datastar, Common Lisp",
-      "https://horizons.lambda-combine.net/"
     ]
   ]
 ]
