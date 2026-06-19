@@ -44,6 +44,7 @@
 * [2026-06-15, 16:06:22](https://news.ycombinator.com/item?id=48543311) - [To study how chips work, MIT researchers built their own operating system](https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610)
 * [2026-06-15, 16:03:26](https://news.ycombinator.com/item?id=48543269) - [Boot Naked Linux](https://nick.zoic.org/art/boot-naked-linux/)
 * [2026-06-15, 16:01:43](https://news.ycombinator.com/item?id=48543245) - [Show HN: machine0 – Persistent NixOS VMs You Control from the CLI](https://machine0.io)
+* [2026-06-15, 15:49:37](https://news.ycombinator.com/item?id=48543065) - [Show HN: Continuous Nvidia CUDA PC Sampling Profiler](https://www.polarsignals.com/blog/posts/2026/06/10/nvidia-cuda-pc-sampling)
 * [2026-06-15, 15:43:17](https://news.ycombinator.com/item?id=48542970) - [Show HN: Exploiting Slack's video embeds to achieve E2EE communication](https://v1c.rocks/log/exploiting-slack-video/)
 * [2026-06-15, 15:42:42](https://news.ycombinator.com/item?id=48542963) - [My LSM tree was slower than a B-tree. Then I profiled it](https://aasheesh.vercel.app/blog/lsm-tree)
 * [2026-06-15, 15:32:07](https://news.ycombinator.com/item?id=48542784) - [Emacs, how it all started (for me)](https://xvw.lol/en/articles/emacs-start.html)

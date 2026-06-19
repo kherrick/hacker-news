@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-19](index.md)
 
+* [2026-06-19, 20:03:16](https://news.ycombinator.com/item?id=48602639) - [Amazon drops Sam Altman movie after announcing OpenAI partnership](https://www.the-independent.com/arts-entertainment/films/news/sam-altman-biopic-amazon-openai-deal-b2999321.html)
+* [2026-06-19, 19:57:18](https://news.ycombinator.com/item?id=48602571) - ['We created a monster': companies rein in AI usage as costs strain budgets](https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314)
 * [2026-06-19, 18:14:11](https://news.ycombinator.com/item?id=48601420) - [Giant Banana Pulled over in Montana Driver Says Cops Have Stopped Him 100s Times](https://cowboystatedaily.com/2026/06/18/giant-banana-pulled-over-in-montana-driver-says-cops-have-stopped-him-100s-of-times/)
 * [2026-06-19, 18:00:48](https://news.ycombinator.com/item?id=48601286) - [Is AI ruining our skills? Early results are in – and they're not good](https://www.nature.com/articles/d41586-026-01947-1)
 * [2026-06-19, 17:53:12](https://news.ycombinator.com/item?id=48601164) - [Windows 11 update broke the Recycle Bin, OneDrive, and your PC's stability](https://www.techspot.com/news/112831-microsoft-confirms-weird-recycle-bin-bug-windows-11.html)
