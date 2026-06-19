@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-06-19](index.md)
 
+* [2026-06-19, 06:35:57](https://news.ycombinator.com/item?id=48595511) - [Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28](https://www.jvm-weekly.com/p/project-valhalla-explained-how-a)
+* [2026-06-19, 06:05:01](https://news.ycombinator.com/item?id=48595331) - [So You Want to Define a Well-Known URI](https://mnot.net/blog/2026/well_known_uris)
+* [2026-06-19, 05:37:51](https://news.ycombinator.com/item?id=48595144) - [Generative AI Is Having Its Herbalife Moment](https://www.whatwelo.st/p/generative-ai-is-having-its-herbalife)
+* [2026-06-19, 05:01:19](https://news.ycombinator.com/item?id=48594933) - [DARPA Heavy Life Challenge](https://www.darpa.mil/research/challenges/lift)
+* [2026-06-19, 04:21:07](https://news.ycombinator.com/item?id=48594733) - [Fable Converted Pylint to Rust](https://pypi.org/project/prylint/)
 * [2026-06-19, 04:18:09](https://news.ycombinator.com/item?id=48594715) - [Let's Encrypt has been down most of today](https://letsencrypt.status.io/#2026)
 * [2026-06-19, 03:50:25](https://news.ycombinator.com/item?id=48594592) - [Ice Water Drowning Survival After 147-Minute Submersion and Hypothermic Arrest](https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885)
 * [2026-06-19, 01:06:27](https://news.ycombinator.com/item?id=48593731) - [Datasette Apps: Host custom HTML applications inside Datasette](https://simonwillison.net/2026/Jun/18/datasette-apps/)
