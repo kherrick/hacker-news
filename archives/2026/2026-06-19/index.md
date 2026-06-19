@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-19](index.md)
 
+* [2026-06-19, 22:51:09](https://news.ycombinator.com/item?id=48604232) - [Ask HN: Will programmers write more efficient code during the memory shortage?](https://news.ycombinator.com/item?id=48604232)
+* [2026-06-19, 22:45:20](https://news.ycombinator.com/item?id=48604186) - [Americans express unease over SpaceX's influence on retirement savings](https://www.theguardian.com/science/2026/jun/19/spacex-retirement-savings-elon-musk)
 * [2026-06-19, 21:58:22](https://news.ycombinator.com/item?id=48603761) - [The UK's New Under-16 Social Media Ban Will Cause More Harm Than It Prevents](https://www.eff.org/deeplinks/2026/06/uks-new-under-16-social-media-ban-will-cause-more-harm-it-prevents)
 * [2026-06-19, 21:49:44](https://news.ycombinator.com/item?id=48603664) - [Zenzizenzizenzic](https://en.wikipedia.org/wiki/Zenzizenzizenzic)
 * [2026-06-19, 20:30:59](https://news.ycombinator.com/item?id=48602918) - [Surprising Economics of Load-Balanced Systems](https://brooker.co.za/blog/2020/08/06/erlang.html)
