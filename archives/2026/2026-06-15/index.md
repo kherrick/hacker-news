@@ -35,6 +35,7 @@
 * [2026-06-15, 16:44:54](https://news.ycombinator.com/item?id=48543872) - [Dutch Railways offers unlimited off-peak train travel nationwide for €49/month](https://www.ns.nl/en/season-tickets/dal-vrij)
 * [2026-06-15, 16:15:53](https://news.ycombinator.com/item?id=48543475) - [TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)](https://tinywind.io)
 * [2026-06-15, 16:11:02](https://news.ycombinator.com/item?id=48543392) - [Memory safety CVEs differ between Rust and C/C++](https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html)
+* [2026-06-15, 16:06:22](https://news.ycombinator.com/item?id=48543311) - [To study how chips work, MIT researchers built their own operating system](https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610)
 * [2026-06-15, 16:03:26](https://news.ycombinator.com/item?id=48543269) - [Boot Naked Linux](https://nick.zoic.org/art/boot-naked-linux/)
 * [2026-06-15, 16:01:43](https://news.ycombinator.com/item?id=48543245) - [Show HN: machine0 – Persistent NixOS VMs You Control from the CLI](https://machine0.io)
 * [2026-06-15, 15:43:17](https://news.ycombinator.com/item?id=48542970) - [Show HN: Exploiting Slack's video embeds to achieve E2EE communication](https://v1c.rocks/log/exploiting-slack-video/)
