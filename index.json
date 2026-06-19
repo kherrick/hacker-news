@@ -1,22 +1,22 @@
 [
   [
     [
-      "2026-06-19, 12:25:06",
-      "https://news.ycombinator.com/item?id=48597783"
+      "2026-06-19, 12:45:11",
+      "https://news.ycombinator.com/item?id=48597939"
     ],
     [
-      "Google is turning Android into a 'sloperating' system. Your thoughts?",
-      "https://android-developers.googleblog.com/2026/06/Android-17.html"
+      "Leave a Trace",
+      "https://www.jakeworth.com/posts/leave-a-trace"
     ]
   ],
   [
     [
-      "2026-06-19, 12:10:54",
-      "https://news.ycombinator.com/item?id=48597668"
+      "2026-06-19, 12:41:15",
+      "https://news.ycombinator.com/item?id=48597910"
     ],
     [
-      "From Australia to Europe, countries move to curb children's social media access",
-      "https://www.reuters.com/legal/government/australia-europe-countries-move-curb-childrens-social-media-access-2026-06-18/"
+      "NASA picks Eric Schmidt's rocket company for Mars mission",
+      "https://techcrunch.com/2026/06/17/nasa-picks-eric-schmidts-rocket-company-for-mars-mission-setting-up-a-race-with-spacex/"
     ]
   ],
   [
@@ -97,16 +97,6 @@
     [
       "Zero-Touch OAuth for MCP",
       "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/"
-    ]
-  ],
-  [
-    [
-      "2026-06-18, 14:51:53",
-      "https://news.ycombinator.com/item?id=48586329"
-    ],
-    [
-      "Building a robotics research setup that lives next to my desk",
-      "https://dfdxlabs.com/research/2026/robotics-setup/"
     ]
   ],
   [
@@ -251,22 +241,32 @@
   ],
   [
     [
+      "2026-06-15, 19:45:07",
+      "https://news.ycombinator.com/item?id=48546093"
+    ],
+    [
+      "\"No Feigning Surprise\"",
+      "https://wizardzines.com/comics/surprise/"
+    ]
+  ],
+  [
+    [
+      "2026-06-15, 17:26:52",
+      "https://news.ycombinator.com/item?id=48544429"
+    ],
+    [
+      "If your product is Great, it doesn't need to be Good (2010)",
+      "http://paulbuchheit.blogspot.com/2010/02/if-your-product-is-great-it-doesnt-need.html"
+    ]
+  ],
+  [
+    [
       "2026-06-15, 16:51:34",
       "https://news.ycombinator.com/item?id=48543968"
     ],
     [
       "Show HN: Modeloop – From visual algorithms to microcontroller C code",
       "https://www.modeloop.app/"
-    ]
-  ],
-  [
-    [
-      "2026-06-15, 16:13:24",
-      "https://news.ycombinator.com/item?id=48543430"
-    ],
-    [
-      "UCCL-EP: DeepEP-style expert parallelism on any NIC, no GPU-initiated comms",
-      "https://fergusfinn.com/blog/uccl-ep-without-owning-the-nic/"
     ]
   ],
   [
