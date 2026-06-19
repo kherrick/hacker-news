@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-19, 16:04:42",
+      "https://news.ycombinator.com/item?id=48600107"
+    ],
+    [
+      "Amateur may have cracked Linear A, a 120-year-old puzzle",
+      "https://aiclambake.com/clamtakes/linear-a/"
+    ]
+  ],
+  [
+    [
+      "2026-06-19, 15:10:02",
+      "https://news.ycombinator.com/item?id=48599515"
+    ],
+    [
+      "There Are No Instances in ATProto",
+      "https://overreacted.io/there-are-no-instances-in-atproto/"
+    ]
+  ],
+  [
+    [
       "2026-06-19, 10:16:10",
       "https://news.ycombinator.com/item?id=48596910"
     ],
@@ -27,6 +47,16 @@
     [
       "So You Want to Define a Well-Known URI",
       "https://mnot.net/blog/2026/well_known_uris"
+    ]
+  ],
+  [
+    [
+      "2026-06-19, 05:01:19",
+      "https://news.ycombinator.com/item?id=48594933"
+    ],
+    [
+      "Lift Challenge",
+      "https://www.darpa.mil/research/challenges/lift"
     ]
   ],
   [
@@ -81,16 +111,6 @@
   ],
   [
     [
-      "2026-06-18, 13:10:44",
-      "https://news.ycombinator.com/item?id=48584761"
-    ],
-    [
-      "Show HN: Talos – Open-source WASM interpreter for Lean",
-      "https://github.com/cajal-technologies/talos"
-    ]
-  ],
-  [
-    [
       "2026-06-18, 12:46:04",
       "https://news.ycombinator.com/item?id=48584497"
     ],
@@ -101,32 +121,12 @@
   ],
   [
     [
-      "2026-06-18, 12:44:09",
-      "https://news.ycombinator.com/item?id=48584484"
-    ],
-    [
-      "The Korean telecom giant at the center of Anthropic's Mythos controversy",
-      "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/"
-    ]
-  ],
-  [
-    [
       "2026-06-18, 11:45:43",
       "https://news.ycombinator.com/item?id=48583928"
     ],
     [
       "I found 10k GitHub repositories distributing Trojan malware",
       "https://orchidfiles.com/github-repositories-distributing-malware/"
-    ]
-  ],
-  [
-    [
-      "2026-06-18, 11:41:21",
-      "https://news.ycombinator.com/item?id=48583897"
-    ],
-    [
-      "Modos Color Monitor Pushes E-Paper Displays Further",
-      "https://spectrum.ieee.org/modos-e-paper-monitor"
     ]
   ],
   [
@@ -181,12 +181,32 @@
   ],
   [
     [
+      "2026-06-16, 14:43:38",
+      "https://news.ycombinator.com/item?id=48556082"
+    ],
+    [
+      "Show HN: Metiq: a real time 3D globe for 100 public datasets",
+      "https://metiq.space"
+    ]
+  ],
+  [
+    [
       "2026-06-16, 11:07:08",
       "https://news.ycombinator.com/item?id=48553388"
     ],
     [
       "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
       "https://www.greybeam.ai/blog/duckdb-internals-part-1"
+    ]
+  ],
+  [
+    [
+      "2026-06-16, 10:34:10",
+      "https://news.ycombinator.com/item?id=48553161"
+    ],
+    [
+      "Telescope Ranchers",
+      "https://kottke.org/26/06/telescope-ranchers"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2026-06-15, 22:36:33",
-      "https://news.ycombinator.com/item?id=48547969"
-    ],
-    [
-      "Cell-based architecture for resilient payment systems",
-      "https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/"
-    ]
-  ],
-  [
-    [
       "2026-06-15, 22:06:12",
       "https://news.ycombinator.com/item?id=48547658"
     ],
@@ -237,16 +247,6 @@
     [
       "Ten years of ClickHouse in open source",
       "https://clickhouse.com/blog/open-source-10"
-    ]
-  ],
-  [
-    [
-      "2026-06-15, 19:45:07",
-      "https://news.ycombinator.com/item?id=48546093"
-    ],
-    [
-      "\"No Feigning Surprise\"",
-      "https://wizardzines.com/comics/surprise/"
     ]
   ],
   [
