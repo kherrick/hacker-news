@@ -72,6 +72,7 @@
 * [2026-06-15, 04:58:15](https://news.ycombinator.com/item?id=48536796) - [Demystifying Noise Contrastive Estimation](https://jxmo.io/posts/nce)
 * [2026-06-15, 04:55:34](https://news.ycombinator.com/item?id=48536776) - [Apple Foundation Models](https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models)
 * [2026-06-15, 04:37:42](https://news.ycombinator.com/item?id=48536660) - [A brief tour of the PDP-11, the most influential minicomputer of all time (2022)](https://arstechnica.com/gadgets/2022/03/a-brief-tour-of-the-pdp-11-the-most-influential-minicomputer-of-all-time/)
+* [2026-06-15, 03:15:41](https://news.ycombinator.com/item?id=48536167) - [Horizons JPL Solar System Data Demo and NASA DSN Updates: Datastar, Common Lisp](https://horizons.lambda-combine.net/)
 * [2026-06-15, 02:30:25](https://news.ycombinator.com/item?id=48535886) - [Even More Batteries Included with Emacs](https://karthinks.com/software/even-more-batteries-included-with-emacs/)
 * [2026-06-15, 02:19:48](https://news.ycombinator.com/item?id=48535821) - [Smashed Toilet Phone Web Server](https://www.offthebricks.com/articles/smashed-toilet-phone-web-server)
 * [2026-06-15, 01:07:37](https://news.ycombinator.com/item?id=48535215) - [The hallucinogenic mushroom that contains no known psychedelic](https://psychedelics.co.uk/news/a-mushroom-genus-that-gets-people-high-but-not-the)

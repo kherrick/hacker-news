@@ -55,6 +55,7 @@
 * [2026-06-16, 12:00:48](https://news.ycombinator.com/item?id=48553876) - [The 2-Year Apartment Rule](https://tadaima.bearblog.dev/the-2-year-apartment-rule/)
 * [2026-06-16, 11:26:27](https://news.ycombinator.com/item?id=48553550) - [Mechanical Watch](https://ciechanow.ski/mechanical-watch/)
 * [2026-06-16, 11:14:38](https://news.ycombinator.com/item?id=48553450) - [Unicorn – The Ultimate CPU Emulator](https://www.unicorn-engine.org/)
+* [2026-06-16, 11:07:08](https://news.ycombinator.com/item?id=48553388) - [DuckDB Internals: Why Is DuckDB Fast? (Part 1)](https://www.greybeam.ai/blog/duckdb-internals-part-1)
 * [2026-06-16, 10:51:14](https://news.ycombinator.com/item?id=48553265) - [About ASCII art and Jgs font (2023)](https://velvetyne.fr/news/about-ascii-art-and-jgs-font/)
 * [2026-06-16, 10:44:24](https://news.ycombinator.com/item?id=48553224) - [SpaceX to buy Cursor AI coding agent operator Anysphere for $60B](https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/)
 * [2026-06-16, 09:46:49](https://news.ycombinator.com/item?id=48552844) - [Correlated randomness in Slay the Spire 2](https://tck.mn/blog/correlated-randomness-sts2/)
