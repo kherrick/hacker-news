@@ -2,7 +2,6 @@
 
 * [2026-06-19, 18:14:11](https://news.ycombinator.com/item?id=48601420) - [Giant Banana Pulled over in Montana Driver Says Cops Have Stopped Him 100s Times](https://cowboystatedaily.com/2026/06/18/giant-banana-pulled-over-in-montana-driver-says-cops-have-stopped-him-100s-of-times/)
 * [2026-06-19, 18:00:48](https://news.ycombinator.com/item?id=48601286) - [Is AI ruining our skills? Early results are in – and they're not good](https://www.nature.com/articles/d41586-026-01947-1)
-* [2026-06-19, 17:53:12](https://news.ycombinator.com/item?id=48601164) - [Windows 11 update broke the Recycle Bin, OneDrive, and your PC's stability](https://www.techspot.com/news/112831-microsoft-confirms-weird-recycle-bin-bug-windows-11.html)
 * [2026-06-19, 17:34:28](https://news.ycombinator.com/item?id=48600950) - [A new bill takes aim at government pressure to silence lawful online speech](https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech)
 * [2026-06-19, 16:30:49](https://news.ycombinator.com/item?id=48600345) - [Google workspace threatening to block Firefox access](https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html)
 * [2026-06-19, 16:28:20](https://news.ycombinator.com/item?id=48600312) - [Hyundai buys Boston Dynamics](https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/)
@@ -29,6 +28,7 @@
 * [2026-06-15, 14:25:51](https://news.ycombinator.com/item?id=48541777) - [This 1976 University Experiment Spun Up the U.S. Wind Industry](https://spectrum.ieee.org/william-heronemus-wind-energy)
 * [2026-06-15, 13:35:23](https://news.ycombinator.com/item?id=48541062) - [Gribouille 0.3.0: A Grammar of Graphics for Typst](https://mickael.canouil.fr/posts/2026-06-15-gribouille-0-3/)
 * [2026-06-15, 13:13:38](https://news.ycombinator.com/item?id=48540779) - [Akse3D – open-source 3D modelling anyone can master](https://akse3d-en.skaperiet.no)
+* [2026-06-14, 14:28:06](https://news.ycombinator.com/item?id=48527520) - [Music generation using Algebra, presented as web MIDI shop](https://monictheory.com)
 * [2026-06-13, 08:21:45](https://news.ycombinator.com/item?id=48514843) - [I used sound waves to make espresso. It could cut coffee‑brewing energy use by ¾](https://theconversation.com/i-used-sound-waves-to-make-espresso-it-could-cut-coffee-brewing-energy-use-by-75-284929)
 
 ## [Archives](archives/index.md)

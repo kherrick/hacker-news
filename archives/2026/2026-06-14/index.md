@@ -49,6 +49,7 @@
 * [2026-06-14, 14:37:51](https://news.ycombinator.com/item?id=48527623) - [Show HN: Dual YOLOv8n UAV Detection on RK3588S at 42 FPS Using NPU](https://github.com/alebal123bal/khadas_yolov8n_multithread)
 * [2026-06-14, 14:33:11](https://news.ycombinator.com/item?id=48527574) - [EU Commission looking at practical consequences of Anthropic decision](https://www.reuters.com/legal/litigation/eu-commission-looking-practical-consequences-anthropic-decision-spokesperson-2026-06-14/)
 * [2026-06-14, 14:29:54](https://news.ycombinator.com/item?id=48527533) - [Extinction-Level Capitalism](https://matthewbutterick.com/extinction-level-capitalism.html)
+* [2026-06-14, 14:28:06](https://news.ycombinator.com/item?id=48527520) - [Music generation using Algebra, presented as web MIDI shop](https://monictheory.com)
 * [2026-06-14, 14:22:41](https://news.ycombinator.com/item?id=48527464) - [Pink Cosmo berries a hit in their trial season (2023)](https://fruitgrowersnews.com/article/pink-cosmo-berries-a-hit-in-their-trial-season/)
 * [2026-06-14, 14:13:22](https://news.ycombinator.com/item?id=48527392) - [SpaceX, Adding It Up – The $235B Cash Gap](https://capefearadvisors.substack.com/p/spacex-adding-it-up-the-235-billion)
 * [2026-06-14, 14:11:33](https://news.ycombinator.com/item?id=48527377) - [Conversations with a six-year-old on functional programming (2018)](https://byorgey.wordpress.com/2018/05/06/conversations-with-a-six-year-old-on-functional-programming/)
