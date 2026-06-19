@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-06-15](index.md)
 
 * [2026-06-15, 23:47:55](https://news.ycombinator.com/item?id=48548695) - [The Productivity J-Curve [pdf] (2018)](https://ide.mit.edu/sites/default/files/publications/jcurve.pdf)
+* [2026-06-15, 23:37:54](https://news.ycombinator.com/item?id=48548612) - [Egyptian Fractions](https://blog.plover.com/math/egyptian-fractions.html)
 * [2026-06-15, 22:37:55](https://news.ycombinator.com/item?id=48547985) - [Banned Book Library in a Wi-Fi Smart Light Bulb](https://www.richardosgood.com/posts/banned-book-library/)
 * [2026-06-15, 22:36:33](https://news.ycombinator.com/item?id=48547969) - [American Express: Cell-Based Architecture for Resilient Payment Systems](https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/)
 * [2026-06-15, 22:23:38](https://news.ycombinator.com/item?id=48547834) - [Swedish parliament abolishes permanent residence visas for migrants](https://www.riksdagen.se/en/news/articles/2026/jun/9/permanent-residence-permits-to-be-abolished_cmsc5d86c7b-fecc-4799-9e89-e63592d6c6bfen/)
