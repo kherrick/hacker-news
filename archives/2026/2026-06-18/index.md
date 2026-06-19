@@ -52,6 +52,7 @@
 * [2026-06-18, 08:28:04](https://news.ycombinator.com/item?id=48582464) - [I need your clothes, your boots, and your motorcycle](https://rbelmont.mameworld.info/?p=1725)
 * [2026-06-18, 08:08:00](https://news.ycombinator.com/item?id=48582320) - [AMD silently removes memory encryption from consumer Ryzen CPUs](https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change)
 * [2026-06-18, 08:02:56](https://news.ycombinator.com/item?id=48582278) - [The value of employee equity depends a lot on volatility](https://devanshpanda.com/writing/volatility/)
+* [2026-06-18, 07:50:12](https://news.ycombinator.com/item?id=48582180) - [A Perceptron in Age of Empires II](https://adewynter.github.io/notes/aoe2-circuits)
 * [2026-06-18, 07:46:55](https://news.ycombinator.com/item?id=48582147) - [The Forge We Deserve](https://btao.org/posts/2026-05-09-the-forge-we-deserve/)
 * [2026-06-18, 07:27:56](https://news.ycombinator.com/item?id=48582005) - [Ask HN: Am I being advertised an ARG via user agent logs?](https://news.ycombinator.com/item?id=48582005)
 * [2026-06-18, 06:23:24](https://news.ycombinator.com/item?id=48581489) - [The Australian Government to Require SMS/MMS Sender ID Registraion](https://www.acma.gov.au/sms-sender-id-register)

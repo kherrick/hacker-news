@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-06-19](index.md)
 
+* [2026-06-19, 23:32:03](https://news.ycombinator.com/item?id=48604584) - [Iran requires insurance on ships using Strait of Hormuz, fees likely to follow](https://www.lloydslist.com/LL1157571/Iran-imposes-mandatory-insurance-on-ships-transiting-Strait-of-Hormuz-with-fees-likely-to-follow)
 * [2026-06-19, 22:51:09](https://news.ycombinator.com/item?id=48604232) - [Ask HN: Will programmers write more efficient code during the memory shortage?](https://news.ycombinator.com/item?id=48604232)
 * [2026-06-19, 22:45:20](https://news.ycombinator.com/item?id=48604186) - [Americans express unease over SpaceX's influence on retirement savings](https://www.theguardian.com/science/2026/jun/19/spacex-retirement-savings-elon-musk)
+* [2026-06-19, 22:37:30](https://news.ycombinator.com/item?id=48604115) - [How do flocking birds and schools of fish move?](https://www.nyu.edu/about/news-publications/news/2026/june/how-do-flocking-birds-and-schools-of-fish-move--new-research-off.html)
 * [2026-06-19, 21:58:22](https://news.ycombinator.com/item?id=48603761) - [The UK's New Under-16 Social Media Ban Will Cause More Harm Than It Prevents](https://www.eff.org/deeplinks/2026/06/uks-new-under-16-social-media-ban-will-cause-more-harm-it-prevents)
 * [2026-06-19, 21:49:44](https://news.ycombinator.com/item?id=48603664) - [Zenzizenzizenzic](https://en.wikipedia.org/wiki/Zenzizenzizenzic)
 * [2026-06-19, 20:30:59](https://news.ycombinator.com/item?id=48602918) - [Surprising Economics of Load-Balanced Systems](https://brooker.co.za/blog/2020/08/06/erlang.html)
@@ -22,6 +24,7 @@
 * [2026-06-19, 17:34:28](https://news.ycombinator.com/item?id=48600950) - [A New Bill Takes Aim at Government Pressure to Silence Lawful Online Speech](https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech)
 * [2026-06-19, 17:34:18](https://news.ycombinator.com/item?id=48600946) - [Court Records Should Be Free](https://www.eff.org/deeplinks/2026/06/court-records-should-be-free)
 * [2026-06-19, 17:33:32](https://news.ycombinator.com/item?id=48600935) - [Agentic Coding Is a Trap](https://khalilstemmler.com/articles/agentic-coding-is-a-trap/)
+* [2026-06-19, 16:59:16](https://news.ycombinator.com/item?id=48600593) - [AURpocalypse now: a look at the recent AUR attacks](https://lwn.net/SubscriberLink/1077619/f7b07c5489fdd43a/)
 * [2026-06-19, 16:30:49](https://news.ycombinator.com/item?id=48600345) - [Google workspace threatening to block Firefox access](https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html)
 * [2026-06-19, 16:28:20](https://news.ycombinator.com/item?id=48600312) - [Hyundai buys Boston Dynamics, Atlas humanoid to be used at vehicle plant by 2028](https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/)
 * [2026-06-19, 16:19:55](https://news.ycombinator.com/item?id=48600236) - [Spotify Killed the Thrill of the Hunt](https://erildrun.bearblog.dev/spotify-killed-the-thrill-of-the-hunt/)
