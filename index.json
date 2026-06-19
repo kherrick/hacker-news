@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=48594715"
     ],
     [
-      "Let's Encrypt has been down most of today",
+      "Many Let's Encrypt renewals had errors today",
       "https://letsencrypt.status.io/#2026"
     ]
   ],
@@ -77,26 +77,6 @@
     [
       "I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M",
       "https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/"
-    ]
-  ],
-  [
-    [
-      "2026-06-18, 17:37:00",
-      "https://news.ycombinator.com/item?id=48588755"
-    ],
-    [
-      "The Token Compression Illusion: Why I'm Skeptical of RTK",
-      "https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk/"
-    ]
-  ],
-  [
-    [
-      "2026-06-18, 17:09:53",
-      "https://news.ycombinator.com/item?id=48588413"
-    ],
-    [
-      "Migrating from GNU Stow to Chezmoi",
-      "https://rednafi.com/misc/chezmoi/"
     ]
   ],
   [
@@ -261,6 +241,16 @@
   ],
   [
     [
+      "2026-06-16, 00:45:50",
+      "https://news.ycombinator.com/item?id=48549118"
+    ],
+    [
+      "Zen and the Art of Machine Learning Research",
+      "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning"
+    ]
+  ],
+  [
+    [
       "2026-06-15, 22:36:33",
       "https://news.ycombinator.com/item?id=48547969"
     ],
@@ -287,6 +277,16 @@
     [
       "To study how chips work, MIT researchers built their own operating system",
       "https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610"
+    ]
+  ],
+  [
+    [
+      "2026-06-15, 13:35:23",
+      "https://news.ycombinator.com/item?id=48541062"
+    ],
+    [
+      "Gribouille 0.3.0: A Grammar of Graphics for Typst",
+      "https://mickael.canouil.fr/posts/2026-06-15-gribouille-0-3/"
     ]
   ],
   [
