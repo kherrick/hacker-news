@@ -21,6 +21,36 @@
   ],
   [
     [
+      "2026-06-19, 20:30:59",
+      "https://news.ycombinator.com/item?id=48602918"
+    ],
+    [
+      "Surprising Economics of Load-Balanced Systems",
+      "https://brooker.co.za/blog/2020/08/06/erlang.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-19, 20:24:59",
+      "https://news.ycombinator.com/item?id=48602862"
+    ],
+    [
+      "Hide Secrets from AI Agents and NPM install using Airgap",
+      "https://sauleau.com/notes/airgap-security-for-the-modern-ai-age.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-19, 20:19:57",
+      "https://news.ycombinator.com/item?id=48602817"
+    ],
+    [
+      "Think of the Children: How to Force Real ID for All Internet Traffic (2023)",
+      "https://nochan.net/b/Internet-Crap/20230829-Think-Of-The-Children/"
+    ]
+  ],
+  [
+    [
       "2026-06-19, 20:03:16",
       "https://news.ycombinator.com/item?id=48602639"
     ],
@@ -57,16 +87,6 @@
     [
       "Big Banana Car",
       "https://bigbananacar.com/"
-    ]
-  ],
-  [
-    [
-      "2026-06-19, 17:53:00",
-      "https://news.ycombinator.com/item?id=48601162"
-    ],
-    [
-      "John Jumper to join Anthropic",
-      "https://twitter.com/JohnJumperSci/status/2068001285173834106"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2026-06-18, 19:42:54",
-      "https://news.ycombinator.com/item?id=48590505"
-    ],
-    [
-      "Show HN: Pagecast – Publish Markdown/HTML Reports to Cloudflare Pages",
-      "https://github.com/Amal-David/pagecast"
-    ]
-  ],
-  [
-    [
       "2026-06-16, 14:43:38",
       "https://news.ycombinator.com/item?id=48556082"
     ],
@@ -241,32 +251,12 @@
   ],
   [
     [
-      "2026-06-15, 16:51:34",
-      "https://news.ycombinator.com/item?id=48543968"
-    ],
-    [
-      "Show HN: Modeloop – From visual algorithms to microcontroller C code",
-      "https://www.modeloop.app/"
-    ]
-  ],
-  [
-    [
       "2026-06-15, 16:06:22",
       "https://news.ycombinator.com/item?id=48543311"
     ],
     [
       "To study how chips work, MIT researchers built their own operating system",
       "https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610"
-    ]
-  ],
-  [
-    [
-      "2026-06-15, 15:49:37",
-      "https://news.ycombinator.com/item?id=48543065"
-    ],
-    [
-      "Show HN: Continuous Nvidia CUDA PC Sampling Profiler",
-      "https://www.polarsignals.com/blog/posts/2026/06/10/nvidia-cuda-pc-sampling"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Gribouille 0.3.0: A Grammar of Graphics for Typst",
       "https://mickael.canouil.fr/posts/2026-06-15-gribouille-0-3/"
+    ]
+  ],
+  [
+    [
+      "2026-06-14, 20:43:23",
+      "https://news.ycombinator.com/item?id=48532447"
+    ],
+    [
+      "RhinoCollab a plugin for real-time editing for Rhino 3D",
+      "https://rhinocollab.com"
     ]
   ],
   [
