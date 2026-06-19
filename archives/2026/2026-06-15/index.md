@@ -48,6 +48,7 @@
 * [2026-06-15, 14:48:47](https://news.ycombinator.com/item?id=48542132) - [Copper transport drug restores memory and clears toxic Alzheimer's proteins](https://www.monash.edu/news/articles/copper-drug-restores-memory-and-clears-toxic-alzheimers-proteins)
 * [2026-06-15, 14:46:53](https://news.ycombinator.com/item?id=48542100) - [Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?](https://news.ycombinator.com/item?id=48542100)
 * [2026-06-15, 14:44:02](https://news.ycombinator.com/item?id=48542064) - [Hetzner increased dedicated server prices 3-4x](https://news.ycombinator.com/item?id=48542064)
+* [2026-06-15, 13:35:23](https://news.ycombinator.com/item?id=48541062) - [Gribouille 0.3.0: A Grammar of Graphics for Typst](https://mickael.canouil.fr/posts/2026-06-15-gribouille-0-3/)
 * [2026-06-15, 13:31:09](https://news.ycombinator.com/item?id=48541014) - [Show HN: Can Europe train a frontier AI model on the compute it owns?](https://github.com/sammysltd/euromesh)
 * [2026-06-15, 13:26:08](https://news.ycombinator.com/item?id=48540945) - [Google Flight Simulator](https://developers.google.com/maps/documentation/earth/flight-simulator)
 * [2026-06-15, 13:20:13](https://news.ycombinator.com/item?id=48540854) - [CrankGPT](https://crankgpt.com)

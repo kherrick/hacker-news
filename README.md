@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-06-19, 04:18:09](https://news.ycombinator.com/item?id=48594715) - [Let's Encrypt has been down most of today](https://letsencrypt.status.io/#2026)
+* [2026-06-19, 04:18:09](https://news.ycombinator.com/item?id=48594715) - [Many Let's Encrypt renewals had errors today](https://letsencrypt.status.io/#2026)
 * [2026-06-19, 03:50:25](https://news.ycombinator.com/item?id=48594592) - [Ice Water Drowning Survival After 147-Minute Submersion and Hypothermic Arrest](https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885)
 * [2026-06-19, 01:06:27](https://news.ycombinator.com/item?id=48593731) - [Datasette Apps: Host custom HTML applications inside Datasette](https://simonwillison.net/2026/Jun/18/datasette-apps/)
 * [2026-06-19, 01:01:13](https://news.ycombinator.com/item?id=48593694) - [Flexport (YC W14) Is Hiring in Indonesia, India, and Thailand](https://www.flexport.com/company/careers/)
@@ -8,8 +8,6 @@
 * [2026-06-18, 20:49:03](https://news.ycombinator.com/item?id=48591348) - [Show HN: Are You in the Weights?](https://www.intheweights.com/)
 * [2026-06-18, 20:27:28](https://news.ycombinator.com/item?id=48591066) - [Zork name origin got an update on Wikipedia](https://www.dpolakovic.space/blogs/zork-part2#update)
 * [2026-06-18, 18:31:23](https://news.ycombinator.com/item?id=48589501) - [I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M](https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/)
-* [2026-06-18, 17:37:00](https://news.ycombinator.com/item?id=48588755) - [The Token Compression Illusion: Why I'm Skeptical of RTK](https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk/)
-* [2026-06-18, 17:09:53](https://news.ycombinator.com/item?id=48588413) - [Migrating from GNU Stow to Chezmoi](https://rednafi.com/misc/chezmoi/)
 * [2026-06-18, 14:51:53](https://news.ycombinator.com/item?id=48586329) - [Building a robotics research setup that lives next to my desk](https://dfdxlabs.com/research/2026/robotics-setup/)
 * [2026-06-18, 14:49:44](https://news.ycombinator.com/item?id=48586299) - [Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps](https://tester.army)
 * [2026-06-18, 14:24:30](https://news.ycombinator.com/item?id=48585866) - [Ubiquiti: Enterprise NAS, Built on ZFS](https://blog.ui.com/article/introducing-enterprise-nas)
@@ -26,9 +24,11 @@
 * [2026-06-18, 00:26:06](https://news.ycombinator.com/item?id=48578913) - [Noam Shazeer Joins OpenAI](https://twitter.com/NoamShazeer/status/2067400851438932297)
 * [2026-06-17, 14:03:58](https://news.ycombinator.com/item?id=48570730) - [How Japan's railways stayed one while splitting apart](https://arun.is/blog/jr-logo/)
 * [2026-06-16, 11:07:08](https://news.ycombinator.com/item?id=48553388) - [DuckDB Internals: Why Is DuckDB Fast? (Part 1)](https://www.greybeam.ai/blog/duckdb-internals-part-1)
+* [2026-06-16, 00:45:50](https://news.ycombinator.com/item?id=48549118) - [Zen and the Art of Machine Learning Research](https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning)
 * [2026-06-15, 22:36:33](https://news.ycombinator.com/item?id=48547969) - [Cell-based architecture for resilient payment systems](https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/)
 * [2026-06-15, 17:26:52](https://news.ycombinator.com/item?id=48544429) - [If your product is Great, it doesn't need to be Good (2010)](http://paulbuchheit.blogspot.com/2010/02/if-your-product-is-great-it-doesnt-need.html)
 * [2026-06-15, 16:06:22](https://news.ycombinator.com/item?id=48543311) - [To study how chips work, MIT researchers built their own operating system](https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610)
+* [2026-06-15, 13:35:23](https://news.ycombinator.com/item?id=48541062) - [Gribouille 0.3.0: A Grammar of Graphics for Typst](https://mickael.canouil.fr/posts/2026-06-15-gribouille-0-3/)
 * [2026-06-15, 03:15:41](https://news.ycombinator.com/item?id=48536167) - [Horizons JPL Solar System Data Demo and NASA DSN Updates: Datastar, Common Lisp](https://horizons.lambda-combine.net/)
 
 ## [Archives](archives/index.md)
