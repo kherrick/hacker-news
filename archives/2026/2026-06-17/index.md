@@ -37,6 +37,7 @@
 * [2026-06-17, 14:20:44](https://news.ycombinator.com/item?id=48570948) - [AI demands more engineering discipline. Not less](https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline)
 * [2026-06-17, 14:06:09](https://news.ycombinator.com/item?id=48570763) - [ICE Appears to Be Buying Immigrants' Tax Identifiers from a Data Broker](https://www.404media.co/ice-appears-to-be-buying-immigrants-tax-identifiers-from-a-data-broker/)
 * [2026-06-17, 14:03:58](https://news.ycombinator.com/item?id=48570730) - [How Japan's railways stayed one while splitting apart](https://arun.is/blog/jr-logo/)
+* [2026-06-17, 13:51:10](https://news.ycombinator.com/item?id=48570585) - [Computed goto for efficient dispatch tables (2012)](https://eli.thegreenplace.net/2012/07/12/computed-goto-for-efficient-dispatch-tables)
 * [2026-06-17, 13:05:03](https://news.ycombinator.com/item?id=48569954) - [Want your images back? Sure... That'll be $5!](https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars)
 * [2026-06-17, 13:00:38](https://news.ycombinator.com/item?id=48569894) - [Why thinking out loud with someone beats thinking alone](https://www.thesignalist.io/s/the-dialogue-dividend/)
 * [2026-06-17, 12:45:10](https://news.ycombinator.com/item?id=48569677) - [Human Judgment as a Specification](https://blog.brownplt.org/2026/06/09/pick.html)

@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-06-20](index.md)
 
+* [2026-06-20, 13:44:39](https://news.ycombinator.com/item?id=48609194) - [From PGP to Mythos: a brief history of export controls that didn't stop anyone](https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/)
 * [2026-06-20, 11:58:32](https://news.ycombinator.com/item?id=48608591) - [Lithuanian startup launches open-source network to detect Shahed-type drones](https://www.lrt.lt/en/news-in-english/19/2965205/lithuanian-startup-launches-open-source-network-to-detect-shahed-type-drones)
 * [2026-06-20, 11:43:29](https://news.ycombinator.com/item?id=48608503) - [16-year-old SATA II SSD survives 1 petabyte of writes, 25x the drive's rating](https://www.tomshardware.com/pc-components/ssds/16-year-old-sata-ii-ssd-survives-1-petabyte-of-writes-25x-over-the-drives-tbw-rating)
+* [2026-06-20, 11:19:05](https://news.ycombinator.com/item?id=48608394) - [Temporary Cloudflare Accounts for AI Agents](https://blog.cloudflare.com/temporary-accounts/)
 * [2026-06-20, 10:55:18](https://news.ycombinator.com/item?id=48608255) - [Bootimus – A Self-Contained PXE and HTTP Boot Server](https://bootimus.com)
 * [2026-06-20, 10:49:53](https://news.ycombinator.com/item?id=48608223) - [CSSQuake](https://cssquake.com/)
 * [2026-06-20, 05:33:59](https://news.ycombinator.com/item?id=48606619) - [I Stored a Website in a Favicon](https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/)
