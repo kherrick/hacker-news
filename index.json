@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-06-20, 15:21:26",
-      "https://news.ycombinator.com/item?id=48609863"
+      "2026-06-20, 15:42:35",
+      "https://news.ycombinator.com/item?id=48610055"
     ],
     [
-      "Sogen Kato",
-      "https://en.wikipedia.org/wiki/Sogen_Kato"
+      "Big Tech is stoking unrest in the UK. Why?",
+      "https://www.ft.com/content/0f3e33d2-0b9e-481d-a911-245d8cc01a9c"
     ]
   ],
   [
@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2026-06-20, 11:58:32",
-      "https://news.ycombinator.com/item?id=48608591"
-    ],
-    [
-      "Lithuanian startup launches open-source network to detect Shahed-type drones",
-      "https://www.lrt.lt/en/news-in-english/19/2965205/lithuanian-startup-launches-open-source-network-to-detect-shahed-type-drones"
-    ]
-  ],
-  [
-    [
       "2026-06-20, 11:19:05",
       "https://news.ycombinator.com/item?id=48608394"
     ],
@@ -247,6 +237,16 @@
     [
       "Computed goto for efficient dispatch tables (2012)",
       "https://eli.thegreenplace.net/2012/07/12/computed-goto-for-efficient-dispatch-tables"
+    ]
+  ],
+  [
+    [
+      "2026-06-17, 13:34:42",
+      "https://news.ycombinator.com/item?id=48570364"
+    ],
+    [
+      "Show HN: Microcrad – Micrograd Reimplemented in C",
+      "https://github.com/oraziorillo/microcrad"
     ]
   ],
   [
