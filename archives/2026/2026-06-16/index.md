@@ -46,6 +46,7 @@
 * [2026-06-16, 15:15:01](https://news.ycombinator.com/item?id=48556561) - [How we run Firecracker VMs inside EC2 and start browsers in less than 1s](https://browser-use.com/posts/firecracker-browser-infra)
 * [2026-06-16, 15:05:09](https://news.ycombinator.com/item?id=48556414) - [Google Chrome's Next Update Will Mark the End of Popular Ad Blockers](https://tech.slashdot.org/story/26/06/15/205219/google-chromes-next-update-will-mark-the-end-of-popular-ad-blockers)
 * [2026-06-16, 15:00:30](https://news.ycombinator.com/item?id=48556335) - [Meet Nikolai Evreinov, the 19th century Nathan Fielder](https://mssv.net/2026/06/16/meet-nikolai-evreinov-the-19th-century-nathan-fielder/)
+* [2026-06-16, 15:00:26](https://news.ycombinator.com/item?id=48556333) - [Visiting the History of Computing and Play](https://arbesman.substack.com/p/visiting-the-history-of-computing)
 * [2026-06-16, 14:50:10](https://news.ycombinator.com/item?id=48556163) - [Subquadratic – Introducing SubQ 1.1 Small](https://subq.ai/subq-1-1-small-technical-report)
 * [2026-06-16, 14:43:38](https://news.ycombinator.com/item?id=48556082) - [Show HN: Metiq: a real time 3D globe for 100 public datasets](https://metiq.space)
 * [2026-06-16, 14:36:57](https://news.ycombinator.com/item?id=48555993) - [Running local models is good now](https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/)
