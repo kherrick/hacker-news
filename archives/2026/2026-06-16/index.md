@@ -20,6 +20,7 @@
 * [2026-06-16, 19:42:05](https://news.ycombinator.com/item?id=48560847) - [U.S. pulling ocean sensors a 'shock' for Canadian research as El Niño nears](https://www.timescolonist.com/local-news/us-pulling-ocean-sensors-a-shock-for-canadian-research-as-el-nino-nears-12422874)
 * [2026-06-16, 19:20:33](https://news.ycombinator.com/item?id=48560535) - [S‑CURVES a field guide to technology adoption · 1825–2026](https://escurves.com/)
 * [2026-06-16, 19:13:30](https://news.ycombinator.com/item?id=48560454) - [Show HN: VoiceDraw – Talk system design out loud, the diagrams draw themselves](https://voicedraw.com/)
+* [2026-06-16, 18:57:29](https://news.ycombinator.com/item?id=48560227) - [Inference cost at scale with napkin math](https://injuly.in/blog/napkin-inference-cost/index.html)
 * [2026-06-16, 18:37:21](https://news.ycombinator.com/item?id=48559935) - [Apple is about to make Hide My Email useless](https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/)
 * [2026-06-16, 18:24:39](https://news.ycombinator.com/item?id=48559729) - [A 1969 camera operators' strike created Upstairs Downstairs multiverse](https://ironicsans.ghost.io/the-color-strike/)
 * [2026-06-16, 17:54:02](https://news.ycombinator.com/item?id=48559188) - [GPT‑NL: a sovereign language model for the Netherlands](https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/)

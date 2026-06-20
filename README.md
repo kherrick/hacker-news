@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-06-20, 20:41:06](https://news.ycombinator.com/item?id=48612806) - [UK Home Office launches £75M 'PoliceAI' to capitalise on artificial intelligence](https://www.publictechnology.net/2026/06/15/public-order-justice-and-rights/home-office-launches-75m-policeai-to-capitalise-on-artificial-intelligence/)
 * [2026-06-20, 19:19:06](https://news.ycombinator.com/item?id=48612098) - [AMD will reinstate memory encryption on Ryzen 9000 CPUs via BIOS update in July](https://www.tomshardware.com/pc-components/cpus/amd-will-reinstate-memory-encryption-on-ryzen-9000-cpus-through-a-bios-update-in-july-tsme-is-coming-back-after-valuable-community-feedback)
 * [2026-06-20, 19:18:48](https://news.ycombinator.com/item?id=48612095) - [Show HN: My Windows XP portfolio with working Game Boy and iPod](https://mitchivin.com/)
 * [2026-06-20, 19:01:10](https://news.ycombinator.com/item?id=48611942) - [PostgresBench: A Reproducible Benchmark for Postgres Services](https://clickhouse.com/blog/postgresbench)
@@ -17,7 +18,6 @@
 * [2026-06-20, 14:20:47](https://news.ycombinator.com/item?id=48609422) - [Web Browsers on PDAS](https://vale.rocks/posts/pda-browsers)
 * [2026-06-20, 14:08:30](https://news.ycombinator.com/item?id=48609343) - [Windows 11 New Media Player Uses 3.5x More RAM, Charges for Popular Video Codecs](https://www.extremetech.com/computing/windows-11s-new-media-player-uses-35x-more-ram-charges-for-popular-video)
 * [2026-06-20, 13:49:03](https://news.ycombinator.com/item?id=48609231) - [Show HN: We post-trained a model that pen tests instead of refusing](https://www.argusred.com/cli)
-* [2026-06-20, 13:44:39](https://news.ycombinator.com/item?id=48609194) - [From PGP to Mythos: a brief history of export controls that didn't stop anyone](https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/)
 * [2026-06-20, 11:44:52](https://news.ycombinator.com/item?id=48608515) - [The rise of South Korea’s weapons business](https://www.politico.com/news/magazine/2026/06/20/south-korea-weapons-dealer-trump-00959559)
 * [2026-06-20, 11:19:05](https://news.ycombinator.com/item?id=48608394) - [Temporary Cloudflare accounts for AI agents](https://blog.cloudflare.com/temporary-accounts/)
 * [2026-06-20, 10:55:18](https://news.ycombinator.com/item?id=48608255) - [Bootimus – A Self-Contained PXE and HTTP Boot Server](https://bootimus.com)
@@ -26,10 +26,10 @@
 * [2026-06-20, 03:36:49](https://news.ycombinator.com/item?id=48606140) - [Where to Find the Colors Your Screen Can't Show You](https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/)
 * [2026-06-20, 01:18:30](https://news.ycombinator.com/item?id=48605310) - [Why has the pointe shoe been so resistant to change?](https://dancemagazine.com/pointe-shoe-innovation/)
 * [2026-06-19, 16:11:25](https://news.ycombinator.com/item?id=48600167) - [GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2](https://arrowtsx.dev/bigger-models/)
-* [2026-06-18, 16:09:54](https://news.ycombinator.com/item?id=48587584) - [Mencius (2016)](https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/265d73a0-6bfa-45df-92ff-4e7d3f8be4b1/content)
 * [2026-06-18, 08:16:20](https://news.ycombinator.com/item?id=48582374) - [Can you see three trees?](https://www.not-ship.com/can-you-see-three-trees/)
 * [2026-06-17, 20:15:57](https://news.ycombinator.com/item?id=48576217) - [Now You Don't: When Espionage Meets Magic](https://www.politicshome.com/news/article/now-dont-espionage-meets-magic)
 * [2026-06-17, 13:34:42](https://news.ycombinator.com/item?id=48570364) - [Show HN: Microcrad – Micrograd Reimplemented in C](https://github.com/oraziorillo/microcrad)
+* [2026-06-16, 18:57:29](https://news.ycombinator.com/item?id=48560227) - [Inference cost at scale with napkin math](https://injuly.in/blog/napkin-inference-cost/index.html)
 
 ## [Archives](archives/index.md)
 
