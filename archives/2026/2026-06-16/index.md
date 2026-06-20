@@ -36,6 +36,7 @@
 * [2026-06-16, 16:25:28](https://news.ycombinator.com/item?id=48557768) - [Making ast.walk 220x Faster](https://reflex.dev/blog/why-ast-walk-when-you-can-ast-sprint/)
 * [2026-06-16, 16:12:26](https://news.ycombinator.com/item?id=48557535) - [GateGPT: 56k tokens per second Transformer (KV cache) on FPGA at 80 MHz](https://twitter.com/fguzmanai/status/2065832668172845209)
 * [2026-06-16, 16:12:06](https://news.ycombinator.com/item?id=48557530) - [Apple's weird anti-nausea dots cured my car sickness](https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work)
+* [2026-06-16, 15:45:08](https://news.ycombinator.com/item?id=48557090) - [Mental causation is not load-bearing](https://unstableontology.com/2026/06/07/mental-causation-is-not-load-bearing/)
 * [2026-06-16, 15:44:44](https://news.ycombinator.com/item?id=48557079) - [Calvin and Hobbes and the price of integrity](https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of)
 * [2026-06-16, 15:41:02](https://news.ycombinator.com/item?id=48557002) - [Show HN: BlitzGraph – Supabase for graphs, built for LLM agents](https://blitzgraph.com)
 * [2026-06-16, 15:39:36](https://news.ycombinator.com/item?id=48556985) - [UK to require ID or face scan before you can make social media accounts](https://www.bleepingcomputer.com/news/security/uk-to-require-id-or-face-scan-before-you-can-make-social-media-accounts/)
