@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-06-20, 19:19:06](https://news.ycombinator.com/item?id=48612098) - [AMD will reinstate memory encryption on Ryzen 9000 CPUs via BIOS update in July](https://www.tomshardware.com/pc-components/cpus/amd-will-reinstate-memory-encryption-on-ryzen-9000-cpus-through-a-bios-update-in-july-tsme-is-coming-back-after-valuable-community-feedback)
 * [2026-06-20, 19:18:48](https://news.ycombinator.com/item?id=48612095) - [Show HN: My Windows XP portfolio with working Game Boy and iPod](https://mitchivin.com/)
 * [2026-06-20, 19:01:10](https://news.ycombinator.com/item?id=48611942) - [PostgresBench: A Reproducible Benchmark for Postgres Services](https://clickhouse.com/blog/postgresbench)
 * [2026-06-20, 18:53:46](https://news.ycombinator.com/item?id=48611857) - [Show HN: Tiny – An interpeted dynamic langauge with inline Go native functions](https://github.com/confh/Tiny)
 * [2026-06-20, 18:17:58](https://news.ycombinator.com/item?id=48611513) - [Show HN: Make PDFs look scanned (CLI or in the browser via WASM)](https://github.com/overflowy/make-look-scanned)
 * [2026-06-20, 18:05:31](https://news.ycombinator.com/item?id=48611411) - [The Wholesale Plagiarism of Obscure Sorrows](https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/)
-* [2026-06-20, 17:52:07](https://news.ycombinator.com/item?id=48611303) - [Ask HN: Due to spam on GitHub, what platforms can I move my projects?](https://news.ycombinator.com/item?id=48611303)
 * [2026-06-20, 17:27:36](https://news.ycombinator.com/item?id=48611083) - [The ability to regrow body parts is dormant in mammals, not lost](https://www.sciencedaily.com/releases/2026/06/260617032207.htm)
 * [2026-06-20, 17:04:24](https://news.ycombinator.com/item?id=48610853) - [UHF X11: X11 Built for VisionOS and Apple Vision Pro](https://www.lispm.net/apps/uhf-x11/)
 * [2026-06-20, 17:02:49](https://news.ycombinator.com/item?id=48610841) - [Bun has an open PR adding shared-memory threads to JavaScriptCore](https://github.com/oven-sh/WebKit/pull/249)
@@ -15,7 +15,6 @@
 * [2026-06-20, 15:10:03](https://news.ycombinator.com/item?id=48609766) - [DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots](https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html)
 * [2026-06-20, 14:40:12](https://news.ycombinator.com/item?id=48609553) - [Vacation With An Artist – Mini-Apprenticeships with Artists in Their Studios](https://vawaa.com/)
 * [2026-06-20, 14:20:47](https://news.ycombinator.com/item?id=48609422) - [Web Browsers on PDAS](https://vale.rocks/posts/pda-browsers)
-* [2026-06-20, 14:14:35](https://news.ycombinator.com/item?id=48609385) - [VPN ban update for UK households as government looks at 'age-gate'](https://www.birminghammail.co.uk/news/midlands-news/vpn-ban-update-uk-households-34141063)
 * [2026-06-20, 14:08:30](https://news.ycombinator.com/item?id=48609343) - [Windows 11 New Media Player Uses 3.5x More RAM, Charges for Popular Video Codecs](https://www.extremetech.com/computing/windows-11s-new-media-player-uses-35x-more-ram-charges-for-popular-video)
 * [2026-06-20, 13:49:03](https://news.ycombinator.com/item?id=48609231) - [Show HN: We post-trained a model that pen tests instead of refusing](https://www.argusred.com/cli)
 * [2026-06-20, 13:44:39](https://news.ycombinator.com/item?id=48609194) - [From PGP to Mythos: a brief history of export controls that didn't stop anyone](https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/)
@@ -26,10 +25,11 @@
 * [2026-06-20, 05:33:59](https://news.ycombinator.com/item?id=48606619) - [I Stored a Website in a Favicon](https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/)
 * [2026-06-20, 03:36:49](https://news.ycombinator.com/item?id=48606140) - [Where to Find the Colors Your Screen Can't Show You](https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/)
 * [2026-06-20, 01:18:30](https://news.ycombinator.com/item?id=48605310) - [Why has the pointe shoe been so resistant to change?](https://dancemagazine.com/pointe-shoe-innovation/)
+* [2026-06-19, 16:11:25](https://news.ycombinator.com/item?id=48600167) - [GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2](https://arrowtsx.dev/bigger-models/)
 * [2026-06-18, 16:09:54](https://news.ycombinator.com/item?id=48587584) - [Mencius (2016)](https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/265d73a0-6bfa-45df-92ff-4e7d3f8be4b1/content)
+* [2026-06-18, 08:16:20](https://news.ycombinator.com/item?id=48582374) - [Can you see three trees?](https://www.not-ship.com/can-you-see-three-trees/)
 * [2026-06-17, 20:15:57](https://news.ycombinator.com/item?id=48576217) - [Now You Don't: When Espionage Meets Magic](https://www.politicshome.com/news/article/now-dont-espionage-meets-magic)
 * [2026-06-17, 13:34:42](https://news.ycombinator.com/item?id=48570364) - [Show HN: Microcrad – Micrograd Reimplemented in C](https://github.com/oraziorillo/microcrad)
-* [2026-06-16, 19:20:33](https://news.ycombinator.com/item?id=48560535) - [S‑CURVES a field guide to technology adoption · 1825–2026](https://escurves.com/)
 
 ## [Archives](archives/index.md)
 
