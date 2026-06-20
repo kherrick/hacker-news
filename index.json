@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-20, 23:07:09",
+      "https://news.ycombinator.com/item?id=48613872"
+    ],
+    [
+      "Epoll vs. Io_uring in Linux",
+      "https://sibexi.co/posts/epoll-vs-io_uring/"
+    ]
+  ],
+  [
+    [
+      "2026-06-20, 22:54:11",
+      "https://news.ycombinator.com/item?id=48613755"
+    ],
+    [
+      "Not just books: renting a sewing machine from the library can improve democracy",
+      "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland"
+    ]
+  ],
+  [
+    [
       "2026-06-20, 22:50:43",
       "https://news.ycombinator.com/item?id=48613732"
     ],
@@ -17,16 +37,6 @@
     [
       "Pre-2022 Books",
       "https://notes.lorenzogravina.com/musings/pre-2022-books"
-    ]
-  ],
-  [
-    [
-      "2026-06-20, 22:14:15",
-      "https://news.ycombinator.com/item?id=48613481"
-    ],
-    [
-      "Tesla allegedly in autopilot mode crashes into Texas house, woman killed",
-      "https://abcnews.com/US/tesla-allegedly-autopilot-mode-crashes-texas-house-woman/story?id=134062374"
     ]
   ],
   [
@@ -91,16 +101,6 @@
   ],
   [
     [
-      "2026-06-20, 19:19:06",
-      "https://news.ycombinator.com/item?id=48612098"
-    ],
-    [
-      "AMD will reinstate memory encryption on Ryzen 9000 CPUs via BIOS update in July",
-      "https://www.tomshardware.com/pc-components/cpus/amd-will-reinstate-memory-encryption-on-ryzen-9000-cpus-through-a-bios-update-in-july-tsme-is-coming-back-after-valuable-community-feedback"
-    ]
-  ],
-  [
-    [
       "2026-06-20, 19:18:48",
       "https://news.ycombinator.com/item?id=48612095"
     ],
@@ -147,16 +147,6 @@
     [
       "The Wholesale Plagiarism of Obscure Sorrows",
       "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/"
-    ]
-  ],
-  [
-    [
-      "2026-06-20, 17:27:36",
-      "https://news.ycombinator.com/item?id=48611083"
-    ],
-    [
-      "The ability to regrow body parts is dormant in mammals, not lost",
-      "https://www.sciencedaily.com/releases/2026/06/260617032207.htm"
     ]
   ],
   [
@@ -221,6 +211,16 @@
   ],
   [
     [
+      "2026-06-20, 11:55:03",
+      "https://news.ycombinator.com/item?id=48608570"
+    ],
+    [
+      "Show HN: TownSquare, a tiny presence layer for websites",
+      "https://townsquare.cauenapier.com/"
+    ]
+  ],
+  [
+    [
       "2026-06-20, 11:44:52",
       "https://news.ycombinator.com/item?id=48608515"
     ],
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2026-06-19, 20:07:14",
-      "https://news.ycombinator.com/item?id=48602683"
+      "2026-06-19, 00:12:20",
+      "https://news.ycombinator.com/item?id=48593346"
     ],
     [
-      "Coding a Brick Tower [video]",
-      "https://www.youtube.com/watch?v=DAMiS2PGTEE"
+      "Show HN: Domphy – plain-object UI for tool apps, AI-correctable output",
+      "https://news.ycombinator.com/item?id=48593346"
     ]
   ],
   [
