@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-20](index.md)
 
+* [2026-06-20, 05:33:59](https://news.ycombinator.com/item?id=48606619) - [I Stored a Website in a Favicon](https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/)
+* [2026-06-20, 04:07:03](https://news.ycombinator.com/item?id=48606271) - [Satellite reveals immense scale of GPS signal tampering](https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering)
 * [2026-06-20, 01:16:56](https://news.ycombinator.com/item?id=48605301) - [How to feed a dictator](https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film)
 * [2026-06-20, 01:01:59](https://news.ycombinator.com/item?id=48605208) - [A record 242 US cities now have starter homes that cost $1M](https://investors.zillowgroup.com/news-and-events/news/news-details/2026/A-record-242-US-cities-now-have-starter-homes-that-cost-1M/default.aspx)
 * [2026-06-20, 00:47:54](https://news.ycombinator.com/item?id=48605117) - [I solved my mystery fatigue with AI](https://metalearn.substack.com/p/i-solved-my-mystery-fatigue-with-ai)

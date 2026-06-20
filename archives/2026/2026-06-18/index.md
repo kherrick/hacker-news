@@ -50,6 +50,7 @@
 * [2026-06-18, 09:08:04](https://news.ycombinator.com/item?id=48582794) - [Seven Perfect Shuffles Randomize a Deck of Cards. But How Many Sloppy Ones?](https://www.quantamagazine.org/seven-perfect-shuffles-randomize-a-deck-of-cards-but-how-many-sloppy-ones-20260617/)
 * [2026-06-18, 08:52:45](https://news.ycombinator.com/item?id=48582679) - [Ask HN: Is anyone using the A2A protocol?](https://news.ycombinator.com/item?id=48582679)
 * [2026-06-18, 08:28:04](https://news.ycombinator.com/item?id=48582464) - [I need your clothes, your boots, and your motorcycle](https://rbelmont.mameworld.info/?p=1725)
+* [2026-06-18, 08:16:20](https://news.ycombinator.com/item?id=48582374) - [Can you see three trees?](https://www.not-ship.com/can-you-see-three-trees/)
 * [2026-06-18, 08:08:00](https://news.ycombinator.com/item?id=48582320) - [AMD silently removes memory encryption from consumer Ryzen CPUs](https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change)
 * [2026-06-18, 08:02:56](https://news.ycombinator.com/item?id=48582278) - [The value of employee equity depends a lot on volatility](https://devanshpanda.com/writing/volatility/)
 * [2026-06-18, 07:50:12](https://news.ycombinator.com/item?id=48582180) - [A Perceptron in Age of Empires II](https://adewynter.github.io/notes/aoe2-circuits)
