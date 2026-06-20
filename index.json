@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-06-20, 17:52:07",
+      "https://news.ycombinator.com/item?id=48611303"
+    ],
+    [
+      "Ask HN: Due to spam on GitHub, what platforms can I move my projects?",
+      "https://news.ycombinator.com/item?id=48611303"
+    ]
+  ],
+  [
+    [
+      "2026-06-20, 17:19:02",
+      "https://news.ycombinator.com/item?id=48610999"
+    ],
+    [
+      "AIPropel, AI-powered proposal generation for freelancers and agencies",
+      "https://www.aipropel.app/"
+    ]
+  ],
+  [
+    [
       "2026-06-20, 17:04:24",
       "https://news.ycombinator.com/item?id=48610853"
     ],
     [
       "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
       "https://www.lispm.net/apps/uhf-x11/"
+    ]
+  ],
+  [
+    [
+      "2026-06-20, 17:02:49",
+      "https://news.ycombinator.com/item?id=48610841"
+    ],
+    [
+      "Bun has an open PR adding shared-memory threads to JavaScriptCore",
+      "https://github.com/oven-sh/WebKit/pull/249"
     ]
   ],
   [
@@ -91,16 +121,6 @@
   ],
   [
     [
-      "2026-06-20, 14:20:45",
-      "https://news.ycombinator.com/item?id=48609421"
-    ],
-    [
-      "The European Social Stack",
-      "https://european.social"
-    ]
-  ],
-  [
-    [
       "2026-06-20, 14:14:35",
       "https://news.ycombinator.com/item?id=48609385"
     ],
@@ -116,7 +136,7 @@
     ],
     [
       "Ubisoft co-founder Claude Guillemot has died in a plane crash",
-      "https://www.bloomberg.com/news/articles/2026-06-20/ubisoft-co-founder-claude-guillemot-dies-in-air-crash-at-age-69"
+      "https://www.reuters.com/world/ubisofts-co-founder-claude-guillemot-dies-plane-crash-2026-06-20/"
     ]
   ],
   [
@@ -147,6 +167,16 @@
     [
       "Pong in S Favicon",
       "https://pong-in-a-favicon.franzai.com/"
+    ]
+  ],
+  [
+    [
+      "2026-06-20, 11:44:52",
+      "https://news.ycombinator.com/item?id=48608515"
+    ],
+    [
+      "The rise of South Korea’s weapons business",
+      "https://www.politico.com/news/magazine/2026/06/20/south-korea-weapons-dealer-trump-00959559"
     ]
   ],
   [
@@ -201,32 +231,12 @@
   ],
   [
     [
-      "2026-06-20, 01:25:14",
-      "https://news.ycombinator.com/item?id=48605355"
-    ],
-    [
-      "LLMs Are Complicated Now",
-      "https://ianbarber.blog/2026/06/19/llms-are-complicated-now/"
-    ]
-  ],
-  [
-    [
       "2026-06-19, 16:11:25",
       "https://news.ycombinator.com/item?id=48600167"
     ],
     [
       "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
       "https://arrowtsx.dev/bigger-models/"
-    ]
-  ],
-  [
-    [
-      "2026-06-19, 15:10:02",
-      "https://news.ycombinator.com/item?id=48599515"
-    ],
-    [
-      "There are no instances in ATProto",
-      "https://overreacted.io/there-are-no-instances-in-atproto/"
     ]
   ],
   [
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2026-06-17, 01:06:12",
-      "https://news.ycombinator.com/item?id=48564480"
+      "2026-06-16, 19:20:33",
+      "https://news.ycombinator.com/item?id=48560535"
     ],
     [
-      "The Cold War's Accidental Whale Observatory",
-      "https://thereader.mitpress.mit.edu/the-cold-wars-accidental-whale-observatory/"
-    ]
-  ],
-  [
-    [
-      "2026-06-16, 21:51:57",
-      "https://news.ycombinator.com/item?id=48562662"
-    ],
-    [
-      "Data Compression Explained (2012)",
-      "https://mattmahoney.net/dc/dce.html"
+      "S‑CURVES a field guide to technology adoption · 1825–2026",
+      "https://escurves.com/"
     ]
   ]
 ]
