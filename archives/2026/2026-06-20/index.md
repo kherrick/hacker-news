@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-20](index.md)
 
+* [2026-06-20, 22:50:43](https://news.ycombinator.com/item?id=48613732) - [Turns Out, There Is a Cabal of Elite Crazies Trying to Control the World](https://www.esquire.com/news-politics/politics/a71619211/peter-thiel-dialog-club-wired-report/)
+* [2026-06-20, 22:36:23](https://news.ycombinator.com/item?id=48613631) - [Pre-2022 Books](https://notes.lorenzogravina.com/musings/pre-2022-books)
 * [2026-06-20, 22:14:15](https://news.ycombinator.com/item?id=48613481) - [Tesla allegedly in autopilot mode crashes into Texas house, woman killed](https://abcnews.com/US/tesla-allegedly-autopilot-mode-crashes-texas-house-woman/story?id=134062374)
 * [2026-06-20, 21:50:42](https://news.ycombinator.com/item?id=48613328) - [Systemd 261 released with systemd-sysinstall, IMDSD, and storagectl](https://www.phoronix.com/news/systemd-261)
 * [2026-06-20, 21:25:10](https://news.ycombinator.com/item?id=48613112) - [Dallas Fed: 30% of housing cost increase driven by unauthorized immigration [pdf]](https://www.dallasfed.org/~/media/documents/research/papers/2026/wp2607.pdf)

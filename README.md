@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-06-20, 22:50:43](https://news.ycombinator.com/item?id=48613732) - [Turns Out, There Is a Cabal of Elite Crazies Trying to Control the World](https://www.esquire.com/news-politics/politics/a71619211/peter-thiel-dialog-club-wired-report/)
+* [2026-06-20, 22:36:23](https://news.ycombinator.com/item?id=48613631) - [Pre-2022 Books](https://notes.lorenzogravina.com/musings/pre-2022-books)
 * [2026-06-20, 22:14:15](https://news.ycombinator.com/item?id=48613481) - [Tesla allegedly in autopilot mode crashes into Texas house, woman killed](https://abcnews.com/US/tesla-allegedly-autopilot-mode-crashes-texas-house-woman/story?id=134062374)
 * [2026-06-20, 21:50:42](https://news.ycombinator.com/item?id=48613328) - [Systemd 261 released with systemd-sysinstall, IMDSD, and storagectl](https://www.phoronix.com/news/systemd-261)
 * [2026-06-20, 21:09:39](https://news.ycombinator.com/item?id=48613008) - [Supermarket giant Tesco sues VMware for breach of contract](https://www.theregister.com/software/2025/09/03/supermarket-giant-tesco-sues-vmware-for-breach-of-contract/1420651)
@@ -17,19 +19,17 @@
 * [2026-06-20, 17:04:24](https://news.ycombinator.com/item?id=48610853) - [UHF X11: X11 Built for VisionOS and Apple Vision Pro](https://www.lispm.net/apps/uhf-x11/)
 * [2026-06-20, 17:02:49](https://news.ycombinator.com/item?id=48610841) - [Bun has an open PR adding shared-memory threads to JavaScriptCore](https://github.com/oven-sh/WebKit/pull/249)
 * [2026-06-20, 17:01:36](https://news.ycombinator.com/item?id=48610827) - [SMPTE Makes Its Standards Freely Accessible](https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community)
-* [2026-06-20, 17:00:38](https://news.ycombinator.com/item?id=48610816) - [Show HN: Ember, a native iOS Hacker News reader I built around accessibility](https://github.com/DatanoiseTV/ember-hackernews)
 * [2026-06-20, 15:59:29](https://news.ycombinator.com/item?id=48610224) - [Show HN: StartupWiki – A Free Alternative to Crunchbase](https://startupwiki.tech/)
 * [2026-06-20, 15:10:03](https://news.ycombinator.com/item?id=48609766) - [DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots](https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html)
-* [2026-06-20, 14:40:12](https://news.ycombinator.com/item?id=48609553) - [Vacation With An Artist – Mini-Apprenticeships with Artists in Their Studios](https://vawaa.com/)
 * [2026-06-20, 13:49:03](https://news.ycombinator.com/item?id=48609231) - [Show HN: We post-trained a model that pen tests instead of refusing](https://www.argusred.com/cli)
 * [2026-06-20, 11:44:52](https://news.ycombinator.com/item?id=48608515) - [The rise of South Korea’s weapons business](https://www.politico.com/news/magazine/2026/06/20/south-korea-weapons-dealer-trump-00959559)
 * [2026-06-20, 11:19:05](https://news.ycombinator.com/item?id=48608394) - [Temporary Cloudflare accounts for AI agents](https://blog.cloudflare.com/temporary-accounts/)
 * [2026-06-20, 10:49:53](https://news.ycombinator.com/item?id=48608223) - [CSSQuake](https://cssquake.com/)
 * [2026-06-20, 01:18:30](https://news.ycombinator.com/item?id=48605310) - [Why has the pointe shoe been so resistant to change?](https://dancemagazine.com/pointe-shoe-innovation/)
 * [2026-06-19, 20:07:14](https://news.ycombinator.com/item?id=48602683) - [Coding a Brick Tower [video]](https://www.youtube.com/watch?v=DAMiS2PGTEE)
-* [2026-06-17, 20:15:57](https://news.ycombinator.com/item?id=48576217) - [Now You Don't: When Espionage Meets Magic](https://www.politicshome.com/news/article/now-dont-espionage-meets-magic)
 * [2026-06-17, 13:34:42](https://news.ycombinator.com/item?id=48570364) - [Show HN: Microcrad – Micrograd Reimplemented in C](https://github.com/oraziorillo/microcrad)
 * [2026-06-16, 18:57:29](https://news.ycombinator.com/item?id=48560227) - [Inference cost at scale with napkin math](https://injuly.in/blog/napkin-inference-cost/index.html)
+* [2026-06-16, 12:31:02](https://news.ycombinator.com/item?id=48554206) - [Semiconductor Lifeline Keeps Fighter Jets in the Air](https://spectrum.ieee.org/phoenix-semiconductors-legacychips-oems)
 
 ## [Archives](archives/index.md)
 

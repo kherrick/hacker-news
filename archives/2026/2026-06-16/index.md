@@ -64,6 +64,7 @@
 * [2026-06-16, 12:51:10](https://news.ycombinator.com/item?id=48554433) - ['Wow, it really worked ': 70s TV show causing worldwide panic today](https://www.theguardian.com/tv-and-radio/2026/jun/16/alternative-3-mockumentary-missing-scientists-conspiracy-50-years-later)
 * [2026-06-16, 12:31:37](https://news.ycombinator.com/item?id=48554215) - [SpaceX Is Buying Cursor](https://www.bbc.com/news/articles/cvgd5g7d7gyo)
 * [2026-06-16, 12:31:18](https://news.ycombinator.com/item?id=48554208) - [Russian artist and Putin critic shot dead in Poland](https://www.bbc.com/news/articles/clyrzd5g6k2o)
+* [2026-06-16, 12:31:02](https://news.ycombinator.com/item?id=48554206) - [Semiconductor Lifeline Keeps Fighter Jets in the Air](https://spectrum.ieee.org/phoenix-semiconductors-legacychips-oems)
 * [2026-06-16, 12:16:11](https://news.ycombinator.com/item?id=48554044) - [Show HN: Spin Lab](https://srijanshukla.com/artifacts/spin-lab/)
 * [2026-06-16, 12:00:48](https://news.ycombinator.com/item?id=48553876) - [The 2-Year Apartment Rule](https://tadaima.bearblog.dev/the-2-year-apartment-rule/)
 * [2026-06-16, 11:26:27](https://news.ycombinator.com/item?id=48553550) - [Mechanical Watch](https://ciechanow.ski/mechanical-watch/)
