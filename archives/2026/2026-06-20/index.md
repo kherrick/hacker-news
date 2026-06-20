@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-06-20](index.md)
 
+* [2026-06-20, 18:05:31](https://news.ycombinator.com/item?id=48611411) - [Agency stole bestselling author's book, used AI to relaunch as their own](https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/)
 * [2026-06-20, 17:52:07](https://news.ycombinator.com/item?id=48611303) - [Ask HN: Due to spam on GitHub, what platforms can I move my projects?](https://news.ycombinator.com/item?id=48611303)
+* [2026-06-20, 17:27:36](https://news.ycombinator.com/item?id=48611083) - [The ability to regrow body parts is dormant in mammals, not lost](https://www.sciencedaily.com/releases/2026/06/260617032207.htm)
 * [2026-06-20, 17:19:02](https://news.ycombinator.com/item?id=48610999) - [AIPropel, AI-powered proposal generation for freelancers and agencies](https://www.aipropel.app/)
 * [2026-06-20, 17:04:24](https://news.ycombinator.com/item?id=48610853) - [UHF X11: X11 Built for VisionOS and Apple Vision Pro](https://www.lispm.net/apps/uhf-x11/)
 * [2026-06-20, 17:02:49](https://news.ycombinator.com/item?id=48610841) - [Bun has an open PR adding shared-memory threads to JavaScriptCore](https://github.com/oven-sh/WebKit/pull/249)
@@ -24,6 +26,7 @@
 * [2026-06-20, 14:12:50](https://news.ycombinator.com/item?id=48609373) - [Ubisoft co-founder Claude Guillemot has died in a plane crash](https://www.bloomberg.com/news/articles/2026-06-20/ubisoft-co-founder-claude-guillemot-dies-in-air-crash-at-age-69)
 * [2026-06-20, 14:08:30](https://news.ycombinator.com/item?id=48609343) - [Windows 11 New Media Player Uses 3.5x More RAM, Charges for Popular Video Codecs](https://www.extremetech.com/computing/windows-11s-new-media-player-uses-35x-more-ram-charges-for-popular-video)
 * [2026-06-20, 13:49:15](https://news.ycombinator.com/item?id=48609233) - [Big Tech is borrowing like never before](https://startupfortune.com/big-tech-is-borrowing-like-never-before-and-the-fed-just-made-that-a-lot-more-expensive/)
+* [2026-06-20, 13:49:03](https://news.ycombinator.com/item?id=48609231) - [Show HN: We post-trained a model that pen tests instead of refusing](https://www.argusred.com/cli)
 * [2026-06-20, 13:44:39](https://news.ycombinator.com/item?id=48609194) - [From PGP to Mythos: a brief history of export controls that didn't stop anyone](https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/)
 * [2026-06-20, 12:14:32](https://news.ycombinator.com/item?id=48608681) - [Pong in S Favicon](https://pong-in-a-favicon.franzai.com/)
 * [2026-06-20, 12:06:00](https://news.ycombinator.com/item?id=48608633) - [New (Old) 3D Golf: Porting PC-9801 and Virtual Boy to Mega Drive](https://blog.gingerbeardman.com/2026/06/19/new-old-3d-golf-porting-pc-9801-and-virtual-boy-to-mega-drive/)
