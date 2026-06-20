@@ -74,6 +74,7 @@
 * [2026-06-16, 09:26:09](https://news.ycombinator.com/item?id=48552687) - [Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak](https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827)
 * [2026-06-16, 09:15:31](https://news.ycombinator.com/item?id=48552614) - [Commodore Releases Flip Phone](https://commodore.net/why-a-flip-phone/)
 * [2026-06-16, 08:52:06](https://news.ycombinator.com/item?id=48552440) - [New way of making espresso with ultrasound](https://www.unsw.edu.au/newsroom/news/2026/06/New-way-making-espresso)
+* [2026-06-16, 08:32:13](https://news.ycombinator.com/item?id=48552291) - [What Happens When Your Domain Expires](https://urlwatch.io/blog/what-happens-when-domain-expires.php)
 * [2026-06-16, 07:35:27](https://news.ycombinator.com/item?id=48551876) - [Understanding the rationale behind a rule when trying to circumvent it](https://devblogs.microsoft.com/oldnewthing/20260611-00/?p=112415)
 * [2026-06-16, 05:49:51](https://news.ycombinator.com/item?id=48551069) - [The Return of Rigorous Full-System Timing Simulation](https://www.sigarch.org/the-return-of-rigorous-full-system-timing-simulation/)
 * [2026-06-16, 04:58:15](https://news.ycombinator.com/item?id=48550779) - [John Carmack on Fabrice Bellard](https://twitter.com/ID_AA_Carmack/status/2064095424420487226)

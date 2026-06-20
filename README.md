@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-06-20, 05:33:59](https://news.ycombinator.com/item?id=48606619) - [I Stored a Website in a Favicon](https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/)
-* [2026-06-20, 04:45:59](https://news.ycombinator.com/item?id=48606413) - [Designing a backyard deck for my house](https://blog.cosmin.cloud/posts/diy-deck.html)
 * [2026-06-20, 04:07:03](https://news.ycombinator.com/item?id=48606271) - [Satellite reveals immense scale of GPS signal tampering](https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering)
 * [2026-06-20, 03:36:49](https://news.ycombinator.com/item?id=48606140) - [Where to Find the Colors Your Screen Can't Show You](https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/)
 * [2026-06-19, 22:51:09](https://news.ycombinator.com/item?id=48604232) - [Ask HN: Will programmers write more efficient code during the memory shortage?](https://news.ycombinator.com/item?id=48604232)
@@ -24,12 +23,13 @@
 * [2026-06-16, 22:23:04](https://news.ycombinator.com/item?id=48563047) - [Digital Printing of Arabic: explaining the problem](https://digitalorientalist.com/2017/08/21/digital-printing-of-arabic-explaining-the-problem/)
 * [2026-06-16, 21:51:57](https://news.ycombinator.com/item?id=48562662) - [Data Compression Explained (2012)](https://mattmahoney.net/dc/dce.html)
 * [2026-06-16, 18:24:39](https://news.ycombinator.com/item?id=48559729) - [A 1969 camera operators' strike created Upstairs Downstairs multiverse](https://ironicsans.ghost.io/the-color-strike/)
-* [2026-06-16, 15:45:08](https://news.ycombinator.com/item?id=48557090) - [Mental causation is not load-bearing](https://unstableontology.com/2026/06/07/mental-causation-is-not-load-bearing/)
 * [2026-06-16, 14:43:38](https://news.ycombinator.com/item?id=48556082) - [Show HN: Metiq: a real time 3D globe for 100 public datasets](https://metiq.space)
 * [2026-06-16, 14:30:12](https://news.ycombinator.com/item?id=48555903) - [Soccer Arcade Games Through the Years](https://arcadeheroes.com/2026/06/13/world-cup-2026-soccer-arcade/)
 * [2026-06-16, 10:34:10](https://news.ycombinator.com/item?id=48553161) - [Telescope Ranchers](https://kottke.org/26/06/telescope-ranchers)
+* [2026-06-16, 08:32:13](https://news.ycombinator.com/item?id=48552291) - [What Happens When Your Domain Expires](https://urlwatch.io/blog/what-happens-when-domain-expires.php)
 * [2026-06-16, 00:45:50](https://news.ycombinator.com/item?id=48549118) - [Zen and the Art of Machine Learning Research](https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning)
 * [2026-06-15, 23:37:54](https://news.ycombinator.com/item?id=48548612) - [Egyptian Fractions (2006)](https://blog.plover.com/math/egyptian-fractions.html)
+* [2026-06-15, 20:51:54](https://news.ycombinator.com/item?id=48546890) - [Ten years of ClickHouse in open source](https://clickhouse.com/blog/open-source-10)
 
 ## [Archives](archives/index.md)
 
