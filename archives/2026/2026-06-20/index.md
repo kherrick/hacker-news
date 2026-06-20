@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-06-20](index.md)
 
+* [2026-06-20, 21:09:39](https://news.ycombinator.com/item?id=48613008) - [Supermarket giant Tesco sues VMware for breach of contract](https://www.theregister.com/software/2025/09/03/supermarket-giant-tesco-sues-vmware-for-breach-of-contract/1420651)
+* [2026-06-20, 20:59:40](https://news.ycombinator.com/item?id=48612943) - [Linux Eliminates the Strncpy API After Six Years of Work, 360 Patches](https://www.phoronix.com/news/Linux-7.2-Drops-strncpy)
 * [2026-06-20, 20:41:06](https://news.ycombinator.com/item?id=48612806) - [UK Home Office launches £75M 'PoliceAI' to capitalise on artificial intelligence](https://www.publictechnology.net/2026/06/15/public-order-justice-and-rights/home-office-launches-75m-policeai-to-capitalise-on-artificial-intelligence/)
+* [2026-06-20, 20:05:03](https://news.ycombinator.com/item?id=48612502) - [Unauthorized alert sent to cell phones across Brazil](https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam)
 * [2026-06-20, 19:19:06](https://news.ycombinator.com/item?id=48612098) - [AMD will reinstate memory encryption on Ryzen 9000 CPUs via BIOS update in July](https://www.tomshardware.com/pc-components/cpus/amd-will-reinstate-memory-encryption-on-ryzen-9000-cpus-through-a-bios-update-in-july-tsme-is-coming-back-after-valuable-community-feedback)
 * [2026-06-20, 19:18:48](https://news.ycombinator.com/item?id=48612095) - [Show HN: My Windows XP portfolio with working Game Boy and iPod](https://mitchivin.com/)
 * [2026-06-20, 19:01:10](https://news.ycombinator.com/item?id=48611942) - [PostgresBench: A Reproducible Benchmark for Postgres Services](https://clickhouse.com/blog/postgresbench)
