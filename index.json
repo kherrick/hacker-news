@@ -1,11 +1,51 @@
 [
   [
     [
+      "2026-06-20, 19:18:48",
+      "https://news.ycombinator.com/item?id=48612095"
+    ],
+    [
+      "Show HN: My Windows XP portfolio with working Game Boy and iPod",
+      "https://mitchivin.com/"
+    ]
+  ],
+  [
+    [
+      "2026-06-20, 19:01:10",
+      "https://news.ycombinator.com/item?id=48611942"
+    ],
+    [
+      "PostgresBench: A Reproducible Benchmark for Postgres Services",
+      "https://clickhouse.com/blog/postgresbench"
+    ]
+  ],
+  [
+    [
+      "2026-06-20, 18:53:46",
+      "https://news.ycombinator.com/item?id=48611857"
+    ],
+    [
+      "Show HN: Tiny – An interpeted dynamic langauge with inline Go native functions",
+      "https://github.com/confh/Tiny"
+    ]
+  ],
+  [
+    [
+      "2026-06-20, 18:17:58",
+      "https://news.ycombinator.com/item?id=48611513"
+    ],
+    [
+      "Show HN: Make PDFs look scanned (CLI or in the browser via WASM)",
+      "https://github.com/overflowy/make-look-scanned"
+    ]
+  ],
+  [
+    [
       "2026-06-20, 18:05:31",
       "https://news.ycombinator.com/item?id=48611411"
     ],
     [
-      "Agency stole bestselling author's book, used AI to relaunch as their own",
+      "The Wholesale Plagiarism of Obscure Sorrows",
       "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/"
     ]
   ],
@@ -91,16 +131,6 @@
   ],
   [
     [
-      "2026-06-20, 14:52:59",
-      "https://news.ycombinator.com/item?id=48609645"
-    ],
-    [
-      "Cargo-Geiger",
-      "https://github.com/geiger-rs/cargo-geiger"
-    ]
-  ],
-  [
-    [
       "2026-06-20, 14:40:12",
       "https://news.ycombinator.com/item?id=48609553"
     ],
@@ -127,16 +157,6 @@
     [
       "VPN ban update for UK households as government looks at 'age-gate'",
       "https://www.birminghammail.co.uk/news/midlands-news/vpn-ban-update-uk-households-34141063"
-    ]
-  ],
-  [
-    [
-      "2026-06-20, 14:12:50",
-      "https://news.ycombinator.com/item?id=48609373"
-    ],
-    [
-      "Ubisoft co-founder Claude Guillemot has died in a plane crash",
-      "https://www.reuters.com/world/ubisofts-co-founder-claude-guillemot-dies-plane-crash-2026-06-20/"
     ]
   ],
   [
@@ -185,7 +205,7 @@
       "https://news.ycombinator.com/item?id=48608394"
     ],
     [
-      "Temporary Cloudflare Accounts for AI Agents",
+      "Temporary Cloudflare accounts for AI agents",
       "https://blog.cloudflare.com/temporary-accounts/"
     ]
   ],
@@ -241,26 +261,6 @@
   ],
   [
     [
-      "2026-06-19, 16:11:25",
-      "https://news.ycombinator.com/item?id=48600167"
-    ],
-    [
-      "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
-      "https://arrowtsx.dev/bigger-models/"
-    ]
-  ],
-  [
-    [
-      "2026-06-19, 15:10:02",
-      "https://news.ycombinator.com/item?id=48599515"
-    ],
-    [
-      "There are no instances in ATProto",
-      "https://overreacted.io/there-are-no-instances-in-atproto/"
-    ]
-  ],
-  [
-    [
       "2026-06-18, 16:09:54",
       "https://news.ycombinator.com/item?id=48587584"
     ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2026-06-18, 08:16:20",
-      "https://news.ycombinator.com/item?id=48582374"
+      "2026-06-17, 20:15:57",
+      "https://news.ycombinator.com/item?id=48576217"
     ],
     [
-      "Can you see three trees?",
-      "https://www.not-ship.com/can-you-see-three-trees/"
+      "Now You Don't: When Espionage Meets Magic",
+      "https://www.politicshome.com/news/article/now-dont-espionage-meets-magic"
     ]
   ],
   [
