@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-06-20](index.md)
 
+* [2026-06-20, 17:52:07](https://news.ycombinator.com/item?id=48611303) - [Ask HN: Due to spam on GitHub, what platforms can I move my projects?](https://news.ycombinator.com/item?id=48611303)
+* [2026-06-20, 17:19:02](https://news.ycombinator.com/item?id=48610999) - [AIPropel, AI-powered proposal generation for freelancers and agencies](https://www.aipropel.app/)
 * [2026-06-20, 17:04:24](https://news.ycombinator.com/item?id=48610853) - [UHF X11: X11 Built for VisionOS and Apple Vision Pro](https://www.lispm.net/apps/uhf-x11/)
+* [2026-06-20, 17:02:49](https://news.ycombinator.com/item?id=48610841) - [Bun has an open PR adding shared-memory threads to JavaScriptCore](https://github.com/oven-sh/WebKit/pull/249)
 * [2026-06-20, 17:01:36](https://news.ycombinator.com/item?id=48610827) - [SMPTE Makes Its Standards Freely Accessible](https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community)
 * [2026-06-20, 17:00:38](https://news.ycombinator.com/item?id=48610816) - [Ember, a native iOS Hacker News reader I built around accessibility](https://github.com/DatanoiseTV/ember-hackernews)
 * [2026-06-20, 15:59:29](https://news.ycombinator.com/item?id=48610224) - [Show HN: StartupWiki – A Free Alternative to Crunchbase](https://startupwiki.tech/)
@@ -17,6 +20,7 @@
 * [2026-06-20, 14:20:47](https://news.ycombinator.com/item?id=48609422) - [Web Browsers on PDAS](https://vale.rocks/posts/pda-browsers)
 * [2026-06-20, 14:20:45](https://news.ycombinator.com/item?id=48609421) - [The European Social Stack](https://european.social)
 * [2026-06-20, 14:14:35](https://news.ycombinator.com/item?id=48609385) - [VPN ban update for UK households as government looks at 'age-gate'](https://www.birminghammail.co.uk/news/midlands-news/vpn-ban-update-uk-households-34141063)
+* [2026-06-20, 14:12:50](https://news.ycombinator.com/item?id=48609373) - [Ubisoft co-founder Claude Guillemot has died in a plane crash](https://www.reuters.com/world/ubisofts-co-founder-claude-guillemot-dies-plane-crash-2026-06-20/)
 * [2026-06-20, 14:12:50](https://news.ycombinator.com/item?id=48609373) - [Ubisoft co-founder Claude Guillemot has died in a plane crash](https://www.bloomberg.com/news/articles/2026-06-20/ubisoft-co-founder-claude-guillemot-dies-in-air-crash-at-age-69)
 * [2026-06-20, 14:08:30](https://news.ycombinator.com/item?id=48609343) - [Windows 11 New Media Player Uses 3.5x More RAM, Charges for Popular Video Codecs](https://www.extremetech.com/computing/windows-11s-new-media-player-uses-35x-more-ram-charges-for-popular-video)
 * [2026-06-20, 13:49:15](https://news.ycombinator.com/item?id=48609233) - [Big Tech is borrowing like never before](https://startupfortune.com/big-tech-is-borrowing-like-never-before-and-the-fed-just-made-that-a-lot-more-expensive/)
@@ -24,6 +28,7 @@
 * [2026-06-20, 12:14:32](https://news.ycombinator.com/item?id=48608681) - [Pong in S Favicon](https://pong-in-a-favicon.franzai.com/)
 * [2026-06-20, 12:06:00](https://news.ycombinator.com/item?id=48608633) - [New (Old) 3D Golf: Porting PC-9801 and Virtual Boy to Mega Drive](https://blog.gingerbeardman.com/2026/06/19/new-old-3d-golf-porting-pc-9801-and-virtual-boy-to-mega-drive/)
 * [2026-06-20, 11:58:32](https://news.ycombinator.com/item?id=48608591) - [Lithuanian startup launches open-source network to detect Shahed-type drones](https://www.lrt.lt/en/news-in-english/19/2965205/lithuanian-startup-launches-open-source-network-to-detect-shahed-type-drones)
+* [2026-06-20, 11:44:52](https://news.ycombinator.com/item?id=48608515) - [The rise of South Korea’s weapons business](https://www.politico.com/news/magazine/2026/06/20/south-korea-weapons-dealer-trump-00959559)
 * [2026-06-20, 11:43:29](https://news.ycombinator.com/item?id=48608503) - [16-year-old SATA II SSD survives 1 petabyte of writes, 25x the drive's rating](https://www.tomshardware.com/pc-components/ssds/16-year-old-sata-ii-ssd-survives-1-petabyte-of-writes-25x-over-the-drives-tbw-rating)
 * [2026-06-20, 11:19:05](https://news.ycombinator.com/item?id=48608394) - [Temporary Cloudflare Accounts for AI Agents](https://blog.cloudflare.com/temporary-accounts/)
 * [2026-06-20, 10:55:18](https://news.ycombinator.com/item?id=48608255) - [Bootimus – A Self-Contained PXE and HTTP Boot Server](https://bootimus.com)
