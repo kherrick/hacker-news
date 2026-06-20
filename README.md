@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-06-20, 11:58:32](https://news.ycombinator.com/item?id=48608591) - [Lithuanian startup launches open-source network to detect Shahed-type drones](https://www.lrt.lt/en/news-in-english/19/2965205/lithuanian-startup-launches-open-source-network-to-detect-shahed-type-drones)
 * [2026-06-20, 11:43:29](https://news.ycombinator.com/item?id=48608503) - [16-year-old SATA II SSD survives 1 petabyte of writes, 25x the drive's rating](https://www.tomshardware.com/pc-components/ssds/16-year-old-sata-ii-ssd-survives-1-petabyte-of-writes-25x-over-the-drives-tbw-rating)
 * [2026-06-20, 10:49:53](https://news.ycombinator.com/item?id=48608223) - [CSSQuake](https://cssquake.com/)
 * [2026-06-20, 05:33:59](https://news.ycombinator.com/item?id=48606619) - [I Stored a Website in a Favicon](https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/)
@@ -20,14 +21,13 @@
 * [2026-06-18, 14:51:53](https://news.ycombinator.com/item?id=48586329) - [Building a robotics research setup that lives next to my desk](https://dfdxlabs.com/research/2026/robotics-setup/)
 * [2026-06-18, 08:16:20](https://news.ycombinator.com/item?id=48582374) - [Can you see three trees?](https://www.not-ship.com/can-you-see-three-trees/)
 * [2026-06-18, 07:50:12](https://news.ycombinator.com/item?id=48582180) - [A Perceptron in Age of Empires II](https://adewynter.github.io/notes/aoe2-circuits)
+* [2026-06-17, 12:45:10](https://news.ycombinator.com/item?id=48569677) - [Human Judgment as a Specification](https://blog.brownplt.org/2026/06/09/pick.html)
 * [2026-06-17, 11:09:29](https://news.ycombinator.com/item?id=48568652) - [The discovery that changed how scientists think about memory](https://www.ibm.com/think/news/discovery-changed-how-scientists-think-about-memory-kavli-prize)
 * [2026-06-17, 01:06:12](https://news.ycombinator.com/item?id=48564480) - [The Cold War's Accidental Whale Observatory](https://thereader.mitpress.mit.edu/the-cold-wars-accidental-whale-observatory/)
-* [2026-06-16, 22:23:04](https://news.ycombinator.com/item?id=48563047) - [Digital Printing of Arabic: explaining the problem](https://digitalorientalist.com/2017/08/21/digital-printing-of-arabic-explaining-the-problem/)
 * [2026-06-16, 21:51:57](https://news.ycombinator.com/item?id=48562662) - [Data Compression Explained (2012)](https://mattmahoney.net/dc/dce.html)
 * [2026-06-16, 18:24:39](https://news.ycombinator.com/item?id=48559729) - [A 1969 camera operators' strike created Upstairs Downstairs multiverse](https://ironicsans.ghost.io/the-color-strike/)
 * [2026-06-16, 14:43:38](https://news.ycombinator.com/item?id=48556082) - [Show HN: Metiq: a real time 3D globe for 100 public datasets](https://metiq.space)
 * [2026-06-16, 14:30:12](https://news.ycombinator.com/item?id=48555903) - [Soccer Arcade Games Through the Years](https://arcadeheroes.com/2026/06/13/world-cup-2026-soccer-arcade/)
-* [2026-06-16, 10:34:10](https://news.ycombinator.com/item?id=48553161) - [Telescope Ranchers](https://kottke.org/26/06/telescope-ranchers)
 * [2026-06-16, 00:45:50](https://news.ycombinator.com/item?id=48549118) - [Zen and the Art of Machine Learning Research](https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning)
 * [2026-06-15, 23:37:54](https://news.ycombinator.com/item?id=48548612) - [Egyptian Fractions (2006)](https://blog.plover.com/math/egyptian-fractions.html)
 
