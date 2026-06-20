@@ -14,6 +14,7 @@
 * [2026-06-19, 20:30:59](https://news.ycombinator.com/item?id=48602918) - [Surprising Economics of Load-Balanced Systems](https://brooker.co.za/blog/2020/08/06/erlang.html)
 * [2026-06-19, 20:24:59](https://news.ycombinator.com/item?id=48602862) - [Hide Secrets from AI Agents and NPM install using Airgap](https://sauleau.com/notes/airgap-security-for-the-modern-ai-age.html)
 * [2026-06-19, 20:19:57](https://news.ycombinator.com/item?id=48602817) - [Think of the Children: How to Force Real ID for All Internet Traffic (2023)](https://nochan.net/b/Internet-Crap/20230829-Think-Of-The-Children/)
+* [2026-06-19, 20:07:14](https://news.ycombinator.com/item?id=48602683) - [Coding a Brick Tower [video]](https://www.youtube.com/watch?v=DAMiS2PGTEE)
 * [2026-06-19, 20:03:16](https://news.ycombinator.com/item?id=48602639) - [Amazon drops Sam Altman movie after announcing OpenAI partnership](https://www.the-independent.com/arts-entertainment/films/news/sam-altman-biopic-amazon-openai-deal-b2999321.html)
 * [2026-06-19, 19:57:18](https://news.ycombinator.com/item?id=48602571) - ['We created a monster': companies rein in AI usage as costs strain budgets](https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314)
 * [2026-06-19, 19:35:15](https://news.ycombinator.com/item?id=48602352) - [Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died](https://www.legacy.com/legacy/robert-bobby-prince-lll)
