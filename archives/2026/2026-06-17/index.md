@@ -59,3 +59,4 @@
 * [2026-06-17, 02:47:29](https://news.ycombinator.com/item?id=48565130) - [Leaked OpenAI financials show $38.5B loss and compute burn](https://runtimewire.com/article/openai-leaked-financials-altman-compute-burn)
 * [2026-06-17, 01:51:07](https://news.ycombinator.com/item?id=48564763) - [NOLA 'Nacular: One man's crusade to preserve New Orleans's vernacular signage](https://countryroadsmagazine.com/art-and-culture/people-places/nola-nacular/)
 * [2026-06-17, 01:40:22](https://news.ycombinator.com/item?id=48564696) - [Stop Killing Games fails to secure EU law despite 1.3M signatures](https://www.dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431/)
+* [2026-06-17, 01:06:12](https://news.ycombinator.com/item?id=48564480) - [The Cold War's Accidental Whale Observatory](https://thereader.mitpress.mit.edu/the-cold-wars-accidental-whale-observatory/)
