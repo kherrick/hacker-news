@@ -10,6 +10,7 @@
 * [2026-06-16, 22:26:12](https://news.ycombinator.com/item?id=48563083) - [Reinventing the Renaissance](https://drb.ie/article/reinventing-the-renaissance/)
 * [2026-06-16, 22:23:04](https://news.ycombinator.com/item?id=48563047) - [Digital Printing of Arabic: explaining the problem](https://digitalorientalist.com/2017/08/21/digital-printing-of-arabic-explaining-the-problem/)
 * [2026-06-16, 22:15:55](https://news.ycombinator.com/item?id=48562957) - [The UK's Teen Social Media Ban Is Political Theater, Not Child Safety Policy](https://www.techdirt.com/2026/06/16/the-uks-teen-social-media-ban-is-political-theater-not-child-safety-policy/)
+* [2026-06-16, 21:51:57](https://news.ycombinator.com/item?id=48562662) - [Data Compression Explained](https://mattmahoney.net/dc/dce.html)
 * [2026-06-16, 21:18:36](https://news.ycombinator.com/item?id=48562274) - [Total Iran Economic Damage Estimate](https://www.fdd.org/analysis/2026/04/23/total-iran-economic-damage-estimate/)
 * [2026-06-16, 20:34:35](https://news.ycombinator.com/item?id=48561654) - [GrapheneOS has been ported to Android 17 and official releases are coming soon](https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon)
 * [2026-06-16, 20:17:42](https://news.ycombinator.com/item?id=48561410) - [Show HN: cuTile Rust: Safe, data-race-free GPU kernels in Rust](https://github.com/nvlabs/cutile-rs)
