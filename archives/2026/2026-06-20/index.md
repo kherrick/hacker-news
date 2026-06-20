@@ -4,7 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-06-20](index.md)
 
+* [2026-06-20, 15:42:35](https://news.ycombinator.com/item?id=48610055) - [Big Tech is stoking unrest in the UK. Why?](https://www.ft.com/content/0f3e33d2-0b9e-481d-a911-245d8cc01a9c)
+* [2026-06-20, 14:52:59](https://news.ycombinator.com/item?id=48609645) - [Cargo-Geiger](https://github.com/geiger-rs/cargo-geiger)
+* [2026-06-20, 14:32:15](https://news.ycombinator.com/item?id=48609506) - [US Scientist John Jumper to Leave Google DeepMind for Anthropic](https://www.reuters.com/technology/us-scientist-john-jumper-leave-google-deepmind-anthropic-2026-06-19/)
+* [2026-06-20, 14:20:47](https://news.ycombinator.com/item?id=48609422) - [Web Browsers on PDAS](https://vale.rocks/posts/pda-browsers)
 * [2026-06-20, 14:20:45](https://news.ycombinator.com/item?id=48609421) - [The European Social Stack](https://european.social)
+* [2026-06-20, 14:14:35](https://news.ycombinator.com/item?id=48609385) - [VPN ban update for UK households as government looks at 'age-gate'](https://www.birminghammail.co.uk/news/midlands-news/vpn-ban-update-uk-households-34141063)
+* [2026-06-20, 14:12:50](https://news.ycombinator.com/item?id=48609373) - [Ubisoft co-founder Claude Guillemot has died in a plane crash](https://www.bloomberg.com/news/articles/2026-06-20/ubisoft-co-founder-claude-guillemot-dies-in-air-crash-at-age-69)
+* [2026-06-20, 14:08:30](https://news.ycombinator.com/item?id=48609343) - [Windows 11 New Media Player Uses 3.5x More RAM, Charges for Popular Video Codecs](https://www.extremetech.com/computing/windows-11s-new-media-player-uses-35x-more-ram-charges-for-popular-video)
 * [2026-06-20, 13:44:39](https://news.ycombinator.com/item?id=48609194) - [From PGP to Mythos: a brief history of export controls that didn't stop anyone](https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/)
 * [2026-06-20, 12:14:32](https://news.ycombinator.com/item?id=48608681) - [Pong in S Favicon](https://pong-in-a-favicon.franzai.com/)
 * [2026-06-20, 12:06:00](https://news.ycombinator.com/item?id=48608633) - [New (Old) 3D Golf: Porting PC-9801 and Virtual Boy to Mega Drive](https://blog.gingerbeardman.com/2026/06/19/new-old-3d-golf-porting-pc-9801-and-virtual-boy-to-mega-drive/)

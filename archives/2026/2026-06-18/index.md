@@ -21,6 +21,7 @@
 * [2026-06-18, 17:09:53](https://news.ycombinator.com/item?id=48588413) - [Migrating from GNU Stow to Chezmoi](https://rednafi.com/misc/chezmoi/)
 * [2026-06-18, 16:55:25](https://news.ycombinator.com/item?id=48588216) - [The founder of Craigslist has given away half a billion dollars](https://www.independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html)
 * [2026-06-18, 16:44:04](https://news.ycombinator.com/item?id=48588072) - [Securing the Future of AI Agents](https://deepmind.google/blog/securing-the-future-of-ai-agents/)
+* [2026-06-18, 16:09:54](https://news.ycombinator.com/item?id=48587584) - [Mencius](https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/265d73a0-6bfa-45df-92ff-4e7d3f8be4b1/content)
 * [2026-06-18, 16:05:58](https://news.ycombinator.com/item?id=48587527) - [The Harajuku Moment](https://tim.blog/2024/02/09/harajuku-moment/)
 * [2026-06-18, 15:23:30](https://news.ycombinator.com/item?id=48586811) - [Show HN: 10x better performance from the Coding Harnesses with LLM-wiki](https://llm-wiki.net/)
 * [2026-06-18, 15:13:26](https://news.ycombinator.com/item?id=48586648) - [TerraPower in Deal with Meta for Eight Natrium 345 MW Advanced Nuclear Plants](https://neutronbytes.com/2026/01/09/terrapower-in-mega-deal-with-meta-for-eight-natrium-345-mw-advanced-nuclear-plants/)
