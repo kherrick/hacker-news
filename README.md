@@ -2,6 +2,7 @@
 
 * [2026-06-20, 11:58:32](https://news.ycombinator.com/item?id=48608591) - [Lithuanian startup launches open-source network to detect Shahed-type drones](https://www.lrt.lt/en/news-in-english/19/2965205/lithuanian-startup-launches-open-source-network-to-detect-shahed-type-drones)
 * [2026-06-20, 11:43:29](https://news.ycombinator.com/item?id=48608503) - [16-year-old SATA II SSD survives 1 petabyte of writes, 25x the drive's rating](https://www.tomshardware.com/pc-components/ssds/16-year-old-sata-ii-ssd-survives-1-petabyte-of-writes-25x-over-the-drives-tbw-rating)
+* [2026-06-20, 10:55:18](https://news.ycombinator.com/item?id=48608255) - [Bootimus – A Self-Contained PXE and HTTP Boot Server](https://bootimus.com)
 * [2026-06-20, 10:49:53](https://news.ycombinator.com/item?id=48608223) - [CSSQuake](https://cssquake.com/)
 * [2026-06-20, 05:33:59](https://news.ycombinator.com/item?id=48606619) - [I Stored a Website in a Favicon](https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/)
 * [2026-06-20, 04:07:03](https://news.ycombinator.com/item?id=48606271) - [Satellite reveals immense scale of GPS signal tampering](https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering)
@@ -9,7 +10,6 @@
 * [2026-06-20, 01:25:14](https://news.ycombinator.com/item?id=48605355) - [LLMs Are Complicated Now](https://ianbarber.blog/2026/06/19/llms-are-complicated-now/)
 * [2026-06-19, 20:30:59](https://news.ycombinator.com/item?id=48602918) - [Surprising economics of load-balanced systems](https://brooker.co.za/blog/2020/08/06/erlang.html)
 * [2026-06-19, 19:35:15](https://news.ycombinator.com/item?id=48602352) - [Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died](https://www.legacy.com/legacy/robert-bobby-prince-lll)
-* [2026-06-19, 17:53:00](https://news.ycombinator.com/item?id=48601162) - [John Jumper to join Anthropic](https://twitter.com/JohnJumperSci/status/2068001285173834106)
 * [2026-06-19, 17:34:18](https://news.ycombinator.com/item?id=48600946) - [Court Records Should Be Free](https://www.eff.org/deeplinks/2026/06/court-records-should-be-free)
 * [2026-06-19, 16:59:16](https://news.ycombinator.com/item?id=48600593) - [AURpocalypse now: a look at the recent AUR attacks](https://lwn.net/SubscriberLink/1077619/f7b07c5489fdd43a/)
 * [2026-06-19, 16:28:20](https://news.ycombinator.com/item?id=48600312) - [Hyundai buys Boston Dynamics](https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/)
@@ -26,8 +26,8 @@
 * [2026-06-17, 01:06:12](https://news.ycombinator.com/item?id=48564480) - [The Cold War's Accidental Whale Observatory](https://thereader.mitpress.mit.edu/the-cold-wars-accidental-whale-observatory/)
 * [2026-06-16, 21:51:57](https://news.ycombinator.com/item?id=48562662) - [Data Compression Explained (2012)](https://mattmahoney.net/dc/dce.html)
 * [2026-06-16, 18:24:39](https://news.ycombinator.com/item?id=48559729) - [A 1969 camera operators' strike created Upstairs Downstairs multiverse](https://ironicsans.ghost.io/the-color-strike/)
-* [2026-06-16, 14:43:38](https://news.ycombinator.com/item?id=48556082) - [Show HN: Metiq: a real time 3D globe for 100 public datasets](https://metiq.space)
 * [2026-06-16, 14:30:12](https://news.ycombinator.com/item?id=48555903) - [Soccer Arcade Games Through the Years](https://arcadeheroes.com/2026/06/13/world-cup-2026-soccer-arcade/)
+* [2026-06-16, 10:34:10](https://news.ycombinator.com/item?id=48553161) - [Telescope Ranchers](https://kottke.org/26/06/telescope-ranchers)
 * [2026-06-16, 00:45:50](https://news.ycombinator.com/item?id=48549118) - [Zen and the Art of Machine Learning Research](https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning)
 * [2026-06-15, 23:37:54](https://news.ycombinator.com/item?id=48548612) - [Egyptian Fractions (2006)](https://blog.plover.com/math/egyptian-fractions.html)
 
