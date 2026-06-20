@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-06-20, 14:20:45",
+      "https://news.ycombinator.com/item?id=48609421"
+    ],
+    [
+      "The European Social Stack",
+      "https://european.social"
+    ]
+  ],
+  [
+    [
       "2026-06-20, 13:44:39",
       "https://news.ycombinator.com/item?id=48609194"
     ],
     [
       "From PGP to Mythos: a brief history of export controls that didn't stop anyone",
       "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/"
+    ]
+  ],
+  [
+    [
+      "2026-06-20, 12:14:32",
+      "https://news.ycombinator.com/item?id=48608681"
+    ],
+    [
+      "Pong in S Favicon",
+      "https://pong-in-a-favicon.franzai.com/"
+    ]
+  ],
+  [
+    [
+      "2026-06-20, 12:06:00",
+      "https://news.ycombinator.com/item?id=48608633"
+    ],
+    [
+      "New (Old) 3D Golf: Porting PC-9801 and Virtual Boy to Mega Drive",
+      "https://blog.gingerbeardman.com/2026/06/19/new-old-3d-golf-porting-pc-9801-and-virtual-boy-to-mega-drive/"
     ]
   ],
   [
@@ -61,16 +91,6 @@
   ],
   [
     [
-      "2026-06-20, 04:07:03",
-      "https://news.ycombinator.com/item?id=48606271"
-    ],
-    [
-      "Satellite reveals immense scale of GPS signal tampering",
-      "https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering"
-    ]
-  ],
-  [
-    [
       "2026-06-20, 03:36:49",
       "https://news.ycombinator.com/item?id=48606140"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2026-06-19, 16:59:16",
-      "https://news.ycombinator.com/item?id=48600593"
-    ],
-    [
-      "AURpocalypse now: a look at the recent AUR attacks",
-      "https://lwn.net/SubscriberLink/1077619/f7b07c5489fdd43a/"
-    ]
-  ],
-  [
-    [
       "2026-06-19, 16:28:20",
       "https://news.ycombinator.com/item?id=48600312"
     ],
@@ -151,6 +161,16 @@
   ],
   [
     [
+      "2026-06-19, 15:19:14",
+      "https://news.ycombinator.com/item?id=48599626"
+    ],
+    [
+      "I restarted a 10 year old Xeon 174 times to delete 12 flags and gain 4 tps",
+      "https://point.free/blog/delete-12-flags/"
+    ]
+  ],
+  [
+    [
       "2026-06-19, 15:10:02",
       "https://news.ycombinator.com/item?id=48599515"
     ],
@@ -177,16 +197,6 @@
     [
       "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
       "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a"
-    ]
-  ],
-  [
-    [
-      "2026-06-18, 14:51:53",
-      "https://news.ycombinator.com/item?id=48586329"
-    ],
-    [
-      "Building a robotics research setup that lives next to my desk",
-      "https://dfdxlabs.com/research/2026/robotics-setup/"
     ]
   ],
   [
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2026-06-16, 00:45:50",
-      "https://news.ycombinator.com/item?id=48549118"
+      "2026-06-16, 14:03:38",
+      "https://news.ycombinator.com/item?id=48555505"
     ],
     [
-      "Zen and the Art of Machine Learning Research",
-      "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning"
-    ]
-  ],
-  [
-    [
-      "2026-06-15, 23:37:54",
-      "https://news.ycombinator.com/item?id=48548612"
-    ],
-    [
-      "Egyptian Fractions (2006)",
-      "https://blog.plover.com/math/egyptian-fractions.html"
+      "The Doctor Who Treats Patients with a Gaming Mouse",
+      "https://textexpander.com/blog/doctor-gaming-mouse"
     ]
   ]
 ]
