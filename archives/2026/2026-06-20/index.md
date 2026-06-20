@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-06-20](index.md)
 
+* [2026-06-20, 19:18:48](https://news.ycombinator.com/item?id=48612095) - [Show HN: My Windows XP portfolio with working Game Boy and iPod](https://mitchivin.com/)
+* [2026-06-20, 19:01:10](https://news.ycombinator.com/item?id=48611942) - [PostgresBench: A Reproducible Benchmark for Postgres Services](https://clickhouse.com/blog/postgresbench)
+* [2026-06-20, 18:53:46](https://news.ycombinator.com/item?id=48611857) - [Show HN: Tiny – An interpeted dynamic langauge with inline Go native functions](https://github.com/confh/Tiny)
+* [2026-06-20, 18:17:58](https://news.ycombinator.com/item?id=48611513) - [Show HN: Make PDFs look scanned (CLI or in the browser via WASM)](https://github.com/overflowy/make-look-scanned)
 * [2026-06-20, 18:05:31](https://news.ycombinator.com/item?id=48611411) - [Agency stole bestselling author's book, used AI to relaunch as their own](https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/)
 * [2026-06-20, 17:52:07](https://news.ycombinator.com/item?id=48611303) - [Ask HN: Due to spam on GitHub, what platforms can I move my projects?](https://news.ycombinator.com/item?id=48611303)
 * [2026-06-20, 17:27:36](https://news.ycombinator.com/item?id=48611083) - [The ability to regrow body parts is dormant in mammals, not lost](https://www.sciencedaily.com/releases/2026/06/260617032207.htm)

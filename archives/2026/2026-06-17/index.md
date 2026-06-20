@@ -14,6 +14,7 @@
 * [2026-06-17, 21:00:07](https://news.ycombinator.com/item?id=48576824) - [A Robot Is Sprinting Towards You: Do You Want It Running on Claude or Grok?](https://openrouter.ai/blog/insights/royale-last-agent-standing/)
 * [2026-06-17, 20:29:15](https://news.ycombinator.com/item?id=48576395) - [Loreline – Tools for writing interactive fiction](https://loreline.app/en/)
 * [2026-06-17, 20:23:00](https://news.ycombinator.com/item?id=48576307) - [Apple Intelligence may become mandatory in iOS and macOS 27](https://manualdousuario.net/en/apple-intelligence-mandatory-ios-macos-27/)
+* [2026-06-17, 20:15:57](https://news.ycombinator.com/item?id=48576217) - [Now You Don't: When Espionage Meets Magic](https://www.politicshome.com/news/article/now-dont-espionage-meets-magic)
 * [2026-06-17, 20:07:47](https://news.ycombinator.com/item?id=48576113) - [Krugman: Musk, a Human Ponzi Scheme](https://paulkrugman.substack.com/p/elon-musk-human-ponzi-scheme)
 * [2026-06-17, 19:59:27](https://news.ycombinator.com/item?id=48575997) - [How Madrid built its metro cheaply](https://worksinprogress.co/issue/how-madrid-built-its-metro-cheaply/)
 * [2026-06-17, 19:50:11](https://news.ycombinator.com/item?id=48575878) - [Made a free macOS menu bar app that fixes typing in the wrong keyboard layout](https://flickey.site)
