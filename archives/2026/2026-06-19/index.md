@@ -32,6 +32,7 @@
 * [2026-06-19, 16:11:25](https://news.ycombinator.com/item?id=48600167) - [GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2](https://arrowtsx.dev/bigger-models/)
 * [2026-06-19, 16:04:42](https://news.ycombinator.com/item?id=48600107) - [Amateur may have cracked Linear A, a 120-year-old puzzle](https://aiclambake.com/clamtakes/linear-a/)
 * [2026-06-19, 16:03:15](https://news.ycombinator.com/item?id=48600093) - [Norway imposes near ban on AI in elementary school](https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/)
+* [2026-06-19, 15:19:14](https://news.ycombinator.com/item?id=48599626) - [I restarted a 10 year old Xeon 174 times to delete 12 flags and gain 4 tps](https://point.free/blog/delete-12-flags/)
 * [2026-06-19, 15:10:02](https://news.ycombinator.com/item?id=48599515) - [There Are No Instances in ATProto](https://overreacted.io/there-are-no-instances-in-atproto/)
 * [2026-06-19, 13:51:36](https://news.ycombinator.com/item?id=48598586) - [How many of the 170k English words do you know?](https://vocabowl-870366514258.us-west1.run.app/)
 * [2026-06-19, 12:45:11](https://news.ycombinator.com/item?id=48597939) - [Leave a Trace](https://www.jakeworth.com/posts/leave-a-trace)

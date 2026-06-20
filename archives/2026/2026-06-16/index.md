@@ -54,6 +54,7 @@
 * [2026-06-16, 14:26:26](https://news.ycombinator.com/item?id=48555838) - [But yak shaving is fun](https://parksb.github.io/en/article/32.html)
 * [2026-06-16, 14:26:19](https://news.ycombinator.com/item?id=48555835) - [I Fired Google](https://www.theartofdoingstuff.com/i-fired-google/)
 * [2026-06-16, 14:15:00](https://news.ycombinator.com/item?id=48555677) - [Show HN: Hackers for Granny (defense against industrialized elder fraud)](https://professorsigmund.com/praxis/hackers_for_granny_manifesto.html)
+* [2026-06-16, 14:03:38](https://news.ycombinator.com/item?id=48555505) - [The Doctor Who Treats Patients with a Gaming Mouse](https://textexpander.com/blog/doctor-gaming-mouse)
 * [2026-06-16, 13:46:19](https://news.ycombinator.com/item?id=48555244) - [Google Chrome update will close the door on ad blockers](https://9to5google.com/2026/06/15/google-chromes-next-update-will-mark-the-end-of-popular-ad-blockers/)
 * [2026-06-16, 13:15:15](https://news.ycombinator.com/item?id=48554814) - [Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence](https://qwen.ai/blog?id=qwen-robotsuite)
 * [2026-06-16, 13:15:14](https://news.ycombinator.com/item?id=48554812) - [A Love Story](https://pudding.cool/2026/06/love-story/)
