@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-06-20, 15:21:26](https://news.ycombinator.com/item?id=48609863) - [Sogen Kato](https://en.wikipedia.org/wiki/Sogen_Kato)
+* [2026-06-20, 15:42:35](https://news.ycombinator.com/item?id=48610055) - [Big Tech is stoking unrest in the UK. Why?](https://www.ft.com/content/0f3e33d2-0b9e-481d-a911-245d8cc01a9c)
 * [2026-06-20, 15:10:03](https://news.ycombinator.com/item?id=48609766) - [DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots](https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html)
 * [2026-06-20, 14:52:59](https://news.ycombinator.com/item?id=48609645) - [Cargo-Geiger](https://github.com/geiger-rs/cargo-geiger)
 * [2026-06-20, 14:40:12](https://news.ycombinator.com/item?id=48609553) - [Vacation With An Artist – Mini-Apprenticeships with Artists in Their Studios](https://vawaa.com/)
@@ -13,7 +13,6 @@
 * [2026-06-20, 13:49:15](https://news.ycombinator.com/item?id=48609233) - [Big Tech is borrowing like never before](https://startupfortune.com/big-tech-is-borrowing-like-never-before-and-the-fed-just-made-that-a-lot-more-expensive/)
 * [2026-06-20, 13:44:39](https://news.ycombinator.com/item?id=48609194) - [From PGP to Mythos: a brief history of export controls that didn't stop anyone](https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/)
 * [2026-06-20, 12:14:32](https://news.ycombinator.com/item?id=48608681) - [Pong in S Favicon](https://pong-in-a-favicon.franzai.com/)
-* [2026-06-20, 11:58:32](https://news.ycombinator.com/item?id=48608591) - [Lithuanian startup launches open-source network to detect Shahed-type drones](https://www.lrt.lt/en/news-in-english/19/2965205/lithuanian-startup-launches-open-source-network-to-detect-shahed-type-drones)
 * [2026-06-20, 11:19:05](https://news.ycombinator.com/item?id=48608394) - [Temporary Cloudflare Accounts for AI Agents](https://blog.cloudflare.com/temporary-accounts/)
 * [2026-06-20, 10:55:18](https://news.ycombinator.com/item?id=48608255) - [Bootimus – A Self-Contained PXE and HTTP Boot Server](https://bootimus.com)
 * [2026-06-20, 10:49:53](https://news.ycombinator.com/item?id=48608223) - [CSSQuake](https://cssquake.com/)
@@ -25,6 +24,7 @@
 * [2026-06-18, 16:09:54](https://news.ycombinator.com/item?id=48587584) - [Mencius (2016)](https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/265d73a0-6bfa-45df-92ff-4e7d3f8be4b1/content)
 * [2026-06-18, 08:16:20](https://news.ycombinator.com/item?id=48582374) - [Can you see three trees?](https://www.not-ship.com/can-you-see-three-trees/)
 * [2026-06-17, 13:51:10](https://news.ycombinator.com/item?id=48570585) - [Computed goto for efficient dispatch tables (2012)](https://eli.thegreenplace.net/2012/07/12/computed-goto-for-efficient-dispatch-tables)
+* [2026-06-17, 13:34:42](https://news.ycombinator.com/item?id=48570364) - [Show HN: Microcrad – Micrograd Reimplemented in C](https://github.com/oraziorillo/microcrad)
 * [2026-06-17, 12:45:10](https://news.ycombinator.com/item?id=48569677) - [Human Judgment as a Specification](https://blog.brownplt.org/2026/06/09/pick.html)
 * [2026-06-17, 11:09:29](https://news.ycombinator.com/item?id=48568652) - [The discovery that changed how scientists think about memory](https://www.ibm.com/think/news/discovery-changed-how-scientists-think-about-memory-kavli-prize)
 * [2026-06-17, 01:06:12](https://news.ycombinator.com/item?id=48564480) - [The Cold War's Accidental Whale Observatory](https://thereader.mitpress.mit.edu/the-cold-wars-accidental-whale-observatory/)
