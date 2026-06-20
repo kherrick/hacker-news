@@ -23,11 +23,11 @@
 * [2026-06-20, 10:49:53](https://news.ycombinator.com/item?id=48608223) - [CSSQuake](https://cssquake.com/)
 * [2026-06-20, 05:33:59](https://news.ycombinator.com/item?id=48606619) - [I Stored a Website in a Favicon](https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/)
 * [2026-06-20, 03:36:49](https://news.ycombinator.com/item?id=48606140) - [Where to Find the Colors Your Screen Can't Show You](https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/)
+* [2026-06-20, 01:18:30](https://news.ycombinator.com/item?id=48605310) - [Why has the pointe shoe been so resistant to change?](https://dancemagazine.com/pointe-shoe-innovation/)
 * [2026-06-19, 16:11:25](https://news.ycombinator.com/item?id=48600167) - [GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2](https://arrowtsx.dev/bigger-models/)
 * [2026-06-19, 15:10:02](https://news.ycombinator.com/item?id=48599515) - [There are no instances in ATProto](https://overreacted.io/there-are-no-instances-in-atproto/)
 * [2026-06-18, 16:09:54](https://news.ycombinator.com/item?id=48587584) - [Mencius (2016)](https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/265d73a0-6bfa-45df-92ff-4e7d3f8be4b1/content)
 * [2026-06-18, 08:16:20](https://news.ycombinator.com/item?id=48582374) - [Can you see three trees?](https://www.not-ship.com/can-you-see-three-trees/)
-* [2026-06-17, 13:51:10](https://news.ycombinator.com/item?id=48570585) - [Computed goto for efficient dispatch tables (2012)](https://eli.thegreenplace.net/2012/07/12/computed-goto-for-efficient-dispatch-tables)
 * [2026-06-17, 13:34:42](https://news.ycombinator.com/item?id=48570364) - [Show HN: Microcrad – Micrograd Reimplemented in C](https://github.com/oraziorillo/microcrad)
 * [2026-06-16, 19:20:33](https://news.ycombinator.com/item?id=48560535) - [S‑CURVES a field guide to technology adoption · 1825–2026](https://escurves.com/)
 
