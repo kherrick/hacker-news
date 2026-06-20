@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-20](index.md)
 
+* [2026-06-20, 23:07:09](https://news.ycombinator.com/item?id=48613872) - [Epoll vs. Io_uring in Linux](https://sibexi.co/posts/epoll-vs-io_uring/)
+* [2026-06-20, 22:54:11](https://news.ycombinator.com/item?id=48613755) - [Not just books: renting a sewing machine from the library can improve democracy](https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland)
 * [2026-06-20, 22:50:43](https://news.ycombinator.com/item?id=48613732) - [Turns Out, There Is a Cabal of Elite Crazies Trying to Control the World](https://www.esquire.com/news-politics/politics/a71619211/peter-thiel-dialog-club-wired-report/)
 * [2026-06-20, 22:36:23](https://news.ycombinator.com/item?id=48613631) - [Pre-2022 Books](https://notes.lorenzogravina.com/musings/pre-2022-books)
 * [2026-06-20, 22:14:15](https://news.ycombinator.com/item?id=48613481) - [Tesla allegedly in autopilot mode crashes into Texas house, woman killed](https://abcnews.com/US/tesla-allegedly-autopilot-mode-crashes-texas-house-woman/story?id=134062374)
@@ -48,6 +50,7 @@
 * [2026-06-20, 12:14:32](https://news.ycombinator.com/item?id=48608681) - [Pong in S Favicon](https://pong-in-a-favicon.franzai.com/)
 * [2026-06-20, 12:06:00](https://news.ycombinator.com/item?id=48608633) - [New (Old) 3D Golf: Porting PC-9801 and Virtual Boy to Mega Drive](https://blog.gingerbeardman.com/2026/06/19/new-old-3d-golf-porting-pc-9801-and-virtual-boy-to-mega-drive/)
 * [2026-06-20, 11:58:32](https://news.ycombinator.com/item?id=48608591) - [Lithuanian startup launches open-source network to detect Shahed-type drones](https://www.lrt.lt/en/news-in-english/19/2965205/lithuanian-startup-launches-open-source-network-to-detect-shahed-type-drones)
+* [2026-06-20, 11:55:03](https://news.ycombinator.com/item?id=48608570) - [Show HN: TownSquare, a tiny presence layer for websites](https://townsquare.cauenapier.com/)
 * [2026-06-20, 11:44:52](https://news.ycombinator.com/item?id=48608515) - [The rise of South Korea’s weapons business](https://www.politico.com/news/magazine/2026/06/20/south-korea-weapons-dealer-trump-00959559)
 * [2026-06-20, 11:43:29](https://news.ycombinator.com/item?id=48608503) - [16-year-old SATA II SSD survives 1 petabyte of writes, 25x the drive's rating](https://www.tomshardware.com/pc-components/ssds/16-year-old-sata-ii-ssd-survives-1-petabyte-of-writes-25x-over-the-drives-tbw-rating)
 * [2026-06-20, 11:19:05](https://news.ycombinator.com/item?id=48608394) - [Temporary Cloudflare Accounts for AI Agents](https://blog.cloudflare.com/temporary-accounts/)
