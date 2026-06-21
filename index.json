@@ -1,11 +1,31 @@
 [
   [
     [
+      "2026-06-21, 00:12:49",
+      "https://news.ycombinator.com/item?id=48614390"
+    ],
+    [
+      "'We had to get out of the way': The backlash over delivery robots",
+      "https://www.bbc.com/news/articles/c0rygp005wjo"
+    ]
+  ],
+  [
+    [
+      "2026-06-21, 00:00:25",
+      "https://news.ycombinator.com/item?id=48614311"
+    ],
+    [
+      "Project Fetch: Phase Two",
+      "https://www.anthropic.com/research/project-fetch-phase-two"
+    ]
+  ],
+  [
+    [
       "2026-06-20, 23:07:09",
       "https://news.ycombinator.com/item?id=48613872"
     ],
     [
-      "Epoll vs. Io_uring in Linux",
+      "Epoll vs. io_uring in Linux",
       "https://sibexi.co/posts/epoll-vs-io_uring/"
     ]
   ],
@@ -15,18 +35,8 @@
       "https://news.ycombinator.com/item?id=48613755"
     ],
     [
-      "Not just books: renting a sewing machine from the library can improve democracy",
+      "Renting a sewing machine from the library",
       "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland"
-    ]
-  ],
-  [
-    [
-      "2026-06-20, 22:50:43",
-      "https://news.ycombinator.com/item?id=48613732"
-    ],
-    [
-      "Turns Out, There Is a Cabal of Elite Crazies Trying to Control the World",
-      "https://www.esquire.com/news-politics/politics/a71619211/peter-thiel-dialog-club-wired-report/"
     ]
   ],
   [
@@ -65,7 +75,7 @@
       "https://news.ycombinator.com/item?id=48612943"
     ],
     [
-      "Linux Eliminates the Strncpy API After Six Years of Work, 360 Patches",
+      "Linux eliminates the strncpy API after six years of work, 360 patches",
       "https://www.phoronix.com/news/Linux-7.2-Drops-strncpy"
     ]
   ],
@@ -77,16 +87,6 @@
     [
       "Alice is impatient",
       "https://brooker.co.za/blog/2026/06/19/waiting.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-20, 20:30:06",
-      "https://news.ycombinator.com/item?id=48612714"
-    ],
-    [
-      "A Love Story",
-      "https://pudding.cool/2026/06/love-story/"
     ]
   ],
   [
@@ -117,16 +117,6 @@
     [
       "PostgresBench: A Reproducible Benchmark for Postgres Services",
       "https://clickhouse.com/blog/postgresbench"
-    ]
-  ],
-  [
-    [
-      "2026-06-20, 18:53:46",
-      "https://news.ycombinator.com/item?id=48611857"
-    ],
-    [
-      "Show HN: Tiny – An interpeted dynamic langauge with inline Go native functions",
-      "https://github.com/confh/Tiny"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Why has the pointe shoe been so resistant to change?",
       "https://dancemagazine.com/pointe-shoe-innovation/"
+    ]
+  ],
+  [
+    [
+      "2026-06-18, 12:22:36",
+      "https://news.ycombinator.com/item?id=48584261"
+    ],
+    [
+      "15-minute at-home Lyme disease tick test",
+      "https://www.bostonglobe.com/2026/06/17/business/lyme-disease-tick-test/"
     ]
   ],
   [
