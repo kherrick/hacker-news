@@ -14,6 +14,7 @@
 * [2026-06-21, 21:23:13](https://news.ycombinator.com/item?id=48622731) - [PowerFox Browser](https://powerfox.jazzzny.me/)
 * [2026-06-21, 21:10:32](https://news.ycombinator.com/item?id=48622626) - [Everything Is Logarithms](https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html)
 * [2026-06-21, 21:05:37](https://news.ycombinator.com/item?id=48622590) - [Stop wasting tokens and re explaining your project between sessions](https://github.com/raiyanyahya/recall)
+* [2026-06-21, 20:56:01](https://news.ycombinator.com/item?id=48622518) - [There is minimal downside to switching to open models](https://www.marble.onl/posts/cancel_claude.html)
 * [2026-06-21, 20:17:48](https://news.ycombinator.com/item?id=48622234) - [Ask for no, don't ask for yes (2022)](https://www.mooreds.com/wordpress/archives/3518)
 * [2026-06-21, 19:06:07](https://news.ycombinator.com/item?id=48621645) - [Show HN: CleverCrow: give tokens to your favorite projects](https://clevercrow.io)
 * [2026-06-21, 18:51:47](https://news.ycombinator.com/item?id=48621517) - [JSON-LD Explained for Personal Websites](https://hawksley.dev/blog/json-ld-explained-for-personal-websites/)
