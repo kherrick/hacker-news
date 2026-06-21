@@ -39,6 +39,7 @@
 * [2026-06-18, 13:05:58](https://news.ycombinator.com/item?id=48584709) - [How Alberta Eradicated Rats](https://worksinprogress.co/issue/albertas-war-on-rats/)
 * [2026-06-18, 12:46:04](https://news.ycombinator.com/item?id=48584497) - [Has W Social switched to closed source?](https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/)
 * [2026-06-18, 12:44:09](https://news.ycombinator.com/item?id=48584484) - [The Korean telecom giant at the center of Anthropic's Mythos controversy](https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/)
+* [2026-06-18, 12:22:36](https://news.ycombinator.com/item?id=48584261) - [15-minute at-home Lyme disease tick test](https://www.bostonglobe.com/2026/06/17/business/lyme-disease-tick-test/)
 * [2026-06-18, 12:19:05](https://news.ycombinator.com/item?id=48584207) - [Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly](https://www.windowslatest.com/2026/06/15/microsofts-new-outlook-takes-10-seconds-to-do-what-outlook-classic-does-instantly-on-windows/)
 * [2026-06-18, 12:10:53](https://news.ycombinator.com/item?id=48584135) - [Emacs 31 Is Around the Corner: The Changes I'm Daily Driving](https://www.rahuljuliato.com/posts/emacs-31-around-the-corner)
 * [2026-06-18, 11:45:43](https://news.ycombinator.com/item?id=48583928) - [I found 10k GitHub repositories distributing Trojan malware](https://orchidfiles.com/github-repositories-distributing-malware/)
