@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-21, 17:00:28",
+      "https://news.ycombinator.com/item?id=48620504"
+    ],
+    [
+      "Wildcard (YC W25) Is Hiring a Founding Applied ML Engineer",
+      "https://www.ycombinator.com/companies/wildcard/jobs/SEmo4di-founding-applied-ml-engineer"
+    ]
+  ],
+  [
+    [
+      "2026-06-21, 17:00:26",
+      "https://news.ycombinator.com/item?id=48620502"
+    ],
+    [
+      "Tell HN: Happy Fathers Day to all the fathers, uncles, anyone in that role!",
+      "https://news.ycombinator.com/item?id=48620502"
+    ]
+  ],
+  [
+    [
       "2026-06-21, 16:14:54",
       "https://news.ycombinator.com/item?id=48620142"
     ],
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=48620090"
     ],
     [
-      "Code duplication is far cheaper than the wrong abstraction",
+      "Code duplication is far cheaper than the wrong abstraction (2016)",
       "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction"
     ]
   ],
@@ -25,7 +45,7 @@
       "https://news.ycombinator.com/item?id=48619831"
     ],
     [
-      "(How to Write a (Lisp) Interpreter (In Python))",
+      "(How to Write a (Lisp) Interpreter (In Python)) (2010)",
       "https://norvig.com/lispy.html"
     ]
   ],
@@ -97,16 +117,6 @@
     [
       "A 3D voxel game engine written in APL",
       "https://github.com/namgyaaal/avoxelgame"
-    ]
-  ],
-  [
-    [
-      "2026-06-21, 04:28:39",
-      "https://news.ycombinator.com/item?id=48615680"
-    ],
-    [
-      "Building reliable agentic AI systems",
-      "https://martinfowler.com/articles/reliable-llm-bayer.html"
     ]
   ],
   [
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2026-06-19, 16:28:19",
-      "https://news.ycombinator.com/item?id=48600311"
-    ],
-    [
-      "Proportional-Integral-Derivative Controllers",
-      "https://en.wikipedia.org/wiki/PID_controller"
-    ]
-  ],
-  [
-    [
       "2026-06-19, 15:13:11",
       "https://news.ycombinator.com/item?id=48599555"
     ],
@@ -251,22 +251,22 @@
   ],
   [
     [
-      "2026-06-18, 09:23:16",
-      "https://news.ycombinator.com/item?id=48582894"
-    ],
-    [
-      "Whole cross-sectional human ultrasound tomography",
-      "https://www.nature.com/articles/s41551-026-01660-4"
-    ]
-  ],
-  [
-    [
       "2026-06-17, 17:43:22",
       "https://news.ycombinator.com/item?id=48573902"
     ],
     [
       "Zigzag Decoding with AVX-512",
       "https://zeux.io/2026/06/17/zigzag-decoding-avx512/"
+    ]
+  ],
+  [
+    [
+      "2026-06-17, 14:35:23",
+      "https://news.ycombinator.com/item?id=48571136"
+    ],
+    [
+      "Occupancy Math on the AMD MI355X: A From-First-Principles Guide",
+      "https://indianspeedster.github.io/blog/occupancy-math-mi355x/"
     ]
   ],
   [
