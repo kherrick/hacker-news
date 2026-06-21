@@ -15,6 +15,7 @@
 * [2026-06-20, 21:09:39](https://news.ycombinator.com/item?id=48613008) - [Supermarket giant Tesco sues VMware for breach of contract](https://www.theregister.com/software/2025/09/03/supermarket-giant-tesco-sues-vmware-for-breach-of-contract/1420651)
 * [2026-06-20, 20:59:40](https://news.ycombinator.com/item?id=48612943) - [Linux Eliminates the Strncpy API After Six Years of Work, 360 Patches](https://www.phoronix.com/news/Linux-7.2-Drops-strncpy)
 * [2026-06-20, 20:48:04](https://news.ycombinator.com/item?id=48612859) - [Seeing the world in radio waves with the QuadRF](https://hackaday.com/2026/06/20/seeing-the-world-in-radio-waves-with-the-quadrf/)
+* [2026-06-20, 20:46:50](https://news.ycombinator.com/item?id=48612844) - [Show HN: Pulse – Dashboard for Claude Code, approve tool calls from your phone](https://github.com/nikitadoudikov/claude-pulse)
 * [2026-06-20, 20:41:06](https://news.ycombinator.com/item?id=48612806) - [UK Home Office launches £75M 'PoliceAI' to capitalise on artificial intelligence](https://www.publictechnology.net/2026/06/15/public-order-justice-and-rights/home-office-launches-75m-policeai-to-capitalise-on-artificial-intelligence/)
 * [2026-06-20, 20:32:54](https://news.ycombinator.com/item?id=48612740) - [Alice is impatient](https://brooker.co.za/blog/2026/06/19/waiting.html)
 * [2026-06-20, 20:30:06](https://news.ycombinator.com/item?id=48612714) - [A Love Story](https://pudding.cool/2026/06/love-story/)
