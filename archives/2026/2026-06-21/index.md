@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-21](index.md)
 
+* [2026-06-21, 05:45:21](https://news.ycombinator.com/item?id=48616017) - [The 100k Whys of AI](https://lcamtuf.substack.com/p/the-100000-whys-of-ai)
+* [2026-06-21, 05:15:33](https://news.ycombinator.com/item?id=48615890) - [The Lost Story of Alan Turing's \"Delilah\" Project](https://spectrum.ieee.org/alan-turings-delilah)
 * [2026-06-21, 04:28:39](https://news.ycombinator.com/item?id=48615680) - [Building Reliable Agentic AI Systems](https://martinfowler.com/articles/reliable-llm-bayer.html)
 * [2026-06-21, 04:02:08](https://news.ycombinator.com/item?id=48615569) - [Your brain was never designed for this much bad news](https://www.sciencedaily.com/releases/2026/06/260614012006.htm)
 * [2026-06-21, 03:54:22](https://news.ycombinator.com/item?id=48615529) - [Armstrong Effect](https://en.wikipedia.org/wiki/Armstrong_effect)
