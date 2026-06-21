@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=48620776"
     ],
     [
-      "Health Insurance Claim Denial Rates Range from 13% to 35% by Insurer",
+      "Health insurance claim denial rates range from 13% to 35% by insurer",
       "https://www.randalolson.com/2026/06/16/aca-insurer-claim-denial-rates/"
     ]
   ],
@@ -15,18 +15,8 @@
       "https://news.ycombinator.com/item?id=48620504"
     ],
     [
-      "Wildcard (YC W25) Is Hiring a Founding Applied ML Engineer",
+      "Wildcard (YC W25) is hiring an applied ML engineer",
       "https://www.ycombinator.com/companies/wildcard/jobs/SEmo4di-founding-applied-ml-engineer"
-    ]
-  ],
-  [
-    [
-      "2026-06-21, 17:00:26",
-      "https://news.ycombinator.com/item?id=48620502"
-    ],
-    [
-      "Tell HN: Happy Fathers Day to all the fathers, uncles, anyone in that role!",
-      "https://news.ycombinator.com/item?id=48620502"
     ]
   ],
   [
@@ -47,6 +37,16 @@
     [
       "The Minimum Viable Unit of Saleable Software",
       "https://brandur.org/minimum-viable-unit"
+    ]
+  ],
+  [
+    [
+      "2026-06-21, 16:14:54",
+      "https://news.ycombinator.com/item?id=48620142"
+    ],
+    [
+      "The early hiring funnel is now breaking on both ends",
+      "https://hbr.org/2026/06/ai-has-broken-hiring-heres-how-to-fix-it"
     ]
   ],
   [
@@ -81,12 +81,12 @@
   ],
   [
     [
-      "2026-06-21, 14:09:07",
-      "https://news.ycombinator.com/item?id=48619140"
+      "2026-06-21, 12:44:13",
+      "https://news.ycombinator.com/item?id=48618455"
     ],
     [
-      "Who Owns Your ATProto Identity? Hint: It's Probably Not You",
-      "https://kevinak.se/blog/who-actually-owns-your-atproto-identity-hint-its-probably-not-you"
+      "Identity verification on Claude",
+      "https://support.claude.com/en/articles/14328960-identity-verification-on-claude"
     ]
   ],
   [
@@ -111,22 +111,42 @@
   ],
   [
     [
-      "2026-06-21, 08:21:22",
-      "https://news.ycombinator.com/item?id=48616800"
-    ],
-    [
-      "Google Hits 50% IPv6",
-      "https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/"
-    ]
-  ],
-  [
-    [
       "2026-06-21, 08:04:54",
       "https://news.ycombinator.com/item?id=48616713"
     ],
     [
       "A 3D voxel game engine written in APL",
       "https://github.com/namgyaaal/avoxelgame"
+    ]
+  ],
+  [
+    [
+      "2026-06-21, 06:24:52",
+      "https://news.ycombinator.com/item?id=48616173"
+    ],
+    [
+      "Windows UI evolution: Clicking an unassociated file",
+      "https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-21, 05:45:21",
+      "https://news.ycombinator.com/item?id=48616017"
+    ],
+    [
+      "The 100k whys of AI",
+      "https://lcamtuf.substack.com/p/the-100000-whys-of-ai"
+    ]
+  ],
+  [
+    [
+      "2026-06-21, 04:02:08",
+      "https://news.ycombinator.com/item?id=48615569"
+    ],
+    [
+      "The brain was not designed for this much bad news",
+      "https://www.sciencedaily.com/releases/2026/06/260614012006.htm"
     ]
   ],
   [
@@ -181,36 +201,6 @@
   ],
   [
     [
-      "2026-06-20, 20:05:03",
-      "https://news.ycombinator.com/item?id=48612502"
-    ],
-    [
-      "Unauthorized alert sent to cell phones across Brazil",
-      "https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam"
-    ]
-  ],
-  [
-    [
-      "2026-06-20, 17:01:36",
-      "https://news.ycombinator.com/item?id=48610827"
-    ],
-    [
-      "SMPTE Makes Its Standards Freely Accessible",
-      "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community"
-    ]
-  ],
-  [
-    [
-      "2026-06-20, 15:10:03",
-      "https://news.ycombinator.com/item?id=48609766"
-    ],
-    [
-      "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
-      "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html"
-    ]
-  ],
-  [
-    [
       "2026-06-20, 12:08:23",
       "https://news.ycombinator.com/item?id=48608645"
     ],
@@ -231,6 +221,16 @@
   ],
   [
     [
+      "2026-06-19, 02:10:16",
+      "https://news.ycombinator.com/item?id=48594090"
+    ],
+    [
+      "An Embedded Linux on a Single Floppy",
+      "https://github.com/w84death/floppinux"
+    ]
+  ],
+  [
+    [
       "2026-06-18, 16:29:52",
       "https://news.ycombinator.com/item?id=48587865"
     ],
@@ -245,18 +245,18 @@
       "https://news.ycombinator.com/item?id=48587619"
     ],
     [
-      "Commodore Made a Digital Detox Phone That Isn't Dumb",
+      "The Commodore Callback 8020 smart flip phone",
       "https://www.wired.me/story/commodore-made-a-digital-detox-phone-that-isnt-dumb"
     ]
   ],
   [
     [
-      "2026-06-18, 12:22:36",
-      "https://news.ycombinator.com/item?id=48584261"
+      "2026-06-18, 10:36:32",
+      "https://news.ycombinator.com/item?id=48583407"
     ],
     [
-      "15-minute at-home Lyme disease tick test",
-      "https://www.bostonglobe.com/2026/06/17/business/lyme-disease-tick-test/"
+      "Excessive nil pointer checks in Go",
+      "https://konradreiche.com/blog/excessive-nil-pointer-checks-in-go/"
     ]
   ],
   [
