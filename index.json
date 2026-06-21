@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-21, 08:21:22",
+      "https://news.ycombinator.com/item?id=48616800"
+    ],
+    [
+      "Google Hits 50% IPv6",
+      "https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/"
+    ]
+  ],
+  [
+    [
       "2026-06-21, 08:04:54",
       "https://news.ycombinator.com/item?id=48616713"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2026-06-21, 05:45:21",
-      "https://news.ycombinator.com/item?id=48616017"
+      "2026-06-21, 06:24:52",
+      "https://news.ycombinator.com/item?id=48616173"
     ],
     [
-      "The 100k Whys of AI",
-      "https://lcamtuf.substack.com/p/the-100000-whys-of-ai"
+      "Windows UI evolution: Clicking an unassociated file",
+      "https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html"
     ]
   ],
   [
@@ -27,16 +37,6 @@
     [
       "The Lost Story of Alan Turing's \"Delilah\" Project",
       "https://spectrum.ieee.org/alan-turings-delilah"
-    ]
-  ],
-  [
-    [
-      "2026-06-21, 04:50:46",
-      "https://news.ycombinator.com/item?id=48615776"
-    ],
-    [
-      "Public Service Announcement: Don't Say You Use AI for Writing",
-      "https://www.satisfice.com/blog/archives/488148"
     ]
   ],
   [
@@ -57,16 +57,6 @@
     [
       "Your brain was never designed for this much bad news",
       "https://www.sciencedaily.com/releases/2026/06/260614012006.htm"
-    ]
-  ],
-  [
-    [
-      "2026-06-21, 03:54:22",
-      "https://news.ycombinator.com/item?id=48615529"
-    ],
-    [
-      "Armstrong Effect",
-      "https://en.wikipedia.org/wiki/Armstrong_effect"
     ]
   ],
   [
@@ -181,16 +171,6 @@
   ],
   [
     [
-      "2026-06-20, 15:59:29",
-      "https://news.ycombinator.com/item?id=48610224"
-    ],
-    [
-      "Show HN: StartupWiki – A Free Alternative to Crunchbase",
-      "https://startupwiki.tech/"
-    ]
-  ],
-  [
-    [
       "2026-06-20, 15:10:03",
       "https://news.ycombinator.com/item?id=48609766"
     ],
@@ -291,12 +271,32 @@
   ],
   [
     [
+      "2026-06-17, 22:07:02",
+      "https://news.ycombinator.com/item?id=48577601"
+    ],
+    [
+      "Carlo Ginzburg, Who Told the History of the Obscure, Dies at 87",
+      "https://www.nytimes.com/2026/06/17/books/carlo-ginzburg-dead.html"
+    ]
+  ],
+  [
+    [
       "2026-06-17, 17:43:22",
       "https://news.ycombinator.com/item?id=48573902"
     ],
     [
       "Zigzag Decoding with AVX-512",
       "https://zeux.io/2026/06/17/zigzag-decoding-avx512/"
+    ]
+  ],
+  [
+    [
+      "2026-06-17, 10:14:53",
+      "https://news.ycombinator.com/item?id=48568181"
+    ],
+    [
+      "A tale of two path separators",
+      "https://alexwlchan.net/2021/slashes/"
     ]
   ]
 ]
