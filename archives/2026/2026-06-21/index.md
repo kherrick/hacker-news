@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-21](index.md)
 
+* [2026-06-21, 16:14:54](https://news.ycombinator.com/item?id=48620142) - [AI Has Broken Hiring](https://hbr.org/2026/06/ai-has-broken-hiring-heres-how-to-fix-it)
+* [2026-06-21, 16:08:23](https://news.ycombinator.com/item?id=48620090) - [Code duplication is far cheaper than the wrong abstraction](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
 * [2026-06-21, 15:36:33](https://news.ycombinator.com/item?id=48619831) - [(How to Write a (Lisp) Interpreter (In Python))](https://norvig.com/lispy.html)
 * [2026-06-21, 14:43:08](https://news.ycombinator.com/item?id=48619394) - [Fossil Fuels Are 40% of Freight Shipping Tonnage, but Half Its Fuel Use](https://cleantechnica.com/2026/06/16/shipping-freight-energy-fossil-cargo/)
 * [2026-06-21, 14:09:07](https://news.ycombinator.com/item?id=48619140) - [Who Owns Your ATProto Identity? Hint: It's Probably Not You](https://kevinak.se/blog/who-actually-owns-your-atproto-identity-hint-its-probably-not-you)
