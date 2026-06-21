@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-21](index.md)
 
+* [2026-06-21, 09:53:57](https://news.ycombinator.com/item?id=48617323) - [CTOs Agree: Cognitive Debt Is the New Technical Debt](https://shiftmag.dev/ctos-agree-cognitive-debt-is-the-new-technical-debt-10229/)
 * [2026-06-21, 08:21:22](https://news.ycombinator.com/item?id=48616800) - [Google Hits 50% IPv6](https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/)
 * [2026-06-21, 08:04:54](https://news.ycombinator.com/item?id=48616713) - [A 3D voxel game engine written in APL](https://github.com/namgyaaal/avoxelgame)
 * [2026-06-21, 06:24:52](https://news.ycombinator.com/item?id=48616173) - [Windows UI evolution: Clicking an unassociated file](https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html)
