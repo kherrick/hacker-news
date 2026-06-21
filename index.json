@@ -1,6 +1,66 @@
 [
   [
     [
+      "2026-06-21, 21:34:19",
+      "https://news.ycombinator.com/item?id=48622815"
+    ],
+    [
+      "The Anatomy of an AI-Native Org",
+      "https://ajeygore.in/content/the-anatomy-of-an-ai-native-org"
+    ]
+  ],
+  [
+    [
+      "2026-06-21, 21:30:25",
+      "https://news.ycombinator.com/item?id=48622788"
+    ],
+    [
+      "FDA advisors unanimously vote to approve Moderna's mRNA after agency drama",
+      "https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/"
+    ]
+  ],
+  [
+    [
+      "2026-06-21, 21:29:43",
+      "https://news.ycombinator.com/item?id=48622778"
+    ],
+    [
+      "Apertus – Open Foundation Model for Sovereign AI",
+      "https://apertvs.ai/"
+    ]
+  ],
+  [
+    [
+      "2026-06-21, 21:23:13",
+      "https://news.ycombinator.com/item?id=48622731"
+    ],
+    [
+      "PowerFox Browser",
+      "https://powerfox.jazzzny.me/"
+    ]
+  ],
+  [
+    [
+      "2026-06-21, 21:10:32",
+      "https://news.ycombinator.com/item?id=48622626"
+    ],
+    [
+      "Everything Is Logarithms",
+      "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-21, 21:05:37",
+      "https://news.ycombinator.com/item?id=48622590"
+    ],
+    [
+      "Stop wasting tokens and re explaining your project between sessions",
+      "https://github.com/raiyanyahya/recall"
+    ]
+  ],
+  [
+    [
       "2026-06-21, 20:17:48",
       "https://news.ycombinator.com/item?id=48622234"
     ],
@@ -51,16 +111,6 @@
   ],
   [
     [
-      "2026-06-21, 16:56:18",
-      "https://news.ycombinator.com/item?id=48620462"
-    ],
-    [
-      "Burnout is real for open source maintainers",
-      "https://openjsf.org/blog/burnout-is-real-for-open-source-maintainers"
-    ]
-  ],
-  [
-    [
       "2026-06-21, 16:41:21",
       "https://news.ycombinator.com/item?id=48620342"
     ],
@@ -91,12 +141,12 @@
   ],
   [
     [
-      "2026-06-21, 14:43:08",
-      "https://news.ycombinator.com/item?id=48619394"
+      "2026-06-21, 12:49:48",
+      "https://news.ycombinator.com/item?id=48618488"
     ],
     [
-      "Fossil Fuels Are 40% of Freight Shipping Tonnage, but Half Its Fuel Use",
-      "https://cleantechnica.com/2026/06/16/shipping-freight-energy-fossil-cargo/"
+      "Show HN: Teach your kids perfect pitch",
+      "https://github.com/paytonjjones/bsharp"
     ]
   ],
   [
@@ -131,16 +181,6 @@
   ],
   [
     [
-      "2026-06-21, 04:02:08",
-      "https://news.ycombinator.com/item?id=48615569"
-    ],
-    [
-      "The brain was not designed for this much bad news",
-      "https://www.sciencedaily.com/releases/2026/06/260614012006.htm"
-    ]
-  ],
-  [
-    [
       "2026-06-21, 01:35:40",
       "https://news.ycombinator.com/item?id=48614844"
     ],
@@ -151,42 +191,12 @@
   ],
   [
     [
-      "2026-06-20, 23:07:09",
-      "https://news.ycombinator.com/item?id=48613872"
-    ],
-    [
-      "Epoll vs. io_uring in Linux",
-      "https://sibexi.co/posts/epoll-vs-io_uring/"
-    ]
-  ],
-  [
-    [
-      "2026-06-20, 22:54:11",
-      "https://news.ycombinator.com/item?id=48613755"
-    ],
-    [
-      "Renting a sewing machine from the library",
-      "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland"
-    ]
-  ],
-  [
-    [
       "2026-06-20, 22:22:52",
       "https://news.ycombinator.com/item?id=48613555"
     ],
     [
       "Slow breathing modulates brain function and risk behavior",
       "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9"
-    ]
-  ],
-  [
-    [
-      "2026-06-20, 20:46:50",
-      "https://news.ycombinator.com/item?id=48612844"
-    ],
-    [
-      "Show HN: Pulse – Dashboard for Claude Code, approve tool calls from your phone",
-      "https://github.com/nikitadoudikov/claude-pulse"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "15-minute at-home Lyme disease tick test",
       "https://www.bostonglobe.com/2026/06/17/business/lyme-disease-tick-test/"
-    ]
-  ],
-  [
-    [
-      "2026-06-18, 10:36:32",
-      "https://news.ycombinator.com/item?id=48583407"
-    ],
-    [
-      "Excessive nil pointer checks in Go",
-      "https://konradreiche.com/blog/excessive-nil-pointer-checks-in-go/"
     ]
   ],
   [
