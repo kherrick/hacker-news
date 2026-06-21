@@ -75,5 +75,6 @@
 * [2026-06-18, 02:32:25](https://news.ycombinator.com/item?id=48579915) - [Scaling opencomputer from 1 VM to 1 million sandboxes](https://opencomputer.dev/blog/scaling-one-vm-to-million-sandboxes/)
 * [2026-06-18, 02:32:01](https://news.ycombinator.com/item?id=48579913) - [[x86] AI Compute Extensions (ACE) Specification](https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/)
 * [2026-06-18, 01:59:51](https://news.ycombinator.com/item?id=48579650) - [Midjourney Medical](https://www.midjourney.com/medical/blogpost)
+* [2026-06-18, 00:36:52](https://news.ycombinator.com/item?id=48579013) - [HPV jabs cut risk of dying from cervical cancer before 30 to almost zero](https://www.theguardian.com/society/2026/jun/17/hpv-jabs-reduce-risk-dying-cervical-cancer-before-30-zero-study-finds)
 * [2026-06-18, 00:26:06](https://news.ycombinator.com/item?id=48578913) - [Noam Shazeer Joins OpenAI](https://twitter.com/NoamShazeer/status/2067400851438932297)
 * [2026-06-18, 00:24:04](https://news.ycombinator.com/item?id=48578894) - [ChatGPT Spontaneously Generates Sexual Violence and Hardcore Snuff Imagery](https://mindgard.ai/blog/chatgpt-spontaneously-generated-violent-images-from-a-viral-prompt)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-21](index.md)
 
+* [2026-06-21, 21:54:34](https://news.ycombinator.com/item?id=48622987) - [Rent collections are down in New York – and no one's sure why](https://www.politico.com/news/2026/06/21/rent-collections-are-down-in-new-york-and-no-ones-sure-why-00966982)
 * [2026-06-21, 21:34:19](https://news.ycombinator.com/item?id=48622815) - [The Anatomy of an AI-Native Org](https://ajeygore.in/content/the-anatomy-of-an-ai-native-org)
 * [2026-06-21, 21:30:25](https://news.ycombinator.com/item?id=48622788) - [FDA advisors unanimously vote to approve Moderna's mRNA after agency drama](https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/)
 * [2026-06-21, 21:29:43](https://news.ycombinator.com/item?id=48622778) - [Apertus – Open Foundation Model for Sovereign AI](https://apertvs.ai/)
