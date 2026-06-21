@@ -13,6 +13,7 @@
 * [2026-06-18, 20:44:00](https://news.ycombinator.com/item?id=48591276) - [Guide to the TD4 4-bit DIY CPU](https://www.philipzucker.com/td4-4bit-cpu/)
 * [2026-06-18, 20:27:28](https://news.ycombinator.com/item?id=48591066) - [Zork name origin got an update on Wikipedia](https://www.dpolakovic.space/blogs/zork-part2#update)
 * [2026-06-18, 20:10:39](https://news.ycombinator.com/item?id=48590849) - [McMansions 101: What Makes a McMansion Bad Architecture?](https://mcmansionhell.com/post/148605513816/mcmansions-101-what-makes-a-mcmansion-bad)
+* [2026-06-18, 19:47:49](https://news.ycombinator.com/item?id=48590573) - [The Great Intermediary Panic](https://www.minid.net/2013/1/23/the-great-intermediary-panic)
 * [2026-06-18, 19:42:54](https://news.ycombinator.com/item?id=48590505) - [Show HN: Pagecast – Publish Markdown/HTML Reports to Cloudflare Pages](https://github.com/Amal-David/pagecast)
 * [2026-06-18, 19:25:46](https://news.ycombinator.com/item?id=48590280) - [Integer Quantization: Deep Dive](https://hello-fri-end.github.io/2026/06/integer-quantization-deep-dive/)
 * [2026-06-18, 18:31:23](https://news.ycombinator.com/item?id=48589501) - [I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M](https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/)
