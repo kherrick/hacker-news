@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-21, 20:17:48",
+      "https://news.ycombinator.com/item?id=48622234"
+    ],
+    [
+      "Ask for no, don't ask for yes (2022)",
+      "https://www.mooreds.com/wordpress/archives/3518"
+    ]
+  ],
+  [
+    [
       "2026-06-21, 19:06:07",
       "https://news.ycombinator.com/item?id=48621645"
     ],
@@ -27,6 +37,16 @@
     [
       "Wildcard (YC W25) is hiring an applied ML engineer",
       "https://www.ycombinator.com/companies/wildcard/jobs/SEmo4di-founding-applied-ml-engineer"
+    ]
+  ],
+  [
+    [
+      "2026-06-21, 17:00:26",
+      "https://news.ycombinator.com/item?id=48620502"
+    ],
+    [
+      "Tell HN: Happy Fathers Day",
+      "https://news.ycombinator.com/item?id=48620502"
     ]
   ],
   [
@@ -107,16 +127,6 @@
     [
       "A 3D voxel game engine written in APL",
       "https://github.com/namgyaaal/avoxelgame"
-    ]
-  ],
-  [
-    [
-      "2026-06-21, 06:24:52",
-      "https://news.ycombinator.com/item?id=48616173"
-    ],
-    [
-      "Windows UI evolution: Clicking an unassociated file",
-      "https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html"
     ]
   ],
   [
@@ -241,26 +251,6 @@
   ],
   [
     [
-      "2026-06-18, 16:29:52",
-      "https://news.ycombinator.com/item?id=48587865"
-    ],
-    [
-      "Two Qwen3 models on one DGX Spark: the residency math",
-      "https://www.devashish.me/p/two-qwen3-models-on-one-dgx-spark"
-    ]
-  ],
-  [
-    [
-      "2026-06-18, 16:12:21",
-      "https://news.ycombinator.com/item?id=48587619"
-    ],
-    [
-      "The Commodore Callback 8020 smart flip phone",
-      "https://www.wired.me/story/commodore-made-a-digital-detox-phone-that-isnt-dumb"
-    ]
-  ],
-  [
-    [
       "2026-06-18, 12:22:36",
       "https://news.ycombinator.com/item?id=48584261"
     ],
@@ -277,6 +267,16 @@
     [
       "Excessive nil pointer checks in Go",
       "https://konradreiche.com/blog/excessive-nil-pointer-checks-in-go/"
+    ]
+  ],
+  [
+    [
+      "2026-06-18, 08:47:48",
+      "https://news.ycombinator.com/item?id=48582629"
+    ],
+    [
+      "Djevops: Self-Host Django Easily",
+      "https://github.com/mherrmann/djevops"
     ]
   ],
   [
