@@ -15,6 +15,7 @@
 * [2026-06-21, 14:43:08](https://news.ycombinator.com/item?id=48619394) - [Fossil Fuels Are 40% of Freight Shipping Tonnage, but Half Its Fuel Use](https://cleantechnica.com/2026/06/16/shipping-freight-energy-fossil-cargo/)
 * [2026-06-21, 14:09:07](https://news.ycombinator.com/item?id=48619140) - [Who Owns Your ATProto Identity? Hint: It's Probably Not You](https://kevinak.se/blog/who-actually-owns-your-atproto-identity-hint-its-probably-not-you)
 * [2026-06-21, 13:51:31](https://news.ycombinator.com/item?id=48619005) - [AI Under Trump's Control: Can France Still Avoid Digital Dependence?](https://thenewassociationwebmasters.blogspot.com/2026/06/ai-under-american-control-can-france.html)
+* [2026-06-21, 12:44:13](https://news.ycombinator.com/item?id=48618455) - [Identity verification on Claude](https://support.claude.com/en/articles/14328960-identity-verification-on-claude)
 * [2026-06-21, 12:44:13](https://news.ycombinator.com/item?id=48618455) - [Anthropic to Require ID Verification for Certain Capabilities Starting July 8](https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_anthropic_to_require_identity/)
 * [2026-06-21, 12:42:24](https://news.ycombinator.com/item?id=48618442) - [Smashing the NIMBYs created modern capitalism](https://worksinprogress.co/issue/how-abolishing-the-stakeholder-state-caused-the-industrial-revolution/)
 * [2026-06-21, 12:11:29](https://news.ycombinator.com/item?id=48618226) - [David Ahl's Basic Computer Games Ported to C](https://github.com/proteanthread/bcg)
