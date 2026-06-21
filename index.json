@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-06-21, 21:40:53",
+      "https://news.ycombinator.com/item?id=48622867"
+    ],
+    [
+      "Did my old job only exist because of fraud?",
+      "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/"
+    ]
+  ],
+  [
+    [
       "2026-06-21, 21:30:25",
       "https://news.ycombinator.com/item?id=48622788"
     ],
@@ -191,6 +201,16 @@
   ],
   [
     [
+      "2026-06-20, 20:46:50",
+      "https://news.ycombinator.com/item?id=48612844"
+    ],
+    [
+      "Show HN: Pulse – Dashboard for Claude Code, approve tool calls from your phone",
+      "https://github.com/nikitadoudikov/claude-pulse"
+    ]
+  ],
+  [
+    [
       "2026-06-20, 12:08:23",
       "https://news.ycombinator.com/item?id=48608645"
     ],
@@ -207,16 +227,6 @@
     [
       "Show HN: TownSquare, a tiny presence layer for websites",
       "https://townsquare.cauenapier.com/"
-    ]
-  ],
-  [
-    [
-      "2026-06-19, 16:28:19",
-      "https://news.ycombinator.com/item?id=48600311"
-    ],
-    [
-      "Proportional-Integral-Derivative (PID) controllers",
-      "https://en.wikipedia.org/wiki/PID_controller"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Occupancy Math on the AMD MI355X: A From-First-Principles Guide",
       "https://indianspeedster.github.io/blog/occupancy-math-mi355x/"
-    ]
-  ],
-  [
-    [
-      "2026-06-17, 07:03:59",
-      "https://news.ycombinator.com/item?id=48566824"
-    ],
-    [
-      "System call instrumentation on Linux/x86‑64 using memory‑indirect calls, part I",
-      "https://www.humprog.org/~stephen/blog/2026/06/15/#system-call-instrumentation-on-intel-negative-result"
     ]
   ]
 ]
