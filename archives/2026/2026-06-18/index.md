@@ -48,6 +48,7 @@
 * [2026-06-18, 11:04:31](https://news.ycombinator.com/item?id=48583606) - [Advanced Compilers: The Self-Guided Online Course](https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/)
 * [2026-06-18, 10:33:22](https://news.ycombinator.com/item?id=48583386) - [Hospitals and universities repurposing drugs at 90% lower cost](https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost)
 * [2026-06-18, 10:29:20](https://news.ycombinator.com/item?id=48583356) - [.gitignore Isn't the Only Way to Ignore Files in Git](https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/)
+* [2026-06-18, 09:23:16](https://news.ycombinator.com/item?id=48582894) - [Whole cross-sectional human ultrasound tomography](https://www.nature.com/articles/s41551-026-01660-4)
 * [2026-06-18, 09:08:04](https://news.ycombinator.com/item?id=48582794) - [Seven Perfect Shuffles Randomize a Deck of Cards. But How Many Sloppy Ones?](https://www.quantamagazine.org/seven-perfect-shuffles-randomize-a-deck-of-cards-but-how-many-sloppy-ones-20260617/)
 * [2026-06-18, 08:52:45](https://news.ycombinator.com/item?id=48582679) - [Ask HN: Is anyone using the A2A protocol?](https://news.ycombinator.com/item?id=48582679)
 * [2026-06-18, 08:28:04](https://news.ycombinator.com/item?id=48582464) - [I need your clothes, your boots, and your motorcycle](https://rbelmont.mameworld.info/?p=1725)
