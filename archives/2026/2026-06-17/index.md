@@ -59,6 +59,7 @@
 * [2026-06-17, 09:28:36](https://news.ycombinator.com/item?id=48567877) - [Show HN: High-Res Neural Cellular Automata](https://cells2pixels.github.io/)
 * [2026-06-17, 09:12:00](https://news.ycombinator.com/item?id=48567759) - [GLM-5.2 is the new leading open weights model on Artificial Analysis](https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index)
 * [2026-06-17, 07:49:44](https://news.ycombinator.com/item?id=48567155) - [Hacker News but for Independent Blogs](https://bubbles.town/)
+* [2026-06-17, 07:33:29](https://news.ycombinator.com/item?id=48567028) - [Minecraft: Java Edition 26.2, the first version with Vulkan 1.2](https://www.minecraft.net/en-us/article/minecraft-java-edition-26-2)
 * [2026-06-17, 07:30:51](https://news.ycombinator.com/item?id=48567004) - [GLM 5.2 Performance Benchmarks](https://artificialanalysis.ai/models/glm-5-2)
 * [2026-06-17, 07:04:42](https://news.ycombinator.com/item?id=48566832) - [The founder's playbook: Building an AI-native startup](https://claude.com/blog/the-founders-playbook)
 * [2026-06-17, 07:03:59](https://news.ycombinator.com/item?id=48566824) - [System call instrumentation on Linux/x86‑64 using memory‑indirect calls, part I](https://www.humprog.org/~stephen/blog/2026/06/15/#system-call-instrumentation-on-intel-negative-result)

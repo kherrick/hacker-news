@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-21](index.md)
 
+* [2026-06-21, 22:53:50](https://news.ycombinator.com/item?id=48623419) - [Simple hard way to conjugate Japanese verbs](https://underreacted.leaflet.pub/3mmevu6woys27)
+* [2026-06-21, 22:16:17](https://news.ycombinator.com/item?id=48623159) - [I Gave an AI a Civilization to Run. It Built a Nuke – Launching CivBench](https://www.lwilko.com/blog/i-gave-an-ai-a-civilization)
 * [2026-06-21, 21:54:34](https://news.ycombinator.com/item?id=48622987) - [Rent collections are down in New York – and no one's sure why](https://www.politico.com/news/2026/06/21/rent-collections-are-down-in-new-york-and-no-ones-sure-why-00966982)
 * [2026-06-21, 21:40:53](https://news.ycombinator.com/item?id=48622867) - [Did my old job only exist because of fraud?](https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/)
 * [2026-06-21, 21:34:19](https://news.ycombinator.com/item?id=48622815) - [The Anatomy of an AI-Native Org](https://ajeygore.in/content/the-anatomy-of-an-ai-native-org)

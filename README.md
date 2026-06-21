@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-06-21, 21:54:34](https://news.ycombinator.com/item?id=48622987) - [Rent collections are down in New York – and no one's sure why](https://www.politico.com/news/2026/06/21/rent-collections-are-down-in-new-york-and-no-ones-sure-why-00966982)
+* [2026-06-21, 22:53:50](https://news.ycombinator.com/item?id=48623419) - [Simple hard way to conjugate Japanese verbs](https://underreacted.leaflet.pub/3mmevu6woys27)
+* [2026-06-21, 22:16:17](https://news.ycombinator.com/item?id=48623159) - [I Gave an AI a Civilization to Run. It Built a Nuke – Launching CivBench](https://www.lwilko.com/blog/i-gave-an-ai-a-civilization)
+* [2026-06-21, 21:54:34](https://news.ycombinator.com/item?id=48622987) - [Rent collections are down in New York](https://www.politico.com/news/2026/06/21/rent-collections-are-down-in-new-york-and-no-ones-sure-why-00966982)
 * [2026-06-21, 21:40:53](https://news.ycombinator.com/item?id=48622867) - [Did my old job only exist because of fraud?](https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/)
 * [2026-06-21, 21:30:25](https://news.ycombinator.com/item?id=48622788) - [FDA advisors unanimously vote to approve Moderna's mRNA after agency drama](https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/)
 * [2026-06-21, 21:29:43](https://news.ycombinator.com/item?id=48622778) - [Apertus – Open Foundation Model for Sovereign AI](https://apertvs.ai/)
@@ -20,16 +22,14 @@
 * [2026-06-21, 11:38:01](https://news.ycombinator.com/item?id=48617990) - [Beyond All Reason (Free Total Annihilation Inspired RTS)](https://www.beyondallreason.info)
 * [2026-06-21, 08:04:54](https://news.ycombinator.com/item?id=48616713) - [A 3D voxel game engine written in APL](https://github.com/namgyaaal/avoxelgame)
 * [2026-06-21, 01:35:40](https://news.ycombinator.com/item?id=48614844) - [Developers don't understand CORS (2019)](https://fosterelli.co/developers-dont-understand-cors)
-* [2026-06-20, 20:46:50](https://news.ycombinator.com/item?id=48612844) - [Show HN: Pulse – Dashboard for Claude Code, approve tool calls from your phone](https://github.com/nikitadoudikov/claude-pulse)
 * [2026-06-20, 12:08:23](https://news.ycombinator.com/item?id=48608645) - [Loupe – A iOS app that raises awareness about what native apps can see](https://github.com/mysk-research/loupe)
-* [2026-06-20, 11:55:03](https://news.ycombinator.com/item?id=48608570) - [Show HN: TownSquare, a tiny presence layer for websites](https://townsquare.cauenapier.com/)
-* [2026-06-19, 15:13:11](https://news.ycombinator.com/item?id=48599555) - [Running MicroVMs in Proxmox VE, the Easy Way](https://taoofmac.com/space/blog/2026/06/18/1845)
 * [2026-06-19, 11:59:56](https://news.ycombinator.com/item?id=48597592) - [Cocktail Optimization, an Integer Programming Problem](https://bunkum.us/2026/06/18/cocktail-ingredients-milp)
 * [2026-06-19, 02:10:16](https://news.ycombinator.com/item?id=48594090) - [An Embedded Linux on a Single Floppy](https://github.com/w84death/floppinux)
 * [2026-06-18, 12:22:36](https://news.ycombinator.com/item?id=48584261) - [15-minute at-home Lyme disease tick test](https://www.bostonglobe.com/2026/06/17/business/lyme-disease-tick-test/)
 * [2026-06-18, 08:47:48](https://news.ycombinator.com/item?id=48582629) - [Djevops: Self-Host Django Easily](https://github.com/mherrmann/djevops)
 * [2026-06-18, 00:36:52](https://news.ycombinator.com/item?id=48579013) - [HPV jabs cut risk of dying from cervical cancer before 30 to almost zero](https://www.theguardian.com/society/2026/jun/17/hpv-jabs-reduce-risk-dying-cervical-cancer-before-30-zero-study-finds)
 * [2026-06-17, 14:35:23](https://news.ycombinator.com/item?id=48571136) - [Occupancy Math on the AMD MI355X: A From-First-Principles Guide](https://indianspeedster.github.io/blog/occupancy-math-mi355x/)
+* [2026-06-17, 07:33:29](https://news.ycombinator.com/item?id=48567028) - [Minecraft: Java Edition 26.2, the first version with Vulkan 1.2](https://www.minecraft.net/en-us/article/minecraft-java-edition-26-2)
 
 ## [Archives](archives/index.md)
 
