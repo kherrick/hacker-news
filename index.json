@@ -11,22 +11,12 @@
   ],
   [
     [
-      "2026-06-21, 11:50:37",
-      "https://news.ycombinator.com/item?id=48618086"
+      "2026-06-21, 12:11:29",
+      "https://news.ycombinator.com/item?id=48618226"
     ],
     [
-      "100 Greatest Bird Names of All Time",
-      "https://birdhistory.substack.com/p/the-100-greatest-bird-names-of-all"
-    ]
-  ],
-  [
-    [
-      "2026-06-21, 11:38:09",
-      "https://news.ycombinator.com/item?id=48617991"
-    ],
-    [
-      "Foreign-Born Entrepreneurs Drive America's Unicorn Boom",
-      "https://news.crunchbase.com/venture/foreign-born-entrepreneurs-drive-americas-unicorn-boom-strebulaev-stanford/"
+      "David Ahl's Basic Computer Games Ported to C",
+      "https://github.com/proteanthread/bcg"
     ]
   ],
   [
@@ -47,16 +37,6 @@
     [
       "The case against geometric algebra (2024)",
       "https://alexkritchevsky.com/2024/02/28/geometric-algebra.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-21, 10:52:58",
-      "https://news.ycombinator.com/item?id=48617686"
-    ],
-    [
-      "TypeScript 7 RC: the compiler rewritten in Go, around 10x faster",
-      "https://jatniel.dev/en/bytes/typescript-7-rc-the-compiler-rewritten-in-go-around-10x-faster"
     ]
   ],
   [
@@ -211,6 +191,16 @@
   ],
   [
     [
+      "2026-06-20, 11:19:05",
+      "https://news.ycombinator.com/item?id=48608394"
+    ],
+    [
+      "Temporary Cloudflare accounts for AI agents",
+      "https://blog.cloudflare.com/temporary-accounts/"
+    ]
+  ],
+  [
+    [
       "2026-06-19, 16:28:19",
       "https://news.ycombinator.com/item?id=48600311"
     ],
@@ -237,6 +227,16 @@
     [
       "Guide to the TD4 4-bit DIY CPU",
       "https://www.philipzucker.com/td4-4bit-cpu/"
+    ]
+  ],
+  [
+    [
+      "2026-06-18, 16:29:52",
+      "https://news.ycombinator.com/item?id=48587865"
+    ],
+    [
+      "Two Qwen3 models on one DGX Spark: the residency math",
+      "https://www.devashish.me/p/two-qwen3-models-on-one-dgx-spark"
     ]
   ],
   [
