@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-21, 17:28:16",
+      "https://news.ycombinator.com/item?id=48620776"
+    ],
+    [
+      "Health Insurance Claim Denial Rates Range from 13% to 35% by Insurer",
+      "https://www.randalolson.com/2026/06/16/aca-insurer-claim-denial-rates/"
+    ]
+  ],
+  [
+    [
       "2026-06-21, 17:00:28",
       "https://news.ycombinator.com/item?id=48620504"
     ],
@@ -21,12 +31,22 @@
   ],
   [
     [
-      "2026-06-21, 16:14:54",
-      "https://news.ycombinator.com/item?id=48620142"
+      "2026-06-21, 16:56:18",
+      "https://news.ycombinator.com/item?id=48620462"
     ],
     [
-      "AI Has Broken Hiring",
-      "https://hbr.org/2026/06/ai-has-broken-hiring-heres-how-to-fix-it"
+      "Burnout Is Real in the OSS World, Says John-David Dalton, Creator of Lodash",
+      "https://openjsf.org/blog/burnout-is-real-for-open-source-maintainers"
+    ]
+  ],
+  [
+    [
+      "2026-06-21, 16:41:21",
+      "https://news.ycombinator.com/item?id=48620342"
+    ],
+    [
+      "The Minimum Viable Unit of Saleable Software",
+      "https://brandur.org/minimum-viable-unit"
     ]
   ],
   [
@@ -67,16 +87,6 @@
     [
       "Who Owns Your ATProto Identity? Hint: It's Probably Not You",
       "https://kevinak.se/blog/who-actually-owns-your-atproto-identity-hint-its-probably-not-you"
-    ]
-  ],
-  [
-    [
-      "2026-06-21, 12:11:29",
-      "https://news.ycombinator.com/item?id=48618226"
-    ],
-    [
-      "David Ahl's Basic Computer Games Ported to C",
-      "https://github.com/proteanthread/bcg"
     ]
   ],
   [
@@ -161,22 +171,22 @@
   ],
   [
     [
+      "2026-06-20, 20:46:50",
+      "https://news.ycombinator.com/item?id=48612844"
+    ],
+    [
+      "Show HN: Pulse – Dashboard for Claude Code, approve tool calls from your phone",
+      "https://github.com/nikitadoudikov/claude-pulse"
+    ]
+  ],
+  [
+    [
       "2026-06-20, 20:05:03",
       "https://news.ycombinator.com/item?id=48612502"
     ],
     [
       "Unauthorized alert sent to cell phones across Brazil",
       "https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam"
-    ]
-  ],
-  [
-    [
-      "2026-06-20, 17:04:24",
-      "https://news.ycombinator.com/item?id=48610853"
-    ],
-    [
-      "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
-      "https://www.lispm.net/apps/uhf-x11/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "System call instrumentation on Linux/x86‑64 using memory‑indirect calls, part I",
       "https://www.humprog.org/~stephen/blog/2026/06/15/#system-call-instrumentation-on-intel-negative-result"
-    ]
-  ],
-  [
-    [
-      "2026-06-16, 18:46:10",
-      "https://news.ycombinator.com/item?id=48560050"
-    ],
-    [
-      "Rare medieval bookmark exceeds expectations at auction",
-      "https://www.thehistoryblog.com/archives/76314"
     ]
   ]
 ]
