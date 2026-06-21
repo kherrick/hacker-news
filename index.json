@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-21, 18:51:47",
+      "https://news.ycombinator.com/item?id=48621517"
+    ],
+    [
+      "JSON-LD Explained for Personal Websites",
+      "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/"
+    ]
+  ],
+  [
+    [
       "2026-06-21, 17:00:28",
       "https://news.ycombinator.com/item?id=48620504"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=48620462"
     ],
     [
-      "Burnout Is Real in the OSS World, Says John-David Dalton, Creator of Lodash",
+      "Burnout is real for open source maintainers",
       "https://openjsf.org/blog/burnout-is-real-for-open-source-maintainers"
     ]
   ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=48620342"
     ],
     [
-      "The Minimum Viable Unit of Saleable Software",
+      "The minimum viable unit of saleable software",
       "https://brandur.org/minimum-viable-unit"
     ]
   ],
@@ -71,16 +81,6 @@
   ],
   [
     [
-      "2026-06-21, 12:49:48",
-      "https://news.ycombinator.com/item?id=48618488"
-    ],
-    [
-      "Show HN: Teach your kids perfect pitch",
-      "https://github.com/paytonjjones/bsharp"
-    ]
-  ],
-  [
-    [
       "2026-06-21, 12:44:13",
       "https://news.ycombinator.com/item?id=48618455"
     ],
@@ -117,16 +117,6 @@
     [
       "Windows UI evolution: Clicking an unassociated file",
       "https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-21, 05:45:21",
-      "https://news.ycombinator.com/item?id=48616017"
-    ],
-    [
-      "The 100k whys of AI",
-      "https://lcamtuf.substack.com/p/the-100000-whys-of-ai"
     ]
   ],
   [
@@ -211,6 +201,16 @@
   ],
   [
     [
+      "2026-06-19, 16:28:19",
+      "https://news.ycombinator.com/item?id=48600311"
+    ],
+    [
+      "Proportional-Integral-Derivative (PID) controllers",
+      "https://en.wikipedia.org/wiki/PID_controller"
+    ]
+  ],
+  [
+    [
       "2026-06-19, 15:13:11",
       "https://news.ycombinator.com/item?id=48599555"
     ],
@@ -271,22 +271,22 @@
   ],
   [
     [
-      "2026-06-17, 17:43:22",
-      "https://news.ycombinator.com/item?id=48573902"
-    ],
-    [
-      "Zigzag Decoding with AVX-512",
-      "https://zeux.io/2026/06/17/zigzag-decoding-avx512/"
-    ]
-  ],
-  [
-    [
       "2026-06-17, 14:35:23",
       "https://news.ycombinator.com/item?id=48571136"
     ],
     [
       "Occupancy Math on the AMD MI355X: A From-First-Principles Guide",
       "https://indianspeedster.github.io/blog/occupancy-math-mi355x/"
+    ]
+  ],
+  [
+    [
+      "2026-06-17, 12:57:03",
+      "https://news.ycombinator.com/item?id=48569843"
+    ],
+    [
+      "Ocient Database Sandbox",
+      "https://ociforge.com"
     ]
   ],
   [
