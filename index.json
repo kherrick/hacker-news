@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-06-21, 12:44:13",
-      "https://news.ycombinator.com/item?id=48618455"
+      "2026-06-21, 14:09:07",
+      "https://news.ycombinator.com/item?id=48619140"
     ],
     [
-      "Anthropic to Require ID Verification for Certain Capabilities Starting July 8",
-      "https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_anthropic_to_require_identity/"
+      "Who Owns Your ATProto Identity? Hint: It's Probably Not You",
+      "https://kevinak.se/blog/who-actually-owns-your-atproto-identity-hint-its-probably-not-you"
+    ]
+  ],
+  [
+    [
+      "2026-06-21, 13:51:31",
+      "https://news.ycombinator.com/item?id=48619005"
+    ],
+    [
+      "AI Under Trump's Control: Can France Still Avoid Digital Dependence?",
+      "https://thenewassociationwebmasters.blogspot.com/2026/06/ai-under-american-control-can-france.html"
     ]
   ],
   [
@@ -67,16 +77,6 @@
     [
       "Windows UI evolution: Clicking an unassociated file",
       "https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-21, 04:28:39",
-      "https://news.ycombinator.com/item?id=48615680"
-    ],
-    [
-      "Building reliable agentic AI systems",
-      "https://martinfowler.com/articles/reliable-llm-bayer.html"
     ]
   ],
   [
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2026-06-20, 11:19:05",
-      "https://news.ycombinator.com/item?id=48608394"
-    ],
-    [
-      "Temporary Cloudflare accounts for AI agents",
-      "https://blog.cloudflare.com/temporary-accounts/"
-    ]
-  ],
-  [
-    [
       "2026-06-19, 16:28:19",
       "https://news.ycombinator.com/item?id=48600311"
     ],
@@ -227,6 +217,16 @@
     [
       "Guide to the TD4 4-bit DIY CPU",
       "https://www.philipzucker.com/td4-4bit-cpu/"
+    ]
+  ],
+  [
+    [
+      "2026-06-18, 19:47:49",
+      "https://news.ycombinator.com/item?id=48590573"
+    ],
+    [
+      "The Great Intermediary Panic",
+      "https://www.minid.net/2013/1/23/the-great-intermediary-panic"
     ]
   ],
   [
