@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-21, 16:14:54",
+      "https://news.ycombinator.com/item?id=48620142"
+    ],
+    [
+      "AI Has Broken Hiring",
+      "https://hbr.org/2026/06/ai-has-broken-hiring-heres-how-to-fix-it"
+    ]
+  ],
+  [
+    [
+      "2026-06-21, 16:08:23",
+      "https://news.ycombinator.com/item?id=48620090"
+    ],
+    [
+      "Code duplication is far cheaper than the wrong abstraction",
+      "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction"
+    ]
+  ],
+  [
+    [
       "2026-06-21, 15:36:33",
       "https://news.ycombinator.com/item?id=48619831"
     ],
@@ -77,16 +97,6 @@
     [
       "A 3D voxel game engine written in APL",
       "https://github.com/namgyaaal/avoxelgame"
-    ]
-  ],
-  [
-    [
-      "2026-06-21, 06:24:52",
-      "https://news.ycombinator.com/item?id=48616173"
-    ],
-    [
-      "Windows UI evolution: Clicking an unassociated file",
-      "https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Running MicroVMs in Proxmox VE, the Easy Way",
       "https://taoofmac.com/space/blog/2026/06/18/1845"
-    ]
-  ],
-  [
-    [
-      "2026-06-18, 20:44:00",
-      "https://news.ycombinator.com/item?id=48591276"
-    ],
-    [
-      "Guide to the TD4 4-bit DIY CPU",
-      "https://www.philipzucker.com/td4-4bit-cpu/"
     ]
   ],
   [
