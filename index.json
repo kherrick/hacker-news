@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-21, 08:04:54",
+      "https://news.ycombinator.com/item?id=48616713"
+    ],
+    [
+      "A 3D voxel game engine written in APL",
+      "https://github.com/namgyaaal/avoxelgame"
+    ]
+  ],
+  [
+    [
       "2026-06-21, 05:45:21",
       "https://news.ycombinator.com/item?id=48616017"
     ],
@@ -17,6 +27,16 @@
     [
       "The Lost Story of Alan Turing's \"Delilah\" Project",
       "https://spectrum.ieee.org/alan-turings-delilah"
+    ]
+  ],
+  [
+    [
+      "2026-06-21, 04:50:46",
+      "https://news.ycombinator.com/item?id=48615776"
+    ],
+    [
+      "Public Service Announcement: Don't Say You Use AI for Writing",
+      "https://www.satisfice.com/blog/archives/488148"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2026-06-20, 19:01:10",
-      "https://news.ycombinator.com/item?id=48611942"
-    ],
-    [
-      "PostgresBench: A Reproducible Benchmark for Postgres Services",
-      "https://clickhouse.com/blog/postgresbench"
-    ]
-  ],
-  [
-    [
       "2026-06-20, 17:04:24",
       "https://news.ycombinator.com/item?id=48610853"
     ],
@@ -211,22 +221,32 @@
   ],
   [
     [
-      "2026-06-20, 11:44:52",
-      "https://news.ycombinator.com/item?id=48608515"
-    ],
-    [
-      "The rise of South Korea’s weapons business",
-      "https://www.politico.com/news/magazine/2026/06/20/south-korea-weapons-dealer-trump-00959559"
-    ]
-  ],
-  [
-    [
       "2026-06-20, 11:19:05",
       "https://news.ycombinator.com/item?id=48608394"
     ],
     [
       "Temporary Cloudflare accounts for AI agents",
       "https://blog.cloudflare.com/temporary-accounts/"
+    ]
+  ],
+  [
+    [
+      "2026-06-19, 16:28:19",
+      "https://news.ycombinator.com/item?id=48600311"
+    ],
+    [
+      "Proportional-Integral-Derivative Controllers",
+      "https://en.wikipedia.org/wiki/PID_controller"
+    ]
+  ],
+  [
+    [
+      "2026-06-19, 15:13:11",
+      "https://news.ycombinator.com/item?id=48599555"
+    ],
+    [
+      "Running MicroVMs in Proxmox VE, the Easy Way",
+      "https://taoofmac.com/space/blog/2026/06/18/1845"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Zigzag Decoding with AVX-512",
       "https://zeux.io/2026/06/17/zigzag-decoding-avx512/"
-    ]
-  ],
-  [
-    [
-      "2026-06-17, 01:51:07",
-      "https://news.ycombinator.com/item?id=48564763"
-    ],
-    [
-      "NOLA 'Nacular: One man's crusade to preserve New Orleans's vernacular signage",
-      "https://countryroadsmagazine.com/art-and-culture/people-places/nola-nacular/"
-    ]
-  ],
-  [
-    [
-      "2026-06-16, 12:31:02",
-      "https://news.ycombinator.com/item?id=48554206"
-    ],
-    [
-      "Semiconductor Lifeline Keeps Fighter Jets in the Air",
-      "https://spectrum.ieee.org/phoenix-semiconductors-legacychips-oems"
     ]
   ]
 ]
