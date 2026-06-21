@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-21](index.md)
 
+* [2026-06-21, 18:51:47](https://news.ycombinator.com/item?id=48621517) - [JSON-LD Explained for Personal Websites](https://hawksley.dev/blog/json-ld-explained-for-personal-websites/)
 * [2026-06-21, 17:28:16](https://news.ycombinator.com/item?id=48620776) - [Health Insurance Claim Denial Rates Range from 13% to 35% by Insurer](https://www.randalolson.com/2026/06/16/aca-insurer-claim-denial-rates/)
 * [2026-06-21, 17:00:28](https://news.ycombinator.com/item?id=48620504) - [Wildcard (YC W25) Is Hiring a Founding Applied ML Engineer](https://www.ycombinator.com/companies/wildcard/jobs/SEmo4di-founding-applied-ml-engineer)
 * [2026-06-21, 17:00:26](https://news.ycombinator.com/item?id=48620502) - [Tell HN: Happy Fathers Day to all the fathers, uncles, anyone in that role!](https://news.ycombinator.com/item?id=48620502)

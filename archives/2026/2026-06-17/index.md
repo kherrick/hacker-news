@@ -45,6 +45,7 @@
 * [2026-06-17, 13:34:42](https://news.ycombinator.com/item?id=48570364) - [Show HN: Microcrad – Micrograd Reimplemented in C](https://github.com/oraziorillo/microcrad)
 * [2026-06-17, 13:05:03](https://news.ycombinator.com/item?id=48569954) - [Want your images back? Sure... That'll be $5!](https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars)
 * [2026-06-17, 13:00:38](https://news.ycombinator.com/item?id=48569894) - [Why thinking out loud with someone beats thinking alone](https://www.thesignalist.io/s/the-dialogue-dividend/)
+* [2026-06-17, 12:57:03](https://news.ycombinator.com/item?id=48569843) - [Ocient Database Sandbox](https://ociforge.com)
 * [2026-06-17, 12:45:10](https://news.ycombinator.com/item?id=48569677) - [Human Judgment as a Specification](https://blog.brownplt.org/2026/06/09/pick.html)
 * [2026-06-17, 12:15:04](https://news.ycombinator.com/item?id=48569309) - [Cosmodial Sky Atlas](https://frankforce.com/cosmodial-sky-atlas/)
 * [2026-06-17, 12:11:27](https://news.ycombinator.com/item?id=48569278) - [Sixty percent of US consumers say 'AI' in brand messaging is a turnoff](https://wpvip.com/future-of-the-web-2026/)
