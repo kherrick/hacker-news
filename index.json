@@ -1,22 +1,32 @@
 [
   [
     [
+      "2026-06-21, 15:36:33",
+      "https://news.ycombinator.com/item?id=48619831"
+    ],
+    [
+      "(How to Write a (Lisp) Interpreter (In Python))",
+      "https://norvig.com/lispy.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-21, 14:43:08",
+      "https://news.ycombinator.com/item?id=48619394"
+    ],
+    [
+      "Fossil Fuels Are 40% of Freight Shipping Tonnage, but Half Its Fuel Use",
+      "https://cleantechnica.com/2026/06/16/shipping-freight-energy-fossil-cargo/"
+    ]
+  ],
+  [
+    [
       "2026-06-21, 14:09:07",
       "https://news.ycombinator.com/item?id=48619140"
     ],
     [
       "Who Owns Your ATProto Identity? Hint: It's Probably Not You",
       "https://kevinak.se/blog/who-actually-owns-your-atproto-identity-hint-its-probably-not-you"
-    ]
-  ],
-  [
-    [
-      "2026-06-21, 12:42:24",
-      "https://news.ycombinator.com/item?id=48618442"
-    ],
-    [
-      "Smashing the NIMBYs created modern capitalism",
-      "https://worksinprogress.co/issue/how-abolishing-the-stakeholder-state-caused-the-industrial-revolution/"
     ]
   ],
   [
@@ -81,6 +91,16 @@
   ],
   [
     [
+      "2026-06-21, 04:28:39",
+      "https://news.ycombinator.com/item?id=48615680"
+    ],
+    [
+      "Building reliable agentic AI systems",
+      "https://martinfowler.com/articles/reliable-llm-bayer.html"
+    ]
+  ],
+  [
+    [
       "2026-06-21, 01:35:40",
       "https://news.ycombinator.com/item?id=48614844"
     ],
@@ -117,16 +137,6 @@
     [
       "Slow breathing modulates brain function and risk behavior",
       "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9"
-    ]
-  ],
-  [
-    [
-      "2026-06-20, 20:32:54",
-      "https://news.ycombinator.com/item?id=48612740"
-    ],
-    [
-      "Alice is impatient",
-      "https://brooker.co.za/blog/2026/06/19/waiting.html"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Loupe – A iOS app that raises awareness about what native apps can see",
       "https://github.com/mysk-research/loupe"
-    ]
-  ],
-  [
-    [
-      "2026-06-20, 11:19:05",
-      "https://news.ycombinator.com/item?id=48608394"
-    ],
-    [
-      "Temporary Cloudflare accounts for AI agents",
-      "https://blog.cloudflare.com/temporary-accounts/"
     ]
   ],
   [
@@ -271,22 +271,22 @@
   ],
   [
     [
-      "2026-06-17, 12:15:04",
-      "https://news.ycombinator.com/item?id=48569309"
-    ],
-    [
-      "Cosmodial Sky Atlas",
-      "https://frankforce.com/cosmodial-sky-atlas/"
-    ]
-  ],
-  [
-    [
       "2026-06-17, 10:14:53",
       "https://news.ycombinator.com/item?id=48568181"
     ],
     [
       "A tale of two path separators",
       "https://alexwlchan.net/2021/slashes/"
+    ]
+  ],
+  [
+    [
+      "2026-06-17, 07:03:59",
+      "https://news.ycombinator.com/item?id=48566824"
+    ],
+    [
+      "System call instrumentation on Linux/x86‑64 using memory‑indirect calls, part I",
+      "https://www.humprog.org/~stephen/blog/2026/06/15/#system-call-instrumentation-on-intel-negative-result"
     ]
   ],
   [
