@@ -35,6 +35,7 @@
 * [2026-06-17, 15:15:34](https://news.ycombinator.com/item?id=48571660) - [Anthropic employees accuse Trump administration of targeting them](https://www.nytimes.com/2026/06/17/technology/anthropic-trump-administration-fable.html)
 * [2026-06-17, 15:04:47](https://news.ycombinator.com/item?id=48571526) - [Volkswagen started blocking GrapheneOS users](https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3)
 * [2026-06-17, 14:45:09](https://news.ycombinator.com/item?id=48571266) - [Why stdx is not on crates.io](https://kerkour.com/stdx-cratesio)
+* [2026-06-17, 14:35:23](https://news.ycombinator.com/item?id=48571136) - [Occupancy Math on the AMD MI355X: A From-First-Principles Guide](https://indianspeedster.github.io/blog/occupancy-math-mi355x/)
 * [2026-06-17, 14:30:27](https://news.ycombinator.com/item?id=48571081) - [Epic Games announces Lore version control system](https://lore.org/)
 * [2026-06-17, 14:26:07](https://news.ycombinator.com/item?id=48571016) - [Pentagon boasts of using AI to write reports mandated by Congress (1.5mil users)](https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/)
 * [2026-06-17, 14:20:44](https://news.ycombinator.com/item?id=48570948) - [AI demands more engineering discipline. Not less](https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline)
