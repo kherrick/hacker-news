@@ -24,6 +24,7 @@
 * [2026-06-18, 16:55:25](https://news.ycombinator.com/item?id=48588216) - [The founder of Craigslist has given away half a billion dollars](https://www.independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html)
 * [2026-06-18, 16:44:04](https://news.ycombinator.com/item?id=48588072) - [Securing the Future of AI Agents](https://deepmind.google/blog/securing-the-future-of-ai-agents/)
 * [2026-06-18, 16:29:52](https://news.ycombinator.com/item?id=48587865) - [Two Qwen3 models on one DGX Spark: the residency math](https://www.devashish.me/p/two-qwen3-models-on-one-dgx-spark)
+* [2026-06-18, 16:12:21](https://news.ycombinator.com/item?id=48587619) - [Commodore Made a Digital Detox Phone That Isn't Dumb](https://www.wired.me/story/commodore-made-a-digital-detox-phone-that-isnt-dumb)
 * [2026-06-18, 16:09:54](https://news.ycombinator.com/item?id=48587584) - [Mencius](https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/265d73a0-6bfa-45df-92ff-4e7d3f8be4b1/content)
 * [2026-06-18, 16:05:58](https://news.ycombinator.com/item?id=48587527) - [The Harajuku Moment](https://tim.blog/2024/02/09/harajuku-moment/)
 * [2026-06-18, 15:23:30](https://news.ycombinator.com/item?id=48586811) - [Show HN: 10x better performance from the Coding Harnesses with LLM-wiki](https://llm-wiki.net/)
