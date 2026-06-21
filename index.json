@@ -1,11 +1,31 @@
 [
   [
     [
+      "2026-06-21, 05:45:21",
+      "https://news.ycombinator.com/item?id=48616017"
+    ],
+    [
+      "The 100k Whys of AI",
+      "https://lcamtuf.substack.com/p/the-100000-whys-of-ai"
+    ]
+  ],
+  [
+    [
+      "2026-06-21, 05:15:33",
+      "https://news.ycombinator.com/item?id=48615890"
+    ],
+    [
+      "The Lost Story of Alan Turing's \"Delilah\" Project",
+      "https://spectrum.ieee.org/alan-turings-delilah"
+    ]
+  ],
+  [
+    [
       "2026-06-21, 04:28:39",
       "https://news.ycombinator.com/item?id=48615680"
     ],
     [
-      "Building Reliable Agentic AI Systems",
+      "Building reliable agentic AI systems",
       "https://martinfowler.com/articles/reliable-llm-bayer.html"
     ]
   ],
@@ -131,26 +151,6 @@
   ],
   [
     [
-      "2026-06-20, 18:17:58",
-      "https://news.ycombinator.com/item?id=48611513"
-    ],
-    [
-      "Show HN: Make PDFs look scanned (CLI or in the browser via WASM)",
-      "https://github.com/overflowy/make-look-scanned"
-    ]
-  ],
-  [
-    [
-      "2026-06-20, 18:05:31",
-      "https://news.ycombinator.com/item?id=48611411"
-    ],
-    [
-      "The Wholesale Plagiarism of Obscure Sorrows",
-      "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/"
-    ]
-  ],
-  [
-    [
       "2026-06-20, 17:04:24",
       "https://news.ycombinator.com/item?id=48610853"
     ],
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2026-06-18, 10:36:32",
+      "https://news.ycombinator.com/item?id=48583407"
+    ],
+    [
+      "Excessive nil pointer checks in Go",
+      "https://konradreiche.com/blog/excessive-nil-pointer-checks-in-go/"
+    ]
+  ],
+  [
+    [
       "2026-06-18, 09:23:16",
       "https://news.ycombinator.com/item?id=48582894"
     ],
@@ -277,16 +287,6 @@
     [
       "NOLA 'Nacular: One man's crusade to preserve New Orleans's vernacular signage",
       "https://countryroadsmagazine.com/art-and-culture/people-places/nola-nacular/"
-    ]
-  ],
-  [
-    [
-      "2026-06-16, 18:57:29",
-      "https://news.ycombinator.com/item?id=48560227"
-    ],
-    [
-      "Inference cost at scale with napkin math",
-      "https://injuly.in/blog/napkin-inference-cost/index.html"
     ]
   ],
   [
