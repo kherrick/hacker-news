@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-06-21, 01:35:40",
+      "https://news.ycombinator.com/item?id=48614844"
+    ],
+    [
+      "Developers don't understand CORS (2019)",
+      "https://fosterelli.co/developers-dont-understand-cors"
+    ]
+  ],
+  [
+    [
+      "2026-06-21, 01:29:53",
+      "https://news.ycombinator.com/item?id=48614809"
+    ],
+    [
+      "White House delays US voting-machine vulnerability report",
+      "https://www.reuters.com/world/white-house-delays-release-us-voting-machine-study-midterms-near-2026-06-19/"
+    ]
+  ],
+  [
+    [
+      "2026-06-21, 00:58:13",
+      "https://news.ycombinator.com/item?id=48614631"
+    ],
+    [
+      "When I reject AI code even if it works",
+      "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/"
+    ]
+  ],
+  [
+    [
       "2026-06-21, 00:12:49",
       "https://news.ycombinator.com/item?id=48614390"
     ],
@@ -37,16 +67,6 @@
     [
       "Renting a sewing machine from the library",
       "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland"
-    ]
-  ],
-  [
-    [
-      "2026-06-20, 22:36:23",
-      "https://news.ycombinator.com/item?id=48613631"
-    ],
-    [
-      "Pre-2022 Books",
-      "https://notes.lorenzogravina.com/musings/pre-2022-books"
     ]
   ],
   [
@@ -97,16 +117,6 @@
     [
       "Unauthorized alert sent to cell phones across Brazil",
       "https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam"
-    ]
-  ],
-  [
-    [
-      "2026-06-20, 19:18:48",
-      "https://news.ycombinator.com/item?id=48612095"
-    ],
-    [
-      "Show HN: My Windows XP portfolio with working Game Boy and iPod",
-      "https://mitchivin.com/"
     ]
   ],
   [
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2026-06-20, 13:49:03",
-      "https://news.ycombinator.com/item?id=48609231"
-    ],
-    [
-      "Show HN: We post-trained a model that pen tests instead of refusing",
-      "https://www.argusred.com/cli"
-    ]
-  ],
-  [
-    [
       "2026-06-20, 12:08:23",
       "https://news.ycombinator.com/item?id=48608645"
     ],
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2026-06-20, 01:18:30",
-      "https://news.ycombinator.com/item?id=48605310"
+      "2026-06-19, 02:43:13",
+      "https://news.ycombinator.com/item?id=48594286"
     ],
     [
-      "Why has the pointe shoe been so resistant to change?",
-      "https://dancemagazine.com/pointe-shoe-innovation/"
+      "Moving Beyond Fork() + Exec()",
+      "https://lwn.net/Articles/1076018/"
     ]
   ],
   [
