@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-21, 09:53:57",
+      "https://news.ycombinator.com/item?id=48617323"
+    ],
+    [
+      "CTOs Agree: Cognitive Debt Is the New Technical Debt",
+      "https://shiftmag.dev/ctos-agree-cognitive-debt-is-the-new-technical-debt-10229/"
+    ]
+  ],
+  [
+    [
       "2026-06-21, 08:21:22",
       "https://news.ycombinator.com/item?id=48616800"
     ],
@@ -31,16 +41,6 @@
   ],
   [
     [
-      "2026-06-21, 05:15:33",
-      "https://news.ycombinator.com/item?id=48615890"
-    ],
-    [
-      "The Lost Story of Alan Turing's \"Delilah\" Project",
-      "https://spectrum.ieee.org/alan-turings-delilah"
-    ]
-  ],
-  [
-    [
       "2026-06-21, 04:28:39",
       "https://news.ycombinator.com/item?id=48615680"
     ],
@@ -67,16 +67,6 @@
     [
       "Developers don't understand CORS (2019)",
       "https://fosterelli.co/developers-dont-understand-cors"
-    ]
-  ],
-  [
-    [
-      "2026-06-21, 00:58:13",
-      "https://news.ycombinator.com/item?id=48614631"
-    ],
-    [
-      "When I reject AI code even if it works",
-      "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/"
     ]
   ],
   [
@@ -171,6 +161,16 @@
   ],
   [
     [
+      "2026-06-20, 15:59:29",
+      "https://news.ycombinator.com/item?id=48610224"
+    ],
+    [
+      "Show HN: StartupWiki – A Free Alternative to Crunchbase",
+      "https://startupwiki.tech/"
+    ]
+  ],
+  [
+    [
       "2026-06-20, 15:10:03",
       "https://news.ycombinator.com/item?id=48609766"
     ],
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2026-06-18, 10:36:32",
-      "https://news.ycombinator.com/item?id=48583407"
-    ],
-    [
-      "Excessive nil pointer checks in Go",
-      "https://konradreiche.com/blog/excessive-nil-pointer-checks-in-go/"
-    ]
-  ],
-  [
-    [
       "2026-06-18, 09:23:16",
       "https://news.ycombinator.com/item?id=48582894"
     ],
@@ -297,6 +287,16 @@
     [
       "A tale of two path separators",
       "https://alexwlchan.net/2021/slashes/"
+    ]
+  ],
+  [
+    [
+      "2026-06-16, 18:46:10",
+      "https://news.ycombinator.com/item?id=48560050"
+    ],
+    [
+      "Rare medieval bookmark exceeds expectations at auction",
+      "https://www.thehistoryblog.com/archives/76314"
     ]
   ]
 ]
