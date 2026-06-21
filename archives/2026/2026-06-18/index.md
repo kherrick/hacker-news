@@ -10,6 +10,7 @@
 * [2026-06-18, 21:54:10](https://news.ycombinator.com/item?id=48592163) - [Zero-Touch OAuth for MCP](https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/)
 * [2026-06-18, 21:03:31](https://news.ycombinator.com/item?id=48591562) - [Everything Is BOM: Bill of Materials Encyclopedia](https://bomwiki.com/)
 * [2026-06-18, 20:49:03](https://news.ycombinator.com/item?id=48591348) - [Show HN: Are You in the Weights?](https://www.intheweights.com/)
+* [2026-06-18, 20:44:00](https://news.ycombinator.com/item?id=48591276) - [Guide to the TD4 4-bit DIY CPU](https://www.philipzucker.com/td4-4bit-cpu/)
 * [2026-06-18, 20:27:28](https://news.ycombinator.com/item?id=48591066) - [Zork name origin got an update on Wikipedia](https://www.dpolakovic.space/blogs/zork-part2#update)
 * [2026-06-18, 20:10:39](https://news.ycombinator.com/item?id=48590849) - [McMansions 101: What Makes a McMansion Bad Architecture?](https://mcmansionhell.com/post/148605513816/mcmansions-101-what-makes-a-mcmansion-bad)
 * [2026-06-18, 19:42:54](https://news.ycombinator.com/item?id=48590505) - [Show HN: Pagecast – Publish Markdown/HTML Reports to Cloudflare Pages](https://github.com/Amal-David/pagecast)
