@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-06-21, 04:28:39",
+      "https://news.ycombinator.com/item?id=48615680"
+    ],
+    [
+      "Building Reliable Agentic AI Systems",
+      "https://martinfowler.com/articles/reliable-llm-bayer.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-21, 04:02:08",
+      "https://news.ycombinator.com/item?id=48615569"
+    ],
+    [
+      "Your brain was never designed for this much bad news",
+      "https://www.sciencedaily.com/releases/2026/06/260614012006.htm"
+    ]
+  ],
+  [
+    [
+      "2026-06-21, 03:54:22",
+      "https://news.ycombinator.com/item?id=48615529"
+    ],
+    [
+      "Armstrong Effect",
+      "https://en.wikipedia.org/wiki/Armstrong_effect"
+    ]
+  ],
+  [
+    [
       "2026-06-21, 01:35:40",
       "https://news.ycombinator.com/item?id=48614844"
     ],
@@ -11,32 +41,12 @@
   ],
   [
     [
-      "2026-06-21, 01:29:53",
-      "https://news.ycombinator.com/item?id=48614809"
-    ],
-    [
-      "White House delays US voting-machine vulnerability report",
-      "https://www.reuters.com/world/white-house-delays-release-us-voting-machine-study-midterms-near-2026-06-19/"
-    ]
-  ],
-  [
-    [
       "2026-06-21, 00:58:13",
       "https://news.ycombinator.com/item?id=48614631"
     ],
     [
       "When I reject AI code even if it works",
       "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/"
-    ]
-  ],
-  [
-    [
-      "2026-06-21, 00:12:49",
-      "https://news.ycombinator.com/item?id=48614390"
-    ],
-    [
-      "'We had to get out of the way': The backlash over delivery robots",
-      "https://www.bbc.com/news/articles/c0rygp005wjo"
     ]
   ],
   [
@@ -71,32 +81,12 @@
   ],
   [
     [
-      "2026-06-20, 22:36:23",
-      "https://news.ycombinator.com/item?id=48613631"
-    ],
-    [
-      "Pre-2022 Books",
-      "https://notes.lorenzogravina.com/musings/pre-2022-books"
-    ]
-  ],
-  [
-    [
       "2026-06-20, 22:22:52",
       "https://news.ycombinator.com/item?id=48613555"
     ],
     [
       "Slow breathing modulates brain function and risk behavior",
       "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9"
-    ]
-  ],
-  [
-    [
-      "2026-06-20, 21:09:39",
-      "https://news.ycombinator.com/item?id=48613008"
-    ],
-    [
-      "Supermarket giant Tesco sues VMware for breach of contract (2025)",
-      "https://www.theregister.com/software/2025/09/03/supermarket-giant-tesco-sues-vmware-for-breach-of-contract/1420651"
     ]
   ],
   [
@@ -171,16 +161,6 @@
   ],
   [
     [
-      "2026-06-20, 17:02:49",
-      "https://news.ycombinator.com/item?id=48610841"
-    ],
-    [
-      "Bun has an open PR adding shared-memory threads to JavaScriptCore",
-      "https://github.com/oven-sh/WebKit/pull/249"
-    ]
-  ],
-  [
-    [
       "2026-06-20, 17:01:36",
       "https://news.ycombinator.com/item?id=48610827"
     ],
@@ -251,6 +231,16 @@
   ],
   [
     [
+      "2026-06-18, 20:44:00",
+      "https://news.ycombinator.com/item?id=48591276"
+    ],
+    [
+      "Guide to the TD4 4-bit DIY CPU",
+      "https://www.philipzucker.com/td4-4bit-cpu/"
+    ]
+  ],
+  [
+    [
       "2026-06-18, 12:22:36",
       "https://news.ycombinator.com/item?id=48584261"
     ],
@@ -267,6 +257,16 @@
     [
       "Whole cross-sectional human ultrasound tomography",
       "https://www.nature.com/articles/s41551-026-01660-4"
+    ]
+  ],
+  [
+    [
+      "2026-06-17, 17:43:22",
+      "https://news.ycombinator.com/item?id=48573902"
+    ],
+    [
+      "Zigzag Decoding with AVX-512",
+      "https://zeux.io/2026/06/17/zigzag-decoding-avx512/"
     ]
   ],
   [
