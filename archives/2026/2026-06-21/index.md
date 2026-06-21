@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-21](index.md)
 
+* [2026-06-21, 20:17:48](https://news.ycombinator.com/item?id=48622234) - [Ask for no, don't ask for yes (2022)](https://www.mooreds.com/wordpress/archives/3518)
 * [2026-06-21, 19:06:07](https://news.ycombinator.com/item?id=48621645) - [Show HN: CleverCrow: give tokens to your favorite projects](https://clevercrow.io)
 * [2026-06-21, 18:51:47](https://news.ycombinator.com/item?id=48621517) - [JSON-LD Explained for Personal Websites](https://hawksley.dev/blog/json-ld-explained-for-personal-websites/)
 * [2026-06-21, 17:28:16](https://news.ycombinator.com/item?id=48620776) - [Health Insurance Claim Denial Rates Range from 13% to 35% by Insurer](https://www.randalolson.com/2026/06/16/aca-insurer-claim-denial-rates/)

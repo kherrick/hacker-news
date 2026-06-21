@@ -57,6 +57,7 @@
 * [2026-06-18, 09:23:16](https://news.ycombinator.com/item?id=48582894) - [Whole cross-sectional human ultrasound tomography](https://www.nature.com/articles/s41551-026-01660-4)
 * [2026-06-18, 09:08:04](https://news.ycombinator.com/item?id=48582794) - [Seven Perfect Shuffles Randomize a Deck of Cards. But How Many Sloppy Ones?](https://www.quantamagazine.org/seven-perfect-shuffles-randomize-a-deck-of-cards-but-how-many-sloppy-ones-20260617/)
 * [2026-06-18, 08:52:45](https://news.ycombinator.com/item?id=48582679) - [Ask HN: Is anyone using the A2A protocol?](https://news.ycombinator.com/item?id=48582679)
+* [2026-06-18, 08:47:48](https://news.ycombinator.com/item?id=48582629) - [Djevops: Self-Host Django Easily](https://github.com/mherrmann/djevops)
 * [2026-06-18, 08:28:04](https://news.ycombinator.com/item?id=48582464) - [I need your clothes, your boots, and your motorcycle](https://rbelmont.mameworld.info/?p=1725)
 * [2026-06-18, 08:16:20](https://news.ycombinator.com/item?id=48582374) - [Can you see three trees?](https://www.not-ship.com/can-you-see-three-trees/)
 * [2026-06-18, 08:08:00](https://news.ycombinator.com/item?id=48582320) - [AMD silently removes memory encryption from consumer Ryzen CPUs](https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change)
