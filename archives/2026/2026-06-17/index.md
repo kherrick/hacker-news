@@ -59,6 +59,7 @@
 * [2026-06-17, 07:49:44](https://news.ycombinator.com/item?id=48567155) - [Hacker News but for Independent Blogs](https://bubbles.town/)
 * [2026-06-17, 07:30:51](https://news.ycombinator.com/item?id=48567004) - [GLM 5.2 Performance Benchmarks](https://artificialanalysis.ai/models/glm-5-2)
 * [2026-06-17, 07:04:42](https://news.ycombinator.com/item?id=48566832) - [The founder's playbook: Building an AI-native startup](https://claude.com/blog/the-founders-playbook)
+* [2026-06-17, 07:03:59](https://news.ycombinator.com/item?id=48566824) - [System call instrumentation on Linux/x86‑64 using memory‑indirect calls, part I](https://www.humprog.org/~stephen/blog/2026/06/15/#system-call-instrumentation-on-intel-negative-result)
 * [2026-06-17, 06:59:29](https://news.ycombinator.com/item?id=48566791) - [Why do commercial spaces sit vacant?](https://www.freerange.city/p/why-do-commercial-spaces-sit-vacant)
 * [2026-06-17, 06:50:47](https://news.ycombinator.com/item?id=48566727) - [From Chesterton's fence to Chesterton's gap](https://stephantul.github.io/blog/unfence/)
 * [2026-06-17, 04:30:49](https://news.ycombinator.com/item?id=48565685) - [NetNewsWire Status](https://inessential.com/2026/06/15/netnewswire-status.html)
