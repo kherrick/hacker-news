@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-22](index.md)
 
+* [2026-06-22, 07:22:03](https://news.ycombinator.com/item?id=48626866) - [GLM 5.2 vs. Opus](https://techstackups.com/comparisons/glm-5.2-vs-opus/)
+* [2026-06-22, 05:38:40](https://news.ycombinator.com/item?id=48626137) - [Deno Desktop](https://docs.deno.com/runtime/desktop/)
 * [2026-06-22, 04:50:26](https://news.ycombinator.com/item?id=48625823) - [Danish privacy activist Lars Andersen raided by police](https://twitter.com/LarsAnders1620/status/2068208864747540516#m)
 * [2026-06-22, 03:09:22](https://news.ycombinator.com/item?id=48625192) - [The Flat Curve Society](https://steve-yegge.medium.com/the-flat-curve-society-36c8b01eb33b)
 * [2026-06-22, 02:08:18](https://news.ycombinator.com/item?id=48624782) - [Sakana Fugu](https://sakana.ai/fugu/)
