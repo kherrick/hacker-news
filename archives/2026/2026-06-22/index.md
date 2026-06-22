@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-06-22](index.md)
 
+* [2026-06-22, 21:21:01](https://news.ycombinator.com/item?id=48636377) - [Unsloth GLM-5.2 – How to Run Locally](https://unsloth.ai/docs/models/glm-5.2)
 * [2026-06-22, 21:00:51](https://news.ycombinator.com/item?id=48636125) - [Kyber (YC W23) Is Hiring a Head of Engineering](https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering)
+* [2026-06-22, 20:59:15](https://news.ycombinator.com/item?id=48636100) - [Tacky men with ridiculous glasses want you to wear them too](https://manualdousuario.net/en/smart-glasses-ugly-tacky/)
+* [2026-06-22, 20:55:17](https://news.ycombinator.com/item?id=48636062) - [Job application asked for my SAT scores](https://mrmarket.lol/job-application-asked-for-my-sat-scores/)
 * [2026-06-22, 20:48:30](https://news.ycombinator.com/item?id=48635954) - [Nearly Half of LG Smart TV Apps Contain Residential Proxy SDKs](https://spur.us/blog/smart-tv-apps-residential-proxy-sdks)
 * [2026-06-22, 20:09:40](https://news.ycombinator.com/item?id=48635409) - [Walt Disney Company is the most successful at monetizing human nostalgia [audio]](https://www.acquired.fm/episodes/the-walt-disney-company)
 * [2026-06-22, 19:47:52](https://news.ycombinator.com/item?id=48635112) - [Jobs and Software Is Fucked](https://urflow.bearblog.dev/jobs-and-software-is-fucked/)

@@ -1,9 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-06-22, 21:21:01](https://news.ycombinator.com/item?id=48636377) - [Unsloth GLM-5.2 – How to Run Locally](https://unsloth.ai/docs/models/glm-5.2)
 * [2026-06-22, 21:00:51](https://news.ycombinator.com/item?id=48636125) - [Kyber (YC W23) Is Hiring a Head of Engineering](https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering)
+* [2026-06-22, 20:59:15](https://news.ycombinator.com/item?id=48636100) - [Tacky men with ridiculous glasses want you to wear them too](https://manualdousuario.net/en/smart-glasses-ugly-tacky/)
+* [2026-06-22, 20:55:17](https://news.ycombinator.com/item?id=48636062) - [Job application asked for my SAT scores](https://mrmarket.lol/job-application-asked-for-my-sat-scores/)
 * [2026-06-22, 20:48:30](https://news.ycombinator.com/item?id=48635954) - [Nearly Half of LG Smart TV Apps Contain Residential Proxy SDKs](https://spur.us/blog/smart-tv-apps-residential-proxy-sdks)
 * [2026-06-22, 20:09:40](https://news.ycombinator.com/item?id=48635409) - [Walt Disney Company is the most successful at monetizing human nostalgia [audio]](https://www.acquired.fm/episodes/the-walt-disney-company)
-* [2026-06-22, 19:47:52](https://news.ycombinator.com/item?id=48635112) - [Jobs and Software Is Fucked](https://urflow.bearblog.dev/jobs-and-software-is-fucked/)
 * [2026-06-22, 19:22:37](https://news.ycombinator.com/item?id=48634803) - [Japanese symbols that speak without words](https://arun.is/blog/japan-symbols/)
 * [2026-06-22, 19:21:00](https://news.ycombinator.com/item?id=48634787) - [British Columbia, Time Zones, and Postgres](https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes)
 * [2026-06-22, 19:19:55](https://news.ycombinator.com/item?id=48634778) - [Optocam Zero: a Pi Zero based digital camera made using off the shelf components](https://github.com/dorukkumkumoglu/optocamzero)
@@ -15,7 +17,6 @@
 * [2026-06-22, 17:09:51](https://news.ycombinator.com/item?id=48632884) - [Steam Machine launches today](https://store.steampowered.com/news/group/45479024/view/685257114654870245)
 * [2026-06-22, 17:06:10](https://news.ycombinator.com/item?id=48632859) - [Blogger defeats photographer's copyright claim](https://blog.ericgoldman.org/archives/2026/06/blogger-defeats-photographers-copyright-claim-sokolskyfilm-v-messiah.htm)
 * [2026-06-22, 16:45:52](https://news.ycombinator.com/item?id=48632613) - [DisplayMate](https://www.displaymate.com/)
-* [2026-06-22, 15:48:55](https://news.ycombinator.com/item?id=48631888) - [Prompt Injection as Role Confusion](https://role-confusion.github.io)
 * [2026-06-22, 15:37:48](https://news.ycombinator.com/item?id=48631726) - [Show HN: Oak – Git alternative designed for agents](https://oak.space/oak/oak)
 * [2026-06-22, 14:22:46](https://news.ycombinator.com/item?id=48630535) - [The text in Claude Code’s “Extended Thinking” output](https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/)
 * [2026-06-22, 13:53:02](https://news.ycombinator.com/item?id=48630171) - [Moebius: 0.2B image inpainting model with 10B-level performance](https://hustvl.github.io/Moebius/)
@@ -28,7 +29,6 @@
 * [2026-06-22, 05:38:40](https://news.ycombinator.com/item?id=48626137) - [Deno Desktop](https://docs.deno.com/runtime/desktop/)
 * [2026-06-21, 23:25:24](https://news.ycombinator.com/item?id=48623665) - [PivCo-Huffman \"Merge\" Operations](https://fgiesen.wordpress.com/2026/06/21/pivco-huffman-merge-operations/)
 * [2026-06-21, 20:19:06](https://news.ycombinator.com/item?id=48622241) - [Nintendo Wii U games running from a 1980's Bernoulli disk [video]](https://www.youtube.com/watch?v=8GZDOpV2OXk)
-* [2026-06-20, 01:55:16](https://news.ycombinator.com/item?id=48605561) - [Help I accidentally a wigglegram](https://lmao.center/blog/wiggle-accidents/)
 * [2026-06-19, 11:06:04](https://news.ycombinator.com/item?id=48597221) - [My Mathematical Regression](https://blog.dahl.dev/posts/my-mathematical-regression/)
 
 ## [Archives](archives/index.md)
