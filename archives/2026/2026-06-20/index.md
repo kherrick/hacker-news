@@ -62,6 +62,7 @@
 * [2026-06-20, 11:19:05](https://news.ycombinator.com/item?id=48608394) - [Temporary Cloudflare Accounts for AI Agents](https://blog.cloudflare.com/temporary-accounts/)
 * [2026-06-20, 10:55:18](https://news.ycombinator.com/item?id=48608255) - [Bootimus – A Self-Contained PXE and HTTP Boot Server](https://bootimus.com)
 * [2026-06-20, 10:49:53](https://news.ycombinator.com/item?id=48608223) - [CSSQuake](https://cssquake.com/)
+* [2026-06-20, 09:13:55](https://news.ycombinator.com/item?id=48607671) - [Maria Isabel Sánchez Vegara on Her 100th \"Little People, Big Dreams\" Book](https://www.amightygirl.com/blog?p=36753)
 * [2026-06-20, 05:43:54](https://news.ycombinator.com/item?id=48606654) - [Lisp in the Rust Type System](https://github.com/playX18/lisp-in-types/)
 * [2026-06-20, 05:33:59](https://news.ycombinator.com/item?id=48606619) - [I Stored a Website in a Favicon](https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/)
 * [2026-06-20, 04:45:59](https://news.ycombinator.com/item?id=48606413) - [Designing a backyard deck for my house](https://blog.cosmin.cloud/posts/diy-deck.html)

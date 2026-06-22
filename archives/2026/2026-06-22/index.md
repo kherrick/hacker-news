@@ -4,6 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-06-22](index.md)
 
+* [2026-06-22, 13:57:49](https://news.ycombinator.com/item?id=48630220) - [Nvidia Halos](https://www.nvidia.com/en-us/ai-trust-center/halos/autonomous-vehicles/)
+* [2026-06-22, 13:45:48](https://news.ycombinator.com/item?id=48630066) - [Never Give Them Your Face](https://nevergivethemyourface.com/)
+* [2026-06-22, 13:43:01](https://news.ycombinator.com/item?id=48630020) - [Pledging Another $400k to the Zig Software Foundation](https://mitchellh.com/writing/zig-donation-2026)
+* [2026-06-22, 13:40:16](https://news.ycombinator.com/item?id=48629982) - [Die analysis of the 8087 math coprocessor's fast bit shifter](https://www.righto.com/2020/05/die-analysis-of-8087-math-coprocessors.html)
+* [2026-06-22, 12:42:22](https://news.ycombinator.com/item?id=48629387) - [window.showDirectoryPicker opens up a whole new world](https://steveharrison.dev/showdirectorypicker-opens-up-a-whole-new-world/)
+* [2026-06-22, 12:39:43](https://news.ycombinator.com/item?id=48629356) - [Becoming a dad changes men's brains](https://www.scientificamerican.com/article/how-becoming-a-dad-changes-mens-brains/)
+* [2026-06-22, 12:23:46](https://news.ycombinator.com/item?id=48629213) - [Show HN: Got sick of ads, so I made my own logic puzzle site](https://puzzlelair.com/)
+* [2026-06-22, 12:09:34](https://news.ycombinator.com/item?id=48629064) - [Why Drawing Tablet Brands Won't Collaborate on Linux Floss Drivers](https://www.davidrevoy.com/article1154/why-drawing-tablet-brands-wont-collaborate-on-linux-floss-drivers)
+* [2026-06-22, 11:27:40](https://news.ycombinator.com/item?id=48628731) - [Alan Greenspan Dies at 100; Led Fed During Boom Before 2008 Bust](https://www.bloomberg.com/news/articles/2026-06-22/alan-greenspan-dies-at-100-led-fed-during-boom-before-2008-bust)
 * [2026-06-22, 10:35:21](https://news.ycombinator.com/item?id=48628328) - [Manticore Search 27.1.5: Auth, sharding, conversational and faster vector search](https://manticoresearch.com/blog/manticore-search-27-1-5/)
 * [2026-06-22, 07:30:17](https://news.ycombinator.com/item?id=48626930) - [Codex logging bug may write TBs to local SSDs](https://github.com/openai/codex/issues/28224)
 * [2026-06-22, 07:29:17](https://news.ycombinator.com/item?id=48626918) - [Investors get real-time view of UK bond market activity for the first time](https://www.fca.org.uk/news/press-releases/investors-get-real-time-view-uk-bond-market-activity-first-time)
