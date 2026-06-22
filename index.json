@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-22, 10:35:21",
+      "https://news.ycombinator.com/item?id=48628328"
+    ],
+    [
+      "Manticore Search 27.1.5: Auth, sharding, conversational and faster vector search",
+      "https://manticoresearch.com/blog/manticore-search-27-1-5/"
+    ]
+  ],
+  [
+    [
       "2026-06-22, 07:30:17",
       "https://news.ycombinator.com/item?id=48626930"
     ],
@@ -161,26 +171,6 @@
   ],
   [
     [
-      "2026-06-21, 16:08:23",
-      "https://news.ycombinator.com/item?id=48620090"
-    ],
-    [
-      "Prefer duplication over the wrong abstraction (2016)",
-      "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction"
-    ]
-  ],
-  [
-    [
-      "2026-06-21, 15:36:33",
-      "https://news.ycombinator.com/item?id=48619831"
-    ],
-    [
-      "(How to Write a (Lisp) Interpreter (In Python)) (2010)",
-      "https://norvig.com/lispy.html"
-    ]
-  ],
-  [
-    [
       "2026-06-21, 12:49:48",
       "https://news.ycombinator.com/item?id=48618488"
     ],
@@ -251,16 +241,6 @@
   ],
   [
     [
-      "2026-06-19, 19:00:01",
-      "https://news.ycombinator.com/item?id=48601953"
-    ],
-    [
-      "Luis Alvarez's Journey from Hiroshima to the Death of the Dinosaurs",
-      "https://www.lrb.co.uk/the-paper/v48/n11/steven-shapin/barrel-of-greenbacks"
-    ]
-  ],
-  [
-    [
       "2026-06-19, 15:54:23",
       "https://news.ycombinator.com/item?id=48599998"
     ],
@@ -281,12 +261,32 @@
   ],
   [
     [
+      "2026-06-19, 00:20:49",
+      "https://news.ycombinator.com/item?id=48593424"
+    ],
+    [
+      "Writing Postcards with a 3D Printer",
+      "https://severinbucher.com/posts/writing-postcards-with-a-3d-printer/"
+    ]
+  ],
+  [
+    [
       "2026-06-18, 18:45:03",
       "https://news.ycombinator.com/item?id=48589687"
     ],
     [
       "How I play video games with spinal muscular atrophy",
       "https://www.openassistivetech.org/how-i-actually-play-video-games-with-sma-the-tools-i-use-every-day/"
+    ]
+  ],
+  [
+    [
+      "2026-06-18, 00:41:52",
+      "https://news.ycombinator.com/item?id=48579054"
+    ],
+    [
+      "UTFS: A Tar-Like File System for Embedded Systems (2025)",
+      "https://clisystems.com/article-UTFS-intro/"
     ]
   ],
   [
