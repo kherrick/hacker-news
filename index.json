@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-06-22, 03:09:22",
-      "https://news.ycombinator.com/item?id=48625192"
+      "2026-06-22, 04:50:26",
+      "https://news.ycombinator.com/item?id=48625823"
     ],
     [
-      "The Flat Curve Society",
-      "https://steve-yegge.medium.com/the-flat-curve-society-36c8b01eb33b"
+      "Danish privacy activist Lars Andersen raided by police",
+      "https://twitter.com/LarsAnders1620/status/2068208864747540516#m"
     ]
   ],
   [
@@ -115,7 +115,7 @@
       "https://news.ycombinator.com/item?id=48622590"
     ],
     [
-      "Show HN: Recall – fully-local project memory for Claude Code",
+      "Show HN: Recall – Local project memory for Claude Code",
       "https://github.com/raiyanyahya/recall"
     ]
   ],
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2026-06-20, 23:31:56",
-      "https://news.ycombinator.com/item?id=48614087"
-    ],
-    [
-      "Show HN: HN Game Stories – mini-documentary of games that hit the front page",
-      "https://video.intellios.ai"
-    ]
-  ],
-  [
-    [
       "2026-06-20, 13:18:28",
       "https://news.ycombinator.com/item?id=48609054"
     ],
@@ -261,6 +251,26 @@
   ],
   [
     [
+      "2026-06-19, 02:10:16",
+      "https://news.ycombinator.com/item?id=48594090"
+    ],
+    [
+      "An Embedded Linux on a Single Floppy",
+      "https://github.com/w84death/floppinux"
+    ]
+  ],
+  [
+    [
+      "2026-06-18, 21:49:53",
+      "https://news.ycombinator.com/item?id=48592123"
+    ],
+    [
+      "Shape Suffixes – Good Coding Style",
+      "https://medium.com/@NoamShazeer/shape-suffixes-good-coding-style-f836e72e24fd"
+    ]
+  ],
+  [
+    [
       "2026-06-18, 18:45:03",
       "https://news.ycombinator.com/item?id=48589687"
     ],
@@ -271,21 +281,11 @@
   ],
   [
     [
-      "2026-06-18, 00:36:52",
-      "https://news.ycombinator.com/item?id=48579013"
-    ],
-    [
-      "HPV jabs cut risk of dying from cervical cancer before 30 to almost zero",
-      "https://www.theguardian.com/society/2026/jun/17/hpv-jabs-reduce-risk-dying-cervical-cancer-before-30-zero-study-finds"
-    ]
-  ],
-  [
-    [
       "2026-06-17, 10:48:58",
       "https://news.ycombinator.com/item?id=48568487"
     ],
     [
-      "From Combinatorial Mess to Linear Elegance: Architecting a Conversion Engine",
+      "Architecting a Conversion Engine in Swift",
       "https://blog.minimal.app/conversion-engine/"
     ]
   ],
