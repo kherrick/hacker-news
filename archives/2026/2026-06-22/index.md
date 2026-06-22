@@ -4,8 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-06-22](index.md)
 
+* [2026-06-22, 15:37:48](https://news.ycombinator.com/item?id=48631726) - [Git is forever. I'm building Oak anyways](https://oak.space/blog)
+* [2026-06-22, 14:55:51](https://news.ycombinator.com/item?id=48631058) - [DHL Set to Transport Goods on New Wind-Powered Cargo Ships](https://www.wsj.com/pro/sustainable-business/dhl-set-to-transport-goods-on-new-wind-powered-cargo-ships-eca5d5a0)
+* [2026-06-22, 14:54:59](https://news.ycombinator.com/item?id=48631043) - [I built Ponytrail, a local audit trail for AI coding-agent edits](https://github.com/0xroylee/ponytrail)
+* [2026-06-22, 14:22:46](https://news.ycombinator.com/item?id=48630535) - [Claude Code's \"extended thinking\" is a summary- not authentic thinking](https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/)
 * [2026-06-22, 13:57:49](https://news.ycombinator.com/item?id=48630220) - [Nvidia Halos](https://www.nvidia.com/en-us/ai-trust-center/halos/autonomous-vehicles/)
+* [2026-06-22, 13:53:02](https://news.ycombinator.com/item?id=48630171) - [Moebius: 0.2B image inpainting model with 10B-level performance](https://hustvl.github.io/Moebius/)
 * [2026-06-22, 13:45:48](https://news.ycombinator.com/item?id=48630066) - [Never Give Them Your Face](https://nevergivethemyourface.com/)
+* [2026-06-22, 13:43:38](https://news.ycombinator.com/item?id=48630029) - [Chevron signs 20-year power agreement with Microsoft for West Texas data center](https://www.chevron.com/newsroom/2026/q2/chevron-signs-20-year-power-agreement-with-microsoft-for-west-texas-data-center)
 * [2026-06-22, 13:43:01](https://news.ycombinator.com/item?id=48630020) - [Pledging Another $400k to the Zig Software Foundation](https://mitchellh.com/writing/zig-donation-2026)
 * [2026-06-22, 13:40:16](https://news.ycombinator.com/item?id=48629982) - [Die analysis of the 8087 math coprocessor's fast bit shifter](https://www.righto.com/2020/05/die-analysis-of-8087-math-coprocessors.html)
 * [2026-06-22, 12:42:22](https://news.ycombinator.com/item?id=48629387) - [window.showDirectoryPicker opens up a whole new world](https://steveharrison.dev/showdirectorypicker-opens-up-a-whole-new-world/)
