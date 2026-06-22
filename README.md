@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-06-22, 10:35:21](https://news.ycombinator.com/item?id=48628328) - [Manticore Search 27.1.5: Auth, sharding, conversational and faster vector search](https://manticoresearch.com/blog/manticore-search-27-1-5/)
 * [2026-06-22, 07:30:17](https://news.ycombinator.com/item?id=48626930) - [Codex logging bug may write TBs to local SSDs](https://github.com/openai/codex/issues/28224)
 * [2026-06-22, 07:29:17](https://news.ycombinator.com/item?id=48626918) - [Investors get real-time view of UK bond market activity for the first time](https://www.fca.org.uk/news/press-releases/investors-get-real-time-view-uk-bond-market-activity-first-time)
 * [2026-06-22, 07:22:03](https://news.ycombinator.com/item?id=48626866) - [GLM 5.2 vs. Opus](https://techstackups.com/comparisons/glm-5.2-vs-opus/)
@@ -16,8 +17,6 @@
 * [2026-06-21, 20:56:01](https://news.ycombinator.com/item?id=48622518) - [There is minimal downside to switching to open models](https://www.marble.onl/posts/cancel_claude.html)
 * [2026-06-21, 18:51:47](https://news.ycombinator.com/item?id=48621517) - [JSON-LD explained for personal websites](https://hawksley.dev/blog/json-ld-explained-for-personal-websites/)
 * [2026-06-21, 16:41:21](https://news.ycombinator.com/item?id=48620342) - [The minimum viable unit of saleable software](https://brandur.org/minimum-viable-unit)
-* [2026-06-21, 16:08:23](https://news.ycombinator.com/item?id=48620090) - [Prefer duplication over the wrong abstraction (2016)](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
-* [2026-06-21, 15:36:33](https://news.ycombinator.com/item?id=48619831) - [(How to Write a (Lisp) Interpreter (In Python)) (2010)](https://norvig.com/lispy.html)
 * [2026-06-21, 12:49:48](https://news.ycombinator.com/item?id=48618488) - [Show HN: Teach your kids perfect pitch](https://github.com/paytonjjones/bsharp)
 * [2026-06-21, 12:44:13](https://news.ycombinator.com/item?id=48618455) - [Identity verification on Claude](https://support.claude.com/en/articles/14328960-identity-verification-on-claude)
 * [2026-06-20, 13:18:28](https://news.ycombinator.com/item?id=48609054) - [Show HN: Criterion Closet as a website – pull any of 1,247 films off the shelf](https://the-criterion-closet.vercel.app)
@@ -25,10 +24,11 @@
 * [2026-06-20, 03:29:19](https://news.ycombinator.com/item?id=48606096) - [Memory Safe Inline Assembly](https://fil-c.org/inlineasm)
 * [2026-06-20, 01:55:16](https://news.ycombinator.com/item?id=48605561) - [Help I accidentally a wigglegram](https://lmao.center/blog/wiggle-accidents/)
 * [2026-06-20, 00:42:50](https://news.ycombinator.com/item?id=48605085) - [Efficient C++ Programming for Modern C++ CPUs, Chapter 4/part 2](https://6it.dev/blog/infographics-operation-costs-in-cpu-clock-cycles-take-2-80736)
-* [2026-06-19, 19:00:01](https://news.ycombinator.com/item?id=48601953) - [Luis Alvarez's Journey from Hiroshima to the Death of the Dinosaurs](https://www.lrb.co.uk/the-paper/v48/n11/steven-shapin/barrel-of-greenbacks)
 * [2026-06-19, 15:54:23](https://news.ycombinator.com/item?id=48599998) - [Munich 1991: The Roots of the Current AI Boom](https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html)
 * [2026-06-19, 14:30:46](https://news.ycombinator.com/item?id=48599057) - [My 1992 view of the problems of computer programming in 1992](https://blog.plover.com/prog/fortran-i.html)
+* [2026-06-19, 00:20:49](https://news.ycombinator.com/item?id=48593424) - [Writing Postcards with a 3D Printer](https://severinbucher.com/posts/writing-postcards-with-a-3d-printer/)
 * [2026-06-18, 18:45:03](https://news.ycombinator.com/item?id=48589687) - [How I play video games with spinal muscular atrophy](https://www.openassistivetech.org/how-i-actually-play-video-games-with-sma-the-tools-i-use-every-day/)
+* [2026-06-18, 00:41:52](https://news.ycombinator.com/item?id=48579054) - [UTFS: A Tar-Like File System for Embedded Systems (2025)](https://clisystems.com/article-UTFS-intro/)
 * [2026-06-17, 07:33:29](https://news.ycombinator.com/item?id=48567028) - [Minecraft: Java Edition 26.2, the first version with Vulkan 1.2](https://www.minecraft.net/en-us/article/minecraft-java-edition-26-2)
 
 ## [Archives](archives/index.md)

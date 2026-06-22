@@ -59,4 +59,5 @@
 * [2026-06-19, 02:10:16](https://news.ycombinator.com/item?id=48594090) - [An Embedded Linux on a Single Floppy](https://github.com/w84death/floppinux)
 * [2026-06-19, 01:06:27](https://news.ycombinator.com/item?id=48593731) - [Datasette Apps: Host custom HTML applications inside Datasette](https://simonwillison.net/2026/Jun/18/datasette-apps/)
 * [2026-06-19, 01:01:13](https://news.ycombinator.com/item?id=48593694) - [Flexport (YC W14) Is Hiring in Indonesia, India, and Thailand](https://www.flexport.com/company/careers/)
+* [2026-06-19, 00:20:49](https://news.ycombinator.com/item?id=48593424) - [Writing Postcards with a 3D Printer](https://severinbucher.com/posts/writing-postcards-with-a-3d-printer/)
 * [2026-06-19, 00:12:20](https://news.ycombinator.com/item?id=48593346) - [Show HN: Domphy – plain-object UI for tool apps, AI-correctable output](https://news.ycombinator.com/item?id=48593346)

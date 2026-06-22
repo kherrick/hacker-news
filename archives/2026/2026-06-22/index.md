@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-22](index.md)
 
+* [2026-06-22, 10:35:21](https://news.ycombinator.com/item?id=48628328) - [Manticore Search 27.1.5: Auth, sharding, conversational and faster vector search](https://manticoresearch.com/blog/manticore-search-27-1-5/)
 * [2026-06-22, 07:30:17](https://news.ycombinator.com/item?id=48626930) - [Codex logging bug may write TBs to local SSDs](https://github.com/openai/codex/issues/28224)
 * [2026-06-22, 07:29:17](https://news.ycombinator.com/item?id=48626918) - [Investors get real-time view of UK bond market activity for the first time](https://www.fca.org.uk/news/press-releases/investors-get-real-time-view-uk-bond-market-activity-first-time)
 * [2026-06-22, 07:22:03](https://news.ycombinator.com/item?id=48626866) - [GLM 5.2 vs. Opus](https://techstackups.com/comparisons/glm-5.2-vs-opus/)
