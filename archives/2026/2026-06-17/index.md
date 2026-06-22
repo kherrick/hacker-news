@@ -53,6 +53,7 @@
 * [2026-06-17, 12:02:02](https://news.ycombinator.com/item?id=48569187) - [Snap Smart Glasses](https://www.specs.com/smart-glasses/specs-27)
 * [2026-06-17, 11:09:29](https://news.ycombinator.com/item?id=48568652) - [The discovery that changed how scientists think about memory – IBM](https://www.ibm.com/think/news/discovery-changed-how-scientists-think-about-memory-kavli-prize)
 * [2026-06-17, 10:51:17](https://news.ycombinator.com/item?id=48568502) - [RFC 10008: The new HTTP Query Method](https://www.rfc-editor.org/info/rfc10008/)
+* [2026-06-17, 10:48:58](https://news.ycombinator.com/item?id=48568487) - [From Combinatorial Mess to Linear Elegance: Architecting a Conversion Engine](https://blog.minimal.app/conversion-engine/)
 * [2026-06-17, 10:14:53](https://news.ycombinator.com/item?id=48568181) - [A tale of two path separators](https://alexwlchan.net/2021/slashes/)
 * [2026-06-17, 09:54:21](https://news.ycombinator.com/item?id=48568058) - [U.S. Science Is in Chaos](https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/)
 * [2026-06-17, 09:48:59](https://news.ycombinator.com/item?id=48568023) - [Show HN: I built 184 free browser tools – PDF, image, dev, AI tasks, no upload](https://brevio.pro)
