@@ -52,6 +52,7 @@
 * [2026-06-20, 13:49:15](https://news.ycombinator.com/item?id=48609233) - [Big Tech is borrowing like never before](https://startupfortune.com/big-tech-is-borrowing-like-never-before-and-the-fed-just-made-that-a-lot-more-expensive/)
 * [2026-06-20, 13:49:03](https://news.ycombinator.com/item?id=48609231) - [Show HN: We post-trained a model that pen tests instead of refusing](https://www.argusred.com/cli)
 * [2026-06-20, 13:44:39](https://news.ycombinator.com/item?id=48609194) - [From PGP to Mythos: a brief history of export controls that didn't stop anyone](https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/)
+* [2026-06-20, 13:33:37](https://news.ycombinator.com/item?id=48609129) - [Canyon HUD helmet for road riding](https://media-centre.canyon.com/en-INT/266866-new-canyon-heads-up-display-helmet-could-be-a-safety-gamechanger-for-road-riding/)
 * [2026-06-20, 13:18:28](https://news.ycombinator.com/item?id=48609054) - [Show HN: Criterion Closet as a website – pull any of 1,247 films off the shelf](https://the-criterion-closet.vercel.app)
 * [2026-06-20, 12:14:32](https://news.ycombinator.com/item?id=48608681) - [Pong in S Favicon](https://pong-in-a-favicon.franzai.com/)
 * [2026-06-20, 12:08:23](https://news.ycombinator.com/item?id=48608645) - [Loupe – A iOS app that raises awareness about what native apps can see](https://github.com/mysk-research/loupe)

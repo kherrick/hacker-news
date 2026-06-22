@@ -4,7 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-06-22](index.md)
 
+* [2026-06-22, 21:00:51](https://news.ycombinator.com/item?id=48636125) - [Kyber (YC W23) Is Hiring a Head of Engineering](https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering)
+* [2026-06-22, 20:09:40](https://news.ycombinator.com/item?id=48635409) - [Walt Disney Company is the most successful at monetizing human nostalgia [audio]](https://www.acquired.fm/episodes/the-walt-disney-company)
+* [2026-06-22, 19:47:52](https://news.ycombinator.com/item?id=48635112) - [Jobs and Software Is Fucked](https://urflow.bearblog.dev/jobs-and-software-is-fucked/)
+* [2026-06-22, 19:22:37](https://news.ycombinator.com/item?id=48634803) - [Japanese symbols that speak without words](https://arun.is/blog/japan-symbols/)
 * [2026-06-22, 19:21:00](https://news.ycombinator.com/item?id=48634787) - [British Columbia, Time Zones, and Postgres](https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes)
+* [2026-06-22, 19:19:55](https://news.ycombinator.com/item?id=48634778) - [Optocam Zero: a Pi Zero based digital camera made using off the shelf components](https://github.com/dorukkumkumoglu/optocamzero)
+* [2026-06-22, 19:13:46](https://news.ycombinator.com/item?id=48634694) - [Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed](https://ipvm.com/reports/police-chiefs-track)
 * [2026-06-22, 19:06:48](https://news.ycombinator.com/item?id=48634585) - [Canada is looking to build up to 10 new nuclear reactors over the next 15 years](https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509)
 * [2026-06-22, 19:04:49](https://news.ycombinator.com/item?id=48634559) - [Memory crisis is getting so bad that even retro RAM prices are going to the Moon](https://www.theregister.com/personal-tech/2026/06/22/the-memory-crisis-is-getting-so-bad-that-even-retro-ram-prices-are-going-to-the-moon/5259627)
 * [2026-06-22, 18:24:29](https://news.ycombinator.com/item?id=48633941) - [Linux and Secure Boot certificate expiration](https://lwn.net/Articles/1029767/)
@@ -12,6 +18,7 @@
 * [2026-06-22, 17:18:49](https://news.ycombinator.com/item?id=48633012) - [Steam Machine Launches Today](https://store.steampowered.com/news/group/45479024/view/685257114654870245)
 * [2026-06-22, 17:17:29](https://news.ycombinator.com/item?id=48632989) - [Steam Machine Game Testing](https://www.lttlabs.com/articles/2026/06/22/the-newell-nucleus-steam-machine-ltt-companion-article)
 * [2026-06-22, 17:09:51](https://news.ycombinator.com/item?id=48632884) - [Steam Machine](https://store.steampowered.com/hardware/steammachine)
+* [2026-06-22, 17:09:51](https://news.ycombinator.com/item?id=48632884) - [Steam Machine launches today](https://store.steampowered.com/news/group/45479024/view/685257114654870245)
 * [2026-06-22, 17:06:10](https://news.ycombinator.com/item?id=48632859) - [Blogger Defeats Photographer's Copyright Claim-Sokolskyfilm vs. Messiah](https://blog.ericgoldman.org/archives/2026/06/blogger-defeats-photographers-copyright-claim-sokolskyfilm-v-messiah.htm)
 * [2026-06-22, 17:03:37](https://news.ycombinator.com/item?id=48632833) - [Tata Electronics cyber breach claiming to expose Apple, Tesla trade secrets](https://www.yahoo.com/news/world/articles/indias-tata-electronics-hit-cyber-153155513.html)
 * [2026-06-22, 17:00:17](https://news.ycombinator.com/item?id=48632792) - [Charge Robotics (YC S21) Is Hiring Software and Hardware Engineers](https://jobs.ashbyhq.com/charge-robotics)
