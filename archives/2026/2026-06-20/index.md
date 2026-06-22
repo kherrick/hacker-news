@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-20](index.md)
 
+* [2026-06-20, 23:31:56](https://news.ycombinator.com/item?id=48614087) - [Show HN: HN Game Stories – mini-documentary of games that hit the front page](https://video.intellios.ai)
 * [2026-06-20, 23:07:09](https://news.ycombinator.com/item?id=48613872) - [Epoll vs. Io_uring in Linux](https://sibexi.co/posts/epoll-vs-io_uring/)
 * [2026-06-20, 22:54:11](https://news.ycombinator.com/item?id=48613755) - [Not just books: renting a sewing machine from the library can improve democracy](https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland)
 * [2026-06-20, 22:50:43](https://news.ycombinator.com/item?id=48613732) - [Turns Out, There Is a Cabal of Elite Crazies Trying to Control the World](https://www.esquire.com/news-politics/politics/a71619211/peter-thiel-dialog-club-wired-report/)
@@ -20,6 +21,7 @@
 * [2026-06-20, 20:32:54](https://news.ycombinator.com/item?id=48612740) - [Alice is impatient](https://brooker.co.za/blog/2026/06/19/waiting.html)
 * [2026-06-20, 20:30:06](https://news.ycombinator.com/item?id=48612714) - [A Love Story](https://pudding.cool/2026/06/love-story/)
 * [2026-06-20, 20:05:03](https://news.ycombinator.com/item?id=48612502) - [Unauthorized alert sent to cell phones across Brazil](https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam)
+* [2026-06-20, 19:55:54](https://news.ycombinator.com/item?id=48612432) - [Show HN: MiniPCs.zip – Charting the Pareto frontier of Mini PCs](https://minipcs.zip)
 * [2026-06-20, 19:19:06](https://news.ycombinator.com/item?id=48612098) - [AMD will reinstate memory encryption on Ryzen 9000 CPUs via BIOS update in July](https://www.tomshardware.com/pc-components/cpus/amd-will-reinstate-memory-encryption-on-ryzen-9000-cpus-through-a-bios-update-in-july-tsme-is-coming-back-after-valuable-community-feedback)
 * [2026-06-20, 19:18:48](https://news.ycombinator.com/item?id=48612095) - [Show HN: My Windows XP portfolio with working Game Boy and iPod](https://mitchivin.com/)
 * [2026-06-20, 19:01:10](https://news.ycombinator.com/item?id=48611942) - [PostgresBench: A Reproducible Benchmark for Postgres Services](https://clickhouse.com/blog/postgresbench)
@@ -49,6 +51,7 @@
 * [2026-06-20, 13:49:15](https://news.ycombinator.com/item?id=48609233) - [Big Tech is borrowing like never before](https://startupfortune.com/big-tech-is-borrowing-like-never-before-and-the-fed-just-made-that-a-lot-more-expensive/)
 * [2026-06-20, 13:49:03](https://news.ycombinator.com/item?id=48609231) - [Show HN: We post-trained a model that pen tests instead of refusing](https://www.argusred.com/cli)
 * [2026-06-20, 13:44:39](https://news.ycombinator.com/item?id=48609194) - [From PGP to Mythos: a brief history of export controls that didn't stop anyone](https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/)
+* [2026-06-20, 13:18:28](https://news.ycombinator.com/item?id=48609054) - [Show HN: Criterion Closet as a website – pull any of 1,247 films off the shelf](https://the-criterion-closet.vercel.app)
 * [2026-06-20, 12:14:32](https://news.ycombinator.com/item?id=48608681) - [Pong in S Favicon](https://pong-in-a-favicon.franzai.com/)
 * [2026-06-20, 12:08:23](https://news.ycombinator.com/item?id=48608645) - [Loupe – A iOS app that raises awareness about what native apps can see](https://github.com/mysk-research/loupe)
 * [2026-06-20, 12:06:00](https://news.ycombinator.com/item?id=48608633) - [New (Old) 3D Golf: Porting PC-9801 and Virtual Boy to Mega Drive](https://blog.gingerbeardman.com/2026/06/19/new-old-3d-golf-porting-pc-9801-and-virtual-boy-to-mega-drive/)

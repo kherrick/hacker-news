@@ -16,6 +16,7 @@
 * [2026-06-18, 19:47:49](https://news.ycombinator.com/item?id=48590573) - [The Great Intermediary Panic](https://www.minid.net/2013/1/23/the-great-intermediary-panic)
 * [2026-06-18, 19:42:54](https://news.ycombinator.com/item?id=48590505) - [Show HN: Pagecast – Publish Markdown/HTML Reports to Cloudflare Pages](https://github.com/Amal-David/pagecast)
 * [2026-06-18, 19:25:46](https://news.ycombinator.com/item?id=48590280) - [Integer Quantization: Deep Dive](https://hello-fri-end.github.io/2026/06/integer-quantization-deep-dive/)
+* [2026-06-18, 18:45:03](https://news.ycombinator.com/item?id=48589687) - [I Play Video Games with Spinal Muscular Atrophy](https://www.openassistivetech.org/how-i-actually-play-video-games-with-sma-the-tools-i-use-every-day/)
 * [2026-06-18, 18:31:23](https://news.ycombinator.com/item?id=48589501) - [I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M](https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/)
 * [2026-06-18, 18:30:33](https://news.ycombinator.com/item?id=48589485) - [The AI Hate Progression](https://www.xodium.net/2026/06/the-ai-hate-progression.html)
 * [2026-06-18, 18:20:22](https://news.ycombinator.com/item?id=48589357) - [Ask HN: What is the job market like?](https://news.ycombinator.com/item?id=48589357)
