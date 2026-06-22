@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-22, 07:22:03",
+      "https://news.ycombinator.com/item?id=48626866"
+    ],
+    [
+      "GLM 5.2 vs. Opus",
+      "https://techstackups.com/comparisons/glm-5.2-vs-opus/"
+    ]
+  ],
+  [
+    [
+      "2026-06-22, 05:38:40",
+      "https://news.ycombinator.com/item?id=48626137"
+    ],
+    [
+      "Deno Desktop",
+      "https://docs.deno.com/runtime/desktop/"
+    ]
+  ],
+  [
+    [
       "2026-06-22, 04:50:26",
       "https://news.ycombinator.com/item?id=48625823"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2026-06-21, 17:00:28",
-      "https://news.ycombinator.com/item?id=48620504"
-    ],
-    [
-      "Wildcard (YC W25) is hiring an applied ML engineer",
-      "https://www.ycombinator.com/companies/wildcard/jobs/SEmo4di-founding-applied-ml-engineer"
-    ]
-  ],
-  [
-    [
       "2026-06-21, 16:41:21",
       "https://news.ycombinator.com/item?id=48620342"
     ],
@@ -221,6 +231,16 @@
   ],
   [
     [
+      "2026-06-20, 05:43:54",
+      "https://news.ycombinator.com/item?id=48606654"
+    ],
+    [
+      "Lisp in the Rust Type System",
+      "https://github.com/playX18/lisp-in-types/"
+    ]
+  ],
+  [
+    [
       "2026-06-20, 03:29:19",
       "https://news.ycombinator.com/item?id=48606096"
     ],
@@ -251,22 +271,12 @@
   ],
   [
     [
-      "2026-06-19, 02:10:16",
-      "https://news.ycombinator.com/item?id=48594090"
+      "2026-06-19, 15:54:23",
+      "https://news.ycombinator.com/item?id=48599998"
     ],
     [
-      "An Embedded Linux on a Single Floppy",
-      "https://github.com/w84death/floppinux"
-    ]
-  ],
-  [
-    [
-      "2026-06-18, 21:49:53",
-      "https://news.ycombinator.com/item?id=48592123"
-    ],
-    [
-      "Shape Suffixes – Good Coding Style",
-      "https://medium.com/@NoamShazeer/shape-suffixes-good-coding-style-f836e72e24fd"
+      "Munich 1991: The Roots of the Current AI Boom",
+      "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "How I play video games with spinal muscular atrophy",
       "https://www.openassistivetech.org/how-i-actually-play-video-games-with-sma-the-tools-i-use-every-day/"
-    ]
-  ],
-  [
-    [
-      "2026-06-17, 10:48:58",
-      "https://news.ycombinator.com/item?id=48568487"
-    ],
-    [
-      "Architecting a Conversion Engine in Swift",
-      "https://blog.minimal.app/conversion-engine/"
     ]
   ],
   [
