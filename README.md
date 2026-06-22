@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-06-22, 21:00:51](https://news.ycombinator.com/item?id=48636125) - [Kyber (YC W23) Is Hiring a Head of Engineering](https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering)
+* [2026-06-22, 20:48:30](https://news.ycombinator.com/item?id=48635954) - [Nearly Half of LG Smart TV Apps Contain Residential Proxy SDKs](https://spur.us/blog/smart-tv-apps-residential-proxy-sdks)
 * [2026-06-22, 20:09:40](https://news.ycombinator.com/item?id=48635409) - [Walt Disney Company is the most successful at monetizing human nostalgia [audio]](https://www.acquired.fm/episodes/the-walt-disney-company)
 * [2026-06-22, 19:47:52](https://news.ycombinator.com/item?id=48635112) - [Jobs and Software Is Fucked](https://urflow.bearblog.dev/jobs-and-software-is-fucked/)
 * [2026-06-22, 19:22:37](https://news.ycombinator.com/item?id=48634803) - [Japanese symbols that speak without words](https://arun.is/blog/japan-symbols/)
@@ -13,7 +14,6 @@
 * [2026-06-22, 17:46:48](https://news.ycombinator.com/item?id=48633410) - [Finding the Best Dog Treat with Statistics](https://www.wespiser.com/posts/2026-06-19-best-dog-treat.html)
 * [2026-06-22, 17:09:51](https://news.ycombinator.com/item?id=48632884) - [Steam Machine launches today](https://store.steampowered.com/news/group/45479024/view/685257114654870245)
 * [2026-06-22, 17:06:10](https://news.ycombinator.com/item?id=48632859) - [Blogger defeats photographer's copyright claim](https://blog.ericgoldman.org/archives/2026/06/blogger-defeats-photographers-copyright-claim-sokolskyfilm-v-messiah.htm)
-* [2026-06-22, 16:48:45](https://news.ycombinator.com/item?id=48632652) - [Mexican government unveils a prototype for a new homegrown, ultra-affordable EV](https://gizmodo.com/mexico-just-showed-off-a-new-extremely-cheap-government-backed-ev-2000769080)
 * [2026-06-22, 16:45:52](https://news.ycombinator.com/item?id=48632613) - [DisplayMate](https://www.displaymate.com/)
 * [2026-06-22, 15:48:55](https://news.ycombinator.com/item?id=48631888) - [Prompt Injection as Role Confusion](https://role-confusion.github.io)
 * [2026-06-22, 15:37:48](https://news.ycombinator.com/item?id=48631726) - [Show HN: Oak – Git alternative designed for agents](https://oak.space/oak/oak)
@@ -26,8 +26,8 @@
 * [2026-06-22, 07:30:17](https://news.ycombinator.com/item?id=48626930) - [Codex logging bug may write TBs to local SSDs](https://github.com/openai/codex/issues/28224)
 * [2026-06-22, 07:22:03](https://news.ycombinator.com/item?id=48626866) - [GLM 5.2 vs. Opus](https://techstackups.com/comparisons/glm-5.2-vs-opus/)
 * [2026-06-22, 05:38:40](https://news.ycombinator.com/item?id=48626137) - [Deno Desktop](https://docs.deno.com/runtime/desktop/)
+* [2026-06-21, 23:25:24](https://news.ycombinator.com/item?id=48623665) - [PivCo-Huffman \"Merge\" Operations](https://fgiesen.wordpress.com/2026/06/21/pivco-huffman-merge-operations/)
 * [2026-06-21, 20:19:06](https://news.ycombinator.com/item?id=48622241) - [Nintendo Wii U games running from a 1980's Bernoulli disk [video]](https://www.youtube.com/watch?v=8GZDOpV2OXk)
-* [2026-06-20, 13:33:37](https://news.ycombinator.com/item?id=48609129) - [Canyon HUD helmet for road riding](https://media-centre.canyon.com/en-INT/266866-new-canyon-heads-up-display-helmet-could-be-a-safety-gamechanger-for-road-riding/)
 * [2026-06-20, 01:55:16](https://news.ycombinator.com/item?id=48605561) - [Help I accidentally a wigglegram](https://lmao.center/blog/wiggle-accidents/)
 * [2026-06-19, 11:06:04](https://news.ycombinator.com/item?id=48597221) - [My Mathematical Regression](https://blog.dahl.dev/posts/my-mathematical-regression/)
 

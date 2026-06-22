@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-06-22](index.md)
 
 * [2026-06-22, 21:00:51](https://news.ycombinator.com/item?id=48636125) - [Kyber (YC W23) Is Hiring a Head of Engineering](https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering)
+* [2026-06-22, 20:48:30](https://news.ycombinator.com/item?id=48635954) - [Nearly Half of LG Smart TV Apps Contain Residential Proxy SDKs](https://spur.us/blog/smart-tv-apps-residential-proxy-sdks)
 * [2026-06-22, 20:09:40](https://news.ycombinator.com/item?id=48635409) - [Walt Disney Company is the most successful at monetizing human nostalgia [audio]](https://www.acquired.fm/episodes/the-walt-disney-company)
 * [2026-06-22, 19:47:52](https://news.ycombinator.com/item?id=48635112) - [Jobs and Software Is Fucked](https://urflow.bearblog.dev/jobs-and-software-is-fucked/)
 * [2026-06-22, 19:22:37](https://news.ycombinator.com/item?id=48634803) - [Japanese symbols that speak without words](https://arun.is/blog/japan-symbols/)

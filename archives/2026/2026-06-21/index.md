@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-06-21](index.md)
 
 * [2026-06-21, 23:34:07](https://news.ycombinator.com/item?id=48623721) - [Petition against Meta's employee training data collection for ML models](https://mcipetition.com/)
+* [2026-06-21, 23:25:24](https://news.ycombinator.com/item?id=48623665) - [PivCo-Huffman \"Merge\" Operations](https://fgiesen.wordpress.com/2026/06/21/pivco-huffman-merge-operations/)
 * [2026-06-21, 22:55:23](https://news.ycombinator.com/item?id=48623434) - [Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions](https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions)
 * [2026-06-21, 22:53:50](https://news.ycombinator.com/item?id=48623419) - [Simple hard way to conjugate Japanese verbs](https://underreacted.leaflet.pub/3mmevu6woys27)
 * [2026-06-21, 22:16:17](https://news.ycombinator.com/item?id=48623159) - [I Gave an AI a Civilization to Run. It Built a Nuke – Launching CivBench](https://www.lwilko.com/blog/i-gave-an-ai-a-civilization)
