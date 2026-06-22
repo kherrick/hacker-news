@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-22, 07:30:17",
+      "https://news.ycombinator.com/item?id=48626930"
+    ],
+    [
+      "Codex logging bug may write TBs to local SSDs",
+      "https://github.com/openai/codex/issues/28224"
+    ]
+  ],
+  [
+    [
+      "2026-06-22, 07:29:17",
+      "https://news.ycombinator.com/item?id=48626918"
+    ],
+    [
+      "Investors get real-time view of UK bond market activity for the first time",
+      "https://www.fca.org.uk/news/press-releases/investors-get-real-time-view-uk-bond-market-activity-first-time"
+    ]
+  ],
+  [
+    [
       "2026-06-22, 07:22:03",
       "https://news.ycombinator.com/item?id=48626866"
     ],
@@ -17,16 +37,6 @@
     [
       "Deno Desktop",
       "https://docs.deno.com/runtime/desktop/"
-    ]
-  ],
-  [
-    [
-      "2026-06-22, 04:50:26",
-      "https://news.ycombinator.com/item?id=48625823"
-    ],
-    [
-      "Danish privacy activist Lars Andersen raided by police",
-      "https://twitter.com/LarsAnders1620/status/2068208864747540516#m"
     ]
   ],
   [
@@ -91,16 +101,6 @@
   ],
   [
     [
-      "2026-06-21, 21:30:25",
-      "https://news.ycombinator.com/item?id=48622788"
-    ],
-    [
-      "FDA advisors unanimously vote to approve Moderna's mRNA after agency drama",
-      "https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/"
-    ]
-  ],
-  [
-    [
       "2026-06-21, 21:29:43",
       "https://news.ycombinator.com/item?id=48622778"
     ],
@@ -127,16 +127,6 @@
     [
       "Everything is logarithms",
       "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-21, 21:05:37",
-      "https://news.ycombinator.com/item?id=48622590"
-    ],
-    [
-      "Show HN: Recall – Local project memory for Claude Code",
-      "https://github.com/raiyanyahya/recall"
     ]
   ],
   [
@@ -211,16 +201,6 @@
   ],
   [
     [
-      "2026-06-21, 11:38:01",
-      "https://news.ycombinator.com/item?id=48617990"
-    ],
-    [
-      "Beyond All Reason (Free Total Annihilation Inspired RTS)",
-      "https://www.beyondallreason.info"
-    ]
-  ],
-  [
-    [
       "2026-06-20, 13:18:28",
       "https://news.ycombinator.com/item?id=48609054"
     ],
@@ -271,12 +251,32 @@
   ],
   [
     [
+      "2026-06-19, 19:00:01",
+      "https://news.ycombinator.com/item?id=48601953"
+    ],
+    [
+      "Luis Alvarez's Journey from Hiroshima to the Death of the Dinosaurs",
+      "https://www.lrb.co.uk/the-paper/v48/n11/steven-shapin/barrel-of-greenbacks"
+    ]
+  ],
+  [
+    [
       "2026-06-19, 15:54:23",
       "https://news.ycombinator.com/item?id=48599998"
     ],
     [
       "Munich 1991: The Roots of the Current AI Boom",
       "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-19, 14:30:46",
+      "https://news.ycombinator.com/item?id=48599057"
+    ],
+    [
+      "My 1992 view of the problems of computer programming in 1992",
+      "https://blog.plover.com/prog/fortran-i.html"
     ]
   ],
   [
