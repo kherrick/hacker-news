@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-22, 03:09:22",
+      "https://news.ycombinator.com/item?id=48625192"
+    ],
+    [
+      "The Flat Curve Society",
+      "https://steve-yegge.medium.com/the-flat-curve-society-36c8b01eb33b"
+    ]
+  ],
+  [
+    [
       "2026-06-22, 02:08:18",
       "https://news.ycombinator.com/item?id=48624782"
     ],
@@ -11,32 +21,12 @@
   ],
   [
     [
-      "2026-06-22, 00:45:07",
-      "https://news.ycombinator.com/item?id=48624195"
-    ],
-    [
-      "The Doom Justifies the Valuation",
-      "https://geohot.github.io//blog/jekyll/update/2026/06/21/the-doom-justifies-the-valuation.html"
-    ]
-  ],
-  [
-    [
       "2026-06-22, 00:34:33",
       "https://news.ycombinator.com/item?id=48624114"
     ],
     [
       "1983 Northern Telecom Commodore Phone",
       "https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/"
-    ]
-  ],
-  [
-    [
-      "2026-06-21, 23:34:07",
-      "https://news.ycombinator.com/item?id=48623721"
-    ],
-    [
-      "Petition against Meta's employee training data collection for ML models",
-      "https://mcipetition.com/"
     ]
   ],
   [
@@ -55,8 +45,18 @@
       "https://news.ycombinator.com/item?id=48623419"
     ],
     [
-      "Simple hard way to conjugate Japanese verbs",
+      "Japanese verb conjugation the simple hard way",
       "https://underreacted.leaflet.pub/3mmevu6woys27"
+    ]
+  ],
+  [
+    [
+      "2026-06-21, 21:54:34",
+      "https://news.ycombinator.com/item?id=48622987"
+    ],
+    [
+      "Rent collections are down in New York",
+      "https://www.politico.com/news/2026/06/21/rent-collections-are-down-in-new-york-and-no-ones-sure-why-00966982"
     ]
   ],
   [
@@ -67,16 +67,6 @@
     [
       "Did my old job only exist because of fraud?",
       "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/"
-    ]
-  ],
-  [
-    [
-      "2026-06-21, 21:34:11",
-      "https://news.ycombinator.com/item?id=48622814"
-    ],
-    [
-      "My 1992 view of the problems of computer programming in 1992",
-      "https://blog.plover.com/prog/fortran-i.html"
     ]
   ],
   [
@@ -191,12 +181,12 @@
   ],
   [
     [
-      "2026-06-21, 12:55:08",
-      "https://news.ycombinator.com/item?id=48618536"
+      "2026-06-21, 12:49:48",
+      "https://news.ycombinator.com/item?id=48618488"
     ],
     [
-      "I was wrong about the Midjourney ultra-sound scanner",
-      "https://twitter.com/MattZirwas/status/2068365802491834541"
+      "Show HN: Teach your kids perfect pitch",
+      "https://github.com/paytonjjones/bsharp"
     ]
   ],
   [
@@ -221,12 +211,12 @@
   ],
   [
     [
-      "2026-06-20, 19:55:54",
-      "https://news.ycombinator.com/item?id=48612432"
+      "2026-06-20, 23:31:56",
+      "https://news.ycombinator.com/item?id=48614087"
     ],
     [
-      "Show HN: MiniPCs.zip – Charting the Pareto frontier of Mini PCs",
-      "https://minipcs.zip"
+      "Show HN: HN Game Stories – mini-documentary of games that hit the front page",
+      "https://video.intellios.ai"
     ]
   ],
   [
@@ -251,12 +241,22 @@
   ],
   [
     [
-      "2026-06-19, 02:10:16",
-      "https://news.ycombinator.com/item?id=48594090"
+      "2026-06-20, 01:55:16",
+      "https://news.ycombinator.com/item?id=48605561"
     ],
     [
-      "An Embedded Linux on a Single Floppy",
-      "https://github.com/w84death/floppinux"
+      "Help I accidentally a wigglegram",
+      "https://lmao.center/blog/wiggle-accidents/"
+    ]
+  ],
+  [
+    [
+      "2026-06-20, 00:42:50",
+      "https://news.ycombinator.com/item?id=48605085"
+    ],
+    [
+      "Efficient C++ Programming for Modern C++ CPUs, Chapter 4/part 2",
+      "https://6it.dev/blog/infographics-operation-costs-in-cpu-clock-cycles-take-2-80736"
     ]
   ],
   [
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=48589687"
     ],
     [
-      "I Play Video Games with Spinal Muscular Atrophy",
+      "How I play video games with spinal muscular atrophy",
       "https://www.openassistivetech.org/how-i-actually-play-video-games-with-sma-the-tools-i-use-every-day/"
     ]
   ],
