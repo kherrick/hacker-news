@@ -8,6 +8,7 @@
 * [2026-06-18, 23:08:35](https://news.ycombinator.com/item?id=48592832) - [The AirPods Effect](https://www.theescapenewsletter.com/p/the-airpods-effect)
 * [2026-06-18, 22:37:22](https://news.ycombinator.com/item?id=48592576) - [How Smashing The NIMBYs Created Modern Capitalism](https://worksinprogress.co/issue/how-abolishing-the-stakeholder-state-caused-the-industrial-revolution/)
 * [2026-06-18, 21:54:10](https://news.ycombinator.com/item?id=48592163) - [Zero-Touch OAuth for MCP](https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/)
+* [2026-06-18, 21:49:53](https://news.ycombinator.com/item?id=48592123) - [Shape Suffixes – Good Coding Style](https://medium.com/@NoamShazeer/shape-suffixes-good-coding-style-f836e72e24fd)
 * [2026-06-18, 21:03:31](https://news.ycombinator.com/item?id=48591562) - [Everything Is BOM: Bill of Materials Encyclopedia](https://bomwiki.com/)
 * [2026-06-18, 20:49:03](https://news.ycombinator.com/item?id=48591348) - [Show HN: Are You in the Weights?](https://www.intheweights.com/)
 * [2026-06-18, 20:44:00](https://news.ycombinator.com/item?id=48591276) - [Guide to the TD4 4-bit DIY CPU](https://www.philipzucker.com/td4-4bit-cpu/)
