@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-06-22](index.md)
 
+* [2026-06-22, 19:21:00](https://news.ycombinator.com/item?id=48634787) - [British Columbia, Time Zones, and Postgres](https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes)
+* [2026-06-22, 19:06:48](https://news.ycombinator.com/item?id=48634585) - [Canada is looking to build up to 10 new nuclear reactors over the next 15 years](https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509)
+* [2026-06-22, 19:04:49](https://news.ycombinator.com/item?id=48634559) - [Memory crisis is getting so bad that even retro RAM prices are going to the Moon](https://www.theregister.com/personal-tech/2026/06/22/the-memory-crisis-is-getting-so-bad-that-even-retro-ram-prices-are-going-to-the-moon/5259627)
+* [2026-06-22, 18:24:29](https://news.ycombinator.com/item?id=48633941) - [Linux and Secure Boot certificate expiration](https://lwn.net/Articles/1029767/)
 * [2026-06-22, 17:46:48](https://news.ycombinator.com/item?id=48633410) - [Finding the Best Dog Treat with Statistics](https://www.wespiser.com/posts/2026-06-19-best-dog-treat.html)
 * [2026-06-22, 17:18:49](https://news.ycombinator.com/item?id=48633012) - [Steam Machine Launches Today](https://store.steampowered.com/news/group/45479024/view/685257114654870245)
 * [2026-06-22, 17:17:29](https://news.ycombinator.com/item?id=48632989) - [Steam Machine Game Testing](https://www.lttlabs.com/articles/2026/06/22/the-newell-nucleus-steam-machine-ltt-companion-article)

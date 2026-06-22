@@ -72,6 +72,7 @@
 * [2026-06-20, 03:29:19](https://news.ycombinator.com/item?id=48606096) - [Memory Safe Inline Assembly](https://fil-c.org/inlineasm)
 * [2026-06-20, 01:55:16](https://news.ycombinator.com/item?id=48605561) - [Help I accidentally a wigglegram](https://lmao.center/blog/wiggle-accidents/)
 * [2026-06-20, 01:25:14](https://news.ycombinator.com/item?id=48605355) - [LLMs Are Complicated Now](https://ianbarber.blog/2026/06/19/llms-are-complicated-now/)
+* [2026-06-20, 01:19:33](https://news.ycombinator.com/item?id=48605318) - [A New Book on Plagiarism](https://www.commentary.org/articles/joseph-epstein/plagiarism-writing-politics-arts/)
 * [2026-06-20, 01:18:30](https://news.ycombinator.com/item?id=48605310) - [Why has the pointe shoe been so resistant to change?](https://dancemagazine.com/pointe-shoe-innovation/)
 * [2026-06-20, 01:16:56](https://news.ycombinator.com/item?id=48605301) - [How to feed a dictator](https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film)
 * [2026-06-20, 01:01:59](https://news.ycombinator.com/item?id=48605208) - [A record 242 US cities now have starter homes that cost $1M](https://investors.zillowgroup.com/news-and-events/news/news-details/2026/A-record-242-US-cities-now-have-starter-homes-that-cost-1M/default.aspx)
