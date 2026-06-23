@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-20](index.md)
 
+* [2026-06-20, 23:33:19](https://news.ycombinator.com/item?id=48614097) - [Giant Banana Pulled Over: Driver Says Cops Have Stopped Him 100s of Times](https://cowboystatedaily.com/2026/06/18/giant-banana-pulled-over-in-montana-driver-says-cops-have-stopped-him-100s-of-times/)
 * [2026-06-20, 23:31:56](https://news.ycombinator.com/item?id=48614087) - [Show HN: HN Game Stories – mini-documentary of games that hit the front page](https://video.intellios.ai)
 * [2026-06-20, 23:07:09](https://news.ycombinator.com/item?id=48613872) - [Epoll vs. Io_uring in Linux](https://sibexi.co/posts/epoll-vs-io_uring/)
 * [2026-06-20, 22:54:11](https://news.ycombinator.com/item?id=48613755) - [Not just books: renting a sewing machine from the library can improve democracy](https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland)

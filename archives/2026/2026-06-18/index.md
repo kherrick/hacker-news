@@ -31,6 +31,7 @@
 * [2026-06-18, 16:09:54](https://news.ycombinator.com/item?id=48587584) - [Mencius](https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/265d73a0-6bfa-45df-92ff-4e7d3f8be4b1/content)
 * [2026-06-18, 16:05:58](https://news.ycombinator.com/item?id=48587527) - [The Harajuku Moment](https://tim.blog/2024/02/09/harajuku-moment/)
 * [2026-06-18, 15:23:30](https://news.ycombinator.com/item?id=48586811) - [Show HN: 10x better performance from the Coding Harnesses with LLM-wiki](https://llm-wiki.net/)
+* [2026-06-18, 15:20:31](https://news.ycombinator.com/item?id=48586767) - [Package Managers need global hooks](https://captnemo.in/blog/2026/06/17/package-managers-need-hooks/)
 * [2026-06-18, 15:13:26](https://news.ycombinator.com/item?id=48586648) - [TerraPower in Deal with Meta for Eight Natrium 345 MW Advanced Nuclear Plants](https://neutronbytes.com/2026/01/09/terrapower-in-mega-deal-with-meta-for-eight-natrium-345-mw-advanced-nuclear-plants/)
 * [2026-06-18, 15:12:43](https://news.ycombinator.com/item?id=48586631) - [A website that lists websites to submit your website to](https://www.submission.directory/)
 * [2026-06-18, 14:51:53](https://news.ycombinator.com/item?id=48586329) - [Building a robotics research setup that lives next to my desk](https://dfdxlabs.com/research/2026/robotics-setup/)
