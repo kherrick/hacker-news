@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-06-23](index.md)
 
+* [2026-06-23, 19:45:07](https://news.ycombinator.com/item?id=48650311) - [Anthropic updates their terms to verify age or identity](https://www.anthropic.com/legal/privacy)
+* [2026-06-23, 18:56:19](https://news.ycombinator.com/item?id=48649673) - [AI Hiring Tools Yield Racial Bias and Systemic Rejection; 26% Black & 15% Asian](https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection)
 * [2026-06-23, 18:40:22](https://news.ycombinator.com/item?id=48649435) - [Jerry's Map](http://www.jerrysmap.com/the-map)
 * [2026-06-23, 18:35:50](https://news.ycombinator.com/item?id=48649358) - [Modal Auto Endpoints: Optimized inference you own](https://modal.com/blog/introducing-auto-endpoints)
 * [2026-06-23, 18:13:40](https://news.ycombinator.com/item?id=48649011) - [Fired by Google for Creating the Google Workspace CLI](https://twitter.com/JPoehnelt/status/2069482265953087602)
 * [2026-06-23, 18:07:48](https://news.ycombinator.com/item?id=48648893) - [I am a person who will look at the Steam Machine and cry](https://blog.zarfhome.com/2026/06/steam-machine-oh-no)
 * [2026-06-23, 18:00:58](https://news.ycombinator.com/item?id=48648779) - [Swift Package Index Joins Apple](https://swiftpackageindex.com/blog/swift-package-index-joins-apple)
+* [2026-06-23, 17:50:22](https://news.ycombinator.com/item?id=48648619) - [FUTO Swipe – A new swipe typing model](https://swipe.futo.tech/)
 * [2026-06-23, 17:46:18](https://news.ycombinator.com/item?id=48648558) - [The truth about being a manager](https://sofiakodar.github.io/posts/becomingmanager/)
 * [2026-06-23, 17:31:34](https://news.ycombinator.com/item?id=48648371) - [75% More Pedestrians Have Been Killed Since 2009. Giant Trucks and SUVs Are Why](https://www.thedrive.com/news/75-more-pedestrians-have-been-killed-since-2009-giant-trucks-and-suvs-are-why)
 * [2026-06-23, 17:09:18](https://news.ycombinator.com/item?id=48648039) - [Claude Tag](https://www.anthropic.com/news/introducing-claude-tag)
