@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-06-23](index.md)
 
+* [2026-06-23, 18:40:22](https://news.ycombinator.com/item?id=48649435) - [Jerry's Map](http://www.jerrysmap.com/the-map)
+* [2026-06-23, 18:35:50](https://news.ycombinator.com/item?id=48649358) - [Modal Auto Endpoints: Optimized inference you own](https://modal.com/blog/introducing-auto-endpoints)
+* [2026-06-23, 18:13:40](https://news.ycombinator.com/item?id=48649011) - [Fired by Google for Creating the Google Workspace CLI](https://twitter.com/JPoehnelt/status/2069482265953087602)
 * [2026-06-23, 18:07:48](https://news.ycombinator.com/item?id=48648893) - [I am a person who will look at the Steam Machine and cry](https://blog.zarfhome.com/2026/06/steam-machine-oh-no)
 * [2026-06-23, 18:00:58](https://news.ycombinator.com/item?id=48648779) - [Swift Package Index Joins Apple](https://swiftpackageindex.com/blog/swift-package-index-joins-apple)
 * [2026-06-23, 17:46:18](https://news.ycombinator.com/item?id=48648558) - [The truth about being a manager](https://sofiakodar.github.io/posts/becomingmanager/)
@@ -13,6 +16,7 @@
 * [2026-06-23, 16:55:26](https://news.ycombinator.com/item?id=48647823) - [San Diego Photologs from the 1970s](https://www.beautifulpublicdata.com/san-diego-photologs-from-the-1970s/)
 * [2026-06-23, 16:53:32](https://news.ycombinator.com/item?id=48647799) - [F3](https://github.com/future-file-format/f3)
 * [2026-06-23, 16:45:50](https://news.ycombinator.com/item?id=48647696) - [Backblaze Announces Five-Year Multi-Exabyte Agreement with CoreWeave](https://www.businesswire.com/news/home/20260622788628/en/Backblaze-Announces-Five-Year-Multi-Exabyte-Data-Storage-Agreement-with-CoreWeave)
+* [2026-06-23, 16:30:18](https://news.ycombinator.com/item?id=48647486) - [The worthlessness of Vitamin D is mildly exaggerated](https://dynomight.net/vitamin-d/)
 * [2026-06-23, 16:27:49](https://news.ycombinator.com/item?id=48647444) - [Digital euro clears key hurdle as EU seeks to break free from U.S. credit cards](https://finance.yahoo.com/markets/currencies/articles/ecb-secures-key-parliamentary-backing-102718449.html)
 * [2026-06-23, 16:21:49](https://news.ycombinator.com/item?id=48647360) - [Pact: Anonymous Credentials for the Web](https://hacks.mozilla.org/2026/06/pact-anonymous-credentials-for-the-web/)
 * [2026-06-23, 15:11:17](https://news.ycombinator.com/item?id=48646276) - [AI's Affordability Crisis](https://blog.dshr.org/2026/06/ais-affordability-crisis.html)

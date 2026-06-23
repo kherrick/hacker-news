@@ -8,6 +8,7 @@
 * [2026-06-21, 23:25:24](https://news.ycombinator.com/item?id=48623665) - [PivCo-Huffman \"Merge\" Operations](https://fgiesen.wordpress.com/2026/06/21/pivco-huffman-merge-operations/)
 * [2026-06-21, 22:55:23](https://news.ycombinator.com/item?id=48623434) - [Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions](https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions)
 * [2026-06-21, 22:53:50](https://news.ycombinator.com/item?id=48623419) - [Simple hard way to conjugate Japanese verbs](https://underreacted.leaflet.pub/3mmevu6woys27)
+* [2026-06-21, 22:42:32](https://news.ycombinator.com/item?id=48623347) - [The deadly rise of giant trucks and SUVs](https://www.nytimes.com/interactive/2026/06/21/us/trucks-suv-pedestrian-crashes.html)
 * [2026-06-21, 22:16:17](https://news.ycombinator.com/item?id=48623159) - [I Gave an AI a Civilization to Run. It Built a Nuke – Launching CivBench](https://www.lwilko.com/blog/i-gave-an-ai-a-civilization)
 * [2026-06-21, 21:54:34](https://news.ycombinator.com/item?id=48622987) - [Rent collections are down in New York – and no one's sure why](https://www.politico.com/news/2026/06/21/rent-collections-are-down-in-new-york-and-no-ones-sure-why-00966982)
 * [2026-06-21, 21:40:53](https://news.ycombinator.com/item?id=48622867) - [Did my old job only exist because of fraud?](https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/)
