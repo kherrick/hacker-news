@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-06-23](index.md)
 
+* [2026-06-23, 10:04:04](https://news.ycombinator.com/item?id=48642699) - [Crypto in 2026: Oh, This Is the Bad Place](https://www.stephendiehl.com/posts/bad_place_2026/)
+* [2026-06-23, 09:00:48](https://news.ycombinator.com/item?id=48642232) - [The Traditional Vi](https://ex-vi.sourceforge.net/)
+* [2026-06-23, 08:31:48](https://news.ycombinator.com/item?id=48642030) - [Show HN: Neural Particle Automata](https://selforg-npa.github.io/)
 * [2026-06-23, 08:16:45](https://news.ycombinator.com/item?id=48641927) - [AI Built a Nuke and Still Lost](https://www.lwilko.com/blog/i-gave-an-ai-a-civilization)
 * [2026-06-23, 07:57:16](https://news.ycombinator.com/item?id=48641763) - [Show HN: Ideate a trading strategy with an Ex-Citadel Trader](https://sean-but-ai.vercel.app/)
 * [2026-06-23, 06:33:52](https://news.ycombinator.com/item?id=48641160) - [Ask HN: Anthropic banned me from using Claude Code and I don't know what to do](https://news.ycombinator.com/item?id=48641160)

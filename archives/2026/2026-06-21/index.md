@@ -41,6 +41,7 @@
 * [2026-06-21, 12:44:13](https://news.ycombinator.com/item?id=48618455) - [Anthropic to Require ID Verification for Certain Capabilities Starting July 8](https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_anthropic_to_require_identity/)
 * [2026-06-21, 12:42:24](https://news.ycombinator.com/item?id=48618442) - [Smashing the NIMBYs created modern capitalism](https://worksinprogress.co/issue/how-abolishing-the-stakeholder-state-caused-the-industrial-revolution/)
 * [2026-06-21, 12:11:29](https://news.ycombinator.com/item?id=48618226) - [David Ahl's Basic Computer Games Ported to C](https://github.com/proteanthread/bcg)
+* [2026-06-21, 12:00:58](https://news.ycombinator.com/item?id=48618162) - [Scaling Akvorado BMP RIB with Sharding](https://vincent.bernat.ch/en/blog/2026-akvorado-rib-sharding)
 * [2026-06-21, 11:50:37](https://news.ycombinator.com/item?id=48618086) - [100 Greatest Bird Names of All Time](https://birdhistory.substack.com/p/the-100-greatest-bird-names-of-all)
 * [2026-06-21, 11:38:09](https://news.ycombinator.com/item?id=48617991) - [Foreign-Born Entrepreneurs Drive America's Unicorn Boom](https://news.crunchbase.com/venture/foreign-born-entrepreneurs-drive-americas-unicorn-boom-strebulaev-stanford/)
 * [2026-06-21, 11:38:01](https://news.ycombinator.com/item?id=48617990) - [Beyond All Reason (Free Total Annihilation Inspired RTS)](https://www.beyondallreason.info)
