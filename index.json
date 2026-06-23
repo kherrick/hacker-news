@@ -1,22 +1,52 @@
 [
   [
     [
-      "2026-06-23, 20:30:25",
-      "https://news.ycombinator.com/item?id=48650924"
+      "2026-06-23, 21:19:44",
+      "https://news.ycombinator.com/item?id=48651613"
     ],
     [
-      "Scars mark Britain's economy 10 years after Brexit vote",
-      "https://www.reuters.com/world/uk/scars-mark-britains-economy-10-years-after-brexit-vote-2026-06-23/"
+      "German Rail Service Suspended Due to Radio Interference",
+      "https://www.bluewin.ch/en/news/german-rail-service-suspended-due-to-radio-interference-li.3295297"
     ]
   ],
   [
     [
-      "2026-06-23, 19:45:07",
-      "https://news.ycombinator.com/item?id=48650311"
+      "2026-06-23, 21:14:08",
+      "https://news.ycombinator.com/item?id=48651552"
     ],
     [
-      "Anthropic updates their terms to verify age or identity",
-      "https://www.anthropic.com/legal/privacy"
+      "All train services in Germany halted after train radio communications disruption",
+      "https://english.news.cn/20260624/65f1b6192cd947e28849776a5aef05c6/c.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-23, 21:09:25",
+      "https://news.ycombinator.com/item?id=48651494"
+    ],
+    [
+      "No AI Co-Authors. A Manifesto",
+      "https://no-ai-coauthors.dev"
+    ]
+  ],
+  [
+    [
+      "2026-06-23, 20:47:45",
+      "https://news.ycombinator.com/item?id=48651163"
+    ],
+    [
+      "Audit finds San Francisco tax official steered $10M contract to friend",
+      "https://sfstandard.com/2026/06/23/audit-sparked-standard-investigation-finds-tax-official-steered-10m-contract-friend/"
+    ]
+  ],
+  [
+    [
+      "2026-06-23, 20:23:49",
+      "https://news.ycombinator.com/item?id=48650837"
+    ],
+    [
+      "Don't verify email addresses by sending spam to them",
+      "https://milek7.pl/mailverifyspam/"
     ]
   ],
   [
@@ -141,26 +171,6 @@
   ],
   [
     [
-      "2026-06-23, 14:19:47",
-      "https://news.ycombinator.com/item?id=48645386"
-    ],
-    [
-      "Elevated error rate across multiple models",
-      "https://status.claude.com/incidents/jbhf20wjmzrf"
-    ]
-  ],
-  [
-    [
-      "2026-06-23, 14:04:43",
-      "https://news.ycombinator.com/item?id=48645173"
-    ],
-    [
-      "What we call \"age verification\" is actually mass surveillance",
-      "https://pluralistic.net/2026/06/23/destroy-the-village/"
-    ]
-  ],
-  [
-    [
       "2026-06-23, 14:03:19",
       "https://news.ycombinator.com/item?id=48645152"
     ],
@@ -221,32 +231,22 @@
   ],
   [
     [
-      "2026-06-22, 17:46:48",
-      "https://news.ycombinator.com/item?id=48633410"
-    ],
-    [
-      "Finding the best dog treat with statistics",
-      "https://www.wespiser.com/posts/2026-06-19-best-dog-treat.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-22, 17:09:51",
-      "https://news.ycombinator.com/item?id=48632884"
-    ],
-    [
-      "Steam Machine launches today",
-      "https://store.steampowered.com/news/group/45479024/view/685257114654870245"
-    ]
-  ],
-  [
-    [
       "2026-06-21, 22:42:32",
       "https://news.ycombinator.com/item?id=48623347"
     ],
     [
       "The deadly rise of giant trucks and SUVs",
       "https://www.nytimes.com/interactive/2026/06/21/us/trucks-suv-pedestrian-crashes.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-21, 20:44:33",
+      "https://news.ycombinator.com/item?id=48622433"
+    ],
+    [
+      "F* file system – file search that reads SSD directly bypassing OS kernel",
+      "https://github.com/dmtrKovalenko/ffs"
     ]
   ],
   [
