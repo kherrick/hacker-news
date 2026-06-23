@@ -19,6 +19,7 @@
 * [2026-06-23, 18:56:19](https://news.ycombinator.com/item?id=48649673) - [AI Hiring Tools Yield Racial Bias and Systemic Rejection; 26% Black & 15% Asian](https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection)
 * [2026-06-23, 18:40:22](https://news.ycombinator.com/item?id=48649435) - [Jerry's Map](http://www.jerrysmap.com/the-map)
 * [2026-06-23, 18:35:50](https://news.ycombinator.com/item?id=48649358) - [Modal Auto Endpoints: Optimized inference you own](https://modal.com/blog/introducing-auto-endpoints)
+* [2026-06-23, 18:21:52](https://news.ycombinator.com/item?id=48649137) - [Show HN: RLM-based local debugger for AI agent traces](https://github.com/context-labs/halo)
 * [2026-06-23, 18:13:40](https://news.ycombinator.com/item?id=48649011) - [Fired by Google for Creating the Google Workspace CLI](https://twitter.com/JPoehnelt/status/2069482265953087602)
 * [2026-06-23, 18:10:47](https://news.ycombinator.com/item?id=48648959) - [In memory of the man who put red and green squiggles under words](https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451)
 * [2026-06-23, 18:07:48](https://news.ycombinator.com/item?id=48648893) - [I am a person who will look at the Steam Machine and cry](https://blog.zarfhome.com/2026/06/steam-machine-oh-no)

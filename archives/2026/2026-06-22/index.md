@@ -57,6 +57,7 @@
 * [2026-06-22, 07:22:03](https://news.ycombinator.com/item?id=48626866) - [GLM 5.2 vs. Opus](https://techstackups.com/comparisons/glm-5.2-vs-opus/)
 * [2026-06-22, 07:14:08](https://news.ycombinator.com/item?id=48626807) - [On the Skin-Furrows of the Hand (1880) [pdf]](https://galton.org/fingerprints/faulds-1880-nature-furrows.pdf)
 * [2026-06-22, 05:38:40](https://news.ycombinator.com/item?id=48626137) - [Deno Desktop](https://docs.deno.com/runtime/desktop/)
+* [2026-06-22, 05:31:22](https://news.ycombinator.com/item?id=48626071) - [2004 Huygens probe to Saturn's Titan: still our only outer Solar System lander](https://spacedaily.com/t-no-spacecraft-has-ever-landed-in-the-outer-solar-system-except-one-the-huygens-probe-which-parachuted-through-titans-orange-haze-in-2005-and-touched-down-more-than-a-billion-kilometres-fr/)
 * [2026-06-22, 04:50:26](https://news.ycombinator.com/item?id=48625823) - [Danish privacy activist Lars Andersen raided by police](https://twitter.com/LarsAnders1620/status/2068208864747540516#m)
 * [2026-06-22, 03:09:22](https://news.ycombinator.com/item?id=48625192) - [The Flat Curve Society](https://steve-yegge.medium.com/the-flat-curve-society-36c8b01eb33b)
 * [2026-06-22, 02:08:18](https://news.ycombinator.com/item?id=48624782) - [Sakana Fugu](https://sakana.ai/fugu/)
