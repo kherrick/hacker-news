@@ -9,6 +9,7 @@
 * [2026-06-20, 23:07:09](https://news.ycombinator.com/item?id=48613872) - [Epoll vs. Io_uring in Linux](https://sibexi.co/posts/epoll-vs-io_uring/)
 * [2026-06-20, 22:54:11](https://news.ycombinator.com/item?id=48613755) - [Not just books: renting a sewing machine from the library can improve democracy](https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland)
 * [2026-06-20, 22:50:43](https://news.ycombinator.com/item?id=48613732) - [Turns Out, There Is a Cabal of Elite Crazies Trying to Control the World](https://www.esquire.com/news-politics/politics/a71619211/peter-thiel-dialog-club-wired-report/)
+* [2026-06-20, 22:38:46](https://news.ycombinator.com/item?id=48613650) - [Researchers used math to crack Wordle](https://www.binghamton.edu/news/story/6327/s-m-a-r-t-these-researchers-used-math-to-crack-wordle)
 * [2026-06-20, 22:36:23](https://news.ycombinator.com/item?id=48613631) - [Pre-2022 Books](https://notes.lorenzogravina.com/musings/pre-2022-books)
 * [2026-06-20, 22:22:52](https://news.ycombinator.com/item?id=48613555) - [Slow breathing modulates brain function and risk behavior](https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9)
 * [2026-06-20, 22:14:15](https://news.ycombinator.com/item?id=48613481) - [Tesla allegedly in autopilot mode crashes into Texas house, woman killed](https://abcnews.com/US/tesla-allegedly-autopilot-mode-crashes-texas-house-woman/story?id=134062374)
