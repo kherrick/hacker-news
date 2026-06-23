@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-23, 14:04:43",
+      "https://news.ycombinator.com/item?id=48645173"
+    ],
+    [
+      "Spying on kids to save kids from spying is stupid",
+      "https://pluralistic.net/2026/06/23/destroy-the-village/"
+    ]
+  ],
+  [
+    [
+      "2026-06-23, 13:36:10",
+      "https://news.ycombinator.com/item?id=48644781"
+    ],
+    [
+      "MSG Made Dossier on Activists Who Opposed Facial Recognition",
+      "https://www.404media.co/madison-square-garden-made-dossier-on-activists-who-opposed-facial-recognition/"
+    ]
+  ],
+  [
+    [
       "2026-06-23, 11:54:48",
       "https://news.ycombinator.com/item?id=48643620"
     ],
@@ -17,16 +37,6 @@
     [
       "Unlimited OCR: One-Shot Long-Horizon Parsing",
       "https://github.com/baidu/Unlimited-OCR"
-    ]
-  ],
-  [
-    [
-      "2026-06-23, 11:33:29",
-      "https://news.ycombinator.com/item?id=48643407"
-    ],
-    [
-      "Wikipedia cofounder Larry Sanger blocked from editing Wikipedia",
-      "https://en.wikipedia.org/wiki/User:Larry_Sanger"
     ]
   ],
   [
@@ -71,6 +81,16 @@
   ],
   [
     [
+      "2026-06-23, 09:51:49",
+      "https://news.ycombinator.com/item?id=48642610"
+    ],
+    [
+      "You already have a Git server",
+      "https://gopeek-lovat.vercel.app/blog-you-already-have-a-git-server.html"
+    ]
+  ],
+  [
+    [
       "2026-06-23, 09:00:48",
       "https://news.ycombinator.com/item?id=48642232"
     ],
@@ -107,16 +127,6 @@
     [
       "Who Does What? Team Topologies for the Agentic Platform",
       "https://blog.owulveryck.info/2026/06/22/who-does-what-team-topologies-for-the-agentic-platform.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-23, 04:28:14",
-      "https://news.ycombinator.com/item?id=48640278"
-    ],
-    [
-      "Show HN: A pure ARM64 Assembly web server, now on Linux with CGI for no reason",
-      "https://github.com/imtomt/ymawky/tree/linux"
     ]
   ],
   [
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2026-06-22, 19:06:48",
-      "https://news.ycombinator.com/item?id=48634585"
-    ],
-    [
-      "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
-      "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509"
-    ]
-  ],
-  [
-    [
       "2026-06-22, 17:09:51",
       "https://news.ycombinator.com/item?id=48632884"
     ],
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2026-06-21, 06:26:48",
-      "https://news.ycombinator.com/item?id=48616182"
+      "2026-06-21, 07:15:18",
+      "https://news.ycombinator.com/item?id=48616437"
     ],
     [
-      "Improvements to Std:Format in C++26",
-      "https://mariusbancila.ro/blog/2026/06/19/improvements-to-stdformat-in-c26/"
+      "CL-BBS: the schemeBBS-like textboard rewritten in Common Lisp",
+      "https://github.com/ryukinix/cl-bbs"
     ]
   ],
   [
