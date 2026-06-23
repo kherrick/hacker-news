@@ -51,6 +51,7 @@
 * [2026-06-19, 11:06:04](https://news.ycombinator.com/item?id=48597221) - [My Mathematical Regression](https://blog.dahl.dev/posts/my-mathematical-regression/)
 * [2026-06-19, 10:16:20](https://news.ycombinator.com/item?id=48596911) - [The room the economy can't see](https://wilsoniumite.com/2026/06/19/the-room-the-economy-cant-see/)
 * [2026-06-19, 10:16:10](https://news.ycombinator.com/item?id=48596910) - [Norway greenlights first full-scale ship tunnel](https://eandt.theiet.org/2026/06/18/norway-greenlights-world-s-first-full-scale-ship-tunnel)
+* [2026-06-19, 09:08:00](https://news.ycombinator.com/item?id=48596488) - [Plotnine](https://plotnine.org/)
 * [2026-06-19, 06:35:57](https://news.ycombinator.com/item?id=48595511) - [Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28](https://www.jvm-weekly.com/p/project-valhalla-explained-how-a)
 * [2026-06-19, 06:05:01](https://news.ycombinator.com/item?id=48595331) - [So You Want to Define a Well-Known URI](https://mnot.net/blog/2026/well_known_uris)
 * [2026-06-19, 05:37:51](https://news.ycombinator.com/item?id=48595144) - [Generative AI Is Having Its Herbalife Moment](https://www.whatwelo.st/p/generative-ai-is-having-its-herbalife)

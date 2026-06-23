@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-06-23, 06:33:52](https://news.ycombinator.com/item?id=48641160) - [Ask HN: Anthropic banned me from using Claude Code and I don't know what to do](https://news.ycombinator.com/item?id=48641160)
 * [2026-06-23, 06:05:37](https://news.ycombinator.com/item?id=48640974) - [The new HTTP QUERY method explained](https://kreya.app/blog/new-http-query-method-explained/)
 * [2026-06-23, 04:28:14](https://news.ycombinator.com/item?id=48640278) - [Show HN: A pure ARM64 Assembly web server, now on Linux with CGI for no reason](https://github.com/imtomt/ymawky/tree/linux)
 * [2026-06-23, 04:15:04](https://news.ycombinator.com/item?id=48640196) - [Will It Mythos?](https://swelljoe.com/post/will-it-mythos/)
@@ -10,7 +9,6 @@
 * [2026-06-23, 01:52:20](https://news.ycombinator.com/item?id=48639165) - [An Introduction to YOLO26](https://blog.roboflow.com/yolo26/)
 * [2026-06-23, 01:36:08](https://news.ycombinator.com/item?id=48639063) - [OpenAI DayBreak – GPT-5.5-Cyber](https://openai.com/index/daybreak-securing-the-world/)
 * [2026-06-23, 01:15:05](https://news.ycombinator.com/item?id=48638886) - [In praise of memcached](https://jchri.st/blog/in-praise-of-memcached/)
-* [2026-06-22, 21:21:08](https://news.ycombinator.com/item?id=48636380) - [ytr: YouTube Radio for Emacs](https://xenodium.com/ytr-youtube-radio-for-emacs)
 * [2026-06-22, 21:21:01](https://news.ycombinator.com/item?id=48636377) - [GLM-5.2 – How to Run Locally](https://unsloth.ai/docs/models/glm-5.2)
 * [2026-06-22, 21:00:51](https://news.ycombinator.com/item?id=48636125) - [Kyber (YC W23) Is Hiring a Head of Engineering](https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering)
 * [2026-06-22, 19:22:37](https://news.ycombinator.com/item?id=48634803) - [Japanese symbols that speak without words](https://arun.is/blog/japan-symbols/)
@@ -21,6 +19,7 @@
 * [2026-06-22, 15:37:48](https://news.ycombinator.com/item?id=48631726) - [Show HN: Oak – Git alternative designed for agents](https://oak.space/oak/oak)
 * [2026-06-22, 13:53:02](https://news.ycombinator.com/item?id=48630171) - [Moebius: 0.2B image inpainting model with 10B-level performance](https://hustvl.github.io/Moebius/)
 * [2026-06-22, 12:23:46](https://news.ycombinator.com/item?id=48629213) - [Show HN: Got sick of ads, so I made my own logic puzzle site](https://puzzlelair.com/)
+* [2026-06-22, 05:38:40](https://news.ycombinator.com/item?id=48626137) - [Deno Desktop](https://docs.deno.com/runtime/desktop/)
 * [2026-06-21, 06:26:48](https://news.ycombinator.com/item?id=48616182) - [Improvements to Std:Format in C++26](https://mariusbancila.ro/blog/2026/06/19/improvements-to-stdformat-in-c26/)
 * [2026-06-21, 01:12:21](https://news.ycombinator.com/item?id=48614715) - [Polymarket has flooded social media with deceptive videos by paid creators](https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=HhTZY2)
 * [2026-06-20, 17:44:50](https://news.ycombinator.com/item?id=48611251) - [How Lume Works: The Retrieval Primitives](https://deepbluedynamics.com/blog/lume-retrieval-primitives)
@@ -29,6 +28,7 @@
 * [2026-06-20, 01:55:16](https://news.ycombinator.com/item?id=48605561) - [Help I accidentally a wigglegram](https://lmao.center/blog/wiggle-accidents/)
 * [2026-06-19, 13:51:49](https://news.ycombinator.com/item?id=48598591) - [Windows NT for GameCube/Wii](https://github.com/Wack0/entii-for-workcubes)
 * [2026-06-19, 11:06:04](https://news.ycombinator.com/item?id=48597221) - [My Mathematical Regression](https://blog.dahl.dev/posts/my-mathematical-regression/)
+* [2026-06-19, 09:08:00](https://news.ycombinator.com/item?id=48596488) - [Plotnine](https://plotnine.org/)
 * [2026-06-18, 15:20:31](https://news.ycombinator.com/item?id=48586767) - [Package Managers need global hooks](https://captnemo.in/blog/2026/06/17/package-managers-need-hooks/)
 
 ## [Archives](archives/index.md)
