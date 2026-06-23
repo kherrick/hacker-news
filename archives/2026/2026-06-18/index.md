@@ -39,6 +39,7 @@
 * [2026-06-18, 14:45:43](https://news.ycombinator.com/item?id=48586231) - [What was nice about the UI of Windows 2000](https://movq.de/blog/postings/2026-06-16/0/POSTING-en.html)
 * [2026-06-18, 14:32:13](https://news.ycombinator.com/item?id=48586005) - [Migrate from OpenClaw](https://hermes-agent.nousresearch.com/docs/guides/migrate-from-openclaw)
 * [2026-06-18, 14:24:30](https://news.ycombinator.com/item?id=48585866) - [Ubiquiti: Enterprise NAS, Built on ZFS](https://blog.ui.com/article/introducing-enterprise-nas)
+* [2026-06-18, 14:23:38](https://news.ycombinator.com/item?id=48585852) - [Usbliter8: an A12/A13 SecureROM Exploit](https://ps.tc/pages/blog-usbliter8.html)
 * [2026-06-18, 14:17:07](https://news.ycombinator.com/item?id=48585746) - [Swiss parliament lifts ban on new nuclear power plants](https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html)
 * [2026-06-18, 14:16:25](https://news.ycombinator.com/item?id=48585739) - [Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts](https://gerrymandle.cc/)
 * [2026-06-18, 13:21:28](https://news.ycombinator.com/item?id=48584891) - [Wages in America Are Too Low for the 30% Rule to Work for Renters Anymore](https://www.realtor.com/advice/rent/wages-in-america-are-too-low-for-the-30-rule-to-work-for-renters-anymore/)
