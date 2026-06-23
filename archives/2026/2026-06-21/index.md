@@ -39,6 +39,7 @@
 * [2026-06-21, 13:51:31](https://news.ycombinator.com/item?id=48619005) - [AI Under Trump's Control: Can France Still Avoid Digital Dependence?](https://thenewassociationwebmasters.blogspot.com/2026/06/ai-under-american-control-can-france.html)
 * [2026-06-21, 12:55:08](https://news.ycombinator.com/item?id=48618536) - [I was wrong about the Midjourney ultra-sound scanner](https://twitter.com/MattZirwas/status/2068365802491834541)
 * [2026-06-21, 12:49:48](https://news.ycombinator.com/item?id=48618488) - [Show HN: Teach your kids perfect pitch](https://github.com/paytonjjones/bsharp)
+* [2026-06-21, 12:49:02](https://news.ycombinator.com/item?id=48618481) - [Printing Gaussian Splats](https://www.patreon.com/DanyBittel/posts/printing-splats-161333338)
 * [2026-06-21, 12:44:13](https://news.ycombinator.com/item?id=48618455) - [Identity verification on Claude](https://support.claude.com/en/articles/14328960-identity-verification-on-claude)
 * [2026-06-21, 12:44:13](https://news.ycombinator.com/item?id=48618455) - [Anthropic to Require ID Verification for Certain Capabilities Starting July 8](https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_anthropic_to_require_identity/)
 * [2026-06-21, 12:42:24](https://news.ycombinator.com/item?id=48618442) - [Smashing the NIMBYs created modern capitalism](https://worksinprogress.co/issue/how-abolishing-the-stakeholder-state-caused-the-industrial-revolution/)

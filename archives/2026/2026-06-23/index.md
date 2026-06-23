@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-23](index.md)
 
+* [2026-06-23, 20:30:25](https://news.ycombinator.com/item?id=48650924) - [Scars mark Britain's economy 10 years after Brexit vote](https://www.reuters.com/world/uk/scars-mark-britains-economy-10-years-after-brexit-vote-2026-06-23/)
 * [2026-06-23, 19:45:07](https://news.ycombinator.com/item?id=48650311) - [Anthropic updates their terms to verify age or identity](https://www.anthropic.com/legal/privacy)
 * [2026-06-23, 18:56:19](https://news.ycombinator.com/item?id=48649673) - [AI Hiring Tools Yield Racial Bias and Systemic Rejection; 26% Black & 15% Asian](https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection)
 * [2026-06-23, 18:40:22](https://news.ycombinator.com/item?id=48649435) - [Jerry's Map](http://www.jerrysmap.com/the-map)
@@ -22,6 +23,7 @@
 * [2026-06-23, 16:30:18](https://news.ycombinator.com/item?id=48647486) - [The worthlessness of Vitamin D is mildly exaggerated](https://dynomight.net/vitamin-d/)
 * [2026-06-23, 16:27:49](https://news.ycombinator.com/item?id=48647444) - [Digital euro clears key hurdle as EU seeks to break free from U.S. credit cards](https://finance.yahoo.com/markets/currencies/articles/ecb-secures-key-parliamentary-backing-102718449.html)
 * [2026-06-23, 16:21:49](https://news.ycombinator.com/item?id=48647360) - [Pact: Anonymous Credentials for the Web](https://hacks.mozilla.org/2026/06/pact-anonymous-credentials-for-the-web/)
+* [2026-06-23, 15:22:41](https://news.ycombinator.com/item?id=48646511) - [Show HN: The Cascade Graph – An interactive map of AI and energy constraints](https://atomprophet.io/tools/cascade/)
 * [2026-06-23, 15:11:17](https://news.ycombinator.com/item?id=48646276) - [AI's Affordability Crisis](https://blog.dshr.org/2026/06/ais-affordability-crisis.html)
 * [2026-06-23, 15:07:30](https://news.ycombinator.com/item?id=48646209) - [Show HN: Treedocs: Documentation that automatically checks for staleness](https://dandylyons.github.io/treedocs/)
 * [2026-06-23, 14:40:17](https://news.ycombinator.com/item?id=48645721) - [Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild](https://lift4d.github.io/)
