@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-06-23](index.md)
 
+* [2026-06-23, 06:33:52](https://news.ycombinator.com/item?id=48641160) - [Ask HN: Anthropic banned me from using Claude Code and I don't know what to do](https://news.ycombinator.com/item?id=48641160)
+* [2026-06-23, 06:05:37](https://news.ycombinator.com/item?id=48640974) - [The new HTTP QUERY method explained](https://kreya.app/blog/new-http-query-method-explained/)
+* [2026-06-23, 04:28:14](https://news.ycombinator.com/item?id=48640278) - [Show HN: A pure ARM64 Assembly web server, now on Linux with CGI for no reason](https://github.com/imtomt/ymawky/tree/linux)
 * [2026-06-23, 04:15:04](https://news.ycombinator.com/item?id=48640196) - [Will It Mythos?](https://swelljoe.com/post/will-it-mythos/)
 * [2026-06-23, 02:28:00](https://news.ycombinator.com/item?id=48639434) - [Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models](https://arxiv.org/abs/2606.03748)
 * [2026-06-23, 02:01:25](https://news.ycombinator.com/item?id=48639240) - [VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO](https://arxiv.org/abs/2606.16140)

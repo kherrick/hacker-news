@@ -31,6 +31,7 @@
 * [2026-06-20, 18:08:48](https://news.ycombinator.com/item?id=48611440) - [How it feels to practice for IOAI in Iran](https://howitfeels.netlify.app/)
 * [2026-06-20, 18:05:31](https://news.ycombinator.com/item?id=48611411) - [Agency stole bestselling author's book, used AI to relaunch as their own](https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/)
 * [2026-06-20, 17:52:07](https://news.ycombinator.com/item?id=48611303) - [Ask HN: Due to spam on GitHub, what platforms can I move my projects?](https://news.ycombinator.com/item?id=48611303)
+* [2026-06-20, 17:44:50](https://news.ycombinator.com/item?id=48611251) - [How Lume Works: The Retrieval Primitives](https://deepbluedynamics.com/blog/lume-retrieval-primitives)
 * [2026-06-20, 17:27:36](https://news.ycombinator.com/item?id=48611083) - [The ability to regrow body parts is dormant in mammals, not lost](https://www.sciencedaily.com/releases/2026/06/260617032207.htm)
 * [2026-06-20, 17:19:02](https://news.ycombinator.com/item?id=48610999) - [AIPropel, AI-powered proposal generation for freelancers and agencies](https://www.aipropel.app/)
 * [2026-06-20, 17:04:24](https://news.ycombinator.com/item?id=48610853) - [UHF X11: X11 Built for VisionOS and Apple Vision Pro](https://www.lispm.net/apps/uhf-x11/)
