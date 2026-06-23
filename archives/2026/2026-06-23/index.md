@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-06-23](index.md)
 
+* [2026-06-23, 18:07:48](https://news.ycombinator.com/item?id=48648893) - [I am a person who will look at the Steam Machine and cry](https://blog.zarfhome.com/2026/06/steam-machine-oh-no)
+* [2026-06-23, 18:00:58](https://news.ycombinator.com/item?id=48648779) - [Swift Package Index Joins Apple](https://swiftpackageindex.com/blog/swift-package-index-joins-apple)
+* [2026-06-23, 17:46:18](https://news.ycombinator.com/item?id=48648558) - [The truth about being a manager](https://sofiakodar.github.io/posts/becomingmanager/)
 * [2026-06-23, 17:31:34](https://news.ycombinator.com/item?id=48648371) - [75% More Pedestrians Have Been Killed Since 2009. Giant Trucks and SUVs Are Why](https://www.thedrive.com/news/75-more-pedestrians-have-been-killed-since-2009-giant-trucks-and-suvs-are-why)
 * [2026-06-23, 17:09:18](https://news.ycombinator.com/item?id=48648039) - [Claude Tag](https://www.anthropic.com/news/introducing-claude-tag)
+* [2026-06-23, 17:01:57](https://news.ycombinator.com/item?id=48647928) - [Mark Zuckerberg directed meta to create a prediction markets app](https://www.nytimes.com/2026/06/23/technology/meta-prediction-markets-app.html)
 * [2026-06-23, 16:55:26](https://news.ycombinator.com/item?id=48647823) - [San Diego Photologs from the 1970s](https://www.beautifulpublicdata.com/san-diego-photologs-from-the-1970s/)
 * [2026-06-23, 16:53:32](https://news.ycombinator.com/item?id=48647799) - [F3](https://github.com/future-file-format/f3)
 * [2026-06-23, 16:45:50](https://news.ycombinator.com/item?id=48647696) - [Backblaze Announces Five-Year Multi-Exabyte Agreement with CoreWeave](https://www.businesswire.com/news/home/20260622788628/en/Backblaze-Announces-Five-Year-Multi-Exabyte-Data-Storage-Agreement-with-CoreWeave)
