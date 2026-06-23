@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-06-23, 17:31:34",
-      "https://news.ycombinator.com/item?id=48648371"
+      "2026-06-23, 18:07:48",
+      "https://news.ycombinator.com/item?id=48648893"
     ],
     [
-      "75% More Pedestrians Have Been Killed Since 2009. Giant Trucks and SUVs Are Why",
-      "https://www.thedrive.com/news/75-more-pedestrians-have-been-killed-since-2009-giant-trucks-and-suvs-are-why"
+      "I am a person who will look at the Steam Machine and cry",
+      "https://blog.zarfhome.com/2026/06/steam-machine-oh-no"
+    ]
+  ],
+  [
+    [
+      "2026-06-23, 18:00:58",
+      "https://news.ycombinator.com/item?id=48648779"
+    ],
+    [
+      "Swift Package Index Joins Apple",
+      "https://swiftpackageindex.com/blog/swift-package-index-joins-apple"
+    ]
+  ],
+  [
+    [
+      "2026-06-23, 17:46:18",
+      "https://news.ycombinator.com/item?id=48648558"
+    ],
+    [
+      "The truth about being a manager",
+      "https://sofiakodar.github.io/posts/becomingmanager/"
     ]
   ],
   [
@@ -21,11 +41,21 @@
   ],
   [
     [
+      "2026-06-23, 17:01:57",
+      "https://news.ycombinator.com/item?id=48647928"
+    ],
+    [
+      "Mark Zuckerberg directed meta to create a prediction markets app",
+      "https://www.nytimes.com/2026/06/23/technology/meta-prediction-markets-app.html"
+    ]
+  ],
+  [
+    [
       "2026-06-23, 16:55:26",
       "https://news.ycombinator.com/item?id=48647823"
     ],
     [
-      "San Diego Photologs from the 1970s",
+      "San Diego photologs from the 1970s",
       "https://www.beautifulpublicdata.com/san-diego-photologs-from-the-1970s/"
     ]
   ],
@@ -41,12 +71,12 @@
   ],
   [
     [
-      "2026-06-23, 16:21:49",
-      "https://news.ycombinator.com/item?id=48647360"
+      "2026-06-23, 16:27:49",
+      "https://news.ycombinator.com/item?id=48647444"
     ],
     [
-      "Pact: Anonymous Credentials for the Web",
-      "https://hacks.mozilla.org/2026/06/pact-anonymous-credentials-for-the-web/"
+      "Digital euro clears key hurdle as EU seeks to break free from U.S. credit cards",
+      "https://finance.yahoo.com/markets/currencies/articles/ecb-secures-key-parliamentary-backing-102718449.html"
     ]
   ],
   [
@@ -181,26 +211,6 @@
   ],
   [
     [
-      "2026-06-23, 10:04:04",
-      "https://news.ycombinator.com/item?id=48642699"
-    ],
-    [
-      "Crypto in 2026: Oh, This Is the Bad Place",
-      "https://www.stephendiehl.com/posts/bad_place_2026/"
-    ]
-  ],
-  [
-    [
-      "2026-06-23, 08:31:48",
-      "https://news.ycombinator.com/item?id=48642030"
-    ],
-    [
-      "Show HN: Neural Particle Automata",
-      "https://selforg-npa.github.io/"
-    ]
-  ],
-  [
-    [
       "2026-06-23, 04:15:04",
       "https://news.ycombinator.com/item?id=48640196"
     ],
@@ -217,16 +227,6 @@
     [
       "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
       "https://arxiv.org/abs/2606.16140"
-    ]
-  ],
-  [
-    [
-      "2026-06-23, 01:15:05",
-      "https://news.ycombinator.com/item?id=48638886"
-    ],
-    [
-      "In praise of memcached",
-      "https://jchri.st/blog/in-praise-of-memcached/"
     ]
   ],
   [
@@ -251,12 +251,22 @@
   ],
   [
     [
-      "2026-06-22, 17:09:51",
-      "https://news.ycombinator.com/item?id=48632884"
+      "2026-06-22, 17:46:48",
+      "https://news.ycombinator.com/item?id=48633410"
     ],
     [
-      "Steam Machine launches today",
-      "https://store.steampowered.com/news/group/45479024/view/685257114654870245"
+      "Finding the best dog treat with statistics",
+      "https://www.wespiser.com/posts/2026-06-19-best-dog-treat.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-21, 14:18:10",
+      "https://news.ycombinator.com/item?id=48619207"
+    ],
+    [
+      "Performance Improvements in Libffi",
+      "https://atgreen.github.io/repl-yell/posts/libffi-plan-cache/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Samsung Demonstrates 3D Stacked FETs with Triple Nanosheet Channels at 42nm",
       "https://semiconductor.samsung.com/news-events/tech-blog/from-gaa-to-3d-stacked-fet-expanding-the-transistor-into-the-third-dimension/"
-    ]
-  ],
-  [
-    [
-      "2026-06-19, 09:23:24",
-      "https://news.ycombinator.com/item?id=48596586"
-    ],
-    [
-      "Rethinking Modularity in Ruby Applications",
-      "https://noteflakes.com/articles/2026-06-18-syntropy-modules"
     ]
   ],
   [
