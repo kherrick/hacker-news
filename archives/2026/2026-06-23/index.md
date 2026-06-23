@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-06-23](index.md)
 
+* [2026-06-23, 21:19:44](https://news.ycombinator.com/item?id=48651613) - [German Rail Service Suspended Due to Radio Interference](https://www.bluewin.ch/en/news/german-rail-service-suspended-due-to-radio-interference-li.3295297)
+* [2026-06-23, 21:14:08](https://news.ycombinator.com/item?id=48651552) - [All train services in Germany halted after train radio communications disruption](https://english.news.cn/20260624/65f1b6192cd947e28849776a5aef05c6/c.html)
+* [2026-06-23, 21:09:25](https://news.ycombinator.com/item?id=48651494) - [No AI Co-Authors. A Manifesto](https://no-ai-coauthors.dev)
+* [2026-06-23, 20:47:45](https://news.ycombinator.com/item?id=48651163) - [Audit finds San Francisco tax official steered $10M contract to friend](https://sfstandard.com/2026/06/23/audit-sparked-standard-investigation-finds-tax-official-steered-10m-contract-friend/)
 * [2026-06-23, 20:30:25](https://news.ycombinator.com/item?id=48650924) - [Scars mark Britain's economy 10 years after Brexit vote](https://www.reuters.com/world/uk/scars-mark-britains-economy-10-years-after-brexit-vote-2026-06-23/)
+* [2026-06-23, 20:23:49](https://news.ycombinator.com/item?id=48650837) - [Don't verify email addresses by sending spam to them](https://milek7.pl/mailverifyspam/)
 * [2026-06-23, 19:45:07](https://news.ycombinator.com/item?id=48650311) - [Anthropic updates their terms to verify age or identity](https://www.anthropic.com/legal/privacy)
 * [2026-06-23, 18:56:19](https://news.ycombinator.com/item?id=48649673) - [AI Hiring Tools Yield Racial Bias and Systemic Rejection; 26% Black & 15% Asian](https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection)
 * [2026-06-23, 18:40:22](https://news.ycombinator.com/item?id=48649435) - [Jerry's Map](http://www.jerrysmap.com/the-map)
