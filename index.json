@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-06-23, 18:07:48",
-      "https://news.ycombinator.com/item?id=48648893"
+      "2026-06-23, 18:40:22",
+      "https://news.ycombinator.com/item?id=48649435"
     ],
     [
-      "I am a person who will look at the Steam Machine and cry",
-      "https://blog.zarfhome.com/2026/06/steam-machine-oh-no"
+      "Jerry's Map",
+      "http://www.jerrysmap.com/the-map"
+    ]
+  ],
+  [
+    [
+      "2026-06-23, 18:35:50",
+      "https://news.ycombinator.com/item?id=48649358"
+    ],
+    [
+      "Modal Auto Endpoints: Optimized inference you own",
+      "https://modal.com/blog/introducing-auto-endpoints"
+    ]
+  ],
+  [
+    [
+      "2026-06-23, 18:13:40",
+      "https://news.ycombinator.com/item?id=48649011"
+    ],
+    [
+      "Fired by Google for Creating the Google Workspace CLI",
+      "https://twitter.com/JPoehnelt/status/2069482265953087602"
     ]
   ],
   [
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=48648779"
     ],
     [
-      "Swift Package Index Joins Apple",
+      "Swift Package Index joins Apple",
       "https://swiftpackageindex.com/blog/swift-package-index-joins-apple"
     ]
   ],
@@ -41,16 +61,6 @@
   ],
   [
     [
-      "2026-06-23, 17:01:57",
-      "https://news.ycombinator.com/item?id=48647928"
-    ],
-    [
-      "Mark Zuckerberg directed meta to create a prediction markets app",
-      "https://www.nytimes.com/2026/06/23/technology/meta-prediction-markets-app.html"
-    ]
-  ],
-  [
-    [
       "2026-06-23, 16:55:26",
       "https://news.ycombinator.com/item?id=48647823"
     ],
@@ -71,22 +81,12 @@
   ],
   [
     [
-      "2026-06-23, 16:27:49",
-      "https://news.ycombinator.com/item?id=48647444"
+      "2026-06-23, 16:30:18",
+      "https://news.ycombinator.com/item?id=48647486"
     ],
     [
-      "Digital euro clears key hurdle as EU seeks to break free from U.S. credit cards",
-      "https://finance.yahoo.com/markets/currencies/articles/ecb-secures-key-parliamentary-backing-102718449.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-23, 15:07:30",
-      "https://news.ycombinator.com/item?id=48646209"
-    ],
-    [
-      "Show HN: Treedocs: Documentation that automatically checks for staleness",
-      "https://dandylyons.github.io/treedocs/"
+      "The worthlessness of Vitamin D is mildly exaggerated",
+      "https://dynomight.net/vitamin-d/"
     ]
   ],
   [
@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2026-06-23, 12:37:04",
-      "https://news.ycombinator.com/item?id=48644022"
-    ],
-    [
-      "80386 Early Start Memory Access",
-      "https://nand2mario.github.io/posts/2026/80386_early_start/"
-    ]
-  ],
-  [
-    [
       "2026-06-23, 11:40:50",
       "https://news.ycombinator.com/item?id=48643489"
     ],
@@ -195,7 +185,7 @@
       "https://news.ycombinator.com/item?id=48643426"
     ],
     [
-      "Unlimited OCR: One-Shot Long-Horizon Parsing",
+      "Unlimited OCR: One-shot long-horizon parsing",
       "https://github.com/baidu/Unlimited-OCR"
     ]
   ],
@@ -231,16 +221,6 @@
   ],
   [
     [
-      "2026-06-22, 21:21:01",
-      "https://news.ycombinator.com/item?id=48636377"
-    ],
-    [
-      "GLM-5.2 – How to Run Locally",
-      "https://unsloth.ai/docs/models/glm-5.2"
-    ]
-  ],
-  [
-    [
       "2026-06-22, 18:39:22",
       "https://news.ycombinator.com/item?id=48634187"
     ],
@@ -261,12 +241,32 @@
   ],
   [
     [
+      "2026-06-21, 22:42:32",
+      "https://news.ycombinator.com/item?id=48623347"
+    ],
+    [
+      "The deadly rise of giant trucks and SUVs",
+      "https://www.nytimes.com/interactive/2026/06/21/us/trucks-suv-pedestrian-crashes.html"
+    ]
+  ],
+  [
+    [
       "2026-06-21, 14:18:10",
       "https://news.ycombinator.com/item?id=48619207"
     ],
     [
       "Performance Improvements in Libffi",
       "https://atgreen.github.io/repl-yell/posts/libffi-plan-cache/"
+    ]
+  ],
+  [
+    [
+      "2026-06-20, 22:38:46",
+      "https://news.ycombinator.com/item?id=48613650"
+    ],
+    [
+      "Solving Wordle using information theory",
+      "https://www.binghamton.edu/news/story/6327/s-m-a-r-t-these-researchers-used-math-to-crack-wordle"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=48597201"
     ],
     [
-      "Samsung Demonstrates 3D Stacked FETs with Triple Nanosheet Channels at 42nm",
+      "Samsung demonstrates 3D stacked FETs with triple nanosheet channels at 42nm",
       "https://semiconductor.samsung.com/news-events/tech-blog/from-gaa-to-3d-stacked-fet-expanding-the-transistor-into-the-third-dimension/"
     ]
   ],
