@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-06-23](index.md)
 
+* [2026-06-23, 11:54:48](https://news.ycombinator.com/item?id=48643620) - [Tech giant Oracle cuts 21,000 jobs as it embraces AI](https://www.bbc.com/news/articles/c4gy0x0j5deo)
+* [2026-06-23, 11:35:05](https://news.ycombinator.com/item?id=48643426) - [Unlimited OCR: One-Shot Long-Horizon Parsing](https://github.com/baidu/Unlimited-OCR)
+* [2026-06-23, 11:06:41](https://news.ycombinator.com/item?id=48643180) - [The Coming Loop](https://lucumr.pocoo.org/2026/6/23/the-coming-loop/)
 * [2026-06-23, 10:04:04](https://news.ycombinator.com/item?id=48642699) - [Crypto in 2026: Oh, This Is the Bad Place](https://www.stephendiehl.com/posts/bad_place_2026/)
+* [2026-06-23, 10:02:54](https://news.ycombinator.com/item?id=48642686) - [Show HN: Shumai – open-source Frame.io alternative for creative work](https://github.com/shumaiOne/shumai)
 * [2026-06-23, 09:00:48](https://news.ycombinator.com/item?id=48642232) - [The Traditional Vi](https://ex-vi.sourceforge.net/)
 * [2026-06-23, 08:31:48](https://news.ycombinator.com/item?id=48642030) - [Show HN: Neural Particle Automata](https://selforg-npa.github.io/)
 * [2026-06-23, 08:16:45](https://news.ycombinator.com/item?id=48641927) - [AI Built a Nuke and Still Lost](https://www.lwilko.com/blog/i-gave-an-ai-a-civilization)
