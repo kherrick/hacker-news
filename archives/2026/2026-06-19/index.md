@@ -41,6 +41,7 @@
 * [2026-06-19, 15:13:11](https://news.ycombinator.com/item?id=48599555) - [Running MicroVMs in Proxmox VE, the Easy Way](https://taoofmac.com/space/blog/2026/06/18/1845)
 * [2026-06-19, 15:10:02](https://news.ycombinator.com/item?id=48599515) - [There Are No Instances in ATProto](https://overreacted.io/there-are-no-instances-in-atproto/)
 * [2026-06-19, 14:30:46](https://news.ycombinator.com/item?id=48599057) - [My 1992 view of the problems of computer programming in 1992](https://blog.plover.com/prog/fortran-i.html)
+* [2026-06-19, 13:51:49](https://news.ycombinator.com/item?id=48598591) - [Windows NT for GameCube/Wii](https://github.com/Wack0/entii-for-workcubes)
 * [2026-06-19, 13:51:36](https://news.ycombinator.com/item?id=48598586) - [How many of the 170k English words do you know?](https://vocabowl-870366514258.us-west1.run.app/)
 * [2026-06-19, 12:45:11](https://news.ycombinator.com/item?id=48597939) - [Leave a Trace](https://www.jakeworth.com/posts/leave-a-trace)
 * [2026-06-19, 12:41:15](https://news.ycombinator.com/item?id=48597910) - [NASA picks Eric Schmidt's rocket company for Mars mission](https://techcrunch.com/2026/06/17/nasa-picks-eric-schmidts-rocket-company-for-mars-mission-setting-up-a-race-with-spacex/)
