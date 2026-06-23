@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-06-23, 06:33:52",
+      "https://news.ycombinator.com/item?id=48641160"
+    ],
+    [
+      "Ask HN: Anthropic banned me from using Claude Code and I don't know what to do",
+      "https://news.ycombinator.com/item?id=48641160"
+    ]
+  ],
+  [
+    [
+      "2026-06-23, 06:05:37",
+      "https://news.ycombinator.com/item?id=48640974"
+    ],
+    [
+      "The new HTTP QUERY method explained",
+      "https://kreya.app/blog/new-http-query-method-explained/"
+    ]
+  ],
+  [
+    [
+      "2026-06-23, 04:28:14",
+      "https://news.ycombinator.com/item?id=48640278"
+    ],
+    [
+      "Show HN: A pure ARM64 Assembly web server, now on Linux with CGI for no reason",
+      "https://github.com/imtomt/ymawky/tree/linux"
+    ]
+  ],
+  [
+    [
       "2026-06-23, 04:15:04",
       "https://news.ycombinator.com/item?id=48640196"
     ],
@@ -71,6 +101,16 @@
   ],
   [
     [
+      "2026-06-22, 21:21:08",
+      "https://news.ycombinator.com/item?id=48636380"
+    ],
+    [
+      "ytr: YouTube Radio for Emacs",
+      "https://xenodium.com/ytr-youtube-radio-for-emacs"
+    ]
+  ],
+  [
+    [
       "2026-06-22, 21:21:01",
       "https://news.ycombinator.com/item?id=48636377"
     ],
@@ -97,16 +137,6 @@
     [
       "Japanese symbols that speak without words",
       "https://arun.is/blog/japan-symbols/"
-    ]
-  ],
-  [
-    [
-      "2026-06-22, 19:21:00",
-      "https://news.ycombinator.com/item?id=48634787"
-    ],
-    [
-      "British Columbia, Time Zones, and Postgres",
-      "https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes"
     ]
   ],
   [
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2026-06-22, 15:48:55",
-      "https://news.ycombinator.com/item?id=48631888"
-    ],
-    [
-      "Prompt Injection as Role Confusion",
-      "https://role-confusion.github.io"
-    ]
-  ],
-  [
-    [
       "2026-06-22, 15:37:48",
       "https://news.ycombinator.com/item?id=48631726"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2026-06-22, 13:43:38",
-      "https://news.ycombinator.com/item?id=48630029"
-    ],
-    [
-      "Chevron signs 20-year power agreement with Microsoft for West Texas data center",
-      "https://www.chevron.com/newsroom/2026/q2/chevron-signs-20-year-power-agreement-with-microsoft-for-west-texas-data-center"
-    ]
-  ],
-  [
-    [
       "2026-06-22, 12:23:46",
       "https://news.ycombinator.com/item?id=48629213"
     ],
@@ -201,12 +211,12 @@
   ],
   [
     [
-      "2026-06-22, 05:38:40",
-      "https://news.ycombinator.com/item?id=48626137"
+      "2026-06-21, 06:26:48",
+      "https://news.ycombinator.com/item?id=48616182"
     ],
     [
-      "Deno Desktop",
-      "https://docs.deno.com/runtime/desktop/"
+      "Improvements to Std:Format in C++26",
+      "https://mariusbancila.ro/blog/2026/06/19/improvements-to-stdformat-in-c26/"
     ]
   ],
   [
@@ -217,6 +227,16 @@
     [
       "Polymarket has flooded social media with deceptive videos by paid creators",
       "https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=HhTZY2"
+    ]
+  ],
+  [
+    [
+      "2026-06-20, 17:44:50",
+      "https://news.ycombinator.com/item?id=48611251"
+    ],
+    [
+      "How Lume Works: The Retrieval Primitives",
+      "https://deepbluedynamics.com/blog/lume-retrieval-primitives"
     ]
   ],
   [
@@ -267,26 +287,6 @@
     [
       "My Mathematical Regression",
       "https://blog.dahl.dev/posts/my-mathematical-regression/"
-    ]
-  ],
-  [
-    [
-      "2026-06-18, 19:42:54",
-      "https://news.ycombinator.com/item?id=48590505"
-    ],
-    [
-      "Show HN: Pagecast – Publish Markdown/HTML Reports to Cloudflare Pages",
-      "https://github.com/Amal-David/pagecast"
-    ]
-  ],
-  [
-    [
-      "2026-06-18, 16:57:05",
-      "https://news.ycombinator.com/item?id=48588247"
-    ],
-    [
-      "Is it time for a new Embedded Linux build system?",
-      "https://yoebuild.org/blog/time-for-a-new-build-system/"
     ]
   ],
   [
