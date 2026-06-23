@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-06-23](index.md)
 
+* [2026-06-23, 22:12:18](https://news.ycombinator.com/item?id=48652184) - [California AB 2047 makes 3d printers off-limits to students, educators, business](https://www.the3dprintingnerd.com/ab2047)
+* [2026-06-23, 21:57:32](https://news.ycombinator.com/item?id=48652028) - [United Wizards of the Coast recognized by NLRB](https://unitedwizardsofthecoast.com/news/2026-06-23-we-have-a-union)
 * [2026-06-23, 21:53:31](https://news.ycombinator.com/item?id=48651991) - [WaPo Loves Data Centers More Than Disclosing Bezos's Financial Interest in Them](https://washingtonian.com/2026/06/23/the-washington-post-loves-data-centers-a-lot-more-than-disclosing-jeff-bezos-financial-interest-in-promoting-them/)
+* [2026-06-23, 21:29:20](https://news.ycombinator.com/item?id=48651727) - [ATProto Permissioned Data Proposal Draft](https://github.com/bluesky-social/proposals/pull/94)
+* [2026-06-23, 21:19:44](https://news.ycombinator.com/item?id=48651613) - [Trains halted across Germany because of communication system problem](https://apnews.com/article/germany-trains-halted-communications-radio-problem-deutsche-bahn-e8fd970b2d889f3ae7ce03322d5c726b)
 * [2026-06-23, 21:19:44](https://news.ycombinator.com/item?id=48651613) - [German Rail Service Suspended Due to Radio Interference](https://www.bluewin.ch/en/news/german-rail-service-suspended-due-to-radio-interference-li.3295297)
 * [2026-06-23, 21:14:08](https://news.ycombinator.com/item?id=48651552) - [All train services in Germany halted after train radio communications disruption](https://english.news.cn/20260624/65f1b6192cd947e28849776a5aef05c6/c.html)
 * [2026-06-23, 21:09:25](https://news.ycombinator.com/item?id=48651494) - [No AI Co-Authors. A Manifesto](https://no-ai-coauthors.dev)
