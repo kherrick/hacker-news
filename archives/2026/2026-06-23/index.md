@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-06-23](index.md)
 
+* [2026-06-23, 16:45:50](https://news.ycombinator.com/item?id=48647696) - [Backblaze Announces Five-Year Multi-Exabyte Agreement with CoreWeave](https://www.businesswire.com/news/home/20260622788628/en/Backblaze-Announces-Five-Year-Multi-Exabyte-Data-Storage-Agreement-with-CoreWeave)
+* [2026-06-23, 16:27:49](https://news.ycombinator.com/item?id=48647444) - [Digital euro clears key hurdle as EU seeks to break free from U.S. credit cards](https://finance.yahoo.com/markets/currencies/articles/ecb-secures-key-parliamentary-backing-102718449.html)
+* [2026-06-23, 16:21:49](https://news.ycombinator.com/item?id=48647360) - [Pact: Anonymous Credentials for the Web](https://hacks.mozilla.org/2026/06/pact-anonymous-credentials-for-the-web/)
 * [2026-06-23, 15:11:17](https://news.ycombinator.com/item?id=48646276) - [AI's Affordability Crisis](https://blog.dshr.org/2026/06/ais-affordability-crisis.html)
 * [2026-06-23, 15:07:30](https://news.ycombinator.com/item?id=48646209) - [Show HN: Treedocs: Documentation that automatically checks for staleness](https://dandylyons.github.io/treedocs/)
 * [2026-06-23, 14:40:17](https://news.ycombinator.com/item?id=48645721) - [Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild](https://lift4d.github.io/)

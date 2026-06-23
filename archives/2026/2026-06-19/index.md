@@ -49,6 +49,7 @@
 * [2026-06-19, 12:10:54](https://news.ycombinator.com/item?id=48597668) - [From Australia to Europe, countries move to curb children's social media access](https://www.reuters.com/legal/government/australia-europe-countries-move-curb-childrens-social-media-access-2026-06-18/)
 * [2026-06-19, 11:59:56](https://news.ycombinator.com/item?id=48597592) - [Cocktail Optimization, an Integer Programming Problem](https://bunkum.us/2026/06/18/cocktail-ingredients-milp)
 * [2026-06-19, 11:06:04](https://news.ycombinator.com/item?id=48597221) - [My Mathematical Regression](https://blog.dahl.dev/posts/my-mathematical-regression/)
+* [2026-06-19, 11:03:52](https://news.ycombinator.com/item?id=48597201) - [Samsung Demonstrates 3D Stacked FETs with Triple Nanosheet Channels at 42nm](https://semiconductor.samsung.com/news-events/tech-blog/from-gaa-to-3d-stacked-fet-expanding-the-transistor-into-the-third-dimension/)
 * [2026-06-19, 10:16:20](https://news.ycombinator.com/item?id=48596911) - [The room the economy can't see](https://wilsoniumite.com/2026/06/19/the-room-the-economy-cant-see/)
 * [2026-06-19, 10:16:10](https://news.ycombinator.com/item?id=48596910) - [Norway greenlights first full-scale ship tunnel](https://eandt.theiet.org/2026/06/18/norway-greenlights-world-s-first-full-scale-ship-tunnel)
 * [2026-06-19, 09:08:00](https://news.ycombinator.com/item?id=48596488) - [Plotnine](https://plotnine.org/)
