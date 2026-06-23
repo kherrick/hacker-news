@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-23, 02:01:25",
+      "https://news.ycombinator.com/item?id=48639240"
+    ],
+    [
+      "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
+      "https://arxiv.org/abs/2606.16140"
+    ]
+  ],
+  [
+    [
+      "2026-06-23, 01:54:38",
+      "https://news.ycombinator.com/item?id=48639184"
+    ],
+    [
+      "1,700 Free Online Courses from Top Universities",
+      "https://www.openculture.com/freeonlinecourses"
+    ]
+  ],
+  [
+    [
       "2026-06-23, 01:15:05",
       "https://news.ycombinator.com/item?id=48638886"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2026-06-22, 18:24:29",
-      "https://news.ycombinator.com/item?id=48633941"
-    ],
-    [
-      "Linux and Secure Boot certificate expiration (2025)",
-      "https://lwn.net/Articles/1029767/"
-    ]
-  ],
-  [
-    [
       "2026-06-22, 17:46:48",
       "https://news.ycombinator.com/item?id=48633410"
     ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2026-06-22, 13:40:16",
-      "https://news.ycombinator.com/item?id=48629982"
-    ],
-    [
-      "Die analysis of the 8087 math coprocessor's fast bit shifter (2020)",
-      "https://www.righto.com/2020/05/die-analysis-of-8087-math-coprocessors.html"
-    ]
-  ],
-  [
-    [
       "2026-06-22, 12:23:46",
       "https://news.ycombinator.com/item?id=48629213"
     ],
@@ -227,16 +227,6 @@
     [
       "Deno Desktop",
       "https://docs.deno.com/runtime/desktop/"
-    ]
-  ],
-  [
-    [
-      "2026-06-21, 23:25:24",
-      "https://news.ycombinator.com/item?id=48623665"
-    ],
-    [
-      "PivCo-Huffman “merge” operations",
-      "https://fgiesen.wordpress.com/2026/06/21/pivco-huffman-merge-operations/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "My Mathematical Regression",
       "https://blog.dahl.dev/posts/my-mathematical-regression/"
+    ]
+  ],
+  [
+    [
+      "2026-06-18, 19:42:54",
+      "https://news.ycombinator.com/item?id=48590505"
+    ],
+    [
+      "Show HN: Pagecast – Publish Markdown/HTML Reports to Cloudflare Pages",
+      "https://github.com/Amal-David/pagecast"
     ]
   ],
   [
