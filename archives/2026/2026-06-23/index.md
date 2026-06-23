@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-23](index.md)
 
+* [2026-06-23, 21:53:31](https://news.ycombinator.com/item?id=48651991) - [WaPo Loves Data Centers More Than Disclosing Bezos's Financial Interest in Them](https://washingtonian.com/2026/06/23/the-washington-post-loves-data-centers-a-lot-more-than-disclosing-jeff-bezos-financial-interest-in-promoting-them/)
 * [2026-06-23, 21:19:44](https://news.ycombinator.com/item?id=48651613) - [German Rail Service Suspended Due to Radio Interference](https://www.bluewin.ch/en/news/german-rail-service-suspended-due-to-radio-interference-li.3295297)
 * [2026-06-23, 21:14:08](https://news.ycombinator.com/item?id=48651552) - [All train services in Germany halted after train radio communications disruption](https://english.news.cn/20260624/65f1b6192cd947e28849776a5aef05c6/c.html)
 * [2026-06-23, 21:09:25](https://news.ycombinator.com/item?id=48651494) - [No AI Co-Authors. A Manifesto](https://no-ai-coauthors.dev)
