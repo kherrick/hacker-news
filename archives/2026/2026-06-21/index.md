@@ -33,6 +33,7 @@
 * [2026-06-21, 15:36:33](https://news.ycombinator.com/item?id=48619831) - [(How to Write a (Lisp) Interpreter (In Python))](https://norvig.com/lispy.html)
 * [2026-06-21, 14:43:08](https://news.ycombinator.com/item?id=48619394) - [Fossil Fuels Are 40% of Freight Shipping Tonnage, but Half Its Fuel Use](https://cleantechnica.com/2026/06/16/shipping-freight-energy-fossil-cargo/)
 * [2026-06-21, 14:09:07](https://news.ycombinator.com/item?id=48619140) - [Who Owns Your ATProto Identity? Hint: It's Probably Not You](https://kevinak.se/blog/who-actually-owns-your-atproto-identity-hint-its-probably-not-you)
+* [2026-06-21, 14:07:11](https://news.ycombinator.com/item?id=48619125) - [8086 Segmented Memory was a good idea](https://owl.billpg.com/8086-segmented-memory-was-a-good-idea-almost/)
 * [2026-06-21, 13:51:31](https://news.ycombinator.com/item?id=48619005) - [AI Under Trump's Control: Can France Still Avoid Digital Dependence?](https://thenewassociationwebmasters.blogspot.com/2026/06/ai-under-american-control-can-france.html)
 * [2026-06-21, 12:55:08](https://news.ycombinator.com/item?id=48618536) - [I was wrong about the Midjourney ultra-sound scanner](https://twitter.com/MattZirwas/status/2068365802491834541)
 * [2026-06-21, 12:49:48](https://news.ycombinator.com/item?id=48618488) - [Show HN: Teach your kids perfect pitch](https://github.com/paytonjjones/bsharp)
