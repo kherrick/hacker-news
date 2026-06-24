@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-24](index.md)
 
+* [2026-06-24, 13:26:43](https://news.ycombinator.com/item?id=48659451) - [Slate EV truck starts at $24,950](https://www.slate.auto/en)
+* [2026-06-24, 12:31:43](https://news.ycombinator.com/item?id=48658718) - [Founding a company in Germany: €9600, 152 days and I still can't send an invoice](https://paolino.me/founding-a-company-in-germany/)
 * [2026-06-24, 12:23:59](https://news.ycombinator.com/item?id=48658647) - [Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'](https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/)
 * [2026-06-24, 11:52:12](https://news.ycombinator.com/item?id=48658361) - [Minimus container images are now free](https://images.minimus.io/)
 * [2026-06-24, 11:31:20](https://news.ycombinator.com/item?id=48658186) - [A deadly fungus that can infect cats and people is spreading](https://www.sciencenews.org/article/deadly-fungus-cats-people-spreading)

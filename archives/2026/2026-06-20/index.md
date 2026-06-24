@@ -79,6 +79,7 @@
 * [2026-06-20, 05:33:59](https://news.ycombinator.com/item?id=48606619) - [I Stored a Website in a Favicon](https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/)
 * [2026-06-20, 04:45:59](https://news.ycombinator.com/item?id=48606413) - [Designing a backyard deck for my house](https://blog.cosmin.cloud/posts/diy-deck.html)
 * [2026-06-20, 04:07:03](https://news.ycombinator.com/item?id=48606271) - [Satellite reveals immense scale of GPS signal tampering](https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering)
+* [2026-06-20, 03:55:19](https://news.ycombinator.com/item?id=48606222) - [A Practical Guide to SSH Tunnels: Local and Remote Port Forwarding](https://labs.iximiuz.com/tutorials/ssh-tunnels)
 * [2026-06-20, 03:36:49](https://news.ycombinator.com/item?id=48606140) - [Where to Find the Colors Your Screen Can't Show You](https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/)
 * [2026-06-20, 03:29:19](https://news.ycombinator.com/item?id=48606096) - [Memory Safe Inline Assembly](https://fil-c.org/inlineasm)
 * [2026-06-20, 02:29:21](https://news.ycombinator.com/item?id=48605776) - [Cyberdecks, going analog, and convivial technology](https://blog.hydroponictrash.solar/cyberdecks-going-analog-and-convivial-technology/)
