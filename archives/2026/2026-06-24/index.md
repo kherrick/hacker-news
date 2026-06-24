@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-06-24](index.md)
 
 * [2026-06-24, 03:17:47](https://news.ycombinator.com/item?id=48654676) - [Raspberry Pi Pico W as USB Wi-Fi Adapter](https://gitlab.com/baiyibai/pico-usb-wifi)
+* [2026-06-24, 02:38:47](https://news.ycombinator.com/item?id=48654465) - [\"Fix\" MacBook Neo Cursor Lag: Record 1 Pixel of the Screen Every 10 Seconds](https://gist.github.com/retroplasma/ec21767d0a8380c7ea9c2fbee1c7d6bf)
 * [2026-06-24, 02:30:13](https://news.ycombinator.com/item?id=48654411) - [The Teensy Executable Revisited](https://www.muppetlabs.com/~breadbox/software/tiny/revisit.html)
 * [2026-06-24, 02:23:39](https://news.ycombinator.com/item?id=48654367) - [The war on terror primed America for autocracy](https://www.economist.com/by-invitation/2026/06/02/how-the-war-on-terror-primed-america-for-autocracy)
 * [2026-06-24, 02:21:47](https://news.ycombinator.com/item?id=48654351) - [Qwen-AgentWorld: Language World Models for General Agents](https://arxiv.org/abs/2606.24597)
