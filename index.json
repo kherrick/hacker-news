@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-24, 08:21:59",
+      "https://news.ycombinator.com/item?id=48656807"
+    ],
+    [
+      "GitHub Is Becoming a Giant AI Code Dump",
+      "https://maref.cc/en/blog/vibe-coding-crisis/"
+    ]
+  ],
+  [
+    [
       "2026-06-24, 07:01:21",
       "https://news.ycombinator.com/item?id=48656219"
     ],
@@ -37,16 +47,6 @@
     [
       "The Teensy Executable Revisited",
       "https://www.muppetlabs.com/~breadbox/software/tiny/revisit.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-24, 02:23:39",
-      "https://news.ycombinator.com/item?id=48654367"
-    ],
-    [
-      "The war on terror primed America for autocracy",
-      "https://www.economist.com/by-invitation/2026/06/02/how-the-war-on-terror-primed-america-for-autocracy"
     ]
   ],
   [
@@ -171,12 +171,12 @@
   ],
   [
     [
-      "2026-06-22, 18:39:22",
-      "https://news.ycombinator.com/item?id=48634187"
+      "2026-06-22, 23:20:53",
+      "https://news.ycombinator.com/item?id=48637868"
     ],
     [
-      "Five monitors on a Commodore 128 [video]",
-      "https://www.youtube.com/watch?v=ul5hC3PY1Yg"
+      "Why eval startups fail (2025)",
+      "https://thomasliao.com/eval-startups"
     ]
   ],
   [
@@ -211,12 +211,12 @@
   ],
   [
     [
-      "2026-06-22, 13:46:57",
-      "https://news.ycombinator.com/item?id=48630085"
+      "2026-06-22, 08:18:51",
+      "https://news.ycombinator.com/item?id=48627283"
     ],
     [
-      "QSOE: QNX-inspired OS with dual-kernel architecture",
-      "https://qsoe-dev.blogspot.com/2026/06/qsoe-project-v01-is-released.html"
+      "Show HN: Graphical SQL Builder and Debugger",
+      "https://github.com/webofmarius/SQLJoiner"
     ]
   ],
   [
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2026-06-21, 20:44:33",
-      "https://news.ycombinator.com/item?id=48622433"
+      "2026-06-21, 17:58:49",
+      "https://news.ycombinator.com/item?id=48621018"
     ],
     [
-      "F* file system – file search that reads SSD directly bypassing OS kernel",
-      "https://github.com/dmtrKovalenko/ffs"
+      "Hunting Million-Digit Primes from My Loft",
+      "https://primecrunch.com/blog/2/hunting-million-digit-primes-from-my-loft"
     ]
   ],
   [
