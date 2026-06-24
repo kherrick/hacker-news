@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-06-24, 00:53:04",
+      "https://news.ycombinator.com/item?id=48653746"
+    ],
+    [
+      "How to Passive-Aggressively Shame People Who Use LLMs Selfishly",
+      "https://joshmoody.org/blog/selfish-ai/"
+    ]
+  ],
+  [
+    [
+      "2026-06-24, 00:15:31",
+      "https://news.ycombinator.com/item?id=48653476"
+    ],
+    [
+      "Show HN: Y – A malleable coding-agent desktop app built with Electron",
+      "https://github.com/y-times-y/y"
+    ]
+  ],
+  [
+    [
+      "2026-06-23, 23:42:46",
+      "https://news.ycombinator.com/item?id=48653216"
+    ],
+    [
+      "Vulnerability reports are not special anymore",
+      "https://words.filippo.io/vuln-reports/"
+    ]
+  ],
+  [
+    [
       "2026-06-23, 23:26:43",
       "https://news.ycombinator.com/item?id=48653060"
     ],
@@ -17,26 +47,6 @@
     [
       "California AB 2047 makes 3D printers off-limits to students, educators, business",
       "https://www.the3dprintingnerd.com/ab2047"
-    ]
-  ],
-  [
-    [
-      "2026-06-23, 21:57:32",
-      "https://news.ycombinator.com/item?id=48652028"
-    ],
-    [
-      "United Wizards of the Coast recognized by NLRB",
-      "https://unitedwizardsofthecoast.com/news/2026-06-23-we-have-a-union"
-    ]
-  ],
-  [
-    [
-      "2026-06-23, 21:29:20",
-      "https://news.ycombinator.com/item?id=48651727"
-    ],
-    [
-      "ATProto Permissioned Data Proposal Draft",
-      "https://github.com/bluesky-social/proposals/pull/94"
     ]
   ],
   [
@@ -61,32 +71,12 @@
   ],
   [
     [
-      "2026-06-23, 18:56:19",
-      "https://news.ycombinator.com/item?id=48649673"
-    ],
-    [
-      "Algorithmic Monocultures in Hiring",
-      "https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection"
-    ]
-  ],
-  [
-    [
       "2026-06-23, 18:40:22",
       "https://news.ycombinator.com/item?id=48649435"
     ],
     [
       "Jerry's Map",
       "http://www.jerrysmap.com/the-map"
-    ]
-  ],
-  [
-    [
-      "2026-06-23, 18:21:52",
-      "https://news.ycombinator.com/item?id=48649137"
-    ],
-    [
-      "Show HN: RLM-based local debugger for AI agent traces",
-      "https://github.com/context-labs/halo"
     ]
   ],
   [
@@ -181,22 +171,32 @@
   ],
   [
     [
-      "2026-06-22, 19:36:58",
-      "https://news.ycombinator.com/item?id=48634966"
-    ],
-    [
-      "AI has already killed academia as we know it",
-      "https://truths-and-loves.ghost.io/ai-has-already-killed-academia-as-we-know-it/"
-    ]
-  ],
-  [
-    [
       "2026-06-22, 18:39:22",
       "https://news.ycombinator.com/item?id=48634187"
     ],
     [
       "Five monitors on a Commodore 128 [video]",
       "https://www.youtube.com/watch?v=ul5hC3PY1Yg"
+    ]
+  ],
+  [
+    [
+      "2026-06-22, 18:38:13",
+      "https://news.ycombinator.com/item?id=48634156"
+    ],
+    [
+      "Wolves are reconquering Europe. Can people learn to live with them?",
+      "https://www.science.org/content/article/wolves-are-reconquering-europe-can-people-learn-live-them"
+    ]
+  ],
+  [
+    [
+      "2026-06-22, 18:03:03",
+      "https://news.ycombinator.com/item?id=48633643"
+    ],
+    [
+      "A man was gifted his dream car by Kevin Mitnick, who he helped put in prison",
+      "https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison"
     ]
   ],
   [
@@ -211,22 +211,22 @@
   ],
   [
     [
+      "2026-06-22, 15:34:34",
+      "https://news.ycombinator.com/item?id=48631681"
+    ],
+    [
+      "Show HN: FastUbu – An Ultrafast Video Archive",
+      "https://fastubu.com/"
+    ]
+  ],
+  [
+    [
       "2026-06-22, 15:24:40",
       "https://news.ycombinator.com/item?id=48631511"
     ],
     [
       "Inventing the Future, One Lisp Machine at a Time",
       "https://www.patrickdomanico.com/bpm/2026/06/16/inventing-the-future-one-lisp-machine-at-a-time/"
-    ]
-  ],
-  [
-    [
-      "2026-06-22, 14:05:23",
-      "https://news.ycombinator.com/item?id=48630318"
-    ],
-    [
-      "Show HN: Monolisa v3 – a typeface for developers and creatives",
-      "https://www.monolisa.dev/"
     ]
   ],
   [
