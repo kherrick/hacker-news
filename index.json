@@ -1,12 +1,52 @@
 [
   [
     [
+      "2026-06-24, 12:23:59",
+      "https://news.ycombinator.com/item?id=48658647"
+    ],
+    [
+      "Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'",
+      "https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/"
+    ]
+  ],
+  [
+    [
+      "2026-06-24, 11:52:12",
+      "https://news.ycombinator.com/item?id=48658361"
+    ],
+    [
+      "Minimus container images are now free",
+      "https://images.minimus.io/"
+    ]
+  ],
+  [
+    [
       "2026-06-24, 11:31:20",
       "https://news.ycombinator.com/item?id=48658186"
     ],
     [
       "A deadly fungus that can infect cats and people is spreading",
       "https://www.sciencenews.org/article/deadly-fungus-cats-people-spreading"
+    ]
+  ],
+  [
+    [
+      "2026-06-24, 11:21:32",
+      "https://news.ycombinator.com/item?id=48658095"
+    ],
+    [
+      "Haystack: Open-Source AI Framework for Production Ready Agents, RAG",
+      "https://haystack.deepset.ai/"
+    ]
+  ],
+  [
+    [
+      "2026-06-24, 10:59:59",
+      "https://news.ycombinator.com/item?id=48657940"
+    ],
+    [
+      "Too many R packages: CRAN is inundated with submissions",
+      "https://rworks.dev/posts/too-many-R-packages/"
     ]
   ],
   [
@@ -51,16 +91,6 @@
   ],
   [
     [
-      "2026-06-24, 02:30:13",
-      "https://news.ycombinator.com/item?id=48654411"
-    ],
-    [
-      "The Teensy Executable Revisited",
-      "https://www.muppetlabs.com/~breadbox/software/tiny/revisit.html"
-    ]
-  ],
-  [
-    [
       "2026-06-24, 02:21:47",
       "https://news.ycombinator.com/item?id=48654351"
     ],
@@ -87,16 +117,6 @@
     [
       "Jerry's Map",
       "http://www.jerrysmap.com/the-map"
-    ]
-  ],
-  [
-    [
-      "2026-06-23, 18:13:40",
-      "https://news.ycombinator.com/item?id=48649011"
-    ],
-    [
-      "Fired by Google for creating the Google workspace CLI",
-      "https://twitter.com/JPoehnelt/status/2069482265953087602"
     ]
   ],
   [
@@ -141,22 +161,22 @@
   ],
   [
     [
+      "2026-06-23, 15:31:21",
+      "https://news.ycombinator.com/item?id=48646659"
+    ],
+    [
+      "Krea 2 Technical Report",
+      "https://www.krea.ai/blog/krea-2-technical-report"
+    ]
+  ],
+  [
+    [
       "2026-06-23, 14:24:21",
       "https://news.ycombinator.com/item?id=48645437"
     ],
     [
       "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
       "https://tikz.dev/editor/"
-    ]
-  ],
-  [
-    [
-      "2026-06-23, 11:40:50",
-      "https://news.ycombinator.com/item?id=48643489"
-    ],
-    [
-      "The Low-Tech AI of Elden Ring",
-      "https://nega.tv/posts/low-tech-ai-of-elden-ring.html"
     ]
   ],
   [
@@ -177,16 +197,6 @@
     [
       "Vector Graphics in Lil",
       "http://beyondloom.com/blog/vectorgraphics.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-22, 18:39:22",
-      "https://news.ycombinator.com/item?id=48634187"
-    ],
-    [
-      "Five monitors on a Commodore 128 [video]",
-      "https://www.youtube.com/watch?v=ul5hC3PY1Yg"
     ]
   ],
   [
@@ -231,12 +241,12 @@
   ],
   [
     [
-      "2026-06-21, 20:44:33",
-      "https://news.ycombinator.com/item?id=48622433"
+      "2026-06-21, 14:48:10",
+      "https://news.ycombinator.com/item?id=48619434"
     ],
     [
-      "F* file system – file search that reads SSD directly bypassing OS kernel",
-      "https://github.com/dmtrKovalenko/ffs"
+      "Cointegration and Long-Horizon Forecasting (2025)",
+      "https://www.philadelphiafed.org/the-economy/cointegration-and-long-horizon-forecasting"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "François Englert (1932 – 2026)",
       "https://home.cern/francois-englert-1932-2026/"
-    ]
-  ],
-  [
-    [
-      "2026-06-20, 19:10:41",
-      "https://news.ycombinator.com/item?id=48612025"
-    ],
-    [
-      "Show HN: An ASCII 3D Rendering Engine",
-      "https://glyphcss.com"
     ]
   ],
   [
