@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-06-24, 21:57:30](https://news.ycombinator.com/item?id=48666100) - [Elastic lays off 7% of employees](https://www.elastic.co/blog/ceo-ash-kulkarni-announcement-to-elastic-employees)
 * [2026-06-24, 19:40:11](https://news.ycombinator.com/item?id=48664733) - [GitHub shouldn't be a dependency for publishing Rust on crates.io](https://infosec.exchange/@mttaggart/116806641273303255)
 * [2026-06-24, 19:08:22](https://news.ycombinator.com/item?id=48664384) - [Thomann takes legal action against Fender](https://www.thomann.de/blog/en/inside/thomann-takes-legal-action-against-fender/)
 * [2026-06-24, 17:47:00](https://news.ycombinator.com/item?id=48663324) - [OpenAI unveils its first custom chip, built by Broadcom](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/)
@@ -29,7 +30,6 @@
 * [2026-06-20, 19:01:05](https://news.ycombinator.com/item?id=48611940) - [How the Fifth Lateran Council unlocked financial theory](https://sebastiangarren.com/2026/06/17/lending-is-meritorious-and-should-be-praised-how-the-fifth-lateran-council-unlocked-financial-theory/)
 * [2026-06-20, 03:55:19](https://news.ycombinator.com/item?id=48606222) - [A Practical Guide to SSH Tunnels: Local and Remote Port Forwarding](https://labs.iximiuz.com/tutorials/ssh-tunnels)
 * [2026-06-19, 21:55:24](https://news.ycombinator.com/item?id=48603726) - [I can haz smoller NixOS ISOs?](https://natkr.com/2026-06-19-nixos-but-smol/)
-* [2026-06-19, 10:03:10](https://news.ycombinator.com/item?id=48596834) - [Pull request limits are cutting down the noise](https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/)
 
 ## [Archives](archives/index.md)
 

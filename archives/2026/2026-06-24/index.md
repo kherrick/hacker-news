@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-24](index.md)
 
+* [2026-06-24, 21:57:30](https://news.ycombinator.com/item?id=48666100) - [Elastic lays off 7% of employees](https://www.elastic.co/blog/ceo-ash-kulkarni-announcement-to-elastic-employees)
 * [2026-06-24, 20:20:33](https://news.ycombinator.com/item?id=48665130) - [Zero-Downtime Deployments with Docker Compose – No Kubernetes Required](https://statusdude.com/blog/zero-downtime-docker-compose)
 * [2026-06-24, 19:40:11](https://news.ycombinator.com/item?id=48664733) - [GitHub shouldn't be a dependency for publishing Rust on crates.io](https://infosec.exchange/@mttaggart/116806641273303255)
 * [2026-06-24, 19:08:22](https://news.ycombinator.com/item?id=48664384) - [Thomann takes legal action against Fender](https://www.thomann.de/blog/en/inside/thomann-takes-legal-action-against-fender/)
