@@ -39,6 +39,7 @@
 * [2026-06-21, 14:48:10](https://news.ycombinator.com/item?id=48619434) - [Cointegration and Long-Horizon Forecasting (2025)](https://www.philadelphiafed.org/the-economy/cointegration-and-long-horizon-forecasting)
 * [2026-06-21, 14:43:08](https://news.ycombinator.com/item?id=48619394) - [Fossil Fuels Are 40% of Freight Shipping Tonnage, but Half Its Fuel Use](https://cleantechnica.com/2026/06/16/shipping-freight-energy-fossil-cargo/)
 * [2026-06-21, 14:18:10](https://news.ycombinator.com/item?id=48619207) - [Performance Improvements in Libffi](https://atgreen.github.io/repl-yell/posts/libffi-plan-cache/)
+* [2026-06-21, 14:12:48](https://news.ycombinator.com/item?id=48619159) - [Crawling BitTorrent DHTs for Fun and Profit [pdf]](https://www.usenix.org/legacy/event/woot10/tech/full_papers/Wolchok.pdf)
 * [2026-06-21, 14:09:07](https://news.ycombinator.com/item?id=48619140) - [Who Owns Your ATProto Identity? Hint: It's Probably Not You](https://kevinak.se/blog/who-actually-owns-your-atproto-identity-hint-its-probably-not-you)
 * [2026-06-21, 14:07:11](https://news.ycombinator.com/item?id=48619125) - [8086 Segmented Memory was a good idea](https://owl.billpg.com/8086-segmented-memory-was-a-good-idea-almost/)
 * [2026-06-21, 13:51:31](https://news.ycombinator.com/item?id=48619005) - [AI Under Trump's Control: Can France Still Avoid Digital Dependence?](https://thenewassociationwebmasters.blogspot.com/2026/06/ai-under-american-control-can-france.html)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-24](index.md)
 
+* [2026-06-24, 20:20:33](https://news.ycombinator.com/item?id=48665130) - [Zero-Downtime Deployments with Docker Compose – No Kubernetes Required](https://statusdude.com/blog/zero-downtime-docker-compose)
+* [2026-06-24, 19:40:11](https://news.ycombinator.com/item?id=48664733) - [GitHub shouldn't be a dependency for publishing Rust on crates.io](https://infosec.exchange/@mttaggart/116806641273303255)
 * [2026-06-24, 19:08:22](https://news.ycombinator.com/item?id=48664384) - [Thomann takes legal action against Fender](https://www.thomann.de/blog/en/inside/thomann-takes-legal-action-against-fender/)
 * [2026-06-24, 18:27:16](https://news.ycombinator.com/item?id=48663861) - [Wikipedia Workers to Seek Union Recognition](https://www.cwu.org/press_release/wikipedia-workers-to-seek-union-recognition/)
 * [2026-06-24, 18:05:33](https://news.ycombinator.com/item?id=48663544) - [I rewrote PostHog's SQL parser, 70x faster, while barely looking at the code](https://posthog.com/blog/sql-parser)
