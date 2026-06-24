@@ -48,6 +48,7 @@
 * [2026-06-22, 14:05:23](https://news.ycombinator.com/item?id=48630318) - [Show HN: Monolisa v3 – a typeface for developers and creatives](https://www.monolisa.dev/)
 * [2026-06-22, 13:57:49](https://news.ycombinator.com/item?id=48630220) - [Nvidia Halos](https://www.nvidia.com/en-us/ai-trust-center/halos/autonomous-vehicles/)
 * [2026-06-22, 13:53:02](https://news.ycombinator.com/item?id=48630171) - [Moebius: 0.2B image inpainting model with 10B-level performance](https://hustvl.github.io/Moebius/)
+* [2026-06-22, 13:46:57](https://news.ycombinator.com/item?id=48630085) - [QSOE: QNX-inspired OS with dual-kernel architecture](https://qsoe-dev.blogspot.com/2026/06/qsoe-project-v01-is-released.html)
 * [2026-06-22, 13:45:48](https://news.ycombinator.com/item?id=48630066) - [Never Give Them Your Face](https://nevergivethemyourface.com/)
 * [2026-06-22, 13:43:38](https://news.ycombinator.com/item?id=48630029) - [Chevron signs 20-year power agreement with Microsoft for West Texas data center](https://www.chevron.com/newsroom/2026/q2/chevron-signs-20-year-power-agreement-with-microsoft-for-west-texas-data-center)
 * [2026-06-22, 13:43:01](https://news.ycombinator.com/item?id=48630020) - [Pledging Another $400k to the Zig Software Foundation](https://mitchellh.com/writing/zig-donation-2026)
