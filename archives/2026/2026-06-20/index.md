@@ -48,6 +48,7 @@
 * [2026-06-20, 15:10:03](https://news.ycombinator.com/item?id=48609766) - [DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots](https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html)
 * [2026-06-20, 14:52:59](https://news.ycombinator.com/item?id=48609645) - [Cargo-Geiger](https://github.com/geiger-rs/cargo-geiger)
 * [2026-06-20, 14:40:12](https://news.ycombinator.com/item?id=48609553) - [Vacation With An Artist – Mini-Apprenticeships with Artists in Their Studios](https://vawaa.com/)
+* [2026-06-20, 14:33:17](https://news.ycombinator.com/item?id=48609515) - [How to move a beluga across the world](https://www.cbc.ca/news/canada/hamilton/moving-marineland-beluga-whales-9.7233160)
 * [2026-06-20, 14:32:15](https://news.ycombinator.com/item?id=48609506) - [US Scientist John Jumper to Leave Google DeepMind for Anthropic](https://www.reuters.com/technology/us-scientist-john-jumper-leave-google-deepmind-anthropic-2026-06-19/)
 * [2026-06-20, 14:20:47](https://news.ycombinator.com/item?id=48609422) - [Web Browsers on PDAS](https://vale.rocks/posts/pda-browsers)
 * [2026-06-20, 14:20:45](https://news.ycombinator.com/item?id=48609421) - [The European Social Stack](https://european.social)
