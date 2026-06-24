@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-24](index.md)
 
+* [2026-06-24, 10:20:39](https://news.ycombinator.com/item?id=48657675) - [European Commission's Metsola Overrides MEPs to Force Through Chat Control](https://www.politico.eu/article/president-vs-parliament-roberta-metsola-overrides-meps-bid-force-child-abuse-law/)
+* [2026-06-24, 09:57:10](https://news.ycombinator.com/item?id=48657518) - [How to burst the AI bubble: Strike at its roots](https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/)
 * [2026-06-24, 08:50:41](https://news.ycombinator.com/item?id=48657030) - [We're making Bunny DNS free: because a faster internet won't build itself](https://bunny.net/blog/were-making-bunny-dns-free/)
 * [2026-06-24, 08:21:59](https://news.ycombinator.com/item?id=48656807) - [GitHub Is Becoming a Giant AI Code Dump](https://maref.cc/en/blog/vibe-coding-crisis/)
 * [2026-06-24, 07:01:21](https://news.ycombinator.com/item?id=48656219) - [Ashby (YC W19) Is Hiring EMEA Engineers Who Can Design](https://www.ashbyhq.com/careers?ashby_jid=87b96eef-edc1-4de4-adb6-d460126d02f8&utm_source=hn)

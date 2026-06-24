@@ -55,6 +55,7 @@
 * [2026-06-22, 13:43:38](https://news.ycombinator.com/item?id=48630029) - [Chevron signs 20-year power agreement with Microsoft for West Texas data center](https://www.chevron.com/newsroom/2026/q2/chevron-signs-20-year-power-agreement-with-microsoft-for-west-texas-data-center)
 * [2026-06-22, 13:43:01](https://news.ycombinator.com/item?id=48630020) - [Pledging Another $400k to the Zig Software Foundation](https://mitchellh.com/writing/zig-donation-2026)
 * [2026-06-22, 13:40:16](https://news.ycombinator.com/item?id=48629982) - [Die analysis of the 8087 math coprocessor's fast bit shifter](https://www.righto.com/2020/05/die-analysis-of-8087-math-coprocessors.html)
+* [2026-06-22, 13:25:15](https://news.ycombinator.com/item?id=48629810) - [Statistics that live in your SQL](https://kolistat.com/blog/the-stats-duck-v0-6-0/)
 * [2026-06-22, 12:42:22](https://news.ycombinator.com/item?id=48629387) - [window.showDirectoryPicker opens up a whole new world](https://steveharrison.dev/showdirectorypicker-opens-up-a-whole-new-world/)
 * [2026-06-22, 12:39:43](https://news.ycombinator.com/item?id=48629356) - [Becoming a dad changes men's brains](https://www.scientificamerican.com/article/how-becoming-a-dad-changes-mens-brains/)
 * [2026-06-22, 12:23:46](https://news.ycombinator.com/item?id=48629213) - [Show HN: Got sick of ads, so I made my own logic puzzle site](https://puzzlelair.com/)
