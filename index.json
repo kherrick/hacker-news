@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-06-24, 16:04:26",
+      "https://news.ycombinator.com/item?id=48661938"
+    ],
+    [
+      "I taught a bucket to speak Git",
+      "https://www.tigrisdata.com/blog/objgit/"
+    ]
+  ],
+  [
+    [
+      "2026-06-24, 15:56:19",
+      "https://news.ycombinator.com/item?id=48661825"
+    ],
+    [
+      "John Carmack on the mistakes around Quake that ruined id software",
+      "https://twitter.com/ID_AA_Carmack/status/2069799283369345247"
+    ]
+  ],
+  [
+    [
+      "2026-06-24, 15:37:20",
+      "https://news.ycombinator.com/item?id=48661536"
+    ],
+    [
+      "Quebec town recognizes trees as living beings with rights",
+      "https://www.cbc.ca/news/canada/montreal/terrasse-vaudreil-quebec-tree-rights-9.7243634"
+    ]
+  ],
+  [
+    [
+      "2026-06-24, 15:37:18",
+      "https://news.ycombinator.com/item?id=48661535"
+    ],
+    [
+      "Boffin claims Microsoft's \"quantum leap\" is invalid due to \"basic Python errors\"",
+      "https://www.theregister.com/research/2026/06/24/boffin-claims-microsofts-supposed-quantum-leap-does-not-compute-due-to-basic-python-errors/5260489"
+    ]
+  ],
+  [
+    [
+      "2026-06-24, 15:10:27",
+      "https://news.ycombinator.com/item?id=48661179"
+    ],
+    [
+      "Edsger Dijkstra's Library (Housed and Archived in Leuven, Belgium)",
+      "https://www.dijkstrascry.com/inventory"
+    ]
+  ],
+  [
+    [
       "2026-06-24, 15:05:41",
       "https://news.ycombinator.com/item?id=48661095"
     ],
@@ -15,7 +65,7 @@
       "https://news.ycombinator.com/item?id=48660711"
     ],
     [
-      "RubyLLM: A single, beautiful Ruby framework for all major AI providers",
+      "RubyLLM: A Ruby framework for all major AI providers",
       "https://rubyllm.com/"
     ]
   ],
@@ -27,6 +77,16 @@
     [
       "Running Windows Games on a Hobby OS with Wine",
       "https://astral-os.org/posts/2026/04/03/wine-on-astral.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-24, 14:32:12",
+      "https://news.ycombinator.com/item?id=48660579"
+    ],
+    [
+      "PR spam today looks like email spam in the early 2000s",
+      "https://www.greptile.com/blog/prs-on-openclaw"
     ]
   ],
   [
@@ -81,16 +141,6 @@
   ],
   [
     [
-      "2026-06-24, 12:23:59",
-      "https://news.ycombinator.com/item?id=48658647"
-    ],
-    [
-      "Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'",
-      "https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/"
-    ]
-  ],
-  [
-    [
       "2026-06-24, 11:52:12",
       "https://news.ycombinator.com/item?id=48658361"
     ],
@@ -111,21 +161,11 @@
   ],
   [
     [
-      "2026-06-24, 10:59:59",
-      "https://news.ycombinator.com/item?id=48657940"
-    ],
-    [
-      "Too many R packages: CRAN is inundated with submissions",
-      "https://rworks.dev/posts/too-many-R-packages/"
-    ]
-  ],
-  [
-    [
       "2026-06-24, 08:50:41",
       "https://news.ycombinator.com/item?id=48657030"
     ],
     [
-      "We're making Bunny DNS free: because a faster internet won't build itself",
+      "We’re making Bunny DNS free",
       "https://bunny.net/blog/were-making-bunny-dns-free/"
     ]
   ],
@@ -181,32 +221,12 @@
   ],
   [
     [
-      "2026-06-23, 18:00:58",
-      "https://news.ycombinator.com/item?id=48648779"
-    ],
-    [
-      "Swift Package Index joins Apple",
-      "https://swiftpackageindex.com/blog/swift-package-index-joins-apple"
-    ]
-  ],
-  [
-    [
       "2026-06-23, 15:31:21",
       "https://news.ycombinator.com/item?id=48646659"
     ],
     [
-      "Krea 2 Technical Report",
+      "Krea 2: SOTA open-weights 12B image model",
       "https://www.krea.ai/blog/krea-2-technical-report"
-    ]
-  ],
-  [
-    [
-      "2026-06-22, 21:05:44",
-      "https://news.ycombinator.com/item?id=48636188"
-    ],
-    [
-      "Vector Graphics in Lil",
-      "http://beyondloom.com/blog/vectorgraphics.html"
     ]
   ],
   [
@@ -221,6 +241,16 @@
   ],
   [
     [
+      "2026-06-22, 14:00:35",
+      "https://news.ycombinator.com/item?id=48630254"
+    ],
+    [
+      "Genuinely, my all-time favourite image: Mamenchisaurus hochuanensis",
+      "https://svpow.com/2026/06/04/genuinely-my-all-time-favourite-image-mamenchisaurus-hochuanensis/"
+    ]
+  ],
+  [
+    [
       "2026-06-22, 13:25:15",
       "https://news.ycombinator.com/item?id=48629810"
     ],
@@ -231,32 +261,12 @@
   ],
   [
     [
-      "2026-06-22, 01:20:26",
-      "https://news.ycombinator.com/item?id=48624462"
-    ],
-    [
-      "Remaking BBC test cards to teach you video processing",
-      "https://www.youtube.com/watch?v=U_6HxPkrgcg"
-    ]
-  ],
-  [
-    [
       "2026-06-21, 17:36:23",
       "https://news.ycombinator.com/item?id=48620848"
     ],
     [
       "Show HN: Pure Effect – Reproduce production bugs on your laptop without a DB",
       "https://pure-effect.org"
-    ]
-  ],
-  [
-    [
-      "2026-06-21, 14:48:10",
-      "https://news.ycombinator.com/item?id=48619434"
-    ],
-    [
-      "Cointegration and Long-Horizon Forecasting (2025)",
-      "https://www.philadelphiafed.org/the-economy/cointegration-and-long-horizon-forecasting"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "A Practical Guide to SSH Tunnels: Local and Remote Port Forwarding",
       "https://labs.iximiuz.com/tutorials/ssh-tunnels"
-    ]
-  ],
-  [
-    [
-      "2026-06-18, 14:23:38",
-      "https://news.ycombinator.com/item?id=48585852"
-    ],
-    [
-      "Usbliter8: an A12/A13 SecureROM Exploit",
-      "https://ps.tc/pages/blog-usbliter8.html"
     ]
   ]
 ]
