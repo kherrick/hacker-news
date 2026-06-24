@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-24](index.md)
 
+* [2026-06-24, 11:31:20](https://news.ycombinator.com/item?id=48658186) - [A deadly fungus that can infect cats and people is spreading](https://www.sciencenews.org/article/deadly-fungus-cats-people-spreading)
 * [2026-06-24, 10:20:39](https://news.ycombinator.com/item?id=48657675) - [European Commission's Metsola Overrides MEPs to Force Through Chat Control](https://www.politico.eu/article/president-vs-parliament-roberta-metsola-overrides-meps-bid-force-child-abuse-law/)
 * [2026-06-24, 09:57:10](https://news.ycombinator.com/item?id=48657518) - [How to burst the AI bubble: Strike at its roots](https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/)
 * [2026-06-24, 08:50:41](https://news.ycombinator.com/item?id=48657030) - [We're making Bunny DNS free: because a faster internet won't build itself](https://bunny.net/blog/were-making-bunny-dns-free/)

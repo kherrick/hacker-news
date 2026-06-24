@@ -13,6 +13,7 @@
 * [2026-06-20, 22:36:23](https://news.ycombinator.com/item?id=48613631) - [Pre-2022 Books](https://notes.lorenzogravina.com/musings/pre-2022-books)
 * [2026-06-20, 22:22:52](https://news.ycombinator.com/item?id=48613555) - [Slow breathing modulates brain function and risk behavior](https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9)
 * [2026-06-20, 22:14:15](https://news.ycombinator.com/item?id=48613481) - [Tesla allegedly in autopilot mode crashes into Texas house, woman killed](https://abcnews.com/US/tesla-allegedly-autopilot-mode-crashes-texas-house-woman/story?id=134062374)
+* [2026-06-20, 21:51:21](https://news.ycombinator.com/item?id=48613336) - [François Englert (1932 – 2026)](https://home.cern/francois-englert-1932-2026/)
 * [2026-06-20, 21:50:42](https://news.ycombinator.com/item?id=48613328) - [Systemd 261 released with systemd-sysinstall, IMDSD, and storagectl](https://www.phoronix.com/news/systemd-261)
 * [2026-06-20, 21:25:10](https://news.ycombinator.com/item?id=48613112) - [Dallas Fed: 30% of housing cost increase driven by unauthorized immigration [pdf]](https://www.dallasfed.org/~/media/documents/research/papers/2026/wp2607.pdf)
 * [2026-06-20, 21:09:39](https://news.ycombinator.com/item?id=48613008) - [Supermarket giant Tesco sues VMware for breach of contract](https://www.theregister.com/software/2025/09/03/supermarket-giant-tesco-sues-vmware-for-breach-of-contract/1420651)
