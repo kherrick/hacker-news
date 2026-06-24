@@ -4,9 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-06-24](index.md)
 
+* [2026-06-24, 16:04:26](https://news.ycombinator.com/item?id=48661938) - [I taught a bucket to speak Git](https://www.tigrisdata.com/blog/objgit/)
+* [2026-06-24, 15:56:19](https://news.ycombinator.com/item?id=48661825) - [John Carmack on the mistakes around Quake that ruined id software](https://twitter.com/ID_AA_Carmack/status/2069799283369345247)
+* [2026-06-24, 15:37:20](https://news.ycombinator.com/item?id=48661536) - [Quebec town recognizes trees as living beings with rights](https://www.cbc.ca/news/canada/montreal/terrasse-vaudreil-quebec-tree-rights-9.7243634)
+* [2026-06-24, 15:37:18](https://news.ycombinator.com/item?id=48661535) - [Boffin claims Microsoft's \"quantum leap\" is invalid due to \"basic Python errors\"](https://www.theregister.com/research/2026/06/24/boffin-claims-microsofts-supposed-quantum-leap-does-not-compute-due-to-basic-python-errors/5260489)
+* [2026-06-24, 15:10:27](https://news.ycombinator.com/item?id=48661179) - [Edsger Dijkstra's Library (Housed and Archived in Leuven, Belgium)](https://www.dijkstrascry.com/inventory)
 * [2026-06-24, 15:05:41](https://news.ycombinator.com/item?id=48661095) - [Venezuela reveals $240B in debt it cannot pay (~$100B more than expected)](https://www.euronews.com/business/2026/06/24/venezuela-plans-biggest-debt-restructuring-in-history-after-maduros-fall)
 * [2026-06-24, 14:41:41](https://news.ycombinator.com/item?id=48660711) - [RubyLLM: A single, beautiful Ruby framework for all major AI providers](https://rubyllm.com/)
 * [2026-06-24, 14:38:30](https://news.ycombinator.com/item?id=48660671) - [Running Windows Games on a Hobby OS with Wine](https://astral-os.org/posts/2026/04/03/wine-on-astral.html)
+* [2026-06-24, 14:32:12](https://news.ycombinator.com/item?id=48660579) - [PR spam today looks like email spam in the early 2000s](https://www.greptile.com/blog/prs-on-openclaw)
 * [2026-06-24, 14:14:18](https://news.ycombinator.com/item?id=48660267) - [Show HN: Nub – A Bun-like all-in-one toolkit for Node.js](https://github.com/nubjs/nub)
 * [2026-06-24, 13:57:56](https://news.ycombinator.com/item?id=48659937) - [Mark Zuckerberg wants Meta to launch its own prediction market](https://techcrunch.com/2026/06/23/mark-zuckerberg-wants-meta-to-launch-its-own-prediction-market/)
 * [2026-06-24, 13:26:43](https://news.ycombinator.com/item?id=48659451) - [Slate EV truck starts at $24,950](https://www.slate.auto/en)

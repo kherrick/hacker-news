@@ -48,6 +48,7 @@
 * [2026-06-22, 14:22:46](https://news.ycombinator.com/item?id=48630535) - [Claude Code's \"extended thinking\" is a summary- not authentic thinking](https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/)
 * [2026-06-22, 14:21:24](https://news.ycombinator.com/item?id=48630515) - [Show HN: Selector Forge – browser extension for AI-generated resilient selectors](https://github.com/Intuned/selector-forge)
 * [2026-06-22, 14:05:23](https://news.ycombinator.com/item?id=48630318) - [Show HN: Monolisa v3 – a typeface for developers and creatives](https://www.monolisa.dev/)
+* [2026-06-22, 14:00:35](https://news.ycombinator.com/item?id=48630254) - [Genuinely, my all-time favourite image: Mamenchisaurus hochuanensis](https://svpow.com/2026/06/04/genuinely-my-all-time-favourite-image-mamenchisaurus-hochuanensis/)
 * [2026-06-22, 13:57:49](https://news.ycombinator.com/item?id=48630220) - [Nvidia Halos](https://www.nvidia.com/en-us/ai-trust-center/halos/autonomous-vehicles/)
 * [2026-06-22, 13:53:02](https://news.ycombinator.com/item?id=48630171) - [Moebius: 0.2B image inpainting model with 10B-level performance](https://hustvl.github.io/Moebius/)
 * [2026-06-22, 13:46:57](https://news.ycombinator.com/item?id=48630085) - [QSOE: QNX-inspired OS with dual-kernel architecture](https://qsoe-dev.blogspot.com/2026/06/qsoe-project-v01-is-released.html)
