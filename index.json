@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-24, 20:20:33",
+      "https://news.ycombinator.com/item?id=48665130"
+    ],
+    [
+      "Zero-Downtime Deployments with Docker Compose – No Kubernetes Required",
+      "https://statusdude.com/blog/zero-downtime-docker-compose"
+    ]
+  ],
+  [
+    [
+      "2026-06-24, 19:40:11",
+      "https://news.ycombinator.com/item?id=48664733"
+    ],
+    [
+      "GitHub shouldn't be a dependency for publishing Rust on crates.io",
+      "https://infosec.exchange/@mttaggart/116806641273303255"
+    ]
+  ],
+  [
+    [
       "2026-06-24, 19:08:22",
       "https://news.ycombinator.com/item?id=48664384"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2026-06-24, 11:45:47",
-      "https://news.ycombinator.com/item?id=48658300"
-    ],
-    [
-      "NSA lost access to Mythos amid Anthropic dispute",
-      "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html"
-    ]
-  ],
-  [
-    [
       "2026-06-24, 10:59:59",
       "https://news.ycombinator.com/item?id=48657940"
     ],
@@ -197,16 +207,6 @@
     [
       "We’re making Bunny DNS free",
       "https://bunny.net/blog/were-making-bunny-dns-free/"
-    ]
-  ],
-  [
-    [
-      "2026-06-24, 03:17:47",
-      "https://news.ycombinator.com/item?id=48654676"
-    ],
-    [
-      "Raspberry Pi Pico W as USB Wi-Fi Adapter",
-      "https://gitlab.com/baiyibai/pico-usb-wifi"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2026-06-21, 17:36:23",
-      "https://news.ycombinator.com/item?id=48620848"
+      "2026-06-21, 14:12:48",
+      "https://news.ycombinator.com/item?id=48619159"
     ],
     [
-      "Show HN: Pure Effect – Reproduce production bugs on your laptop without a DB",
-      "https://pure-effect.org"
+      "Crawling BitTorrent DHTs for Fun and Profit [pdf]",
+      "https://www.usenix.org/legacy/event/woot10/tech/full_papers/Wolchok.pdf"
     ]
   ],
   [
