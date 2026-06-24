@@ -4,9 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-06-24](index.md)
 
+* [2026-06-24, 15:05:41](https://news.ycombinator.com/item?id=48661095) - [Venezuela reveals $240B in debt it cannot pay (~$100B more than expected)](https://www.euronews.com/business/2026/06/24/venezuela-plans-biggest-debt-restructuring-in-history-after-maduros-fall)
+* [2026-06-24, 14:41:41](https://news.ycombinator.com/item?id=48660711) - [RubyLLM: A single, beautiful Ruby framework for all major AI providers](https://rubyllm.com/)
+* [2026-06-24, 14:38:30](https://news.ycombinator.com/item?id=48660671) - [Running Windows Games on a Hobby OS with Wine](https://astral-os.org/posts/2026/04/03/wine-on-astral.html)
+* [2026-06-24, 14:14:18](https://news.ycombinator.com/item?id=48660267) - [Show HN: Nub – A Bun-like all-in-one toolkit for Node.js](https://github.com/nubjs/nub)
 * [2026-06-24, 13:57:56](https://news.ycombinator.com/item?id=48659937) - [Mark Zuckerberg wants Meta to launch its own prediction market](https://techcrunch.com/2026/06/23/mark-zuckerberg-wants-meta-to-launch-its-own-prediction-market/)
 * [2026-06-24, 13:26:43](https://news.ycombinator.com/item?id=48659451) - [Slate EV truck starts at $24,950](https://www.slate.auto/en)
+* [2026-06-24, 13:14:39](https://news.ycombinator.com/item?id=48659257) - [OpenAI and Broadcom unveil LLM-optimized inference chip](https://openai.com/index/openai-broadcom-jalapeno-inference-chip/)
 * [2026-06-24, 13:08:52](https://news.ycombinator.com/item?id=48659165) - [Stealing Is a Skill](https://ben-mini.com/2026/stealing-is-a-skill)
+* [2026-06-24, 12:57:31](https://news.ycombinator.com/item?id=48659040) - [Systems optimization should be part of CI/CD](https://ucbskyadrs.github.io/blog/levi/)
 * [2026-06-24, 12:31:43](https://news.ycombinator.com/item?id=48658718) - [Founding a company in Germany: €9600, 152 days and I still can't send an invoice](https://paolino.me/founding-a-company-in-germany/)
 * [2026-06-24, 12:23:59](https://news.ycombinator.com/item?id=48658647) - [Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'](https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/)
 * [2026-06-24, 11:52:12](https://news.ycombinator.com/item?id=48658361) - [Minimus container images are now free](https://images.minimus.io/)
