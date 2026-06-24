@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-06-24, 17:47:00",
+      "https://news.ycombinator.com/item?id=48663324"
+    ],
+    [
+      "OpenAI unveils its first custom chip, built by Broadcom",
+      "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/"
+    ]
+  ],
+  [
+    [
+      "2026-06-24, 17:21:34",
+      "https://news.ycombinator.com/item?id=48662999"
+    ],
+    [
+      "Computer use in Gemini 3.5 Flash",
+      "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/"
+    ]
+  ],
+  [
+    [
+      "2026-06-24, 16:35:56",
+      "https://news.ycombinator.com/item?id=48662381"
+    ],
+    [
+      "The Xteink X4 E-Ink Reader",
+      "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/"
+    ]
+  ],
+  [
+    [
       "2026-06-24, 16:04:26",
       "https://news.ycombinator.com/item?id=48661938"
     ],
@@ -31,22 +61,22 @@
   ],
   [
     [
-      "2026-06-24, 15:37:20",
-      "https://news.ycombinator.com/item?id=48661536"
-    ],
-    [
-      "Quebec town recognizes trees as living beings with rights",
-      "https://www.cbc.ca/news/canada/montreal/terrasse-vaudreil-quebec-tree-rights-9.7243634"
-    ]
-  ],
-  [
-    [
       "2026-06-24, 15:37:18",
       "https://news.ycombinator.com/item?id=48661535"
     ],
     [
       "Boffin claims Microsoft's \"quantum leap\" is invalid due to \"basic Python errors\"",
       "https://www.theregister.com/research/2026/06/24/boffin-claims-microsofts-supposed-quantum-leap-does-not-compute-due-to-basic-python-errors/5260489"
+    ]
+  ],
+  [
+    [
+      "2026-06-24, 15:28:04",
+      "https://news.ycombinator.com/item?id=48661415"
+    ],
+    [
+      "Journalism is rearranging the deckchairs. It needs to reinvent itself",
+      "https://werd.io/journalism-is-rearranging-the-deckchairs-it-needs-to-reinvent-itself/"
     ]
   ],
   [
@@ -111,16 +141,6 @@
   ],
   [
     [
-      "2026-06-24, 13:14:39",
-      "https://news.ycombinator.com/item?id=48659257"
-    ],
-    [
-      "OpenAI and Broadcom unveil LLM-optimized inference chip",
-      "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/"
-    ]
-  ],
-  [
-    [
       "2026-06-24, 13:08:52",
       "https://news.ycombinator.com/item?id=48659165"
     ],
@@ -151,12 +171,12 @@
   ],
   [
     [
-      "2026-06-24, 11:52:12",
-      "https://news.ycombinator.com/item?id=48658361"
+      "2026-06-24, 11:45:47",
+      "https://news.ycombinator.com/item?id=48658300"
     ],
     [
-      "Minimus container images are now free",
-      "https://images.minimus.io/"
+      "NSA lost access to Mythos amid Anthropic dispute",
+      "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html"
     ]
   ],
   [
@@ -167,16 +187,6 @@
     [
       "Haystack: Open-Source AI Framework for Production Ready Agents, RAG",
       "https://haystack.deepset.ai/"
-    ]
-  ],
-  [
-    [
-      "2026-06-24, 10:59:59",
-      "https://news.ycombinator.com/item?id=48657940"
-    ],
-    [
-      "Too many R packages: CRAN is inundated with submissions",
-      "https://rworks.dev/posts/too-many-R-packages/"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Raspberry Pi Pico W as USB Wi-Fi Adapter",
       "https://gitlab.com/baiyibai/pico-usb-wifi"
-    ]
-  ],
-  [
-    [
-      "2026-06-24, 02:38:47",
-      "https://news.ycombinator.com/item?id=48654465"
-    ],
-    [
-      "\"Fix\" MacBook Neo Cursor Lag: Record 1 Pixel of the Screen Every 10 Seconds",
-      "https://gist.github.com/retroplasma/ec21767d0a8380c7ea9c2fbee1c7d6bf"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2026-06-20, 21:51:21",
-      "https://news.ycombinator.com/item?id=48613336"
-    ],
-    [
-      "François Englert (1932 – 2026)",
-      "https://home.cern/francois-englert-1932-2026/"
-    ]
-  ],
-  [
-    [
       "2026-06-20, 03:55:19",
       "https://news.ycombinator.com/item?id=48606222"
     ],
     [
       "A Practical Guide to SSH Tunnels: Local and Remote Port Forwarding",
       "https://labs.iximiuz.com/tutorials/ssh-tunnels"
+    ]
+  ],
+  [
+    [
+      "2026-06-19, 10:03:10",
+      "https://news.ycombinator.com/item?id=48596834"
+    ],
+    [
+      "Pull request limits are cutting down the noise",
+      "https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/"
     ]
   ]
 ]
