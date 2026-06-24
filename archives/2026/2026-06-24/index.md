@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-06-24](index.md)
 
+* [2026-06-24, 12:23:59](https://news.ycombinator.com/item?id=48658647) - [Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'](https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/)
+* [2026-06-24, 11:52:12](https://news.ycombinator.com/item?id=48658361) - [Minimus container images are now free](https://images.minimus.io/)
 * [2026-06-24, 11:31:20](https://news.ycombinator.com/item?id=48658186) - [A deadly fungus that can infect cats and people is spreading](https://www.sciencenews.org/article/deadly-fungus-cats-people-spreading)
+* [2026-06-24, 11:21:32](https://news.ycombinator.com/item?id=48658095) - [Haystack: Open-Source AI Framework for Production Ready Agents, RAG](https://haystack.deepset.ai/)
+* [2026-06-24, 10:59:59](https://news.ycombinator.com/item?id=48657940) - [Too many R packages: CRAN is inundated with submissions](https://rworks.dev/posts/too-many-R-packages/)
 * [2026-06-24, 10:20:39](https://news.ycombinator.com/item?id=48657675) - [European Commission's Metsola Overrides MEPs to Force Through Chat Control](https://www.politico.eu/article/president-vs-parliament-roberta-metsola-overrides-meps-bid-force-child-abuse-law/)
 * [2026-06-24, 09:57:10](https://news.ycombinator.com/item?id=48657518) - [How to burst the AI bubble: Strike at its roots](https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/)
 * [2026-06-24, 08:50:41](https://news.ycombinator.com/item?id=48657030) - [We're making Bunny DNS free: because a faster internet won't build itself](https://bunny.net/blog/were-making-bunny-dns-free/)
