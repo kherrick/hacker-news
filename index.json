@@ -1,22 +1,52 @@
 [
   [
     [
-      "2026-06-24, 13:57:56",
-      "https://news.ycombinator.com/item?id=48659937"
+      "2026-06-24, 15:05:41",
+      "https://news.ycombinator.com/item?id=48661095"
     ],
     [
-      "Mark Zuckerberg wants Meta to launch its own prediction market",
-      "https://techcrunch.com/2026/06/23/mark-zuckerberg-wants-meta-to-launch-its-own-prediction-market/"
+      "Venezuela reveals $240B in debt it cannot pay (~$100B more than expected)",
+      "https://www.euronews.com/business/2026/06/24/venezuela-plans-biggest-debt-restructuring-in-history-after-maduros-fall"
     ]
   ],
   [
     [
-      "2026-06-24, 13:26:43",
-      "https://news.ycombinator.com/item?id=48659451"
+      "2026-06-24, 14:41:41",
+      "https://news.ycombinator.com/item?id=48660711"
     ],
     [
-      "Slate EV truck starts at $24,950",
-      "https://www.slate.auto/en"
+      "RubyLLM: A single, beautiful Ruby framework for all major AI providers",
+      "https://rubyllm.com/"
+    ]
+  ],
+  [
+    [
+      "2026-06-24, 14:38:30",
+      "https://news.ycombinator.com/item?id=48660671"
+    ],
+    [
+      "Running Windows Games on a Hobby OS with Wine",
+      "https://astral-os.org/posts/2026/04/03/wine-on-astral.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-24, 14:14:18",
+      "https://news.ycombinator.com/item?id=48660267"
+    ],
+    [
+      "Show HN: Nub – A Bun-like all-in-one toolkit for Node.js",
+      "https://github.com/nubjs/nub"
+    ]
+  ],
+  [
+    [
+      "2026-06-24, 13:14:39",
+      "https://news.ycombinator.com/item?id=48659257"
+    ],
+    [
+      "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/"
     ]
   ],
   [
@@ -27,6 +57,16 @@
     [
       "Stealing Is a Skill",
       "https://ben-mini.com/2026/stealing-is-a-skill"
+    ]
+  ],
+  [
+    [
+      "2026-06-24, 12:57:31",
+      "https://news.ycombinator.com/item?id=48659040"
+    ],
+    [
+      "Systems optimization should be part of CI/CD",
+      "https://ucbskyadrs.github.io/blog/levi/"
     ]
   ],
   [
@@ -57,16 +97,6 @@
     [
       "Minimus container images are now free",
       "https://images.minimus.io/"
-    ]
-  ],
-  [
-    [
-      "2026-06-24, 11:31:20",
-      "https://news.ycombinator.com/item?id=48658186"
-    ],
-    [
-      "A deadly fungus that can infect cats and people is spreading",
-      "https://www.sciencenews.org/article/deadly-fungus-cats-people-spreading"
     ]
   ],
   [
@@ -151,52 +181,12 @@
   ],
   [
     [
-      "2026-06-23, 18:40:22",
-      "https://news.ycombinator.com/item?id=48649435"
-    ],
-    [
-      "Jerry's Map",
-      "http://www.jerrysmap.com/the-map"
-    ]
-  ],
-  [
-    [
-      "2026-06-23, 18:10:47",
-      "https://news.ycombinator.com/item?id=48648959"
-    ],
-    [
-      "In memory of the man who put red and green squiggles under words",
-      "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451"
-    ]
-  ],
-  [
-    [
       "2026-06-23, 18:00:58",
       "https://news.ycombinator.com/item?id=48648779"
     ],
     [
       "Swift Package Index joins Apple",
       "https://swiftpackageindex.com/blog/swift-package-index-joins-apple"
-    ]
-  ],
-  [
-    [
-      "2026-06-23, 17:50:22",
-      "https://news.ycombinator.com/item?id=48648619"
-    ],
-    [
-      "FUTO Swipe – A new swipe typing model",
-      "https://swipe.futo.tech/"
-    ]
-  ],
-  [
-    [
-      "2026-06-23, 16:30:18",
-      "https://news.ycombinator.com/item?id=48647486"
-    ],
-    [
-      "The worthlessness of Vitamin D is mildly exaggerated",
-      "https://dynomight.net/vitamin-d/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "A Practical Guide to SSH Tunnels: Local and Remote Port Forwarding",
       "https://labs.iximiuz.com/tutorials/ssh-tunnels"
+    ]
+  ],
+  [
+    [
+      "2026-06-18, 14:23:38",
+      "https://news.ycombinator.com/item?id=48585852"
+    ],
+    [
+      "Usbliter8: an A12/A13 SecureROM Exploit",
+      "https://ps.tc/pages/blog-usbliter8.html"
     ]
   ]
 ]
