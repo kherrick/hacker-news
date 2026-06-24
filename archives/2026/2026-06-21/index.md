@@ -6,6 +6,7 @@
 
 * [2026-06-21, 23:34:07](https://news.ycombinator.com/item?id=48623721) - [Petition against Meta's employee training data collection for ML models](https://mcipetition.com/)
 * [2026-06-21, 23:25:24](https://news.ycombinator.com/item?id=48623665) - [PivCo-Huffman \"Merge\" Operations](https://fgiesen.wordpress.com/2026/06/21/pivco-huffman-merge-operations/)
+* [2026-06-21, 23:23:07](https://news.ycombinator.com/item?id=48623650) - [Lithp.py (~2008)](https://fogus.me/fun/lithp/)
 * [2026-06-21, 22:55:23](https://news.ycombinator.com/item?id=48623434) - [Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions](https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions)
 * [2026-06-21, 22:53:50](https://news.ycombinator.com/item?id=48623419) - [Simple hard way to conjugate Japanese verbs](https://underreacted.leaflet.pub/3mmevu6woys27)
 * [2026-06-21, 22:42:32](https://news.ycombinator.com/item?id=48623347) - [The deadly rise of giant trucks and SUVs](https://www.nytimes.com/interactive/2026/06/21/us/trucks-suv-pedestrian-crashes.html)

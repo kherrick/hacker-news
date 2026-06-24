@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-24](index.md)
 
+* [2026-06-24, 07:01:21](https://news.ycombinator.com/item?id=48656219) - [Ashby (YC W19) Is Hiring EMEA Engineers Who Can Design](https://www.ashbyhq.com/careers?ashby_jid=87b96eef-edc1-4de4-adb6-d460126d02f8&utm_source=hn)
 * [2026-06-24, 03:17:47](https://news.ycombinator.com/item?id=48654676) - [Raspberry Pi Pico W as USB Wi-Fi Adapter](https://gitlab.com/baiyibai/pico-usb-wifi)
 * [2026-06-24, 02:38:47](https://news.ycombinator.com/item?id=48654465) - [\"Fix\" MacBook Neo Cursor Lag: Record 1 Pixel of the Screen Every 10 Seconds](https://gist.github.com/retroplasma/ec21767d0a8380c7ea9c2fbee1c7d6bf)
 * [2026-06-24, 02:30:13](https://news.ycombinator.com/item?id=48654411) - [The Teensy Executable Revisited](https://www.muppetlabs.com/~breadbox/software/tiny/revisit.html)
