@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-06-24, 16:02:32",
+      "https://news.ycombinator.com/item?id=48661911"
+    ],
+    [
+      "CAPTCHAs have failed for 20 years",
+      "https://www.browserbase.com/blog/why-captchas-are-getting-harder"
+    ]
+  ],
+  [
+    [
       "2026-06-24, 15:56:19",
       "https://news.ycombinator.com/item?id=48661825"
     ],
@@ -51,12 +61,12 @@
   ],
   [
     [
-      "2026-06-24, 15:05:41",
-      "https://news.ycombinator.com/item?id=48661095"
+      "2026-06-24, 14:50:22",
+      "https://news.ycombinator.com/item?id=48660839"
     ],
     [
-      "Venezuela reveals $240B in debt it cannot pay (~$100B more than expected)",
-      "https://www.euronews.com/business/2026/06/24/venezuela-plans-biggest-debt-restructuring-in-history-after-maduros-fall"
+      "For Most of the World, Open-Source AI Is the Only Way Forward",
+      "https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/"
     ]
   ],
   [
@@ -161,6 +171,16 @@
   ],
   [
     [
+      "2026-06-24, 10:59:59",
+      "https://news.ycombinator.com/item?id=48657940"
+    ],
+    [
+      "Too many R packages: CRAN is inundated with submissions",
+      "https://rworks.dev/posts/too-many-R-packages/"
+    ]
+  ],
+  [
+    [
       "2026-06-24, 08:50:41",
       "https://news.ycombinator.com/item?id=48657030"
     ],
@@ -201,26 +221,6 @@
   ],
   [
     [
-      "2026-06-24, 02:21:47",
-      "https://news.ycombinator.com/item?id=48654351"
-    ],
-    [
-      "Qwen-AgentWorld: Language World Models for General Agents",
-      "https://arxiv.org/abs/2606.24597"
-    ]
-  ],
-  [
-    [
-      "2026-06-23, 23:42:46",
-      "https://news.ycombinator.com/item?id=48653216"
-    ],
-    [
-      "Vulnerability reports are not special anymore",
-      "https://words.filippo.io/vuln-reports/"
-    ]
-  ],
-  [
-    [
       "2026-06-23, 15:31:21",
       "https://news.ycombinator.com/item?id=48646659"
     ],
@@ -231,12 +231,22 @@
   ],
   [
     [
-      "2026-06-22, 17:50:40",
-      "https://news.ycombinator.com/item?id=48633473"
+      "2026-06-23, 15:05:00",
+      "https://news.ycombinator.com/item?id=48646165"
     ],
     [
-      "Rhombus Language 1.0",
-      "https://blog.racket-lang.org/2026/06/rhombus-v1.0.html"
+      "Show HN: peerd – AI agent harness that runs entirely in your browser",
+      "https://github.com/NotASithLord/peerd"
+    ]
+  ],
+  [
+    [
+      "2026-06-22, 14:05:23",
+      "https://news.ycombinator.com/item?id=48630318"
+    ],
+    [
+      "Show HN: Monolisa v3 – a typeface for developers and creatives",
+      "https://www.monolisa.dev/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Show HN: Pure Effect – Reproduce production bugs on your laptop without a DB",
       "https://pure-effect.org"
-    ]
-  ],
-  [
-    [
-      "2026-06-21, 12:49:02",
-      "https://news.ycombinator.com/item?id=48618481"
-    ],
-    [
-      "Printing Gaussian Splats",
-      "https://www.patreon.com/DanyBittel/posts/printing-splats-161333338"
     ]
   ],
   [
