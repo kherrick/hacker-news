@@ -14,6 +14,7 @@
 * [2026-06-22, 20:48:30](https://news.ycombinator.com/item?id=48635954) - [Nearly Half of LG Smart TV Apps Contain Residential Proxy SDKs](https://spur.us/blog/smart-tv-apps-residential-proxy-sdks)
 * [2026-06-22, 20:09:40](https://news.ycombinator.com/item?id=48635409) - [Walt Disney Company is the most successful at monetizing human nostalgia [audio]](https://www.acquired.fm/episodes/the-walt-disney-company)
 * [2026-06-22, 19:47:52](https://news.ycombinator.com/item?id=48635112) - [Jobs and Software Is Fucked](https://urflow.bearblog.dev/jobs-and-software-is-fucked/)
+* [2026-06-22, 19:45:05](https://news.ycombinator.com/item?id=48635075) - [Self-Harness: Harnesses That Improve Themselves](https://arxiv.org/abs/2606.09498)
 * [2026-06-22, 19:36:58](https://news.ycombinator.com/item?id=48634966) - [AI has already killed academia as we know it](https://truths-and-loves.ghost.io/ai-has-already-killed-academia-as-we-know-it/)
 * [2026-06-22, 19:22:37](https://news.ycombinator.com/item?id=48634803) - [Japanese symbols that speak without words](https://arun.is/blog/japan-symbols/)
 * [2026-06-22, 19:21:00](https://news.ycombinator.com/item?id=48634787) - [British Columbia, Time Zones, and Postgres](https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes)

@@ -4,9 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-06-24](index.md)
 
+* [2026-06-24, 19:08:22](https://news.ycombinator.com/item?id=48664384) - [Thomann takes legal action against Fender](https://www.thomann.de/blog/en/inside/thomann-takes-legal-action-against-fender/)
+* [2026-06-24, 18:27:16](https://news.ycombinator.com/item?id=48663861) - [Wikipedia Workers to Seek Union Recognition](https://www.cwu.org/press_release/wikipedia-workers-to-seek-union-recognition/)
+* [2026-06-24, 18:05:33](https://news.ycombinator.com/item?id=48663544) - [I rewrote PostHog's SQL parser, 70x faster, while barely looking at the code](https://posthog.com/blog/sql-parser)
 * [2026-06-24, 17:47:00](https://news.ycombinator.com/item?id=48663324) - [OpenAI unveils its first custom chip, built by Broadcom](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/)
 * [2026-06-24, 17:21:34](https://news.ycombinator.com/item?id=48662999) - [Computer use in Gemini 3.5 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/)
+* [2026-06-24, 16:40:13](https://news.ycombinator.com/item?id=48662452) - [Big AI labs are hiring philosophers](https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers)
 * [2026-06-24, 16:35:56](https://news.ycombinator.com/item?id=48662381) - [The Xteink X4 E-Ink Reader](https://blog.omgmog.net/post/xteink-x4-e-ink-reader/)
+* [2026-06-24, 16:33:48](https://news.ycombinator.com/item?id=48662347) - [Exploiting vulnerabilities in Johnson and Johnson web apps](https://eaton-works.com/2026/06/24/jnj-webapp-hacks/)
 * [2026-06-24, 16:04:26](https://news.ycombinator.com/item?id=48661938) - [I taught a bucket to speak Git](https://www.tigrisdata.com/blog/objgit/)
 * [2026-06-24, 16:02:32](https://news.ycombinator.com/item?id=48661911) - [CAPTCHAs have failed for 20 years](https://www.browserbase.com/blog/why-captchas-are-getting-harder)
 * [2026-06-24, 15:56:19](https://news.ycombinator.com/item?id=48661825) - [John Carmack on the mistakes around Quake that ruined id software](https://twitter.com/ID_AA_Carmack/status/2069799283369345247)
@@ -21,6 +26,7 @@
 * [2026-06-24, 14:32:12](https://news.ycombinator.com/item?id=48660579) - [PR spam today looks like email spam in the early 2000s](https://www.greptile.com/blog/prs-on-openclaw)
 * [2026-06-24, 14:14:18](https://news.ycombinator.com/item?id=48660267) - [Show HN: Nub – A Bun-like all-in-one toolkit for Node.js](https://github.com/nubjs/nub)
 * [2026-06-24, 13:57:56](https://news.ycombinator.com/item?id=48659937) - [Mark Zuckerberg wants Meta to launch its own prediction market](https://techcrunch.com/2026/06/23/mark-zuckerberg-wants-meta-to-launch-its-own-prediction-market/)
+* [2026-06-24, 13:29:18](https://news.ycombinator.com/item?id=48659483) - [Show HN: LookAway, a Mac break reminder that knows when not to interrupt](https://lookaway.com)
 * [2026-06-24, 13:26:43](https://news.ycombinator.com/item?id=48659451) - [Slate EV truck starts at $24,950](https://www.slate.auto/en)
 * [2026-06-24, 13:14:39](https://news.ycombinator.com/item?id=48659257) - [OpenAI and Broadcom unveil LLM-optimized inference chip](https://openai.com/index/openai-broadcom-jalapeno-inference-chip/)
 * [2026-06-24, 13:08:52](https://news.ycombinator.com/item?id=48659165) - [Stealing Is a Skill](https://ben-mini.com/2026/stealing-is-a-skill)
