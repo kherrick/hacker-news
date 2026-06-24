@@ -26,6 +26,7 @@
 * [2026-06-20, 19:55:54](https://news.ycombinator.com/item?id=48612432) - [Show HN: MiniPCs.zip – Charting the Pareto frontier of Mini PCs](https://minipcs.zip)
 * [2026-06-20, 19:19:06](https://news.ycombinator.com/item?id=48612098) - [AMD will reinstate memory encryption on Ryzen 9000 CPUs via BIOS update in July](https://www.tomshardware.com/pc-components/cpus/amd-will-reinstate-memory-encryption-on-ryzen-9000-cpus-through-a-bios-update-in-july-tsme-is-coming-back-after-valuable-community-feedback)
 * [2026-06-20, 19:18:48](https://news.ycombinator.com/item?id=48612095) - [Show HN: My Windows XP portfolio with working Game Boy and iPod](https://mitchivin.com/)
+* [2026-06-20, 19:10:41](https://news.ycombinator.com/item?id=48612025) - [Show HN: An ASCII 3D Rendering Engine](https://glyphcss.com)
 * [2026-06-20, 19:01:10](https://news.ycombinator.com/item?id=48611942) - [PostgresBench: A Reproducible Benchmark for Postgres Services](https://clickhouse.com/blog/postgresbench)
 * [2026-06-20, 18:58:14](https://news.ycombinator.com/item?id=48611896) - [Dirty Little Zine – a tool for making an 8 page printable Zine](https://dirtylittlezine.com/)
 * [2026-06-20, 18:53:46](https://news.ycombinator.com/item?id=48611857) - [Show HN: Tiny – An interpeted dynamic langauge with inline Go native functions](https://github.com/confh/Tiny)
