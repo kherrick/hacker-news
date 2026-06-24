@@ -53,6 +53,7 @@
 * [2026-06-19, 11:03:52](https://news.ycombinator.com/item?id=48597201) - [Samsung Demonstrates 3D Stacked FETs with Triple Nanosheet Channels at 42nm](https://semiconductor.samsung.com/news-events/tech-blog/from-gaa-to-3d-stacked-fet-expanding-the-transistor-into-the-third-dimension/)
 * [2026-06-19, 10:16:20](https://news.ycombinator.com/item?id=48596911) - [The room the economy can't see](https://wilsoniumite.com/2026/06/19/the-room-the-economy-cant-see/)
 * [2026-06-19, 10:16:10](https://news.ycombinator.com/item?id=48596910) - [Norway greenlights first full-scale ship tunnel](https://eandt.theiet.org/2026/06/18/norway-greenlights-world-s-first-full-scale-ship-tunnel)
+* [2026-06-19, 10:03:10](https://news.ycombinator.com/item?id=48596834) - [Pull request limits are cutting down the noise](https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/)
 * [2026-06-19, 09:23:24](https://news.ycombinator.com/item?id=48596586) - [Rethinking Modularity in Ruby Applications](https://noteflakes.com/articles/2026-06-18-syntropy-modules)
 * [2026-06-19, 09:08:00](https://news.ycombinator.com/item?id=48596488) - [Plotnine](https://plotnine.org/)
 * [2026-06-19, 06:35:57](https://news.ycombinator.com/item?id=48595511) - [Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28](https://www.jvm-weekly.com/p/project-valhalla-explained-how-a)

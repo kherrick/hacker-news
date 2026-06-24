@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-06-24](index.md)
 
+* [2026-06-24, 17:47:00](https://news.ycombinator.com/item?id=48663324) - [OpenAI unveils its first custom chip, built by Broadcom](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/)
+* [2026-06-24, 17:21:34](https://news.ycombinator.com/item?id=48662999) - [Computer use in Gemini 3.5 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/)
+* [2026-06-24, 16:35:56](https://news.ycombinator.com/item?id=48662381) - [The Xteink X4 E-Ink Reader](https://blog.omgmog.net/post/xteink-x4-e-ink-reader/)
 * [2026-06-24, 16:04:26](https://news.ycombinator.com/item?id=48661938) - [I taught a bucket to speak Git](https://www.tigrisdata.com/blog/objgit/)
 * [2026-06-24, 16:02:32](https://news.ycombinator.com/item?id=48661911) - [CAPTCHAs have failed for 20 years](https://www.browserbase.com/blog/why-captchas-are-getting-harder)
 * [2026-06-24, 15:56:19](https://news.ycombinator.com/item?id=48661825) - [John Carmack on the mistakes around Quake that ruined id software](https://twitter.com/ID_AA_Carmack/status/2069799283369345247)
 * [2026-06-24, 15:37:20](https://news.ycombinator.com/item?id=48661536) - [Quebec town recognizes trees as living beings with rights](https://www.cbc.ca/news/canada/montreal/terrasse-vaudreil-quebec-tree-rights-9.7243634)
 * [2026-06-24, 15:37:18](https://news.ycombinator.com/item?id=48661535) - [Boffin claims Microsoft's \"quantum leap\" is invalid due to \"basic Python errors\"](https://www.theregister.com/research/2026/06/24/boffin-claims-microsofts-supposed-quantum-leap-does-not-compute-due-to-basic-python-errors/5260489)
+* [2026-06-24, 15:28:04](https://news.ycombinator.com/item?id=48661415) - [Journalism is rearranging the deckchairs. It needs to reinvent itself](https://werd.io/journalism-is-rearranging-the-deckchairs-it-needs-to-reinvent-itself/)
 * [2026-06-24, 15:10:27](https://news.ycombinator.com/item?id=48661179) - [Edsger Dijkstra's Library (Housed and Archived in Leuven, Belgium)](https://www.dijkstrascry.com/inventory)
 * [2026-06-24, 15:05:41](https://news.ycombinator.com/item?id=48661095) - [Venezuela reveals $240B in debt it cannot pay (~$100B more than expected)](https://www.euronews.com/business/2026/06/24/venezuela-plans-biggest-debt-restructuring-in-history-after-maduros-fall)
 * [2026-06-24, 14:50:22](https://news.ycombinator.com/item?id=48660839) - [For Most of the World, Open-Source AI Is the Only Way Forward](https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/)
@@ -24,6 +28,7 @@
 * [2026-06-24, 12:31:43](https://news.ycombinator.com/item?id=48658718) - [Founding a company in Germany: €9600, 152 days and I still can't send an invoice](https://paolino.me/founding-a-company-in-germany/)
 * [2026-06-24, 12:23:59](https://news.ycombinator.com/item?id=48658647) - [Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'](https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/)
 * [2026-06-24, 11:52:12](https://news.ycombinator.com/item?id=48658361) - [Minimus container images are now free](https://images.minimus.io/)
+* [2026-06-24, 11:45:47](https://news.ycombinator.com/item?id=48658300) - [NSA lost access to Mythos amid Anthropic dispute](https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html)
 * [2026-06-24, 11:31:20](https://news.ycombinator.com/item?id=48658186) - [A deadly fungus that can infect cats and people is spreading](https://www.sciencenews.org/article/deadly-fungus-cats-people-spreading)
 * [2026-06-24, 11:21:32](https://news.ycombinator.com/item?id=48658095) - [Haystack: Open-Source AI Framework for Production Ready Agents, RAG](https://haystack.deepset.ai/)
 * [2026-06-24, 10:59:59](https://news.ycombinator.com/item?id=48657940) - [Too many R packages: CRAN is inundated with submissions](https://rworks.dev/posts/too-many-R-packages/)
