@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-22](index.md)
 
+* [2026-06-22, 23:20:53](https://news.ycombinator.com/item?id=48637868) - [Why eval startups fail (2025)](https://thomasliao.com/eval-startups)
 * [2026-06-22, 21:21:08](https://news.ycombinator.com/item?id=48636380) - [ytr: YouTube Radio for Emacs](https://xenodium.com/ytr-youtube-radio-for-emacs)
 * [2026-06-22, 21:21:01](https://news.ycombinator.com/item?id=48636377) - [Unsloth GLM-5.2 – How to Run Locally](https://unsloth.ai/docs/models/glm-5.2)
 * [2026-06-22, 21:00:51](https://news.ycombinator.com/item?id=48636125) - [Kyber (YC W23) Is Hiring a Head of Engineering](https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering)
@@ -60,6 +61,7 @@
 * [2026-06-22, 11:27:40](https://news.ycombinator.com/item?id=48628731) - [Alan Greenspan has died](https://www.washingtonpost.com/obituaries/2026/06/22/alan-greenspan-most-powerful-central-banker-modern-times-dies-100/)
 * [2026-06-22, 11:27:40](https://news.ycombinator.com/item?id=48628731) - [Alan Greenspan Dies at 100; Led Fed During Boom Before 2008 Bust](https://www.bloomberg.com/news/articles/2026-06-22/alan-greenspan-dies-at-100-led-fed-during-boom-before-2008-bust)
 * [2026-06-22, 10:35:21](https://news.ycombinator.com/item?id=48628328) - [Manticore Search 27.1.5: Auth, sharding, conversational and faster vector search](https://manticoresearch.com/blog/manticore-search-27-1-5/)
+* [2026-06-22, 08:18:51](https://news.ycombinator.com/item?id=48627283) - [Show HN: Graphical SQL Builder and Debugger](https://github.com/webofmarius/SQLJoiner)
 * [2026-06-22, 07:30:17](https://news.ycombinator.com/item?id=48626930) - [Codex logging bug may write TBs to local SSDs](https://github.com/openai/codex/issues/28224)
 * [2026-06-22, 07:29:17](https://news.ycombinator.com/item?id=48626918) - [Investors get real-time view of UK bond market activity for the first time](https://www.fca.org.uk/news/press-releases/investors-get-real-time-view-uk-bond-market-activity-first-time)
 * [2026-06-22, 07:22:03](https://news.ycombinator.com/item?id=48626866) - [GLM 5.2 vs. Opus](https://techstackups.com/comparisons/glm-5.2-vs-opus/)
