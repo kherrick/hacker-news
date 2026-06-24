@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-06-24, 08:21:59",
-      "https://news.ycombinator.com/item?id=48656807"
+      "2026-06-24, 08:50:41",
+      "https://news.ycombinator.com/item?id=48657030"
     ],
     [
-      "GitHub Is Becoming a Giant AI Code Dump",
-      "https://maref.cc/en/blog/vibe-coding-crisis/"
+      "We're making Bunny DNS free: because a faster internet won't build itself",
+      "https://bunny.net/blog/were-making-bunny-dns-free/"
     ]
   ],
   [
@@ -57,16 +57,6 @@
     [
       "Qwen-AgentWorld: Language World Models for General Agents",
       "https://arxiv.org/abs/2606.24597"
-    ]
-  ],
-  [
-    [
-      "2026-06-24, 02:12:31",
-      "https://news.ycombinator.com/item?id=48654274"
-    ],
-    [
-      "DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers",
-      "https://github.com/End2End-Diffusion/diffusion-bench"
     ]
   ],
   [
@@ -181,6 +171,16 @@
   ],
   [
     [
+      "2026-06-22, 21:05:44",
+      "https://news.ycombinator.com/item?id=48636188"
+    ],
+    [
+      "Vector Graphics in Lil",
+      "http://beyondloom.com/blog/vectorgraphics.html"
+    ]
+  ],
+  [
+    [
       "2026-06-22, 18:03:03",
       "https://news.ycombinator.com/item?id=48633643"
     ],
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2026-06-21, 17:58:49",
-      "https://news.ycombinator.com/item?id=48621018"
+      "2026-06-21, 20:44:33",
+      "https://news.ycombinator.com/item?id=48622433"
     ],
     [
-      "Hunting Million-Digit Primes from My Loft",
-      "https://primecrunch.com/blog/2/hunting-million-digit-primes-from-my-loft"
+      "F* file system – file search that reads SSD directly bypassing OS kernel",
+      "https://github.com/dmtrKovalenko/ffs"
     ]
   ],
   [
