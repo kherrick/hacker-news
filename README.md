@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-06-24, 22:39:37](https://news.ycombinator.com/item?id=48666433) - [PostgreSQL Is Enough](https://gist.github.com/cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb)
 * [2026-06-24, 21:57:30](https://news.ycombinator.com/item?id=48666100) - [Elastic lays off 7% of employees](https://www.elastic.co/blog/ceo-ash-kulkarni-announcement-to-elastic-employees)
 * [2026-06-24, 19:40:11](https://news.ycombinator.com/item?id=48664733) - [GitHub shouldn't be a dependency for publishing Rust on crates.io](https://infosec.exchange/@mttaggart/116806641273303255)
 * [2026-06-24, 19:08:22](https://news.ycombinator.com/item?id=48664384) - [Thomann takes legal action against Fender](https://www.thomann.de/blog/en/inside/thomann-takes-legal-action-against-fender/)
@@ -22,7 +23,6 @@
 * [2026-06-24, 08:50:41](https://news.ycombinator.com/item?id=48657030) - [We’re making Bunny DNS free](https://bunny.net/blog/were-making-bunny-dns-free/)
 * [2026-06-23, 15:31:21](https://news.ycombinator.com/item?id=48646659) - [Krea 2: SOTA open-weights 12B image model](https://www.krea.ai/blog/krea-2-technical-report)
 * [2026-06-23, 03:23:28](https://news.ycombinator.com/item?id=48639840) - [GLM-5.2 is a step change for open agents](https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open)
-* [2026-06-22, 19:45:05](https://news.ycombinator.com/item?id=48635075) - [Self-Harness: Harnesses That Improve Themselves](https://arxiv.org/abs/2606.09498)
 * [2026-06-22, 14:05:23](https://news.ycombinator.com/item?id=48630318) - [Show HN: Monolisa v3 – a typeface for developers and creatives](https://www.monolisa.dev/)
 * [2026-06-21, 14:12:48](https://news.ycombinator.com/item?id=48619159) - [Crawling BitTorrent DHTs for Fun and Profit [pdf]](https://www.usenix.org/legacy/event/woot10/tech/full_papers/Wolchok.pdf)
 * [2026-06-21, 12:57:10](https://news.ycombinator.com/item?id=48618555) - [Robotics Teams Are Rebuilding the Data Stack from Scratch](https://rerun.io/blog/data-layer-tax)
