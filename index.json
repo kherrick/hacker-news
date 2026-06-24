@@ -41,21 +41,11 @@
   ],
   [
     [
-      "2026-06-24, 16:02:32",
-      "https://news.ycombinator.com/item?id=48661911"
-    ],
-    [
-      "CAPTCHAs have failed for 20 years",
-      "https://www.browserbase.com/blog/why-captchas-are-getting-harder"
-    ]
-  ],
-  [
-    [
       "2026-06-24, 15:56:19",
       "https://news.ycombinator.com/item?id=48661825"
     ],
     [
-      "John Carmack on the mistakes around Quake that ruined id software",
+      "There are a few things that I look back on as my mistakes in the early days",
       "https://twitter.com/ID_AA_Carmack/status/2069799283369345247"
     ]
   ],
@@ -151,16 +141,6 @@
   ],
   [
     [
-      "2026-06-24, 12:57:31",
-      "https://news.ycombinator.com/item?id=48659040"
-    ],
-    [
-      "Systems optimization should be part of CI/CD",
-      "https://ucbskyadrs.github.io/blog/levi/"
-    ]
-  ],
-  [
-    [
       "2026-06-24, 12:31:43",
       "https://news.ycombinator.com/item?id=48658718"
     ],
@@ -187,6 +167,16 @@
     [
       "Haystack: Open-Source AI Framework for Production Ready Agents, RAG",
       "https://haystack.deepset.ai/"
+    ]
+  ],
+  [
+    [
+      "2026-06-24, 10:59:59",
+      "https://news.ycombinator.com/item?id=48657940"
+    ],
+    [
+      "Too many R packages: CRAN is inundated with submissions",
+      "https://rworks.dev/posts/too-many-R-packages/"
     ]
   ],
   [
@@ -241,6 +231,16 @@
   ],
   [
     [
+      "2026-06-22, 23:20:53",
+      "https://news.ycombinator.com/item?id=48637868"
+    ],
+    [
+      "Why eval startups fail (2025)",
+      "https://thomasliao.com/eval-startups"
+    ]
+  ],
+  [
+    [
       "2026-06-22, 14:05:23",
       "https://news.ycombinator.com/item?id=48630318"
     ],
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2026-06-22, 13:25:15",
-      "https://news.ycombinator.com/item?id=48629810"
+      "2026-06-22, 09:46:31",
+      "https://news.ycombinator.com/item?id=48627980"
     ],
     [
-      "Statistics that live in your SQL",
-      "https://kolistat.com/blog/the-stats-duck-v0-6-0/"
+      "How a Microsecond-Level Low-Latency Engine Works",
+      "https://medium.com/@DolphinDB_Inc/c-speed-without-c-pain-inside-a-microsecond-level-low-latency-engine-a634f260a4ee"
     ]
   ],
   [
