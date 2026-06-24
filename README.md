@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-06-24, 13:57:56](https://news.ycombinator.com/item?id=48659937) - [Mark Zuckerberg wants Meta to launch its own prediction market](https://techcrunch.com/2026/06/23/mark-zuckerberg-wants-meta-to-launch-its-own-prediction-market/)
 * [2026-06-24, 13:26:43](https://news.ycombinator.com/item?id=48659451) - [Slate EV truck starts at $24,950](https://www.slate.auto/en)
+* [2026-06-24, 13:08:52](https://news.ycombinator.com/item?id=48659165) - [Stealing Is a Skill](https://ben-mini.com/2026/stealing-is-a-skill)
 * [2026-06-24, 12:31:43](https://news.ycombinator.com/item?id=48658718) - [Founding a company in Germany: €9600, 152 days and I still can't send an invoice](https://paolino.me/founding-a-company-in-germany/)
 * [2026-06-24, 12:23:59](https://news.ycombinator.com/item?id=48658647) - [Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'](https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/)
 * [2026-06-24, 11:52:12](https://news.ycombinator.com/item?id=48658361) - [Minimus container images are now free](https://images.minimus.io/)
@@ -19,17 +21,15 @@
 * [2026-06-23, 17:50:22](https://news.ycombinator.com/item?id=48648619) - [FUTO Swipe – A new swipe typing model](https://swipe.futo.tech/)
 * [2026-06-23, 16:30:18](https://news.ycombinator.com/item?id=48647486) - [The worthlessness of Vitamin D is mildly exaggerated](https://dynomight.net/vitamin-d/)
 * [2026-06-23, 15:31:21](https://news.ycombinator.com/item?id=48646659) - [Krea 2 Technical Report](https://www.krea.ai/blog/krea-2-technical-report)
-* [2026-06-23, 14:24:21](https://news.ycombinator.com/item?id=48645437) - [Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX](https://tikz.dev/editor/)
-* [2026-06-22, 23:20:53](https://news.ycombinator.com/item?id=48637868) - [Why eval startups fail (2025)](https://thomasliao.com/eval-startups)
 * [2026-06-22, 21:05:44](https://news.ycombinator.com/item?id=48636188) - [Vector Graphics in Lil](http://beyondloom.com/blog/vectorgraphics.html)
 * [2026-06-22, 17:50:40](https://news.ycombinator.com/item?id=48633473) - [Rhombus Language 1.0](https://blog.racket-lang.org/2026/06/rhombus-v1.0.html)
 * [2026-06-22, 13:25:15](https://news.ycombinator.com/item?id=48629810) - [Statistics that live in your SQL](https://kolistat.com/blog/the-stats-duck-v0-6-0/)
 * [2026-06-22, 01:20:26](https://news.ycombinator.com/item?id=48624462) - [Remaking BBC test cards to teach you video processing](https://www.youtube.com/watch?v=U_6HxPkrgcg)
+* [2026-06-21, 17:36:23](https://news.ycombinator.com/item?id=48620848) - [Show HN: Pure Effect – Reproduce production bugs on your laptop without a DB](https://pure-effect.org)
+* [2026-06-21, 14:48:10](https://news.ycombinator.com/item?id=48619434) - [Cointegration and Long-Horizon Forecasting (2025)](https://www.philadelphiafed.org/the-economy/cointegration-and-long-horizon-forecasting)
 * [2026-06-21, 12:49:02](https://news.ycombinator.com/item?id=48618481) - [Printing Gaussian Splats](https://www.patreon.com/DanyBittel/posts/printing-splats-161333338)
 * [2026-06-20, 21:51:21](https://news.ycombinator.com/item?id=48613336) - [François Englert (1932 – 2026)](https://home.cern/francois-englert-1932-2026/)
-* [2026-06-20, 18:24:55](https://news.ycombinator.com/item?id=48611585) - [Millimeter wave technology drills 100 meters into granite](https://www.thinkgeoenergy.com/quaise-energy-achieves-100-meters-of-drilling-using-millimeter-wave-technology/)
 * [2026-06-20, 03:55:19](https://news.ycombinator.com/item?id=48606222) - [A Practical Guide to SSH Tunnels: Local and Remote Port Forwarding](https://labs.iximiuz.com/tutorials/ssh-tunnels)
-* [2026-06-18, 14:23:38](https://news.ycombinator.com/item?id=48585852) - [Usbliter8: an A12/A13 SecureROM Exploit](https://ps.tc/pages/blog-usbliter8.html)
 
 ## [Archives](archives/index.md)
 

@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-06-24](index.md)
 
+* [2026-06-24, 13:57:56](https://news.ycombinator.com/item?id=48659937) - [Mark Zuckerberg wants Meta to launch its own prediction market](https://techcrunch.com/2026/06/23/mark-zuckerberg-wants-meta-to-launch-its-own-prediction-market/)
 * [2026-06-24, 13:26:43](https://news.ycombinator.com/item?id=48659451) - [Slate EV truck starts at $24,950](https://www.slate.auto/en)
+* [2026-06-24, 13:08:52](https://news.ycombinator.com/item?id=48659165) - [Stealing Is a Skill](https://ben-mini.com/2026/stealing-is-a-skill)
 * [2026-06-24, 12:31:43](https://news.ycombinator.com/item?id=48658718) - [Founding a company in Germany: €9600, 152 days and I still can't send an invoice](https://paolino.me/founding-a-company-in-germany/)
 * [2026-06-24, 12:23:59](https://news.ycombinator.com/item?id=48658647) - [Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'](https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/)
 * [2026-06-24, 11:52:12](https://news.ycombinator.com/item?id=48658361) - [Minimus container images are now free](https://images.minimus.io/)
