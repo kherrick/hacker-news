@@ -29,6 +29,7 @@
 * [2026-06-20, 19:18:48](https://news.ycombinator.com/item?id=48612095) - [Show HN: My Windows XP portfolio with working Game Boy and iPod](https://mitchivin.com/)
 * [2026-06-20, 19:10:41](https://news.ycombinator.com/item?id=48612025) - [Show HN: An ASCII 3D Rendering Engine](https://glyphcss.com)
 * [2026-06-20, 19:01:10](https://news.ycombinator.com/item?id=48611942) - [PostgresBench: A Reproducible Benchmark for Postgres Services](https://clickhouse.com/blog/postgresbench)
+* [2026-06-20, 19:01:05](https://news.ycombinator.com/item?id=48611940) - [How the Fifth Lateran Council unlocked financial theory](https://sebastiangarren.com/2026/06/17/lending-is-meritorious-and-should-be-praised-how-the-fifth-lateran-council-unlocked-financial-theory/)
 * [2026-06-20, 18:58:14](https://news.ycombinator.com/item?id=48611896) - [Dirty Little Zine – a tool for making an 8 page printable Zine](https://dirtylittlezine.com/)
 * [2026-06-20, 18:53:46](https://news.ycombinator.com/item?id=48611857) - [Show HN: Tiny – An interpeted dynamic langauge with inline Go native functions](https://github.com/confh/Tiny)
 * [2026-06-20, 18:24:55](https://news.ycombinator.com/item?id=48611585) - [Millimeter wave technology drills 100 meters into granite](https://www.thinkgeoenergy.com/quaise-energy-achieves-100-meters-of-drilling-using-millimeter-wave-technology/)

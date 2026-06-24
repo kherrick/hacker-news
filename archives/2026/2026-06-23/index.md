@@ -70,6 +70,7 @@
 * [2026-06-23, 04:40:08](https://news.ycombinator.com/item?id=48640382) - [Who Does What? Team Topologies for the Agentic Platform](https://blog.owulveryck.info/2026/06/22/who-does-what-team-topologies-for-the-agentic-platform.html)
 * [2026-06-23, 04:28:14](https://news.ycombinator.com/item?id=48640278) - [Show HN: A pure ARM64 Assembly web server, now on Linux with CGI for no reason](https://github.com/imtomt/ymawky/tree/linux)
 * [2026-06-23, 04:15:04](https://news.ycombinator.com/item?id=48640196) - [Will It Mythos?](https://swelljoe.com/post/will-it-mythos/)
+* [2026-06-23, 03:23:28](https://news.ycombinator.com/item?id=48639840) - [GLM-5.2 is a step change for open agents](https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open)
 * [2026-06-23, 02:28:00](https://news.ycombinator.com/item?id=48639434) - [Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models](https://arxiv.org/abs/2606.03748)
 * [2026-06-23, 02:01:25](https://news.ycombinator.com/item?id=48639240) - [VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO](https://arxiv.org/abs/2606.16140)
 * [2026-06-23, 01:54:38](https://news.ycombinator.com/item?id=48639184) - [1,700 Free Online Courses from Top Universities](https://www.openculture.com/freeonlinecourses)
