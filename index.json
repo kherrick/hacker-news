@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-06-24, 19:08:22",
+      "https://news.ycombinator.com/item?id=48664384"
+    ],
+    [
+      "Thomann takes legal action against Fender",
+      "https://www.thomann.de/blog/en/inside/thomann-takes-legal-action-against-fender/"
+    ]
+  ],
+  [
+    [
+      "2026-06-24, 18:27:16",
+      "https://news.ycombinator.com/item?id=48663861"
+    ],
+    [
+      "Wikipedia Workers to Seek Union Recognition",
+      "https://www.cwu.org/press_release/wikipedia-workers-to-seek-union-recognition/"
+    ]
+  ],
+  [
+    [
+      "2026-06-24, 18:05:33",
+      "https://news.ycombinator.com/item?id=48663544"
+    ],
+    [
+      "I rewrote PostHog's SQL parser, 70x faster, while barely looking at the code",
+      "https://posthog.com/blog/sql-parser"
+    ]
+  ],
+  [
+    [
       "2026-06-24, 17:47:00",
       "https://news.ycombinator.com/item?id=48663324"
     ],
@@ -21,12 +51,22 @@
   ],
   [
     [
-      "2026-06-24, 16:35:56",
-      "https://news.ycombinator.com/item?id=48662381"
+      "2026-06-24, 16:40:13",
+      "https://news.ycombinator.com/item?id=48662452"
     ],
     [
-      "The Xteink X4 E-Ink Reader",
-      "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/"
+      "Big AI labs are hiring philosophers",
+      "https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers"
+    ]
+  ],
+  [
+    [
+      "2026-06-24, 16:33:48",
+      "https://news.ycombinator.com/item?id=48662347"
+    ],
+    [
+      "Exploiting vulnerabilities in Johnson and Johnson web apps",
+      "https://eaton-works.com/2026/06/24/jnj-webapp-hacks/"
     ]
   ],
   [
@@ -55,28 +95,8 @@
       "https://news.ycombinator.com/item?id=48661535"
     ],
     [
-      "Boffin claims Microsoft's \"quantum leap\" is invalid due to \"basic Python errors\"",
+      "Boffin claims Microsoft’s “quantum leap” is invalid due to “basic Python errors”",
       "https://www.theregister.com/research/2026/06/24/boffin-claims-microsofts-supposed-quantum-leap-does-not-compute-due-to-basic-python-errors/5260489"
-    ]
-  ],
-  [
-    [
-      "2026-06-24, 15:28:04",
-      "https://news.ycombinator.com/item?id=48661415"
-    ],
-    [
-      "Journalism is rearranging the deckchairs. It needs to reinvent itself",
-      "https://werd.io/journalism-is-rearranging-the-deckchairs-it-needs-to-reinvent-itself/"
-    ]
-  ],
-  [
-    [
-      "2026-06-24, 15:10:27",
-      "https://news.ycombinator.com/item?id=48661179"
-    ],
-    [
-      "Edsger Dijkstra's Library (Housed and Archived in Leuven, Belgium)",
-      "https://www.dijkstrascry.com/inventory"
     ]
   ],
   [
@@ -131,6 +151,16 @@
   ],
   [
     [
+      "2026-06-24, 13:29:18",
+      "https://news.ycombinator.com/item?id=48659483"
+    ],
+    [
+      "Show HN: LookAway, a Mac break reminder that knows when not to interrupt",
+      "https://lookaway.com"
+    ]
+  ],
+  [
+    [
       "2026-06-24, 13:08:52",
       "https://news.ycombinator.com/item?id=48659165"
     ],
@@ -141,32 +171,12 @@
   ],
   [
     [
-      "2026-06-24, 12:31:43",
-      "https://news.ycombinator.com/item?id=48658718"
-    ],
-    [
-      "Founding a company in Germany: €9600, 152 days and I still can't send an invoice",
-      "https://paolino.me/founding-a-company-in-germany/"
-    ]
-  ],
-  [
-    [
       "2026-06-24, 11:45:47",
       "https://news.ycombinator.com/item?id=48658300"
     ],
     [
       "NSA lost access to Mythos amid Anthropic dispute",
       "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-24, 11:21:32",
-      "https://news.ycombinator.com/item?id=48658095"
-    ],
-    [
-      "Haystack: Open-Source AI Framework for Production Ready Agents, RAG",
-      "https://haystack.deepset.ai/"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "We’re making Bunny DNS free",
       "https://bunny.net/blog/were-making-bunny-dns-free/"
-    ]
-  ],
-  [
-    [
-      "2026-06-24, 07:01:21",
-      "https://news.ycombinator.com/item?id=48656219"
-    ],
-    [
-      "Ashby (YC W19) Is Hiring EMEA Engineers Who Can Design",
-      "https://www.ashbyhq.com/careers?ashby_jid=87b96eef-edc1-4de4-adb6-d460126d02f8&utm_source=hn"
     ]
   ],
   [
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2026-06-22, 19:45:05",
+      "https://news.ycombinator.com/item?id=48635075"
+    ],
+    [
+      "Self-Harness: Harnesses That Improve Themselves",
+      "https://arxiv.org/abs/2606.09498"
+    ]
+  ],
+  [
+    [
       "2026-06-22, 14:05:23",
       "https://news.ycombinator.com/item?id=48630318"
     ],
@@ -257,16 +267,6 @@
     [
       "Genuinely, my all-time favourite image: Mamenchisaurus hochuanensis",
       "https://svpow.com/2026/06/04/genuinely-my-all-time-favourite-image-mamenchisaurus-hochuanensis/"
-    ]
-  ],
-  [
-    [
-      "2026-06-22, 09:46:31",
-      "https://news.ycombinator.com/item?id=48627980"
-    ],
-    [
-      "How a Microsecond-Level Low-Latency Engine Works",
-      "https://medium.com/@DolphinDB_Inc/c-speed-without-c-pain-inside-a-microsecond-level-low-latency-engine-a634f260a4ee"
     ]
   ],
   [
