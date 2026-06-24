@@ -42,6 +42,7 @@
 * [2026-06-23, 15:22:41](https://news.ycombinator.com/item?id=48646511) - [Show HN: The Cascade Graph – An interactive map of AI and energy constraints](https://atomprophet.io/tools/cascade/)
 * [2026-06-23, 15:11:17](https://news.ycombinator.com/item?id=48646276) - [AI's Affordability Crisis](https://blog.dshr.org/2026/06/ais-affordability-crisis.html)
 * [2026-06-23, 15:07:30](https://news.ycombinator.com/item?id=48646209) - [Show HN: Treedocs: Documentation that automatically checks for staleness](https://dandylyons.github.io/treedocs/)
+* [2026-06-23, 15:05:00](https://news.ycombinator.com/item?id=48646165) - [Show HN: peerd – AI agent harness that runs entirely in your browser](https://github.com/NotASithLord/peerd)
 * [2026-06-23, 14:40:17](https://news.ycombinator.com/item?id=48645721) - [Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild](https://lift4d.github.io/)
 * [2026-06-23, 14:24:21](https://news.ycombinator.com/item?id=48645437) - [Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX](https://tikz.dev/editor/)
 * [2026-06-23, 14:20:24](https://news.ycombinator.com/item?id=48645390) - [Show HN: Bun-sqlgen – Type-safe raw SQL for Bun, no ORM](https://github.com/ilbertt/bun-sqlgen)
