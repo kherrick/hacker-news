@@ -64,6 +64,7 @@
 * [2026-06-22, 11:27:40](https://news.ycombinator.com/item?id=48628731) - [Alan Greenspan has died](https://www.washingtonpost.com/obituaries/2026/06/22/alan-greenspan-most-powerful-central-banker-modern-times-dies-100/)
 * [2026-06-22, 11:27:40](https://news.ycombinator.com/item?id=48628731) - [Alan Greenspan Dies at 100; Led Fed During Boom Before 2008 Bust](https://www.bloomberg.com/news/articles/2026-06-22/alan-greenspan-dies-at-100-led-fed-during-boom-before-2008-bust)
 * [2026-06-22, 10:35:21](https://news.ycombinator.com/item?id=48628328) - [Manticore Search 27.1.5: Auth, sharding, conversational and faster vector search](https://manticoresearch.com/blog/manticore-search-27-1-5/)
+* [2026-06-22, 09:46:31](https://news.ycombinator.com/item?id=48627980) - [How a Microsecond-Level Low-Latency Engine Works](https://medium.com/@DolphinDB_Inc/c-speed-without-c-pain-inside-a-microsecond-level-low-latency-engine-a634f260a4ee)
 * [2026-06-22, 08:18:51](https://news.ycombinator.com/item?id=48627283) - [Show HN: Graphical SQL Builder and Debugger](https://github.com/webofmarius/SQLJoiner)
 * [2026-06-22, 07:30:17](https://news.ycombinator.com/item?id=48626930) - [Codex logging bug may write TBs to local SSDs](https://github.com/openai/codex/issues/28224)
 * [2026-06-22, 07:29:17](https://news.ycombinator.com/item?id=48626918) - [Investors get real-time view of UK bond market activity for the first time](https://www.fca.org.uk/news/press-releases/investors-get-real-time-view-uk-bond-market-activity-first-time)
