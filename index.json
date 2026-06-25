@@ -11,22 +11,12 @@
   ],
   [
     [
-      "2026-06-25, 16:22:55",
-      "https://news.ycombinator.com/item?id=48675717"
+      "2026-06-25, 16:04:46",
+      "https://news.ycombinator.com/item?id=48675435"
     ],
     [
-      "Deno 2.9",
-      "https://deno.com/blog/v2.9"
-    ]
-  ],
-  [
-    [
-      "2026-06-25, 16:22:45",
-      "https://news.ycombinator.com/item?id=48675710"
-    ],
-    [
-      "European Commission lines up Amazon and Microsoft for cloud gatekeeper status",
-      "https://www.theregister.com/legal/2026/06/25/european-commission-lines-up-amazon-and-microsoft-for-cloud-gatekeeper-status/5262127"
+      "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+      "https://github.com/inkeep/open-knowledge"
     ]
   ],
   [
@@ -45,7 +35,7 @@
       "https://news.ycombinator.com/item?id=48675179"
     ],
     [
-      "A Herculaneum scroll has been read for the first time",
+      "An entire Herculaneum scroll has been read for the first time",
       "https://scrollprize.org/firstscroll"
     ]
   ],
@@ -65,7 +55,7 @@
       "https://news.ycombinator.com/item?id=48674619"
     ],
     [
-      "Physicists Track and Trap the Elusive Neutrino",
+      "How physicists track and trap the elusive neutrino",
       "https://www.quantamagazine.org/how-physicists-track-and-trap-the-elusive-neutrino-20260624/"
     ]
   ],
@@ -155,18 +145,8 @@
       "https://news.ycombinator.com/item?id=48668033"
     ],
     [
-      "Cloudflare launched self-managed OAuth for all",
+      "OAuth for all",
       "https://blog.cloudflare.com/oauth-for-all/"
-    ]
-  ],
-  [
-    [
-      "2026-06-25, 01:42:55",
-      "https://news.ycombinator.com/item?id=48667807"
-    ],
-    [
-      "Show HN: Bible as RAG Database",
-      "https://www.crosscanon.com/"
     ]
   ],
   [
@@ -181,22 +161,22 @@
   ],
   [
     [
+      "2026-06-24, 23:46:37",
+      "https://news.ycombinator.com/item?id=48666927"
+    ],
+    [
+      "Blogging can just be stating the obvious",
+      "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/"
+    ]
+  ],
+  [
+    [
       "2026-06-24, 20:17:33",
       "https://news.ycombinator.com/item?id=48665093"
     ],
     [
       "52-hertz whale",
       "https://en.wikipedia.org/wiki/52-hertz_whale"
-    ]
-  ],
-  [
-    [
-      "2026-06-24, 19:48:01",
-      "https://news.ycombinator.com/item?id=48664814"
-    ],
-    [
-      "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-      "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/"
     ]
   ],
   [
@@ -237,6 +217,16 @@
     [
       "I built a GPU back end for Emacs",
       "https://en.andros.dev/blog/4b707a03/how-i-built-a-gpu-backend-for-emacs/"
+    ]
+  ],
+  [
+    [
+      "2026-06-22, 23:44:59",
+      "https://news.ycombinator.com/item?id=48638120"
+    ],
+    [
+      "The annotated PyTorch training loop",
+      "https://idlemachines.co.uk/essays/pytorch-training-loop"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Show HN: MiniPCs.zip – Charting the Pareto frontier of Mini PCs",
       "https://minipcs.zip"
+    ]
+  ],
+  [
+    [
+      "2026-06-20, 19:32:56",
+      "https://news.ycombinator.com/item?id=48612231"
+    ],
+    [
+      "Show HN: Persona.js – a vanilla-JS agent UI library with native WebMCP (MIT)",
+      "https://github.com/runtypelabs/persona"
     ]
   ]
 ]
