@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-06-25](index.md)
 
+* [2026-06-25, 16:22:55](https://news.ycombinator.com/item?id=48675717) - [Deno 2.9](https://deno.com/blog/v2.9)
+* [2026-06-25, 15:59:54](https://news.ycombinator.com/item?id=48675369) - [Windows 10 quietly gets one more year of support and updates](https://www.neowin.net/news/windows-10-quietly-gets-one-more-year-of-support-and-updates/)
 * [2026-06-25, 15:33:37](https://news.ycombinator.com/item?id=48674968) - [As banks close accounts, experts point to immigration crackdown](https://www.americanbanker.com/news/as-banks-close-accounts-experts-point-to-immigration-crackdown)
+* [2026-06-25, 15:33:37](https://news.ycombinator.com/item?id=48674967) - [IBM Debuts First Sub-1 Nanometer Chip Technology](https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology)
+* [2026-06-25, 15:11:48](https://news.ycombinator.com/item?id=48674619) - [Physicists Track and Trap the Elusive Neutrino](https://www.quantamagazine.org/how-physicists-track-and-trap-the-elusive-neutrino-20260624/)
+* [2026-06-25, 15:01:06](https://news.ycombinator.com/item?id=48674484) - [OS9Map](https://yllan.org/software/OS9Map/)
 * [2026-06-25, 14:58:50](https://news.ycombinator.com/item?id=48674446) - [Ford rehires 350 engineers after AI fails to preserve expertise or train juniors](https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short)
 * [2026-06-25, 14:37:15](https://news.ycombinator.com/item?id=48674096) - [Apple increases MacBook and iPad prices by 20%](https://www.ft.com/content/0f067265-2baf-4b6e-8fb2-ed56daef6f3c)
 * [2026-06-25, 14:19:28](https://news.ycombinator.com/item?id=48673825) - [Zig's New BitCast Semantics and LLVM Back End Improvements](https://ziglang.org/devlog/2026/#2026-06-25)
