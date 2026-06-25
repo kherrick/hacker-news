@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-25, 07:02:37",
+      "https://news.ycombinator.com/item?id=48669932"
+    ],
+    [
+      "Wikipedia Workers in Britain set global first by seeking union recognition",
+      "https://utaw.tech/news/wikipedia-recognition"
+    ]
+  ],
+  [
+    [
       "2026-06-25, 06:00:04",
       "https://news.ycombinator.com/item?id=48669534"
     ],
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2026-06-23, 15:31:21",
-      "https://news.ycombinator.com/item?id=48646659"
-    ],
-    [
-      "Krea 2: SOTA open-weights 12B image model",
-      "https://www.krea.ai/blog/krea-2-technical-report"
-    ]
-  ],
-  [
-    [
       "2026-06-23, 15:00:02",
       "https://news.ycombinator.com/item?id=48646077"
     ],
@@ -241,22 +241,22 @@
   ],
   [
     [
+      "2026-06-22, 21:52:54",
+      "https://news.ycombinator.com/item?id=48636753"
+    ],
+    [
+      "Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub",
+      "https://github.com/BohemiaInteractive/CWR"
+    ]
+  ],
+  [
+    [
       "2026-06-22, 15:15:38",
       "https://news.ycombinator.com/item?id=48631366"
     ],
     [
       "Dostoyevsky isn't difficult",
       "https://www.autodidacts.io/dostoyevsky-isnt-difficult/"
-    ]
-  ],
-  [
-    [
-      "2026-06-22, 08:39:49",
-      "https://news.ycombinator.com/item?id=48627471"
-    ],
-    [
-      "Optimizing [sqlx:test] rebuild time",
-      "https://kobzol.github.io/rust/2026/06/21/optimizing-sqlx-test-rebuild-time.html"
     ]
   ],
   [
