@@ -1,11 +1,31 @@
 [
   [
     [
+      "2026-06-25, 00:41:43",
+      "https://news.ycombinator.com/item?id=48667336"
+    ],
+    [
+      "LuaJIT 3.0 proposed syntax extensions",
+      "https://github.com/LuaJIT/LuaJIT/issues/1475"
+    ]
+  ],
+  [
+    [
+      "2026-06-24, 23:46:37",
+      "https://news.ycombinator.com/item?id=48666927"
+    ],
+    [
+      "Blogging Can Just Be Stating the Obvious",
+      "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/"
+    ]
+  ],
+  [
+    [
       "2026-06-24, 22:39:37",
       "https://news.ycombinator.com/item?id=48666433"
     ],
     [
-      "PostgreSQL Is Enough",
+      "PostgreSQL is enough (2024)",
       "https://gist.github.com/cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb"
     ]
   ],
@@ -21,6 +41,16 @@
   ],
   [
     [
+      "2026-06-24, 20:20:33",
+      "https://news.ycombinator.com/item?id=48665130"
+    ],
+    [
+      "Zero-Downtime Deployments with Docker Compose – No Kubernetes Required",
+      "https://statusdude.com/blog/zero-downtime-docker-compose"
+    ]
+  ],
+  [
+    [
       "2026-06-24, 19:40:11",
       "https://news.ycombinator.com/item?id=48664733"
     ],
@@ -31,12 +61,12 @@
   ],
   [
     [
-      "2026-06-24, 19:08:22",
-      "https://news.ycombinator.com/item?id=48664384"
+      "2026-06-24, 18:05:33",
+      "https://news.ycombinator.com/item?id=48663544"
     ],
     [
-      "Thomann takes legal action against Fender",
-      "https://www.thomann.de/blog/en/inside/thomann-takes-legal-action-against-fender/"
+      "I rewrote PostHog's SQL parser, 70x faster, while barely looking at the code",
+      "https://posthog.com/blog/sql-parser"
     ]
   ],
   [
@@ -61,32 +91,12 @@
   ],
   [
     [
-      "2026-06-24, 16:40:13",
-      "https://news.ycombinator.com/item?id=48662452"
-    ],
-    [
-      "Big AI labs are hiring philosophers",
-      "https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers"
-    ]
-  ],
-  [
-    [
       "2026-06-24, 16:35:56",
       "https://news.ycombinator.com/item?id=48662381"
     ],
     [
       "The Xteink X4 E-Ink Reader",
       "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/"
-    ]
-  ],
-  [
-    [
-      "2026-06-24, 16:33:48",
-      "https://news.ycombinator.com/item?id=48662347"
-    ],
-    [
-      "Exploiting vulnerabilities in Johnson and Johnson web apps",
-      "https://eaton-works.com/2026/06/24/jnj-webapp-hacks/"
     ]
   ],
   [
@@ -107,16 +117,6 @@
     [
       "RubyLLM: A Ruby framework for all major AI providers",
       "https://rubyllm.com/"
-    ]
-  ],
-  [
-    [
-      "2026-06-24, 14:38:30",
-      "https://news.ycombinator.com/item?id=48660671"
-    ],
-    [
-      "Running Windows Games on a Hobby OS with Wine",
-      "https://astral-os.org/posts/2026/04/03/wine-on-astral.html"
     ]
   ],
   [
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2026-06-23, 18:57:36",
-      "https://news.ycombinator.com/item?id=48649697"
-    ],
-    [
-      "Show HN: Wordit – Change One Letter, Keep the Chain Going",
-      "https://victorribeiro.com/wordit/"
-    ]
-  ],
-  [
-    [
       "2026-06-23, 15:31:21",
       "https://news.ycombinator.com/item?id=48646659"
     ],
@@ -231,12 +221,12 @@
   ],
   [
     [
-      "2026-06-22, 14:05:23",
-      "https://news.ycombinator.com/item?id=48630318"
+      "2026-06-22, 15:15:38",
+      "https://news.ycombinator.com/item?id=48631366"
     ],
     [
-      "Show HN: Monolisa v3 – a typeface for developers and creatives",
-      "https://www.monolisa.dev/"
+      "Dostoyevsky isn't difficult",
+      "https://www.autodidacts.io/dostoyevsky-isnt-difficult/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "I can haz smoller NixOS ISOs?",
       "https://natkr.com/2026-06-19-nixos-but-smol/"
+    ]
+  ],
+  [
+    [
+      "2026-06-19, 10:03:10",
+      "https://news.ycombinator.com/item?id=48596834"
+    ],
+    [
+      "Pull request limits are cutting down the noise",
+      "https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/"
     ]
   ]
 ]
