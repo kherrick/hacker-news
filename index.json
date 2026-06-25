@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-06-25, 20:30:47",
-      "https://news.ycombinator.com/item?id=48678820"
+      "2026-06-25, 20:50:02",
+      "https://news.ycombinator.com/item?id=48679007"
     ],
     [
-      "The Customer Who Almost Killed Slack, Stripe, and Airbnb",
-      "https://siliconopera.com/the-customer-who-almost-killed-slack-stripe-and-airbnb/"
+      "Un-0: Generating Images with Coupled Oscillators",
+      "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/"
+    ]
+  ],
+  [
+    [
+      "2026-06-25, 20:33:37",
+      "https://news.ycombinator.com/item?id=48678852"
+    ],
+    [
+      "Om Malik, 1966-2026",
+      "https://om.co/2026/06/24/1966-2026/"
+    ]
+  ],
+  [
+    [
+      "2026-06-25, 20:14:35",
+      "https://news.ycombinator.com/item?id=48678645"
+    ],
+    [
+      "An oral history of Bank Python (2021)",
+      "https://calpaterson.com/bank-python.html"
     ]
   ],
   [
@@ -47,16 +67,6 @@
     [
       "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
       "https://github.com/inkeep/open-knowledge"
-    ]
-  ],
-  [
-    [
-      "2026-06-25, 15:59:54",
-      "https://news.ycombinator.com/item?id=48675369"
-    ],
-    [
-      "Windows 10 quietly gets one more year of support and updates",
-      "https://www.neowin.net/news/windows-10-quietly-gets-one-more-year-of-support-and-updates/"
     ]
   ],
   [
@@ -151,36 +161,6 @@
   ],
   [
     [
-      "2026-06-25, 10:28:16",
-      "https://news.ycombinator.com/item?id=48671468"
-    ],
-    [
-      "LastPass notifies users of yet another data breach",
-      "https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/"
-    ]
-  ],
-  [
-    [
-      "2026-06-25, 06:00:04",
-      "https://news.ycombinator.com/item?id=48669534"
-    ],
-    [
-      "Half-Life 2 in a Browser",
-      "https://hl2.slqnt.dev/"
-    ]
-  ],
-  [
-    [
-      "2026-06-25, 02:18:10",
-      "https://news.ycombinator.com/item?id=48668033"
-    ],
-    [
-      "OAuth for all",
-      "https://blog.cloudflare.com/oauth-for-all/"
-    ]
-  ],
-  [
-    [
       "2026-06-24, 20:17:33",
       "https://news.ycombinator.com/item?id=48665093"
     ],
@@ -197,6 +177,26 @@
     [
       "You can't unit test for taste",
       "https://dev.karltryggvason.com/you-cant-unit-test-for-taste/"
+    ]
+  ],
+  [
+    [
+      "2026-06-24, 08:04:23",
+      "https://news.ycombinator.com/item?id=48656692"
+    ],
+    [
+      "GloriousEggroll's Proton has been rebased on Proton 11",
+      "https://github.com/GloriousEggroll/proton-ge-custom/releases/tag/GE-Proton11-1"
+    ]
+  ],
+  [
+    [
+      "2026-06-24, 02:56:03",
+      "https://news.ycombinator.com/item?id=48654540"
+    ],
+    [
+      "RRB-Trees: Efficient Immutable Vectors (2012) [pdf]",
+      "https://infoscience.epfl.ch/server/api/core/bitstreams/e5d662ea-1e8d-4dda-b917-8cbb8bb40bf9/content"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2026-06-22, 15:00:04",
+      "https://news.ycombinator.com/item?id=48631119"
+    ],
+    [
+      "The last Romans are still around",
+      "https://signoregalilei.com/2026/06/20/the-last-romans-are-still-around/"
+    ]
+  ],
+  [
+    [
       "2026-06-21, 16:51:47",
       "https://news.ycombinator.com/item?id=48620422"
     ],
@@ -287,16 +297,6 @@
     [
       "Early adversity leaves lasting molecular imprint across the body: primate study",
       "https://medicalxpress.com/news/2026-06-early-life-adversity-molecular-imprint.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-20, 19:55:54",
-      "https://news.ycombinator.com/item?id=48612432"
-    ],
-    [
-      "Show HN: MiniPCs.zip – Charting the Pareto frontier of Mini PCs",
-      "https://minipcs.zip"
     ]
   ]
 ]
