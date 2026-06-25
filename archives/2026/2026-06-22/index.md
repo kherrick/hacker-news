@@ -50,6 +50,7 @@
 * [2026-06-22, 15:16:45](https://news.ycombinator.com/item?id=48631388) - [Bain tests software takeover targets by vibecoding AI replicas](https://www.ft.com/content/e5bac4d1-b1f8-43a4-bd54-b182d5357af0)
 * [2026-06-22, 15:15:38](https://news.ycombinator.com/item?id=48631366) - [Dostoyevsky isn't difficult](https://www.autodidacts.io/dostoyevsky-isnt-difficult/)
 * [2026-06-22, 15:12:36](https://news.ycombinator.com/item?id=48631302) - [Tw-fade: pure CSS scroll-driven edge masking](https://pete.design/tw-fade)
+* [2026-06-22, 15:00:04](https://news.ycombinator.com/item?id=48631119) - [The last Romans are still around](https://signoregalilei.com/2026/06/20/the-last-romans-are-still-around/)
 * [2026-06-22, 14:55:51](https://news.ycombinator.com/item?id=48631058) - [DHL Set to Transport Goods on New Wind-Powered Cargo Ships](https://www.wsj.com/pro/sustainable-business/dhl-set-to-transport-goods-on-new-wind-powered-cargo-ships-eca5d5a0)
 * [2026-06-22, 14:54:59](https://news.ycombinator.com/item?id=48631043) - [I built Ponytrail, a local audit trail for AI coding-agent edits](https://github.com/0xroylee/ponytrail)
 * [2026-06-22, 14:22:46](https://news.ycombinator.com/item?id=48630535) - [Claude Code's \"extended thinking\" is a summary- not authentic thinking](https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/)
