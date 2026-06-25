@@ -7,6 +7,7 @@
 * [2026-06-23, 23:42:46](https://news.ycombinator.com/item?id=48653216) - [Vulnerability reports are not special anymore](https://words.filippo.io/vuln-reports/)
 * [2026-06-23, 23:29:11](https://news.ycombinator.com/item?id=48653092) - [Let's say you're hungry for a sandwich](https://beige.party/@Lana/116795397010653803)
 * [2026-06-23, 23:26:43](https://news.ycombinator.com/item?id=48653060) - [Extreme Heat conference cancelled due to extreme heat warning](https://www.lse.ac.uk/granthaminstitute/events/extreme-heat-improving-governance-and-strengthening-action-around-the-world/)
+* [2026-06-23, 23:21:35](https://news.ycombinator.com/item?id=48652997) - [Advanced Nintendo Entertainment System (ANES) – NES Modded to Use 2 PPUs](https://github.com/decrazyo/anes)
 * [2026-06-23, 22:12:18](https://news.ycombinator.com/item?id=48652184) - [California AB 2047 makes 3d printers off-limits to students, educators, business](https://www.the3dprintingnerd.com/ab2047)
 * [2026-06-23, 21:57:32](https://news.ycombinator.com/item?id=48652028) - [United Wizards of the Coast recognized by NLRB](https://unitedwizardsofthecoast.com/news/2026-06-23-we-have-a-union)
 * [2026-06-23, 21:53:31](https://news.ycombinator.com/item?id=48651991) - [WaPo Loves Data Centers More Than Disclosing Bezos's Financial Interest in Them](https://washingtonian.com/2026/06/23/the-washington-post-loves-data-centers-a-lot-more-than-disclosing-jeff-bezos-financial-interest-in-promoting-them/)

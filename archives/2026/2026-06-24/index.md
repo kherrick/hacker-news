@@ -8,6 +8,7 @@
 * [2026-06-24, 22:39:37](https://news.ycombinator.com/item?id=48666433) - [PostgreSQL Is Enough](https://gist.github.com/cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb)
 * [2026-06-24, 21:57:30](https://news.ycombinator.com/item?id=48666100) - [Elastic lays off 7% of employees](https://www.elastic.co/blog/ceo-ash-kulkarni-announcement-to-elastic-employees)
 * [2026-06-24, 20:20:33](https://news.ycombinator.com/item?id=48665130) - [Zero-Downtime Deployments with Docker Compose – No Kubernetes Required](https://statusdude.com/blog/zero-downtime-docker-compose)
+* [2026-06-24, 20:17:33](https://news.ycombinator.com/item?id=48665093) - [52-hertz whale](https://en.wikipedia.org/wiki/52-hertz_whale)
 * [2026-06-24, 19:48:01](https://news.ycombinator.com/item?id=48664814) - [Anthropic says Alibaba illicitly extracted Claude AI model capabilities](https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/)
 * [2026-06-24, 19:40:11](https://news.ycombinator.com/item?id=48664733) - [GitHub shouldn't be a dependency for publishing Rust on crates.io](https://infosec.exchange/@mttaggart/116806641273303255)
 * [2026-06-24, 19:08:22](https://news.ycombinator.com/item?id=48664384) - [Thomann takes legal action against Fender](https://www.thomann.de/blog/en/inside/thomann-takes-legal-action-against-fender/)

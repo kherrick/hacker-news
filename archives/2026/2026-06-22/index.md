@@ -44,6 +44,7 @@
 * [2026-06-22, 15:37:48](https://news.ycombinator.com/item?id=48631726) - [Git is forever. I'm building Oak anyways](https://oak.space/blog)
 * [2026-06-22, 15:34:34](https://news.ycombinator.com/item?id=48631681) - [Show HN: FastUbu – An Ultrafast Video Archive](https://fastubu.com/)
 * [2026-06-22, 15:24:40](https://news.ycombinator.com/item?id=48631511) - [Inventing the Future, One Lisp Machine at a Time](https://www.patrickdomanico.com/bpm/2026/06/16/inventing-the-future-one-lisp-machine-at-a-time/)
+* [2026-06-22, 15:21:04](https://news.ycombinator.com/item?id=48631450) - [Oxide computer 3D rack guided tour](https://explorer.oxide.computer/)
 * [2026-06-22, 15:16:45](https://news.ycombinator.com/item?id=48631388) - [Bain tests software takeover targets by vibecoding AI replicas](https://www.ft.com/content/e5bac4d1-b1f8-43a4-bd54-b182d5357af0)
 * [2026-06-22, 15:15:38](https://news.ycombinator.com/item?id=48631366) - [Dostoyevsky isn't difficult](https://www.autodidacts.io/dostoyevsky-isnt-difficult/)
 * [2026-06-22, 15:12:36](https://news.ycombinator.com/item?id=48631302) - [Tw-fade: pure CSS scroll-driven edge masking](https://pete.design/tw-fade)
