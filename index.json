@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-25, 08:07:54",
+      "https://news.ycombinator.com/item?id=48670411"
+    ],
+    [
+      "Aisle Discovers 6 New CVEs in Curl, Including the Oldest Issue Ever Reported",
+      "https://aisle.com/blog/aisle-discovers-6-new-cves-in-curl-including-the-oldest-issue-ever-reported"
+    ]
+  ],
+  [
+    [
       "2026-06-25, 07:02:37",
       "https://news.ycombinator.com/item?id=48669932"
     ],
@@ -57,16 +67,6 @@
     [
       "Zombie unicorns are haunting Silicon Valley",
       "https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley"
-    ]
-  ],
-  [
-    [
-      "2026-06-25, 01:14:23",
-      "https://news.ycombinator.com/item?id=48667588"
-    ],
-    [
-      "Ending respiratory infections",
-      "https://blog.interceptfund.com/p/ending-respiratory-infections"
     ]
   ],
   [
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2026-06-23, 15:31:21",
-      "https://news.ycombinator.com/item?id=48646659"
-    ],
-    [
-      "Krea 2: SOTA open-weights 12B image model",
-      "https://www.krea.ai/blog/krea-2-technical-report"
-    ]
-  ],
-  [
-    [
       "2026-06-23, 15:09:15",
       "https://news.ycombinator.com/item?id=48646239"
     ],
@@ -221,16 +211,6 @@
   ],
   [
     [
-      "2026-06-23, 05:29:54",
-      "https://news.ycombinator.com/item?id=48640705"
-    ],
-    [
-      "15 sorting algorithms in 6 minutes (2013) [video]",
-      "https://www.youtube.com/watch?v=kPRA0W1kECg"
-    ]
-  ],
-  [
-    [
       "2026-06-23, 03:23:28",
       "https://news.ycombinator.com/item?id=48639840"
     ],
@@ -241,12 +221,32 @@
   ],
   [
     [
+      "2026-06-23, 02:27:20",
+      "https://news.ycombinator.com/item?id=48639429"
+    ],
+    [
+      "Lies, Damn Lies and Database Benchmarks",
+      "https://questdb.com/blog/lies-damn-lies-and-database-benchmarks/"
+    ]
+  ],
+  [
+    [
       "2026-06-23, 01:30:59",
       "https://news.ycombinator.com/item?id=48639018"
     ],
     [
       "Matt's Script Archive: The Scripts That Reshaped the Web",
       "https://tedium.co/2026/06/22/matts-script-archive-retrospective/"
+    ]
+  ],
+  [
+    [
+      "2026-06-23, 01:05:50",
+      "https://news.ycombinator.com/item?id=48638820"
+    ],
+    [
+      "Shall We Play a Coordination Game?",
+      "https://kellyshortridge.com/blog/posts/shall-we-play-a-coordination-game/"
     ]
   ],
   [
