@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-25](index.md)
 
+* [2026-06-25, 22:19:12](https://news.ycombinator.com/item?id=48679952) - [Om Malik taught Silicon Valley to read itself](https://runtimewire.com/article/om-malik-taught-silicon-valley-to-read-itself)
+* [2026-06-25, 21:44:55](https://news.ycombinator.com/item?id=48679608) - [The 'papers, please' era of the internet will decimate your privacy](https://expression.fire.org/p/the-papers-please-era-of-the-internet)
 * [2026-06-25, 21:22:59](https://news.ycombinator.com/item?id=48679385) - [Migrating from Proxmox to NixOS and Incus](https://www.nijho.lt/post/proxmox-to-nixos/)
 * [2026-06-25, 20:50:02](https://news.ycombinator.com/item?id=48679007) - [Un-0: Generating Images with Coupled Oscillators](https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/)
 * [2026-06-25, 20:36:05](https://news.ycombinator.com/item?id=48678873) - [OpenAI Leans Toward Waiting Until Next Year for IPO](https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html)
