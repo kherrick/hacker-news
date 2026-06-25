@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-06-25](index.md)
 
+* [2026-06-25, 21:22:59](https://news.ycombinator.com/item?id=48679385) - [Migrating from Proxmox to NixOS and Incus](https://www.nijho.lt/post/proxmox-to-nixos/)
 * [2026-06-25, 20:50:02](https://news.ycombinator.com/item?id=48679007) - [Un-0: Generating Images with Coupled Oscillators](https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/)
+* [2026-06-25, 20:36:05](https://news.ycombinator.com/item?id=48678873) - [OpenAI Leans Toward Waiting Until Next Year for IPO](https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html)
 * [2026-06-25, 20:33:37](https://news.ycombinator.com/item?id=48678852) - [Om Malik, 1966-2026](https://om.co/2026/06/24/1966-2026/)
 * [2026-06-25, 20:30:47](https://news.ycombinator.com/item?id=48678820) - [The Customer Who Almost Killed Slack, Stripe, and Airbnb](https://siliconopera.com/the-customer-who-almost-killed-slack-stripe-and-airbnb/)
 * [2026-06-25, 20:14:35](https://news.ycombinator.com/item?id=48678645) - [An oral history of Bank Python (2021)](https://calpaterson.com/bank-python.html)

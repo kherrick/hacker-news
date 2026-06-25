@@ -67,6 +67,7 @@
 * [2026-06-23, 10:02:54](https://news.ycombinator.com/item?id=48642686) - [Show HN: Shumai – open-source Frame.io alternative for creative work](https://github.com/shumaiOne/shumai)
 * [2026-06-23, 09:51:49](https://news.ycombinator.com/item?id=48642610) - [You already have a Git server](https://gopeek-lovat.vercel.app/blog-you-already-have-a-git-server.html)
 * [2026-06-23, 09:38:45](https://news.ycombinator.com/item?id=48642503) - [I built a GPU back end for Emacs](https://en.andros.dev/blog/4b707a03/how-i-built-a-gpu-backend-for-emacs/)
+* [2026-06-23, 09:35:26](https://news.ycombinator.com/item?id=48642474) - [A game where you're an OS and have to manage processes, memory and I/O events](https://github.com/plbrault/youre-the-os)
 * [2026-06-23, 09:00:48](https://news.ycombinator.com/item?id=48642232) - [The Traditional Vi](https://ex-vi.sourceforge.net/)
 * [2026-06-23, 08:31:48](https://news.ycombinator.com/item?id=48642030) - [Show HN: Neural Particle Automata](https://selforg-npa.github.io/)
 * [2026-06-23, 08:16:45](https://news.ycombinator.com/item?id=48641927) - [AI Built a Nuke and Still Lost](https://www.lwilko.com/blog/i-gave-an-ai-a-civilization)
