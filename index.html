@@ -146,43 +146,90 @@
             </h4>
           </section>
         </section>
-        <section id="48675717">
+        <section id="48675435">
           <h3>
-            <a class="item" href="https://deno.com/blog/v2.9">Deno 2.9</a>
-          </h3>
-          <section>
-            <h4>
-              <span>2026-06-25 @ 16:22:55</span
-              ><span class="points-container"
-                >Points: <span class="points">121</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48675717"
-                  >Comments</a
-                ><span class="descendants">: 46</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48675710">
-          <h3>
-            <a
-              class="item"
-              href="https://www.theregister.com/legal/2026/06/25/european-commission-lines-up-amazon-and-microsoft-for-cloud-gatekeeper-status/5262127"
-              >European Commission lines up Amazon and Microsoft for cloud
-              gatekeeper status</a
+            <a class="item" href="https://github.com/inkeep/open-knowledge"
+              >Show HN: OpenKnowledge – open source AI-first alternative to
+              Obsidian/Notion</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-06-25 @ 16:22:45</span
+              <span>2026-06-25 @ 16:04:46</span
               ><span class="points-container"
-                >Points: <span class="points">37</span></span
+                >Points: <span class="points">49</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48675710"
+                ><a href="https://news.ycombinator.com/item?id=48675435"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
+            <div class="text">
+              <a href="https://openknowledge.ai/">https://openknowledge.ai/</a
+              >), a “what you see is what you get” markdown editor that has
+              direct integrations with Claude, Codex, and Cursor. Available as
+              MacOS app or CLI. Fully free/local and OSS (<a
+                href="https://github.com/inkeep/open-knowledge"
+                >https://github.com/inkeep/open-knowledge</a
+              >).
+              <p>
+                We built this because we wanted a “Google docs” like experience
+                for writing and sharing markdown files across our team. Obsidian
+                is the best alternative we tried, but found it doesn’t have a
+                true “what you see is what you get” UI and it didn’t integrate
+                well with Claude/Codex outside of community plugins.
+              </p>
+              <p>So we built OpenKnowledge. It takes shape as:</p>
+              <p>
+                1. A MacOS app with a file navigator, the WYSIWYG editor, and
+                link explorer.
+              </p>
+              <p>
+                2. Integrations with the Claude, Codex, and Cursor desktop apps.
+                The agents can open an OpenKnowledge editor within their
+                embedded web browsers for a side-by-side experience.
+              </p>
+              <p>
+                3. Built-in mcps, skills, and RAG for LLM-wiki and “AI Second
+                Brain” scenarios + spec writing
+              </p>
+              <p>4. An embedded terminal and CLI for TUI-first users</p>
+              <p>
+                OSS stack includes: Tiptap/prosemirror, CodeMirror, yjs (CRDT),
+                Electron (MacOS app), Orama, remark/rehype/micromark/mdast,
+                @pierre/trees
+              </p>
+              <p>
+                On the architecture side, the interesting eng. challenges
+                included:
+              </p>
+              <p>
+                1. A pipeline to convert ProseMirror to markdown in a
+                bidirectional lossless way. ProseMirror uses ASTs, which are not
+                designed to have byte-fidelity.
+              </p>
+              <p>
+                2. A dual-observer CRDT to keep the ProseMirror and markdown
+                state in-sync.
+              </p>
+              <p>
+                The CRDT + git also power a collaborative experience that shows
+                what Agents are doing in the markdown, have undo/redo, and
+                version history. The “Share” and cloud-sync functionality are
+                geared for team collaboration. They feel “no-code” but leverage
+                git/GitHub under the hood, which also means data stays fully
+                private.
+              </p>
+              <p>
+                In that spirit, we made OpenKnowledge open source for anybody
+                who’s curious or who’d like to contribute.
+              </p>
+              <p>
+                We’re actively thinking about plugins/extensibility and what’s
+                next. If you have suggestions or feedback, would love to hear
+                it.
+              </p>
+            </div>
           </section>
         </section>
         <section id="48675369">
@@ -197,11 +244,11 @@
             <h4>
               <span>2026-06-25 @ 15:59:54</span
               ><span class="points-container"
-                >Points: <span class="points">141</span></span
+                >Points: <span class="points">173</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48675369"
                   >Comments</a
-                ><span class="descendants">: 111</span></span
+                ><span class="descendants">: 128</span></span
               >
             </h4>
           </section>
@@ -209,18 +256,18 @@
         <section id="48675179">
           <h3>
             <a class="item" href="https://scrollprize.org/firstscroll"
-              >A Herculaneum scroll has been read for the first time</a
+              >An entire Herculaneum scroll has been read for the first time</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-06-25 @ 15:48:07</span
               ><span class="points-container"
-                >Points: <span class="points">377</span></span
+                >Points: <span class="points">509</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48675179"
                   >Comments</a
-                ><span class="descendants">: 97</span></span
+                ><span class="descendants">: 124</span></span
               >
             </h4>
             <div class="text">
@@ -247,11 +294,11 @@
             <h4>
               <span>2026-06-25 @ 15:33:37</span
               ><span class="points-container"
-                >Points: <span class="points">121</span></span
+                >Points: <span class="points">164</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48674967"
                   >Comments</a
-                ><span class="descendants">: 72</span></span
+                ><span class="descendants">: 92</span></span
               >
             </h4>
           </section>
@@ -261,18 +308,18 @@
             <a
               class="item"
               href="https://www.quantamagazine.org/how-physicists-track-and-trap-the-elusive-neutrino-20260624/"
-              >Physicists Track and Trap the Elusive Neutrino</a
+              >How physicists track and trap the elusive neutrino</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-06-25 @ 15:11:48</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">40</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48674619"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -285,11 +332,11 @@
             <h4>
               <span>2026-06-25 @ 15:01:06</span
               ><span class="points-container"
-                >Points: <span class="points">96</span></span
+                >Points: <span class="points">111</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48674484"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -304,11 +351,11 @@
             <h4>
               <span>2026-06-25 @ 14:19:28</span
               ><span class="points-container"
-                >Points: <span class="points">157</span></span
+                >Points: <span class="points">168</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48673825"
                   >Comments</a
-                ><span class="descendants">: 49</span></span
+                ><span class="descendants">: 63</span></span
               >
             </h4>
           </section>
@@ -324,11 +371,11 @@
             <h4>
               <span>2026-06-25 @ 14:08:55</span
               ><span class="points-container"
-                >Points: <span class="points">499</span></span
+                >Points: <span class="points">532</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48673671"
                   >Comments</a
-                ><span class="descendants">: 131</span></span
+                ><span class="descendants">: 133</span></span
               >
             </h4>
           </section>
@@ -343,11 +390,11 @@
             <h4>
               <span>2026-06-25 @ 13:08:31</span
               ><span class="points-container"
-                >Points: <span class="points">53</span></span
+                >Points: <span class="points">64</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48672779"
                   >Comments</a
-                ><span class="descendants">: 117</span></span
+                ><span class="descendants">: 134</span></span
               >
             </h4>
           </section>
@@ -364,11 +411,11 @@
             <h4>
               <span>2026-06-25 @ 13:02:56</span
               ><span class="points-container"
-                >Points: <span class="points">395</span></span
+                >Points: <span class="points">448</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48672732"
                   >Comments</a
-                ><span class="descendants">: 604</span></span
+                ><span class="descendants">: 658</span></span
               >
             </h4>
             <div class="text">
@@ -390,11 +437,11 @@
             <h4>
               <span>2026-06-25 @ 11:29:13</span
               ><span class="points-container"
-                >Points: <span class="points">61</span></span
+                >Points: <span class="points">64</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48671886"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 28</span></span
               >
             </h4>
             <div class="text">
@@ -450,11 +497,11 @@
             <h4>
               <span>2026-06-25 @ 10:28:16</span
               ><span class="points-container"
-                >Points: <span class="points">408</span></span
+                >Points: <span class="points">424</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48671468"
                   >Comments</a
-                ><span class="descendants">: 178</span></span
+                ><span class="descendants">: 190</span></span
               >
             </h4>
           </section>
@@ -469,11 +516,11 @@
             <h4>
               <span>2026-06-25 @ 06:00:04</span
               ><span class="points-container"
-                >Points: <span class="points">590</span></span
+                >Points: <span class="points">599</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48669534"
                   >Comments</a
-                ><span class="descendants">: 236</span></span
+                ><span class="descendants">: 241</span></span
               >
             </h4>
           </section>
@@ -481,57 +528,20 @@
         <section id="48668033">
           <h3>
             <a class="item" href="https://blog.cloudflare.com/oauth-for-all/"
-              >Cloudflare launched self-managed OAuth for all</a
+              >OAuth for all</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-06-25 @ 02:18:10</span
               ><span class="points-container"
-                >Points: <span class="points">331</span></span
+                >Points: <span class="points">339</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48668033"
                   >Comments</a
-                ><span class="descendants">: 142</span></span
+                ><span class="descendants">: 143</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="48667807">
-          <h3>
-            <a class="item" href="https://www.crosscanon.com/"
-              >Show HN: Bible as RAG Database</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-06-25 @ 01:42:55</span
-              ><span class="points-container"
-                >Points: <span class="points">110</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48667807"
-                  >Comments</a
-                ><span class="descendants">: 68</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                "Moreover the profit of the earth is for all. The king profits
-                from the field. He who loves silver shall not be satisfied with
-                silver, nor he who loves abundance, with increase. This also is
-                vanity. When goods increase, those who eat them are increased;
-                and what advantage is there to its owner, except to feast on
-                them with his eyes? The sleep of a laboring man is sweet,
-                whether he eats little or much; but the abundance of the rich
-                will not allow him to sleep. There is a grievous evil which I
-                have seen under the sun: wealth kept by its owner to his harm."
-              </p>
-              <p>
-                Anyway - thought it was fun enough to share. It's slow and I
-                vibe coded it so I haven't sorted out how to make it not take 15
-                seconds to vector search against the full 4GB index.
-              </p>
-            </div>
           </section>
         </section>
         <section id="48667560">
@@ -544,11 +554,11 @@
             <h4>
               <span>2026-06-25 @ 01:11:10</span
               ><span class="points-container"
-                >Points: <span class="points">67</span></span
+                >Points: <span class="points">68</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48667560"
                   >Comments</a
-                ><span class="descendants">: 41</span></span
+                ><span class="descendants">: 42</span></span
               >
             </h4>
             <div class="text">
@@ -556,6 +566,27 @@
                 >https://arxiv.org/pdf/2603.15855</a
               >
             </div>
+          </section>
+        </section>
+        <section id="48666927">
+          <h3>
+            <a
+              class="item"
+              href="https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/"
+              >Blogging can just be stating the obvious</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-06-24 @ 23:46:37</span
+              ><span class="points-container"
+                >Points: <span class="points">426</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48666927"
+                  >Comments</a
+                ><span class="descendants">: 124</span></span
+              >
+            </h4>
           </section>
         </section>
         <section id="48665093">
@@ -568,33 +599,11 @@
             <h4>
               <span>2026-06-24 @ 20:17:33</span
               ><span class="points-container"
-                >Points: <span class="points">61</span></span
+                >Points: <span class="points">75</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48665093"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48664814">
-          <h3>
-            <a
-              class="item"
-              href="https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/"
-              >Anthropic says Alibaba illicitly extracted Claude AI model
-              capabilities</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-06-24 @ 19:48:01</span
-              ><span class="points-container"
-                >Points: <span class="points">728</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48664814"
-                  >Comments</a
-                ><span class="descendants">: 1170</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -611,11 +620,11 @@
             <h4>
               <span>2026-06-24 @ 18:24:44</span
               ><span class="points-container"
-                >Points: <span class="points">55</span></span
+                >Points: <span class="points">58</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48663819"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 20</span></span
               >
             </h4>
           </section>
@@ -632,11 +641,11 @@
             <h4>
               <span>2026-06-24 @ 08:54:12</span
               ><span class="points-container"
-                >Points: <span class="points">198</span></span
+                >Points: <span class="points">210</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48657049"
                   >Comments</a
-                ><span class="descendants">: 83</span></span
+                ><span class="descendants">: 88</span></span
               >
             </h4>
           </section>
@@ -652,11 +661,11 @@
             <h4>
               <span>2026-06-23 @ 23:21:35</span
               ><span class="points-container"
-                >Points: <span class="points">44</span></span
+                >Points: <span class="points">55</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48652997"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -673,11 +682,32 @@
             <h4>
               <span>2026-06-23 @ 09:38:45</span
               ><span class="points-container"
-                >Points: <span class="points">108</span></span
+                >Points: <span class="points">129</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48642503"
                   >Comments</a
-                ><span class="descendants">: 52</span></span
+                ><span class="descendants">: 67</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48638120">
+          <h3>
+            <a
+              class="item"
+              href="https://idlemachines.co.uk/essays/pytorch-training-loop"
+              >The annotated PyTorch training loop</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-06-22 @ 23:44:59</span
+              ><span class="points-container"
+                >Points: <span class="points">21</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48638120"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -692,11 +722,11 @@
             <h4>
               <span>2026-06-22 @ 15:21:04</span
               ><span class="points-container"
-                >Points: <span class="points">86</span></span
+                >Points: <span class="points">138</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48631450"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 59</span></span
               >
             </h4>
           </section>
@@ -711,11 +741,11 @@
             <h4>
               <span>2026-06-22 @ 15:12:36</span
               ><span class="points-container"
-                >Points: <span class="points">59</span></span
+                >Points: <span class="points">64</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48631302"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 26</span></span
               >
             </h4>
           </section>
@@ -732,11 +762,11 @@
             <h4>
               <span>2026-06-21 @ 16:51:47</span
               ><span class="points-container"
-                >Points: <span class="points">82</span></span
+                >Points: <span class="points">95</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48620422"
                   >Comments</a
-                ><span class="descendants">: 72</span></span
+                ><span class="descendants">: 77</span></span
               >
             </h4>
             <div class="text">
@@ -754,11 +784,11 @@
             <h4>
               <span>2026-06-21 @ 06:50:31</span
               ><span class="points-container"
-                >Points: <span class="points">63</span></span
+                >Points: <span class="points">94</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48616304"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 37</span></span
               >
             </h4>
           </section>
@@ -776,11 +806,11 @@
             <h4>
               <span>2026-06-21 @ 03:00:53</span
               ><span class="points-container"
-                >Points: <span class="points">38</span></span
+                >Points: <span class="points">52</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48615277"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
             <div class="text">
@@ -801,11 +831,11 @@
             <h4>
               <span>2026-06-20 @ 19:55:54</span
               ><span class="points-container"
-                >Points: <span class="points">73</span></span
+                >Points: <span class="points">82</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48612432"
                   >Comments</a
-                ><span class="descendants">: 28</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
             <div class="text">
@@ -815,6 +845,94 @@
                   >https://luke.zip/posts/pareto-pcs/</a
                 >
               </p>
+            </div>
+          </section>
+        </section>
+        <section id="48612231">
+          <h3>
+            <a class="item" href="https://github.com/runtypelabs/persona"
+              >Show HN: Persona.js – a vanilla-JS agent UI library with native
+              WebMCP (MIT)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-06-20 @ 19:32:56</span
+              ><span class="points-container"
+                >Points: <span class="points">18</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48612231"
+                  >Comments</a
+                ><span class="descendants">: 16</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://www.persona-chat.dev/"
+                >https://www.persona-chat.dev/</a
+              >). It's a VanillaJS library that helps anyone build agentic
+              experiences on the web, without a framework dependency, and full
+              WebMCP support
+              <p>So, why'd we do this?</p>
+              <p>
+                1) We're super fans of the web and the browser can do a ton
+                today
+              </p>
+              <p>
+                2) We've seen AI builds be way overly complex because the FE
+                requires a large project within an existing app OR the site
+                wasn't using a framework to begin with
+              </p>
+              <p>
+                If you've been a part of huge apps with multiple frameworks
+                inside them, or work inside CMS / website builders / ecomm
+                platforms... you know what we're talking about. A "simple" AI
+                feature disrupts your life for months
+              </p>
+              <p>
+                If you have a singular React codebase and can't possibly imagine
+                building an interface without JSX, nothing to see here! You
+                already have a lot of great options that are really cool too.
+                Check out Assistant UI / CopilotKit / AI Elements which are all
+                MIT.
+              </p>
+              <p>
+                There's a demo video here:
+                <a href="https://www.youtube.com/watch?v=68D80uNsfH0"
+                  >https://www.youtube.com/watch?v=68D80uNsfH0</a
+                >.
+              </p>
+              <p>Some specifics:</p>
+              <p>
+                Persona has a ~15 kB brotli to first paint (the full widget
+                lazy-loads on first click) while being able to render most of
+                the primary agent experiences you see on the web: from 'Fin'
+                (pill launcher) to 'Claude' (fullscreen assistant) to 'Shopify
+                Sidekick' (docked)
+              </p>
+              <p>
+                You can run it in Shadow DOM isolated mode so existing styles
+                play nice
+              </p>
+              <p>
+                Everything has hooks and events, so you can add unique flavor
+                (and easily share back!) in a few lines
+              </p>
+              <p>
+                We have a ton of demos on the library site, along with all the
+                knobs to play with how each aspect renders. Tool and reasoning,
+                custom loading animations, voice, approval UX, etc
+              </p>
+              <p>
+                We've also added a ton of examples across agent and frontend
+                stacks
+              </p>
+              <p>
+                Check out the code @
+                <a href="https://github.com/runtypelabs/persona"
+                  >https://github.com/runtypelabs/persona</a
+                >
+              </p>
+              <p>Feedback and contributions welcome!</p>
             </div>
           </section>
         </section>
