@@ -4,11 +4,17 @@
 
 ### [Archives](../../index.md) for [2026-06-25](index.md)
 
+* [2026-06-25, 14:58:50](https://news.ycombinator.com/item?id=48674446) - [Ford rehires 350 engineers after AI fails to preserve expertise or train juniors](https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short)
+* [2026-06-25, 14:19:28](https://news.ycombinator.com/item?id=48673825) - [Zig's New BitCast Semantics and LLVM Back End Improvements](https://ziglang.org/devlog/2026/#2026-06-25)
+* [2026-06-25, 14:17:26](https://news.ycombinator.com/item?id=48673801) - [Ask HN: What surprised you about Estonia e-Residency and running an Estonian OÜ?](https://news.ycombinator.com/item?id=48673801)
+* [2026-06-25, 14:16:17](https://news.ycombinator.com/item?id=48673787) - [Federal agents track down woman, demand she remove Instagram post about ICE](https://www.syracuse.com/news/2026/06/federal-agents-track-down-syracuse-woman-demand-she-remove-instagram-post-about-ice.html)
+* [2026-06-25, 14:08:55](https://news.ycombinator.com/item?id=48673671) - [Show HN: I made Google Trends for Hacker News by indexing 18 years of comments](https://hackernewstrends.com)
 * [2026-06-25, 13:37:36](https://news.ycombinator.com/item?id=48673194) - [Tell HN: OpenAI has started putting ads on paid programs](https://news.ycombinator.com/item?id=48673194)
 * [2026-06-25, 13:08:31](https://news.ycombinator.com/item?id=48672779) - [Where every major LLM stands politically](https://trakkr.ai/bias)
 * [2026-06-25, 13:07:07](https://news.ycombinator.com/item?id=48672764) - [Countries are competing to see which can carry out mass surveillance the best](https://mullvad.net/en/why-privacy-matters/state-mass-surveillance)
 * [2026-06-25, 13:02:56](https://news.ycombinator.com/item?id=48672732) - [Apple announces significant price increases for MacBooks, iPads, more](https://9to5mac.com/2026/06/25/apple-price-increases-mac-ipad-more/)
 * [2026-06-25, 12:59:10](https://news.ycombinator.com/item?id=48672694) - [Why Does Everyone Hate AI?](https://paulkrugman.substack.com/p/why-does-everyone-hate-ai)
+* [2026-06-25, 12:42:55](https://news.ycombinator.com/item?id=48672506) - [SoftBank 2026 AGM [pdf]](https://group.softbank/media/Project/sbg/sbg/pdf/ir/investors/shareholders/2026/shareholders-meeting_46_05_en.pdf)
 * [2026-06-25, 12:30:36](https://news.ycombinator.com/item?id=48672389) - [Show HN: Secs-man, a secrets manager you can (not) rely on](https://github.com/Fran314/secrets-manager-rs)
 * [2026-06-25, 12:23:05](https://news.ycombinator.com/item?id=48672328) - [You didn't vibe code it, you stole it from open source&enterprise-licensed code](https://twitter.com/mfts0/status/2070080422482977095)
 * [2026-06-25, 11:29:13](https://news.ycombinator.com/item?id=48671886) - [Show HN: Turn native language audio into flashcards and shadowing practice](https://lingochunk.com/try)
