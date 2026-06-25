@@ -44,6 +44,7 @@
 * [2026-06-22, 15:34:34](https://news.ycombinator.com/item?id=48631681) - [Show HN: FastUbu – An Ultrafast Video Archive](https://fastubu.com/)
 * [2026-06-22, 15:24:40](https://news.ycombinator.com/item?id=48631511) - [Inventing the Future, One Lisp Machine at a Time](https://www.patrickdomanico.com/bpm/2026/06/16/inventing-the-future-one-lisp-machine-at-a-time/)
 * [2026-06-22, 15:16:45](https://news.ycombinator.com/item?id=48631388) - [Bain tests software takeover targets by vibecoding AI replicas](https://www.ft.com/content/e5bac4d1-b1f8-43a4-bd54-b182d5357af0)
+* [2026-06-22, 15:15:38](https://news.ycombinator.com/item?id=48631366) - [Dostoyevsky isn't difficult](https://www.autodidacts.io/dostoyevsky-isnt-difficult/)
 * [2026-06-22, 14:55:51](https://news.ycombinator.com/item?id=48631058) - [DHL Set to Transport Goods on New Wind-Powered Cargo Ships](https://www.wsj.com/pro/sustainable-business/dhl-set-to-transport-goods-on-new-wind-powered-cargo-ships-eca5d5a0)
 * [2026-06-22, 14:54:59](https://news.ycombinator.com/item?id=48631043) - [I built Ponytrail, a local audit trail for AI coding-agent edits](https://github.com/0xroylee/ponytrail)
 * [2026-06-22, 14:22:46](https://news.ycombinator.com/item?id=48630535) - [Claude Code's \"extended thinking\" is a summary- not authentic thinking](https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/)
