@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-06-25](index.md)
 
+* [2026-06-25, 06:00:04](https://news.ycombinator.com/item?id=48669534) - [Half-Life 2 in a Browser](https://hl2.slqnt.dev/)
 * [2026-06-25, 03:54:50](https://news.ycombinator.com/item?id=48668662) - [GTA 6 Physical Copies Won't Include a Disc, Will Just Be a Code in a Box](https://www.ign.com/articles/grand-theft-auto-6-physical-copies-wont-include-a-disc-will-just-be-a-code-in-a-box)
+* [2026-06-25, 02:51:29](https://news.ycombinator.com/item?id=48668255) - [The Unbearable Cheapness of Open Weight Models](https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/)
 * [2026-06-25, 02:41:47](https://news.ycombinator.com/item?id=48668199) - [Ask HN: Where is our profession (programmer) going?](https://news.ycombinator.com/item?id=48668199)
+* [2026-06-25, 02:30:18](https://news.ycombinator.com/item?id=48668119) - [Medical students are using popular research tool to pump out misleading studies](https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies)
 * [2026-06-25, 02:18:10](https://news.ycombinator.com/item?id=48668033) - [Cloudflare launched self-managed OAuth for all](https://blog.cloudflare.com/oauth-for-all/)
 * [2026-06-25, 02:16:15](https://news.ycombinator.com/item?id=48668020) - [Zombie unicorns are haunting Silicon Valley](https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley)
 * [2026-06-25, 01:50:01](https://news.ycombinator.com/item?id=48667853) - [Writers and Drugs](https://lithub.com/are-writers-intrinsically-vulnerable-to-alcohol-and-drugs/)
