@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-06-25, 21:22:59",
+      "https://news.ycombinator.com/item?id=48679385"
+    ],
+    [
+      "Migrating from Proxmox to NixOS and Incus",
+      "https://www.nijho.lt/post/proxmox-to-nixos/"
+    ]
+  ],
+  [
+    [
       "2026-06-25, 20:50:02",
       "https://news.ycombinator.com/item?id=48679007"
     ],
     [
       "Un-0: Generating Images with Coupled Oscillators",
       "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/"
+    ]
+  ],
+  [
+    [
+      "2026-06-25, 20:36:05",
+      "https://news.ycombinator.com/item?id=48678873"
+    ],
+    [
+      "OpenAI Leans Toward Waiting Until Next Year for IPO",
+      "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html"
     ]
   ],
   [
@@ -37,16 +57,6 @@
     [
       "Parallel Parentheses Matching",
       "https://williamdue.github.io/blog/parallel-parentheses-matching"
-    ]
-  ],
-  [
-    [
-      "2026-06-25, 20:00:35",
-      "https://news.ycombinator.com/item?id=48678495"
-    ],
-    [
-      "The Doorman's Fallacy in Action",
-      "https://rozumem.xyz/posts/17"
     ]
   ],
   [
@@ -151,26 +161,6 @@
   ],
   [
     [
-      "2026-06-25, 11:29:13",
-      "https://news.ycombinator.com/item?id=48671886"
-    ],
-    [
-      "Show HN: Turn native language audio into flashcards and shadowing practice",
-      "https://lingochunk.com/try"
-    ]
-  ],
-  [
-    [
-      "2026-06-24, 20:17:33",
-      "https://news.ycombinator.com/item?id=48665093"
-    ],
-    [
-      "52-hertz whale",
-      "https://en.wikipedia.org/wiki/52-hertz_whale"
-    ]
-  ],
-  [
-    [
       "2026-06-24, 08:54:12",
       "https://news.ycombinator.com/item?id=48657049"
     ],
@@ -217,6 +207,16 @@
     [
       "I built a GPU back end for Emacs",
       "https://en.andros.dev/blog/4b707a03/how-i-built-a-gpu-backend-for-emacs/"
+    ]
+  ],
+  [
+    [
+      "2026-06-23, 09:35:26",
+      "https://news.ycombinator.com/item?id=48642474"
+    ],
+    [
+      "A game where you're an OS and have to manage processes, memory and I/O events",
+      "https://github.com/plbrault/youre-the-os"
     ]
   ],
   [
