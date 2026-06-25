@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-06-25](index.md)
 
+* [2026-06-25, 20:30:47](https://news.ycombinator.com/item?id=48678820) - [The Customer Who Almost Killed Slack, Stripe, and Airbnb](https://siliconopera.com/the-customer-who-almost-killed-slack-stripe-and-airbnb/)
+* [2026-06-25, 20:12:24](https://news.ycombinator.com/item?id=48678623) - [Parallel Parentheses Matching](https://williamdue.github.io/blog/parallel-parentheses-matching)
+* [2026-06-25, 20:00:35](https://news.ycombinator.com/item?id=48678495) - [The Doorman's Fallacy in Action](https://rozumem.xyz/posts/17)
 * [2026-06-25, 17:00:00](https://news.ycombinator.com/item?id=48676256) - [Besimple AI (YC P25) Is Hiring](https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data)
 * [2026-06-25, 16:22:55](https://news.ycombinator.com/item?id=48675717) - [Deno 2.9](https://deno.com/blog/v2.9)
 * [2026-06-25, 16:22:45](https://news.ycombinator.com/item?id=48675710) - [European Commission lines up Amazon and Microsoft for cloud gatekeeper status](https://www.theregister.com/legal/2026/06/25/european-commission-lines-up-amazon-and-microsoft-for-cloud-gatekeeper-status/5262127)
