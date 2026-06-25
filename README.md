@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-06-25, 10:28:16](https://news.ycombinator.com/item?id=48671468) - [LastPass notifies users of yet another data breach](https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/)
 * [2026-06-25, 10:20:07](https://news.ycombinator.com/item?id=48671392) - [Dolphin Emulator Progress Release 2606](https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/)
-* [2026-06-25, 08:07:54](https://news.ycombinator.com/item?id=48670411) - [Aisle Discovers 6 New CVEs in Curl, Including the Oldest Issue Ever Reported](https://aisle.com/blog/aisle-discovers-6-new-cves-in-curl-including-the-oldest-issue-ever-reported)
 * [2026-06-25, 07:02:37](https://news.ycombinator.com/item?id=48669932) - [Wikipedia Workers in Britain set global first by seeking union recognition](https://utaw.tech/news/wikipedia-recognition)
 * [2026-06-25, 06:00:04](https://news.ycombinator.com/item?id=48669534) - [Half-Life 2 in a Browser](https://hl2.slqnt.dev/)
 * [2026-06-25, 02:30:18](https://news.ycombinator.com/item?id=48668119) - [Medical students are using popular research tool to pump out misleading studies](https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies)
@@ -28,7 +28,7 @@
 * [2026-06-22, 21:52:54](https://news.ycombinator.com/item?id=48636753) - [Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub](https://github.com/BohemiaInteractive/CWR)
 * [2026-06-22, 15:15:38](https://news.ycombinator.com/item?id=48631366) - [Dostoyevsky isn't difficult](https://www.autodidacts.io/dostoyevsky-isnt-difficult/)
 * [2026-06-20, 03:55:19](https://news.ycombinator.com/item?id=48606222) - [A Practical Guide to SSH Tunnels: Local and Remote Port Forwarding](https://labs.iximiuz.com/tutorials/ssh-tunnels)
-* [2026-06-19, 12:57:53](https://news.ycombinator.com/item?id=48598051) - [Show HN: Brain Frog – Can you be random enough for 11 lines of JavaScript?](https://brainfrog.lol)
+* [2026-06-19, 16:33:02](https://news.ycombinator.com/item?id=48600369) - [Show HN: StartupsBR – A map of Brazilian startups](https://www.startupsbr.com/sao-paulo)
 * [2026-06-19, 07:37:14](https://news.ycombinator.com/item?id=48595882) - [Show HN: Write SaaS apps where users control where their data is stored](https://github.com/wolfoo2931/linkedrecords/)
 
 ## [Archives](archives/index.md)

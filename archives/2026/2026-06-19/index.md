@@ -30,6 +30,7 @@
 * [2026-06-19, 17:34:18](https://news.ycombinator.com/item?id=48600946) - [Court Records Should Be Free](https://www.eff.org/deeplinks/2026/06/court-records-should-be-free)
 * [2026-06-19, 17:33:32](https://news.ycombinator.com/item?id=48600935) - [Agentic Coding Is a Trap](https://khalilstemmler.com/articles/agentic-coding-is-a-trap/)
 * [2026-06-19, 16:59:16](https://news.ycombinator.com/item?id=48600593) - [AURpocalypse now: a look at the recent AUR attacks](https://lwn.net/SubscriberLink/1077619/f7b07c5489fdd43a/)
+* [2026-06-19, 16:33:02](https://news.ycombinator.com/item?id=48600369) - [Show HN: StartupsBR – A map of Brazilian startups](https://www.startupsbr.com/sao-paulo)
 * [2026-06-19, 16:30:49](https://news.ycombinator.com/item?id=48600345) - [Google workspace threatening to block Firefox access](https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html)
 * [2026-06-19, 16:28:20](https://news.ycombinator.com/item?id=48600312) - [Hyundai buys Boston Dynamics, Atlas humanoid to be used at vehicle plant by 2028](https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/)
 * [2026-06-19, 16:28:19](https://news.ycombinator.com/item?id=48600311) - [Proportional-Integral-Derivative Controllers](https://en.wikipedia.org/wiki/PID_controller)
