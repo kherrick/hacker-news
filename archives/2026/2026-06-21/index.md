@@ -32,6 +32,7 @@
 * [2026-06-21, 17:00:28](https://news.ycombinator.com/item?id=48620504) - [Wildcard (YC W25) Is Hiring a Founding Applied ML Engineer](https://www.ycombinator.com/companies/wildcard/jobs/SEmo4di-founding-applied-ml-engineer)
 * [2026-06-21, 17:00:26](https://news.ycombinator.com/item?id=48620502) - [Tell HN: Happy Fathers Day to all the fathers, uncles, anyone in that role!](https://news.ycombinator.com/item?id=48620502)
 * [2026-06-21, 16:56:18](https://news.ycombinator.com/item?id=48620462) - [Burnout Is Real in the OSS World, Says John-David Dalton, Creator of Lodash](https://openjsf.org/blog/burnout-is-real-for-open-source-maintainers)
+* [2026-06-21, 16:51:47](https://news.ycombinator.com/item?id=48620422) - [The Disappearance of Japan's Animators](https://economist.com/interactive/1843/2026/06/19/the-strange-disappearance-of-japans-animators)
 * [2026-06-21, 16:41:21](https://news.ycombinator.com/item?id=48620342) - [The Minimum Viable Unit of Saleable Software](https://brandur.org/minimum-viable-unit)
 * [2026-06-21, 16:14:54](https://news.ycombinator.com/item?id=48620142) - [AI Has Broken Hiring](https://hbr.org/2026/06/ai-has-broken-hiring-heres-how-to-fix-it)
 * [2026-06-21, 16:08:23](https://news.ycombinator.com/item?id=48620090) - [Code duplication is far cheaper than the wrong abstraction](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
