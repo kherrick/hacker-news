@@ -44,6 +44,7 @@
 * [2026-06-19, 14:30:46](https://news.ycombinator.com/item?id=48599057) - [My 1992 view of the problems of computer programming in 1992](https://blog.plover.com/prog/fortran-i.html)
 * [2026-06-19, 13:51:49](https://news.ycombinator.com/item?id=48598591) - [Windows NT for GameCube/Wii](https://github.com/Wack0/entii-for-workcubes)
 * [2026-06-19, 13:51:36](https://news.ycombinator.com/item?id=48598586) - [How many of the 170k English words do you know?](https://vocabowl-870366514258.us-west1.run.app/)
+* [2026-06-19, 12:57:53](https://news.ycombinator.com/item?id=48598051) - [Show HN: Brain Frog – Can you be random enough for 11 lines of JavaScript?](https://brainfrog.lol)
 * [2026-06-19, 12:45:11](https://news.ycombinator.com/item?id=48597939) - [Leave a Trace](https://www.jakeworth.com/posts/leave-a-trace)
 * [2026-06-19, 12:41:15](https://news.ycombinator.com/item?id=48597910) - [NASA picks Eric Schmidt's rocket company for Mars mission](https://techcrunch.com/2026/06/17/nasa-picks-eric-schmidts-rocket-company-for-mars-mission-setting-up-a-race-with-spacex/)
 * [2026-06-19, 12:25:06](https://news.ycombinator.com/item?id=48597783) - [Google is turning Android into a 'sloperating' system. Your thoughts?](https://android-developers.googleblog.com/2026/06/Android-17.html)
