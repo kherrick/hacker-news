@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-06-25, 01:42:55",
+      "https://news.ycombinator.com/item?id=48667807"
+    ],
+    [
+      "Bible as RAG Database",
+      "https://www.crosscanon.com/"
+    ]
+  ],
+  [
+    [
+      "2026-06-25, 01:36:45",
+      "https://news.ycombinator.com/item?id=48667761"
+    ],
+    [
+      "Exploring the internal representations of Pangram 3.3.2",
+      "https://www.pangram.com/pangram-space"
+    ]
+  ],
+  [
+    [
+      "2026-06-25, 01:14:23",
+      "https://news.ycombinator.com/item?id=48667588"
+    ],
+    [
+      "Ending All Respiratory Infections",
+      "https://blog.interceptfund.com/p/ending-respiratory-infections"
+    ]
+  ],
+  [
+    [
+      "2026-06-25, 01:11:10",
+      "https://news.ycombinator.com/item?id=48667560"
+    ],
+    [
+      "Mixing Visual and Textual Code",
+      "https://arxiv.org/abs/2603.15855"
+    ]
+  ],
+  [
+    [
       "2026-06-25, 00:41:43",
       "https://news.ycombinator.com/item?id=48667336"
     ],
@@ -15,18 +55,8 @@
       "https://news.ycombinator.com/item?id=48666927"
     ],
     [
-      "Blogging Can Just Be Stating the Obvious",
+      "Blogging can just be stating the obvious",
       "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/"
-    ]
-  ],
-  [
-    [
-      "2026-06-24, 22:39:37",
-      "https://news.ycombinator.com/item?id=48666433"
-    ],
-    [
-      "PostgreSQL is enough (2024)",
-      "https://gist.github.com/cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb"
     ]
   ],
   [
@@ -41,22 +71,12 @@
   ],
   [
     [
-      "2026-06-24, 20:20:33",
-      "https://news.ycombinator.com/item?id=48665130"
+      "2026-06-24, 19:48:01",
+      "https://news.ycombinator.com/item?id=48664814"
     ],
     [
-      "Zero-Downtime Deployments with Docker Compose – No Kubernetes Required",
-      "https://statusdude.com/blog/zero-downtime-docker-compose"
-    ]
-  ],
-  [
-    [
-      "2026-06-24, 19:40:11",
-      "https://news.ycombinator.com/item?id=48664733"
-    ],
-    [
-      "GitHub shouldn't be a dependency for publishing Rust on crates.io",
-      "https://infosec.exchange/@mttaggart/116806641273303255"
+      "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+      "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/"
     ]
   ],
   [
@@ -181,12 +201,22 @@
   ],
   [
     [
-      "2026-06-24, 08:50:41",
-      "https://news.ycombinator.com/item?id=48657030"
+      "2026-06-24, 05:04:33",
+      "https://news.ycombinator.com/item?id=48655381"
     ],
     [
-      "We’re making Bunny DNS free",
-      "https://bunny.net/blog/were-making-bunny-dns-free/"
+      "MSc Thesis – The Limits of Generalized Sync",
+      "https://aaltodoc.aalto.fi/server/api/core/bitstreams/d485ca46-ef01-41bc-ae4c-d468afb209a8/content"
+    ]
+  ],
+  [
+    [
+      "2026-06-23, 18:57:36",
+      "https://news.ycombinator.com/item?id=48649697"
+    ],
+    [
+      "Show HN: Wordit – Change One Letter, Keep the Chain Going",
+      "https://victorribeiro.com/wordit/"
     ]
   ],
   [
@@ -201,22 +231,22 @@
   ],
   [
     [
-      "2026-06-23, 10:52:31",
-      "https://news.ycombinator.com/item?id=48643051"
-    ],
-    [
-      "It's Only When You Look Back",
-      "https://www.markround.com/blog/2026/06/17/25-its-only-when-you-look-back/"
-    ]
-  ],
-  [
-    [
       "2026-06-23, 03:23:28",
       "https://news.ycombinator.com/item?id=48639840"
     ],
     [
       "GLM-5.2 is a step change for open agents",
       "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open"
+    ]
+  ],
+  [
+    [
+      "2026-06-23, 01:30:59",
+      "https://news.ycombinator.com/item?id=48639018"
+    ],
+    [
+      "Matt's Script Archive: The Scripts That Reshaped the Web",
+      "https://tedium.co/2026/06/22/matts-script-archive-retrospective/"
     ]
   ],
   [
@@ -237,26 +267,6 @@
     [
       "Crawling BitTorrent DHTs for Fun and Profit [pdf]",
       "https://www.usenix.org/legacy/event/woot10/tech/full_papers/Wolchok.pdf"
-    ]
-  ],
-  [
-    [
-      "2026-06-21, 12:57:10",
-      "https://news.ycombinator.com/item?id=48618555"
-    ],
-    [
-      "Robotics Teams Are Rebuilding the Data Stack from Scratch",
-      "https://rerun.io/blog/data-layer-tax"
-    ]
-  ],
-  [
-    [
-      "2026-06-21, 00:00:18",
-      "https://news.ycombinator.com/item?id=48614309"
-    ],
-    [
-      "Pondering routing more of my traffic via nodes outside the UK",
-      "https://neilzone.co.uk/2026/06/pondering-routing-more-of-my-traffic-via-nodes-outside-the-uk-because-of-the-direction-of-uk-online-safety-policy/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "I can haz smoller NixOS ISOs?",
       "https://natkr.com/2026-06-19-nixos-but-smol/"
-    ]
-  ],
-  [
-    [
-      "2026-06-19, 10:03:10",
-      "https://news.ycombinator.com/item?id=48596834"
-    ],
-    [
-      "Pull request limits are cutting down the noise",
-      "https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/"
     ]
   ]
 ]
