@@ -7,6 +7,7 @@
 * [2026-06-25, 17:00:00](https://news.ycombinator.com/item?id=48676256) - [Besimple AI (YC P25) Is Hiring](https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data)
 * [2026-06-25, 16:22:55](https://news.ycombinator.com/item?id=48675717) - [Deno 2.9](https://deno.com/blog/v2.9)
 * [2026-06-25, 16:22:45](https://news.ycombinator.com/item?id=48675710) - [European Commission lines up Amazon and Microsoft for cloud gatekeeper status](https://www.theregister.com/legal/2026/06/25/european-commission-lines-up-amazon-and-microsoft-for-cloud-gatekeeper-status/5262127)
+* [2026-06-25, 16:04:46](https://news.ycombinator.com/item?id=48675435) - [Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion](https://github.com/inkeep/open-knowledge)
 * [2026-06-25, 15:59:54](https://news.ycombinator.com/item?id=48675369) - [Windows 10 quietly gets one more year of support and updates](https://www.neowin.net/news/windows-10-quietly-gets-one-more-year-of-support-and-updates/)
 * [2026-06-25, 15:48:07](https://news.ycombinator.com/item?id=48675179) - [A Herculaneum scroll has been read for the first time](https://scrollprize.org/firstscroll)
 * [2026-06-25, 15:33:37](https://news.ycombinator.com/item?id=48674968) - [As banks close accounts, experts point to immigration crackdown](https://www.americanbanker.com/news/as-banks-close-accounts-experts-point-to-immigration-crackdown)

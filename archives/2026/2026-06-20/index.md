@@ -25,6 +25,7 @@
 * [2026-06-20, 20:30:06](https://news.ycombinator.com/item?id=48612714) - [A Love Story](https://pudding.cool/2026/06/love-story/)
 * [2026-06-20, 20:05:03](https://news.ycombinator.com/item?id=48612502) - [Unauthorized alert sent to cell phones across Brazil](https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam)
 * [2026-06-20, 19:55:54](https://news.ycombinator.com/item?id=48612432) - [Show HN: MiniPCs.zip – Charting the Pareto frontier of Mini PCs](https://minipcs.zip)
+* [2026-06-20, 19:32:56](https://news.ycombinator.com/item?id=48612231) - [Show HN: Persona.js – a vanilla-JS agent UI library with native WebMCP (MIT)](https://github.com/runtypelabs/persona)
 * [2026-06-20, 19:19:06](https://news.ycombinator.com/item?id=48612098) - [AMD will reinstate memory encryption on Ryzen 9000 CPUs via BIOS update in July](https://www.tomshardware.com/pc-components/cpus/amd-will-reinstate-memory-encryption-on-ryzen-9000-cpus-through-a-bios-update-in-july-tsme-is-coming-back-after-valuable-community-feedback)
 * [2026-06-20, 19:18:48](https://news.ycombinator.com/item?id=48612095) - [Show HN: My Windows XP portfolio with working Game Boy and iPod](https://mitchivin.com/)
 * [2026-06-20, 19:10:41](https://news.ycombinator.com/item?id=48612025) - [Show HN: An ASCII 3D Rendering Engine](https://glyphcss.com)
