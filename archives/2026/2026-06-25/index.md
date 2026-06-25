@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-06-25](index.md)
 
+* [2026-06-25, 17:00:00](https://news.ycombinator.com/item?id=48676256) - [Besimple AI (YC P25) Is Hiring](https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data)
 * [2026-06-25, 16:22:55](https://news.ycombinator.com/item?id=48675717) - [Deno 2.9](https://deno.com/blog/v2.9)
+* [2026-06-25, 16:22:45](https://news.ycombinator.com/item?id=48675710) - [European Commission lines up Amazon and Microsoft for cloud gatekeeper status](https://www.theregister.com/legal/2026/06/25/european-commission-lines-up-amazon-and-microsoft-for-cloud-gatekeeper-status/5262127)
 * [2026-06-25, 15:59:54](https://news.ycombinator.com/item?id=48675369) - [Windows 10 quietly gets one more year of support and updates](https://www.neowin.net/news/windows-10-quietly-gets-one-more-year-of-support-and-updates/)
+* [2026-06-25, 15:48:07](https://news.ycombinator.com/item?id=48675179) - [A Herculaneum scroll has been read for the first time](https://scrollprize.org/firstscroll)
 * [2026-06-25, 15:33:37](https://news.ycombinator.com/item?id=48674968) - [As banks close accounts, experts point to immigration crackdown](https://www.americanbanker.com/news/as-banks-close-accounts-experts-point-to-immigration-crackdown)
 * [2026-06-25, 15:33:37](https://news.ycombinator.com/item?id=48674967) - [IBM Debuts First Sub-1 Nanometer Chip Technology](https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology)
 * [2026-06-25, 15:11:48](https://news.ycombinator.com/item?id=48674619) - [Physicists Track and Trap the Elusive Neutrino](https://www.quantamagazine.org/how-physicists-track-and-trap-the-elusive-neutrino-20260624/)
@@ -19,6 +22,7 @@
 * [2026-06-25, 13:37:36](https://news.ycombinator.com/item?id=48673194) - [Tell HN: OpenAI has started putting ads on paid programs](https://news.ycombinator.com/item?id=48673194)
 * [2026-06-25, 13:08:31](https://news.ycombinator.com/item?id=48672779) - [Where every major LLM stands politically](https://trakkr.ai/bias)
 * [2026-06-25, 13:07:07](https://news.ycombinator.com/item?id=48672764) - [Countries are competing to see which can carry out mass surveillance the best](https://mullvad.net/en/why-privacy-matters/state-mass-surveillance)
+* [2026-06-25, 13:02:56](https://news.ycombinator.com/item?id=48672732) - [Apple raises prices of MacBooks, iPads](https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/)
 * [2026-06-25, 13:02:56](https://news.ycombinator.com/item?id=48672732) - [Apple announces significant price increases for MacBooks, iPads, more](https://9to5mac.com/2026/06/25/apple-price-increases-mac-ipad-more/)
 * [2026-06-25, 12:59:10](https://news.ycombinator.com/item?id=48672694) - [Why Does Everyone Hate AI?](https://paulkrugman.substack.com/p/why-does-everyone-hate-ai)
 * [2026-06-25, 12:42:55](https://news.ycombinator.com/item?id=48672506) - [SoftBank 2026 AGM [pdf]](https://group.softbank/media/Project/sbg/sbg/pdf/ir/investors/shareholders/2026/shareholders-meeting_46_05_en.pdf)
