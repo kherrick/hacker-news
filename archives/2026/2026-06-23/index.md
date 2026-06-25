@@ -42,6 +42,7 @@
 * [2026-06-23, 15:31:21](https://news.ycombinator.com/item?id=48646659) - [Krea 2 Technical Report](https://www.krea.ai/blog/krea-2-technical-report)
 * [2026-06-23, 15:22:41](https://news.ycombinator.com/item?id=48646511) - [Show HN: The Cascade Graph – An interactive map of AI and energy constraints](https://atomprophet.io/tools/cascade/)
 * [2026-06-23, 15:11:17](https://news.ycombinator.com/item?id=48646276) - [AI's Affordability Crisis](https://blog.dshr.org/2026/06/ais-affordability-crisis.html)
+* [2026-06-23, 15:09:15](https://news.ycombinator.com/item?id=48646239) - [Show HN: Nimic – Pure Python as a systems language with AOT compilation](https://github.com/dima-quant/nimic)
 * [2026-06-23, 15:07:30](https://news.ycombinator.com/item?id=48646209) - [Show HN: Treedocs: Documentation that automatically checks for staleness](https://dandylyons.github.io/treedocs/)
 * [2026-06-23, 15:05:00](https://news.ycombinator.com/item?id=48646165) - [Show HN: peerd – AI agent harness that runs entirely in your browser](https://github.com/NotASithLord/peerd)
 * [2026-06-23, 15:00:02](https://news.ycombinator.com/item?id=48646077) - [Markdy: Like Mermaid Diagrams, but for Motion](https://markdy.com)
