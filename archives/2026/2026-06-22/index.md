@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-06-22](index.md)
 
 * [2026-06-22, 23:20:53](https://news.ycombinator.com/item?id=48637868) - [Why eval startups fail (2025)](https://thomasliao.com/eval-startups)
+* [2026-06-22, 21:52:54](https://news.ycombinator.com/item?id=48636753) - [Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub](https://github.com/BohemiaInteractive/CWR)
 * [2026-06-22, 21:21:08](https://news.ycombinator.com/item?id=48636380) - [ytr: YouTube Radio for Emacs](https://xenodium.com/ytr-youtube-radio-for-emacs)
 * [2026-06-22, 21:21:01](https://news.ycombinator.com/item?id=48636377) - [Unsloth GLM-5.2 – How to Run Locally](https://unsloth.ai/docs/models/glm-5.2)
 * [2026-06-22, 21:05:44](https://news.ycombinator.com/item?id=48636188) - [Vector Graphics in Lil](http://beyondloom.com/blog/vectorgraphics.html)

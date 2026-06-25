@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-25](index.md)
 
+* [2026-06-25, 07:02:37](https://news.ycombinator.com/item?id=48669932) - [Wikipedia Workers in Britain set global first by seeking union recognition](https://utaw.tech/news/wikipedia-recognition)
 * [2026-06-25, 06:00:04](https://news.ycombinator.com/item?id=48669534) - [Half-Life 2 in a Browser](https://hl2.slqnt.dev/)
 * [2026-06-25, 03:54:50](https://news.ycombinator.com/item?id=48668662) - [GTA 6 Physical Copies Won't Include a Disc, Will Just Be a Code in a Box](https://www.ign.com/articles/grand-theft-auto-6-physical-copies-wont-include-a-disc-will-just-be-a-code-in-a-box)
 * [2026-06-25, 02:51:29](https://news.ycombinator.com/item?id=48668255) - [The Unbearable Cheapness of Open Weight Models](https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/)
