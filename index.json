@@ -1,12 +1,52 @@
 [
   [
     [
-      "2026-06-25, 15:33:37",
-      "https://news.ycombinator.com/item?id=48674968"
+      "2026-06-25, 16:22:55",
+      "https://news.ycombinator.com/item?id=48675717"
     ],
     [
-      "As banks close accounts, experts point to immigration crackdown",
-      "https://www.americanbanker.com/news/as-banks-close-accounts-experts-point-to-immigration-crackdown"
+      "Deno 2.9",
+      "https://deno.com/blog/v2.9"
+    ]
+  ],
+  [
+    [
+      "2026-06-25, 15:59:54",
+      "https://news.ycombinator.com/item?id=48675369"
+    ],
+    [
+      "Windows 10 quietly gets one more year of support and updates",
+      "https://www.neowin.net/news/windows-10-quietly-gets-one-more-year-of-support-and-updates/"
+    ]
+  ],
+  [
+    [
+      "2026-06-25, 15:33:37",
+      "https://news.ycombinator.com/item?id=48674967"
+    ],
+    [
+      "IBM Debuts First Sub-1 Nanometer Chip Technology",
+      "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology"
+    ]
+  ],
+  [
+    [
+      "2026-06-25, 15:11:48",
+      "https://news.ycombinator.com/item?id=48674619"
+    ],
+    [
+      "Physicists Track and Trap the Elusive Neutrino",
+      "https://www.quantamagazine.org/how-physicists-track-and-trap-the-elusive-neutrino-20260624/"
+    ]
+  ],
+  [
+    [
+      "2026-06-25, 15:01:06",
+      "https://news.ycombinator.com/item?id=48674484"
+    ],
+    [
+      "OS9Map",
+      "https://yllan.org/software/OS9Map/"
     ]
   ],
   [
@@ -41,16 +81,6 @@
   ],
   [
     [
-      "2026-06-25, 14:17:26",
-      "https://news.ycombinator.com/item?id=48673801"
-    ],
-    [
-      "Ask HN: What surprised you about Estonia e-Residency and running an Estonian OÜ?",
-      "https://news.ycombinator.com/item?id=48673801"
-    ]
-  ],
-  [
-    [
       "2026-06-25, 14:08:55",
       "https://news.ycombinator.com/item?id=48673671"
     ],
@@ -67,16 +97,6 @@
     [
       "SoftBank 2026 AGM [pdf]",
       "https://group.softbank/media/Project/sbg/sbg/pdf/ir/investors/shareholders/2026/shareholders-meeting_46_05_en.pdf"
-    ]
-  ],
-  [
-    [
-      "2026-06-25, 12:30:36",
-      "https://news.ycombinator.com/item?id=48672389"
-    ],
-    [
-      "Show HN: Secs-man, a secrets manager you can (not) rely on",
-      "https://github.com/Fran314/secrets-manager-rs"
     ]
   ],
   [
@@ -191,26 +211,6 @@
   ],
   [
     [
-      "2026-06-24, 14:10:11",
-      "https://news.ycombinator.com/item?id=48660178"
-    ],
-    [
-      "45°C cooling design cuts data center water use to near zero",
-      "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/"
-    ]
-  ],
-  [
-    [
-      "2026-06-24, 13:49:16",
-      "https://news.ycombinator.com/item?id=48659798"
-    ],
-    [
-      "Qualcomm to Acquire Modular",
-      "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/"
-    ]
-  ],
-  [
-    [
       "2026-06-24, 09:50:58",
       "https://news.ycombinator.com/item?id=48657481"
     ],
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2026-06-23, 02:27:20",
-      "https://news.ycombinator.com/item?id=48639429"
-    ],
-    [
-      "Lies, Damn Lies and Database Benchmarks",
-      "https://questdb.com/blog/lies-damn-lies-and-database-benchmarks/"
-    ]
-  ],
-  [
-    [
       "2026-06-22, 21:52:54",
       "https://news.ycombinator.com/item?id=48636753"
     ],
@@ -287,6 +277,16 @@
     [
       "Tw-fade: pure CSS scroll-driven edge masking",
       "https://pete.design/tw-fade"
+    ]
+  ],
+  [
+    [
+      "2026-06-20, 19:55:54",
+      "https://news.ycombinator.com/item?id=48612432"
+    ],
+    [
+      "Show HN: MiniPCs.zip – Charting the Pareto frontier of Mini PCs",
+      "https://minipcs.zip"
     ]
   ],
   [
