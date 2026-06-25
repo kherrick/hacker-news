@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-06-25, 13:07:07",
+      "https://news.ycombinator.com/item?id=48672764"
+    ],
+    [
+      "Countries are competing to see which can carry out mass surveillance the best",
+      "https://mullvad.net/en/why-privacy-matters/state-mass-surveillance"
+    ]
+  ],
+  [
+    [
+      "2026-06-25, 13:02:56",
+      "https://news.ycombinator.com/item?id=48672732"
+    ],
+    [
+      "Apple announces significant price increases for MacBooks, iPads, more",
+      "https://9to5mac.com/2026/06/25/apple-price-increases-mac-ipad-more/"
+    ]
+  ],
+  [
+    [
+      "2026-06-25, 12:59:10",
+      "https://news.ycombinator.com/item?id=48672694"
+    ],
+    [
+      "Why Does Everyone Hate AI?",
+      "https://paulkrugman.substack.com/p/why-does-everyone-hate-ai"
+    ]
+  ],
+  [
+    [
+      "2026-06-25, 12:23:05",
+      "https://news.ycombinator.com/item?id=48672328"
+    ],
+    [
+      "You didn't vibe code it, you stole it from open source&enterprise-licensed code",
+      "https://twitter.com/mfts0/status/2070080422482977095"
+    ]
+  ],
+  [
+    [
       "2026-06-25, 10:28:16",
       "https://news.ycombinator.com/item?id=48671468"
     ],
@@ -57,26 +97,6 @@
     [
       "Cloudflare launched self-managed OAuth for all",
       "https://blog.cloudflare.com/oauth-for-all/"
-    ]
-  ],
-  [
-    [
-      "2026-06-25, 02:16:15",
-      "https://news.ycombinator.com/item?id=48668020"
-    ],
-    [
-      "Zombie unicorns are haunting Silicon Valley",
-      "https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley"
-    ]
-  ],
-  [
-    [
-      "2026-06-25, 01:11:10",
-      "https://news.ycombinator.com/item?id=48667560"
-    ],
-    [
-      "Mixing Visual and Textual Code",
-      "https://arxiv.org/abs/2603.15855"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2026-06-24, 14:14:18",
-      "https://news.ycombinator.com/item?id=48660267"
-    ],
-    [
-      "Show HN: Nub – A Bun-like all-in-one toolkit for Node.js",
-      "https://github.com/nubjs/nub"
-    ]
-  ],
-  [
-    [
       "2026-06-24, 14:10:11",
       "https://news.ycombinator.com/item?id=48660178"
     ],
@@ -187,6 +197,26 @@
     [
       "Qualcomm to Acquire Modular",
       "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/"
+    ]
+  ],
+  [
+    [
+      "2026-06-24, 09:50:58",
+      "https://news.ycombinator.com/item?id=48657481"
+    ],
+    [
+      "Puzzling Success of Overparameterization: Lottery Tickets or Escape Dimensions?",
+      "https://infoscience.epfl.ch/entities/publication/9a49779b-f9f8-448d-b3d1-737c78455309"
+    ]
+  ],
+  [
+    [
+      "2026-06-24, 08:54:12",
+      "https://news.ycombinator.com/item?id=48657049"
+    ],
+    [
+      "You can't unit test for taste",
+      "https://dev.karltryggvason.com/you-cant-unit-test-for-taste/"
     ]
   ],
   [
@@ -241,16 +271,6 @@
   ],
   [
     [
-      "2026-06-23, 01:30:59",
-      "https://news.ycombinator.com/item?id=48639018"
-    ],
-    [
-      "Matt's Script Archive: The Scripts That Reshaped the Web",
-      "https://tedium.co/2026/06/22/matts-script-archive-retrospective/"
-    ]
-  ],
-  [
-    [
       "2026-06-22, 21:52:54",
       "https://news.ycombinator.com/item?id=48636753"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2026-06-20, 03:55:19",
-      "https://news.ycombinator.com/item?id=48606222"
-    ],
-    [
-      "A Practical Guide to SSH Tunnels: Local and Remote Port Forwarding",
-      "https://labs.iximiuz.com/tutorials/ssh-tunnels"
-    ]
-  ],
-  [
-    [
       "2026-06-19, 16:33:02",
       "https://news.ycombinator.com/item?id=48600369"
     ],
     [
       "Show HN: StartupsBR – A map of Brazilian startups",
       "https://www.startupsbr.com/sao-paulo"
-    ]
-  ],
-  [
-    [
-      "2026-06-19, 07:37:14",
-      "https://news.ycombinator.com/item?id=48595882"
-    ],
-    [
-      "Show HN: Write SaaS apps where users control where their data is stored",
-      "https://github.com/wolfoo2931/linkedrecords/"
     ]
   ]
 ]
