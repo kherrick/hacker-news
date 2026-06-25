@@ -56,6 +56,7 @@
 * [2026-06-19, 10:03:10](https://news.ycombinator.com/item?id=48596834) - [Pull request limits are cutting down the noise](https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/)
 * [2026-06-19, 09:23:24](https://news.ycombinator.com/item?id=48596586) - [Rethinking Modularity in Ruby Applications](https://noteflakes.com/articles/2026-06-18-syntropy-modules)
 * [2026-06-19, 09:08:00](https://news.ycombinator.com/item?id=48596488) - [Plotnine](https://plotnine.org/)
+* [2026-06-19, 07:37:14](https://news.ycombinator.com/item?id=48595882) - [Show HN: Write SaaS apps where users control where their data is stored](https://github.com/wolfoo2931/linkedrecords/)
 * [2026-06-19, 06:35:57](https://news.ycombinator.com/item?id=48595511) - [Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28](https://www.jvm-weekly.com/p/project-valhalla-explained-how-a)
 * [2026-06-19, 06:05:01](https://news.ycombinator.com/item?id=48595331) - [So You Want to Define a Well-Known URI](https://mnot.net/blog/2026/well_known_uris)
 * [2026-06-19, 05:37:51](https://news.ycombinator.com/item?id=48595144) - [Generative AI Is Having Its Herbalife Moment](https://www.whatwelo.st/p/generative-ai-is-having-its-herbalife)
