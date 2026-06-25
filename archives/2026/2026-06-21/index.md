@@ -59,6 +59,7 @@
 * [2026-06-21, 11:06:55](https://news.ycombinator.com/item?id=48617782) - [The case against geometric algebra (2024)](https://alexkritchevsky.com/2024/02/28/geometric-algebra.html)
 * [2026-06-21, 10:52:58](https://news.ycombinator.com/item?id=48617686) - [TypeScript 7 RC: the compiler rewritten in Go, around 10x faster](https://jatniel.dev/en/bytes/typescript-7-rc-the-compiler-rewritten-in-go-around-10x-faster)
 * [2026-06-21, 09:53:57](https://news.ycombinator.com/item?id=48617323) - [CTOs Agree: Cognitive Debt Is the New Technical Debt](https://shiftmag.dev/ctos-agree-cognitive-debt-is-the-new-technical-debt-10229/)
+* [2026-06-21, 09:29:03](https://news.ycombinator.com/item?id=48617183) - [CAD vs. CAD Tournament](https://www.tootalltoby.com/Tournaments/)
 * [2026-06-21, 08:21:22](https://news.ycombinator.com/item?id=48616800) - [Google Hits 50% IPv6](https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/)
 * [2026-06-21, 08:04:54](https://news.ycombinator.com/item?id=48616713) - [A 3D voxel game engine written in APL](https://github.com/namgyaaal/avoxelgame)
 * [2026-06-21, 07:15:18](https://news.ycombinator.com/item?id=48616437) - [CL-BBS: the schemeBBS-like textboard rewritten in Common Lisp](https://github.com/ryukinix/cl-bbs)
