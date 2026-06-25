@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-06-25](index.md)
 
+* [2026-06-25, 13:07:07](https://news.ycombinator.com/item?id=48672764) - [Countries are competing to see which can carry out mass surveillance the best](https://mullvad.net/en/why-privacy-matters/state-mass-surveillance)
+* [2026-06-25, 13:02:56](https://news.ycombinator.com/item?id=48672732) - [Apple announces significant price increases for MacBooks, iPads, more](https://9to5mac.com/2026/06/25/apple-price-increases-mac-ipad-more/)
+* [2026-06-25, 12:59:10](https://news.ycombinator.com/item?id=48672694) - [Why Does Everyone Hate AI?](https://paulkrugman.substack.com/p/why-does-everyone-hate-ai)
+* [2026-06-25, 12:23:05](https://news.ycombinator.com/item?id=48672328) - [You didn't vibe code it, you stole it from open source&enterprise-licensed code](https://twitter.com/mfts0/status/2070080422482977095)
 * [2026-06-25, 10:28:16](https://news.ycombinator.com/item?id=48671468) - [LastPass notifies users of yet another data breach](https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/)
 * [2026-06-25, 10:20:07](https://news.ycombinator.com/item?id=48671392) - [Dolphin Emulator Progress Release 2606](https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/)
 * [2026-06-25, 08:07:54](https://news.ycombinator.com/item?id=48670411) - [Aisle Discovers 6 New CVEs in Curl, Including the Oldest Issue Ever Reported](https://aisle.com/blog/aisle-discovers-6-new-cves-in-curl-including-the-oldest-issue-ever-reported)
