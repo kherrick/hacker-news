@@ -87,6 +87,7 @@
 * [2026-06-22, 03:09:22](https://news.ycombinator.com/item?id=48625192) - [The Flat Curve Society](https://steve-yegge.medium.com/the-flat-curve-society-36c8b01eb33b)
 * [2026-06-22, 02:08:18](https://news.ycombinator.com/item?id=48624782) - [Sakana Fugu](https://sakana.ai/fugu/)
 * [2026-06-22, 01:59:18](https://news.ycombinator.com/item?id=48624723) - [Microbubbles in Medicine](https://worksinprogress.co/issue/microbubbles/)
+* [2026-06-22, 01:39:57](https://news.ycombinator.com/item?id=48624591) - [The Art of Kite Flying (1430–1929)](https://publicdomainreview.org/collection/art-of-kite-flying/)
 * [2026-06-22, 01:20:26](https://news.ycombinator.com/item?id=48624462) - [Remaking BBC test cards to teach you video processing](https://www.youtube.com/watch?v=U_6HxPkrgcg)
 * [2026-06-22, 00:45:07](https://news.ycombinator.com/item?id=48624195) - [The Doom Justifies the Valuation](https://geohot.github.io//blog/jekyll/update/2026/06/21/the-doom-justifies-the-valuation.html)
 * [2026-06-22, 00:34:33](https://news.ycombinator.com/item?id=48624114) - [1983 Northern Telecom Commodore Phone](https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/)
