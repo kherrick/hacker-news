@@ -47,6 +47,7 @@
 * [2026-06-20, 17:00:38](https://news.ycombinator.com/item?id=48610816) - [Ember, a native iOS Hacker News reader I built around accessibility](https://github.com/DatanoiseTV/ember-hackernews)
 * [2026-06-20, 16:24:44](https://news.ycombinator.com/item?id=48610475) - [Epidurals are a miracle technology](https://worksinprogress.co/issue/the-wonder-of-epidurals/)
 * [2026-06-20, 15:59:29](https://news.ycombinator.com/item?id=48610224) - [Show HN: StartupWiki – A Free Alternative to Crunchbase](https://startupwiki.tech/)
+* [2026-06-20, 15:50:37](https://news.ycombinator.com/item?id=48610137) - [22-year-old Mozart's handwritten notebook unearthed in 'major discovery'](https://www.classicfm.com/composers/mozart/handwritten-notebook-discovered-major-paris/)
 * [2026-06-20, 15:42:35](https://news.ycombinator.com/item?id=48610055) - [Big Tech is stoking unrest in the UK. Why?](https://www.ft.com/content/0f3e33d2-0b9e-481d-a911-245d8cc01a9c)
 * [2026-06-20, 15:21:26](https://news.ycombinator.com/item?id=48609863) - [Sogen Kato](https://en.wikipedia.org/wiki/Sogen_Kato)
 * [2026-06-20, 15:10:03](https://news.ycombinator.com/item?id=48609766) - [DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots](https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html)
