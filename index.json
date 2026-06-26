@@ -1,22 +1,42 @@
 [
   [
     [
+      "2026-06-26, 03:12:42",
+      "https://news.ycombinator.com/item?id=48681949"
+    ],
+    [
+      "Libre Barcode Project",
+      "https://graphicore.github.io/librebarcode/"
+    ]
+  ],
+  [
+    [
+      "2026-06-26, 02:29:23",
+      "https://news.ycombinator.com/item?id=48681687"
+    ],
+    [
+      "What happened after 2k people tried to hack my AI assistant",
+      "https://www.fernandoi.cl/posts/hackmyclaw/"
+    ]
+  ],
+  [
+    [
+      "2026-06-26, 02:09:01",
+      "https://news.ycombinator.com/item?id=48681557"
+    ],
+    [
+      "Honesty gets Emacs patch rejected",
+      "https://xlii.space/eng/honesty-gets-emacs-patch-rejected/"
+    ]
+  ],
+  [
+    [
       "2026-06-26, 01:33:15",
       "https://news.ycombinator.com/item?id=48681361"
     ],
     [
       "A data race that doesn't compile",
       "https://corentin-core.github.io/posts/ruxe-type-level-disjointness/"
-    ]
-  ],
-  [
-    [
-      "2026-06-26, 01:15:14",
-      "https://news.ycombinator.com/item?id=48681250"
-    ],
-    [
-      "AI children's books, body horror edition",
-      "https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition"
     ]
   ],
   [
@@ -41,32 +61,12 @@
   ],
   [
     [
-      "2026-06-25, 22:16:55",
-      "https://news.ycombinator.com/item?id=48679934"
-    ],
-    [
-      "Military branches restore flu shot requirement after virus swept through base",
-      "https://arstechnica.com/health/2026/06/military-branches-restore-flu-shot-requirement-after-virus-swept-through-base/"
-    ]
-  ],
-  [
-    [
       "2026-06-25, 21:44:55",
       "https://news.ycombinator.com/item?id=48679608"
     ],
     [
       "The 'papers, please' era of the internet will decimate your privacy",
       "https://expression.fire.org/p/the-papers-please-era-of-the-internet"
-    ]
-  ],
-  [
-    [
-      "2026-06-25, 21:22:59",
-      "https://news.ycombinator.com/item?id=48679385"
-    ],
-    [
-      "Migrating from Proxmox to NixOS and Incus",
-      "https://www.nijho.lt/post/proxmox-to-nixos/"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2026-06-24, 08:04:23",
-      "https://news.ycombinator.com/item?id=48656692"
-    ],
-    [
-      "GloriousEggroll's Proton has been rebased on Proton 11",
-      "https://github.com/GloriousEggroll/proton-ge-custom/releases/tag/GE-Proton11-1"
-    ]
-  ],
-  [
-    [
       "2026-06-23, 13:11:27",
       "https://news.ycombinator.com/item?id=48644463"
     ],
@@ -277,6 +267,16 @@
     [
       "The last Romans are still around",
       "https://signoregalilei.com/2026/06/20/the-last-romans-are-still-around/"
+    ]
+  ],
+  [
+    [
+      "2026-06-22, 07:44:03",
+      "https://news.ycombinator.com/item?id=48627027"
+    ],
+    [
+      "Doing a masters while working in Spain",
+      "https://jan-herlyn.com/blog/doing-a-masters-while-working/"
     ]
   ],
   [
