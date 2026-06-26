@@ -91,12 +91,12 @@
   ],
   [
     [
-      "2026-06-26, 18:32:22",
-      "https://news.ycombinator.com/item?id=48690231"
+      "2026-06-26, 18:30:11",
+      "https://news.ycombinator.com/item?id=48690200"
     ],
     [
-      "Gossamer: a Rust-flavoured language with real goroutines and pause-free memory",
-      "https://gossamer-lang.org/"
+      "Slisp: Simple Lisp compiler (Linux/amd64)",
+      "https://github.com/skx/slisp"
     ]
   ],
   [
@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2026-06-26, 14:10:26",
-      "https://news.ycombinator.com/item?id=48686834"
-    ],
-    [
-      "Springer Nature has removed two studies by Max Planck",
-      "https://www.science.org/content/article/why-have-papers-one-history-s-most-famous-physicists-been-retracted"
-    ]
-  ],
-  [
-    [
       "2026-06-26, 11:51:11",
       "https://news.ycombinator.com/item?id=48685558"
     ],
@@ -197,6 +187,16 @@
     [
       "Show HN: Autofit2 – End-to-end pipeline for multilingual text classification",
       "https://github.com/neospe/autofit2"
+    ]
+  ],
+  [
+    [
+      "2026-06-25, 13:32:12",
+      "https://news.ycombinator.com/item?id=48673115"
+    ],
+    [
+      "A Tiny Compiler for Data-Parallel Kernels",
+      "https://healeycodes.com/a-tiny-compiler-for-data-parallel-kernels"
     ]
   ],
   [
