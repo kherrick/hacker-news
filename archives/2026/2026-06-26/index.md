@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-06-26](index.md)
 
+* [2026-06-26, 21:19:20](https://news.ycombinator.com/item?id=48692098) - [The National Parks Were Reportedly Told to Stay Silent on Deaths](https://www.outsideonline.com/outdoor-adventure/environment/nps-internal-memo-deaths/?link_source=ta_first_comment&taid=6a3dae4f4d2dce00016deef8&utm_content=trueanthem&utm_medium=social&utm_source=facebook)
 * [2026-06-26, 21:18:28](https://news.ycombinator.com/item?id=48692090) - [A C++ implementation of a fast hash map and hash set using hopscotch hashing](https://github.com/Tessil/hopscotch-map)
 * [2026-06-26, 21:14:47](https://news.ycombinator.com/item?id=48692058) - [Prediction: A Frontier open-source LLM Will Be Released On 3rd December 2026](https://blog.doubleword.ai/frontier-os-llm)
+* [2026-06-26, 21:13:50](https://news.ycombinator.com/item?id=48692051) - [We Can Still Stop California's 3D Printer Surveillance Scheme](https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme)
 * [2026-06-26, 21:00:50](https://news.ycombinator.com/item?id=48691893) - [Hightouch (YC S19) Is Hiring](https://hightouch.com/careers#open-positions)
+* [2026-06-26, 20:12:14](https://news.ycombinator.com/item?id=48691395) - [Reed-Solomon for OCR: error correction for messy printed codes](https://github.com/chasangchual/reed-solomon-for-ocr)
 * [2026-06-26, 20:07:18](https://news.ycombinator.com/item?id=48691346) - [PlayStation Is Deleting 551 Movies from Customers' Accounts](https://kotaku.com/playstation-store-movies-digital-studio-canal-terminator-2000711013)
 * [2026-06-26, 19:59:32](https://news.ycombinator.com/item?id=48691255) - [Israel Asked Facebook to Censor Iran War Content, Internal Documents Show](https://theintercept.com/2026/06/18/israel-facebook-censor-content-moderation-iran-war/)
 * [2026-06-26, 19:12:20](https://news.ycombinator.com/item?id=48690709) - [Long Wave radio era set to end with Droitwich switch-off](https://www.bbc.com/news/articles/c74yn7v7k4qo)

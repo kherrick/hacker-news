@@ -34,6 +34,7 @@
 * [2026-06-25, 14:17:26](https://news.ycombinator.com/item?id=48673801) - [Ask HN: What surprised you about Estonia e-Residency and running an Estonian OÜ?](https://news.ycombinator.com/item?id=48673801)
 * [2026-06-25, 14:16:17](https://news.ycombinator.com/item?id=48673787) - [Federal agents track down woman, demand she remove Instagram post about ICE](https://www.syracuse.com/news/2026/06/federal-agents-track-down-syracuse-woman-demand-she-remove-instagram-post-about-ice.html)
 * [2026-06-25, 14:08:55](https://news.ycombinator.com/item?id=48673671) - [Show HN: I made Google Trends for Hacker News by indexing 18 years of comments](https://hackernewstrends.com)
+* [2026-06-25, 13:58:21](https://news.ycombinator.com/item?id=48673527) - [Show HN: Autofit2 – End-to-end pipeline for multilingual text classification](https://github.com/neospe/autofit2)
 * [2026-06-25, 13:37:36](https://news.ycombinator.com/item?id=48673194) - [Tell HN: OpenAI has started putting ads on paid programs](https://news.ycombinator.com/item?id=48673194)
 * [2026-06-25, 13:08:31](https://news.ycombinator.com/item?id=48672779) - [Where every major LLM stands politically](https://trakkr.ai/bias)
 * [2026-06-25, 13:07:07](https://news.ycombinator.com/item?id=48672764) - [Countries are competing to see which can carry out mass surveillance the best](https://mullvad.net/en/why-privacy-matters/state-mass-surveillance)
