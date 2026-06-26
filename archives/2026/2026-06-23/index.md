@@ -91,4 +91,5 @@
 * [2026-06-23, 01:30:59](https://news.ycombinator.com/item?id=48639018) - [Matt's Script Archive: The Scripts That Reshaped the Web](https://tedium.co/2026/06/22/matts-script-archive-retrospective/)
 * [2026-06-23, 01:15:05](https://news.ycombinator.com/item?id=48638886) - [In Praise of Memcached](https://jchri.st/blog/in-praise-of-memcached/)
 * [2026-06-23, 01:05:50](https://news.ycombinator.com/item?id=48638820) - [Shall We Play a Coordination Game?](https://kellyshortridge.com/blog/posts/shall-we-play-a-coordination-game/)
+* [2026-06-23, 00:53:58](https://news.ycombinator.com/item?id=48638710) - [Eyewitness at the Triangle (1911)](http://trianglefire.ilr.cornell.edu/index.html)
 * [2026-06-23, 00:47:32](https://news.ycombinator.com/item?id=48638660) - [Polymarket's viral videos showed people winning big, but the bets were fake](https://arstechnica.com/tech-policy/2026/06/polymarkets-viral-videos-showed-people-winning-big-but-the-bets-were-fake/)
