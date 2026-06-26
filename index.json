@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-25, 23:53:33",
+      "https://news.ycombinator.com/item?id=48680727"
+    ],
+    [
+      "Om Malik – Silicon Valley Has an Empathy Vacuum (Nov 2016)",
+      "https://www.newyorker.com/business/currency/silicon-valley-has-an-empathy-vacuum"
+    ]
+  ],
+  [
+    [
+      "2026-06-25, 23:10:30",
+      "https://news.ycombinator.com/item?id=48680370"
+    ],
+    [
+      "The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed)",
+      "https://gchandbook.org/"
+    ]
+  ],
+  [
+    [
       "2026-06-25, 22:16:55",
       "https://news.ycombinator.com/item?id=48679934"
     ],
@@ -37,16 +57,6 @@
     [
       "Un-0: Generating Images with Coupled Oscillators",
       "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/"
-    ]
-  ],
-  [
-    [
-      "2026-06-25, 20:36:05",
-      "https://news.ycombinator.com/item?id=48678873"
-    ],
-    [
-      "OpenAI Leans Toward Waiting Until Next Year for IPO",
-      "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html"
     ]
   ],
   [
@@ -221,12 +231,12 @@
   ],
   [
     [
-      "2026-06-23, 09:38:45",
-      "https://news.ycombinator.com/item?id=48642503"
+      "2026-06-23, 16:01:23",
+      "https://news.ycombinator.com/item?id=48647099"
     ],
     [
-      "I built a GPU back end for Emacs",
-      "https://en.andros.dev/blog/4b707a03/how-i-built-a-gpu-backend-for-emacs/"
+      "What is the mechanical world picture?",
+      "http://edwardfeser.blogspot.com/2026/06/what-is-mechanical-world-picture.html"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Oxide computer 3D rack guided tour",
       "https://explorer.oxide.computer/"
-    ]
-  ],
-  [
-    [
-      "2026-06-22, 15:12:36",
-      "https://news.ycombinator.com/item?id=48631302"
-    ],
-    [
-      "Tw-fade: pure CSS scroll-driven edge masking",
-      "https://pete.design/tw-fade"
     ]
   ],
   [
