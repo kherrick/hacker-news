@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-26](index.md)
 
+* [2026-06-26, 21:54:59](https://news.ycombinator.com/item?id=48692474) - [The open source DOCX editor submitted to HN a few weeks ago has been deleted](https://news.ycombinator.com/item?id=48692474)
+* [2026-06-26, 21:23:56](https://news.ycombinator.com/item?id=48692157) - [The Nationwide Backlash Against Cameras Watching Your Car](https://www.wsj.com/us-news/the-nationwide-backlash-against-cameras-watching-your-car-401a656a)
 * [2026-06-26, 21:19:20](https://news.ycombinator.com/item?id=48692098) - [The National Parks Were Reportedly Told to Stay Silent on Deaths](https://www.outsideonline.com/outdoor-adventure/environment/nps-internal-memo-deaths/?link_source=ta_first_comment&taid=6a3dae4f4d2dce00016deef8&utm_content=trueanthem&utm_medium=social&utm_source=facebook)
 * [2026-06-26, 21:18:28](https://news.ycombinator.com/item?id=48692090) - [A C++ implementation of a fast hash map and hash set using hopscotch hashing](https://github.com/Tessil/hopscotch-map)
 * [2026-06-26, 21:14:47](https://news.ycombinator.com/item?id=48692058) - [Prediction: A Frontier open-source LLM Will Be Released On 3rd December 2026](https://blog.doubleword.ai/frontier-os-llm)
