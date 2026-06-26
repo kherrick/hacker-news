@@ -62,6 +62,7 @@
 * [2026-06-23, 13:11:27](https://news.ycombinator.com/item?id=48644463) - [Overfitted a 900KB Transformer to Compress a 100MB CSV into 7MB](https://news.ycombinator.com/item?id=48644463)
 * [2026-06-23, 13:04:38](https://news.ycombinator.com/item?id=48644383) - [Record type inference for dummies](http://haskellforall.com/2026/06/record-type-inference-for-dummies)
 * [2026-06-23, 12:56:16](https://news.ycombinator.com/item?id=48644257) - [Lossless GIF recompression via exhaustive search](https://blog.arusekk.pl/posts/lossless-gif-recompression/)
+* [2026-06-23, 12:45:09](https://news.ycombinator.com/item?id=48644111) - [The \"Bizarre Headgear\" Exhibit at the Sam Noble Museum Is Incredible](https://svpow.com/2026/05/15/the-bizarre-headgear-exhibit-at-the-sam-noble-museum-is-incredible/)
 * [2026-06-23, 12:37:04](https://news.ycombinator.com/item?id=48644022) - [80386 Early Start Memory Access](https://nand2mario.github.io/posts/2026/80386_early_start/)
 * [2026-06-23, 11:54:48](https://news.ycombinator.com/item?id=48643620) - [Tech giant Oracle cuts 21,000 jobs as it embraces AI](https://www.bbc.com/news/articles/c4gy0x0j5deo)
 * [2026-06-23, 11:40:50](https://news.ycombinator.com/item?id=48643489) - [The Low-Tech AI of Elden Ring](https://nega.tv/posts/low-tech-ai-of-elden-ring.html)
