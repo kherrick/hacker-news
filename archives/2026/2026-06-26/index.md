@@ -9,6 +9,7 @@
 * [2026-06-26, 18:30:11](https://news.ycombinator.com/item?id=48690200) - [Slisp: Simple Lisp compiler (Linux/amd64)](https://github.com/skx/slisp)
 * [2026-06-26, 18:25:15](https://news.ycombinator.com/item?id=48690130) - [Made a Rust DB run spatial queries on gaming GPU RT cores, beating an H100](https://sedona.apache.org/latest/blog/2026/06/26/sedonadb-04-gpu-accelerated-spatial-joins/)
 * [2026-06-26, 18:23:14](https://news.ycombinator.com/item?id=48690101) - [U.S. government will decide who gets to use GPT-5.6](https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/)
+* [2026-06-26, 18:04:05](https://news.ycombinator.com/item?id=48689859) - [Pre-Modern Armies for Worldbuilders, Part III: Paying for It](https://acoup.blog/2026/06/26/collections-pre-modern-armies-for-worldbuilders-part-iii-paying-for-it/)
 * [2026-06-26, 17:24:25](https://news.ycombinator.com/item?id=48689277) - [What Is a Nomogram and Why Would It Interest Me?](https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me)
 * [2026-06-26, 17:24:21](https://news.ycombinator.com/item?id=48689275) - ['Cost Me the Election': Data Centers Trigger Voter Backlash](https://www.newsweek.com/cost-me-the-election-data-centers-trigger-voter-backlash-12118327)
 * [2026-06-26, 17:06:55](https://news.ycombinator.com/item?id=48689028) - [Previewing GPT‑5.6 Sol: a next-generation model](https://openai.com/index/previewing-gpt-5-6-sol/)

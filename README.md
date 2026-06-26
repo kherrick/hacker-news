@@ -1,10 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-06-26, 19:59:32](https://news.ycombinator.com/item?id=48691255) - [Israel Asked Facebook to Censor Iran War Content, Internal Documents Show](https://theintercept.com/2026/06/18/israel-facebook-censor-content-moderation-iran-war/)
 * [2026-06-26, 18:32:22](https://news.ycombinator.com/item?id=48690231) - [Gossamer: a Rust-flavoured language with real goroutines and pause-free memory](https://gossamer-lang.org/)
-* [2026-06-26, 18:30:11](https://news.ycombinator.com/item?id=48690200) - [Slisp: Simple Lisp compiler (Linux/amd64)](https://github.com/skx/slisp)
-* [2026-06-26, 18:25:15](https://news.ycombinator.com/item?id=48690130) - [Made a Rust DB run spatial queries on gaming GPU RT cores, beating an H100](https://sedona.apache.org/latest/blog/2026/06/26/sedonadb-04-gpu-accelerated-spatial-joins/)
 * [2026-06-26, 18:23:14](https://news.ycombinator.com/item?id=48690101) - [U.S. government will decide who gets to use GPT-5.6](https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/)
+* [2026-06-26, 18:04:05](https://news.ycombinator.com/item?id=48689859) - [Pre-Modern Armies for Worldbuilders, Part III: Paying for It](https://acoup.blog/2026/06/26/collections-pre-modern-armies-for-worldbuilders-part-iii-paying-for-it/)
 * [2026-06-26, 17:24:25](https://news.ycombinator.com/item?id=48689277) - [What Is a Nomogram and Why Would It Interest Me?](https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me)
 * [2026-06-26, 17:24:21](https://news.ycombinator.com/item?id=48689275) - [Data centers trigger voter backlash](https://www.newsweek.com/cost-me-the-election-data-centers-trigger-voter-backlash-12118327)
 * [2026-06-26, 17:06:55](https://news.ycombinator.com/item?id=48689028) - [Previewing GPT‑5.6 Sol: a next-generation model](https://openai.com/index/previewing-gpt-5-6-sol/)
@@ -20,6 +18,7 @@
 * [2026-06-26, 01:10:52](https://news.ycombinator.com/item?id=48681220) - [Framework's 10G Ethernet module exposes USB-C's complexity](https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/)
 * [2026-06-25, 21:44:55](https://news.ycombinator.com/item?id=48679608) - [The 'papers, please' era of the internet will decimate your privacy](https://expression.fire.org/p/the-papers-please-era-of-the-internet)
 * [2026-06-25, 20:33:37](https://news.ycombinator.com/item?id=48678852) - [Om Malik has died](https://om.co/2026/06/24/1966-2026/)
+* [2026-06-25, 15:48:07](https://news.ycombinator.com/item?id=48675179) - [An entire Herculaneum scroll has been read for the first time](https://scrollprize.org/firstscroll)
 * [2026-06-24, 08:46:16](https://news.ycombinator.com/item?id=48656986) - [Show HN: WebBase-III – dBASE III rebuilt in the browser with its own interpreter](https://github.com/DDecoene/WebBaseIII)
 * [2026-06-23, 20:04:33](https://news.ycombinator.com/item?id=48650550) - [LaTeX.wasm: LaTeX Engines in Browsers](https://www.swiftlatex.com/)
 * [2026-06-23, 17:45:20](https://news.ycombinator.com/item?id=48648550) - [My Steam Machine is a 50ft HDMI cable](https://blog.matthewbrunelle.com/my-steam-machine-is-a-50ft-hdmi-cable/)
@@ -28,6 +27,7 @@
 * [2026-06-23, 09:39:35](https://news.ycombinator.com/item?id=48642510) - [MicroVMs: Run isolated sandboxes with full lifecycle control](https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/)
 * [2026-06-23, 09:35:26](https://news.ycombinator.com/item?id=48642474) - [A game where you're an OS and have to manage processes, memory and I/O events](https://github.com/plbrault/youre-the-os)
 * [2026-06-22, 22:43:48](https://news.ycombinator.com/item?id=48637433) - [Bipartite Matching Is in NC](https://scottaaronson.blog/?p=9851)
+* [2026-06-22, 07:44:03](https://news.ycombinator.com/item?id=48627027) - [Doing a masters while working in Spain](https://jan-herlyn.com/blog/doing-a-masters-while-working/)
 * [2026-06-22, 01:39:57](https://news.ycombinator.com/item?id=48624591) - [The Art of Kite Flying (1430–1929)](https://publicdomainreview.org/collection/art-of-kite-flying/)
 * [2026-06-20, 15:50:37](https://news.ycombinator.com/item?id=48610137) - [22-year-old Mozart's handwritten notebook unearthed in 'major discovery'](https://www.classicfm.com/composers/mozart/handwritten-notebook-discovered-major-paris/)
 
