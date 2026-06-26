@@ -75,6 +75,7 @@
 * [2026-06-22, 09:46:31](https://news.ycombinator.com/item?id=48627980) - [How a Microsecond-Level Low-Latency Engine Works](https://medium.com/@DolphinDB_Inc/c-speed-without-c-pain-inside-a-microsecond-level-low-latency-engine-a634f260a4ee)
 * [2026-06-22, 08:39:49](https://news.ycombinator.com/item?id=48627471) - [Optimizing [sqlx:test] rebuild time](https://kobzol.github.io/rust/2026/06/21/optimizing-sqlx-test-rebuild-time.html)
 * [2026-06-22, 08:18:51](https://news.ycombinator.com/item?id=48627283) - [Show HN: Graphical SQL Builder and Debugger](https://github.com/webofmarius/SQLJoiner)
+* [2026-06-22, 07:44:03](https://news.ycombinator.com/item?id=48627027) - [Doing a masters while working in Spain](https://jan-herlyn.com/blog/doing-a-masters-while-working/)
 * [2026-06-22, 07:30:17](https://news.ycombinator.com/item?id=48626930) - [Codex logging bug may write TBs to local SSDs](https://github.com/openai/codex/issues/28224)
 * [2026-06-22, 07:29:17](https://news.ycombinator.com/item?id=48626918) - [Investors get real-time view of UK bond market activity for the first time](https://www.fca.org.uk/news/press-releases/investors-get-real-time-view-uk-bond-market-activity-first-time)
 * [2026-06-22, 07:22:03](https://news.ycombinator.com/item?id=48626866) - [GLM 5.2 vs. Opus](https://techstackups.com/comparisons/glm-5.2-vs-opus/)
