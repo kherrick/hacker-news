@@ -55,6 +55,7 @@
 * [2026-06-23, 14:04:43](https://news.ycombinator.com/item?id=48645173) - [Spying on kids to save kids from spying is stupid](https://pluralistic.net/2026/06/23/destroy-the-village/)
 * [2026-06-23, 14:03:19](https://news.ycombinator.com/item?id=48645152) - [Mistral OCR 4](https://mistral.ai/news/ocr-4/)
 * [2026-06-23, 13:36:10](https://news.ycombinator.com/item?id=48644781) - [MSG Made Dossier on Activists Who Opposed Facial Recognition](https://www.404media.co/madison-square-garden-made-dossier-on-activists-who-opposed-facial-recognition/)
+* [2026-06-23, 13:11:27](https://news.ycombinator.com/item?id=48644463) - [Overfitted a 900KB Transformer to Compress a 100MB CSV into 7MB](https://news.ycombinator.com/item?id=48644463)
 * [2026-06-23, 13:04:38](https://news.ycombinator.com/item?id=48644383) - [Record type inference for dummies](http://haskellforall.com/2026/06/record-type-inference-for-dummies)
 * [2026-06-23, 12:56:16](https://news.ycombinator.com/item?id=48644257) - [Lossless GIF recompression via exhaustive search](https://blog.arusekk.pl/posts/lossless-gif-recompression/)
 * [2026-06-23, 12:37:04](https://news.ycombinator.com/item?id=48644022) - [80386 Early Start Memory Access](https://nand2mario.github.io/posts/2026/80386_early_start/)
