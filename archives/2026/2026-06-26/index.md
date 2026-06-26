@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-26](index.md)
 
+* [2026-06-26, 03:35:49](https://news.ycombinator.com/item?id=48682066) - [Why are we so obsessed with lawns?](https://www.gardensillustrated.com/features/the-history-of-lawns)
 * [2026-06-26, 03:12:42](https://news.ycombinator.com/item?id=48681949) - [Libre Barcode Project](https://graphicore.github.io/librebarcode/)
 * [2026-06-26, 02:29:23](https://news.ycombinator.com/item?id=48681687) - [What happened after 2k people tried to hack my AI assistant](https://www.fernandoi.cl/posts/hackmyclaw/)
 * [2026-06-26, 02:09:01](https://news.ycombinator.com/item?id=48681557) - [Honesty gets Emacs patch rejected](https://xlii.space/eng/honesty-gets-emacs-patch-rejected/)

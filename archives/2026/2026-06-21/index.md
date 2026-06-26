@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-06-21](index.md)
 
 * [2026-06-21, 23:34:07](https://news.ycombinator.com/item?id=48623721) - [Petition against Meta's employee training data collection for ML models](https://mcipetition.com/)
+* [2026-06-21, 23:28:36](https://news.ycombinator.com/item?id=48623687) - [Falcon GX the most powerful brand engineering tool](https://falcon.so/)
 * [2026-06-21, 23:25:24](https://news.ycombinator.com/item?id=48623665) - [PivCo-Huffman \"Merge\" Operations](https://fgiesen.wordpress.com/2026/06/21/pivco-huffman-merge-operations/)
 * [2026-06-21, 23:23:07](https://news.ycombinator.com/item?id=48623650) - [Lithp.py (~2008)](https://fogus.me/fun/lithp/)
 * [2026-06-21, 22:55:23](https://news.ycombinator.com/item?id=48623434) - [Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions](https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions)
