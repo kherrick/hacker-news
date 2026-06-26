@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-06-26](index.md)
 
+* [2026-06-26, 21:18:28](https://news.ycombinator.com/item?id=48692090) - [A C++ implementation of a fast hash map and hash set using hopscotch hashing](https://github.com/Tessil/hopscotch-map)
+* [2026-06-26, 21:14:47](https://news.ycombinator.com/item?id=48692058) - [Prediction: A Frontier open-source LLM Will Be Released On 3rd December 2026](https://blog.doubleword.ai/frontier-os-llm)
+* [2026-06-26, 21:00:50](https://news.ycombinator.com/item?id=48691893) - [Hightouch (YC S19) Is Hiring](https://hightouch.com/careers#open-positions)
+* [2026-06-26, 20:07:18](https://news.ycombinator.com/item?id=48691346) - [PlayStation Is Deleting 551 Movies from Customers' Accounts](https://kotaku.com/playstation-store-movies-digital-studio-canal-terminator-2000711013)
 * [2026-06-26, 19:59:32](https://news.ycombinator.com/item?id=48691255) - [Israel Asked Facebook to Censor Iran War Content, Internal Documents Show](https://theintercept.com/2026/06/18/israel-facebook-censor-content-moderation-iran-war/)
+* [2026-06-26, 19:12:20](https://news.ycombinator.com/item?id=48690709) - [Long Wave radio era set to end with Droitwich switch-off](https://www.bbc.com/news/articles/c74yn7v7k4qo)
 * [2026-06-26, 18:32:22](https://news.ycombinator.com/item?id=48690231) - [Gossamer: a Rust-flavoured language with real goroutines and pause-free memory](https://gossamer-lang.org/)
 * [2026-06-26, 18:30:11](https://news.ycombinator.com/item?id=48690200) - [Slisp: Simple Lisp compiler (Linux/amd64)](https://github.com/skx/slisp)
 * [2026-06-26, 18:25:15](https://news.ycombinator.com/item?id=48690130) - [Made a Rust DB run spatial queries on gaming GPU RT cores, beating an H100](https://sedona.apache.org/latest/blog/2026/06/26/sedonadb-04-gpu-accelerated-spatial-joins/)
