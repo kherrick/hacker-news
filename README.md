@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-06-26, 18:23:14](https://news.ycombinator.com/item?id=48690101) - [U.S. government will decide who gets to use GPT-5.6](https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/)
+* [2026-06-26, 17:24:25](https://news.ycombinator.com/item?id=48689277) - [What Is a Nomogram and Why Would It Interest Me?](https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me)
 * [2026-06-26, 17:24:21](https://news.ycombinator.com/item?id=48689275) - ['Cost Me the Election': Data Centers Trigger Voter Backlash](https://www.newsweek.com/cost-me-the-election-data-centers-trigger-voter-backlash-12118327)
 * [2026-06-26, 17:06:55](https://news.ycombinator.com/item?id=48689028) - [Previewing GPT‑5.6 Sol: a next-generation model](https://openai.com/index/previewing-gpt-5-6-sol/)
 * [2026-06-26, 17:00:43](https://news.ycombinator.com/item?id=48688961) - [Liva AI (YC S25) Is Hiring](https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead)
@@ -18,7 +20,6 @@
 * [2026-06-25, 21:44:55](https://news.ycombinator.com/item?id=48679608) - [The 'papers, please' era of the internet will decimate your privacy](https://expression.fire.org/p/the-papers-please-era-of-the-internet)
 * [2026-06-25, 20:33:37](https://news.ycombinator.com/item?id=48678852) - [Om Malik has died](https://om.co/2026/06/24/1966-2026/)
 * [2026-06-25, 15:48:07](https://news.ycombinator.com/item?id=48675179) - [An entire Herculaneum scroll has been read for the first time](https://scrollprize.org/firstscroll)
-* [2026-06-25, 15:33:37](https://news.ycombinator.com/item?id=48674967) - [IBM debuts sub-1 nanometer chip technology](https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology)
 * [2026-06-24, 08:46:16](https://news.ycombinator.com/item?id=48656986) - [Show HN: WebBase-III – dBASE III rebuilt in the browser with its own interpreter](https://github.com/DDecoene/WebBaseIII)
 * [2026-06-23, 23:57:41](https://news.ycombinator.com/item?id=48653338) - [FEXPRs vs. vtable: how LispE interpreter works](https://github.com/naver/lispe/wiki/2.7-FEXPR-vs.-vtable)
 * [2026-06-23, 20:04:33](https://news.ycombinator.com/item?id=48650550) - [LaTeX.wasm: LaTeX Engines in Browsers](https://www.swiftlatex.com/)
@@ -28,7 +29,6 @@
 * [2026-06-23, 09:35:26](https://news.ycombinator.com/item?id=48642474) - [A game where you're an OS and have to manage processes, memory and I/O events](https://github.com/plbrault/youre-the-os)
 * [2026-06-22, 22:43:48](https://news.ycombinator.com/item?id=48637433) - [Bipartite Matching Is in NC](https://scottaaronson.blog/?p=9851)
 * [2026-06-22, 15:21:04](https://news.ycombinator.com/item?id=48631450) - [Oxide computer 3D rack guided tour](https://explorer.oxide.computer/)
-* [2026-06-21, 06:50:31](https://news.ycombinator.com/item?id=48616304) - [Show HN: Chess-Inspired Roguelike](https://princechazz.com)
 * [2026-06-20, 15:50:37](https://news.ycombinator.com/item?id=48610137) - [22-year-old Mozart's handwritten notebook unearthed in 'major discovery'](https://www.classicfm.com/composers/mozart/handwritten-notebook-discovered-major-paris/)
 
 ## [Archives](archives/index.md)
