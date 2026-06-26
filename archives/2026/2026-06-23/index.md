@@ -65,6 +65,7 @@
 * [2026-06-23, 12:37:04](https://news.ycombinator.com/item?id=48644022) - [80386 Early Start Memory Access](https://nand2mario.github.io/posts/2026/80386_early_start/)
 * [2026-06-23, 11:54:48](https://news.ycombinator.com/item?id=48643620) - [Tech giant Oracle cuts 21,000 jobs as it embraces AI](https://www.bbc.com/news/articles/c4gy0x0j5deo)
 * [2026-06-23, 11:40:50](https://news.ycombinator.com/item?id=48643489) - [The Low-Tech AI of Elden Ring](https://nega.tv/posts/low-tech-ai-of-elden-ring.html)
+* [2026-06-23, 11:38:25](https://news.ycombinator.com/item?id=48643459) - [Modern GPU Programming for MLSys](https://mlc.ai/modern-gpu-programming-for-mlsys/)
 * [2026-06-23, 11:35:05](https://news.ycombinator.com/item?id=48643426) - [Unlimited OCR: One-Shot Long-Horizon Parsing](https://github.com/baidu/Unlimited-OCR)
 * [2026-06-23, 11:33:29](https://news.ycombinator.com/item?id=48643407) - [Wikipedia cofounder Larry Sanger blocked from editing Wikipedia](https://en.wikipedia.org/wiki/User:Larry_Sanger)
 * [2026-06-23, 11:06:41](https://news.ycombinator.com/item?id=48643180) - [The Coming Loop](https://lucumr.pocoo.org/2026/6/23/the-coming-loop/)

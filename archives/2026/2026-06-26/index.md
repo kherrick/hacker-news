@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-06-26](index.md)
 
+* [2026-06-26, 17:24:21](https://news.ycombinator.com/item?id=48689275) - ['Cost Me the Election': Data Centers Trigger Voter Backlash](https://www.newsweek.com/cost-me-the-election-data-centers-trigger-voter-backlash-12118327)
 * [2026-06-26, 17:06:55](https://news.ycombinator.com/item?id=48689028) - [Previewing GPT‑5.6 Sol: a next-generation model](https://openai.com/index/previewing-gpt-5-6-sol/)
 * [2026-06-26, 17:00:43](https://news.ycombinator.com/item?id=48688961) - [Liva AI (YC S25) Is Hiring](https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead)
 * [2026-06-26, 16:40:11](https://news.ycombinator.com/item?id=48688700) - [Show HN: Smart model routing directly in Claude, Codex and Cursor](https://github.com/workweave/router)
 * [2026-06-26, 15:51:19](https://news.ycombinator.com/item?id=48688081) - [What is a Lithium-ion capacitor?](https://www.jtekt.co.jp/e/products/capacitor/capacitor_about.html)
 * [2026-06-26, 15:35:23](https://news.ycombinator.com/item?id=48687903) - [The Exhaustion of Talking to a Tool](https://ohadravid.github.io/posts/2026-06-tool-talking/)
+* [2026-06-26, 15:24:40](https://news.ycombinator.com/item?id=48687769) - [Ask HN: Is \"no source code was copied\" still a sufficient copyright defense?](https://news.ycombinator.com/item?id=48687769)
 * [2026-06-26, 15:04:36](https://news.ycombinator.com/item?id=48687508) - [Mullvad founder gave millions to extremist far right party](https://mastodon.social/@raphaelrobert/116816274242387568)
 * [2026-06-26, 15:02:43](https://news.ycombinator.com/item?id=48687483) - [The AI industry is pouring millions into US elections](https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds)
 * [2026-06-26, 14:46:00](https://news.ycombinator.com/item?id=48687272) - [Jolla Phone, Over 13 500 units sold](https://commerce.jolla.com/products/jolla-phone-october-2026)
