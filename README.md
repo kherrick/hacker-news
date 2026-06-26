@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-06-26, 07:44:11](https://news.ycombinator.com/item?id=48683588) - [Why current LLM costs are not sustainable](https://aditya.patadia.org/p/ai-and-cloud-costs)
 * [2026-06-26, 06:27:25](https://news.ycombinator.com/item?id=48683041) - [Micron locks in historically high memory prices for five years](https://www.theregister.com/systems/2026/06/25/micron-locks-in-historically-high-memory-prices-for-five-years/5261854)
-* [2026-06-26, 06:24:39](https://news.ycombinator.com/item?id=48683021) - [US Govt to individually approve who gets GPT 5.6](https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56/)
 * [2026-06-26, 05:40:36](https://news.ycombinator.com/item?id=48682737) - [We All Depend on Open Source. We Will Defend It Together](https://akrites.org/letter/)
-* [2026-06-26, 03:35:49](https://news.ycombinator.com/item?id=48682066) - [Why are we so obsessed with lawns?](https://www.gardensillustrated.com/features/the-history-of-lawns)
 * [2026-06-26, 03:12:42](https://news.ycombinator.com/item?id=48681949) - [Libre Barcode Project](https://graphicore.github.io/librebarcode/)
 * [2026-06-26, 02:29:23](https://news.ycombinator.com/item?id=48681687) - [What happened after 2k people tried to hack my AI assistant](https://www.fernandoi.cl/posts/hackmyclaw/)
 * [2026-06-26, 01:10:52](https://news.ycombinator.com/item?id=48681220) - [Framework's 10G Ethernet module exposes USB-C's complexity](https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/)
@@ -29,6 +28,7 @@
 * [2026-06-22, 15:00:04](https://news.ycombinator.com/item?id=48631119) - [The last Romans are still around](https://signoregalilei.com/2026/06/20/the-last-romans-are-still-around/)
 * [2026-06-22, 07:44:03](https://news.ycombinator.com/item?id=48627027) - [Doing a masters while working in Spain](https://jan-herlyn.com/blog/doing-a-masters-while-working/)
 * [2026-06-21, 06:50:31](https://news.ycombinator.com/item?id=48616304) - [Show HN: Chess-Inspired Roguelike](https://princechazz.com)
+* [2026-06-21, 03:08:19](https://news.ycombinator.com/item?id=48615313) - [SOCKMAP - TCP splicing of the future](https://blog.cloudflare.com/sockmap-tcp-splicing-of-the-future/)
 * [2026-06-20, 15:50:37](https://news.ycombinator.com/item?id=48610137) - [22-year-old Mozart's handwritten notebook unearthed in 'major discovery'](https://www.classicfm.com/composers/mozart/handwritten-notebook-discovered-major-paris/)
 
 ## [Archives](archives/index.md)

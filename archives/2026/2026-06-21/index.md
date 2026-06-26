@@ -74,6 +74,7 @@
 * [2026-06-21, 04:28:39](https://news.ycombinator.com/item?id=48615680) - [Building Reliable Agentic AI Systems](https://martinfowler.com/articles/reliable-llm-bayer.html)
 * [2026-06-21, 04:02:08](https://news.ycombinator.com/item?id=48615569) - [Your brain was never designed for this much bad news](https://www.sciencedaily.com/releases/2026/06/260614012006.htm)
 * [2026-06-21, 03:54:22](https://news.ycombinator.com/item?id=48615529) - [Armstrong Effect](https://en.wikipedia.org/wiki/Armstrong_effect)
+* [2026-06-21, 03:08:19](https://news.ycombinator.com/item?id=48615313) - [SOCKMAP - TCP splicing of the future](https://blog.cloudflare.com/sockmap-tcp-splicing-of-the-future/)
 * [2026-06-21, 03:00:53](https://news.ycombinator.com/item?id=48615277) - [Early adversity leaves lasting molecular imprint across the body: primate study](https://medicalxpress.com/news/2026-06-early-life-adversity-molecular-imprint.html)
 * [2026-06-21, 01:35:40](https://news.ycombinator.com/item?id=48614844) - [Developers don't understand CORS (2019)](https://fosterelli.co/developers-dont-understand-cors)
 * [2026-06-21, 01:29:53](https://news.ycombinator.com/item?id=48614809) - [White House delays US voting-machine vulnerability report](https://www.reuters.com/world/white-house-delays-release-us-voting-machine-study-midterms-near-2026-06-19/)
