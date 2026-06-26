@@ -26,8 +26,8 @@
 * [2026-06-22, 22:43:48](https://news.ycombinator.com/item?id=48637433) - [Bipartite Matching Is in NC](https://scottaaronson.blog/?p=9851)
 * [2026-06-22, 15:21:04](https://news.ycombinator.com/item?id=48631450) - [Oxide computer 3D rack guided tour](https://explorer.oxide.computer/)
 * [2026-06-22, 15:00:04](https://news.ycombinator.com/item?id=48631119) - [The last Romans are still around](https://signoregalilei.com/2026/06/20/the-last-romans-are-still-around/)
-* [2026-06-22, 07:44:03](https://news.ycombinator.com/item?id=48627027) - [Doing a masters while working in Spain](https://jan-herlyn.com/blog/doing-a-masters-while-working/)
 * [2026-06-22, 01:59:18](https://news.ycombinator.com/item?id=48624723) - [Microbubbles in Medicine](https://worksinprogress.co/issue/microbubbles/)
+* [2026-06-21, 16:51:47](https://news.ycombinator.com/item?id=48620422) - [The disappearance of Japan's animators](https://economist.com/interactive/1843/2026/06/19/the-strange-disappearance-of-japans-animators)
 * [2026-06-21, 06:50:31](https://news.ycombinator.com/item?id=48616304) - [Show HN: Chess-Inspired Roguelike](https://princechazz.com)
 * [2026-06-20, 15:50:37](https://news.ycombinator.com/item?id=48610137) - [22-year-old Mozart's handwritten notebook unearthed in 'major discovery'](https://www.classicfm.com/composers/mozart/handwritten-notebook-discovered-major-paris/)
 
