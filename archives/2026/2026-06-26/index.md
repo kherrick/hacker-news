@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-26](index.md)
 
+* [2026-06-26, 15:35:23](https://news.ycombinator.com/item?id=48687903) - [The Exhaustion of Talking to a Tool](https://ohadravid.github.io/posts/2026-06-tool-talking/)
+* [2026-06-26, 15:04:36](https://news.ycombinator.com/item?id=48687508) - [Mullvad founder gave millions to extremist far right party](https://mastodon.social/@raphaelrobert/116816274242387568)
 * [2026-06-26, 15:02:43](https://news.ycombinator.com/item?id=48687483) - [The AI industry is pouring millions into US elections](https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds)
 * [2026-06-26, 14:46:00](https://news.ycombinator.com/item?id=48687272) - [Jolla Phone, Over 13 500 units sold](https://commerce.jolla.com/products/jolla-phone-october-2026)
 * [2026-06-26, 14:10:26](https://news.ycombinator.com/item?id=48686834) - [Why have papers by one of history's most famous physicists been retracted?](https://www.science.org/content/article/why-have-papers-one-history-s-most-famous-physicists-been-retracted)
