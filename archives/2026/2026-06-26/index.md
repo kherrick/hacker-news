@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-06-26](index.md)
 
+* [2026-06-26, 14:10:26](https://news.ycombinator.com/item?id=48686834) - [Why have papers by one of history's most famous physicists been retracted?](https://www.science.org/content/article/why-have-papers-one-history-s-most-famous-physicists-been-retracted)
+* [2026-06-26, 13:12:04](https://news.ycombinator.com/item?id=48686219) - [The AI backlash is only getting started](https://www.economist.com/leaders/2026/06/25/the-ai-backlash-is-only-getting-started)
+* [2026-06-26, 12:58:07](https://news.ycombinator.com/item?id=48686093) - [Incident CVE-2026-LGTM](https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html)
 * [2026-06-26, 12:51:10](https://news.ycombinator.com/item?id=48686050) - [Google hallucinated that I am sponsored by Ground News](https://www.youtube.com/post/UgkxsAIUDMQTYc15yQqURsGy0Kg7O1x2TtnB)
 * [2026-06-26, 12:06:17](https://news.ycombinator.com/item?id=48685677) - [Captcha proves you're human. HATCHA proves you're not](https://github.com/mondaycom/HATCHA)
+* [2026-06-26, 11:51:11](https://news.ycombinator.com/item?id=48685558) - [Ultrasound Imaging of the Brain](https://alephneuro.com/blog/ultrasound-brain)
 * [2026-06-26, 07:44:11](https://news.ycombinator.com/item?id=48683588) - [Why current LLM costs are not sustainable](https://aditya.patadia.org/p/ai-and-cloud-costs)
 * [2026-06-26, 06:27:25](https://news.ycombinator.com/item?id=48683041) - [Micron locks in historically high memory prices for five years](https://www.theregister.com/systems/2026/06/25/micron-locks-in-historically-high-memory-prices-for-five-years/5261854)
 * [2026-06-26, 06:24:39](https://news.ycombinator.com/item?id=48683021) - [US Govt to individually approve who gets GPT 5.6](https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56/)
