@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-06-26, 19:59:32",
-      "https://news.ycombinator.com/item?id=48691255"
-    ],
-    [
-      "Israel Asked Facebook to Censor Iran War Content, Internal Documents Show",
-      "https://theintercept.com/2026/06/18/israel-facebook-censor-content-moderation-iran-war/"
-    ]
-  ],
-  [
-    [
       "2026-06-26, 18:32:22",
       "https://news.ycombinator.com/item?id=48690231"
     ],
@@ -21,32 +11,22 @@
   ],
   [
     [
-      "2026-06-26, 18:30:11",
-      "https://news.ycombinator.com/item?id=48690200"
-    ],
-    [
-      "Slisp: Simple Lisp compiler (Linux/amd64)",
-      "https://github.com/skx/slisp"
-    ]
-  ],
-  [
-    [
-      "2026-06-26, 18:25:15",
-      "https://news.ycombinator.com/item?id=48690130"
-    ],
-    [
-      "Made a Rust DB run spatial queries on gaming GPU RT cores, beating an H100",
-      "https://sedona.apache.org/latest/blog/2026/06/26/sedonadb-04-gpu-accelerated-spatial-joins/"
-    ]
-  ],
-  [
-    [
       "2026-06-26, 18:23:14",
       "https://news.ycombinator.com/item?id=48690101"
     ],
     [
       "U.S. government will decide who gets to use GPT-5.6",
       "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/"
+    ]
+  ],
+  [
+    [
+      "2026-06-26, 18:04:05",
+      "https://news.ycombinator.com/item?id=48689859"
+    ],
+    [
+      "Pre-Modern Armies for Worldbuilders, Part III: Paying for It",
+      "https://acoup.blog/2026/06/26/collections-pre-modern-armies-for-worldbuilders-part-iii-paying-for-it/"
     ]
   ],
   [
@@ -201,6 +181,16 @@
   ],
   [
     [
+      "2026-06-25, 15:48:07",
+      "https://news.ycombinator.com/item?id=48675179"
+    ],
+    [
+      "An entire Herculaneum scroll has been read for the first time",
+      "https://scrollprize.org/firstscroll"
+    ]
+  ],
+  [
+    [
       "2026-06-24, 08:46:16",
       "https://news.ycombinator.com/item?id=48656986"
     ],
@@ -277,6 +267,16 @@
     [
       "Bipartite Matching Is in NC",
       "https://scottaaronson.blog/?p=9851"
+    ]
+  ],
+  [
+    [
+      "2026-06-22, 07:44:03",
+      "https://news.ycombinator.com/item?id=48627027"
+    ],
+    [
+      "Doing a masters while working in Spain",
+      "https://jan-herlyn.com/blog/doing-a-masters-while-working/"
     ]
   ],
   [
