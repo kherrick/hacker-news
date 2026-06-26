@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-23](index.md)
 
+* [2026-06-23, 23:57:41](https://news.ycombinator.com/item?id=48653338) - [FEXPRs vs. vtable: how LispE interpreter works](https://github.com/naver/lispe/wiki/2.7-FEXPR-vs.-vtable)
 * [2026-06-23, 23:42:46](https://news.ycombinator.com/item?id=48653216) - [Vulnerability reports are not special anymore](https://words.filippo.io/vuln-reports/)
 * [2026-06-23, 23:29:11](https://news.ycombinator.com/item?id=48653092) - [Let's say you're hungry for a sandwich](https://beige.party/@Lana/116795397010653803)
 * [2026-06-23, 23:26:43](https://news.ycombinator.com/item?id=48653060) - [Extreme Heat conference cancelled due to extreme heat warning](https://www.lse.ac.uk/granthaminstitute/events/extreme-heat-improving-governance-and-strengthening-action-around-the-world/)

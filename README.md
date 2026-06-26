@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-06-26, 12:51:10](https://news.ycombinator.com/item?id=48686050) - [Google hallucinated that I am sponsored by Ground News](https://www.youtube.com/post/UgkxsAIUDMQTYc15yQqURsGy0Kg7O1x2TtnB)
 * [2026-06-26, 12:06:17](https://news.ycombinator.com/item?id=48685677) - [Captcha proves you're human. HATCHA proves you're not](https://github.com/mondaycom/HATCHA)
-* [2026-06-26, 05:40:36](https://news.ycombinator.com/item?id=48682737) - [We All Depend on Open Source. We Will Defend It Together](https://akrites.org/letter/)
+* [2026-06-26, 05:40:36](https://news.ycombinator.com/item?id=48682737) - [We all depend on open source. We will defend it together](https://akrites.org/letter/)
 * [2026-06-26, 03:12:42](https://news.ycombinator.com/item?id=48681949) - [Libre Barcode Project](https://graphicore.github.io/librebarcode/)
 * [2026-06-26, 02:29:23](https://news.ycombinator.com/item?id=48681687) - [What happened after 2k people tried to hack my AI assistant](https://www.fernandoi.cl/posts/hackmyclaw/)
 * [2026-06-26, 01:10:52](https://news.ycombinator.com/item?id=48681220) - [Framework's 10G Ethernet module exposes USB-C's complexity](https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/)
@@ -21,6 +20,7 @@
 * [2026-06-25, 13:02:56](https://news.ycombinator.com/item?id=48672732) - [Apple raises prices of MacBooks, iPads](https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/)
 * [2026-06-25, 12:23:05](https://news.ycombinator.com/item?id=48672328) - [Hey Nico, you didn't vibe code your data room but stole it from Papermark](https://twitter.com/mfts0/status/2070080422482977095)
 * [2026-06-24, 08:46:16](https://news.ycombinator.com/item?id=48656986) - [Show HN: WebBase-III – dBASE III rebuilt in the browser with its own interpreter](https://github.com/DDecoene/WebBaseIII)
+* [2026-06-23, 23:57:41](https://news.ycombinator.com/item?id=48653338) - [FEXPRs vs. vtable: how LispE interpreter works](https://github.com/naver/lispe/wiki/2.7-FEXPR-vs.-vtable)
 * [2026-06-23, 13:04:38](https://news.ycombinator.com/item?id=48644383) - [Record type inference for dummies](http://haskellforall.com/2026/06/record-type-inference-for-dummies)
 * [2026-06-23, 09:35:26](https://news.ycombinator.com/item?id=48642474) - [A game where you're an OS and have to manage processes, memory and I/O events](https://github.com/plbrault/youre-the-os)
 * [2026-06-22, 22:43:48](https://news.ycombinator.com/item?id=48637433) - [Bipartite Matching Is in NC](https://scottaaronson.blog/?p=9851)
