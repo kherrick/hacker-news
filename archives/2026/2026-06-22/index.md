@@ -6,6 +6,7 @@
 
 * [2026-06-22, 23:44:59](https://news.ycombinator.com/item?id=48638120) - [The annotated PyTorch training loop](https://idlemachines.co.uk/essays/pytorch-training-loop)
 * [2026-06-22, 23:20:53](https://news.ycombinator.com/item?id=48637868) - [Why eval startups fail (2025)](https://thomasliao.com/eval-startups)
+* [2026-06-22, 22:43:48](https://news.ycombinator.com/item?id=48637433) - [Bipartite Matching Is in NC](https://scottaaronson.blog/?p=9851)
 * [2026-06-22, 22:11:13](https://news.ycombinator.com/item?id=48636982) - [The anxiety of the perfect loaf: the illusion of culinary precision](https://iza.ac/posts/2026/06/intuitive-cooking/)
 * [2026-06-22, 21:52:54](https://news.ycombinator.com/item?id=48636753) - [Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub](https://github.com/BohemiaInteractive/CWR)
 * [2026-06-22, 21:21:08](https://news.ycombinator.com/item?id=48636380) - [ytr: YouTube Radio for Emacs](https://xenodium.com/ytr-youtube-radio-for-emacs)

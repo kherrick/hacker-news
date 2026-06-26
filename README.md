@@ -23,7 +23,7 @@
 * [2026-06-23, 17:45:20](https://news.ycombinator.com/item?id=48648550) - [My Steam Machine Is a 50ft HDMI Cable](https://blog.matthewbrunelle.com/my-steam-machine-is-a-50ft-hdmi-cable/)
 * [2026-06-23, 13:04:38](https://news.ycombinator.com/item?id=48644383) - [Record type inference for dummies](http://haskellforall.com/2026/06/record-type-inference-for-dummies)
 * [2026-06-23, 09:35:26](https://news.ycombinator.com/item?id=48642474) - [A game where you're an OS and have to manage processes, memory and I/O events](https://github.com/plbrault/youre-the-os)
-* [2026-06-23, 00:53:58](https://news.ycombinator.com/item?id=48638710) - [Eyewitness at the Triangle (1911)](http://trianglefire.ilr.cornell.edu/index.html)
+* [2026-06-22, 22:43:48](https://news.ycombinator.com/item?id=48637433) - [Bipartite Matching Is in NC](https://scottaaronson.blog/?p=9851)
 * [2026-06-22, 15:21:04](https://news.ycombinator.com/item?id=48631450) - [Oxide computer 3D rack guided tour](https://explorer.oxide.computer/)
 * [2026-06-22, 15:00:04](https://news.ycombinator.com/item?id=48631119) - [The last Romans are still around](https://signoregalilei.com/2026/06/20/the-last-romans-are-still-around/)
 * [2026-06-22, 07:44:03](https://news.ycombinator.com/item?id=48627027) - [Doing a masters while working in Spain](https://jan-herlyn.com/blog/doing-a-masters-while-working/)
