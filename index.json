@@ -1,12 +1,72 @@
 [
   [
     [
+      "2026-06-26, 21:18:28",
+      "https://news.ycombinator.com/item?id=48692090"
+    ],
+    [
+      "A C++ implementation of a fast hash map and hash set using hopscotch hashing",
+      "https://github.com/Tessil/hopscotch-map"
+    ]
+  ],
+  [
+    [
+      "2026-06-26, 21:14:47",
+      "https://news.ycombinator.com/item?id=48692058"
+    ],
+    [
+      "Prediction: A Frontier open-source LLM Will Be Released On 3rd December 2026",
+      "https://blog.doubleword.ai/frontier-os-llm"
+    ]
+  ],
+  [
+    [
+      "2026-06-26, 21:00:50",
+      "https://news.ycombinator.com/item?id=48691893"
+    ],
+    [
+      "Hightouch (YC S19) Is Hiring",
+      "https://hightouch.com/careers#open-positions"
+    ]
+  ],
+  [
+    [
+      "2026-06-26, 20:07:18",
+      "https://news.ycombinator.com/item?id=48691346"
+    ],
+    [
+      "PlayStation Is Deleting 551 Movies from Customers' Accounts",
+      "https://kotaku.com/playstation-store-movies-digital-studio-canal-terminator-2000711013"
+    ]
+  ],
+  [
+    [
+      "2026-06-26, 19:12:20",
+      "https://news.ycombinator.com/item?id=48690709"
+    ],
+    [
+      "Long Wave radio era set to end with Droitwich switch-off",
+      "https://www.bbc.com/news/articles/c74yn7v7k4qo"
+    ]
+  ],
+  [
+    [
       "2026-06-26, 18:32:22",
       "https://news.ycombinator.com/item?id=48690231"
     ],
     [
       "Gossamer: a Rust-flavoured language with real goroutines and pause-free memory",
       "https://gossamer-lang.org/"
+    ]
+  ],
+  [
+    [
+      "2026-06-26, 18:30:11",
+      "https://news.ycombinator.com/item?id=48690200"
+    ],
+    [
+      "Slisp: Simple Lisp compiler (Linux/amd64)",
+      "https://github.com/skx/slisp"
     ]
   ],
   [
@@ -57,16 +117,6 @@
     [
       "Previewing GPT‑5.6 Sol: a next-generation model",
       "https://openai.com/index/previewing-gpt-5-6-sol/"
-    ]
-  ],
-  [
-    [
-      "2026-06-26, 17:00:43",
-      "https://news.ycombinator.com/item?id=48688961"
-    ],
-    [
-      "Liva AI (YC S25) Is Hiring",
-      "https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead"
     ]
   ],
   [
@@ -151,42 +201,12 @@
   ],
   [
     [
-      "2026-06-26, 01:10:52",
-      "https://news.ycombinator.com/item?id=48681220"
+      "2026-06-24, 14:29:17",
+      "https://news.ycombinator.com/item?id=48660522"
     ],
     [
-      "Framework's 10G Ethernet module exposes USB-C's complexity",
-      "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/"
-    ]
-  ],
-  [
-    [
-      "2026-06-25, 21:44:55",
-      "https://news.ycombinator.com/item?id=48679608"
-    ],
-    [
-      "The 'papers, please' era of the internet will decimate your privacy",
-      "https://expression.fire.org/p/the-papers-please-era-of-the-internet"
-    ]
-  ],
-  [
-    [
-      "2026-06-25, 20:33:37",
-      "https://news.ycombinator.com/item?id=48678852"
-    ],
-    [
-      "Om Malik has died",
-      "https://om.co/2026/06/24/1966-2026/"
-    ]
-  ],
-  [
-    [
-      "2026-06-25, 15:48:07",
-      "https://news.ycombinator.com/item?id=48675179"
-    ],
-    [
-      "An entire Herculaneum scroll has been read for the first time",
-      "https://scrollprize.org/firstscroll"
+      "A human postmortem of the 1996 AOL outage",
+      "https://ngrok.com/blog/aol-was-down-1996"
     ]
   ],
   [
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2026-06-23, 09:35:26",
-      "https://news.ycombinator.com/item?id=48642474"
-    ],
-    [
-      "A game where you're an OS and have to manage processes, memory and I/O events",
-      "https://github.com/plbrault/youre-the-os"
-    ]
-  ],
-  [
-    [
       "2026-06-22, 22:43:48",
       "https://news.ycombinator.com/item?id=48637433"
     ],
     [
       "Bipartite Matching Is in NC",
       "https://scottaaronson.blog/?p=9851"
-    ]
-  ],
-  [
-    [
-      "2026-06-22, 07:44:03",
-      "https://news.ycombinator.com/item?id=48627027"
-    ],
-    [
-      "Doing a masters while working in Spain",
-      "https://jan-herlyn.com/blog/doing-a-masters-while-working/"
     ]
   ],
   [
