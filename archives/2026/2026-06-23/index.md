@@ -40,6 +40,7 @@
 * [2026-06-23, 16:30:18](https://news.ycombinator.com/item?id=48647486) - [The worthlessness of Vitamin D is mildly exaggerated](https://dynomight.net/vitamin-d/)
 * [2026-06-23, 16:27:49](https://news.ycombinator.com/item?id=48647444) - [Digital euro clears key hurdle as EU seeks to break free from U.S. credit cards](https://finance.yahoo.com/markets/currencies/articles/ecb-secures-key-parliamentary-backing-102718449.html)
 * [2026-06-23, 16:21:49](https://news.ycombinator.com/item?id=48647360) - [Pact: Anonymous Credentials for the Web](https://hacks.mozilla.org/2026/06/pact-anonymous-credentials-for-the-web/)
+* [2026-06-23, 16:01:23](https://news.ycombinator.com/item?id=48647099) - [What is the mechanical world picture?](http://edwardfeser.blogspot.com/2026/06/what-is-mechanical-world-picture.html)
 * [2026-06-23, 15:31:21](https://news.ycombinator.com/item?id=48646659) - [Krea 2 Technical Report](https://www.krea.ai/blog/krea-2-technical-report)
 * [2026-06-23, 15:22:41](https://news.ycombinator.com/item?id=48646511) - [Show HN: The Cascade Graph – An interactive map of AI and energy constraints](https://atomprophet.io/tools/cascade/)
 * [2026-06-23, 15:11:17](https://news.ycombinator.com/item?id=48646276) - [AI's Affordability Crisis](https://blog.dshr.org/2026/06/ais-affordability-crisis.html)

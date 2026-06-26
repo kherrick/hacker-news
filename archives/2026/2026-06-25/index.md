@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-25](index.md)
 
+* [2026-06-25, 23:53:33](https://news.ycombinator.com/item?id=48680727) - [Om Malik – Silicon Valley Has an Empathy Vacuum (Nov 2016)](https://www.newyorker.com/business/currency/silicon-valley-has-an-empathy-vacuum)
+* [2026-06-25, 23:10:30](https://news.ycombinator.com/item?id=48680370) - [The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed)](https://gchandbook.org/)
 * [2026-06-25, 22:19:12](https://news.ycombinator.com/item?id=48679952) - [Om Malik taught Silicon Valley to read itself](https://runtimewire.com/article/om-malik-taught-silicon-valley-to-read-itself)
 * [2026-06-25, 22:16:55](https://news.ycombinator.com/item?id=48679934) - [Military branches restore flu shot requirement after virus swept through base](https://arstechnica.com/health/2026/06/military-branches-restore-flu-shot-requirement-after-virus-swept-through-base/)
 * [2026-06-25, 21:44:55](https://news.ycombinator.com/item?id=48679608) - [The 'papers, please' era of the internet will decimate your privacy](https://expression.fire.org/p/the-papers-please-era-of-the-internet)
