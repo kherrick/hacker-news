@@ -43,6 +43,7 @@
 * [2026-06-21, 14:12:48](https://news.ycombinator.com/item?id=48619159) - [Crawling BitTorrent DHTs for Fun and Profit [pdf]](https://www.usenix.org/legacy/event/woot10/tech/full_papers/Wolchok.pdf)
 * [2026-06-21, 14:09:07](https://news.ycombinator.com/item?id=48619140) - [Who Owns Your ATProto Identity? Hint: It's Probably Not You](https://kevinak.se/blog/who-actually-owns-your-atproto-identity-hint-its-probably-not-you)
 * [2026-06-21, 14:07:11](https://news.ycombinator.com/item?id=48619125) - [8086 Segmented Memory was a good idea](https://owl.billpg.com/8086-segmented-memory-was-a-good-idea-almost/)
+* [2026-06-21, 14:06:51](https://news.ycombinator.com/item?id=48619122) - [Experiments in Sports Seismology for the World Cup](https://pnsn.org/blog/experiments-in-sports-seismology-for-the-world-cup)
 * [2026-06-21, 13:51:31](https://news.ycombinator.com/item?id=48619005) - [AI Under Trump's Control: Can France Still Avoid Digital Dependence?](https://thenewassociationwebmasters.blogspot.com/2026/06/ai-under-american-control-can-france.html)
 * [2026-06-21, 12:57:10](https://news.ycombinator.com/item?id=48618555) - [Robotics Teams Are Rebuilding the Data Stack from Scratch](https://rerun.io/blog/data-layer-tax)
 * [2026-06-21, 12:55:08](https://news.ycombinator.com/item?id=48618536) - [I was wrong about the Midjourney ultra-sound scanner](https://twitter.com/MattZirwas/status/2068365802491834541)
