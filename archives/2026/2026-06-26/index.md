@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-06-26](index.md)
 
+* [2026-06-26, 17:00:43](https://news.ycombinator.com/item?id=48688961) - [Liva AI (YC S25) Is Hiring](https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead)
+* [2026-06-26, 16:40:11](https://news.ycombinator.com/item?id=48688700) - [Show HN: Smart model routing directly in Claude, Codex and Cursor](https://github.com/workweave/router)
 * [2026-06-26, 15:35:23](https://news.ycombinator.com/item?id=48687903) - [The Exhaustion of Talking to a Tool](https://ohadravid.github.io/posts/2026-06-tool-talking/)
 * [2026-06-26, 15:04:36](https://news.ycombinator.com/item?id=48687508) - [Mullvad founder gave millions to extremist far right party](https://mastodon.social/@raphaelrobert/116816274242387568)
 * [2026-06-26, 15:02:43](https://news.ycombinator.com/item?id=48687483) - [The AI industry is pouring millions into US elections](https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds)
 * [2026-06-26, 14:46:00](https://news.ycombinator.com/item?id=48687272) - [Jolla Phone, Over 13 500 units sold](https://commerce.jolla.com/products/jolla-phone-october-2026)
 * [2026-06-26, 14:10:26](https://news.ycombinator.com/item?id=48686834) - [Why have papers by one of history's most famous physicists been retracted?](https://www.science.org/content/article/why-have-papers-one-history-s-most-famous-physicists-been-retracted)
 * [2026-06-26, 13:12:04](https://news.ycombinator.com/item?id=48686219) - [The AI backlash is only getting started](https://www.economist.com/leaders/2026/06/25/the-ai-backlash-is-only-getting-started)
+* [2026-06-26, 13:07:05](https://news.ycombinator.com/item?id=48686167) - [Reading the news is the new smoking](https://www.experimental-history.com/p/reading-the-news-is-the-new-smoking)
 * [2026-06-26, 12:58:07](https://news.ycombinator.com/item?id=48686093) - [Incident CVE-2026-LGTM](https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html)
 * [2026-06-26, 12:51:10](https://news.ycombinator.com/item?id=48686050) - [Google hallucinated that I am sponsored by Ground News](https://www.youtube.com/post/UgkxsAIUDMQTYc15yQqURsGy0Kg7O1x2TtnB)
 * [2026-06-26, 12:06:17](https://news.ycombinator.com/item?id=48685677) - [Captcha proves you're human. HATCHA proves you're not](https://github.com/mondaycom/HATCHA)
