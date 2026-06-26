@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-26, 18:32:22",
+      "https://news.ycombinator.com/item?id=48690231"
+    ],
+    [
+      "Gossamer: a Rust-flavoured language with real goroutines and pause-free memory",
+      "https://gossamer-lang.org/"
+    ]
+  ],
+  [
+    [
       "2026-06-26, 18:23:14",
       "https://news.ycombinator.com/item?id=48690101"
     ],
@@ -17,16 +27,6 @@
     [
       "What Is a Nomogram and Why Would It Interest Me?",
       "https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me"
-    ]
-  ],
-  [
-    [
-      "2026-06-26, 17:24:21",
-      "https://news.ycombinator.com/item?id=48689275"
-    ],
-    [
-      "'Cost Me the Election': Data Centers Trigger Voter Backlash",
-      "https://www.newsweek.com/cost-me-the-election-data-centers-trigger-voter-backlash-12118327"
     ]
   ],
   [
@@ -67,16 +67,6 @@
     [
       "What is a Lithium-ion capacitor?",
       "https://www.jtekt.co.jp/e/products/capacitor/capacitor_about.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-26, 15:24:40",
-      "https://news.ycombinator.com/item?id=48687769"
-    ],
-    [
-      "Ask HN: Is \"no source code was copied\" still a sufficient copyright defense?",
-      "https://news.ycombinator.com/item?id=48687769"
     ]
   ],
   [
@@ -201,22 +191,22 @@
   ],
   [
     [
+      "2026-06-25, 15:33:37",
+      "https://news.ycombinator.com/item?id=48674967"
+    ],
+    [
+      "IBM debuts sub-1 nanometer chip technology",
+      "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology"
+    ]
+  ],
+  [
+    [
       "2026-06-24, 08:46:16",
       "https://news.ycombinator.com/item?id=48656986"
     ],
     [
       "Show HN: WebBase-III – dBASE III rebuilt in the browser with its own interpreter",
       "https://github.com/DDecoene/WebBaseIII"
-    ]
-  ],
-  [
-    [
-      "2026-06-23, 23:57:41",
-      "https://news.ycombinator.com/item?id=48653338"
-    ],
-    [
-      "FEXPRs vs. vtable: how LispE interpreter works",
-      "https://github.com/naver/lispe/wiki/2.7-FEXPR-vs.-vtable"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "A US military exercise to launch a satellite on short notice",
       "https://arstechnica.com/space/2026/06/a-us-military-exercise-in-space-got-underway-with-barely-anyone-noticing/"
+    ]
+  ],
+  [
+    [
+      "2026-06-23, 12:45:09",
+      "https://news.ycombinator.com/item?id=48644111"
+    ],
+    [
+      "The \"Bizarre Headgear\" Exhibit at the Sam Noble Museum Is Incredible",
+      "https://svpow.com/2026/05/15/the-bizarre-headgear-exhibit-at-the-sam-noble-museum-is-incredible/"
     ]
   ],
   [
