@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-27](index.md)
 
+* [2026-06-27, 09:18:52](https://news.ycombinator.com/item?id=48696585) - [DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]](https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf)
 * [2026-06-27, 06:22:45](https://news.ycombinator.com/item?id=48695694) - [Is America Becoming a Gerontocracy?](https://www.economist.com/culture/2026/06/25/is-america-becoming-a-gerontocracy)
 * [2026-06-27, 05:17:08](https://news.ycombinator.com/item?id=48695363) - [IBM MCGA Gate Array Reverse Engineering](https://github.com/schlae/IBM_MCGA)
 * [2026-06-27, 04:31:06](https://news.ycombinator.com/item?id=48695149) - [OpenTTD 16.0-Beta1](https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1)

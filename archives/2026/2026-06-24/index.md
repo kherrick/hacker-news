@@ -7,6 +7,7 @@
 * [2026-06-24, 23:46:37](https://news.ycombinator.com/item?id=48666927) - [Blogging Can Just Be Stating the Obvious](https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/)
 * [2026-06-24, 22:39:37](https://news.ycombinator.com/item?id=48666433) - [PostgreSQL Is Enough](https://gist.github.com/cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb)
 * [2026-06-24, 21:57:30](https://news.ycombinator.com/item?id=48666100) - [Elastic lays off 7% of employees](https://www.elastic.co/blog/ceo-ash-kulkarni-announcement-to-elastic-employees)
+* [2026-06-24, 21:09:07](https://news.ycombinator.com/item?id=48665671) - [Jest/Vitest interactive course (runs in the browser)](https://howtotestfrontend.com/courses/jest-vitest-fundamentals)
 * [2026-06-24, 20:20:33](https://news.ycombinator.com/item?id=48665130) - [Zero-Downtime Deployments with Docker Compose – No Kubernetes Required](https://statusdude.com/blog/zero-downtime-docker-compose)
 * [2026-06-24, 20:17:33](https://news.ycombinator.com/item?id=48665093) - [52-hertz whale](https://en.wikipedia.org/wiki/52-hertz_whale)
 * [2026-06-24, 19:48:01](https://news.ycombinator.com/item?id=48664814) - [Anthropic says Alibaba illicitly extracted Claude AI model capabilities](https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/)

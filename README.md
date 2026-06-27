@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-06-27, 06:22:45](https://news.ycombinator.com/item?id=48695694) - [Is America becoming a gerontocracy?](https://www.economist.com/culture/2026/06/25/is-america-becoming-a-gerontocracy)
+* [2026-06-27, 09:18:52](https://news.ycombinator.com/item?id=48696585) - [DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]](https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf)
 * [2026-06-27, 05:17:08](https://news.ycombinator.com/item?id=48695363) - [IBM MCGA Gate Array Reverse Engineering](https://github.com/schlae/IBM_MCGA)
 * [2026-06-27, 04:31:06](https://news.ycombinator.com/item?id=48695149) - [OpenTTD 16.0-Beta1](https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1)
 * [2026-06-27, 03:30:01](https://news.ycombinator.com/item?id=48694853) - [WordStar: A Writer's Word Processor (1996)](https://www.sfwriter.com/wordstar.htm)
@@ -24,10 +24,10 @@
 * [2026-06-26, 04:13:28](https://news.ycombinator.com/item?id=48682243) - [Faster KNN search in Manticore: 2-pass HNSW, batched distances, and AVX-512](https://medium.com/@s_nikolaev/faster-knn-search-in-manticore-2-pass-hnsw-batched-distances-and-avx-512-b85604647aab)
 * [2026-06-25, 18:42:17](https://news.ycombinator.com/item?id=48677564) - [Long Wave radio era set to end with switch-off](https://www.economist.com/britain/2026/06/25/the-bbc-switches-off-its-oldest-service)
 * [2026-06-25, 04:06:29](https://news.ycombinator.com/item?id=48668747) - [Linux on Older Hardware: The Complete Revival Guide](https://www.fosslinux.com/158206/linux-on-older-hardware-revival-guide.htm)
+* [2026-06-24, 21:09:07](https://news.ycombinator.com/item?id=48665671) - [Jest/Vitest interactive course (runs in the browser)](https://howtotestfrontend.com/courses/jest-vitest-fundamentals)
 * [2026-06-24, 17:20:48](https://news.ycombinator.com/item?id=48662988) - [Show HN: DBOSify – Drop-in Temporal replacement built on Postgres](https://github.com/dbos-inc/dbosify-py)
 * [2026-06-24, 11:27:07](https://news.ycombinator.com/item?id=48658148) - [Fusion Programming Language](https://fusion-lang.org/)
 * [2026-06-24, 08:46:04](https://news.ycombinator.com/item?id=48656982) - [SCC Technical Assistance Program](https://nerocam.com/scc_tap.asp)
-* [2026-06-23, 12:00:13](https://news.ycombinator.com/item?id=48643661) - [Making Sense of Proof by Contradiction [pdf]](https://www.foster77.co.uk/Foster,%20Scottish%20Mathematical%20Council%20Journal,%20Making%20sense%20of%20proof%20by%20contradiction.pdf)
 * [2026-06-23, 09:39:35](https://news.ycombinator.com/item?id=48642510) - [MicroVMs: Run isolated sandboxes with full lifecycle control](https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/)
 * [2026-06-22, 18:17:20](https://news.ycombinator.com/item?id=48633839) - [Hellishly Slow Level 13 Deflate Compression](https://kirill.korins.ky/articles/hellishly-slow-level-13-deflate-compression/)
 
