@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-27](index.md)
 
+* [2026-06-27, 12:43:16](https://news.ycombinator.com/item?id=48697768) - [Streaming services' obnoxiously loud ads become illegal on July 1 in California](https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/)
 * [2026-06-27, 12:10:27](https://news.ycombinator.com/item?id=48697560) - [OpenRA](https://www.openra.net/)
 * [2026-06-27, 12:01:03](https://news.ycombinator.com/item?id=48697504) - [Nox Metals (YC S25) Is Hiring SWE](https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer)
 * [2026-06-27, 11:32:10](https://news.ycombinator.com/item?id=48697335) - [If You Can't Hold It, You Don't Own It](https://dervis.de/physical/)

@@ -54,6 +54,7 @@
 * [2026-06-23, 15:05:00](https://news.ycombinator.com/item?id=48646165) - [Show HN: peerd – AI agent harness that runs entirely in your browser](https://github.com/NotASithLord/peerd)
 * [2026-06-23, 15:00:02](https://news.ycombinator.com/item?id=48646077) - [Markdy: Like Mermaid Diagrams, but for Motion](https://markdy.com)
 * [2026-06-23, 14:40:17](https://news.ycombinator.com/item?id=48645721) - [Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild](https://lift4d.github.io/)
+* [2026-06-23, 14:28:20](https://news.ycombinator.com/item?id=48645510) - [Task Failed Successfully: Saturating NIC and Disk Bandwidth](https://blog.mrcroxx.com/posts/task-failed-successfully-saturating-nic-and-disk-bandwidth/)
 * [2026-06-23, 14:24:21](https://news.ycombinator.com/item?id=48645437) - [Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX](https://tikz.dev/editor/)
 * [2026-06-23, 14:20:24](https://news.ycombinator.com/item?id=48645390) - [Show HN: Bun-sqlgen – Type-safe raw SQL for Bun, no ORM](https://github.com/ilbertt/bun-sqlgen)
 * [2026-06-23, 14:19:47](https://news.ycombinator.com/item?id=48645386) - [Elevated error rate across multiple models](https://status.claude.com/incidents/jbhf20wjmzrf)
