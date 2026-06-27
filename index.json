@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-27, 12:43:16",
+      "https://news.ycombinator.com/item?id=48697768"
+    ],
+    [
+      "Streaming services' obnoxiously loud ads become illegal on July 1 in California",
+      "https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/"
+    ]
+  ],
+  [
+    [
       "2026-06-27, 12:10:27",
       "https://news.ycombinator.com/item?id=48697560"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=48697335"
     ],
     [
-      "If You Can't Hold It, You Don't Own It",
+      "If you can't hold it, you don't own it",
       "https://dervis.de/physical/"
     ]
   ],
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=48696585"
     ],
     [
-      "DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]",
+      "DSpark: Speculative decoding accelerates LLM inference [pdf]",
       "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf"
     ]
   ],
@@ -115,18 +125,8 @@
       "https://news.ycombinator.com/item?id=48693420"
     ],
     [
-      "Foreign funds help make housing unaffordable: research",
+      "International investment and local rules push prices up faster than supply",
       "https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/"
-    ]
-  ],
-  [
-    [
-      "2026-06-26, 23:33:46",
-      "https://news.ycombinator.com/item?id=48693391"
-    ],
-    [
-      "Om",
-      "https://daringfireball.net/2026/06/om"
     ]
   ],
   [
@@ -167,16 +167,6 @@
     [
       "The gap between open weights LLMs and closed source LLMs",
       "https://blog.doubleword.ai/frontier-os-llm"
-    ]
-  ],
-  [
-    [
-      "2026-06-26, 21:13:50",
-      "https://news.ycombinator.com/item?id=48692051"
-    ],
-    [
-      "We can still stop California's 3D printer surveillance scheme",
-      "https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Fusion Programming Language",
       "https://fusion-lang.org/"
+    ]
+  ],
+  [
+    [
+      "2026-06-23, 14:28:20",
+      "https://news.ycombinator.com/item?id=48645510"
+    ],
+    [
+      "Task Failed Successfully: Saturating NIC and Disk Bandwidth",
+      "https://blog.mrcroxx.com/posts/task-failed-successfully-saturating-nic-and-disk-bandwidth/"
     ]
   ],
   [
