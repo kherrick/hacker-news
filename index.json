@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-27, 05:17:08",
+      "https://news.ycombinator.com/item?id=48695363"
+    ],
+    [
+      "IBM MCGA Gate Array Reverse Engineering",
+      "https://github.com/schlae/IBM_MCGA"
+    ]
+  ],
+  [
+    [
+      "2026-06-27, 04:31:06",
+      "https://news.ycombinator.com/item?id=48695149"
+    ],
+    [
+      "OpenTTD 16.0-Beta1",
+      "https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1"
+    ]
+  ],
+  [
+    [
       "2026-06-27, 03:30:01",
       "https://news.ycombinator.com/item?id=48694853"
     ],
@@ -11,12 +31,12 @@
   ],
   [
     [
-      "2026-06-27, 03:17:43",
-      "https://news.ycombinator.com/item?id=48694802"
+      "2026-06-27, 02:41:53",
+      "https://news.ycombinator.com/item?id=48694631"
     ],
     [
-      "Ask HN: MacBook vs. Dedicated GPU for LLM",
-      "https://news.ycombinator.com/item?id=48694802"
+      "Anatomy of a Failed (Nation-State?) Attack",
+      "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/"
     ]
   ],
   [
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2026-06-26, 20:07:18",
-      "https://news.ycombinator.com/item?id=48691346"
-    ],
-    [
-      "PlayStation Is Deleting 551 Movies from Customers' Accounts",
-      "https://kotaku.com/playstation-store-movies-digital-studio-canal-terminator-2000711013"
-    ]
-  ],
-  [
-    [
       "2026-06-26, 19:12:20",
       "https://news.ycombinator.com/item?id=48690709"
     ],
@@ -201,22 +211,22 @@
   ],
   [
     [
-      "2026-06-25, 13:58:21",
-      "https://news.ycombinator.com/item?id=48673527"
-    ],
-    [
-      "Show HN: Autofit2 – End-to-end pipeline for multilingual text classification",
-      "https://github.com/neospe/autofit2"
-    ]
-  ],
-  [
-    [
       "2026-06-25, 13:32:12",
       "https://news.ycombinator.com/item?id=48673115"
     ],
     [
       "A Tiny Compiler for Data-Parallel Kernels",
       "https://healeycodes.com/a-tiny-compiler-for-data-parallel-kernels"
+    ]
+  ],
+  [
+    [
+      "2026-06-24, 19:23:38",
+      "https://news.ycombinator.com/item?id=48664556"
+    ],
+    [
+      "Show HN: Turn images into audio that can be decoded with a spectrogram",
+      "https://nsspot.herokuapp.com/imagetoaudio/"
     ]
   ],
   [
@@ -251,22 +261,12 @@
   ],
   [
     [
-      "2026-06-24, 11:17:33",
-      "https://news.ycombinator.com/item?id=48658069"
+      "2026-06-24, 08:46:04",
+      "https://news.ycombinator.com/item?id=48656982"
     ],
     [
-      "Kamod Hooks – a Preact hooks library ported from ahooks",
-      "https://kamod-ch.github.io/kamod-hooks/"
-    ]
-  ],
-  [
-    [
-      "2026-06-23, 12:45:09",
-      "https://news.ycombinator.com/item?id=48644111"
-    ],
-    [
-      "The \"Bizarre Headgear\" exhibit at the Sam Noble museum",
-      "https://svpow.com/2026/05/15/the-bizarre-headgear-exhibit-at-the-sam-noble-museum-is-incredible/"
+      "SCC Technical Assistance Program",
+      "https://nerocam.com/scc_tap.asp"
     ]
   ],
   [
