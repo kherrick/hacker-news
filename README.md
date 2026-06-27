@@ -1,12 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-06-27, 21:44:57](https://news.ycombinator.com/item?id=48702060) - [Michigan spent $1.8B and only created 602 jobs](https://www.msn.com/en-us/money/general/michigan-spent-1-8-billion-and-only-created-602-jobs/ar-AA26Cusu)
+* [2026-06-27, 21:34:06](https://news.ycombinator.com/item?id=48701984) - [GLP-1 drugs led to weight loss and reversed depression-like behavior in mice](https://www.psychologytoday.com/au/blog/mood-by-microbe/202606/what-ozempic-does-to-the-gut-brain-axis)
 * [2026-06-27, 21:14:19](https://news.ycombinator.com/item?id=48701822) - ['Careless People' author claims Meta surveilled her for 12mos to enforce silence](https://fortune.com/2026/06/26/meta-wynn-williams-surveillance-gag-order-lawsuit-2026/)
+* [2026-06-27, 21:07:38](https://news.ycombinator.com/item?id=48701766) - [Should European housing politics be Americanized?](https://worksinprogress.co/issue/should-european-housing-politics-be-americanized/)
 * [2026-06-27, 20:34:53](https://news.ycombinator.com/item?id=48701512) - [Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work](https://github.com/kageroumado/adrafinil)
-* [2026-06-27, 20:16:32](https://news.ycombinator.com/item?id=48701342) - [A Farmer Arrested for Going 5 Seconds over His Time Limit at Data Center Meeting](https://www.gadgetreview.com/arrest-him-the-moment-police-handcuffed-a-farmer-for-going-5-seconds-over-his-time-limit-at-data-center-meeting)
 * [2026-06-27, 19:09:49](https://news.ycombinator.com/item?id=48700834) - [IP Crawl: Living atlas of open webcams discovered on the public internet](https://ipcrawl.com/)
 * [2026-06-27, 17:11:20](https://news.ycombinator.com/item?id=48699928) - [Turn your site into a place people can bump into each other](https://cauenapier.com/blog/townsquare_release/)
 * [2026-06-27, 17:00:15](https://news.ycombinator.com/item?id=48699842) - [Supabase (YC S20) Is Hiring for Multigres](https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228)
-* [2026-06-27, 16:51:09](https://news.ycombinator.com/item?id=48699778) - [Screen time can damage under-twos' development, landmark study suggests](https://www.theguardian.com/society/2026/jun/27/screen-time-damage-under-twos-development-study)
 * [2026-06-27, 14:38:05](https://news.ycombinator.com/item?id=48698684) - [Zuckerberg's war on whistleblowers](https://pluralistic.net/2026/06/27/zuckerstreisand-2/)
 * [2026-06-27, 14:31:00](https://news.ycombinator.com/item?id=48698617) - [Anonymous GitHub account mass-dropping undisclosed 0-days](https://github.com/bikini/exploitarium)
 * [2026-06-27, 14:23:40](https://news.ycombinator.com/item?id=48698559) - [Post-Mythos Cybersecurity: Keep calm and carry on](https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/)
@@ -18,7 +19,6 @@
 * [2026-06-27, 11:32:10](https://news.ycombinator.com/item?id=48697335) - [The case for physical media ownership](https://dervis.de/physical/)
 * [2026-06-27, 10:28:53](https://news.ycombinator.com/item?id=48696982) - [Fintech Engineering Handbook](https://w.pitula.me/fintech-engineering-handbook/)
 * [2026-06-27, 09:18:52](https://news.ycombinator.com/item?id=48696585) - [DSpark: Speculative decoding accelerates LLM inference [pdf]](https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf)
-* [2026-06-27, 07:51:26](https://news.ycombinator.com/item?id=48696127) - [Researchers have developed pixels that can emit and analyse light together](https://ethz.ch/en/news-and-events/eth-news/news/2026/06/a-new-type-of-pixel.html)
 * [2026-06-26, 16:20:06](https://news.ycombinator.com/item?id=48688438) - [One man, two kernels, and a lot of RISC-V](https://www.theregister.com/software/2026/06/26/one-man-two-kernels-and-a-lot-of-risc-v/5262858)
 * [2026-06-25, 18:42:17](https://news.ycombinator.com/item?id=48677564) - [Long Wave radio era set to end with switch-off](https://www.economist.com/britain/2026/06/25/the-bbc-switches-off-its-oldest-service)
 * [2026-06-25, 14:45:17](https://news.ycombinator.com/item?id=48674244) - [A History of Menus Is a Menu of History](https://pudding.cool/2026/06/menu-story/)
@@ -29,7 +29,7 @@
 * [2026-06-24, 15:25:12](https://news.ycombinator.com/item?id=48661381) - [The eerie interface of man and machine (Life Magazine, October 1967)](https://blog.jgc.org/2026/06/the-eerie-interface-of-man-and-machine.html)
 * [2026-06-24, 14:24:03](https://news.ycombinator.com/item?id=48660441) - [Paradise Revisited: What Darwin Saw in the Galápagos](https://www.theatlantic.com/magazine/2026/08/writers-way-galapagos-charles-darwin-travel/687480/)
 * [2026-06-24, 14:02:16](https://news.ycombinator.com/item?id=48660021) - [AI learns the “dark art” of RFIC design](https://spectrum.ieee.org/ai-radio-chip-design)
-* [2026-06-23, 20:21:19](https://news.ycombinator.com/item?id=48650794) - [Underarm bowling incident of 1981](https://en.wikipedia.org/wiki/Underarm_bowling_incident_of_1981)
+* [2026-06-24, 13:31:10](https://news.ycombinator.com/item?id=48659517) - [How do you keep Web MIDI from crashing a 1983 synthesizer?](https://knob.monster/how-do-you-keep-web-midi-from-crashing-a-1983-synthesizer)
 
 ## [Archives](archives/index.md)
 

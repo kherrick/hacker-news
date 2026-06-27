@@ -45,6 +45,7 @@
 * [2026-06-24, 14:02:16](https://news.ycombinator.com/item?id=48660021) - [AI Is Designing Radio Chips That Humans Couldn't Even Imagine](https://spectrum.ieee.org/ai-radio-chip-design)
 * [2026-06-24, 13:57:56](https://news.ycombinator.com/item?id=48659937) - [Mark Zuckerberg wants Meta to launch its own prediction market](https://techcrunch.com/2026/06/23/mark-zuckerberg-wants-meta-to-launch-its-own-prediction-market/)
 * [2026-06-24, 13:49:16](https://news.ycombinator.com/item?id=48659798) - [Qualcomm to Acquire Modular](https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/)
+* [2026-06-24, 13:31:10](https://news.ycombinator.com/item?id=48659517) - [How do you keep Web MIDI from crashing a 1983 synthesizer?](https://knob.monster/how-do-you-keep-web-midi-from-crashing-a-1983-synthesizer)
 * [2026-06-24, 13:29:18](https://news.ycombinator.com/item?id=48659483) - [Show HN: LookAway, a Mac break reminder that knows when not to interrupt](https://lookaway.com)
 * [2026-06-24, 13:26:43](https://news.ycombinator.com/item?id=48659451) - [Slate EV truck starts at $24,950](https://www.slate.auto/en)
 * [2026-06-24, 13:14:39](https://news.ycombinator.com/item?id=48659257) - [OpenAI and Broadcom unveil LLM-optimized inference chip](https://openai.com/index/openai-broadcom-jalapeno-inference-chip/)
