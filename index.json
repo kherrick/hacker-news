@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-06-27, 03:30:01",
+      "https://news.ycombinator.com/item?id=48694853"
+    ],
+    [
+      "WordStar: A Writer's Word Processor (1996)",
+      "https://www.sfwriter.com/wordstar.htm"
+    ]
+  ],
+  [
+    [
+      "2026-06-27, 03:17:43",
+      "https://news.ycombinator.com/item?id=48694802"
+    ],
+    [
+      "Ask HN: MacBook vs. Dedicated GPU for LLM",
+      "https://news.ycombinator.com/item?id=48694802"
+    ]
+  ],
+  [
+    [
       "2026-06-27, 00:43:39",
       "https://news.ycombinator.com/item?id=48693912"
     ],
     [
-      "Show HN: Hacker News on a Train Station Style Flip Board",
+      "Show HN: Hacker News on a train station-style flip board",
       "https://popflame.quickish.space/hn-flipboard/"
+    ]
+  ],
+  [
+    [
+      "2026-06-26, 23:36:30",
+      "https://news.ycombinator.com/item?id=48693420"
+    ],
+    [
+      "Foreign funds help make housing unaffordable: research",
+      "https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/"
     ]
   ],
   [
@@ -25,8 +55,8 @@
       "https://news.ycombinator.com/item?id=48692995"
     ],
     [
-      "US allows Anthropic to release Mythos to 'trusted partners'",
-      "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/"
+      "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+      "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies"
     ]
   ],
   [
@@ -47,16 +77,6 @@
     [
       "AI in mathematics is forcing big questions",
       "https://spectrum.ieee.org/ai-in-mathematics"
-    ]
-  ],
-  [
-    [
-      "2026-06-26, 21:54:59",
-      "https://news.ycombinator.com/item?id=48692474"
-    ],
-    [
-      "The open source DOCX editor submitted to HN a few weeks ago has been deleted",
-      "https://news.ycombinator.com/item?id=48692474"
     ]
   ],
   [
@@ -117,16 +137,6 @@
     [
       "Long Wave radio era set to end with Droitwich switch-off",
       "https://www.bbc.com/news/articles/c74yn7v7k4qo"
-    ]
-  ],
-  [
-    [
-      "2026-06-26, 18:32:22",
-      "https://news.ycombinator.com/item?id=48690231"
-    ],
-    [
-      "Gossamer: a Rust-flavoured language with real goroutines and pause-free memory",
-      "https://gossamer-lang.org/"
     ]
   ],
   [
@@ -231,22 +241,22 @@
   ],
   [
     [
-      "2026-06-23, 20:04:33",
-      "https://news.ycombinator.com/item?id=48650550"
+      "2026-06-24, 11:27:07",
+      "https://news.ycombinator.com/item?id=48658148"
     ],
     [
-      "LaTeX.wasm: LaTeX Engines in Browsers",
-      "https://www.swiftlatex.com/"
+      "Fusion Programming Language",
+      "https://fusion-lang.org/"
     ]
   ],
   [
     [
-      "2026-06-23, 17:45:20",
-      "https://news.ycombinator.com/item?id=48648550"
+      "2026-06-24, 11:17:33",
+      "https://news.ycombinator.com/item?id=48658069"
     ],
     [
-      "My Steam Machine is a 50ft HDMI cable",
-      "https://blog.matthewbrunelle.com/my-steam-machine-is-a-50ft-hdmi-cable/"
+      "Kamod Hooks – a Preact hooks library ported from ahooks",
+      "https://kamod-ch.github.io/kamod-hooks/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Making Sense of Proof by Contradiction [pdf]",
       "https://www.foster77.co.uk/Foster,%20Scottish%20Mathematical%20Council%20Journal,%20Making%20sense%20of%20proof%20by%20contradiction.pdf"
-    ]
-  ],
-  [
-    [
-      "2026-06-23, 11:38:25",
-      "https://news.ycombinator.com/item?id=48643459"
-    ],
-    [
-      "Modern GPU Programming for MLSys",
-      "https://mlc.ai/modern-gpu-programming-for-mlsys/"
     ]
   ],
   [
