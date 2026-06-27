@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2026-06-27, 14:02:52",
-      "https://news.ycombinator.com/item?id=48698402"
-    ],
-    [
-      "Like a Bouncer at a Bookstore: Texas' App Store Accountability Act",
-      "https://cdt.org/insights/like-a-bouncer-at-a-bookstore-texas-app-store-accountability-act-is-unconstitutional/"
-    ]
-  ],
-  [
-    [
       "2026-06-27, 13:32:20",
       "https://news.ycombinator.com/item?id=48698151"
     ],
@@ -181,6 +171,16 @@
   ],
   [
     [
+      "2026-06-26, 21:14:47",
+      "https://news.ycombinator.com/item?id=48692058"
+    ],
+    [
+      "The gap between open weights LLMs and closed source LLMs",
+      "https://blog.doubleword.ai/frontier-os-llm"
+    ]
+  ],
+  [
+    [
       "2026-06-26, 17:06:55",
       "https://news.ycombinator.com/item?id=48689028"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2026-06-23, 17:29:05",
-      "https://news.ycombinator.com/item?id=48648341"
-    ],
-    [
-      "Why Windows 95 Was Tech's Last True Revolution",
-      "https://comuniq.xyz/post.php?t=1307"
-    ]
-  ],
-  [
-    [
       "2026-06-23, 14:28:20",
       "https://news.ycombinator.com/item?id=48645510"
     ],
     [
       "Task Failed Successfully: Saturating NIC and Disk Bandwidth",
       "https://blog.mrcroxx.com/posts/task-failed-successfully-saturating-nic-and-disk-bandwidth/"
+    ]
+  ],
+  [
+    [
+      "2026-06-23, 09:39:35",
+      "https://news.ycombinator.com/item?id=48642510"
+    ],
+    [
+      "MicroVMs: Run isolated sandboxes with full lifecycle control",
+      "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/"
     ]
   ]
 ]
