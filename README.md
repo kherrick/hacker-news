@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-06-27, 22:11:28](https://news.ycombinator.com/item?id=48702273) - [Choosing a Public DNS Resolver](https://evilbit.de/dns-resolver-guide.html)
+* [2026-06-27, 21:50:32](https://news.ycombinator.com/item?id=48702104) - [Show HN: Starglyphs - A constellation puzzle game based on Euler paths](https://starglyphs.com)
 * [2026-06-27, 21:44:57](https://news.ycombinator.com/item?id=48702060) - [Michigan spent $1.8B and only created 602 jobs](https://www.msn.com/en-us/money/general/michigan-spent-1-8-billion-and-only-created-602-jobs/ar-AA26Cusu)
-* [2026-06-27, 21:34:06](https://news.ycombinator.com/item?id=48701984) - [GLP-1 drugs led to weight loss and reversed depression-like behavior in mice](https://www.psychologytoday.com/au/blog/mood-by-microbe/202606/what-ozempic-does-to-the-gut-brain-axis)
 * [2026-06-27, 21:27:36](https://news.ycombinator.com/item?id=48701936) - [Enhancing X11 Application Security with LXC](https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/)
 * [2026-06-27, 20:34:53](https://news.ycombinator.com/item?id=48701512) - [Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work](https://github.com/kageroumado/adrafinil)
 * [2026-06-27, 19:09:49](https://news.ycombinator.com/item?id=48700834) - [IP Crawl: Living atlas of open webcams discovered on the public internet](https://ipcrawl.com/)
@@ -19,7 +20,6 @@
 * [2026-06-27, 09:18:52](https://news.ycombinator.com/item?id=48696585) - [DSpark: Speculative decoding accelerates LLM inference [pdf]](https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf)
 * [2026-06-26, 16:20:06](https://news.ycombinator.com/item?id=48688438) - [One man, two kernels, and a lot of RISC-V](https://www.theregister.com/software/2026/06/26/one-man-two-kernels-and-a-lot-of-risc-v/5262858)
 * [2026-06-25, 18:42:17](https://news.ycombinator.com/item?id=48677564) - [Long Wave radio era set to end with switch-off](https://www.economist.com/britain/2026/06/25/the-bbc-switches-off-its-oldest-service)
-* [2026-06-25, 14:45:17](https://news.ycombinator.com/item?id=48674244) - [A History of Menus Is a Menu of History](https://pudding.cool/2026/06/menu-story/)
 * [2026-06-25, 07:26:06](https://news.ycombinator.com/item?id=48670103) - [The US Army Issued Ocarinas to Soldiers in World War II](https://www.flutetunes.com/articles/my-flute-goes-to-war/)
 * [2026-06-25, 04:06:29](https://news.ycombinator.com/item?id=48668747) - [Linux on Older Hardware: The Complete Revival Guide](https://www.fosslinux.com/158206/linux-on-older-hardware-revival-guide.htm)
 * [2026-06-25, 01:51:54](https://news.ycombinator.com/item?id=48667863) - [Remembering the life and artwork of Ron Spears](https://magic.wizards.com/en/news/feature/remembering-the-life-and-artwork-of-ron-spears)

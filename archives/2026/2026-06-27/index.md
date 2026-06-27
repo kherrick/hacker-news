@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-27](index.md)
 
+* [2026-06-27, 22:11:28](https://news.ycombinator.com/item?id=48702273) - [Choosing a Public DNS Resolver](https://evilbit.de/dns-resolver-guide.html)
+* [2026-06-27, 21:50:32](https://news.ycombinator.com/item?id=48702104) - [Show HN: Starglyphs - A constellation puzzle game based on Euler paths](https://starglyphs.com)
 * [2026-06-27, 21:44:57](https://news.ycombinator.com/item?id=48702060) - [Michigan spent $1.8B and only created 602 jobs](https://www.msn.com/en-us/money/general/michigan-spent-1-8-billion-and-only-created-602-jobs/ar-AA26Cusu)
 * [2026-06-27, 21:34:06](https://news.ycombinator.com/item?id=48701984) - [GLP-1 drugs led to weight loss and reversed depression-like behavior in mice](https://www.psychologytoday.com/au/blog/mood-by-microbe/202606/what-ozempic-does-to-the-gut-brain-axis)
 * [2026-06-27, 21:27:36](https://news.ycombinator.com/item?id=48701936) - [Enhancing X11 Application Security with LXC](https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/)
