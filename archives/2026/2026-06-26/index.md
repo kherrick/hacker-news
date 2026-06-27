@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-06-26](index.md)
 
+* [2026-06-26, 23:36:30](https://news.ycombinator.com/item?id=48693420) - [Foreign funds help make housing unaffordable: research](https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/)
 * [2026-06-26, 23:33:46](https://news.ycombinator.com/item?id=48693391) - [Om](https://daringfireball.net/2026/06/om)
 * [2026-06-26, 22:48:28](https://news.ycombinator.com/item?id=48692995) - [US allows Anthropic to release Mythos to 'trusted partners'](https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/)
+* [2026-06-26, 22:48:28](https://news.ycombinator.com/item?id=48692995) - [U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations](https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies)
 * [2026-06-26, 22:48:28](https://news.ycombinator.com/item?id=48692995) - [The US lifts its block on Mythos 5](https://twitter.com/Techmeme/status/2070638481265905837)
 * [2026-06-26, 22:43:29](https://news.ycombinator.com/item?id=48692946) - [Why does kinetic energy increase quadratically, not linearly, with speed? (2011)](https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed)
 * [2026-06-26, 22:36:51](https://news.ycombinator.com/item?id=48692883) - [AI in mathematics is forcing big questions](https://spectrum.ieee.org/ai-in-mathematics)
