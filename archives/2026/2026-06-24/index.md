@@ -17,6 +17,7 @@
 * [2026-06-24, 18:05:33](https://news.ycombinator.com/item?id=48663544) - [I rewrote PostHog's SQL parser, 70x faster, while barely looking at the code](https://posthog.com/blog/sql-parser)
 * [2026-06-24, 17:47:00](https://news.ycombinator.com/item?id=48663324) - [OpenAI unveils its first custom chip, built by Broadcom](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/)
 * [2026-06-24, 17:21:34](https://news.ycombinator.com/item?id=48662999) - [Computer use in Gemini 3.5 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/)
+* [2026-06-24, 17:20:48](https://news.ycombinator.com/item?id=48662988) - [Show HN: DBOSify – Drop-in Temporal replacement built on Postgres](https://github.com/dbos-inc/dbosify-py)
 * [2026-06-24, 16:40:13](https://news.ycombinator.com/item?id=48662452) - [Big AI labs are hiring philosophers](https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers)
 * [2026-06-24, 16:35:56](https://news.ycombinator.com/item?id=48662381) - [The Xteink X4 E-Ink Reader](https://blog.omgmog.net/post/xteink-x4-e-ink-reader/)
 * [2026-06-24, 16:33:48](https://news.ycombinator.com/item?id=48662347) - [Exploiting vulnerabilities in Johnson and Johnson web apps](https://eaton-works.com/2026/06/24/jnj-webapp-hacks/)
