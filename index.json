@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-27, 18:00:46",
+      "https://news.ycombinator.com/item?id=48700317"
+    ],
+    [
+      "The Card That Made the Apple II Serious",
+      "https://www.wiseowl.com/articles/a2fpga-videx-01-the-card-that-made-the-apple-ii-serious/"
+    ]
+  ],
+  [
+    [
       "2026-06-27, 17:11:20",
       "https://news.ycombinator.com/item?id=48699928"
     ],
@@ -17,6 +27,16 @@
     [
       "Supabase (YC S20) Is Hiring for Multigres",
       "https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228"
+    ]
+  ],
+  [
+    [
+      "2026-06-27, 16:51:09",
+      "https://news.ycombinator.com/item?id=48699778"
+    ],
+    [
+      "Screen time can damage under-twos' development, landmark study suggests",
+      "https://www.theguardian.com/society/2026/jun/27/screen-time-damage-under-twos-development-study"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2026-06-27, 02:41:53",
-      "https://news.ycombinator.com/item?id=48694631"
-    ],
-    [
-      "Anatomy of a Failed (Nation-State?) Attack",
-      "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/"
-    ]
-  ],
-  [
-    [
       "2026-06-26, 22:43:29",
       "https://news.ycombinator.com/item?id=48692946"
     ],
@@ -231,6 +241,16 @@
   ],
   [
     [
+      "2026-06-25, 14:45:17",
+      "https://news.ycombinator.com/item?id=48674244"
+    ],
+    [
+      "A History of Menus Is a Menu of History",
+      "https://pudding.cool/2026/06/menu-story/"
+    ]
+  ],
+  [
+    [
       "2026-06-25, 07:26:06",
       "https://news.ycombinator.com/item?id=48670103"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2026-06-23, 20:21:19",
-      "https://news.ycombinator.com/item?id=48650794"
-    ],
-    [
-      "Underarm Bowling Incident of 1981",
-      "https://en.wikipedia.org/wiki/Underarm_bowling_incident_of_1981"
-    ]
-  ],
-  [
-    [
       "2026-06-23, 14:28:20",
       "https://news.ycombinator.com/item?id=48645510"
     ],
     [
       "Task Failed Successfully: Saturating NIC and Disk Bandwidth",
       "https://blog.mrcroxx.com/posts/task-failed-successfully-saturating-nic-and-disk-bandwidth/"
-    ]
-  ],
-  [
-    [
-      "2026-06-23, 09:39:35",
-      "https://news.ycombinator.com/item?id=48642510"
-    ],
-    [
-      "MicroVMs: Run isolated sandboxes with full lifecycle control",
-      "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/"
     ]
   ]
 ]
