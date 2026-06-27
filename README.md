@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-06-27, 14:38:05](https://news.ycombinator.com/item?id=48698684) - [Zuckerberg's Increasingly Bizarre War on Whistleblowers](https://pluralistic.net/2026/06/27/zuckerstreisand-2/)
+* [2026-06-27, 14:31:00](https://news.ycombinator.com/item?id=48698617) - [Anonymous GitHub account mass-dropping undisclosed 0-days](https://github.com/bikini/exploitarium)
 * [2026-06-27, 14:23:40](https://news.ycombinator.com/item?id=48698559) - [Post-Mythos Cybersecurity: Keep calm and carry on](https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/)
+* [2026-06-27, 14:02:52](https://news.ycombinator.com/item?id=48698402) - [Like a Bouncer at a Bookstore: Texas' App Store Accountability Act](https://cdt.org/insights/like-a-bouncer-at-a-bookstore-texas-app-store-accountability-act-is-unconstitutional/)
 * [2026-06-27, 13:32:20](https://news.ycombinator.com/item?id=48698151) - [Suspicious Discontinuities](https://danluu.com/discontinuities/)
 * [2026-06-27, 12:43:16](https://news.ycombinator.com/item?id=48697768) - [Streaming services' obnoxiously loud ads become illegal on July 1 in California](https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/)
 * [2026-06-27, 12:40:59](https://news.ycombinator.com/item?id=48697746) - [How Many Elementary Particles Are There, Really?](https://www.quantamagazine.org/how-many-elementary-particles-are-there-really-20260615/)
@@ -13,7 +15,6 @@
 * [2026-06-27, 09:06:11](https://news.ycombinator.com/item?id=48696510) - [Beer CSS – Build material design in record time](https://www.beercss.com)
 * [2026-06-27, 03:30:01](https://news.ycombinator.com/item?id=48694853) - [WordStar: A Writer's Word Processor (1996)](https://www.sfwriter.com/wordstar.htm)
 * [2026-06-27, 02:41:53](https://news.ycombinator.com/item?id=48694631) - [Anatomy of a Failed (Nation-State?) Attack](https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/)
-* [2026-06-26, 23:36:30](https://news.ycombinator.com/item?id=48693420) - [International investment and local rules push prices up faster than supply](https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/)
 * [2026-06-26, 22:48:28](https://news.ycombinator.com/item?id=48692995) - [U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations](https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies)
 * [2026-06-26, 22:43:29](https://news.ycombinator.com/item?id=48692946) - [Why does kinetic energy increase quadratically, not linearly, with speed? (2011)](https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed)
 * [2026-06-26, 22:36:51](https://news.ycombinator.com/item?id=48692883) - [AI in mathematics is forcing big questions](https://spectrum.ieee.org/ai-in-mathematics)
@@ -29,7 +30,6 @@
 * [2026-06-23, 20:21:19](https://news.ycombinator.com/item?id=48650794) - [Underarm Bowling Incident of 1981](https://en.wikipedia.org/wiki/Underarm_bowling_incident_of_1981)
 * [2026-06-23, 14:28:20](https://news.ycombinator.com/item?id=48645510) - [Task Failed Successfully: Saturating NIC and Disk Bandwidth](https://blog.mrcroxx.com/posts/task-failed-successfully-saturating-nic-and-disk-bandwidth/)
 * [2026-06-23, 09:39:35](https://news.ycombinator.com/item?id=48642510) - [MicroVMs: Run isolated sandboxes with full lifecycle control](https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/)
-* [2026-06-22, 18:17:20](https://news.ycombinator.com/item?id=48633839) - [Hellishly Slow Level 13 Deflate Compression](https://kirill.korins.ky/articles/hellishly-slow-level-13-deflate-compression/)
 
 ## [Archives](archives/index.md)
 
