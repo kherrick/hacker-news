@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-06-27, 00:43:39](https://news.ycombinator.com/item?id=48693912) - [Show HN: Hacker News on a Train Station Style Flip Board](https://popflame.quickish.space/hn-flipboard/)
 * [2026-06-26, 23:33:46](https://news.ycombinator.com/item?id=48693391) - [Om](https://daringfireball.net/2026/06/om)
 * [2026-06-26, 22:48:28](https://news.ycombinator.com/item?id=48692995) - [US allows Anthropic to release Mythos to 'trusted partners'](https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/)
 * [2026-06-26, 22:43:29](https://news.ycombinator.com/item?id=48692946) - [Why does kinetic energy increase quadratically, not linearly, with speed? (2011)](https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed)
@@ -22,14 +23,13 @@
 * [2026-06-25, 13:32:12](https://news.ycombinator.com/item?id=48673115) - [A Tiny Compiler for Data-Parallel Kernels](https://healeycodes.com/a-tiny-compiler-for-data-parallel-kernels)
 * [2026-06-24, 17:20:48](https://news.ycombinator.com/item?id=48662988) - [Show HN: DBOSify – Drop-in Temporal replacement built on Postgres](https://github.com/dbos-inc/dbosify-py)
 * [2026-06-24, 14:29:17](https://news.ycombinator.com/item?id=48660522) - [A human postmortem of the 1996 AOL outage](https://ngrok.com/blog/aol-was-down-1996)
-* [2026-06-24, 05:07:20](https://news.ycombinator.com/item?id=48655396) - [Lippmann Photography](https://www.jonhilty.com/lippmann)
 * [2026-06-23, 20:04:33](https://news.ycombinator.com/item?id=48650550) - [LaTeX.wasm: LaTeX Engines in Browsers](https://www.swiftlatex.com/)
 * [2026-06-23, 17:45:20](https://news.ycombinator.com/item?id=48648550) - [My Steam Machine is a 50ft HDMI cable](https://blog.matthewbrunelle.com/my-steam-machine-is-a-50ft-hdmi-cable/)
 * [2026-06-23, 12:45:09](https://news.ycombinator.com/item?id=48644111) - [The \"Bizarre Headgear\" exhibit at the Sam Noble museum](https://svpow.com/2026/05/15/the-bizarre-headgear-exhibit-at-the-sam-noble-museum-is-incredible/)
 * [2026-06-23, 12:00:13](https://news.ycombinator.com/item?id=48643661) - [Making Sense of Proof by Contradiction [pdf]](https://www.foster77.co.uk/Foster,%20Scottish%20Mathematical%20Council%20Journal,%20Making%20sense%20of%20proof%20by%20contradiction.pdf)
 * [2026-06-23, 11:38:25](https://news.ycombinator.com/item?id=48643459) - [Modern GPU Programming for MLSys](https://mlc.ai/modern-gpu-programming-for-mlsys/)
 * [2026-06-23, 09:39:35](https://news.ycombinator.com/item?id=48642510) - [MicroVMs: Run isolated sandboxes with full lifecycle control](https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/)
-* [2026-06-22, 01:39:57](https://news.ycombinator.com/item?id=48624591) - [The Art of Kite Flying (1430–1929)](https://publicdomainreview.org/collection/art-of-kite-flying/)
+* [2026-06-22, 18:17:20](https://news.ycombinator.com/item?id=48633839) - [Hellishly Slow Level 13 Deflate Compression](https://kirill.korins.ky/articles/hellishly-slow-level-13-deflate-compression/)
 
 ## [Archives](archives/index.md)
 

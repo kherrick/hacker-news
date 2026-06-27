@@ -29,6 +29,7 @@
 * [2026-06-22, 18:39:22](https://news.ycombinator.com/item?id=48634187) - [Five monitors on a Commodore 128 [video]](https://www.youtube.com/watch?v=ul5hC3PY1Yg)
 * [2026-06-22, 18:38:13](https://news.ycombinator.com/item?id=48634156) - [Wolves are reconquering Europe. Can people learn to live with them?](https://www.science.org/content/article/wolves-are-reconquering-europe-can-people-learn-live-them)
 * [2026-06-22, 18:24:29](https://news.ycombinator.com/item?id=48633941) - [Linux and Secure Boot certificate expiration](https://lwn.net/Articles/1029767/)
+* [2026-06-22, 18:17:20](https://news.ycombinator.com/item?id=48633839) - [Hellishly Slow Level 13 Deflate Compression](https://kirill.korins.ky/articles/hellishly-slow-level-13-deflate-compression/)
 * [2026-06-22, 18:03:03](https://news.ycombinator.com/item?id=48633643) - [A man was gifted his dream car by Kevin Mitnick, who he helped put in prison](https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison)
 * [2026-06-22, 17:50:40](https://news.ycombinator.com/item?id=48633473) - [Rhombus Language 1.0](https://blog.racket-lang.org/2026/06/rhombus-v1.0.html)
 * [2026-06-22, 17:46:48](https://news.ycombinator.com/item?id=48633410) - [Finding the Best Dog Treat with Statistics](https://www.wespiser.com/posts/2026-06-19-best-dog-treat.html)
