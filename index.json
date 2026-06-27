@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-26, 23:33:46",
+      "https://news.ycombinator.com/item?id=48693391"
+    ],
+    [
+      "Om",
+      "https://daringfireball.net/2026/06/om"
+    ]
+  ],
+  [
+    [
       "2026-06-26, 22:48:28",
       "https://news.ycombinator.com/item?id=48692995"
     ],
@@ -37,16 +47,6 @@
     [
       "The open source DOCX editor submitted to HN a few weeks ago has been deleted",
       "https://news.ycombinator.com/item?id=48692474"
-    ]
-  ],
-  [
-    [
-      "2026-06-26, 21:19:20",
-      "https://news.ycombinator.com/item?id=48692098"
-    ],
-    [
-      "The National Parks Were Reportedly Told to Stay Silent on Deaths",
-      "https://www.outsideonline.com/outdoor-adventure/environment/nps-internal-memo-deaths/?link_source=ta_first_comment&taid=6a3dae4f4d2dce00016deef8&utm_content=trueanthem&utm_medium=social&utm_source=facebook"
     ]
   ],
   [
@@ -117,16 +117,6 @@
     [
       "Gossamer: a Rust-flavoured language with real goroutines and pause-free memory",
       "https://gossamer-lang.org/"
-    ]
-  ],
-  [
-    [
-      "2026-06-26, 18:30:11",
-      "https://news.ycombinator.com/item?id=48690200"
-    ],
-    [
-      "Slisp: Simple Lisp compiler (Linux/amd64)",
-      "https://github.com/skx/slisp"
     ]
   ],
   [
@@ -217,6 +207,16 @@
     [
       "A Tiny Compiler for Data-Parallel Kernels",
       "https://healeycodes.com/a-tiny-compiler-for-data-parallel-kernels"
+    ]
+  ],
+  [
+    [
+      "2026-06-24, 17:20:48",
+      "https://news.ycombinator.com/item?id=48662988"
+    ],
+    [
+      "Show HN: DBOSify – Drop-in Temporal replacement built on Postgres",
+      "https://github.com/dbos-inc/dbosify-py"
     ]
   ],
   [
