@@ -129,6 +129,52 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="48701512">
+          <h3>
+            <a class="item" href="https://github.com/kageroumado/adrafinil"
+              >Show HN: Adrafinil – keep a lid-closed Mac awake only while
+              agents work</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-06-27 @ 20:34:53</span
+              ><span class="points-container"
+                >Points: <span class="points">25</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48701512"
+                  >Comments</a
+                ><span class="descendants">: 17</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                This is a solution to this problem. Unlike caffeinate, it will
+                prevent your MacBook from sleeping even with the lid closed,
+                with no external power or display, using pmset disablesleep 1.
+                Unlike other sleep-preventing apps, Adrafinil only activates
+                when there’s an agent actively doing something. It detects agent
+                activity through hooks it installs into Claude Code, Codex, and
+                others. To reassure you it’s working, the app shows the active
+                status in the menu bar, and it plays a chime when you close the
+                lid.
+              </p>
+              <p>
+                Once the agent is done, Adrafinil detects it and lets the laptop
+                go to sleep by setting pmset disablesleep back to 0. It will
+                also let it sleep in case of overheating. And if you want to
+                manually toggle it, you can install an optional MCP and tell
+                your agent to keep the MacBook awake for a specific time.
+              </p>
+              <p>
+                It has four binaries, one of which is a root helper exposing a
+                single setSleepBlocked call. All the logic and policy live in
+                the unprivileged parts. They’re all notarized, and the app is
+                fully open source (MIT).
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="48701342">
           <h3>
             <a
@@ -142,11 +188,11 @@
             <h4>
               <span>2026-06-27 @ 20:16:32</span
               ><span class="points-container"
-                >Points: <span class="points">38</span></span
+                >Points: <span class="points">67</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48701342"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 32</span></span
               >
             </h4>
           </section>
@@ -162,11 +208,11 @@
             <h4>
               <span>2026-06-27 @ 19:09:49</span
               ><span class="points-container"
-                >Points: <span class="points">80</span></span
+                >Points: <span class="points">108</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48700834"
                   >Comments</a
-                ><span class="descendants">: 42</span></span
+                ><span class="descendants">: 54</span></span
               >
             </h4>
           </section>
@@ -183,11 +229,11 @@
             <h4>
               <span>2026-06-27 @ 17:11:20</span
               ><span class="points-container"
-                >Points: <span class="points">86</span></span
+                >Points: <span class="points">100</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48699928"
                   >Comments</a
-                ><span class="descendants">: 44</span></span
+                ><span class="descendants">: 53</span></span
               >
             </h4>
             <div class="text">
@@ -227,11 +273,11 @@
             <h4>
               <span>2026-06-27 @ 16:51:09</span
               ><span class="points-container"
-                >Points: <span class="points">58</span></span
+                >Points: <span class="points">63</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48699778"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -241,18 +287,18 @@
             <a
               class="item"
               href="https://pluralistic.net/2026/06/27/zuckerstreisand-2/"
-              >Zuckerberg's Increasingly Bizarre War on Whistleblowers</a
+              >Zuckerberg's war on whistleblowers</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-06-27 @ 14:38:05</span
               ><span class="points-container"
-                >Points: <span class="points">497</span></span
+                >Points: <span class="points">517</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48698684"
                   >Comments</a
-                ><span class="descendants">: 190</span></span
+                ><span class="descendants">: 196</span></span
               >
             </h4>
           </section>
@@ -267,11 +313,11 @@
             <h4>
               <span>2026-06-27 @ 14:31:00</span
               ><span class="points-container"
-                >Points: <span class="points">513</span></span
+                >Points: <span class="points">534</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48698617"
                   >Comments</a
-                ><span class="descendants">: 201</span></span
+                ><span class="descendants">: 215</span></span
               >
             </h4>
           </section>
@@ -288,11 +334,11 @@
             <h4>
               <span>2026-06-27 @ 14:23:40</span
               ><span class="points-container"
-                >Points: <span class="points">107</span></span
+                >Points: <span class="points">116</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48698559"
                   >Comments</a
-                ><span class="descendants">: 33</span></span
+                ><span class="descendants">: 34</span></span
               >
             </h4>
           </section>
@@ -307,7 +353,7 @@
             <h4>
               <span>2026-06-27 @ 13:36:45</span
               ><span class="points-container"
-                >Points: <span class="points">21</span></span
+                >Points: <span class="points">25</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48698188"
                   >Comments</a
@@ -345,11 +391,32 @@
             <h4>
               <span>2026-06-27 @ 13:32:20</span
               ><span class="points-container"
-                >Points: <span class="points">172</span></span
+                >Points: <span class="points">180</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48698151"
                   >Comments</a
-                ><span class="descendants">: 43</span></span
+                ><span class="descendants">: 44</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48697958">
+          <h3>
+            <a
+              class="item"
+              href="https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/"
+              >Asian AI startups launch Mythos-like models</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-06-27 @ 13:10:21</span
+              ><span class="points-container"
+                >Points: <span class="points">76</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48697958"
+                  >Comments</a
+                ><span class="descendants">: 76</span></span
               >
             </h4>
           </section>
@@ -367,11 +434,11 @@
             <h4>
               <span>2026-06-27 @ 12:43:16</span
               ><span class="points-container"
-                >Points: <span class="points">219</span></span
+                >Points: <span class="points">224</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48697768"
                   >Comments</a
-                ><span class="descendants">: 58</span></span
+                ><span class="descendants">: 62</span></span
               >
             </h4>
           </section>
@@ -388,11 +455,11 @@
             <h4>
               <span>2026-06-27 @ 12:40:59</span
               ><span class="points-container"
-                >Points: <span class="points">106</span></span
+                >Points: <span class="points">109</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48697746"
                   >Comments</a
-                ><span class="descendants">: 89</span></span
+                ><span class="descendants">: 97</span></span
               >
             </h4>
           </section>
@@ -403,11 +470,11 @@
             <h4>
               <span>2026-06-27 @ 12:10:27</span
               ><span class="points-container"
-                >Points: <span class="points">472</span></span
+                >Points: <span class="points">484</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48697560"
                   >Comments</a
-                ><span class="descendants">: 88</span></span
+                ><span class="descendants">: 90</span></span
               >
             </h4>
           </section>
@@ -422,11 +489,11 @@
             <h4>
               <span>2026-06-27 @ 11:32:10</span
               ><span class="points-container"
-                >Points: <span class="points">302</span></span
+                >Points: <span class="points">312</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48697335"
                   >Comments</a
-                ><span class="descendants">: 205</span></span
+                ><span class="descendants">: 209</span></span
               >
             </h4>
           </section>
@@ -443,11 +510,11 @@
             <h4>
               <span>2026-06-27 @ 10:28:53</span
               ><span class="points-container"
-                >Points: <span class="points">400</span></span
+                >Points: <span class="points">411</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48696982"
                   >Comments</a
-                ><span class="descendants">: 136</span></span
+                ><span class="descendants">: 138</span></span
               >
             </h4>
           </section>
@@ -464,30 +531,11 @@
             <h4>
               <span>2026-06-27 @ 09:18:52</span
               ><span class="points-container"
-                >Points: <span class="points">692</span></span
+                >Points: <span class="points">696</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48696585"
                   >Comments</a
-                ><span class="descendants">: 287</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48696510">
-          <h3>
-            <a class="item" href="https://www.beercss.com"
-              >Beer CSS – Build material design in record time</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-06-27 @ 09:06:11</span
-              ><span class="points-container"
-                >Points: <span class="points">118</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48696510"
-                  >Comments</a
-                ><span class="descendants">: 57</span></span
+                ><span class="descendants">: 288</span></span
               >
             </h4>
           </section>
@@ -505,52 +553,11 @@
             <h4>
               <span>2026-06-27 @ 07:51:26</span
               ><span class="points-container"
-                >Points: <span class="points">30</span></span
+                >Points: <span class="points">31</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48696127"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48694853">
-          <h3>
-            <a class="item" href="https://www.sfwriter.com/wordstar.htm"
-              >WordStar: A Writer's Word Processor (1996)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-06-27 @ 03:30:01</span
-              ><span class="points-container"
-                >Points: <span class="points">161</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48694853"
-                  >Comments</a
-                ><span class="descendants">: 89</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48692946">
-          <h3>
-            <a
-              class="item"
-              href="https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed"
-              >Why does kinetic energy increase quadratically, not linearly,
-              with speed? (2011)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-06-26 @ 22:43:29</span
-              ><span class="points-container"
-                >Points: <span class="points">343</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48692946"
-                  >Comments</a
-                ><span class="descendants">: 180</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
@@ -567,7 +574,7 @@
             <h4>
               <span>2026-06-26 @ 16:20:06</span
               ><span class="points-container"
-                >Points: <span class="points">61</span></span
+                >Points: <span class="points">63</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48688438"
                   >Comments</a
@@ -588,11 +595,11 @@
             <h4>
               <span>2026-06-25 @ 18:42:17</span
               ><span class="points-container"
-                >Points: <span class="points">146</span></span
+                >Points: <span class="points">149</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48677564"
                   >Comments</a
-                ><span class="descendants">: 144</span></span
+                ><span class="descendants">: 148</span></span
               >
             </h4>
             <div class="text">
@@ -612,11 +619,11 @@
             <h4>
               <span>2026-06-25 @ 14:45:17</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">30</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48674244"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -633,7 +640,7 @@
             <h4>
               <span>2026-06-25 @ 07:26:06</span
               ><span class="points-container"
-                >Points: <span class="points">126</span></span
+                >Points: <span class="points">131</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48670103"
                   >Comments</a
@@ -658,7 +665,28 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48668747"
                   >Comments</a
-                ><span class="descendants">: 103</span></span
+                ><span class="descendants">: 107</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48665125">
+          <h3>
+            <a
+              class="item"
+              href="https://texashighways.com/culture/how-heb-became-texas-most-beloved-brand/"
+              >How H-E-B became Texas' most beloved brand (2024)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-06-24 @ 20:19:52</span
+              ><span class="points-container"
+                >Points: <span class="points">63</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48665125"
+                  >Comments</a
+                ><span class="descendants">: 59</span></span
               >
             </h4>
           </section>
@@ -676,11 +704,11 @@
             <h4>
               <span>2026-06-24 @ 18:42:12</span
               ><span class="points-container"
-                >Points: <span class="points">101</span></span
+                >Points: <span class="points">107</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48664063"
                   >Comments</a
-                ><span class="descendants">: 57</span></span
+                ><span class="descendants">: 58</span></span
               >
             </h4>
           </section>
@@ -698,9 +726,30 @@
             <h4>
               <span>2026-06-24 @ 15:25:12</span
               ><span class="points-container"
-                >Points: <span class="points">11</span></span
+                >Points: <span class="points">13</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48661381"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48660441">
+          <h3>
+            <a
+              class="item"
+              href="https://www.theatlantic.com/magazine/2026/08/writers-way-galapagos-charles-darwin-travel/687480/"
+              >Paradise Revisited: What Darwin Saw in the Galápagos</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-06-24 @ 14:24:03</span
+              ><span class="points-container"
+                >Points: <span class="points">10</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48660441"
                   >Comments</a
                 ><span class="descendants">: 0</span></span
               >
@@ -719,11 +768,11 @@
             <h4>
               <span>2026-06-24 @ 14:02:16</span
               ><span class="points-container"
-                >Points: <span class="points">141</span></span
+                >Points: <span class="points">147</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48660021"
                   >Comments</a
-                ><span class="descendants">: 81</span></span
+                ><span class="descendants">: 90</span></span
               >
             </h4>
           </section>
@@ -733,39 +782,18 @@
             <a
               class="item"
               href="https://en.wikipedia.org/wiki/Underarm_bowling_incident_of_1981"
-              >Underarm Bowling Incident of 1981</a
+              >Underarm bowling incident of 1981</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-06-23 @ 20:21:19</span
               ><span class="points-container"
-                >Points: <span class="points">120</span></span
+                >Points: <span class="points">124</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48650794"
                   >Comments</a
-                ><span class="descendants">: 102</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48645510">
-          <h3>
-            <a
-              class="item"
-              href="https://blog.mrcroxx.com/posts/task-failed-successfully-saturating-nic-and-disk-bandwidth/"
-              >Task Failed Successfully: Saturating NIC and Disk Bandwidth</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-06-23 @ 14:28:20</span
-              ><span class="points-container"
-                >Points: <span class="points">34</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48645510"
-                  >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 106</span></span
               >
             </h4>
           </section>
