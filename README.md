@@ -2,8 +2,8 @@
 
 * [2026-06-27, 21:44:57](https://news.ycombinator.com/item?id=48702060) - [Michigan spent $1.8B and only created 602 jobs](https://www.msn.com/en-us/money/general/michigan-spent-1-8-billion-and-only-created-602-jobs/ar-AA26Cusu)
 * [2026-06-27, 21:34:06](https://news.ycombinator.com/item?id=48701984) - [GLP-1 drugs led to weight loss and reversed depression-like behavior in mice](https://www.psychologytoday.com/au/blog/mood-by-microbe/202606/what-ozempic-does-to-the-gut-brain-axis)
+* [2026-06-27, 21:27:36](https://news.ycombinator.com/item?id=48701936) - [Enhancing X11 Application Security with LXC](https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/)
 * [2026-06-27, 21:14:19](https://news.ycombinator.com/item?id=48701822) - ['Careless People' author claims Meta surveilled her for 12mos to enforce silence](https://fortune.com/2026/06/26/meta-wynn-williams-surveillance-gag-order-lawsuit-2026/)
-* [2026-06-27, 21:07:38](https://news.ycombinator.com/item?id=48701766) - [Should European housing politics be Americanized?](https://worksinprogress.co/issue/should-european-housing-politics-be-americanized/)
 * [2026-06-27, 20:34:53](https://news.ycombinator.com/item?id=48701512) - [Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work](https://github.com/kageroumado/adrafinil)
 * [2026-06-27, 19:09:49](https://news.ycombinator.com/item?id=48700834) - [IP Crawl: Living atlas of open webcams discovered on the public internet](https://ipcrawl.com/)
 * [2026-06-27, 17:11:20](https://news.ycombinator.com/item?id=48699928) - [Turn your site into a place people can bump into each other](https://cauenapier.com/blog/townsquare_release/)
@@ -14,7 +14,6 @@
 * [2026-06-27, 13:36:45](https://news.ycombinator.com/item?id=48698188) - [Running a software jam in a world of slop](https://foxmoss.com/blog/radish/)
 * [2026-06-27, 13:32:20](https://news.ycombinator.com/item?id=48698151) - [Suspicious Discontinuities (2020)](https://danluu.com/discontinuities/)
 * [2026-06-27, 13:10:21](https://news.ycombinator.com/item?id=48697958) - [Asian AI startups launch Mythos-like models](https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/)
-* [2026-06-27, 12:40:59](https://news.ycombinator.com/item?id=48697746) - [How Many Elementary Particles Are There, Really?](https://www.quantamagazine.org/how-many-elementary-particles-are-there-really-20260615/)
 * [2026-06-27, 12:10:27](https://news.ycombinator.com/item?id=48697560) - [OpenRA](https://www.openra.net/)
 * [2026-06-27, 11:32:10](https://news.ycombinator.com/item?id=48697335) - [The case for physical media ownership](https://dervis.de/physical/)
 * [2026-06-27, 10:28:53](https://news.ycombinator.com/item?id=48696982) - [Fintech Engineering Handbook](https://w.pitula.me/fintech-engineering-handbook/)
@@ -30,6 +29,7 @@
 * [2026-06-24, 14:24:03](https://news.ycombinator.com/item?id=48660441) - [Paradise Revisited: What Darwin Saw in the Galápagos](https://www.theatlantic.com/magazine/2026/08/writers-way-galapagos-charles-darwin-travel/687480/)
 * [2026-06-24, 14:02:16](https://news.ycombinator.com/item?id=48660021) - [AI learns the “dark art” of RFIC design](https://spectrum.ieee.org/ai-radio-chip-design)
 * [2026-06-24, 13:31:10](https://news.ycombinator.com/item?id=48659517) - [How do you keep Web MIDI from crashing a 1983 synthesizer?](https://knob.monster/how-do-you-keep-web-midi-from-crashing-a-1983-synthesizer)
+* [2026-06-23, 20:21:19](https://news.ycombinator.com/item?id=48650794) - [Underarm bowling incident of 1981](https://en.wikipedia.org/wiki/Underarm_bowling_incident_of_1981)
 
 ## [Archives](archives/index.md)
 

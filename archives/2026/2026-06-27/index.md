@@ -6,6 +6,7 @@
 
 * [2026-06-27, 21:44:57](https://news.ycombinator.com/item?id=48702060) - [Michigan spent $1.8B and only created 602 jobs](https://www.msn.com/en-us/money/general/michigan-spent-1-8-billion-and-only-created-602-jobs/ar-AA26Cusu)
 * [2026-06-27, 21:34:06](https://news.ycombinator.com/item?id=48701984) - [GLP-1 drugs led to weight loss and reversed depression-like behavior in mice](https://www.psychologytoday.com/au/blog/mood-by-microbe/202606/what-ozempic-does-to-the-gut-brain-axis)
+* [2026-06-27, 21:27:36](https://news.ycombinator.com/item?id=48701936) - [Enhancing X11 Application Security with LXC](https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/)
 * [2026-06-27, 21:14:19](https://news.ycombinator.com/item?id=48701822) - ['Careless People' author claims Meta surveilled her for 12mos to enforce silence](https://fortune.com/2026/06/26/meta-wynn-williams-surveillance-gag-order-lawsuit-2026/)
 * [2026-06-27, 21:07:38](https://news.ycombinator.com/item?id=48701766) - [Should European housing politics be Americanized?](https://worksinprogress.co/issue/should-european-housing-politics-be-americanized/)
 * [2026-06-27, 20:34:53](https://news.ycombinator.com/item?id=48701512) - [Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work](https://github.com/kageroumado/adrafinil)
