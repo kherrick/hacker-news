@@ -3,7 +3,6 @@
 * [2026-06-27, 19:09:49](https://news.ycombinator.com/item?id=48700834) - [IP Crawl: living atlas of open webcams discovered on the public internet](https://ipcrawl.com/)
 * [2026-06-27, 19:06:03](https://news.ycombinator.com/item?id=48700805) - [Ships keep moving through Hormuz despite strike](https://www.lloydslist.com/LL1157680/Ships-keep-moving-through-Hormuz-despite-strike-and-suspension-of-IMO-exit-strategy)
 * [2026-06-27, 18:00:46](https://news.ycombinator.com/item?id=48700317) - [The Card That Made the Apple II Serious](https://www.wiseowl.com/articles/a2fpga-videx-01-the-card-that-made-the-apple-ii-serious/)
-* [2026-06-27, 17:17:05](https://news.ycombinator.com/item?id=48699969) - [\"No, I swear I wrote this.\"](https://revise.io/blog/06-27-2026/no-i-swear-i-wrote-this)
 * [2026-06-27, 17:11:20](https://news.ycombinator.com/item?id=48699928) - [Turn your site into a place people can bump into each other](https://cauenapier.com/blog/townsquare_release/)
 * [2026-06-27, 17:00:15](https://news.ycombinator.com/item?id=48699842) - [Supabase (YC S20) Is Hiring for Multigres](https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228)
 * [2026-06-27, 16:51:09](https://news.ycombinator.com/item?id=48699778) - [Screen time can damage under-twos' development, landmark study suggests](https://www.theguardian.com/society/2026/jun/27/screen-time-damage-under-twos-development-study)
@@ -28,6 +27,7 @@
 * [2026-06-25, 07:26:06](https://news.ycombinator.com/item?id=48670103) - [The US Army Issued Ocarinas to Soldiers in World War II](https://www.flutetunes.com/articles/my-flute-goes-to-war/)
 * [2026-06-25, 04:06:29](https://news.ycombinator.com/item?id=48668747) - [Linux on Older Hardware: The Complete Revival Guide](https://www.fosslinux.com/158206/linux-on-older-hardware-revival-guide.htm)
 * [2026-06-24, 18:42:12](https://news.ycombinator.com/item?id=48664063) - [Reducing tick density along recreational trails in Ottawa, Canada](https://www.sciencedirect.com/science/article/pii/S1877959X26000476)
+* [2026-06-24, 15:25:12](https://news.ycombinator.com/item?id=48661381) - [The eerie interface of man and machine (Life Magazine, October 1967)](https://blog.jgc.org/2026/06/the-eerie-interface-of-man-and-machine.html)
 * [2026-06-24, 14:02:16](https://news.ycombinator.com/item?id=48660021) - [AI Is Designing Radio Chips That Humans Couldn't Even Imagine](https://spectrum.ieee.org/ai-radio-chip-design)
 * [2026-06-23, 14:28:20](https://news.ycombinator.com/item?id=48645510) - [Task Failed Successfully: Saturating NIC and Disk Bandwidth](https://blog.mrcroxx.com/posts/task-failed-successfully-saturating-nic-and-disk-bandwidth/)
 
