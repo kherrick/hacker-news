@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-27](index.md)
 
+* [2026-06-27, 17:11:20](https://news.ycombinator.com/item?id=48699928) - [Turn your site into a place people can bump into each other](https://cauenapier.com/blog/townsquare_release/)
 * [2026-06-27, 17:00:15](https://news.ycombinator.com/item?id=48699842) - [Supabase (YC S20) Is Hiring for Multigres](https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228)
 * [2026-06-27, 16:31:58](https://news.ycombinator.com/item?id=48699617) - [Doctors suspected man had brain cancer. He had worms](https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/)
 * [2026-06-27, 14:38:05](https://news.ycombinator.com/item?id=48698684) - [Zuckerberg's Increasingly Bizarre War on Whistleblowers](https://pluralistic.net/2026/06/27/zuckerstreisand-2/)

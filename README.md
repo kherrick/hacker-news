@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-06-27, 17:11:20](https://news.ycombinator.com/item?id=48699928) - [Turn your site into a place people can bump into each other](https://cauenapier.com/blog/townsquare_release/)
 * [2026-06-27, 17:00:15](https://news.ycombinator.com/item?id=48699842) - [Supabase (YC S20) Is Hiring for Multigres](https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228)
 * [2026-06-27, 16:31:58](https://news.ycombinator.com/item?id=48699617) - [Doctors suspected man had brain cancer. He had worms](https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/)
 * [2026-06-27, 14:38:05](https://news.ycombinator.com/item?id=48698684) - [Zuckerberg's Increasingly Bizarre War on Whistleblowers](https://pluralistic.net/2026/06/27/zuckerstreisand-2/)
@@ -24,7 +25,6 @@
 * [2026-06-25, 15:54:17](https://news.ycombinator.com/item?id=48675290) - [Cultures of Making and Relating](https://blog.khinsen.net/posts/2026/06/25/cultures.html)
 * [2026-06-25, 07:26:06](https://news.ycombinator.com/item?id=48670103) - [The US Army Issued Ocarinas to Soldiers in World War II](https://www.flutetunes.com/articles/my-flute-goes-to-war/)
 * [2026-06-25, 04:06:29](https://news.ycombinator.com/item?id=48668747) - [Linux on Older Hardware: The Complete Revival Guide](https://www.fosslinux.com/158206/linux-on-older-hardware-revival-guide.htm)
-* [2026-06-24, 21:09:07](https://news.ycombinator.com/item?id=48665671) - [Jest/Vitest interactive course (runs in the browser)](https://howtotestfrontend.com/courses/jest-vitest-fundamentals)
 * [2026-06-24, 18:42:12](https://news.ycombinator.com/item?id=48664063) - [Reducing tick density along recreational trails in Ottawa, Canada](https://www.sciencedirect.com/science/article/pii/S1877959X26000476)
 * [2026-06-24, 14:02:16](https://news.ycombinator.com/item?id=48660021) - [AI Is Designing Radio Chips That Humans Couldn't Even Imagine](https://spectrum.ieee.org/ai-radio-chip-design)
 * [2026-06-23, 20:21:19](https://news.ycombinator.com/item?id=48650794) - [Underarm Bowling Incident of 1981](https://en.wikipedia.org/wiki/Underarm_bowling_incident_of_1981)
