@@ -17,6 +17,7 @@
 * [2026-06-25, 20:14:35](https://news.ycombinator.com/item?id=48678645) - [An oral history of Bank Python (2021)](https://calpaterson.com/bank-python.html)
 * [2026-06-25, 20:12:24](https://news.ycombinator.com/item?id=48678623) - [Parallel Parentheses Matching](https://williamdue.github.io/blog/parallel-parentheses-matching)
 * [2026-06-25, 20:00:35](https://news.ycombinator.com/item?id=48678495) - [The Doorman's Fallacy in Action](https://rozumem.xyz/posts/17)
+* [2026-06-25, 18:42:17](https://news.ycombinator.com/item?id=48677564) - [Long Wave radio era set to end with switch-off](https://www.economist.com/britain/2026/06/25/the-bbc-switches-off-its-oldest-service)
 * [2026-06-25, 17:38:44](https://news.ycombinator.com/item?id=48676795) - [Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line](https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true)
 * [2026-06-25, 17:00:00](https://news.ycombinator.com/item?id=48676256) - [Besimple AI (YC P25) Is Hiring](https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data)
 * [2026-06-25, 16:22:55](https://news.ycombinator.com/item?id=48675717) - [Deno 2.9](https://deno.com/blog/v2.9)
