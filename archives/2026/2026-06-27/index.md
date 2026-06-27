@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-06-27](index.md)
 
+* [2026-06-27, 19:09:49](https://news.ycombinator.com/item?id=48700834) - [IP Crawl: living atlas of open webcams discovered on the public internet](https://ipcrawl.com/)
+* [2026-06-27, 19:06:03](https://news.ycombinator.com/item?id=48700805) - [Ships keep moving through Hormuz despite strike](https://www.lloydslist.com/LL1157680/Ships-keep-moving-through-Hormuz-despite-strike-and-suspension-of-IMO-exit-strategy)
 * [2026-06-27, 18:00:46](https://news.ycombinator.com/item?id=48700317) - [The Card That Made the Apple II Serious](https://www.wiseowl.com/articles/a2fpga-videx-01-the-card-that-made-the-apple-ii-serious/)
+* [2026-06-27, 17:17:05](https://news.ycombinator.com/item?id=48699969) - [\"No, I swear I wrote this.\"](https://revise.io/blog/06-27-2026/no-i-swear-i-wrote-this)
 * [2026-06-27, 17:11:20](https://news.ycombinator.com/item?id=48699928) - [Turn your site into a place people can bump into each other](https://cauenapier.com/blog/townsquare_release/)
 * [2026-06-27, 17:00:15](https://news.ycombinator.com/item?id=48699842) - [Supabase (YC S20) Is Hiring for Multigres](https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228)
 * [2026-06-27, 16:51:09](https://news.ycombinator.com/item?id=48699778) - [Screen time can damage under-twos' development, landmark study suggests](https://www.theguardian.com/society/2026/jun/27/screen-time-damage-under-twos-development-study)
@@ -13,6 +16,7 @@
 * [2026-06-27, 14:31:00](https://news.ycombinator.com/item?id=48698617) - [Anonymous GitHub account mass-dropping undisclosed 0-days](https://github.com/bikini/exploitarium)
 * [2026-06-27, 14:23:40](https://news.ycombinator.com/item?id=48698559) - [Post-Mythos Cybersecurity: Keep calm and carry on](https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/)
 * [2026-06-27, 14:02:52](https://news.ycombinator.com/item?id=48698402) - [Like a Bouncer at a Bookstore: Texas' App Store Accountability Act](https://cdt.org/insights/like-a-bouncer-at-a-bookstore-texas-app-store-accountability-act-is-unconstitutional/)
+* [2026-06-27, 13:36:45](https://news.ycombinator.com/item?id=48698188) - [Running a software jam in a world of slop](https://foxmoss.com/blog/radish/)
 * [2026-06-27, 13:32:20](https://news.ycombinator.com/item?id=48698151) - [Suspicious Discontinuities](https://danluu.com/discontinuities/)
 * [2026-06-27, 13:10:21](https://news.ycombinator.com/item?id=48697958) - [Asian AI startups launch Mythos-like models](https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/)
 * [2026-06-27, 12:43:16](https://news.ycombinator.com/item?id=48697768) - [Streaming services' obnoxiously loud ads become illegal on July 1 in California](https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/)
