@@ -18,6 +18,7 @@
 * [2026-06-27, 10:28:53](https://news.ycombinator.com/item?id=48696982) - [Fintech Engineering Handbook](https://w.pitula.me/fintech-engineering-handbook/)
 * [2026-06-27, 09:18:52](https://news.ycombinator.com/item?id=48696585) - [DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]](https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf)
 * [2026-06-27, 09:06:11](https://news.ycombinator.com/item?id=48696510) - [Beer CSS – Build material design in record time](https://www.beercss.com)
+* [2026-06-27, 07:51:26](https://news.ycombinator.com/item?id=48696127) - [Researchers have developed pixels that can emit and analyse light together](https://ethz.ch/en/news-and-events/eth-news/news/2026/06/a-new-type-of-pixel.html)
 * [2026-06-27, 06:22:45](https://news.ycombinator.com/item?id=48695694) - [Is America Becoming a Gerontocracy?](https://www.economist.com/culture/2026/06/25/is-america-becoming-a-gerontocracy)
 * [2026-06-27, 05:17:08](https://news.ycombinator.com/item?id=48695363) - [IBM MCGA Gate Array Reverse Engineering](https://github.com/schlae/IBM_MCGA)
 * [2026-06-27, 04:31:06](https://news.ycombinator.com/item?id=48695149) - [OpenTTD 16.0-Beta1](https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1)
