@@ -31,6 +31,7 @@
 * [2026-06-25, 15:11:48](https://news.ycombinator.com/item?id=48674619) - [Physicists Track and Trap the Elusive Neutrino](https://www.quantamagazine.org/how-physicists-track-and-trap-the-elusive-neutrino-20260624/)
 * [2026-06-25, 15:01:06](https://news.ycombinator.com/item?id=48674484) - [OS9Map](https://yllan.org/software/OS9Map/)
 * [2026-06-25, 14:58:50](https://news.ycombinator.com/item?id=48674446) - [Ford rehires 350 engineers after AI fails to preserve expertise or train juniors](https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short)
+* [2026-06-25, 14:45:17](https://news.ycombinator.com/item?id=48674244) - [A History of Menus Is a Menu of History](https://pudding.cool/2026/06/menu-story/)
 * [2026-06-25, 14:37:15](https://news.ycombinator.com/item?id=48674096) - [Apple increases MacBook and iPad prices by 20%](https://www.ft.com/content/0f067265-2baf-4b6e-8fb2-ed56daef6f3c)
 * [2026-06-25, 14:19:28](https://news.ycombinator.com/item?id=48673825) - [Zig's New BitCast Semantics and LLVM Back End Improvements](https://ziglang.org/devlog/2026/#2026-06-25)
 * [2026-06-25, 14:17:26](https://news.ycombinator.com/item?id=48673801) - [Ask HN: What surprised you about Estonia e-Residency and running an Estonian OÜ?](https://news.ycombinator.com/item?id=48673801)
