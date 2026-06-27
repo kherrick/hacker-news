@@ -37,6 +37,7 @@
 * [2026-06-23, 17:46:18](https://news.ycombinator.com/item?id=48648558) - [The truth about being a manager](https://sofiakodar.github.io/posts/becomingmanager/)
 * [2026-06-23, 17:45:20](https://news.ycombinator.com/item?id=48648550) - [My Steam Machine Is a 50ft HDMI Cable](https://blog.matthewbrunelle.com/my-steam-machine-is-a-50ft-hdmi-cable/)
 * [2026-06-23, 17:31:34](https://news.ycombinator.com/item?id=48648371) - [75% More Pedestrians Have Been Killed Since 2009. Giant Trucks and SUVs Are Why](https://www.thedrive.com/news/75-more-pedestrians-have-been-killed-since-2009-giant-trucks-and-suvs-are-why)
+* [2026-06-23, 17:29:05](https://news.ycombinator.com/item?id=48648341) - [Why Windows 95 Was Tech's Last True Revolution](https://comuniq.xyz/post.php?t=1307)
 * [2026-06-23, 17:09:18](https://news.ycombinator.com/item?id=48648039) - [Claude Tag](https://www.anthropic.com/news/introducing-claude-tag)
 * [2026-06-23, 17:06:58](https://news.ycombinator.com/item?id=48648008) - [Building apps using TanStack Start](https://lovable.dev/blog/building-apps-using-tanstack-start)
 * [2026-06-23, 17:01:57](https://news.ycombinator.com/item?id=48647928) - [Mark Zuckerberg directed meta to create a prediction markets app](https://www.nytimes.com/2026/06/23/technology/meta-prediction-markets-app.html)
