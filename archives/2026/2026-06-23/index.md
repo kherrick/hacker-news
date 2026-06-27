@@ -20,6 +20,7 @@
 * [2026-06-23, 20:47:45](https://news.ycombinator.com/item?id=48651163) - [Audit finds San Francisco tax official steered $10M contract to friend](https://sfstandard.com/2026/06/23/audit-sparked-standard-investigation-finds-tax-official-steered-10m-contract-friend/)
 * [2026-06-23, 20:30:25](https://news.ycombinator.com/item?id=48650924) - [Scars mark Britain's economy 10 years after Brexit vote](https://www.reuters.com/world/uk/scars-mark-britains-economy-10-years-after-brexit-vote-2026-06-23/)
 * [2026-06-23, 20:23:49](https://news.ycombinator.com/item?id=48650837) - [Don't verify email addresses by sending spam to them](https://milek7.pl/mailverifyspam/)
+* [2026-06-23, 20:21:19](https://news.ycombinator.com/item?id=48650794) - [Underarm Bowling Incident of 1981](https://en.wikipedia.org/wiki/Underarm_bowling_incident_of_1981)
 * [2026-06-23, 20:04:33](https://news.ycombinator.com/item?id=48650550) - [LaTeX.wasm: LaTeX Engines in Browsers](https://www.swiftlatex.com/)
 * [2026-06-23, 19:45:07](https://news.ycombinator.com/item?id=48650311) - [Anthropic updates their terms to verify age or identity](https://www.anthropic.com/legal/privacy)
 * [2026-06-23, 18:57:36](https://news.ycombinator.com/item?id=48649697) - [Show HN: Wordit – Change One Letter, Keep the Chain Going](https://victorribeiro.com/wordit/)
