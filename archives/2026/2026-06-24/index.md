@@ -9,6 +9,7 @@
 * [2026-06-24, 21:57:30](https://news.ycombinator.com/item?id=48666100) - [Elastic lays off 7% of employees](https://www.elastic.co/blog/ceo-ash-kulkarni-announcement-to-elastic-employees)
 * [2026-06-24, 21:09:07](https://news.ycombinator.com/item?id=48665671) - [Jest/Vitest interactive course (runs in the browser)](https://howtotestfrontend.com/courses/jest-vitest-fundamentals)
 * [2026-06-24, 20:20:33](https://news.ycombinator.com/item?id=48665130) - [Zero-Downtime Deployments with Docker Compose – No Kubernetes Required](https://statusdude.com/blog/zero-downtime-docker-compose)
+* [2026-06-24, 20:19:52](https://news.ycombinator.com/item?id=48665125) - [How H-E-B Became Texas' Most Beloved Brand (2024)](https://texashighways.com/culture/how-heb-became-texas-most-beloved-brand/)
 * [2026-06-24, 20:17:33](https://news.ycombinator.com/item?id=48665093) - [52-hertz whale](https://en.wikipedia.org/wiki/52-hertz_whale)
 * [2026-06-24, 19:48:01](https://news.ycombinator.com/item?id=48664814) - [Anthropic says Alibaba illicitly extracted Claude AI model capabilities](https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/)
 * [2026-06-24, 19:40:11](https://news.ycombinator.com/item?id=48664733) - [GitHub shouldn't be a dependency for publishing Rust on crates.io](https://infosec.exchange/@mttaggart/116806641273303255)
