@@ -11,12 +11,32 @@
   ],
   [
     [
+      "2026-06-27, 14:31:00",
+      "https://news.ycombinator.com/item?id=48698617"
+    ],
+    [
+      "Anonymous GitHub account mass-dropping undisclosed 0-days",
+      "https://github.com/bikini/exploitarium"
+    ]
+  ],
+  [
+    [
       "2026-06-27, 14:23:40",
       "https://news.ycombinator.com/item?id=48698559"
     ],
     [
       "Post-Mythos Cybersecurity: Keep calm and carry on",
       "https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/"
+    ]
+  ],
+  [
+    [
+      "2026-06-27, 14:02:52",
+      "https://news.ycombinator.com/item?id=48698402"
+    ],
+    [
+      "Like a Bouncer at a Bookstore: Texas' App Store Accountability Act",
+      "https://cdt.org/insights/like-a-bouncer-at-a-bookstore-texas-app-store-accountability-act-is-unconstitutional/"
     ]
   ],
   [
@@ -127,16 +147,6 @@
     [
       "Anatomy of a Failed (Nation-State?) Attack",
       "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/"
-    ]
-  ],
-  [
-    [
-      "2026-06-26, 23:36:30",
-      "https://news.ycombinator.com/item?id=48693420"
-    ],
-    [
-      "International investment and local rules push prices up faster than supply",
-      "https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "MicroVMs: Run isolated sandboxes with full lifecycle control",
       "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/"
-    ]
-  ],
-  [
-    [
-      "2026-06-22, 18:17:20",
-      "https://news.ycombinator.com/item?id=48633839"
-    ],
-    [
-      "Hellishly Slow Level 13 Deflate Compression",
-      "https://kirill.korins.ky/articles/hellishly-slow-level-13-deflate-compression/"
     ]
   ]
 ]
