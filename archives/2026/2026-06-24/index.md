@@ -39,6 +39,7 @@
 * [2026-06-24, 14:38:30](https://news.ycombinator.com/item?id=48660671) - [Running Windows Games on a Hobby OS with Wine](https://astral-os.org/posts/2026/04/03/wine-on-astral.html)
 * [2026-06-24, 14:32:12](https://news.ycombinator.com/item?id=48660579) - [PR spam today looks like email spam in the early 2000s](https://www.greptile.com/blog/prs-on-openclaw)
 * [2026-06-24, 14:29:17](https://news.ycombinator.com/item?id=48660522) - [A human postmortem of the 1996 AOL outage](https://ngrok.com/blog/aol-was-down-1996)
+* [2026-06-24, 14:24:03](https://news.ycombinator.com/item?id=48660441) - [Paradise Revisited: What Darwin Saw in the Galápagos](https://www.theatlantic.com/magazine/2026/08/writers-way-galapagos-charles-darwin-travel/687480/)
 * [2026-06-24, 14:14:18](https://news.ycombinator.com/item?id=48660267) - [Show HN: Nub – A Bun-like all-in-one toolkit for Node.js](https://github.com/nubjs/nub)
 * [2026-06-24, 14:10:11](https://news.ycombinator.com/item?id=48660178) - [45°C cooling design cuts data center water use to near zero](https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/)
 * [2026-06-24, 14:02:16](https://news.ycombinator.com/item?id=48660021) - [AI Is Designing Radio Chips That Humans Couldn't Even Imagine](https://spectrum.ieee.org/ai-radio-chip-design)
