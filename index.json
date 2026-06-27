@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-06-27, 10:28:53",
+      "https://news.ycombinator.com/item?id=48696982"
+    ],
+    [
+      "Fintech Engineering Handbook",
+      "https://w.pitula.me/fintech-engineering-handbook/"
+    ]
+  ],
+  [
+    [
       "2026-06-27, 09:18:52",
       "https://news.ycombinator.com/item?id=48696585"
     ],
     [
       "DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]",
       "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-06-27, 09:06:11",
+      "https://news.ycombinator.com/item?id=48696510"
+    ],
+    [
+      "Beer CSS – Build material design in record time",
+      "https://www.beercss.com"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2026-06-26, 18:04:05",
-      "https://news.ycombinator.com/item?id=48689859"
-    ],
-    [
-      "Pre-Modern Armies for Worldbuilders, Part III: Paying for It",
-      "https://acoup.blog/2026/06/26/collections-pre-modern-armies-for-worldbuilders-part-iii-paying-for-it/"
-    ]
-  ],
-  [
-    [
       "2026-06-26, 17:24:25",
       "https://news.ycombinator.com/item?id=48689277"
     ],
@@ -187,16 +197,6 @@
     [
       "Previewing GPT‑5.6 Sol: a next-generation model",
       "https://openai.com/index/previewing-gpt-5-6-sol/"
-    ]
-  ],
-  [
-    [
-      "2026-06-26, 16:40:11",
-      "https://news.ycombinator.com/item?id=48688700"
-    ],
-    [
-      "Show HN: Smart model routing directly in Claude, Codex and Cursor",
-      "https://github.com/workweave/router"
     ]
   ],
   [
