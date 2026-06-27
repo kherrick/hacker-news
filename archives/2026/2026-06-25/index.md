@@ -62,6 +62,7 @@
 * [2026-06-25, 02:30:18](https://news.ycombinator.com/item?id=48668119) - [Medical students are using popular research tool to pump out misleading studies](https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies)
 * [2026-06-25, 02:18:10](https://news.ycombinator.com/item?id=48668033) - [Cloudflare launched self-managed OAuth for all](https://blog.cloudflare.com/oauth-for-all/)
 * [2026-06-25, 02:16:15](https://news.ycombinator.com/item?id=48668020) - [Zombie unicorns are haunting Silicon Valley](https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley)
+* [2026-06-25, 01:51:54](https://news.ycombinator.com/item?id=48667863) - [Remembering the life and artwork of Ron Spears](https://magic.wizards.com/en/news/feature/remembering-the-life-and-artwork-of-ron-spears)
 * [2026-06-25, 01:50:01](https://news.ycombinator.com/item?id=48667853) - [Writers and Drugs](https://lithub.com/are-writers-intrinsically-vulnerable-to-alcohol-and-drugs/)
 * [2026-06-25, 01:42:55](https://news.ycombinator.com/item?id=48667807) - [Bible as RAG Database](https://www.crosscanon.com/)
 * [2026-06-25, 01:36:45](https://news.ycombinator.com/item?id=48667761) - [Exploring the internal representations of Pangram 3.3.2](https://www.pangram.com/pangram-space)
