@@ -64,6 +64,7 @@
 * [2026-06-23, 12:56:16](https://news.ycombinator.com/item?id=48644257) - [Lossless GIF recompression via exhaustive search](https://blog.arusekk.pl/posts/lossless-gif-recompression/)
 * [2026-06-23, 12:45:09](https://news.ycombinator.com/item?id=48644111) - [The \"Bizarre Headgear\" Exhibit at the Sam Noble Museum Is Incredible](https://svpow.com/2026/05/15/the-bizarre-headgear-exhibit-at-the-sam-noble-museum-is-incredible/)
 * [2026-06-23, 12:37:04](https://news.ycombinator.com/item?id=48644022) - [80386 Early Start Memory Access](https://nand2mario.github.io/posts/2026/80386_early_start/)
+* [2026-06-23, 12:00:13](https://news.ycombinator.com/item?id=48643661) - [Making Sense of Proof by Contradiction [pdf]](https://www.foster77.co.uk/Foster,%20Scottish%20Mathematical%20Council%20Journal,%20Making%20sense%20of%20proof%20by%20contradiction.pdf)
 * [2026-06-23, 11:54:48](https://news.ycombinator.com/item?id=48643620) - [Tech giant Oracle cuts 21,000 jobs as it embraces AI](https://www.bbc.com/news/articles/c4gy0x0j5deo)
 * [2026-06-23, 11:40:50](https://news.ycombinator.com/item?id=48643489) - [The Low-Tech AI of Elden Ring](https://nega.tv/posts/low-tech-ai-of-elden-ring.html)
 * [2026-06-23, 11:38:25](https://news.ycombinator.com/item?id=48643459) - [Modern GPU Programming for MLSys](https://mlc.ai/modern-gpu-programming-for-mlsys/)
