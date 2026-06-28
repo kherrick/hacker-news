@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-06-28, 19:35:57",
+      "https://news.ycombinator.com/item?id=48710749"
+    ],
+    [
+      "Ford rehires 'gray beard' engineers after AI falls short",
+      "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/"
+    ]
+  ],
+  [
+    [
+      "2026-06-28, 18:59:53",
+      "https://news.ycombinator.com/item?id=48710350"
+    ],
+    [
+      "Computer-Aided Language Development in Nonspeaking Children (1968) [pdf]",
+      "https://archive.org/details/colby1968-computer-aided-language-development-in-non-speaking-children"
+    ]
+  ],
+  [
+    [
+      "2026-06-28, 18:48:53",
+      "https://news.ycombinator.com/item?id=48710232"
+    ],
+    [
+      "GitHub – librepods-org/librepods: AirPods liberated from Apple's ecosystem",
+      "https://github.com/librepods-org/librepods"
+    ]
+  ],
+  [
+    [
       "2026-06-28, 18:32:53",
       "https://news.ycombinator.com/item?id=48710092"
     ],
@@ -17,6 +47,16 @@
     [
       "The cost YAGNI was never about",
       "https://newsletter.kentbeck.com/p/the-cost-yagni-was-never-about"
+    ]
+  ],
+  [
+    [
+      "2026-06-28, 17:50:47",
+      "https://news.ycombinator.com/item?id=48709670"
+    ],
+    [
+      "Semgrep: GLM 5.2 beats Claude in our Cyber Benchmarks",
+      "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/"
     ]
   ],
   [
@@ -67,16 +107,6 @@
     [
       "Tokenmaxxing is dead, long live tokenmaxxing",
       "https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing"
-    ]
-  ],
-  [
-    [
-      "2026-06-28, 16:17:38",
-      "https://news.ycombinator.com/item?id=48708721"
-    ],
-    [
-      "Reflections on software engineering in the age of AI",
-      "https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/"
     ]
   ],
   [
@@ -135,8 +165,8 @@
       "https://news.ycombinator.com/item?id=48707763"
     ],
     [
-      "5k Restaurant Menus, Years 1880-1920",
-      "https://pudding.cool/2026/06/menu-collection/"
+      "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)",
+      "https://pudding.cool/2026/06/menu-story/"
     ]
   ],
   [
@@ -157,16 +187,6 @@
     [
       "Flock cameras track more than your license plate, and they're spreading fast",
       "https://www.engadget.com/2203000/flock-cameras-recording-license-plate/"
-    ]
-  ],
-  [
-    [
-      "2026-06-28, 13:30:06",
-      "https://news.ycombinator.com/item?id=48707103"
-    ],
-    [
-      "Google limits Meta's use of its Gemini AI models",
-      "https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html"
     ]
   ],
   [
@@ -201,22 +221,32 @@
   ],
   [
     [
+      "2026-06-28, 11:56:16",
+      "https://news.ycombinator.com/item?id=48706560"
+    ],
+    [
+      "The KIDS Act would require age checks to get online",
+      "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online"
+    ]
+  ],
+  [
+    [
+      "2026-06-28, 11:55:08",
+      "https://news.ycombinator.com/item?id=48706554"
+    ],
+    [
+      "More evidence is consistent with possible ancient life on Mars (2025)",
+      "https://www.cbc.ca/radio/quirks/more-evidence-of-life-on-mars-but-still-no-life-1.7649645"
+    ]
+  ],
+  [
+    [
       "2026-06-28, 09:53:58",
       "https://news.ycombinator.com/item?id=48705910"
     ],
     [
       "DLL that was not present in memory despite not being formally unloaded",
       "https://devblogs.microsoft.com/oldnewthing/20260625-00/?p=112467"
-    ]
-  ],
-  [
-    [
-      "2026-06-28, 04:48:32",
-      "https://news.ycombinator.com/item?id=48704454"
-    ],
-    [
-      "Bashblog – a single bash script to create blogs",
-      "https://github.com/cfenollosa/bashblog"
     ]
   ],
   [
@@ -231,22 +261,12 @@
   ],
   [
     [
-      "2026-06-28, 00:46:52",
-      "https://news.ycombinator.com/item?id=48703258"
+      "2026-06-26, 18:53:40",
+      "https://news.ycombinator.com/item?id=48690481"
     ],
     [
-      "AMD Strix Halo RDMA Cluster Setup Guide",
-      "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md"
-    ]
-  ],
-  [
-    [
-      "2026-06-27, 14:31:00",
-      "https://news.ycombinator.com/item?id=48698617"
-    ],
-    [
-      "Anonymous GitHub account mass-dropping undisclosed 0-days",
-      "https://github.com/bikini/exploitarium"
+      "Designing a Personal Pebble Watchface",
+      "https://www.jonashietala.se/blog/2026/06/26/designing_a_personal_pebble_watchface/"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2026-06-25, 14:48:07",
-      "https://news.ycombinator.com/item?id=48674290"
+      "2026-06-23, 17:40:01",
+      "https://news.ycombinator.com/item?id=48648493"
     ],
     [
-      "Do Babies Dream of Baby Sheep?",
-      "https://devz.cl/posts/do-babies-dream-of-electric-sheep/"
-    ]
-  ],
-  [
-    [
-      "2026-06-25, 14:30:01",
-      "https://news.ycombinator.com/item?id=48674006"
-    ],
-    [
-      "Build Yourself Flowers",
-      "https://vickiboykis.com/2026/04/20/build-yourself-flowers/"
-    ]
-  ],
-  [
-    [
-      "2026-06-25, 08:26:54",
-      "https://news.ycombinator.com/item?id=48670579"
-    ],
-    [
-      "Bringing Swift to the Apple ][",
-      "https://yeokhengmeng.com/2026/06/swift-on-apple-ii/"
+      "Trade, merchants, and the lost cities of the Bronze Age (2019) [pdf]",
+      "https://keremcosar.uvacreate.virginia.edu/publications/BCCH-BronzeAgeTrade-qje.pdf"
     ]
   ]
 ]
