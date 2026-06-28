@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-06-28](index.md)
 
+* [2026-06-28, 19:35:57](https://news.ycombinator.com/item?id=48710749) - [Ford rehires 'gray beard' engineers after AI falls short](https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/)
+* [2026-06-28, 18:59:53](https://news.ycombinator.com/item?id=48710350) - [Computer-Aided Language Development in Nonspeaking Children (1968) [pdf]](https://archive.org/details/colby1968-computer-aided-language-development-in-non-speaking-children)
+* [2026-06-28, 18:48:53](https://news.ycombinator.com/item?id=48710232) - [GitHub – librepods-org/librepods: AirPods liberated from Apple's ecosystem](https://github.com/librepods-org/librepods)
 * [2026-06-28, 18:32:53](https://news.ycombinator.com/item?id=48710092) - [Historical memory prices 1960-2026](https://dam.stanford.edu/memory-prices.html)
 * [2026-06-28, 18:31:54](https://news.ycombinator.com/item?id=48710082) - [The Cost Yagni Was Never About – By Kent Beck](https://newsletter.kentbeck.com/p/the-cost-yagni-was-never-about)
+* [2026-06-28, 17:50:47](https://news.ycombinator.com/item?id=48709670) - [Semgrep: GLM 5.2 beats Claude in our Cyber Benchmarks](https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/)
 * [2026-06-28, 16:58:59](https://news.ycombinator.com/item?id=48709187) - [Working around dragons with the Lemote Yeeloong laptop and OpenBSD](http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html)
 * [2026-06-28, 16:58:56](https://news.ycombinator.com/item?id=48709186) - [Show HN: DRM-Free Books](https://frequal.com/Perspectives/DrmFreeAuthors.html)
 * [2026-06-28, 16:35:19](https://news.ycombinator.com/item?id=48708941) - [I used Claude Code to get a second opinion on my MRI](https://antoine.fi/mri-analysis-using-claude-code-opus)
@@ -18,6 +22,7 @@
 * [2026-06-28, 15:26:14](https://news.ycombinator.com/item?id=48708182) - [Show HN: Zanagrams](https://zanagrams.com/)
 * [2026-06-28, 15:22:51](https://news.ycombinator.com/item?id=48708139) - [California legislature agrees to upload driver's licenses to national database](https://papersplease.org/wp/2026/06/27/california-legislature-agrees-to-upload-drivers-licenses-to-national-database/)
 * [2026-06-28, 14:46:03](https://news.ycombinator.com/item?id=48707769) - [Michigan bill would bar employers from requiring after-hours coms with workers](https://www.cbsnews.com/detroit/news/workplace-boundaries-act-employees-after-hours/)
+* [2026-06-28, 14:44:56](https://news.ycombinator.com/item?id=48707763) - [5k menus from the New York Public Library’s Buttolph Collection (1880-1920)](https://pudding.cool/2026/06/menu-story/)
 * [2026-06-28, 14:44:56](https://news.ycombinator.com/item?id=48707763) - [5k Restaurant Menus, Years 1880-1920](https://pudding.cool/2026/06/menu-collection/)
 * [2026-06-28, 14:40:13](https://news.ycombinator.com/item?id=48707719) - [EU to legislate about Chat Control behind closed doors](https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/)
 * [2026-06-28, 14:35:26](https://news.ycombinator.com/item?id=48707673) - [Flock cameras track more than your license plate, and they're spreading fast](https://www.engadget.com/2203000/flock-cameras-recording-license-plate/)
