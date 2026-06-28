@@ -45,6 +45,7 @@
 * [2026-06-25, 13:02:56](https://news.ycombinator.com/item?id=48672732) - [Apple raises prices of MacBooks, iPads](https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/)
 * [2026-06-25, 13:02:56](https://news.ycombinator.com/item?id=48672732) - [Apple announces significant price increases for MacBooks, iPads, more](https://9to5mac.com/2026/06/25/apple-price-increases-mac-ipad-more/)
 * [2026-06-25, 12:59:10](https://news.ycombinator.com/item?id=48672694) - [Why Does Everyone Hate AI?](https://paulkrugman.substack.com/p/why-does-everyone-hate-ai)
+* [2026-06-25, 12:49:13](https://news.ycombinator.com/item?id=48672569) - [Mobile Web Computing Before Smartphones. (University of Liverpool, ~2010) [pdf]](https://cgi.csc.liv.ac.uk/~trp/Teaching_Resources/COMP327/327-Lecture4-MobileWeb.pdf)
 * [2026-06-25, 12:42:55](https://news.ycombinator.com/item?id=48672506) - [SoftBank 2026 AGM [pdf]](https://group.softbank/media/Project/sbg/sbg/pdf/ir/investors/shareholders/2026/shareholders-meeting_46_05_en.pdf)
 * [2026-06-25, 12:30:36](https://news.ycombinator.com/item?id=48672389) - [Show HN: Secs-man, a secrets manager you can (not) rely on](https://github.com/Fran314/secrets-manager-rs)
 * [2026-06-25, 12:23:05](https://news.ycombinator.com/item?id=48672328) - [You didn't vibe code it, you stole it from open source&enterprise-licensed code](https://twitter.com/mfts0/status/2070080422482977095)

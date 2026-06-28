@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-06-28](index.md)
 
+* [2026-06-28, 13:34:14](https://news.ycombinator.com/item?id=48707146) - [Austria Lobbies EU to Host Anthropic After US Access Curbs](https://www.bloomberg.com/news/articles/2026-06-28/austria-lobbies-eu-to-host-anthropic-after-us-access-curbs)
 * [2026-06-28, 12:55:36](https://news.ycombinator.com/item?id=48706877) - [The origins of the school system aimed to produce independent, critical thinkers](https://www.cbc.ca/radio/ideas/humboldt-education-system-bildung-1.7172093)
+* [2026-06-28, 12:44:24](https://news.ycombinator.com/item?id=48706814) - [The curious case of the disappearing Polish S](https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/)
+* [2026-06-28, 12:41:45](https://news.ycombinator.com/item?id=48706796) - [The MUMPS 76 Primer – anniversary edition](https://github.com/rochus-keller/MUMPS/blob/main/docs/MUMPS_Primer.adoc)
 * [2026-06-28, 12:27:33](https://news.ycombinator.com/item?id=48706714) - [A way to exclude sensitive files issue still open for OpenAI Codex](https://github.com/openai/codex/issues/2847)
 * [2026-06-28, 12:23:25](https://news.ycombinator.com/item?id=48706690) - [Guy in his basement creates a drug to treat Alzheimer's disease using AI](https://twitter.com/DouglasYaoDY/status/2070904914050797582)
 * [2026-06-28, 11:56:16](https://news.ycombinator.com/item?id=48706560) - [Kids Act Would Require Age Checks to Get Online](https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online)
