@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-06-28, 12:23:25",
-      "https://news.ycombinator.com/item?id=48706690"
+      "2026-06-28, 12:55:36",
+      "https://news.ycombinator.com/item?id=48706877"
     ],
     [
-      "Guy in his basement creates a drug to treat Alzheimer's disease using AI",
-      "https://twitter.com/DouglasYaoDY/status/2070904914050797582"
+      "The origins of the school system aimed to produce independent, critical thinkers",
+      "https://www.cbc.ca/radio/ideas/humboldt-education-system-bildung-1.7172093"
+    ]
+  ],
+  [
+    [
+      "2026-06-28, 12:27:33",
+      "https://news.ycombinator.com/item?id=48706714"
+    ],
+    [
+      "A way to exclude sensitive files issue still open for OpenAI Codex",
+      "https://github.com/openai/codex/issues/2847"
     ]
   ],
   [
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=48706560"
     ],
     [
-      "Kids Act Would Require Age Checks to Get Online",
+      "Kids act would require age checks to get online",
       "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online"
     ]
   ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=48706554"
     ],
     [
-      "More evidence of life on Mars but still no life",
+      "More evidence of life on Mars but still no life (2025)",
       "https://www.cbc.ca/radio/quirks/more-evidence-of-life-on-mars-but-still-no-life-1.7649645"
     ]
   ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2026-06-26, 14:07:41",
-      "https://news.ycombinator.com/item?id=48686804"
-    ],
-    [
-      "Reflecting to optimise",
-      "https://magnusross.github.io/posts/reflecting-to-optimise/"
-    ]
-  ],
-  [
-    [
       "2026-06-26, 12:49:48",
       "https://news.ycombinator.com/item?id=48686032"
     ],
@@ -245,8 +245,18 @@
       "https://news.ycombinator.com/item?id=48672232"
     ],
     [
-      "Regular expressions that work \"everywhere\"",
+      "Regular expressions that work “everywhere”",
       "https://www.johndcook.com/blog/2026/06/23/regex-everywhere/"
+    ]
+  ],
+  [
+    [
+      "2026-06-25, 08:26:54",
+      "https://news.ycombinator.com/item?id=48670579"
+    ],
+    [
+      "Bringing Swift to the Apple ][",
+      "https://yeokhengmeng.com/2026/06/swift-on-apple-ii/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Experimenting with Random() in CSS",
       "https://polypane.app/blog/experimenting-with-random-in-css/"
-    ]
-  ],
-  [
-    [
-      "2026-06-24, 04:33:25",
-      "https://news.ycombinator.com/item?id=48655158"
-    ],
-    [
-      "Instantiating UI Components with Distinguishing Variations [pdf]",
-      "https://static.barik.net/barik/publications/chi2026/vaithilingam_celestial_chi26.pdf"
     ]
   ],
   [
