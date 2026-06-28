@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-06-28](index.md)
+
+* [2026-06-28, 00:15:17](https://news.ycombinator.com/item?id=48703083) - [America's Large Homebuilders Shift the Cost of Shoddy Construction to Buyers](https://hntrbrk.com/investigations/homebuilders)

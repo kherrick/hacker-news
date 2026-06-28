@@ -48,6 +48,7 @@
 * [2026-06-25, 12:42:55](https://news.ycombinator.com/item?id=48672506) - [SoftBank 2026 AGM [pdf]](https://group.softbank/media/Project/sbg/sbg/pdf/ir/investors/shareholders/2026/shareholders-meeting_46_05_en.pdf)
 * [2026-06-25, 12:30:36](https://news.ycombinator.com/item?id=48672389) - [Show HN: Secs-man, a secrets manager you can (not) rely on](https://github.com/Fran314/secrets-manager-rs)
 * [2026-06-25, 12:23:05](https://news.ycombinator.com/item?id=48672328) - [You didn't vibe code it, you stole it from open source&enterprise-licensed code](https://twitter.com/mfts0/status/2070080422482977095)
+* [2026-06-25, 12:13:24](https://news.ycombinator.com/item?id=48672232) - [Regular expressions that work \"everywhere\"](https://www.johndcook.com/blog/2026/06/23/regex-everywhere/)
 * [2026-06-25, 11:29:13](https://news.ycombinator.com/item?id=48671886) - [Show HN: Turn native language audio into flashcards and shadowing practice](https://lingochunk.com/try)
 * [2026-06-25, 10:28:16](https://news.ycombinator.com/item?id=48671468) - [LastPass notifies users of yet another data breach](https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/)
 * [2026-06-25, 10:20:07](https://news.ycombinator.com/item?id=48671392) - [Dolphin Emulator Progress Release 2606](https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/)
