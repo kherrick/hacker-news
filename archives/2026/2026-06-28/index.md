@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-28](index.md)
 
+* [2026-06-28, 15:22:51](https://news.ycombinator.com/item?id=48708139) - [California legislature agrees to upload driver's licenses to national database](https://papersplease.org/wp/2026/06/27/california-legislature-agrees-to-upload-drivers-licenses-to-national-database/)
 * [2026-06-28, 14:46:03](https://news.ycombinator.com/item?id=48707769) - [Michigan bill would bar employers from requiring after-hours coms with workers](https://www.cbsnews.com/detroit/news/workplace-boundaries-act-employees-after-hours/)
 * [2026-06-28, 14:44:56](https://news.ycombinator.com/item?id=48707763) - [5k Restaurant Menus, Years 1880-1920](https://pudding.cool/2026/06/menu-collection/)
 * [2026-06-28, 14:40:13](https://news.ycombinator.com/item?id=48707719) - [EU to legislate about Chat Control behind closed doors](https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/)
