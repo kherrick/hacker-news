@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-06-28](index.md)
 
+* [2026-06-28, 16:58:59](https://news.ycombinator.com/item?id=48709187) - [Working around dragons with the Lemote Yeeloong laptop and OpenBSD](http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html)
 * [2026-06-28, 16:35:19](https://news.ycombinator.com/item?id=48708941) - [I used Claude Code to get a second opinion on my MRI](https://antoine.fi/mri-analysis-using-claude-code-opus)
 * [2026-06-28, 16:28:50](https://news.ycombinator.com/item?id=48708859) - [Daisugi the Japanese Technique of Trees Out of Trees, Making Exact Straight Wood](https://www.openculture.com/2020/10/daisugi.html)
 * [2026-06-28, 16:24:10](https://news.ycombinator.com/item?id=48708795) - [Tokenmaxxing is dead, long live Tokenmaxxing](https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing)
+* [2026-06-28, 16:17:38](https://news.ycombinator.com/item?id=48708721) - [Reflections on Software Engineering in the Age of AI](https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/)
 * [2026-06-28, 16:16:07](https://news.ycombinator.com/item?id=48708700) - [Examining circuit boards from the Space Shuttle's I/O Processor](https://www.righto.com/2026/06/space-shuttle-io-processor-boards.html)
+* [2026-06-28, 15:55:31](https://news.ycombinator.com/item?id=48708496) - [Programmable Probabilistic Computer with 1M p-bits](https://arxiv.org/abs/2606.25313)
 * [2026-06-28, 15:32:44](https://news.ycombinator.com/item?id=48708265) - [Does Your Paper Really Suck?](https://www.sina.bio/posts/does-your-paper-really-suck.html)
 * [2026-06-28, 15:26:14](https://news.ycombinator.com/item?id=48708182) - [Show HN: Zanagrams](https://zanagrams.com/)
 * [2026-06-28, 15:22:51](https://news.ycombinator.com/item?id=48708139) - [California legislature agrees to upload driver's licenses to national database](https://papersplease.org/wp/2026/06/27/california-legislature-agrees-to-upload-drivers-licenses-to-national-database/)
