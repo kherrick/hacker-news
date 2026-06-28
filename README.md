@@ -24,10 +24,10 @@
 * [2026-06-26, 14:07:41](https://news.ycombinator.com/item?id=48686804) - [Reflecting to optimise](https://magnusross.github.io/posts/reflecting-to-optimise/)
 * [2026-06-26, 12:49:48](https://news.ycombinator.com/item?id=48686032) - [Space Shuttle Endeavour's 20-story vertical display](https://californiasciencecenter.org/about-us/samuel-oschin-air-and-space-center/go-for-stack)
 * [2026-06-26, 12:41:31](https://news.ycombinator.com/item?id=48685967) - [Engineering for Bounded Cognition](https://shapeofthesystem.com/posts/2026/02/03/bounded-cognition)
+* [2026-06-26, 12:00:15](https://news.ycombinator.com/item?id=48685625) - [From Pentagons to Pentagrams](https://johncarlosbaez.wordpress.com/2026/05/29/from-pentagons-to-pentagrams/)
 * [2026-06-25, 12:13:24](https://news.ycombinator.com/item?id=48672232) - [Regular expressions that work \"everywhere\"](https://www.johndcook.com/blog/2026/06/23/regex-everywhere/)
 * [2026-06-24, 18:42:12](https://news.ycombinator.com/item?id=48664063) - [Reducing tick density along recreational trails in Ottawa, Canada](https://www.sciencedirect.com/science/article/pii/S1877959X26000476)
 * [2026-06-24, 14:02:16](https://news.ycombinator.com/item?id=48660021) - [AI learns the “dark art” of RFIC design](https://spectrum.ieee.org/ai-radio-chip-design)
-* [2026-06-24, 13:31:10](https://news.ycombinator.com/item?id=48659517) - [How do you keep Web MIDI from crashing a 1983 synthesizer?](https://knob.monster/how-do-you-keep-web-midi-from-crashing-a-1983-synthesizer)
 * [2026-06-24, 12:51:21](https://news.ycombinator.com/item?id=48658960) - [Experimenting with Random() in CSS](https://polypane.app/blog/experimenting-with-random-in-css/)
 * [2026-06-23, 21:56:33](https://news.ycombinator.com/item?id=48652019) - [A stray \"j\" ruined my evening](https://napkins.mtmn.name/posts/stray-jay.html)
 

@@ -49,6 +49,7 @@
 * [2026-06-26, 12:49:48](https://news.ycombinator.com/item?id=48686032) - [Space Shuttle Endeavour's 20-story vertical display](https://californiasciencecenter.org/about-us/samuel-oschin-air-and-space-center/go-for-stack)
 * [2026-06-26, 12:41:31](https://news.ycombinator.com/item?id=48685967) - [The Shape of the System - Engineering for Bounded Cognition](https://shapeofthesystem.com/posts/2026/02/03/bounded-cognition)
 * [2026-06-26, 12:06:17](https://news.ycombinator.com/item?id=48685677) - [Captcha proves you're human. HATCHA proves you're not](https://github.com/mondaycom/HATCHA)
+* [2026-06-26, 12:00:15](https://news.ycombinator.com/item?id=48685625) - [From Pentagons to Pentagrams](https://johncarlosbaez.wordpress.com/2026/05/29/from-pentagons-to-pentagrams/)
 * [2026-06-26, 11:51:11](https://news.ycombinator.com/item?id=48685558) - [Ultrasound Imaging of the Brain](https://alephneuro.com/blog/ultrasound-brain)
 * [2026-06-26, 07:44:11](https://news.ycombinator.com/item?id=48683588) - [Why current LLM costs are not sustainable](https://aditya.patadia.org/p/ai-and-cloud-costs)
 * [2026-06-26, 06:27:25](https://news.ycombinator.com/item?id=48683041) - [Micron locks in historically high memory prices for five years](https://www.theregister.com/systems/2026/06/25/micron-locks-in-historically-high-memory-prices-for-five-years/5261854)
