@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-06-28, 07:45:23](https://news.ycombinator.com/item?id=48705276) - [Can China build its own ASML?](https://nikkei.shorthandstories.com/can-china-build-its-own-asml/)
 * [2026-06-28, 04:48:32](https://news.ycombinator.com/item?id=48704454) - [Bashblog – a single bash script to create blogs](https://github.com/cfenollosa/bashblog)
 * [2026-06-28, 04:31:18](https://news.ycombinator.com/item?id=48704373) - [Wayfinder Router: deterministic routing of queries between local and hosted LLM](https://github.com/itsthelore/wayfinder-router)
 * [2026-06-28, 03:09:13](https://news.ycombinator.com/item?id=48703968) - [Ford hired AI and sacked humans. It backfired badly](https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html)
@@ -12,12 +13,10 @@
 * [2026-06-27, 23:32:58](https://news.ycombinator.com/item?id=48702848) - [WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups](https://clickhouse.com/blog/walrus-postgres-backups-in-rust)
 * [2026-06-27, 22:11:28](https://news.ycombinator.com/item?id=48702273) - [Choosing a Public DNS Resolver](https://evilbit.de/dns-resolver-guide.html)
 * [2026-06-27, 21:27:36](https://news.ycombinator.com/item?id=48701936) - [Enhancing X11 Application Security with LXC (2025)](https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/)
-* [2026-06-27, 19:09:49](https://news.ycombinator.com/item?id=48700834) - [IP Crawl: Living atlas of open webcams discovered on the public internet](https://ipcrawl.com/)
 * [2026-06-27, 17:11:20](https://news.ycombinator.com/item?id=48699928) - [Turn your site into a place people can bump into each other](https://cauenapier.com/blog/townsquare_release/)
 * [2026-06-27, 14:31:00](https://news.ycombinator.com/item?id=48698617) - [Anonymous GitHub account mass-dropping undisclosed 0-days](https://github.com/bikini/exploitarium)
 * [2026-06-27, 14:23:40](https://news.ycombinator.com/item?id=48698559) - [Post-Mythos Cybersecurity: Keep calm and carry on](https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/)
 * [2026-06-27, 13:32:20](https://news.ycombinator.com/item?id=48698151) - [Suspicious Discontinuities (2020)](https://danluu.com/discontinuities/)
-* [2026-06-27, 13:10:21](https://news.ycombinator.com/item?id=48697958) - [Asian AI startups launch Mythos-like models](https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/)
 * [2026-06-27, 12:10:27](https://news.ycombinator.com/item?id=48697560) - [OpenRA](https://www.openra.net/)
 * [2026-06-27, 11:32:10](https://news.ycombinator.com/item?id=48697335) - [The case for physical media ownership](https://dervis.de/physical/)
 * [2026-06-27, 10:28:53](https://news.ycombinator.com/item?id=48696982) - [Fintech Engineering Handbook](https://w.pitula.me/fintech-engineering-handbook/)
@@ -29,7 +28,8 @@
 * [2026-06-24, 18:42:12](https://news.ycombinator.com/item?id=48664063) - [Reducing tick density along recreational trails in Ottawa, Canada](https://www.sciencedirect.com/science/article/pii/S1877959X26000476)
 * [2026-06-24, 14:02:16](https://news.ycombinator.com/item?id=48660021) - [AI learns the “dark art” of RFIC design](https://spectrum.ieee.org/ai-radio-chip-design)
 * [2026-06-24, 13:31:10](https://news.ycombinator.com/item?id=48659517) - [How do you keep Web MIDI from crashing a 1983 synthesizer?](https://knob.monster/how-do-you-keep-web-midi-from-crashing-a-1983-synthesizer)
-* [2026-06-23, 17:40:01](https://news.ycombinator.com/item?id=48648493) - [Ancient Tablets Show Markets Worked 4k Years Before Economists Explained Them](https://thedailyeconomy.org/article/ancient-clay-tablets-show-markets-worked-4000-years-before-economists-explained-them/)
+* [2026-06-24, 12:51:21](https://news.ycombinator.com/item?id=48658960) - [Experimenting with Random() in CSS](https://polypane.app/blog/experimenting-with-random-in-css/)
+* [2026-06-23, 21:56:33](https://news.ycombinator.com/item?id=48652019) - [A stray \"j\" ruined my evening](https://napkins.mtmn.name/posts/stray-jay.html)
 
 ## [Archives](archives/index.md)
 

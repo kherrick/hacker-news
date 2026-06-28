@@ -11,6 +11,7 @@
 * [2026-06-23, 23:21:35](https://news.ycombinator.com/item?id=48652997) - [Advanced Nintendo Entertainment System (ANES) – NES Modded to Use 2 PPUs](https://github.com/decrazyo/anes)
 * [2026-06-23, 22:12:18](https://news.ycombinator.com/item?id=48652184) - [California AB 2047 makes 3d printers off-limits to students, educators, business](https://www.the3dprintingnerd.com/ab2047)
 * [2026-06-23, 21:57:32](https://news.ycombinator.com/item?id=48652028) - [United Wizards of the Coast recognized by NLRB](https://unitedwizardsofthecoast.com/news/2026-06-23-we-have-a-union)
+* [2026-06-23, 21:56:33](https://news.ycombinator.com/item?id=48652019) - [A stray \"j\" ruined my evening](https://napkins.mtmn.name/posts/stray-jay.html)
 * [2026-06-23, 21:53:31](https://news.ycombinator.com/item?id=48651991) - [WaPo Loves Data Centers More Than Disclosing Bezos's Financial Interest in Them](https://washingtonian.com/2026/06/23/the-washington-post-loves-data-centers-a-lot-more-than-disclosing-jeff-bezos-financial-interest-in-promoting-them/)
 * [2026-06-23, 21:29:20](https://news.ycombinator.com/item?id=48651727) - [ATProto Permissioned Data Proposal Draft](https://github.com/bluesky-social/proposals/pull/94)
 * [2026-06-23, 21:19:44](https://news.ycombinator.com/item?id=48651613) - [Trains halted across Germany because of communication system problem](https://apnews.com/article/germany-trains-halted-communications-radio-problem-deutsche-bahn-e8fd970b2d889f3ae7ce03322d5c726b)
