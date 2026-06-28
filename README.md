@@ -27,9 +27,9 @@
 * [2026-06-28, 11:56:16](https://news.ycombinator.com/item?id=48706560) - [The KIDS Act would require age checks to get online](https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online)
 * [2026-06-28, 11:55:08](https://news.ycombinator.com/item?id=48706554) - [More evidence is consistent with possible ancient life on Mars (2025)](https://www.cbc.ca/radio/quirks/more-evidence-of-life-on-mars-but-still-no-life-1.7649645)
 * [2026-06-28, 02:23:08](https://news.ycombinator.com/item?id=48703759) - [Marfa Public Radio Puts You to Sleep](https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep)
-* [2026-06-26, 06:19:39](https://news.ycombinator.com/item?id=48682979) - [Linux Kills Strncpy](https://smist08.wordpress.com/2026/06/25/linux-kills-strncpy/)
 * [2026-06-26, 04:54:29](https://news.ycombinator.com/item?id=48682461) - [Show HN: Appaca – AI Workspace for Operators](https://www.appaca.ai/)
 * [2026-06-25, 15:54:46](https://news.ycombinator.com/item?id=48675295) - [The Boeing 747 begins its final descent](https://www.theatlantic.com/magazine/2026/07/boeing-747-retirement/687304/)
+* [2026-06-23, 17:40:01](https://news.ycombinator.com/item?id=48648493) - [Trade, merchants, and the lost cities of the Bronze Age (2019) [pdf]](https://keremcosar.uvacreate.virginia.edu/publications/BCCH-BronzeAgeTrade-qje.pdf)
 
 ## [Archives](archives/index.md)
 
