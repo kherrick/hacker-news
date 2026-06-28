@@ -41,6 +41,7 @@
 * [2026-06-26, 15:04:36](https://news.ycombinator.com/item?id=48687508) - [Mullvad founder gave millions to extremist far right party](https://mastodon.social/@raphaelrobert/116816274242387568)
 * [2026-06-26, 15:02:43](https://news.ycombinator.com/item?id=48687483) - [The AI industry is pouring millions into US elections](https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds)
 * [2026-06-26, 14:46:00](https://news.ycombinator.com/item?id=48687272) - [Jolla Phone, Over 13 500 units sold](https://commerce.jolla.com/products/jolla-phone-october-2026)
+* [2026-06-26, 14:32:57](https://news.ycombinator.com/item?id=48687106) - [The Excavator That Digs to a Line It Cannot See – Mobility and Field Robotics](https://atomsfrontier.substack.com/p/the-excavator-that-digs-to-a-line)
 * [2026-06-26, 14:10:26](https://news.ycombinator.com/item?id=48686834) - [Why have papers by one of history's most famous physicists been retracted?](https://www.science.org/content/article/why-have-papers-one-history-s-most-famous-physicists-been-retracted)
 * [2026-06-26, 14:07:41](https://news.ycombinator.com/item?id=48686804) - [Reflecting to optimise](https://magnusross.github.io/posts/reflecting-to-optimise/)
 * [2026-06-26, 13:12:04](https://news.ycombinator.com/item?id=48686219) - [The AI backlash is only getting started](https://www.economist.com/leaders/2026/06/25/the-ai-backlash-is-only-getting-started)

@@ -9,7 +9,6 @@
 * [2026-06-28, 18:56:46](https://news.ycombinator.com/item?id=48710325) - [British Origami: the 1955 exhibition by Akira Yoshizawa](https://www.britishorigami.org/cp-lister-list/the-1955-exhibition-by-akira-yoshizawa/)
 * [2026-06-28, 18:48:53](https://news.ycombinator.com/item?id=48710232) - [Librepods: AirPods liberated](https://github.com/librepods-org/librepods)
 * [2026-06-28, 18:32:53](https://news.ycombinator.com/item?id=48710092) - [Historical memory prices 1960-2026](https://dam.stanford.edu/memory-prices.html)
-* [2026-06-28, 18:31:54](https://news.ycombinator.com/item?id=48710082) - [The cost YAGNI was never about](https://newsletter.kentbeck.com/p/the-cost-yagni-was-never-about)
 * [2026-06-28, 17:50:47](https://news.ycombinator.com/item?id=48709670) - [GLM 5.2 beats Claude in our benchmarks](https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/)
 * [2026-06-28, 16:58:59](https://news.ycombinator.com/item?id=48709187) - [Working around dragons with the Lemote Yeeloong laptop and OpenBSD](http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html)
 * [2026-06-28, 16:58:56](https://news.ycombinator.com/item?id=48709186) - [Show HN: DRM-Free Books](https://frequal.com/Perspectives/DrmFreeAuthors.html)
@@ -28,6 +27,7 @@
 * [2026-06-28, 11:56:16](https://news.ycombinator.com/item?id=48706560) - [The KIDS Act would require age checks to get online](https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online)
 * [2026-06-28, 11:55:08](https://news.ycombinator.com/item?id=48706554) - [More evidence is consistent with possible ancient life on Mars (2025)](https://www.cbc.ca/radio/quirks/more-evidence-of-life-on-mars-but-still-no-life-1.7649645)
 * [2026-06-28, 02:23:08](https://news.ycombinator.com/item?id=48703759) - [Marfa Public Radio Puts You to Sleep](https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep)
+* [2026-06-26, 14:32:57](https://news.ycombinator.com/item?id=48687106) - [The Excavator That Digs to a Line It Cannot See – Mobility and Field Robotics](https://atomsfrontier.substack.com/p/the-excavator-that-digs-to-a-line)
 * [2026-06-25, 19:51:33](https://news.ycombinator.com/item?id=48678377) - [Staying Awake (2008)](https://harpers.org/archive/2008/02/staying-awake/)
 * [2026-06-25, 15:54:46](https://news.ycombinator.com/item?id=48675295) - [The Boeing 747 begins its final descent](https://www.theatlantic.com/magazine/2026/07/boeing-747-retirement/687304/)
 
