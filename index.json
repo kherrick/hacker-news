@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-28, 04:31:18",
+      "https://news.ycombinator.com/item?id=48704373"
+    ],
+    [
+      "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+      "https://github.com/itsthelore/wayfinder-router"
+    ]
+  ],
+  [
+    [
+      "2026-06-28, 03:09:13",
+      "https://news.ycombinator.com/item?id=48703968"
+    ],
+    [
+      "Ford hired AI and sacked humans. It backfired badly",
+      "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html"
+    ]
+  ],
+  [
+    [
       "2026-06-28, 02:23:08",
       "https://news.ycombinator.com/item?id=48703759"
     ],
@@ -71,16 +91,6 @@
   ],
   [
     [
-      "2026-06-27, 21:44:57",
-      "https://news.ycombinator.com/item?id=48702060"
-    ],
-    [
-      "Michigan spent $1.8B and only created 602 jobs",
-      "https://www.msn.com/en-us/money/general/michigan-spent-1-8-billion-and-only-created-602-jobs/ar-AA26Cusu"
-    ]
-  ],
-  [
-    [
       "2026-06-27, 21:34:06",
       "https://news.ycombinator.com/item?id=48701984"
     ],
@@ -97,16 +107,6 @@
     [
       "Enhancing X11 Application Security with LXC",
       "https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/"
-    ]
-  ],
-  [
-    [
-      "2026-06-27, 20:34:53",
-      "https://news.ycombinator.com/item?id=48701512"
-    ],
-    [
-      "Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work",
-      "https://github.com/kageroumado/adrafinil"
     ]
   ],
   [
@@ -221,22 +221,22 @@
   ],
   [
     [
-      "2026-06-26, 16:20:06",
-      "https://news.ycombinator.com/item?id=48688438"
-    ],
-    [
-      "One man, two kernels, and a lot of RISC-V",
-      "https://www.theregister.com/software/2026/06/26/one-man-two-kernels-and-a-lot-of-risc-v/5262858"
-    ]
-  ],
-  [
-    [
       "2026-06-26, 12:49:48",
       "https://news.ycombinator.com/item?id=48686032"
     ],
     [
       "Space Shuttle Endeavour's 20-story vertical display",
       "https://californiasciencecenter.org/about-us/samuel-oschin-air-and-space-center/go-for-stack"
+    ]
+  ],
+  [
+    [
+      "2026-06-26, 12:41:31",
+      "https://news.ycombinator.com/item?id=48685967"
+    ],
+    [
+      "The Shape of the System - Engineering for Bounded Cognition",
+      "https://shapeofthesystem.com/posts/2026/02/03/bounded-cognition"
     ]
   ],
   [
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2026-06-24, 14:24:03",
-      "https://news.ycombinator.com/item?id=48660441"
-    ],
-    [
-      "Paradise Revisited: What Darwin Saw in the Galápagos",
-      "https://www.theatlantic.com/magazine/2026/08/writers-way-galapagos-charles-darwin-travel/687480/"
-    ]
-  ],
-  [
-    [
       "2026-06-24, 14:02:16",
       "https://news.ycombinator.com/item?id=48660021"
     ],
@@ -297,6 +287,16 @@
     [
       "How do you keep Web MIDI from crashing a 1983 synthesizer?",
       "https://knob.monster/how-do-you-keep-web-midi-from-crashing-a-1983-synthesizer"
+    ]
+  ],
+  [
+    [
+      "2026-06-23, 17:40:01",
+      "https://news.ycombinator.com/item?id=48648493"
+    ],
+    [
+      "Ancient Tablets Show Markets Worked 4k Years Before Economists Explained Them",
+      "https://thedailyeconomy.org/article/ancient-clay-tablets-show-markets-worked-4000-years-before-economists-explained-them/"
     ]
   ]
 ]
