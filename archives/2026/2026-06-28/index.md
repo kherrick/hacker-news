@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-28](index.md)
 
+* [2026-06-28, 12:55:36](https://news.ycombinator.com/item?id=48706877) - [The origins of the school system aimed to produce independent, critical thinkers](https://www.cbc.ca/radio/ideas/humboldt-education-system-bildung-1.7172093)
+* [2026-06-28, 12:27:33](https://news.ycombinator.com/item?id=48706714) - [A way to exclude sensitive files issue still open for OpenAI Codex](https://github.com/openai/codex/issues/2847)
 * [2026-06-28, 12:23:25](https://news.ycombinator.com/item?id=48706690) - [Guy in his basement creates a drug to treat Alzheimer's disease using AI](https://twitter.com/DouglasYaoDY/status/2070904914050797582)
 * [2026-06-28, 11:56:16](https://news.ycombinator.com/item?id=48706560) - [Kids Act Would Require Age Checks to Get Online](https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online)
 * [2026-06-28, 11:55:08](https://news.ycombinator.com/item?id=48706554) - [More evidence of life on Mars but still no life](https://www.cbc.ca/radio/quirks/more-evidence-of-life-on-mars-but-still-no-life-1.7649645)
