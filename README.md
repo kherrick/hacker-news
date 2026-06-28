@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-06-27, 23:05:33](https://news.ycombinator.com/item?id=48702645) - [Codeberg Is Down](https://social.anoxinon.de/@codebergstatus/116824443563698727)
 * [2026-06-27, 22:11:28](https://news.ycombinator.com/item?id=48702273) - [Choosing a Public DNS Resolver](https://evilbit.de/dns-resolver-guide.html)
 * [2026-06-27, 21:50:32](https://news.ycombinator.com/item?id=48702104) - [Show HN: Starglyphs - A constellation puzzle game based on Euler paths](https://starglyphs.com)
 * [2026-06-27, 21:44:57](https://news.ycombinator.com/item?id=48702060) - [Michigan spent $1.8B and only created 602 jobs](https://www.msn.com/en-us/money/general/michigan-spent-1-8-billion-and-only-created-602-jobs/ar-AA26Cusu)
@@ -29,7 +30,6 @@
 * [2026-06-24, 14:24:03](https://news.ycombinator.com/item?id=48660441) - [Paradise Revisited: What Darwin Saw in the Galápagos](https://www.theatlantic.com/magazine/2026/08/writers-way-galapagos-charles-darwin-travel/687480/)
 * [2026-06-24, 14:02:16](https://news.ycombinator.com/item?id=48660021) - [AI learns the “dark art” of RFIC design](https://spectrum.ieee.org/ai-radio-chip-design)
 * [2026-06-24, 13:31:10](https://news.ycombinator.com/item?id=48659517) - [How do you keep Web MIDI from crashing a 1983 synthesizer?](https://knob.monster/how-do-you-keep-web-midi-from-crashing-a-1983-synthesizer)
-* [2026-06-23, 20:21:19](https://news.ycombinator.com/item?id=48650794) - [Underarm bowling incident of 1981](https://en.wikipedia.org/wiki/Underarm_bowling_incident_of_1981)
 
 ## [Archives](archives/index.md)
 
