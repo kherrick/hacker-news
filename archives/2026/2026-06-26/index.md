@@ -55,6 +55,7 @@
 * [2026-06-26, 07:44:11](https://news.ycombinator.com/item?id=48683588) - [Why current LLM costs are not sustainable](https://aditya.patadia.org/p/ai-and-cloud-costs)
 * [2026-06-26, 06:27:25](https://news.ycombinator.com/item?id=48683041) - [Micron locks in historically high memory prices for five years](https://www.theregister.com/systems/2026/06/25/micron-locks-in-historically-high-memory-prices-for-five-years/5261854)
 * [2026-06-26, 06:24:39](https://news.ycombinator.com/item?id=48683021) - [US Govt to individually approve who gets GPT 5.6](https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56/)
+* [2026-06-26, 06:19:39](https://news.ycombinator.com/item?id=48682979) - [Linux Kills Strncpy](https://smist08.wordpress.com/2026/06/25/linux-kills-strncpy/)
 * [2026-06-26, 05:40:36](https://news.ycombinator.com/item?id=48682737) - [We All Depend on Open Source. We Will Defend It Together](https://akrites.org/letter/)
 * [2026-06-26, 04:13:28](https://news.ycombinator.com/item?id=48682243) - [Faster KNN search in Manticore: 2-pass HNSW, batched distances, and AVX-512](https://medium.com/@s_nikolaev/faster-knn-search-in-manticore-2-pass-hnsw-batched-distances-and-avx-512-b85604647aab)
 * [2026-06-26, 03:35:49](https://news.ycombinator.com/item?id=48682066) - [Why are we so obsessed with lawns?](https://www.gardensillustrated.com/features/the-history-of-lawns)
