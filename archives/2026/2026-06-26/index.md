@@ -22,6 +22,7 @@
 * [2026-06-26, 20:07:18](https://news.ycombinator.com/item?id=48691346) - [PlayStation Is Deleting 551 Movies from Customers' Accounts](https://kotaku.com/playstation-store-movies-digital-studio-canal-terminator-2000711013)
 * [2026-06-26, 19:59:32](https://news.ycombinator.com/item?id=48691255) - [Israel Asked Facebook to Censor Iran War Content, Internal Documents Show](https://theintercept.com/2026/06/18/israel-facebook-censor-content-moderation-iran-war/)
 * [2026-06-26, 19:12:20](https://news.ycombinator.com/item?id=48690709) - [Long Wave radio era set to end with Droitwich switch-off](https://www.bbc.com/news/articles/c74yn7v7k4qo)
+* [2026-06-26, 18:53:40](https://news.ycombinator.com/item?id=48690481) - [Designing a Personal Pebble Watchface](https://www.jonashietala.se/blog/2026/06/26/designing_a_personal_pebble_watchface/)
 * [2026-06-26, 18:32:22](https://news.ycombinator.com/item?id=48690231) - [Gossamer: a Rust-flavoured language with real goroutines and pause-free memory](https://gossamer-lang.org/)
 * [2026-06-26, 18:30:11](https://news.ycombinator.com/item?id=48690200) - [Slisp: Simple Lisp compiler (Linux/amd64)](https://github.com/skx/slisp)
 * [2026-06-26, 18:25:15](https://news.ycombinator.com/item?id=48690130) - [Made a Rust DB run spatial queries on gaming GPU RT cores, beating an H100](https://sedona.apache.org/latest/blog/2026/06/26/sedonadb-04-gpu-accelerated-spatial-joins/)
