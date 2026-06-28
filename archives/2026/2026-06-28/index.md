@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-06-28](index.md)
 
+* [2026-06-28, 22:32:04](https://news.ycombinator.com/item?id=48712420) - [Knowledge Distillation of Black-Box Large Language Models](https://arxiv.org/abs/2401.07013)
+* [2026-06-28, 22:21:51](https://news.ycombinator.com/item?id=48712338) - [A QNX-inspired operating system with selectable kernels](https://qsoe.net)
+* [2026-06-28, 20:39:50](https://news.ycombinator.com/item?id=48711403) - [POSIX Is Not a Shell](https://alganet.github.io/blog/2026-06-28-12-POSIX-Is-Not-A-Shell.html)
 * [2026-06-28, 19:43:10](https://news.ycombinator.com/item?id=48710827) - [Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs](https://github.com/kamaludu/bash4llm/)
 * [2026-06-28, 19:38:14](https://news.ycombinator.com/item?id=48710778) - [Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch](https://github.com/JustVugg/nanoeuler)
 * [2026-06-28, 19:38:00](https://news.ycombinator.com/item?id=48710775) - [TOP500 at ISC'26: We Have a New Number 1 – By George Cozma](https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number)
