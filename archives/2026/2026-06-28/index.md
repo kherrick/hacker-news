@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-06-28](index.md)
 
 * [2026-06-28, 16:58:59](https://news.ycombinator.com/item?id=48709187) - [Working around dragons with the Lemote Yeeloong laptop and OpenBSD](http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html)
+* [2026-06-28, 16:58:56](https://news.ycombinator.com/item?id=48709186) - [Show HN: DRM-Free Books](https://frequal.com/Perspectives/DrmFreeAuthors.html)
 * [2026-06-28, 16:35:19](https://news.ycombinator.com/item?id=48708941) - [I used Claude Code to get a second opinion on my MRI](https://antoine.fi/mri-analysis-using-claude-code-opus)
 * [2026-06-28, 16:28:50](https://news.ycombinator.com/item?id=48708859) - [Daisugi the Japanese Technique of Trees Out of Trees, Making Exact Straight Wood](https://www.openculture.com/2020/10/daisugi.html)
 * [2026-06-28, 16:24:10](https://news.ycombinator.com/item?id=48708795) - [Tokenmaxxing is dead, long live Tokenmaxxing](https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing)
