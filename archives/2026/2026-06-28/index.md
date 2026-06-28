@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-28](index.md)
 
+* [2026-06-28, 18:31:54](https://news.ycombinator.com/item?id=48710082) - [The Cost Yagni Was Never About – By Kent Beck](https://newsletter.kentbeck.com/p/the-cost-yagni-was-never-about)
 * [2026-06-28, 16:58:59](https://news.ycombinator.com/item?id=48709187) - [Working around dragons with the Lemote Yeeloong laptop and OpenBSD](http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html)
 * [2026-06-28, 16:58:56](https://news.ycombinator.com/item?id=48709186) - [Show HN: DRM-Free Books](https://frequal.com/Perspectives/DrmFreeAuthors.html)
 * [2026-06-28, 16:35:19](https://news.ycombinator.com/item?id=48708941) - [I used Claude Code to get a second opinion on my MRI](https://antoine.fi/mri-analysis-using-claude-code-opus)
