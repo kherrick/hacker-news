@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-06-28, 06:00:31](https://news.ycombinator.com/item?id=48704816) - [Armadillo – A DNS Server in Gleam for Homelab Use](https://github.com/vshakitskiy/armadillo)
 * [2026-06-28, 04:48:32](https://news.ycombinator.com/item?id=48704454) - [Bashblog – a single bash script to create blogs](https://github.com/cfenollosa/bashblog)
 * [2026-06-28, 04:31:18](https://news.ycombinator.com/item?id=48704373) - [Wayfinder Router: deterministic routing of queries between local and hosted LLM](https://github.com/itsthelore/wayfinder-router)
-* [2026-06-28, 03:09:13](https://news.ycombinator.com/item?id=48703968) - [Ford hired AI and sacked humans. It backfired badly](https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html)
 * [2026-06-28, 02:23:08](https://news.ycombinator.com/item?id=48703759) - [Marfa Public Radio Puts You to Sleep](https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep)
 * [2026-06-28, 01:28:10](https://news.ycombinator.com/item?id=48703452) - [The best response to AI slop and online noise is from Robin Williams](https://jayacunzo.com/blog/your-move-chief)
 * [2026-06-28, 01:22:30](https://news.ycombinator.com/item?id=48703418) - [Turning music into a chore is how I became a musician (2022)](https://the.scapegoat.dev/turning-music-into-a-chore-is-what-made-me-an-artist/)
@@ -10,7 +10,7 @@
 * [2026-06-28, 00:46:52](https://news.ycombinator.com/item?id=48703258) - [AMD Strix Halo RDMA Cluster Setup Guide](https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md)
 * [2026-06-27, 23:32:58](https://news.ycombinator.com/item?id=48702848) - [WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups](https://clickhouse.com/blog/walrus-postgres-backups-in-rust)
 * [2026-06-27, 22:11:28](https://news.ycombinator.com/item?id=48702273) - [Choosing a Public DNS Resolver](https://evilbit.de/dns-resolver-guide.html)
-* [2026-06-27, 21:27:36](https://news.ycombinator.com/item?id=48701936) - [Enhancing X11 Application Security with LXC (2025)](https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/)
+* [2026-06-27, 21:27:36](https://news.ycombinator.com/item?id=48701936) - [Enhancing x11 Application Security with LXC (2025)](https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/)
 * [2026-06-27, 17:11:20](https://news.ycombinator.com/item?id=48699928) - [Turn your site into a place people can bump into each other](https://cauenapier.com/blog/townsquare_release/)
 * [2026-06-27, 14:31:00](https://news.ycombinator.com/item?id=48698617) - [Anonymous GitHub account mass-dropping undisclosed 0-days](https://github.com/bikini/exploitarium)
 * [2026-06-27, 14:23:40](https://news.ycombinator.com/item?id=48698559) - [Post-Mythos Cybersecurity: Keep calm and carry on](https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/)
