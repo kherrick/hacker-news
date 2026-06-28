@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-28, 18:31:54",
+      "https://news.ycombinator.com/item?id=48710082"
+    ],
+    [
+      "The Cost Yagni Was Never About – By Kent Beck",
+      "https://newsletter.kentbeck.com/p/the-cost-yagni-was-never-about"
+    ]
+  ],
+  [
+    [
       "2026-06-28, 16:58:59",
       "https://news.ycombinator.com/item?id=48709187"
     ],
@@ -37,16 +47,6 @@
     [
       "Daisugi, the Japanese technique of growing trees out of other trees (2020)",
       "https://www.openculture.com/2020/10/daisugi.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-28, 16:24:10",
-      "https://news.ycombinator.com/item?id=48708795"
-    ],
-    [
-      "Tokenmaxxing is dead, long live Tokenmaxxing",
-      "https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing"
     ]
   ],
   [
@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2026-06-28, 14:05:47",
-      "https://news.ycombinator.com/item?id=48707361"
-    ],
-    [
-      "EU Open Sources Ten-Year Network Development Planning Tools",
-      "https://github.com/open-energy-transition/open-tyndp"
-    ]
-  ],
-  [
-    [
       "2026-06-28, 13:30:06",
       "https://news.ycombinator.com/item?id=48707103"
     ],
@@ -207,6 +197,16 @@
     [
       "DLL that was not present in memory despite not being formally unloaded",
       "https://devblogs.microsoft.com/oldnewthing/20260625-00/?p=112467"
+    ]
+  ],
+  [
+    [
+      "2026-06-28, 04:48:32",
+      "https://news.ycombinator.com/item?id=48704454"
+    ],
+    [
+      "Bashblog – a single bash script to create blogs",
+      "https://github.com/cfenollosa/bashblog"
     ]
   ],
   [
