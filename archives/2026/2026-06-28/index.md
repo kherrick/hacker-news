@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-06-28](index.md)
 
+* [2026-06-28, 14:46:03](https://news.ycombinator.com/item?id=48707769) - [Michigan bill would bar employers from requiring after-hours coms with workers](https://www.cbsnews.com/detroit/news/workplace-boundaries-act-employees-after-hours/)
+* [2026-06-28, 14:44:56](https://news.ycombinator.com/item?id=48707763) - [5k Restaurant Menus, Years 1880-1920](https://pudding.cool/2026/06/menu-collection/)
+* [2026-06-28, 14:40:13](https://news.ycombinator.com/item?id=48707719) - [EU to legislate about Chat Control behind closed doors](https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/)
 * [2026-06-28, 14:35:26](https://news.ycombinator.com/item?id=48707673) - [Flock cameras track more than your license plate, and they're spreading fast](https://www.engadget.com/2203000/flock-cameras-recording-license-plate/)
 * [2026-06-28, 14:21:48](https://news.ycombinator.com/item?id=48707536) - [Ask HN: Is there a bad employers (who have a records of not paying) list?](https://news.ycombinator.com/item?id=48707536)
 * [2026-06-28, 14:05:47](https://news.ycombinator.com/item?id=48707361) - [EU Open Sources Ten-Year Network Development Planning Tools](https://github.com/open-energy-transition/open-tyndp)
+* [2026-06-28, 13:59:16](https://news.ycombinator.com/item?id=48707307) - [Ask HN: What is everyone in SF talking about?](https://news.ycombinator.com/item?id=48707307)
 * [2026-06-28, 13:34:14](https://news.ycombinator.com/item?id=48707146) - [Austria Lobbies EU to Host Anthropic After US Access Curbs](https://www.bloomberg.com/news/articles/2026-06-28/austria-lobbies-eu-to-host-anthropic-after-us-access-curbs)
 * [2026-06-28, 13:30:06](https://news.ycombinator.com/item?id=48707103) - [Google limits Meta's use of its Gemini AI models](https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html)
 * [2026-06-28, 12:59:04](https://news.ycombinator.com/item?id=48706903) - [Greece Is Richer. So Why Do So Many Greeks Still Feel Poor?](https://www.dnews.gr/eidhseis/news-in-english/596650/greece-is-richer-so-why-do-so-many-greeks-still-feel-poor)
