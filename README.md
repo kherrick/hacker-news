@@ -6,10 +6,10 @@
 * [2026-06-28, 19:35:57](https://news.ycombinator.com/item?id=48710749) - [Ford rehires 'gray beard' engineers after AI falls short](https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/)
 * [2026-06-28, 19:07:49](https://news.ycombinator.com/item?id=48710437) - [The US Used to Demand the Best Tech. Now We Ban It](https://www.pcmag.com/opinions/the-us-used-to-demand-the-best-tech-now-we-ban-it)
 * [2026-06-28, 18:59:53](https://news.ycombinator.com/item?id=48710350) - [Computer-Aided Language Development in Nonspeaking Children (1968) [pdf]](https://archive.org/details/colby1968-computer-aided-language-development-in-non-speaking-children)
-* [2026-06-28, 18:48:53](https://news.ycombinator.com/item?id=48710232) - [Librepods: AirPods liberated from Apple's ecosystem](https://github.com/librepods-org/librepods)
+* [2026-06-28, 18:48:53](https://news.ycombinator.com/item?id=48710232) - [Librepods: AirPods liberated](https://github.com/librepods-org/librepods)
 * [2026-06-28, 18:32:53](https://news.ycombinator.com/item?id=48710092) - [Historical memory prices 1960-2026](https://dam.stanford.edu/memory-prices.html)
 * [2026-06-28, 18:31:54](https://news.ycombinator.com/item?id=48710082) - [The cost YAGNI was never about](https://newsletter.kentbeck.com/p/the-cost-yagni-was-never-about)
-* [2026-06-28, 17:50:47](https://news.ycombinator.com/item?id=48709670) - [Semgrep: GLM 5.2 beats Claude in our Cyber Benchmarks](https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/)
+* [2026-06-28, 17:50:47](https://news.ycombinator.com/item?id=48709670) - [GLM 5.2 beats Claude in our benchmarks](https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/)
 * [2026-06-28, 16:58:59](https://news.ycombinator.com/item?id=48709187) - [Working around dragons with the Lemote Yeeloong laptop and OpenBSD](http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html)
 * [2026-06-28, 16:58:56](https://news.ycombinator.com/item?id=48709186) - [Show HN: DRM-Free Books](https://frequal.com/Perspectives/DrmFreeAuthors.html)
 * [2026-06-28, 16:35:19](https://news.ycombinator.com/item?id=48708941) - [I used Claude Code to get a second opinion on my MRI](https://antoine.fi/mri-analysis-using-claude-code-opus)
@@ -28,8 +28,8 @@
 * [2026-06-28, 11:55:08](https://news.ycombinator.com/item?id=48706554) - [More evidence is consistent with possible ancient life on Mars (2025)](https://www.cbc.ca/radio/quirks/more-evidence-of-life-on-mars-but-still-no-life-1.7649645)
 * [2026-06-28, 02:23:08](https://news.ycombinator.com/item?id=48703759) - [Marfa Public Radio Puts You to Sleep](https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep)
 * [2026-06-26, 04:54:29](https://news.ycombinator.com/item?id=48682461) - [Show HN: Appaca – AI Workspace for Operators](https://www.appaca.ai/)
+* [2026-06-25, 19:51:33](https://news.ycombinator.com/item?id=48678377) - [Staying Awake (2008)](https://harpers.org/archive/2008/02/staying-awake/)
 * [2026-06-25, 15:54:46](https://news.ycombinator.com/item?id=48675295) - [The Boeing 747 begins its final descent](https://www.theatlantic.com/magazine/2026/07/boeing-747-retirement/687304/)
-* [2026-06-23, 17:40:01](https://news.ycombinator.com/item?id=48648493) - [Trade, merchants, and the lost cities of the Bronze Age (2019) [pdf]](https://keremcosar.uvacreate.virginia.edu/publications/BCCH-BronzeAgeTrade-qje.pdf)
 
 ## [Archives](archives/index.md)
 
