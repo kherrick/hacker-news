@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-06-28, 16:35:19",
-      "https://news.ycombinator.com/item?id=48708941"
+      "2026-06-28, 16:58:59",
+      "https://news.ycombinator.com/item?id=48709187"
     ],
     [
-      "I used Claude Code to get a second opinion on my MRI",
-      "https://antoine.fi/mri-analysis-using-claude-code-opus"
+      "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
+      "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html"
     ]
   ],
   [
@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2026-06-28, 16:17:38",
+      "https://news.ycombinator.com/item?id=48708721"
+    ],
+    [
+      "Reflections on Software Engineering in the Age of AI",
+      "https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/"
+    ]
+  ],
+  [
+    [
       "2026-06-28, 16:16:07",
       "https://news.ycombinator.com/item?id=48708700"
     ],
@@ -41,12 +51,12 @@
   ],
   [
     [
-      "2026-06-28, 15:32:44",
-      "https://news.ycombinator.com/item?id=48708265"
+      "2026-06-28, 15:55:31",
+      "https://news.ycombinator.com/item?id=48708496"
     ],
     [
-      "Does Your Paper Really Suck?",
-      "https://www.sina.bio/posts/does-your-paper-really-suck.html"
+      "Programmable Probabilistic Computer with 1M p-bits",
+      "https://arxiv.org/abs/2606.25313"
     ]
   ],
   [
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2026-06-28, 13:34:14",
-      "https://news.ycombinator.com/item?id=48707146"
-    ],
-    [
-      "Austria Lobbies EU to Host Anthropic After US Access Curbs",
-      "https://www.bloomberg.com/news/articles/2026-06-28/austria-lobbies-eu-to-host-anthropic-after-us-access-curbs"
-    ]
-  ],
-  [
-    [
       "2026-06-28, 13:30:06",
       "https://news.ycombinator.com/item?id=48707103"
     ],
@@ -145,7 +145,7 @@
       "https://news.ycombinator.com/item?id=48706877"
     ],
     [
-      "The origins of the school system aimed to produce independent, critical thinkers",
+      "The origins of the school system aimed to produce independent, critical thinkers (2024)",
       "https://www.cbc.ca/radio/ideas/humboldt-education-system-bildung-1.7172093"
     ]
   ],
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2026-06-25, 15:54:46",
+      "https://news.ycombinator.com/item?id=48675295"
+    ],
+    [
+      "The Boeing 747 Begins Its Final Descent",
+      "https://www.theatlantic.com/magazine/2026/07/boeing-747-retirement/687304/"
+    ]
+  ],
+  [
+    [
       "2026-06-25, 14:48:07",
       "https://news.ycombinator.com/item?id=48674290"
     ],
@@ -287,16 +297,6 @@
     [
       "Bringing Swift to the Apple ][",
       "https://yeokhengmeng.com/2026/06/swift-on-apple-ii/"
-    ]
-  ],
-  [
-    [
-      "2026-06-23, 21:56:33",
-      "https://news.ycombinator.com/item?id=48652019"
-    ],
-    [
-      "A stray \"j\" ruined my evening",
-      "https://napkins.mtmn.name/posts/stray-jay.html"
     ]
   ]
 ]
