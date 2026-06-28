@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-28](index.md)
 
+* [2026-06-28, 12:23:25](https://news.ycombinator.com/item?id=48706690) - [Guy in his basement creates a drug to treat Alzheimer's disease using AI](https://twitter.com/DouglasYaoDY/status/2070904914050797582)
+* [2026-06-28, 11:56:16](https://news.ycombinator.com/item?id=48706560) - [Kids Act Would Require Age Checks to Get Online](https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online)
 * [2026-06-28, 11:55:08](https://news.ycombinator.com/item?id=48706554) - [More evidence of life on Mars but still no life](https://www.cbc.ca/radio/quirks/more-evidence-of-life-on-mars-but-still-no-life-1.7649645)
 * [2026-06-28, 09:53:58](https://news.ycombinator.com/item?id=48705910) - [DLL that was not present in memory despite not being formally unloaded](https://devblogs.microsoft.com/oldnewthing/20260625-00/?p=112467)
 * [2026-06-28, 07:45:23](https://news.ycombinator.com/item?id=48705276) - [Can China build its own ASML?](https://nikkei.shorthandstories.com/can-china-build-its-own-asml/)
