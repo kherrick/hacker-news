@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-27](index.md)
 
+* [2026-06-27, 23:32:58](https://news.ycombinator.com/item?id=48702848) - [WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups](https://clickhouse.com/blog/walrus-postgres-backups-in-rust)
 * [2026-06-27, 23:05:33](https://news.ycombinator.com/item?id=48702645) - [Codeberg Is Down](https://social.anoxinon.de/@codebergstatus/116824443563698727)
 * [2026-06-27, 22:24:35](https://news.ycombinator.com/item?id=48702361) - [Set Up Your Own DoH Service](https://nochan.net/b/Internet-Crap/20260602-Set-Up-Your-Own-DoH-Service/)
 * [2026-06-27, 22:11:28](https://news.ycombinator.com/item?id=48702273) - [Choosing a Public DNS Resolver](https://evilbit.de/dns-resolver-guide.html)

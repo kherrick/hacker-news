@@ -34,6 +34,7 @@
 * [2026-06-24, 15:25:12](https://news.ycombinator.com/item?id=48661381) - [The eerie interface of man and machine (Life Magazine, October 1967)](https://blog.jgc.org/2026/06/the-eerie-interface-of-man-and-machine.html)
 * [2026-06-24, 15:10:27](https://news.ycombinator.com/item?id=48661179) - [Edsger Dijkstra's Library (Housed and Archived in Leuven, Belgium)](https://www.dijkstrascry.com/inventory)
 * [2026-06-24, 15:05:41](https://news.ycombinator.com/item?id=48661095) - [Venezuela reveals $240B in debt it cannot pay (~$100B more than expected)](https://www.euronews.com/business/2026/06/24/venezuela-plans-biggest-debt-restructuring-in-history-after-maduros-fall)
+* [2026-06-24, 15:04:43](https://news.ycombinator.com/item?id=48661078) - [How a YouTube video accidentally proved Libya's sand cat does exist](https://www.theguardian.com/environment/2026/jun/24/youtube-video-proved-libya-sand-cat-exist-aoe)
 * [2026-06-24, 14:50:22](https://news.ycombinator.com/item?id=48660839) - [For Most of the World, Open-Source AI Is the Only Way Forward](https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/)
 * [2026-06-24, 14:41:41](https://news.ycombinator.com/item?id=48660711) - [RubyLLM: A single, beautiful Ruby framework for all major AI providers](https://rubyllm.com/)
 * [2026-06-24, 14:38:30](https://news.ycombinator.com/item?id=48660671) - [Running Windows Games on a Hobby OS with Wine](https://astral-os.org/posts/2026/04/03/wine-on-astral.html)
