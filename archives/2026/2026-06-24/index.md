@@ -25,6 +25,7 @@
 * [2026-06-24, 16:40:13](https://news.ycombinator.com/item?id=48662452) - [Big AI labs are hiring philosophers](https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers)
 * [2026-06-24, 16:35:56](https://news.ycombinator.com/item?id=48662381) - [The Xteink X4 E-Ink Reader](https://blog.omgmog.net/post/xteink-x4-e-ink-reader/)
 * [2026-06-24, 16:33:48](https://news.ycombinator.com/item?id=48662347) - [Exploiting vulnerabilities in Johnson and Johnson web apps](https://eaton-works.com/2026/06/24/jnj-webapp-hacks/)
+* [2026-06-24, 16:28:12](https://news.ycombinator.com/item?id=48662264) - [Show HN: Metaspec: The DpANS3R Common Lisp Spec in S-Expr and HTML Format](https://metaspec.dev/#)
 * [2026-06-24, 16:04:26](https://news.ycombinator.com/item?id=48661938) - [I taught a bucket to speak Git](https://www.tigrisdata.com/blog/objgit/)
 * [2026-06-24, 16:02:32](https://news.ycombinator.com/item?id=48661911) - [CAPTCHAs have failed for 20 years](https://www.browserbase.com/blog/why-captchas-are-getting-harder)
 * [2026-06-24, 15:56:19](https://news.ycombinator.com/item?id=48661825) - [John Carmack on the mistakes around Quake that ruined id software](https://twitter.com/ID_AA_Carmack/status/2069799283369345247)
