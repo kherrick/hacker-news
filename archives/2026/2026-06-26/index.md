@@ -57,6 +57,7 @@
 * [2026-06-26, 06:24:39](https://news.ycombinator.com/item?id=48683021) - [US Govt to individually approve who gets GPT 5.6](https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56/)
 * [2026-06-26, 06:19:39](https://news.ycombinator.com/item?id=48682979) - [Linux Kills Strncpy](https://smist08.wordpress.com/2026/06/25/linux-kills-strncpy/)
 * [2026-06-26, 05:40:36](https://news.ycombinator.com/item?id=48682737) - [We All Depend on Open Source. We Will Defend It Together](https://akrites.org/letter/)
+* [2026-06-26, 04:54:29](https://news.ycombinator.com/item?id=48682461) - [Show HN: Appaca – AI Workspace for Operators](https://www.appaca.ai/)
 * [2026-06-26, 04:13:28](https://news.ycombinator.com/item?id=48682243) - [Faster KNN search in Manticore: 2-pass HNSW, batched distances, and AVX-512](https://medium.com/@s_nikolaev/faster-knn-search-in-manticore-2-pass-hnsw-batched-distances-and-avx-512-b85604647aab)
 * [2026-06-26, 03:35:49](https://news.ycombinator.com/item?id=48682066) - [Why are we so obsessed with lawns?](https://www.gardensillustrated.com/features/the-history-of-lawns)
 * [2026-06-26, 03:12:42](https://news.ycombinator.com/item?id=48681949) - [Libre Barcode Project](https://graphicore.github.io/librebarcode/)
