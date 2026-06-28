@@ -35,6 +35,7 @@
 * [2026-06-25, 14:48:07](https://news.ycombinator.com/item?id=48674290) - [Do Babies Dream of Baby Sheep?](https://devz.cl/posts/do-babies-dream-of-electric-sheep/)
 * [2026-06-25, 14:45:17](https://news.ycombinator.com/item?id=48674244) - [A History of Menus Is a Menu of History](https://pudding.cool/2026/06/menu-story/)
 * [2026-06-25, 14:37:15](https://news.ycombinator.com/item?id=48674096) - [Apple increases MacBook and iPad prices by 20%](https://www.ft.com/content/0f067265-2baf-4b6e-8fb2-ed56daef6f3c)
+* [2026-06-25, 14:30:01](https://news.ycombinator.com/item?id=48674006) - [Build Yourself Flowers](https://vickiboykis.com/2026/04/20/build-yourself-flowers/)
 * [2026-06-25, 14:19:28](https://news.ycombinator.com/item?id=48673825) - [Zig's New BitCast Semantics and LLVM Back End Improvements](https://ziglang.org/devlog/2026/#2026-06-25)
 * [2026-06-25, 14:17:26](https://news.ycombinator.com/item?id=48673801) - [Ask HN: What surprised you about Estonia e-Residency and running an Estonian OÜ?](https://news.ycombinator.com/item?id=48673801)
 * [2026-06-25, 14:16:17](https://news.ycombinator.com/item?id=48673787) - [Federal agents track down woman, demand she remove Instagram post about ICE](https://www.syracuse.com/news/2026/06/federal-agents-track-down-syracuse-woman-demand-she-remove-instagram-post-about-ice.html)
