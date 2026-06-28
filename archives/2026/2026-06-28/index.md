@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-28](index.md)
 
+* [2026-06-28, 11:55:08](https://news.ycombinator.com/item?id=48706554) - [More evidence of life on Mars but still no life](https://www.cbc.ca/radio/quirks/more-evidence-of-life-on-mars-but-still-no-life-1.7649645)
+* [2026-06-28, 09:53:58](https://news.ycombinator.com/item?id=48705910) - [DLL that was not present in memory despite not being formally unloaded](https://devblogs.microsoft.com/oldnewthing/20260625-00/?p=112467)
 * [2026-06-28, 07:45:23](https://news.ycombinator.com/item?id=48705276) - [Can China build its own ASML?](https://nikkei.shorthandstories.com/can-china-build-its-own-asml/)
 * [2026-06-28, 06:00:31](https://news.ycombinator.com/item?id=48704816) - [Armadillo – A DNS Server in Gleam for Homelab Use](https://github.com/vshakitskiy/armadillo)
 * [2026-06-28, 04:48:32](https://news.ycombinator.com/item?id=48704454) - [Bashblog – a single bash script to create blogs](https://github.com/cfenollosa/bashblog)

@@ -75,6 +75,7 @@
 * [2026-06-24, 07:01:21](https://news.ycombinator.com/item?id=48656219) - [Ashby (YC W19) Is Hiring EMEA Engineers Who Can Design](https://www.ashbyhq.com/careers?ashby_jid=87b96eef-edc1-4de4-adb6-d460126d02f8&utm_source=hn)
 * [2026-06-24, 05:07:20](https://news.ycombinator.com/item?id=48655396) - [Lippmann Photography](https://www.jonhilty.com/lippmann)
 * [2026-06-24, 05:04:33](https://news.ycombinator.com/item?id=48655381) - [MSc Thesis – The Limits of Generalized Sync](https://aaltodoc.aalto.fi/server/api/core/bitstreams/d485ca46-ef01-41bc-ae4c-d468afb209a8/content)
+* [2026-06-24, 04:33:25](https://news.ycombinator.com/item?id=48655158) - [Instantiating UI Components with Distinguishing Variations [pdf]](https://static.barik.net/barik/publications/chi2026/vaithilingam_celestial_chi26.pdf)
 * [2026-06-24, 03:46:48](https://news.ycombinator.com/item?id=48654837) - [Lianda and the Long March](https://blog.georeactor.com/books-06-26b)
 * [2026-06-24, 03:17:47](https://news.ycombinator.com/item?id=48654676) - [Raspberry Pi Pico W as USB Wi-Fi Adapter](https://gitlab.com/baiyibai/pico-usb-wifi)
 * [2026-06-24, 02:56:03](https://news.ycombinator.com/item?id=48654540) - [RRB-Trees: Efficient Immutable Vectors (2012) [pdf]](https://infoscience.epfl.ch/server/api/core/bitstreams/e5d662ea-1e8d-4dda-b917-8cbb8bb40bf9/content)
