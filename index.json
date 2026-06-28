@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-28, 04:48:32",
+      "https://news.ycombinator.com/item?id=48704454"
+    ],
+    [
+      "Bashblog – a single bash script to create blogs",
+      "https://github.com/cfenollosa/bashblog"
+    ]
+  ],
+  [
+    [
       "2026-06-28, 04:31:18",
       "https://news.ycombinator.com/item?id=48704373"
     ],
@@ -51,6 +61,16 @@
   ],
   [
     [
+      "2026-06-28, 01:22:30",
+      "https://news.ycombinator.com/item?id=48703418"
+    ],
+    [
+      "Turning music into a chore is how I became a musician",
+      "https://the.scapegoat.dev/turning-music-into-a-chore-is-what-made-me-an-artist/"
+    ]
+  ],
+  [
+    [
       "2026-06-28, 01:21:20",
       "https://news.ycombinator.com/item?id=48703412"
     ],
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2026-06-27, 21:34:06",
-      "https://news.ycombinator.com/item?id=48701984"
-    ],
-    [
-      "What Ozempic does to the gut-brain axis",
-      "https://www.psychologytoday.com/au/blog/mood-by-microbe/202606/what-ozempic-does-to-the-gut-brain-axis"
-    ]
-  ],
-  [
-    [
       "2026-06-27, 21:27:36",
       "https://news.ycombinator.com/item?id=48701936"
     ],
@@ -127,16 +137,6 @@
     [
       "Turn your site into a place people can bump into each other",
       "https://cauenapier.com/blog/townsquare_release/"
-    ]
-  ],
-  [
-    [
-      "2026-06-27, 17:00:15",
-      "https://news.ycombinator.com/item?id=48699842"
-    ],
-    [
-      "Supabase (YC S20) Is Hiring for Multigres",
-      "https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228"
     ]
   ],
   [
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2026-06-24, 15:04:43",
-      "https://news.ycombinator.com/item?id=48661078"
+      "2026-06-24, 16:28:12",
+      "https://news.ycombinator.com/item?id=48662264"
     ],
     [
-      "How a YouTube video accidentally proved Libya's sand cat does exist",
-      "https://www.theguardian.com/environment/2026/jun/24/youtube-video-proved-libya-sand-cat-exist-aoe"
+      "Show HN: Metaspec: The DpANS3R Common Lisp Spec in S-Expr and HTML Format",
+      "https://metaspec.dev/#"
     ]
   ],
   [
