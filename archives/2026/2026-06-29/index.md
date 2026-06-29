@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-06-29](index.md)
 
+* [2026-06-29, 16:07:15](https://news.ycombinator.com/item?id=48721072) - [European ISPs Want Rightsholders Held Accountable for Overblocking Damage](https://torrentfreak.com/european-isps-want-rightsholders-held-accountable-for-overblocking-damage/)
+* [2026-06-29, 16:04:18](https://news.ycombinator.com/item?id=48721031) - [HamsterOS: A graphical desktop OS that fits on a 1.44MB floppy](https://hackaday.com/2026/06/29/hamsteros-crams-complete-graphical-desktop-onto-1-44-mb-floppy/)
+* [2026-06-29, 15:54:24](https://news.ycombinator.com/item?id=48720924) - [US Supreme Court rules geofence warrants require constitutional protections](https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision)
+* [2026-06-29, 15:42:17](https://news.ycombinator.com/item?id=48720758) - [A native graphical shell for SSH](https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html)
+* [2026-06-29, 15:30:37](https://news.ycombinator.com/item?id=48720591) - [Microsoft Needs Windows Lite](https://philipbohun.com/blog/0011.html)
 * [2026-06-29, 15:02:00](https://news.ycombinator.com/item?id=48720190) - [WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter](https://humphri.es/blog/WATaBoy/)
 * [2026-06-29, 15:01:15](https://news.ycombinator.com/item?id=48720179) - [WebGL Without a GPU](https://microlink.io/blog/webgl-without-a-gpu)
 * [2026-06-29, 14:27:35](https://news.ycombinator.com/item?id=48719712) - [Data breach exposes up to 14.2M email logins at six ISPs](https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/)
@@ -22,6 +27,7 @@
 * [2026-06-29, 11:34:36](https://news.ycombinator.com/item?id=48717905) - [Rebuilding the Computer Room](https://alexwlchan.net/2026/computer-room/)
 * [2026-06-29, 11:29:14](https://news.ycombinator.com/item?id=48717869) - [DeepSeek V4 Peak Valley Pricing Change](https://www.kucoin.com/news/flash/deepseek-v4-launches-in-mid-july-with-peak-valley-pricing)
 * [2026-06-29, 11:20:55](https://news.ycombinator.com/item?id=48717758) - [Caffeinated and decaffeinated coffee lower stress, depression and impulsivity](https://www.ucc.ie/en/advancement/alumni-benefits/bridge-newsletter/why-your-morning-brew-is-good-for-you.html)
+* [2026-06-29, 10:45:51](https://news.ycombinator.com/item?id=48717469) - [The CEO of Mullvad is the main financer of the Swedish Örebro party](https://det.social/@lostgen/116820546568940358)
 * [2026-06-29, 10:20:25](https://news.ycombinator.com/item?id=48717287) - [Sandia National Labs SA3000 8085 CPU](https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/)
 * [2026-06-29, 09:28:08](https://news.ycombinator.com/item?id=48716902) - [Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped](https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/)
 * [2026-06-29, 08:58:09](https://news.ycombinator.com/item?id=48716634) - [Why did this journal retract two 1940s papers by Max Planck?](https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/)
