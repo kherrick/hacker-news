@@ -6,6 +6,7 @@
 
 * [2026-06-26, 23:36:30](https://news.ycombinator.com/item?id=48693420) - [Foreign funds help make housing unaffordable: research](https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/)
 * [2026-06-26, 23:33:46](https://news.ycombinator.com/item?id=48693391) - [Om](https://daringfireball.net/2026/06/om)
+* [2026-06-26, 23:18:04](https://news.ycombinator.com/item?id=48693273) - [Decker Fantasy Camp 2026](https://itch.io/jam/decker-fantasy-camp-2026)
 * [2026-06-26, 22:48:28](https://news.ycombinator.com/item?id=48692995) - [US allows Anthropic to release Mythos to 'trusted partners'](https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/)
 * [2026-06-26, 22:48:28](https://news.ycombinator.com/item?id=48692995) - [U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations](https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies)
 * [2026-06-26, 22:48:28](https://news.ycombinator.com/item?id=48692995) - [The US lifts its block on Mythos 5](https://twitter.com/Techmeme/status/2070638481265905837)
@@ -36,6 +37,7 @@
 * [2026-06-26, 16:40:11](https://news.ycombinator.com/item?id=48688700) - [Show HN: Smart model routing directly in Claude, Codex and Cursor](https://github.com/workweave/router)
 * [2026-06-26, 16:38:55](https://news.ycombinator.com/item?id=48688685) - [1.38 Millimeter Microcontroller](https://www.ti.com/product/MSPM0C1104)
 * [2026-06-26, 16:20:06](https://news.ycombinator.com/item?id=48688438) - [One man, two kernels, and a lot of RISC-V](https://www.theregister.com/software/2026/06/26/one-man-two-kernels-and-a-lot-of-risc-v/5262858)
+* [2026-06-26, 16:16:16](https://news.ycombinator.com/item?id=48688382) - [Venetian Bridge Brawls in 17th and 18th Century Art](https://publicdomainreview.org/collection/venice-bridge-fights/)
 * [2026-06-26, 16:08:54](https://news.ycombinator.com/item?id=48688275) - [A glitch in February of the year 0](https://28times.com/blog/2026-06-26-february-of-the-year-0)
 * [2026-06-26, 15:51:19](https://news.ycombinator.com/item?id=48688081) - [What is a Lithium-ion capacitor?](https://www.jtekt.co.jp/e/products/capacitor/capacitor_about.html)
 * [2026-06-26, 15:35:23](https://news.ycombinator.com/item?id=48687903) - [The Exhaustion of Talking to a Tool](https://ohadravid.github.io/posts/2026-06-tool-talking/)
