@@ -53,6 +53,7 @@
 * [2026-06-26, 12:06:17](https://news.ycombinator.com/item?id=48685677) - [Captcha proves you're human. HATCHA proves you're not](https://github.com/mondaycom/HATCHA)
 * [2026-06-26, 12:00:15](https://news.ycombinator.com/item?id=48685625) - [From Pentagons to Pentagrams](https://johncarlosbaez.wordpress.com/2026/05/29/from-pentagons-to-pentagrams/)
 * [2026-06-26, 11:51:11](https://news.ycombinator.com/item?id=48685558) - [Ultrasound Imaging of the Brain](https://alephneuro.com/blog/ultrasound-brain)
+* [2026-06-26, 09:17:44](https://news.ycombinator.com/item?id=48684315) - [The Baffling World of Masayoshi Son's Presentations](https://www.bloomberg.com/news/features/2020-06-23/golden-geese-and-unicorns-inside-the-eccentric-presentations-of-masayoshi-son)
 * [2026-06-26, 07:44:11](https://news.ycombinator.com/item?id=48683588) - [Why current LLM costs are not sustainable](https://aditya.patadia.org/p/ai-and-cloud-costs)
 * [2026-06-26, 06:52:59](https://news.ycombinator.com/item?id=48683222) - [The food science behind designing an ice cream](https://altermag.com/articles/designing-a-summer-ice-cream-for-india)
 * [2026-06-26, 06:27:25](https://news.ycombinator.com/item?id=48683041) - [Micron locks in historically high memory prices for five years](https://www.theregister.com/systems/2026/06/25/micron-locks-in-historically-high-memory-prices-for-five-years/5261854)
