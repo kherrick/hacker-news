@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-29](index.md)
 
+* [2026-06-29, 04:40:35](https://news.ycombinator.com/item?id=48714880) - [Lore – give your coding agent the decisions your team made](https://github.com/itsthelore/rac-core)
+* [2026-06-29, 04:27:46](https://news.ycombinator.com/item?id=48714802) - [Herdr: Agent multiplexer that lives in your terminal](https://github.com/ogulcancelik/herdr)
 * [2026-06-29, 03:42:07](https://news.ycombinator.com/item?id=48714529) - [Age verification is just a precursor to automated attribution of speech](https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026)
 * [2026-06-29, 01:52:55](https://news.ycombinator.com/item?id=48713887) - [Tell Congress: Don't Force Age Checks Online](https://act.eff.org/action/tell-congress-don-t-force-age-checks-online)
 * [2026-06-29, 01:44:40](https://news.ycombinator.com/item?id=48713832) - [HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88](https://danunparsed.com/p/hackerrank-open-source-ats)
