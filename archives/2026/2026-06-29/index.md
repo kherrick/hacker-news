@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-29](index.md)
 
+* [2026-06-29, 07:36:08](https://news.ycombinator.com/item?id=48716009) - [US Grid Constraints: Towards 40GW+ of Behind-the-Meter Datacenter by 2028?](https://newsletter.semianalysis.com/p/us-grid-constraints-towards-40gw)
+* [2026-06-29, 06:37:44](https://news.ycombinator.com/item?id=48715630) - [Replacing Systemd with OpenRC in Debian](https://danielcordova.me/blog/debian-openrc/)
 * [2026-06-29, 04:40:35](https://news.ycombinator.com/item?id=48714880) - [Lore – give your coding agent the decisions your team made](https://github.com/itsthelore/rac-core)
 * [2026-06-29, 04:27:46](https://news.ycombinator.com/item?id=48714802) - [Herdr: Agent multiplexer that lives in your terminal](https://github.com/ogulcancelik/herdr)
 * [2026-06-29, 03:42:07](https://news.ycombinator.com/item?id=48714529) - [Age verification is just a precursor to automated attribution of speech](https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026)

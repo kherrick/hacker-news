@@ -61,6 +61,7 @@
 * [2026-06-25, 10:20:07](https://news.ycombinator.com/item?id=48671392) - [Dolphin Emulator Progress Release 2606](https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/)
 * [2026-06-25, 08:26:54](https://news.ycombinator.com/item?id=48670579) - [Bringing Swift to the Apple ][](https://yeokhengmeng.com/2026/06/swift-on-apple-ii/)
 * [2026-06-25, 08:07:54](https://news.ycombinator.com/item?id=48670411) - [Aisle Discovers 6 New CVEs in Curl, Including the Oldest Issue Ever Reported](https://aisle.com/blog/aisle-discovers-6-new-cves-in-curl-including-the-oldest-issue-ever-reported)
+* [2026-06-25, 07:55:40](https://news.ycombinator.com/item?id=48670314) - [We found a bug in the hyper HTTP library](https://blog.cloudflare.com/hyper-bug/)
 * [2026-06-25, 07:26:06](https://news.ycombinator.com/item?id=48670103) - [The US Army Issued Ocarinas to Soldiers in World War II](https://www.flutetunes.com/articles/my-flute-goes-to-war/)
 * [2026-06-25, 07:02:37](https://news.ycombinator.com/item?id=48669932) - [Wikipedia Workers in Britain set global first by seeking union recognition](https://utaw.tech/news/wikipedia-recognition)
 * [2026-06-25, 06:00:04](https://news.ycombinator.com/item?id=48669534) - [Half-Life 2 in a Browser](https://hl2.slqnt.dev/)
