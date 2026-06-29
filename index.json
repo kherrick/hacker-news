@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-06-29, 01:25:04",
+      "https://news.ycombinator.com/item?id=48713697"
+    ],
+    [
+      "AI boom risks global financial crash, warn central bankers",
+      "https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/"
+    ]
+  ],
+  [
+    [
+      "2026-06-29, 01:23:38",
+      "https://news.ycombinator.com/item?id=48713686"
+    ],
+    [
+      "Sophon PFG-1: a monolithic-3D AI ASIC with 330 GB of on-die DRAM and no HBM",
+      "https://www.phantafield.com/whitepaper"
+    ]
+  ],
+  [
+    [
+      "2026-06-28, 23:50:58",
+      "https://news.ycombinator.com/item?id=48713051"
+    ],
+    [
+      "Better Images of AI",
+      "https://betterimagesofai.org/"
+    ]
+  ],
+  [
+    [
       "2026-06-28, 23:49:50",
       "https://news.ycombinator.com/item?id=48713041"
     ],
@@ -15,18 +45,8 @@
       "https://news.ycombinator.com/item?id=48712420"
     ],
     [
-      "Knowledge Distillation of Black-Box Large Language Models",
+      "Knowledge Distillation of Black-Box Large Language Models (2024)",
       "https://arxiv.org/abs/2401.07013"
-    ]
-  ],
-  [
-    [
-      "2026-06-28, 22:21:51",
-      "https://news.ycombinator.com/item?id=48712338"
-    ],
-    [
-      "A QNX-inspired operating system with selectable kernels",
-      "https://qsoe.net"
     ]
   ],
   [
@@ -77,16 +97,6 @@
     [
       "TOP500 at ISC’26: We have a New Number 1 Supercomputer",
       "https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number"
-    ]
-  ],
-  [
-    [
-      "2026-06-28, 18:59:53",
-      "https://news.ycombinator.com/item?id=48710350"
-    ],
-    [
-      "Computer-Aided Language Development in Nonspeaking Children (1968) [pdf]",
-      "https://archive.org/details/colby1968-computer-aided-language-development-in-non-speaking-children"
     ]
   ],
   [
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2026-06-28, 12:41:45",
-      "https://news.ycombinator.com/item?id=48706796"
-    ],
-    [
-      "The MUMPS 76 Primer – anniversary edition",
-      "https://github.com/rochus-keller/MUMPS/blob/main/docs/MUMPS_Primer.adoc"
-    ]
-  ],
-  [
-    [
       "2026-06-28, 12:27:33",
       "https://news.ycombinator.com/item?id=48706714"
     ],
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2026-06-28, 11:55:08",
-      "https://news.ycombinator.com/item?id=48706554"
+      "2026-06-26, 09:17:44",
+      "https://news.ycombinator.com/item?id=48684315"
     ],
     [
-      "More evidence is consistent with possible ancient life on Mars (2025)",
-      "https://www.cbc.ca/radio/quirks/more-evidence-of-life-on-mars-but-still-no-life-1.7649645"
+      "The Baffling World of Masayoshi Son's Presentations",
+      "https://www.bloomberg.com/news/features/2020-06-23/golden-geese-and-unicorns-inside-the-eccentric-presentations-of-masayoshi-son"
     ]
   ],
   [
