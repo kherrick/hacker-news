@@ -1,32 +1,32 @@
 [
   [
     [
+      "2026-06-29, 09:28:08",
+      "https://news.ycombinator.com/item?id=48716902"
+    ],
+    [
+      "Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped",
+      "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/"
+    ]
+  ],
+  [
+    [
+      "2026-06-29, 08:58:09",
+      "https://news.ycombinator.com/item?id=48716634"
+    ],
+    [
+      "Why did this journal retract two 1940s papers by Max Planck?",
+      "https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/"
+    ]
+  ],
+  [
+    [
       "2026-06-29, 07:36:08",
       "https://news.ycombinator.com/item?id=48716009"
     ],
     [
       "US Grid Constraints: Towards 40GW+ of Behind-the-Meter Datacenter by 2028?",
       "https://newsletter.semianalysis.com/p/us-grid-constraints-towards-40gw"
-    ]
-  ],
-  [
-    [
-      "2026-06-29, 06:37:44",
-      "https://news.ycombinator.com/item?id=48715630"
-    ],
-    [
-      "Replacing Systemd with OpenRC in Debian",
-      "https://danielcordova.me/blog/debian-openrc/"
-    ]
-  ],
-  [
-    [
-      "2026-06-29, 04:40:35",
-      "https://news.ycombinator.com/item?id=48714880"
-    ],
-    [
-      "Lore – Give your coding agent the decisions your team made",
-      "https://github.com/itsthelore/rac-core"
     ]
   ],
   [
@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2026-06-28, 16:16:07",
-      "https://news.ycombinator.com/item?id=48708700"
-    ],
-    [
-      "Examining circuit boards from the Space Shuttle's I/O Processor",
-      "https://www.righto.com/2026/06/space-shuttle-io-processor-boards.html"
-    ]
-  ],
-  [
-    [
       "2026-06-28, 16:10:50",
       "https://news.ycombinator.com/item?id=48708644"
     ],
@@ -231,16 +221,6 @@
   ],
   [
     [
-      "2026-06-26, 16:38:55",
-      "https://news.ycombinator.com/item?id=48688685"
-    ],
-    [
-      "1.38 Millimeter Microcontroller",
-      "https://www.ti.com/product/MSPM0C1104"
-    ]
-  ],
-  [
-    [
       "2026-06-26, 09:17:44",
       "https://news.ycombinator.com/item?id=48684315"
     ],
@@ -287,6 +267,26 @@
     [
       "The Forgotten Castles of the Garamantes",
       "https://www.wildmanlife.com/the-forgotten-castles-of-the-garamantes/"
+    ]
+  ],
+  [
+    [
+      "2026-06-24, 16:10:08",
+      "https://news.ycombinator.com/item?id=48662018"
+    ],
+    [
+      "NUMA: Cores, memory, and the distance between them",
+      "https://edera.dev/stories/numa-part-1-cores-memory-and-the-distance-between-them"
+    ]
+  ],
+  [
+    [
+      "2026-06-24, 12:15:15",
+      "https://news.ycombinator.com/item?id=48658564"
+    ],
+    [
+      "Let's Decode the Mystery Bytes [video]",
+      "https://www.youtube.com/watch?v=GZqB4D_Do38"
     ]
   ],
   [
