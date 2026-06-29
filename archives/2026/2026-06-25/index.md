@@ -26,6 +26,7 @@
 * [2026-06-25, 16:55:10](https://news.ycombinator.com/item?id=48676183) - [How we made WINDOW JOIN parallel and vectorized](https://questdb.com/blog/window-join-parallel-vectorized/)
 * [2026-06-25, 16:22:55](https://news.ycombinator.com/item?id=48675717) - [Deno 2.9](https://deno.com/blog/v2.9)
 * [2026-06-25, 16:22:45](https://news.ycombinator.com/item?id=48675710) - [European Commission lines up Amazon and Microsoft for cloud gatekeeper status](https://www.theregister.com/legal/2026/06/25/european-commission-lines-up-amazon-and-microsoft-for-cloud-gatekeeper-status/5262127)
+* [2026-06-25, 16:19:19](https://news.ycombinator.com/item?id=48675653) - [Dark Sky Lighting](https://www.savingourstars.org/darkskylighting#whatisdarkskylighting)
 * [2026-06-25, 16:04:46](https://news.ycombinator.com/item?id=48675435) - [Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion](https://github.com/inkeep/open-knowledge)
 * [2026-06-25, 15:59:54](https://news.ycombinator.com/item?id=48675369) - [Windows 10 quietly gets one more year of support and updates](https://www.neowin.net/news/windows-10-quietly-gets-one-more-year-of-support-and-updates/)
 * [2026-06-25, 15:54:46](https://news.ycombinator.com/item?id=48675295) - [The Boeing 747 Begins Its Final Descent](https://www.theatlantic.com/magazine/2026/07/boeing-747-retirement/687304/)

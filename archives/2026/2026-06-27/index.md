@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-06-27](index.md)
 
 * [2026-06-27, 23:32:58](https://news.ycombinator.com/item?id=48702848) - [WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups](https://clickhouse.com/blog/walrus-postgres-backups-in-rust)
+* [2026-06-27, 23:30:14](https://news.ycombinator.com/item?id=48702825) - [Apple Neural Engine: Architecture, Programming, and Performance](https://arxiv.org/abs/2606.22283)
 * [2026-06-27, 23:05:33](https://news.ycombinator.com/item?id=48702645) - [Codeberg Is Down](https://social.anoxinon.de/@codebergstatus/116824443563698727)
 * [2026-06-27, 22:24:35](https://news.ycombinator.com/item?id=48702361) - [Set Up Your Own DoH Service](https://nochan.net/b/Internet-Crap/20260602-Set-Up-Your-Own-DoH-Service/)
 * [2026-06-27, 22:11:28](https://news.ycombinator.com/item?id=48702273) - [Choosing a Public DNS Resolver](https://evilbit.de/dns-resolver-guide.html)
@@ -46,4 +47,5 @@
 * [2026-06-27, 03:30:01](https://news.ycombinator.com/item?id=48694853) - [WordStar: A Writer's Word Processor (1996)](https://www.sfwriter.com/wordstar.htm)
 * [2026-06-27, 03:17:43](https://news.ycombinator.com/item?id=48694802) - [Ask HN: MacBook vs. Dedicated GPU for LLM](https://news.ycombinator.com/item?id=48694802)
 * [2026-06-27, 02:41:53](https://news.ycombinator.com/item?id=48694631) - [Anatomy of a Failed (Nation-State?) Attack](https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/)
+* [2026-06-27, 01:29:43](https://news.ycombinator.com/item?id=48694267) - [The Permission Slip](https://www.cringely.com/2026/05/28/the-permission-slip/)
 * [2026-06-27, 00:43:39](https://news.ycombinator.com/item?id=48693912) - [Show HN: Hacker News on a Train Station Style Flip Board](https://popflame.quickish.space/hn-flipboard/)
