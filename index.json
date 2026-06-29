@@ -1,11 +1,31 @@
 [
   [
     [
+      "2026-06-29, 07:36:08",
+      "https://news.ycombinator.com/item?id=48716009"
+    ],
+    [
+      "US Grid Constraints: Towards 40GW+ of Behind-the-Meter Datacenter by 2028?",
+      "https://newsletter.semianalysis.com/p/us-grid-constraints-towards-40gw"
+    ]
+  ],
+  [
+    [
+      "2026-06-29, 06:37:44",
+      "https://news.ycombinator.com/item?id=48715630"
+    ],
+    [
+      "Replacing Systemd with OpenRC in Debian",
+      "https://danielcordova.me/blog/debian-openrc/"
+    ]
+  ],
+  [
+    [
       "2026-06-29, 04:40:35",
       "https://news.ycombinator.com/item?id=48714880"
     ],
     [
-      "Lore – give your coding agent the decisions your team made",
+      "Lore – Give your coding agent the decisions your team made",
       "https://github.com/itsthelore/rac-core"
     ]
   ],
@@ -47,16 +67,6 @@
     [
       "Knowledge Distillation of Black-Box Large Language Models (2024)",
       "https://arxiv.org/abs/2401.07013"
-    ]
-  ],
-  [
-    [
-      "2026-06-28, 19:43:10",
-      "https://news.ycombinator.com/item?id=48710827"
-    ],
-    [
-      "Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs",
-      "https://github.com/kamaludu/bash4llm/"
     ]
   ],
   [
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2026-06-28, 12:44:24",
-      "https://news.ycombinator.com/item?id=48706814"
-    ],
-    [
-      "The curious case of the disappearing Polish S (2015)",
-      "https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/"
-    ]
-  ],
-  [
-    [
       "2026-06-28, 12:27:33",
       "https://news.ycombinator.com/item?id=48706714"
     ],
@@ -231,12 +231,12 @@
   ],
   [
     [
-      "2026-06-26, 16:08:54",
-      "https://news.ycombinator.com/item?id=48688275"
+      "2026-06-26, 16:38:55",
+      "https://news.ycombinator.com/item?id=48688685"
     ],
     [
-      "A glitch in February of the year 0",
-      "https://28times.com/blog/2026-06-26-february-of-the-year-0"
+      "1.38 Millimeter Microcontroller",
+      "https://www.ti.com/product/MSPM0C1104"
     ]
   ],
   [
@@ -247,16 +247,6 @@
     [
       "The Baffling World of Masayoshi Son's Presentations (2020)",
       "https://www.bloomberg.com/news/features/2020-06-23/golden-geese-and-unicorns-inside-the-eccentric-presentations-of-masayoshi-son"
-    ]
-  ],
-  [
-    [
-      "2026-06-25, 19:53:27",
-      "https://news.ycombinator.com/item?id=48678393"
-    ],
-    [
-      "Idler Magazine",
-      "https://www.idler.co.uk/"
     ]
   ],
   [
@@ -281,6 +271,16 @@
   ],
   [
     [
+      "2026-06-25, 07:55:40",
+      "https://news.ycombinator.com/item?id=48670314"
+    ],
+    [
+      "We found a bug in the hyper HTTP library",
+      "https://blog.cloudflare.com/hyper-bug/"
+    ]
+  ],
+  [
+    [
       "2026-06-24, 21:45:00",
       "https://news.ycombinator.com/item?id=48665988"
     ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=48657131"
     ],
     [
-      "Deciphering Basmala",
+      "Deciphering basmala",
       "https://blog.plover.com/lang/bismillah.html"
     ]
   ]
