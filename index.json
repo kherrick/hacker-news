@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-29, 19:49:28",
+      "https://news.ycombinator.com/item?id=48724230"
+    ],
+    [
+      "Announcing .self: A New Top-Level Domain Designed to Support Self-Hosting",
+      "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/"
+    ]
+  ],
+  [
+    [
       "2026-06-29, 19:06:17",
       "https://news.ycombinator.com/item?id=48723677"
     ],
@@ -101,16 +111,6 @@
   ],
   [
     [
-      "2026-06-29, 14:12:55",
-      "https://news.ycombinator.com/item?id=48719532"
-    ],
-    [
-      "Mag 7 starting to underperform [pdf]",
-      "https://www.apollo.com/content/dam/apolloaem/pdf/daily-spark/2026/jun/28/062826-Mag7.pdf"
-    ]
-  ],
-  [
-    [
       "2026-06-29, 14:12:05",
       "https://news.ycombinator.com/item?id=48719521"
     ],
@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2026-06-29, 11:34:36",
+      "https://news.ycombinator.com/item?id=48717905"
+    ],
+    [
+      "Rebuilding the Computer Room",
+      "https://alexwlchan.net/2026/computer-room/"
+    ]
+  ],
+  [
+    [
       "2026-06-29, 10:45:51",
       "https://news.ycombinator.com/item?id=48717469"
     ],
@@ -221,12 +231,12 @@
   ],
   [
     [
-      "2026-06-29, 01:44:40",
-      "https://news.ycombinator.com/item?id=48713832"
+      "2026-06-28, 09:45:58",
+      "https://news.ycombinator.com/item?id=48705878"
     ],
     [
-      "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
-      "https://danunparsed.com/p/hackerrank-open-source-ats"
+      "ACL 1.0: A source-available commercial license for the AI era",
+      "https://www.auditablelicense.org/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Halvar's Guide to Entrepreneurship",
       "https://thomasdullien.github.io/guides/entrepreneurship/"
-    ]
-  ],
-  [
-    [
-      "2026-06-24, 16:10:08",
-      "https://news.ycombinator.com/item?id=48662018"
-    ],
-    [
-      "NUMA: Cores, memory, and the distance between them",
-      "https://edera.dev/stories/numa-part-1-cores-memory-and-the-distance-between-them"
     ]
   ]
 ]
