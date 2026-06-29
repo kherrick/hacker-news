@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=48724230"
     ],
     [
-      "Announcing .self: A New Top-Level Domain Designed to Support Self-Hosting",
+      ".self: A new top-level domain designed to support self-hosting",
       "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/"
     ]
   ],
@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2026-06-29, 14:53:41",
+      "https://news.ycombinator.com/item?id=48720064"
+    ],
+    [
+      "Working With AI: A concrete example",
+      "https://htmx.org/essays/working-with-ai/"
+    ]
+  ],
+  [
+    [
       "2026-06-29, 14:12:05",
       "https://news.ycombinator.com/item?id=48719521"
     ],
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2026-06-29, 13:56:46",
-      "https://news.ycombinator.com/item?id=48719361"
-    ],
-    [
-      "CachyOS June 2026 Release",
-      "https://cachyos.org/blog/2606-june-release/"
-    ]
-  ],
-  [
-    [
       "2026-06-29, 13:26:35",
       "https://news.ycombinator.com/item?id=48719027"
     ],
@@ -151,32 +151,12 @@
   ],
   [
     [
-      "2026-06-29, 13:23:19",
-      "https://news.ycombinator.com/item?id=48718995"
-    ],
-    [
-      "Building Principia for Windows XP",
-      "https://voxelmanip.se/2026/06/28/building-principia-for-windows-xp/"
-    ]
-  ],
-  [
-    [
       "2026-06-29, 13:11:08",
       "https://news.ycombinator.com/item?id=48718863"
     ],
     [
       "What happens when you run a CUDA kernel?",
       "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/"
-    ]
-  ],
-  [
-    [
-      "2026-06-29, 13:09:03",
-      "https://news.ycombinator.com/item?id=48718840"
-    ],
-    [
-      "Tidal AI Policy",
-      "https://tidal.com/ai-policy"
     ]
   ],
   [
@@ -201,16 +181,6 @@
   ],
   [
     [
-      "2026-06-29, 10:45:51",
-      "https://news.ycombinator.com/item?id=48717469"
-    ],
-    [
-      "The CEO of Mullvad is the main financer of the Swedish Örebro party",
-      "https://det.social/@lostgen/116820546568940358"
-    ]
-  ],
-  [
-    [
       "2026-06-29, 10:20:25",
       "https://news.ycombinator.com/item?id=48717287"
     ],
@@ -221,32 +191,62 @@
   ],
   [
     [
-      "2026-06-29, 09:28:08",
-      "https://news.ycombinator.com/item?id=48716902"
+      "2026-06-29, 05:05:35",
+      "https://news.ycombinator.com/item?id=48715020"
     ],
     [
-      "Pollen tried to remove my article and Google is assisting with it",
-      "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/"
+      "Is sunscreen the new margarine? (2021)",
+      "https://www.outsideonline.com/health/wellness/sunscreen-sun-exposure-skin-cancer-science/"
     ]
   ],
   [
     [
-      "2026-06-28, 09:45:58",
-      "https://news.ycombinator.com/item?id=48705878"
+      "2026-06-28, 21:42:39",
+      "https://news.ycombinator.com/item?id=48711981"
     ],
     [
-      "ACL 1.0: A source-available commercial license for the AI era",
-      "https://www.auditablelicense.org/"
+      "30-year sentence for transporting zines is a five-alarm fire for free speech",
+      "https://theintercept.com/2026/06/26/daniel-sanchez-estrada-zines-prairieland-free-speech/"
     ]
   ],
   [
     [
-      "2026-06-26, 23:18:04",
-      "https://news.ycombinator.com/item?id=48693273"
+      "2026-06-28, 17:58:04",
+      "https://news.ycombinator.com/item?id=48709744"
     ],
     [
-      "Decker Fantasy Camp 2026",
-      "https://itch.io/jam/decker-fantasy-camp-2026"
+      "Ornith-1.0: Self-scaffolding LLMs for agentic coding",
+      "https://deep-reinforce.com/ornith_1_0.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-28, 11:22:49",
+      "https://news.ycombinator.com/item?id=48706389"
+    ],
+    [
+      "One million passports leaked online",
+      "https://cambridgeanalytica.org/data-breaches-scandals/passports-driver-licenses-exposed-public-internet-2026-51096/"
+    ]
+  ],
+  [
+    [
+      "2026-06-27, 23:30:14",
+      "https://news.ycombinator.com/item?id=48702825"
+    ],
+    [
+      "Apple Neural Engine: Architecture, Programming, and Performance",
+      "https://arxiv.org/abs/2606.22283"
+    ]
+  ],
+  [
+    [
+      "2026-06-27, 01:29:43",
+      "https://news.ycombinator.com/item?id=48694267"
+    ],
+    [
+      "The Permission Slip",
+      "https://www.cringely.com/2026/05/28/the-permission-slip/"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-06-25, 15:28:24",
-      "https://news.ycombinator.com/item?id=48674875"
+      "2026-06-25, 16:19:19",
+      "https://news.ycombinator.com/item?id=48675653"
     ],
     [
-      "Halvar's Guide to Entrepreneurship",
-      "https://thomasdullien.github.io/guides/entrepreneurship/"
+      "Dark Sky Lighting",
+      "https://www.savingourstars.org/darkskylighting#whatisdarkskylighting"
     ]
   ]
 ]
