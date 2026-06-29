@@ -39,6 +39,7 @@
 * [2026-06-26, 16:08:54](https://news.ycombinator.com/item?id=48688275) - [A glitch in February of the year 0](https://28times.com/blog/2026-06-26-february-of-the-year-0)
 * [2026-06-26, 15:51:19](https://news.ycombinator.com/item?id=48688081) - [What is a Lithium-ion capacitor?](https://www.jtekt.co.jp/e/products/capacitor/capacitor_about.html)
 * [2026-06-26, 15:35:23](https://news.ycombinator.com/item?id=48687903) - [The Exhaustion of Talking to a Tool](https://ohadravid.github.io/posts/2026-06-tool-talking/)
+* [2026-06-26, 15:30:02](https://news.ycombinator.com/item?id=48687843) - [Type-checked non-empty strings](https://exploring-better-ways.bellroy.com/haskell-koan-type-checked-non-empty-strings.html)
 * [2026-06-26, 15:24:40](https://news.ycombinator.com/item?id=48687769) - [Ask HN: Is \"no source code was copied\" still a sufficient copyright defense?](https://news.ycombinator.com/item?id=48687769)
 * [2026-06-26, 15:04:36](https://news.ycombinator.com/item?id=48687508) - [Mullvad founder gave millions to extremist far right party](https://mastodon.social/@raphaelrobert/116816274242387568)
 * [2026-06-26, 15:02:43](https://news.ycombinator.com/item?id=48687483) - [The AI industry is pouring millions into US elections](https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds)

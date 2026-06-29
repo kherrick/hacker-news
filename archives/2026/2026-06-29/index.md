@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-29](index.md)
 
+* [2026-06-29, 11:34:36](https://news.ycombinator.com/item?id=48717905) - [Rebuilding the Computer Room](https://alexwlchan.net/2026/computer-room/)
+* [2026-06-29, 11:20:55](https://news.ycombinator.com/item?id=48717758) - [Caffeinated and decaffeinated coffee lower stress, depression and impulsivity](https://www.ucc.ie/en/advancement/alumni-benefits/bridge-newsletter/why-your-morning-brew-is-good-for-you.html)
 * [2026-06-29, 10:20:25](https://news.ycombinator.com/item?id=48717287) - [Sandia National Labs SA3000 8085 CPU](https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/)
 * [2026-06-29, 09:28:08](https://news.ycombinator.com/item?id=48716902) - [Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped](https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/)
 * [2026-06-29, 08:58:09](https://news.ycombinator.com/item?id=48716634) - [Why did this journal retract two 1940s papers by Max Planck?](https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/)

@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-06-29, 11:34:36](https://news.ycombinator.com/item?id=48717905) - [Rebuilding the Computer Room](https://alexwlchan.net/2026/computer-room/)
+* [2026-06-29, 11:20:55](https://news.ycombinator.com/item?id=48717758) - [Caffeinated and decaffeinated coffee lower stress, depression and impulsivity](https://www.ucc.ie/en/advancement/alumni-benefits/bridge-newsletter/why-your-morning-brew-is-good-for-you.html)
 * [2026-06-29, 10:20:25](https://news.ycombinator.com/item?id=48717287) - [Sandia National Labs SA3000 8085 CPU](https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/)
 * [2026-06-29, 09:28:08](https://news.ycombinator.com/item?id=48716902) - [Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped](https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/)
 * [2026-06-29, 08:58:09](https://news.ycombinator.com/item?id=48716634) - [Why did this journal retract two 1940s papers by Max Planck?](https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/)
@@ -19,17 +21,15 @@
 * [2026-06-28, 16:10:50](https://news.ycombinator.com/item?id=48708644) - [Dissecting Apple's Sparse Image Format (ASIF)](https://schamper.dev/dissecting-apples-sparse-image-format-asif/)
 * [2026-06-28, 15:26:14](https://news.ycombinator.com/item?id=48708182) - [Show HN: Zanagrams](https://zanagrams.com/)
 * [2026-06-28, 14:44:56](https://news.ycombinator.com/item?id=48707763) - [5k menus from the New York Public Library’s Buttolph Collection (1880-1920)](https://pudding.cool/2026/06/menu-story/)
-* [2026-06-28, 12:27:33](https://news.ycombinator.com/item?id=48706714) - [A way to exclude sensitive files issue still open for OpenAI Codex](https://github.com/openai/codex/issues/2847)
 * [2026-06-28, 11:56:16](https://news.ycombinator.com/item?id=48706560) - [The KIDS Act would require age checks to get online](https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online)
+* [2026-06-26, 15:30:02](https://news.ycombinator.com/item?id=48687843) - [Type-checked non-empty strings](https://exploring-better-ways.bellroy.com/haskell-koan-type-checked-non-empty-strings.html)
 * [2026-06-26, 09:17:44](https://news.ycombinator.com/item?id=48684315) - [The Baffling World of Masayoshi Son's Presentations (2020)](https://www.bloomberg.com/news/features/2020-06-23/golden-geese-and-unicorns-inside-the-eccentric-presentations-of-masayoshi-son)
 * [2026-06-25, 15:54:46](https://news.ycombinator.com/item?id=48675295) - [The Boeing 747 begins its final descent](https://www.theatlantic.com/magazine/2026/07/boeing-747-retirement/687304/)
 * [2026-06-25, 15:28:24](https://news.ycombinator.com/item?id=48674875) - [Halvar's Guide to Entrepreneurship](https://thomasdullien.github.io/guides/entrepreneurship/)
-* [2026-06-25, 13:54:06](https://news.ycombinator.com/item?id=48673450) - [Model Training as Code](https://aleph-alpha.com/en/blog/model-training-as-code/)
+* [2026-06-25, 13:37:52](https://news.ycombinator.com/item?id=48673197) - [Federating Clusters for Zero-Downtime Kubernetes](https://linkerd.io/2026/06/24/federating-clusters-for-zero-downtime-kubernetes/index.html)
 * [2026-06-25, 07:55:40](https://news.ycombinator.com/item?id=48670314) - [We found a bug in the hyper HTTP library](https://blog.cloudflare.com/hyper-bug/)
-* [2026-06-24, 21:45:00](https://news.ycombinator.com/item?id=48665988) - [The Forgotten Castles of the Garamantes](https://www.wildmanlife.com/the-forgotten-castles-of-the-garamantes/)
 * [2026-06-24, 16:10:08](https://news.ycombinator.com/item?id=48662018) - [NUMA: Cores, memory, and the distance between them](https://edera.dev/stories/numa-part-1-cores-memory-and-the-distance-between-them)
 * [2026-06-24, 12:15:15](https://news.ycombinator.com/item?id=48658564) - [Let's Decode the Mystery Bytes [video]](https://www.youtube.com/watch?v=GZqB4D_Do38)
-* [2026-06-24, 09:05:46](https://news.ycombinator.com/item?id=48657131) - [Deciphering basmala](https://blog.plover.com/lang/bismillah.html)
 
 ## [Archives](archives/index.md)
 
