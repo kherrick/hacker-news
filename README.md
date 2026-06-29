@@ -1,12 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-06-29, 17:05:16](https://news.ycombinator.com/item?id=48721903) - [Qwen 3.6 27B is the sweet spot for local development](https://quesma.com/blog/qwen-36-is-awesome/)
+* [2026-06-29, 16:27:27](https://news.ycombinator.com/item?id=48721308) - [The Radiation Exposure Lie](https://worksinprogress.co/issue/how-to-lie-about-radiation/)
 * [2026-06-29, 16:07:15](https://news.ycombinator.com/item?id=48721072) - [European ISPs Want Rightsholders Held Accountable for Overblocking Damage](https://torrentfreak.com/european-isps-want-rightsholders-held-accountable-for-overblocking-damage/)
-* [2026-06-29, 16:04:18](https://news.ycombinator.com/item?id=48721031) - [HamsterOS: A graphical desktop OS that fits on a 1.44MB floppy](https://hackaday.com/2026/06/29/hamsteros-crams-complete-graphical-desktop-onto-1-44-mb-floppy/)
 * [2026-06-29, 15:54:24](https://news.ycombinator.com/item?id=48720924) - [US Supreme Court rules geofence warrants require constitutional protections](https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision)
 * [2026-06-29, 15:42:17](https://news.ycombinator.com/item?id=48720758) - [A native graphical shell for SSH](https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html)
-* [2026-06-29, 15:30:37](https://news.ycombinator.com/item?id=48720591) - [Microsoft Needs Windows Lite](https://philipbohun.com/blog/0011.html)
 * [2026-06-29, 15:02:00](https://news.ycombinator.com/item?id=48720190) - [WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter](https://humphri.es/blog/WATaBoy/)
 * [2026-06-29, 14:12:55](https://news.ycombinator.com/item?id=48719532) - [Mag 7 starting to underperform [pdf]](https://www.apollo.com/content/dam/apolloaem/pdf/daily-spark/2026/jun/28/062826-Mag7.pdf)
+* [2026-06-29, 14:12:05](https://news.ycombinator.com/item?id=48719521) - [You Don't Know Jack About Formal Verification](https://queue.acm.org/detail.cfm?id=3819084)
 * [2026-06-29, 14:09:24](https://news.ycombinator.com/item?id=48719485) - [Rocketlab acquires Iridium](https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully)
 * [2026-06-29, 13:56:46](https://news.ycombinator.com/item?id=48719361) - [CachyOS June 2026 Release](https://cachyos.org/blog/2606-june-release/)
 * [2026-06-29, 13:26:35](https://news.ycombinator.com/item?id=48719027) - [Instagram is incorporating users' photos in ads for Meta Glasses](https://twitter.com/i/status/2071277885646868536)
@@ -28,7 +29,6 @@
 * [2026-06-25, 22:12:33](https://news.ycombinator.com/item?id=48679904) - [The Return of Aspect Oriented Programming](https://thomaswc.com/blog/the_return_of_aop.html)
 * [2026-06-25, 16:55:10](https://news.ycombinator.com/item?id=48676183) - [How we made WINDOW JOIN parallel and vectorized](https://questdb.com/blog/window-join-parallel-vectorized/)
 * [2026-06-25, 15:28:24](https://news.ycombinator.com/item?id=48674875) - [Halvar's Guide to Entrepreneurship](https://thomasdullien.github.io/guides/entrepreneurship/)
-* [2026-06-25, 07:55:40](https://news.ycombinator.com/item?id=48670314) - [We found a bug in the hyper HTTP library](https://blog.cloudflare.com/hyper-bug/)
 * [2026-06-24, 16:10:08](https://news.ycombinator.com/item?id=48662018) - [NUMA: Cores, memory, and the distance between them](https://edera.dev/stories/numa-part-1-cores-memory-and-the-distance-between-them)
 
 ## [Archives](archives/index.md)

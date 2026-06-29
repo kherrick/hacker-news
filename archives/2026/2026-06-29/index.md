@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-29](index.md)
 
+* [2026-06-29, 17:05:16](https://news.ycombinator.com/item?id=48721903) - [Qwen 3.6 27B is the sweet spot for local development](https://quesma.com/blog/qwen-36-is-awesome/)
+* [2026-06-29, 16:27:27](https://news.ycombinator.com/item?id=48721308) - [The Radiation Exposure Lie](https://worksinprogress.co/issue/how-to-lie-about-radiation/)
 * [2026-06-29, 16:07:15](https://news.ycombinator.com/item?id=48721072) - [European ISPs Want Rightsholders Held Accountable for Overblocking Damage](https://torrentfreak.com/european-isps-want-rightsholders-held-accountable-for-overblocking-damage/)
 * [2026-06-29, 16:04:18](https://news.ycombinator.com/item?id=48721031) - [HamsterOS: A graphical desktop OS that fits on a 1.44MB floppy](https://hackaday.com/2026/06/29/hamsteros-crams-complete-graphical-desktop-onto-1-44-mb-floppy/)
 * [2026-06-29, 15:54:24](https://news.ycombinator.com/item?id=48720924) - [US Supreme Court rules geofence warrants require constitutional protections](https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision)
@@ -14,6 +16,7 @@
 * [2026-06-29, 14:27:35](https://news.ycombinator.com/item?id=48719712) - [Data breach exposes up to 14.2M email logins at six ISPs](https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/)
 * [2026-06-29, 14:23:27](https://news.ycombinator.com/item?id=48719665) - [A field guide to the modern front end for developers who hand-wrote HTML](https://davidpoblador.com/deep-dives/the-descent/)
 * [2026-06-29, 14:12:55](https://news.ycombinator.com/item?id=48719532) - [Mag 7 starting to underperform [pdf]](https://www.apollo.com/content/dam/apolloaem/pdf/daily-spark/2026/jun/28/062826-Mag7.pdf)
+* [2026-06-29, 14:12:05](https://news.ycombinator.com/item?id=48719521) - [You Don't Know Jack About Formal Verification](https://queue.acm.org/detail.cfm?id=3819084)
 * [2026-06-29, 14:09:24](https://news.ycombinator.com/item?id=48719485) - [Rocketlab acquires Iridium](https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully)
 * [2026-06-29, 14:09:15](https://news.ycombinator.com/item?id=48719483) - [DocumentDB – a MongoDB compatible open-source database](https://documentdb.io/)
 * [2026-06-29, 13:56:46](https://news.ycombinator.com/item?id=48719361) - [CachyOS June 2026 Release](https://cachyos.org/blog/2606-june-release/)
