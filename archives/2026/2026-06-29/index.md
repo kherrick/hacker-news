@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-29](index.md)
 
+* [2026-06-29, 21:18:46](https://news.ycombinator.com/item?id=48725397) - [Is It Out Yet?](https://outyet.ai)
 * [2026-06-29, 19:49:28](https://news.ycombinator.com/item?id=48724230) - [Announcing .self: A New Top-Level Domain Designed to Support Self-Hosting](https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/)
 * [2026-06-29, 19:06:17](https://news.ycombinator.com/item?id=48723677) - [JumpServer: Open-Source Privileged Access Management](https://github.com/jumpserver/jumpserver)
 * [2026-06-29, 18:49:41](https://news.ycombinator.com/item?id=48723452) - [.garden TLD's change to a bad neighborhood](https://discourse.ifin.network/t/garden-tlds-change-to-a-bad-neighborhood/627)

@@ -25,6 +25,7 @@
 * [2026-06-27, 17:00:15](https://news.ycombinator.com/item?id=48699842) - [Supabase (YC S20) Is Hiring for Multigres](https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228)
 * [2026-06-27, 16:51:09](https://news.ycombinator.com/item?id=48699778) - [Screen time can damage under-twos' development, landmark study suggests](https://www.theguardian.com/society/2026/jun/27/screen-time-damage-under-twos-development-study)
 * [2026-06-27, 16:31:58](https://news.ycombinator.com/item?id=48699617) - [Doctors suspected man had brain cancer. He had worms](https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/)
+* [2026-06-27, 15:05:17](https://news.ycombinator.com/item?id=48698908) - [Free the Icons](https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/)
 * [2026-06-27, 14:38:05](https://news.ycombinator.com/item?id=48698684) - [Zuckerberg's Increasingly Bizarre War on Whistleblowers](https://pluralistic.net/2026/06/27/zuckerstreisand-2/)
 * [2026-06-27, 14:31:00](https://news.ycombinator.com/item?id=48698617) - [Anonymous GitHub account mass-dropping undisclosed 0-days](https://github.com/bikini/exploitarium)
 * [2026-06-27, 14:23:40](https://news.ycombinator.com/item?id=48698559) - [Post-Mythos Cybersecurity: Keep calm and carry on](https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/)
