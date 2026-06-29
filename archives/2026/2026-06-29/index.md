@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-29](index.md)
 
+* [2026-06-29, 17:16:17](https://news.ycombinator.com/item?id=48722052) - [Ornith-1.0: self-improving open-source models for agentic coding](https://github.com/deepreinforce-ai/Ornith-1)
 * [2026-06-29, 17:05:16](https://news.ycombinator.com/item?id=48721903) - [Qwen 3.6 27B is the sweet spot for local development](https://quesma.com/blog/qwen-36-is-awesome/)
 * [2026-06-29, 16:27:27](https://news.ycombinator.com/item?id=48721308) - [The Radiation Exposure Lie](https://worksinprogress.co/issue/how-to-lie-about-radiation/)
 * [2026-06-29, 16:07:15](https://news.ycombinator.com/item?id=48721072) - [European ISPs Want Rightsholders Held Accountable for Overblocking Damage](https://torrentfreak.com/european-isps-want-rightsholders-held-accountable-for-overblocking-damage/)

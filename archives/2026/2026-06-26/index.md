@@ -60,6 +60,7 @@
 * [2026-06-26, 11:51:11](https://news.ycombinator.com/item?id=48685558) - [Ultrasound Imaging of the Brain](https://alephneuro.com/blog/ultrasound-brain)
 * [2026-06-26, 09:17:44](https://news.ycombinator.com/item?id=48684315) - [The Baffling World of Masayoshi Son's Presentations](https://www.bloomberg.com/news/features/2020-06-23/golden-geese-and-unicorns-inside-the-eccentric-presentations-of-masayoshi-son)
 * [2026-06-26, 07:44:11](https://news.ycombinator.com/item?id=48683588) - [Why current LLM costs are not sustainable](https://aditya.patadia.org/p/ai-and-cloud-costs)
+* [2026-06-26, 07:29:17](https://news.ycombinator.com/item?id=48683475) - [Wallace the 6 inch f/2.8 telescope, building it, and hiking with it](https://lucassifoni.info/blog/hiking-with-wallace/)
 * [2026-06-26, 06:52:59](https://news.ycombinator.com/item?id=48683222) - [The food science behind designing an ice cream](https://altermag.com/articles/designing-a-summer-ice-cream-for-india)
 * [2026-06-26, 06:27:25](https://news.ycombinator.com/item?id=48683041) - [Micron locks in historically high memory prices for five years](https://www.theregister.com/systems/2026/06/25/micron-locks-in-historically-high-memory-prices-for-five-years/5261854)
 * [2026-06-26, 06:24:39](https://news.ycombinator.com/item?id=48683021) - [US Govt to individually approve who gets GPT 5.6](https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56/)
