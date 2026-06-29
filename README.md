@@ -2,11 +2,9 @@
 
 * [2026-06-29, 19:49:28](https://news.ycombinator.com/item?id=48724230) - [.self: A new top-level domain designed to support self-hosting](https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/)
 * [2026-06-29, 19:06:17](https://news.ycombinator.com/item?id=48723677) - [JumpServer: Open-Source Privileged Access Management](https://github.com/jumpserver/jumpserver)
-* [2026-06-29, 18:49:41](https://news.ycombinator.com/item?id=48723452) - [.garden TLD's change to a bad neighborhood](https://discourse.ifin.network/t/garden-tlds-change-to-a-bad-neighborhood/627)
 * [2026-06-29, 18:03:26](https://news.ycombinator.com/item?id=48722802) - [Micro-Agent: Beat Frontier Models with Collaboration Inside Model API](https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models)
 * [2026-06-29, 17:16:17](https://news.ycombinator.com/item?id=48722052) - [Ornith-1.0: self-improving open-source models for agentic coding](https://github.com/deepreinforce-ai/Ornith-1)
 * [2026-06-29, 17:05:16](https://news.ycombinator.com/item?id=48721903) - [Qwen 3.6 27B is the sweet spot for local development](https://quesma.com/blog/qwen-36-is-awesome/)
-* [2026-06-29, 16:27:27](https://news.ycombinator.com/item?id=48721308) - [The Radiation Exposure Lie](https://worksinprogress.co/issue/how-to-lie-about-radiation/)
 * [2026-06-29, 16:07:15](https://news.ycombinator.com/item?id=48721072) - [European ISPs Want Rightsholders Held Accountable for Overblocking Damage](https://torrentfreak.com/european-isps-want-rightsholders-held-accountable-for-overblocking-damage/)
 * [2026-06-29, 15:54:24](https://news.ycombinator.com/item?id=48720924) - [US Supreme Court rules geofence warrants require constitutional protections](https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision)
 * [2026-06-29, 15:42:17](https://news.ycombinator.com/item?id=48720758) - [A native graphical shell for SSH](https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html)
@@ -23,6 +21,7 @@
 * [2026-06-28, 21:42:39](https://news.ycombinator.com/item?id=48711981) - [30-year sentence for transporting zines is a five-alarm fire for free speech](https://theintercept.com/2026/06/26/daniel-sanchez-estrada-zines-prairieland-free-speech/)
 * [2026-06-28, 17:58:04](https://news.ycombinator.com/item?id=48709744) - [Ornith-1.0: Self-scaffolding LLMs for agentic coding](https://deep-reinforce.com/ornith_1_0.html)
 * [2026-06-28, 11:22:49](https://news.ycombinator.com/item?id=48706389) - [One million passports leaked online](https://cambridgeanalytica.org/data-breaches-scandals/passports-driver-licenses-exposed-public-internet-2026-51096/)
+* [2026-06-28, 09:45:58](https://news.ycombinator.com/item?id=48705878) - [ACL 1.0: A source-available commercial license for the AI era](https://www.auditablelicense.org/)
 * [2026-06-27, 23:30:14](https://news.ycombinator.com/item?id=48702825) - [Apple Neural Engine: Architecture, Programming, and Performance](https://arxiv.org/abs/2606.22283)
 * [2026-06-27, 01:29:43](https://news.ycombinator.com/item?id=48694267) - [The Permission Slip](https://www.cringely.com/2026/05/28/the-permission-slip/)
 * [2026-06-26, 21:37:31](https://news.ycombinator.com/item?id=48692310) - [Font-Family Recommendations](https://chrismorgan.info/font-family)
@@ -30,6 +29,7 @@
 * [2026-06-26, 07:29:17](https://news.ycombinator.com/item?id=48683475) - [Wallace the 6 inch f/2.8 telescope, building it, and hiking with it](https://lucassifoni.info/blog/hiking-with-wallace/)
 * [2026-06-25, 22:12:33](https://news.ycombinator.com/item?id=48679904) - [The Return of Aspect Oriented Programming](https://thomaswc.com/blog/the_return_of_aop.html)
 * [2026-06-25, 16:19:19](https://news.ycombinator.com/item?id=48675653) - [Dark Sky Lighting](https://www.savingourstars.org/darkskylighting#whatisdarkskylighting)
+* [2026-06-25, 15:28:24](https://news.ycombinator.com/item?id=48674875) - [Halvar's Guide to Entrepreneurship](https://thomasdullien.github.io/guides/entrepreneurship/)
 
 ## [Archives](archives/index.md)
 
