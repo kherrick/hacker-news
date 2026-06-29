@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-06-29, 19:06:17](https://news.ycombinator.com/item?id=48723677) - [JumpServer: Open-Source Privileged Access Management](https://github.com/jumpserver/jumpserver)
 * [2026-06-29, 17:16:17](https://news.ycombinator.com/item?id=48722052) - [Ornith-1.0: self-improving open-source models for agentic coding](https://github.com/deepreinforce-ai/Ornith-1)
 * [2026-06-29, 17:05:16](https://news.ycombinator.com/item?id=48721903) - [Qwen 3.6 27B is the sweet spot for local development](https://quesma.com/blog/qwen-36-is-awesome/)
 * [2026-06-29, 16:27:27](https://news.ycombinator.com/item?id=48721308) - [The Radiation Exposure Lie](https://worksinprogress.co/issue/how-to-lie-about-radiation/)
@@ -22,13 +23,12 @@
 * [2026-06-29, 10:20:25](https://news.ycombinator.com/item?id=48717287) - [Sandia National Labs SA3000 8085 CPU](https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/)
 * [2026-06-29, 09:28:08](https://news.ycombinator.com/item?id=48716902) - [Pollen tried to remove my article and Google is assisting with it](https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/)
 * [2026-06-29, 01:44:40](https://news.ycombinator.com/item?id=48713832) - [HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88](https://danunparsed.com/p/hackerrank-open-source-ats)
-* [2026-06-28, 16:10:50](https://news.ycombinator.com/item?id=48708644) - [Dissecting Apple's Sparse Image Format (ASIF)](https://schamper.dev/dissecting-apples-sparse-image-format-asif/)
 * [2026-06-26, 23:18:04](https://news.ycombinator.com/item?id=48693273) - [Decker Fantasy Camp 2026](https://itch.io/jam/decker-fantasy-camp-2026)
 * [2026-06-26, 16:16:16](https://news.ycombinator.com/item?id=48688382) - [Venetian Bridge Brawls in 17th and 18th Century Art](https://publicdomainreview.org/collection/venice-bridge-fights/)
-* [2026-06-26, 15:30:02](https://news.ycombinator.com/item?id=48687843) - [Type-checked non-empty strings](https://exploring-better-ways.bellroy.com/haskell-koan-type-checked-non-empty-strings.html)
 * [2026-06-26, 07:29:17](https://news.ycombinator.com/item?id=48683475) - [Wallace the 6 inch f/2.8 telescope, building it, and hiking with it](https://lucassifoni.info/blog/hiking-with-wallace/)
 * [2026-06-25, 22:12:33](https://news.ycombinator.com/item?id=48679904) - [The Return of Aspect Oriented Programming](https://thomaswc.com/blog/the_return_of_aop.html)
 * [2026-06-25, 15:28:24](https://news.ycombinator.com/item?id=48674875) - [Halvar's Guide to Entrepreneurship](https://thomasdullien.github.io/guides/entrepreneurship/)
+* [2026-06-25, 02:53:47](https://news.ycombinator.com/item?id=48668269) - [Alternatives to Nested If Function](https://medium.com/@crispomwangi/7-alternatives-to-nested-if-function-a9cb07f3df1e)
 * [2026-06-24, 16:10:08](https://news.ycombinator.com/item?id=48662018) - [NUMA: Cores, memory, and the distance between them](https://edera.dev/stories/numa-part-1-cores-memory-and-the-distance-between-them)
 
 ## [Archives](archives/index.md)
