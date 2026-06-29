@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-29, 01:52:55",
+      "https://news.ycombinator.com/item?id=48713887"
+    ],
+    [
+      "Tell Congress: Don't Force Age Checks Online",
+      "https://act.eff.org/action/tell-congress-don-t-force-age-checks-online"
+    ]
+  ],
+  [
+    [
       "2026-06-29, 01:25:04",
       "https://news.ycombinator.com/item?id=48713697"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2026-06-29, 01:23:38",
-      "https://news.ycombinator.com/item?id=48713686"
+      "2026-06-29, 00:48:17",
+      "https://news.ycombinator.com/item?id=48713453"
     ],
     [
-      "Sophon PFG-1: a monolithic-3D AI ASIC with 330 GB of on-die DRAM and no HBM",
-      "https://www.phantafield.com/whitepaper"
+      "You might not need a service worker",
+      "https://www.jayfreestone.com/writing/you-might-not-need-a-service-worker/"
     ]
   ],
   [
@@ -31,42 +41,12 @@
   ],
   [
     [
-      "2026-06-28, 23:49:50",
-      "https://news.ycombinator.com/item?id=48713041"
-    ],
-    [
-      "We need tech news sources which exclude AI",
-      "https://news.ycombinator.com/item?id=48713041"
-    ]
-  ],
-  [
-    [
       "2026-06-28, 22:32:04",
       "https://news.ycombinator.com/item?id=48712420"
     ],
     [
       "Knowledge Distillation of Black-Box Large Language Models (2024)",
       "https://arxiv.org/abs/2401.07013"
-    ]
-  ],
-  [
-    [
-      "2026-06-28, 22:20:56",
-      "https://news.ycombinator.com/item?id=48712324"
-    ],
-    [
-      "Xonaly – Canada's Independent Search Engine",
-      "https://xonaly.com/"
-    ]
-  ],
-  [
-    [
-      "2026-06-28, 20:39:50",
-      "https://news.ycombinator.com/item?id=48711403"
-    ],
-    [
-      "POSIX Is Not a Shell",
-      "https://alganet.github.io/blog/2026-06-28-12-POSIX-Is-Not-A-Shell.html"
     ]
   ],
   [
@@ -241,6 +221,16 @@
   ],
   [
     [
+      "2026-06-28, 12:41:45",
+      "https://news.ycombinator.com/item?id=48706796"
+    ],
+    [
+      "The MUMPS 76 Primer – anniversary edition",
+      "https://github.com/rochus-keller/MUMPS/blob/main/docs/MUMPS_Primer.adoc"
+    ]
+  ],
+  [
+    [
       "2026-06-28, 12:27:33",
       "https://news.ycombinator.com/item?id=48706714"
     ],
@@ -261,11 +251,21 @@
   ],
   [
     [
+      "2026-06-27, 07:51:26",
+      "https://news.ycombinator.com/item?id=48696127"
+    ],
+    [
+      "Researchers have developed pixels that can emit and analyse light together",
+      "https://ethz.ch/en/news-and-events/eth-news/news/2026/06/a-new-type-of-pixel.html"
+    ]
+  ],
+  [
+    [
       "2026-06-26, 09:17:44",
       "https://news.ycombinator.com/item?id=48684315"
     ],
     [
-      "The Baffling World of Masayoshi Son's Presentations",
+      "The Baffling World of Masayoshi Son's Presentations (2020)",
       "https://www.bloomberg.com/news/features/2020-06-23/golden-geese-and-unicorns-inside-the-eccentric-presentations-of-masayoshi-son"
     ]
   ],
