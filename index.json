@@ -1,22 +1,22 @@
 [
   [
     [
-      "2026-06-29, 14:27:35",
-      "https://news.ycombinator.com/item?id=48719712"
+      "2026-06-29, 15:02:00",
+      "https://news.ycombinator.com/item?id=48720190"
     ],
     [
-      "Data breach exposes up to 14.2M email logins at six ISPs",
-      "https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/"
+      "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
+      "https://humphri.es/blog/WATaBoy/"
     ]
   ],
   [
     [
-      "2026-06-29, 14:23:27",
-      "https://news.ycombinator.com/item?id=48719665"
+      "2026-06-29, 15:01:15",
+      "https://news.ycombinator.com/item?id=48720179"
     ],
     [
-      "A field guide to the modern front end for developers who hand-wrote HTML",
-      "https://davidpoblador.com/deep-dives/the-descent/"
+      "WebGL Without a GPU",
+      "https://microlink.io/blog/webgl-without-a-gpu"
     ]
   ],
   [
@@ -27,6 +27,36 @@
     [
       "Mag 7 starting to underperform [pdf]",
       "https://www.apollo.com/content/dam/apolloaem/pdf/daily-spark/2026/jun/28/062826-Mag7.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-06-29, 14:09:24",
+      "https://news.ycombinator.com/item?id=48719485"
+    ],
+    [
+      "Rocketlab acquires Iridium",
+      "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully"
+    ]
+  ],
+  [
+    [
+      "2026-06-29, 14:09:15",
+      "https://news.ycombinator.com/item?id=48719483"
+    ],
+    [
+      "DocumentDB – a MongoDB compatible open-source database",
+      "https://documentdb.io/"
+    ]
+  ],
+  [
+    [
+      "2026-06-29, 13:56:46",
+      "https://news.ycombinator.com/item?id=48719361"
+    ],
+    [
+      "CachyOS June 2026 Release",
+      "https://cachyos.org/blog/2606-june-release/"
     ]
   ],
   [
@@ -81,6 +111,16 @@
   ],
   [
     [
+      "2026-06-29, 13:01:51",
+      "https://news.ycombinator.com/item?id=48718753"
+    ],
+    [
+      "NixOS 26.05",
+      "https://nixos.org/blog/announcements/2026/nixos-2605/"
+    ]
+  ],
+  [
+    [
       "2026-06-29, 11:58:48",
       "https://news.ycombinator.com/item?id=48718102"
     ],
@@ -101,6 +141,16 @@
   ],
   [
     [
+      "2026-06-29, 11:29:14",
+      "https://news.ycombinator.com/item?id=48717869"
+    ],
+    [
+      "DeepSeek V4 Peak Valley Pricing Change",
+      "https://www.kucoin.com/news/flash/deepseek-v4-launches-in-mid-july-with-peak-valley-pricing"
+    ]
+  ],
+  [
+    [
       "2026-06-29, 10:20:25",
       "https://news.ycombinator.com/item?id=48717287"
     ],
@@ -115,18 +165,18 @@
       "https://news.ycombinator.com/item?id=48716902"
     ],
     [
-      "Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped",
+      "Pollen tried to remove my article and Google is assisting with it",
       "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/"
     ]
   ],
   [
     [
-      "2026-06-29, 08:58:09",
-      "https://news.ycombinator.com/item?id=48716634"
+      "2026-06-29, 04:27:46",
+      "https://news.ycombinator.com/item?id=48714802"
     ],
     [
-      "Why did this journal retract two 1940s papers by Max Planck?",
-      "https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/"
+      "Herdr: Agent multiplexer that lives in your terminal",
+      "https://github.com/ogulcancelik/herdr"
     ]
   ],
   [
@@ -151,16 +201,6 @@
   ],
   [
     [
-      "2026-06-28, 22:32:04",
-      "https://news.ycombinator.com/item?id=48712420"
-    ],
-    [
-      "Knowledge Distillation of Black-Box Large Language Models (2024)",
-      "https://arxiv.org/abs/2401.07013"
-    ]
-  ],
-  [
-    [
       "2026-06-28, 18:32:53",
       "https://news.ycombinator.com/item?id=48710092"
     ],
@@ -181,26 +221,6 @@
   ],
   [
     [
-      "2026-06-28, 16:35:19",
-      "https://news.ycombinator.com/item?id=48708941"
-    ],
-    [
-      "I used Claude Code to get a second opinion on my MRI",
-      "https://antoine.fi/mri-analysis-using-claude-code-opus"
-    ]
-  ],
-  [
-    [
-      "2026-06-28, 16:24:10",
-      "https://news.ycombinator.com/item?id=48708795"
-    ],
-    [
-      "Tokenmaxxing is dead, long live tokenmaxxing",
-      "https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing"
-    ]
-  ],
-  [
-    [
       "2026-06-28, 16:10:50",
       "https://news.ycombinator.com/item?id=48708644"
     ],
@@ -211,32 +231,22 @@
   ],
   [
     [
-      "2026-06-28, 15:26:14",
-      "https://news.ycombinator.com/item?id=48708182"
+      "2026-06-26, 23:18:04",
+      "https://news.ycombinator.com/item?id=48693273"
     ],
     [
-      "Show HN: Zanagrams",
-      "https://zanagrams.com/"
+      "Decker Fantasy Camp 2026",
+      "https://itch.io/jam/decker-fantasy-camp-2026"
     ]
   ],
   [
     [
-      "2026-06-28, 14:44:56",
-      "https://news.ycombinator.com/item?id=48707763"
+      "2026-06-26, 16:16:16",
+      "https://news.ycombinator.com/item?id=48688382"
     ],
     [
-      "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)",
-      "https://pudding.cool/2026/06/menu-story/"
-    ]
-  ],
-  [
-    [
-      "2026-06-28, 11:56:16",
-      "https://news.ycombinator.com/item?id=48706560"
-    ],
-    [
-      "The KIDS Act would require age checks to get online",
-      "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online"
+      "Venetian Bridge Brawls in 17th and 18th Century Art",
+      "https://publicdomainreview.org/collection/venice-bridge-fights/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Halvar's Guide to Entrepreneurship",
       "https://thomasdullien.github.io/guides/entrepreneurship/"
-    ]
-  ],
-  [
-    [
-      "2026-06-25, 13:37:52",
-      "https://news.ycombinator.com/item?id=48673197"
-    ],
-    [
-      "Federating Clusters for Zero-Downtime Kubernetes",
-      "https://linkerd.io/2026/06/24/federating-clusters-for-zero-downtime-kubernetes/index.html"
     ]
   ],
   [
