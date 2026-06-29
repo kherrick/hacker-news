@@ -17,6 +17,7 @@
 * [2026-06-25, 20:14:35](https://news.ycombinator.com/item?id=48678645) - [An oral history of Bank Python (2021)](https://calpaterson.com/bank-python.html)
 * [2026-06-25, 20:12:24](https://news.ycombinator.com/item?id=48678623) - [Parallel Parentheses Matching](https://williamdue.github.io/blog/parallel-parentheses-matching)
 * [2026-06-25, 20:00:35](https://news.ycombinator.com/item?id=48678495) - [The Doorman's Fallacy in Action](https://rozumem.xyz/posts/17)
+* [2026-06-25, 19:53:27](https://news.ycombinator.com/item?id=48678393) - [Idler Magazine](https://www.idler.co.uk/)
 * [2026-06-25, 19:51:33](https://news.ycombinator.com/item?id=48678377) - [Staying Awake (2008)](https://harpers.org/archive/2008/02/staying-awake/)
 * [2026-06-25, 18:42:17](https://news.ycombinator.com/item?id=48677564) - [Long Wave radio era set to end with switch-off](https://www.economist.com/britain/2026/06/25/the-bbc-switches-off-its-oldest-service)
 * [2026-06-25, 17:38:44](https://news.ycombinator.com/item?id=48676795) - [Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line](https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true)

@@ -35,6 +35,7 @@
 * [2026-06-26, 17:00:43](https://news.ycombinator.com/item?id=48688961) - [Liva AI (YC S25) Is Hiring](https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead)
 * [2026-06-26, 16:40:11](https://news.ycombinator.com/item?id=48688700) - [Show HN: Smart model routing directly in Claude, Codex and Cursor](https://github.com/workweave/router)
 * [2026-06-26, 16:20:06](https://news.ycombinator.com/item?id=48688438) - [One man, two kernels, and a lot of RISC-V](https://www.theregister.com/software/2026/06/26/one-man-two-kernels-and-a-lot-of-risc-v/5262858)
+* [2026-06-26, 16:08:54](https://news.ycombinator.com/item?id=48688275) - [A glitch in February of the year 0](https://28times.com/blog/2026-06-26-february-of-the-year-0)
 * [2026-06-26, 15:51:19](https://news.ycombinator.com/item?id=48688081) - [What is a Lithium-ion capacitor?](https://www.jtekt.co.jp/e/products/capacitor/capacitor_about.html)
 * [2026-06-26, 15:35:23](https://news.ycombinator.com/item?id=48687903) - [The Exhaustion of Talking to a Tool](https://ohadravid.github.io/posts/2026-06-tool-talking/)
 * [2026-06-26, 15:24:40](https://news.ycombinator.com/item?id=48687769) - [Ask HN: Is \"no source code was copied\" still a sufficient copyright defense?](https://news.ycombinator.com/item?id=48687769)
