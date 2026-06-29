@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-06-28, 23:49:50](https://news.ycombinator.com/item?id=48713041) - [We need tech news sources which exclude AI](https://news.ycombinator.com/item?id=48713041)
 * [2026-06-28, 22:32:04](https://news.ycombinator.com/item?id=48712420) - [Knowledge Distillation of Black-Box Large Language Models](https://arxiv.org/abs/2401.07013)
 * [2026-06-28, 22:21:51](https://news.ycombinator.com/item?id=48712338) - [A QNX-inspired operating system with selectable kernels](https://qsoe.net)
 * [2026-06-28, 22:20:56](https://news.ycombinator.com/item?id=48712324) - [Xonaly – Canada's Independent Search Engine](https://xonaly.com/)
@@ -11,7 +12,6 @@
 * [2026-06-28, 18:56:46](https://news.ycombinator.com/item?id=48710325) - [British Origami: the 1955 exhibition by Akira Yoshizawa (2005)](https://www.britishorigami.org/cp-lister-list/the-1955-exhibition-by-akira-yoshizawa/)
 * [2026-06-28, 18:48:53](https://news.ycombinator.com/item?id=48710232) - [Librepods: AirPods liberated](https://github.com/librepods-org/librepods)
 * [2026-06-28, 18:32:53](https://news.ycombinator.com/item?id=48710092) - [Historical memory prices 1960-2026](https://dam.stanford.edu/memory-prices.html)
-* [2026-06-28, 18:31:54](https://news.ycombinator.com/item?id=48710082) - [The cost YAGNI was never about](https://newsletter.kentbeck.com/p/the-cost-yagni-was-never-about)
 * [2026-06-28, 17:50:47](https://news.ycombinator.com/item?id=48709670) - [GLM 5.2 beats Claude in our benchmarks](https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/)
 * [2026-06-28, 16:58:59](https://news.ycombinator.com/item?id=48709187) - [Working around dragons with the Lemote Yeeloong laptop and OpenBSD](http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html)
 * [2026-06-28, 16:58:56](https://news.ycombinator.com/item?id=48709186) - [Show HN: DRM-Free Books](https://frequal.com/Perspectives/DrmFreeAuthors.html)
@@ -27,9 +27,9 @@
 * [2026-06-28, 12:27:33](https://news.ycombinator.com/item?id=48706714) - [A way to exclude sensitive files issue still open for OpenAI Codex](https://github.com/openai/codex/issues/2847)
 * [2026-06-28, 11:56:16](https://news.ycombinator.com/item?id=48706560) - [The KIDS Act would require age checks to get online](https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online)
 * [2026-06-28, 11:55:08](https://news.ycombinator.com/item?id=48706554) - [More evidence is consistent with possible ancient life on Mars (2025)](https://www.cbc.ca/radio/quirks/more-evidence-of-life-on-mars-but-still-no-life-1.7649645)
-* [2026-06-26, 06:52:59](https://news.ycombinator.com/item?id=48683222) - [The food science behind designing an ice cream](https://altermag.com/articles/designing-a-summer-ice-cream-for-india)
-* [2026-06-25, 19:51:33](https://news.ycombinator.com/item?id=48678377) - [Staying Awake (2008)](https://harpers.org/archive/2008/02/staying-awake/)
 * [2026-06-25, 15:54:46](https://news.ycombinator.com/item?id=48675295) - [The Boeing 747 begins its final descent](https://www.theatlantic.com/magazine/2026/07/boeing-747-retirement/687304/)
+* [2026-06-25, 13:54:06](https://news.ycombinator.com/item?id=48673450) - [Model Training as Code](https://aleph-alpha.com/en/blog/model-training-as-code/)
+* [2026-06-24, 09:05:46](https://news.ycombinator.com/item?id=48657131) - [Deciphering Basmala](https://blog.plover.com/lang/bismillah.html)
 
 ## [Archives](archives/index.md)
 

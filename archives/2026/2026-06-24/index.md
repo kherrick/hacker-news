@@ -66,6 +66,7 @@
 * [2026-06-24, 10:20:39](https://news.ycombinator.com/item?id=48657675) - [European Commission's Metsola Overrides MEPs to Force Through Chat Control](https://www.politico.eu/article/president-vs-parliament-roberta-metsola-overrides-meps-bid-force-child-abuse-law/)
 * [2026-06-24, 09:57:10](https://news.ycombinator.com/item?id=48657518) - [How to burst the AI bubble: Strike at its roots](https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/)
 * [2026-06-24, 09:50:58](https://news.ycombinator.com/item?id=48657481) - [Puzzling Success of Overparameterization: Lottery Tickets or Escape Dimensions?](https://infoscience.epfl.ch/entities/publication/9a49779b-f9f8-448d-b3d1-737c78455309)
+* [2026-06-24, 09:05:46](https://news.ycombinator.com/item?id=48657131) - [Deciphering Basmala](https://blog.plover.com/lang/bismillah.html)
 * [2026-06-24, 08:54:12](https://news.ycombinator.com/item?id=48657049) - [You can't unit test for taste](https://dev.karltryggvason.com/you-cant-unit-test-for-taste/)
 * [2026-06-24, 08:50:41](https://news.ycombinator.com/item?id=48657030) - [We're making Bunny DNS free: because a faster internet won't build itself](https://bunny.net/blog/were-making-bunny-dns-free/)
 * [2026-06-24, 08:46:16](https://news.ycombinator.com/item?id=48656986) - [Show HN: WebBase-III – dBASE III rebuilt in the browser with its own interpreter](https://github.com/DDecoene/WebBaseIII)

@@ -42,6 +42,7 @@
 * [2026-06-25, 14:16:17](https://news.ycombinator.com/item?id=48673787) - [Federal agents track down woman, demand she remove Instagram post about ICE](https://www.syracuse.com/news/2026/06/federal-agents-track-down-syracuse-woman-demand-she-remove-instagram-post-about-ice.html)
 * [2026-06-25, 14:08:55](https://news.ycombinator.com/item?id=48673671) - [Show HN: I made Google Trends for Hacker News by indexing 18 years of comments](https://hackernewstrends.com)
 * [2026-06-25, 13:58:21](https://news.ycombinator.com/item?id=48673527) - [Show HN: Autofit2 – End-to-end pipeline for multilingual text classification](https://github.com/neospe/autofit2)
+* [2026-06-25, 13:54:06](https://news.ycombinator.com/item?id=48673450) - [Model Training as Code](https://aleph-alpha.com/en/blog/model-training-as-code/)
 * [2026-06-25, 13:37:36](https://news.ycombinator.com/item?id=48673194) - [Tell HN: OpenAI has started putting ads on paid programs](https://news.ycombinator.com/item?id=48673194)
 * [2026-06-25, 13:32:12](https://news.ycombinator.com/item?id=48673115) - [A Tiny Compiler for Data-Parallel Kernels](https://healeycodes.com/a-tiny-compiler-for-data-parallel-kernels)
 * [2026-06-25, 13:08:31](https://news.ycombinator.com/item?id=48672779) - [Where every major LLM stands politically](https://trakkr.ai/bias)

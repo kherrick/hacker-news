@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-28](index.md)
 
+* [2026-06-28, 23:49:50](https://news.ycombinator.com/item?id=48713041) - [We need tech news sources which exclude AI](https://news.ycombinator.com/item?id=48713041)
 * [2026-06-28, 22:32:04](https://news.ycombinator.com/item?id=48712420) - [Knowledge Distillation of Black-Box Large Language Models](https://arxiv.org/abs/2401.07013)
 * [2026-06-28, 22:21:51](https://news.ycombinator.com/item?id=48712338) - [A QNX-inspired operating system with selectable kernels](https://qsoe.net)
 * [2026-06-28, 22:20:56](https://news.ycombinator.com/item?id=48712324) - [Xonaly – Canada's Independent Search Engine](https://xonaly.com/)
