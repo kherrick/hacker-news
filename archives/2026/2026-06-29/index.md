@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-29](index.md)
 
+* [2026-06-29, 09:28:08](https://news.ycombinator.com/item?id=48716902) - [Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped](https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/)
+* [2026-06-29, 08:58:09](https://news.ycombinator.com/item?id=48716634) - [Why did this journal retract two 1940s papers by Max Planck?](https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/)
 * [2026-06-29, 07:36:08](https://news.ycombinator.com/item?id=48716009) - [US Grid Constraints: Towards 40GW+ of Behind-the-Meter Datacenter by 2028?](https://newsletter.semianalysis.com/p/us-grid-constraints-towards-40gw)
 * [2026-06-29, 06:37:44](https://news.ycombinator.com/item?id=48715630) - [Replacing Systemd with OpenRC in Debian](https://danielcordova.me/blog/debian-openrc/)
 * [2026-06-29, 04:40:35](https://news.ycombinator.com/item?id=48714880) - [Lore – give your coding agent the decisions your team made](https://github.com/itsthelore/rac-core)
