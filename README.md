@@ -2,7 +2,6 @@
 
 * [2026-06-29, 22:21:00](https://news.ycombinator.com/item?id=48726102) - [South Korea to spend $1T on more memory chip production and humanoid robots](https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/)
 * [2026-06-29, 22:18:26](https://news.ycombinator.com/item?id=48726073) - [Scientists find molecular-level evidence for two structures in liquid water](https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html)
-* [2026-06-29, 21:18:46](https://news.ycombinator.com/item?id=48725397) - [Is It Out Yet?](https://outyet.ai)
 * [2026-06-29, 19:49:28](https://news.ycombinator.com/item?id=48724230) - [.self: A new top-level domain designed to support self-hosting](https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/)
 * [2026-06-29, 19:06:17](https://news.ycombinator.com/item?id=48723677) - [JumpServer: Open-Source Privileged Access Management](https://github.com/jumpserver/jumpserver)
 * [2026-06-29, 18:03:26](https://news.ycombinator.com/item?id=48722802) - [Micro-Agent: Beat Frontier Models with Collaboration Inside Model API](https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models)
@@ -13,7 +12,7 @@
 * [2026-06-29, 15:42:17](https://news.ycombinator.com/item?id=48720758) - [A native graphical shell for SSH](https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html)
 * [2026-06-29, 15:02:00](https://news.ycombinator.com/item?id=48720190) - [WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter](https://humphri.es/blog/WATaBoy/)
 * [2026-06-29, 14:53:41](https://news.ycombinator.com/item?id=48720064) - [Working With AI: A concrete example](https://htmx.org/essays/working-with-ai/)
-* [2026-06-29, 14:12:05](https://news.ycombinator.com/item?id=48719521) - [You Don't Know Jack About Formal Verification](https://queue.acm.org/detail.cfm?id=3819084)
+* [2026-06-29, 14:12:05](https://news.ycombinator.com/item?id=48719521) - [What can you confidently guarantee about your software?](https://queue.acm.org/detail.cfm?id=3819084)
 * [2026-06-29, 14:09:24](https://news.ycombinator.com/item?id=48719485) - [Rocketlab acquires Iridium](https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully)
 * [2026-06-29, 13:11:08](https://news.ycombinator.com/item?id=48718863) - [What happens when you run a CUDA kernel?](https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/)
 * [2026-06-29, 11:58:48](https://news.ycombinator.com/item?id=48718102) - [Samsung, SK Hynix, Micron Sued in US over Memory Price Fixing](https://en.sedaily.com/international/2026/06/29/samsung-sk-hynix-micron-sued-in-us-over-memory-price-fixing)
@@ -30,6 +29,7 @@
 * [2026-06-26, 16:16:16](https://news.ycombinator.com/item?id=48688382) - [Venetian Bridge Brawls in 17th and 18th Century Art](https://publicdomainreview.org/collection/venice-bridge-fights/)
 * [2026-06-26, 07:29:17](https://news.ycombinator.com/item?id=48683475) - [Wallace the 6 inch f/2.8 telescope, building it, and hiking with it](https://lucassifoni.info/blog/hiking-with-wallace/)
 * [2026-06-25, 16:19:19](https://news.ycombinator.com/item?id=48675653) - [Dark Sky Lighting](https://www.savingourstars.org/darkskylighting#whatisdarkskylighting)
+* [2026-06-25, 15:28:24](https://news.ycombinator.com/item?id=48674875) - [Halvar's Guide to Entrepreneurship](https://thomasdullien.github.io/guides/entrepreneurship/)
 
 ## [Archives](archives/index.md)
 
