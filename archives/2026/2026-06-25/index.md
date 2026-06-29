@@ -31,6 +31,7 @@
 * [2026-06-25, 15:48:07](https://news.ycombinator.com/item?id=48675179) - [A Herculaneum scroll has been read for the first time](https://scrollprize.org/firstscroll)
 * [2026-06-25, 15:33:37](https://news.ycombinator.com/item?id=48674968) - [As banks close accounts, experts point to immigration crackdown](https://www.americanbanker.com/news/as-banks-close-accounts-experts-point-to-immigration-crackdown)
 * [2026-06-25, 15:33:37](https://news.ycombinator.com/item?id=48674967) - [IBM Debuts First Sub-1 Nanometer Chip Technology](https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology)
+* [2026-06-25, 15:28:24](https://news.ycombinator.com/item?id=48674875) - [Halvar's Guide to Entrepreneurship](https://thomasdullien.github.io/guides/entrepreneurship/)
 * [2026-06-25, 15:11:48](https://news.ycombinator.com/item?id=48674619) - [Physicists Track and Trap the Elusive Neutrino](https://www.quantamagazine.org/how-physicists-track-and-trap-the-elusive-neutrino-20260624/)
 * [2026-06-25, 15:01:06](https://news.ycombinator.com/item?id=48674484) - [OS9Map](https://yllan.org/software/OS9Map/)
 * [2026-06-25, 14:58:50](https://news.ycombinator.com/item?id=48674446) - [Ford rehires 350 engineers after AI fails to preserve expertise or train juniors](https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short)
