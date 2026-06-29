@@ -22,6 +22,7 @@
 * [2026-06-25, 18:42:17](https://news.ycombinator.com/item?id=48677564) - [Long Wave radio era set to end with switch-off](https://www.economist.com/britain/2026/06/25/the-bbc-switches-off-its-oldest-service)
 * [2026-06-25, 17:38:44](https://news.ycombinator.com/item?id=48676795) - [Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line](https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true)
 * [2026-06-25, 17:00:00](https://news.ycombinator.com/item?id=48676256) - [Besimple AI (YC P25) Is Hiring](https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data)
+* [2026-06-25, 16:55:10](https://news.ycombinator.com/item?id=48676183) - [How we made WINDOW JOIN parallel and vectorized](https://questdb.com/blog/window-join-parallel-vectorized/)
 * [2026-06-25, 16:22:55](https://news.ycombinator.com/item?id=48675717) - [Deno 2.9](https://deno.com/blog/v2.9)
 * [2026-06-25, 16:22:45](https://news.ycombinator.com/item?id=48675710) - [European Commission lines up Amazon and Microsoft for cloud gatekeeper status](https://www.theregister.com/legal/2026/06/25/european-commission-lines-up-amazon-and-microsoft-for-cloud-gatekeeper-status/5262127)
 * [2026-06-25, 16:04:46](https://news.ycombinator.com/item?id=48675435) - [Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion](https://github.com/inkeep/open-knowledge)

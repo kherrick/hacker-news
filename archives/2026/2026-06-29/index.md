@@ -4,6 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-06-29](index.md)
 
+* [2026-06-29, 14:27:35](https://news.ycombinator.com/item?id=48719712) - [Data breach exposes up to 14.2M email logins at six ISPs](https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/)
+* [2026-06-29, 14:23:27](https://news.ycombinator.com/item?id=48719665) - [A field guide to the modern front end for developers who hand-wrote HTML](https://davidpoblador.com/deep-dives/the-descent/)
+* [2026-06-29, 14:12:55](https://news.ycombinator.com/item?id=48719532) - [Mag 7 starting to underperform [pdf]](https://www.apollo.com/content/dam/apolloaem/pdf/daily-spark/2026/jun/28/062826-Mag7.pdf)
+* [2026-06-29, 13:26:35](https://news.ycombinator.com/item?id=48719027) - [Instagram is incorporating users' photos in ads for Meta Glasses](https://twitter.com/i/status/2071277885646868536)
+* [2026-06-29, 13:23:19](https://news.ycombinator.com/item?id=48718995) - [Building Principia for Windows XP](https://voxelmanip.se/2026/06/28/building-principia-for-windows-xp/)
+* [2026-06-29, 13:20:14](https://news.ycombinator.com/item?id=48718967) - [Studio Canal Movies purchased on PlayStation Store removed without refund](https://www.playstation.com/en-gb/legal/psvideocontent/)
+* [2026-06-29, 13:11:08](https://news.ycombinator.com/item?id=48718863) - [What happens when you run a CUDA kernel?](https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/)
+* [2026-06-29, 13:09:03](https://news.ycombinator.com/item?id=48718840) - [Tidal AI Policy](https://tidal.com/ai-policy)
+* [2026-06-29, 11:58:48](https://news.ycombinator.com/item?id=48718102) - [Samsung, SK Hynix, Micron Sued in US over Memory Price Fixing](https://en.sedaily.com/international/2026/06/29/samsung-sk-hynix-micron-sued-in-us-over-memory-price-fixing)
 * [2026-06-29, 11:34:36](https://news.ycombinator.com/item?id=48717905) - [Rebuilding the Computer Room](https://alexwlchan.net/2026/computer-room/)
 * [2026-06-29, 11:20:55](https://news.ycombinator.com/item?id=48717758) - [Caffeinated and decaffeinated coffee lower stress, depression and impulsivity](https://www.ucc.ie/en/advancement/alumni-benefits/bridge-newsletter/why-your-morning-brew-is-good-for-you.html)
 * [2026-06-29, 10:20:25](https://news.ycombinator.com/item?id=48717287) - [Sandia National Labs SA3000 8085 CPU](https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/)
