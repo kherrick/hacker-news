@@ -1,8 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-06-29, 22:21:00](https://news.ycombinator.com/item?id=48726102) - [South Korea to spend $1T on more memory chip production and humanoid robots](https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/)
+* [2026-06-29, 22:18:26](https://news.ycombinator.com/item?id=48726073) - [Scientists find molecular-level evidence for two structures in liquid water](https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html)
 * [2026-06-29, 21:18:46](https://news.ycombinator.com/item?id=48725397) - [Is It Out Yet?](https://outyet.ai)
 * [2026-06-29, 19:49:28](https://news.ycombinator.com/item?id=48724230) - [.self: A new top-level domain designed to support self-hosting](https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/)
 * [2026-06-29, 19:06:17](https://news.ycombinator.com/item?id=48723677) - [JumpServer: Open-Source Privileged Access Management](https://github.com/jumpserver/jumpserver)
+* [2026-06-29, 18:49:41](https://news.ycombinator.com/item?id=48723452) - [.garden TLD's change to a bad neighborhood](https://discourse.ifin.network/t/garden-tlds-change-to-a-bad-neighborhood/627)
 * [2026-06-29, 18:03:26](https://news.ycombinator.com/item?id=48722802) - [Micro-Agent: Beat Frontier Models with Collaboration Inside Model API](https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models)
 * [2026-06-29, 17:16:17](https://news.ycombinator.com/item?id=48722052) - [Ornith-1.0: self-improving open-source models for agentic coding](https://github.com/deepreinforce-ai/Ornith-1)
 * [2026-06-29, 17:05:16](https://news.ycombinator.com/item?id=48721903) - [Qwen 3.6 27B is the sweet spot for local development](https://quesma.com/blog/qwen-36-is-awesome/)
@@ -13,11 +16,9 @@
 * [2026-06-29, 14:53:41](https://news.ycombinator.com/item?id=48720064) - [Working With AI: A concrete example](https://htmx.org/essays/working-with-ai/)
 * [2026-06-29, 14:12:05](https://news.ycombinator.com/item?id=48719521) - [You Don't Know Jack About Formal Verification](https://queue.acm.org/detail.cfm?id=3819084)
 * [2026-06-29, 14:09:24](https://news.ycombinator.com/item?id=48719485) - [Rocketlab acquires Iridium](https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully)
-* [2026-06-29, 13:26:35](https://news.ycombinator.com/item?id=48719027) - [Instagram is incorporating users' photos in ads for Meta Glasses](https://twitter.com/i/status/2071277885646868536)
 * [2026-06-29, 13:11:08](https://news.ycombinator.com/item?id=48718863) - [What happens when you run a CUDA kernel?](https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/)
 * [2026-06-29, 11:58:48](https://news.ycombinator.com/item?id=48718102) - [Samsung, SK Hynix, Micron Sued in US over Memory Price Fixing](https://en.sedaily.com/international/2026/06/29/samsung-sk-hynix-micron-sued-in-us-over-memory-price-fixing)
 * [2026-06-29, 11:34:36](https://news.ycombinator.com/item?id=48717905) - [Rebuilding the Computer Room](https://alexwlchan.net/2026/computer-room/)
-* [2026-06-29, 10:45:51](https://news.ycombinator.com/item?id=48717469) - [The CEO of Mullvad is the main financer of the Swedish Örebro party](https://det.social/@lostgen/116820546568940358)
 * [2026-06-29, 10:20:25](https://news.ycombinator.com/item?id=48717287) - [Sandia National Labs SA3000 8085 CPU](https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/)
 * [2026-06-29, 05:05:35](https://news.ycombinator.com/item?id=48715020) - [Is sunscreen the new margarine? (2019)](https://www.outsideonline.com/health/wellness/sunscreen-sun-exposure-skin-cancer-science/)
 * [2026-06-28, 21:42:39](https://news.ycombinator.com/item?id=48711981) - [30-year sentence for transporting zines is a five-alarm fire for free speech](https://theintercept.com/2026/06/26/daniel-sanchez-estrada-zines-prairieland-free-speech/)
@@ -29,7 +30,6 @@
 * [2026-06-26, 16:16:16](https://news.ycombinator.com/item?id=48688382) - [Venetian Bridge Brawls in 17th and 18th Century Art](https://publicdomainreview.org/collection/venice-bridge-fights/)
 * [2026-06-26, 07:29:17](https://news.ycombinator.com/item?id=48683475) - [Wallace the 6 inch f/2.8 telescope, building it, and hiking with it](https://lucassifoni.info/blog/hiking-with-wallace/)
 * [2026-06-25, 16:19:19](https://news.ycombinator.com/item?id=48675653) - [Dark Sky Lighting](https://www.savingourstars.org/darkskylighting#whatisdarkskylighting)
-* [2026-06-25, 15:28:24](https://news.ycombinator.com/item?id=48674875) - [Halvar's Guide to Entrepreneurship](https://thomasdullien.github.io/guides/entrepreneurship/)
 
 ## [Archives](archives/index.md)
 
