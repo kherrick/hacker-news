@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-06-30, 01:30:40",
-      "https://news.ycombinator.com/item?id=48727538"
+      "2026-06-30, 04:18:25",
+      "https://news.ycombinator.com/item?id=48728441"
     ],
     [
-      "Why Won't Europe Build AI Data Centers in Iceland?",
-      "https://mrkt30.com/why-wont-europe-build-ai-data-centers-in-iceland/"
+      "300k-Year-Old Cave Site Explored in Northern Israel",
+      "https://archaeology.org/news/2026/06/18/300000-year-old-cave-site-explored-in-northern-israel/"
     ]
   ],
   [
@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2026-06-29, 18:03:26",
-      "https://news.ycombinator.com/item?id=48722802"
-    ],
-    [
-      "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
-      "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models"
-    ]
-  ],
-  [
-    [
       "2026-06-29, 17:16:17",
       "https://news.ycombinator.com/item?id=48722052"
     ],
@@ -131,22 +121,22 @@
   ],
   [
     [
+      "2026-06-29, 15:01:39",
+      "https://news.ycombinator.com/item?id=48720186"
+    ],
+    [
+      "Linux for the Sega MegaDrive",
+      "https://github.com/LinuxMD/linuxmd"
+    ]
+  ],
+  [
+    [
       "2026-06-29, 14:53:41",
       "https://news.ycombinator.com/item?id=48720064"
     ],
     [
       "Working With AI: A concrete example",
       "https://htmx.org/essays/working-with-ai/"
-    ]
-  ],
-  [
-    [
-      "2026-06-29, 14:12:05",
-      "https://news.ycombinator.com/item?id=48719521"
-    ],
-    [
-      "What can you confidently guarantee about your software?",
-      "https://queue.acm.org/detail.cfm?id=3819084"
     ]
   ],
   [
@@ -171,16 +161,6 @@
   ],
   [
     [
-      "2026-06-29, 10:20:25",
-      "https://news.ycombinator.com/item?id=48717287"
-    ],
-    [
-      "Sandia National Labs SA3000 8085 CPU",
-      "https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/"
-    ]
-  ],
-  [
-    [
       "2026-06-28, 21:42:39",
       "https://news.ycombinator.com/item?id=48711981"
     ],
@@ -191,22 +171,12 @@
   ],
   [
     [
-      "2026-06-28, 17:58:04",
-      "https://news.ycombinator.com/item?id=48709744"
-    ],
-    [
-      "Ornith-1.0: Self-scaffolding LLMs for agentic coding",
-      "https://deep-reinforce.com/ornith_1_0.html"
-    ]
-  ],
-  [
-    [
       "2026-06-28, 11:22:49",
       "https://news.ycombinator.com/item?id=48706389"
     ],
     [
       "One million passports leaked online",
-      "https://cambridgeanalytica.org/data-breaches-scandals/passports-driver-licenses-exposed-public-internet-2026-51096/"
+      "https://www.theverge.com/tech/947157/passports-data-breach-cannabis-club-systems-nefos-puffpal"
     ]
   ],
   [
@@ -217,6 +187,16 @@
     [
       "Apple Neural Engine: Architecture, Programming, and Performance",
       "https://arxiv.org/abs/2606.22283"
+    ]
+  ],
+  [
+    [
+      "2026-06-27, 22:49:06",
+      "https://news.ycombinator.com/item?id=48702523"
+    ],
+    [
+      "Walter S. Arnold–Sculptor/Stone Carver",
+      "https://stonecarver.com/"
     ]
   ],
   [
@@ -241,6 +221,16 @@
   ],
   [
     [
+      "2026-06-27, 14:49:05",
+      "https://news.ycombinator.com/item?id=48698781"
+    ],
+    [
+      "Alan Kay on the meaning of \"object-oriented programming\" (2003)",
+      "https://notes.shixiangxi.com/en/docs/appendix/alan-kay-on-oop/"
+    ]
+  ],
+  [
+    [
       "2026-06-27, 14:20:16",
       "https://news.ycombinator.com/item?id=48698542"
     ],
@@ -261,12 +251,12 @@
   ],
   [
     [
-      "2026-06-26, 14:36:04",
-      "https://news.ycombinator.com/item?id=48687137"
+      "2026-06-26, 18:05:39",
+      "https://news.ycombinator.com/item?id=48689885"
     ],
     [
-      "SQLite improving performance with pre-sort",
-      "https://andersmurphy.com/2026/06/07/sqlite-improving-performance-with-pre-sort.html"
+      "How to corrupt an SQLite database file",
+      "https://www.sqlite.org/howtocorrupt.html"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Wallace the 6 inch f/2.8 telescope, building it, and hiking with it",
       "https://lucassifoni.info/blog/hiking-with-wallace/"
+    ]
+  ],
+  [
+    [
+      "2026-06-25, 22:03:14",
+      "https://news.ycombinator.com/item?id=48679809"
+    ],
+    [
+      "Zig – SPIR-V Backend Progress",
+      "https://ziglang.org/devlog/2026/#2026-06-26"
     ]
   ],
   [
