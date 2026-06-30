@@ -24,6 +24,7 @@
 * [2026-06-28, 18:31:54](https://news.ycombinator.com/item?id=48710082) - [The Cost Yagni Was Never About – By Kent Beck](https://newsletter.kentbeck.com/p/the-cost-yagni-was-never-about)
 * [2026-06-28, 17:58:04](https://news.ycombinator.com/item?id=48709744) - [Ornith-1.0: Self-scaffolding LLMs for agentic coding](https://deep-reinforce.com/ornith_1_0.html)
 * [2026-06-28, 17:50:47](https://news.ycombinator.com/item?id=48709670) - [Semgrep: GLM 5.2 beats Claude in our Cyber Benchmarks](https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/)
+* [2026-06-28, 17:49:50](https://news.ycombinator.com/item?id=48709662) - [Who are the fire-tamers?](https://aeon.co/essays/who-are-the-fire-taming-healers-of-modern-france)
 * [2026-06-28, 16:58:59](https://news.ycombinator.com/item?id=48709187) - [Working around dragons with the Lemote Yeeloong laptop and OpenBSD](http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html)
 * [2026-06-28, 16:58:56](https://news.ycombinator.com/item?id=48709186) - [Show HN: DRM-Free Books](https://frequal.com/Perspectives/DrmFreeAuthors.html)
 * [2026-06-28, 16:41:12](https://news.ycombinator.com/item?id=48708991) - [Professor denounces mass AI fraud on an exam at Brown](https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html)

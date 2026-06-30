@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-30](index.md)
 
+* [2026-06-30, 12:47:51](https://news.ycombinator.com/item?id=48731989) - [Memoirs of Extraordinary Popular Delusions and the Madness of Crowds](https://www.gutenberg.org/ebooks/24518)
 * [2026-06-30, 11:03:30](https://news.ycombinator.com/item?id=48730922) - [Should every baby's DNA be sequenced?](https://www.economist.com/science-and-technology/2026/06/29/should-every-babys-dna-be-sequenced)
 * [2026-06-30, 11:02:10](https://news.ycombinator.com/item?id=48730904) - [Sony erases digital content from libraries; reminded we don't own what we buy](https://arstechnica.com/gadgets/2026/06/sony-erases-digital-content-from-libraries-were-reminded-we-dont-own-what-we-buy/)
 * [2026-06-30, 10:48:23](https://news.ycombinator.com/item?id=48730818) - [Parse, Don't Validate – In a Language That Doesn't Want You To](https://cekrem.github.io/posts/parse-dont-validate-typescript/)
