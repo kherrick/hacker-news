@@ -55,6 +55,7 @@
 * [2026-06-24, 13:14:39](https://news.ycombinator.com/item?id=48659257) - [OpenAI and Broadcom unveil LLM-optimized inference chip](https://openai.com/index/openai-broadcom-jalapeno-inference-chip/)
 * [2026-06-24, 13:08:52](https://news.ycombinator.com/item?id=48659165) - [Stealing Is a Skill](https://ben-mini.com/2026/stealing-is-a-skill)
 * [2026-06-24, 12:57:31](https://news.ycombinator.com/item?id=48659040) - [Systems optimization should be part of CI/CD](https://ucbskyadrs.github.io/blog/levi/)
+* [2026-06-24, 12:53:01](https://news.ycombinator.com/item?id=48658991) - [Philae's extraordinary comet landing relived (2024)](https://www.esa.int/Science_Exploration/Space_Science/Rosetta/Philae_s_extraordinary_comet_landing_relived)
 * [2026-06-24, 12:51:21](https://news.ycombinator.com/item?id=48658960) - [Experimenting with Random() in CSS](https://polypane.app/blog/experimenting-with-random-in-css/)
 * [2026-06-24, 12:31:43](https://news.ycombinator.com/item?id=48658718) - [Founding a company in Germany: €9600, 152 days and I still can't send an invoice](https://paolino.me/founding-a-company-in-germany/)
 * [2026-06-24, 12:23:59](https://news.ycombinator.com/item?id=48658647) - [Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'](https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/)
