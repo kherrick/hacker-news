@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-06-30, 04:18:25",
-      "https://news.ycombinator.com/item?id=48728441"
+      "2026-06-30, 05:14:35",
+      "https://news.ycombinator.com/item?id=48728729"
     ],
     [
-      "300k-Year-Old Cave Site Explored in Northern Israel",
-      "https://archaeology.org/news/2026/06/18/300000-year-old-cave-site-explored-in-northern-israel/"
+      "Popping the GPU Bubble",
+      "https://moondream.ai/blog/popping-the-gpu-bubble"
+    ]
+  ],
+  [
+    [
+      "2026-06-30, 03:47:51",
+      "https://news.ycombinator.com/item?id=48728294"
+    ],
+    [
+      "Study suggests most Americans would be healthier without daylight saving time",
+      "https://med.stanford.edu/news/all-news/2025/09/daylight-saving-time.html"
     ]
   ],
   [
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=48727177"
     ],
     [
-      "Memory Safe Context Switching (longjmp, setjmp) in Fil-C",
+      "Memory Safe Context Switching",
       "https://fil-c.org/context_switches"
     ]
   ],
@@ -47,16 +57,6 @@
     [
       "South Korea to spend $1T on more memory chip production and humanoid robots",
       "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/"
-    ]
-  ],
-  [
-    [
-      "2026-06-29, 22:18:26",
-      "https://news.ycombinator.com/item?id=48726073"
-    ],
-    [
-      "Scientists find molecular-level evidence for two structures in liquid water",
-      "https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html"
     ]
   ],
   [
@@ -221,26 +221,6 @@
   ],
   [
     [
-      "2026-06-27, 14:49:05",
-      "https://news.ycombinator.com/item?id=48698781"
-    ],
-    [
-      "Alan Kay on the meaning of \"object-oriented programming\" (2003)",
-      "https://notes.shixiangxi.com/en/docs/appendix/alan-kay-on-oop/"
-    ]
-  ],
-  [
-    [
-      "2026-06-27, 14:20:16",
-      "https://news.ycombinator.com/item?id=48698542"
-    ],
-    [
-      "Netflix Simplified Batch Compute with Kueue",
-      "https://netflixtechblog.com/how-netflix-simplified-batch-compute-with-kueue-87860682629c"
-    ]
-  ],
-  [
-    [
       "2026-06-27, 12:16:27",
       "https://news.ycombinator.com/item?id=48697599"
     ],
@@ -267,6 +247,26 @@
     [
       "Wallace the 6 inch f/2.8 telescope, building it, and hiking with it",
       "https://lucassifoni.info/blog/hiking-with-wallace/"
+    ]
+  ],
+  [
+    [
+      "2026-06-26, 06:35:17",
+      "https://news.ycombinator.com/item?id=48683098"
+    ],
+    [
+      "Open Source Low Tech",
+      "https://opensourcelowtech.org/"
+    ]
+  ],
+  [
+    [
+      "2026-06-26, 06:02:11",
+      "https://news.ycombinator.com/item?id=48682874"
+    ],
+    [
+      "A Fake Shell for Pangenomics",
+      "https://www.cs.cornell.edu/~asampson/blog/flash.html"
     ]
   ],
   [
