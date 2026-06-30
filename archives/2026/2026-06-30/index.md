@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-06-30](index.md)
 
+* [2026-06-30, 05:17:02](https://news.ycombinator.com/item?id=48728740) - [US Supreme Court Just Blew Up EU-US Data Transfers](https://noyb.eu/en/us-supreme-court-just-blew-eu-us-data-transfers)
 * [2026-06-30, 05:14:35](https://news.ycombinator.com/item?id=48728729) - [Popping the GPU Bubble](https://moondream.ai/blog/popping-the-gpu-bubble)
+* [2026-06-30, 04:51:12](https://news.ycombinator.com/item?id=48728599) - [The end of the AArch64 desktop experiment](https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/)
 * [2026-06-30, 04:18:25](https://news.ycombinator.com/item?id=48728441) - [300k-Year-Old Cave Site Explored in Northern Israel](https://archaeology.org/news/2026/06/18/300000-year-old-cave-site-explored-in-northern-israel/)
 * [2026-06-30, 03:47:51](https://news.ycombinator.com/item?id=48728294) - [Study suggests most Americans would be healthier without daylight saving time](https://med.stanford.edu/news/all-news/2025/09/daylight-saving-time.html)
 * [2026-06-30, 01:30:40](https://news.ycombinator.com/item?id=48727538) - [Why Won't Europe Build AI Data Centers in Iceland?](https://mrkt30.com/why-wont-europe-build-ai-data-centers-in-iceland/)
