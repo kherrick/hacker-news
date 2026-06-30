@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-06-30, 11:03:30",
+      "https://news.ycombinator.com/item?id=48730922"
+    ],
+    [
+      "Should every baby's DNA be sequenced?",
+      "https://www.economist.com/science-and-technology/2026/06/29/should-every-babys-dna-be-sequenced"
+    ]
+  ],
+  [
+    [
       "2026-06-30, 11:02:10",
       "https://news.ycombinator.com/item?id=48730904"
     ],
     [
       "Sony erases digital content from libraries; reminded we don't own what we buy",
       "https://arstechnica.com/gadgets/2026/06/sony-erases-digital-content-from-libraries-were-reminded-we-dont-own-what-we-buy/"
+    ]
+  ],
+  [
+    [
+      "2026-06-30, 10:48:23",
+      "https://news.ycombinator.com/item?id=48730818"
+    ],
+    [
+      "Parse, Don't Validate – In a Language That Doesn't Want You To",
+      "https://cekrem.github.io/posts/parse-dont-validate-typescript/"
     ]
   ],
   [
@@ -31,12 +51,12 @@
   ],
   [
     [
-      "2026-06-30, 10:16:21",
-      "https://news.ycombinator.com/item?id=48730614"
+      "2026-06-30, 10:15:15",
+      "https://news.ycombinator.com/item?id=48730608"
     ],
     [
-      "Lumo 2.0",
-      "https://proton.me/blog/lumo-2"
+      "The US ambassador had Belgian police stop our reporting",
+      "https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-police-stop-our-reporting"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2026-06-29, 15:02:00",
-      "https://news.ycombinator.com/item?id=48720190"
-    ],
-    [
-      "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
-      "https://humphri.es/blog/WATaBoy/"
-    ]
-  ],
-  [
-    [
       "2026-06-29, 15:01:39",
       "https://news.ycombinator.com/item?id=48720186"
     ],
@@ -157,16 +167,6 @@
     [
       "Rocketlab acquires Iridium",
       "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully"
-    ]
-  ],
-  [
-    [
-      "2026-06-29, 13:11:08",
-      "https://news.ycombinator.com/item?id=48718863"
-    ],
-    [
-      "What happens when you run a CUDA kernel?",
-      "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/"
     ]
   ],
   [
