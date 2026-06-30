@@ -10,6 +10,7 @@
 * [2026-06-25, 22:16:55](https://news.ycombinator.com/item?id=48679934) - [Military branches restore flu shot requirement after virus swept through base](https://arstechnica.com/health/2026/06/military-branches-restore-flu-shot-requirement-after-virus-swept-through-base/)
 * [2026-06-25, 22:12:33](https://news.ycombinator.com/item?id=48679904) - [The Return of Aspect Oriented Programming](https://thomaswc.com/blog/the_return_of_aop.html)
 * [2026-06-25, 22:03:14](https://news.ycombinator.com/item?id=48679809) - [Zig – SPIR-V Backend Progress](https://ziglang.org/devlog/2026/#2026-06-26)
+* [2026-06-25, 21:58:08](https://news.ycombinator.com/item?id=48679762) - [The operating cost starts after the demo](https://twoheads.net/the-promise-is-unattended-work/)
 * [2026-06-25, 21:44:55](https://news.ycombinator.com/item?id=48679608) - [The 'papers, please' era of the internet will decimate your privacy](https://expression.fire.org/p/the-papers-please-era-of-the-internet)
 * [2026-06-25, 21:22:59](https://news.ycombinator.com/item?id=48679385) - [Migrating from Proxmox to NixOS and Incus](https://www.nijho.lt/post/proxmox-to-nixos/)
 * [2026-06-25, 20:50:02](https://news.ycombinator.com/item?id=48679007) - [Un-0: Generating Images with Coupled Oscillators](https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/)

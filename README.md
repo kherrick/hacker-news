@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-06-30, 05:17:02](https://news.ycombinator.com/item?id=48728740) - [US Supreme Court Just Blew Up EU-US Data Transfers](https://noyb.eu/en/us-supreme-court-just-blew-eu-us-data-transfers)
 * [2026-06-30, 05:14:35](https://news.ycombinator.com/item?id=48728729) - [Popping the GPU Bubble](https://moondream.ai/blog/popping-the-gpu-bubble)
 * [2026-06-30, 04:51:12](https://news.ycombinator.com/item?id=48728599) - [The end of the AArch64 desktop experiment](https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/)
 * [2026-06-30, 00:56:42](https://news.ycombinator.com/item?id=48727323) - [Exploring PDP-1 Lisp (1960)](https://obsolescence.dev/pdp1-lisp-introduction.html)
@@ -29,6 +28,7 @@
 * [2026-06-26, 07:29:17](https://news.ycombinator.com/item?id=48683475) - [Wallace the 6 inch f/2.8 telescope, building it, and hiking with it](https://lucassifoni.info/blog/hiking-with-wallace/)
 * [2026-06-26, 06:35:17](https://news.ycombinator.com/item?id=48683098) - [Open Source Low Tech](https://opensourcelowtech.org/)
 * [2026-06-25, 22:03:14](https://news.ycombinator.com/item?id=48679809) - [Zig – SPIR-V Backend Progress](https://ziglang.org/devlog/2026/#2026-06-26)
+* [2026-06-25, 21:58:08](https://news.ycombinator.com/item?id=48679762) - [The operating cost starts after the demo](https://twoheads.net/the-promise-is-unattended-work/)
 * [2026-06-25, 16:19:19](https://news.ycombinator.com/item?id=48675653) - [Dark Sky Lighting](https://www.savingourstars.org/darkskylighting#whatisdarkskylighting)
 
 ## [Archives](archives/index.md)
