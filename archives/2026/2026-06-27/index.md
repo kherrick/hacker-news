@@ -30,6 +30,7 @@
 * [2026-06-27, 15:05:17](https://news.ycombinator.com/item?id=48698908) - [Free the Icons](https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/)
 * [2026-06-27, 14:49:05](https://news.ycombinator.com/item?id=48698781) - [Alan Kay on the meaning of \"object-oriented programming\" (2003)](https://notes.shixiangxi.com/en/docs/appendix/alan-kay-on-oop/)
 * [2026-06-27, 14:38:05](https://news.ycombinator.com/item?id=48698684) - [Zuckerberg's Increasingly Bizarre War on Whistleblowers](https://pluralistic.net/2026/06/27/zuckerstreisand-2/)
+* [2026-06-27, 14:34:50](https://news.ycombinator.com/item?id=48698648) - [Logical Physical Clocks and Consistent Snapshots in Globally Distributed DB [pdf]](https://cse.buffalo.edu/tech-reports/2014-04.pdf)
 * [2026-06-27, 14:31:00](https://news.ycombinator.com/item?id=48698617) - [Anonymous GitHub account mass-dropping undisclosed 0-days](https://github.com/bikini/exploitarium)
 * [2026-06-27, 14:23:40](https://news.ycombinator.com/item?id=48698559) - [Post-Mythos Cybersecurity: Keep calm and carry on](https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/)
 * [2026-06-27, 14:20:16](https://news.ycombinator.com/item?id=48698542) - [Netflix Simplified Batch Compute with Kueue](https://netflixtechblog.com/how-netflix-simplified-batch-compute-with-kueue-87860682629c)
