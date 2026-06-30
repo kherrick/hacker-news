@@ -1,11 +1,51 @@
 [
   [
     [
+      "2026-06-30, 14:16:57",
+      "https://news.ycombinator.com/item?id=48733062"
+    ],
+    [
+      "Words Are a Byproduct of Consciousness. For LLMs, It's Backwards",
+      "https://ranpara.net/posts/words-are-a-byproduct-of-consciousness/"
+    ]
+  ],
+  [
+    [
+      "2026-06-30, 14:15:29",
+      "https://news.ycombinator.com/item?id=48733043"
+    ],
+    [
+      "Have You Restarted Your Computer This Week?",
+      "https://taonaw.com/2026/06/27/have-you-restarted-your-computer.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-30, 14:14:29",
+      "https://news.ycombinator.com/item?id=48733031"
+    ],
+    [
+      "Looking Ahead to Postgres 19",
+      "https://www.snowflake.com/en/blog/engineering/postgresql-19-features-beta/"
+    ]
+  ],
+  [
+    [
+      "2026-06-30, 12:54:01",
+      "https://news.ycombinator.com/item?id=48732056"
+    ],
+    [
+      "Knoppix",
+      "https://www.knopper.net/knoppix/index-en.html"
+    ]
+  ],
+  [
+    [
       "2026-06-30, 12:47:51",
       "https://news.ycombinator.com/item?id=48731989"
     ],
     [
-      "Memoirs of Extraordinary Popular Delusions and the Madness of Crowds",
+      "Memoirs of Extraordinary Popular Delusions and the Madness of Crowds (1852)",
       "https://www.gutenberg.org/ebooks/24518"
     ]
   ],
@@ -57,16 +97,6 @@
     [
       "The US ambassador had Belgian police stop our reporting",
       "https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-police-stop-our-reporting"
-    ]
-  ],
-  [
-    [
-      "2026-06-30, 09:15:21",
-      "https://news.ycombinator.com/item?id=48730246"
-    ],
-    [
-      "Antares Achieves Criticality of Mark-0 Reactor",
-      "https://antaresindustries.com/updates/antares-achieves-criticality"
     ]
   ],
   [
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2026-06-29, 13:11:08",
-      "https://news.ycombinator.com/item?id=48718863"
-    ],
-    [
-      "What happens when you run a CUDA kernel?",
-      "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/"
-    ]
-  ],
-  [
-    [
       "2026-06-28, 17:49:50",
       "https://news.ycombinator.com/item?id=48709662"
     ],
@@ -197,16 +217,6 @@
     [
       "Building a custom octocopter from scratch with no prior hardware experience",
       "https://karolina.mgdubiel.com/drone/"
-    ]
-  ],
-  [
-    [
-      "2026-06-27, 23:30:14",
-      "https://news.ycombinator.com/item?id=48702825"
-    ],
-    [
-      "Apple Neural Engine: Architecture, Programming, and Performance",
-      "https://arxiv.org/abs/2606.22283"
     ]
   ],
   [
@@ -251,6 +261,16 @@
   ],
   [
     [
+      "2026-06-26, 18:00:49",
+      "https://news.ycombinator.com/item?id=48689820"
+    ],
+    [
+      "I'm building a Space Cadet Pinball Machine! [video]",
+      "https://www.youtube.com/watch?v=lHQ8c8i42VE"
+    ]
+  ],
+  [
+    [
       "2026-06-26, 06:35:17",
       "https://news.ycombinator.com/item?id=48683098"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2026-06-25, 22:03:14",
-      "https://news.ycombinator.com/item?id=48679809"
-    ],
-    [
-      "Zig – SPIR-V Backend Progress",
-      "https://ziglang.org/devlog/2026/#2026-06-26"
-    ]
-  ],
-  [
-    [
       "2026-06-25, 21:58:08",
       "https://news.ycombinator.com/item?id=48679762"
     ],
     [
       "The operating cost starts after the demo",
       "https://twoheads.net/the-promise-is-unattended-work/"
-    ]
-  ],
-  [
-    [
-      "2026-06-25, 16:19:19",
-      "https://news.ycombinator.com/item?id=48675653"
-    ],
-    [
-      "Dark Sky Lighting",
-      "https://www.savingourstars.org/darkskylighting#whatisdarkskylighting"
     ]
   ]
 ]
