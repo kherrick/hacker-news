@@ -45,6 +45,7 @@
 * [2026-06-24, 14:29:17](https://news.ycombinator.com/item?id=48660522) - [A human postmortem of the 1996 AOL outage](https://ngrok.com/blog/aol-was-down-1996)
 * [2026-06-24, 14:24:03](https://news.ycombinator.com/item?id=48660441) - [Paradise Revisited: What Darwin Saw in the Galápagos](https://www.theatlantic.com/magazine/2026/08/writers-way-galapagos-charles-darwin-travel/687480/)
 * [2026-06-24, 14:14:18](https://news.ycombinator.com/item?id=48660267) - [Show HN: Nub – A Bun-like all-in-one toolkit for Node.js](https://github.com/nubjs/nub)
+* [2026-06-24, 14:13:47](https://news.ycombinator.com/item?id=48660258) - [RF Hacking My Cloud-Controlled Ceiling Fan](https://samwilkinson.io/posts/2026-06-24-rf-hacking-dreo)
 * [2026-06-24, 14:10:11](https://news.ycombinator.com/item?id=48660178) - [45°C cooling design cuts data center water use to near zero](https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/)
 * [2026-06-24, 14:02:16](https://news.ycombinator.com/item?id=48660021) - [AI Is Designing Radio Chips That Humans Couldn't Even Imagine](https://spectrum.ieee.org/ai-radio-chip-design)
 * [2026-06-24, 13:57:56](https://news.ycombinator.com/item?id=48659937) - [Mark Zuckerberg wants Meta to launch its own prediction market](https://techcrunch.com/2026/06/23/mark-zuckerberg-wants-meta-to-launch-its-own-prediction-market/)

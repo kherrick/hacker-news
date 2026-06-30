@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-27](index.md)
 
+* [2026-06-27, 23:45:45](https://news.ycombinator.com/item?id=48702917) - [I built a 10 inch mini rack from aluminium extrusions](https://louwrentius.com/i-build-a-10-inch-mini-rack-from-aluminium-extrusions.html)
 * [2026-06-27, 23:32:58](https://news.ycombinator.com/item?id=48702848) - [WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups](https://clickhouse.com/blog/walrus-postgres-backups-in-rust)
 * [2026-06-27, 23:30:14](https://news.ycombinator.com/item?id=48702825) - [Apple Neural Engine: Architecture, Programming, and Performance](https://arxiv.org/abs/2606.22283)
 * [2026-06-27, 23:05:33](https://news.ycombinator.com/item?id=48702645) - [Codeberg Is Down](https://social.anoxinon.de/@codebergstatus/116824443563698727)
@@ -27,6 +28,7 @@
 * [2026-06-27, 17:00:15](https://news.ycombinator.com/item?id=48699842) - [Supabase (YC S20) Is Hiring for Multigres](https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228)
 * [2026-06-27, 16:51:09](https://news.ycombinator.com/item?id=48699778) - [Screen time can damage under-twos' development, landmark study suggests](https://www.theguardian.com/society/2026/jun/27/screen-time-damage-under-twos-development-study)
 * [2026-06-27, 16:31:58](https://news.ycombinator.com/item?id=48699617) - [Doctors suspected man had brain cancer. He had worms](https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/)
+* [2026-06-27, 15:18:03](https://news.ycombinator.com/item?id=48699010) - [A peek into Reddit's anti-spam internals](https://lyra.horse/blog/2026/06/reddit-spam-internals/)
 * [2026-06-27, 15:05:17](https://news.ycombinator.com/item?id=48698908) - [Free the Icons](https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/)
 * [2026-06-27, 14:49:05](https://news.ycombinator.com/item?id=48698781) - [Alan Kay on the meaning of \"object-oriented programming\" (2003)](https://notes.shixiangxi.com/en/docs/appendix/alan-kay-on-oop/)
 * [2026-06-27, 14:38:05](https://news.ycombinator.com/item?id=48698684) - [Zuckerberg's Increasingly Bizarre War on Whistleblowers](https://pluralistic.net/2026/06/27/zuckerstreisand-2/)
