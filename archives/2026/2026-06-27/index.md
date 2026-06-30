@@ -8,6 +8,7 @@
 * [2026-06-27, 23:30:14](https://news.ycombinator.com/item?id=48702825) - [Apple Neural Engine: Architecture, Programming, and Performance](https://arxiv.org/abs/2606.22283)
 * [2026-06-27, 23:05:33](https://news.ycombinator.com/item?id=48702645) - [Codeberg Is Down](https://social.anoxinon.de/@codebergstatus/116824443563698727)
 * [2026-06-27, 22:24:35](https://news.ycombinator.com/item?id=48702361) - [Set Up Your Own DoH Service](https://nochan.net/b/Internet-Crap/20260602-Set-Up-Your-Own-DoH-Service/)
+* [2026-06-27, 22:18:50](https://news.ycombinator.com/item?id=48702320) - [Old Computer Challenge](http://occ.sdf.org/)
 * [2026-06-27, 22:11:28](https://news.ycombinator.com/item?id=48702273) - [Choosing a Public DNS Resolver](https://evilbit.de/dns-resolver-guide.html)
 * [2026-06-27, 21:50:32](https://news.ycombinator.com/item?id=48702104) - [Show HN: Starglyphs - A constellation puzzle game based on Euler paths](https://starglyphs.com)
 * [2026-06-27, 21:44:57](https://news.ycombinator.com/item?id=48702060) - [Michigan spent $1.8B and only created 602 jobs](https://www.msn.com/en-us/money/general/michigan-spent-1-8-billion-and-only-created-602-jobs/ar-AA26Cusu)
