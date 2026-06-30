@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-06-30, 00:56:42",
+      "https://news.ycombinator.com/item?id=48727323"
+    ],
+    [
+      "Exploring PDP-1 Lisp (1960)",
+      "https://obsolescence.dev/pdp1-lisp-introduction.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-30, 00:38:19",
+      "https://news.ycombinator.com/item?id=48727177"
+    ],
+    [
+      "Memory Safe Context Switching (longjmp, setjmp) in Fil-C",
+      "https://fil-c.org/context_switches"
+    ]
+  ],
+  [
+    [
+      "2026-06-30, 00:30:11",
+      "https://news.ycombinator.com/item?id=48727116"
+    ],
+    [
+      "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
+      "https://longcat.chat/blog/longcat-2.0/"
+    ]
+  ],
+  [
+    [
+      "2026-06-30, 00:05:33",
+      "https://news.ycombinator.com/item?id=48726966"
+    ],
+    [
+      "Open Memory Protocol – One Memory Store for Claude, ChatGPT, Curso",
+      "https://github.com/SMJAI/open-memory-protocol"
+    ]
+  ],
+  [
+    [
       "2026-06-29, 22:21:00",
       "https://news.ycombinator.com/item?id=48726102"
     ],
@@ -151,42 +191,12 @@
   ],
   [
     [
-      "2026-06-29, 11:58:48",
-      "https://news.ycombinator.com/item?id=48718102"
-    ],
-    [
-      "Samsung, SK Hynix, Micron Sued in US over Memory Price Fixing",
-      "https://en.sedaily.com/international/2026/06/29/samsung-sk-hynix-micron-sued-in-us-over-memory-price-fixing"
-    ]
-  ],
-  [
-    [
-      "2026-06-29, 11:34:36",
-      "https://news.ycombinator.com/item?id=48717905"
-    ],
-    [
-      "Rebuilding the Computer Room",
-      "https://alexwlchan.net/2026/computer-room/"
-    ]
-  ],
-  [
-    [
       "2026-06-29, 10:20:25",
       "https://news.ycombinator.com/item?id=48717287"
     ],
     [
       "Sandia National Labs SA3000 8085 CPU",
       "https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/"
-    ]
-  ],
-  [
-    [
-      "2026-06-29, 05:05:35",
-      "https://news.ycombinator.com/item?id=48715020"
-    ],
-    [
-      "Is sunscreen the new margarine? (2019)",
-      "https://www.outsideonline.com/health/wellness/sunscreen-sun-exposure-skin-cancer-science/"
     ]
   ],
   [
@@ -241,32 +251,22 @@
   ],
   [
     [
+      "2026-06-27, 14:20:16",
+      "https://news.ycombinator.com/item?id=48698542"
+    ],
+    [
+      "Netflix Simplified Batch Compute with Kueue",
+      "https://netflixtechblog.com/how-netflix-simplified-batch-compute-with-kueue-87860682629c"
+    ]
+  ],
+  [
+    [
       "2026-06-27, 12:16:27",
       "https://news.ycombinator.com/item?id=48697599"
     ],
     [
       "Kb – Prolog Knowledge Base",
       "https://github.com/mat-mgm/kb-prolog"
-    ]
-  ],
-  [
-    [
-      "2026-06-26, 21:37:31",
-      "https://news.ycombinator.com/item?id=48692310"
-    ],
-    [
-      "Font-Family Recommendations",
-      "https://chrismorgan.info/font-family"
-    ]
-  ],
-  [
-    [
-      "2026-06-26, 16:16:16",
-      "https://news.ycombinator.com/item?id=48688382"
-    ],
-    [
-      "Venetian Bridge Brawls in 17th and 18th Century Art",
-      "https://publicdomainreview.org/collection/venice-bridge-fights/"
     ]
   ],
   [
