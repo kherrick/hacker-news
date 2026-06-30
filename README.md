@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-06-30, 18:33:59](https://news.ycombinator.com/item?id=48737226) - [Tell HN: Installing Cursor on iOS irreversibly changes your privacy settings](https://news.ycombinator.com/item?id=48737226)
+* [2026-06-30, 18:12:33](https://news.ycombinator.com/item?id=48736839) - [Amazon Seller Reveals Rare Glimpse of Shadow Bribery Market](https://www.bloomberg.com/news/articles/2026-06-24/inside-the-shadow-market-selling-access-to-amazon-employees)
 * [2026-06-30, 17:59:52](https://news.ycombinator.com/item?id=48736605) - [Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5)
 * [2026-06-30, 17:29:36](https://news.ycombinator.com/item?id=48736137) - [I built a mmWave material classification radar](https://gauthier-lechevalier.com/radar)
 * [2026-06-30, 17:07:41](https://news.ycombinator.com/item?id=48735770) - [Claude Science](https://claude.com/product/claude-science)
-* [2026-06-30, 17:05:58](https://news.ycombinator.com/item?id=48735748) - [Supreme Court takes sledgehammer to federal regulatory structure](https://www.npr.org/2026/06/29/nx-s1-5875161/supreme-court-takes-sledgehammer-to-much-of-federal-governments-regulatory-structure)
 * [2026-06-30, 16:59:00](https://news.ycombinator.com/item?id=48735633) - [We Are the Last People Who Know How It Works](https://unix.foo/posts/last-people-who-know-how-it-works/)
 * [2026-06-30, 16:54:41](https://news.ycombinator.com/item?id=48735554) - [Xsnow \"protestware\" in Debian](https://lwn.net/SubscriberLink/1079385/3d7a57da58b41aa9/)
 * [2026-06-30, 16:48:37](https://news.ycombinator.com/item?id=48735444) - [Nano Banana 2 Lite](https://deepmind.google/models/gemini-image/flash-lite/)
@@ -13,7 +13,6 @@
 * [2026-06-30, 15:44:24](https://news.ycombinator.com/item?id=48734373) - [Claude Code is steganographically marking requests](https://thereallo.dev/blog/claude-code-prompt-steganography)
 * [2026-06-30, 15:35:04](https://news.ycombinator.com/item?id=48734234) - [The labor share of income in the US is at its lowest post-war level](https://libertystreeteconomics.newyorkfed.org/2026/06/the-post-covid-decline-in-the-labor-share/)
 * [2026-06-30, 15:17:14](https://news.ycombinator.com/item?id=48733937) - [We moved our Bluesky data to Eurosky](https://waag.org/en/article/why-we-moved-our-bluesky-data-eurosky/)
-* [2026-06-30, 14:15:29](https://news.ycombinator.com/item?id=48733043) - [Have You Restarted Your Computer This Week?](https://taonaw.com/2026/06/27/have-you-restarted-your-computer.html)
 * [2026-06-30, 14:14:29](https://news.ycombinator.com/item?id=48733031) - [Looking Ahead to Postgres 19](https://www.snowflake.com/en/blog/engineering/postgresql-19-features-beta/)
 * [2026-06-30, 12:54:01](https://news.ycombinator.com/item?id=48732056) - [Knoppix](https://www.knopper.net/knoppix/index-en.html)
 * [2026-06-30, 12:47:51](https://news.ycombinator.com/item?id=48731989) - [Memoirs of Extraordinary Popular Delusions and the Madness of Crowds (1852)](https://www.gutenberg.org/ebooks/24518)
@@ -29,6 +28,7 @@
 * [2026-06-27, 05:42:27](https://news.ycombinator.com/item?id=48695502) - [Mathematics: Its Content, Methods and Meaning](https://old.maa.org/press/maa-reviews/mathematics-its-content-methods-and-meaning)
 * [2026-06-26, 21:40:05](https://news.ycombinator.com/item?id=48692330) - [Don't Make Gates Optional, Make Them Flexible](https://wakamoleguy.com/p/flexible-gates)
 * [2026-06-26, 18:00:49](https://news.ycombinator.com/item?id=48689820) - [I'm building a Space Cadet Pinball Machine! [video]](https://www.youtube.com/watch?v=lHQ8c8i42VE)
+* [2026-06-26, 15:15:33](https://news.ycombinator.com/item?id=48687640) - [Matrix URIs, a URL syntax from Tim Berners-Lee that never shipped (1996)](https://www.w3.org/DesignIssues/MatrixURIs.html)
 * [2026-06-26, 06:35:17](https://news.ycombinator.com/item?id=48683098) - [Open Source Low Tech](https://opensourcelowtech.org/)
 
 ## [Archives](archives/index.md)

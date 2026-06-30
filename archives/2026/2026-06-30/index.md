@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-06-30](index.md)
 
 * [2026-06-30, 18:33:59](https://news.ycombinator.com/item?id=48737226) - [Tell HN: Installing Cursor on iOS irreversibly changes your privacy settings](https://news.ycombinator.com/item?id=48737226)
+* [2026-06-30, 18:12:33](https://news.ycombinator.com/item?id=48736839) - [Amazon Seller Reveals Rare Glimpse of Shadow Bribery Market](https://www.bloomberg.com/news/articles/2026-06-24/inside-the-shadow-market-selling-access-to-amazon-employees)
 * [2026-06-30, 17:59:52](https://news.ycombinator.com/item?id=48736605) - [Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5)
 * [2026-06-30, 17:29:36](https://news.ycombinator.com/item?id=48736137) - [I built a mmWave material classification radar](https://gauthier-lechevalier.com/radar)
 * [2026-06-30, 17:07:41](https://news.ycombinator.com/item?id=48735770) - [Claude Science](https://claude.com/product/claude-science)
