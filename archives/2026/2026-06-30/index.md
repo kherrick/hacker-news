@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-30](index.md)
 
+* [2026-06-30, 22:34:23](https://news.ycombinator.com/item?id=48740135) - [Hatari – Online Atari ST/STE/TT/Falcon Emulator](https://hatari.frama.io/hatari/online/hatari.html)
 * [2026-06-30, 22:08:38](https://news.ycombinator.com/item?id=48739919) - [TabFM: A zero-shot foundation model for tabular data](https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/)
 * [2026-06-30, 21:58:49](https://news.ycombinator.com/item?id=48739792) - [Ask HN: Since when does Craigslist's front page have emojis?](https://news.ycombinator.com/item?id=48739792)
 * [2026-06-30, 21:29:15](https://news.ycombinator.com/item?id=48739467) - [Understanding lattice risks: Many differences between marketing and reality](https://blog.cr.yp.to/20260630-risk.html)
