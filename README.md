@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-06-30, 15:17:14](https://news.ycombinator.com/item?id=48733937) - [We moved our Bluesky data to Eurosky](https://waag.org/en/article/why-we-moved-our-bluesky-data-eurosky/)
 * [2026-06-30, 14:16:57](https://news.ycombinator.com/item?id=48733062) - [Words Are a Byproduct of Consciousness. For LLMs, It's Backwards](https://ranpara.net/posts/words-are-a-byproduct-of-consciousness/)
-* [2026-06-30, 14:15:29](https://news.ycombinator.com/item?id=48733043) - [Have You Restarted Your Computer This Week?](https://taonaw.com/2026/06/27/have-you-restarted-your-computer.html)
 * [2026-06-30, 14:14:29](https://news.ycombinator.com/item?id=48733031) - [Looking Ahead to Postgres 19](https://www.snowflake.com/en/blog/engineering/postgresql-19-features-beta/)
 * [2026-06-30, 12:54:01](https://news.ycombinator.com/item?id=48732056) - [Knoppix](https://www.knopper.net/knoppix/index-en.html)
 * [2026-06-30, 12:47:51](https://news.ycombinator.com/item?id=48731989) - [Memoirs of Extraordinary Popular Delusions and the Madness of Crowds (1852)](https://www.gutenberg.org/ebooks/24518)
@@ -25,11 +25,11 @@
 * [2026-06-27, 22:18:50](https://news.ycombinator.com/item?id=48702320) - [Old Computer Challenge](http://occ.sdf.org/)
 * [2026-06-27, 15:05:17](https://news.ycombinator.com/item?id=48698908) - [Free the Icons](https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/)
 * [2026-06-27, 06:00:38](https://news.ycombinator.com/item?id=48695585) - [All Logic, No Bite](https://lcamtuf.substack.com/p/all-logic-no-bite)
+* [2026-06-27, 05:42:27](https://news.ycombinator.com/item?id=48695502) - [Mathematics: Its Content, Methods and Meaning](https://old.maa.org/press/maa-reviews/mathematics-its-content-methods-and-meaning)
 * [2026-06-26, 18:05:39](https://news.ycombinator.com/item?id=48689885) - [How to corrupt an SQLite database file](https://www.sqlite.org/howtocorrupt.html)
 * [2026-06-26, 18:00:49](https://news.ycombinator.com/item?id=48689820) - [I'm building a Space Cadet Pinball Machine! [video]](https://www.youtube.com/watch?v=lHQ8c8i42VE)
 * [2026-06-26, 06:35:17](https://news.ycombinator.com/item?id=48683098) - [Open Source Low Tech](https://opensourcelowtech.org/)
 * [2026-06-26, 01:57:37](https://news.ycombinator.com/item?id=48681499) - [Why problem statements aren't enough](https://letters.unchartedpathbreakthroughs.com/posts/why-problem-statements-arent-enough)
-* [2026-06-25, 21:58:08](https://news.ycombinator.com/item?id=48679762) - [The operating cost starts after the demo](https://twoheads.net/the-promise-is-unattended-work/)
 
 ## [Archives](archives/index.md)
 

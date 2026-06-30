@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-30](index.md)
 
+* [2026-06-30, 15:17:14](https://news.ycombinator.com/item?id=48733937) - [We moved our Bluesky data to Eurosky](https://waag.org/en/article/why-we-moved-our-bluesky-data-eurosky/)
 * [2026-06-30, 14:16:57](https://news.ycombinator.com/item?id=48733062) - [Words Are a Byproduct of Consciousness. For LLMs, It's Backwards](https://ranpara.net/posts/words-are-a-byproduct-of-consciousness/)
 * [2026-06-30, 14:15:29](https://news.ycombinator.com/item?id=48733043) - [Have You Restarted Your Computer This Week?](https://taonaw.com/2026/06/27/have-you-restarted-your-computer.html)
 * [2026-06-30, 14:14:29](https://news.ycombinator.com/item?id=48733031) - [Looking Ahead to Postgres 19](https://www.snowflake.com/en/blog/engineering/postgresql-19-features-beta/)
