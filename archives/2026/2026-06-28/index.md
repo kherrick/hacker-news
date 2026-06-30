@@ -15,6 +15,7 @@
 * [2026-06-28, 19:43:10](https://news.ycombinator.com/item?id=48710827) - [Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs](https://github.com/kamaludu/bash4llm/)
 * [2026-06-28, 19:38:14](https://news.ycombinator.com/item?id=48710778) - [Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch](https://github.com/JustVugg/nanoeuler)
 * [2026-06-28, 19:38:00](https://news.ycombinator.com/item?id=48710775) - [TOP500 at ISC'26: We Have a New Number 1 – By George Cozma](https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number)
+* [2026-06-28, 19:37:45](https://news.ycombinator.com/item?id=48710770) - [Ante: A new way to blend borrow checking and reference counting](https://verdagon.dev/blog/ante-blending-borrowing-rc)
 * [2026-06-28, 19:35:57](https://news.ycombinator.com/item?id=48710749) - [Ford rehires 'gray beard' engineers after AI falls short](https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/)
 * [2026-06-28, 19:07:49](https://news.ycombinator.com/item?id=48710437) - [The US Used to Demand the Best Tech. Now We Ban It](https://www.pcmag.com/opinions/the-us-used-to-demand-the-best-tech-now-we-ban-it)
 * [2026-06-28, 19:06:07](https://news.ycombinator.com/item?id=48710414) - [Do LLMs pass the mirror test?](https://blog.pascalschuster.de/article/do-llms-pass-the-mirror-test)

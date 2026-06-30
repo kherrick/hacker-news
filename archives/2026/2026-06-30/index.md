@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-06-30](index.md)
 
+* [2026-06-30, 22:08:38](https://news.ycombinator.com/item?id=48739919) - [TabFM: A zero-shot foundation model for tabular data](https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/)
+* [2026-06-30, 21:58:49](https://news.ycombinator.com/item?id=48739792) - [Ask HN: Since when does Craigslist's front page have emojis?](https://news.ycombinator.com/item?id=48739792)
+* [2026-06-30, 21:29:15](https://news.ycombinator.com/item?id=48739467) - [Understanding lattice risks: Many differences between marketing and reality](https://blog.cr.yp.to/20260630-risk.html)
 * [2026-06-30, 21:29:13](https://news.ycombinator.com/item?id=48739466) - [Meta's brain-scanning system reads sentences non-invasively, code open source](https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1)
 * [2026-06-30, 20:48:36](https://news.ycombinator.com/item?id=48738985) - [I ported Kubernetes to the browser](https://ngrok.com/blog/i-ported-kubernetes-to-the-browser)
+* [2026-06-30, 20:44:56](https://news.ycombinator.com/item?id=48738938) - [Leanstral 1.5](https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06)
 * [2026-06-30, 20:17:21](https://news.ycombinator.com/item?id=48738606) - [Something Is Wrong with Modern Longevity Science](https://www.newyorker.com/magazine/2026/07/06/morbid-saul-justin-newman-book-review-eat-your-ice-cream-ezekiel-j-emanuel)
 * [2026-06-30, 20:09:25](https://news.ycombinator.com/item?id=48738528) - [Claude Sonnet 5 – benchmark results](https://artificialanalysis.ai/models/claude-sonnet-5)
 * [2026-06-30, 19:59:09](https://news.ycombinator.com/item?id=48738413) - [The best thing that's ever happened for multiplayer games?](https://mas-bandwidth.com/the-best-thing-thats-ever-happened-for-multiplayer-games/)
