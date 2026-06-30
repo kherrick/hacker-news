@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-06-30, 11:03:30",
-      "https://news.ycombinator.com/item?id=48730922"
-    ],
-    [
-      "Should every baby's DNA be sequenced?",
-      "https://www.economist.com/science-and-technology/2026/06/29/should-every-babys-dna-be-sequenced"
-    ]
-  ],
-  [
-    [
       "2026-06-30, 11:02:10",
       "https://news.ycombinator.com/item?id=48730904"
     ],
@@ -41,11 +31,21 @@
   ],
   [
     [
+      "2026-06-30, 10:34:25",
+      "https://news.ycombinator.com/item?id=48730713"
+    ],
+    [
+      "Zluda 6 release (run unmodified CUDA applications on non-Nvidia GPUs)",
+      "https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/"
+    ]
+  ],
+  [
+    [
       "2026-06-30, 10:31:02",
       "https://news.ycombinator.com/item?id=48730694"
     ],
     [
-      "Exercise intensity influences body composition in healthy older adults",
+      "Exercise intensity influences body composition in healthy older adults (2025)",
       "https://www.maturitas.org/article/S0378-5122(25)00571-7/fulltext"
     ]
   ],
@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2026-06-29, 15:42:17",
-      "https://news.ycombinator.com/item?id=48720758"
-    ],
-    [
-      "A native graphical shell for SSH",
-      "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html"
-    ]
-  ],
-  [
-    [
       "2026-06-29, 15:01:39",
       "https://news.ycombinator.com/item?id=48720186"
     ],
@@ -167,6 +157,16 @@
     [
       "Rocketlab acquires Iridium",
       "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully"
+    ]
+  ],
+  [
+    [
+      "2026-06-29, 13:11:08",
+      "https://news.ycombinator.com/item?id=48718863"
+    ],
+    [
+      "What happens when you run a CUDA kernel?",
+      "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/"
     ]
   ],
   [
@@ -231,12 +231,12 @@
   ],
   [
     [
-      "2026-06-27, 14:49:05",
-      "https://news.ycombinator.com/item?id=48698781"
+      "2026-06-27, 06:00:38",
+      "https://news.ycombinator.com/item?id=48695585"
     ],
     [
-      "Alan Kay on the meaning of \"object-oriented programming\" (2003)",
-      "https://notes.shixiangxi.com/en/docs/appendix/alan-kay-on-oop/"
+      "All Logic, No Bite",
+      "https://lcamtuf.substack.com/p/all-logic-no-bite"
     ]
   ],
   [
