@@ -8,6 +8,7 @@
 * [2026-06-24, 22:39:37](https://news.ycombinator.com/item?id=48666433) - [PostgreSQL Is Enough](https://gist.github.com/cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb)
 * [2026-06-24, 21:57:30](https://news.ycombinator.com/item?id=48666100) - [Elastic lays off 7% of employees](https://www.elastic.co/blog/ceo-ash-kulkarni-announcement-to-elastic-employees)
 * [2026-06-24, 21:45:00](https://news.ycombinator.com/item?id=48665988) - [The Forgotten Castles of the Garamantes](https://www.wildmanlife.com/the-forgotten-castles-of-the-garamantes/)
+* [2026-06-24, 21:41:29](https://news.ycombinator.com/item?id=48665958) - [Long Island's decommissioned nuclear power plant](https://nickcarr.com/scouting-a-decommissioned-nuclear-power-plant/)
 * [2026-06-24, 21:09:07](https://news.ycombinator.com/item?id=48665671) - [Jest/Vitest interactive course (runs in the browser)](https://howtotestfrontend.com/courses/jest-vitest-fundamentals)
 * [2026-06-24, 20:20:33](https://news.ycombinator.com/item?id=48665130) - [Zero-Downtime Deployments with Docker Compose – No Kubernetes Required](https://statusdude.com/blog/zero-downtime-docker-compose)
 * [2026-06-24, 20:19:52](https://news.ycombinator.com/item?id=48665125) - [How H-E-B Became Texas' Most Beloved Brand (2024)](https://texashighways.com/culture/how-heb-became-texas-most-beloved-brand/)

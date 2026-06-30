@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-30](index.md)
 
+* [2026-06-30, 21:29:13](https://news.ycombinator.com/item?id=48739466) - [Meta's brain-scanning system reads sentences non-invasively, code open source](https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1)
 * [2026-06-30, 20:48:36](https://news.ycombinator.com/item?id=48738985) - [I ported Kubernetes to the browser](https://ngrok.com/blog/i-ported-kubernetes-to-the-browser)
 * [2026-06-30, 20:17:21](https://news.ycombinator.com/item?id=48738606) - [Something Is Wrong with Modern Longevity Science](https://www.newyorker.com/magazine/2026/07/06/morbid-saul-justin-newman-book-review-eat-your-ice-cream-ezekiel-j-emanuel)
 * [2026-06-30, 20:09:25](https://news.ycombinator.com/item?id=48738528) - [Claude Sonnet 5 – benchmark results](https://artificialanalysis.ai/models/claude-sonnet-5)
@@ -11,6 +12,7 @@
 * [2026-06-30, 19:47:24](https://news.ycombinator.com/item?id=48738262) - [Tokyo has only two barley tea makers, we visited one to see how mugicha is made](https://soranews24.com/2026/06/30/tokyo-has-only-two-barley-tea-makers-and-we-visited-one-to-see-how-mugicha-is-made/)
 * [2026-06-30, 18:38:26](https://news.ycombinator.com/item?id=48737302) - [Show HN: I made a heatmap of 3400 VCs who are open to cold emails](https://apparent.social/heat-map)
 * [2026-06-30, 18:33:59](https://news.ycombinator.com/item?id=48737226) - [Tell HN: Installing Cursor on iOS irreversibly changes your privacy settings](https://news.ycombinator.com/item?id=48737226)
+* [2026-06-30, 18:12:33](https://news.ycombinator.com/item?id=48736839) - [Amazon seller reveals glimpse of shadow bribery market](https://www.latimes.com/business/story/2026-06-30/shadow-bribery-market-inside-amazon-preys-on-desperate-sellers)
 * [2026-06-30, 18:12:33](https://news.ycombinator.com/item?id=48736839) - [Amazon Seller Reveals Rare Glimpse of Shadow Bribery Market](https://www.bloomberg.com/news/articles/2026-06-24/inside-the-shadow-market-selling-access-to-amazon-employees)
 * [2026-06-30, 17:59:52](https://news.ycombinator.com/item?id=48736605) - [Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5)
 * [2026-06-30, 17:29:36](https://news.ycombinator.com/item?id=48736137) - [I built a mmWave material classification radar](https://gauthier-lechevalier.com/radar)
@@ -18,6 +20,7 @@
 * [2026-06-30, 17:05:58](https://news.ycombinator.com/item?id=48735748) - [Supreme Court takes sledgehammer to federal regulatory structure](https://www.npr.org/2026/06/29/nx-s1-5875161/supreme-court-takes-sledgehammer-to-much-of-federal-governments-regulatory-structure)
 * [2026-06-30, 16:59:00](https://news.ycombinator.com/item?id=48735633) - [We Are the Last People Who Know How It Works](https://unix.foo/posts/last-people-who-know-how-it-works/)
 * [2026-06-30, 16:54:41](https://news.ycombinator.com/item?id=48735554) - [Xsnow \"protestware\" in Debian](https://lwn.net/SubscriberLink/1079385/3d7a57da58b41aa9/)
+* [2026-06-30, 16:48:47](https://news.ycombinator.com/item?id=48735446) - [Show HN: My 13-year-old built an ant colony tracker](https://formicarium.es)
 * [2026-06-30, 16:48:37](https://news.ycombinator.com/item?id=48735444) - [Nano Banana 2 Lite](https://deepmind.google/models/gemini-image/flash-lite/)
 * [2026-06-30, 16:44:31](https://news.ycombinator.com/item?id=48735376) - [Crypto firms have spent $189M so far on 2026 US election, report says](https://www.reuters.com/world/crypto-firms-have-spent-189-million-so-far-2026-us-election-report-says-2026-06-30/)
 * [2026-06-30, 16:19:51](https://news.ycombinator.com/item?id=48734940) - [EU commissioners shut down air conditioning for employees, leave theirs on](https://www.politico.eu/article/eu-commission-heatwave-hq-forced-shut-down-air-conditioning-europe/)
