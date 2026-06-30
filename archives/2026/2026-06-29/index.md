@@ -20,6 +20,7 @@
 * [2026-06-29, 15:42:17](https://news.ycombinator.com/item?id=48720758) - [A native graphical shell for SSH](https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html)
 * [2026-06-29, 15:30:37](https://news.ycombinator.com/item?id=48720591) - [Microsoft Needs Windows Lite](https://philipbohun.com/blog/0011.html)
 * [2026-06-29, 15:02:00](https://news.ycombinator.com/item?id=48720190) - [WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter](https://humphri.es/blog/WATaBoy/)
+* [2026-06-29, 15:01:39](https://news.ycombinator.com/item?id=48720186) - [Linux for the Sega MegaDrive](https://github.com/LinuxMD/linuxmd)
 * [2026-06-29, 15:01:15](https://news.ycombinator.com/item?id=48720179) - [WebGL Without a GPU](https://microlink.io/blog/webgl-without-a-gpu)
 * [2026-06-29, 14:53:41](https://news.ycombinator.com/item?id=48720064) - [Working With AI: A concrete example](https://htmx.org/essays/working-with-ai/)
 * [2026-06-29, 14:27:35](https://news.ycombinator.com/item?id=48719712) - [Data breach exposes up to 14.2M email logins at six ISPs](https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/)

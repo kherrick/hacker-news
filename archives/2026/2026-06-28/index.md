@@ -55,6 +55,7 @@
 * [2026-06-28, 12:23:25](https://news.ycombinator.com/item?id=48706690) - [Guy in his basement creates a drug to treat Alzheimer's disease using AI](https://twitter.com/DouglasYaoDY/status/2070904914050797582)
 * [2026-06-28, 11:56:16](https://news.ycombinator.com/item?id=48706560) - [Kids Act Would Require Age Checks to Get Online](https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online)
 * [2026-06-28, 11:55:08](https://news.ycombinator.com/item?id=48706554) - [More evidence of life on Mars but still no life](https://www.cbc.ca/radio/quirks/more-evidence-of-life-on-mars-but-still-no-life-1.7649645)
+* [2026-06-28, 11:22:49](https://news.ycombinator.com/item?id=48706389) - [One million passports leaked online](https://www.theverge.com/tech/947157/passports-data-breach-cannabis-club-systems-nefos-puffpal)
 * [2026-06-28, 11:22:49](https://news.ycombinator.com/item?id=48706389) - [One million passports leaked online](https://cambridgeanalytica.org/data-breaches-scandals/passports-driver-licenses-exposed-public-internet-2026-51096/)
 * [2026-06-28, 09:53:58](https://news.ycombinator.com/item?id=48705910) - [DLL that was not present in memory despite not being formally unloaded](https://devblogs.microsoft.com/oldnewthing/20260625-00/?p=112467)
 * [2026-06-28, 09:45:58](https://news.ycombinator.com/item?id=48705878) - [ACL 1.0: A source-available commercial license for the AI era](https://www.auditablelicense.org/)
