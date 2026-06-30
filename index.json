@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2026-06-30, 10:34:25",
-      "https://news.ycombinator.com/item?id=48730713"
-    ],
-    [
-      "Zluda 6 release (run unmodified CUDA applications on non-Nvidia GPUs)",
-      "https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/"
-    ]
-  ],
-  [
-    [
       "2026-06-29, 18:52:25",
       "https://news.ycombinator.com/item?id=48723484"
     ],
@@ -217,6 +207,16 @@
     [
       "Ante: A new way to blend borrow checking and reference counting",
       "https://verdagon.dev/blog/ante-blending-borrowing-rc"
+    ]
+  ],
+  [
+    [
+      "2026-06-28, 14:24:06",
+      "https://news.ycombinator.com/item?id=48707558"
+    ],
+    [
+      "Hengefinder",
+      "https://hengefinder.com/"
     ]
   ],
   [
