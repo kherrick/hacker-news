@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-30, 18:33:59",
+      "https://news.ycombinator.com/item?id=48737226"
+    ],
+    [
+      "Tell HN: Installing Cursor on iOS irreversibly changes your privacy settings",
+      "https://news.ycombinator.com/item?id=48737226"
+    ]
+  ],
+  [
+    [
+      "2026-06-30, 17:59:52",
+      "https://news.ycombinator.com/item?id=48736605"
+    ],
+    [
+      "Claude Sonnet 5",
+      "https://www.anthropic.com/news/claude-sonnet-5"
+    ]
+  ],
+  [
+    [
       "2026-06-30, 17:29:36",
       "https://news.ycombinator.com/item?id=48736137"
     ],
@@ -85,7 +105,7 @@
       "https://news.ycombinator.com/item?id=48734373"
     ],
     [
-      "Claude Code Is Steganographically Marking Requests",
+      "Claude Code is steganographically marking requests",
       "https://thereallo.dev/blog/claude-code-prompt-steganography"
     ]
   ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2026-06-30, 00:38:19",
-      "https://news.ycombinator.com/item?id=48727177"
-    ],
-    [
-      "Memory Safe Context Switching",
-      "https://fil-c.org/context_switches"
-    ]
-  ],
-  [
-    [
       "2026-06-30, 00:30:11",
       "https://news.ycombinator.com/item?id=48727116"
     ],
@@ -217,26 +227,6 @@
     [
       "Qwen 3.6 27B is the sweet spot for local development",
       "https://quesma.com/blog/qwen-36-is-awesome/"
-    ]
-  ],
-  [
-    [
-      "2026-06-29, 14:09:24",
-      "https://news.ycombinator.com/item?id=48719485"
-    ],
-    [
-      "Rocketlab acquires Iridium",
-      "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully"
-    ]
-  ],
-  [
-    [
-      "2026-06-28, 18:59:53",
-      "https://news.ycombinator.com/item?id=48710350"
-    ],
-    [
-      "Computer-Aided Language Development in Nonspeaking Children (1968) [pdf]",
-      "https://archive.org/details/colby1968-computer-aided-language-development-in-non-speaking-children"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Mathematics: Its Content, Methods and Meaning",
       "https://old.maa.org/press/maa-reviews/mathematics-its-content-methods-and-meaning"
+    ]
+  ],
+  [
+    [
+      "2026-06-26, 21:40:05",
+      "https://news.ycombinator.com/item?id=48692330"
+    ],
+    [
+      "Don't Make Gates Optional, Make Them Flexible",
+      "https://wakamoleguy.com/p/flexible-gates"
     ]
   ],
   [
