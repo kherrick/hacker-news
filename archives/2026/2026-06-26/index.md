@@ -31,6 +31,7 @@
 * [2026-06-26, 18:23:14](https://news.ycombinator.com/item?id=48690101) - [U.S. government will decide who gets to use GPT-5.6](https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/)
 * [2026-06-26, 18:05:39](https://news.ycombinator.com/item?id=48689885) - [How to corrupt an SQLite database file](https://www.sqlite.org/howtocorrupt.html)
 * [2026-06-26, 18:04:05](https://news.ycombinator.com/item?id=48689859) - [Pre-Modern Armies for Worldbuilders, Part III: Paying for It](https://acoup.blog/2026/06/26/collections-pre-modern-armies-for-worldbuilders-part-iii-paying-for-it/)
+* [2026-06-26, 18:00:49](https://news.ycombinator.com/item?id=48689820) - [I'm building a Space Cadet Pinball Machine! [video]](https://www.youtube.com/watch?v=lHQ8c8i42VE)
 * [2026-06-26, 17:32:35](https://news.ycombinator.com/item?id=48689407) - [From Hallmark to neon signs: A look at Jim Parkinson's career in letter art](https://typographica.org/on-typography/jim-parkinson-1941-2025/)
 * [2026-06-26, 17:24:25](https://news.ycombinator.com/item?id=48689277) - [What Is a Nomogram and Why Would It Interest Me?](https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me)
 * [2026-06-26, 17:24:21](https://news.ycombinator.com/item?id=48689275) - ['Cost Me the Election': Data Centers Trigger Voter Backlash](https://www.newsweek.com/cost-me-the-election-data-centers-trigger-voter-backlash-12118327)
