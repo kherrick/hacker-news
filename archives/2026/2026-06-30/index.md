@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-06-30](index.md)
 
+* [2026-06-30, 17:29:36](https://news.ycombinator.com/item?id=48736137) - [I built a mmWave material classification radar](https://gauthier-lechevalier.com/radar)
+* [2026-06-30, 17:07:41](https://news.ycombinator.com/item?id=48735770) - [Claude Science](https://claude.com/product/claude-science)
+* [2026-06-30, 17:05:58](https://news.ycombinator.com/item?id=48735748) - [Supreme Court takes sledgehammer to federal regulatory structure](https://www.npr.org/2026/06/29/nx-s1-5875161/supreme-court-takes-sledgehammer-to-much-of-federal-governments-regulatory-structure)
+* [2026-06-30, 16:59:00](https://news.ycombinator.com/item?id=48735633) - [We Are the Last People Who Know How It Works](https://unix.foo/posts/last-people-who-know-how-it-works/)
+* [2026-06-30, 16:54:41](https://news.ycombinator.com/item?id=48735554) - [Xsnow \"protestware\" in Debian](https://lwn.net/SubscriberLink/1079385/3d7a57da58b41aa9/)
 * [2026-06-30, 16:48:37](https://news.ycombinator.com/item?id=48735444) - [Nano Banana 2 Lite](https://deepmind.google/models/gemini-image/flash-lite/)
 * [2026-06-30, 16:44:31](https://news.ycombinator.com/item?id=48735376) - [Crypto firms have spent $189M so far on 2026 US election, report says](https://www.reuters.com/world/crypto-firms-have-spent-189-million-so-far-2026-us-election-report-says-2026-06-30/)
 * [2026-06-30, 16:19:51](https://news.ycombinator.com/item?id=48734940) - [EU commissioners shut down air conditioning for employees, leave theirs on](https://www.politico.eu/article/eu-commission-heatwave-hq-forced-shut-down-air-conditioning-europe/)

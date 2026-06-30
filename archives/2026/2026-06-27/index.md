@@ -44,6 +44,7 @@
 * [2026-06-27, 12:10:27](https://news.ycombinator.com/item?id=48697560) - [OpenRA](https://www.openra.net/)
 * [2026-06-27, 12:01:03](https://news.ycombinator.com/item?id=48697504) - [Nox Metals (YC S25) Is Hiring SWE](https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer)
 * [2026-06-27, 11:32:10](https://news.ycombinator.com/item?id=48697335) - [If You Can't Hold It, You Don't Own It](https://dervis.de/physical/)
+* [2026-06-27, 10:52:44](https://news.ycombinator.com/item?id=48697107) - [Factorio 2.1 Experimental Release](https://factorio.com/blog/post/fff-444)
 * [2026-06-27, 10:28:53](https://news.ycombinator.com/item?id=48696982) - [Fintech Engineering Handbook](https://w.pitula.me/fintech-engineering-handbook/)
 * [2026-06-27, 09:18:52](https://news.ycombinator.com/item?id=48696585) - [DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]](https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf)
 * [2026-06-27, 09:06:11](https://news.ycombinator.com/item?id=48696510) - [Beer CSS – Build material design in record time](https://www.beercss.com)
