@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-06-30](index.md)
 
+* [2026-06-30, 20:48:36](https://news.ycombinator.com/item?id=48738985) - [I ported Kubernetes to the browser](https://ngrok.com/blog/i-ported-kubernetes-to-the-browser)
 * [2026-06-30, 20:17:21](https://news.ycombinator.com/item?id=48738606) - [Something Is Wrong with Modern Longevity Science](https://www.newyorker.com/magazine/2026/07/06/morbid-saul-justin-newman-book-review-eat-your-ice-cream-ezekiel-j-emanuel)
 * [2026-06-30, 20:09:25](https://news.ycombinator.com/item?id=48738528) - [Claude Sonnet 5 – benchmark results](https://artificialanalysis.ai/models/claude-sonnet-5)
 * [2026-06-30, 19:59:09](https://news.ycombinator.com/item?id=48738413) - [The best thing that's ever happened for multiplayer games?](https://mas-bandwidth.com/the-best-thing-thats-ever-happened-for-multiplayer-games/)
+* [2026-06-30, 19:47:24](https://news.ycombinator.com/item?id=48738262) - [Tokyo has only two barley tea makers, we visited one to see how mugicha is made](https://soranews24.com/2026/06/30/tokyo-has-only-two-barley-tea-makers-and-we-visited-one-to-see-how-mugicha-is-made/)
 * [2026-06-30, 18:38:26](https://news.ycombinator.com/item?id=48737302) - [Show HN: I made a heatmap of 3400 VCs who are open to cold emails](https://apparent.social/heat-map)
 * [2026-06-30, 18:33:59](https://news.ycombinator.com/item?id=48737226) - [Tell HN: Installing Cursor on iOS irreversibly changes your privacy settings](https://news.ycombinator.com/item?id=48737226)
 * [2026-06-30, 18:12:33](https://news.ycombinator.com/item?id=48736839) - [Amazon Seller Reveals Rare Glimpse of Shadow Bribery Market](https://www.bloomberg.com/news/articles/2026-06-24/inside-the-shadow-market-selling-access-to-amazon-employees)

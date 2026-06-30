@@ -9,6 +9,7 @@
 * [2026-06-28, 22:32:04](https://news.ycombinator.com/item?id=48712420) - [Knowledge Distillation of Black-Box Large Language Models](https://arxiv.org/abs/2401.07013)
 * [2026-06-28, 22:21:51](https://news.ycombinator.com/item?id=48712338) - [A QNX-inspired operating system with selectable kernels](https://qsoe.net)
 * [2026-06-28, 22:20:56](https://news.ycombinator.com/item?id=48712324) - [Xonaly – Canada's Independent Search Engine](https://xonaly.com/)
+* [2026-06-28, 22:16:20](https://news.ycombinator.com/item?id=48712289) - [How does a pull-back car work? Illustrated teardown](https://mechanical-pencil.com/products/car)
 * [2026-06-28, 21:42:39](https://news.ycombinator.com/item?id=48711981) - [30-year sentence for transporting zines is a five-alarm fire for free speech](https://theintercept.com/2026/06/26/daniel-sanchez-estrada-zines-prairieland-free-speech/)
 * [2026-06-28, 20:39:50](https://news.ycombinator.com/item?id=48711403) - [POSIX Is Not a Shell](https://alganet.github.io/blog/2026-06-28-12-POSIX-Is-Not-A-Shell.html)
 * [2026-06-28, 19:43:10](https://news.ycombinator.com/item?id=48710827) - [Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs](https://github.com/kamaludu/bash4llm/)

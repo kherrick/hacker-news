@@ -6,6 +6,7 @@
 
 * [2026-06-26, 23:36:30](https://news.ycombinator.com/item?id=48693420) - [Foreign funds help make housing unaffordable: research](https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/)
 * [2026-06-26, 23:33:46](https://news.ycombinator.com/item?id=48693391) - [Om](https://daringfireball.net/2026/06/om)
+* [2026-06-26, 23:29:51](https://news.ycombinator.com/item?id=48693369) - [Waveloop: What Fable left me](https://neynt.ca/writing/waveloop/)
 * [2026-06-26, 23:18:04](https://news.ycombinator.com/item?id=48693273) - [Decker Fantasy Camp 2026](https://itch.io/jam/decker-fantasy-camp-2026)
 * [2026-06-26, 22:48:28](https://news.ycombinator.com/item?id=48692995) - [US allows Anthropic to release Mythos to 'trusted partners'](https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/)
 * [2026-06-26, 22:48:28](https://news.ycombinator.com/item?id=48692995) - [U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations](https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies)
