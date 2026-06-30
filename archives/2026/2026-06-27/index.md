@@ -29,6 +29,7 @@
 * [2026-06-27, 14:38:05](https://news.ycombinator.com/item?id=48698684) - [Zuckerberg's Increasingly Bizarre War on Whistleblowers](https://pluralistic.net/2026/06/27/zuckerstreisand-2/)
 * [2026-06-27, 14:31:00](https://news.ycombinator.com/item?id=48698617) - [Anonymous GitHub account mass-dropping undisclosed 0-days](https://github.com/bikini/exploitarium)
 * [2026-06-27, 14:23:40](https://news.ycombinator.com/item?id=48698559) - [Post-Mythos Cybersecurity: Keep calm and carry on](https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/)
+* [2026-06-27, 14:20:16](https://news.ycombinator.com/item?id=48698542) - [Netflix Simplified Batch Compute with Kueue](https://netflixtechblog.com/how-netflix-simplified-batch-compute-with-kueue-87860682629c)
 * [2026-06-27, 14:02:52](https://news.ycombinator.com/item?id=48698402) - [Like a Bouncer at a Bookstore: Texas' App Store Accountability Act](https://cdt.org/insights/like-a-bouncer-at-a-bookstore-texas-app-store-accountability-act-is-unconstitutional/)
 * [2026-06-27, 13:36:45](https://news.ycombinator.com/item?id=48698188) - [Running a software jam in a world of slop](https://foxmoss.com/blog/radish/)
 * [2026-06-27, 13:32:20](https://news.ycombinator.com/item?id=48698151) - [Suspicious Discontinuities](https://danluu.com/discontinuities/)
