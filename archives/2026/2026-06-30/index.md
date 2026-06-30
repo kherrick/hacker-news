@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-06-30](index.md)
 
+* [2026-06-30, 11:02:10](https://news.ycombinator.com/item?id=48730904) - [Sony erases digital content from libraries; reminded we don't own what we buy](https://arstechnica.com/gadgets/2026/06/sony-erases-digital-content-from-libraries-were-reminded-we-dont-own-what-we-buy/)
+* [2026-06-30, 10:36:23](https://news.ycombinator.com/item?id=48730729) - [European digital ID wallets are a gift to Google and Apple](https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/)
+* [2026-06-30, 10:31:02](https://news.ycombinator.com/item?id=48730694) - [Exercise intensity influences body composition in healthy older adults](https://www.maturitas.org/article/S0378-5122(25)00571-7/fulltext)
+* [2026-06-30, 10:16:21](https://news.ycombinator.com/item?id=48730614) - [Lumo 2.0](https://proton.me/blog/lumo-2)
+* [2026-06-30, 09:15:21](https://news.ycombinator.com/item?id=48730246) - [Antares Achieves Criticality of Mark-0 Reactor](https://antaresindustries.com/updates/antares-achieves-criticality)
 * [2026-06-30, 05:17:02](https://news.ycombinator.com/item?id=48728740) - [US Supreme Court Just Blew Up EU-US Data Transfers](https://noyb.eu/en/us-supreme-court-just-blew-eu-us-data-transfers)
 * [2026-06-30, 05:14:35](https://news.ycombinator.com/item?id=48728729) - [Popping the GPU Bubble](https://moondream.ai/blog/popping-the-gpu-bubble)
 * [2026-06-30, 04:51:12](https://news.ycombinator.com/item?id=48728599) - [The end of the AArch64 desktop experiment](https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/)

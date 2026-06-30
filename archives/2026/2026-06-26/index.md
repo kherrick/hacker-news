@@ -77,6 +77,7 @@
 * [2026-06-26, 03:12:42](https://news.ycombinator.com/item?id=48681949) - [Libre Barcode Project](https://graphicore.github.io/librebarcode/)
 * [2026-06-26, 02:29:23](https://news.ycombinator.com/item?id=48681687) - [What happened after 2k people tried to hack my AI assistant](https://www.fernandoi.cl/posts/hackmyclaw/)
 * [2026-06-26, 02:09:01](https://news.ycombinator.com/item?id=48681557) - [Honesty gets Emacs patch rejected](https://xlii.space/eng/honesty-gets-emacs-patch-rejected/)
+* [2026-06-26, 01:57:37](https://news.ycombinator.com/item?id=48681499) - [Why Problem Statements Aren't Enough](https://letters.unchartedpathbreakthroughs.com/posts/why-problem-statements-arent-enough)
 * [2026-06-26, 01:33:15](https://news.ycombinator.com/item?id=48681361) - [A data race that doesn't compile](https://corentin-core.github.io/posts/ruxe-type-level-disjointness/)
 * [2026-06-26, 01:15:14](https://news.ycombinator.com/item?id=48681250) - [AI children's books, body horror edition](https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition)
 * [2026-06-26, 01:10:52](https://news.ycombinator.com/item?id=48681220) - [Framework's 10G Ethernet module exposes USB-C's complexity](https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/)

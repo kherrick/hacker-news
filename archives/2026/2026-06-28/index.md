@@ -63,6 +63,7 @@
 * [2026-06-28, 06:00:31](https://news.ycombinator.com/item?id=48704816) - [Armadillo – A DNS Server in Gleam for Homelab Use](https://github.com/vshakitskiy/armadillo)
 * [2026-06-28, 04:48:32](https://news.ycombinator.com/item?id=48704454) - [Bashblog – a single bash script to create blogs](https://github.com/cfenollosa/bashblog)
 * [2026-06-28, 04:31:18](https://news.ycombinator.com/item?id=48704373) - [Wayfinder Router: deterministic routing of queries between local and hosted LLM](https://github.com/itsthelore/wayfinder-router)
+* [2026-06-28, 04:17:44](https://news.ycombinator.com/item?id=48704289) - [Building a custom octocopter from scratch with no prior hardware experience](https://karolina.mgdubiel.com/drone/)
 * [2026-06-28, 03:09:13](https://news.ycombinator.com/item?id=48703968) - [Ford hired AI and sacked humans. It backfired badly](https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html)
 * [2026-06-28, 02:23:08](https://news.ycombinator.com/item?id=48703759) - [Marfa Public Radio Puts You to Sleep](https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep)
 * [2026-06-28, 01:55:21](https://news.ycombinator.com/item?id=48703613) - [Feds Killed Polestar and Spared Volvo. That Should Terrify You](https://www.thedrive.com/news/feds-killed-polestar-and-spared-volvo-that-should-terrify-you)
