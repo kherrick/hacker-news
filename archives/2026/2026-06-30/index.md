@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-30](index.md)
 
+* [2026-06-30, 18:38:26](https://news.ycombinator.com/item?id=48737302) - [Show HN: I made a heatmap of 3400 VCs who are open to cold emails](https://apparent.social/heat-map)
 * [2026-06-30, 18:33:59](https://news.ycombinator.com/item?id=48737226) - [Tell HN: Installing Cursor on iOS irreversibly changes your privacy settings](https://news.ycombinator.com/item?id=48737226)
 * [2026-06-30, 18:12:33](https://news.ycombinator.com/item?id=48736839) - [Amazon Seller Reveals Rare Glimpse of Shadow Bribery Market](https://www.bloomberg.com/news/articles/2026-06-24/inside-the-shadow-market-selling-access-to-amazon-employees)
 * [2026-06-30, 17:59:52](https://news.ycombinator.com/item?id=48736605) - [Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5)
@@ -21,6 +22,7 @@
 * [2026-06-30, 15:44:24](https://news.ycombinator.com/item?id=48734373) - [Claude Code Is Steganographically Marking Requests](https://thereallo.dev/blog/claude-code-prompt-steganography)
 * [2026-06-30, 15:35:04](https://news.ycombinator.com/item?id=48734234) - [The labor share of income in the US is at its lowest post-war level](https://libertystreeteconomics.newyorkfed.org/2026/06/the-post-covid-decline-in-the-labor-share/)
 * [2026-06-30, 15:17:14](https://news.ycombinator.com/item?id=48733937) - [We moved our Bluesky data to Eurosky](https://waag.org/en/article/why-we-moved-our-bluesky-data-eurosky/)
+* [2026-06-30, 14:43:54](https://news.ycombinator.com/item?id=48733406) - [Supreme Court upholds broad conception of birthright citizenship](https://apnews.com/live/birthright-citizenship-decision-supreme-court-updates-06-30-2026)
 * [2026-06-30, 14:16:57](https://news.ycombinator.com/item?id=48733062) - [Words Are a Byproduct of Consciousness. For LLMs, It's Backwards](https://ranpara.net/posts/words-are-a-byproduct-of-consciousness/)
 * [2026-06-30, 14:15:29](https://news.ycombinator.com/item?id=48733043) - [Have You Restarted Your Computer This Week?](https://taonaw.com/2026/06/27/have-you-restarted-your-computer.html)
 * [2026-06-30, 14:14:29](https://news.ycombinator.com/item?id=48733031) - [Looking Ahead to Postgres 19](https://www.snowflake.com/en/blog/engineering/postgresql-19-features-beta/)
