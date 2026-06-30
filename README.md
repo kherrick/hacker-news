@@ -27,9 +27,9 @@
 * [2026-06-27, 12:16:27](https://news.ycombinator.com/item?id=48697599) - [Kb – Prolog Knowledge Base](https://github.com/mat-mgm/kb-prolog)
 * [2026-06-26, 21:37:31](https://news.ycombinator.com/item?id=48692310) - [Font-Family Recommendations](https://chrismorgan.info/font-family)
 * [2026-06-26, 16:16:16](https://news.ycombinator.com/item?id=48688382) - [Venetian Bridge Brawls in 17th and 18th Century Art](https://publicdomainreview.org/collection/venice-bridge-fights/)
+* [2026-06-26, 14:36:04](https://news.ycombinator.com/item?id=48687137) - [SQLite improving performance with pre-sort](https://andersmurphy.com/2026/06/07/sqlite-improving-performance-with-pre-sort.html)
 * [2026-06-26, 07:29:17](https://news.ycombinator.com/item?id=48683475) - [Wallace the 6 inch f/2.8 telescope, building it, and hiking with it](https://lucassifoni.info/blog/hiking-with-wallace/)
 * [2026-06-25, 16:19:19](https://news.ycombinator.com/item?id=48675653) - [Dark Sky Lighting](https://www.savingourstars.org/darkskylighting#whatisdarkskylighting)
-* [2026-06-25, 15:28:24](https://news.ycombinator.com/item?id=48674875) - [Halvar's Guide to Entrepreneurship](https://thomasdullien.github.io/guides/entrepreneurship/)
 
 ## [Archives](archives/index.md)
 
