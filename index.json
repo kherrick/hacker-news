@@ -1,11 +1,41 @@
 [
   [
     [
+      "2026-06-30, 22:08:38",
+      "https://news.ycombinator.com/item?id=48739919"
+    ],
+    [
+      "TabFM: A zero-shot foundation model for tabular data",
+      "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/"
+    ]
+  ],
+  [
+    [
+      "2026-06-30, 21:58:49",
+      "https://news.ycombinator.com/item?id=48739792"
+    ],
+    [
+      "Ask HN: Since when does Craigslist's front page have emojis?",
+      "https://news.ycombinator.com/item?id=48739792"
+    ]
+  ],
+  [
+    [
+      "2026-06-30, 21:29:15",
+      "https://news.ycombinator.com/item?id=48739467"
+    ],
+    [
+      "Understanding lattice risks: Many differences between marketing and reality",
+      "https://blog.cr.yp.to/20260630-risk.html"
+    ]
+  ],
+  [
+    [
       "2026-06-30, 21:29:13",
       "https://news.ycombinator.com/item?id=48739466"
     ],
     [
-      "Meta's brain-scanning system reads sentences non-invasively, code open source",
+      "From brain waves to words: a new path to communication without surgery",
       "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1"
     ]
   ],
@@ -17,6 +47,16 @@
     [
       "I ported Kubernetes to the browser",
       "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser"
+    ]
+  ],
+  [
+    [
+      "2026-06-30, 20:44:56",
+      "https://news.ycombinator.com/item?id=48738938"
+    ],
+    [
+      "Leanstral 1.5",
+      "https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06"
     ]
   ],
   [
@@ -141,32 +181,12 @@
   ],
   [
     [
-      "2026-06-30, 10:34:25",
-      "https://news.ycombinator.com/item?id=48730713"
-    ],
-    [
-      "Zluda 6 release (run unmodified CUDA applications on non-Nvidia GPUs)",
-      "https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/"
-    ]
-  ],
-  [
-    [
       "2026-06-29, 18:52:25",
       "https://news.ycombinator.com/item?id=48723484"
     ],
     [
       "CERN bids farewell to the LHC and enters Long Shutdown 3",
       "https://home.cern/cern-bids-farewell-to-the-lhc-and-enters-long-shutdown-3/"
-    ]
-  ],
-  [
-    [
-      "2026-06-29, 13:20:41",
-      "https://news.ycombinator.com/item?id=48718972"
-    ],
-    [
-      "Counterexamples in type systems (2021)",
-      "https://counterexamples.org/"
     ]
   ],
   [
@@ -187,6 +207,16 @@
     [
       "How does a pull-back car work? Illustrated teardown",
       "https://mechanical-pencil.com/products/car"
+    ]
+  ],
+  [
+    [
+      "2026-06-28, 19:37:45",
+      "https://news.ycombinator.com/item?id=48710770"
+    ],
+    [
+      "Ante: A new way to blend borrow checking and reference counting",
+      "https://verdagon.dev/blog/ante-blending-borrowing-rc"
     ]
   ],
   [
@@ -231,42 +261,12 @@
   ],
   [
     [
-      "2026-06-27, 15:18:03",
-      "https://news.ycombinator.com/item?id=48699010"
-    ],
-    [
-      "A peek into Reddit's anti-spam internals",
-      "https://lyra.horse/blog/2026/06/reddit-spam-internals/"
-    ]
-  ],
-  [
-    [
       "2026-06-26, 23:29:51",
       "https://news.ycombinator.com/item?id=48693369"
     ],
     [
       "Waveloop: What Fable left me",
       "https://neynt.ca/writing/waveloop/"
-    ]
-  ],
-  [
-    [
-      "2026-06-26, 18:25:15",
-      "https://news.ycombinator.com/item?id=48690130"
-    ],
-    [
-      "SedonaDB 0.4: GPU-accelerated spatial joins",
-      "https://sedona.apache.org/latest/blog/2026/06/26/sedonadb-04-gpu-accelerated-spatial-joins/"
-    ]
-  ],
-  [
-    [
-      "2026-06-26, 16:38:55",
-      "https://news.ycombinator.com/item?id=48688685"
-    ],
-    [
-      "1.38 Millimeter Microcontroller",
-      "https://www.ti.com/product/MSPM0C1104"
     ]
   ],
   [
