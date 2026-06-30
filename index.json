@@ -1,22 +1,22 @@
 [
   [
     [
-      "2026-06-30, 20:17:21",
-      "https://news.ycombinator.com/item?id=48738606"
+      "2026-06-30, 20:48:36",
+      "https://news.ycombinator.com/item?id=48738985"
     ],
     [
-      "Something Is Wrong with Modern Longevity Science",
-      "https://www.newyorker.com/magazine/2026/07/06/morbid-saul-justin-newman-book-review-eat-your-ice-cream-ezekiel-j-emanuel"
+      "I ported Kubernetes to the browser",
+      "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser"
     ]
   ],
   [
     [
-      "2026-06-30, 20:09:25",
-      "https://news.ycombinator.com/item?id=48738528"
+      "2026-06-30, 20:17:21",
+      "https://news.ycombinator.com/item?id=48738606"
     ],
     [
-      "Claude Sonnet 5 – benchmark results",
-      "https://artificialanalysis.ai/models/claude-sonnet-5"
+      "Morbid: Debunking Modern Longevity Science",
+      "https://www.newyorker.com/magazine/2026/07/06/morbid-saul-justin-newman-book-review-eat-your-ice-cream-ezekiel-j-emanuel"
     ]
   ],
   [
@@ -27,6 +27,16 @@
     [
       "The best thing that's ever happened for multiplayer games?",
       "https://mas-bandwidth.com/the-best-thing-thats-ever-happened-for-multiplayer-games/"
+    ]
+  ],
+  [
+    [
+      "2026-06-30, 19:47:24",
+      "https://news.ycombinator.com/item?id=48738262"
+    ],
+    [
+      "Tokyo has only two barley tea makers, we visited one to see how mugicha is made",
+      "https://soranews24.com/2026/06/30/tokyo-has-only-two-barley-tea-makers-and-we-visited-one-to-see-how-mugicha-is-made/"
     ]
   ],
   [
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=48736137"
     ],
     [
-      "I built a mmWave material classification radar",
+      "I built a mmWave material classification radar (2025)",
       "https://gauthier-lechevalier.com/radar"
     ]
   ],
@@ -91,32 +101,12 @@
   ],
   [
     [
-      "2026-06-30, 16:05:46",
-      "https://news.ycombinator.com/item?id=48734699"
-    ],
-    [
-      "County with 37 Data Centers Asks Schools to 'Conserve Electricity'",
-      "https://www.404media.co/henrico-virginia-datacenter-energy-cost-email/"
-    ]
-  ],
-  [
-    [
       "2026-06-30, 15:44:24",
       "https://news.ycombinator.com/item?id=48734373"
     ],
     [
       "Claude Code is steganographically marking requests",
       "https://thereallo.dev/blog/claude-code-prompt-steganography"
-    ]
-  ],
-  [
-    [
-      "2026-06-30, 14:43:54",
-      "https://news.ycombinator.com/item?id=48733406"
-    ],
-    [
-      "Supreme Court upholds broad conception of birthright citizenship",
-      "https://apnews.com/live/birthright-citizenship-decision-supreme-court-updates-06-30-2026"
     ]
   ],
   [
@@ -171,6 +161,26 @@
   ],
   [
     [
+      "2026-06-29, 12:59:49",
+      "https://news.ycombinator.com/item?id=48718716"
+    ],
+    [
+      "Reading the internals of Postgres: Database cluster, databases, and tables",
+      "https://www.buraksen.dev/articles/internals-of-postgresql-db-cluster-and-tables"
+    ]
+  ],
+  [
+    [
+      "2026-06-28, 22:16:20",
+      "https://news.ycombinator.com/item?id=48712289"
+    ],
+    [
+      "How does a pull-back car work? Illustrated teardown",
+      "https://mechanical-pencil.com/products/car"
+    ]
+  ],
+  [
+    [
       "2026-06-28, 04:17:44",
       "https://news.ycombinator.com/item?id=48704289"
     ],
@@ -201,6 +211,16 @@
   ],
   [
     [
+      "2026-06-27, 21:01:43",
+      "https://news.ycombinator.com/item?id=48701721"
+    ],
+    [
+      "Stroustrup's Rule (2024)",
+      "https://buttondown.com/hillelwayne/archive/stroustrups-rule/"
+    ]
+  ],
+  [
+    [
       "2026-06-27, 15:18:03",
       "https://news.ycombinator.com/item?id=48699010"
     ],
@@ -211,22 +231,12 @@
   ],
   [
     [
-      "2026-06-27, 10:52:44",
-      "https://news.ycombinator.com/item?id=48697107"
+      "2026-06-26, 23:29:51",
+      "https://news.ycombinator.com/item?id=48693369"
     ],
     [
-      "Factorio 2.1 Experimental Release",
-      "https://factorio.com/blog/post/fff-444"
-    ]
-  ],
-  [
-    [
-      "2026-06-26, 21:40:05",
-      "https://news.ycombinator.com/item?id=48692330"
-    ],
-    [
-      "Don't Make Gates Optional, Make Them Flexible",
-      "https://wakamoleguy.com/p/flexible-gates"
+      "Waveloop: What Fable left me",
+      "https://neynt.ca/writing/waveloop/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Open Source Low Tech",
       "https://opensourcelowtech.org/"
-    ]
-  ],
-  [
-    [
-      "2026-06-26, 06:19:39",
-      "https://news.ycombinator.com/item?id=48682979"
-    ],
-    [
-      "6 years and 360 patches to clean all instances of strnpy out of the Linux kernel",
-      "https://smist08.wordpress.com/2026/06/25/linux-kills-strncpy/"
     ]
   ],
   [
