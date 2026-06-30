@@ -1,22 +1,22 @@
 [
   [
     [
+      "2026-06-30, 22:34:23",
+      "https://news.ycombinator.com/item?id=48740135"
+    ],
+    [
+      "Hatari – Online Atari ST/STE/TT/Falcon Emulator",
+      "https://hatari.frama.io/hatari/online/hatari.html"
+    ]
+  ],
+  [
+    [
       "2026-06-30, 22:08:38",
       "https://news.ycombinator.com/item?id=48739919"
     ],
     [
       "TabFM: A zero-shot foundation model for tabular data",
       "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/"
-    ]
-  ],
-  [
-    [
-      "2026-06-30, 21:58:49",
-      "https://news.ycombinator.com/item?id=48739792"
-    ],
-    [
-      "Ask HN: Since when does Craigslist's front page have emojis?",
-      "https://news.ycombinator.com/item?id=48739792"
     ]
   ],
   [
@@ -57,16 +57,6 @@
     [
       "Leanstral 1.5",
       "https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06"
-    ]
-  ],
-  [
-    [
-      "2026-06-30, 20:17:21",
-      "https://news.ycombinator.com/item?id=48738606"
-    ],
-    [
-      "Morbid: Debunking Modern Longevity Science",
-      "https://www.newyorker.com/magazine/2026/07/06/morbid-saul-justin-newman-book-review-eat-your-ice-cream-ezekiel-j-emanuel"
     ]
   ],
   [
@@ -177,6 +167,16 @@
     [
       "Memoirs of Extraordinary Popular Delusions and the Madness of Crowds (1852)",
       "https://www.gutenberg.org/ebooks/24518"
+    ]
+  ],
+  [
+    [
+      "2026-06-30, 10:34:25",
+      "https://news.ycombinator.com/item?id=48730713"
+    ],
+    [
+      "Zluda 6 release (run unmodified CUDA applications on non-Nvidia GPUs)",
+      "https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/"
     ]
   ],
   [
