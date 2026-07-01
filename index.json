@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-07-01, 17:55:03",
-      "https://news.ycombinator.com/item?id=48750737"
-    ],
-    [
-      "Show HN: LIBR tracing with source ledger rows and byte-exact PDF verification",
-      "https://exitprotocols.com/engineering/libr-state-machine/"
-    ]
-  ],
-  [
-    [
       "2026-07-01, 17:53:44",
       "https://news.ycombinator.com/item?id=48750710"
     ],
@@ -21,12 +11,22 @@
   ],
   [
     [
-      "2026-07-01, 17:50:25",
-      "https://news.ycombinator.com/item?id=48750661"
+      "2026-07-01, 17:45:17",
+      "https://news.ycombinator.com/item?id=48750593"
     ],
     [
-      "My OSCP Pentesting Cheatsheet",
-      "https://hackerask.com/posts/pentesting-cheatsheet/"
+      "Building Gin: Simple over Easy",
+      "https://manualmeida.dev/articles/gin-simple-over-easy/"
+    ]
+  ],
+  [
+    [
+      "2026-07-01, 17:41:00",
+      "https://news.ycombinator.com/item?id=48750527"
+    ],
+    [
+      "Hanami 3.0: In Full Bloom",
+      "https://hanakai.org/blog/2026/06/30/hanami-3-0-in-full-bloom"
     ]
   ],
   [
@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2026-07-01, 17:05:00",
+      "https://news.ycombinator.com/item?id=48750000"
+    ],
+    [
+      "A complete ClickHouse OLAP engine, compiled to WebAssembly",
+      "https://wasm.chdb.io/"
+    ]
+  ],
+  [
+    [
       "2026-07-01, 16:50:02",
       "https://news.ycombinator.com/item?id=48749752"
     ],
@@ -71,32 +81,12 @@
   ],
   [
     [
-      "2026-07-01, 15:57:51",
-      "https://news.ycombinator.com/item?id=48748951"
-    ],
-    [
-      "Solid and Clean Code never felt solid or clean to me",
-      "https://devz.cl/posts/solid-never-felt-solid/"
-    ]
-  ],
-  [
-    [
       "2026-07-01, 15:30:35",
       "https://news.ycombinator.com/item?id=48748518"
     ],
     [
       "How We Made IPFS Content Publishing 10x Faster",
       "https://probelab.io/blog/optimistic-provide/"
-    ]
-  ],
-  [
-    [
-      "2026-07-01, 15:12:08",
-      "https://news.ycombinator.com/item?id=48748182"
-    ],
-    [
-      "Show HN: GolemUI – The new paradigm for JavaScript forms",
-      "https://golemui.com"
     ]
   ],
   [
@@ -261,12 +251,12 @@
   ],
   [
     [
-      "2026-06-30, 20:52:04",
-      "https://news.ycombinator.com/item?id=48739038"
+      "2026-06-30, 23:55:12",
+      "https://news.ycombinator.com/item?id=48740771"
     ],
     [
-      "Show HN: Morph Reflexes – Multi-head classifiers for agent traces",
-      "https://news.ycombinator.com/item?id=48739038"
+      "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+      "https://twitter.com/AnthropicAI/status/2072106151890809341"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Newly discovered spider builds spring loaded snare to catch ants",
       "https://phys.org/news/2026-06-newly-australian-ballista-spider-snare.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-28, 00:37:42",
+      "https://news.ycombinator.com/item?id=48703200"
+    ],
+    [
+      "Show HN: QR code renderer in a TrueType font",
+      "https://qr.jim.sh/"
     ]
   ],
   [
