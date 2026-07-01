@@ -9,6 +9,7 @@
 * [2026-07-01, 19:18:11](https://news.ycombinator.com/item?id=48751824) - [Show HN: Z-Jail – A 130 KB Linux sandbox-C99 with 7 defense layers and zero deps](https://github.com/Division-36/Z-Jail/)
 * [2026-07-01, 19:11:38](https://news.ycombinator.com/item?id=48751752) - [ZCode: Claude Code from the Makers of GLM](https://zcode.z.ai/cn)
 * [2026-07-01, 18:12:18](https://news.ycombinator.com/item?id=48750989) - [Weave Robotics launches Isaac 1, a $7,999 home robot with fall 2026 deliveries](https://runtimewire.com/article/weave-robotics-isaac-1-home-robot-launch)
+* [2026-07-01, 18:08:44](https://news.ycombinator.com/item?id=48750934) - [Most rewrites serve the engineer, not the business](https://anatoliybabushka.com/blog/when-to-rewrite-working-code.html)
 * [2026-07-01, 17:55:03](https://news.ycombinator.com/item?id=48750737) - [Show HN: LIBR tracing with source ledger rows and byte-exact PDF verification](https://exitprotocols.com/engineering/libr-state-machine/)
 * [2026-07-01, 17:53:44](https://news.ycombinator.com/item?id=48750710) - [What to Learn to Be a Graphics Programmer](https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/)
 * [2026-07-01, 17:50:25](https://news.ycombinator.com/item?id=48750661) - [My OSCP Pentesting Cheatsheet](https://hackerask.com/posts/pentesting-cheatsheet/)
