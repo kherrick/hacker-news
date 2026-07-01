@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-07-01](index.md)
 
+* [2026-07-01, 12:13:34](https://news.ycombinator.com/item?id=48745456) - [Physical disc production ending in Jan 2028 for new games on PlayStation](https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/)
+* [2026-07-01, 11:35:20](https://news.ycombinator.com/item?id=48745113) - [Nintendo has raised its employees base salary by 10%](https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/)
+* [2026-07-01, 11:28:26](https://news.ycombinator.com/item?id=48745061) - [Swedish court says Google is to pay $1.5B to Klarna in antitrust damages](https://www.reuters.com/business/swedish-court-says-google-is-pay-15-billion-klarna-antitrust-damages-2026-07-01/)
+* [2026-07-01, 10:45:59](https://news.ycombinator.com/item?id=48744778) - [Show HN: HackerNows – Native iOS HN Client](https://hackernows.app/)
 * [2026-07-01, 10:26:45](https://news.ycombinator.com/item?id=48744655) - [The Internet I Grew Up with Doesn't Exist Anymore](https://cleberg.net/blog/internet.html)
 * [2026-07-01, 10:07:04](https://news.ycombinator.com/item?id=48744518) - [Asahi Linux 7.1 Progress Report](https://asahilinux.org/2026/06/progress-report-7-1/)
 * [2026-07-01, 09:57:07](https://news.ycombinator.com/item?id=48744446) - [Pine64 launch $50 smart speaker for Home Assistant tinkerers](https://www.omgubuntu.co.uk/2026/06/pine64-pinevoice-riscv-smart-speaker-launch)
