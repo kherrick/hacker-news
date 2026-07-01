@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-01, 10:26:45",
+      "https://news.ycombinator.com/item?id=48744655"
+    ],
+    [
+      "The Internet I Grew Up with Doesn't Exist Anymore",
+      "https://cleberg.net/blog/internet.html"
+    ]
+  ],
+  [
+    [
       "2026-07-01, 10:07:04",
       "https://news.ycombinator.com/item?id=48744518"
     ],
@@ -17,6 +27,16 @@
     [
       "Pine64 launch $50 smart speaker for Home Assistant tinkerers",
       "https://www.omgubuntu.co.uk/2026/06/pine64-pinevoice-riscv-smart-speaker-launch"
+    ]
+  ],
+  [
+    [
+      "2026-07-01, 09:21:44",
+      "https://news.ycombinator.com/item?id=48744232"
+    ],
+    [
+      "Single Dose of Frog-Derived Gut Bacterium Eradicates 100% of Tumors in Mice",
+      "https://www.thefocalpoints.com/p/new-study-frog-derived-gut-bacterium"
     ]
   ],
   [
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2026-06-30, 22:34:23",
-      "https://news.ycombinator.com/item?id=48740135"
-    ],
-    [
-      "Hatari – Online Atari ST/STE/TT/Falcon Emulator",
-      "https://hatari.frama.io/hatari/online/hatari.html"
-    ]
-  ],
-  [
-    [
       "2026-06-30, 21:29:13",
       "https://news.ycombinator.com/item?id=48739466"
     ],
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2026-06-30, 17:29:36",
-      "https://news.ycombinator.com/item?id=48736137"
-    ],
-    [
-      "I built a mmWave material classification radar (2025)",
-      "https://gauthier-lechevalier.com/radar"
-    ]
-  ],
-  [
-    [
       "2026-06-30, 17:07:41",
       "https://news.ycombinator.com/item?id=48735770"
     ],
@@ -221,22 +221,22 @@
   ],
   [
     [
-      "2026-06-30, 14:15:29",
-      "https://news.ycombinator.com/item?id=48733043"
-    ],
-    [
-      "Have you restarted your computer this week?",
-      "https://taonaw.com/2026/06/27/have-you-restarted-your-computer.html"
-    ]
-  ],
-  [
-    [
       "2026-06-29, 18:52:25",
       "https://news.ycombinator.com/item?id=48723484"
     ],
     [
       "CERN bids farewell to the LHC and enters Long Shutdown 3",
       "https://home.cern/cern-bids-farewell-to-the-lhc-and-enters-long-shutdown-3/"
+    ]
+  ],
+  [
+    [
+      "2026-06-29, 16:35:20",
+      "https://news.ycombinator.com/item?id=48721434"
+    ],
+    [
+      "Obfuscation: Building the final boss of cryptography (Part I)",
+      "https://vitalik.eth.limo/general/2026/06/29/obfuscation1.html"
     ]
   ],
   [
