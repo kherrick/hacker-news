@@ -4,11 +4,17 @@
 
 ### [Archives](../../index.md) for [2026-07-01](index.md)
 
+* [2026-07-01, 16:19:47](https://news.ycombinator.com/item?id=48749313) - [Reduce GVisor Cold Starts with GPU Snapshotting](https://cerebrium.ai/blog/reducing-gpu-cold-starts-with-memory-snapshots-restoring-cuda-workloads-in-second)
+* [2026-07-01, 15:40:56](https://news.ycombinator.com/item?id=48748679) - [Meta loses bid to dismiss US states' claims that FB, Instagram addict children](https://www.reuters.com/legal/government/meta-loses-bid-dismiss-us-states-claims-that-facebook-instagram-addict-children-2026-06-30/)
+* [2026-07-01, 15:30:35](https://news.ycombinator.com/item?id=48748518) - [How We Made IPFS Content Publishing 10x Faster](https://probelab.io/blog/optimistic-provide/)
+* [2026-07-01, 15:12:08](https://news.ycombinator.com/item?id=48748182) - [Show HN: GolemUI – The new paradigm for JavaScript forms](https://golemui.com)
 * [2026-07-01, 14:57:38](https://news.ycombinator.com/item?id=48747916) - [SpudCell: The first synthetic cell with a complete cell cycle](https://biotic.org/research/spudcell/)
 * [2026-07-01, 14:48:59](https://news.ycombinator.com/item?id=48747772) - [The Anti-Palantir Manifesto](https://nym.com/blog/anti-palantir-manifesto)
+* [2026-07-01, 14:27:48](https://news.ycombinator.com/item?id=48747407) - [Ray Tracer in SQL](https://github.com/ClickHouse/RayTracer)
 * [2026-07-01, 14:26:07](https://news.ycombinator.com/item?id=48747389) - [Sony Deletes 551 Movies PlayStation Owners Paid For](https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for)
 * [2026-07-01, 14:20:52](https://news.ycombinator.com/item?id=48747304) - [For First Time, a Cell Built from Scratch Grows and Divides](https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/)
 * [2026-07-01, 14:06:55](https://news.ycombinator.com/item?id=48747038) - [This Cell Feeds, Grows and Reproduces. and It's Manmade](https://www.nytimes.com/interactive/2026/07/01/science/spudcells-synthetic-cell.html)
+* [2026-07-01, 14:00:29](https://news.ycombinator.com/item?id=48746940) - [The C to Rust migration book](https://mainmatter.com/c-to-rust-migration-book/)
 * [2026-07-01, 13:59:13](https://news.ycombinator.com/item?id=48746914) - [Monetization Gateway](https://blog.cloudflare.com/monetization-gateway/)
 * [2026-07-01, 13:54:25](https://news.ycombinator.com/item?id=48746842) - [Your Kids' School Bus Is About to Become a Roaming Surveillance Vehicle](https://www.thedrive.com/news/your-kids-school-bus-is-about-to-become-a-roaming-surveillance-vehicle)
 * [2026-07-01, 13:48:44](https://news.ycombinator.com/item?id=48746752) - [Launch HN: Parsewise (YC P25) – Reason Across Documents with an API](https://news.ycombinator.com/item?id=48746752)
