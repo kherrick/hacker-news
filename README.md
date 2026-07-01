@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-01, 18:12:18](https://news.ycombinator.com/item?id=48750989) - [Weave Robotics launches Isaac 1, a $7,999 home robot with fall 2026 deliveries](https://runtimewire.com/article/weave-robotics-isaac-1-home-robot-launch)
 * [2026-07-01, 17:53:44](https://news.ycombinator.com/item?id=48750710) - [What to Learn to Be a Graphics Programmer](https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/)
 * [2026-07-01, 17:45:17](https://news.ycombinator.com/item?id=48750593) - [Building Gin: Simple over Easy](https://manualmeida.dev/articles/gin-simple-over-easy/)
 * [2026-07-01, 17:41:00](https://news.ycombinator.com/item?id=48750527) - [Hanami 3.0: In Full Bloom](https://hanakai.org/blog/2026/06/30/hanami-3-0-in-full-bloom)
-* [2026-07-01, 17:32:15](https://news.ycombinator.com/item?id=48750427) - [Chasing the OPNsense RCE: The Story Behind My First CVEs](https://hackerask.com/posts/opnsense/)
 * [2026-07-01, 17:21:07](https://news.ycombinator.com/item?id=48750247) - [Are readers generating fiction with AI models?](https://arxiv.org/abs/2606.22748)
 * [2026-07-01, 17:05:00](https://news.ycombinator.com/item?id=48750000) - [A complete ClickHouse OLAP engine, compiled to WebAssembly](https://wasm.chdb.io/)
 * [2026-07-01, 16:50:02](https://news.ycombinator.com/item?id=48749752) - [Show HN: Pglayers – PostgreSQL extensions as stackable Docker layers](https://github.com/pglayers/pglayers)
