@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-07-01](index.md)
 
+* [2026-07-01, 17:55:03](https://news.ycombinator.com/item?id=48750737) - [Show HN: LIBR tracing with source ledger rows and byte-exact PDF verification](https://exitprotocols.com/engineering/libr-state-machine/)
+* [2026-07-01, 17:53:44](https://news.ycombinator.com/item?id=48750710) - [What to Learn to Be a Graphics Programmer](https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/)
+* [2026-07-01, 17:50:25](https://news.ycombinator.com/item?id=48750661) - [My OSCP Pentesting Cheatsheet](https://hackerask.com/posts/pentesting-cheatsheet/)
+* [2026-07-01, 17:32:15](https://news.ycombinator.com/item?id=48750427) - [Chasing the OPNsense RCE: The Story Behind My First CVEs](https://hackerask.com/posts/opnsense/)
+* [2026-07-01, 17:21:07](https://news.ycombinator.com/item?id=48750247) - [Are readers generating fiction with AI models?](https://arxiv.org/abs/2606.22748)
+* [2026-07-01, 16:50:02](https://news.ycombinator.com/item?id=48749752) - [Show HN: Pglayers – PostgreSQL extensions as stackable Docker layers](https://github.com/pglayers/pglayers)
 * [2026-07-01, 16:19:47](https://news.ycombinator.com/item?id=48749313) - [Reduce GVisor Cold Starts with GPU Snapshotting](https://cerebrium.ai/blog/reducing-gpu-cold-starts-with-memory-snapshots-restoring-cuda-workloads-in-second)
 * [2026-07-01, 15:57:51](https://news.ycombinator.com/item?id=48748951) - [Solid and Clean Code never felt solid or clean to me](https://devz.cl/posts/solid-never-felt-solid/)
 * [2026-07-01, 15:40:56](https://news.ycombinator.com/item?id=48748679) - [Meta loses bid to dismiss US states' claims that FB, Instagram addict children](https://www.reuters.com/legal/government/meta-loses-bid-dismiss-us-states-claims-that-facebook-instagram-addict-children-2026-06-30/)
