@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-07-01](index.md)
 
+* [2026-07-01, 19:35:57](https://news.ycombinator.com/item?id=48752030) - [Fable 5 Is Back](https://twitter.com/claudeai/status/2072402636813607381)
+* [2026-07-01, 19:31:46](https://news.ycombinator.com/item?id=48751978) - [Claude Fable 5 Promotional Access](https://support.claude.com/en/articles/15424964-claude-fable-5-promotional-access)
+* [2026-07-01, 19:18:11](https://news.ycombinator.com/item?id=48751824) - [Show HN: Z-Jail – A 130 KB Linux sandbox-C99 with 7 defense layers and zero deps](https://github.com/Division-36/Z-Jail/)
+* [2026-07-01, 19:11:38](https://news.ycombinator.com/item?id=48751752) - [ZCode: Claude Code from the Makers of GLM](https://zcode.z.ai/cn)
 * [2026-07-01, 18:12:18](https://news.ycombinator.com/item?id=48750989) - [Weave Robotics launches Isaac 1, a $7,999 home robot with fall 2026 deliveries](https://runtimewire.com/article/weave-robotics-isaac-1-home-robot-launch)
 * [2026-07-01, 17:55:03](https://news.ycombinator.com/item?id=48750737) - [Show HN: LIBR tracing with source ledger rows and byte-exact PDF verification](https://exitprotocols.com/engineering/libr-state-machine/)
 * [2026-07-01, 17:53:44](https://news.ycombinator.com/item?id=48750710) - [What to Learn to Be a Graphics Programmer](https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/)
@@ -11,6 +15,7 @@
 * [2026-07-01, 17:45:17](https://news.ycombinator.com/item?id=48750593) - [Building Gin: Simple over Easy](https://manualmeida.dev/articles/gin-simple-over-easy/)
 * [2026-07-01, 17:41:00](https://news.ycombinator.com/item?id=48750527) - [Hanami 3.0: In Full Bloom](https://hanakai.org/blog/2026/06/30/hanami-3-0-in-full-bloom)
 * [2026-07-01, 17:32:15](https://news.ycombinator.com/item?id=48750427) - [Chasing the OPNsense RCE: The Story Behind My First CVEs](https://hackerask.com/posts/opnsense/)
+* [2026-07-01, 17:29:11](https://news.ycombinator.com/item?id=48750373) - [Mortality associated with non-optimal ambient temperatures from 2000 to 2019](https://www.researchgate.net/publication/353058947_Global_regional_and_national_burden_of_mortality_associated_with_non-optimal_ambient_temperatures_from_2000_to_2019_a_three-stage_modelling_study)
 * [2026-07-01, 17:21:07](https://news.ycombinator.com/item?id=48750247) - [Are readers generating fiction with AI models?](https://arxiv.org/abs/2606.22748)
 * [2026-07-01, 17:05:00](https://news.ycombinator.com/item?id=48750000) - [A complete ClickHouse OLAP engine, compiled to WebAssembly](https://wasm.chdb.io/)
 * [2026-07-01, 16:50:02](https://news.ycombinator.com/item?id=48749752) - [Show HN: Pglayers – PostgreSQL extensions as stackable Docker layers](https://github.com/pglayers/pglayers)
