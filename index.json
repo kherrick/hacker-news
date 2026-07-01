@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-07-01, 12:13:34",
+      "https://news.ycombinator.com/item?id=48745456"
+    ],
+    [
+      "Physical disc production ending in Jan 2028 for new games on PlayStation",
+      "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/"
+    ]
+  ],
+  [
+    [
+      "2026-07-01, 11:35:20",
+      "https://news.ycombinator.com/item?id=48745113"
+    ],
+    [
+      "Nintendo has raised its employees base salary by 10%",
+      "https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/"
+    ]
+  ],
+  [
+    [
+      "2026-07-01, 11:28:26",
+      "https://news.ycombinator.com/item?id=48745061"
+    ],
+    [
+      "Swedish court says Google is to pay $1.5B to Klarna in antitrust damages",
+      "https://www.reuters.com/business/swedish-court-says-google-is-pay-15-billion-klarna-antitrust-damages-2026-07-01/"
+    ]
+  ],
+  [
+    [
+      "2026-07-01, 10:45:59",
+      "https://news.ycombinator.com/item?id=48744778"
+    ],
+    [
+      "Show HN: HackerNows – Native iOS HN Client",
+      "https://hackernows.app/"
+    ]
+  ],
+  [
+    [
       "2026-07-01, 10:26:45",
       "https://news.ycombinator.com/item?id=48744655"
     ],
@@ -81,16 +121,6 @@
   ],
   [
     [
-      "2026-07-01, 05:09:30",
-      "https://news.ycombinator.com/item?id=48742483"
-    ],
-    [
-      "The first early human eggs from stem cells",
-      "https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells"
-    ]
-  ],
-  [
-    [
       "2026-07-01, 03:52:55",
       "https://news.ycombinator.com/item?id=48742049"
     ],
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2026-06-30, 21:29:13",
-      "https://news.ycombinator.com/item?id=48739466"
-    ],
-    [
-      "From brain waves to words: a new path to communication without surgery",
-      "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1"
-    ]
-  ],
-  [
-    [
       "2026-06-30, 20:48:36",
       "https://news.ycombinator.com/item?id=48738985"
     ],
@@ -167,16 +187,6 @@
     [
       "Leanstral 1.5",
       "https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06"
-    ]
-  ],
-  [
-    [
-      "2026-06-30, 19:47:24",
-      "https://news.ycombinator.com/item?id=48738262"
-    ],
-    [
-      "Tokyo has only two barley tea makers, we visited one to see how mugicha is made",
-      "https://soranews24.com/2026/06/30/tokyo-has-only-two-barley-tea-makers-and-we-visited-one-to-see-how-mugicha-is-made/"
     ]
   ],
   [
@@ -241,12 +251,12 @@
   ],
   [
     [
-      "2026-06-29, 14:15:40",
-      "https://news.ycombinator.com/item?id=48719573"
+      "2026-06-29, 16:30:00",
+      "https://news.ycombinator.com/item?id=48721345"
     ],
     [
-      "I Don't Maintain My Homelab",
-      "https://cleberg.net/blog/homelab-maintenance.html"
+      "A deep dive into SmallVector:push_back",
+      "https://maskray.me/blog/2026-06-27-a-deep-dive-into-smallvector-push-back"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Newly discovered spider builds spring loaded snare to catch ants",
       "https://phys.org/news/2026-06-newly-australian-ballista-spider-snare.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-28, 19:37:45",
-      "https://news.ycombinator.com/item?id=48710770"
-    ],
-    [
-      "Ante: A new way to blend borrow checking and reference counting",
-      "https://verdagon.dev/blog/ante-blending-borrowing-rc"
     ]
   ],
   [
