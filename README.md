@@ -2,12 +2,12 @@
 
 * [2026-06-30, 22:34:23](https://news.ycombinator.com/item?id=48740135) - [Hatari – Online Atari ST/STE/TT/Falcon Emulator](https://hatari.frama.io/hatari/online/hatari.html)
 * [2026-06-30, 22:08:38](https://news.ycombinator.com/item?id=48739919) - [TabFM: A zero-shot foundation model for tabular data](https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/)
+* [2026-06-30, 21:48:43](https://news.ycombinator.com/item?id=48739682) - [Gone but Not Forgotten: Recovering the Dead Web](https://blog.archive.org/2026/04/23/gone-but-not-forgotten-recovering-the-dead-web/)
 * [2026-06-30, 21:29:15](https://news.ycombinator.com/item?id=48739467) - [Understanding lattice risks: Many differences between marketing and reality](https://blog.cr.yp.to/20260630-risk.html)
 * [2026-06-30, 21:29:13](https://news.ycombinator.com/item?id=48739466) - [From brain waves to words: a new path to communication without surgery](https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1)
 * [2026-06-30, 20:48:36](https://news.ycombinator.com/item?id=48738985) - [I ported Kubernetes to the browser](https://ngrok.com/blog/i-ported-kubernetes-to-the-browser)
 * [2026-06-30, 20:44:56](https://news.ycombinator.com/item?id=48738938) - [Leanstral 1.5](https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06)
 * [2026-06-30, 19:47:24](https://news.ycombinator.com/item?id=48738262) - [Tokyo has only two barley tea makers, we visited one to see how mugicha is made](https://soranews24.com/2026/06/30/tokyo-has-only-two-barley-tea-makers-and-we-visited-one-to-see-how-mugicha-is-made/)
-* [2026-06-30, 18:12:33](https://news.ycombinator.com/item?id=48736839) - [Amazon seller reveals glimpse of shadow bribery market](https://www.latimes.com/business/story/2026-06-30/shadow-bribery-market-inside-amazon-preys-on-desperate-sellers)
 * [2026-06-30, 17:59:52](https://news.ycombinator.com/item?id=48736605) - [Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5)
 * [2026-06-30, 17:29:36](https://news.ycombinator.com/item?id=48736137) - [I built a mmWave material classification radar (2025)](https://gauthier-lechevalier.com/radar)
 * [2026-06-30, 17:07:41](https://news.ycombinator.com/item?id=48735770) - [Claude Science](https://claude.com/product/claude-science)
