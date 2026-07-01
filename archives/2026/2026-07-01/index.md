@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-01](index.md)
 
+* [2026-07-01, 21:41:06](https://news.ycombinator.com/item?id=48753508) - [Fable open sourced NanoClaw's agent factory. It cost $800](https://twitter.com/Gavriel_Cohen/status/2072432348805669139)
+* [2026-07-01, 21:15:41](https://news.ycombinator.com/item?id=48753220) - [I Left Harry's All-Night Hamburgers](https://escapepod.org/2013/09/14/ep413-why-i-left-harrys-all-night-hamburgers/)
 * [2026-07-01, 21:00:14](https://news.ycombinator.com/item?id=48753045) - [Proliferate (YC S25) Is Hiring](https://www.ycombinator.com/companies/proliferate/jobs/mMHvKR9-founding-product-engineer)
 * [2026-07-01, 20:47:41](https://news.ycombinator.com/item?id=48752905) - [Show HN: Searchable directory of 22k+ products from worker-owned co-ops](https://www.workerowned.info/)
 * [2026-07-01, 20:43:47](https://news.ycombinator.com/item?id=48752843) - [One KW wind turbine without civil engineering](https://www.windtowatt.com/index-en.html)

@@ -13,6 +13,7 @@
 * [2026-06-29, 19:06:17](https://news.ycombinator.com/item?id=48723677) - [JumpServer: Open-Source Privileged Access Management](https://github.com/jumpserver/jumpserver)
 * [2026-06-29, 18:52:25](https://news.ycombinator.com/item?id=48723484) - [CERN bids farewell to the LHC and enters Long Shutdown 3](https://home.cern/cern-bids-farewell-to-the-lhc-and-enters-long-shutdown-3/)
 * [2026-06-29, 18:49:41](https://news.ycombinator.com/item?id=48723452) - [.garden TLD's change to a bad neighborhood](https://discourse.ifin.network/t/garden-tlds-change-to-a-bad-neighborhood/627)
+* [2026-06-29, 18:23:02](https://news.ycombinator.com/item?id=48723102) - [The Apple Disk II Controller Card](https://www.bigmessowires.com/2021/11/12/the-amazing-disk-ii-controller-card/)
 * [2026-06-29, 18:03:26](https://news.ycombinator.com/item?id=48722802) - [Micro-Agent: Beat Frontier Models with Collaboration Inside Model API](https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models)
 * [2026-06-29, 17:52:39](https://news.ycombinator.com/item?id=48722612) - [Structural Correctness](https://blog.sao.dev/structural-correctness/)
 * [2026-06-29, 17:16:17](https://news.ycombinator.com/item?id=48722052) - [Ornith-1.0: self-improving open-source models for agentic coding](https://github.com/deepreinforce-ai/Ornith-1)
