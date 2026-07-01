@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-01, 22:45:41",
+      "https://news.ycombinator.com/item?id=48754128"
+    ],
+    [
+      "US feds are actively hiring \"person who decides which models to ban\"",
+      "https://www.usajobs.gov/job/856265200"
+    ]
+  ],
+  [
+    [
+      "2026-07-01, 22:39:15",
+      "https://news.ycombinator.com/item?id=48754080"
+    ],
+    [
+      "The Underhanded C Contest",
+      "https://underhanded-c.org/"
+    ]
+  ],
+  [
+    [
       "2026-07-01, 22:03:36",
       "https://news.ycombinator.com/item?id=48753715"
     ],
@@ -11,12 +31,12 @@
   ],
   [
     [
-      "2026-07-01, 21:25:49",
-      "https://news.ycombinator.com/item?id=48753342"
+      "2026-07-01, 21:42:57",
+      "https://news.ycombinator.com/item?id=48753524"
     ],
     [
-      "Japan has 41% of the 100-year companies – secrets of 1,447-year survival",
-      "https://www.j-times.org/en/media/articles/japan-shinise-1400-years-2026/"
+      "Chip Off the Old Block",
+      "https://www.astralcodexten.com/p/chip-off-the-old-block"
     ]
   ],
   [
@@ -51,16 +71,6 @@
   ],
   [
     [
-      "2026-07-01, 20:51:52",
-      "https://news.ycombinator.com/item?id=48752949"
-    ],
-    [
-      "OpenWiki: CLI that writes and maintains agent documentation for your codebase",
-      "https://github.com/langchain-ai/openwiki"
-    ]
-  ],
-  [
-    [
       "2026-07-01, 20:47:41",
       "https://news.ycombinator.com/item?id=48752905"
     ],
@@ -87,16 +97,6 @@
     [
       "Weave Robotics launches Isaac 1, a $7,999 home robot with Fall 2026 deliveries",
       "https://www.weaverobotics.com/isaac-1"
-    ]
-  ],
-  [
-    [
-      "2026-07-01, 18:08:44",
-      "https://news.ycombinator.com/item?id=48750934"
-    ],
-    [
-      "Most rewrites serve the engineer, not the business",
-      "https://anatoliybabushka.com/blog/when-to-rewrite-working-code.html"
     ]
   ],
   [
@@ -131,32 +131,12 @@
   ],
   [
     [
-      "2026-07-01, 17:05:00",
-      "https://news.ycombinator.com/item?id=48750000"
-    ],
-    [
-      "A complete ClickHouse OLAP engine, compiled to WebAssembly",
-      "https://wasm.chdb.io/"
-    ]
-  ],
-  [
-    [
       "2026-07-01, 15:30:35",
       "https://news.ycombinator.com/item?id=48748518"
     ],
     [
       "How We Made IPFS Content Publishing 10x Faster",
       "https://probelab.io/blog/optimistic-provide/"
-    ]
-  ],
-  [
-    [
-      "2026-07-01, 15:12:08",
-      "https://news.ycombinator.com/item?id=48748182"
-    ],
-    [
-      "Show HN: GolemUI – Declarative Form Engine",
-      "https://golemui.com"
     ]
   ],
   [
@@ -181,12 +161,12 @@
   ],
   [
     [
-      "2026-07-01, 14:26:07",
-      "https://news.ycombinator.com/item?id=48747389"
+      "2026-07-01, 14:47:06",
+      "https://news.ycombinator.com/item?id=48747733"
     ],
     [
-      "Sony Deletes 551 Movies PlayStation Owners Paid For",
-      "https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for"
+      "The GNU Emacs Architecture: Unlocking the Core [pdf]",
+      "https://www.diva-portal.org/smash/get/diva2:2052282/FULLTEXT01.pdf"
     ]
   ],
   [
@@ -261,22 +241,22 @@
   ],
   [
     [
-      "2026-07-01, 02:14:29",
-      "https://news.ycombinator.com/item?id=48741609"
+      "2026-07-01, 11:35:41",
+      "https://news.ycombinator.com/item?id=48745118"
     ],
     [
-      "Fixing a kubelet memory leak in Kubernetes 1.36",
-      "https://heyoncall.com/blog/fixing-kubernetes-kubelet-memory-leak"
+      "Client-side load balancing at a million requests per second",
+      "https://engineering.zalando.com/posts/2026/06/client-side-load-balancing.html?v=2](https://engineering.zalando.com/posts/2026/06/client-side-load-balancing.html"
     ]
   ],
   [
     [
-      "2026-06-30, 12:21:21",
-      "https://news.ycombinator.com/item?id=48731687"
+      "2026-07-01, 00:22:41",
+      "https://news.ycombinator.com/item?id=48740971"
     ],
     [
-      "Generating Images with a 2025 Android",
-      "https://www.duration.ai/blog/generating-images-with-a-2025-android"
+      "Why jet engines aren't made in China",
+      "https://aakash.substack.com/p/why-jet-engines-arent-made-in-china"
     ]
   ],
   [
@@ -287,6 +267,26 @@
     [
       "The Apple Disk II Controller Card",
       "https://www.bigmessowires.com/2021/11/12/the-amazing-disk-ii-controller-card/"
+    ]
+  ],
+  [
+    [
+      "2026-06-28, 17:59:50",
+      "https://news.ycombinator.com/item?id=48709760"
+    ],
+    [
+      "Flavor Graveyard",
+      "https://www.benjerry.com/flavors/flavor-graveyard"
+    ]
+  ],
+  [
+    [
+      "2026-06-27, 08:13:45",
+      "https://news.ycombinator.com/item?id=48696218"
+    ],
+    [
+      "Show HN: Cyclearchive.com – search vintage cycling magazines",
+      "https://cyclearchive.com/search/"
     ]
   ],
   [
