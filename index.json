@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-01, 10:07:04",
+      "https://news.ycombinator.com/item?id=48744518"
+    ],
+    [
+      "Asahi Linux 7.1 Progress Report",
+      "https://asahilinux.org/2026/06/progress-report-7-1/"
+    ]
+  ],
+  [
+    [
+      "2026-07-01, 09:57:07",
+      "https://news.ycombinator.com/item?id=48744446"
+    ],
+    [
+      "Pine64 launch $50 smart speaker for Home Assistant tinkerers",
+      "https://www.omgubuntu.co.uk/2026/06/pine64-pinevoice-riscv-smart-speaker-launch"
+    ]
+  ],
+  [
+    [
       "2026-07-01, 09:18:43",
       "https://news.ycombinator.com/item?id=48744213"
     ],
@@ -221,12 +241,12 @@
   ],
   [
     [
-      "2026-06-29, 16:47:40",
-      "https://news.ycombinator.com/item?id=48721617"
+      "2026-06-29, 14:15:40",
+      "https://news.ycombinator.com/item?id=48719573"
     ],
     [
-      "Homemade Transistor from Cadmium Sulfide Photocell (2009)",
-      "http://sparkbangbuzz.com/cds-fet/cds-fet.htm"
+      "I Don't Maintain My Homelab",
+      "https://cleberg.net/blog/homelab-maintenance.html"
     ]
   ],
   [
@@ -241,12 +261,12 @@
   ],
   [
     [
-      "2026-06-28, 21:22:49",
-      "https://news.ycombinator.com/item?id=48711788"
+      "2026-06-28, 20:05:56",
+      "https://news.ycombinator.com/item?id=48711052"
     ],
     [
-      "How information theory saved my word game",
-      "https://motplot.app/helloworld"
+      "Newly discovered spider builds spring loaded snare to catch ants",
+      "https://phys.org/news/2026-06-newly-australian-ballista-spider-snare.html"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2026-06-27, 21:01:43",
-      "https://news.ycombinator.com/item?id=48701721"
-    ],
-    [
-      "Stroustrup's Rule (2024)",
-      "https://buttondown.com/hillelwayne/archive/stroustrups-rule/"
-    ]
-  ],
-  [
-    [
       "2026-06-26, 21:34:07",
       "https://news.ycombinator.com/item?id=48692274"
     ],
     [
       "Pystd, similar-ish functionality with a fraction of the compile time",
       "https://nibblestew.blogspot.com/2026/06/pystd-standard-library-similar-ish.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-26, 17:55:50",
-      "https://news.ycombinator.com/item?id=48689744"
-    ],
-    [
-      "Scaling Laws, Carefully",
-      "https://lilianweng.github.io/posts/2026-06-24-scaling-laws/"
     ]
   ]
 ]
