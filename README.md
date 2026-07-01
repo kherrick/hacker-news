@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-07-01, 05:43:44](https://news.ycombinator.com/item?id=48742717) - [Meta is adding rate limits and soft paywall to smart glasses](https://www.theverge.com/gadgets/959899/meta-ai-glasses-paywall-rate-limit)
+* [2026-07-01, 09:18:43](https://news.ycombinator.com/item?id=48744213) - [Dexter (YC F24) Is Hiring a Founding Engineer in Berlin](https://news.ycombinator.com/item?id=48744213)
+* [2026-07-01, 08:12:40](https://news.ycombinator.com/item?id=48743655) - [Register Korea's First PC 'SE-8001' as a National Important Material](https://www.dongascience.com/en/news/30374)
+* [2026-07-01, 07:43:22](https://news.ycombinator.com/item?id=48743472) - [Godot will no longer accept AI-authored code contributions](https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/)
 * [2026-07-01, 05:13:22](https://news.ycombinator.com/item?id=48742514) - [Matrix Orthogonalization Improves Memory in Recurrent Models](https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/)
 * [2026-07-01, 05:09:30](https://news.ycombinator.com/item?id=48742483) - [The first early human eggs from stem cells](https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells)
 * [2026-07-01, 03:52:55](https://news.ycombinator.com/item?id=48742049) - [Single header Parser Combinators for C](https://github.com/steve-chavez/CParseC)
@@ -19,7 +21,6 @@
 * [2026-06-30, 16:48:37](https://news.ycombinator.com/item?id=48735444) - [Nano Banana 2 Lite](https://deepmind.google/models/gemini-image/flash-lite/)
 * [2026-06-30, 15:44:24](https://news.ycombinator.com/item?id=48734373) - [Claude Code is steganographically marking requests](https://thereallo.dev/blog/claude-code-prompt-steganography)
 * [2026-06-30, 14:15:29](https://news.ycombinator.com/item?id=48733043) - [Have you restarted your computer this week?](https://taonaw.com/2026/06/27/have-you-restarted-your-computer.html)
-* [2026-06-29, 19:52:51](https://news.ycombinator.com/item?id=48724274) - [Segmenting Robot Video into Actionable Subtasks](https://macrodata.co/blog/annotating-robot-video-subtasks)
 * [2026-06-29, 18:52:25](https://news.ycombinator.com/item?id=48723484) - [CERN bids farewell to the LHC and enters Long Shutdown 3](https://home.cern/cern-bids-farewell-to-the-lhc-and-enters-long-shutdown-3/)
 * [2026-06-29, 16:47:40](https://news.ycombinator.com/item?id=48721617) - [Homemade Transistor from Cadmium Sulfide Photocell (2009)](http://sparkbangbuzz.com/cds-fet/cds-fet.htm)
 * [2026-06-28, 22:16:20](https://news.ycombinator.com/item?id=48712289) - [How does a pull-back car work? Illustrated teardown](https://mechanical-pencil.com/products/car)
@@ -29,7 +30,6 @@
 * [2026-06-27, 21:01:43](https://news.ycombinator.com/item?id=48701721) - [Stroustrup's Rule (2024)](https://buttondown.com/hillelwayne/archive/stroustrups-rule/)
 * [2026-06-26, 21:34:07](https://news.ycombinator.com/item?id=48692274) - [Pystd, similar-ish functionality with a fraction of the compile time](https://nibblestew.blogspot.com/2026/06/pystd-standard-library-similar-ish.html)
 * [2026-06-26, 17:55:50](https://news.ycombinator.com/item?id=48689744) - [Scaling Laws, Carefully](https://lilianweng.github.io/posts/2026-06-24-scaling-laws/)
-* [2026-06-24, 21:41:29](https://news.ycombinator.com/item?id=48665958) - [Long Island's decommissioned nuclear power plant](https://nickcarr.com/scouting-a-decommissioned-nuclear-power-plant/)
 
 ## [Archives](archives/index.md)
 
