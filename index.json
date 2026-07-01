@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-01, 01:23:09",
+      "https://news.ycombinator.com/item?id=48741359"
+    ],
+    [
+      "Forestiere Underground Gardens",
+      "https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens"
+    ]
+  ],
+  [
+    [
       "2026-06-30, 23:55:12",
       "https://news.ycombinator.com/item?id=48740771"
     ],
@@ -47,6 +57,16 @@
     [
       "From brain waves to words: a new path to communication without surgery",
       "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1"
+    ]
+  ],
+  [
+    [
+      "2026-06-30, 20:52:04",
+      "https://news.ycombinator.com/item?id=48739038"
+    ],
+    [
+      "Show HN: Morph Reflexes – Multi-head classifiers for agent traces",
+      "https://news.ycombinator.com/item?id=48739038"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2026-06-30, 02:39:56",
-      "https://news.ycombinator.com/item?id=48727953"
-    ],
-    [
-      "Loko Scheme 0.13.0",
-      "https://weinholt.se/articles/loko-scheme-0-13-0/"
-    ]
-  ],
-  [
-    [
       "2026-06-29, 18:52:25",
       "https://news.ycombinator.com/item?id=48723484"
     ],
@@ -235,7 +245,7 @@
       "https://news.ycombinator.com/item?id=48707527"
     ],
     [
-      "Deriving SVD without even aiming at it",
+      "Deriving the SVD (Single Value Decomposition) from scratch",
       "https://stillthinking.net/posts/connections-in-math-svd/"
     ]
   ],
@@ -247,16 +257,6 @@
     [
       "Building a custom octocopter from scratch with no prior hardware experience",
       "https://karolina.mgdubiel.com/drone/"
-    ]
-  ],
-  [
-    [
-      "2026-06-27, 23:45:45",
-      "https://news.ycombinator.com/item?id=48702917"
-    ],
-    [
-      "I built a 10 inch mini rack from aluminium extrusions",
-      "https://louwrentius.com/i-build-a-10-inch-mini-rack-from-aluminium-extrusions.html"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2026-06-26, 17:55:50",
+      "https://news.ycombinator.com/item?id=48689744"
+    ],
+    [
+      "Scaling Laws, Carefully",
+      "https://lilianweng.github.io/posts/2026-06-24-scaling-laws/"
+    ]
+  ],
+  [
+    [
       "2026-06-24, 21:41:29",
       "https://news.ycombinator.com/item?id=48665958"
     ],
     [
       "Long Island's decommissioned nuclear power plant",
       "https://nickcarr.com/scouting-a-decommissioned-nuclear-power-plant/"
-    ]
-  ],
-  [
-    [
-      "2026-06-24, 14:13:47",
-      "https://news.ycombinator.com/item?id=48660258"
-    ],
-    [
-      "RF hacking my cloud-controlled ceiling fan",
-      "https://samwilkinson.io/posts/2026-06-24-rf-hacking-dreo"
     ]
   ]
 ]
