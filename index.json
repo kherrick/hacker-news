@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-01, 03:11:40",
+      "https://news.ycombinator.com/item?id=48741853"
+    ],
+    [
+      "Redeploying Fable 5",
+      "https://www.anthropic.com/news/redeploying-fable-5"
+    ]
+  ],
+  [
+    [
+      "2026-07-01, 02:26:22",
+      "https://news.ycombinator.com/item?id=48741654"
+    ],
+    [
+      "Supersonic flight returning to US after half-century ban",
+      "https://www.forbes.com/sites/suzannerowankelleher/2026/06/30/faa-supersonic-flight-no-boom/"
+    ]
+  ],
+  [
+    [
       "2026-07-01, 01:23:09",
       "https://news.ycombinator.com/item?id=48741359"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2026-06-30, 16:48:47",
-      "https://news.ycombinator.com/item?id=48735446"
-    ],
-    [
-      "Show HN: My 13-year-old built an ant colony tracker",
-      "https://formicarium.es"
-    ]
-  ],
-  [
-    [
       "2026-06-30, 16:48:37",
       "https://news.ycombinator.com/item?id=48735444"
     ],
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2026-06-30, 13:49:04",
-      "https://news.ycombinator.com/item?id=48732741"
-    ],
-    [
-      "From Julia to Rust: a differentiable tensor stack for scientific computing",
-      "https://tensor4all.org/blog/introducing-tenferro-rs/"
-    ]
-  ],
-  [
-    [
       "2026-06-30, 12:54:01",
       "https://news.ycombinator.com/item?id=48732056"
     ],
@@ -187,6 +187,16 @@
     [
       "Memoirs of Extraordinary Popular Delusions and the Madness of Crowds (1852)",
       "https://www.gutenberg.org/ebooks/24518"
+    ]
+  ],
+  [
+    [
+      "2026-06-29, 19:52:51",
+      "https://news.ycombinator.com/item?id=48724274"
+    ],
+    [
+      "Segmenting Robot Video into Actionable Subtasks",
+      "https://macrodata.co/blog/annotating-robot-video-subtasks"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Ante: A new way to blend borrow checking and reference counting",
       "https://verdagon.dev/blog/ante-blending-borrowing-rc"
-    ]
-  ],
-  [
-    [
-      "2026-06-28, 14:24:06",
-      "https://news.ycombinator.com/item?id=48707558"
-    ],
-    [
-      "Hengefinder",
-      "https://hengefinder.com/"
     ]
   ],
   [
