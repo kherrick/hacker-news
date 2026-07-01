@@ -78,4 +78,5 @@
 * [2026-06-28, 01:22:30](https://news.ycombinator.com/item?id=48703418) - [Turning music into a chore is how I became a musician](https://the.scapegoat.dev/turning-music-into-a-chore-is-what-made-me-an-artist/)
 * [2026-06-28, 01:21:20](https://news.ycombinator.com/item?id=48703412) - [Show HN: Decomp Academy – Learn to decompile GameCube games into matching C](https://decomp-academy.dev)
 * [2026-06-28, 00:46:52](https://news.ycombinator.com/item?id=48703258) - [AMD Strix Halo RDMA Cluster Setup Guide](https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md)
+* [2026-06-28, 00:37:42](https://news.ycombinator.com/item?id=48703200) - [Show HN: QR code renderer in a TrueType font](https://qr.jim.sh/)
 * [2026-06-28, 00:15:17](https://news.ycombinator.com/item?id=48703083) - [America's Large Homebuilders Shift the Cost of Shoddy Construction to Buyers](https://hntrbrk.com/investigations/homebuilders)
