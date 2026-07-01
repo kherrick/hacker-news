@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-07-01](index.md)
 
+* [2026-07-01, 22:45:41](https://news.ycombinator.com/item?id=48754128) - [US feds are actively hiring \"person who decides which models to ban\"](https://www.usajobs.gov/job/856265200)
+* [2026-07-01, 22:39:15](https://news.ycombinator.com/item?id=48754080) - [The Underhanded C Contest](https://underhanded-c.org/)
 * [2026-07-01, 22:03:36](https://news.ycombinator.com/item?id=48753715) - [ZCode – Harness for GLM-5.2](https://zcode.z.ai/en)
+* [2026-07-01, 21:42:57](https://news.ycombinator.com/item?id=48753524) - [Chip Off the Old Block](https://www.astralcodexten.com/p/chip-off-the-old-block)
 * [2026-07-01, 21:41:06](https://news.ycombinator.com/item?id=48753508) - [Fable open sourced NanoClaw's agent factory. It cost $800](https://twitter.com/Gavriel_Cohen/status/2072432348805669139)
 * [2026-07-01, 21:25:49](https://news.ycombinator.com/item?id=48753342) - [Japan has 41% of the 100-year companies – secrets of 1,447-year survival](https://www.j-times.org/en/media/articles/japan-shinise-1400-years-2026/)
 * [2026-07-01, 21:15:41](https://news.ycombinator.com/item?id=48753220) - [I Left Harry's All-Night Hamburgers](https://escapepod.org/2013/09/14/ep413-why-i-left-harrys-all-night-hamburgers/)
@@ -39,6 +42,7 @@
 * [2026-07-01, 15:01:21](https://news.ycombinator.com/item?id=48747975) - [Ask HN: Who wants to be hired? (July 2026)](https://news.ycombinator.com/item?id=48747975)
 * [2026-07-01, 14:57:38](https://news.ycombinator.com/item?id=48747916) - [SpudCell: The first synthetic cell with a complete cell cycle](https://biotic.org/research/spudcell/)
 * [2026-07-01, 14:48:59](https://news.ycombinator.com/item?id=48747772) - [The Anti-Palantir Manifesto](https://nym.com/blog/anti-palantir-manifesto)
+* [2026-07-01, 14:47:06](https://news.ycombinator.com/item?id=48747733) - [The GNU Emacs Architecture: Unlocking the Core [pdf]](https://www.diva-portal.org/smash/get/diva2:2052282/FULLTEXT01.pdf)
 * [2026-07-01, 14:27:48](https://news.ycombinator.com/item?id=48747407) - [Ray Tracer in SQL](https://github.com/ClickHouse/RayTracer)
 * [2026-07-01, 14:26:07](https://news.ycombinator.com/item?id=48747389) - [Sony Deletes 551 Movies PlayStation Owners Paid For](https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for)
 * [2026-07-01, 14:20:52](https://news.ycombinator.com/item?id=48747304) - [For First Time, a Cell Built from Scratch Grows and Divides](https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/)
@@ -56,6 +60,7 @@
 * [2026-07-01, 12:13:34](https://news.ycombinator.com/item?id=48745456) - [Physical disc production ending in Jan 2028 for new games on PlayStation](https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/)
 * [2026-07-01, 12:12:17](https://news.ycombinator.com/item?id=48745445) - [Announcing Box3D :: Box2D](https://box2d.org/posts/2026/06/announcing-box3d/)
 * [2026-07-01, 12:10:37](https://news.ycombinator.com/item?id=48745434) - [Show HN: Frond – a frontend runtime for your app's dependency graph](https://frondruntime.dev)
+* [2026-07-01, 11:35:41](https://news.ycombinator.com/item?id=48745118) - [Client-side load balancing at a million requests per second](https://engineering.zalando.com/posts/2026/06/client-side-load-balancing.html?v=2](https://engineering.zalando.com/posts/2026/06/client-side-load-balancing.html)
 * [2026-07-01, 11:35:20](https://news.ycombinator.com/item?id=48745113) - [Nintendo has raised its employees base salary by 10%](https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/)
 * [2026-07-01, 11:28:26](https://news.ycombinator.com/item?id=48745061) - [Swedish court says Google is to pay $1.5B to Klarna in antitrust damages](https://www.reuters.com/business/swedish-court-says-google-is-pay-15-billion-klarna-antitrust-damages-2026-07-01/)
 * [2026-07-01, 10:45:59](https://news.ycombinator.com/item?id=48744778) - [Show HN: HackerNows – Native iOS HN Client](https://hackernows.app/)
@@ -76,3 +81,4 @@
 * [2026-07-01, 02:26:22](https://news.ycombinator.com/item?id=48741654) - [Supersonic flight returning to US after half-century ban](https://www.forbes.com/sites/suzannerowankelleher/2026/06/30/faa-supersonic-flight-no-boom/)
 * [2026-07-01, 02:14:29](https://news.ycombinator.com/item?id=48741609) - [Fixing a kubelet memory leak in Kubernetes 1.36](https://heyoncall.com/blog/fixing-kubernetes-kubelet-memory-leak)
 * [2026-07-01, 01:23:09](https://news.ycombinator.com/item?id=48741359) - [Forestiere Underground Gardens](https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens)
+* [2026-07-01, 00:22:41](https://news.ycombinator.com/item?id=48740971) - [Why jet engines aren't made in China](https://aakash.substack.com/p/why-jet-engines-arent-made-in-china)

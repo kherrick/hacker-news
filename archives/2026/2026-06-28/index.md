@@ -26,6 +26,7 @@
 * [2026-06-28, 18:48:53](https://news.ycombinator.com/item?id=48710232) - [GitHub – librepods-org/librepods: AirPods liberated from Apple's ecosystem](https://github.com/librepods-org/librepods)
 * [2026-06-28, 18:32:53](https://news.ycombinator.com/item?id=48710092) - [Historical memory prices 1960-2026](https://dam.stanford.edu/memory-prices.html)
 * [2026-06-28, 18:31:54](https://news.ycombinator.com/item?id=48710082) - [The Cost Yagni Was Never About – By Kent Beck](https://newsletter.kentbeck.com/p/the-cost-yagni-was-never-about)
+* [2026-06-28, 17:59:50](https://news.ycombinator.com/item?id=48709760) - [Flavor Graveyard](https://www.benjerry.com/flavors/flavor-graveyard)
 * [2026-06-28, 17:58:04](https://news.ycombinator.com/item?id=48709744) - [Ornith-1.0: Self-scaffolding LLMs for agentic coding](https://deep-reinforce.com/ornith_1_0.html)
 * [2026-06-28, 17:50:47](https://news.ycombinator.com/item?id=48709670) - [Semgrep: GLM 5.2 beats Claude in our Cyber Benchmarks](https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/)
 * [2026-06-28, 17:49:50](https://news.ycombinator.com/item?id=48709662) - [Who are the fire-tamers?](https://aeon.co/essays/who-are-the-fire-taming-healers-of-modern-france)

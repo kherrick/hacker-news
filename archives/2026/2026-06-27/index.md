@@ -52,6 +52,7 @@
 * [2026-06-27, 10:28:53](https://news.ycombinator.com/item?id=48696982) - [Fintech Engineering Handbook](https://w.pitula.me/fintech-engineering-handbook/)
 * [2026-06-27, 09:18:52](https://news.ycombinator.com/item?id=48696585) - [DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]](https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf)
 * [2026-06-27, 09:06:11](https://news.ycombinator.com/item?id=48696510) - [Beer CSS – Build material design in record time](https://www.beercss.com)
+* [2026-06-27, 08:13:45](https://news.ycombinator.com/item?id=48696218) - [Show HN: Cyclearchive.com – search vintage cycling magazines](https://cyclearchive.com/search/)
 * [2026-06-27, 07:51:26](https://news.ycombinator.com/item?id=48696127) - [Researchers have developed pixels that can emit and analyse light together](https://ethz.ch/en/news-and-events/eth-news/news/2026/06/a-new-type-of-pixel.html)
 * [2026-06-27, 06:22:45](https://news.ycombinator.com/item?id=48695694) - [Is America Becoming a Gerontocracy?](https://www.economist.com/culture/2026/06/25/is-america-becoming-a-gerontocracy)
 * [2026-06-27, 06:00:38](https://news.ycombinator.com/item?id=48695585) - [All Logic, No Bite](https://lcamtuf.substack.com/p/all-logic-no-bite)
