@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-07-01](index.md)
 
+* [2026-07-01, 22:48:56](https://news.ycombinator.com/item?id=48754155) - [Healthy but Sedentary People Show Early Decline in Cellular Energy Production](https://news.cuanschutz.edu/news-stories/healthy-but-sedentary-individuals-show-early-decline-in-cellular-energy-production)
 * [2026-07-01, 22:45:41](https://news.ycombinator.com/item?id=48754128) - [US feds are actively hiring \"person who decides which models to ban\"](https://www.usajobs.gov/job/856265200)
 * [2026-07-01, 22:39:15](https://news.ycombinator.com/item?id=48754080) - [The Underhanded C Contest](https://underhanded-c.org/)
+* [2026-07-01, 22:27:47](https://news.ycombinator.com/item?id=48753979) - [Opening up 'Zero-Knowledge Proof' technology to promote privacy in age assurance](https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/)
 * [2026-07-01, 22:03:36](https://news.ycombinator.com/item?id=48753715) - [ZCode – Harness for GLM-5.2](https://zcode.z.ai/en)
 * [2026-07-01, 21:42:57](https://news.ycombinator.com/item?id=48753524) - [Chip Off the Old Block](https://www.astralcodexten.com/p/chip-off-the-old-block)
 * [2026-07-01, 21:41:06](https://news.ycombinator.com/item?id=48753508) - [Fable open sourced NanoClaw's agent factory. It cost $800](https://twitter.com/Gavriel_Cohen/status/2072432348805669139)

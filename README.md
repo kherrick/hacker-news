@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-07-01, 22:45:41](https://news.ycombinator.com/item?id=48754128) - [US feds are actively hiring \"person who decides which models to ban\"](https://www.usajobs.gov/job/856265200)
+* [2026-07-01, 22:48:56](https://news.ycombinator.com/item?id=48754155) - [Healthy but Sedentary People Show Early Decline in Cellular Energy Production](https://news.cuanschutz.edu/news-stories/healthy-but-sedentary-individuals-show-early-decline-in-cellular-energy-production)
 * [2026-07-01, 22:39:15](https://news.ycombinator.com/item?id=48754080) - [The Underhanded C Contest](https://underhanded-c.org/)
+* [2026-07-01, 22:27:47](https://news.ycombinator.com/item?id=48753979) - [Opening up 'Zero-Knowledge Proof' technology to promote privacy in age assurance](https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/)
 * [2026-07-01, 22:03:36](https://news.ycombinator.com/item?id=48753715) - [ZCode – Harness for GLM-5.2](https://zcode.z.ai/en)
 * [2026-07-01, 21:42:57](https://news.ycombinator.com/item?id=48753524) - [Chip Off the Old Block](https://www.astralcodexten.com/p/chip-off-the-old-block)
 * [2026-07-01, 21:15:41](https://news.ycombinator.com/item?id=48753220) - [I Left Harry's All-Night Hamburgers](https://escapepod.org/2013/09/14/ep413-why-i-left-harrys-all-night-hamburgers/)
@@ -12,7 +13,6 @@
 * [2026-07-01, 18:12:18](https://news.ycombinator.com/item?id=48750989) - [Weave Robotics launches Isaac 1, a $7,999 home robot with Fall 2026 deliveries](https://www.weaverobotics.com/isaac-1)
 * [2026-07-01, 17:53:44](https://news.ycombinator.com/item?id=48750710) - [What to learn to be a graphics programmer](https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/)
 * [2026-07-01, 17:41:00](https://news.ycombinator.com/item?id=48750527) - [Hanami 3.0: In Full Bloom](https://hanakai.org/blog/2026/06/30/hanami-3-0-in-full-bloom)
-* [2026-07-01, 17:29:11](https://news.ycombinator.com/item?id=48750373) - [Mortality associated with non-optimal ambient temperatures from 2000 to 2019](https://www.researchgate.net/publication/353058947_Global_regional_and_national_burden_of_mortality_associated_with_non-optimal_ambient_temperatures_from_2000_to_2019_a_three-stage_modelling_study)
 * [2026-07-01, 15:30:35](https://news.ycombinator.com/item?id=48748518) - [How We Made IPFS Content Publishing 10x Faster](https://probelab.io/blog/optimistic-provide/)
 * [2026-07-01, 15:01:21](https://news.ycombinator.com/item?id=48747976) - [Ask HN: Who is hiring? (July 2026)](https://news.ycombinator.com/item?id=48747976)
 * [2026-07-01, 15:01:21](https://news.ycombinator.com/item?id=48747975) - [Ask HN: Who wants to be hired? (July 2026)](https://news.ycombinator.com/item?id=48747975)
@@ -26,9 +26,9 @@
 * [2026-07-01, 12:12:17](https://news.ycombinator.com/item?id=48745445) - [Box3D, an open source 3D physics engine](https://box2d.org/posts/2026/06/announcing-box3d/)
 * [2026-07-01, 11:35:41](https://news.ycombinator.com/item?id=48745118) - [Client-side load balancing at a million requests per second](https://engineering.zalando.com/posts/2026/06/client-side-load-balancing.html?v=2](https://engineering.zalando.com/posts/2026/06/client-side-load-balancing.html)
 * [2026-07-01, 00:22:41](https://news.ycombinator.com/item?id=48740971) - [Why jet engines aren't made in China](https://aakash.substack.com/p/why-jet-engines-arent-made-in-china)
+* [2026-06-30, 13:59:32](https://news.ycombinator.com/item?id=48732860) - [How do wombats poop cubes? Scientists get to the bottom of the mystery](https://www.science.org/content/article/how-do-wombats-poop-cubes-scientists-get-bottom-mystery)
 * [2026-06-29, 18:23:02](https://news.ycombinator.com/item?id=48723102) - [The Apple Disk II Controller Card](https://www.bigmessowires.com/2021/11/12/the-amazing-disk-ii-controller-card/)
 * [2026-06-28, 17:59:50](https://news.ycombinator.com/item?id=48709760) - [Flavor Graveyard](https://www.benjerry.com/flavors/flavor-graveyard)
-* [2026-06-27, 08:13:45](https://news.ycombinator.com/item?id=48696218) - [Show HN: Cyclearchive.com – search vintage cycling magazines](https://cyclearchive.com/search/)
 * [2026-06-25, 13:15:18](https://news.ycombinator.com/item?id=48672848) - [1-Bit Pixel Art Emojis](https://hypertalking.com/2023/05/15/1-bit-pixel-art-emojis/)
 
 ## [Archives](archives/index.md)
