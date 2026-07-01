@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-07-01, 13:54:25",
+      "https://news.ycombinator.com/item?id=48746842"
+    ],
+    [
+      "Your Kids' School Bus Is About to Become a Roaming Surveillance Vehicle",
+      "https://www.thedrive.com/news/your-kids-school-bus-is-about-to-become-a-roaming-surveillance-vehicle"
+    ]
+  ],
+  [
+    [
+      "2026-07-01, 13:48:44",
+      "https://news.ycombinator.com/item?id=48746752"
+    ],
+    [
+      "Launch HN: Parsewise (YC P25) – Reason Across Documents with an API",
+      "https://news.ycombinator.com/item?id=48746752"
+    ]
+  ],
+  [
+    [
       "2026-07-01, 13:29:29",
       "https://news.ycombinator.com/item?id=48746445"
     ],
     [
       "Why I Stopped Arguing with People",
       "https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-01, 13:27:07",
+      "https://news.ycombinator.com/item?id=48746404"
+    ],
+    [
+      "What's wrong with EU age verification? (Nothing)",
+      "https://blog.vrypan.net/2026/06/29/260629-whats-wrong-with-eu-age-verification/"
     ]
   ],
   [
@@ -21,22 +51,22 @@
   ],
   [
     [
-      "2026-07-01, 12:43:48",
-      "https://news.ycombinator.com/item?id=48745785"
+      "2026-07-01, 12:12:17",
+      "https://news.ycombinator.com/item?id=48745445"
     ],
     [
-      "Sony will no longer produce discs for PlayStation games starting in January 2028",
-      "https://www.eurogamer.net/sony-ending-playstation-discs-physical-media-january-2028"
+      "Announcing Box3D :: Box2D",
+      "https://box2d.org/posts/2026/06/announcing-box3d/"
     ]
   ],
   [
     [
-      "2026-07-01, 12:13:34",
-      "https://news.ycombinator.com/item?id=48745456"
+      "2026-07-01, 12:10:37",
+      "https://news.ycombinator.com/item?id=48745434"
     ],
     [
-      "Physical disc production ending in Jan 2028 for new games on PlayStation",
-      "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/"
+      "Show HN: Frond – a frontend runtime for your app's dependency graph",
+      "https://frondruntime.dev"
     ]
   ],
   [
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2026-07-01, 08:12:40",
-      "https://news.ycombinator.com/item?id=48743655"
-    ],
-    [
-      "Register Korea's First PC 'SE-8001' as a National Important Material",
-      "https://www.dongascience.com/en/news/30374"
-    ]
-  ],
-  [
-    [
       "2026-07-01, 07:43:22",
       "https://news.ycombinator.com/item?id=48743472"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2026-07-01, 01:23:09",
-      "https://news.ycombinator.com/item?id=48741359"
-    ],
-    [
-      "Forestiere Underground Gardens",
-      "https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens"
-    ]
-  ],
-  [
-    [
       "2026-06-30, 23:55:12",
       "https://news.ycombinator.com/item?id=48740771"
     ],
@@ -167,16 +177,6 @@
     [
       "Google copybara: moving code between repositories",
       "https://github.com/google/copybara"
-    ]
-  ],
-  [
-    [
-      "2026-06-30, 20:48:36",
-      "https://news.ycombinator.com/item?id=48738985"
-    ],
-    [
-      "I ported Kubernetes to the browser",
-      "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser"
     ]
   ],
   [
@@ -227,6 +227,16 @@
     [
       "Claude Code is steganographically marking requests",
       "https://thereallo.dev/blog/claude-code-prompt-steganography"
+    ]
+  ],
+  [
+    [
+      "2026-06-30, 13:36:20",
+      "https://news.ycombinator.com/item?id=48732582"
+    ],
+    [
+      "Red Programming Language: Static linking support",
+      "https://www.red-lang.org/2026/06/static-linking-support.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Newly discovered spider builds spring loaded snare to catch ants",
       "https://phys.org/news/2026-06-newly-australian-ballista-spider-snare.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-28, 04:17:44",
-      "https://news.ycombinator.com/item?id=48704289"
-    ],
-    [
-      "Building a custom octocopter from scratch with no prior hardware experience",
-      "https://karolina.mgdubiel.com/drone/"
     ]
   ]
 ]
