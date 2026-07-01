@@ -4,11 +4,18 @@
 
 ### [Archives](../../index.md) for [2026-07-01](index.md)
 
+* [2026-07-01, 14:57:38](https://news.ycombinator.com/item?id=48747916) - [SpudCell: The first synthetic cell with a complete cell cycle](https://biotic.org/research/spudcell/)
+* [2026-07-01, 14:48:59](https://news.ycombinator.com/item?id=48747772) - [The Anti-Palantir Manifesto](https://nym.com/blog/anti-palantir-manifesto)
+* [2026-07-01, 14:26:07](https://news.ycombinator.com/item?id=48747389) - [Sony Deletes 551 Movies PlayStation Owners Paid For](https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for)
+* [2026-07-01, 14:20:52](https://news.ycombinator.com/item?id=48747304) - [For First Time, a Cell Built from Scratch Grows and Divides](https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/)
+* [2026-07-01, 14:06:55](https://news.ycombinator.com/item?id=48747038) - [This Cell Feeds, Grows and Reproduces. and It's Manmade](https://www.nytimes.com/interactive/2026/07/01/science/spudcells-synthetic-cell.html)
+* [2026-07-01, 13:59:13](https://news.ycombinator.com/item?id=48746914) - [Monetization Gateway](https://blog.cloudflare.com/monetization-gateway/)
 * [2026-07-01, 13:54:25](https://news.ycombinator.com/item?id=48746842) - [Your Kids' School Bus Is About to Become a Roaming Surveillance Vehicle](https://www.thedrive.com/news/your-kids-school-bus-is-about-to-become-a-roaming-surveillance-vehicle)
 * [2026-07-01, 13:48:44](https://news.ycombinator.com/item?id=48746752) - [Launch HN: Parsewise (YC P25) – Reason Across Documents with an API](https://news.ycombinator.com/item?id=48746752)
 * [2026-07-01, 13:29:29](https://news.ycombinator.com/item?id=48746445) - [Why I Stopped Arguing with People](https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html)
 * [2026-07-01, 13:27:07](https://news.ycombinator.com/item?id=48746404) - [What's wrong with EU age verification? (Nothing)](https://blog.vrypan.net/2026/06/29/260629-whats-wrong-with-eu-age-verification/)
 * [2026-07-01, 13:22:24](https://news.ycombinator.com/item?id=48746331) - [Manufact (YC S25) Is Hiring a Developer Advocate in SF](https://www.ycombinator.com/companies/manufact/jobs/4cyWd6S-developer-advocate-partnerships-devrel)
+* [2026-07-01, 13:04:16](https://news.ycombinator.com/item?id=48746076) - [Internal Combustion Engine](https://ciechanow.ski/internal-combustion-engine/)
 * [2026-07-01, 12:43:48](https://news.ycombinator.com/item?id=48745785) - [Sony will no longer produce discs for PlayStation games starting in January 2028](https://www.eurogamer.net/sony-ending-playstation-discs-physical-media-january-2028)
 * [2026-07-01, 12:13:34](https://news.ycombinator.com/item?id=48745456) - [Physical disc production ending in Jan 2028 for new games on PlayStation](https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/)
 * [2026-07-01, 12:12:17](https://news.ycombinator.com/item?id=48745445) - [Announcing Box3D :: Box2D](https://box2d.org/posts/2026/06/announcing-box3d/)

@@ -53,6 +53,7 @@
 * [2026-06-25, 13:37:52](https://news.ycombinator.com/item?id=48673197) - [Federating Clusters for Zero-Downtime Kubernetes](https://linkerd.io/2026/06/24/federating-clusters-for-zero-downtime-kubernetes/index.html)
 * [2026-06-25, 13:37:36](https://news.ycombinator.com/item?id=48673194) - [Tell HN: OpenAI has started putting ads on paid programs](https://news.ycombinator.com/item?id=48673194)
 * [2026-06-25, 13:32:12](https://news.ycombinator.com/item?id=48673115) - [A Tiny Compiler for Data-Parallel Kernels](https://healeycodes.com/a-tiny-compiler-for-data-parallel-kernels)
+* [2026-06-25, 13:15:18](https://news.ycombinator.com/item?id=48672848) - [1-Bit Pixel Art Emojis](https://hypertalking.com/2023/05/15/1-bit-pixel-art-emojis/)
 * [2026-06-25, 13:08:31](https://news.ycombinator.com/item?id=48672779) - [Where every major LLM stands politically](https://trakkr.ai/bias)
 * [2026-06-25, 13:07:07](https://news.ycombinator.com/item?id=48672764) - [Countries are competing to see which can carry out mass surveillance the best](https://mullvad.net/en/why-privacy-matters/state-mass-surveillance)
 * [2026-06-25, 13:02:56](https://news.ycombinator.com/item?id=48672732) - [Apple raises prices of MacBooks, iPads](https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/)
