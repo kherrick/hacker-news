@@ -4,10 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-07-01](index.md)
 
+* [2026-07-01, 13:54:25](https://news.ycombinator.com/item?id=48746842) - [Your Kids' School Bus Is About to Become a Roaming Surveillance Vehicle](https://www.thedrive.com/news/your-kids-school-bus-is-about-to-become-a-roaming-surveillance-vehicle)
+* [2026-07-01, 13:48:44](https://news.ycombinator.com/item?id=48746752) - [Launch HN: Parsewise (YC P25) – Reason Across Documents with an API](https://news.ycombinator.com/item?id=48746752)
 * [2026-07-01, 13:29:29](https://news.ycombinator.com/item?id=48746445) - [Why I Stopped Arguing with People](https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html)
+* [2026-07-01, 13:27:07](https://news.ycombinator.com/item?id=48746404) - [What's wrong with EU age verification? (Nothing)](https://blog.vrypan.net/2026/06/29/260629-whats-wrong-with-eu-age-verification/)
 * [2026-07-01, 13:22:24](https://news.ycombinator.com/item?id=48746331) - [Manufact (YC S25) Is Hiring a Developer Advocate in SF](https://www.ycombinator.com/companies/manufact/jobs/4cyWd6S-developer-advocate-partnerships-devrel)
 * [2026-07-01, 12:43:48](https://news.ycombinator.com/item?id=48745785) - [Sony will no longer produce discs for PlayStation games starting in January 2028](https://www.eurogamer.net/sony-ending-playstation-discs-physical-media-january-2028)
 * [2026-07-01, 12:13:34](https://news.ycombinator.com/item?id=48745456) - [Physical disc production ending in Jan 2028 for new games on PlayStation](https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/)
+* [2026-07-01, 12:12:17](https://news.ycombinator.com/item?id=48745445) - [Announcing Box3D :: Box2D](https://box2d.org/posts/2026/06/announcing-box3d/)
+* [2026-07-01, 12:10:37](https://news.ycombinator.com/item?id=48745434) - [Show HN: Frond – a frontend runtime for your app's dependency graph](https://frondruntime.dev)
 * [2026-07-01, 11:35:20](https://news.ycombinator.com/item?id=48745113) - [Nintendo has raised its employees base salary by 10%](https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/)
 * [2026-07-01, 11:28:26](https://news.ycombinator.com/item?id=48745061) - [Swedish court says Google is to pay $1.5B to Klarna in antitrust damages](https://www.reuters.com/business/swedish-court-says-google-is-pay-15-billion-klarna-antitrust-damages-2026-07-01/)
 * [2026-07-01, 10:45:59](https://news.ycombinator.com/item?id=48744778) - [Show HN: HackerNows – Native iOS HN Client](https://hackernows.app/)
