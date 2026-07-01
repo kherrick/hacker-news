@@ -1,22 +1,52 @@
 [
   [
     [
-      "2026-07-01, 03:11:40",
-      "https://news.ycombinator.com/item?id=48741853"
+      "2026-07-01, 05:43:44",
+      "https://news.ycombinator.com/item?id=48742717"
     ],
     [
-      "Redeploying Fable 5",
-      "https://www.anthropic.com/news/redeploying-fable-5"
+      "Meta is adding rate limits and soft paywall to smart glasses",
+      "https://www.theverge.com/gadgets/959899/meta-ai-glasses-paywall-rate-limit"
     ]
   ],
   [
     [
-      "2026-07-01, 02:26:22",
-      "https://news.ycombinator.com/item?id=48741654"
+      "2026-07-01, 05:13:22",
+      "https://news.ycombinator.com/item?id=48742514"
     ],
     [
-      "Supersonic flight returning to US after half-century ban",
-      "https://www.forbes.com/sites/suzannerowankelleher/2026/06/30/faa-supersonic-flight-no-boom/"
+      "Matrix Orthogonalization Improves Memory in Recurrent Models",
+      "https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/"
+    ]
+  ],
+  [
+    [
+      "2026-07-01, 05:09:30",
+      "https://news.ycombinator.com/item?id=48742483"
+    ],
+    [
+      "The first early human eggs from stem cells",
+      "https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells"
+    ]
+  ],
+  [
+    [
+      "2026-07-01, 03:52:55",
+      "https://news.ycombinator.com/item?id=48742049"
+    ],
+    [
+      "Single header Parser Combinators for C",
+      "https://github.com/steve-chavez/CParseC"
+    ]
+  ],
+  [
+    [
+      "2026-07-01, 02:51:36",
+      "https://news.ycombinator.com/item?id=48741748"
+    ],
+    [
+      "ArXiv's Next Chapter",
+      "https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/"
     ]
   ],
   [
@@ -57,16 +87,6 @@
     [
       "Hatari – Online Atari ST/STE/TT/Falcon Emulator",
       "https://hatari.frama.io/hatari/online/hatari.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-30, 22:08:38",
-      "https://news.ycombinator.com/item?id=48739919"
-    ],
-    [
-      "TabFM: A zero-shot foundation model for tabular data",
-      "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/"
     ]
   ],
   [
@@ -171,26 +191,6 @@
   ],
   [
     [
-      "2026-06-30, 12:54:01",
-      "https://news.ycombinator.com/item?id=48732056"
-    ],
-    [
-      "Knoppix",
-      "https://www.knopper.net/knoppix/index-en.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-30, 12:47:51",
-      "https://news.ycombinator.com/item?id=48731989"
-    ],
-    [
-      "Memoirs of Extraordinary Popular Delusions and the Madness of Crowds (1852)",
-      "https://www.gutenberg.org/ebooks/24518"
-    ]
-  ],
-  [
-    [
       "2026-06-29, 19:52:51",
       "https://news.ycombinator.com/item?id=48724274"
     ],
@@ -211,22 +211,12 @@
   ],
   [
     [
-      "2026-06-29, 17:52:39",
-      "https://news.ycombinator.com/item?id=48722612"
+      "2026-06-29, 16:47:40",
+      "https://news.ycombinator.com/item?id=48721617"
     ],
     [
-      "Structural Correctness",
-      "https://blog.sao.dev/structural-correctness/"
-    ]
-  ],
-  [
-    [
-      "2026-06-29, 12:59:49",
-      "https://news.ycombinator.com/item?id=48718716"
-    ],
-    [
-      "Reading the internals of Postgres: Database cluster, databases, and tables",
-      "https://www.buraksen.dev/articles/internals-of-postgresql-db-cluster-and-tables"
+      "Homemade Transistor from Cadmium Sulfide Photocell (2009)",
+      "http://sparkbangbuzz.com/cds-fet/cds-fet.htm"
     ]
   ],
   [
@@ -241,22 +231,22 @@
   ],
   [
     [
+      "2026-06-28, 21:22:49",
+      "https://news.ycombinator.com/item?id=48711788"
+    ],
+    [
+      "How information theory saved my word game",
+      "https://motplot.app/helloworld"
+    ]
+  ],
+  [
+    [
       "2026-06-28, 19:37:45",
       "https://news.ycombinator.com/item?id=48710770"
     ],
     [
       "Ante: A new way to blend borrow checking and reference counting",
       "https://verdagon.dev/blog/ante-blending-borrowing-rc"
-    ]
-  ],
-  [
-    [
-      "2026-06-28, 14:21:17",
-      "https://news.ycombinator.com/item?id=48707527"
-    ],
-    [
-      "Deriving the SVD (Single Value Decomposition) from scratch",
-      "https://stillthinking.net/posts/connections-in-math-svd/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Stroustrup's Rule (2024)",
       "https://buttondown.com/hillelwayne/archive/stroustrups-rule/"
+    ]
+  ],
+  [
+    [
+      "2026-06-26, 21:34:07",
+      "https://news.ycombinator.com/item?id=48692274"
+    ],
+    [
+      "Pystd, similar-ish functionality with a fraction of the compile time",
+      "https://nibblestew.blogspot.com/2026/06/pystd-standard-library-similar-ish.html"
     ]
   ],
   [
