@@ -1,6 +1,66 @@
 [
   [
     [
+      "2026-07-01, 17:55:03",
+      "https://news.ycombinator.com/item?id=48750737"
+    ],
+    [
+      "Show HN: LIBR tracing with source ledger rows and byte-exact PDF verification",
+      "https://exitprotocols.com/engineering/libr-state-machine/"
+    ]
+  ],
+  [
+    [
+      "2026-07-01, 17:53:44",
+      "https://news.ycombinator.com/item?id=48750710"
+    ],
+    [
+      "What to Learn to Be a Graphics Programmer",
+      "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/"
+    ]
+  ],
+  [
+    [
+      "2026-07-01, 17:50:25",
+      "https://news.ycombinator.com/item?id=48750661"
+    ],
+    [
+      "My OSCP Pentesting Cheatsheet",
+      "https://hackerask.com/posts/pentesting-cheatsheet/"
+    ]
+  ],
+  [
+    [
+      "2026-07-01, 17:32:15",
+      "https://news.ycombinator.com/item?id=48750427"
+    ],
+    [
+      "Chasing the OPNsense RCE: The Story Behind My First CVEs",
+      "https://hackerask.com/posts/opnsense/"
+    ]
+  ],
+  [
+    [
+      "2026-07-01, 17:21:07",
+      "https://news.ycombinator.com/item?id=48750247"
+    ],
+    [
+      "Are readers generating fiction with AI models?",
+      "https://arxiv.org/abs/2606.22748"
+    ]
+  ],
+  [
+    [
+      "2026-07-01, 16:50:02",
+      "https://news.ycombinator.com/item?id=48749752"
+    ],
+    [
+      "Show HN: Pglayers – PostgreSQL extensions as stackable Docker layers",
+      "https://github.com/pglayers/pglayers"
+    ]
+  ],
+  [
+    [
       "2026-07-01, 16:19:47",
       "https://news.ycombinator.com/item?id=48749313"
     ],
@@ -17,16 +77,6 @@
     [
       "Solid and Clean Code never felt solid or clean to me",
       "https://devz.cl/posts/solid-never-felt-solid/"
-    ]
-  ],
-  [
-    [
-      "2026-07-01, 15:40:56",
-      "https://news.ycombinator.com/item?id=48748679"
-    ],
-    [
-      "Meta loses bid to dismiss US states' claims that FB, Instagram addict children",
-      "https://www.reuters.com/legal/government/meta-loses-bid-dismiss-us-states-claims-that-facebook-instagram-addict-children-2026-06-30/"
     ]
   ],
   [
@@ -131,16 +181,6 @@
   ],
   [
     [
-      "2026-07-01, 13:29:29",
-      "https://news.ycombinator.com/item?id=48746445"
-    ],
-    [
-      "Most arguments are about ego, not ideas",
-      "https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html"
-    ]
-  ],
-  [
-    [
       "2026-07-01, 13:22:24",
       "https://news.ycombinator.com/item?id=48746331"
     ],
@@ -191,21 +231,11 @@
   ],
   [
     [
-      "2026-07-01, 10:26:45",
-      "https://news.ycombinator.com/item?id=48744655"
-    ],
-    [
-      "A retrospective of my time on the internet",
-      "https://cleberg.net/blog/internet.html"
-    ]
-  ],
-  [
-    [
       "2026-07-01, 10:19:45",
       "https://news.ycombinator.com/item?id=48744606"
     ],
     [
-      "Apple 'Hide My Email' Vulnerability Reveals Peoples' Real Email Addresses",
+      "Apple 'Hide My Email' vulnerability reveals peoples' real email addresses",
       "https://easyoptouts.com/guides/apple-hide-my-email-is-leaking-email-addresses"
     ]
   ],
@@ -221,16 +251,6 @@
   ],
   [
     [
-      "2026-07-01, 02:51:36",
-      "https://news.ycombinator.com/item?id=48741748"
-    ],
-    [
-      "ArXiv's Next Chapter",
-      "https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/"
-    ]
-  ],
-  [
-    [
       "2026-07-01, 02:14:29",
       "https://news.ycombinator.com/item?id=48741609"
     ],
@@ -241,12 +261,12 @@
   ],
   [
     [
-      "2026-06-30, 23:55:12",
-      "https://news.ycombinator.com/item?id=48740771"
+      "2026-06-30, 20:52:04",
+      "https://news.ycombinator.com/item?id=48739038"
     ],
     [
-      "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
-      "https://twitter.com/AnthropicAI/status/2072106151890809341"
+      "Show HN: Morph Reflexes – Multi-head classifiers for agent traces",
+      "https://news.ycombinator.com/item?id=48739038"
     ]
   ],
   [
@@ -257,26 +277,6 @@
     [
       "Red Programming Language: Static linking support",
       "https://www.red-lang.org/2026/06/static-linking-support.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-29, 16:35:20",
-      "https://news.ycombinator.com/item?id=48721434"
-    ],
-    [
-      "Obfuscation: Building the final boss of cryptography (Part I)",
-      "https://vitalik.eth.limo/general/2026/06/29/obfuscation1.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-29, 15:37:30",
-      "https://news.ycombinator.com/item?id=48720682"
-    ],
-    [
-      "Show HN: PMB – local memory for coding agents that shows if it is used",
-      "https://pmbai.dev"
     ]
   ],
   [
