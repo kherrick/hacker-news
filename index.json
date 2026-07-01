@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-01, 21:41:06",
+      "https://news.ycombinator.com/item?id=48753508"
+    ],
+    [
+      "Fable open sourced NanoClaw's agent factory. It cost $800",
+      "https://twitter.com/Gavriel_Cohen/status/2072432348805669139"
+    ]
+  ],
+  [
+    [
+      "2026-07-01, 21:15:41",
+      "https://news.ycombinator.com/item?id=48753220"
+    ],
+    [
+      "I Left Harry's All-Night Hamburgers",
+      "https://escapepod.org/2013/09/14/ep413-why-i-left-harrys-all-night-hamburgers/"
+    ]
+  ],
+  [
+    [
       "2026-07-01, 21:00:14",
       "https://news.ycombinator.com/item?id=48753045"
     ],
@@ -37,16 +57,6 @@
     [
       "Fable 5 Is Back",
       "https://twitter.com/claudeai/status/2072402636813607381"
-    ]
-  ],
-  [
-    [
-      "2026-07-01, 19:18:11",
-      "https://news.ycombinator.com/item?id=48751824"
-    ],
-    [
-      "Show HN: Z-Jail – A 130 KB Linux sandbox-C99 with 7 defense layers and zero deps",
-      "https://github.com/Division-36/Z-Jail/"
     ]
   ],
   [
@@ -131,22 +141,22 @@
   ],
   [
     [
-      "2026-07-01, 16:19:47",
-      "https://news.ycombinator.com/item?id=48749313"
-    ],
-    [
-      "Reduce GVisor Cold Starts with GPU Snapshotting",
-      "https://cerebrium.ai/blog/reducing-gpu-cold-starts-with-memory-snapshots-restoring-cuda-workloads-in-second"
-    ]
-  ],
-  [
-    [
       "2026-07-01, 15:30:35",
       "https://news.ycombinator.com/item?id=48748518"
     ],
     [
       "How We Made IPFS Content Publishing 10x Faster",
       "https://probelab.io/blog/optimistic-provide/"
+    ]
+  ],
+  [
+    [
+      "2026-07-01, 15:12:08",
+      "https://news.ycombinator.com/item?id=48748182"
+    ],
+    [
+      "Show HN: GolemUI – Declarative Form Engine",
+      "https://golemui.com"
     ]
   ],
   [
@@ -205,7 +215,7 @@
       "https://news.ycombinator.com/item?id=48746914"
     ],
     [
-      "Monetization Gateway",
+      "Monetization Gateway: Charge for any resource behind Cloudflare via x402",
       "https://blog.cloudflare.com/monetization-gateway/"
     ]
   ],
@@ -251,26 +261,6 @@
   ],
   [
     [
-      "2026-07-01, 10:19:45",
-      "https://news.ycombinator.com/item?id=48744606"
-    ],
-    [
-      "Apple 'Hide My Email' vulnerability reveals peoples' real email addresses",
-      "https://easyoptouts.com/guides/apple-hide-my-email-is-leaking-email-addresses"
-    ]
-  ],
-  [
-    [
-      "2026-07-01, 10:07:04",
-      "https://news.ycombinator.com/item?id=48744518"
-    ],
-    [
-      "Asahi Linux 7.1 Progress Report",
-      "https://asahilinux.org/2026/06/progress-report-7-1/"
-    ]
-  ],
-  [
-    [
       "2026-07-01, 02:14:29",
       "https://news.ycombinator.com/item?id=48741609"
     ],
@@ -287,6 +277,16 @@
     [
       "Generating Images with a 2025 Android",
       "https://www.duration.ai/blog/generating-images-with-a-2025-android"
+    ]
+  ],
+  [
+    [
+      "2026-06-29, 18:23:02",
+      "https://news.ycombinator.com/item?id=48723102"
+    ],
+    [
+      "The Apple Disk II Controller Card",
+      "https://www.bigmessowires.com/2021/11/12/the-amazing-disk-ii-controller-card/"
     ]
   ],
   [
