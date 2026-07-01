@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-07-01](index.md)
 
+* [2026-07-01, 13:29:29](https://news.ycombinator.com/item?id=48746445) - [Why I Stopped Arguing with People](https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html)
+* [2026-07-01, 13:22:24](https://news.ycombinator.com/item?id=48746331) - [Manufact (YC S25) Is Hiring a Developer Advocate in SF](https://www.ycombinator.com/companies/manufact/jobs/4cyWd6S-developer-advocate-partnerships-devrel)
+* [2026-07-01, 12:43:48](https://news.ycombinator.com/item?id=48745785) - [Sony will no longer produce discs for PlayStation games starting in January 2028](https://www.eurogamer.net/sony-ending-playstation-discs-physical-media-january-2028)
 * [2026-07-01, 12:13:34](https://news.ycombinator.com/item?id=48745456) - [Physical disc production ending in Jan 2028 for new games on PlayStation](https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/)
 * [2026-07-01, 11:35:20](https://news.ycombinator.com/item?id=48745113) - [Nintendo has raised its employees base salary by 10%](https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/)
 * [2026-07-01, 11:28:26](https://news.ycombinator.com/item?id=48745061) - [Swedish court says Google is to pay $1.5B to Klarna in antitrust damages](https://www.reuters.com/business/swedish-court-says-google-is-pay-15-billion-klarna-antitrust-damages-2026-07-01/)
