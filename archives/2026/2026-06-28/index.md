@@ -47,6 +47,7 @@
 * [2026-06-28, 14:35:26](https://news.ycombinator.com/item?id=48707673) - [Flock cameras track more than your license plate, and they're spreading fast](https://www.engadget.com/2203000/flock-cameras-recording-license-plate/)
 * [2026-06-28, 14:24:06](https://news.ycombinator.com/item?id=48707558) - [Hengefinder](https://hengefinder.com/)
 * [2026-06-28, 14:21:48](https://news.ycombinator.com/item?id=48707536) - [Ask HN: Is there a bad employers (who have a records of not paying) list?](https://news.ycombinator.com/item?id=48707536)
+* [2026-06-28, 14:21:17](https://news.ycombinator.com/item?id=48707527) - [Deriving SVD without even aiming at it](https://stillthinking.net/posts/connections-in-math-svd/)
 * [2026-06-28, 14:05:47](https://news.ycombinator.com/item?id=48707361) - [EU Open Sources Ten-Year Network Development Planning Tools](https://github.com/open-energy-transition/open-tyndp)
 * [2026-06-28, 13:59:16](https://news.ycombinator.com/item?id=48707307) - [Ask HN: What is everyone in SF talking about?](https://news.ycombinator.com/item?id=48707307)
 * [2026-06-28, 13:34:14](https://news.ycombinator.com/item?id=48707146) - [Austria Lobbies EU to Host Anthropic After US Access Curbs](https://www.bloomberg.com/news/articles/2026-06-28/austria-lobbies-eu-to-host-anthropic-after-us-access-curbs)
