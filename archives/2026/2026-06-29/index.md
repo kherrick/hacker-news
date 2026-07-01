@@ -29,6 +29,7 @@
 * [2026-06-29, 14:53:41](https://news.ycombinator.com/item?id=48720064) - [Working With AI: A concrete example](https://htmx.org/essays/working-with-ai/)
 * [2026-06-29, 14:27:35](https://news.ycombinator.com/item?id=48719712) - [Data breach exposes up to 14.2M email logins at six ISPs](https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/)
 * [2026-06-29, 14:23:27](https://news.ycombinator.com/item?id=48719665) - [A field guide to the modern front end for developers who hand-wrote HTML](https://davidpoblador.com/deep-dives/the-descent/)
+* [2026-06-29, 14:15:40](https://news.ycombinator.com/item?id=48719573) - [I Don't Maintain My Homelab](https://cleberg.net/blog/homelab-maintenance.html)
 * [2026-06-29, 14:12:55](https://news.ycombinator.com/item?id=48719532) - [Mag 7 starting to underperform [pdf]](https://www.apollo.com/content/dam/apolloaem/pdf/daily-spark/2026/jun/28/062826-Mag7.pdf)
 * [2026-06-29, 14:12:05](https://news.ycombinator.com/item?id=48719521) - [You Don't Know Jack About Formal Verification](https://queue.acm.org/detail.cfm?id=3819084)
 * [2026-06-29, 14:09:24](https://news.ycombinator.com/item?id=48719485) - [Rocketlab acquires Iridium](https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully)

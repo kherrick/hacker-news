@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-01, 10:07:04](https://news.ycombinator.com/item?id=48744518) - [Asahi Linux 7.1 Progress Report](https://asahilinux.org/2026/06/progress-report-7-1/)
+* [2026-07-01, 09:57:07](https://news.ycombinator.com/item?id=48744446) - [Pine64 launch $50 smart speaker for Home Assistant tinkerers](https://www.omgubuntu.co.uk/2026/06/pine64-pinevoice-riscv-smart-speaker-launch)
 * [2026-07-01, 09:18:43](https://news.ycombinator.com/item?id=48744213) - [Dexter (YC F24) Is Hiring a Founding Engineer in Berlin](https://news.ycombinator.com/item?id=48744213)
 * [2026-07-01, 08:12:40](https://news.ycombinator.com/item?id=48743655) - [Register Korea's First PC 'SE-8001' as a National Important Material](https://www.dongascience.com/en/news/30374)
 * [2026-07-01, 07:43:22](https://news.ycombinator.com/item?id=48743472) - [Godot will no longer accept AI-authored code contributions](https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/)
@@ -22,14 +24,12 @@
 * [2026-06-30, 15:44:24](https://news.ycombinator.com/item?id=48734373) - [Claude Code is steganographically marking requests](https://thereallo.dev/blog/claude-code-prompt-steganography)
 * [2026-06-30, 14:15:29](https://news.ycombinator.com/item?id=48733043) - [Have you restarted your computer this week?](https://taonaw.com/2026/06/27/have-you-restarted-your-computer.html)
 * [2026-06-29, 18:52:25](https://news.ycombinator.com/item?id=48723484) - [CERN bids farewell to the LHC and enters Long Shutdown 3](https://home.cern/cern-bids-farewell-to-the-lhc-and-enters-long-shutdown-3/)
-* [2026-06-29, 16:47:40](https://news.ycombinator.com/item?id=48721617) - [Homemade Transistor from Cadmium Sulfide Photocell (2009)](http://sparkbangbuzz.com/cds-fet/cds-fet.htm)
+* [2026-06-29, 14:15:40](https://news.ycombinator.com/item?id=48719573) - [I Don't Maintain My Homelab](https://cleberg.net/blog/homelab-maintenance.html)
 * [2026-06-28, 22:16:20](https://news.ycombinator.com/item?id=48712289) - [How does a pull-back car work? Illustrated teardown](https://mechanical-pencil.com/products/car)
-* [2026-06-28, 21:22:49](https://news.ycombinator.com/item?id=48711788) - [How information theory saved my word game](https://motplot.app/helloworld)
+* [2026-06-28, 20:05:56](https://news.ycombinator.com/item?id=48711052) - [Newly discovered spider builds spring loaded snare to catch ants](https://phys.org/news/2026-06-newly-australian-ballista-spider-snare.html)
 * [2026-06-28, 19:37:45](https://news.ycombinator.com/item?id=48710770) - [Ante: A new way to blend borrow checking and reference counting](https://verdagon.dev/blog/ante-blending-borrowing-rc)
 * [2026-06-28, 04:17:44](https://news.ycombinator.com/item?id=48704289) - [Building a custom octocopter from scratch with no prior hardware experience](https://karolina.mgdubiel.com/drone/)
-* [2026-06-27, 21:01:43](https://news.ycombinator.com/item?id=48701721) - [Stroustrup's Rule (2024)](https://buttondown.com/hillelwayne/archive/stroustrups-rule/)
 * [2026-06-26, 21:34:07](https://news.ycombinator.com/item?id=48692274) - [Pystd, similar-ish functionality with a fraction of the compile time](https://nibblestew.blogspot.com/2026/06/pystd-standard-library-similar-ish.html)
-* [2026-06-26, 17:55:50](https://news.ycombinator.com/item?id=48689744) - [Scaling Laws, Carefully](https://lilianweng.github.io/posts/2026-06-24-scaling-laws/)
 
 ## [Archives](archives/index.md)
 

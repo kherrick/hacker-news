@@ -13,6 +13,7 @@
 * [2026-06-28, 21:42:39](https://news.ycombinator.com/item?id=48711981) - [30-year sentence for transporting zines is a five-alarm fire for free speech](https://theintercept.com/2026/06/26/daniel-sanchez-estrada-zines-prairieland-free-speech/)
 * [2026-06-28, 21:22:49](https://news.ycombinator.com/item?id=48711788) - [How information theory saved my word game](https://motplot.app/helloworld)
 * [2026-06-28, 20:39:50](https://news.ycombinator.com/item?id=48711403) - [POSIX Is Not a Shell](https://alganet.github.io/blog/2026-06-28-12-POSIX-Is-Not-A-Shell.html)
+* [2026-06-28, 20:05:56](https://news.ycombinator.com/item?id=48711052) - [Newly discovered spider builds spring loaded snare to catch ants](https://phys.org/news/2026-06-newly-australian-ballista-spider-snare.html)
 * [2026-06-28, 19:43:10](https://news.ycombinator.com/item?id=48710827) - [Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs](https://github.com/kamaludu/bash4llm/)
 * [2026-06-28, 19:38:14](https://news.ycombinator.com/item?id=48710778) - [Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch](https://github.com/JustVugg/nanoeuler)
 * [2026-06-28, 19:38:00](https://news.ycombinator.com/item?id=48710775) - [TOP500 at ISC'26: We Have a New Number 1 – By George Cozma](https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number)
