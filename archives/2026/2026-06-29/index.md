@@ -17,6 +17,7 @@
 * [2026-06-29, 17:16:17](https://news.ycombinator.com/item?id=48722052) - [Ornith-1.0: self-improving open-source models for agentic coding](https://github.com/deepreinforce-ai/Ornith-1)
 * [2026-06-29, 17:05:16](https://news.ycombinator.com/item?id=48721903) - [Qwen 3.6 27B is the sweet spot for local development](https://quesma.com/blog/qwen-36-is-awesome/)
 * [2026-06-29, 16:47:40](https://news.ycombinator.com/item?id=48721617) - [Homemade Transistor from Cadmium Sulfide Photocell (2009)](http://sparkbangbuzz.com/cds-fet/cds-fet.htm)
+* [2026-06-29, 16:35:20](https://news.ycombinator.com/item?id=48721434) - [Obfuscation: Building the final boss of cryptography (Part I)](https://vitalik.eth.limo/general/2026/06/29/obfuscation1.html)
 * [2026-06-29, 16:27:27](https://news.ycombinator.com/item?id=48721308) - [The Radiation Exposure Lie](https://worksinprogress.co/issue/how-to-lie-about-radiation/)
 * [2026-06-29, 16:07:15](https://news.ycombinator.com/item?id=48721072) - [European ISPs Want Rightsholders Held Accountable for Overblocking Damage](https://torrentfreak.com/european-isps-want-rightsholders-held-accountable-for-overblocking-damage/)
 * [2026-06-29, 16:04:18](https://news.ycombinator.com/item?id=48721031) - [HamsterOS: A graphical desktop OS that fits on a 1.44MB floppy](https://hackaday.com/2026/06/29/hamsteros-crams-complete-graphical-desktop-onto-1-44-mb-floppy/)

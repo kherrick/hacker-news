@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-07-01](index.md)
 
+* [2026-07-01, 10:26:45](https://news.ycombinator.com/item?id=48744655) - [The Internet I Grew Up with Doesn't Exist Anymore](https://cleberg.net/blog/internet.html)
 * [2026-07-01, 10:07:04](https://news.ycombinator.com/item?id=48744518) - [Asahi Linux 7.1 Progress Report](https://asahilinux.org/2026/06/progress-report-7-1/)
 * [2026-07-01, 09:57:07](https://news.ycombinator.com/item?id=48744446) - [Pine64 launch $50 smart speaker for Home Assistant tinkerers](https://www.omgubuntu.co.uk/2026/06/pine64-pinevoice-riscv-smart-speaker-launch)
+* [2026-07-01, 09:21:44](https://news.ycombinator.com/item?id=48744232) - [Single Dose of Frog-Derived Gut Bacterium Eradicates 100% of Tumors in Mice](https://www.thefocalpoints.com/p/new-study-frog-derived-gut-bacterium)
 * [2026-07-01, 09:18:43](https://news.ycombinator.com/item?id=48744213) - [Dexter (YC F24) Is Hiring a Founding Engineer in Berlin](https://news.ycombinator.com/item?id=48744213)
 * [2026-07-01, 08:12:40](https://news.ycombinator.com/item?id=48743655) - [Register Korea's First PC 'SE-8001' as a National Important Material](https://www.dongascience.com/en/news/30374)
 * [2026-07-01, 07:43:22](https://news.ycombinator.com/item?id=48743472) - [Godot will no longer accept AI-authored code contributions](https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/)
