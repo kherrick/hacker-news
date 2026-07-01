@@ -25,6 +25,7 @@
 * [2026-06-29, 16:04:18](https://news.ycombinator.com/item?id=48721031) - [HamsterOS: A graphical desktop OS that fits on a 1.44MB floppy](https://hackaday.com/2026/06/29/hamsteros-crams-complete-graphical-desktop-onto-1-44-mb-floppy/)
 * [2026-06-29, 15:54:24](https://news.ycombinator.com/item?id=48720924) - [US Supreme Court rules geofence warrants require constitutional protections](https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision)
 * [2026-06-29, 15:42:17](https://news.ycombinator.com/item?id=48720758) - [A native graphical shell for SSH](https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html)
+* [2026-06-29, 15:37:30](https://news.ycombinator.com/item?id=48720682) - [Show HN: PMB – local memory for coding agents that shows if it is used](https://pmbai.dev)
 * [2026-06-29, 15:30:37](https://news.ycombinator.com/item?id=48720591) - [Microsoft Needs Windows Lite](https://philipbohun.com/blog/0011.html)
 * [2026-06-29, 15:02:00](https://news.ycombinator.com/item?id=48720190) - [WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter](https://humphri.es/blog/WATaBoy/)
 * [2026-06-29, 15:01:39](https://news.ycombinator.com/item?id=48720186) - [Linux for the Sega MegaDrive](https://github.com/LinuxMD/linuxmd)
