@@ -58,6 +58,7 @@
 * [2026-06-30, 10:16:21](https://news.ycombinator.com/item?id=48730614) - [Lumo 2.0](https://proton.me/blog/lumo-2)
 * [2026-06-30, 10:15:15](https://news.ycombinator.com/item?id=48730608) - [The US ambassador had Belgian police stop our reporting](https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-police-stop-our-reporting)
 * [2026-06-30, 09:15:21](https://news.ycombinator.com/item?id=48730246) - [Antares Achieves Criticality of Mark-0 Reactor](https://antaresindustries.com/updates/antares-achieves-criticality)
+* [2026-06-30, 08:58:41](https://news.ycombinator.com/item?id=48730151) - [Database Traffic Control](https://planetscale.com/blog/introducing-database-traffic-control)
 * [2026-06-30, 05:17:02](https://news.ycombinator.com/item?id=48728740) - [US Supreme Court Just Blew Up EU-US Data Transfers](https://noyb.eu/en/us-supreme-court-just-blew-eu-us-data-transfers)
 * [2026-06-30, 05:14:35](https://news.ycombinator.com/item?id=48728729) - [Popping the GPU Bubble](https://moondream.ai/blog/popping-the-gpu-bubble)
 * [2026-06-30, 04:51:12](https://news.ycombinator.com/item?id=48728599) - [The end of the AArch64 desktop experiment](https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/)
