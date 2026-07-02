@@ -61,6 +61,7 @@
 * [2026-06-28, 13:30:06](https://news.ycombinator.com/item?id=48707103) - [Google limits Meta's use of its Gemini AI models](https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html)
 * [2026-06-28, 12:59:04](https://news.ycombinator.com/item?id=48706903) - [Greece Is Richer. So Why Do So Many Greeks Still Feel Poor?](https://www.dnews.gr/eidhseis/news-in-english/596650/greece-is-richer-so-why-do-so-many-greeks-still-feel-poor)
 * [2026-06-28, 12:55:36](https://news.ycombinator.com/item?id=48706877) - [The origins of the school system aimed to produce independent, critical thinkers](https://www.cbc.ca/radio/ideas/humboldt-education-system-bildung-1.7172093)
+* [2026-06-28, 12:46:20](https://news.ycombinator.com/item?id=48706825) - [How VictoriaLogs Stores Your Logs in a Columnar Layout](https://victoriametrics.com/blog/victorialogs-internals-columnar-storage-on-disk/index.html)
 * [2026-06-28, 12:44:24](https://news.ycombinator.com/item?id=48706814) - [The curious case of the disappearing Polish S](https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/)
 * [2026-06-28, 12:41:45](https://news.ycombinator.com/item?id=48706796) - [The MUMPS 76 Primer – anniversary edition](https://github.com/rochus-keller/MUMPS/blob/main/docs/MUMPS_Primer.adoc)
 * [2026-06-28, 12:27:33](https://news.ycombinator.com/item?id=48706714) - [A way to exclude sensitive files issue still open for OpenAI Codex](https://github.com/openai/codex/issues/2847)

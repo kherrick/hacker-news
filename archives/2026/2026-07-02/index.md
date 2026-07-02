@@ -6,11 +6,13 @@
 
 * [2026-07-02, 16:36:12](https://news.ycombinator.com/item?id=48763963) - [Show HN: QUALITY.md – open format/specification, agent skill, and CLI](https://getquality.md)
 * [2026-07-02, 16:36:09](https://news.ycombinator.com/item?id=48763962) - [EU Court of Justice allows criminal prosecution for reposting RT videos](https://tass.com/world/2154415)
+* [2026-07-02, 16:29:13](https://news.ycombinator.com/item?id=48763864) - [The US Government Is Now a Shareholder in 26 Companies](https://moeonmargin.substack.com/p/the-us-government-is-now-a-shareholder)
 * [2026-07-02, 16:24:49](https://news.ycombinator.com/item?id=48763790) - [24-bit/192kHz music downloads and why they make no sense](https://people.xiph.org/~xiphmont/demo/neil-young.html#toc_wd2bm)
 * [2026-07-02, 15:25:16](https://news.ycombinator.com/item?id=48763035) - [Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory](https://mathstodon.xyz/@iblech/116769502749142438)
 * [2026-07-02, 15:11:20](https://news.ycombinator.com/item?id=48762862) - [Launch HN: Manufact (YC S25) – MCP Cloud](https://manufact.com)
 * [2026-07-02, 15:02:26](https://news.ycombinator.com/item?id=48762725) - [Spain Orders Blacklist of Palantir from Public and Private Companies](https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv)
 * [2026-07-02, 14:19:24](https://news.ycombinator.com/item?id=48762038) - [Show HN: CLI tool for detecting non-exact code duplication with embedding models](https://github.com/rafal-qa/slopo)
+* [2026-07-02, 14:17:23](https://news.ycombinator.com/item?id=48762008) - [No LLM Code in Dependencies](https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/)
 * [2026-07-02, 14:16:57](https://news.ycombinator.com/item?id=48762000) - [Show HN: Mail Memories – A desktop app to rescue photos from Gmail](https://mailmemories.com)
 * [2026-07-02, 13:43:41](https://news.ycombinator.com/item?id=48761536) - [AI can't be listed as inventor on patent applications, Japan's top court rules](https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/)
 * [2026-07-02, 13:41:11](https://news.ycombinator.com/item?id=48761493) - [Show HN: ZeroFS – A log-structured filesystem for S3](https://www.zerofs.net/)
