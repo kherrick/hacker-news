@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-07-02, 19:35:20",
+      "https://news.ycombinator.com/item?id=48766297"
+    ],
+    [
+      "Wireless LAN SD",
+      "https://www.sdcard.org/developers/sd-standard-overview/sdio-isdio/wireless-lan-sd/"
+    ]
+  ],
+  [
+    [
       "2026-07-02, 19:27:38",
       "https://news.ycombinator.com/item?id=48766209"
     ],
@@ -27,6 +37,16 @@
     [
       "Job seekers giving up: Labor force participation falls to lowest in 50 years",
       "https://www.cnbc.com/2026/07/02/job-seekers-giving-up-labor-force-participation-rate-falls-to-lowest-in-50-years-outside-of-covid-era.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-02, 19:10:12",
+      "https://news.ycombinator.com/item?id=48766005"
+    ],
+    [
+      "Claude-real-video － any LLM can watch a video",
+      "https://github.com/HUANGCHIHHUNGLeo/claude-real-video"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2026-07-02, 13:41:11",
-      "https://news.ycombinator.com/item?id=48761493"
-    ],
-    [
-      "Show HN: ZeroFS – A log-structured filesystem for S3",
-      "https://www.zerofs.net/"
-    ]
-  ],
-  [
-    [
       "2026-07-02, 13:29:09",
       "https://news.ycombinator.com/item?id=48761294"
     ],
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2026-07-02, 05:19:34",
-      "https://news.ycombinator.com/item?id=48756840"
-    ],
-    [
-      "CursorBench 3.1",
-      "https://cursor.com/evals"
-    ]
-  ],
-  [
-    [
       "2026-07-02, 04:32:41",
       "https://news.ycombinator.com/item?id=48756602"
     ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2026-06-28, 19:17:42",
-      "https://news.ycombinator.com/item?id=48710537"
+      "2026-06-30, 13:47:17",
+      "https://news.ycombinator.com/item?id=48732716"
     ],
     [
-      "WinPE as a stateless harness for Windows driver testing and fuzzing",
-      "https://bednars.me/blog/winpe-harness"
+      "Modeling the Covid-19 Outbreak with J (2020)",
+      "https://datakinds.github.io//2020/03/15/modeling-the-coronavirus-outbreak-with-j"
     ]
   ],
   [
