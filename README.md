@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-07-02, 22:57:35](https://news.ycombinator.com/item?id=48768464) - [crustc: entirety of `rustc`, translated to C](https://github.com/FractalFir/crustc)
+* [2026-07-02, 22:44:04](https://news.ycombinator.com/item?id=48768336) - [Mystery identity of 'Green Boots' climber is finally solved after DNA test](https://www.dailymail.com/news/article-15943905/Mystery-identity-Green-Boots-climber-macabre-landmark-frozen-ice-dying-Everest-finally-solved-DNA-test.html)
 * [2026-07-02, 21:50:11](https://news.ycombinator.com/item?id=48767834) - [Simple, beautiful Emacs modeline: modusregel](https://codeberg.org/jjba23/modusregel)
 * [2026-07-02, 21:03:45](https://news.ycombinator.com/item?id=48767347) - [Virginia bans sale of geolocation data](https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data)
 * [2026-07-02, 20:01:20](https://news.ycombinator.com/item?id=48766598) - [Lightning Memory-Mapped Database Manager (LMDB) 1.0](http://www.lmdb.tech/doc/)
@@ -20,7 +21,6 @@
 * [2026-07-02, 15:02:26](https://news.ycombinator.com/item?id=48762725) - [Spain Orders Blacklist of Palantir from Public and Private Companies](https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv)
 * [2026-07-02, 14:23:09](https://news.ycombinator.com/item?id=48762098) - [Podman v6.0.0](https://blog.podman.io/2026/07/introducing-podman-v6-0-0/)
 * [2026-07-02, 14:13:26](https://news.ycombinator.com/item?id=48761944) - [Immich 3.0](https://github.com/immich-app/immich/discussions/29439)
-* [2026-07-02, 13:43:41](https://news.ycombinator.com/item?id=48761536) - [AI can't be listed as inventor on patent applications, Japan's top court rules](https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/)
 * [2026-07-02, 13:19:22](https://news.ycombinator.com/item?id=48761118) - [How to ask for help from people who don't know you](https://pradyuprasad.com/writings/how-to-ask-for-help/)
 * [2026-07-02, 13:14:57](https://news.ycombinator.com/item?id=48761068) - [Hazel (YC W24) Is Hiring for Our Largest Government Contract](https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci)
 * [2026-07-02, 11:17:45](https://news.ycombinator.com/item?id=48759634) - [PeerTube is a free, decentralized and federated video platform](https://github.com/Chocobozzz/PeerTube)

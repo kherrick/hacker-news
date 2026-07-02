@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-07-02](index.md)
 
 * [2026-07-02, 22:57:35](https://news.ycombinator.com/item?id=48768464) - [crustc: entirety of `rustc`, translated to C](https://github.com/FractalFir/crustc)
+* [2026-07-02, 22:44:04](https://news.ycombinator.com/item?id=48768336) - [Mystery identity of 'Green Boots' climber is finally solved after DNA test](https://www.dailymail.com/news/article-15943905/Mystery-identity-Green-Boots-climber-macabre-landmark-frozen-ice-dying-Everest-finally-solved-DNA-test.html)
 * [2026-07-02, 21:59:10](https://news.ycombinator.com/item?id=48767914) - [U.S. Officials Believed Israel Was Plotting to Kill Iranian Negotiators](https://www.nytimes.com/2026/07/02/us/politics/israel-iran-negotiators-plot.html)
 * [2026-07-02, 21:50:11](https://news.ycombinator.com/item?id=48767834) - [Simple, beautiful Emacs modeline: modusregel](https://codeberg.org/jjba23/modusregel)
 * [2026-07-02, 21:19:20](https://news.ycombinator.com/item?id=48767515) - [BlastRadar – paste a Git diff, get a production risk score in 10 seconds](https://blastradar.vercel.app/)
