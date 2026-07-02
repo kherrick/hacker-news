@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-06-27](index.md)
 
 * [2026-06-27, 23:45:45](https://news.ycombinator.com/item?id=48702917) - [I built a 10 inch mini rack from aluminium extrusions](https://louwrentius.com/i-build-a-10-inch-mini-rack-from-aluminium-extrusions.html)
+* [2026-06-27, 23:36:25](https://news.ycombinator.com/item?id=48702874) - [Reality has a surprising amount of detail](https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail)
 * [2026-06-27, 23:32:58](https://news.ycombinator.com/item?id=48702848) - [WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups](https://clickhouse.com/blog/walrus-postgres-backups-in-rust)
 * [2026-06-27, 23:30:14](https://news.ycombinator.com/item?id=48702825) - [Apple Neural Engine: Architecture, Programming, and Performance](https://arxiv.org/abs/2606.22283)
 * [2026-06-27, 23:05:33](https://news.ycombinator.com/item?id=48702645) - [Codeberg Is Down](https://social.anoxinon.de/@codebergstatus/116824443563698727)

@@ -12,6 +12,7 @@
 * [2026-06-30, 21:48:43](https://news.ycombinator.com/item?id=48739682) - [Gone but Not Forgotten: Recovering the Dead Web](https://blog.archive.org/2026/04/23/gone-but-not-forgotten-recovering-the-dead-web/)
 * [2026-06-30, 21:29:15](https://news.ycombinator.com/item?id=48739467) - [Understanding lattice risks: Many differences between marketing and reality](https://blog.cr.yp.to/20260630-risk.html)
 * [2026-06-30, 21:29:13](https://news.ycombinator.com/item?id=48739466) - [Meta's brain-scanning system reads sentences non-invasively, code open source](https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1)
+* [2026-06-30, 21:28:32](https://news.ycombinator.com/item?id=48739459) - [Superpowers 6](https://blog.fsck.com/2026/06/15/Superpowers-6/)
 * [2026-06-30, 20:52:04](https://news.ycombinator.com/item?id=48739038) - [Show HN: Morph Reflexes – Multi-head classifiers for agent traces](https://news.ycombinator.com/item?id=48739038)
 * [2026-06-30, 20:48:36](https://news.ycombinator.com/item?id=48738985) - [I ported Kubernetes to the browser](https://ngrok.com/blog/i-ported-kubernetes-to-the-browser)
 * [2026-06-30, 20:44:56](https://news.ycombinator.com/item?id=48738938) - [Leanstral 1.5](https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06)
