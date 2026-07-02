@@ -129,6 +129,283 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="48762862">
+          <h3>
+            <a class="item" href="https://manufact.com"
+              >Launch HN: Manufact (YC S25) – MCP Cloud</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-02 @ 15:11:20</span
+              ><span class="points-container"
+                >Points: <span class="points">38</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48762862"
+                  >Comments</a
+                ><span class="descendants">: 21</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://manufact.com">https://manufact.com</a>), a cloud
+              for MCP apps and servers. We used to be called mcp-use, and still
+              build open source SDKs for MCP under that name:
+              <a href="https://github.com/mcp-use/mcp-use"
+                >https://github.com/mcp-use/mcp-use</a
+              >. We did a Show HN about that last year:
+              <a href="https://news.ycombinator.com/item?id=44747229"
+                >https://news.ycombinator.com/item?id=44747229</a
+              >.
+              <p>
+                Today we want to tell you about our cloud product, Manufact,
+                which is to mcp-use as Vercel is to Next.js. Manufact is an MCP
+                vertical cloud designed for dev teams putting MCP Apps and
+                servers in production.You can ship, iterate on, test and monitor
+                your MCPs, and get them ready for the store submissions. All
+                with the best developer and agent experience in mind.
+              </p>
+              <p>
+                Here is a demo video of the product:
+                <a href="https://www.youtube.com/watch?v=R2rbr5OT9LI"
+                  >https://www.youtube.com/watch?v=R2rbr5OT9LI</a
+                >.
+              </p>
+              <p>
+                We have been working on MCP since April 2025. Our first focus
+                was making it easy to build agents that could use any MCP
+                server, and a lot of people started using our SDKs. Then the
+                harness revolution kicked off: Claude Code, Claude Cowork,
+                ChatGPT, Codex, OpenCode started shipping agent harnesses that
+                made most standalone agent frameworks redundant. That pushed us
+                to the other side of the connection, the servers. If agents were
+                going to consolidate into a few harnesses, then first-class
+                integration with the rest of a company's systems (i.e. MCP)
+                would become the thing that mattered, so we started building up
+                our server SDKs.
+              </p>
+              <p>Then in succession:</p>
+              <p>
+                1. Oct 2025. ChatGPT Apps SDK. OpenAI brings app UIs to ChatGPT,
+                built on top of MCP and the work of mcp-ui. 2. Late 2025. The
+                stores open. ChatGPT starts accepting app submissions, Claude
+                grows its connector directory with selected partners. 3. Jan
+                2026. MCP Apps becomes official. SEP-1865 merges as the first
+                MCP extension (io.modelcontextprotocol/ui): one UI standard any
+                host can render.
+              </p>
+              <p>
+                Today, all the major clients fully support MCP and are opening
+                marketplaces of reviewed MCPs that can be one click installed.
+                All major tech companies have an MCP server, and many of those
+                are reporting that already 15+% of their usage comes from their
+                MCP, and we start to have a good way to distribute them just
+                now.
+              </p>
+              <p>
+                MCP can return fully interactive UIs. So companies can (1)
+                display data in more meaningful ways to their users (e.g.
+                analytics, ecommerce) and (2) display their branding in some of
+                the most used products on the planet (ChatGPT, Claude etc).
+                Numbers: an engineer at Amplitude reported that their MCP saw a
+                2x increase in retention after adding UI to their MCP.
+              </p>
+              <p>
+                Clients (Claude, ChatGPT, Cursor) are starting to dynamically
+                present MCP servers/apps to users, based on their intent.
+                Products will be organically discovered on the chats!
+              </p>
+              <p>
+                We feel that MCP is reaching its maturity moment. Now that MCPs
+                are starting to be easy to install and discover, there is going
+                to be a huge incentive for users to use them and for companies
+                to create them:
+              </p>
+              <p>
+                1 - Most work is already done from AI chats, this is not going
+                to stop, MCP gives you a way to interact with products without
+                manually using their dashboards.
+              </p>
+              <p>
+                2 - MCP allows you to bring the context together in one place:
+                you can read an email, create a ticket while plugged into the
+                source code of your product, or your knowledge base. Aggregation
+                of products that was not possible before, will happen in the
+                chat, orchestrated by increasingly intelligent models.
+              </p>
+              <p>
+                If AI apps (Codex, Claude Desktop) are the new browsers, as PG
+                said in a recent tweet
+                <a href="https://x.com/paulg/status/2069080429236191504"
+                  >https://x.com/paulg/status/2069080429236191504</a
+                >, then MCPs are the new websites.
+              </p>
+              <p>But there is a catch:</p>
+              <p>
+                - Submission process on the stores is still quite tricky, manual
+                and takes up valuable time. - Hardly anybody knows how to design
+                a good MCP: most of them are 1:1 proxies of the API and are
+                abandoned, since being one shotted a few months ago. - The MCP
+                Spec advances quickly and it is not easy to keep track of the
+                changes, and what they mean for your server. - Auth is still a
+                mystery for most teams (API key in the URL ???). - Most
+                companies are not even aware that MCPs can return interactive
+                UIs. - Clients still have to consolidate behavior, some do
+                dynamic tool discovery, some don't, some persist authentication
+                properly some don't.
+              </p>
+              <p>
+                We built Manufact and mcp-use to solve these problems. Our SDKs
+                help them build good MCPs, our inspector helps them test
+                locally, and our cloud helps them ship/publish and monitor them
+                in production.
+              </p>
+              <p>
+                To deploy on Manufact you just need to connect a Github app,
+                pick the repo, we'll detect the framework you are working with
+                and get you a live MCP url as soon as possible.
+              </p>
+              <p>
+                In our platform, that live URL will be used to give you a chat
+                where you can try/debug your MCP immediately and share it with
+                your team. If you push an update on a new experimental branch,
+                you'll be able to test that as well thanks to preview
+                deployments.
+              </p>
+              <p>
+                Once your server is ready to go live, we help you make sure that
+                it does not break. You can configure automated tests that will
+                take your MCP server, install it in ChatGPT and Claude and test
+                it. We do not test the model, we test the client (model +
+                harness). This way you reliably know if your server breaks where
+                people use it.
+              </p>
+              <p>
+                Since publishing on the store is a major distribution unlock for
+                companies (your MCP can be dynamically discovered and one click
+                installed across Claude products, and ChatGPT), we collected a
+                set of requirements that will keep your submission from being
+                rejected. You check this locally before going through the actual
+                review process.
+              </p>
+              <p>
+                Once your server is live, you'll want to understand how it is
+                used. Our analytics are designed for MCP, so you'll know how
+                many users are hitting your MCP, how many tool calls you
+                receive, from which client.
+              </p>
+              <p>
+                You can try out
+                <a href="https://manufact.com">https://manufact.com</a> for free
+                today. We have usage-based pricing and on our free account we
+                give free credits for you to try it out. If you have an MCP
+                already, just connect your Github repo and deploy, if not you
+                can build one using our skill and SDKs pretty simply (we will
+                guide you in the onboarding).
+              </p>
+              <p>
+                We would love to hear feedback about the product in the
+                comments, and hear thoughts from everyone about MCP. Thanks! :)
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="48762038">
+          <h3>
+            <a class="item" href="https://github.com/rafal-qa/slopo"
+              >Show HN: CLI tool for detecting non-exact code duplication with
+              embedding models</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-02 @ 14:19:24</span
+              ><span class="points-container"
+                >Points: <span class="points">19</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48762038"
+                  >Comments</a
+                ><span class="descendants">: 5</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48762000">
+          <h3>
+            <a class="item" href="https://mailmemories.com"
+              >Show HN: Mail Memories – A desktop app to rescue photos from
+              Gmail</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-02 @ 14:16:57</span
+              ><span class="points-container"
+                >Points: <span class="points">55</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48762000"
+                  >Comments</a
+                ><span class="descendants">: 16</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                I originally built and launched this as a SaaS, but even with
+                code and policies in place that kept users' photos private, I
+                figured everyone would feel more comfortable with a desktop app.
+              </p>
+              <p>
+                So, I threw out the server architecture and completely rewrote
+                it as a 100% local desktop app for Mac and Windows.
+              </p>
+              <p>
+                How it works now: The app connects directly to Google's server
+                from your computer, processes everything entirely on your
+                system, and saves photos straight to your hard drive.
+              </p>
+              <p>
+                You can download your 50 oldest photos for free (no credit card
+                required) just to see what's in there. If you want to download
+                all the pictures in your account, it's a one-time payment of
+                $29. No subscriptions.
+              </p>
+              <p>
+                If you have an old, pre-2010 Gmail account, definitely give it a
+                spin. You'll be surprised at what you find deep in your archive.
+              </p>
+              <p>
+                I'd love to hear your feedback on the layout, scanning
+                performance, or anything else.
+              </p>
+              <p>
+                TL;DR: I turned my SaaS into a local desktop app (Mac/Windows)
+                that recovers decades of forgotten photos from your Gmail. 100%
+                local, no cloud, no subscriptions, no AI.
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="48761536">
+          <h3>
+            <a
+              class="item"
+              href="https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/"
+              >AI can't be listed as inventor on patent applications, Japan's
+              top court rules</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-02 @ 13:43:41</span
+              ><span class="points-container"
+                >Points: <span class="points">143</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48761536"
+                  >Comments</a
+                ><span class="descendants">: 55</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="48761493">
           <h3>
             <a class="item" href="https://www.zerofs.net/"
@@ -139,11 +416,75 @@
             <h4>
               <span>2026-07-02 @ 13:41:11</span
               ><span class="points-container"
-                >Points: <span class="points">53</span></span
+                >Points: <span class="points">68</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48761493"
                   >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 35</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48761294">
+          <h3>
+            <a class="item" href="https://freegraphpaper.net/"
+              >Show HN: A graph paper generator that renders vector PDFs in the
+              browser</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-02 @ 13:29:09</span
+              ><span class="points-container"
+                >Points: <span class="points">28</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48761294"
+                  >Comments</a
+                ><span class="descendants">: 5</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48761229">
+          <h3>
+            <a
+              class="item"
+              href="https://www.thebignewsletter.com/p/crime-pays-the-egg-bandits-made-a"
+              >The Egg Bandits Made a Thousand Times the Fine They Just Paid for
+              Price Fixing</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-02 @ 13:25:25</span
+              ><span class="points-container"
+                >Points: <span class="points">108</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48761229"
+                  >Comments</a
+                ><span class="descendants">: 25</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48761132">
+          <h3>
+            <a
+              class="item"
+              href="https://wtf.korridzy.com/twilight-of-the-gods/"
+              >Comparing Fable and 10 other LLMs on refactoring a LangGraph god
+              node</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-02 @ 13:19:56</span
+              ><span class="points-container"
+                >Points: <span class="points">21</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48761132"
+                  >Comments</a
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -160,11 +501,11 @@
             <h4>
               <span>2026-07-02 @ 13:19:22</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">66</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48761118"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -196,11 +537,11 @@
             <h4>
               <span>2026-07-02 @ 12:58:55</span
               ><span class="points-container"
-                >Points: <span class="points">52</span></span
+                >Points: <span class="points">76</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48760840"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 39</span></span
               >
             </h4>
           </section>
@@ -218,54 +559,11 @@
             <h4>
               <span>2026-07-02 @ 12:46:31</span
               ><span class="points-container"
-                >Points: <span class="points">61</span></span
+                >Points: <span class="points">91</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48760669"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48760598">
-          <h3>
-            <a
-              class="item"
-              href="https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/"
-              >AI fake news complaining about how AI fake news is the death of
-              real news</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-02 @ 12:40:36</span
-              ><span class="points-container"
-                >Points: <span class="points">124</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48760598"
-                  >Comments</a
-                ><span class="descendants">: 40</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48760289">
-          <h3>
-            <a
-              class="item"
-              href="https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/"
-              >This blog is written in en-GB</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-02 @ 12:17:33</span
-              ><span class="points-container"
-                >Points: <span class="points">299</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48760289"
-                  >Comments</a
-                ><span class="descendants">: 297</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
@@ -281,7 +579,7 @@
             <h4>
               <span>2026-07-02 @ 12:10:24</span
               ><span class="points-container"
-                >Points: <span class="points">54</span></span
+                >Points: <span class="points">69</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48760201"
                   >Comments</a
@@ -295,18 +593,19 @@
             <a
               class="item"
               href="https://mathstodon.xyz/@mjd/115096720350507897"
-              >Many people misunderstand the purpose of code review</a
+              >The primary purpose of code review is to find code that will be
+              hard to maintain</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-07-02 @ 11:41:27</span
               ><span class="points-container"
-                >Points: <span class="points">138</span></span
+                >Points: <span class="points">180</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48759870"
                   >Comments</a
-                ><span class="descendants">: 91</span></span
+                ><span class="descendants">: 105</span></span
               >
             </h4>
           </section>
@@ -323,32 +622,11 @@
             <h4>
               <span>2026-07-02 @ 11:30:01</span
               ><span class="points-container"
-                >Points: <span class="points">150</span></span
+                >Points: <span class="points">168</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48759761"
                   >Comments</a
-                ><span class="descendants">: 83</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48759256">
-          <h3>
-            <a
-              class="item"
-              href="https://spectrum.ieee.org/orbital-data-center-hype"
-              >Orbital Data Centers: Why the Hype Outpaces Reality</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-02 @ 10:35:17</span
-              ><span class="points-container"
-                >Points: <span class="points">19</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48759256"
-                  >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 96</span></span
               >
             </h4>
           </section>
@@ -366,11 +644,11 @@
             <h4>
               <span>2026-07-02 @ 10:00:27</span
               ><span class="points-container"
-                >Points: <span class="points">297</span></span
+                >Points: <span class="points">308</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48758970"
                   >Comments</a
-                ><span class="descendants">: 201</span></span
+                ><span class="descendants">: 222</span></span
               >
             </h4>
           </section>
@@ -387,11 +665,11 @@
             <h4>
               <span>2026-07-02 @ 08:34:13</span
               ><span class="points-container"
-                >Points: <span class="points">250</span></span
+                >Points: <span class="points">258</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48758309"
                   >Comments</a
-                ><span class="descendants">: 186</span></span
+                ><span class="descendants">: 196</span></span
               >
             </h4>
           </section>
@@ -408,11 +686,11 @@
             <h4>
               <span>2026-07-02 @ 08:01:15</span
               ><span class="points-container"
-                >Points: <span class="points">149</span></span
+                >Points: <span class="points">170</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48758048"
                   >Comments</a
-                ><span class="descendants">: 63</span></span
+                ><span class="descendants">: 73</span></span
               >
             </h4>
           </section>
@@ -429,11 +707,11 @@
             <h4>
               <span>2026-07-02 @ 04:32:41</span
               ><span class="points-container"
-                >Points: <span class="points">292</span></span
+                >Points: <span class="points">304</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48756602"
                   >Comments</a
-                ><span class="descendants">: 125</span></span
+                ><span class="descendants">: 128</span></span
               >
             </h4>
           </section>
@@ -444,18 +722,18 @@
               class="item"
               href="https://f-droid.org/2026/07/01/adv-malware.html"
               >Android Developer Verification: Threat masquerading as
-              Protection</a
+              protection</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-07-02 @ 03:00:15</span
               ><span class="points-container"
-                >Points: <span class="points">1176</span></span
+                >Points: <span class="points">1258</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48755965"
                   >Comments</a
-                ><span class="descendants">: 477</span></span
+                ><span class="descendants">: 518</span></span
               >
             </h4>
           </section>
@@ -472,11 +750,11 @@
             <h4>
               <span>2026-07-02 @ 02:30:16</span
               ><span class="points-container"
-                >Points: <span class="points">442</span></span
+                >Points: <span class="points">463</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48755731"
                   >Comments</a
-                ><span class="descendants">: 279</span></span
+                ><span class="descendants">: 292</span></span
               >
             </h4>
           </section>
@@ -493,33 +771,11 @@
             <h4>
               <span>2026-07-02 @ 00:48:01</span
               ><span class="points-container"
-                >Points: <span class="points">407</span></span
+                >Points: <span class="points">419</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48755005"
                   >Comments</a
-                ><span class="descendants">: 79</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48753979">
-          <h3>
-            <a
-              class="item"
-              href="https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/"
-              >Opening up 'Zero-Knowledge Proof' technology to promote privacy
-              in age assurance</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-01 @ 22:27:47</span
-              ><span class="points-container"
-                >Points: <span class="points">212</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48753979"
-                  >Comments</a
-                ><span class="descendants">: 230</span></span
+                ><span class="descendants">: 82</span></span
               >
             </h4>
           </section>
@@ -534,39 +790,13 @@
             <h4>
               <span>2026-07-01 @ 22:03:36</span
               ><span class="points-container"
-                >Points: <span class="points">467</span></span
+                >Points: <span class="points">479</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48753715"
                   >Comments</a
-                ><span class="descendants">: 317</span></span
+                ><span class="descendants">: 320</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="48750989">
-          <h3>
-            <a class="item" href="https://www.weaverobotics.com/isaac-1"
-              >Weave Robotics launches Isaac 1, a $7,999 home robot with Fall
-              2026 deliveries</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-01 @ 18:12:18</span
-              ><span class="points-container"
-                >Points: <span class="points">220</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48750989"
-                  >Comments</a
-                ><span class="descendants">: 340</span></span
-              >
-            </h4>
-            <div class="text">
-              <a
-                href="https://runtimewire.com/article/weave-robotics-isaac-1-home-robot-launch"
-                >https://runtimewire.com/article/weave-robotics-isaac-1-home-...</a
-              >
-            </div>
           </section>
         </section>
         <section id="48750710">
@@ -581,74 +811,13 @@
             <h4>
               <span>2026-07-01 @ 17:53:44</span
               ><span class="points-container"
-                >Points: <span class="points">396</span></span
+                >Points: <span class="points">401</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48750710"
                   >Comments</a
-                ><span class="descendants">: 220</span></span
+                ><span class="descendants">: 222</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="48747976">
-          <h3>
-            <a class="item" href="https://news.ycombinator.com/item?id=48747976"
-              >Ask HN: Who is hiring? (July 2026)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-01 @ 15:01:21</span
-              ><span class="points-container"
-                >Points: <span class="points">226</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48747976"
-                  >Comments</a
-                ><span class="descendants">: 241</span></span
-              >
-            </h4>
-            <div class="text">
-              <i>not</i> an option.
-              <p>
-                Please only post if you personally are part of the hiring
-                company—no recruiting firms or job boards. One post per company.
-                If it isn't a household name, explain what your company does.
-              </p>
-              <p>
-                Please only post if you are actively filling a position and are
-                committed to replying to applicants.
-              </p>
-              <p>
-                Commenters: please don't reply to job posts to complain about
-                something. It's off topic here.
-              </p>
-              <p>
-                Readers: please only email if you are personally interested in
-                the job.
-              </p>
-              <p>
-                Searchers: try
-                <a href="https://nthesis.ai/public/hn-who-is-hiring"
-                  >https://nthesis.ai/public/hn-who-is-hiring</a
-                >,
-                <a href="https://dheerajck.github.io/hnwhoishiring/"
-                  >https://dheerajck.github.io/hnwhoishiring/</a
-                >,
-                <a href="http://nchelluri.github.io/hnjobs/"
-                  >http://nchelluri.github.io/hnjobs/</a
-                >,
-                <a href="https://hnjobs.emilburzo.com"
-                  >https://hnjobs.emilburzo.com</a
-                >.
-              </p>
-              <p>
-                Don't miss this other fine thread:
-                <i>Who wants to be hired?</i>
-                <a href="https://news.ycombinator.com/item?id=48747975"
-                  >https://news.ycombinator.com/item?id=48747975</a
-                >
-              </p>
-            </div>
           </section>
         </section>
         <section id="48747116">
@@ -663,11 +832,11 @@
             <h4>
               <span>2026-07-01 @ 14:10:28</span
               ><span class="points-container"
-                >Points: <span class="points">421</span></span
+                >Points: <span class="points">428</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48747116"
                   >Comments</a
-                ><span class="descendants">: 135</span></span
+                ><span class="descendants">: 138</span></span
               >
             </h4>
           </section>
@@ -683,11 +852,11 @@
             <h4>
               <span>2026-07-01 @ 12:25:29</span
               ><span class="points-container"
-                >Points: <span class="points">19</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48745590"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
             <div class="text">
@@ -714,48 +883,6 @@
             </div>
           </section>
         </section>
-        <section id="48740971">
-          <h3>
-            <a
-              class="item"
-              href="https://aakash.substack.com/p/why-jet-engines-arent-made-in-china"
-              >Why jet engines aren't made in China</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-01 @ 00:22:41</span
-              ><span class="points-container"
-                >Points: <span class="points">243</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48740971"
-                  >Comments</a
-                ><span class="descendants">: 226</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48732860">
-          <h3>
-            <a
-              class="item"
-              href="https://www.science.org/content/article/how-do-wombats-poop-cubes-scientists-get-bottom-mystery"
-              >How do wombats poop cubes? (2021)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-06-30 @ 13:59:32</span
-              ><span class="points-container"
-                >Points: <span class="points">155</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48732860"
-                  >Comments</a
-                ><span class="descendants">: 94</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="48724127">
           <h3>
             <a
@@ -769,11 +896,11 @@
             <h4>
               <span>2026-06-29 @ 19:42:15</span
               ><span class="points-container"
-                >Points: <span class="points">74</span></span
+                >Points: <span class="points">82</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48724127"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
           </section>
@@ -789,11 +916,11 @@
             <h4>
               <span>2026-06-28 @ 19:17:42</span
               ><span class="points-container"
-                >Points: <span class="points">37</span></span
+                >Points: <span class="points">45</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48710537"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -811,13 +938,43 @@
             <h4>
               <span>2026-06-27 @ 21:38:05</span
               ><span class="points-container"
-                >Points: <span class="points">44</span></span
+                >Points: <span class="points">59</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48702006"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="48696218">
+          <h3>
+            <a class="item" href="https://cyclearchive.com/search/"
+              >Show HN: Cyclearchive.com – search vintage cycling magazines</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-06-27 @ 08:13:45</span
+              ><span class="points-container"
+                >Points: <span class="points">17</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48696218"
+                  >Comments</a
+                ><span class="descendants">: 5</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                The site attempts to pull it all together somewhere you can
+                actually sit and read it. (Almost) every issue has a generated
+                contents list: article titles, a one-line summary each,
+                deep-linked to the exact page in the PDF, with full search
+                across the whole thing. Search is a WIP but it's already quite
+                powerful. Next on the list is making old ads searchable! It's
+                admittedly pretty niche, but would love any feedback or ideas.
+              </p>
+            </div>
           </section>
         </section>
       </section>
