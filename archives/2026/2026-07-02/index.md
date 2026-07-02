@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2026-07-02](index.md)
 
 * [2026-07-02, 20:01:20](https://news.ycombinator.com/item?id=48766598) - [Lightning Memory-Mapped Database Manager (LMDB) 1.0](http://www.lmdb.tech/doc/)
+* [2026-07-02, 19:35:20](https://news.ycombinator.com/item?id=48766297) - [Wireless LAN SD](https://www.sdcard.org/developers/sd-standard-overview/sdio-isdio/wireless-lan-sd/)
 * [2026-07-02, 19:27:38](https://news.ycombinator.com/item?id=48766209) - [EFF letter to FTC on X consent order (2 July 2026) [pdf]](https://cdn.arstechnica.net/wp-content/uploads/2026/07/EFF-letter-to-FTC-on-X-consent-order-7-2-26.pdf)
 * [2026-07-02, 19:16:20](https://news.ycombinator.com/item?id=48766076) - [Job seekers giving up: Labor force participation falls to lowest in 50 years](https://www.cnbc.com/2026/07/02/job-seekers-giving-up-labor-force-participation-rate-falls-to-lowest-in-50-years-outside-of-covid-era.html)
+* [2026-07-02, 19:10:12](https://news.ycombinator.com/item?id=48766005) - [Claude-real-video － any LLM can watch a video](https://github.com/HUANGCHIHHUNGLeo/claude-real-video)
 * [2026-07-02, 18:56:33](https://news.ycombinator.com/item?id=48765830) - [JEP 539: Strict Field Initialization in the JVM moved to preview](https://openjdk.org/jeps/539)
 * [2026-07-02, 18:48:58](https://news.ycombinator.com/item?id=48765743) - [Klara and the Sun Essay Contest – $1k Prize – AI Use Allowed](https://willpenman.com/klara/)
 * [2026-07-02, 18:41:19](https://news.ycombinator.com/item?id=48765663) - [Exapunks](https://www.zachtronics.com/exapunks/)

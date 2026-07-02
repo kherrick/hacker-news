@@ -45,6 +45,7 @@
 * [2026-06-30, 14:14:29](https://news.ycombinator.com/item?id=48733031) - [Looking Ahead to Postgres 19](https://www.snowflake.com/en/blog/engineering/postgresql-19-features-beta/)
 * [2026-06-30, 13:59:32](https://news.ycombinator.com/item?id=48732860) - [How do wombats poop cubes? Scientists get to the bottom of the mystery](https://www.science.org/content/article/how-do-wombats-poop-cubes-scientists-get-bottom-mystery)
 * [2026-06-30, 13:49:04](https://news.ycombinator.com/item?id=48732741) - [From Julia to Rust: a differentiable tensor stack for scientific computing](https://tensor4all.org/blog/introducing-tenferro-rs/)
+* [2026-06-30, 13:47:17](https://news.ycombinator.com/item?id=48732716) - [Modeling the Covid-19 Outbreak with J (2020)](https://datakinds.github.io//2020/03/15/modeling-the-coronavirus-outbreak-with-j)
 * [2026-06-30, 13:36:20](https://news.ycombinator.com/item?id=48732582) - [Red Programming Language: Static linking support](https://www.red-lang.org/2026/06/static-linking-support.html)
 * [2026-06-30, 13:09:59](https://news.ycombinator.com/item?id=48732250) - [Too many tables are bad for you](https://www.cybertec-postgresql.com/en/too-many-tables-are-bad/)
 * [2026-06-30, 12:54:01](https://news.ycombinator.com/item?id=48732056) - [Knoppix](https://www.knopper.net/knoppix/index-en.html)
