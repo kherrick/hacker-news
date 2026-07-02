@@ -12,6 +12,7 @@
 * [2026-06-28, 22:16:20](https://news.ycombinator.com/item?id=48712289) - [How does a pull-back car work? Illustrated teardown](https://mechanical-pencil.com/products/car)
 * [2026-06-28, 21:42:39](https://news.ycombinator.com/item?id=48711981) - [30-year sentence for transporting zines is a five-alarm fire for free speech](https://theintercept.com/2026/06/26/daniel-sanchez-estrada-zines-prairieland-free-speech/)
 * [2026-06-28, 21:22:49](https://news.ycombinator.com/item?id=48711788) - [How information theory saved my word game](https://motplot.app/helloworld)
+* [2026-06-28, 20:56:20](https://news.ycombinator.com/item?id=48711565) - [Visual Basic on the PC with Windows 3.1](https://stonetools.ghost.io/visualbasic-win31/)
 * [2026-06-28, 20:39:50](https://news.ycombinator.com/item?id=48711403) - [POSIX Is Not a Shell](https://alganet.github.io/blog/2026-06-28-12-POSIX-Is-Not-A-Shell.html)
 * [2026-06-28, 20:05:56](https://news.ycombinator.com/item?id=48711052) - [Newly discovered spider builds spring loaded snare to catch ants](https://phys.org/news/2026-06-newly-australian-ballista-spider-snare.html)
 * [2026-06-28, 19:43:10](https://news.ycombinator.com/item?id=48710827) - [Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs](https://github.com/kamaludu/bash4llm/)

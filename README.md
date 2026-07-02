@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-07-02, 00:48:01](https://news.ycombinator.com/item?id=48755005) - [Building an Open-Source Robot Vacuum – Meet Oomwoo](https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/)
-* [2026-07-02, 00:40:14](https://news.ycombinator.com/item?id=48754963) - [Billions of doses later: Global review confirms mRNA vaccines safe and effective](https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/)
-* [2026-07-01, 23:58:48](https://news.ycombinator.com/item?id=48754713) - [Meta Caps Internal AI Token Spending After Costs Approach Billions in 2026](https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/)
+* [2026-07-02, 00:40:14](https://news.ycombinator.com/item?id=48754963) - [Global review confirms mRNA vaccines are safe, effective and full of promise ](https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/)
+* [2026-07-01, 23:58:48](https://news.ycombinator.com/item?id=48754713) - [Meta caps internal AI token spending](https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/)
 * [2026-07-01, 23:56:15](https://news.ycombinator.com/item?id=48754700) - [The <Usermedia> HTML Element](https://developer.chrome.com/blog/usermedia-html-element)
 * [2026-07-01, 22:48:56](https://news.ycombinator.com/item?id=48754155) - [Healthy but sedentary people show early decline in cellular energy production](https://news.cuanschutz.edu/news-stories/healthy-but-sedentary-individuals-show-early-decline-in-cellular-energy-production)
 * [2026-07-01, 22:39:15](https://news.ycombinator.com/item?id=48754080) - [The Underhanded C Contest](https://underhanded-c.org/)
@@ -26,9 +26,9 @@
 * [2026-07-01, 13:04:16](https://news.ycombinator.com/item?id=48746076) - [Internal Combustion Engine (2021)](https://ciechanow.ski/internal-combustion-engine/)
 * [2026-07-01, 12:13:34](https://news.ycombinator.com/item?id=48745456) - [Physical disc production ending in Jan 2028 for new games on PlayStation](https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/)
 * [2026-07-01, 12:12:17](https://news.ycombinator.com/item?id=48745445) - [Box3D, an open source 3D physics engine](https://box2d.org/posts/2026/06/announcing-box3d/)
-* [2026-07-01, 00:22:41](https://news.ycombinator.com/item?id=48740971) - [Why jet engines aren't made in China](https://aakash.substack.com/p/why-jet-engines-arent-made-in-china)
 * [2026-06-30, 13:59:32](https://news.ycombinator.com/item?id=48732860) - [How do wombats poop cubes? Scientists get to the bottom of the mystery](https://www.science.org/content/article/how-do-wombats-poop-cubes-scientists-get-bottom-mystery)
 * [2026-06-29, 18:23:02](https://news.ycombinator.com/item?id=48723102) - [The Apple Disk II Controller Card](https://www.bigmessowires.com/2021/11/12/the-amazing-disk-ii-controller-card/)
+* [2026-06-28, 20:56:20](https://news.ycombinator.com/item?id=48711565) - [Visual Basic on the PC with Windows 3.1](https://stonetools.ghost.io/visualbasic-win31/)
 * [2026-06-28, 17:59:50](https://news.ycombinator.com/item?id=48709760) - [Flavor Graveyard](https://www.benjerry.com/flavors/flavor-graveyard)
 
 ## [Archives](archives/index.md)
