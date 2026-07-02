@@ -40,6 +40,7 @@
 * [2026-06-28, 16:17:38](https://news.ycombinator.com/item?id=48708721) - [Reflections on Software Engineering in the Age of AI](https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/)
 * [2026-06-28, 16:16:07](https://news.ycombinator.com/item?id=48708700) - [Examining circuit boards from the Space Shuttle's I/O Processor](https://www.righto.com/2026/06/space-shuttle-io-processor-boards.html)
 * [2026-06-28, 16:10:50](https://news.ycombinator.com/item?id=48708644) - [Dissecting Apple's Sparse Image Format (ASIF)](https://schamper.dev/dissecting-apples-sparse-image-format-asif/)
+* [2026-06-28, 16:06:22](https://news.ycombinator.com/item?id=48708602) - [Show HN: Unobin compiles Infrastructure as Code to one binary](https://cloudboss.co/docs/unobin)
 * [2026-06-28, 15:55:31](https://news.ycombinator.com/item?id=48708496) - [Programmable Probabilistic Computer with 1M p-bits](https://arxiv.org/abs/2606.25313)
 * [2026-06-28, 15:32:44](https://news.ycombinator.com/item?id=48708265) - [Does Your Paper Really Suck?](https://www.sina.bio/posts/does-your-paper-really-suck.html)
 * [2026-06-28, 15:26:14](https://news.ycombinator.com/item?id=48708182) - [Show HN: Zanagrams](https://zanagrams.com/)
