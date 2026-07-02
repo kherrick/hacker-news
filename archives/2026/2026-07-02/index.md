@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-07-02](index.md)
 
+* [2026-07-02, 19:16:20](https://news.ycombinator.com/item?id=48766076) - [Job seekers giving up: Labor force participation falls to lowest in 50 years](https://www.cnbc.com/2026/07/02/job-seekers-giving-up-labor-force-participation-rate-falls-to-lowest-in-50-years-outside-of-covid-era.html)
+* [2026-07-02, 18:56:33](https://news.ycombinator.com/item?id=48765830) - [JEP 539: Strict Field Initialization in the JVM moved to preview](https://openjdk.org/jeps/539)
 * [2026-07-02, 18:48:58](https://news.ycombinator.com/item?id=48765743) - [Klara and the Sun Essay Contest – $1k Prize – AI Use Allowed](https://willpenman.com/klara/)
 * [2026-07-02, 18:41:19](https://news.ycombinator.com/item?id=48765663) - [Exapunks](https://www.zachtronics.com/exapunks/)
+* [2026-07-02, 18:38:32](https://news.ycombinator.com/item?id=48765639) - [Postgres transactions are a distributed systems superpower](https://www.dbos.dev/blog/co-locating-workflow-state-with-your-data)
+* [2026-07-02, 18:37:57](https://news.ycombinator.com/item?id=48765630) - [Claude's AskUserQuestion: \"No response after 60s – continued without an answer\"](https://github.com/anthropics/claude-code/issues/73125)
+* [2026-07-02, 18:36:09](https://news.ycombinator.com/item?id=48765607) - [Vulkan is now available on NetBSD](https://github.com/segaboy/vulkan-netbsd)
 * [2026-07-02, 16:36:12](https://news.ycombinator.com/item?id=48763963) - [Show HN: QUALITY.md – open format/specification, agent skill, and CLI](https://getquality.md)
 * [2026-07-02, 16:36:09](https://news.ycombinator.com/item?id=48763962) - [EU Court of Justice allows criminal prosecution for reposting RT videos](https://tass.com/world/2154415)
 * [2026-07-02, 16:29:13](https://news.ycombinator.com/item?id=48763864) - [The US Government Is Now a Shareholder in 26 Companies](https://moeonmargin.substack.com/p/the-us-government-is-now-a-shareholder)
