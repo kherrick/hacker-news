@@ -17,6 +17,7 @@
 * [2026-06-29, 18:04:41](https://news.ycombinator.com/item?id=48722819) - [Avo 4 released – 15 months and 2000 commits later](https://avohq.io/blog/avo-4)
 * [2026-06-29, 18:03:26](https://news.ycombinator.com/item?id=48722802) - [Micro-Agent: Beat Frontier Models with Collaboration Inside Model API](https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models)
 * [2026-06-29, 17:52:39](https://news.ycombinator.com/item?id=48722612) - [Structural Correctness](https://blog.sao.dev/structural-correctness/)
+* [2026-06-29, 17:19:08](https://news.ycombinator.com/item?id=48722093) - [The Wisdom of Quinn the Eskimo (Apple Developer Technical Support Engineer)](https://github.com/macshome/The-Wisdom-of-Quinn)
 * [2026-06-29, 17:16:17](https://news.ycombinator.com/item?id=48722052) - [Ornith-1.0: self-improving open-source models for agentic coding](https://github.com/deepreinforce-ai/Ornith-1)
 * [2026-06-29, 17:05:16](https://news.ycombinator.com/item?id=48721903) - [Qwen 3.6 27B is the sweet spot for local development](https://quesma.com/blog/qwen-36-is-awesome/)
 * [2026-06-29, 16:47:40](https://news.ycombinator.com/item?id=48721617) - [Homemade Transistor from Cadmium Sulfide Photocell (2009)](http://sparkbangbuzz.com/cds-fet/cds-fet.htm)
