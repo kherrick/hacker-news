@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-02](index.md)
 
+* [2026-07-02, 18:48:58](https://news.ycombinator.com/item?id=48765743) - [Klara and the Sun Essay Contest – $1k Prize – AI Use Allowed](https://willpenman.com/klara/)
 * [2026-07-02, 18:41:19](https://news.ycombinator.com/item?id=48765663) - [Exapunks](https://www.zachtronics.com/exapunks/)
 * [2026-07-02, 16:36:12](https://news.ycombinator.com/item?id=48763963) - [Show HN: QUALITY.md – open format/specification, agent skill, and CLI](https://getquality.md)
 * [2026-07-02, 16:36:09](https://news.ycombinator.com/item?id=48763962) - [EU Court of Justice allows criminal prosecution for reposting RT videos](https://tass.com/world/2154415)

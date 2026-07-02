@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-07-02, 18:41:19](https://news.ycombinator.com/item?id=48765663) - [Exapunks](https://www.zachtronics.com/exapunks/)
-* [2026-07-02, 16:29:13](https://news.ycombinator.com/item?id=48763864) - [The US Government Is Now a Shareholder in 26 Companies](https://moeonmargin.substack.com/p/the-us-government-is-now-a-shareholder)
+* [2026-07-02, 18:48:58](https://news.ycombinator.com/item?id=48765743) - [Klara and the Sun Essay Contest – $1k Prize – AI Use Allowed](https://willpenman.com/klara/)
+* [2026-07-02, 18:41:19](https://news.ycombinator.com/item?id=48765663) - [Exapunks (2018)](https://www.zachtronics.com/exapunks/)
 * [2026-07-02, 15:25:16](https://news.ycombinator.com/item?id=48763035) - [Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory](https://mathstodon.xyz/@iblech/116769502749142438)
 * [2026-07-02, 15:11:20](https://news.ycombinator.com/item?id=48762862) - [Launch HN: Manufact (YC S25) – MCP Cloud](https://manufact.com)
 * [2026-07-02, 15:02:26](https://news.ycombinator.com/item?id=48762725) - [Spain Orders Blacklist of Palantir from Public and Private Companies](https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv)
@@ -26,7 +26,7 @@
 * [2026-07-02, 03:00:15](https://news.ycombinator.com/item?id=48755965) - [Android Developer Verification: Threat masquerading as protection](https://f-droid.org/2026/07/01/adv-malware.html)
 * [2026-07-02, 02:55:16](https://news.ycombinator.com/item?id=48755928) - [Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers](https://senior-swe-bench.snorkel.ai/)
 * [2026-07-01, 12:25:29](https://news.ycombinator.com/item?id=48745590) - [Show HN: Claudoro, Pomodoro timer embedded in the Claude Code statusline](https://github.com/emson/claudoro)
-* [2026-06-29, 04:41:18](https://news.ycombinator.com/item?id=48714884) - [My favorite keyboards](https://fabiensanglard.net/keyboards/index.html)
+* [2026-06-30, 13:09:59](https://news.ycombinator.com/item?id=48732250) - [Too many tables are bad for you](https://www.cybertec-postgresql.com/en/too-many-tables-are-bad/)
 * [2026-06-28, 19:17:42](https://news.ycombinator.com/item?id=48710537) - [WinPE as a stateless harness for Windows driver testing and fuzzing](https://bednars.me/blog/winpe-harness)
 * [2026-06-28, 12:46:20](https://news.ycombinator.com/item?id=48706825) - [How VictoriaLogs Stores Your Logs in a Columnar Layout](https://victoriametrics.com/blog/victorialogs-internals-columnar-storage-on-disk/index.html)
 * [2026-06-27, 21:38:05](https://news.ycombinator.com/item?id=48702006) - [German button maker searched rivers of American Midwest for valuable shells](https://www.smithsonianmag.com/smithsonian-institution/how-one-german-button-maker-searched-the-rivers-of-the-american-midwest-for-the-shells-that-could-make-him-a-fortune-180989012/)
