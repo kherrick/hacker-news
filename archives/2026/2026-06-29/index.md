@@ -51,6 +51,7 @@
 * [2026-06-29, 13:09:03](https://news.ycombinator.com/item?id=48718840) - [Tidal AI Policy](https://tidal.com/ai-policy)
 * [2026-06-29, 13:01:51](https://news.ycombinator.com/item?id=48718753) - [NixOS 26.05](https://nixos.org/blog/announcements/2026/nixos-2605/)
 * [2026-06-29, 12:59:49](https://news.ycombinator.com/item?id=48718716) - [Reading the internals of Postgres: Database cluster, databases, and tables](https://www.buraksen.dev/articles/internals-of-postgresql-db-cluster-and-tables)
+* [2026-06-29, 12:01:34](https://news.ycombinator.com/item?id=48718129) - [Aerial Photographs (2017)](https://www.toronto.ca/city-government/accountability-operations-customer-service/access-city-information-or-records/city-of-toronto-archives/whats-online/maps/aerial-photographs/)
 * [2026-06-29, 11:58:48](https://news.ycombinator.com/item?id=48718102) - [Samsung, SK Hynix, Micron Sued in US over Memory Price Fixing](https://en.sedaily.com/international/2026/06/29/samsung-sk-hynix-micron-sued-in-us-over-memory-price-fixing)
 * [2026-06-29, 11:34:36](https://news.ycombinator.com/item?id=48717905) - [Rebuilding the Computer Room](https://alexwlchan.net/2026/computer-room/)
 * [2026-06-29, 11:29:14](https://news.ycombinator.com/item?id=48717869) - [DeepSeek V4 Peak Valley Pricing Change](https://www.kucoin.com/news/flash/deepseek-v4-launches-in-mid-july-with-peak-valley-pricing)
