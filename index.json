@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-07-02, 18:48:58",
-      "https://news.ycombinator.com/item?id=48765743"
+      "2026-07-02, 19:16:20",
+      "https://news.ycombinator.com/item?id=48766076"
     ],
     [
-      "Klara and the Sun Essay Contest – $1k Prize – AI Use Allowed",
-      "https://willpenman.com/klara/"
+      "Job seekers giving up: Labor force participation falls to lowest in 50 years",
+      "https://www.cnbc.com/2026/07/02/job-seekers-giving-up-labor-force-participation-rate-falls-to-lowest-in-50-years-outside-of-covid-era.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-02, 18:56:33",
+      "https://news.ycombinator.com/item?id=48765830"
+    ],
+    [
+      "JEP 539: Strict Field Initialization in the JVM moved to preview",
+      "https://openjdk.org/jeps/539"
     ]
   ],
   [
@@ -17,6 +27,36 @@
     [
       "Exapunks (2018)",
       "https://www.zachtronics.com/exapunks/"
+    ]
+  ],
+  [
+    [
+      "2026-07-02, 18:38:32",
+      "https://news.ycombinator.com/item?id=48765639"
+    ],
+    [
+      "Postgres transactions are a distributed systems superpower",
+      "https://www.dbos.dev/blog/co-locating-workflow-state-with-your-data"
+    ]
+  ],
+  [
+    [
+      "2026-07-02, 18:37:57",
+      "https://news.ycombinator.com/item?id=48765630"
+    ],
+    [
+      "Claude's AskUserQuestion: \"No response after 60s – continued without an answer\"",
+      "https://github.com/anthropics/claude-code/issues/73125"
+    ]
+  ],
+  [
+    [
+      "2026-07-02, 18:36:09",
+      "https://news.ycombinator.com/item?id=48765607"
+    ],
+    [
+      "Vulkan is now available on NetBSD",
+      "https://github.com/segaboy/vulkan-netbsd"
     ]
   ],
   [
@@ -151,16 +191,6 @@
   ],
   [
     [
-      "2026-07-02, 12:46:31",
-      "https://news.ycombinator.com/item?id=48760669"
-    ],
-    [
-      "Germany’s Infineon opens major chip plant as EU seeks tech autonomy",
-      "https://www.rfi.fr/en/international-news/20260702-germany-s-infineon-opens-major-chip-plant-as-eu-seeks-tech-autonomy"
-    ]
-  ],
-  [
-    [
       "2026-07-02, 12:10:24",
       "https://news.ycombinator.com/item?id=48760201"
     ],
@@ -177,16 +207,6 @@
     [
       "The primary purpose of code review is to find code that will be hard to maintain",
       "https://mathstodon.xyz/@mjd/115096720350507897"
-    ]
-  ],
-  [
-    [
-      "2026-07-02, 11:30:01",
-      "https://news.ycombinator.com/item?id=48759761"
-    ],
-    [
-      "Vite+ Beta",
-      "https://voidzero.dev/posts/announcing-vite-plus-beta"
     ]
   ],
   [
@@ -241,32 +261,12 @@
   ],
   [
     [
-      "2026-07-02, 02:55:16",
-      "https://news.ycombinator.com/item?id=48755928"
+      "2026-06-30, 21:58:49",
+      "https://news.ycombinator.com/item?id=48739792"
     ],
     [
-      "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
-      "https://senior-swe-bench.snorkel.ai/"
-    ]
-  ],
-  [
-    [
-      "2026-07-01, 12:25:29",
-      "https://news.ycombinator.com/item?id=48745590"
-    ],
-    [
-      "Show HN: Claudoro, Pomodoro timer embedded in the Claude Code statusline",
-      "https://github.com/emson/claudoro"
-    ]
-  ],
-  [
-    [
-      "2026-06-30, 13:09:59",
-      "https://news.ycombinator.com/item?id=48732250"
-    ],
-    [
-      "Too many tables are bad for you",
-      "https://www.cybertec-postgresql.com/en/too-many-tables-are-bad/"
+      "Ask HN: Since when does Craigslist's front page have emojis?",
+      "https://news.ycombinator.com/item?id=48739792"
     ]
   ],
   [
