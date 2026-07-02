@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-07-02, 21:19:20](https://news.ycombinator.com/item?id=48767515) - [BlastRadar – paste a Git diff, get a production risk score in 10 seconds](https://blastradar.vercel.app/)
+* [2026-07-02, 21:59:10](https://news.ycombinator.com/item?id=48767914) - [U.S. Officials Believed Israel Was Plotting to Kill Iranian Negotiators](https://www.nytimes.com/2026/07/02/us/politics/israel-iran-negotiators-plot.html)
+* [2026-07-02, 21:50:11](https://news.ycombinator.com/item?id=48767834) - [Simple, beautiful Emacs modeline: modusregel](https://codeberg.org/jjba23/modusregel)
 * [2026-07-02, 21:03:45](https://news.ycombinator.com/item?id=48767347) - [Virginia bans sale of geolocation data](https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data)
 * [2026-07-02, 20:01:20](https://news.ycombinator.com/item?id=48766598) - [Lightning Memory-Mapped Database Manager (LMDB) 1.0](http://www.lmdb.tech/doc/)
 * [2026-07-02, 19:35:20](https://news.ycombinator.com/item?id=48766297) - [Wireless LAN SD](https://www.sdcard.org/developers/sd-standard-overview/sdio-isdio/wireless-lan-sd/)
@@ -12,7 +13,7 @@
 * [2026-07-02, 18:56:33](https://news.ycombinator.com/item?id=48765830) - [JEP 539: Strict Field Initialization in the JVM moved to preview](https://openjdk.org/jeps/539)
 * [2026-07-02, 18:41:19](https://news.ycombinator.com/item?id=48765663) - [Exapunks (2018)](https://www.zachtronics.com/exapunks/)
 * [2026-07-02, 18:38:32](https://news.ycombinator.com/item?id=48765639) - [Postgres transactions are a distributed systems superpower](https://www.dbos.dev/blog/co-locating-workflow-state-with-your-data)
-* [2026-07-02, 18:36:09](https://news.ycombinator.com/item?id=48765607) - [Vulkan is now available on NetBSD](https://github.com/segaboy/vulkan-netbsd)
+* [2026-07-02, 18:36:09](https://news.ycombinator.com/item?id=48765607) - [This is my attempt to get Vulkan going on NetBSD](https://github.com/segaboy/vulkan-netbsd)
 * [2026-07-02, 16:24:49](https://news.ycombinator.com/item?id=48763790) - [24-bit/192kHz music downloads and why they make no sense (2012)](https://people.xiph.org/~xiphmont/demo/neil-young.html#toc_wd2bm)
 * [2026-07-02, 15:40:05](https://news.ycombinator.com/item?id=48763246) - [Show HN: zkGolf – Competitive optimization of formally verified circuits](https://zk.golf/)
 * [2026-07-02, 15:25:16](https://news.ycombinator.com/item?id=48763035) - [Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory](https://mathstodon.xyz/@iblech/116769502749142438)
@@ -26,9 +27,8 @@
 * [2026-07-02, 11:17:45](https://news.ycombinator.com/item?id=48759634) - [PeerTube is a free, decentralized and federated video platform](https://github.com/Chocobozzz/PeerTube)
 * [2026-07-02, 01:00:31](https://news.ycombinator.com/item?id=48755075) - [LibreCAD in the Browser](https://magik.net/librecad/)
 * [2026-07-01, 11:35:41](https://news.ycombinator.com/item?id=48745118) - [Client-side load balancing at a million requests per second](https://engineering.zalando.com/posts/2026/06/client-side-load-balancing.html?v=2](https://engineering.zalando.com/posts/2026/06/client-side-load-balancing.html)
-* [2026-06-30, 21:58:49](https://news.ycombinator.com/item?id=48739792) - [Ask HN: Since when does Craigslist's front page have emojis?](https://news.ycombinator.com/item?id=48739792)
 * [2026-06-30, 21:28:32](https://news.ycombinator.com/item?id=48739459) - [Superpowers 6](https://blog.fsck.com/2026/06/15/Superpowers-6/)
-* [2026-06-27, 23:36:25](https://news.ycombinator.com/item?id=48702874) - [Reality has a surprising amount of detail](https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail)
+* [2026-06-27, 23:36:25](https://news.ycombinator.com/item?id=48702874) - [Reality has a surprising amount of detail (2017)](https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail)
 * [2026-06-27, 21:38:05](https://news.ycombinator.com/item?id=48702006) - [German button maker searched rivers of American Midwest for valuable shells](https://www.smithsonianmag.com/smithsonian-institution/how-one-german-button-maker-searched-the-rivers-of-the-american-midwest-for-the-shells-that-could-make-him-a-fortune-180989012/)
 
 ## [Archives](archives/index.md)
