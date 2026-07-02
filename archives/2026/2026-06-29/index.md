@@ -43,6 +43,7 @@
 * [2026-06-29, 14:09:24](https://news.ycombinator.com/item?id=48719485) - [Rocketlab acquires Iridium](https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully)
 * [2026-06-29, 14:09:15](https://news.ycombinator.com/item?id=48719483) - [DocumentDB – a MongoDB compatible open-source database](https://documentdb.io/)
 * [2026-06-29, 13:56:46](https://news.ycombinator.com/item?id=48719361) - [CachyOS June 2026 Release](https://cachyos.org/blog/2606-june-release/)
+* [2026-06-29, 13:45:13](https://news.ycombinator.com/item?id=48719224) - [Creating a Personalised Bin Calendar](https://alexwlchan.net/2026/bin-calendar/)
 * [2026-06-29, 13:26:35](https://news.ycombinator.com/item?id=48719027) - [Instagram is incorporating users' photos in ads for Meta Glasses](https://twitter.com/i/status/2071277885646868536)
 * [2026-06-29, 13:23:19](https://news.ycombinator.com/item?id=48718995) - [Building Principia for Windows XP](https://voxelmanip.se/2026/06/28/building-principia-for-windows-xp/)
 * [2026-06-29, 13:20:41](https://news.ycombinator.com/item?id=48718972) - [Counterexamples in type systems (2021)](https://counterexamples.org/)
