@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-02, 21:19:20",
+      "https://news.ycombinator.com/item?id=48767515"
+    ],
+    [
+      "BlastRadar – paste a Git diff, get a production risk score in 10 seconds",
+      "https://blastradar.vercel.app/"
+    ]
+  ],
+  [
+    [
       "2026-07-02, 21:03:45",
       "https://news.ycombinator.com/item?id=48767347"
     ],
@@ -217,16 +227,6 @@
     [
       "Hazel (YC W24) Is Hiring for Our Largest Government Contract",
       "https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci"
-    ]
-  ],
-  [
-    [
-      "2026-07-02, 12:10:24",
-      "https://news.ycombinator.com/item?id=48760201"
-    ],
-    [
-      "Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train",
-      "https://arxiv.org/abs/2607.01232"
     ]
   ],
   [
