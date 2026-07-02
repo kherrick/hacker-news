@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-07-02, 13:16:54",
-      "https://news.ycombinator.com/item?id=48761088"
+      "2026-07-02, 13:41:11",
+      "https://news.ycombinator.com/item?id=48761493"
     ],
     [
-      "In the age of algorithms and AI, is traditional media democracy's defence?",
-      "https://www.martenscentre.eu/media-mentions/in-the-age-of-algorithms-and-ai-is-traditional-media-democracys-last-line-of-defence/"
+      "Show HN: ZeroFS – A log-structured filesystem for S3",
+      "https://www.zerofs.net/"
+    ]
+  ],
+  [
+    [
+      "2026-07-02, 13:19:22",
+      "https://news.ycombinator.com/item?id=48761118"
+    ],
+    [
+      "How to ask for help from people who don't know you",
+      "https://pradyuprasad.com/writings/how-to-ask-for-help/"
     ]
   ],
   [
@@ -17,6 +27,26 @@
     [
       "Hazel (YC W24) Is Hiring for Our Largest Government Contract",
       "https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci"
+    ]
+  ],
+  [
+    [
+      "2026-07-02, 12:58:55",
+      "https://news.ycombinator.com/item?id=48760840"
+    ],
+    [
+      "Winamp Skin Museum",
+      "https://skins.webamp.org"
+    ]
+  ],
+  [
+    [
+      "2026-07-02, 12:46:31",
+      "https://news.ycombinator.com/item?id=48760669"
+    ],
+    [
+      "Germany’s Infineon opens major chip plant as EU seeks tech autonomy",
+      "https://www.rfi.fr/en/international-news/20260702-germany-s-infineon-opens-major-chip-plant-as-eu-seeks-tech-autonomy"
     ]
   ],
   [
@@ -67,6 +97,16 @@
     [
       "Vite+ Beta",
       "https://voidzero.dev/posts/announcing-vite-plus-beta"
+    ]
+  ],
+  [
+    [
+      "2026-07-02, 10:35:17",
+      "https://news.ycombinator.com/item?id=48759256"
+    ],
+    [
+      "Orbital Data Centers: Why the Hype Outpaces Reality",
+      "https://spectrum.ieee.org/orbital-data-center-hype"
     ]
   ],
   [
@@ -141,16 +181,6 @@
   ],
   [
     [
-      "2026-07-01, 22:39:15",
-      "https://news.ycombinator.com/item?id=48754080"
-    ],
-    [
-      "The Underhanded C Contest",
-      "https://underhanded-c.org/"
-    ]
-  ],
-  [
-    [
       "2026-07-01, 22:27:47",
       "https://news.ycombinator.com/item?id=48753979"
     ],
@@ -167,16 +197,6 @@
     [
       "ZCode – Harness for GLM-5.2",
       "https://zcode.z.ai/en"
-    ]
-  ],
-  [
-    [
-      "2026-07-01, 21:01:42",
-      "https://news.ycombinator.com/item?id=48753069"
-    ],
-    [
-      "Qualcomm Linux 2.0",
-      "https://www.qualcomm.com/developer/blog/2026/06/qualcomm-linux-2-now-available"
     ]
   ],
   [
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2026-07-01, 14:20:52",
-      "https://news.ycombinator.com/item?id=48747304"
-    ],
-    [
-      "For first time, a cell built from scratch grows and divides",
-      "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/"
-    ]
-  ],
-  [
-    [
       "2026-07-01, 14:10:28",
       "https://news.ycombinator.com/item?id=48747116"
     ],
     [
       "FFmpeg 9.1's new AAC encoder",
       "https://hydrogenaudio.org/index.php/topic,129691.0.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-01, 13:59:13",
-      "https://news.ycombinator.com/item?id=48746914"
-    ],
-    [
-      "Monetization Gateway: Charge for any resource behind Cloudflare via x402",
-      "https://blog.cloudflare.com/monetization-gateway/"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2026-06-29, 14:26:35",
-      "https://news.ycombinator.com/item?id=48719697"
-    ],
-    [
-      "Using Aspect-Oriented Programming to Record DRL Agents' Data",
-      "https://blog.ptidej.net/using-aspect-oriented-programming-to-record-drl-agents-data/"
-    ]
-  ],
-  [
-    [
       "2026-06-28, 19:17:42",
       "https://news.ycombinator.com/item?id=48710537"
     ],
     [
       "WinPE as a stateless harness for Windows driver testing and fuzzing",
       "https://bednars.me/blog/winpe-harness"
+    ]
+  ],
+  [
+    [
+      "2026-06-27, 21:38:05",
+      "https://news.ycombinator.com/item?id=48702006"
+    ],
+    [
+      "German Button Maker Searched Rivers of American Midwest for Valuable Shells",
+      "https://www.smithsonianmag.com/smithsonian-institution/how-one-german-button-maker-searched-the-rivers-of-the-american-midwest-for-the-shells-that-could-make-him-a-fortune-180989012/"
     ]
   ]
 ]
