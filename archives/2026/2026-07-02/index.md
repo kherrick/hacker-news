@@ -4,7 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-07-02](index.md)
 
+* [2026-07-02, 15:11:20](https://news.ycombinator.com/item?id=48762862) - [Launch HN: Manufact (YC S25) – MCP Cloud](https://manufact.com)
+* [2026-07-02, 14:19:24](https://news.ycombinator.com/item?id=48762038) - [Show HN: CLI tool for detecting non-exact code duplication with embedding models](https://github.com/rafal-qa/slopo)
+* [2026-07-02, 14:16:57](https://news.ycombinator.com/item?id=48762000) - [Show HN: Mail Memories – A desktop app to rescue photos from Gmail](https://mailmemories.com)
+* [2026-07-02, 13:43:41](https://news.ycombinator.com/item?id=48761536) - [AI can't be listed as inventor on patent applications, Japan's top court rules](https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/)
 * [2026-07-02, 13:41:11](https://news.ycombinator.com/item?id=48761493) - [Show HN: ZeroFS – A log-structured filesystem for S3](https://www.zerofs.net/)
+* [2026-07-02, 13:29:09](https://news.ycombinator.com/item?id=48761294) - [Show HN: A graph paper generator that renders vector PDFs in the browser](https://freegraphpaper.net/)
+* [2026-07-02, 13:25:25](https://news.ycombinator.com/item?id=48761229) - [The Egg Bandits Made a Thousand Times the Fine They Just Paid for Price Fixing](https://www.thebignewsletter.com/p/crime-pays-the-egg-bandits-made-a)
+* [2026-07-02, 13:19:56](https://news.ycombinator.com/item?id=48761132) - [Comparing Fable and 10 other LLMs on refactoring a LangGraph god node](https://wtf.korridzy.com/twilight-of-the-gods/)
 * [2026-07-02, 13:19:22](https://news.ycombinator.com/item?id=48761118) - [How to ask for help from people who don't know you](https://pradyuprasad.com/writings/how-to-ask-for-help/)
 * [2026-07-02, 13:16:54](https://news.ycombinator.com/item?id=48761088) - [In the age of algorithms and AI, is traditional media democracy's defence?](https://www.martenscentre.eu/media-mentions/in-the-age-of-algorithms-and-ai-is-traditional-media-democracys-last-line-of-defence/)
 * [2026-07-02, 13:14:57](https://news.ycombinator.com/item?id=48761068) - [Hazel (YC W24) Is Hiring for Our Largest Government Contract](https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci)
