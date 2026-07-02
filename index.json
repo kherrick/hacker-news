@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-02, 02:30:16",
+      "https://news.ycombinator.com/item?id=48755731"
+    ],
+    [
+      "Bring Back Crappy Forums",
+      "https://tedium.co/2026/07/01/online-web-forums-retrospective/"
+    ]
+  ],
+  [
+    [
+      "2026-07-02, 02:19:48",
+      "https://news.ycombinator.com/item?id=48755653"
+    ],
+    [
+      "Avoiding Fallback in Distributed Systems",
+      "https://builder.aws.com"
+    ]
+  ],
+  [
+    [
       "2026-07-02, 00:48:01",
       "https://news.ycombinator.com/item?id=48755005"
     ],
@@ -17,16 +37,6 @@
     [
       "Global review confirms mRNA vaccines are safe, effective and full of promise ",
       "https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/"
-    ]
-  ],
-  [
-    [
-      "2026-07-01, 23:58:48",
-      "https://news.ycombinator.com/item?id=48754713"
-    ],
-    [
-      "Meta caps internal AI token spending",
-      "https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/"
     ]
   ],
   [
@@ -87,16 +97,6 @@
     [
       "Chip Off the Old Block",
       "https://www.astralcodexten.com/p/chip-off-the-old-block"
-    ]
-  ],
-  [
-    [
-      "2026-07-01, 21:15:41",
-      "https://news.ycombinator.com/item?id=48753220"
-    ],
-    [
-      "I Left Harry's All-Night Hamburgers",
-      "https://escapepod.org/2013/09/14/ep413-why-i-left-harrys-all-night-hamburgers/"
     ]
   ],
   [
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=48732860"
     ],
     [
-      "How do wombats poop cubes? Scientists get to the bottom of the mystery",
+      "How do wombats poop cubes?",
       "https://www.science.org/content/article/how-do-wombats-poop-cubes-scientists-get-bottom-mystery"
     ]
   ],
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2026-06-28, 20:56:20",
-      "https://news.ycombinator.com/item?id=48711565"
-    ],
-    [
-      "Visual Basic on the PC with Windows 3.1",
-      "https://stonetools.ghost.io/visualbasic-win31/"
-    ]
-  ],
-  [
-    [
       "2026-06-28, 17:59:50",
       "https://news.ycombinator.com/item?id=48709760"
     ],
     [
       "Flavor Graveyard",
       "https://www.benjerry.com/flavors/flavor-graveyard"
+    ]
+  ],
+  [
+    [
+      "2026-06-28, 16:06:22",
+      "https://news.ycombinator.com/item?id=48708602"
+    ],
+    [
+      "Show HN: Unobin compiles Infrastructure as Code to one binary",
+      "https://cloudboss.co/docs/unobin"
     ]
   ]
 ]
