@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-02, 11:30:01](https://news.ycombinator.com/item?id=48759761) - [Vite+ Beta](https://voidzero.dev/posts/announcing-vite-plus-beta)
 * [2026-07-02, 11:16:31](https://news.ycombinator.com/item?id=48759623) - [OpenAI: In early talks to give 5% stake to US Government](https://www.theguardian.com/technology/2026/jul/02/openai-stake-us-government-ai-sam-altman)
-* [2026-07-02, 10:43:41](https://news.ycombinator.com/item?id=48759329) - [Meta building cloud business to sell excess AI capacity](https://www.reuters.com/business/meta-sell-excess-ai-computing-capacity-via-cloud-business-bloomberg-news-reports-2026-07-01/)
 * [2026-07-02, 08:34:13](https://news.ycombinator.com/item?id=48758309) - [Google loses fight over record $4.7B EU antitrust fine](https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html)
 * [2026-07-02, 08:01:15](https://news.ycombinator.com/item?id=48758048) - [The Fall of the Theorem Economy](https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy)
 * [2026-07-02, 05:19:34](https://news.ycombinator.com/item?id=48756840) - [CursorBench 3.1](https://cursor.com/evals)
 * [2026-07-02, 04:32:41](https://news.ycombinator.com/item?id=48756602) - [Kimi K2.7 Code is generally available in GitHub Copilot](https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/)
-* [2026-07-02, 03:00:15](https://news.ycombinator.com/item?id=48755965) - [A new Android malware from Google](https://f-droid.org/2026/07/01/adv-malware.html)
+* [2026-07-02, 03:00:15](https://news.ycombinator.com/item?id=48755965) - [Android Developer Verification: Threat masquerading as Protection](https://f-droid.org/2026/07/01/adv-malware.html)
 * [2026-07-02, 02:55:16](https://news.ycombinator.com/item?id=48755928) - [Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers](https://senior-swe-bench.snorkel.ai/)
 * [2026-07-02, 02:30:16](https://news.ycombinator.com/item?id=48755731) - [Bring back crappy forums](https://tedium.co/2026/07/01/online-web-forums-retrospective/)
 * [2026-07-02, 00:48:01](https://news.ycombinator.com/item?id=48755005) - [Oomwoo, an open-source robot vacuum you build yourself](https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/)
@@ -26,10 +26,10 @@
 * [2026-07-01, 00:22:41](https://news.ycombinator.com/item?id=48740971) - [Why jet engines aren't made in China](https://aakash.substack.com/p/why-jet-engines-arent-made-in-china)
 * [2026-06-30, 13:59:32](https://news.ycombinator.com/item?id=48732860) - [How do wombats poop cubes?](https://www.science.org/content/article/how-do-wombats-poop-cubes-scientists-get-bottom-mystery)
 * [2026-06-29, 19:42:15](https://news.ycombinator.com/item?id=48724127) - [Asymmetric Quantization: Near-Lossless Retrieval with 97% Storage Reduction](https://www.mixedbread.com/blog/asymmetric-quant)
-* [2026-06-29, 17:19:08](https://news.ycombinator.com/item?id=48722093) - [The Wisdom of Quinn the Eskimo (Apple Developer Technical Support Engineer)](https://github.com/macshome/The-Wisdom-of-Quinn)
 * [2026-06-29, 13:45:13](https://news.ycombinator.com/item?id=48719224) - [Creating a Personalised Bin Calendar](https://alexwlchan.net/2026/bin-calendar/)
 * [2026-06-29, 12:01:34](https://news.ycombinator.com/item?id=48718129) - [Aerial Photographs (2017)](https://www.toronto.ca/city-government/accountability-operations-customer-service/access-city-information-or-records/city-of-toronto-archives/whats-online/maps/aerial-photographs/)
 * [2026-06-29, 04:41:18](https://news.ycombinator.com/item?id=48714884) - [My Favorite Keyboards](https://fabiensanglard.net/keyboards/index.html)
+* [2026-06-28, 19:17:42](https://news.ycombinator.com/item?id=48710537) - [WinPE as a stateless harness for Windows driver testing and fuzzing](https://bednars.me/blog/winpe-harness)
 
 ## [Archives](archives/index.md)
 

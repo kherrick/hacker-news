@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-02](index.md)
 
+* [2026-07-02, 11:30:01](https://news.ycombinator.com/item?id=48759761) - [Vite+ Beta](https://voidzero.dev/posts/announcing-vite-plus-beta)
 * [2026-07-02, 11:16:31](https://news.ycombinator.com/item?id=48759623) - [OpenAI: In early talks to give 5% stake to US Government](https://www.theguardian.com/technology/2026/jul/02/openai-stake-us-government-ai-sam-altman)
 * [2026-07-02, 10:43:41](https://news.ycombinator.com/item?id=48759329) - [Meta building cloud business to sell excess AI capacity](https://www.reuters.com/business/meta-sell-excess-ai-computing-capacity-via-cloud-business-bloomberg-news-reports-2026-07-01/)
 * [2026-07-02, 08:34:13](https://news.ycombinator.com/item?id=48758309) - [Google loses fight over record $4.7B EU antitrust fine](https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html)
