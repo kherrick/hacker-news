@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2026-07-01, 20:51:52",
+      "https://news.ycombinator.com/item?id=48752949"
+    ],
+    [
+      "OpenWiki: CLI that writes and maintains agent documentation for your codebase",
+      "https://github.com/langchain-ai/openwiki"
+    ]
+  ],
+  [
+    [
       "2026-07-01, 20:47:41",
       "https://news.ycombinator.com/item?id=48752905"
     ],
@@ -237,16 +247,6 @@
     [
       "Box3D, an open source 3D physics engine",
       "https://box2d.org/posts/2026/06/announcing-box3d/"
-    ]
-  ],
-  [
-    [
-      "2026-07-01, 11:35:41",
-      "https://news.ycombinator.com/item?id=48745118"
-    ],
-    [
-      "Client-side load balancing at a million requests per second",
-      "https://engineering.zalando.com/posts/2026/06/client-side-load-balancing.html?v=2](https://engineering.zalando.com/posts/2026/06/client-side-load-balancing.html"
     ]
   ],
   [
