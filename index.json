@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-07-02, 21:19:20",
-      "https://news.ycombinator.com/item?id=48767515"
+      "2026-07-02, 21:59:10",
+      "https://news.ycombinator.com/item?id=48767914"
     ],
     [
-      "BlastRadar – paste a Git diff, get a production risk score in 10 seconds",
-      "https://blastradar.vercel.app/"
+      "U.S. Officials Believed Israel Was Plotting to Kill Iranian Negotiators",
+      "https://www.nytimes.com/2026/07/02/us/politics/israel-iran-negotiators-plot.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-02, 21:50:11",
+      "https://news.ycombinator.com/item?id=48767834"
+    ],
+    [
+      "Simple, beautiful Emacs modeline: modusregel",
+      "https://codeberg.org/jjba23/modusregel"
     ]
   ],
   [
@@ -125,7 +135,7 @@
       "https://news.ycombinator.com/item?id=48765607"
     ],
     [
-      "Vulkan is now available on NetBSD",
+      "This is my attempt to get Vulkan going on NetBSD",
       "https://github.com/segaboy/vulkan-netbsd"
     ]
   ],
@@ -261,16 +271,6 @@
   ],
   [
     [
-      "2026-06-30, 21:58:49",
-      "https://news.ycombinator.com/item?id=48739792"
-    ],
-    [
-      "Ask HN: Since when does Craigslist's front page have emojis?",
-      "https://news.ycombinator.com/item?id=48739792"
-    ]
-  ],
-  [
-    [
       "2026-06-30, 21:28:32",
       "https://news.ycombinator.com/item?id=48739459"
     ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=48702874"
     ],
     [
-      "Reality has a surprising amount of detail",
+      "Reality has a surprising amount of detail (2017)",
       "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail"
     ]
   ],
