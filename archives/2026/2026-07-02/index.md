@@ -23,6 +23,7 @@
 * [2026-07-02, 12:58:55](https://news.ycombinator.com/item?id=48760840) - [Winamp Skin Museum](https://skins.webamp.org)
 * [2026-07-02, 12:46:31](https://news.ycombinator.com/item?id=48760669) - [Germany’s Infineon opens major chip plant as EU seeks tech autonomy](https://www.rfi.fr/en/international-news/20260702-germany-s-infineon-opens-major-chip-plant-as-eu-seeks-tech-autonomy)
 * [2026-07-02, 12:40:36](https://news.ycombinator.com/item?id=48760598) - [AI fake news complaining about how AI fake news is the death of real news](https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/)
+* [2026-07-02, 12:33:08](https://news.ycombinator.com/item?id=48760490) - [NSA tries to weaken mlkem standardisation](https://nsa.2026.action.cr.yp.to)
 * [2026-07-02, 12:17:33](https://news.ycombinator.com/item?id=48760289) - [This blog is written in en-GB](https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/)
 * [2026-07-02, 12:10:24](https://news.ycombinator.com/item?id=48760201) - [Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train](https://arxiv.org/abs/2607.01232)
 * [2026-07-02, 11:58:28](https://news.ycombinator.com/item?id=48760048) - [Ask HN: Who is quitting? (July 2026)](https://news.ycombinator.com/item?id=48760048)
