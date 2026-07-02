@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-02, 21:19:20](https://news.ycombinator.com/item?id=48767515) - [BlastRadar – paste a Git diff, get a production risk score in 10 seconds](https://blastradar.vercel.app/)
 * [2026-07-02, 21:03:45](https://news.ycombinator.com/item?id=48767347) - [Virginia bans sale of geolocation data](https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data)
 * [2026-07-02, 20:01:20](https://news.ycombinator.com/item?id=48766598) - [Lightning Memory-Mapped Database Manager (LMDB) 1.0](http://www.lmdb.tech/doc/)
 * [2026-07-02, 19:35:20](https://news.ycombinator.com/item?id=48766297) - [Wireless LAN SD](https://www.sdcard.org/developers/sd-standard-overview/sdio-isdio/wireless-lan-sd/)
@@ -22,7 +23,6 @@
 * [2026-07-02, 13:43:41](https://news.ycombinator.com/item?id=48761536) - [AI can't be listed as inventor on patent applications, Japan's top court rules](https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/)
 * [2026-07-02, 13:19:22](https://news.ycombinator.com/item?id=48761118) - [How to ask for help from people who don't know you](https://pradyuprasad.com/writings/how-to-ask-for-help/)
 * [2026-07-02, 13:14:57](https://news.ycombinator.com/item?id=48761068) - [Hazel (YC W24) Is Hiring for Our Largest Government Contract](https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci)
-* [2026-07-02, 12:10:24](https://news.ycombinator.com/item?id=48760201) - [Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train](https://arxiv.org/abs/2607.01232)
 * [2026-07-02, 11:17:45](https://news.ycombinator.com/item?id=48759634) - [PeerTube is a free, decentralized and federated video platform](https://github.com/Chocobozzz/PeerTube)
 * [2026-07-02, 01:00:31](https://news.ycombinator.com/item?id=48755075) - [LibreCAD in the Browser](https://magik.net/librecad/)
 * [2026-07-01, 11:35:41](https://news.ycombinator.com/item?id=48745118) - [Client-side load balancing at a million requests per second](https://engineering.zalando.com/posts/2026/06/client-side-load-balancing.html?v=2](https://engineering.zalando.com/posts/2026/06/client-side-load-balancing.html)
