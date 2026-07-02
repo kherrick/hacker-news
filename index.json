@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-07-02, 16:29:13",
+      "https://news.ycombinator.com/item?id=48763864"
+    ],
+    [
+      "The US Government Is Now a Shareholder in 26 Companies",
+      "https://moeonmargin.substack.com/p/the-us-government-is-now-a-shareholder"
+    ]
+  ],
+  [
+    [
       "2026-07-02, 15:25:16",
       "https://news.ycombinator.com/item?id=48763035"
     ],
@@ -47,6 +57,16 @@
     [
       "Show HN: CLI tool for detecting non-exact code duplication with embedding models",
       "https://github.com/rafal-qa/slopo"
+    ]
+  ],
+  [
+    [
+      "2026-07-02, 14:17:23",
+      "https://news.ycombinator.com/item?id=48762008"
+    ],
+    [
+      "No LLM Code in Dependencies",
+      "https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/"
     ]
   ],
   [
@@ -127,16 +147,6 @@
     [
       "Germany’s Infineon opens major chip plant as EU seeks tech autonomy",
       "https://www.rfi.fr/en/international-news/20260702-germany-s-infineon-opens-major-chip-plant-as-eu-seeks-tech-autonomy"
-    ]
-  ],
-  [
-    [
-      "2026-07-02, 12:33:08",
-      "https://news.ycombinator.com/item?id=48760490"
-    ],
-    [
-      "NSA tries to weaken mlkem standardisation",
-      "https://nsa.2026.action.cr.yp.to"
     ]
   ],
   [
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2026-07-02, 02:30:16",
-      "https://news.ycombinator.com/item?id=48755731"
-    ],
-    [
-      "Bring back crappy forums",
-      "https://tedium.co/2026/07/01/online-web-forums-retrospective/"
-    ]
-  ],
-  [
-    [
       "2026-07-01, 12:25:29",
       "https://news.ycombinator.com/item?id=48745590"
     ],
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2026-06-29, 19:42:15",
-      "https://news.ycombinator.com/item?id=48724127"
-    ],
-    [
-      "Asymmetric Quantization: Near-Lossless Retrieval with 97% Storage Reduction",
-      "https://www.mixedbread.com/blog/asymmetric-quant"
-    ]
-  ],
-  [
-    [
       "2026-06-29, 04:41:18",
       "https://news.ycombinator.com/item?id=48714884"
     ],
@@ -287,6 +277,16 @@
     [
       "WinPE as a stateless harness for Windows driver testing and fuzzing",
       "https://bednars.me/blog/winpe-harness"
+    ]
+  ],
+  [
+    [
+      "2026-06-28, 12:46:20",
+      "https://news.ycombinator.com/item?id=48706825"
+    ],
+    [
+      "How VictoriaLogs Stores Your Logs in a Columnar Layout",
+      "https://victoriametrics.com/blog/victorialogs-internals-columnar-storage-on-disk/index.html"
     ]
   ],
   [
