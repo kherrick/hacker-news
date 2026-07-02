@@ -1,22 +1,22 @@
 [
   [
     [
-      "2026-07-02, 02:30:16",
-      "https://news.ycombinator.com/item?id=48755731"
+      "2026-07-02, 02:55:16",
+      "https://news.ycombinator.com/item?id=48755928"
     ],
     [
-      "Bring Back Crappy Forums",
-      "https://tedium.co/2026/07/01/online-web-forums-retrospective/"
+      "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
+      "https://senior-swe-bench.snorkel.ai/"
     ]
   ],
   [
     [
-      "2026-07-02, 02:19:48",
-      "https://news.ycombinator.com/item?id=48755653"
+      "2026-07-02, 02:30:16",
+      "https://news.ycombinator.com/item?id=48755731"
     ],
     [
-      "Avoiding Fallback in Distributed Systems",
-      "https://builder.aws.com"
+      "Bring back crappy forums",
+      "https://tedium.co/2026/07/01/online-web-forums-retrospective/"
     ]
   ],
   [
@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=48755005"
     ],
     [
-      "Building an Open-Source Robot Vacuum – Meet Oomwoo",
+      "Oomwoo, an open-source robot vacuum you build yourself",
       "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/"
     ]
   ],
@@ -95,7 +95,7 @@
       "https://news.ycombinator.com/item?id=48753524"
     ],
     [
-      "Chip Off the Old Block",
+      "Chip Off The Old Block",
       "https://www.astralcodexten.com/p/chip-off-the-old-block"
     ]
   ],
@@ -131,22 +131,22 @@
   ],
   [
     [
-      "2026-07-01, 19:35:57",
-      "https://news.ycombinator.com/item?id=48752030"
-    ],
-    [
-      "Fable 5 Is Back",
-      "https://twitter.com/claudeai/status/2072402636813607381"
-    ]
-  ],
-  [
-    [
       "2026-07-01, 18:12:18",
       "https://news.ycombinator.com/item?id=48750989"
     ],
     [
       "Weave Robotics launches Isaac 1, a $7,999 home robot with Fall 2026 deliveries",
       "https://www.weaverobotics.com/isaac-1"
+    ]
+  ],
+  [
+    [
+      "2026-07-01, 18:00:07",
+      "https://news.ycombinator.com/item?id=48750803"
+    ],
+    [
+      "Learn Vim motions with an ice-cream van",
+      "https://thisismodest.com/vimscoops/"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2026-07-01, 00:22:41",
+      "https://news.ycombinator.com/item?id=48740971"
+    ],
+    [
+      "Why jet engines aren't made in China",
+      "https://aakash.substack.com/p/why-jet-engines-arent-made-in-china"
+    ]
+  ],
+  [
+    [
       "2026-06-30, 13:59:32",
       "https://news.ycombinator.com/item?id=48732860"
     ],
@@ -275,28 +285,18 @@
       "https://news.ycombinator.com/item?id=48723102"
     ],
     [
-      "The Apple Disk II Controller Card",
+      "The Apple Disk II Controller Card (2021)",
       "https://www.bigmessowires.com/2021/11/12/the-amazing-disk-ii-controller-card/"
     ]
   ],
   [
     [
-      "2026-06-28, 17:59:50",
-      "https://news.ycombinator.com/item?id=48709760"
+      "2026-06-28, 15:06:43",
+      "https://news.ycombinator.com/item?id=48707979"
     ],
     [
-      "Flavor Graveyard",
-      "https://www.benjerry.com/flavors/flavor-graveyard"
-    ]
-  ],
-  [
-    [
-      "2026-06-28, 16:06:22",
-      "https://news.ycombinator.com/item?id=48708602"
-    ],
-    [
-      "Show HN: Unobin compiles Infrastructure as Code to one binary",
-      "https://cloudboss.co/docs/unobin"
+      "The vibration of the pager has a sound all its own",
+      "https://www.notyouremergency.com/triage-intro"
     ]
   ]
 ]
