@@ -4,9 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-07-02](index.md)
 
+* [2026-07-02, 12:40:36](https://news.ycombinator.com/item?id=48760598) - [AI fake news complaining about how AI fake news is the death of real news](https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/)
+* [2026-07-02, 12:17:33](https://news.ycombinator.com/item?id=48760289) - [This blog is written in en-GB](https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/)
+* [2026-07-02, 12:10:24](https://news.ycombinator.com/item?id=48760201) - [Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train](https://arxiv.org/abs/2607.01232)
+* [2026-07-02, 11:58:28](https://news.ycombinator.com/item?id=48760048) - [Ask HN: Who is quitting? (July 2026)](https://news.ycombinator.com/item?id=48760048)
 * [2026-07-02, 11:30:01](https://news.ycombinator.com/item?id=48759761) - [Vite+ Beta](https://voidzero.dev/posts/announcing-vite-plus-beta)
 * [2026-07-02, 11:16:31](https://news.ycombinator.com/item?id=48759623) - [OpenAI: In early talks to give 5% stake to US Government](https://www.theguardian.com/technology/2026/jul/02/openai-stake-us-government-ai-sam-altman)
 * [2026-07-02, 10:43:41](https://news.ycombinator.com/item?id=48759329) - [Meta building cloud business to sell excess AI capacity](https://www.reuters.com/business/meta-sell-excess-ai-computing-capacity-via-cloud-business-bloomberg-news-reports-2026-07-01/)
+* [2026-07-02, 10:00:27](https://news.ycombinator.com/item?id=48758970) - [Why I'm Forced to Say Farewell: Google Management Has Lost Its Moral Compass](https://docs.google.com/document/d/1SH9QRTAlL02THgAN2AGmWe9El0_2ZJF6hhgDBx8k97c/edit?tab=t.0)
 * [2026-07-02, 08:34:13](https://news.ycombinator.com/item?id=48758309) - [Google loses fight over record $4.7B EU antitrust fine](https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html)
 * [2026-07-02, 08:26:09](https://news.ycombinator.com/item?id=48758242) - [We Don't Have to Be This Bad at Improving Society](https://kasperjunge.com/blog/we-dont-have-to-be-this-bad-at-improving-society/)
 * [2026-07-02, 08:01:15](https://news.ycombinator.com/item?id=48758048) - [The Fall of the Theorem Economy](https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy)
