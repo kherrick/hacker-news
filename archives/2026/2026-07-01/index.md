@@ -62,6 +62,7 @@
 * [2026-07-01, 13:22:24](https://news.ycombinator.com/item?id=48746331) - [Manufact (YC S25) Is Hiring a Developer Advocate in SF](https://www.ycombinator.com/companies/manufact/jobs/4cyWd6S-developer-advocate-partnerships-devrel)
 * [2026-07-01, 13:04:16](https://news.ycombinator.com/item?id=48746076) - [Internal Combustion Engine](https://ciechanow.ski/internal-combustion-engine/)
 * [2026-07-01, 12:43:48](https://news.ycombinator.com/item?id=48745785) - [Sony will no longer produce discs for PlayStation games starting in January 2028](https://www.eurogamer.net/sony-ending-playstation-discs-physical-media-january-2028)
+* [2026-07-01, 12:25:29](https://news.ycombinator.com/item?id=48745590) - [Show HN: Claudoro, Pomodoro timer embedded in the Claude Code statusline](https://github.com/emson/claudoro)
 * [2026-07-01, 12:13:34](https://news.ycombinator.com/item?id=48745456) - [Physical disc production ending in Jan 2028 for new games on PlayStation](https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/)
 * [2026-07-01, 12:12:17](https://news.ycombinator.com/item?id=48745445) - [Announcing Box3D :: Box2D](https://box2d.org/posts/2026/06/announcing-box3d/)
 * [2026-07-01, 12:10:37](https://news.ycombinator.com/item?id=48745434) - [Show HN: Frond – a frontend runtime for your app's dependency graph](https://frondruntime.dev)
