@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-29](index.md)
 
+* [2026-06-29, 23:45:38](https://news.ycombinator.com/item?id=48726792) - [Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity](https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/)
 * [2026-06-29, 22:55:07](https://news.ycombinator.com/item?id=48726407) - [Compiler-Assisted Floating-Point Error Analysis and Profiling with FPChecker](https://fpanalysistools.org/ISC26/)
 * [2026-06-29, 22:23:08](https://news.ycombinator.com/item?id=48726125) - [What Breaks a Cell's Ribs Can Make It Stronger](https://www.quantamagazine.org/what-breaks-a-cells-ribs-can-make-it-stronger-20260629/)
 * [2026-06-29, 22:21:00](https://news.ycombinator.com/item?id=48726102) - [South Korea to spend $1T on more memory chip production and humanoid robots](https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/)

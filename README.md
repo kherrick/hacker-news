@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-07-02, 21:59:10](https://news.ycombinator.com/item?id=48767914) - [U.S. Officials Believed Israel Was Plotting to Kill Iranian Negotiators](https://www.nytimes.com/2026/07/02/us/politics/israel-iran-negotiators-plot.html)
+* [2026-07-02, 22:57:35](https://news.ycombinator.com/item?id=48768464) - [crustc: entirety of `rustc`, translated to C](https://github.com/FractalFir/crustc)
 * [2026-07-02, 21:50:11](https://news.ycombinator.com/item?id=48767834) - [Simple, beautiful Emacs modeline: modusregel](https://codeberg.org/jjba23/modusregel)
 * [2026-07-02, 21:03:45](https://news.ycombinator.com/item?id=48767347) - [Virginia bans sale of geolocation data](https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data)
 * [2026-07-02, 20:01:20](https://news.ycombinator.com/item?id=48766598) - [Lightning Memory-Mapped Database Manager (LMDB) 1.0](http://www.lmdb.tech/doc/)
@@ -8,7 +8,6 @@
 * [2026-07-02, 19:33:55](https://news.ycombinator.com/item?id=48766286) - [Great Salt Lake Tracker – Grow the Flow](https://growtheflowutah.org/laketracker/)
 * [2026-07-02, 19:27:38](https://news.ycombinator.com/item?id=48766209) - [EFF letter to FTC on X consent order (2 July 2026) [pdf]](https://cdn.arstechnica.net/wp-content/uploads/2026/07/EFF-letter-to-FTC-on-X-consent-order-7-2-26.pdf)
 * [2026-07-02, 19:20:29](https://news.ycombinator.com/item?id=48766124) - [A New Catalog of Stellar Rotation Periods for over a Million Stars](https://aasnova.org/2026/07/01/a-new-catalog-of-stellar-rotation-periods-for-over-a-million-stars/)
-* [2026-07-02, 19:11:57](https://news.ycombinator.com/item?id=48766026) - [The Short Leash AI Coding Method for Beating Fable](https://blog.okturtles.org/2026/07/short-leash-ai-method/)
 * [2026-07-02, 19:10:12](https://news.ycombinator.com/item?id=48766005) - [Claude-real-video － any LLM can watch a video](https://github.com/HUANGCHIHHUNGLeo/claude-real-video)
 * [2026-07-02, 18:56:33](https://news.ycombinator.com/item?id=48765830) - [JEP 539: Strict Field Initialization in the JVM moved to preview](https://openjdk.org/jeps/539)
 * [2026-07-02, 18:41:19](https://news.ycombinator.com/item?id=48765663) - [Exapunks (2018)](https://www.zachtronics.com/exapunks/)
@@ -28,6 +27,7 @@
 * [2026-07-02, 01:00:31](https://news.ycombinator.com/item?id=48755075) - [LibreCAD in the Browser](https://magik.net/librecad/)
 * [2026-07-01, 11:35:41](https://news.ycombinator.com/item?id=48745118) - [Client-side load balancing at a million requests per second](https://engineering.zalando.com/posts/2026/06/client-side-load-balancing.html?v=2](https://engineering.zalando.com/posts/2026/06/client-side-load-balancing.html)
 * [2026-06-30, 21:28:32](https://news.ycombinator.com/item?id=48739459) - [Superpowers 6](https://blog.fsck.com/2026/06/15/Superpowers-6/)
+* [2026-06-29, 23:45:38](https://news.ycombinator.com/item?id=48726792) - [Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity](https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/)
 * [2026-06-27, 23:36:25](https://news.ycombinator.com/item?id=48702874) - [Reality has a surprising amount of detail (2017)](https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail)
 * [2026-06-27, 21:38:05](https://news.ycombinator.com/item?id=48702006) - [German button maker searched rivers of American Midwest for valuable shells](https://www.smithsonianmag.com/smithsonian-institution/how-one-german-button-maker-searched-the-rivers-of-the-american-midwest-for-the-shells-that-could-make-him-a-fortune-180989012/)
 
