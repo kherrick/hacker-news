@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-02, 20:01:20",
+      "https://news.ycombinator.com/item?id=48766598"
+    ],
+    [
+      "Lightning Memory-Mapped Database Manager (LMDB) 1.0",
+      "http://www.lmdb.tech/doc/"
+    ]
+  ],
+  [
+    [
+      "2026-07-02, 19:27:38",
+      "https://news.ycombinator.com/item?id=48766209"
+    ],
+    [
+      "EFF letter to FTC on X consent order (2 July 2026) [pdf]",
+      "https://cdn.arstechnica.net/wp-content/uploads/2026/07/EFF-letter-to-FTC-on-X-consent-order-7-2-26.pdf"
+    ]
+  ],
+  [
+    [
       "2026-07-02, 19:16:20",
       "https://news.ycombinator.com/item?id=48766076"
     ],
@@ -37,16 +57,6 @@
     [
       "Postgres transactions are a distributed systems superpower",
       "https://www.dbos.dev/blog/co-locating-workflow-state-with-your-data"
-    ]
-  ],
-  [
-    [
-      "2026-07-02, 18:37:57",
-      "https://news.ycombinator.com/item?id=48765630"
-    ],
-    [
-      "Claude's AskUserQuestion: \"No response after 60s – continued without an answer\"",
-      "https://github.com/anthropics/claude-code/issues/73125"
     ]
   ],
   [
@@ -117,16 +127,6 @@
     [
       "No LLM Code in Dependencies",
       "https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/"
-    ]
-  ],
-  [
-    [
-      "2026-07-02, 14:16:57",
-      "https://news.ycombinator.com/item?id=48762000"
-    ],
-    [
-      "Show HN: Mail Memories – A desktop app to rescue photos from Gmail",
-      "https://mailmemories.com"
     ]
   ],
   [
