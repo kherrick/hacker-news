@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-07-02](index.md)
 
+* [2026-07-02, 13:41:11](https://news.ycombinator.com/item?id=48761493) - [Show HN: ZeroFS – A log-structured filesystem for S3](https://www.zerofs.net/)
+* [2026-07-02, 13:19:22](https://news.ycombinator.com/item?id=48761118) - [How to ask for help from people who don't know you](https://pradyuprasad.com/writings/how-to-ask-for-help/)
 * [2026-07-02, 13:16:54](https://news.ycombinator.com/item?id=48761088) - [In the age of algorithms and AI, is traditional media democracy's defence?](https://www.martenscentre.eu/media-mentions/in-the-age-of-algorithms-and-ai-is-traditional-media-democracys-last-line-of-defence/)
 * [2026-07-02, 13:14:57](https://news.ycombinator.com/item?id=48761068) - [Hazel (YC W24) Is Hiring for Our Largest Government Contract](https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci)
+* [2026-07-02, 12:58:55](https://news.ycombinator.com/item?id=48760840) - [Winamp Skin Museum](https://skins.webamp.org)
+* [2026-07-02, 12:46:31](https://news.ycombinator.com/item?id=48760669) - [Germany’s Infineon opens major chip plant as EU seeks tech autonomy](https://www.rfi.fr/en/international-news/20260702-germany-s-infineon-opens-major-chip-plant-as-eu-seeks-tech-autonomy)
 * [2026-07-02, 12:40:36](https://news.ycombinator.com/item?id=48760598) - [AI fake news complaining about how AI fake news is the death of real news](https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/)
 * [2026-07-02, 12:17:33](https://news.ycombinator.com/item?id=48760289) - [This blog is written in en-GB](https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/)
 * [2026-07-02, 12:10:24](https://news.ycombinator.com/item?id=48760201) - [Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train](https://arxiv.org/abs/2607.01232)
@@ -14,6 +18,7 @@
 * [2026-07-02, 11:30:01](https://news.ycombinator.com/item?id=48759761) - [Vite+ Beta](https://voidzero.dev/posts/announcing-vite-plus-beta)
 * [2026-07-02, 11:16:31](https://news.ycombinator.com/item?id=48759623) - [OpenAI: In early talks to give 5% stake to US Government](https://www.theguardian.com/technology/2026/jul/02/openai-stake-us-government-ai-sam-altman)
 * [2026-07-02, 10:43:41](https://news.ycombinator.com/item?id=48759329) - [Meta building cloud business to sell excess AI capacity](https://www.reuters.com/business/meta-sell-excess-ai-computing-capacity-via-cloud-business-bloomberg-news-reports-2026-07-01/)
+* [2026-07-02, 10:35:17](https://news.ycombinator.com/item?id=48759256) - [Orbital Data Centers: Why the Hype Outpaces Reality](https://spectrum.ieee.org/orbital-data-center-hype)
 * [2026-07-02, 10:00:27](https://news.ycombinator.com/item?id=48758970) - [Why I'm Forced to Say Farewell: Google Management Has Lost Its Moral Compass](https://docs.google.com/document/d/1SH9QRTAlL02THgAN2AGmWe9El0_2ZJF6hhgDBx8k97c/edit?tab=t.0)
 * [2026-07-02, 08:34:13](https://news.ycombinator.com/item?id=48758309) - [Google loses fight over record $4.7B EU antitrust fine](https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html)
 * [2026-07-02, 08:26:09](https://news.ycombinator.com/item?id=48758242) - [We Don't Have to Be This Bad at Improving Society](https://kasperjunge.com/blog/we-dont-have-to-be-this-bad-at-improving-society/)
