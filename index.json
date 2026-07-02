@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-02, 15:25:16",
+      "https://news.ycombinator.com/item?id=48763035"
+    ],
+    [
+      "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
+      "https://mathstodon.xyz/@iblech/116769502749142438"
+    ]
+  ],
+  [
+    [
       "2026-07-02, 15:11:20",
       "https://news.ycombinator.com/item?id=48762862"
     ],
@@ -151,22 +161,12 @@
   ],
   [
     [
-      "2026-07-02, 10:00:27",
-      "https://news.ycombinator.com/item?id=48758970"
+      "2026-07-02, 11:17:45",
+      "https://news.ycombinator.com/item?id=48759634"
     ],
     [
-      "Why I'm Forced to Say Farewell: Google Management Has Lost Its Moral Compass",
-      "https://docs.google.com/document/d/1SH9QRTAlL02THgAN2AGmWe9El0_2ZJF6hhgDBx8k97c/edit?tab=t.0"
-    ]
-  ],
-  [
-    [
-      "2026-07-02, 08:34:13",
-      "https://news.ycombinator.com/item?id=48758309"
-    ],
-    [
-      "Google loses fight over record $4.7B EU antitrust fine",
-      "https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html"
+      "PeerTube is a free, decentralized and federated video platform",
+      "https://github.com/Chocobozzz/PeerTube"
     ]
   ],
   [
@@ -177,6 +177,16 @@
     [
       "The fall of the theorem economy",
       "https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy"
+    ]
+  ],
+  [
+    [
+      "2026-07-02, 05:19:34",
+      "https://news.ycombinator.com/item?id=48756840"
+    ],
+    [
+      "CursorBench 3.1",
+      "https://cursor.com/evals"
     ]
   ],
   [
@@ -201,12 +211,12 @@
   ],
   [
     [
-      "2026-07-02, 02:30:16",
-      "https://news.ycombinator.com/item?id=48755731"
+      "2026-07-02, 02:55:16",
+      "https://news.ycombinator.com/item?id=48755928"
     ],
     [
-      "Bring back crappy forums",
-      "https://tedium.co/2026/07/01/online-web-forums-retrospective/"
+      "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
+      "https://senior-swe-bench.snorkel.ai/"
     ]
   ],
   [
@@ -231,26 +241,6 @@
   ],
   [
     [
-      "2026-07-01, 17:53:44",
-      "https://news.ycombinator.com/item?id=48750710"
-    ],
-    [
-      "What to learn to be a graphics programmer",
-      "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/"
-    ]
-  ],
-  [
-    [
-      "2026-07-01, 14:10:28",
-      "https://news.ycombinator.com/item?id=48747116"
-    ],
-    [
-      "FFmpeg 9.1's new AAC encoder",
-      "https://hydrogenaudio.org/index.php/topic,129691.0.html"
-    ]
-  ],
-  [
-    [
       "2026-07-01, 12:25:29",
       "https://news.ycombinator.com/item?id=48745590"
     ],
@@ -271,6 +261,16 @@
   ],
   [
     [
+      "2026-06-29, 04:41:18",
+      "https://news.ycombinator.com/item?id=48714884"
+    ],
+    [
+      "My favorite keyboards",
+      "https://fabiensanglard.net/keyboards/index.html"
+    ]
+  ],
+  [
+    [
       "2026-06-28, 19:17:42",
       "https://news.ycombinator.com/item?id=48710537"
     ],
@@ -285,18 +285,18 @@
       "https://news.ycombinator.com/item?id=48702006"
     ],
     [
-      "German Button Maker Searched Rivers of American Midwest for Valuable Shells",
+      "German button maker searched rivers of American Midwest for valuable shells",
       "https://www.smithsonianmag.com/smithsonian-institution/how-one-german-button-maker-searched-the-rivers-of-the-american-midwest-for-the-shells-that-could-make-him-a-fortune-180989012/"
     ]
   ],
   [
     [
-      "2026-06-27, 08:13:45",
-      "https://news.ycombinator.com/item?id=48696218"
+      "2026-06-26, 07:21:27",
+      "https://news.ycombinator.com/item?id=48683417"
     ],
     [
-      "Show HN: Cyclearchive.com – search vintage cycling magazines",
-      "https://cyclearchive.com/search/"
+      "The Meadows of Medieval Summer",
+      "https://www.historytoday.com/archive/out-margins/meadows-medieval-summer"
     ]
   ]
 ]
