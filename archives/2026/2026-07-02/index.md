@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-02](index.md)
 
+* [2026-07-02, 02:55:16](https://news.ycombinator.com/item?id=48755928) - [Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers](https://senior-swe-bench.snorkel.ai/)
 * [2026-07-02, 02:30:16](https://news.ycombinator.com/item?id=48755731) - [Bring Back Crappy Forums](https://tedium.co/2026/07/01/online-web-forums-retrospective/)
 * [2026-07-02, 02:19:48](https://news.ycombinator.com/item?id=48755653) - [Avoiding Fallback in Distributed Systems](https://builder.aws.com)
 * [2026-07-02, 00:48:01](https://news.ycombinator.com/item?id=48755005) - [Building an Open-Source Robot Vacuum – Meet Oomwoo](https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/)

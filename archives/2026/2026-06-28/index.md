@@ -45,6 +45,7 @@
 * [2026-06-28, 15:32:44](https://news.ycombinator.com/item?id=48708265) - [Does Your Paper Really Suck?](https://www.sina.bio/posts/does-your-paper-really-suck.html)
 * [2026-06-28, 15:26:14](https://news.ycombinator.com/item?id=48708182) - [Show HN: Zanagrams](https://zanagrams.com/)
 * [2026-06-28, 15:22:51](https://news.ycombinator.com/item?id=48708139) - [California legislature agrees to upload driver's licenses to national database](https://papersplease.org/wp/2026/06/27/california-legislature-agrees-to-upload-drivers-licenses-to-national-database/)
+* [2026-06-28, 15:06:43](https://news.ycombinator.com/item?id=48707979) - [The vibration of the pager has a sound all its own](https://www.notyouremergency.com/triage-intro)
 * [2026-06-28, 14:46:03](https://news.ycombinator.com/item?id=48707769) - [Michigan bill would bar employers from requiring after-hours coms with workers](https://www.cbsnews.com/detroit/news/workplace-boundaries-act-employees-after-hours/)
 * [2026-06-28, 14:44:56](https://news.ycombinator.com/item?id=48707763) - [5k menus from the New York Public Library’s Buttolph Collection (1880-1920)](https://pudding.cool/2026/06/menu-story/)
 * [2026-06-28, 14:44:56](https://news.ycombinator.com/item?id=48707763) - [5k Restaurant Menus, Years 1880-1920](https://pudding.cool/2026/06/menu-collection/)
