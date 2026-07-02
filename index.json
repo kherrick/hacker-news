@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-07-02, 06:44:34",
-      "https://news.ycombinator.com/item?id=48757440"
-    ],
-    [
-      "The gauge broke: devs felt 20% faster with AI, measured 19% slower",
-      "https://intrepidkarthi.com/writing/the-gauge-broke/"
-    ]
-  ],
-  [
-    [
       "2026-07-02, 05:19:34",
       "https://news.ycombinator.com/item?id=48756840"
     ],
@@ -67,16 +57,6 @@
     [
       "Oomwoo, an open-source robot vacuum you build yourself",
       "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/"
-    ]
-  ],
-  [
-    [
-      "2026-07-01, 23:56:15",
-      "https://news.ycombinator.com/item?id=48754700"
-    ],
-    [
-      "The <Usermedia> HTML Element",
-      "https://developer.chrome.com/blog/usermedia-html-element"
     ]
   ],
   [
@@ -181,6 +161,16 @@
   ],
   [
     [
+      "2026-07-01, 15:30:35",
+      "https://news.ycombinator.com/item?id=48748518"
+    ],
+    [
+      "How We Made IPFS Content Publishing 10x Faster",
+      "https://probelab.io/blog/optimistic-provide/"
+    ]
+  ],
+  [
+    [
       "2026-07-01, 15:01:21",
       "https://news.ycombinator.com/item?id=48747976"
     ],
@@ -241,12 +231,12 @@
   ],
   [
     [
-      "2026-07-01, 13:04:16",
-      "https://news.ycombinator.com/item?id=48746076"
+      "2026-07-01, 12:13:34",
+      "https://news.ycombinator.com/item?id=48745456"
     ],
     [
-      "Internal Combustion Engine (2021)",
-      "https://ciechanow.ski/internal-combustion-engine/"
+      "Physical disc production ending in Jan 2028 for new games on PlayStation",
+      "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "How do wombats poop cubes?",
       "https://www.science.org/content/article/how-do-wombats-poop-cubes-scientists-get-bottom-mystery"
+    ]
+  ],
+  [
+    [
+      "2026-06-29, 19:42:15",
+      "https://news.ycombinator.com/item?id=48724127"
+    ],
+    [
+      "Asymmetric Quantization: Near-Lossless Retrieval with 97% Storage Reduction",
+      "https://www.mixedbread.com/blog/asymmetric-quant"
     ]
   ],
   [
