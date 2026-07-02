@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-02](index.md)
 
+* [2026-07-02, 15:25:16](https://news.ycombinator.com/item?id=48763035) - [Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory](https://mathstodon.xyz/@iblech/116769502749142438)
 * [2026-07-02, 15:11:20](https://news.ycombinator.com/item?id=48762862) - [Launch HN: Manufact (YC S25) – MCP Cloud](https://manufact.com)
 * [2026-07-02, 14:19:24](https://news.ycombinator.com/item?id=48762038) - [Show HN: CLI tool for detecting non-exact code duplication with embedding models](https://github.com/rafal-qa/slopo)
 * [2026-07-02, 14:16:57](https://news.ycombinator.com/item?id=48762000) - [Show HN: Mail Memories – A desktop app to rescue photos from Gmail](https://mailmemories.com)
@@ -23,6 +24,7 @@
 * [2026-07-02, 11:58:28](https://news.ycombinator.com/item?id=48760048) - [Ask HN: Who is quitting? (July 2026)](https://news.ycombinator.com/item?id=48760048)
 * [2026-07-02, 11:41:27](https://news.ycombinator.com/item?id=48759870) - [Many people misunderstand the purpose of code review](https://mathstodon.xyz/@mjd/115096720350507897)
 * [2026-07-02, 11:30:01](https://news.ycombinator.com/item?id=48759761) - [Vite+ Beta](https://voidzero.dev/posts/announcing-vite-plus-beta)
+* [2026-07-02, 11:17:45](https://news.ycombinator.com/item?id=48759634) - [PeerTube is a free, decentralized and federated video platform](https://github.com/Chocobozzz/PeerTube)
 * [2026-07-02, 11:16:31](https://news.ycombinator.com/item?id=48759623) - [OpenAI: In early talks to give 5% stake to US Government](https://www.theguardian.com/technology/2026/jul/02/openai-stake-us-government-ai-sam-altman)
 * [2026-07-02, 10:43:41](https://news.ycombinator.com/item?id=48759329) - [Meta building cloud business to sell excess AI capacity](https://www.reuters.com/business/meta-sell-excess-ai-computing-capacity-via-cloud-business-bloomberg-news-reports-2026-07-01/)
 * [2026-07-02, 10:35:17](https://news.ycombinator.com/item?id=48759256) - [Orbital Data Centers: Why the Hype Outpaces Reality](https://spectrum.ieee.org/orbital-data-center-hype)
