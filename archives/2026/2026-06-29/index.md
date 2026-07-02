@@ -10,6 +10,7 @@
 * [2026-06-29, 21:18:46](https://news.ycombinator.com/item?id=48725397) - [Is It Out Yet?](https://outyet.ai)
 * [2026-06-29, 19:52:51](https://news.ycombinator.com/item?id=48724274) - [Segmenting Robot Video into Actionable Subtasks](https://macrodata.co/blog/annotating-robot-video-subtasks)
 * [2026-06-29, 19:49:28](https://news.ycombinator.com/item?id=48724230) - [Announcing .self: A New Top-Level Domain Designed to Support Self-Hosting](https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/)
+* [2026-06-29, 19:42:15](https://news.ycombinator.com/item?id=48724127) - [Asymmetric Quantization: Near-Lossless Retrieval with 97% Storage Reduction](https://www.mixedbread.com/blog/asymmetric-quant)
 * [2026-06-29, 19:06:17](https://news.ycombinator.com/item?id=48723677) - [JumpServer: Open-Source Privileged Access Management](https://github.com/jumpserver/jumpserver)
 * [2026-06-29, 18:52:25](https://news.ycombinator.com/item?id=48723484) - [CERN bids farewell to the LHC and enters Long Shutdown 3](https://home.cern/cern-bids-farewell-to-the-lhc-and-enters-long-shutdown-3/)
 * [2026-06-29, 18:49:41](https://news.ycombinator.com/item?id=48723452) - [.garden TLD's change to a bad neighborhood](https://discourse.ifin.network/t/garden-tlds-change-to-a-bad-neighborhood/627)
