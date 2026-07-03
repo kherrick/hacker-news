@@ -58,6 +58,7 @@
 * [2026-06-30, 12:21:21](https://news.ycombinator.com/item?id=48731687) - [Generating Images with a 2025 Android](https://www.duration.ai/blog/generating-images-with-a-2025-android)
 * [2026-06-30, 12:15:55](https://news.ycombinator.com/item?id=48731619) - [Crossword Heatmap](https://arbourtrary.com/sketches/crossword-heatmap)
 * [2026-06-30, 11:40:50](https://news.ycombinator.com/item?id=48731252) - [I Type Holes in Keyboard Covers – This One Survived](https://medium.com/@jamesgarside_/i-type-holes-in-keyboard-covers-e5664732ef93)
+* [2026-06-30, 11:07:38](https://news.ycombinator.com/item?id=48730953) - [Hunting a 16-year-old SQLite WAL bug with TLA+](https://ubuntu.com/blog/hunting-a-16-year-old-sqlite-bug-with-tla-is-dqlite-affected)
 * [2026-06-30, 11:03:30](https://news.ycombinator.com/item?id=48730922) - [Should every baby's DNA be sequenced?](https://www.economist.com/science-and-technology/2026/06/29/should-every-babys-dna-be-sequenced)
 * [2026-06-30, 11:02:10](https://news.ycombinator.com/item?id=48730904) - [Sony erases digital content from libraries; reminded we don't own what we buy](https://arstechnica.com/gadgets/2026/06/sony-erases-digital-content-from-libraries-were-reminded-we-dont-own-what-we-buy/)
 * [2026-06-30, 10:48:23](https://news.ycombinator.com/item?id=48730818) - [Parse, Don't Validate – In a Language That Doesn't Want You To](https://cekrem.github.io/posts/parse-dont-validate-typescript/)
