@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2026-07-03](index.md)
 
 * [2026-07-03, 20:26:31](https://news.ycombinator.com/item?id=48779565) - [Doing the Work](https://bran.name/doing-the-work.html)
+* [2026-07-03, 20:15:49](https://news.ycombinator.com/item?id=48779454) - [SearXNG: A free internet metasearch engine](https://github.com/searxng/searxng)
+* [2026-07-03, 20:13:09](https://news.ycombinator.com/item?id=48779415) - [Pet projects are getting too big to pet](https://www.nnehdi.me/p/pet-projects-are-getting-too-big)
 * [2026-07-03, 19:28:10](https://news.ycombinator.com/item?id=48778971) - [ClawdMojis – A Clawd for Every Occasion](https://github.com/afspies/ClawdMoji)
 * [2026-07-03, 19:08:31](https://news.ycombinator.com/item?id=48778757) - [FreeBSD Ate My RAM](https://crocidb.com/post/freebsd-ate-my-ram/)
 * [2026-07-03, 18:11:32](https://news.ycombinator.com/item?id=48778031) - [A Cali. farmer is giving away tons of nectarines that he's not allowed to sell](https://apnews.com/article/california-farmer-nectarines-lawsuit-patent-4f7bc8ab185e8b9cbdd6d6ad4f2aabd1)
