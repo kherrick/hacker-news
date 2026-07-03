@@ -1,11 +1,21 @@
 [
   [
     [
+      "2026-07-03, 01:02:45",
+      "https://news.ycombinator.com/item?id=48769397"
+    ],
+    [
+      "CarPlay Is Additive",
+      "https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts"
+    ]
+  ],
+  [
+    [
       "2026-07-03, 00:01:26",
       "https://news.ycombinator.com/item?id=48768997"
     ],
     [
-      "GitHub is proud to announce that you can now obtain your public repo on CD-ROM",
+      "Order a burned CD of your own public GitHub repo",
       "https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6G-c11n8yFDlQmk4B-QjDxUQkdTTjZLU0EyTFFRV1E3NVRTVTRTWjRHMy4u&route=shorturl"
     ]
   ],
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2026-07-02, 18:56:33",
-      "https://news.ycombinator.com/item?id=48765830"
-    ],
-    [
-      "JEP 539: Strict Field Initialization in the JVM moved to preview",
-      "https://openjdk.org/jeps/539"
-    ]
-  ],
-  [
-    [
       "2026-07-02, 18:41:19",
       "https://news.ycombinator.com/item?id=48765663"
     ],
@@ -177,16 +177,6 @@
     [
       "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
       "https://mathstodon.xyz/@iblech/116769502749142438"
-    ]
-  ],
-  [
-    [
-      "2026-07-02, 15:11:20",
-      "https://news.ycombinator.com/item?id=48762862"
-    ],
-    [
-      "Launch HN: Manufact (YC S25) – MCP Cloud",
-      "https://manufact.com"
     ]
   ],
   [
@@ -271,12 +261,22 @@
   ],
   [
     [
-      "2026-06-30, 07:00:33",
-      "https://news.ycombinator.com/item?id=48729404"
+      "2026-06-30, 12:15:55",
+      "https://news.ycombinator.com/item?id=48731619"
     ],
     [
-      "Show HN: Gitstock–Transform you GitHub commit history into K-line and animations",
-      "https://gitstock.org/"
+      "Crossword Heatmap",
+      "https://arbourtrary.com/sketches/crossword-heatmap"
+    ]
+  ],
+  [
+    [
+      "2026-06-29, 20:18:58",
+      "https://news.ycombinator.com/item?id=48724608"
+    ],
+    [
+      "Perform DFU Restores on Apple Silicon Macs with Macvdmtool (2021)",
+      "https://www.bkurtz.io/posts/macvdmtool/"
     ]
   ],
   [
