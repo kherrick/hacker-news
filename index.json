@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-07-03, 15:06:44",
+      "https://news.ycombinator.com/item?id=48775949"
+    ],
+    [
+      "Best Simple System for Now",
+      "https://dannorth.net/blog/best-simple-system-for-now/"
+    ]
+  ],
+  [
+    [
+      "2026-07-03, 15:03:43",
+      "https://news.ycombinator.com/item?id=48775921"
+    ],
+    [
+      "Jamesob's guide to running SOTA LLMs locally",
+      "https://github.com/jamesob/local-llm"
+    ]
+  ],
+  [
+    [
+      "2026-07-03, 15:02:23",
+      "https://news.ycombinator.com/item?id=48775909"
+    ],
+    [
+      "It Still Can't Do My Job: Four Years of Moving Goalposts (2022–2026)",
+      "https://publicznyprofil.github.io/ai_cant_do_your_work/"
+    ]
+  ],
+  [
+    [
       "2026-07-03, 13:19:46",
       "https://news.ycombinator.com/item?id=48774704"
     ],
@@ -61,12 +91,12 @@
   ],
   [
     [
-      "2026-07-03, 12:51:17",
-      "https://news.ycombinator.com/item?id=48774414"
+      "2026-07-03, 12:46:30",
+      "https://news.ycombinator.com/item?id=48774368"
     ],
     [
-      "Please stop the AI confidence theater",
-      "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater"
+      "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
+      "https://arxiv.org/abs/2607.02512"
     ]
   ],
   [
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2026-07-02, 19:11:57",
-      "https://news.ycombinator.com/item?id=48766026"
-    ],
-    [
-      "The short leash AI coding method for beating Fable",
-      "https://blog.okturtles.org/2026/07/short-leash-ai-method/"
-    ]
-  ],
-  [
-    [
       "2026-07-02, 18:41:19",
       "https://news.ycombinator.com/item?id=48765663"
     ],
@@ -231,32 +251,12 @@
   ],
   [
     [
-      "2026-06-30, 19:45:39",
-      "https://news.ycombinator.com/item?id=48738244"
+      "2026-06-30, 11:07:38",
+      "https://news.ycombinator.com/item?id=48730953"
     ],
     [
-      "Q&A with Micron's VP and GM of Memory",
-      "https://morethanmoore.substack.com/p/q-and-a-with-microns-vp-and-gm-of"
-    ]
-  ],
-  [
-    [
-      "2026-06-30, 15:45:07",
-      "https://news.ycombinator.com/item?id=48734380"
-    ],
-    [
-      "The Beauty of Tautologies",
-      "https://scottsumner.substack.com/p/the-beauty-of-tautologies"
-    ]
-  ],
-  [
-    [
-      "2026-06-30, 14:58:10",
-      "https://news.ycombinator.com/item?id=48733642"
-    ],
-    [
-      "Show HN: OM Core – multidimensional models without spreadsheet cell formulas",
-      "https://github.com/cloudcell/om-core"
+      "Hunting a 16-year-old SQLite WAL bug with TLA+",
+      "https://ubuntu.com/blog/hunting-a-16-year-old-sqlite-bug-with-tla-is-dqlite-affected"
     ]
   ],
   [
