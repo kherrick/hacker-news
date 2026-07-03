@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-26](index.md)
 
+* [2026-06-26, 23:36:56](https://news.ycombinator.com/item?id=48693428) - [Quake in 13 Kilobytes (2021)](https://js13kgames.com/games/q1k3)
 * [2026-06-26, 23:36:30](https://news.ycombinator.com/item?id=48693420) - [Foreign funds help make housing unaffordable: research](https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/)
 * [2026-06-26, 23:33:46](https://news.ycombinator.com/item?id=48693391) - [Om](https://daringfireball.net/2026/06/om)
 * [2026-06-26, 23:29:51](https://news.ycombinator.com/item?id=48693369) - [Waveloop: What Fable left me](https://neynt.ca/writing/waveloop/)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-03](index.md)
 
+* [2026-07-03, 08:31:37](https://news.ycombinator.com/item?id=48772443) - [Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says](https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/)
+* [2026-07-03, 08:23:32](https://news.ycombinator.com/item?id=48772388) - [Half-Baked Product](https://weli.dev/blog/half-baked-product/)
 * [2026-07-03, 06:21:44](https://news.ycombinator.com/item?id=48771515) - [Ask HN: Is anyone experimenting with different ways of using LLMs for coding?](https://news.ycombinator.com/item?id=48771515)
 * [2026-07-03, 04:16:17](https://news.ycombinator.com/item?id=48770647) - [The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn't](https://stefan.schueller.net/posts/the-free-market-lie/)
 * [2026-07-03, 04:06:01](https://news.ycombinator.com/item?id=48770575) - [Every AI Visibility Tool Is Lying to You](https://canonry.ai/blog/ai-visibility-tools-are-lying)

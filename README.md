@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-07-03, 04:16:17](https://news.ycombinator.com/item?id=48770647) - [Why Switzerland has 25 gbit internet and America doesn't](https://stefan.schueller.net/posts/the-free-market-lie/)
+* [2026-07-03, 08:31:37](https://news.ycombinator.com/item?id=48772443) - [Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says](https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/)
+* [2026-07-03, 08:23:32](https://news.ycombinator.com/item?id=48772388) - [Half-Baked Product](https://weli.dev/blog/half-baked-product/)
 * [2026-07-03, 03:49:47](https://news.ycombinator.com/item?id=48770477) - [14× faster embeddings: how we rebuilt the ONNX path in Manticore](https://manticoresearch.com/blog/onnx-embeddings-speedup/)
-* [2026-07-03, 01:42:40](https://news.ycombinator.com/item?id=48769696) - [AI is 'not smart' so what's next in artificial intelligence?](https://www.bbc.com/news/articles/cj6gr0xkyr3o)
 * [2026-07-03, 01:37:11](https://news.ycombinator.com/item?id=48769639) - [The Safari MCP server for web developers](https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/)
 * [2026-07-03, 01:02:45](https://news.ycombinator.com/item?id=48769397) - [CarPlay Is Additive](https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts)
 * [2026-07-03, 00:01:06](https://news.ycombinator.com/item?id=48768992) - [An American Privacy Emergency](https://scottaaronson.blog/?p=9902)
@@ -10,7 +10,6 @@
 * [2026-07-02, 22:57:35](https://news.ycombinator.com/item?id=48768464) - [crustc: entirety of `rustc`, translated to C](https://github.com/FractalFir/crustc)
 * [2026-07-02, 22:44:04](https://news.ycombinator.com/item?id=48768336) - [Mystery identity of 'Green Boots' climber is finally solved after DNA test](https://www.dailymail.com/news/article-15943905/Mystery-identity-Green-Boots-climber-macabre-landmark-frozen-ice-dying-Everest-finally-solved-DNA-test.html)
 * [2026-07-02, 21:03:45](https://news.ycombinator.com/item?id=48767347) - [Virginia bans sale of geolocation data](https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data)
-* [2026-07-02, 20:01:20](https://news.ycombinator.com/item?id=48766598) - [Lightning Memory-Mapped Database Manager (LMDB) 1.0](http://www.lmdb.tech/doc/)
 * [2026-07-02, 19:33:55](https://news.ycombinator.com/item?id=48766286) - [Great Salt Lake Tracker – Grow the Flow](https://growtheflowutah.org/laketracker/)
 * [2026-07-02, 19:27:38](https://news.ycombinator.com/item?id=48766209) - [EFF letter to FTC on X consent order [pdf]](https://www.eff.org/deeplinks/2026/06/eff-and-allies-xs-ftc-petition-waive-privacy-violation-order-should-be-rejected)
 * [2026-07-02, 19:11:57](https://news.ycombinator.com/item?id=48766026) - [The short leash AI coding method for beating Fable](https://blog.okturtles.org/2026/07/short-leash-ai-method/)
@@ -29,6 +28,7 @@
 * [2026-06-29, 20:18:58](https://news.ycombinator.com/item?id=48724608) - [Perform DFU Restores on Apple Silicon Macs with Macvdmtool (2021)](https://www.bkurtz.io/posts/macvdmtool/)
 * [2026-06-29, 15:40:13](https://news.ycombinator.com/item?id=48720728) - [Cowboys, Frontiersmen, Settlers, Townspeople, Cityfolk](https://huntersoftwareconsulting.com/posts/2026-06-28-company-phase-changes/)
 * [2026-06-27, 23:36:25](https://news.ycombinator.com/item?id=48702874) - [Reality has a surprising amount of detail (2017)](https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail)
+* [2026-06-26, 23:36:56](https://news.ycombinator.com/item?id=48693428) - [Quake in 13 Kilobytes (2021)](https://js13kgames.com/games/q1k3)
 * [2026-06-25, 01:11:53](https://news.ycombinator.com/item?id=48667568) - [A Special Wireless-Free Nikon Camera Is Publicly Available for the First Time](https://petapixel.com/2026/06/24/a-special-wireless-free-nikon-camera-is-publicly-available-for-the-first-time/)
 
 ## [Archives](archives/index.md)
