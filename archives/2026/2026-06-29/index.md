@@ -10,6 +10,7 @@
 * [2026-06-29, 22:21:00](https://news.ycombinator.com/item?id=48726102) - [South Korea to spend $1T on more memory chip production and humanoid robots](https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/)
 * [2026-06-29, 22:18:26](https://news.ycombinator.com/item?id=48726073) - [Scientists find molecular-level evidence for two structures in liquid water](https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html)
 * [2026-06-29, 21:18:46](https://news.ycombinator.com/item?id=48725397) - [Is It Out Yet?](https://outyet.ai)
+* [2026-06-29, 20:18:58](https://news.ycombinator.com/item?id=48724608) - [Perform DFU Restores on Apple Silicon Macs with Macvdmtool (2021)](https://www.bkurtz.io/posts/macvdmtool/)
 * [2026-06-29, 19:52:51](https://news.ycombinator.com/item?id=48724274) - [Segmenting Robot Video into Actionable Subtasks](https://macrodata.co/blog/annotating-robot-video-subtasks)
 * [2026-06-29, 19:49:28](https://news.ycombinator.com/item?id=48724230) - [Announcing .self: A New Top-Level Domain Designed to Support Self-Hosting](https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/)
 * [2026-06-29, 19:42:15](https://news.ycombinator.com/item?id=48724127) - [Asymmetric Quantization: Near-Lossless Retrieval with 97% Storage Reduction](https://www.mixedbread.com/blog/asymmetric-quant)
