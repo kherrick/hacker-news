@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-03, 01:02:45](https://news.ycombinator.com/item?id=48769397) - [CarPlay Is Additive](https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts)
 * [2026-07-03, 00:18:11](https://news.ycombinator.com/item?id=48769110) - [\"An AI Job Apocalypse?\" – Goldman Sachs Report [pdf]](https://www.goldmansachs.com/static-libs/pdf-redirect/prod/index.html?path=/pdfs/insights/goldman-sachs-research/an-ai-job-apocalypse/report.pdf&originalQuery=&referrer=)
 * [2026-07-03, 00:01:26](https://news.ycombinator.com/item?id=48768997) - [GitHub is proud to announce that you can now obtain your public repo on CD-ROM](https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6G-c11n8yFDlQmk4B-QjDxUQkdTTjZLU0EyTFFRV1E3NVRTVTRTWjRHMy4u&route=shorturl)
 * [2026-07-03, 00:01:06](https://news.ycombinator.com/item?id=48768992) - [An American Privacy Emergency](https://scottaaronson.blog/?p=9902)
@@ -12,7 +13,6 @@
 * [2026-07-02, 19:27:38](https://news.ycombinator.com/item?id=48766209) - [EFF letter to FTC on X consent order (2 July 2026) [pdf]](https://cdn.arstechnica.net/wp-content/uploads/2026/07/EFF-letter-to-FTC-on-X-consent-order-7-2-26.pdf)
 * [2026-07-02, 19:11:57](https://news.ycombinator.com/item?id=48766026) - [The short leash AI coding method for beating Fable](https://blog.okturtles.org/2026/07/short-leash-ai-method/)
 * [2026-07-02, 19:10:12](https://news.ycombinator.com/item?id=48766005) - [Claude-real-video － any LLM can watch a video](https://github.com/HUANGCHIHHUNGLeo/claude-real-video)
-* [2026-07-02, 18:56:33](https://news.ycombinator.com/item?id=48765830) - [JEP 539: Strict Field Initialization in the JVM moved to preview](https://openjdk.org/jeps/539)
 * [2026-07-02, 18:41:19](https://news.ycombinator.com/item?id=48765663) - [Exapunks (2018)](https://www.zachtronics.com/exapunks/)
 * [2026-07-02, 18:38:32](https://news.ycombinator.com/item?id=48765639) - [Postgres transactions are a distributed systems superpower](https://www.dbos.dev/blog/co-locating-workflow-state-with-your-data)
 * [2026-07-02, 18:36:09](https://news.ycombinator.com/item?id=48765607) - [This is my attempt to get Vulkan going on NetBSD](https://github.com/segaboy/vulkan-netbsd)
