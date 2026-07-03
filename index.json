@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-03, 17:04:08",
+      "https://news.ycombinator.com/item?id=48777266"
+    ],
+    [
+      "International chess federation sanctions Kramnik",
+      "https://www.fide.com/fide-ethics-disciplinary-commission-issues-a-decision-in-case-involving-gm-vladimir-kramnik/"
+    ]
+  ],
+  [
+    [
+      "2026-07-03, 16:20:18",
+      "https://news.ycombinator.com/item?id=48776780"
+    ],
+    [
+      "US residents angry datacenters 'shoved down our throats' are recalling officials",
+      "https://www.theguardian.com/us-news/2026/jul/03/datacenter-recall-elections"
+    ]
+  ],
+  [
+    [
       "2026-07-03, 15:56:02",
       "https://news.ycombinator.com/item?id=48776525"
     ],
@@ -25,7 +45,7 @@
       "https://news.ycombinator.com/item?id=48776345"
     ],
     [
-      "Markets are competitive if and only if P = NP",
+      "Markets are competitive if and only if P != NP",
       "https://arxiv.org/abs/2602.20415"
     ]
   ],
@@ -97,16 +117,6 @@
     [
       "Anatomy of Persistent Memory's 3 Layers: Comparing ContextNest, Mem0 and Zep",
       "https://promptowl.ai/resources/persistent-memory-ai-agents/"
-    ]
-  ],
-  [
-    [
-      "2026-07-03, 13:19:46",
-      "https://news.ycombinator.com/item?id=48774704"
-    ],
-    [
-      "Hackers shoveled snow for company, were rewarded with network admin access",
-      "https://www.theregister.com/security/2026/07/02/hackers-shoveled-snow-for-company-were-rewarded-with-network-admin-access/5265240"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "crustc: entirety of `rustc`, translated to C",
       "https://github.com/FractalFir/crustc"
-    ]
-  ],
-  [
-    [
-      "2026-07-02, 18:41:19",
-      "https://news.ycombinator.com/item?id=48765663"
-    ],
-    [
-      "Exapunks (2018)",
-      "https://www.zachtronics.com/exapunks/"
     ]
   ],
   [
