@@ -18,6 +18,7 @@
 * [2026-07-01, 21:01:42](https://news.ycombinator.com/item?id=48753069) - [Qualcomm Linux 2.0](https://www.qualcomm.com/developer/blog/2026/06/qualcomm-linux-2-now-available)
 * [2026-07-01, 21:00:14](https://news.ycombinator.com/item?id=48753045) - [Proliferate (YC S25) Is Hiring](https://www.ycombinator.com/companies/proliferate/jobs/mMHvKR9-founding-product-engineer)
 * [2026-07-01, 20:51:52](https://news.ycombinator.com/item?id=48752949) - [OpenWiki: CLI that writes and maintains agent documentation for your codebase](https://github.com/langchain-ai/openwiki)
+* [2026-07-01, 20:51:47](https://news.ycombinator.com/item?id=48752948) - [Show HN: CLI that helps AI agents avoid vulnerable dependencies](https://github.com/clidey/deptrust)
 * [2026-07-01, 20:47:41](https://news.ycombinator.com/item?id=48752905) - [Show HN: Searchable directory of 22k+ products from worker-owned co-ops](https://www.workerowned.info/)
 * [2026-07-01, 20:43:47](https://news.ycombinator.com/item?id=48752843) - [One KW wind turbine without civil engineering](https://www.windtowatt.com/index-en.html)
 * [2026-07-01, 19:35:57](https://news.ycombinator.com/item?id=48752030) - [Fable 5 Is Back](https://twitter.com/claudeai/status/2072402636813607381)

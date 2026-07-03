@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-07-03](index.md)
 
+* [2026-07-03, 20:26:31](https://news.ycombinator.com/item?id=48779565) - [Doing the Work](https://bran.name/doing-the-work.html)
+* [2026-07-03, 19:28:10](https://news.ycombinator.com/item?id=48778971) - [ClawdMojis – A Clawd for Every Occasion](https://github.com/afspies/ClawdMoji)
+* [2026-07-03, 19:08:31](https://news.ycombinator.com/item?id=48778757) - [FreeBSD Ate My RAM](https://crocidb.com/post/freebsd-ate-my-ram/)
 * [2026-07-03, 18:11:32](https://news.ycombinator.com/item?id=48778031) - [A Cali. farmer is giving away tons of nectarines that he's not allowed to sell](https://apnews.com/article/california-farmer-nectarines-lawsuit-patent-4f7bc8ab185e8b9cbdd6d6ad4f2aabd1)
 * [2026-07-03, 17:54:25](https://news.ycombinator.com/item?id=48777832) - [Holes](https://xkcd.com/3266/large/)
 * [2026-07-03, 17:46:10](https://news.ycombinator.com/item?id=48777728) - [I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination](https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type)
