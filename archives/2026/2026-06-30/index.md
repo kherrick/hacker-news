@@ -7,6 +7,7 @@
 * [2026-06-30, 23:55:12](https://news.ycombinator.com/item?id=48740771) - [Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5](https://twitter.com/AnthropicAI/status/2072106151890809341)
 * [2026-06-30, 23:45:39](https://news.ycombinator.com/item?id=48740698) - [Google copybara: moving code between repositories](https://github.com/google/copybara)
 * [2026-06-30, 22:34:23](https://news.ycombinator.com/item?id=48740135) - [Hatari – Online Atari ST/STE/TT/Falcon Emulator](https://hatari.frama.io/hatari/online/hatari.html)
+* [2026-06-30, 22:14:49](https://news.ycombinator.com/item?id=48739984) - [Nerdle Review](https://dles.gg/reviews/nerdle)
 * [2026-06-30, 22:08:38](https://news.ycombinator.com/item?id=48739919) - [TabFM: A zero-shot foundation model for tabular data](https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/)
 * [2026-06-30, 21:58:49](https://news.ycombinator.com/item?id=48739792) - [Ask HN: Since when does Craigslist's front page have emojis?](https://news.ycombinator.com/item?id=48739792)
 * [2026-06-30, 21:48:43](https://news.ycombinator.com/item?id=48739682) - [Gone but Not Forgotten: Recovering the Dead Web](https://blog.archive.org/2026/04/23/gone-but-not-forgotten-recovering-the-dead-web/)
