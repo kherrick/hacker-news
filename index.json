@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-07-03, 00:18:11",
+      "https://news.ycombinator.com/item?id=48769110"
+    ],
+    [
+      "\"An AI Job Apocalypse?\" – Goldman Sachs Report [pdf]",
+      "https://www.goldmansachs.com/static-libs/pdf-redirect/prod/index.html?path=/pdfs/insights/goldman-sachs-research/an-ai-job-apocalypse/report.pdf&originalQuery=&referrer="
+    ]
+  ],
+  [
+    [
+      "2026-07-03, 00:01:26",
+      "https://news.ycombinator.com/item?id=48768997"
+    ],
+    [
+      "GitHub is proud to announce that you can now obtain your public repo on CD-ROM",
+      "https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6G-c11n8yFDlQmk4B-QjDxUQkdTTjZLU0EyTFFRV1E3NVRTVTRTWjRHMy4u&route=shorturl"
+    ]
+  ],
+  [
+    [
       "2026-07-03, 00:01:06",
       "https://news.ycombinator.com/item?id=48768992"
     ],
     [
       "An American Privacy Emergency",
       "https://scottaaronson.blog/?p=9902"
+    ]
+  ],
+  [
+    [
+      "2026-07-02, 23:54:03",
+      "https://news.ycombinator.com/item?id=48768951"
+    ],
+    [
+      "Right to Local Intelligence",
+      "https://righttointelligence.org/"
     ]
   ],
   [
@@ -131,26 +161,6 @@
   ],
   [
     [
-      "2026-07-02, 15:58:32",
-      "https://news.ycombinator.com/item?id=48763462"
-    ],
-    [
-      "Show HN: ctx – Search the coding agent history already on your machine",
-      "https://github.com/ctxrs/ctx"
-    ]
-  ],
-  [
-    [
-      "2026-07-02, 15:43:39",
-      "https://news.ycombinator.com/item?id=48763291"
-    ],
-    [
-      "Flexible metaprogramming with Rhombus",
-      "https://lwn.net/SubscriberLink/1079001/67840550991151ed/"
-    ]
-  ],
-  [
-    [
       "2026-07-02, 15:38:19",
       "https://news.ycombinator.com/item?id=48763222"
     ],
@@ -167,16 +177,6 @@
     [
       "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
       "https://mathstodon.xyz/@iblech/116769502749142438"
-    ]
-  ],
-  [
-    [
-      "2026-07-02, 15:11:20",
-      "https://news.ycombinator.com/item?id=48762862"
-    ],
-    [
-      "Launch HN: Manufact (YC S25) – MCP Cloud",
-      "https://manufact.com"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2026-06-29, 23:45:38",
-      "https://news.ycombinator.com/item?id=48726792"
+      "2026-06-30, 07:00:33",
+      "https://news.ycombinator.com/item?id=48729404"
     ],
     [
-      "Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity",
-      "https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/"
+      "Show HN: Gitstock–Transform you GitHub commit history into K-line and animations",
+      "https://gitstock.org/"
     ]
   ],
   [
