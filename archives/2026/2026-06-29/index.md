@@ -9,6 +9,7 @@
 * [2026-06-29, 22:23:08](https://news.ycombinator.com/item?id=48726125) - [What Breaks a Cell's Ribs Can Make It Stronger](https://www.quantamagazine.org/what-breaks-a-cells-ribs-can-make-it-stronger-20260629/)
 * [2026-06-29, 22:21:00](https://news.ycombinator.com/item?id=48726102) - [South Korea to spend $1T on more memory chip production and humanoid robots](https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/)
 * [2026-06-29, 22:18:26](https://news.ycombinator.com/item?id=48726073) - [Scientists find molecular-level evidence for two structures in liquid water](https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html)
+* [2026-06-29, 21:59:28](https://news.ycombinator.com/item?id=48725857) - [How working with a blind client revealed invisible accessibility gaps](https://iinteractive.com/resources/blog/read-only)
 * [2026-06-29, 21:18:46](https://news.ycombinator.com/item?id=48725397) - [Is It Out Yet?](https://outyet.ai)
 * [2026-06-29, 20:54:14](https://news.ycombinator.com/item?id=48725093) - [Underwater Suit-Wearing Cyborg Insect Capable of Diving and Terra-Aqua Travel](https://www.nature.com/articles/s41467-026-74235-1)
 * [2026-06-29, 20:18:58](https://news.ycombinator.com/item?id=48724608) - [Perform DFU Restores on Apple Silicon Macs with Macvdmtool (2021)](https://www.bkurtz.io/posts/macvdmtool/)

@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-07-03, 06:21:44](https://news.ycombinator.com/item?id=48771515) - [Ask HN: Is anyone experimenting with different ways of using LLMs for coding?](https://news.ycombinator.com/item?id=48771515)
 * [2026-07-03, 04:16:17](https://news.ycombinator.com/item?id=48770647) - [Why Switzerland has 25 gbit internet and America doesn't](https://stefan.schueller.net/posts/the-free-market-lie/)
 * [2026-07-03, 03:49:47](https://news.ycombinator.com/item?id=48770477) - [14× faster embeddings: how we rebuilt the ONNX path in Manticore](https://manticoresearch.com/blog/onnx-embeddings-speedup/)
+* [2026-07-03, 01:42:40](https://news.ycombinator.com/item?id=48769696) - [AI is 'not smart' so what's next in artificial intelligence?](https://www.bbc.com/news/articles/cj6gr0xkyr3o)
 * [2026-07-03, 01:37:11](https://news.ycombinator.com/item?id=48769639) - [The Safari MCP server for web developers](https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/)
 * [2026-07-03, 01:02:45](https://news.ycombinator.com/item?id=48769397) - [CarPlay Is Additive](https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts)
 * [2026-07-03, 00:01:06](https://news.ycombinator.com/item?id=48768992) - [An American Privacy Emergency](https://scottaaronson.blog/?p=9902)
@@ -24,7 +24,7 @@
 * [2026-07-02, 14:23:09](https://news.ycombinator.com/item?id=48762098) - [Podman v6.0.0](https://blog.podman.io/2026/07/introducing-podman-v6-0-0/)
 * [2026-07-02, 14:13:26](https://news.ycombinator.com/item?id=48761944) - [Immich 3.0](https://github.com/immich-app/immich/discussions/29439)
 * [2026-06-30, 21:28:32](https://news.ycombinator.com/item?id=48739459) - [Superpowers 6](https://blog.fsck.com/2026/06/15/Superpowers-6/)
-* [2026-06-30, 11:40:50](https://news.ycombinator.com/item?id=48731252) - [I Type Holes in Keyboard Covers – This One Survived](https://medium.com/@jamesgarside_/i-type-holes-in-keyboard-covers-e5664732ef93)
+* [2026-06-29, 21:59:28](https://news.ycombinator.com/item?id=48725857) - [How working with a blind client revealed invisible accessibility gaps](https://iinteractive.com/resources/blog/read-only)
 * [2026-06-29, 20:54:14](https://news.ycombinator.com/item?id=48725093) - [Underwater Suit-Wearing Cyborg Insect Capable of Diving and Terra-Aqua Travel](https://www.nature.com/articles/s41467-026-74235-1)
 * [2026-06-29, 20:18:58](https://news.ycombinator.com/item?id=48724608) - [Perform DFU Restores on Apple Silicon Macs with Macvdmtool (2021)](https://www.bkurtz.io/posts/macvdmtool/)
 * [2026-06-29, 15:40:13](https://news.ycombinator.com/item?id=48720728) - [Cowboys, Frontiersmen, Settlers, Townspeople, Cityfolk](https://huntersoftwareconsulting.com/posts/2026-06-28-company-phase-changes/)
