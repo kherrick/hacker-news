@@ -74,6 +74,7 @@
 * [2026-07-01, 10:45:59](https://news.ycombinator.com/item?id=48744778) - [Show HN: HackerNows – Native iOS HN Client](https://hackernows.app/)
 * [2026-07-01, 10:26:45](https://news.ycombinator.com/item?id=48744655) - [The Internet I Grew Up with Doesn't Exist Anymore](https://cleberg.net/blog/internet.html)
 * [2026-07-01, 10:19:45](https://news.ycombinator.com/item?id=48744606) - [Apple 'Hide My Email' Vulnerability Reveals Peoples' Real Email Addresses](https://easyoptouts.com/guides/apple-hide-my-email-is-leaking-email-addresses)
+* [2026-07-01, 10:11:12](https://news.ycombinator.com/item?id=48744546) - [We put a Redis server inside our runtime](https://encore.dev/blog/redis-runtime)
 * [2026-07-01, 10:07:04](https://news.ycombinator.com/item?id=48744518) - [Asahi Linux 7.1 Progress Report](https://asahilinux.org/2026/06/progress-report-7-1/)
 * [2026-07-01, 09:57:07](https://news.ycombinator.com/item?id=48744446) - [Pine64 launch $50 smart speaker for Home Assistant tinkerers](https://www.omgubuntu.co.uk/2026/06/pine64-pinevoice-riscv-smart-speaker-launch)
 * [2026-07-01, 09:21:44](https://news.ycombinator.com/item?id=48744232) - [Single Dose of Frog-Derived Gut Bacterium Eradicates 100% of Tumors in Mice](https://www.thefocalpoints.com/p/new-study-frog-derived-gut-bacterium)
