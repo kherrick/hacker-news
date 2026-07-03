@@ -43,6 +43,7 @@
 * [2026-06-30, 15:44:24](https://news.ycombinator.com/item?id=48734373) - [Claude Code Is Steganographically Marking Requests](https://thereallo.dev/blog/claude-code-prompt-steganography)
 * [2026-06-30, 15:35:04](https://news.ycombinator.com/item?id=48734234) - [The labor share of income in the US is at its lowest post-war level](https://libertystreeteconomics.newyorkfed.org/2026/06/the-post-covid-decline-in-the-labor-share/)
 * [2026-06-30, 15:17:14](https://news.ycombinator.com/item?id=48733937) - [We moved our Bluesky data to Eurosky](https://waag.org/en/article/why-we-moved-our-bluesky-data-eurosky/)
+* [2026-06-30, 14:58:10](https://news.ycombinator.com/item?id=48733642) - [Show HN: OM Core – multidimensional models without spreadsheet cell formulas](https://github.com/cloudcell/om-core)
 * [2026-06-30, 14:43:54](https://news.ycombinator.com/item?id=48733406) - [Supreme Court upholds broad conception of birthright citizenship](https://apnews.com/live/birthright-citizenship-decision-supreme-court-updates-06-30-2026)
 * [2026-06-30, 14:16:57](https://news.ycombinator.com/item?id=48733062) - [Words Are a Byproduct of Consciousness. For LLMs, It's Backwards](https://ranpara.net/posts/words-are-a-byproduct-of-consciousness/)
 * [2026-06-30, 14:15:29](https://news.ycombinator.com/item?id=48733043) - [Have You Restarted Your Computer This Week?](https://taonaw.com/2026/06/27/have-you-restarted-your-computer.html)

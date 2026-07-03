@@ -7,6 +7,7 @@
 * [2026-07-03, 13:19:46](https://news.ycombinator.com/item?id=48774704) - [Hackers shoveled snow for company, were rewarded with network admin access](https://www.theregister.com/security/2026/07/02/hackers-shoveled-snow-for-company-were-rewarded-with-network-admin-access/5265240)
 * [2026-07-03, 13:01:49](https://news.ycombinator.com/item?id=48774518) - [Valve open source the Steam Machine e-ink screen so you can make your own](https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/)
 * [2026-07-03, 13:00:31](https://news.ycombinator.com/item?id=48774509) - [PostgreSQL and the OOM Killer: Why You Must Use Strict Memory Overcommit](https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit)
+* [2026-07-03, 12:58:47](https://news.ycombinator.com/item?id=48774492) - [The Fall and Rise of Screwworm](https://www.construction-physics.com/p/the-fall-and-rise-of-screwworm)
 * [2026-07-03, 12:54:53](https://news.ycombinator.com/item?id=48774454) - [Zuckerberg 'Admits' Meta's Layoffs Were Ineffective](https://eshumarneedi.com/2026/07/03/zuckerberg-admits-metas-layoffs-were.html)
 * [2026-07-03, 12:52:48](https://news.ycombinator.com/item?id=48774429) - [Gemini Code Assist will be shut down on July 17](https://docs.cloud.google.com/gemini/docs/code-review/review-repo-code)
 * [2026-07-03, 12:51:17](https://news.ycombinator.com/item?id=48774414) - [Please stop the AI confidence theater](https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater)
