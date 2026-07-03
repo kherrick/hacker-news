@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-07-03, 20:26:31",
-      "https://news.ycombinator.com/item?id=48779565"
+      "2026-07-03, 20:15:49",
+      "https://news.ycombinator.com/item?id=48779454"
     ],
     [
-      "Doing the Work",
-      "https://bran.name/doing-the-work.html"
+      "SearXNG: A free internet metasearch engine",
+      "https://github.com/searxng/searxng"
+    ]
+  ],
+  [
+    [
+      "2026-07-03, 20:13:09",
+      "https://news.ycombinator.com/item?id=48779415"
+    ],
+    [
+      "Pet projects are getting too big to pet",
+      "https://www.nnehdi.me/p/pet-projects-are-getting-too-big"
     ]
   ],
   [
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=48778757"
     ],
     [
-      "FreeBSD Ate My RAM",
+      "FreeBSD ate my RAM",
       "https://crocidb.com/post/freebsd-ate-my-ram/"
     ]
   ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=48778031"
     ],
     [
-      "A Cali. farmer is giving away tons of nectarines that he's not allowed to sell",
+      "Farmer, marketer at odds over sales of white nectarines",
       "https://apnews.com/article/california-farmer-nectarines-lawsuit-patent-4f7bc8ab185e8b9cbdd6d6ad4f2aabd1"
     ]
   ],
@@ -47,6 +57,16 @@
     [
       "Holes",
       "https://xkcd.com/3266/large/"
+    ]
+  ],
+  [
+    [
+      "2026-07-03, 17:46:10",
+      "https://news.ycombinator.com/item?id=48777728"
+    ],
+    [
+      "I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination (2025)",
+      "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type"
     ]
   ],
   [
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2026-07-02, 15:58:32",
-      "https://news.ycombinator.com/item?id=48763462"
-    ],
-    [
-      "Show HN: ctx – Search the coding agent history already on your machine",
-      "https://github.com/ctxrs/ctx"
-    ]
-  ],
-  [
-    [
       "2026-07-02, 15:43:39",
       "https://news.ycombinator.com/item?id=48763291"
     ],
@@ -287,16 +297,6 @@
     [
       "Hunting a 16-year-old SQLite WAL bug with TLA+",
       "https://ubuntu.com/blog/hunting-a-16-year-old-sqlite-bug-with-tla-is-dqlite-affected"
-    ]
-  ],
-  [
-    [
-      "2026-06-30, 03:59:02",
-      "https://news.ycombinator.com/item?id=48728334"
-    ],
-    [
-      "Closer to Rude Than Snide: An Interview with Leo Robson",
-      "https://www.theideasletter.org/essay/closer-to-rude-than-snide/"
     ]
   ]
 ]
