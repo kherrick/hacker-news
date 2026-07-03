@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-03](index.md)
 
+* [2026-07-03, 17:04:08](https://news.ycombinator.com/item?id=48777266) - [International chess federation sanctions Kramnik](https://www.fide.com/fide-ethics-disciplinary-commission-issues-a-decision-in-case-involving-gm-vladimir-kramnik/)
+* [2026-07-03, 16:20:18](https://news.ycombinator.com/item?id=48776780) - [US residents angry datacenters 'shoved down our throats' are recalling officials](https://www.theguardian.com/us-news/2026/jul/03/datacenter-recall-elections)
 * [2026-07-03, 15:56:02](https://news.ycombinator.com/item?id=48776525) - [The Life and Times of Maxis, Part 1: SimEverything](https://www.filfre.net/2026/07/the-life-and-times-of-maxis-part-1-simeverything/)
 * [2026-07-03, 15:50:49](https://news.ycombinator.com/item?id=48776464) - [60% Fable cost cut by converting code to images and having the model OCR it](https://github.com/teamchong/pxpipe)
 * [2026-07-03, 15:41:44](https://news.ycombinator.com/item?id=48776345) - [Markets are competitive if and only if P = NP](https://arxiv.org/abs/2602.20415)
