@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-07-03, 21:53:04](https://news.ycombinator.com/item?id=48780469) - [The Demoralization of the White-Collar Worker](https://nooneshappy.com/article/the-demoralization-of-the-white-collar-worker/)
+* [2026-07-03, 22:26:47](https://news.ycombinator.com/item?id=48780754) - [Coding without AI: a revolutionary new way to work](https://isaaclyman.com/blog/posts/coding-without-ai/)
 * [2026-07-03, 21:42:19](https://news.ycombinator.com/item?id=48780352) - [Goodbye, Forever, Probably](https://whitep4nth3r.com/blog/goodbye-forever-probably/)
+* [2026-07-03, 21:28:55](https://news.ycombinator.com/item?id=48780224) - [Software, from First Principles](https://fazamhd.com/mental-models/software/)
 * [2026-07-03, 21:16:16](https://news.ycombinator.com/item?id=48780056) - [New serious vulnerabilities spiked around release of Claude Mythos Preview](https://epoch.ai/data-insights/cve-severity-spike)
 * [2026-07-03, 21:08:37](https://news.ycombinator.com/item?id=48779977) - [Africans Are Turning to Starlink](https://www.economist.com/middle-east-and-africa/2026/07/02/africans-are-turning-to-starlink)
 * [2026-07-03, 21:03:19](https://news.ycombinator.com/item?id=48779933) - [Show HN: ContextCodeCache in Rust](https://github.com/colwill/ccc)
@@ -12,7 +13,6 @@
 * [2026-07-03, 20:08:01](https://news.ycombinator.com/item?id=48779352) - [Kagi Changelog (July 2): Heads, tails, and an AI toggle](https://kagi.com/changelog#10959)
 * [2026-07-03, 19:08:31](https://news.ycombinator.com/item?id=48778757) - [FreeBSD ate my RAM](https://crocidb.com/post/freebsd-ate-my-ram/)
 * [2026-07-03, 17:54:25](https://news.ycombinator.com/item?id=48777832) - [Holes](https://xkcd.com/3266/large/)
-* [2026-07-03, 17:04:08](https://news.ycombinator.com/item?id=48777266) - [International chess federation sanctions Kramnik](https://www.fide.com/fide-ethics-disciplinary-commission-issues-a-decision-in-case-involving-gm-vladimir-kramnik/)
 * [2026-07-03, 16:53:50](https://news.ycombinator.com/item?id=48777144) - [Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)](https://github.com/kerlenton/mcpsnoop)
 * [2026-07-03, 15:50:49](https://news.ycombinator.com/item?id=48776464) - [60% Fable cost cut by converting code to images and having the model OCR it](https://github.com/teamchong/pxpipe)
 * [2026-07-03, 15:14:55](https://news.ycombinator.com/item?id=48776044) - [Costco is the anti-Amazon](https://phenomenalworld.org/analysis/the-anti-amazon/)

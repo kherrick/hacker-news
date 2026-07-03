@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-07-03](index.md)
 
+* [2026-07-03, 22:26:47](https://news.ycombinator.com/item?id=48780754) - [Coding without AI: a revolutionary new way to work](https://isaaclyman.com/blog/posts/coding-without-ai/)
 * [2026-07-03, 21:53:04](https://news.ycombinator.com/item?id=48780469) - [The Demoralization of the White-Collar Worker](https://nooneshappy.com/article/the-demoralization-of-the-white-collar-worker/)
 * [2026-07-03, 21:42:19](https://news.ycombinator.com/item?id=48780352) - [Goodbye, Forever, Probably](https://whitep4nth3r.com/blog/goodbye-forever-probably/)
+* [2026-07-03, 21:28:55](https://news.ycombinator.com/item?id=48780224) - [Software, from First Principles](https://fazamhd.com/mental-models/software/)
 * [2026-07-03, 21:28:45](https://news.ycombinator.com/item?id=48780222) - [Show HN: Updated my landing page with Fable (retro pixel style)](https://www.tryguildly.com/)
 * [2026-07-03, 21:21:08](https://news.ycombinator.com/item?id=48780128) - [AI First: How the Federal Government Is Prioritizing AI over People and Planet](https://stopgreedbuildgreen.climateandcommunity.org/posts/ai-first)
 * [2026-07-03, 21:16:16](https://news.ycombinator.com/item?id=48780056) - [New serious vulnerabilities spiked around release of Claude Mythos Preview](https://epoch.ai/data-insights/cve-severity-spike)
