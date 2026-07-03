@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-07-03](index.md)
 
+* [2026-07-03, 21:28:45](https://news.ycombinator.com/item?id=48780222) - [Show HN: Updated my landing page with Fable (retro pixel style)](https://www.tryguildly.com/)
+* [2026-07-03, 21:21:08](https://news.ycombinator.com/item?id=48780128) - [AI First: How the Federal Government Is Prioritizing AI over People and Planet](https://stopgreedbuildgreen.climateandcommunity.org/posts/ai-first)
+* [2026-07-03, 21:08:37](https://news.ycombinator.com/item?id=48779977) - [Africans Are Turning to Starlink](https://www.economist.com/middle-east-and-africa/2026/07/02/africans-are-turning-to-starlink)
+* [2026-07-03, 21:03:19](https://news.ycombinator.com/item?id=48779933) - [Show HN: ContextCodeCache in Rust](https://github.com/colwill/ccc)
 * [2026-07-03, 21:00:50](https://news.ycombinator.com/item?id=48779906) - [Infracost (YC W21) Is Hiring a Marketing Lead to Shift FinOps Left](https://www.ycombinator.com/companies/infracost/jobs/YTJcFwr-marketing-lead)
+* [2026-07-03, 20:42:00](https://news.ycombinator.com/item?id=48779723) - [Applied Category Theory Course (2018)](https://math.ucr.edu/home/baez/act_course/index.html)
 * [2026-07-03, 20:38:26](https://news.ycombinator.com/item?id=48779683) - [Espionage Against the European Parliament](https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/)
 * [2026-07-03, 20:26:31](https://news.ycombinator.com/item?id=48779565) - [Doing the Work](https://bran.name/doing-the-work.html)
 * [2026-07-03, 20:15:49](https://news.ycombinator.com/item?id=48779454) - [SearXNG: A free internet metasearch engine](https://github.com/searxng/searxng)
