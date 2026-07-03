@@ -4,8 +4,16 @@
 
 ### [Archives](../../index.md) for [2026-07-03](index.md)
 
+* [2026-07-03, 22:56:17](https://news.ycombinator.com/item?id=48780996) - [The circuit that lets your brain think and see](https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see)
+* [2026-07-03, 22:46:18](https://news.ycombinator.com/item?id=48780913) - [Amsterdam invented the fire department](https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/)
+* [2026-07-03, 22:40:29](https://news.ycombinator.com/item?id=48780870) - [Giant trees have no trouble pumping water to top branches](https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/)
+* [2026-07-03, 22:39:50](https://news.ycombinator.com/item?id=48780865) - [Steam Controller Auto-Charge – pilot to magnetic charging puck using CV](https://github.com/FossPrime/Steam-Controller-Auto-Charge)
+* [2026-07-03, 22:39:22](https://news.ycombinator.com/item?id=48780857) - [Elevating Privileges from Firefox to Android Root](https://rootme.nebusec.ai/)
+* [2026-07-03, 22:35:47](https://news.ycombinator.com/item?id=48780826) - [Dispersion loss counteracts embedding condensation in small language models](https://chenliu-1996.github.io/projects/LM-Dispersion/)
+* [2026-07-03, 22:33:10](https://news.ycombinator.com/item?id=48780801) - [Leanstral 1.5: Proof Abundance for All](https://mistral.ai/news/leanstral-1-5/)
 * [2026-07-03, 22:26:47](https://news.ycombinator.com/item?id=48780754) - [Coding without AI: a revolutionary new way to work](https://isaaclyman.com/blog/posts/coding-without-ai/)
 * [2026-07-03, 21:53:04](https://news.ycombinator.com/item?id=48780469) - [The Demoralization of the White-Collar Worker](https://nooneshappy.com/article/the-demoralization-of-the-white-collar-worker/)
+* [2026-07-03, 21:49:06](https://news.ycombinator.com/item?id=48780417) - [GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell](https://www.wafer.ai/blog/glm52-amd)
 * [2026-07-03, 21:42:19](https://news.ycombinator.com/item?id=48780352) - [Goodbye, Forever, Probably](https://whitep4nth3r.com/blog/goodbye-forever-probably/)
 * [2026-07-03, 21:28:55](https://news.ycombinator.com/item?id=48780224) - [Software, from First Principles](https://fazamhd.com/mental-models/software/)
 * [2026-07-03, 21:28:45](https://news.ycombinator.com/item?id=48780222) - [Show HN: Updated my landing page with Fable (retro pixel style)](https://www.tryguildly.com/)
