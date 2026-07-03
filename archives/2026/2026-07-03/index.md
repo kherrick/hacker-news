@@ -4,9 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-07-03](index.md)
 
+* [2026-07-03, 21:00:50](https://news.ycombinator.com/item?id=48779906) - [Infracost (YC W21) Is Hiring a Marketing Lead to Shift FinOps Left](https://www.ycombinator.com/companies/infracost/jobs/YTJcFwr-marketing-lead)
+* [2026-07-03, 20:38:26](https://news.ycombinator.com/item?id=48779683) - [Espionage Against the European Parliament](https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/)
 * [2026-07-03, 20:26:31](https://news.ycombinator.com/item?id=48779565) - [Doing the Work](https://bran.name/doing-the-work.html)
 * [2026-07-03, 20:15:49](https://news.ycombinator.com/item?id=48779454) - [SearXNG: A free internet metasearch engine](https://github.com/searxng/searxng)
 * [2026-07-03, 20:13:09](https://news.ycombinator.com/item?id=48779415) - [Pet projects are getting too big to pet](https://www.nnehdi.me/p/pet-projects-are-getting-too-big)
+* [2026-07-03, 20:08:01](https://news.ycombinator.com/item?id=48779352) - [Kagi Changelog (July 2): Heads, tails, and an AI toggle](https://kagi.com/changelog#10959)
+* [2026-07-03, 20:05:27](https://news.ycombinator.com/item?id=48779321) - [Oak: Git for Agents](https://oak.space/)
+* [2026-07-03, 19:49:56](https://news.ycombinator.com/item?id=48779182) - [Show HN: Topics, Not Feeds](https://blogsreader.com)
+* [2026-07-03, 19:38:44](https://news.ycombinator.com/item?id=48779071) - [Why Being Overqualified Is a Risk](https://newsletter.bphogan.com/archive/issue-52-run-coding-models-locally-and-why-being/)
 * [2026-07-03, 19:28:10](https://news.ycombinator.com/item?id=48778971) - [ClawdMojis – A Clawd for Every Occasion](https://github.com/afspies/ClawdMoji)
 * [2026-07-03, 19:08:31](https://news.ycombinator.com/item?id=48778757) - [FreeBSD Ate My RAM](https://crocidb.com/post/freebsd-ate-my-ram/)
 * [2026-07-03, 18:11:32](https://news.ycombinator.com/item?id=48778031) - [A Cali. farmer is giving away tons of nectarines that he's not allowed to sell](https://apnews.com/article/california-farmer-nectarines-lawsuit-patent-4f7bc8ab185e8b9cbdd6d6ad4f2aabd1)
