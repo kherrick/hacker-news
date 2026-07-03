@@ -1,10 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-03, 17:46:10](https://news.ycombinator.com/item?id=48777728) - [I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination](https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type)
 * [2026-07-03, 17:04:08](https://news.ycombinator.com/item?id=48777266) - [International chess federation sanctions Kramnik](https://www.fide.com/fide-ethics-disciplinary-commission-issues-a-decision-in-case-involving-gm-vladimir-kramnik/)
+* [2026-07-03, 17:03:22](https://news.ycombinator.com/item?id=48777257) - [AI saves about 3% of your hours, and almost none of it reaches the money](https://okaneland.com/study/ai-productivity-roi-at-work/)
+* [2026-07-03, 16:53:50](https://news.ycombinator.com/item?id=48777144) - [Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)](https://github.com/kerlenton/mcpsnoop)
 * [2026-07-03, 16:20:18](https://news.ycombinator.com/item?id=48776780) - [US residents angry datacenters 'shoved down our throats' are recalling officials](https://www.theguardian.com/us-news/2026/jul/03/datacenter-recall-elections)
 * [2026-07-03, 15:56:02](https://news.ycombinator.com/item?id=48776525) - [The Life and Times of Maxis, Part 1: SimEverything](https://www.filfre.net/2026/07/the-life-and-times-of-maxis-part-1-simeverything/)
 * [2026-07-03, 15:50:49](https://news.ycombinator.com/item?id=48776464) - [60% Fable cost cut by converting code to images and having the model OCR it](https://github.com/teamchong/pxpipe)
-* [2026-07-03, 15:41:44](https://news.ycombinator.com/item?id=48776345) - [Markets are competitive if and only if P != NP](https://arxiv.org/abs/2602.20415)
 * [2026-07-03, 15:32:51](https://news.ycombinator.com/item?id=48776232) - [Claude, please stop trying to memorize random crap](https://12gramsofcarbon.com/p/agentics-memorizing-session-transcripts)
 * [2026-07-03, 15:13:43](https://news.ycombinator.com/item?id=48776035) - [Factories Are Just Rooms](https://interconnected.org/home/2026/07/03/factories)
 * [2026-07-03, 15:08:56](https://news.ycombinator.com/item?id=48775979) - [America, 1926: What a Forgotten 100-Year-Old Report Says About Who We Are](https://www.derekthompson.org/p/america-1926-an-absurdly-deep-dive)
@@ -23,13 +25,11 @@
 * [2026-07-03, 01:02:45](https://news.ycombinator.com/item?id=48769397) - [CarPlay Is Additive](https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts)
 * [2026-07-02, 23:54:03](https://news.ycombinator.com/item?id=48768951) - [Right to Local Intelligence](https://righttointelligence.org/)
 * [2026-07-02, 22:57:35](https://news.ycombinator.com/item?id=48768464) - [crustc: entirety of `rustc`, translated to C](https://github.com/FractalFir/crustc)
+* [2026-07-02, 15:58:32](https://news.ycombinator.com/item?id=48763462) - [Show HN: ctx – Search the coding agent history already on your machine](https://github.com/ctxrs/ctx)
 * [2026-07-01, 02:26:22](https://news.ycombinator.com/item?id=48741654) - [Supersonic flight returning to US after half-century ban](https://www.forbes.com/sites/suzannerowankelleher/2026/06/30/faa-supersonic-flight-no-boom/)
-* [2026-06-30, 21:01:06](https://news.ycombinator.com/item?id=48739140) - [Local Reasoning for Global Properties](https://tratt.net/laurie/blog/2026/local_reasoning_for_global_properties.html)
 * [2026-06-30, 14:00:51](https://news.ycombinator.com/item?id=48732870) - [My Dad Helped Build North America's Oat Supply Chain: Can It Be Remade?](https://ambrook.com/offrange/perspective/how-we-lost-our-oats)
 * [2026-06-30, 11:07:38](https://news.ycombinator.com/item?id=48730953) - [Hunting a 16-year-old SQLite WAL bug with TLA+](https://ubuntu.com/blog/hunting-a-16-year-old-sqlite-bug-with-tla-is-dqlite-affected)
 * [2026-06-29, 21:59:28](https://news.ycombinator.com/item?id=48725857) - [How working with a blind client revealed invisible accessibility gaps](https://iinteractive.com/resources/blog/read-only)
-* [2026-06-27, 23:36:25](https://news.ycombinator.com/item?id=48702874) - [Reality has a surprising amount of detail (2017)](https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail)
-* [2026-06-26, 23:36:56](https://news.ycombinator.com/item?id=48693428) - [Quake in 13 Kilobytes (2021)](https://js13kgames.com/games/q1k3)
 
 ## [Archives](archives/index.md)
 
