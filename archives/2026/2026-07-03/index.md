@@ -13,6 +13,7 @@
 * [2026-07-03, 15:50:49](https://news.ycombinator.com/item?id=48776464) - [60% Fable cost cut by converting code to images and having the model OCR it](https://github.com/teamchong/pxpipe)
 * [2026-07-03, 15:41:44](https://news.ycombinator.com/item?id=48776345) - [Markets are competitive if and only if P = NP](https://arxiv.org/abs/2602.20415)
 * [2026-07-03, 15:32:51](https://news.ycombinator.com/item?id=48776232) - [Claude, please stop trying to memorize random crap](https://12gramsofcarbon.com/p/agentics-memorizing-session-transcripts)
+* [2026-07-03, 15:14:55](https://news.ycombinator.com/item?id=48776044) - [Costco Is the Anti-Amazon](https://phenomenalworld.org/analysis/the-anti-amazon/)
 * [2026-07-03, 15:13:43](https://news.ycombinator.com/item?id=48776035) - [Factories Are Just Rooms](https://interconnected.org/home/2026/07/03/factories)
 * [2026-07-03, 15:08:56](https://news.ycombinator.com/item?id=48775979) - [America, 1926: What a Forgotten 100-Year-Old Report Says About Who We Are](https://www.derekthompson.org/p/america-1926-an-absurdly-deep-dive)
 * [2026-07-03, 15:06:44](https://news.ycombinator.com/item?id=48775949) - [Best Simple System for Now](https://dannorth.net/blog/best-simple-system-for-now/)
