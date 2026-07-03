@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-03](index.md)
 
+* [2026-07-03, 12:33:20](https://news.ycombinator.com/item?id=48774246) - [AI Data Centers Use More Water Than Most Tech Giants Report](https://www.wsj.com/tech/ai/ai-data-centers-water-use-901e2902)
+* [2026-07-03, 11:50:20](https://news.ycombinator.com/item?id=48773907) - [Amazon has enough satellites to launch its Starlink competitor](https://www.theverge.com/science/960563/amazon-leo-service-tipping-point)
 * [2026-07-03, 11:14:54](https://news.ycombinator.com/item?id=48773652) - [Gun Mistakes in Fiction Writing: Handgun Edition](https://www.swiftsilentdeadly.com/blog/gun-mistakes-in-fiction-writing-handgun-edition)
 * [2026-07-03, 09:08:14](https://news.ycombinator.com/item?id=48772717) - [Commodore 64 Basic for PostgreSQL](https://thombrown.blogspot.com/2026/07/load-plcbmbasic81-commodore-64-basic.html)
 * [2026-07-03, 08:50:47](https://news.ycombinator.com/item?id=48772573) - [Wordgard: The new in-browser rich-text editor from the creator of ProseMirror](https://wordgard.net/)
