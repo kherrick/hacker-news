@@ -38,6 +38,7 @@
 * [2026-06-30, 16:06:39](https://news.ycombinator.com/item?id=48734715) - [BMW iX5 Blows Away the Competition with 460-KW Charging, 435-Mile Range](https://insideevs.com/news/800125/bmw-ix5-neue-klasse-ev-electric-suv/)
 * [2026-06-30, 16:05:46](https://news.ycombinator.com/item?id=48734699) - [County with 37 Data Centers Asks Schools to 'Conserve Electricity'](https://www.404media.co/henrico-virginia-datacenter-energy-cost-email/)
 * [2026-06-30, 15:45:32](https://news.ycombinator.com/item?id=48734389) - [Scammers Sell Seeds for Exotic AI-Generated Flowers That Don't Exist](https://www.404media.co/scammers-sell-seeds-for-exotic-ai-generated-flowers-that-dont-exist/)
+* [2026-06-30, 15:45:07](https://news.ycombinator.com/item?id=48734380) - [The Beauty of Tautologies](https://scottsumner.substack.com/p/the-beauty-of-tautologies)
 * [2026-06-30, 15:44:24](https://news.ycombinator.com/item?id=48734373) - [Claude Code Is Steganographically Marking Requests](https://thereallo.dev/blog/claude-code-prompt-steganography)
 * [2026-06-30, 15:35:04](https://news.ycombinator.com/item?id=48734234) - [The labor share of income in the US is at its lowest post-war level](https://libertystreeteconomics.newyorkfed.org/2026/06/the-post-covid-decline-in-the-labor-share/)
 * [2026-06-30, 15:17:14](https://news.ycombinator.com/item?id=48733937) - [We moved our Bluesky data to Eurosky](https://waag.org/en/article/why-we-moved-our-bluesky-data-eurosky/)
