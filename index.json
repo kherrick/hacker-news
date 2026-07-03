@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2026-07-03, 17:03:22",
-      "https://news.ycombinator.com/item?id=48777257"
-    ],
-    [
-      "AI saves about 3% of your hours, and almost none of it reaches the money",
-      "https://okaneland.com/study/ai-productivity-roi-at-work/"
-    ]
-  ],
-  [
-    [
       "2026-07-03, 16:53:50",
       "https://news.ycombinator.com/item?id=48777144"
     ],
@@ -75,7 +65,7 @@
       "https://news.ycombinator.com/item?id=48776044"
     ],
     [
-      "Costco Is the Anti-Amazon",
+      "Costco is the anti-Amazon",
       "https://phenomenalworld.org/analysis/the-anti-amazon/"
     ]
   ],
@@ -85,7 +75,7 @@
       "https://news.ycombinator.com/item?id=48776035"
     ],
     [
-      "Factories Are Just Rooms",
+      "Factories are just rooms",
       "https://interconnected.org/home/2026/07/03/factories"
     ]
   ],
@@ -95,7 +85,7 @@
       "https://news.ycombinator.com/item?id=48775979"
     ],
     [
-      "America, 1926: What a Forgotten 100-Year-Old Report Says About Who We Are",
+      "America, 1926: A forgotten 100-year-old report",
       "https://www.derekthompson.org/p/america-1926-an-absurdly-deep-dive"
     ]
   ],
@@ -105,7 +95,7 @@
       "https://news.ycombinator.com/item?id=48775949"
     ],
     [
-      "Best Simple System for Now",
+      "Best Simple System for Now (2025)",
       "https://dannorth.net/blog/best-simple-system-for-now/"
     ]
   ],
@@ -117,6 +107,16 @@
     [
       "Jamesob's guide to running SOTA LLMs locally",
       "https://github.com/jamesob/local-llm"
+    ]
+  ],
+  [
+    [
+      "2026-07-03, 14:28:33",
+      "https://news.ycombinator.com/item?id=48775499"
+    ],
+    [
+      "Instead of banning AI, I made a classroom contract with my students",
+      "https://www.science.org/content/article/instead-banning-ai-i-made-classroom-contract-my-students"
     ]
   ],
   [
@@ -135,7 +135,7 @@
       "https://news.ycombinator.com/item?id=48774518"
     ],
     [
-      "Valve open source the Steam Machine e-ink screen so you can make your own",
+      "Valve open-source the Steam Machine e-ink screen so you can make your own",
       "https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/"
     ]
   ],
@@ -145,7 +145,7 @@
       "https://news.ycombinator.com/item?id=48774509"
     ],
     [
-      "PostgreSQL and the OOM Killer: Why We Use Strict Memory Overcommit",
+      "PostgreSQL and the OOM killer: Why we use strict memory overcommit",
       "https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit"
     ]
   ],
@@ -185,7 +185,7 @@
       "https://news.ycombinator.com/item?id=48772573"
     ],
     [
-      "Wordgard: The new in-browser rich-text editor from the creator of ProseMirror",
+      "Wordgard: In-browser rich-text editor from the creator of ProseMirror",
       "https://wordgard.net/"
     ]
   ],
@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2026-07-03, 06:21:44",
+      "https://news.ycombinator.com/item?id=48771515"
+    ],
+    [
+      "Ask HN: Is anyone experimenting with different ways of using LLMs for coding?",
+      "https://news.ycombinator.com/item?id=48771515"
+    ]
+  ],
+  [
+    [
       "2026-07-03, 01:37:11",
       "https://news.ycombinator.com/item?id=48769639"
     ],
@@ -211,32 +221,22 @@
   ],
   [
     [
-      "2026-07-03, 01:02:45",
-      "https://news.ycombinator.com/item?id=48769397"
-    ],
-    [
-      "CarPlay Is Additive",
-      "https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts"
-    ]
-  ],
-  [
-    [
-      "2026-07-02, 23:54:03",
-      "https://news.ycombinator.com/item?id=48768951"
-    ],
-    [
-      "Right to Local Intelligence",
-      "https://righttointelligence.org/"
-    ]
-  ],
-  [
-    [
       "2026-07-02, 22:57:35",
       "https://news.ycombinator.com/item?id=48768464"
     ],
     [
       "crustc: entirety of `rustc`, translated to C",
       "https://github.com/FractalFir/crustc"
+    ]
+  ],
+  [
+    [
+      "2026-07-02, 19:29:58",
+      "https://news.ycombinator.com/item?id=48766242"
+    ],
+    [
+      "Show HN: Bramble – Local-first password manager",
+      "https://github.com/flythenimbus/bramble"
     ]
   ],
   [
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=48732870"
     ],
     [
-      "My Dad Helped Build North America's Oat Supply Chain: Can It Be Remade?",
+      "My dad helped build North America's oat supply chain: Can it be remade?",
       "https://ambrook.com/offrange/perspective/how-we-lost-our-oats"
     ]
   ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-06-29, 21:59:28",
-      "https://news.ycombinator.com/item?id=48725857"
+      "2026-06-30, 03:59:02",
+      "https://news.ycombinator.com/item?id=48728334"
     ],
     [
-      "How working with a blind client revealed invisible accessibility gaps",
-      "https://iinteractive.com/resources/blog/read-only"
+      "Closer to Rude Than Snide: An Interview with Leo Robson",
+      "https://www.theideasletter.org/essay/closer-to-rude-than-snide/"
     ]
   ]
 ]
