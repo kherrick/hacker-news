@@ -20,6 +20,7 @@
 * [2026-07-03, 15:03:43](https://news.ycombinator.com/item?id=48775921) - [Jamesob's guide to running SOTA LLMs locally](https://github.com/jamesob/local-llm)
 * [2026-07-03, 15:02:23](https://news.ycombinator.com/item?id=48775909) - [It Still Can't Do My Job: Four Years of Moving Goalposts (2022–2026)](https://publicznyprofil.github.io/ai_cant_do_your_work/)
 * [2026-07-03, 14:49:44](https://news.ycombinator.com/item?id=48775748) - [Give Smart People the Tools to Do Smart Things](https://superuserdone.com/posts/2026-07-03-give-smart-people-the-tools/)
+* [2026-07-03, 14:28:33](https://news.ycombinator.com/item?id=48775499) - [Instead of banning AI, I made a classroom contract with my students](https://www.science.org/content/article/instead-banning-ai-i-made-classroom-contract-my-students)
 * [2026-07-03, 14:27:26](https://news.ycombinator.com/item?id=48775484) - [Show HN: TaskPeace – a task queue my AI coding agents pull work from over MCP](https://taskpeace.com/)
 * [2026-07-03, 14:27:21](https://news.ycombinator.com/item?id=48775483) - [Anatomy of Persistent Memory's 3 Layers: Comparing ContextNest, Mem0 and Zep](https://promptowl.ai/resources/persistent-memory-ai-agents/)
 * [2026-07-03, 13:19:46](https://news.ycombinator.com/item?id=48774704) - [Hackers shoveled snow for company, were rewarded with network admin access](https://www.theregister.com/security/2026/07/02/hackers-shoveled-snow-for-company-were-rewarded-with-network-admin-access/5265240)
