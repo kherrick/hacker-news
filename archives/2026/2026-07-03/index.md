@@ -4,9 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-07-03](index.md)
 
+* [2026-07-03, 15:41:44](https://news.ycombinator.com/item?id=48776345) - [Markets are competitive if and only if P = NP](https://arxiv.org/abs/2602.20415)
+* [2026-07-03, 15:13:43](https://news.ycombinator.com/item?id=48776035) - [Factories Are Just Rooms](https://interconnected.org/home/2026/07/03/factories)
+* [2026-07-03, 15:08:56](https://news.ycombinator.com/item?id=48775979) - [America, 1926: What a Forgotten 100-Year-Old Report Says About Who We Are](https://www.derekthompson.org/p/america-1926-an-absurdly-deep-dive)
 * [2026-07-03, 15:06:44](https://news.ycombinator.com/item?id=48775949) - [Best Simple System for Now](https://dannorth.net/blog/best-simple-system-for-now/)
 * [2026-07-03, 15:03:43](https://news.ycombinator.com/item?id=48775921) - [Jamesob's guide to running SOTA LLMs locally](https://github.com/jamesob/local-llm)
 * [2026-07-03, 15:02:23](https://news.ycombinator.com/item?id=48775909) - [It Still Can't Do My Job: Four Years of Moving Goalposts (2022–2026)](https://publicznyprofil.github.io/ai_cant_do_your_work/)
+* [2026-07-03, 14:49:44](https://news.ycombinator.com/item?id=48775748) - [Give Smart People the Tools to Do Smart Things](https://superuserdone.com/posts/2026-07-03-give-smart-people-the-tools/)
+* [2026-07-03, 14:27:26](https://news.ycombinator.com/item?id=48775484) - [Show HN: TaskPeace – a task queue my AI coding agents pull work from over MCP](https://taskpeace.com/)
+* [2026-07-03, 14:27:21](https://news.ycombinator.com/item?id=48775483) - [Anatomy of Persistent Memory's 3 Layers: Comparing ContextNest, Mem0 and Zep](https://promptowl.ai/resources/persistent-memory-ai-agents/)
 * [2026-07-03, 13:19:46](https://news.ycombinator.com/item?id=48774704) - [Hackers shoveled snow for company, were rewarded with network admin access](https://www.theregister.com/security/2026/07/02/hackers-shoveled-snow-for-company-were-rewarded-with-network-admin-access/5265240)
 * [2026-07-03, 13:01:49](https://news.ycombinator.com/item?id=48774518) - [Valve open source the Steam Machine e-ink screen so you can make your own](https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/)
 * [2026-07-03, 13:00:31](https://news.ycombinator.com/item?id=48774509) - [PostgreSQL and the OOM Killer: Why You Must Use Strict Memory Overcommit](https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit)

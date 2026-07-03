@@ -48,6 +48,7 @@
 * [2026-06-30, 14:16:57](https://news.ycombinator.com/item?id=48733062) - [Words Are a Byproduct of Consciousness. For LLMs, It's Backwards](https://ranpara.net/posts/words-are-a-byproduct-of-consciousness/)
 * [2026-06-30, 14:15:29](https://news.ycombinator.com/item?id=48733043) - [Have You Restarted Your Computer This Week?](https://taonaw.com/2026/06/27/have-you-restarted-your-computer.html)
 * [2026-06-30, 14:14:29](https://news.ycombinator.com/item?id=48733031) - [Looking Ahead to Postgres 19](https://www.snowflake.com/en/blog/engineering/postgresql-19-features-beta/)
+* [2026-06-30, 14:00:51](https://news.ycombinator.com/item?id=48732870) - [My Dad Helped Build North America's Oat Supply Chain: Can It Be Remade?](https://ambrook.com/offrange/perspective/how-we-lost-our-oats)
 * [2026-06-30, 13:59:32](https://news.ycombinator.com/item?id=48732860) - [How do wombats poop cubes? Scientists get to the bottom of the mystery](https://www.science.org/content/article/how-do-wombats-poop-cubes-scientists-get-bottom-mystery)
 * [2026-06-30, 13:49:04](https://news.ycombinator.com/item?id=48732741) - [From Julia to Rust: a differentiable tensor stack for scientific computing](https://tensor4all.org/blog/introducing-tenferro-rs/)
 * [2026-06-30, 13:47:17](https://news.ycombinator.com/item?id=48732716) - [Modeling the Covid-19 Outbreak with J (2020)](https://datakinds.github.io//2020/03/15/modeling-the-coronavirus-outbreak-with-j)
