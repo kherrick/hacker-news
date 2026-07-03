@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-07-03, 17:46:10",
+      "https://news.ycombinator.com/item?id=48777728"
+    ],
+    [
+      "I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination",
+      "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type"
+    ]
+  ],
+  [
+    [
       "2026-07-03, 17:04:08",
       "https://news.ycombinator.com/item?id=48777266"
     ],
     [
       "International chess federation sanctions Kramnik",
       "https://www.fide.com/fide-ethics-disciplinary-commission-issues-a-decision-in-case-involving-gm-vladimir-kramnik/"
+    ]
+  ],
+  [
+    [
+      "2026-07-03, 17:03:22",
+      "https://news.ycombinator.com/item?id=48777257"
+    ],
+    [
+      "AI saves about 3% of your hours, and almost none of it reaches the money",
+      "https://okaneland.com/study/ai-productivity-roi-at-work/"
+    ]
+  ],
+  [
+    [
+      "2026-07-03, 16:53:50",
+      "https://news.ycombinator.com/item?id=48777144"
+    ],
+    [
+      "Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
+      "https://github.com/kerlenton/mcpsnoop"
     ]
   ],
   [
@@ -37,16 +67,6 @@
     [
       "60% Fable cost cut by converting code to images and having the model OCR it",
       "https://github.com/teamchong/pxpipe"
-    ]
-  ],
-  [
-    [
-      "2026-07-03, 15:41:44",
-      "https://news.ycombinator.com/item?id=48776345"
-    ],
-    [
-      "Markets are competitive if and only if P != NP",
-      "https://arxiv.org/abs/2602.20415"
     ]
   ],
   [
@@ -231,22 +251,22 @@
   ],
   [
     [
+      "2026-07-02, 15:58:32",
+      "https://news.ycombinator.com/item?id=48763462"
+    ],
+    [
+      "Show HN: ctx – Search the coding agent history already on your machine",
+      "https://github.com/ctxrs/ctx"
+    ]
+  ],
+  [
+    [
       "2026-07-01, 02:26:22",
       "https://news.ycombinator.com/item?id=48741654"
     ],
     [
       "Supersonic flight returning to US after half-century ban",
       "https://www.forbes.com/sites/suzannerowankelleher/2026/06/30/faa-supersonic-flight-no-boom/"
-    ]
-  ],
-  [
-    [
-      "2026-06-30, 21:01:06",
-      "https://news.ycombinator.com/item?id=48739140"
-    ],
-    [
-      "Local Reasoning for Global Properties",
-      "https://tratt.net/laurie/blog/2026/local_reasoning_for_global_properties.html"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "How working with a blind client revealed invisible accessibility gaps",
       "https://iinteractive.com/resources/blog/read-only"
-    ]
-  ],
-  [
-    [
-      "2026-06-27, 23:36:25",
-      "https://news.ycombinator.com/item?id=48702874"
-    ],
-    [
-      "Reality has a surprising amount of detail (2017)",
-      "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail"
-    ]
-  ],
-  [
-    [
-      "2026-06-26, 23:36:56",
-      "https://news.ycombinator.com/item?id=48693428"
-    ],
-    [
-      "Quake in 13 Kilobytes (2021)",
-      "https://js13kgames.com/games/q1k3"
     ]
   ]
 ]
