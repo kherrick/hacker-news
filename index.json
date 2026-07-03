@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-07-03, 15:56:02",
+      "https://news.ycombinator.com/item?id=48776525"
+    ],
+    [
+      "The Life and Times of Maxis, Part 1: SimEverything",
+      "https://www.filfre.net/2026/07/the-life-and-times-of-maxis-part-1-simeverything/"
+    ]
+  ],
+  [
+    [
+      "2026-07-03, 15:50:49",
+      "https://news.ycombinator.com/item?id=48776464"
+    ],
+    [
+      "60% Fable cost cut by converting code to images and having the model OCR it",
+      "https://github.com/teamchong/pxpipe"
+    ]
+  ],
+  [
+    [
       "2026-07-03, 15:41:44",
       "https://news.ycombinator.com/item?id=48776345"
     ],
     [
       "Markets are competitive if and only if P = NP",
       "https://arxiv.org/abs/2602.20415"
+    ]
+  ],
+  [
+    [
+      "2026-07-03, 15:32:51",
+      "https://news.ycombinator.com/item?id=48776232"
+    ],
+    [
+      "Claude, please stop trying to memorize random crap",
+      "https://12gramsofcarbon.com/p/agentics-memorizing-session-transcripts"
     ]
   ],
   [
@@ -57,16 +87,6 @@
     [
       "Give Smart People the Tools to Do Smart Things",
       "https://superuserdone.com/posts/2026-07-03-give-smart-people-the-tools/"
-    ]
-  ],
-  [
-    [
-      "2026-07-03, 14:27:26",
-      "https://news.ycombinator.com/item?id=48775484"
-    ],
-    [
-      "Show HN: TaskPeace – a task queue my AI coding agents pull work from over MCP",
-      "https://taskpeace.com/"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2026-07-03, 08:31:37",
-      "https://news.ycombinator.com/item?id=48772443"
-    ],
-    [
-      "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
-      "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/"
-    ]
-  ],
-  [
-    [
       "2026-07-03, 08:23:32",
       "https://news.ycombinator.com/item?id=48772388"
     ],
@@ -211,32 +221,22 @@
   ],
   [
     [
-      "2026-07-02, 15:25:16",
-      "https://news.ycombinator.com/item?id=48763035"
+      "2026-07-02, 18:41:19",
+      "https://news.ycombinator.com/item?id=48765663"
     ],
     [
-      "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
-      "https://mathstodon.xyz/@iblech/116769502749142438"
+      "Exapunks (2018)",
+      "https://www.zachtronics.com/exapunks/"
     ]
   ],
   [
     [
-      "2026-07-02, 14:23:09",
-      "https://news.ycombinator.com/item?id=48762098"
+      "2026-07-01, 02:26:22",
+      "https://news.ycombinator.com/item?id=48741654"
     ],
     [
-      "Podman v6.0.0",
-      "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/"
-    ]
-  ],
-  [
-    [
-      "2026-07-02, 14:13:26",
-      "https://news.ycombinator.com/item?id=48761944"
-    ],
-    [
-      "Immich 3.0",
-      "https://github.com/immich-app/immich/discussions/29439"
+      "Supersonic flight returning to US after half-century ban",
+      "https://www.forbes.com/sites/suzannerowankelleher/2026/06/30/faa-supersonic-flight-no-boom/"
     ]
   ],
   [
