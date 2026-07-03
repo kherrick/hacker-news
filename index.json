@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2026-07-03, 16:20:18",
-      "https://news.ycombinator.com/item?id=48776780"
-    ],
-    [
-      "US residents angry datacenters 'shoved down our throats' are recalling officials",
-      "https://www.theguardian.com/us-news/2026/jul/03/datacenter-recall-elections"
-    ]
-  ],
-  [
-    [
       "2026-07-03, 15:56:02",
       "https://news.ycombinator.com/item?id=48776525"
     ],
@@ -75,8 +65,18 @@
       "https://news.ycombinator.com/item?id=48776232"
     ],
     [
-      "Claude, please stop trying to memorize random crap",
+      "Memorizing session transcripts isn't useful",
       "https://12gramsofcarbon.com/p/agentics-memorizing-session-transcripts"
+    ]
+  ],
+  [
+    [
+      "2026-07-03, 15:14:55",
+      "https://news.ycombinator.com/item?id=48776044"
+    ],
+    [
+      "Costco Is the Anti-Amazon",
+      "https://phenomenalworld.org/analysis/the-anti-amazon/"
     ]
   ],
   [
@@ -117,16 +117,6 @@
     [
       "Jamesob's guide to running SOTA LLMs locally",
       "https://github.com/jamesob/local-llm"
-    ]
-  ],
-  [
-    [
-      "2026-07-03, 14:49:44",
-      "https://news.ycombinator.com/item?id=48775748"
-    ],
-    [
-      "Give Smart People the Tools to Do Smart Things",
-      "https://superuserdone.com/posts/2026-07-03-give-smart-people-the-tools/"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Show HN: ctx – Search the coding agent history already on your machine",
       "https://github.com/ctxrs/ctx"
+    ]
+  ],
+  [
+    [
+      "2026-07-02, 15:43:39",
+      "https://news.ycombinator.com/item?id=48763291"
+    ],
+    [
+      "Flexible metaprogramming with Rhombus",
+      "https://lwn.net/SubscriberLink/1079001/67840550991151ed/"
     ]
   ],
   [
