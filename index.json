@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2026-07-03, 22:39:22",
-      "https://news.ycombinator.com/item?id=48780857"
-    ],
-    [
-      "Elevating Privileges from Firefox to Android Root",
-      "https://rootme.nebusec.ai/"
-    ]
-  ],
-  [
-    [
       "2026-07-03, 22:35:47",
       "https://news.ycombinator.com/item?id=48780826"
     ],
@@ -61,12 +51,32 @@
   ],
   [
     [
+      "2026-07-03, 22:34:16",
+      "https://news.ycombinator.com/item?id=48780812"
+    ],
+    [
+      "GitFut – Your GitHub stats turned into a World-Cup-style player card",
+      "https://gitfut.com"
+    ]
+  ],
+  [
+    [
       "2026-07-03, 22:33:10",
       "https://news.ycombinator.com/item?id=48780801"
     ],
     [
       "Leanstral 1.5: Proof Abundance for All",
       "https://mistral.ai/news/leanstral-1-5/"
+    ]
+  ],
+  [
+    [
+      "2026-07-03, 22:17:24",
+      "https://news.ycombinator.com/item?id=48780674"
+    ],
+    [
+      "Disputing the Declaration of Independence",
+      "https://www.historytoday.com/archive/feature/disputing-declaration-independence"
     ]
   ],
   [
@@ -87,16 +97,6 @@
     [
       "GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell",
       "https://www.wafer.ai/blog/glm52-amd"
-    ]
-  ],
-  [
-    [
-      "2026-07-03, 21:42:19",
-      "https://news.ycombinator.com/item?id=48780352"
-    ],
-    [
-      "Goodbye, Forever, Probably",
-      "https://whitep4nth3r.com/blog/goodbye-forever-probably/"
     ]
   ],
   [
@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2026-07-03, 20:08:01",
-      "https://news.ycombinator.com/item?id=48779352"
-    ],
-    [
-      "Kagi Changelog (July 2): Heads, tails, and an AI toggle",
-      "https://kagi.com/changelog#10959"
-    ]
-  ],
-  [
-    [
       "2026-07-03, 19:08:31",
       "https://news.ycombinator.com/item?id=48778757"
     ],
@@ -191,22 +181,32 @@
   ],
   [
     [
+      "2026-07-03, 17:46:10",
+      "https://news.ycombinator.com/item?id=48777728"
+    ],
+    [
+      "I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination (2025)",
+      "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type"
+    ]
+  ],
+  [
+    [
+      "2026-07-03, 17:04:08",
+      "https://news.ycombinator.com/item?id=48777266"
+    ],
+    [
+      "International chess federation sanctions Kramnik",
+      "https://www.fide.com/fide-ethics-disciplinary-commission-issues-a-decision-in-case-involving-gm-vladimir-kramnik/"
+    ]
+  ],
+  [
+    [
       "2026-07-03, 16:53:50",
       "https://news.ycombinator.com/item?id=48777144"
     ],
     [
       "Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
       "https://github.com/kerlenton/mcpsnoop"
-    ]
-  ],
-  [
-    [
-      "2026-07-03, 15:50:49",
-      "https://news.ycombinator.com/item?id=48776464"
-    ],
-    [
-      "60% Fable cost cut by converting code to images and having the model OCR it",
-      "https://github.com/teamchong/pxpipe"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2026-07-03, 06:21:44",
-      "https://news.ycombinator.com/item?id=48771515"
+      "2026-07-01, 10:11:12",
+      "https://news.ycombinator.com/item?id=48744546"
     ],
     [
-      "Ask HN: Is anyone experimenting with different ways of using LLMs for coding?",
-      "https://news.ycombinator.com/item?id=48771515"
+      "We put a Redis server inside our runtime",
+      "https://encore.dev/blog/redis-runtime"
     ]
   ],
   [
