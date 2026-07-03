@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-03, 11:14:54](https://news.ycombinator.com/item?id=48773652) - [Gun Mistakes in Fiction Writing: Handgun Edition](https://www.swiftsilentdeadly.com/blog/gun-mistakes-in-fiction-writing-handgun-edition)
+* [2026-07-03, 09:08:14](https://news.ycombinator.com/item?id=48772717) - [Commodore 64 Basic for PostgreSQL](https://thombrown.blogspot.com/2026/07/load-plcbmbasic81-commodore-64-basic.html)
 * [2026-07-03, 08:50:47](https://news.ycombinator.com/item?id=48772573) - [Wordgard: The new in-browser rich-text editor from the creator of ProseMirror](https://wordgard.net/)
 * [2026-07-03, 08:31:37](https://news.ycombinator.com/item?id=48772443) - [Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says](https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/)
 * [2026-07-03, 08:23:32](https://news.ycombinator.com/item?id=48772388) - [Half-Baked Product](https://weli.dev/blog/half-baked-product/)
@@ -12,7 +14,6 @@
 * [2026-07-02, 22:44:04](https://news.ycombinator.com/item?id=48768336) - [Mystery identity of 'Green Boots' climber is finally solved after DNA test](https://www.dailymail.com/news/article-15943905/Mystery-identity-Green-Boots-climber-macabre-landmark-frozen-ice-dying-Everest-finally-solved-DNA-test.html)
 * [2026-07-02, 21:03:45](https://news.ycombinator.com/item?id=48767347) - [Virginia bans sale of geolocation data](https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data)
 * [2026-07-02, 19:33:55](https://news.ycombinator.com/item?id=48766286) - [Great Salt Lake Tracker – Grow the Flow](https://growtheflowutah.org/laketracker/)
-* [2026-07-02, 19:27:38](https://news.ycombinator.com/item?id=48766209) - [EFF letter to FTC on X consent order [pdf]](https://www.eff.org/deeplinks/2026/06/eff-and-allies-xs-ftc-petition-waive-privacy-violation-order-should-be-rejected)
 * [2026-07-02, 19:11:57](https://news.ycombinator.com/item?id=48766026) - [The short leash AI coding method for beating Fable](https://blog.okturtles.org/2026/07/short-leash-ai-method/)
 * [2026-07-02, 19:10:12](https://news.ycombinator.com/item?id=48766005) - [Claude-real-video － any LLM can watch a video](https://github.com/HUANGCHIHHUNGLeo/claude-real-video)
 * [2026-07-02, 18:41:19](https://news.ycombinator.com/item?id=48765663) - [Exapunks (2018)](https://www.zachtronics.com/exapunks/)
@@ -22,7 +23,6 @@
 * [2026-07-02, 14:41:56](https://news.ycombinator.com/item?id=48762372) - [FoundationDB's Flow – Bringing Actor-Based Concurrency to C++11](https://apple.github.io/foundationdb/flow.html)
 * [2026-07-02, 14:23:09](https://news.ycombinator.com/item?id=48762098) - [Podman v6.0.0](https://blog.podman.io/2026/07/introducing-podman-v6-0-0/)
 * [2026-07-02, 14:13:26](https://news.ycombinator.com/item?id=48761944) - [Immich 3.0](https://github.com/immich-app/immich/discussions/29439)
-* [2026-07-02, 03:00:15](https://news.ycombinator.com/item?id=48755965) - [Android Developer Verification: Threat masquerading as protection](https://f-droid.org/2026/07/01/adv-malware.html)
 * [2026-06-30, 21:28:32](https://news.ycombinator.com/item?id=48739459) - [Superpowers 6](https://blog.fsck.com/2026/06/15/Superpowers-6/)
 * [2026-06-30, 19:45:39](https://news.ycombinator.com/item?id=48738244) - [Q&A with Micron's VP and GM of Memory](https://morethanmoore.substack.com/p/q-and-a-with-microns-vp-and-gm-of)
 * [2026-06-29, 21:59:28](https://news.ycombinator.com/item?id=48725857) - [How working with a blind client revealed invisible accessibility gaps](https://iinteractive.com/resources/blog/read-only)

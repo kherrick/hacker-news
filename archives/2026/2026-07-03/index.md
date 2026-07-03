@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-03](index.md)
 
+* [2026-07-03, 11:14:54](https://news.ycombinator.com/item?id=48773652) - [Gun Mistakes in Fiction Writing: Handgun Edition](https://www.swiftsilentdeadly.com/blog/gun-mistakes-in-fiction-writing-handgun-edition)
+* [2026-07-03, 09:08:14](https://news.ycombinator.com/item?id=48772717) - [Commodore 64 Basic for PostgreSQL](https://thombrown.blogspot.com/2026/07/load-plcbmbasic81-commodore-64-basic.html)
 * [2026-07-03, 08:50:47](https://news.ycombinator.com/item?id=48772573) - [Wordgard: The new in-browser rich-text editor from the creator of ProseMirror](https://wordgard.net/)
 * [2026-07-03, 08:31:37](https://news.ycombinator.com/item?id=48772443) - [Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says](https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/)
 * [2026-07-03, 08:23:32](https://news.ycombinator.com/item?id=48772388) - [Half-Baked Product](https://weli.dev/blog/half-baked-product/)
