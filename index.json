@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-07-03, 04:16:17",
-      "https://news.ycombinator.com/item?id=48770647"
+      "2026-07-03, 08:31:37",
+      "https://news.ycombinator.com/item?id=48772443"
     ],
     [
-      "Why Switzerland has 25 gbit internet and America doesn't",
-      "https://stefan.schueller.net/posts/the-free-market-lie/"
+      "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
+      "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/"
+    ]
+  ],
+  [
+    [
+      "2026-07-03, 08:23:32",
+      "https://news.ycombinator.com/item?id=48772388"
+    ],
+    [
+      "Half-Baked Product",
+      "https://weli.dev/blog/half-baked-product/"
     ]
   ],
   [
@@ -17,16 +27,6 @@
     [
       "14× faster embeddings: how we rebuilt the ONNX path in Manticore",
       "https://manticoresearch.com/blog/onnx-embeddings-speedup/"
-    ]
-  ],
-  [
-    [
-      "2026-07-03, 01:42:40",
-      "https://news.ycombinator.com/item?id=48769696"
-    ],
-    [
-      "AI is 'not smart' so what's next in artificial intelligence?",
-      "https://www.bbc.com/news/articles/cj6gr0xkyr3o"
     ]
   ],
   [
@@ -97,16 +97,6 @@
     [
       "Virginia bans sale of geolocation data",
       "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data"
-    ]
-  ],
-  [
-    [
-      "2026-07-02, 20:01:20",
-      "https://news.ycombinator.com/item?id=48766598"
-    ],
-    [
-      "Lightning Memory-Mapped Database Manager (LMDB) 1.0",
-      "http://www.lmdb.tech/doc/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Reality has a surprising amount of detail (2017)",
       "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail"
+    ]
+  ],
+  [
+    [
+      "2026-06-26, 23:36:56",
+      "https://news.ycombinator.com/item?id=48693428"
+    ],
+    [
+      "Quake in 13 Kilobytes (2021)",
+      "https://js13kgames.com/games/q1k3"
     ]
   ],
   [
