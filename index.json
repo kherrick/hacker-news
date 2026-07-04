@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-07-04, 17:52:36",
+      "https://news.ycombinator.com/item?id=48787329"
+    ],
+    [
+      "Verizon is About to Break our Watches",
+      "https://www.jefftk.com/p/verizon-is-about-to-break-our-watches"
+    ]
+  ],
+  [
+    [
       "2026-07-04, 17:37:21",
       "https://news.ycombinator.com/item?id=48787201"
     ],
     [
       "BareMetal RAM Dumper – Bare-metal x86 tool for Cold Boot Attack experiments",
       "https://github.com/pIat0n/BareMetal-RAM-Dumper"
+    ]
+  ],
+  [
+    [
+      "2026-07-04, 17:18:42",
+      "https://news.ycombinator.com/item?id=48787058"
+    ],
+    [
+      "Sick leave: Germany rising but not the worst in Europe",
+      "https://www.dw.com/en/sick-leave-germany-rising-but-not-the-worst-in-europe/a-77815488"
     ]
   ],
   [
@@ -75,7 +95,7 @@
       "https://news.ycombinator.com/item?id=48786713"
     ],
     [
-      "Rob Pike – 'Concurrency Is Not Parallelism' [video]",
+      "Rob Pike – 'Concurrency Is Not Parallelism' [video] (2012)",
       "https://vimeo.com/49718712"
     ]
   ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2026-07-03, 22:39:50",
-      "https://news.ycombinator.com/item?id=48780865"
-    ],
-    [
-      "Steam Controller Auto-Charge – pilot to magnetic charging puck using CV",
-      "https://github.com/FossPrime/Steam-Controller-Auto-Charge"
-    ]
-  ],
-  [
-    [
       "2026-07-03, 22:33:10",
       "https://news.ycombinator.com/item?id=48780801"
     ],
@@ -197,26 +207,6 @@
     [
       "Performance per dollar is getting faster and cheaper",
       "https://www.wafer.ai/blog/glm52-amd"
-    ]
-  ],
-  [
-    [
-      "2026-07-03, 19:08:31",
-      "https://news.ycombinator.com/item?id=48778757"
-    ],
-    [
-      "FreeBSD ate my RAM",
-      "https://crocidb.com/post/freebsd-ate-my-ram/"
-    ]
-  ],
-  [
-    [
-      "2026-07-03, 15:03:43",
-      "https://news.ycombinator.com/item?id=48775921"
-    ],
-    [
-      "Jamesob's guide to running SOTA LLMs locally",
-      "https://github.com/jamesob/local-llm"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Night Witches – all-female Soviet aviator regiment WW2",
       "https://en.wikipedia.org/wiki/Night_Witches"
+    ]
+  ],
+  [
+    [
+      "2026-06-30, 10:56:37",
+      "https://news.ycombinator.com/item?id=48730868"
+    ],
+    [
+      "The .join() that should be a bug",
+      "https://kronotop.com/blog/the-join-that-should-be-a-bug/"
     ]
   ]
 ]
