@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-07-04, 14:15:22](https://news.ycombinator.com/item?id=48785573) - ['All men are created equal': America has lost its values. It's time to go back](https://www.theguardian.com/us-news/ng-interactive/2026/jul/04/250-years-declaration-of-independence)
 * [2026-07-04, 14:08:55](https://news.ycombinator.com/item?id=48785525) - [Does average person understand that all disc media dies too?](https://news.ycombinator.com/item?id=48785525)
 * [2026-07-04, 14:03:40](https://news.ycombinator.com/item?id=48785485) - [Potential session/cache leakage between workspace instances or consumer accounts](https://github.com/anthropics/claude-code/issues/74066)
 * [2026-07-04, 14:02:59](https://news.ycombinator.com/item?id=48785478) - [How working memory could give rise to consciousness](https://www.scientificamerican.com/article/how-working-memory-could-give-rise-to-consciousness/)
@@ -26,6 +25,7 @@
 * [2026-07-03, 15:03:43](https://news.ycombinator.com/item?id=48775921) - [Jamesob's guide to running SOTA LLMs locally](https://github.com/jamesob/local-llm)
 * [2026-07-01, 13:22:19](https://news.ycombinator.com/item?id=48746327) - [The Vespa at 80: Why the Italian scooter remains the coolest thing on 2 wheels](https://www.cbc.ca/news/world/vespa-italy-postwar-design-9.7252641)
 * [2026-07-01, 12:48:56](https://news.ycombinator.com/item?id=48745855) - [Postgres data stored in Parquet on S3: LTAP architecture explained](https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage)
+* [2026-07-01, 04:14:01](https://news.ycombinator.com/item?id=48742175) - [What ORMs have taught me: just learn SQL (2014)](https://wozniak.ca/blog/2014/08/03/1/index.html)
 * [2026-06-30, 21:45:22](https://news.ycombinator.com/item?id=48739644) - [Ship traces journey Spanish Armada sailors made in 1588](https://www.irishtimes.com/ireland/2026/06/30/it-is-a-huge-honour-ship-traces-journey-spanish-armada-sailors-made-in-1588/)
 * [2026-06-30, 21:27:15](https://news.ycombinator.com/item?id=48739446) - [Breaking the Bird Barrier: Scientist Decodes Zebra Finch Language](https://www.freepressjournal.in/education/breaking-the-bird-barrier-scientist-decodes-zebra-finch-language)
 * [2026-06-30, 20:50:58](https://news.ycombinator.com/item?id=48739018) - [Mir Books – Books from the Soviet Era](https://mirtitles.org)
