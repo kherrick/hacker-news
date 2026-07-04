@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-07-04](index.md)
 
+* [2026-07-04, 17:37:21](https://news.ycombinator.com/item?id=48787201) - [BareMetal RAM Dumper – Bare-metal x86 tool for Cold Boot Attack experiments](https://github.com/pIat0n/BareMetal-RAM-Dumper)
+* [2026-07-04, 17:17:28](https://news.ycombinator.com/item?id=48787042) - [No more than 100 000 faint satellites should orbit Earth](https://www.eso.org/public/news/eso2607/)
+* [2026-07-04, 16:55:29](https://news.ycombinator.com/item?id=48786880) - [Plein Air](https://art.joonas.wtf/)
 * [2026-07-04, 16:54:02](https://news.ycombinator.com/item?id=48786868) - [Finland's last analogue landline phones go silent after 150 years](https://www.euronews.com/next/2026/06/30/finlands-last-analogue-landline-phones-go-silent-after-150-years)
 * [2026-07-04, 16:51:26](https://news.ycombinator.com/item?id=48786838) - [Google Books (or similar) all book scans – $200k bounty](https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234)
 * [2026-07-04, 16:45:23](https://news.ycombinator.com/item?id=48786782) - [Meta data center water discharges suspended for contaminating water supply](https://www.tomshardware.com/tech-industry/data-centers/cheyenne-suspends-data-center-fill-and-flush-and-closed-loop-discharges-after-meta-contractor-contaminated-its-reuse-water-system)
