@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-04](index.md)
 
+* [2026-07-04, 12:46:17](https://news.ycombinator.com/item?id=48785026) - [Show HN: Foundation, a different approach to software and AI](https://github.com/nmxmxh/foundation)
+* [2026-07-04, 12:00:57](https://news.ycombinator.com/item?id=48784777) - [Explanation of everything you can see in htop/top on Linux](https://peteris.rocks/blog/htop/)
 * [2026-07-04, 09:08:09](https://news.ycombinator.com/item?id=48783948) - [Astrophysicists Puzzle over Webb's New Universe](https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/)
 * [2026-07-04, 07:53:12](https://news.ycombinator.com/item?id=48783512) - [Unearthing the Reality of \"Zombie Energy Systems\" in Africa's Energy Transition](https://www.catf.us/resource/unearthing-reality-zombie-energy-systems-africas-energy-transition/)
 * [2026-07-04, 06:32:28](https://news.ycombinator.com/item?id=48783117) - [The bottleneck might be the air in the room](https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/)

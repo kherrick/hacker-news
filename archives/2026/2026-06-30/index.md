@@ -27,6 +27,7 @@
 * [2026-06-30, 19:45:39](https://news.ycombinator.com/item?id=48738244) - [Q&A with Micron's VP and GM of Memory](https://morethanmoore.substack.com/p/q-and-a-with-microns-vp-and-gm-of)
 * [2026-06-30, 18:38:26](https://news.ycombinator.com/item?id=48737302) - [Show HN: I made a heatmap of 3400 VCs who are open to cold emails](https://apparent.social/heat-map)
 * [2026-06-30, 18:33:59](https://news.ycombinator.com/item?id=48737226) - [Tell HN: Installing Cursor on iOS irreversibly changes your privacy settings](https://news.ycombinator.com/item?id=48737226)
+* [2026-06-30, 18:24:52](https://news.ycombinator.com/item?id=48737068) - [Night Witches – all-female Soviet aviator regiment WW2](https://en.wikipedia.org/wiki/Night_Witches)
 * [2026-06-30, 18:12:33](https://news.ycombinator.com/item?id=48736839) - [Amazon seller reveals glimpse of shadow bribery market](https://www.latimes.com/business/story/2026-06-30/shadow-bribery-market-inside-amazon-preys-on-desperate-sellers)
 * [2026-06-30, 18:12:33](https://news.ycombinator.com/item?id=48736839) - [Amazon Seller Reveals Rare Glimpse of Shadow Bribery Market](https://www.bloomberg.com/news/articles/2026-06-24/inside-the-shadow-market-selling-access-to-amazon-employees)
 * [2026-06-30, 17:59:52](https://news.ycombinator.com/item?id=48736605) - [Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5)

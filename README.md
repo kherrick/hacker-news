@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-04, 12:46:17](https://news.ycombinator.com/item?id=48785026) - [Show HN: Foundation, a different approach to software and AI](https://github.com/nmxmxh/foundation)
+* [2026-07-04, 12:00:57](https://news.ycombinator.com/item?id=48784777) - [Explanation of everything you can see in htop/top on Linux](https://peteris.rocks/blog/htop/)
 * [2026-07-04, 09:08:09](https://news.ycombinator.com/item?id=48783948) - [Astrophysicists Puzzle over Webb’s New Universe](https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/)
 * [2026-07-04, 06:32:28](https://news.ycombinator.com/item?id=48783117) - [The bottleneck might be the air in the room](https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/)
 * [2026-07-04, 05:37:25](https://news.ycombinator.com/item?id=48782890) - [2026 Unslop AI-Written Fiction Contest Results](https://www.hyperstitionai.com/unslop-results)
@@ -15,12 +17,10 @@
 * [2026-07-03, 22:33:10](https://news.ycombinator.com/item?id=48780801) - [Leanstral 1.5: Proof abundance for all](https://mistral.ai/news/leanstral-1-5/)
 * [2026-07-03, 21:49:06](https://news.ycombinator.com/item?id=48780417) - [Performance per dollar is getting faster and cheaper](https://www.wafer.ai/blog/glm52-amd)
 * [2026-07-03, 21:16:16](https://news.ycombinator.com/item?id=48780056) - [New serious vulnerabilities spiked around release of Claude Mythos Preview](https://epoch.ai/data-insights/cve-severity-spike)
-* [2026-07-03, 21:00:50](https://news.ycombinator.com/item?id=48779906) - [Infracost (YC W21) Is Hiring a Marketing Lead to Shift FinOps Left](https://www.ycombinator.com/companies/infracost/jobs/YTJcFwr-marketing-lead)
 * [2026-07-03, 20:42:00](https://news.ycombinator.com/item?id=48779723) - [Applied Category Theory Course (2018)](https://math.ucr.edu/home/baez/act_course/index.html)
 * [2026-07-03, 20:15:49](https://news.ycombinator.com/item?id=48779454) - [SearXNG: A free internet metasearch engine](https://github.com/searxng/searxng)
 * [2026-07-03, 19:08:31](https://news.ycombinator.com/item?id=48778757) - [FreeBSD ate my RAM](https://crocidb.com/post/freebsd-ate-my-ram/)
 * [2026-07-03, 15:14:55](https://news.ycombinator.com/item?id=48776044) - [Costco is the anti-Amazon](https://phenomenalworld.org/analysis/the-anti-amazon/)
-* [2026-07-03, 15:13:43](https://news.ycombinator.com/item?id=48776035) - [Factories are just rooms](https://interconnected.org/home/2026/07/03/factories)
 * [2026-07-03, 15:03:43](https://news.ycombinator.com/item?id=48775921) - [Jamesob's guide to running SOTA LLMs locally](https://github.com/jamesob/local-llm)
 * [2026-07-01, 16:57:20](https://news.ycombinator.com/item?id=48749868) - [Show HN: Classify mechanical faults using Contrastive Language-Audio Pretraining](https://github.com/adam-s/car-diagnosis)
 * [2026-07-01, 13:28:18](https://news.ycombinator.com/item?id=48746429) - [The Scanline Sweeper: A Glyph Rendering Algorithm [pdf]](https://rookandpossum.com/papers/scanline_sweeper_preprint.pdf)
@@ -28,8 +28,8 @@
 * [2026-07-01, 12:48:56](https://news.ycombinator.com/item?id=48745855) - [Postgres data stored in Parquet on S3: LTAP architecture explained](https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage)
 * [2026-06-30, 21:48:43](https://news.ycombinator.com/item?id=48739682) - [Gone but Not Forgotten: Recovering the Dead Web](https://blog.archive.org/2026/04/23/gone-but-not-forgotten-recovering-the-dead-web/)
 * [2026-06-30, 21:45:22](https://news.ycombinator.com/item?id=48739644) - [Ship traces journey Spanish Armada sailors made in 1588](https://www.irishtimes.com/ireland/2026/06/30/it-is-a-huge-honour-ship-traces-journey-spanish-armada-sailors-made-in-1588/)
-* [2026-06-30, 20:52:04](https://news.ycombinator.com/item?id=48739038) - [Show HN: Morph Reflexes – Multi-head classifiers for agent traces](https://news.ycombinator.com/item?id=48739038)
 * [2026-06-30, 20:50:58](https://news.ycombinator.com/item?id=48739018) - [Mir Books – Books from the Soviet Era](https://mirtitles.org)
+* [2026-06-30, 18:24:52](https://news.ycombinator.com/item?id=48737068) - [Night Witches – all-female Soviet aviator regiment WW2](https://en.wikipedia.org/wiki/Night_Witches)
 
 ## [Archives](archives/index.md)
 
