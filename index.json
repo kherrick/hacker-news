@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-07-04, 06:32:28",
+      "https://news.ycombinator.com/item?id=48783117"
+    ],
+    [
+      "The bottleneck might be the air in the room",
+      "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/"
+    ]
+  ],
+  [
+    [
       "2026-07-04, 05:43:01",
       "https://news.ycombinator.com/item?id=48782918"
     ],
     [
       "David Beazley – Programming Courses",
       "https://www.dabeaz.com/courses.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-04, 05:37:25",
+      "https://news.ycombinator.com/item?id=48782890"
+    ],
+    [
+      "2026 Unslop AI-Written Fiction Contest Results",
+      "https://www.hyperstitionai.com/unslop-results"
     ]
   ],
   [
@@ -97,16 +117,6 @@
     [
       "Steam Controller Auto-Charge – pilot to magnetic charging puck using CV",
       "https://github.com/FossPrime/Steam-Controller-Auto-Charge"
-    ]
-  ],
-  [
-    [
-      "2026-07-03, 22:34:16",
-      "https://news.ycombinator.com/item?id=48780812"
-    ],
-    [
-      "GitFut – Your GitHub stats turned into a World-Cup-style player card",
-      "https://gitfut.com"
     ]
   ],
   [
@@ -231,22 +241,12 @@
   ],
   [
     [
-      "2026-07-03, 08:50:47",
-      "https://news.ycombinator.com/item?id=48772573"
+      "2026-07-01, 16:57:20",
+      "https://news.ycombinator.com/item?id=48749868"
     ],
     [
-      "Wordgard: In-browser rich-text editor from the creator of ProseMirror",
-      "https://wordgard.net/"
-    ]
-  ],
-  [
-    [
-      "2026-07-01, 05:21:03",
-      "https://news.ycombinator.com/item?id=48742566"
-    ],
-    [
-      "Study reveals what people see when they read lips",
-      "https://news.ku.edu/news/article/study-reveals-what-people-really-see-when-they-read-lips"
+      "Show HN: Classify mechanical faults using Contrastive Language-Audio Pretraining",
+      "https://github.com/adam-s/car-diagnosis"
     ]
   ],
   [
