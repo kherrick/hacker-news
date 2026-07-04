@@ -27,6 +27,7 @@
 * [2026-07-02, 18:38:32](https://news.ycombinator.com/item?id=48765639) - [Postgres transactions are a distributed systems superpower](https://www.dbos.dev/blog/co-locating-workflow-state-with-your-data)
 * [2026-07-02, 18:37:57](https://news.ycombinator.com/item?id=48765630) - [Claude's AskUserQuestion: \"No response after 60s – continued without an answer\"](https://github.com/anthropics/claude-code/issues/73125)
 * [2026-07-02, 18:36:09](https://news.ycombinator.com/item?id=48765607) - [Vulkan is now available on NetBSD](https://github.com/segaboy/vulkan-netbsd)
+* [2026-07-02, 17:53:27](https://news.ycombinator.com/item?id=48765066) - [At Dog School, children gain a sense of achievement](https://www.csmonitor.com/Perspectives/Making-a-difference/2026/0630/dog-school-south-africa-funda-nenja)
 * [2026-07-02, 16:36:12](https://news.ycombinator.com/item?id=48763963) - [Show HN: QUALITY.md – open format/specification, agent skill, and CLI](https://getquality.md)
 * [2026-07-02, 16:36:09](https://news.ycombinator.com/item?id=48763962) - [EU Court of Justice allows criminal prosecution for reposting RT videos](https://tass.com/world/2154415)
 * [2026-07-02, 16:29:13](https://news.ycombinator.com/item?id=48763864) - [The US Government Is Now a Shareholder in 26 Companies](https://moeonmargin.substack.com/p/the-us-government-is-now-a-shareholder)
