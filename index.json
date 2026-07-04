@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-04, 18:42:24",
+      "https://news.ycombinator.com/item?id=48787725"
+    ],
+    [
+      "As downtown Seattle offices empty, city facing years of 'zombie' towers",
+      "https://www.seattletimes.com/business/local-business/as-downtown-seattle-offices-empty-city-facing-years-of-zombie-towers/"
+    ]
+  ],
+  [
+    [
       "2026-07-04, 17:52:36",
       "https://news.ycombinator.com/item?id=48787329"
     ],
@@ -37,6 +47,16 @@
     [
       "No more than 100 000 faint satellites should orbit Earth",
       "https://www.eso.org/public/news/eso2607/"
+    ]
+  ],
+  [
+    [
+      "2026-07-04, 17:08:18",
+      "https://news.ycombinator.com/item?id=48786970"
+    ],
+    [
+      "EndBASIC 0.14: Are we multimedia yet?",
+      "https://www.endbasic.dev/2026/07/endbasic-0.14.html"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2026-07-04, 11:39:01",
-      "https://news.ycombinator.com/item?id=48784662"
-    ],
-    [
-      "The Reports of Jim Carrey's Death Are a Failure Mode",
-      "https://tane.dev/2026/07/the-reports-of-jim-carreys-death-are-a-failure-mode/"
-    ]
-  ],
-  [
-    [
       "2026-07-04, 09:08:09",
       "https://news.ycombinator.com/item?id=48783948"
     ],
@@ -247,16 +257,6 @@
     [
       "Postgres data stored in Parquet on S3: LTAP architecture explained",
       "https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage"
-    ]
-  ],
-  [
-    [
-      "2026-07-01, 04:14:01",
-      "https://news.ycombinator.com/item?id=48742175"
-    ],
-    [
-      "What ORMs have taught me: just learn SQL (2014)",
-      "https://wozniak.ca/blog/2014/08/03/1/index.html"
     ]
   ],
   [
