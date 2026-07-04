@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-03, 23:24:35](https://news.ycombinator.com/item?id=48781196) - [Odin, Wikipedia and Engagement Farming](https://katamari64.se/posts/2026/odin-wikipedia/)
 * [2026-07-03, 22:56:17](https://news.ycombinator.com/item?id=48780996) - [The circuit that lets your brain think and see](https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see)
 * [2026-07-03, 22:46:18](https://news.ycombinator.com/item?id=48780913) - [Amsterdam invented the fire department](https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/)
 * [2026-07-03, 22:40:29](https://news.ycombinator.com/item?id=48780870) - [Giant trees have no trouble pumping water to top branches](https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/)
@@ -7,8 +8,6 @@
 * [2026-07-03, 22:35:47](https://news.ycombinator.com/item?id=48780826) - [Dispersion loss counteracts embedding condensation in small language models](https://chenliu-1996.github.io/projects/LM-Dispersion/)
 * [2026-07-03, 22:34:16](https://news.ycombinator.com/item?id=48780812) - [GitFut – Your GitHub stats turned into a World-Cup-style player card](https://gitfut.com)
 * [2026-07-03, 22:33:10](https://news.ycombinator.com/item?id=48780801) - [Leanstral 1.5: Proof Abundance for All](https://mistral.ai/news/leanstral-1-5/)
-* [2026-07-03, 22:17:24](https://news.ycombinator.com/item?id=48780674) - [Disputing the Declaration of Independence](https://www.historytoday.com/archive/feature/disputing-declaration-independence)
-* [2026-07-03, 21:53:04](https://news.ycombinator.com/item?id=48780469) - [The Demoralization of the White-Collar Worker](https://nooneshappy.com/article/the-demoralization-of-the-white-collar-worker/)
 * [2026-07-03, 21:49:06](https://news.ycombinator.com/item?id=48780417) - [GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell](https://www.wafer.ai/blog/glm52-amd)
 * [2026-07-03, 21:28:55](https://news.ycombinator.com/item?id=48780224) - [Software, from First Principles](https://fazamhd.com/mental-models/software/)
 * [2026-07-03, 21:16:16](https://news.ycombinator.com/item?id=48780056) - [New serious vulnerabilities spiked around release of Claude Mythos Preview](https://epoch.ai/data-insights/cve-severity-spike)
@@ -27,6 +26,7 @@
 * [2026-07-03, 13:01:49](https://news.ycombinator.com/item?id=48774518) - [Valve open-source the Steam Machine e-ink screen so you can make your own](https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/)
 * [2026-07-03, 13:00:31](https://news.ycombinator.com/item?id=48774509) - [PostgreSQL and the OOM killer: Why we use strict memory overcommit](https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit)
 * [2026-07-03, 08:50:47](https://news.ycombinator.com/item?id=48772573) - [Wordgard: In-browser rich-text editor from the creator of ProseMirror](https://wordgard.net/)
+* [2026-07-03, 06:21:44](https://news.ycombinator.com/item?id=48771515) - [Ask HN: Is anyone experimenting with different ways of using LLMs for coding?](https://news.ycombinator.com/item?id=48771515)
 * [2026-07-01, 10:11:12](https://news.ycombinator.com/item?id=48744546) - [We put a Redis server inside our runtime](https://encore.dev/blog/redis-runtime)
 * [2026-06-30, 11:07:38](https://news.ycombinator.com/item?id=48730953) - [Hunting a 16-year-old SQLite WAL bug with TLA+](https://ubuntu.com/blog/hunting-a-16-year-old-sqlite-bug-with-tla-is-dqlite-affected)
 * [2026-06-27, 15:18:03](https://news.ycombinator.com/item?id=48699010) - [A peek into Reddit's anti-spam internals](https://lyra.horse/blog/2026/06/reddit-spam-internals/)
