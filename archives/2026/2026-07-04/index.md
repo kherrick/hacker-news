@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-07-04](index.md)
 
+* [2026-07-04, 16:15:48](https://news.ycombinator.com/item?id=48786495) - [Curveball](https://mightyburger.net/projects/curveball/)
+* [2026-07-04, 14:52:25](https://news.ycombinator.com/item?id=48785840) - [Windows CE Dreamcast Community Edition (wince-dc)](https://github.com/maximqaxd/wince-dc)
+* [2026-07-04, 14:34:00](https://news.ycombinator.com/item?id=48785720) - [California Bans 'Sell by' Labels, Hoping to Cut Food Waste](https://www.nytimes.com/2026/07/02/us/california-food-labels-sell-by.html)
 * [2026-07-04, 14:15:22](https://news.ycombinator.com/item?id=48785573) - ['All men are created equal': America has lost its values. It's time to go back](https://www.theguardian.com/us-news/ng-interactive/2026/jul/04/250-years-declaration-of-independence)
 * [2026-07-04, 14:08:55](https://news.ycombinator.com/item?id=48785525) - [Does average person understand that all disc media dies too?](https://news.ycombinator.com/item?id=48785525)
 * [2026-07-04, 14:03:40](https://news.ycombinator.com/item?id=48785485) - [Potential session/cache leakage between workspace instances or consumer accounts](https://github.com/anthropics/claude-code/issues/74066)
@@ -11,6 +14,7 @@
 * [2026-07-04, 14:00:03](https://news.ycombinator.com/item?id=48785459) - [A martian rock has lots of carbon on it, and it's not clear why](https://arstechnica.com/science/2026/07/a-martian-rock-has-lots-of-carbon-on-it-and-its-not-clear-why/)
 * [2026-07-04, 12:46:17](https://news.ycombinator.com/item?id=48785026) - [Show HN: Foundation, a different approach to software and AI](https://github.com/nmxmxh/foundation)
 * [2026-07-04, 12:00:57](https://news.ycombinator.com/item?id=48784777) - [Explanation of everything you can see in htop/top on Linux](https://peteris.rocks/blog/htop/)
+* [2026-07-04, 11:39:01](https://news.ycombinator.com/item?id=48784662) - [The Reports of Jim Carrey's Death Are a Failure Mode](https://tane.dev/2026/07/the-reports-of-jim-carreys-death-are-a-failure-mode/)
 * [2026-07-04, 09:08:09](https://news.ycombinator.com/item?id=48783948) - [Astrophysicists Puzzle over Webb's New Universe](https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/)
 * [2026-07-04, 07:53:12](https://news.ycombinator.com/item?id=48783512) - [Unearthing the Reality of \"Zombie Energy Systems\" in Africa's Energy Transition](https://www.catf.us/resource/unearthing-reality-zombie-energy-systems-africas-energy-transition/)
 * [2026-07-04, 06:32:28](https://news.ycombinator.com/item?id=48783117) - [The bottleneck might be the air in the room](https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/)

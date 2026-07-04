@@ -67,6 +67,7 @@
 * [2026-07-01, 13:27:07](https://news.ycombinator.com/item?id=48746404) - [What's wrong with EU age verification? (Nothing)](https://blog.vrypan.net/2026/06/29/260629-whats-wrong-with-eu-age-verification/)
 * [2026-07-01, 13:22:24](https://news.ycombinator.com/item?id=48746331) - [Manufact (YC S25) Is Hiring a Developer Advocate in SF](https://www.ycombinator.com/companies/manufact/jobs/4cyWd6S-developer-advocate-partnerships-devrel)
 * [2026-07-01, 13:22:19](https://news.ycombinator.com/item?id=48746327) - [The Vespa at 80: Why the Italian scooter remains the coolest thing on 2 wheels](https://www.cbc.ca/news/world/vespa-italy-postwar-design-9.7252641)
+* [2026-07-01, 13:05:16](https://news.ycombinator.com/item?id=48746090) - [Designing DB partitions you don't have to babysit](https://explainanalyze.com/p/designing-partitioning-you-dont-have-to-babysit/)
 * [2026-07-01, 13:04:16](https://news.ycombinator.com/item?id=48746076) - [Internal Combustion Engine](https://ciechanow.ski/internal-combustion-engine/)
 * [2026-07-01, 12:48:56](https://news.ycombinator.com/item?id=48745855) - [Postgres data stored in Parquet on S3: LTAP architecture explained](https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage)
 * [2026-07-01, 12:43:48](https://news.ycombinator.com/item?id=48745785) - [Sony will no longer produce discs for PlayStation games starting in January 2028](https://www.eurogamer.net/sony-ending-playstation-discs-physical-media-january-2028)
