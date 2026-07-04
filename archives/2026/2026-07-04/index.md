@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-07-04](index.md)
 
+* [2026-07-04, 19:50:08](https://news.ycombinator.com/item?id=48788361) - [AI has torched the market for junior programmers](https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/)
+* [2026-07-04, 19:41:10](https://news.ycombinator.com/item?id=48788283) - [Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main)
+* [2026-07-04, 19:08:44](https://news.ycombinator.com/item?id=48787987) - [Wicklow hotel cancels 'secretive' Peter Thiel group conference](https://www.irishtimes.com/ireland/2026/07/03/wicklow-hotel-cancels-secretive-peter-thiel-conference/)
 * [2026-07-04, 18:42:24](https://news.ycombinator.com/item?id=48787725) - [As downtown Seattle offices empty, city facing years of 'zombie' towers](https://www.seattletimes.com/business/local-business/as-downtown-seattle-offices-empty-city-facing-years-of-zombie-towers/)
 * [2026-07-04, 17:52:36](https://news.ycombinator.com/item?id=48787329) - [Verizon is About to Break our Watches](https://www.jefftk.com/p/verizon-is-about-to-break-our-watches)
 * [2026-07-04, 17:37:21](https://news.ycombinator.com/item?id=48787201) - [BareMetal RAM Dumper – Bare-metal x86 tool for Cold Boot Attack experiments](https://github.com/pIat0n/BareMetal-RAM-Dumper)
 * [2026-07-04, 17:18:42](https://news.ycombinator.com/item?id=48787058) - [Sick leave: Germany rising but not the worst in Europe](https://www.dw.com/en/sick-leave-germany-rising-but-not-the-worst-in-europe/a-77815488)
 * [2026-07-04, 17:17:28](https://news.ycombinator.com/item?id=48787042) - [No more than 100 000 faint satellites should orbit Earth](https://www.eso.org/public/news/eso2607/)
+* [2026-07-04, 17:12:00](https://news.ycombinator.com/item?id=48787001) - [Game Boy Advance Dev: Logging to the Console](https://www.mattgreer.dev/blog/gba-dev-logging/)
 * [2026-07-04, 17:08:18](https://news.ycombinator.com/item?id=48786970) - [EndBASIC 0.14: Are we multimedia yet?](https://www.endbasic.dev/2026/07/endbasic-0.14.html)
 * [2026-07-04, 16:55:29](https://news.ycombinator.com/item?id=48786880) - [Plein Air](https://art.joonas.wtf/)
 * [2026-07-04, 16:54:02](https://news.ycombinator.com/item?id=48786868) - [Finland's last analogue landline phones go silent after 150 years](https://www.euronews.com/next/2026/06/30/finlands-last-analogue-landline-phones-go-silent-after-150-years)
@@ -16,6 +20,7 @@
 * [2026-07-04, 16:45:23](https://news.ycombinator.com/item?id=48786782) - [Meta data center water discharges suspended for contaminating water supply](https://www.tomshardware.com/tech-industry/data-centers/cheyenne-suspends-data-center-fill-and-flush-and-closed-loop-discharges-after-meta-contractor-contaminated-its-reuse-water-system)
 * [2026-07-04, 16:45:10](https://news.ycombinator.com/item?id=48786781) - [Leaking YouTube Creators Private Videos](https://javoriuski.com/post/youtube)
 * [2026-07-04, 16:37:05](https://news.ycombinator.com/item?id=48786713) - [Rob Pike – 'Concurrency Is Not Parallelism' [video]](https://vimeo.com/49718712)
+* [2026-07-04, 16:30:10](https://news.ycombinator.com/item?id=48786638) - [Zig: All Package Management Functionality Moved from Compiler to Build System](https://ziglang.org/devlog/2026/#2026-06-30)
 * [2026-07-04, 16:16:07](https://news.ycombinator.com/item?id=48786500) - [The End of North America](https://paulkrugman.substack.com/p/the-end-of-north-america-157)
 * [2026-07-04, 16:15:48](https://news.ycombinator.com/item?id=48786495) - [Curveball](https://mightyburger.net/projects/curveball/)
 * [2026-07-04, 14:52:25](https://news.ycombinator.com/item?id=48785840) - [Windows CE Dreamcast Community Edition (wince-dc)](https://github.com/maximqaxd/wince-dc)
