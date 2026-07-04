@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-06-30, 17:10:26",
-      "https://news.ycombinator.com/item?id=48735811"
+      "2026-06-30, 11:07:38",
+      "https://news.ycombinator.com/item?id=48730953"
     ],
     [
-      "Reverse-engineering Codemasters' BIGF archive format in Ruby",
-      "https://davidslv.uk/2026/06/30/reading-binary-in-ruby.html"
+      "Hunting a 16-year-old SQLite WAL bug with TLA+",
+      "https://ubuntu.com/blog/hunting-a-16-year-old-sqlite-bug-with-tla-is-dqlite-affected"
     ]
   ]
 ]
