@@ -36,6 +36,7 @@
 * [2026-06-30, 16:48:47](https://news.ycombinator.com/item?id=48735446) - [Show HN: My 13-year-old built an ant colony tracker](https://formicarium.es)
 * [2026-06-30, 16:48:37](https://news.ycombinator.com/item?id=48735444) - [Nano Banana 2 Lite](https://deepmind.google/models/gemini-image/flash-lite/)
 * [2026-06-30, 16:44:31](https://news.ycombinator.com/item?id=48735376) - [Crypto firms have spent $189M so far on 2026 US election, report says](https://www.reuters.com/world/crypto-firms-have-spent-189-million-so-far-2026-us-election-report-says-2026-06-30/)
+* [2026-06-30, 16:28:55](https://news.ycombinator.com/item?id=48735097) - [Show HN: A statically typed, cross-platform, easily bootstrappable build system](https://github.com/rochus-keller/BUSY/)
 * [2026-06-30, 16:19:51](https://news.ycombinator.com/item?id=48734940) - [EU commissioners shut down air conditioning for employees, leave theirs on](https://www.politico.eu/article/eu-commission-heatwave-hq-forced-shut-down-air-conditioning-europe/)
 * [2026-06-30, 16:06:39](https://news.ycombinator.com/item?id=48734715) - [BMW iX5 Blows Away the Competition with 460-KW Charging, 435-Mile Range](https://insideevs.com/news/800125/bmw-ix5-neue-klasse-ev-electric-suv/)
 * [2026-06-30, 16:05:46](https://news.ycombinator.com/item?id=48734699) - [County with 37 Data Centers Asks Schools to 'Conserve Electricity'](https://www.404media.co/henrico-virginia-datacenter-energy-cost-email/)

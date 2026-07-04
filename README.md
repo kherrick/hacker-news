@@ -2,7 +2,6 @@
 
 * [2026-07-04, 00:57:44](https://news.ycombinator.com/item?id=48781688) - [MSI Center – How to gain SYSTEM privileges in seconds](https://mrbruh.com/msicenter/)
 * [2026-07-04, 00:35:49](https://news.ycombinator.com/item?id=48781597) - [Soatok's Informal Guide to Threat Models](https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/)
-* [2026-07-04, 00:01:18](https://news.ycombinator.com/item?id=48781433) - [What does privatization of the US Postal Service mean?](https://phenomenalworld.org/analysis/unstitching-america/)
 * [2026-07-03, 23:36:46](https://news.ycombinator.com/item?id=48781274) - [Scientists discover guidance system for migratory songbirds](https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/scientists-discover-guidance-system-for-migratory-songbirds/)
 * [2026-07-03, 22:56:17](https://news.ycombinator.com/item?id=48780996) - [The circuit that lets your brain think and see](https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see)
 * [2026-07-03, 22:46:18](https://news.ycombinator.com/item?id=48780913) - [Amsterdam invented the fire department](https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/)
@@ -29,6 +28,7 @@
 * [2026-07-01, 23:07:56](https://news.ycombinator.com/item?id=48754326) - [You can get Unicode working on DOS](https://twitter.com/i/status/2071469740141224272)
 * [2026-07-01, 13:45:32](https://news.ycombinator.com/item?id=48746695) - [Notes from Building Tinkerfont](https://mighil.com/notes-from-building-tinkerfont)
 * [2026-07-01, 10:11:12](https://news.ycombinator.com/item?id=48744546) - [We put a Redis server inside our runtime](https://encore.dev/blog/redis-runtime)
+* [2026-06-30, 16:28:55](https://news.ycombinator.com/item?id=48735097) - [Show HN: A statically typed, cross-platform, easily bootstrappable build system](https://github.com/rochus-keller/BUSY/)
 * [2026-06-30, 11:07:38](https://news.ycombinator.com/item?id=48730953) - [Hunting a 16-year-old SQLite WAL bug with TLA+](https://ubuntu.com/blog/hunting-a-16-year-old-sqlite-bug-with-tla-is-dqlite-affected)
 
 ## [Archives](archives/index.md)
