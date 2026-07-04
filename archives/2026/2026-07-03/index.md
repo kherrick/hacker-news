@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-03](index.md)
 
+* [2026-07-03, 23:36:46](https://news.ycombinator.com/item?id=48781274) - [Scientists discover guidance system for migratory songbirds](https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/scientists-discover-guidance-system-for-migratory-songbirds/)
 * [2026-07-03, 23:24:35](https://news.ycombinator.com/item?id=48781196) - [Odin, Wikipedia and Engagement Farming](https://katamari64.se/posts/2026/odin-wikipedia/)
 * [2026-07-03, 22:56:17](https://news.ycombinator.com/item?id=48780996) - [The circuit that lets your brain think and see](https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see)
 * [2026-07-03, 22:46:18](https://news.ycombinator.com/item?id=48780913) - [Amsterdam invented the fire department](https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/)
