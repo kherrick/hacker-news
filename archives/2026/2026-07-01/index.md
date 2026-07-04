@@ -63,6 +63,7 @@
 * [2026-07-01, 13:48:44](https://news.ycombinator.com/item?id=48746752) - [Launch HN: Parsewise (YC P25) – Reason Across Documents with an API](https://news.ycombinator.com/item?id=48746752)
 * [2026-07-01, 13:45:32](https://news.ycombinator.com/item?id=48746695) - [Notes from Building Tinkerfont](https://mighil.com/notes-from-building-tinkerfont)
 * [2026-07-01, 13:29:29](https://news.ycombinator.com/item?id=48746445) - [Why I Stopped Arguing with People](https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html)
+* [2026-07-01, 13:28:18](https://news.ycombinator.com/item?id=48746429) - [The Scanline Sweeper: A Glyph Rendering Algorithm [pdf]](https://rookandpossum.com/papers/scanline_sweeper_preprint.pdf)
 * [2026-07-01, 13:27:07](https://news.ycombinator.com/item?id=48746404) - [What's wrong with EU age verification? (Nothing)](https://blog.vrypan.net/2026/06/29/260629-whats-wrong-with-eu-age-verification/)
 * [2026-07-01, 13:22:24](https://news.ycombinator.com/item?id=48746331) - [Manufact (YC S25) Is Hiring a Developer Advocate in SF](https://www.ycombinator.com/companies/manufact/jobs/4cyWd6S-developer-advocate-partnerships-devrel)
 * [2026-07-01, 13:04:16](https://news.ycombinator.com/item?id=48746076) - [Internal Combustion Engine](https://ciechanow.ski/internal-combustion-engine/)
