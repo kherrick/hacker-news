@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-04, 21:51:09",
+      "https://news.ycombinator.com/item?id=48789428"
+    ],
+    [
+      "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+      "https://github.com/openai/codex/issues/30364"
+    ]
+  ],
+  [
+    [
       "2026-07-04, 20:16:22",
       "https://news.ycombinator.com/item?id=48788599"
     ],
@@ -47,16 +57,6 @@
     [
       "BareMetal RAM Dumper – Bare-metal x86 tool for Cold Boot Attack experiments",
       "https://github.com/pIat0n/BareMetal-RAM-Dumper"
-    ]
-  ],
-  [
-    [
-      "2026-07-04, 17:12:00",
-      "https://news.ycombinator.com/item?id=48787001"
-    ],
-    [
-      "Game Boy Advance Dev: Logging to the Console",
-      "https://www.mattgreer.dev/blog/gba-dev-logging/"
     ]
   ],
   [
@@ -127,16 +127,6 @@
     [
       "Curveball",
       "https://mightyburger.net/projects/curveball/"
-    ]
-  ],
-  [
-    [
-      "2026-07-04, 15:49:08",
-      "https://news.ycombinator.com/item?id=48786245"
-    ],
-    [
-      "Fable created novel 4D splat format",
-      "https://adamraudonis.github.io/splats4D/"
     ]
   ],
   [
@@ -221,16 +211,6 @@
   ],
   [
     [
-      "2026-07-02, 17:53:27",
-      "https://news.ycombinator.com/item?id=48765066"
-    ],
-    [
-      "At Dog School, children gain a sense of achievement",
-      "https://www.csmonitor.com/Perspectives/Making-a-difference/2026/0630/dog-school-south-africa-funda-nenja"
-    ]
-  ],
-  [
-    [
       "2026-07-01, 21:10:16",
       "https://news.ycombinator.com/item?id=48753160"
     ],
@@ -281,12 +261,32 @@
   ],
   [
     [
+      "2026-06-30, 20:50:58",
+      "https://news.ycombinator.com/item?id=48739018"
+    ],
+    [
+      "Mir Books – Books from the Soviet Era",
+      "https://mirtitles.org"
+    ]
+  ],
+  [
+    [
       "2026-06-30, 19:57:37",
       "https://news.ycombinator.com/item?id=48738395"
     ],
     [
       "Drone Physics",
       "https://iahmed.me/post/drone-physics/"
+    ]
+  ],
+  [
+    [
+      "2026-06-30, 18:24:52",
+      "https://news.ycombinator.com/item?id=48737068"
+    ],
+    [
+      "Night Witches – all-female Soviet aviator regiment WW2",
+      "https://en.wikipedia.org/wiki/Night_Witches"
     ]
   ],
   [
