@@ -40,6 +40,7 @@
 * [2026-07-01, 17:29:11](https://news.ycombinator.com/item?id=48750373) - [Mortality associated with non-optimal ambient temperatures from 2000 to 2019](https://www.researchgate.net/publication/353058947_Global_regional_and_national_burden_of_mortality_associated_with_non-optimal_ambient_temperatures_from_2000_to_2019_a_three-stage_modelling_study)
 * [2026-07-01, 17:21:07](https://news.ycombinator.com/item?id=48750247) - [Are readers generating fiction with AI models?](https://arxiv.org/abs/2606.22748)
 * [2026-07-01, 17:05:00](https://news.ycombinator.com/item?id=48750000) - [A complete ClickHouse OLAP engine, compiled to WebAssembly](https://wasm.chdb.io/)
+* [2026-07-01, 16:57:20](https://news.ycombinator.com/item?id=48749868) - [Show HN: Classify mechanical faults using Contrastive Language-Audio Pretraining](https://github.com/adam-s/car-diagnosis)
 * [2026-07-01, 16:50:02](https://news.ycombinator.com/item?id=48749752) - [Show HN: Pglayers – PostgreSQL extensions as stackable Docker layers](https://github.com/pglayers/pglayers)
 * [2026-07-01, 16:19:47](https://news.ycombinator.com/item?id=48749313) - [Reduce GVisor Cold Starts with GPU Snapshotting](https://cerebrium.ai/blog/reducing-gpu-cold-starts-with-memory-snapshots-restoring-cuda-workloads-in-second)
 * [2026-07-01, 15:57:51](https://news.ycombinator.com/item?id=48748951) - [Solid and Clean Code never felt solid or clean to me](https://devz.cl/posts/solid-never-felt-solid/)
