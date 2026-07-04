@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-07-04, 14:08:55](https://news.ycombinator.com/item?id=48785525) - [Does average person understand that all disc media dies too?](https://news.ycombinator.com/item?id=48785525)
 * [2026-07-04, 14:03:40](https://news.ycombinator.com/item?id=48785485) - [Potential session/cache leakage between workspace instances or consumer accounts](https://github.com/anthropics/claude-code/issues/74066)
 * [2026-07-04, 14:02:59](https://news.ycombinator.com/item?id=48785478) - [How working memory could give rise to consciousness](https://www.scientificamerican.com/article/how-working-memory-could-give-rise-to-consciousness/)
 * [2026-07-04, 14:00:03](https://news.ycombinator.com/item?id=48785459) - [A martian rock has lots of carbon on it, and it's not clear why](https://arstechnica.com/science/2026/07/a-martian-rock-has-lots-of-carbon-on-it-and-its-not-clear-why/)
@@ -23,6 +22,7 @@
 * [2026-07-03, 19:08:31](https://news.ycombinator.com/item?id=48778757) - [FreeBSD ate my RAM](https://crocidb.com/post/freebsd-ate-my-ram/)
 * [2026-07-03, 15:14:55](https://news.ycombinator.com/item?id=48776044) - [Costco is the anti-Amazon](https://phenomenalworld.org/analysis/the-anti-amazon/)
 * [2026-07-03, 15:03:43](https://news.ycombinator.com/item?id=48775921) - [Jamesob's guide to running SOTA LLMs locally](https://github.com/jamesob/local-llm)
+* [2026-07-01, 13:28:18](https://news.ycombinator.com/item?id=48746429) - [The Scanline Sweeper: A Glyph Rendering Algorithm [pdf]](https://rookandpossum.com/papers/scanline_sweeper_preprint.pdf)
 * [2026-07-01, 13:22:19](https://news.ycombinator.com/item?id=48746327) - [The Vespa at 80: Why the Italian scooter remains the coolest thing on 2 wheels](https://www.cbc.ca/news/world/vespa-italy-postwar-design-9.7252641)
 * [2026-07-01, 12:48:56](https://news.ycombinator.com/item?id=48745855) - [Postgres data stored in Parquet on S3: LTAP architecture explained](https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage)
 * [2026-07-01, 04:14:01](https://news.ycombinator.com/item?id=48742175) - [What ORMs have taught me: just learn SQL (2014)](https://wozniak.ca/blog/2014/08/03/1/index.html)
