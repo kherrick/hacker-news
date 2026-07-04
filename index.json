@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-04, 22:34:30",
+      "https://news.ycombinator.com/item?id=48789699"
+    ],
+    [
+      "New bacterial species discovered in NASA's cleanrooms",
+      "https://www.nature.com/articles/d44151-025-00219-7"
+    ]
+  ],
+  [
+    [
       "2026-07-04, 21:51:09",
       "https://news.ycombinator.com/item?id=48789428"
     ],
@@ -77,16 +87,6 @@
     [
       "EndBASIC 0.14: Are we multimedia yet?",
       "https://www.endbasic.dev/2026/07/endbasic-0.14.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-04, 16:55:29",
-      "https://news.ycombinator.com/item?id=48786880"
-    ],
-    [
-      "Plein Air",
-      "https://art.joonas.wtf/"
     ]
   ],
   [
@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2026-07-03, 14:20:39",
+      "https://news.ycombinator.com/item?id=48775412"
+    ],
+    [
+      "Heuristics for lab robotics, and where its future may go",
+      "https://www.owlposting.com/p/heuristics-for-lab-robotics-and-where"
+    ]
+  ],
+  [
+    [
       "2026-07-01, 21:10:16",
       "https://news.ycombinator.com/item?id=48753160"
     ],
@@ -287,16 +297,6 @@
     [
       "Drone Physics",
       "https://iahmed.me/post/drone-physics/"
-    ]
-  ],
-  [
-    [
-      "2026-06-30, 10:56:37",
-      "https://news.ycombinator.com/item?id=48730868"
-    ],
-    [
-      "The .join() that should be a bug",
-      "https://kronotop.com/blog/the-join-that-should-be-a-bug/"
     ]
   ]
 ]
