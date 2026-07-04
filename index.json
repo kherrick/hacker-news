@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-07-04, 12:46:17",
-      "https://news.ycombinator.com/item?id=48785026"
+      "2026-07-04, 14:03:40",
+      "https://news.ycombinator.com/item?id=48785485"
     ],
     [
-      "Show HN: Foundation, a different approach to software and AI",
-      "https://github.com/nmxmxh/foundation"
+      "Potential session/cache leakage between workspace instances or consumer accounts",
+      "https://github.com/anthropics/claude-code/issues/74066"
+    ]
+  ],
+  [
+    [
+      "2026-07-04, 14:02:59",
+      "https://news.ycombinator.com/item?id=48785478"
+    ],
+    [
+      "How working memory could give rise to consciousness",
+      "https://www.scientificamerican.com/article/how-working-memory-could-give-rise-to-consciousness/"
     ]
   ],
   [
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2026-07-03, 20:42:00",
-      "https://news.ycombinator.com/item?id=48779723"
-    ],
-    [
-      "Applied Category Theory Course (2018)",
-      "https://math.ucr.edu/home/baez/act_course/index.html"
-    ]
-  ],
-  [
-    [
       "2026-07-03, 20:15:49",
       "https://news.ycombinator.com/item?id=48779454"
     ],
@@ -217,16 +217,6 @@
     [
       "Jamesob's guide to running SOTA LLMs locally",
       "https://github.com/jamesob/local-llm"
-    ]
-  ],
-  [
-    [
-      "2026-07-01, 16:57:20",
-      "https://news.ycombinator.com/item?id=48749868"
-    ],
-    [
-      "Show HN: Classify mechanical faults using Contrastive Language-Audio Pretraining",
-      "https://github.com/adam-s/car-diagnosis"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Ship traces journey Spanish Armada sailors made in 1588",
       "https://www.irishtimes.com/ireland/2026/06/30/it-is-a-huge-honour-ship-traces-journey-spanish-armada-sailors-made-in-1588/"
+    ]
+  ],
+  [
+    [
+      "2026-06-30, 21:27:15",
+      "https://news.ycombinator.com/item?id=48739446"
+    ],
+    [
+      "Breaking the Bird Barrier: Scientist Decodes Zebra Finch Language",
+      "https://www.freepressjournal.in/education/breaking-the-bird-barrier-scientist-decodes-zebra-finch-language"
     ]
   ],
   [
