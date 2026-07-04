@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-07-04, 00:35:49",
+      "https://news.ycombinator.com/item?id=48781597"
+    ],
+    [
+      "Soatok's Informal Guide to Threat Models",
+      "https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/"
+    ]
+  ],
+  [
+    [
+      "2026-07-04, 00:01:18",
+      "https://news.ycombinator.com/item?id=48781433"
+    ],
+    [
+      "What does privatization of the US Postal Service mean?",
+      "https://phenomenalworld.org/analysis/unstitching-america/"
+    ]
+  ],
+  [
+    [
+      "2026-07-03, 23:36:46",
+      "https://news.ycombinator.com/item?id=48781274"
+    ],
+    [
+      "Scientists discover guidance system for migratory songbirds",
+      "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/scientists-discover-guidance-system-for-migratory-songbirds/"
+    ]
+  ],
+  [
+    [
       "2026-07-03, 23:24:35",
       "https://news.ycombinator.com/item?id=48781196"
     ],
@@ -57,16 +87,6 @@
     [
       "Dispersion loss counteracts embedding condensation in small language models",
       "https://chenliu-1996.github.io/projects/LM-Dispersion/"
-    ]
-  ],
-  [
-    [
-      "2026-07-03, 22:34:16",
-      "https://news.ycombinator.com/item?id=48780812"
-    ],
-    [
-      "GitFut – Your GitHub stats turned into a World-Cup-style player card",
-      "https://gitfut.com"
     ]
   ],
   [
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2026-07-03, 13:01:49",
-      "https://news.ycombinator.com/item?id=48774518"
-    ],
-    [
-      "Valve open-source the Steam Machine e-ink screen so you can make your own",
-      "https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/"
-    ]
-  ],
-  [
-    [
       "2026-07-03, 13:00:31",
       "https://news.ycombinator.com/item?id=48774509"
     ],
@@ -261,12 +271,12 @@
   ],
   [
     [
-      "2026-07-03, 06:21:44",
-      "https://news.ycombinator.com/item?id=48771515"
+      "2026-07-01, 13:45:32",
+      "https://news.ycombinator.com/item?id=48746695"
     ],
     [
-      "Ask HN: Is anyone experimenting with different ways of using LLMs for coding?",
-      "https://news.ycombinator.com/item?id=48771515"
+      "Notes from Building Tinkerfont",
+      "https://mighil.com/notes-from-building-tinkerfont"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Hunting a 16-year-old SQLite WAL bug with TLA+",
       "https://ubuntu.com/blog/hunting-a-16-year-old-sqlite-bug-with-tla-is-dqlite-affected"
-    ]
-  ],
-  [
-    [
-      "2026-06-27, 15:18:03",
-      "https://news.ycombinator.com/item?id=48699010"
-    ],
-    [
-      "A peek into Reddit's anti-spam internals",
-      "https://lyra.horse/blog/2026/06/reddit-spam-internals/"
     ]
   ]
 ]
