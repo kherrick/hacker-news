@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-04](index.md)
 
+* [2026-07-04, 22:34:30](https://news.ycombinator.com/item?id=48789699) - [New bacterial species discovered in NASA's cleanrooms](https://www.nature.com/articles/d44151-025-00219-7)
 * [2026-07-04, 21:51:09](https://news.ycombinator.com/item?id=48789428) - [GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance](https://github.com/openai/codex/issues/30364)
 * [2026-07-04, 20:38:39](https://news.ycombinator.com/item?id=48788849) - [Protocol Prying: Vulnerability Research in AirDrop and Quick Share](https://arxiv.org/abs/2606.26967)
 * [2026-07-04, 20:16:22](https://news.ycombinator.com/item?id=48788599) - [Better Models: Worse Tools](https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/)

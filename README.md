@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-04, 22:34:30](https://news.ycombinator.com/item?id=48789699) - [New bacterial species discovered in NASA's cleanrooms](https://www.nature.com/articles/d44151-025-00219-7)
 * [2026-07-04, 21:51:09](https://news.ycombinator.com/item?id=48789428) - [GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance](https://github.com/openai/codex/issues/30364)
 * [2026-07-04, 20:38:39](https://news.ycombinator.com/item?id=48788849) - [Protocol Prying: Vulnerability Research in AirDrop and Quick Share](https://arxiv.org/abs/2606.26967)
 * [2026-07-04, 20:16:22](https://news.ycombinator.com/item?id=48788599) - [Better Models: Worse Tools](https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/)
@@ -8,7 +9,6 @@
 * [2026-07-04, 17:37:21](https://news.ycombinator.com/item?id=48787201) - [BareMetal RAM Dumper – Bare-metal x86 tool for Cold Boot Attack experiments](https://github.com/pIat0n/BareMetal-RAM-Dumper)
 * [2026-07-04, 17:12:00](https://news.ycombinator.com/item?id=48787001) - [Game Boy Advance Dev: Logging to the Console](https://www.mattgreer.dev/blog/gba-dev-logging/)
 * [2026-07-04, 17:08:18](https://news.ycombinator.com/item?id=48786970) - [EndBASIC 0.14: Are we multimedia yet?](https://www.endbasic.dev/2026/07/endbasic-0.14.html)
-* [2026-07-04, 16:55:29](https://news.ycombinator.com/item?id=48786880) - [Plein Air](https://art.joonas.wtf/)
 * [2026-07-04, 16:54:02](https://news.ycombinator.com/item?id=48786868) - [Finland's last analogue landline phones go silent after 150 years](https://www.euronews.com/next/2026/06/30/finlands-last-analogue-landline-phones-go-silent-after-150-years)
 * [2026-07-04, 16:51:26](https://news.ycombinator.com/item?id=48786838) - [Google Books (or similar) all book scans – $200k bounty (2025)](https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234)
 * [2026-07-04, 16:45:10](https://news.ycombinator.com/item?id=48786781) - [Leaking YouTube creators' private videos](https://javoriuski.com/post/youtube)
@@ -20,6 +20,7 @@
 * [2026-07-04, 12:00:57](https://news.ycombinator.com/item?id=48784777) - [Explanation of everything you can see in htop/top on Linux (2019)](https://peteris.rocks/blog/htop/)
 * [2026-07-04, 09:08:09](https://news.ycombinator.com/item?id=48783948) - [Astrophysicists Puzzle over Webb’s New Universe](https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/)
 * [2026-07-04, 06:32:28](https://news.ycombinator.com/item?id=48783117) - [The bottleneck might be the air in the room](https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/)
+* [2026-07-03, 14:20:39](https://news.ycombinator.com/item?id=48775412) - [Heuristics for lab robotics, and where its future may go](https://www.owlposting.com/p/heuristics-for-lab-robotics-and-where)
 * [2026-07-01, 21:10:16](https://news.ycombinator.com/item?id=48753160) - [Neural Render Proxies for Interactive and Differentiable Lighting](https://studios.disneyresearch.com/2026/07/01/neural-render-proxies-for-interactive-and-differentiable-lighting/)
 * [2026-07-01, 14:48:40](https://news.ycombinator.com/item?id=48747762) - [Can you build a recognizable World Map in under 500 bytes?](https://www.experimentlog.com/blog/building-a-world-map-with-only-500-bytes)
 * [2026-07-01, 13:22:19](https://news.ycombinator.com/item?id=48746327) - [The Vespa at 80](https://www.cbc.ca/news/world/vespa-italy-postwar-design-9.7252641)
@@ -29,7 +30,6 @@
 * [2026-06-30, 21:27:15](https://news.ycombinator.com/item?id=48739446) - [Breaking the Bird Barrier: Scientist Decodes Zebra Finch Language](https://www.freepressjournal.in/education/breaking-the-bird-barrier-scientist-decodes-zebra-finch-language)
 * [2026-06-30, 20:50:58](https://news.ycombinator.com/item?id=48739018) - [Mir Books – Books from the Soviet Era](https://mirtitles.org)
 * [2026-06-30, 19:57:37](https://news.ycombinator.com/item?id=48738395) - [Drone Physics](https://iahmed.me/post/drone-physics/)
-* [2026-06-30, 10:56:37](https://news.ycombinator.com/item?id=48730868) - [The .join() that should be a bug](https://kronotop.com/blog/the-join-that-should-be-a-bug/)
 
 ## [Archives](archives/index.md)
 
