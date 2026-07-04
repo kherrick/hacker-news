@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-04](index.md)
 
+* [2026-07-04, 05:43:01](https://news.ycombinator.com/item?id=48782918) - [David Beazley – Programming Courses](https://www.dabeaz.com/courses.html)
 * [2026-07-04, 04:37:15](https://news.ycombinator.com/item?id=48782671) - [Agentic coding notes from Galapogos Island](https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post)
 * [2026-07-04, 03:36:03](https://news.ycombinator.com/item?id=48782435) - [Maybe you should learn something](https://www.marginalia.nu/log/a_135_learn/)
 * [2026-07-04, 02:45:24](https://news.ycombinator.com/item?id=48782219) - [Synthesis is harder than analysis](https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/)
