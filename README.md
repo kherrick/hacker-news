@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-07-04, 09:08:09](https://news.ycombinator.com/item?id=48783948) - [Astrophysicists Puzzle over Webb's New Universe](https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/)
+* [2026-07-04, 07:53:12](https://news.ycombinator.com/item?id=48783512) - [Unearthing the Reality of \"Zombie Energy Systems\" in Africa's Energy Transition](https://www.catf.us/resource/unearthing-reality-zombie-energy-systems-africas-energy-transition/)
 * [2026-07-04, 06:32:28](https://news.ycombinator.com/item?id=48783117) - [The bottleneck might be the air in the room](https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/)
 * [2026-07-04, 05:43:01](https://news.ycombinator.com/item?id=48782918) - [David Beazley – Programming Courses](https://www.dabeaz.com/courses.html)
 * [2026-07-04, 04:37:15](https://news.ycombinator.com/item?id=48782671) - [Agentic coding notes from Galapagos Island](https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post)
@@ -19,17 +20,16 @@
 * [2026-07-03, 20:15:49](https://news.ycombinator.com/item?id=48779454) - [SearXNG: A free internet metasearch engine](https://github.com/searxng/searxng)
 * [2026-07-03, 19:08:31](https://news.ycombinator.com/item?id=48778757) - [FreeBSD ate my RAM](https://crocidb.com/post/freebsd-ate-my-ram/)
 * [2026-07-03, 15:14:55](https://news.ycombinator.com/item?id=48776044) - [Costco is the anti-Amazon](https://phenomenalworld.org/analysis/the-anti-amazon/)
-* [2026-07-03, 15:13:43](https://news.ycombinator.com/item?id=48776035) - [Factories are just rooms](https://interconnected.org/home/2026/07/03/factories)
 * [2026-07-03, 15:03:43](https://news.ycombinator.com/item?id=48775921) - [Jamesob's guide to running SOTA LLMs locally](https://github.com/jamesob/local-llm)
 * [2026-07-01, 16:57:20](https://news.ycombinator.com/item?id=48749868) - [Show HN: Classify mechanical faults using Contrastive Language-Audio Pretraining](https://github.com/adam-s/car-diagnosis)
 * [2026-07-01, 13:28:18](https://news.ycombinator.com/item?id=48746429) - [The Scanline Sweeper: A Glyph Rendering Algorithm [pdf]](https://rookandpossum.com/papers/scanline_sweeper_preprint.pdf)
 * [2026-07-01, 12:48:56](https://news.ycombinator.com/item?id=48745855) - [Postgres data stored in Parquet on S3: LTAP architecture explained](https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage)
 * [2026-07-01, 05:21:03](https://news.ycombinator.com/item?id=48742566) - [Study reveals what people see when they read lips](https://news.ku.edu/news/article/study-reveals-what-people-really-see-when-they-read-lips)
 * [2026-06-30, 21:48:43](https://news.ycombinator.com/item?id=48739682) - [Gone but Not Forgotten: Recovering the Dead Web](https://blog.archive.org/2026/04/23/gone-but-not-forgotten-recovering-the-dead-web/)
+* [2026-06-30, 21:45:22](https://news.ycombinator.com/item?id=48739644) - [Ship traces journey Spanish Armada sailors made in 1588](https://www.irishtimes.com/ireland/2026/06/30/it-is-a-huge-honour-ship-traces-journey-spanish-armada-sailors-made-in-1588/)
 * [2026-06-30, 20:52:04](https://news.ycombinator.com/item?id=48739038) - [Show HN: Morph Reflexes – Multi-head classifiers for agent traces](https://news.ycombinator.com/item?id=48739038)
 * [2026-06-30, 20:50:58](https://news.ycombinator.com/item?id=48739018) - [Mir Books – Books from the Soviet Era](https://mirtitles.org)
 * [2026-06-30, 17:10:26](https://news.ycombinator.com/item?id=48735811) - [Reverse-engineering Codemasters' BIGF archive format in Ruby](https://davidslv.uk/2026/06/30/reading-binary-in-ruby.html)
-* [2026-06-30, 11:07:38](https://news.ycombinator.com/item?id=48730953) - [Hunting a 16-year-old SQLite WAL bug with TLA+](https://ubuntu.com/blog/hunting-a-16-year-old-sqlite-bug-with-tla-is-dqlite-affected)
 
 ## [Archives](archives/index.md)
 
