@@ -69,6 +69,7 @@
 * [2026-06-30, 11:07:38](https://news.ycombinator.com/item?id=48730953) - [Hunting a 16-year-old SQLite WAL bug with TLA+](https://ubuntu.com/blog/hunting-a-16-year-old-sqlite-bug-with-tla-is-dqlite-affected)
 * [2026-06-30, 11:03:30](https://news.ycombinator.com/item?id=48730922) - [Should every baby's DNA be sequenced?](https://www.economist.com/science-and-technology/2026/06/29/should-every-babys-dna-be-sequenced)
 * [2026-06-30, 11:02:10](https://news.ycombinator.com/item?id=48730904) - [Sony erases digital content from libraries; reminded we don't own what we buy](https://arstechnica.com/gadgets/2026/06/sony-erases-digital-content-from-libraries-were-reminded-we-dont-own-what-we-buy/)
+* [2026-06-30, 10:56:37](https://news.ycombinator.com/item?id=48730868) - [The .join() that should be a bug](https://kronotop.com/blog/the-join-that-should-be-a-bug/)
 * [2026-06-30, 10:48:23](https://news.ycombinator.com/item?id=48730818) - [Parse, Don't Validate – In a Language That Doesn't Want You To](https://cekrem.github.io/posts/parse-dont-validate-typescript/)
 * [2026-06-30, 10:36:23](https://news.ycombinator.com/item?id=48730729) - [European digital ID wallets are a gift to Google and Apple](https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/)
 * [2026-06-30, 10:34:25](https://news.ycombinator.com/item?id=48730713) - [Zluda 6 release (run unmodified CUDA applications on non-Nvidia GPUs)](https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/)
