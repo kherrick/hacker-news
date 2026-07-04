@@ -24,6 +24,7 @@
 * [2026-06-30, 20:17:21](https://news.ycombinator.com/item?id=48738606) - [Something Is Wrong with Modern Longevity Science](https://www.newyorker.com/magazine/2026/07/06/morbid-saul-justin-newman-book-review-eat-your-ice-cream-ezekiel-j-emanuel)
 * [2026-06-30, 20:09:25](https://news.ycombinator.com/item?id=48738528) - [Claude Sonnet 5 – benchmark results](https://artificialanalysis.ai/models/claude-sonnet-5)
 * [2026-06-30, 19:59:09](https://news.ycombinator.com/item?id=48738413) - [The best thing that's ever happened for multiplayer games?](https://mas-bandwidth.com/the-best-thing-thats-ever-happened-for-multiplayer-games/)
+* [2026-06-30, 19:57:37](https://news.ycombinator.com/item?id=48738395) - [Drone Physics](https://iahmed.me/post/drone-physics/)
 * [2026-06-30, 19:47:24](https://news.ycombinator.com/item?id=48738262) - [Tokyo has only two barley tea makers, we visited one to see how mugicha is made](https://soranews24.com/2026/06/30/tokyo-has-only-two-barley-tea-makers-and-we-visited-one-to-see-how-mugicha-is-made/)
 * [2026-06-30, 19:45:39](https://news.ycombinator.com/item?id=48738244) - [Q&A with Micron's VP and GM of Memory](https://morethanmoore.substack.com/p/q-and-a-with-microns-vp-and-gm-of)
 * [2026-06-30, 18:38:26](https://news.ycombinator.com/item?id=48737302) - [Show HN: I made a heatmap of 3400 VCs who are open to cold emails](https://apparent.social/heat-map)

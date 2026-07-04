@@ -3,7 +3,6 @@
 * [2026-07-04, 18:42:24](https://news.ycombinator.com/item?id=48787725) - [As downtown Seattle offices empty, city facing years of 'zombie' towers](https://www.seattletimes.com/business/local-business/as-downtown-seattle-offices-empty-city-facing-years-of-zombie-towers/)
 * [2026-07-04, 17:52:36](https://news.ycombinator.com/item?id=48787329) - [Verizon is About to Break our Watches](https://www.jefftk.com/p/verizon-is-about-to-break-our-watches)
 * [2026-07-04, 17:37:21](https://news.ycombinator.com/item?id=48787201) - [BareMetal RAM Dumper – Bare-metal x86 tool for Cold Boot Attack experiments](https://github.com/pIat0n/BareMetal-RAM-Dumper)
-* [2026-07-04, 17:18:42](https://news.ycombinator.com/item?id=48787058) - [Sick leave: Germany rising but not the worst in Europe](https://www.dw.com/en/sick-leave-germany-rising-but-not-the-worst-in-europe/a-77815488)
 * [2026-07-04, 17:17:28](https://news.ycombinator.com/item?id=48787042) - [No more than 100 000 faint satellites should orbit Earth](https://www.eso.org/public/news/eso2607/)
 * [2026-07-04, 17:08:18](https://news.ycombinator.com/item?id=48786970) - [EndBASIC 0.14: Are we multimedia yet?](https://www.endbasic.dev/2026/07/endbasic-0.14.html)
 * [2026-07-04, 16:55:29](https://news.ycombinator.com/item?id=48786880) - [Plein Air](https://art.joonas.wtf/)
@@ -28,6 +27,7 @@
 * [2026-07-01, 12:48:56](https://news.ycombinator.com/item?id=48745855) - [Postgres data stored in Parquet on S3: LTAP architecture explained](https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage)
 * [2026-06-30, 21:27:15](https://news.ycombinator.com/item?id=48739446) - [Breaking the Bird Barrier: Scientist Decodes Zebra Finch Language](https://www.freepressjournal.in/education/breaking-the-bird-barrier-scientist-decodes-zebra-finch-language)
 * [2026-06-30, 20:50:58](https://news.ycombinator.com/item?id=48739018) - [Mir Books – Books from the Soviet Era](https://mirtitles.org)
+* [2026-06-30, 19:57:37](https://news.ycombinator.com/item?id=48738395) - [Drone Physics](https://iahmed.me/post/drone-physics/)
 * [2026-06-30, 18:24:52](https://news.ycombinator.com/item?id=48737068) - [Night Witches – all-female Soviet aviator regiment WW2](https://en.wikipedia.org/wiki/Night_Witches)
 * [2026-06-30, 10:56:37](https://news.ycombinator.com/item?id=48730868) - [The .join() that should be a bug](https://kronotop.com/blog/the-join-that-should-be-a-bug/)
 
