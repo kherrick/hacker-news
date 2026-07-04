@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-07-04, 09:08:09](https://news.ycombinator.com/item?id=48783948) - [Astrophysicists Puzzle over Webb's New Universe](https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/)
+* [2026-07-04, 09:08:09](https://news.ycombinator.com/item?id=48783948) - [Astrophysicists Puzzle over Webb’s New Universe](https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/)
 * [2026-07-04, 06:32:28](https://news.ycombinator.com/item?id=48783117) - [The bottleneck might be the air in the room](https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/)
-* [2026-07-04, 05:43:01](https://news.ycombinator.com/item?id=48782918) - [David Beazley – Programming Courses](https://www.dabeaz.com/courses.html)
+* [2026-07-04, 05:37:25](https://news.ycombinator.com/item?id=48782890) - [2026 Unslop AI-Written Fiction Contest Results](https://www.hyperstitionai.com/unslop-results)
 * [2026-07-04, 04:37:15](https://news.ycombinator.com/item?id=48782671) - [Agentic coding notes from Galapagos Island](https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post)
 * [2026-07-04, 03:36:03](https://news.ycombinator.com/item?id=48782435) - [Maybe you should learn something](https://www.marginalia.nu/log/a_135_learn/)
 * [2026-07-04, 02:45:24](https://news.ycombinator.com/item?id=48782219) - [Synthesis is harder than analysis](https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/)
@@ -15,6 +15,7 @@
 * [2026-07-03, 22:33:10](https://news.ycombinator.com/item?id=48780801) - [Leanstral 1.5: Proof abundance for all](https://mistral.ai/news/leanstral-1-5/)
 * [2026-07-03, 21:49:06](https://news.ycombinator.com/item?id=48780417) - [Performance per dollar is getting faster and cheaper](https://www.wafer.ai/blog/glm52-amd)
 * [2026-07-03, 21:16:16](https://news.ycombinator.com/item?id=48780056) - [New serious vulnerabilities spiked around release of Claude Mythos Preview](https://epoch.ai/data-insights/cve-severity-spike)
+* [2026-07-03, 21:00:50](https://news.ycombinator.com/item?id=48779906) - [Infracost (YC W21) Is Hiring a Marketing Lead to Shift FinOps Left](https://www.ycombinator.com/companies/infracost/jobs/YTJcFwr-marketing-lead)
 * [2026-07-03, 20:42:00](https://news.ycombinator.com/item?id=48779723) - [Applied Category Theory Course (2018)](https://math.ucr.edu/home/baez/act_course/index.html)
 * [2026-07-03, 20:15:49](https://news.ycombinator.com/item?id=48779454) - [SearXNG: A free internet metasearch engine](https://github.com/searxng/searxng)
 * [2026-07-03, 19:08:31](https://news.ycombinator.com/item?id=48778757) - [FreeBSD ate my RAM](https://crocidb.com/post/freebsd-ate-my-ram/)
@@ -29,7 +30,6 @@
 * [2026-06-30, 21:45:22](https://news.ycombinator.com/item?id=48739644) - [Ship traces journey Spanish Armada sailors made in 1588](https://www.irishtimes.com/ireland/2026/06/30/it-is-a-huge-honour-ship-traces-journey-spanish-armada-sailors-made-in-1588/)
 * [2026-06-30, 20:52:04](https://news.ycombinator.com/item?id=48739038) - [Show HN: Morph Reflexes – Multi-head classifiers for agent traces](https://news.ycombinator.com/item?id=48739038)
 * [2026-06-30, 20:50:58](https://news.ycombinator.com/item?id=48739018) - [Mir Books – Books from the Soviet Era](https://mirtitles.org)
-* [2026-06-30, 11:07:38](https://news.ycombinator.com/item?id=48730953) - [Hunting a 16-year-old SQLite WAL bug with TLA+](https://ubuntu.com/blog/hunting-a-16-year-old-sqlite-bug-with-tla-is-dqlite-affected)
 
 ## [Archives](archives/index.md)
 
