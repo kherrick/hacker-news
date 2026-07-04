@@ -8,6 +8,7 @@
 * [2026-07-04, 17:37:21](https://news.ycombinator.com/item?id=48787201) - [BareMetal RAM Dumper – Bare-metal x86 tool for Cold Boot Attack experiments](https://github.com/pIat0n/BareMetal-RAM-Dumper)
 * [2026-07-04, 17:12:00](https://news.ycombinator.com/item?id=48787001) - [Game Boy Advance Dev: Logging to the Console](https://www.mattgreer.dev/blog/gba-dev-logging/)
 * [2026-07-04, 17:08:18](https://news.ycombinator.com/item?id=48786970) - [EndBASIC 0.14: Are we multimedia yet?](https://www.endbasic.dev/2026/07/endbasic-0.14.html)
+* [2026-07-04, 16:55:29](https://news.ycombinator.com/item?id=48786880) - [Plein Air](https://art.joonas.wtf/)
 * [2026-07-04, 16:54:02](https://news.ycombinator.com/item?id=48786868) - [Finland's last analogue landline phones go silent after 150 years](https://www.euronews.com/next/2026/06/30/finlands-last-analogue-landline-phones-go-silent-after-150-years)
 * [2026-07-04, 16:51:26](https://news.ycombinator.com/item?id=48786838) - [Google Books (or similar) all book scans – $200k bounty (2025)](https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234)
 * [2026-07-04, 16:45:10](https://news.ycombinator.com/item?id=48786781) - [Leaking YouTube creators' private videos](https://javoriuski.com/post/youtube)
@@ -28,7 +29,6 @@
 * [2026-06-30, 21:27:15](https://news.ycombinator.com/item?id=48739446) - [Breaking the Bird Barrier: Scientist Decodes Zebra Finch Language](https://www.freepressjournal.in/education/breaking-the-bird-barrier-scientist-decodes-zebra-finch-language)
 * [2026-06-30, 20:50:58](https://news.ycombinator.com/item?id=48739018) - [Mir Books – Books from the Soviet Era](https://mirtitles.org)
 * [2026-06-30, 19:57:37](https://news.ycombinator.com/item?id=48738395) - [Drone Physics](https://iahmed.me/post/drone-physics/)
-* [2026-06-30, 18:24:52](https://news.ycombinator.com/item?id=48737068) - [Night Witches – all-female Soviet aviator regiment WW2](https://en.wikipedia.org/wiki/Night_Witches)
 * [2026-06-30, 10:56:37](https://news.ycombinator.com/item?id=48730868) - [The .join() that should be a bug](https://kronotop.com/blog/the-join-that-should-be-a-bug/)
 
 ## [Archives](archives/index.md)
