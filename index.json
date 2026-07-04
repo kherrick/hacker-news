@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-04, 14:15:22",
+      "https://news.ycombinator.com/item?id=48785573"
+    ],
+    [
+      "'All men are created equal': America has lost its values. It's time to go back",
+      "https://www.theguardian.com/us-news/ng-interactive/2026/jul/04/250-years-declaration-of-independence"
+    ]
+  ],
+  [
+    [
+      "2026-07-04, 14:08:55",
+      "https://news.ycombinator.com/item?id=48785525"
+    ],
+    [
+      "Does average person understand that all disc media dies too?",
+      "https://news.ycombinator.com/item?id=48785525"
+    ]
+  ],
+  [
+    [
       "2026-07-04, 14:03:40",
       "https://news.ycombinator.com/item?id=48785485"
     ],
@@ -17,6 +37,16 @@
     [
       "How working memory could give rise to consciousness",
       "https://www.scientificamerican.com/article/how-working-memory-could-give-rise-to-consciousness/"
+    ]
+  ],
+  [
+    [
+      "2026-07-04, 14:00:03",
+      "https://news.ycombinator.com/item?id=48785459"
+    ],
+    [
+      "A martian rock has lots of carbon on it, and it's not clear why",
+      "https://arstechnica.com/science/2026/07/a-martian-rock-has-lots-of-carbon-on-it-and-its-not-clear-why/"
     ]
   ],
   [
@@ -97,16 +127,6 @@
     [
       "MSI Center – How to gain SYSTEM privileges in seconds",
       "https://mrbruh.com/msicenter/"
-    ]
-  ],
-  [
-    [
-      "2026-07-04, 00:35:49",
-      "https://news.ycombinator.com/item?id=48781597"
-    ],
-    [
-      "Soatok's Informal Guide to Threat Models",
-      "https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2026-07-01, 13:28:18",
-      "https://news.ycombinator.com/item?id=48746429"
-    ],
-    [
-      "The Scanline Sweeper: A Glyph Rendering Algorithm [pdf]",
-      "https://rookandpossum.com/papers/scanline_sweeper_preprint.pdf"
-    ]
-  ],
-  [
-    [
       "2026-07-01, 13:22:19",
       "https://news.ycombinator.com/item?id=48746327"
     ],
@@ -247,16 +257,6 @@
     [
       "Postgres data stored in Parquet on S3: LTAP architecture explained",
       "https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage"
-    ]
-  ],
-  [
-    [
-      "2026-06-30, 21:48:43",
-      "https://news.ycombinator.com/item?id=48739682"
-    ],
-    [
-      "Gone but Not Forgotten: Recovering the Dead Web",
-      "https://blog.archive.org/2026/04/23/gone-but-not-forgotten-recovering-the-dead-web/"
     ]
   ],
   [
