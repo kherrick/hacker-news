@@ -29,7 +29,7 @@
 * [2026-06-30, 21:45:22](https://news.ycombinator.com/item?id=48739644) - [Ship traces journey Spanish Armada sailors made in 1588](https://www.irishtimes.com/ireland/2026/06/30/it-is-a-huge-honour-ship-traces-journey-spanish-armada-sailors-made-in-1588/)
 * [2026-06-30, 20:52:04](https://news.ycombinator.com/item?id=48739038) - [Show HN: Morph Reflexes – Multi-head classifiers for agent traces](https://news.ycombinator.com/item?id=48739038)
 * [2026-06-30, 20:50:58](https://news.ycombinator.com/item?id=48739018) - [Mir Books – Books from the Soviet Era](https://mirtitles.org)
-* [2026-06-30, 17:10:26](https://news.ycombinator.com/item?id=48735811) - [Reverse-engineering Codemasters' BIGF archive format in Ruby](https://davidslv.uk/2026/06/30/reading-binary-in-ruby.html)
+* [2026-06-30, 11:07:38](https://news.ycombinator.com/item?id=48730953) - [Hunting a 16-year-old SQLite WAL bug with TLA+](https://ubuntu.com/blog/hunting-a-16-year-old-sqlite-bug-with-tla-is-dqlite-affected)
 
 ## [Archives](archives/index.md)
 
