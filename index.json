@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2026-07-03, 08:50:47",
+      "https://news.ycombinator.com/item?id=48772573"
+    ],
+    [
+      "Wordgard: In-browser rich-text editor from the creator of ProseMirror",
+      "https://wordgard.net/"
+    ]
+  ],
+  [
+    [
       "2026-07-01, 16:57:20",
       "https://news.ycombinator.com/item?id=48749868"
     ],
@@ -277,16 +287,6 @@
     [
       "Reverse-engineering Codemasters' BIGF archive format in Ruby",
       "https://davidslv.uk/2026/06/30/reading-binary-in-ruby.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-30, 16:28:55",
-      "https://news.ycombinator.com/item?id=48735097"
-    ],
-    [
-      "Show HN: A statically typed, cross-platform, easily bootstrappable build system",
-      "https://github.com/rochus-keller/BUSY/"
     ]
   ],
   [
