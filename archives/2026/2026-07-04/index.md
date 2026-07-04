@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-04](index.md)
 
+* [2026-07-04, 16:45:10](https://news.ycombinator.com/item?id=48786781) - [Leaking YouTube Creators Private Videos](https://javoriuski.com/post/youtube)
 * [2026-07-04, 16:37:05](https://news.ycombinator.com/item?id=48786713) - [Rob Pike – 'Concurrency Is Not Parallelism' [video]](https://vimeo.com/49718712)
 * [2026-07-04, 16:16:07](https://news.ycombinator.com/item?id=48786500) - [The End of North America](https://paulkrugman.substack.com/p/the-end-of-north-america-157)
 * [2026-07-04, 16:15:48](https://news.ycombinator.com/item?id=48786495) - [Curveball](https://mightyburger.net/projects/curveball/)
