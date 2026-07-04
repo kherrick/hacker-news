@@ -89,6 +89,7 @@
 * [2026-07-01, 09:18:43](https://news.ycombinator.com/item?id=48744213) - [Dexter (YC F24) Is Hiring a Founding Engineer in Berlin](https://news.ycombinator.com/item?id=48744213)
 * [2026-07-01, 08:12:40](https://news.ycombinator.com/item?id=48743655) - [Register Korea's First PC 'SE-8001' as a National Important Material](https://www.dongascience.com/en/news/30374)
 * [2026-07-01, 07:43:22](https://news.ycombinator.com/item?id=48743472) - [Godot will no longer accept AI-authored code contributions](https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/)
+* [2026-07-01, 07:41:04](https://news.ycombinator.com/item?id=48743462) - [It's not me, it's the compiler](https://parsa.wtf/cast/)
 * [2026-07-01, 07:26:05](https://news.ycombinator.com/item?id=48743362) - [Apricot Computers: An underrated British brand](https://dfarq.homeip.net/apricot-computers-an-underrated-british-brand/)
 * [2026-07-01, 05:43:44](https://news.ycombinator.com/item?id=48742717) - [Meta is adding rate limits and soft paywall to smart glasses](https://www.theverge.com/gadgets/959899/meta-ai-glasses-paywall-rate-limit)
 * [2026-07-01, 05:21:03](https://news.ycombinator.com/item?id=48742566) - [Study reveals what people see when they read lips](https://news.ku.edu/news/article/study-reveals-what-people-really-see-when-they-read-lips)
