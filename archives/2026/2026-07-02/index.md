@@ -40,6 +40,7 @@
 * [2026-07-02, 15:25:16](https://news.ycombinator.com/item?id=48763035) - [Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory](https://mathstodon.xyz/@iblech/116769502749142438)
 * [2026-07-02, 15:11:20](https://news.ycombinator.com/item?id=48762862) - [Launch HN: Manufact (YC S25) – MCP Cloud](https://manufact.com)
 * [2026-07-02, 15:02:26](https://news.ycombinator.com/item?id=48762725) - [Spain Orders Blacklist of Palantir from Public and Private Companies](https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv)
+* [2026-07-02, 14:52:31](https://news.ycombinator.com/item?id=48762578) - [Width vs. Depth: Speculating on the Margin](https://blog.doubleword.ai/speculating-on-the-margin)
 * [2026-07-02, 14:41:56](https://news.ycombinator.com/item?id=48762372) - [FoundationDB's Flow – Bringing Actor-Based Concurrency to C++11](https://apple.github.io/foundationdb/flow.html)
 * [2026-07-02, 14:23:09](https://news.ycombinator.com/item?id=48762098) - [Podman v6.0.0](https://blog.podman.io/2026/07/introducing-podman-v6-0-0/)
 * [2026-07-02, 14:19:24](https://news.ycombinator.com/item?id=48762038) - [Show HN: CLI tool for detecting non-exact code duplication with embedding models](https://github.com/rafal-qa/slopo)
