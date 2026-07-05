@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-05, 17:05:35",
+      "https://news.ycombinator.com/item?id=48795826"
+    ],
+    [
+      "Mark Zuckerberg tells staff that AI agents haven't progressed enough",
+      "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/"
+    ]
+  ],
+  [
+    [
       "2026-07-05, 16:04:23",
       "https://news.ycombinator.com/item?id=48795303"
     ],
@@ -27,6 +37,16 @@
     [
       "Why DMARC's new \"NP\" tag can fail with DNSSEC",
       "https://dmarcwise.io/blog/dmarc-np-incompatibility-with-dnssec"
+    ]
+  ],
+  [
+    [
+      "2026-07-05, 14:56:15",
+      "https://news.ycombinator.com/item?id=48794750"
+    ],
+    [
+      "It's not about physical vs. digital games, it's about ownership",
+      "https://popcar.bearblog.dev/its-about-ownership/"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2026-07-02, 19:03:54",
-      "https://news.ycombinator.com/item?id=48765920"
-    ],
-    [
-      "Atomic Force Microscope [video]",
-      "https://www.youtube.com/watch?v=DyIQkqBXhS0"
-    ]
-  ],
-  [
-    [
       "2026-07-02, 09:36:04",
       "https://news.ycombinator.com/item?id=48758802"
     ],
@@ -267,16 +277,6 @@
     [
       "The GNU Emacs Architecture: Unlocking the Core [pdf]",
       "https://www.diva-portal.org/smash/get/diva2:2052282/FULLTEXT01.pdf"
-    ]
-  ],
-  [
-    [
-      "2026-07-01, 14:00:15",
-      "https://news.ycombinator.com/item?id=48746933"
-    ],
-    [
-      "Trust your compiler: Modern C++",
-      "https://categorica.io/blog/2026.06.29_trust_your_compiler/"
     ]
   ],
   [
