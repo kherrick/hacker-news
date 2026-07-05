@@ -4,6 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-07-05](index.md)
 
+* [2026-07-05, 21:03:06](https://news.ycombinator.com/item?id=48797916) - [Reparaible and open source paper printer](https://www.opentools.studio/)
+* [2026-07-05, 21:00:27](https://news.ycombinator.com/item?id=48797895) - [Dungeon Proof Crawler: learn how to write proofs with RPG](https://dhilst.github.io/algae/game/index.html)
+* [2026-07-05, 20:55:47](https://news.ycombinator.com/item?id=48797865) - [Pint in England](https://dispatch-media.com/the-best-pint-in-england/)
+* [2026-07-05, 20:44:01](https://news.ycombinator.com/item?id=48797771) - [Dependencies should be fetched directly from VCS](https://www.arp242.net/deps-vcs.html)
+* [2026-07-05, 20:24:37](https://news.ycombinator.com/item?id=48797656) - [Show HN: Osint tool that finds exposed files on domains](https://search.cerast-intelligence.com/)
+* [2026-07-05, 20:05:13](https://news.ycombinator.com/item?id=48797501) - [Trouble Transitioning (2025)](https://www.lrb.co.uk/the-paper/v47/n01/adam-tooze/trouble-transitioning)
+* [2026-07-05, 20:00:30](https://news.ycombinator.com/item?id=48797467) - [Cursed circuits #5: capacitance multiplier](https://lcamtuf.substack.com/p/cursed-circuits-capacitance-multiplier)
+* [2026-07-05, 19:31:22](https://news.ycombinator.com/item?id=48797214) - [The full stack of terminals explained](https://ahmadawais.com/the-full-stack-of-terminals-explained-terminal-shell-tty-console-posix-ansi-escapes-ptys/)
 * [2026-07-05, 19:08:38](https://news.ycombinator.com/item?id=48797015) - [Small Penis Rule](https://en.wikipedia.org/wiki/Small_penis_rule)
 * [2026-07-05, 18:47:43](https://news.ycombinator.com/item?id=48796817) - [New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]](https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf)
 * [2026-07-05, 18:46:07](https://news.ycombinator.com/item?id=48796792) - [You Need a Webring](https://shub.club/writings/2026/july/you-need-a-webring/)
