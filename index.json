@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-05, 06:40:05",
+      "https://news.ycombinator.com/item?id=48791799"
+    ],
+    [
+      "Is The Economist Always Wrong?",
+      "https://economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong"
+    ]
+  ],
+  [
+    [
       "2026-07-05, 06:30:40",
       "https://news.ycombinator.com/item?id=48791755"
     ],
@@ -11,22 +21,22 @@
   ],
   [
     [
+      "2026-07-05, 06:19:34",
+      "https://news.ycombinator.com/item?id=48791708"
+    ],
+    [
+      "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+      "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/"
+    ]
+  ],
+  [
+    [
       "2026-07-05, 05:56:03",
       "https://news.ycombinator.com/item?id=48791591"
     ],
     [
       "Megawatts by Microwave",
       "https://computer.rip/2026-07-04-microwave-and-power.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-05, 05:23:24",
-      "https://news.ycombinator.com/item?id=48791440"
-    ],
-    [
-      "Beeg float library, a Rust port of Fabrice Bellard's libbf",
-      "https://github.com/lifthrasiir/libbeef"
     ]
   ],
   [
@@ -47,16 +57,6 @@
     [
       "Shadcn/UI now defaults to Base UI instead of Radix",
       "https://ui.shadcn.com/docs/changelog"
-    ]
-  ],
-  [
-    [
-      "2026-07-05, 04:39:53",
-      "https://news.ycombinator.com/item?id=48791308"
-    ],
-    [
-      "Binary Coverage the Wrong Way",
-      "https://redvice.org/2026/coverage-the-wrong-way/"
     ]
   ],
   [
@@ -107,16 +107,6 @@
     [
       "If you're a button, you have one job",
       "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/"
-    ]
-  ],
-  [
-    [
-      "2026-07-05, 01:39:05",
-      "https://news.ycombinator.com/item?id=48790583"
-    ],
-    [
-      "Efficacy and Safety of Psilocybin in Treatment-Resistant Major Depression",
-      "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2846478"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Atomic Force Microscope high-speed video, stainless etching, bacteria, and more",
       "https://www.youtube.com/watch?v=DyIQkqBXhS0"
+    ]
+  ],
+  [
+    [
+      "2026-07-02, 14:52:31",
+      "https://news.ycombinator.com/item?id=48762578"
+    ],
+    [
+      "Width vs. Depth: Speculating on the Margin",
+      "https://blog.doubleword.ai/speculating-on-the-margin"
     ]
   ],
   [
