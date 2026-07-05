@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-05, 17:34:49",
+      "https://news.ycombinator.com/item?id=48796110"
+    ],
+    [
+      "Moving Back Home Used to Be a Sign of Failure. Now It Shows Financial Savvy",
+      "https://www.wsj.com/lifestyle/relationships/living-with-parents-finances-0c35530c"
+    ]
+  ],
+  [
+    [
+      "2026-07-05, 17:33:04",
+      "https://news.ycombinator.com/item?id=48796093"
+    ],
+    [
+      "The Computers Used in Movies",
+      "https://www.starringthecomputer.com/computers.html"
+    ]
+  ],
+  [
+    [
       "2026-07-05, 17:05:57",
       "https://news.ycombinator.com/item?id=48795830"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2026-07-05, 10:50:53",
-      "https://news.ycombinator.com/item?id=48793073"
-    ],
-    [
-      "Pi squared is nearly 10",
-      "https://mihai.page/pi-square-is-10/"
-    ]
-  ],
-  [
-    [
       "2026-07-05, 08:01:29",
       "https://news.ycombinator.com/item?id=48792203"
     ],
@@ -197,16 +207,6 @@
     [
       "Moby Dick Workout (2022)",
       "https://www.hogbaysoftware.com/posts/moby-dick-workout/"
-    ]
-  ],
-  [
-    [
-      "2026-07-05, 02:57:38",
-      "https://news.ycombinator.com/item?id=48790912"
-    ],
-    [
-      "The Log is the Agent",
-      "https://arxiv.org/abs/2605.21997"
     ]
   ],
   [
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2026-07-01, 17:30:58",
-      "https://news.ycombinator.com/item?id=48750405"
+      "2026-07-01, 20:51:52",
+      "https://news.ycombinator.com/item?id=48752949"
     ],
     [
-      "Meta's Un-Stable Signature",
-      "https://hackerfactor.com/blog/index.php?/archives/1098-Metas-Un-Stable-Signature.html"
+      "OpenWiki: CLI that writes and maintains agent documentation for your codebase",
+      "https://github.com/langchain-ai/openwiki"
     ]
   ],
   [
