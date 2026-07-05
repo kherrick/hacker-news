@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-07-05, 21:55:53](https://news.ycombinator.com/item?id=48798313) - [DNSGlobe – Rust TUI to watch DNS propagate around the world](https://github.com/514-labs/dnsglobe)
+* [2026-07-05, 21:45:17](https://news.ycombinator.com/item?id=48798247) - [Composite Video on the NES: Why's it so wobbly?](https://nicole.express/2026/phase-altering-by-line.html)
 * [2026-07-05, 21:39:05](https://news.ycombinator.com/item?id=48798210) - [CoCom regulations and GPS receivers for balloons and cubesats](https://space.stackexchange.com/questions/14687/current-situation-with-cocom-regulations-and-gps-receivers-for-balloons-and-cube)
 * [2026-07-05, 21:36:28](https://news.ycombinator.com/item?id=48798187) - [Had an idea for a Rust editor with simple Vim mode for learning](https://github.com/electronicsleep/rust-vim)
 * [2026-07-05, 21:32:44](https://news.ycombinator.com/item?id=48798153) - [Show HN: Homegames. An open-source game platform I've been making for 8 years](https://homegames.io)
@@ -29,7 +30,6 @@
 * [2026-07-02, 19:50:08](https://news.ycombinator.com/item?id=48766456) - [We Always Leave Things Unfinished](https://bigreaderbadgrades.substack.com/p/we-always-leave-things-unfinished)
 * [2026-07-02, 12:56:06](https://news.ycombinator.com/item?id=48760808) - [How the first solo-founder unicorn gets built](https://www.thisandthat.chat/blog/how-the-first-solo-founder-unicorn-gets-built/)
 * [2026-07-02, 09:36:04](https://news.ycombinator.com/item?id=48758802) - [The great blogging collapse: What happened to 100 successful blogs?](https://danielstanica.com/posts/Great-Blogging-Collapse)
-* [2026-07-02, 02:24:20](https://news.ycombinator.com/item?id=48755686) - [Papa Johns Can Predict When Your Fridge Is Empty](https://www.adexchanger.com/tv/papa-johns-can-predict-when-your-fridge-is-empty/)
 
 ## [Archives](archives/index.md)
 
