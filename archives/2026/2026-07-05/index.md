@@ -6,6 +6,7 @@
 
 * [2026-07-05, 17:34:49](https://news.ycombinator.com/item?id=48796110) - [Moving Back Home Used to Be a Sign of Failure. Now It Shows Financial Savvy](https://www.wsj.com/lifestyle/relationships/living-with-parents-finances-0c35530c)
 * [2026-07-05, 17:33:04](https://news.ycombinator.com/item?id=48796093) - [The Computers Used in Movies](https://www.starringthecomputer.com/computers.html)
+* [2026-07-05, 17:27:46](https://news.ycombinator.com/item?id=48796049) - [Taphonomic analysis reveals behavioral & tech capabilities of Homo floresiensis](https://www.science.org/doi/10.1126/sciadv.aeb7219)
 * [2026-07-05, 17:05:57](https://news.ycombinator.com/item?id=48795830) - [\"These cameras are just like the Eye of Sauron\"](https://arxiv.org/abs/2602.09239)
 * [2026-07-05, 17:05:35](https://news.ycombinator.com/item?id=48795826) - [Mark Zuckerberg tells staff that AI agents haven't progressed enough](https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/)
 * [2026-07-05, 16:11:08](https://news.ycombinator.com/item?id=48795368) - [Zuckerberg's Increasingly Bizarre War on Whistleblowers](https://pluralistic.net/2026/06/27/zuckerstreisand-2/#autodisparagement)
