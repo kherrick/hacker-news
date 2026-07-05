@@ -42,6 +42,7 @@
 * [2026-07-02, 15:02:26](https://news.ycombinator.com/item?id=48762725) - [Spain Orders Blacklist of Palantir from Public and Private Companies](https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv)
 * [2026-07-02, 14:52:31](https://news.ycombinator.com/item?id=48762578) - [Width vs. Depth: Speculating on the Margin](https://blog.doubleword.ai/speculating-on-the-margin)
 * [2026-07-02, 14:41:56](https://news.ycombinator.com/item?id=48762372) - [FoundationDB's Flow – Bringing Actor-Based Concurrency to C++11](https://apple.github.io/foundationdb/flow.html)
+* [2026-07-02, 14:36:23](https://news.ycombinator.com/item?id=48762301) - [Optimizing an Algorithm That's Quadratic by Design](https://whatchord.earthmanmuons.com/articles/chord-ranking-performance.html)
 * [2026-07-02, 14:23:09](https://news.ycombinator.com/item?id=48762098) - [Podman v6.0.0](https://blog.podman.io/2026/07/introducing-podman-v6-0-0/)
 * [2026-07-02, 14:19:24](https://news.ycombinator.com/item?id=48762038) - [Show HN: CLI tool for detecting non-exact code duplication with embedding models](https://github.com/rafal-qa/slopo)
 * [2026-07-02, 14:17:23](https://news.ycombinator.com/item?id=48762008) - [No LLM Code in Dependencies](https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/)

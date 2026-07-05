@@ -4,12 +4,18 @@
 
 ### [Archives](../../index.md) for [2026-07-05](index.md)
 
+* [2026-07-05, 18:47:43](https://news.ycombinator.com/item?id=48796817) - [New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]](https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf)
+* [2026-07-05, 18:46:07](https://news.ycombinator.com/item?id=48796792) - [You Need a Webring](https://shub.club/writings/2026/july/you-need-a-webring/)
+* [2026-07-05, 18:41:34](https://news.ycombinator.com/item?id=48796743) - [Outfit makes you unrecognizable to cameras](https://jmagineuniverse.blogspot.com/p/fashion-against-machine-by-olivier-july_01930961321.html)
+* [2026-07-05, 18:22:00](https://news.ycombinator.com/item?id=48796552) - [The Future of Flipper Zero Development](https://blog.flipper.net/future-of-flipper-zero-development/)
+* [2026-07-05, 18:14:42](https://news.ycombinator.com/item?id=48796473) - [Every Postcard Tells a Story](https://observer.co.uk/style/features/article/every-postcard-tells-a-story)
 * [2026-07-05, 17:34:49](https://news.ycombinator.com/item?id=48796110) - [Moving Back Home Used to Be a Sign of Failure. Now It Shows Financial Savvy](https://www.wsj.com/lifestyle/relationships/living-with-parents-finances-0c35530c)
 * [2026-07-05, 17:33:04](https://news.ycombinator.com/item?id=48796093) - [The Computers Used in Movies](https://www.starringthecomputer.com/computers.html)
 * [2026-07-05, 17:27:46](https://news.ycombinator.com/item?id=48796049) - [Taphonomic analysis reveals behavioral & tech capabilities of Homo floresiensis](https://www.science.org/doi/10.1126/sciadv.aeb7219)
 * [2026-07-05, 17:05:57](https://news.ycombinator.com/item?id=48795830) - [\"These cameras are just like the Eye of Sauron\"](https://arxiv.org/abs/2602.09239)
 * [2026-07-05, 17:05:35](https://news.ycombinator.com/item?id=48795826) - [Mark Zuckerberg tells staff that AI agents haven't progressed enough](https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/)
 * [2026-07-05, 16:11:08](https://news.ycombinator.com/item?id=48795368) - [Zuckerberg's Increasingly Bizarre War on Whistleblowers](https://pluralistic.net/2026/06/27/zuckerstreisand-2/#autodisparagement)
+* [2026-07-05, 16:07:10](https://news.ycombinator.com/item?id=48795323) - [Installing A/UX 1.1 like it's the 90s](https://thomasw.dev/post/aux11/)
 * [2026-07-05, 16:04:23](https://news.ycombinator.com/item?id=48795303) - [The Plight of the Martian Farmer](https://mceglowski.substack.com/p/the-plight-of-the-martian-farmer)
 * [2026-07-05, 15:49:18](https://news.ycombinator.com/item?id=48795174) - [Autonomous flying umbrella follows and shields users from rain and sunlight](https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026/)
 * [2026-07-05, 15:06:09](https://news.ycombinator.com/item?id=48794830) - [Show your hands honor for the power they bring you](https://aresluna.org/show-your-hands-honor/)
