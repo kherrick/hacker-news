@@ -57,6 +57,7 @@
 * [2026-07-02, 13:14:57](https://news.ycombinator.com/item?id=48761068) - [Hazel (YC W24) Is Hiring for Our Largest Government Contract](https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci)
 * [2026-07-02, 12:58:55](https://news.ycombinator.com/item?id=48760840) - [Winamp Skin Museum](https://skins.webamp.org)
 * [2026-07-02, 12:46:31](https://news.ycombinator.com/item?id=48760669) - [Germany’s Infineon opens major chip plant as EU seeks tech autonomy](https://www.rfi.fr/en/international-news/20260702-germany-s-infineon-opens-major-chip-plant-as-eu-seeks-tech-autonomy)
+* [2026-07-02, 12:43:25](https://news.ycombinator.com/item?id=48760633) - [The Economy Is K-Shaped](https://moai.studio/blog/posts/economy-is-k-shaped.html)
 * [2026-07-02, 12:40:36](https://news.ycombinator.com/item?id=48760598) - [AI fake news complaining about how AI fake news is the death of real news](https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/)
 * [2026-07-02, 12:33:08](https://news.ycombinator.com/item?id=48760490) - [NSA tries to weaken mlkem standardisation](https://nsa.2026.action.cr.yp.to)
 * [2026-07-02, 12:17:33](https://news.ycombinator.com/item?id=48760289) - [This blog is written in en-GB](https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/)
