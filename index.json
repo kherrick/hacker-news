@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-07-05, 10:56:44",
-      "https://news.ycombinator.com/item?id=48793102"
-    ],
-    [
-      "Returning to Zig after losing trust in Rust's governance",
-      "https://gracefulliberty.com/articles/return-to-zig/"
-    ]
-  ],
-  [
-    [
       "2026-07-05, 10:50:53",
       "https://news.ycombinator.com/item?id=48793073"
     ],
@@ -21,22 +11,12 @@
   ],
   [
     [
-      "2026-07-05, 10:42:59",
-      "https://news.ycombinator.com/item?id=48793020"
+      "2026-07-05, 09:56:10",
+      "https://news.ycombinator.com/item?id=48792790"
     ],
     [
-      "Ford rehires human engineers after AI fails to match quality checks",
-      "https://www.bbc.com/news/articles/cgrkd41n2v9o"
-    ]
-  ],
-  [
-    [
-      "2026-07-05, 10:34:20",
-      "https://news.ycombinator.com/item?id=48792984"
-    ],
-    [
-      "Common 3D Benchy Problems, Causes and Fixes",
-      "https://bambu3design.com/13-common-3d-benchy-problems-causes-fixes/"
+      "Europe's new climate in seven charts",
+      "https://www.bbc.com/news/articles/c8e2j0j87reo"
     ]
   ],
   [
@@ -47,6 +27,16 @@
     [
       "Scientist who cleaned space toilet on work now leading Mars exploration",
       "https://www.bbc.com/news/articles/cz758x04g83o"
+    ]
+  ],
+  [
+    [
+      "2026-07-05, 08:43:37",
+      "https://news.ycombinator.com/item?id=48792399"
+    ],
+    [
+      "Claude Design System Prompt",
+      "https://github.com/Trystan-SA/claude-design-system-prompt"
     ]
   ],
   [
@@ -81,6 +71,26 @@
   ],
   [
     [
+      "2026-07-05, 07:22:08",
+      "https://news.ycombinator.com/item?id=48791990"
+    ],
+    [
+      "Reducing Assumptions, Exploding Your Code",
+      "https://ryelang.org/blog/posts/reducing_assumptions_but_exploding/"
+    ]
+  ],
+  [
+    [
+      "2026-07-05, 07:17:25",
+      "https://news.ycombinator.com/item?id=48791973"
+    ],
+    [
+      "Dark Mode with Web Standards",
+      "https://olliewilliams.xyz/blog/dark-mode/"
+    ]
+  ],
+  [
+    [
       "2026-07-05, 05:56:03",
       "https://news.ycombinator.com/item?id=48791591"
     ],
@@ -107,6 +117,16 @@
     [
       "Moby Dick Workout (2022)",
       "https://www.hogbaysoftware.com/posts/moby-dick-workout/"
+    ]
+  ],
+  [
+    [
+      "2026-07-05, 04:29:05",
+      "https://news.ycombinator.com/item?id=48791256"
+    ],
+    [
+      "My ASN Journey series (2024)",
+      "https://www.animmouse.com/p/my-asn-journey/"
     ]
   ],
   [
@@ -147,6 +167,16 @@
     [
       "Return of the Nigerian Prince Redux: Beware Book Club and Book Review Scams (2025)",
       "https://writerbeware.blog/2025/09/19/return-of-the-nigerian-prince-redux-beware-book-club-and-book-review-scams/"
+    ]
+  ],
+  [
+    [
+      "2026-07-04, 23:22:15",
+      "https://news.ycombinator.com/item?id=48789965"
+    ],
+    [
+      "Drone Autonomy (2021)",
+      "https://www.cggonzalez.com/blog/index.html"
     ]
   ],
   [
@@ -195,48 +225,8 @@
       "https://news.ycombinator.com/item?id=48787042"
     ],
     [
-      "\"Beyond the limit\": Satellites and mirrors in space pose threat to the night sky",
+      "“Beyond the limit”: Satellites and mirrors in space pose threat to the night sky",
       "https://www.eso.org/public/news/eso2607/"
-    ]
-  ],
-  [
-    [
-      "2026-07-04, 16:51:26",
-      "https://news.ycombinator.com/item?id=48786838"
-    ],
-    [
-      "Google Books (or similar) all book scans – $200k bounty (2025)",
-      "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234"
-    ]
-  ],
-  [
-    [
-      "2026-07-04, 16:45:10",
-      "https://news.ycombinator.com/item?id=48786781"
-    ],
-    [
-      "Leaking YouTube creators' private videos",
-      "https://javoriuski.com/post/youtube"
-    ]
-  ],
-  [
-    [
-      "2026-07-04, 16:30:10",
-      "https://news.ycombinator.com/item?id=48786638"
-    ],
-    [
-      "Zig: All Package Management Functionality Moved from Compiler to Build System",
-      "https://ziglang.org/devlog/2026/#2026-06-30"
-    ]
-  ],
-  [
-    [
-      "2026-07-04, 14:03:40",
-      "https://news.ycombinator.com/item?id=48785485"
-    ],
-    [
-      "Potential session/cache leakage between workspace instances or consumer accounts",
-      "https://github.com/anthropics/claude-code/issues/74066"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Atomic Force Microscope high-speed video, stainless etching, bacteria, and more",
       "https://www.youtube.com/watch?v=DyIQkqBXhS0"
+    ]
+  ],
+  [
+    [
+      "2026-07-02, 11:12:12",
+      "https://news.ycombinator.com/item?id=48759579"
+    ],
+    [
+      "Functional Programming in hica",
+      "https://www.hica.dev/docs/functional-programming/"
     ]
   ],
   [
