@@ -28,8 +28,8 @@
 * [2026-07-03, 16:37:26](https://news.ycombinator.com/item?id=48776956) - [Johnson Thermoelectric Energy Converter](https://en.wikipedia.org/wiki/Johnson_thermoelectric_energy_converter)
 * [2026-07-03, 03:13:53](https://news.ycombinator.com/item?id=48770291) - [Mr. Baby Paint and accidentally discovering a new cellular automata](https://tekstien-marginaalien-keskus.aalto.fi/residenssi/heikki/blog/004-december-2/)
 * [2026-07-02, 19:50:08](https://news.ycombinator.com/item?id=48766456) - [We Always Leave Things Unfinished](https://bigreaderbadgrades.substack.com/p/we-always-leave-things-unfinished)
-* [2026-07-02, 12:56:06](https://news.ycombinator.com/item?id=48760808) - [How the first solo-founder unicorn gets built](https://www.thisandthat.chat/blog/how-the-first-solo-founder-unicorn-gets-built/)
 * [2026-07-02, 09:36:04](https://news.ycombinator.com/item?id=48758802) - [The great blogging collapse: What happened to 100 successful blogs?](https://danielstanica.com/posts/Great-Blogging-Collapse)
+* [2026-07-02, 01:14:35](https://news.ycombinator.com/item?id=48755184) - [Artificial Adventures](https://www.scattered-thoughts.net/writing/artificial-adventures/)
 
 ## [Archives](archives/index.md)
 
