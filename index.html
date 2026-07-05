@@ -129,23 +129,163 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="48793716">
+        <section id="48793542">
           <h3>
-            <a
-              class="item"
-              href="https://yusufaytas.com/the-engineer-in-the-half-space"
-              >The Engineer in the Half-Space</a
+            <a class="item" href="https://demo.pcbjam.com/"
+              >Show HN: KiCad in the Browser</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-07-05 @ 12:28:04</span
+              <span>2026-07-05 @ 12:06:57</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48793716"
+                ><a href="https://news.ycombinator.com/item?id=48793542"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 6</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                We’re Emergence Engineering, a dev shop from Hungary, mostly
+                working with rich text editors, CRDTs. PCBJam started as my
+                (Viktor, CTO, ex-electrical engineer) hobby project but as time
+                went on I put more and more energy into it, and a product
+                started shaping up in my head, in the last few months we’ve
+                started to focus on this project a bit more, and this is the
+                first MVP~ish result.
+              </p>
+              <p>
+                This project is a ton of fun, ton of learning, ton of
+                improvements over improvements:
+              </p>
+              <p>
+                - I thought there must be ways to emulate the PCB canvas OpenGL
+                code on the web. And yes, there are a lot of ways, all of them
+                very buggy. Turns out it’s faster to just write WebGL code that
+                works with KiCad’s Graphics Abstraction Layer if you add the
+                right intermediate debugging steps. I (with Claude) implemented
+                the features and compared them to native at every step, then the
+                app loaded up the first time and just worked. I spent weeks
+                hunting weird emulation bugs before that.
+              </p>
+              <p>
+                - There was an old wxWidgets web port as a starting point that
+                helped a lot, bringing it up to the level KiCad needed is a long
+                (and still ongoing) task. Thanks ahilss!
+              </p>
+              <p>
+                - Pthreads on the web: with Emscripten it’s possible to port
+                multithreaded apps (used by DRC, software 3D renderer). A lot of
+                Emscripten features (Asyncify, Pthreads, native exceptions) are
+                in a war with each other, but it’s possible.
+              </p>
+              <p>
+                - Asyncify with native exceptions: Asyncify (used to make the
+                WASM code suspend then call into the JS land, emulating blocking
+                C++ calls by rewriting the WASM directly) is not compatible with
+                native exceptions, even on the latest Binaryen version it can’t
+                suspend inside catch arms. If you write a new Binaryen pass then
+                it can, making the bundle 30-40% smaller and the app load in a
+                second instead of 10.
+              </p>
+              <p>
+                - Optimizing bundle size is a fun game. We just moved Open
+                CASCADE into a separate lazy-loaded WASM module, moving from 180
+                to 130 MB (24 MB brotli), still on -O1. -O2 / -Oz etc will be
+                more work than it looks.
+              </p>
+              <p>And a ton more problems like these above on a daily basis.</p>
+              <p>
+                A few months ago I had a barely loading laggy pcbnew that
+                crashed when you looked at it wrong, now we have the whole
+                application working. I should say with quite a few bugs still,
+                but now it feels pretty close to native.
+              </p>
+              <p>
+                There’s a lot of built up knowledge / code that we want to
+                release as blogposts, mainline our changes to Binaryen / KiCad /
+                wxWidgets, but I want to focus on the release first. Our
+                wxWidgets port is quite close to the core, the KiCad is ~150
+                changed core files (mostly build scripts, some code changes
+                too). The goal is to keep as close to the mainline as possible,
+                and merge eventually.
+              </p>
+              <p>
+                We’ll have a free tier for sure and something around $30/mo for
+                bigger/closed projects, optional paid AI integration / self
+                hosting / enterprise features / native &amp; mobile version down
+                the line.
+              </p>
+              <p>
+                The goal is to build a product on top of KiCad (collaboration,
+                AI integration, sharing, integrations), kind of like what Red
+                Hat did with Linux back then. We’re heads down making it
+                functional and have the first version up in a ~month or so.
+              </p>
+              <p>
+                And of course we’re standing on the shoulders of the people who
+                made KiCad &amp; wxWidgets and we want to give back and
+                contribute as much as possible, if you have an idea on how to do
+                that best let me know, I released a few moderately successful
+                open source projects, but I’ve never been a contributor. All of
+                the front-end code is GPL (it has to be) and you can run this
+                project if you want.
+              </p>
+              <p>
+                You can find the sources at:
+                <a href="https://github.com/emergence-engineering/pcbjam"
+                  >https://github.com/emergence-engineering/pcbjam</a
+                >.
+              </p>
+              <p>
+                Our company site is at:
+                <a href="https://emergence-engineering.com/"
+                  >https://emergence-engineering.com/</a
+                >
+              </p>
+              <p>
+                Our crappy LP is at:
+                <a href="https://www.pcbjam.com/">https://www.pcbjam.com/</a>
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="48793454">
+          <h3>
+            <a class="item" href="https://dthain.github.io/books/compiler/"
+              >Introduction to Compilers and Language Design</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-05 @ 11:54:16</span
+              ><span class="points-container"
+                >Points: <span class="points">63</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48793454"
+                  >Comments</a
+                ><span class="descendants">: 5</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48793073">
+          <h3>
+            <a class="item" href="https://mihai.page/pi-square-is-10/"
+              >Pi square is nearly 10</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-05 @ 10:50:53</span
+              ><span class="points-container"
+                >Points: <span class="points">26</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48793073"
+                  >Comments</a
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -163,11 +303,32 @@
             <h4>
               <span>2026-07-05 @ 09:55:22</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">25</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48792780"
                   >Comments</a
                 ><span class="descendants">: 5</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48792483">
+          <h3>
+            <a
+              class="item"
+              href="https://forwardscattering.org/page/Intuitive%20Quantum%20Electrodynamics"
+              >Intuitive Quantum Electrodynamics</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-05 @ 09:00:58</span
+              ><span class="points-container"
+                >Points: <span class="points">10</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48792483"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -184,11 +345,11 @@
             <h4>
               <span>2026-07-05 @ 08:43:37</span
               ><span class="points-container"
-                >Points: <span class="points">66</span></span
+                >Points: <span class="points">78</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48792399"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 20</span></span
               >
             </h4>
           </section>
@@ -205,32 +366,11 @@
             <h4>
               <span>2026-07-05 @ 07:59:48</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">48</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48792195"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48792080">
-          <h3>
-            <a
-              class="item"
-              href="https://jacob.gold/posts/programmers-need-to-start-meditating-now/"
-              >Programmers need to start meditating</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-05 @ 07:39:35</span
-              ><span class="points-container"
-                >Points: <span class="points">112</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48792080"
-                  >Comments</a
-                ><span class="descendants">: 120</span></span
+                ><span class="descendants">: 26</span></span
               >
             </h4>
           </section>
@@ -245,11 +385,11 @@
             <h4>
               <span>2026-07-05 @ 07:25:25</span
               ><span class="points-container"
-                >Points: <span class="points">64</span></span
+                >Points: <span class="points">72</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48792008"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 35</span></span
               >
             </h4>
           </section>
@@ -266,7 +406,7 @@
             <h4>
               <span>2026-07-05 @ 07:22:08</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">25</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48791990"
                   >Comments</a
@@ -285,11 +425,11 @@
             <h4>
               <span>2026-07-05 @ 07:17:25</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">24</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48791973"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
           </section>
@@ -306,30 +446,9 @@
             <h4>
               <span>2026-07-05 @ 05:56:03</span
               ><span class="points-container"
-                >Points: <span class="points">40</span></span
+                >Points: <span class="points">44</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48791591"
-                  >Comments</a
-                ><span class="descendants">: 4</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48791489">
-          <h3>
-            <a
-              class="item"
-              href="https://tommy.reddad.net/post/2025-12-04-coilsnake/"
-              >A gender-swap EarthBound for my daughter (2025)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-05 @ 05:34:49</span
-              ><span class="points-container"
-                >Points: <span class="points">18</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48791489"
                   >Comments</a
                 ><span class="descendants">: 4</span></span
               >
@@ -346,11 +465,11 @@
             <h4>
               <span>2026-07-05 @ 04:46:08</span
               ><span class="points-container"
-                >Points: <span class="points">190</span></span
+                >Points: <span class="points">203</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48791328"
                   >Comments</a
-                ><span class="descendants">: 81</span></span
+                ><span class="descendants">: 87</span></span
               >
             </h4>
           </section>
@@ -367,11 +486,11 @@
             <h4>
               <span>2026-07-05 @ 04:30:33</span
               ><span class="points-container"
-                >Points: <span class="points">61</span></span
+                >Points: <span class="points">65</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48791266"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
@@ -386,11 +505,11 @@
             <h4>
               <span>2026-07-05 @ 04:29:05</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48791256"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -405,7 +524,7 @@
             <h4>
               <span>2026-07-05 @ 02:57:38</span
               ><span class="points-container"
-                >Points: <span class="points">65</span></span
+                >Points: <span class="points">68</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48790912"
                   >Comments</a
@@ -426,11 +545,11 @@
             <h4>
               <span>2026-07-05 @ 02:01:03</span
               ><span class="points-container"
-                >Points: <span class="points">339</span></span
+                >Points: <span class="points">360</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48790689"
                   >Comments</a
-                ><span class="descendants">: 170</span></span
+                ><span class="descendants">: 179</span></span
               >
             </h4>
           </section>
@@ -448,7 +567,7 @@
             <h4>
               <span>2026-07-05 @ 00:22:25</span
               ><span class="points-container"
-                >Points: <span class="points">66</span></span
+                >Points: <span class="points">67</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48790240"
                   >Comments</a
@@ -489,11 +608,11 @@
             <h4>
               <span>2026-07-04 @ 22:36:28</span
               ><span class="points-container"
-                >Points: <span class="points">157</span></span
+                >Points: <span class="points">160</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48789712"
                   >Comments</a
-                ><span class="descendants">: 35</span></span
+                ><span class="descendants">: 36</span></span
               >
             </h4>
           </section>
@@ -509,11 +628,11 @@
             <h4>
               <span>2026-07-04 @ 21:51:09</span
               ><span class="points-container"
-                >Points: <span class="points">322</span></span
+                >Points: <span class="points">325</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48789428"
                   >Comments</a
-                ><span class="descendants">: 124</span></span
+                ><span class="descendants">: 125</span></span
               >
             </h4>
           </section>
@@ -531,7 +650,7 @@
             <h4>
               <span>2026-07-04 @ 19:41:10</span
               ><span class="points-container"
-                >Points: <span class="points">605</span></span
+                >Points: <span class="points">609</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48788283"
                   >Comments</a
@@ -551,11 +670,11 @@
             <h4>
               <span>2026-07-04 @ 17:17:28</span
               ><span class="points-container"
-                >Points: <span class="points">166</span></span
+                >Points: <span class="points">174</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48787042"
                   >Comments</a
-                ><span class="descendants">: 264</span></span
+                ><span class="descendants">: 268</span></span
               >
             </h4>
           </section>
@@ -570,11 +689,11 @@
             <h4>
               <span>2026-07-03 @ 09:52:51</span
               ><span class="points-container"
-                >Points: <span class="points">95</span></span
+                >Points: <span class="points">99</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48773079"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -589,11 +708,11 @@
             <h4>
               <span>2026-07-02 @ 19:03:54</span
               ><span class="points-container"
-                >Points: <span class="points">89</span></span
+                >Points: <span class="points">94</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48765920"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -610,11 +729,11 @@
             <h4>
               <span>2026-07-02 @ 11:12:12</span
               ><span class="points-container"
-                >Points: <span class="points">30</span></span
+                >Points: <span class="points">33</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48759579"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -629,7 +748,7 @@
             <h4>
               <span>2026-07-01 @ 18:23:45</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">62</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48751144"
                   >Comments</a
@@ -650,7 +769,7 @@
             <h4>
               <span>2026-07-01 @ 17:48:03</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">20</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48750631"
                   >Comments</a
@@ -671,7 +790,7 @@
             <h4>
               <span>2026-07-01 @ 17:30:58</span
               ><span class="points-container"
-                >Points: <span class="points">111</span></span
+                >Points: <span class="points">114</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48750405"
                   >Comments</a
@@ -692,32 +811,11 @@
             <h4>
               <span>2026-07-01 @ 14:00:15</span
               ><span class="points-container"
-                >Points: <span class="points">21</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48746933"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48746327">
-          <h3>
-            <a
-              class="item"
-              href="https://www.cbc.ca/news/world/vespa-italy-postwar-design-9.7252641"
-              >The Vespa at 80</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-01 @ 13:22:19</span
-              ><span class="points-container"
-                >Points: <span class="points">169</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48746327"
-                  >Comments</a
-                ><span class="descendants">: 158</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -734,11 +832,11 @@
             <h4>
               <span>2026-07-01 @ 04:14:01</span
               ><span class="points-container"
-                >Points: <span class="points">229</span></span
+                >Points: <span class="points">231</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48742175"
                   >Comments</a
-                ><span class="descendants">: 262</span></span
+                ><span class="descendants">: 266</span></span
               >
             </h4>
           </section>
