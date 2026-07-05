@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-05, 17:05:57](https://news.ycombinator.com/item?id=48795830) - [\"These cameras are just like the Eye of Sauron\"](https://arxiv.org/abs/2602.09239)
 * [2026-07-05, 17:05:35](https://news.ycombinator.com/item?id=48795826) - [Mark Zuckerberg tells staff that AI agents haven't progressed enough](https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/)
-* [2026-07-05, 16:04:23](https://news.ycombinator.com/item?id=48795303) - [The Plight of the Martian Farmer](https://mceglowski.substack.com/p/the-plight-of-the-martian-farmer)
+* [2026-07-05, 16:11:08](https://news.ycombinator.com/item?id=48795368) - [Zuckerberg's Increasingly Bizarre War on Whistleblowers](https://pluralistic.net/2026/06/27/zuckerstreisand-2/#autodisparagement)
 * [2026-07-05, 15:49:18](https://news.ycombinator.com/item?id=48795174) - [Autonomous flying umbrella follows and shields users from rain and sunlight](https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026/)
 * [2026-07-05, 15:00:21](https://news.ycombinator.com/item?id=48794788) - [Why DMARC's new \"NP\" tag can fail with DNSSEC](https://dmarcwise.io/blog/dmarc-np-incompatibility-with-dnssec)
 * [2026-07-05, 14:56:15](https://news.ycombinator.com/item?id=48794750) - [It's not about physical vs. digital games, it's about ownership](https://popcar.bearblog.dev/its-about-ownership/)
@@ -25,7 +26,6 @@
 * [2026-07-04, 15:53:08](https://news.ycombinator.com/item?id=48786284) - [Airplane Boneyards List and Map](https://airplaneboneyards.com/airplane-boneyards-list-and-map.htm)
 * [2026-07-03, 09:52:51](https://news.ycombinator.com/item?id=48773079) - [Pandoc Lua Filters](https://pandoc.org/lua-filters.html)
 * [2026-07-02, 09:36:04](https://news.ycombinator.com/item?id=48758802) - [The Great Blogging Collapse: What Happened to 100 Successful Blogs?](https://danielstanica.com/posts/Great-Blogging-Collapse)
-* [2026-07-01, 18:23:45](https://news.ycombinator.com/item?id=48751144) - [Artful Cats: Feline-Inspired Art and Artifacts](https://www.si.edu/spotlight/art-cats)
 * [2026-07-01, 17:30:58](https://news.ycombinator.com/item?id=48750405) - [Meta's Un-Stable Signature](https://hackerfactor.com/blog/index.php?/archives/1098-Metas-Un-Stable-Signature.html)
 * [2026-07-01, 14:47:06](https://news.ycombinator.com/item?id=48747733) - [The GNU Emacs Architecture: Unlocking the Core [pdf]](https://www.diva-portal.org/smash/get/diva2:2052282/FULLTEXT01.pdf)
 * [2026-07-01, 13:49:59](https://news.ycombinator.com/item?id=48746771) - [Medieval-style fortifications are back in the Sahel](https://www.economist.com/middle-east-and-africa/2026/06/25/medieval-style-fortifications-are-back-in-the-sahel)
