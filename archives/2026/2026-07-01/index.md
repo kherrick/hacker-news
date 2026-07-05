@@ -63,6 +63,7 @@
 * [2026-07-01, 14:10:28](https://news.ycombinator.com/item?id=48747116) - [FFmpeg 9.1's new AAC encoder](https://hydrogenaudio.org/index.php/topic,129691.0.html)
 * [2026-07-01, 14:06:55](https://news.ycombinator.com/item?id=48747038) - [This Cell Feeds, Grows and Reproduces. and It's Manmade](https://www.nytimes.com/interactive/2026/07/01/science/spudcells-synthetic-cell.html)
 * [2026-07-01, 14:00:29](https://news.ycombinator.com/item?id=48746940) - [The C to Rust migration book](https://mainmatter.com/c-to-rust-migration-book/)
+* [2026-07-01, 14:00:15](https://news.ycombinator.com/item?id=48746933) - [Trust your compiler: Modern C++](https://categorica.io/blog/2026.06.29_trust_your_compiler/)
 * [2026-07-01, 13:59:13](https://news.ycombinator.com/item?id=48746914) - [Monetization Gateway](https://blog.cloudflare.com/monetization-gateway/)
 * [2026-07-01, 13:54:25](https://news.ycombinator.com/item?id=48746842) - [Your Kids' School Bus Is About to Become a Roaming Surveillance Vehicle](https://www.thedrive.com/news/your-kids-school-bus-is-about-to-become-a-roaming-surveillance-vehicle)
 * [2026-07-01, 13:48:44](https://news.ycombinator.com/item?id=48746752) - [Launch HN: Parsewise (YC P25) – Reason Across Documents with an API](https://news.ycombinator.com/item?id=48746752)

@@ -24,6 +24,7 @@
 * [2026-07-05, 06:30:40](https://news.ycombinator.com/item?id=48791755) - [EV Batteries Are Defying Expectations After Miles](https://www.wsj.com/business/autos/ev-batteries-are-defying-expectations-after-hundreds-of-thousands-of-miles-8579de13)
 * [2026-07-05, 06:19:34](https://news.ycombinator.com/item?id=48791708) - [sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)](https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/)
 * [2026-07-05, 05:56:03](https://news.ycombinator.com/item?id=48791591) - [Megawatts by Microwave](https://computer.rip/2026-07-04-microwave-and-power.html)
+* [2026-07-05, 05:34:49](https://news.ycombinator.com/item?id=48791489) - [A gender-swap EarthBound for my daughter (2025)](https://tommy.reddad.net/post/2025-12-04-coilsnake/)
 * [2026-07-05, 05:23:24](https://news.ycombinator.com/item?id=48791440) - [Beeg float library, a Rust port of Fabrice Bellard's libbf](https://github.com/lifthrasiir/libbeef)
 * [2026-07-05, 05:01:14](https://news.ycombinator.com/item?id=48791380) - [Mouse: Precision Editing Tools for AI Coding Agents](https://hic-ai.com)
 * [2026-07-05, 04:46:08](https://news.ycombinator.com/item?id=48791328) - [Shadcn/UI now defaults to Base UI instead of Radix](https://ui.shadcn.com/docs/changelog)
