@@ -37,6 +37,7 @@
 * [2026-07-01, 17:45:17](https://news.ycombinator.com/item?id=48750593) - [Building Gin: Simple over Easy](https://manualmeida.dev/articles/gin-simple-over-easy/)
 * [2026-07-01, 17:41:00](https://news.ycombinator.com/item?id=48750527) - [Hanami 3.0: In Full Bloom](https://hanakai.org/blog/2026/06/30/hanami-3-0-in-full-bloom)
 * [2026-07-01, 17:32:15](https://news.ycombinator.com/item?id=48750427) - [Chasing the OPNsense RCE: The Story Behind My First CVEs](https://hackerask.com/posts/opnsense/)
+* [2026-07-01, 17:30:58](https://news.ycombinator.com/item?id=48750405) - [Meta's Un-Stable Signature](https://hackerfactor.com/blog/index.php?/archives/1098-Metas-Un-Stable-Signature.html)
 * [2026-07-01, 17:30:56](https://news.ycombinator.com/item?id=48750402) - [Show HN: Pieces – Social network for people](https://try.piecesof.me/)
 * [2026-07-01, 17:29:11](https://news.ycombinator.com/item?id=48750373) - [Mortality associated with non-optimal ambient temperatures from 2000 to 2019](https://www.researchgate.net/publication/353058947_Global_regional_and_national_burden_of_mortality_associated_with_non-optimal_ambient_temperatures_from_2000_to_2019_a_three-stage_modelling_study)
 * [2026-07-01, 17:21:07](https://news.ycombinator.com/item?id=48750247) - [Are readers generating fiction with AI models?](https://arxiv.org/abs/2606.22748)

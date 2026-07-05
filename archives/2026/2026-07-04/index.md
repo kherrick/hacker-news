@@ -6,6 +6,9 @@
 
 * [2026-07-04, 23:51:19](https://news.ycombinator.com/item?id=48790122) - [Zo Computer](https://www.zo.computer)
 * [2026-07-04, 23:41:10](https://news.ycombinator.com/item?id=48790066) - [Scientists reverse brain aging, with a nasal spray](https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/)
+* [2026-07-04, 23:36:11](https://news.ycombinator.com/item?id=48790036) - [Reflections on the Guillotine](https://theanarchistlibrary.org/library/albert-camus-reflections-on-the-guillotine)
+* [2026-07-04, 23:25:53](https://news.ycombinator.com/item?id=48789986) - [Mapping with In-Memory Layers to Reduce LLM Overload](https://ridgetext.com/blog/mapbox-llm-composition)
+* [2026-07-04, 23:22:15](https://news.ycombinator.com/item?id=48789965) - [Drone Autonomy Crash Course](https://www.cggonzalez.com/blog/index.html)
 * [2026-07-04, 22:36:28](https://news.ycombinator.com/item?id=48789712) - [Jellyfish can heal wounds in minutes. Scientists want their secrets](https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets)
 * [2026-07-04, 22:34:30](https://news.ycombinator.com/item?id=48789699) - [New bacterial species discovered in NASA's cleanrooms](https://www.nature.com/articles/d44151-025-00219-7)
 * [2026-07-04, 21:51:09](https://news.ycombinator.com/item?id=48789428) - [GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance](https://github.com/openai/codex/issues/30364)
