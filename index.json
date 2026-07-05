@@ -1,12 +1,52 @@
 [
   [
     [
+      "2026-07-05, 15:06:09",
+      "https://news.ycombinator.com/item?id=48794830"
+    ],
+    [
+      "Show your hands honor for the power they bring you",
+      "https://aresluna.org/show-your-hands-honor/"
+    ]
+  ],
+  [
+    [
+      "2026-07-05, 15:02:43",
+      "https://news.ycombinator.com/item?id=48794803"
+    ],
+    [
+      "Train and run transformers directly on Apple's Neural Engine",
+      "https://github.com/christopherkarani/Espresso"
+    ]
+  ],
+  [
+    [
+      "2026-07-05, 14:49:42",
+      "https://news.ycombinator.com/item?id=48794704"
+    ],
+    [
+      "Solar rail could become common in Europe after successful trial in Switzerland",
+      "https://www.euronews.com/2026/07/05/italy-could-be-the-next-country-to-build-a-solar-railway-after-switzerlands-successful-tri"
+    ]
+  ],
+  [
+    [
       "2026-07-05, 14:14:30",
       "https://news.ycombinator.com/item?id=48794446"
     ],
     [
       "Organic Maps",
       "https://organicmaps.app/"
+    ]
+  ],
+  [
+    [
+      "2026-07-05, 13:47:44",
+      "https://news.ycombinator.com/item?id=48794302"
+    ],
+    [
+      "Run Windows 2000 on a DEC Alpha with a new es40 fork",
+      "https://raymii.org/s/blog/Run_Windows_2000_for_Dec_Alpha_on_a_new_es40_fork.html"
     ]
   ],
   [
@@ -91,16 +131,6 @@
   ],
   [
     [
-      "2026-07-05, 07:59:48",
-      "https://news.ycombinator.com/item?id=48792195"
-    ],
-    [
-      "Knowledge Should Not Be Gated",
-      "https://www.formaly.io/blog/knowledge-should-not-be-gated"
-    ]
-  ],
-  [
-    [
       "2026-07-05, 07:25:25",
       "https://news.ycombinator.com/item?id=48792008"
     ],
@@ -161,26 +191,6 @@
   ],
   [
     [
-      "2026-07-05, 00:22:25",
-      "https://news.ycombinator.com/item?id=48790240"
-    ],
-    [
-      "Return of the Nigerian Prince Redux: Beware Book Club and Book Review Scams (2025)",
-      "https://writerbeware.blog/2025/09/19/return-of-the-nigerian-prince-redux-beware-book-club-and-book-review-scams/"
-    ]
-  ],
-  [
-    [
-      "2026-07-04, 21:51:09",
-      "https://news.ycombinator.com/item?id=48789428"
-    ],
-    [
-      "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-      "https://github.com/openai/codex/issues/30364"
-    ]
-  ],
-  [
-    [
       "2026-07-04, 19:41:10",
       "https://news.ycombinator.com/item?id=48788283"
     ],
@@ -227,16 +237,6 @@
     [
       "Atomic Force Microscope [video]",
       "https://www.youtube.com/watch?v=DyIQkqBXhS0"
-    ]
-  ],
-  [
-    [
-      "2026-07-02, 11:12:12",
-      "https://news.ycombinator.com/item?id=48759579"
-    ],
-    [
-      "Functional Programming in hica",
-      "https://www.hica.dev/docs/functional-programming/"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-07-01, 04:14:01",
-      "https://news.ycombinator.com/item?id=48742175"
+      "2026-07-01, 13:01:56",
+      "https://news.ycombinator.com/item?id=48746038"
     ],
     [
-      "What ORMs have taught me: just learn SQL (2014)",
-      "https://wozniak.ca/blog/2014/08/03/1/index.html"
+      "Rayfish, Peer-to-peer mesh VPN with no server to trust",
+      "https://rayfish.xyz/blog/01-introducing-rayfish"
     ]
   ]
 ]
