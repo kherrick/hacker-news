@@ -4,8 +4,18 @@
 
 ### [Archives](../../index.md) for [2026-07-05](index.md)
 
+* [2026-07-05, 05:01:14](https://news.ycombinator.com/item?id=48791380) - [Mouse: Precision Editing Tools for AI Coding Agents](https://hic-ai.com)
+* [2026-07-05, 04:46:08](https://news.ycombinator.com/item?id=48791328) - [Shadcn/UI now defaults to Base UI instead of Radix](https://ui.shadcn.com/docs/changelog)
+* [2026-07-05, 04:39:53](https://news.ycombinator.com/item?id=48791308) - [Binary Coverage the Wrong Way](https://redvice.org/2026/coverage-the-wrong-way/)
+* [2026-07-05, 04:30:33](https://news.ycombinator.com/item?id=48791266) - [Moby Dick Workout](https://www.hogbaysoftware.com/posts/moby-dick-workout/)
+* [2026-07-05, 04:29:05](https://news.ycombinator.com/item?id=48791256) - [My ASN Journey series (2024)](https://www.animmouse.com/p/my-asn-journey/)
+* [2026-07-05, 04:18:54](https://news.ycombinator.com/item?id=48791224) - [Reading Minds with Ultrasound: Less-Invasive Technique for Brain's Intentions (2021)](https://www.caltech.edu/about/news/reading-minds-with-ultrasound-a-less-invasive-technique-to-decode-the-brains-intentions)
+* [2026-07-05, 03:44:54](https://news.ycombinator.com/item?id=48791091) - [President pardons 9 for Clean Air violations for 'fixing their car'](https://www.msn.com/en-us/news/crime/trump-pardons-9-for-clean-air-violations-for-fixing-their-car/ar-AA27cSkT)
 * [2026-07-05, 02:57:52](https://news.ycombinator.com/item?id=48790913) - [University of Oxford Is Older Than the Aztec Empire and Other Facts of History (2013)](https://www.smithsonianmag.com/smart-news/university-oxford-older-than-aztec-empire-other-facts-will-change-your-perspective-history-1529607/)
+* [2026-07-05, 02:57:38](https://news.ycombinator.com/item?id=48790912) - [The Log Is the Agent](https://arxiv.org/abs/2605.21997)
+* [2026-07-05, 02:54:13](https://news.ycombinator.com/item?id=48790898) - [Backon – Python retry (zero deps, circuit breaker, async native)](https://github.com/Llucs/backon)
 * [2026-07-05, 02:01:03](https://news.ycombinator.com/item?id=48790689) - [If you're a button, you have one job](https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/)
 * [2026-07-05, 01:39:05](https://news.ycombinator.com/item?id=48790583) - [Efficacy and Safety of Psilocybin in Treatment-Resistant Major Depression](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2846478)
+* [2026-07-05, 01:23:11](https://news.ycombinator.com/item?id=48790512) - [Record-breaking solo rower Kelsey Pfendler arrives in Hawaii](https://www.hawaiinewsnow.com/2026/07/04/record-breaking-solo-rower-kelsey-pfendler-arrives-hawaii/)
 * [2026-07-05, 00:48:15](https://news.ycombinator.com/item?id=48790349) - [Egg consumption inversely correlated with Alzheimer's](https://pubmed.ncbi.nlm.nih.gov/42002260/)
 * [2026-07-05, 00:22:25](https://news.ycombinator.com/item?id=48790240) - [Return of the Nigerian Prince Redux: Beware Book Club and Book Review Scams](https://writerbeware.blog/2025/09/19/return-of-the-nigerian-prince-redux-beware-book-club-and-book-review-scams/)
