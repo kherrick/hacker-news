@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-07-05, 21:39:05",
+      "https://news.ycombinator.com/item?id=48798210"
+    ],
+    [
+      "CoCom regulations and GPS receivers for balloons and cubesats",
+      "https://space.stackexchange.com/questions/14687/current-situation-with-cocom-regulations-and-gps-receivers-for-balloons-and-cube"
+    ]
+  ],
+  [
+    [
+      "2026-07-05, 21:32:44",
+      "https://news.ycombinator.com/item?id=48798153"
+    ],
+    [
+      "Show HN: Homegames. An open-source game platform I've been making for 8 years",
+      "https://homegames.io"
+    ]
+  ],
+  [
+    [
+      "2026-07-05, 21:20:49",
+      "https://news.ycombinator.com/item?id=48798061"
+    ],
+    [
+      "Completing a Computer Science Degree on Coursera",
+      "https://notesbylex.com/completing-a-computer-science-degree-on-coursera"
+    ]
+  ],
+  [
+    [
       "2026-07-05, 21:03:06",
       "https://news.ycombinator.com/item?id=48797916"
     ],
@@ -51,12 +81,12 @@
   ],
   [
     [
-      "2026-07-05, 20:05:13",
-      "https://news.ycombinator.com/item?id=48797501"
+      "2026-07-05, 20:24:31",
+      "https://news.ycombinator.com/item?id=48797655"
     ],
     [
-      "Trouble Transitioning (2025)",
-      "https://www.lrb.co.uk/the-paper/v47/n01/adam-tooze/trouble-transitioning"
+      "Zero-copy in Go: sendfile, splice, and the cost of io.Copy",
+      "https://segflow.github.io/post/zero-copy-sendfile-splice/"
     ]
   ],
   [
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2026-07-05, 17:27:46",
-      "https://news.ycombinator.com/item?id=48796049"
-    ],
-    [
-      "Taphonomic analysis reveals behavioral & tech capabilities of Homo floresiensis",
-      "https://www.science.org/doi/10.1126/sciadv.aeb7219"
-    ]
-  ],
-  [
-    [
       "2026-07-05, 16:07:10",
       "https://news.ycombinator.com/item?id=48795323"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2026-07-05, 04:46:08",
-      "https://news.ycombinator.com/item?id=48791328"
-    ],
-    [
-      "Shadcn/UI now defaults to Base UI instead of Radix",
-      "https://ui.shadcn.com/docs/changelog"
-    ]
-  ],
-  [
-    [
       "2026-07-04, 15:53:08",
       "https://news.ycombinator.com/item?id=48786284"
     ],
@@ -261,6 +271,16 @@
   ],
   [
     [
+      "2026-07-02, 12:56:06",
+      "https://news.ycombinator.com/item?id=48760808"
+    ],
+    [
+      "How the first solo-founder unicorn gets built",
+      "https://www.thisandthat.chat/blog/how-the-first-solo-founder-unicorn-gets-built/"
+    ]
+  ],
+  [
+    [
       "2026-07-02, 09:36:04",
       "https://news.ycombinator.com/item?id=48758802"
     ],
@@ -277,26 +297,6 @@
     [
       "Papa Johns Can Predict When Your Fridge Is Empty",
       "https://www.adexchanger.com/tv/papa-johns-can-predict-when-your-fridge-is-empty/"
-    ]
-  ],
-  [
-    [
-      "2026-07-01, 20:51:52",
-      "https://news.ycombinator.com/item?id=48752949"
-    ],
-    [
-      "OpenWiki: CLI that writes and maintains agent documentation for your codebase",
-      "https://github.com/langchain-ai/openwiki"
-    ]
-  ],
-  [
-    [
-      "2026-07-01, 13:49:59",
-      "https://news.ycombinator.com/item?id=48746771"
-    ],
-    [
-      "Medieval-style fortifications are back in the Sahel",
-      "https://www.economist.com/middle-east-and-africa/2026/06/25/medieval-style-fortifications-are-back-in-the-sahel"
     ]
   ]
 ]
