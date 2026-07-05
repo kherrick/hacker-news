@@ -11,6 +11,7 @@
 * [2026-07-05, 12:06:57](https://news.ycombinator.com/item?id=48793542) - [Show HN: KiCad in the Browser](https://demo.pcbjam.com/)
 * [2026-07-05, 11:59:27](https://news.ycombinator.com/item?id=48793492) - [Cannabis Users Face Substantially Higher Risk of Heart Attack (2025)](https://www.acc.org/about-acc/press-releases/2025/03/17/15/35/cannabis-users-face-substantially-higher-risk)
 * [2026-07-05, 11:54:16](https://news.ycombinator.com/item?id=48793454) - [Introduction to Compilers and Language Design](https://dthain.github.io/books/compiler/)
+* [2026-07-05, 11:44:04](https://news.ycombinator.com/item?id=48793393) - [EU Council forces Chat Control via fast-track](https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html)
 * [2026-07-05, 11:30:14](https://news.ycombinator.com/item?id=48793298) - [Spain's cadastre API is SOAP from 2003, so I built a JSON wrapper (+MCP)](https://prediohq.com/)
 * [2026-07-05, 10:56:44](https://news.ycombinator.com/item?id=48793102) - [Returning to Zig after losing trust in Rust's governance](https://gracefulliberty.com/articles/return-to-zig/)
 * [2026-07-05, 10:50:53](https://news.ycombinator.com/item?id=48793073) - [Pi square is nearly 10](https://mihai.page/pi-square-is-10/)
