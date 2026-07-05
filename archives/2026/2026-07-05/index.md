@@ -7,6 +7,7 @@
 * [2026-07-05, 22:12:19](https://news.ycombinator.com/item?id=48798409) - [AI Can Steal Your Bank Account in Hours](https://jmagineuniverse.blogspot.com/p/six-hours-to-infiltrate-bank-how-ai-is_0978359463.html)
 * [2026-07-05, 21:55:53](https://news.ycombinator.com/item?id=48798313) - [DNSGlobe – Rust TUI to watch DNS propagate around the world](https://github.com/514-labs/dnsglobe)
 * [2026-07-05, 21:39:05](https://news.ycombinator.com/item?id=48798210) - [CoCom regulations and GPS receivers for balloons and cubesats](https://space.stackexchange.com/questions/14687/current-situation-with-cocom-regulations-and-gps-receivers-for-balloons-and-cube)
+* [2026-07-05, 21:36:28](https://news.ycombinator.com/item?id=48798187) - [Had an idea for a Rust editor with simple Vim mode for learning](https://github.com/electronicsleep/rust-vim)
 * [2026-07-05, 21:32:44](https://news.ycombinator.com/item?id=48798153) - [Show HN: Homegames. An open-source game platform I've been making for 8 years](https://homegames.io)
 * [2026-07-05, 21:20:49](https://news.ycombinator.com/item?id=48798061) - [Completing a Computer Science Degree on Coursera](https://notesbylex.com/completing-a-computer-science-degree-on-coursera)
 * [2026-07-05, 21:03:06](https://news.ycombinator.com/item?id=48797916) - [Reparaible and open source paper printer](https://www.opentools.studio/)
