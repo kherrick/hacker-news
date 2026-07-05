@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-05](index.md)
 
+* [2026-07-05, 22:12:19](https://news.ycombinator.com/item?id=48798409) - [AI Can Steal Your Bank Account in Hours](https://jmagineuniverse.blogspot.com/p/six-hours-to-infiltrate-bank-how-ai-is_0978359463.html)
+* [2026-07-05, 21:55:53](https://news.ycombinator.com/item?id=48798313) - [DNSGlobe – Rust TUI to watch DNS propagate around the world](https://github.com/514-labs/dnsglobe)
 * [2026-07-05, 21:39:05](https://news.ycombinator.com/item?id=48798210) - [CoCom regulations and GPS receivers for balloons and cubesats](https://space.stackexchange.com/questions/14687/current-situation-with-cocom-regulations-and-gps-receivers-for-balloons-and-cube)
 * [2026-07-05, 21:32:44](https://news.ycombinator.com/item?id=48798153) - [Show HN: Homegames. An open-source game platform I've been making for 8 years](https://homegames.io)
 * [2026-07-05, 21:20:49](https://news.ycombinator.com/item?id=48798061) - [Completing a Computer Science Degree on Coursera](https://notesbylex.com/completing-a-computer-science-degree-on-coursera)
@@ -16,6 +18,7 @@
 * [2026-07-05, 20:05:13](https://news.ycombinator.com/item?id=48797501) - [Trouble Transitioning (2025)](https://www.lrb.co.uk/the-paper/v47/n01/adam-tooze/trouble-transitioning)
 * [2026-07-05, 20:00:30](https://news.ycombinator.com/item?id=48797467) - [Cursed circuits #5: capacitance multiplier](https://lcamtuf.substack.com/p/cursed-circuits-capacitance-multiplier)
 * [2026-07-05, 19:31:22](https://news.ycombinator.com/item?id=48797214) - [The full stack of terminals explained](https://ahmadawais.com/the-full-stack-of-terminals-explained-terminal-shell-tty-console-posix-ansi-escapes-ptys/)
+* [2026-07-05, 19:22:51](https://news.ycombinator.com/item?id=48797141) - [Delta flight hit by firework while landing at Midway Airport on Fourth of July](https://www.nbcchicago.com/news/local/delta-flight-hit-by-firework-while-landing-at-midway-airport-on-fourth-of-july/3957451/)
 * [2026-07-05, 19:08:38](https://news.ycombinator.com/item?id=48797015) - [Small Penis Rule](https://en.wikipedia.org/wiki/Small_penis_rule)
 * [2026-07-05, 18:47:43](https://news.ycombinator.com/item?id=48796817) - [New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]](https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf)
 * [2026-07-05, 18:46:07](https://news.ycombinator.com/item?id=48796792) - [You Need a Webring](https://shub.club/writings/2026/july/you-need-a-webring/)
