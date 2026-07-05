@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=48790036"
     ],
     [
-      "Reflections on the Guillotine",
+      "Reflections on the Guillotine (1957)",
       "https://theanarchistlibrary.org/library/albert-camus-reflections-on-the-guillotine"
     ]
   ],
@@ -77,16 +77,6 @@
     [
       "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
       "https://github.com/openai/codex/issues/30364"
-    ]
-  ],
-  [
-    [
-      "2026-07-04, 21:35:30",
-      "https://news.ycombinator.com/item?id=48789325"
-    ],
-    [
-      "My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
-      "https://ekinertac.com/blog/i-dont-know-rust-my-ai-is-rewriting-php-in-it/"
     ]
   ],
   [
@@ -217,6 +207,16 @@
     [
       "Explanation of everything you can see in htop/top on Linux (2019)",
       "https://peteris.rocks/blog/htop/"
+    ]
+  ],
+  [
+    [
+      "2026-07-02, 19:03:54",
+      "https://news.ycombinator.com/item?id=48765920"
+    ],
+    [
+      "Atomic Force Microscope high-speed video, stainless etching, bacteria, and more",
+      "https://www.youtube.com/watch?v=DyIQkqBXhS0"
     ]
   ],
   [
