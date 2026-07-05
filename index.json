@@ -21,22 +21,42 @@
   ],
   [
     [
-      "2026-07-04, 23:51:19",
-      "https://news.ycombinator.com/item?id=48790122"
-    ],
-    [
-      "Zo Computer",
-      "https://www.zo.computer"
-    ]
-  ],
-  [
-    [
       "2026-07-04, 23:41:10",
       "https://news.ycombinator.com/item?id=48790066"
     ],
     [
       "Scientists reverse brain aging, with a nasal spray",
       "https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/"
+    ]
+  ],
+  [
+    [
+      "2026-07-04, 23:36:11",
+      "https://news.ycombinator.com/item?id=48790036"
+    ],
+    [
+      "Reflections on the Guillotine",
+      "https://theanarchistlibrary.org/library/albert-camus-reflections-on-the-guillotine"
+    ]
+  ],
+  [
+    [
+      "2026-07-04, 23:25:53",
+      "https://news.ycombinator.com/item?id=48789986"
+    ],
+    [
+      "Mapping with In-Memory Layers to Reduce LLM Overload",
+      "https://ridgetext.com/blog/mapbox-llm-composition"
+    ]
+  ],
+  [
+    [
+      "2026-07-04, 23:22:15",
+      "https://news.ycombinator.com/item?id=48789965"
+    ],
+    [
+      "Drone Autonomy Crash Course",
+      "https://www.cggonzalez.com/blog/index.html"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2026-07-04, 09:08:09",
-      "https://news.ycombinator.com/item?id=48783948"
-    ],
-    [
-      "Astrophysicists Puzzle over Webb’s New Universe",
-      "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/"
-    ]
-  ],
-  [
-    [
       "2026-07-02, 08:36:15",
       "https://news.ycombinator.com/item?id=48758328"
     ],
@@ -231,6 +241,16 @@
   ],
   [
     [
+      "2026-07-01, 17:30:58",
+      "https://news.ycombinator.com/item?id=48750405"
+    ],
+    [
+      "Meta's Un-Stable Signature",
+      "https://hackerfactor.com/blog/index.php?/archives/1098-Metas-Un-Stable-Signature.html"
+    ]
+  ],
+  [
+    [
       "2026-07-01, 14:48:40",
       "https://news.ycombinator.com/item?id=48747762"
     ],
@@ -247,26 +267,6 @@
     [
       "The Vespa at 80",
       "https://www.cbc.ca/news/world/vespa-italy-postwar-design-9.7252641"
-    ]
-  ],
-  [
-    [
-      "2026-07-01, 13:05:16",
-      "https://news.ycombinator.com/item?id=48746090"
-    ],
-    [
-      "Designing DB partitions you don't have to babysit",
-      "https://explainanalyze.com/p/designing-partitioning-you-dont-have-to-babysit/"
-    ]
-  ],
-  [
-    [
-      "2026-07-01, 12:48:56",
-      "https://news.ycombinator.com/item?id=48745855"
-    ],
-    [
-      "Postgres data stored in Parquet on S3: LTAP architecture explained",
-      "https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage"
     ]
   ],
   [
