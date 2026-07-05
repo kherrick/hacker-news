@@ -68,6 +68,7 @@
 * [2026-07-02, 11:30:01](https://news.ycombinator.com/item?id=48759761) - [Vite+ Beta](https://voidzero.dev/posts/announcing-vite-plus-beta)
 * [2026-07-02, 11:17:45](https://news.ycombinator.com/item?id=48759634) - [PeerTube is a free, decentralized and federated video platform](https://github.com/Chocobozzz/PeerTube)
 * [2026-07-02, 11:16:31](https://news.ycombinator.com/item?id=48759623) - [OpenAI: In early talks to give 5% stake to US Government](https://www.theguardian.com/technology/2026/jul/02/openai-stake-us-government-ai-sam-altman)
+* [2026-07-02, 11:12:12](https://news.ycombinator.com/item?id=48759579) - [Functional Programming in hica](https://www.hica.dev/docs/functional-programming/)
 * [2026-07-02, 10:43:41](https://news.ycombinator.com/item?id=48759329) - [Meta building cloud business to sell excess AI capacity](https://www.reuters.com/business/meta-sell-excess-ai-computing-capacity-via-cloud-business-bloomberg-news-reports-2026-07-01/)
 * [2026-07-02, 10:35:17](https://news.ycombinator.com/item?id=48759256) - [Orbital Data Centers: Why the Hype Outpaces Reality](https://spectrum.ieee.org/orbital-data-center-hype)
 * [2026-07-02, 10:00:27](https://news.ycombinator.com/item?id=48758970) - [Why I'm Forced to Say Farewell: Google Management Has Lost Its Moral Compass](https://docs.google.com/document/d/1SH9QRTAlL02THgAN2AGmWe9El0_2ZJF6hhgDBx8k97c/edit?tab=t.0)
