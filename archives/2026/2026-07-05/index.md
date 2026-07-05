@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-05](index.md)
 
+* [2026-07-05, 12:29:44](https://news.ycombinator.com/item?id=48793726) - [Educators disciplined over Charlie Kirk posts are securing big payouts](https://www.nbcnews.com/news/us-news/educators-disciplined-charlie-kirk-posts-are-securing-big-payouts-rcna352568)
+* [2026-07-05, 12:28:04](https://news.ycombinator.com/item?id=48793716) - [The Engineer in the Half-Space](https://yusufaytas.com/the-engineer-in-the-half-space)
 * [2026-07-05, 10:56:44](https://news.ycombinator.com/item?id=48793102) - [Returning to Zig after losing trust in Rust's governance](https://gracefulliberty.com/articles/return-to-zig/)
 * [2026-07-05, 10:50:53](https://news.ycombinator.com/item?id=48793073) - [Pi square is nearly 10](https://mihai.page/pi-square-is-10/)
 * [2026-07-05, 10:42:59](https://news.ycombinator.com/item?id=48793020) - [Ford rehires human engineers after AI fails to match quality checks](https://www.bbc.com/news/articles/cgrkd41n2v9o)
@@ -13,6 +15,7 @@
 * [2026-07-05, 08:43:37](https://news.ycombinator.com/item?id=48792399) - [Claude Design System Prompt](https://github.com/Trystan-SA/claude-design-system-prompt)
 * [2026-07-05, 08:32:09](https://news.ycombinator.com/item?id=48792352) - [Apocketlypse](https://0dd.company/galleries/triumph/1.html)
 * [2026-07-05, 08:01:29](https://news.ycombinator.com/item?id=48792203) - [Web-based cryptography is always snake oil](https://www.devever.net/~hl/webcrypto)
+* [2026-07-05, 07:59:48](https://news.ycombinator.com/item?id=48792195) - [Knowledge Should Not Be Gated](https://www.formaly.io/blog/knowledge-should-not-be-gated)
 * [2026-07-05, 07:39:35](https://news.ycombinator.com/item?id=48792080) - [Programmers need to start meditating now](https://jacob.gold/posts/programmers-need-to-start-meditating-now/)
 * [2026-07-05, 07:25:25](https://news.ycombinator.com/item?id=48792008) - [Fast Software, the Best Software](https://craigmod.com/essays/fast_software/)
 * [2026-07-05, 07:22:08](https://news.ycombinator.com/item?id=48791990) - [Reducing Assumptions, Exploding Your Code](https://ryelang.org/blog/posts/reducing_assumptions_but_exploding/)
