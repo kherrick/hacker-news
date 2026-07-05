@@ -58,6 +58,7 @@
 * [2026-07-02, 13:16:54](https://news.ycombinator.com/item?id=48761088) - [In the age of algorithms and AI, is traditional media democracy's defence?](https://www.martenscentre.eu/media-mentions/in-the-age-of-algorithms-and-ai-is-traditional-media-democracys-last-line-of-defence/)
 * [2026-07-02, 13:14:57](https://news.ycombinator.com/item?id=48761068) - [Hazel (YC W24) Is Hiring for Our Largest Government Contract](https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci)
 * [2026-07-02, 12:58:55](https://news.ycombinator.com/item?id=48760840) - [Winamp Skin Museum](https://skins.webamp.org)
+* [2026-07-02, 12:56:06](https://news.ycombinator.com/item?id=48760808) - [How the first solo-founder unicorn gets built](https://www.thisandthat.chat/blog/how-the-first-solo-founder-unicorn-gets-built/)
 * [2026-07-02, 12:46:31](https://news.ycombinator.com/item?id=48760669) - [Germany’s Infineon opens major chip plant as EU seeks tech autonomy](https://www.rfi.fr/en/international-news/20260702-germany-s-infineon-opens-major-chip-plant-as-eu-seeks-tech-autonomy)
 * [2026-07-02, 12:43:25](https://news.ycombinator.com/item?id=48760633) - [The Economy Is K-Shaped](https://moai.studio/blog/posts/economy-is-k-shaped.html)
 * [2026-07-02, 12:40:36](https://news.ycombinator.com/item?id=48760598) - [AI fake news complaining about how AI fake news is the death of real news](https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/)

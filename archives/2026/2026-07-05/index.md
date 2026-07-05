@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-07-05](index.md)
 
+* [2026-07-05, 21:39:05](https://news.ycombinator.com/item?id=48798210) - [CoCom regulations and GPS receivers for balloons and cubesats](https://space.stackexchange.com/questions/14687/current-situation-with-cocom-regulations-and-gps-receivers-for-balloons-and-cube)
+* [2026-07-05, 21:32:44](https://news.ycombinator.com/item?id=48798153) - [Show HN: Homegames. An open-source game platform I've been making for 8 years](https://homegames.io)
+* [2026-07-05, 21:20:49](https://news.ycombinator.com/item?id=48798061) - [Completing a Computer Science Degree on Coursera](https://notesbylex.com/completing-a-computer-science-degree-on-coursera)
 * [2026-07-05, 21:03:06](https://news.ycombinator.com/item?id=48797916) - [Reparaible and open source paper printer](https://www.opentools.studio/)
 * [2026-07-05, 21:00:27](https://news.ycombinator.com/item?id=48797895) - [Dungeon Proof Crawler: learn how to write proofs with RPG](https://dhilst.github.io/algae/game/index.html)
 * [2026-07-05, 20:55:47](https://news.ycombinator.com/item?id=48797865) - [Pint in England](https://dispatch-media.com/the-best-pint-in-england/)
 * [2026-07-05, 20:44:01](https://news.ycombinator.com/item?id=48797771) - [Dependencies should be fetched directly from VCS](https://www.arp242.net/deps-vcs.html)
 * [2026-07-05, 20:24:37](https://news.ycombinator.com/item?id=48797656) - [Show HN: Osint tool that finds exposed files on domains](https://search.cerast-intelligence.com/)
+* [2026-07-05, 20:24:31](https://news.ycombinator.com/item?id=48797655) - [Zero-copy in Go: sendfile, splice, and the cost of io.Copy](https://segflow.github.io/post/zero-copy-sendfile-splice/)
 * [2026-07-05, 20:05:13](https://news.ycombinator.com/item?id=48797501) - [Trouble Transitioning (2025)](https://www.lrb.co.uk/the-paper/v47/n01/adam-tooze/trouble-transitioning)
 * [2026-07-05, 20:00:30](https://news.ycombinator.com/item?id=48797467) - [Cursed circuits #5: capacitance multiplier](https://lcamtuf.substack.com/p/cursed-circuits-capacitance-multiplier)
 * [2026-07-05, 19:31:22](https://news.ycombinator.com/item?id=48797214) - [The full stack of terminals explained](https://ahmadawais.com/the-full-stack-of-terminals-explained-terminal-shell-tty-console-posix-ansi-escapes-ptys/)
