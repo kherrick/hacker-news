@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-07-05](index.md)
 
+* [2026-07-05, 15:49:18](https://news.ycombinator.com/item?id=48795174) - [Autonomous flying umbrella follows and shields users from rain and sunlight](https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026/)
 * [2026-07-05, 15:06:09](https://news.ycombinator.com/item?id=48794830) - [Show your hands honor for the power they bring you](https://aresluna.org/show-your-hands-honor/)
 * [2026-07-05, 15:02:43](https://news.ycombinator.com/item?id=48794803) - [Train and run transformers directly on Apple's Neural Engine](https://github.com/christopherkarani/Espresso)
+* [2026-07-05, 15:00:21](https://news.ycombinator.com/item?id=48794788) - [Why DMARC's new \"NP\" tag can fail with DNSSEC](https://dmarcwise.io/blog/dmarc-np-incompatibility-with-dnssec)
 * [2026-07-05, 14:49:42](https://news.ycombinator.com/item?id=48794704) - [Solar rail could become common in Europe after successful trial in Switzerland](https://www.euronews.com/2026/07/05/italy-could-be-the-next-country-to-build-a-solar-railway-after-switzerlands-successful-tri)
 * [2026-07-05, 14:14:30](https://news.ycombinator.com/item?id=48794446) - [Organic Maps](https://organicmaps.app/)
 * [2026-07-05, 13:47:44](https://news.ycombinator.com/item?id=48794302) - [Run Windows 2000 on a DEC Alpha with a new es40 fork](https://raymii.org/s/blog/Run_Windows_2000_for_Dec_Alpha_on_a_new_es40_fork.html)
