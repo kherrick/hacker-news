@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-07-05, 18:47:43",
+      "https://news.ycombinator.com/item?id=48796817"
+    ],
+    [
+      "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+      "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-07-05, 18:46:07",
+      "https://news.ycombinator.com/item?id=48796792"
+    ],
+    [
+      "You Need a Webring",
+      "https://shub.club/writings/2026/july/you-need-a-webring/"
+    ]
+  ],
+  [
+    [
+      "2026-07-05, 18:41:34",
+      "https://news.ycombinator.com/item?id=48796743"
+    ],
+    [
+      "Outfit makes you unrecognizable to cameras",
+      "https://jmagineuniverse.blogspot.com/p/fashion-against-machine-by-olivier-july_01930961321.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-05, 18:22:00",
+      "https://news.ycombinator.com/item?id=48796552"
+    ],
+    [
+      "The Future of Flipper Zero Development",
+      "https://blog.flipper.net/future-of-flipper-zero-development/"
+    ]
+  ],
+  [
+    [
+      "2026-07-05, 18:14:42",
+      "https://news.ycombinator.com/item?id=48796473"
+    ],
+    [
+      "Every Postcard Tells a Story",
+      "https://observer.co.uk/style/features/article/every-postcard-tells-a-story"
+    ]
+  ],
+  [
+    [
       "2026-07-05, 17:34:49",
       "https://news.ycombinator.com/item?id=48796110"
     ],
@@ -41,22 +91,22 @@
   ],
   [
     [
-      "2026-07-05, 17:05:35",
-      "https://news.ycombinator.com/item?id=48795826"
-    ],
-    [
-      "Mark Zuckerberg tells staff that AI agents haven't progressed enough",
-      "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/"
-    ]
-  ],
-  [
-    [
       "2026-07-05, 16:11:08",
       "https://news.ycombinator.com/item?id=48795368"
     ],
     [
       "Zuckerberg's Increasingly Bizarre War on Whistleblowers",
       "https://pluralistic.net/2026/06/27/zuckerstreisand-2/#autodisparagement"
+    ]
+  ],
+  [
+    [
+      "2026-07-05, 16:07:10",
+      "https://news.ycombinator.com/item?id=48795323"
+    ],
+    [
+      "Installing A/UX 1.1 like it's the 90s",
+      "https://thomasw.dev/post/aux11/"
     ]
   ],
   [
@@ -91,16 +141,6 @@
   ],
   [
     [
-      "2026-07-05, 14:49:42",
-      "https://news.ycombinator.com/item?id=48794704"
-    ],
-    [
-      "Solar rail could become common in Europe after successful trial in Switzerland",
-      "https://www.euronews.com/2026/07/05/italy-could-be-the-next-country-to-build-a-solar-railway-after-switzerlands-successful-tri"
-    ]
-  ],
-  [
-    [
       "2026-07-05, 14:14:30",
       "https://news.ycombinator.com/item?id=48794446"
     ],
@@ -121,16 +161,6 @@
   ],
   [
     [
-      "2026-07-05, 13:28:11",
-      "https://news.ycombinator.com/item?id=48794179"
-    ],
-    [
-      "Phosh 0.56.0",
-      "https://phosh.mobi/releases/rel-0.56.0/"
-    ]
-  ],
-  [
-    [
       "2026-07-05, 12:06:57",
       "https://news.ycombinator.com/item?id=48793542"
     ],
@@ -141,21 +171,11 @@
   ],
   [
     [
-      "2026-07-05, 11:59:27",
-      "https://news.ycombinator.com/item?id=48793492"
-    ],
-    [
-      "Cannabis users face substantially higher risk of heart attack (2025)",
-      "https://www.acc.org/about-acc/press-releases/2025/03/17/15/35/cannabis-users-face-substantially-higher-risk"
-    ]
-  ],
-  [
-    [
       "2026-07-05, 11:54:16",
       "https://news.ycombinator.com/item?id=48793454"
     ],
     [
-      "Introduction to Compilers and Language Design",
+      "Introduction to Compilers and Language Design (2021)",
       "https://dthain.github.io/books/compiler/"
     ]
   ],
@@ -171,32 +191,12 @@
   ],
   [
     [
-      "2026-07-05, 08:01:29",
-      "https://news.ycombinator.com/item?id=48792203"
-    ],
-    [
-      "Web-based cryptography is always snake oil",
-      "https://www.devever.net/~hl/webcrypto"
-    ]
-  ],
-  [
-    [
       "2026-07-05, 07:25:25",
       "https://news.ycombinator.com/item?id=48792008"
     ],
     [
       "Fast Software, the Best Software (2019)",
       "https://craigmod.com/essays/fast_software/"
-    ]
-  ],
-  [
-    [
-      "2026-07-05, 05:56:03",
-      "https://news.ycombinator.com/item?id=48791591"
-    ],
-    [
-      "Megawatts by Microwave",
-      "https://computer.rip/2026-07-04-microwave-and-power.html"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2026-07-04, 19:41:10",
-      "https://news.ycombinator.com/item?id=48788283"
-    ],
-    [
-      "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
-      "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main"
-    ]
-  ],
-  [
-    [
       "2026-07-04, 15:53:08",
       "https://news.ycombinator.com/item?id=48786284"
     ],
@@ -247,6 +237,16 @@
     [
       "Pandoc Lua Filters",
       "https://pandoc.org/lua-filters.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-02, 14:36:23",
+      "https://news.ycombinator.com/item?id=48762301"
+    ],
+    [
+      "Optimizing an Algorithm That's Quadratic by Design",
+      "https://whatchord.earthmanmuons.com/articles/chord-ranking-performance.html"
     ]
   ],
   [
