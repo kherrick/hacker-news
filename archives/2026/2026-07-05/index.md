@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-07-05](index.md)
 
+* [2026-07-05, 06:30:40](https://news.ycombinator.com/item?id=48791755) - [EV Batteries Are Defying Expectations After Miles](https://www.wsj.com/business/autos/ev-batteries-are-defying-expectations-after-hundreds-of-thousands-of-miles-8579de13)
+* [2026-07-05, 05:56:03](https://news.ycombinator.com/item?id=48791591) - [Megawatts by Microwave](https://computer.rip/2026-07-04-microwave-and-power.html)
+* [2026-07-05, 05:23:24](https://news.ycombinator.com/item?id=48791440) - [Beeg float library, a Rust port of Fabrice Bellard's libbf](https://github.com/lifthrasiir/libbeef)
 * [2026-07-05, 05:01:14](https://news.ycombinator.com/item?id=48791380) - [Mouse: Precision Editing Tools for AI Coding Agents](https://hic-ai.com)
 * [2026-07-05, 04:46:08](https://news.ycombinator.com/item?id=48791328) - [Shadcn/UI now defaults to Base UI instead of Radix](https://ui.shadcn.com/docs/changelog)
 * [2026-07-05, 04:39:53](https://news.ycombinator.com/item?id=48791308) - [Binary Coverage the Wrong Way](https://redvice.org/2026/coverage-the-wrong-way/)
@@ -11,6 +14,7 @@
 * [2026-07-05, 04:29:05](https://news.ycombinator.com/item?id=48791256) - [My ASN Journey series (2024)](https://www.animmouse.com/p/my-asn-journey/)
 * [2026-07-05, 04:18:54](https://news.ycombinator.com/item?id=48791224) - [Reading Minds with Ultrasound: Less-Invasive Technique for Brain's Intentions (2021)](https://www.caltech.edu/about/news/reading-minds-with-ultrasound-a-less-invasive-technique-to-decode-the-brains-intentions)
 * [2026-07-05, 03:44:54](https://news.ycombinator.com/item?id=48791091) - [President pardons 9 for Clean Air violations for 'fixing their car'](https://www.msn.com/en-us/news/crime/trump-pardons-9-for-clean-air-violations-for-fixing-their-car/ar-AA27cSkT)
+* [2026-07-05, 03:20:46](https://news.ycombinator.com/item?id=48790990) - [The Preemptive Draw and Preemptive Grip in the Cash-in-Transit Sector](https://gutsgatesguards.wordpress.com/2026/06/23/the-preemptive-draw-and-preemptive-grip-in-the-cash-in-transit-sector-part-1/)
 * [2026-07-05, 02:57:52](https://news.ycombinator.com/item?id=48790913) - [University of Oxford Is Older Than the Aztec Empire and Other Facts of History (2013)](https://www.smithsonianmag.com/smart-news/university-oxford-older-than-aztec-empire-other-facts-will-change-your-perspective-history-1529607/)
 * [2026-07-05, 02:57:38](https://news.ycombinator.com/item?id=48790912) - [The Log Is the Agent](https://arxiv.org/abs/2605.21997)
 * [2026-07-05, 02:54:13](https://news.ycombinator.com/item?id=48790898) - [Backon – Python retry (zero deps, circuit breaker, async native)](https://github.com/Llucs/backon)

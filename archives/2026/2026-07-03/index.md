@@ -72,6 +72,7 @@
 * [2026-07-03, 12:27:23](https://news.ycombinator.com/item?id=48774195) - [Goodebye Forever Probably: Why I’m leaving developer relations](https://whitep4nth3r.com/blog/goodbye-forever-probably/)
 * [2026-07-03, 11:50:20](https://news.ycombinator.com/item?id=48773907) - [Amazon has enough satellites to launch its Starlink competitor](https://www.theverge.com/science/960563/amazon-leo-service-tipping-point)
 * [2026-07-03, 11:14:54](https://news.ycombinator.com/item?id=48773652) - [Gun Mistakes in Fiction Writing: Handgun Edition](https://www.swiftsilentdeadly.com/blog/gun-mistakes-in-fiction-writing-handgun-edition)
+* [2026-07-03, 09:52:51](https://news.ycombinator.com/item?id=48773079) - [Pandoc Lua Filters](https://pandoc.org/lua-filters.html)
 * [2026-07-03, 09:08:14](https://news.ycombinator.com/item?id=48772717) - [Commodore 64 Basic for PostgreSQL](https://thombrown.blogspot.com/2026/07/load-plcbmbasic81-commodore-64-basic.html)
 * [2026-07-03, 08:50:47](https://news.ycombinator.com/item?id=48772573) - [Wordgard: The new in-browser rich-text editor from the creator of ProseMirror](https://wordgard.net/)
 * [2026-07-03, 08:31:37](https://news.ycombinator.com/item?id=48772443) - [Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says](https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/)
