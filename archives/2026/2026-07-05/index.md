@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-07-05](index.md)
 
+* [2026-07-05, 08:32:09](https://news.ycombinator.com/item?id=48792352) - [Apocketlypse](https://0dd.company/galleries/triumph/1.html)
+* [2026-07-05, 08:01:29](https://news.ycombinator.com/item?id=48792203) - [Web-based cryptography is always snake oil](https://www.devever.net/~hl/webcrypto)
+* [2026-07-05, 07:22:08](https://news.ycombinator.com/item?id=48791990) - [Reducing Assumptions, Exploding Your Code](https://ryelang.org/blog/posts/reducing_assumptions_but_exploding/)
 * [2026-07-05, 06:40:05](https://news.ycombinator.com/item?id=48791799) - [Is The Economist Always Wrong?](https://economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong)
 * [2026-07-05, 06:30:40](https://news.ycombinator.com/item?id=48791755) - [EV Batteries Are Defying Expectations After Miles](https://www.wsj.com/business/autos/ev-batteries-are-defying-expectations-after-hundreds-of-thousands-of-miles-8579de13)
 * [2026-07-05, 06:19:34](https://news.ycombinator.com/item?id=48791708) - [sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)](https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/)
