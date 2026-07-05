@@ -77,6 +77,7 @@
 * [2026-07-01, 13:16:53](https://news.ycombinator.com/item?id=48746249) - [The Particle Box – Kinetic Molecular Theory Simulator](https://prepok.com/chemistry/particle-box/)
 * [2026-07-01, 13:05:16](https://news.ycombinator.com/item?id=48746090) - [Designing DB partitions you don't have to babysit](https://explainanalyze.com/p/designing-partitioning-you-dont-have-to-babysit/)
 * [2026-07-01, 13:04:16](https://news.ycombinator.com/item?id=48746076) - [Internal Combustion Engine](https://ciechanow.ski/internal-combustion-engine/)
+* [2026-07-01, 13:01:56](https://news.ycombinator.com/item?id=48746038) - [Rayfish, Peer-to-peer mesh VPN with no server to trust](https://rayfish.xyz/blog/01-introducing-rayfish)
 * [2026-07-01, 12:48:56](https://news.ycombinator.com/item?id=48745855) - [Postgres data stored in Parquet on S3: LTAP architecture explained](https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage)
 * [2026-07-01, 12:43:48](https://news.ycombinator.com/item?id=48745785) - [Sony will no longer produce discs for PlayStation games starting in January 2028](https://www.eurogamer.net/sony-ending-playstation-discs-physical-media-january-2028)
 * [2026-07-01, 12:25:29](https://news.ycombinator.com/item?id=48745590) - [Show HN: Claudoro, Pomodoro timer embedded in the Claude Code statusline](https://github.com/emson/claudoro)

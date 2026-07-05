@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-07-05](index.md)
 
+* [2026-07-05, 15:06:09](https://news.ycombinator.com/item?id=48794830) - [Show your hands honor for the power they bring you](https://aresluna.org/show-your-hands-honor/)
+* [2026-07-05, 15:02:43](https://news.ycombinator.com/item?id=48794803) - [Train and run transformers directly on Apple's Neural Engine](https://github.com/christopherkarani/Espresso)
+* [2026-07-05, 14:49:42](https://news.ycombinator.com/item?id=48794704) - [Solar rail could become common in Europe after successful trial in Switzerland](https://www.euronews.com/2026/07/05/italy-could-be-the-next-country-to-build-a-solar-railway-after-switzerlands-successful-tri)
 * [2026-07-05, 14:14:30](https://news.ycombinator.com/item?id=48794446) - [Organic Maps](https://organicmaps.app/)
+* [2026-07-05, 13:47:44](https://news.ycombinator.com/item?id=48794302) - [Run Windows 2000 on a DEC Alpha with a new es40 fork](https://raymii.org/s/blog/Run_Windows_2000_for_Dec_Alpha_on_a_new_es40_fork.html)
 * [2026-07-05, 13:28:11](https://news.ycombinator.com/item?id=48794179) - [Phosh 0.56.0](https://phosh.mobi/releases/rel-0.56.0/)
 * [2026-07-05, 12:29:44](https://news.ycombinator.com/item?id=48793726) - [Educators disciplined over Charlie Kirk posts are securing big payouts](https://www.nbcnews.com/news/us-news/educators-disciplined-charlie-kirk-posts-are-securing-big-payouts-rcna352568)
 * [2026-07-05, 12:28:04](https://news.ycombinator.com/item?id=48793716) - [The Engineer in the Half-Space](https://yusufaytas.com/the-engineer-in-the-half-space)
