@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-05](index.md)
 
+* [2026-07-05, 19:08:38](https://news.ycombinator.com/item?id=48797015) - [Small Penis Rule](https://en.wikipedia.org/wiki/Small_penis_rule)
 * [2026-07-05, 18:47:43](https://news.ycombinator.com/item?id=48796817) - [New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]](https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf)
 * [2026-07-05, 18:46:07](https://news.ycombinator.com/item?id=48796792) - [You Need a Webring](https://shub.club/writings/2026/july/you-need-a-webring/)
 * [2026-07-05, 18:45:52](https://news.ycombinator.com/item?id=48796784) - [Jim Keller's startup is building a factory to mass-produce small chip fabs](https://www.tomshardware.com/tech-industry/atomic-semi-rebrands-as-fab2-and-shifts-operations-to-texas)
@@ -14,6 +15,7 @@
 * [2026-07-05, 17:34:49](https://news.ycombinator.com/item?id=48796110) - [Moving Back Home Used to Be a Sign of Failure. Now It Shows Financial Savvy](https://www.wsj.com/lifestyle/relationships/living-with-parents-finances-0c35530c)
 * [2026-07-05, 17:33:04](https://news.ycombinator.com/item?id=48796093) - [The Computers Used in Movies](https://www.starringthecomputer.com/computers.html)
 * [2026-07-05, 17:27:46](https://news.ycombinator.com/item?id=48796049) - [Taphonomic analysis reveals behavioral & tech capabilities of Homo floresiensis](https://www.science.org/doi/10.1126/sciadv.aeb7219)
+* [2026-07-05, 17:21:48](https://news.ycombinator.com/item?id=48795986) - [Neoengineers](https://elijahpotter.dev/articles/neoengineers)
 * [2026-07-05, 17:16:00](https://news.ycombinator.com/item?id=48795939) - [Falling fertility on the left as key driver of US birth decline](https://www.nature.com/articles/s41598-026-57582-3)
 * [2026-07-05, 17:05:57](https://news.ycombinator.com/item?id=48795830) - [\"These cameras are just like the Eye of Sauron\"](https://arxiv.org/abs/2602.09239)
 * [2026-07-05, 17:05:35](https://news.ycombinator.com/item?id=48795826) - [Mark Zuckerberg tells staff that AI agents haven't progressed enough](https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/)
