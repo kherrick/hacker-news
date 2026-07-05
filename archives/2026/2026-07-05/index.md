@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-05](index.md)
 
+* [2026-07-05, 16:04:23](https://news.ycombinator.com/item?id=48795303) - [The Plight of the Martian Farmer](https://mceglowski.substack.com/p/the-plight-of-the-martian-farmer)
 * [2026-07-05, 15:49:18](https://news.ycombinator.com/item?id=48795174) - [Autonomous flying umbrella follows and shields users from rain and sunlight](https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026/)
 * [2026-07-05, 15:06:09](https://news.ycombinator.com/item?id=48794830) - [Show your hands honor for the power they bring you](https://aresluna.org/show-your-hands-honor/)
 * [2026-07-05, 15:02:43](https://news.ycombinator.com/item?id=48794803) - [Train and run transformers directly on Apple's Neural Engine](https://github.com/christopherkarani/Espresso)
