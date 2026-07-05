@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-04](index.md)
 
+* [2026-07-04, 23:51:19](https://news.ycombinator.com/item?id=48790122) - [Zo Computer](https://www.zo.computer)
 * [2026-07-04, 23:41:10](https://news.ycombinator.com/item?id=48790066) - [Scientists reverse brain aging, with a nasal spray](https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/)
 * [2026-07-04, 22:36:28](https://news.ycombinator.com/item?id=48789712) - [Jellyfish can heal wounds in minutes. Scientists want their secrets](https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets)
 * [2026-07-04, 22:34:30](https://news.ycombinator.com/item?id=48789699) - [New bacterial species discovered in NASA's cleanrooms](https://www.nature.com/articles/d44151-025-00219-7)

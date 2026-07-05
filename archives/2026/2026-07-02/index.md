@@ -68,6 +68,7 @@
 * [2026-07-02, 10:43:41](https://news.ycombinator.com/item?id=48759329) - [Meta building cloud business to sell excess AI capacity](https://www.reuters.com/business/meta-sell-excess-ai-computing-capacity-via-cloud-business-bloomberg-news-reports-2026-07-01/)
 * [2026-07-02, 10:35:17](https://news.ycombinator.com/item?id=48759256) - [Orbital Data Centers: Why the Hype Outpaces Reality](https://spectrum.ieee.org/orbital-data-center-hype)
 * [2026-07-02, 10:00:27](https://news.ycombinator.com/item?id=48758970) - [Why I'm Forced to Say Farewell: Google Management Has Lost Its Moral Compass](https://docs.google.com/document/d/1SH9QRTAlL02THgAN2AGmWe9El0_2ZJF6hhgDBx8k97c/edit?tab=t.0)
+* [2026-07-02, 08:36:15](https://news.ycombinator.com/item?id=48758328) - [CloudsLinker: Move and sync files across 50 cloud services](https://app.cloudslinker.com/login)
 * [2026-07-02, 08:34:13](https://news.ycombinator.com/item?id=48758309) - [Google loses fight over record $4.7B EU antitrust fine](https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html)
 * [2026-07-02, 08:26:09](https://news.ycombinator.com/item?id=48758242) - [We Don't Have to Be This Bad at Improving Society](https://kasperjunge.com/blog/we-dont-have-to-be-this-bad-at-improving-society/)
 * [2026-07-02, 08:01:15](https://news.ycombinator.com/item?id=48758048) - [The Fall of the Theorem Economy](https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy)
