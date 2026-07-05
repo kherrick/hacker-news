@@ -1,12 +1,102 @@
 [
   [
     [
+      "2026-07-05, 05:01:14",
+      "https://news.ycombinator.com/item?id=48791380"
+    ],
+    [
+      "Mouse: Precision Editing Tools for AI Coding Agents",
+      "https://hic-ai.com"
+    ]
+  ],
+  [
+    [
+      "2026-07-05, 04:46:08",
+      "https://news.ycombinator.com/item?id=48791328"
+    ],
+    [
+      "Shadcn/UI now defaults to Base UI instead of Radix",
+      "https://ui.shadcn.com/docs/changelog"
+    ]
+  ],
+  [
+    [
+      "2026-07-05, 04:39:53",
+      "https://news.ycombinator.com/item?id=48791308"
+    ],
+    [
+      "Binary Coverage the Wrong Way",
+      "https://redvice.org/2026/coverage-the-wrong-way/"
+    ]
+  ],
+  [
+    [
+      "2026-07-05, 04:30:33",
+      "https://news.ycombinator.com/item?id=48791266"
+    ],
+    [
+      "Moby Dick Workout",
+      "https://www.hogbaysoftware.com/posts/moby-dick-workout/"
+    ]
+  ],
+  [
+    [
+      "2026-07-05, 04:29:05",
+      "https://news.ycombinator.com/item?id=48791256"
+    ],
+    [
+      "My ASN Journey series (2024)",
+      "https://www.animmouse.com/p/my-asn-journey/"
+    ]
+  ],
+  [
+    [
+      "2026-07-05, 04:18:54",
+      "https://news.ycombinator.com/item?id=48791224"
+    ],
+    [
+      "Reading Minds with Ultrasound: Less-Invasive Technique for Brain's Intentions (2021)",
+      "https://www.caltech.edu/about/news/reading-minds-with-ultrasound-a-less-invasive-technique-to-decode-the-brains-intentions"
+    ]
+  ],
+  [
+    [
+      "2026-07-05, 03:44:54",
+      "https://news.ycombinator.com/item?id=48791091"
+    ],
+    [
+      "President pardons 9 for Clean Air violations for 'fixing their car'",
+      "https://www.msn.com/en-us/news/crime/trump-pardons-9-for-clean-air-violations-for-fixing-their-car/ar-AA27cSkT"
+    ]
+  ],
+  [
+    [
       "2026-07-05, 02:57:52",
       "https://news.ycombinator.com/item?id=48790913"
     ],
     [
       "University of Oxford Is Older Than the Aztec Empire and Other Facts of History (2013)",
       "https://www.smithsonianmag.com/smart-news/university-oxford-older-than-aztec-empire-other-facts-will-change-your-perspective-history-1529607/"
+    ]
+  ],
+  [
+    [
+      "2026-07-05, 02:57:38",
+      "https://news.ycombinator.com/item?id=48790912"
+    ],
+    [
+      "The Log Is the Agent",
+      "https://arxiv.org/abs/2605.21997"
+    ]
+  ],
+  [
+    [
+      "2026-07-05, 02:54:13",
+      "https://news.ycombinator.com/item?id=48790898"
+    ],
+    [
+      "Backon – Python retry (zero deps, circuit breaker, async native)",
+      "https://github.com/Llucs/backon"
     ]
   ],
   [
@@ -31,12 +121,12 @@
   ],
   [
     [
-      "2026-07-05, 00:48:15",
-      "https://news.ycombinator.com/item?id=48790349"
+      "2026-07-05, 01:23:11",
+      "https://news.ycombinator.com/item?id=48790512"
     ],
     [
-      "Egg consumption inversely correlated with Alzheimer's",
-      "https://pubmed.ncbi.nlm.nih.gov/42002260/"
+      "Record-breaking solo rower Kelsey Pfendler arrives in Hawaii",
+      "https://www.hawaiinewsnow.com/2026/07/04/record-breaking-solo-rower-kelsey-pfendler-arrives-hawaii/"
     ]
   ],
   [
@@ -47,26 +137,6 @@
     [
       "Return of the Nigerian Prince Redux: Beware Book Club and Book Review Scams (2025)",
       "https://writerbeware.blog/2025/09/19/return-of-the-nigerian-prince-redux-beware-book-club-and-book-review-scams/"
-    ]
-  ],
-  [
-    [
-      "2026-07-04, 23:36:11",
-      "https://news.ycombinator.com/item?id=48790036"
-    ],
-    [
-      "Reflections on the Guillotine (1957)",
-      "https://theanarchistlibrary.org/library/albert-camus-reflections-on-the-guillotine"
-    ]
-  ],
-  [
-    [
-      "2026-07-04, 23:25:53",
-      "https://news.ycombinator.com/item?id=48789986"
-    ],
-    [
-      "Mapping with In-Memory Layers to Reduce LLM Overload",
-      "https://ridgetext.com/blog/mapbox-llm-composition"
     ]
   ],
   [
@@ -101,16 +171,6 @@
   ],
   [
     [
-      "2026-07-04, 20:38:39",
-      "https://news.ycombinator.com/item?id=48788849"
-    ],
-    [
-      "Protocol Prying: Vulnerability Research in AirDrop and Quick Share",
-      "https://arxiv.org/abs/2606.26967"
-    ]
-  ],
-  [
-    [
       "2026-07-04, 20:16:22",
       "https://news.ycombinator.com/item?id=48788599"
     ],
@@ -137,16 +197,6 @@
     [
       "As downtown Seattle offices empty, city facing years of 'zombie' towers",
       "https://www.seattletimes.com/business/local-business/as-downtown-seattle-offices-empty-city-facing-years-of-zombie-towers/"
-    ]
-  ],
-  [
-    [
-      "2026-07-04, 17:37:21",
-      "https://news.ycombinator.com/item?id=48787201"
-    ],
-    [
-      "BareMetal RAM Dumper – Bare-metal x86 tool for Cold Boot Attack experiments",
-      "https://github.com/pIat0n/BareMetal-RAM-Dumper"
     ]
   ],
   [
@@ -191,52 +241,12 @@
   ],
   [
     [
-      "2026-07-04, 15:49:08",
-      "https://news.ycombinator.com/item?id=48786245"
-    ],
-    [
-      "Fable created novel 4D splat format",
-      "https://adamraudonis.github.io/splats4D/"
-    ]
-  ],
-  [
-    [
-      "2026-07-04, 14:52:25",
-      "https://news.ycombinator.com/item?id=48785840"
-    ],
-    [
-      "Windows CE Dreamcast Community Edition (wince-dc)",
-      "https://github.com/maximqaxd/wince-dc"
-    ]
-  ],
-  [
-    [
       "2026-07-04, 14:03:40",
       "https://news.ycombinator.com/item?id=48785485"
     ],
     [
       "Potential session/cache leakage between workspace instances or consumer accounts",
       "https://github.com/anthropics/claude-code/issues/74066"
-    ]
-  ],
-  [
-    [
-      "2026-07-04, 12:00:57",
-      "https://news.ycombinator.com/item?id=48784777"
-    ],
-    [
-      "Explanation of everything you can see in htop/top on Linux (2019)",
-      "https://peteris.rocks/blog/htop/"
-    ]
-  ],
-  [
-    [
-      "2026-07-03, 19:21:33",
-      "https://news.ycombinator.com/item?id=48778901"
-    ],
-    [
-      "How to Enjoy John Ashbery",
-      "https://joshuacorey.substack.com/p/how-to-enjoy-john-ashbery"
     ]
   ],
   [
@@ -251,6 +261,16 @@
   ],
   [
     [
+      "2026-07-01, 18:23:45",
+      "https://news.ycombinator.com/item?id=48751144"
+    ],
+    [
+      "Artful Cats: Feline-Inspired Art and Artifacts",
+      "https://www.si.edu/spotlight/art-cats"
+    ]
+  ],
+  [
+    [
       "2026-07-01, 17:30:58",
       "https://news.ycombinator.com/item?id=48750405"
     ],
@@ -261,22 +281,12 @@
   ],
   [
     [
-      "2026-07-01, 13:22:19",
-      "https://news.ycombinator.com/item?id=48746327"
+      "2026-07-01, 13:16:53",
+      "https://news.ycombinator.com/item?id=48746249"
     ],
     [
-      "The Vespa at 80",
-      "https://www.cbc.ca/news/world/vespa-italy-postwar-design-9.7252641"
-    ]
-  ],
-  [
-    [
-      "2026-07-01, 07:41:04",
-      "https://news.ycombinator.com/item?id=48743462"
-    ],
-    [
-      "It's not me, it's the compiler",
-      "https://parsa.wtf/cast/"
+      "The Particle Box – Kinetic Molecular Theory Simulator",
+      "https://prepok.com/chemistry/particle-box/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "What ORMs have taught me: just learn SQL (2014)",
       "https://wozniak.ca/blog/2014/08/03/1/index.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-30, 19:57:37",
-      "https://news.ycombinator.com/item?id=48738395"
-    ],
-    [
-      "Drone Physics",
-      "https://iahmed.me/post/drone-physics/"
     ]
   ]
 ]
