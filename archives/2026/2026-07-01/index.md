@@ -66,6 +66,7 @@
 * [2026-07-01, 14:00:15](https://news.ycombinator.com/item?id=48746933) - [Trust your compiler: Modern C++](https://categorica.io/blog/2026.06.29_trust_your_compiler/)
 * [2026-07-01, 13:59:13](https://news.ycombinator.com/item?id=48746914) - [Monetization Gateway](https://blog.cloudflare.com/monetization-gateway/)
 * [2026-07-01, 13:54:25](https://news.ycombinator.com/item?id=48746842) - [Your Kids' School Bus Is About to Become a Roaming Surveillance Vehicle](https://www.thedrive.com/news/your-kids-school-bus-is-about-to-become-a-roaming-surveillance-vehicle)
+* [2026-07-01, 13:49:59](https://news.ycombinator.com/item?id=48746771) - [Medieval-style fortifications are back in the Sahel](https://www.economist.com/middle-east-and-africa/2026/06/25/medieval-style-fortifications-are-back-in-the-sahel)
 * [2026-07-01, 13:48:44](https://news.ycombinator.com/item?id=48746752) - [Launch HN: Parsewise (YC P25) – Reason Across Documents with an API](https://news.ycombinator.com/item?id=48746752)
 * [2026-07-01, 13:45:32](https://news.ycombinator.com/item?id=48746695) - [Notes from Building Tinkerfont](https://mighil.com/notes-from-building-tinkerfont)
 * [2026-07-01, 13:29:29](https://news.ycombinator.com/item?id=48746445) - [Why I Stopped Arguing with People](https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html)

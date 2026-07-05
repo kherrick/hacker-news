@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-07-05](index.md)
 
+* [2026-07-05, 13:28:11](https://news.ycombinator.com/item?id=48794179) - [Phosh 0.56.0](https://phosh.mobi/releases/rel-0.56.0/)
 * [2026-07-05, 12:29:44](https://news.ycombinator.com/item?id=48793726) - [Educators disciplined over Charlie Kirk posts are securing big payouts](https://www.nbcnews.com/news/us-news/educators-disciplined-charlie-kirk-posts-are-securing-big-payouts-rcna352568)
 * [2026-07-05, 12:28:04](https://news.ycombinator.com/item?id=48793716) - [The Engineer in the Half-Space](https://yusufaytas.com/the-engineer-in-the-half-space)
 * [2026-07-05, 12:06:57](https://news.ycombinator.com/item?id=48793542) - [Show HN: KiCad in the Browser](https://demo.pcbjam.com/)
+* [2026-07-05, 11:59:27](https://news.ycombinator.com/item?id=48793492) - [Cannabis Users Face Substantially Higher Risk of Heart Attack (2025)](https://www.acc.org/about-acc/press-releases/2025/03/17/15/35/cannabis-users-face-substantially-higher-risk)
 * [2026-07-05, 11:54:16](https://news.ycombinator.com/item?id=48793454) - [Introduction to Compilers and Language Design](https://dthain.github.io/books/compiler/)
 * [2026-07-05, 10:56:44](https://news.ycombinator.com/item?id=48793102) - [Returning to Zig after losing trust in Rust's governance](https://gracefulliberty.com/articles/return-to-zig/)
 * [2026-07-05, 10:50:53](https://news.ycombinator.com/item?id=48793073) - [Pi square is nearly 10](https://mihai.page/pi-square-is-10/)
