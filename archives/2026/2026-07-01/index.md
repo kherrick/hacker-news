@@ -35,6 +35,7 @@
 * [2026-07-01, 17:55:03](https://news.ycombinator.com/item?id=48750737) - [Show HN: LIBR tracing with source ledger rows and byte-exact PDF verification](https://exitprotocols.com/engineering/libr-state-machine/)
 * [2026-07-01, 17:53:44](https://news.ycombinator.com/item?id=48750710) - [What to Learn to Be a Graphics Programmer](https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/)
 * [2026-07-01, 17:50:25](https://news.ycombinator.com/item?id=48750661) - [My OSCP Pentesting Cheatsheet](https://hackerask.com/posts/pentesting-cheatsheet/)
+* [2026-07-01, 17:48:03](https://news.ycombinator.com/item?id=48750631) - [About the Digital Art](https://www.tricivenola.com/about-the-digital-art/)
 * [2026-07-01, 17:45:17](https://news.ycombinator.com/item?id=48750593) - [Building Gin: Simple over Easy](https://manualmeida.dev/articles/gin-simple-over-easy/)
 * [2026-07-01, 17:41:00](https://news.ycombinator.com/item?id=48750527) - [Hanami 3.0: In Full Bloom](https://hanakai.org/blog/2026/06/30/hanami-3-0-in-full-bloom)
 * [2026-07-01, 17:32:15](https://news.ycombinator.com/item?id=48750427) - [Chasing the OPNsense RCE: The Story Behind My First CVEs](https://hackerask.com/posts/opnsense/)

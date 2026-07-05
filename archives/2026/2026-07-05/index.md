@@ -6,6 +6,8 @@
 
 * [2026-07-05, 08:32:09](https://news.ycombinator.com/item?id=48792352) - [Apocketlypse](https://0dd.company/galleries/triumph/1.html)
 * [2026-07-05, 08:01:29](https://news.ycombinator.com/item?id=48792203) - [Web-based cryptography is always snake oil](https://www.devever.net/~hl/webcrypto)
+* [2026-07-05, 07:39:35](https://news.ycombinator.com/item?id=48792080) - [Programmers need to start meditating now](https://jacob.gold/posts/programmers-need-to-start-meditating-now/)
+* [2026-07-05, 07:25:25](https://news.ycombinator.com/item?id=48792008) - [Fast Software, the Best Software](https://craigmod.com/essays/fast_software/)
 * [2026-07-05, 07:22:08](https://news.ycombinator.com/item?id=48791990) - [Reducing Assumptions, Exploding Your Code](https://ryelang.org/blog/posts/reducing_assumptions_but_exploding/)
 * [2026-07-05, 06:40:05](https://news.ycombinator.com/item?id=48791799) - [Is The Economist Always Wrong?](https://economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong)
 * [2026-07-05, 06:30:40](https://news.ycombinator.com/item?id=48791755) - [EV Batteries Are Defying Expectations After Miles](https://www.wsj.com/business/autos/ev-batteries-are-defying-expectations-after-hundreds-of-thousands-of-miles-8579de13)
