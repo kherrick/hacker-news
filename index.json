@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-06, 18:55:07",
+      "https://news.ycombinator.com/item?id=48808928"
+    ],
+    [
+      "CoMaps – FOSS Offline Maps",
+      "https://www.comaps.app/"
+    ]
+  ],
+  [
+    [
+      "2026-07-06, 18:35:54",
+      "https://news.ycombinator.com/item?id=48808663"
+    ],
+    [
+      "Linux on the Atari Jaguar. No, really.",
+      "https://cakehonolulu.github.io/linux-for-jaguar/"
+    ]
+  ],
+  [
+    [
       "2026-07-06, 18:24:34",
       "https://news.ycombinator.com/item?id=48808508"
     ],
@@ -41,36 +61,6 @@
   ],
   [
     [
-      "2026-07-06, 17:33:38",
-      "https://news.ycombinator.com/item?id=48807884"
-    ],
-    [
-      "Fable Built a 3D Model of Aristotle's Cognitive Architecture",
-      "https://conceptual-spaces.vercel.app"
-    ]
-  ],
-  [
-    [
-      "2026-07-06, 17:16:41",
-      "https://news.ycombinator.com/item?id=48807651"
-    ],
-    [
-      "Big Tech Has Suddenly Flipped on the AI Jobs Wipeout Scenario",
-      "https://www.wsj.com/tech/ai/ai-workers-tech-ceos-job-losses-afc71e15"
-    ]
-  ],
-  [
-    [
-      "2026-07-06, 16:58:51",
-      "https://news.ycombinator.com/item?id=48807383"
-    ],
-    [
-      "The Supreme Court Just Lit a Fuse Under Flock's License Plate Camera Empire",
-      "https://www.yahoo.com/news/politics/articles/supreme-court-just-lit-fuse-130900307.html"
-    ]
-  ],
-  [
-    [
       "2026-07-06, 16:47:44",
       "https://news.ycombinator.com/item?id=48807225"
     ],
@@ -87,6 +77,16 @@
     [
       "Stealth robotics startup (YC S26) is hiring principal engineers (Palo Alto)",
       "https://news.ycombinator.com/item?id=48806976"
+    ]
+  ],
+  [
+    [
+      "2026-07-06, 16:17:04",
+      "https://news.ycombinator.com/item?id=48806741"
+    ],
+    [
+      "Orasort: 5x faster column-sorting with an expired patent from Oracle",
+      "https://deepsystemstuff.com/how-oracles-secret-column-sorting-technique-became-public-after-its-patent-expired-making-sorting-5x-faster/"
     ]
   ],
   [
@@ -111,22 +111,22 @@
   ],
   [
     [
-      "2026-07-06, 15:45:11",
-      "https://news.ycombinator.com/item?id=48806296"
-    ],
-    [
-      "The AI Superforecasters Are Here",
-      "https://www.astralcodexten.com/p/the-ai-superforecasters-are-here"
-    ]
-  ],
-  [
-    [
       "2026-07-06, 15:44:44",
       "https://news.ycombinator.com/item?id=48806289"
     ],
     [
       "Should DayQuil Be Legal?",
       "https://www.theargumentmag.com/p/should-dayquil-be-legal"
+    ]
+  ],
+  [
+    [
+      "2026-07-06, 15:35:07",
+      "https://news.ycombinator.com/item?id=48806156"
+    ],
+    [
+      "Eternal Software Initiative Based on Subleq One-Instruction-Set Computer",
+      "https://github.com/adriancable/eternal"
     ]
   ],
   [
@@ -157,16 +157,6 @@
     [
       "AMD Ryzen AI Halo – $4k AI Dev Kit",
       "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo"
-    ]
-  ],
-  [
-    [
-      "2026-07-06, 14:45:31",
-      "https://news.ycombinator.com/item?id=48805401"
-    ],
-    [
-      "What Emily Bender meant by \"stochastic parrots\"",
-      "https://spectrum.ieee.org/stochastic-parrot"
     ]
   ],
   [
@@ -251,6 +241,16 @@
   ],
   [
     [
+      "2026-07-03, 02:03:45",
+      "https://news.ycombinator.com/item?id=48769854"
+    ],
+    [
+      "Using precision editing to study human embryo development shows master gene",
+      "https://www.cam.ac.uk/research/news/first-use-of-precision-editing-to-study-human-embryo-development-reveals-role-of-master-gene"
+    ]
+  ],
+  [
+    [
       "2026-07-02, 23:52:11",
       "https://news.ycombinator.com/item?id=48768935"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-07-01, 14:00:29",
-      "https://news.ycombinator.com/item?id=48746939"
+      "2026-07-01, 07:26:05",
+      "https://news.ycombinator.com/item?id=48743362"
     ],
     [
-      "I Like Small Keyboards",
-      "https://samsm.ch/small-keyboards/"
+      "Apricot Computers: An underrated British brand",
+      "https://dfarq.homeip.net/apricot-computers-an-underrated-british-brand/"
     ]
   ]
 ]
