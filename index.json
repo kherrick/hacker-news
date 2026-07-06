@@ -1,32 +1,32 @@
 [
   [
     [
+      "2026-07-06, 01:14:23",
+      "https://news.ycombinator.com/item?id=48799677"
+    ],
+    [
+      "Children Adopt AI 3x Faster Than Adults – and We're Not Ready",
+      "https://hackenewhome.blogspot.com/p/ai-is-taking-over-kids-lives-unicef.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-06, 01:04:03",
+      "https://news.ycombinator.com/item?id=48799614"
+    ],
+    [
+      "GPT-5.6 Sol Ultra will be in Codex",
+      "https://twitter.com/thsottiaux/status/2073933490513752151"
+    ]
+  ],
+  [
+    [
       "2026-07-06, 00:04:48",
       "https://news.ycombinator.com/item?id=48799256"
     ],
     [
       "Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
       "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt"
-    ]
-  ],
-  [
-    [
-      "2026-07-05, 23:58:43",
-      "https://news.ycombinator.com/item?id=48799220"
-    ],
-    [
-      "Strange Balls found on Queensland beaches could be toxic 'space debris': experts",
-      "https://www.inkl.com/news/strange-balls-found-on-queensland-beaches-could-be-toxic-space-debris-experts-warn"
-    ]
-  ],
-  [
-    [
-      "2026-07-05, 23:54:43",
-      "https://news.ycombinator.com/item?id=48799192"
-    ],
-    [
-      "Building Agents That Don't Break Themselves",
-      "https://fly.io/blog/building-agents-that-dont-break-themselves/"
     ]
   ],
   [
@@ -57,6 +57,26 @@
     [
       "Connections in Math: the two kinds of random",
       "https://stillthinking.net/posts/connections-in-math-two-kinds-of-random/"
+    ]
+  ],
+  [
+    [
+      "2026-07-05, 23:03:55",
+      "https://news.ycombinator.com/item?id=48798815"
+    ],
+    [
+      "Does Code Cleanliness Affect Coding Agents?",
+      "https://arxiv.org/abs/2605.20049"
+    ]
+  ],
+  [
+    [
+      "2026-07-05, 22:36:44",
+      "https://news.ycombinator.com/item?id=48798605"
+    ],
+    [
+      "The AI Compass Quiz",
+      "https://bambamramfan.github.io/ai-compass/"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2026-07-05, 20:24:31",
-      "https://news.ycombinator.com/item?id=48797655"
-    ],
-    [
-      "Zero-copy in Go: sendfile, splice, and the cost of io.Copy",
-      "https://segflow.github.io/post/zero-copy-sendfile-splice/"
-    ]
-  ],
-  [
-    [
       "2026-07-05, 20:00:30",
       "https://news.ycombinator.com/item?id=48797467"
     ],
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2026-07-05, 15:29:00",
-      "https://news.ycombinator.com/item?id=48795004"
-    ],
-    [
-      "Lean Software Scaling Laws",
-      "https://gwern.net/lean-scaling"
-    ]
-  ],
-  [
-    [
       "2026-07-05, 14:56:15",
       "https://news.ycombinator.com/item?id=48794750"
     ],
@@ -247,16 +247,6 @@
     [
       "Organic Maps",
       "https://organicmaps.app/"
-    ]
-  ],
-  [
-    [
-      "2026-07-05, 13:47:44",
-      "https://news.ycombinator.com/item?id=48794302"
-    ],
-    [
-      "Run Windows 2000 on a DEC Alpha with a new es40 fork",
-      "https://raymii.org/s/blog/Run_Windows_2000_for_Dec_Alpha_on_a_new_es40_fork.html"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "The Writers Who Wrote the Most in History",
       "https://brennan.day/compulsion-the-writers-who-wrote-the-most-in-history/"
+    ]
+  ],
+  [
+    [
+      "2026-07-01, 18:20:06",
+      "https://news.ycombinator.com/item?id=48751094"
+    ],
+    [
+      "A Forlorn Hope of Fortran Modernisation",
+      "https://amenzwa.github.io/stem/PL/FortranModernisation/"
     ]
   ]
 ]
