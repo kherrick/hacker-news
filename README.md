@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-06, 09:38:36](https://news.ycombinator.com/item?id=48802535) - [Real-time map of Great Britain's rail network](https://www.map.signalbox.io)
 * [2026-07-06, 07:05:25](https://news.ycombinator.com/item?id=48801493) - [When AI Costs More Than the Engineer](https://tomtunguz.com/ai-spend-breakeven-2029/)
 * [2026-07-06, 07:04:33](https://news.ycombinator.com/item?id=48801488) - [Generate parametric, manufacturable 3D models in seconds](https://kyrall.com/)
 * [2026-07-06, 02:06:49](https://news.ycombinator.com/item?id=48799929) - [Building relationships with customers through support didn't turn out as hoped](https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support)
@@ -17,7 +18,6 @@
 * [2026-07-05, 20:00:30](https://news.ycombinator.com/item?id=48797467) - [Cursed circuits #5: capacitance multiplier](https://lcamtuf.substack.com/p/cursed-circuits-capacitance-multiplier)
 * [2026-07-05, 19:22:51](https://news.ycombinator.com/item?id=48797141) - [Delta flight hit by firework while landing at Midway Airport on Fourth of July](https://www.nbcchicago.com/news/local/delta-flight-hit-by-firework-while-landing-at-midway-airport-on-fourth-of-july/3957451/)
 * [2026-07-05, 18:47:43](https://news.ycombinator.com/item?id=48796817) - [New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]](https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf)
-* [2026-07-05, 18:46:07](https://news.ycombinator.com/item?id=48796792) - [You need a webring](https://shub.club/writings/2026/july/you-need-a-webring/)
 * [2026-07-05, 18:22:00](https://news.ycombinator.com/item?id=48796552) - [The future of Flipper Zero development](https://blog.flipper.net/future-of-flipper-zero-development/)
 * [2026-07-05, 17:33:04](https://news.ycombinator.com/item?id=48796093) - [Starring the Computer](https://www.starringthecomputer.com/computers.html)
 * [2026-07-05, 14:56:15](https://news.ycombinator.com/item?id=48794750) - [It's not about physical vs. digital games, it's about ownership](https://popcar.bearblog.dev/its-about-ownership/)
@@ -26,8 +26,8 @@
 * [2026-07-03, 13:21:33](https://news.ycombinator.com/item?id=48774720) - [Behind the scenes with the Midjourney scanner [video]](https://www.youtube.com/watch?v=4nzzpUKhj1M)
 * [2026-07-03, 03:13:53](https://news.ycombinator.com/item?id=48770291) - [Mr. Baby Paint and accidentally discovering a new cellular automata](https://tekstien-marginaalien-keskus.aalto.fi/residenssi/heikki/blog/004-december-2/)
 * [2026-07-02, 20:38:06](https://news.ycombinator.com/item?id=48767058) - [Zuckerberg says AI agent development going slower than expected](https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/)
-* [2026-07-02, 19:57:43](https://news.ycombinator.com/item?id=48766556) - [Show HN: Visualize Model Spikiness in 3D](https://www.modelmap.tech/)
 * [2026-07-02, 18:45:17](https://news.ycombinator.com/item?id=48765706) - [Modernizing a 25-year-old minimal C++ unit testing framework (Part 2)](https://freshsources.com/code-capsules/test-part2/)
+* [2026-07-02, 12:28:20](https://news.ycombinator.com/item?id=48760424) - [Introduction to Genomics for Engineers](https://learngenomics.dev/docs/biological-foundations/cells-genomes-dna-chromosomes/)
 * [2026-07-02, 09:36:04](https://news.ycombinator.com/item?id=48758802) - [The great blogging collapse: What happened to 100 successful blogs?](https://danielstanica.com/posts/Great-Blogging-Collapse)
 * [2026-07-02, 07:42:33](https://news.ycombinator.com/item?id=48757900) - [The Age of Personalized Hardware Is Coming](https://geastack.com/blog-the-age-of-personalized-hardware-is-coming)
 

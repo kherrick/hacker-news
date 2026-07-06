@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-06](index.md)
 
+* [2026-07-06, 09:38:36](https://news.ycombinator.com/item?id=48802535) - [Real-time map of Great Britain's rail network](https://www.map.signalbox.io)
 * [2026-07-06, 07:05:25](https://news.ycombinator.com/item?id=48801493) - [When AI Costs More Than the Engineer](https://tomtunguz.com/ai-spend-breakeven-2029/)
 * [2026-07-06, 07:04:33](https://news.ycombinator.com/item?id=48801488) - [Generate parametric, manufacturable 3D models in seconds](https://kyrall.com/)
 * [2026-07-06, 02:24:15](https://news.ycombinator.com/item?id=48800026) - [Shrimple – A Simpler, Nicer Markdown](https://qount25.dev/Shrimple/)

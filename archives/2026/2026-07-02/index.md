@@ -67,6 +67,7 @@
 * [2026-07-02, 12:43:25](https://news.ycombinator.com/item?id=48760633) - [The Economy Is K-Shaped](https://moai.studio/blog/posts/economy-is-k-shaped.html)
 * [2026-07-02, 12:40:36](https://news.ycombinator.com/item?id=48760598) - [AI fake news complaining about how AI fake news is the death of real news](https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/)
 * [2026-07-02, 12:33:08](https://news.ycombinator.com/item?id=48760490) - [NSA tries to weaken mlkem standardisation](https://nsa.2026.action.cr.yp.to)
+* [2026-07-02, 12:28:20](https://news.ycombinator.com/item?id=48760424) - [Introduction to Genomics for Engineers](https://learngenomics.dev/docs/biological-foundations/cells-genomes-dna-chromosomes/)
 * [2026-07-02, 12:17:33](https://news.ycombinator.com/item?id=48760289) - [This blog is written in en-GB](https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/)
 * [2026-07-02, 12:10:24](https://news.ycombinator.com/item?id=48760201) - [Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train](https://arxiv.org/abs/2607.01232)
 * [2026-07-02, 12:02:47](https://news.ycombinator.com/item?id=48760106) - [Is the iPhone birth control? Causal evidence from AT&T's 2007-2011 monopoly [pdf]](https://www.nber.org/system/files/working_papers/w35310/w35310.pdf)
