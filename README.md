@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-07-06, 02:24:15](https://news.ycombinator.com/item?id=48800026) - [Shrimple – A Simpler, Nicer Markdown](https://qount25.dev/Shrimple/)
-* [2026-07-06, 02:06:49](https://news.ycombinator.com/item?id=48799929) - [Building relationships with customers through support didn't turn out as hoped](https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support)
 * [2026-07-06, 01:35:09](https://news.ycombinator.com/item?id=48799781) - [The Sneakerweb](https://sneakerweb.org/)
 * [2026-07-06, 01:04:03](https://news.ycombinator.com/item?id=48799614) - [GPT-5.6 Sol Ultra will be in Codex](https://twitter.com/thsottiaux/status/2073933490513752151)
 * [2026-07-06, 00:04:48](https://news.ycombinator.com/item?id=48799256) - [Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills](https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt)
@@ -23,6 +22,7 @@
 * [2026-07-05, 17:33:04](https://news.ycombinator.com/item?id=48796093) - [Starring the Computer](https://www.starringthecomputer.com/computers.html)
 * [2026-07-05, 14:56:15](https://news.ycombinator.com/item?id=48794750) - [It's not about physical vs. digital games, it's about ownership](https://popcar.bearblog.dev/its-about-ownership/)
 * [2026-07-05, 14:14:30](https://news.ycombinator.com/item?id=48794446) - [Organic Maps](https://organicmaps.app/)
+* [2026-07-05, 13:47:44](https://news.ycombinator.com/item?id=48794302) - [Run Windows 2000 on a DEC Alpha with a new es40 fork](https://raymii.org/s/blog/Run_Windows_2000_for_Dec_Alpha_on_a_new_es40_fork.html)
 * [2026-07-03, 03:13:53](https://news.ycombinator.com/item?id=48770291) - [Mr. Baby Paint and accidentally discovering a new cellular automata](https://tekstien-marginaalien-keskus.aalto.fi/residenssi/heikki/blog/004-december-2/)
 * [2026-07-03, 00:10:34](https://news.ycombinator.com/item?id=48769058) - [An Ordinary Mind on an Ordinary Day](https://www.laphamsquarterly.org/roundtable/ordinary-mind-ordinary-day)
 * [2026-07-02, 20:38:06](https://news.ycombinator.com/item?id=48767058) - [Zuckerberg says AI agent development going slower than expected](https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/)
