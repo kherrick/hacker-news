@@ -85,7 +85,7 @@
       "https://news.ycombinator.com/item?id=48798815"
     ],
     [
-      "Does Code Cleanliness Affect Coding Agents?",
+      "Does code cleanliness affect coding agents? A controlled minimal-pair study",
       "https://arxiv.org/abs/2605.20049"
     ]
   ],
@@ -231,26 +231,6 @@
   ],
   [
     [
-      "2026-07-05, 13:47:44",
-      "https://news.ycombinator.com/item?id=48794302"
-    ],
-    [
-      "Run Windows 2000 on a DEC Alpha with a new es40 fork",
-      "https://raymii.org/s/blog/Run_Windows_2000_for_Dec_Alpha_on_a_new_es40_fork.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-05, 11:54:16",
-      "https://news.ycombinator.com/item?id=48793454"
-    ],
-    [
-      "Introduction to Compilers and Language Design (2021)",
-      "https://dthain.github.io/books/compiler/"
-    ]
-  ],
-  [
-    [
       "2026-07-03, 03:13:53",
       "https://news.ycombinator.com/item?id=48770291"
     ],
@@ -277,6 +257,26 @@
     [
       "Zuckerberg says AI agent development going slower than expected",
       "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/"
+    ]
+  ],
+  [
+    [
+      "2026-07-02, 18:45:17",
+      "https://news.ycombinator.com/item?id=48765706"
+    ],
+    [
+      "Modernizing a 25-year-old minimal C++ unit testing framework (Part 2)",
+      "https://freshsources.com/code-capsules/test-part2/"
+    ]
+  ],
+  [
+    [
+      "2026-07-02, 18:18:31",
+      "https://news.ycombinator.com/item?id=48765394"
+    ],
+    [
+      "Platonic Hydrocarbons",
+      "https://en.wikipedia.org/wiki/Platonic_hydrocarbon"
     ]
   ],
   [
