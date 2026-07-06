@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-06, 09:38:36",
+      "https://news.ycombinator.com/item?id=48802535"
+    ],
+    [
+      "Real-time map of Great Britain's rail network",
+      "https://www.map.signalbox.io"
+    ]
+  ],
+  [
+    [
       "2026-07-06, 07:05:25",
       "https://news.ycombinator.com/item?id=48801493"
     ],
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2026-07-05, 18:46:07",
-      "https://news.ycombinator.com/item?id=48796792"
-    ],
-    [
-      "You need a webring",
-      "https://shub.club/writings/2026/july/you-need-a-webring/"
-    ]
-  ],
-  [
-    [
       "2026-07-05, 18:22:00",
       "https://news.ycombinator.com/item?id=48796552"
     ],
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2026-07-02, 19:57:43",
-      "https://news.ycombinator.com/item?id=48766556"
-    ],
-    [
-      "Show HN: Visualize Model Spikiness in 3D",
-      "https://www.modelmap.tech/"
-    ]
-  ],
-  [
-    [
       "2026-07-02, 18:45:17",
       "https://news.ycombinator.com/item?id=48765706"
     ],
     [
       "Modernizing a 25-year-old minimal C++ unit testing framework (Part 2)",
       "https://freshsources.com/code-capsules/test-part2/"
+    ]
+  ],
+  [
+    [
+      "2026-07-02, 12:28:20",
+      "https://news.ycombinator.com/item?id=48760424"
+    ],
+    [
+      "Introduction to Genomics for Engineers",
+      "https://learngenomics.dev/docs/biological-foundations/cells-genomes-dna-chromosomes/"
     ]
   ],
   [
