@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-06, 17:16:41](https://news.ycombinator.com/item?id=48807651) - [Big Tech Has Suddenly Flipped on the AI Jobs Wipeout Scenario](https://www.wsj.com/tech/ai/ai-workers-tech-ceos-job-losses-afc71e15)
 * [2026-07-06, 16:58:51](https://news.ycombinator.com/item?id=48807383) - [The Supreme Court Just Lit a Fuse Under Flock's License Plate Camera Empire](https://www.yahoo.com/news/politics/articles/supreme-court-just-lit-fuse-130900307.html)
 * [2026-07-06, 16:47:44](https://news.ycombinator.com/item?id=48807225) - [OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files](https://github.com/iOfficeAI/OfficeCLI)
 * [2026-07-06, 16:33:04](https://news.ycombinator.com/item?id=48806976) - [Stealth robotics startup (YC S26) is hiring principal engineers (Palo Alto)](https://news.ycombinator.com/item?id=48806976)
@@ -10,7 +11,6 @@
 * [2026-07-06, 15:35:07](https://news.ycombinator.com/item?id=48806156) - [Eternal Software Initiative Based on Subleq One-Instruction-Set Computer](https://github.com/adriancable/eternal)
 * [2026-07-06, 15:30:08](https://news.ycombinator.com/item?id=48806073) - [1k Words: A Writing Contest](https://writingclub.world/1picture1000words)
 * [2026-07-06, 15:23:34](https://news.ycombinator.com/item?id=48805965) - [CS2 Fog Of War: Server-sided anti-wallhack occlusion culling for CS2 servers](https://github.com/karola3vax/CS2FOW)
-* [2026-07-06, 15:04:01](https://news.ycombinator.com/item?id=48805652) - [Multilingual experience linked to delayed aging](https://fens2026.abstractserver.com/program/#/details/presentations/5474)
 * [2026-07-06, 15:01:18](https://news.ycombinator.com/item?id=48805624) - [AMD Ryzen AI Halo – $4k AI Dev Kit](https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo)
 * [2026-07-06, 14:47:45](https://news.ycombinator.com/item?id=48805437) - [Show HN: I Built LangGraph for Swift](https://github.com/christopherkarani/Swarm)
 * [2026-07-06, 14:45:31](https://news.ycombinator.com/item?id=48805401) - [What Emily Bender meant by \"stochastic parrots\"](https://spectrum.ieee.org/stochastic-parrot)
@@ -24,11 +24,11 @@
 * [2026-07-06, 11:47:37](https://news.ycombinator.com/item?id=48803364) - [Road to Elm 1.0](https://elm-lang.org/news/faster-builds)
 * [2026-07-06, 09:38:36](https://news.ycombinator.com/item?id=48802535) - [Real-time map of Great Britain's rail network](https://www.map.signalbox.io)
 * [2026-07-06, 02:06:49](https://news.ycombinator.com/item?id=48799929) - [Building relationships with customers through support didn't turn out as hoped](https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support)
-* [2026-07-06, 01:06:21](https://news.ycombinator.com/item?id=48799624) - [Lost and Found](https://walzr.com/lost-and-found)
 * [2026-07-03, 20:00:34](https://news.ycombinator.com/item?id=48779274) - [Egypt Is Building a New Nile](https://www.theb1m.com/video/egypt-is-building-a-new-nile)
 * [2026-07-02, 20:51:52](https://news.ycombinator.com/item?id=48767211) - [Clojure 1.13 adds support for checked keys](https://clojure.org/news/2026/07/02/clojure-1-13-alpha1)
 * [2026-07-02, 20:29:23](https://news.ycombinator.com/item?id=48766949) - [When 2+2=5](https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/)
 * [2026-07-02, 12:28:20](https://news.ycombinator.com/item?id=48760424) - [Introduction to Genomics for Engineers](https://learngenomics.dev/docs/biological-foundations/cells-genomes-dna-chromosomes/)
+* [2026-07-01, 14:00:29](https://news.ycombinator.com/item?id=48746939) - [I Like Small Keyboards](https://samsm.ch/small-keyboards/)
 * [2026-07-01, 07:26:05](https://news.ycombinator.com/item?id=48743362) - [Apricot Computers: An underrated British brand](https://dfarq.homeip.net/apricot-computers-an-underrated-british-brand/)
 
 ## [Archives](archives/index.md)
