@@ -4,8 +4,16 @@
 
 ### [Archives](../../index.md) for [2026-07-06](index.md)
 
+* [2026-07-06, 12:29:52](https://news.ycombinator.com/item?id=48803681) - [The AI Big Crunch Is Starting](https://medium.com/@brothke/the-ai-big-crunch-is-starting-c50612ee3a02)
+* [2026-07-06, 11:47:37](https://news.ycombinator.com/item?id=48803364) - [Road to Elm 1.0](https://elm-lang.org/news/faster-builds)
 * [2026-07-06, 11:44:39](https://news.ycombinator.com/item?id=48803347) - [C programmers commit fresh crimes against readability](https://www.theregister.com/offbeat/2026/07/05/c-programmers-commit-fresh-crimes-against-readability/5265981)
+* [2026-07-06, 11:42:46](https://news.ycombinator.com/item?id=48803338) - [\"Software Engineering\" Is Not Engineering](https://web.archive.org/web/20050615235108/http://www.geocities.com/tablizer/science.htm)
+* [2026-07-06, 11:29:30](https://news.ycombinator.com/item?id=48803244) - [Study: ultra-black coating could reduce satellite light pollution](https://www.surrey.ac.uk/news/astrophysicists-show-how-worlds-darkest-coating-could-protect-night-sky-satellite-light-pollution)
+* [2026-07-06, 10:49:29](https://news.ycombinator.com/item?id=48802971) - [How the U.S. Engineered Its Sovereignty](https://spectrum.ieee.org/us-engineered-sovereignty)
+* [2026-07-06, 10:37:58](https://news.ycombinator.com/item?id=48802885) - [X402, a static blog monetization excercise](https://shtein.me/posts/x402-poc/)
+* [2026-07-06, 10:28:32](https://news.ycombinator.com/item?id=48802818) - [Show HN: Paint the Earth on a live, interactive globe (collaborative art.)](https://earth.tattoo)
 * [2026-07-06, 09:38:36](https://news.ycombinator.com/item?id=48802535) - [Real-time map of Great Britain's rail network](https://www.map.signalbox.io)
+* [2026-07-06, 08:40:29](https://news.ycombinator.com/item?id=48802156) - [The Hitchhiker's Guide to Agentic AI](https://arxiv.org/abs/2606.24937)
 * [2026-07-06, 07:05:25](https://news.ycombinator.com/item?id=48801493) - [When AI Costs More Than the Engineer](https://tomtunguz.com/ai-spend-breakeven-2029/)
 * [2026-07-06, 07:04:33](https://news.ycombinator.com/item?id=48801488) - [Generate parametric, manufacturable 3D models in seconds](https://kyrall.com/)
 * [2026-07-06, 02:24:15](https://news.ycombinator.com/item?id=48800026) - [Shrimple – A Simpler, Nicer Markdown](https://qount25.dev/Shrimple/)
