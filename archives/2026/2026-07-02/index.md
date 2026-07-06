@@ -13,6 +13,7 @@
 * [2026-07-02, 21:03:45](https://news.ycombinator.com/item?id=48767347) - [Virginia Bans Sale of Geolocation Data](https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data)
 * [2026-07-02, 20:38:06](https://news.ycombinator.com/item?id=48767058) - [Zuckerberg says AI agent development going slower than expected](https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/)
 * [2026-07-02, 20:01:20](https://news.ycombinator.com/item?id=48766598) - [Lightning Memory-Mapped Database Manager (LMDB) 1.0](http://www.lmdb.tech/doc/)
+* [2026-07-02, 19:57:43](https://news.ycombinator.com/item?id=48766556) - [Show HN: Visualize Model Spikiness in 3D](https://www.modelmap.tech/)
 * [2026-07-02, 19:50:08](https://news.ycombinator.com/item?id=48766456) - [We Always Leave Things Unfinished](https://bigreaderbadgrades.substack.com/p/we-always-leave-things-unfinished)
 * [2026-07-02, 19:35:20](https://news.ycombinator.com/item?id=48766297) - [Wireless LAN SD](https://www.sdcard.org/developers/sd-standard-overview/sdio-isdio/wireless-lan-sd/)
 * [2026-07-02, 19:33:55](https://news.ycombinator.com/item?id=48766286) - [Great Salt Lake Tracker – Grow the Flow](https://growtheflowutah.org/laketracker/)

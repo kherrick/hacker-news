@@ -62,6 +62,7 @@
 * [2026-07-03, 14:27:26](https://news.ycombinator.com/item?id=48775484) - [Show HN: TaskPeace – a task queue my AI coding agents pull work from over MCP](https://taskpeace.com/)
 * [2026-07-03, 14:27:21](https://news.ycombinator.com/item?id=48775483) - [Anatomy of Persistent Memory's 3 Layers: Comparing ContextNest, Mem0 and Zep](https://promptowl.ai/resources/persistent-memory-ai-agents/)
 * [2026-07-03, 14:20:39](https://news.ycombinator.com/item?id=48775412) - [Heuristics for lab robotics, and where its future may go](https://www.owlposting.com/p/heuristics-for-lab-robotics-and-where)
+* [2026-07-03, 13:21:33](https://news.ycombinator.com/item?id=48774720) - [Behind the scenes with the Midjourney scanner [video]](https://www.youtube.com/watch?v=4nzzpUKhj1M)
 * [2026-07-03, 13:19:46](https://news.ycombinator.com/item?id=48774704) - [Hackers shoveled snow for company, were rewarded with network admin access](https://www.theregister.com/security/2026/07/02/hackers-shoveled-snow-for-company-were-rewarded-with-network-admin-access/5265240)
 * [2026-07-03, 13:01:49](https://news.ycombinator.com/item?id=48774518) - [Valve open source the Steam Machine e-ink screen so you can make your own](https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/)
 * [2026-07-03, 13:00:31](https://news.ycombinator.com/item?id=48774509) - [PostgreSQL and the OOM Killer: Why You Must Use Strict Memory Overcommit](https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit)
