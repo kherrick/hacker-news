@@ -86,6 +86,7 @@
 * [2026-07-03, 04:06:01](https://news.ycombinator.com/item?id=48770575) - [Every AI Visibility Tool Is Lying to You](https://canonry.ai/blog/ai-visibility-tools-are-lying)
 * [2026-07-03, 03:49:47](https://news.ycombinator.com/item?id=48770477) - [14× faster embeddings: how we rebuilt the ONNX path in Manticore](https://manticoresearch.com/blog/onnx-embeddings-speedup/)
 * [2026-07-03, 03:13:53](https://news.ycombinator.com/item?id=48770291) - [Mr. Baby Paint and accidentally discovering a new cellular automata](https://tekstien-marginaalien-keskus.aalto.fi/residenssi/heikki/blog/004-december-2/)
+* [2026-07-03, 02:03:45](https://news.ycombinator.com/item?id=48769854) - [Using precision editing to study human embryo development shows master gene](https://www.cam.ac.uk/research/news/first-use-of-precision-editing-to-study-human-embryo-development-reveals-role-of-master-gene)
 * [2026-07-03, 01:42:40](https://news.ycombinator.com/item?id=48769696) - [AI is 'not smart' so what's next in artificial intelligence?](https://www.bbc.com/news/articles/cj6gr0xkyr3o)
 * [2026-07-03, 01:37:11](https://news.ycombinator.com/item?id=48769639) - [The Safari MCP server for web developers](https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/)
 * [2026-07-03, 01:02:45](https://news.ycombinator.com/item?id=48769397) - [CarPlay Is Additive](https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts)

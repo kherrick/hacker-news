@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-06](index.md)
 
+* [2026-07-06, 18:55:07](https://news.ycombinator.com/item?id=48808928) - [CoMaps – FOSS Offline Maps](https://www.comaps.app/)
+* [2026-07-06, 18:35:54](https://news.ycombinator.com/item?id=48808663) - [Linux on the Atari Jaguar. No, really.](https://cakehonolulu.github.io/linux-for-jaguar/)
 * [2026-07-06, 18:24:34](https://news.ycombinator.com/item?id=48808508) - [Pros and Cons of Solo Development](https://johnjeffers.com/pros-and-cons-of-solo-development/)
 * [2026-07-06, 18:23:12](https://news.ycombinator.com/item?id=48808482) - [OpenWrt One – Open Hardware Router](https://openwrt.org/toh/openwrt/one)
 * [2026-07-06, 17:44:08](https://news.ycombinator.com/item?id=48808002) - [A global workspace in language models](https://www.anthropic.com/research/global-workspace)
@@ -13,6 +15,7 @@
 * [2026-07-06, 16:58:51](https://news.ycombinator.com/item?id=48807383) - [The Supreme Court Just Lit a Fuse Under Flock's License Plate Camera Empire](https://www.yahoo.com/news/politics/articles/supreme-court-just-lit-fuse-130900307.html)
 * [2026-07-06, 16:47:44](https://news.ycombinator.com/item?id=48807225) - [OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files](https://github.com/iOfficeAI/OfficeCLI)
 * [2026-07-06, 16:33:04](https://news.ycombinator.com/item?id=48806976) - [Stealth robotics startup (YC S26) is hiring principal engineers (Palo Alto)](https://news.ycombinator.com/item?id=48806976)
+* [2026-07-06, 16:17:04](https://news.ycombinator.com/item?id=48806741) - [Orasort: 5x faster column-sorting with an expired patent from Oracle](https://deepsystemstuff.com/how-oracles-secret-column-sorting-technique-became-public-after-its-patent-expired-making-sorting-5x-faster/)
 * [2026-07-06, 16:04:27](https://news.ycombinator.com/item?id=48806575) - [Show HN: Pulpie – Models for Cleaning the Web](https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cleaning-the-web/)
 * [2026-07-06, 15:53:24](https://news.ycombinator.com/item?id=48806410) - [Kani: A Model Checker for Rust](https://arxiv.org/abs/2607.01504)
 * [2026-07-06, 15:45:11](https://news.ycombinator.com/item?id=48806296) - [The AI Superforecasters Are Here](https://www.astralcodexten.com/p/the-ai-superforecasters-are-here)
