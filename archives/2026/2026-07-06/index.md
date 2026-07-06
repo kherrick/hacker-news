@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-06](index.md)
 
+* [2026-07-06, 20:59:54](https://news.ycombinator.com/item?id=48810439) - [Learning to code is still worthwhile](https://stevekrouse.com/learn-to-code)
 * [2026-07-06, 19:43:36](https://news.ycombinator.com/item?id=48809542) - [Price per 1M tokens is meaningless](https://janilowski.pl/en/blog/2026/price-per-m-tokens/)
 * [2026-07-06, 19:40:22](https://news.ycombinator.com/item?id=48809496) - [Python 3.14 compiled to metal – no interpreter](https://github.com/can1357/pon)
 * [2026-07-06, 19:16:00](https://news.ycombinator.com/item?id=48809208) - [What does Jeff Bezos think is going to happen?](https://reprog.wordpress.com/2026/07/05/what-does-jeff-bezos-think-is-going-to-happen/)

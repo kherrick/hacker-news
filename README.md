@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-06, 20:59:54](https://news.ycombinator.com/item?id=48810439) - [Learning to code is still worthwhile](https://stevekrouse.com/learn-to-code)
 * [2026-07-06, 19:43:36](https://news.ycombinator.com/item?id=48809542) - [Price per 1M tokens is meaningless](https://janilowski.pl/en/blog/2026/price-per-m-tokens/)
 * [2026-07-06, 19:40:22](https://news.ycombinator.com/item?id=48809496) - [Python 3.14 compiled to metal – no interpreter](https://github.com/can1357/pon)
 * [2026-07-06, 18:55:07](https://news.ycombinator.com/item?id=48808928) - [CoMaps – FOSS Offline Maps](https://www.comaps.app/)
@@ -13,7 +14,6 @@
 * [2026-07-06, 16:04:27](https://news.ycombinator.com/item?id=48806575) - [Show HN: Pulpie – Models for Cleaning the Web](https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cleaning-the-web/)
 * [2026-07-06, 15:53:24](https://news.ycombinator.com/item?id=48806410) - [Kani: A Model Checker for Rust](https://arxiv.org/abs/2607.01504)
 * [2026-07-06, 15:44:44](https://news.ycombinator.com/item?id=48806289) - [Should DayQuil Be Legal?](https://www.theargumentmag.com/p/should-dayquil-be-legal)
-* [2026-07-06, 15:35:07](https://news.ycombinator.com/item?id=48806156) - [Eternal Software Initiative Based on Subleq One-Instruction-Set Computer](https://github.com/adriancable/eternal)
 * [2026-07-06, 15:30:08](https://news.ycombinator.com/item?id=48806073) - [1k Words: A Writing Contest](https://writingclub.world/1picture1000words)
 * [2026-07-06, 15:23:34](https://news.ycombinator.com/item?id=48805965) - [CS2 Fog Of War: Server-sided anti-wallhack occlusion culling for CS2 servers](https://github.com/karola3vax/CS2FOW)
 * [2026-07-06, 15:01:18](https://news.ycombinator.com/item?id=48805624) - [AMD Ryzen AI Halo – $4k AI Dev Kit](https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo)
@@ -23,13 +23,13 @@
 * [2026-07-06, 12:38:13](https://news.ycombinator.com/item?id=48803762) - [Fable 5 On Vending-Bench: Misbehaving, With Plausible Deniability](https://andonlabs.com/blog/fable5-vending-bench)
 * [2026-07-06, 11:47:37](https://news.ycombinator.com/item?id=48803364) - [Road to Elm 1.0](https://elm-lang.org/news/faster-builds)
 * [2026-07-06, 09:38:36](https://news.ycombinator.com/item?id=48802535) - [Real-time map of Great Britain's rail network](https://www.map.signalbox.io)
+* [2026-07-04, 06:43:29](https://news.ycombinator.com/item?id=48783175) - [The LLVM Compiler Infrastructure](https://cacm.acm.org/federal-funding-of-academic-research/the-llvm-compiler-infrastructure/)
 * [2026-07-03, 20:00:34](https://news.ycombinator.com/item?id=48779274) - [Egypt Is Building a New Nile](https://www.theb1m.com/video/egypt-is-building-a-new-nile)
 * [2026-07-03, 02:03:45](https://news.ycombinator.com/item?id=48769854) - [Using precision editing to study human embryo development shows master gene](https://www.cam.ac.uk/research/news/first-use-of-precision-editing-to-study-human-embryo-development-reveals-role-of-master-gene)
 * [2026-07-02, 23:52:11](https://news.ycombinator.com/item?id=48768935) - [Hobbes – A Language and Embedded JIT Compiler](https://github.com/morganstanley/hobbes)
 * [2026-07-02, 20:51:52](https://news.ycombinator.com/item?id=48767211) - [Clojure 1.13 adds support for checked keys](https://clojure.org/news/2026/07/02/clojure-1-13-alpha1)
 * [2026-07-02, 12:28:20](https://news.ycombinator.com/item?id=48760424) - [Introduction to Genomics for Engineers](https://learngenomics.dev/docs/biological-foundations/cells-genomes-dna-chromosomes/)
 * [2026-07-01, 14:56:17](https://news.ycombinator.com/item?id=48747889) - [Rotman Lens](https://en.wikipedia.org/wiki/Rotman_lens)
-* [2026-07-01, 07:26:05](https://news.ycombinator.com/item?id=48743362) - [Apricot Computers: An underrated British brand](https://dfarq.homeip.net/apricot-computers-an-underrated-british-brand/)
 
 ## [Archives](archives/index.md)
 

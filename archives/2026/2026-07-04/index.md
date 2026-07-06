@@ -48,6 +48,7 @@
 * [2026-07-04, 11:39:01](https://news.ycombinator.com/item?id=48784662) - [The Reports of Jim Carrey's Death Are a Failure Mode](https://tane.dev/2026/07/the-reports-of-jim-carreys-death-are-a-failure-mode/)
 * [2026-07-04, 09:08:09](https://news.ycombinator.com/item?id=48783948) - [Astrophysicists Puzzle over Webb's New Universe](https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/)
 * [2026-07-04, 07:53:12](https://news.ycombinator.com/item?id=48783512) - [Unearthing the Reality of \"Zombie Energy Systems\" in Africa's Energy Transition](https://www.catf.us/resource/unearthing-reality-zombie-energy-systems-africas-energy-transition/)
+* [2026-07-04, 06:43:29](https://news.ycombinator.com/item?id=48783175) - [The LLVM Compiler Infrastructure](https://cacm.acm.org/federal-funding-of-academic-research/the-llvm-compiler-infrastructure/)
 * [2026-07-04, 06:32:28](https://news.ycombinator.com/item?id=48783117) - [The bottleneck might be the air in the room](https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/)
 * [2026-07-04, 05:43:01](https://news.ycombinator.com/item?id=48782918) - [David Beazley – Programming Courses](https://www.dabeaz.com/courses.html)
 * [2026-07-04, 05:37:25](https://news.ycombinator.com/item?id=48782890) - [2026 Unslop AI-Written Fiction Contest Results](https://www.hyperstitionai.com/unslop-results)
