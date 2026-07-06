@@ -4,10 +4,17 @@
 
 ### [Archives](../../index.md) for [2026-07-06](index.md)
 
+* [2026-07-06, 16:33:04](https://news.ycombinator.com/item?id=48806976) - [Stealth robotics startup (YC S26) is hiring principal engineers (Palo Alto)](https://news.ycombinator.com/item?id=48806976)
+* [2026-07-06, 15:44:44](https://news.ycombinator.com/item?id=48806289) - [Should DayQuil Be Legal?](https://www.theargumentmag.com/p/should-dayquil-be-legal)
+* [2026-07-06, 15:34:53](https://news.ycombinator.com/item?id=48806151) - [Car touchscreens are cheap, not good](https://ben.stolovitz.com/posts/car-touchscreens-are-cheap-not-good/)
 * [2026-07-06, 15:30:08](https://news.ycombinator.com/item?id=48806073) - [1k Words: A Writing Contest](https://writingclub.world/1picture1000words)
+* [2026-07-06, 15:24:54](https://news.ycombinator.com/item?id=48805985) - [Electric anti-aircraft interceptor drone breaks world air speed record at 434mph](https://www.tomshardware.com/tech-industry/drones/electric-drone-breaks-world-air-speed-record-at-434-mph-designed-for-anti-aircraft-interceptor-roles-german-firm-convincingly-smashed-the-official-409-mph-record-hopes-to-get-stamp-of-approval-from-guinness-soon)
+* [2026-07-06, 15:04:01](https://news.ycombinator.com/item?id=48805652) - [Multilingual Experience Linked to Delayed Aging in Populations and Individuals](https://fens2026.abstractserver.com/program/#/details/presentations/5474)
+* [2026-07-06, 15:01:44](https://news.ycombinator.com/item?id=48805627) - [Google Chrome Installed a 4GB AI Model on Your PC](https://oztalking.com/en/issues/hidden-4gb-ai-model)
 * [2026-07-06, 15:01:18](https://news.ycombinator.com/item?id=48805624) - [AMD Ryzen AI Halo – $4k AI Dev Kit](https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo)
 * [2026-07-06, 14:57:05](https://news.ycombinator.com/item?id=48805564) - [Do you really need separate systems when you already have Postgres?](https://postgresisenough.dev/)
 * [2026-07-06, 14:45:31](https://news.ycombinator.com/item?id=48805401) - [Emily Bender Sets the Record Straight on \"Stochastic Parrots\"](https://spectrum.ieee.org/stochastic-parrot)
+* [2026-07-06, 14:38:15](https://news.ycombinator.com/item?id=48805304) - [DOJ Closing Abbott Labs Case Spurs Wider Corporate Crime Retreat](https://news.bloomberglaw.com/us-law-week/doj-closing-abbott-labs-case-spurs-wider-corporate-crime-retreat)
 * [2026-07-06, 14:18:23](https://news.ycombinator.com/item?id=48804993) - [Resetting Xbox](https://news.xbox.com/en-us/2026/07/06/resetting-xbox/)
 * [2026-07-06, 13:39:52](https://news.ycombinator.com/item?id=48804435) - [Footage Shows Cop Stalking Woman After Surveilling Her with a LPR](https://www.404media.co/footage-shows-cop-stalking-woman-he-met-on-a-tv-set-after-surveilling-her-with-a-license-plate-reader/)
 * [2026-07-06, 13:28:57](https://news.ycombinator.com/item?id=48804297) - [Aluminum Foil](https://dernocua.github.io/notes/aluminum-foil.html)

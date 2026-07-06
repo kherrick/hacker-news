@@ -33,6 +33,7 @@
 * [2026-07-03, 20:13:09](https://news.ycombinator.com/item?id=48779415) - [Pet projects are getting too big to pet](https://www.nnehdi.me/p/pet-projects-are-getting-too-big)
 * [2026-07-03, 20:08:01](https://news.ycombinator.com/item?id=48779352) - [Kagi Changelog (July 2): Heads, tails, and an AI toggle](https://kagi.com/changelog#10959)
 * [2026-07-03, 20:05:27](https://news.ycombinator.com/item?id=48779321) - [Oak: Git for Agents](https://oak.space/)
+* [2026-07-03, 20:00:34](https://news.ycombinator.com/item?id=48779274) - [Egypt Is Building a New Nile](https://www.theb1m.com/video/egypt-is-building-a-new-nile)
 * [2026-07-03, 19:49:56](https://news.ycombinator.com/item?id=48779182) - [Show HN: Topics, Not Feeds](https://blogsreader.com)
 * [2026-07-03, 19:38:44](https://news.ycombinator.com/item?id=48779071) - [Why Being Overqualified Is a Risk](https://newsletter.bphogan.com/archive/issue-52-run-coding-models-locally-and-why-being/)
 * [2026-07-03, 19:28:10](https://news.ycombinator.com/item?id=48778971) - [ClawdMojis – A Clawd for Every Occasion](https://github.com/afspies/ClawdMoji)
