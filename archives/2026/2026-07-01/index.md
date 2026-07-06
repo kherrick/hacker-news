@@ -29,6 +29,7 @@
 * [2026-07-01, 19:18:11](https://news.ycombinator.com/item?id=48751824) - [Show HN: Z-Jail – A 130 KB Linux sandbox-C99 with 7 defense layers and zero deps](https://github.com/Division-36/Z-Jail/)
 * [2026-07-01, 19:11:38](https://news.ycombinator.com/item?id=48751752) - [ZCode: Claude Code from the Makers of GLM](https://zcode.z.ai/cn)
 * [2026-07-01, 18:23:45](https://news.ycombinator.com/item?id=48751144) - [Artful Cats: Feline-Inspired Art and Artifacts](https://www.si.edu/spotlight/art-cats)
+* [2026-07-01, 18:20:06](https://news.ycombinator.com/item?id=48751094) - [A Forlorn Hope of Fortran Modernisation](https://amenzwa.github.io/stem/PL/FortranModernisation/)
 * [2026-07-01, 18:12:18](https://news.ycombinator.com/item?id=48750989) - [Weave Robotics launches Isaac 1, a $7,999 home robot with fall 2026 deliveries](https://runtimewire.com/article/weave-robotics-isaac-1-home-robot-launch)
 * [2026-07-01, 18:12:18](https://news.ycombinator.com/item?id=48750989) - [Weave Robotics launches Isaac 1, a $7,999 home robot with Fall 2026 deliveries](https://www.weaverobotics.com/isaac-1)
 * [2026-07-01, 18:08:44](https://news.ycombinator.com/item?id=48750934) - [Most rewrites serve the engineer, not the business](https://anatoliybabushka.com/blog/when-to-rewrite-working-code.html)
