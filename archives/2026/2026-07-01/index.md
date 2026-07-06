@@ -56,6 +56,7 @@
 * [2026-07-01, 15:01:21](https://news.ycombinator.com/item?id=48747976) - [Ask HN: Who is hiring? (July 2026)](https://news.ycombinator.com/item?id=48747976)
 * [2026-07-01, 15:01:21](https://news.ycombinator.com/item?id=48747975) - [Ask HN: Who wants to be hired? (July 2026)](https://news.ycombinator.com/item?id=48747975)
 * [2026-07-01, 14:57:38](https://news.ycombinator.com/item?id=48747916) - [SpudCell: The first synthetic cell with a complete cell cycle](https://biotic.org/research/spudcell/)
+* [2026-07-01, 14:56:17](https://news.ycombinator.com/item?id=48747889) - [Rotman Lens](https://en.wikipedia.org/wiki/Rotman_lens)
 * [2026-07-01, 14:48:59](https://news.ycombinator.com/item?id=48747772) - [The Anti-Palantir Manifesto](https://nym.com/blog/anti-palantir-manifesto)
 * [2026-07-01, 14:48:40](https://news.ycombinator.com/item?id=48747762) - [Can you build a recognizable World Map in under 500 bytes?](https://www.experimentlog.com/blog/building-a-world-map-with-only-500-bytes)
 * [2026-07-01, 14:47:06](https://news.ycombinator.com/item?id=48747733) - [The GNU Emacs Architecture: Unlocking the Core [pdf]](https://www.diva-portal.org/smash/get/diva2:2052282/FULLTEXT01.pdf)
