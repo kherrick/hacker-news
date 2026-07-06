@@ -1,12 +1,62 @@
 [
   [
     [
+      "2026-07-06, 16:58:51",
+      "https://news.ycombinator.com/item?id=48807383"
+    ],
+    [
+      "The Supreme Court Just Lit a Fuse Under Flock's License Plate Camera Empire",
+      "https://www.yahoo.com/news/politics/articles/supreme-court-just-lit-fuse-130900307.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-06, 16:47:44",
+      "https://news.ycombinator.com/item?id=48807225"
+    ],
+    [
+      "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
+      "https://github.com/iOfficeAI/OfficeCLI"
+    ]
+  ],
+  [
+    [
       "2026-07-06, 16:33:04",
       "https://news.ycombinator.com/item?id=48806976"
     ],
     [
       "Stealth robotics startup (YC S26) is hiring principal engineers (Palo Alto)",
       "https://news.ycombinator.com/item?id=48806976"
+    ]
+  ],
+  [
+    [
+      "2026-07-06, 16:04:27",
+      "https://news.ycombinator.com/item?id=48806575"
+    ],
+    [
+      "Show HN: Pulpie – Models for Cleaning the Web",
+      "https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cleaning-the-web/"
+    ]
+  ],
+  [
+    [
+      "2026-07-06, 15:53:24",
+      "https://news.ycombinator.com/item?id=48806410"
+    ],
+    [
+      "Kani: A Model Checker for Rust",
+      "https://arxiv.org/abs/2607.01504"
+    ]
+  ],
+  [
+    [
+      "2026-07-06, 15:45:11",
+      "https://news.ycombinator.com/item?id=48806296"
+    ],
+    [
+      "The AI Superforecasters Are Here",
+      "https://www.astralcodexten.com/p/the-ai-superforecasters-are-here"
     ]
   ],
   [
@@ -21,12 +71,12 @@
   ],
   [
     [
-      "2026-07-06, 15:34:53",
-      "https://news.ycombinator.com/item?id=48806151"
+      "2026-07-06, 15:35:07",
+      "https://news.ycombinator.com/item?id=48806156"
     ],
     [
-      "Car touchscreens are cheap, not good",
-      "https://ben.stolovitz.com/posts/car-touchscreens-are-cheap-not-good/"
+      "Eternal Software Initiative Based on Subleq One-Instruction-Set Computer",
+      "https://github.com/adriancable/eternal"
     ]
   ],
   [
@@ -41,12 +91,12 @@
   ],
   [
     [
-      "2026-07-06, 15:24:54",
-      "https://news.ycombinator.com/item?id=48805985"
+      "2026-07-06, 15:23:34",
+      "https://news.ycombinator.com/item?id=48805965"
     ],
     [
-      "Electric anti-aircraft interceptor drone breaks world air speed record at 434mph",
-      "https://www.tomshardware.com/tech-industry/drones/electric-drone-breaks-world-air-speed-record-at-434-mph-designed-for-anti-aircraft-interceptor-roles-german-firm-convincingly-smashed-the-official-409-mph-record-hopes-to-get-stamp-of-approval-from-guinness-soon"
+      "CS2 Fog Of War: Server-sided anti-wallhack occlusion culling for CS2 servers",
+      "https://github.com/karola3vax/CS2FOW"
     ]
   ],
   [
@@ -55,18 +105,8 @@
       "https://news.ycombinator.com/item?id=48805652"
     ],
     [
-      "Multilingual Experience Linked to Delayed Aging in Populations and Individuals",
+      "Multilingual experience linked to delayed aging",
       "https://fens2026.abstractserver.com/program/#/details/presentations/5474"
-    ]
-  ],
-  [
-    [
-      "2026-07-06, 15:01:44",
-      "https://news.ycombinator.com/item?id=48805627"
-    ],
-    [
-      "Google Chrome Installed a 4GB AI Model on Your PC",
-      "https://oztalking.com/en/issues/hidden-4gb-ai-model"
     ]
   ],
   [
@@ -81,12 +121,12 @@
   ],
   [
     [
-      "2026-07-06, 14:57:05",
-      "https://news.ycombinator.com/item?id=48805564"
+      "2026-07-06, 14:47:45",
+      "https://news.ycombinator.com/item?id=48805437"
     ],
     [
-      "Do you need separate systems when you already have Postgres?",
-      "https://postgresisenough.dev/"
+      "Show HN: I Built LangGraph for Swift",
+      "https://github.com/christopherkarani/Swarm"
     ]
   ],
   [
@@ -95,7 +135,7 @@
       "https://news.ycombinator.com/item?id=48805401"
     ],
     [
-      "Emily Bender Sets the Record Straight on \"Stochastic Parrots\"",
+      "What Emily Bender meant by \"stochastic parrots\"",
       "https://spectrum.ieee.org/stochastic-parrot"
     ]
   ],
@@ -107,6 +147,16 @@
     [
       "DOJ Closing Abbott Labs Case Spurs Wider Corporate Crime Retreat",
       "https://news.bloomberglaw.com/us-law-week/doj-closing-abbott-labs-case-spurs-wider-corporate-crime-retreat"
+    ]
+  ],
+  [
+    [
+      "2026-07-06, 14:18:23",
+      "https://news.ycombinator.com/item?id=48804993"
+    ],
+    [
+      "Resetting Xbox",
+      "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/"
     ]
   ],
   [
@@ -127,16 +177,6 @@
     [
       "Nintendo announces new product revisions in Europe with replaceable batteries",
       "https://www.nintendo.com/en-gb/Support/Nintendo-Switch-2/Information-about-upcoming-battery-related-revisions-to-some-Nintendo-products-3132901.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-06, 13:12:52",
-      "https://news.ycombinator.com/item?id=48804123"
-    ],
-    [
-      "How Kalshi Infects the News",
-      "https://www.publicnotice.co/p/kalshi-cnn-cnbc"
     ]
   ],
   [
@@ -181,16 +221,6 @@
   ],
   [
     [
-      "2026-07-06, 11:44:39",
-      "https://news.ycombinator.com/item?id=48803347"
-    ],
-    [
-      "C programmers commit fresh crimes against readability",
-      "https://www.theregister.com/offbeat/2026/07/05/c-programmers-commit-fresh-crimes-against-readability/5265981"
-    ]
-  ],
-  [
-    [
       "2026-07-06, 09:38:36",
       "https://news.ycombinator.com/item?id=48802535"
     ],
@@ -217,26 +247,6 @@
     [
       "Lost and Found",
       "https://walzr.com/lost-and-found"
-    ]
-  ],
-  [
-    [
-      "2026-07-06, 01:04:03",
-      "https://news.ycombinator.com/item?id=48799614"
-    ],
-    [
-      "GPT-5.6 Sol Ultra will be in Codex",
-      "https://twitter.com/thsottiaux/status/2073933490513752151"
-    ]
-  ],
-  [
-    [
-      "2026-07-05, 23:49:00",
-      "https://news.ycombinator.com/item?id=48799155"
-    ],
-    [
-      "Has_not_been_viewed_much",
-      "https://iamwillwang.com/notes/has-not-been-viewed-much/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Introduction to Genomics for Engineers",
       "https://learngenomics.dev/docs/biological-foundations/cells-genomes-dna-chromosomes/"
-    ]
-  ],
-  [
-    [
-      "2026-07-02, 06:13:50",
-      "https://news.ycombinator.com/item?id=48757215"
-    ],
-    [
-      "The Complete Homemade Juggling Beanbag Guide",
-      "https://www.joshuaclifton.com/juggle/"
     ]
   ],
   [
