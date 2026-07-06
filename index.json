@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-07-06, 19:43:36",
+      "https://news.ycombinator.com/item?id=48809542"
+    ],
+    [
+      "Price per 1M tokens is meaningless",
+      "https://janilowski.pl/en/blog/2026/price-per-m-tokens/"
+    ]
+  ],
+  [
+    [
+      "2026-07-06, 19:40:22",
+      "https://news.ycombinator.com/item?id=48809496"
+    ],
+    [
+      "Python 3.14 compiled to metal – no interpreter",
+      "https://github.com/can1357/pon"
+    ]
+  ],
+  [
+    [
+      "2026-07-06, 19:16:00",
+      "https://news.ycombinator.com/item?id=48809208"
+    ],
+    [
+      "What does Jeff Bezos think is going to happen?",
+      "https://reprog.wordpress.com/2026/07/05/what-does-jeff-bezos-think-is-going-to-happen/"
+    ]
+  ],
+  [
+    [
       "2026-07-06, 18:55:07",
       "https://news.ycombinator.com/item?id=48808928"
     ],
@@ -117,16 +147,6 @@
     [
       "Should DayQuil Be Legal?",
       "https://www.theargumentmag.com/p/should-dayquil-be-legal"
-    ]
-  ],
-  [
-    [
-      "2026-07-06, 15:35:07",
-      "https://news.ycombinator.com/item?id=48806156"
-    ],
-    [
-      "Eternal Software Initiative Based on Subleq One-Instruction-Set Computer",
-      "https://github.com/adriancable/eternal"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2026-07-02, 20:29:23",
-      "https://news.ycombinator.com/item?id=48766949"
-    ],
-    [
-      "When 2+2=5",
-      "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/"
-    ]
-  ],
-  [
-    [
       "2026-07-02, 12:28:20",
       "https://news.ycombinator.com/item?id=48760424"
     ],
     [
       "Introduction to Genomics for Engineers",
       "https://learngenomics.dev/docs/biological-foundations/cells-genomes-dna-chromosomes/"
-    ]
-  ],
-  [
-    [
-      "2026-07-01, 07:26:05",
-      "https://news.ycombinator.com/item?id=48743362"
-    ],
-    [
-      "Apricot Computers: An underrated British brand",
-      "https://dfarq.homeip.net/apricot-computers-an-underrated-british-brand/"
     ]
   ]
 ]
