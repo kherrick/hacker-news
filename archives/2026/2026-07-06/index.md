@@ -4,9 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-07-06](index.md)
 
+* [2026-07-06, 21:39:04](https://news.ycombinator.com/item?id=48810841) - [Titan's Resources and Their Utilization](https://arxiv.org/abs/2606.06608)
+* [2026-07-06, 21:09:23](https://news.ycombinator.com/item?id=48810533) - [AI: The ROI Runway Could Be Long Outside the Tech Sector](https://www.apollo.com/wealth/insights-news/insights/daily-spark/ai-the-roi-runway-could-be-long-outside-the-tech-sector)
+* [2026-07-06, 21:06:24](https://news.ycombinator.com/item?id=48810501) - [Taiganet.com, Home of the WS4000 Simulator](https://www.taiganet.com/)
 * [2026-07-06, 20:59:54](https://news.ycombinator.com/item?id=48810439) - [Learning to code is still worthwhile](https://stevekrouse.com/learn-to-code)
+* [2026-07-06, 20:14:55](https://news.ycombinator.com/item?id=48809877) - [GLM 5.2 and the coming AI margin collapse](https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/)
+* [2026-07-06, 20:08:46](https://news.ycombinator.com/item?id=48809810) - [M/PC – A Concatenative OS](https://wiki.xxiivv.com/site/m_pc.html)
 * [2026-07-06, 19:43:36](https://news.ycombinator.com/item?id=48809542) - [Price per 1M tokens is meaningless](https://janilowski.pl/en/blog/2026/price-per-m-tokens/)
 * [2026-07-06, 19:40:22](https://news.ycombinator.com/item?id=48809496) - [Python 3.14 compiled to metal – no interpreter](https://github.com/can1357/pon)
+* [2026-07-06, 19:28:24](https://news.ycombinator.com/item?id=48809354) - [Pruning RAG context down to what the answer actually needs](https://www.kapa.ai/blog/how-we-prune-rag-context)
 * [2026-07-06, 19:16:00](https://news.ycombinator.com/item?id=48809208) - [What does Jeff Bezos think is going to happen?](https://reprog.wordpress.com/2026/07/05/what-does-jeff-bezos-think-is-going-to-happen/)
 * [2026-07-06, 18:55:07](https://news.ycombinator.com/item?id=48808928) - [CoMaps – FOSS Offline Maps](https://www.comaps.app/)
 * [2026-07-06, 18:35:54](https://news.ycombinator.com/item?id=48808663) - [Linux on the Atari Jaguar. No, really.](https://cakehonolulu.github.io/linux-for-jaguar/)
