@@ -81,6 +81,7 @@
 * [2026-07-02, 08:34:13](https://news.ycombinator.com/item?id=48758309) - [Google loses fight over record $4.7B EU antitrust fine](https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html)
 * [2026-07-02, 08:26:09](https://news.ycombinator.com/item?id=48758242) - [We Don't Have to Be This Bad at Improving Society](https://kasperjunge.com/blog/we-dont-have-to-be-this-bad-at-improving-society/)
 * [2026-07-02, 08:01:15](https://news.ycombinator.com/item?id=48758048) - [The Fall of the Theorem Economy](https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy)
+* [2026-07-02, 07:42:33](https://news.ycombinator.com/item?id=48757900) - [The Age of Personalized Hardware Is Coming](https://geastack.com/blog-the-age-of-personalized-hardware-is-coming)
 * [2026-07-02, 06:44:34](https://news.ycombinator.com/item?id=48757440) - [The gauge broke: devs felt 20% faster with AI, measured 19% slower](https://intrepidkarthi.com/writing/the-gauge-broke/)
 * [2026-07-02, 05:19:34](https://news.ycombinator.com/item?id=48756840) - [CursorBench 3.1](https://cursor.com/evals)
 * [2026-07-02, 04:32:41](https://news.ycombinator.com/item?id=48756602) - [Kimi K2.7 Code is generally available in GitHub Copilot](https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/)
