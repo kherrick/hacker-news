@@ -90,6 +90,7 @@
 * [2026-07-02, 08:26:09](https://news.ycombinator.com/item?id=48758242) - [We Don't Have to Be This Bad at Improving Society](https://kasperjunge.com/blog/we-dont-have-to-be-this-bad-at-improving-society/)
 * [2026-07-02, 08:01:15](https://news.ycombinator.com/item?id=48758048) - [The Fall of the Theorem Economy](https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy)
 * [2026-07-02, 07:42:33](https://news.ycombinator.com/item?id=48757900) - [The Age of Personalized Hardware Is Coming](https://geastack.com/blog-the-age-of-personalized-hardware-is-coming)
+* [2026-07-02, 07:08:58](https://news.ycombinator.com/item?id=48757619) - [Evaluation order and nontermination in query languages](https://www.rntz.net/post/2026-06-11-datalog-nontermination.html)
 * [2026-07-02, 06:44:34](https://news.ycombinator.com/item?id=48757440) - [The gauge broke: devs felt 20% faster with AI, measured 19% slower](https://intrepidkarthi.com/writing/the-gauge-broke/)
 * [2026-07-02, 06:13:50](https://news.ycombinator.com/item?id=48757215) - [The Complete Homemade Juggling Beanbag Guide](https://www.joshuaclifton.com/juggle/)
 * [2026-07-02, 05:19:34](https://news.ycombinator.com/item?id=48756840) - [CursorBench 3.1](https://cursor.com/evals)
