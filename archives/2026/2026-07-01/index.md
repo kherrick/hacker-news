@@ -15,6 +15,7 @@
 * [2026-07-01, 21:42:57](https://news.ycombinator.com/item?id=48753524) - [Chip Off the Old Block](https://www.astralcodexten.com/p/chip-off-the-old-block)
 * [2026-07-01, 21:41:06](https://news.ycombinator.com/item?id=48753508) - [Fable open sourced NanoClaw's agent factory. It cost $800](https://twitter.com/Gavriel_Cohen/status/2072432348805669139)
 * [2026-07-01, 21:25:49](https://news.ycombinator.com/item?id=48753342) - [Japan has 41% of the 100-year companies – secrets of 1,447-year survival](https://www.j-times.org/en/media/articles/japan-shinise-1400-years-2026/)
+* [2026-07-01, 21:25:46](https://news.ycombinator.com/item?id=48753341) - [The Writers Who Wrote the Most in History](https://brennan.day/compulsion-the-writers-who-wrote-the-most-in-history/)
 * [2026-07-01, 21:15:41](https://news.ycombinator.com/item?id=48753220) - [I Left Harry's All-Night Hamburgers](https://escapepod.org/2013/09/14/ep413-why-i-left-harrys-all-night-hamburgers/)
 * [2026-07-01, 21:10:16](https://news.ycombinator.com/item?id=48753160) - [Neural Render Proxies for Interactive and Differentiable Lighting](https://studios.disneyresearch.com/2026/07/01/neural-render-proxies-for-interactive-and-differentiable-lighting/)
 * [2026-07-01, 21:01:42](https://news.ycombinator.com/item?id=48753069) - [Qualcomm Linux 2.0](https://www.qualcomm.com/developer/blog/2026/06/qualcomm-linux-2-now-available)

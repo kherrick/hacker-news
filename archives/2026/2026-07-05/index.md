@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-07-05](index.md)
 
+* [2026-07-05, 23:58:43](https://news.ycombinator.com/item?id=48799220) - [Strange Balls found on Queensland beaches could be toxic 'space debris': experts](https://www.inkl.com/news/strange-balls-found-on-queensland-beaches-could-be-toxic-space-debris-experts-warn)
+* [2026-07-05, 23:54:43](https://news.ycombinator.com/item?id=48799192) - [Building Agents That Don't Break Themselves](https://fly.io/blog/building-agents-that-dont-break-themselves/)
+* [2026-07-05, 23:52:20](https://news.ycombinator.com/item?id=48799178) - [The Private Capture of Public Genius](https://www.wysr.xyz/p/the-private-capture-of-public-genius)
+* [2026-07-05, 23:49:00](https://news.ycombinator.com/item?id=48799155) - [Has_not_been_viewed_much](https://iamwillwang.com/notes/has-not-been-viewed-much/)
 * [2026-07-05, 23:31:30](https://news.ycombinator.com/item?id=48799026) - [Connections in Math: the two kinds of random](https://stillthinking.net/posts/connections-in-math-two-kinds-of-random/)
 * [2026-07-05, 22:12:19](https://news.ycombinator.com/item?id=48798409) - [AI Can Steal Your Bank Account in Hours](https://jmagineuniverse.blogspot.com/p/six-hours-to-infiltrate-bank-how-ai-is_0978359463.html)
 * [2026-07-05, 21:55:53](https://news.ycombinator.com/item?id=48798313) - [DNSGlobe – Rust TUI to watch DNS propagate around the world](https://github.com/514-labs/dnsglobe)
@@ -41,6 +45,7 @@
 * [2026-07-05, 16:07:10](https://news.ycombinator.com/item?id=48795323) - [Installing A/UX 1.1 like it's the 90s](https://thomasw.dev/post/aux11/)
 * [2026-07-05, 16:04:23](https://news.ycombinator.com/item?id=48795303) - [The Plight of the Martian Farmer](https://mceglowski.substack.com/p/the-plight-of-the-martian-farmer)
 * [2026-07-05, 15:49:18](https://news.ycombinator.com/item?id=48795174) - [Autonomous flying umbrella follows and shields users from rain and sunlight](https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026/)
+* [2026-07-05, 15:29:00](https://news.ycombinator.com/item?id=48795004) - [Lean Software Scaling Laws](https://gwern.net/lean-scaling)
 * [2026-07-05, 15:06:09](https://news.ycombinator.com/item?id=48794830) - [Show your hands honor for the power they bring you](https://aresluna.org/show-your-hands-honor/)
 * [2026-07-05, 15:02:43](https://news.ycombinator.com/item?id=48794803) - [Train and run transformers directly on Apple's Neural Engine](https://github.com/christopherkarani/Espresso)
 * [2026-07-05, 15:00:21](https://news.ycombinator.com/item?id=48794788) - [Why DMARC's new \"NP\" tag can fail with DNSSEC](https://dmarcwise.io/blog/dmarc-np-incompatibility-with-dnssec)
