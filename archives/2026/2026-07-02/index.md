@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-07-02](index.md)
 
 * [2026-07-02, 23:54:03](https://news.ycombinator.com/item?id=48768951) - [Right to Local Intelligence](https://righttointelligence.org/)
+* [2026-07-02, 23:52:11](https://news.ycombinator.com/item?id=48768935) - [Hobbes – A Language and Embedded JIT Compiler](https://github.com/morganstanley/hobbes)
 * [2026-07-02, 22:57:35](https://news.ycombinator.com/item?id=48768464) - [crustc: entirety of `rustc`, translated to C](https://github.com/FractalFir/crustc)
 * [2026-07-02, 22:44:04](https://news.ycombinator.com/item?id=48768336) - [Mystery identity of 'Green Boots' climber is finally solved after DNA test](https://www.dailymail.com/news/article-15943905/Mystery-identity-Green-Boots-climber-macabre-landmark-frozen-ice-dying-Everest-finally-solved-DNA-test.html)
 * [2026-07-02, 21:59:10](https://news.ycombinator.com/item?id=48767914) - [U.S. Officials Believed Israel Was Plotting to Kill Iranian Negotiators](https://www.nytimes.com/2026/07/02/us/politics/israel-iran-negotiators-plot.html)
