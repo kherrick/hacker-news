@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-06, 22:09:36",
+      "https://news.ycombinator.com/item?id=48811147"
+    ],
+    [
+      "How little exercise can you get away with?",
+      "https://www.economist.com/science-and-technology/2026/07/03/how-little-exercise-can-you-get-away-with"
+    ]
+  ],
+  [
+    [
+      "2026-07-06, 22:02:24",
+      "https://news.ycombinator.com/item?id=48811081"
+    ],
+    [
+      "Full Writeup of the Windows GDID",
+      "https://github.com/SmtimesIWndr/gdid-reversal"
+    ]
+  ],
+  [
+    [
       "2026-07-06, 21:39:04",
       "https://news.ycombinator.com/item?id=48810841"
     ],
@@ -57,16 +77,6 @@
     [
       "M/PC – A Concatenative OS",
       "https://wiki.xxiivv.com/site/m_pc.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-06, 19:43:36",
-      "https://news.ycombinator.com/item?id=48809542"
-    ],
-    [
-      "Price per 1M tokens is meaningless",
-      "https://janilowski.pl/en/blog/2026/price-per-m-tokens/"
     ]
   ],
   [
@@ -181,26 +191,6 @@
   ],
   [
     [
-      "2026-07-06, 15:30:08",
-      "https://news.ycombinator.com/item?id=48806073"
-    ],
-    [
-      "1k Words: A Writing Contest",
-      "https://writingclub.world/1picture1000words"
-    ]
-  ],
-  [
-    [
-      "2026-07-06, 15:23:34",
-      "https://news.ycombinator.com/item?id=48805965"
-    ],
-    [
-      "CS2 Fog Of War: Server-sided anti-wallhack occlusion culling for CS2 servers",
-      "https://github.com/karola3vax/CS2FOW"
-    ]
-  ],
-  [
-    [
       "2026-07-06, 15:01:18",
       "https://news.ycombinator.com/item?id=48805624"
     ],
@@ -287,6 +277,16 @@
     [
       "Clojure 1.13 adds support for checked keys",
       "https://clojure.org/news/2026/07/02/clojure-1-13-alpha1"
+    ]
+  ],
+  [
+    [
+      "2026-07-02, 07:08:58",
+      "https://news.ycombinator.com/item?id=48757619"
+    ],
+    [
+      "Evaluation order and nontermination in query languages",
+      "https://www.rntz.net/post/2026-06-11-datalog-nontermination.html"
     ]
   ],
   [
