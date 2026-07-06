@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-05](index.md)
 
+* [2026-07-05, 23:31:30](https://news.ycombinator.com/item?id=48799026) - [Connections in Math: the two kinds of random](https://stillthinking.net/posts/connections-in-math-two-kinds-of-random/)
 * [2026-07-05, 22:12:19](https://news.ycombinator.com/item?id=48798409) - [AI Can Steal Your Bank Account in Hours](https://jmagineuniverse.blogspot.com/p/six-hours-to-infiltrate-bank-how-ai-is_0978359463.html)
 * [2026-07-05, 21:55:53](https://news.ycombinator.com/item?id=48798313) - [DNSGlobe – Rust TUI to watch DNS propagate around the world](https://github.com/514-labs/dnsglobe)
 * [2026-07-05, 21:45:17](https://news.ycombinator.com/item?id=48798247) - [Composite Video on the NES: Why's it so wobbly?](https://nicole.express/2026/phase-altering-by-line.html)
