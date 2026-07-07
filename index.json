@@ -1,12 +1,72 @@
 [
   [
     [
-      "2026-07-07, 16:56:31",
-      "https://news.ycombinator.com/item?id=48820458"
+      "2026-07-07, 18:40:40",
+      "https://news.ycombinator.com/item?id=48821803"
     ],
     [
-      "New Literalism Comes for Museums",
-      "https://jaymollica.com/blog/new-literalism-comes-for-museums/"
+      "Ask HN: Is GitHub preparing to go behind a login wall?",
+      "https://news.ycombinator.com/item?id=48821803"
+    ]
+  ],
+  [
+    [
+      "2026-07-07, 18:36:35",
+      "https://news.ycombinator.com/item?id=48821749"
+    ],
+    [
+      "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
+      "https://blog.zksecurity.xyz/posts/circl-bugs/"
+    ]
+  ],
+  [
+    [
+      "2026-07-07, 18:32:26",
+      "https://news.ycombinator.com/item?id=48821691"
+    ],
+    [
+      "Decrypting View State Messages",
+      "https://zeroed.tech/blog/decrypting-viewstate-messages/"
+    ]
+  ],
+  [
+    [
+      "2026-07-07, 18:30:02",
+      "https://news.ycombinator.com/item?id=48821653"
+    ],
+    [
+      "Astro 7.0",
+      "https://astro.build/blog/astro-7/"
+    ]
+  ],
+  [
+    [
+      "2026-07-07, 18:24:10",
+      "https://news.ycombinator.com/item?id=48821576"
+    ],
+    [
+      "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
+      "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/"
+    ]
+  ],
+  [
+    [
+      "2026-07-07, 18:19:00",
+      "https://news.ycombinator.com/item?id=48821500"
+    ],
+    [
+      "Show HN: Docx-CLI: agents read/edit Word docs using 1/2 the time and tokens",
+      "https://github.com/kklimuk/docx-cli"
+    ]
+  ],
+  [
+    [
+      "2026-07-07, 18:08:29",
+      "https://news.ycombinator.com/item?id=48821378"
+    ],
+    [
+      "A new runtime for k and q: l",
+      "https://lv1.sh/"
     ]
   ],
   [
@@ -71,32 +131,12 @@
   ],
   [
     [
-      "2026-07-07, 15:52:22",
-      "https://news.ycombinator.com/item?id=48819512"
-    ],
-    [
-      "Better Auth is joining Vercel",
-      "https://better-auth.com/blog/better-auth-joins-vercel"
-    ]
-  ],
-  [
-    [
       "2026-07-07, 15:36:49",
       "https://news.ycombinator.com/item?id=48819308"
     ],
     [
       "Why we built yet another Postgres connection pooler",
       "https://pgdog.dev/blog/why-yet-another-connection-pooler"
-    ]
-  ],
-  [
-    [
-      "2026-07-07, 15:33:40",
-      "https://news.ycombinator.com/item?id=48819250"
-    ],
-    [
-      "Software Bonkers",
-      "https://craigmod.com/essays/software_bonkers/"
     ]
   ],
   [
@@ -161,16 +201,6 @@
   ],
   [
     [
-      "2026-07-07, 12:50:40",
-      "https://news.ycombinator.com/item?id=48817017"
-    ],
-    [
-      "Dua Lipa opens library for banned and censored books in Portugal",
-      "https://www.euronews.com/culture/2026/06/29/dua-lipa-opens-library-for-banned-and-censored-books-in-portugal"
-    ]
-  ],
-  [
-    [
       "2026-07-07, 12:45:14",
       "https://news.ycombinator.com/item?id=48816959"
     ],
@@ -211,16 +241,6 @@
   ],
   [
     [
-      "2026-07-07, 12:08:25",
-      "https://news.ycombinator.com/item?id=48816612"
-    ],
-    [
-      "Europe's company websites are mostly served by US vendors",
-      "https://ciphercue.com/blog/european-web-hosting-vendor-share-2026"
-    ]
-  ],
-  [
-    [
       "2026-07-07, 12:00:44",
       "https://news.ycombinator.com/item?id=48816533"
     ],
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2026-07-07, 05:19:03",
-      "https://news.ycombinator.com/item?id=48813929"
-    ],
-    [
-      "The Art of Computer Programming by Donald E. Knuth",
-      "https://www-cs-faculty.stanford.edu/~knuth/taocp.html"
-    ]
-  ],
-  [
-    [
       "2026-07-06, 02:06:55",
       "https://news.ycombinator.com/item?id=48799930"
     ],
@@ -261,22 +271,12 @@
   ],
   [
     [
-      "2026-07-04, 17:28:57",
-      "https://news.ycombinator.com/item?id=48787124"
+      "2026-07-05, 05:36:51",
+      "https://news.ycombinator.com/item?id=48791505"
     ],
     [
-      "Historic Photos of NASA's Cavernous Wind Tunnels",
-      "https://www.theatlantic.com/photo/2018/05/historic-photos-of-nasas-cavernous-wind-tunnels/560660/"
-    ]
-  ],
-  [
-    [
-      "2026-07-03, 17:25:15",
-      "https://news.ycombinator.com/item?id=48777488"
-    ],
-    [
-      "C++ Details of Asymmetric Fences",
-      "https://nekrozqliphort.github.io/posts/membarrier/"
+      "Fixing analog audio on the $2.58 HDMI-to-VGA adapter",
+      "https://nyanpasu64.gitlab.io/blog/hdmi-vga-dac-audio/"
     ]
   ],
   [
