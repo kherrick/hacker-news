@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-07-07](index.md)
 
+* [2026-07-07, 15:52:22](https://news.ycombinator.com/item?id=48819512) - [Better Auth is joining Vercel](https://better-auth.com/blog/better-auth-joins-vercel)
+* [2026-07-07, 15:33:20](https://news.ycombinator.com/item?id=48819244) - [Microsoft Fire IdTech Team at Id Software](https://gamefromscratch.com/microsoft-fire-idtech-team-at-id-software/)
+* [2026-07-07, 15:16:15](https://news.ycombinator.com/item?id=48819008) - [Chat Control passed first round in EU Parliament](https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html)
 * [2026-07-07, 14:41:56](https://news.ycombinator.com/item?id=48818544) - [The Revenge of the Philosophy Majors](https://www.nytimes.com/2026/07/05/business/philosophy-majors-ai-jobs.html)
 * [2026-07-07, 14:19:34](https://news.ycombinator.com/item?id=48818271) - [Sodium-ion \"salt\" batteries will revolutionize electric-vehicle and grid storage](https://www.newscientist.com/article/2532997-salt-batteries-are-about-to-shake-up-evs-and-grid-storage/)
 * [2026-07-07, 14:08:58](https://news.ycombinator.com/item?id=48818124) - [Show HN: Shellular – run Claude Code, Codex, Pi from your phone](https://shellular.dev/)
