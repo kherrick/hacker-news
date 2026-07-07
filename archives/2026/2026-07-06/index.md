@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-07-06](index.md)
 
+* [2026-07-06, 23:33:54](https://news.ycombinator.com/item?id=48811887) - [NSA and IETF: Fairness](https://blog.cr.yp.to/20260706-fairness.html)
 * [2026-07-06, 23:06:31](https://news.ycombinator.com/item?id=48811644) - [Ternlight – 7 MB embedding model that runs in browser (WASM)](https://ternlight-demo.vercel.app/)
 * [2026-07-06, 23:00:24](https://news.ycombinator.com/item?id=48811591) - [Fable turned remarkable into Tom Riddle's diary from Harry Potter](https://github.com/MaximeRivest/Riddle)
 * [2026-07-06, 22:48:02](https://news.ycombinator.com/item?id=48811494) - [Vessel](https://claude.ai/public/artifacts/2c647671-3f94-4d22-b3c1-f2b5a0e17b6e)
 * [2026-07-06, 22:32:58](https://news.ycombinator.com/item?id=48811373) - [OpenSSH 10.4/10.4p1 Released](https://www.openssh.org/txt/release-10.4)
+* [2026-07-06, 22:30:33](https://news.ycombinator.com/item?id=48811339) - [Acronym Fatigue Series Introduction: why I'm wary of acronyms](https://devz.cl/posts/acryonym-fatigue-series-why-i-m-wary-of-engineering-acronyms/)
 * [2026-07-06, 22:28:06](https://news.ycombinator.com/item?id=48811317) - [Poly/ML – A Standard ML Implementation](https://github.com/polyml/polyml)
 * [2026-07-06, 22:09:36](https://news.ycombinator.com/item?id=48811147) - [How little exercise can you get away with?](https://www.economist.com/science-and-technology/2026/07/03/how-little-exercise-can-you-get-away-with)
 * [2026-07-06, 22:02:24](https://news.ycombinator.com/item?id=48811081) - [Full Writeup of the Windows GDID](https://github.com/SmtimesIWndr/gdid-reversal)

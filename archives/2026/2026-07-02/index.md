@@ -12,6 +12,7 @@
 * [2026-07-02, 21:50:11](https://news.ycombinator.com/item?id=48767834) - [Simple, beautiful Emacs modeline: modusregel](https://codeberg.org/jjba23/modusregel)
 * [2026-07-02, 21:19:20](https://news.ycombinator.com/item?id=48767515) - [BlastRadar – paste a Git diff, get a production risk score in 10 seconds](https://blastradar.vercel.app/)
 * [2026-07-02, 21:03:45](https://news.ycombinator.com/item?id=48767347) - [Virginia Bans Sale of Geolocation Data](https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data)
+* [2026-07-02, 21:01:31](https://news.ycombinator.com/item?id=48767317) - [The Music of Destruction](https://thebaffler.com/latest/the-music-of-destruction-fuelling)
 * [2026-07-02, 20:51:52](https://news.ycombinator.com/item?id=48767211) - [Clojure 1.13 adds support for checked keys](https://clojure.org/news/2026/07/02/clojure-1-13-alpha1)
 * [2026-07-02, 20:38:06](https://news.ycombinator.com/item?id=48767058) - [Zuckerberg says AI agent development going slower than expected](https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/)
 * [2026-07-02, 20:29:23](https://news.ycombinator.com/item?id=48766949) - [When 2+2=5](https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/)
