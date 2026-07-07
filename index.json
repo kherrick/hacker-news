@@ -1,6 +1,66 @@
 [
   [
     [
+      "2026-07-07, 16:42:41",
+      "https://news.ycombinator.com/item?id=48820274"
+    ],
+    [
+      "Mapping homes you can buy from the US government for <$100k",
+      "https://govauctions.app/research/cheapest-homes-in-america"
+    ]
+  ],
+  [
+    [
+      "2026-07-07, 16:38:08",
+      "https://news.ycombinator.com/item?id=48820220"
+    ],
+    [
+      "China sentences official to death for taking $325M in bribes",
+      "https://www.bbc.com/news/articles/c33y0n1v1xjo"
+    ]
+  ],
+  [
+    [
+      "2026-07-07, 16:31:19",
+      "https://news.ycombinator.com/item?id=48820127"
+    ],
+    [
+      "Reducing Doom Loops with Final Token Preference Optimization",
+      "https://www.liquid.ai/blog/antidoom"
+    ]
+  ],
+  [
+    [
+      "2026-07-07, 16:30:42",
+      "https://news.ycombinator.com/item?id=48820119"
+    ],
+    [
+      "Jim's TrueType QR Code Font",
+      "https://github.com/jimparis/qr-font"
+    ]
+  ],
+  [
+    [
+      "2026-07-07, 16:24:40",
+      "https://news.ycombinator.com/item?id=48820022"
+    ],
+    [
+      "MacSurf 1.68 – NetSurf on OS 9 Released",
+      "https://github.com/mplsllc/macsurf/releases/tag/v1.86"
+    ]
+  ],
+  [
+    [
+      "2026-07-07, 16:20:12",
+      "https://news.ycombinator.com/item?id=48819958"
+    ],
+    [
+      "Weighing smoke: why AI visibility dashboards are mostly useless",
+      "https://betterthangood.xyz/blog/weighing-smoke/"
+    ]
+  ],
+  [
+    [
       "2026-07-07, 15:52:22",
       "https://news.ycombinator.com/item?id=48819512"
     ],
@@ -31,22 +91,22 @@
   ],
   [
     [
-      "2026-07-07, 14:41:56",
-      "https://news.ycombinator.com/item?id=48818544"
+      "2026-07-07, 15:13:01",
+      "https://news.ycombinator.com/item?id=48818963"
     ],
     [
-      "The Revenge of the Philosophy Majors",
-      "https://www.nytimes.com/2026/07/05/business/philosophy-majors-ai-jobs.html"
+      "Amazon Without the Knockoffs",
+      "https://knockoff.shopping/"
     ]
   ],
   [
     [
-      "2026-07-07, 12:50:40",
-      "https://news.ycombinator.com/item?id=48817017"
+      "2026-07-07, 15:11:08",
+      "https://news.ycombinator.com/item?id=48818937"
     ],
     [
-      "Dua Lipa opens library for banned and censored books in Portugal",
-      "https://www.euronews.com/culture/2026/06/29/dua-lipa-opens-library-for-banned-and-censored-books-in-portugal"
+      "Automating AI Away",
+      "https://replicated.live/blog/away"
     ]
   ],
   [
@@ -161,26 +221,6 @@
   ],
   [
     [
-      "2026-07-06, 23:06:31",
-      "https://news.ycombinator.com/item?id=48811644"
-    ],
-    [
-      "Ternlight – 7 MB embedding model that runs in browser (WASM)",
-      "https://ternlight-demo.vercel.app/"
-    ]
-  ],
-  [
-    [
-      "2026-07-06, 23:00:24",
-      "https://news.ycombinator.com/item?id=48811591"
-    ],
-    [
-      "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
-      "https://github.com/MaximeRivest/Riddle"
-    ]
-  ],
-  [
-    [
       "2026-07-06, 20:14:55",
       "https://news.ycombinator.com/item?id=48809877"
     ],
@@ -211,22 +251,12 @@
   ],
   [
     [
-      "2026-07-06, 17:44:08",
-      "https://news.ycombinator.com/item?id=48808002"
+      "2026-07-06, 02:06:55",
+      "https://news.ycombinator.com/item?id=48799930"
     ],
     [
-      "A global workspace in language models",
-      "https://www.anthropic.com/research/global-workspace"
-    ]
-  ],
-  [
-    [
-      "2026-07-06, 14:18:23",
-      "https://news.ycombinator.com/item?id=48804993"
-    ],
-    [
-      "Resetting Xbox",
-      "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/"
+      "GitHub Freno: cooperative, highly available throttler service",
+      "https://github.com/github/freno"
     ]
   ],
   [
@@ -251,16 +281,6 @@
   ],
   [
     [
-      "2026-07-04, 15:32:58",
-      "https://news.ycombinator.com/item?id=48786124"
-    ],
-    [
-      "Dolosse – a South African invention used over the world",
-      "https://thisbugslife.com/2021/11/21/dolosse-a-south-african-invention-used-over-the-world/"
-    ]
-  ],
-  [
-    [
       "2026-07-04, 08:49:35",
       "https://news.ycombinator.com/item?id=48783832"
     ],
@@ -277,26 +297,6 @@
     [
       "C++ Details of Asymmetric Fences",
       "https://nekrozqliphort.github.io/posts/membarrier/"
-    ]
-  ],
-  [
-    [
-      "2026-07-01, 15:30:41",
-      "https://news.ycombinator.com/item?id=48748522"
-    ],
-    [
-      "In Praise of Observational Evidence",
-      "https://asteriskmag.com/issues/14/in-praise-of-observational-evidence"
-    ]
-  ],
-  [
-    [
-      "2026-07-01, 01:41:29",
-      "https://news.ycombinator.com/item?id=48741447"
-    ],
-    [
-      "The Family Keeping Watch over a 52-Year-Old Pot of Soup",
-      "https://www.wsj.com/arts-culture/food-cooking/the-family-keeping-watch-over-a-52-year-old-pot-of-soup-1e72f115"
     ]
   ]
 ]
