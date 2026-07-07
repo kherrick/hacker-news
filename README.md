@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-07, 10:42:59](https://news.ycombinator.com/item?id=48815982) - [Why migrants come to Germany for work and then leave again](https://www.dw.com/en/germany-migrants-skilled-workers-integration-labor-market-bureaucracy-language-housing/a-77853162)
 * [2026-07-07, 08:54:03](https://news.ycombinator.com/item?id=48815196) - [Microsoft Can Track Users via a Windows Device ID](https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device)
 * [2026-07-07, 08:12:12](https://news.ycombinator.com/item?id=48814952) - [Show HN: Fast, native Mac file manager (filters, fuzzy find, 9 MB, no Electron)](https://whimfiles.com)
 * [2026-07-07, 07:00:27](https://news.ycombinator.com/item?id=48814509) - [Lago (YC S21) Is Hiring for Our GTM Team](https://jobs.ashbyhq.com/lago)
@@ -23,9 +24,8 @@
 * [2026-07-06, 15:53:24](https://news.ycombinator.com/item?id=48806410) - [Kani: A Model Checker for Rust](https://arxiv.org/abs/2607.01504)
 * [2026-07-06, 15:01:18](https://news.ycombinator.com/item?id=48805624) - [AMD Ryzen AI Halo – $4k AI Dev Kit](https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo)
 * [2026-07-06, 14:18:23](https://news.ycombinator.com/item?id=48804993) - [Resetting Xbox](https://news.xbox.com/en-us/2026/07/06/resetting-xbox/)
-* [2026-07-04, 17:08:18](https://news.ycombinator.com/item?id=48786970) - [EndBASIC 0.14: Are we multimedia yet?](https://www.endbasic.dev/2026/07/endbasic-0.14.html)
+* [2026-07-04, 17:28:57](https://news.ycombinator.com/item?id=48787124) - [Historic Photos of NASA's Cavernous Wind Tunnels](https://www.theatlantic.com/photo/2018/05/historic-photos-of-nasas-cavernous-wind-tunnels/560660/)
 * [2026-07-04, 15:32:58](https://news.ycombinator.com/item?id=48786124) - [Dolosse – a South African invention used over the world](https://thisbugslife.com/2021/11/21/dolosse-a-south-african-invention-used-over-the-world/)
-* [2026-07-04, 02:51:57](https://news.ycombinator.com/item?id=48782248) - [A 2048-spin bulk acoustic wave Ising machine for number partitioning and Sudoku](https://arxiv.org/abs/2607.02112)
 * [2026-07-03, 18:29:46](https://news.ycombinator.com/item?id=48778243) - [Inkfield](https://www.inkfield.studio)
 * [2026-07-03, 16:51:40](https://news.ycombinator.com/item?id=48777127) - [Dropping in on Gottfried Leibniz (2013)](https://writings.stephenwolfram.com/2013/05/dropping-in-on-gottfried-leibniz/)
 * [2026-07-01, 15:30:41](https://news.ycombinator.com/item?id=48748522) - [In Praise of Observational Evidence](https://asteriskmag.com/issues/14/in-praise-of-observational-evidence)

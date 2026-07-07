@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-07](index.md)
 
+* [2026-07-07, 10:42:59](https://news.ycombinator.com/item?id=48815982) - [Why migrants come to Germany for work and then leave again](https://www.dw.com/en/germany-migrants-skilled-workers-integration-labor-market-bureaucracy-language-housing/a-77853162)
 * [2026-07-07, 08:54:03](https://news.ycombinator.com/item?id=48815196) - [Microsoft Can Track Users via a Windows Device ID](https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device)
 * [2026-07-07, 08:39:51](https://news.ycombinator.com/item?id=48815117) - [YC CEO says he ships 37K LoC AI code per day. A developer looked under the hood](https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media)
 * [2026-07-07, 08:12:12](https://news.ycombinator.com/item?id=48814952) - [Show HN: Fast, native Mac file manager (filters, fuzzy find, 9 MB, no Electron)](https://whimfiles.com)

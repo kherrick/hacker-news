@@ -21,6 +21,7 @@
 * [2026-07-04, 18:42:24](https://news.ycombinator.com/item?id=48787725) - [As downtown Seattle offices empty, city facing years of 'zombie' towers](https://www.seattletimes.com/business/local-business/as-downtown-seattle-offices-empty-city-facing-years-of-zombie-towers/)
 * [2026-07-04, 17:52:36](https://news.ycombinator.com/item?id=48787329) - [Verizon is About to Break our Watches](https://www.jefftk.com/p/verizon-is-about-to-break-our-watches)
 * [2026-07-04, 17:37:21](https://news.ycombinator.com/item?id=48787201) - [BareMetal RAM Dumper – Bare-metal x86 tool for Cold Boot Attack experiments](https://github.com/pIat0n/BareMetal-RAM-Dumper)
+* [2026-07-04, 17:28:57](https://news.ycombinator.com/item?id=48787124) - [Historic Photos of NASA's Cavernous Wind Tunnels](https://www.theatlantic.com/photo/2018/05/historic-photos-of-nasas-cavernous-wind-tunnels/560660/)
 * [2026-07-04, 17:18:42](https://news.ycombinator.com/item?id=48787058) - [Sick leave: Germany rising but not the worst in Europe](https://www.dw.com/en/sick-leave-germany-rising-but-not-the-worst-in-europe/a-77815488)
 * [2026-07-04, 17:17:28](https://news.ycombinator.com/item?id=48787042) - [No more than 100 000 faint satellites should orbit Earth](https://www.eso.org/public/news/eso2607/)
 * [2026-07-04, 17:12:00](https://news.ycombinator.com/item?id=48787001) - [Game Boy Advance Dev: Logging to the Console](https://www.mattgreer.dev/blog/gba-dev-logging/)
