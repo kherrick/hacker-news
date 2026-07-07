@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-07-07, 18:40:40",
-      "https://news.ycombinator.com/item?id=48821803"
+      "2026-07-07, 18:44:29",
+      "https://news.ycombinator.com/item?id=48821848"
     ],
     [
-      "Ask HN: Is GitHub preparing to go behind a login wall?",
-      "https://news.ycombinator.com/item?id=48821803"
+      "Show HN: Davit, a Apple Containers UI",
+      "https://davit.app"
     ]
   ],
   [
@@ -17,16 +17,6 @@
     [
       "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
       "https://blog.zksecurity.xyz/posts/circl-bugs/"
-    ]
-  ],
-  [
-    [
-      "2026-07-07, 18:32:26",
-      "https://news.ycombinator.com/item?id=48821691"
-    ],
-    [
-      "Decrypting View State Messages",
-      "https://zeroed.tech/blog/decrypting-viewstate-messages/"
     ]
   ],
   [
@@ -61,22 +51,22 @@
   ],
   [
     [
-      "2026-07-07, 18:08:29",
-      "https://news.ycombinator.com/item?id=48821378"
+      "2026-07-07, 18:14:50",
+      "https://news.ycombinator.com/item?id=48821441"
     ],
     [
-      "A new runtime for k and q: l",
-      "https://lv1.sh/"
+      "Notes on Software Quality",
+      "https://anthonyhobday.com/blog/20260410"
     ]
   ],
   [
     [
-      "2026-07-07, 16:42:41",
-      "https://news.ycombinator.com/item?id=48820274"
+      "2026-07-07, 18:08:29",
+      "https://news.ycombinator.com/item?id=48821378"
     ],
     [
-      "Mapping homes you can buy from the US government for <$100k",
-      "https://govauctions.app/research/cheapest-homes-in-america"
+      "l: A new runtime for k and q",
+      "https://lv1.sh/"
     ]
   ],
   [
@@ -117,6 +107,16 @@
     [
       "MacSurf 1.68 – NetSurf on OS 9 Released",
       "https://github.com/mplsllc/macsurf/releases/tag/v1.86"
+    ]
+  ],
+  [
+    [
+      "2026-07-07, 16:10:44",
+      "https://news.ycombinator.com/item?id=48819808"
+    ],
+    [
+      "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
+      "https://github.com/rowboatlabs/rowboat"
     ]
   ],
   [
@@ -197,6 +197,16 @@
     [
       "Chat Control 1.0 and 2.0 Explained",
       "https://fightchatcontrol.eu/chat-control-overview"
+    ]
+  ],
+  [
+    [
+      "2026-07-07, 14:07:08",
+      "https://news.ycombinator.com/item?id=48818098"
+    ],
+    [
+      "Show HN: Halo – open-source, tamper-evident runtime evidence for AI agents",
+      "https://github.com/bkuan001/halo-record"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Computational Balloon Twisting: The Theory of Balloon Polyhedra [pdf]",
       "https://cccg.ca/proceedings/2008/paper34full.pdf"
-    ]
-  ],
-  [
-    [
-      "2026-07-01, 01:41:29",
-      "https://news.ycombinator.com/item?id=48741447"
-    ],
-    [
-      "The family keeping watch over a 52-year-old pot of soup",
-      "https://www.wsj.com/arts-culture/food-cooking/the-family-keeping-watch-over-a-52-year-old-pot-of-soup-1e72f115"
     ]
   ]
 ]
