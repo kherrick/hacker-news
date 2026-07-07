@@ -4,9 +4,17 @@
 
 ### [Archives](../../index.md) for [2026-07-07](index.md)
 
+* [2026-07-07, 16:42:41](https://news.ycombinator.com/item?id=48820274) - [Mapping homes you can buy from the US government for <$100k](https://govauctions.app/research/cheapest-homes-in-america)
+* [2026-07-07, 16:38:08](https://news.ycombinator.com/item?id=48820220) - [China sentences official to death for taking $325M in bribes](https://www.bbc.com/news/articles/c33y0n1v1xjo)
+* [2026-07-07, 16:31:19](https://news.ycombinator.com/item?id=48820127) - [Reducing Doom Loops with Final Token Preference Optimization](https://www.liquid.ai/blog/antidoom)
+* [2026-07-07, 16:30:42](https://news.ycombinator.com/item?id=48820119) - [Jim's TrueType QR Code Font](https://github.com/jimparis/qr-font)
+* [2026-07-07, 16:24:40](https://news.ycombinator.com/item?id=48820022) - [MacSurf 1.68 – NetSurf on OS 9 Released](https://github.com/mplsllc/macsurf/releases/tag/v1.86)
+* [2026-07-07, 16:20:12](https://news.ycombinator.com/item?id=48819958) - [Weighing smoke: why AI visibility dashboards are mostly useless](https://betterthangood.xyz/blog/weighing-smoke/)
 * [2026-07-07, 15:52:22](https://news.ycombinator.com/item?id=48819512) - [Better Auth is joining Vercel](https://better-auth.com/blog/better-auth-joins-vercel)
 * [2026-07-07, 15:33:20](https://news.ycombinator.com/item?id=48819244) - [Microsoft Fire IdTech Team at Id Software](https://gamefromscratch.com/microsoft-fire-idtech-team-at-id-software/)
 * [2026-07-07, 15:16:15](https://news.ycombinator.com/item?id=48819008) - [Chat Control passed first round in EU Parliament](https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html)
+* [2026-07-07, 15:13:01](https://news.ycombinator.com/item?id=48818963) - [Amazon Without the Knockoffs](https://knockoff.shopping/)
+* [2026-07-07, 15:11:08](https://news.ycombinator.com/item?id=48818937) - [Automating AI Away](https://replicated.live/blog/away)
 * [2026-07-07, 14:41:56](https://news.ycombinator.com/item?id=48818544) - [The Revenge of the Philosophy Majors](https://www.nytimes.com/2026/07/05/business/philosophy-majors-ai-jobs.html)
 * [2026-07-07, 14:19:34](https://news.ycombinator.com/item?id=48818271) - [Sodium-ion \"salt\" batteries will revolutionize electric-vehicle and grid storage](https://www.newscientist.com/article/2532997-salt-batteries-are-about-to-shake-up-evs-and-grid-storage/)
 * [2026-07-07, 14:08:58](https://news.ycombinator.com/item?id=48818124) - [Show HN: Shellular – run Claude Code, Codex, Pi from your phone](https://shellular.dev/)
