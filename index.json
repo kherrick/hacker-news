@@ -5,8 +5,18 @@
       "https://news.ycombinator.com/item?id=48823557"
     ],
     [
-      "All Cars Sold in the EU Now Require a Camera Aimed at Your Face",
+      "Every new car sold in the European Union must include a driver monitoring camera",
       "https://allaboutcookies.org/eu-mandatory-distracted-driver-system"
+    ]
+  ],
+  [
+    [
+      "2026-07-07, 20:36:01",
+      "https://news.ycombinator.com/item?id=48823368"
+    ],
+    [
+      "Men's average testosterone levels have halved in last 50 years",
+      "https://www.theguardian.com/society/2026/jul/07/mens-average-testosterone-levels-have-halved-in-last-50-years-say-scientists"
     ]
   ],
   [
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2026-07-07, 14:07:08",
-      "https://news.ycombinator.com/item?id=48818098"
-    ],
-    [
-      "Show HN: Halo – open-source, tamper-evident runtime evidence for AI agents",
-      "https://github.com/bkuan001/halo-record"
-    ]
-  ],
-  [
-    [
       "2026-07-07, 12:45:14",
       "https://news.ycombinator.com/item?id=48816959"
     ],
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2026-07-06, 02:06:55",
-      "https://news.ycombinator.com/item?id=48799930"
-    ],
-    [
-      "GitHub Freno: cooperative, highly available throttler service",
-      "https://github.com/github/freno"
-    ]
-  ],
-  [
-    [
       "2026-07-05, 05:36:51",
       "https://news.ycombinator.com/item?id=48791505"
     ],
@@ -297,6 +287,16 @@
     [
       "Computational Balloon Twisting: The Theory of Balloon Polyhedra [pdf]",
       "https://cccg.ca/proceedings/2008/paper34full.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-07-01, 05:41:22",
+      "https://news.ycombinator.com/item?id=48742703"
+    ],
+    [
+      "IEEE Rolls Out Large Language Models Training Course",
+      "https://spectrum.ieee.org/large-language-models-ieee-course"
     ]
   ]
 ]
