@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-07, 23:08:14](https://news.ycombinator.com/item?id=48825234) - [FrankenMarkdown](https://franken-markdown.com/)
 * [2026-07-07, 22:23:58](https://news.ycombinator.com/item?id=48824826) - [GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup](https://www.gao.gov/products/gao-26-108193)
 * [2026-07-07, 20:50:46](https://news.ycombinator.com/item?id=48823557) - [Every new car sold in the European Union must include a driver monitoring camera](https://allaboutcookies.org/eu-mandatory-distracted-driver-system)
 * [2026-07-07, 18:44:29](https://news.ycombinator.com/item?id=48821848) - [Show HN: Davit, a Apple Containers UI](https://davit.app)
@@ -17,7 +18,6 @@
 * [2026-07-07, 15:33:20](https://news.ycombinator.com/item?id=48819244) - [Microsoft fire idTech team at Id software](https://gamefromscratch.com/microsoft-fire-idtech-team-at-id-software/)
 * [2026-07-07, 15:16:15](https://news.ycombinator.com/item?id=48819008) - [Chat Control passed first round in EU Parliament](https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html)
 * [2026-07-07, 15:11:08](https://news.ycombinator.com/item?id=48818937) - [Automating AI Away](https://replicated.live/blog/away)
-* [2026-07-07, 14:41:56](https://news.ycombinator.com/item?id=48818544) - [The revenge of the philosophy majors](https://www.nytimes.com/2026/07/05/business/philosophy-majors-ai-jobs.html)
 * [2026-07-07, 14:23:15](https://news.ycombinator.com/item?id=48818311) - [Chat Control 1.0 and 2.0 Explained](https://fightchatcontrol.eu/chat-control-overview)
 * [2026-07-07, 12:45:14](https://news.ycombinator.com/item?id=48816959) - [98% isn't much](https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/)
 * [2026-07-07, 12:45:06](https://news.ycombinator.com/item?id=48816956) - [A better way to tie gym shorts (or any drawstring) [video]](https://www.youtube.com/watch?v=3R0Lp86GEBk)
