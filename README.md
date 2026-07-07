@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-07, 13:03:31](https://news.ycombinator.com/item?id=48817191) - [Mark Zuckerberg's biggest legal nightmare yet could cost Meta $1.4T](https://www.the-independent.com/tech/mark-zuckerberg-meta-fine-trillion-b3010281.html)
 * [2026-07-07, 12:50:40](https://news.ycombinator.com/item?id=48817017) - [Dua Lipa opens library for banned and censored books in Portugal](https://www.euronews.com/culture/2026/06/29/dua-lipa-opens-library-for-banned-and-censored-books-in-portugal)
 * [2026-07-07, 12:45:14](https://news.ycombinator.com/item?id=48816959) - [98% Isn't Much](https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/)
 * [2026-07-07, 12:45:06](https://news.ycombinator.com/item?id=48816956) - [A better way to tie your gym shorts. (Or any drawstring) [video]](https://www.youtube.com/watch?v=3R0Lp86GEBk)
@@ -14,7 +15,6 @@
 * [2026-07-06, 23:59:54](https://news.ycombinator.com/item?id=48812055) - [Small AI Models Gain Traction In places with unreliable networks](https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals)
 * [2026-07-06, 23:06:31](https://news.ycombinator.com/item?id=48811644) - [Ternlight – 7 MB embedding model that runs in browser (WASM)](https://ternlight-demo.vercel.app/)
 * [2026-07-06, 23:00:24](https://news.ycombinator.com/item?id=48811591) - [Fable turned reMarkable into Tom Riddle's diary from Harry Potter](https://github.com/MaximeRivest/Riddle)
-* [2026-07-06, 22:32:58](https://news.ycombinator.com/item?id=48811373) - [OpenSSH 10.4/10.4p1 Released](https://www.openssh.org/txt/release-10.4)
 * [2026-07-06, 20:14:55](https://news.ycombinator.com/item?id=48809877) - [GLM 5.2 and the coming AI margin collapse](https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/)
 * [2026-07-06, 19:28:24](https://news.ycombinator.com/item?id=48809354) - [Pruning RAG context down to what the answer actually needs](https://www.kapa.ai/blog/how-we-prune-rag-context)
 * [2026-07-06, 18:55:07](https://news.ycombinator.com/item?id=48808928) - [CoMaps – FOSS Offline Maps](https://www.comaps.app/)
@@ -27,7 +27,7 @@
 * [2026-07-04, 15:32:58](https://news.ycombinator.com/item?id=48786124) - [Dolosse – a South African invention used over the world](https://thisbugslife.com/2021/11/21/dolosse-a-south-african-invention-used-over-the-world/)
 * [2026-07-03, 19:38:47](https://news.ycombinator.com/item?id=48779072) - [Not Dark Yet](https://agoodhardstare.substack.com/p/not-dark-yet)
 * [2026-07-03, 18:29:46](https://news.ycombinator.com/item?id=48778243) - [Inkfield](https://www.inkfield.studio)
-* [2026-07-03, 16:51:40](https://news.ycombinator.com/item?id=48777127) - [Dropping in on Gottfried Leibniz (2013)](https://writings.stephenwolfram.com/2013/05/dropping-in-on-gottfried-leibniz/)
+* [2026-07-03, 17:25:15](https://news.ycombinator.com/item?id=48777488) - [C++ Details of Asymmetric Fences](https://nekrozqliphort.github.io/posts/membarrier/)
 * [2026-07-01, 15:30:41](https://news.ycombinator.com/item?id=48748522) - [In Praise of Observational Evidence](https://asteriskmag.com/issues/14/in-praise-of-observational-evidence)
 * [2026-07-01, 01:41:29](https://news.ycombinator.com/item?id=48741447) - [The Family Keeping Watch over a 52-Year-Old Pot of Soup](https://www.wsj.com/arts-culture/food-cooking/the-family-keeping-watch-over-a-52-year-old-pot-of-soup-1e72f115)
 
