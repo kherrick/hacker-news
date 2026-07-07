@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-07, 13:03:31",
+      "https://news.ycombinator.com/item?id=48817191"
+    ],
+    [
+      "Mark Zuckerberg's biggest legal nightmare yet could cost Meta $1.4T",
+      "https://www.the-independent.com/tech/mark-zuckerberg-meta-fine-trillion-b3010281.html"
+    ]
+  ],
+  [
+    [
       "2026-07-07, 12:50:40",
       "https://news.ycombinator.com/item?id=48817017"
     ],
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2026-07-06, 22:32:58",
-      "https://news.ycombinator.com/item?id=48811373"
-    ],
-    [
-      "OpenSSH 10.4/10.4p1 Released",
-      "https://www.openssh.org/txt/release-10.4"
-    ]
-  ],
-  [
-    [
       "2026-07-06, 20:14:55",
       "https://news.ycombinator.com/item?id=48809877"
     ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2026-07-03, 16:51:40",
-      "https://news.ycombinator.com/item?id=48777127"
+      "2026-07-03, 17:25:15",
+      "https://news.ycombinator.com/item?id=48777488"
     ],
     [
-      "Dropping in on Gottfried Leibniz (2013)",
-      "https://writings.stephenwolfram.com/2013/05/dropping-in-on-gottfried-leibniz/"
+      "C++ Details of Asymmetric Fences",
+      "https://nekrozqliphort.github.io/posts/membarrier/"
     ]
   ],
   [
