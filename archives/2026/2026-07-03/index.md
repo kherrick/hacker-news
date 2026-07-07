@@ -28,6 +28,7 @@
 * [2026-07-03, 21:00:50](https://news.ycombinator.com/item?id=48779906) - [Infracost (YC W21) Is Hiring a Marketing Lead to Shift FinOps Left](https://www.ycombinator.com/companies/infracost/jobs/YTJcFwr-marketing-lead)
 * [2026-07-03, 20:42:00](https://news.ycombinator.com/item?id=48779723) - [Applied Category Theory Course (2018)](https://math.ucr.edu/home/baez/act_course/index.html)
 * [2026-07-03, 20:38:26](https://news.ycombinator.com/item?id=48779683) - [Espionage Against the European Parliament](https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/)
+* [2026-07-03, 20:32:40](https://news.ycombinator.com/item?id=48779632) - [Giving a domain a hill to climb: benchmarking as data activation](https://sparsethought.com/2026/07/03/benchmarking-as-data-activation/)
 * [2026-07-03, 20:26:31](https://news.ycombinator.com/item?id=48779565) - [Doing the Work](https://bran.name/doing-the-work.html)
 * [2026-07-03, 20:15:49](https://news.ycombinator.com/item?id=48779454) - [SearXNG: A free internet metasearch engine](https://github.com/searxng/searxng)
 * [2026-07-03, 20:13:09](https://news.ycombinator.com/item?id=48779415) - [Pet projects are getting too big to pet](https://www.nnehdi.me/p/pet-projects-are-getting-too-big)
