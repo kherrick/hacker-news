@@ -1,9 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-07, 08:54:03](https://news.ycombinator.com/item?id=48815196) - [Microsoft Can Track Users via a Windows Device ID](https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device)
+* [2026-07-07, 08:39:51](https://news.ycombinator.com/item?id=48815117) - [YC CEO says he ships 37K LoC AI code per day. A developer looked under the hood](https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media)
 * [2026-07-07, 07:00:27](https://news.ycombinator.com/item?id=48814509) - [Lago (YC S21) Is Hiring for Our GTM Team](https://jobs.ashbyhq.com/lago)
+* [2026-07-07, 05:19:03](https://news.ycombinator.com/item?id=48813929) - [The Art of Computer Programming by Donald E. Knuth](https://www-cs-faculty.stanford.edu/~knuth/taocp.html)
 * [2026-07-07, 00:14:21](https://news.ycombinator.com/item?id=48812156) - [How to sequence your own DNA at home](https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home)
 * [2026-07-06, 23:59:54](https://news.ycombinator.com/item?id=48812055) - [Small AI Models Gain Traction In places with unreliable networks](https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals)
-* [2026-07-06, 23:58:38](https://news.ycombinator.com/item?id=48812045) - [Show HN: InstantVideos.org – short documentaries in ~30 seconds](https://instantvideos.org/)
 * [2026-07-06, 23:33:54](https://news.ycombinator.com/item?id=48811887) - [NSA and IETF: Fairness](https://blog.cr.yp.to/20260706-fairness.html)
 * [2026-07-06, 23:06:31](https://news.ycombinator.com/item?id=48811644) - [Ternlight – 7 MB embedding model that runs in browser (WASM)](https://ternlight-demo.vercel.app/)
 * [2026-07-06, 23:00:24](https://news.ycombinator.com/item?id=48811591) - [Fable turned reMarkable into Tom Riddle's diary from Harry Potter](https://github.com/MaximeRivest/Riddle)
@@ -26,9 +28,7 @@
 * [2026-07-04, 15:32:58](https://news.ycombinator.com/item?id=48786124) - [Dolosse – a South African invention used over the world](https://thisbugslife.com/2021/11/21/dolosse-a-south-african-invention-used-over-the-world/)
 * [2026-07-04, 02:51:57](https://news.ycombinator.com/item?id=48782248) - [A 2048-spin bulk acoustic wave Ising machine for number partitioning and Sudoku](https://arxiv.org/abs/2607.02112)
 * [2026-07-03, 18:29:46](https://news.ycombinator.com/item?id=48778243) - [Inkfield](https://www.inkfield.studio)
-* [2026-07-03, 02:03:45](https://news.ycombinator.com/item?id=48769854) - [Using precision editing to study human embryo development shows master gene](https://www.cam.ac.uk/research/news/first-use-of-precision-editing-to-study-human-embryo-development-reveals-role-of-master-gene)
-* [2026-07-02, 20:51:52](https://news.ycombinator.com/item?id=48767211) - [Clojure 1.13 adds support for checked keys](https://clojure.org/news/2026/07/02/clojure-1-13-alpha1)
-* [2026-07-02, 07:08:58](https://news.ycombinator.com/item?id=48757619) - [Evaluation order and nontermination in query languages](https://www.rntz.net/post/2026-06-11-datalog-nontermination.html)
+* [2026-07-01, 15:30:41](https://news.ycombinator.com/item?id=48748522) - [In Praise of Observational Evidence](https://asteriskmag.com/issues/14/in-praise-of-observational-evidence)
 * [2026-07-01, 14:56:17](https://news.ycombinator.com/item?id=48747889) - [Rotman Lens](https://en.wikipedia.org/wiki/Rotman_lens)
 
 ## [Archives](archives/index.md)

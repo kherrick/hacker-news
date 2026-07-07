@@ -51,6 +51,7 @@
 * [2026-07-01, 16:19:47](https://news.ycombinator.com/item?id=48749313) - [Reduce GVisor Cold Starts with GPU Snapshotting](https://cerebrium.ai/blog/reducing-gpu-cold-starts-with-memory-snapshots-restoring-cuda-workloads-in-second)
 * [2026-07-01, 15:57:51](https://news.ycombinator.com/item?id=48748951) - [Solid and Clean Code never felt solid or clean to me](https://devz.cl/posts/solid-never-felt-solid/)
 * [2026-07-01, 15:40:56](https://news.ycombinator.com/item?id=48748679) - [Meta loses bid to dismiss US states' claims that FB, Instagram addict children](https://www.reuters.com/legal/government/meta-loses-bid-dismiss-us-states-claims-that-facebook-instagram-addict-children-2026-06-30/)
+* [2026-07-01, 15:30:41](https://news.ycombinator.com/item?id=48748522) - [In Praise of Observational Evidence](https://asteriskmag.com/issues/14/in-praise-of-observational-evidence)
 * [2026-07-01, 15:30:35](https://news.ycombinator.com/item?id=48748518) - [How We Made IPFS Content Publishing 10x Faster](https://probelab.io/blog/optimistic-provide/)
 * [2026-07-01, 15:12:08](https://news.ycombinator.com/item?id=48748182) - [Show HN: GolemUI – The new paradigm for JavaScript forms](https://golemui.com)
 * [2026-07-01, 15:01:21](https://news.ycombinator.com/item?id=48747976) - [Ask HN: Who is hiring? (July 2026)](https://news.ycombinator.com/item?id=48747976)
