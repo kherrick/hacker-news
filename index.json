@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-07, 07:00:27",
+      "https://news.ycombinator.com/item?id=48814509"
+    ],
+    [
+      "Lago (YC S21) Is Hiring for Our GTM Team",
+      "https://jobs.ashbyhq.com/lago"
+    ]
+  ],
+  [
+    [
       "2026-07-07, 00:14:21",
       "https://news.ycombinator.com/item?id=48812156"
     ],
@@ -17,6 +27,16 @@
     [
       "Small AI Models Gain Traction In places with unreliable networks",
       "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals"
+    ]
+  ],
+  [
+    [
+      "2026-07-06, 23:58:38",
+      "https://news.ycombinator.com/item?id=48812045"
+    ],
+    [
+      "Show HN: InstantVideos.org – short documentaries in ~30 seconds",
+      "https://instantvideos.org/"
     ]
   ],
   [
@@ -57,26 +77,6 @@
     [
       "OpenSSH 10.4/10.4p1 Released",
       "https://www.openssh.org/txt/release-10.4"
-    ]
-  ],
-  [
-    [
-      "2026-07-06, 22:30:33",
-      "https://news.ycombinator.com/item?id=48811339"
-    ],
-    [
-      "Acronym Fatigue Series Introduction: why I'm wary of acronyms",
-      "https://devz.cl/posts/acryonym-fatigue-series-why-i-m-wary-of-engineering-acronyms/"
-    ]
-  ],
-  [
-    [
-      "2026-07-06, 22:28:06",
-      "https://news.ycombinator.com/item?id=48811317"
-    ],
-    [
-      "Poly/ML – A Standard ML Implementation",
-      "https://github.com/polyml/polyml"
     ]
   ],
   [
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2026-07-06, 16:33:04",
-      "https://news.ycombinator.com/item?id=48806976"
-    ],
-    [
-      "Stealth robotics startup (YC S26) is hiring principal engineers (Palo Alto)",
-      "https://news.ycombinator.com/item?id=48806976"
-    ]
-  ],
-  [
-    [
       "2026-07-06, 15:53:24",
       "https://news.ycombinator.com/item?id=48806410"
     ],
@@ -227,16 +217,6 @@
     [
       "Resetting Xbox",
       "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/"
-    ]
-  ],
-  [
-    [
-      "2026-07-06, 13:28:57",
-      "https://news.ycombinator.com/item?id=48804297"
-    ],
-    [
-      "Aluminum foil (2021)",
-      "https://dernocua.github.io/notes/aluminum-foil.html"
     ]
   ],
   [
@@ -271,12 +251,32 @@
   ],
   [
     [
-      "2026-07-02, 13:30:41",
-      "https://news.ycombinator.com/item?id=48761319"
+      "2026-07-03, 18:29:46",
+      "https://news.ycombinator.com/item?id=48778243"
     ],
     [
-      "Tiny-C Reference Manual Excerpt",
-      "https://permacomputer.solarpunk.au/?p=204"
+      "Inkfield",
+      "https://www.inkfield.studio"
+    ]
+  ],
+  [
+    [
+      "2026-07-03, 02:03:45",
+      "https://news.ycombinator.com/item?id=48769854"
+    ],
+    [
+      "Using precision editing to study human embryo development shows master gene",
+      "https://www.cam.ac.uk/research/news/first-use-of-precision-editing-to-study-human-embryo-development-reveals-role-of-master-gene"
+    ]
+  ],
+  [
+    [
+      "2026-07-02, 20:51:52",
+      "https://news.ycombinator.com/item?id=48767211"
+    ],
+    [
+      "Clojure 1.13 adds support for checked keys",
+      "https://clojure.org/news/2026/07/02/clojure-1-13-alpha1"
     ]
   ],
   [
