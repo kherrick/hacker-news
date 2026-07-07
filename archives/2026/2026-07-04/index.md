@@ -36,6 +36,7 @@
 * [2026-07-04, 16:15:48](https://news.ycombinator.com/item?id=48786495) - [Curveball](https://mightyburger.net/projects/curveball/)
 * [2026-07-04, 15:53:08](https://news.ycombinator.com/item?id=48786284) - [Airplane Boneyards List and Map](https://airplaneboneyards.com/airplane-boneyards-list-and-map.htm)
 * [2026-07-04, 15:49:08](https://news.ycombinator.com/item?id=48786245) - [Fable created novel 4D splat format](https://adamraudonis.github.io/splats4D/)
+* [2026-07-04, 15:32:58](https://news.ycombinator.com/item?id=48786124) - [Dolosse – a South African invention used over the world](https://thisbugslife.com/2021/11/21/dolosse-a-south-african-invention-used-over-the-world/)
 * [2026-07-04, 14:52:25](https://news.ycombinator.com/item?id=48785840) - [Windows CE Dreamcast Community Edition (wince-dc)](https://github.com/maximqaxd/wince-dc)
 * [2026-07-04, 14:34:00](https://news.ycombinator.com/item?id=48785720) - [California Bans 'Sell by' Labels, Hoping to Cut Food Waste](https://www.nytimes.com/2026/07/02/us/california-food-labels-sell-by.html)
 * [2026-07-04, 14:15:22](https://news.ycombinator.com/item?id=48785573) - ['All men are created equal': America has lost its values. It's time to go back](https://www.theguardian.com/us-news/ng-interactive/2026/jul/04/250-years-declaration-of-independence)
