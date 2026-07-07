@@ -1,12 +1,52 @@
 [
   [
     [
+      "2026-07-07, 01:06:19",
+      "https://news.ycombinator.com/item?id=48812489"
+    ],
+    [
+      "LLMs Are Not a Default Execution Engine",
+      "https://unmeshed.io/blog/using-ai-wisely-starts-before-the-first-prompt"
+    ]
+  ],
+  [
+    [
+      "2026-07-07, 01:00:14",
+      "https://news.ycombinator.com/item?id=48812450"
+    ],
+    [
+      "I created a free tool that pairs your Nasic and past performance to win contract",
+      "https://www.fedfinder.net/"
+    ]
+  ],
+  [
+    [
+      "2026-07-07, 00:32:59",
+      "https://news.ycombinator.com/item?id=48812282"
+    ],
+    [
+      "Strata – An app that talks me out of dying outdoors",
+      "https://strata.highloop.co/"
+    ]
+  ],
+  [
+    [
       "2026-07-07, 00:14:21",
       "https://news.ycombinator.com/item?id=48812156"
     ],
     [
       "How to sequence your own DNA at home",
       "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home"
+    ]
+  ],
+  [
+    [
+      "2026-07-06, 23:59:54",
+      "https://news.ycombinator.com/item?id=48812055"
+    ],
+    [
+      "Small AI Models Gain Traction In places with unreliable networks",
+      "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals"
     ]
   ],
   [
@@ -35,7 +75,7 @@
       "https://news.ycombinator.com/item?id=48811591"
     ],
     [
-      "Fable turned remarkable into Tom Riddle's diary from Harry Potter",
+      "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
       "https://github.com/MaximeRivest/Riddle"
     ]
   ],
@@ -91,22 +131,22 @@
   ],
   [
     [
+      "2026-07-06, 20:59:54",
+      "https://news.ycombinator.com/item?id=48810439"
+    ],
+    [
+      "Learning to code is still worthwhile",
+      "https://stevekrouse.com/learn-to-code"
+    ]
+  ],
+  [
+    [
       "2026-07-06, 20:14:55",
       "https://news.ycombinator.com/item?id=48809877"
     ],
     [
       "GLM 5.2 and the coming AI margin collapse",
       "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/"
-    ]
-  ],
-  [
-    [
-      "2026-07-06, 20:08:46",
-      "https://news.ycombinator.com/item?id=48809810"
-    ],
-    [
-      "M/PC – A Concatenative OS",
-      "https://wiki.xxiivv.com/site/m_pc.html"
     ]
   ],
   [
@@ -191,16 +231,6 @@
   ],
   [
     [
-      "2026-07-06, 15:53:24",
-      "https://news.ycombinator.com/item?id=48806410"
-    ],
-    [
-      "Kani: A Model Checker for Rust",
-      "https://arxiv.org/abs/2607.01504"
-    ]
-  ],
-  [
-    [
       "2026-07-06, 15:01:18",
       "https://news.ycombinator.com/item?id=48805624"
     ],
@@ -231,16 +261,6 @@
   ],
   [
     [
-      "2026-07-06, 11:47:37",
-      "https://news.ycombinator.com/item?id=48803364"
-    ],
-    [
-      "Road to Elm 1.0",
-      "https://elm-lang.org/news/faster-builds"
-    ]
-  ],
-  [
-    [
       "2026-07-04, 06:43:29",
       "https://news.ycombinator.com/item?id=48783175"
     ],
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2026-07-03, 02:03:45",
-      "https://news.ycombinator.com/item?id=48769854"
-    ],
-    [
-      "Using precision editing to study human embryo development shows master gene",
-      "https://www.cam.ac.uk/research/news/first-use-of-precision-editing-to-study-human-embryo-development-reveals-role-of-master-gene"
-    ]
-  ],
-  [
-    [
       "2026-07-02, 21:01:31",
       "https://news.ycombinator.com/item?id=48767317"
     ],
@@ -287,16 +297,6 @@
     [
       "Evaluation order and nontermination in query languages",
       "https://www.rntz.net/post/2026-06-11-datalog-nontermination.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-01, 14:56:17",
-      "https://news.ycombinator.com/item?id=48747889"
-    ],
-    [
-      "Rotman Lens",
-      "https://en.wikipedia.org/wiki/Rotman_lens"
     ]
   ]
 ]
