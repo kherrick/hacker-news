@@ -6,6 +6,7 @@
 
 * [2026-07-01, 23:58:48](https://news.ycombinator.com/item?id=48754713) - [Meta Caps Internal AI Token Spending After Costs Approach Billions in 2026](https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/)
 * [2026-07-01, 23:56:15](https://news.ycombinator.com/item?id=48754700) - [The <Usermedia> HTML Element](https://developer.chrome.com/blog/usermedia-html-element)
+* [2026-07-01, 23:26:39](https://news.ycombinator.com/item?id=48754476) - [Computational Balloon Twisting: The Theory of Balloon Polyhedra [pdf]](https://cccg.ca/proceedings/2008/paper34full.pdf)
 * [2026-07-01, 23:07:56](https://news.ycombinator.com/item?id=48754326) - [You can get Unicode working on DOS](https://twitter.com/i/status/2071469740141224272)
 * [2026-07-01, 22:48:56](https://news.ycombinator.com/item?id=48754155) - [Healthy but Sedentary People Show Early Decline in Cellular Energy Production](https://news.cuanschutz.edu/news-stories/healthy-but-sedentary-individuals-show-early-decline-in-cellular-energy-production)
 * [2026-07-01, 22:45:41](https://news.ycombinator.com/item?id=48754128) - [US feds are actively hiring \"person who decides which models to ban\"](https://www.usajobs.gov/job/856265200)

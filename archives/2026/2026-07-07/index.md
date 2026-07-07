@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-07](index.md)
 
+* [2026-07-07, 16:56:31](https://news.ycombinator.com/item?id=48820458) - [New Literalism Comes for Museums](https://jaymollica.com/blog/new-literalism-comes-for-museums/)
 * [2026-07-07, 16:42:41](https://news.ycombinator.com/item?id=48820274) - [Mapping homes you can buy from the US government for <$100k](https://govauctions.app/research/cheapest-homes-in-america)
 * [2026-07-07, 16:38:08](https://news.ycombinator.com/item?id=48820220) - [China sentences official to death for taking $325M in bribes](https://www.bbc.com/news/articles/c33y0n1v1xjo)
 * [2026-07-07, 16:31:19](https://news.ycombinator.com/item?id=48820127) - [Reducing Doom Loops with Final Token Preference Optimization](https://www.liquid.ai/blog/antidoom)
