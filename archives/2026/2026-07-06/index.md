@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-07-06](index.md)
 
 * [2026-07-06, 23:59:54](https://news.ycombinator.com/item?id=48812055) - [Small AI Models Gain Traction In places with unreliable networks](https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals)
+* [2026-07-06, 23:58:38](https://news.ycombinator.com/item?id=48812045) - [Show HN: InstantVideos.org – short documentaries in ~30 seconds](https://instantvideos.org/)
 * [2026-07-06, 23:33:54](https://news.ycombinator.com/item?id=48811887) - [NSA and IETF: Fairness](https://blog.cr.yp.to/20260706-fairness.html)
 * [2026-07-06, 23:06:31](https://news.ycombinator.com/item?id=48811644) - [Ternlight – 7 MB embedding model that runs in browser (WASM)](https://ternlight-demo.vercel.app/)
 * [2026-07-06, 23:00:24](https://news.ycombinator.com/item?id=48811591) - [Fable turned remarkable into Tom Riddle's diary from Harry Potter](https://github.com/MaximeRivest/Riddle)
