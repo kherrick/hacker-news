@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-07-07, 08:54:03",
+      "https://news.ycombinator.com/item?id=48815196"
+    ],
+    [
+      "Microsoft Can Track Users via a Windows Device ID",
+      "https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device"
+    ]
+  ],
+  [
+    [
+      "2026-07-07, 08:39:51",
+      "https://news.ycombinator.com/item?id=48815117"
+    ],
+    [
+      "YC CEO says he ships 37K LoC AI code per day. A developer looked under the hood",
+      "https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media"
+    ]
+  ],
+  [
+    [
       "2026-07-07, 07:00:27",
       "https://news.ycombinator.com/item?id=48814509"
     ],
     [
       "Lago (YC S21) Is Hiring for Our GTM Team",
       "https://jobs.ashbyhq.com/lago"
+    ]
+  ],
+  [
+    [
+      "2026-07-07, 05:19:03",
+      "https://news.ycombinator.com/item?id=48813929"
+    ],
+    [
+      "The Art of Computer Programming by Donald E. Knuth",
+      "https://www-cs-faculty.stanford.edu/~knuth/taocp.html"
     ]
   ],
   [
@@ -27,16 +57,6 @@
     [
       "Small AI Models Gain Traction In places with unreliable networks",
       "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals"
-    ]
-  ],
-  [
-    [
-      "2026-07-06, 23:58:38",
-      "https://news.ycombinator.com/item?id=48812045"
-    ],
-    [
-      "Show HN: InstantVideos.org – short documentaries in ~30 seconds",
-      "https://instantvideos.org/"
     ]
   ],
   [
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2026-07-03, 02:03:45",
-      "https://news.ycombinator.com/item?id=48769854"
+      "2026-07-01, 15:30:41",
+      "https://news.ycombinator.com/item?id=48748522"
     ],
     [
-      "Using precision editing to study human embryo development shows master gene",
-      "https://www.cam.ac.uk/research/news/first-use-of-precision-editing-to-study-human-embryo-development-reveals-role-of-master-gene"
-    ]
-  ],
-  [
-    [
-      "2026-07-02, 20:51:52",
-      "https://news.ycombinator.com/item?id=48767211"
-    ],
-    [
-      "Clojure 1.13 adds support for checked keys",
-      "https://clojure.org/news/2026/07/02/clojure-1-13-alpha1"
-    ]
-  ],
-  [
-    [
-      "2026-07-02, 07:08:58",
-      "https://news.ycombinator.com/item?id=48757619"
-    ],
-    [
-      "Evaluation order and nontermination in query languages",
-      "https://www.rntz.net/post/2026-06-11-datalog-nontermination.html"
+      "In Praise of Observational Evidence",
+      "https://asteriskmag.com/issues/14/in-praise-of-observational-evidence"
     ]
   ],
   [
