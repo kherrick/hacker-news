@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2026-07-07, 16:38:08",
-      "https://news.ycombinator.com/item?id=48820220"
-    ],
-    [
-      "China sentences official to death for taking $325M in bribes",
-      "https://www.bbc.com/news/articles/c33y0n1v1xjo"
-    ]
-  ],
-  [
-    [
       "2026-07-07, 16:31:19",
       "https://news.ycombinator.com/item?id=48820127"
     ],
@@ -51,12 +41,22 @@
   ],
   [
     [
-      "2026-07-07, 16:20:12",
-      "https://news.ycombinator.com/item?id=48819958"
+      "2026-07-07, 15:58:13",
+      "https://news.ycombinator.com/item?id=48819608"
     ],
     [
-      "Weighing smoke: why AI visibility dashboards are mostly useless",
-      "https://betterthangood.xyz/blog/weighing-smoke/"
+      "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
+      "https://30papers.com/"
+    ]
+  ],
+  [
+    [
+      "2026-07-07, 15:52:48",
+      "https://news.ycombinator.com/item?id=48819517"
+    ],
+    [
+      "Sites that block AI training crawlers mostly ignore the answer time bots",
+      "https://sitedex.dev/insights/robots-txt-2023-war-memorial"
     ]
   ],
   [
@@ -71,12 +71,42 @@
   ],
   [
     [
+      "2026-07-07, 15:36:49",
+      "https://news.ycombinator.com/item?id=48819308"
+    ],
+    [
+      "Why we built yet another Postgres connection pooler",
+      "https://pgdog.dev/blog/why-yet-another-connection-pooler"
+    ]
+  ],
+  [
+    [
+      "2026-07-07, 15:33:40",
+      "https://news.ycombinator.com/item?id=48819250"
+    ],
+    [
+      "Software Bonkers",
+      "https://craigmod.com/essays/software_bonkers/"
+    ]
+  ],
+  [
+    [
       "2026-07-07, 15:33:20",
       "https://news.ycombinator.com/item?id=48819244"
     ],
     [
       "Microsoft Fire IdTech Team at Id Software",
       "https://gamefromscratch.com/microsoft-fire-idtech-team-at-id-software/"
+    ]
+  ],
+  [
+    [
+      "2026-07-07, 15:32:34",
+      "https://news.ycombinator.com/item?id=48819232"
+    ],
+    [
+      "Midtown Manhattan blocks evacuated after beams buckling at construction site",
+      "https://abcnews.com/US/midtown-manhattan-blocks-evacuated-after-beams-found-buckling/story?id=134549272"
     ]
   ],
   [
@@ -107,6 +137,16 @@
     [
       "Automating AI Away",
       "https://replicated.live/blog/away"
+    ]
+  ],
+  [
+    [
+      "2026-07-07, 14:23:15",
+      "https://news.ycombinator.com/item?id=48818311"
+    ],
+    [
+      "Chat Control 1.0 and 2.0 Explained",
+      "https://fightchatcontrol.eu/chat-control-overview"
     ]
   ],
   [
@@ -201,56 +241,6 @@
   ],
   [
     [
-      "2026-07-07, 00:14:21",
-      "https://news.ycombinator.com/item?id=48812156"
-    ],
-    [
-      "How to sequence your own DNA at home",
-      "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home"
-    ]
-  ],
-  [
-    [
-      "2026-07-06, 23:59:54",
-      "https://news.ycombinator.com/item?id=48812055"
-    ],
-    [
-      "Small AI Models Gain Traction In places with unreliable networks",
-      "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals"
-    ]
-  ],
-  [
-    [
-      "2026-07-06, 20:14:55",
-      "https://news.ycombinator.com/item?id=48809877"
-    ],
-    [
-      "GLM 5.2 and the coming AI margin collapse",
-      "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/"
-    ]
-  ],
-  [
-    [
-      "2026-07-06, 18:55:07",
-      "https://news.ycombinator.com/item?id=48808928"
-    ],
-    [
-      "CoMaps – FOSS Offline Maps",
-      "https://www.comaps.app/"
-    ]
-  ],
-  [
-    [
-      "2026-07-06, 18:23:12",
-      "https://news.ycombinator.com/item?id=48808482"
-    ],
-    [
-      "OpenWrt One – Open Hardware Router",
-      "https://openwrt.org/toh/openwrt/one"
-    ]
-  ],
-  [
-    [
       "2026-07-06, 02:06:55",
       "https://news.ycombinator.com/item?id=48799930"
     ],
@@ -277,6 +267,16 @@
     [
       "Historic Photos of NASA's Cavernous Wind Tunnels",
       "https://www.theatlantic.com/photo/2018/05/historic-photos-of-nasas-cavernous-wind-tunnels/560660/"
+    ]
+  ],
+  [
+    [
+      "2026-07-04, 15:32:58",
+      "https://news.ycombinator.com/item?id=48786124"
+    ],
+    [
+      "Dolosse – a South African invention used over the world",
+      "https://thisbugslife.com/2021/11/21/dolosse-a-south-african-invention-used-over-the-world/"
     ]
   ],
   [
