@@ -1,36 +1,6 @@
 [
   [
     [
-      "2026-07-07, 01:06:19",
-      "https://news.ycombinator.com/item?id=48812489"
-    ],
-    [
-      "LLMs Are Not a Default Execution Engine",
-      "https://unmeshed.io/blog/using-ai-wisely-starts-before-the-first-prompt"
-    ]
-  ],
-  [
-    [
-      "2026-07-07, 01:00:14",
-      "https://news.ycombinator.com/item?id=48812450"
-    ],
-    [
-      "I created a free tool that pairs your Nasic and past performance to win contract",
-      "https://www.fedfinder.net/"
-    ]
-  ],
-  [
-    [
-      "2026-07-07, 00:32:59",
-      "https://news.ycombinator.com/item?id=48812282"
-    ],
-    [
-      "Strata – An app that talks me out of dying outdoors",
-      "https://strata.highloop.co/"
-    ]
-  ],
-  [
-    [
       "2026-07-07, 00:14:21",
       "https://news.ycombinator.com/item?id=48812156"
     ],
@@ -281,6 +251,26 @@
   ],
   [
     [
+      "2026-07-03, 17:38:30",
+      "https://news.ycombinator.com/item?id=48777636"
+    ],
+    [
+      "Craig Mod built his own Good Reads",
+      "https://craigmod.com/roden/115/"
+    ]
+  ],
+  [
+    [
+      "2026-07-03, 03:51:17",
+      "https://news.ycombinator.com/item?id=48770485"
+    ],
+    [
+      "Artificial and Fake Eggs: Dance of Death",
+      "https://www.researchgate.net/publication/281149909_Artificial_and_Fake_Eggs_Dance_of_Death"
+    ]
+  ],
+  [
+    [
       "2026-07-02, 21:01:31",
       "https://news.ycombinator.com/item?id=48767317"
     ],
@@ -297,6 +287,16 @@
     [
       "Evaluation order and nontermination in query languages",
       "https://www.rntz.net/post/2026-06-11-datalog-nontermination.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-01, 14:56:17",
+      "https://news.ycombinator.com/item?id=48747889"
+    ],
+    [
+      "Rotman Lens",
+      "https://en.wikipedia.org/wiki/Rotman_lens"
     ]
   ]
 ]
