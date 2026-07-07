@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-07-07, 20:50:46](https://news.ycombinator.com/item?id=48823557) - [Every new car sold in the European Union must include a driver monitoring camera](https://allaboutcookies.org/eu-mandatory-distracted-driver-system)
-* [2026-07-07, 20:36:01](https://news.ycombinator.com/item?id=48823368) - [Men's average testosterone levels have halved in last 50 years](https://www.theguardian.com/society/2026/jul/07/mens-average-testosterone-levels-have-halved-in-last-50-years-say-scientists)
 * [2026-07-07, 18:44:29](https://news.ycombinator.com/item?id=48821848) - [Show HN: Davit, a Apple Containers UI](https://davit.app)
 * [2026-07-07, 18:36:35](https://news.ycombinator.com/item?id=48821749) - [AI Meets Cryptography 1: What AI Found in Cloudflare's Circl](https://blog.zksecurity.xyz/posts/circl-bugs/)
 * [2026-07-07, 18:30:02](https://news.ycombinator.com/item?id=48821653) - [Astro 7.0](https://astro.build/blog/astro-7/)
@@ -20,6 +19,7 @@
 * [2026-07-07, 15:11:08](https://news.ycombinator.com/item?id=48818937) - [Automating AI Away](https://replicated.live/blog/away)
 * [2026-07-07, 14:41:56](https://news.ycombinator.com/item?id=48818544) - [The revenge of the philosophy majors](https://www.nytimes.com/2026/07/05/business/philosophy-majors-ai-jobs.html)
 * [2026-07-07, 14:23:15](https://news.ycombinator.com/item?id=48818311) - [Chat Control 1.0 and 2.0 Explained](https://fightchatcontrol.eu/chat-control-overview)
+* [2026-07-07, 14:07:08](https://news.ycombinator.com/item?id=48818098) - [Show HN: Halo – open-source, tamper-evident runtime evidence for AI agents](https://github.com/bkuan001/halo-record)
 * [2026-07-07, 12:45:14](https://news.ycombinator.com/item?id=48816959) - [98% isn't much](https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/)
 * [2026-07-07, 12:45:06](https://news.ycombinator.com/item?id=48816956) - [A better way to tie gym shorts (or any drawstring) [video]](https://www.youtube.com/watch?v=3R0Lp86GEBk)
 * [2026-07-07, 12:38:35](https://news.ycombinator.com/item?id=48816883) - [StreetComplete: Fixing OpenStreetMap, one tiny quest at a time](https://streetcomplete.app/)
