@@ -54,6 +54,7 @@
 * [2026-07-04, 05:37:25](https://news.ycombinator.com/item?id=48782890) - [2026 Unslop AI-Written Fiction Contest Results](https://www.hyperstitionai.com/unslop-results)
 * [2026-07-04, 04:37:15](https://news.ycombinator.com/item?id=48782671) - [Agentic coding notes from Galapogos Island](https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post)
 * [2026-07-04, 03:36:03](https://news.ycombinator.com/item?id=48782435) - [Maybe you should learn something](https://www.marginalia.nu/log/a_135_learn/)
+* [2026-07-04, 02:51:57](https://news.ycombinator.com/item?id=48782248) - [A 2048-spin bulk acoustic wave Ising machine for number partitioning and Sudoku](https://arxiv.org/abs/2607.02112)
 * [2026-07-04, 02:45:24](https://news.ycombinator.com/item?id=48782219) - [Synthesis is harder than analysis](https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/)
 * [2026-07-04, 00:57:44](https://news.ycombinator.com/item?id=48781688) - [MSI Center – How to gain SYSTEM privileges in seconds](https://mrbruh.com/msicenter/)
 * [2026-07-04, 00:35:49](https://news.ycombinator.com/item?id=48781597) - [Soatok's Informal Guide to Threat Models](https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/)
