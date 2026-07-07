@@ -16,6 +16,7 @@
 * [2026-07-03, 22:33:10](https://news.ycombinator.com/item?id=48780801) - [Leanstral 1.5: Proof Abundance for All](https://mistral.ai/news/leanstral-1-5/)
 * [2026-07-03, 22:26:47](https://news.ycombinator.com/item?id=48780754) - [Coding without AI: a revolutionary new way to work](https://isaaclyman.com/blog/posts/coding-without-ai/)
 * [2026-07-03, 22:17:24](https://news.ycombinator.com/item?id=48780674) - [Disputing the Declaration of Independence](https://www.historytoday.com/archive/feature/disputing-declaration-independence)
+* [2026-07-03, 21:58:15](https://news.ycombinator.com/item?id=48780507) - [Why Vancouver is always a stand-in for San Francisco in movies and TV shows (2021)](https://www.sfgate.com/sf-culture/article/vancouver-stand-in-movie-tv-sf-16613821.php)
 * [2026-07-03, 21:53:04](https://news.ycombinator.com/item?id=48780469) - [The Demoralization of the White-Collar Worker](https://nooneshappy.com/article/the-demoralization-of-the-white-collar-worker/)
 * [2026-07-03, 21:49:06](https://news.ycombinator.com/item?id=48780417) - [GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell](https://www.wafer.ai/blog/glm52-amd)
 * [2026-07-03, 21:42:19](https://news.ycombinator.com/item?id=48780352) - [Goodbye, Forever, Probably](https://whitep4nth3r.com/blog/goodbye-forever-probably/)
