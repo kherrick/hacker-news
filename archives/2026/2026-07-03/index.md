@@ -26,6 +26,7 @@
 * [2026-07-03, 21:08:37](https://news.ycombinator.com/item?id=48779977) - [Africans Are Turning to Starlink](https://www.economist.com/middle-east-and-africa/2026/07/02/africans-are-turning-to-starlink)
 * [2026-07-03, 21:03:19](https://news.ycombinator.com/item?id=48779933) - [Show HN: ContextCodeCache in Rust](https://github.com/colwill/ccc)
 * [2026-07-03, 21:00:50](https://news.ycombinator.com/item?id=48779906) - [Infracost (YC W21) Is Hiring a Marketing Lead to Shift FinOps Left](https://www.ycombinator.com/companies/infracost/jobs/YTJcFwr-marketing-lead)
+* [2026-07-03, 20:54:36](https://news.ycombinator.com/item?id=48779844) - [Camera with transparent display launches for the equivalent of $29](https://www.notebookcheck.net/Camera-with-transparent-display-launches-for-the-equivalent-of-29.1334495.0.html)
 * [2026-07-03, 20:42:00](https://news.ycombinator.com/item?id=48779723) - [Applied Category Theory Course (2018)](https://math.ucr.edu/home/baez/act_course/index.html)
 * [2026-07-03, 20:38:26](https://news.ycombinator.com/item?id=48779683) - [Espionage Against the European Parliament](https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/)
 * [2026-07-03, 20:32:40](https://news.ycombinator.com/item?id=48779632) - [Giving a domain a hill to climb: benchmarking as data activation](https://sparsethought.com/2026/07/03/benchmarking-as-data-activation/)

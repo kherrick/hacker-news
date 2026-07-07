@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-07-07, 20:10:13](https://news.ycombinator.com/item?id=48823024) - [Re: I'm Begging You to Leave Your AI Note-Taker at Home](https://firesphere.dev/articles/yes-actually-i-do-fucking-mind)
+* [2026-07-07, 20:50:46](https://news.ycombinator.com/item?id=48823557) - [All Cars Sold in the EU Now Require a Camera Aimed at Your Face](https://allaboutcookies.org/eu-mandatory-distracted-driver-system)
 * [2026-07-07, 18:44:29](https://news.ycombinator.com/item?id=48821848) - [Show HN: Davit, a Apple Containers UI](https://davit.app)
 * [2026-07-07, 18:36:35](https://news.ycombinator.com/item?id=48821749) - [AI Meets Cryptography 1: What AI Found in Cloudflare's Circl](https://blog.zksecurity.xyz/posts/circl-bugs/)
 * [2026-07-07, 18:30:02](https://news.ycombinator.com/item?id=48821653) - [Astro 7.0](https://astro.build/blog/astro-7/)
@@ -9,7 +9,6 @@
 * [2026-07-07, 18:14:50](https://news.ycombinator.com/item?id=48821441) - [Notes on Software Quality](https://anthonyhobday.com/blog/20260410)
 * [2026-07-07, 18:08:29](https://news.ycombinator.com/item?id=48821378) - [l: A new runtime for k and q](https://lv1.sh/)
 * [2026-07-07, 16:38:08](https://news.ycombinator.com/item?id=48820220) - [China sentences official to death for taking $325M in bribes](https://www.bbc.com/news/articles/c33y0n1v1xjo)
-* [2026-07-07, 16:31:19](https://news.ycombinator.com/item?id=48820127) - [Reducing Doom Loops with Final Token Preference Optimization](https://www.liquid.ai/blog/antidoom)
 * [2026-07-07, 16:30:42](https://news.ycombinator.com/item?id=48820119) - [Jim's TrueType QR Code Font](https://github.com/jimparis/qr-font)
 * [2026-07-07, 16:24:40](https://news.ycombinator.com/item?id=48820022) - [MacSurf 1.68 – NetSurf on OS 9 Released](https://github.com/mplsllc/macsurf/releases/tag/v1.86)
 * [2026-07-07, 16:10:44](https://news.ycombinator.com/item?id=48819808) - [Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop](https://github.com/rowboatlabs/rowboat)
@@ -28,6 +27,7 @@
 * [2026-07-07, 10:42:59](https://news.ycombinator.com/item?id=48815982) - [Why skilled workers come to Germany and then leave again](https://www.dw.com/en/germany-migrants-skilled-workers-integration-labor-market-bureaucracy-language-housing/a-77853162)
 * [2026-07-06, 02:06:55](https://news.ycombinator.com/item?id=48799930) - [GitHub Freno: cooperative, highly available throttler service](https://github.com/github/freno)
 * [2026-07-05, 05:36:51](https://news.ycombinator.com/item?id=48791505) - [Fixing analog audio on the $2.58 HDMI-to-VGA adapter](https://nyanpasu64.gitlab.io/blog/hdmi-vga-dac-audio/)
+* [2026-07-03, 20:54:36](https://news.ycombinator.com/item?id=48779844) - [Camera with transparent display launches for the equivalent of $29](https://www.notebookcheck.net/Camera-with-transparent-display-launches-for-the-equivalent-of-29.1334495.0.html)
 * [2026-07-02, 04:28:39](https://news.ycombinator.com/item?id=48756578) - [Herdr: One terminal to rule them all](https://herdr.dev/)
 * [2026-07-01, 23:26:39](https://news.ycombinator.com/item?id=48754476) - [Computational Balloon Twisting: The Theory of Balloon Polyhedra [pdf]](https://cccg.ca/proceedings/2008/paper34full.pdf)
 
