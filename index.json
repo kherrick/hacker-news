@@ -1,32 +1,42 @@
 [
   [
     [
+      "2026-07-07, 15:52:22",
+      "https://news.ycombinator.com/item?id=48819512"
+    ],
+    [
+      "Better Auth is joining Vercel",
+      "https://better-auth.com/blog/better-auth-joins-vercel"
+    ]
+  ],
+  [
+    [
+      "2026-07-07, 15:33:20",
+      "https://news.ycombinator.com/item?id=48819244"
+    ],
+    [
+      "Microsoft Fire IdTech Team at Id Software",
+      "https://gamefromscratch.com/microsoft-fire-idtech-team-at-id-software/"
+    ]
+  ],
+  [
+    [
+      "2026-07-07, 15:16:15",
+      "https://news.ycombinator.com/item?id=48819008"
+    ],
+    [
+      "Chat Control passed first round in EU Parliament",
+      "https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html"
+    ]
+  ],
+  [
+    [
       "2026-07-07, 14:41:56",
       "https://news.ycombinator.com/item?id=48818544"
     ],
     [
       "The Revenge of the Philosophy Majors",
       "https://www.nytimes.com/2026/07/05/business/philosophy-majors-ai-jobs.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-07, 14:19:34",
-      "https://news.ycombinator.com/item?id=48818271"
-    ],
-    [
-      "Sodium-ion \"salt\" batteries will revolutionize electric-vehicle and grid storage",
-      "https://www.newscientist.com/article/2532997-salt-batteries-are-about-to-shake-up-evs-and-grid-storage/"
-    ]
-  ],
-  [
-    [
-      "2026-07-07, 14:08:58",
-      "https://news.ycombinator.com/item?id=48818124"
-    ],
-    [
-      "Show HN: Shellular – run Claude Code, Codex, Pi from your phone",
-      "https://shellular.dev/"
     ]
   ],
   [
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2026-07-06, 19:28:24",
-      "https://news.ycombinator.com/item?id=48809354"
-    ],
-    [
-      "Pruning RAG context down to what the answer actually needs",
-      "https://www.kapa.ai/blog/how-we-prune-rag-context"
-    ]
-  ],
-  [
-    [
       "2026-07-06, 18:55:07",
       "https://news.ycombinator.com/item?id=48808928"
     ],
@@ -217,16 +217,6 @@
     [
       "A global workspace in language models",
       "https://www.anthropic.com/research/global-workspace"
-    ]
-  ],
-  [
-    [
-      "2026-07-06, 15:01:18",
-      "https://news.ycombinator.com/item?id=48805624"
-    ],
-    [
-      "AMD Ryzen AI Halo – $4k AI Dev Kit",
-      "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Dolosse – a South African invention used over the world",
       "https://thisbugslife.com/2021/11/21/dolosse-a-south-african-invention-used-over-the-world/"
+    ]
+  ],
+  [
+    [
+      "2026-07-04, 08:49:35",
+      "https://news.ycombinator.com/item?id=48783832"
+    ],
+    [
+      "But Nothing Has Changed on Our Side",
+      "https://cacm.acm.org/blogcacm/but-nothing-has-changed-on-our-side/"
     ]
   ],
   [
