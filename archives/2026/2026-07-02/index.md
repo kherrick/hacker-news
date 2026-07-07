@@ -60,6 +60,7 @@
 * [2026-07-02, 14:13:26](https://news.ycombinator.com/item?id=48761944) - [Immich 3.0](https://github.com/immich-app/immich/discussions/29439)
 * [2026-07-02, 13:43:41](https://news.ycombinator.com/item?id=48761536) - [AI can't be listed as inventor on patent applications, Japan's top court rules](https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/)
 * [2026-07-02, 13:41:11](https://news.ycombinator.com/item?id=48761493) - [Show HN: ZeroFS – A log-structured filesystem for S3](https://www.zerofs.net/)
+* [2026-07-02, 13:30:41](https://news.ycombinator.com/item?id=48761319) - [Tiny-C Reference Manual Excerpt](https://permacomputer.solarpunk.au/?p=204)
 * [2026-07-02, 13:29:09](https://news.ycombinator.com/item?id=48761294) - [Show HN: A graph paper generator that renders vector PDFs in the browser](https://freegraphpaper.net/)
 * [2026-07-02, 13:25:25](https://news.ycombinator.com/item?id=48761229) - [The Egg Bandits Made a Thousand Times the Fine They Just Paid for Price Fixing](https://www.thebignewsletter.com/p/crime-pays-the-egg-bandits-made-a)
 * [2026-07-02, 13:19:56](https://news.ycombinator.com/item?id=48761132) - [Comparing Fable and 10 other LLMs on refactoring a LangGraph god node](https://wtf.korridzy.com/twilight-of-the-gods/)

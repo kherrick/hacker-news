@@ -2,6 +2,7 @@
 
 * [2026-07-07, 00:14:21](https://news.ycombinator.com/item?id=48812156) - [How to sequence your own DNA at home](https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home)
 * [2026-07-06, 23:59:54](https://news.ycombinator.com/item?id=48812055) - [Small AI Models Gain Traction In places with unreliable networks](https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals)
+* [2026-07-06, 23:33:54](https://news.ycombinator.com/item?id=48811887) - [NSA and IETF: Fairness](https://blog.cr.yp.to/20260706-fairness.html)
 * [2026-07-06, 23:06:31](https://news.ycombinator.com/item?id=48811644) - [Ternlight – 7 MB embedding model that runs in browser (WASM)](https://ternlight-demo.vercel.app/)
 * [2026-07-06, 23:00:24](https://news.ycombinator.com/item?id=48811591) - [Fable turned reMarkable into Tom Riddle's diary from Harry Potter](https://github.com/MaximeRivest/Riddle)
 * [2026-07-06, 22:32:58](https://news.ycombinator.com/item?id=48811373) - [OpenSSH 10.4/10.4p1 Released](https://www.openssh.org/txt/release-10.4)
@@ -24,10 +25,9 @@
 * [2026-07-06, 14:18:23](https://news.ycombinator.com/item?id=48804993) - [Resetting Xbox](https://news.xbox.com/en-us/2026/07/06/resetting-xbox/)
 * [2026-07-06, 13:28:57](https://news.ycombinator.com/item?id=48804297) - [Aluminum foil (2021)](https://dernocua.github.io/notes/aluminum-foil.html)
 * [2026-07-06, 11:47:37](https://news.ycombinator.com/item?id=48803364) - [Road to Elm 1.0](https://elm-lang.org/news/faster-builds)
-* [2026-07-04, 06:43:29](https://news.ycombinator.com/item?id=48783175) - [The LLVM Compiler Infrastructure](https://cacm.acm.org/federal-funding-of-academic-research/the-llvm-compiler-infrastructure/)
 * [2026-07-04, 02:51:57](https://news.ycombinator.com/item?id=48782248) - [A 2048-spin bulk acoustic wave Ising machine for number partitioning and Sudoku](https://arxiv.org/abs/2607.02112)
-* [2026-07-03, 20:32:40](https://news.ycombinator.com/item?id=48779632) - [Giving a domain a hill to climb: benchmarking as data activation](https://sparsethought.com/2026/07/03/benchmarking-as-data-activation/)
 * [2026-07-02, 21:01:31](https://news.ycombinator.com/item?id=48767317) - [The Music of Destruction](https://thebaffler.com/latest/the-music-of-destruction-fuelling)
+* [2026-07-02, 13:30:41](https://news.ycombinator.com/item?id=48761319) - [Tiny-C Reference Manual Excerpt](https://permacomputer.solarpunk.au/?p=204)
 * [2026-07-02, 07:08:58](https://news.ycombinator.com/item?id=48757619) - [Evaluation order and nontermination in query languages](https://www.rntz.net/post/2026-06-11-datalog-nontermination.html)
 * [2026-07-01, 14:56:17](https://news.ycombinator.com/item?id=48747889) - [Rotman Lens](https://en.wikipedia.org/wiki/Rotman_lens)
 
