@@ -114,5 +114,6 @@
 * [2026-07-01, 02:51:36](https://news.ycombinator.com/item?id=48741748) - [ArXiv's Next Chapter](https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/)
 * [2026-07-01, 02:26:22](https://news.ycombinator.com/item?id=48741654) - [Supersonic flight returning to US after half-century ban](https://www.forbes.com/sites/suzannerowankelleher/2026/06/30/faa-supersonic-flight-no-boom/)
 * [2026-07-01, 02:14:29](https://news.ycombinator.com/item?id=48741609) - [Fixing a kubelet memory leak in Kubernetes 1.36](https://heyoncall.com/blog/fixing-kubernetes-kubelet-memory-leak)
+* [2026-07-01, 01:41:29](https://news.ycombinator.com/item?id=48741447) - [The Family Keeping Watch over a 52-Year-Old Pot of Soup](https://www.wsj.com/arts-culture/food-cooking/the-family-keeping-watch-over-a-52-year-old-pot-of-soup-1e72f115)
 * [2026-07-01, 01:23:09](https://news.ycombinator.com/item?id=48741359) - [Forestiere Underground Gardens](https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens)
 * [2026-07-01, 00:22:41](https://news.ycombinator.com/item?id=48740971) - [Why jet engines aren't made in China](https://aakash.substack.com/p/why-jet-engines-arent-made-in-china)

@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-07-07](index.md)
 
+* [2026-07-07, 12:50:40](https://news.ycombinator.com/item?id=48817017) - [Dua Lipa opens library for banned and censored books in Portugal](https://www.euronews.com/culture/2026/06/29/dua-lipa-opens-library-for-banned-and-censored-books-in-portugal)
+* [2026-07-07, 12:45:14](https://news.ycombinator.com/item?id=48816959) - [98% Isn't Much](https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/)
+* [2026-07-07, 12:45:06](https://news.ycombinator.com/item?id=48816956) - [A better way to tie your gym shorts. (Or any drawstring) [video]](https://www.youtube.com/watch?v=3R0Lp86GEBk)
+* [2026-07-07, 12:38:35](https://news.ycombinator.com/item?id=48816883) - [StreetComplete: Fixing OpenStreetMap, one tiny quest at a time](https://streetcomplete.app/)
+* [2026-07-07, 12:08:25](https://news.ycombinator.com/item?id=48816612) - [Europe's company websites are mostly served by US vendors](https://ciphercue.com/blog/european-web-hosting-vendor-share-2026)
 * [2026-07-07, 12:00:44](https://news.ycombinator.com/item?id=48816533) - [9 Mothers (YC P26) Is Hiring in Austin, TX](https://9mothers.com/careers)
 * [2026-07-07, 10:47:33](https://news.ycombinator.com/item?id=48816003) - [Top researchers leave USA for the Netherlands (in Dutch)](https://www.nwo.nl/nieuws/eerste-internationale-wetenschappers-via-het-tulp-fonds-naar-nederland)
 * [2026-07-07, 10:42:59](https://news.ycombinator.com/item?id=48815982) - [Why migrants come to Germany for work and then leave again](https://www.dw.com/en/germany-migrants-skilled-workers-integration-labor-market-bureaucracy-language-housing/a-77853162)
