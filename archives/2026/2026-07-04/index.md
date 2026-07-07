@@ -18,6 +18,7 @@
 * [2026-07-04, 19:50:08](https://news.ycombinator.com/item?id=48788361) - [AI has torched the market for junior programmers](https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/)
 * [2026-07-04, 19:41:10](https://news.ycombinator.com/item?id=48788283) - [Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main)
 * [2026-07-04, 19:08:44](https://news.ycombinator.com/item?id=48787987) - [Wicklow hotel cancels 'secretive' Peter Thiel group conference](https://www.irishtimes.com/ireland/2026/07/03/wicklow-hotel-cancels-secretive-peter-thiel-conference/)
+* [2026-07-04, 18:57:49](https://news.ycombinator.com/item?id=48787886) - [Ask HN: Where are the good search engines for mathematical formulas?](https://news.ycombinator.com/item?id=48787886)
 * [2026-07-04, 18:42:24](https://news.ycombinator.com/item?id=48787725) - [As downtown Seattle offices empty, city facing years of 'zombie' towers](https://www.seattletimes.com/business/local-business/as-downtown-seattle-offices-empty-city-facing-years-of-zombie-towers/)
 * [2026-07-04, 17:52:36](https://news.ycombinator.com/item?id=48787329) - [Verizon is About to Break our Watches](https://www.jefftk.com/p/verizon-is-about-to-break-our-watches)
 * [2026-07-04, 17:37:21](https://news.ycombinator.com/item?id=48787201) - [BareMetal RAM Dumper – Bare-metal x86 tool for Cold Boot Attack experiments](https://github.com/pIat0n/BareMetal-RAM-Dumper)
