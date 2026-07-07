@@ -97,6 +97,7 @@
 * [2026-07-02, 06:13:50](https://news.ycombinator.com/item?id=48757215) - [The Complete Homemade Juggling Beanbag Guide](https://www.joshuaclifton.com/juggle/)
 * [2026-07-02, 05:19:34](https://news.ycombinator.com/item?id=48756840) - [CursorBench 3.1](https://cursor.com/evals)
 * [2026-07-02, 04:32:41](https://news.ycombinator.com/item?id=48756602) - [Kimi K2.7 Code is generally available in GitHub Copilot](https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/)
+* [2026-07-02, 04:28:39](https://news.ycombinator.com/item?id=48756578) - [Herdr: One terminal to rule them all](https://herdr.dev/)
 * [2026-07-02, 03:00:15](https://news.ycombinator.com/item?id=48755965) - [A new Android malware from Google](https://f-droid.org/2026/07/01/adv-malware.html)
 * [2026-07-02, 02:55:16](https://news.ycombinator.com/item?id=48755928) - [Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers](https://senior-swe-bench.snorkel.ai/)
 * [2026-07-02, 02:30:16](https://news.ycombinator.com/item?id=48755731) - [Bring Back Crappy Forums](https://tedium.co/2026/07/01/online-web-forums-retrospective/)
