@@ -4,6 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-07-07](index.md)
 
+* [2026-07-07, 18:40:40](https://news.ycombinator.com/item?id=48821803) - [Ask HN: Is GitHub preparing to go behind a login wall?](https://news.ycombinator.com/item?id=48821803)
+* [2026-07-07, 18:36:35](https://news.ycombinator.com/item?id=48821749) - [AI Meets Cryptography 1: What AI Found in Cloudflare's Circl](https://blog.zksecurity.xyz/posts/circl-bugs/)
+* [2026-07-07, 18:32:26](https://news.ycombinator.com/item?id=48821691) - [Decrypting View State Messages](https://zeroed.tech/blog/decrypting-viewstate-messages/)
+* [2026-07-07, 18:30:02](https://news.ycombinator.com/item?id=48821653) - [Astro 7.0](https://astro.build/blog/astro-7/)
+* [2026-07-07, 18:24:10](https://news.ycombinator.com/item?id=48821576) - [Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro](https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/)
+* [2026-07-07, 18:19:00](https://news.ycombinator.com/item?id=48821500) - [Show HN: Docx-CLI: agents read/edit Word docs using 1/2 the time and tokens](https://github.com/kklimuk/docx-cli)
+* [2026-07-07, 18:08:29](https://news.ycombinator.com/item?id=48821378) - [A new runtime for k and q: l](https://lv1.sh/)
 * [2026-07-07, 16:56:31](https://news.ycombinator.com/item?id=48820458) - [New Literalism Comes for Museums](https://jaymollica.com/blog/new-literalism-comes-for-museums/)
 * [2026-07-07, 16:42:41](https://news.ycombinator.com/item?id=48820274) - [Mapping homes you can buy from the US government for <$100k](https://govauctions.app/research/cheapest-homes-in-america)
 * [2026-07-07, 16:38:08](https://news.ycombinator.com/item?id=48820220) - [China sentences official to death for taking $325M in bribes](https://www.bbc.com/news/articles/c33y0n1v1xjo)
