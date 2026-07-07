@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-07-07, 23:08:14](https://news.ycombinator.com/item?id=48825234) - [FrankenMarkdown](https://franken-markdown.com/)
 * [2026-07-07, 22:23:58](https://news.ycombinator.com/item?id=48824826) - [GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup](https://www.gao.gov/products/gao-26-108193)
 * [2026-07-07, 20:50:46](https://news.ycombinator.com/item?id=48823557) - [Every new car sold in the European Union must include a driver monitoring camera](https://allaboutcookies.org/eu-mandatory-distracted-driver-system)
 * [2026-07-07, 18:44:29](https://news.ycombinator.com/item?id=48821848) - [Show HN: Davit, a Apple Containers UI](https://davit.app)
 * [2026-07-07, 18:36:35](https://news.ycombinator.com/item?id=48821749) - [AI Meets Cryptography 1: What AI Found in Cloudflare's Circl](https://blog.zksecurity.xyz/posts/circl-bugs/)
+* [2026-07-07, 18:30:02](https://news.ycombinator.com/item?id=48821653) - [Astro 7.0](https://astro.build/blog/astro-7/)
 * [2026-07-07, 18:24:10](https://news.ycombinator.com/item?id=48821576) - [Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro](https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/)
 * [2026-07-07, 18:19:00](https://news.ycombinator.com/item?id=48821500) - [Show HN: Docx-CLI: agents read/edit Word docs using 1/2 the time and tokens](https://github.com/kklimuk/docx-cli)
 * [2026-07-07, 18:14:50](https://news.ycombinator.com/item?id=48821441) - [Notes on Software Quality](https://anthonyhobday.com/blog/20260410)
