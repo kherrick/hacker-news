@@ -49,6 +49,7 @@
 * [2026-07-03, 17:04:08](https://news.ycombinator.com/item?id=48777266) - [International chess federation sanctions Kramnik](https://www.fide.com/fide-ethics-disciplinary-commission-issues-a-decision-in-case-involving-gm-vladimir-kramnik/)
 * [2026-07-03, 17:03:22](https://news.ycombinator.com/item?id=48777257) - [AI saves about 3% of your hours, and almost none of it reaches the money](https://okaneland.com/study/ai-productivity-roi-at-work/)
 * [2026-07-03, 16:53:50](https://news.ycombinator.com/item?id=48777144) - [Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)](https://github.com/kerlenton/mcpsnoop)
+* [2026-07-03, 16:51:40](https://news.ycombinator.com/item?id=48777127) - [Dropping in on Gottfried Leibniz (2013)](https://writings.stephenwolfram.com/2013/05/dropping-in-on-gottfried-leibniz/)
 * [2026-07-03, 16:37:26](https://news.ycombinator.com/item?id=48776956) - [Johnson Thermoelectric Energy Converter](https://en.wikipedia.org/wiki/Johnson_thermoelectric_energy_converter)
 * [2026-07-03, 16:20:18](https://news.ycombinator.com/item?id=48776780) - [US residents angry datacenters 'shoved down our throats' are recalling officials](https://www.theguardian.com/us-news/2026/jul/03/datacenter-recall-elections)
 * [2026-07-03, 15:56:02](https://news.ycombinator.com/item?id=48776525) - [The Life and Times of Maxis, Part 1: SimEverything](https://www.filfre.net/2026/07/the-life-and-times-of-maxis-part-1-simeverything/)
