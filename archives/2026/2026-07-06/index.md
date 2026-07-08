@@ -66,6 +66,7 @@
 * [2026-07-06, 13:02:51](https://news.ycombinator.com/item?id=48804014) - [Workers Cache](https://blog.cloudflare.com/workers-cache/)
 * [2026-07-06, 13:01:29](https://news.ycombinator.com/item?id=48804000) - [Show HN: Pet Reminder – A macOS reminder app with a desktop pet](https://reminder.w3cub.com/)
 * [2026-07-06, 12:51:12](https://news.ycombinator.com/item?id=48803886) - [Amazon will stop accepting new customers for Mechanical Turk on July 30](https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/)
+* [2026-07-06, 12:40:24](https://news.ycombinator.com/item?id=48803791) - [NoiseLang: Where N = 5 is a Dirac delta](https://manualmeida.dev/articles/noiselang/)
 * [2026-07-06, 12:38:13](https://news.ycombinator.com/item?id=48803762) - [Fable 5 On Vending-Bench: Misbehaving, With Plausible Deniability](https://andonlabs.com/blog/fable5-vending-bench)
 * [2026-07-06, 12:37:06](https://news.ycombinator.com/item?id=48803751) - [Anthropic's Method to Losing Goodwill in a Few Easy Steps](https://raheeljunaid.com/blog/anthropics-method-to-losing-goodwill-in-a-few-easy-steps/)
 * [2026-07-06, 12:33:09](https://news.ycombinator.com/item?id=48803711) - [The AI Marketing Backlash: Why 'AI-First' Brands Are Starting to Fall Flat](https://www.breef.com/breefingroom/articles/the-ai-marketing-backlash-why-ai-first-brands-are-starting-to-fall-flat)
