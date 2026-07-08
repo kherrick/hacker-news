@@ -28,6 +28,7 @@
 * [2026-07-01, 19:35:57](https://news.ycombinator.com/item?id=48752030) - [Fable 5 Is Back](https://twitter.com/claudeai/status/2072402636813607381)
 * [2026-07-01, 19:31:46](https://news.ycombinator.com/item?id=48751978) - [Claude Fable 5 Promotional Access](https://support.claude.com/en/articles/15424964-claude-fable-5-promotional-access)
 * [2026-07-01, 19:18:11](https://news.ycombinator.com/item?id=48751824) - [Show HN: Z-Jail – A 130 KB Linux sandbox-C99 with 7 defense layers and zero deps](https://github.com/Division-36/Z-Jail/)
+* [2026-07-01, 19:14:58](https://news.ycombinator.com/item?id=48751790) - [Out of the Armchair](https://literaryreview.co.uk/out-of-the-armchair)
 * [2026-07-01, 19:11:38](https://news.ycombinator.com/item?id=48751752) - [ZCode: Claude Code from the Makers of GLM](https://zcode.z.ai/cn)
 * [2026-07-01, 18:23:45](https://news.ycombinator.com/item?id=48751144) - [Artful Cats: Feline-Inspired Art and Artifacts](https://www.si.edu/spotlight/art-cats)
 * [2026-07-01, 18:20:06](https://news.ycombinator.com/item?id=48751094) - [A Forlorn Hope of Fortran Modernisation](https://amenzwa.github.io/stem/PL/FortranModernisation/)
