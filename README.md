@@ -2,7 +2,6 @@
 
 * [2026-07-08, 15:25:09](https://news.ycombinator.com/item?id=48833183) - [Show HN: Kastor – Terraform-style specs for AI agents](https://github.com/weirdGuy/kastor)
 * [2026-07-08, 15:19:50](https://news.ycombinator.com/item?id=48833116) - [Chatto is now Open Source](https://www.hmans.dev/blog/chatto-is-open-source)
-* [2026-07-08, 15:16:17](https://news.ycombinator.com/item?id=48833071) - [Answering \"why do you want to relocate?\" during interviews](https://relocateme.substack.com/p/a-mistake-to-avoid-during-relocation)
 * [2026-07-08, 14:09:17](https://news.ycombinator.com/item?id=48832212) - [Mistral's Robostral Navigate: a state of the art robotics navigation model](https://mistral.ai/news/robostral-navigate/)
 * [2026-07-08, 13:24:52](https://news.ycombinator.com/item?id=48831658) - [OpenBSD has a use-after-free allowing local privilege escalation to root](https://nvd.nist.gov/vuln/detail/cve-2026-57589)
 * [2026-07-08, 13:18:03](https://news.ycombinator.com/item?id=48831565) - [Cloudflare Meerkat - Globally distributed consensus](https://blog.cloudflare.com/meerkat-introduction/)
@@ -21,6 +20,7 @@
 * [2026-07-07, 14:23:15](https://news.ycombinator.com/item?id=48818311) - [Chat Control 1.0 and 2.0 Explained](https://fightchatcontrol.eu/chat-control-overview)
 * [2026-07-06, 12:40:24](https://news.ycombinator.com/item?id=48803791) - [NoiseLang: Where N = 5 is a Dirac delta](https://manualmeida.dev/articles/noiselang/)
 * [2026-07-05, 18:14:42](https://news.ycombinator.com/item?id=48796473) - [Every postcard tells a story](https://observer.co.uk/style/features/article/every-postcard-tells-a-story)
+* [2026-07-05, 13:35:32](https://news.ycombinator.com/item?id=48794227) - [Catastrophe theory; geniuses and maniacs (2011)](http://glassbottomblog.blogspot.com/2011/01/catastrophe-theory-geniuses-and-maniacs.html)
 * [2026-07-05, 12:39:08](https://news.ycombinator.com/item?id=48793805) - [Home made GPU escalated quickly [video]](https://www.youtube.com/watch?v=qMR3IXF2sWw)
 * [2026-07-05, 10:33:45](https://news.ycombinator.com/item?id=48792980) - [Japan's Hayabusa2 probe to conduct flyby of Torifune asteroid](https://www3.nhk.or.jp/nhkworld/en/news/20260705_01/)
 * [2026-07-04, 22:24:11](https://news.ycombinator.com/item?id=48789625) - [Automate Excel with Python: From manual grind to one-click workflow](https://nostarch.com/automate-excel-with-python)
