@@ -58,6 +58,7 @@
 * [2026-07-02, 14:17:23](https://news.ycombinator.com/item?id=48762008) - [No LLM Code in Dependencies](https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/)
 * [2026-07-02, 14:16:57](https://news.ycombinator.com/item?id=48762000) - [Show HN: Mail Memories – A desktop app to rescue photos from Gmail](https://mailmemories.com)
 * [2026-07-02, 14:13:26](https://news.ycombinator.com/item?id=48761944) - [Immich 3.0](https://github.com/immich-app/immich/discussions/29439)
+* [2026-07-02, 14:07:56](https://news.ycombinator.com/item?id=48761868) - [The difference between \"today's task\" and \"accretive work\"](https://pluralistic.net/2026/07/02/canonization/)
 * [2026-07-02, 14:02:07](https://news.ycombinator.com/item?id=48761788) - [Pure-Python symbolic regression that rediscovered Kepler's law from 8 data point](https://github.com/ariel95500-create/gp-elite)
 * [2026-07-02, 13:43:41](https://news.ycombinator.com/item?id=48761536) - [AI can't be listed as inventor on patent applications, Japan's top court rules](https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/)
 * [2026-07-02, 13:41:11](https://news.ycombinator.com/item?id=48761493) - [Show HN: ZeroFS – A log-structured filesystem for S3](https://www.zerofs.net/)
