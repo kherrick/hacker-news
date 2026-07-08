@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-07-08](index.md)
 
+* [2026-07-08, 20:41:33](https://news.ycombinator.com/item?id=48837162) - [Fable is not a useful model](https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html)
+* [2026-07-08, 20:37:29](https://news.ycombinator.com/item?id=48837110) - [Turning a pile of documents into a searchable useable knowledge base](https://github.com/linuxrebel/DocuBrowser)
+* [2026-07-08, 20:21:45](https://news.ycombinator.com/item?id=48836951) - [Agentic test processes, LLM benchmarks, and other notes on agentic coding fr](https://danluu.com/ai-coding/#llm-variance)
+* [2026-07-08, 20:11:40](https://news.ycombinator.com/item?id=48836838) - [Multigres Supports Listen/Notify Across Pooled Connections](https://multigres.com/blog/listen-notify)
+* [2026-07-08, 20:09:03](https://news.ycombinator.com/item?id=48836813) - [Show HN: Onboard-CLI, a LLM powered and AST-based tool to visualize codebase](https://github.com/animesh-94/Onboard-CLI)
+* [2026-07-08, 20:05:42](https://news.ycombinator.com/item?id=48836778) - [FAANG Simulator](https://www.abeyk.com/escape-the-rat-race/)
 * [2026-07-08, 20:00:04](https://news.ycombinator.com/item?id=48836713) - [Show HN: Hnwork.app – UI for Who is hiring posts](https://hnwork.app/)
 * [2026-07-08, 19:18:26](https://news.ycombinator.com/item?id=48836233) - [Cloudflare Drop](https://www.cloudflare.com/drop/)
 * [2026-07-08, 18:21:53](https://news.ycombinator.com/item?id=48835439) - [OpenMandriva: Statement regarding attempted distribution sabotage](https://forum.openmandriva.org/t/statement-regarding-attempted-distribution-sabotage/8997)
