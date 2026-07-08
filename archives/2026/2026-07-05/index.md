@@ -56,6 +56,7 @@
 * [2026-07-05, 14:14:30](https://news.ycombinator.com/item?id=48794446) - [Organic Maps](https://organicmaps.app/)
 * [2026-07-05, 13:47:44](https://news.ycombinator.com/item?id=48794302) - [Run Windows 2000 on a DEC Alpha with a new es40 fork](https://raymii.org/s/blog/Run_Windows_2000_for_Dec_Alpha_on_a_new_es40_fork.html)
 * [2026-07-05, 13:28:11](https://news.ycombinator.com/item?id=48794179) - [Phosh 0.56.0](https://phosh.mobi/releases/rel-0.56.0/)
+* [2026-07-05, 13:12:19](https://news.ycombinator.com/item?id=48794049) - [Scheme Is a Hoot](https://gracefulliberty.com/notes/scheme-is-a-hoot/)
 * [2026-07-05, 12:29:44](https://news.ycombinator.com/item?id=48793726) - [Educators disciplined over Charlie Kirk posts are securing big payouts](https://www.nbcnews.com/news/us-news/educators-disciplined-charlie-kirk-posts-are-securing-big-payouts-rcna352568)
 * [2026-07-05, 12:28:04](https://news.ycombinator.com/item?id=48793716) - [The Engineer in the Half-Space](https://yusufaytas.com/the-engineer-in-the-half-space)
 * [2026-07-05, 12:06:57](https://news.ycombinator.com/item?id=48793542) - [Show HN: KiCad in the Browser](https://demo.pcbjam.com/)
