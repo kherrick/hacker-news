@@ -20,6 +20,7 @@
 * [2026-07-08, 14:09:17](https://news.ycombinator.com/item?id=48832212) - [Mistral's Robostral Navigate: a state of the art robotics navigation model](https://mistral.ai/news/robostral-navigate/)
 * [2026-07-08, 13:35:59](https://news.ycombinator.com/item?id=48831785) - [US Food and Drug Administration rejects petition to set PFAS limits in food](https://www.theguardian.com/us-news/2026/jul/08/us-food-and-drug-administration-rejects-petition-to-set-pfas-limits-in-food)
 * [2026-07-08, 13:24:52](https://news.ycombinator.com/item?id=48831658) - [OpenBSD has a use-after-free allowing local privilege escalation to root](https://nvd.nist.gov/vuln/detail/cve-2026-57589)
+* [2026-07-08, 13:20:05](https://news.ycombinator.com/item?id=48831587) - [A bug which affected only left handed users](https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/)
 * [2026-07-08, 13:18:03](https://news.ycombinator.com/item?id=48831565) - [Cloudflare Meerkat - Globally distributed consensus](https://blog.cloudflare.com/meerkat-introduction/)
 * [2026-07-08, 13:10:13](https://news.ycombinator.com/item?id=48831499) - [Tiny data centre used to heat public swimming pool](https://www.bbc.com/news/technology-64939558)
 * [2026-07-08, 12:08:37](https://news.ycombinator.com/item?id=48830868) - [The Age of Reading Is Over](https://www.theatlantic.com/magazine/2026/08/reading-crisis-postliterate-age/687618/)
