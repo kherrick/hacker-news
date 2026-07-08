@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-07-08](index.md)
 
+* [2026-07-08, 15:25:09](https://news.ycombinator.com/item?id=48833183) - [Show HN: Kastor – Terraform-style specs for AI agents](https://github.com/weirdGuy/kastor)
+* [2026-07-08, 15:19:50](https://news.ycombinator.com/item?id=48833116) - [Chatto is now Open Source](https://www.hmans.dev/blog/chatto-is-open-source)
+* [2026-07-08, 15:16:17](https://news.ycombinator.com/item?id=48833071) - [Answering \"why do you want to relocate?\" during interviews](https://relocateme.substack.com/p/a-mistake-to-avoid-during-relocation)
 * [2026-07-08, 14:09:17](https://news.ycombinator.com/item?id=48832212) - [Mistral's Robostral Navigate: a state of the art robotics navigation model](https://mistral.ai/news/robostral-navigate/)
 * [2026-07-08, 13:35:59](https://news.ycombinator.com/item?id=48831785) - [US Food and Drug Administration rejects petition to set PFAS limits in food](https://www.theguardian.com/us-news/2026/jul/08/us-food-and-drug-administration-rejects-petition-to-set-pfas-limits-in-food)
 * [2026-07-08, 13:24:52](https://news.ycombinator.com/item?id=48831658) - [OpenBSD has a use-after-free allowing local privilege escalation to root](https://nvd.nist.gov/vuln/detail/cve-2026-57589)
