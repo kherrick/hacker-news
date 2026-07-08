@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-08](index.md)
 
+* [2026-07-08, 21:03:51](https://news.ycombinator.com/item?id=48837396) - [OpenAI no longer recommends SWE-Bench Pro](https://openai.com/index/separating-signal-from-noise-coding-evaluations/)
 * [2026-07-08, 20:41:33](https://news.ycombinator.com/item?id=48837162) - [Fable is not a useful model](https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html)
 * [2026-07-08, 20:37:29](https://news.ycombinator.com/item?id=48837110) - [Turning a pile of documents into a searchable useable knowledge base](https://github.com/linuxrebel/DocuBrowser)
 * [2026-07-08, 20:21:45](https://news.ycombinator.com/item?id=48836951) - [Agentic test processes, LLM benchmarks, and other notes on agentic coding fr](https://danluu.com/ai-coding/#llm-variance)
