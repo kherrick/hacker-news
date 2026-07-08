@@ -8,6 +8,7 @@
 * [2026-07-07, 22:23:58](https://news.ycombinator.com/item?id=48824826) - [GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup](https://www.gao.gov/products/gao-26-108193)
 * [2026-07-07, 20:50:46](https://news.ycombinator.com/item?id=48823557) - [All Cars Sold in the EU Now Require a Camera Aimed at Your Face](https://allaboutcookies.org/eu-mandatory-distracted-driver-system)
 * [2026-07-07, 20:36:01](https://news.ycombinator.com/item?id=48823368) - [Men's average testosterone levels have halved in last 50 years](https://www.theguardian.com/society/2026/jul/07/mens-average-testosterone-levels-have-halved-in-last-50-years-say-scientists)
+* [2026-07-07, 20:35:42](https://news.ycombinator.com/item?id=48823359) - [We charge $10k a week to delete AI-generated code](https://odra.dev/slopfix/)
 * [2026-07-07, 20:10:13](https://news.ycombinator.com/item?id=48823024) - [Re: I'm Begging You to Leave Your AI Note-Taker at Home](https://firesphere.dev/articles/yes-actually-i-do-fucking-mind)
 * [2026-07-07, 18:44:29](https://news.ycombinator.com/item?id=48821848) - [Show HN: Davit, a Apple Containers UI](https://davit.app)
 * [2026-07-07, 18:40:40](https://news.ycombinator.com/item?id=48821803) - [Ask HN: Is GitHub preparing to go behind a login wall?](https://news.ycombinator.com/item?id=48821803)
