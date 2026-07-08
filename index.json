@@ -191,22 +191,22 @@
   ],
   [
     [
+      "2026-07-07, 15:36:49",
+      "https://news.ycombinator.com/item?id=48819308"
+    ],
+    [
+      "Why we built yet another Postgres connection pooler",
+      "https://pgdog.dev/blog/why-yet-another-connection-pooler"
+    ]
+  ],
+  [
+    [
       "2026-07-07, 14:23:15",
       "https://news.ycombinator.com/item?id=48818311"
     ],
     [
       "Chat Control 1.0 and 2.0 Explained",
       "https://fightchatcontrol.eu/chat-control-overview"
-    ]
-  ],
-  [
-    [
-      "2026-07-07, 12:38:35",
-      "https://news.ycombinator.com/item?id=48816883"
-    ],
-    [
-      "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
-      "https://streetcomplete.app/"
     ]
   ],
   [
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2026-07-04, 22:24:11",
+      "https://news.ycombinator.com/item?id=48789625"
+    ],
+    [
+      "Automate Excel with Python: From manual grind to one-click workflow",
+      "https://nostarch.com/automate-excel-with-python"
+    ]
+  ],
+  [
+    [
       "2026-07-04, 16:46:24",
       "https://news.ycombinator.com/item?id=48786789"
     ],
@@ -257,16 +267,6 @@
     [
       "The difference between \"today's task\" and \"accretive work\"",
       "https://pluralistic.net/2026/07/02/canonization/"
-    ]
-  ],
-  [
-    [
-      "2026-07-02, 14:02:07",
-      "https://news.ycombinator.com/item?id=48761788"
-    ],
-    [
-      "Pure-Python symbolic regression that rediscovered Kepler's law from 8 data point",
-      "https://github.com/ariel95500-create/gp-elite"
     ]
   ],
   [
