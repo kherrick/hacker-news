@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-08](index.md)
 
+* [2026-07-08, 16:19:36](https://news.ycombinator.com/item?id=48833866) - [SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence](https://cognition.com/blog/swe-1-7)
+* [2026-07-08, 16:16:12](https://news.ycombinator.com/item?id=48833823) - [Biohacker seeking immortality afflicted with incurable 'stomach eating' disease](https://www.lifesitenews.com/news/biohacker-seeking-immortality-afflicted-with-incurable-stomach-eating-disease/)
 * [2026-07-08, 15:25:09](https://news.ycombinator.com/item?id=48833183) - [Show HN: Kastor – Terraform-style specs for AI agents](https://github.com/weirdGuy/kastor)
 * [2026-07-08, 15:19:50](https://news.ycombinator.com/item?id=48833116) - [Chatto is now Open Source](https://www.hmans.dev/blog/chatto-is-open-source)
 * [2026-07-08, 15:16:17](https://news.ycombinator.com/item?id=48833071) - [Answering \"why do you want to relocate?\" during interviews](https://relocateme.substack.com/p/a-mistake-to-avoid-during-relocation)
