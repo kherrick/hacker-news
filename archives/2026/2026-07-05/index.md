@@ -57,6 +57,7 @@
 * [2026-07-05, 13:47:44](https://news.ycombinator.com/item?id=48794302) - [Run Windows 2000 on a DEC Alpha with a new es40 fork](https://raymii.org/s/blog/Run_Windows_2000_for_Dec_Alpha_on_a_new_es40_fork.html)
 * [2026-07-05, 13:35:32](https://news.ycombinator.com/item?id=48794227) - [Catastrophe theory; geniuses and maniacs (2011)](http://glassbottomblog.blogspot.com/2011/01/catastrophe-theory-geniuses-and-maniacs.html)
 * [2026-07-05, 13:28:11](https://news.ycombinator.com/item?id=48794179) - [Phosh 0.56.0](https://phosh.mobi/releases/rel-0.56.0/)
+* [2026-07-05, 13:13:54](https://news.ycombinator.com/item?id=48794062) - [TabFont – guitar tabs rendered as you type](https://philatype.com/tabfont/)
 * [2026-07-05, 13:12:19](https://news.ycombinator.com/item?id=48794049) - [Scheme Is a Hoot](https://gracefulliberty.com/notes/scheme-is-a-hoot/)
 * [2026-07-05, 13:11:30](https://news.ycombinator.com/item?id=48794042) - [Show HN: Neil the Seal Game](https://neiltheseal.app/)
 * [2026-07-05, 12:39:08](https://news.ycombinator.com/item?id=48793805) - [Home made GPU escalated quickly [video]](https://www.youtube.com/watch?v=qMR3IXF2sWw)
