@@ -38,6 +38,7 @@
 * [2026-07-04, 16:30:10](https://news.ycombinator.com/item?id=48786638) - [Zig: All Package Management Functionality Moved from Compiler to Build System](https://ziglang.org/devlog/2026/#2026-06-30)
 * [2026-07-04, 16:16:07](https://news.ycombinator.com/item?id=48786500) - [The End of North America](https://paulkrugman.substack.com/p/the-end-of-north-america-157)
 * [2026-07-04, 16:15:48](https://news.ycombinator.com/item?id=48786495) - [Curveball](https://mightyburger.net/projects/curveball/)
+* [2026-07-04, 16:11:06](https://news.ycombinator.com/item?id=48786455) - [Show HN: Follow London Trains in 3D](https://ride.nexttrain.london/)
 * [2026-07-04, 15:53:08](https://news.ycombinator.com/item?id=48786284) - [Airplane Boneyards List and Map](https://airplaneboneyards.com/airplane-boneyards-list-and-map.htm)
 * [2026-07-04, 15:49:08](https://news.ycombinator.com/item?id=48786245) - [Fable created novel 4D splat format](https://adamraudonis.github.io/splats4D/)
 * [2026-07-04, 15:32:58](https://news.ycombinator.com/item?id=48786124) - [Dolosse – a South African invention used over the world](https://thisbugslife.com/2021/11/21/dolosse-a-south-african-invention-used-over-the-world/)
