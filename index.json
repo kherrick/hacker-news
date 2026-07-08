@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-07-08, 01:58:10",
-      "https://news.ycombinator.com/item?id=48826572"
+      "2026-07-08, 02:17:01",
+      "https://news.ycombinator.com/item?id=48826703"
     ],
     [
-      "Ranked worst to best: 13 flavors of Pure Leaf iced tea",
-      "https://www.tastingtable.com/1866292/pure-leaf-iced-tea-flavors-ranked/"
+      "Is The Economist Always Wrong?",
+      "https://www.economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong"
     ]
   ],
   [
@@ -55,7 +55,7 @@
       "https://news.ycombinator.com/item?id=48825664"
     ],
     [
-      "Structure and Interpretation of Computer Programs Video Lectures (2005)",
+      "Structure and Interpretation of Computer Programs Video Lectures (1986)",
       "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/"
     ]
   ],
@@ -67,16 +67,6 @@
     [
       "Show HN: Free Mermaid Diagram Editor",
       "https://moxiedocs.com/mermaid-diagram-editor"
-    ]
-  ],
-  [
-    [
-      "2026-07-07, 23:21:03",
-      "https://news.ycombinator.com/item?id=48825356"
-    ],
-    [
-      "Git Hash Chain Malleability",
-      "https://arxiv.org/abs/2607.02820"
     ]
   ],
   [
@@ -97,16 +87,6 @@
     [
       "Every new car sold in the European Union must include a driver monitoring camera",
       "https://allaboutcookies.org/eu-mandatory-distracted-driver-system"
-    ]
-  ],
-  [
-    [
-      "2026-07-07, 20:35:42",
-      "https://news.ycombinator.com/item?id=48823359"
-    ],
-    [
-      "We charge $10k a week to delete AI-generated code",
-      "https://odra.dev/slopfix/"
     ]
   ],
   [
@@ -157,6 +137,16 @@
     [
       "l: A new runtime for k and q",
       "https://lv1.sh/"
+    ]
+  ],
+  [
+    [
+      "2026-07-07, 17:44:50",
+      "https://news.ycombinator.com/item?id=48821102"
+    ],
+    [
+      "We're extending access to Fable 5 on all paid plans through July 12",
+      "https://twitter.com/claudeai/status/2074548242386178258"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "First Principles of Model Routing",
       "https://try.works/first-principles-of-model-routing"
+    ]
+  ],
+  [
+    [
+      "2026-07-02, 14:02:07",
+      "https://news.ycombinator.com/item?id=48761788"
+    ],
+    [
+      "Pure-Python symbolic regression that rediscovered Kepler's law from 8 data point",
+      "https://github.com/ariel95500-create/gp-elite"
     ]
   ],
   [
