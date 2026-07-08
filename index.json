@@ -1,11 +1,21 @@
 [
   [
     [
+      "2026-07-08, 21:43:07",
+      "https://news.ycombinator.com/item?id=48837809"
+    ],
+    [
+      "Open Source Barware: free, local-first bar inventory software (GPLv3)",
+      "https://opensourcebarware.com"
+    ]
+  ],
+  [
+    [
       "2026-07-08, 21:03:51",
       "https://news.ycombinator.com/item?id=48837396"
     ],
     [
-      "OpenAI no longer recommends SWE-Bench Pro",
+      "Separating signal from noise in coding evaluations",
       "https://openai.com/index/separating-signal-from-noise-coding-evaluations/"
     ]
   ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=48837162"
     ],
     [
-      "Fable is not a useful model",
+      "The classifiers Anthropic puts in front of Fable are too zealous",
       "https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html"
     ]
   ],
@@ -61,12 +71,12 @@
   ],
   [
     [
-      "2026-07-08, 20:00:04",
-      "https://news.ycombinator.com/item?id=48836713"
+      "2026-07-08, 19:35:07",
+      "https://news.ycombinator.com/item?id=48836431"
     ],
     [
-      "Show HN: Hnwork.app – UI for Who is hiring posts",
-      "https://hnwork.app/"
+      "Almost Always Unsigned",
+      "https://graphitemaster.github.io/aau/"
     ]
   ],
   [
@@ -91,32 +101,22 @@
   ],
   [
     [
+      "2026-07-08, 18:00:32",
+      "https://news.ycombinator.com/item?id=48835111"
+    ],
+    [
+      "Grok 4.5",
+      "https://x.ai/news/grok-4-5"
+    ]
+  ],
+  [
+    [
       "2026-07-08, 17:46:12",
       "https://news.ycombinator.com/item?id=48834924"
     ],
     [
       "Show HN: Microsoft releases Flint, a visualization language for AI agents",
       "https://microsoft.github.io/flint-chart/#/"
-    ]
-  ],
-  [
-    [
-      "2026-07-08, 17:45:26",
-      "https://news.ycombinator.com/item?id=48834919"
-    ],
-    [
-      "PlayStation can delete all your digital games after 3 years of inactivity (EU)",
-      "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1783340582"
-    ]
-  ],
-  [
-    [
-      "2026-07-08, 17:43:37",
-      "https://news.ycombinator.com/item?id=48834898"
-    ],
-    [
-      "What Do We Know About the Microplastics Inside Us?",
-      "https://e360.yale.edu/features/cassandra-rauert-interview"
     ]
   ],
   [
@@ -165,7 +165,7 @@
       "https://news.ycombinator.com/item?id=48833116"
     ],
     [
-      "Chatto is now Open Source",
+      "Chatto is now open source",
       "https://www.hmans.dev/blog/chatto-is-open-source"
     ]
   ],
@@ -221,12 +221,22 @@
   ],
   [
     [
-      "2026-07-08, 05:25:35",
-      "https://news.ycombinator.com/item?id=48827858"
+      "2026-07-07, 12:47:46",
+      "https://news.ycombinator.com/item?id=48816987"
     ],
     [
-      "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
-      "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/"
+      "Show HN: Yamanote.fun – A complete soundscape for Tokyo's Yamanote line",
+      "https://www.yamanote.fun/"
+    ]
+  ],
+  [
+    [
+      "2026-07-06, 20:08:33",
+      "https://news.ycombinator.com/item?id=48809808"
+    ],
+    [
+      "Poison, redzones and shadows: inside KASAN",
+      "https://bootlin.com/blog/poison-redzones-and-shadows-inside-kasan/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "TabFont – guitar tabs rendered as you type",
       "https://philatype.com/tabfont/"
-    ]
-  ],
-  [
-    [
-      "2026-07-04, 16:11:06",
-      "https://news.ycombinator.com/item?id=48786455"
-    ],
-    [
-      "Show HN: Follow London Trains in 3D",
-      "https://ride.nexttrain.london/"
     ]
   ],
   [
