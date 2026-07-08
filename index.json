@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-08, 21:49:59",
+      "https://news.ycombinator.com/item?id=48837877"
+    ],
+    [
+      "Rewriting Bun in Rust",
+      "https://bun.com/blog/bun-in-rust"
+    ]
+  ],
+  [
+    [
       "2026-07-08, 21:43:07",
       "https://news.ycombinator.com/item?id=48837809"
     ],
@@ -37,16 +47,6 @@
     [
       "Turning a pile of documents into a searchable useable knowledge base",
       "https://github.com/linuxrebel/DocuBrowser"
-    ]
-  ],
-  [
-    [
-      "2026-07-08, 20:21:45",
-      "https://news.ycombinator.com/item?id=48836951"
-    ],
-    [
-      "Agentic test processes, LLM benchmarks, and other notes on agentic coding fr",
-      "https://danluu.com/ai-coding/#llm-variance"
     ]
   ],
   [
