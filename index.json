@@ -1,6 +1,66 @@
 [
   [
     [
+      "2026-07-08, 20:41:33",
+      "https://news.ycombinator.com/item?id=48837162"
+    ],
+    [
+      "Fable is not a useful model",
+      "https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-08, 20:37:29",
+      "https://news.ycombinator.com/item?id=48837110"
+    ],
+    [
+      "Turning a pile of documents into a searchable useable knowledge base",
+      "https://github.com/linuxrebel/DocuBrowser"
+    ]
+  ],
+  [
+    [
+      "2026-07-08, 20:21:45",
+      "https://news.ycombinator.com/item?id=48836951"
+    ],
+    [
+      "Agentic test processes, LLM benchmarks, and other notes on agentic coding fr",
+      "https://danluu.com/ai-coding/#llm-variance"
+    ]
+  ],
+  [
+    [
+      "2026-07-08, 20:11:40",
+      "https://news.ycombinator.com/item?id=48836838"
+    ],
+    [
+      "Multigres Supports Listen/Notify Across Pooled Connections",
+      "https://multigres.com/blog/listen-notify"
+    ]
+  ],
+  [
+    [
+      "2026-07-08, 20:09:03",
+      "https://news.ycombinator.com/item?id=48836813"
+    ],
+    [
+      "Show HN: Onboard-CLI, a LLM powered and AST-based tool to visualize codebase",
+      "https://github.com/animesh-94/Onboard-CLI"
+    ]
+  ],
+  [
+    [
+      "2026-07-08, 20:05:42",
+      "https://news.ycombinator.com/item?id=48836778"
+    ],
+    [
+      "FAANG Simulator",
+      "https://www.abeyk.com/escape-the-rat-race/"
+    ]
+  ],
+  [
+    [
       "2026-07-08, 20:00:04",
       "https://news.ycombinator.com/item?id=48836713"
     ],
@@ -161,16 +221,6 @@
   ],
   [
     [
-      "2026-07-08, 11:30:56",
-      "https://news.ycombinator.com/item?id=48830565"
-    ],
-    [
-      "Apple to increase spend with Broadcom to produce billions more U.S. chips",
-      "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/"
-    ]
-  ],
-  [
-    [
       "2026-07-08, 08:46:06",
       "https://news.ycombinator.com/item?id=48829312"
     ],
@@ -187,26 +237,6 @@
     [
       "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
       "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/"
-    ]
-  ],
-  [
-    [
-      "2026-07-08, 03:59:35",
-      "https://news.ycombinator.com/item?id=48827325"
-    ],
-    [
-      "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
-      "https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/"
-    ]
-  ],
-  [
-    [
-      "2026-07-08, 00:08:51",
-      "https://news.ycombinator.com/item?id=48825749"
-    ],
-    [
-      "Tenda firmware (multiple versions) contains hidden authentication backdoor",
-      "https://kb.cert.org/vuls/id/213560"
     ]
   ],
   [
@@ -231,26 +261,6 @@
   ],
   [
     [
-      "2026-07-06, 12:40:24",
-      "https://news.ycombinator.com/item?id=48803791"
-    ],
-    [
-      "NoiseLang: Where N = 5 is a Dirac delta",
-      "https://manualmeida.dev/articles/noiselang/"
-    ]
-  ],
-  [
-    [
-      "2026-07-06, 06:42:21",
-      "https://news.ycombinator.com/item?id=48801364"
-    ],
-    [
-      "Sometimes it is the network: a war story",
-      "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SometimesItIsTheNetwork"
-    ]
-  ],
-  [
-    [
       "2026-07-05, 19:55:58",
       "https://news.ycombinator.com/item?id=48797443"
     ],
@@ -267,16 +277,6 @@
     [
       "TabFont – guitar tabs rendered as you type",
       "https://philatype.com/tabfont/"
-    ]
-  ],
-  [
-    [
-      "2026-07-05, 10:33:45",
-      "https://news.ycombinator.com/item?id=48792980"
-    ],
-    [
-      "Japan's Hayabusa2 probe to conduct flyby of Torifune asteroid",
-      "https://www3.nhk.or.jp/nhkworld/en/news/20260705_01/"
     ]
   ],
   [
