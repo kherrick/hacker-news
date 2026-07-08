@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-08](index.md)
 
+* [2026-07-08, 11:30:56](https://news.ycombinator.com/item?id=48830565) - [Apple to increase spend with Broadcom to produce billions more U.S. chips](https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/)
 * [2026-07-08, 11:06:06](https://news.ycombinator.com/item?id=48830388) - [We Got This Wrong. and We Are Fixing It](https://community.hubspot.com/t/we-got-this-wrong-and-we-are-fixing-it/152063)
 * [2026-07-08, 11:03:34](https://news.ycombinator.com/item?id=48830371) - [List of European organizations that have banned personal messaging apps at work](https://www.birdy.chat/blog/the-growing-list-of-european-organisations-that-ban-personal-messaging-apps-at-work)
 * [2026-07-08, 08:46:06](https://news.ycombinator.com/item?id=48829312) - [Decoding the obfuscated bash script on a Uniqlo t-shirt](https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/)
