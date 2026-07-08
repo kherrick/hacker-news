@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-07-08, 03:59:35",
+      "https://news.ycombinator.com/item?id=48827325"
+    ],
+    [
+      "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS",
+      "https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/"
+    ]
+  ],
+  [
+    [
+      "2026-07-08, 03:22:31",
+      "https://news.ycombinator.com/item?id=48827092"
+    ],
+    [
+      "Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks",
+      "https://www.digipres.org/the-floppy-guide/"
+    ]
+  ],
+  [
+    [
       "2026-07-08, 02:17:01",
       "https://news.ycombinator.com/item?id=48826703"
     ],
     [
       "Is The Economist Always Wrong?",
       "https://www.economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong"
+    ]
+  ],
+  [
+    [
+      "2026-07-08, 01:27:39",
+      "https://news.ycombinator.com/item?id=48826329"
+    ],
+    [
+      "LineageOS Statistics",
+      "https://stats.lineageos.org"
     ]
   ],
   [
@@ -37,16 +67,6 @@
     [
       "Tenda firmware (multiple versions) contains hidden authentication backdoor",
       "https://kb.cert.org/vuls/id/213560"
-    ]
-  ],
-  [
-    [
-      "2026-07-08, 00:08:21",
-      "https://news.ycombinator.com/item?id=48825745"
-    ],
-    [
-      "Show HN: Fortress – a stealth Chromium so your agents stop getting blocked",
-      "https://github.com/tiliondev/fortress"
     ]
   ],
   [
@@ -97,16 +117,6 @@
     [
       "Show HN: Davit, a Apple Containers UI",
       "https://davit.app"
-    ]
-  ],
-  [
-    [
-      "2026-07-07, 18:36:35",
-      "https://news.ycombinator.com/item?id=48821749"
-    ],
-    [
-      "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
-      "https://blog.zksecurity.xyz/posts/circl-bugs/"
     ]
   ],
   [
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2026-07-07, 12:45:06",
-      "https://news.ycombinator.com/item?id=48816956"
-    ],
-    [
-      "A better way to tie gym shorts (or any drawstring) [video]",
-      "https://www.youtube.com/watch?v=3R0Lp86GEBk"
-    ]
-  ],
-  [
-    [
       "2026-07-07, 12:38:35",
       "https://news.ycombinator.com/item?id=48816883"
     ],
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2026-07-05, 05:36:51",
-      "https://news.ycombinator.com/item?id=48791505"
+      "2026-07-05, 13:11:30",
+      "https://news.ycombinator.com/item?id=48794042"
     ],
     [
-      "Fixing analog audio on the $2.58 HDMI-to-VGA adapter",
-      "https://nyanpasu64.gitlab.io/blog/hdmi-vga-dac-audio/"
+      "Show HN: Neil the Seal Game",
+      "https://neiltheseal.app/"
     ]
   ],
   [
