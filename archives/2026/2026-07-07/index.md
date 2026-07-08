@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-07](index.md)
 
+* [2026-07-07, 23:57:29](https://news.ycombinator.com/item?id=48825664) - [Structure and Interpretation of Computer Programs Video Lectures](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/)
+* [2026-07-07, 23:45:47](https://news.ycombinator.com/item?id=48825556) - [A 13th-Century Enumeration Algorithm, Ignored for 700 Years](https://blog.klipse.tech/aboulafia/2026/07/06/a-13th-century-enumeration-algorithm-ignored-for-700-years.html)
 * [2026-07-07, 23:08:14](https://news.ycombinator.com/item?id=48825234) - [FrankenMarkdown](https://franken-markdown.com/)
 * [2026-07-07, 22:23:58](https://news.ycombinator.com/item?id=48824826) - [GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup](https://www.gao.gov/products/gao-26-108193)
 * [2026-07-07, 20:50:46](https://news.ycombinator.com/item?id=48823557) - [All Cars Sold in the EU Now Require a Camera Aimed at Your Face](https://allaboutcookies.org/eu-mandatory-distracted-driver-system)
