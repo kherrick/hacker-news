@@ -49,6 +49,7 @@
 * [2026-07-07, 14:07:08](https://news.ycombinator.com/item?id=48818098) - [Show HN: Halo – open-source, tamper-evident runtime evidence for AI agents](https://github.com/bkuan001/halo-record)
 * [2026-07-07, 13:03:31](https://news.ycombinator.com/item?id=48817191) - [Mark Zuckerberg's biggest legal nightmare yet could cost Meta $1.4T](https://www.the-independent.com/tech/mark-zuckerberg-meta-fine-trillion-b3010281.html)
 * [2026-07-07, 12:50:40](https://news.ycombinator.com/item?id=48817017) - [Dua Lipa opens library for banned and censored books in Portugal](https://www.euronews.com/culture/2026/06/29/dua-lipa-opens-library-for-banned-and-censored-books-in-portugal)
+* [2026-07-07, 12:47:46](https://news.ycombinator.com/item?id=48816987) - [Show HN: Yamanote.fun – A complete soundscape for Tokyo's Yamanote line](https://www.yamanote.fun/)
 * [2026-07-07, 12:45:14](https://news.ycombinator.com/item?id=48816959) - [98% Isn't Much](https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/)
 * [2026-07-07, 12:45:06](https://news.ycombinator.com/item?id=48816956) - [A better way to tie your gym shorts. (Or any drawstring) [video]](https://www.youtube.com/watch?v=3R0Lp86GEBk)
 * [2026-07-07, 12:40:28](https://news.ycombinator.com/item?id=48816900) - [Show HN: PostgreSQL performance and cost across 23 EC2 instance types](https://postgres.saneengineer.com)
