@@ -7,6 +7,7 @@
 * [2026-07-03, 23:36:46](https://news.ycombinator.com/item?id=48781274) - [Scientists discover guidance system for migratory songbirds](https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/scientists-discover-guidance-system-for-migratory-songbirds/)
 * [2026-07-03, 23:24:35](https://news.ycombinator.com/item?id=48781196) - [Odin, Wikipedia and Engagement Farming](https://katamari64.se/posts/2026/odin-wikipedia/)
 * [2026-07-03, 22:56:17](https://news.ycombinator.com/item?id=48780996) - [The circuit that lets your brain think and see](https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see)
+* [2026-07-03, 22:46:23](https://news.ycombinator.com/item?id=48780915) - [Ants: Who looks after the injured in a colony?](https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/ameisen-kolonie-verletzte-pflegt/)
 * [2026-07-03, 22:46:18](https://news.ycombinator.com/item?id=48780913) - [Amsterdam invented the fire department](https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/)
 * [2026-07-03, 22:40:29](https://news.ycombinator.com/item?id=48780870) - [Giant trees have no trouble pumping water to top branches](https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/)
 * [2026-07-03, 22:39:50](https://news.ycombinator.com/item?id=48780865) - [Steam Controller Auto-Charge – pilot to magnetic charging puck using CV](https://github.com/FossPrime/Steam-Controller-Auto-Charge)
