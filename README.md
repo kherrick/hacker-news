@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-08, 18:21:53](https://news.ycombinator.com/item?id=48835439) - [OpenMandriva: Statement regarding attempted distribution sabotage](https://forum.openmandriva.org/t/statement-regarding-attempted-distribution-sabotage/8997)
 * [2026-07-08, 18:00:32](https://news.ycombinator.com/item?id=48835111) - [Grok 4.5](https://x.ai/news/grok-4-5)
 * [2026-07-08, 17:46:12](https://news.ycombinator.com/item?id=48834924) - [Show HN: Microsoft releases Flint, a visualization language for AI agents](https://microsoft.github.io/flint-chart/#/)
 * [2026-07-08, 17:45:26](https://news.ycombinator.com/item?id=48834919) - [PlayStation can delete all your digital games after 3 years of inactivity (EU)](https://www.flatpanelshd.com/news.php?subaction=showfull&id=1783340582)
@@ -20,7 +21,6 @@
 * [2026-07-08, 03:22:31](https://news.ycombinator.com/item?id=48827092) - [Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks](https://www.digipres.org/the-floppy-guide/)
 * [2026-07-08, 00:08:51](https://news.ycombinator.com/item?id=48825749) - [Tenda firmware (multiple versions) contains hidden authentication backdoor](https://kb.cert.org/vuls/id/213560)
 * [2026-07-07, 23:57:29](https://news.ycombinator.com/item?id=48825664) - [Structure and Interpretation of Computer Programs Video Lectures (1986)](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/)
-* [2026-07-07, 22:23:58](https://news.ycombinator.com/item?id=48824826) - [GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup](https://www.gao.gov/products/gao-26-108193)
 * [2026-07-06, 12:40:24](https://news.ycombinator.com/item?id=48803791) - [NoiseLang: Where N = 5 is a Dirac delta](https://manualmeida.dev/articles/noiselang/)
 * [2026-07-05, 19:55:58](https://news.ycombinator.com/item?id=48797443) - [Understanding B-Tree Indexes in PostgreSQL: A Comprehensive Guide– Part 1](https://medium.com/@devli0/b-tree-indexes-in-postgresql-part-1-theory-eb2668c52520)
 * [2026-07-05, 18:14:42](https://news.ycombinator.com/item?id=48796473) - [Every postcard tells a story](https://observer.co.uk/style/features/article/every-postcard-tells-a-story)

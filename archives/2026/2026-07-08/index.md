@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-08](index.md)
 
+* [2026-07-08, 18:21:53](https://news.ycombinator.com/item?id=48835439) - [OpenMandriva: Statement regarding attempted distribution sabotage](https://forum.openmandriva.org/t/statement-regarding-attempted-distribution-sabotage/8997)
 * [2026-07-08, 18:00:32](https://news.ycombinator.com/item?id=48835111) - [Grok 4.5](https://x.ai/news/grok-4-5)
 * [2026-07-08, 17:46:12](https://news.ycombinator.com/item?id=48834924) - [Show HN: Microsoft releases Flint, a visualization language for AI agents](https://microsoft.github.io/flint-chart/#/)
 * [2026-07-08, 17:45:26](https://news.ycombinator.com/item?id=48834919) - [PlayStation can delete all your digital games after 3 years of inactivity (EU)](https://www.flatpanelshd.com/news.php?subaction=showfull&id=1783340582)
