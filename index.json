@@ -1,11 +1,21 @@
 [
   [
     [
+      "2026-07-08, 04:12:13",
+      "https://news.ycombinator.com/item?id=48827402"
+    ],
+    [
+      "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday",
+      "https://twitter.com/OpenAI/status/2074704958419792299"
+    ]
+  ],
+  [
+    [
       "2026-07-08, 03:59:35",
       "https://news.ycombinator.com/item?id=48827325"
     ],
     [
-      "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS",
+      "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
       "https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/"
     ]
   ],
@@ -77,16 +87,6 @@
     [
       "Structure and Interpretation of Computer Programs Video Lectures (1986)",
       "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/"
-    ]
-  ],
-  [
-    [
-      "2026-07-07, 23:29:36",
-      "https://news.ycombinator.com/item?id=48825430"
-    ],
-    [
-      "Show HN: Free Mermaid Diagram Editor",
-      "https://moxiedocs.com/mermaid-diagram-editor"
     ]
   ],
   [
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2026-07-07, 15:36:49",
-      "https://news.ycombinator.com/item?id=48819308"
-    ],
-    [
-      "Why we built yet another Postgres connection pooler",
-      "https://pgdog.dev/blog/why-yet-another-connection-pooler"
-    ]
-  ],
-  [
-    [
       "2026-07-07, 14:23:15",
       "https://news.ycombinator.com/item?id=48818311"
     ],
@@ -267,6 +257,16 @@
     [
       "First Principles of Model Routing",
       "https://try.works/first-principles-of-model-routing"
+    ]
+  ],
+  [
+    [
+      "2026-07-02, 14:07:56",
+      "https://news.ycombinator.com/item?id=48761868"
+    ],
+    [
+      "The difference between \"today's task\" and \"accretive work\"",
+      "https://pluralistic.net/2026/07/02/canonization/"
     ]
   ],
   [
