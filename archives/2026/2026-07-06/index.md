@@ -84,6 +84,7 @@
 * [2026-07-06, 08:40:29](https://news.ycombinator.com/item?id=48802156) - [The Hitchhiker's Guide to Agentic AI](https://arxiv.org/abs/2606.24937)
 * [2026-07-06, 07:05:25](https://news.ycombinator.com/item?id=48801493) - [When AI Costs More Than the Engineer](https://tomtunguz.com/ai-spend-breakeven-2029/)
 * [2026-07-06, 07:04:33](https://news.ycombinator.com/item?id=48801488) - [Generate parametric, manufacturable 3D models in seconds](https://kyrall.com/)
+* [2026-07-06, 06:42:21](https://news.ycombinator.com/item?id=48801364) - [Sometimes it is the network: a war story](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SometimesItIsTheNetwork)
 * [2026-07-06, 02:24:15](https://news.ycombinator.com/item?id=48800026) - [Shrimple – A Simpler, Nicer Markdown](https://qount25.dev/Shrimple/)
 * [2026-07-06, 02:06:55](https://news.ycombinator.com/item?id=48799930) - [GitHub Freno: cooperative, highly available throttler service](https://github.com/github/freno)
 * [2026-07-06, 02:06:49](https://news.ycombinator.com/item?id=48799929) - [Building relationships with customers through support didn't turn out as hoped](https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support)
