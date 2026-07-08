@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-08](index.md)
 
+* [2026-07-08, 02:17:01](https://news.ycombinator.com/item?id=48826703) - [Is The Economist Always Wrong?](https://www.economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong)
 * [2026-07-08, 01:58:10](https://news.ycombinator.com/item?id=48826572) - [Ranked worst to best: 13 flavors of Pure Leaf iced tea](https://www.tastingtable.com/1866292/pure-leaf-iced-tea-flavors-ranked/)
 * [2026-07-08, 00:55:19](https://news.ycombinator.com/item?id=48826094) - [Show HN: Chiptune Radio](https://chiptune-radio.alephvoid.com/)
 * [2026-07-08, 00:18:39](https://news.ycombinator.com/item?id=48825816) - [An interactive explorer for Benford's Law across real datasets](https://vatsalbakshi.com/blog/benfords-law/)
