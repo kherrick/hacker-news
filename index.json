@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-08, 18:00:32",
+      "https://news.ycombinator.com/item?id=48835111"
+    ],
+    [
+      "Grok 4.5",
+      "https://x.ai/news/grok-4-5"
+    ]
+  ],
+  [
+    [
+      "2026-07-08, 17:46:12",
+      "https://news.ycombinator.com/item?id=48834924"
+    ],
+    [
+      "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+      "https://microsoft.github.io/flint-chart/#/"
+    ]
+  ],
+  [
+    [
       "2026-07-08, 17:03:19",
       "https://news.ycombinator.com/item?id=48834405"
     ],
@@ -37,16 +57,6 @@
     [
       "TypeScript 7",
       "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/"
-    ]
-  ],
-  [
-    [
-      "2026-07-08, 15:25:09",
-      "https://news.ycombinator.com/item?id=48833183"
-    ],
-    [
-      "Show HN: Kastor – Terraform-style specs for AI agents",
-      "https://github.com/weirdGuy/kastor"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup",
       "https://www.gao.gov/products/gao-26-108193"
-    ]
-  ],
-  [
-    [
-      "2026-07-07, 18:24:10",
-      "https://news.ycombinator.com/item?id=48821576"
-    ],
-    [
-      "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
-      "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/"
     ]
   ],
   [
