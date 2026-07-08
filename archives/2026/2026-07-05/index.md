@@ -70,6 +70,7 @@
 * [2026-07-05, 10:50:53](https://news.ycombinator.com/item?id=48793073) - [Pi square is nearly 10](https://mihai.page/pi-square-is-10/)
 * [2026-07-05, 10:42:59](https://news.ycombinator.com/item?id=48793020) - [Ford rehires human engineers after AI fails to match quality checks](https://www.bbc.com/news/articles/cgrkd41n2v9o)
 * [2026-07-05, 10:34:20](https://news.ycombinator.com/item?id=48792984) - [Common 3D Benchy Problems, Causes and Fixes](https://bambu3design.com/13-common-3d-benchy-problems-causes-fixes/)
+* [2026-07-05, 10:33:45](https://news.ycombinator.com/item?id=48792980) - [Japan's Hayabusa2 probe to conduct flyby of Torifune asteroid](https://www3.nhk.or.jp/nhkworld/en/news/20260705_01/)
 * [2026-07-05, 09:56:10](https://news.ycombinator.com/item?id=48792790) - [Europe's new climate in seven charts](https://www.bbc.com/news/articles/c8e2j0j87reo)
 * [2026-07-05, 09:55:22](https://news.ycombinator.com/item?id=48792780) - [Scientist who cleaned space toilet on work now leading Mars exploration](https://www.bbc.com/news/articles/cz758x04g83o)
 * [2026-07-05, 09:00:58](https://news.ycombinator.com/item?id=48792483) - [Intuitive Quantum Electrodynamics](https://forwardscattering.org/page/Intuitive%20Quantum%20Electrodynamics)
