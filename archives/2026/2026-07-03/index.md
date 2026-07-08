@@ -20,6 +20,7 @@
 * [2026-07-03, 21:58:15](https://news.ycombinator.com/item?id=48780507) - [Why Vancouver is always a stand-in for San Francisco in movies and TV shows (2021)](https://www.sfgate.com/sf-culture/article/vancouver-stand-in-movie-tv-sf-16613821.php)
 * [2026-07-03, 21:53:04](https://news.ycombinator.com/item?id=48780469) - [The Demoralization of the White-Collar Worker](https://nooneshappy.com/article/the-demoralization-of-the-white-collar-worker/)
 * [2026-07-03, 21:49:06](https://news.ycombinator.com/item?id=48780417) - [GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell](https://www.wafer.ai/blog/glm52-amd)
+* [2026-07-03, 21:46:07](https://news.ycombinator.com/item?id=48780387) - [EVE Online's Carbon engine is now open source: Fenris Creations explains why](https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why)
 * [2026-07-03, 21:42:19](https://news.ycombinator.com/item?id=48780352) - [Goodbye, Forever, Probably](https://whitep4nth3r.com/blog/goodbye-forever-probably/)
 * [2026-07-03, 21:28:55](https://news.ycombinator.com/item?id=48780224) - [Software, from First Principles](https://fazamhd.com/mental-models/software/)
 * [2026-07-03, 21:28:45](https://news.ycombinator.com/item?id=48780222) - [Show HN: Updated my landing page with Fable (retro pixel style)](https://www.tryguildly.com/)
