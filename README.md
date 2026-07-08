@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-08, 21:49:59](https://news.ycombinator.com/item?id=48837877) - [Rewriting Bun in Rust](https://bun.com/blog/bun-in-rust)
 * [2026-07-08, 21:43:07](https://news.ycombinator.com/item?id=48837809) - [Open Source Barware: free, local-first bar inventory software (GPLv3)](https://opensourcebarware.com)
 * [2026-07-08, 21:03:51](https://news.ycombinator.com/item?id=48837396) - [Separating signal from noise in coding evaluations](https://openai.com/index/separating-signal-from-noise-coding-evaluations/)
 * [2026-07-08, 20:41:33](https://news.ycombinator.com/item?id=48837162) - [The classifiers Anthropic puts in front of Fable are too zealous](https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html)
 * [2026-07-08, 20:37:29](https://news.ycombinator.com/item?id=48837110) - [Turning a pile of documents into a searchable useable knowledge base](https://github.com/linuxrebel/DocuBrowser)
-* [2026-07-08, 20:21:45](https://news.ycombinator.com/item?id=48836951) - [Agentic test processes, LLM benchmarks, and other notes on agentic coding fr](https://danluu.com/ai-coding/#llm-variance)
 * [2026-07-08, 20:09:03](https://news.ycombinator.com/item?id=48836813) - [Show HN: Onboard-CLI, a LLM powered and AST-based tool to visualize codebase](https://github.com/animesh-94/Onboard-CLI)
 * [2026-07-08, 20:05:42](https://news.ycombinator.com/item?id=48836778) - [FAANG Simulator](https://www.abeyk.com/escape-the-rat-race/)
 * [2026-07-08, 19:35:07](https://news.ycombinator.com/item?id=48836431) - [Almost Always Unsigned](https://graphitemaster.github.io/aau/)
