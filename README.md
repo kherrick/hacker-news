@@ -25,7 +25,7 @@
 * [2026-07-08, 05:25:35](https://news.ycombinator.com/item?id=48827858) - [GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos](https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/)
 * [2026-07-06, 14:50:06](https://news.ycombinator.com/item?id=48805475) - [Show HN: Agent Draw: An agent draws while you talk, built on TLDraw](https://techstackups.com/articles/tldraw-agent-draw/)
 * [2026-07-06, 14:06:34](https://news.ycombinator.com/item?id=48804801) - [I Built a Telegram Client for Pi](https://www.npmjs.com/package/@atharva-again/pi-tg)
-* [2026-07-06, 06:42:21](https://news.ycombinator.com/item?id=48801364) - [Sometimes it is the network: a war story](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SometimesItIsTheNetwork)
+* [2026-07-06, 13:02:57](https://news.ycombinator.com/item?id=48804016) - [DKIM2 and DMARCbis Have Landed](https://stalw.art/blog/dkim2-dmarcbis/)
 * [2026-07-05, 19:55:58](https://news.ycombinator.com/item?id=48797443) - [Understanding B-Tree Indexes in PostgreSQL: A Comprehensive Guide– Part 1](https://medium.com/@devli0/b-tree-indexes-in-postgresql-part-1-theory-eb2668c52520)
 * [2026-07-05, 13:13:54](https://news.ycombinator.com/item?id=48794062) - [TabFont – guitar tabs rendered as you type](https://philatype.com/tabfont/)
 * [2026-07-04, 16:11:06](https://news.ycombinator.com/item?id=48786455) - [Show HN: Follow London Trains in 3D](https://ride.nexttrain.london/)

@@ -65,6 +65,7 @@
 * [2026-07-06, 13:16:50](https://news.ycombinator.com/item?id=48804176) - [The Fear of Dying Before You Become Yourself](https://www.dailicle.com/read/the-fear-of-dying-before-you-become-yourself)
 * [2026-07-06, 13:12:52](https://news.ycombinator.com/item?id=48804123) - [How Kalshi Infects the News](https://www.publicnotice.co/p/kalshi-cnn-cnbc)
 * [2026-07-06, 13:03:35](https://news.ycombinator.com/item?id=48804017) - [Why low-latency Java still requires discipline?](https://chronicle.software/insights/blogs/why-low-latency-java-still-requires-discipline)
+* [2026-07-06, 13:02:57](https://news.ycombinator.com/item?id=48804016) - [DKIM2 and DMARCbis Have Landed](https://stalw.art/blog/dkim2-dmarcbis/)
 * [2026-07-06, 13:02:51](https://news.ycombinator.com/item?id=48804014) - [Workers Cache](https://blog.cloudflare.com/workers-cache/)
 * [2026-07-06, 13:01:29](https://news.ycombinator.com/item?id=48804000) - [Show HN: Pet Reminder – A macOS reminder app with a desktop pet](https://reminder.w3cub.com/)
 * [2026-07-06, 12:51:12](https://news.ycombinator.com/item?id=48803886) - [Amazon will stop accepting new customers for Mechanical Turk on July 30](https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/)
