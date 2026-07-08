@@ -54,6 +54,7 @@
 * [2026-07-05, 15:00:21](https://news.ycombinator.com/item?id=48794788) - [Why DMARC's new \"NP\" tag can fail with DNSSEC](https://dmarcwise.io/blog/dmarc-np-incompatibility-with-dnssec)
 * [2026-07-05, 14:56:15](https://news.ycombinator.com/item?id=48794750) - [It's not about physical vs. digital games, it's about ownership](https://popcar.bearblog.dev/its-about-ownership/)
 * [2026-07-05, 14:49:42](https://news.ycombinator.com/item?id=48794704) - [Solar rail could become common in Europe after successful trial in Switzerland](https://www.euronews.com/2026/07/05/italy-could-be-the-next-country-to-build-a-solar-railway-after-switzerlands-successful-tri)
+* [2026-07-05, 14:30:44](https://news.ycombinator.com/item?id=48794568) - [My road trip with the do-gooding cactus smugglers](https://economist.com/1843/2026/03/06/my-road-trip-with-the-do-gooding-cactus-smugglers)
 * [2026-07-05, 14:14:30](https://news.ycombinator.com/item?id=48794446) - [Organic Maps](https://organicmaps.app/)
 * [2026-07-05, 13:47:44](https://news.ycombinator.com/item?id=48794302) - [Run Windows 2000 on a DEC Alpha with a new es40 fork](https://raymii.org/s/blog/Run_Windows_2000_for_Dec_Alpha_on_a_new_es40_fork.html)
 * [2026-07-05, 13:35:32](https://news.ycombinator.com/item?id=48794227) - [Catastrophe theory; geniuses and maniacs (2011)](http://glassbottomblog.blogspot.com/2011/01/catastrophe-theory-geniuses-and-maniacs.html)

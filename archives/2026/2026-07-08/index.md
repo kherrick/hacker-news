@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-08](index.md)
 
+* [2026-07-08, 23:11:28](https://news.ycombinator.com/item?id=48838611) - [Suspecting AI cheating, Ivy League prof ordered in-person final; scores fell 50%](https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/)
 * [2026-07-08, 21:49:59](https://news.ycombinator.com/item?id=48837877) - [Rewriting Bun in Rust](https://bun.com/blog/bun-in-rust)
 * [2026-07-08, 21:43:07](https://news.ycombinator.com/item?id=48837809) - [Open Source Barware: free, local-first bar inventory software (GPLv3)](https://opensourcebarware.com)
 * [2026-07-08, 21:03:51](https://news.ycombinator.com/item?id=48837396) - [OpenAI no longer recommends SWE-Bench Pro](https://openai.com/index/separating-signal-from-noise-coding-evaluations/)
@@ -15,6 +16,7 @@
 * [2026-07-08, 20:05:42](https://news.ycombinator.com/item?id=48836778) - [FAANG Simulator](https://www.abeyk.com/escape-the-rat-race/)
 * [2026-07-08, 20:00:04](https://news.ycombinator.com/item?id=48836713) - [Show HN: Hnwork.app – UI for Who is hiring posts](https://hnwork.app/)
 * [2026-07-08, 19:35:07](https://news.ycombinator.com/item?id=48836431) - [Almost Always Unsigned](https://graphitemaster.github.io/aau/)
+* [2026-07-08, 19:26:18](https://news.ycombinator.com/item?id=48836324) - [New Sweden: the US's long-lost 'secret' colony](https://www.bbc.com/travel/article/20260629-new-sweden-the-uss-long-lost-secret-colony)
 * [2026-07-08, 19:18:26](https://news.ycombinator.com/item?id=48836233) - [Cloudflare Drop](https://www.cloudflare.com/drop/)
 * [2026-07-08, 18:21:53](https://news.ycombinator.com/item?id=48835439) - [OpenMandriva: Statement regarding attempted distribution sabotage](https://forum.openmandriva.org/t/statement-regarding-attempted-distribution-sabotage/8997)
 * [2026-07-08, 18:00:32](https://news.ycombinator.com/item?id=48835111) - [Grok 4.5](https://x.ai/news/grok-4-5)
