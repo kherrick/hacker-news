@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-09, 20:47:09",
+      "https://news.ycombinator.com/item?id=48852151"
+    ],
+    [
+      "How GitHub gave every repository a durable owner",
+      "https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/"
+    ]
+  ],
+  [
+    [
       "2026-07-09, 18:29:41",
       "https://news.ycombinator.com/item?id=48850414"
     ],
@@ -21,12 +31,12 @@
   ],
   [
     [
-      "2026-07-09, 17:38:18",
-      "https://news.ycombinator.com/item?id=48849648"
+      "2026-07-09, 17:36:30",
+      "https://news.ycombinator.com/item?id=48849618"
     ],
     [
-      "Show HN: Pylon Sync, an agent-first full-stack realtime framework",
-      "https://www.pylonsync.com"
+      "Show HN: I built a web tool to see and edit what an AI thinks before it answers",
+      "https://lucid.earthpilot.ai"
     ]
   ],
   [
@@ -57,6 +67,26 @@
     [
       "Wildcard (YC W25) Is Hiring a Founding Engineer",
       "https://www.ycombinator.com/companies/wildcard/jobs/ZSLVaaU-founding-engineer"
+    ]
+  ],
+  [
+    [
+      "2026-07-09, 15:50:09",
+      "https://news.ycombinator.com/item?id=48847940"
+    ],
+    [
+      "AI content is everywhere on social media, especially LinkedIn",
+      "https://www.pangram.com/blog/ai-in-your-feed"
+    ]
+  ],
+  [
+    [
+      "2026-07-09, 15:30:15",
+      "https://news.ycombinator.com/item?id=48847577"
+    ],
+    [
+      "Show HN: Sighthound - open-source vulnerability scanner for source code",
+      "https://github.com/Corgea/Sighthound"
     ]
   ],
   [
@@ -117,26 +147,6 @@
     [
       "Why the Next Era of AI Is About Infrastructure, Not Just Models",
       "https://blog.mozilla.ai/the-control-layer-why-the-next-era-of-ai-is-about-infrastructure-not-just-models/"
-    ]
-  ],
-  [
-    [
-      "2026-07-09, 14:30:54",
-      "https://news.ycombinator.com/item?id=48846510"
-    ],
-    [
-      "Show HN: Analog Watch",
-      "https://analog.watch"
-    ]
-  ],
-  [
-    [
-      "2026-07-09, 14:20:14",
-      "https://news.ycombinator.com/item?id=48846332"
-    ],
-    [
-      "New open access book on history of computers and politics",
-      "https://mitpress.mit.edu/9780262053198/simpolitics/"
     ]
   ],
   [
@@ -211,12 +221,12 @@
   ],
   [
     [
-      "2026-07-09, 05:46:50",
-      "https://news.ycombinator.com/item?id=48841446"
+      "2026-07-09, 06:18:19",
+      "https://news.ycombinator.com/item?id=48841676"
     ],
     [
-      "AI changes the economics of software rewrites",
-      "https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/"
+      "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+      "https://github.com/malisper/pgrust"
     ]
   ],
   [
@@ -231,12 +241,12 @@
   ],
   [
     [
-      "2026-07-08, 14:54:59",
-      "https://news.ycombinator.com/item?id=48832797"
+      "2026-07-08, 19:35:07",
+      "https://news.ycombinator.com/item?id=48836431"
     ],
     [
-      "Show HN: Abralo – Free, easy way to run several Claude Code agents in one window",
-      "https://abralo.com/"
+      "Almost Always Unsigned",
+      "https://graphitemaster.github.io/aau/"
     ]
   ],
   [
@@ -245,7 +255,7 @@
       "https://news.ycombinator.com/item?id=48809574"
     ],
     [
-      "Girls Just Wanna Have Fast MPMC Queues with Bounded Waiting",
+      "Girls just wanna have fast MPMC queues with bounded waiting",
       "https://nahla.dev/blog/waitfree_queue/"
     ]
   ],
@@ -265,18 +275,8 @@
       "https://news.ycombinator.com/item?id=48803004"
     ],
     [
-      "Buried Apple Feature Turns an iPhone into the Perfect Kids' Dumb Phone",
+      "Buried Apple feature turns an iPhone into the perfect kids' dumb phone",
       "https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/"
-    ]
-  ],
-  [
-    [
-      "2026-07-06, 04:00:40",
-      "https://news.ycombinator.com/item?id=48800486"
-    ],
-    [
-      "How to Follow a Drummer",
-      "https://drummate.app/blog/how-to-follow-a-drummer"
     ]
   ],
   [
