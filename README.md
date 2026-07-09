@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-09, 18:29:41](https://news.ycombinator.com/item?id=48850414) - [GLM 5.2 is nearly as accurate as a human book keeper](https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark)
+* [2026-07-09, 18:27:06](https://news.ycombinator.com/item?id=48850372) - [How to Start a Ruby Meetup](https://guides.rubyevents.org/meetups/)
 * [2026-07-09, 17:15:47](https://news.ycombinator.com/item?id=48849258) - [How should group chats work in decentralized systems?](https://marindedic.com/groups/)
 * [2026-07-09, 17:04:14](https://news.ycombinator.com/item?id=48849066) - [GPT-5.6](https://openai.com/index/gpt-5-6/)
 * [2026-07-09, 17:03:53](https://news.ycombinator.com/item?id=48849059) - [ChatGPT Work](https://openai.com/index/chatgpt-for-your-most-ambitious-work/)
@@ -8,10 +10,8 @@
 * [2026-07-09, 16:00:58](https://news.ycombinator.com/item?id=48848111) - [Auditory and spontaneous movement responses to music over first postnatal year](https://elifesciences.org/articles/107088)
 * [2026-07-09, 15:28:39](https://news.ycombinator.com/item?id=48847562) - [Launch HN: Context.dev (YC S26) – API to get structured data from any website](https://www.context.dev)
 * [2026-07-09, 15:27:48](https://news.ycombinator.com/item?id=48847552) - [Hy3](https://hy.tencent.com/research/hy3)
-* [2026-07-09, 15:26:52](https://news.ycombinator.com/item?id=48847536) - [How to Write an Email](https://blog.dannycastonguay.com/how-to-write-an-email/)
 * [2026-07-09, 15:25:25](https://news.ycombinator.com/item?id=48847511) - [A possible future for Damn Interesting](https://www.damninteresting.com/a-possible-future/)
 * [2026-07-09, 15:19:33](https://news.ycombinator.com/item?id=48847407) - [Opinionated and Easy Pi.dev Configuration](https://lazypi.org/)
-* [2026-07-09, 15:19:23](https://news.ycombinator.com/item?id=48847405) - [Coordination Without Consolidation: On Systems of States [pdf]](https://isonomiaquarterly.com/wp-content/uploads/2026/06/iq-4.2-summer-2026-macdonald-coordination-without-consolidation.pdf)
 * [2026-07-09, 15:06:52](https://news.ycombinator.com/item?id=48847181) - [Ways to think about token pricing](https://www.ben-evans.com/benedictevans/2026/7/9/ways-to-think-about-token-pricing)
 * [2026-07-09, 14:57:02](https://news.ycombinator.com/item?id=48846995) - [TLS certificates for internal services done right](https://tuxnet.dev/posts/tls-for-internal-services/)
 * [2026-07-09, 14:30:54](https://news.ycombinator.com/item?id=48846510) - [Show HN: Analog Watch](https://analog.watch)
