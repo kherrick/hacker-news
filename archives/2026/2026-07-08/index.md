@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-07-08](index.md)
 
 * [2026-07-08, 23:37:43](https://news.ycombinator.com/item?id=48838876) - [John Deere owners will get the right to repair equipment under FTC settlement](https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02)
+* [2026-07-08, 23:27:14](https://news.ycombinator.com/item?id=48838772) - [We made Grok 4.5, GPT-5.5, and Claude build the same apps](https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off)
 * [2026-07-08, 23:11:28](https://news.ycombinator.com/item?id=48838611) - [Suspecting AI cheating, Ivy League prof ordered in-person final; scores fell 50%](https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/)
 * [2026-07-08, 21:49:59](https://news.ycombinator.com/item?id=48837877) - [Rewriting Bun in Rust](https://bun.com/blog/bun-in-rust)
 * [2026-07-08, 21:43:07](https://news.ycombinator.com/item?id=48837809) - [Open Source Barware: free, local-first bar inventory software (GPLv3)](https://opensourcebarware.com)
@@ -42,6 +43,7 @@
 * [2026-07-08, 11:30:56](https://news.ycombinator.com/item?id=48830565) - [Apple to increase spend with Broadcom to produce billions more U.S. chips](https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/)
 * [2026-07-08, 11:06:06](https://news.ycombinator.com/item?id=48830388) - [We Got This Wrong. and We Are Fixing It](https://community.hubspot.com/t/we-got-this-wrong-and-we-are-fixing-it/152063)
 * [2026-07-08, 11:03:34](https://news.ycombinator.com/item?id=48830371) - [List of European organizations that have banned personal messaging apps at work](https://www.birdy.chat/blog/the-growing-list-of-european-organisations-that-ban-personal-messaging-apps-at-work)
+* [2026-07-08, 09:44:20](https://news.ycombinator.com/item?id=48829797) - [Unicode's transliteration rules are Turing-complete](https://seriot.ch/computation/uts35/)
 * [2026-07-08, 08:46:06](https://news.ycombinator.com/item?id=48829312) - [Decoding the obfuscated bash script on a Uniqlo t-shirt](https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/)
 * [2026-07-08, 08:37:26](https://news.ycombinator.com/item?id=48829242) - [Geosql: A Claude/Codex skill for geospatial data](https://github.com/dekart-xyz/geosql)
 * [2026-07-08, 07:18:26](https://news.ycombinator.com/item?id=48828648) - [The space bit of SpaceX is worth $8 a share, says Morgan Stanley](https://www.ft.com/content/09a62ed4-16af-433c-adb7-c877d1975388)
