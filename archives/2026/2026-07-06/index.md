@@ -75,6 +75,7 @@
 * [2026-07-06, 12:37:06](https://news.ycombinator.com/item?id=48803751) - [Anthropic's Method to Losing Goodwill in a Few Easy Steps](https://raheeljunaid.com/blog/anthropics-method-to-losing-goodwill-in-a-few-easy-steps/)
 * [2026-07-06, 12:33:09](https://news.ycombinator.com/item?id=48803711) - [The AI Marketing Backlash: Why 'AI-First' Brands Are Starting to Fall Flat](https://www.breef.com/breefingroom/articles/the-ai-marketing-backlash-why-ai-first-brands-are-starting-to-fall-flat)
 * [2026-07-06, 12:29:52](https://news.ycombinator.com/item?id=48803681) - [The AI Big Crunch Is Starting](https://medium.com/@brothke/the-ai-big-crunch-is-starting-c50612ee3a02)
+* [2026-07-06, 12:10:13](https://news.ycombinator.com/item?id=48803545) - [Why is there smoke from the boiler room? – Botanical Garden using Home Assistant](https://vooijs.eu/posts/why-is-there-smoke-from-the-boiler-room/)
 * [2026-07-06, 11:47:37](https://news.ycombinator.com/item?id=48803364) - [Road to Elm 1.0](https://elm-lang.org/news/faster-builds)
 * [2026-07-06, 11:44:39](https://news.ycombinator.com/item?id=48803347) - [C programmers commit fresh crimes against readability](https://www.theregister.com/offbeat/2026/07/05/c-programmers-commit-fresh-crimes-against-readability/5265981)
 * [2026-07-06, 11:42:46](https://news.ycombinator.com/item?id=48803338) - [\"Software Engineering\" Is Not Engineering](https://web.archive.org/web/20050615235108/http://www.geocities.com/tablizer/science.htm)
