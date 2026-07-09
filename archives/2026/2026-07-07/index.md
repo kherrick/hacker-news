@@ -64,6 +64,7 @@
 * [2026-07-07, 08:12:12](https://news.ycombinator.com/item?id=48814952) - [Show HN: Fast, native Mac file manager (filters, fuzzy find, 9 MB, no Electron)](https://whimfiles.com)
 * [2026-07-07, 07:00:27](https://news.ycombinator.com/item?id=48814509) - [Lago (YC S21) Is Hiring for Our GTM Team](https://jobs.ashbyhq.com/lago)
 * [2026-07-07, 05:19:03](https://news.ycombinator.com/item?id=48813929) - [The Art of Computer Programming by Donald E. Knuth](https://www-cs-faculty.stanford.edu/~knuth/taocp.html)
+* [2026-07-07, 01:40:26](https://news.ycombinator.com/item?id=48812736) - [Apache Shiro security framework releases 3.0.0](https://shiro.apache.org/blog/2026/06/apache-shiro-300-released.html)
 * [2026-07-07, 01:06:19](https://news.ycombinator.com/item?id=48812489) - [LLMs Are Not a Default Execution Engine](https://unmeshed.io/blog/using-ai-wisely-starts-before-the-first-prompt)
 * [2026-07-07, 01:00:14](https://news.ycombinator.com/item?id=48812450) - [I created a free tool that pairs your Nasic and past performance to win contract](https://www.fedfinder.net/)
 * [2026-07-07, 00:32:59](https://news.ycombinator.com/item?id=48812282) - [Strata – An app that talks me out of dying outdoors](https://strata.highloop.co/)
