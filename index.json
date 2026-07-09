@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2026-07-09, 06:18:19",
-      "https://news.ycombinator.com/item?id=48841676"
-    ],
-    [
-      "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
-      "https://github.com/malisper/pgrust"
-    ]
-  ],
-  [
-    [
       "2026-07-09, 05:34:44",
       "https://news.ycombinator.com/item?id=48841385"
     ],
@@ -147,16 +137,6 @@
     [
       "Cloudflare Drop",
       "https://www.cloudflare.com/drop/"
-    ]
-  ],
-  [
-    [
-      "2026-07-08, 18:21:53",
-      "https://news.ycombinator.com/item?id=48835439"
-    ],
-    [
-      "OpenMandriva: Statement regarding attempted distribution sabotage",
-      "https://forum.openmandriva.org/t/statement-regarding-attempted-distribution-sabotage/8997"
     ]
   ],
   [
@@ -297,6 +277,26 @@
     [
       "In-browser programmable robot simulator",
       "https://bittlex-sim.petoi.com/"
+    ]
+  ],
+  [
+    [
+      "2026-07-03, 19:27:05",
+      "https://news.ycombinator.com/item?id=48778956"
+    ],
+    [
+      "Meta reuses old RAM in new servers with custom bridge chip",
+      "https://www.networkworld.com/article/4192827/meta-reuses-old-ram-in-new-servers-with-custom-bridge-chip.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-02, 08:02:50",
+      "https://news.ycombinator.com/item?id=48758059"
+    ],
+    [
+      "The Field Equation, living shader geometry folded into a breathing object",
+      "https://sand-morph.up.railway.app/the-field-equation"
     ]
   ]
 ]
