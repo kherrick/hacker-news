@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-09](index.md)
 
+* [2026-07-09, 05:46:50](https://news.ycombinator.com/item?id=48841446) - [AI changes the economics of software rewrites](https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/)
 * [2026-07-09, 05:14:45](https://news.ycombinator.com/item?id=48841259) - [Spider venom kills varroa mites without harming honeybees](https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming)
 * [2026-07-09, 03:26:02](https://news.ycombinator.com/item?id=48840620) - [What's slowing down the AI buildout](https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid)
 * [2026-07-09, 03:08:32](https://news.ycombinator.com/item?id=48840497) - [Ergo: Long Form Philosophy Lectures](https://ergo.org/)

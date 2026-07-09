@@ -12,6 +12,7 @@
 * [2026-07-04, 22:36:28](https://news.ycombinator.com/item?id=48789712) - [Jellyfish can heal wounds in minutes. Scientists want their secrets](https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets)
 * [2026-07-04, 22:34:30](https://news.ycombinator.com/item?id=48789699) - [New bacterial species discovered in NASA's cleanrooms](https://www.nature.com/articles/d44151-025-00219-7)
 * [2026-07-04, 22:24:11](https://news.ycombinator.com/item?id=48789625) - [Automate Excel with Python: From manual grind to one-click workflow](https://nostarch.com/automate-excel-with-python)
+* [2026-07-04, 21:53:09](https://news.ycombinator.com/item?id=48789445) - [3D Airplane tracker on Mercator map](https://github.com/jamalrfordii-arch/Vanguard-Map)
 * [2026-07-04, 21:51:09](https://news.ycombinator.com/item?id=48789428) - [GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance](https://github.com/openai/codex/issues/30364)
 * [2026-07-04, 21:35:30](https://news.ycombinator.com/item?id=48789325) - [My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress](https://ekinertac.com/blog/i-dont-know-rust-my-ai-is-rewriting-php-in-it/)
 * [2026-07-04, 20:38:39](https://news.ycombinator.com/item?id=48788849) - [Protocol Prying: Vulnerability Research in AirDrop and Quick Share](https://arxiv.org/abs/2606.26967)
