@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-09](index.md)
 
+* [2026-07-09, 17:15:47](https://news.ycombinator.com/item?id=48849258) - [How should group chats work in decentralized systems?](https://marindedic.com/groups/)
 * [2026-07-09, 17:04:14](https://news.ycombinator.com/item?id=48849066) - [GPT-5.6](https://openai.com/index/gpt-5-6/)
 * [2026-07-09, 17:03:53](https://news.ycombinator.com/item?id=48849059) - [ChatGPT Work](https://openai.com/index/chatgpt-for-your-most-ambitious-work/)
 * [2026-07-09, 17:00:37](https://news.ycombinator.com/item?id=48849011) - [Wildcard (YC W25) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/wildcard/jobs/ZSLVaaU-founding-engineer)
@@ -20,6 +21,7 @@
 * [2026-07-09, 15:19:23](https://news.ycombinator.com/item?id=48847405) - [Coordination Without Consolidation: On Systems of States [pdf]](https://isonomiaquarterly.com/wp-content/uploads/2026/06/iq-4.2-summer-2026-macdonald-coordination-without-consolidation.pdf)
 * [2026-07-09, 15:16:46](https://news.ycombinator.com/item?id=48847368) - [Stop Using reCAPTCHA – It's Not a Real Captcha](https://na0341.bearblog.dev/info/stop-using-recaptcha/)
 * [2026-07-09, 15:13:11](https://news.ycombinator.com/item?id=48847298) - [Show HN: LastShelf – an emergency map of your family's documents bills& contacts](https://www.lastshelf.ai/)
+* [2026-07-09, 15:06:52](https://news.ycombinator.com/item?id=48847181) - [Ways to think about token pricing](https://www.ben-evans.com/benedictevans/2026/7/9/ways-to-think-about-token-pricing)
 * [2026-07-09, 14:57:02](https://news.ycombinator.com/item?id=48846995) - [TLS certificates for internal services done right](https://tuxnet.dev/posts/tls-for-internal-services/)
 * [2026-07-09, 14:45:04](https://news.ycombinator.com/item?id=48846757) - [Why we're moving off Cloudflare Durable Objects](https://usewire.io/engineering/why-were-moving-wire-off-cloudflare-durable-objects/)
 * [2026-07-09, 14:30:54](https://news.ycombinator.com/item?id=48846510) - [Show HN: Analog Watch](https://analog.watch)
@@ -55,6 +57,7 @@
 * [2026-07-09, 05:14:45](https://news.ycombinator.com/item?id=48841259) - [Spider venom kills varroa mites without harming honeybees](https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming)
 * [2026-07-09, 03:26:02](https://news.ycombinator.com/item?id=48840620) - [What's slowing down the AI buildout](https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid)
 * [2026-07-09, 03:08:32](https://news.ycombinator.com/item?id=48840497) - [Ergo: Long Form Philosophy Lectures](https://ergo.org/)
+* [2026-07-09, 02:23:24](https://news.ycombinator.com/item?id=48840207) - [Show HN: I mapped 8.5M research papers into an interactive atlas](https://tomesphere.com/atlas)
 * [2026-07-09, 01:56:28](https://news.ycombinator.com/item?id=48839984) - [I Think I Have LLM Burnout](https://www.alecscollon.com/blog/llm-burnout/)
 * [2026-07-09, 01:22:24](https://news.ycombinator.com/item?id=48839751) - [Rewriting Bun in Rust](https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/)
 * [2026-07-09, 00:38:02](https://news.ycombinator.com/item?id=48839434) - [A software engineering interview question I like: computing the median](https://krisshamloo.com/blog/007)

@@ -81,6 +81,7 @@
 * [2026-07-06, 11:44:39](https://news.ycombinator.com/item?id=48803347) - [C programmers commit fresh crimes against readability](https://www.theregister.com/offbeat/2026/07/05/c-programmers-commit-fresh-crimes-against-readability/5265981)
 * [2026-07-06, 11:42:46](https://news.ycombinator.com/item?id=48803338) - [\"Software Engineering\" Is Not Engineering](https://web.archive.org/web/20050615235108/http://www.geocities.com/tablizer/science.htm)
 * [2026-07-06, 11:29:30](https://news.ycombinator.com/item?id=48803244) - [Study: ultra-black coating could reduce satellite light pollution](https://www.surrey.ac.uk/news/astrophysicists-show-how-worlds-darkest-coating-could-protect-night-sky-satellite-light-pollution)
+* [2026-07-06, 10:53:51](https://news.ycombinator.com/item?id=48803004) - [Buried Apple Feature Turns an iPhone into the Perfect Kids' Dumb Phone](https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/)
 * [2026-07-06, 10:49:29](https://news.ycombinator.com/item?id=48802971) - [How the U.S. Engineered Its Sovereignty](https://spectrum.ieee.org/us-engineered-sovereignty)
 * [2026-07-06, 10:37:58](https://news.ycombinator.com/item?id=48802885) - [X402, a static blog monetization excercise](https://shtein.me/posts/x402-poc/)
 * [2026-07-06, 10:28:32](https://news.ycombinator.com/item?id=48802818) - [Show HN: Paint the Earth on a live, interactive globe (collaborative art.)](https://earth.tattoo)
