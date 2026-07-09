@@ -43,6 +43,7 @@
 * [2026-07-03, 19:38:47](https://news.ycombinator.com/item?id=48779072) - [Not Dark Yet](https://agoodhardstare.substack.com/p/not-dark-yet)
 * [2026-07-03, 19:38:44](https://news.ycombinator.com/item?id=48779071) - [Why Being Overqualified Is a Risk](https://newsletter.bphogan.com/archive/issue-52-run-coding-models-locally-and-why-being/)
 * [2026-07-03, 19:28:10](https://news.ycombinator.com/item?id=48778971) - [ClawdMojis – A Clawd for Every Occasion](https://github.com/afspies/ClawdMoji)
+* [2026-07-03, 19:27:05](https://news.ycombinator.com/item?id=48778956) - [Meta reuses old RAM in new servers with custom bridge chip](https://www.theregister.com/systems/2026/06/29/zuck-saves-meta-bucks-by-reusing-memory-from-old-servers-with-a-custom-cxl-asic/5263483)
 * [2026-07-03, 19:27:05](https://news.ycombinator.com/item?id=48778956) - [Meta reuses old RAM in new servers with custom bridge chip](https://www.networkworld.com/article/4192827/meta-reuses-old-ram-in-new-servers-with-custom-bridge-chip.html)
 * [2026-07-03, 19:21:33](https://news.ycombinator.com/item?id=48778901) - [How to Enjoy John Ashbery](https://joshuacorey.substack.com/p/how-to-enjoy-john-ashbery)
 * [2026-07-03, 19:08:31](https://news.ycombinator.com/item?id=48778757) - [FreeBSD Ate My RAM](https://crocidb.com/post/freebsd-ate-my-ram/)

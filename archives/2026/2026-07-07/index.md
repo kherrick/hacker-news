@@ -45,6 +45,7 @@
 * [2026-07-07, 14:41:56](https://news.ycombinator.com/item?id=48818544) - [The Revenge of the Philosophy Majors](https://www.nytimes.com/2026/07/05/business/philosophy-majors-ai-jobs.html)
 * [2026-07-07, 14:23:15](https://news.ycombinator.com/item?id=48818311) - [Chat Control 1.0 and 2.0 Explained](https://fightchatcontrol.eu/chat-control-overview)
 * [2026-07-07, 14:19:34](https://news.ycombinator.com/item?id=48818271) - [Sodium-ion \"salt\" batteries will revolutionize electric-vehicle and grid storage](https://www.newscientist.com/article/2532997-salt-batteries-are-about-to-shake-up-evs-and-grid-storage/)
+* [2026-07-07, 14:14:36](https://news.ycombinator.com/item?id=48818192) - [Distributed System Is Slower Than a Laptop](https://codegood.co/writing/your-distributed-system-is-slower-than-a-laptop)
 * [2026-07-07, 14:08:58](https://news.ycombinator.com/item?id=48818124) - [Show HN: Shellular – run Claude Code, Codex, Pi from your phone](https://shellular.dev/)
 * [2026-07-07, 14:07:08](https://news.ycombinator.com/item?id=48818098) - [Show HN: Halo – open-source, tamper-evident runtime evidence for AI agents](https://github.com/bkuan001/halo-record)
 * [2026-07-07, 13:03:31](https://news.ycombinator.com/item?id=48817191) - [Mark Zuckerberg's biggest legal nightmare yet could cost Meta $1.4T](https://www.the-independent.com/tech/mark-zuckerberg-meta-fine-trillion-b3010281.html)

@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-07-09](index.md)
 
+* [2026-07-09, 21:09:05](https://news.ycombinator.com/item?id=48852403) - [Rubiks Cube Solver](https://speedcube.com.br/)
 * [2026-07-09, 20:47:09](https://news.ycombinator.com/item?id=48852151) - [How GitHub gave every repository a durable owner](https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/)
+* [2026-07-09, 20:46:38](https://news.ycombinator.com/item?id=48852144) - [Show HN: RandoFont – A browser for Google Fonts](https://randofont.alesh.com)
 * [2026-07-09, 18:29:41](https://news.ycombinator.com/item?id=48850414) - [GLM 5.2 is nearly as accurate as a human book keeper](https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark)
 * [2026-07-09, 18:27:06](https://news.ycombinator.com/item?id=48850372) - [How to Start a Ruby Meetup](https://guides.rubyevents.org/meetups/)
 * [2026-07-09, 17:38:18](https://news.ycombinator.com/item?id=48849648) - [Show HN: Pylon Sync, an agent-first full-stack realtime framework](https://www.pylonsync.com)
