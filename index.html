@@ -141,11 +141,11 @@
             <h4>
               <span>2026-07-09 @ 18:29:41</span
               ><span class="points-container"
-                >Points: <span class="points">93</span></span
+                >Points: <span class="points">122</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48850414"
                   >Comments</a
-                ><span class="descendants">: 45</span></span
+                ><span class="descendants">: 73</span></span
               >
             </h4>
           </section>
@@ -160,11 +160,11 @@
             <h4>
               <span>2026-07-09 @ 18:27:06</span
               ><span class="points-container"
-                >Points: <span class="points">30</span></span
+                >Points: <span class="points">36</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48850372"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -179,7 +179,7 @@
             <h4>
               <span>2026-07-09 @ 17:15:47</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">33</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48849258"
                   >Comments</a
@@ -196,11 +196,11 @@
             <h4>
               <span>2026-07-09 @ 17:04:14</span
               ><span class="points-container"
-                >Points: <span class="points">690</span></span
+                >Points: <span class="points">750</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48849066"
                   >Comments</a
-                ><span class="descendants">: 485</span></span
+                ><span class="descendants">: 552</span></span
               >
             </h4>
             <div class="text">
@@ -211,6 +211,14 @@
                 <a
                   href="https://developers.openai.com/api/docs/guides/latest-model"
                   >https://developers.openai.com/api/docs/guides/latest-model</a
+                >
+              </p>
+              <p>
+                <a href="https://x.com/levie/status/2075287443411222628"
+                  >https://x.com/levie/status/2075287443411222628</a
+                >,
+                <a href="https://xcancel.com/levie/status/2075287443411222628"
+                  >https://xcancel.com/levie/status/2075287443411222628</a
                 >
               </p>
             </div>
@@ -228,11 +236,11 @@
             <h4>
               <span>2026-07-09 @ 17:03:53</span
               ><span class="points-container"
-                >Points: <span class="points">255</span></span
+                >Points: <span class="points">271</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48849059"
                   >Comments</a
-                ><span class="descendants">: 107</span></span
+                ><span class="descendants">: 121</span></span
               >
             </h4>
           </section>
@@ -254,128 +262,6 @@
             </h4>
           </section>
         </section>
-        <section id="48848819">
-          <h3>
-            <a class="item" href="https://devthropology.com/demo"
-              >Show HN: Devthropology – Better Insights for GitHub Repos</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-09 @ 16:47:53</span
-              ><span class="points-container"
-                >Points: <span class="points">26</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48848819"
-                  >Comments</a
-                ><span class="descendants">: 6</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                I think of this as an improved GitHub Insights page, with faster
-                performance, more detail, and a focus on how work moves through
-                a codebase. The main entity is a contributor, which has two
-                sides: authoring PRs and reviewing/giving feedback to others.
-                From there, you can see repository wide stats, user
-                interactions, contribution trends, file health, and
-                collaboration patterns. Some insights are useful for
-                understanding velocity and code health in the AI era.
-              </p>
-              <p>Details for each page:</p>
-              <p>
-                - Homepage: A high level summary of the repository. Showing age,
-                file types, active contributors, new and churned users. I track
-                the author age at merge, so you can see the tenure of people
-                shipping changes over time.
-              </p>
-              <p>
-                - File explorer: One of my favorite parts. I build a graph of
-                files, tracking renames and moves, to build a complete history.
-                Rolling up, every file and folder is assigned an outlook such as
-                active, developed, stale, touched by people who are likely gone.
-                You can easily see contributor timelines, recent changes, and
-                for some files, their rename/move history and related files that
-                often change together (useful for a coding agent).
-              </p>
-              <p>
-                - Trends: The densest page, showcasing the velocity of
-                contributions and trying to understand if AI is helping ship
-                more. Charts are cut by year for comparisons, tracking PR size,
-                output, rounds of review, and approval latency by different
-                percentiles. PRs are further cut into bucketed sizes to help
-                drill in deeper. Helps to show that smaller PRs are likely still
-                faster to ship while very large PRs (product of AI?) are slowing
-                down.
-              </p>
-              <p>
-                - Relationships: A graph of interactions between contributors,
-                weighted by PR activity, with a simple algorithm. Communities
-                are grouped with links showing one way vs bidirectional. You can
-                adjust time or raise the score to filter out noise. Clicking on
-                contributors shows the scores of interactions and if they mostly
-                give or receive feedback.
-              </p>
-              <p>
-                - Contributors: Search all contributors, showing a few lifetime
-                metrics. Clicking in shows an overview of their profile with
-                some high level details. A few author/reviewer specific stats
-                are shown across four time frames with their rank, each row is
-                clickable. Below that is recent author/reviewer PR activity,
-                including rounds, comments, and review timing.
-              </p>
-              <p>
-                - Author/Reviewer reports: A handful of metrics showing
-                performance of a contributor from both sides of a PR, one as an
-                author and one as a reviewer. Cells are color coded and bucketed
-                into tiers to easily see where someone sits in the repository.
-                Can be filtered by user, team, or time.
-              </p>
-              <p>Couple of key terms and limitations:</p>
-              <p>
-                - Contributor is any account that has authored or commented on a
-                PR that’s been merged. This can include bots - Round of review /
-                “round” occurs when a nonauthor leaves comments and the author
-                pushes more commits; tries to simulate a back and forth. -
-                “Effective" approval is the approval that actually matters for
-                merging, i.e. the first approval after the last round of review.
-                Example: A opens a PR, B approves, C then requests changes and A
-                pushes more commits, C approves, C's approval is the effective
-                one (B's is stale). - Trends/Reports can be filtered by team but
-                unfortunately without a private API key, I cannot sync teams.
-                For a few repos I have created a few small teams
-              </p>
-              <p>
-                Please take a look, there's a lot of buttons, dropdowns, and
-                clickable links. The demo repos were selected because they are
-                private companies building in the open, with patterns similar to
-                private repos: smaller contributor sets and more activity per
-                contributor.
-              </p>
-              <p>Appreciate any feedback below or at hey@devthropology.com</p>
-            </div>
-          </section>
-        </section>
-        <section id="48848111">
-          <h3>
-            <a class="item" href="https://elifesciences.org/articles/107088"
-              >Auditory and spontaneous movement responses to music over first
-              postnatal year</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-09 @ 16:00:58</span
-              ><span class="points-container"
-                >Points: <span class="points">18</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48848111"
-                  >Comments</a
-                ><span class="descendants">: 2</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="48847562">
           <h3>
             <a class="item" href="https://www.context.dev"
@@ -387,7 +273,7 @@
             <h4>
               <span>2026-07-09 @ 15:28:39</span
               ><span class="points-container"
-                >Points: <span class="points">53</span></span
+                >Points: <span class="points">54</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48847562"
                   >Comments</a
@@ -517,13 +403,115 @@
             <h4>
               <span>2026-07-09 @ 15:27:48</span
               ><span class="points-container"
-                >Points: <span class="points">241</span></span
+                >Points: <span class="points">266</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48847552"
                   >Comments</a
                 ><span class="descendants">: 63</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="48847526">
+          <h3>
+            <a class="item" href="https://kastra.ai/"
+              >Show HN: Policy enforcement for Claude Code, Cursor, and Codex</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-09 @ 15:26:24</span
+              ><span class="points-container"
+                >Points: <span class="points">4</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48847526"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Hi HN, Fernando and I built Kastra. Kastra intercepts AI agent
+                tool calls and evaluates them against deterministic policies
+                before they execute. This is aimed at developers using coding
+                agents like Claude Code, Codex, Cursor, and OpenClaw.
+              </p>
+              <p>
+                We built Kastra after one of our Cursor agents almost executed
+                DELETE FROM customers WHERE status='test' against a production
+                database. We caught it before it ran, but it made us realize
+                that nothing in our stack actually decided what the agent was
+                allowed to do. What mattered for us wasn't the mistake; it was
+                realizing nothing in our setup would have stopped it if we
+                weren't actively on top of it. LLMs are probabilistic, and
+                prompts influence behavior, but they don't deterministically
+                decide what an agent is allowed to do. Without a deterministic
+                policy system, nothing could have decided what it was allowed to
+                do.
+              </p>
+              <p>
+                Kastra pushes an allow, hold, and deny decision before the
+                action runs. You can build these policies in plain English from
+                the web app. The interception engine evaluates the tools,
+                targets, and parameters of every action. We also shipped many
+                policy packs covering common high-risk scenarios, and every
+                decision is recorded in an immutable audit trail. The desktop
+                app, CLI, dashboard, and Recon scan are free to use for
+                developers.
+              </p>
+              <p>
+                If you often use Claude, Codex, Openclaw, and Cursor, Kastra can
+                run a scan command on which risky actions your agents have
+                already taken and automatically build rules to avoid them from
+                happening again. Recon is a feature of Kastra that scans your
+                local agent history. In order to run this scan, execute the
+                commands below in your coding agent.
+              </p>
+              <p>brew install kastra-labs/tap/kastra-edge</p>
+              <p>kastra-edge scan</p>
+              <p>
+                The scan reads your local agent session history, and it shows
+                all the risky actions your agent has already taken before, the
+                secrets written to tracked files, production databases touched,
+                force pushes, curl-to-shell, and more. This runs on your
+                machine, and secrets never leave. In our own use cases, we kept
+                finding things we'd forgotten or didnt know agents had done.
+              </p>
+              <p>
+                Each finding can be converted into a runtime policy, letting you
+                delegate more work to AI without trusting the model itself.
+                Kastra intercepts all workloads at runtime and makes sure these
+                policy evaluations typically complete in under a millisecond.
+                Instead of trusting the model, you trust the deterministic rules
+                that govern its actions.
+              </p>
+              <p>
+                One problem we are still working on to improve the stack is how
+                to manage teams of agents with conflicting policies. We would
+                love feedback from anyone building multi-agent systems. Fernando
+                and I will be reviewing the comments. We are super curious what
+                your first scan finds. Please post results below so we can see
+                what the most common patterns are and adjust policy packs for
+                our users based on your feedback.
+              </p>
+              <p>
+                Documentation:
+                <a href="https://kastra.ai/docs">https://kastra.ai/docs</a>
+              </p>
+              <p>
+                Download for MacOS Kastra Edge:
+                <a href="https://kastra.ai/edge/download.html"
+                  >https://kastra.ai/edge/download.html</a
+                >
+              </p>
+              <p>
+                Check Kastra in action today:
+                <a
+                  href="https://www.youtube.com/watch?v=6TUETu5lb3Q&amp;feature=youtu.be"
+                  >https://www.youtube.com/watch?v=6TUETu5lb3Q&amp;feature=youtu.be</a
+                >
+              </p>
+            </div>
           </section>
         </section>
         <section id="48847511">
@@ -538,7 +526,7 @@
             <h4>
               <span>2026-07-09 @ 15:25:25</span
               ><span class="points-container"
-                >Points: <span class="points">146</span></span
+                >Points: <span class="points">159</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48847511"
                   >Comments</a
@@ -557,32 +545,11 @@
             <h4>
               <span>2026-07-09 @ 15:19:33</span
               ><span class="points-container"
-                >Points: <span class="points">73</span></span
+                >Points: <span class="points">78</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48847407"
                   >Comments</a
                 ><span class="descendants">: 47</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48847181">
-          <h3>
-            <a
-              class="item"
-              href="https://www.ben-evans.com/benedictevans/2026/7/9/ways-to-think-about-token-pricing"
-              >Ways to think about token pricing</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-09 @ 15:06:52</span
-              ><span class="points-container"
-                >Points: <span class="points">29</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48847181"
-                  >Comments</a
-                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -599,11 +566,33 @@
             <h4>
               <span>2026-07-09 @ 14:57:02</span
               ><span class="points-container"
-                >Points: <span class="points">95</span></span
+                >Points: <span class="points">101</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48846995"
                   >Comments</a
-                ><span class="descendants">: 66</span></span
+                ><span class="descendants">: 67</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48846842">
+          <h3>
+            <a
+              class="item"
+              href="https://blog.mozilla.ai/the-control-layer-why-the-next-era-of-ai-is-about-infrastructure-not-just-models/"
+              >Why the Next Era of AI Is About Infrastructure, Not Just
+              Models</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-09 @ 14:50:01</span
+              ><span class="points-container"
+                >Points: <span class="points">18</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48846842"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -618,11 +607,11 @@
             <h4>
               <span>2026-07-09 @ 14:30:54</span
               ><span class="points-container"
-                >Points: <span class="points">73</span></span
+                >Points: <span class="points">78</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48846510"
                   >Comments</a
-                ><span class="descendants">: 67</span></span
+                ><span class="descendants">: 68</span></span
               >
             </h4>
           </section>
@@ -639,11 +628,11 @@
             <h4>
               <span>2026-07-09 @ 14:20:14</span
               ><span class="points-container"
-                >Points: <span class="points">47</span></span
+                >Points: <span class="points">53</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48846332"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -660,11 +649,11 @@
             <h4>
               <span>2026-07-09 @ 14:16:34</span
               ><span class="points-container"
-                >Points: <span class="points">179</span></span
+                >Points: <span class="points">184</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48846281"
                   >Comments</a
-                ><span class="descendants">: 143</span></span
+                ><span class="descendants">: 153</span></span
               >
             </h4>
           </section>
@@ -681,11 +670,11 @@
             <h4>
               <span>2026-07-09 @ 14:10:22</span
               ><span class="points-container"
-                >Points: <span class="points">255</span></span
+                >Points: <span class="points">267</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48846184"
                   >Comments</a
-                ><span class="descendants">: 147</span></span
+                ><span class="descendants">: 153</span></span
               >
             </h4>
             <div class="text">
@@ -723,11 +712,11 @@
             <h4>
               <span>2026-07-09 @ 13:24:43</span
               ><span class="points-container"
-                >Points: <span class="points">207</span></span
+                >Points: <span class="points">222</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48845442"
                   >Comments</a
-                ><span class="descendants">: 263</span></span
+                ><span class="descendants">: 284</span></span
               >
             </h4>
           </section>
@@ -740,11 +729,11 @@
             <h4>
               <span>2026-07-09 @ 12:48:52</span
               ><span class="points-container"
-                >Points: <span class="points">672</span></span
+                >Points: <span class="points">698</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48845049"
                   >Comments</a
-                ><span class="descendants">: 251</span></span
+                ><span class="descendants">: 257</span></span
               >
             </h4>
           </section>
@@ -761,11 +750,11 @@
             <h4>
               <span>2026-07-09 @ 11:03:54</span
               ><span class="points-container"
-                >Points: <span class="points">720</span></span
+                >Points: <span class="points">764</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48843923"
                   >Comments</a
-                ><span class="descendants">: 366</span></span
+                ><span class="descendants">: 380</span></span
               >
             </h4>
           </section>
@@ -782,11 +771,11 @@
             <h4>
               <span>2026-07-09 @ 05:46:50</span
               ><span class="points-container"
-                >Points: <span class="points">82</span></span
+                >Points: <span class="points">90</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48841446"
                   >Comments</a
-                ><span class="descendants">: 89</span></span
+                ><span class="descendants">: 101</span></span
               >
             </h4>
           </section>
@@ -803,11 +792,11 @@
             <h4>
               <span>2026-07-09 @ 05:14:45</span
               ><span class="points-container"
-                >Points: <span class="points">276</span></span
+                >Points: <span class="points">282</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48841259"
                   >Comments</a
-                ><span class="descendants">: 125</span></span
+                ><span class="descendants">: 133</span></span
               >
             </h4>
           </section>
@@ -824,11 +813,11 @@
             <h4>
               <span>2026-07-09 @ 03:26:02</span
               ><span class="points-container"
-                >Points: <span class="points">52</span></span
+                >Points: <span class="points">54</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48840620"
                   >Comments</a
-                ><span class="descendants">: 114</span></span
+                ><span class="descendants">: 121</span></span
               >
             </h4>
           </section>
@@ -844,11 +833,11 @@
             <h4>
               <span>2026-07-09 @ 02:23:24</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">43</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48840207"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
             <div class="text">
@@ -901,6 +890,79 @@
             </div>
           </section>
         </section>
+        <section id="48832797">
+          <h3>
+            <a class="item" href="https://abralo.com/"
+              >Show HN: Abralo – Free, easy way to run several Claude Code
+              agents in one window</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-08 @ 14:54:59</span
+              ><span class="points-container"
+                >Points: <span class="points">17</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48832797"
+                  >Comments</a
+                ><span class="descendants">: 7</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                I've been using Claude Code for almost everything lately. Have
+                given one an email account so it can research business leads,
+                draft emails, fact-check them and clear them with me before
+                sending (works really well by the way). I also tend to have a
+                few Claude Code agents running at any one time for coding.
+              </p>
+              <p>
+                I used to create a split terminal to manage them from there, but
+                found working in the terminal all day pretty depressing and,
+                more importantly, found it hard to follow Claude Code's process
+                and see which agents needed my immediate attention.
+              </p>
+              <p>
+                I tried Anthropic's VS Code Claude Code extension and it had a
+                great UI (more info on Claude Code's process and easier to
+                read), but it crashed my PC when I ran more than 3 and I
+                couldn't watch multiple agents in parallel (had to constantly
+                switch between them).
+              </p>
+              <p>
+                So I built a lightweight Tauri desktop app which lets you run
+                multiple Claude Code agents in one window alongside each other.
+                It's easier to read the output and see which agents need your
+                attention than a terminal.
+              </p>
+              <p>
+                Have been using this all day everyday instead of an IDE and have
+                obsessed over every detail to make sure it's easy-to-use, but
+                also lightweight and fast (so you can manage multiple agents
+                without your PC crashing).
+              </p>
+              <p>
+                There are some nice features like better usage alerts for when
+                you're going to hit your 5-hour and weekly limits (with
+                sparklines to show when usage peaked, and which agents are the
+                most token-intensive).
+              </p>
+              <p>
+                It's free to use (you just need to log in with your existing
+                Claude Code account) for up to 4 agents simultaneously. This app
+                doesn't store your Claude Code account details and doesn't store
+                any of your interactions with Claude Code. They remain between
+                you and Anthropic. It's compatible with Windows, MacOS and
+                64-bit Linux.
+              </p>
+              <p>
+                Would really appreciate any feedback, so if you have any
+                thoughts, issues or suggestions please let me know.
+              </p>
+              <p>Thanks, Chris</p>
+            </div>
+          </section>
+        </section>
         <section id="48809574">
           <h3>
             <a class="item" href="https://nahla.dev/blog/waitfree_queue/"
@@ -911,11 +973,11 @@
             <h4>
               <span>2026-07-06 @ 19:46:30</span
               ><span class="points-container"
-                >Points: <span class="points">83</span></span
+                >Points: <span class="points">88</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48809574"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -933,32 +995,11 @@
             <h4>
               <span>2026-07-06 @ 10:53:51</span
               ><span class="points-container"
-                >Points: <span class="points">116</span></span
+                >Points: <span class="points">148</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48803004"
                   >Comments</a
-                ><span class="descendants">: 78</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48800486">
-          <h3>
-            <a
-              class="item"
-              href="https://drummate.app/blog/how-to-follow-a-drummer"
-              >How to Follow a Drummer</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-06 @ 04:00:40</span
-              ><span class="points-container"
-                >Points: <span class="points">15</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48800486"
-                  >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 105</span></span
               >
             </h4>
           </section>
@@ -976,11 +1017,33 @@
             <h4>
               <span>2026-07-06 @ 02:13:35</span
               ><span class="points-container"
-                >Points: <span class="points">53</span></span
+                >Points: <span class="points">57</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48799966"
                   >Comments</a
-                ><span class="descendants">: 79</span></span
+                ><span class="descendants">: 83</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48792383">
+          <h3>
+            <a
+              class="item"
+              href="https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429"
+              >Train SIM Created by Just One Person Is Being Called the Best
+              Ever Made</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-05 @ 08:40:27</span
+              ><span class="points-container"
+                >Points: <span class="points">78</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48792383"
+                  >Comments</a
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
@@ -997,11 +1060,11 @@
             <h4>
               <span>2026-07-03 @ 19:27:05</span
               ><span class="points-container"
-                >Points: <span class="points">261</span></span
+                >Points: <span class="points">269</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48778956"
                   >Comments</a
-                ><span class="descendants">: 176</span></span
+                ><span class="descendants">: 185</span></span
               >
             </h4>
           </section>
