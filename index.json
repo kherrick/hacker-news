@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-09, 00:32:33",
+      "https://news.ycombinator.com/item?id=48839397"
+    ],
+    [
+      "Remote Attestation",
+      "https://www.liamcvw.com/p/remote-attestation"
+    ]
+  ],
+  [
+    [
+      "2026-07-09, 00:27:57",
+      "https://news.ycombinator.com/item?id=48839355"
+    ],
+    [
+      "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
+      "https://mira-wm.com/"
+    ]
+  ],
+  [
+    [
       "2026-07-08, 23:37:43",
       "https://news.ycombinator.com/item?id=48838876"
     ],
@@ -11,12 +31,12 @@
   ],
   [
     [
-      "2026-07-08, 23:11:28",
-      "https://news.ycombinator.com/item?id=48838611"
+      "2026-07-08, 23:27:14",
+      "https://news.ycombinator.com/item?id=48838772"
     ],
     [
-      "Suspecting AI cheating, Ivy League prof ordered in-person final; scores fell 50%",
-      "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/"
+      "We made Grok 4.5, GPT-5.5, and Claude build the same apps",
+      "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off"
     ]
   ],
   [
@@ -61,32 +81,12 @@
   ],
   [
     [
-      "2026-07-08, 20:09:03",
-      "https://news.ycombinator.com/item?id=48836813"
-    ],
-    [
-      "Show HN: Onboard-CLI, a LLM powered and AST-based tool to visualize codebase",
-      "https://github.com/animesh-94/Onboard-CLI"
-    ]
-  ],
-  [
-    [
       "2026-07-08, 20:05:42",
       "https://news.ycombinator.com/item?id=48836778"
     ],
     [
       "FAANG Simulator",
       "https://www.abeyk.com/escape-the-rat-race/"
-    ]
-  ],
-  [
-    [
-      "2026-07-08, 19:35:07",
-      "https://news.ycombinator.com/item?id=48836431"
-    ],
-    [
-      "Almost Always Unsigned",
-      "https://graphitemaster.github.io/aau/"
     ]
   ],
   [
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2026-07-08, 09:44:20",
+      "https://news.ycombinator.com/item?id=48829797"
+    ],
+    [
+      "Unicode's transliteration rules are Turing-complete",
+      "https://seriot.ch/computation/uts35/"
+    ]
+  ],
+  [
+    [
       "2026-07-08, 08:46:06",
       "https://news.ycombinator.com/item?id=48829312"
     ],
@@ -241,12 +251,12 @@
   ],
   [
     [
-      "2026-07-06, 20:08:33",
-      "https://news.ycombinator.com/item?id=48809808"
+      "2026-07-07, 12:20:54",
+      "https://news.ycombinator.com/item?id=48816724"
     ],
     [
-      "Poison, redzones and shadows: inside KASAN",
-      "https://bootlin.com/blog/poison-redzones-and-shadows-inside-kasan/"
+      "Show HN: Frugon – Find which LLM calls a cheaper model could handle (local, MIT)",
+      "https://github.com/Rodiun/frugon"
     ]
   ],
   [
@@ -271,16 +281,6 @@
   ],
   [
     [
-      "2026-07-05, 19:55:58",
-      "https://news.ycombinator.com/item?id=48797443"
-    ],
-    [
-      "Understanding B-Tree Indexes in PostgreSQL: A Comprehensive Guide– Part 1",
-      "https://medium.com/@devli0/b-tree-indexes-in-postgresql-part-1-theory-eb2668c52520"
-    ]
-  ],
-  [
-    [
       "2026-07-05, 14:30:44",
       "https://news.ycombinator.com/item?id=48794568"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-07-03, 21:46:07",
-      "https://news.ycombinator.com/item?id=48780387"
+      "2026-07-02, 12:15:08",
+      "https://news.ycombinator.com/item?id=48760258"
     ],
     [
-      "EVE Online's Carbon engine is now open source: Fenris Creations explains why",
-      "https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why"
+      "Beyond Git: Real-Time Version Control for Godot – Lilith Duncan – GodotCon 2026 [video]",
+      "https://www.youtube.com/watch?v=CAJ_iIedx_I"
     ]
   ]
 ]
