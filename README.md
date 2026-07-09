@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-07-09, 22:15:56](https://news.ycombinator.com/item?id=48853091) - [Why American ambulance rides are so expensive](https://davidoks.blog/p/why-american-ambulance-rides-are)
 * [2026-07-09, 21:09:05](https://news.ycombinator.com/item?id=48852403) - [Show HN: Rubiks Cube Solver](https://speedcube.com.br/)
 * [2026-07-09, 18:29:41](https://news.ycombinator.com/item?id=48850414) - [GLM 5.2 is nearly as accurate as a human book keeper](https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark)
 * [2026-07-09, 18:27:06](https://news.ycombinator.com/item?id=48850372) - [How to Start a Ruby Meetup](https://guides.rubyevents.org/meetups/)
@@ -30,6 +29,7 @@
 * [2026-07-06, 05:26:22](https://news.ycombinator.com/item?id=48800930) - [Patterncollider: Generate and explore quasiperiodic tiling patterns](https://github.com/aatishb/patterncollider)
 * [2026-07-05, 08:40:27](https://news.ycombinator.com/item?id=48792383) - [Train sim created by just one person is being called the best ever made](https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429)
 * [2026-07-03, 19:27:05](https://news.ycombinator.com/item?id=48778956) - [Meta reuses old RAM in new servers with custom bridge chip](https://www.theregister.com/systems/2026/06/29/zuck-saves-meta-bucks-by-reusing-memory-from-old-servers-with-a-custom-cxl-asic/5263483)
+* [2026-07-02, 06:21:49](https://news.ycombinator.com/item?id=48757291) - [My Story of 3D Realms / Apogee Part I (2020)](https://joesiegler.blog/2020/11/my-story-of-apogee-3dr/)
 
 ## [Archives](archives/index.md)
 
