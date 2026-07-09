@@ -2,7 +2,6 @@
 
 * [2026-07-09, 08:22:52](https://news.ycombinator.com/item?id=48842611) - [Why developers are ditching GitHub for Codeberg and self-hosting alternatives](https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/)
 * [2026-07-09, 07:00:43](https://news.ycombinator.com/item?id=48841963) - [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/P646Yw6-founding-account-executive)
-* [2026-07-09, 06:18:19](https://news.ycombinator.com/item?id=48841676) - [Postgres rewritten in Rust, now passing 100% of the Postgres regression tests](https://github.com/malisper/pgrust)
 * [2026-07-09, 05:34:44](https://news.ycombinator.com/item?id=48841385) - [How Donkey Kong Toppled Atari](https://dfarq.homeip.net/how-donkey-kong-toppled-atari/)
 * [2026-07-09, 05:14:45](https://news.ycombinator.com/item?id=48841259) - [Spider venom kills varroa mites without harming honeybees](https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming)
 * [2026-07-09, 00:32:33](https://news.ycombinator.com/item?id=48839397) - [Remote Attestation](https://www.liamcvw.com/p/remote-attestation)
@@ -15,7 +14,6 @@
 * [2026-07-08, 20:05:42](https://news.ycombinator.com/item?id=48836778) - [FAANG Simulator](https://www.abeyk.com/escape-the-rat-race/)
 * [2026-07-08, 19:26:18](https://news.ycombinator.com/item?id=48836324) - [New Sweden: the US's long-lost 'secret' colony](https://www.bbc.com/travel/article/20260629-new-sweden-the-uss-long-lost-secret-colony)
 * [2026-07-08, 19:18:26](https://news.ycombinator.com/item?id=48836233) - [Cloudflare Drop](https://www.cloudflare.com/drop/)
-* [2026-07-08, 18:21:53](https://news.ycombinator.com/item?id=48835439) - [OpenMandriva: Statement regarding attempted distribution sabotage](https://forum.openmandriva.org/t/statement-regarding-attempted-distribution-sabotage/8997)
 * [2026-07-08, 18:00:32](https://news.ycombinator.com/item?id=48835111) - [Grok 4.5](https://x.ai/news/grok-4-5)
 * [2026-07-08, 17:46:12](https://news.ycombinator.com/item?id=48834924) - [Show HN: Microsoft releases Flint, a visualization language for AI agents](https://microsoft.github.io/flint-chart/#/)
 * [2026-07-08, 17:03:19](https://news.ycombinator.com/item?id=48834405) - [GPT‑Live](https://openai.com/index/introducing-gpt-live/)
@@ -30,6 +28,8 @@
 * [2026-07-05, 16:39:40](https://news.ycombinator.com/item?id=48795591) - [Patching MechCommander's \"left arm bug\" for fun and profit](https://mhloppy.com/2026/05/mechcommander-weapons-left-arm-bug-fix/)
 * [2026-07-04, 21:53:09](https://news.ycombinator.com/item?id=48789445) - [3D Airplane tracker on Mercator map](https://github.com/jamalrfordii-arch/Vanguard-Map)
 * [2026-07-04, 09:41:30](https://news.ycombinator.com/item?id=48784126) - [In-browser programmable robot simulator](https://bittlex-sim.petoi.com/)
+* [2026-07-03, 19:27:05](https://news.ycombinator.com/item?id=48778956) - [Meta reuses old RAM in new servers with custom bridge chip](https://www.networkworld.com/article/4192827/meta-reuses-old-ram-in-new-servers-with-custom-bridge-chip.html)
+* [2026-07-02, 08:02:50](https://news.ycombinator.com/item?id=48758059) - [The Field Equation, living shader geometry folded into a breathing object](https://sand-morph.up.railway.app/the-field-equation)
 
 ## [Archives](archives/index.md)
 
