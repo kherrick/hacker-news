@@ -129,6 +129,174 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="48849066">
+          <h3>
+            <a class="item" href="https://openai.com/index/gpt-5-6/">GPT-5.6</a>
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-09 @ 17:04:14</span
+              ><span class="points-container"
+                >Points: <span class="points">384</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48849066"
+                  >Comments</a
+                ><span class="descendants">: 247</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://deploymentsafety.openai.com/gpt-5-6/gpt-5-6.pdf"
+                >https://deploymentsafety.openai.com/gpt-5-6/gpt-5-6.pdf</a
+              >
+              <p>
+                <a
+                  href="https://developers.openai.com/api/docs/guides/latest-model"
+                  >https://developers.openai.com/api/docs/guides/latest-model</a
+                >
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="48849059">
+          <h3>
+            <a
+              class="item"
+              href="https://openai.com/index/chatgpt-for-your-most-ambitious-work/"
+              >ChatGPT Work</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-09 @ 17:03:53</span
+              ><span class="points-container"
+                >Points: <span class="points">116</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48849059"
+                  >Comments</a
+                ><span class="descendants">: 33</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48849011">
+          <h3>
+            <a
+              class="item"
+              href="https://www.ycombinator.com/companies/wildcard/jobs/ZSLVaaU-founding-engineer"
+              >Wildcard (YC W25) Is Hiring a Founding Engineer</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-09 @ 17:00:37</span
+              ><span class="points-container"
+                >Points: <span class="points">1</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48848819">
+          <h3>
+            <a class="item" href="https://devthropology.com/demo"
+              >Show HN: Devthropology – Better Insights for GitHub Repos</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-09 @ 16:47:53</span
+              ><span class="points-container"
+                >Points: <span class="points">14</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48848819"
+                  >Comments</a
+                ><span class="descendants">: 6</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                I think of this as an improved GitHub Insights page, with faster
+                performance, more detail, and a focus on how work moves through
+                a codebase. The main entity is a contributor, which has two
+                sides: authoring PRs and reviewing/giving feedback to others.
+                From there, you can see repository wide stats, user
+                interactions, contribution trends, file health, and
+                collaboration patterns. Some insights are useful for
+                understanding velocity and code health in the AI era.
+              </p>
+              <p>Details for each page:</p>
+              <p>
+                - Homepage: A high level summary of the repository. Showing age,
+                file types, active contributors, new and churned users. I track
+                the author age at merge, so you can see the tenure of people
+                shipping changes over time.
+              </p>
+              <p>
+                - File explorer: One of my favorite parts. I build a graph of
+                files, tracking renames and moves, to build a complete history.
+                Rolling up, every file and folder is assigned an outlook such as
+                active, developed, stale, touched by people who are likely gone.
+                You can easily see contributor timelines, recent changes, and
+                for some files, their rename/move history and related files that
+                often change together (useful for a coding agent).
+              </p>
+              <p>
+                - Trends: The densest page, showcasing the velocity of
+                contributions and trying to understand if AI is helping ship
+                more. Charts are cut by year for comparisons, tracking PR size,
+                output, rounds of review, and approval latency by different
+                percentiles. PRs are further cut into bucketed sizes to help
+                drill in deeper. Helps to show that smaller PRs are likely still
+                faster to ship while very large PRs (product of AI?) are slowing
+                down.
+              </p>
+              <p>
+                - Relationships: A graph of interactions between contributors,
+                weighted by PR activity, with a simple algorithm. Communities
+                are grouped with links showing one way vs bidirectional. You can
+                adjust time or raise the score to filter out noise. Clicking on
+                contributors shows the scores of interactions and if they mostly
+                give or receive feedback.
+              </p>
+              <p>
+                - Contributors: Search all contributors, showing a few lifetime
+                metrics. Clicking in shows an overview of their profile with
+                some high level details. A few author/reviewer specific stats
+                are shown across four time frames with their rank, each row is
+                clickable. Below that is recent author/reviewer PR activity,
+                including rounds, comments, and review timing.
+              </p>
+              <p>
+                - Author/Reviewer reports: A handful of metrics showing
+                performance of a contributor from both sides of a PR, one as an
+                author and one as a reviewer. Cells are color coded and bucketed
+                into tiers to easily see where someone sits in the repository.
+                Can be filtered by user, team, or time.
+              </p>
+              <p>Couple of key terms and limitations:</p>
+              <p>
+                - Contributor is any account that has authored or commented on a
+                PR that’s been merged. This can include bots - Round of review /
+                “round” occurs when a nonauthor leaves comments and the author
+                pushes more commits; tries to simulate a back and forth. -
+                “Effective" approval is the approval that actually matters for
+                merging, i.e. the first approval after the last round of review.
+                Example: A opens a PR, B approves, C then requests changes and A
+                pushes more commits, C approves, C's approval is the effective
+                one (B's is stale). - Trends/Reports can be filtered by team but
+                unfortunately without a private API key, I cannot sync teams.
+                For a few repos I have created a few small teams
+              </p>
+              <p>
+                Please take a look, there's a lot of buttons, dropdowns, and
+                clickable links. The demo repos were selected because they are
+                private companies building in the open, with patterns similar to
+                private repos: smaller contributor sets and more activity per
+                contributor.
+              </p>
+              <p>Appreciate any feedback below or at hey@devthropology.com</p>
+            </div>
+          </section>
+        </section>
         <section id="48848111">
           <h3>
             <a class="item" href="https://elifesciences.org/articles/107088"
@@ -140,11 +308,11 @@
             <h4>
               <span>2026-07-09 @ 16:00:58</span
               ><span class="points-container"
-                >Points: <span class="points">7</span></span
+                >Points: <span class="points">10</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48848111"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -152,18 +320,18 @@
         <section id="48847940">
           <h3>
             <a class="item" href="https://www.pangram.com/blog/ai-in-your-feed"
-              >AI Content Is Everywhere on Social Media, Especially LinkedIn</a
+              >AI content is everywhere on social media, especially LinkedIn</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-07-09 @ 15:50:09</span
               ><span class="points-container"
-                >Points: <span class="points">98</span></span
+                >Points: <span class="points">111</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48847940"
                   >Comments</a
-                ><span class="descendants">: 70</span></span
+                ><span class="descendants">: 90</span></span
               >
             </h4>
           </section>
@@ -178,11 +346,11 @@
             <h4>
               <span>2026-07-09 @ 15:45:17</span
               ><span class="points-container"
-                >Points: <span class="points">12</span></span
+                >Points: <span class="points">16</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48847834"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
             <div class="text">
@@ -288,11 +456,11 @@
             <h4>
               <span>2026-07-09 @ 15:28:39</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">36</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48847562"
                   >Comments</a
-                ><span class="descendants">: 28</span></span
+                ><span class="descendants">: 31</span></span
               >
             </h4>
             <div class="text">
@@ -418,11 +586,11 @@
             <h4>
               <span>2026-07-09 @ 15:27:48</span
               ><span class="points-container"
-                >Points: <span class="points">110</span></span
+                >Points: <span class="points">147</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48847552"
                   >Comments</a
-                ><span class="descendants">: 36</span></span
+                ><span class="descendants">: 46</span></span
               >
             </h4>
           </section>
@@ -439,11 +607,11 @@
             <h4>
               <span>2026-07-09 @ 15:26:52</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">57</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48847536"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 25</span></span
               >
             </h4>
           </section>
@@ -460,11 +628,11 @@
             <h4>
               <span>2026-07-09 @ 15:25:25</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">90</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48847511"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -479,11 +647,11 @@
             <h4>
               <span>2026-07-09 @ 15:19:33</span
               ><span class="points-container"
-                >Points: <span class="points">46</span></span
+                >Points: <span class="points">51</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48847407"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 32</span></span
               >
             </h4>
           </section>
@@ -500,63 +668,13 @@
             <h4>
               <span>2026-07-09 @ 15:19:23</span
               ><span class="points-container"
-                >Points: <span class="points">11</span></span
+                >Points: <span class="points">14</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48847405"
                   >Comments</a
                 ><span class="descendants">: 1</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="48847298">
-          <h3>
-            <a class="item" href="https://www.lastshelf.ai/"
-              >Show HN: LastShelf – an emergency map of your family's documents
-              bills&amp;amp; contacts</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-09 @ 15:13:11</span
-              ><span class="points-container"
-                >Points: <span class="points">28</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48847298"
-                  >Comments</a
-                ><span class="descendants">: 17</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                In the middle of dealing with all the medical logistics, I
-                realized none of our family could answer if he: - Had a medical
-                directive? - How to trigger his life insurance policy? - Where
-                is his will and who is the executor? - What bank accounts and
-                credit cards existed? - What bills are not on auto-pay? - When
-                these bills due and how are they paid?
-              </p>
-              <p>
-                That wasn’t solved by password managers or budgeting apps. So I
-                built it.
-              </p>
-              <p>
-                LastShelf: automatically discovers, documents and distributes a
-                map of critical life documents, expenses &amp; contacts in the
-                event of an emergency. Register here:
-                <a href="https://www.lastshelf.ai/"
-                  >https://www.lastshelf.ai/</a
-                >
-              </p>
-              <p>
-                If you’ve lived through a similar crisis, I really want to hear
-                what would have made the process easier.
-              </p>
-              <p>
-                Anyone who shares their feedback with me will get the first year
-                free. Send a note to support [at] lastshelf.ai
-              </p>
-            </div>
           </section>
         </section>
         <section id="48846995">
@@ -571,11 +689,11 @@
             <h4>
               <span>2026-07-09 @ 14:57:02</span
               ><span class="points-container"
-                >Points: <span class="points">56</span></span
+                >Points: <span class="points">70</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48846995"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 49</span></span
               >
             </h4>
           </section>
@@ -592,11 +710,30 @@
             <h4>
               <span>2026-07-09 @ 14:45:04</span
               ><span class="points-container"
-                >Points: <span class="points">26</span></span
+                >Points: <span class="points">41</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48846757"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 9</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48846510">
+          <h3>
+            <a class="item" href="https://analog.watch"
+              >Show HN: Analog Watch</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-09 @ 14:30:54</span
+              ><span class="points-container"
+                >Points: <span class="points">54</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48846510"
+                  >Comments</a
+                ><span class="descendants">: 54</span></span
               >
             </h4>
           </section>
@@ -613,30 +750,11 @@
             <h4>
               <span>2026-07-09 @ 14:20:14</span
               ><span class="points-container"
-                >Points: <span class="points">27</span></span
+                >Points: <span class="points">36</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48846332"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48846293">
-          <h3>
-            <a class="item" href="https://github.com/PostHog/posthog-foss"
-              >PostHog Open Sourced</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-09 @ 14:17:40</span
-              ><span class="points-container"
-                >Points: <span class="points">84</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48846293"
-                  >Comments</a
-                ><span class="descendants">: 62</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -653,11 +771,11 @@
             <h4>
               <span>2026-07-09 @ 14:16:34</span
               ><span class="points-container"
-                >Points: <span class="points">145</span></span
+                >Points: <span class="points">155</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48846281"
                   >Comments</a
-                ><span class="descendants">: 105</span></span
+                ><span class="descendants">: 113</span></span
               >
             </h4>
           </section>
@@ -672,30 +790,11 @@
             <h4>
               <span>2026-07-09 @ 14:16:17</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">38</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48846276"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48846205">
-          <h3>
-            <a class="item" href="https://helium.computer/blog/transparency"
-              >Transparency efforts behind the Helium Browser</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-09 @ 14:11:56</span
-              ><span class="points-container"
-                >Points: <span class="points">24</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48846205"
-                  >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -704,19 +803,19 @@
           <h3>
             <a
               class="item"
-              href="https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/?_fb_noscript=1"
-              >Introducing Muse Spark 1.1</a
+              href="https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/"
+              >Muse Spark 1.1</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-07-09 @ 14:10:22</span
               ><span class="points-container"
-                >Points: <span class="points">181</span></span
+                >Points: <span class="points">210</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48846184"
                   >Comments</a
-                ><span class="descendants">: 118</span></span
+                ><span class="descendants">: 124</span></span
               >
             </h4>
             <div class="text">
@@ -754,11 +853,11 @@
             <h4>
               <span>2026-07-09 @ 13:29:31</span
               ><span class="points-container"
-                >Points: <span class="points">179</span></span
+                >Points: <span class="points">191</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48845514"
                   >Comments</a
-                ><span class="descendants">: 233</span></span
+                ><span class="descendants">: 259</span></span
               >
             </h4>
           </section>
@@ -776,50 +875,11 @@
             <h4>
               <span>2026-07-09 @ 13:24:43</span
               ><span class="points-container"
-                >Points: <span class="points">120</span></span
+                >Points: <span class="points">152</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48845442"
                   >Comments</a
-                ><span class="descendants">: 132</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48845422">
-          <h3>
-            <a class="item" href="https://github.com/ronak-create/FableCut"
-              >Show HN: FableCut – A browser video editor AI agents can drive
-              (zero deps)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-09 @ 13:23:10</span
-              ><span class="points-container"
-                >Points: <span class="points">77</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48845422"
-                  >Comments</a
-                ><span class="descendants">: 46</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48845209">
-          <h3>
-            <a class="item" href="https://scotto.me/blog/2026-07-09-why-lisp/"
-              >A Road to Lisp: Why Lisp</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-09 @ 13:06:04</span
-              ><span class="points-container"
-                >Points: <span class="points">36</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48845209"
-                  >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 165</span></span
               >
             </h4>
           </section>
@@ -832,97 +892,13 @@
             <h4>
               <span>2026-07-09 @ 12:48:52</span
               ><span class="points-container"
-                >Points: <span class="points">540</span></span
+                >Points: <span class="points">584</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48845049"
                   >Comments</a
-                ><span class="descendants">: 217</span></span
+                ><span class="descendants">: 225</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="48844709">
-          <h3>
-            <a
-              class="item"
-              href="https://entire.io/blog/how-version-control-will-evolve-for-the-agent-boom"
-              >How version control will evolve for the agent boom</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-09 @ 12:20:41</span
-              ><span class="points-container"
-                >Points: <span class="points">38</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48844709"
-                  >Comments</a
-                ><span class="descendants">: 48</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48844517">
-          <h3>
-            <a class="item" href="https://news.ycombinator.com/item?id=48844517"
-              >TrueBiz (YC S22) – Senior Software Engineer – Remote (US) –
-              Full-Time</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-09 @ 12:01:17</span
-              ><span class="points-container"
-                >Points: <span class="points">1</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                Today, this process is still manual: underwriters spend 20–30
-                minutes Googling websites, reviews, and social profiles to make
-                a decision. We replace that with an API that analyzes thousands
-                of signals across the internet and returns a decision in ~30
-                seconds.
-              </p>
-              <p>
-                We’re already live with companies like Visa, Mercury, and
-                Lightspeed, and processing millions of requests as part of
-                critical payment and onboarding flows.
-              </p>
-              <p>
-                We’re a lean, high ownership team that built a profitable, fast
-                growing model that doesn't need more VC
-              </p>
-              <p>
-                We're hiring a Senior Engineer to help us scale the system and
-                expand the product.
-              </p>
-              <p>What you’ll work on:</p>
-              <p>
-                * Scaling high-throughput, low-latency systems (AWS ECS/Fargate,
-                RDS, async pipelines) * Designing systems that ingest and reason
-                over messy, real-world web data * Building product features
-                end-to-end (Python/Django + React) * Improving reliability,
-                observability, and performance for enterprise workloads *
-                Shaping how AI agents evaluate business risk (not just calling
-                APIs)
-              </p>
-              <p>What we’re looking for:</p>
-              <p>
-                * Strong backend experience (Python/Postgres) * Experience
-                running production systems on AWS * Comfortable owning systems
-                end-to-end (design → deploy → debug) * Pragmatic, high-ownership
-                builder
-              </p>
-              <p>Remote (US)</p>
-              <p>
-                More details / apply:
-                <a
-                  href="https://www.ycombinator.com/companies/truebiz/jobs/XkFCIG0-senior-software-engineer-core-team"
-                  >https://www.ycombinator.com/companies/truebiz/jobs/XkFCIG0-s...</a
-                >
-              </p>
-            </div>
           </section>
         </section>
         <section id="48843923">
@@ -937,11 +913,32 @@
             <h4>
               <span>2026-07-09 @ 11:03:54</span
               ><span class="points-container"
-                >Points: <span class="points">524</span></span
+                >Points: <span class="points">568</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48843923"
                   >Comments</a
-                ><span class="descendants">: 276</span></span
+                ><span class="descendants">: 299</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48841446">
+          <h3>
+            <a
+              class="item"
+              href="https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/"
+              >AI changes the economics of software rewrites</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-09 @ 05:46:50</span
+              ><span class="points-container"
+                >Points: <span class="points">62</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48841446"
+                  >Comments</a
+                ><span class="descendants">: 71</span></span
               >
             </h4>
           </section>
@@ -958,33 +955,51 @@
             <h4>
               <span>2026-07-09 @ 05:14:45</span
               ><span class="points-container"
-                >Points: <span class="points">244</span></span
+                >Points: <span class="points">252</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48841259"
                   >Comments</a
-                ><span class="descendants">: 107</span></span
+                ><span class="descendants">: 115</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="48838876">
+        <section id="48840620">
           <h3>
             <a
               class="item"
-              href="https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02"
-              >John Deere owners will get the right to repair equipment under
-              FTC settlement</a
+              href="https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid"
+              >What's slowing down the AI buildout</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-07-08 @ 23:37:43</span
+              <span>2026-07-09 @ 03:26:02</span
               ><span class="points-container"
-                >Points: <span class="points">1235</span></span
+                >Points: <span class="points">41</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48838876"
+                ><a href="https://news.ycombinator.com/item?id=48840620"
                   >Comments</a
-                ><span class="descendants">: 258</span></span
+                ><span class="descendants">: 83</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48809574">
+          <h3>
+            <a class="item" href="https://nahla.dev/blog/waitfree_queue/"
+              >Girls Just Wanna Have Fast MPMC Queues with Bounded Waiting</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-06 @ 19:46:30</span
+              ><span class="points-container"
+                >Points: <span class="points">42</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48809574"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -1002,11 +1017,11 @@
             <h4>
               <span>2026-07-06 @ 02:13:35</span
               ><span class="points-container"
-                >Points: <span class="points">28</span></span
+                >Points: <span class="points">39</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48799966"
                   >Comments</a
-                ><span class="descendants">: 41</span></span
+                ><span class="descendants">: 52</span></span
               >
             </h4>
           </section>
@@ -1023,11 +1038,11 @@
             <h4>
               <span>2026-07-03 @ 19:27:05</span
               ><span class="points-container"
-                >Points: <span class="points">230</span></span
+                >Points: <span class="points">237</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48778956"
                   >Comments</a
-                ><span class="descendants">: 152</span></span
+                ><span class="descendants">: 161</span></span
               >
             </h4>
           </section>
