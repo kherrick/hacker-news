@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-09, 08:22:52](https://news.ycombinator.com/item?id=48842611) - [Why developers are ditching GitHub for Codeberg and self-hosting alternatives](https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/)
 * [2026-07-09, 07:00:43](https://news.ycombinator.com/item?id=48841963) - [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/P646Yw6-founding-account-executive)
 * [2026-07-09, 06:18:19](https://news.ycombinator.com/item?id=48841676) - [Postgres rewritten in Rust, now passing 100% of the Postgres regression tests](https://github.com/malisper/pgrust)
 * [2026-07-09, 05:34:44](https://news.ycombinator.com/item?id=48841385) - [How Donkey Kong Toppled Atari](https://dfarq.homeip.net/how-donkey-kong-toppled-atari/)
@@ -20,7 +21,6 @@
 * [2026-07-08, 17:03:19](https://news.ycombinator.com/item?id=48834405) - [GPT‑Live](https://openai.com/index/introducing-gpt-live/)
 * [2026-07-08, 16:06:35](https://news.ycombinator.com/item?id=48833715) - [TypeScript 7](https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/)
 * [2026-07-08, 15:19:50](https://news.ycombinator.com/item?id=48833116) - [Chatto is now open source](https://www.hmans.dev/blog/chatto-is-open-source)
-* [2026-07-08, 13:20:05](https://news.ycombinator.com/item?id=48831587) - [A bug which affected only left handed users](https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/)
 * [2026-07-08, 09:44:20](https://news.ycombinator.com/item?id=48829797) - [Unicode's transliteration rules are Turing-complete](https://seriot.ch/computation/uts35/)
 * [2026-07-08, 08:46:06](https://news.ycombinator.com/item?id=48829312) - [Decoding the obfuscated bash script on a Uniqlo t-shirt](https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/)
 * [2026-07-07, 12:47:46](https://news.ycombinator.com/item?id=48816987) - [Show HN: Yamanote.fun – A complete soundscape for Tokyo's Yamanote line](https://www.yamanote.fun/)
@@ -29,7 +29,7 @@
 * [2026-07-06, 04:19:30](https://news.ycombinator.com/item?id=48800596) - [Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI](https://nexte.st/)
 * [2026-07-05, 16:39:40](https://news.ycombinator.com/item?id=48795591) - [Patching MechCommander's \"left arm bug\" for fun and profit](https://mhloppy.com/2026/05/mechcommander-weapons-left-arm-bug-fix/)
 * [2026-07-04, 21:53:09](https://news.ycombinator.com/item?id=48789445) - [3D Airplane tracker on Mercator map](https://github.com/jamalrfordii-arch/Vanguard-Map)
-* [2026-07-02, 12:15:08](https://news.ycombinator.com/item?id=48760258) - [Beyond Git: Real-Time Version Control for Godot – Lilith Duncan – GodotCon 2026 [video]](https://www.youtube.com/watch?v=CAJ_iIedx_I)
+* [2026-07-04, 09:41:30](https://news.ycombinator.com/item?id=48784126) - [In-browser programmable robot simulator](https://bittlex-sim.petoi.com/)
 
 ## [Archives](archives/index.md)
 

@@ -53,6 +53,7 @@
 * [2026-07-04, 12:46:17](https://news.ycombinator.com/item?id=48785026) - [Show HN: Foundation, a different approach to software and AI](https://github.com/nmxmxh/foundation)
 * [2026-07-04, 12:00:57](https://news.ycombinator.com/item?id=48784777) - [Explanation of everything you can see in htop/top on Linux](https://peteris.rocks/blog/htop/)
 * [2026-07-04, 11:39:01](https://news.ycombinator.com/item?id=48784662) - [The Reports of Jim Carrey's Death Are a Failure Mode](https://tane.dev/2026/07/the-reports-of-jim-carreys-death-are-a-failure-mode/)
+* [2026-07-04, 09:41:30](https://news.ycombinator.com/item?id=48784126) - [In-browser programmable robot simulator](https://bittlex-sim.petoi.com/)
 * [2026-07-04, 09:08:09](https://news.ycombinator.com/item?id=48783948) - [Astrophysicists Puzzle over Webb's New Universe](https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/)
 * [2026-07-04, 08:49:35](https://news.ycombinator.com/item?id=48783832) - [But Nothing Has Changed on Our Side](https://cacm.acm.org/blogcacm/but-nothing-has-changed-on-our-side/)
 * [2026-07-04, 07:53:12](https://news.ycombinator.com/item?id=48783512) - [Unearthing the Reality of \"Zombie Energy Systems\" in Africa's Energy Transition](https://www.catf.us/resource/unearthing-reality-zombie-energy-systems-africas-energy-transition/)
