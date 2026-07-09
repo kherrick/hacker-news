@@ -83,6 +83,7 @@
 * [2026-07-06, 10:49:29](https://news.ycombinator.com/item?id=48802971) - [How the U.S. Engineered Its Sovereignty](https://spectrum.ieee.org/us-engineered-sovereignty)
 * [2026-07-06, 10:37:58](https://news.ycombinator.com/item?id=48802885) - [X402, a static blog monetization excercise](https://shtein.me/posts/x402-poc/)
 * [2026-07-06, 10:28:32](https://news.ycombinator.com/item?id=48802818) - [Show HN: Paint the Earth on a live, interactive globe (collaborative art.)](https://earth.tattoo)
+* [2026-07-06, 10:02:08](https://news.ycombinator.com/item?id=48802660) - [Vacuum at the Page Level](https://boringsql.com/posts/vacuum-at-the-page-level/)
 * [2026-07-06, 09:38:36](https://news.ycombinator.com/item?id=48802535) - [Real-time map of Great Britain's rail network](https://www.map.signalbox.io)
 * [2026-07-06, 08:40:29](https://news.ycombinator.com/item?id=48802156) - [The Hitchhiker's Guide to Agentic AI](https://arxiv.org/abs/2606.24937)
 * [2026-07-06, 07:05:25](https://news.ycombinator.com/item?id=48801493) - [When AI Costs More Than the Engineer](https://tomtunguz.com/ai-spend-breakeven-2029/)

@@ -4,6 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-07-09](index.md)
 
+* [2026-07-09, 14:10:22](https://news.ycombinator.com/item?id=48846184) - [Introducing Muse Spark 1.1](https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/?_fb_noscript=1)
+* [2026-07-09, 13:29:31](https://news.ycombinator.com/item?id=48845514) - [US seeks cheaper hunter-killer drones after Iran destroys $1B worth of Reapers](https://arstechnica.com/gadgets/2026/07/us-seeks-cheaper-hunter-killer-drones-after-iran-destroys-1b-worth-of-reapers/)
+* [2026-07-09, 13:27:05](https://news.ycombinator.com/item?id=48845470) - [Syria's solar boom is redefining Middle East's energy model](https://www.thenationalnews.com/business/energy/2026/07/06/syrias-solar-boom-is-redefining-middle-easts-energy-model/)
+* [2026-07-09, 13:24:43](https://news.ycombinator.com/item?id=48845442) - [The Glass Backbone: Why the Army's Logistics Will Break in the Next War](https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/)
+* [2026-07-09, 13:24:35](https://news.ycombinator.com/item?id=48845440) - [MSG database tracked hundreds. Labels include \"LGBTQIA,\" and low to high \"risk.\"](https://www.wired.com/story/madison-square-garden-celebrity-database-surveillance/)
+* [2026-07-09, 13:23:10](https://news.ycombinator.com/item?id=48845422) - [Show HN: FableCut – A browser video editor AI agents can drive (zero deps)](https://github.com/ronak-create/FableCut)
+* [2026-07-09, 13:19:02](https://news.ycombinator.com/item?id=48845364) - [Files over tools: how we built our agent with a virtual filesystem and bash](https://knock.app/blog/how-we-built-the-knock-agent-virtual-filesystem-and-bash)
+* [2026-07-09, 13:10:18](https://news.ycombinator.com/item?id=48845269) - [Just Pay the Subscription](https://www.uncommonapps.nyc/p/just-pay-the-subscription)
 * [2026-07-09, 12:59:44](https://news.ycombinator.com/item?id=48845142) - [Show HN: Arcaide – Explore code with multi-level call graphs](https://arcaide.foo)
 * [2026-07-09, 12:48:52](https://news.ycombinator.com/item?id=48845049) - [Show HN: 18 Words](https://18words.com/)
 * [2026-07-09, 12:40:03](https://news.ycombinator.com/item?id=48844956) - [Show HN: 92% of US city websites fail ADA accessibility](https://accesslumens.com/research/state-of-us-local-government-accessibility-2026)
