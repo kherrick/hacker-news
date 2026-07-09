@@ -92,6 +92,7 @@
 * [2026-07-06, 07:05:25](https://news.ycombinator.com/item?id=48801493) - [When AI Costs More Than the Engineer](https://tomtunguz.com/ai-spend-breakeven-2029/)
 * [2026-07-06, 07:04:33](https://news.ycombinator.com/item?id=48801488) - [Generate parametric, manufacturable 3D models in seconds](https://kyrall.com/)
 * [2026-07-06, 06:42:21](https://news.ycombinator.com/item?id=48801364) - [Sometimes it is the network: a war story](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SometimesItIsTheNetwork)
+* [2026-07-06, 05:26:22](https://news.ycombinator.com/item?id=48800930) - [Patterncollider: Generate and explore quasiperiodic tiling patterns](https://github.com/aatishb/patterncollider)
 * [2026-07-06, 04:19:30](https://news.ycombinator.com/item?id=48800596) - [Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI](https://nexte.st/)
 * [2026-07-06, 04:00:40](https://news.ycombinator.com/item?id=48800486) - [How to Follow a Drummer](https://drummate.app/blog/how-to-follow-a-drummer)
 * [2026-07-06, 02:24:15](https://news.ycombinator.com/item?id=48800026) - [Shrimple – A Simpler, Nicer Markdown](https://qount25.dev/Shrimple/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-09](index.md)
 
+* [2026-07-09, 22:15:56](https://news.ycombinator.com/item?id=48853091) - [Why American ambulance rides are so expensive](https://davidoks.blog/p/why-american-ambulance-rides-are)
 * [2026-07-09, 21:09:05](https://news.ycombinator.com/item?id=48852403) - [Rubiks Cube Solver](https://speedcube.com.br/)
 * [2026-07-09, 20:47:09](https://news.ycombinator.com/item?id=48852151) - [How GitHub gave every repository a durable owner](https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/)
 * [2026-07-09, 20:46:38](https://news.ycombinator.com/item?id=48852144) - [Show HN: RandoFont – A browser for Google Fonts](https://randofont.alesh.com)
