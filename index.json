@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-09, 05:14:45",
+      "https://news.ycombinator.com/item?id=48841259"
+    ],
+    [
+      "Spider venom kills varroa mites without harming honeybees",
+      "https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming"
+    ]
+  ],
+  [
+    [
+      "2026-07-09, 03:26:02",
+      "https://news.ycombinator.com/item?id=48840620"
+    ],
+    [
+      "What's slowing down the AI buildout",
+      "https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid"
+    ]
+  ],
+  [
+    [
       "2026-07-09, 03:08:32",
       "https://news.ycombinator.com/item?id=48840497"
     ],
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=48839984"
     ],
     [
-      "I Think I Have LLM Burnout",
+      "I think I have LLM burnout",
       "https://www.alecscollon.com/blog/llm-burnout/"
     ]
   ],
@@ -127,16 +147,6 @@
     [
       "Cloudflare Drop",
       "https://www.cloudflare.com/drop/"
-    ]
-  ],
-  [
-    [
-      "2026-07-08, 18:21:53",
-      "https://news.ycombinator.com/item?id=48835439"
-    ],
-    [
-      "OpenMandriva: Statement regarding attempted distribution sabotage",
-      "https://forum.openmandriva.org/t/statement-regarding-attempted-distribution-sabotage/8997"
     ]
   ],
   [
@@ -271,32 +281,22 @@
   ],
   [
     [
+      "2026-07-05, 19:47:19",
+      "https://news.ycombinator.com/item?id=48797355"
+    ],
+    [
+      "The Strange Locomotion of Spirocuta",
+      "https://chriskiehl.com/article/euglenid-motion-in-flagellates"
+    ]
+  ],
+  [
+    [
       "2026-07-05, 16:39:40",
       "https://news.ycombinator.com/item?id=48795591"
     ],
     [
       "Patching MechCommander's \"left arm bug\" for fun and profit",
       "https://mhloppy.com/2026/05/mechcommander-weapons-left-arm-bug-fix/"
-    ]
-  ],
-  [
-    [
-      "2026-07-05, 14:30:44",
-      "https://news.ycombinator.com/item?id=48794568"
-    ],
-    [
-      "My road trip with the do-gooding cactus smugglers",
-      "https://economist.com/1843/2026/03/06/my-road-trip-with-the-do-gooding-cactus-smugglers"
-    ]
-  ],
-  [
-    [
-      "2026-07-02, 12:15:08",
-      "https://news.ycombinator.com/item?id=48760258"
-    ],
-    [
-      "Beyond Git: Real-Time Version Control for Godot – Lilith Duncan – GodotCon 2026 [video]",
-      "https://www.youtube.com/watch?v=CAJ_iIedx_I"
     ]
   ]
 ]
