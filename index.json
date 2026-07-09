@@ -1,12 +1,142 @@
 [
   [
     [
+      "2026-07-09, 15:28:39",
+      "https://news.ycombinator.com/item?id=48847562"
+    ],
+    [
+      "Launch HN: Context.dev (YC S26) – API to get structured data from any website",
+      "https://www.context.dev"
+    ]
+  ],
+  [
+    [
+      "2026-07-09, 15:21:16",
+      "https://news.ycombinator.com/item?id=48847446"
+    ],
+    [
+      "Deadly bacteria found in city's wastewater system tied to Meta data center",
+      "https://www.dailymail.com/sciencetech/article-15962981/mark-zuckerberg-meta-wyoming-ai-data-center-bacteria.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-09, 15:19:33",
+      "https://news.ycombinator.com/item?id=48847407"
+    ],
+    [
+      "Opinionated and Easy Pi.dev Configuration",
+      "https://lazypi.org/"
+    ]
+  ],
+  [
+    [
+      "2026-07-09, 15:16:46",
+      "https://news.ycombinator.com/item?id=48847368"
+    ],
+    [
+      "Stop Using reCAPTCHA – It's Not a Real Captcha",
+      "https://na0341.bearblog.dev/info/stop-using-recaptcha/"
+    ]
+  ],
+  [
+    [
+      "2026-07-09, 15:13:11",
+      "https://news.ycombinator.com/item?id=48847298"
+    ],
+    [
+      "Show HN: LastShelf – an emergency map of your family's documents bills& contacts",
+      "https://www.lastshelf.ai/"
+    ]
+  ],
+  [
+    [
+      "2026-07-09, 14:57:02",
+      "https://news.ycombinator.com/item?id=48846995"
+    ],
+    [
+      "TLS certificates for internal services done right",
+      "https://tuxnet.dev/posts/tls-for-internal-services/"
+    ]
+  ],
+  [
+    [
+      "2026-07-09, 14:30:54",
+      "https://news.ycombinator.com/item?id=48846510"
+    ],
+    [
+      "Show HN: Analog Watch",
+      "https://analog.watch"
+    ]
+  ],
+  [
+    [
+      "2026-07-09, 14:20:14",
+      "https://news.ycombinator.com/item?id=48846332"
+    ],
+    [
+      "New open access book on history of computers and politics",
+      "https://mitpress.mit.edu/9780262053198/simpolitics/"
+    ]
+  ],
+  [
+    [
+      "2026-07-09, 14:17:40",
+      "https://news.ycombinator.com/item?id=48846293"
+    ],
+    [
+      "PostHog Open Sourced",
+      "https://github.com/PostHog/posthog-foss"
+    ]
+  ],
+  [
+    [
+      "2026-07-09, 14:16:34",
+      "https://news.ycombinator.com/item?id=48846281"
+    ],
+    [
+      "No leap second will be introduced at the end of December 2026",
+      "https://datacenter.iers.org/data/latestVersion/bulletinC.txt"
+    ]
+  ],
+  [
+    [
+      "2026-07-09, 14:16:17",
+      "https://news.ycombinator.com/item?id=48846276"
+    ],
+    [
+      "Maxwell's Equations Were Discovered [video]",
+      "https://www.youtube.com/watch?v=-hua8RWopfw"
+    ]
+  ],
+  [
+    [
+      "2026-07-09, 14:11:56",
+      "https://news.ycombinator.com/item?id=48846205"
+    ],
+    [
+      "Transparency efforts behind the Helium Browser",
+      "https://helium.computer/blog/transparency"
+    ]
+  ],
+  [
+    [
       "2026-07-09, 14:10:22",
       "https://news.ycombinator.com/item?id=48846184"
     ],
     [
       "Introducing Muse Spark 1.1",
       "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/?_fb_noscript=1"
+    ]
+  ],
+  [
+    [
+      "2026-07-09, 13:30:33",
+      "https://news.ycombinator.com/item?id=48845526"
+    ],
+    [
+      "A new way to reflect on how you use Claude",
+      "https://www.anthropic.com/news/reflect-with-claude"
     ]
   ],
   [
@@ -31,26 +161,6 @@
   ],
   [
     [
-      "2026-07-09, 13:24:43",
-      "https://news.ycombinator.com/item?id=48845442"
-    ],
-    [
-      "The Glass Backbone: Why the Army's Logistics Will Break in the Next War",
-      "https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/"
-    ]
-  ],
-  [
-    [
-      "2026-07-09, 13:24:35",
-      "https://news.ycombinator.com/item?id=48845440"
-    ],
-    [
-      "MSG database tracked hundreds. Labels include \"LGBTQIA,\" and low to high \"risk.\"",
-      "https://www.wired.com/story/madison-square-garden-celebrity-database-surveillance/"
-    ]
-  ],
-  [
-    [
       "2026-07-09, 13:23:10",
       "https://news.ycombinator.com/item?id=48845422"
     ],
@@ -61,22 +171,12 @@
   ],
   [
     [
-      "2026-07-09, 13:19:02",
-      "https://news.ycombinator.com/item?id=48845364"
+      "2026-07-09, 13:06:04",
+      "https://news.ycombinator.com/item?id=48845209"
     ],
     [
-      "Files over tools: how we built our agent with a virtual filesystem and bash",
-      "https://knock.app/blog/how-we-built-the-knock-agent-virtual-filesystem-and-bash"
-    ]
-  ],
-  [
-    [
-      "2026-07-09, 13:10:18",
-      "https://news.ycombinator.com/item?id=48845269"
-    ],
-    [
-      "Just Pay the Subscription",
-      "https://www.uncommonapps.nyc/p/just-pay-the-subscription"
+      "A Road to Lisp: Why Lisp",
+      "https://scotto.me/blog/2026-07-09-why-lisp/"
     ]
   ],
   [
@@ -97,16 +197,6 @@
     [
       "Show HN: 18 Words",
       "https://18words.com/"
-    ]
-  ],
-  [
-    [
-      "2026-07-09, 12:20:41",
-      "https://news.ycombinator.com/item?id=48844709"
-    ],
-    [
-      "How Version Control Will Evolve for the Agent Boom",
-      "https://entire.io/blog/how-version-control-will-evolve-for-the-agent-boom"
     ]
   ],
   [
@@ -151,16 +241,6 @@
   ],
   [
     [
-      "2026-07-09, 05:34:44",
-      "https://news.ycombinator.com/item?id=48841385"
-    ],
-    [
-      "How Donkey Kong Toppled Atari",
-      "https://dfarq.homeip.net/how-donkey-kong-toppled-atari/"
-    ]
-  ],
-  [
-    [
       "2026-07-09, 05:14:45",
       "https://news.ycombinator.com/item?id=48841259"
     ],
@@ -181,36 +261,6 @@
   ],
   [
     [
-      "2026-07-08, 21:30:09",
-      "https://news.ycombinator.com/item?id=48837696"
-    ],
-    [
-      "Benchmarking coding agents on Databricks' multi-million line codebase",
-      "https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase"
-    ]
-  ],
-  [
-    [
-      "2026-07-08, 21:03:51",
-      "https://news.ycombinator.com/item?id=48837396"
-    ],
-    [
-      "Separating signal from noise in coding evaluations",
-      "https://openai.com/index/separating-signal-from-noise-coding-evaluations/"
-    ]
-  ],
-  [
-    [
-      "2026-07-08, 19:18:26",
-      "https://news.ycombinator.com/item?id=48836233"
-    ],
-    [
-      "Cloudflare Drop",
-      "https://www.cloudflare.com/drop/"
-    ]
-  ],
-  [
-    [
       "2026-07-08, 18:00:32",
       "https://news.ycombinator.com/item?id=48835111"
     ],
@@ -221,62 +271,12 @@
   ],
   [
     [
-      "2026-07-08, 17:46:12",
-      "https://news.ycombinator.com/item?id=48834924"
-    ],
-    [
-      "Show HN: Microsoft releases Flint, a visualization language for AI agents",
-      "https://microsoft.github.io/flint-chart/#/"
-    ]
-  ],
-  [
-    [
-      "2026-07-07, 12:47:46",
-      "https://news.ycombinator.com/item?id=48816987"
-    ],
-    [
-      "Show HN: Yamanote.fun – A complete soundscape for Tokyo's Yamanote line",
-      "https://www.yamanote.fun/"
-    ]
-  ],
-  [
-    [
       "2026-07-07, 05:38:26",
       "https://news.ycombinator.com/item?id=48814023"
     ],
     [
       "I Built the Only 2026 WWII Jeep",
       "https://www.theautopian.com/i-bet-my-company-on-an-impossible-jeep-build-then-a-miracle-happened/"
-    ]
-  ],
-  [
-    [
-      "2026-07-06, 10:02:08",
-      "https://news.ycombinator.com/item?id=48802660"
-    ],
-    [
-      "Vacuum at the Page Level",
-      "https://boringsql.com/posts/vacuum-at-the-page-level/"
-    ]
-  ],
-  [
-    [
-      "2026-07-06, 04:19:30",
-      "https://news.ycombinator.com/item?id=48800596"
-    ],
-    [
-      "Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI",
-      "https://nexte.st/"
-    ]
-  ],
-  [
-    [
-      "2026-07-04, 12:15:28",
-      "https://news.ycombinator.com/item?id=48784857"
-    ],
-    [
-      "Lead Mines of Galena, Kansas",
-      "https://dustbowlhighway.com/kansas/lead-mines/"
     ]
   ],
   [
