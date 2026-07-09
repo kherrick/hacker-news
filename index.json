@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-07-09, 05:46:50",
-      "https://news.ycombinator.com/item?id=48841446"
+      "2026-07-09, 07:00:43",
+      "https://news.ycombinator.com/item?id=48841963"
     ],
     [
-      "AI changes the economics of software rewrites",
-      "https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/"
+      "CollectWise (YC F24) Is Hiring",
+      "https://www.ycombinator.com/companies/collectwise/jobs/P646Yw6-founding-account-executive"
+    ]
+  ],
+  [
+    [
+      "2026-07-09, 06:18:19",
+      "https://news.ycombinator.com/item?id=48841676"
+    ],
+    [
+      "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+      "https://github.com/malisper/pgrust"
+    ]
+  ],
+  [
+    [
+      "2026-07-09, 05:34:44",
+      "https://news.ycombinator.com/item?id=48841385"
+    ],
+    [
+      "How Donkey Kong Toppled Atari",
+      "https://dfarq.homeip.net/how-donkey-kong-toppled-atari/"
     ]
   ],
   [
@@ -17,26 +37,6 @@
     [
       "Spider venom kills varroa mites without harming honeybees",
       "https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming"
-    ]
-  ],
-  [
-    [
-      "2026-07-09, 03:26:02",
-      "https://news.ycombinator.com/item?id=48840620"
-    ],
-    [
-      "What's slowing down the AI buildout",
-      "https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid"
-    ]
-  ],
-  [
-    [
-      "2026-07-09, 01:56:28",
-      "https://news.ycombinator.com/item?id=48839984"
-    ],
-    [
-      "I think I have LLM burnout",
-      "https://www.alecscollon.com/blog/llm-burnout/"
     ]
   ],
   [
@@ -67,16 +67,6 @@
     [
       "John Deere owners will get the right to repair equipment under FTC settlement",
       "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02"
-    ]
-  ],
-  [
-    [
-      "2026-07-08, 23:27:14",
-      "https://news.ycombinator.com/item?id=48838772"
-    ],
-    [
-      "We made Grok 4.5, GPT-5.5, and Claude build the same apps",
-      "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off"
     ]
   ],
   [
@@ -251,6 +241,16 @@
   ],
   [
     [
+      "2026-07-07, 05:38:26",
+      "https://news.ycombinator.com/item?id=48814023"
+    ],
+    [
+      "I Built the Only 2026 WWII Jeep",
+      "https://www.theautopian.com/i-bet-my-company-on-an-impossible-jeep-build-then-a-miracle-happened/"
+    ]
+  ],
+  [
+    [
       "2026-07-07, 01:40:26",
       "https://news.ycombinator.com/item?id=48812736"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2026-07-05, 14:30:44",
-      "https://news.ycombinator.com/item?id=48794568"
-    ],
-    [
-      "My road trip with the do-gooding cactus smugglers",
-      "https://economist.com/1843/2026/03/06/my-road-trip-with-the-do-gooding-cactus-smugglers"
-    ]
-  ],
-  [
-    [
       "2026-07-04, 21:53:09",
       "https://news.ycombinator.com/item?id=48789445"
     ],
     [
       "3D Airplane tracker on Mercator map",
       "https://github.com/jamalrfordii-arch/Vanguard-Map"
+    ]
+  ],
+  [
+    [
+      "2026-07-02, 12:15:08",
+      "https://news.ycombinator.com/item?id=48760258"
+    ],
+    [
+      "Beyond Git: Real-Time Version Control for Godot – Lilith Duncan – GodotCon 2026 [video]",
+      "https://www.youtube.com/watch?v=CAJ_iIedx_I"
     ]
   ]
 ]
