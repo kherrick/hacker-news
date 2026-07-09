@@ -1,22 +1,22 @@
 [
   [
     [
+      "2026-07-09, 22:15:56",
+      "https://news.ycombinator.com/item?id=48853091"
+    ],
+    [
+      "Why American ambulance rides are so expensive",
+      "https://davidoks.blog/p/why-american-ambulance-rides-are"
+    ]
+  ],
+  [
+    [
       "2026-07-09, 21:09:05",
       "https://news.ycombinator.com/item?id=48852403"
     ],
     [
       "Show HN: Rubiks Cube Solver",
       "https://speedcube.com.br/"
-    ]
-  ],
-  [
-    [
-      "2026-07-09, 20:47:09",
-      "https://news.ycombinator.com/item?id=48852151"
-    ],
-    [
-      "How GitHub gave every repository a durable owner",
-      "https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/"
     ]
   ],
   [
@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2026-07-09, 17:36:30",
-      "https://news.ycombinator.com/item?id=48849618"
-    ],
-    [
-      "Show HN: I built a web tool to see and edit what an AI thinks before it answers",
-      "https://lucid.earthpilot.ai"
-    ]
-  ],
-  [
-    [
       "2026-07-09, 17:17:16",
       "https://news.ycombinator.com/item?id=48849292"
     ],
@@ -67,6 +57,16 @@
     [
       "GPT-5.6",
       "https://openai.com/index/gpt-5-6/"
+    ]
+  ],
+  [
+    [
+      "2026-07-09, 17:03:53",
+      "https://news.ycombinator.com/item?id=48849059"
+    ],
+    [
+      "ChatGPT Work",
+      "https://openai.com/index/chatgpt-for-your-most-ambitious-work/"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2026-07-09, 02:23:24",
-      "https://news.ycombinator.com/item?id=48840207"
-    ],
-    [
-      "Show HN: I mapped 8.5M research papers into an interactive atlas",
-      "https://tomesphere.com/atlas"
-    ]
-  ],
-  [
-    [
       "2026-07-08, 19:35:07",
       "https://news.ycombinator.com/item?id=48836431"
     ],
@@ -277,6 +267,16 @@
     [
       "Buried Apple feature turns an iPhone into the perfect kids' dumb phone",
       "https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/"
+    ]
+  ],
+  [
+    [
+      "2026-07-06, 05:26:22",
+      "https://news.ycombinator.com/item?id=48800930"
+    ],
+    [
+      "Patterncollider: Generate and explore quasiperiodic tiling patterns",
+      "https://github.com/aatishb/patterncollider"
     ]
   ],
   [
