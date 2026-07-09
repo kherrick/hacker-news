@@ -91,6 +91,7 @@
 * [2026-07-06, 06:42:21](https://news.ycombinator.com/item?id=48801364) - [Sometimes it is the network: a war story](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SometimesItIsTheNetwork)
 * [2026-07-06, 04:19:30](https://news.ycombinator.com/item?id=48800596) - [Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI](https://nexte.st/)
 * [2026-07-06, 02:24:15](https://news.ycombinator.com/item?id=48800026) - [Shrimple – A Simpler, Nicer Markdown](https://qount25.dev/Shrimple/)
+* [2026-07-06, 02:13:35](https://news.ycombinator.com/item?id=48799966) - [What is Bending Spoons? The little-known AOL and Vimeo owner that's now public](https://techcrunch.com/2026/07/05/what-is-bending-spoons-everything-to-know-about-aols-acquirer/)
 * [2026-07-06, 02:06:55](https://news.ycombinator.com/item?id=48799930) - [GitHub Freno: cooperative, highly available throttler service](https://github.com/github/freno)
 * [2026-07-06, 02:06:49](https://news.ycombinator.com/item?id=48799929) - [Building relationships with customers through support didn't turn out as hoped](https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support)
 * [2026-07-06, 01:35:09](https://news.ycombinator.com/item?id=48799781) - [The Sneakerweb](https://sneakerweb.org/)
