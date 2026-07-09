@@ -44,6 +44,7 @@
 * [2026-07-05, 17:16:00](https://news.ycombinator.com/item?id=48795939) - [Falling fertility on the left as key driver of US birth decline](https://www.nature.com/articles/s41598-026-57582-3)
 * [2026-07-05, 17:05:57](https://news.ycombinator.com/item?id=48795830) - [\"These cameras are just like the Eye of Sauron\"](https://arxiv.org/abs/2602.09239)
 * [2026-07-05, 17:05:35](https://news.ycombinator.com/item?id=48795826) - [Mark Zuckerberg tells staff that AI agents haven't progressed enough](https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/)
+* [2026-07-05, 16:39:40](https://news.ycombinator.com/item?id=48795591) - [Patching MechCommander's \"left arm bug\" for fun and profit](https://mhloppy.com/2026/05/mechcommander-weapons-left-arm-bug-fix/)
 * [2026-07-05, 16:11:08](https://news.ycombinator.com/item?id=48795368) - [Zuckerberg's Increasingly Bizarre War on Whistleblowers](https://pluralistic.net/2026/06/27/zuckerstreisand-2/#autodisparagement)
 * [2026-07-05, 16:07:10](https://news.ycombinator.com/item?id=48795323) - [Installing A/UX 1.1 like it's the 90s](https://thomasw.dev/post/aux11/)
 * [2026-07-05, 16:04:23](https://news.ycombinator.com/item?id=48795303) - [The Plight of the Martian Farmer](https://mceglowski.substack.com/p/the-plight-of-the-martian-farmer)

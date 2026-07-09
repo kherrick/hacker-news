@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-09, 01:22:24](https://news.ycombinator.com/item?id=48839751) - [Rewriting Bun in Rust](https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/)
+* [2026-07-09, 00:38:02](https://news.ycombinator.com/item?id=48839434) - [A software engineering interview question I like: computing the median](https://krisshamloo.com/blog/007)
 * [2026-07-09, 00:32:33](https://news.ycombinator.com/item?id=48839397) - [Remote Attestation](https://www.liamcvw.com/p/remote-attestation)
 * [2026-07-09, 00:27:57](https://news.ycombinator.com/item?id=48839355) - [MIRA: Multiplayer Interactive World Models Trained on Rocket League](https://mira-wm.com/)
 * [2026-07-08, 23:37:43](https://news.ycombinator.com/item?id=48838876) - [John Deere owners will get the right to repair equipment under FTC settlement](https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02)
@@ -15,8 +17,6 @@
 * [2026-07-08, 18:00:32](https://news.ycombinator.com/item?id=48835111) - [Grok 4.5](https://x.ai/news/grok-4-5)
 * [2026-07-08, 17:46:12](https://news.ycombinator.com/item?id=48834924) - [Show HN: Microsoft releases Flint, a visualization language for AI agents](https://microsoft.github.io/flint-chart/#/)
 * [2026-07-08, 17:03:19](https://news.ycombinator.com/item?id=48834405) - [GPT‑Live](https://openai.com/index/introducing-gpt-live/)
-* [2026-07-08, 16:53:06](https://news.ycombinator.com/item?id=48834296) - [EU now one step away from reviving private message scanning rules](https://cyberinsider.com/eu-now-one-step-away-from-reviving-private-message-scanning-rules/)
-* [2026-07-08, 16:19:36](https://news.ycombinator.com/item?id=48833866) - [SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence](https://cognition.com/blog/swe-1-7)
 * [2026-07-08, 16:06:35](https://news.ycombinator.com/item?id=48833715) - [TypeScript 7](https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/)
 * [2026-07-08, 15:19:50](https://news.ycombinator.com/item?id=48833116) - [Chatto is now open source](https://www.hmans.dev/blog/chatto-is-open-source)
 * [2026-07-08, 14:09:17](https://news.ycombinator.com/item?id=48832212) - [Mistral's Robostral Navigate: a state of the art robotics navigation model](https://mistral.ai/news/robostral-navigate/)
@@ -26,8 +26,8 @@
 * [2026-07-08, 08:46:06](https://news.ycombinator.com/item?id=48829312) - [Decoding the obfuscated bash script on a Uniqlo t-shirt](https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/)
 * [2026-07-07, 12:47:46](https://news.ycombinator.com/item?id=48816987) - [Show HN: Yamanote.fun – A complete soundscape for Tokyo's Yamanote line](https://www.yamanote.fun/)
 * [2026-07-07, 12:20:54](https://news.ycombinator.com/item?id=48816724) - [Show HN: Frugon – Find which LLM calls a cheaper model could handle (local, MIT)](https://github.com/Rodiun/frugon)
-* [2026-07-06, 14:06:34](https://news.ycombinator.com/item?id=48804801) - [I Built a Telegram Client for Pi](https://www.npmjs.com/package/@atharva-again/pi-tg)
 * [2026-07-06, 13:02:57](https://news.ycombinator.com/item?id=48804016) - [DKIM2 and DMARCbis Have Landed](https://stalw.art/blog/dkim2-dmarcbis/)
+* [2026-07-05, 16:39:40](https://news.ycombinator.com/item?id=48795591) - [Patching MechCommander's \"left arm bug\" for fun and profit](https://mhloppy.com/2026/05/mechcommander-weapons-left-arm-bug-fix/)
 * [2026-07-05, 14:30:44](https://news.ycombinator.com/item?id=48794568) - [My road trip with the do-gooding cactus smugglers](https://economist.com/1843/2026/03/06/my-road-trip-with-the-do-gooding-cactus-smugglers)
 * [2026-07-02, 12:15:08](https://news.ycombinator.com/item?id=48760258) - [Beyond Git: Real-Time Version Control for Godot – Lilith Duncan – GodotCon 2026 [video]](https://www.youtube.com/watch?v=CAJ_iIedx_I)
 
