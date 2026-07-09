@@ -1,22 +1,12 @@
 [
   [
     [
-      "2026-07-09, 01:22:24",
-      "https://news.ycombinator.com/item?id=48839751"
+      "2026-07-09, 01:56:28",
+      "https://news.ycombinator.com/item?id=48839984"
     ],
     [
-      "Rewriting Bun in Rust",
-      "https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/"
-    ]
-  ],
-  [
-    [
-      "2026-07-09, 00:38:02",
-      "https://news.ycombinator.com/item?id=48839434"
-    ],
-    [
-      "A software engineering interview question I like: computing the median",
-      "https://krisshamloo.com/blog/007"
+      "I Think I Have LLM Burnout",
+      "https://www.alecscollon.com/blog/llm-burnout/"
     ]
   ],
   [
@@ -67,16 +57,6 @@
     [
       "Rewriting Bun in Rust",
       "https://bun.com/blog/bun-in-rust"
-    ]
-  ],
-  [
-    [
-      "2026-07-08, 21:43:07",
-      "https://news.ycombinator.com/item?id=48837809"
-    ],
-    [
-      "Open Source Barware: free, local-first bar inventory software (GPLv3)",
-      "https://opensourcebarware.com"
     ]
   ],
   [
@@ -261,12 +241,22 @@
   ],
   [
     [
-      "2026-07-06, 13:02:57",
-      "https://news.ycombinator.com/item?id=48804016"
+      "2026-07-07, 01:40:26",
+      "https://news.ycombinator.com/item?id=48812736"
     ],
     [
-      "DKIM2 and DMARCbis Have Landed",
-      "https://stalw.art/blog/dkim2-dmarcbis/"
+      "Apache Shiro security framework releases 3.0.0",
+      "https://shiro.apache.org/blog/2026/06/apache-shiro-300-released.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-06, 14:06:34",
+      "https://news.ycombinator.com/item?id=48804801"
+    ],
+    [
+      "I Built a Telegram Client for Pi",
+      "https://www.npmjs.com/package/@atharva-again/pi-tg"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "My road trip with the do-gooding cactus smugglers",
       "https://economist.com/1843/2026/03/06/my-road-trip-with-the-do-gooding-cactus-smugglers"
+    ]
+  ],
+  [
+    [
+      "2026-07-03, 21:46:07",
+      "https://news.ycombinator.com/item?id=48780387"
+    ],
+    [
+      "EVE Online's Carbon engine is now open source: Fenris Creations explains why",
+      "https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why"
     ]
   ],
   [
