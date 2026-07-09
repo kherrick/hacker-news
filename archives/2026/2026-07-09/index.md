@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-07-09](index.md)
 
+* [2026-07-09, 20:47:09](https://news.ycombinator.com/item?id=48852151) - [How GitHub gave every repository a durable owner](https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/)
 * [2026-07-09, 18:29:41](https://news.ycombinator.com/item?id=48850414) - [GLM 5.2 is nearly as accurate as a human book keeper](https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark)
 * [2026-07-09, 18:27:06](https://news.ycombinator.com/item?id=48850372) - [How to Start a Ruby Meetup](https://guides.rubyevents.org/meetups/)
 * [2026-07-09, 17:38:18](https://news.ycombinator.com/item?id=48849648) - [Show HN: Pylon Sync, an agent-first full-stack realtime framework](https://www.pylonsync.com)
+* [2026-07-09, 17:36:30](https://news.ycombinator.com/item?id=48849618) - [Show HN: I built a web tool to see and edit what an AI thinks before it answers](https://lucid.earthpilot.ai)
 * [2026-07-09, 17:15:47](https://news.ycombinator.com/item?id=48849258) - [How should group chats work in decentralized systems?](https://marindedic.com/groups/)
 * [2026-07-09, 17:04:14](https://news.ycombinator.com/item?id=48849066) - [GPT-5.6](https://openai.com/index/gpt-5-6/)
 * [2026-07-09, 17:03:53](https://news.ycombinator.com/item?id=48849059) - [ChatGPT Work](https://openai.com/index/chatgpt-for-your-most-ambitious-work/)
@@ -15,6 +17,7 @@
 * [2026-07-09, 16:00:58](https://news.ycombinator.com/item?id=48848111) - [Auditory and spontaneous movement responses to music over first postnatal year](https://elifesciences.org/articles/107088)
 * [2026-07-09, 15:50:09](https://news.ycombinator.com/item?id=48847940) - [AI Content Is Everywhere on Social Media, Especially LinkedIn](https://www.pangram.com/blog/ai-in-your-feed)
 * [2026-07-09, 15:45:17](https://news.ycombinator.com/item?id=48847834) - [Show HN: Reverse-engineering web apps into agent tools](https://news.ycombinator.com/item?id=48847834)
+* [2026-07-09, 15:30:15](https://news.ycombinator.com/item?id=48847577) - [Show HN: Sighthound - open-source vulnerability scanner for source code](https://github.com/Corgea/Sighthound)
 * [2026-07-09, 15:28:39](https://news.ycombinator.com/item?id=48847562) - [Launch HN: Context.dev (YC S26) – API to get structured data from any website](https://www.context.dev)
 * [2026-07-09, 15:27:48](https://news.ycombinator.com/item?id=48847552) - [Hy3](https://hy.tencent.com/research/hy3)
 * [2026-07-09, 15:26:52](https://news.ycombinator.com/item?id=48847536) - [How to Write an Email](https://blog.dannycastonguay.com/how-to-write-an-email/)
