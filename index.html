@@ -129,6 +129,27 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="48852151">
+          <h3>
+            <a
+              class="item"
+              href="https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/"
+              >How GitHub gave every repository a durable owner</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-09 @ 20:47:09</span
+              ><span class="points-container"
+                >Points: <span class="points">9</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48852151"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="48850414">
           <h3>
             <a
@@ -141,11 +162,11 @@
             <h4>
               <span>2026-07-09 @ 18:29:41</span
               ><span class="points-container"
-                >Points: <span class="points">134</span></span
+                >Points: <span class="points">147</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48850414"
                   >Comments</a
-                ><span class="descendants">: 82</span></span
+                ><span class="descendants">: 90</span></span
               >
             </h4>
           </section>
@@ -164,105 +185,85 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48850372"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="48849648">
+        <section id="48849618">
           <h3>
-            <a class="item" href="https://www.pylonsync.com"
-              >Show HN: Pylon Sync, an agent-first full-stack realtime
-              framework</a
+            <a class="item" href="https://lucid.earthpilot.ai"
+              >Show HN: I built a web tool to see and edit what an AI thinks
+              before it answers</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-07-09 @ 17:38:18</span
+              <span>2026-07-09 @ 17:36:30</span
               ><span class="points-container"
-                >Points: <span class="points">6</span></span
+                >Points: <span class="points">9</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48849648"
+                ><a href="https://news.ycombinator.com/item?id=48849618"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 1</span></span
               >
             </h4>
             <div class="text">
+              <a
+                href="https://transformer-circuits.pub/2026/workspace/index.html"
+                >https://transformer-circuits.pub/2026/workspace/index.html</a
+              >)
               <p>
-                When I work on hobby projects, I usually use React or Next.js
-                because they are quick to set up and easy to deploy on Vercel.
-                For production apps, I separate the frontend and backend, then
-                deploy the backend on AWS. But setting up a full backend on AWS
-                can be complex and costly, especially for simple apps.
+                It talks about how they use a tool they call a Jacobian Lens to
+                view inside the middle layers of LLM while it's working before
+                it commits to a word (token).
               </p>
               <p>
-                Pylon is a full-stack, real-time framework that includes
-                server-rendered React, TypeScript functions, entities, policies,
-                real-time sync, built-in authentication, and support for
-                background and scheduled jobs. By default, it uses SQLite, but
-                you can switch to Postgres for production. The authentication
-                system is heavily inspired by better-auth. The runtime is a Rust
-                server that runs TypeScript functions and server-rendered React
-                using Bun.
+                I wanted to see if I could get a version of this running on the
+                open models and to my surprise it worked! I ran some experiments
+                with it and build a public facing free tool anyone can use with
+                your own prompts.
               </p>
               <p>
-                Pylon itself is inspired by Rails and focuses on convention over
-                configuration, so you have fewer decisions to make before
-                deploying. This approach applies to modern React apps, real-time
-                sync, TypeScript server functions, authentication, job
-                management, and deployment.
+                Ask the model to describe a symbol of "three curving lines of
+                water" and you can watch "ocean", "sea", and "surf" light up a
+                few layers deeper before it settles on "waves".
               </p>
               <p>
-                One of Pylon’s main goals is agent compatibility. It lets coding
-                agents build and deploy apps with no setup, quick understanding,
-                secure defaults, and easy deployment, all without requiring any
-                third-party services. Pylon works for both quick projects and
-                production apps where performance, observability, ownership, and
-                self-hosting matter.
+                You can also edit the internal state. Insert "fire" into the
+                middle layer of the ocean prompt and the answer shifts to
+                something about heat.
               </p>
               <p>
-                While it’s easy to self-host Pylon apps, Pylon Cloud provides
-                managed hosting with a developer experience similar to Vercel.
-                You can deploy from git or the CLI, get an instant URL, add
-                custom domains, and go live in seconds. Each app runs on its own
-                server, which can scale to zero, with TLS and global caching
-                enabled.
+                For fun / curiosity sake, I also developed way to let the model
+                read its own inner workspace and then decide to suppress or
+                amplify a concept, and run the prompt again.
               </p>
               <p>
-                If you have experience with Next.js, Vercel, Convex, Supabase,
-                Firebase, better-auth, or Rails, I’d love to hear your feedback.
-              </p>
-              <p>Create your first app: npm create @pylonsync/pylon@latest</p>
-              <p>
-                Website:
-                <a href="https://www.pylonsync.com"
-                  >https://www.pylonsync.com</a
+                Interesting finding from running it across models. J-lens beats
+                a plain logit lens on some architectures and does nothing on
+                others, and it isn't about size. A 0.5B Qwen reads better than a
+                2.8B Pythia. Every Pythia I tried gained basically nothing; the
+                Llama and Qwen models gained a lot.
+                <a href="https://lucid.earthpilot.ai/research"
+                  >https://lucid.earthpilot.ai/research</a
                 >
               </p>
               <p>
-                Repo:
-                <a href="https://github.com/pylonsync/pylon"
-                  >https://github.com/pylonsync/pylon</a
-                >
+                This is a 48 hour old project based on emerging research and
+                built on a small model, a small probe set on rented GPUs - but I
+                found it genuinely exciting. The code is open.
               </p>
               <p>
-                Docs:
-                <a href="https://docs.pylonsync.com/introduction"
-                  >https://docs.pylonsync.com/introduction</a
-                >
+                I also included a page context "Docent" AI agent you can chat
+                with about whatever you see to help understand what is going on.
               </p>
+              <p>Happy to have folks poke around and break it.</p>
               <p>
-                LLMS:
-                <a href="https://docs.pylonsync.com/llms.txt"
-                  >https://docs.pylonsync.com/llms.txt</a
-                >
-              </p>
-              <p>Skill: npx skills add pylonsync/pylon</p>
-              <p>
-                Examples:
-                <a href="https://github.com/pylonsync/pylon/tree/main/examples"
-                  >https://github.com/pylonsync/pylon/tree/main/examples</a
-                >
+                I imagine the applications for allowing models to self-reflect /
+                edit internal states can be useful for alignment, confidence,
+                bias detection, etc. and this tool lets you play with the early
+                stages of that.
               </p>
             </div>
           </section>
@@ -275,11 +276,11 @@
             <h4>
               <span>2026-07-09 @ 17:04:14</span
               ><span class="points-container"
-                >Points: <span class="points">804</span></span
+                >Points: <span class="points">845</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48849066"
                   >Comments</a
-                ><span class="descendants">: 592</span></span
+                ><span class="descendants">: 623</span></span
               >
             </h4>
             <div class="text">
@@ -315,11 +316,11 @@
             <h4>
               <span>2026-07-09 @ 17:03:53</span
               ><span class="points-container"
-                >Points: <span class="points">286</span></span
+                >Points: <span class="points">296</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48849059"
                   >Comments</a
-                ><span class="descendants">: 126</span></span
+                ><span class="descendants">: 140</span></span
               >
             </h4>
           </section>
@@ -341,6 +342,74 @@
             </h4>
           </section>
         </section>
+        <section id="48847940">
+          <h3>
+            <a class="item" href="https://www.pangram.com/blog/ai-in-your-feed"
+              >AI content is everywhere on social media, especially LinkedIn</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-09 @ 15:50:09</span
+              ><span class="points-container"
+                >Points: <span class="points">136</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48847940"
+                  >Comments</a
+                ><span class="descendants">: 127</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48847577">
+          <h3>
+            <a class="item" href="https://github.com/Corgea/Sighthound"
+              >Show HN: Sighthound - open-source vulnerability scanner for
+              source code</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-09 @ 15:30:15</span
+              ><span class="points-container"
+                >Points: <span class="points">6</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48847577"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Why build another scanner in 2026? We wanted to improve some of
+                our detection outcomes but noticed the current open source
+                scanners like Semgrep/Opengrep we're capped by a bunch of
+                adoption limitations such as being written in OCaml, requiring a
+                lot of work to add a language parser, and the rulesets were
+                licensed differently and required paid offerings. It also felt
+                that licensing was moving backwards rather than forward.
+              </p>
+              <p>
+                We wanted something that was very fast, was easily extensible
+                and had a great set of rules that we could use. This led us to
+                using Rust and Tree-sitter since they are both fast and have
+                great community adoption making extending Sighthound natural.
+              </p>
+              <p>
+                We wanted it to focus on source-code vulnerability classes like
+                Sql Injection, and Xss. We haven't yet done any secrets scanning
+                as there are a lot of great options in the market at the moment.
+                Right now, Sighthound supports Python, JS/TS, Java, Go, C#,
+                HTML, PHP and Ruby.
+              </p>
+              <p>
+                We still have a lot of work to do so, we'd love for your
+                feedback, and contributions in however they come from adding new
+                languages, new rules or bug fixes.
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="48847562">
           <h3>
             <a class="item" href="https://www.context.dev"
@@ -352,11 +421,11 @@
             <h4>
               <span>2026-07-09 @ 15:28:39</span
               ><span class="points-container"
-                >Points: <span class="points">57</span></span
+                >Points: <span class="points">60</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48847562"
                   >Comments</a
-                ><span class="descendants">: 41</span></span
+                ><span class="descendants">: 42</span></span
               >
             </h4>
             <div class="text">
@@ -482,11 +551,11 @@
             <h4>
               <span>2026-07-09 @ 15:27:48</span
               ><span class="points-container"
-                >Points: <span class="points">290</span></span
+                >Points: <span class="points">304</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48847552"
                   >Comments</a
-                ><span class="descendants">: 66</span></span
+                ><span class="descendants">: 69</span></span
               >
             </h4>
           </section>
@@ -503,11 +572,11 @@
             <h4>
               <span>2026-07-09 @ 15:25:25</span
               ><span class="points-container"
-                >Points: <span class="points">170</span></span
+                >Points: <span class="points">185</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48847511"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
@@ -522,11 +591,11 @@
             <h4>
               <span>2026-07-09 @ 15:19:33</span
               ><span class="points-container"
-                >Points: <span class="points">85</span></span
+                >Points: <span class="points">86</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48847407"
                   >Comments</a
-                ><span class="descendants">: 54</span></span
+                ><span class="descendants">: 56</span></span
               >
             </h4>
           </section>
@@ -543,11 +612,11 @@
             <h4>
               <span>2026-07-09 @ 14:57:02</span
               ><span class="points-container"
-                >Points: <span class="points">104</span></span
+                >Points: <span class="points">107</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48846995"
                   >Comments</a
-                ><span class="descendants">: 69</span></span
+                ><span class="descendants">: 78</span></span
               >
             </h4>
           </section>
@@ -565,51 +634,11 @@
             <h4>
               <span>2026-07-09 @ 14:50:01</span
               ><span class="points-container"
-                >Points: <span class="points">25</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48846842"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48846510">
-          <h3>
-            <a class="item" href="https://analog.watch"
-              >Show HN: Analog Watch</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-09 @ 14:30:54</span
-              ><span class="points-container"
-                >Points: <span class="points">81</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48846510"
-                  >Comments</a
-                ><span class="descendants">: 71</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48846332">
-          <h3>
-            <a
-              class="item"
-              href="https://mitpress.mit.edu/9780262053198/simpolitics/"
-              >New open access book on history of computers and politics</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-09 @ 14:20:14</span
-              ><span class="points-container"
-                >Points: <span class="points">54</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48846332"
-                  >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -626,11 +655,11 @@
             <h4>
               <span>2026-07-09 @ 14:16:34</span
               ><span class="points-container"
-                >Points: <span class="points">191</span></span
+                >Points: <span class="points">197</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48846281"
                   >Comments</a
-                ><span class="descendants">: 155</span></span
+                ><span class="descendants">: 157</span></span
               >
             </h4>
           </section>
@@ -647,11 +676,11 @@
             <h4>
               <span>2026-07-09 @ 14:10:22</span
               ><span class="points-container"
-                >Points: <span class="points">279</span></span
+                >Points: <span class="points">284</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48846184"
                   >Comments</a
-                ><span class="descendants">: 158</span></span
+                ><span class="descendants">: 161</span></span
               >
             </h4>
             <div class="text">
@@ -689,11 +718,11 @@
             <h4>
               <span>2026-07-09 @ 13:24:43</span
               ><span class="points-container"
-                >Points: <span class="points">231</span></span
+                >Points: <span class="points">237</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48845442"
                   >Comments</a
-                ><span class="descendants">: 297</span></span
+                ><span class="descendants">: 308</span></span
               >
             </h4>
           </section>
@@ -708,11 +737,11 @@
             <h4>
               <span>2026-07-09 @ 13:06:04</span
               ><span class="points-container"
-                >Points: <span class="points">63</span></span
+                >Points: <span class="points">73</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48845209"
                   >Comments</a
-                ><span class="descendants">: 61</span></span
+                ><span class="descendants">: 73</span></span
               >
             </h4>
           </section>
@@ -725,11 +754,11 @@
             <h4>
               <span>2026-07-09 @ 12:48:52</span
               ><span class="points-container"
-                >Points: <span class="points">717</span></span
+                >Points: <span class="points">730</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48845049"
                   >Comments</a
-                ><span class="descendants">: 262</span></span
+                ><span class="descendants">: 264</span></span
               >
             </h4>
           </section>
@@ -746,11 +775,11 @@
             <h4>
               <span>2026-07-09 @ 11:03:54</span
               ><span class="points-container"
-                >Points: <span class="points">806</span></span
+                >Points: <span class="points">833</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48843923"
                   >Comments</a
-                ><span class="descendants">: 394</span></span
+                ><span class="descendants">: 407</span></span
               >
             </h4>
           </section>
@@ -765,11 +794,11 @@
             <h4>
               <span>2026-07-09 @ 08:05:04</span
               ><span class="points-container"
-                >Points: <span class="points">75</span></span
+                >Points: <span class="points">114</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48842459"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 26</span></span
               >
             </h4>
             <div class="text">
@@ -827,23 +856,22 @@
             </div>
           </section>
         </section>
-        <section id="48841446">
+        <section id="48841676">
           <h3>
-            <a
-              class="item"
-              href="https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/"
-              >AI changes the economics of software rewrites</a
+            <a class="item" href="https://github.com/malisper/pgrust"
+              >Postgres rewritten in Rust, now passing 100% of the Postgres
+              regression tests</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-07-09 @ 05:46:50</span
+              <span>2026-07-09 @ 06:18:19</span
               ><span class="points-container"
-                >Points: <span class="points">93</span></span
+                >Points: <span class="points">209</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48841446"
+                ><a href="https://news.ycombinator.com/item?id=48841676"
                   >Comments</a
-                ><span class="descendants">: 103</span></span
+                ><span class="descendants">: 256</span></span
               >
             </h4>
           </section>
@@ -859,7 +887,7 @@
             <h4>
               <span>2026-07-09 @ 02:23:24</span
               ><span class="points-container"
-                >Points: <span class="points">49</span></span
+                >Points: <span class="points">50</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48840207"
                   >Comments</a
@@ -916,94 +944,40 @@
             </div>
           </section>
         </section>
-        <section id="48832797">
+        <section id="48836431">
           <h3>
-            <a class="item" href="https://abralo.com/"
-              >Show HN: Abralo – Free, easy way to run several Claude Code
-              agents in one window</a
+            <a class="item" href="https://graphitemaster.github.io/aau/"
+              >Almost Always Unsigned</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-07-08 @ 14:54:59</span
+              <span>2026-07-08 @ 19:35:07</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48832797"
+                ><a href="https://news.ycombinator.com/item?id=48836431"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 46</span></span
               >
             </h4>
-            <div class="text">
-              <p>
-                I've been using Claude Code for almost everything lately. Have
-                given one an email account so it can research business leads,
-                draft emails, fact-check them and clear them with me before
-                sending (works really well by the way). I also tend to have a
-                few Claude Code agents running at any one time for coding.
-              </p>
-              <p>
-                I used to create a split terminal to manage them from there, but
-                found working in the terminal all day pretty depressing and,
-                more importantly, found it hard to follow Claude Code's process
-                and see which agents needed my immediate attention.
-              </p>
-              <p>
-                I tried Anthropic's VS Code Claude Code extension and it had a
-                great UI (more info on Claude Code's process and easier to
-                read), but it crashed my PC when I ran more than 3 and I
-                couldn't watch multiple agents in parallel (had to constantly
-                switch between them).
-              </p>
-              <p>
-                So I built a lightweight Tauri desktop app which lets you run
-                multiple Claude Code agents in one window alongside each other.
-                It's easier to read the output and see which agents need your
-                attention than a terminal.
-              </p>
-              <p>
-                Have been using this all day everyday instead of an IDE and have
-                obsessed over every detail to make sure it's easy-to-use, but
-                also lightweight and fast (so you can manage multiple agents
-                without your PC crashing).
-              </p>
-              <p>
-                There are some nice features like better usage alerts for when
-                you're going to hit your 5-hour and weekly limits (with
-                sparklines to show when usage peaked, and which agents are the
-                most token-intensive).
-              </p>
-              <p>
-                It's free to use (you just need to log in with your existing
-                Claude Code account) for up to 4 agents simultaneously. This app
-                doesn't store your Claude Code account details and doesn't store
-                any of your interactions with Claude Code. They remain between
-                you and Anthropic. It's compatible with Windows, MacOS and
-                64-bit Linux.
-              </p>
-              <p>
-                Would really appreciate any feedback, so if you have any
-                thoughts, issues or suggestions please let me know.
-              </p>
-              <p>Thanks, Chris</p>
-            </div>
           </section>
         </section>
         <section id="48809574">
           <h3>
             <a class="item" href="https://nahla.dev/blog/waitfree_queue/"
-              >Girls Just Wanna Have Fast MPMC Queues with Bounded Waiting</a
+              >Girls just wanna have fast MPMC queues with bounded waiting</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-07-06 @ 19:46:30</span
               ><span class="points-container"
-                >Points: <span class="points">94</span></span
+                >Points: <span class="points">97</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48809574"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
@@ -1020,11 +994,11 @@
             <h4>
               <span>2026-07-06 @ 14:15:19</span
               ><span class="points-container"
-                >Points: <span class="points">14</span></span
+                >Points: <span class="points">17</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48804935"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -1034,45 +1008,24 @@
             <a
               class="item"
               href="https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/"
-              >Buried Apple Feature Turns an iPhone into the Perfect Kids' Dumb
-              Phone</a
+              >Buried Apple feature turns an iPhone into the perfect kids' dumb
+              phone</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-07-06 @ 10:53:51</span
               ><span class="points-container"
-                >Points: <span class="points">181</span></span
+                >Points: <span class="points">207</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48803004"
                   >Comments</a
-                ><span class="descendants">: 115</span></span
+                ><span class="descendants">: 132</span></span
               >
             </h4>
             <div class="text">
               <a href="https://archive.is/LV6Cw">https://archive.is/LV6Cw</a>
             </div>
-          </section>
-        </section>
-        <section id="48800486">
-          <h3>
-            <a
-              class="item"
-              href="https://drummate.app/blog/how-to-follow-a-drummer"
-              >How to Follow a Drummer</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-06 @ 04:00:40</span
-              ><span class="points-container"
-                >Points: <span class="points">27</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48800486"
-                  >Comments</a
-                ><span class="descendants">: 22</span></span
-              >
-            </h4>
           </section>
         </section>
         <section id="48792383">
@@ -1088,13 +1041,19 @@
             <h4>
               <span>2026-07-05 @ 08:40:27</span
               ><span class="points-container"
-                >Points: <span class="points">99</span></span
+                >Points: <span class="points">120</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48792383"
                   >Comments</a
-                ><span class="descendants">: 35</span></span
+                ><span class="descendants">: 43</span></span
               >
             </h4>
+            <div class="text">
+              <a
+                href="https://store.steampowered.com/app/4630570/RUNNING_TRAIN/"
+                >https://store.steampowered.com/app/4630570/RUNNING_TRAIN/</a
+              >
+            </div>
           </section>
         </section>
         <section id="48778956">
@@ -1109,13 +1068,19 @@
             <h4>
               <span>2026-07-03 @ 19:27:05</span
               ><span class="points-container"
-                >Points: <span class="points">271</span></span
+                >Points: <span class="points">274</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48778956"
                   >Comments</a
-                ><span class="descendants">: 189</span></span
+                ><span class="descendants">: 199</span></span
               >
             </h4>
+            <div class="text">
+              <a
+                href="https://aisystemcodesign.github.io/papers/isca26/vistara_camera_ready.pdf"
+                >https://aisystemcodesign.github.io/papers/isca26/vistara_cam...</a
+              >
+            </div>
           </section>
         </section>
       </section>
