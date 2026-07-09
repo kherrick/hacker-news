@@ -11,6 +11,7 @@
 * [2026-07-09, 18:27:06](https://news.ycombinator.com/item?id=48850372) - [How to Start a Ruby Meetup](https://guides.rubyevents.org/meetups/)
 * [2026-07-09, 17:38:18](https://news.ycombinator.com/item?id=48849648) - [Show HN: Pylon Sync, an agent-first full-stack realtime framework](https://www.pylonsync.com)
 * [2026-07-09, 17:36:30](https://news.ycombinator.com/item?id=48849618) - [Show HN: I built a web tool to see and edit what an AI thinks before it answers](https://lucid.earthpilot.ai)
+* [2026-07-09, 17:17:16](https://news.ycombinator.com/item?id=48849292) - [Interview with Mitchell Hashimoto about Ghostty and Zig](https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/)
 * [2026-07-09, 17:15:47](https://news.ycombinator.com/item?id=48849258) - [How should group chats work in decentralized systems?](https://marindedic.com/groups/)
 * [2026-07-09, 17:04:14](https://news.ycombinator.com/item?id=48849066) - [GPT-5.6](https://openai.com/index/gpt-5-6/)
 * [2026-07-09, 17:03:53](https://news.ycombinator.com/item?id=48849059) - [ChatGPT Work](https://openai.com/index/chatgpt-for-your-most-ambitious-work/)
