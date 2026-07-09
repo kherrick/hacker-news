@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-07-09, 16:00:58",
+      "https://news.ycombinator.com/item?id=48848111"
+    ],
+    [
+      "Auditory and spontaneous movement responses to music over first postnatal year",
+      "https://elifesciences.org/articles/107088"
+    ]
+  ],
+  [
+    [
+      "2026-07-09, 15:50:09",
+      "https://news.ycombinator.com/item?id=48847940"
+    ],
+    [
+      "AI Content Is Everywhere on Social Media, Especially LinkedIn",
+      "https://www.pangram.com/blog/ai-in-your-feed"
+    ]
+  ],
+  [
+    [
+      "2026-07-09, 15:45:17",
+      "https://news.ycombinator.com/item?id=48847834"
+    ],
+    [
+      "Show HN: Reverse-engineering web apps into agent tools",
+      "https://news.ycombinator.com/item?id=48847834"
+    ]
+  ],
+  [
+    [
       "2026-07-09, 15:28:39",
       "https://news.ycombinator.com/item?id=48847562"
     ],
@@ -11,12 +41,32 @@
   ],
   [
     [
-      "2026-07-09, 15:21:16",
-      "https://news.ycombinator.com/item?id=48847446"
+      "2026-07-09, 15:27:48",
+      "https://news.ycombinator.com/item?id=48847552"
     ],
     [
-      "Deadly bacteria found in city's wastewater system tied to Meta data center",
-      "https://www.dailymail.com/sciencetech/article-15962981/mark-zuckerberg-meta-wyoming-ai-data-center-bacteria.html"
+      "Hy3",
+      "https://hy.tencent.com/research/hy3"
+    ]
+  ],
+  [
+    [
+      "2026-07-09, 15:26:52",
+      "https://news.ycombinator.com/item?id=48847536"
+    ],
+    [
+      "How to Write an Email",
+      "https://blog.dannycastonguay.com/how-to-write-an-email/"
+    ]
+  ],
+  [
+    [
+      "2026-07-09, 15:25:25",
+      "https://news.ycombinator.com/item?id=48847511"
+    ],
+    [
+      "A possible future for Damn Interesting",
+      "https://www.damninteresting.com/a-possible-future/"
     ]
   ],
   [
@@ -31,12 +81,12 @@
   ],
   [
     [
-      "2026-07-09, 15:16:46",
-      "https://news.ycombinator.com/item?id=48847368"
+      "2026-07-09, 15:19:23",
+      "https://news.ycombinator.com/item?id=48847405"
     ],
     [
-      "Stop Using reCAPTCHA – It's Not a Real Captcha",
-      "https://na0341.bearblog.dev/info/stop-using-recaptcha/"
+      "Coordination Without Consolidation: On Systems of States [pdf]",
+      "https://isonomiaquarterly.com/wp-content/uploads/2026/06/iq-4.2-summer-2026-macdonald-coordination-without-consolidation.pdf"
     ]
   ],
   [
@@ -61,12 +111,12 @@
   ],
   [
     [
-      "2026-07-09, 14:30:54",
-      "https://news.ycombinator.com/item?id=48846510"
+      "2026-07-09, 14:45:04",
+      "https://news.ycombinator.com/item?id=48846757"
     ],
     [
-      "Show HN: Analog Watch",
-      "https://analog.watch"
+      "Why we're moving off Cloudflare Durable Objects",
+      "https://usewire.io/engineering/why-were-moving-wire-off-cloudflare-durable-objects/"
     ]
   ],
   [
@@ -131,16 +181,6 @@
   ],
   [
     [
-      "2026-07-09, 13:30:33",
-      "https://news.ycombinator.com/item?id=48845526"
-    ],
-    [
-      "A new way to reflect on how you use Claude",
-      "https://www.anthropic.com/news/reflect-with-claude"
-    ]
-  ],
-  [
-    [
       "2026-07-09, 13:29:31",
       "https://news.ycombinator.com/item?id=48845514"
     ],
@@ -151,12 +191,12 @@
   ],
   [
     [
-      "2026-07-09, 13:27:05",
-      "https://news.ycombinator.com/item?id=48845470"
+      "2026-07-09, 13:24:43",
+      "https://news.ycombinator.com/item?id=48845442"
     ],
     [
-      "Syria's solar boom is redefining Middle East's energy model",
-      "https://www.thenationalnews.com/business/energy/2026/07/06/syrias-solar-boom-is-redefining-middle-easts-energy-model/"
+      "The glass backbone: Why the Army's logistics will break in the next war",
+      "https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/"
     ]
   ],
   [
@@ -181,22 +221,22 @@
   ],
   [
     [
-      "2026-07-09, 12:59:44",
-      "https://news.ycombinator.com/item?id=48845142"
-    ],
-    [
-      "Show HN: Arcaide – Explore code with multi-level call graphs",
-      "https://arcaide.foo"
-    ]
-  ],
-  [
-    [
       "2026-07-09, 12:48:52",
       "https://news.ycombinator.com/item?id=48845049"
     ],
     [
       "Show HN: 18 Words",
       "https://18words.com/"
+    ]
+  ],
+  [
+    [
+      "2026-07-09, 12:20:41",
+      "https://news.ycombinator.com/item?id=48844709"
+    ],
+    [
+      "How version control will evolve for the agent boom",
+      "https://entire.io/blog/how-version-control-will-evolve-for-the-agent-boom"
     ]
   ],
   [
@@ -215,28 +255,8 @@
       "https://news.ycombinator.com/item?id=48843923"
     ],
     [
-      "EU Parliament greenlights Chat Control 1.0 – Breyer: \"Our children lose out\"",
+      "EU Parliament greenlights Chat Control 1.0",
       "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/"
-    ]
-  ],
-  [
-    [
-      "2026-07-09, 10:02:33",
-      "https://news.ycombinator.com/item?id=48843438"
-    ],
-    [
-      "Bonnie Tyler, singer of Total Eclipse of the Heart, dies aged 75",
-      "https://www.bbc.com/news/articles/cg5pd9z2487o"
-    ]
-  ],
-  [
-    [
-      "2026-07-09, 08:22:52",
-      "https://news.ycombinator.com/item?id=48842611"
-    ],
-    [
-      "Why developers are ditching GitHub for Codeberg and self-hosting alternatives",
-      "https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/"
     ]
   ],
   [
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2026-07-08, 18:00:32",
-      "https://news.ycombinator.com/item?id=48835111"
+      "2026-07-06, 02:13:35",
+      "https://news.ycombinator.com/item?id=48799966"
     ],
     [
-      "Grok 4.5",
-      "https://x.ai/news/grok-4-5"
-    ]
-  ],
-  [
-    [
-      "2026-07-07, 05:38:26",
-      "https://news.ycombinator.com/item?id=48814023"
-    ],
-    [
-      "I Built the Only 2026 WWII Jeep",
-      "https://www.theautopian.com/i-bet-my-company-on-an-impossible-jeep-build-then-a-miracle-happened/"
-    ]
-  ],
-  [
-    [
-      "2026-07-04, 09:41:30",
-      "https://news.ycombinator.com/item?id=48784126"
-    ],
-    [
-      "In-browser programmable robot simulator",
-      "https://bittlex-sim.petoi.com/"
+      "What is Bending Spoons? The little-known AOL and Vimeo owner that's now public",
+      "https://techcrunch.com/2026/07/05/what-is-bending-spoons-everything-to-know-about-aols-acquirer/"
     ]
   ],
   [
