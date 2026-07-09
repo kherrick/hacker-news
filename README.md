@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-09, 05:14:45](https://news.ycombinator.com/item?id=48841259) - [Spider venom kills varroa mites without harming honeybees](https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming)
+* [2026-07-09, 03:26:02](https://news.ycombinator.com/item?id=48840620) - [What's slowing down the AI buildout](https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid)
 * [2026-07-09, 03:08:32](https://news.ycombinator.com/item?id=48840497) - [Ergo: Long Form Philosophy Lectures](https://ergo.org/)
-* [2026-07-09, 01:56:28](https://news.ycombinator.com/item?id=48839984) - [I Think I Have LLM Burnout](https://www.alecscollon.com/blog/llm-burnout/)
+* [2026-07-09, 01:56:28](https://news.ycombinator.com/item?id=48839984) - [I think I have LLM burnout](https://www.alecscollon.com/blog/llm-burnout/)
 * [2026-07-09, 00:32:33](https://news.ycombinator.com/item?id=48839397) - [Remote Attestation](https://www.liamcvw.com/p/remote-attestation)
 * [2026-07-09, 00:27:57](https://news.ycombinator.com/item?id=48839355) - [MIRA: Multiplayer Interactive World Models Trained on Rocket League](https://mira-wm.com/)
 * [2026-07-08, 23:37:43](https://news.ycombinator.com/item?id=48838876) - [John Deere owners will get the right to repair equipment under FTC settlement](https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02)
@@ -13,7 +15,6 @@
 * [2026-07-08, 20:05:42](https://news.ycombinator.com/item?id=48836778) - [FAANG Simulator](https://www.abeyk.com/escape-the-rat-race/)
 * [2026-07-08, 19:26:18](https://news.ycombinator.com/item?id=48836324) - [New Sweden: the US's long-lost 'secret' colony](https://www.bbc.com/travel/article/20260629-new-sweden-the-uss-long-lost-secret-colony)
 * [2026-07-08, 19:18:26](https://news.ycombinator.com/item?id=48836233) - [Cloudflare Drop](https://www.cloudflare.com/drop/)
-* [2026-07-08, 18:21:53](https://news.ycombinator.com/item?id=48835439) - [OpenMandriva: Statement regarding attempted distribution sabotage](https://forum.openmandriva.org/t/statement-regarding-attempted-distribution-sabotage/8997)
 * [2026-07-08, 18:00:32](https://news.ycombinator.com/item?id=48835111) - [Grok 4.5](https://x.ai/news/grok-4-5)
 * [2026-07-08, 17:46:12](https://news.ycombinator.com/item?id=48834924) - [Show HN: Microsoft releases Flint, a visualization language for AI agents](https://microsoft.github.io/flint-chart/#/)
 * [2026-07-08, 17:03:19](https://news.ycombinator.com/item?id=48834405) - [GPT‑Live](https://openai.com/index/introducing-gpt-live/)
@@ -27,9 +28,8 @@
 * [2026-07-07, 12:47:46](https://news.ycombinator.com/item?id=48816987) - [Show HN: Yamanote.fun – A complete soundscape for Tokyo's Yamanote line](https://www.yamanote.fun/)
 * [2026-07-07, 01:40:26](https://news.ycombinator.com/item?id=48812736) - [Apache Shiro security framework releases 3.0.0](https://shiro.apache.org/blog/2026/06/apache-shiro-300-released.html)
 * [2026-07-06, 04:19:30](https://news.ycombinator.com/item?id=48800596) - [Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI](https://nexte.st/)
+* [2026-07-05, 19:47:19](https://news.ycombinator.com/item?id=48797355) - [The Strange Locomotion of Spirocuta](https://chriskiehl.com/article/euglenid-motion-in-flagellates)
 * [2026-07-05, 16:39:40](https://news.ycombinator.com/item?id=48795591) - [Patching MechCommander's \"left arm bug\" for fun and profit](https://mhloppy.com/2026/05/mechcommander-weapons-left-arm-bug-fix/)
-* [2026-07-05, 14:30:44](https://news.ycombinator.com/item?id=48794568) - [My road trip with the do-gooding cactus smugglers](https://economist.com/1843/2026/03/06/my-road-trip-with-the-do-gooding-cactus-smugglers)
-* [2026-07-02, 12:15:08](https://news.ycombinator.com/item?id=48760258) - [Beyond Git: Real-Time Version Control for Godot – Lilith Duncan – GodotCon 2026 [video]](https://www.youtube.com/watch?v=CAJ_iIedx_I)
 
 ## [Archives](archives/index.md)
 

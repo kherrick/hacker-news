@@ -27,6 +27,7 @@
 * [2026-07-05, 20:05:13](https://news.ycombinator.com/item?id=48797501) - [Trouble Transitioning (2025)](https://www.lrb.co.uk/the-paper/v47/n01/adam-tooze/trouble-transitioning)
 * [2026-07-05, 20:00:30](https://news.ycombinator.com/item?id=48797467) - [Cursed circuits #5: capacitance multiplier](https://lcamtuf.substack.com/p/cursed-circuits-capacitance-multiplier)
 * [2026-07-05, 19:55:58](https://news.ycombinator.com/item?id=48797443) - [Understanding B-Tree Indexes in PostgreSQL: A Comprehensive Guide– Part 1](https://medium.com/@devli0/b-tree-indexes-in-postgresql-part-1-theory-eb2668c52520)
+* [2026-07-05, 19:47:19](https://news.ycombinator.com/item?id=48797355) - [The Strange Locomotion of Spirocuta](https://chriskiehl.com/article/euglenid-motion-in-flagellates)
 * [2026-07-05, 19:31:22](https://news.ycombinator.com/item?id=48797214) - [The full stack of terminals explained](https://ahmadawais.com/the-full-stack-of-terminals-explained-terminal-shell-tty-console-posix-ansi-escapes-ptys/)
 * [2026-07-05, 19:22:51](https://news.ycombinator.com/item?id=48797141) - [Delta flight hit by firework while landing at Midway Airport on Fourth of July](https://www.nbcchicago.com/news/local/delta-flight-hit-by-firework-while-landing-at-midway-airport-on-fourth-of-july/3957451/)
 * [2026-07-05, 19:08:38](https://news.ycombinator.com/item?id=48797015) - [Small Penis Rule](https://en.wikipedia.org/wiki/Small_penis_rule)
