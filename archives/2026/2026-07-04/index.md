@@ -51,6 +51,7 @@
 * [2026-07-04, 14:02:59](https://news.ycombinator.com/item?id=48785478) - [How working memory could give rise to consciousness](https://www.scientificamerican.com/article/how-working-memory-could-give-rise-to-consciousness/)
 * [2026-07-04, 14:00:03](https://news.ycombinator.com/item?id=48785459) - [A martian rock has lots of carbon on it, and it's not clear why](https://arstechnica.com/science/2026/07/a-martian-rock-has-lots-of-carbon-on-it-and-its-not-clear-why/)
 * [2026-07-04, 12:46:17](https://news.ycombinator.com/item?id=48785026) - [Show HN: Foundation, a different approach to software and AI](https://github.com/nmxmxh/foundation)
+* [2026-07-04, 12:15:28](https://news.ycombinator.com/item?id=48784857) - [Lead Mines of Galena, Kansas](https://dustbowlhighway.com/kansas/lead-mines/)
 * [2026-07-04, 12:00:57](https://news.ycombinator.com/item?id=48784777) - [Explanation of everything you can see in htop/top on Linux](https://peteris.rocks/blog/htop/)
 * [2026-07-04, 11:39:01](https://news.ycombinator.com/item?id=48784662) - [The Reports of Jim Carrey's Death Are a Failure Mode](https://tane.dev/2026/07/the-reports-of-jim-carreys-death-are-a-failure-mode/)
 * [2026-07-04, 09:41:30](https://news.ycombinator.com/item?id=48784126) - [In-browser programmable robot simulator](https://bittlex-sim.petoi.com/)

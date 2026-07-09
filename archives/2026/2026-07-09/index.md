@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-07-09](index.md)
 
+* [2026-07-09, 12:59:44](https://news.ycombinator.com/item?id=48845142) - [Show HN: Arcaide – Explore code with multi-level call graphs](https://arcaide.foo)
+* [2026-07-09, 12:48:52](https://news.ycombinator.com/item?id=48845049) - [Show HN: 18 Words](https://18words.com/)
+* [2026-07-09, 12:40:03](https://news.ycombinator.com/item?id=48844956) - [Show HN: 92% of US city websites fail ADA accessibility](https://accesslumens.com/research/state-of-us-local-government-accessibility-2026)
+* [2026-07-09, 12:20:41](https://news.ycombinator.com/item?id=48844709) - [How Version Control Will Evolve for the Agent Boom](https://entire.io/blog/how-version-control-will-evolve-for-the-agent-boom)
 * [2026-07-09, 12:01:17](https://news.ycombinator.com/item?id=48844517) - [TrueBiz (YC S22) – Senior Software Engineer – Remote (US) – Full-Time](https://news.ycombinator.com/item?id=48844517)
 * [2026-07-09, 11:03:54](https://news.ycombinator.com/item?id=48843923) - [EU Parliament greenlights Chat Control 1.0 – Breyer: \"Our children lose out\"](https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/)
 * [2026-07-09, 10:02:33](https://news.ycombinator.com/item?id=48843438) - [Bonnie Tyler, singer of Total Eclipse of the Heart, dies aged 75](https://www.bbc.com/news/articles/cg5pd9z2487o)
