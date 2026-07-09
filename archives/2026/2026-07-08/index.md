@@ -9,6 +9,7 @@
 * [2026-07-08, 23:11:28](https://news.ycombinator.com/item?id=48838611) - [Suspecting AI cheating, Ivy League prof ordered in-person final; scores fell 50%](https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/)
 * [2026-07-08, 21:49:59](https://news.ycombinator.com/item?id=48837877) - [Rewriting Bun in Rust](https://bun.com/blog/bun-in-rust)
 * [2026-07-08, 21:43:07](https://news.ycombinator.com/item?id=48837809) - [Open Source Barware: free, local-first bar inventory software (GPLv3)](https://opensourcebarware.com)
+* [2026-07-08, 21:30:09](https://news.ycombinator.com/item?id=48837696) - [Benchmarking coding agents on Databricks' multi-million line codebase](https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase)
 * [2026-07-08, 21:03:51](https://news.ycombinator.com/item?id=48837396) - [OpenAI no longer recommends SWE-Bench Pro](https://openai.com/index/separating-signal-from-noise-coding-evaluations/)
 * [2026-07-08, 20:41:33](https://news.ycombinator.com/item?id=48837162) - [Fable is not a useful model](https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html)
 * [2026-07-08, 20:37:29](https://news.ycombinator.com/item?id=48837110) - [Turning a pile of documents into a searchable useable knowledge base](https://github.com/linuxrebel/DocuBrowser)
