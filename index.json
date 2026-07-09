@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-09, 08:22:52",
+      "https://news.ycombinator.com/item?id=48842611"
+    ],
+    [
+      "Why developers are ditching GitHub for Codeberg and self-hosting alternatives",
+      "https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/"
+    ]
+  ],
+  [
+    [
       "2026-07-09, 07:00:43",
       "https://news.ycombinator.com/item?id=48841963"
     ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2026-07-08, 13:20:05",
-      "https://news.ycombinator.com/item?id=48831587"
-    ],
-    [
-      "A bug which affected only left handed users",
-      "https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/"
-    ]
-  ],
-  [
-    [
       "2026-07-08, 09:44:20",
       "https://news.ycombinator.com/item?id=48829797"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-07-02, 12:15:08",
-      "https://news.ycombinator.com/item?id=48760258"
+      "2026-07-04, 09:41:30",
+      "https://news.ycombinator.com/item?id=48784126"
     ],
     [
-      "Beyond Git: Real-Time Version Control for Godot – Lilith Duncan – GodotCon 2026 [video]",
-      "https://www.youtube.com/watch?v=CAJ_iIedx_I"
+      "In-browser programmable robot simulator",
+      "https://bittlex-sim.petoi.com/"
     ]
   ]
 ]
