@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-08, 23:37:43",
+      "https://news.ycombinator.com/item?id=48838876"
+    ],
+    [
+      "John Deere owners will get the right to repair equipment under FTC settlement",
+      "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02"
+    ]
+  ],
+  [
+    [
       "2026-07-08, 23:11:28",
       "https://news.ycombinator.com/item?id=48838611"
     ],
@@ -37,16 +47,6 @@
     [
       "Separating signal from noise in coding evaluations",
       "https://openai.com/index/separating-signal-from-noise-coding-evaluations/"
-    ]
-  ],
-  [
-    [
-      "2026-07-08, 20:41:33",
-      "https://news.ycombinator.com/item?id=48837162"
-    ],
-    [
-      "The classifiers Anthropic puts in front of Fable are too zealous",
-      "https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html"
     ]
   ],
   [
@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2026-07-08, 16:06:35",
+      "https://news.ycombinator.com/item?id=48833715"
+    ],
+    [
+      "TypeScript 7",
+      "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/"
+    ]
+  ],
+  [
+    [
       "2026-07-08, 15:19:50",
       "https://news.ycombinator.com/item?id=48833116"
     ],
@@ -187,16 +197,6 @@
     [
       "Mistral's Robostral Navigate: a state of the art robotics navigation model",
       "https://mistral.ai/news/robostral-navigate/"
-    ]
-  ],
-  [
-    [
-      "2026-07-08, 13:24:52",
-      "https://news.ycombinator.com/item?id=48831658"
-    ],
-    [
-      "OpenBSD has a use-after-free allowing local privilege escalation to root",
-      "https://nvd.nist.gov/vuln/detail/cve-2026-57589"
     ]
   ],
   [
