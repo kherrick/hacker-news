@@ -14,7 +14,6 @@
 * [2026-07-09, 15:19:23](https://news.ycombinator.com/item?id=48847405) - [Coordination Without Consolidation: On Systems of States [pdf]](https://isonomiaquarterly.com/wp-content/uploads/2026/06/iq-4.2-summer-2026-macdonald-coordination-without-consolidation.pdf)
 * [2026-07-09, 15:06:52](https://news.ycombinator.com/item?id=48847181) - [Ways to think about token pricing](https://www.ben-evans.com/benedictevans/2026/7/9/ways-to-think-about-token-pricing)
 * [2026-07-09, 14:57:02](https://news.ycombinator.com/item?id=48846995) - [TLS certificates for internal services done right](https://tuxnet.dev/posts/tls-for-internal-services/)
-* [2026-07-09, 14:45:04](https://news.ycombinator.com/item?id=48846757) - [Why we're moving off Cloudflare Durable Objects](https://usewire.io/engineering/why-were-moving-wire-off-cloudflare-durable-objects/)
 * [2026-07-09, 14:30:54](https://news.ycombinator.com/item?id=48846510) - [Show HN: Analog Watch](https://analog.watch)
 * [2026-07-09, 14:20:14](https://news.ycombinator.com/item?id=48846332) - [New open access book on history of computers and politics](https://mitpress.mit.edu/9780262053198/simpolitics/)
 * [2026-07-09, 14:16:34](https://news.ycombinator.com/item?id=48846281) - [No leap second will be introduced at the end of December 2026](https://datacenter.iers.org/data/latestVersion/bulletinC.txt)
@@ -28,6 +27,7 @@
 * [2026-07-09, 02:23:24](https://news.ycombinator.com/item?id=48840207) - [Show HN: I mapped 8.5M research papers into an interactive atlas](https://tomesphere.com/atlas)
 * [2026-07-06, 19:46:30](https://news.ycombinator.com/item?id=48809574) - [Girls Just Wanna Have Fast MPMC Queues with Bounded Waiting](https://nahla.dev/blog/waitfree_queue/)
 * [2026-07-06, 10:53:51](https://news.ycombinator.com/item?id=48803004) - [Buried Apple Feature Turns an iPhone into the Perfect Kids' Dumb Phone](https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/)
+* [2026-07-06, 04:00:40](https://news.ycombinator.com/item?id=48800486) - [How to Follow a Drummer](https://drummate.app/blog/how-to-follow-a-drummer)
 * [2026-07-06, 02:13:35](https://news.ycombinator.com/item?id=48799966) - [What is Bending Spoons? The little-known AOL and Vimeo owner that's now public](https://techcrunch.com/2026/07/05/what-is-bending-spoons-everything-to-know-about-aols-acquirer/)
 * [2026-07-03, 19:27:05](https://news.ycombinator.com/item?id=48778956) - [Meta reuses old RAM in new servers with custom bridge chip](https://www.networkworld.com/article/4192827/meta-reuses-old-ram-in-new-servers-with-custom-bridge-chip.html)
 
