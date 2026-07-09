@@ -22,6 +22,7 @@
 * [2026-07-06, 20:14:55](https://news.ycombinator.com/item?id=48809877) - [GLM 5.2 and the coming AI margin collapse](https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/)
 * [2026-07-06, 20:08:46](https://news.ycombinator.com/item?id=48809810) - [M/PC – A Concatenative OS](https://wiki.xxiivv.com/site/m_pc.html)
 * [2026-07-06, 20:08:33](https://news.ycombinator.com/item?id=48809808) - [Poison, redzones and shadows: inside KASAN](https://bootlin.com/blog/poison-redzones-and-shadows-inside-kasan/)
+* [2026-07-06, 19:46:30](https://news.ycombinator.com/item?id=48809574) - [Girls Just Wanna Have Fast MPMC Queues with Bounded Waiting](https://nahla.dev/blog/waitfree_queue/)
 * [2026-07-06, 19:43:36](https://news.ycombinator.com/item?id=48809542) - [Price per 1M tokens is meaningless](https://janilowski.pl/en/blog/2026/price-per-m-tokens/)
 * [2026-07-06, 19:40:22](https://news.ycombinator.com/item?id=48809496) - [Python 3.14 compiled to metal – no interpreter](https://github.com/can1357/pon)
 * [2026-07-06, 19:28:24](https://news.ycombinator.com/item?id=48809354) - [Pruning RAG context down to what the answer actually needs](https://www.kapa.ai/blog/how-we-prune-rag-context)

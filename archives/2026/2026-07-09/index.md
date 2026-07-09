@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-07-09](index.md)
 
+* [2026-07-09, 17:04:14](https://news.ycombinator.com/item?id=48849066) - [GPT-5.6](https://openai.com/index/gpt-5-6/)
+* [2026-07-09, 17:03:53](https://news.ycombinator.com/item?id=48849059) - [ChatGPT Work](https://openai.com/index/chatgpt-for-your-most-ambitious-work/)
+* [2026-07-09, 17:00:37](https://news.ycombinator.com/item?id=48849011) - [Wildcard (YC W25) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/wildcard/jobs/ZSLVaaU-founding-engineer)
+* [2026-07-09, 16:47:53](https://news.ycombinator.com/item?id=48848819) - [Show HN: Devthropology – Better Insights for GitHub Repos](https://devthropology.com/demo)
 * [2026-07-09, 16:00:58](https://news.ycombinator.com/item?id=48848111) - [Auditory and spontaneous movement responses to music over first postnatal year](https://elifesciences.org/articles/107088)
 * [2026-07-09, 15:50:09](https://news.ycombinator.com/item?id=48847940) - [AI Content Is Everywhere on Social Media, Especially LinkedIn](https://www.pangram.com/blog/ai-in-your-feed)
 * [2026-07-09, 15:45:17](https://news.ycombinator.com/item?id=48847834) - [Show HN: Reverse-engineering web apps into agent tools](https://news.ycombinator.com/item?id=48847834)
@@ -24,6 +28,7 @@
 * [2026-07-09, 14:16:34](https://news.ycombinator.com/item?id=48846281) - [No leap second will be introduced at the end of December 2026](https://datacenter.iers.org/data/latestVersion/bulletinC.txt)
 * [2026-07-09, 14:16:17](https://news.ycombinator.com/item?id=48846276) - [Maxwell's Equations Were Discovered [video]](https://www.youtube.com/watch?v=-hua8RWopfw)
 * [2026-07-09, 14:11:56](https://news.ycombinator.com/item?id=48846205) - [Transparency efforts behind the Helium Browser](https://helium.computer/blog/transparency)
+* [2026-07-09, 14:10:22](https://news.ycombinator.com/item?id=48846184) - [Muse Spark 1.1](https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/)
 * [2026-07-09, 14:10:22](https://news.ycombinator.com/item?id=48846184) - [Introducing Muse Spark 1.1](https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/?_fb_noscript=1)
 * [2026-07-09, 13:30:33](https://news.ycombinator.com/item?id=48845526) - [A new way to reflect on how you use Claude](https://www.anthropic.com/news/reflect-with-claude)
 * [2026-07-09, 13:29:31](https://news.ycombinator.com/item?id=48845514) - [US seeks cheaper hunter-killer drones after Iran destroys $1B worth of Reapers](https://arstechnica.com/gadgets/2026/07/us-seeks-cheaper-hunter-killer-drones-after-iran-destroys-1b-worth-of-reapers/)
