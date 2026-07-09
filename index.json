@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-07-09, 12:59:44",
+      "https://news.ycombinator.com/item?id=48845142"
+    ],
+    [
+      "Show HN: Arcaide – Explore code with multi-level call graphs",
+      "https://arcaide.foo"
+    ]
+  ],
+  [
+    [
+      "2026-07-09, 12:48:52",
+      "https://news.ycombinator.com/item?id=48845049"
+    ],
+    [
+      "Show HN: 18 Words",
+      "https://18words.com/"
+    ]
+  ],
+  [
+    [
+      "2026-07-09, 12:40:03",
+      "https://news.ycombinator.com/item?id=48844956"
+    ],
+    [
+      "Show HN: 92% of US city websites fail ADA accessibility",
+      "https://accesslumens.com/research/state-of-us-local-government-accessibility-2026"
+    ]
+  ],
+  [
+    [
+      "2026-07-09, 12:20:41",
+      "https://news.ycombinator.com/item?id=48844709"
+    ],
+    [
+      "How Version Control Will Evolve for the Agent Boom",
+      "https://entire.io/blog/how-version-control-will-evolve-for-the-agent-boom"
+    ]
+  ],
+  [
+    [
       "2026-07-09, 12:01:17",
       "https://news.ycombinator.com/item?id=48844517"
     ],
@@ -161,16 +201,6 @@
   ],
   [
     [
-      "2026-07-08, 16:06:35",
-      "https://news.ycombinator.com/item?id=48833715"
-    ],
-    [
-      "TypeScript 7",
-      "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/"
-    ]
-  ],
-  [
-    [
       "2026-07-08, 15:19:50",
       "https://news.ycombinator.com/item?id=48833116"
     ],
@@ -221,26 +251,6 @@
   ],
   [
     [
-      "2026-07-07, 01:40:26",
-      "https://news.ycombinator.com/item?id=48812736"
-    ],
-    [
-      "Apache Shiro security framework releases 3.0.0",
-      "https://shiro.apache.org/blog/2026/06/apache-shiro-300-released.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-06, 12:10:13",
-      "https://news.ycombinator.com/item?id=48803545"
-    ],
-    [
-      "Why is there smoke from the boiler room? – Botanical Garden using Home Assistant",
-      "https://vooijs.eu/posts/why-is-there-smoke-from-the-boiler-room/"
-    ]
-  ],
-  [
-    [
       "2026-07-06, 04:19:30",
       "https://news.ycombinator.com/item?id=48800596"
     ],
@@ -261,12 +271,12 @@
   ],
   [
     [
-      "2026-07-04, 21:53:09",
-      "https://news.ycombinator.com/item?id=48789445"
+      "2026-07-04, 12:15:28",
+      "https://news.ycombinator.com/item?id=48784857"
     ],
     [
-      "3D Airplane tracker on Mercator map",
-      "https://github.com/jamalrfordii-arch/Vanguard-Map"
+      "Lead Mines of Galena, Kansas",
+      "https://dustbowlhighway.com/kansas/lead-mines/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Meta reuses old RAM in new servers with custom bridge chip",
       "https://www.networkworld.com/article/4192827/meta-reuses-old-ram-in-new-servers-with-custom-bridge-chip.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-02, 08:02:50",
-      "https://news.ycombinator.com/item?id=48758059"
-    ],
-    [
-      "The Field Equation, living shader geometry folded into a breathing object",
-      "https://sand-morph.up.railway.app/the-field-equation"
     ]
   ]
 ]
