@@ -57,6 +57,7 @@
 * [2026-07-06, 14:45:31](https://news.ycombinator.com/item?id=48805401) - [Emily Bender Sets the Record Straight on \"Stochastic Parrots\"](https://spectrum.ieee.org/stochastic-parrot)
 * [2026-07-06, 14:38:15](https://news.ycombinator.com/item?id=48805304) - [DOJ Closing Abbott Labs Case Spurs Wider Corporate Crime Retreat](https://news.bloomberglaw.com/us-law-week/doj-closing-abbott-labs-case-spurs-wider-corporate-crime-retreat)
 * [2026-07-06, 14:18:23](https://news.ycombinator.com/item?id=48804993) - [Resetting Xbox](https://news.xbox.com/en-us/2026/07/06/resetting-xbox/)
+* [2026-07-06, 14:15:19](https://news.ycombinator.com/item?id=48804935) - [I Changed My Name](https://robida.net/entries/2026/07/01/i-changed-my-name)
 * [2026-07-06, 14:06:34](https://news.ycombinator.com/item?id=48804801) - [I Built a Telegram Client for Pi](https://www.npmjs.com/package/@atharva-again/pi-tg)
 * [2026-07-06, 13:39:52](https://news.ycombinator.com/item?id=48804435) - [Footage Shows Cop Stalking Woman After Surveilling Her with a LPR](https://www.404media.co/footage-shows-cop-stalking-woman-he-met-on-a-tv-set-after-surveilling-her-with-a-license-plate-reader/)
 * [2026-07-06, 13:28:57](https://news.ycombinator.com/item?id=48804297) - [Aluminum Foil](https://dernocua.github.io/notes/aluminum-foil.html)

@@ -6,6 +6,7 @@
 
 * [2026-07-09, 18:29:41](https://news.ycombinator.com/item?id=48850414) - [GLM 5.2 is nearly as accurate as a human book keeper](https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark)
 * [2026-07-09, 18:27:06](https://news.ycombinator.com/item?id=48850372) - [How to Start a Ruby Meetup](https://guides.rubyevents.org/meetups/)
+* [2026-07-09, 17:38:18](https://news.ycombinator.com/item?id=48849648) - [Show HN: Pylon Sync, an agent-first full-stack realtime framework](https://www.pylonsync.com)
 * [2026-07-09, 17:15:47](https://news.ycombinator.com/item?id=48849258) - [How should group chats work in decentralized systems?](https://marindedic.com/groups/)
 * [2026-07-09, 17:04:14](https://news.ycombinator.com/item?id=48849066) - [GPT-5.6](https://openai.com/index/gpt-5-6/)
 * [2026-07-09, 17:03:53](https://news.ycombinator.com/item?id=48849059) - [ChatGPT Work](https://openai.com/index/chatgpt-for-your-most-ambitious-work/)
@@ -54,6 +55,7 @@
 * [2026-07-09, 10:02:33](https://news.ycombinator.com/item?id=48843438) - [Bonnie Tyler, singer of Total Eclipse of the Heart, dies aged 75](https://www.bbc.com/news/articles/cg5pd9z2487o)
 * [2026-07-09, 09:47:28](https://news.ycombinator.com/item?id=48843352) - [My Thoughts on the Bun Rust Rewrite](https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html)
 * [2026-07-09, 08:22:52](https://news.ycombinator.com/item?id=48842611) - [Why developers are ditching GitHub for Codeberg and self-hosting alternatives](https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/)
+* [2026-07-09, 08:05:04](https://news.ycombinator.com/item?id=48842459) - [Show HN: Getting GLM 5.2 running on my slow computer](https://github.com/JustVugg/colibri)
 * [2026-07-09, 07:00:43](https://news.ycombinator.com/item?id=48841963) - [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/P646Yw6-founding-account-executive)
 * [2026-07-09, 06:18:19](https://news.ycombinator.com/item?id=48841676) - [Postgres rewritten in Rust, now passing 100% of the Postgres regression tests](https://github.com/malisper/pgrust)
 * [2026-07-09, 05:46:50](https://news.ycombinator.com/item?id=48841446) - [AI changes the economics of software rewrites](https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/)
