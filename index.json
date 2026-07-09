@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-09, 05:46:50",
+      "https://news.ycombinator.com/item?id=48841446"
+    ],
+    [
+      "AI changes the economics of software rewrites",
+      "https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/"
+    ]
+  ],
+  [
+    [
       "2026-07-09, 05:14:45",
       "https://news.ycombinator.com/item?id=48841259"
     ],
@@ -17,16 +27,6 @@
     [
       "What's slowing down the AI buildout",
       "https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid"
-    ]
-  ],
-  [
-    [
-      "2026-07-09, 03:08:32",
-      "https://news.ycombinator.com/item?id=48840497"
-    ],
-    [
-      "Ergo: Long Form Philosophy Lectures",
-      "https://ergo.org/"
     ]
   ],
   [
@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2026-07-08, 18:21:53",
+      "https://news.ycombinator.com/item?id=48835439"
+    ],
+    [
+      "OpenMandriva: Statement regarding attempted distribution sabotage",
+      "https://forum.openmandriva.org/t/statement-regarding-attempted-distribution-sabotage/8997"
+    ]
+  ],
+  [
+    [
       "2026-07-08, 18:00:32",
       "https://news.ycombinator.com/item?id=48835111"
     ],
@@ -201,32 +211,12 @@
   ],
   [
     [
-      "2026-07-08, 14:09:17",
-      "https://news.ycombinator.com/item?id=48832212"
-    ],
-    [
-      "Mistral's Robostral Navigate: a state of the art robotics navigation model",
-      "https://mistral.ai/news/robostral-navigate/"
-    ]
-  ],
-  [
-    [
       "2026-07-08, 13:20:05",
       "https://news.ycombinator.com/item?id=48831587"
     ],
     [
       "A bug which affected only left handed users",
       "https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/"
-    ]
-  ],
-  [
-    [
-      "2026-07-08, 13:18:03",
-      "https://news.ycombinator.com/item?id=48831565"
-    ],
-    [
-      "Cloudflare Meerkat - Globally distributed consensus",
-      "https://blog.cloudflare.com/meerkat-introduction/"
     ]
   ],
   [
@@ -281,22 +271,32 @@
   ],
   [
     [
-      "2026-07-05, 19:47:19",
-      "https://news.ycombinator.com/item?id=48797355"
-    ],
-    [
-      "The Strange Locomotion of Spirocuta",
-      "https://chriskiehl.com/article/euglenid-motion-in-flagellates"
-    ]
-  ],
-  [
-    [
       "2026-07-05, 16:39:40",
       "https://news.ycombinator.com/item?id=48795591"
     ],
     [
       "Patching MechCommander's \"left arm bug\" for fun and profit",
       "https://mhloppy.com/2026/05/mechcommander-weapons-left-arm-bug-fix/"
+    ]
+  ],
+  [
+    [
+      "2026-07-05, 14:30:44",
+      "https://news.ycombinator.com/item?id=48794568"
+    ],
+    [
+      "My road trip with the do-gooding cactus smugglers",
+      "https://economist.com/1843/2026/03/06/my-road-trip-with-the-do-gooding-cactus-smugglers"
+    ]
+  ],
+  [
+    [
+      "2026-07-04, 21:53:09",
+      "https://news.ycombinator.com/item?id=48789445"
+    ],
+    [
+      "3D Airplane tracker on Mercator map",
+      "https://github.com/jamalrfordii-arch/Vanguard-Map"
     ]
   ]
 ]
