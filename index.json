@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-07-09, 21:09:05",
+      "https://news.ycombinator.com/item?id=48852403"
+    ],
+    [
+      "Rubiks Cube Solver",
+      "https://speedcube.com.br/"
+    ]
+  ],
+  [
+    [
       "2026-07-09, 20:47:09",
       "https://news.ycombinator.com/item?id=48852151"
     ],
     [
       "How GitHub gave every repository a durable owner",
       "https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/"
+    ]
+  ],
+  [
+    [
+      "2026-07-09, 20:46:38",
+      "https://news.ycombinator.com/item?id=48852144"
+    ],
+    [
+      "Show HN: RandoFont – A browser for Google Fonts",
+      "https://randofont.alesh.com"
     ]
   ],
   [
@@ -71,26 +91,6 @@
   ],
   [
     [
-      "2026-07-09, 15:50:09",
-      "https://news.ycombinator.com/item?id=48847940"
-    ],
-    [
-      "AI content is everywhere on social media, especially LinkedIn",
-      "https://www.pangram.com/blog/ai-in-your-feed"
-    ]
-  ],
-  [
-    [
-      "2026-07-09, 15:30:15",
-      "https://news.ycombinator.com/item?id=48847577"
-    ],
-    [
-      "Show HN: Sighthound - open-source vulnerability scanner for source code",
-      "https://github.com/Corgea/Sighthound"
-    ]
-  ],
-  [
-    [
       "2026-07-09, 15:28:39",
       "https://news.ycombinator.com/item?id=48847562"
     ],
@@ -141,12 +141,12 @@
   ],
   [
     [
-      "2026-07-09, 14:50:01",
-      "https://news.ycombinator.com/item?id=48846842"
+      "2026-07-09, 14:20:14",
+      "https://news.ycombinator.com/item?id=48846332"
     ],
     [
-      "Why the Next Era of AI Is About Infrastructure, Not Just Models",
-      "https://blog.mozilla.ai/the-control-layer-why-the-next-era-of-ai-is-about-infrastructure-not-just-models/"
+      "SimPolitics: America’s quest to solve politics with computers",
+      "https://mitpress.mit.edu/9780262053198/simpolitics/"
     ]
   ],
   [
@@ -231,22 +231,22 @@
   ],
   [
     [
-      "2026-07-09, 02:23:24",
-      "https://news.ycombinator.com/item?id=48840207"
-    ],
-    [
-      "Show HN: I mapped 8.5M research papers into an interactive atlas",
-      "https://tomesphere.com/atlas"
-    ]
-  ],
-  [
-    [
       "2026-07-08, 19:35:07",
       "https://news.ycombinator.com/item?id=48836431"
     ],
     [
       "Almost Always Unsigned",
       "https://graphitemaster.github.io/aau/"
+    ]
+  ],
+  [
+    [
+      "2026-07-07, 14:14:36",
+      "https://news.ycombinator.com/item?id=48818192"
+    ],
+    [
+      "Distributed System Is Slower Than a Laptop",
+      "https://codegood.co/writing/your-distributed-system-is-slower-than-a-laptop"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=48792383"
     ],
     [
-      "Train SIM Created by Just One Person Is Being Called the Best Ever Made",
+      "Train sim created by just one person is being called the best ever made",
       "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429"
     ]
   ],
@@ -296,7 +296,7 @@
     ],
     [
       "Meta reuses old RAM in new servers with custom bridge chip",
-      "https://www.networkworld.com/article/4192827/meta-reuses-old-ram-in-new-servers-with-custom-bridge-chip.html"
+      "https://www.theregister.com/systems/2026/06/29/zuck-saves-meta-bucks-by-reusing-memory-from-old-servers-with-a-custom-cxl-asic/5263483"
     ]
   ]
 ]
