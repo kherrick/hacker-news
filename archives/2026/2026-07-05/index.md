@@ -81,6 +81,7 @@
 * [2026-07-05, 09:55:22](https://news.ycombinator.com/item?id=48792780) - [Scientist who cleaned space toilet on work now leading Mars exploration](https://www.bbc.com/news/articles/cz758x04g83o)
 * [2026-07-05, 09:00:58](https://news.ycombinator.com/item?id=48792483) - [Intuitive Quantum Electrodynamics](https://forwardscattering.org/page/Intuitive%20Quantum%20Electrodynamics)
 * [2026-07-05, 08:43:37](https://news.ycombinator.com/item?id=48792399) - [Claude Design System Prompt](https://github.com/Trystan-SA/claude-design-system-prompt)
+* [2026-07-05, 08:40:27](https://news.ycombinator.com/item?id=48792383) - [Train SIM Created by Just One Person Is Being Called the Best Ever Made](https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429)
 * [2026-07-05, 08:32:09](https://news.ycombinator.com/item?id=48792352) - [Apocketlypse](https://0dd.company/galleries/triumph/1.html)
 * [2026-07-05, 08:01:29](https://news.ycombinator.com/item?id=48792203) - [Web-based cryptography is always snake oil](https://www.devever.net/~hl/webcrypto)
 * [2026-07-05, 07:59:48](https://news.ycombinator.com/item?id=48792195) - [Knowledge Should Not Be Gated](https://www.formaly.io/blog/knowledge-should-not-be-gated)
