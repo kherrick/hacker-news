@@ -1,22 +1,62 @@
 [
   [
     [
+      "2026-07-10, 16:21:18",
+      "https://news.ycombinator.com/item?id=48862035"
+    ],
+    [
+      "Garnix Is Joining Shopify",
+      "https://garnix.io/blog/shutting-down/"
+    ]
+  ],
+  [
+    [
+      "2026-07-10, 15:59:53",
+      "https://news.ycombinator.com/item?id=48861717"
+    ],
+    [
+      "QuadRF can spot drones and see WiFi through my wall",
+      "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/"
+    ]
+  ],
+  [
+    [
+      "2026-07-10, 15:30:44",
+      "https://news.ycombinator.com/item?id=48861319"
+    ],
+    [
+      "A Love Letter to Flashcards",
+      "https://lesleylai.info/en/flashcards/"
+    ]
+  ],
+  [
+    [
+      "2026-07-10, 15:23:42",
+      "https://news.ycombinator.com/item?id=48861213"
+    ],
+    [
+      "Computation as a Universal and Fundamental Concept",
+      "https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept"
+    ]
+  ],
+  [
+    [
+      "2026-07-10, 13:45:05",
+      "https://news.ycombinator.com/item?id=48859835"
+    ],
+    [
+      "The Annotated JEPA",
+      "https://elonlit.com/scrivings/the-annotated-jepa/"
+    ]
+  ],
+  [
+    [
       "2026-07-10, 13:40:01",
       "https://news.ycombinator.com/item?id=48859784"
     ],
     [
       "ActivityPub over ATProto",
       "https://berjon.com/ap-at/"
-    ]
-  ],
-  [
-    [
-      "2026-07-10, 13:36:56",
-      "https://news.ycombinator.com/item?id=48859752"
-    ],
-    [
-      "Proton AG Services is currently experiencing some issues",
-      "https://status.proton.me/incidents/01lxtcq155lc"
     ]
   ],
   [
@@ -41,32 +81,12 @@
   ],
   [
     [
-      "2026-07-10, 13:30:19",
-      "https://news.ycombinator.com/item?id=48859671"
-    ],
-    [
-      "Punk, or why I don't stream anymore",
-      "https://geohot.github.io//blog/jekyll/update/2026/05/03/punk-or-why-i-dont-stream.html"
-    ]
-  ],
-  [
-    [
       "2026-07-10, 13:07:38",
       "https://news.ycombinator.com/item?id=48859387"
     ],
     [
       "Show HN: Runloom – Go-style coroutines for Python free-threaded",
       "https://github.com/robertsdotpm/runloom"
-    ]
-  ],
-  [
-    [
-      "2026-07-10, 12:59:49",
-      "https://news.ycombinator.com/item?id=48859298"
-    ],
-    [
-      "Europe's Largest Unions Demand Right to Cancel Work on Days Above 30C",
-      "https://novaramedia.com/2026/07/09/europes-largest-unions-demand-right-to-cancel-work-on-days-above-30c/"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2026-07-09, 20:51:06",
-      "https://news.ycombinator.com/item?id=48852199"
-    ],
-    [
-      "Building a real-time AI tutor for 5-year-olds",
-      "https://www.ello.com/blog/teaching-a-child-in-1000-ms"
-    ]
-  ],
-  [
-    [
       "2026-07-09, 20:37:43",
       "https://news.ycombinator.com/item?id=48852048"
     ],
@@ -201,26 +211,6 @@
   ],
   [
     [
-      "2026-07-09, 13:24:43",
-      "https://news.ycombinator.com/item?id=48845442"
-    ],
-    [
-      "The glass backbone: Why the Army's logistics will break in the next war",
-      "https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/"
-    ]
-  ],
-  [
-    [
-      "2026-07-09, 13:06:04",
-      "https://news.ycombinator.com/item?id=48845209"
-    ],
-    [
-      "A road to Lisp: Why Lisp",
-      "https://scotto.me/blog/2026-07-09-why-lisp/"
-    ]
-  ],
-  [
-    [
       "2026-07-09, 11:03:54",
       "https://news.ycombinator.com/item?id=48843923"
     ],
@@ -237,6 +227,16 @@
     [
       "Show HN: Getting GLM 5.2 running on my slow computer",
       "https://github.com/JustVugg/colibri"
+    ]
+  ],
+  [
+    [
+      "2026-07-06, 21:09:56",
+      "https://news.ycombinator.com/item?id=48810543"
+    ],
+    [
+      "Alternate Clock Designs and Time Systems",
+      "https://serialc.github.io/altClocks/"
     ]
   ],
   [
