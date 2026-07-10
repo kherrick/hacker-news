@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-07-10](index.md)
 
+* [2026-07-10, 21:20:29](https://news.ycombinator.com/item?id=48865431) - [Apple Sues OpenAI, Accusing It of Stealing Company Secrets](https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html)
 * [2026-07-10, 21:11:18](https://news.ycombinator.com/item?id=48865332) - [Moss (YC F25) Is Hiring](https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk)
+* [2026-07-10, 21:03:38](https://news.ycombinator.com/item?id=48865238) - [Prismata: Confining cross-site prompt injection in web agents](https://arxiv.org/abs/2607.08147)
 * [2026-07-10, 20:52:28](https://news.ycombinator.com/item?id=48865093) - [GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps](https://www.tryai.dev/blog/gpt-5.6-build-off-12-models)
+* [2026-07-10, 20:43:02](https://news.ycombinator.com/item?id=48864969) - [GhostLock, a stack-UAF that has existed in ALL Linux distributions for 15 years](https://nebusec.ai/research/ionstack-part-2/)
 * [2026-07-10, 20:29:55](https://news.ycombinator.com/item?id=48864825) - [Software Engineer's Firing Ruled Illegal in a Rare Win for a Tech Worker](https://www.nytimes.com/2026/07/10/business/atlassian-tech-worker-wrongful-termination.html)
 * [2026-07-10, 20:00:28](https://news.ycombinator.com/item?id=48864507) - [Don't discontinue Gemini 2.5 Flash](https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246)
 * [2026-07-10, 19:38:34](https://news.ycombinator.com/item?id=48864252) - [An Update on the scraper situation](https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/)
@@ -25,6 +28,7 @@
 * [2026-07-10, 16:06:38](https://news.ycombinator.com/item?id=48861833) - [Hands-On with the AMD Ryzen AI Halo](https://www.microcenter.com/site/mc-news/article/amd-ryzen-ai-halo-review.aspx)
 * [2026-07-10, 15:59:53](https://news.ycombinator.com/item?id=48861717) - [QuadRF can spot drones and see WiFi through my wall](https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/)
 * [2026-07-10, 15:30:44](https://news.ycombinator.com/item?id=48861319) - [A Love Letter to Flashcards](https://lesleylai.info/en/flashcards/)
+* [2026-07-10, 15:23:50](https://news.ycombinator.com/item?id=48861217) - [Show HN: SubjectiveZero, an open-source agentic node editor for creative coding](https://sxp.studio/apps/subz)
 * [2026-07-10, 15:23:42](https://news.ycombinator.com/item?id=48861213) - [Computation as a Universal and Fundamental Concept](https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept)
 * [2026-07-10, 13:45:05](https://news.ycombinator.com/item?id=48859835) - [The Annotated JEPA](https://elonlit.com/scrivings/the-annotated-jepa/)
 * [2026-07-10, 13:40:01](https://news.ycombinator.com/item?id=48859784) - [ActivityPub over ATProto](https://berjon.com/ap-at/)
