@@ -62,6 +62,7 @@
 * [2026-07-09, 12:40:03](https://news.ycombinator.com/item?id=48844956) - [Show HN: 92% of US city websites fail ADA accessibility](https://accesslumens.com/research/state-of-us-local-government-accessibility-2026)
 * [2026-07-09, 12:20:41](https://news.ycombinator.com/item?id=48844709) - [How Version Control Will Evolve for the Agent Boom](https://entire.io/blog/how-version-control-will-evolve-for-the-agent-boom)
 * [2026-07-09, 12:01:17](https://news.ycombinator.com/item?id=48844517) - [TrueBiz (YC S22) – Senior Software Engineer – Remote (US) – Full-Time](https://news.ycombinator.com/item?id=48844517)
+* [2026-07-09, 11:16:18](https://news.ycombinator.com/item?id=48844046) - [Show HN: Wyrm – Solve algebra by touch, built on an open-source soundness engine](https://github.com/dicroce/wyrm_math)
 * [2026-07-09, 11:03:54](https://news.ycombinator.com/item?id=48843923) - [EU Parliament greenlights Chat Control 1.0 – Breyer: \"Our children lose out\"](https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/)
 * [2026-07-09, 10:02:33](https://news.ycombinator.com/item?id=48843438) - [Bonnie Tyler, singer of Total Eclipse of the Heart, dies aged 75](https://www.bbc.com/news/articles/cg5pd9z2487o)
 * [2026-07-09, 09:47:28](https://news.ycombinator.com/item?id=48843352) - [My Thoughts on the Bun Rust Rewrite](https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html)

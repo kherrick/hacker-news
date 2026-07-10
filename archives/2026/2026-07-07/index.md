@@ -64,6 +64,7 @@
 * [2026-07-07, 08:54:03](https://news.ycombinator.com/item?id=48815196) - [Microsoft Can Track Users via a Windows Device ID](https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device)
 * [2026-07-07, 08:39:51](https://news.ycombinator.com/item?id=48815117) - [YC CEO says he ships 37K LoC AI code per day. A developer looked under the hood](https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media)
 * [2026-07-07, 08:12:12](https://news.ycombinator.com/item?id=48814952) - [Show HN: Fast, native Mac file manager (filters, fuzzy find, 9 MB, no Electron)](https://whimfiles.com)
+* [2026-07-07, 07:33:13](https://news.ycombinator.com/item?id=48814724) - [The Clouds of Hiroshima](https://doomsdaymachines.net/p/the-clouds-of-hiroshima)
 * [2026-07-07, 07:00:27](https://news.ycombinator.com/item?id=48814509) - [Lago (YC S21) Is Hiring for Our GTM Team](https://jobs.ashbyhq.com/lago)
 * [2026-07-07, 05:38:26](https://news.ycombinator.com/item?id=48814023) - [I Built the Only 2026 WWII Jeep](https://www.theautopian.com/i-bet-my-company-on-an-impossible-jeep-build-then-a-miracle-happened/)
 * [2026-07-07, 05:19:03](https://news.ycombinator.com/item?id=48813929) - [The Art of Computer Programming by Donald E. Knuth](https://www-cs-faculty.stanford.edu/~knuth/taocp.html)

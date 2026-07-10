@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-07-10](index.md)
 
+* [2026-07-10, 19:38:34](https://news.ycombinator.com/item?id=48864252) - [An Update on the scraper situation](https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/)
+* [2026-07-10, 19:30:12](https://news.ycombinator.com/item?id=48864158) - [Mayor Mamdani Announces Landmark \"Click-to-Cancel\" Consumer Protection Rules](https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani-announces-landmark--click-to-cancel--consumer-prot)
 * [2026-07-10, 19:03:36](https://news.ycombinator.com/item?id=48863849) - [Materials innovation has a scale-up problem, not discovery](https://www.atomscale.ai/updates/our-thesis-atom-to-scale)
 * [2026-07-10, 18:49:26](https://news.ycombinator.com/item?id=48863707) - [How the Terrorist Group Boko Haram Uses Frontier AI](https://casp.ac/reports/ai-enabled-terrorism)
+* [2026-07-10, 18:41:10](https://news.ycombinator.com/item?id=48863602) - [45% of Enthusiasts 'Seriously Considering' Leaving Sony for PC](https://www.pushsquare.com/news/2026/07/ps5-has-put-a-dampener-on-gaming-45percent-of-enthusiasts-seriously-considering-leaving-sony-for-pc)
 * [2026-07-10, 18:29:19](https://news.ycombinator.com/item?id=48863490) - [GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]](https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf)
 * [2026-07-10, 18:26:24](https://news.ycombinator.com/item?id=48863464) - [New York City to become first in US to ban deceptive subscription practices](https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban)
 * [2026-07-10, 17:52:48](https://news.ycombinator.com/item?id=48863080) - [War Atlas: An interactive cartography of every named war in human history](https://waratlas.org)
