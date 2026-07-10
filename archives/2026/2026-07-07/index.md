@@ -60,6 +60,7 @@
 * [2026-07-07, 12:00:44](https://news.ycombinator.com/item?id=48816533) - [9 Mothers (YC P26) Is Hiring in Austin, TX](https://9mothers.com/careers)
 * [2026-07-07, 10:47:33](https://news.ycombinator.com/item?id=48816003) - [Top researchers leave USA for the Netherlands (in Dutch)](https://www.nwo.nl/nieuws/eerste-internationale-wetenschappers-via-het-tulp-fonds-naar-nederland)
 * [2026-07-07, 10:42:59](https://news.ycombinator.com/item?id=48815982) - [Why migrants come to Germany for work and then leave again](https://www.dw.com/en/germany-migrants-skilled-workers-integration-labor-market-bureaucracy-language-housing/a-77853162)
+* [2026-07-07, 09:06:04](https://news.ycombinator.com/item?id=48815278) - [Let's Reinvent the Scroll Wheel](https://scrollpods.app/blog/lets-reinvent-the-scroll-wheel)
 * [2026-07-07, 08:54:03](https://news.ycombinator.com/item?id=48815196) - [Microsoft Can Track Users via a Windows Device ID](https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device)
 * [2026-07-07, 08:39:51](https://news.ycombinator.com/item?id=48815117) - [YC CEO says he ships 37K LoC AI code per day. A developer looked under the hood](https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media)
 * [2026-07-07, 08:12:12](https://news.ycombinator.com/item?id=48814952) - [Show HN: Fast, native Mac file manager (filters, fuzzy find, 9 MB, no Electron)](https://whimfiles.com)
