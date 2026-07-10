@@ -2,10 +2,11 @@
 
 * [2026-07-10, 00:17:36](https://news.ycombinator.com/item?id=48854224) - [Show HN: I built a free app for New Yorkers to save money on groceries](https://sbnyc.app/)
 * [2026-07-09, 22:15:56](https://news.ycombinator.com/item?id=48853091) - [Why American ambulance rides are so expensive](https://davidoks.blog/p/why-american-ambulance-rides-are)
+* [2026-07-09, 21:09:05](https://news.ycombinator.com/item?id=48852403) - [Show HN: Rubiks Cube Solver](https://speedcube.com.br/)
+* [2026-07-09, 20:51:06](https://news.ycombinator.com/item?id=48852199) - [Building a real-time AI tutor for 5-year-olds](https://www.ello.com/blog/teaching-a-child-in-1000-ms)
 * [2026-07-09, 18:29:41](https://news.ycombinator.com/item?id=48850414) - [GLM 5.2 is nearly as accurate as a human book keeper](https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark)
 * [2026-07-09, 17:17:16](https://news.ycombinator.com/item?id=48849292) - [Interview with Mitchell Hashimoto about Ghostty and Zig](https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/)
 * [2026-07-09, 17:04:14](https://news.ycombinator.com/item?id=48849066) - [GPT-5.6](https://openai.com/index/gpt-5-6/)
-* [2026-07-09, 17:03:53](https://news.ycombinator.com/item?id=48849059) - [ChatGPT Work](https://openai.com/index/chatgpt-for-your-most-ambitious-work/)
 * [2026-07-09, 17:00:37](https://news.ycombinator.com/item?id=48849011) - [Wildcard (YC W25) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/wildcard/jobs/ZSLVaaU-founding-engineer)
 * [2026-07-09, 15:50:09](https://news.ycombinator.com/item?id=48847940) - [AI content is everywhere on social media, especially LinkedIn](https://www.pangram.com/blog/ai-in-your-feed)
 * [2026-07-09, 15:28:39](https://news.ycombinator.com/item?id=48847562) - [Launch HN: Context.dev (YC S26) – API to get structured data from any website](https://www.context.dev)
@@ -28,7 +29,6 @@
 * [2026-07-06, 10:53:51](https://news.ycombinator.com/item?id=48803004) - [Buried Apple feature turns an iPhone into the perfect kids' dumb phone](https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/)
 * [2026-07-06, 05:26:22](https://news.ycombinator.com/item?id=48800930) - [Patterncollider: Generate and explore quasiperiodic tiling patterns](https://github.com/aatishb/patterncollider)
 * [2026-07-05, 08:40:27](https://news.ycombinator.com/item?id=48792383) - [Train sim created by just one person is being called the best ever made](https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429)
-* [2026-07-03, 19:27:05](https://news.ycombinator.com/item?id=48778956) - [Meta reuses old RAM in new servers with custom bridge chip](https://www.theregister.com/systems/2026/06/29/zuck-saves-meta-bucks-by-reusing-memory-from-old-servers-with-a-custom-cxl-asic/5263483)
 * [2026-07-02, 06:21:49](https://news.ycombinator.com/item?id=48757291) - [My Story of 3D Realms / Apogee Part I (2020)](https://joesiegler.blog/2020/11/my-story-of-apogee-3dr/)
 
 ## [Archives](archives/index.md)
