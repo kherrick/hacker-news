@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-10](index.md)
 
+* [2026-07-10, 19:03:36](https://news.ycombinator.com/item?id=48863849) - [Materials innovation has a scale-up problem, not discovery](https://www.atomscale.ai/updates/our-thesis-atom-to-scale)
+* [2026-07-10, 18:49:26](https://news.ycombinator.com/item?id=48863707) - [How the Terrorist Group Boko Haram Uses Frontier AI](https://casp.ac/reports/ai-enabled-terrorism)
 * [2026-07-10, 18:29:19](https://news.ycombinator.com/item?id=48863490) - [GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]](https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf)
 * [2026-07-10, 18:26:24](https://news.ycombinator.com/item?id=48863464) - [New York City to become first in US to ban deceptive subscription practices](https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban)
 * [2026-07-10, 17:52:48](https://news.ycombinator.com/item?id=48863080) - [War Atlas: An interactive cartography of every named war in human history](https://waratlas.org)
@@ -11,6 +13,7 @@
 * [2026-07-10, 16:57:35](https://news.ycombinator.com/item?id=48862467) - [Anyone else get a vague GitHub shakedown notice?](https://lists.osgeo.org/pipermail/qgis-developer/2026-July/068430.html)
 * [2026-07-10, 16:48:41](https://news.ycombinator.com/item?id=48862365) - [The tech of 'Terminator 2' – an oral history (2017)](https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/)
 * [2026-07-10, 16:37:52](https://news.ycombinator.com/item?id=48862252) - [Snails' Teeth Beats Spider Silk as Nature's Strongest Material](https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/)
+* [2026-07-10, 16:24:20](https://news.ycombinator.com/item?id=48862086) - [Cpp2Rust: Translates C++ to safe Rust automatically](https://github.com/Cpp2Rust/cpp2rust)
 * [2026-07-10, 16:21:18](https://news.ycombinator.com/item?id=48862035) - [Garnix Is Joining Shopify](https://garnix.io/blog/shutting-down/)
 * [2026-07-10, 16:06:38](https://news.ycombinator.com/item?id=48861833) - [Hands-On with the AMD Ryzen AI Halo](https://www.microcenter.com/site/mc-news/article/amd-ryzen-ai-halo-review.aspx)
 * [2026-07-10, 15:59:53](https://news.ycombinator.com/item?id=48861717) - [QuadRF can spot drones and see WiFi through my wall](https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/)
