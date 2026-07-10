@@ -2,8 +2,6 @@
 
 * [2026-07-10, 02:39:07](https://news.ycombinator.com/item?id=48855112) - [Ben Bernanke Joins Anthropic Oversight Trust](https://www.anthropic.com/news/ben-bernanke)
 * [2026-07-10, 01:28:43](https://news.ycombinator.com/item?id=48854681) - [Build your own vulnerability harness](https://blog.cloudflare.com/build-your-own-vulnerability-harness/)
-* [2026-07-10, 01:20:16](https://news.ycombinator.com/item?id=48854638) - [Star Just Ate a Planet, and It's Not Done Yet](https://www.nytimes.com/2026/07/09/science/space/planetary-engulfment-hungry-star.html)
-* [2026-07-10, 00:40:33](https://news.ycombinator.com/item?id=48854363) - [Focus](https://boz.com/articles/focus)
 * [2026-07-10, 00:20:28](https://news.ycombinator.com/item?id=48854247) - [Study: \"Mommy, do you love your phone more than me?\"](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full)
 * [2026-07-09, 22:15:56](https://news.ycombinator.com/item?id=48853091) - [Why American ambulance rides are so expensive](https://davidoks.blog/p/why-american-ambulance-rides-are)
 * [2026-07-09, 20:51:06](https://news.ycombinator.com/item?id=48852199) - [Building a real-time AI tutor for 5-year-olds](https://www.ello.com/blog/teaching-a-child-in-1000-ms)
@@ -21,7 +19,9 @@
 * [2026-07-09, 11:03:54](https://news.ycombinator.com/item?id=48843923) - [EU Parliament greenlights Chat Control 1.0](https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/)
 * [2026-07-09, 08:05:04](https://news.ycombinator.com/item?id=48842459) - [Show HN: Getting GLM 5.2 running on my slow computer](https://github.com/JustVugg/colibri)
 * [2026-07-09, 06:18:19](https://news.ycombinator.com/item?id=48841676) - [Postgres rewritten in Rust, now passing 100% of the Postgres regression tests](https://github.com/malisper/pgrust)
+* [2026-07-08, 15:48:15](https://news.ycombinator.com/item?id=48833488) - [What Big Food Did to Ice Cream](https://medium.com/@dapscience/the-encrapification-of-store-bought-ice-cream-2da2d58ee0b9)
 * [2026-07-07, 03:01:03](https://news.ycombinator.com/item?id=48813214) - [Cache-Conscious Data Layout in Rust: Field Zoning, False Sharing, 128-Byte Rule](https://debasishg.github.io/blog/part1-cache-conscious-data-layout-in-rust/)
+* [2026-07-06, 20:40:14](https://news.ycombinator.com/item?id=48810218) - [Common prefix skipping, adaptive sort](http://smalldatum.blogspot.com/2026/01/common-prefix-skipping-adaptive-sort.html)
 * [2026-07-06, 19:46:30](https://news.ycombinator.com/item?id=48809574) - [Girls just wanna have fast MPMC queues with bounded waiting](https://nahla.dev/blog/waitfree_queue/)
 * [2026-07-06, 15:45:50](https://news.ycombinator.com/item?id=48806305) - [Life with Hazard Ratios](https://dynomight.net/hazard-ratios/)
 * [2026-07-06, 14:59:21](https://news.ycombinator.com/item?id=48805598) - [Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future](https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/)

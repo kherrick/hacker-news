@@ -19,6 +19,7 @@
 * [2026-07-06, 21:09:23](https://news.ycombinator.com/item?id=48810533) - [AI: The ROI Runway Could Be Long Outside the Tech Sector](https://www.apollo.com/wealth/insights-news/insights/daily-spark/ai-the-roi-runway-could-be-long-outside-the-tech-sector)
 * [2026-07-06, 21:06:24](https://news.ycombinator.com/item?id=48810501) - [Taiganet.com, Home of the WS4000 Simulator](https://www.taiganet.com/)
 * [2026-07-06, 20:59:54](https://news.ycombinator.com/item?id=48810439) - [Learning to code is still worthwhile](https://stevekrouse.com/learn-to-code)
+* [2026-07-06, 20:40:14](https://news.ycombinator.com/item?id=48810218) - [Common prefix skipping, adaptive sort](http://smalldatum.blogspot.com/2026/01/common-prefix-skipping-adaptive-sort.html)
 * [2026-07-06, 20:14:55](https://news.ycombinator.com/item?id=48809877) - [GLM 5.2 and the coming AI margin collapse](https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/)
 * [2026-07-06, 20:08:46](https://news.ycombinator.com/item?id=48809810) - [M/PC – A Concatenative OS](https://wiki.xxiivv.com/site/m_pc.html)
 * [2026-07-06, 20:08:33](https://news.ycombinator.com/item?id=48809808) - [Poison, redzones and shadows: inside KASAN](https://bootlin.com/blog/poison-redzones-and-shadows-inside-kasan/)
