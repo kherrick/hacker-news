@@ -35,6 +35,7 @@
 * [2026-07-06, 17:44:08](https://news.ycombinator.com/item?id=48808002) - [A global workspace in language models](https://www.anthropic.com/research/global-workspace)
 * [2026-07-06, 17:35:03](https://news.ycombinator.com/item?id=48807908) - [Januscape: Guest-to-Host Escape in KVM/x86 [CVE-2026-53359]](https://github.com/V4bel/Januscape)
 * [2026-07-06, 17:33:38](https://news.ycombinator.com/item?id=48807884) - [Fable Built a 3D Model of Aristotle's Cognitive Architecture](https://conceptual-spaces.vercel.app)
+* [2026-07-06, 17:18:15](https://news.ycombinator.com/item?id=48807673) - [Damaged Earth Catalog](https://damaged.bleu255.com/)
 * [2026-07-06, 17:16:41](https://news.ycombinator.com/item?id=48807651) - [Big Tech Has Suddenly Flipped on the AI Jobs Wipeout Scenario](https://www.wsj.com/tech/ai/ai-workers-tech-ceos-job-losses-afc71e15)
 * [2026-07-06, 16:58:51](https://news.ycombinator.com/item?id=48807383) - [The Supreme Court Just Lit a Fuse Under Flock's License Plate Camera Empire](https://www.yahoo.com/news/politics/articles/supreme-court-just-lit-fuse-130900307.html)
 * [2026-07-06, 16:47:44](https://news.ycombinator.com/item?id=48807225) - [OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files](https://github.com/iOfficeAI/OfficeCLI)
