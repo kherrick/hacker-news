@@ -17,6 +17,7 @@
 * [2026-07-09, 17:36:30](https://news.ycombinator.com/item?id=48849618) - [Show HN: I built a web tool to see and edit what an AI thinks before it answers](https://lucid.earthpilot.ai)
 * [2026-07-09, 17:17:16](https://news.ycombinator.com/item?id=48849292) - [Interview with Mitchell Hashimoto about Ghostty and Zig](https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/)
 * [2026-07-09, 17:15:47](https://news.ycombinator.com/item?id=48849258) - [How should group chats work in decentralized systems?](https://marindedic.com/groups/)
+* [2026-07-09, 17:05:06](https://news.ycombinator.com/item?id=48849079) - [Postgres locks do not scale](https://www.recall.ai/blog/postgres-locks-do-not-scale)
 * [2026-07-09, 17:04:14](https://news.ycombinator.com/item?id=48849066) - [GPT-5.6](https://openai.com/index/gpt-5-6/)
 * [2026-07-09, 17:03:53](https://news.ycombinator.com/item?id=48849059) - [ChatGPT Work](https://openai.com/index/chatgpt-for-your-most-ambitious-work/)
 * [2026-07-09, 17:00:37](https://news.ycombinator.com/item?id=48849011) - [Wildcard (YC W25) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/wildcard/jobs/ZSLVaaU-founding-engineer)
