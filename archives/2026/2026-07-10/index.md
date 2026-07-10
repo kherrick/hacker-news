@@ -6,6 +6,7 @@
 
 * [2026-07-10, 21:11:18](https://news.ycombinator.com/item?id=48865332) - [Moss (YC F25) Is Hiring](https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk)
 * [2026-07-10, 20:52:28](https://news.ycombinator.com/item?id=48865093) - [GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps](https://www.tryai.dev/blog/gpt-5.6-build-off-12-models)
+* [2026-07-10, 20:29:55](https://news.ycombinator.com/item?id=48864825) - [Software Engineer's Firing Ruled Illegal in a Rare Win for a Tech Worker](https://www.nytimes.com/2026/07/10/business/atlassian-tech-worker-wrongful-termination.html)
 * [2026-07-10, 20:00:28](https://news.ycombinator.com/item?id=48864507) - [Don't discontinue Gemini 2.5 Flash](https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246)
 * [2026-07-10, 19:38:34](https://news.ycombinator.com/item?id=48864252) - [An Update on the scraper situation](https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/)
 * [2026-07-10, 19:30:12](https://news.ycombinator.com/item?id=48864158) - [Mayor Mamdani Announces Landmark \"Click-to-Cancel\" Consumer Protection Rules](https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani-announces-landmark--click-to-cancel--consumer-prot)
