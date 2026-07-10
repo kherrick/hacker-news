@@ -43,6 +43,7 @@
 * [2026-07-05, 17:27:46](https://news.ycombinator.com/item?id=48796049) - [Taphonomic analysis reveals behavioral & tech capabilities of Homo floresiensis](https://www.science.org/doi/10.1126/sciadv.aeb7219)
 * [2026-07-05, 17:21:48](https://news.ycombinator.com/item?id=48795986) - [Neoengineers](https://elijahpotter.dev/articles/neoengineers)
 * [2026-07-05, 17:16:00](https://news.ycombinator.com/item?id=48795939) - [Falling fertility on the left as key driver of US birth decline](https://www.nature.com/articles/s41598-026-57582-3)
+* [2026-07-05, 17:11:38](https://news.ycombinator.com/item?id=48795900) - [Combustion Engine Web-Based Simulator](https://combustionlab.net)
 * [2026-07-05, 17:05:57](https://news.ycombinator.com/item?id=48795830) - [\"These cameras are just like the Eye of Sauron\"](https://arxiv.org/abs/2602.09239)
 * [2026-07-05, 17:05:35](https://news.ycombinator.com/item?id=48795826) - [Mark Zuckerberg tells staff that AI agents haven't progressed enough](https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/)
 * [2026-07-05, 16:39:40](https://news.ycombinator.com/item?id=48795591) - [Patching MechCommander's \"left arm bug\" for fun and profit](https://mhloppy.com/2026/05/mechcommander-weapons-left-arm-bug-fix/)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-10](index.md)
 
+* [2026-07-10, 17:52:48](https://news.ycombinator.com/item?id=48863080) - [War Atlas: An interactive cartography of every named war in human history](https://waratlas.org)
+* [2026-07-10, 17:51:07](https://news.ycombinator.com/item?id=48863064) - [SpaceX wants to launch 100k more Starlink satellites – for 100x the bandwidth](https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/)
 * [2026-07-10, 16:57:35](https://news.ycombinator.com/item?id=48862467) - [Anyone else get a vague GitHub shakedown notice?](https://lists.osgeo.org/pipermail/qgis-developer/2026-July/068430.html)
 * [2026-07-10, 16:48:41](https://news.ycombinator.com/item?id=48862365) - [The tech of 'Terminator 2' – an oral history (2017)](https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/)
 * [2026-07-10, 16:37:52](https://news.ycombinator.com/item?id=48862252) - [Snails' Teeth Beats Spider Silk as Nature's Strongest Material](https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/)
