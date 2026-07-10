@@ -16,6 +16,7 @@
 * [2026-07-06, 22:09:36](https://news.ycombinator.com/item?id=48811147) - [How little exercise can you get away with?](https://www.economist.com/science-and-technology/2026/07/03/how-little-exercise-can-you-get-away-with)
 * [2026-07-06, 22:02:24](https://news.ycombinator.com/item?id=48811081) - [Full Writeup of the Windows GDID](https://github.com/SmtimesIWndr/gdid-reversal)
 * [2026-07-06, 21:39:04](https://news.ycombinator.com/item?id=48810841) - [Titan's Resources and Their Utilization](https://arxiv.org/abs/2606.06608)
+* [2026-07-06, 21:09:56](https://news.ycombinator.com/item?id=48810543) - [Alternate Clock Designs and Time Systems](https://serialc.github.io/altClocks/)
 * [2026-07-06, 21:09:23](https://news.ycombinator.com/item?id=48810533) - [AI: The ROI Runway Could Be Long Outside the Tech Sector](https://www.apollo.com/wealth/insights-news/insights/daily-spark/ai-the-roi-runway-could-be-long-outside-the-tech-sector)
 * [2026-07-06, 21:06:24](https://news.ycombinator.com/item?id=48810501) - [Taiganet.com, Home of the WS4000 Simulator](https://www.taiganet.com/)
 * [2026-07-06, 20:59:54](https://news.ycombinator.com/item?id=48810439) - [Learning to code is still worthwhile](https://stevekrouse.com/learn-to-code)

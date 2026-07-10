@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-07-10](index.md)
 
+* [2026-07-10, 16:21:18](https://news.ycombinator.com/item?id=48862035) - [Garnix Is Joining Shopify](https://garnix.io/blog/shutting-down/)
+* [2026-07-10, 15:59:53](https://news.ycombinator.com/item?id=48861717) - [QuadRF can spot drones and see WiFi through my wall](https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/)
+* [2026-07-10, 15:30:44](https://news.ycombinator.com/item?id=48861319) - [A Love Letter to Flashcards](https://lesleylai.info/en/flashcards/)
+* [2026-07-10, 15:23:42](https://news.ycombinator.com/item?id=48861213) - [Computation as a Universal and Fundamental Concept](https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept)
+* [2026-07-10, 13:45:05](https://news.ycombinator.com/item?id=48859835) - [The Annotated JEPA](https://elonlit.com/scrivings/the-annotated-jepa/)
 * [2026-07-10, 13:40:01](https://news.ycombinator.com/item?id=48859784) - [ActivityPub over ATProto](https://berjon.com/ap-at/)
 * [2026-07-10, 13:36:56](https://news.ycombinator.com/item?id=48859752) - [Proton AG Services is currently experiencing some issues](https://status.proton.me/incidents/01lxtcq155lc)
 * [2026-07-10, 13:33:00](https://news.ycombinator.com/item?id=48859701) - [Write code like a human will maintain it](https://unstack.io/write-code-like-a-human-will-maintain-it)
