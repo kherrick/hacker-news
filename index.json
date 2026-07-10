@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-10, 21:11:18",
+      "https://news.ycombinator.com/item?id=48865332"
+    ],
+    [
+      "Moss (YC F25) Is Hiring",
+      "https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk"
+    ]
+  ],
+  [
+    [
+      "2026-07-10, 20:52:28",
+      "https://news.ycombinator.com/item?id=48865093"
+    ],
+    [
+      "GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
+      "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models"
+    ]
+  ],
+  [
+    [
       "2026-07-10, 20:00:28",
       "https://news.ycombinator.com/item?id=48864507"
     ],
@@ -17,16 +37,6 @@
     [
       "An Update on the scraper situation",
       "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/"
-    ]
-  ],
-  [
-    [
-      "2026-07-10, 19:30:12",
-      "https://news.ycombinator.com/item?id=48864158"
-    ],
-    [
-      "Mayor Mamdani Announces Landmark \"Click-to-Cancel\" Consumer Protection Rules",
-      "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani-announces-landmark--click-to-cancel--consumer-prot"
     ]
   ],
   [
@@ -111,6 +121,16 @@
   ],
   [
     [
+      "2026-07-10, 16:24:20",
+      "https://news.ycombinator.com/item?id=48862086"
+    ],
+    [
+      "Cpp2Rust: Translates C++ to safe Rust automatically",
+      "https://github.com/Cpp2Rust/cpp2rust"
+    ]
+  ],
+  [
+    [
       "2026-07-10, 16:06:38",
       "https://news.ycombinator.com/item?id=48861833"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2026-07-10, 12:00:36",
-      "https://news.ycombinator.com/item?id=48858745"
-    ],
-    [
-      "Laylo (YC S20) Is Hiring a Head of Finance",
-      "https://www.ycombinator.com/companies/laylo/jobs/qce41D2-head-of-finance"
-    ]
-  ],
-  [
-    [
       "2026-07-10, 11:59:55",
       "https://news.ycombinator.com/item?id=48858737"
     ],
@@ -197,16 +207,6 @@
     [
       "Good Tools Are Invisible",
       "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/"
-    ]
-  ],
-  [
-    [
-      "2026-07-10, 08:21:10",
-      "https://news.ycombinator.com/item?id=48857230"
-    ],
-    [
-      "In Emacs, Everything Looks Like a Service",
-      "http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html"
     ]
   ],
   [
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2026-07-06, 21:09:56",
-      "https://news.ycombinator.com/item?id=48810543"
+      "2026-07-07, 06:59:27",
+      "https://news.ycombinator.com/item?id=48814503"
     ],
     [
-      "Alternate Clock Designs and Time Systems",
-      "https://serialc.github.io/altClocks/"
+      "Why We Don't Trust the Database with Authentication",
+      "https://blog.sturdystatistics.com/posts/api_keys/"
     ]
   ],
   [
