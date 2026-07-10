@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-10, 02:39:07",
+      "https://news.ycombinator.com/item?id=48855112"
+    ],
+    [
+      "Ben Bernanke Joins Anthropic Oversight Trust",
+      "https://www.anthropic.com/news/ben-bernanke"
+    ]
+  ],
+  [
+    [
       "2026-07-10, 01:28:43",
       "https://news.ycombinator.com/item?id=48854681"
     ],
@@ -31,6 +41,16 @@
   ],
   [
     [
+      "2026-07-10, 00:20:28",
+      "https://news.ycombinator.com/item?id=48854247"
+    ],
+    [
+      "Study: \"Mommy, do you love your phone more than me?\"",
+      "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full"
+    ]
+  ],
+  [
+    [
       "2026-07-09, 22:15:56",
       "https://news.ycombinator.com/item?id=48853091"
     ],
@@ -47,16 +67,6 @@
     [
       "Building a real-time AI tutor for 5-year-olds",
       "https://www.ello.com/blog/teaching-a-child-in-1000-ms"
-    ]
-  ],
-  [
-    [
-      "2026-07-09, 18:29:41",
-      "https://news.ycombinator.com/item?id=48850414"
-    ],
-    [
-      "GLM 5.2 is nearly as accurate as a human book keeper",
-      "https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark"
     ]
   ],
   [
@@ -91,16 +101,6 @@
   ],
   [
     [
-      "2026-07-09, 15:50:09",
-      "https://news.ycombinator.com/item?id=48847940"
-    ],
-    [
-      "AI content is everywhere on social media, especially LinkedIn",
-      "https://www.pangram.com/blog/ai-in-your-feed"
-    ]
-  ],
-  [
-    [
       "2026-07-09, 15:28:39",
       "https://news.ycombinator.com/item?id=48847562"
     ],
@@ -127,26 +127,6 @@
     [
       "A possible future for Damn Interesting",
       "https://www.damninteresting.com/a-possible-future/"
-    ]
-  ],
-  [
-    [
-      "2026-07-09, 15:19:33",
-      "https://news.ycombinator.com/item?id=48847407"
-    ],
-    [
-      "Opinionated and easy Pi.dev configuration",
-      "https://lazypi.org/"
-    ]
-  ],
-  [
-    [
-      "2026-07-09, 14:20:14",
-      "https://news.ycombinator.com/item?id=48846332"
-    ],
-    [
-      "SimPolitics: America’s quest to solve politics with computers",
-      "https://mitpress.mit.edu/9780262053198/simpolitics/"
     ]
   ],
   [
@@ -247,6 +227,26 @@
     [
       "Girls just wanna have fast MPMC queues with bounded waiting",
       "https://nahla.dev/blog/waitfree_queue/"
+    ]
+  ],
+  [
+    [
+      "2026-07-06, 15:45:50",
+      "https://news.ycombinator.com/item?id=48806305"
+    ],
+    [
+      "Life with Hazard Ratios",
+      "https://dynomight.net/hazard-ratios/"
+    ]
+  ],
+  [
+    [
+      "2026-07-06, 14:59:21",
+      "https://news.ycombinator.com/item?id=48805598"
+    ],
+    [
+      "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
+      "https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/"
     ]
   ],
   [
