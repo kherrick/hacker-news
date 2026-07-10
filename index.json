@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-10, 19:03:36",
+      "https://news.ycombinator.com/item?id=48863849"
+    ],
+    [
+      "Materials innovation has a scale-up problem, not discovery",
+      "https://www.atomscale.ai/updates/our-thesis-atom-to-scale"
+    ]
+  ],
+  [
+    [
+      "2026-07-10, 18:49:26",
+      "https://news.ycombinator.com/item?id=48863707"
+    ],
+    [
+      "How the Terrorist Group Boko Haram Uses Frontier AI",
+      "https://casp.ac/reports/ai-enabled-terrorism"
+    ]
+  ],
+  [
+    [
       "2026-07-10, 18:29:19",
       "https://news.ycombinator.com/item?id=48863490"
     ],
@@ -51,6 +71,16 @@
   ],
   [
     [
+      "2026-07-10, 16:24:20",
+      "https://news.ycombinator.com/item?id=48862086"
+    ],
+    [
+      "Cpp2Rust: Translates C++ to safe Rust automatically",
+      "https://github.com/Cpp2Rust/cpp2rust"
+    ]
+  ],
+  [
+    [
       "2026-07-10, 16:06:38",
       "https://news.ycombinator.com/item?id=48861833"
     ],
@@ -77,16 +107,6 @@
     [
       "A Love Letter to Flashcards",
       "https://lesleylai.info/en/flashcards/"
-    ]
-  ],
-  [
-    [
-      "2026-07-10, 15:23:42",
-      "https://news.ycombinator.com/item?id=48861213"
-    ],
-    [
-      "Computation as a Universal and Fundamental Concept",
-      "https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2026-07-09, 17:04:14",
-      "https://news.ycombinator.com/item?id=48849066"
-    ],
-    [
-      "GPT-5.6",
-      "https://openai.com/index/gpt-5-6/"
-    ]
-  ],
-  [
-    [
       "2026-07-09, 15:45:17",
       "https://news.ycombinator.com/item?id=48847834"
     ],
@@ -257,16 +267,6 @@
     [
       "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
       "https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/"
-    ]
-  ],
-  [
-    [
-      "2026-07-06, 14:42:04",
-      "https://news.ycombinator.com/item?id=48805342"
-    ],
-    [
-      "Ditching Vagrant: VMs with KVM and Virsh on Debian",
-      "https://benjamintoll.com/2026/06/29/on-ditching-vagrant/"
     ]
   ],
   [
