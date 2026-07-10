@@ -1,12 +1,72 @@
 [
   [
     [
-      "2026-07-10, 13:11:30",
-      "https://news.ycombinator.com/item?id=48859439"
+      "2026-07-10, 13:40:01",
+      "https://news.ycombinator.com/item?id=48859784"
     ],
     [
-      "How do you use Vim in the era of AI?",
-      "https://news.ycombinator.com/item?id=48859439"
+      "ActivityPub over ATProto",
+      "https://berjon.com/ap-at/"
+    ]
+  ],
+  [
+    [
+      "2026-07-10, 13:36:56",
+      "https://news.ycombinator.com/item?id=48859752"
+    ],
+    [
+      "Proton AG Services is currently experiencing some issues",
+      "https://status.proton.me/incidents/01lxtcq155lc"
+    ]
+  ],
+  [
+    [
+      "2026-07-10, 13:33:00",
+      "https://news.ycombinator.com/item?id=48859701"
+    ],
+    [
+      "Write code like a human will maintain it",
+      "https://unstack.io/write-code-like-a-human-will-maintain-it"
+    ]
+  ],
+  [
+    [
+      "2026-07-10, 13:31:08",
+      "https://news.ycombinator.com/item?id=48859678"
+    ],
+    [
+      "Successful Companies Go Blind",
+      "https://ianreppel.org/how-successful-companies-go-blind/"
+    ]
+  ],
+  [
+    [
+      "2026-07-10, 13:30:41",
+      "https://news.ycombinator.com/item?id=48859673"
+    ],
+    [
+      "Scarf has moved away from Haskell",
+      "https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-10, 13:30:19",
+      "https://news.ycombinator.com/item?id=48859671"
+    ],
+    [
+      "Punk, or why I don't stream anymore",
+      "https://geohot.github.io//blog/jekyll/update/2026/05/03/punk-or-why-i-dont-stream.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-10, 13:07:38",
+      "https://news.ycombinator.com/item?id=48859387"
+    ],
+    [
+      "Show HN: Runloom – Go-style coroutines for Python free-threaded",
+      "https://github.com/robertsdotpm/runloom"
     ]
   ],
   [
@@ -51,22 +111,22 @@
   ],
   [
     [
+      "2026-07-10, 10:40:26",
+      "https://news.ycombinator.com/item?id=48858171"
+    ],
+    [
+      "Unified Memory, Explained: Why Mini PCs Can Run 70B Models a Big GPU Can't",
+      "https://vettedconsumer.com/unified-memory-explained-why-mini-pcs-can-run-70b-models-a-big-gpu-cant-and-where-they-slow-down/"
+    ]
+  ],
+  [
+    [
       "2026-07-10, 10:32:41",
       "https://news.ycombinator.com/item?id=48858121"
     ],
     [
       "Good Tools Are Invisible",
       "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/"
-    ]
-  ],
-  [
-    [
-      "2026-07-10, 10:08:49",
-      "https://news.ycombinator.com/item?id=48857962"
-    ],
-    [
-      "Java 27: What's New?",
-      "https://www.loicmathieu.fr/wordpress/informatique/java-27-whats-new/"
     ]
   ],
   [
@@ -87,16 +147,6 @@
     [
       "AI-generated videos to maximally drive a target brain region",
       "https://nevo-project.epfl.ch/"
-    ]
-  ],
-  [
-    [
-      "2026-07-10, 00:20:28",
-      "https://news.ycombinator.com/item?id=48854247"
-    ],
-    [
-      "Parental device use and the adolescent-caregiver attachment bond",
-      "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full"
     ]
   ],
   [
@@ -131,16 +181,6 @@
   ],
   [
     [
-      "2026-07-09, 15:28:39",
-      "https://news.ycombinator.com/item?id=48847562"
-    ],
-    [
-      "Launch HN: Context.dev (YC S26) – API to get structured data from any website",
-      "https://www.context.dev"
-    ]
-  ],
-  [
-    [
       "2026-07-09, 15:27:48",
       "https://news.ycombinator.com/item?id=48847552"
     ],
@@ -151,32 +191,12 @@
   ],
   [
     [
-      "2026-07-09, 15:25:25",
-      "https://news.ycombinator.com/item?id=48847511"
-    ],
-    [
-      "A possible future for Damn Interesting",
-      "https://www.damninteresting.com/a-possible-future/"
-    ]
-  ],
-  [
-    [
       "2026-07-09, 14:16:34",
       "https://news.ycombinator.com/item?id=48846281"
     ],
     [
       "No leap second will be introduced at the end of December 2026",
       "https://datacenter.iers.org/data/latestVersion/bulletinC.txt"
-    ]
-  ],
-  [
-    [
-      "2026-07-09, 14:10:22",
-      "https://news.ycombinator.com/item?id=48846184"
-    ],
-    [
-      "Muse Spark 1.1",
-      "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/"
     ]
   ],
   [
@@ -231,36 +251,6 @@
   ],
   [
     [
-      "2026-07-09, 06:18:19",
-      "https://news.ycombinator.com/item?id=48841676"
-    ],
-    [
-      "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
-      "https://github.com/malisper/pgrust"
-    ]
-  ],
-  [
-    [
-      "2026-07-06, 20:40:14",
-      "https://news.ycombinator.com/item?id=48810218"
-    ],
-    [
-      "Common prefix skipping, adaptive sort",
-      "http://smalldatum.blogspot.com/2026/01/common-prefix-skipping-adaptive-sort.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-06, 19:46:30",
-      "https://news.ycombinator.com/item?id=48809574"
-    ],
-    [
-      "Girls just wanna have fast MPMC queues with bounded waiting",
-      "https://nahla.dev/blog/waitfree_queue/"
-    ]
-  ],
-  [
-    [
       "2026-07-06, 14:59:21",
       "https://news.ycombinator.com/item?id=48805598"
     ],
@@ -287,6 +277,16 @@
     [
       "Train sim created by just one person is being called the best ever made",
       "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429"
+    ]
+  ],
+  [
+    [
+      "2026-07-05, 02:23:49",
+      "https://news.ycombinator.com/item?id=48790791"
+    ],
+    [
+      "Ancient Coins: What About Spartan Coins?",
+      "https://coinweek.com/ancient-spartan-coins/"
     ]
   ],
   [
