@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-10, 08:21:10",
+      "https://news.ycombinator.com/item?id=48857230"
+    ],
+    [
+      "In Emacs, Everything Looks Like a Service",
+      "http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html"
+    ]
+  ],
+  [
+    [
       "2026-07-10, 07:39:11",
       "https://news.ycombinator.com/item?id=48856904"
     ],
@@ -17,6 +27,16 @@
     [
       "Build your own vulnerability harness",
       "https://blog.cloudflare.com/build-your-own-vulnerability-harness/"
+    ]
+  ],
+  [
+    [
+      "2026-07-10, 00:20:28",
+      "https://news.ycombinator.com/item?id=48854247"
+    ],
+    [
+      "Parental device use and the adolescent-caregiver attachment bond",
+      "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full"
     ]
   ],
   [
@@ -91,12 +111,12 @@
   ],
   [
     [
-      "2026-07-09, 14:20:14",
-      "https://news.ycombinator.com/item?id=48846332"
+      "2026-07-09, 14:57:02",
+      "https://news.ycombinator.com/item?id=48846995"
     ],
     [
-      "SimPolitics: America’s quest to solve politics with computers",
-      "https://mitpress.mit.edu/9780262053198/simpolitics/"
+      "TLS certificates for internal services done right",
+      "https://tuxnet.dev/posts/tls-for-internal-services/"
     ]
   ],
   [
@@ -181,22 +201,12 @@
   ],
   [
     [
-      "2026-07-08, 23:37:43",
-      "https://news.ycombinator.com/item?id=48838876"
+      "2026-07-08, 14:12:19",
+      "https://news.ycombinator.com/item?id=48832247"
     ],
     [
-      "John Deere owners will get the right to repair equipment under FTC settlement",
-      "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02"
-    ]
-  ],
-  [
-    [
-      "2026-07-07, 03:01:03",
-      "https://news.ycombinator.com/item?id=48813214"
-    ],
-    [
-      "Cache-Conscious Data Layout in Rust: Field Zoning, False Sharing, 128-Byte Rule",
-      "https://debasishg.github.io/blog/part1-cache-conscious-data-layout-in-rust/"
+      "Tiny Tapeout Explorer: WASM FET-level circuit SIM&vis",
+      "https://znah.net/tiny_explorer/"
     ]
   ],
   [
@@ -241,6 +251,16 @@
   ],
   [
     [
+      "2026-07-06, 14:59:21",
+      "https://news.ycombinator.com/item?id=48805598"
+    ],
+    [
+      "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
+      "https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/"
+    ]
+  ],
+  [
+    [
       "2026-07-06, 14:42:35",
       "https://news.ycombinator.com/item?id=48805358"
     ],
@@ -257,26 +277,6 @@
     [
       "Triple Dragon Fractal (2020)",
       "https://paulbourke.net/fractals/tripledragon/"
-    ]
-  ],
-  [
-    [
-      "2026-07-06, 10:53:51",
-      "https://news.ycombinator.com/item?id=48803004"
-    ],
-    [
-      "Buried Apple feature turns an iPhone into the perfect kids' dumb phone",
-      "https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/"
-    ]
-  ],
-  [
-    [
-      "2026-07-06, 05:26:22",
-      "https://news.ycombinator.com/item?id=48800930"
-    ],
-    [
-      "Patterncollider: Generate and explore quasiperiodic tiling patterns",
-      "https://github.com/aatishb/patterncollider"
     ]
   ],
   [
