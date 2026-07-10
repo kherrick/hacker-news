@@ -107,6 +107,7 @@
 * [2026-07-05, 02:57:52](https://news.ycombinator.com/item?id=48790913) - [University of Oxford Is Older Than the Aztec Empire and Other Facts of History (2013)](https://www.smithsonianmag.com/smart-news/university-oxford-older-than-aztec-empire-other-facts-will-change-your-perspective-history-1529607/)
 * [2026-07-05, 02:57:38](https://news.ycombinator.com/item?id=48790912) - [The Log Is the Agent](https://arxiv.org/abs/2605.21997)
 * [2026-07-05, 02:54:13](https://news.ycombinator.com/item?id=48790898) - [Backon – Python retry (zero deps, circuit breaker, async native)](https://github.com/Llucs/backon)
+* [2026-07-05, 02:23:49](https://news.ycombinator.com/item?id=48790791) - [Ancient Coins: What About Spartan Coins?](https://coinweek.com/ancient-spartan-coins/)
 * [2026-07-05, 02:01:03](https://news.ycombinator.com/item?id=48790689) - [If you're a button, you have one job](https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/)
 * [2026-07-05, 01:39:05](https://news.ycombinator.com/item?id=48790583) - [Efficacy and Safety of Psilocybin in Treatment-Resistant Major Depression](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2846478)
 * [2026-07-05, 01:23:11](https://news.ycombinator.com/item?id=48790512) - [Record-breaking solo rower Kelsey Pfendler arrives in Hawaii](https://www.hawaiinewsnow.com/2026/07/04/record-breaking-solo-rower-kelsey-pfendler-arrives-hawaii/)
