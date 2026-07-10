@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-07-10, 02:39:07](https://news.ycombinator.com/item?id=48855112) - [Ben Bernanke Joins Anthropic Oversight Trust](https://www.anthropic.com/news/ben-bernanke)
 * [2026-07-10, 01:28:43](https://news.ycombinator.com/item?id=48854681) - [Build your own vulnerability harness](https://blog.cloudflare.com/build-your-own-vulnerability-harness/)
-* [2026-07-10, 00:20:28](https://news.ycombinator.com/item?id=48854247) - [Study: \"Mommy, do you love your phone more than me?\"](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full)
+* [2026-07-10, 00:20:28](https://news.ycombinator.com/item?id=48854247) - [Parental device use and the adolescent-caregiver attachment bond](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full)
 * [2026-07-09, 22:15:56](https://news.ycombinator.com/item?id=48853091) - [Why American ambulance rides are so expensive](https://davidoks.blog/p/why-american-ambulance-rides-are)
 * [2026-07-09, 20:51:06](https://news.ycombinator.com/item?id=48852199) - [Building a real-time AI tutor for 5-year-olds](https://www.ello.com/blog/teaching-a-child-in-1000-ms)
 * [2026-07-09, 17:17:16](https://news.ycombinator.com/item?id=48849292) - [Interview with Mitchell Hashimoto about Ghostty and Zig](https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/)
@@ -10,6 +9,7 @@
 * [2026-07-09, 15:28:39](https://news.ycombinator.com/item?id=48847562) - [Launch HN: Context.dev (YC S26) – API to get structured data from any website](https://www.context.dev)
 * [2026-07-09, 15:27:48](https://news.ycombinator.com/item?id=48847552) - [Hy3](https://hy.tencent.com/research/hy3)
 * [2026-07-09, 15:25:25](https://news.ycombinator.com/item?id=48847511) - [A possible future for Damn Interesting](https://www.damninteresting.com/a-possible-future/)
+* [2026-07-09, 14:20:14](https://news.ycombinator.com/item?id=48846332) - [SimPolitics: America’s quest to solve politics with computers](https://mitpress.mit.edu/9780262053198/simpolitics/)
 * [2026-07-09, 14:16:34](https://news.ycombinator.com/item?id=48846281) - [No leap second will be introduced at the end of December 2026](https://datacenter.iers.org/data/latestVersion/bulletinC.txt)
 * [2026-07-09, 14:10:22](https://news.ycombinator.com/item?id=48846184) - [Muse Spark 1.1](https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/)
 * [2026-07-09, 13:24:43](https://news.ycombinator.com/item?id=48845442) - [The glass backbone: Why the Army's logistics will break in the next war](https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/)
