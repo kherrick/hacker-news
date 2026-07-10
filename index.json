@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-07-10, 00:17:36",
-      "https://news.ycombinator.com/item?id=48854224"
+      "2026-07-10, 01:28:43",
+      "https://news.ycombinator.com/item?id=48854681"
     ],
     [
-      "Show HN: I built a free app for New Yorkers to save money on groceries",
-      "https://sbnyc.app/"
+      "Build your own vulnerability harness",
+      "https://blog.cloudflare.com/build-your-own-vulnerability-harness/"
+    ]
+  ],
+  [
+    [
+      "2026-07-10, 01:20:16",
+      "https://news.ycombinator.com/item?id=48854638"
+    ],
+    [
+      "Star Just Ate a Planet, and It's Not Done Yet",
+      "https://www.nytimes.com/2026/07/09/science/space/planetary-engulfment-hungry-star.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-10, 00:40:33",
+      "https://news.ycombinator.com/item?id=48854363"
+    ],
+    [
+      "Focus",
+      "https://boz.com/articles/focus"
     ]
   ],
   [
@@ -17,16 +37,6 @@
     [
       "Why American ambulance rides are so expensive",
       "https://davidoks.blog/p/why-american-ambulance-rides-are"
-    ]
-  ],
-  [
-    [
-      "2026-07-09, 21:09:05",
-      "https://news.ycombinator.com/item?id=48852403"
-    ],
-    [
-      "Show HN: Rubiks Cube Solver",
-      "https://speedcube.com.br/"
     ]
   ],
   [
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2026-07-09, 14:57:02",
-      "https://news.ycombinator.com/item?id=48846995"
-    ],
-    [
-      "TLS certificates for internal services done right",
-      "https://tuxnet.dev/posts/tls-for-internal-services/"
-    ]
-  ],
-  [
-    [
       "2026-07-09, 14:20:14",
       "https://news.ycombinator.com/item?id=48846332"
     ],
@@ -231,12 +231,12 @@
   ],
   [
     [
-      "2026-07-08, 19:35:07",
-      "https://news.ycombinator.com/item?id=48836431"
+      "2026-07-07, 03:01:03",
+      "https://news.ycombinator.com/item?id=48813214"
     ],
     [
-      "Almost Always Unsigned",
-      "https://graphitemaster.github.io/aau/"
+      "Cache-Conscious Data Layout in Rust: Field Zoning, False Sharing, 128-Byte Rule",
+      "https://debasishg.github.io/blog/part1-cache-conscious-data-layout-in-rust/"
     ]
   ],
   [
