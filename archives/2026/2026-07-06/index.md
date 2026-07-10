@@ -60,6 +60,7 @@
 * [2026-07-06, 14:15:19](https://news.ycombinator.com/item?id=48804935) - [I Changed My Name](https://robida.net/entries/2026/07/01/i-changed-my-name)
 * [2026-07-06, 14:06:34](https://news.ycombinator.com/item?id=48804801) - [I Built a Telegram Client for Pi](https://www.npmjs.com/package/@atharva-again/pi-tg)
 * [2026-07-06, 13:39:52](https://news.ycombinator.com/item?id=48804435) - [Footage Shows Cop Stalking Woman After Surveilling Her with a LPR](https://www.404media.co/footage-shows-cop-stalking-woman-he-met-on-a-tv-set-after-surveilling-her-with-a-license-plate-reader/)
+* [2026-07-06, 13:36:58](https://news.ycombinator.com/item?id=48804400) - [Triple Dragon Fractal (2020)](https://paulbourke.net/fractals/tripledragon/)
 * [2026-07-06, 13:28:57](https://news.ycombinator.com/item?id=48804297) - [Aluminum Foil](https://dernocua.github.io/notes/aluminum-foil.html)
 * [2026-07-06, 13:20:59](https://news.ycombinator.com/item?id=48804219) - [Regression to the Mean: on LLMs and the quiet death of the new](https://rruxandra.github.io/regression-to-the-mean.html)
 * [2026-07-06, 13:20:56](https://news.ycombinator.com/item?id=48804218) - [Real time map of France's rail network](https://carto.tchoo.net/)

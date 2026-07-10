@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-07-10](index.md)
+
+* [2026-07-10, 00:17:36](https://news.ycombinator.com/item?id=48854224) - [Show HN: I built a free app for New Yorkers to save money on groceries](https://sbnyc.app/)
