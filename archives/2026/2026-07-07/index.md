@@ -66,6 +66,7 @@
 * [2026-07-07, 08:12:12](https://news.ycombinator.com/item?id=48814952) - [Show HN: Fast, native Mac file manager (filters, fuzzy find, 9 MB, no Electron)](https://whimfiles.com)
 * [2026-07-07, 07:33:13](https://news.ycombinator.com/item?id=48814724) - [The Clouds of Hiroshima](https://doomsdaymachines.net/p/the-clouds-of-hiroshima)
 * [2026-07-07, 07:00:27](https://news.ycombinator.com/item?id=48814509) - [Lago (YC S21) Is Hiring for Our GTM Team](https://jobs.ashbyhq.com/lago)
+* [2026-07-07, 06:59:27](https://news.ycombinator.com/item?id=48814503) - [Why We Don't Trust the Database with Authentication](https://blog.sturdystatistics.com/posts/api_keys/)
 * [2026-07-07, 05:38:26](https://news.ycombinator.com/item?id=48814023) - [I Built the Only 2026 WWII Jeep](https://www.theautopian.com/i-bet-my-company-on-an-impossible-jeep-build-then-a-miracle-happened/)
 * [2026-07-07, 05:19:03](https://news.ycombinator.com/item?id=48813929) - [The Art of Computer Programming by Donald E. Knuth](https://www-cs-faculty.stanford.edu/~knuth/taocp.html)
 * [2026-07-07, 03:01:03](https://news.ycombinator.com/item?id=48813214) - [Cache-Conscious Data Layout in Rust: Field Zoning, False Sharing, 128-Byte Rule](https://debasishg.github.io/blog/part1-cache-conscious-data-layout-in-rust/)
