@@ -60,6 +60,7 @@
 * [2026-07-06, 14:47:45](https://news.ycombinator.com/item?id=48805437) - [Show HN: I Built LangGraph for Swift](https://github.com/christopherkarani/Swarm)
 * [2026-07-06, 14:45:31](https://news.ycombinator.com/item?id=48805401) - [Emily Bender Sets the Record Straight on \"Stochastic Parrots\"](https://spectrum.ieee.org/stochastic-parrot)
 * [2026-07-06, 14:42:35](https://news.ycombinator.com/item?id=48805358) - [Harman and Dr. Sean Olive are reshaping headphone sound](https://www.crutchfield.com/S-ls67Oiva4Wu/learn/crutchfield-visits-harman.html)
+* [2026-07-06, 14:42:04](https://news.ycombinator.com/item?id=48805342) - [Ditching Vagrant: VMs with KVM and Virsh on Debian](https://benjamintoll.com/2026/06/29/on-ditching-vagrant/)
 * [2026-07-06, 14:38:15](https://news.ycombinator.com/item?id=48805304) - [DOJ Closing Abbott Labs Case Spurs Wider Corporate Crime Retreat](https://news.bloomberglaw.com/us-law-week/doj-closing-abbott-labs-case-spurs-wider-corporate-crime-retreat)
 * [2026-07-06, 14:18:23](https://news.ycombinator.com/item?id=48804993) - [Resetting Xbox](https://news.xbox.com/en-us/2026/07/06/resetting-xbox/)
 * [2026-07-06, 14:15:19](https://news.ycombinator.com/item?id=48804935) - [I Changed My Name](https://robida.net/entries/2026/07/01/i-changed-my-name)
