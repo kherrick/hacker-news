@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-10, 13:11:30](https://news.ycombinator.com/item?id=48859439) - [How do you use Vim in the era of AI?](https://news.ycombinator.com/item?id=48859439)
+* [2026-07-10, 12:31:50](https://news.ycombinator.com/item?id=48858997) - [Ryanair Passenger Sucked Toward Broken Window After Midair Engine Failure](https://simpleflying.com/ryanair-thessaloniki-diversion-window-damage/)
 * [2026-07-10, 12:00:36](https://news.ycombinator.com/item?id=48858745) - [Laylo (YC S20) Is Hiring a Head of Finance](https://www.ycombinator.com/companies/laylo/jobs/qce41D2-head-of-finance)
 * [2026-07-10, 11:59:55](https://news.ycombinator.com/item?id=48858737) - [Late Bronze Age Collapse](https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/)
 * [2026-07-10, 11:00:15](https://news.ycombinator.com/item?id=48858292) - [EU Commission: addictive design Instagram and Facebook in breach of the DSA](https://ec.europa.eu/commission/presscorner/home/en)
@@ -24,12 +26,10 @@
 * [2026-07-09, 06:18:19](https://news.ycombinator.com/item?id=48841676) - [Postgres rewritten in Rust, now passing 100% of the Postgres regression tests](https://github.com/malisper/pgrust)
 * [2026-07-06, 20:40:14](https://news.ycombinator.com/item?id=48810218) - [Common prefix skipping, adaptive sort](http://smalldatum.blogspot.com/2026/01/common-prefix-skipping-adaptive-sort.html)
 * [2026-07-06, 19:46:30](https://news.ycombinator.com/item?id=48809574) - [Girls just wanna have fast MPMC queues with bounded waiting](https://nahla.dev/blog/waitfree_queue/)
-* [2026-07-06, 15:45:50](https://news.ycombinator.com/item?id=48806305) - [Life with Hazard Ratios](https://dynomight.net/hazard-ratios/)
 * [2026-07-06, 14:59:21](https://news.ycombinator.com/item?id=48805598) - [Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future](https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/)
 * [2026-07-06, 14:42:04](https://news.ycombinator.com/item?id=48805342) - [Ditching Vagrant: VMs with KVM and Virsh on Debian](https://benjamintoll.com/2026/06/29/on-ditching-vagrant/)
 * [2026-07-05, 08:40:27](https://news.ycombinator.com/item?id=48792383) - [Train sim created by just one person is being called the best ever made](https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429)
 * [2026-07-03, 08:43:18](https://news.ycombinator.com/item?id=48772528) - [The mathematical secrets of Barcelona's Sagrada Familia](https://mappingignorance.org/2026/06/30/sagrada-familia/)
-* [2026-07-02, 06:21:49](https://news.ycombinator.com/item?id=48757291) - [My Story of 3D Realms / Apogee Part I (2020)](https://joesiegler.blog/2020/11/my-story-of-apogee-3dr/)
 
 ## [Archives](archives/index.md)
 
