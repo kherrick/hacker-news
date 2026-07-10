@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2026-07-10, 01:28:43",
-      "https://news.ycombinator.com/item?id=48854681"
-    ],
-    [
-      "Build your own vulnerability harness",
-      "https://blog.cloudflare.com/build-your-own-vulnerability-harness/"
-    ]
-  ],
-  [
-    [
       "2026-07-10, 00:20:28",
       "https://news.ycombinator.com/item?id=48854247"
     ],
@@ -201,12 +191,12 @@
   ],
   [
     [
-      "2026-07-08, 14:12:19",
-      "https://news.ycombinator.com/item?id=48832247"
+      "2026-07-08, 23:37:43",
+      "https://news.ycombinator.com/item?id=48838876"
     ],
     [
-      "Tiny Tapeout Explorer: WASM FET-level circuit SIM&vis",
-      "https://znah.net/tiny_explorer/"
+      "John Deere owners will get the right to repair equipment under FTC settlement",
+      "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02"
     ]
   ],
   [
@@ -227,16 +217,6 @@
     [
       "Girls just wanna have fast MPMC queues with bounded waiting",
       "https://nahla.dev/blog/waitfree_queue/"
-    ]
-  ],
-  [
-    [
-      "2026-07-06, 17:18:15",
-      "https://news.ycombinator.com/item?id=48807673"
-    ],
-    [
-      "Damaged Earth Catalog",
-      "https://damaged.bleu255.com/"
     ]
   ],
   [
@@ -271,12 +251,32 @@
   ],
   [
     [
+      "2026-07-06, 14:42:04",
+      "https://news.ycombinator.com/item?id=48805342"
+    ],
+    [
+      "Ditching Vagrant: VMs with KVM and Virsh on Debian",
+      "https://benjamintoll.com/2026/06/29/on-ditching-vagrant/"
+    ]
+  ],
+  [
+    [
       "2026-07-06, 13:36:58",
       "https://news.ycombinator.com/item?id=48804400"
     ],
     [
       "Triple Dragon Fractal (2020)",
       "https://paulbourke.net/fractals/tripledragon/"
+    ]
+  ],
+  [
+    [
+      "2026-07-06, 05:26:22",
+      "https://news.ycombinator.com/item?id=48800930"
+    ],
+    [
+      "Patterncollider: Generate and explore quasiperiodic tiling patterns",
+      "https://github.com/aatishb/patterncollider"
     ]
   ],
   [
