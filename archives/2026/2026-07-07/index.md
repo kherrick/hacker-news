@@ -66,6 +66,7 @@
 * [2026-07-07, 07:00:27](https://news.ycombinator.com/item?id=48814509) - [Lago (YC S21) Is Hiring for Our GTM Team](https://jobs.ashbyhq.com/lago)
 * [2026-07-07, 05:38:26](https://news.ycombinator.com/item?id=48814023) - [I Built the Only 2026 WWII Jeep](https://www.theautopian.com/i-bet-my-company-on-an-impossible-jeep-build-then-a-miracle-happened/)
 * [2026-07-07, 05:19:03](https://news.ycombinator.com/item?id=48813929) - [The Art of Computer Programming by Donald E. Knuth](https://www-cs-faculty.stanford.edu/~knuth/taocp.html)
+* [2026-07-07, 03:01:03](https://news.ycombinator.com/item?id=48813214) - [Cache-Conscious Data Layout in Rust: Field Zoning, False Sharing, 128-Byte Rule](https://debasishg.github.io/blog/part1-cache-conscious-data-layout-in-rust/)
 * [2026-07-07, 01:40:26](https://news.ycombinator.com/item?id=48812736) - [Apache Shiro security framework releases 3.0.0](https://shiro.apache.org/blog/2026/06/apache-shiro-300-released.html)
 * [2026-07-07, 01:06:19](https://news.ycombinator.com/item?id=48812489) - [LLMs Are Not a Default Execution Engine](https://unmeshed.io/blog/using-ai-wisely-starts-before-the-first-prompt)
 * [2026-07-07, 01:00:14](https://news.ycombinator.com/item?id=48812450) - [I created a free tool that pairs your Nasic and past performance to win contract](https://www.fedfinder.net/)
