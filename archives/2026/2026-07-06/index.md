@@ -40,6 +40,7 @@
 * [2026-07-06, 17:16:41](https://news.ycombinator.com/item?id=48807651) - [Big Tech Has Suddenly Flipped on the AI Jobs Wipeout Scenario](https://www.wsj.com/tech/ai/ai-workers-tech-ceos-job-losses-afc71e15)
 * [2026-07-06, 16:58:51](https://news.ycombinator.com/item?id=48807383) - [The Supreme Court Just Lit a Fuse Under Flock's License Plate Camera Empire](https://www.yahoo.com/news/politics/articles/supreme-court-just-lit-fuse-130900307.html)
 * [2026-07-06, 16:47:44](https://news.ycombinator.com/item?id=48807225) - [OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files](https://github.com/iOfficeAI/OfficeCLI)
+* [2026-07-06, 16:41:26](https://news.ycombinator.com/item?id=48807108) - [Ask HN: Are systems ready for the first negative leap second?](https://news.ycombinator.com/item?id=48807108)
 * [2026-07-06, 16:33:04](https://news.ycombinator.com/item?id=48806976) - [Stealth robotics startup (YC S26) is hiring principal engineers (Palo Alto)](https://news.ycombinator.com/item?id=48806976)
 * [2026-07-06, 16:17:04](https://news.ycombinator.com/item?id=48806741) - [Orasort: 5x faster column-sorting with an expired patent from Oracle](https://deepsystemstuff.com/how-oracles-secret-column-sorting-technique-became-public-after-its-patent-expired-making-sorting-5x-faster/)
 * [2026-07-06, 16:04:27](https://news.ycombinator.com/item?id=48806575) - [Show HN: Pulpie – Models for Cleaning the Web](https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cleaning-the-web/)
