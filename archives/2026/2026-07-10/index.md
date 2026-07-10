@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-07-10](index.md)
 
+* [2026-07-10, 16:57:35](https://news.ycombinator.com/item?id=48862467) - [Anyone else get a vague GitHub shakedown notice?](https://lists.osgeo.org/pipermail/qgis-developer/2026-July/068430.html)
 * [2026-07-10, 16:48:41](https://news.ycombinator.com/item?id=48862365) - [The tech of 'Terminator 2' – an oral history (2017)](https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/)
 * [2026-07-10, 16:37:52](https://news.ycombinator.com/item?id=48862252) - [Snails' Teeth Beats Spider Silk as Nature's Strongest Material](https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/)
 * [2026-07-10, 16:21:18](https://news.ycombinator.com/item?id=48862035) - [Garnix Is Joining Shopify](https://garnix.io/blog/shutting-down/)
+* [2026-07-10, 16:06:38](https://news.ycombinator.com/item?id=48861833) - [Hands-On with the AMD Ryzen AI Halo](https://www.microcenter.com/site/mc-news/article/amd-ryzen-ai-halo-review.aspx)
 * [2026-07-10, 15:59:53](https://news.ycombinator.com/item?id=48861717) - [QuadRF can spot drones and see WiFi through my wall](https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/)
 * [2026-07-10, 15:30:44](https://news.ycombinator.com/item?id=48861319) - [A Love Letter to Flashcards](https://lesleylai.info/en/flashcards/)
 * [2026-07-10, 15:23:42](https://news.ycombinator.com/item?id=48861213) - [Computation as a Universal and Fundamental Concept](https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept)
