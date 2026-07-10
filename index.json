@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-07-10, 21:20:29",
-      "https://news.ycombinator.com/item?id=48865431"
+      "2026-07-10, 22:30:44",
+      "https://news.ycombinator.com/item?id=48866134"
     ],
     [
-      "Apple sues OpenAI, accusing it of stealing company secrets",
-      "https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html"
+      "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
+      "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity"
     ]
   ],
   [
@@ -31,12 +31,12 @@
   ],
   [
     [
-      "2026-07-10, 20:52:28",
-      "https://news.ycombinator.com/item?id=48865093"
+      "2026-07-10, 20:47:09",
+      "https://news.ycombinator.com/item?id=48865019"
     ],
     [
-      "GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
-      "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models"
+      "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+      "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/"
     ]
   ],
   [
@@ -51,32 +51,12 @@
   ],
   [
     [
-      "2026-07-10, 20:00:28",
-      "https://news.ycombinator.com/item?id=48864507"
-    ],
-    [
-      "Please don't discontinue Gemini 2.5 Flash",
-      "https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246"
-    ]
-  ],
-  [
-    [
       "2026-07-10, 19:38:34",
       "https://news.ycombinator.com/item?id=48864252"
     ],
     [
-      "An Update on the scraper situation",
+      "An update on residential proxies and the scraper situation",
       "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/"
-    ]
-  ],
-  [
-    [
-      "2026-07-10, 19:03:36",
-      "https://news.ycombinator.com/item?id=48863849"
-    ],
-    [
-      "Materials innovation has a scale-up problem, not discovery",
-      "https://www.atomscale.ai/updates/our-thesis-atom-to-scale"
     ]
   ],
   [
@@ -105,7 +85,7 @@
       "https://news.ycombinator.com/item?id=48863464"
     ],
     [
-      "New York City to become first in US to ban deceptive subscription practices",
+      "New York City to to ban deceptive subscription practices",
       "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban"
     ]
   ],
@@ -117,6 +97,16 @@
     [
       "War Atlas: An interactive cartography of every named war in human history",
       "https://waratlas.org"
+    ]
+  ],
+  [
+    [
+      "2026-07-10, 17:51:07",
+      "https://news.ycombinator.com/item?id=48863064"
+    ],
+    [
+      "SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth",
+      "https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/"
     ]
   ],
   [
@@ -151,12 +141,12 @@
   ],
   [
     [
-      "2026-07-10, 15:23:50",
-      "https://news.ycombinator.com/item?id=48861217"
+      "2026-07-10, 15:30:44",
+      "https://news.ycombinator.com/item?id=48861319"
     ],
     [
-      "Show HN: SubjectiveZero, an open-source agentic node editor for creative coding",
-      "https://sxp.studio/apps/subz"
+      "A love letter to flashcards",
+      "https://lesleylai.info/en/flashcards/"
     ]
   ],
   [
@@ -171,22 +161,32 @@
   ],
   [
     [
-      "2026-07-10, 13:33:00",
-      "https://news.ycombinator.com/item?id=48859701"
-    ],
-    [
-      "Write code like a human will maintain it",
-      "https://unstack.io/write-code-like-a-human-will-maintain-it"
-    ]
-  ],
-  [
-    [
       "2026-07-10, 13:31:08",
       "https://news.ycombinator.com/item?id=48859678"
     ],
     [
       "Successful Companies Go Blind",
       "https://ianreppel.org/how-successful-companies-go-blind/"
+    ]
+  ],
+  [
+    [
+      "2026-07-10, 13:30:41",
+      "https://news.ycombinator.com/item?id=48859673"
+    ],
+    [
+      "After 7 years in production, Scarf has reluctantly moved away from Haskell",
+      "https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-10, 13:30:19",
+      "https://news.ycombinator.com/item?id=48859671"
+    ],
+    [
+      "Punk, or why I don't stream anymore",
+      "https://geohot.github.io//blog/jekyll/update/2026/05/03/punk-or-why-i-dont-stream.html"
     ]
   ],
   [
@@ -211,22 +211,12 @@
   ],
   [
     [
-      "2026-07-09, 19:49:37",
-      "https://news.ycombinator.com/item?id=48851476"
+      "2026-07-10, 08:21:10",
+      "https://news.ycombinator.com/item?id=48857230"
     ],
     [
-      "Show HN: Reviving my 2001 college band with AI",
-      "https://www.fadingmaize.com"
-    ]
-  ],
-  [
-    [
-      "2026-07-09, 17:05:06",
-      "https://news.ycombinator.com/item?id=48849079"
-    ],
-    [
-      "Postgres locks do not scale",
-      "https://www.recall.ai/blog/postgres-locks-do-not-scale"
+      "In Emacs, everything looks like a service",
+      "http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html"
     ]
   ],
   [
@@ -261,22 +251,32 @@
   ],
   [
     [
-      "2026-07-07, 06:59:27",
-      "https://news.ycombinator.com/item?id=48814503"
-    ],
-    [
-      "Why We Don't Trust the Database with Authentication",
-      "https://blog.sturdystatistics.com/posts/api_keys/"
-    ]
-  ],
-  [
-    [
       "2026-07-07, 06:06:25",
       "https://news.ycombinator.com/item?id=48814170"
     ],
     [
       "Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit",
       "https://mimo.xiaomi.com/blog/mimo-v2-5-inference"
+    ]
+  ],
+  [
+    [
+      "2026-07-06, 21:09:56",
+      "https://news.ycombinator.com/item?id=48810543"
+    ],
+    [
+      "Alternate clock designs and time systems",
+      "https://serialc.github.io/altClocks/"
+    ]
+  ],
+  [
+    [
+      "2026-07-06, 16:41:26",
+      "https://news.ycombinator.com/item?id=48807108"
+    ],
+    [
+      "Ask HN: Are systems ready for the first negative leap second?",
+      "https://news.ycombinator.com/item?id=48807108"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=48795900"
     ],
     [
-      "Combustion Engine Web-Based Simulator",
+      "Combustion engine web-based simulator",
       "https://combustionlab.net"
     ]
   ]
