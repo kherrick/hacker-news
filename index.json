@@ -21,26 +21,6 @@
   ],
   [
     [
-      "2026-07-10, 01:20:16",
-      "https://news.ycombinator.com/item?id=48854638"
-    ],
-    [
-      "Star Just Ate a Planet, and It's Not Done Yet",
-      "https://www.nytimes.com/2026/07/09/science/space/planetary-engulfment-hungry-star.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-10, 00:40:33",
-      "https://news.ycombinator.com/item?id=48854363"
-    ],
-    [
-      "Focus",
-      "https://boz.com/articles/focus"
-    ]
-  ],
-  [
-    [
       "2026-07-10, 00:20:28",
       "https://news.ycombinator.com/item?id=48854247"
     ],
@@ -211,12 +191,32 @@
   ],
   [
     [
+      "2026-07-08, 15:48:15",
+      "https://news.ycombinator.com/item?id=48833488"
+    ],
+    [
+      "What Big Food Did to Ice Cream",
+      "https://medium.com/@dapscience/the-encrapification-of-store-bought-ice-cream-2da2d58ee0b9"
+    ]
+  ],
+  [
+    [
       "2026-07-07, 03:01:03",
       "https://news.ycombinator.com/item?id=48813214"
     ],
     [
       "Cache-Conscious Data Layout in Rust: Field Zoning, False Sharing, 128-Byte Rule",
       "https://debasishg.github.io/blog/part1-cache-conscious-data-layout-in-rust/"
+    ]
+  ],
+  [
+    [
+      "2026-07-06, 20:40:14",
+      "https://news.ycombinator.com/item?id=48810218"
+    ],
+    [
+      "Common prefix skipping, adaptive sort",
+      "http://smalldatum.blogspot.com/2026/01/common-prefix-skipping-adaptive-sort.html"
     ]
   ],
   [
