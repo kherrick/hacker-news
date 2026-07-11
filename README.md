@@ -2,7 +2,6 @@
 
 * [2026-07-10, 22:30:44](https://news.ycombinator.com/item?id=48866134) - [Einstein's relativity rules chemical bonds in heavy elements, new research shows](https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity)
 * [2026-07-10, 21:11:18](https://news.ycombinator.com/item?id=48865332) - [Moss (YC F25) Is Hiring](https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk)
-* [2026-07-10, 21:03:38](https://news.ycombinator.com/item?id=48865238) - [Prismata: Confining cross-site prompt injection in web agents](https://arxiv.org/abs/2607.08147)
 * [2026-07-10, 20:47:09](https://news.ycombinator.com/item?id=48865019) - [Apple sues OpenAI, accuses ex-employees of stealing trade secrets](https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/)
 * [2026-07-10, 20:43:02](https://news.ycombinator.com/item?id=48864969) - [GhostLock, a stack-UAF that has existed in ALL Linux distributions for 15 years](https://nebusec.ai/research/ionstack-part-2/)
 * [2026-07-10, 18:49:26](https://news.ycombinator.com/item?id=48863707) - [How the terrorist group Boko Haram uses frontier AI](https://casp.ac/reports/ai-enabled-terrorism)
@@ -23,6 +22,7 @@
 * [2026-07-09, 19:49:37](https://news.ycombinator.com/item?id=48851476) - [Show HN: Reviving my 2001 college band with AI](https://www.fadingmaize.com)
 * [2026-07-09, 16:21:44](https://news.ycombinator.com/item?id=48848425) - [AI 2040: Plan A](https://ai-2040.com/)
 * [2026-07-09, 11:16:18](https://news.ycombinator.com/item?id=48844046) - [Show HN: Wyrm – Solve algebra by touch, built on an open-source soundness engine](https://github.com/dicroce/wyrm_math)
+* [2026-07-08, 13:38:04](https://news.ycombinator.com/item?id=48831814) - [Preemption is GC for memory reordering (2019)](https://pvk.ca/Blog/2019/01/09/preemption-is-gc-for-memory-reordering/)
 * [2026-07-07, 12:20:54](https://news.ycombinator.com/item?id=48816724) - [Show HN: Frugon – Find which LLM calls a cheaper model could handle (local, MIT)](https://github.com/Rodiun/frugon)
 * [2026-07-07, 07:33:13](https://news.ycombinator.com/item?id=48814724) - [The Clouds of Hiroshima](https://doomsdaymachines.net/p/the-clouds-of-hiroshima)
 * [2026-07-07, 06:06:25](https://news.ycombinator.com/item?id=48814170) - [Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit](https://mimo.xiaomi.com/blog/mimo-v2-5-inference)

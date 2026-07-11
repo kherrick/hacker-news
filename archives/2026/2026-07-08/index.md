@@ -38,6 +38,7 @@
 * [2026-07-08, 14:54:59](https://news.ycombinator.com/item?id=48832797) - [Show HN: Abralo – Free, easy way to run several Claude Code agents in one window](https://abralo.com/)
 * [2026-07-08, 14:12:19](https://news.ycombinator.com/item?id=48832247) - [Tiny Tapeout Explorer: WASM FET-level circuit SIM&vis](https://znah.net/tiny_explorer/)
 * [2026-07-08, 14:09:17](https://news.ycombinator.com/item?id=48832212) - [Mistral's Robostral Navigate: a state of the art robotics navigation model](https://mistral.ai/news/robostral-navigate/)
+* [2026-07-08, 13:38:04](https://news.ycombinator.com/item?id=48831814) - [Preemption is GC for memory reordering (2019)](https://pvk.ca/Blog/2019/01/09/preemption-is-gc-for-memory-reordering/)
 * [2026-07-08, 13:35:59](https://news.ycombinator.com/item?id=48831785) - [US Food and Drug Administration rejects petition to set PFAS limits in food](https://www.theguardian.com/us-news/2026/jul/08/us-food-and-drug-administration-rejects-petition-to-set-pfas-limits-in-food)
 * [2026-07-08, 13:24:52](https://news.ycombinator.com/item?id=48831658) - [OpenBSD has a use-after-free allowing local privilege escalation to root](https://nvd.nist.gov/vuln/detail/cve-2026-57589)
 * [2026-07-08, 13:20:05](https://news.ycombinator.com/item?id=48831587) - [A bug which affected only left handed users](https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/)
