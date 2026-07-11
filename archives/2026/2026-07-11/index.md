@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-11](index.md)
 
+* [2026-07-11, 22:28:48](https://news.ycombinator.com/item?id=48876441) - [Stop Telling Me to Ask an LLM](https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/)
+* [2026-07-11, 21:58:00](https://news.ycombinator.com/item?id=48876245) - [RISCBoy is an open-source portable games console, designed from scratch](https://github.com/Wren6991/RISCBoy)
 * [2026-07-11, 20:49:14](https://news.ycombinator.com/item?id=48875709) - [OpenAI Forked Git on GitHub](https://github.com/openai/git)
 * [2026-07-11, 20:21:25](https://news.ycombinator.com/item?id=48875494) - [I used to love Claude, but the latest models are slowly ruining it](https://www.androidauthority.com/claude-latest-models-pushback-bad-3683521/)
 * [2026-07-11, 20:07:18](https://news.ycombinator.com/item?id=48875377) - [Show HN: Ant – A JavaScript Runtime and Ecosystem](https://antjs.org)
