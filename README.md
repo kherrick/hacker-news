@@ -24,11 +24,11 @@
 * [2026-07-08, 11:30:12](https://news.ycombinator.com/item?id=48830556) - [Otary – Image and Geometry Python Library Now Has Tutorials](https://alexandrepoupeau.com/otary/learn/)
 * [2026-07-07, 23:51:49](https://news.ycombinator.com/item?id=48825612) - [Google Search lets creators know more about their reach](https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties)
 * [2026-07-07, 23:06:09](https://news.ycombinator.com/item?id=48825216) - [Silent speech with ultrasound](https://alephneuro.com/blog/silent-speech)
-* [2026-07-07, 15:58:20](https://news.ycombinator.com/item?id=48819612) - [Documentation is still in your Mum's filing cabinet](https://gerireid.com/blog/organising-documentation-for-humans-and-ai/)
 * [2026-07-07, 13:30:17](https://news.ycombinator.com/item?id=48817539) - [An iroh powered smart fan](https://www.iroh.computer/blog/an-iroh-powered-smart-fan)
 * [2026-07-07, 06:06:25](https://news.ycombinator.com/item?id=48814170) - [Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit](https://mimo.xiaomi.com/blog/mimo-v2-5-inference)
 * [2026-07-06, 21:09:56](https://news.ycombinator.com/item?id=48810543) - [Alternate clock designs and time systems](https://serialc.github.io/altClocks/)
 * [2026-07-06, 12:32:57](https://news.ycombinator.com/item?id=48803707) - [Lost city discovered beneath Egypt's desert with ancient church](https://www.dailymail.com/sciencetech/article-15956159/Incredible-lost-city-discovered-Egypts-desert.html)
+* [2026-07-05, 22:33:08](https://news.ycombinator.com/item?id=48798566) - [The mask that compiles to nothing: how HotSpots JIT learned to reason about bits](https://questdb.com/blog/jvm-jit-known-bits/)
 * [2026-07-05, 17:11:38](https://news.ycombinator.com/item?id=48795900) - [Combustion engine web-based simulator](https://combustionlab.net)
 
 ## [Archives](archives/index.md)
