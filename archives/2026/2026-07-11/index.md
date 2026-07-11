@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-11](index.md)
 
+* [2026-07-11, 17:27:55](https://news.ycombinator.com/item?id=48873893) - [Leaded Gas Was a Known Poison the Day It Was Invented (2016)](https://www.smithsonianmag.com/smart-news/leaded-gas-poison-invented-180961368/)
+* [2026-07-11, 17:24:15](https://news.ycombinator.com/item?id=48873858) - [Earendel (Astronomical Object)](https://en.wikipedia.org/wiki/Earendel_(astronomical_object))
 * [2026-07-11, 17:03:23](https://news.ycombinator.com/item?id=48873692) - [Female US rower completes historic solo journey from California to Hawaii](https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey)
 * [2026-07-11, 17:00:35](https://news.ycombinator.com/item?id=48873665) - [Sixtyfour (YC P25) Is Hiring](https://www.ycombinator.com/companies/sixtyfour/jobs/bIbgQkL-operations-associate-data-samples-customer-success)
 * [2026-07-11, 16:28:48](https://news.ycombinator.com/item?id=48873424) - [Modern Decor May Be Straining People's Brains](https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/)

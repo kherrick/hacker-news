@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-07-10](index.md)
 
 * [2026-07-10, 22:30:44](https://news.ycombinator.com/item?id=48866134) - [Einstein's relativity rules chemical bonds in heavy elements, new research shows](https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity)
+* [2026-07-10, 22:04:45](https://news.ycombinator.com/item?id=48865903) - [AI Can't Recreate the Thrust Game (But It Can Help You Understand It)](https://www.jamesdrandall.com/posts/thrust_ai_powered_software_archaeology/)
 * [2026-07-10, 21:20:29](https://news.ycombinator.com/item?id=48865431) - [Apple Sues OpenAI, Accusing It of Stealing Company Secrets](https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html)
 * [2026-07-10, 21:11:18](https://news.ycombinator.com/item?id=48865332) - [Moss (YC F25) Is Hiring](https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk)
 * [2026-07-10, 21:03:38](https://news.ycombinator.com/item?id=48865238) - [Prismata: Confining cross-site prompt injection in web agents](https://arxiv.org/abs/2607.08147)
