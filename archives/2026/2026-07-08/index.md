@@ -49,6 +49,7 @@
 * [2026-07-08, 11:30:12](https://news.ycombinator.com/item?id=48830556) - [Otary – Image and Geometry Python Library Now Has Tutorials](https://alexandrepoupeau.com/otary/learn/)
 * [2026-07-08, 11:06:06](https://news.ycombinator.com/item?id=48830388) - [We Got This Wrong. and We Are Fixing It](https://community.hubspot.com/t/we-got-this-wrong-and-we-are-fixing-it/152063)
 * [2026-07-08, 11:03:34](https://news.ycombinator.com/item?id=48830371) - [List of European organizations that have banned personal messaging apps at work](https://www.birdy.chat/blog/the-growing-list-of-european-organisations-that-ban-personal-messaging-apps-at-work)
+* [2026-07-08, 10:35:37](https://news.ycombinator.com/item?id=48830191) - [Digital Deli, 1984 book by early PC hackers and enthusiasts](https://www.atariarchives.org/deli/)
 * [2026-07-08, 09:44:20](https://news.ycombinator.com/item?id=48829797) - [Unicode's transliteration rules are Turing-complete](https://seriot.ch/computation/uts35/)
 * [2026-07-08, 08:46:06](https://news.ycombinator.com/item?id=48829312) - [Decoding the obfuscated bash script on a Uniqlo t-shirt](https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/)
 * [2026-07-08, 08:37:26](https://news.ycombinator.com/item?id=48829242) - [Geosql: A Claude/Codex skill for geospatial data](https://github.com/dekart-xyz/geosql)
