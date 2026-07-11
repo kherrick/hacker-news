@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-11, 00:44:00",
+      "https://news.ycombinator.com/item?id=48867264"
+    ],
+    [
+      "FreeCAD in the Browser",
+      "https://magik.net/freecad/"
+    ]
+  ],
+  [
+    [
+      "2026-07-11, 00:39:12",
+      "https://news.ycombinator.com/item?id=48867220"
+    ],
+    [
+      "The iconic blue IKEA FRAKTA bag comes with a free lifetime warranty",
+      "https://ikeamuseum.com/en/explore/the-story-of-ikea/beloved-bag/"
+    ]
+  ],
+  [
+    [
       "2026-07-10, 22:30:44",
       "https://news.ycombinator.com/item?id=48866134"
     ],
@@ -37,6 +57,16 @@
     [
       "GhostLock, a stack-UAF that has existed in ALL Linux distributions for 15 years",
       "https://nebusec.ai/research/ionstack-part-2/"
+    ]
+  ],
+  [
+    [
+      "2026-07-10, 19:38:34",
+      "https://news.ycombinator.com/item?id=48864252"
+    ],
+    [
+      "An update on residential proxies and the scraper situation",
+      "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/"
     ]
   ],
   [
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2026-07-10, 13:31:08",
-      "https://news.ycombinator.com/item?id=48859678"
-    ],
-    [
-      "Successful Companies Go Blind",
-      "https://ianreppel.org/how-successful-companies-go-blind/"
-    ]
-  ],
-  [
-    [
       "2026-07-10, 13:30:41",
       "https://news.ycombinator.com/item?id=48859673"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2026-07-09, 19:49:37",
-      "https://news.ycombinator.com/item?id=48851476"
-    ],
-    [
-      "Show HN: Reviving my 2001 college band with AI",
-      "https://www.fadingmaize.com"
-    ]
-  ],
-  [
-    [
       "2026-07-09, 16:21:44",
       "https://news.ycombinator.com/item?id=48848425"
     ],
@@ -231,22 +241,12 @@
   ],
   [
     [
-      "2026-07-07, 12:20:54",
-      "https://news.ycombinator.com/item?id=48816724"
+      "2026-07-07, 13:30:17",
+      "https://news.ycombinator.com/item?id=48817539"
     ],
     [
-      "Show HN: Frugon – Find which LLM calls a cheaper model could handle (local, MIT)",
-      "https://github.com/Rodiun/frugon"
-    ]
-  ],
-  [
-    [
-      "2026-07-07, 07:33:13",
-      "https://news.ycombinator.com/item?id=48814724"
-    ],
-    [
-      "The Clouds of Hiroshima",
-      "https://doomsdaymachines.net/p/the-clouds-of-hiroshima"
+      "An iroh powered smart fan",
+      "https://www.iroh.computer/blog/an-iroh-powered-smart-fan"
     ]
   ],
   [
