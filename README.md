@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-11, 18:02:33](https://news.ycombinator.com/item?id=48874182) - [Who manages the agents?](https://www.off-policy.com/dont-go-quietly-into-the-ai-night/)
+* [2026-07-11, 17:33:55](https://news.ycombinator.com/item?id=48873940) - [Prefer Strict Tables in SQLite](https://evanhahn.com/prefer-strict-tables-in-sqlite/)
 * [2026-07-11, 17:30:01](https://news.ycombinator.com/item?id=48873910) - [BLISS](https://en.wikipedia.org/wiki/BLISS)
 * [2026-07-11, 17:27:55](https://news.ycombinator.com/item?id=48873893) - [Leaded Gas Was a Known Poison the Day It Was Invented (2016)](https://www.smithsonianmag.com/smart-news/leaded-gas-poison-invented-180961368/)
 * [2026-07-11, 17:24:15](https://news.ycombinator.com/item?id=48873858) - [Earendel (Astronomical Object)](https://en.wikipedia.org/wiki/Earendel_(astronomical_object))
@@ -14,14 +16,13 @@
 * [2026-07-11, 13:33:17](https://news.ycombinator.com/item?id=48871932) - [Speculations Concerning the First Ultraintelligent Machine (1965) [pdf]](https://languagelog.ldc.upenn.edu/myl/Good1964.pdf)
 * [2026-07-11, 12:12:34](https://news.ycombinator.com/item?id=48871367) - [FCC approves test of space mirror to light night sky](https://theconversation.com/the-u-s-just-approved-a-giant-space-mirror-to-test-sunlight-on-demand-low-earth-orbit-is-getting-weird-283482)
 * [2026-07-11, 09:36:53](https://news.ycombinator.com/item?id=48870381) - [Ghost Font: A font that humans can read but AI cannot](https://www.mixfont.com/ghost-font)
-* [2026-07-11, 09:16:10](https://news.ycombinator.com/item?id=48870258) - [Why it's so difficult to produce American-made medical gloves](https://www.bloomberg.com/news/features/2026-07-07/why-it-s-so-difficult-to-produce-100-american-made-medical-gloves)
 * [2026-07-10, 22:30:44](https://news.ycombinator.com/item?id=48866134) - [Einstein's relativity rules chemical bonds in heavy elements, new research shows](https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity)
 * [2026-07-10, 22:04:45](https://news.ycombinator.com/item?id=48865903) - [AI Can't Recreate the Thrust Game (But It Can Help You Understand It)](https://www.jamesdrandall.com/posts/thrust_ai_powered_software_archaeology/)
 * [2026-07-10, 20:47:09](https://news.ycombinator.com/item?id=48865019) - [Apple sues OpenAI, accuses ex-employees of stealing trade secrets](https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/)
 * [2026-07-10, 19:38:34](https://news.ycombinator.com/item?id=48864252) - [An update on residential proxies and the scraper situation](https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/)
 * [2026-07-10, 17:51:07](https://news.ycombinator.com/item?id=48863064) - [SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth](https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/)
 * [2026-07-10, 15:59:53](https://news.ycombinator.com/item?id=48861717) - [QuadRF can spot drones and see WiFi through my wall](https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/)
-* [2026-07-10, 10:32:41](https://news.ycombinator.com/item?id=48858121) - [Good Tools Are Invisible](https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/)
+* [2026-07-10, 03:38:55](https://news.ycombinator.com/item?id=48855488) - [The Oral History of the Dinosaur Input Device (DID)](https://vfxblog.com/dinosaurinputdevice/)
 * [2026-07-09, 05:28:42](https://news.ycombinator.com/item?id=48841348) - [Book: RISC-V System-on-Chip Design](https://www.amazon.com/RISC-V-Microprocessor-System-Chip-Design/dp/0323994989)
 * [2026-07-08, 11:30:12](https://news.ycombinator.com/item?id=48830556) - [Otary – Image and Geometry Python Library Now Has Tutorials](https://alexandrepoupeau.com/otary/learn/)
 * [2026-07-08, 10:35:37](https://news.ycombinator.com/item?id=48830191) - [Digital Deli, 1984 book by early PC hackers and enthusiasts](https://www.atariarchives.org/deli/)
@@ -29,7 +30,6 @@
 * [2026-07-07, 19:22:56](https://news.ycombinator.com/item?id=48822441) - [Amber the programming language compiled to Bash/Ksh/Zsh](https://amber-lang.com/)
 * [2026-07-07, 13:30:17](https://news.ycombinator.com/item?id=48817539) - [An iroh powered smart fan](https://www.iroh.computer/blog/an-iroh-powered-smart-fan)
 * [2026-07-06, 17:52:17](https://news.ycombinator.com/item?id=48808101) - [The Victorian War on Rabies](https://www.historytoday.com/archive/feature/mad-dogs-and-englishmen-winning-war-rabies)
-* [2026-07-05, 22:33:08](https://news.ycombinator.com/item?id=48798566) - [The mask that compiles to nothing: how HotSpots JIT learned to reason about bits](https://questdb.com/blog/jvm-jit-known-bits/)
 
 ## [Archives](archives/index.md)
 
