@@ -50,6 +50,7 @@
 * [2026-07-07, 14:08:58](https://news.ycombinator.com/item?id=48818124) - [Show HN: Shellular – run Claude Code, Codex, Pi from your phone](https://shellular.dev/)
 * [2026-07-07, 14:07:08](https://news.ycombinator.com/item?id=48818098) - [Show HN: Halo – open-source, tamper-evident runtime evidence for AI agents](https://github.com/bkuan001/halo-record)
 * [2026-07-07, 13:30:17](https://news.ycombinator.com/item?id=48817539) - [An iroh powered smart fan](https://www.iroh.computer/blog/an-iroh-powered-smart-fan)
+* [2026-07-07, 13:05:15](https://news.ycombinator.com/item?id=48817218) - [Show HN: Phobos – A tiny scale-free kernel language with tile-DAG support](https://www.joa-ebert.com/posts/2026-07-07-phobos-lang/)
 * [2026-07-07, 13:03:31](https://news.ycombinator.com/item?id=48817191) - [Mark Zuckerberg's biggest legal nightmare yet could cost Meta $1.4T](https://www.the-independent.com/tech/mark-zuckerberg-meta-fine-trillion-b3010281.html)
 * [2026-07-07, 12:50:40](https://news.ycombinator.com/item?id=48817017) - [Dua Lipa opens library for banned and censored books in Portugal](https://www.euronews.com/culture/2026/06/29/dua-lipa-opens-library-for-banned-and-censored-books-in-portugal)
 * [2026-07-07, 12:47:46](https://news.ycombinator.com/item?id=48816987) - [Show HN: Yamanote.fun – A complete soundscape for Tokyo's Yamanote line](https://www.yamanote.fun/)
