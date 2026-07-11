@@ -71,6 +71,7 @@
 * [2026-07-07, 06:06:25](https://news.ycombinator.com/item?id=48814170) - [Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit](https://mimo.xiaomi.com/blog/mimo-v2-5-inference)
 * [2026-07-07, 05:38:26](https://news.ycombinator.com/item?id=48814023) - [I Built the Only 2026 WWII Jeep](https://www.theautopian.com/i-bet-my-company-on-an-impossible-jeep-build-then-a-miracle-happened/)
 * [2026-07-07, 05:19:03](https://news.ycombinator.com/item?id=48813929) - [The Art of Computer Programming by Donald E. Knuth](https://www-cs-faculty.stanford.edu/~knuth/taocp.html)
+* [2026-07-07, 03:04:46](https://news.ycombinator.com/item?id=48813246) - [The footgun of right-to-left decorative characters](https://blog.alexbeals.com/posts/the-footgun-of-right-to-left-decorative-characters)
 * [2026-07-07, 03:01:03](https://news.ycombinator.com/item?id=48813214) - [Cache-Conscious Data Layout in Rust: Field Zoning, False Sharing, 128-Byte Rule](https://debasishg.github.io/blog/part1-cache-conscious-data-layout-in-rust/)
 * [2026-07-07, 01:40:26](https://news.ycombinator.com/item?id=48812736) - [Apache Shiro security framework releases 3.0.0](https://shiro.apache.org/blog/2026/06/apache-shiro-300-released.html)
 * [2026-07-07, 01:06:19](https://news.ycombinator.com/item?id=48812489) - [LLMs Are Not a Default Execution Engine](https://unmeshed.io/blog/using-ai-wisely-starts-before-the-first-prompt)
