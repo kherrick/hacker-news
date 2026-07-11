@@ -7,6 +7,7 @@
 * [2026-07-11, 18:22:02](https://news.ycombinator.com/item?id=48874357) - [How to Hide from Killer Drones](https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones)
 * [2026-07-11, 18:04:01](https://news.ycombinator.com/item?id=48874200) - [AI 2040 and the Cult of Intelligence](https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html)
 * [2026-07-11, 18:02:33](https://news.ycombinator.com/item?id=48874182) - [Who manages the agents?](https://www.off-policy.com/dont-go-quietly-into-the-ai-night/)
+* [2026-07-11, 17:44:40](https://news.ycombinator.com/item?id=48874046) - [Ask HN: Why isn't Google indexing information about the AT Protocol?](https://news.ycombinator.com/item?id=48874046)
 * [2026-07-11, 17:33:55](https://news.ycombinator.com/item?id=48873940) - [Prefer Strict Tables in SQLite](https://evanhahn.com/prefer-strict-tables-in-sqlite/)
 * [2026-07-11, 17:30:01](https://news.ycombinator.com/item?id=48873910) - [BLISS](https://en.wikipedia.org/wiki/BLISS)
 * [2026-07-11, 17:27:55](https://news.ycombinator.com/item?id=48873893) - [Leaded Gas Was a Known Poison the Day It Was Invented (2016)](https://www.smithsonianmag.com/smart-news/leaded-gas-poison-invented-180961368/)
