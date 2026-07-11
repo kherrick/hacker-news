@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-11, 06:09:33",
+      "https://news.ycombinator.com/item?id=48869243"
+    ],
+    [
+      "What's the best way to do authentication in modern applications",
+      "https://neciudan.dev/most-secure-way-to-store-auth-token"
+    ]
+  ],
+  [
+    [
+      "2026-07-11, 05:19:41",
+      "https://news.ycombinator.com/item?id=48868996"
+    ],
+    [
+      "The vintage beauty of Soviet control rooms (2018)",
+      "https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/"
+    ]
+  ],
+  [
+    [
       "2026-07-10, 22:30:44",
       "https://news.ycombinator.com/item?id=48866134"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2026-07-10, 13:31:08",
-      "https://news.ycombinator.com/item?id=48859678"
-    ],
-    [
-      "Successful companies go blind",
-      "https://ianreppel.org/how-successful-companies-go-blind/"
-    ]
-  ],
-  [
-    [
       "2026-07-10, 13:30:41",
       "https://news.ycombinator.com/item?id=48859673"
     ],
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2026-07-09, 11:16:18",
-      "https://news.ycombinator.com/item?id=48844046"
-    ],
-    [
-      "Show HN: Wyrm – Solve algebra by touch, built on an open-source soundness engine",
-      "https://github.com/dicroce/wyrm_math"
-    ]
-  ],
-  [
-    [
       "2026-07-09, 08:05:04",
       "https://news.ycombinator.com/item?id=48842459"
     ],
@@ -225,7 +225,7 @@
       "https://news.ycombinator.com/item?id=48827834"
     ],
     [
-      "The Lindy Effect in Software",
+      "The Lindy effect in software",
       "https://www.clemsau.com/posts/the-lindy-effect-in-software/"
     ]
   ],
