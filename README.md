@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-07-11, 12:30:40](https://news.ycombinator.com/item?id=48871470) - [Networking and the Internet, from First Principles](https://fazamhd.com/mental-models/networking/)
+* [2026-07-11, 12:12:34](https://news.ycombinator.com/item?id=48871367) - [FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry](https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html)
 * [2026-07-11, 10:50:10](https://news.ycombinator.com/item?id=48870799) - [Your code is fast – if you're lucky](https://tiki.li/blog/lucky_code.html)
 * [2026-07-11, 05:19:41](https://news.ycombinator.com/item?id=48868996) - [The vintage beauty of Soviet control rooms (2018)](https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/)
 * [2026-07-10, 22:30:44](https://news.ycombinator.com/item?id=48866134) - [Einstein's relativity rules chemical bonds in heavy elements, new research shows](https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity)
@@ -24,7 +25,6 @@
 * [2026-07-08, 11:30:12](https://news.ycombinator.com/item?id=48830556) - [Otary – Image and Geometry Python Library Now Has Tutorials](https://alexandrepoupeau.com/otary/learn/)
 * [2026-07-07, 23:51:49](https://news.ycombinator.com/item?id=48825612) - [Google Search lets creators know more about their reach](https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties)
 * [2026-07-07, 23:06:09](https://news.ycombinator.com/item?id=48825216) - [Silent speech with ultrasound](https://alephneuro.com/blog/silent-speech)
-* [2026-07-07, 17:40:14](https://news.ycombinator.com/item?id=48821052) - [Show HN: HTMLDrive – serve HTML files from your Google Drive](https://html-drive.com)
 * [2026-07-07, 13:30:17](https://news.ycombinator.com/item?id=48817539) - [An iroh powered smart fan](https://www.iroh.computer/blog/an-iroh-powered-smart-fan)
 * [2026-07-07, 06:06:25](https://news.ycombinator.com/item?id=48814170) - [Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit](https://mimo.xiaomi.com/blog/mimo-v2-5-inference)
 * [2026-07-06, 21:09:56](https://news.ycombinator.com/item?id=48810543) - [Alternate clock designs and time systems](https://serialc.github.io/altClocks/)
