@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-11, 23:15:06](https://news.ycombinator.com/item?id=48876741) - [Doctors die. It's not like the rest of us, but it should be (2016)](https://archive.cancerworld.net/featured/how-doctors-die/)
 * [2026-07-11, 22:49:42](https://news.ycombinator.com/item?id=48876593) - [Weightlifting beats running for blood sugar control, researchers find](https://news.vt.edu/articles/2025/11/research_fralinbiomed_yanweightlifting.html)
 * [2026-07-11, 22:38:57](https://news.ycombinator.com/item?id=48876505) - [Mesh LLM: distributed AI computing on iroh](https://www.iroh.computer/blog/mesh-llm)
 * [2026-07-11, 22:28:48](https://news.ycombinator.com/item?id=48876441) - [Stop Telling Me to Ask an LLM](https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/)
@@ -23,8 +24,7 @@
 * [2026-07-10, 22:04:45](https://news.ycombinator.com/item?id=48865903) - [AI Can't Recreate the Thrust Game (But It Can Help You Understand It)](https://www.jamesdrandall.com/posts/thrust_ai_powered_software_archaeology/)
 * [2026-07-09, 17:44:20](https://news.ycombinator.com/item?id=48849744) - [Billions of Sketches Reveal Hidden Cultural Variation in Human Concepts](https://arxiv.org/abs/2607.07267)
 * [2026-07-09, 05:28:42](https://news.ycombinator.com/item?id=48841348) - [Book: RISC-V System-on-Chip Design](https://www.amazon.com/RISC-V-Microprocessor-System-Chip-Design/dp/0323994989)
-* [2026-07-08, 14:15:16](https://news.ycombinator.com/item?id=48832274) - [Taiwan's Lost 8-Bit Computer [video]](https://www.youtube.com/watch?v=IZH1rR7WogI)
-* [2026-07-08, 11:30:12](https://news.ycombinator.com/item?id=48830556) - [Otary – Image and Geometry Python Library Now Has Tutorials](https://alexandrepoupeau.com/otary/learn/)
+* [2026-07-08, 11:44:25](https://news.ycombinator.com/item?id=48830664) - [Optimization Solver as a Service](https://www.quicopt.com/developer/getting-started/)
 * [2026-07-08, 10:35:37](https://news.ycombinator.com/item?id=48830191) - [Digital Deli, 1984 book by early PC hackers and enthusiasts](https://www.atariarchives.org/deli/)
 * [2026-07-07, 23:51:49](https://news.ycombinator.com/item?id=48825612) - [Google Search lets creators know more about their reach](https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties)
 * [2026-07-07, 19:22:56](https://news.ycombinator.com/item?id=48822441) - [Amber the programming language compiled to Bash/Ksh/Zsh](https://amber-lang.com/)
