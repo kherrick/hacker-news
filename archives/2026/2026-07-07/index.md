@@ -27,6 +27,7 @@
 * [2026-07-07, 18:14:50](https://news.ycombinator.com/item?id=48821441) - [Notes on Software Quality](https://anthonyhobday.com/blog/20260410)
 * [2026-07-07, 18:08:29](https://news.ycombinator.com/item?id=48821378) - [A new runtime for k and q: l](https://lv1.sh/)
 * [2026-07-07, 17:44:50](https://news.ycombinator.com/item?id=48821102) - [We're extending access to Fable 5 on all paid plans through July 12](https://twitter.com/claudeai/status/2074548242386178258)
+* [2026-07-07, 17:40:14](https://news.ycombinator.com/item?id=48821052) - [Show HN: HTMLDrive – serve HTML files from your Google Drive](https://html-drive.com)
 * [2026-07-07, 16:56:31](https://news.ycombinator.com/item?id=48820458) - [New Literalism Comes for Museums](https://jaymollica.com/blog/new-literalism-comes-for-museums/)
 * [2026-07-07, 16:42:41](https://news.ycombinator.com/item?id=48820274) - [Mapping homes you can buy from the US government for <$100k](https://govauctions.app/research/cheapest-homes-in-america)
 * [2026-07-07, 16:38:08](https://news.ycombinator.com/item?id=48820220) - [China sentences official to death for taking $325M in bribes](https://www.bbc.com/news/articles/c33y0n1v1xjo)
