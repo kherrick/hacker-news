@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-11, 18:02:33",
+      "https://news.ycombinator.com/item?id=48874182"
+    ],
+    [
+      "Who manages the agents?",
+      "https://www.off-policy.com/dont-go-quietly-into-the-ai-night/"
+    ]
+  ],
+  [
+    [
+      "2026-07-11, 17:33:55",
+      "https://news.ycombinator.com/item?id=48873940"
+    ],
+    [
+      "Prefer Strict Tables in SQLite",
+      "https://evanhahn.com/prefer-strict-tables-in-sqlite/"
+    ]
+  ],
+  [
+    [
       "2026-07-11, 17:30:01",
       "https://news.ycombinator.com/item?id=48873910"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2026-07-11, 09:16:10",
-      "https://news.ycombinator.com/item?id=48870258"
-    ],
-    [
-      "Why it's so difficult to produce American-made medical gloves",
-      "https://www.bloomberg.com/news/features/2026-07-07/why-it-s-so-difficult-to-produce-100-american-made-medical-gloves"
-    ]
-  ],
-  [
-    [
       "2026-07-10, 22:30:44",
       "https://news.ycombinator.com/item?id=48866134"
     ],
@@ -211,12 +221,12 @@
   ],
   [
     [
-      "2026-07-10, 10:32:41",
-      "https://news.ycombinator.com/item?id=48858121"
+      "2026-07-10, 03:38:55",
+      "https://news.ycombinator.com/item?id=48855488"
     ],
     [
-      "Good Tools Are Invisible",
-      "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/"
+      "The Oral History of the Dinosaur Input Device (DID)",
+      "https://vfxblog.com/dinosaurinputdevice/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The Victorian War on Rabies",
       "https://www.historytoday.com/archive/feature/mad-dogs-and-englishmen-winning-war-rabies"
-    ]
-  ],
-  [
-    [
-      "2026-07-05, 22:33:08",
-      "https://news.ycombinator.com/item?id=48798566"
-    ],
-    [
-      "The mask that compiles to nothing: how HotSpots JIT learned to reason about bits",
-      "https://questdb.com/blog/jvm-jit-known-bits/"
     ]
   ]
 ]
