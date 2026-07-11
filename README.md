@@ -2,7 +2,6 @@
 
 * [2026-07-11, 18:22:02](https://news.ycombinator.com/item?id=48874357) - [How to Hide from Killer Drones](https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones)
 * [2026-07-11, 18:02:33](https://news.ycombinator.com/item?id=48874182) - [Who manages the agents?](https://www.off-policy.com/dont-go-quietly-into-the-ai-night/)
-* [2026-07-11, 17:44:40](https://news.ycombinator.com/item?id=48874046) - [Ask HN: Why isn't Google indexing information about the AT Protocol?](https://news.ycombinator.com/item?id=48874046)
 * [2026-07-11, 17:33:55](https://news.ycombinator.com/item?id=48873940) - [Prefer Strict Tables in SQLite](https://evanhahn.com/prefer-strict-tables-in-sqlite/)
 * [2026-07-11, 17:30:01](https://news.ycombinator.com/item?id=48873910) - [BLISS](https://en.wikipedia.org/wiki/BLISS)
 * [2026-07-11, 17:27:55](https://news.ycombinator.com/item?id=48873893) - [Leaded Gas Was a Known Poison the Day It Was Invented (2016)](https://www.smithsonianmag.com/smart-news/leaded-gas-poison-invented-180961368/)
@@ -30,6 +29,7 @@
 * [2026-07-08, 10:35:37](https://news.ycombinator.com/item?id=48830191) - [Digital Deli, 1984 book by early PC hackers and enthusiasts](https://www.atariarchives.org/deli/)
 * [2026-07-07, 23:51:49](https://news.ycombinator.com/item?id=48825612) - [Google Search lets creators know more about their reach](https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties)
 * [2026-07-07, 19:22:56](https://news.ycombinator.com/item?id=48822441) - [Amber the programming language compiled to Bash/Ksh/Zsh](https://amber-lang.com/)
+* [2026-07-07, 16:48:48](https://news.ycombinator.com/item?id=48820361) - [Biff.graph: structure your Clojure codebase as a queryable graph](https://github.com/jacobobryant/biff/tree/v2.x/libs/graph)
 
 ## [Archives](archives/index.md)
 

@@ -30,6 +30,7 @@
 * [2026-07-07, 17:44:50](https://news.ycombinator.com/item?id=48821102) - [We're extending access to Fable 5 on all paid plans through July 12](https://twitter.com/claudeai/status/2074548242386178258)
 * [2026-07-07, 17:40:14](https://news.ycombinator.com/item?id=48821052) - [Show HN: HTMLDrive – serve HTML files from your Google Drive](https://html-drive.com)
 * [2026-07-07, 16:56:31](https://news.ycombinator.com/item?id=48820458) - [New Literalism Comes for Museums](https://jaymollica.com/blog/new-literalism-comes-for-museums/)
+* [2026-07-07, 16:48:48](https://news.ycombinator.com/item?id=48820361) - [Biff.graph: structure your Clojure codebase as a queryable graph](https://github.com/jacobobryant/biff/tree/v2.x/libs/graph)
 * [2026-07-07, 16:42:41](https://news.ycombinator.com/item?id=48820274) - [Mapping homes you can buy from the US government for <$100k](https://govauctions.app/research/cheapest-homes-in-america)
 * [2026-07-07, 16:38:08](https://news.ycombinator.com/item?id=48820220) - [China sentences official to death for taking $325M in bribes](https://www.bbc.com/news/articles/c33y0n1v1xjo)
 * [2026-07-07, 16:31:19](https://news.ycombinator.com/item?id=48820127) - [Reducing Doom Loops with Final Token Preference Optimization](https://www.liquid.ai/blog/antidoom)
