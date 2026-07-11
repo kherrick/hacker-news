@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-11, 22:49:42",
+      "https://news.ycombinator.com/item?id=48876593"
+    ],
+    [
+      "Weightlifting beats running for blood sugar control, researchers find",
+      "https://news.vt.edu/articles/2025/11/research_fralinbiomed_yanweightlifting.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-11, 22:38:57",
+      "https://news.ycombinator.com/item?id=48876505"
+    ],
+    [
+      "Mesh LLM: distributed AI computing on iroh",
+      "https://www.iroh.computer/blog/mesh-llm"
+    ]
+  ],
+  [
+    [
       "2026-07-11, 22:28:48",
       "https://news.ycombinator.com/item?id=48876441"
     ],
@@ -17,16 +37,6 @@
     [
       "RISCBoy is an open-source portable games console, designed from scratch",
       "https://github.com/Wren6991/RISCBoy"
-    ]
-  ],
-  [
-    [
-      "2026-07-11, 20:21:25",
-      "https://news.ycombinator.com/item?id=48875494"
-    ],
-    [
-      "I used to love Claude, but the latest models are slowly ruining it",
-      "https://www.androidauthority.com/claude-latest-models-pushback-bad-3683521/"
     ]
   ],
   [
@@ -67,16 +77,6 @@
     [
       "ZeroFS vs. Amazon S3 Files",
       "https://www.zerofs.net/blog/zerofs-vs-aws-s3-files/"
-    ]
-  ],
-  [
-    [
-      "2026-07-11, 18:04:01",
-      "https://news.ycombinator.com/item?id=48874200"
-    ],
-    [
-      "AI 2040 and the cult of intelligence",
-      "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2026-07-10, 19:38:34",
-      "https://news.ycombinator.com/item?id=48864252"
-    ],
-    [
-      "An update on residential proxies and the scraper situation",
-      "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/"
-    ]
-  ],
-  [
-    [
       "2026-07-09, 17:44:20",
       "https://news.ycombinator.com/item?id=48849744"
     ],
@@ -247,6 +237,16 @@
     [
       "Taiwan's Lost 8-Bit Computer [video]",
       "https://www.youtube.com/watch?v=IZH1rR7WogI"
+    ]
+  ],
+  [
+    [
+      "2026-07-08, 11:30:12",
+      "https://news.ycombinator.com/item?id=48830556"
+    ],
+    [
+      "Otary – Image and Geometry Python Library Now Has Tutorials",
+      "https://alexandrepoupeau.com/otary/learn/"
     ]
   ],
   [
