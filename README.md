@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-11, 14:46:38](https://news.ycombinator.com/item?id=48872517) - [USAA closed 51% of home insurance claims without making a payment in 2025](https://www.expressnews.com/business/article/san-antonio-usaa-insurance-claims-rejected-22293061.php)
 * [2026-07-11, 13:33:17](https://news.ycombinator.com/item?id=48871932) - [Speculations Concerning the First Ultraintelligent Machine (1965) [pdf]](https://languagelog.ldc.upenn.edu/myl/Good1964.pdf)
 * [2026-07-11, 12:30:40](https://news.ycombinator.com/item?id=48871470) - [Networking and the Internet, from First Principles](https://fazamhd.com/mental-models/networking/)
 * [2026-07-11, 10:50:10](https://news.ycombinator.com/item?id=48870799) - [Your code is fast – if you're lucky](https://tiki.li/blog/lucky_code.html)
@@ -24,7 +25,6 @@
 * [2026-07-08, 11:30:12](https://news.ycombinator.com/item?id=48830556) - [Otary – Image and Geometry Python Library Now Has Tutorials](https://alexandrepoupeau.com/otary/learn/)
 * [2026-07-07, 23:51:49](https://news.ycombinator.com/item?id=48825612) - [Google Search lets creators know more about their reach](https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties)
 * [2026-07-07, 23:06:09](https://news.ycombinator.com/item?id=48825216) - [Silent speech with ultrasound](https://alephneuro.com/blog/silent-speech)
-* [2026-07-07, 17:40:14](https://news.ycombinator.com/item?id=48821052) - [Show HN: HTMLDrive – serve HTML files from your Google Drive](https://html-drive.com)
 * [2026-07-07, 13:30:17](https://news.ycombinator.com/item?id=48817539) - [An iroh powered smart fan](https://www.iroh.computer/blog/an-iroh-powered-smart-fan)
 * [2026-07-07, 06:06:25](https://news.ycombinator.com/item?id=48814170) - [Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit](https://mimo.xiaomi.com/blog/mimo-v2-5-inference)
 * [2026-07-06, 21:09:56](https://news.ycombinator.com/item?id=48810543) - [Alternate clock designs and time systems](https://serialc.github.io/altClocks/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-11](index.md)
 
+* [2026-07-11, 14:46:38](https://news.ycombinator.com/item?id=48872517) - [USAA closed 51% of home insurance claims without making a payment in 2025](https://www.expressnews.com/business/article/san-antonio-usaa-insurance-claims-rejected-22293061.php)
 * [2026-07-11, 13:33:17](https://news.ycombinator.com/item?id=48871932) - [Speculations Concerning the First Ultraintelligent Machine (1965) [pdf]](https://languagelog.ldc.upenn.edu/myl/Good1964.pdf)
 * [2026-07-11, 13:04:35](https://news.ycombinator.com/item?id=48871716) - [Semantic/Hybrid Search in the Browser](https://bart.degoe.de/semantic-search-in-your-browser/)
 * [2026-07-11, 12:30:40](https://news.ycombinator.com/item?id=48871470) - [Networking and the Internet, from First Principles](https://fazamhd.com/mental-models/networking/)
