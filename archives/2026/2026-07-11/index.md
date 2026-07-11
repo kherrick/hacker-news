@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-07-11](index.md)
 
+* [2026-07-11, 20:07:18](https://news.ycombinator.com/item?id=48875377) - [Show HN: Ant – A JavaScript Runtime and Ecosystem](https://antjs.org)
+* [2026-07-11, 19:46:00](https://news.ycombinator.com/item?id=48875153) - [The Chinese Voice Actor Forced to Prove He's Human](https://www.sixthtone.com/news/1018753)
 * [2026-07-11, 18:22:02](https://news.ycombinator.com/item?id=48874357) - [How to Hide from Killer Drones](https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones)
+* [2026-07-11, 18:15:35](https://news.ycombinator.com/item?id=48874297) - [ZeroFS vs. Amazon S3 Files](https://www.zerofs.net/blog/zerofs-vs-aws-s3-files/)
 * [2026-07-11, 18:04:01](https://news.ycombinator.com/item?id=48874200) - [AI 2040 and the Cult of Intelligence](https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html)
 * [2026-07-11, 18:02:33](https://news.ycombinator.com/item?id=48874182) - [Who manages the agents?](https://www.off-policy.com/dont-go-quietly-into-the-ai-night/)
 * [2026-07-11, 17:44:40](https://news.ycombinator.com/item?id=48874046) - [Ask HN: Why isn't Google indexing information about the AT Protocol?](https://news.ycombinator.com/item?id=48874046)
