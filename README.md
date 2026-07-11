@@ -1,12 +1,14 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-11, 17:03:23](https://news.ycombinator.com/item?id=48873692) - [Female US rower completes historic solo journey from California to Hawaii](https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey)
+* [2026-07-11, 17:00:35](https://news.ycombinator.com/item?id=48873665) - [Sixtyfour (YC P25) Is Hiring](https://www.ycombinator.com/companies/sixtyfour/jobs/bIbgQkL-operations-associate-data-samples-customer-success)
+* [2026-07-11, 16:28:48](https://news.ycombinator.com/item?id=48873424) - [Modern Decor May Be Straining People's Brains](https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/)
 * [2026-07-11, 15:38:46](https://news.ycombinator.com/item?id=48872973) - [Tropical forests facing increasing risks of exposure to critical temp thresholds](https://www.pnas.org/doi/10.1073/pnas.2528622123)
 * [2026-07-11, 15:28:02](https://news.ycombinator.com/item?id=48872874) - [We scaled PgBouncer to 4x throughput](https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres)
 * [2026-07-11, 15:26:12](https://news.ycombinator.com/item?id=48872858) - [The early History of the Singular Value Decomposition (1993) [pdf]](https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf)
 * [2026-07-11, 13:40:27](https://news.ycombinator.com/item?id=48871973) - [Show HN: Learn by rebuilding Redis, Git, a database from scratch](https://shipthatcode.com)
 * [2026-07-11, 13:33:17](https://news.ycombinator.com/item?id=48871932) - [Speculations Concerning the First Ultraintelligent Machine (1965) [pdf]](https://languagelog.ldc.upenn.edu/myl/Good1964.pdf)
 * [2026-07-11, 12:12:34](https://news.ycombinator.com/item?id=48871367) - [FCC approves test of space mirror to light night sky](https://theconversation.com/the-u-s-just-approved-a-giant-space-mirror-to-test-sunlight-on-demand-low-earth-orbit-is-getting-weird-283482)
-* [2026-07-11, 10:50:10](https://news.ycombinator.com/item?id=48870799) - [Your code is fast – if you're lucky](https://tiki.li/blog/lucky_code.html)
 * [2026-07-11, 09:36:53](https://news.ycombinator.com/item?id=48870381) - [Ghost Font: A font that humans can read but AI cannot](https://www.mixfont.com/ghost-font)
 * [2026-07-11, 09:16:10](https://news.ycombinator.com/item?id=48870258) - [Why it's so difficult to produce American-made medical gloves](https://www.bloomberg.com/news/features/2026-07-07/why-it-s-so-difficult-to-produce-100-american-made-medical-gloves)
 * [2026-07-11, 05:19:41](https://news.ycombinator.com/item?id=48868996) - [The vintage beauty of Soviet control rooms (2018)](https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/)
@@ -26,10 +28,8 @@
 * [2026-07-07, 23:51:49](https://news.ycombinator.com/item?id=48825612) - [Google Search lets creators know more about their reach](https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties)
 * [2026-07-07, 23:06:09](https://news.ycombinator.com/item?id=48825216) - [Silent speech with ultrasound](https://alephneuro.com/blog/silent-speech)
 * [2026-07-07, 13:30:17](https://news.ycombinator.com/item?id=48817539) - [An iroh powered smart fan](https://www.iroh.computer/blog/an-iroh-powered-smart-fan)
-* [2026-07-06, 21:09:56](https://news.ycombinator.com/item?id=48810543) - [Alternate clock designs and time systems](https://serialc.github.io/altClocks/)
 * [2026-07-06, 17:52:17](https://news.ycombinator.com/item?id=48808101) - [The Victorian War on Rabies](https://www.historytoday.com/archive/feature/mad-dogs-and-englishmen-winning-war-rabies)
 * [2026-07-05, 22:33:08](https://news.ycombinator.com/item?id=48798566) - [The mask that compiles to nothing: how HotSpots JIT learned to reason about bits](https://questdb.com/blog/jvm-jit-known-bits/)
-* [2026-07-05, 17:11:38](https://news.ycombinator.com/item?id=48795900) - [Combustion engine web-based simulator](https://combustionlab.net)
 
 ## [Archives](archives/index.md)
 
