@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-07-11, 15:38:46",
+      "https://news.ycombinator.com/item?id=48872973"
+    ],
+    [
+      "Tropical forests facing increasing risks of exposure to critical temp thresholds",
+      "https://www.pnas.org/doi/10.1073/pnas.2528622123"
+    ]
+  ],
+  [
+    [
       "2026-07-11, 15:28:02",
       "https://news.ycombinator.com/item?id=48872874"
     ],
     [
       "We scaled PgBouncer to 4x throughput",
       "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres"
+    ]
+  ],
+  [
+    [
+      "2026-07-11, 15:26:12",
+      "https://news.ycombinator.com/item?id=48872858"
+    ],
+    [
+      "The early History of the Singular Value Decomposition (1993) [pdf]",
+      "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-07-11, 13:40:27",
+      "https://news.ycombinator.com/item?id=48871973"
+    ],
+    [
+      "Show HN: Learn by rebuilding Redis, Git, a database from scratch",
+      "https://shipthatcode.com"
     ]
   ],
   [
@@ -37,16 +67,6 @@
     [
       "Your code is fast – if you're lucky",
       "https://tiki.li/blog/lucky_code.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-11, 09:54:14",
-      "https://news.ycombinator.com/item?id=48870472"
-    ],
-    [
-      "Show HN: Richest people in the world by wealth creation instead of ownership",
-      "https://anti-forbes-list.vercel.app"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2026-07-10, 16:37:52",
-      "https://news.ycombinator.com/item?id=48862252"
-    ],
-    [
-      "Snails' teeth beats spider silk as nature's strongest material (2015)",
-      "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/"
-    ]
-  ],
-  [
-    [
       "2026-07-10, 15:59:53",
       "https://news.ycombinator.com/item?id=48861717"
     ],
@@ -187,16 +197,6 @@
     [
       "AI 2040: Plan A",
       "https://ai-2040.com/"
-    ]
-  ],
-  [
-    [
-      "2026-07-09, 08:05:04",
-      "https://news.ycombinator.com/item?id=48842459"
-    ],
-    [
-      "Show HN: Getting GLM 5.2 running on my slow computer",
-      "https://github.com/JustVugg/colibri"
     ]
   ],
   [
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2026-07-07, 06:06:25",
-      "https://news.ycombinator.com/item?id=48814170"
-    ],
-    [
-      "Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit",
-      "https://mimo.xiaomi.com/blog/mimo-v2-5-inference"
-    ]
-  ],
-  [
-    [
       "2026-07-06, 21:09:56",
       "https://news.ycombinator.com/item?id=48810543"
     ],
     [
       "Alternate clock designs and time systems",
       "https://serialc.github.io/altClocks/"
+    ]
+  ],
+  [
+    [
+      "2026-07-06, 17:52:17",
+      "https://news.ycombinator.com/item?id=48808101"
+    ],
+    [
+      "The Victorian War on Rabies",
+      "https://www.historytoday.com/archive/feature/mad-dogs-and-englishmen-winning-war-rabies"
     ]
   ],
   [
