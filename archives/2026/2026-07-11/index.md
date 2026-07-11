@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-11](index.md)
 
+* [2026-07-11, 13:33:17](https://news.ycombinator.com/item?id=48871932) - [Speculations Concerning the First Ultraintelligent Machine (1965) [pdf]](https://languagelog.ldc.upenn.edu/myl/Good1964.pdf)
+* [2026-07-11, 13:04:35](https://news.ycombinator.com/item?id=48871716) - [Semantic/Hybrid Search in the Browser](https://bart.degoe.de/semantic-search-in-your-browser/)
 * [2026-07-11, 12:30:40](https://news.ycombinator.com/item?id=48871470) - [Networking and the Internet, from First Principles](https://fazamhd.com/mental-models/networking/)
 * [2026-07-11, 12:12:34](https://news.ycombinator.com/item?id=48871367) - [FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry](https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html)
 * [2026-07-11, 10:50:10](https://news.ycombinator.com/item?id=48870799) - [Your code is fast – if you're lucky](https://tiki.li/blog/lucky_code.html)
