@@ -2,7 +2,6 @@
 
 * [2026-07-11, 15:28:02](https://news.ycombinator.com/item?id=48872874) - [We scaled PgBouncer to 4x throughput](https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres)
 * [2026-07-11, 13:33:17](https://news.ycombinator.com/item?id=48871932) - [Speculations Concerning the First Ultraintelligent Machine (1965) [pdf]](https://languagelog.ldc.upenn.edu/myl/Good1964.pdf)
-* [2026-07-11, 12:30:40](https://news.ycombinator.com/item?id=48871470) - [Networking and the Internet, from First Principles](https://fazamhd.com/mental-models/networking/)
 * [2026-07-11, 12:12:34](https://news.ycombinator.com/item?id=48871367) - [FCC approves test of space mirror to light night sky](https://theconversation.com/the-u-s-just-approved-a-giant-space-mirror-to-test-sunlight-on-demand-low-earth-orbit-is-getting-weird-283482)
 * [2026-07-11, 10:50:10](https://news.ycombinator.com/item?id=48870799) - [Your code is fast – if you're lucky](https://tiki.li/blog/lucky_code.html)
 * [2026-07-11, 09:54:14](https://news.ycombinator.com/item?id=48870472) - [Show HN: Richest people in the world by wealth creation instead of ownership](https://anti-forbes-list.vercel.app)
@@ -20,6 +19,7 @@
 * [2026-07-10, 11:59:55](https://news.ycombinator.com/item?id=48858737) - [Late Bronze Age Collapse](https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/)
 * [2026-07-10, 10:32:41](https://news.ycombinator.com/item?id=48858121) - [Good Tools Are Invisible](https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/)
 * [2026-07-09, 16:21:44](https://news.ycombinator.com/item?id=48848425) - [AI 2040: Plan A](https://ai-2040.com/)
+* [2026-07-09, 08:05:04](https://news.ycombinator.com/item?id=48842459) - [Show HN: Getting GLM 5.2 running on my slow computer](https://github.com/JustVugg/colibri)
 * [2026-07-09, 05:28:42](https://news.ycombinator.com/item?id=48841348) - [Book: RISC-V System-on-Chip Design](https://www.amazon.com/RISC-V-Microprocessor-System-Chip-Design/dp/0323994989)
 * [2026-07-08, 11:30:12](https://news.ycombinator.com/item?id=48830556) - [Otary – Image and Geometry Python Library Now Has Tutorials](https://alexandrepoupeau.com/otary/learn/)
 * [2026-07-08, 10:35:37](https://news.ycombinator.com/item?id=48830191) - [Digital Deli, 1984 book by early PC hackers and enthusiasts](https://www.atariarchives.org/deli/)
