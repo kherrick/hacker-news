@@ -53,6 +53,7 @@
 * [2026-07-08, 08:37:26](https://news.ycombinator.com/item?id=48829242) - [Geosql: A Claude/Codex skill for geospatial data](https://github.com/dekart-xyz/geosql)
 * [2026-07-08, 07:18:26](https://news.ycombinator.com/item?id=48828648) - [The space bit of SpaceX is worth $8 a share, says Morgan Stanley](https://www.ft.com/content/09a62ed4-16af-433c-adb7-c877d1975388)
 * [2026-07-08, 05:25:35](https://news.ycombinator.com/item?id=48827858) - [GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos](https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/)
+* [2026-07-08, 05:20:31](https://news.ycombinator.com/item?id=48827834) - [The Lindy Effect in Software](https://www.clemsau.com/posts/the-lindy-effect-in-software/)
 * [2026-07-08, 04:12:13](https://news.ycombinator.com/item?id=48827402) - [GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday](https://twitter.com/OpenAI/status/2074704958419792299)
 * [2026-07-08, 03:59:35](https://news.ycombinator.com/item?id=48827325) - [How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS](https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/)
 * [2026-07-08, 03:22:31](https://news.ycombinator.com/item?id=48827092) - [Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks](https://www.digipres.org/the-floppy-guide/)
