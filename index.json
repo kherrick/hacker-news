@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-11, 20:21:25",
+      "https://news.ycombinator.com/item?id=48875494"
+    ],
+    [
+      "I used to love Claude, but the latest models are slowly ruining it",
+      "https://www.androidauthority.com/claude-latest-models-pushback-bad-3683521/"
+    ]
+  ],
+  [
+    [
       "2026-07-11, 20:07:18",
       "https://news.ycombinator.com/item?id=48875377"
     ],
@@ -67,16 +77,6 @@
     [
       "Prefer strict tables in SQLite",
       "https://evanhahn.com/prefer-strict-tables-in-sqlite/"
-    ]
-  ],
-  [
-    [
-      "2026-07-11, 17:27:55",
-      "https://news.ycombinator.com/item?id=48873893"
-    ],
-    [
-      "Leaded gas was a known poison the day it was invented (2016)",
-      "https://www.smithsonianmag.com/smart-news/leaded-gas-poison-invented-180961368/"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2026-07-10, 19:38:34",
-      "https://news.ycombinator.com/item?id=48864252"
-    ],
-    [
-      "An update on residential proxies and the scraper situation",
-      "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/"
-    ]
-  ],
-  [
-    [
       "2026-07-09, 05:28:42",
       "https://news.ycombinator.com/item?id=48841348"
     ],
@@ -297,6 +287,16 @@
     [
       "Biff.graph: structure your Clojure codebase as a queryable graph",
       "https://github.com/jacobobryant/biff/tree/v2.x/libs/graph"
+    ]
+  ],
+  [
+    [
+      "2026-07-06, 01:06:21",
+      "https://news.ycombinator.com/item?id=48799624"
+    ],
+    [
+      "Lost and Found",
+      "https://walzr.com/lost-and-found"
     ]
   ]
 ]
