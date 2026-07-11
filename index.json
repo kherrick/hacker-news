@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-11, 18:22:02",
+      "https://news.ycombinator.com/item?id=48874357"
+    ],
+    [
+      "How to Hide from Killer Drones",
+      "https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones"
+    ]
+  ],
+  [
+    [
+      "2026-07-11, 18:04:01",
+      "https://news.ycombinator.com/item?id=48874200"
+    ],
+    [
+      "AI 2040 and the Cult of Intelligence",
+      "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html"
+    ]
+  ],
+  [
+    [
       "2026-07-11, 18:02:33",
       "https://news.ycombinator.com/item?id=48874182"
     ],
@@ -61,6 +81,16 @@
   ],
   [
     [
+      "2026-07-11, 17:21:49",
+      "https://news.ycombinator.com/item?id=48873836"
+    ],
+    [
+      "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+      "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom"
+    ]
+  ],
+  [
+    [
       "2026-07-11, 17:03:23",
       "https://news.ycombinator.com/item?id=48873692"
     ],
@@ -81,12 +111,52 @@
   ],
   [
     [
+      "2026-07-11, 16:39:02",
+      "https://news.ycombinator.com/item?id=48873501"
+    ],
+    [
+      "Show HN: Orbit – AR satellite tracker, watch 15k+ objects",
+      "https://nagylukas.github.io/orbit.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-11, 16:37:02",
+      "https://news.ycombinator.com/item?id=48873486"
+    ],
+    [
+      "Show HN: Earth Game – An offline CLI for turning life goals into quests",
+      "https://github.com/skorotkiewicz/earth-game"
+    ]
+  ],
+  [
+    [
+      "2026-07-11, 16:33:42",
+      "https://news.ycombinator.com/item?id=48873457"
+    ],
+    [
+      "UPI: Anatomy of a Payment Transaction",
+      "https://timeseriesofindia.com/economy/reads/upi-architecture/"
+    ]
+  ],
+  [
+    [
       "2026-07-11, 16:28:48",
       "https://news.ycombinator.com/item?id=48873424"
     ],
     [
       "Modern Decor May Be Straining People's Brains",
       "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/"
+    ]
+  ],
+  [
+    [
+      "2026-07-11, 16:27:44",
+      "https://news.ycombinator.com/item?id=48873417"
+    ],
+    [
+      "Show HN: Reame – a CPU inference server that gets faster as it runs",
+      "https://github.com/swellweb/reame"
     ]
   ],
   [
@@ -141,26 +211,6 @@
   ],
   [
     [
-      "2026-07-11, 12:12:34",
-      "https://news.ycombinator.com/item?id=48871367"
-    ],
-    [
-      "FCC approves test of space mirror to light night sky",
-      "https://theconversation.com/the-u-s-just-approved-a-giant-space-mirror-to-test-sunlight-on-demand-low-earth-orbit-is-getting-weird-283482"
-    ]
-  ],
-  [
-    [
-      "2026-07-11, 09:36:53",
-      "https://news.ycombinator.com/item?id=48870381"
-    ],
-    [
-      "Ghost Font: A font that humans can read but AI cannot",
-      "https://www.mixfont.com/ghost-font"
-    ]
-  ],
-  [
-    [
       "2026-07-10, 22:30:44",
       "https://news.ycombinator.com/item?id=48866134"
     ],
@@ -191,42 +241,12 @@
   ],
   [
     [
-      "2026-07-10, 19:38:34",
-      "https://news.ycombinator.com/item?id=48864252"
-    ],
-    [
-      "An update on residential proxies and the scraper situation",
-      "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/"
-    ]
-  ],
-  [
-    [
-      "2026-07-10, 17:51:07",
-      "https://news.ycombinator.com/item?id=48863064"
-    ],
-    [
-      "SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth",
-      "https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/"
-    ]
-  ],
-  [
-    [
       "2026-07-10, 15:59:53",
       "https://news.ycombinator.com/item?id=48861717"
     ],
     [
       "QuadRF can spot drones and see WiFi through my wall",
       "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/"
-    ]
-  ],
-  [
-    [
-      "2026-07-10, 03:38:55",
-      "https://news.ycombinator.com/item?id=48855488"
-    ],
-    [
-      "The Oral History of the Dinosaur Input Device (DID)",
-      "https://vfxblog.com/dinosaurinputdevice/"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Amber the programming language compiled to Bash/Ksh/Zsh",
       "https://amber-lang.com/"
-    ]
-  ],
-  [
-    [
-      "2026-07-07, 13:30:17",
-      "https://news.ycombinator.com/item?id=48817539"
-    ],
-    [
-      "An iroh powered smart fan",
-      "https://www.iroh.computer/blog/an-iroh-powered-smart-fan"
-    ]
-  ],
-  [
-    [
-      "2026-07-06, 17:52:17",
-      "https://news.ycombinator.com/item?id=48808101"
-    ],
-    [
-      "The Victorian War on Rabies",
-      "https://www.historytoday.com/archive/feature/mad-dogs-and-englishmen-winning-war-rabies"
     ]
   ]
 ]
