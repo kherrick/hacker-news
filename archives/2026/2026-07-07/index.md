@@ -33,6 +33,7 @@
 * [2026-07-07, 16:24:40](https://news.ycombinator.com/item?id=48820022) - [MacSurf 1.68 – NetSurf on OS 9 Released](https://github.com/mplsllc/macsurf/releases/tag/v1.86)
 * [2026-07-07, 16:20:12](https://news.ycombinator.com/item?id=48819958) - [Weighing smoke: why AI visibility dashboards are mostly useless](https://betterthangood.xyz/blog/weighing-smoke/)
 * [2026-07-07, 16:10:44](https://news.ycombinator.com/item?id=48819808) - [Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop](https://github.com/rowboatlabs/rowboat)
+* [2026-07-07, 15:58:20](https://news.ycombinator.com/item?id=48819612) - [Documentation is still in your Mum's filing cabinet](https://gerireid.com/blog/organising-documentation-for-humans-and-ai/)
 * [2026-07-07, 15:58:13](https://news.ycombinator.com/item?id=48819608) - [30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format](https://30papers.com/)
 * [2026-07-07, 15:52:48](https://news.ycombinator.com/item?id=48819517) - [Sites that block AI training crawlers mostly ignore the answer time bots](https://sitedex.dev/insights/robots-txt-2023-war-memorial)
 * [2026-07-07, 15:52:22](https://news.ycombinator.com/item?id=48819512) - [Better Auth is joining Vercel](https://better-auth.com/blog/better-auth-joins-vercel)
