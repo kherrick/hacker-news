@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-07-11, 20:49:14](https://news.ycombinator.com/item?id=48875709) - [OpenAI Forked Git on GitHub](https://github.com/openai/git)
 * [2026-07-11, 20:07:18](https://news.ycombinator.com/item?id=48875377) - [Show HN: Ant – A JavaScript runtime and ecosystem](https://antjs.org)
 * [2026-07-11, 19:46:00](https://news.ycombinator.com/item?id=48875153) - [The Chinese Voice Actor Forced to Prove He's Human](https://www.sixthtone.com/news/1018753)
 * [2026-07-11, 18:22:02](https://news.ycombinator.com/item?id=48874357) - [How to hide from killer drones](https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones)
@@ -9,7 +8,7 @@
 * [2026-07-11, 18:02:33](https://news.ycombinator.com/item?id=48874182) - [Who manages the agents?](https://www.off-policy.com/dont-go-quietly-into-the-ai-night/)
 * [2026-07-11, 17:33:55](https://news.ycombinator.com/item?id=48873940) - [Prefer strict tables in SQLite](https://evanhahn.com/prefer-strict-tables-in-sqlite/)
 * [2026-07-11, 17:27:55](https://news.ycombinator.com/item?id=48873893) - [Leaded gas was a known poison the day it was invented (2016)](https://www.smithsonianmag.com/smart-news/leaded-gas-poison-invented-180961368/)
-* [2026-07-11, 17:23:52](https://news.ycombinator.com/item?id=48873855) - [Reverse centaurs are the answer to the AI paradox](https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative)
+* [2026-07-11, 17:23:52](https://news.ycombinator.com/item?id=48873855) - [Reverse centaurs are the answer to the AI paradox (2025)](https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative)
 * [2026-07-11, 17:21:49](https://news.ycombinator.com/item?id=48873836) - [Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom](https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom)
 * [2026-07-11, 17:03:23](https://news.ycombinator.com/item?id=48873692) - [Female US rower completes historic solo journey from California to Hawaii](https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey)
 * [2026-07-11, 17:00:35](https://news.ycombinator.com/item?id=48873665) - [Sixtyfour (YC P25) Is Hiring](https://www.ycombinator.com/companies/sixtyfour/jobs/bIbgQkL-operations-associate-data-samples-customer-success)
@@ -24,6 +23,7 @@
 * [2026-07-10, 22:30:44](https://news.ycombinator.com/item?id=48866134) - [Einstein's relativity rules chemical bonds in heavy elements, new research shows](https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity)
 * [2026-07-10, 22:04:45](https://news.ycombinator.com/item?id=48865903) - [AI Can't Recreate the Thrust Game (But It Can Help You Understand It)](https://www.jamesdrandall.com/posts/thrust_ai_powered_software_archaeology/)
 * [2026-07-10, 20:47:09](https://news.ycombinator.com/item?id=48865019) - [Apple sues OpenAI, accuses ex-employees of stealing trade secrets](https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/)
+* [2026-07-10, 19:38:34](https://news.ycombinator.com/item?id=48864252) - [An update on residential proxies and the scraper situation](https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/)
 * [2026-07-09, 05:28:42](https://news.ycombinator.com/item?id=48841348) - [Book: RISC-V System-on-Chip Design](https://www.amazon.com/RISC-V-Microprocessor-System-Chip-Design/dp/0323994989)
 * [2026-07-08, 14:15:16](https://news.ycombinator.com/item?id=48832274) - [Taiwan's Lost 8-Bit Computer [video]](https://www.youtube.com/watch?v=IZH1rR7WogI)
 * [2026-07-08, 10:35:37](https://news.ycombinator.com/item?id=48830191) - [Digital Deli, 1984 book by early PC hackers and enthusiasts](https://www.atariarchives.org/deli/)
