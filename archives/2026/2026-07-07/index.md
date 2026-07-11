@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-07-07](index.md)
 
 * [2026-07-07, 23:57:29](https://news.ycombinator.com/item?id=48825664) - [Structure and Interpretation of Computer Programs Video Lectures](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/)
+* [2026-07-07, 23:51:49](https://news.ycombinator.com/item?id=48825612) - [Google Search lets creators know more about their reach](https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties)
 * [2026-07-07, 23:45:47](https://news.ycombinator.com/item?id=48825556) - [A 13th-Century Enumeration Algorithm, Ignored for 700 Years](https://blog.klipse.tech/aboulafia/2026/07/06/a-13th-century-enumeration-algorithm-ignored-for-700-years.html)
 * [2026-07-07, 23:29:36](https://news.ycombinator.com/item?id=48825430) - [Show HN: Free Mermaid Diagram Editor](https://moxiedocs.com/mermaid-diagram-editor)
 * [2026-07-07, 23:21:03](https://news.ycombinator.com/item?id=48825356) - [Git Hash Chain Malleability](https://arxiv.org/abs/2607.02820)
