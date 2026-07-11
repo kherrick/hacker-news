@@ -9,6 +9,7 @@
 * [2026-07-07, 23:29:36](https://news.ycombinator.com/item?id=48825430) - [Show HN: Free Mermaid Diagram Editor](https://moxiedocs.com/mermaid-diagram-editor)
 * [2026-07-07, 23:21:03](https://news.ycombinator.com/item?id=48825356) - [Git Hash Chain Malleability](https://arxiv.org/abs/2607.02820)
 * [2026-07-07, 23:08:14](https://news.ycombinator.com/item?id=48825234) - [FrankenMarkdown](https://franken-markdown.com/)
+* [2026-07-07, 23:06:09](https://news.ycombinator.com/item?id=48825216) - [Silent speech with ultrasound](https://alephneuro.com/blog/silent-speech)
 * [2026-07-07, 22:23:58](https://news.ycombinator.com/item?id=48824826) - [GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup](https://www.gao.gov/products/gao-26-108193)
 * [2026-07-07, 20:50:46](https://news.ycombinator.com/item?id=48823557) - [All Cars Sold in the EU Now Require a Camera Aimed at Your Face](https://allaboutcookies.org/eu-mandatory-distracted-driver-system)
 * [2026-07-07, 20:36:01](https://news.ycombinator.com/item?id=48823368) - [Men's average testosterone levels have halved in last 50 years](https://www.theguardian.com/society/2026/jul/07/mens-average-testosterone-levels-have-halved-in-last-50-years-say-scientists)
