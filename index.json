@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-07-11, 17:03:23",
+      "https://news.ycombinator.com/item?id=48873692"
+    ],
+    [
+      "Female US rower completes historic solo journey from California to Hawaii",
+      "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey"
+    ]
+  ],
+  [
+    [
+      "2026-07-11, 17:00:35",
+      "https://news.ycombinator.com/item?id=48873665"
+    ],
+    [
+      "Sixtyfour (YC P25) Is Hiring",
+      "https://www.ycombinator.com/companies/sixtyfour/jobs/bIbgQkL-operations-associate-data-samples-customer-success"
+    ]
+  ],
+  [
+    [
+      "2026-07-11, 16:28:48",
+      "https://news.ycombinator.com/item?id=48873424"
+    ],
+    [
+      "Modern Decor May Be Straining People's Brains",
+      "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/"
+    ]
+  ],
+  [
+    [
       "2026-07-11, 15:38:46",
       "https://news.ycombinator.com/item?id=48872973"
     ],
@@ -57,16 +87,6 @@
     [
       "FCC approves test of space mirror to light night sky",
       "https://theconversation.com/the-u-s-just-approved-a-giant-space-mirror-to-test-sunlight-on-demand-low-earth-orbit-is-getting-weird-283482"
-    ]
-  ],
-  [
-    [
-      "2026-07-11, 10:50:10",
-      "https://news.ycombinator.com/item?id=48870799"
-    ],
-    [
-      "Your code is fast – if you're lucky",
-      "https://tiki.li/blog/lucky_code.html"
     ]
   ],
   [
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2026-07-06, 21:09:56",
-      "https://news.ycombinator.com/item?id=48810543"
-    ],
-    [
-      "Alternate clock designs and time systems",
-      "https://serialc.github.io/altClocks/"
-    ]
-  ],
-  [
-    [
       "2026-07-06, 17:52:17",
       "https://news.ycombinator.com/item?id=48808101"
     ],
@@ -287,16 +297,6 @@
     [
       "The mask that compiles to nothing: how HotSpots JIT learned to reason about bits",
       "https://questdb.com/blog/jvm-jit-known-bits/"
-    ]
-  ],
-  [
-    [
-      "2026-07-05, 17:11:38",
-      "https://news.ycombinator.com/item?id=48795900"
-    ],
-    [
-      "Combustion engine web-based simulator",
-      "https://combustionlab.net"
     ]
   ]
 ]
