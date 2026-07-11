@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-07-11](index.md)
 
+* [2026-07-11, 15:38:46](https://news.ycombinator.com/item?id=48872973) - [Tropical forests facing increasing risks of exposure to critical temp thresholds](https://www.pnas.org/doi/10.1073/pnas.2528622123)
 * [2026-07-11, 15:28:02](https://news.ycombinator.com/item?id=48872874) - [We scaled PgBouncer to 4x throughput](https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres)
+* [2026-07-11, 15:26:12](https://news.ycombinator.com/item?id=48872858) - [The early History of the Singular Value Decomposition (1993) [pdf]](https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf)
 * [2026-07-11, 14:46:38](https://news.ycombinator.com/item?id=48872517) - [USAA closed 51% of home insurance claims without making a payment in 2025](https://www.expressnews.com/business/article/san-antonio-usaa-insurance-claims-rejected-22293061.php)
+* [2026-07-11, 13:40:27](https://news.ycombinator.com/item?id=48871973) - [Show HN: Learn by rebuilding Redis, Git, a database from scratch](https://shipthatcode.com)
 * [2026-07-11, 13:33:17](https://news.ycombinator.com/item?id=48871932) - [Speculations Concerning the First Ultraintelligent Machine (1965) [pdf]](https://languagelog.ldc.upenn.edu/myl/Good1964.pdf)
 * [2026-07-11, 13:04:35](https://news.ycombinator.com/item?id=48871716) - [Semantic/Hybrid Search in the Browser](https://bart.degoe.de/semantic-search-in-your-browser/)
 * [2026-07-11, 12:30:40](https://news.ycombinator.com/item?id=48871470) - [Networking and the Internet, from First Principles](https://fazamhd.com/mental-models/networking/)

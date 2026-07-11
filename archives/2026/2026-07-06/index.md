@@ -33,6 +33,7 @@
 * [2026-07-06, 18:35:54](https://news.ycombinator.com/item?id=48808663) - [Linux on the Atari Jaguar. No, really.](https://cakehonolulu.github.io/linux-for-jaguar/)
 * [2026-07-06, 18:24:34](https://news.ycombinator.com/item?id=48808508) - [Pros and Cons of Solo Development](https://johnjeffers.com/pros-and-cons-of-solo-development/)
 * [2026-07-06, 18:23:12](https://news.ycombinator.com/item?id=48808482) - [OpenWrt One – Open Hardware Router](https://openwrt.org/toh/openwrt/one)
+* [2026-07-06, 17:52:17](https://news.ycombinator.com/item?id=48808101) - [The Victorian War on Rabies](https://www.historytoday.com/archive/feature/mad-dogs-and-englishmen-winning-war-rabies)
 * [2026-07-06, 17:44:08](https://news.ycombinator.com/item?id=48808002) - [A global workspace in language models](https://www.anthropic.com/research/global-workspace)
 * [2026-07-06, 17:35:03](https://news.ycombinator.com/item?id=48807908) - [Januscape: Guest-to-Host Escape in KVM/x86 [CVE-2026-53359]](https://github.com/V4bel/Januscape)
 * [2026-07-06, 17:33:38](https://news.ycombinator.com/item?id=48807884) - [Fable Built a 3D Model of Aristotle's Cognitive Architecture](https://conceptual-spaces.vercel.app)
