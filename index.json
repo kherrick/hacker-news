@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2026-07-11, 17:44:40",
-      "https://news.ycombinator.com/item?id=48874046"
-    ],
-    [
-      "Ask HN: Why isn't Google indexing information about the AT Protocol?",
-      "https://news.ycombinator.com/item?id=48874046"
-    ]
-  ],
-  [
-    [
       "2026-07-11, 17:33:55",
       "https://news.ycombinator.com/item?id=48873940"
     ],
@@ -297,6 +287,16 @@
     [
       "Amber the programming language compiled to Bash/Ksh/Zsh",
       "https://amber-lang.com/"
+    ]
+  ],
+  [
+    [
+      "2026-07-07, 16:48:48",
+      "https://news.ycombinator.com/item?id=48820361"
+    ],
+    [
+      "Biff.graph: structure your Clojure codebase as a queryable graph",
+      "https://github.com/jacobobryant/biff/tree/v2.x/libs/graph"
     ]
   ]
 ]
