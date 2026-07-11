@@ -46,6 +46,7 @@
 * [2026-07-08, 13:10:13](https://news.ycombinator.com/item?id=48831499) - [Tiny data centre used to heat public swimming pool](https://www.bbc.com/news/technology-64939558)
 * [2026-07-08, 12:08:37](https://news.ycombinator.com/item?id=48830868) - [The Age of Reading Is Over](https://www.theatlantic.com/magazine/2026/08/reading-crisis-postliterate-age/687618/)
 * [2026-07-08, 11:30:56](https://news.ycombinator.com/item?id=48830565) - [Apple to increase spend with Broadcom to produce billions more U.S. chips](https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/)
+* [2026-07-08, 11:30:12](https://news.ycombinator.com/item?id=48830556) - [Otary – Image and Geometry Python Library Now Has Tutorials](https://alexandrepoupeau.com/otary/learn/)
 * [2026-07-08, 11:06:06](https://news.ycombinator.com/item?id=48830388) - [We Got This Wrong. and We Are Fixing It](https://community.hubspot.com/t/we-got-this-wrong-and-we-are-fixing-it/152063)
 * [2026-07-08, 11:03:34](https://news.ycombinator.com/item?id=48830371) - [List of European organizations that have banned personal messaging apps at work](https://www.birdy.chat/blog/the-growing-list-of-european-organisations-that-ban-personal-messaging-apps-at-work)
 * [2026-07-08, 09:44:20](https://news.ycombinator.com/item?id=48829797) - [Unicode's transliteration rules are Turing-complete](https://seriot.ch/computation/uts35/)
