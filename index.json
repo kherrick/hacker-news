@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-11, 08:29:43",
+      "https://news.ycombinator.com/item?id=48870035"
+    ],
+    [
+      "Companies are scrambling to curtail soaring AI costs",
+      "https://www.economist.com/business/2026/06/14/companies-are-scrambling-to-curtail-soaring-ai-costs"
+    ]
+  ],
+  [
+    [
       "2026-07-11, 06:09:33",
       "https://news.ycombinator.com/item?id=48869243"
     ],
@@ -51,16 +61,6 @@
   ],
   [
     [
-      "2026-07-10, 20:43:02",
-      "https://news.ycombinator.com/item?id=48864969"
-    ],
-    [
-      "GhostLock, a stack-UAF that has existed in ALL Linux distributions for 15 years",
-      "https://nebusec.ai/research/ionstack-part-2/"
-    ]
-  ],
-  [
-    [
       "2026-07-10, 19:38:34",
       "https://news.ycombinator.com/item?id=48864252"
     ],
@@ -87,16 +87,6 @@
     [
       "New York City to ban deceptive subscription practices",
       "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban"
-    ]
-  ],
-  [
-    [
-      "2026-07-10, 17:52:48",
-      "https://news.ycombinator.com/item?id=48863080"
-    ],
-    [
-      "War Atlas: An interactive cartography of every named war in human history",
-      "https://waratlas.org"
     ]
   ],
   [
@@ -217,6 +207,16 @@
     [
       "Preemption is GC for memory reordering (2019)",
       "https://pvk.ca/Blog/2019/01/09/preemption-is-gc-for-memory-reordering/"
+    ]
+  ],
+  [
+    [
+      "2026-07-08, 11:30:12",
+      "https://news.ycombinator.com/item?id=48830556"
+    ],
+    [
+      "Otary – Image and Geometry Python Library Now Has Tutorials",
+      "https://alexandrepoupeau.com/otary/learn/"
     ]
   ],
   [
