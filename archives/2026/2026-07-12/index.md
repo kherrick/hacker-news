@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-07-12](index.md)
 
+* [2026-07-12, 18:01:29](https://news.ycombinator.com/item?id=48883064) - [Claude Code May–July 2026 weekly limits promotion](https://support.claude.com/en/articles/15910845-claude-code-may-july-2026-weekly-limits-promotion)
+* [2026-07-12, 17:47:07](https://news.ycombinator.com/item?id=48882956) - [Against Usefulness](https://www.motivenotes.ai/p/against-usefulness)
 * [2026-07-12, 16:59:37](https://news.ycombinator.com/item?id=48882601) - [Website is served from a 200KB binary](https://200kb.freelang.dev/)
+* [2026-07-12, 16:56:41](https://news.ycombinator.com/item?id=48882569) - [LARP – Revenue infrastructure for serious founders](https://www.larp.website/)
 * [2026-07-12, 16:55:42](https://news.ycombinator.com/item?id=48882562) - [Show HN: Shirei, cross-platform GUI framework in native Go](https://github.com/hasenj/go-shirei/)
 * [2026-07-12, 16:54:47](https://news.ycombinator.com/item?id=48882554) - [Automation Without Understanding](https://arxiv.org/abs/2607.06377)
 * [2026-07-12, 16:05:29](https://news.ycombinator.com/item?id=48882189) - [Theo de Raadt: \"You've been smoking something mind altering\" (2007)](https://marc.info/?l=openbsd-misc&m=119318909016582)
@@ -12,6 +15,7 @@
 * [2026-07-12, 15:58:42](https://news.ycombinator.com/item?id=48882144) - [TK, or the secret to effortless writing (2024)](https://atthis.link/blog/2024/49629.html)
 * [2026-07-12, 15:53:53](https://news.ycombinator.com/item?id=48882097) - [Why study Diophantine equations?](https://hidden-phenomena.com/articles/modular)
 * [2026-07-12, 15:47:16](https://news.ycombinator.com/item?id=48882056) - [How to Read More Books](https://scotto.me/blog/2026-07-12-how-to-read-more-books/)
+* [2026-07-12, 15:44:13](https://news.ycombinator.com/item?id=48882034) - [Croc: Securely transfer files and folders between two computers](https://github.com/schollz/croc/)
 * [2026-07-12, 15:35:36](https://news.ycombinator.com/item?id=48881967) - [The power of collaboration: How we can reduce traffic congestion](https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/)
 * [2026-07-12, 15:23:59](https://news.ycombinator.com/item?id=48881874) - [A no-brainer for protecting your brain](https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain)
 * [2026-07-12, 15:17:20](https://news.ycombinator.com/item?id=48881830) - [Don't You Mean Extinct?](https://fabiensanglard.net/extinct/index.html)
