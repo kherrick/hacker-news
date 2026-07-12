@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-12](index.md)
 
+* [2026-07-12, 12:08:07](https://news.ycombinator.com/item?id=48880499) - [Understanding the Odin Programming Language](https://odinbook.com/)
 * [2026-07-12, 11:49:38](https://news.ycombinator.com/item?id=48880384) - [Yt-Dlp Sequence Diagrams](https://app.ilograph.com/demo.ilograph.yt-dlp/Download%2520a%2520YouTube%2520Video)
 * [2026-07-12, 11:22:42](https://news.ycombinator.com/item?id=48880233) - [IT administrators are \"fed up\" with Microsoft's \"useless\" apps and Windows 11](https://www.neowin.net/news/it-admins-feel-overwhelmingly-sick-of-microsoft-and-windows-11-garbage-apps-products/)
 * [2026-07-12, 11:18:32](https://news.ycombinator.com/item?id=48880209) - [Woman in Brazil enslaved for 55 years by 3 generations of the same family](https://english.elpais.com/international/2026-07-10/woman-rescued-in-brazil-after-being-enslaved-for-55-years-by-three-generations-of-the-same-family.html)

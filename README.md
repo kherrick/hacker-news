@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-12, 12:08:07](https://news.ycombinator.com/item?id=48880499) - [Understanding the Odin Programming Language](https://odinbook.com/)
 * [2026-07-12, 11:49:38](https://news.ycombinator.com/item?id=48880384) - [Yt-Dlp Sequence Diagrams](https://app.ilograph.com/demo.ilograph.yt-dlp/Download%2520a%2520YouTube%2520Video)
 * [2026-07-12, 11:18:32](https://news.ycombinator.com/item?id=48880209) - [Woman in Brazil enslaved for 55 years by 3 generations of the same family](https://english.elpais.com/international/2026-07-10/woman-rescued-in-brazil-after-being-enslaved-for-55-years-by-three-generations-of-the-same-family.html)
 * [2026-07-12, 11:09:42](https://news.ycombinator.com/item?id=48880170) - [Old and new apps, via modern coding agents by Terry Tao](https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/)
@@ -8,7 +9,6 @@
 * [2026-07-12, 05:51:32](https://news.ycombinator.com/item?id=48878682) - [Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase](https://github.com/cosmtrek/mindwalk)
 * [2026-07-12, 04:00:14](https://news.ycombinator.com/item?id=48878126) - [Under federal rule, colleges must leave grads better off or lose financial aid](https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans)
 * [2026-07-12, 00:48:10](https://news.ycombinator.com/item?id=48877269) - [A dock that wakes up reliably](https://fabiensanglard.net/tb4/index.html)
-* [2026-07-12, 00:38:02](https://news.ycombinator.com/item?id=48877214) - [Autopsy Study Finds Replicating SARS-CoV-2 in the Hearts of Long Covid](https://my.uscap.org/uscap/program/S0tc675/index.cfm?pgid=5167&sid=14770&abid=51228)
 * [2026-07-11, 22:38:57](https://news.ycombinator.com/item?id=48876505) - [Mesh LLM: distributed AI computing on iroh](https://www.iroh.computer/blog/mesh-llm)
 * [2026-07-11, 21:58:00](https://news.ycombinator.com/item?id=48876245) - [RISCBoy is an open-source portable games console, designed from scratch](https://github.com/Wren6991/RISCBoy)
 * [2026-07-11, 20:07:18](https://news.ycombinator.com/item?id=48875377) - [Show HN: Ant – A JavaScript runtime and ecosystem](https://antjs.org)
