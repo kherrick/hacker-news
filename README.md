@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-07-11, 23:54:22](https://news.ycombinator.com/item?id=48876970) - [Odyssey Linux](https://odysseylinux.org)
+* [2026-07-12, 01:05:04](https://news.ycombinator.com/item?id=48877349) - [Firefox 12.58% for Desktop Browser Market Share in North America June 2026](https://gs.statcounter.com/browser-market-share/desktop/north-america)
+* [2026-07-12, 00:48:10](https://news.ycombinator.com/item?id=48877269) - [A dock that wakes up reliably](https://fabiensanglard.net/tb4/index.html)
+* [2026-07-12, 00:35:08](https://news.ycombinator.com/item?id=48877192) - [Long Covid May Physically Damage the Nerves That Control the Stomach](https://www.ijidonline.com/article/S1201-9712(26)00608-9/fulltext)
 * [2026-07-11, 23:15:06](https://news.ycombinator.com/item?id=48876741) - [Doctors die. It's not like the rest of us, but it should be (2016)](https://archive.cancerworld.net/featured/how-doctors-die/)
 * [2026-07-11, 22:49:42](https://news.ycombinator.com/item?id=48876593) - [Weightlifting beats running for blood sugar control, researchers find](https://news.vt.edu/articles/2025/11/research_fralinbiomed_yanweightlifting.html)
 * [2026-07-11, 22:48:00](https://news.ycombinator.com/item?id=48876578) - [The fine print that follows you out the door: non-compete clauses are spreading](https://oecdecoscope.blog/2026/07/07/the-fine-print-that-follows-you-out-the-door-non-compete-clauses-are-spreading-and-holding-back-growth/)
@@ -26,10 +28,8 @@
 * [2026-07-09, 11:57:34](https://news.ycombinator.com/item?id=48844476) - [How to Achieve Pruning When Querying by Non-Partitioned Columns in PostgreSQL](https://hakibenita.com/postgresql-partition-pruning)
 * [2026-07-09, 05:28:42](https://news.ycombinator.com/item?id=48841348) - [Book: RISC-V System-on-Chip Design](https://www.amazon.com/RISC-V-Microprocessor-System-Chip-Design/dp/0323994989)
 * [2026-07-08, 11:44:25](https://news.ycombinator.com/item?id=48830664) - [Optimization Solver as a Service](https://www.quicopt.com/developer/getting-started/)
-* [2026-07-08, 10:35:37](https://news.ycombinator.com/item?id=48830191) - [Digital Deli, 1984 book by early PC hackers and enthusiasts](https://www.atariarchives.org/deli/)
 * [2026-07-07, 23:51:49](https://news.ycombinator.com/item?id=48825612) - [Google Search lets creators know more about their reach](https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties)
 * [2026-07-07, 16:48:48](https://news.ycombinator.com/item?id=48820361) - [Biff.graph: structure your Clojure codebase as a queryable graph](https://github.com/jacobobryant/biff/tree/v2.x/libs/graph)
-* [2026-07-06, 01:06:21](https://news.ycombinator.com/item?id=48799624) - [Lost and Found](https://walzr.com/lost-and-found)
 
 ## [Archives](archives/index.md)
 
