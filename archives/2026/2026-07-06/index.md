@@ -55,6 +55,7 @@
 * [2026-07-06, 15:30:08](https://news.ycombinator.com/item?id=48806073) - [1k Words: A Writing Contest](https://writingclub.world/1picture1000words)
 * [2026-07-06, 15:24:54](https://news.ycombinator.com/item?id=48805985) - [Electric anti-aircraft interceptor drone breaks world air speed record at 434mph](https://www.tomshardware.com/tech-industry/drones/electric-drone-breaks-world-air-speed-record-at-434-mph-designed-for-anti-aircraft-interceptor-roles-german-firm-convincingly-smashed-the-official-409-mph-record-hopes-to-get-stamp-of-approval-from-guinness-soon)
 * [2026-07-06, 15:23:34](https://news.ycombinator.com/item?id=48805965) - [CS2 Fog Of War: Server-sided anti-wallhack occlusion culling for CS2 servers](https://github.com/karola3vax/CS2FOW)
+* [2026-07-06, 15:16:54](https://news.ycombinator.com/item?id=48805857) - [Show HN: Nectar, a Rust-like React that compiles to WebAssembly](https://buildnectar.com)
 * [2026-07-06, 15:04:01](https://news.ycombinator.com/item?id=48805652) - [Multilingual Experience Linked to Delayed Aging in Populations and Individuals](https://fens2026.abstractserver.com/program/#/details/presentations/5474)
 * [2026-07-06, 15:01:44](https://news.ycombinator.com/item?id=48805627) - [Google Chrome Installed a 4GB AI Model on Your PC](https://oztalking.com/en/issues/hidden-4gb-ai-model)
 * [2026-07-06, 15:01:18](https://news.ycombinator.com/item?id=48805624) - [AMD Ryzen AI Halo – $4k AI Dev Kit](https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo)
