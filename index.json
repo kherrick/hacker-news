@@ -11,12 +11,32 @@
   ],
   [
     [
+      "2026-07-12, 13:21:01",
+      "https://news.ycombinator.com/item?id=48881009"
+    ],
+    [
+      "Show HN: Only 1 of 4,356 reachable MCP servers is ready for the 2026-07-28 spec",
+      "https://github.com/Roee-Tsur/mcp-spec-check"
+    ]
+  ],
+  [
+    [
       "2026-07-12, 13:18:36",
       "https://news.ycombinator.com/item?id=48880987"
     ],
     [
       "Making Crash Bandicoot (2011)",
       "https://all-things-andy-gavin.com/2011/02/02/making-crash-bandicoot-part-1/"
+    ]
+  ],
+  [
+    [
+      "2026-07-12, 13:18:34",
+      "https://news.ycombinator.com/item?id=48880985"
+    ],
+    [
+      "Gina Gallery of International Naive Art",
+      "https://www.ginagallery.com/"
     ]
   ],
   [
@@ -151,26 +171,6 @@
   ],
   [
     [
-      "2026-07-11, 15:28:02",
-      "https://news.ycombinator.com/item?id=48872874"
-    ],
-    [
-      "We scaled PgBouncer to 4x throughput",
-      "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres"
-    ]
-  ],
-  [
-    [
-      "2026-07-11, 15:26:12",
-      "https://news.ycombinator.com/item?id=48872858"
-    ],
-    [
-      "The early History of the Singular Value Decomposition (1993) [pdf]",
-      "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf"
-    ]
-  ],
-  [
-    [
       "2026-07-10, 00:06:59",
       "https://news.ycombinator.com/item?id=48854168"
     ],
@@ -197,16 +197,6 @@
     [
       "I Did Not Kill Stanley Lieber: How to Draw (With 9front)",
       "https://triapul.cz/automa/i_did_not_kill_stanley_lieber"
-    ]
-  ],
-  [
-    [
-      "2026-07-09, 02:17:59",
-      "https://news.ycombinator.com/item?id=48840152"
-    ],
-    [
-      "Jellyfish Undersea Roundabout",
-      "https://visitfaroeislands.com/en/plan-your-stay/getting-around/world-first-under-sea-roundabout"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "An agent in 100 lines of Lisp",
       "https://thebeach.dev/posts/lisp-agent/"
+    ]
+  ],
+  [
+    [
+      "2026-07-07, 21:09:08",
+      "https://news.ycombinator.com/item?id=48823803"
+    ],
+    [
+      "Satteri: A Markdown pipeline forged in Rust for the JavaScript world",
+      "https://satteri.bruits.org/"
     ]
   ],
   [
