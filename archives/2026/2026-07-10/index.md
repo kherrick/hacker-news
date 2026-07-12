@@ -59,3 +59,4 @@
 * [2026-07-10, 00:40:33](https://news.ycombinator.com/item?id=48854363) - [Focus](https://boz.com/articles/focus)
 * [2026-07-10, 00:20:28](https://news.ycombinator.com/item?id=48854247) - [Study: \"Mommy, do you love your phone more than me?\"](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full)
 * [2026-07-10, 00:17:36](https://news.ycombinator.com/item?id=48854224) - [Show HN: I built a free app for New Yorkers to save money on groceries](https://sbnyc.app/)
+* [2026-07-10, 00:06:59](https://news.ycombinator.com/item?id=48854168) - [The 'Father of the Internet' is finally retiring](https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/)
