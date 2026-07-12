@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-07-12, 21:12:11",
+      "https://news.ycombinator.com/item?id=48884853"
+    ],
+    [
+      "Since Chronium 148, Math.tanh is now fingerprintable to link underlying OS",
+      "https://scrapfly.dev/posts/browser-math-os-fingerprint/"
+    ]
+  ],
+  [
+    [
+      "2026-07-12, 20:49:46",
+      "https://news.ycombinator.com/item?id=48884647"
+    ],
+    [
+      "The State of MCP Security [pdf]",
+      "https://www.canopii.dev/State%20of%20MCP%20Security%202026.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-07-12, 20:46:43",
+      "https://news.ycombinator.com/item?id=48884618"
+    ],
+    [
+      "Flash-MSA: Accelerating Million-Token Training with Sparse Attention Kernels",
+      "https://nanduruganesh.github.io/flash-msa/"
+    ]
+  ],
+  [
+    [
       "2026-07-12, 20:23:05",
       "https://news.ycombinator.com/item?id=48884395"
     ],
@@ -81,16 +111,6 @@
   ],
   [
     [
-      "2026-07-12, 18:04:41",
-      "https://news.ycombinator.com/item?id=48883090"
-    ],
-    [
-      "Can We Understand How Large Language Models Reason?",
-      "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/"
-    ]
-  ],
-  [
-    [
       "2026-07-12, 17:47:07",
       "https://news.ycombinator.com/item?id=48882956"
     ],
@@ -137,16 +157,6 @@
     [
       "Automation Without Understanding",
       "https://arxiv.org/abs/2607.06377"
-    ]
-  ],
-  [
-    [
-      "2026-07-12, 16:05:29",
-      "https://news.ycombinator.com/item?id=48882189"
-    ],
-    [
-      "Theo de Raadt: \"You've been smoking something mind altering\" (2007)",
-      "https://marc.info/?l=openbsd-misc&m=119318909016582"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Deir El-Medina Strikes",
       "https://en.wikipedia.org/wiki/Deir_el-Medina_strikes"
-    ]
-  ],
-  [
-    [
-      "2026-07-06, 15:16:54",
-      "https://news.ycombinator.com/item?id=48805857"
-    ],
-    [
-      "Show HN: Nectar, a Rust-like React that compiles to WebAssembly",
-      "https://buildnectar.com"
     ]
   ]
 ]
