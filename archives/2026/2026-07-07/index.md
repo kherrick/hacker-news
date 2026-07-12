@@ -67,6 +67,7 @@
 * [2026-07-07, 12:45:06](https://news.ycombinator.com/item?id=48816956) - [A better way to tie your gym shorts. (Or any drawstring) [video]](https://www.youtube.com/watch?v=3R0Lp86GEBk)
 * [2026-07-07, 12:40:28](https://news.ycombinator.com/item?id=48816900) - [Show HN: PostgreSQL performance and cost across 23 EC2 instance types](https://postgres.saneengineer.com)
 * [2026-07-07, 12:38:35](https://news.ycombinator.com/item?id=48816883) - [StreetComplete: Fixing OpenStreetMap, one tiny quest at a time](https://streetcomplete.app/)
+* [2026-07-07, 12:36:15](https://news.ycombinator.com/item?id=48816858) - [Abject Praise](https://infrequently.org/2026/07/abject-praise/)
 * [2026-07-07, 12:20:54](https://news.ycombinator.com/item?id=48816724) - [Show HN: Frugon – Find which LLM calls a cheaper model could handle (local, MIT)](https://github.com/Rodiun/frugon)
 * [2026-07-07, 12:08:25](https://news.ycombinator.com/item?id=48816612) - [Europe's company websites are mostly served by US vendors](https://ciphercue.com/blog/european-web-hosting-vendor-share-2026)
 * [2026-07-07, 12:00:44](https://news.ycombinator.com/item?id=48816533) - [9 Mothers (YC P26) Is Hiring in Austin, TX](https://9mothers.com/careers)

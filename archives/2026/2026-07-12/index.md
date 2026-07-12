@@ -16,6 +16,7 @@
 * [2026-07-12, 15:23:59](https://news.ycombinator.com/item?id=48881874) - [A no-brainer for protecting your brain](https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain)
 * [2026-07-12, 15:17:20](https://news.ycombinator.com/item?id=48881830) - [Don't You Mean Extinct?](https://fabiensanglard.net/extinct/index.html)
 * [2026-07-12, 14:32:00](https://news.ycombinator.com/item?id=48881498) - [Autoresearch, Claude and Constrained Optimization](https://www.elliotcsmith.com/autoresearch-claude-and-constrained-optimization/)
+* [2026-07-12, 14:15:13](https://news.ycombinator.com/item?id=48881385) - [The Lunduke Computer Operating System](https://github.com/BryanLunduke/LCOS)
 * [2026-07-12, 14:09:23](https://news.ycombinator.com/item?id=48881352) - [Show HN: Kurvengefahr – browser CAD/CAM for pen plotters](https://kurvengefahr.org/)
 * [2026-07-12, 13:34:00](https://news.ycombinator.com/item?id=48881112) - [Show HN: Skillscript – A declarative, sandboxed language for tool orchestration](https://github.com/sshwarts/skillscript)
 * [2026-07-12, 13:26:13](https://news.ycombinator.com/item?id=48881043) - [AI Boosts Research Careers but Flattens Scientific Discovery](https://spectrum.ieee.org/ai-science-research-flattens-discovery)
