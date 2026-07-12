@@ -62,6 +62,7 @@
 * [2026-07-08, 04:12:13](https://news.ycombinator.com/item?id=48827402) - [GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday](https://twitter.com/OpenAI/status/2074704958419792299)
 * [2026-07-08, 03:59:35](https://news.ycombinator.com/item?id=48827325) - [How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS](https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/)
 * [2026-07-08, 03:22:31](https://news.ycombinator.com/item?id=48827092) - [Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks](https://www.digipres.org/the-floppy-guide/)
+* [2026-07-08, 03:16:38](https://news.ycombinator.com/item?id=48827058) - [Protobuf-py: Protobuf for Python, without compromises](https://buf.build/blog/protobuf-py)
 * [2026-07-08, 02:17:01](https://news.ycombinator.com/item?id=48826703) - [Is The Economist Always Wrong?](https://www.economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong)
 * [2026-07-08, 01:58:10](https://news.ycombinator.com/item?id=48826572) - [Ranked worst to best: 13 flavors of Pure Leaf iced tea](https://www.tastingtable.com/1866292/pure-leaf-iced-tea-flavors-ranked/)
 * [2026-07-08, 01:27:39](https://news.ycombinator.com/item?id=48826329) - [LineageOS Statistics](https://stats.lineageos.org)
