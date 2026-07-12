@@ -55,6 +55,7 @@
 * [2026-07-08, 11:03:34](https://news.ycombinator.com/item?id=48830371) - [List of European organizations that have banned personal messaging apps at work](https://www.birdy.chat/blog/the-growing-list-of-european-organisations-that-ban-personal-messaging-apps-at-work)
 * [2026-07-08, 10:35:37](https://news.ycombinator.com/item?id=48830191) - [Digital Deli, 1984 book by early PC hackers and enthusiasts](https://www.atariarchives.org/deli/)
 * [2026-07-08, 09:44:20](https://news.ycombinator.com/item?id=48829797) - [Unicode's transliteration rules are Turing-complete](https://seriot.ch/computation/uts35/)
+* [2026-07-08, 09:31:10](https://news.ycombinator.com/item?id=48829697) - [Fibonacci's Real Mathematical Legacy](https://blogs.nature.com/aviewfromthebridge/2017/04/20/fibonaccis-mathematical-legacy/)
 * [2026-07-08, 08:46:06](https://news.ycombinator.com/item?id=48829312) - [Decoding the obfuscated bash script on a Uniqlo t-shirt](https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/)
 * [2026-07-08, 08:37:26](https://news.ycombinator.com/item?id=48829242) - [Geosql: A Claude/Codex skill for geospatial data](https://github.com/dekart-xyz/geosql)
 * [2026-07-08, 07:18:26](https://news.ycombinator.com/item?id=48828648) - [The space bit of SpaceX is worth $8 a share, says Morgan Stanley](https://www.ft.com/content/09a62ed4-16af-433c-adb7-c877d1975388)
