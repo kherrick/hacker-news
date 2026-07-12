@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-11, 23:54:22",
+      "https://news.ycombinator.com/item?id=48876970"
+    ],
+    [
+      "Odyssey Linux",
+      "https://odysseylinux.org"
+    ]
+  ],
+  [
+    [
       "2026-07-11, 23:15:06",
       "https://news.ycombinator.com/item?id=48876741"
     ],
@@ -17,6 +27,16 @@
     [
       "Weightlifting beats running for blood sugar control, researchers find",
       "https://news.vt.edu/articles/2025/11/research_fralinbiomed_yanweightlifting.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-11, 22:48:00",
+      "https://news.ycombinator.com/item?id=48876578"
+    ],
+    [
+      "The fine print that follows you out the door: non-compete clauses are spreading",
+      "https://oecdecoscope.blog/2026/07/07/the-fine-print-that-follows-you-out-the-door-non-compete-clauses-are-spreading-and-holding-back-growth/"
     ]
   ],
   [
@@ -61,12 +81,12 @@
   ],
   [
     [
-      "2026-07-11, 19:46:00",
-      "https://news.ycombinator.com/item?id=48875153"
+      "2026-07-11, 20:03:42",
+      "https://news.ycombinator.com/item?id=48875342"
     ],
     [
-      "The Chinese Voice Actor Forced to Prove He's Human",
-      "https://www.sixthtone.com/news/1018753"
+      "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
+      "https://github.com/sqlsure/sqlsure"
     ]
   ],
   [
@@ -97,16 +117,6 @@
     [
       "Prefer strict tables in SQLite",
       "https://evanhahn.com/prefer-strict-tables-in-sqlite/"
-    ]
-  ],
-  [
-    [
-      "2026-07-11, 17:23:52",
-      "https://news.ycombinator.com/item?id=48873855"
-    ],
-    [
-      "Reverse centaurs are the answer to the AI paradox (2025)",
-      "https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative"
     ]
   ],
   [
@@ -211,22 +221,22 @@
   ],
   [
     [
-      "2026-07-10, 22:04:45",
-      "https://news.ycombinator.com/item?id=48865903"
-    ],
-    [
-      "AI Can't Recreate the Thrust Game (But It Can Help You Understand It)",
-      "https://www.jamesdrandall.com/posts/thrust_ai_powered_software_archaeology/"
-    ]
-  ],
-  [
-    [
       "2026-07-09, 17:44:20",
       "https://news.ycombinator.com/item?id=48849744"
     ],
     [
       "Billions of Sketches Reveal Hidden Cultural Variation in Human Concepts",
       "https://arxiv.org/abs/2607.07267"
+    ]
+  ],
+  [
+    [
+      "2026-07-09, 11:57:34",
+      "https://news.ycombinator.com/item?id=48844476"
+    ],
+    [
+      "How to Achieve Pruning When Querying by Non-Partitioned Columns in PostgreSQL",
+      "https://hakibenita.com/postgresql-partition-pruning"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Google Search lets creators know more about their reach",
       "https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties"
-    ]
-  ],
-  [
-    [
-      "2026-07-07, 19:22:56",
-      "https://news.ycombinator.com/item?id=48822441"
-    ],
-    [
-      "Amber the programming language compiled to Bash/Ksh/Zsh",
-      "https://amber-lang.com/"
     ]
   ],
   [
