@@ -4,6 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-07-12](index.md)
 
+* [2026-07-12, 22:56:56](https://news.ycombinator.com/item?id=48885728) - [Designing and assembling my first PCB](https://vilkeliskis.com/b/2026/0711.html)
+* [2026-07-12, 22:54:07](https://news.ycombinator.com/item?id=48885708) - [Architecture Description Languages [pdf]](https://ics.uci.edu/~taylor/documents/2000-ADLs-TSE.pdf)
+* [2026-07-12, 22:45:31](https://news.ycombinator.com/item?id=48885643) - [Cyberpunk Comics, Manga and Graphic Novels](https://shellzine.net/cyberpunk-comics/)
+* [2026-07-12, 22:29:46](https://news.ycombinator.com/item?id=48885525) - [A Speed Limit for Computers](https://caolan.uk/notes/2026-07-02_a_speed_limit_for_computers.cm)
+* [2026-07-12, 22:26:14](https://news.ycombinator.com/item?id=48885500) - [Show HN: Codebase Posters – turn any Git repo into generative poster art](https://github.com/unable12/codebase-posters)
+* [2026-07-12, 21:45:28](https://news.ycombinator.com/item?id=48885138) - [Profiling the \"Abundance\" housing bottleneck with real data](https://laxmena.com/same-capacity-less-throughput)
+* [2026-07-12, 21:41:04](https://news.ycombinator.com/item?id=48885097) - [I made a free Islamic prayer app to quit saying \"I'll pray in 5 minutes\"](https://better-prayer.com)
 * [2026-07-12, 21:27:29](https://news.ycombinator.com/item?id=48884992) - [Kode Dot Programmable pocket device for makers, pentesters and geeks](https://kode.diy)
 * [2026-07-12, 21:26:41](https://news.ycombinator.com/item?id=48884984) - [Ask HN: What Are You Working On? (July 2026)](https://news.ycombinator.com/item?id=48884984)
 * [2026-07-12, 21:12:11](https://news.ycombinator.com/item?id=48884853) - [Since Chronium 148, Math.tanh is now fingerprintable to link underlying OS](https://scrapfly.dev/posts/browser-math-os-fingerprint/)
