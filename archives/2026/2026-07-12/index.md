@@ -5,6 +5,9 @@
 ### [Archives](../../index.md) for [2026-07-12](index.md)
 
 * [2026-07-12, 21:12:11](https://news.ycombinator.com/item?id=48884853) - [Since Chronium 148, Math.tanh is now fingerprintable to link underlying OS](https://scrapfly.dev/posts/browser-math-os-fingerprint/)
+* [2026-07-12, 21:08:20](https://news.ycombinator.com/item?id=48884815) - [Show HN: Adaptive Recall, persistent memory for AI assistants over MCP](https://www.adaptiverecall.com/)
+* [2026-07-12, 21:04:13](https://news.ycombinator.com/item?id=48884775) - [Storm clouds gather over America's financial supremacy](https://www.economist.com/finance-and-economics/2026/07/12/storm-clouds-gather-over-americas-financial-supremacy)
+* [2026-07-12, 20:52:04](https://news.ycombinator.com/item?id=48884663) - [Show HN: Zen Mode – a global focus mode for macOS](https://github.com/cabeen/zen-mode)
 * [2026-07-12, 20:49:46](https://news.ycombinator.com/item?id=48884647) - [The State of MCP Security [pdf]](https://www.canopii.dev/State%20of%20MCP%20Security%202026.pdf)
 * [2026-07-12, 20:46:43](https://news.ycombinator.com/item?id=48884618) - [Flash-MSA: Accelerating Million-Token Training with Sparse Attention Kernels](https://nanduruganesh.github.io/flash-msa/)
 * [2026-07-12, 20:23:05](https://news.ycombinator.com/item?id=48884395) - [Tiny Emulators](https://floooh.github.io/tiny8bit-preview/index.html)
