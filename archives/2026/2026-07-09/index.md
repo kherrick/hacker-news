@@ -82,6 +82,7 @@
 * [2026-07-09, 03:26:02](https://news.ycombinator.com/item?id=48840620) - [What's slowing down the AI buildout](https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid)
 * [2026-07-09, 03:08:32](https://news.ycombinator.com/item?id=48840497) - [Ergo: Long Form Philosophy Lectures](https://ergo.org/)
 * [2026-07-09, 02:23:24](https://news.ycombinator.com/item?id=48840207) - [Show HN: I mapped 8.5M research papers into an interactive atlas](https://tomesphere.com/atlas)
+* [2026-07-09, 02:17:59](https://news.ycombinator.com/item?id=48840152) - [Jellyfish Undersea Roundabout](https://visitfaroeislands.com/en/plan-your-stay/getting-around/world-first-under-sea-roundabout)
 * [2026-07-09, 01:56:28](https://news.ycombinator.com/item?id=48839984) - [I Think I Have LLM Burnout](https://www.alecscollon.com/blog/llm-burnout/)
 * [2026-07-09, 01:22:24](https://news.ycombinator.com/item?id=48839751) - [Rewriting Bun in Rust](https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/)
 * [2026-07-09, 00:38:02](https://news.ycombinator.com/item?id=48839434) - [A software engineering interview question I like: computing the median](https://krisshamloo.com/blog/007)

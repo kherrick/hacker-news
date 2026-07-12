@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-07-12](index.md)
 
+* [2026-07-12, 02:15:11](https://news.ycombinator.com/item?id=48877672) - [Show HN: Quantum-Qec / Matrix-Free Quantum Homeostatic Engine(Blueprint)](https://github.com/PJHkorea/quantum-mesh-qec)
+* [2026-07-12, 02:13:46](https://news.ycombinator.com/item?id=48877668) - [We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture](https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/)
+* [2026-07-12, 01:59:35](https://news.ycombinator.com/item?id=48877613) - [The Energetic Costs of Cellular Computation (2012)](https://arxiv.org/abs/1203.5426)
+* [2026-07-12, 01:09:50](https://news.ycombinator.com/item?id=48877371) - [What xAI's Grok Build CLI Actually Sends to xAI](https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547)
 * [2026-07-12, 01:05:04](https://news.ycombinator.com/item?id=48877349) - [Firefox 12.58% for Desktop Browser Market Share in North America June 2026](https://gs.statcounter.com/browser-market-share/desktop/north-america)
+* [2026-07-12, 01:03:29](https://news.ycombinator.com/item?id=48877344) - [A Erlang style pure Scheme Webserver and further](https://igropyr.com)
 * [2026-07-12, 00:57:18](https://news.ycombinator.com/item?id=48877314) - [A pure scheme web programming tool](https://goeteia.dev)
 * [2026-07-12, 00:48:10](https://news.ycombinator.com/item?id=48877269) - [A dock that wakes up reliably](https://fabiensanglard.net/tb4/index.html)
 * [2026-07-12, 00:35:08](https://news.ycombinator.com/item?id=48877192) - [Long Covid May Physically Damage the Nerves That Control the Stomach](https://www.ijidonline.com/article/S1201-9712(26)00608-9/fulltext)
