@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2026-07-12, 17:13:07",
+      "https://news.ycombinator.com/item?id=48882716"
+    ],
+    [
+      "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+      "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6"
+    ]
+  ],
+  [
+    [
       "2026-07-12, 16:56:41",
       "https://news.ycombinator.com/item?id=48882569"
     ],
@@ -91,16 +101,6 @@
   ],
   [
     [
-      "2026-07-12, 16:05:29",
-      "https://news.ycombinator.com/item?id=48882189"
-    ],
-    [
-      "Theo de Raadt: \"You've been smoking something mind altering\" (2007)",
-      "https://marc.info/?l=openbsd-misc&m=119318909016582"
-    ]
-  ],
-  [
-    [
       "2026-07-12, 15:53:53",
       "https://news.ycombinator.com/item?id=48882097"
     ],
@@ -117,6 +117,16 @@
     [
       "How to Read More Books",
       "https://scotto.me/blog/2026-07-12-how-to-read-more-books/"
+    ]
+  ],
+  [
+    [
+      "2026-07-12, 15:44:13",
+      "https://news.ycombinator.com/item?id=48882034"
+    ],
+    [
+      "Croc: Securely transfer files and folders between two computers",
+      "https://github.com/schollz/croc/"
     ]
   ],
   [
@@ -251,16 +261,6 @@
   ],
   [
     [
-      "2026-07-07, 21:09:08",
-      "https://news.ycombinator.com/item?id=48823803"
-    ],
-    [
-      "Satteri: A Markdown pipeline forged in Rust for the JavaScript world",
-      "https://satteri.bruits.org/"
-    ]
-  ],
-  [
-    [
       "2026-07-07, 19:10:16",
       "https://news.ycombinator.com/item?id=48822234"
     ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2026-07-06, 20:17:19",
-      "https://news.ycombinator.com/item?id=48809916"
+      "2026-07-06, 15:16:54",
+      "https://news.ycombinator.com/item?id=48805857"
     ],
     [
-      "Ditching Zotero for a Text File",
-      "https://atthis.link/blog/2026/57207.html"
+      "Show HN: Nectar, a Rust-like React that compiles to WebAssembly",
+      "https://buildnectar.com"
     ]
   ],
   [
