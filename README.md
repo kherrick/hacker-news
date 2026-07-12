@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-12, 21:12:11](https://news.ycombinator.com/item?id=48884853) - [Since Chronium 148, Math.tanh is now fingerprintable to link underlying OS](https://scrapfly.dev/posts/browser-math-os-fingerprint/)
+* [2026-07-12, 20:49:46](https://news.ycombinator.com/item?id=48884647) - [The State of MCP Security [pdf]](https://www.canopii.dev/State%20of%20MCP%20Security%202026.pdf)
+* [2026-07-12, 20:46:43](https://news.ycombinator.com/item?id=48884618) - [Flash-MSA: Accelerating Million-Token Training with Sparse Attention Kernels](https://nanduruganesh.github.io/flash-msa/)
 * [2026-07-12, 20:23:05](https://news.ycombinator.com/item?id=48884395) - [Tiny Emulators](https://floooh.github.io/tiny8bit-preview/index.html)
 * [2026-07-12, 20:16:12](https://news.ycombinator.com/item?id=48884322) - [Irish datacenters now guzzle 23% of the country's electricity](https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013)
 * [2026-07-12, 19:54:30](https://news.ycombinator.com/item?id=48884100) - [Defining new Jax types with hijax](https://docs.jax.dev/en/latest/hijax_types.html)
@@ -8,13 +11,11 @@
 * [2026-07-12, 18:31:56](https://news.ycombinator.com/item?id=48883343) - [I love LLMs, I hate hype](https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html)
 * [2026-07-12, 18:25:51](https://news.ycombinator.com/item?id=48883275) - [Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k](https://systima.ai/blog/claude-code-vs-opencode-token-overhead)
 * [2026-07-12, 18:22:15](https://news.ycombinator.com/item?id=48883238) - [I Learned to Read Again](https://substack.magazinenongrata.com/p/how-i-learned-to-read-again)
-* [2026-07-12, 18:04:41](https://news.ycombinator.com/item?id=48883090) - [Can We Understand How Large Language Models Reason?](https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/)
 * [2026-07-12, 17:47:07](https://news.ycombinator.com/item?id=48882956) - [Against Usefulness](https://www.motivenotes.ai/p/against-usefulness)
 * [2026-07-12, 17:13:07](https://news.ycombinator.com/item?id=48882716) - [Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper](https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6)
 * [2026-07-12, 16:56:41](https://news.ycombinator.com/item?id=48882569) - [LARP – Revenue infrastructure for serious founders](https://www.larp.website/)
 * [2026-07-12, 16:55:42](https://news.ycombinator.com/item?id=48882562) - [Show HN: Shirei, cross-platform GUI framework in native Go](https://github.com/hasenj/go-shirei/)
 * [2026-07-12, 16:54:47](https://news.ycombinator.com/item?id=48882554) - [Automation Without Understanding](https://arxiv.org/abs/2607.06377)
-* [2026-07-12, 16:05:29](https://news.ycombinator.com/item?id=48882189) - [Theo de Raadt: \"You've been smoking something mind altering\" (2007)](https://marc.info/?l=openbsd-misc&m=119318909016582)
 * [2026-07-12, 15:53:53](https://news.ycombinator.com/item?id=48882097) - [Why study Diophantine equations?](https://hidden-phenomena.com/articles/modular)
 * [2026-07-12, 15:47:16](https://news.ycombinator.com/item?id=48882056) - [How to read more books](https://scotto.me/blog/2026-07-12-how-to-read-more-books/)
 * [2026-07-12, 15:44:13](https://news.ycombinator.com/item?id=48882034) - [Croc: Securely transfer files and folders between two computers](https://github.com/schollz/croc/)
@@ -29,7 +30,6 @@
 * [2026-07-10, 00:06:59](https://news.ycombinator.com/item?id=48854168) - [Vint Cerf, “father of the Internet”, is retiring](https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/)
 * [2026-07-09, 13:15:26](https://news.ycombinator.com/item?id=48845321) - [The Seed Beneath the Snow](https://eli.li/the-seed-beneath-the-snow)
 * [2026-07-07, 19:10:16](https://news.ycombinator.com/item?id=48822234) - [Deir El-Medina Strikes](https://en.wikipedia.org/wiki/Deir_el-Medina_strikes)
-* [2026-07-06, 15:16:54](https://news.ycombinator.com/item?id=48805857) - [Show HN: Nectar, a Rust-like React that compiles to WebAssembly](https://buildnectar.com)
 
 ## [Archives](archives/index.md)
 
