@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2026-07-12, 21:26:41",
-      "https://news.ycombinator.com/item?id=48884984"
-    ],
-    [
-      "Ask HN: What Are You Working On? (July 2026)",
-      "https://news.ycombinator.com/item?id=48884984"
-    ]
-  ],
-  [
-    [
       "2026-07-12, 21:12:11",
       "https://news.ycombinator.com/item?id=48884853"
     ],
@@ -37,16 +27,6 @@
     [
       "Show HN: Adaptive Recall, persistent memory for AI assistants over MCP",
       "https://www.adaptiverecall.com/"
-    ]
-  ],
-  [
-    [
-      "2026-07-12, 20:52:04",
-      "https://news.ycombinator.com/item?id=48884663"
-    ],
-    [
-      "Show HN: Zen Mode – a global focus mode for macOS",
-      "https://github.com/cabeen/zen-mode"
     ]
   ],
   [
@@ -87,16 +67,6 @@
     [
       "Irish datacenters now guzzle 23% of the country's electricity",
       "https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013"
-    ]
-  ],
-  [
-    [
-      "2026-07-12, 19:54:30",
-      "https://news.ycombinator.com/item?id=48884100"
-    ],
-    [
-      "Defining new Jax types with hijax",
-      "https://docs.jax.dev/en/latest/hijax_types.html"
     ]
   ],
   [
@@ -261,12 +231,32 @@
   ],
   [
     [
+      "2026-07-12, 01:09:50",
+      "https://news.ycombinator.com/item?id=48877371"
+    ],
+    [
+      "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
+      "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547"
+    ]
+  ],
+  [
+    [
       "2026-07-10, 16:12:52",
       "https://news.ycombinator.com/item?id=48861923"
     ],
     [
       "Why write code in 2026",
       "https://softwaredoug.com/blog/2026/07/09/write-code"
+    ]
+  ],
+  [
+    [
+      "2026-07-10, 00:06:59",
+      "https://news.ycombinator.com/item?id=48854168"
+    ],
+    [
+      "Vint Cerf, “father of the Internet”, is retiring",
+      "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Deir El-Medina Strikes",
       "https://en.wikipedia.org/wiki/Deir_el-Medina_strikes"
+    ]
+  ],
+  [
+    [
+      "2026-07-06, 14:50:06",
+      "https://news.ycombinator.com/item?id=48805475"
+    ],
+    [
+      "Show HN: Agent Draw: An agent draws while you talk, built on TLDraw",
+      "https://techstackups.com/articles/tldraw-agent-draw/"
     ]
   ]
 ]
