@@ -6,6 +6,7 @@
 
 * [2026-07-11, 23:54:22](https://news.ycombinator.com/item?id=48876970) - [Odyssey Linux](https://odysseylinux.org)
 * [2026-07-11, 23:15:06](https://news.ycombinator.com/item?id=48876741) - [Doctors die. It's not like the rest of us, but it should be (2016)](https://archive.cancerworld.net/featured/how-doctors-die/)
+* [2026-07-11, 22:54:06](https://news.ycombinator.com/item?id=48876619) - [Fixed three bugs that made Qwen3.5-122B a daily driver on Mac Studio](https://mrzk.io/posts/qmlx-maximising-ai-psychosis-minmaxing-mac-studio/)
 * [2026-07-11, 22:49:42](https://news.ycombinator.com/item?id=48876593) - [Weightlifting beats running for blood sugar control, researchers find](https://news.vt.edu/articles/2025/11/research_fralinbiomed_yanweightlifting.html)
 * [2026-07-11, 22:48:00](https://news.ycombinator.com/item?id=48876578) - [The fine print that follows you out the door: non-compete clauses are spreading](https://oecdecoscope.blog/2026/07/07/the-fine-print-that-follows-you-out-the-door-non-compete-clauses-are-spreading-and-holding-back-growth/)
 * [2026-07-11, 22:38:57](https://news.ycombinator.com/item?id=48876505) - [Mesh LLM: distributed AI computing on iroh](https://www.iroh.computer/blog/mesh-llm)
