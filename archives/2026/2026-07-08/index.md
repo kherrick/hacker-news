@@ -7,6 +7,7 @@
 * [2026-07-08, 23:37:43](https://news.ycombinator.com/item?id=48838876) - [John Deere owners will get the right to repair equipment under FTC settlement](https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02)
 * [2026-07-08, 23:27:14](https://news.ycombinator.com/item?id=48838772) - [We made Grok 4.5, GPT-5.5, and Claude build the same apps](https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off)
 * [2026-07-08, 23:11:28](https://news.ycombinator.com/item?id=48838611) - [Suspecting AI cheating, Ivy League prof ordered in-person final; scores fell 50%](https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/)
+* [2026-07-08, 22:07:05](https://news.ycombinator.com/item?id=48838027) - [Lessons from the Vasa Shipwreck](https://www.ft.com/content/200a6c44-9b66-4af3-82eb-98acb53898e4)
 * [2026-07-08, 21:49:59](https://news.ycombinator.com/item?id=48837877) - [Rewriting Bun in Rust](https://bun.com/blog/bun-in-rust)
 * [2026-07-08, 21:43:07](https://news.ycombinator.com/item?id=48837809) - [Open Source Barware: free, local-first bar inventory software (GPLv3)](https://opensourcebarware.com)
 * [2026-07-08, 21:30:09](https://news.ycombinator.com/item?id=48837696) - [Benchmarking coding agents on Databricks' multi-million line codebase](https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase)
