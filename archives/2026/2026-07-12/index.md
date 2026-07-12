@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2026-07-12](index.md)
 
 * [2026-07-12, 13:26:13](https://news.ycombinator.com/item?id=48881043) - [AI Boosts Research Careers but Flattens Scientific Discovery](https://spectrum.ieee.org/ai-science-research-flattens-discovery)
+* [2026-07-12, 13:21:01](https://news.ycombinator.com/item?id=48881009) - [Show HN: Only 1 of 4,356 reachable MCP servers is ready for the 2026-07-28 spec](https://github.com/Roee-Tsur/mcp-spec-check)
 * [2026-07-12, 13:18:36](https://news.ycombinator.com/item?id=48880987) - [Making Crash Bandicoot (2011)](https://all-things-andy-gavin.com/2011/02/02/making-crash-bandicoot-part-1/)
+* [2026-07-12, 13:18:34](https://news.ycombinator.com/item?id=48880985) - [Gina Gallery of International Naive Art](https://www.ginagallery.com/)
 * [2026-07-12, 12:17:26](https://news.ycombinator.com/item?id=48880564) - [Mystery behind Moana: After 1,700 years, why did Polynesians suddenly sail east?](https://theconversation.com/the-real-mystery-behind-moana-after-1-700-years-why-did-polynesians-suddenly-sail-east-287226)
 * [2026-07-12, 12:08:07](https://news.ycombinator.com/item?id=48880499) - [Understanding the Odin Programming Language](https://odinbook.com/)
 * [2026-07-12, 11:52:21](https://news.ycombinator.com/item?id=48880406) - [Unauthenticated RCE in Motorola's MR2600 Router](https://mrbruh.com/motorola/)
