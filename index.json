@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-07-12, 20:23:05",
+      "https://news.ycombinator.com/item?id=48884395"
+    ],
+    [
+      "Tiny Emulators",
+      "https://floooh.github.io/tiny8bit-preview/index.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-12, 20:16:12",
+      "https://news.ycombinator.com/item?id=48884322"
+    ],
+    [
+      "Irish datacenters now guzzle 23% of the country's electricity",
+      "https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013"
+    ]
+  ],
+  [
+    [
+      "2026-07-12, 19:54:30",
+      "https://news.ycombinator.com/item?id=48884100"
+    ],
+    [
+      "Defining new Jax types with hijax",
+      "https://docs.jax.dev/en/latest/hijax_types.html"
+    ]
+  ],
+  [
+    [
       "2026-07-12, 19:49:53",
       "https://news.ycombinator.com/item?id=48884052"
     ],
@@ -181,32 +211,12 @@
   ],
   [
     [
-      "2026-07-12, 13:26:13",
-      "https://news.ycombinator.com/item?id=48881043"
-    ],
-    [
-      "AI boosts research careers but narrow the span of ideas explored: study",
-      "https://spectrum.ieee.org/ai-science-research-flattens-discovery"
-    ]
-  ],
-  [
-    [
       "2026-07-12, 12:08:07",
       "https://news.ycombinator.com/item?id=48880499"
     ],
     [
       "Understanding the Odin programming language",
       "https://odinbook.com/"
-    ]
-  ],
-  [
-    [
-      "2026-07-12, 11:52:21",
-      "https://news.ycombinator.com/item?id=48880406"
-    ],
-    [
-      "Unauthenticated RCE in Motorola's MR2600 Router",
-      "https://mrbruh.com/motorola/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Show HN: Nectar, a Rust-like React that compiles to WebAssembly",
       "https://buildnectar.com"
-    ]
-  ],
-  [
-    [
-      "2026-07-05, 14:43:56",
-      "https://news.ycombinator.com/item?id=48794665"
-    ],
-    [
-      "Morphometrics: Introduction to the Analysis of Shape",
-      "https://www.geol.umd.edu/~tholtz/G331/lectures/331biomech.html"
     ]
   ]
 ]
