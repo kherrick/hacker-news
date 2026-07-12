@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-12, 16:55:42",
+      "https://news.ycombinator.com/item?id=48882562"
+    ],
+    [
+      "Show HN: Shirei, cross-platform GUI framework in native Go",
+      "https://github.com/hasenj/go-shirei/"
+    ]
+  ],
+  [
+    [
+      "2026-07-12, 16:04:19",
+      "https://news.ycombinator.com/item?id=48882180"
+    ],
+    [
+      "An explanation of our search results",
+      "https://web.archive.org/web/20040612082405/https://www.google.com/explanation.html"
+    ]
+  ],
+  [
+    [
       "2026-07-12, 15:58:42",
       "https://news.ycombinator.com/item?id=48882144"
     ],
@@ -191,42 +211,12 @@
   ],
   [
     [
-      "2026-07-11, 17:00:35",
-      "https://news.ycombinator.com/item?id=48873665"
-    ],
-    [
-      "Sixtyfour (YC P25) Is Hiring",
-      "https://www.ycombinator.com/companies/sixtyfour/jobs/bIbgQkL-operations-associate-data-samples-customer-success"
-    ]
-  ],
-  [
-    [
       "2026-07-10, 00:06:59",
       "https://news.ycombinator.com/item?id=48854168"
     ],
     [
       "Vint Cerf, a “father of the Internet”, is retiring",
       "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/"
-    ]
-  ],
-  [
-    [
-      "2026-07-09, 14:10:04",
-      "https://news.ycombinator.com/item?id=48846177"
-    ],
-    [
-      "I Did Not Kill Stanley Lieber: How to Draw (With 9front)",
-      "https://triapul.cz/automa/i_did_not_kill_stanley_lieber"
-    ]
-  ],
-  [
-    [
-      "2026-07-09, 09:58:28",
-      "https://news.ycombinator.com/item?id=48843409"
-    ],
-    [
-      "Relm – local LLMs as base-R objects, with interpretability",
-      "https://github.com/Vadale/R-ebirth"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Ditching Zotero for a Text File",
       "https://atthis.link/blog/2026/57207.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-05, 14:43:56",
+      "https://news.ycombinator.com/item?id=48794665"
+    ],
+    [
+      "Morphometrics: Introduction to the Analysis of Shape",
+      "https://www.geol.umd.edu/~tholtz/G331/lectures/331biomech.html"
     ]
   ]
 ]
