@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-07-12, 07:00:24](https://news.ycombinator.com/item?id=48878996) - [6× faster binary search: from compiled code to mechanical sympathy](https://pythonspeed.com/articles/branchless-binary-search/)
 * [2026-07-12, 05:51:32](https://news.ycombinator.com/item?id=48878682) - [Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase](https://github.com/cosmtrek/mindwalk)
 * [2026-07-12, 04:15:27](https://news.ycombinator.com/item?id=48878195) - [Why Write Code in 2026](https://softwaredoug.com/blog/2026/07/09/write-code.html)
 * [2026-07-12, 04:00:14](https://news.ycombinator.com/item?id=48878126) - [Under federal rule, colleges must leave grads better off or lose financial aid](https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans)
@@ -9,6 +8,7 @@
 * [2026-07-12, 01:03:29](https://news.ycombinator.com/item?id=48877344) - [A Erlang style pure Scheme Webserver and further](https://igropyr.com)
 * [2026-07-12, 00:57:18](https://news.ycombinator.com/item?id=48877314) - [A pure scheme web programming tool](https://goeteia.dev)
 * [2026-07-12, 00:48:10](https://news.ycombinator.com/item?id=48877269) - [A dock that wakes up reliably](https://fabiensanglard.net/tb4/index.html)
+* [2026-07-12, 00:32:15](https://news.ycombinator.com/item?id=48877178) - [Martha Lillard, last US polio patient using iron lung, dies at 78 in Oklahoma](https://abcnews.com/US/wireStory/martha-lillard-us-polio-patient-iron-lung-dies-134668491)
 * [2026-07-11, 23:15:06](https://news.ycombinator.com/item?id=48876741) - [How Doctors die. It’s not like the rest of us (2016)](https://archive.cancerworld.net/featured/how-doctors-die/)
 * [2026-07-11, 22:54:06](https://news.ycombinator.com/item?id=48876619) - [Fixed three bugs that made Qwen3.5-122B a daily driver on Mac Studio](https://mrzk.io/posts/qmlx-maximising-ai-psychosis-minmaxing-mac-studio/)
 * [2026-07-11, 22:38:57](https://news.ycombinator.com/item?id=48876505) - [Mesh LLM: distributed AI computing on iroh](https://www.iroh.computer/blog/mesh-llm)
@@ -20,7 +20,7 @@
 * [2026-07-11, 15:28:02](https://news.ycombinator.com/item?id=48872874) - [We scaled PgBouncer to 4x throughput](https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres)
 * [2026-07-11, 15:26:12](https://news.ycombinator.com/item?id=48872858) - [The early History of the Singular Value Decomposition (1993) [pdf]](https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf)
 * [2026-07-11, 13:40:27](https://news.ycombinator.com/item?id=48871973) - [Show HN: Learn by rebuilding Redis, Git, a database from scratch](https://shipthatcode.com)
-* [2026-07-10, 00:06:59](https://news.ycombinator.com/item?id=48854168) - [The 'Father of the Internet' is finally retiring](https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/)
+* [2026-07-10, 00:06:59](https://news.ycombinator.com/item?id=48854168) - [Vint Cerf will step down from his role at Google next week](https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/)
 * [2026-07-09, 17:44:20](https://news.ycombinator.com/item?id=48849744) - [Billions of Sketches Reveal Hidden Cultural Variation in Human Concepts](https://arxiv.org/abs/2607.07267)
 * [2026-07-09, 14:10:04](https://news.ycombinator.com/item?id=48846177) - [I Did Not Kill Stanley Lieber: How to Draw (With 9front)](https://triapul.cz/automa/i_did_not_kill_stanley_lieber)
 * [2026-07-09, 02:17:59](https://news.ycombinator.com/item?id=48840152) - [Jellyfish Undersea Roundabout](https://visitfaroeislands.com/en/plan-your-stay/getting-around/world-first-under-sea-roundabout)
