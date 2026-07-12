@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-07-12, 02:15:11",
-      "https://news.ycombinator.com/item?id=48877672"
+      "2026-07-12, 04:00:14",
+      "https://news.ycombinator.com/item?id=48878126"
     ],
     [
-      "Show HN: Quantum-Qec / Matrix-Free Quantum Homeostatic Engine(Blueprint)",
-      "https://github.com/PJHkorea/quantum-mesh-qec"
+      "Under federal rule, colleges must leave grads better off or lose financial aid",
+      "https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans"
+    ]
+  ],
+  [
+    [
+      "2026-07-12, 03:10:08",
+      "https://news.ycombinator.com/item?id=48877927"
+    ],
+    [
+      "Why are US consumers so angry? It's not just high prices",
+      "https://www.theguardian.com/us-news/ng-interactive/2026/jun/04/us-consumer-rage-prices-economy"
     ]
   ],
   [
@@ -101,6 +111,16 @@
   ],
   [
     [
+      "2026-07-11, 22:54:06",
+      "https://news.ycombinator.com/item?id=48876619"
+    ],
+    [
+      "Fixed three bugs that made Qwen3.5-122B a daily driver on Mac Studio",
+      "https://mrzk.io/posts/qmlx-maximising-ai-psychosis-minmaxing-mac-studio/"
+    ]
+  ],
+  [
+    [
       "2026-07-11, 22:38:57",
       "https://news.ycombinator.com/item?id=48876505"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2026-07-11, 18:15:35",
-      "https://news.ycombinator.com/item?id=48874297"
-    ],
-    [
-      "ZeroFS vs. Amazon S3 Files",
-      "https://www.zerofs.net/blog/zerofs-vs-aws-s3-files/"
-    ]
-  ],
-  [
-    [
       "2026-07-11, 17:33:55",
       "https://news.ycombinator.com/item?id=48873940"
     ],
@@ -171,32 +181,12 @@
   ],
   [
     [
-      "2026-07-11, 17:03:23",
-      "https://news.ycombinator.com/item?id=48873692"
-    ],
-    [
-      "Female US rower completes historic solo journey from California to Hawaii",
-      "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey"
-    ]
-  ],
-  [
-    [
       "2026-07-11, 17:00:35",
       "https://news.ycombinator.com/item?id=48873665"
     ],
     [
       "Sixtyfour (YC P25) Is Hiring",
       "https://www.ycombinator.com/companies/sixtyfour/jobs/bIbgQkL-operations-associate-data-samples-customer-success"
-    ]
-  ],
-  [
-    [
-      "2026-07-11, 16:39:02",
-      "https://news.ycombinator.com/item?id=48873501"
-    ],
-    [
-      "Show HN: Orbit – AR satellite tracker, watch 15k+ objects",
-      "https://nagylukas.github.io/orbit.html"
     ]
   ],
   [
@@ -261,16 +251,6 @@
   ],
   [
     [
-      "2026-07-09, 11:57:34",
-      "https://news.ycombinator.com/item?id=48844476"
-    ],
-    [
-      "How to Achieve Pruning When Querying by Non-Partitioned Columns in PostgreSQL",
-      "https://hakibenita.com/postgresql-partition-pruning"
-    ]
-  ],
-  [
-    [
       "2026-07-09, 02:17:59",
       "https://news.ycombinator.com/item?id=48840152"
     ],
@@ -291,12 +271,32 @@
   ],
   [
     [
+      "2026-07-07, 21:21:09",
+      "https://news.ycombinator.com/item?id=48823981"
+    ],
+    [
+      "An agent in 100 lines of Lisp",
+      "https://thebeach.dev/posts/lisp-agent/"
+    ]
+  ],
+  [
+    [
       "2026-07-07, 16:48:48",
       "https://news.ycombinator.com/item?id=48820361"
     ],
     [
       "Biff.graph: structure your Clojure codebase as a queryable graph",
       "https://github.com/jacobobryant/biff/tree/v2.x/libs/graph"
+    ]
+  ],
+  [
+    [
+      "2026-07-04, 12:57:38",
+      "https://news.ycombinator.com/item?id=48785102"
+    ],
+    [
+      "EF Core 11 makes your split queries faster",
+      "https://steven-giesel.com/blogPost/d4401fd0-805a-4703-9d9e-5fe3b57c25ea"
     ]
   ]
 ]
