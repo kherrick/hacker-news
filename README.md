@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-12, 20:23:05](https://news.ycombinator.com/item?id=48884395) - [Tiny Emulators](https://floooh.github.io/tiny8bit-preview/index.html)
+* [2026-07-12, 20:16:12](https://news.ycombinator.com/item?id=48884322) - [Irish datacenters now guzzle 23% of the country's electricity](https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013)
+* [2026-07-12, 19:54:30](https://news.ycombinator.com/item?id=48884100) - [Defining new Jax types with hijax](https://docs.jax.dev/en/latest/hijax_types.html)
 * [2026-07-12, 19:49:53](https://news.ycombinator.com/item?id=48884052) - [Neocities: Create your own free website](https://neocities.org/)
 * [2026-07-12, 18:41:15](https://news.ycombinator.com/item?id=48883415) - [The One-Step Trap (In AI Research)](http://incompleteideas.net/IncIdeas/OneStepTrap.html)
 * [2026-07-12, 18:31:56](https://news.ycombinator.com/item?id=48883343) - [I love LLMs, I hate hype](https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html)
@@ -18,9 +21,7 @@
 * [2026-07-12, 15:35:36](https://news.ycombinator.com/item?id=48881967) - [The power of collaboration: How we can reduce traffic congestion](https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/)
 * [2026-07-12, 15:23:59](https://news.ycombinator.com/item?id=48881874) - [The shingles vaccine may reduce the risk of dementia](https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain)
 * [2026-07-12, 15:17:20](https://news.ycombinator.com/item?id=48881830) - [Don't you mean extinct?](https://fabiensanglard.net/extinct/index.html)
-* [2026-07-12, 13:26:13](https://news.ycombinator.com/item?id=48881043) - [AI boosts research careers but narrow the span of ideas explored: study](https://spectrum.ieee.org/ai-science-research-flattens-discovery)
 * [2026-07-12, 12:08:07](https://news.ycombinator.com/item?id=48880499) - [Understanding the Odin programming language](https://odinbook.com/)
-* [2026-07-12, 11:52:21](https://news.ycombinator.com/item?id=48880406) - [Unauthenticated RCE in Motorola's MR2600 Router](https://mrbruh.com/motorola/)
 * [2026-07-12, 11:09:42](https://news.ycombinator.com/item?id=48880170) - [Old and new apps, via modern coding agents](https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/)
 * [2026-07-12, 10:14:40](https://news.ycombinator.com/item?id=48879902) - [Death of the Status Update: Why 55% of Americans Stopped Posting on Social Media](https://ca.pcmag.com/social-media/16790/the-death-of-the-status-update-why-55-of-americans-stopped-posting-on-social-media)
 * [2026-07-12, 08:52:59](https://news.ycombinator.com/item?id=48879504) - [Ghostel.el: Terminal emulator powered by libghostty](https://dakra.github.io/ghostel/)
@@ -29,7 +30,6 @@
 * [2026-07-10, 00:06:59](https://news.ycombinator.com/item?id=48854168) - [Vint Cerf, “father of the Internet”, is retiring](https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/)
 * [2026-07-07, 19:10:16](https://news.ycombinator.com/item?id=48822234) - [Deir El-Medina Strikes](https://en.wikipedia.org/wiki/Deir_el-Medina_strikes)
 * [2026-07-06, 15:16:54](https://news.ycombinator.com/item?id=48805857) - [Show HN: Nectar, a Rust-like React that compiles to WebAssembly](https://buildnectar.com)
-* [2026-07-05, 14:43:56](https://news.ycombinator.com/item?id=48794665) - [Morphometrics: Introduction to the Analysis of Shape](https://www.geol.umd.edu/~tholtz/G331/lectures/331biomech.html)
 
 ## [Archives](archives/index.md)
 

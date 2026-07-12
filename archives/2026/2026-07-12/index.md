@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-07-12](index.md)
 
+* [2026-07-12, 20:23:05](https://news.ycombinator.com/item?id=48884395) - [Tiny Emulators](https://floooh.github.io/tiny8bit-preview/index.html)
+* [2026-07-12, 20:16:12](https://news.ycombinator.com/item?id=48884322) - [Irish datacenters now guzzle 23% of the country's electricity](https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013)
+* [2026-07-12, 19:54:30](https://news.ycombinator.com/item?id=48884100) - [Defining new Jax types with hijax](https://docs.jax.dev/en/latest/hijax_types.html)
 * [2026-07-12, 19:49:53](https://news.ycombinator.com/item?id=48884052) - [Neocities: Create your own free website](https://neocities.org/)
 * [2026-07-12, 18:41:15](https://news.ycombinator.com/item?id=48883415) - [The One-Step Trap (In AI Research)](http://incompleteideas.net/IncIdeas/OneStepTrap.html)
 * [2026-07-12, 18:31:56](https://news.ycombinator.com/item?id=48883343) - [I love LLMs, I hate hype](https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html)
