@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-12, 13:34:00",
+      "https://news.ycombinator.com/item?id=48881112"
+    ],
+    [
+      "Show HN: Skillscript – A declarative, sandboxed language for tool orchestration",
+      "https://github.com/sshwarts/skillscript"
+    ]
+  ],
+  [
+    [
       "2026-07-12, 13:26:13",
       "https://news.ycombinator.com/item?id=48881043"
     ],
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2026-07-11, 15:28:02",
-      "https://news.ycombinator.com/item?id=48872874"
-    ],
-    [
-      "We scaled PgBouncer to 4x throughput",
-      "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres"
-    ]
-  ],
-  [
-    [
       "2026-07-10, 00:06:59",
       "https://news.ycombinator.com/item?id=48854168"
     ],
@@ -191,12 +191,12 @@
   ],
   [
     [
-      "2026-07-09, 02:17:59",
-      "https://news.ycombinator.com/item?id=48840152"
+      "2026-07-09, 09:58:28",
+      "https://news.ycombinator.com/item?id=48843409"
     ],
     [
-      "Jellyfish Undersea Roundabout",
-      "https://visitfaroeislands.com/en/plan-your-stay/getting-around/world-first-under-sea-roundabout"
+      "Relm – local LLMs as base-R objects, with interpretability",
+      "https://github.com/Vadale/R-ebirth"
     ]
   ],
   [
