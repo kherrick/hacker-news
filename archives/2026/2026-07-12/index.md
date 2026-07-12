@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-12](index.md)
 
+* [2026-07-12, 04:15:27](https://news.ycombinator.com/item?id=48878195) - [Why Write Code in 2026](https://softwaredoug.com/blog/2026/07/09/write-code.html)
 * [2026-07-12, 04:00:14](https://news.ycombinator.com/item?id=48878126) - [Under federal rule, colleges must leave grads better off or lose financial aid](https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans)
 * [2026-07-12, 03:10:08](https://news.ycombinator.com/item?id=48877927) - [Why are US consumers so angry? It's not just high prices](https://www.theguardian.com/us-news/ng-interactive/2026/jun/04/us-consumer-rage-prices-economy)
 * [2026-07-12, 02:15:11](https://news.ycombinator.com/item?id=48877672) - [Show HN: Quantum-Qec / Matrix-Free Quantum Homeostatic Engine(Blueprint)](https://github.com/PJHkorea/quantum-mesh-qec)

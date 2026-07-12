@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-07-12, 04:00:14](https://news.ycombinator.com/item?id=48878126) - [Under federal rule, colleges must leave grads better off or lose financial aid](https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans)
-* [2026-07-12, 03:10:08](https://news.ycombinator.com/item?id=48877927) - [Why are US consumers so angry? It's not just high prices](https://www.theguardian.com/us-news/ng-interactive/2026/jun/04/us-consumer-rage-prices-economy)
+* [2026-07-12, 04:15:27](https://news.ycombinator.com/item?id=48878195) - [Why Write Code in 2026](https://softwaredoug.com/blog/2026/07/09/write-code.html)
 * [2026-07-12, 02:13:46](https://news.ycombinator.com/item?id=48877668) - [We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture](https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/)
 * [2026-07-12, 01:59:35](https://news.ycombinator.com/item?id=48877613) - [The Energetic Costs of Cellular Computation (2012)](https://arxiv.org/abs/1203.5426)
 * [2026-07-12, 01:09:50](https://news.ycombinator.com/item?id=48877371) - [What xAI's Grok Build CLI Actually Sends to xAI](https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547)
@@ -26,6 +25,7 @@
 * [2026-07-09, 17:44:20](https://news.ycombinator.com/item?id=48849744) - [Billions of Sketches Reveal Hidden Cultural Variation in Human Concepts](https://arxiv.org/abs/2607.07267)
 * [2026-07-09, 14:10:04](https://news.ycombinator.com/item?id=48846177) - [I Did Not Kill Stanley Lieber: How to Draw (With 9front)](https://triapul.cz/automa/i_did_not_kill_stanley_lieber)
 * [2026-07-09, 02:17:59](https://news.ycombinator.com/item?id=48840152) - [Jellyfish Undersea Roundabout](https://visitfaroeislands.com/en/plan-your-stay/getting-around/world-first-under-sea-roundabout)
+* [2026-07-08, 13:00:43](https://news.ycombinator.com/item?id=48831384) - [Text Art Tools](https://hlnet.notion.site/text-art-tools)
 * [2026-07-08, 11:44:25](https://news.ycombinator.com/item?id=48830664) - [Optimization Solver as a Service](https://www.quicopt.com/developer/getting-started/)
 * [2026-07-07, 21:21:09](https://news.ycombinator.com/item?id=48823981) - [An agent in 100 lines of Lisp](https://thebeach.dev/posts/lisp-agent/)
 * [2026-07-07, 16:48:48](https://news.ycombinator.com/item?id=48820361) - [Biff.graph: structure your Clojure codebase as a queryable graph](https://github.com/jacobobryant/biff/tree/v2.x/libs/graph)
