@@ -6,6 +6,7 @@
 
 * [2026-07-12, 10:23:25](https://news.ycombinator.com/item?id=48879950) - [Datacentres drive up big tech's carbon emissions to a third of those of France](https://www.theguardian.com/us-news/2026/jul/11/microsoft-amazon-google-datacentre-carbon-emissions-france)
 * [2026-07-12, 10:14:40](https://news.ycombinator.com/item?id=48879902) - [Death of the Status Update: Why 55% of Americans Stopped Posting on Social Media](https://ca.pcmag.com/social-media/16790/the-death-of-the-status-update-why-55-of-americans-stopped-posting-on-social-media)
+* [2026-07-12, 08:52:59](https://news.ycombinator.com/item?id=48879504) - [Ghostel.el: Terminal emulator powered by libghostty](https://dakra.github.io/ghostel/)
 * [2026-07-12, 07:00:24](https://news.ycombinator.com/item?id=48878996) - [6× faster binary search: from compiled code to mechanical sympathy](https://pythonspeed.com/articles/branchless-binary-search/)
 * [2026-07-12, 05:51:32](https://news.ycombinator.com/item?id=48878682) - [Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase](https://github.com/cosmtrek/mindwalk)
 * [2026-07-12, 04:15:27](https://news.ycombinator.com/item?id=48878195) - [Why Write Code in 2026](https://softwaredoug.com/blog/2026/07/09/write-code.html)

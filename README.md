@@ -2,6 +2,7 @@
 
 * [2026-07-12, 10:23:25](https://news.ycombinator.com/item?id=48879950) - [Datacentres drive up big tech's carbon emissions to a third of those of France](https://www.theguardian.com/us-news/2026/jul/11/microsoft-amazon-google-datacentre-carbon-emissions-france)
 * [2026-07-12, 10:14:40](https://news.ycombinator.com/item?id=48879902) - [Death of the Status Update: Why 55% of Americans Stopped Posting on Social Media](https://ca.pcmag.com/social-media/16790/the-death-of-the-status-update-why-55-of-americans-stopped-posting-on-social-media)
+* [2026-07-12, 08:52:59](https://news.ycombinator.com/item?id=48879504) - [Ghostel.el: Terminal emulator powered by libghostty](https://dakra.github.io/ghostel/)
 * [2026-07-12, 05:51:32](https://news.ycombinator.com/item?id=48878682) - [Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase](https://github.com/cosmtrek/mindwalk)
 * [2026-07-12, 04:00:14](https://news.ycombinator.com/item?id=48878126) - [Under federal rule, colleges must leave grads better off or lose financial aid](https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans)
 * [2026-07-12, 02:13:46](https://news.ycombinator.com/item?id=48877668) - [Unexpected Solidlike Fracture in Simple Liquids](https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/)
@@ -17,7 +18,6 @@
 * [2026-07-11, 16:28:48](https://news.ycombinator.com/item?id=48873424) - [Modern decor may be straining people's brains](https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/)
 * [2026-07-11, 15:28:02](https://news.ycombinator.com/item?id=48872874) - [We scaled PgBouncer to 4x throughput](https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres)
 * [2026-07-11, 15:26:12](https://news.ycombinator.com/item?id=48872858) - [The early History of the Singular Value Decomposition (1993) [pdf]](https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf)
-* [2026-07-11, 13:40:27](https://news.ycombinator.com/item?id=48871973) - [Show HN: Learn by rebuilding Redis, Git, a database from scratch](https://shipthatcode.com)
 * [2026-07-10, 00:06:59](https://news.ycombinator.com/item?id=48854168) - [Vint Cerf, a “father of the Internet”, is retiring](https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/)
 * [2026-07-09, 17:44:20](https://news.ycombinator.com/item?id=48849744) - [Billions of Sketches Reveal Hidden Cultural Variation in Human Concepts](https://arxiv.org/abs/2607.07267)
 * [2026-07-09, 14:10:04](https://news.ycombinator.com/item?id=48846177) - [I Did Not Kill Stanley Lieber: How to Draw (With 9front)](https://triapul.cz/automa/i_did_not_kill_stanley_lieber)
