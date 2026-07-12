@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2026-07-12, 04:15:27",
-      "https://news.ycombinator.com/item?id=48878195"
-    ],
-    [
-      "Why Write Code in 2026",
-      "https://softwaredoug.com/blog/2026/07/09/write-code.html"
-    ]
-  ],
-  [
-    [
       "2026-07-12, 04:00:14",
       "https://news.ycombinator.com/item?id=48878126"
     ],
@@ -267,6 +257,16 @@
     [
       "An agent in 100 lines of Lisp",
       "https://thebeach.dev/posts/lisp-agent/"
+    ]
+  ],
+  [
+    [
+      "2026-07-07, 19:22:56",
+      "https://news.ycombinator.com/item?id=48822441"
+    ],
+    [
+      "Amber the programming language compiled to Bash/Ksh/Zsh",
+      "https://amber-lang.com/"
     ]
   ],
   [
