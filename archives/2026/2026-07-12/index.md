@@ -4,6 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-07-12](index.md)
 
+* [2026-07-12, 15:58:42](https://news.ycombinator.com/item?id=48882144) - [TK, or the secret to effortless writing (2024)](https://atthis.link/blog/2024/49629.html)
+* [2026-07-12, 15:53:53](https://news.ycombinator.com/item?id=48882097) - [Why study Diophantine equations?](https://hidden-phenomena.com/articles/modular)
+* [2026-07-12, 15:47:16](https://news.ycombinator.com/item?id=48882056) - [How to Read More Books](https://scotto.me/blog/2026-07-12-how-to-read-more-books/)
+* [2026-07-12, 15:35:36](https://news.ycombinator.com/item?id=48881967) - [The power of collaboration: How we can reduce traffic congestion](https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/)
+* [2026-07-12, 15:23:59](https://news.ycombinator.com/item?id=48881874) - [A no-brainer for protecting your brain](https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain)
+* [2026-07-12, 15:17:20](https://news.ycombinator.com/item?id=48881830) - [Don't You Mean Extinct?](https://fabiensanglard.net/extinct/index.html)
+* [2026-07-12, 14:32:00](https://news.ycombinator.com/item?id=48881498) - [Autoresearch, Claude and Constrained Optimization](https://www.elliotcsmith.com/autoresearch-claude-and-constrained-optimization/)
 * [2026-07-12, 13:34:00](https://news.ycombinator.com/item?id=48881112) - [Show HN: Skillscript – A declarative, sandboxed language for tool orchestration](https://github.com/sshwarts/skillscript)
 * [2026-07-12, 13:26:13](https://news.ycombinator.com/item?id=48881043) - [AI Boosts Research Careers but Flattens Scientific Discovery](https://spectrum.ieee.org/ai-science-research-flattens-discovery)
 * [2026-07-12, 13:21:01](https://news.ycombinator.com/item?id=48881009) - [Show HN: Only 1 of 4,356 reachable MCP servers is ready for the 2026-07-28 spec](https://github.com/Roee-Tsur/mcp-spec-check)
