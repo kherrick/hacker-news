@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-12](index.md)
 
+* [2026-07-12, 16:55:42](https://news.ycombinator.com/item?id=48882562) - [Show HN: Shirei, cross-platform GUI framework in native Go](https://github.com/hasenj/go-shirei/)
+* [2026-07-12, 16:04:19](https://news.ycombinator.com/item?id=48882180) - [An explanation of our search results](https://web.archive.org/web/20040612082405/https://www.google.com/explanation.html)
 * [2026-07-12, 15:58:42](https://news.ycombinator.com/item?id=48882144) - [TK, or the secret to effortless writing (2024)](https://atthis.link/blog/2024/49629.html)
 * [2026-07-12, 15:53:53](https://news.ycombinator.com/item?id=48882097) - [Why study Diophantine equations?](https://hidden-phenomena.com/articles/modular)
 * [2026-07-12, 15:47:16](https://news.ycombinator.com/item?id=48882056) - [How to Read More Books](https://scotto.me/blog/2026-07-12-how-to-read-more-books/)

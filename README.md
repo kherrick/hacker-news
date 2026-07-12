@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-12, 16:55:42](https://news.ycombinator.com/item?id=48882562) - [Show HN: Shirei, cross-platform GUI framework in native Go](https://github.com/hasenj/go-shirei/)
+* [2026-07-12, 16:04:19](https://news.ycombinator.com/item?id=48882180) - [An explanation of our search results](https://web.archive.org/web/20040612082405/https://www.google.com/explanation.html)
 * [2026-07-12, 15:58:42](https://news.ycombinator.com/item?id=48882144) - [TK, or the secret to effortless writing (2024)](https://atthis.link/blog/2024/49629.html)
 * [2026-07-12, 15:53:53](https://news.ycombinator.com/item?id=48882097) - [Why study Diophantine equations?](https://hidden-phenomena.com/articles/modular)
 * [2026-07-12, 15:47:16](https://news.ycombinator.com/item?id=48882056) - [How to Read More Books](https://scotto.me/blog/2026-07-12-how-to-read-more-books/)
@@ -19,10 +21,7 @@
 * [2026-07-11, 21:58:00](https://news.ycombinator.com/item?id=48876245) - [RISCBoy is an open-source portable games console, designed from scratch](https://github.com/Wren6991/RISCBoy)
 * [2026-07-11, 20:07:18](https://news.ycombinator.com/item?id=48875377) - [Show HN: Ant – A JavaScript runtime and ecosystem](https://antjs.org)
 * [2026-07-11, 17:21:49](https://news.ycombinator.com/item?id=48873836) - [Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom](https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom)
-* [2026-07-11, 17:00:35](https://news.ycombinator.com/item?id=48873665) - [Sixtyfour (YC P25) Is Hiring](https://www.ycombinator.com/companies/sixtyfour/jobs/bIbgQkL-operations-associate-data-samples-customer-success)
 * [2026-07-10, 00:06:59](https://news.ycombinator.com/item?id=48854168) - [Vint Cerf, a “father of the Internet”, is retiring](https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/)
-* [2026-07-09, 14:10:04](https://news.ycombinator.com/item?id=48846177) - [I Did Not Kill Stanley Lieber: How to Draw (With 9front)](https://triapul.cz/automa/i_did_not_kill_stanley_lieber)
-* [2026-07-09, 09:58:28](https://news.ycombinator.com/item?id=48843409) - [Relm – local LLMs as base-R objects, with interpretability](https://github.com/Vadale/R-ebirth)
 * [2026-07-08, 22:07:05](https://news.ycombinator.com/item?id=48838027) - [Lessons from the Vasa Shipwreck](https://www.ft.com/content/200a6c44-9b66-4af3-82eb-98acb53898e4)
 * [2026-07-08, 12:07:59](https://news.ycombinator.com/item?id=48830860) - [Handsum: An LQIP Image File Format](https://nigeltao.github.io/blog/2026/handsum.html)
 * [2026-07-08, 03:16:38](https://news.ycombinator.com/item?id=48827058) - [Protobuf-py: Protobuf for Python, without compromises](https://buf.build/blog/protobuf-py)
@@ -30,6 +29,7 @@
 * [2026-07-07, 21:09:08](https://news.ycombinator.com/item?id=48823803) - [Satteri: A Markdown pipeline forged in Rust for the JavaScript world](https://satteri.bruits.org/)
 * [2026-07-07, 04:35:55](https://news.ycombinator.com/item?id=48813702) - [Xbox 'OG' Adventures](https://mamoniem.com/xbox-og-adventures/)
 * [2026-07-06, 20:17:19](https://news.ycombinator.com/item?id=48809916) - [Ditching Zotero for a Text File](https://atthis.link/blog/2026/57207.html)
+* [2026-07-05, 14:43:56](https://news.ycombinator.com/item?id=48794665) - [Morphometrics: Introduction to the Analysis of Shape](https://www.geol.umd.edu/~tholtz/G331/lectures/331biomech.html)
 
 ## [Archives](archives/index.md)
 
