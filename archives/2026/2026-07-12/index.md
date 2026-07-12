@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-07-12](index.md)
 
+* [2026-07-12, 18:41:15](https://news.ycombinator.com/item?id=48883415) - [The One-Step Trap (In AI Research)](http://incompleteideas.net/IncIdeas/OneStepTrap.html)
 * [2026-07-12, 18:31:56](https://news.ycombinator.com/item?id=48883343) - [I love LLMs, I hate hype](https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html)
 * [2026-07-12, 18:25:51](https://news.ycombinator.com/item?id=48883275) - [Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k](https://systima.ai/blog/claude-code-vs-opencode-token-overhead)
+* [2026-07-12, 18:22:15](https://news.ycombinator.com/item?id=48883238) - [I Learned to Read Again](https://substack.magazinenongrata.com/p/how-i-learned-to-read-again)
 * [2026-07-12, 18:04:41](https://news.ycombinator.com/item?id=48883090) - [Can We Understand How Large Language Models Reason?](https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/)
 * [2026-07-12, 18:01:29](https://news.ycombinator.com/item?id=48883064) - [Claude Code May–July 2026 weekly limits promotion](https://support.claude.com/en/articles/15910845-claude-code-may-july-2026-weekly-limits-promotion)
 * [2026-07-12, 17:47:07](https://news.ycombinator.com/item?id=48882956) - [Against Usefulness](https://www.motivenotes.ai/p/against-usefulness)
