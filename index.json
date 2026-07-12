@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-12, 16:59:37",
+      "https://news.ycombinator.com/item?id=48882601"
+    ],
+    [
+      "Website is served from a 200KB binary",
+      "https://200kb.freelang.dev/"
+    ]
+  ],
+  [
+    [
       "2026-07-12, 16:55:42",
       "https://news.ycombinator.com/item?id=48882562"
     ],
@@ -11,12 +21,22 @@
   ],
   [
     [
-      "2026-07-12, 16:04:19",
-      "https://news.ycombinator.com/item?id=48882180"
+      "2026-07-12, 16:54:47",
+      "https://news.ycombinator.com/item?id=48882554"
     ],
     [
-      "An explanation of our search results",
-      "https://web.archive.org/web/20040612082405/https://www.google.com/explanation.html"
+      "Automation Without Understanding",
+      "https://arxiv.org/abs/2607.06377"
+    ]
+  ],
+  [
+    [
+      "2026-07-12, 16:05:29",
+      "https://news.ycombinator.com/item?id=48882189"
+    ],
+    [
+      "Theo de Raadt: \"You've been smoking something mind altering\" (2007)",
+      "https://marc.info/?l=openbsd-misc&m=119318909016582"
     ]
   ],
   [
@@ -87,6 +107,16 @@
     [
       "Autoresearch, Claude and Constrained Optimization",
       "https://www.elliotcsmith.com/autoresearch-claude-and-constrained-optimization/"
+    ]
+  ],
+  [
+    [
+      "2026-07-12, 14:09:23",
+      "https://news.ycombinator.com/item?id=48881352"
+    ],
+    [
+      "Show HN: Kurvengefahr – browser CAD/CAM for pen plotters",
+      "https://kurvengefahr.org/"
     ]
   ],
   [
@@ -181,26 +211,6 @@
   ],
   [
     [
-      "2026-07-11, 21:58:00",
-      "https://news.ycombinator.com/item?id=48876245"
-    ],
-    [
-      "RISCBoy is an open-source portable games console, designed from scratch",
-      "https://github.com/Wren6991/RISCBoy"
-    ]
-  ],
-  [
-    [
-      "2026-07-11, 20:07:18",
-      "https://news.ycombinator.com/item?id=48875377"
-    ],
-    [
-      "Show HN: Ant – A JavaScript runtime and ecosystem",
-      "https://antjs.org"
-    ]
-  ],
-  [
-    [
       "2026-07-11, 17:21:49",
       "https://news.ycombinator.com/item?id=48873836"
     ],
@@ -227,16 +237,6 @@
     [
       "Lessons from the Vasa Shipwreck",
       "https://www.ft.com/content/200a6c44-9b66-4af3-82eb-98acb53898e4"
-    ]
-  ],
-  [
-    [
-      "2026-07-08, 12:07:59",
-      "https://news.ycombinator.com/item?id=48830860"
-    ],
-    [
-      "Handsum: An LQIP Image File Format",
-      "https://nigeltao.github.io/blog/2026/handsum.html"
     ]
   ],
   [
