@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-07-12, 02:15:11",
+      "https://news.ycombinator.com/item?id=48877672"
+    ],
+    [
+      "Show HN: Quantum-Qec / Matrix-Free Quantum Homeostatic Engine(Blueprint)",
+      "https://github.com/PJHkorea/quantum-mesh-qec"
+    ]
+  ],
+  [
+    [
+      "2026-07-12, 02:13:46",
+      "https://news.ycombinator.com/item?id=48877668"
+    ],
+    [
+      "We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture",
+      "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/"
+    ]
+  ],
+  [
+    [
+      "2026-07-12, 01:59:35",
+      "https://news.ycombinator.com/item?id=48877613"
+    ],
+    [
+      "The Energetic Costs of Cellular Computation (2012)",
+      "https://arxiv.org/abs/1203.5426"
+    ]
+  ],
+  [
+    [
+      "2026-07-12, 01:09:50",
+      "https://news.ycombinator.com/item?id=48877371"
+    ],
+    [
+      "What xAI's Grok Build CLI Actually Sends to xAI",
+      "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547"
+    ]
+  ],
+  [
+    [
+      "2026-07-12, 01:03:29",
+      "https://news.ycombinator.com/item?id=48877344"
+    ],
+    [
+      "A Erlang style pure Scheme Webserver and further",
+      "https://igropyr.com"
+    ]
+  ],
+  [
+    [
       "2026-07-12, 00:57:18",
       "https://news.ycombinator.com/item?id=48877314"
     ],
@@ -41,32 +91,12 @@
   ],
   [
     [
-      "2026-07-12, 00:02:27",
-      "https://news.ycombinator.com/item?id=48877009"
-    ],
-    [
-      "A public ledger of cloud outages and the SLA credits they trigger",
-      "https://slacreditwatch.com"
-    ]
-  ],
-  [
-    [
       "2026-07-11, 23:15:06",
       "https://news.ycombinator.com/item?id=48876741"
     ],
     [
       "Doctors die. It's not like the rest of us, but it should be (2016)",
       "https://archive.cancerworld.net/featured/how-doctors-die/"
-    ]
-  ],
-  [
-    [
-      "2026-07-11, 22:49:42",
-      "https://news.ycombinator.com/item?id=48876593"
-    ],
-    [
-      "Weightlifting beats running for blood sugar control, researchers find (2025)",
-      "https://news.vt.edu/articles/2025/11/research_fralinbiomed_yanweightlifting.html"
     ]
   ],
   [
@@ -107,16 +137,6 @@
     [
       "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
       "https://github.com/sqlsure/sqlsure"
-    ]
-  ],
-  [
-    [
-      "2026-07-11, 18:22:02",
-      "https://news.ycombinator.com/item?id=48874357"
-    ],
-    [
-      "How to hide from killer drones",
-      "https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2026-07-11, 16:27:44",
-      "https://news.ycombinator.com/item?id=48873417"
-    ],
-    [
-      "Show HN: Reame – a CPU inference server that gets faster as it runs",
-      "https://github.com/swellweb/reame"
-    ]
-  ],
-  [
-    [
       "2026-07-11, 15:28:02",
       "https://news.ycombinator.com/item?id=48872874"
     ],
@@ -261,12 +271,12 @@
   ],
   [
     [
-      "2026-07-09, 05:28:42",
-      "https://news.ycombinator.com/item?id=48841348"
+      "2026-07-09, 02:17:59",
+      "https://news.ycombinator.com/item?id=48840152"
     ],
     [
-      "Book: RISC-V System-on-Chip Design",
-      "https://www.amazon.com/RISC-V-Microprocessor-System-Chip-Design/dp/0323994989"
+      "Jellyfish Undersea Roundabout",
+      "https://visitfaroeislands.com/en/plan-your-stay/getting-around/world-first-under-sea-roundabout"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Optimization Solver as a Service",
       "https://www.quicopt.com/developer/getting-started/"
-    ]
-  ],
-  [
-    [
-      "2026-07-07, 23:51:49",
-      "https://news.ycombinator.com/item?id=48825612"
-    ],
-    [
-      "Google Search lets creators know more about their reach",
-      "https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties"
     ]
   ],
   [
