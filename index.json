@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-12, 07:00:24",
+      "https://news.ycombinator.com/item?id=48878996"
+    ],
+    [
+      "6× faster binary search: from compiled code to mechanical sympathy",
+      "https://pythonspeed.com/articles/branchless-binary-search/"
+    ]
+  ],
+  [
+    [
+      "2026-07-12, 05:51:32",
+      "https://news.ycombinator.com/item?id=48878682"
+    ],
+    [
+      "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
+      "https://github.com/cosmtrek/mindwalk"
+    ]
+  ],
+  [
+    [
       "2026-07-12, 04:15:27",
       "https://news.ycombinator.com/item?id=48878195"
     ],
@@ -21,21 +41,11 @@
   ],
   [
     [
-      "2026-07-12, 03:10:08",
-      "https://news.ycombinator.com/item?id=48877927"
-    ],
-    [
-      "Why are US consumers so angry? It's not just high prices",
-      "https://www.theguardian.com/us-news/ng-interactive/2026/jun/04/us-consumer-rage-prices-economy"
-    ]
-  ],
-  [
-    [
       "2026-07-12, 02:13:46",
       "https://news.ycombinator.com/item?id=48877668"
     ],
     [
-      "We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture",
+      "Unexpected Solidlike Fracture in Simple Liquids",
       "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/"
     ]
   ],
@@ -47,16 +57,6 @@
     [
       "The Energetic Costs of Cellular Computation (2012)",
       "https://arxiv.org/abs/1203.5426"
-    ]
-  ],
-  [
-    [
-      "2026-07-12, 01:09:50",
-      "https://news.ycombinator.com/item?id=48877371"
-    ],
-    [
-      "What xAI's Grok Build CLI Actually Sends to xAI",
-      "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547"
     ]
   ],
   [
@@ -91,21 +91,11 @@
   ],
   [
     [
-      "2026-07-12, 00:35:08",
-      "https://news.ycombinator.com/item?id=48877192"
-    ],
-    [
-      "Long Covid May Physically Damage the Nerves That Control the Stomach",
-      "https://www.ijidonline.com/article/S1201-9712(26)00608-9/fulltext"
-    ]
-  ],
-  [
-    [
       "2026-07-11, 23:15:06",
       "https://news.ycombinator.com/item?id=48876741"
     ],
     [
-      "Doctors die. It's not like the rest of us, but it should be (2016)",
+      "How Doctors die. It’s not like the rest of us (2016)",
       "https://archive.cancerworld.net/featured/how-doctors-die/"
     ]
   ],
@@ -255,7 +245,7 @@
       "https://news.ycombinator.com/item?id=48831384"
     ],
     [
-      "Text Art Tools",
+      "Text art tools",
       "https://hlnet.notion.site/text-art-tools"
     ]
   ],
@@ -267,6 +257,16 @@
     [
       "Optimization Solver as a Service",
       "https://www.quicopt.com/developer/getting-started/"
+    ]
+  ],
+  [
+    [
+      "2026-07-08, 03:16:38",
+      "https://news.ycombinator.com/item?id=48827058"
+    ],
+    [
+      "Protobuf-py: Protobuf for Python, without compromises",
+      "https://buf.build/blog/protobuf-py"
     ]
   ],
   [
