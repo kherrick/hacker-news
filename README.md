@@ -23,11 +23,11 @@
 * [2026-07-12, 15:17:20](https://news.ycombinator.com/item?id=48881830) - [Don't you mean extinct?](https://fabiensanglard.net/extinct/index.html)
 * [2026-07-12, 12:08:07](https://news.ycombinator.com/item?id=48880499) - [Understanding the Odin programming language](https://odinbook.com/)
 * [2026-07-12, 11:09:42](https://news.ycombinator.com/item?id=48880170) - [Old and new apps, via modern coding agents](https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/)
-* [2026-07-12, 10:14:40](https://news.ycombinator.com/item?id=48879902) - [Death of the Status Update: Why 55% of Americans Stopped Posting on Social Media](https://ca.pcmag.com/social-media/16790/the-death-of-the-status-update-why-55-of-americans-stopped-posting-on-social-media)
 * [2026-07-12, 08:52:59](https://news.ycombinator.com/item?id=48879504) - [Ghostel.el: Terminal emulator powered by libghostty](https://dakra.github.io/ghostel/)
 * [2026-07-12, 01:09:50](https://news.ycombinator.com/item?id=48877371) - [What xAI's Grok build CLI sends to xAI: A wire-level analysis](https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547)
 * [2026-07-10, 16:12:52](https://news.ycombinator.com/item?id=48861923) - [Why write code in 2026](https://softwaredoug.com/blog/2026/07/09/write-code)
 * [2026-07-10, 00:06:59](https://news.ycombinator.com/item?id=48854168) - [Vint Cerf, “father of the Internet”, is retiring](https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/)
+* [2026-07-09, 13:15:26](https://news.ycombinator.com/item?id=48845321) - [The Seed Beneath the Snow](https://eli.li/the-seed-beneath-the-snow)
 * [2026-07-07, 19:10:16](https://news.ycombinator.com/item?id=48822234) - [Deir El-Medina Strikes](https://en.wikipedia.org/wiki/Deir_el-Medina_strikes)
 * [2026-07-06, 15:16:54](https://news.ycombinator.com/item?id=48805857) - [Show HN: Nectar, a Rust-like React that compiles to WebAssembly](https://buildnectar.com)
 

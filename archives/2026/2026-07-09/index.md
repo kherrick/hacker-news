@@ -59,6 +59,7 @@
 * [2026-07-09, 13:24:35](https://news.ycombinator.com/item?id=48845440) - [MSG database tracked hundreds. Labels include \"LGBTQIA,\" and low to high \"risk.\"](https://www.wired.com/story/madison-square-garden-celebrity-database-surveillance/)
 * [2026-07-09, 13:23:10](https://news.ycombinator.com/item?id=48845422) - [Show HN: FableCut – A browser video editor AI agents can drive (zero deps)](https://github.com/ronak-create/FableCut)
 * [2026-07-09, 13:19:02](https://news.ycombinator.com/item?id=48845364) - [Files over tools: how we built our agent with a virtual filesystem and bash](https://knock.app/blog/how-we-built-the-knock-agent-virtual-filesystem-and-bash)
+* [2026-07-09, 13:15:26](https://news.ycombinator.com/item?id=48845321) - [The Seed Beneath the Snow](https://eli.li/the-seed-beneath-the-snow)
 * [2026-07-09, 13:10:18](https://news.ycombinator.com/item?id=48845269) - [Just Pay the Subscription](https://www.uncommonapps.nyc/p/just-pay-the-subscription)
 * [2026-07-09, 13:06:04](https://news.ycombinator.com/item?id=48845209) - [A Road to Lisp: Why Lisp](https://scotto.me/blog/2026-07-09-why-lisp/)
 * [2026-07-09, 12:59:44](https://news.ycombinator.com/item?id=48845142) - [Show HN: Arcaide – Explore code with multi-level call graphs](https://arcaide.foo)
