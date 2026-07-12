@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-07-12, 18:01:29",
-      "https://news.ycombinator.com/item?id=48883064"
-    ],
-    [
-      "Claude Code May–July 2026 weekly limits promotion",
-      "https://support.claude.com/en/articles/15910845-claude-code-may-july-2026-weekly-limits-promotion"
-    ]
-  ],
-  [
-    [
       "2026-07-12, 17:47:07",
       "https://news.ycombinator.com/item?id=48882956"
     ],
@@ -61,16 +51,6 @@
   ],
   [
     [
-      "2026-07-12, 15:58:42",
-      "https://news.ycombinator.com/item?id=48882144"
-    ],
-    [
-      "TK, or the secret to effortless writing (2024)",
-      "https://atthis.link/blog/2024/49629.html"
-    ]
-  ],
-  [
-    [
       "2026-07-12, 15:53:53",
       "https://news.ycombinator.com/item?id=48882097"
     ],
@@ -91,16 +71,6 @@
   ],
   [
     [
-      "2026-07-12, 15:44:13",
-      "https://news.ycombinator.com/item?id=48882034"
-    ],
-    [
-      "Croc: Securely transfer files and folders between two computers",
-      "https://github.com/schollz/croc/"
-    ]
-  ],
-  [
-    [
       "2026-07-12, 15:35:36",
       "https://news.ycombinator.com/item?id=48881967"
     ],
@@ -111,11 +81,21 @@
   ],
   [
     [
+      "2026-07-12, 15:23:59",
+      "https://news.ycombinator.com/item?id=48881874"
+    ],
+    [
+      "The shingles vaccine may reduce the risk of dementia",
+      "https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain"
+    ]
+  ],
+  [
+    [
       "2026-07-12, 15:17:20",
       "https://news.ycombinator.com/item?id=48881830"
     ],
     [
-      "Don't You Mean Extinct?",
+      "Don't you mean extinct?",
       "https://fabiensanglard.net/extinct/index.html"
     ]
   ],
@@ -145,7 +125,7 @@
       "https://news.ycombinator.com/item?id=48881043"
     ],
     [
-      "AI Boosts Research Careers but Flattens Scientific Discovery",
+      "AI boosts research careers but narrow the span of ideas explored: study",
       "https://spectrum.ieee.org/ai-science-research-flattens-discovery"
     ]
   ],
@@ -181,6 +161,16 @@
   ],
   [
     [
+      "2026-07-12, 10:14:40",
+      "https://news.ycombinator.com/item?id=48879902"
+    ],
+    [
+      "Death of the Status Update: Why 55% of Americans Stopped Posting on Social Media",
+      "https://ca.pcmag.com/social-media/16790/the-death-of-the-status-update-why-55-of-americans-stopped-posting-on-social-media"
+    ]
+  ],
+  [
+    [
       "2026-07-12, 08:52:59",
       "https://news.ycombinator.com/item?id=48879504"
     ],
@@ -201,6 +191,16 @@
   ],
   [
     [
+      "2026-07-12, 01:09:50",
+      "https://news.ycombinator.com/item?id=48877371"
+    ],
+    [
+      "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
+      "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547"
+    ]
+  ],
+  [
+    [
       "2026-07-11, 22:38:57",
       "https://news.ycombinator.com/item?id=48876505"
     ],
@@ -217,6 +217,16 @@
     [
       "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
       "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom"
+    ]
+  ],
+  [
+    [
+      "2026-07-10, 16:12:52",
+      "https://news.ycombinator.com/item?id=48861923"
+    ],
+    [
+      "Why write code in 2026",
+      "https://softwaredoug.com/blog/2026/07/09/write-code"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Protobuf-py: Protobuf for Python, without compromises",
       "https://buf.build/blog/protobuf-py"
-    ]
-  ],
-  [
-    [
-      "2026-07-07, 21:21:09",
-      "https://news.ycombinator.com/item?id=48823981"
-    ],
-    [
-      "An agent in 100 lines of Lisp",
-      "https://thebeach.dev/posts/lisp-agent/"
     ]
   ],
   [
