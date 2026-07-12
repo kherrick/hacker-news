@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-07-12, 11:22:42",
-      "https://news.ycombinator.com/item?id=48880233"
-    ],
-    [
-      "IT administrators are \"fed up\" with Microsoft's \"useless\" apps and Windows 11",
-      "https://www.neowin.net/news/it-admins-feel-overwhelmingly-sick-of-microsoft-and-windows-11-garbage-apps-products/"
-    ]
-  ],
-  [
-    [
       "2026-07-12, 11:18:32",
       "https://news.ycombinator.com/item?id=48880209"
     ],
@@ -87,6 +77,16 @@
     [
       "A dock that wakes up reliably",
       "https://fabiensanglard.net/tb4/index.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-12, 00:38:02",
+      "https://news.ycombinator.com/item?id=48877214"
+    ],
+    [
+      "Autopsy Study Finds Replicating SARS-CoV-2 in the Hearts of Long Covid",
+      "https://my.uscap.org/uscap/program/S0tc675/index.cfm?pgid=5167&sid=14770&abid=51228"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2026-07-07, 19:07:21",
-      "https://news.ycombinator.com/item?id=48822187"
+      "2026-07-07, 16:48:48",
+      "https://news.ycombinator.com/item?id=48820361"
     ],
     [
-      "Sixteen Failed Attempts to Write a Eulogy for My Father (2024)",
-      "https://jude-doyle.ghost.io/untitled-21/"
+      "Biff.graph: structure your Clojure codebase as a queryable graph",
+      "https://github.com/jacobobryant/biff/tree/v2.x/libs/graph"
     ]
   ],
   [
