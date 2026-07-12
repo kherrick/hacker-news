@@ -51,6 +51,7 @@
 * [2026-07-09, 14:11:56](https://news.ycombinator.com/item?id=48846205) - [Transparency efforts behind the Helium Browser](https://helium.computer/blog/transparency)
 * [2026-07-09, 14:10:22](https://news.ycombinator.com/item?id=48846184) - [Muse Spark 1.1](https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/)
 * [2026-07-09, 14:10:22](https://news.ycombinator.com/item?id=48846184) - [Introducing Muse Spark 1.1](https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/?_fb_noscript=1)
+* [2026-07-09, 14:10:04](https://news.ycombinator.com/item?id=48846177) - [I Did Not Kill Stanley Lieber: How to Draw (With 9front)](https://triapul.cz/automa/i_did_not_kill_stanley_lieber)
 * [2026-07-09, 13:30:33](https://news.ycombinator.com/item?id=48845526) - [A new way to reflect on how you use Claude](https://www.anthropic.com/news/reflect-with-claude)
 * [2026-07-09, 13:29:31](https://news.ycombinator.com/item?id=48845514) - [US seeks cheaper hunter-killer drones after Iran destroys $1B worth of Reapers](https://arstechnica.com/gadgets/2026/07/us-seeks-cheaper-hunter-killer-drones-after-iran-destroys-1b-worth-of-reapers/)
 * [2026-07-09, 13:27:05](https://news.ycombinator.com/item?id=48845470) - [Syria's solar boom is redefining Middle East's energy model](https://www.thenationalnews.com/business/energy/2026/07/06/syrias-solar-boom-is-redefining-middle-easts-energy-model/)
