@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-07-12, 05:51:32](https://news.ycombinator.com/item?id=48878682) - [Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase](https://github.com/cosmtrek/mindwalk)
-* [2026-07-12, 04:15:27](https://news.ycombinator.com/item?id=48878195) - [Why Write Code in 2026](https://softwaredoug.com/blog/2026/07/09/write-code.html)
 * [2026-07-12, 04:00:14](https://news.ycombinator.com/item?id=48878126) - [Under federal rule, colleges must leave grads better off or lose financial aid](https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans)
 * [2026-07-12, 02:13:46](https://news.ycombinator.com/item?id=48877668) - [Unexpected Solidlike Fracture in Simple Liquids](https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/)
 * [2026-07-12, 01:59:35](https://news.ycombinator.com/item?id=48877613) - [The Energetic Costs of Cellular Computation (2012)](https://arxiv.org/abs/1203.5426)
@@ -27,6 +26,7 @@
 * [2026-07-08, 11:44:25](https://news.ycombinator.com/item?id=48830664) - [Optimization Solver as a Service](https://www.quicopt.com/developer/getting-started/)
 * [2026-07-08, 03:16:38](https://news.ycombinator.com/item?id=48827058) - [Protobuf-py: Protobuf for Python, without compromises](https://buf.build/blog/protobuf-py)
 * [2026-07-07, 21:21:09](https://news.ycombinator.com/item?id=48823981) - [An agent in 100 lines of Lisp](https://thebeach.dev/posts/lisp-agent/)
+* [2026-07-07, 19:22:56](https://news.ycombinator.com/item?id=48822441) - [Amber the programming language compiled to Bash/Ksh/Zsh](https://amber-lang.com/)
 * [2026-07-07, 19:07:21](https://news.ycombinator.com/item?id=48822187) - [Sixteen Failed Attempts to Write a Eulogy for My Father (2024)](https://jude-doyle.ghost.io/untitled-21/)
 * [2026-07-07, 16:48:48](https://news.ycombinator.com/item?id=48820361) - [Biff.graph: structure your Clojure codebase as a queryable graph](https://github.com/jacobobryant/biff/tree/v2.x/libs/graph)
 * [2026-07-04, 12:57:38](https://news.ycombinator.com/item?id=48785102) - [EF Core 11 makes your split queries faster](https://steven-giesel.com/blogPost/d4401fd0-805a-4703-9d9e-5fe3b57c25ea)
