@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-12, 13:34:00](https://news.ycombinator.com/item?id=48881112) - [Show HN: Skillscript – A declarative, sandboxed language for tool orchestration](https://github.com/sshwarts/skillscript)
 * [2026-07-12, 13:26:13](https://news.ycombinator.com/item?id=48881043) - [AI Boosts Research Careers but Flattens Scientific Discovery](https://spectrum.ieee.org/ai-science-research-flattens-discovery)
 * [2026-07-12, 13:18:36](https://news.ycombinator.com/item?id=48880987) - [Making Crash Bandicoot (2011)](https://all-things-andy-gavin.com/2011/02/02/making-crash-bandicoot-part-1/)
 * [2026-07-12, 13:18:34](https://news.ycombinator.com/item?id=48880985) - [Gina Gallery of International Naive Art](https://www.ginagallery.com/)
@@ -16,10 +17,9 @@
 * [2026-07-11, 17:21:49](https://news.ycombinator.com/item?id=48873836) - [Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom](https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom)
 * [2026-07-11, 16:33:42](https://news.ycombinator.com/item?id=48873457) - [UPI: Anatomy of a Payment Transaction](https://timeseriesofindia.com/economy/reads/upi-architecture/)
 * [2026-07-11, 16:28:48](https://news.ycombinator.com/item?id=48873424) - [Modern decor may be straining people's brains](https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/)
-* [2026-07-11, 15:28:02](https://news.ycombinator.com/item?id=48872874) - [We scaled PgBouncer to 4x throughput](https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres)
 * [2026-07-10, 00:06:59](https://news.ycombinator.com/item?id=48854168) - [Vint Cerf, a “father of the Internet”, is retiring](https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/)
 * [2026-07-09, 14:10:04](https://news.ycombinator.com/item?id=48846177) - [I Did Not Kill Stanley Lieber: How to Draw (With 9front)](https://triapul.cz/automa/i_did_not_kill_stanley_lieber)
-* [2026-07-09, 02:17:59](https://news.ycombinator.com/item?id=48840152) - [Jellyfish Undersea Roundabout](https://visitfaroeislands.com/en/plan-your-stay/getting-around/world-first-under-sea-roundabout)
+* [2026-07-09, 09:58:28](https://news.ycombinator.com/item?id=48843409) - [Relm – local LLMs as base-R objects, with interpretability](https://github.com/Vadale/R-ebirth)
 * [2026-07-08, 22:07:05](https://news.ycombinator.com/item?id=48838027) - [Lessons from the Vasa Shipwreck](https://www.ft.com/content/200a6c44-9b66-4af3-82eb-98acb53898e4)
 * [2026-07-08, 13:00:43](https://news.ycombinator.com/item?id=48831384) - [Text art tools](https://hlnet.notion.site/text-art-tools)
 * [2026-07-08, 12:07:59](https://news.ycombinator.com/item?id=48830860) - [Handsum: An LQIP Image File Format](https://nigeltao.github.io/blog/2026/handsum.html)
