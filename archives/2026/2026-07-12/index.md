@@ -17,6 +17,7 @@
 * [2026-07-12, 01:03:29](https://news.ycombinator.com/item?id=48877344) - [A Erlang style pure Scheme Webserver and further](https://igropyr.com)
 * [2026-07-12, 00:57:18](https://news.ycombinator.com/item?id=48877314) - [A pure scheme web programming tool](https://goeteia.dev)
 * [2026-07-12, 00:48:10](https://news.ycombinator.com/item?id=48877269) - [A dock that wakes up reliably](https://fabiensanglard.net/tb4/index.html)
+* [2026-07-12, 00:38:02](https://news.ycombinator.com/item?id=48877214) - [Autopsy Study Finds Replicating SARS-CoV-2 in the Hearts of Long Covid](https://my.uscap.org/uscap/program/S0tc675/index.cfm?pgid=5167&sid=14770&abid=51228)
 * [2026-07-12, 00:35:08](https://news.ycombinator.com/item?id=48877192) - [Long Covid May Physically Damage the Nerves That Control the Stomach](https://www.ijidonline.com/article/S1201-9712(26)00608-9/fulltext)
 * [2026-07-12, 00:32:15](https://news.ycombinator.com/item?id=48877178) - [Martha Lillard, last US polio patient using iron lung, dies at 78 in Oklahoma](https://abcnews.com/US/wireStory/martha-lillard-us-polio-patient-iron-lung-dies-134668491)
 * [2026-07-12, 00:02:27](https://news.ycombinator.com/item?id=48877009) - [A public ledger of cloud outages and the SLA credits they trigger](https://slacreditwatch.com)
