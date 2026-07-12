@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-12, 11:49:38](https://news.ycombinator.com/item?id=48880384) - [Yt-Dlp Sequence Diagrams](https://app.ilograph.com/demo.ilograph.yt-dlp/Download%2520a%2520YouTube%2520Video)
 * [2026-07-12, 11:18:32](https://news.ycombinator.com/item?id=48880209) - [Woman in Brazil enslaved for 55 years by 3 generations of the same family](https://english.elpais.com/international/2026-07-10/woman-rescued-in-brazil-after-being-enslaved-for-55-years-by-three-generations-of-the-same-family.html)
 * [2026-07-12, 11:09:42](https://news.ycombinator.com/item?id=48880170) - [Old and new apps, via modern coding agents by Terry Tao](https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/)
 * [2026-07-12, 10:23:25](https://news.ycombinator.com/item?id=48879950) - [Datacentres drive up big tech's carbon emissions to a third of those of France](https://www.theguardian.com/us-news/2026/jul/11/microsoft-amazon-google-datacentre-carbon-emissions-france)
 * [2026-07-12, 08:52:59](https://news.ycombinator.com/item?id=48879504) - [Ghostel.el: Terminal emulator powered by libghostty](https://dakra.github.io/ghostel/)
 * [2026-07-12, 05:51:32](https://news.ycombinator.com/item?id=48878682) - [Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase](https://github.com/cosmtrek/mindwalk)
 * [2026-07-12, 04:00:14](https://news.ycombinator.com/item?id=48878126) - [Under federal rule, colleges must leave grads better off or lose financial aid](https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans)
-* [2026-07-12, 01:59:35](https://news.ycombinator.com/item?id=48877613) - [The Energetic Costs of Cellular Computation (2012)](https://arxiv.org/abs/1203.5426)
 * [2026-07-12, 00:48:10](https://news.ycombinator.com/item?id=48877269) - [A dock that wakes up reliably](https://fabiensanglard.net/tb4/index.html)
 * [2026-07-12, 00:38:02](https://news.ycombinator.com/item?id=48877214) - [Autopsy Study Finds Replicating SARS-CoV-2 in the Hearts of Long Covid](https://my.uscap.org/uscap/program/S0tc675/index.cfm?pgid=5167&sid=14770&abid=51228)
 * [2026-07-11, 22:38:57](https://news.ycombinator.com/item?id=48876505) - [Mesh LLM: distributed AI computing on iroh](https://www.iroh.computer/blog/mesh-llm)
@@ -27,8 +27,8 @@
 * [2026-07-08, 09:31:10](https://news.ycombinator.com/item?id=48829697) - [Fibonacci's Real Mathematical Legacy](https://blogs.nature.com/aviewfromthebridge/2017/04/20/fibonaccis-mathematical-legacy/)
 * [2026-07-08, 03:16:38](https://news.ycombinator.com/item?id=48827058) - [Protobuf-py: Protobuf for Python, without compromises](https://buf.build/blog/protobuf-py)
 * [2026-07-07, 21:21:09](https://news.ycombinator.com/item?id=48823981) - [An agent in 100 lines of Lisp](https://thebeach.dev/posts/lisp-agent/)
-* [2026-07-07, 16:48:48](https://news.ycombinator.com/item?id=48820361) - [Biff.graph: structure your Clojure codebase as a queryable graph](https://github.com/jacobobryant/biff/tree/v2.x/libs/graph)
 * [2026-07-07, 04:35:55](https://news.ycombinator.com/item?id=48813702) - [Xbox 'OG' Adventures](https://mamoniem.com/xbox-og-adventures/)
+* [2026-07-06, 20:17:19](https://news.ycombinator.com/item?id=48809916) - [Ditching Zotero for a Text File](https://atthis.link/blog/2026/57207.html)
 * [2026-07-04, 12:57:38](https://news.ycombinator.com/item?id=48785102) - [EF Core 11 makes your split queries faster](https://steven-giesel.com/blogPost/d4401fd0-805a-4703-9d9e-5fe3b57c25ea)
 
 ## [Archives](archives/index.md)
