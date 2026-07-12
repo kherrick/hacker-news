@@ -2,8 +2,9 @@
 
 * [2026-07-12, 21:27:29](https://news.ycombinator.com/item?id=48884992) - [Kode Dot Programmable pocket device for makers, pentesters and geeks](https://kode.diy)
 * [2026-07-12, 21:26:41](https://news.ycombinator.com/item?id=48884984) - [Ask HN: What Are You Working On? (July 2026)](https://news.ycombinator.com/item?id=48884984)
-* [2026-07-12, 21:12:11](https://news.ycombinator.com/item?id=48884853) - [Since Chronium 148, Math.tanh is now fingerprintable to link underlying OS](https://scrapfly.dev/posts/browser-math-os-fingerprint/)
+* [2026-07-12, 21:12:11](https://news.ycombinator.com/item?id=48884853) - [Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS](https://scrapfly.dev/posts/browser-math-os-fingerprint/)
 * [2026-07-12, 21:08:20](https://news.ycombinator.com/item?id=48884815) - [Show HN: Adaptive Recall, persistent memory for AI assistants over MCP](https://www.adaptiverecall.com/)
+* [2026-07-12, 20:52:04](https://news.ycombinator.com/item?id=48884663) - [Show HN: Zen Mode – a global focus mode for macOS](https://github.com/cabeen/zen-mode)
 * [2026-07-12, 20:49:46](https://news.ycombinator.com/item?id=48884647) - [The State of MCP Security [pdf]](https://www.canopii.dev/State%20of%20MCP%20Security%202026.pdf)
 * [2026-07-12, 20:46:43](https://news.ycombinator.com/item?id=48884618) - [Flash-MSA: Accelerating Million-Token Training with Sparse Attention Kernels](https://nanduruganesh.github.io/flash-msa/)
 * [2026-07-12, 20:23:05](https://news.ycombinator.com/item?id=48884395) - [Tiny Emulators](https://floooh.github.io/tiny8bit-preview/index.html)
@@ -21,7 +22,6 @@
 * [2026-07-12, 16:54:47](https://news.ycombinator.com/item?id=48882554) - [Automation Without Understanding](https://arxiv.org/abs/2607.06377)
 * [2026-07-12, 15:53:53](https://news.ycombinator.com/item?id=48882097) - [Why study Diophantine equations?](https://hidden-phenomena.com/articles/modular)
 * [2026-07-12, 15:47:16](https://news.ycombinator.com/item?id=48882056) - [How to read more books](https://scotto.me/blog/2026-07-12-how-to-read-more-books/)
-* [2026-07-12, 15:35:36](https://news.ycombinator.com/item?id=48881967) - [The power of collaboration: How we can reduce traffic congestion](https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/)
 * [2026-07-12, 15:23:59](https://news.ycombinator.com/item?id=48881874) - [The shingles vaccine may reduce the risk of dementia](https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain)
 * [2026-07-12, 15:17:20](https://news.ycombinator.com/item?id=48881830) - [Don't you mean extinct?](https://fabiensanglard.net/extinct/index.html)
 * [2026-07-12, 11:09:42](https://news.ycombinator.com/item?id=48880170) - [Old and new apps, via modern coding agents](https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/)
