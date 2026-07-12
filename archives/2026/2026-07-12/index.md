@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-07-12](index.md)
 
+* [2026-07-12, 16:59:37](https://news.ycombinator.com/item?id=48882601) - [Website is served from a 200KB binary](https://200kb.freelang.dev/)
 * [2026-07-12, 16:55:42](https://news.ycombinator.com/item?id=48882562) - [Show HN: Shirei, cross-platform GUI framework in native Go](https://github.com/hasenj/go-shirei/)
+* [2026-07-12, 16:54:47](https://news.ycombinator.com/item?id=48882554) - [Automation Without Understanding](https://arxiv.org/abs/2607.06377)
+* [2026-07-12, 16:05:29](https://news.ycombinator.com/item?id=48882189) - [Theo de Raadt: \"You've been smoking something mind altering\" (2007)](https://marc.info/?l=openbsd-misc&m=119318909016582)
 * [2026-07-12, 16:04:19](https://news.ycombinator.com/item?id=48882180) - [An explanation of our search results](https://web.archive.org/web/20040612082405/https://www.google.com/explanation.html)
 * [2026-07-12, 15:58:42](https://news.ycombinator.com/item?id=48882144) - [TK, or the secret to effortless writing (2024)](https://atthis.link/blog/2024/49629.html)
 * [2026-07-12, 15:53:53](https://news.ycombinator.com/item?id=48882097) - [Why study Diophantine equations?](https://hidden-phenomena.com/articles/modular)
@@ -13,6 +16,7 @@
 * [2026-07-12, 15:23:59](https://news.ycombinator.com/item?id=48881874) - [A no-brainer for protecting your brain](https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain)
 * [2026-07-12, 15:17:20](https://news.ycombinator.com/item?id=48881830) - [Don't You Mean Extinct?](https://fabiensanglard.net/extinct/index.html)
 * [2026-07-12, 14:32:00](https://news.ycombinator.com/item?id=48881498) - [Autoresearch, Claude and Constrained Optimization](https://www.elliotcsmith.com/autoresearch-claude-and-constrained-optimization/)
+* [2026-07-12, 14:09:23](https://news.ycombinator.com/item?id=48881352) - [Show HN: Kurvengefahr – browser CAD/CAM for pen plotters](https://kurvengefahr.org/)
 * [2026-07-12, 13:34:00](https://news.ycombinator.com/item?id=48881112) - [Show HN: Skillscript – A declarative, sandboxed language for tool orchestration](https://github.com/sshwarts/skillscript)
 * [2026-07-12, 13:26:13](https://news.ycombinator.com/item?id=48881043) - [AI Boosts Research Careers but Flattens Scientific Discovery](https://spectrum.ieee.org/ai-science-research-flattens-discovery)
 * [2026-07-12, 13:21:01](https://news.ycombinator.com/item?id=48881009) - [Show HN: Only 1 of 4,356 reachable MCP servers is ready for the 2026-07-28 spec](https://github.com/Roee-Tsur/mcp-spec-check)
