@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-13, 07:37:06",
+      "https://news.ycombinator.com/item?id=48889148"
+    ],
+    [
+      "Quadrupling code performance with a \"useless\" if",
+      "https://purplesyringa.moe/blog/quadrupling-code-performance-with-a-useless-if/"
+    ]
+  ],
+  [
+    [
       "2026-07-13, 06:08:12",
       "https://news.ycombinator.com/item?id=48888518"
     ],
@@ -131,26 +141,6 @@
   ],
   [
     [
-      "2026-07-12, 18:04:41",
-      "https://news.ycombinator.com/item?id=48883090"
-    ],
-    [
-      "Mechanistic interpretability researchers applying causality theory to LLMs",
-      "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/"
-    ]
-  ],
-  [
-    [
-      "2026-07-12, 17:47:07",
-      "https://news.ycombinator.com/item?id=48882956"
-    ],
-    [
-      "Against Usefulness",
-      "https://www.motivenotes.ai/p/against-usefulness"
-    ]
-  ],
-  [
-    [
       "2026-07-12, 17:13:07",
       "https://news.ycombinator.com/item?id=48882716"
     ],
@@ -247,6 +237,16 @@
     [
       "Are you telling me a readonly property is wrecking my performance?",
       "https://shub.club/writings/2026/july/check-your-scrollheight/"
+    ]
+  ],
+  [
+    [
+      "2026-07-09, 13:09:21",
+      "https://news.ycombinator.com/item?id=48845252"
+    ],
+    [
+      "Tracking unique visitors without cookies",
+      "https://inmargin.io/blog/tracking-unique-visitors-without-cookies"
     ]
   ],
   [
