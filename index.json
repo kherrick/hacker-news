@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-07-13, 00:26:12",
-      "https://news.ycombinator.com/item?id=48886368"
+      "2026-07-13, 01:47:21",
+      "https://news.ycombinator.com/item?id=48886881"
     ],
     [
-      "Gameboy is back ( no signup)",
-      "https://gb.omniiii.com/"
+      "Modernizing Property Tax Assessments in Allegheny County",
+      "https://www.prohousingpgh.org/blog/new-report-modernizing-property-tax-assessments-in-allegheny-county"
+    ]
+  ],
+  [
+    [
+      "2026-07-13, 01:24:20",
+      "https://news.ycombinator.com/item?id=48886741"
+    ],
+    [
+      "Ask HN: Add flag for AI-generated articles",
+      "https://news.ycombinator.com/item?id=48886741"
     ]
   ],
   [
@@ -15,28 +25,8 @@
       "https://news.ycombinator.com/item?id=48886311"
     ],
     [
-      "MacKenzie Scott's Giving, in Quality-Adjusted Life Years (QALYs)",
+      "MacKenzie Scott's giving, in quality-adjusted life years",
       "https://maxghenis.com/mackenzie-scott-qaly/"
-    ]
-  ],
-  [
-    [
-      "2026-07-12, 23:45:35",
-      "https://news.ycombinator.com/item?id=48886065"
-    ],
-    [
-      "Billion Dollar PDFs",
-      "https://billiondollarpdf.com/"
-    ]
-  ],
-  [
-    [
-      "2026-07-12, 23:42:41",
-      "https://news.ycombinator.com/item?id=48886040"
-    ],
-    [
-      "Circular Obstacle Pathfinding (2017)",
-      "https://redblobgames.github.io/circular-obstacle-pathfinding/"
     ]
   ],
   [
@@ -141,16 +131,6 @@
   ],
   [
     [
-      "2026-07-12, 18:41:15",
-      "https://news.ycombinator.com/item?id=48883415"
-    ],
-    [
-      "The One-Step Trap (In AI Research)",
-      "http://incompleteideas.net/IncIdeas/OneStepTrap.html"
-    ]
-  ],
-  [
-    [
       "2026-07-12, 18:31:56",
       "https://news.ycombinator.com/item?id=48883343"
     ],
@@ -231,6 +211,16 @@
   ],
   [
     [
+      "2026-07-12, 15:47:16",
+      "https://news.ycombinator.com/item?id=48882056"
+    ],
+    [
+      "How to read more books",
+      "https://scotto.me/blog/2026-07-12-how-to-read-more-books/"
+    ]
+  ],
+  [
+    [
       "2026-07-12, 15:35:36",
       "https://news.ycombinator.com/item?id=48881967"
     ],
@@ -271,32 +261,42 @@
   ],
   [
     [
+      "2026-07-09, 21:39:17",
+      "https://news.ycombinator.com/item?id=48852718"
+    ],
+    [
+      "Calculix: A Free Software Three-Dimensional Structural Finite Element Program",
+      "https://www.calculix.de/"
+    ]
+  ],
+  [
+    [
+      "2026-07-09, 19:20:11",
+      "https://news.ycombinator.com/item?id=48851069"
+    ],
+    [
+      "The four horsemen behind Postgres outages",
+      "https://malisper.me/the-four-horsemen-behind-thousands-of-postgres-outages/"
+    ]
+  ],
+  [
+    [
+      "2026-07-08, 16:53:58",
+      "https://news.ycombinator.com/item?id=48834309"
+    ],
+    [
+      "GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years",
+      "https://nebusec.ai/research/ionstack-part-2/"
+    ]
+  ],
+  [
+    [
       "2026-07-08, 03:28:00",
       "https://news.ycombinator.com/item?id=48827126"
     ],
     [
       "So you want to learn physics (second edition, 2021)",
       "https://www.susanrigetti.com/physics"
-    ]
-  ],
-  [
-    [
-      "2026-07-07, 19:10:16",
-      "https://news.ycombinator.com/item?id=48822234"
-    ],
-    [
-      "Deir El-Medina Strikes",
-      "https://en.wikipedia.org/wiki/Deir_el-Medina_strikes"
-    ]
-  ],
-  [
-    [
-      "2026-07-07, 14:23:26",
-      "https://news.ycombinator.com/item?id=48818314"
-    ],
-    [
-      "A Peek Inside Jim Henson's Creature Shop, Where Whimsical Puppets Are Designed",
-      "https://www.smithsonianmag.com/travel/a-peek-inside-jim-hensons-creature-shop-where-sesame-street-characters-and-other-whimsical-puppets-are-designed-180989051/"
     ]
   ]
 ]
