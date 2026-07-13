@@ -1,22 +1,22 @@
 [
   [
     [
+      "2026-07-13, 05:15:14",
+      "https://news.ycombinator.com/item?id=48888193"
+    ],
+    [
+      "Beavis Ultrasound PnP ISA Sound Card Replica",
+      "https://github.com/schlae/BeavisUltrasound"
+    ]
+  ],
+  [
+    [
       "2026-07-13, 04:00:54",
       "https://news.ycombinator.com/item?id=48887753"
     ],
     [
       "Count Binface",
       "https://countbinface.com"
-    ]
-  ],
-  [
-    [
-      "2026-07-13, 01:47:21",
-      "https://news.ycombinator.com/item?id=48886881"
-    ],
-    [
-      "Modernizing Property Tax Assessments in Allegheny County",
-      "https://www.prohousingpgh.org/blog/new-report-modernizing-property-tax-assessments-in-allegheny-county"
     ]
   ],
   [
@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2026-07-12, 08:52:59",
+      "https://news.ycombinator.com/item?id=48879504"
+    ],
+    [
+      "Ghostel.el: Terminal emulator powered by libghostty",
+      "https://dakra.github.io/ghostel/"
+    ]
+  ],
+  [
+    [
       "2026-07-12, 01:09:50",
       "https://news.ycombinator.com/item?id=48877371"
     ],
@@ -241,32 +251,22 @@
   ],
   [
     [
-      "2026-07-09, 21:39:17",
-      "https://news.ycombinator.com/item?id=48852718"
-    ],
-    [
-      "Calculix: A Free Software Three-Dimensional Structural Finite Element Program",
-      "https://www.calculix.de/"
-    ]
-  ],
-  [
-    [
-      "2026-07-09, 19:20:11",
-      "https://news.ycombinator.com/item?id=48851069"
-    ],
-    [
-      "The four horsemen behind Postgres outages",
-      "https://malisper.me/the-four-horsemen-behind-thousands-of-postgres-outages/"
-    ]
-  ],
-  [
-    [
       "2026-07-09, 17:59:13",
       "https://news.ycombinator.com/item?id=48849983"
     ],
     [
       "Are you telling me a readonly property is wrecking my performance?",
       "https://shub.club/writings/2026/july/check-your-scrollheight/"
+    ]
+  ],
+  [
+    [
+      "2026-07-09, 12:04:36",
+      "https://news.ycombinator.com/item?id=48844554"
+    ],
+    [
+      "Converting colors in JavaScript at 6B operations per second",
+      "https://dkryaklin.com/blog/colordx-gpu"
     ]
   ],
   [
