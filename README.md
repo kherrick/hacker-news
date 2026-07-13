@@ -5,7 +5,7 @@
 * [2026-07-13, 19:59:50](https://news.ycombinator.com/item?id=48897969) - [Show HN: PlanWright – A control plane for AI coding agents](https://planwright.tools)
 * [2026-07-13, 19:57:55](https://news.ycombinator.com/item?id=48897945) - [Climate.gov was destroyed. Open data saved it](https://werd.io/climate-gov-was-destroyed-open-data-saved-it/)
 * [2026-07-13, 19:52:25](https://news.ycombinator.com/item?id=48897878) - [Telegram's t.me domain has been suspended](https://www.whois.com/whois/t.me)
-* [2026-07-13, 19:50:12](https://news.ycombinator.com/item?id=48897855) - [Section 219, the US-Israel Military Merger, Would Thwart American Democracy](https://www.commondreams.org/opinion/us-israel-military-merger)
+* [2026-07-13, 19:51:15](https://news.ycombinator.com/item?id=48897861) - [AI Is a Bad Tool](https://bytecode.news/posts/2026/07/user-submission-ai-is-a-bad-tool)
 * [2026-07-13, 19:11:17](https://news.ycombinator.com/item?id=48897329) - [TFTP Honey Pot Results](https://bruceediger.com/posts/tftp-honeypot-results/)
 * [2026-07-13, 18:33:47](https://news.ycombinator.com/item?id=48896818) - [Thunderbird Desktop settings research: what we learned from your feedback](https://blog.thunderbird.net/2026/07/desktopsettings/)
 * [2026-07-13, 18:32:27](https://news.ycombinator.com/item?id=48896800) - [The real prices of frontier models. Tokens * Price, right?](https://playcode.io/blog/real-price-of-frontier-models)
