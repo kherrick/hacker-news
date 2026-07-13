@@ -75,6 +75,7 @@
 * [2026-07-09, 11:57:34](https://news.ycombinator.com/item?id=48844476) - [How to Achieve Pruning When Querying by Non-Partitioned Columns in PostgreSQL](https://hakibenita.com/postgresql-partition-pruning)
 * [2026-07-09, 11:16:18](https://news.ycombinator.com/item?id=48844046) - [Show HN: Wyrm – Solve algebra by touch, built on an open-source soundness engine](https://github.com/dicroce/wyrm_math)
 * [2026-07-09, 11:03:54](https://news.ycombinator.com/item?id=48843923) - [EU Parliament greenlights Chat Control 1.0 – Breyer: \"Our children lose out\"](https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/)
+* [2026-07-09, 10:45:36](https://news.ycombinator.com/item?id=48843775) - [Frieve Vinyl Explained – Microscopic stylus/groove physics simulation](https://frieve-a.github.io/sound_toolbox/vinyl_explained/vinyl_explained.html)
 * [2026-07-09, 10:02:33](https://news.ycombinator.com/item?id=48843438) - [Bonnie Tyler, singer of Total Eclipse of the Heart, dies aged 75](https://www.bbc.com/news/articles/cg5pd9z2487o)
 * [2026-07-09, 09:58:28](https://news.ycombinator.com/item?id=48843409) - [Relm – local LLMs as base-R objects, with interpretability](https://github.com/Vadale/R-ebirth)
 * [2026-07-09, 09:47:28](https://news.ycombinator.com/item?id=48843352) - [My Thoughts on the Bun Rust Rewrite](https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html)
