@@ -32,6 +32,7 @@
 * [2026-07-13, 17:53:52](https://news.ycombinator.com/item?id=48896286) - [Show HN: Super Dario](https://superdario.pawb.de)
 * [2026-07-13, 17:49:49](https://news.ycombinator.com/item?id=48896229) - [Logseq 2.0 Beta (DB version) is here](https://github.com/logseq/logseq/releases)
 * [2026-07-13, 17:45:29](https://news.ycombinator.com/item?id=48896179) - [Show HN: OpenClawMachines – Extending OpenClaw to the Enterprise](https://github.com/mathaix/OpenClawMachines)
+* [2026-07-13, 17:13:22](https://news.ycombinator.com/item?id=48895763) - [A Second-Grade Teacher Revived a Beloved Video Game](https://www.nytimes.com/2026/07/13/style/backyard-baseball-video-game-teacher.html)
 * [2026-07-13, 17:00:54](https://news.ycombinator.com/item?id=48895565) - [PgDog (YC P25) Is Hiring a Founding Software Engineer](https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer)
 * [2026-07-13, 16:06:08](https://news.ycombinator.com/item?id=48894752) - [Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor](https://get-inscribe.com/blog/apple-speech-api-benchmark.html)
 * [2026-07-13, 15:59:36](https://news.ycombinator.com/item?id=48894671) - [Wikipedia escapes Category 1 designation under the UK Online Safety Act for now](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-07-13/Special_report)
