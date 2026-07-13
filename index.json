@@ -21,22 +21,22 @@
   ],
   [
     [
-      "2026-07-13, 22:14:12",
-      "https://news.ycombinator.com/item?id=48899620"
-    ],
-    [
-      "Show HN: I built a one-prompt hackathon platform, free entry, sponsored prizes",
-      "https://1shotchallenge.ai"
-    ]
-  ],
-  [
-    [
       "2026-07-13, 22:03:54",
       "https://news.ycombinator.com/item?id=48899529"
     ],
     [
       "Claude is just Mr. Meeseeks",
       "https://github.com/thephw/claude-meseeks"
+    ]
+  ],
+  [
+    [
+      "2026-07-13, 21:44:18",
+      "https://news.ycombinator.com/item?id=48899324"
+    ],
+    [
+      "MIT's New Method Flags AI Models Trained on CASM Without Generating It",
+      "https://insideai.news/news/ai-safety/mits-new-method-flags-ai-models-trained-on-child-abuse-imagery-without-generating-it/3869/"
     ]
   ],
   [
@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2026-07-13, 18:32:27",
-      "https://news.ycombinator.com/item?id=48896800"
-    ],
-    [
-      "The real prices of frontier models",
-      "https://playcode.io/blog/real-price-of-frontier-models"
-    ]
-  ],
-  [
-    [
       "2026-07-13, 18:26:04",
       "https://news.ycombinator.com/item?id=48896703"
     ],
@@ -165,7 +155,7 @@
       "https://news.ycombinator.com/item?id=48896665"
     ],
     [
-      "Building and Shipping Mac and iOS Apps Without Ever Opening Xcode",
+      "Building and shipping Mac and iOS apps without ever opening Xcode",
       "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "Ancient Roman Board Game",
       "https://ludus-coriovalli.web.app/"
+    ]
+  ],
+  [
+    [
+      "2026-07-08, 21:37:58",
+      "https://news.ycombinator.com/item?id=48837755"
+    ],
+    [
+      "Robust Secret Storage in Networks",
+      "https://arxiv.org/abs/2606.30261"
     ]
   ]
 ]
