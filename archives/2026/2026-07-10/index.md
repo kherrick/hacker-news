@@ -41,6 +41,7 @@
 * [2026-07-10, 13:31:08](https://news.ycombinator.com/item?id=48859678) - [Successful Companies Go Blind](https://ianreppel.org/how-successful-companies-go-blind/)
 * [2026-07-10, 13:30:41](https://news.ycombinator.com/item?id=48859673) - [Scarf has moved away from Haskell](https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html)
 * [2026-07-10, 13:30:19](https://news.ycombinator.com/item?id=48859671) - [Punk, or why I don't stream anymore](https://geohot.github.io//blog/jekyll/update/2026/05/03/punk-or-why-i-dont-stream.html)
+* [2026-07-10, 13:17:52](https://news.ycombinator.com/item?id=48859526) - [Guy took Jupiter photo with Game Boy Camera, giant telescope, publishes tutorial](https://www.engadget.com/2211886/guy-who-took-photo-of-jupiter-with-a-game-boy-camera-and-giant-telescope-publishes-diy-tutorial/)
 * [2026-07-10, 13:11:30](https://news.ycombinator.com/item?id=48859439) - [How do you use Vim in the era of AI?](https://news.ycombinator.com/item?id=48859439)
 * [2026-07-10, 13:07:38](https://news.ycombinator.com/item?id=48859387) - [Show HN: Runloom – Go-style coroutines for Python free-threaded](https://github.com/robertsdotpm/runloom)
 * [2026-07-10, 12:59:49](https://news.ycombinator.com/item?id=48859298) - [Europe's Largest Unions Demand Right to Cancel Work on Days Above 30C](https://novaramedia.com/2026/07/09/europes-largest-unions-demand-right-to-cancel-work-on-days-above-30c/)

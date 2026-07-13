@@ -15,6 +15,7 @@
 * [2026-07-09, 19:20:11](https://news.ycombinator.com/item?id=48851069) - [The four horsemen behind Postgres outages](https://malisper.me/the-four-horsemen-behind-thousands-of-postgres-outages/)
 * [2026-07-09, 18:29:41](https://news.ycombinator.com/item?id=48850414) - [GLM 5.2 is nearly as accurate as a human book keeper](https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark)
 * [2026-07-09, 18:27:06](https://news.ycombinator.com/item?id=48850372) - [How to Start a Ruby Meetup](https://guides.rubyevents.org/meetups/)
+* [2026-07-09, 17:59:13](https://news.ycombinator.com/item?id=48849983) - [Are you telling me a readonly property is wrecking my performance?](https://shub.club/writings/2026/july/check-your-scrollheight/)
 * [2026-07-09, 17:44:20](https://news.ycombinator.com/item?id=48849744) - [Billions of Sketches Reveal Hidden Cultural Variation in Human Concepts](https://arxiv.org/abs/2607.07267)
 * [2026-07-09, 17:38:18](https://news.ycombinator.com/item?id=48849648) - [Show HN: Pylon Sync, an agent-first full-stack realtime framework](https://www.pylonsync.com)
 * [2026-07-09, 17:36:30](https://news.ycombinator.com/item?id=48849618) - [Show HN: I built a web tool to see and edit what an AI thinks before it answers](https://lucid.earthpilot.ai)
