@@ -69,6 +69,7 @@
 * [2026-07-09, 12:48:52](https://news.ycombinator.com/item?id=48845049) - [Show HN: 18 Words](https://18words.com/)
 * [2026-07-09, 12:40:03](https://news.ycombinator.com/item?id=48844956) - [Show HN: 92% of US city websites fail ADA accessibility](https://accesslumens.com/research/state-of-us-local-government-accessibility-2026)
 * [2026-07-09, 12:20:41](https://news.ycombinator.com/item?id=48844709) - [How Version Control Will Evolve for the Agent Boom](https://entire.io/blog/how-version-control-will-evolve-for-the-agent-boom)
+* [2026-07-09, 12:04:36](https://news.ycombinator.com/item?id=48844554) - [Converting colors in JavaScript at 6B operations per second](https://dkryaklin.com/blog/colordx-gpu)
 * [2026-07-09, 12:01:17](https://news.ycombinator.com/item?id=48844517) - [TrueBiz (YC S22) – Senior Software Engineer – Remote (US) – Full-Time](https://news.ycombinator.com/item?id=48844517)
 * [2026-07-09, 11:57:34](https://news.ycombinator.com/item?id=48844476) - [How to Achieve Pruning When Querying by Non-Partitioned Columns in PostgreSQL](https://hakibenita.com/postgresql-partition-pruning)
 * [2026-07-09, 11:16:18](https://news.ycombinator.com/item?id=48844046) - [Show HN: Wyrm – Solve algebra by touch, built on an open-source soundness engine](https://github.com/dicroce/wyrm_math)
