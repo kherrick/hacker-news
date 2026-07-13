@@ -1,12 +1,52 @@
 [
   [
     [
-      "2026-07-13, 17:55:28",
-      "https://news.ycombinator.com/item?id=48896308"
+      "2026-07-13, 18:32:27",
+      "https://news.ycombinator.com/item?id=48896800"
     ],
     [
-      "NTSB Report on NetJets first fatality in 40 years (Josh Baer RIP)",
-      "https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/203191/pdf"
+      "The real prices of frontier models. Tokens * Price, right?",
+      "https://playcode.io/blog/real-price-of-frontier-models"
+    ]
+  ],
+  [
+    [
+      "2026-07-13, 18:10:23",
+      "https://news.ycombinator.com/item?id=48896493"
+    ],
+    [
+      "xAI's Grok Build CLI Uploads Git Repositories to a Google Cloud Bucket",
+      "https://www.internationalcyberdigest.com/xais-grok-build-cli-uploads-entire-git-repositories-to-a-google-cloud-bucket/"
+    ]
+  ],
+  [
+    [
+      "2026-07-13, 17:53:52",
+      "https://news.ycombinator.com/item?id=48896286"
+    ],
+    [
+      "Show HN: Super Dario",
+      "https://superdario.pawb.de"
+    ]
+  ],
+  [
+    [
+      "2026-07-13, 17:49:49",
+      "https://news.ycombinator.com/item?id=48896229"
+    ],
+    [
+      "Logseq 2.0 Beta (DB version) is here",
+      "https://github.com/logseq/logseq/releases"
+    ]
+  ],
+  [
+    [
+      "2026-07-13, 17:45:29",
+      "https://news.ycombinator.com/item?id=48896179"
+    ],
+    [
+      "Show HN: OpenClawMachines – Extending OpenClaw to the Enterprise",
+      "https://github.com/mathaix/OpenClawMachines"
     ]
   ],
   [
@@ -91,32 +131,12 @@
   ],
   [
     [
-      "2026-07-13, 13:54:10",
-      "https://news.ycombinator.com/item?id=48892709"
-    ],
-    [
-      "Nokia's 14 Years of Mobile-Phone Supremacy Ended in an Afternoon",
-      "https://spectrum.ieee.org/nokia-phones-history"
-    ]
-  ],
-  [
-    [
       "2026-07-13, 13:48:42",
       "https://news.ycombinator.com/item?id=48892638"
     ],
     [
       "Benchmarking 15 \"E-Waste\" GPUs with Modern Workloads",
       "https://esologic.com/benchmarking-tesla-gpus/"
-    ]
-  ],
-  [
-    [
-      "2026-07-13, 13:35:32",
-      "https://news.ycombinator.com/item?id=48892468"
-    ],
-    [
-      "Grok CLI uploaded the whole home directory to GCS",
-      "https://twitter.com/a_green_being/status/2076598897779020159"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2026-07-13, 08:04:30",
-      "https://news.ycombinator.com/item?id=48889350"
-    ],
-    [
-      "Interrail: 6,379Km and 13 Countries over 7 weeks",
-      "https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/"
-    ]
-  ],
-  [
-    [
       "2026-07-13, 06:08:12",
       "https://news.ycombinator.com/item?id=48888518"
     ],
@@ -207,16 +217,6 @@
     [
       "Ask HN: What Are You Working On? (July 2026)",
       "https://news.ycombinator.com/item?id=48884984"
-    ]
-  ],
-  [
-    [
-      "2026-07-12, 20:23:05",
-      "https://news.ycombinator.com/item?id=48884395"
-    ],
-    [
-      "Tiny Emulators",
-      "https://floooh.github.io/tiny8bit-preview/index.html"
     ]
   ],
   [
