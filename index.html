@@ -129,6 +129,224 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="48898154">
+          <h3>
+            <a
+              class="item"
+              href="https://github.com/marcelpanse/youtube-guitar-tab-parser"
+              >Show HN: YouTube Guitar Tab Parser</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-13 @ 20:13:14</span
+              ><span class="points-container"
+                >Points: <span class="points">11</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48898154"
+                  >Comments</a
+                ><span class="descendants">: 6</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                There are services that transcribe music from Youtube videos
+                into tabs, but they never work well enough for me. Instead I'm
+                taking a simpler approach. It downloads the video, samples
+                frames, uses Claude vision to locate the tab region, crops every
+                frame to that region, de-duplicates the crops by the bar number
+                printed on each line of the score, and stitches the distinct tab
+                lines vertically into a PDF.
+              </p>
+              <p>
+                I didn't test it on a lot of different Youtube videos yet, so
+                problem will arise for sure.
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="48897975">
+          <h3>
+            <a
+              class="item"
+              href="https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py"
+              >Show HN: I implemented a neural network in SQL</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-13 @ 20:00:10</span
+              ><span class="points-container"
+                >Points: <span class="points">15</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48897975"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                With down time on a warm beach during a heatwave, cool salty
+                water giving me fresh ideas, I had an idea: what if we used
+                Coiled's Geospatial benchmark discussion as a comprehensive
+                overview of geo and climate queries. Are all of these common
+                operations secretly relational, just with the wrong data model?
+                Using Claude Code on the beach, I can confirm that this seemed
+                to be the case: Claude and I publish a benchmark that
+                illustrated how every common operation in geo and climate
+                sciences (at the 100 TB range) were actually secretly relational
+                operations:
+                <a
+                  href="https://github.com/xqlsystems/xarray-sql/blob/main/docs/geospatial.md"
+                  >https://github.com/xqlsystems/xarray-sql/blob/main/docs/geos...</a
+                >.
+              </p>
+              <p>
+                Most surprisingly of all, from these examples was that a core
+                operation, regridding, was just a sparse matrix-vector product.
+                Claude had pointed out to me that in this data model, matmul was
+                just a `SUM(val * val) ... JOIN .. GROUP BY`. This has a direct
+                parallel to einsum notation, but can be expressed in (arguably)
+                elegant SQL syntax! This capability seemed to be greater than
+                the sum of it's parts.
+              </p>
+              <p>
+                Back in the cool water of the Ionian, I thought about the
+                implications of this more deeply. I reflected that, all of the
+                Coiled benchmarks did, deep down, was _post process_ simulations
+                that happen in numerical/array code. Why couldn't these physics
+                calculations be push down into the database also, if we could so
+                matmul in SQL? Then it hit me: maybe they could, if in addition
+                to linear algebra, if SQL could do calculus!
+                <a
+                  href="https://bsky.app/profile/al.merose.com/post/3mpbods7wts2y"
+                  >https://bsky.app/profile/al.merose.com/post/3mpbods7wts2y</a
+                >
+              </p>
+              <p>
+                Later on, I implemented autograd on top of DataFusion's visitor
+                pattern based on JAX's implementation. In my simplified array
+                model, it turns out that we only care about partial
+                differentiation on the diagonal of the Jacobian, meaning that
+                `grad()`, `jvp` and `vjp` are just row-wise operations! I then
+                implemented a common physics calculation from the coiled
+                benchmark that required gradients. From here, I realized if I
+                can autograd in the database, why can't I create a neural
+                network?
+              </p>
+              <p>
+                As I came back home, I created some slides, and presented this
+                work to DataFusion's inaugural showcase:
+                <a
+                  href="https://www.youtube.com/watch?t=1511&amp;v=5o-4hL8vGPw&amp;feature=youtu.be"
+                  >https://www.youtube.com/watch?t=1511&amp;v=5o-4hL8vGPw&amp;feature=y...</a
+                >
+                I realized in this synthesis that SQL is not necessarily a toy
+                language for writing neural networks, but in fact, may be highly
+                desirable in the future due to the fundamental principles of
+                relational databases: the logical layer should be independent
+                from the physical layer. If that property holds, and a neural
+                network is a series of relations, could we create a SOTA
+                distributed system for training more easily? For example, if we
+                had one global logical plan of dataflow, could we better
+                distribute work on 1000+ GPUs?
+              </p>
+              <p>
+                Several scientists and engineers and I are working together to
+                explore this weird world of relational arrays at
+                <a href="https://xql.systems">https://xql.systems</a> (discord
+                link at the bottom if you want to get involved).
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="48897969">
+          <h3>
+            <a class="item" href="https://planwright.tools"
+              >Show HN: PlanWright – A control plane for AI coding agents</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-13 @ 19:59:50</span
+              ><span class="points-container"
+                >Points: <span class="points">5</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48897969"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+            <div class="text">
+              MCP driven control plane for Agentic Engineering. Plan from Claude
+              Desktop, implement in Codex, review in a custom triage agent. All
+              via MCP, all logged and tracked with full documentation of all
+              decisions made by each agent.
+            </div>
+          </section>
+        </section>
+        <section id="48897945">
+          <h3>
+            <a
+              class="item"
+              href="https://werd.io/climate-gov-was-destroyed-open-data-saved-it/"
+              >Climate.gov was destroyed. Open data saved it</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-13 @ 19:57:55</span
+              ><span class="points-container"
+                >Points: <span class="points">159</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48897945"
+                  >Comments</a
+                ><span class="descendants">: 66</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48897878">
+          <h3>
+            <a class="item" href="https://www.whois.com/whois/t.me"
+              >Telegram's t.me domain has been suspended</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-13 @ 19:52:25</span
+              ><span class="points-container"
+                >Points: <span class="points">60</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48897878"
+                  >Comments</a
+                ><span class="descendants">: 48</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48897855">
+          <h3>
+            <a
+              class="item"
+              href="https://www.commondreams.org/opinion/us-israel-military-merger"
+              >Section 219, the US-Israel Military Merger, Would Thwart American
+              Democracy</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-13 @ 19:50:12</span
+              ><span class="points-container"
+                >Points: <span class="points">36</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48897855"
+                  >Comments</a
+                ><span class="descendants">: 6</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="48897329">
           <h3>
             <a
@@ -141,32 +359,11 @@
             <h4>
               <span>2026-07-13 @ 19:11:17</span
               ><span class="points-container"
-                >Points: <span class="points">13</span></span
+                >Points: <span class="points">18</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48897329"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48896993">
-          <h3>
-            <a
-              class="item"
-              href="https://acoup.blog/2026/07/10/friday-friday-july-10-2026-on-the-chud-vision-of-roman-history/"
-              >The Chud Vision of Roman History</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-13 @ 18:45:45</span
-              ><span class="points-container"
-                >Points: <span class="points">19</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48896993"
-                  >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -184,11 +381,11 @@
             <h4>
               <span>2026-07-13 @ 18:33:47</span
               ><span class="points-container"
-                >Points: <span class="points">22</span></span
+                >Points: <span class="points">31</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48896818"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 25</span></span
               >
             </h4>
           </section>
@@ -205,30 +402,11 @@
             <h4>
               <span>2026-07-13 @ 18:32:27</span
               ><span class="points-container"
-                >Points: <span class="points">66</span></span
+                >Points: <span class="points">81</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48896800"
                   >Comments</a
-                ><span class="descendants">: 35</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48896745">
-          <h3>
-            <a class="item" href="https://x.ai/news/new-flagship-voices"
-              >New Flagship Grok Voices</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-13 @ 18:28:13</span
-              ><span class="points-container"
-                >Points: <span class="points">19</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48896745"
-                  >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 39</span></span
               >
             </h4>
           </section>
@@ -244,7 +422,7 @@
             <h4>
               <span>2026-07-13 @ 18:26:04</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">29</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48896703"
                   >Comments</a
@@ -266,32 +444,11 @@
             <h4>
               <span>2026-07-13 @ 18:22:16</span
               ><span class="points-container"
-                >Points: <span class="points">81</span></span
+                >Points: <span class="points">99</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48896665"
                   >Comments</a
-                ><span class="descendants">: 44</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48896658">
-          <h3>
-            <a
-              class="item"
-              href="https://entropicthoughts.com/full-body-mri-earns-you-a-base-jump"
-              >A full body MRI earns you a year of smoking</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-13 @ 18:21:50</span
-              ><span class="points-container"
-                >Points: <span class="points">41</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48896658"
-                  >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 51</span></span
               >
             </h4>
           </section>
@@ -307,11 +464,11 @@
             <h4>
               <span>2026-07-13 @ 18:18:25</span
               ><span class="points-container"
-                >Points: <span class="points">43</span></span
+                >Points: <span class="points">47</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48896600"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -329,7 +486,7 @@
             <h4>
               <span>2026-07-13 @ 18:18:23</span
               ><span class="points-container"
-                >Points: <span class="points">28</span></span
+                >Points: <span class="points">29</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48896599"
                   >Comments</a
@@ -348,11 +505,11 @@
             <h4>
               <span>2026-07-13 @ 17:53:52</span
               ><span class="points-container"
-                >Points: <span class="points">305</span></span
+                >Points: <span class="points">348</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48896286"
                   >Comments</a
-                ><span class="descendants">: 76</span></span
+                ><span class="descendants">: 87</span></span
               >
             </h4>
           </section>
@@ -367,11 +524,11 @@
             <h4>
               <span>2026-07-13 @ 17:49:49</span
               ><span class="points-container"
-                >Points: <span class="points">63</span></span
+                >Points: <span class="points">69</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48896229"
                   >Comments</a
-                ><span class="descendants">: 37</span></span
+                ><span class="descendants">: 43</span></span
               >
             </h4>
           </section>
@@ -391,7 +548,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48896179"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -426,11 +583,11 @@
             <h4>
               <span>2026-07-13 @ 16:06:08</span
               ><span class="points-container"
-                >Points: <span class="points">313</span></span
+                >Points: <span class="points">324</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48894752"
                   >Comments</a
-                ><span class="descendants">: 138</span></span
+                ><span class="descendants">: 145</span></span
               >
             </h4>
           </section>
@@ -447,11 +604,11 @@
             <h4>
               <span>2026-07-13 @ 15:11:50</span
               ><span class="points-container"
-                >Points: <span class="points">362</span></span
+                >Points: <span class="points">376</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48893947"
                   >Comments</a
-                ><span class="descendants">: 269</span></span
+                ><span class="descendants">: 280</span></span
               >
             </h4>
           </section>
@@ -468,31 +625,11 @@
             <h4>
               <span>2026-07-13 @ 14:52:33</span
               ><span class="points-container"
-                >Points: <span class="points">165</span></span
+                >Points: <span class="points">169</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48893639"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48892859">
-          <h3>
-            <a class="item" href="https://github.com/clawkwork/clawk"
-              >Show HN: Clawk – Give coding agents a disposable Linux VM, not
-              your laptop</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-13 @ 14:02:03</span
-              ><span class="points-container"
-                >Points: <span class="points">156</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48892859"
-                  >Comments</a
-                ><span class="descendants">: 136</span></span
+                ><span class="descendants">: 34</span></span
               >
             </h4>
           </section>
@@ -507,11 +644,11 @@
             <h4>
               <span>2026-07-13 @ 13:48:42</span
               ><span class="points-container"
-                >Points: <span class="points">79</span></span
+                >Points: <span class="points">80</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48892638"
                   >Comments</a
-                ><span class="descendants">: 37</span></span
+                ><span class="descendants">: 38</span></span
               >
             </h4>
           </section>
@@ -546,11 +683,11 @@
             <h4>
               <span>2026-07-13 @ 11:18:30</span
               ><span class="points-container"
-                >Points: <span class="points">295</span></span
+                >Points: <span class="points">303</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48890959"
                   >Comments</a
-                ><span class="descendants">: 52</span></span
+                ><span class="descendants">: 56</span></span
               >
             </h4>
           </section>
@@ -567,11 +704,11 @@
             <h4>
               <span>2026-07-13 @ 06:08:12</span
               ><span class="points-container"
-                >Points: <span class="points">234</span></span
+                >Points: <span class="points">239</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48888518"
                   >Comments</a
-                ><span class="descendants">: 106</span></span
+                ><span class="descendants">: 109</span></span
               >
             </h4>
           </section>
@@ -586,11 +723,11 @@
             <h4>
               <span>2026-07-12 @ 21:26:41</span
               ><span class="points-container"
-                >Points: <span class="points">230</span></span
+                >Points: <span class="points">235</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48884984"
                   >Comments</a
-                ><span class="descendants">: 854</span></span
+                ><span class="descendants">: 862</span></span
               >
             </h4>
             <div class="text">
@@ -610,7 +747,7 @@
             <h4>
               <span>2026-07-11 @ 22:54:07</span
               ><span class="points-container"
-                >Points: <span class="points">15</span></span
+                >Points: <span class="points">17</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48876621"
                   >Comments</a
@@ -619,21 +756,23 @@
             </h4>
           </section>
         </section>
-        <section id="48855881">
+        <section id="48868417">
           <h3>
-            <a class="item" href="https://fi-le.net/arxiv/"
-              >Counting ArXiv Delays</a
+            <a
+              class="item"
+              href="https://garden-of-flowers.heikkilotvonen.com/?essay"
+              >The Origins of Heikki's Garden of Flowers</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-07-10 @ 04:52:34</span
+              <span>2026-07-11 @ 03:24:03</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">8</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48855881"
+                ><a href="https://news.ycombinator.com/item?id=48868417"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -648,32 +787,11 @@
             <h4>
               <span>2026-07-09 @ 20:47:45</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">51</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48852159"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48841962">
-          <h3>
-            <a
-              class="item"
-              href="https://lcamtuf.substack.com/p/cursed-circuits-6-reverse-avalanche"
-              >Cursed circuits #6: reverse avalanche oscillator</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-09 @ 07:00:17</span
-              ><span class="points-container"
-                >Points: <span class="points">70</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48841962"
-                  >Comments</a
-                ><span class="descendants">: 17</span></span
+                ><span class="descendants">: 20</span></span
               >
             </h4>
           </section>
@@ -689,7 +807,7 @@
             <h4>
               <span>2026-07-08 @ 16:53:58</span
               ><span class="points-container"
-                >Points: <span class="points">382</span></span
+                >Points: <span class="points">383</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48834309"
                   >Comments</a
@@ -701,28 +819,6 @@
                 >https://en.wikipedia.org/wiki/Dangling_pointer</a
               >)
             </div>
-          </section>
-        </section>
-        <section id="48832329">
-          <h3>
-            <a
-              class="item"
-              href="https://www.bbc.com/news/articles/cwye0dlzgejo"
-              >The 'absolute magic' of Morse code that still connects people
-              globally</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-08 @ 14:20:09</span
-              ><span class="points-container"
-                >Points: <span class="points">102</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48832329"
-                  >Comments</a
-                ><span class="descendants">: 62</span></span
-              >
-            </h4>
           </section>
         </section>
         <section id="48828983">
@@ -737,11 +833,11 @@
             <h4>
               <span>2026-07-08 @ 08:05:10</span
               ><span class="points-container"
-                >Points: <span class="points">25</span></span
+                >Points: <span class="points">27</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48828983"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
