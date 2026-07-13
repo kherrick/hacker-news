@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-13](index.md)
 
+* [2026-07-13, 17:55:28](https://news.ycombinator.com/item?id=48896308) - [NTSB Report on NetJets first fatality in 40 years (Josh Baer RIP)](https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/203191/pdf)
 * [2026-07-13, 17:00:54](https://news.ycombinator.com/item?id=48895565) - [PgDog (YC P25) Is Hiring a Founding Software Engineer](https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer)
 * [2026-07-13, 16:06:08](https://news.ycombinator.com/item?id=48894752) - [Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor](https://get-inscribe.com/blog/apple-speech-api-benchmark.html)
 * [2026-07-13, 15:59:36](https://news.ycombinator.com/item?id=48894671) - [Wikipedia escapes Category 1 designation under the UK Online Safety Act for now](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-07-13/Special_report)
@@ -17,6 +18,8 @@
 * [2026-07-13, 13:48:42](https://news.ycombinator.com/item?id=48892638) - [Benchmarking 15 \"E-Waste\" GPUs with Modern Workloads](https://esologic.com/benchmarking-tesla-gpus/)
 * [2026-07-13, 13:39:59](https://news.ycombinator.com/item?id=48892512) - [Grok uploaded my user directory to xAI's servers](https://twitter.com/a_green_being/status/2076598897779020159)
 * [2026-07-13, 13:35:32](https://news.ycombinator.com/item?id=48892468) - [Grok CLI uploaded the whole home directory to GCS](https://twitter.com/i/status/2076598897779020159)
+* [2026-07-13, 13:35:32](https://news.ycombinator.com/item?id=48892468) - [Grok CLI uploaded the whole home directory to GCS](https://twitter.com/a_green_being/status/2076598897779020159)
+* [2026-07-13, 12:58:07](https://news.ycombinator.com/item?id=48891987) - [A Farewell to ARPs: IPv4 Service on IPv6-Only Networks](https://labs.ripe.net/author/remco-van-mook/a-farewell-to-arps-ipv4-service-on-ipv6-only-networks/)
 * [2026-07-13, 12:09:38](https://news.ycombinator.com/item?id=48891463) - [Leak of San Francisco Police Drone Footage Exposes Reality of Urban Surveillance](https://www.wired.com/story/sfpd-drone-video-leak-surveillance/)
 * [2026-07-13, 11:51:56](https://news.ycombinator.com/item?id=48891267) - [Show HN: DOM-docx – HTML to native, editable Word docs (MIT)](https://github.com/floodtide/dom-docx)
 * [2026-07-13, 11:46:47](https://news.ycombinator.com/item?id=48891200) - [An Infuriating Goodbye to Photoshop](https://anderegg.ca/2026/07/12/an-infuriating-goodbye-to-photoshop)

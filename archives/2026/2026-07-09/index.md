@@ -8,6 +8,7 @@
 * [2026-07-09, 21:39:17](https://news.ycombinator.com/item?id=48852718) - [Calculix: A Free Software Three-Dimensional Structural Finite Element Program](https://www.calculix.de/)
 * [2026-07-09, 21:09:05](https://news.ycombinator.com/item?id=48852403) - [Rubiks Cube Solver](https://speedcube.com.br/)
 * [2026-07-09, 20:51:06](https://news.ycombinator.com/item?id=48852199) - [Building a real-time AI tutor for 5-year-olds](https://www.ello.com/blog/teaching-a-child-in-1000-ms)
+* [2026-07-09, 20:47:45](https://news.ycombinator.com/item?id=48852159) - [Ancient Roman Board Game](https://ludus-coriovalli.web.app/)
 * [2026-07-09, 20:47:09](https://news.ycombinator.com/item?id=48852151) - [How GitHub gave every repository a durable owner](https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/)
 * [2026-07-09, 20:46:38](https://news.ycombinator.com/item?id=48852144) - [Show HN: RandoFont – A browser for Google Fonts](https://randofont.alesh.com)
 * [2026-07-09, 20:37:43](https://news.ycombinator.com/item?id=48852048) - [How RCA Victor sold Sound Service to classrooms in 1939](https://pncnmnp.github.io/blogs/rca-victor-education.html)
