@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-07-13, 22:26:34](https://news.ycombinator.com/item?id=48899741) - [California rocked by another earthquake that will unleash the Big One](https://www.dailymail.com/sciencetech/article-15973745/california-earthquake-unlocks-san-andreas-garlock.html)
+* [2026-07-13, 22:40:55](https://news.ycombinator.com/item?id=48899888) - [Manifest Man](https://www.thenewcritic.com/p/manifest-man)
+* [2026-07-13, 22:19:16](https://news.ycombinator.com/item?id=48899672) - [‘Asia's cleanest village’ bans tourists on Sundays](https://www.bbc.com/travel/article/20260625-why-asias-cleanest-village-bans-tourists-on-sundays)
 * [2026-07-13, 22:14:12](https://news.ycombinator.com/item?id=48899620) - [Show HN: I built a one-prompt hackathon platform, free entry, sponsored prizes](https://1shotchallenge.ai)
 * [2026-07-13, 22:03:54](https://news.ycombinator.com/item?id=48899529) - [Claude is just Mr. Meeseeks](https://github.com/thephw/claude-meseeks)
 * [2026-07-13, 21:01:00](https://news.ycombinator.com/item?id=48898814) - [SalesPatriot (YC W25) Is Hiring Full Stack Engineers (SF)](https://jobs.ashbyhq.com/SalesPatriot/df223727-5781-433e-bc75-2aa5bf8dc8d7)
@@ -13,7 +14,7 @@
 * [2026-07-13, 19:52:25](https://news.ycombinator.com/item?id=48897878) - [Telegram's t.me domain has been suspended](https://www.whois.com/whois/t.me)
 * [2026-07-13, 19:11:17](https://news.ycombinator.com/item?id=48897329) - [TFTP Honey Pot Results](https://bruceediger.com/posts/tftp-honeypot-results/)
 * [2026-07-13, 18:53:53](https://news.ycombinator.com/item?id=48897104) - [The infinite scroll may become endangered if controversial Calif. law passes](https://www.sfgate.com/politics/article/meta-social-media-teenagers-22337724.php)
-* [2026-07-13, 18:32:27](https://news.ycombinator.com/item?id=48896800) - [The real prices of frontier models. Tokens * Price, right?](https://playcode.io/blog/real-price-of-frontier-models)
+* [2026-07-13, 18:32:27](https://news.ycombinator.com/item?id=48896800) - [The real prices of frontier models](https://playcode.io/blog/real-price-of-frontier-models)
 * [2026-07-13, 18:26:04](https://news.ycombinator.com/item?id=48896703) - [Show HN: Nobie – an Excel-compatible runtime for agents and humans](https://nobie.com)
 * [2026-07-13, 18:22:16](https://news.ycombinator.com/item?id=48896665) - [Building and Shipping Mac and iOS Apps Without Ever Opening Xcode](https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/)
 * [2026-07-13, 18:18:25](https://news.ycombinator.com/item?id=48896600) - [Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?](https://cakehonolulu.github.io/linux-on-32x/)
@@ -24,12 +25,11 @@
 * [2026-07-13, 15:56:02](https://news.ycombinator.com/item?id=48894630) - [Show HN: Jacquard, a programming language for AI-written, human-reviewed code](https://github.com/jbwinters/jacquard-lang)
 * [2026-07-13, 14:52:33](https://news.ycombinator.com/item?id=48893639) - [The art and engineering of Sega CD Silpheed](https://fabiensanglard.net/silpheed/index.html)
 * [2026-07-13, 13:48:42](https://news.ycombinator.com/item?id=48892638) - [Benchmarking 15 \"E-Waste\" GPUs with Modern Workloads](https://esologic.com/benchmarking-tesla-gpus/)
-* [2026-07-13, 11:51:56](https://news.ycombinator.com/item?id=48891267) - [Show HN: DOM-docx – HTML to native, editable Word docs (MIT)](https://github.com/floodtide/dom-docx)
 * [2026-07-13, 11:18:30](https://news.ycombinator.com/item?id=48890959) - [A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese](https://jivx.com/densha)
 * [2026-07-11, 03:24:03](https://news.ycombinator.com/item?id=48868417) - [The Origins of Heikki's Garden of Flowers](https://garden-of-flowers.heikkilotvonen.com/?essay)
 * [2026-07-10, 23:04:50](https://news.ycombinator.com/item?id=48866461) - [The 4-Bitter Lesson: Balancing Stability and Performance in NVFP4 RL](https://humansand.ai/blog/nvfp4-rl)
+* [2026-07-10, 16:59:55](https://news.ycombinator.com/item?id=48862493) - [Collaboration Networks in Brazilian Computer Science](https://blog.ptidej.net/collaboration-networks-in-brazilian-computer-science/)
 * [2026-07-09, 20:47:45](https://news.ycombinator.com/item?id=48852159) - [Ancient Roman Board Game](https://ludus-coriovalli.web.app/)
-* [2026-07-08, 21:37:58](https://news.ycombinator.com/item?id=48837755) - [Robust Secret Storage in Networks](https://arxiv.org/abs/2606.30261)
 
 ## [Archives](archives/index.md)
 
