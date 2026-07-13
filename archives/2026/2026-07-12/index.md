@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-07-12](index.md)
 
+* [2026-07-12, 23:05:14](https://news.ycombinator.com/item?id=48885779) - [How to Get What You Want](https://andys.blog/how-to-get-what-you-want/)
 * [2026-07-12, 22:56:56](https://news.ycombinator.com/item?id=48885728) - [Designing and assembling my first PCB](https://vilkeliskis.com/b/2026/0711.html)
 * [2026-07-12, 22:54:07](https://news.ycombinator.com/item?id=48885708) - [Architecture Description Languages [pdf]](https://ics.uci.edu/~taylor/documents/2000-ADLs-TSE.pdf)
+* [2026-07-12, 22:53:51](https://news.ycombinator.com/item?id=48885705) - [Why Vanilla JavaScript](https://guseyn.com/html/posts/why-vanilla-js.html)
 * [2026-07-12, 22:45:31](https://news.ycombinator.com/item?id=48885643) - [Cyberpunk Comics, Manga and Graphic Novels](https://shellzine.net/cyberpunk-comics/)
 * [2026-07-12, 22:29:46](https://news.ycombinator.com/item?id=48885525) - [A Speed Limit for Computers](https://caolan.uk/notes/2026-07-02_a_speed_limit_for_computers.cm)
 * [2026-07-12, 22:26:14](https://news.ycombinator.com/item?id=48885500) - [Show HN: Codebase Posters – turn any Git repo into generative poster art](https://github.com/unable12/codebase-posters)
