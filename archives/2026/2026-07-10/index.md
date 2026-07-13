@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-10](index.md)
 
+* [2026-07-10, 23:04:50](https://news.ycombinator.com/item?id=48866461) - [The 4-Bitter Lesson: Balancing Stability and Performance in NVFP4 RL](https://humansand.ai/blog/nvfp4-rl)
 * [2026-07-10, 22:30:44](https://news.ycombinator.com/item?id=48866134) - [Einstein's relativity rules chemical bonds in heavy elements, new research shows](https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity)
 * [2026-07-10, 22:04:45](https://news.ycombinator.com/item?id=48865903) - [AI Can't Recreate the Thrust Game (But It Can Help You Understand It)](https://www.jamesdrandall.com/posts/thrust_ai_powered_software_archaeology/)
 * [2026-07-10, 21:20:29](https://news.ycombinator.com/item?id=48865431) - [Apple Sues OpenAI, Accusing It of Stealing Company Secrets](https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html)
