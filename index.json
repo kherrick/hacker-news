@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-07-13, 22:26:34",
-      "https://news.ycombinator.com/item?id=48899741"
+      "2026-07-13, 22:40:55",
+      "https://news.ycombinator.com/item?id=48899888"
     ],
     [
-      "California rocked by another earthquake that will unleash the Big One",
-      "https://www.dailymail.com/sciencetech/article-15973745/california-earthquake-unlocks-san-andreas-garlock.html"
+      "Manifest Man",
+      "https://www.thenewcritic.com/p/manifest-man"
+    ]
+  ],
+  [
+    [
+      "2026-07-13, 22:19:16",
+      "https://news.ycombinator.com/item?id=48899672"
+    ],
+    [
+      "‘Asia's cleanest village’ bans tourists on Sundays",
+      "https://www.bbc.com/travel/article/20260625-why-asias-cleanest-village-bans-tourists-on-sundays"
     ]
   ],
   [
@@ -135,7 +145,7 @@
       "https://news.ycombinator.com/item?id=48896800"
     ],
     [
-      "The real prices of frontier models. Tokens * Price, right?",
+      "The real prices of frontier models",
       "https://playcode.io/blog/real-price-of-frontier-models"
     ]
   ],
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2026-07-13, 11:51:56",
-      "https://news.ycombinator.com/item?id=48891267"
-    ],
-    [
-      "Show HN: DOM-docx – HTML to native, editable Word docs (MIT)",
-      "https://github.com/floodtide/dom-docx"
-    ]
-  ],
-  [
-    [
       "2026-07-13, 11:18:30",
       "https://news.ycombinator.com/item?id=48890959"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2026-07-10, 16:59:55",
+      "https://news.ycombinator.com/item?id=48862493"
+    ],
+    [
+      "Collaboration Networks in Brazilian Computer Science",
+      "https://blog.ptidej.net/collaboration-networks-in-brazilian-computer-science/"
+    ]
+  ],
+  [
+    [
       "2026-07-09, 20:47:45",
       "https://news.ycombinator.com/item?id=48852159"
     ],
     [
       "Ancient Roman Board Game",
       "https://ludus-coriovalli.web.app/"
-    ]
-  ],
-  [
-    [
-      "2026-07-08, 21:37:58",
-      "https://news.ycombinator.com/item?id=48837755"
-    ],
-    [
-      "Robust Secret Storage in Networks",
-      "https://arxiv.org/abs/2606.30261"
     ]
   ]
 ]
