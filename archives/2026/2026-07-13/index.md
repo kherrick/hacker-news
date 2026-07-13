@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-07-13](index.md)
 
+* [2026-07-13, 12:09:38](https://news.ycombinator.com/item?id=48891463) - [Leak of San Francisco Police Drone Footage Exposes Reality of Urban Surveillance](https://www.wired.com/story/sfpd-drone-video-leak-surveillance/)
+* [2026-07-13, 11:51:56](https://news.ycombinator.com/item?id=48891267) - [Show HN: DOM-docx – HTML to native, editable Word docs (MIT)](https://github.com/floodtide/dom-docx)
 * [2026-07-13, 11:46:47](https://news.ycombinator.com/item?id=48891200) - [An Infuriating Goodbye to Photoshop](https://anderegg.ca/2026/07/12/an-infuriating-goodbye-to-photoshop)
+* [2026-07-13, 11:45:36](https://news.ycombinator.com/item?id=48891184) - [Control the Ideas, Not the Code](https://antirez.com/news/169)
 * [2026-07-13, 11:18:30](https://news.ycombinator.com/item?id=48890959) - [A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese](https://jivx.com/densha)
 * [2026-07-13, 08:39:39](https://news.ycombinator.com/item?id=48889637) - [Zig Creator Calls Spade a Spade, Anthropic Blows Smoke](https://raymyers.org/post/zed-creator-calls-spade-a-spade/)
 * [2026-07-13, 08:15:52](https://news.ycombinator.com/item?id=48889429) - [Berkshire's $397B Bet Against an Overheated Market](https://www.disruptionbanking.com/2026/07/13/inside-berkshires-397-billion-bet-against-an-overheated-market/)
