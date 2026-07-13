@@ -26,6 +26,7 @@
 * [2026-07-09, 17:03:53](https://news.ycombinator.com/item?id=48849059) - [ChatGPT Work](https://openai.com/index/chatgpt-for-your-most-ambitious-work/)
 * [2026-07-09, 17:00:37](https://news.ycombinator.com/item?id=48849011) - [Wildcard (YC W25) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/wildcard/jobs/ZSLVaaU-founding-engineer)
 * [2026-07-09, 16:47:53](https://news.ycombinator.com/item?id=48848819) - [Show HN: Devthropology – Better Insights for GitHub Repos](https://devthropology.com/demo)
+* [2026-07-09, 16:42:39](https://news.ycombinator.com/item?id=48848741) - [Ask HN: Does anyone let AI agents play games just for fun?](https://news.ycombinator.com/item?id=48848741)
 * [2026-07-09, 16:21:44](https://news.ycombinator.com/item?id=48848425) - [AI 2040: Plan A](https://ai-2040.com/)
 * [2026-07-09, 16:00:58](https://news.ycombinator.com/item?id=48848111) - [Auditory and spontaneous movement responses to music over first postnatal year](https://elifesciences.org/articles/107088)
 * [2026-07-09, 15:50:09](https://news.ycombinator.com/item?id=48847940) - [AI Content Is Everywhere on Social Media, Especially LinkedIn](https://www.pangram.com/blog/ai-in-your-feed)
