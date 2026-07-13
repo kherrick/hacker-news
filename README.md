@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-13, 17:00:54](https://news.ycombinator.com/item?id=48895565) - [PgDog (YC P25) Is Hiring a Founding Software Engineer](https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer)
 * [2026-07-13, 16:06:08](https://news.ycombinator.com/item?id=48894752) - [Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor](https://get-inscribe.com/blog/apple-speech-api-benchmark.html)
 * [2026-07-13, 15:59:36](https://news.ycombinator.com/item?id=48894671) - [Wikipedia escapes Category 1 designation under the UK Online Safety Act for now](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-07-13/Special_report)
 * [2026-07-13, 15:56:39](https://news.ycombinator.com/item?id=48894641) - [DOGE is done. What happened to its records?](https://www.ms.now/opinion/doge-government-efficiency-records-job-cuts-elon-musk-foia)
@@ -8,11 +9,9 @@
 * [2026-07-13, 14:52:33](https://news.ycombinator.com/item?id=48893639) - [The art and engineering of Sega CD Silpheed](https://fabiensanglard.net/silpheed/index.html)
 * [2026-07-13, 14:39:38](https://news.ycombinator.com/item?id=48893446) - [Precursor](https://blog.cloudflare.com/introducing-precursor/)
 * [2026-07-13, 14:02:03](https://news.ycombinator.com/item?id=48892859) - [Show HN: Clawk – Give coding agents a disposable Linux VM, not your laptop](https://github.com/clawkwork/clawk)
+* [2026-07-13, 13:54:10](https://news.ycombinator.com/item?id=48892709) - [Nokia's 14 Years of Mobile-Phone Supremacy Ended in an Afternoon](https://spectrum.ieee.org/nokia-phones-history)
 * [2026-07-13, 13:48:42](https://news.ycombinator.com/item?id=48892638) - [Benchmarking 15 \"E-Waste\" GPUs with Modern Workloads](https://esologic.com/benchmarking-tesla-gpus/)
-* [2026-07-13, 13:39:59](https://news.ycombinator.com/item?id=48892512) - [Grok uploaded my user directory to xAI's servers](https://twitter.com/a_green_being/status/2076598897779020159)
-* [2026-07-13, 13:35:32](https://news.ycombinator.com/item?id=48892468) - [Grok CLI uploaded the whole home directory to GCS](https://twitter.com/i/status/2076598897779020159)
 * [2026-07-13, 11:51:56](https://news.ycombinator.com/item?id=48891267) - [Show HN: DOM-docx – HTML to native, editable Word docs (MIT)](https://github.com/floodtide/dom-docx)
-* [2026-07-13, 11:45:36](https://news.ycombinator.com/item?id=48891184) - [Control the Ideas, Not the Code](https://antirez.com/news/169)
 * [2026-07-13, 11:18:30](https://news.ycombinator.com/item?id=48890959) - [A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese](https://jivx.com/densha)
 * [2026-07-13, 08:39:39](https://news.ycombinator.com/item?id=48889637) - [Zig Creator Calls Spade a Spade, Anthropic Blows Smoke](https://raymyers.org/post/zed-creator-calls-spade-a-spade/)
 * [2026-07-13, 08:04:30](https://news.ycombinator.com/item?id=48889350) - [Interrail: 6,379Km and 13 Countries over 7 weeks](https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/)
@@ -28,6 +27,7 @@
 * [2026-07-08, 21:04:52](https://news.ycombinator.com/item?id=48837412) - [DMS 1.5 \"The Wolverine\" Released](https://danklinux.com/blog/v1-5-release)
 * [2026-07-08, 16:53:58](https://news.ycombinator.com/item?id=48834309) - [GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years](https://nebusec.ai/research/ionstack-part-2/)
 * [2026-07-08, 14:20:09](https://news.ycombinator.com/item?id=48832329) - [The 'absolute magic' of Morse code that still connects people globally](https://www.bbc.com/news/articles/cwye0dlzgejo)
+* [2026-07-08, 08:05:10](https://news.ycombinator.com/item?id=48828983) - [Tune Code Before Your Garbage Collector](http://blog.vanillajava.blog/2026/06/why-you-should-tun-code-before-your.html)
 * [2026-07-08, 07:05:49](https://news.ycombinator.com/item?id=48828576) - [The social physics of conversation: Communication patterns matter](https://andiroberts.com/citizenship/the-social-physics-of-conversation-citizenship-leadership)
 * [2026-07-08, 03:28:00](https://news.ycombinator.com/item?id=48827126) - [So you want to learn physics (second edition, 2021)](https://www.susanrigetti.com/physics)
 
