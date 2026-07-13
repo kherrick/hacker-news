@@ -64,6 +64,7 @@
 * [2026-07-09, 13:19:02](https://news.ycombinator.com/item?id=48845364) - [Files over tools: how we built our agent with a virtual filesystem and bash](https://knock.app/blog/how-we-built-the-knock-agent-virtual-filesystem-and-bash)
 * [2026-07-09, 13:15:26](https://news.ycombinator.com/item?id=48845321) - [The Seed Beneath the Snow](https://eli.li/the-seed-beneath-the-snow)
 * [2026-07-09, 13:10:18](https://news.ycombinator.com/item?id=48845269) - [Just Pay the Subscription](https://www.uncommonapps.nyc/p/just-pay-the-subscription)
+* [2026-07-09, 13:09:21](https://news.ycombinator.com/item?id=48845252) - [Tracking unique visitors without cookies](https://inmargin.io/blog/tracking-unique-visitors-without-cookies)
 * [2026-07-09, 13:06:04](https://news.ycombinator.com/item?id=48845209) - [A Road to Lisp: Why Lisp](https://scotto.me/blog/2026-07-09-why-lisp/)
 * [2026-07-09, 12:59:44](https://news.ycombinator.com/item?id=48845142) - [Show HN: Arcaide – Explore code with multi-level call graphs](https://arcaide.foo)
 * [2026-07-09, 12:48:52](https://news.ycombinator.com/item?id=48845049) - [Show HN: 18 Words](https://18words.com/)

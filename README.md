@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-13, 07:37:06](https://news.ycombinator.com/item?id=48889148) - [Quadrupling code performance with a \"useless\" if](https://purplesyringa.moe/blog/quadrupling-code-performance-with-a-useless-if/)
 * [2026-07-13, 06:08:12](https://news.ycombinator.com/item?id=48888518) - [Backtrack-Free Cursive](https://mmapped.blog/posts/52-backtrack-free-cursive)
 * [2026-07-13, 06:02:11](https://news.ycombinator.com/item?id=48888468) - [Sam Neill has died](https://www.theguardian.com/film/2026/jul/13/sam-neill-death-actor-dies-aged-78)
 * [2026-07-13, 05:15:14](https://news.ycombinator.com/item?id=48888193) - [Beavis Ultrasound PnP ISA Sound Card Replica](https://github.com/schlae/BeavisUltrasound)
@@ -13,8 +14,6 @@
 * [2026-07-12, 20:23:05](https://news.ycombinator.com/item?id=48884395) - [Tiny Emulators](https://floooh.github.io/tiny8bit-preview/index.html)
 * [2026-07-12, 18:25:51](https://news.ycombinator.com/item?id=48883275) - [Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k](https://systima.ai/blog/claude-code-vs-opencode-token-overhead)
 * [2026-07-12, 18:22:15](https://news.ycombinator.com/item?id=48883238) - [I Learned to Read Again](https://substack.magazinenongrata.com/p/how-i-learned-to-read-again)
-* [2026-07-12, 18:04:41](https://news.ycombinator.com/item?id=48883090) - [Mechanistic interpretability researchers applying causality theory to LLMs](https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/)
-* [2026-07-12, 17:47:07](https://news.ycombinator.com/item?id=48882956) - [Against Usefulness](https://www.motivenotes.ai/p/against-usefulness)
 * [2026-07-12, 17:13:07](https://news.ycombinator.com/item?id=48882716) - [Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper](https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6)
 * [2026-07-12, 16:56:41](https://news.ycombinator.com/item?id=48882569) - [LARP – Revenue infrastructure for serious founders](https://www.larp.website/)
 * [2026-07-12, 16:54:47](https://news.ycombinator.com/item?id=48882554) - [Automation Without Understanding](https://arxiv.org/abs/2607.06377)
@@ -25,6 +24,7 @@
 * [2026-07-10, 13:17:52](https://news.ycombinator.com/item?id=48859526) - [Guy took Jupiter photo with Game Boy Camera, giant telescope, publishes tutorial](https://www.engadget.com/2211886/guy-who-took-photo-of-jupiter-with-a-game-boy-camera-and-giant-telescope-publishes-diy-tutorial/)
 * [2026-07-10, 00:06:59](https://news.ycombinator.com/item?id=48854168) - [Vint Cerf, “father of the Internet”, is retiring](https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/)
 * [2026-07-09, 17:59:13](https://news.ycombinator.com/item?id=48849983) - [Are you telling me a readonly property is wrecking my performance?](https://shub.club/writings/2026/july/check-your-scrollheight/)
+* [2026-07-09, 13:09:21](https://news.ycombinator.com/item?id=48845252) - [Tracking unique visitors without cookies](https://inmargin.io/blog/tracking-unique-visitors-without-cookies)
 * [2026-07-09, 12:04:36](https://news.ycombinator.com/item?id=48844554) - [Converting colors in JavaScript at 6B operations per second](https://dkryaklin.com/blog/colordx-gpu)
 * [2026-07-08, 16:53:58](https://news.ycombinator.com/item?id=48834309) - [GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years](https://nebusec.ai/research/ionstack-part-2/)
 * [2026-07-08, 13:39:59](https://news.ycombinator.com/item?id=48831840) - [First look at Quest, the final ship of Antarctic explorer Shackleton](https://www.cbc.ca/news/canada/quest-shipwreck-expedition-images-9.7262229)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-13](index.md)
 
+* [2026-07-13, 07:37:06](https://news.ycombinator.com/item?id=48889148) - [Quadrupling code performance with a \"useless\" if](https://purplesyringa.moe/blog/quadrupling-code-performance-with-a-useless-if/)
 * [2026-07-13, 06:08:12](https://news.ycombinator.com/item?id=48888518) - [Backtrack-Free Cursive](https://mmapped.blog/posts/52-backtrack-free-cursive)
 * [2026-07-13, 06:02:11](https://news.ycombinator.com/item?id=48888468) - [Sam Neill has died](https://www.theguardian.com/film/2026/jul/13/sam-neill-death-actor-dies-aged-78)
 * [2026-07-13, 05:15:14](https://news.ycombinator.com/item?id=48888193) - [Beavis Ultrasound PnP ISA Sound Card Replica](https://github.com/schlae/BeavisUltrasound)
