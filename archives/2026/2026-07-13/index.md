@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-07-13](index.md)
 
+* [2026-07-13, 22:26:34](https://news.ycombinator.com/item?id=48899741) - [California rocked by another earthquake that will unleash the Big One](https://www.dailymail.com/sciencetech/article-15973745/california-earthquake-unlocks-san-andreas-garlock.html)
+* [2026-07-13, 22:14:12](https://news.ycombinator.com/item?id=48899620) - [Show HN: I built a one-prompt hackathon platform, free entry, sponsored prizes](https://1shotchallenge.ai)
+* [2026-07-13, 22:03:54](https://news.ycombinator.com/item?id=48899529) - [Claude is just Mr. Meeseeks](https://github.com/thephw/claude-meseeks)
 * [2026-07-13, 21:01:00](https://news.ycombinator.com/item?id=48898814) - [SalesPatriot (YC W25) Is Hiring Full Stack Engineers (SF)](https://jobs.ashbyhq.com/SalesPatriot/df223727-5781-433e-bc75-2aa5bf8dc8d7)
 * [2026-07-13, 20:13:14](https://news.ycombinator.com/item?id=48898154) - [Show HN: YouTube Guitar Tab Parser](https://github.com/marcelpanse/youtube-guitar-tab-parser)
 * [2026-07-13, 20:11:29](https://news.ycombinator.com/item?id=48898134) - [Linux 0.11 rewritten in idiomatic Rust, boots in QEMU](https://github.com/Poseidon-fan/linux-0.11-rs)
