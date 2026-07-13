@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-07-13, 12:09:38",
+      "https://news.ycombinator.com/item?id=48891463"
+    ],
+    [
+      "Leak of San Francisco Police Drone Footage Exposes Reality of Urban Surveillance",
+      "https://www.wired.com/story/sfpd-drone-video-leak-surveillance/"
+    ]
+  ],
+  [
+    [
+      "2026-07-13, 11:51:56",
+      "https://news.ycombinator.com/item?id=48891267"
+    ],
+    [
+      "Show HN: DOM-docx – HTML to native, editable Word docs (MIT)",
+      "https://github.com/floodtide/dom-docx"
+    ]
+  ],
+  [
+    [
       "2026-07-13, 11:46:47",
       "https://news.ycombinator.com/item?id=48891200"
     ],
     [
       "An Infuriating Goodbye to Photoshop",
       "https://anderegg.ca/2026/07/12/an-infuriating-goodbye-to-photoshop"
+    ]
+  ],
+  [
+    [
+      "2026-07-13, 11:45:36",
+      "https://news.ycombinator.com/item?id=48891184"
+    ],
+    [
+      "Control the Ideas, Not the Code",
+      "https://antirez.com/news/169"
     ]
   ],
   [
@@ -27,16 +57,6 @@
     [
       "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
       "https://raymyers.org/post/zed-creator-calls-spade-a-spade/"
-    ]
-  ],
-  [
-    [
-      "2026-07-13, 08:15:52",
-      "https://news.ycombinator.com/item?id=48889429"
-    ],
-    [
-      "Berkshire's $397B Bet Against an Overheated Market",
-      "https://www.disruptionbanking.com/2026/07/13/inside-berkshires-397-billion-bet-against-an-overheated-market/"
     ]
   ],
   [
@@ -211,12 +231,12 @@
   ],
   [
     [
-      "2026-07-10, 16:12:52",
-      "https://news.ycombinator.com/item?id=48861923"
+      "2026-07-10, 13:11:26",
+      "https://news.ycombinator.com/item?id=48859437"
     ],
     [
-      "Why write code in 2026",
-      "https://softwaredoug.com/blog/2026/07/09/write-code"
+      "We Put an L7 Firewall in the Kernel",
+      "https://yeet.cx/blog/l7-firewall-in-the-kernel"
     ]
   ],
   [
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2026-07-09, 16:42:39",
-      "https://news.ycombinator.com/item?id=48848741"
-    ],
-    [
-      "Ask HN: Does anyone let AI agents play games just for fun?",
-      "https://news.ycombinator.com/item?id=48848741"
-    ]
-  ],
-  [
-    [
       "2026-07-09, 10:45:36",
       "https://news.ycombinator.com/item?id=48843775"
     ],
@@ -267,16 +277,6 @@
     [
       "GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years",
       "https://nebusec.ai/research/ionstack-part-2/"
-    ]
-  ],
-  [
-    [
-      "2026-07-08, 13:39:59",
-      "https://news.ycombinator.com/item?id=48831840"
-    ],
-    [
-      "First look at Quest, the final ship of Antarctic explorer Shackleton",
-      "https://www.cbc.ca/news/canada/quest-shipwreck-expedition-images-9.7262229"
     ]
   ],
   [
