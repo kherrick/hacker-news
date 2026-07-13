@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-07-13](index.md)
 
+* [2026-07-13, 18:32:27](https://news.ycombinator.com/item?id=48896800) - [The real prices of frontier models. Tokens * Price, right?](https://playcode.io/blog/real-price-of-frontier-models)
+* [2026-07-13, 18:10:23](https://news.ycombinator.com/item?id=48896493) - [xAI's Grok Build CLI Uploads Git Repositories to a Google Cloud Bucket](https://www.internationalcyberdigest.com/xais-grok-build-cli-uploads-entire-git-repositories-to-a-google-cloud-bucket/)
 * [2026-07-13, 17:55:28](https://news.ycombinator.com/item?id=48896308) - [NTSB Report on NetJets first fatality in 40 years (Josh Baer RIP)](https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/203191/pdf)
+* [2026-07-13, 17:53:52](https://news.ycombinator.com/item?id=48896286) - [Show HN: Super Dario](https://superdario.pawb.de)
+* [2026-07-13, 17:49:49](https://news.ycombinator.com/item?id=48896229) - [Logseq 2.0 Beta (DB version) is here](https://github.com/logseq/logseq/releases)
+* [2026-07-13, 17:45:29](https://news.ycombinator.com/item?id=48896179) - [Show HN: OpenClawMachines – Extending OpenClaw to the Enterprise](https://github.com/mathaix/OpenClawMachines)
 * [2026-07-13, 17:00:54](https://news.ycombinator.com/item?id=48895565) - [PgDog (YC P25) Is Hiring a Founding Software Engineer](https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer)
 * [2026-07-13, 16:06:08](https://news.ycombinator.com/item?id=48894752) - [Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor](https://get-inscribe.com/blog/apple-speech-api-benchmark.html)
 * [2026-07-13, 15:59:36](https://news.ycombinator.com/item?id=48894671) - [Wikipedia escapes Category 1 designation under the UK Online Safety Act for now](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-07-13/Special_report)
