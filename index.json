@@ -1,22 +1,72 @@
 [
   [
     [
+      "2026-07-13, 20:13:14",
+      "https://news.ycombinator.com/item?id=48898154"
+    ],
+    [
+      "Show HN: YouTube Guitar Tab Parser",
+      "https://github.com/marcelpanse/youtube-guitar-tab-parser"
+    ]
+  ],
+  [
+    [
+      "2026-07-13, 20:00:10",
+      "https://news.ycombinator.com/item?id=48897975"
+    ],
+    [
+      "Show HN: I implemented a neural network in SQL",
+      "https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py"
+    ]
+  ],
+  [
+    [
+      "2026-07-13, 19:59:50",
+      "https://news.ycombinator.com/item?id=48897969"
+    ],
+    [
+      "Show HN: PlanWright – A control plane for AI coding agents",
+      "https://planwright.tools"
+    ]
+  ],
+  [
+    [
+      "2026-07-13, 19:57:55",
+      "https://news.ycombinator.com/item?id=48897945"
+    ],
+    [
+      "Climate.gov was destroyed. Open data saved it",
+      "https://werd.io/climate-gov-was-destroyed-open-data-saved-it/"
+    ]
+  ],
+  [
+    [
+      "2026-07-13, 19:52:25",
+      "https://news.ycombinator.com/item?id=48897878"
+    ],
+    [
+      "Telegram's t.me domain has been suspended",
+      "https://www.whois.com/whois/t.me"
+    ]
+  ],
+  [
+    [
+      "2026-07-13, 19:50:12",
+      "https://news.ycombinator.com/item?id=48897855"
+    ],
+    [
+      "Section 219, the US-Israel Military Merger, Would Thwart American Democracy",
+      "https://www.commondreams.org/opinion/us-israel-military-merger"
+    ]
+  ],
+  [
+    [
       "2026-07-13, 19:11:17",
       "https://news.ycombinator.com/item?id=48897329"
     ],
     [
       "TFTP Honey Pot Results",
       "https://bruceediger.com/posts/tftp-honeypot-results/"
-    ]
-  ],
-  [
-    [
-      "2026-07-13, 18:45:45",
-      "https://news.ycombinator.com/item?id=48896993"
-    ],
-    [
-      "The Chud Vision of Roman History",
-      "https://acoup.blog/2026/07/10/friday-friday-july-10-2026-on-the-chud-vision-of-roman-history/"
     ]
   ],
   [
@@ -41,16 +91,6 @@
   ],
   [
     [
-      "2026-07-13, 18:28:13",
-      "https://news.ycombinator.com/item?id=48896745"
-    ],
-    [
-      "New Flagship Grok Voices",
-      "https://x.ai/news/new-flagship-voices"
-    ]
-  ],
-  [
-    [
       "2026-07-13, 18:26:04",
       "https://news.ycombinator.com/item?id=48896703"
     ],
@@ -67,16 +107,6 @@
     [
       "Building and Shipping Mac and iOS Apps Without Ever Opening Xcode",
       "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/"
-    ]
-  ],
-  [
-    [
-      "2026-07-13, 18:21:50",
-      "https://news.ycombinator.com/item?id=48896658"
-    ],
-    [
-      "A full body MRI earns you a year of smoking",
-      "https://entropicthoughts.com/full-body-mri-earns-you-a-base-jump"
     ]
   ],
   [
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2026-07-13, 14:02:03",
-      "https://news.ycombinator.com/item?id=48892859"
-    ],
-    [
-      "Show HN: Clawk – Give coding agents a disposable Linux VM, not your laptop",
-      "https://github.com/clawkwork/clawk"
-    ]
-  ],
-  [
-    [
       "2026-07-13, 13:48:42",
       "https://news.ycombinator.com/item?id=48892638"
     ],
@@ -241,12 +261,12 @@
   ],
   [
     [
-      "2026-07-10, 04:52:34",
-      "https://news.ycombinator.com/item?id=48855881"
+      "2026-07-11, 03:24:03",
+      "https://news.ycombinator.com/item?id=48868417"
     ],
     [
-      "Counting ArXiv Delays",
-      "https://fi-le.net/arxiv/"
+      "The Origins of Heikki's Garden of Flowers",
+      "https://garden-of-flowers.heikkilotvonen.com/?essay"
     ]
   ],
   [
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2026-07-09, 07:00:17",
-      "https://news.ycombinator.com/item?id=48841962"
-    ],
-    [
-      "Cursed circuits #6: reverse avalanche oscillator",
-      "https://lcamtuf.substack.com/p/cursed-circuits-6-reverse-avalanche"
-    ]
-  ],
-  [
-    [
       "2026-07-08, 16:53:58",
       "https://news.ycombinator.com/item?id=48834309"
     ],
     [
       "GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years",
       "https://nebusec.ai/research/ionstack-part-2/"
-    ]
-  ],
-  [
-    [
-      "2026-07-08, 14:20:09",
-      "https://news.ycombinator.com/item?id=48832329"
-    ],
-    [
-      "The 'absolute magic' of Morse code that still connects people globally",
-      "https://www.bbc.com/news/articles/cwye0dlzgejo"
     ]
   ],
   [
