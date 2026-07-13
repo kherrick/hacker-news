@@ -28,6 +28,7 @@
 * [2026-07-08, 17:45:26](https://news.ycombinator.com/item?id=48834919) - [PlayStation can delete all your digital games after 3 years of inactivity (EU)](https://www.flatpanelshd.com/news.php?subaction=showfull&id=1783340582)
 * [2026-07-08, 17:43:37](https://news.ycombinator.com/item?id=48834898) - [What Do We Know About the Microplastics Inside Us?](https://e360.yale.edu/features/cassandra-rauert-interview)
 * [2026-07-08, 17:03:19](https://news.ycombinator.com/item?id=48834405) - [GPT‑Live](https://openai.com/index/introducing-gpt-live/)
+* [2026-07-08, 16:53:58](https://news.ycombinator.com/item?id=48834309) - [GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years](https://nebusec.ai/research/ionstack-part-2/)
 * [2026-07-08, 16:53:06](https://news.ycombinator.com/item?id=48834296) - [EU now one step away from reviving private message scanning rules](https://cyberinsider.com/eu-now-one-step-away-from-reviving-private-message-scanning-rules/)
 * [2026-07-08, 16:19:36](https://news.ycombinator.com/item?id=48833866) - [SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence](https://cognition.com/blog/swe-1-7)
 * [2026-07-08, 16:16:12](https://news.ycombinator.com/item?id=48833823) - [Biohacker seeking immortality afflicted with incurable 'stomach eating' disease](https://www.lifesitenews.com/news/biohacker-seeking-immortality-afflicted-with-incurable-stomach-eating-disease/)
