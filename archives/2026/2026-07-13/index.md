@@ -6,6 +6,7 @@
 
 * [2026-07-13, 21:01:00](https://news.ycombinator.com/item?id=48898814) - [SalesPatriot (YC W25) Is Hiring Full Stack Engineers (SF)](https://jobs.ashbyhq.com/SalesPatriot/df223727-5781-433e-bc75-2aa5bf8dc8d7)
 * [2026-07-13, 20:13:14](https://news.ycombinator.com/item?id=48898154) - [Show HN: YouTube Guitar Tab Parser](https://github.com/marcelpanse/youtube-guitar-tab-parser)
+* [2026-07-13, 20:11:29](https://news.ycombinator.com/item?id=48898134) - [Linux 0.11 rewritten in idiomatic Rust, boots in QEMU](https://github.com/Poseidon-fan/linux-0.11-rs)
 * [2026-07-13, 20:07:45](https://news.ycombinator.com/item?id=48898071) - [Show HN: Sigwire – a live TUI switchboard for every signal on your Linux box](https://github.com/yeet-src/sigwire)
 * [2026-07-13, 20:07:09](https://news.ycombinator.com/item?id=48898064) - [The security checks in every Lionshead PR](https://lionshead.digital/notes/the-security-checks-in-every-lionshead-pr)
 * [2026-07-13, 20:01:43](https://news.ycombinator.com/item?id=48897991) - [Samsung will delete your health data if you don't let them use it to train AI](https://neow.in/cWsyMTV3)
