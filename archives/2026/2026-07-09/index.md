@@ -83,6 +83,7 @@
 * [2026-07-09, 08:22:52](https://news.ycombinator.com/item?id=48842611) - [Why developers are ditching GitHub for Codeberg and self-hosting alternatives](https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/)
 * [2026-07-09, 08:05:04](https://news.ycombinator.com/item?id=48842459) - [Show HN: Getting GLM 5.2 running on my slow computer](https://github.com/JustVugg/colibri)
 * [2026-07-09, 07:00:43](https://news.ycombinator.com/item?id=48841963) - [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/P646Yw6-founding-account-executive)
+* [2026-07-09, 07:00:17](https://news.ycombinator.com/item?id=48841962) - [Cursed circuits #6: reverse avalanche oscillator](https://lcamtuf.substack.com/p/cursed-circuits-6-reverse-avalanche)
 * [2026-07-09, 06:18:19](https://news.ycombinator.com/item?id=48841676) - [Postgres rewritten in Rust, now passing 100% of the Postgres regression tests](https://github.com/malisper/pgrust)
 * [2026-07-09, 05:46:50](https://news.ycombinator.com/item?id=48841446) - [AI changes the economics of software rewrites](https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/)
 * [2026-07-09, 05:34:44](https://news.ycombinator.com/item?id=48841385) - [How Donkey Kong Toppled Atari](https://dfarq.homeip.net/how-donkey-kong-toppled-atari/)
