@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-13, 00:26:12](https://news.ycombinator.com/item?id=48886368) - [Gameboy is back ( no signup)](https://gb.omniiii.com/)
 * [2026-07-13, 00:18:16](https://news.ycombinator.com/item?id=48886311) - [MacKenzie Scott's Giving, in Quality-Adjusted Life Years (QALYs)](https://maxghenis.com/mackenzie-scott-qaly/)
 * [2026-07-12, 23:45:35](https://news.ycombinator.com/item?id=48886065) - [Billion Dollar PDFs](https://billiondollarpdf.com/)
 * [2026-07-12, 23:42:41](https://news.ycombinator.com/item?id=48886040) - [Circular Obstacle Pathfinding (2017)](https://redblobgames.github.io/circular-obstacle-pathfinding/)
@@ -7,7 +8,6 @@
 * [2026-07-12, 22:54:07](https://news.ycombinator.com/item?id=48885708) - [Architecture Description Languages [pdf]](https://ics.uci.edu/~taylor/documents/2000-ADLs-TSE.pdf)
 * [2026-07-12, 22:53:51](https://news.ycombinator.com/item?id=48885705) - [Why Vanilla JavaScript](https://guseyn.com/html/posts/why-vanilla-js.html)
 * [2026-07-12, 22:45:31](https://news.ycombinator.com/item?id=48885643) - [Cyberpunk Comics, Manga and Graphic Novels](https://shellzine.net/cyberpunk-comics/)
-* [2026-07-12, 22:29:46](https://news.ycombinator.com/item?id=48885525) - [A Speed Limit for Computers](https://caolan.uk/notes/2026-07-02_a_speed_limit_for_computers.cm)
 * [2026-07-12, 21:45:28](https://news.ycombinator.com/item?id=48885138) - [Profiling the \"Abundance\" housing bottleneck with real data](https://laxmena.com/same-capacity-less-throughput)
 * [2026-07-12, 21:27:29](https://news.ycombinator.com/item?id=48884992) - [Kode Dot Programmable pocket device for makers, pentesters and geeks](https://kode.diy)
 * [2026-07-12, 21:26:41](https://news.ycombinator.com/item?id=48884984) - [Ask HN: What Are You Working On? (July 2026)](https://news.ycombinator.com/item?id=48884984)
@@ -26,10 +26,10 @@
 * [2026-07-12, 15:35:36](https://news.ycombinator.com/item?id=48881967) - [How we can reduce traffic congestion](https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/)
 * [2026-07-12, 11:09:42](https://news.ycombinator.com/item?id=48880170) - [Old and new apps, via modern coding agents](https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/)
 * [2026-07-10, 16:12:52](https://news.ycombinator.com/item?id=48861923) - [Why write code in 2026](https://softwaredoug.com/blog/2026/07/09/write-code)
+* [2026-07-10, 00:06:59](https://news.ycombinator.com/item?id=48854168) - [Vint Cerf, “father of the Internet”, is retiring](https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/)
 * [2026-07-08, 03:28:00](https://news.ycombinator.com/item?id=48827126) - [So you want to learn physics (second edition, 2021)](https://www.susanrigetti.com/physics)
 * [2026-07-07, 19:10:16](https://news.ycombinator.com/item?id=48822234) - [Deir El-Medina Strikes](https://en.wikipedia.org/wiki/Deir_el-Medina_strikes)
 * [2026-07-07, 14:23:26](https://news.ycombinator.com/item?id=48818314) - [A Peek Inside Jim Henson's Creature Shop, Where Whimsical Puppets Are Designed](https://www.smithsonianmag.com/travel/a-peek-inside-jim-hensons-creature-shop-where-sesame-street-characters-and-other-whimsical-puppets-are-designed-180989051/)
-* [2026-07-06, 14:50:06](https://news.ycombinator.com/item?id=48805475) - [Show HN: Agent Draw: An agent draws while you talk, built on TLDraw](https://techstackups.com/articles/tldraw-agent-draw/)
 
 ## [Archives](archives/index.md)
 
