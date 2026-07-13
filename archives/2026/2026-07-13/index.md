@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-07-13](index.md)
 
+* [2026-07-13, 20:13:14](https://news.ycombinator.com/item?id=48898154) - [Show HN: YouTube Guitar Tab Parser](https://github.com/marcelpanse/youtube-guitar-tab-parser)
+* [2026-07-13, 20:00:10](https://news.ycombinator.com/item?id=48897975) - [Show HN: I implemented a neural network in SQL](https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py)
+* [2026-07-13, 19:59:50](https://news.ycombinator.com/item?id=48897969) - [Show HN: PlanWright – A control plane for AI coding agents](https://planwright.tools)
+* [2026-07-13, 19:57:55](https://news.ycombinator.com/item?id=48897945) - [Climate.gov was destroyed. Open data saved it](https://werd.io/climate-gov-was-destroyed-open-data-saved-it/)
+* [2026-07-13, 19:52:25](https://news.ycombinator.com/item?id=48897878) - [Telegram's t.me domain has been suspended](https://www.whois.com/whois/t.me)
+* [2026-07-13, 19:50:12](https://news.ycombinator.com/item?id=48897855) - [Section 219, the US-Israel Military Merger, Would Thwart American Democracy](https://www.commondreams.org/opinion/us-israel-military-merger)
 * [2026-07-13, 19:11:17](https://news.ycombinator.com/item?id=48897329) - [TFTP Honey Pot Results](https://bruceediger.com/posts/tftp-honeypot-results/)
 * [2026-07-13, 18:53:53](https://news.ycombinator.com/item?id=48897104) - [The infinite scroll may become endangered if controversial Calif. law passes](https://www.sfgate.com/politics/article/meta-social-media-teenagers-22337724.php)
 * [2026-07-13, 18:45:45](https://news.ycombinator.com/item?id=48896993) - [The Chud Vision of Roman History](https://acoup.blog/2026/07/10/friday-friday-july-10-2026-on-the-chud-vision-of-roman-history/)
