@@ -4,10 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-07-13](index.md)
 
+* [2026-07-13, 16:06:08](https://news.ycombinator.com/item?id=48894752) - [Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor](https://get-inscribe.com/blog/apple-speech-api-benchmark.html)
+* [2026-07-13, 15:59:36](https://news.ycombinator.com/item?id=48894671) - [Wikipedia escapes Category 1 designation under the UK Online Safety Act for now](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-07-13/Special_report)
+* [2026-07-13, 15:56:39](https://news.ycombinator.com/item?id=48894641) - [DOGE is done. What happened to its records?](https://www.ms.now/opinion/doge-government-efficiency-records-job-cuts-elon-musk-foia)
+* [2026-07-13, 15:56:22](https://news.ycombinator.com/item?id=48894637) - [Go-Flavored Concurrency in C](https://antonz.org/concurrency-in-c/)
 * [2026-07-13, 15:11:50](https://news.ycombinator.com/item?id=48893947) - [LAPD lets contract with surveillance giant Flock expire](https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/)
 * [2026-07-13, 14:52:33](https://news.ycombinator.com/item?id=48893639) - [The art and engineering of Sega CD Silpheed](https://fabiensanglard.net/silpheed/index.html)
 * [2026-07-13, 14:39:38](https://news.ycombinator.com/item?id=48893446) - [Precursor](https://blog.cloudflare.com/introducing-precursor/)
 * [2026-07-13, 14:02:03](https://news.ycombinator.com/item?id=48892859) - [Show HN: Clawk – Give coding agents a disposable Linux VM, not your laptop](https://github.com/clawkwork/clawk)
+* [2026-07-13, 13:48:42](https://news.ycombinator.com/item?id=48892638) - [Benchmarking 15 \"E-Waste\" GPUs with Modern Workloads](https://esologic.com/benchmarking-tesla-gpus/)
 * [2026-07-13, 13:39:59](https://news.ycombinator.com/item?id=48892512) - [Grok uploaded my user directory to xAI's servers](https://twitter.com/a_green_being/status/2076598897779020159)
 * [2026-07-13, 13:35:32](https://news.ycombinator.com/item?id=48892468) - [Grok CLI uploaded the whole home directory to GCS](https://twitter.com/i/status/2076598897779020159)
 * [2026-07-13, 12:09:38](https://news.ycombinator.com/item?id=48891463) - [Leak of San Francisco Police Drone Footage Exposes Reality of Urban Surveillance](https://www.wired.com/story/sfpd-drone-video-leak-surveillance/)
