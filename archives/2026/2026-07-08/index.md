@@ -38,6 +38,7 @@
 * [2026-07-08, 15:19:50](https://news.ycombinator.com/item?id=48833116) - [Chatto is now Open Source](https://www.hmans.dev/blog/chatto-is-open-source)
 * [2026-07-08, 15:16:17](https://news.ycombinator.com/item?id=48833071) - [Answering \"why do you want to relocate?\" during interviews](https://relocateme.substack.com/p/a-mistake-to-avoid-during-relocation)
 * [2026-07-08, 14:54:59](https://news.ycombinator.com/item?id=48832797) - [Show HN: Abralo – Free, easy way to run several Claude Code agents in one window](https://abralo.com/)
+* [2026-07-08, 14:20:09](https://news.ycombinator.com/item?id=48832329) - [The 'absolute magic' of Morse code that still connects people globally](https://www.bbc.com/news/articles/cwye0dlzgejo)
 * [2026-07-08, 14:15:16](https://news.ycombinator.com/item?id=48832274) - [Taiwan's Lost 8-Bit Computer [video]](https://www.youtube.com/watch?v=IZH1rR7WogI)
 * [2026-07-08, 14:12:19](https://news.ycombinator.com/item?id=48832247) - [Tiny Tapeout Explorer: WASM FET-level circuit SIM&vis](https://znah.net/tiny_explorer/)
 * [2026-07-08, 14:09:17](https://news.ycombinator.com/item?id=48832212) - [Mistral's Robostral Navigate: a state of the art robotics navigation model](https://mistral.ai/news/robostral-navigate/)
