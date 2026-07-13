@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-07-13, 08:39:39",
+      "https://news.ycombinator.com/item?id=48889637"
+    ],
+    [
+      "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+      "https://raymyers.org/post/zed-creator-calls-spade-a-spade/"
+    ]
+  ],
+  [
+    [
+      "2026-07-13, 08:15:52",
+      "https://news.ycombinator.com/item?id=48889429"
+    ],
+    [
+      "Berkshire's $397B Bet Against an Overheated Market",
+      "https://www.disruptionbanking.com/2026/07/13/inside-berkshires-397-billion-bet-against-an-overheated-market/"
+    ]
+  ],
+  [
+    [
+      "2026-07-13, 08:04:30",
+      "https://news.ycombinator.com/item?id=48889350"
+    ],
+    [
+      "Interrail: 6,379Km and 13 Countries over 7 weeks",
+      "https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/"
+    ]
+  ],
+  [
+    [
       "2026-07-13, 07:37:06",
       "https://news.ycombinator.com/item?id=48889148"
     ],
@@ -31,22 +61,22 @@
   ],
   [
     [
+      "2026-07-13, 05:35:27",
+      "https://news.ycombinator.com/item?id=48888331"
+    ],
+    [
+      "The Graph That Should Be Front-Page News",
+      "https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news"
+    ]
+  ],
+  [
+    [
       "2026-07-13, 05:15:14",
       "https://news.ycombinator.com/item?id=48888193"
     ],
     [
       "Beavis Ultrasound PnP ISA Sound Card Replica",
       "https://github.com/schlae/BeavisUltrasound"
-    ]
-  ],
-  [
-    [
-      "2026-07-13, 04:00:54",
-      "https://news.ycombinator.com/item?id=48887753"
-    ],
-    [
-      "Count Binface",
-      "https://countbinface.com"
     ]
   ],
   [
@@ -67,16 +97,6 @@
     [
       "Designing and assembling my first PCB",
       "https://vilkeliskis.com/b/2026/0711.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-12, 22:53:51",
-      "https://news.ycombinator.com/item?id=48885705"
-    ],
-    [
-      "Why Vanilla JavaScript",
-      "https://guseyn.com/html/posts/why-vanilla-js.html"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2026-07-12, 16:54:47",
-      "https://news.ycombinator.com/item?id=48882554"
-    ],
-    [
-      "Automation Without Understanding",
-      "https://arxiv.org/abs/2607.06377"
-    ]
-  ],
-  [
-    [
       "2026-07-12, 15:47:16",
       "https://news.ycombinator.com/item?id=48882056"
     ],
@@ -187,16 +197,6 @@
     [
       "How we can reduce traffic congestion",
       "https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/"
-    ]
-  ],
-  [
-    [
-      "2026-07-12, 01:09:50",
-      "https://news.ycombinator.com/item?id=48877371"
-    ],
-    [
-      "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
-      "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547"
     ]
   ],
   [
@@ -241,22 +241,22 @@
   ],
   [
     [
-      "2026-07-09, 13:09:21",
-      "https://news.ycombinator.com/item?id=48845252"
-    ],
-    [
-      "Tracking unique visitors without cookies",
-      "https://inmargin.io/blog/tracking-unique-visitors-without-cookies"
-    ]
-  ],
-  [
-    [
       "2026-07-09, 12:04:36",
       "https://news.ycombinator.com/item?id=48844554"
     ],
     [
       "Converting colors in JavaScript at 6B operations per second",
       "https://dkryaklin.com/blog/colordx-gpu"
+    ]
+  ],
+  [
+    [
+      "2026-07-09, 10:45:36",
+      "https://news.ycombinator.com/item?id=48843775"
+    ],
+    [
+      "Frieve Vinyl Explained – Microscopic stylus/groove physics simulation",
+      "https://frieve-a.github.io/sound_toolbox/vinyl_explained/vinyl_explained.html"
     ]
   ],
   [
