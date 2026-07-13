@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-12](index.md)
 
+* [2026-07-12, 23:45:35](https://news.ycombinator.com/item?id=48886065) - [Billion Dollar PDFs](https://billiondollarpdf.com/)
+* [2026-07-12, 23:42:41](https://news.ycombinator.com/item?id=48886040) - [Circular Obstacle Pathfinding (2017)](https://redblobgames.github.io/circular-obstacle-pathfinding/)
 * [2026-07-12, 23:05:14](https://news.ycombinator.com/item?id=48885779) - [How to Get What You Want](https://andys.blog/how-to-get-what-you-want/)
 * [2026-07-12, 22:56:56](https://news.ycombinator.com/item?id=48885728) - [Designing and assembling my first PCB](https://vilkeliskis.com/b/2026/0711.html)
 * [2026-07-12, 22:54:07](https://news.ycombinator.com/item?id=48885708) - [Architecture Description Languages [pdf]](https://ics.uci.edu/~taylor/documents/2000-ADLs-TSE.pdf)

@@ -54,6 +54,7 @@
 * [2026-07-07, 15:13:01](https://news.ycombinator.com/item?id=48818963) - [Amazon Without the Knockoffs](https://knockoff.shopping/)
 * [2026-07-07, 15:11:08](https://news.ycombinator.com/item?id=48818937) - [Automating AI Away](https://replicated.live/blog/away)
 * [2026-07-07, 14:41:56](https://news.ycombinator.com/item?id=48818544) - [The Revenge of the Philosophy Majors](https://www.nytimes.com/2026/07/05/business/philosophy-majors-ai-jobs.html)
+* [2026-07-07, 14:23:26](https://news.ycombinator.com/item?id=48818314) - [A Peek Inside Jim Henson's Creature Shop, Where Whimsical Puppets Are Designed](https://www.smithsonianmag.com/travel/a-peek-inside-jim-hensons-creature-shop-where-sesame-street-characters-and-other-whimsical-puppets-are-designed-180989051/)
 * [2026-07-07, 14:23:15](https://news.ycombinator.com/item?id=48818311) - [Chat Control 1.0 and 2.0 Explained](https://fightchatcontrol.eu/chat-control-overview)
 * [2026-07-07, 14:19:34](https://news.ycombinator.com/item?id=48818271) - [Sodium-ion \"salt\" batteries will revolutionize electric-vehicle and grid storage](https://www.newscientist.com/article/2532997-salt-batteries-are-about-to-shake-up-evs-and-grid-storage/)
 * [2026-07-07, 14:14:36](https://news.ycombinator.com/item?id=48818192) - [Distributed System Is Slower Than a Laptop](https://codegood.co/writing/your-distributed-system-is-slower-than-a-laptop)
