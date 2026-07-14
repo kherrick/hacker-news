@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-14, 12:56:25",
+      "https://news.ycombinator.com/item?id=48906125"
+    ],
+    [
+      "Proof of Care in the Age of A.I",
+      "https://jacobfilipp.com/care/"
+    ]
+  ],
+  [
+    [
+      "2026-07-14, 12:56:21",
+      "https://news.ycombinator.com/item?id=48906123"
+    ],
+    [
+      "Tensor Is the Might",
+      "https://zserge.com/posts/tensor/"
+    ]
+  ],
+  [
+    [
       "2026-07-14, 12:41:25",
       "https://news.ycombinator.com/item?id=48905919"
     ],
@@ -27,6 +47,16 @@
     [
       "Coding agents think ahead of time",
       "https://arxiv.org/abs/2607.05188"
+    ]
+  ],
+  [
+    [
+      "2026-07-14, 12:21:46",
+      "https://news.ycombinator.com/item?id=48905667"
+    ],
+    [
+      "Differentiable Fortran with LFortran and Enzyme",
+      "https://docs.pasteurlabs.ai/projects/tesseract-core/latest/blog/2026-07-09-enzyme-lfortran-autodiff.html"
     ]
   ],
   [
@@ -181,42 +211,12 @@
   ],
   [
     [
-      "2026-07-14, 01:55:24",
-      "https://news.ycombinator.com/item?id=48901356"
-    ],
-    [
-      "Satellite Tracker – Live Map of Starlink and 30k Satellites",
-      "https://satellitemap.space/"
-    ]
-  ],
-  [
-    [
-      "2026-07-14, 01:36:13",
-      "https://news.ycombinator.com/item?id=48901235"
-    ],
-    [
-      "Is x86 ready to ACE it?",
-      "https://chipsandcheese.com/p/is-x86-ready-to-ace-it"
-    ]
-  ],
-  [
-    [
       "2026-07-14, 01:35:23",
       "https://news.ycombinator.com/item?id=48901224"
     ],
     [
       "The Economics of Recursive Self-Improvement [pdf]",
       "https://elasticity.institute/rsi-paper.pdf"
-    ]
-  ],
-  [
-    [
-      "2026-07-14, 01:17:30",
-      "https://news.ycombinator.com/item?id=48901126"
-    ],
-    [
-      "MorphoHDL: A minimalistic language for growing circuits",
-      "https://paradigms-of-intelligence.github.io/morpho/"
     ]
   ],
   [
@@ -271,22 +271,22 @@
   ],
   [
     [
+      "2026-07-11, 09:08:08",
+      "https://news.ycombinator.com/item?id=48870217"
+    ],
+    [
+      "Kids (With Phones) Are Alright",
+      "https://heatherburns.tech/2026/07/08/the-kids-with-phones-are-alright/"
+    ]
+  ],
+  [
+    [
       "2026-07-11, 08:21:27",
       "https://news.ycombinator.com/item?id=48869989"
     ],
     [
       "Your 'App' Could Have Been a Webpage (so I fixed it for you)",
       "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/"
-    ]
-  ],
-  [
-    [
-      "2026-07-09, 15:16:43",
-      "https://news.ycombinator.com/item?id=48847365"
-    ],
-    [
-      "Dmars – A modern Core Wars toolchain",
-      "https://dmars.drpz.xyz/"
     ]
   ],
   [
