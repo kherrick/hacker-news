@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-14](index.md)
 
+* [2026-07-14, 22:46:41](https://news.ycombinator.com/item?id=48913894) - [QR-Swastika-Avoider](https://crates.io/crates/qr-swastika-avoider)
+* [2026-07-14, 22:30:47](https://news.ycombinator.com/item?id=48913763) - [LeMario: Training a JEPA World Model on Super Mario Bros](https://www.benjamin-bai.com/projects/lemario)
 * [2026-07-14, 21:58:36](https://news.ycombinator.com/item?id=48913443) - [Financing the AI boom: from cash flows to debt [pdf]](https://www.bis.org/publ/bisbull120.pdf)
 * [2026-07-14, 21:35:52](https://news.ycombinator.com/item?id=48913220) - [Microsoft Deletes User's 25-Year-Old Account with Thousands Spent on Games](https://xcancel.com/JoshuaKhane/status/2076918699248803977)
 * [2026-07-14, 21:15:51](https://news.ycombinator.com/item?id=48913050) - [Dependabot version updates introduce default package cooldown](https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/)
@@ -11,6 +13,7 @@
 * [2026-07-14, 19:55:31](https://news.ycombinator.com/item?id=48912175) - [How I use HTMX with Go](https://www.alexedwards.net/blog/how-i-use-htmx-with-go)
 * [2026-07-14, 19:48:36](https://news.ycombinator.com/item?id=48912100) - [StubHub's 'marketplace for fans' is run by a mass scalper, SEC filings reveal](https://www.cbc.ca/news/world/stubhub-ceo-class-action-scalping-9.7268987)
 * [2026-07-14, 19:39:28](https://news.ycombinator.com/item?id=48911998) - [Show HN: A Free RSS reader with a configurable recommendation engine](https://sprinklz.io/feed/home)
+* [2026-07-14, 18:54:52](https://news.ycombinator.com/item?id=48911452) - [Microsoft deleted my account and OneDrive](https://twitter.com/JoshuaKhane/status/2076918699248803977)
 * [2026-07-14, 17:58:35](https://news.ycombinator.com/item?id=48910676) - [Cursor 0day: When Full Disclosure Becomes the Only Protection Left](https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left)
 * [2026-07-14, 17:50:48](https://news.ycombinator.com/item?id=48910545) - [Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone](https://prismml.com/news/bonsai-27b)
 * [2026-07-14, 17:00:17](https://news.ycombinator.com/item?id=48909820) - [Kontigo (YC S24) Is Hiring (Head of Security)](https://www.ycombinator.com/companies/kontigo/jobs/uNttrlv-head-of-security)
@@ -35,6 +38,7 @@
 * [2026-07-14, 12:21:46](https://news.ycombinator.com/item?id=48905667) - [Differentiable Fortran with LFortran and Enzyme](https://docs.pasteurlabs.ai/projects/tesseract-core/latest/blog/2026-07-09-enzyme-lfortran-autodiff.html)
 * [2026-07-14, 11:49:48](https://news.ycombinator.com/item?id=48905290) - [Germany set to restrict its Freedom of Information Act](https://www.dw.com/en/germany-freedom-of-information-act/a-77939695)
 * [2026-07-14, 11:46:02](https://news.ycombinator.com/item?id=48905248) - [How to stop Claude from saying load-bearing](https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing)
+* [2026-07-14, 11:40:34](https://news.ycombinator.com/item?id=48905183) - [Mathematical texts from a Maya site in Guatemala identify an ancient astronomer](https://www.nature.com/articles/d41586-026-02170-8)
 * [2026-07-14, 11:33:19](https://news.ycombinator.com/item?id=48905118) - [Punch Yourself in the Face with Reality](https://adi.bio/reality)
 * [2026-07-14, 11:31:59](https://news.ycombinator.com/item?id=48905105) - [No Spanish Reading Crisis?](https://www.commonreader.co.uk/p/no-spanish-reading-crisis)
 * [2026-07-14, 11:30:36](https://news.ycombinator.com/item?id=48905091) - [Codex scraped the ICM website and discovered 2026 Fields Medal winner list](https://phemex.com/news/article/2026-fields-medal-winners-list-leaked-includes-two-peking-university-alumni-92948)
