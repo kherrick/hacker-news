@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-14, 02:47:54",
+      "https://news.ycombinator.com/item?id=48901695"
+    ],
+    [
+      "Agents.md – Dumb Human",
+      "https://gist.github.com/skorotkiewicz/2d4db4ceaf83aa54eb7f2066fdb961ff"
+    ]
+  ],
+  [
+    [
+      "2026-07-14, 02:40:41",
+      "https://news.ycombinator.com/item?id=48901645"
+    ],
+    [
+      "Our Amish Language",
+      "https://www.thedial.world/articles/news/amish-pennsylvania-dutch"
+    ]
+  ],
+  [
+    [
       "2026-07-14, 02:27:20",
       "https://news.ycombinator.com/item?id=48901569"
     ],
@@ -161,26 +181,6 @@
   ],
   [
     [
-      "2026-07-13, 20:00:10",
-      "https://news.ycombinator.com/item?id=48897975"
-    ],
-    [
-      "Show HN: I implemented a neural network in SQL",
-      "https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py"
-    ]
-  ],
-  [
-    [
-      "2026-07-13, 19:52:25",
-      "https://news.ycombinator.com/item?id=48897878"
-    ],
-    [
-      "Telegram's t.me domain has been suspended",
-      "https://www.whois.com/whois/t.me"
-    ]
-  ],
-  [
-    [
       "2026-07-13, 19:11:17",
       "https://news.ycombinator.com/item?id=48897329"
     ],
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2026-07-13, 11:18:30",
-      "https://news.ycombinator.com/item?id=48890959"
+      "2026-07-11, 15:23:54",
+      "https://news.ycombinator.com/item?id=48872833"
     ],
     [
-      "A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese",
-      "https://jivx.com/densha"
+      "How to build a circular LCD clock",
+      "https://blinry.org/lcd-clock/"
     ]
   ],
   [
