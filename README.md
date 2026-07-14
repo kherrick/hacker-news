@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-07-14, 17:50:48](https://news.ycombinator.com/item?id=48910545) - [Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone](https://prismml.com/news/bonsai-27b)
+* [2026-07-14, 17:58:35](https://news.ycombinator.com/item?id=48910676) - [Cursor 0day: When Full Disclosure Becomes the Only Protection Left](https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left)
+* [2026-07-14, 17:50:48](https://news.ycombinator.com/item?id=48910545) - [Bonsai 27B: A 27B-Class Model that runs on a phone](https://prismml.com/news/bonsai-27b)
 * [2026-07-14, 17:00:17](https://news.ycombinator.com/item?id=48909820) - [Kontigo (YC S24) Is Hiring (Head of Security)](https://www.ycombinator.com/companies/kontigo/jobs/uNttrlv-head-of-security)
 * [2026-07-14, 16:57:54](https://news.ycombinator.com/item?id=48909785) - [The Tower Keeps Rising](https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/)
 * [2026-07-14, 16:56:48](https://news.ycombinator.com/item?id=48909768) - [S&P downgrades Oracle to BBB – only one notch above junk level](https://www.heise.de/en/news/S-P-downgrades-Oracle-to-BBB-only-one-notch-above-junk-level-11363472.html)
@@ -11,7 +12,6 @@
 * [2026-07-14, 14:39:56](https://news.ycombinator.com/item?id=48907672) - [The Agentic Loop: Three loops in a trench coat](https://www.bobbytables.io/p/the-agentic-loop-three-loops-in-a)
 * [2026-07-14, 12:41:25](https://news.ycombinator.com/item?id=48905919) - [Show HN: I RL-trained an agent that trains models with RL (for –$1.3k)](https://github.com/Danau5tin/ai-trains-ai)
 * [2026-07-14, 12:40:50](https://news.ycombinator.com/item?id=48905914) - [Beautiful Type Erasure with C++26 Reflection](https://ryanjk5.github.io/posts/rjk-duck/)
-* [2026-07-14, 12:21:46](https://news.ycombinator.com/item?id=48905667) - [Differentiable Fortran with LFortran and Enzyme](https://docs.pasteurlabs.ai/projects/tesseract-core/latest/blog/2026-07-09-enzyme-lfortran-autodiff.html)
 * [2026-07-14, 11:46:02](https://news.ycombinator.com/item?id=48905248) - [How to stop Claude from saying load-bearing](https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing)
 * [2026-07-14, 11:33:19](https://news.ycombinator.com/item?id=48905118) - [Punch yourself in the face with reality](https://adi.bio/reality)
 * [2026-07-14, 11:31:59](https://news.ycombinator.com/item?id=48905105) - [No Spanish reading crisis?](https://www.commonreader.co.uk/p/no-spanish-reading-crisis)
