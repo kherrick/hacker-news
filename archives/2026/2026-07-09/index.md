@@ -33,6 +33,7 @@
 * [2026-07-09, 16:42:39](https://news.ycombinator.com/item?id=48848741) - [Ask HN: Does anyone let AI agents play games just for fun?](https://news.ycombinator.com/item?id=48848741)
 * [2026-07-09, 16:21:44](https://news.ycombinator.com/item?id=48848425) - [AI 2040: Plan A](https://ai-2040.com/)
 * [2026-07-09, 16:00:58](https://news.ycombinator.com/item?id=48848111) - [Auditory and spontaneous movement responses to music over first postnatal year](https://elifesciences.org/articles/107088)
+* [2026-07-09, 15:50:40](https://news.ycombinator.com/item?id=48847943) - [The tiny cell that wasn't there](https://grist.org/science/nitrogen-cycle-cell-discovery-nitroplast-science-fertilizer-algae-bacteria/)
 * [2026-07-09, 15:50:09](https://news.ycombinator.com/item?id=48847940) - [AI Content Is Everywhere on Social Media, Especially LinkedIn](https://www.pangram.com/blog/ai-in-your-feed)
 * [2026-07-09, 15:45:17](https://news.ycombinator.com/item?id=48847834) - [Show HN: Reverse-engineering web apps into agent tools](https://news.ycombinator.com/item?id=48847834)
 * [2026-07-09, 15:30:15](https://news.ycombinator.com/item?id=48847577) - [Show HN: Sighthound - open-source vulnerability scanner for source code](https://github.com/Corgea/Sighthound)
