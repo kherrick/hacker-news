@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-13](index.md)
 
+* [2026-07-13, 23:39:10](https://news.ycombinator.com/item?id=48900432) - [What are Forward Deployed Engineers, and why are they so in demand? (2025)](https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers)
+* [2026-07-13, 23:26:52](https://news.ycombinator.com/item?id=48900319) - [Show HN: Sx 2.0 – Share AI skills with your team through a Dropbox folder](https://sleuth-io.github.io/sx/2026/07/10/your-dropbox-is-now-a-skill-server.html)
 * [2026-07-13, 23:12:22](https://news.ycombinator.com/item?id=48900191) - [An Englishwoman who sketched India before photography took hold](https://www.bbc.com/news/articles/cm2drrv6q54o)
 * [2026-07-13, 22:40:55](https://news.ycombinator.com/item?id=48899888) - [Manifest Man](https://www.thenewcritic.com/p/manifest-man)
 * [2026-07-13, 22:26:34](https://news.ycombinator.com/item?id=48899741) - [California rocked by another earthquake that will unleash the Big One](https://www.dailymail.com/sciencetech/article-15973745/california-earthquake-unlocks-san-andreas-garlock.html)
@@ -20,6 +22,7 @@
 * [2026-07-13, 20:01:43](https://news.ycombinator.com/item?id=48897991) - [Samsung will delete your health data if you don't let them use it to train AI](https://neow.in/cWsyMTV3)
 * [2026-07-13, 20:00:10](https://news.ycombinator.com/item?id=48897975) - [Show HN: I implemented a neural network in SQL](https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py)
 * [2026-07-13, 19:59:50](https://news.ycombinator.com/item?id=48897969) - [Show HN: PlanWright – A control plane for AI coding agents](https://planwright.tools)
+* [2026-07-13, 19:57:55](https://news.ycombinator.com/item?id=48897945) - [Former NOAA employees built Climate.us to preserve climate data and resources](https://19thnews.org/2026/07/noaa-climate-data-website/)
 * [2026-07-13, 19:57:55](https://news.ycombinator.com/item?id=48897945) - [Climate.gov was destroyed. Open data saved it](https://werd.io/climate-gov-was-destroyed-open-data-saved-it/)
 * [2026-07-13, 19:52:25](https://news.ycombinator.com/item?id=48897878) - [Telegram's t.me domain has been suspended](https://www.whois.com/whois/t.me)
 * [2026-07-13, 19:51:15](https://news.ycombinator.com/item?id=48897861) - [AI Is a Bad Tool](https://bytecode.news/posts/2026/07/user-submission-ai-is-a-bad-tool)
