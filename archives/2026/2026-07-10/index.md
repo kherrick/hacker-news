@@ -12,6 +12,7 @@
 * [2026-07-10, 21:03:38](https://news.ycombinator.com/item?id=48865238) - [Prismata: Confining cross-site prompt injection in web agents](https://arxiv.org/abs/2607.08147)
 * [2026-07-10, 20:52:28](https://news.ycombinator.com/item?id=48865093) - [GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps](https://www.tryai.dev/blog/gpt-5.6-build-off-12-models)
 * [2026-07-10, 20:47:09](https://news.ycombinator.com/item?id=48865019) - [Apple sues OpenAI, accuses ex-employees of stealing trade secrets](https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/)
+* [2026-07-10, 20:45:43](https://news.ycombinator.com/item?id=48865001) - [The zero-cost fallacy: open-source software in the agentic era](https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era)
 * [2026-07-10, 20:43:02](https://news.ycombinator.com/item?id=48864969) - [GhostLock, a stack-UAF that has existed in ALL Linux distributions for 15 years](https://nebusec.ai/research/ionstack-part-2/)
 * [2026-07-10, 20:29:55](https://news.ycombinator.com/item?id=48864825) - [Software Engineer's Firing Ruled Illegal in a Rare Win for a Tech Worker](https://www.nytimes.com/2026/07/10/business/atlassian-tech-worker-wrongful-termination.html)
 * [2026-07-10, 20:00:28](https://news.ycombinator.com/item?id=48864507) - [Don't discontinue Gemini 2.5 Flash](https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246)
