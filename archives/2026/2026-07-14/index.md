@@ -14,6 +14,7 @@
 * [2026-07-14, 15:20:36](https://news.ycombinator.com/item?id=48908214) - [I'm a USB-C Maximalist](https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/)
 * [2026-07-14, 15:18:13](https://news.ycombinator.com/item?id=48908178) - [Are we offloading too much of our thinking to AI?](https://www.artfish.ai/p/offloading-thinking-to-ai)
 * [2026-07-14, 14:39:56](https://news.ycombinator.com/item?id=48907672) - [The Agentic Loop: Three loops in a trench coat](https://www.bobbytables.io/p/the-agentic-loop-three-loops-in-a)
+* [2026-07-14, 14:39:25](https://news.ycombinator.com/item?id=48907665) - [IBM Stock has worst day](https://www.cnn.com/2026/07/14/tech/ibm-stock-worst-day-ever)
 * [2026-07-14, 14:17:54](https://news.ycombinator.com/item?id=48907296) - [New York becomes the first state to impose a data center moratorium](https://www.reuters.com/world/new-york-becomes-first-state-impose-data-center-moratorium-2026-07-14/)
 * [2026-07-14, 14:17:39](https://news.ycombinator.com/item?id=48907290) - [A Philosopher's One-Word Theory to Explain Why the World Feels So Weird](https://www.derekthompson.org/p/a-philosophers-one-word-theory-to)
 * [2026-07-14, 14:12:39](https://news.ycombinator.com/item?id=48907214) - [OpenAI mandates hardware-backed passkeys for Trusted Access Cyber members](https://www.yubico.com/blog/openai-mandates-hardware-backed-passkeys-for-trusted-access-cyber-members-to-log-into-chatgpt-accounts/)
