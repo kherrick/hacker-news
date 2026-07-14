@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2026-07-13, 21:01:00",
-      "https://news.ycombinator.com/item?id=48898814"
-    ],
-    [
-      "SalesPatriot (YC W25) Is Hiring Full Stack Engineers (SF)",
-      "https://jobs.ashbyhq.com/SalesPatriot/df223727-5781-433e-bc75-2aa5bf8dc8d7"
-    ]
-  ],
-  [
-    [
       "2026-07-13, 20:11:29",
       "https://news.ycombinator.com/item?id=48898134"
     ],
@@ -207,6 +197,16 @@
     [
       "Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?",
       "https://cakehonolulu.github.io/linux-on-32x/"
+    ]
+  ],
+  [
+    [
+      "2026-07-13, 14:02:03",
+      "https://news.ycombinator.com/item?id=48892859"
+    ],
+    [
+      "Show HN: Clawk – Give coding agents a disposable Linux VM, not your laptop",
+      "https://github.com/clawkwork/clawk"
     ]
   ],
   [
