@@ -1,32 +1,32 @@
 [
   [
     [
-      "2026-07-14, 07:06:50",
-      "https://news.ycombinator.com/item?id=48903190"
+      "2026-07-14, 08:24:49",
+      "https://news.ycombinator.com/item?id=48903715"
     ],
     [
-      "The Anatomy of an Instruction Pipeline Hazard",
-      "https://hiraditya.github.io/posts/hardware-hazards-b200/"
+      "Alternative(s) to run CUDA on non-Nvidia hardware",
+      "https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/"
     ]
   ],
   [
     [
-      "2026-07-14, 06:48:47",
-      "https://news.ycombinator.com/item?id=48903102"
+      "2026-07-14, 06:43:28",
+      "https://news.ycombinator.com/item?id=48903082"
     ],
     [
-      "Show HN: Benchmark your eng team's AI agent maturity in 5 minutes",
-      "https://agent-benchmarks.com/software-factory/"
+      "Indian scientists produce most detailed 3D atlas of the human brainstem",
+      "https://www.bbc.com/news/articles/cg53l737v1qo"
     ]
   ],
   [
     [
-      "2026-07-14, 05:21:02",
-      "https://news.ycombinator.com/item?id=48902599"
+      "2026-07-14, 05:57:50",
+      "https://news.ycombinator.com/item?id=48902791"
     ],
     [
-      "OpenAI's Ad Business Is on Pace to Miss Its Own Forecast by 90%, Analyst Says",
-      "https://www.adweek.com/media/openais-ad-business-is-on-pace-to-miss-its-own-forecast-by-90-analyst-says/"
+      "Just Let Me Write Digits",
+      "https://gendx.dev/blog/2026/07/13/input-digits.html"
     ]
   ],
   [
@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2026-07-14, 01:44:40",
+      "https://news.ycombinator.com/item?id=48901292"
+    ],
+    [
+      "What will be left for us to work on?",
+      "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work"
+    ]
+  ],
+  [
+    [
       "2026-07-14, 01:41:49",
       "https://news.ycombinator.com/item?id=48901275"
     ],
@@ -135,8 +145,18 @@
       "https://news.ycombinator.com/item?id=48901010"
     ],
     [
-      "The Git history command deserves more attention",
+      "The git history command",
       "https://lalitm.com/post/git-history/"
+    ]
+  ],
+  [
+    [
+      "2026-07-13, 23:39:10",
+      "https://news.ycombinator.com/item?id=48900432"
+    ],
+    [
+      "What are Forward Deployed Engineers, and why are they so in demand? (2025)",
+      "https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers"
     ]
   ],
   [
@@ -161,12 +181,12 @@
   ],
   [
     [
-      "2026-07-13, 20:00:10",
-      "https://news.ycombinator.com/item?id=48897975"
+      "2026-07-13, 20:11:29",
+      "https://news.ycombinator.com/item?id=48898134"
     ],
     [
-      "Show HN: I implemented a neural network in SQL",
-      "https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py"
+      "Linux 0.11 rewritten in idiomatic Rust, boots in QEMU",
+      "https://github.com/Poseidon-fan/linux-0.11-rs"
     ]
   ],
   [
@@ -201,32 +221,12 @@
   ],
   [
     [
-      "2026-07-13, 16:06:08",
-      "https://news.ycombinator.com/item?id=48894752"
-    ],
-    [
-      "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
-      "https://get-inscribe.com/blog/apple-speech-api-benchmark.html"
-    ]
-  ],
-  [
-    [
       "2026-07-13, 14:39:38",
       "https://news.ycombinator.com/item?id=48893446"
     ],
     [
       "Precursor",
       "https://blog.cloudflare.com/introducing-precursor/"
-    ]
-  ],
-  [
-    [
-      "2026-07-13, 14:02:03",
-      "https://news.ycombinator.com/item?id=48892859"
-    ],
-    [
-      "Show HN: Clawk – Give coding agents a disposable Linux VM, not your laptop",
-      "https://github.com/clawkwork/clawk"
     ]
   ],
   [
