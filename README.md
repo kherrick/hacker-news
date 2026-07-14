@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-14, 19:48:36](https://news.ycombinator.com/item?id=48912100) - [StubHub's 'marketplace for fans' is run by a mass scalper, SEC filings reveal](https://www.cbc.ca/news/world/stubhub-ceo-class-action-scalping-9.7268987)
+* [2026-07-14, 19:39:28](https://news.ycombinator.com/item?id=48911998) - [Show HN: A Free RSS reader with a configurable recommendation engine](https://sprinklz.io/feed/home)
 * [2026-07-14, 17:58:35](https://news.ycombinator.com/item?id=48910676) - [Cursor 0day: When Full Disclosure Becomes the Only Protection Left](https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left)
 * [2026-07-14, 17:50:48](https://news.ycombinator.com/item?id=48910545) - [Bonsai 27B: A 27B-Class Model that runs on a phone](https://prismml.com/news/bonsai-27b)
 * [2026-07-14, 17:00:17](https://news.ycombinator.com/item?id=48909820) - [Kontigo (YC S24) Is Hiring (Head of Security)](https://www.ycombinator.com/companies/kontigo/jobs/uNttrlv-head-of-security)
@@ -19,7 +21,6 @@
 * [2026-07-14, 09:20:07](https://news.ycombinator.com/item?id=48904095) - [Demis Hassabis has a plan to harness AI safely](https://twitter.com/demishassabis/status/2076957440109625718)
 * [2026-07-14, 08:34:57](https://news.ycombinator.com/item?id=48903777) - [European \"age verification\" \"app\" forcing everyone to use Android or iOS](https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19)
 * [2026-07-14, 04:31:48](https://news.ycombinator.com/item?id=48902320) - [Australian energy retailers must offer three hours of free daytime electricity](https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/)
-* [2026-07-13, 04:11:20](https://news.ycombinator.com/item?id=48887810) - [A metallurgist's doubts about self-replicating probes](https://www.centauri-dreams.org/2026/07/10/a-metallurgists-doubts-about-self-replicating-probes/)
 * [2026-07-12, 18:28:15](https://news.ycombinator.com/item?id=48883305) - [Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE](https://github.com/juggler-ai/juggler)
 * [2026-07-11, 23:26:12](https://news.ycombinator.com/item?id=48876809) - [How the FSF sysadmins block botnets with reaction](https://www.fsf.org/blogs/community/blocking-botnets-with-reaction)
 * [2026-07-11, 18:03:11](https://news.ycombinator.com/item?id=48874190) - [The Second Life of Sanskrit](https://openthemagazine.com/india/the-second-life-of-sanskrit)
@@ -29,7 +30,6 @@
 * [2026-07-10, 18:15:27](https://news.ycombinator.com/item?id=48863336) - [Superoptimizer – A Look at the Smallest Program (1987) [pdf]](https://dl.acm.org/doi/epdf/10.1145/36177.36194)
 * [2026-07-09, 18:51:22](https://news.ycombinator.com/item?id=48850688) - [Paxos Made Simple (2001) [pdf]](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf)
 * [2026-07-09, 15:50:40](https://news.ycombinator.com/item?id=48847943) - [A tiny cell that broke a big rule of biology](https://grist.org/science/nitrogen-cycle-cell-discovery-nitroplast-science-fertilizer-algae-bacteria/)
-* [2026-07-09, 09:18:42](https://news.ycombinator.com/item?id=48843120) - [Building a High-Performance C++ Backtesting Framework](https://dolphindb.com/blogs/46)
 
 ## [Archives](archives/index.md)
 
