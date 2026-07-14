@@ -21,6 +21,7 @@
 * [2026-07-14, 09:20:07](https://news.ycombinator.com/item?id=48904095) - [Demis Hassabis has a plan to harness AI safely](https://twitter.com/demishassabis/status/2076957440109625718)
 * [2026-07-14, 08:34:57](https://news.ycombinator.com/item?id=48903777) - [European \"age verification\" \"app\" forcing everyone to use Android or iOS](https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19)
 * [2026-07-14, 04:31:48](https://news.ycombinator.com/item?id=48902320) - [Australian energy retailers must offer three hours of free daytime electricity](https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/)
+* [2026-07-13, 02:51:34](https://news.ycombinator.com/item?id=48887276) - [Show HN: Self-hosted voice AI agent for Asterisk/FreePBX](https://github.com/hkjarral/AVA-AI-Voice-Agent-for-Asterisk)
 * [2026-07-12, 18:28:15](https://news.ycombinator.com/item?id=48883305) - [Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE](https://github.com/juggler-ai/juggler)
 * [2026-07-11, 23:26:12](https://news.ycombinator.com/item?id=48876809) - [How the FSF sysadmins block botnets with reaction](https://www.fsf.org/blogs/community/blocking-botnets-with-reaction)
 * [2026-07-11, 18:03:11](https://news.ycombinator.com/item?id=48874190) - [The Second Life of Sanskrit](https://openthemagazine.com/india/the-second-life-of-sanskrit)
@@ -28,8 +29,7 @@
 * [2026-07-11, 08:21:27](https://news.ycombinator.com/item?id=48869989) - [Your 'app' could have been a webpage (so I fixed it for you)](https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/)
 * [2026-07-10, 20:45:43](https://news.ycombinator.com/item?id=48865001) - [The zero-cost fallacy: open-source software in the agentic era](https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era)
 * [2026-07-10, 18:15:27](https://news.ycombinator.com/item?id=48863336) - [Superoptimizer – A Look at the Smallest Program (1987) [pdf]](https://dl.acm.org/doi/epdf/10.1145/36177.36194)
-* [2026-07-09, 18:51:22](https://news.ycombinator.com/item?id=48850688) - [Paxos Made Simple (2001) [pdf]](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf)
-* [2026-07-09, 15:50:40](https://news.ycombinator.com/item?id=48847943) - [A tiny cell that broke a big rule of biology](https://grist.org/science/nitrogen-cycle-cell-discovery-nitroplast-science-fertilizer-algae-bacteria/)
+* [2026-07-10, 11:36:59](https://news.ycombinator.com/item?id=48858541) - [Accretive Editing](https://justindfuller.com/programming/accretive-editing)
 
 ## [Archives](archives/index.md)
 
