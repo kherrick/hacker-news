@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-07-14](index.md)
 
+* [2026-07-14, 21:15:51](https://news.ycombinator.com/item?id=48913050) - [Dependabot version updates introduce default package cooldown](https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/)
+* [2026-07-14, 21:06:11](https://news.ycombinator.com/item?id=48912947) - [Same model, same Q4_K_M label: 5.02, 5.07 and 5.27 bits per weight](https://github.com/logxio/picchio)
+* [2026-07-14, 19:55:31](https://news.ycombinator.com/item?id=48912175) - [How I use HTMX with Go](https://www.alexedwards.net/blog/how-i-use-htmx-with-go)
 * [2026-07-14, 19:48:36](https://news.ycombinator.com/item?id=48912100) - [StubHub's 'marketplace for fans' is run by a mass scalper, SEC filings reveal](https://www.cbc.ca/news/world/stubhub-ceo-class-action-scalping-9.7268987)
 * [2026-07-14, 19:39:28](https://news.ycombinator.com/item?id=48911998) - [Show HN: A Free RSS reader with a configurable recommendation engine](https://sprinklz.io/feed/home)
 * [2026-07-14, 17:58:35](https://news.ycombinator.com/item?id=48910676) - [Cursor 0day: When Full Disclosure Becomes the Only Protection Left](https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left)
