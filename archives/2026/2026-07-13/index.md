@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-07-13](index.md)
 
+* [2026-07-13, 23:12:22](https://news.ycombinator.com/item?id=48900191) - [An Englishwoman who sketched India before photography took hold](https://www.bbc.com/news/articles/cm2drrv6q54o)
 * [2026-07-13, 22:40:55](https://news.ycombinator.com/item?id=48899888) - [Manifest Man](https://www.thenewcritic.com/p/manifest-man)
 * [2026-07-13, 22:26:34](https://news.ycombinator.com/item?id=48899741) - [California rocked by another earthquake that will unleash the Big One](https://www.dailymail.com/sciencetech/article-15973745/california-earthquake-unlocks-san-andreas-garlock.html)
 * [2026-07-13, 22:19:16](https://news.ycombinator.com/item?id=48899672) - [‘Asia's cleanest village’ bans tourists on Sundays](https://www.bbc.com/travel/article/20260625-why-asias-cleanest-village-bans-tourists-on-sundays)
 * [2026-07-13, 22:14:12](https://news.ycombinator.com/item?id=48899620) - [Show HN: I built a one-prompt hackathon platform, free entry, sponsored prizes](https://1shotchallenge.ai)
 * [2026-07-13, 22:03:54](https://news.ycombinator.com/item?id=48899529) - [Claude is just Mr. Meeseeks](https://github.com/thephw/claude-meseeks)
 * [2026-07-13, 21:44:18](https://news.ycombinator.com/item?id=48899324) - [MIT's New Method Flags AI Models Trained on CASM Without Generating It](https://insideai.news/news/ai-safety/mits-new-method-flags-ai-models-trained-on-child-abuse-imagery-without-generating-it/3869/)
+* [2026-07-13, 21:43:51](https://news.ycombinator.com/item?id=48899321) - [A Study of Microsoft's Early 2026 Rollout of Claude Code and GitHub Copilot CLI](https://arxiv.org/abs/2607.01418)
 * [2026-07-13, 21:01:00](https://news.ycombinator.com/item?id=48898814) - [SalesPatriot (YC W25) Is Hiring Full Stack Engineers (SF)](https://jobs.ashbyhq.com/SalesPatriot/df223727-5781-433e-bc75-2aa5bf8dc8d7)
 * [2026-07-13, 20:13:14](https://news.ycombinator.com/item?id=48898154) - [Show HN: YouTube Guitar Tab Parser](https://github.com/marcelpanse/youtube-guitar-tab-parser)
 * [2026-07-13, 20:11:29](https://news.ycombinator.com/item?id=48898134) - [Linux 0.11 rewritten in idiomatic Rust, boots in QEMU](https://github.com/Poseidon-fan/linux-0.11-rs)
@@ -47,6 +49,7 @@
 * [2026-07-13, 15:56:02](https://news.ycombinator.com/item?id=48894630) - [Show HN: Jacquard, a programming language for AI-written, human-reviewed code](https://github.com/jbwinters/jacquard-lang)
 * [2026-07-13, 15:11:50](https://news.ycombinator.com/item?id=48893947) - [LAPD lets contract with surveillance giant Flock expire](https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/)
 * [2026-07-13, 14:52:33](https://news.ycombinator.com/item?id=48893639) - [The art and engineering of Sega CD Silpheed](https://fabiensanglard.net/silpheed/index.html)
+* [2026-07-13, 14:47:23](https://news.ycombinator.com/item?id=48893550) - [Show HN: Hackney – Compare Uber, Lyft, Waymo, and Robotaxi Prices](https://hackney.app/)
 * [2026-07-13, 14:39:38](https://news.ycombinator.com/item?id=48893446) - [Precursor](https://blog.cloudflare.com/introducing-precursor/)
 * [2026-07-13, 14:02:03](https://news.ycombinator.com/item?id=48892859) - [Show HN: Clawk – Give coding agents a disposable Linux VM, not your laptop](https://github.com/clawkwork/clawk)
 * [2026-07-13, 13:54:10](https://news.ycombinator.com/item?id=48892709) - [Nokia's 14 Years of Mobile-Phone Supremacy Ended in an Afternoon](https://spectrum.ieee.org/nokia-phones-history)
