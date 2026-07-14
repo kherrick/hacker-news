@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-13, 23:39:10",
+      "https://news.ycombinator.com/item?id=48900432"
+    ],
+    [
+      "What are Forward Deployed Engineers, and why are they so in demand? (2025)",
+      "https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers"
+    ]
+  ],
+  [
+    [
+      "2026-07-13, 23:26:52",
+      "https://news.ycombinator.com/item?id=48900319"
+    ],
+    [
+      "Show HN: Sx 2.0 – Share AI skills with your team through a Dropbox folder",
+      "https://sleuth-io.github.io/sx/2026/07/10/your-dropbox-is-now-a-skill-server.html"
+    ]
+  ],
+  [
+    [
       "2026-07-13, 23:12:22",
       "https://news.ycombinator.com/item?id=48900191"
     ],
@@ -11,21 +31,11 @@
   ],
   [
     [
-      "2026-07-13, 22:40:55",
-      "https://news.ycombinator.com/item?id=48899888"
-    ],
-    [
-      "Manifest Man",
-      "https://www.thenewcritic.com/p/manifest-man"
-    ]
-  ],
-  [
-    [
       "2026-07-13, 22:19:16",
       "https://news.ycombinator.com/item?id=48899672"
     ],
     [
-      "‘Asia's cleanest village’ bans tourists on Sundays",
+      "Mawlynnong, India, transformed by tourism, bans visitors on Sundays",
       "https://www.bbc.com/travel/article/20260625-why-asias-cleanest-village-bans-tourists-on-sundays"
     ]
   ],
@@ -35,18 +45,8 @@
       "https://news.ycombinator.com/item?id=48899529"
     ],
     [
-      "Claude is just Mr. Meeseeks",
+      "Claude Code plugin that plays a Mr. Meeseeks voice line whene Claude is waiting",
       "https://github.com/thephw/claude-meseeks"
-    ]
-  ],
-  [
-    [
-      "2026-07-13, 21:44:18",
-      "https://news.ycombinator.com/item?id=48899324"
-    ],
-    [
-      "MIT's New Method Flags AI Models Trained on CASM Without Generating It",
-      "https://insideai.news/news/ai-safety/mits-new-method-flags-ai-models-trained-on-child-abuse-imagery-without-generating-it/3869/"
     ]
   ],
   [
@@ -77,16 +77,6 @@
     [
       "Show HN: YouTube Guitar Tab Parser",
       "https://github.com/marcelpanse/youtube-guitar-tab-parser"
-    ]
-  ],
-  [
-    [
-      "2026-07-13, 20:11:29",
-      "https://news.ycombinator.com/item?id=48898134"
-    ],
-    [
-      "Linux 0.11 rewritten in idiomatic Rust, boots in QEMU",
-      "https://github.com/Poseidon-fan/linux-0.11-rs"
     ]
   ],
   [
@@ -125,8 +115,8 @@
       "https://news.ycombinator.com/item?id=48897945"
     ],
     [
-      "Climate.gov was destroyed. Open data saved it",
-      "https://werd.io/climate-gov-was-destroyed-open-data-saved-it/"
+      "Former NOAA employees built Climate.us to preserve climate data and resources",
+      "https://19thnews.org/2026/07/noaa-climate-data-website/"
     ]
   ],
   [
@@ -175,7 +165,7 @@
       "https://news.ycombinator.com/item?id=48896665"
     ],
     [
-      "Building and shipping Mac and iOS apps without ever opening Xcode",
+      "Building and shipping Mac and iOS apps without opening Xcode",
       "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/"
     ]
   ],
@@ -245,7 +235,7 @@
       "https://news.ycombinator.com/item?id=48892638"
     ],
     [
-      "Benchmarking 15 \"E-Waste\" GPUs with Modern Workloads",
+      "Benchmarking 15 “E-Waste” GPUs with Modern Workloads",
       "https://esologic.com/benchmarking-tesla-gpus/"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "Ancient Roman Board Game",
       "https://ludus-coriovalli.web.app/"
+    ]
+  ],
+  [
+    [
+      "2026-07-09, 19:43:49",
+      "https://news.ycombinator.com/item?id=48851412"
+    ],
+    [
+      "N+1",
+      "https://www.woman-of-letters.com/p/n1"
     ]
   ]
 ]
