@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2026-07-14, 16:56:48",
-      "https://news.ycombinator.com/item?id=48909768"
-    ],
-    [
-      "S&P downgrades Oracle to BBB – only one notch above junk level",
-      "https://www.heise.de/en/news/S-P-downgrades-Oracle-to-BBB-only-one-notch-above-junk-level-11363472.html"
-    ]
-  ],
-  [
-    [
       "2026-07-14, 16:36:06",
       "https://news.ycombinator.com/item?id=48909424"
     ],
@@ -81,6 +71,16 @@
   ],
   [
     [
+      "2026-07-14, 15:20:36",
+      "https://news.ycombinator.com/item?id=48908214"
+    ],
+    [
+      "I'm a USB-C Maximalist",
+      "https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/"
+    ]
+  ],
+  [
+    [
       "2026-07-14, 15:18:13",
       "https://news.ycombinator.com/item?id=48908178"
     ],
@@ -101,11 +101,31 @@
   ],
   [
     [
+      "2026-07-14, 14:17:39",
+      "https://news.ycombinator.com/item?id=48907290"
+    ],
+    [
+      "Agnes Callard’s theory of the uni-context",
+      "https://www.derekthompson.org/p/a-philosophers-one-word-theory-to"
+    ]
+  ],
+  [
+    [
+      "2026-07-14, 12:50:29",
+      "https://news.ycombinator.com/item?id=48906041"
+    ],
+    [
+      "Guardian Angels: LLM Personalization for Productivity and Security",
+      "https://gwern.net/guardian-angel"
+    ]
+  ],
+  [
+    [
       "2026-07-14, 12:41:25",
       "https://news.ycombinator.com/item?id=48905919"
     ],
     [
-      "Show HN: I RL-trained an agent that trains models with RL (for –$1.3k)",
+      "Show HN: I RL-trained an agent that trains models with RL (for ~$1.3k)",
       "https://github.com/Danau5tin/ai-trains-ai"
     ]
   ],
@@ -115,7 +135,7 @@
       "https://news.ycombinator.com/item?id=48905914"
     ],
     [
-      "Beautiful Type Erasure with C++26 Reflection",
+      "Show HN: Beautiful Type Erasure with C++26 Reflection",
       "https://ryanjk5.github.io/posts/rjk-duck/"
     ]
   ],
@@ -141,12 +161,12 @@
   ],
   [
     [
-      "2026-07-14, 11:31:59",
-      "https://news.ycombinator.com/item?id=48905105"
+      "2026-07-14, 09:20:07",
+      "https://news.ycombinator.com/item?id=48904095"
     ],
     [
-      "No Spanish reading crisis?",
-      "https://www.commonreader.co.uk/p/no-spanish-reading-crisis"
+      "Demis Hassabis has a plan to harness AI safely",
+      "https://twitter.com/demishassabis/status/2076957440109625718"
     ]
   ],
   [
@@ -161,52 +181,12 @@
   ],
   [
     [
-      "2026-07-14, 08:24:49",
-      "https://news.ycombinator.com/item?id=48903715"
-    ],
-    [
-      "Alternative(s) to run CUDA on non-Nvidia hardware",
-      "https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/"
-    ]
-  ],
-  [
-    [
-      "2026-07-14, 06:43:28",
-      "https://news.ycombinator.com/item?id=48903082"
-    ],
-    [
-      "Indian scientists produce most detailed 3D atlas of the human brainstem",
-      "https://www.bbc.com/news/articles/cg53l737v1qo"
-    ]
-  ],
-  [
-    [
       "2026-07-14, 04:31:48",
       "https://news.ycombinator.com/item?id=48902320"
     ],
     [
-      "Australian energy retailers must provide three hours of free daytime electricity",
+      "Australian energy retailers must offer three hours of free daytime electricity",
       "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/"
-    ]
-  ],
-  [
-    [
-      "2026-07-14, 02:40:41",
-      "https://news.ycombinator.com/item?id=48901645"
-    ],
-    [
-      "Our Amish Language",
-      "https://www.thedial.world/articles/news/amish-pennsylvania-dutch"
-    ]
-  ],
-  [
-    [
-      "2026-07-14, 01:55:24",
-      "https://news.ycombinator.com/item?id=48901356"
-    ],
-    [
-      "Satellite Tracker – Live Map of Starlink and 30k Satellites",
-      "https://satellitemap.space/"
     ]
   ],
   [
@@ -221,12 +201,32 @@
   ],
   [
     [
+      "2026-07-12, 18:28:15",
+      "https://news.ycombinator.com/item?id=48883305"
+    ],
+    [
+      "Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",
+      "https://github.com/juggler-ai/juggler"
+    ]
+  ],
+  [
+    [
       "2026-07-11, 23:26:12",
       "https://news.ycombinator.com/item?id=48876809"
     ],
     [
       "How the FSF sysadmins block botnets with reaction",
       "https://www.fsf.org/blogs/community/blocking-botnets-with-reaction"
+    ]
+  ],
+  [
+    [
+      "2026-07-11, 18:03:11",
+      "https://news.ycombinator.com/item?id=48874190"
+    ],
+    [
+      "The Second Life of Sanskrit",
+      "https://openthemagazine.com/india/the-second-life-of-sanskrit"
     ]
   ],
   [
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=48863336"
     ],
     [
-      "Superoptimizer – A Look at the Smallest Program",
+      "Superoptimizer – A Look at the Smallest Program (1987) [pdf]",
       "https://dl.acm.org/doi/epdf/10.1145/36177.36194"
     ]
   ],
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=48850688"
     ],
     [
-      "Paxos Made Simple (2001)[pdf]",
+      "Paxos Made Simple (2001) [pdf]",
       "https://lamport.azurewebsites.net/pubs/paxos-simple.pdf"
     ]
   ],
