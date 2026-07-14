@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-14, 08:34:57](https://news.ycombinator.com/item?id=48903777) - [European \"age verification\" \"app\" forcing everyone to use Android or iOS](https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19)
 * [2026-07-14, 08:24:49](https://news.ycombinator.com/item?id=48903715) - [Alternative(s) to run CUDA on non-Nvidia hardware](https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/)
+* [2026-07-14, 08:22:52](https://news.ycombinator.com/item?id=48903701) - [Two Case Studies of NaN](https://sebsite.pw/w/20260709-nan.html)
 * [2026-07-14, 06:43:28](https://news.ycombinator.com/item?id=48903082) - [Indian scientists produce most detailed 3D atlas of the human brainstem](https://www.bbc.com/news/articles/cg53l737v1qo)
 * [2026-07-14, 05:57:50](https://news.ycombinator.com/item?id=48902791) - [Just Let Me Write Digits](https://gendx.dev/blog/2026/07/13/input-digits.html)
 * [2026-07-14, 04:31:48](https://news.ycombinator.com/item?id=48902320) - [Australian energy retailers must provide three hours of free daytime electricity](https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/)
@@ -9,8 +11,6 @@
 * [2026-07-14, 02:27:20](https://news.ycombinator.com/item?id=48901569) - [Japan develops a method to recover up to 90% of lithium from used EV batteries](https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/)
 * [2026-07-14, 02:10:19](https://news.ycombinator.com/item?id=48901454) - [Fundamentals of Wireless Communication (2005)](https://web.stanford.edu/~dntse/wireless_book.html)
 * [2026-07-14, 01:55:24](https://news.ycombinator.com/item?id=48901356) - [Satellite Tracker – Live Map of Starlink and 30k Satellites](https://satellitemap.space/)
-* [2026-07-14, 01:44:40](https://news.ycombinator.com/item?id=48901292) - [What will be left for us to work on?](https://www.normaltech.ai/p/what-will-be-left-for-us-to-work)
-* [2026-07-14, 01:41:49](https://news.ycombinator.com/item?id=48901275) - [Building Food Metadata with LLM Juries](https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/)
 * [2026-07-14, 01:36:13](https://news.ycombinator.com/item?id=48901235) - [Is x86 ready to ACE it?](https://chipsandcheese.com/p/is-x86-ready-to-ace-it)
 * [2026-07-14, 01:35:23](https://news.ycombinator.com/item?id=48901224) - [The Economics of Recursive Self-Improvement [pdf]](https://elasticity.institute/rsi-paper.pdf)
 * [2026-07-14, 01:17:30](https://news.ycombinator.com/item?id=48901126) - [MorphoHDL: A minimalistic language for growing circuits](https://paradigms-of-intelligence.github.io/morpho/)
@@ -22,7 +22,6 @@
 * [2026-07-13, 18:53:53](https://news.ycombinator.com/item?id=48897104) - [The infinite scroll may become endangered if controversial Calif. law passes](https://www.sfgate.com/politics/article/meta-social-media-teenagers-22337724.php)
 * [2026-07-13, 18:22:16](https://news.ycombinator.com/item?id=48896665) - [Building and shipping Mac and iOS apps without opening Xcode](https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/)
 * [2026-07-13, 18:18:25](https://news.ycombinator.com/item?id=48896600) - [Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?](https://cakehonolulu.github.io/linux-on-32x/)
-* [2026-07-13, 14:39:38](https://news.ycombinator.com/item?id=48893446) - [Precursor](https://blog.cloudflare.com/introducing-precursor/)
 * [2026-07-13, 13:54:10](https://news.ycombinator.com/item?id=48892709) - [Nokia’s years of mobile-phone supremacy ended in an afternoon](https://spectrum.ieee.org/nokia-phones-history)
 * [2026-07-11, 15:38:13](https://news.ycombinator.com/item?id=48872965) - [Zero Knowledge Tolstoyan Art](https://max-amb.github.io/blog/zero_knowledge_tolstoyan_art/)
 * [2026-07-11, 15:23:54](https://news.ycombinator.com/item?id=48872833) - [How to build a circular LCD clock](https://blinry.org/lcd-clock/)
@@ -30,6 +29,7 @@
 * [2026-07-10, 02:27:55](https://news.ycombinator.com/item?id=48855045) - [Two Case Studies of NaN](https://sebsite.pw/w/20260709-nan.html)
 * [2026-07-09, 22:20:35](https://news.ycombinator.com/item?id=48853146) - [World-First 'Super Alloy' Could Transform the Way Metals Are Made](https://www.sciencealert.com/world-first-super-alloy-could-transform-the-way-metals-are-made)
 * [2026-07-09, 14:00:19](https://news.ycombinator.com/item?id=48845999) - [Writing a bindless GPU abstraction layer](https://www.kevin-gibson.com/blog/writing-a-bindless-gpu-abstraction-layer/)
+* [2026-07-08, 03:35:48](https://news.ycombinator.com/item?id=48827176) - [Understanding the Go Runtime: Profiling](https://internals-for-interns.com/posts/go-runtime-profiling/)
 
 ## [Archives](archives/index.md)
 

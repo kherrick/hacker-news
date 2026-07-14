@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-07-14](index.md)
 
+* [2026-07-14, 08:34:57](https://news.ycombinator.com/item?id=48903777) - [European \"age verification\" \"app\" forcing everyone to use Android or iOS](https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19)
 * [2026-07-14, 08:24:49](https://news.ycombinator.com/item?id=48903715) - [Alternative(s) to run CUDA on non-Nvidia hardware](https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/)
+* [2026-07-14, 08:22:52](https://news.ycombinator.com/item?id=48903701) - [Two Case Studies of NaN](https://sebsite.pw/w/20260709-nan.html)
 * [2026-07-14, 07:06:50](https://news.ycombinator.com/item?id=48903190) - [The Anatomy of an Instruction Pipeline Hazard](https://hiraditya.github.io/posts/hardware-hazards-b200/)
 * [2026-07-14, 06:48:47](https://news.ycombinator.com/item?id=48903102) - [Show HN: Benchmark your eng team's AI agent maturity in 5 minutes](https://agent-benchmarks.com/software-factory/)
 * [2026-07-14, 06:43:28](https://news.ycombinator.com/item?id=48903082) - [Indian scientists produce most detailed 3D atlas of the human brainstem](https://www.bbc.com/news/articles/cg53l737v1qo)

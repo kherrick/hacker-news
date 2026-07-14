@@ -71,6 +71,7 @@
 * [2026-07-08, 05:20:31](https://news.ycombinator.com/item?id=48827834) - [The Lindy Effect in Software](https://www.clemsau.com/posts/the-lindy-effect-in-software/)
 * [2026-07-08, 04:12:13](https://news.ycombinator.com/item?id=48827402) - [GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday](https://twitter.com/OpenAI/status/2074704958419792299)
 * [2026-07-08, 03:59:35](https://news.ycombinator.com/item?id=48827325) - [How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS](https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/)
+* [2026-07-08, 03:35:48](https://news.ycombinator.com/item?id=48827176) - [Understanding the Go Runtime: Profiling](https://internals-for-interns.com/posts/go-runtime-profiling/)
 * [2026-07-08, 03:28:00](https://news.ycombinator.com/item?id=48827126) - [So you want to learn physics (second edition, 2021)](https://www.susanrigetti.com/physics)
 * [2026-07-08, 03:22:31](https://news.ycombinator.com/item?id=48827092) - [Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks](https://www.digipres.org/the-floppy-guide/)
 * [2026-07-08, 03:16:38](https://news.ycombinator.com/item?id=48827058) - [Protobuf-py: Protobuf for Python, without compromises](https://buf.build/blog/protobuf-py)
