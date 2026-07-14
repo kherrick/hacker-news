@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-14, 01:17:30",
+      "https://news.ycombinator.com/item?id=48901126"
+    ],
+    [
+      "MorphoHDL: A minimalistic language for growing circuits",
+      "https://paradigms-of-intelligence.github.io/morpho/"
+    ]
+  ],
+  [
+    [
+      "2026-07-14, 00:58:55",
+      "https://news.ycombinator.com/item?id=48901020"
+    ],
+    [
+      "ESBMC-Arduino: Closing the Deployment Gap for Formal Verification",
+      "https://arxiv.org/abs/2607.08550"
+    ]
+  ],
+  [
+    [
       "2026-07-14, 00:57:11",
       "https://news.ycombinator.com/item?id=48901010"
     ],
@@ -21,22 +41,22 @@
   ],
   [
     [
+      "2026-07-14, 00:26:00",
+      "https://news.ycombinator.com/item?id=48900790"
+    ],
+    [
+      "Success may not matter if you aren't doing what you love",
+      "https://12gramsofcarbon.com/p/founders-guide-success-may-not-matter"
+    ]
+  ],
+  [
+    [
       "2026-07-14, 00:10:36",
       "https://news.ycombinator.com/item?id=48900686"
     ],
     [
       "Turn your singing voice into printable notes (in the browser)",
       "https://om-intelligence.ch/projects/vocal-notation/vocal-notation.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-13, 23:39:10",
-      "https://news.ycombinator.com/item?id=48900432"
-    ],
-    [
-      "What are Forward Deployed Engineers, and why are they so in demand? (2025)",
-      "https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers"
     ]
   ],
   [
@@ -241,22 +261,22 @@
   ],
   [
     [
+      "2026-07-13, 13:48:42",
+      "https://news.ycombinator.com/item?id=48892638"
+    ],
+    [
+      "Benchmarking 15 “E-Waste” GPUs with Modern Workloads",
+      "https://esologic.com/benchmarking-tesla-gpus/"
+    ]
+  ],
+  [
+    [
       "2026-07-13, 11:18:30",
       "https://news.ycombinator.com/item?id=48890959"
     ],
     [
       "A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese",
       "https://jivx.com/densha"
-    ]
-  ],
-  [
-    [
-      "2026-07-10, 23:04:50",
-      "https://news.ycombinator.com/item?id=48866461"
-    ],
-    [
-      "The 4-Bitter Lesson: Balancing Stability and Performance in NVFP4 RL",
-      "https://humansand.ai/blog/nvfp4-rl"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Ancient Roman Board Game",
       "https://ludus-coriovalli.web.app/"
-    ]
-  ],
-  [
-    [
-      "2026-07-09, 19:43:49",
-      "https://news.ycombinator.com/item?id=48851412"
-    ],
-    [
-      "N+1",
-      "https://www.woman-of-letters.com/p/n1"
-    ]
-  ],
-  [
-    [
-      "2026-07-08, 21:37:58",
-      "https://news.ycombinator.com/item?id=48837755"
-    ],
-    [
-      "Robust Secret Storage in Networks",
-      "https://arxiv.org/abs/2606.30261"
     ]
   ]
 ]
