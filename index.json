@@ -1,11 +1,61 @@
 [
   [
     [
+      "2026-07-14, 11:49:48",
+      "https://news.ycombinator.com/item?id=48905290"
+    ],
+    [
+      "Germany set to restrict its Freedom of Information Act",
+      "https://www.dw.com/en/germany-freedom-of-information-act/a-77939695"
+    ]
+  ],
+  [
+    [
+      "2026-07-14, 11:46:02",
+      "https://news.ycombinator.com/item?id=48905248"
+    ],
+    [
+      "How to stop Claude from saying load-bearing",
+      "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing"
+    ]
+  ],
+  [
+    [
+      "2026-07-14, 11:33:19",
+      "https://news.ycombinator.com/item?id=48905118"
+    ],
+    [
+      "Punch Yourself in the Face with Reality",
+      "https://adi.bio/reality"
+    ]
+  ],
+  [
+    [
+      "2026-07-14, 11:31:59",
+      "https://news.ycombinator.com/item?id=48905105"
+    ],
+    [
+      "No Spanish Reading Crisis?",
+      "https://www.commonreader.co.uk/p/no-spanish-reading-crisis"
+    ]
+  ],
+  [
+    [
+      "2026-07-14, 11:30:36",
+      "https://news.ycombinator.com/item?id=48905091"
+    ],
+    [
+      "Codex scraped the ICM website and discovered 2026 Fields Medal winner list",
+      "https://phemex.com/news/article/2026-fields-medal-winners-list-leaked-includes-two-peking-university-alumni-92948"
+    ]
+  ],
+  [
+    [
       "2026-07-14, 11:21:32",
       "https://news.ycombinator.com/item?id=48905028"
     ],
     [
-      "Codex starts encrypting prompts, uses ciphertext for inference instead",
+      "Codex starts encrypting sub-agent prompts",
       "https://github.com/openai/codex/issues/28058"
     ]
   ],
@@ -171,16 +221,6 @@
   ],
   [
     [
-      "2026-07-13, 23:39:10",
-      "https://news.ycombinator.com/item?id=48900432"
-    ],
-    [
-      "What are Forward Deployed Engineers, and why are they so in demand? (2025)",
-      "https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers"
-    ]
-  ],
-  [
-    [
       "2026-07-13, 23:12:22",
       "https://news.ycombinator.com/item?id=48900191"
     ],
@@ -221,16 +261,6 @@
   ],
   [
     [
-      "2026-07-13, 13:54:10",
-      "https://news.ycombinator.com/item?id=48892709"
-    ],
-    [
-      "Nokia’s years of mobile-phone supremacy ended in an afternoon",
-      "https://spectrum.ieee.org/nokia-phones-history"
-    ]
-  ],
-  [
-    [
       "2026-07-11, 15:38:13",
       "https://news.ycombinator.com/item?id=48872965"
     ],
@@ -257,36 +287,6 @@
     [
       "Your 'App' Could Have Been a Webpage (so I fixed it for you)",
       "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/"
-    ]
-  ],
-  [
-    [
-      "2026-07-10, 02:27:55",
-      "https://news.ycombinator.com/item?id=48855045"
-    ],
-    [
-      "Two Case Studies of NaN",
-      "https://sebsite.pw/w/20260709-nan.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-09, 22:20:35",
-      "https://news.ycombinator.com/item?id=48853146"
-    ],
-    [
-      "World-First 'Super Alloy' Could Transform the Way Metals Are Made",
-      "https://www.sciencealert.com/world-first-super-alloy-could-transform-the-way-metals-are-made"
-    ]
-  ],
-  [
-    [
-      "2026-07-09, 14:00:19",
-      "https://news.ycombinator.com/item?id=48845999"
-    ],
-    [
-      "Writing a bindless GPU abstraction layer",
-      "https://www.kevin-gibson.com/blog/writing-a-bindless-gpu-abstraction-layer/"
     ]
   ],
   [
