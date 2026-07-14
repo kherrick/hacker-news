@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-14, 15:24:49",
+      "https://news.ycombinator.com/item?id=48908271"
+    ],
+    [
+      "Show HN: Opening lines of famous literary works",
+      "https://www.verbaprima.com/"
+    ]
+  ],
+  [
+    [
+      "2026-07-14, 15:18:13",
+      "https://news.ycombinator.com/item?id=48908178"
+    ],
+    [
+      "Are we offloading too much of our thinking to AI?",
+      "https://www.artfish.ai/p/offloading-thinking-to-ai"
+    ]
+  ],
+  [
+    [
       "2026-07-14, 14:17:54",
       "https://news.ycombinator.com/item?id=48907296"
     ],
@@ -21,21 +41,11 @@
   ],
   [
     [
-      "2026-07-14, 14:12:39",
-      "https://news.ycombinator.com/item?id=48907214"
-    ],
-    [
-      "OpenAI mandates hardware-backed passkeys for Trusted Access Cyber members",
-      "https://www.yubico.com/blog/openai-mandates-hardware-backed-passkeys-for-trusted-access-cyber-members-to-log-into-chatgpt-accounts/"
-    ]
-  ],
-  [
-    [
       "2026-07-14, 12:56:25",
       "https://news.ycombinator.com/item?id=48906125"
     ],
     [
-      "Proof of Care in the Age of A.I",
+      "Proof of care in the age of AI",
       "https://jacobfilipp.com/care/"
     ]
   ],
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2026-07-14, 11:30:36",
-      "https://news.ycombinator.com/item?id=48905091"
-    ],
-    [
-      "Codex scraped the ICM website and discovered 2026 Fields Medal winner list",
-      "https://phemex.com/news/article/2026-fields-medal-winners-list-leaked-includes-two-peking-university-alumni-92948"
-    ]
-  ],
-  [
-    [
       "2026-07-14, 11:21:32",
       "https://news.ycombinator.com/item?id=48905028"
     ],
@@ -167,6 +167,16 @@
     [
       "Demis Hassabis has a plan to harness AI safely",
       "https://twitter.com/demishassabis/status/2076957440109625718"
+    ]
+  ],
+  [
+    [
+      "2026-07-14, 08:34:57",
+      "https://news.ycombinator.com/item?id=48903777"
+    ],
+    [
+      "European \"age verification\" \"app\" forcing everyone to use Android or iOS",
+      "https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Satellite Tracker – Live Map of Starlink and 30k Satellites",
       "https://satellitemap.space/"
-    ]
-  ],
-  [
-    [
-      "2026-07-14, 00:57:11",
-      "https://news.ycombinator.com/item?id=48901010"
-    ],
-    [
-      "The git history command",
-      "https://lalitm.com/post/git-history/"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=48847943"
     ],
     [
-      "The tiny cell that wasn't there",
+      "A tiny cell that broke a big rule of biology",
       "https://grist.org/science/nitrogen-cycle-cell-discovery-nitroplast-science-fertilizer-algae-bacteria/"
     ]
   ]
