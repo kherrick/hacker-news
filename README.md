@@ -3,7 +3,7 @@
 * [2026-07-14, 19:48:36](https://news.ycombinator.com/item?id=48912100) - [StubHub's 'marketplace for fans' is run by a mass scalper, SEC filings reveal](https://www.cbc.ca/news/world/stubhub-ceo-class-action-scalping-9.7268987)
 * [2026-07-14, 19:39:28](https://news.ycombinator.com/item?id=48911998) - [Show HN: A Free RSS reader with a configurable recommendation engine](https://sprinklz.io/feed/home)
 * [2026-07-14, 17:58:35](https://news.ycombinator.com/item?id=48910676) - [Cursor 0day: When Full Disclosure Becomes the Only Protection Left](https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left)
-* [2026-07-14, 17:50:48](https://news.ycombinator.com/item?id=48910545) - [Bonsai 27B: A 27B-Class Model that runs on a phone](https://prismml.com/news/bonsai-27b)
+* [2026-07-14, 17:50:48](https://news.ycombinator.com/item?id=48910545) - [Bonsai 27B: A 27B-Class model that runs on a phone](https://prismml.com/news/bonsai-27b)
 * [2026-07-14, 17:00:17](https://news.ycombinator.com/item?id=48909820) - [Kontigo (YC S24) Is Hiring (Head of Security)](https://www.ycombinator.com/companies/kontigo/jobs/uNttrlv-head-of-security)
 * [2026-07-14, 16:57:54](https://news.ycombinator.com/item?id=48909785) - [The Tower Keeps Rising](https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/)
 * [2026-07-14, 16:36:06](https://news.ycombinator.com/item?id=48909424) - [Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK](https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/)
