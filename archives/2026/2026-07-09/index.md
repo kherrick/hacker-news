@@ -88,6 +88,7 @@
 * [2026-07-09, 10:02:33](https://news.ycombinator.com/item?id=48843438) - [Bonnie Tyler, singer of Total Eclipse of the Heart, dies aged 75](https://www.bbc.com/news/articles/cg5pd9z2487o)
 * [2026-07-09, 09:58:28](https://news.ycombinator.com/item?id=48843409) - [Relm – local LLMs as base-R objects, with interpretability](https://github.com/Vadale/R-ebirth)
 * [2026-07-09, 09:47:28](https://news.ycombinator.com/item?id=48843352) - [My Thoughts on the Bun Rust Rewrite](https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html)
+* [2026-07-09, 09:18:42](https://news.ycombinator.com/item?id=48843120) - [Building a High-Performance C++ Backtesting Framework](https://dolphindb.com/blogs/46)
 * [2026-07-09, 08:22:52](https://news.ycombinator.com/item?id=48842611) - [Why developers are ditching GitHub for Codeberg and self-hosting alternatives](https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/)
 * [2026-07-09, 08:05:04](https://news.ycombinator.com/item?id=48842459) - [Show HN: Getting GLM 5.2 running on my slow computer](https://github.com/JustVugg/colibri)
 * [2026-07-09, 07:00:43](https://news.ycombinator.com/item?id=48841963) - [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/P646Yw6-founding-account-executive)

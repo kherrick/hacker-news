@@ -9,7 +9,6 @@
 * [2026-07-14, 15:24:49](https://news.ycombinator.com/item?id=48908271) - [Show HN: Opening lines of famous literary works](https://www.verbaprima.com/)
 * [2026-07-14, 15:18:13](https://news.ycombinator.com/item?id=48908178) - [Are we offloading too much of our thinking to AI?](https://www.artfish.ai/p/offloading-thinking-to-ai)
 * [2026-07-14, 14:39:56](https://news.ycombinator.com/item?id=48907672) - [The Agentic Loop: Three loops in a trench coat](https://www.bobbytables.io/p/the-agentic-loop-three-loops-in-a)
-* [2026-07-14, 14:39:25](https://news.ycombinator.com/item?id=48907665) - [IBM Stock has worst day](https://www.cnn.com/2026/07/14/tech/ibm-stock-worst-day-ever)
 * [2026-07-14, 12:41:25](https://news.ycombinator.com/item?id=48905919) - [Show HN: I RL-trained an agent that trains models with RL (for –$1.3k)](https://github.com/Danau5tin/ai-trains-ai)
 * [2026-07-14, 12:40:50](https://news.ycombinator.com/item?id=48905914) - [Beautiful Type Erasure with C++26 Reflection](https://ryanjk5.github.io/posts/rjk-duck/)
 * [2026-07-14, 12:21:46](https://news.ycombinator.com/item?id=48905667) - [Differentiable Fortran with LFortran and Enzyme](https://docs.pasteurlabs.ai/projects/tesseract-core/latest/blog/2026-07-09-enzyme-lfortran-autodiff.html)
@@ -21,8 +20,8 @@
 * [2026-07-14, 06:43:28](https://news.ycombinator.com/item?id=48903082) - [Indian scientists produce most detailed 3D atlas of the human brainstem](https://www.bbc.com/news/articles/cg53l737v1qo)
 * [2026-07-14, 04:31:48](https://news.ycombinator.com/item?id=48902320) - [Australian energy retailers must provide three hours of free daytime electricity](https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/)
 * [2026-07-14, 02:40:41](https://news.ycombinator.com/item?id=48901645) - [Our Amish Language](https://www.thedial.world/articles/news/amish-pennsylvania-dutch)
+* [2026-07-14, 01:55:24](https://news.ycombinator.com/item?id=48901356) - [Satellite Tracker – Live Map of Starlink and 30k Satellites](https://satellitemap.space/)
 * [2026-07-13, 04:11:20](https://news.ycombinator.com/item?id=48887810) - [A metallurgist's doubts about self-replicating probes](https://www.centauri-dreams.org/2026/07/10/a-metallurgists-doubts-about-self-replicating-probes/)
-* [2026-07-12, 18:28:15](https://news.ycombinator.com/item?id=48883305) - [Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE](https://github.com/juggler-ai/juggler)
 * [2026-07-11, 23:26:12](https://news.ycombinator.com/item?id=48876809) - [How the FSF sysadmins block botnets with reaction](https://www.fsf.org/blogs/community/blocking-botnets-with-reaction)
 * [2026-07-11, 14:32:19](https://news.ycombinator.com/item?id=48872401) - [The largest available Minecraft world, totalling 15 TB](https://2b2t.place/1million)
 * [2026-07-11, 08:21:27](https://news.ycombinator.com/item?id=48869989) - [Your 'app' could have been a webpage (so I fixed it for you)](https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/)
@@ -30,6 +29,7 @@
 * [2026-07-10, 18:15:27](https://news.ycombinator.com/item?id=48863336) - [Superoptimizer – A Look at the Smallest Program](https://dl.acm.org/doi/epdf/10.1145/36177.36194)
 * [2026-07-09, 18:51:22](https://news.ycombinator.com/item?id=48850688) - [Paxos Made Simple (2001)[pdf]](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf)
 * [2026-07-09, 15:50:40](https://news.ycombinator.com/item?id=48847943) - [A tiny cell that broke a big rule of biology](https://grist.org/science/nitrogen-cycle-cell-discovery-nitroplast-science-fertilizer-algae-bacteria/)
+* [2026-07-09, 09:18:42](https://news.ycombinator.com/item?id=48843120) - [Building a High-Performance C++ Backtesting Framework](https://dolphindb.com/blogs/46)
 
 ## [Archives](archives/index.md)
 
