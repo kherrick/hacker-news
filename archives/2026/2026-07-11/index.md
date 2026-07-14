@@ -44,6 +44,7 @@
 * [2026-07-11, 15:23:54](https://news.ycombinator.com/item?id=48872833) - [How to build a circular LCD clock](https://blinry.org/lcd-clock/)
 * [2026-07-11, 15:19:25](https://news.ycombinator.com/item?id=48872791) - [Jektex 0.2.0 – A Jekyll plugin for LaTeX rendering is now ~10x faster](https://github.com/yagarea/jektex)
 * [2026-07-11, 14:46:38](https://news.ycombinator.com/item?id=48872517) - [USAA closed 51% of home insurance claims without making a payment in 2025](https://www.expressnews.com/business/article/san-antonio-usaa-insurance-claims-rejected-22293061.php)
+* [2026-07-11, 14:32:19](https://news.ycombinator.com/item?id=48872401) - [The largest available Minecraft world, totalling 15 TB](https://2b2t.place/1million)
 * [2026-07-11, 13:40:27](https://news.ycombinator.com/item?id=48871973) - [Show HN: Learn by rebuilding Redis, Git, a database from scratch](https://shipthatcode.com)
 * [2026-07-11, 13:33:17](https://news.ycombinator.com/item?id=48871932) - [Speculations Concerning the First Ultraintelligent Machine (1965) [pdf]](https://languagelog.ldc.upenn.edu/myl/Good1964.pdf)
 * [2026-07-11, 13:04:35](https://news.ycombinator.com/item?id=48871716) - [Semantic/Hybrid Search in the Browser](https://bart.degoe.de/semantic-search-in-your-browser/)
