@@ -1,22 +1,62 @@
 [
   [
     [
+      "2026-07-14, 11:21:32",
+      "https://news.ycombinator.com/item?id=48905028"
+    ],
+    [
+      "Codex starts encrypting prompts, uses ciphertext for inference instead",
+      "https://github.com/openai/codex/issues/28058"
+    ]
+  ],
+  [
+    [
+      "2026-07-14, 11:06:09",
+      "https://news.ycombinator.com/item?id=48904912"
+    ],
+    [
+      "Show HN: Rejourney – Open-source revenue leak prediction for web and mobile apps",
+      "https://github.com/rejourneyco/rejourney"
+    ]
+  ],
+  [
+    [
+      "2026-07-14, 11:05:27",
+      "https://news.ycombinator.com/item?id=48904905"
+    ],
+    [
+      "The Future Worth Building Is Human – Thinking Machines Lab",
+      "https://thinkingmachines.ai/blog/the-future-worth-building-is-human/"
+    ]
+  ],
+  [
+    [
+      "2026-07-14, 11:05:15",
+      "https://news.ycombinator.com/item?id=48904902"
+    ],
+    [
+      "Actegories",
+      "https://bartoszmilewski.com/2026/06/30/actegories/"
+    ]
+  ],
+  [
+    [
+      "2026-07-14, 10:58:38",
+      "https://news.ycombinator.com/item?id=48904855"
+    ],
+    [
+      "The great digital fatigue: How digital burnout is changing social media use",
+      "https://blog.incogni.com/digital-fatigue-and-burnout/"
+    ]
+  ],
+  [
+    [
       "2026-07-14, 08:24:49",
       "https://news.ycombinator.com/item?id=48903715"
     ],
     [
       "Alternative(s) to run CUDA on non-Nvidia hardware",
       "https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/"
-    ]
-  ],
-  [
-    [
-      "2026-07-14, 08:22:52",
-      "https://news.ycombinator.com/item?id=48903701"
-    ],
-    [
-      "Two Case Studies of NaN",
-      "https://sebsite.pw/w/20260709-nan.html"
     ]
   ],
   [
@@ -57,16 +97,6 @@
     [
       "YouTrackDB is a general-use object-oriented graph database",
       "https://github.com/JetBrains/youtrackdb"
-    ]
-  ],
-  [
-    [
-      "2026-07-14, 02:40:41",
-      "https://news.ycombinator.com/item?id=48901645"
-    ],
-    [
-      "Our Amish Language",
-      "https://www.thedial.world/articles/news/amish-pennsylvania-dutch"
     ]
   ],
   [
@@ -161,12 +191,12 @@
   ],
   [
     [
-      "2026-07-13, 20:11:29",
-      "https://news.ycombinator.com/item?id=48898134"
+      "2026-07-13, 21:01:00",
+      "https://news.ycombinator.com/item?id=48898814"
     ],
     [
-      "Linux 0.11 rewritten in idiomatic Rust, boots in QEMU",
-      "https://github.com/Poseidon-fan/linux-0.11-rs"
+      "SalesPatriot (YC W25) Is Hiring Full Stack Engineers (SF)",
+      "https://jobs.ashbyhq.com/SalesPatriot/df223727-5781-433e-bc75-2aa5bf8dc8d7"
     ]
   ],
   [
@@ -187,26 +217,6 @@
     [
       "Building and shipping Mac and iOS apps without opening Xcode",
       "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/"
-    ]
-  ],
-  [
-    [
-      "2026-07-13, 18:18:25",
-      "https://news.ycombinator.com/item?id=48896600"
-    ],
-    [
-      "Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?",
-      "https://cakehonolulu.github.io/linux-on-32x/"
-    ]
-  ],
-  [
-    [
-      "2026-07-13, 14:02:03",
-      "https://news.ycombinator.com/item?id=48892859"
-    ],
-    [
-      "Show HN: Clawk – Give coding agents a disposable Linux VM, not your laptop",
-      "https://github.com/clawkwork/clawk"
     ]
   ],
   [
@@ -241,12 +251,12 @@
   ],
   [
     [
-      "2026-07-11, 15:19:25",
-      "https://news.ycombinator.com/item?id=48872791"
+      "2026-07-11, 08:21:27",
+      "https://news.ycombinator.com/item?id=48869989"
     ],
     [
-      "Jektex 0.2.0 – A Jekyll plugin for LaTeX rendering is now ~10x faster",
-      "https://github.com/yagarea/jektex"
+      "Your 'App' Could Have Been a Webpage (so I fixed it for you)",
+      "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Notable Knot Index (2016)",
       "https://knots.neocities.org/knotindex"
-    ]
-  ],
-  [
-    [
-      "2026-07-08, 03:35:48",
-      "https://news.ycombinator.com/item?id=48827176"
-    ],
-    [
-      "Understanding the Go Runtime: Profiling",
-      "https://internals-for-interns.com/posts/go-runtime-profiling/"
     ]
   ]
 ]
