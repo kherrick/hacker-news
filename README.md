@@ -1,9 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-14, 01:17:30](https://news.ycombinator.com/item?id=48901126) - [MorphoHDL: A minimalistic language for growing circuits](https://paradigms-of-intelligence.github.io/morpho/)
+* [2026-07-14, 00:58:55](https://news.ycombinator.com/item?id=48901020) - [ESBMC-Arduino: Closing the Deployment Gap for Formal Verification](https://arxiv.org/abs/2607.08550)
 * [2026-07-14, 00:57:11](https://news.ycombinator.com/item?id=48901010) - [The Git history command deserves more attention](https://lalitm.com/post/git-history/)
 * [2026-07-14, 00:26:43](https://news.ycombinator.com/item?id=48900796) - [What did SFFA vs. Harvard reveal about admissions?](https://sorting-machine.pages.dev/)
+* [2026-07-14, 00:26:00](https://news.ycombinator.com/item?id=48900790) - [Success may not matter if you aren't doing what you love](https://12gramsofcarbon.com/p/founders-guide-success-may-not-matter)
 * [2026-07-14, 00:10:36](https://news.ycombinator.com/item?id=48900686) - [Turn your singing voice into printable notes (in the browser)](https://om-intelligence.ch/projects/vocal-notation/vocal-notation.html)
-* [2026-07-13, 23:39:10](https://news.ycombinator.com/item?id=48900432) - [What are Forward Deployed Engineers, and why are they so in demand? (2025)](https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers)
 * [2026-07-13, 23:26:52](https://news.ycombinator.com/item?id=48900319) - [Show HN: Sx 2.0 – Share AI skills with your team through a Dropbox folder](https://sleuth-io.github.io/sx/2026/07/10/your-dropbox-is-now-a-skill-server.html)
 * [2026-07-13, 23:22:18](https://news.ycombinator.com/item?id=48900288) - [Show HN: ContextVault – Shared memory layer for your AI and your team](https://www.contextvault.dev/)
 * [2026-07-13, 23:12:22](https://news.ycombinator.com/item?id=48900191) - [An Englishwoman who sketched India before photography took hold](https://www.bbc.com/news/articles/cm2drrv6q54o)
@@ -24,12 +26,10 @@
 * [2026-07-13, 15:56:02](https://news.ycombinator.com/item?id=48894630) - [Show HN: Jacquard, a programming language for AI-written, human-reviewed code](https://github.com/jbwinters/jacquard-lang)
 * [2026-07-13, 14:52:33](https://news.ycombinator.com/item?id=48893639) - [The art and engineering of Sega CD Silpheed](https://fabiensanglard.net/silpheed/index.html)
 * [2026-07-13, 14:47:23](https://news.ycombinator.com/item?id=48893550) - [Show HN: Hackney – Compare Uber, Lyft, Waymo, and Robotaxi Prices](https://hackney.app/)
+* [2026-07-13, 13:48:42](https://news.ycombinator.com/item?id=48892638) - [Benchmarking 15 “E-Waste” GPUs with Modern Workloads](https://esologic.com/benchmarking-tesla-gpus/)
 * [2026-07-13, 11:18:30](https://news.ycombinator.com/item?id=48890959) - [A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese](https://jivx.com/densha)
-* [2026-07-10, 23:04:50](https://news.ycombinator.com/item?id=48866461) - [The 4-Bitter Lesson: Balancing Stability and Performance in NVFP4 RL](https://humansand.ai/blog/nvfp4-rl)
 * [2026-07-10, 17:36:28](https://news.ycombinator.com/item?id=48862854) - [The Difference Between Watercolor and Gouache Paints](https://www.jetpens.com/blog/The-Difference-Between-Watercolor-and-Gouache-Paints/pt/963)
 * [2026-07-09, 20:47:45](https://news.ycombinator.com/item?id=48852159) - [Ancient Roman Board Game](https://ludus-coriovalli.web.app/)
-* [2026-07-09, 19:43:49](https://news.ycombinator.com/item?id=48851412) - [N+1](https://www.woman-of-letters.com/p/n1)
-* [2026-07-08, 21:37:58](https://news.ycombinator.com/item?id=48837755) - [Robust Secret Storage in Networks](https://arxiv.org/abs/2606.30261)
 
 ## [Archives](archives/index.md)
 
