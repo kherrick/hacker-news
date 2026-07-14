@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-07-14](index.md)
 
+* [2026-07-14, 11:49:48](https://news.ycombinator.com/item?id=48905290) - [Germany set to restrict its Freedom of Information Act](https://www.dw.com/en/germany-freedom-of-information-act/a-77939695)
+* [2026-07-14, 11:46:02](https://news.ycombinator.com/item?id=48905248) - [How to stop Claude from saying load-bearing](https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing)
+* [2026-07-14, 11:33:19](https://news.ycombinator.com/item?id=48905118) - [Punch Yourself in the Face with Reality](https://adi.bio/reality)
+* [2026-07-14, 11:31:59](https://news.ycombinator.com/item?id=48905105) - [No Spanish Reading Crisis?](https://www.commonreader.co.uk/p/no-spanish-reading-crisis)
+* [2026-07-14, 11:30:36](https://news.ycombinator.com/item?id=48905091) - [Codex scraped the ICM website and discovered 2026 Fields Medal winner list](https://phemex.com/news/article/2026-fields-medal-winners-list-leaked-includes-two-peking-university-alumni-92948)
 * [2026-07-14, 11:21:32](https://news.ycombinator.com/item?id=48905028) - [Codex starts encrypting prompts, uses ciphertext for inference instead](https://github.com/openai/codex/issues/28058)
 * [2026-07-14, 11:06:09](https://news.ycombinator.com/item?id=48904912) - [Show HN: Rejourney – Open-source revenue leak prediction for web and mobile apps](https://github.com/rejourneyco/rejourney)
 * [2026-07-14, 11:05:27](https://news.ycombinator.com/item?id=48904905) - [The Future Worth Building Is Human – Thinking Machines Lab](https://thinkingmachines.ai/blog/the-future-worth-building-is-human/)
