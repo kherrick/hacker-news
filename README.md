@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-07-14, 08:34:57](https://news.ycombinator.com/item?id=48903777) - [European \"age verification\" \"app\" forcing everyone to use Android or iOS](https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19)
 * [2026-07-14, 08:24:49](https://news.ycombinator.com/item?id=48903715) - [Alternative(s) to run CUDA on non-Nvidia hardware](https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/)
 * [2026-07-14, 08:22:52](https://news.ycombinator.com/item?id=48903701) - [Two Case Studies of NaN](https://sebsite.pw/w/20260709-nan.html)
 * [2026-07-14, 06:43:28](https://news.ycombinator.com/item?id=48903082) - [Indian scientists produce most detailed 3D atlas of the human brainstem](https://www.bbc.com/news/articles/cg53l737v1qo)
@@ -29,6 +28,7 @@
 * [2026-07-10, 02:27:55](https://news.ycombinator.com/item?id=48855045) - [Two Case Studies of NaN](https://sebsite.pw/w/20260709-nan.html)
 * [2026-07-09, 22:20:35](https://news.ycombinator.com/item?id=48853146) - [World-First 'Super Alloy' Could Transform the Way Metals Are Made](https://www.sciencealert.com/world-first-super-alloy-could-transform-the-way-metals-are-made)
 * [2026-07-09, 14:00:19](https://news.ycombinator.com/item?id=48845999) - [Writing a bindless GPU abstraction layer](https://www.kevin-gibson.com/blog/writing-a-bindless-gpu-abstraction-layer/)
+* [2026-07-09, 13:30:34](https://news.ycombinator.com/item?id=48845527) - [Notable Knot Index (2016)](https://knots.neocities.org/knotindex)
 * [2026-07-08, 03:35:48](https://news.ycombinator.com/item?id=48827176) - [Understanding the Go Runtime: Profiling](https://internals-for-interns.com/posts/go-runtime-profiling/)
 
 ## [Archives](archives/index.md)
