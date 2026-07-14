@@ -22,6 +22,7 @@
 * [2026-07-11, 18:22:02](https://news.ycombinator.com/item?id=48874357) - [How to Hide from Killer Drones](https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones)
 * [2026-07-11, 18:15:35](https://news.ycombinator.com/item?id=48874297) - [ZeroFS vs. Amazon S3 Files](https://www.zerofs.net/blog/zerofs-vs-aws-s3-files/)
 * [2026-07-11, 18:04:01](https://news.ycombinator.com/item?id=48874200) - [AI 2040 and the Cult of Intelligence](https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html)
+* [2026-07-11, 18:03:11](https://news.ycombinator.com/item?id=48874190) - [The Second Life of Sanskrit](https://openthemagazine.com/india/the-second-life-of-sanskrit)
 * [2026-07-11, 18:02:33](https://news.ycombinator.com/item?id=48874182) - [Who manages the agents?](https://www.off-policy.com/dont-go-quietly-into-the-ai-night/)
 * [2026-07-11, 17:44:40](https://news.ycombinator.com/item?id=48874046) - [Ask HN: Why isn't Google indexing information about the AT Protocol?](https://news.ycombinator.com/item?id=48874046)
 * [2026-07-11, 17:33:55](https://news.ycombinator.com/item?id=48873940) - [Prefer Strict Tables in SQLite](https://evanhahn.com/prefer-strict-tables-in-sqlite/)
