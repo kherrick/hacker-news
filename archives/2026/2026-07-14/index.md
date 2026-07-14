@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-07-14](index.md)
 
+* [2026-07-14, 08:24:49](https://news.ycombinator.com/item?id=48903715) - [Alternative(s) to run CUDA on non-Nvidia hardware](https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/)
 * [2026-07-14, 07:06:50](https://news.ycombinator.com/item?id=48903190) - [The Anatomy of an Instruction Pipeline Hazard](https://hiraditya.github.io/posts/hardware-hazards-b200/)
 * [2026-07-14, 06:48:47](https://news.ycombinator.com/item?id=48903102) - [Show HN: Benchmark your eng team's AI agent maturity in 5 minutes](https://agent-benchmarks.com/software-factory/)
+* [2026-07-14, 06:43:28](https://news.ycombinator.com/item?id=48903082) - [Indian scientists produce most detailed 3D atlas of the human brainstem](https://www.bbc.com/news/articles/cg53l737v1qo)
+* [2026-07-14, 05:57:50](https://news.ycombinator.com/item?id=48902791) - [Just Let Me Write Digits](https://gendx.dev/blog/2026/07/13/input-digits.html)
 * [2026-07-14, 05:21:02](https://news.ycombinator.com/item?id=48902599) - [OpenAI's Ad Business Is on Pace to Miss Its Own Forecast by 90%, Analyst Says](https://www.adweek.com/media/openais-ad-business-is-on-pace-to-miss-its-own-forecast-by-90-analyst-says/)
 * [2026-07-14, 04:31:48](https://news.ycombinator.com/item?id=48902320) - [Australia is offering free daytime electricity](https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/)
 * [2026-07-14, 03:39:55](https://news.ycombinator.com/item?id=48902026) - [YouTrackDB is a general-use object-oriented graph database](https://github.com/JetBrains/youtrackdb)
