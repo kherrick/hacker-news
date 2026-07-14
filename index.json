@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-07-14, 02:47:54",
-      "https://news.ycombinator.com/item?id=48901695"
+      "2026-07-14, 03:39:55",
+      "https://news.ycombinator.com/item?id=48902026"
     ],
     [
-      "Agents.md – Dumb Human",
-      "https://gist.github.com/skorotkiewicz/2d4db4ceaf83aa54eb7f2066fdb961ff"
+      "YouTrackDB is a general-use object-oriented graph database",
+      "https://github.com/JetBrains/youtrackdb"
     ]
   ],
   [
@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=48901454"
     ],
     [
-      "Fundamentals of Wireless Communication",
+      "Fundamentals of Wireless Communication (2005)",
       "https://web.stanford.edu/~dntse/wireless_book.html"
     ]
   ],
@@ -111,26 +111,6 @@
   ],
   [
     [
-      "2026-07-14, 00:26:00",
-      "https://news.ycombinator.com/item?id=48900790"
-    ],
-    [
-      "Success may not matter if you aren't doing what you love",
-      "https://12gramsofcarbon.com/p/founders-guide-success-may-not-matter"
-    ]
-  ],
-  [
-    [
-      "2026-07-14, 00:10:36",
-      "https://news.ycombinator.com/item?id=48900686"
-    ],
-    [
-      "Turn your singing voice into printable notes (in the browser)",
-      "https://om-intelligence.ch/projects/vocal-notation/vocal-notation.html"
-    ]
-  ],
-  [
-    [
       "2026-07-13, 23:26:52",
       "https://news.ycombinator.com/item?id=48900319"
     ],
@@ -177,6 +157,16 @@
     [
       "Show HN: YouTube Guitar Tab Parser",
       "https://github.com/marcelpanse/youtube-guitar-tab-parser"
+    ]
+  ],
+  [
+    [
+      "2026-07-13, 20:00:10",
+      "https://news.ycombinator.com/item?id=48897975"
+    ],
+    [
+      "Show HN: I implemented a neural network in SQL",
+      "https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Show HN: RandoFont – A browser for Google Fonts",
       "https://randofont.alesh.com"
+    ]
+  ],
+  [
+    [
+      "2026-07-09, 14:00:19",
+      "https://news.ycombinator.com/item?id=48845999"
+    ],
+    [
+      "Writing a bindless GPU abstraction layer",
+      "https://www.kevin-gibson.com/blog/writing-a-bindless-gpu-abstraction-layer/"
     ]
   ]
 ]
