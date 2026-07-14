@@ -129,6 +129,201 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="48905028">
+          <h3>
+            <a class="item" href="https://github.com/openai/codex/issues/28058"
+              >Codex starts encrypting prompts, uses ciphertext for inference
+              instead</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-14 @ 11:21:32</span
+              ><span class="points-container"
+                >Points: <span class="points">99</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48905028"
+                  >Comments</a
+                ><span class="descendants">: 55</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48904912">
+          <h3>
+            <a class="item" href="https://github.com/rejourneyco/rejourney"
+              >Show HN: Rejourney – Open-source revenue leak prediction for web
+              and mobile apps</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-14 @ 11:06:09</span
+              ><span class="points-container"
+                >Points: <span class="points">8</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48904912"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                I’m Rashid, a sophomore at UT Austin. I built Rejourney.co (<a
+                  href="https://rejourney.co/"
+                  >https://rejourney.co/</a
+                >) to predict issues with your apps and websites before they
+                happen, based on real user session recordings.
+              </p>
+              <p>
+                Here is a silly video (with cats) on how it works:
+                <a href="https://www.youtube.com/watch?v=Z95MDxBXMjk"
+                  >https://www.youtube.com/watch?v=Z95MDxBXMjk</a
+                >
+              </p>
+              <p>
+                It’s open source, and the post link is the github repo, but here
+                it is again:
+                <a href="https://github.com/rejourneyco/rejourney"
+                  >https://github.com/rejourneyco/rejourney</a
+                >
+              </p>
+              <p>
+                I originally built this because I had a campus freebie finder
+                app that grew quickly, and I had a lot of users dm me on
+                instagram about issues with the app’s onboarding and UX
+                confusion. I initially lost about 340 users out of my 5,000ish
+                users because of these issues, and I had to recover some by
+                nudging them with notifications. It was a big pain, and I felt
+                bad that I lost this many users to small and easy fixes. So I
+                built Rejourney to predict that before it happens. Here is how
+                it works:
+              </p>
+              <p>
+                First, the SDK is installed on Web JS, Swift, or React Native
+                apps. You then help the SDK a little with a few lines of
+                tracking important events -- such as a subscription bought, a
+                signup completed, etc -- before you ship the app. We called
+                these “critical conversion events”.
+              </p>
+              <p>
+                From here, Rejourney records the user session along with the
+                meta data you set up, and relates it to the sequence of the user
+                journey, each touch/scroll/pan interaction, and rage taps. If
+                deemed an issue, it bundles in API response times and codes,
+                ANRS, and crash traces into the context.
+              </p>
+              <p>
+                A heuristic then bundles all the user recordings into similarity
+                cohorts for processing, and finds similar user journeys and
+                outcomes in relation to the critical conversion actions that
+                matter to you. If a trend is found that is possibly worrying, it
+                admits the user recordings into segmentation and processing by
+                an LLM on our back (in this case Gemini for cost and speed, but
+                it has been tested on GPT 5.5 if you decide to self-host and set
+                this up on your side).
+              </p>
+              <p>
+                If the LLM views similarities in the touch sequence frame by
+                frame, it can determine whether the cohort is likely to present
+                a negative outlook on the critical conversion event that matters
+                to you. Based on the replays and all the surrounding context, it
+                outputs a .MD file with the context and the fix that would patch
+                it (which you can copy into your coding agent). Optionally, you
+                can attach your github repo so the .MD file includes a code fix
+                with the detected issue.
+              </p>
+              <p>
+                Furthermore, this occurs at the scale of thousands of user
+                recordings daily. We have seen how this works on a medium-scale,
+                as Rejourney has been tested with about 2.5 million user
+                recordings from people shipping the SDK. One of our users even
+                emailed us reporting a 30% increase in onboarding after 2 weeks
+                of fixing non-stop issues found.
+              </p>
+              <p>
+                We have made it soooo cost effective to run with different
+                strategies, that our first 3 paid users made us break even on
+                costs…and this means more compute space for cool things later :D
+              </p>
+              <p>
+                Other considerations and criteria: Privacy was also very very
+                important as we have to consider GDPR, after the retention
+                period (usually 7-days) we quantize all the user recordings,
+                anonymize all the fingerprints and aggregate them into a general
+                dashboard (similar to Firebase’s general analytics dashboard).
+              </p>
+              <p>
+                I’d love to hear your feedback, critics, and requests in the
+                comments! I’m all ears (or eyes since I’m reading).
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="48904905">
+          <h3>
+            <a
+              class="item"
+              href="https://thinkingmachines.ai/blog/the-future-worth-building-is-human/"
+              >The Future Worth Building Is Human – Thinking Machines Lab</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-14 @ 11:05:27</span
+              ><span class="points-container"
+                >Points: <span class="points">35</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48904905"
+                  >Comments</a
+                ><span class="descendants">: 13</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48904902">
+          <h3>
+            <a
+              class="item"
+              href="https://bartoszmilewski.com/2026/06/30/actegories/"
+              >Actegories</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-14 @ 11:05:15</span
+              ><span class="points-container"
+                >Points: <span class="points">16</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48904902"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48904855">
+          <h3>
+            <a
+              class="item"
+              href="https://blog.incogni.com/digital-fatigue-and-burnout/"
+              >The great digital fatigue: How digital burnout is changing social
+              media use</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-14 @ 10:58:38</span
+              ><span class="points-container"
+                >Points: <span class="points">32</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48904855"
+                  >Comments</a
+                ><span class="descendants">: 13</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="48903715">
           <h3>
             <a
@@ -141,30 +336,11 @@
             <h4>
               <span>2026-07-14 @ 08:24:49</span
               ><span class="points-container"
-                >Points: <span class="points">67</span></span
+                >Points: <span class="points">75</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48903715"
                   >Comments</a
-                ><span class="descendants">: 33</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48903701">
-          <h3>
-            <a class="item" href="https://sebsite.pw/w/20260709-nan.html"
-              >Two Case Studies of NaN</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-14 @ 08:22:52</span
-              ><span class="points-container"
-                >Points: <span class="points">8</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48903701"
-                  >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 37</span></span
               >
             </h4>
           </section>
@@ -182,11 +358,11 @@
             <h4>
               <span>2026-07-14 @ 06:43:28</span
               ><span class="points-container"
-                >Points: <span class="points">79</span></span
+                >Points: <span class="points">87</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48903082"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -203,11 +379,11 @@
             <h4>
               <span>2026-07-14 @ 05:57:50</span
               ><span class="points-container"
-                >Points: <span class="points">61</span></span
+                >Points: <span class="points">72</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48902791"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 20</span></span
               >
             </h4>
           </section>
@@ -225,11 +401,11 @@
             <h4>
               <span>2026-07-14 @ 04:31:48</span
               ><span class="points-container"
-                >Points: <span class="points">133</span></span
+                >Points: <span class="points">145</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48902320"
                   >Comments</a
-                ><span class="descendants">: 211</span></span
+                ><span class="descendants">: 227</span></span
               >
             </h4>
           </section>
@@ -244,32 +420,11 @@
             <h4>
               <span>2026-07-14 @ 03:39:55</span
               ><span class="points-container"
-                >Points: <span class="points">138</span></span
+                >Points: <span class="points">140</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48902026"
                   >Comments</a
                 ><span class="descendants">: 44</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48901645">
-          <h3>
-            <a
-              class="item"
-              href="https://www.thedial.world/articles/news/amish-pennsylvania-dutch"
-              >Our Amish Language</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-14 @ 02:40:41</span
-              ><span class="points-container"
-                >Points: <span class="points">60</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48901645"
-                  >Comments</a
-                ><span class="descendants">: 43</span></span
               >
             </h4>
           </section>
@@ -287,11 +442,11 @@
             <h4>
               <span>2026-07-14 @ 02:27:20</span
               ><span class="points-container"
-                >Points: <span class="points">557</span></span
+                >Points: <span class="points">570</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48901569"
                   >Comments</a
-                ><span class="descendants">: 148</span></span
+                ><span class="descendants">: 155</span></span
               >
             </h4>
           </section>
@@ -308,7 +463,7 @@
             <h4>
               <span>2026-07-14 @ 02:10:19</span
               ><span class="points-container"
-                >Points: <span class="points">144</span></span
+                >Points: <span class="points">148</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48901454"
                   >Comments</a
@@ -327,11 +482,11 @@
             <h4>
               <span>2026-07-14 @ 01:55:24</span
               ><span class="points-container"
-                >Points: <span class="points">100</span></span
+                >Points: <span class="points">104</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48901356"
                   >Comments</a
-                ><span class="descendants">: 55</span></span
+                ><span class="descendants">: 57</span></span
               >
             </h4>
           </section>
@@ -348,11 +503,11 @@
             <h4>
               <span>2026-07-14 @ 01:36:13</span
               ><span class="points-container"
-                >Points: <span class="points">87</span></span
+                >Points: <span class="points">91</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48901235"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -367,11 +522,11 @@
             <h4>
               <span>2026-07-14 @ 01:35:23</span
               ><span class="points-container"
-                >Points: <span class="points">109</span></span
+                >Points: <span class="points">110</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48901224"
                   >Comments</a
-                ><span class="descendants">: 48</span></span
+                ><span class="descendants">: 52</span></span
               >
             </h4>
           </section>
@@ -388,7 +543,7 @@
             <h4>
               <span>2026-07-14 @ 01:17:30</span
               ><span class="points-container"
-                >Points: <span class="points">81</span></span
+                >Points: <span class="points">83</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48901126"
                   >Comments</a
@@ -407,11 +562,11 @@
             <h4>
               <span>2026-07-14 @ 00:57:11</span
               ><span class="points-container"
-                >Points: <span class="points">337</span></span
+                >Points: <span class="points">340</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48901010"
                   >Comments</a
-                ><span class="descendants">: 199</span></span
+                ><span class="descendants">: 209</span></span
               >
             </h4>
           </section>
@@ -429,11 +584,11 @@
             <h4>
               <span>2026-07-13 @ 23:39:10</span
               ><span class="points-container"
-                >Points: <span class="points">77</span></span
+                >Points: <span class="points">81</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48900432"
                   >Comments</a
-                ><span class="descendants">: 81</span></span
+                ><span class="descendants">: 82</span></span
               >
             </h4>
           </section>
@@ -451,7 +606,7 @@
             <h4>
               <span>2026-07-13 @ 23:12:22</span
               ><span class="points-container"
-                >Points: <span class="points">171</span></span
+                >Points: <span class="points">176</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48900191"
                   >Comments</a
@@ -460,21 +615,19 @@
             </h4>
           </section>
         </section>
-        <section id="48898134">
+        <section id="48898814">
           <h3>
-            <a class="item" href="https://github.com/Poseidon-fan/linux-0.11-rs"
-              >Linux 0.11 rewritten in idiomatic Rust, boots in QEMU</a
+            <a
+              class="item"
+              href="https://jobs.ashbyhq.com/SalesPatriot/df223727-5781-433e-bc75-2aa5bf8dc8d7"
+              >SalesPatriot (YC W25) Is Hiring Full Stack Engineers (SF)</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-07-13 @ 20:11:29</span
+              <span>2026-07-13 @ 21:01:00</span
               ><span class="points-container"
-                >Points: <span class="points">109</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48898134"
-                  >Comments</a
-                ><span class="descendants">: 106</span></span
+                >Points: <span class="points">1</span></span
               >
             </h4>
           </section>
@@ -492,11 +645,11 @@
             <h4>
               <span>2026-07-13 @ 18:53:53</span
               ><span class="points-container"
-                >Points: <span class="points">184</span></span
+                >Points: <span class="points">191</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48897104"
                   >Comments</a
-                ><span class="descendants">: 307</span></span
+                ><span class="descendants">: 317</span></span
               >
             </h4>
           </section>
@@ -513,51 +666,11 @@
             <h4>
               <span>2026-07-13 @ 18:22:16</span
               ><span class="points-container"
-                >Points: <span class="points">497</span></span
+                >Points: <span class="points">502</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48896665"
                   >Comments</a
                 ><span class="descendants">: 211</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48896600">
-          <h3>
-            <a class="item" href="https://cakehonolulu.github.io/linux-on-32x/"
-              >Linux on the Sega 32X. Who needs hardware synchronization
-              primitives anyway?</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-13 @ 18:18:25</span
-              ><span class="points-container"
-                >Points: <span class="points">136</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48896600"
-                  >Comments</a
-                ><span class="descendants">: 29</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48892859">
-          <h3>
-            <a class="item" href="https://github.com/clawkwork/clawk"
-              >Show HN: Clawk – Give coding agents a disposable Linux VM, not
-              your laptop</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-13 @ 14:02:03</span
-              ><span class="points-container"
-                >Points: <span class="points">206</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48892859"
-                  >Comments</a
-                ><span class="descendants">: 153</span></span
               >
             </h4>
           </section>
@@ -578,7 +691,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48892709"
                   >Comments</a
-                ><span class="descendants">: 104</span></span
+                ><span class="descendants">: 110</span></span
               >
             </h4>
           </section>
@@ -595,11 +708,11 @@
             <h4>
               <span>2026-07-11 @ 15:38:13</span
               ><span class="points-container"
-                >Points: <span class="points">28</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48872965"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -614,31 +727,32 @@
             <h4>
               <span>2026-07-11 @ 15:23:54</span
               ><span class="points-container"
-                >Points: <span class="points">89</span></span
+                >Points: <span class="points">94</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48872833"
                   >Comments</a
-                ><span class="descendants">: 36</span></span
+                ><span class="descendants">: 38</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="48872791">
+        <section id="48869989">
           <h3>
-            <a class="item" href="https://github.com/yagarea/jektex"
-              >Jektex 0.2.0 – A Jekyll plugin for LaTeX rendering is now ~10x
-              faster</a
+            <a
+              class="item"
+              href="https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/"
+              >Your 'App' Could Have Been a Webpage (so I fixed it for you)</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-07-11 @ 15:19:25</span
+              <span>2026-07-11 @ 08:21:27</span
               ><span class="points-container"
-                >Points: <span class="points">22</span></span
+                >Points: <span class="points">103</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48872791"
+                ><a href="https://news.ycombinator.com/item?id=48869989"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 57</span></span
               >
             </h4>
           </section>
@@ -653,7 +767,7 @@
             <h4>
               <span>2026-07-10 @ 02:27:55</span
               ><span class="points-container"
-                >Points: <span class="points">25</span></span
+                >Points: <span class="points">26</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48855045"
                   >Comments</a
@@ -675,11 +789,11 @@
             <h4>
               <span>2026-07-09 @ 22:20:35</span
               ><span class="points-container"
-                >Points: <span class="points">75</span></span
+                >Points: <span class="points">77</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48853146"
                   >Comments</a
-                ><span class="descendants">: 46</span></span
+                ><span class="descendants">: 47</span></span
               >
             </h4>
           </section>
@@ -696,7 +810,7 @@
             <h4>
               <span>2026-07-09 @ 14:00:19</span
               ><span class="points-container"
-                >Points: <span class="points">63</span></span
+                >Points: <span class="points">64</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48845999"
                   >Comments</a
@@ -715,32 +829,11 @@
             <h4>
               <span>2026-07-09 @ 13:30:34</span
               ><span class="points-container"
-                >Points: <span class="points">21</span></span
+                >Points: <span class="points">29</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48845527"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48827176">
-          <h3>
-            <a
-              class="item"
-              href="https://internals-for-interns.com/posts/go-runtime-profiling/"
-              >Understanding the Go Runtime: Profiling</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-08 @ 03:35:48</span
-              ><span class="points-container"
-                >Points: <span class="points">14</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48827176"
-                  >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
