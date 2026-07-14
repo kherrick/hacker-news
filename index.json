@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-07-14, 07:06:50",
+      "https://news.ycombinator.com/item?id=48903190"
+    ],
+    [
+      "The Anatomy of an Instruction Pipeline Hazard",
+      "https://hiraditya.github.io/posts/hardware-hazards-b200/"
+    ]
+  ],
+  [
+    [
+      "2026-07-14, 06:48:47",
+      "https://news.ycombinator.com/item?id=48903102"
+    ],
+    [
+      "Show HN: Benchmark your eng team's AI agent maturity in 5 minutes",
+      "https://agent-benchmarks.com/software-factory/"
+    ]
+  ],
+  [
+    [
       "2026-07-14, 05:21:02",
       "https://news.ycombinator.com/item?id=48902599"
     ],
     [
       "OpenAI's Ad Business Is on Pace to Miss Its Own Forecast by 90%, Analyst Says",
       "https://www.adweek.com/media/openais-ad-business-is-on-pace-to-miss-its-own-forecast-by-90-analyst-says/"
+    ]
+  ],
+  [
+    [
+      "2026-07-14, 04:31:48",
+      "https://news.ycombinator.com/item?id=48902320"
+    ],
+    [
+      "Australian energy retailers must provide three hours of free daytime electricity",
+      "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/"
     ]
   ],
   [
@@ -61,16 +91,6 @@
   ],
   [
     [
-      "2026-07-14, 01:44:40",
-      "https://news.ycombinator.com/item?id=48901292"
-    ],
-    [
-      "What will be left for us to work on?",
-      "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work"
-    ]
-  ],
-  [
-    [
       "2026-07-14, 01:41:49",
       "https://news.ycombinator.com/item?id=48901275"
     ],
@@ -121,32 +141,12 @@
   ],
   [
     [
-      "2026-07-13, 23:26:52",
-      "https://news.ycombinator.com/item?id=48900319"
-    ],
-    [
-      "Show HN: Sx 2.0 – Share AI skills with your team through a Dropbox folder",
-      "https://sleuth-io.github.io/sx/2026/07/10/your-dropbox-is-now-a-skill-server.html"
-    ]
-  ],
-  [
-    [
       "2026-07-13, 23:12:22",
       "https://news.ycombinator.com/item?id=48900191"
     ],
     [
       "An Englishwoman who sketched India before photography took hold",
       "https://www.bbc.com/news/articles/cm2drrv6q54o"
-    ]
-  ],
-  [
-    [
-      "2026-07-13, 21:43:51",
-      "https://news.ycombinator.com/item?id=48899321"
-    ],
-    [
-      "A Study of Microsoft's Early 2026 Rollout of Claude Code and GitHub Copilot CLI",
-      "https://arxiv.org/abs/2607.01418"
     ]
   ],
   [
@@ -167,16 +167,6 @@
     [
       "Show HN: I implemented a neural network in SQL",
       "https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py"
-    ]
-  ],
-  [
-    [
-      "2026-07-13, 19:11:17",
-      "https://news.ycombinator.com/item?id=48897329"
-    ],
-    [
-      "TFTP Honey Pot Results",
-      "https://bruceediger.com/posts/tftp-honeypot-results/"
     ]
   ],
   [
@@ -221,22 +211,42 @@
   ],
   [
     [
-      "2026-07-13, 15:56:02",
-      "https://news.ycombinator.com/item?id=48894630"
+      "2026-07-13, 14:39:38",
+      "https://news.ycombinator.com/item?id=48893446"
     ],
     [
-      "Show HN: Jacquard, a programming language for AI-written, human-reviewed code",
-      "https://github.com/jbwinters/jacquard-lang"
+      "Precursor",
+      "https://blog.cloudflare.com/introducing-precursor/"
     ]
   ],
   [
     [
-      "2026-07-13, 14:47:23",
-      "https://news.ycombinator.com/item?id=48893550"
+      "2026-07-13, 14:02:03",
+      "https://news.ycombinator.com/item?id=48892859"
     ],
     [
-      "Show HN: Hackney – Compare Uber, Lyft, Waymo, and Robotaxi Prices",
-      "https://hackney.app/"
+      "Show HN: Clawk – Give coding agents a disposable Linux VM, not your laptop",
+      "https://github.com/clawkwork/clawk"
+    ]
+  ],
+  [
+    [
+      "2026-07-13, 13:54:10",
+      "https://news.ycombinator.com/item?id=48892709"
+    ],
+    [
+      "Nokia’s years of mobile-phone supremacy ended in an afternoon",
+      "https://spectrum.ieee.org/nokia-phones-history"
+    ]
+  ],
+  [
+    [
+      "2026-07-11, 15:38:13",
+      "https://news.ycombinator.com/item?id=48872965"
+    ],
+    [
+      "Zero Knowledge Tolstoyan Art",
+      "https://max-amb.github.io/blog/zero_knowledge_tolstoyan_art/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "World-First 'Super Alloy' Could Transform the Way Metals Are Made",
       "https://www.sciencealert.com/world-first-super-alloy-could-transform-the-way-metals-are-made"
-    ]
-  ],
-  [
-    [
-      "2026-07-09, 20:47:45",
-      "https://news.ycombinator.com/item?id=48852159"
-    ],
-    [
-      "Ancient Roman Board Game",
-      "https://ludus-coriovalli.web.app/"
     ]
   ],
   [
