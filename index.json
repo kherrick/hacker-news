@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=48907290"
     ],
     [
-      "A Philosopher's One-Word Theory to Explain Why the World Feels So Weird",
+      "Agnes Callard’s theory of the uni-context",
       "https://www.derekthompson.org/p/a-philosophers-one-word-theory-to"
     ]
   ],
@@ -101,12 +101,32 @@
   ],
   [
     [
+      "2026-07-14, 11:46:02",
+      "https://news.ycombinator.com/item?id=48905248"
+    ],
+    [
+      "How to stop Claude from saying load-bearing",
+      "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing"
+    ]
+  ],
+  [
+    [
       "2026-07-14, 11:33:19",
       "https://news.ycombinator.com/item?id=48905118"
     ],
     [
-      "Punch Yourself in the Face with Reality",
+      "Punch yourself in the face with reality",
       "https://adi.bio/reality"
+    ]
+  ],
+  [
+    [
+      "2026-07-14, 11:31:59",
+      "https://news.ycombinator.com/item?id=48905105"
+    ],
+    [
+      "No Spanish reading crisis?",
+      "https://www.commonreader.co.uk/p/no-spanish-reading-crisis"
     ]
   ],
   [
@@ -127,26 +147,6 @@
     [
       "Codex starts encrypting sub-agent prompts",
       "https://github.com/openai/codex/issues/28058"
-    ]
-  ],
-  [
-    [
-      "2026-07-14, 11:06:09",
-      "https://news.ycombinator.com/item?id=48904912"
-    ],
-    [
-      "Show HN: Rejourney – Open-source revenue leak prediction for web and mobile apps",
-      "https://github.com/rejourneyco/rejourney"
-    ]
-  ],
-  [
-    [
-      "2026-07-14, 11:05:27",
-      "https://news.ycombinator.com/item?id=48904905"
-    ],
-    [
-      "The Future Worth Building Is Human",
-      "https://thinkingmachines.ai/blog/the-future-worth-building-is-human/"
     ]
   ],
   [
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2026-07-14, 05:57:50",
-      "https://news.ycombinator.com/item?id=48902791"
-    ],
-    [
-      "Just Let Me Write Digits",
-      "https://gendx.dev/blog/2026/07/13/input-digits.html"
-    ]
-  ],
-  [
-    [
       "2026-07-14, 04:31:48",
       "https://news.ycombinator.com/item?id=48902320"
     ],
@@ -211,32 +201,22 @@
   ],
   [
     [
-      "2026-07-14, 03:39:55",
-      "https://news.ycombinator.com/item?id=48902026"
+      "2026-07-14, 02:40:41",
+      "https://news.ycombinator.com/item?id=48901645"
     ],
     [
-      "YouTrackDB is a general-use object-oriented graph database",
-      "https://github.com/JetBrains/youtrackdb"
+      "Our Amish Language",
+      "https://www.thedial.world/articles/news/amish-pennsylvania-dutch"
     ]
   ],
   [
     [
-      "2026-07-14, 02:27:20",
-      "https://news.ycombinator.com/item?id=48901569"
+      "2026-07-14, 01:55:24",
+      "https://news.ycombinator.com/item?id=48901356"
     ],
     [
-      "Japan develops a method to recover up to 90% of lithium from used EV batteries",
-      "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/"
-    ]
-  ],
-  [
-    [
-      "2026-07-14, 02:10:19",
-      "https://news.ycombinator.com/item?id=48901454"
-    ],
-    [
-      "Fundamentals of Wireless Communication (2005)",
-      "https://web.stanford.edu/~dntse/wireless_book.html"
+      "Satellite Tracker – Live Map of Starlink and 30k Satellites",
+      "https://satellitemap.space/"
     ]
   ],
   [
@@ -251,12 +231,22 @@
   ],
   [
     [
-      "2026-07-13, 23:12:22",
-      "https://news.ycombinator.com/item?id=48900191"
+      "2026-07-14, 00:26:43",
+      "https://news.ycombinator.com/item?id=48900796"
     ],
     [
-      "An Englishwoman who sketched India before photography took hold",
-      "https://www.bbc.com/news/articles/cm2drrv6q54o"
+      "What did SFFA vs. Harvard reveal about admissions?",
+      "https://sorting-machine.pages.dev/"
+    ]
+  ],
+  [
+    [
+      "2026-07-13, 04:11:20",
+      "https://news.ycombinator.com/item?id=48887810"
+    ],
+    [
+      "A metallurgist's doubts about self-replicating probes",
+      "https://www.centauri-dreams.org/2026/07/10/a-metallurgists-doubts-about-self-replicating-probes/"
     ]
   ],
   [
@@ -271,12 +261,22 @@
   ],
   [
     [
-      "2026-07-11, 15:23:54",
-      "https://news.ycombinator.com/item?id=48872833"
+      "2026-07-11, 23:26:12",
+      "https://news.ycombinator.com/item?id=48876809"
     ],
     [
-      "How to build a circular LCD clock",
-      "https://blinry.org/lcd-clock/"
+      "How the FSF sysadmins block botnets with reaction",
+      "https://www.fsf.org/blogs/community/blocking-botnets-with-reaction"
+    ]
+  ],
+  [
+    [
+      "2026-07-11, 08:21:27",
+      "https://news.ycombinator.com/item?id=48869989"
+    ],
+    [
+      "Your 'app' could have been a webpage (so I fixed it for you)",
+      "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-07-09, 13:30:34",
-      "https://news.ycombinator.com/item?id=48845527"
+      "2026-07-09, 15:50:40",
+      "https://news.ycombinator.com/item?id=48847943"
     ],
     [
-      "Notable Knot Index (2016)",
-      "https://knots.neocities.org/knotindex"
+      "The tiny cell that wasn't there",
+      "https://grist.org/science/nitrogen-cycle-cell-discovery-nitroplast-science-fertilizer-algae-bacteria/"
     ]
   ]
 ]
