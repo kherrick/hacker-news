@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-14, 16:36:06",
+      "https://news.ycombinator.com/item?id=48909424"
+    ],
+    [
+      "Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",
+      "https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/"
+    ]
+  ],
+  [
+    [
       "2026-07-14, 16:06:18",
       "https://news.ycombinator.com/item?id=48908950"
     ],
@@ -21,16 +31,6 @@
   ],
   [
     [
-      "2026-07-14, 15:20:36",
-      "https://news.ycombinator.com/item?id=48908214"
-    ],
-    [
-      "I'm a USB-C Maximalist",
-      "https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/"
-    ]
-  ],
-  [
-    [
       "2026-07-14, 15:18:13",
       "https://news.ycombinator.com/item?id=48908178"
     ],
@@ -47,26 +47,6 @@
     [
       "The Agentic Loop: Three loops in a trench coat",
       "https://www.bobbytables.io/p/the-agentic-loop-three-loops-in-a"
-    ]
-  ],
-  [
-    [
-      "2026-07-14, 14:17:54",
-      "https://news.ycombinator.com/item?id=48907296"
-    ],
-    [
-      "New York becomes the first state to impose a data center moratorium",
-      "https://www.reuters.com/world/new-york-becomes-first-state-impose-data-center-moratorium-2026-07-14/"
-    ]
-  ],
-  [
-    [
-      "2026-07-14, 14:17:39",
-      "https://news.ycombinator.com/item?id=48907290"
-    ],
-    [
-      "Agnes Callard’s theory of the uni-context",
-      "https://www.derekthompson.org/p/a-philosophers-one-word-theory-to"
     ]
   ],
   [
@@ -97,16 +77,6 @@
     [
       "Beautiful Type Erasure with C++26 Reflection",
       "https://ryanjk5.github.io/posts/rjk-duck/"
-    ]
-  ],
-  [
-    [
-      "2026-07-14, 12:28:09",
-      "https://news.ycombinator.com/item?id=48905764"
-    ],
-    [
-      "Coding agents think ahead of time",
-      "https://arxiv.org/abs/2607.05188"
     ]
   ],
   [
@@ -227,6 +197,36 @@
     [
       "Our Amish Language",
       "https://www.thedial.world/articles/news/amish-pennsylvania-dutch"
+    ]
+  ],
+  [
+    [
+      "2026-07-14, 01:55:24",
+      "https://news.ycombinator.com/item?id=48901356"
+    ],
+    [
+      "Satellite Tracker – Live Map of Starlink and 30k Satellites",
+      "https://satellitemap.space/"
+    ]
+  ],
+  [
+    [
+      "2026-07-14, 00:57:11",
+      "https://news.ycombinator.com/item?id=48901010"
+    ],
+    [
+      "The git history command",
+      "https://lalitm.com/post/git-history/"
+    ]
+  ],
+  [
+    [
+      "2026-07-14, 00:26:43",
+      "https://news.ycombinator.com/item?id=48900796"
+    ],
+    [
+      "What did SFFA vs. Harvard reveal about admissions?",
+      "https://sorting-machine.pages.dev/"
     ]
   ],
   [
