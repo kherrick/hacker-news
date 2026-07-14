@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-07-14, 14:17:54",
+      "https://news.ycombinator.com/item?id=48907296"
+    ],
+    [
+      "New York becomes the first state to impose a data center moratorium",
+      "https://www.reuters.com/world/new-york-becomes-first-state-impose-data-center-moratorium-2026-07-14/"
+    ]
+  ],
+  [
+    [
+      "2026-07-14, 14:17:39",
+      "https://news.ycombinator.com/item?id=48907290"
+    ],
+    [
+      "A Philosopher's One-Word Theory to Explain Why the World Feels So Weird",
+      "https://www.derekthompson.org/p/a-philosophers-one-word-theory-to"
+    ]
+  ],
+  [
+    [
+      "2026-07-14, 14:12:39",
+      "https://news.ycombinator.com/item?id=48907214"
+    ],
+    [
+      "OpenAI mandates hardware-backed passkeys for Trusted Access Cyber members",
+      "https://www.yubico.com/blog/openai-mandates-hardware-backed-passkeys-for-trusted-access-cyber-members-to-log-into-chatgpt-accounts/"
+    ]
+  ],
+  [
+    [
       "2026-07-14, 12:56:25",
       "https://news.ycombinator.com/item?id=48906125"
     ],
@@ -131,12 +161,12 @@
   ],
   [
     [
-      "2026-07-14, 10:58:38",
-      "https://news.ycombinator.com/item?id=48904855"
+      "2026-07-14, 09:20:07",
+      "https://news.ycombinator.com/item?id=48904095"
     ],
     [
-      "The great digital fatigue: How digital burnout is changing social media use",
-      "https://blog.incogni.com/digital-fatigue-and-burnout/"
+      "Demis Hassabis has a plan to harness AI safely",
+      "https://twitter.com/demishassabis/status/2076957440109625718"
     ]
   ],
   [
@@ -211,36 +241,6 @@
   ],
   [
     [
-      "2026-07-14, 01:55:24",
-      "https://news.ycombinator.com/item?id=48901356"
-    ],
-    [
-      "Satellite Tracker – Live Map of Starlink and 30k Satellites",
-      "https://satellitemap.space/"
-    ]
-  ],
-  [
-    [
-      "2026-07-14, 01:36:13",
-      "https://news.ycombinator.com/item?id=48901235"
-    ],
-    [
-      "Is x86 ready to ACE it?",
-      "https://chipsandcheese.com/p/is-x86-ready-to-ace-it"
-    ]
-  ],
-  [
-    [
-      "2026-07-14, 01:35:23",
-      "https://news.ycombinator.com/item?id=48901224"
-    ],
-    [
-      "The Economics of Recursive Self-Improvement [pdf]",
-      "https://elasticity.institute/rsi-paper.pdf"
-    ]
-  ],
-  [
-    [
       "2026-07-14, 00:57:11",
       "https://news.ycombinator.com/item?id=48901010"
     ],
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2026-07-12, 18:28:15",
+      "https://news.ycombinator.com/item?id=48883305"
+    ],
+    [
+      "Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",
+      "https://github.com/juggler-ai/juggler"
+    ]
+  ],
+  [
+    [
       "2026-07-11, 15:23:54",
       "https://news.ycombinator.com/item?id=48872833"
     ],
@@ -271,22 +281,12 @@
   ],
   [
     [
-      "2026-07-11, 09:08:08",
-      "https://news.ycombinator.com/item?id=48870217"
+      "2026-07-09, 18:51:22",
+      "https://news.ycombinator.com/item?id=48850688"
     ],
     [
-      "Kids (With Phones) Are Alright",
-      "https://heatherburns.tech/2026/07/08/the-kids-with-phones-are-alright/"
-    ]
-  ],
-  [
-    [
-      "2026-07-11, 08:21:27",
-      "https://news.ycombinator.com/item?id=48869989"
-    ],
-    [
-      "Your 'App' Could Have Been a Webpage (so I fixed it for you)",
-      "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/"
+      "Paxos Made Simple (2001)[pdf]",
+      "https://lamport.azurewebsites.net/pubs/paxos-simple.pdf"
     ]
   ],
   [
