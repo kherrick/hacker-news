@@ -4,6 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-07-14](index.md)
 
+* [2026-07-14, 02:27:20](https://news.ycombinator.com/item?id=48901569) - [Japan develops a method to recover up to 90% of lithium from used EV batteries](https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/)
+* [2026-07-14, 02:10:19](https://news.ycombinator.com/item?id=48901454) - [Fundamentals of Wireless Communication](https://web.stanford.edu/~dntse/wireless_book.html)
+* [2026-07-14, 01:55:24](https://news.ycombinator.com/item?id=48901356) - [Satellite Tracker – Live Map of Starlink and 30k Satellites](https://satellitemap.space/)
+* [2026-07-14, 01:44:40](https://news.ycombinator.com/item?id=48901292) - [What will be left for us to work on?](https://www.normaltech.ai/p/what-will-be-left-for-us-to-work)
+* [2026-07-14, 01:41:49](https://news.ycombinator.com/item?id=48901275) - [Building Food Metadata with LLM Juries](https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/)
+* [2026-07-14, 01:36:13](https://news.ycombinator.com/item?id=48901235) - [Is x86 ready to ACE it?](https://chipsandcheese.com/p/is-x86-ready-to-ace-it)
+* [2026-07-14, 01:35:23](https://news.ycombinator.com/item?id=48901224) - [The Economics of Recursive Self-Improvement [pdf]](https://elasticity.institute/rsi-paper.pdf)
 * [2026-07-14, 01:17:30](https://news.ycombinator.com/item?id=48901126) - [MorphoHDL: A minimalistic language for growing circuits](https://paradigms-of-intelligence.github.io/morpho/)
 * [2026-07-14, 00:58:55](https://news.ycombinator.com/item?id=48901020) - [ESBMC-Arduino: Closing the Deployment Gap for Formal Verification](https://arxiv.org/abs/2607.08550)
 * [2026-07-14, 00:57:11](https://news.ycombinator.com/item?id=48901010) - [The Git history command deserves more attention](https://lalitm.com/post/git-history/)

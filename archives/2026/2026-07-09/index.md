@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-09](index.md)
 
+* [2026-07-09, 22:20:35](https://news.ycombinator.com/item?id=48853146) - [World-First 'Super Alloy' Could Transform the Way Metals Are Made](https://www.sciencealert.com/world-first-super-alloy-could-transform-the-way-metals-are-made)
 * [2026-07-09, 22:15:56](https://news.ycombinator.com/item?id=48853091) - [Why American ambulance rides are so expensive](https://davidoks.blog/p/why-american-ambulance-rides-are)
 * [2026-07-09, 21:39:17](https://news.ycombinator.com/item?id=48852718) - [Calculix: A Free Software Three-Dimensional Structural Finite Element Program](https://www.calculix.de/)
 * [2026-07-09, 21:09:05](https://news.ycombinator.com/item?id=48852403) - [Rubiks Cube Solver](https://speedcube.com.br/)
