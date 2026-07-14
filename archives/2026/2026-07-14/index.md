@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-07-14](index.md)
 
+* [2026-07-14, 14:17:54](https://news.ycombinator.com/item?id=48907296) - [New York becomes the first state to impose a data center moratorium](https://www.reuters.com/world/new-york-becomes-first-state-impose-data-center-moratorium-2026-07-14/)
+* [2026-07-14, 14:17:39](https://news.ycombinator.com/item?id=48907290) - [A Philosopher's One-Word Theory to Explain Why the World Feels So Weird](https://www.derekthompson.org/p/a-philosophers-one-word-theory-to)
+* [2026-07-14, 14:12:39](https://news.ycombinator.com/item?id=48907214) - [OpenAI mandates hardware-backed passkeys for Trusted Access Cyber members](https://www.yubico.com/blog/openai-mandates-hardware-backed-passkeys-for-trusted-access-cyber-members-to-log-into-chatgpt-accounts/)
 * [2026-07-14, 12:56:25](https://news.ycombinator.com/item?id=48906125) - [Proof of Care in the Age of A.I](https://jacobfilipp.com/care/)
 * [2026-07-14, 12:56:21](https://news.ycombinator.com/item?id=48906123) - [Tensor Is the Might](https://zserge.com/posts/tensor/)
 * [2026-07-14, 12:41:25](https://news.ycombinator.com/item?id=48905919) - [Show HN: I RL-trained an agent that trains models with RL (for –$1.3k)](https://github.com/Danau5tin/ai-trains-ai)
@@ -20,6 +23,7 @@
 * [2026-07-14, 11:05:27](https://news.ycombinator.com/item?id=48904905) - [The Future Worth Building Is Human – Thinking Machines Lab](https://thinkingmachines.ai/blog/the-future-worth-building-is-human/)
 * [2026-07-14, 11:05:15](https://news.ycombinator.com/item?id=48904902) - [Actegories](https://bartoszmilewski.com/2026/06/30/actegories/)
 * [2026-07-14, 10:58:38](https://news.ycombinator.com/item?id=48904855) - [The great digital fatigue: How digital burnout is changing social media use](https://blog.incogni.com/digital-fatigue-and-burnout/)
+* [2026-07-14, 09:20:07](https://news.ycombinator.com/item?id=48904095) - [Demis Hassabis has a plan to harness AI safely](https://twitter.com/demishassabis/status/2076957440109625718)
 * [2026-07-14, 08:34:57](https://news.ycombinator.com/item?id=48903777) - [European \"age verification\" \"app\" forcing everyone to use Android or iOS](https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19)
 * [2026-07-14, 08:24:49](https://news.ycombinator.com/item?id=48903715) - [Alternative(s) to run CUDA on non-Nvidia hardware](https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/)
 * [2026-07-14, 08:22:52](https://news.ycombinator.com/item?id=48903701) - [Two Case Studies of NaN](https://sebsite.pw/w/20260709-nan.html)

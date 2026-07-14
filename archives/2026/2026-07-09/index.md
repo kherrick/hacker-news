@@ -16,6 +16,7 @@
 * [2026-07-09, 19:49:37](https://news.ycombinator.com/item?id=48851476) - [Show HN: Reviving my 2001 college band with AI](https://www.fadingmaize.com)
 * [2026-07-09, 19:43:49](https://news.ycombinator.com/item?id=48851412) - [N+1](https://www.woman-of-letters.com/p/n1)
 * [2026-07-09, 19:20:11](https://news.ycombinator.com/item?id=48851069) - [The four horsemen behind Postgres outages](https://malisper.me/the-four-horsemen-behind-thousands-of-postgres-outages/)
+* [2026-07-09, 18:51:22](https://news.ycombinator.com/item?id=48850688) - [Paxos Made Simple (2001)[pdf]](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf)
 * [2026-07-09, 18:29:41](https://news.ycombinator.com/item?id=48850414) - [GLM 5.2 is nearly as accurate as a human book keeper](https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark)
 * [2026-07-09, 18:27:06](https://news.ycombinator.com/item?id=48850372) - [How to Start a Ruby Meetup](https://guides.rubyevents.org/meetups/)
 * [2026-07-09, 17:59:13](https://news.ycombinator.com/item?id=48849983) - [Are you telling me a readonly property is wrecking my performance?](https://shub.club/writings/2026/july/check-your-scrollheight/)
