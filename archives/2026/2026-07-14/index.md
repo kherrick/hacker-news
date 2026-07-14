@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-07-14](index.md)
 
+* [2026-07-14, 22:52:23](https://news.ycombinator.com/item?id=48913953) - [Linear is always a lagging indicator](https://remark.ing/rob/rob.mw/-/Linear-is-always-a)
+* [2026-07-14, 22:50:24](https://news.ycombinator.com/item?id=48913936) - [The politics of air conditioning in Switzerland](https://lenews.ch/2026/05/29/the-politics-of-air-conditioning-in-switzerland/)
+* [2026-07-14, 22:47:58](https://news.ycombinator.com/item?id=48913910) - [Casio FX870P Emulator](https://github.com/urbancamo/fx870p-emulator)
 * [2026-07-14, 22:46:41](https://news.ycombinator.com/item?id=48913894) - [QR-Swastika-Avoider](https://crates.io/crates/qr-swastika-avoider)
 * [2026-07-14, 22:30:47](https://news.ycombinator.com/item?id=48913763) - [LeMario: Training a JEPA World Model on Super Mario Bros](https://www.benjamin-bai.com/projects/lemario)
 * [2026-07-14, 21:58:36](https://news.ycombinator.com/item?id=48913443) - [Financing the AI boom: from cash flows to debt [pdf]](https://www.bis.org/publ/bisbull120.pdf)
