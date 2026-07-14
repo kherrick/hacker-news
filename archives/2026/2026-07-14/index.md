@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-07-14](index.md)
 
+* [2026-07-14, 12:41:25](https://news.ycombinator.com/item?id=48905919) - [Show HN: I RL-trained an agent that trains models with RL (for –$1.3k)](https://github.com/Danau5tin/ai-trains-ai)
+* [2026-07-14, 12:40:50](https://news.ycombinator.com/item?id=48905914) - [Beautiful Type Erasure with C++26 Reflection](https://ryanjk5.github.io/posts/rjk-duck/)
+* [2026-07-14, 12:28:09](https://news.ycombinator.com/item?id=48905764) - [Coding agents think ahead of time](https://arxiv.org/abs/2607.05188)
 * [2026-07-14, 11:49:48](https://news.ycombinator.com/item?id=48905290) - [Germany set to restrict its Freedom of Information Act](https://www.dw.com/en/germany-freedom-of-information-act/a-77939695)
 * [2026-07-14, 11:46:02](https://news.ycombinator.com/item?id=48905248) - [How to stop Claude from saying load-bearing](https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing)
 * [2026-07-14, 11:33:19](https://news.ycombinator.com/item?id=48905118) - [Punch Yourself in the Face with Reality](https://adi.bio/reality)

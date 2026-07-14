@@ -44,6 +44,7 @@
 * [2026-07-09, 15:19:33](https://news.ycombinator.com/item?id=48847407) - [Opinionated and Easy Pi.dev Configuration](https://lazypi.org/)
 * [2026-07-09, 15:19:23](https://news.ycombinator.com/item?id=48847405) - [Coordination Without Consolidation: On Systems of States [pdf]](https://isonomiaquarterly.com/wp-content/uploads/2026/06/iq-4.2-summer-2026-macdonald-coordination-without-consolidation.pdf)
 * [2026-07-09, 15:16:46](https://news.ycombinator.com/item?id=48847368) - [Stop Using reCAPTCHA – It's Not a Real Captcha](https://na0341.bearblog.dev/info/stop-using-recaptcha/)
+* [2026-07-09, 15:16:43](https://news.ycombinator.com/item?id=48847365) - [Dmars – A modern Core Wars toolchain](https://dmars.drpz.xyz/)
 * [2026-07-09, 15:13:11](https://news.ycombinator.com/item?id=48847298) - [Show HN: LastShelf – an emergency map of your family's documents bills& contacts](https://www.lastshelf.ai/)
 * [2026-07-09, 15:06:52](https://news.ycombinator.com/item?id=48847181) - [Ways to think about token pricing](https://www.ben-evans.com/benedictevans/2026/7/9/ways-to-think-about-token-pricing)
 * [2026-07-09, 14:57:02](https://news.ycombinator.com/item?id=48846995) - [TLS certificates for internal services done right](https://tuxnet.dev/posts/tls-for-internal-services/)
