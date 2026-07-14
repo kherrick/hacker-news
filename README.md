@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-14, 04:31:48](https://news.ycombinator.com/item?id=48902320) - [Australia is offering free daytime electricity](https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/)
 * [2026-07-14, 03:39:55](https://news.ycombinator.com/item?id=48902026) - [YouTrackDB is a general-use object-oriented graph database](https://github.com/JetBrains/youtrackdb)
 * [2026-07-14, 02:40:41](https://news.ycombinator.com/item?id=48901645) - [Our Amish Language](https://www.thedial.world/articles/news/amish-pennsylvania-dutch)
 * [2026-07-14, 02:27:20](https://news.ycombinator.com/item?id=48901569) - [Japan develops a method to recover up to 90% of lithium from used EV batteries](https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/)
@@ -28,7 +29,6 @@
 * [2026-07-11, 15:23:54](https://news.ycombinator.com/item?id=48872833) - [How to build a circular LCD clock](https://blinry.org/lcd-clock/)
 * [2026-07-09, 22:20:35](https://news.ycombinator.com/item?id=48853146) - [World-First 'Super Alloy' Could Transform the Way Metals Are Made](https://www.sciencealert.com/world-first-super-alloy-could-transform-the-way-metals-are-made)
 * [2026-07-09, 20:47:45](https://news.ycombinator.com/item?id=48852159) - [Ancient Roman Board Game](https://ludus-coriovalli.web.app/)
-* [2026-07-09, 20:46:38](https://news.ycombinator.com/item?id=48852144) - [Show HN: RandoFont – A browser for Google Fonts](https://randofont.alesh.com)
 * [2026-07-09, 14:00:19](https://news.ycombinator.com/item?id=48845999) - [Writing a bindless GPU abstraction layer](https://www.kevin-gibson.com/blog/writing-a-bindless-gpu-abstraction-layer/)
 
 ## [Archives](archives/index.md)
