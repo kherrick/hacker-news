@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-07-14, 04:31:48](https://news.ycombinator.com/item?id=48902320) - [Australia is offering free daytime electricity](https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/)
+* [2026-07-14, 05:21:02](https://news.ycombinator.com/item?id=48902599) - [OpenAI's Ad Business Is on Pace to Miss Its Own Forecast by 90%, Analyst Says](https://www.adweek.com/media/openais-ad-business-is-on-pace-to-miss-its-own-forecast-by-90-analyst-says/)
 * [2026-07-14, 03:39:55](https://news.ycombinator.com/item?id=48902026) - [YouTrackDB is a general-use object-oriented graph database](https://github.com/JetBrains/youtrackdb)
 * [2026-07-14, 02:40:41](https://news.ycombinator.com/item?id=48901645) - [Our Amish Language](https://www.thedial.world/articles/news/amish-pennsylvania-dutch)
 * [2026-07-14, 02:27:20](https://news.ycombinator.com/item?id=48901569) - [Japan develops a method to recover up to 90% of lithium from used EV batteries](https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/)
@@ -24,9 +24,9 @@
 * [2026-07-13, 18:18:25](https://news.ycombinator.com/item?id=48896600) - [Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?](https://cakehonolulu.github.io/linux-on-32x/)
 * [2026-07-13, 16:06:08](https://news.ycombinator.com/item?id=48894752) - [Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor](https://get-inscribe.com/blog/apple-speech-api-benchmark.html)
 * [2026-07-13, 15:56:02](https://news.ycombinator.com/item?id=48894630) - [Show HN: Jacquard, a programming language for AI-written, human-reviewed code](https://github.com/jbwinters/jacquard-lang)
-* [2026-07-13, 14:52:33](https://news.ycombinator.com/item?id=48893639) - [The art and engineering of Sega CD Silpheed](https://fabiensanglard.net/silpheed/index.html)
 * [2026-07-13, 14:47:23](https://news.ycombinator.com/item?id=48893550) - [Show HN: Hackney – Compare Uber, Lyft, Waymo, and Robotaxi Prices](https://hackney.app/)
 * [2026-07-11, 15:23:54](https://news.ycombinator.com/item?id=48872833) - [How to build a circular LCD clock](https://blinry.org/lcd-clock/)
+* [2026-07-10, 02:27:55](https://news.ycombinator.com/item?id=48855045) - [Two Case Studies of NaN](https://sebsite.pw/w/20260709-nan.html)
 * [2026-07-09, 22:20:35](https://news.ycombinator.com/item?id=48853146) - [World-First 'Super Alloy' Could Transform the Way Metals Are Made](https://www.sciencealert.com/world-first-super-alloy-could-transform-the-way-metals-are-made)
 * [2026-07-09, 20:47:45](https://news.ycombinator.com/item?id=48852159) - [Ancient Roman Board Game](https://ludus-coriovalli.web.app/)
 * [2026-07-09, 14:00:19](https://news.ycombinator.com/item?id=48845999) - [Writing a bindless GPU abstraction layer](https://www.kevin-gibson.com/blog/writing-a-bindless-gpu-abstraction-layer/)

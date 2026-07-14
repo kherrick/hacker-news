@@ -61,6 +61,7 @@
 * [2026-07-10, 04:52:34](https://news.ycombinator.com/item?id=48855881) - [Counting ArXiv Delays](https://fi-le.net/arxiv/)
 * [2026-07-10, 03:38:55](https://news.ycombinator.com/item?id=48855488) - [The Oral History of the Dinosaur Input Device (DID)](https://vfxblog.com/dinosaurinputdevice/)
 * [2026-07-10, 02:39:07](https://news.ycombinator.com/item?id=48855112) - [Ben Bernanke Joins Anthropic Oversight Trust](https://www.anthropic.com/news/ben-bernanke)
+* [2026-07-10, 02:27:55](https://news.ycombinator.com/item?id=48855045) - [Two Case Studies of NaN](https://sebsite.pw/w/20260709-nan.html)
 * [2026-07-10, 01:28:43](https://news.ycombinator.com/item?id=48854681) - [Build your own vulnerability harness](https://blog.cloudflare.com/build-your-own-vulnerability-harness/)
 * [2026-07-10, 01:20:16](https://news.ycombinator.com/item?id=48854638) - [Star Just Ate a Planet, and It's Not Done Yet](https://www.nytimes.com/2026/07/09/science/space/planetary-engulfment-hungry-star.html)
 * [2026-07-10, 00:40:33](https://news.ycombinator.com/item?id=48854363) - [Focus](https://boz.com/articles/focus)
