@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-07-14](index.md)
 
+* [2026-07-14, 11:21:32](https://news.ycombinator.com/item?id=48905028) - [Codex starts encrypting prompts, uses ciphertext for inference instead](https://github.com/openai/codex/issues/28058)
+* [2026-07-14, 11:06:09](https://news.ycombinator.com/item?id=48904912) - [Show HN: Rejourney – Open-source revenue leak prediction for web and mobile apps](https://github.com/rejourneyco/rejourney)
+* [2026-07-14, 11:05:27](https://news.ycombinator.com/item?id=48904905) - [The Future Worth Building Is Human – Thinking Machines Lab](https://thinkingmachines.ai/blog/the-future-worth-building-is-human/)
+* [2026-07-14, 11:05:15](https://news.ycombinator.com/item?id=48904902) - [Actegories](https://bartoszmilewski.com/2026/06/30/actegories/)
+* [2026-07-14, 10:58:38](https://news.ycombinator.com/item?id=48904855) - [The great digital fatigue: How digital burnout is changing social media use](https://blog.incogni.com/digital-fatigue-and-burnout/)
 * [2026-07-14, 08:34:57](https://news.ycombinator.com/item?id=48903777) - [European \"age verification\" \"app\" forcing everyone to use Android or iOS](https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19)
 * [2026-07-14, 08:24:49](https://news.ycombinator.com/item?id=48903715) - [Alternative(s) to run CUDA on non-Nvidia hardware](https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/)
 * [2026-07-14, 08:22:52](https://news.ycombinator.com/item?id=48903701) - [Two Case Studies of NaN](https://sebsite.pw/w/20260709-nan.html)

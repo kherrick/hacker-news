@@ -54,6 +54,7 @@
 * [2026-07-11, 09:36:53](https://news.ycombinator.com/item?id=48870381) - [A font that humans can read but AI cannot](https://www.mixfont.com/ghost-font)
 * [2026-07-11, 09:16:10](https://news.ycombinator.com/item?id=48870258) - [Almost $1B Later, the US Still Can't Make a Medical Glove](https://www.bloomberg.com/news/features/2026-07-07/why-it-s-so-difficult-to-produce-100-american-made-medical-gloves)
 * [2026-07-11, 08:29:43](https://news.ycombinator.com/item?id=48870035) - [Companies are scrambling to curtail soaring AI costs](https://www.economist.com/business/2026/06/14/companies-are-scrambling-to-curtail-soaring-ai-costs)
+* [2026-07-11, 08:21:27](https://news.ycombinator.com/item?id=48869989) - [Your 'App' Could Have Been a Webpage (so I fixed it for you)](https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/)
 * [2026-07-11, 06:09:33](https://news.ycombinator.com/item?id=48869243) - [What's the best way to do authentication in modern applications](https://neciudan.dev/most-secure-way-to-store-auth-token)
 * [2026-07-11, 05:19:41](https://news.ycombinator.com/item?id=48868996) - [The vintage beauty of Soviet control rooms (2018)](https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/)
 * [2026-07-11, 03:24:03](https://news.ycombinator.com/item?id=48868417) - [The Origins of Heikki's Garden of Flowers](https://garden-of-flowers.heikkilotvonen.com/?essay)
