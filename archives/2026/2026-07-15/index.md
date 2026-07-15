@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-15](index.md)
 
+* [2026-07-15, 08:58:17](https://news.ycombinator.com/item?id=48918078) - [America pays workers just 27% of what its wealth allows – the worst in the OECD](https://fortune.com/2026/07/13/us-worst-oecd-fair-pay-score/)
 * [2026-07-15, 06:38:56](https://news.ycombinator.com/item?id=48917055) - [Who's running all those tiny RPKI servers?](https://blog.apnic.net/2026/07/15/whos-running-all-those-tiny-rpki-servers/)
 * [2026-07-15, 06:28:00](https://news.ycombinator.com/item?id=48916975) - [I tricked Claude into leaking your deepest, darkest secrets](https://www.ayush.digital/blog/the-memory-heist)
 * [2026-07-15, 06:02:17](https://news.ycombinator.com/item?id=48916805) - [RISC-V Is Inevitable: State of the Union Keynote Argues](https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/)

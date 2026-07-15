@@ -13,6 +13,7 @@
 * [2026-07-11, 22:48:00](https://news.ycombinator.com/item?id=48876578) - [The fine print that follows you out the door: non-compete clauses are spreading](https://oecdecoscope.blog/2026/07/07/the-fine-print-that-follows-you-out-the-door-non-compete-clauses-are-spreading-and-holding-back-growth/)
 * [2026-07-11, 22:38:57](https://news.ycombinator.com/item?id=48876505) - [Mesh LLM: distributed AI computing on iroh](https://www.iroh.computer/blog/mesh-llm)
 * [2026-07-11, 22:28:48](https://news.ycombinator.com/item?id=48876441) - [Stop Telling Me to Ask an LLM](https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/)
+* [2026-07-11, 22:11:24](https://news.ycombinator.com/item?id=48876329) - [Combinatorial Games in Lean](https://github.com/vihdzp/combinatorial-games)
 * [2026-07-11, 21:58:00](https://news.ycombinator.com/item?id=48876245) - [RISCBoy is an open-source portable games console, designed from scratch](https://github.com/Wren6991/RISCBoy)
 * [2026-07-11, 20:49:14](https://news.ycombinator.com/item?id=48875709) - [OpenAI Forked Git on GitHub](https://github.com/openai/git)
 * [2026-07-11, 20:21:25](https://news.ycombinator.com/item?id=48875494) - [I used to love Claude, but the latest models are slowly ruining it](https://www.androidauthority.com/claude-latest-models-pushback-bad-3683521/)
