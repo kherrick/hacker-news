@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-07-15](index.md)
 
+* [2026-07-15, 23:10:10](https://news.ycombinator.com/item?id=48928402) - [Show HN: One More Letter](https://playonemoreletter.com/)
+* [2026-07-15, 23:03:45](https://news.ycombinator.com/item?id=48928343) - [Nul Characters in Strings in SQLite](https://sqlite.org/nulinstr.html)
 * [2026-07-15, 23:00:31](https://news.ycombinator.com/item?id=48928313) - [Metal-Organic Frameworks, Chemistry's New Miracle Materials](https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials)
 * [2026-07-15, 22:52:36](https://news.ycombinator.com/item?id=48928234) - [The Anti-Mac User Interface (1996)](https://www.nngroup.com/articles/anti-mac-interface/)
 * [2026-07-15, 22:42:58](https://news.ycombinator.com/item?id=48928135) - [SQLite should have (Rust-style) editions](https://mort.coffee/home/sqlite-editions/)
+* [2026-07-15, 22:23:27](https://news.ycombinator.com/item?id=48927915) - [LLM Networking with MikroTik](https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html)
 * [2026-07-15, 22:22:08](https://news.ycombinator.com/item?id=48927900) - [P2P local file transfer based on WebRTC](https://pairdrop.net/)
 * [2026-07-15, 21:39:21](https://news.ycombinator.com/item?id=48927409) - [Speculative Growth and the AI \"Bubble\" [pdf]](https://economics.mit.edu/sites/default/files/2026-07/speculative_growth_AI_public.pdf)
 * [2026-07-15, 21:36:49](https://news.ycombinator.com/item?id=48927373) - [We don't use AI in any of our design or production processes](https://mass-driver.com/article/from-human-hands)
