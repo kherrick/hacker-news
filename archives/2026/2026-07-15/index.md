@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-15](index.md)
 
+* [2026-07-15, 21:00:17](https://news.ycombinator.com/item?id=48926939) - [Show HN: Firefox in WebAssembly](https://developer.puter.com/labs/firefox-wasm/)
+* [2026-07-15, 20:47:29](https://news.ycombinator.com/item?id=48926841) - [Grok Build is open source](https://x.ai/open-source)
 * [2026-07-15, 20:24:58](https://news.ycombinator.com/item?id=48926590) - [Grok Build Is OSS](https://github.com/xai-org/grok-build)
 * [2026-07-15, 19:42:53](https://news.ycombinator.com/item?id=48926085) - [Brainless: Shadcn components that look like Claude Code, Codex and Grok](https://brainless.swerdlow.dev)
 * [2026-07-15, 19:40:23](https://news.ycombinator.com/item?id=48926053) - [Voxatron](https://www.lexaloffle.com/voxatron.php)

@@ -59,6 +59,7 @@
 * [2026-07-10, 12:31:50](https://news.ycombinator.com/item?id=48858997) - [Ryanair Passenger Sucked Toward Broken Window After Midair Engine Failure](https://simpleflying.com/ryanair-thessaloniki-diversion-window-damage/)
 * [2026-07-10, 12:00:36](https://news.ycombinator.com/item?id=48858745) - [Laylo (YC S20) Is Hiring a Head of Finance](https://www.ycombinator.com/companies/laylo/jobs/qce41D2-head-of-finance)
 * [2026-07-10, 11:59:55](https://news.ycombinator.com/item?id=48858737) - [Late Bronze Age Collapse](https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/)
+* [2026-07-10, 11:56:22](https://news.ycombinator.com/item?id=48858703) - [Show HN: Microcosm Industries – Simulation toys and software microcosms](https://microcosm.industries/)
 * [2026-07-10, 11:36:59](https://news.ycombinator.com/item?id=48858541) - [Accretive Editing](https://justindfuller.com/programming/accretive-editing)
 * [2026-07-10, 11:00:15](https://news.ycombinator.com/item?id=48858292) - [EU Commission: addictive design Instagram and Facebook in breach of the DSA](https://ec.europa.eu/commission/presscorner/home/en)
 * [2026-07-10, 10:40:26](https://news.ycombinator.com/item?id=48858171) - [Unified Memory, Explained: Why Mini PCs Can Run 70B Models a Big GPU Can't](https://vettedconsumer.com/unified-memory-explained-why-mini-pcs-can-run-70b-models-a-big-gpu-cant-and-where-they-slow-down/)
