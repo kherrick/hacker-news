@@ -4,9 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-07-15](index.md)
 
+* [2026-07-15, 17:01:02](https://news.ycombinator.com/item?id=48923833) - [Artie (YC S23) Is Hiring Software Engineers](https://jobs.ashbyhq.com/artie)
 * [2026-07-15, 16:35:38](https://news.ycombinator.com/item?id=48923420) - [Primate Is the Last Great Web Framework](https://superarch.org/theanswerisc/primate-is-the-last-great-framework.html)
+* [2026-07-15, 16:35:09](https://news.ycombinator.com/item?id=48923412) - [A General Goal-Conditioned Minecraft Model](https://pantograph.com/journal/pan-1)
 * [2026-07-15, 16:33:15](https://news.ycombinator.com/item?id=48923380) - [Collection of Digital Clock Designs](https://clocks.dev)
+* [2026-07-15, 16:22:43](https://news.ycombinator.com/item?id=48923217) - [Starlink 2X Price Increase](https://www.corporatejetinvestor.com/news/starlink-price-rise-reckless-says-correnti/)
+* [2026-07-15, 16:22:14](https://news.ycombinator.com/item?id=48923209) - [What designing 54 computer science cards taught me about graphic design](https://fhoehl.com/designing-algodeck)
 * [2026-07-15, 16:15:03](https://news.ycombinator.com/item?id=48923111) - [Open-source memory for coding agents, synced over SSH](https://github.com/vshulcz/deja-vu/)
+* [2026-07-15, 16:15:01](https://news.ycombinator.com/item?id=48923109) - [Unsolved Problems in MLOps](https://spawn-queue.acm.org/doi/pdf/10.1145/3762989)
 * [2026-07-15, 16:12:58](https://news.ycombinator.com/item?id=48923079) - [Codex Micro](https://openai.com/supply/co-lab/work-louder/)
 * [2026-07-15, 15:58:59](https://news.ycombinator.com/item?id=48922838) - [Show HN: misa77 - a codec that decodes 2x faster than LZ4 (at better ratios)](https://github.com/welcome-to-the-sunny-side/misa77)
 * [2026-07-15, 15:57:16](https://news.ycombinator.com/item?id=48922803) - [J-space comparisons across open models](https://eliebak.com/viz/jspace-open-v2)
