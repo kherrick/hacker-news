@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-15, 01:43:49",
+      "https://news.ycombinator.com/item?id=48915244"
+    ],
+    [
+      "Global Warming at 3 °C by 2050? What's Behind the New German Climate Warning",
+      "https://worldcrunch.com/focus/green-or-gone/global-warming-at-3c-by-2050-what-s-behind-the-new-german-climate-warning/"
+    ]
+  ],
+  [
+    [
       "2026-07-15, 01:08:26",
       "https://news.ycombinator.com/item?id=48915004"
     ],
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2026-07-14, 16:06:18",
-      "https://news.ycombinator.com/item?id=48908950"
-    ],
-    [
-      "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
-      "https://agnost.ai"
-    ]
-  ],
-  [
-    [
       "2026-07-14, 15:24:49",
       "https://news.ycombinator.com/item?id=48908271"
     ],
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2026-07-11, 16:10:19",
-      "https://news.ycombinator.com/item?id=48873275"
-    ],
-    [
-      "C++20 Improved the For-Loop Syntax",
-      "https://lzon.ca/posts/tips/cpp-for-range-init/"
-    ]
-  ],
-  [
-    [
       "2026-07-11, 14:32:19",
       "https://news.ycombinator.com/item?id=48872401"
     ],
@@ -297,6 +287,16 @@
     [
       "An unusual way for your DHCP server to run out of dynamic IPs",
       "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/DHCPServerAndScreamingHost"
+    ]
+  ],
+  [
+    [
+      "2026-07-10, 00:50:09",
+      "https://news.ycombinator.com/item?id=48854431"
+    ],
+    [
+      "Ambient Website Background Clouds",
+      "https://github.com/paradise-runner/background-clouds"
     ]
   ]
 ]
