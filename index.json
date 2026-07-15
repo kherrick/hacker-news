@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-15, 20:24:58",
+      "https://news.ycombinator.com/item?id=48926590"
+    ],
+    [
+      "Grok Build Is OSS",
+      "https://github.com/xai-org/grok-build"
+    ]
+  ],
+  [
+    [
+      "2026-07-15, 19:42:53",
+      "https://news.ycombinator.com/item?id=48926085"
+    ],
+    [
+      "Brainless: Shadcn components that look like Claude Code, Codex and Grok",
+      "https://brainless.swerdlow.dev"
+    ]
+  ],
+  [
+    [
       "2026-07-15, 19:40:23",
       "https://news.ycombinator.com/item?id=48926053"
     ],
@@ -37,16 +57,6 @@
     [
       "Artie (YC S23) Is Hiring Software Engineers",
       "https://jobs.ashbyhq.com/artie"
-    ]
-  ],
-  [
-    [
-      "2026-07-15, 16:35:09",
-      "https://news.ycombinator.com/item?id=48923412"
-    ],
-    [
-      "A General Goal-Conditioned Minecraft Model",
-      "https://pantograph.com/journal/pan-1"
     ]
   ],
   [
@@ -111,6 +121,16 @@
   ],
   [
     [
+      "2026-07-15, 15:46:50",
+      "https://news.ycombinator.com/item?id=48922631"
+    ],
+    [
+      "Show HN: SirixDB 1.0 Beta – Git-Like Versioning, Diffs, Time-Travel Queries",
+      "https://github.com/sirixdb/sirix"
+    ]
+  ],
+  [
+    [
       "2026-07-15, 15:37:47",
       "https://news.ycombinator.com/item?id=48922487"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2026-07-15, 14:11:12",
-      "https://news.ycombinator.com/item?id=48921121"
-    ],
-    [
-      "The well-calibrated Bayesian [pdf] (1982)",
-      "https://fitelson.org/seminar/dawid.pdf"
-    ]
-  ],
-  [
-    [
       "2026-07-15, 14:08:28",
       "https://news.ycombinator.com/item?id=48921077"
     ],
@@ -177,16 +187,6 @@
     [
       "Mysteries of Telegram Data Centers (2022)",
       "https://dev.moe/en/3025"
-    ]
-  ],
-  [
-    [
-      "2026-07-15, 13:18:15",
-      "https://news.ycombinator.com/item?id=48920432"
-    ],
-    [
-      "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
-      "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence"
     ]
   ],
   [
@@ -217,16 +217,6 @@
     [
       "Prioritize mental health, and why communication is so important",
       "https://ramones.dev/posts/mental-health/"
-    ]
-  ],
-  [
-    [
-      "2026-07-15, 11:02:43",
-      "https://news.ycombinator.com/item?id=48919013"
-    ],
-    [
-      "Weathergotchi – an E-Paper Climate Logger",
-      "https://github.com/Michael-Manning/E-Paper-Climate-Logger"
     ]
   ],
   [
@@ -271,12 +261,22 @@
   ],
   [
     [
-      "2026-07-13, 13:49:33",
-      "https://news.ycombinator.com/item?id=48892647"
+      "2026-07-13, 16:15:41",
+      "https://news.ycombinator.com/item?id=48894874"
     ],
     [
-      "Editing React components that never rendered",
-      "https://blog.crossui.com/2026/07/editing-react-components-that-never-rendered"
+      "Designing APIs for Agents",
+      "https://www.freestyle.sh/blog/opinion/designing-apis-for-agents"
+    ]
+  ],
+  [
+    [
+      "2026-07-13, 13:20:34",
+      "https://news.ycombinator.com/item?id=48892273"
+    ],
+    [
+      "MITS: Rockets, Calculators, and Personal Computers",
+      "https://www.abortretry.fail/p/micro-instrumentation-and-telemetry"
     ]
   ],
   [
