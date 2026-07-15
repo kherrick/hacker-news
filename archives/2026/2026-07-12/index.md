@@ -56,6 +56,7 @@
 * [2026-07-12, 14:15:13](https://news.ycombinator.com/item?id=48881385) - [The Lunduke Computer Operating System](https://github.com/BryanLunduke/LCOS)
 * [2026-07-12, 14:09:23](https://news.ycombinator.com/item?id=48881352) - [Show HN: Kurvengefahr – browser CAD/CAM for pen plotters](https://kurvengefahr.org/)
 * [2026-07-12, 13:34:00](https://news.ycombinator.com/item?id=48881112) - [Show HN: Skillscript – A declarative, sandboxed language for tool orchestration](https://github.com/sshwarts/skillscript)
+* [2026-07-12, 13:28:31](https://news.ycombinator.com/item?id=48881064) - [Command Line Interface Guidelines](https://clig.dev/)
 * [2026-07-12, 13:26:13](https://news.ycombinator.com/item?id=48881043) - [AI Boosts Research Careers but Flattens Scientific Discovery](https://spectrum.ieee.org/ai-science-research-flattens-discovery)
 * [2026-07-12, 13:21:01](https://news.ycombinator.com/item?id=48881009) - [Show HN: Only 1 of 4,356 reachable MCP servers is ready for the 2026-07-28 spec](https://github.com/Roee-Tsur/mcp-spec-check)
 * [2026-07-12, 13:18:36](https://news.ycombinator.com/item?id=48880987) - [Making Crash Bandicoot (2011)](https://all-things-andy-gavin.com/2011/02/02/making-crash-bandicoot-part-1/)
