@@ -42,6 +42,7 @@
 * [2026-07-13, 18:21:50](https://news.ycombinator.com/item?id=48896658) - [A full body MRI earns you a year of smoking](https://entropicthoughts.com/full-body-mri-earns-you-a-base-jump)
 * [2026-07-13, 18:18:25](https://news.ycombinator.com/item?id=48896600) - [Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?](https://cakehonolulu.github.io/linux-on-32x/)
 * [2026-07-13, 18:18:23](https://news.ycombinator.com/item?id=48896599) - [Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents](https://github.com/morganwilliscloud/billai-bass)
+* [2026-07-13, 18:12:09](https://news.ycombinator.com/item?id=48896513) - [Latent Space as a New Medium](https://kevinkelly.substack.com/p/latent-space-as-a-new-medium)
 * [2026-07-13, 18:10:23](https://news.ycombinator.com/item?id=48896493) - [xAI's Grok Build CLI Uploads Git Repositories to a Google Cloud Bucket](https://www.internationalcyberdigest.com/xais-grok-build-cli-uploads-entire-git-repositories-to-a-google-cloud-bucket/)
 * [2026-07-13, 17:55:28](https://news.ycombinator.com/item?id=48896308) - [NTSB Report on NetJets first fatality in 40 years (Josh Baer RIP)](https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/203191/pdf)
 * [2026-07-13, 17:53:52](https://news.ycombinator.com/item?id=48896286) - [Show HN: Super Dario](https://superdario.pawb.de)
