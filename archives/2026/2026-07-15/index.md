@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-15](index.md)
 
+* [2026-07-15, 04:44:59](https://news.ycombinator.com/item?id=48916375) - [LinkedIn is a cesspool of scammers and identity theft](https://news.ycombinator.com/item?id=48916375)
 * [2026-07-15, 02:57:47](https://news.ycombinator.com/item?id=48915709) - [Jurassic Park computers in excruciating detail](https://fabiensanglard.net/jurrasic_park_computers/index.html)
 * [2026-07-15, 01:43:49](https://news.ycombinator.com/item?id=48915244) - [Global Warming at 3 °C by 2050? What's Behind the New German Climate Warning](https://worldcrunch.com/focus/green-or-gone/global-warming-at-3c-by-2050-what-s-behind-the-new-german-climate-warning/)
 * [2026-07-15, 01:08:26](https://news.ycombinator.com/item?id=48915004) - [TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access](https://tailscale.com/security-bulletins)
