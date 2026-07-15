@@ -27,8 +27,8 @@
 * [2026-07-11, 14:32:19](https://news.ycombinator.com/item?id=48872401) - [The largest available Minecraft world, totalling 15 TB](https://2b2t.place/1million)
 * [2026-07-11, 09:08:08](https://news.ycombinator.com/item?id=48870217) - [The kids with phones are alright](https://heatherburns.tech/2026/07/08/the-kids-with-phones-are-alright/)
 * [2026-07-11, 08:21:27](https://news.ycombinator.com/item?id=48869989) - [Your 'app' could have been a webpage (so I fixed it for you)](https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/)
-* [2026-07-10, 16:47:11](https://news.ycombinator.com/item?id=48862351) - [An unusual way for your DHCP server to run out of dynamic IPs](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/DHCPServerAndScreamingHost)
-* [2026-07-10, 15:21:19](https://news.ycombinator.com/item?id=48861184) - [Never Argue with Your Boss (2009)](https://righteousit.com/2009/03/12/never-argue-with-your-boss/)
+* [2026-07-10, 20:45:43](https://news.ycombinator.com/item?id=48865001) - [The zero-cost fallacy: open-source software in the agentic era](https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era)
+* [2026-07-10, 15:21:19](https://news.ycombinator.com/item?id=48861184) - [Never argue with your boss (2009)](https://righteousit.com/2009/03/12/never-argue-with-your-boss/)
 * [2026-07-10, 14:58:13](https://news.ycombinator.com/item?id=48860897) - [Surprising lessons from my research scientist job search](https://yongzx.github.io/blog/2026/06/24/job-search/)
 
 ## [Archives](archives/index.md)
