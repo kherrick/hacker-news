@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-07-15, 17:10:15](https://news.ycombinator.com/item?id=48923984) - [US Debt Clock Live](https://www.us-debt-clock.com/)
 * [2026-07-15, 17:01:02](https://news.ycombinator.com/item?id=48923833) - [Artie (YC S23) Is Hiring Software Engineers](https://jobs.ashbyhq.com/artie)
 * [2026-07-15, 16:35:09](https://news.ycombinator.com/item?id=48923412) - [A General Goal-Conditioned Minecraft Model](https://pantograph.com/journal/pan-1)
 * [2026-07-15, 16:33:15](https://news.ycombinator.com/item?id=48923380) - [Collection of Digital Clock Designs](https://clocks.dev)
@@ -21,6 +20,7 @@
 * [2026-07-15, 13:22:00](https://news.ycombinator.com/item?id=48920475) - [Mysteries of Telegram Data Centers](https://dev.moe/en/3025)
 * [2026-07-15, 13:18:15](https://news.ycombinator.com/item?id=48920432) - [The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence](https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence)
 * [2026-07-15, 12:59:09](https://news.ycombinator.com/item?id=48920181) - [SpaceX bond worth 10% less than issue price – heading for junk bond status](https://www.ft.com/content/3a023b95-66c3-41e1-b0ce-df752a499541)
+* [2026-07-15, 12:40:46](https://news.ycombinator.com/item?id=48919967) - [What's the most popular number in Hacker News titles?](https://blog.omgmog.net/post/most-popular-numbers-in-hn-post-titles/)
 * [2026-07-15, 12:33:27](https://news.ycombinator.com/item?id=48919869) - [Briar Is in Maintenance Mode](https://briarproject.org/news/2026-maintenance-mode/)
 * [2026-07-15, 11:46:06](https://news.ycombinator.com/item?id=48919363) - [Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023)](https://academic.oup.com/sleep/article/47/1/zsad253/7280269)
 * [2026-07-15, 11:27:35](https://news.ycombinator.com/item?id=48919198) - [Prioritize mental health, and why communication is so important](https://ramones.dev/posts/mental-health/)
