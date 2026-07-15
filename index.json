@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2026-07-13, 18:23:12",
+      "https://news.ycombinator.com/item?id=48896672"
+    ],
+    [
+      "The bread paradox: why convenience always wins, and why SaaS isn't doomed",
+      "https://www.joanwestenberg.com/p/the-bread-paradox-why-convenience"
+    ]
+  ],
+  [
+    [
       "2026-07-12, 18:28:15",
       "https://news.ycombinator.com/item?id=48883305"
     ],
@@ -287,16 +297,6 @@
     [
       "An unusual way for your DHCP server to run out of dynamic IPs",
       "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/DHCPServerAndScreamingHost"
-    ]
-  ],
-  [
-    [
-      "2026-07-10, 00:50:09",
-      "https://news.ycombinator.com/item?id=48854431"
-    ],
-    [
-      "Ambient Website Background Clouds",
-      "https://github.com/paradise-runner/background-clouds"
     ]
   ]
 ]
