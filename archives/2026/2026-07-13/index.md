@@ -37,6 +37,7 @@
 * [2026-07-13, 18:32:27](https://news.ycombinator.com/item?id=48896800) - [The real prices of frontier models. Tokens * Price, right?](https://playcode.io/blog/real-price-of-frontier-models)
 * [2026-07-13, 18:28:13](https://news.ycombinator.com/item?id=48896745) - [New Flagship Grok Voices](https://x.ai/news/new-flagship-voices)
 * [2026-07-13, 18:26:04](https://news.ycombinator.com/item?id=48896703) - [Show HN: Nobie – an Excel-compatible runtime for agents and humans](https://nobie.com)
+* [2026-07-13, 18:23:12](https://news.ycombinator.com/item?id=48896672) - [The bread paradox: why convenience always wins, and why SaaS isn't doomed](https://www.joanwestenberg.com/p/the-bread-paradox-why-convenience)
 * [2026-07-13, 18:22:16](https://news.ycombinator.com/item?id=48896665) - [Building and Shipping Mac and iOS Apps Without Ever Opening Xcode](https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/)
 * [2026-07-13, 18:21:50](https://news.ycombinator.com/item?id=48896658) - [A full body MRI earns you a year of smoking](https://entropicthoughts.com/full-body-mri-earns-you-a-base-jump)
 * [2026-07-13, 18:18:25](https://news.ycombinator.com/item?id=48896600) - [Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?](https://cakehonolulu.github.io/linux-on-32x/)

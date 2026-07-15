@@ -21,6 +21,7 @@
 * [2026-07-14, 11:46:02](https://news.ycombinator.com/item?id=48905248) - [How to stop Claude from saying load-bearing](https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing)
 * [2026-07-14, 11:40:34](https://news.ycombinator.com/item?id=48905183) - [Mathematical texts from a Maya site in Guatemala identify an ancient astronomer](https://www.nature.com/articles/d41586-026-02170-8)
 * [2026-07-13, 21:57:56](https://news.ycombinator.com/item?id=48899473) - [The Estranged Worlds of J. G. Ballard](https://lareviewofbooks.org/article/jg-ballard-illuminated-man-christopher-priest-nina-allan/)
+* [2026-07-13, 18:23:12](https://news.ycombinator.com/item?id=48896672) - [The bread paradox: why convenience always wins, and why SaaS isn't doomed](https://www.joanwestenberg.com/p/the-bread-paradox-why-convenience)
 * [2026-07-12, 18:28:15](https://news.ycombinator.com/item?id=48883305) - [Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE](https://github.com/juggler-ai/juggler)
 * [2026-07-12, 17:00:29](https://news.ycombinator.com/item?id=48882608) - [The Trade in Looted Antiquities Endures for One Reason: Demand](https://news.artnet.com/art-world/matt-campbell-cambodia-looted-antiquities-2779870)
 * [2026-07-11, 19:49:07](https://news.ycombinator.com/item?id=48875188) - [Andon (manufacturing)](https://en.wikipedia.org/wiki/Andon_(manufacturing))
@@ -29,7 +30,6 @@
 * [2026-07-11, 08:21:27](https://news.ycombinator.com/item?id=48869989) - [Your 'app' could have been a webpage (so I fixed it for you)](https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/)
 * [2026-07-10, 20:45:43](https://news.ycombinator.com/item?id=48865001) - [The zero-cost fallacy: open-source software in the agentic era](https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era)
 * [2026-07-10, 16:47:11](https://news.ycombinator.com/item?id=48862351) - [An unusual way for your DHCP server to run out of dynamic IPs](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/DHCPServerAndScreamingHost)
-* [2026-07-10, 00:50:09](https://news.ycombinator.com/item?id=48854431) - [Ambient Website Background Clouds](https://github.com/paradise-runner/background-clouds)
 
 ## [Archives](archives/index.md)
 
