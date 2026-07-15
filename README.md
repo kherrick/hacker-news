@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-07-15, 08:58:17](https://news.ycombinator.com/item?id=48918078) - [America pays workers just 27% of what its wealth allows – the worst in the OECD](https://fortune.com/2026/07/13/us-worst-oecd-fair-pay-score/)
+* [2026-07-15, 10:06:05](https://news.ycombinator.com/item?id=48918530) - [New era for Gibraltar with removal of border controls with Spain](https://www.bbc.com/news/articles/cwydz60j3eno)
 * [2026-07-15, 06:38:56](https://news.ycombinator.com/item?id=48917055) - [Who's running all those tiny RPKI servers?](https://blog.apnic.net/2026/07/15/whos-running-all-those-tiny-rpki-servers/)
 * [2026-07-15, 06:28:00](https://news.ycombinator.com/item?id=48916975) - [I tricked Claude into leaking your deepest, darkest secrets](https://www.ayush.digital/blog/the-memory-heist)
 * [2026-07-15, 06:02:17](https://news.ycombinator.com/item?id=48916805) - [RISC-V Is Inevitable: State of the Union Keynote Argues](https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/)
@@ -23,11 +23,11 @@
 * [2026-07-13, 21:57:56](https://news.ycombinator.com/item?id=48899473) - [The Estranged Worlds of J. G. Ballard](https://lareviewofbooks.org/article/jg-ballard-illuminated-man-christopher-priest-nina-allan/)
 * [2026-07-13, 18:23:12](https://news.ycombinator.com/item?id=48896672) - [The bread paradox: why convenience always wins, and why SaaS isn't doomed](https://www.joanwestenberg.com/p/the-bread-paradox-why-convenience)
 * [2026-07-12, 18:28:15](https://news.ycombinator.com/item?id=48883305) - [Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE](https://github.com/juggler-ai/juggler)
+* [2026-07-12, 01:32:53](https://news.ycombinator.com/item?id=48877485) - [Neverclick: Desktop application for performing mouse actions with your keyboard](https://github.com/LazoVelko/neverclick)
 * [2026-07-11, 22:11:24](https://news.ycombinator.com/item?id=48876329) - [Combinatorial Games in Lean](https://github.com/vihdzp/combinatorial-games)
 * [2026-07-11, 19:49:07](https://news.ycombinator.com/item?id=48875188) - [Andon (manufacturing)](https://en.wikipedia.org/wiki/Andon_(manufacturing))
 * [2026-07-11, 14:32:19](https://news.ycombinator.com/item?id=48872401) - [The largest available Minecraft world, totalling 15 TB](https://2b2t.place/1million)
 * [2026-07-11, 09:08:08](https://news.ycombinator.com/item?id=48870217) - [The kids with phones are alright](https://heatherburns.tech/2026/07/08/the-kids-with-phones-are-alright/)
-* [2026-07-11, 08:21:27](https://news.ycombinator.com/item?id=48869989) - [Your 'app' could have been a webpage (so I fixed it for you)](https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/)
 * [2026-07-10, 15:21:19](https://news.ycombinator.com/item?id=48861184) - [Never argue with your boss (2009)](https://righteousit.com/2009/03/12/never-argue-with-your-boss/)
 * [2026-07-10, 14:58:13](https://news.ycombinator.com/item?id=48860897) - [Surprising lessons from my research scientist job search](https://yongzx.github.io/blog/2026/06/24/job-search/)
 

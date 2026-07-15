@@ -76,6 +76,7 @@
 * [2026-07-12, 02:15:11](https://news.ycombinator.com/item?id=48877672) - [Show HN: Quantum-Qec / Matrix-Free Quantum Homeostatic Engine(Blueprint)](https://github.com/PJHkorea/quantum-mesh-qec)
 * [2026-07-12, 02:13:46](https://news.ycombinator.com/item?id=48877668) - [We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture](https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/)
 * [2026-07-12, 01:59:35](https://news.ycombinator.com/item?id=48877613) - [The Energetic Costs of Cellular Computation (2012)](https://arxiv.org/abs/1203.5426)
+* [2026-07-12, 01:32:53](https://news.ycombinator.com/item?id=48877485) - [Neverclick: Desktop application for performing mouse actions with your keyboard](https://github.com/LazoVelko/neverclick)
 * [2026-07-12, 01:09:50](https://news.ycombinator.com/item?id=48877371) - [What xAI's Grok Build CLI Actually Sends to xAI](https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547)
 * [2026-07-12, 01:05:04](https://news.ycombinator.com/item?id=48877349) - [Firefox 12.58% for Desktop Browser Market Share in North America June 2026](https://gs.statcounter.com/browser-market-share/desktop/north-america)
 * [2026-07-12, 01:03:29](https://news.ycombinator.com/item?id=48877344) - [A Erlang style pure Scheme Webserver and further](https://igropyr.com)
