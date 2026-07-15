@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-15, 14:23:44",
+      "https://news.ycombinator.com/item?id=48921303"
+    ],
+    [
+      "My Midlife Crisis Corolla Is Fast, Furious, and Modded",
+      "https://www.zocalopublicsquare.org/my-midlife-crisis-corolla-fast-furious-fully-modded/"
+    ]
+  ],
+  [
+    [
       "2026-07-15, 14:11:12",
       "https://news.ycombinator.com/item?id=48921121"
     ],
@@ -21,22 +31,22 @@
   ],
   [
     [
+      "2026-07-15, 13:51:38",
+      "https://news.ycombinator.com/item?id=48920836"
+    ],
+    [
+      "US House of Representatives takes step to make daylight saving time permanent",
+      "https://www.bbc.com/news/articles/cz9l9venjd8o"
+    ]
+  ],
+  [
+    [
       "2026-07-15, 13:41:15",
       "https://news.ycombinator.com/item?id=48920700"
     ],
     [
       "Pong Wars on the Commodore 64",
       "https://imrannazar.com/articles/c64-pongwars"
-    ]
-  ],
-  [
-    [
-      "2026-07-15, 13:41:01",
-      "https://news.ycombinator.com/item?id=48920698"
-    ],
-    [
-      "Ask HN: Is it just me, or is software buggier across the board?",
-      "https://news.ycombinator.com/item?id=48920698"
     ]
   ],
   [
@@ -61,22 +71,22 @@
   ],
   [
     [
-      "2026-07-15, 13:19:05",
-      "https://news.ycombinator.com/item?id=48920443"
-    ],
-    [
-      "Privacy Incidents – Real-world examples of why your photos need protection",
-      "https://snapsafe.org/incidents.html"
-    ]
-  ],
-  [
-    [
       "2026-07-15, 13:18:15",
       "https://news.ycombinator.com/item?id=48920432"
     ],
     [
       "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
       "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence"
+    ]
+  ],
+  [
+    [
+      "2026-07-15, 13:11:01",
+      "https://news.ycombinator.com/item?id=48920338"
+    ],
+    [
+      "Microsoft Confirms Windows GDID Device Identifier That Cannot Be Disabled",
+      "https://www.ghacks.net/2026/07/12/microsoft-confirms-windows-gdid-device-identifier-that-cannot-be-disabled-documented-in-fbi-case-filing/"
     ]
   ],
   [
@@ -127,6 +137,16 @@
     [
       "Briar Is in Maintenance Mode",
       "https://briarproject.org/news/2026-maintenance-mode/"
+    ]
+  ],
+  [
+    [
+      "2026-07-15, 12:13:19",
+      "https://news.ycombinator.com/item?id=48919617"
+    ],
+    [
+      "Richard Feynman and the Connection Machine",
+      "https://longnow.org/ideas/richard-feynman-and-the-connection-machine/"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2026-07-15, 06:28:00",
-      "https://news.ycombinator.com/item?id=48916975"
-    ],
-    [
-      "I tricked Claude into leaking your deepest, darkest secrets",
-      "https://www.ayush.digital/blog/the-memory-heist"
-    ]
-  ],
-  [
-    [
       "2026-07-15, 02:57:47",
       "https://news.ycombinator.com/item?id=48915709"
     ],
@@ -247,16 +257,6 @@
     [
       "Vancouver PD website features Quick Escape button that wipes itself from history",
       "https://vpd.ca/"
-    ]
-  ],
-  [
-    [
-      "2026-07-14, 14:55:53",
-      "https://news.ycombinator.com/item?id=48907871"
-    ],
-    [
-      "Show HN: I built a smart proxy so your coding agent can run loose",
-      "https://trollbridge.dev/"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-07-11, 22:11:24",
-      "https://news.ycombinator.com/item?id=48876329"
+      "2026-07-11, 18:39:34",
+      "https://news.ycombinator.com/item?id=48874518"
     ],
     [
-      "Combinatorial Games in Lean",
-      "https://github.com/vihdzp/combinatorial-games"
+      "What Every Python Developer Should Know About the CPython ABI",
+      "https://labs.quansight.org/blog/python-abi-abi3t"
     ]
   ]
 ]
