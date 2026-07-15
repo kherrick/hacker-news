@@ -2,6 +2,7 @@
 
 * [2026-07-14, 22:47:58](https://news.ycombinator.com/item?id=48913910) - [Casio FX-870P Emulator](https://github.com/urbancamo/fx870p-emulator)
 * [2026-07-14, 22:30:47](https://news.ycombinator.com/item?id=48913763) - [LeMario: Training a JEPA World Model on Super Mario Bros](https://www.benjamin-bai.com/projects/lemario)
+* [2026-07-14, 22:00:41](https://news.ycombinator.com/item?id=48913457) - [Probably check on your smart appliances](https://xeiaso.net/notes/2026/check-your-smart-tv/)
 * [2026-07-14, 21:58:36](https://news.ycombinator.com/item?id=48913443) - [Financing the AI boom: from cash flows to debt [pdf]](https://www.bis.org/publ/bisbull120.pdf)
 * [2026-07-14, 21:32:22](https://news.ycombinator.com/item?id=48913190) - [Microsoft Patches a Record 570 Security Flaws](https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/)
 * [2026-07-14, 21:15:51](https://news.ycombinator.com/item?id=48913050) - [Dependabot version updates introduce default package cooldown](https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/)
@@ -19,17 +20,16 @@
 * [2026-07-14, 12:50:29](https://news.ycombinator.com/item?id=48906041) - [Guardian Angels: LLM Personalization for Productivity and Security](https://gwern.net/guardian-angel)
 * [2026-07-14, 11:46:02](https://news.ycombinator.com/item?id=48905248) - [How to stop Claude from saying load-bearing](https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing)
 * [2026-07-14, 11:40:34](https://news.ycombinator.com/item?id=48905183) - [Mathematical texts from a Maya site in Guatemala identify an ancient astronomer](https://www.nature.com/articles/d41586-026-02170-8)
+* [2026-07-14, 11:33:19](https://news.ycombinator.com/item?id=48905118) - [Punch yourself in the face with reality](https://adi.bio/reality)
 * [2026-07-13, 23:53:15](https://news.ycombinator.com/item?id=48900541) - [Human Canaries: Remembering the Munitionettes](https://www.historytoday.com/archive/great-debates/human-canaries-remembering-munitionettes)
 * [2026-07-13, 21:57:56](https://news.ycombinator.com/item?id=48899473) - [The Estranged Worlds of J. G. Ballard](https://lareviewofbooks.org/article/jg-ballard-illuminated-man-christopher-priest-nina-allan/)
 * [2026-07-12, 18:28:15](https://news.ycombinator.com/item?id=48883305) - [Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE](https://github.com/juggler-ai/juggler)
-* [2026-07-11, 18:03:11](https://news.ycombinator.com/item?id=48874190) - [The Second Life of Sanskrit](https://openthemagazine.com/india/the-second-life-of-sanskrit)
+* [2026-07-11, 16:10:19](https://news.ycombinator.com/item?id=48873275) - [C++20 Improved the For-Loop Syntax](https://lzon.ca/posts/tips/cpp-for-range-init/)
 * [2026-07-11, 14:32:19](https://news.ycombinator.com/item?id=48872401) - [The largest available Minecraft world, totalling 15 TB](https://2b2t.place/1million)
 * [2026-07-11, 09:08:08](https://news.ycombinator.com/item?id=48870217) - [The kids with phones are alright](https://heatherburns.tech/2026/07/08/the-kids-with-phones-are-alright/)
 * [2026-07-11, 08:21:27](https://news.ycombinator.com/item?id=48869989) - [Your 'app' could have been a webpage (so I fixed it for you)](https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/)
 * [2026-07-10, 23:51:37](https://news.ycombinator.com/item?id=48866848) - [Unlocking the PSP's Dual Core Setup](https://wololo.net/2026/06/16/unlocking-the-psps-dual-core-setup/)
 * [2026-07-10, 20:45:43](https://news.ycombinator.com/item?id=48865001) - [The zero-cost fallacy: open-source software in the agentic era](https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era)
-* [2026-07-10, 15:15:11](https://news.ycombinator.com/item?id=48861098) - [Banter](https://homosabiens.substack.com/p/banter)
-* [2026-07-10, 11:36:59](https://news.ycombinator.com/item?id=48858541) - [Accretive Editing](https://justindfuller.com/programming/accretive-editing)
 
 ## [Archives](archives/index.md)
 

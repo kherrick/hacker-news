@@ -9,6 +9,7 @@
 * [2026-07-14, 22:47:58](https://news.ycombinator.com/item?id=48913910) - [Casio FX870P Emulator](https://github.com/urbancamo/fx870p-emulator)
 * [2026-07-14, 22:46:41](https://news.ycombinator.com/item?id=48913894) - [QR-Swastika-Avoider](https://crates.io/crates/qr-swastika-avoider)
 * [2026-07-14, 22:30:47](https://news.ycombinator.com/item?id=48913763) - [LeMario: Training a JEPA World Model on Super Mario Bros](https://www.benjamin-bai.com/projects/lemario)
+* [2026-07-14, 22:00:41](https://news.ycombinator.com/item?id=48913457) - [Probably check on your smart appliances](https://xeiaso.net/notes/2026/check-your-smart-tv/)
 * [2026-07-14, 21:58:36](https://news.ycombinator.com/item?id=48913443) - [Financing the AI boom: from cash flows to debt [pdf]](https://www.bis.org/publ/bisbull120.pdf)
 * [2026-07-14, 21:35:52](https://news.ycombinator.com/item?id=48913220) - [Microsoft Deletes User's 25-Year-Old Account with Thousands Spent on Games](https://xcancel.com/JoshuaKhane/status/2076918699248803977)
 * [2026-07-14, 21:32:22](https://news.ycombinator.com/item?id=48913190) - [Microsoft Patches a Record 570 Security Flaws](https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/)
