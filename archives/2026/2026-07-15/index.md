@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-15](index.md)
 
+* [2026-07-15, 19:40:23](https://news.ycombinator.com/item?id=48926053) - [Voxatron](https://www.lexaloffle.com/voxatron.php)
 * [2026-07-15, 19:27:59](https://news.ycombinator.com/item?id=48925888) - [Duskers, the scary command line game, is getting a sequel](https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20)
 * [2026-07-15, 18:40:34](https://news.ycombinator.com/item?id=48925271) - [I Left Google DeepMind](https://turntrout.com/why-i-left-google-deepmind)
 * [2026-07-15, 18:14:23](https://news.ycombinator.com/item?id=48924929) - [Murati's Thinking Machines Releases Open-Weights 975B Parameter LLM](https://thinkingmachines.ai/inkling/)
