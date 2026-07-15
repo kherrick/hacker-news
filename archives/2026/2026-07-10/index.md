@@ -31,6 +31,7 @@
 * [2026-07-10, 16:59:55](https://news.ycombinator.com/item?id=48862493) - [Collaboration Networks in Brazilian Computer Science](https://blog.ptidej.net/collaboration-networks-in-brazilian-computer-science/)
 * [2026-07-10, 16:57:35](https://news.ycombinator.com/item?id=48862467) - [Anyone else get a vague GitHub shakedown notice?](https://lists.osgeo.org/pipermail/qgis-developer/2026-July/068430.html)
 * [2026-07-10, 16:48:41](https://news.ycombinator.com/item?id=48862365) - [The tech of 'Terminator 2' – an oral history (2017)](https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/)
+* [2026-07-10, 16:47:11](https://news.ycombinator.com/item?id=48862351) - [An unusual way for your DHCP server to run out of dynamic IPs](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/DHCPServerAndScreamingHost)
 * [2026-07-10, 16:37:52](https://news.ycombinator.com/item?id=48862252) - [Snails' Teeth Beats Spider Silk as Nature's Strongest Material](https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/)
 * [2026-07-10, 16:24:20](https://news.ycombinator.com/item?id=48862086) - [Cpp2Rust: Translates C++ to safe Rust automatically](https://github.com/Cpp2Rust/cpp2rust)
 * [2026-07-10, 16:21:18](https://news.ycombinator.com/item?id=48862035) - [Garnix Is Joining Shopify](https://garnix.io/blog/shutting-down/)

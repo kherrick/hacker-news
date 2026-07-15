@@ -4,7 +4,6 @@
 * [2026-07-15, 00:20:31](https://news.ycombinator.com/item?id=48914683) - [Data centers have hiked electricity prices on the public by $23B](https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills/)
 * [2026-07-15, 00:15:56](https://news.ycombinator.com/item?id=48914646) - [Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel](https://www.starfleetmath.com/)
 * [2026-07-15, 00:15:53](https://news.ycombinator.com/item?id=48914644) - [Vancouver PD website features Quick Escape button that wipes itself from history](https://vpd.ca/)
-* [2026-07-14, 22:47:58](https://news.ycombinator.com/item?id=48913910) - [Casio FX-870P Emulator](https://github.com/urbancamo/fx870p-emulator)
 * [2026-07-14, 22:30:47](https://news.ycombinator.com/item?id=48913763) - [LeMario: Training a JEPA World Model on Super Mario Bros](https://www.benjamin-bai.com/projects/lemario)
 * [2026-07-14, 22:00:41](https://news.ycombinator.com/item?id=48913457) - [Probably check on your smart appliances](https://xeiaso.net/notes/2026/check-your-smart-tv/)
 * [2026-07-14, 21:58:36](https://news.ycombinator.com/item?id=48913443) - [Financing the AI boom: from cash flows to debt [pdf]](https://www.bis.org/publ/bisbull120.pdf)
@@ -30,6 +29,7 @@
 * [2026-07-11, 08:21:27](https://news.ycombinator.com/item?id=48869989) - [Your 'app' could have been a webpage (so I fixed it for you)](https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/)
 * [2026-07-10, 23:51:37](https://news.ycombinator.com/item?id=48866848) - [Unlocking the PSP's Dual Core Setup](https://wololo.net/2026/06/16/unlocking-the-psps-dual-core-setup/)
 * [2026-07-10, 20:45:43](https://news.ycombinator.com/item?id=48865001) - [The zero-cost fallacy: open-source software in the agentic era](https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era)
+* [2026-07-10, 16:47:11](https://news.ycombinator.com/item?id=48862351) - [An unusual way for your DHCP server to run out of dynamic IPs](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/DHCPServerAndScreamingHost)
 
 ## [Archives](archives/index.md)
 
