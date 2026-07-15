@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-07-15](index.md)
 
+* [2026-07-15, 14:11:12](https://news.ycombinator.com/item?id=48921121) - [The well-calibrated Bayesian [pdf]](https://fitelson.org/seminar/dawid.pdf)
+* [2026-07-15, 14:08:28](https://news.ycombinator.com/item?id=48921077) - [Towards a Harness That Can Do Anything](https://eardatasci.github.io/c/ambiance/index.html)
+* [2026-07-15, 13:41:15](https://news.ycombinator.com/item?id=48920700) - [Pong Wars on the Commodore 64](https://imrannazar.com/articles/c64-pongwars)
+* [2026-07-15, 13:41:01](https://news.ycombinator.com/item?id=48920698) - [Ask HN: Is it just me, or is software buggier across the board?](https://news.ycombinator.com/item?id=48920698)
 * [2026-07-15, 13:26:24](https://news.ycombinator.com/item?id=48920537) - [Show HN: Grepathy – Claude made a decision nobody approved](https://github.com/evansjp/grepathy)
 * [2026-07-15, 13:22:00](https://news.ycombinator.com/item?id=48920475) - [Mysteries of Telegram Data Centers](https://dev.moe/en/3025)
 * [2026-07-15, 13:19:05](https://news.ycombinator.com/item?id=48920443) - [Privacy Incidents – Real-world examples of why your photos need protection](https://snapsafe.org/incidents.html)
