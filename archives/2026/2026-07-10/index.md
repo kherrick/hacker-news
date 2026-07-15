@@ -42,6 +42,7 @@
 * [2026-07-10, 15:23:50](https://news.ycombinator.com/item?id=48861217) - [Show HN: SubjectiveZero, an open-source agentic node editor for creative coding](https://sxp.studio/apps/subz)
 * [2026-07-10, 15:23:42](https://news.ycombinator.com/item?id=48861213) - [Computation as a Universal and Fundamental Concept](https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept)
 * [2026-07-10, 15:15:11](https://news.ycombinator.com/item?id=48861098) - [Banter](https://homosabiens.substack.com/p/banter)
+* [2026-07-10, 14:58:13](https://news.ycombinator.com/item?id=48860897) - [Surprising lessons from my research scientist job search](https://yongzx.github.io/blog/2026/06/24/job-search/)
 * [2026-07-10, 13:45:05](https://news.ycombinator.com/item?id=48859835) - [The Annotated JEPA](https://elonlit.com/scrivings/the-annotated-jepa/)
 * [2026-07-10, 13:40:01](https://news.ycombinator.com/item?id=48859784) - [ActivityPub over ATProto](https://berjon.com/ap-at/)
 * [2026-07-10, 13:36:56](https://news.ycombinator.com/item?id=48859752) - [Proton AG Services is currently experiencing some issues](https://status.proton.me/incidents/01lxtcq155lc)
