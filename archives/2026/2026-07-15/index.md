@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-15](index.md)
 
+* [2026-07-15, 18:14:23](https://news.ycombinator.com/item?id=48924929) - [Murati's Thinking Machines Releases Open-Weights 975B Parameter LLM](https://thinkingmachines.ai/inkling/)
+* [2026-07-15, 18:12:45](https://news.ycombinator.com/item?id=48924912) - [Inkling: Our Open-Weights Model](https://thinkingmachines.ai/news/introducing-inkling/)
 * [2026-07-15, 17:10:15](https://news.ycombinator.com/item?id=48923984) - [US Debt Clock Live](https://www.us-debt-clock.com/)
 * [2026-07-15, 17:01:02](https://news.ycombinator.com/item?id=48923833) - [Artie (YC S23) Is Hiring Software Engineers](https://jobs.ashbyhq.com/artie)
 * [2026-07-15, 16:35:38](https://news.ycombinator.com/item?id=48923420) - [Primate Is the Last Great Web Framework](https://superarch.org/theanswerisc/primate-is-the-last-great-framework.html)
@@ -64,6 +66,7 @@
 * [2026-07-15, 06:28:00](https://news.ycombinator.com/item?id=48916975) - [I tricked Claude into leaking your deepest, darkest secrets](https://www.ayush.digital/blog/the-memory-heist)
 * [2026-07-15, 06:02:17](https://news.ycombinator.com/item?id=48916805) - [RISC-V Is Inevitable: State of the Union Keynote Argues](https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/)
 * [2026-07-15, 04:44:59](https://news.ycombinator.com/item?id=48916375) - [LinkedIn is a cesspool of scammers and identity theft](https://news.ycombinator.com/item?id=48916375)
+* [2026-07-15, 03:32:45](https://news.ycombinator.com/item?id=48915953) - [Stripe, Advent offer to buy PayPal for more than $53B](https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/)
 * [2026-07-15, 02:57:47](https://news.ycombinator.com/item?id=48915709) - [Jurassic Park computers in excruciating detail](https://fabiensanglard.net/jurrasic_park_computers/index.html)
 * [2026-07-15, 01:43:49](https://news.ycombinator.com/item?id=48915244) - [Global Warming at 3 °C by 2050? What's Behind the New German Climate Warning](https://worldcrunch.com/focus/green-or-gone/global-warming-at-3c-by-2050-what-s-behind-the-new-german-climate-warning/)
 * [2026-07-15, 01:08:26](https://news.ycombinator.com/item?id=48915004) - [TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access](https://tailscale.com/security-bulletins)
