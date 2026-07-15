@@ -4,12 +4,17 @@
 
 ### [Archives](../../index.md) for [2026-07-15](index.md)
 
+* [2026-07-15, 14:32:36](https://news.ycombinator.com/item?id=48921461) - [OpenAI loses trademark dispute at EU court](https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:260715-930-389143/)
+* [2026-07-15, 14:30:07](https://news.ycombinator.com/item?id=48921422) - [CVE-2026-59208: Cross-Issuer Account Takeover in n8n](https://www.strix.ai/blog/n8n-cross-issuer-account-takeover)
 * [2026-07-15, 14:23:44](https://news.ycombinator.com/item?id=48921303) - [My Midlife Crisis Corolla Is Fast, Furious, and Modded](https://www.zocalopublicsquare.org/my-midlife-crisis-corolla-fast-furious-fully-modded/)
 * [2026-07-15, 14:11:12](https://news.ycombinator.com/item?id=48921121) - [The well-calibrated Bayesian [pdf]](https://fitelson.org/seminar/dawid.pdf)
 * [2026-07-15, 14:08:28](https://news.ycombinator.com/item?id=48921077) - [Towards a Harness That Can Do Anything](https://eardatasci.github.io/c/ambiance/index.html)
+* [2026-07-15, 13:55:23](https://news.ycombinator.com/item?id=48920888) - [Show HN: StyleSeed – a design-rules engine so AI agents stop building generic UI](https://github.com/bitjaru/styleseed)
 * [2026-07-15, 13:51:38](https://news.ycombinator.com/item?id=48920836) - [US House of Representatives takes step to make daylight saving time permanent](https://www.bbc.com/news/articles/cz9l9venjd8o)
+* [2026-07-15, 13:49:15](https://news.ycombinator.com/item?id=48920811) - [Show HN: 18KB ls alternative in no_std rust and Libc](https://crates.io/crates/fli-tool)
 * [2026-07-15, 13:41:15](https://news.ycombinator.com/item?id=48920700) - [Pong Wars on the Commodore 64](https://imrannazar.com/articles/c64-pongwars)
 * [2026-07-15, 13:41:01](https://news.ycombinator.com/item?id=48920698) - [Ask HN: Is it just me, or is software buggier across the board?](https://news.ycombinator.com/item?id=48920698)
+* [2026-07-15, 13:39:54](https://news.ycombinator.com/item?id=48920681) - [Show HN: Aict – Unix coreutils that output XML/JSON, built for AI agents](https://github.com/synseqack/aict)
 * [2026-07-15, 13:26:24](https://news.ycombinator.com/item?id=48920537) - [Show HN: Grepathy – Claude made a decision nobody approved](https://github.com/evansjp/grepathy)
 * [2026-07-15, 13:22:00](https://news.ycombinator.com/item?id=48920475) - [Mysteries of Telegram Data Centers](https://dev.moe/en/3025)
 * [2026-07-15, 13:19:05](https://news.ycombinator.com/item?id=48920443) - [Privacy Incidents – Real-world examples of why your photos need protection](https://snapsafe.org/incidents.html)
