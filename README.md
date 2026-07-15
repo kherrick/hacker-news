@@ -8,7 +8,6 @@
 * [2026-07-15, 22:23:27](https://news.ycombinator.com/item?id=48927915) - [LLM Networking with MikroTik](https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html)
 * [2026-07-15, 22:22:08](https://news.ycombinator.com/item?id=48927900) - [P2P local file transfer based on WebRTC](https://pairdrop.net/)
 * [2026-07-15, 21:39:21](https://news.ycombinator.com/item?id=48927409) - [Speculative Growth and the AI \"Bubble\" [pdf]](https://economics.mit.edu/sites/default/files/2026-07/speculative_growth_AI_public.pdf)
-* [2026-07-15, 21:36:49](https://news.ycombinator.com/item?id=48927373) - [We don't use AI in any of our design or production processes](https://mass-driver.com/article/from-human-hands)
 * [2026-07-15, 21:16:36](https://news.ycombinator.com/item?id=48927095) - [Governments, companies, nonprofits should invest in free, open source AI [pdf]](https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf)
 * [2026-07-15, 21:00:17](https://news.ycombinator.com/item?id=48926939) - [Show HN: Firefox in WebAssembly](https://developer.puter.com/labs/firefox-wasm/)
 * [2026-07-15, 20:24:58](https://news.ycombinator.com/item?id=48926590) - [Grok Build is open source](https://github.com/xai-org/grok-build)
@@ -30,6 +29,7 @@
 * [2026-07-13, 16:15:41](https://news.ycombinator.com/item?id=48894874) - [Designing APIs for Agents](https://www.freestyle.sh/blog/opinion/designing-apis-for-agents)
 * [2026-07-13, 13:20:34](https://news.ycombinator.com/item?id=48892273) - [MITS: Rockets, Calculators, and Personal Computers](https://www.abortretry.fail/p/micro-instrumentation-and-telemetry)
 * [2026-07-12, 13:28:31](https://news.ycombinator.com/item?id=48881064) - [Command Line Interface Guidelines](https://clig.dev/)
+* [2026-07-10, 19:08:13](https://news.ycombinator.com/item?id=48863891) - [Show HN: E-- – A language you dial between English and Python](https://github.com/frmoded/e--)
 
 ## [Archives](archives/index.md)
 
