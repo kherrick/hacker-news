@@ -1,22 +1,42 @@
 [
   [
     [
+      "2026-07-15, 21:39:21",
+      "https://news.ycombinator.com/item?id=48927409"
+    ],
+    [
+      "Speculative Growth and the AI \"Bubble\" [pdf]",
+      "https://economics.mit.edu/sites/default/files/2026-07/speculative_growth_AI_public.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-07-15, 21:19:42",
+      "https://news.ycombinator.com/item?id=48927136"
+    ],
+    [
+      "The End of Creativity",
+      "https://hugodaniel.com/posts/the-end-of-creativity/"
+    ]
+  ],
+  [
+    [
+      "2026-07-15, 21:16:36",
+      "https://news.ycombinator.com/item?id=48927095"
+    ],
+    [
+      "Must actively fund open source AI [pdf]",
+      "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf"
+    ]
+  ],
+  [
+    [
       "2026-07-15, 21:00:17",
       "https://news.ycombinator.com/item?id=48926939"
     ],
     [
       "Show HN: Firefox in WebAssembly",
       "https://developer.puter.com/labs/firefox-wasm/"
-    ]
-  ],
-  [
-    [
-      "2026-07-15, 20:47:29",
-      "https://news.ycombinator.com/item?id=48926841"
-    ],
-    [
-      "Grok Build is open source",
-      "https://x.ai/open-source"
     ]
   ],
   [
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2026-07-15, 16:12:58",
-      "https://news.ycombinator.com/item?id=48923079"
-    ],
-    [
-      "Codex Micro",
-      "https://openai.com/supply/co-lab/work-louder/"
-    ]
-  ],
-  [
-    [
       "2026-07-15, 15:58:59",
       "https://news.ycombinator.com/item?id=48922838"
     ],
@@ -121,32 +131,12 @@
   ],
   [
     [
-      "2026-07-15, 15:51:20",
-      "https://news.ycombinator.com/item?id=48922706"
-    ],
-    [
-      "Launch HN: Coasty (YC S26) – An API for computer-use agents",
-      "https://coasty.ai/docs"
-    ]
-  ],
-  [
-    [
       "2026-07-15, 15:34:05",
       "https://news.ycombinator.com/item?id=48922434"
     ],
     [
       "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
       "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/"
-    ]
-  ],
-  [
-    [
-      "2026-07-15, 14:23:44",
-      "https://news.ycombinator.com/item?id=48921303"
-    ],
-    [
-      "My midlife crisis Corolla is fast, furious, and modded",
-      "https://www.zocalopublicsquare.org/my-midlife-crisis-corolla-fast-furious-fully-modded/"
     ]
   ],
   [
@@ -167,16 +157,6 @@
     [
       "Mysteries of Telegram Data Centers (2022)",
       "https://dev.moe/en/3025"
-    ]
-  ],
-  [
-    [
-      "2026-07-15, 12:33:27",
-      "https://news.ycombinator.com/item?id=48919869"
-    ],
-    [
-      "Briar is in maintenance mode",
-      "https://briarproject.org/news/2026-maintenance-mode/"
     ]
   ],
   [
@@ -227,6 +207,16 @@
     [
       "Book Prizes Don't Work How You Think",
       "https://rebeccamakkai.substack.com/p/book-prizes-dont-work-how-you-think"
+    ]
+  ],
+  [
+    [
+      "2026-07-14, 22:18:40",
+      "https://news.ycombinator.com/item?id=48913642"
+    ],
+    [
+      "Twain Town, USA",
+      "https://theamericanscholar.org/twain-town-u-s-a/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Today I Rescued 7,234 Old GIFs",
       "https://danq.me/2026/07/10/rescuing-7234-gifs/"
+    ]
+  ],
+  [
+    [
+      "2026-07-12, 13:28:31",
+      "https://news.ycombinator.com/item?id=48881064"
+    ],
+    [
+      "Command Line Interface Guidelines",
+      "https://clig.dev/"
     ]
   ],
   [
