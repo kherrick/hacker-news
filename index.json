@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-07-15, 17:01:02",
+      "https://news.ycombinator.com/item?id=48923833"
+    ],
+    [
+      "Artie (YC S23) Is Hiring Software Engineers",
+      "https://jobs.ashbyhq.com/artie"
+    ]
+  ],
+  [
+    [
       "2026-07-15, 16:35:38",
       "https://news.ycombinator.com/item?id=48923420"
     ],
     [
       "Primate Is the Last Great Web Framework",
       "https://superarch.org/theanswerisc/primate-is-the-last-great-framework.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-15, 16:35:09",
+      "https://news.ycombinator.com/item?id=48923412"
+    ],
+    [
+      "A General Goal-Conditioned Minecraft Model",
+      "https://pantograph.com/journal/pan-1"
     ]
   ],
   [
@@ -21,6 +41,26 @@
   ],
   [
     [
+      "2026-07-15, 16:22:43",
+      "https://news.ycombinator.com/item?id=48923217"
+    ],
+    [
+      "Starlink 2X Price Increase",
+      "https://www.corporatejetinvestor.com/news/starlink-price-rise-reckless-says-correnti/"
+    ]
+  ],
+  [
+    [
+      "2026-07-15, 16:22:14",
+      "https://news.ycombinator.com/item?id=48923209"
+    ],
+    [
+      "What designing 54 computer science cards taught me about graphic design",
+      "https://fhoehl.com/designing-algodeck"
+    ]
+  ],
+  [
+    [
       "2026-07-15, 16:15:03",
       "https://news.ycombinator.com/item?id=48923111"
     ],
@@ -31,12 +71,12 @@
   ],
   [
     [
-      "2026-07-15, 16:12:58",
-      "https://news.ycombinator.com/item?id=48923079"
+      "2026-07-15, 16:15:01",
+      "https://news.ycombinator.com/item?id=48923109"
     ],
     [
-      "Codex Micro",
-      "https://openai.com/supply/co-lab/work-louder/"
+      "Unsolved Problems in MLOps",
+      "https://spawn-queue.acm.org/doi/pdf/10.1145/3762989"
     ]
   ],
   [
@@ -51,32 +91,12 @@
   ],
   [
     [
-      "2026-07-15, 15:57:16",
-      "https://news.ycombinator.com/item?id=48922803"
-    ],
-    [
-      "J-space comparisons across open models",
-      "https://eliebak.com/viz/jspace-open-v2"
-    ]
-  ],
-  [
-    [
       "2026-07-15, 15:51:20",
       "https://news.ycombinator.com/item?id=48922706"
     ],
     [
       "Launch HN: Coasty (YC S26) – An API for computer-use agents",
       "https://coasty.ai/docs"
-    ]
-  ],
-  [
-    [
-      "2026-07-15, 15:46:39",
-      "https://news.ycombinator.com/item?id=48922625"
-    ],
-    [
-      "Nat Slipstreaming v2.0 allows an attacker to remotely access any TCP/UDP service",
-      "https://sa.my/slipstream/"
     ]
   ],
   [
@@ -91,21 +111,11 @@
   ],
   [
     [
-      "2026-07-15, 15:36:32",
-      "https://news.ycombinator.com/item?id=48922469"
-    ],
-    [
-      "The age of the Universe from a large sample of the oldest Galactic stars",
-      "https://arxiv.org/abs/2607.00764"
-    ]
-  ],
-  [
-    [
       "2026-07-15, 15:34:05",
       "https://news.ycombinator.com/item?id=48922434"
     ],
     [
-      "Running Gemma 4 26B at 5 tokens/SEC on a 13-year-old Xeon with no GPU",
+      "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
       "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/"
     ]
   ],
@@ -117,6 +127,26 @@
     [
       "DEA to Temporarily Schedule 7-Oh and Related Substances to Protect Public Safety",
       "https://www.dea.gov/press-releases/2026/07/01/dea-temporarily-schedule-7-oh-and-related-substances-protect-public"
+    ]
+  ],
+  [
+    [
+      "2026-07-15, 14:32:36",
+      "https://news.ycombinator.com/item?id=48921461"
+    ],
+    [
+      "OpenAI loses trademark dispute at EU court",
+      "https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:260715-930-389143/"
+    ]
+  ],
+  [
+    [
+      "2026-07-15, 14:23:44",
+      "https://news.ycombinator.com/item?id=48921303"
+    ],
+    [
+      "My midlife crisis Corolla is fast, furious, and modded",
+      "https://www.zocalopublicsquare.org/my-midlife-crisis-corolla-fast-furious-fully-modded/"
     ]
   ],
   [
@@ -141,22 +171,22 @@
   ],
   [
     [
-      "2026-07-15, 13:49:15",
-      "https://news.ycombinator.com/item?id=48920811"
-    ],
-    [
-      "Show HN: 18KB ls alternative in no_std rust and Libc",
-      "https://crates.io/crates/fli-tool"
-    ]
-  ],
-  [
-    [
       "2026-07-15, 13:22:00",
       "https://news.ycombinator.com/item?id=48920475"
     ],
     [
       "Mysteries of Telegram Data Centers",
       "https://dev.moe/en/3025"
+    ]
+  ],
+  [
+    [
+      "2026-07-15, 13:18:15",
+      "https://news.ycombinator.com/item?id=48920432"
+    ],
+    [
+      "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
+      "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence"
     ]
   ],
   [
@@ -187,16 +217,6 @@
     [
       "Briar Is in Maintenance Mode",
       "https://briarproject.org/news/2026-maintenance-mode/"
-    ]
-  ],
-  [
-    [
-      "2026-07-15, 12:00:23",
-      "https://news.ycombinator.com/item?id=48919510"
-    ],
-    [
-      "Jiga (YC W21) is hiring the best people to make manufacturing great again",
-      "https://jiga.io/about-us/"
     ]
   ],
   [
@@ -267,26 +287,6 @@
     [
       "C3 0.8.2 a Modest Improvement",
       "https://c3-lang.org/blog/0_8_2_a_modest_improvement/"
-    ]
-  ],
-  [
-    [
-      "2026-07-14, 01:09:00",
-      "https://news.ycombinator.com/item?id=48901083"
-    ],
-    [
-      "A Trip to 90s Kansai: Exploring the XD FirstClass Network BBS",
-      "https://cdrom.ca/games/2026/05/30/xd.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-13, 20:04:30",
-      "https://news.ycombinator.com/item?id=48898032"
-    ],
-    [
-      "Bootstrapping GDC with DMD",
-      "https://briancallahan.net/blog/20260713.html"
     ]
   ],
   [
