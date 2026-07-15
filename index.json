@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2026-07-14, 22:47:58",
-      "https://news.ycombinator.com/item?id=48913910"
-    ],
-    [
-      "Casio FX-870P Emulator",
-      "https://github.com/urbancamo/fx870p-emulator"
-    ]
-  ],
-  [
-    [
       "2026-07-14, 22:30:47",
       "https://news.ycombinator.com/item?id=48913763"
     ],
@@ -297,6 +287,16 @@
     [
       "The zero-cost fallacy: open-source software in the agentic era",
       "https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era"
+    ]
+  ],
+  [
+    [
+      "2026-07-10, 16:47:11",
+      "https://news.ycombinator.com/item?id=48862351"
+    ],
+    [
+      "An unusual way for your DHCP server to run out of dynamic IPs",
+      "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/DHCPServerAndScreamingHost"
     ]
   ]
 ]
