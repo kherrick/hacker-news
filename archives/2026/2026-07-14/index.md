@@ -11,6 +11,7 @@
 * [2026-07-14, 22:30:47](https://news.ycombinator.com/item?id=48913763) - [LeMario: Training a JEPA World Model on Super Mario Bros](https://www.benjamin-bai.com/projects/lemario)
 * [2026-07-14, 21:58:36](https://news.ycombinator.com/item?id=48913443) - [Financing the AI boom: from cash flows to debt [pdf]](https://www.bis.org/publ/bisbull120.pdf)
 * [2026-07-14, 21:35:52](https://news.ycombinator.com/item?id=48913220) - [Microsoft Deletes User's 25-Year-Old Account with Thousands Spent on Games](https://xcancel.com/JoshuaKhane/status/2076918699248803977)
+* [2026-07-14, 21:32:22](https://news.ycombinator.com/item?id=48913190) - [Microsoft Patches a Record 570 Security Flaws](https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/)
 * [2026-07-14, 21:15:51](https://news.ycombinator.com/item?id=48913050) - [Dependabot version updates introduce default package cooldown](https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/)
 * [2026-07-14, 21:06:11](https://news.ycombinator.com/item?id=48912947) - [Same model, same Q4_K_M label: 5.02, 5.07 and 5.27 bits per weight](https://github.com/logxio/picchio)
 * [2026-07-14, 19:55:31](https://news.ycombinator.com/item?id=48912175) - [How I use HTMX with Go](https://www.alexedwards.net/blog/how-i-use-htmx-with-go)
