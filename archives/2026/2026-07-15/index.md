@@ -4,6 +4,17 @@
 
 ### [Archives](../../index.md) for [2026-07-15](index.md)
 
+* [2026-07-15, 16:35:38](https://news.ycombinator.com/item?id=48923420) - [Primate Is the Last Great Web Framework](https://superarch.org/theanswerisc/primate-is-the-last-great-framework.html)
+* [2026-07-15, 16:33:15](https://news.ycombinator.com/item?id=48923380) - [Collection of Digital Clock Designs](https://clocks.dev)
+* [2026-07-15, 16:15:03](https://news.ycombinator.com/item?id=48923111) - [Open-source memory for coding agents, synced over SSH](https://github.com/vshulcz/deja-vu/)
+* [2026-07-15, 16:12:58](https://news.ycombinator.com/item?id=48923079) - [Codex Micro](https://openai.com/supply/co-lab/work-louder/)
+* [2026-07-15, 15:58:59](https://news.ycombinator.com/item?id=48922838) - [Show HN: misa77 - a codec that decodes 2x faster than LZ4 (at better ratios)](https://github.com/welcome-to-the-sunny-side/misa77)
+* [2026-07-15, 15:57:16](https://news.ycombinator.com/item?id=48922803) - [J-space comparisons across open models](https://eliebak.com/viz/jspace-open-v2)
+* [2026-07-15, 15:51:20](https://news.ycombinator.com/item?id=48922706) - [Launch HN: Coasty (YC S26) – An API for computer-use agents](https://coasty.ai/docs)
+* [2026-07-15, 15:46:39](https://news.ycombinator.com/item?id=48922625) - [Nat Slipstreaming v2.0 allows an attacker to remotely access any TCP/UDP service](https://sa.my/slipstream/)
+* [2026-07-15, 15:37:47](https://news.ycombinator.com/item?id=48922487) - [When A.I. Is a Member of the Family](https://www.newyorker.com/magazine/2026/07/20/when-ai-is-a-member-of-the-family)
+* [2026-07-15, 15:36:32](https://news.ycombinator.com/item?id=48922469) - [The age of the Universe from a large sample of the oldest Galactic stars](https://arxiv.org/abs/2607.00764)
+* [2026-07-15, 15:34:05](https://news.ycombinator.com/item?id=48922434) - [Running Gemma 4 26B at 5 tokens/SEC on a 13-year-old Xeon with no GPU](https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/)
 * [2026-07-15, 15:17:44](https://news.ycombinator.com/item?id=48922185) - [DEA to Temporarily Schedule 7-Oh and Related Substances to Protect Public Safety](https://www.dea.gov/press-releases/2026/07/01/dea-temporarily-schedule-7-oh-and-related-substances-protect-public)
 * [2026-07-15, 14:32:36](https://news.ycombinator.com/item?id=48921461) - [OpenAI loses trademark dispute at EU court](https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:260715-930-389143/)
 * [2026-07-15, 14:30:07](https://news.ycombinator.com/item?id=48921422) - [CVE-2026-59208: Cross-Issuer Account Takeover in n8n](https://www.strix.ai/blog/n8n-cross-issuer-account-takeover)
