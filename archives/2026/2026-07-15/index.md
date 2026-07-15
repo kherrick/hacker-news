@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-07-15](index.md)
 
 * [2026-07-15, 21:39:21](https://news.ycombinator.com/item?id=48927409) - [Speculative Growth and the AI \"Bubble\" [pdf]](https://economics.mit.edu/sites/default/files/2026-07/speculative_growth_AI_public.pdf)
+* [2026-07-15, 21:36:49](https://news.ycombinator.com/item?id=48927373) - [We don't use AI in any of our design or production processes](https://mass-driver.com/article/from-human-hands)
 * [2026-07-15, 21:19:42](https://news.ycombinator.com/item?id=48927136) - [The End of Creativity](https://hugodaniel.com/posts/the-end-of-creativity/)
 * [2026-07-15, 21:16:36](https://news.ycombinator.com/item?id=48927095) - [Must actively fund open source AI [pdf]](https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf)
 * [2026-07-15, 21:00:17](https://news.ycombinator.com/item?id=48926939) - [Show HN: Firefox in WebAssembly](https://developer.puter.com/labs/firefox-wasm/)
