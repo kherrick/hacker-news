@@ -17,6 +17,7 @@
 * [2026-07-12, 21:41:04](https://news.ycombinator.com/item?id=48885097) - [I made a free Islamic prayer app to quit saying \"I'll pray in 5 minutes\"](https://better-prayer.com)
 * [2026-07-12, 21:27:29](https://news.ycombinator.com/item?id=48884992) - [Kode Dot Programmable pocket device for makers, pentesters and geeks](https://kode.diy)
 * [2026-07-12, 21:26:41](https://news.ycombinator.com/item?id=48884984) - [Ask HN: What Are You Working On? (July 2026)](https://news.ycombinator.com/item?id=48884984)
+* [2026-07-12, 21:17:27](https://news.ycombinator.com/item?id=48884903) - [Show HN: Capn-hook for coding agents – don't grep the same mystery twice](https://github.com/cyrusNuevoDia/capn-hook)
 * [2026-07-12, 21:12:11](https://news.ycombinator.com/item?id=48884853) - [Since Chronium 148, Math.tanh is now fingerprintable to link underlying OS](https://scrapfly.dev/posts/browser-math-os-fingerprint/)
 * [2026-07-12, 21:08:20](https://news.ycombinator.com/item?id=48884815) - [Show HN: Adaptive Recall, persistent memory for AI assistants over MCP](https://www.adaptiverecall.com/)
 * [2026-07-12, 21:04:13](https://news.ycombinator.com/item?id=48884775) - [Storm clouds gather over America's financial supremacy](https://www.economist.com/finance-and-economics/2026/07/12/storm-clouds-gather-over-americas-financial-supremacy)
