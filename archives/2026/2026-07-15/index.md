@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-15](index.md)
 
+* [2026-07-15, 18:40:34](https://news.ycombinator.com/item?id=48925271) - [I Left Google DeepMind](https://turntrout.com/why-i-left-google-deepmind)
 * [2026-07-15, 18:14:23](https://news.ycombinator.com/item?id=48924929) - [Murati's Thinking Machines Releases Open-Weights 975B Parameter LLM](https://thinkingmachines.ai/inkling/)
 * [2026-07-15, 18:12:45](https://news.ycombinator.com/item?id=48924912) - [Inkling: Our Open-Weights Model](https://thinkingmachines.ai/news/introducing-inkling/)
 * [2026-07-15, 17:10:15](https://news.ycombinator.com/item?id=48923984) - [US Debt Clock Live](https://www.us-debt-clock.com/)
