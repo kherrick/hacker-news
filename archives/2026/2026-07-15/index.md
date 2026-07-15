@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-15](index.md)
 
+* [2026-07-15, 20:24:58](https://news.ycombinator.com/item?id=48926590) - [Grok Build Is OSS](https://github.com/xai-org/grok-build)
+* [2026-07-15, 19:42:53](https://news.ycombinator.com/item?id=48926085) - [Brainless: Shadcn components that look like Claude Code, Codex and Grok](https://brainless.swerdlow.dev)
 * [2026-07-15, 19:40:23](https://news.ycombinator.com/item?id=48926053) - [Voxatron](https://www.lexaloffle.com/voxatron.php)
 * [2026-07-15, 19:27:59](https://news.ycombinator.com/item?id=48925888) - [Duskers, the scary command line game, is getting a sequel](https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20)
 * [2026-07-15, 18:40:34](https://news.ycombinator.com/item?id=48925271) - [I Left Google DeepMind](https://turntrout.com/why-i-left-google-deepmind)
@@ -23,6 +25,7 @@
 * [2026-07-15, 15:58:59](https://news.ycombinator.com/item?id=48922838) - [Show HN: misa77 - a codec that decodes 2x faster than LZ4 (at better ratios)](https://github.com/welcome-to-the-sunny-side/misa77)
 * [2026-07-15, 15:57:16](https://news.ycombinator.com/item?id=48922803) - [J-space comparisons across open models](https://eliebak.com/viz/jspace-open-v2)
 * [2026-07-15, 15:51:20](https://news.ycombinator.com/item?id=48922706) - [Launch HN: Coasty (YC S26) – An API for computer-use agents](https://coasty.ai/docs)
+* [2026-07-15, 15:46:50](https://news.ycombinator.com/item?id=48922631) - [Show HN: SirixDB 1.0 Beta – Git-Like Versioning, Diffs, Time-Travel Queries](https://github.com/sirixdb/sirix)
 * [2026-07-15, 15:46:39](https://news.ycombinator.com/item?id=48922625) - [Nat Slipstreaming v2.0 allows an attacker to remotely access any TCP/UDP service](https://sa.my/slipstream/)
 * [2026-07-15, 15:37:47](https://news.ycombinator.com/item?id=48922487) - [When A.I. Is a Member of the Family](https://www.newyorker.com/magazine/2026/07/20/when-ai-is-a-member-of-the-family)
 * [2026-07-15, 15:36:32](https://news.ycombinator.com/item?id=48922469) - [The age of the Universe from a large sample of the oldest Galactic stars](https://arxiv.org/abs/2607.00764)
