@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-15](index.md)
 
+* [2026-07-15, 11:02:43](https://news.ycombinator.com/item?id=48919013) - [Weathergotchi – an open-source climate Tamagotchi](https://github.com/Michael-Manning/E-Paper-Climate-Logger)
+* [2026-07-15, 11:02:10](https://news.ycombinator.com/item?id=48919004) - [Floating Companion: Exploring Design Space for Soft Floating Robots in Indoor](https://dl.acm.org/doi/10.1145/3800645.3813051)
 * [2026-07-15, 10:06:05](https://news.ycombinator.com/item?id=48918530) - [New era for Gibraltar with removal of border controls with Spain](https://www.bbc.com/news/articles/cwydz60j3eno)
 * [2026-07-15, 08:58:17](https://news.ycombinator.com/item?id=48918078) - [America pays workers just 27% of what its wealth allows – the worst in the OECD](https://fortune.com/2026/07/13/us-worst-oecd-fair-pay-score/)
 * [2026-07-15, 06:38:56](https://news.ycombinator.com/item?id=48917055) - [Who's running all those tiny RPKI servers?](https://blog.apnic.net/2026/07/15/whos-running-all-those-tiny-rpki-servers/)
