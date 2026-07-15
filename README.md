@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-07-15, 10:06:05](https://news.ycombinator.com/item?id=48918530) - [New era for Gibraltar with removal of border controls with Spain](https://www.bbc.com/news/articles/cwydz60j3eno)
 * [2026-07-15, 06:38:56](https://news.ycombinator.com/item?id=48917055) - [Who's running all those tiny RPKI servers?](https://blog.apnic.net/2026/07/15/whos-running-all-those-tiny-rpki-servers/)
 * [2026-07-15, 06:28:00](https://news.ycombinator.com/item?id=48916975) - [I tricked Claude into leaking your deepest, darkest secrets](https://www.ayush.digital/blog/the-memory-heist)
 * [2026-07-15, 06:02:17](https://news.ycombinator.com/item?id=48916805) - [RISC-V Is Inevitable: State of the Union Keynote Argues](https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/)
@@ -18,6 +17,7 @@
 * [2026-07-14, 16:57:54](https://news.ycombinator.com/item?id=48909785) - [The Tower Keeps Rising](https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/)
 * [2026-07-14, 16:06:18](https://news.ycombinator.com/item?id=48908950) - [Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations](https://agnost.ai)
 * [2026-07-14, 15:20:36](https://news.ycombinator.com/item?id=48908214) - [I'm a USB-C Maximalist](https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/)
+* [2026-07-14, 15:18:13](https://news.ycombinator.com/item?id=48908178) - [Are we offloading too much of our thinking to AI?](https://www.artfish.ai/p/offloading-thinking-to-ai)
 * [2026-07-14, 11:46:02](https://news.ycombinator.com/item?id=48905248) - [How to stop Claude from saying load-bearing](https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing)
 * [2026-07-14, 11:40:34](https://news.ycombinator.com/item?id=48905183) - [Mathematical texts from a Maya site in Guatemala identify an ancient astronomer](https://www.nature.com/articles/d41586-026-02170-8)
 * [2026-07-13, 21:57:56](https://news.ycombinator.com/item?id=48899473) - [The Estranged Worlds of J. G. Ballard](https://lareviewofbooks.org/article/jg-ballard-illuminated-man-christopher-priest-nina-allan/)
@@ -28,7 +28,7 @@
 * [2026-07-11, 19:49:07](https://news.ycombinator.com/item?id=48875188) - [Andon (manufacturing)](https://en.wikipedia.org/wiki/Andon_(manufacturing))
 * [2026-07-11, 14:32:19](https://news.ycombinator.com/item?id=48872401) - [The largest available Minecraft world, totalling 15 TB](https://2b2t.place/1million)
 * [2026-07-11, 09:08:08](https://news.ycombinator.com/item?id=48870217) - [The kids with phones are alright](https://heatherburns.tech/2026/07/08/the-kids-with-phones-are-alright/)
-* [2026-07-10, 15:21:19](https://news.ycombinator.com/item?id=48861184) - [Never argue with your boss (2009)](https://righteousit.com/2009/03/12/never-argue-with-your-boss/)
+* [2026-07-11, 08:21:27](https://news.ycombinator.com/item?id=48869989) - [Your 'app' could have been a webpage (so I fixed it for you)](https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/)
 * [2026-07-10, 14:58:13](https://news.ycombinator.com/item?id=48860897) - [Surprising lessons from my research scientist job search](https://yongzx.github.io/blog/2026/06/24/job-search/)
 
 ## [Archives](archives/index.md)
