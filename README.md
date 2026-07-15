@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-15, 01:43:49](https://news.ycombinator.com/item?id=48915244) - [Global Warming at 3 °C by 2050? What's Behind the New German Climate Warning](https://worldcrunch.com/focus/green-or-gone/global-warming-at-3c-by-2050-what-s-behind-the-new-german-climate-warning/)
 * [2026-07-15, 01:08:26](https://news.ycombinator.com/item?id=48915004) - [TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access](https://tailscale.com/security-bulletins)
 * [2026-07-15, 00:20:31](https://news.ycombinator.com/item?id=48914683) - [Data centers have hiked electricity prices on the public by $23B](https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills/)
 * [2026-07-15, 00:15:56](https://news.ycombinator.com/item?id=48914646) - [Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel](https://www.starfleetmath.com/)
@@ -14,7 +15,6 @@
 * [2026-07-14, 17:50:48](https://news.ycombinator.com/item?id=48910545) - [Bonsai 27B: A 27B-Class model that runs on a phone](https://prismml.com/news/bonsai-27b)
 * [2026-07-14, 17:00:17](https://news.ycombinator.com/item?id=48909820) - [Kontigo (YC S24) Is Hiring (Head of Security)](https://www.ycombinator.com/companies/kontigo/jobs/uNttrlv-head-of-security)
 * [2026-07-14, 16:57:54](https://news.ycombinator.com/item?id=48909785) - [The Tower Keeps Rising](https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/)
-* [2026-07-14, 16:06:18](https://news.ycombinator.com/item?id=48908950) - [Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations](https://agnost.ai)
 * [2026-07-14, 15:24:49](https://news.ycombinator.com/item?id=48908271) - [Show HN: Opening lines of famous literary works](https://www.verbaprima.com/)
 * [2026-07-14, 15:20:36](https://news.ycombinator.com/item?id=48908214) - [I'm a USB-C Maximalist](https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/)
 * [2026-07-14, 15:18:13](https://news.ycombinator.com/item?id=48908178) - [Are we offloading too much of our thinking to AI?](https://www.artfish.ai/p/offloading-thinking-to-ai)
@@ -23,13 +23,13 @@
 * [2026-07-14, 11:40:34](https://news.ycombinator.com/item?id=48905183) - [Mathematical texts from a Maya site in Guatemala identify an ancient astronomer](https://www.nature.com/articles/d41586-026-02170-8)
 * [2026-07-13, 21:57:56](https://news.ycombinator.com/item?id=48899473) - [The Estranged Worlds of J. G. Ballard](https://lareviewofbooks.org/article/jg-ballard-illuminated-man-christopher-priest-nina-allan/)
 * [2026-07-12, 18:28:15](https://news.ycombinator.com/item?id=48883305) - [Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE](https://github.com/juggler-ai/juggler)
-* [2026-07-11, 16:10:19](https://news.ycombinator.com/item?id=48873275) - [C++20 Improved the For-Loop Syntax](https://lzon.ca/posts/tips/cpp-for-range-init/)
 * [2026-07-11, 14:32:19](https://news.ycombinator.com/item?id=48872401) - [The largest available Minecraft world, totalling 15 TB](https://2b2t.place/1million)
 * [2026-07-11, 09:08:08](https://news.ycombinator.com/item?id=48870217) - [The kids with phones are alright](https://heatherburns.tech/2026/07/08/the-kids-with-phones-are-alright/)
 * [2026-07-11, 08:21:27](https://news.ycombinator.com/item?id=48869989) - [Your 'app' could have been a webpage (so I fixed it for you)](https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/)
 * [2026-07-10, 23:51:37](https://news.ycombinator.com/item?id=48866848) - [Unlocking the PSP's Dual Core Setup](https://wololo.net/2026/06/16/unlocking-the-psps-dual-core-setup/)
 * [2026-07-10, 20:45:43](https://news.ycombinator.com/item?id=48865001) - [The zero-cost fallacy: open-source software in the agentic era](https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era)
 * [2026-07-10, 16:47:11](https://news.ycombinator.com/item?id=48862351) - [An unusual way for your DHCP server to run out of dynamic IPs](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/DHCPServerAndScreamingHost)
+* [2026-07-10, 00:50:09](https://news.ycombinator.com/item?id=48854431) - [Ambient Website Background Clouds](https://github.com/paradise-runner/background-clouds)
 
 ## [Archives](archives/index.md)
 
