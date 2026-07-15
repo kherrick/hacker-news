@@ -1,11 +1,31 @@
 [
   [
     [
+      "2026-07-15, 21:00:17",
+      "https://news.ycombinator.com/item?id=48926939"
+    ],
+    [
+      "Show HN: Firefox in WebAssembly",
+      "https://developer.puter.com/labs/firefox-wasm/"
+    ]
+  ],
+  [
+    [
+      "2026-07-15, 20:47:29",
+      "https://news.ycombinator.com/item?id=48926841"
+    ],
+    [
+      "Grok Build is open source",
+      "https://x.ai/open-source"
+    ]
+  ],
+  [
+    [
       "2026-07-15, 20:24:58",
       "https://news.ycombinator.com/item?id=48926590"
     ],
     [
-      "Grok Build Is OSS",
+      "Grok Build",
       "https://github.com/xai-org/grok-build"
     ]
   ],
@@ -81,16 +101,6 @@
   ],
   [
     [
-      "2026-07-15, 16:15:01",
-      "https://news.ycombinator.com/item?id=48923109"
-    ],
-    [
-      "Unsolved Problems in MLOps",
-      "https://spawn-queue.acm.org/doi/pdf/10.1145/3762989"
-    ]
-  ],
-  [
-    [
       "2026-07-15, 16:12:58",
       "https://news.ycombinator.com/item?id=48923079"
     ],
@@ -121,42 +131,12 @@
   ],
   [
     [
-      "2026-07-15, 15:46:50",
-      "https://news.ycombinator.com/item?id=48922631"
-    ],
-    [
-      "Show HN: SirixDB 1.0 Beta – Git-Like Versioning, Diffs, Time-Travel Queries",
-      "https://github.com/sirixdb/sirix"
-    ]
-  ],
-  [
-    [
-      "2026-07-15, 15:37:47",
-      "https://news.ycombinator.com/item?id=48922487"
-    ],
-    [
-      "When A.I. is a member of the family",
-      "https://www.newyorker.com/magazine/2026/07/20/when-ai-is-a-member-of-the-family"
-    ]
-  ],
-  [
-    [
       "2026-07-15, 15:34:05",
       "https://news.ycombinator.com/item?id=48922434"
     ],
     [
       "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
       "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/"
-    ]
-  ],
-  [
-    [
-      "2026-07-15, 14:32:36",
-      "https://news.ycombinator.com/item?id=48921461"
-    ],
-    [
-      "OpenAI loses trademark dispute at EU court",
-      "https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:260715-930-389143/"
     ]
   ],
   [
@@ -221,22 +201,32 @@
   ],
   [
     [
-      "2026-07-15, 10:06:39",
-      "https://news.ycombinator.com/item?id=48918534"
-    ],
-    [
-      "Telegram Serverless",
-      "https://core.telegram.org/bots/serverless"
-    ]
-  ],
-  [
-    [
       "2026-07-15, 03:32:45",
       "https://news.ycombinator.com/item?id=48915953"
     ],
     [
       "Stripe and Advent have made a joint offer to acquire PayPal – sources",
       "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/"
+    ]
+  ],
+  [
+    [
+      "2026-07-14, 22:19:13",
+      "https://news.ycombinator.com/item?id=48913656"
+    ],
+    [
+      "Who Is America's Homer?",
+      "https://www.plough.com/articles/who-is-americas-homer"
+    ]
+  ],
+  [
+    [
+      "2026-07-14, 22:19:01",
+      "https://news.ycombinator.com/item?id=48913653"
+    ],
+    [
+      "Book Prizes Don't Work How You Think",
+      "https://rebeccamakkai.substack.com/p/book-prizes-dont-work-how-you-think"
     ]
   ],
   [
@@ -251,12 +241,12 @@
   ],
   [
     [
-      "2026-07-14, 13:52:21",
-      "https://news.ycombinator.com/item?id=48906893"
+      "2026-07-14, 14:40:46",
+      "https://news.ycombinator.com/item?id=48907681"
     ],
     [
-      "The Conservationist Who Turned 40 Terabytes of Public Data into a Video Game",
-      "https://blog.exe.dev/meet-the-conservationist-who-turned-40-terabytes-of-government-data-into-a-video-game"
+      "Show HN: Low-latency local LLM runner via OpenJDK Panama FFM (Java 22)",
+      "https://github.com/projectargus-cc/libargus.cc"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Today I Rescued 7,234 Old GIFs",
       "https://danq.me/2026/07/10/rescuing-7234-gifs/"
+    ]
+  ],
+  [
+    [
+      "2026-07-10, 11:56:22",
+      "https://news.ycombinator.com/item?id=48858703"
+    ],
+    [
+      "Show HN: Microcosm Industries – Simulation toys and software microcosms",
+      "https://microcosm.industries/"
     ]
   ]
 ]
