@@ -4,6 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-07-15](index.md)
 
+* [2026-07-15, 13:26:24](https://news.ycombinator.com/item?id=48920537) - [Show HN: Grepathy – Claude made a decision nobody approved](https://github.com/evansjp/grepathy)
+* [2026-07-15, 13:22:00](https://news.ycombinator.com/item?id=48920475) - [Mysteries of Telegram Data Centers](https://dev.moe/en/3025)
+* [2026-07-15, 13:19:05](https://news.ycombinator.com/item?id=48920443) - [Privacy Incidents – Real-world examples of why your photos need protection](https://snapsafe.org/incidents.html)
+* [2026-07-15, 13:18:15](https://news.ycombinator.com/item?id=48920432) - [The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence](https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence)
+* [2026-07-15, 12:59:09](https://news.ycombinator.com/item?id=48920181) - [SpaceX bond worth 10% less than issue price – heading for junk bond status](https://www.ft.com/content/3a023b95-66c3-41e1-b0ce-df752a499541)
+* [2026-07-15, 12:57:27](https://news.ycombinator.com/item?id=48920156) - [What `for x in y` hides from you – From Scratch Code](https://fromscratchcode.com/blog/what-for-x-in-y-hides-from-you/)
+* [2026-07-15, 12:40:46](https://news.ycombinator.com/item?id=48919967) - [What's the most popular number in Hacker News titles?](https://blog.omgmog.net/post/most-popular-numbers-in-hn-post-titles/)
+* [2026-07-15, 12:34:05](https://news.ycombinator.com/item?id=48919874) - [Germany maybe found a new source of renewable energy](https://www.schweizerbart.de/papers/zdgg/detail/prepub/108503/Geological_and_geophysical_characterisation_of_the_exploration_boreholes_EB1_and_EB2_Inde_Syncline_Rhenohercynian_Fold_and_Thrust_Belt_and_Weisweiler_Horst_Lower_Rhine_Embayment_Germany)
+* [2026-07-15, 12:33:27](https://news.ycombinator.com/item?id=48919869) - [Briar Is in Maintenance Mode](https://briarproject.org/news/2026-maintenance-mode/)
 * [2026-07-15, 12:00:23](https://news.ycombinator.com/item?id=48919510) - [Jiga (YC W21) is hiring the best people to make manufacturing great again](https://jiga.io/about-us/)
 * [2026-07-15, 11:58:54](https://news.ycombinator.com/item?id=48919489) - [Make people pay to get into your inbox](https://www.captchainbox.com)
 * [2026-07-15, 11:46:06](https://news.ycombinator.com/item?id=48919363) - [Sleep regularity is a stronger predictor of mortality risk than sleep duration](https://academic.oup.com/sleep/article/47/1/zsad253/7280269)

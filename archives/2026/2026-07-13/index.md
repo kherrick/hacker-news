@@ -22,6 +22,7 @@
 * [2026-07-13, 20:11:29](https://news.ycombinator.com/item?id=48898134) - [Linux 0.11 rewritten in idiomatic Rust, boots in QEMU](https://github.com/Poseidon-fan/linux-0.11-rs)
 * [2026-07-13, 20:07:45](https://news.ycombinator.com/item?id=48898071) - [Show HN: Sigwire – a live TUI switchboard for every signal on your Linux box](https://github.com/yeet-src/sigwire)
 * [2026-07-13, 20:07:09](https://news.ycombinator.com/item?id=48898064) - [The security checks in every Lionshead PR](https://lionshead.digital/notes/the-security-checks-in-every-lionshead-pr)
+* [2026-07-13, 20:04:30](https://news.ycombinator.com/item?id=48898032) - [Bootstrapping GDC with DMD](https://briancallahan.net/blog/20260713.html)
 * [2026-07-13, 20:01:43](https://news.ycombinator.com/item?id=48897991) - [Samsung will delete your health data if you don't let them use it to train AI](https://neow.in/cWsyMTV3)
 * [2026-07-13, 20:00:10](https://news.ycombinator.com/item?id=48897975) - [Show HN: I implemented a neural network in SQL](https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py)
 * [2026-07-13, 19:59:50](https://news.ycombinator.com/item?id=48897969) - [Show HN: PlanWright – A control plane for AI coding agents](https://planwright.tools)
