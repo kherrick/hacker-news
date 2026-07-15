@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-07-15, 04:44:59",
-      "https://news.ycombinator.com/item?id=48916375"
+      "2026-07-15, 06:28:00",
+      "https://news.ycombinator.com/item?id=48916975"
     ],
     [
-      "LinkedIn is a cesspool of scammers and identity theft",
-      "https://news.ycombinator.com/item?id=48916375"
+      "I tricked Claude into leaking your deepest, darkest secrets",
+      "https://www.ayush.digital/blog/the-memory-heist"
+    ]
+  ],
+  [
+    [
+      "2026-07-15, 06:02:17",
+      "https://news.ycombinator.com/item?id=48916805"
+    ],
+    [
+      "RISC-V Is Inevitable: State of the Union Keynote Argues",
+      "https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/"
     ]
   ],
   [
@@ -27,16 +37,6 @@
     [
       "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
       "https://tailscale.com/security-bulletins"
-    ]
-  ],
-  [
-    [
-      "2026-07-15, 00:20:31",
-      "https://news.ycombinator.com/item?id=48914683"
-    ],
-    [
-      "Data centers have hiked electricity prices on the public by $23B",
-      "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills/"
     ]
   ],
   [
@@ -81,21 +81,11 @@
   ],
   [
     [
-      "2026-07-14, 21:58:36",
-      "https://news.ycombinator.com/item?id=48913443"
-    ],
-    [
-      "Financing the AI boom: from cash flows to debt [pdf]",
-      "https://www.bis.org/publ/bisbull120.pdf"
-    ]
-  ],
-  [
-    [
       "2026-07-14, 21:32:22",
       "https://news.ycombinator.com/item?id=48913190"
     ],
     [
-      "Microsoft Patches a Record 570 Security Flaws",
+      "Microsoft has released software updates to plug at least 570 security holes",
       "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/"
     ]
   ],
@@ -151,6 +141,16 @@
   ],
   [
     [
+      "2026-07-14, 16:06:18",
+      "https://news.ycombinator.com/item?id=48908950"
+    ],
+    [
+      "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
+      "https://agnost.ai"
+    ]
+  ],
+  [
+    [
       "2026-07-14, 15:20:36",
       "https://news.ycombinator.com/item?id=48908214"
     ],
@@ -167,16 +167,6 @@
     [
       "Are we offloading too much of our thinking to AI?",
       "https://www.artfish.ai/p/offloading-thinking-to-ai"
-    ]
-  ],
-  [
-    [
-      "2026-07-14, 12:50:29",
-      "https://news.ycombinator.com/item?id=48906041"
-    ],
-    [
-      "Guardian Angels: LLM Personalization for Productivity and Security",
-      "https://gwern.net/guardian-angel"
     ]
   ],
   [
@@ -251,6 +241,16 @@
   ],
   [
     [
+      "2026-07-11, 16:10:19",
+      "https://news.ycombinator.com/item?id=48873275"
+    ],
+    [
+      "C++20 Improved the For-Loop Syntax",
+      "https://lzon.ca/posts/tips/cpp-for-range-init/"
+    ]
+  ],
+  [
+    [
       "2026-07-11, 14:32:19",
       "https://news.ycombinator.com/item?id=48872401"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2026-07-10, 20:45:43",
-      "https://news.ycombinator.com/item?id=48865001"
-    ],
-    [
-      "The zero-cost fallacy: open-source software in the agentic era",
-      "https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era"
-    ]
-  ],
-  [
-    [
       "2026-07-10, 16:47:11",
       "https://news.ycombinator.com/item?id=48862351"
     ],
     [
       "An unusual way for your DHCP server to run out of dynamic IPs",
       "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/DHCPServerAndScreamingHost"
+    ]
+  ],
+  [
+    [
+      "2026-07-10, 14:58:13",
+      "https://news.ycombinator.com/item?id=48860897"
+    ],
+    [
+      "Surprising lessons from my research scientist job search",
+      "https://yongzx.github.io/blog/2026/06/24/job-search/"
     ]
   ]
 ]
