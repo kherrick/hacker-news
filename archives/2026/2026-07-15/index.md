@@ -4,8 +4,16 @@
 
 ### [Archives](../../index.md) for [2026-07-15](index.md)
 
+* [2026-07-15, 12:00:23](https://news.ycombinator.com/item?id=48919510) - [Jiga (YC W21) is hiring the best people to make manufacturing great again](https://jiga.io/about-us/)
+* [2026-07-15, 11:58:54](https://news.ycombinator.com/item?id=48919489) - [Make people pay to get into your inbox](https://www.captchainbox.com)
+* [2026-07-15, 11:46:06](https://news.ycombinator.com/item?id=48919363) - [Sleep regularity is a stronger predictor of mortality risk than sleep duration](https://academic.oup.com/sleep/article/47/1/zsad253/7280269)
+* [2026-07-15, 11:27:35](https://news.ycombinator.com/item?id=48919198) - [Prioritize mental health, and why communication is so important](https://ramones.dev/posts/mental-health/)
+* [2026-07-15, 11:26:33](https://news.ycombinator.com/item?id=48919191) - [Show HN: For 10 World Cups, my model's 2 favorites had the champion every time](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7013338)
 * [2026-07-15, 11:02:43](https://news.ycombinator.com/item?id=48919013) - [Weathergotchi – an open-source climate Tamagotchi](https://github.com/Michael-Manning/E-Paper-Climate-Logger)
 * [2026-07-15, 11:02:10](https://news.ycombinator.com/item?id=48919004) - [Floating Companion: Exploring Design Space for Soft Floating Robots in Indoor](https://dl.acm.org/doi/10.1145/3800645.3813051)
+* [2026-07-15, 10:56:33](https://news.ycombinator.com/item?id=48918956) - [Societal Impacts: Claude's values across models and languages](https://www.anthropic.com/research/claude-values-models-languages)
+* [2026-07-15, 10:11:11](https://news.ycombinator.com/item?id=48918575) - [DSLs Enable Reliable Use of LLMs](https://martinfowler.com/articles/llm-and-dsls.html)
+* [2026-07-15, 10:06:39](https://news.ycombinator.com/item?id=48918534) - [Telegram Serverless](https://core.telegram.org/bots/serverless)
 * [2026-07-15, 10:06:05](https://news.ycombinator.com/item?id=48918530) - [New era for Gibraltar with removal of border controls with Spain](https://www.bbc.com/news/articles/cwydz60j3eno)
 * [2026-07-15, 08:58:17](https://news.ycombinator.com/item?id=48918078) - [America pays workers just 27% of what its wealth allows – the worst in the OECD](https://fortune.com/2026/07/13/us-worst-oecd-fair-pay-score/)
 * [2026-07-15, 06:38:56](https://news.ycombinator.com/item?id=48917055) - [Who's running all those tiny RPKI servers?](https://blog.apnic.net/2026/07/15/whos-running-all-those-tiny-rpki-servers/)
