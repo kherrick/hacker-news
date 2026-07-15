@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-15, 11:02:43",
+      "https://news.ycombinator.com/item?id=48919013"
+    ],
+    [
+      "Weathergotchi – an open-source climate Tamagotchi",
+      "https://github.com/Michael-Manning/E-Paper-Climate-Logger"
+    ]
+  ],
+  [
+    [
+      "2026-07-15, 11:02:10",
+      "https://news.ycombinator.com/item?id=48919004"
+    ],
+    [
+      "Floating Companion: Exploring Design Space for Soft Floating Robots in Indoor",
+      "https://dl.acm.org/doi/10.1145/3800645.3813051"
+    ]
+  ],
+  [
+    [
       "2026-07-15, 06:38:56",
       "https://news.ycombinator.com/item?id=48917055"
     ],
@@ -47,16 +67,6 @@
     [
       "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
       "https://tailscale.com/security-bulletins"
-    ]
-  ],
-  [
-    [
-      "2026-07-15, 00:15:56",
-      "https://news.ycombinator.com/item?id=48914646"
-    ],
-    [
-      "Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel",
-      "https://www.starfleetmath.com/"
     ]
   ],
   [
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2026-07-14, 15:18:13",
-      "https://news.ycombinator.com/item?id=48908178"
-    ],
-    [
-      "Are we offloading too much of our thinking to AI?",
-      "https://www.artfish.ai/p/offloading-thinking-to-ai"
-    ]
-  ],
-  [
-    [
       "2026-07-14, 11:46:02",
       "https://news.ycombinator.com/item?id=48905248"
     ],
@@ -221,12 +221,12 @@
   ],
   [
     [
-      "2026-07-12, 18:28:15",
-      "https://news.ycombinator.com/item?id=48883305"
+      "2026-07-13, 02:34:09",
+      "https://news.ycombinator.com/item?id=48887175"
     ],
     [
-      "Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",
-      "https://github.com/juggler-ai/juggler"
+      "Show HN: Web App Uses RTL-SDR to Align HDTV Antenna",
+      "https://tunerscope.com/"
     ]
   ],
   [
