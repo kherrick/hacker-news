@@ -21,6 +21,7 @@
 * [2026-07-11, 20:03:42](https://news.ycombinator.com/item?id=48875342) - [Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL](https://github.com/sqlsure/sqlsure)
 * [2026-07-11, 19:49:07](https://news.ycombinator.com/item?id=48875188) - [Andon (manufacturing)](https://en.wikipedia.org/wiki/Andon_(manufacturing))
 * [2026-07-11, 19:46:00](https://news.ycombinator.com/item?id=48875153) - [The Chinese Voice Actor Forced to Prove He's Human](https://www.sixthtone.com/news/1018753)
+* [2026-07-11, 18:39:34](https://news.ycombinator.com/item?id=48874518) - [What Every Python Developer Should Know About the CPython ABI](https://labs.quansight.org/blog/python-abi-abi3t)
 * [2026-07-11, 18:22:02](https://news.ycombinator.com/item?id=48874357) - [How to Hide from Killer Drones](https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones)
 * [2026-07-11, 18:15:35](https://news.ycombinator.com/item?id=48874297) - [ZeroFS vs. Amazon S3 Files](https://www.zerofs.net/blog/zerofs-vs-aws-s3-files/)
 * [2026-07-11, 18:04:01](https://news.ycombinator.com/item?id=48874200) - [AI 2040 and the Cult of Intelligence](https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html)
