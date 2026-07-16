@@ -68,6 +68,7 @@
 * [2026-07-14, 08:24:49](https://news.ycombinator.com/item?id=48903715) - [Alternative(s) to run CUDA on non-Nvidia hardware](https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/)
 * [2026-07-14, 08:22:52](https://news.ycombinator.com/item?id=48903701) - [Two Case Studies of NaN](https://sebsite.pw/w/20260709-nan.html)
 * [2026-07-14, 07:06:50](https://news.ycombinator.com/item?id=48903190) - [The Anatomy of an Instruction Pipeline Hazard](https://hiraditya.github.io/posts/hardware-hazards-b200/)
+* [2026-07-14, 06:50:55](https://news.ycombinator.com/item?id=48903110) - [Helicone allows users to write SQL directly to a shared ClickHouse](https://www.justintorre.com/blogs/clickhouse-rls-query-parameters)
 * [2026-07-14, 06:48:47](https://news.ycombinator.com/item?id=48903102) - [Show HN: Benchmark your eng team's AI agent maturity in 5 minutes](https://agent-benchmarks.com/software-factory/)
 * [2026-07-14, 06:43:28](https://news.ycombinator.com/item?id=48903082) - [Indian scientists produce most detailed 3D atlas of the human brainstem](https://www.bbc.com/news/articles/cg53l737v1qo)
 * [2026-07-14, 06:35:40](https://news.ycombinator.com/item?id=48903015) - [The Last Picture Show: A Conversation with George Lucas](https://a-rabbitsfoot.com/editorial/confessions/the-last-picture-show-a-conversation-with-george-lucas/)
