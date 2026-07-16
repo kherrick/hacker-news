@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-07-16, 17:44:46](https://news.ycombinator.com/item?id=48937756) - [German AI consortium releases Soofi S, an open 30B model that tops benchmarks](https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/)
-* [2026-07-16, 17:11:58](https://news.ycombinator.com/item?id=48937288) - [42% of adults rely on their parents for financial support](https://www.cnbc.com/2026/07/16/42percent-of-adults-rely-on-their-parents-for-financial-supportthere-are-no-bad-guys-here-says-financial-therapist.html)
 * [2026-07-16, 17:00:55](https://news.ycombinator.com/item?id=48937125) - [Adaptional (YC S25) Is Hiring](https://www.ycombinator.com/companies/adaptional/jobs)
 * [2026-07-16, 16:52:16](https://news.ycombinator.com/item?id=48937020) - [Launch HN: Traceforce (YC S26) – Company-wide security monitoring for AI apps](https://news.ycombinator.com/item?id=48937020)
 * [2026-07-16, 16:41:37](https://news.ycombinator.com/item?id=48936880) - [Detecting LLM-Generated Texts with “Classical” Machine Learning](https://blog.lyc8503.net/en/post/llm-classifier/)
+* [2026-07-16, 16:36:17](https://news.ycombinator.com/item?id=48936803) - [Show HN: Galois connections for composable numeric casts in Rust](https://github.com/cmk/connections)
 * [2026-07-16, 16:24:50](https://news.ycombinator.com/item?id=48936657) - [56,000 lines of DOOM, in a language I made up](https://betlang.dev/about/)
 * [2026-07-16, 16:18:21](https://news.ycombinator.com/item?id=48936584) - [Decoy Font](https://www.mixfont.com/experiments/decoy-font)
 * [2026-07-16, 16:15:55](https://news.ycombinator.com/item?id=48936554) - [Show HN: A modern port of Linux to a ten-year-old QWERTY phone](https://news.ycombinator.com/item?id=48936554)
