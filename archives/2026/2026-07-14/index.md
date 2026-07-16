@@ -22,6 +22,7 @@
 * [2026-07-14, 19:48:36](https://news.ycombinator.com/item?id=48912100) - [StubHub's 'marketplace for fans' is run by a mass scalper, SEC filings reveal](https://www.cbc.ca/news/world/stubhub-ceo-class-action-scalping-9.7268987)
 * [2026-07-14, 19:40:54](https://news.ycombinator.com/item?id=48912013) - [The Memory Heist](https://www.ayush.digital/blog/the-memory-heist)
 * [2026-07-14, 19:39:28](https://news.ycombinator.com/item?id=48911998) - [Show HN: A Free RSS reader with a configurable recommendation engine](https://sprinklz.io/feed/home)
+* [2026-07-14, 19:25:41](https://news.ycombinator.com/item?id=48911803) - [I also filed the corners off my MacBook](https://www.brt.fyi/posts/mac-book-filing/)
 * [2026-07-14, 18:54:52](https://news.ycombinator.com/item?id=48911452) - [Microsoft deleted my account and OneDrive](https://twitter.com/JoshuaKhane/status/2076918699248803977)
 * [2026-07-14, 17:58:35](https://news.ycombinator.com/item?id=48910676) - [Cursor 0day: When Full Disclosure Becomes the Only Protection Left](https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left)
 * [2026-07-14, 17:50:48](https://news.ycombinator.com/item?id=48910545) - [Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone](https://prismml.com/news/bonsai-27b)

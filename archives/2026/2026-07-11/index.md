@@ -50,6 +50,7 @@
 * [2026-07-11, 15:19:25](https://news.ycombinator.com/item?id=48872791) - [Jektex 0.2.0 – A Jekyll plugin for LaTeX rendering is now ~10x faster](https://github.com/yagarea/jektex)
 * [2026-07-11, 14:46:38](https://news.ycombinator.com/item?id=48872517) - [USAA closed 51% of home insurance claims without making a payment in 2025](https://www.expressnews.com/business/article/san-antonio-usaa-insurance-claims-rejected-22293061.php)
 * [2026-07-11, 14:32:19](https://news.ycombinator.com/item?id=48872401) - [The largest available Minecraft world, totalling 15 TB](https://2b2t.place/1million)
+* [2026-07-11, 13:47:47](https://news.ycombinator.com/item?id=48872031) - [Rebuilding My Homelab with Compose, Ruby, IPv6, and No Kubernetes](https://www.petekeen.net/homelab-resolved/)
 * [2026-07-11, 13:40:27](https://news.ycombinator.com/item?id=48871973) - [Show HN: Learn by rebuilding Redis, Git, a database from scratch](https://shipthatcode.com)
 * [2026-07-11, 13:33:17](https://news.ycombinator.com/item?id=48871932) - [Speculations Concerning the First Ultraintelligent Machine (1965) [pdf]](https://languagelog.ldc.upenn.edu/myl/Good1964.pdf)
 * [2026-07-11, 13:04:46](https://news.ycombinator.com/item?id=48871721) - [G# – A modern .NET language with Go, Kotlin, and Swift ergonomics](https://davidobando.github.io/gsharp/)
