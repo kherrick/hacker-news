@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-07-16](index.md)
 
+* [2026-07-16, 15:13:00](https://news.ycombinator.com/item?id=48935687) - [How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM](https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model)
 * [2026-07-16, 14:59:14](https://news.ycombinator.com/item?id=48935510) - [Guide to data tools landscape for developers](https://sinja.io/blog/data-landscape-guide-for-developers)
 * [2026-07-16, 14:46:05](https://news.ycombinator.com/item?id=48935342) - [Kimi K3 is now live](https://www.kimi.com/en)
 * [2026-07-16, 13:51:32](https://news.ycombinator.com/item?id=48934583) - [Show HN: AI Law Tracker – one audited API for US, EU and global AI law](https://ai-law-tracker.com)
 * [2026-07-16, 13:41:12](https://news.ycombinator.com/item?id=48934434) - [How to spend 15 years perfecting a product](https://refactoring.guru/email/gbb-rollout2)
 * [2026-07-16, 13:34:03](https://news.ycombinator.com/item?id=48934340) - [Show HN: We hid a backdoor in an LLM – $51,200 on finding it](https://protora.vulcora.se/challenge)
+* [2026-07-16, 13:30:18](https://news.ycombinator.com/item?id=48934290) - [My Homepage Has a Pulse](https://snehankekre.com/posts/hr/)
 * [2026-07-16, 13:30:00](https://news.ycombinator.com/item?id=48934286) - [Goes-19 weather satellite enters Safe Hold mode](https://www.spaceweather.gov/news/goes-19-safe-hold)
 * [2026-07-16, 13:15:49](https://news.ycombinator.com/item?id=48934092) - [Show HN: I've built a words game based on binary search](https://hilogame.cc/)
 * [2026-07-16, 13:12:24](https://news.ycombinator.com/item?id=48934046) - [Generative AI Is an Engineering Disaster](https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/)
