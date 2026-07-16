@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-07-16, 05:33:50",
+      "https://news.ycombinator.com/item?id=48930713"
+    ],
+    [
+      "DJB Netstrings (1997)",
+      "https://cr.yp.to/proto/netstrings.txt"
+    ]
+  ],
+  [
+    [
+      "2026-07-16, 04:46:21",
+      "https://news.ycombinator.com/item?id=48930454"
+    ],
+    [
+      "The lost joy of music piracy",
+      "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming"
+    ]
+  ],
+  [
+    [
+      "2026-07-16, 04:31:01",
+      "https://news.ycombinator.com/item?id=48930363"
+    ],
+    [
+      "Stop saying that AI is just a tool and it only matters how it is used",
+      "https://www.frank.computer/blog/2025/05/just-a-tool.html"
+    ]
+  ],
+  [
+    [
       "2026-07-16, 03:51:25",
       "https://news.ycombinator.com/item?id=48930149"
     ],
@@ -27,16 +57,6 @@
     [
       "Making 768 servers look like 1",
       "https://planetscale.com/blog/making-768-servers-look-like-1"
-    ]
-  ],
-  [
-    [
-      "2026-07-16, 03:24:25",
-      "https://news.ycombinator.com/item?id=48930011"
-    ],
-    [
-      "Guerrilla London Bus Ads Mock Kylie Jenner's Meta Glasses Campaign",
-      "https://hyperallergic.com/guerrilla-london-bus-ads-mock-kylie-jenners-meta-glasses-campaign/"
     ]
   ],
   [
@@ -161,52 +181,12 @@
   ],
   [
     [
-      "2026-07-15, 19:42:53",
-      "https://news.ycombinator.com/item?id=48926085"
-    ],
-    [
-      "Brainless: Shadcn components that look like Claude Code, Codex and Grok",
-      "https://brainless.swerdlow.dev"
-    ]
-  ],
-  [
-    [
-      "2026-07-15, 19:40:23",
-      "https://news.ycombinator.com/item?id=48926053"
-    ],
-    [
-      "Voxatron",
-      "https://www.lexaloffle.com/voxatron.php"
-    ]
-  ],
-  [
-    [
-      "2026-07-15, 19:27:59",
-      "https://news.ycombinator.com/item?id=48925888"
-    ],
-    [
-      "Duskers, the scary command line game, is getting a sequel",
-      "https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20"
-    ]
-  ],
-  [
-    [
       "2026-07-15, 18:12:45",
       "https://news.ycombinator.com/item?id=48924912"
     ],
     [
       "Inkling: Our Open-Weights Model",
       "https://thinkingmachines.ai/news/introducing-inkling/"
-    ]
-  ],
-  [
-    [
-      "2026-07-15, 17:01:02",
-      "https://news.ycombinator.com/item?id=48923833"
-    ],
-    [
-      "Artie (YC S23) Is Hiring Software Engineers",
-      "https://jobs.ashbyhq.com/artie"
     ]
   ],
   [
@@ -251,6 +231,16 @@
   ],
   [
     [
+      "2026-07-14, 19:25:41",
+      "https://news.ycombinator.com/item?id=48911803"
+    ],
+    [
+      "I also filed the corners off my MacBook",
+      "https://www.brt.fyi/posts/mac-book-filing/"
+    ]
+  ],
+  [
+    [
       "2026-07-14, 08:27:56",
       "https://news.ycombinator.com/item?id=48903733"
     ],
@@ -277,6 +267,16 @@
     [
       "Command Line Interface Guidelines",
       "https://clig.dev/"
+    ]
+  ],
+  [
+    [
+      "2026-07-11, 13:47:47",
+      "https://news.ycombinator.com/item?id=48872031"
+    ],
+    [
+      "Rebuilding My Homelab with Compose, Ruby, IPv6, and No Kubernetes",
+      "https://www.petekeen.net/homelab-resolved/"
     ]
   ],
   [
