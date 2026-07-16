@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-07-16, 22:29:44",
+      "https://news.ycombinator.com/item?id=48941129"
+    ],
+    [
+      "My car's OTA update broke Android Auto, and it's a indictment of modern software",
+      "https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/"
+    ]
+  ],
+  [
+    [
+      "2026-07-16, 22:29:21",
+      "https://news.ycombinator.com/item?id=48941123"
+    ],
+    [
+      "Show HN: Mojibake – a low-level Unicode library written in C",
+      "https://mojibake.zaerl.com/"
+    ]
+  ],
+  [
+    [
+      "2026-07-16, 22:27:22",
+      "https://news.ycombinator.com/item?id=48941104"
+    ],
+    [
+      "The Little Book of Reinforcement Learning",
+      "https://github.com/alxndrTL/little-book-rl/"
+    ]
+  ],
+  [
+    [
       "2026-07-16, 22:21:59",
       "https://news.ycombinator.com/item?id=48941056"
     ],
@@ -11,12 +41,12 @@
   ],
   [
     [
-      "2026-07-16, 22:07:30",
-      "https://news.ycombinator.com/item?id=48940895"
+      "2026-07-16, 22:21:31",
+      "https://news.ycombinator.com/item?id=48941051"
     ],
     [
-      "CVE-2026-25089: FortiSandbox unauthenticated command injection added to CISA KEV",
-      "https://hellorecon.com/blog/cve-2026-25089"
+      "Show HN: ReasonGate- An explainable gate that blocks LLM prompt injection",
+      "https://github.com/cgrtml/reasongate"
     ]
   ],
   [
@@ -111,16 +141,6 @@
   ],
   [
     [
-      "2026-07-16, 20:03:23",
-      "https://news.ycombinator.com/item?id=48939524"
-    ],
-    [
-      "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
-      "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6"
-    ]
-  ],
-  [
-    [
       "2026-07-16, 17:00:55",
       "https://news.ycombinator.com/item?id=48937125"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2026-07-16, 14:59:14",
-      "https://news.ycombinator.com/item?id=48935510"
-    ],
-    [
-      "Guide to data tools landscape for developers",
-      "https://sinja.io/blog/data-landscape-guide-for-developers"
-    ]
-  ],
-  [
-    [
       "2026-07-16, 14:46:05",
       "https://news.ycombinator.com/item?id=48935342"
     ],
@@ -237,16 +247,6 @@
     [
       "Goes-19 weather satellite enters Safe Hold mode",
       "https://www.spaceweather.gov/news/goes-19-safe-hold"
-    ]
-  ],
-  [
-    [
-      "2026-07-16, 11:59:01",
-      "https://news.ycombinator.com/item?id=48933310"
-    ],
-    [
-      "The LLM Critics Are Right. I Use LLMs Anyway",
-      "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-07-13, 18:21:31",
-      "https://news.ycombinator.com/item?id=48896649"
+      "2026-07-11, 12:40:24",
+      "https://news.ycombinator.com/item?id=48871547"
     ],
     [
-      "Optimizing Lua string literals to save 400 bytes",
-      "https://purplesyringa.moe/blog/guest/optimizing-lua-string-literals-to-save-400-bytes/"
+      "Show HN: Clx – Compile Lua to Native Executables Through C++20",
+      "https://github.com/samyeyo/clx"
     ]
   ]
 ]
