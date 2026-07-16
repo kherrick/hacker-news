@@ -27,6 +27,7 @@
 * [2026-07-12, 20:42:20](https://news.ycombinator.com/item?id=48884580) - [What's the story behind the names of Cloudflare's name servers? (2013)](https://blog.cloudflare.com/whats-the-story-behind-the-names-of-cloudflares-name-servers/)
 * [2026-07-12, 20:23:05](https://news.ycombinator.com/item?id=48884395) - [Tiny Emulators](https://floooh.github.io/tiny8bit-preview/index.html)
 * [2026-07-12, 20:16:12](https://news.ycombinator.com/item?id=48884322) - [Irish datacenters now guzzle 23% of the country's electricity](https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013)
+* [2026-07-12, 20:15:08](https://news.ycombinator.com/item?id=48884312) - [Panel meter calculator with floating point](https://lcamtuf.substack.com/p/panel-meter-calculator-with-floating)
 * [2026-07-12, 19:54:30](https://news.ycombinator.com/item?id=48884100) - [Defining new Jax types with hijax](https://docs.jax.dev/en/latest/hijax_types.html)
 * [2026-07-12, 19:52:16](https://news.ycombinator.com/item?id=48884068) - [A Beautiful Theory Falls to Ugly Data](https://marginalrevolution.com/marginalrevolution/2026/05/a-beautiful-theory-falls-to-ugly-data.html)
 * [2026-07-12, 19:49:53](https://news.ycombinator.com/item?id=48884052) - [Neocities: Create your own free website](https://neocities.org/)
