@@ -42,6 +42,7 @@
 * [2026-07-13, 18:23:12](https://news.ycombinator.com/item?id=48896672) - [The bread paradox: why convenience always wins, and why SaaS isn't doomed](https://www.joanwestenberg.com/p/the-bread-paradox-why-convenience)
 * [2026-07-13, 18:22:16](https://news.ycombinator.com/item?id=48896665) - [Building and Shipping Mac and iOS Apps Without Ever Opening Xcode](https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/)
 * [2026-07-13, 18:21:50](https://news.ycombinator.com/item?id=48896658) - [A full body MRI earns you a year of smoking](https://entropicthoughts.com/full-body-mri-earns-you-a-base-jump)
+* [2026-07-13, 18:21:31](https://news.ycombinator.com/item?id=48896649) - [Optimizing Lua string literals to save 400 bytes](https://purplesyringa.moe/blog/guest/optimizing-lua-string-literals-to-save-400-bytes/)
 * [2026-07-13, 18:18:25](https://news.ycombinator.com/item?id=48896600) - [Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?](https://cakehonolulu.github.io/linux-on-32x/)
 * [2026-07-13, 18:18:23](https://news.ycombinator.com/item?id=48896599) - [Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents](https://github.com/morganwilliscloud/billai-bass)
 * [2026-07-13, 18:12:09](https://news.ycombinator.com/item?id=48896513) - [Latent Space as a New Medium](https://kevinkelly.substack.com/p/latent-space-as-a-new-medium)

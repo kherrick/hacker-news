@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-07-16](index.md)
 
 * [2026-07-16, 18:03:56](https://news.ycombinator.com/item?id=48938001) - [SPCX is now Wall Street's most shorted new stock](https://invezz.com/news/2026/07/16/the-worlds-most-valuable-ipo-spcx-is-now-wall-streets-most-shorted-new-stock/)
+* [2026-07-16, 17:44:46](https://news.ycombinator.com/item?id=48937756) - [German AI consortium releases Soofi S, an open 30B model that tops benchmarks](https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/)
 * [2026-07-16, 17:11:58](https://news.ycombinator.com/item?id=48937288) - [42% of adults rely on their parents for financial support](https://www.cnbc.com/2026/07/16/42percent-of-adults-rely-on-their-parents-for-financial-supportthere-are-no-bad-guys-here-says-financial-therapist.html)
 * [2026-07-16, 17:00:55](https://news.ycombinator.com/item?id=48937125) - [Adaptional (YC S25) Is Hiring](https://www.ycombinator.com/companies/adaptional/jobs)
 * [2026-07-16, 16:52:16](https://news.ycombinator.com/item?id=48937020) - [Launch HN: Traceforce (YC S26) – Company-wide security monitoring for AI apps](https://news.ycombinator.com/item?id=48937020)
