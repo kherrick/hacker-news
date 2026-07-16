@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-16, 20:38:48",
+      "https://news.ycombinator.com/item?id=48939896"
+    ],
+    [
+      "Mathematics of Data Science",
+      "https://arxiv.org/abs/2607.11938"
+    ]
+  ],
+  [
+    [
       "2026-07-16, 20:25:47",
       "https://news.ycombinator.com/item?id=48939764"
     ],
@@ -17,6 +27,16 @@
     [
       "Helium escaping from atmosphere of nearby rocky exoplanet in a habitable zone",
       "https://www.science.org/doi/10.1126/science.aea9708"
+    ]
+  ],
+  [
+    [
+      "2026-07-16, 20:21:27",
+      "https://news.ycombinator.com/item?id=48939710"
+    ],
+    [
+      "Show HN: Libretto PR agents – Automatically fix failing playwright scripts",
+      "https://libretto.sh/debug-agents"
     ]
   ],
   [
@@ -51,32 +71,12 @@
   ],
   [
     [
-      "2026-07-16, 19:20:51",
-      "https://news.ycombinator.com/item?id=48939030"
-    ],
-    [
-      "As a musician, I prefer illegal downloading over Spotify (2011)",
-      "https://derekwebb.tumblr.com/post/13503899950/giving-it-away-how-free-music-makes-more-than"
-    ]
-  ],
-  [
-    [
       "2026-07-16, 18:33:24",
       "https://news.ycombinator.com/item?id=48938372"
     ],
     [
       "AttoChess, a complete, playable chess program for 16-bit x86 DOS in 278 bytes",
       "https://nicholas-afk.github.io/AttoChess/"
-    ]
-  ],
-  [
-    [
-      "2026-07-16, 17:44:46",
-      "https://news.ycombinator.com/item?id=48937756"
-    ],
-    [
-      "German AI consortium releases Soofi S, an open 30B model that tops benchmarks",
-      "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/"
     ]
   ],
   [
@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2026-07-16, 16:14:20",
-      "https://news.ycombinator.com/item?id=48936534"
-    ],
-    [
-      "Agent-talk: Enabling coding agents to work together",
-      "https://github.com/xhluca/agent-talk"
-    ]
-  ],
-  [
-    [
       "2026-07-16, 16:08:13",
       "https://news.ycombinator.com/item?id=48936451"
     ],
@@ -167,6 +157,16 @@
     [
       "Show HN: Leaves – A text-UI disk usage treemap visualizer",
       "https://github.com/patonw/leaves"
+    ]
+  ],
+  [
+    [
+      "2026-07-16, 15:55:47",
+      "https://news.ycombinator.com/item?id=48936271"
+    ],
+    [
+      "Show HN: BambooGrid – Open-source web UI for power grid modeling and power flow",
+      "https://bamboo.kickstage.com"
     ]
   ],
   [
@@ -231,12 +231,12 @@
   ],
   [
     [
-      "2026-07-16, 11:58:09",
-      "https://news.ycombinator.com/item?id=48933303"
+      "2026-07-16, 11:59:01",
+      "https://news.ycombinator.com/item?id=48933310"
     ],
     [
-      "Let's Build PlanetScale from Scratch: Infrastructure",
-      "https://onatm.dev/2026/07/16/homescale-part-1/"
+      "The LLM Critics Are Right. I Use LLMs Anyway",
+      "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/"
     ]
   ],
   [
@@ -247,6 +247,16 @@
     [
       "How Our Rust-to-Zig Rewrite Is Going",
       "https://rtfeldman.com/rust-to-zig"
+    ]
+  ],
+  [
+    [
+      "2026-07-16, 10:41:39",
+      "https://news.ycombinator.com/item?id=48932722"
+    ],
+    [
+      "Abstracting Effects with Continuations",
+      "https://crowdhailer.me/2026-07-15/abstracting-effects-with-continuations/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "OnePlus halts operations in USA and Europe",
       "https://community.oneplus.com/thread/2170715118587871237"
-    ]
-  ],
-  [
-    [
-      "2026-07-16, 04:46:21",
-      "https://news.ycombinator.com/item?id=48930454"
-    ],
-    [
-      "The lost joy of music piracy",
-      "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming"
     ]
   ],
   [
