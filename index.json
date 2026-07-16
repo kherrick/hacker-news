@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-16, 14:59:14",
+      "https://news.ycombinator.com/item?id=48935510"
+    ],
+    [
+      "Guide to data tools landscape for developers",
+      "https://sinja.io/blog/data-landscape-guide-for-developers"
+    ]
+  ],
+  [
+    [
       "2026-07-16, 14:46:05",
       "https://news.ycombinator.com/item?id=48935342"
     ],
@@ -27,16 +37,6 @@
     [
       "Show HN: I've built a words game based on binary search",
       "https://hilogame.cc/"
-    ]
-  ],
-  [
-    [
-      "2026-07-16, 13:12:24",
-      "https://news.ycombinator.com/item?id=48934046"
-    ],
-    [
-      "Generative AI Is an Engineering Disaster",
-      "https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/"
     ]
   ],
   [
@@ -77,16 +77,6 @@
     [
       "The Act and the Outcome of Creation",
       "https://www.ssp.sh/blog/on-creation/"
-    ]
-  ],
-  [
-    [
-      "2026-07-16, 11:59:01",
-      "https://news.ycombinator.com/item?id=48933310"
-    ],
-    [
-      "The LLM Critics Are Right. I Use LLMs Anyway",
-      "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/"
     ]
   ],
   [
@@ -177,6 +167,16 @@
     [
       "If you want to create a button from scratch, you must first create the universe",
       "https://madcampos.dev/blog/2026/07/accessibility-from-scratch/"
+    ]
+  ],
+  [
+    [
+      "2026-07-16, 03:36:42",
+      "https://news.ycombinator.com/item?id=48930075"
+    ],
+    [
+      "Making 768 servers look like 1",
+      "https://planetscale.com/blog/making-768-servers-look-like-1"
     ]
   ],
   [
