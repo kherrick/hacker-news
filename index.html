@@ -129,6 +129,161 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="48937125">
+          <h3>
+            <a
+              class="item"
+              href="https://www.ycombinator.com/companies/adaptional/jobs"
+              >Adaptional (YC S25) Is Hiring</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-16 @ 17:00:55</span
+              ><span class="points-container"
+                >Points: <span class="points">1</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48937020">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=48937020"
+              >Launch HN: Traceforce (YC S26) – Company-wide security monitoring
+              for AI apps</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-16 @ 16:52:16</span
+              ><span class="points-container"
+                >Points: <span class="points">9</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48937020"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://www.traceforce.ai/">https://www.traceforce.ai/</a
+              >). Traceforce provides visibility and control over AI apps such
+              as ChatGPT, Claude etc directly on all devices (laptops,
+              sandboxes, virtual machines) by discovering not just which apps
+              are being used but also how they are connected to other data
+              sources via MCPs. We also have an open-source dynamic MCP
+              pentesting tool
+              <a href="https://github.com/traceforce/mcp-xray"
+                >https://github.com/traceforce/mcp-xray</a
+              >
+              to detect vulnerable MCPs.
+              <p>The purpose of Traceforce is to:</p>
+              <p>
+                - Give a company’s employees a standardized way to ensure that
+                AI software running on their device is operating safely
+              </p>
+              <p>
+                - Give the company’s security team visibility of the activities
+                of AI software on the company’s devices, and to detect and
+                prevent unsafe actions and security breaches as early as
+                possible.
+              </p>
+              <p>How Traceforce works</p>
+              <p>
+                1. Traceforce is installed on each device as a lightweight
+                binary and browser extension.
+              </p>
+              <p>
+                2. Within 30 minutes, the device is uploading live data to the
+                company profile, displaying all the AI agents/apps running
+                across all company devices on a dashboard.
+              </p>
+              <p>
+                3. Company security staff can monitor the activity of all the
+                agents in real time, implement controls, and be alerted to any
+                security risks as soon as they arise.
+              </p>
+              <p>
+                Here’s the video demo:
+                <a href="https://youtu.be/IdK2WKg7kaM"
+                  >https://youtu.be/IdK2WKg7kaM</a
+                >
+              </p>
+              <p>
+                The inspiration for Traceforce came via Xia’s experience as
+                Director of Engineering at a startup called Clumio (which was
+                acquired by Commvault in Oct 2024). Being able to monitor how
+                team members are using AI without slowing them down was a top
+                priority at Clumio. After speaking with 50+ CISOs and CIOs, it
+                became clear that this is a much-needed solution right now
+                across industries. We keep hearing that new AI features are
+                being adopted so quickly and so broadly that visibility and
+                control just can't keep up.
+              </p>
+              <p>
+                Traceforce is transparent about what we monitor and collect. By
+                default, Traceforce collects only metadata and telemetry about
+                the AI applications, MCPs, and tools running on a device.
+                Security teams can enable options to inspect tool calls for the
+                purpose of detecting, warning on, or blocking predefined
+                high-risk or potentially destructive actions. All content
+                inspection happens locally on the device. User prompts are never
+                stored unless explicitly configured by the organization's
+                security administrators.
+              </p>
+              <p>
+                We work closely with end-users of the product, and once they
+                understand what is being monitored/shared, they actually have
+                great comfort that they have a powerful layer of protection on
+                their device to prevent security incidents. It enables them to
+                just focus on their work without worrying about what leaks and
+                breaches may be happening under the hood without their
+                awareness.
+              </p>
+              <p>
+                The Traceforce binary is built using Go and the browser
+                extension is written in Node JS. The hardest part is building a
+                complete connectivity graph between AI applications, MCPs, and
+                tools, then identifying the vulnerabilities and attack paths
+                introduced by those connections. Traditional security tools fall
+                short: EDRs see processes, CASBs see network traffic, but
+                neither has visibility into the application-level activity
+                happening inside AI apps. The way we got it to work was by
+                understanding the configurations and logs of each and every app.
+                It’s a labor intensive process because every app is different
+                and AI features change frequently.
+              </p>
+              <p>
+                Traceforce is currently deployed across more than 1,000 devices
+                at 10 organizations. On average, we discover over 15 AI
+                applications per device with each application connected to 5-10
+                MCPs. We've helped customers identify exposed plaintext secrets
+                in MCP configurations, prevent API keys from leaking through
+                AI-generated code, and warn developers before executing
+                potentially destructive commands such as “DROP TABLE”. Our "warn
+                and acknowledge" approach has been especially well received,
+                giving developers the freedom to work while helping them avoid
+                costly mistakes.
+              </p>
+              <p>
+                We're looking to work with security, IT, and AI platform teams
+                at small to medium enterprises (200+ employees) that are rapidly
+                adopting AI coding assistants, ChatGPT, Claude, and MCPs. If
+                you're struggling to understand what AI tools people use to
+                boost their productivity or need a practical way to reduce
+                AI-related security risk without slowing folks down, we'd love
+                to talk.
+              </p>
+              <p>
+                You can get started with a free trial at
+                <a href="https://www.traceforce.ai"
+                  >https://www.traceforce.ai</a
+                >
+                or reach out directly to schedule a demo and discuss your
+                environment.
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="48936880">
           <h3>
             <a
@@ -142,11 +297,31 @@
             <h4>
               <span>2026-07-16 @ 16:41:37</span
               ><span class="points-container"
-                >Points: <span class="points">29</span></span
+                >Points: <span class="points">43</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48936880"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 13</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48936803">
+          <h3>
+            <a class="item" href="https://github.com/cmk/connections"
+              >Show HN: Galois connections for composable numeric casts in
+              Rust</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-16 @ 16:36:17</span
+              ><span class="points-container"
+                >Points: <span class="points">5</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48936803"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
               >
             </h4>
           </section>
@@ -161,11 +336,11 @@
             <h4>
               <span>2026-07-16 @ 16:24:50</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
+                >Points: <span class="points">14</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48936657"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -181,32 +356,11 @@
             <h4>
               <span>2026-07-16 @ 16:24:33</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">48</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48936654"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48936621">
-          <h3>
-            <a
-              class="item"
-              href="https://developers.googleblog.com/building-scalable-ai-agents-with-modular-prompt-transpilation/"
-              >Building scalable AI agents with modular prompt transpilation</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-16 @ 16:22:09</span
-              ><span class="points-container"
-                >Points: <span class="points">7</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48936621"
-                  >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -223,13 +377,47 @@
             <h4>
               <span>2026-07-16 @ 16:18:21</span
               ><span class="points-container"
-                >Points: <span class="points">49</span></span
+                >Points: <span class="points">74</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48936584"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 33</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="48936554">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=48936554"
+              >Show HN: A modern port of Linux to a ten-year-old QWERTY phone</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-16 @ 16:15:55</span
+              ><span class="points-container"
+                >Points: <span class="points">11</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48936554"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                I wrote it up here:
+                <a
+                  href="https://tmzt.github.io/blog/a-modern-port-of-linux-to-a-ten-year-old-qwerty-phone/"
+                  >https://tmzt.github.io/blog/a-modern-port-of-linux-to-a-ten-...</a
+                >
+              </p>
+              <p>
+                You can see the code here:
+                <a href="https://github.com/tmzt/linux-stable-msm-dtsi"
+                  >https://github.com/tmzt/linux-stable-msm-dtsi</a
+                >
+              </p>
+            </div>
           </section>
         </section>
         <section id="48936534">
@@ -242,11 +430,11 @@
             <h4>
               <span>2026-07-16 @ 16:14:20</span
               ><span class="points-container"
-                >Points: <span class="points">9</span></span
+                >Points: <span class="points">11</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48936534"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -263,11 +451,11 @@
             <h4>
               <span>2026-07-16 @ 16:08:13</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">40</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48936451"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 20</span></span
               >
             </h4>
           </section>
@@ -284,11 +472,11 @@
             <h4>
               <span>2026-07-16 @ 16:06:27</span
               ><span class="points-container"
-                >Points: <span class="points">120</span></span
+                >Points: <span class="points">154</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48936426"
                   >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 41</span></span
               >
             </h4>
           </section>
@@ -303,7 +491,7 @@
             <h4>
               <span>2026-07-16 @ 16:03:43</span
               ><span class="points-container"
-                >Points: <span class="points">7</span></span
+                >Points: <span class="points">9</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48936389"
                   >Comments</a
@@ -350,6 +538,47 @@
             </div>
           </section>
         </section>
+        <section id="48935984">
+          <h3>
+            <a
+              class="item"
+              href="https://blog.simbastack.com/announcing-sentinel/"
+              >Show HN: Sentinel – open-source QA agent that reads your code
+              before it clicks</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-16 @ 15:35:13</span
+              ><span class="points-container"
+                >Points: <span class="points">12</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48935984"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48935951">
+          <h3>
+            <a class="item" href="https://immersivemath.com/ila/"
+              >Immersive Linear Algebra Book with Interactive Figures</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-16 @ 15:32:23</span
+              ><span class="points-container"
+                >Points: <span class="points">25</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48935951"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="48935687">
           <h3>
             <a
@@ -363,11 +592,32 @@
             <h4>
               <span>2026-07-16 @ 15:13:00</span
               ><span class="points-container"
-                >Points: <span class="points">25</span></span
+                >Points: <span class="points">30</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48935687"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
+                ><span class="descendants">: 24</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48935541">
+          <h3>
+            <a
+              class="item"
+              href="https://www.kimi.com/code/docs/en/kimi-code/models"
+              >Kimi K3 Is Live</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-16 @ 15:01:32</span
+              ><span class="points-container"
+                >Points: <span class="points">13</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48935541"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -384,11 +634,11 @@
             <h4>
               <span>2026-07-16 @ 14:59:14</span
               ><span class="points-container"
-                >Points: <span class="points">44</span></span
+                >Points: <span class="points">49</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48935510"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -403,11 +653,11 @@
             <h4>
               <span>2026-07-16 @ 14:46:05</span
               ><span class="points-container"
-                >Points: <span class="points">395</span></span
+                >Points: <span class="points">446</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48935342"
                   >Comments</a
-                ><span class="descendants">: 203</span></span
+                ><span class="descendants">: 218</span></span
               >
             </h4>
           </section>
@@ -424,11 +674,11 @@
             <h4>
               <span>2026-07-16 @ 13:30:00</span
               ><span class="points-container"
-                >Points: <span class="points">98</span></span
+                >Points: <span class="points">100</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48934286"
                   >Comments</a
-                ><span class="descendants">: 46</span></span
+                ><span class="descendants">: 47</span></span
               >
             </h4>
           </section>
@@ -446,30 +696,11 @@
             <h4>
               <span>2026-07-16 @ 12:13:43</span
               ><span class="points-container"
-                >Points: <span class="points">353</span></span
+                >Points: <span class="points">377</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48933419"
                   >Comments</a
-                ><span class="descendants">: 199</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48933370">
-          <h3>
-            <a class="item" href="https://www.ssp.sh/blog/on-creation/"
-              >The Act and the Outcome of Creation</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-16 @ 12:05:42</span
-              ><span class="points-container"
-                >Points: <span class="points">24</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48933370"
-                  >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 216</span></span
               >
             </h4>
           </section>
@@ -486,7 +717,7 @@
             <h4>
               <span>2026-07-16 @ 11:58:09</span
               ><span class="points-container"
-                >Points: <span class="points">96</span></span
+                >Points: <span class="points">100</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48933303"
                   >Comments</a
@@ -505,32 +736,11 @@
             <h4>
               <span>2026-07-16 @ 11:39:27</span
               ><span class="points-container"
-                >Points: <span class="points">198</span></span
+                >Points: <span class="points">222</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48933149"
                   >Comments</a
-                ><span class="descendants">: 105</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48932784">
-          <h3>
-            <a
-              class="item"
-              href="https://musklr.com/blog/2026/iphone-lock-screen-workout-tracking-live-activity/"
-              >Track your workout from the iPhone Lock Screen</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-16 @ 10:49:50</span
-              ><span class="points-container"
-                >Points: <span class="points">33</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48932784"
-                  >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 119</span></span
               >
             </h4>
           </section>
@@ -545,11 +755,11 @@
             <h4>
               <span>2026-07-16 @ 10:37:17</span
               ><span class="points-container"
-                >Points: <span class="points">158</span></span
+                >Points: <span class="points">160</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48932697"
                   >Comments</a
-                ><span class="descendants">: 47</span></span
+                ><span class="descendants">: 58</span></span
               >
             </h4>
           </section>
@@ -566,30 +776,11 @@
             <h4>
               <span>2026-07-16 @ 10:14:04</span
               ><span class="points-container"
-                >Points: <span class="points">405</span></span
+                >Points: <span class="points">414</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48932539"
                   >Comments</a
-                ><span class="descendants">: 218</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48931588">
-          <h3>
-            <a class="item" href="https://joinedanthropic.com"
-              >Where are YC founders now? OpenAI and Anthropic, mostly</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-16 @ 08:03:35</span
-              ><span class="points-container"
-                >Points: <span class="points">282</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48931588"
-                  >Comments</a
-                ><span class="descendants">: 186</span></span
+                ><span class="descendants">: 229</span></span
               >
             </h4>
           </section>
@@ -606,11 +797,11 @@
             <h4>
               <span>2026-07-16 @ 04:46:21</span
               ><span class="points-container"
-                >Points: <span class="points">636</span></span
+                >Points: <span class="points">654</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48930454"
                   >Comments</a
-                ><span class="descendants">: 431</span></span
+                ><span class="descendants">: 439</span></span
               >
             </h4>
           </section>
@@ -628,73 +819,33 @@
             <h4>
               <span>2026-07-16 @ 03:12:47</span
               ><span class="points-container"
-                >Points: <span class="points">200</span></span
+                >Points: <span class="points">203</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48929945"
                   >Comments</a
-                ><span class="descendants">: 37</span></span
+                ><span class="descendants">: 38</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="48927095">
+        <section id="48903110">
           <h3>
             <a
               class="item"
-              href="https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf"
-              >Governments, companies, nonprofits should invest in free, open
-              source AI [pdf]</a
+              href="https://www.justintorre.com/blogs/clickhouse-rls-query-parameters"
+              >Helicone allows users to write SQL directly to a shared
+              ClickHouse</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-07-15 @ 21:16:36</span
+              <span>2026-07-14 @ 06:50:55</span
               ><span class="points-container"
-                >Points: <span class="points">278</span></span
+                >Points: <span class="points">8</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48927095"
+                ><a href="https://news.ycombinator.com/item?id=48903110"
                   >Comments</a
-                ><span class="descendants">: 97</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48926590">
-          <h3>
-            <a class="item" href="https://github.com/xai-org/grok-build"
-              >Grok Build is open source</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-15 @ 20:24:58</span
-              ><span class="points-container"
-                >Points: <span class="points">564</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48926590"
-                  >Comments</a
-                ><span class="descendants">: 592</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48924912">
-          <h3>
-            <a
-              class="item"
-              href="https://thinkingmachines.ai/news/introducing-inkling/"
-              >Inkling: Our Open-Weights Model</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-15 @ 18:12:45</span
-              ><span class="points-container"
-                >Points: <span class="points">1152</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48924912"
-                  >Comments</a
-                ><span class="descendants">: 279</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -711,11 +862,11 @@
             <h4>
               <span>2026-07-13 @ 20:17:46</span
               ><span class="points-container"
-                >Points: <span class="points">29</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48898215"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -732,11 +883,11 @@
             <h4>
               <span>2026-07-12 @ 17:57:58</span
               ><span class="points-container"
-                >Points: <span class="points">171</span></span
+                >Points: <span class="points">174</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48883036"
                   >Comments</a
-                ><span class="descendants">: 78</span></span
+                ><span class="descendants">: 81</span></span
               >
             </h4>
           </section>
@@ -751,30 +902,11 @@
             <h4>
               <span>2026-07-12 @ 00:27:52</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">26</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48877151"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48856746">
-          <h3>
-            <a class="item" href="https://mathspp.com/blog/lsbasi-apl-part1"
-              >Let's build a simple interpreter for APL – part 1</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-10 @ 07:16:58</span
-              ><span class="points-container"
-                >Points: <span class="points">34</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48856746"
-                  >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
