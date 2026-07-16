@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-16, 10:14:04",
+      "https://news.ycombinator.com/item?id=48932539"
+    ],
+    [
+      "OnePlus halts operations in USA and Europe",
+      "https://community.oneplus.com/thread/2170715118587871237"
+    ]
+  ],
+  [
+    [
       "2026-07-16, 08:03:35",
       "https://news.ycombinator.com/item?id=48931588"
     ],
@@ -171,6 +181,16 @@
   ],
   [
     [
+      "2026-07-15, 16:33:15",
+      "https://news.ycombinator.com/item?id=48923380"
+    ],
+    [
+      "Collection of Digital Clock Designs",
+      "https://clocks.dev"
+    ]
+  ],
+  [
+    [
       "2026-07-15, 15:51:20",
       "https://news.ycombinator.com/item?id=48922706"
     ],
@@ -231,22 +251,12 @@
   ],
   [
     [
-      "2026-07-14, 06:35:40",
-      "https://news.ycombinator.com/item?id=48903015"
+      "2026-07-12, 19:52:16",
+      "https://news.ycombinator.com/item?id=48884068"
     ],
     [
-      "The Last Picture Show: A Conversation with George Lucas",
-      "https://a-rabbitsfoot.com/editorial/confessions/the-last-picture-show-a-conversation-with-george-lucas/"
-    ]
-  ],
-  [
-    [
-      "2026-07-12, 18:48:41",
-      "https://news.ycombinator.com/item?id=48883467"
-    ],
-    [
-      "Dense Arena Interning: The Engine of Compiler Performance",
-      "https://aikoschurmann.com/blog/string-interning-compilers"
+      "A Beautiful Theory Falls to Ugly Data",
+      "https://marginalrevolution.com/marginalrevolution/2026/05/a-beautiful-theory-falls-to-ugly-data.html"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Teardown: A Generic 7-Port USB 3.0 Hub That Wasn't",
       "https://goughlui.com/2026/07/09/teardown-a-generic-7-port-usb-3-0-hub-that-wasnt/"
-    ]
-  ],
-  [
-    [
-      "2026-07-12, 17:19:47",
-      "https://news.ycombinator.com/item?id=48882777"
-    ],
-    [
-      "In defense of not understanding your codebase",
-      "https://www.seangoedecke.com/in-defense-of-not-understanding-your-codebase/"
     ]
   ],
   [
