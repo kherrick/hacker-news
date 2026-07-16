@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-16](index.md)
 
+* [2026-07-16, 18:03:56](https://news.ycombinator.com/item?id=48938001) - [SPCX is now Wall Street's most shorted new stock](https://invezz.com/news/2026/07/16/the-worlds-most-valuable-ipo-spcx-is-now-wall-streets-most-shorted-new-stock/)
 * [2026-07-16, 17:11:58](https://news.ycombinator.com/item?id=48937288) - [42% of adults rely on their parents for financial support](https://www.cnbc.com/2026/07/16/42percent-of-adults-rely-on-their-parents-for-financial-supportthere-are-no-bad-guys-here-says-financial-therapist.html)
 * [2026-07-16, 17:00:55](https://news.ycombinator.com/item?id=48937125) - [Adaptional (YC S25) Is Hiring](https://www.ycombinator.com/companies/adaptional/jobs)
 * [2026-07-16, 16:52:16](https://news.ycombinator.com/item?id=48937020) - [Launch HN: Traceforce (YC S26) – Company-wide security monitoring for AI apps](https://news.ycombinator.com/item?id=48937020)
@@ -22,6 +23,7 @@
 * [2026-07-16, 16:03:43](https://news.ycombinator.com/item?id=48936389) - [Show HN: Leaves – a text-UI disk usage treemap visualizer](https://github.com/patonw/leaves)
 * [2026-07-16, 15:35:13](https://news.ycombinator.com/item?id=48935984) - [Show HN: Sentinel – open-source QA agent that reads your code before it clicks](https://blog.simbastack.com/announcing-sentinel/)
 * [2026-07-16, 15:32:23](https://news.ycombinator.com/item?id=48935951) - [Immersive Linear Algebra Book with Interactive Figures](https://immersivemath.com/ila/)
+* [2026-07-16, 15:29:12](https://news.ycombinator.com/item?id=48935905) - [Schema Harness Achieves ~99% on Arc‑AGI‑3 Public](https://schema-harness.github.io/)
 * [2026-07-16, 15:13:00](https://news.ycombinator.com/item?id=48935687) - [How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM](https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model)
 * [2026-07-16, 15:01:32](https://news.ycombinator.com/item?id=48935541) - [Kimi K3 Is Live](https://www.kimi.com/code/docs/en/kimi-code/models)
 * [2026-07-16, 14:59:14](https://news.ycombinator.com/item?id=48935510) - [Guide to data tools landscape for developers](https://sinja.io/blog/data-landscape-guide-for-developers)
