@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2026-07-16, 17:11:58",
-      "https://news.ycombinator.com/item?id=48937288"
-    ],
-    [
-      "42% of adults rely on their parents for financial support",
-      "https://www.cnbc.com/2026/07/16/42percent-of-adults-rely-on-their-parents-for-financial-supportthere-are-no-bad-guys-here-says-financial-therapist.html"
-    ]
-  ],
-  [
-    [
       "2026-07-16, 17:00:55",
       "https://news.ycombinator.com/item?id=48937125"
     ],
@@ -47,6 +37,16 @@
     [
       "Detecting LLM-Generated Texts with “Classical” Machine Learning",
       "https://blog.lyc8503.net/en/post/llm-classifier/"
+    ]
+  ],
+  [
+    [
+      "2026-07-16, 16:36:17",
+      "https://news.ycombinator.com/item?id=48936803"
+    ],
+    [
+      "Show HN: Galois connections for composable numeric casts in Rust",
+      "https://github.com/cmk/connections"
     ]
   ],
   [
