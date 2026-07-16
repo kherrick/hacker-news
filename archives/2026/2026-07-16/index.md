@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-16](index.md)
 
+* [2026-07-16, 14:59:14](https://news.ycombinator.com/item?id=48935510) - [Guide to data tools landscape for developers](https://sinja.io/blog/data-landscape-guide-for-developers)
 * [2026-07-16, 14:46:05](https://news.ycombinator.com/item?id=48935342) - [Kimi K3 is now live](https://www.kimi.com/en)
 * [2026-07-16, 13:51:32](https://news.ycombinator.com/item?id=48934583) - [Show HN: AI Law Tracker – one audited API for US, EU and global AI law](https://ai-law-tracker.com)
 * [2026-07-16, 13:41:12](https://news.ycombinator.com/item?id=48934434) - [How to spend 15 years perfecting a product](https://refactoring.guru/email/gbb-rollout2)
