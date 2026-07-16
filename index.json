@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2026-07-15, 11:46:06",
+      "https://news.ycombinator.com/item?id=48919363"
+    ],
+    [
+      "Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023)",
+      "https://academic.oup.com/sleep/article/47/1/zsad253/7280269"
+    ]
+  ],
+  [
+    [
       "2026-07-15, 11:27:35",
       "https://news.ycombinator.com/item?id=48919198"
     ],
@@ -227,16 +237,6 @@
     [
       "Book prizes don't work how you think",
       "https://rebeccamakkai.substack.com/p/book-prizes-dont-work-how-you-think"
-    ]
-  ],
-  [
-    [
-      "2026-07-14, 14:40:46",
-      "https://news.ycombinator.com/item?id=48907681"
-    ],
-    [
-      "Show HN: Low-latency local LLM runner via OpenJDK Panama FFM (Java 22)",
-      "https://github.com/projectargus-cc/libargus.cc"
     ]
   ],
   [
