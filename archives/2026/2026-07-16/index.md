@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-07-16](index.md)
 
+* [2026-07-16, 14:46:05](https://news.ycombinator.com/item?id=48935342) - [Kimi K3 is now live](https://www.kimi.com/en)
 * [2026-07-16, 13:51:32](https://news.ycombinator.com/item?id=48934583) - [Show HN: AI Law Tracker – one audited API for US, EU and global AI law](https://ai-law-tracker.com)
 * [2026-07-16, 13:41:12](https://news.ycombinator.com/item?id=48934434) - [How to spend 15 years perfecting a product](https://refactoring.guru/email/gbb-rollout2)
 * [2026-07-16, 13:34:03](https://news.ycombinator.com/item?id=48934340) - [Show HN: We hid a backdoor in an LLM – $51,200 on finding it](https://protora.vulcora.se/challenge)
 * [2026-07-16, 13:30:00](https://news.ycombinator.com/item?id=48934286) - [Goes-19 weather satellite enters Safe Hold mode](https://www.spaceweather.gov/news/goes-19-safe-hold)
 * [2026-07-16, 13:15:49](https://news.ycombinator.com/item?id=48934092) - [Show HN: I've built a words game based on binary search](https://hilogame.cc/)
+* [2026-07-16, 13:12:24](https://news.ycombinator.com/item?id=48934046) - [Generative AI Is an Engineering Disaster](https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/)
 * [2026-07-16, 12:33:06](https://news.ycombinator.com/item?id=48933581) - [Introduction to KizunaShelf: A shelf for everything you love](https://mudkip.me/2026/07/16/Introduction-to-KizunaShelf/)
 * [2026-07-16, 12:19:30](https://news.ycombinator.com/item?id=48933464) - [Teen hackers who live streamed cyber-attack on TfL jailed](https://www.bbc.com/news/articles/c4gyg0y6yg2o)
 * [2026-07-16, 12:13:43](https://news.ycombinator.com/item?id=48933419) - [Sony Deletes a Bunch More Movies from the Accounts of People Who 'Bought' Them](https://www.techdirt.com/2026/07/15/sony-deletes-a-bunch-more-movies-from-the-accounts-of-people-who-bought-them/)
@@ -17,6 +19,7 @@
 * [2026-07-16, 12:02:11](https://news.ycombinator.com/item?id=48933344) - [SpaceX stock erases all its gains and slides below IPO price in intraday trading](https://www.latimes.com/business/story/2026-07-16/spacex-stock-erases-gains-slides-below-ipo-price-in-intraday-trading)
 * [2026-07-16, 11:59:01](https://news.ycombinator.com/item?id=48933310) - [The LLM Critics Are Right. I Use LLMs Anyway](https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/)
 * [2026-07-16, 11:58:09](https://news.ycombinator.com/item?id=48933303) - [Let's Build PlanetScale from Scratch: Infrastructure](https://onatm.dev/2026/07/16/homescale-part-1/)
+* [2026-07-16, 11:39:27](https://news.ycombinator.com/item?id=48933149) - [How Our Rust-to-Zig Rewrite Is Going](https://rtfeldman.com/rust-to-zig)
 * [2026-07-16, 11:27:37](https://news.ycombinator.com/item?id=48933067) - [Umuganda](https://en.wikipedia.org/wiki/Umuganda)
 * [2026-07-16, 11:04:27](https://news.ycombinator.com/item?id=48932889) - [I resurrected an 8-year-old dead CSS library and gave it an engine](https://usevivace.dev)
 * [2026-07-16, 10:49:50](https://news.ycombinator.com/item?id=48932784) - [Track your workout from the iPhone Lock Screen](https://musklr.com/blog/2026/iphone-lock-screen-workout-tracking-live-activity/)

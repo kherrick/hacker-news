@@ -18,6 +18,7 @@
 * [2026-07-13, 21:44:18](https://news.ycombinator.com/item?id=48899324) - [MIT's New Method Flags AI Models Trained on CASM Without Generating It](https://insideai.news/news/ai-safety/mits-new-method-flags-ai-models-trained-on-child-abuse-imagery-without-generating-it/3869/)
 * [2026-07-13, 21:43:51](https://news.ycombinator.com/item?id=48899321) - [A Study of Microsoft's Early 2026 Rollout of Claude Code and GitHub Copilot CLI](https://arxiv.org/abs/2607.01418)
 * [2026-07-13, 21:01:00](https://news.ycombinator.com/item?id=48898814) - [SalesPatriot (YC W25) Is Hiring Full Stack Engineers (SF)](https://jobs.ashbyhq.com/SalesPatriot/df223727-5781-433e-bc75-2aa5bf8dc8d7)
+* [2026-07-13, 20:17:46](https://news.ycombinator.com/item?id=48898215) - [Accidental Anonymity](https://macwright.com/2026/06/24/accidental-anonymity)
 * [2026-07-13, 20:13:14](https://news.ycombinator.com/item?id=48898154) - [Show HN: YouTube Guitar Tab Parser](https://github.com/marcelpanse/youtube-guitar-tab-parser)
 * [2026-07-13, 20:11:29](https://news.ycombinator.com/item?id=48898134) - [Linux 0.11 rewritten in idiomatic Rust, boots in QEMU](https://github.com/Poseidon-fan/linux-0.11-rs)
 * [2026-07-13, 20:07:45](https://news.ycombinator.com/item?id=48898071) - [Show HN: Sigwire – a live TUI switchboard for every signal on your Linux box](https://github.com/yeet-src/sigwire)
