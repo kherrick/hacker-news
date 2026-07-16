@@ -4,6 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-07-16](index.md)
 
+* [2026-07-16, 12:05:53](https://news.ycombinator.com/item?id=48933371) - [British Steel taken into public ownership to protect 'vital' UK supply](https://www.bbc.com/news/articles/c5y680w62wno)
+* [2026-07-16, 12:05:42](https://news.ycombinator.com/item?id=48933370) - [The Act and the Outcome of Creation](https://www.ssp.sh/blog/on-creation/)
+* [2026-07-16, 12:02:11](https://news.ycombinator.com/item?id=48933344) - [SpaceX stock erases all its gains and slides below IPO price in intraday trading](https://www.latimes.com/business/story/2026-07-16/spacex-stock-erases-gains-slides-below-ipo-price-in-intraday-trading)
+* [2026-07-16, 11:59:01](https://news.ycombinator.com/item?id=48933310) - [The LLM Critics Are Right. I Use LLMs Anyway](https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/)
+* [2026-07-16, 11:58:09](https://news.ycombinator.com/item?id=48933303) - [Let's Build PlanetScale from Scratch: Infrastructure](https://onatm.dev/2026/07/16/homescale-part-1/)
+* [2026-07-16, 11:04:27](https://news.ycombinator.com/item?id=48932889) - [I resurrected an 8-year-old dead CSS library and gave it an engine](https://usevivace.dev)
+* [2026-07-16, 10:49:50](https://news.ycombinator.com/item?id=48932784) - [Track your workout from the iPhone Lock Screen](https://musklr.com/blog/2026/iphone-lock-screen-workout-tracking-live-activity/)
+* [2026-07-16, 10:37:17](https://news.ycombinator.com/item?id=48932697) - [Ente – Opening Our Books](https://ente.com/open/)
 * [2026-07-16, 10:14:04](https://news.ycombinator.com/item?id=48932539) - [OnePlus halts operations in USA and Europe](https://community.oneplus.com/thread/2170715118587871237)
 * [2026-07-16, 08:03:35](https://news.ycombinator.com/item?id=48931588) - [Where are YC founders now? OpenAI and Anthropic, mostly](https://joinedanthropic.com)
 * [2026-07-16, 05:33:50](https://news.ycombinator.com/item?id=48930713) - [DJB Netstrings (1997)](https://cr.yp.to/proto/netstrings.txt)
