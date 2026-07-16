@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-16, 02:06:36",
+      "https://news.ycombinator.com/item?id=48929587"
+    ],
+    [
+      "The Tokio/Rayon Trap and Why Async/Await Fails Concurrency",
+      "https://pmbanugo.me/blog/why-async-await-complect-concurrency"
+    ]
+  ],
+  [
+    [
+      "2026-07-16, 01:21:04",
+      "https://news.ycombinator.com/item?id=48929351"
+    ],
+    [
+      "Bluesky Trademarks ATProto",
+      "https://atproto.com/blog/at-protocol-trademark"
+    ]
+  ],
+  [
+    [
       "2026-07-15, 23:10:10",
       "https://news.ycombinator.com/item?id=48928402"
     ],
@@ -27,16 +47,6 @@
     [
       "Metal-Organic Frameworks, Chemistry's New Miracle Materials (2018)",
       "https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials"
-    ]
-  ],
-  [
-    [
-      "2026-07-15, 22:52:36",
-      "https://news.ycombinator.com/item?id=48928234"
-    ],
-    [
-      "The Anti-Mac User Interface (1996)",
-      "https://www.nngroup.com/articles/anti-mac-interface/"
     ]
   ],
   [
@@ -251,16 +261,6 @@
   ],
   [
     [
-      "2026-07-13, 13:20:34",
-      "https://news.ycombinator.com/item?id=48892273"
-    ],
-    [
-      "MITS: Rockets, Calculators, and Personal Computers",
-      "https://www.abortretry.fail/p/micro-instrumentation-and-telemetry"
-    ]
-  ],
-  [
-    [
       "2026-07-12, 19:00:49",
       "https://news.ycombinator.com/item?id=48883578"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-07-10, 19:08:13",
-      "https://news.ycombinator.com/item?id=48863891"
+      "2026-07-10, 17:15:29",
+      "https://news.ycombinator.com/item?id=48862644"
     ],
     [
-      "Show HN: E-- – A language you dial between English and Python",
-      "https://github.com/frmoded/e--"
+      "CatchCat – Pokémon Go for Cats, IRL",
+      "https://www.catchcat.lol/"
     ]
   ]
 ]
