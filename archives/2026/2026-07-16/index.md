@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-07-16](index.md)
 
+* [2026-07-16, 22:29:44](https://news.ycombinator.com/item?id=48941129) - [My car's OTA update broke Android Auto, and it's a indictment of modern software](https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/)
+* [2026-07-16, 22:29:21](https://news.ycombinator.com/item?id=48941123) - [Show HN: Mojibake – a low-level Unicode library written in C](https://mojibake.zaerl.com/)
+* [2026-07-16, 22:27:22](https://news.ycombinator.com/item?id=48941104) - [The Little Book of Reinforcement Learning](https://github.com/alxndrTL/little-book-rl/)
 * [2026-07-16, 22:21:59](https://news.ycombinator.com/item?id=48941056) - [FIFA World Cup 2026 Data Portraits](https://wc26.bogachev.fr/index.html)
+* [2026-07-16, 22:21:31](https://news.ycombinator.com/item?id=48941051) - [Show HN: ReasonGate- An explainable gate that blocks LLM prompt injection](https://github.com/cgrtml/reasongate)
 * [2026-07-16, 22:07:30](https://news.ycombinator.com/item?id=48940895) - [CVE-2026-25089: FortiSandbox unauthenticated command injection added to CISA KEV](https://hellorecon.com/blog/cve-2026-25089)
 * [2026-07-16, 22:00:00](https://news.ycombinator.com/item?id=48940833) - ['Likweli': A new monkey species discovered in the Congo Basin](https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin)
 * [2026-07-16, 21:55:49](https://news.ycombinator.com/item?id=48940801) - [Just Do Things](https://ray.zo.space/blog/just-do-things)
