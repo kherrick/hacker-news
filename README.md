@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-16, 02:06:36](https://news.ycombinator.com/item?id=48929587) - [The Tokio/Rayon Trap and Why Async/Await Fails Concurrency](https://pmbanugo.me/blog/why-async-await-complect-concurrency)
+* [2026-07-16, 01:21:04](https://news.ycombinator.com/item?id=48929351) - [Bluesky Trademarks ATProto](https://atproto.com/blog/at-protocol-trademark)
 * [2026-07-15, 23:10:10](https://news.ycombinator.com/item?id=48928402) - [Show HN: One More Letter](https://playonemoreletter.com/)
 * [2026-07-15, 23:03:45](https://news.ycombinator.com/item?id=48928343) - [Nul Characters in Strings in SQLite](https://sqlite.org/nulinstr.html)
 * [2026-07-15, 23:00:31](https://news.ycombinator.com/item?id=48928313) - [Metal-Organic Frameworks, Chemistry's New Miracle Materials (2018)](https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials)
-* [2026-07-15, 22:52:36](https://news.ycombinator.com/item?id=48928234) - [The Anti-Mac User Interface (1996)](https://www.nngroup.com/articles/anti-mac-interface/)
 * [2026-07-15, 22:42:58](https://news.ycombinator.com/item?id=48928135) - [SQLite should have (Rust-style) editions](https://mort.coffee/home/sqlite-editions/)
 * [2026-07-15, 22:23:27](https://news.ycombinator.com/item?id=48927915) - [LLM Networking with MikroTik](https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html)
 * [2026-07-15, 22:22:08](https://news.ycombinator.com/item?id=48927900) - [P2P local file transfer based on WebRTC](https://pairdrop.net/)
@@ -25,11 +26,10 @@
 * [2026-07-14, 22:19:01](https://news.ycombinator.com/item?id=48913653) - [Book prizes don't work how you think](https://rebeccamakkai.substack.com/p/book-prizes-dont-work-how-you-think)
 * [2026-07-14, 08:27:56](https://news.ycombinator.com/item?id=48903733) - [Job queues are deceptively tricky](https://typesanitizer.com/blog/job-queues.html)
 * [2026-07-13, 16:15:41](https://news.ycombinator.com/item?id=48894874) - [Designing APIs for Agents](https://www.freestyle.sh/blog/opinion/designing-apis-for-agents)
-* [2026-07-13, 13:20:34](https://news.ycombinator.com/item?id=48892273) - [MITS: Rockets, Calculators, and Personal Computers](https://www.abortretry.fail/p/micro-instrumentation-and-telemetry)
 * [2026-07-12, 19:00:49](https://news.ycombinator.com/item?id=48883578) - [Today I Rescued 7,234 Old GIFs](https://danq.me/2026/07/10/rescuing-7234-gifs/)
 * [2026-07-12, 13:28:31](https://news.ycombinator.com/item?id=48881064) - [Command Line Interface Guidelines](https://clig.dev/)
 * [2026-07-11, 13:04:46](https://news.ycombinator.com/item?id=48871721) - [G# – A modern .NET language with Go, Kotlin, and Swift ergonomics](https://davidobando.github.io/gsharp/)
-* [2026-07-10, 19:08:13](https://news.ycombinator.com/item?id=48863891) - [Show HN: E-- – A language you dial between English and Python](https://github.com/frmoded/e--)
+* [2026-07-10, 17:15:29](https://news.ycombinator.com/item?id=48862644) - [CatchCat – Pokémon Go for Cats, IRL](https://www.catchcat.lol/)
 
 ## [Archives](archives/index.md)
 

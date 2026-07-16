@@ -29,6 +29,7 @@
 * [2026-07-10, 17:52:48](https://news.ycombinator.com/item?id=48863080) - [War Atlas: An interactive cartography of every named war in human history](https://waratlas.org)
 * [2026-07-10, 17:51:07](https://news.ycombinator.com/item?id=48863064) - [SpaceX wants to launch 100k more Starlink satellites – for 100x the bandwidth](https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/)
 * [2026-07-10, 17:36:28](https://news.ycombinator.com/item?id=48862854) - [The Difference Between Watercolor and Gouache Paints](https://www.jetpens.com/blog/The-Difference-Between-Watercolor-and-Gouache-Paints/pt/963)
+* [2026-07-10, 17:15:29](https://news.ycombinator.com/item?id=48862644) - [CatchCat – Pokémon Go for Cats, IRL](https://www.catchcat.lol/)
 * [2026-07-10, 16:59:55](https://news.ycombinator.com/item?id=48862493) - [Collaboration Networks in Brazilian Computer Science](https://blog.ptidej.net/collaboration-networks-in-brazilian-computer-science/)
 * [2026-07-10, 16:57:35](https://news.ycombinator.com/item?id=48862467) - [Anyone else get a vague GitHub shakedown notice?](https://lists.osgeo.org/pipermail/qgis-developer/2026-July/068430.html)
 * [2026-07-10, 16:48:41](https://news.ycombinator.com/item?id=48862365) - [The tech of 'Terminator 2' – an oral history (2017)](https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/)
