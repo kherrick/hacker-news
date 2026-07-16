@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2026-07-15, 23:10:10",
-      "https://news.ycombinator.com/item?id=48928402"
-    ],
-    [
-      "Show HN: One More Letter",
-      "https://playonemoreletter.com/"
-    ]
-  ],
-  [
-    [
       "2026-07-15, 23:00:31",
       "https://news.ycombinator.com/item?id=48928313"
     ],
@@ -257,6 +247,16 @@
     [
       "What's the story behind the names of Cloudflare's name servers? (2013)",
       "https://blog.cloudflare.com/whats-the-story-behind-the-names-of-cloudflares-name-servers/"
+    ]
+  ],
+  [
+    [
+      "2026-07-12, 18:48:41",
+      "https://news.ycombinator.com/item?id=48883467"
+    ],
+    [
+      "Dense Arena Interning: The Engine of Compiler Performance",
+      "https://aikoschurmann.com/blog/string-interning-compilers"
     ]
   ],
   [
