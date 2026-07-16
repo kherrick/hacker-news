@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-07-16, 17:00:55",
+      "https://news.ycombinator.com/item?id=48937125"
+    ],
+    [
+      "Adaptional (YC S25) Is Hiring",
+      "https://www.ycombinator.com/companies/adaptional/jobs"
+    ]
+  ],
+  [
+    [
+      "2026-07-16, 16:52:16",
+      "https://news.ycombinator.com/item?id=48937020"
+    ],
+    [
+      "Launch HN: Traceforce (YC S26) – Company-wide security monitoring for AI apps",
+      "https://news.ycombinator.com/item?id=48937020"
+    ]
+  ],
+  [
+    [
       "2026-07-16, 16:41:37",
       "https://news.ycombinator.com/item?id=48936880"
     ],
     [
       "Detecting LLM-Generated Texts with \"Classical\" Machine Learning",
       "https://blog.lyc8503.net/en/post/llm-classifier/"
+    ]
+  ],
+  [
+    [
+      "2026-07-16, 16:36:17",
+      "https://news.ycombinator.com/item?id=48936803"
+    ],
+    [
+      "Show HN: Galois connections for composable numeric casts in Rust",
+      "https://github.com/cmk/connections"
     ]
   ],
   [
@@ -31,22 +61,22 @@
   ],
   [
     [
-      "2026-07-16, 16:22:09",
-      "https://news.ycombinator.com/item?id=48936621"
-    ],
-    [
-      "Building scalable AI agents with modular prompt transpilation",
-      "https://developers.googleblog.com/building-scalable-ai-agents-with-modular-prompt-transpilation/"
-    ]
-  ],
-  [
-    [
       "2026-07-16, 16:18:21",
       "https://news.ycombinator.com/item?id=48936584"
     ],
     [
       "Decoy Font",
       "https://www.mixfont.com/experiments/decoy-font"
+    ]
+  ],
+  [
+    [
+      "2026-07-16, 16:15:55",
+      "https://news.ycombinator.com/item?id=48936554"
+    ],
+    [
+      "Show HN: A modern port of Linux to a ten-year-old QWERTY phone",
+      "https://news.ycombinator.com/item?id=48936554"
     ]
   ],
   [
@@ -91,12 +121,42 @@
   ],
   [
     [
+      "2026-07-16, 15:35:13",
+      "https://news.ycombinator.com/item?id=48935984"
+    ],
+    [
+      "Show HN: Sentinel – open-source QA agent that reads your code before it clicks",
+      "https://blog.simbastack.com/announcing-sentinel/"
+    ]
+  ],
+  [
+    [
+      "2026-07-16, 15:32:23",
+      "https://news.ycombinator.com/item?id=48935951"
+    ],
+    [
+      "Immersive Linear Algebra Book with Interactive Figures",
+      "https://immersivemath.com/ila/"
+    ]
+  ],
+  [
+    [
       "2026-07-16, 15:13:00",
       "https://news.ycombinator.com/item?id=48935687"
     ],
     [
       "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
       "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model"
+    ]
+  ],
+  [
+    [
+      "2026-07-16, 15:01:32",
+      "https://news.ycombinator.com/item?id=48935541"
+    ],
+    [
+      "Kimi K3 Is Live",
+      "https://www.kimi.com/code/docs/en/kimi-code/models"
     ]
   ],
   [
@@ -141,16 +201,6 @@
   ],
   [
     [
-      "2026-07-16, 12:05:42",
-      "https://news.ycombinator.com/item?id=48933370"
-    ],
-    [
-      "The Act and the Outcome of Creation",
-      "https://www.ssp.sh/blog/on-creation/"
-    ]
-  ],
-  [
-    [
       "2026-07-16, 11:58:09",
       "https://news.ycombinator.com/item?id=48933303"
     ],
@@ -167,16 +217,6 @@
     [
       "How Our Rust-to-Zig Rewrite Is Going",
       "https://rtfeldman.com/rust-to-zig"
-    ]
-  ],
-  [
-    [
-      "2026-07-16, 10:49:50",
-      "https://news.ycombinator.com/item?id=48932784"
-    ],
-    [
-      "Track your workout from the iPhone Lock Screen",
-      "https://musklr.com/blog/2026/iphone-lock-screen-workout-tracking-live-activity/"
     ]
   ],
   [
@@ -201,16 +241,6 @@
   ],
   [
     [
-      "2026-07-16, 08:03:35",
-      "https://news.ycombinator.com/item?id=48931588"
-    ],
-    [
-      "Where are YC founders now? OpenAI and Anthropic, mostly",
-      "https://joinedanthropic.com"
-    ]
-  ],
-  [
-    [
       "2026-07-16, 04:46:21",
       "https://news.ycombinator.com/item?id=48930454"
     ],
@@ -231,32 +261,12 @@
   ],
   [
     [
-      "2026-07-15, 21:16:36",
-      "https://news.ycombinator.com/item?id=48927095"
+      "2026-07-14, 06:50:55",
+      "https://news.ycombinator.com/item?id=48903110"
     ],
     [
-      "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
-      "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf"
-    ]
-  ],
-  [
-    [
-      "2026-07-15, 20:24:58",
-      "https://news.ycombinator.com/item?id=48926590"
-    ],
-    [
-      "Grok Build is open source",
-      "https://github.com/xai-org/grok-build"
-    ]
-  ],
-  [
-    [
-      "2026-07-15, 18:12:45",
-      "https://news.ycombinator.com/item?id=48924912"
-    ],
-    [
-      "Inkling: Our Open-Weights Model",
-      "https://thinkingmachines.ai/news/introducing-inkling/"
+      "Helicone allows users to write SQL directly to a shared ClickHouse",
+      "https://www.justintorre.com/blogs/clickhouse-rls-query-parameters"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "GC shape stenciling in Go generics",
       "https://rednafi.com/go/gc-shape-stenciling/"
-    ]
-  ],
-  [
-    [
-      "2026-07-10, 07:16:58",
-      "https://news.ycombinator.com/item?id=48856746"
-    ],
-    [
-      "Let's build a simple interpreter for APL – part 1",
-      "https://mathspp.com/blog/lsbasi-apl-part1"
     ]
   ]
 ]
