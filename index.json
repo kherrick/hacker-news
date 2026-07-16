@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=48930713"
     ],
     [
-      "DJB Netstrings (1997)",
+      "Netstrings (1997)",
       "https://cr.yp.to/proto/netstrings.txt"
     ]
   ],
@@ -67,16 +67,6 @@
     [
       "1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored",
       "https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-16, 02:57:30",
-      "https://news.ycombinator.com/item?id=48929870"
-    ],
-    [
-      "Open Source, Free Tier Capable Whispr Using Cloudflare AI",
-      "https://github.com/PrestigePvP/Voicebox"
     ]
   ],
   [
@@ -181,6 +171,16 @@
   ],
   [
     [
+      "2026-07-15, 19:27:59",
+      "https://news.ycombinator.com/item?id=48925888"
+    ],
+    [
+      "Duskers, the scary command line game, is getting a sequel",
+      "https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20"
+    ]
+  ],
+  [
+    [
       "2026-07-15, 18:12:45",
       "https://news.ycombinator.com/item?id=48924912"
     ],
@@ -261,22 +261,22 @@
   ],
   [
     [
+      "2026-07-12, 17:57:58",
+      "https://news.ycombinator.com/item?id=48883036"
+    ],
+    [
+      "Teardown: A Generic 7-Port USB 3.0 Hub That Wasn't",
+      "https://goughlui.com/2026/07/09/teardown-a-generic-7-port-usb-3-0-hub-that-wasnt/"
+    ]
+  ],
+  [
+    [
       "2026-07-12, 13:28:31",
       "https://news.ycombinator.com/item?id=48881064"
     ],
     [
       "Command Line Interface Guidelines",
       "https://clig.dev/"
-    ]
-  ],
-  [
-    [
-      "2026-07-11, 13:47:47",
-      "https://news.ycombinator.com/item?id=48872031"
-    ],
-    [
-      "Rebuilding My Homelab with Compose, Ruby, IPv6, and No Kubernetes",
-      "https://www.petekeen.net/homelab-resolved/"
     ]
   ],
   [
