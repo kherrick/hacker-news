@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-07-16, 03:53:55",
-      "https://news.ycombinator.com/item?id=48930160"
-    ],
-    [
-      "An Interactive Map of AI",
-      "https://artifipedia.com/map"
-    ]
-  ],
-  [
-    [
       "2026-07-16, 03:51:25",
       "https://news.ycombinator.com/item?id=48930149"
     ],
@@ -51,6 +41,16 @@
   ],
   [
     [
+      "2026-07-16, 03:12:47",
+      "https://news.ycombinator.com/item?id=48929945"
+    ],
+    [
+      "1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored",
+      "https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html"
+    ]
+  ],
+  [
+    [
       "2026-07-16, 02:57:30",
       "https://news.ycombinator.com/item?id=48929870"
     ],
@@ -61,12 +61,12 @@
   ],
   [
     [
-      "2026-07-16, 02:44:35",
-      "https://news.ycombinator.com/item?id=48929804"
+      "2026-07-16, 02:17:31",
+      "https://news.ycombinator.com/item?id=48929660"
     ],
     [
-      "Accelerating Block Low-Rank Foundation Model Inference on MemoryConstrained GPUs",
-      "https://dl.acm.org/doi/full/10.1145/3806645.3807580"
+      "Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers",
+      "https://arxiv.org/abs/2607.11859"
     ]
   ],
   [
@@ -97,16 +97,6 @@
     [
       "Show HN: One More Letter",
       "https://playonemoreletter.com/"
-    ]
-  ],
-  [
-    [
-      "2026-07-15, 23:03:45",
-      "https://news.ycombinator.com/item?id=48928343"
-    ],
-    [
-      "Nul Characters in Strings in SQLite",
-      "https://sqlite.org/nulinstr.html"
     ]
   ],
   [
@@ -147,6 +137,16 @@
     [
       "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
       "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-07-15, 21:00:17",
+      "https://news.ycombinator.com/item?id=48926939"
+    ],
+    [
+      "Show HN: Firefox in WebAssembly",
+      "https://developer.puter.com/labs/firefox-wasm/"
     ]
   ],
   [
@@ -211,12 +211,12 @@
   ],
   [
     [
-      "2026-07-15, 16:33:15",
-      "https://news.ycombinator.com/item?id=48923380"
+      "2026-07-15, 15:51:20",
+      "https://news.ycombinator.com/item?id=48922706"
     ],
     [
-      "Collection of Digital Clock Designs",
-      "https://clocks.dev"
+      "Launch HN: Coasty (YC S26) – An API for computer-use agents",
+      "https://coasty.ai/docs"
     ]
   ],
   [
@@ -227,16 +227,6 @@
     [
       "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
       "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/"
-    ]
-  ],
-  [
-    [
-      "2026-07-15, 13:22:00",
-      "https://news.ycombinator.com/item?id=48920475"
-    ],
-    [
-      "Mysteries of Telegram Data Centers (2022)",
-      "https://dev.moe/en/3025"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Job queues are deceptively tricky",
       "https://typesanitizer.com/blog/job-queues.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-14, 06:35:40",
+      "https://news.ycombinator.com/item?id=48903015"
+    ],
+    [
+      "The Last Picture Show: A Conversation with George Lucas",
+      "https://a-rabbitsfoot.com/editorial/confessions/the-last-picture-show-a-conversation-with-george-lucas/"
     ]
   ],
   [
