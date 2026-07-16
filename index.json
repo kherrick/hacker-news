@@ -21,22 +21,12 @@
   ],
   [
     [
-      "2026-07-16, 04:31:01",
-      "https://news.ycombinator.com/item?id=48930363"
+      "2026-07-16, 04:36:07",
+      "https://news.ycombinator.com/item?id=48930397"
     ],
     [
-      "Stop saying that AI is just a tool and it only matters how it is used",
-      "https://www.frank.computer/blog/2025/05/just-a-tool.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-16, 03:51:25",
-      "https://news.ycombinator.com/item?id=48930149"
-    ],
-    [
-      "My Throw Decides My Aim",
-      "https://thegustafson.com/blog/my-throw-decides-my-aim"
+      "Reynard: A real Firefox web browser for iOS 13 or later",
+      "https://github.com/minh-ton/reynard-browser"
     ]
   ],
   [
@@ -151,16 +141,6 @@
   ],
   [
     [
-      "2026-07-15, 21:00:17",
-      "https://news.ycombinator.com/item?id=48926939"
-    ],
-    [
-      "Show HN: Firefox in WebAssembly",
-      "https://developer.puter.com/labs/firefox-wasm/"
-    ]
-  ],
-  [
-    [
       "2026-07-15, 20:24:58",
       "https://news.ycombinator.com/item?id=48926590"
     ],
@@ -187,6 +167,16 @@
     [
       "Inkling: Our Open-Weights Model",
       "https://thinkingmachines.ai/news/introducing-inkling/"
+    ]
+  ],
+  [
+    [
+      "2026-07-15, 16:33:15",
+      "https://news.ycombinator.com/item?id=48923380"
+    ],
+    [
+      "Collection of Digital Clock Designs",
+      "https://clocks.dev"
     ]
   ],
   [
@@ -261,6 +251,16 @@
   ],
   [
     [
+      "2026-07-12, 20:42:20",
+      "https://news.ycombinator.com/item?id=48884580"
+    ],
+    [
+      "What's the story behind the names of Cloudflare's name servers? (2013)",
+      "https://blog.cloudflare.com/whats-the-story-behind-the-names-of-cloudflares-name-servers/"
+    ]
+  ],
+  [
+    [
       "2026-07-12, 17:57:58",
       "https://news.ycombinator.com/item?id=48883036"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2026-07-11, 13:47:47",
+      "https://news.ycombinator.com/item?id=48872031"
+    ],
+    [
+      "Rebuilding My Homelab with Compose, Ruby, IPv6, and No Kubernetes",
+      "https://www.petekeen.net/homelab-resolved/"
+    ]
+  ],
+  [
+    [
       "2026-07-11, 13:04:46",
       "https://news.ycombinator.com/item?id=48871721"
     ],
     [
       "G# – A modern .NET language with Go, Kotlin, and Swift ergonomics",
       "https://davidobando.github.io/gsharp/"
-    ]
-  ],
-  [
-    [
-      "2026-07-10, 17:15:29",
-      "https://news.ycombinator.com/item?id=48862644"
-    ],
-    [
-      "CatchCat – Pokémon Go for Cats, IRL",
-      "https://www.catchcat.lol/"
     ]
   ]
 ]
