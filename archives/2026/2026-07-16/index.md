@@ -6,6 +6,7 @@
 
 * [2026-07-16, 17:00:55](https://news.ycombinator.com/item?id=48937125) - [Adaptional (YC S25) Is Hiring](https://www.ycombinator.com/companies/adaptional/jobs)
 * [2026-07-16, 16:52:16](https://news.ycombinator.com/item?id=48937020) - [Launch HN: Traceforce (YC S26) – Company-wide security monitoring for AI apps](https://news.ycombinator.com/item?id=48937020)
+* [2026-07-16, 16:51:20](https://news.ycombinator.com/item?id=48937007) - [Someone Used AI to Write an Unauthorized Biography of Me](https://www.nytimes.com/2026/07/16/technology/ai-slop-books-biography-amazon.html)
 * [2026-07-16, 16:41:37](https://news.ycombinator.com/item?id=48936880) - [Detecting LLM-Generated Texts with \"Classical\" Machine Learning](https://blog.lyc8503.net/en/post/llm-classifier/)
 * [2026-07-16, 16:36:17](https://news.ycombinator.com/item?id=48936803) - [Show HN: Galois connections for composable numeric casts in Rust](https://github.com/cmk/connections)
 * [2026-07-16, 16:24:50](https://news.ycombinator.com/item?id=48936657) - [56,000 lines of DOOM, in a language I made up](https://betlang.dev/about/)
@@ -14,6 +15,7 @@
 * [2026-07-16, 16:18:21](https://news.ycombinator.com/item?id=48936584) - [Decoy Font](https://www.mixfont.com/experiments/decoy-font)
 * [2026-07-16, 16:15:55](https://news.ycombinator.com/item?id=48936554) - [Show HN: A modern port of Linux to a ten-year-old QWERTY phone](https://news.ycombinator.com/item?id=48936554)
 * [2026-07-16, 16:14:20](https://news.ycombinator.com/item?id=48936534) - [Agent-talk: Enabling coding agents to work together](https://github.com/xhluca/agent-talk)
+* [2026-07-16, 16:11:13](https://news.ycombinator.com/item?id=48936491) - [Show HN: Ratel, give agents unlimited tools and skills without context bloat](https://github.com/ratel-ai/ratel)
 * [2026-07-16, 16:08:13](https://news.ycombinator.com/item?id=48936451) - [NotebookLM is now Gemini Notebook](https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/)
 * [2026-07-16, 16:06:27](https://news.ycombinator.com/item?id=48936426) - [Microsoft Comic Chat is now open source](https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/)
 * [2026-07-16, 16:03:43](https://news.ycombinator.com/item?id=48936389) - [Show HN: Leaves – a text-UI disk usage treemap visualizer](https://github.com/patonw/leaves)
