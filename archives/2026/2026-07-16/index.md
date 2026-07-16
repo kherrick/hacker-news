@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-07-16](index.md)
 
+* [2026-07-16, 13:15:49](https://news.ycombinator.com/item?id=48934092) - [Show HN: I've built a words game based on binary search](https://hilogame.cc/)
+* [2026-07-16, 12:13:43](https://news.ycombinator.com/item?id=48933419) - [Sony Deletes a Bunch More Movies from the Accounts of People Who 'Bought' Them](https://www.techdirt.com/2026/07/15/sony-deletes-a-bunch-more-movies-from-the-accounts-of-people-who-bought-them/)
 * [2026-07-16, 12:05:53](https://news.ycombinator.com/item?id=48933371) - [British Steel taken into public ownership to protect 'vital' UK supply](https://www.bbc.com/news/articles/c5y680w62wno)
 * [2026-07-16, 12:05:42](https://news.ycombinator.com/item?id=48933370) - [The Act and the Outcome of Creation](https://www.ssp.sh/blog/on-creation/)
 * [2026-07-16, 12:02:11](https://news.ycombinator.com/item?id=48933344) - [SpaceX stock erases all its gains and slides below IPO price in intraday trading](https://www.latimes.com/business/story/2026-07-16/spacex-stock-erases-gains-slides-below-ipo-price-in-intraday-trading)
 * [2026-07-16, 11:59:01](https://news.ycombinator.com/item?id=48933310) - [The LLM Critics Are Right. I Use LLMs Anyway](https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/)
 * [2026-07-16, 11:58:09](https://news.ycombinator.com/item?id=48933303) - [Let's Build PlanetScale from Scratch: Infrastructure](https://onatm.dev/2026/07/16/homescale-part-1/)
+* [2026-07-16, 11:27:37](https://news.ycombinator.com/item?id=48933067) - [Umuganda](https://en.wikipedia.org/wiki/Umuganda)
 * [2026-07-16, 11:04:27](https://news.ycombinator.com/item?id=48932889) - [I resurrected an 8-year-old dead CSS library and gave it an engine](https://usevivace.dev)
 * [2026-07-16, 10:49:50](https://news.ycombinator.com/item?id=48932784) - [Track your workout from the iPhone Lock Screen](https://musklr.com/blog/2026/iphone-lock-screen-workout-tracking-live-activity/)
 * [2026-07-16, 10:37:17](https://news.ycombinator.com/item?id=48932697) - [Ente – Opening Our Books](https://ente.com/open/)
