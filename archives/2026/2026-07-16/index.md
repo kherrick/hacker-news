@@ -4,6 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-07-16](index.md)
 
+* [2026-07-16, 20:25:47](https://news.ycombinator.com/item?id=48939764) - [Timeline Scan – AI fixes the dates on your scanned photos](https://timelinescan.com/)
+* [2026-07-16, 20:24:02](https://news.ycombinator.com/item?id=48939742) - [Helium escaping from atmosphere of nearby rocky exoplanet in a habitable zone](https://www.science.org/doi/10.1126/science.aea9708)
+* [2026-07-16, 20:18:15](https://news.ycombinator.com/item?id=48939662) - [LM Studio Bionic: the AI agent for open models](https://lmstudio.ai/blog/introducing-lm-studio-bionic)
+* [2026-07-16, 20:15:58](https://news.ycombinator.com/item?id=48939641) - [The privacy problems hidden in your period tracker](https://www.bbc.com/future/article/20260715-how-period-trackers-share-womens-private-details)
+* [2026-07-16, 20:11:21](https://news.ycombinator.com/item?id=48939596) - [Show HN: Bonebox-01 – 29KB bare metal x86 OS (80 KiB, built to kill Tiny Core)](https://github.com/Deadbytes101/BONEBOX-01)
+* [2026-07-16, 20:09:46](https://news.ycombinator.com/item?id=48939580) - [Kimi K3 Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/kimi-k3)
+* [2026-07-16, 20:03:23](https://news.ycombinator.com/item?id=48939524) - [$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol](https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6)
 * [2026-07-16, 18:33:24](https://news.ycombinator.com/item?id=48938372) - [AttoChess, a complete, playable chess program for 16-bit x86 DOS in 278 bytes](https://nicholas-afk.github.io/AttoChess/)
 * [2026-07-16, 18:03:56](https://news.ycombinator.com/item?id=48938001) - [SPCX is now Wall Street's most shorted new stock](https://invezz.com/news/2026/07/16/the-worlds-most-valuable-ipo-spcx-is-now-wall-streets-most-shorted-new-stock/)
 * [2026-07-16, 17:44:46](https://news.ycombinator.com/item?id=48937756) - [German AI consortium releases Soofi S, an open 30B model that tops benchmarks](https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/)
