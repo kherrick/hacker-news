@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-07-16](index.md)
 
+* [2026-07-16, 20:38:48](https://news.ycombinator.com/item?id=48939896) - [Mathematics of Data Science](https://arxiv.org/abs/2607.11938)
 * [2026-07-16, 20:25:47](https://news.ycombinator.com/item?id=48939764) - [Timeline Scan – AI fixes the dates on your scanned photos](https://timelinescan.com/)
 * [2026-07-16, 20:24:02](https://news.ycombinator.com/item?id=48939742) - [Helium escaping from atmosphere of nearby rocky exoplanet in a habitable zone](https://www.science.org/doi/10.1126/science.aea9708)
+* [2026-07-16, 20:21:27](https://news.ycombinator.com/item?id=48939710) - [Show HN: Libretto PR agents – Automatically fix failing playwright scripts](https://libretto.sh/debug-agents)
 * [2026-07-16, 20:18:15](https://news.ycombinator.com/item?id=48939662) - [LM Studio Bionic: the AI agent for open models](https://lmstudio.ai/blog/introducing-lm-studio-bionic)
 * [2026-07-16, 20:15:58](https://news.ycombinator.com/item?id=48939641) - [The privacy problems hidden in your period tracker](https://www.bbc.com/future/article/20260715-how-period-trackers-share-womens-private-details)
 * [2026-07-16, 20:11:21](https://news.ycombinator.com/item?id=48939596) - [Show HN: Bonebox-01 – 29KB bare metal x86 OS (80 KiB, built to kill Tiny Core)](https://github.com/Deadbytes101/BONEBOX-01)
@@ -32,6 +34,7 @@
 * [2026-07-16, 16:08:13](https://news.ycombinator.com/item?id=48936451) - [NotebookLM is now Gemini Notebook](https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/)
 * [2026-07-16, 16:06:27](https://news.ycombinator.com/item?id=48936426) - [Microsoft Comic Chat is now open source](https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/)
 * [2026-07-16, 16:03:43](https://news.ycombinator.com/item?id=48936389) - [Show HN: Leaves – a text-UI disk usage treemap visualizer](https://github.com/patonw/leaves)
+* [2026-07-16, 15:55:47](https://news.ycombinator.com/item?id=48936271) - [Show HN: BambooGrid – Open-source web UI for power grid modeling and power flow](https://bamboo.kickstage.com)
 * [2026-07-16, 15:35:13](https://news.ycombinator.com/item?id=48935984) - [Show HN: Sentinel – open-source QA agent that reads your code before it clicks](https://blog.simbastack.com/announcing-sentinel/)
 * [2026-07-16, 15:32:23](https://news.ycombinator.com/item?id=48935951) - [Immersive Linear Algebra Book with Interactive Figures](https://immersivemath.com/ila/)
 * [2026-07-16, 15:29:12](https://news.ycombinator.com/item?id=48935905) - [Schema Harness Achieves ~99% on Arc‑AGI‑3 Public](https://schema-harness.github.io/)
@@ -59,6 +62,7 @@
 * [2026-07-16, 11:27:37](https://news.ycombinator.com/item?id=48933067) - [Umuganda](https://en.wikipedia.org/wiki/Umuganda)
 * [2026-07-16, 11:04:27](https://news.ycombinator.com/item?id=48932889) - [I resurrected an 8-year-old dead CSS library and gave it an engine](https://usevivace.dev)
 * [2026-07-16, 10:49:50](https://news.ycombinator.com/item?id=48932784) - [Track your workout from the iPhone Lock Screen](https://musklr.com/blog/2026/iphone-lock-screen-workout-tracking-live-activity/)
+* [2026-07-16, 10:41:39](https://news.ycombinator.com/item?id=48932722) - [Abstracting Effects with Continuations](https://crowdhailer.me/2026-07-15/abstracting-effects-with-continuations/)
 * [2026-07-16, 10:37:17](https://news.ycombinator.com/item?id=48932697) - [Ente – Opening Our Books](https://ente.com/open/)
 * [2026-07-16, 10:14:04](https://news.ycombinator.com/item?id=48932539) - [OnePlus halts operations in USA and Europe](https://community.oneplus.com/thread/2170715118587871237)
 * [2026-07-16, 08:03:35](https://news.ycombinator.com/item?id=48931588) - [Where are YC founders now? OpenAI and Anthropic, mostly](https://joinedanthropic.com)
