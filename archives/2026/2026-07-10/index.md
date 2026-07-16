@@ -69,6 +69,7 @@
 * [2026-07-10, 10:08:49](https://news.ycombinator.com/item?id=48857962) - [Java 27: What's New?](https://www.loicmathieu.fr/wordpress/informatique/java-27-whats-new/)
 * [2026-07-10, 08:21:10](https://news.ycombinator.com/item?id=48857230) - [In Emacs, Everything Looks Like a Service](http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html)
 * [2026-07-10, 07:39:11](https://news.ycombinator.com/item?id=48856904) - [AI-generated videos to maximally drive a target brain region](https://nevo-project.epfl.ch/)
+* [2026-07-10, 07:16:58](https://news.ycombinator.com/item?id=48856746) - [Let's build a simple interpreter for APL – part 1](https://mathspp.com/blog/lsbasi-apl-part1)
 * [2026-07-10, 04:52:34](https://news.ycombinator.com/item?id=48855881) - [Counting ArXiv Delays](https://fi-le.net/arxiv/)
 * [2026-07-10, 03:38:55](https://news.ycombinator.com/item?id=48855488) - [The Oral History of the Dinosaur Input Device (DID)](https://vfxblog.com/dinosaurinputdevice/)
 * [2026-07-10, 02:39:07](https://news.ycombinator.com/item?id=48855112) - [Ben Bernanke Joins Anthropic Oversight Trust](https://www.anthropic.com/news/ben-bernanke)

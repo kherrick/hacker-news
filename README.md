@@ -29,7 +29,7 @@
 * [2026-07-12, 17:57:58](https://news.ycombinator.com/item?id=48883036) - [Teardown: A Generic 7-Port USB 3.0 Hub That Wasn't](https://goughlui.com/2026/07/09/teardown-a-generic-7-port-usb-3-0-hub-that-wasnt/)
 * [2026-07-12, 13:28:31](https://news.ycombinator.com/item?id=48881064) - [Command Line Interface Guidelines](https://clig.dev/)
 * [2026-07-11, 13:47:47](https://news.ycombinator.com/item?id=48872031) - [Rebuilding My Homelab with Compose, Ruby, IPv6, and No Kubernetes](https://www.petekeen.net/homelab-resolved/)
-* [2026-07-11, 13:04:46](https://news.ycombinator.com/item?id=48871721) - [G# – A modern .NET language with Go, Kotlin, and Swift ergonomics](https://davidobando.github.io/gsharp/)
+* [2026-07-10, 07:16:58](https://news.ycombinator.com/item?id=48856746) - [Let's build a simple interpreter for APL – part 1](https://mathspp.com/blog/lsbasi-apl-part1)
 
 ## [Archives](archives/index.md)
 
