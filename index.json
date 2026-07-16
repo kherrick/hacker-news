@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-16, 15:13:00",
+      "https://news.ycombinator.com/item?id=48935687"
+    ],
+    [
+      "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
+      "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model"
+    ]
+  ],
+  [
+    [
       "2026-07-16, 14:59:14",
       "https://news.ycombinator.com/item?id=48935510"
     ],
@@ -17,6 +27,16 @@
     [
       "Kimi K3 is now live",
       "https://www.kimi.com/en"
+    ]
+  ],
+  [
+    [
+      "2026-07-16, 13:30:18",
+      "https://news.ycombinator.com/item?id=48934290"
+    ],
+    [
+      "My Homepage Has a Pulse",
+      "https://snehankekre.com/posts/hr/"
     ]
   ],
   [
@@ -47,16 +67,6 @@
     [
       "Introduction to KizunaShelf: A shelf for everything you love",
       "https://mudkip.me/2026/07/16/Introduction-to-KizunaShelf/"
-    ]
-  ],
-  [
-    [
-      "2026-07-16, 12:19:30",
-      "https://news.ycombinator.com/item?id=48933464"
-    ],
-    [
-      "Teen hackers who live streamed cyber-attack on TfL jailed",
-      "https://www.bbc.com/news/articles/c4gyg0y6yg2o"
     ]
   ],
   [
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2026-07-16, 01:21:04",
-      "https://news.ycombinator.com/item?id=48929351"
-    ],
-    [
-      "Bluesky Trademarks ATProto",
-      "https://atproto.com/blog/at-protocol-trademark"
-    ]
-  ],
-  [
-    [
       "2026-07-15, 22:42:58",
       "https://news.ycombinator.com/item?id=48928135"
     ],
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2026-07-12, 19:52:16",
-      "https://news.ycombinator.com/item?id=48884068"
-    ],
-    [
-      "A Beautiful Theory Falls to Ugly Data",
-      "https://marginalrevolution.com/marginalrevolution/2026/05/a-beautiful-theory-falls-to-ugly-data.html"
-    ]
-  ],
-  [
-    [
       "2026-07-12, 17:57:58",
       "https://news.ycombinator.com/item?id=48883036"
     ],
     [
       "Teardown: A Generic 7-Port USB 3.0 Hub That Wasn't",
       "https://goughlui.com/2026/07/09/teardown-a-generic-7-port-usb-3-0-hub-that-wasnt/"
+    ]
+  ],
+  [
+    [
+      "2026-07-12, 00:27:52",
+      "https://news.ycombinator.com/item?id=48877151"
+    ],
+    [
+      "GC shape stenciling in Go generics",
+      "https://rednafi.com/go/gc-shape-stenciling/"
     ]
   ],
   [
