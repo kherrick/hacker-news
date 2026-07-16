@@ -40,6 +40,7 @@
 * [2026-07-12, 18:01:29](https://news.ycombinator.com/item?id=48883064) - [Claude Code May–July 2026 weekly limits promotion](https://support.claude.com/en/articles/15910845-claude-code-may-july-2026-weekly-limits-promotion)
 * [2026-07-12, 17:57:58](https://news.ycombinator.com/item?id=48883036) - [Teardown: A Generic 7-Port USB 3.0 Hub That Wasn't](https://goughlui.com/2026/07/09/teardown-a-generic-7-port-usb-3-0-hub-that-wasnt/)
 * [2026-07-12, 17:47:07](https://news.ycombinator.com/item?id=48882956) - [Against Usefulness](https://www.motivenotes.ai/p/against-usefulness)
+* [2026-07-12, 17:19:47](https://news.ycombinator.com/item?id=48882777) - [In defense of not understanding your codebase](https://www.seangoedecke.com/in-defense-of-not-understanding-your-codebase/)
 * [2026-07-12, 17:13:07](https://news.ycombinator.com/item?id=48882716) - [Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper](https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6)
 * [2026-07-12, 17:00:29](https://news.ycombinator.com/item?id=48882608) - [The Trade in Looted Antiquities Endures for One Reason: Demand](https://news.artnet.com/art-world/matt-campbell-cambodia-looted-antiquities-2779870)
 * [2026-07-12, 16:59:37](https://news.ycombinator.com/item?id=48882601) - [Website is served from a 200KB binary](https://200kb.freelang.dev/)

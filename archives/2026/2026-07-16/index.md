@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-16](index.md)
 
+* [2026-07-16, 08:03:35](https://news.ycombinator.com/item?id=48931588) - [Where are YC founders now? OpenAI and Anthropic, mostly](https://joinedanthropic.com)
 * [2026-07-16, 05:33:50](https://news.ycombinator.com/item?id=48930713) - [DJB Netstrings (1997)](https://cr.yp.to/proto/netstrings.txt)
 * [2026-07-16, 04:46:21](https://news.ycombinator.com/item?id=48930454) - [The lost joy of music piracy](https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming)
 * [2026-07-16, 04:36:07](https://news.ycombinator.com/item?id=48930397) - [Reynard: A real Firefox web browser for iOS 13 or later](https://github.com/minh-ton/reynard-browser)
