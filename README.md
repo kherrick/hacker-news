@@ -2,7 +2,7 @@
 
 * [2026-07-15, 23:10:10](https://news.ycombinator.com/item?id=48928402) - [Show HN: One More Letter](https://playonemoreletter.com/)
 * [2026-07-15, 23:03:45](https://news.ycombinator.com/item?id=48928343) - [Nul Characters in Strings in SQLite](https://sqlite.org/nulinstr.html)
-* [2026-07-15, 23:00:31](https://news.ycombinator.com/item?id=48928313) - [Metal-Organic Frameworks, Chemistry's New Miracle Materials](https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials)
+* [2026-07-15, 23:00:31](https://news.ycombinator.com/item?id=48928313) - [Metal-Organic Frameworks, Chemistry's New Miracle Materials (2018)](https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials)
 * [2026-07-15, 22:52:36](https://news.ycombinator.com/item?id=48928234) - [The Anti-Mac User Interface (1996)](https://www.nngroup.com/articles/anti-mac-interface/)
 * [2026-07-15, 22:42:58](https://news.ycombinator.com/item?id=48928135) - [SQLite should have (Rust-style) editions](https://mort.coffee/home/sqlite-editions/)
 * [2026-07-15, 22:23:27](https://news.ycombinator.com/item?id=48927915) - [LLM Networking with MikroTik](https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html)
@@ -20,7 +20,6 @@
 * [2026-07-15, 15:34:05](https://news.ycombinator.com/item?id=48922434) - [Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU](https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/)
 * [2026-07-15, 14:08:28](https://news.ycombinator.com/item?id=48921077) - [Towards a harness that can do anything](https://eardatasci.github.io/c/ambiance/index.html)
 * [2026-07-15, 13:22:00](https://news.ycombinator.com/item?id=48920475) - [Mysteries of Telegram Data Centers (2022)](https://dev.moe/en/3025)
-* [2026-07-15, 11:46:06](https://news.ycombinator.com/item?id=48919363) - [Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023)](https://academic.oup.com/sleep/article/47/1/zsad253/7280269)
 * [2026-07-15, 11:27:35](https://news.ycombinator.com/item?id=48919198) - [Prioritize mental health, and why communication is so important](https://ramones.dev/posts/mental-health/)
 * [2026-07-15, 03:32:45](https://news.ycombinator.com/item?id=48915953) - [Stripe and Advent have made a joint offer to acquire PayPal – sources](https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/)
 * [2026-07-14, 22:19:01](https://news.ycombinator.com/item?id=48913653) - [Book prizes don't work how you think](https://rebeccamakkai.substack.com/p/book-prizes-dont-work-how-you-think)
@@ -29,6 +28,7 @@
 * [2026-07-13, 13:20:34](https://news.ycombinator.com/item?id=48892273) - [MITS: Rockets, Calculators, and Personal Computers](https://www.abortretry.fail/p/micro-instrumentation-and-telemetry)
 * [2026-07-12, 19:00:49](https://news.ycombinator.com/item?id=48883578) - [Today I Rescued 7,234 Old GIFs](https://danq.me/2026/07/10/rescuing-7234-gifs/)
 * [2026-07-12, 13:28:31](https://news.ycombinator.com/item?id=48881064) - [Command Line Interface Guidelines](https://clig.dev/)
+* [2026-07-11, 13:04:46](https://news.ycombinator.com/item?id=48871721) - [G# – A modern .NET language with Go, Kotlin, and Swift ergonomics](https://davidobando.github.io/gsharp/)
 * [2026-07-10, 19:08:13](https://news.ycombinator.com/item?id=48863891) - [Show HN: E-- – A language you dial between English and Python](https://github.com/frmoded/e--)
 
 ## [Archives](archives/index.md)

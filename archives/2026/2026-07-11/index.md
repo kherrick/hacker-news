@@ -52,6 +52,7 @@
 * [2026-07-11, 14:32:19](https://news.ycombinator.com/item?id=48872401) - [The largest available Minecraft world, totalling 15 TB](https://2b2t.place/1million)
 * [2026-07-11, 13:40:27](https://news.ycombinator.com/item?id=48871973) - [Show HN: Learn by rebuilding Redis, Git, a database from scratch](https://shipthatcode.com)
 * [2026-07-11, 13:33:17](https://news.ycombinator.com/item?id=48871932) - [Speculations Concerning the First Ultraintelligent Machine (1965) [pdf]](https://languagelog.ldc.upenn.edu/myl/Good1964.pdf)
+* [2026-07-11, 13:04:46](https://news.ycombinator.com/item?id=48871721) - [G# – A modern .NET language with Go, Kotlin, and Swift ergonomics](https://davidobando.github.io/gsharp/)
 * [2026-07-11, 13:04:35](https://news.ycombinator.com/item?id=48871716) - [Semantic/Hybrid Search in the Browser](https://bart.degoe.de/semantic-search-in-your-browser/)
 * [2026-07-11, 12:30:40](https://news.ycombinator.com/item?id=48871470) - [Networking and the Internet, from First Principles](https://fazamhd.com/mental-models/networking/)
 * [2026-07-11, 12:12:34](https://news.ycombinator.com/item?id=48871367) - [FCC approves test of space mirror to light night sky](https://theconversation.com/the-u-s-just-approved-a-giant-space-mirror-to-test-sunlight-on-demand-low-earth-orbit-is-getting-weird-283482)
