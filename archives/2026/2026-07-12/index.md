@@ -30,6 +30,7 @@
 * [2026-07-12, 19:54:30](https://news.ycombinator.com/item?id=48884100) - [Defining new Jax types with hijax](https://docs.jax.dev/en/latest/hijax_types.html)
 * [2026-07-12, 19:49:53](https://news.ycombinator.com/item?id=48884052) - [Neocities: Create your own free website](https://neocities.org/)
 * [2026-07-12, 19:00:49](https://news.ycombinator.com/item?id=48883578) - [Today I Rescued 7,234 Old GIFs](https://danq.me/2026/07/10/rescuing-7234-gifs/)
+* [2026-07-12, 18:48:41](https://news.ycombinator.com/item?id=48883467) - [Dense Arena Interning: The Engine of Compiler Performance](https://aikoschurmann.com/blog/string-interning-compilers)
 * [2026-07-12, 18:41:15](https://news.ycombinator.com/item?id=48883415) - [The One-Step Trap (In AI Research)](http://incompleteideas.net/IncIdeas/OneStepTrap.html)
 * [2026-07-12, 18:31:56](https://news.ycombinator.com/item?id=48883343) - [I love LLMs, I hate hype](https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html)
 * [2026-07-12, 18:28:15](https://news.ycombinator.com/item?id=48883305) - [Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE](https://github.com/juggler-ai/juggler)
