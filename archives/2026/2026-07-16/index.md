@@ -6,6 +6,7 @@
 
 * [2026-07-16, 05:33:50](https://news.ycombinator.com/item?id=48930713) - [DJB Netstrings (1997)](https://cr.yp.to/proto/netstrings.txt)
 * [2026-07-16, 04:46:21](https://news.ycombinator.com/item?id=48930454) - [The lost joy of music piracy](https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming)
+* [2026-07-16, 04:36:07](https://news.ycombinator.com/item?id=48930397) - [Reynard: A real Firefox web browser for iOS 13 or later](https://github.com/minh-ton/reynard-browser)
 * [2026-07-16, 04:31:01](https://news.ycombinator.com/item?id=48930363) - [Stop saying that AI is just a tool and it only matters how it is used](https://www.frank.computer/blog/2025/05/just-a-tool.html)
 * [2026-07-16, 03:53:55](https://news.ycombinator.com/item?id=48930160) - [An Interactive Map of AI](https://artifipedia.com/map)
 * [2026-07-16, 03:51:25](https://news.ycombinator.com/item?id=48930149) - [My Throw Decides My Aim](https://thegustafson.com/blog/my-throw-decides-my-aim)
