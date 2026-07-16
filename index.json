@@ -21,11 +21,21 @@
   ],
   [
     [
+      "2026-07-16, 16:51:20",
+      "https://news.ycombinator.com/item?id=48937007"
+    ],
+    [
+      "Someone Used AI to Write an Unauthorized Biography of Me",
+      "https://www.nytimes.com/2026/07/16/technology/ai-slop-books-biography-amazon.html"
+    ]
+  ],
+  [
+    [
       "2026-07-16, 16:41:37",
       "https://news.ycombinator.com/item?id=48936880"
     ],
     [
-      "Detecting LLM-Generated Texts with \"Classical\" Machine Learning",
+      "Detecting LLM-Generated Texts with “Classical” Machine Learning",
       "https://blog.lyc8503.net/en/post/llm-classifier/"
     ]
   ],
@@ -91,6 +101,16 @@
   ],
   [
     [
+      "2026-07-16, 16:11:13",
+      "https://news.ycombinator.com/item?id=48936491"
+    ],
+    [
+      "Show HN: Ratel, give agents unlimited tools and skills without context bloat",
+      "https://github.com/ratel-ai/ratel"
+    ]
+  ],
+  [
+    [
       "2026-07-16, 16:08:13",
       "https://news.ycombinator.com/item?id=48936451"
     ],
@@ -117,16 +137,6 @@
     [
       "Show HN: Leaves – a text-UI disk usage treemap visualizer",
       "https://github.com/patonw/leaves"
-    ]
-  ],
-  [
-    [
-      "2026-07-16, 15:35:13",
-      "https://news.ycombinator.com/item?id=48935984"
-    ],
-    [
-      "Show HN: Sentinel – open-source QA agent that reads your code before it clicks",
-      "https://blog.simbastack.com/announcing-sentinel/"
     ]
   ],
   [
@@ -195,7 +205,7 @@
       "https://news.ycombinator.com/item?id=48933419"
     ],
     [
-      "Sony Deletes a Bunch More Movies from the Accounts of People Who 'Bought' Them",
+      "Sony deletes a movies from the accounts of people who ‘bought’ them",
       "https://www.techdirt.com/2026/07/15/sony-deletes-a-bunch-more-movies-from-the-accounts-of-people-who-bought-them/"
     ]
   ],
@@ -257,16 +267,6 @@
     [
       "1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored",
       "https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-14, 06:50:55",
-      "https://news.ycombinator.com/item?id=48903110"
-    ],
-    [
-      "Helicone allows users to write SQL directly to a shared ClickHouse",
-      "https://www.justintorre.com/blogs/clickhouse-rls-query-parameters"
     ]
   ],
   [
