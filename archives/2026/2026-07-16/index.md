@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-07-16](index.md)
 
+* [2026-07-16, 22:21:59](https://news.ycombinator.com/item?id=48941056) - [FIFA World Cup 2026 Data Portraits](https://wc26.bogachev.fr/index.html)
+* [2026-07-16, 22:07:30](https://news.ycombinator.com/item?id=48940895) - [CVE-2026-25089: FortiSandbox unauthenticated command injection added to CISA KEV](https://hellorecon.com/blog/cve-2026-25089)
+* [2026-07-16, 22:00:00](https://news.ycombinator.com/item?id=48940833) - ['Likweli': A new monkey species discovered in the Congo Basin](https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin)
+* [2026-07-16, 21:55:49](https://news.ycombinator.com/item?id=48940801) - [Just Do Things](https://ray.zo.space/blog/just-do-things)
+* [2026-07-16, 21:38:02](https://news.ycombinator.com/item?id=48940603) - [Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning](https://arxiv.org/abs/2607.12395)
 * [2026-07-16, 20:38:48](https://news.ycombinator.com/item?id=48939896) - [Mathematics of Data Science](https://arxiv.org/abs/2607.11938)
 * [2026-07-16, 20:25:47](https://news.ycombinator.com/item?id=48939764) - [Timeline Scan – AI fixes the dates on your scanned photos](https://timelinescan.com/)
 * [2026-07-16, 20:24:02](https://news.ycombinator.com/item?id=48939742) - [Helium escaping from atmosphere of nearby rocky exoplanet in a habitable zone](https://www.science.org/doi/10.1126/science.aea9708)
