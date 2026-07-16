@@ -1,6 +1,86 @@
 [
   [
     [
+      "2026-07-16, 12:05:53",
+      "https://news.ycombinator.com/item?id=48933371"
+    ],
+    [
+      "British Steel taken into public ownership to protect 'vital' UK supply",
+      "https://www.bbc.com/news/articles/c5y680w62wno"
+    ]
+  ],
+  [
+    [
+      "2026-07-16, 12:05:42",
+      "https://news.ycombinator.com/item?id=48933370"
+    ],
+    [
+      "The Act and the Outcome of Creation",
+      "https://www.ssp.sh/blog/on-creation/"
+    ]
+  ],
+  [
+    [
+      "2026-07-16, 12:02:11",
+      "https://news.ycombinator.com/item?id=48933344"
+    ],
+    [
+      "SpaceX stock erases all its gains and slides below IPO price in intraday trading",
+      "https://www.latimes.com/business/story/2026-07-16/spacex-stock-erases-gains-slides-below-ipo-price-in-intraday-trading"
+    ]
+  ],
+  [
+    [
+      "2026-07-16, 11:59:01",
+      "https://news.ycombinator.com/item?id=48933310"
+    ],
+    [
+      "The LLM Critics Are Right. I Use LLMs Anyway",
+      "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/"
+    ]
+  ],
+  [
+    [
+      "2026-07-16, 11:58:09",
+      "https://news.ycombinator.com/item?id=48933303"
+    ],
+    [
+      "Let's Build PlanetScale from Scratch: Infrastructure",
+      "https://onatm.dev/2026/07/16/homescale-part-1/"
+    ]
+  ],
+  [
+    [
+      "2026-07-16, 11:04:27",
+      "https://news.ycombinator.com/item?id=48932889"
+    ],
+    [
+      "I resurrected an 8-year-old dead CSS library and gave it an engine",
+      "https://usevivace.dev"
+    ]
+  ],
+  [
+    [
+      "2026-07-16, 10:49:50",
+      "https://news.ycombinator.com/item?id=48932784"
+    ],
+    [
+      "Track your workout from the iPhone Lock Screen",
+      "https://musklr.com/blog/2026/iphone-lock-screen-workout-tracking-live-activity/"
+    ]
+  ],
+  [
+    [
+      "2026-07-16, 10:37:17",
+      "https://news.ycombinator.com/item?id=48932697"
+    ],
+    [
+      "Ente – Opening Our Books",
+      "https://ente.com/open/"
+    ]
+  ],
+  [
+    [
       "2026-07-16, 10:14:04",
       "https://news.ycombinator.com/item?id=48932539"
     ],
@@ -17,16 +97,6 @@
     [
       "Where are YC founders now? OpenAI and Anthropic, mostly",
       "https://joinedanthropic.com"
-    ]
-  ],
-  [
-    [
-      "2026-07-16, 05:33:50",
-      "https://news.ycombinator.com/item?id=48930713"
-    ],
-    [
-      "Netstrings (1997)",
-      "https://cr.yp.to/proto/netstrings.txt"
     ]
   ],
   [
@@ -91,16 +161,6 @@
   ],
   [
     [
-      "2026-07-16, 02:06:36",
-      "https://news.ycombinator.com/item?id=48929587"
-    ],
-    [
-      "The Tokio/Rayon Trap and Why Async/Await Fails Concurrency",
-      "https://pmbanugo.me/blog/why-async-await-complect-concurrency"
-    ]
-  ],
-  [
-    [
       "2026-07-16, 01:21:04",
       "https://news.ycombinator.com/item?id=48929351"
     ],
@@ -111,32 +171,12 @@
   ],
   [
     [
-      "2026-07-15, 23:00:31",
-      "https://news.ycombinator.com/item?id=48928313"
-    ],
-    [
-      "Metal-Organic Frameworks, Chemistry's New Miracle Materials (2018)",
-      "https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials"
-    ]
-  ],
-  [
-    [
       "2026-07-15, 22:42:58",
       "https://news.ycombinator.com/item?id=48928135"
     ],
     [
       "SQLite should have (Rust-style) editions",
       "https://mort.coffee/home/sqlite-editions/"
-    ]
-  ],
-  [
-    [
-      "2026-07-15, 22:23:27",
-      "https://news.ycombinator.com/item?id=48927915"
-    ],
-    [
-      "LLM Networking with MikroTik",
-      "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html"
     ]
   ],
   [
@@ -161,16 +201,6 @@
   ],
   [
     [
-      "2026-07-15, 19:27:59",
-      "https://news.ycombinator.com/item?id=48925888"
-    ],
-    [
-      "Duskers, the scary command line game, is getting a sequel",
-      "https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20"
-    ]
-  ],
-  [
-    [
       "2026-07-15, 18:12:45",
       "https://news.ycombinator.com/item?id=48924912"
     ],
@@ -181,22 +211,12 @@
   ],
   [
     [
-      "2026-07-15, 16:33:15",
-      "https://news.ycombinator.com/item?id=48923380"
+      "2026-07-15, 17:01:02",
+      "https://news.ycombinator.com/item?id=48923833"
     ],
     [
-      "Collection of Digital Clock Designs",
-      "https://clocks.dev"
-    ]
-  ],
-  [
-    [
-      "2026-07-15, 15:51:20",
-      "https://news.ycombinator.com/item?id=48922706"
-    ],
-    [
-      "Launch HN: Coasty (YC S26) – An API for computer-use agents",
-      "https://coasty.ai/docs"
+      "Artie (YC S23) Is Hiring Software Engineers",
+      "https://jobs.ashbyhq.com/artie"
     ]
   ],
   [
@@ -267,26 +287,6 @@
     [
       "Teardown: A Generic 7-Port USB 3.0 Hub That Wasn't",
       "https://goughlui.com/2026/07/09/teardown-a-generic-7-port-usb-3-0-hub-that-wasnt/"
-    ]
-  ],
-  [
-    [
-      "2026-07-12, 13:28:31",
-      "https://news.ycombinator.com/item?id=48881064"
-    ],
-    [
-      "Command Line Interface Guidelines",
-      "https://clig.dev/"
-    ]
-  ],
-  [
-    [
-      "2026-07-11, 13:47:47",
-      "https://news.ycombinator.com/item?id=48872031"
-    ],
-    [
-      "Rebuilding My Homelab with Compose, Ruby, IPv6, and No Kubernetes",
-      "https://www.petekeen.net/homelab-resolved/"
     ]
   ],
   [
