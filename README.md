@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-17, 07:58:19](https://news.ycombinator.com/item?id=48944487) - [Trump Media to sell instant access to 'market-moving' social posts](https://www.bbc.com/news/articles/c79gw4lj89eo)
 * [2026-07-17, 05:51:10](https://news.ycombinator.com/item?id=48943745) - [EEG shows brain can simultaneous encode two speech streams](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876)
 * [2026-07-17, 03:53:38](https://news.ycombinator.com/item?id=48943174) - [Pebble Mega Update – July 2026](https://repebble.com/blog/pebble-mega-update-july-2026)
 * [2026-07-17, 03:48:26](https://news.ycombinator.com/item?id=48943142) - [How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues](https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/)
@@ -9,7 +10,6 @@
 * [2026-07-17, 00:21:09](https://news.ycombinator.com/item?id=48942000) - [The human-in-the-loop is tired](https://pydantic.dev/articles/the-human-in-the-loop-is-tired)
 * [2026-07-16, 22:27:22](https://news.ycombinator.com/item?id=48941104) - [The Little Book of Reinforcement Learning](https://github.com/alxndrTL/little-book-rl/)
 * [2026-07-16, 22:00:00](https://news.ycombinator.com/item?id=48940833) - ['Likweli': A new monkey species discovered in the Congo Basin](https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin)
-* [2026-07-16, 21:38:02](https://news.ycombinator.com/item?id=48940603) - [Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning](https://arxiv.org/abs/2607.12395)
 * [2026-07-16, 20:38:48](https://news.ycombinator.com/item?id=48939896) - [Mathematics of Data Science](https://arxiv.org/abs/2607.11938)
 * [2026-07-16, 20:24:02](https://news.ycombinator.com/item?id=48939742) - [Helium escaping from atmosphere of nearby rocky exoplanet in a habitable zone](https://www.science.org/doi/10.1126/science.aea9708)
 * [2026-07-16, 20:18:15](https://news.ycombinator.com/item?id=48939662) - [LM Studio Bionic: the AI agent for open models](https://lmstudio.ai/blog/introducing-lm-studio-bionic)
@@ -20,7 +20,6 @@
 * [2026-07-16, 16:08:13](https://news.ycombinator.com/item?id=48936451) - [NotebookLM is now Gemini Notebook](https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/)
 * [2026-07-16, 16:06:27](https://news.ycombinator.com/item?id=48936426) - [Microsoft Comic Chat is now open source](https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/)
 * [2026-07-16, 15:32:23](https://news.ycombinator.com/item?id=48935951) - [Immersive Linear Algebra Book with Interactive Figures (2015)](https://immersivemath.com/ila/)
-* [2026-07-16, 15:13:00](https://news.ycombinator.com/item?id=48935687) - [How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM](https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model)
 * [2026-07-16, 14:46:05](https://news.ycombinator.com/item?id=48935342) - [Kimi K3: Open Frontier Intelligence](https://www.kimi.com/blog/kimi-k3)
 * [2026-07-16, 11:59:01](https://news.ycombinator.com/item?id=48933310) - [The LLM Critics Are Right. I Use LLMs Anyway](https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/)
 * [2026-07-13, 16:38:21](https://news.ycombinator.com/item?id=48895199) - [Solod: Go can be a better C](https://solod.dev)
@@ -29,6 +28,7 @@
 * [2026-07-11, 23:26:32](https://news.ycombinator.com/item?id=48876811) - [Starlink from 1984](https://nemanjatrifunovic.substack.com/p/starlink-from-1984)
 * [2026-07-11, 12:40:24](https://news.ycombinator.com/item?id=48871547) - [Show HN: Clx – Compile Lua to Native Executables Through C++20](https://github.com/samyeyo/clx)
 * [2026-07-10, 16:31:26](https://news.ycombinator.com/item?id=48862165) - [An Engineer's Guide to USB Typе-С (2024)](https://www.ti.com/lit/eb/slyy228/slyy228.pdf?ts=1759892558029)
+* [2026-07-10, 02:17:55](https://news.ycombinator.com/item?id=48854988) - [Camera Chase Vehicle](https://transistor-man.com/gimbal_camera_rover.html)
 * [2026-07-09, 20:37:43](https://news.ycombinator.com/item?id=48852048) - [How RCA Victor sold Sound Service to classrooms in 1939](https://pncnmnp.github.io/blogs/rca-victor-education.html)
 
 ## [Archives](archives/index.md)
