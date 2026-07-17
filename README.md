@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-17, 22:35:55](https://news.ycombinator.com/item?id=48952939) - [Texas wins court order to suspend domain name for violating age-verification law](https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and)
 * [2026-07-17, 22:26:30](https://news.ycombinator.com/item?id=48952880) - [Kaiser nurses say AI, workplace surveillance are making their jobs, care worse](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/)
 * [2026-07-17, 22:11:01](https://news.ycombinator.com/item?id=48952773) - [The US grocery slowdown is real](https://www.bain.com/insights/the-us-grocery-slowdown-is-real-snap-chart/)
 * [2026-07-17, 21:22:53](https://news.ycombinator.com/item?id=48952439) - [FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again](https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html)
@@ -21,15 +22,14 @@
 * [2026-07-17, 14:06:13](https://news.ycombinator.com/item?id=48947560) - [First atmosphere found on Earth-like planet in habitable zone of distant star](https://www.bbc.com/news/articles/cy4kdd1e0ejo)
 * [2026-07-17, 14:05:15](https://news.ycombinator.com/item?id=48947548) - [Show HN: Watch bots interact with an SSH honeypot in real time](https://honeypotlive.cc/)
 * [2026-07-17, 14:00:04](https://news.ycombinator.com/item?id=48947490) - [Three ways people respond to a problem (other than solving it)](https://improvesomething.today/responses-to-problems/)
-* [2026-07-17, 13:56:04](https://news.ycombinator.com/item?id=48947455) - [A Road to Lisp: Which Lisp](https://scotto.me/blog/2026-07-17-which-lisp/)
 * [2026-07-17, 13:32:11](https://news.ycombinator.com/item?id=48947201) - [More Bounce to the Ounce](https://mceglowski.substack.com/p/more-bounce-to-the-ounce)
 * [2026-07-17, 13:22:33](https://news.ycombinator.com/item?id=48947100) - [Manufact (YC S25) Is Hiring a Senior infra engineer to build the MCP cloud](https://www.ycombinator.com/companies/manufact/jobs/Dh6PYP5-senior-infrastructure-engineer)
 * [2026-07-17, 11:30:00](https://news.ycombinator.com/item?id=48946010) - [Evidence of inconsistencies in evaluation process and selection of winners](https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423)
 * [2026-07-17, 09:42:05](https://news.ycombinator.com/item?id=48945241) - [AWS: Inaccurate Estimated Billing Data – $1.7 billion](https://news.ycombinator.com/item?id=48945241)
 * [2026-07-14, 17:53:06](https://news.ycombinator.com/item?id=48910579) - [MoonBASIC: A modern BASIC for building 2D and 3D games](https://github.com/CharmingBlaze/moonbasic)
 * [2026-07-13, 22:35:49](https://news.ycombinator.com/item?id=48899847) - [Lobste.rs is now running on SQLite](https://lobste.rs/s/ko1ji1)
-* [2026-07-13, 18:12:09](https://news.ycombinator.com/item?id=48896513) - [Latent Space as a New Medium](https://kevinkelly.substack.com/p/latent-space-as-a-new-medium)
 * [2026-07-13, 02:23:19](https://news.ycombinator.com/item?id=48887102) - [Frank Lloyd Wright’s first home](https://www.architecturaldigest.com/story/frank-lloyd-wright-home-and-studio-everything-you-need-to-know)
+* [2026-07-10, 17:48:53](https://news.ycombinator.com/item?id=48863036) - [\"Disk Not Ejected Properly\": What It Means](https://bombich.com/blog/2026/07/07/disk-not-ejected-properly)
 
 ## [Archives](archives/index.md)
 

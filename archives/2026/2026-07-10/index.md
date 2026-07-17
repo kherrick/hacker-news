@@ -28,6 +28,7 @@
 * [2026-07-10, 18:15:27](https://news.ycombinator.com/item?id=48863336) - [Superoptimizer – A Look at the Smallest Program](https://dl.acm.org/doi/epdf/10.1145/36177.36194)
 * [2026-07-10, 17:52:48](https://news.ycombinator.com/item?id=48863080) - [War Atlas: An interactive cartography of every named war in human history](https://waratlas.org)
 * [2026-07-10, 17:51:07](https://news.ycombinator.com/item?id=48863064) - [SpaceX wants to launch 100k more Starlink satellites – for 100x the bandwidth](https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/)
+* [2026-07-10, 17:48:53](https://news.ycombinator.com/item?id=48863036) - [\"Disk Not Ejected Properly\": What It Means](https://bombich.com/blog/2026/07/07/disk-not-ejected-properly)
 * [2026-07-10, 17:36:28](https://news.ycombinator.com/item?id=48862854) - [The Difference Between Watercolor and Gouache Paints](https://www.jetpens.com/blog/The-Difference-Between-Watercolor-and-Gouache-Paints/pt/963)
 * [2026-07-10, 17:15:29](https://news.ycombinator.com/item?id=48862644) - [CatchCat – Pokémon Go for Cats, IRL](https://www.catchcat.lol/)
 * [2026-07-10, 16:59:55](https://news.ycombinator.com/item?id=48862493) - [Collaboration Networks in Brazilian Computer Science](https://blog.ptidej.net/collaboration-networks-in-brazilian-computer-science/)
