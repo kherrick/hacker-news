@@ -13,6 +13,7 @@
 * [2026-07-17, 10:45:21](https://news.ycombinator.com/item?id=48945681) - [Ask HN: Any AWS billing issues known? Amazon forecast of 3 billion dollars](https://news.ycombinator.com/item?id=48945681)
 * [2026-07-17, 10:35:06](https://news.ycombinator.com/item?id=48945606) - [Just got an AWS billing alert projecting my monthly cost at $140B](https://news.ycombinator.com/item?id=48945606)
 * [2026-07-17, 09:44:25](https://news.ycombinator.com/item?id=48945260) - [I Owe My Life to the Commodore 64](https://www.goto10retro.com/p/i-owe-my-life-to-the-commodore-64)
+* [2026-07-17, 09:42:05](https://news.ycombinator.com/item?id=48945241) - [AWS: Inaccurate Estimated Billing Data – $1.7 billion](https://news.ycombinator.com/item?id=48945241)
 * [2026-07-17, 07:58:19](https://news.ycombinator.com/item?id=48944487) - [Trump Media to sell instant access to 'market-moving' social posts](https://www.bbc.com/news/articles/c79gw4lj89eo)
 * [2026-07-17, 07:29:55](https://news.ycombinator.com/item?id=48944333) - [Pushinka](https://en.wikipedia.org/wiki/Pushinka)
 * [2026-07-17, 05:51:10](https://news.ycombinator.com/item?id=48943745) - [EEG shows brain can simultaneous encode two speech streams](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876)
