@@ -26,6 +26,7 @@
 * [2026-07-14, 19:25:41](https://news.ycombinator.com/item?id=48911803) - [I also filed the corners off my MacBook](https://www.brt.fyi/posts/mac-book-filing/)
 * [2026-07-14, 18:54:52](https://news.ycombinator.com/item?id=48911452) - [Microsoft deleted my account and OneDrive](https://twitter.com/JoshuaKhane/status/2076918699248803977)
 * [2026-07-14, 17:58:35](https://news.ycombinator.com/item?id=48910676) - [Cursor 0day: When Full Disclosure Becomes the Only Protection Left](https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left)
+* [2026-07-14, 17:53:06](https://news.ycombinator.com/item?id=48910579) - [MoonBASIC: A modern BASIC for building 2D and 3D games](https://github.com/CharmingBlaze/moonbasic)
 * [2026-07-14, 17:50:48](https://news.ycombinator.com/item?id=48910545) - [Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone](https://prismml.com/news/bonsai-27b)
 * [2026-07-14, 17:00:17](https://news.ycombinator.com/item?id=48909820) - [Kontigo (YC S24) Is Hiring (Head of Security)](https://www.ycombinator.com/companies/kontigo/jobs/uNttrlv-head-of-security)
 * [2026-07-14, 16:57:54](https://news.ycombinator.com/item?id=48909785) - [The Tower Keeps Rising](https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/)
