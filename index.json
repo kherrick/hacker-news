@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-07-17, 21:25:09",
-      "https://news.ycombinator.com/item?id=48952450"
+      "2026-07-17, 21:42:13",
+      "https://news.ycombinator.com/item?id=48952561"
     ],
     [
-      "I built a digital F1 garage to learn how Formula 1 cars work",
-      "https://paddockpass.app"
+      "US seeks share of Korean chipmakers' 'excess profits'",
+      "https://www.koreatimes.co.kr/business/tech-science/20260716/us-seeks-share-of-korean-chipmakers-excess-profits-source"
     ]
   ],
   [
@@ -17,6 +17,26 @@
     [
       "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
       "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-17, 20:47:57",
+      "https://news.ycombinator.com/item?id=48952135"
+    ],
+    [
+      "Open Book Touch: open-source e-reader",
+      "https://www.crowdsupply.com/oddly-specific-objects/open-book-touch"
+    ]
+  ],
+  [
+    [
+      "2026-07-17, 20:41:43",
+      "https://news.ycombinator.com/item?id=48952067"
+    ],
+    [
+      "Topcoat: The full full-stack framework for Rust",
+      "https://github.com/tokio-rs/topcoat"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2026-07-17, 12:02:39",
-      "https://news.ycombinator.com/item?id=48946303"
-    ],
-    [
-      "Apple targets dozens of OpenAI employees with legal letters",
-      "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166"
-    ]
-  ],
-  [
-    [
       "2026-07-17, 09:42:05",
       "https://news.ycombinator.com/item?id=48945241"
     ],
@@ -227,6 +237,16 @@
     [
       "Pebble Mega Update – July 2026",
       "https://repebble.com/blog/pebble-mega-update-july-2026"
+    ]
+  ],
+  [
+    [
+      "2026-07-15, 18:08:40",
+      "https://news.ycombinator.com/item?id=48924855"
+    ],
+    [
+      "Show HN: Tarit – a hypervisor which is 2x faster than firecracker",
+      "https://github.com/instavm/tarit"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Frank Lloyd Wright’s first home",
       "https://www.architecturaldigest.com/story/frank-lloyd-wright-home-and-studio-everything-you-need-to-know"
-    ]
-  ],
-  [
-    [
-      "2026-07-12, 07:00:24",
-      "https://news.ycombinator.com/item?id=48878996"
-    ],
-    [
-      "Faster binary search: from compiled code to mechanical sympathy",
-      "https://pythonspeed.com/articles/branchless-binary-search/"
-    ]
-  ],
-  [
-    [
-      "2026-07-10, 02:17:55",
-      "https://news.ycombinator.com/item?id=48854988"
-    ],
-    [
-      "Camera Chase Vehicle",
-      "https://transistor-man.com/gimbal_camera_rover.html"
     ]
   ]
 ]
