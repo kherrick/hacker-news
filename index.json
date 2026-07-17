@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2026-07-16, 22:21:59",
+      "https://news.ycombinator.com/item?id=48941056"
+    ],
+    [
+      "FIFA World Cup 2026 Data Portraits",
+      "https://wc26.bogachev.fr/index.html"
+    ]
+  ],
+  [
+    [
       "2026-07-16, 22:07:30",
       "https://news.ycombinator.com/item?id=48940895"
     ],
@@ -57,6 +67,16 @@
     [
       "Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning",
       "https://arxiv.org/abs/2607.12395"
+    ]
+  ],
+  [
+    [
+      "2026-07-16, 21:04:32",
+      "https://news.ycombinator.com/item?id=48940231"
+    ],
+    [
+      "Scaling to 1M concurrent sandboxes in seconds",
+      "https://modal.com/blog/scaling-to-1-million-concurrent-sandboxes-in-seconds"
     ]
   ],
   [
@@ -91,32 +111,12 @@
   ],
   [
     [
-      "2026-07-16, 20:21:27",
-      "https://news.ycombinator.com/item?id=48939710"
-    ],
-    [
-      "Show HN: Libretto PR agents – Automatically fix failing playwright scripts",
-      "https://libretto.sh/debug-agents"
-    ]
-  ],
-  [
-    [
       "2026-07-16, 20:18:15",
       "https://news.ycombinator.com/item?id=48939662"
     ],
     [
       "LM Studio Bionic: the AI agent for open models",
       "https://lmstudio.ai/blog/introducing-lm-studio-bionic"
-    ]
-  ],
-  [
-    [
-      "2026-07-16, 20:15:58",
-      "https://news.ycombinator.com/item?id=48939641"
-    ],
-    [
-      "The privacy problems hidden in your period tracker",
-      "https://www.bbc.com/future/article/20260715-how-period-trackers-share-womens-private-details"
     ]
   ],
   [
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2026-07-16, 15:55:47",
-      "https://news.ycombinator.com/item?id=48936271"
-    ],
-    [
-      "Show HN: BambooGrid – Open-source web UI for power grid modeling and power flow",
-      "https://bamboo.kickstage.com"
-    ]
-  ],
-  [
-    [
       "2026-07-16, 15:32:23",
       "https://news.ycombinator.com/item?id=48935951"
     ],
@@ -207,6 +197,16 @@
     [
       "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
       "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model"
+    ]
+  ],
+  [
+    [
+      "2026-07-16, 14:59:14",
+      "https://news.ycombinator.com/item?id=48935510"
+    ],
+    [
+      "Guide to data tools landscape for developers",
+      "https://sinja.io/blog/data-landscape-guide-for-developers"
     ]
   ],
   [
