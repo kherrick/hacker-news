@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2026-07-17](index.md)
 
 * [2026-07-17, 18:18:23](https://news.ycombinator.com/item?id=48950477) - [Ask HN: Did Fable disappear from your Claude usage and requires credits now?](https://news.ycombinator.com/item?id=48950477)
+* [2026-07-17, 17:45:41](https://news.ycombinator.com/item?id=48950122) - [Learning a few things about running SQLite](https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/)
 * [2026-07-17, 16:31:16](https://news.ycombinator.com/item?id=48949255) - [CO2 overload, detected in human blood, suggests toxic atmosphere within 50 years](https://link.springer.com/article/10.1007/s11869-026-01918-5)
+* [2026-07-17, 16:29:52](https://news.ycombinator.com/item?id=48949240) - [Homomorphically encrypted CIFAR-10 inference in 200ms](https://sofar.belfortlabs.cloud/)
 * [2026-07-17, 16:24:13](https://news.ycombinator.com/item?id=48949184) - [Designing emoji for the way we communicate today](https://blog.google/products-and-platforms/platforms/android/world-emoji-day-noto-3d/)
 * [2026-07-17, 15:41:05](https://news.ycombinator.com/item?id=48948693) - [Show HN: Explore the Workspaces of Modern Creators](https://workspaces.xyz/)
 * [2026-07-17, 15:31:22](https://news.ycombinator.com/item?id=48948597) - [Frame – the first Linux Assembly X server](https://isene.org/2026/07/Frame.html)
