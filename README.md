@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-17, 05:51:10](https://news.ycombinator.com/item?id=48943745) - [EEG shows brain can simultaneous encode two speech streams](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876)
 * [2026-07-17, 03:53:38](https://news.ycombinator.com/item?id=48943174) - [Pebble Mega Update – July 2026](https://repebble.com/blog/pebble-mega-update-july-2026)
 * [2026-07-17, 03:48:26](https://news.ycombinator.com/item?id=48943142) - [How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues](https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/)
 * [2026-07-17, 02:23:18](https://news.ycombinator.com/item?id=48942721) - [UIUC AI Teaching Assistant](https://github.com/Center-for-AI-Innovation/ai-teaching-assistant-uiuc)
@@ -7,7 +8,6 @@
 * [2026-07-17, 00:45:05](https://news.ycombinator.com/item?id=48942125) - [M 3.9 Experimental Explosion – 147 Km ENE of Ponce Inlet, Florida](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive)
 * [2026-07-17, 00:21:09](https://news.ycombinator.com/item?id=48942000) - [The human-in-the-loop is tired](https://pydantic.dev/articles/the-human-in-the-loop-is-tired)
 * [2026-07-16, 22:27:22](https://news.ycombinator.com/item?id=48941104) - [The Little Book of Reinforcement Learning](https://github.com/alxndrTL/little-book-rl/)
-* [2026-07-16, 22:07:30](https://news.ycombinator.com/item?id=48940895) - [CVE-2026-25089: FortiSandbox unauthenticated command injection added to CISA KEV](https://hellorecon.com/blog/cve-2026-25089)
 * [2026-07-16, 22:00:00](https://news.ycombinator.com/item?id=48940833) - ['Likweli': A new monkey species discovered in the Congo Basin](https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin)
 * [2026-07-16, 21:38:02](https://news.ycombinator.com/item?id=48940603) - [Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning](https://arxiv.org/abs/2607.12395)
 * [2026-07-16, 20:38:48](https://news.ycombinator.com/item?id=48939896) - [Mathematics of Data Science](https://arxiv.org/abs/2607.11938)
@@ -20,7 +20,6 @@
 * [2026-07-16, 16:08:13](https://news.ycombinator.com/item?id=48936451) - [NotebookLM is now Gemini Notebook](https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/)
 * [2026-07-16, 16:06:27](https://news.ycombinator.com/item?id=48936426) - [Microsoft Comic Chat is now open source](https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/)
 * [2026-07-16, 15:32:23](https://news.ycombinator.com/item?id=48935951) - [Immersive Linear Algebra Book with Interactive Figures (2015)](https://immersivemath.com/ila/)
-* [2026-07-16, 15:13:00](https://news.ycombinator.com/item?id=48935687) - [How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM](https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model)
 * [2026-07-16, 14:46:05](https://news.ycombinator.com/item?id=48935342) - [Kimi K3: Open Frontier Intelligence](https://www.kimi.com/blog/kimi-k3)
 * [2026-07-16, 11:39:27](https://news.ycombinator.com/item?id=48933149) - [How Our Rust-to-Zig Rewrite Is Going](https://rtfeldman.com/rust-to-zig)
 * [2026-07-16, 10:41:39](https://news.ycombinator.com/item?id=48932722) - [Abstracting Effects with Continuations](https://crowdhailer.me/2026-07-15/abstracting-effects-with-continuations/)
@@ -28,6 +27,7 @@
 * [2026-07-13, 17:34:33](https://news.ycombinator.com/item?id=48896044) - [Simulating everything, sort of: The promise and limits of world models](https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/)
 * [2026-07-13, 16:38:21](https://news.ycombinator.com/item?id=48895199) - [Solod: Go can be a better C](https://solod.dev)
 * [2026-07-12, 00:24:24](https://news.ycombinator.com/item?id=48877137) - [Old Icons](https://leancrew.com/all-this/2026/07/old-icons/)
+* [2026-07-11, 23:26:32](https://news.ycombinator.com/item?id=48876811) - [Starlink from 1984](https://nemanjatrifunovic.substack.com/p/starlink-from-1984)
 * [2026-07-11, 12:40:24](https://news.ycombinator.com/item?id=48871547) - [Show HN: Clx – Compile Lua to Native Executables Through C++20](https://github.com/samyeyo/clx)
 * [2026-07-10, 16:31:26](https://news.ycombinator.com/item?id=48862165) - [An Engineer's Guide to USB Typе-С (2024)](https://www.ti.com/lit/eb/slyy228/slyy228.pdf?ts=1759892558029)
 

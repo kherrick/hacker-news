@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-17](index.md)
 
+* [2026-07-17, 05:51:10](https://news.ycombinator.com/item?id=48943745) - [EEG shows brain can simultaneous encode two speech streams](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876)
 * [2026-07-17, 03:53:38](https://news.ycombinator.com/item?id=48943174) - [Pebble Mega Update – July 2026](https://repebble.com/blog/pebble-mega-update-july-2026)
 * [2026-07-17, 03:48:26](https://news.ycombinator.com/item?id=48943142) - [How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues](https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/)
 * [2026-07-17, 02:23:18](https://news.ycombinator.com/item?id=48942721) - [UIUC AI Teaching Assistant](https://github.com/Center-for-AI-Innovation/ai-teaching-assistant-uiuc)

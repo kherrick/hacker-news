@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-07-11](index.md)
 
 * [2026-07-11, 23:54:22](https://news.ycombinator.com/item?id=48876970) - [Odyssey Linux](https://odysseylinux.org)
+* [2026-07-11, 23:26:32](https://news.ycombinator.com/item?id=48876811) - [Starlink from 1984](https://nemanjatrifunovic.substack.com/p/starlink-from-1984)
 * [2026-07-11, 23:26:12](https://news.ycombinator.com/item?id=48876809) - [How the FSF sysadmins block botnets with reaction](https://www.fsf.org/blogs/community/blocking-botnets-with-reaction)
 * [2026-07-11, 23:15:06](https://news.ycombinator.com/item?id=48876741) - [Doctors die. It's not like the rest of us, but it should be (2016)](https://archive.cancerworld.net/featured/how-doctors-die/)
 * [2026-07-11, 22:54:07](https://news.ycombinator.com/item?id=48876621) - [How sea stars build materials that can see](https://www.engineering.upenn.edu/stories/how-sea-stars-build-materials-that-can-see/)
