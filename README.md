@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-17, 11:30:00](https://news.ycombinator.com/item?id=48946010) - [Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize](https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423)
 * [2026-07-17, 10:45:21](https://news.ycombinator.com/item?id=48945681) - [Ask HN: Any AWS billing issues known? Amazon forecast of 3 billion dollars](https://news.ycombinator.com/item?id=48945681)
-* [2026-07-17, 10:35:06](https://news.ycombinator.com/item?id=48945606) - [Just got an AWS billing alert projecting my monthly cost at $140B](https://news.ycombinator.com/item?id=48945606)
 * [2026-07-17, 09:44:25](https://news.ycombinator.com/item?id=48945260) - [I Owe My Life to the Commodore 64](https://www.goto10retro.com/p/i-owe-my-life-to-the-commodore-64)
 * [2026-07-17, 05:51:10](https://news.ycombinator.com/item?id=48943745) - [EEG shows brain can simultaneous encode two speech streams](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876)
 * [2026-07-17, 03:53:38](https://news.ycombinator.com/item?id=48943174) - [Pebble Mega Update – July 2026](https://repebble.com/blog/pebble-mega-update-july-2026)
@@ -22,7 +22,7 @@
 * [2026-07-16, 15:13:00](https://news.ycombinator.com/item?id=48935687) - [How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM](https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model)
 * [2026-07-16, 14:46:05](https://news.ycombinator.com/item?id=48935342) - [Kimi K3: Open Frontier Intelligence](https://www.kimi.com/blog/kimi-k3)
 * [2026-07-16, 11:59:01](https://news.ycombinator.com/item?id=48933310) - [The LLM Critics Are Right. I Use LLMs Anyway](https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/)
-* [2026-07-14, 12:07:06](https://news.ycombinator.com/item?id=48905491) - [SQLite Is All You Need](https://www.dbpro.app/blog/sqlite-is-all-you-need)
+* [2026-07-14, 00:10:36](https://news.ycombinator.com/item?id=48900686) - [Turn your singing voice into printable notes (in the browser)](https://om-intelligence.ch/projects/vocal-notation/vocal-notation.html)
 * [2026-07-13, 16:38:21](https://news.ycombinator.com/item?id=48895199) - [Solod: Go can be a better C](https://solod.dev)
 * [2026-07-12, 08:58:15](https://news.ycombinator.com/item?id=48879529) - [In Praise of Exhaustive Destructuring](https://antoine.vandecreme.net/blog/exhaustive-destructuring-praise/)
 * [2026-07-12, 00:24:24](https://news.ycombinator.com/item?id=48877137) - [Old Icons](https://leancrew.com/all-this/2026/07/old-icons/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-17](index.md)
 
+* [2026-07-17, 11:30:00](https://news.ycombinator.com/item?id=48946010) - [Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize](https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423)
 * [2026-07-17, 10:45:21](https://news.ycombinator.com/item?id=48945681) - [Ask HN: Any AWS billing issues known? Amazon forecast of 3 billion dollars](https://news.ycombinator.com/item?id=48945681)
 * [2026-07-17, 10:35:06](https://news.ycombinator.com/item?id=48945606) - [Just got an AWS billing alert projecting my monthly cost at $140B](https://news.ycombinator.com/item?id=48945606)
 * [2026-07-17, 09:44:25](https://news.ycombinator.com/item?id=48945260) - [I Owe My Life to the Commodore 64](https://www.goto10retro.com/p/i-owe-my-life-to-the-commodore-64)
