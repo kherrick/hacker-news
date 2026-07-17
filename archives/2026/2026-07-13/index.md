@@ -91,6 +91,7 @@
 * [2026-07-13, 04:00:54](https://news.ycombinator.com/item?id=48887753) - [Count Binface](https://countbinface.com)
 * [2026-07-13, 02:51:34](https://news.ycombinator.com/item?id=48887276) - [Show HN: Self-hosted voice AI agent for Asterisk/FreePBX](https://github.com/hkjarral/AVA-AI-Voice-Agent-for-Asterisk)
 * [2026-07-13, 02:34:09](https://news.ycombinator.com/item?id=48887175) - [Show HN: Web App Uses RTL-SDR to Align HDTV Antenna](https://tunerscope.com/)
+* [2026-07-13, 02:23:19](https://news.ycombinator.com/item?id=48887102) - [Frank Lloyd Wright's First Home](https://www.architecturaldigest.com/story/frank-lloyd-wright-home-and-studio-everything-you-need-to-know)
 * [2026-07-13, 01:47:21](https://news.ycombinator.com/item?id=48886881) - [Modernizing Property Tax Assessments in Allegheny County](https://www.prohousingpgh.org/blog/new-report-modernizing-property-tax-assessments-in-allegheny-county)
 * [2026-07-13, 01:24:20](https://news.ycombinator.com/item?id=48886741) - [Ask HN: Add flag for AI-generated articles](https://news.ycombinator.com/item?id=48886741)
 * [2026-07-13, 00:26:12](https://news.ycombinator.com/item?id=48886368) - [Gameboy is back ( no signup)](https://gb.omniiii.com/)
