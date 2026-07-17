@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-07-17](index.md)
 
 * [2026-07-17, 16:31:16](https://news.ycombinator.com/item?id=48949255) - [CO2 overload, detected in human blood, suggests toxic atmosphere within 50 years](https://link.springer.com/article/10.1007/s11869-026-01918-5)
+* [2026-07-17, 16:24:13](https://news.ycombinator.com/item?id=48949184) - [Designing emoji for the way we communicate today](https://blog.google/products-and-platforms/platforms/android/world-emoji-day-noto-3d/)
 * [2026-07-17, 15:41:05](https://news.ycombinator.com/item?id=48948693) - [Show HN: Explore the Workspaces of Modern Creators](https://workspaces.xyz/)
 * [2026-07-17, 15:31:22](https://news.ycombinator.com/item?id=48948597) - [Frame – the first Linux Assembly X server](https://isene.org/2026/07/Frame.html)
 * [2026-07-17, 15:17:54](https://news.ycombinator.com/item?id=48948435) - [Short sellers notch $8.7B profit as SpaceX shares dip to IPO price](https://www.reuters.com/business/media-telecom/short-sellers-rack-up-87-bln-profit-spacex-slips-below-ipo-price-ortex-2026-07-16/)

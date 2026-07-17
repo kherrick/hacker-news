@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-17, 16:24:13](https://news.ycombinator.com/item?id=48949184) - [Designing emoji for the way we communicate today](https://blog.google/products-and-platforms/platforms/android/world-emoji-day-noto-3d/)
 * [2026-07-17, 15:41:05](https://news.ycombinator.com/item?id=48948693) - [Show HN: Explore the Workspaces of Modern Creators](https://workspaces.xyz/)
 * [2026-07-17, 15:31:22](https://news.ycombinator.com/item?id=48948597) - [Frame – the first Linux Assembly X server](https://isene.org/2026/07/Frame.html)
 * [2026-07-17, 15:17:54](https://news.ycombinator.com/item?id=48948435) - [Short sellers notch $8.7B profit as SpaceX shares dip to IPO price](https://www.reuters.com/business/media-telecom/short-sellers-rack-up-87-bln-profit-spacex-slips-below-ipo-price-ortex-2026-07-16/)
@@ -20,7 +21,6 @@
 * [2026-07-17, 05:51:10](https://news.ycombinator.com/item?id=48943745) - [EEG shows brain can simultaneous encode two speech streams](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876)
 * [2026-07-17, 03:53:38](https://news.ycombinator.com/item?id=48943174) - [Pebble Mega Update – July 2026](https://repebble.com/blog/pebble-mega-update-july-2026)
 * [2026-07-17, 03:48:26](https://news.ycombinator.com/item?id=48943142) - [How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues](https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/)
-* [2026-07-16, 20:03:23](https://news.ycombinator.com/item?id=48939524) - [$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol](https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6)
 * [2026-07-16, 16:18:21](https://news.ycombinator.com/item?id=48936584) - [Decoy Font](https://www.mixfont.com/experiments/decoy-font)
 * [2026-07-16, 16:06:27](https://news.ycombinator.com/item?id=48936426) - [Microsoft Comic Chat is now open source](https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/)
 * [2026-07-16, 14:46:05](https://news.ycombinator.com/item?id=48935342) - [Kimi K3: Open Frontier Intelligence](https://www.kimi.com/blog/kimi-k3)
