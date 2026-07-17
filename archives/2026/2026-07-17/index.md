@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-07-17](index.md)
 
+* [2026-07-17, 18:59:28](https://news.ycombinator.com/item?id=48951014) - [ICE Flight Monitor Interactive Dashboard](https://www.humanrightsfirst.org/ice-flight-monitor-interactive-dashboard)
 * [2026-07-17, 18:37:33](https://news.ycombinator.com/item?id=48950774) - [Show HN: A zoomable timeline of 4M Wikipedia events](https://app.everything.diena.co/)
+* [2026-07-17, 18:26:02](https://news.ycombinator.com/item?id=48950580) - [SpaceX stock drops to a new low and loses $1T in value in a month](https://www.businessinsider.com/spacex-stock-drops-new-low-ipo-price-starship-launch-scrubbed-2026-7)
 * [2026-07-17, 18:18:23](https://news.ycombinator.com/item?id=48950477) - [Ask HN: Did Fable disappear from your Claude usage and requires credits now?](https://news.ycombinator.com/item?id=48950477)
 * [2026-07-17, 17:45:41](https://news.ycombinator.com/item?id=48950122) - [Learning a few things about running SQLite](https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/)
 * [2026-07-17, 16:31:16](https://news.ycombinator.com/item?id=48949255) - [CO2 overload, detected in human blood, suggests toxic atmosphere within 50 years](https://link.springer.com/article/10.1007/s11869-026-01918-5)
