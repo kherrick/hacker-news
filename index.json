@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-07-17, 01:03:25",
-      "https://news.ycombinator.com/item?id=48942250"
-    ],
-    [
-      "Google Kills Custom Search API on Jan 1, 2027",
-      "https://thenextgennexus.com/2026/05/14/google-kills-custom-search-api-on-jan-1-2027-you-have-9-months/"
-    ]
-  ],
-  [
-    [
       "2026-07-17, 00:45:05",
       "https://news.ycombinator.com/item?id=48942125"
     ],
@@ -21,12 +11,22 @@
   ],
   [
     [
-      "2026-07-16, 22:29:44",
-      "https://news.ycombinator.com/item?id=48941129"
+      "2026-07-17, 00:21:09",
+      "https://news.ycombinator.com/item?id=48942000"
     ],
     [
-      "My car’s OTA update broke Android Auto",
-      "https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/"
+      "The Human-in-the-Loop Is Tired",
+      "https://pydantic.dev/articles/the-human-in-the-loop-is-tired"
+    ]
+  ],
+  [
+    [
+      "2026-07-17, 00:07:49",
+      "https://news.ycombinator.com/item?id=48941908"
+    ],
+    [
+      "Lingbot-map: A 3D foundation model for reconstructing scenes from streaming data",
+      "https://github.com/Robbyant/lingbot-map"
     ]
   ],
   [
@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=48941123"
     ],
     [
-      "Show HN: Mojibake – a low-level Unicode library written in C",
+      "Show HN: Mojibake – A low-level Unicode library written in C",
       "https://mojibake.zaerl.com/"
     ]
   ],
@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2026-07-16, 16:52:16",
+      "https://news.ycombinator.com/item?id=48937020"
+    ],
+    [
+      "Launch HN: Traceforce (YC S26) – Company-wide security monitoring for AI apps",
+      "https://news.ycombinator.com/item?id=48937020"
+    ]
+  ],
+  [
+    [
       "2026-07-16, 16:41:37",
       "https://news.ycombinator.com/item?id=48936880"
     ],
@@ -251,16 +261,6 @@
   ],
   [
     [
-      "2026-07-16, 10:14:04",
-      "https://news.ycombinator.com/item?id=48932539"
-    ],
-    [
-      "OnePlus halts operations in USA and Europe",
-      "https://community.oneplus.com/thread/2170715118587871237"
-    ]
-  ],
-  [
-    [
       "2026-07-14, 16:02:01",
       "https://news.ycombinator.com/item?id=48908886"
     ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2026-07-14, 14:56:33",
-      "https://news.ycombinator.com/item?id=48907876"
+      "2026-07-13, 17:34:33",
+      "https://news.ycombinator.com/item?id=48896044"
     ],
     [
-      "Count the Bytes, Not the FLOPs",
-      "https://thepragmaticquant.com/why-we-stopped-materializing-arrays/"
+      "Simulating everything, sort of: The promise and limits of world models",
+      "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/"
     ]
   ],
   [
