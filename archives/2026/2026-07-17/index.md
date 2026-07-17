@@ -4,6 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-07-17](index.md)
 
+* [2026-07-17, 14:31:10](https://news.ycombinator.com/item?id=48947825) - [Mozilla: The state of open source AI](https://stateofopensource.ai/)
+* [2026-07-17, 14:26:58](https://news.ycombinator.com/item?id=48947776) - [Claude Code: Anatomy of a Misfeature](https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/)
+* [2026-07-17, 14:21:35](https://news.ycombinator.com/item?id=48947714) - [AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM](https://blog.zksecurity.xyz/posts/openvm-bugs/)
+* [2026-07-17, 14:06:13](https://news.ycombinator.com/item?id=48947560) - [First atmosphere found on Earth-like planet in habitable zone of distant star](https://www.bbc.com/news/articles/cy4kdd1e0ejo)
+* [2026-07-17, 14:05:15](https://news.ycombinator.com/item?id=48947548) - [Show HN: Watch bots interact with an SSH honeypot in real time](https://honeypotlive.cc/)
+* [2026-07-17, 14:00:04](https://news.ycombinator.com/item?id=48947490) - [Three ways people respond to a problem (other than solving it)](https://improvesomething.today/responses-to-problems/)
+* [2026-07-17, 13:56:04](https://news.ycombinator.com/item?id=48947455) - [A Road to Lisp: Which Lisp](https://scotto.me/blog/2026-07-17-which-lisp/)
+* [2026-07-17, 13:32:11](https://news.ycombinator.com/item?id=48947201) - [More Bounce to the Ounce – By Maciej Cegłowski](https://mceglowski.substack.com/p/more-bounce-to-the-ounce)
+* [2026-07-17, 13:30:47](https://news.ycombinator.com/item?id=48947184) - [PennyLane is an open-source quantum software platform for quantum](https://github.com/PennyLaneAI/pennylane)
 * [2026-07-17, 13:22:33](https://news.ycombinator.com/item?id=48947100) - [Manufact (YC S25) Is Hiring a Senior infra engineer to build the MCP cloud](https://www.ycombinator.com/companies/manufact/jobs/Dh6PYP5-senior-infrastructure-engineer)
 * [2026-07-17, 13:02:07](https://news.ycombinator.com/item?id=48946895) - [Multi-Primary Color Display Emerges as Next-Gen Color Reproduction Technology](https://en.ubiresearchnet.com/multi-primary-color-display-technology-2026/)
 * [2026-07-17, 12:50:29](https://news.ycombinator.com/item?id=48946783) - [Minikotlin](https://minikotlin.run)
