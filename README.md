@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-17, 09:44:25](https://news.ycombinator.com/item?id=48945260) - [I Owe My Life to the Commodore 64](https://www.goto10retro.com/p/i-owe-my-life-to-the-commodore-64)
 * [2026-07-17, 05:51:10](https://news.ycombinator.com/item?id=48943745) - [EEG shows brain can simultaneous encode two speech streams](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876)
 * [2026-07-17, 03:53:38](https://news.ycombinator.com/item?id=48943174) - [Pebble Mega Update – July 2026](https://repebble.com/blog/pebble-mega-update-july-2026)
 * [2026-07-17, 03:48:26](https://news.ycombinator.com/item?id=48943142) - [How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues](https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/)
-* [2026-07-17, 01:36:52](https://news.ycombinator.com/item?id=48942454) - [GrapheneOS recommended for domestic abuse victims](https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/)
 * [2026-07-17, 00:21:09](https://news.ycombinator.com/item?id=48942000) - [The human-in-the-loop is tired](https://pydantic.dev/articles/the-human-in-the-loop-is-tired)
 * [2026-07-16, 22:27:22](https://news.ycombinator.com/item?id=48941104) - [The Little Book of Reinforcement Learning](https://github.com/alxndrTL/little-book-rl/)
 * [2026-07-16, 22:00:00](https://news.ycombinator.com/item?id=48940833) - ['Likweli': A new monkey species discovered in the Congo Basin](https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin)
@@ -21,6 +21,7 @@
 * [2026-07-16, 14:46:05](https://news.ycombinator.com/item?id=48935342) - [Kimi K3: Open Frontier Intelligence](https://www.kimi.com/blog/kimi-k3)
 * [2026-07-16, 13:30:00](https://news.ycombinator.com/item?id=48934286) - [Goes-19 weather satellite enters Safe Hold mode](https://www.spaceweather.gov/news/goes-19-safe-hold)
 * [2026-07-16, 11:59:01](https://news.ycombinator.com/item?id=48933310) - [The LLM Critics Are Right. I Use LLMs Anyway](https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/)
+* [2026-07-14, 12:07:06](https://news.ycombinator.com/item?id=48905491) - [SQLite Is All You Need](https://www.dbpro.app/blog/sqlite-is-all-you-need)
 * [2026-07-13, 16:38:21](https://news.ycombinator.com/item?id=48895199) - [Solod: Go can be a better C](https://solod.dev)
 * [2026-07-12, 10:26:53](https://news.ycombinator.com/item?id=48879960) - [Solving Santa Claus Puzzle](https://wyounas.github.io/puzzles/concurrency/2026/01/10/how-to-help-santa-claus-concurrently/)
 * [2026-07-12, 08:58:15](https://news.ycombinator.com/item?id=48879529) - [In Praise of Exhaustive Destructuring](https://antoine.vandecreme.net/blog/exhaustive-destructuring-praise/)
@@ -29,7 +30,6 @@
 * [2026-07-11, 12:40:24](https://news.ycombinator.com/item?id=48871547) - [Show HN: Clx – Compile Lua to Native Executables Through C++20](https://github.com/samyeyo/clx)
 * [2026-07-10, 16:31:26](https://news.ycombinator.com/item?id=48862165) - [An Engineer's Guide to USB Typе-С (2024)](https://www.ti.com/lit/eb/slyy228/slyy228.pdf?ts=1759892558029)
 * [2026-07-10, 02:17:55](https://news.ycombinator.com/item?id=48854988) - [Camera Chase Vehicle](https://transistor-man.com/gimbal_camera_rover.html)
-* [2026-07-09, 20:37:43](https://news.ycombinator.com/item?id=48852048) - [How RCA Victor sold Sound Service to classrooms in 1939](https://pncnmnp.github.io/blogs/rca-victor-education.html)
 
 ## [Archives](archives/index.md)
 

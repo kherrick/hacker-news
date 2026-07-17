@@ -52,6 +52,7 @@
 * [2026-07-14, 12:40:50](https://news.ycombinator.com/item?id=48905914) - [Beautiful Type Erasure with C++26 Reflection](https://ryanjk5.github.io/posts/rjk-duck/)
 * [2026-07-14, 12:28:09](https://news.ycombinator.com/item?id=48905764) - [Coding agents think ahead of time](https://arxiv.org/abs/2607.05188)
 * [2026-07-14, 12:21:46](https://news.ycombinator.com/item?id=48905667) - [Differentiable Fortran with LFortran and Enzyme](https://docs.pasteurlabs.ai/projects/tesseract-core/latest/blog/2026-07-09-enzyme-lfortran-autodiff.html)
+* [2026-07-14, 12:07:06](https://news.ycombinator.com/item?id=48905491) - [SQLite Is All You Need](https://www.dbpro.app/blog/sqlite-is-all-you-need)
 * [2026-07-14, 11:49:48](https://news.ycombinator.com/item?id=48905290) - [Germany set to restrict its Freedom of Information Act](https://www.dw.com/en/germany-freedom-of-information-act/a-77939695)
 * [2026-07-14, 11:46:02](https://news.ycombinator.com/item?id=48905248) - [How to stop Claude from saying load-bearing](https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing)
 * [2026-07-14, 11:40:34](https://news.ycombinator.com/item?id=48905183) - [Mathematical texts from a Maya site in Guatemala identify an ancient astronomer](https://www.nature.com/articles/d41586-026-02170-8)
