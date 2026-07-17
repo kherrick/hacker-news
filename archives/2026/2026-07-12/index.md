@@ -96,4 +96,5 @@
 * [2026-07-12, 00:35:08](https://news.ycombinator.com/item?id=48877192) - [Long Covid May Physically Damage the Nerves That Control the Stomach](https://www.ijidonline.com/article/S1201-9712(26)00608-9/fulltext)
 * [2026-07-12, 00:32:15](https://news.ycombinator.com/item?id=48877178) - [Martha Lillard, last US polio patient using iron lung, dies at 78 in Oklahoma](https://abcnews.com/US/wireStory/martha-lillard-us-polio-patient-iron-lung-dies-134668491)
 * [2026-07-12, 00:27:52](https://news.ycombinator.com/item?id=48877151) - [GC shape stenciling in Go generics](https://rednafi.com/go/gc-shape-stenciling/)
+* [2026-07-12, 00:24:24](https://news.ycombinator.com/item?id=48877137) - [Old Icons](https://leancrew.com/all-this/2026/07/old-icons/)
 * [2026-07-12, 00:02:27](https://news.ycombinator.com/item?id=48877009) - [A public ledger of cloud outages and the SLA credits they trigger](https://slacreditwatch.com)
