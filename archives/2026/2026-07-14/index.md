@@ -33,6 +33,7 @@
 * [2026-07-14, 16:36:06](https://news.ycombinator.com/item?id=48909424) - [Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK](https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/)
 * [2026-07-14, 16:06:18](https://news.ycombinator.com/item?id=48908950) - [Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations](https://agnost.ai)
 * [2026-07-14, 16:02:01](https://news.ycombinator.com/item?id=48908886) - [Pseudpocalypse](https://dynomight.net/pseudpocalypse/)
+* [2026-07-14, 15:50:19](https://news.ycombinator.com/item?id=48908691) - [Show HN: Simulator for a custom 8-bit discreet logic computer](https://msap2.mehran.dk)
 * [2026-07-14, 15:24:49](https://news.ycombinator.com/item?id=48908271) - [Show HN: Opening lines of famous literary works](https://www.verbaprima.com/)
 * [2026-07-14, 15:20:36](https://news.ycombinator.com/item?id=48908214) - [I'm a USB-C Maximalist](https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/)
 * [2026-07-14, 15:18:13](https://news.ycombinator.com/item?id=48908178) - [Are we offloading too much of our thinking to AI?](https://www.artfish.ai/p/offloading-thinking-to-ai)
