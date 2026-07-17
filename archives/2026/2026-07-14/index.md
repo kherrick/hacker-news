@@ -35,6 +35,7 @@
 * [2026-07-14, 15:24:49](https://news.ycombinator.com/item?id=48908271) - [Show HN: Opening lines of famous literary works](https://www.verbaprima.com/)
 * [2026-07-14, 15:20:36](https://news.ycombinator.com/item?id=48908214) - [I'm a USB-C Maximalist](https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/)
 * [2026-07-14, 15:18:13](https://news.ycombinator.com/item?id=48908178) - [Are we offloading too much of our thinking to AI?](https://www.artfish.ai/p/offloading-thinking-to-ai)
+* [2026-07-14, 14:56:33](https://news.ycombinator.com/item?id=48907876) - [Count the Bytes, Not the FLOPs](https://thepragmaticquant.com/why-we-stopped-materializing-arrays/)
 * [2026-07-14, 14:55:53](https://news.ycombinator.com/item?id=48907871) - [Show HN: I built a smart proxy so your coding agent can run loose](https://trollbridge.dev/)
 * [2026-07-14, 14:40:46](https://news.ycombinator.com/item?id=48907681) - [Show HN: Low-latency local LLM runner via OpenJDK Panama FFM (Java 22)](https://github.com/projectargus-cc/libargus.cc)
 * [2026-07-14, 14:39:56](https://news.ycombinator.com/item?id=48907672) - [The Agentic Loop: Three loops in a trench coat](https://www.bobbytables.io/p/the-agentic-loop-three-loops-in-a)
