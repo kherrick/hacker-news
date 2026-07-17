@@ -43,6 +43,7 @@
 * [2026-07-11, 16:28:48](https://news.ycombinator.com/item?id=48873424) - [Modern Decor May Be Straining People's Brains](https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/)
 * [2026-07-11, 16:27:44](https://news.ycombinator.com/item?id=48873417) - [Show HN: Reame – a CPU inference server that gets faster as it runs](https://github.com/swellweb/reame)
 * [2026-07-11, 16:10:19](https://news.ycombinator.com/item?id=48873275) - [C++20 Improved the For-Loop Syntax](https://lzon.ca/posts/tips/cpp-for-range-init/)
+* [2026-07-11, 16:05:56](https://news.ycombinator.com/item?id=48873239) - [What loss.backward() actually does](https://oraziorillo.com/blog/what-loss-backward-actually-does/)
 * [2026-07-11, 15:38:46](https://news.ycombinator.com/item?id=48872973) - [Tropical forests facing increasing risks of exposure to critical temp thresholds](https://www.pnas.org/doi/10.1073/pnas.2528622123)
 * [2026-07-11, 15:38:13](https://news.ycombinator.com/item?id=48872965) - [Zero Knowledge Tolstoyan Art](https://max-amb.github.io/blog/zero_knowledge_tolstoyan_art/)
 * [2026-07-11, 15:28:02](https://news.ycombinator.com/item?id=48872874) - [We scaled PgBouncer to 4x throughput](https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres)
