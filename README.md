@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-17, 22:26:30](https://news.ycombinator.com/item?id=48952880) - [Kaiser nurses say AI, workplace surveillance are making their jobs, care worse](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/)
+* [2026-07-17, 22:11:01](https://news.ycombinator.com/item?id=48952773) - [The US Grocery Slowdown Is Real](https://www.bain.com/insights/the-us-grocery-slowdown-is-real-snap-chart/)
 * [2026-07-17, 21:42:13](https://news.ycombinator.com/item?id=48952561) - [US seeks share of Korean chipmakers' 'excess profits'](https://www.koreatimes.co.kr/business/tech-science/20260716/us-seeks-share-of-korean-chipmakers-excess-profits-source)
 * [2026-07-17, 21:22:53](https://news.ycombinator.com/item?id=48952439) - [FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again](https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html)
 * [2026-07-17, 20:47:57](https://news.ycombinator.com/item?id=48952135) - [Open Book Touch: open-source e-reader](https://www.crowdsupply.com/oddly-specific-objects/open-book-touch)
@@ -22,8 +24,6 @@
 * [2026-07-17, 13:32:11](https://news.ycombinator.com/item?id=48947201) - [More Bounce to the Ounce](https://mceglowski.substack.com/p/more-bounce-to-the-ounce)
 * [2026-07-17, 13:22:33](https://news.ycombinator.com/item?id=48947100) - [Manufact (YC S25) Is Hiring a Senior infra engineer to build the MCP cloud](https://www.ycombinator.com/companies/manufact/jobs/Dh6PYP5-senior-infrastructure-engineer)
 * [2026-07-17, 09:42:05](https://news.ycombinator.com/item?id=48945241) - [AWS: Inaccurate Estimated Billing Data – $1.7 billion](https://news.ycombinator.com/item?id=48945241)
-* [2026-07-17, 05:51:10](https://news.ycombinator.com/item?id=48943745) - [EEG shows brain can simultaneous encode two speech streams](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876)
-* [2026-07-17, 03:53:38](https://news.ycombinator.com/item?id=48943174) - [Pebble Mega Update – July 2026](https://repebble.com/blog/pebble-mega-update-july-2026)
 * [2026-07-15, 18:08:40](https://news.ycombinator.com/item?id=48924855) - [Show HN: Tarit – a hypervisor which is 2x faster than firecracker](https://github.com/instavm/tarit)
 * [2026-07-14, 17:53:06](https://news.ycombinator.com/item?id=48910579) - [MoonBASIC: A modern BASIC for building 2D and 3D games](https://github.com/CharmingBlaze/moonbasic)
 * [2026-07-13, 23:22:17](https://news.ycombinator.com/item?id=48900287) - [Estimating the heights of New Yorkers from their scuff marks](https://blog.jse.li/posts/smith9street/)
