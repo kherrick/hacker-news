@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-17](index.md)
 
+* [2026-07-17, 21:25:09](https://news.ycombinator.com/item?id=48952450) - [I built a digital F1 garage to learn how Formula 1 cars work](https://paddockpass.app)
 * [2026-07-17, 21:24:07](https://news.ycombinator.com/item?id=48952445) - [Everybody's Weirded Out by AI–Except the People Who Foist It on Us](https://newrepublic.com/article/213004/everybody-weirded-ai-except-people-foist-us)
 * [2026-07-17, 21:22:53](https://news.ycombinator.com/item?id=48952439) - [FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again](https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html)
 * [2026-07-17, 19:53:01](https://news.ycombinator.com/item?id=48951595) - [Flock CEO Apologizes for Calling Activists 'Terrorists'](https://www.forbes.com/sites/thomasbrewster/2026/07/17/flock-ceo-sorry-for-labelling-activists-terrorists/)

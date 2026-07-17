@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-07-17, 21:24:07](https://news.ycombinator.com/item?id=48952445) - [Everybody's Weirded Out by AI–Except the People Who Foist It on Us](https://newrepublic.com/article/213004/everybody-weirded-ai-except-people-foist-us)
+* [2026-07-17, 21:25:09](https://news.ycombinator.com/item?id=48952450) - [I built a digital F1 garage to learn how Formula 1 cars work](https://paddockpass.app)
 * [2026-07-17, 21:22:53](https://news.ycombinator.com/item?id=48952439) - [FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again](https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html)
 * [2026-07-17, 19:41:02](https://news.ycombinator.com/item?id=48951461) - [The Zilog Z80 has turned 50](https://goliath32.com/blog/z80.html)
 * [2026-07-17, 18:37:33](https://news.ycombinator.com/item?id=48950774) - [Show HN: A zoomable timeline of 4M Wikipedia events](https://app.everything.diena.co/)
