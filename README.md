@@ -1,12 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-17, 12:02:39](https://news.ycombinator.com/item?id=48946303) - [Apple targets dozens of OpenAI employees with legal letters](https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166)
 * [2026-07-17, 11:30:00](https://news.ycombinator.com/item?id=48946010) - [Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize](https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423)
 * [2026-07-17, 10:45:21](https://news.ycombinator.com/item?id=48945681) - [Ask HN: Any AWS billing issues known? Amazon forecast of 3 billion dollars](https://news.ycombinator.com/item?id=48945681)
 * [2026-07-17, 09:44:25](https://news.ycombinator.com/item?id=48945260) - [I Owe My Life to the Commodore 64](https://www.goto10retro.com/p/i-owe-my-life-to-the-commodore-64)
+* [2026-07-17, 07:29:55](https://news.ycombinator.com/item?id=48944333) - [Pushinka](https://en.wikipedia.org/wiki/Pushinka)
 * [2026-07-17, 05:51:10](https://news.ycombinator.com/item?id=48943745) - [EEG shows brain can simultaneous encode two speech streams](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876)
 * [2026-07-17, 03:53:38](https://news.ycombinator.com/item?id=48943174) - [Pebble Mega Update – July 2026](https://repebble.com/blog/pebble-mega-update-july-2026)
 * [2026-07-17, 03:48:26](https://news.ycombinator.com/item?id=48943142) - [How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues](https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/)
-* [2026-07-17, 00:21:09](https://news.ycombinator.com/item?id=48942000) - [The human-in-the-loop is tired](https://pydantic.dev/articles/the-human-in-the-loop-is-tired)
 * [2026-07-16, 22:27:22](https://news.ycombinator.com/item?id=48941104) - [The Little Book of Reinforcement Learning](https://github.com/alxndrTL/little-book-rl/)
 * [2026-07-16, 22:00:00](https://news.ycombinator.com/item?id=48940833) - ['Likweli': A new monkey species discovered in the Congo Basin](https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin)
 * [2026-07-16, 20:38:48](https://news.ycombinator.com/item?id=48939896) - [Mathematics of Data Science](https://arxiv.org/abs/2607.11938)
@@ -27,7 +28,6 @@
 * [2026-07-12, 08:58:15](https://news.ycombinator.com/item?id=48879529) - [In Praise of Exhaustive Destructuring](https://antoine.vandecreme.net/blog/exhaustive-destructuring-praise/)
 * [2026-07-12, 00:24:24](https://news.ycombinator.com/item?id=48877137) - [Old Icons](https://leancrew.com/all-this/2026/07/old-icons/)
 * [2026-07-11, 23:26:32](https://news.ycombinator.com/item?id=48876811) - [Starlink from 1984](https://nemanjatrifunovic.substack.com/p/starlink-from-1984)
-* [2026-07-11, 12:40:24](https://news.ycombinator.com/item?id=48871547) - [Show HN: Clx – Compile Lua to Native Executables Through C++20](https://github.com/samyeyo/clx)
 * [2026-07-10, 16:31:26](https://news.ycombinator.com/item?id=48862165) - [An Engineer's Guide to USB Typе-С (2024)](https://www.ti.com/lit/eb/slyy228/slyy228.pdf?ts=1759892558029)
 * [2026-07-10, 02:17:55](https://news.ycombinator.com/item?id=48854988) - [Camera Chase Vehicle](https://transistor-man.com/gimbal_camera_rover.html)
 

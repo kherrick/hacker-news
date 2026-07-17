@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-07-17](index.md)
 
+* [2026-07-17, 12:02:39](https://news.ycombinator.com/item?id=48946303) - [Apple targets dozens of OpenAI employees with legal letters](https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166)
 * [2026-07-17, 11:30:00](https://news.ycombinator.com/item?id=48946010) - [Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize](https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423)
 * [2026-07-17, 10:45:21](https://news.ycombinator.com/item?id=48945681) - [Ask HN: Any AWS billing issues known? Amazon forecast of 3 billion dollars](https://news.ycombinator.com/item?id=48945681)
 * [2026-07-17, 10:35:06](https://news.ycombinator.com/item?id=48945606) - [Just got an AWS billing alert projecting my monthly cost at $140B](https://news.ycombinator.com/item?id=48945606)
 * [2026-07-17, 09:44:25](https://news.ycombinator.com/item?id=48945260) - [I Owe My Life to the Commodore 64](https://www.goto10retro.com/p/i-owe-my-life-to-the-commodore-64)
 * [2026-07-17, 07:58:19](https://news.ycombinator.com/item?id=48944487) - [Trump Media to sell instant access to 'market-moving' social posts](https://www.bbc.com/news/articles/c79gw4lj89eo)
+* [2026-07-17, 07:29:55](https://news.ycombinator.com/item?id=48944333) - [Pushinka](https://en.wikipedia.org/wiki/Pushinka)
 * [2026-07-17, 05:51:10](https://news.ycombinator.com/item?id=48943745) - [EEG shows brain can simultaneous encode two speech streams](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876)
 * [2026-07-17, 03:53:38](https://news.ycombinator.com/item?id=48943174) - [Pebble Mega Update – July 2026](https://repebble.com/blog/pebble-mega-update-july-2026)
 * [2026-07-17, 03:48:26](https://news.ycombinator.com/item?id=48943142) - [How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues](https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/)
