@@ -35,6 +35,7 @@
 * [2026-07-10, 16:48:41](https://news.ycombinator.com/item?id=48862365) - [The tech of 'Terminator 2' – an oral history (2017)](https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/)
 * [2026-07-10, 16:47:11](https://news.ycombinator.com/item?id=48862351) - [An unusual way for your DHCP server to run out of dynamic IPs](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/DHCPServerAndScreamingHost)
 * [2026-07-10, 16:37:52](https://news.ycombinator.com/item?id=48862252) - [Snails' Teeth Beats Spider Silk as Nature's Strongest Material](https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/)
+* [2026-07-10, 16:31:26](https://news.ycombinator.com/item?id=48862165) - [An Engineer's Guide to USB Typе-С (2024)](https://www.ti.com/lit/eb/slyy228/slyy228.pdf?ts=1759892558029)
 * [2026-07-10, 16:24:20](https://news.ycombinator.com/item?id=48862086) - [Cpp2Rust: Translates C++ to safe Rust automatically](https://github.com/Cpp2Rust/cpp2rust)
 * [2026-07-10, 16:21:18](https://news.ycombinator.com/item?id=48862035) - [Garnix Is Joining Shopify](https://garnix.io/blog/shutting-down/)
 * [2026-07-10, 16:12:52](https://news.ycombinator.com/item?id=48861923) - [Why write code in 2026](https://softwaredoug.com/blog/2026/07/09/write-code)

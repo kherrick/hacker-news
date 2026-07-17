@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-17, 01:36:52](https://news.ycombinator.com/item?id=48942454) - [GrapheneOS recommended for domestic abuse victims](https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/)
 * [2026-07-17, 00:45:05](https://news.ycombinator.com/item?id=48942125) - [M 3.9 Experimental Explosion – 147 Km ENE of Ponce Inlet, Florida](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive)
 * [2026-07-17, 00:21:09](https://news.ycombinator.com/item?id=48942000) - [The Human-in-the-Loop Is Tired](https://pydantic.dev/articles/the-human-in-the-loop-is-tired)
 * [2026-07-17, 00:07:49](https://news.ycombinator.com/item?id=48941908) - [Lingbot-map: A 3D foundation model for reconstructing scenes from streaming data](https://github.com/Robbyant/lingbot-map)
@@ -11,11 +12,9 @@
 * [2026-07-16, 20:38:48](https://news.ycombinator.com/item?id=48939896) - [Mathematics of Data Science](https://arxiv.org/abs/2607.11938)
 * [2026-07-16, 20:24:02](https://news.ycombinator.com/item?id=48939742) - [Helium escaping from atmosphere of nearby rocky exoplanet in a habitable zone](https://www.science.org/doi/10.1126/science.aea9708)
 * [2026-07-16, 20:18:15](https://news.ycombinator.com/item?id=48939662) - [LM Studio Bionic: the AI agent for open models](https://lmstudio.ai/blog/introducing-lm-studio-bionic)
-* [2026-07-16, 20:15:58](https://news.ycombinator.com/item?id=48939641) - [The privacy problems hidden in your period tracker](https://www.bbc.com/future/article/20260715-how-period-trackers-share-womens-private-details)
 * [2026-07-16, 20:03:23](https://news.ycombinator.com/item?id=48939524) - [$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol](https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6)
 * [2026-07-16, 17:19:16](https://news.ycombinator.com/item?id=48937398) - [CD sales growth outpaced vinyl in the first half of 2026](https://consequence.net/2026/07/the-cd-revival-is-getting-hard-to-ignore/)
 * [2026-07-16, 17:00:55](https://news.ycombinator.com/item?id=48937125) - [Adaptional (YC S25) Is Hiring](https://www.ycombinator.com/companies/adaptional/jobs)
-* [2026-07-16, 16:52:16](https://news.ycombinator.com/item?id=48937020) - [Launch HN: Traceforce (YC S26) – Company-wide security monitoring for AI apps](https://news.ycombinator.com/item?id=48937020)
 * [2026-07-16, 16:41:37](https://news.ycombinator.com/item?id=48936880) - [Detecting LLM-Generated Texts with “Classical” Machine Learning](https://blog.lyc8503.net/en/post/llm-classifier/)
 * [2026-07-16, 16:18:21](https://news.ycombinator.com/item?id=48936584) - [Decoy Font](https://www.mixfont.com/experiments/decoy-font)
 * [2026-07-16, 16:08:13](https://news.ycombinator.com/item?id=48936451) - [NotebookLM is now Gemini Notebook](https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/)
@@ -30,6 +29,7 @@
 * [2026-07-13, 17:34:33](https://news.ycombinator.com/item?id=48896044) - [Simulating everything, sort of: The promise and limits of world models](https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/)
 * [2026-07-13, 16:38:21](https://news.ycombinator.com/item?id=48895199) - [Solod: Go can be a better C](https://solod.dev)
 * [2026-07-11, 12:40:24](https://news.ycombinator.com/item?id=48871547) - [Show HN: Clx – Compile Lua to Native Executables Through C++20](https://github.com/samyeyo/clx)
+* [2026-07-10, 16:31:26](https://news.ycombinator.com/item?id=48862165) - [An Engineer's Guide to USB Typе-С (2024)](https://www.ti.com/lit/eb/slyy228/slyy228.pdf?ts=1759892558029)
 
 ## [Archives](archives/index.md)
 
