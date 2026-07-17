@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-17, 18:18:23](https://news.ycombinator.com/item?id=48950477) - [Ask HN: Did Fable disappear from your Claude usage and requires credits now?](https://news.ycombinator.com/item?id=48950477)
 * [2026-07-17, 16:24:13](https://news.ycombinator.com/item?id=48949184) - [Designing emoji for the way we communicate today](https://blog.google/products-and-platforms/platforms/android/world-emoji-day-noto-3d/)
 * [2026-07-17, 15:41:05](https://news.ycombinator.com/item?id=48948693) - [Show HN: Explore the Workspaces of Modern Creators](https://workspaces.xyz/)
 * [2026-07-17, 15:31:22](https://news.ycombinator.com/item?id=48948597) - [Frame – the first Linux Assembly X server](https://isene.org/2026/07/Frame.html)
@@ -25,10 +26,9 @@
 * [2026-07-16, 16:06:27](https://news.ycombinator.com/item?id=48936426) - [Microsoft Comic Chat is now open source](https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/)
 * [2026-07-16, 14:46:05](https://news.ycombinator.com/item?id=48935342) - [Kimi K3: Open Frontier Intelligence](https://www.kimi.com/blog/kimi-k3)
 * [2026-07-14, 15:50:19](https://news.ycombinator.com/item?id=48908691) - [Show HN: Simulator for a custom 8-bit discreet logic computer](https://msap2.mehran.dk)
-* [2026-07-14, 14:15:51](https://news.ycombinator.com/item?id=48907263) - [Tannakian Reconstruction](https://bartoszmilewski.com/2026/07/14/tannakian-reconstruction/)
+* [2026-07-13, 18:12:09](https://news.ycombinator.com/item?id=48896513) - [Latent Space as a New Medium](https://kevinkelly.substack.com/p/latent-space-as-a-new-medium)
 * [2026-07-13, 02:23:19](https://news.ycombinator.com/item?id=48887102) - [Frank Lloyd Wright's First Home](https://www.architecturaldigest.com/story/frank-lloyd-wright-home-and-studio-everything-you-need-to-know)
 * [2026-07-12, 07:00:24](https://news.ycombinator.com/item?id=48878996) - [Faster binary search: from compiled code to mechanical sympathy](https://pythonspeed.com/articles/branchless-binary-search/)
-* [2026-07-10, 16:31:26](https://news.ycombinator.com/item?id=48862165) - [An Engineer's Guide to USB Typе-С (2024)](https://www.ti.com/lit/eb/slyy228/slyy228.pdf?ts=1759892558029)
 * [2026-07-10, 02:17:55](https://news.ycombinator.com/item?id=48854988) - [Camera Chase Vehicle](https://transistor-man.com/gimbal_camera_rover.html)
 
 ## [Archives](archives/index.md)
