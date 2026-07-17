@@ -13,6 +13,7 @@
 * [2026-07-16, 22:00:00](https://news.ycombinator.com/item?id=48940833) - ['Likweli': A new monkey species discovered in the Congo Basin](https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin)
 * [2026-07-16, 21:55:49](https://news.ycombinator.com/item?id=48940801) - [Just Do Things](https://ray.zo.space/blog/just-do-things)
 * [2026-07-16, 21:38:02](https://news.ycombinator.com/item?id=48940603) - [Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning](https://arxiv.org/abs/2607.12395)
+* [2026-07-16, 21:04:32](https://news.ycombinator.com/item?id=48940231) - [Scaling to 1M concurrent sandboxes in seconds](https://modal.com/blog/scaling-to-1-million-concurrent-sandboxes-in-seconds)
 * [2026-07-16, 20:38:48](https://news.ycombinator.com/item?id=48939896) - [Mathematics of Data Science](https://arxiv.org/abs/2607.11938)
 * [2026-07-16, 20:25:47](https://news.ycombinator.com/item?id=48939764) - [Timeline Scan – AI fixes the dates on your scanned photos](https://timelinescan.com/)
 * [2026-07-16, 20:24:02](https://news.ycombinator.com/item?id=48939742) - [Helium escaping from atmosphere of nearby rocky exoplanet in a habitable zone](https://www.science.org/doi/10.1126/science.aea9708)
