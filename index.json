@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2026-07-16, 10:41:39",
-      "https://news.ycombinator.com/item?id=48932722"
-    ],
-    [
-      "Abstracting Effects with Continuations",
-      "https://crowdhailer.me/2026-07-15/abstracting-effects-with-continuations/"
-    ]
-  ],
-  [
-    [
       "2026-07-14, 16:02:01",
       "https://news.ycombinator.com/item?id=48908886"
     ],
@@ -241,22 +231,22 @@
   ],
   [
     [
-      "2026-07-13, 17:34:33",
-      "https://news.ycombinator.com/item?id=48896044"
-    ],
-    [
-      "Simulating everything, sort of: The promise and limits of world models",
-      "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/"
-    ]
-  ],
-  [
-    [
       "2026-07-13, 16:38:21",
       "https://news.ycombinator.com/item?id=48895199"
     ],
     [
       "Solod: Go can be a better C",
       "https://solod.dev"
+    ]
+  ],
+  [
+    [
+      "2026-07-12, 08:58:15",
+      "https://news.ycombinator.com/item?id=48879529"
+    ],
+    [
+      "In Praise of Exhaustive Destructuring",
+      "https://antoine.vandecreme.net/blog/exhaustive-destructuring-praise/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Starlink from 1984",
       "https://nemanjatrifunovic.substack.com/p/starlink-from-1984"
+    ]
+  ],
+  [
+    [
+      "2026-07-11, 16:05:56",
+      "https://news.ycombinator.com/item?id=48873239"
+    ],
+    [
+      "What loss.backward() actually does",
+      "https://oraziorillo.com/blog/what-loss-backward-actually-does/"
     ]
   ],
   [
