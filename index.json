@@ -1,6 +1,96 @@
 [
   [
     [
+      "2026-07-17, 14:31:10",
+      "https://news.ycombinator.com/item?id=48947825"
+    ],
+    [
+      "Mozilla: The state of open source AI",
+      "https://stateofopensource.ai/"
+    ]
+  ],
+  [
+    [
+      "2026-07-17, 14:26:58",
+      "https://news.ycombinator.com/item?id=48947776"
+    ],
+    [
+      "Claude Code: Anatomy of a Misfeature",
+      "https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/"
+    ]
+  ],
+  [
+    [
+      "2026-07-17, 14:21:35",
+      "https://news.ycombinator.com/item?id=48947714"
+    ],
+    [
+      "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
+      "https://blog.zksecurity.xyz/posts/openvm-bugs/"
+    ]
+  ],
+  [
+    [
+      "2026-07-17, 14:06:13",
+      "https://news.ycombinator.com/item?id=48947560"
+    ],
+    [
+      "First atmosphere found on Earth-like planet in habitable zone of distant star",
+      "https://www.bbc.com/news/articles/cy4kdd1e0ejo"
+    ]
+  ],
+  [
+    [
+      "2026-07-17, 14:05:15",
+      "https://news.ycombinator.com/item?id=48947548"
+    ],
+    [
+      "Show HN: Watch bots interact with an SSH honeypot in real time",
+      "https://honeypotlive.cc/"
+    ]
+  ],
+  [
+    [
+      "2026-07-17, 14:00:04",
+      "https://news.ycombinator.com/item?id=48947490"
+    ],
+    [
+      "Three ways people respond to a problem (other than solving it)",
+      "https://improvesomething.today/responses-to-problems/"
+    ]
+  ],
+  [
+    [
+      "2026-07-17, 13:56:04",
+      "https://news.ycombinator.com/item?id=48947455"
+    ],
+    [
+      "A Road to Lisp: Which Lisp",
+      "https://scotto.me/blog/2026-07-17-which-lisp/"
+    ]
+  ],
+  [
+    [
+      "2026-07-17, 13:32:11",
+      "https://news.ycombinator.com/item?id=48947201"
+    ],
+    [
+      "More Bounce to the Ounce – By Maciej Cegłowski",
+      "https://mceglowski.substack.com/p/more-bounce-to-the-ounce"
+    ]
+  ],
+  [
+    [
+      "2026-07-17, 13:30:47",
+      "https://news.ycombinator.com/item?id=48947184"
+    ],
+    [
+      "PennyLane is an open-source quantum software platform for quantum",
+      "https://github.com/PennyLaneAI/pennylane"
+    ]
+  ],
+  [
+    [
       "2026-07-17, 13:22:33",
       "https://news.ycombinator.com/item?id=48947100"
     ],
@@ -71,16 +161,6 @@
   ],
   [
     [
-      "2026-07-17, 09:44:25",
-      "https://news.ycombinator.com/item?id=48945260"
-    ],
-    [
-      "I Owe My Life to the Commodore 64",
-      "https://www.goto10retro.com/p/i-owe-my-life-to-the-commodore-64"
-    ]
-  ],
-  [
-    [
       "2026-07-17, 09:42:05",
       "https://news.ycombinator.com/item?id=48945241"
     ],
@@ -121,26 +201,6 @@
   ],
   [
     [
-      "2026-07-16, 22:27:22",
-      "https://news.ycombinator.com/item?id=48941104"
-    ],
-    [
-      "The Little Book of Reinforcement Learning",
-      "https://github.com/alxndrTL/little-book-rl/"
-    ]
-  ],
-  [
-    [
-      "2026-07-16, 20:24:02",
-      "https://news.ycombinator.com/item?id=48939742"
-    ],
-    [
-      "Helium escaping from atmosphere of nearby rocky exoplanet in a habitable zone",
-      "https://www.science.org/doi/10.1126/science.aea9708"
-    ]
-  ],
-  [
-    [
       "2026-07-16, 20:18:15",
       "https://news.ycombinator.com/item?id=48939662"
     ],
@@ -161,42 +221,12 @@
   ],
   [
     [
-      "2026-07-16, 17:19:16",
-      "https://news.ycombinator.com/item?id=48937398"
-    ],
-    [
-      "CD sales growth outpaced vinyl in the first half of 2026",
-      "https://consequence.net/2026/07/the-cd-revival-is-getting-hard-to-ignore/"
-    ]
-  ],
-  [
-    [
-      "2026-07-16, 16:41:37",
-      "https://news.ycombinator.com/item?id=48936880"
-    ],
-    [
-      "Detecting LLM-Generated Texts with “Classical” Machine Learning",
-      "https://blog.lyc8503.net/en/post/llm-classifier/"
-    ]
-  ],
-  [
-    [
       "2026-07-16, 16:18:21",
       "https://news.ycombinator.com/item?id=48936584"
     ],
     [
       "Decoy Font",
       "https://www.mixfont.com/experiments/decoy-font"
-    ]
-  ],
-  [
-    [
-      "2026-07-16, 16:08:13",
-      "https://news.ycombinator.com/item?id=48936451"
-    ],
-    [
-      "NotebookLM is now Gemini Notebook",
-      "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/"
     ]
   ],
   [
@@ -211,32 +241,12 @@
   ],
   [
     [
-      "2026-07-16, 15:32:23",
-      "https://news.ycombinator.com/item?id=48935951"
-    ],
-    [
-      "Immersive Linear Algebra Book with Interactive Figures (2015)",
-      "https://immersivemath.com/ila/"
-    ]
-  ],
-  [
-    [
       "2026-07-16, 14:46:05",
       "https://news.ycombinator.com/item?id=48935342"
     ],
     [
       "Kimi K3: Open Frontier Intelligence",
       "https://www.kimi.com/blog/kimi-k3"
-    ]
-  ],
-  [
-    [
-      "2026-07-14, 21:06:43",
-      "https://news.ycombinator.com/item?id=48912957"
-    ],
-    [
-      "After wearing the Pebble Time 2 for two weeks, I'll never buy another smartwatch",
-      "https://www.androidauthority.com/pebble-time-2-smartwatch-hands-on-3680077/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Solod: Go can be a better C",
       "https://solod.dev"
-    ]
-  ],
-  [
-    [
-      "2026-07-11, 23:26:32",
-      "https://news.ycombinator.com/item?id=48876811"
-    ],
-    [
-      "Starlink from 1984",
-      "https://nemanjatrifunovic.substack.com/p/starlink-from-1984"
     ]
   ],
   [
