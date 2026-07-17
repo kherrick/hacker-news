@@ -8,6 +8,7 @@
 * [2026-07-13, 23:39:10](https://news.ycombinator.com/item?id=48900432) - [What are Forward Deployed Engineers, and why are they so in demand? (2025)](https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers)
 * [2026-07-13, 23:26:52](https://news.ycombinator.com/item?id=48900319) - [Show HN: Sx 2.0 – Share AI skills with your team through a Dropbox folder](https://sleuth-io.github.io/sx/2026/07/10/your-dropbox-is-now-a-skill-server.html)
 * [2026-07-13, 23:22:18](https://news.ycombinator.com/item?id=48900288) - [Show HN: ContextVault – Shared memory layer for your AI and your team](https://www.contextvault.dev/)
+* [2026-07-13, 23:22:17](https://news.ycombinator.com/item?id=48900287) - [Estimating the heights of New Yorkers from their scuff marks](https://blog.jse.li/posts/smith9street/)
 * [2026-07-13, 23:12:22](https://news.ycombinator.com/item?id=48900191) - [An Englishwoman who sketched India before photography took hold](https://www.bbc.com/news/articles/cm2drrv6q54o)
 * [2026-07-13, 22:40:55](https://news.ycombinator.com/item?id=48899888) - [Manifest Man](https://www.thenewcritic.com/p/manifest-man)
 * [2026-07-13, 22:26:34](https://news.ycombinator.com/item?id=48899741) - [California rocked by another earthquake that will unleash the Big One](https://www.dailymail.com/sciencetech/article-15973745/california-earthquake-unlocks-san-andreas-garlock.html)
