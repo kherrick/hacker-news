@@ -11,6 +11,7 @@
 * [2026-07-13, 23:22:17](https://news.ycombinator.com/item?id=48900287) - [Estimating the heights of New Yorkers from their scuff marks](https://blog.jse.li/posts/smith9street/)
 * [2026-07-13, 23:12:22](https://news.ycombinator.com/item?id=48900191) - [An Englishwoman who sketched India before photography took hold](https://www.bbc.com/news/articles/cm2drrv6q54o)
 * [2026-07-13, 22:40:55](https://news.ycombinator.com/item?id=48899888) - [Manifest Man](https://www.thenewcritic.com/p/manifest-man)
+* [2026-07-13, 22:35:49](https://news.ycombinator.com/item?id=48899847) - [Lobste.rs is now running on SQLite](https://lobste.rs/s/ko1ji1)
 * [2026-07-13, 22:26:34](https://news.ycombinator.com/item?id=48899741) - [California rocked by another earthquake that will unleash the Big One](https://www.dailymail.com/sciencetech/article-15973745/california-earthquake-unlocks-san-andreas-garlock.html)
 * [2026-07-13, 22:19:16](https://news.ycombinator.com/item?id=48899672) - [‘Asia's cleanest village’ bans tourists on Sundays](https://www.bbc.com/travel/article/20260625-why-asias-cleanest-village-bans-tourists-on-sundays)
 * [2026-07-13, 22:14:12](https://news.ycombinator.com/item?id=48899620) - [Show HN: I built a one-prompt hackathon platform, free entry, sponsored prizes](https://1shotchallenge.ai)
