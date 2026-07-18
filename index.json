@@ -41,12 +41,12 @@
   ],
   [
     [
-      "2026-07-18, 00:40:08",
-      "https://news.ycombinator.com/item?id=48953924"
+      "2026-07-18, 00:03:41",
+      "https://news.ycombinator.com/item?id=48953719"
     ],
     [
-      "A grumpy screed about AI in software engineering",
-      "https://sam.sutch.net/posts/a-grumpy-ai-screed"
+      "PSA about abuse of cat(1) command. Don't abuse cats",
+      "https://www.abuseofcats.com"
     ]
   ],
   [
@@ -57,16 +57,6 @@
     [
       "The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold",
       "https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier"
-    ]
-  ],
-  [
-    [
-      "2026-07-17, 22:35:55",
-      "https://news.ycombinator.com/item?id=48952939"
-    ],
-    [
-      "Texas wins court order to suspend domain name for violating age-verification law",
-      "https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "MoonBASIC: A modern BASIC for building 2D and 3D games",
       "https://github.com/CharmingBlaze/moonbasic"
+    ]
+  ],
+  [
+    [
+      "2026-07-14, 12:59:58",
+      "https://news.ycombinator.com/item?id=48906171"
+    ],
+    [
+      "An Update on Igalia's Layer Based SVG Engine in WebKit (Reducing Layer Overhead)",
+      "https://blogs.igalia.com/nzimmermann/posts/2026-07-14-lbse-conditional-layers/"
     ]
   ],
   [
