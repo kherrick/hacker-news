@@ -56,6 +56,7 @@
 * [2026-07-12, 15:47:16](https://news.ycombinator.com/item?id=48882056) - [How to Read More Books](https://scotto.me/blog/2026-07-12-how-to-read-more-books/)
 * [2026-07-12, 15:44:13](https://news.ycombinator.com/item?id=48882034) - [Croc: Securely transfer files and folders between two computers](https://github.com/schollz/croc/)
 * [2026-07-12, 15:35:36](https://news.ycombinator.com/item?id=48881967) - [The power of collaboration: How we can reduce traffic congestion](https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/)
+* [2026-07-12, 15:29:11](https://news.ycombinator.com/item?id=48881912) - [Show HN: Instrumation a PYPI library for Instruments](https://github.com/abduznik/instrumation)
 * [2026-07-12, 15:23:59](https://news.ycombinator.com/item?id=48881874) - [A no-brainer for protecting your brain](https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain)
 * [2026-07-12, 15:17:20](https://news.ycombinator.com/item?id=48881830) - [Don't You Mean Extinct?](https://fabiensanglard.net/extinct/index.html)
 * [2026-07-12, 14:32:00](https://news.ycombinator.com/item?id=48881498) - [Autoresearch, Claude and Constrained Optimization](https://www.elliotcsmith.com/autoresearch-claude-and-constrained-optimization/)
