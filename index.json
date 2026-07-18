@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-07-18, 00:06:10",
-      "https://news.ycombinator.com/item?id=48953734"
+      "2026-07-18, 01:01:08",
+      "https://news.ycombinator.com/item?id=48954074"
     ],
     [
-      "Credit Card Points Are a Transfer from the Broke to the Comfortable",
-      "https://willisallstead.substack.com/p/your-credit-card-points-are-a-transfer"
+      "DrDroid (YC W23) Is Hiring",
+      "https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory"
     ]
   ],
   [
@@ -37,6 +37,16 @@
     [
       "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
       "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/"
+    ]
+  ],
+  [
+    [
+      "2026-07-17, 21:42:43",
+      "https://news.ycombinator.com/item?id=48952565"
+    ],
+    [
+      "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
+      "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md"
     ]
   ],
   [
@@ -151,6 +161,16 @@
   ],
   [
     [
+      "2026-07-17, 15:41:05",
+      "https://news.ycombinator.com/item?id=48948693"
+    ],
+    [
+      "Workspaces – Explore the workspaces of modern creators",
+      "https://workspaces.xyz/"
+    ]
+  ],
+  [
+    [
       "2026-07-17, 14:31:10",
       "https://news.ycombinator.com/item?id=48947825"
     ],
@@ -167,16 +187,6 @@
     [
       "Kimi K3, and what we can still learn from the pelican benchmark",
       "https://simonwillison.net/2026/Jul/16/kimi-k3/"
-    ]
-  ],
-  [
-    [
-      "2026-07-17, 14:21:35",
-      "https://news.ycombinator.com/item?id=48947714"
-    ],
-    [
-      "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
-      "https://blog.zksecurity.xyz/posts/openvm-bugs/"
     ]
   ],
   [
@@ -217,26 +227,6 @@
     [
       "More Bounce to the Ounce",
       "https://mceglowski.substack.com/p/more-bounce-to-the-ounce"
-    ]
-  ],
-  [
-    [
-      "2026-07-17, 13:22:33",
-      "https://news.ycombinator.com/item?id=48947100"
-    ],
-    [
-      "Manufact (YC S25) Is Hiring a Senior infra engineer to build the MCP cloud",
-      "https://www.ycombinator.com/companies/manufact/jobs/Dh6PYP5-senior-infrastructure-engineer"
-    ]
-  ],
-  [
-    [
-      "2026-07-17, 11:30:00",
-      "https://news.ycombinator.com/item?id=48946010"
-    ],
-    [
-      "Evidence of inconsistencies in evaluation process and selection of winners",
-      "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Frank Lloyd Wright’s first home",
       "https://www.architecturaldigest.com/story/frank-lloyd-wright-home-and-studio-everything-you-need-to-know"
+    ]
+  ],
+  [
+    [
+      "2026-07-12, 15:29:11",
+      "https://news.ycombinator.com/item?id=48881912"
+    ],
+    [
+      "Show HN: Instrumation a PYPI library for Instruments",
+      "https://github.com/abduznik/instrumation"
     ]
   ],
   [
