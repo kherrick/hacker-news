@@ -49,6 +49,7 @@
 * [2026-07-14, 14:15:40](https://news.ycombinator.com/item?id=48907259) - [Tambara Equipment](https://bartoszmilewski.com/2026/07/11/tambara-equipment/)
 * [2026-07-14, 14:12:39](https://news.ycombinator.com/item?id=48907214) - [OpenAI mandates hardware-backed passkeys for Trusted Access Cyber members](https://www.yubico.com/blog/openai-mandates-hardware-backed-passkeys-for-trusted-access-cyber-members-to-log-into-chatgpt-accounts/)
 * [2026-07-14, 13:52:21](https://news.ycombinator.com/item?id=48906893) - [The Conservationist Who Turned 40 Terabytes of Public Data into a Video Game](https://blog.exe.dev/meet-the-conservationist-who-turned-40-terabytes-of-government-data-into-a-video-game)
+* [2026-07-14, 12:59:58](https://news.ycombinator.com/item?id=48906171) - [An Update on Igalia's Layer Based SVG Engine in WebKit (Reducing Layer Overhead)](https://blogs.igalia.com/nzimmermann/posts/2026-07-14-lbse-conditional-layers/)
 * [2026-07-14, 12:56:25](https://news.ycombinator.com/item?id=48906125) - [Proof of Care in the Age of A.I](https://jacobfilipp.com/care/)
 * [2026-07-14, 12:56:21](https://news.ycombinator.com/item?id=48906123) - [Tensor Is the Might](https://zserge.com/posts/tensor/)
 * [2026-07-14, 12:50:29](https://news.ycombinator.com/item?id=48906041) - [Guardian Angels: LLM Personalization for Productivity and Security](https://gwern.net/guardian-angel)

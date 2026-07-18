@@ -10,3 +10,4 @@
 * [2026-07-18, 00:48:37](https://news.ycombinator.com/item?id=48953981) - [Stenchill: 3D Printable Solder Paste Stencil Generator](https://www.stenchill.com/en/)
 * [2026-07-18, 00:40:08](https://news.ycombinator.com/item?id=48953924) - [A grumpy screed about AI in software engineering](https://sam.sutch.net/posts/a-grumpy-ai-screed)
 * [2026-07-18, 00:06:10](https://news.ycombinator.com/item?id=48953734) - [Credit Card Points Are a Transfer from the Broke to the Comfortable](https://willisallstead.substack.com/p/your-credit-card-points-are-a-transfer)
+* [2026-07-18, 00:03:41](https://news.ycombinator.com/item?id=48953719) - [PSA about abuse of cat(1) command. Don't abuse cats](https://www.abuseofcats.com)

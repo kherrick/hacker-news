@@ -4,9 +4,8 @@
 * [2026-07-18, 01:12:13](https://news.ycombinator.com/item?id=48954149) - [I Started a \"Dirt Notebook\"](https://pinewind.bearblog.dev/i-started-a-dirt-notebook/)
 * [2026-07-18, 01:01:08](https://news.ycombinator.com/item?id=48954074) - [DrDroid (YC W23) Is Hiring](https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory)
 * [2026-07-18, 00:48:37](https://news.ycombinator.com/item?id=48953981) - [Stenchill: 3D Printable Solder Paste Stencil Generator](https://www.stenchill.com/en/)
-* [2026-07-18, 00:40:08](https://news.ycombinator.com/item?id=48953924) - [A grumpy screed about AI in software engineering](https://sam.sutch.net/posts/a-grumpy-ai-screed)
+* [2026-07-18, 00:03:41](https://news.ycombinator.com/item?id=48953719) - [PSA about abuse of cat(1) command. Don't abuse cats](https://www.abuseofcats.com)
 * [2026-07-17, 23:26:35](https://news.ycombinator.com/item?id=48953406) - [The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold](https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier)
-* [2026-07-17, 22:35:55](https://news.ycombinator.com/item?id=48952939) - [Texas wins court order to suspend domain name for violating age-verification law](https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and)
 * [2026-07-17, 22:26:30](https://news.ycombinator.com/item?id=48952880) - [Kaiser nurses say AI, workplace surveillance are making their jobs, care worse](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/)
 * [2026-07-17, 21:42:43](https://news.ycombinator.com/item?id=48952565) - [TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years](https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md)
 * [2026-07-17, 21:22:53](https://news.ycombinator.com/item?id=48952439) - [FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again](https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html)
@@ -28,6 +27,7 @@
 * [2026-07-17, 13:32:11](https://news.ycombinator.com/item?id=48947201) - [More Bounce to the Ounce](https://mceglowski.substack.com/p/more-bounce-to-the-ounce)
 * [2026-07-17, 09:42:05](https://news.ycombinator.com/item?id=48945241) - [AWS: Inaccurate Estimated Billing Data – $1.7 billion](https://news.ycombinator.com/item?id=48945241)
 * [2026-07-14, 17:53:06](https://news.ycombinator.com/item?id=48910579) - [MoonBASIC: A modern BASIC for building 2D and 3D games](https://github.com/CharmingBlaze/moonbasic)
+* [2026-07-14, 12:59:58](https://news.ycombinator.com/item?id=48906171) - [An Update on Igalia's Layer Based SVG Engine in WebKit (Reducing Layer Overhead)](https://blogs.igalia.com/nzimmermann/posts/2026-07-14-lbse-conditional-layers/)
 * [2026-07-13, 17:43:26](https://news.ycombinator.com/item?id=48896149) - [Vāgdhenu: A Sanskrit Chanting TTS System](https://prathosh.in/vagdhenu/)
 * [2026-07-13, 02:23:19](https://news.ycombinator.com/item?id=48887102) - [Frank Lloyd Wright’s first home](https://www.architecturaldigest.com/story/frank-lloyd-wright-home-and-studio-everything-you-need-to-know)
 
