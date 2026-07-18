@@ -5,7 +5,10 @@
 ### [Archives](../../index.md) for [2026-07-18](index.md)
 
 * [2026-07-18, 22:13:39](https://news.ycombinator.com/item?id=48962983) - [Mayor Mamdani Says Landlords Can't Use AI Images to Advertise](https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/)
+* [2026-07-18, 22:10:54](https://news.ycombinator.com/item?id=48962963) - [AI Mania Is Eviscerating Global Decision-Making](https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking)
+* [2026-07-18, 22:09:07](https://news.ycombinator.com/item?id=48962944) - [Real-Time LuaTeX: Recompiling Large Documents in 1ms [pdf]](https://www.tug.org/tug2026/preprints/lode-realtime.pdf)
 * [2026-07-18, 22:02:31](https://news.ycombinator.com/item?id=48962893) - [Judge a book by its first pages](https://uncovered.ink)
+* [2026-07-18, 21:55:27](https://news.ycombinator.com/item?id=48962838) - [Classic Amiga titles, free to download](https://amigafreeware.downer.tech/)
 * [2026-07-18, 21:45:12](https://news.ycombinator.com/item?id=48962758) - [Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day](https://www.neatnik.net/hardcore-indieweb)
 * [2026-07-18, 21:09:01](https://news.ycombinator.com/item?id=48962429) - [Co-evolution of self-replication and function in a digital primordial soup](https://arxiv.org/abs/2607.09211)
 * [2026-07-18, 21:06:49](https://news.ycombinator.com/item?id=48962405) - [Ada: An AI business intelligence software from CSV and Excel(yes LLMs but more)](https://github.com/saineshnakra/automated-data-analyst)
