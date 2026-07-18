@@ -99,3 +99,4 @@
 * [2026-07-13, 01:24:20](https://news.ycombinator.com/item?id=48886741) - [Ask HN: Add flag for AI-generated articles](https://news.ycombinator.com/item?id=48886741)
 * [2026-07-13, 00:26:12](https://news.ycombinator.com/item?id=48886368) - [Gameboy is back ( no signup)](https://gb.omniiii.com/)
 * [2026-07-13, 00:18:16](https://news.ycombinator.com/item?id=48886311) - [MacKenzie Scott's Giving, in Quality-Adjusted Life Years (QALYs)](https://maxghenis.com/mackenzie-scott-qaly/)
+* [2026-07-13, 00:07:09](https://news.ycombinator.com/item?id=48886236) - [Quintile – keyboard N×M grid tiling for macOS](https://github.com/stefanopineda/quintile)
