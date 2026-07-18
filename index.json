@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-07-18, 18:13:05",
+      "https://news.ycombinator.com/item?id=48960607"
+    ],
+    [
+      "REO Trucks I4 4WD Pickup Truck Starts at $21,500",
+      "https://reotrucks.com"
+    ]
+  ],
+  [
+    [
       "2026-07-18, 18:06:23",
       "https://news.ycombinator.com/item?id=48960551"
     ],
     [
       "Show HN: Get alerts for good seats at 70mm IMAX showings of The Odyssey",
       "https://imaxxing.io/"
+    ]
+  ],
+  [
+    [
+      "2026-07-18, 17:32:40",
+      "https://news.ycombinator.com/item?id=48960218"
+    ],
+    [
+      "The Kimi K3 Moment",
+      "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/"
     ]
   ],
   [
@@ -201,42 +221,12 @@
   ],
   [
     [
-      "2026-07-17, 21:42:43",
-      "https://news.ycombinator.com/item?id=48952565"
-    ],
-    [
-      "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
-      "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md"
-    ]
-  ],
-  [
-    [
       "2026-07-17, 20:10:02",
       "https://news.ycombinator.com/item?id=48951756"
     ],
     [
       "Tech note: making your own V-I plots at home",
       "https://lcamtuf.substack.com/p/tech-note-making-your-own-v-i-plots"
-    ]
-  ],
-  [
-    [
-      "2026-07-17, 19:41:02",
-      "https://news.ycombinator.com/item?id=48951461"
-    ],
-    [
-      "The Zilog Z80 has turned 50",
-      "https://goliath32.com/blog/z80.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-17, 17:45:41",
-      "https://news.ycombinator.com/item?id=48950122"
-    ],
-    [
-      "Learning a few things about running SQLite",
-      "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "A Second-Grade Teacher Revived a Beloved Video Game",
       "https://www.nytimes.com/2026/07/13/style/backyard-baseball-video-game-teacher.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-09, 20:47:09",
+      "https://news.ycombinator.com/item?id=48852151"
+    ],
+    [
+      "How GitHub gave every repository a durable owner",
+      "https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/"
     ]
   ]
 ]
