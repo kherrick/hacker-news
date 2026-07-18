@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-16](index.md)
 
+* [2026-07-16, 22:48:44](https://news.ycombinator.com/item?id=48941315) - [Battery packs: Let's talk about crates, baby](https://smallcultfollowing.com/babysteps/blog/2026/07/15/battery-packs/)
 * [2026-07-16, 22:29:44](https://news.ycombinator.com/item?id=48941129) - [My car's OTA update broke Android Auto, and it's a indictment of modern software](https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/)
 * [2026-07-16, 22:29:21](https://news.ycombinator.com/item?id=48941123) - [Show HN: Mojibake – a low-level Unicode library written in C](https://mojibake.zaerl.com/)
 * [2026-07-16, 22:27:22](https://news.ycombinator.com/item?id=48941104) - [The Little Book of Reinforcement Learning](https://github.com/alxndrTL/little-book-rl/)
