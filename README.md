@@ -26,9 +26,9 @@
 * [2026-07-17, 14:21:51](https://news.ycombinator.com/item?id=48947717) - [Kimi K3, and what we can still learn from the pelican benchmark](https://simonwillison.net/2026/Jul/16/kimi-k3/)
 * [2026-07-17, 14:06:13](https://news.ycombinator.com/item?id=48947560) - [First atmosphere found on Earth-like planet in habitable zone of distant star](https://www.bbc.com/news/articles/cy4kdd1e0ejo)
 * [2026-07-15, 20:25:41](https://news.ycombinator.com/item?id=48926594) - [GTX 1080s: Testing a Legend](https://www.lttlabs.com/articles/2026/07/15/gtx-1080s-revisiting-legends)
-* [2026-07-15, 17:06:43](https://news.ycombinator.com/item?id=48923929) - [Funny item co-occurrences in 3.2M Instacart orders](https://rogerdickey.com/funny-item-co-occurrences-in-3-million-instacart-orders/)
 * [2026-07-15, 03:46:35](https://news.ycombinator.com/item?id=48916044) - [Is this the end of the once-mighty GoPro?](https://amateurphotographer.com/latest/photo-news/going-going-gone-is-this-the-end-of-the-once-mighty-gopro/)
 * [2026-07-14, 14:02:36](https://news.ycombinator.com/item?id=48907063) - [Reviving a 15-year-old netbook with Arch Linux](https://parksb.github.io/en/article/41.html)
+* [2026-07-13, 17:13:22](https://news.ycombinator.com/item?id=48895763) - [A Second-Grade Teacher Revived a Beloved Video Game](https://www.nytimes.com/2026/07/13/style/backyard-baseball-video-game-teacher.html)
 * [2026-07-12, 11:26:46](https://news.ycombinator.com/item?id=48880258) - [Waldi: A quiet place to write, and to be read](https://github.com/waaldev/waldi)
 
 ## [Archives](archives/index.md)
