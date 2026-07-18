@@ -76,6 +76,7 @@
 * [2026-07-14, 08:27:56](https://news.ycombinator.com/item?id=48903733) - [Job queues are deceptively tricky](https://typesanitizer.com/blog/job-queues.html)
 * [2026-07-14, 08:24:49](https://news.ycombinator.com/item?id=48903715) - [Alternative(s) to run CUDA on non-Nvidia hardware](https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/)
 * [2026-07-14, 08:22:52](https://news.ycombinator.com/item?id=48903701) - [Two Case Studies of NaN](https://sebsite.pw/w/20260709-nan.html)
+* [2026-07-14, 07:52:28](https://news.ycombinator.com/item?id=48903490) - [Responsive Design Calculator](https://www.redblobgames.com/blog/2026-07-11-responsive-design-calculator/)
 * [2026-07-14, 07:06:50](https://news.ycombinator.com/item?id=48903190) - [The Anatomy of an Instruction Pipeline Hazard](https://hiraditya.github.io/posts/hardware-hazards-b200/)
 * [2026-07-14, 06:50:55](https://news.ycombinator.com/item?id=48903110) - [Helicone allows users to write SQL directly to a shared ClickHouse](https://www.justintorre.com/blogs/clickhouse-rls-query-parameters)
 * [2026-07-14, 06:48:47](https://news.ycombinator.com/item?id=48903102) - [Show HN: Benchmark your eng team's AI agent maturity in 5 minutes](https://agent-benchmarks.com/software-factory/)
