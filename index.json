@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-18, 03:51:42",
+      "https://news.ycombinator.com/item?id=48955042"
+    ],
+    [
+      "Show HN: IKEA Complexity Index",
+      "https://ikea.greg.technology/"
+    ]
+  ],
+  [
+    [
       "2026-07-18, 03:14:20",
       "https://news.ycombinator.com/item?id=48954851"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=48954149"
     ],
     [
-      "I started a \"dirt notebook\"",
+      "I started a “dirt notebook”",
       "https://pinewind.bearblog.dev/i-started-a-dirt-notebook/"
     ]
   ],
@@ -65,7 +75,7 @@
       "https://news.ycombinator.com/item?id=48952880"
     ],
     [
-      "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+      "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
       "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/"
     ]
   ],
@@ -77,16 +87,6 @@
     [
       "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
       "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md"
-    ]
-  ],
-  [
-    [
-      "2026-07-17, 21:22:53",
-      "https://news.ycombinator.com/item?id=48952439"
-    ],
-    [
-      "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
-      "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2026-07-17, 14:05:15",
-      "https://news.ycombinator.com/item?id=48947548"
-    ],
-    [
-      "Show HN: Watch bots interact with an SSH honeypot in real time",
-      "https://honeypotlive.cc/"
-    ]
-  ],
-  [
-    [
       "2026-07-17, 14:00:04",
       "https://news.ycombinator.com/item?id=48947490"
     ],
@@ -247,6 +237,16 @@
     [
       "Battery packs: Let's talk about crates, baby",
       "https://smallcultfollowing.com/babysteps/blog/2026/07/15/battery-packs/"
+    ]
+  ],
+  [
+    [
+      "2026-07-15, 08:18:25",
+      "https://news.ycombinator.com/item?id=48917755"
+    ],
+    [
+      "Porting nanochat to a TPU: what carries over from PyTorch, and what breaks",
+      "https://github.com/tucan9389/nanochat-jax/discussions/1"
     ]
   ],
   [
