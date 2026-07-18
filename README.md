@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-18, 11:12:46](https://news.ycombinator.com/item?id=48956949) - [What AI did to stackoverflow in a graph](https://data.stackexchange.com/stackoverflow/query/1953768#graph)
 * [2026-07-18, 11:06:50](https://news.ycombinator.com/item?id=48956924) - [Why do AI company logos look like buttholes?](https://velvetshark.com/ai-company-logos-that-look-like-buttholes)
 * [2026-07-18, 10:21:19](https://news.ycombinator.com/item?id=48956688) - [LG monitors silently install software through Windows Update without consent](https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent)
 * [2026-07-18, 08:50:07](https://news.ycombinator.com/item?id=48956307) - [Qubes OS Security in the Public Record](https://arxiv.org/abs/2607.14587)
@@ -11,7 +12,6 @@
 * [2026-07-18, 00:48:37](https://news.ycombinator.com/item?id=48953981) - [Stenchill: 3D Printable Solder Paste Stencil Generator](https://www.stenchill.com/en/)
 * [2026-07-17, 21:42:43](https://news.ycombinator.com/item?id=48952565) - [TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years](https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md)
 * [2026-07-17, 20:47:57](https://news.ycombinator.com/item?id=48952135) - [Open Book Touch: open-source e-reader](https://www.crowdsupply.com/oddly-specific-objects/open-book-touch)
-* [2026-07-17, 20:41:43](https://news.ycombinator.com/item?id=48952067) - [Topcoat: The full full-stack framework for Rust](https://github.com/tokio-rs/topcoat)
 * [2026-07-17, 20:24:55](https://news.ycombinator.com/item?id=48951898) - [Static search trees: 40x faster than binary search (2024)](https://curiouscoding.nl/posts/static-search-tree/)
 * [2026-07-17, 20:12:59](https://news.ycombinator.com/item?id=48951780) - [Painting the sides of railroad rails white to reduce derailment](https://www.up.com/news/safety/Tracking-Rail-Heat-260608)
 * [2026-07-17, 19:41:02](https://news.ycombinator.com/item?id=48951461) - [The Zilog Z80 has turned 50](https://goliath32.com/blog/z80.html)
