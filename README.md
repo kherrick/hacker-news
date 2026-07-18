@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-18, 18:13:05](https://news.ycombinator.com/item?id=48960607) - [REO Trucks I4 4WD Pickup Truck Starts at $21,500](https://reotrucks.com)
 * [2026-07-18, 18:06:23](https://news.ycombinator.com/item?id=48960551) - [Show HN: Get alerts for good seats at 70mm IMAX showings of The Odyssey](https://imaxxing.io/)
+* [2026-07-18, 17:32:40](https://news.ycombinator.com/item?id=48960218) - [The Kimi K3 Moment](https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/)
 * [2026-07-18, 17:27:24](https://news.ycombinator.com/item?id=48960155) - [Goodbye, and Thanks for All the Bikesheds](https://queue.acm.org/detail.cfm?id=3818307)
 * [2026-07-18, 16:12:08](https://news.ycombinator.com/item?id=48959392) - [Setting up your spare Mac for Claude Code to control, a step-by-step guide](https://ykdojo.github.io/claude-controls-mac/)
 * [2026-07-18, 16:08:38](https://news.ycombinator.com/item?id=48959355) - [Fake food delivery site for the dopamine](https://old.reddit.com/r/BingeEatingDisorder/comments/1uzr3ui/fake_food_delivery_site_for_the_dopamine/)
@@ -20,16 +22,14 @@
 * [2026-07-18, 08:50:07](https://news.ycombinator.com/item?id=48956307) - [Qubes OS Security in the Public Record](https://arxiv.org/abs/2607.14587)
 * [2026-07-18, 08:33:31](https://news.ycombinator.com/item?id=48956231) - [The Computer at the Bottom of a Canal](https://negroniventurestudios.com/2026/07/18/the-computer-at-the-bottom-of-a-canal/)
 * [2026-07-18, 03:14:20](https://news.ycombinator.com/item?id=48954851) - [Regressive JPEGs](https://maurycyz.com/projects/bad_jpeg/)
-* [2026-07-17, 21:42:43](https://news.ycombinator.com/item?id=48952565) - [TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years](https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md)
 * [2026-07-17, 20:10:02](https://news.ycombinator.com/item?id=48951756) - [Tech note: making your own V-I plots at home](https://lcamtuf.substack.com/p/tech-note-making-your-own-v-i-plots)
-* [2026-07-17, 19:41:02](https://news.ycombinator.com/item?id=48951461) - [The Zilog Z80 has turned 50](https://goliath32.com/blog/z80.html)
-* [2026-07-17, 17:45:41](https://news.ycombinator.com/item?id=48950122) - [Learning a few things about running SQLite](https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/)
 * [2026-07-17, 16:57:27](https://news.ycombinator.com/item?id=48949551) - [Thanks HN for 15 years of support and helping me find my life's work](https://news.ycombinator.com/item?id=48949551)
 * [2026-07-17, 14:06:13](https://news.ycombinator.com/item?id=48947560) - [First atmosphere found on Earth-like planet in habitable zone of distant star](https://www.bbc.com/news/articles/cy4kdd1e0ejo)
 * [2026-07-15, 20:25:41](https://news.ycombinator.com/item?id=48926594) - [GTX 1080s: Testing a Legend](https://www.lttlabs.com/articles/2026/07/15/gtx-1080s-revisiting-legends)
 * [2026-07-15, 03:46:35](https://news.ycombinator.com/item?id=48916044) - [Is this the end of the once-mighty GoPro?](https://amateurphotographer.com/latest/photo-news/going-going-gone-is-this-the-end-of-the-once-mighty-gopro/)
 * [2026-07-14, 14:02:36](https://news.ycombinator.com/item?id=48907063) - [Reviving a 15-year-old netbook with Arch Linux](https://parksb.github.io/en/article/41.html)
 * [2026-07-13, 17:13:22](https://news.ycombinator.com/item?id=48895763) - [A Second-Grade Teacher Revived a Beloved Video Game](https://www.nytimes.com/2026/07/13/style/backyard-baseball-video-game-teacher.html)
+* [2026-07-09, 20:47:09](https://news.ycombinator.com/item?id=48852151) - [How GitHub gave every repository a durable owner](https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/)
 
 ## [Archives](archives/index.md)
 

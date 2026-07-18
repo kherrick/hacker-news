@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-07-18](index.md)
 
+* [2026-07-18, 18:13:05](https://news.ycombinator.com/item?id=48960607) - [REO Trucks I4 4WD Pickup Truck Starts at $21,500](https://reotrucks.com)
 * [2026-07-18, 18:06:23](https://news.ycombinator.com/item?id=48960551) - [Show HN: Get alerts for good seats at 70mm IMAX showings of The Odyssey](https://imaxxing.io/)
+* [2026-07-18, 17:32:40](https://news.ycombinator.com/item?id=48960218) - [The Kimi K3 Moment](https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/)
 * [2026-07-18, 17:27:24](https://news.ycombinator.com/item?id=48960155) - [Goodbye, and Thanks for All the Bikesheds](https://queue.acm.org/detail.cfm?id=3818307)
 * [2026-07-18, 16:31:42](https://news.ycombinator.com/item?id=48959575) - [Heresy](https://paulgraham.com/heresy.html)
 * [2026-07-18, 16:20:35](https://news.ycombinator.com/item?id=48959473) - [Young adults are poor despite every metric which suggests otherwise](https://xcancel.com/i/article/2077113148524417439)
