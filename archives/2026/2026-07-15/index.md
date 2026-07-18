@@ -27,6 +27,7 @@
 * [2026-07-15, 18:12:45](https://news.ycombinator.com/item?id=48924912) - [Inkling: Our Open-Weights Model](https://thinkingmachines.ai/news/introducing-inkling/)
 * [2026-07-15, 18:08:40](https://news.ycombinator.com/item?id=48924855) - [Show HN: Tarit – a hypervisor which is 2x faster than firecracker](https://github.com/instavm/tarit)
 * [2026-07-15, 17:10:15](https://news.ycombinator.com/item?id=48923984) - [US Debt Clock Live](https://www.us-debt-clock.com/)
+* [2026-07-15, 17:06:43](https://news.ycombinator.com/item?id=48923929) - [Funny item co-occurrences in 3.2M Instacart orders](https://rogerdickey.com/funny-item-co-occurrences-in-3-million-instacart-orders/)
 * [2026-07-15, 17:01:02](https://news.ycombinator.com/item?id=48923833) - [Artie (YC S23) Is Hiring Software Engineers](https://jobs.ashbyhq.com/artie)
 * [2026-07-15, 16:35:38](https://news.ycombinator.com/item?id=48923420) - [Primate Is the Last Great Web Framework](https://superarch.org/theanswerisc/primate-is-the-last-great-framework.html)
 * [2026-07-15, 16:35:09](https://news.ycombinator.com/item?id=48923412) - [A General Goal-Conditioned Minecraft Model](https://pantograph.com/journal/pan-1)
