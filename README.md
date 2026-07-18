@@ -16,6 +16,7 @@
 * [2026-07-17, 21:42:43](https://news.ycombinator.com/item?id=48952565) - [TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years](https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md)
 * [2026-07-17, 20:47:57](https://news.ycombinator.com/item?id=48952135) - [Open Book Touch: open-source e-reader](https://www.crowdsupply.com/oddly-specific-objects/open-book-touch)
 * [2026-07-17, 20:24:55](https://news.ycombinator.com/item?id=48951898) - [Static search trees: 40x faster than binary search (2024)](https://curiouscoding.nl/posts/static-search-tree/)
+* [2026-07-17, 20:10:02](https://news.ycombinator.com/item?id=48951756) - [Tech note: making your own V-I plots at home](https://lcamtuf.substack.com/p/tech-note-making-your-own-v-i-plots)
 * [2026-07-17, 19:41:02](https://news.ycombinator.com/item?id=48951461) - [The Zilog Z80 has turned 50](https://goliath32.com/blog/z80.html)
 * [2026-07-17, 17:45:41](https://news.ycombinator.com/item?id=48950122) - [Learning a few things about running SQLite](https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/)
 * [2026-07-17, 16:57:27](https://news.ycombinator.com/item?id=48949551) - [Thanks HN for 15 years of support and helping me find my life's work](https://news.ycombinator.com/item?id=48949551)
@@ -23,13 +24,12 @@
 * [2026-07-17, 14:06:13](https://news.ycombinator.com/item?id=48947560) - [First atmosphere found on Earth-like planet in habitable zone of distant star](https://www.bbc.com/news/articles/cy4kdd1e0ejo)
 * [2026-07-17, 09:42:05](https://news.ycombinator.com/item?id=48945241) - [AWS: Inaccurate Estimated Billing Data – $1.7 billion](https://news.ycombinator.com/item?id=48945241)
 * [2026-07-17, 02:00:38](https://news.ycombinator.com/item?id=48942603) - [In-toto: A framework to secure the integrity of software supply chains](https://in-toto.io/)
-* [2026-07-16, 22:48:44](https://news.ycombinator.com/item?id=48941315) - [Battery packs: Let's talk about crates, baby](https://smallcultfollowing.com/babysteps/blog/2026/07/15/battery-packs/)
-* [2026-07-15, 03:46:35](https://news.ycombinator.com/item?id=48916044) - [Is this the end of the once-mighty GoPro?](https://amateurphotographer.com/latest/photo-news/going-going-gone-is-this-the-end-of-the-once-mighty-gopro/)
 * [2026-07-14, 14:02:36](https://news.ycombinator.com/item?id=48907063) - [Reviving a 15-year-old netbook with Arch Linux](https://parksb.github.io/en/article/41.html)
 * [2026-07-14, 12:59:58](https://news.ycombinator.com/item?id=48906171) - [An Update on Igalia's Layer Based SVG Engine in WebKit (Reducing Layer Overhead)](https://blogs.igalia.com/nzimmermann/posts/2026-07-14-lbse-conditional-layers/)
 * [2026-07-13, 17:43:26](https://news.ycombinator.com/item?id=48896149) - [Vāgdhenu: A Sanskrit Chanting TTS System](https://prathosh.in/vagdhenu/)
 * [2026-07-13, 14:15:14](https://news.ycombinator.com/item?id=48893081) - [Revisiting Yliluoma's ordered dither algorithm](https://30fps.net/pages/revisiting-yliluoma-2/)
 * [2026-07-12, 11:26:46](https://news.ycombinator.com/item?id=48880258) - [Waldi: A quiet place to write, and to be read](https://github.com/waaldev/waldi)
+* [2026-07-11, 10:52:02](https://news.ycombinator.com/item?id=48870816) - [Engineering Peace](https://asteriskmag.com/issues/14/engineering-peace)
 
 ## [Archives](archives/index.md)
 

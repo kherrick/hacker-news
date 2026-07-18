@@ -63,6 +63,7 @@
 * [2026-07-11, 12:12:34](https://news.ycombinator.com/item?id=48871367) - [FCC approves test of space mirror to light night sky](https://theconversation.com/the-u-s-just-approved-a-giant-space-mirror-to-test-sunlight-on-demand-low-earth-orbit-is-getting-weird-283482)
 * [2026-07-11, 12:12:34](https://news.ycombinator.com/item?id=48871367) - [FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry](https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html)
 * [2026-07-11, 11:19:45](https://news.ycombinator.com/item?id=48871001) - [World-War-Ⅱ-era telephone line still in use in Upper Tanana Valley Alaska (2021)](https://www.sketchesofalaska.com/2021/03/world-war-ii-era-telephone-line-still.html)
+* [2026-07-11, 10:52:02](https://news.ycombinator.com/item?id=48870816) - [Engineering Peace](https://asteriskmag.com/issues/14/engineering-peace)
 * [2026-07-11, 10:50:10](https://news.ycombinator.com/item?id=48870799) - [Your code is fast – if you're lucky](https://tiki.li/blog/lucky_code.html)
 * [2026-07-11, 09:54:14](https://news.ycombinator.com/item?id=48870472) - [Show HN: Richest people in the world by wealth creation instead of ownership](https://anti-forbes-list.vercel.app)
 * [2026-07-11, 09:36:53](https://news.ycombinator.com/item?id=48870381) - [A font that humans can read but AI cannot](https://www.mixfont.com/ghost-font)
