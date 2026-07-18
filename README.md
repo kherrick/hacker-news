@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-18, 23:24:26](https://news.ycombinator.com/item?id=48963465) - [Codex Resets](https://codex-resets.com/)
 * [2026-07-18, 22:19:37](https://news.ycombinator.com/item?id=48963019) - [Gap in Mochizuki's proof of ABC confirmed by Lean](https://twitter.com/FumiharuKato/status/2078017230537892207)
 * [2026-07-18, 22:13:39](https://news.ycombinator.com/item?id=48962983) - [Mayor Mamdani Says Landlords Can't Use AI Images to Advertise](https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/)
 * [2026-07-18, 22:09:07](https://news.ycombinator.com/item?id=48962944) - [Real-Time LuaTeX: Recompiling Large Documents in 1ms [pdf]](https://www.tug.org/tug2026/preprints/lode-realtime.pdf)
@@ -20,8 +21,6 @@
 * [2026-07-18, 11:12:46](https://news.ycombinator.com/item?id=48956949) - [What AI did to stackoverflow in a graph](https://data.stackexchange.com/stackoverflow/query/1953768#graph)
 * [2026-07-18, 11:00:29](https://news.ycombinator.com/item?id=48956879) - [Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?](https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/)
 * [2026-07-18, 10:21:19](https://news.ycombinator.com/item?id=48956688) - [LG monitors silently install software through Windows Update without consent](https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent)
-* [2026-07-18, 08:33:31](https://news.ycombinator.com/item?id=48956231) - [The Computer at the Bottom of a Canal](https://negroniventurestudios.com/2026/07/18/the-computer-at-the-bottom-of-a-canal/)
-* [2026-07-18, 03:14:20](https://news.ycombinator.com/item?id=48954851) - [Regressive JPEGs](https://maurycyz.com/projects/bad_jpeg/)
 * [2026-07-17, 20:10:02](https://news.ycombinator.com/item?id=48951756) - [Tech note: making your own V-I plots at home](https://lcamtuf.substack.com/p/tech-note-making-your-own-v-i-plots)
 * [2026-07-15, 20:25:41](https://news.ycombinator.com/item?id=48926594) - [GTX 1080s: Testing a Legend](https://www.lttlabs.com/articles/2026/07/15/gtx-1080s-revisiting-legends)
 * [2026-07-15, 03:46:35](https://news.ycombinator.com/item?id=48916044) - [Is this the end of the once-mighty GoPro?](https://amateurphotographer.com/latest/photo-news/going-going-gone-is-this-the-end-of-the-once-mighty-gopro/)
@@ -29,6 +28,7 @@
 * [2026-07-14, 19:25:10](https://news.ycombinator.com/item?id=48911793) - [Speech Recognition and TTS in less than 500kb](https://github.com/moonshine-ai/moonshine/tree/main/micro)
 * [2026-07-13, 17:13:22](https://news.ycombinator.com/item?id=48895763) - [A Second-Grade Teacher Revived a Beloved Video Game](https://www.nytimes.com/2026/07/13/style/backyard-baseball-video-game-teacher.html)
 * [2026-07-13, 13:00:35](https://news.ycombinator.com/item?id=48892021) - [I'm Making Strandfall, a Solarpunk Orienteering Larp](https://mssv.net/2026/04/29/im-making-strandfall-a-solarpunk-orienteering-larp/)
+* [2026-07-12, 23:42:41](https://news.ycombinator.com/item?id=48886040) - [Circular Obstacle Pathfinding (2017)](https://redblobgames.github.io/circular-obstacle-pathfinding/)
 * [2026-07-09, 20:47:09](https://news.ycombinator.com/item?id=48852151) - [How GitHub gave every repository a durable owner](https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/)
 
 ## [Archives](archives/index.md)
