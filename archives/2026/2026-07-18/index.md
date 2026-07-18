@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-18](index.md)
 
+* [2026-07-18, 06:32:24](https://news.ycombinator.com/item?id=48955740) - [Show HN: Find someone in the dark – light them or light yourself? (Three.js)](https://github.com/skorotkiewicz/signal-in-the-dark)
 * [2026-07-18, 04:13:00](https://news.ycombinator.com/item?id=48955159) - [Mac gaming is finally getting the overpowered upgrade it deserves](https://www.macworld.com/article/3189951/apples-latest-game-porting-toolkit-beta-changed-how-i-think-about-mac-gaming.html)
 * [2026-07-18, 03:51:42](https://news.ycombinator.com/item?id=48955042) - [Show HN: IKEA Complexity Index](https://ikea.greg.technology/)
 * [2026-07-18, 03:14:20](https://news.ycombinator.com/item?id=48954851) - [Regressive JPEGs](https://maurycyz.com/projects/bad_jpeg/)

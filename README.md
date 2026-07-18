@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-18, 06:32:24](https://news.ycombinator.com/item?id=48955740) - [Show HN: Find someone in the dark – light them or light yourself? (Three.js)](https://github.com/skorotkiewicz/signal-in-the-dark)
 * [2026-07-18, 03:51:42](https://news.ycombinator.com/item?id=48955042) - [Show HN: IKEA Complexity Index](https://ikea.greg.technology/)
 * [2026-07-18, 03:14:20](https://news.ycombinator.com/item?id=48954851) - [Regressive JPEGs](https://maurycyz.com/projects/bad_jpeg/)
 * [2026-07-18, 01:18:15](https://news.ycombinator.com/item?id=48954175) - [Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig](https://moonstone.sh/)
@@ -29,7 +30,6 @@
 * [2026-07-13, 17:43:26](https://news.ycombinator.com/item?id=48896149) - [Vāgdhenu: A Sanskrit Chanting TTS System](https://prathosh.in/vagdhenu/)
 * [2026-07-13, 02:23:19](https://news.ycombinator.com/item?id=48887102) - [Frank Lloyd Wright’s first home](https://www.architecturaldigest.com/story/frank-lloyd-wright-home-and-studio-everything-you-need-to-know)
 * [2026-07-13, 00:07:09](https://news.ycombinator.com/item?id=48886236) - [Quintile – keyboard N×M grid tiling for macOS](https://github.com/stefanopineda/quintile)
-* [2026-07-11, 18:20:49](https://news.ycombinator.com/item?id=48874347) - [Shipping OpenStrike: A Counter-Strike-Shaped FPS on a 2004 Handheld](https://pocketjs.dev/blog/shipping-openstrike/)
 
 ## [Archives](archives/index.md)
 
