@@ -77,6 +77,7 @@
 * [2026-07-13, 13:35:32](https://news.ycombinator.com/item?id=48892468) - [Grok CLI uploaded the whole home directory to GCS](https://twitter.com/i/status/2076598897779020159)
 * [2026-07-13, 13:35:32](https://news.ycombinator.com/item?id=48892468) - [Grok CLI uploaded the whole home directory to GCS](https://twitter.com/a_green_being/status/2076598897779020159)
 * [2026-07-13, 13:20:34](https://news.ycombinator.com/item?id=48892273) - [MITS: Rockets, Calculators, and Personal Computers](https://www.abortretry.fail/p/micro-instrumentation-and-telemetry)
+* [2026-07-13, 13:00:35](https://news.ycombinator.com/item?id=48892021) - [I'm Making Strandfall, a Solarpunk Orienteering Larp](https://mssv.net/2026/04/29/im-making-strandfall-a-solarpunk-orienteering-larp/)
 * [2026-07-13, 12:58:07](https://news.ycombinator.com/item?id=48891987) - [A Farewell to ARPs: IPv4 Service on IPv6-Only Networks](https://labs.ripe.net/author/remco-van-mook/a-farewell-to-arps-ipv4-service-on-ipv6-only-networks/)
 * [2026-07-13, 12:09:38](https://news.ycombinator.com/item?id=48891463) - [Leak of San Francisco Police Drone Footage Exposes Reality of Urban Surveillance](https://www.wired.com/story/sfpd-drone-video-leak-surveillance/)
 * [2026-07-13, 11:51:56](https://news.ycombinator.com/item?id=48891267) - [Show HN: DOM-docx – HTML to native, editable Word docs (MIT)](https://github.com/floodtide/dom-docx)
