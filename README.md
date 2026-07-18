@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-18, 17:27:24](https://news.ycombinator.com/item?id=48960155) - [Goodbye, and Thanks for All the Bikesheds](https://queue.acm.org/detail.cfm?id=3818307)
 * [2026-07-18, 16:12:08](https://news.ycombinator.com/item?id=48959392) - [Setting up your spare Mac for Claude Code to control, a step-by-step guide](https://ykdojo.github.io/claude-controls-mac/)
 * [2026-07-18, 16:08:38](https://news.ycombinator.com/item?id=48959355) - [Fake food delivery site for the dopamine](https://old.reddit.com/r/BingeEatingDisorder/comments/1uzr3ui/fake_food_delivery_site_for_the_dopamine/)
 * [2026-07-18, 16:03:09](https://news.ycombinator.com/item?id=48959302) - [No link between acetaminophen use during pregnancy and adverse birth outcomes](https://sph.unc.edu/sph-news/no-link-between-acetaminophen-use-during-pregnancy-and-adverse-birth-outcomes-study-finds/)
@@ -29,7 +30,6 @@
 * [2026-07-15, 03:46:35](https://news.ycombinator.com/item?id=48916044) - [Is this the end of the once-mighty GoPro?](https://amateurphotographer.com/latest/photo-news/going-going-gone-is-this-the-end-of-the-once-mighty-gopro/)
 * [2026-07-14, 14:02:36](https://news.ycombinator.com/item?id=48907063) - [Reviving a 15-year-old netbook with Arch Linux](https://parksb.github.io/en/article/41.html)
 * [2026-07-13, 17:13:22](https://news.ycombinator.com/item?id=48895763) - [A Second-Grade Teacher Revived a Beloved Video Game](https://www.nytimes.com/2026/07/13/style/backyard-baseball-video-game-teacher.html)
-* [2026-07-12, 11:26:46](https://news.ycombinator.com/item?id=48880258) - [Waldi: A quiet place to write, and to be read](https://github.com/waaldev/waldi)
 
 ## [Archives](archives/index.md)
 
