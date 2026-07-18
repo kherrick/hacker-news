@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-18, 15:44:04",
+      "https://news.ycombinator.com/item?id=48959143"
+    ],
+    [
+      "Gleam Is Now on Tangled",
+      "https://tangled.org/gleam.run/gleam"
+    ]
+  ],
+  [
+    [
+      "2026-07-18, 15:32:04",
+      "https://news.ycombinator.com/item?id=48959042"
+    ],
+    [
+      "Elixir-lang.org has a new design",
+      "https://elixir-lang.org/"
+    ]
+  ],
+  [
+    [
       "2026-07-18, 15:08:32",
       "https://news.ycombinator.com/item?id=48958814"
     ],
@@ -57,16 +77,6 @@
     [
       "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
       "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/"
-    ]
-  ],
-  [
-    [
-      "2026-07-18, 10:56:09",
-      "https://news.ycombinator.com/item?id=48956852"
-    ],
-    [
-      "Steam Machine: Between 12k and 15k Units Sold per week",
-      "https://boilingsteam.com/steam-machine-between-10k-and-15k-sold-per-week/"
     ]
   ],
   [
@@ -141,32 +151,12 @@
   ],
   [
     [
-      "2026-07-18, 00:48:37",
-      "https://news.ycombinator.com/item?id=48953981"
-    ],
-    [
-      "Stenchill: 3D Printable Solder Paste Stencil Generator",
-      "https://www.stenchill.com/en/"
-    ]
-  ],
-  [
-    [
       "2026-07-17, 21:42:43",
       "https://news.ycombinator.com/item?id=48952565"
     ],
     [
       "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
       "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md"
-    ]
-  ],
-  [
-    [
-      "2026-07-17, 20:24:55",
-      "https://news.ycombinator.com/item?id=48951898"
-    ],
-    [
-      "Static search trees: 40x faster than binary search (2024)",
-      "https://curiouscoding.nl/posts/static-search-tree/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Reviving a 15-year-old netbook with Arch Linux",
       "https://parksb.github.io/en/article/41.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-13, 14:15:14",
+      "https://news.ycombinator.com/item?id=48893081"
+    ],
+    [
+      "Revisiting Yliluoma's ordered dither algorithm",
+      "https://30fps.net/pages/revisiting-yliluoma-2/"
     ]
   ],
   [
