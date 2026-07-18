@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-18, 11:12:46",
+      "https://news.ycombinator.com/item?id=48956949"
+    ],
+    [
+      "What AI did to stackoverflow in a graph",
+      "https://data.stackexchange.com/stackoverflow/query/1953768#graph"
+    ]
+  ],
+  [
+    [
       "2026-07-18, 11:06:50",
       "https://news.ycombinator.com/item?id=48956924"
     ],
@@ -107,16 +117,6 @@
     [
       "Open Book Touch: open-source e-reader",
       "https://www.crowdsupply.com/oddly-specific-objects/open-book-touch"
-    ]
-  ],
-  [
-    [
-      "2026-07-17, 20:41:43",
-      "https://news.ycombinator.com/item?id=48952067"
-    ],
-    [
-      "Topcoat: The full full-stack framework for Rust",
-      "https://github.com/tokio-rs/topcoat"
     ]
   ],
   [
