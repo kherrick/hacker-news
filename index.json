@@ -1,12 +1,52 @@
 [
   [
     [
+      "2026-07-18, 01:18:15",
+      "https://news.ycombinator.com/item?id=48954175"
+    ],
+    [
+      "Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig",
+      "https://moonstone.sh/"
+    ]
+  ],
+  [
+    [
+      "2026-07-18, 01:12:13",
+      "https://news.ycombinator.com/item?id=48954149"
+    ],
+    [
+      "I Started a \"Dirt Notebook\"",
+      "https://pinewind.bearblog.dev/i-started-a-dirt-notebook/"
+    ]
+  ],
+  [
+    [
       "2026-07-18, 01:01:08",
       "https://news.ycombinator.com/item?id=48954074"
     ],
     [
       "DrDroid (YC W23) Is Hiring",
       "https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory"
+    ]
+  ],
+  [
+    [
+      "2026-07-18, 00:48:37",
+      "https://news.ycombinator.com/item?id=48953981"
+    ],
+    [
+      "Stenchill: 3D Printable Solder Paste Stencil Generator",
+      "https://www.stenchill.com/en/"
+    ]
+  ],
+  [
+    [
+      "2026-07-18, 00:40:08",
+      "https://news.ycombinator.com/item?id=48953924"
+    ],
+    [
+      "A grumpy screed about AI in software engineering",
+      "https://sam.sutch.net/posts/a-grumpy-ai-screed"
     ]
   ],
   [
@@ -161,16 +201,6 @@
   ],
   [
     [
-      "2026-07-17, 15:41:05",
-      "https://news.ycombinator.com/item?id=48948693"
-    ],
-    [
-      "Workspaces – Explore the workspaces of modern creators",
-      "https://workspaces.xyz/"
-    ]
-  ],
-  [
-    [
       "2026-07-17, 14:31:10",
       "https://news.ycombinator.com/item?id=48947825"
     ],
@@ -251,16 +281,6 @@
   ],
   [
     [
-      "2026-07-13, 22:35:49",
-      "https://news.ycombinator.com/item?id=48899847"
-    ],
-    [
-      "Lobste.rs is now running on SQLite",
-      "https://lobste.rs/s/ko1ji1"
-    ]
-  ],
-  [
-    [
       "2026-07-13, 17:43:26",
       "https://news.ycombinator.com/item?id=48896149"
     ],
@@ -277,26 +297,6 @@
     [
       "Frank Lloyd Wright’s first home",
       "https://www.architecturaldigest.com/story/frank-lloyd-wright-home-and-studio-everything-you-need-to-know"
-    ]
-  ],
-  [
-    [
-      "2026-07-12, 15:29:11",
-      "https://news.ycombinator.com/item?id=48881912"
-    ],
-    [
-      "Show HN: Instrumation a PYPI library for Instruments",
-      "https://github.com/abduznik/instrumation"
-    ]
-  ],
-  [
-    [
-      "2026-07-10, 17:48:53",
-      "https://news.ycombinator.com/item?id=48863036"
-    ],
-    [
-      "\"Disk Not Ejected Properly\": What It Means",
-      "https://bombich.com/blog/2026/07/07/disk-not-ejected-properly"
     ]
   ]
 ]
