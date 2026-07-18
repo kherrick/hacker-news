@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-18, 19:06:23](https://news.ycombinator.com/item?id=48961157) - [What's the deal with all the random weekly quota resets for agents lately?](https://minimaxir.com/2026/07/agent-quota-reset/)
 * [2026-07-18, 18:13:05](https://news.ycombinator.com/item?id=48960607) - [REO Trucks I4 4WD Pickup Truck Starts at $21,500](https://reotrucks.com)
 * [2026-07-18, 18:06:23](https://news.ycombinator.com/item?id=48960551) - [Show HN: Get alerts for good seats at 70mm IMAX showings of The Odyssey](https://imaxxing.io/)
 * [2026-07-18, 17:32:40](https://news.ycombinator.com/item?id=48960218) - [The Kimi K3 Moment](https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/)
@@ -24,7 +25,6 @@
 * [2026-07-18, 03:14:20](https://news.ycombinator.com/item?id=48954851) - [Regressive JPEGs](https://maurycyz.com/projects/bad_jpeg/)
 * [2026-07-17, 20:10:02](https://news.ycombinator.com/item?id=48951756) - [Tech note: making your own V-I plots at home](https://lcamtuf.substack.com/p/tech-note-making-your-own-v-i-plots)
 * [2026-07-17, 16:57:27](https://news.ycombinator.com/item?id=48949551) - [Thanks HN for 15 years of support and helping me find my life's work](https://news.ycombinator.com/item?id=48949551)
-* [2026-07-17, 14:06:13](https://news.ycombinator.com/item?id=48947560) - [First atmosphere found on Earth-like planet in habitable zone of distant star](https://www.bbc.com/news/articles/cy4kdd1e0ejo)
 * [2026-07-15, 20:25:41](https://news.ycombinator.com/item?id=48926594) - [GTX 1080s: Testing a Legend](https://www.lttlabs.com/articles/2026/07/15/gtx-1080s-revisiting-legends)
 * [2026-07-15, 03:46:35](https://news.ycombinator.com/item?id=48916044) - [Is this the end of the once-mighty GoPro?](https://amateurphotographer.com/latest/photo-news/going-going-gone-is-this-the-end-of-the-once-mighty-gopro/)
 * [2026-07-14, 14:02:36](https://news.ycombinator.com/item?id=48907063) - [Reviving a 15-year-old netbook with Arch Linux](https://parksb.github.io/en/article/41.html)
