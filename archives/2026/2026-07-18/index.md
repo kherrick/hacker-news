@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-18](index.md)
 
+* [2026-07-18, 13:00:52](https://news.ycombinator.com/item?id=48957779) - [GPT-5.6 used a prompt to close a 30-year gap in convex optimization](https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/)
 * [2026-07-18, 11:12:46](https://news.ycombinator.com/item?id=48956949) - [What AI did to stackoverflow in a graph](https://data.stackexchange.com/stackoverflow/query/1953768#graph)
 * [2026-07-18, 11:06:50](https://news.ycombinator.com/item?id=48956924) - [Why do AI company logos look like buttholes?](https://velvetshark.com/ai-company-logos-that-look-like-buttholes)
 * [2026-07-18, 11:00:29](https://news.ycombinator.com/item?id=48956879) - [Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?](https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/)
