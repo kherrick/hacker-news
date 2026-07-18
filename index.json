@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2026-07-18, 01:18:15",
-      "https://news.ycombinator.com/item?id=48954175"
-    ],
-    [
-      "Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig",
-      "https://moonstone.sh/"
-    ]
-  ],
-  [
-    [
       "2026-07-18, 01:12:13",
       "https://news.ycombinator.com/item?id=48954149"
     ],
@@ -107,6 +97,16 @@
     [
       "Open Book Touch: open-source e-reader",
       "https://www.crowdsupply.com/oddly-specific-objects/open-book-touch"
+    ]
+  ],
+  [
+    [
+      "2026-07-17, 20:41:43",
+      "https://news.ycombinator.com/item?id=48952067"
+    ],
+    [
+      "Topcoat: The full full-stack framework for Rust",
+      "https://github.com/tokio-rs/topcoat"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-07-13, 00:07:09",
-      "https://news.ycombinator.com/item?id=48886236"
+      "2026-07-12, 11:26:46",
+      "https://news.ycombinator.com/item?id=48880258"
     ],
     [
-      "Quintile – keyboard N×M grid tiling for macOS",
-      "https://github.com/stefanopineda/quintile"
+      "Waldi: A quiet place to write, and to be read",
+      "https://github.com/waaldev/waldi"
     ]
   ]
 ]
