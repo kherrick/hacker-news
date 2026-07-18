@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-18, 15:08:32](https://news.ycombinator.com/item?id=48958814) - [British runner Josh Kerr breaks world record for mile which stood for 27 years](https://news.sky.com/story/british-runner-josh-kerr-breaks-world-record-for-mile-which-had-stood-for-27-years-13564688)
 * [2026-07-18, 14:04:55](https://news.ycombinator.com/item?id=48958273) - [LG ThinQ Terms of Use](https://news.ycombinator.com/item?id=48958273)
 * [2026-07-18, 14:04:42](https://news.ycombinator.com/item?id=48958269) - [EU ban on destruction of unsold clothes and shoes enters into application](https://environment.ec.europa.eu/news/ban-destruction-unsold-clothes-and-shoes-enters-application-2026-07-17_en)
 * [2026-07-18, 13:00:52](https://news.ycombinator.com/item?id=48957779) - [GPT-5.6 used a prompt to close a 30-year gap in convex optimization](https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/)
@@ -24,12 +25,11 @@
 * [2026-07-17, 14:06:13](https://news.ycombinator.com/item?id=48947560) - [First atmosphere found on Earth-like planet in habitable zone of distant star](https://www.bbc.com/news/articles/cy4kdd1e0ejo)
 * [2026-07-17, 09:42:05](https://news.ycombinator.com/item?id=48945241) - [AWS: Inaccurate Estimated Billing Data – $1.7 billion](https://news.ycombinator.com/item?id=48945241)
 * [2026-07-17, 02:00:38](https://news.ycombinator.com/item?id=48942603) - [In-toto: A framework to secure the integrity of software supply chains](https://in-toto.io/)
+* [2026-07-16, 06:05:16](https://news.ycombinator.com/item?id=48930871) - [Roko's Dancing Basilisk](https://boston.conman.org/2025/12/02.1)
 * [2026-07-15, 17:06:43](https://news.ycombinator.com/item?id=48923929) - [Funny item co-occurrences in 3.2M Instacart orders](https://rogerdickey.com/funny-item-co-occurrences-in-3-million-instacart-orders/)
 * [2026-07-15, 03:46:35](https://news.ycombinator.com/item?id=48916044) - [Is this the end of the once-mighty GoPro?](https://amateurphotographer.com/latest/photo-news/going-going-gone-is-this-the-end-of-the-once-mighty-gopro/)
 * [2026-07-14, 14:02:36](https://news.ycombinator.com/item?id=48907063) - [Reviving a 15-year-old netbook with Arch Linux](https://parksb.github.io/en/article/41.html)
-* [2026-07-13, 14:15:14](https://news.ycombinator.com/item?id=48893081) - [Revisiting Yliluoma's ordered dither algorithm](https://30fps.net/pages/revisiting-yliluoma-2/)
 * [2026-07-12, 11:26:46](https://news.ycombinator.com/item?id=48880258) - [Waldi: A quiet place to write, and to be read](https://github.com/waaldev/waldi)
-* [2026-07-11, 10:52:02](https://news.ycombinator.com/item?id=48870816) - [Engineering Peace](https://asteriskmag.com/issues/14/engineering-peace)
 
 ## [Archives](archives/index.md)
 

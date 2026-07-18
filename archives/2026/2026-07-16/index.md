@@ -77,6 +77,7 @@
 * [2026-07-16, 10:37:17](https://news.ycombinator.com/item?id=48932697) - [Ente – Opening Our Books](https://ente.com/open/)
 * [2026-07-16, 10:14:04](https://news.ycombinator.com/item?id=48932539) - [OnePlus halts operations in USA and Europe](https://community.oneplus.com/thread/2170715118587871237)
 * [2026-07-16, 08:03:35](https://news.ycombinator.com/item?id=48931588) - [Where are YC founders now? OpenAI and Anthropic, mostly](https://joinedanthropic.com)
+* [2026-07-16, 06:05:16](https://news.ycombinator.com/item?id=48930871) - [Roko's Dancing Basilisk](https://boston.conman.org/2025/12/02.1)
 * [2026-07-16, 05:33:50](https://news.ycombinator.com/item?id=48930713) - [DJB Netstrings (1997)](https://cr.yp.to/proto/netstrings.txt)
 * [2026-07-16, 04:46:21](https://news.ycombinator.com/item?id=48930454) - [The lost joy of music piracy](https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming)
 * [2026-07-16, 04:36:07](https://news.ycombinator.com/item?id=48930397) - [Reynard: A real Firefox web browser for iOS 13 or later](https://github.com/minh-ton/reynard-browser)
