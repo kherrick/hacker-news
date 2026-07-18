@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-07-18, 19:06:23](https://news.ycombinator.com/item?id=48961157) - [What's the deal with all the random weekly quota resets for agents lately?](https://minimaxir.com/2026/07/agent-quota-reset/)
+* [2026-07-18, 19:38:21](https://news.ycombinator.com/item?id=48961504) - [Typing Speed Test, but for Developers](https://haxxorwpm.0s.is/)
 * [2026-07-18, 18:13:05](https://news.ycombinator.com/item?id=48960607) - [REO Trucks I4 4WD Pickup Truck Starts at $21,500](https://reotrucks.com)
 * [2026-07-18, 18:06:23](https://news.ycombinator.com/item?id=48960551) - [Show HN: Get alerts for good seats at 70mm IMAX showings of The Odyssey](https://imaxxing.io/)
 * [2026-07-18, 17:32:40](https://news.ycombinator.com/item?id=48960218) - [The Kimi K3 Moment](https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/)
@@ -13,7 +13,6 @@
 * [2026-07-18, 15:37:01](https://news.ycombinator.com/item?id=48959090) - [If You Build It, They Will Come](https://www.benlandautaylor.com/p/if-you-build-it-they-will-come)
 * [2026-07-18, 15:32:04](https://news.ycombinator.com/item?id=48959042) - [Elixir-lang.org has a new design](https://elixir-lang.org/)
 * [2026-07-18, 15:12:40](https://news.ycombinator.com/item?id=48958854) - [Show HN: Q3Edit – Edit and play Quake 3 maps in the browser](https://q3edit.com)
-* [2026-07-18, 15:08:32](https://news.ycombinator.com/item?id=48958814) - [British runner Josh Kerr breaks world record for mile which stood for 27 years](https://news.sky.com/story/british-runner-josh-kerr-breaks-world-record-for-mile-which-had-stood-for-27-years-13564688)
 * [2026-07-18, 14:04:42](https://news.ycombinator.com/item?id=48958269) - [EU ban on destruction of unsold clothes and shoes enters into application](https://environment.ec.europa.eu/news/ban-destruction-unsold-clothes-and-shoes-enters-application-2026-07-17_en)
 * [2026-07-18, 13:00:52](https://news.ycombinator.com/item?id=48957779) - [GPT-5.6 used a prompt to close a 30-year gap in convex optimization](https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/)
 * [2026-07-18, 11:12:46](https://news.ycombinator.com/item?id=48956949) - [What AI did to stackoverflow in a graph](https://data.stackexchange.com/stackoverflow/query/1953768#graph)
@@ -23,6 +22,7 @@
 * [2026-07-18, 08:33:31](https://news.ycombinator.com/item?id=48956231) - [The Computer at the Bottom of a Canal](https://negroniventurestudios.com/2026/07/18/the-computer-at-the-bottom-of-a-canal/)
 * [2026-07-18, 03:14:20](https://news.ycombinator.com/item?id=48954851) - [Regressive JPEGs](https://maurycyz.com/projects/bad_jpeg/)
 * [2026-07-17, 20:10:02](https://news.ycombinator.com/item?id=48951756) - [Tech note: making your own V-I plots at home](https://lcamtuf.substack.com/p/tech-note-making-your-own-v-i-plots)
+* [2026-07-17, 19:41:02](https://news.ycombinator.com/item?id=48951461) - [The Zilog Z80 has turned 50](https://goliath32.com/blog/z80.html)
 * [2026-07-17, 16:57:27](https://news.ycombinator.com/item?id=48949551) - [Thanks HN for 15 years of support and helping me find my life's work](https://news.ycombinator.com/item?id=48949551)
 * [2026-07-15, 20:25:41](https://news.ycombinator.com/item?id=48926594) - [GTX 1080s: Testing a Legend](https://www.lttlabs.com/articles/2026/07/15/gtx-1080s-revisiting-legends)
 * [2026-07-15, 03:46:35](https://news.ycombinator.com/item?id=48916044) - [Is this the end of the once-mighty GoPro?](https://amateurphotographer.com/latest/photo-news/going-going-gone-is-this-the-end-of-the-once-mighty-gopro/)

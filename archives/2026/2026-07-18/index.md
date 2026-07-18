@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-18](index.md)
 
+* [2026-07-18, 19:38:21](https://news.ycombinator.com/item?id=48961504) - [Typing Speed Test, but for Developers](https://haxxorwpm.0s.is/)
 * [2026-07-18, 19:06:23](https://news.ycombinator.com/item?id=48961157) - [What's the deal with all the random weekly quota resets for agents lately?](https://minimaxir.com/2026/07/agent-quota-reset/)
 * [2026-07-18, 18:13:05](https://news.ycombinator.com/item?id=48960607) - [REO Trucks I4 4WD Pickup Truck Starts at $21,500](https://reotrucks.com)
 * [2026-07-18, 18:06:23](https://news.ycombinator.com/item?id=48960551) - [Show HN: Get alerts for good seats at 70mm IMAX showings of The Odyssey](https://imaxxing.io/)
