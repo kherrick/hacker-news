@@ -9,6 +9,7 @@
 * [2026-07-18, 16:12:08](https://news.ycombinator.com/item?id=48959392) - [Setting up your spare Mac for Claude Code to control, a step-by-step guide](https://ykdojo.github.io/claude-controls-mac/)
 * [2026-07-18, 16:08:38](https://news.ycombinator.com/item?id=48959355) - [Fake food delivery site for the dopamine](https://old.reddit.com/r/BingeEatingDisorder/comments/1uzr3ui/fake_food_delivery_site_for_the_dopamine/)
 * [2026-07-18, 16:04:33](https://news.ycombinator.com/item?id=48959314) - [Frozen 2 should be Rated R](https://interconnected.org/home/2026/07/17/frozen)
+* [2026-07-18, 16:03:09](https://news.ycombinator.com/item?id=48959302) - [No link between acetaminophen use during pregnancy and adverse birth outcomes](https://sph.unc.edu/sph-news/no-link-between-acetaminophen-use-during-pregnancy-and-adverse-birth-outcomes-study-finds/)
 * [2026-07-18, 16:02:45](https://news.ycombinator.com/item?id=48959297) - [Our Approach to Bioresilience: Isomorphic Labs and Google DeepMind](https://deepmind.google/blog/our-approach-to-bioresilience/)
 * [2026-07-18, 15:44:04](https://news.ycombinator.com/item?id=48959143) - [Gleam Is Now on Tangled](https://tangled.org/gleam.run/gleam)
 * [2026-07-18, 15:38:36](https://news.ycombinator.com/item?id=48959102) - [The Fermi Paradox, Percolation, and Inbreeding](https://reactormag.com/the-fermi-paradox-percolation-and-inbreeding/)
