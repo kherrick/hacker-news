@@ -1,6 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-18, 01:18:15](https://news.ycombinator.com/item?id=48954175) - [Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig](https://moonstone.sh/)
+* [2026-07-18, 01:12:13](https://news.ycombinator.com/item?id=48954149) - [I Started a \"Dirt Notebook\"](https://pinewind.bearblog.dev/i-started-a-dirt-notebook/)
 * [2026-07-18, 01:01:08](https://news.ycombinator.com/item?id=48954074) - [DrDroid (YC W23) Is Hiring](https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory)
+* [2026-07-18, 00:48:37](https://news.ycombinator.com/item?id=48953981) - [Stenchill: 3D Printable Solder Paste Stencil Generator](https://www.stenchill.com/en/)
+* [2026-07-18, 00:40:08](https://news.ycombinator.com/item?id=48953924) - [A grumpy screed about AI in software engineering](https://sam.sutch.net/posts/a-grumpy-ai-screed)
 * [2026-07-17, 23:26:35](https://news.ycombinator.com/item?id=48953406) - [The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold](https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier)
 * [2026-07-17, 22:35:55](https://news.ycombinator.com/item?id=48952939) - [Texas wins court order to suspend domain name for violating age-verification law](https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and)
 * [2026-07-17, 22:26:30](https://news.ycombinator.com/item?id=48952880) - [Kaiser nurses say AI, workplace surveillance are making their jobs, care worse](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/)
@@ -16,7 +20,6 @@
 * [2026-07-17, 17:45:41](https://news.ycombinator.com/item?id=48950122) - [Learning a few things about running SQLite](https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/)
 * [2026-07-17, 16:57:27](https://news.ycombinator.com/item?id=48949551) - [Thanks HN for 15 years of support and helping me find my life's work](https://news.ycombinator.com/item?id=48949551)
 * [2026-07-17, 16:24:13](https://news.ycombinator.com/item?id=48949184) - [Designing emoji for the way we communicate today](https://blog.google/products-and-platforms/platforms/android/world-emoji-day-noto-3d/)
-* [2026-07-17, 15:41:05](https://news.ycombinator.com/item?id=48948693) - [Workspaces – Explore the workspaces of modern creators](https://workspaces.xyz/)
 * [2026-07-17, 14:31:10](https://news.ycombinator.com/item?id=48947825) - [The state of open source AI](https://stateofopensource.ai/)
 * [2026-07-17, 14:21:51](https://news.ycombinator.com/item?id=48947717) - [Kimi K3, and what we can still learn from the pelican benchmark](https://simonwillison.net/2026/Jul/16/kimi-k3/)
 * [2026-07-17, 14:06:13](https://news.ycombinator.com/item?id=48947560) - [First atmosphere found on Earth-like planet in habitable zone of distant star](https://www.bbc.com/news/articles/cy4kdd1e0ejo)
@@ -25,11 +28,8 @@
 * [2026-07-17, 13:32:11](https://news.ycombinator.com/item?id=48947201) - [More Bounce to the Ounce](https://mceglowski.substack.com/p/more-bounce-to-the-ounce)
 * [2026-07-17, 09:42:05](https://news.ycombinator.com/item?id=48945241) - [AWS: Inaccurate Estimated Billing Data – $1.7 billion](https://news.ycombinator.com/item?id=48945241)
 * [2026-07-14, 17:53:06](https://news.ycombinator.com/item?id=48910579) - [MoonBASIC: A modern BASIC for building 2D and 3D games](https://github.com/CharmingBlaze/moonbasic)
-* [2026-07-13, 22:35:49](https://news.ycombinator.com/item?id=48899847) - [Lobste.rs is now running on SQLite](https://lobste.rs/s/ko1ji1)
 * [2026-07-13, 17:43:26](https://news.ycombinator.com/item?id=48896149) - [Vāgdhenu: A Sanskrit Chanting TTS System](https://prathosh.in/vagdhenu/)
 * [2026-07-13, 02:23:19](https://news.ycombinator.com/item?id=48887102) - [Frank Lloyd Wright’s first home](https://www.architecturaldigest.com/story/frank-lloyd-wright-home-and-studio-everything-you-need-to-know)
-* [2026-07-12, 15:29:11](https://news.ycombinator.com/item?id=48881912) - [Show HN: Instrumation a PYPI library for Instruments](https://github.com/abduznik/instrumation)
-* [2026-07-10, 17:48:53](https://news.ycombinator.com/item?id=48863036) - [\"Disk Not Ejected Properly\": What It Means](https://bombich.com/blog/2026/07/07/disk-not-ejected-properly)
 
 ## [Archives](archives/index.md)
 
