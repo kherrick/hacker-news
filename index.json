@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-07-18, 22:13:39",
+      "https://news.ycombinator.com/item?id=48962983"
+    ],
+    [
+      "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+      "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/"
+    ]
+  ],
+  [
+    [
+      "2026-07-18, 22:02:31",
+      "https://news.ycombinator.com/item?id=48962893"
+    ],
+    [
+      "Judge a book by its first pages",
+      "https://uncovered.ink"
+    ]
+  ],
+  [
+    [
+      "2026-07-18, 21:45:12",
+      "https://news.ycombinator.com/item?id=48962758"
+    ],
+    [
+      "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day",
+      "https://www.neatnik.net/hardcore-indieweb"
+    ]
+  ],
+  [
+    [
+      "2026-07-18, 21:09:01",
+      "https://news.ycombinator.com/item?id=48962429"
+    ],
+    [
+      "Co-evolution of self-replication and function in a digital primordial soup",
+      "https://arxiv.org/abs/2607.09211"
+    ]
+  ],
+  [
+    [
+      "2026-07-18, 21:06:49",
+      "https://news.ycombinator.com/item?id=48962405"
+    ],
+    [
+      "Ada: An AI business intelligence software from CSV and Excel(yes LLMs but more)",
+      "https://github.com/saineshnakra/automated-data-analyst"
+    ]
+  ],
+  [
+    [
       "2026-07-18, 20:13:56",
       "https://news.ycombinator.com/item?id=48961864"
     ],
@@ -51,16 +101,6 @@
   ],
   [
     [
-      "2026-07-18, 16:08:38",
-      "https://news.ycombinator.com/item?id=48959355"
-    ],
-    [
-      "Fake food delivery site for the dopamine",
-      "https://old.reddit.com/r/BingeEatingDisorder/comments/1uzr3ui/fake_food_delivery_site_for_the_dopamine/"
-    ]
-  ],
-  [
-    [
       "2026-07-18, 16:02:45",
       "https://news.ycombinator.com/item?id=48959297"
     ],
@@ -77,16 +117,6 @@
     [
       "Gleam Is Now on Tangled",
       "https://tangled.org/gleam.run/gleam"
-    ]
-  ],
-  [
-    [
-      "2026-07-18, 15:38:36",
-      "https://news.ycombinator.com/item?id=48959102"
-    ],
-    [
-      "The Fermi Paradox, Percolation, and Inbreeding",
-      "https://reactormag.com/the-fermi-paradox-percolation-and-inbreeding/"
     ]
   ],
   [
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2026-07-18, 08:50:07",
-      "https://news.ycombinator.com/item?id=48956307"
-    ],
-    [
-      "Qubes OS Security in the Public Record",
-      "https://arxiv.org/abs/2607.14587"
-    ]
-  ],
-  [
-    [
       "2026-07-18, 08:33:31",
       "https://news.ycombinator.com/item?id=48956231"
     ],
@@ -191,32 +211,12 @@
   ],
   [
     [
-      "2026-07-17, 21:42:43",
-      "https://news.ycombinator.com/item?id=48952565"
-    ],
-    [
-      "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
-      "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md"
-    ]
-  ],
-  [
-    [
       "2026-07-17, 20:10:02",
       "https://news.ycombinator.com/item?id=48951756"
     ],
     [
       "Tech note: making your own V-I plots at home",
       "https://lcamtuf.substack.com/p/tech-note-making-your-own-v-i-plots"
-    ]
-  ],
-  [
-    [
-      "2026-07-17, 19:41:02",
-      "https://news.ycombinator.com/item?id=48951461"
-    ],
-    [
-      "The Zilog Z80 has turned 50",
-      "https://goliath32.com/blog/z80.html"
     ]
   ],
   [
@@ -241,22 +241,22 @@
   ],
   [
     [
+      "2026-07-15, 03:35:44",
+      "https://news.ycombinator.com/item?id=48915977"
+    ],
+    [
+      "From Sawdust to Paw Patrol: The Spin Master Story (With Ronnen Harary) [audio]",
+      "https://www.econtalk.org/from-sawdust-to-paw-patrol-the-spin-master-story-with-ronnen-harary/"
+    ]
+  ],
+  [
+    [
       "2026-07-14, 19:25:10",
       "https://news.ycombinator.com/item?id=48911793"
     ],
     [
       "Speech Recognition and TTS in less than 500kb",
       "https://github.com/moonshine-ai/moonshine/tree/main/micro"
-    ]
-  ],
-  [
-    [
-      "2026-07-14, 14:02:36",
-      "https://news.ycombinator.com/item?id=48907063"
-    ],
-    [
-      "Reviving a 15-year-old netbook with Arch Linux",
-      "https://parksb.github.io/en/article/41.html"
     ]
   ],
   [
