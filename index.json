@@ -1,22 +1,22 @@
 [
   [
     [
+      "2026-07-18, 22:19:37",
+      "https://news.ycombinator.com/item?id=48963019"
+    ],
+    [
+      "Gap in Mochizuki's proof of ABC confirmed by Lean",
+      "https://twitter.com/FumiharuKato/status/2078017230537892207"
+    ]
+  ],
+  [
+    [
       "2026-07-18, 22:13:39",
       "https://news.ycombinator.com/item?id=48962983"
     ],
     [
       "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
       "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/"
-    ]
-  ],
-  [
-    [
-      "2026-07-18, 22:10:54",
-      "https://news.ycombinator.com/item?id=48962963"
-    ],
-    [
-      "AI Mania Is Eviscerating Global Decision-Making",
-      "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking"
     ]
   ],
   [
@@ -67,16 +67,6 @@
     [
       "Co-evolution of self-replication and function in a digital primordial soup",
       "https://arxiv.org/abs/2607.09211"
-    ]
-  ],
-  [
-    [
-      "2026-07-18, 21:06:49",
-      "https://news.ycombinator.com/item?id=48962405"
-    ],
-    [
-      "Ada: An AI business intelligence software from CSV and Excel(yes LLMs but more)",
-      "https://github.com/saineshnakra/automated-data-analyst"
     ]
   ],
   [
@@ -211,6 +201,26 @@
   ],
   [
     [
+      "2026-07-18, 08:33:31",
+      "https://news.ycombinator.com/item?id=48956231"
+    ],
+    [
+      "The Computer at the Bottom of a Canal",
+      "https://negroniventurestudios.com/2026/07/18/the-computer-at-the-bottom-of-a-canal/"
+    ]
+  ],
+  [
+    [
+      "2026-07-18, 03:14:20",
+      "https://news.ycombinator.com/item?id=48954851"
+    ],
+    [
+      "Regressive JPEGs",
+      "https://maurycyz.com/projects/bad_jpeg/"
+    ]
+  ],
+  [
+    [
       "2026-07-17, 20:10:02",
       "https://news.ycombinator.com/item?id=48951756"
     ],
@@ -257,16 +267,6 @@
     [
       "Speech Recognition and TTS in less than 500kb",
       "https://github.com/moonshine-ai/moonshine/tree/main/micro"
-    ]
-  ],
-  [
-    [
-      "2026-07-14, 11:06:09",
-      "https://news.ycombinator.com/item?id=48904912"
-    ],
-    [
-      "Show HN: Rejourney – Open-source revenue leak prediction for web and mobile apps",
-      "https://github.com/rejourneyco/rejourney"
     ]
   ],
   [
