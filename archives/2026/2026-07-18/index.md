@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-07-18](index.md)
 
+* [2026-07-18, 16:31:42](https://news.ycombinator.com/item?id=48959575) - [Heresy](https://paulgraham.com/heresy.html)
+* [2026-07-18, 16:20:35](https://news.ycombinator.com/item?id=48959473) - [Young adults are poor despite every metric which suggests otherwise](https://xcancel.com/i/article/2077113148524417439)
 * [2026-07-18, 16:12:08](https://news.ycombinator.com/item?id=48959392) - [Setting up your spare Mac for Claude Code to control, a step-by-step guide](https://ykdojo.github.io/claude-controls-mac/)
 * [2026-07-18, 16:08:38](https://news.ycombinator.com/item?id=48959355) - [Fake food delivery site for the dopamine](https://old.reddit.com/r/BingeEatingDisorder/comments/1uzr3ui/fake_food_delivery_site_for_the_dopamine/)
 * [2026-07-18, 16:04:33](https://news.ycombinator.com/item?id=48959314) - [Frozen 2 should be Rated R](https://interconnected.org/home/2026/07/17/frozen)
 * [2026-07-18, 16:02:45](https://news.ycombinator.com/item?id=48959297) - [Our Approach to Bioresilience: Isomorphic Labs and Google DeepMind](https://deepmind.google/blog/our-approach-to-bioresilience/)
 * [2026-07-18, 15:44:04](https://news.ycombinator.com/item?id=48959143) - [Gleam Is Now on Tangled](https://tangled.org/gleam.run/gleam)
 * [2026-07-18, 15:38:36](https://news.ycombinator.com/item?id=48959102) - [The Fermi Paradox, Percolation, and Inbreeding](https://reactormag.com/the-fermi-paradox-percolation-and-inbreeding/)
+* [2026-07-18, 15:37:01](https://news.ycombinator.com/item?id=48959090) - [If You Build It, They Will Come](https://www.benlandautaylor.com/p/if-you-build-it-they-will-come)
 * [2026-07-18, 15:32:04](https://news.ycombinator.com/item?id=48959042) - [Elixir-lang.org has a new design](https://elixir-lang.org/)
 * [2026-07-18, 15:26:13](https://news.ycombinator.com/item?id=48958985) - [Traders are increasingly betting against SpaceX just weeks after IPO](https://www.ft.com/content/2b96703d-440b-46db-8d86-9fff9ecc59d5)
 * [2026-07-18, 15:12:40](https://news.ycombinator.com/item?id=48958854) - [Show HN: Q3Edit – Edit and play Quake 3 maps in the browser](https://q3edit.com)
