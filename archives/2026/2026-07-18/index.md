@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-07-18](index.md)
 
+* [2026-07-18, 22:13:39](https://news.ycombinator.com/item?id=48962983) - [Mayor Mamdani Says Landlords Can't Use AI Images to Advertise](https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/)
+* [2026-07-18, 22:02:31](https://news.ycombinator.com/item?id=48962893) - [Judge a book by its first pages](https://uncovered.ink)
+* [2026-07-18, 21:45:12](https://news.ycombinator.com/item?id=48962758) - [Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day](https://www.neatnik.net/hardcore-indieweb)
+* [2026-07-18, 21:09:01](https://news.ycombinator.com/item?id=48962429) - [Co-evolution of self-replication and function in a digital primordial soup](https://arxiv.org/abs/2607.09211)
+* [2026-07-18, 21:06:49](https://news.ycombinator.com/item?id=48962405) - [Ada: An AI business intelligence software from CSV and Excel(yes LLMs but more)](https://github.com/saineshnakra/automated-data-analyst)
 * [2026-07-18, 20:13:56](https://news.ycombinator.com/item?id=48961864) - [SpaceX and the myth of independent Wall St research](https://www.ft.com/content/ce345155-d897-4f49-b7c8-13680e3b5434)
 * [2026-07-18, 19:38:21](https://news.ycombinator.com/item?id=48961504) - [Typing Speed Test, but for Developers](https://haxxorwpm.0s.is/)
 * [2026-07-18, 19:06:23](https://news.ycombinator.com/item?id=48961157) - [What's the deal with all the random weekly quota resets for agents lately?](https://minimaxir.com/2026/07/agent-quota-reset/)

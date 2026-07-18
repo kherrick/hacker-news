@@ -91,6 +91,7 @@
 * [2026-07-15, 06:02:17](https://news.ycombinator.com/item?id=48916805) - [RISC-V Is Inevitable: State of the Union Keynote Argues](https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/)
 * [2026-07-15, 04:44:59](https://news.ycombinator.com/item?id=48916375) - [LinkedIn is a cesspool of scammers and identity theft](https://news.ycombinator.com/item?id=48916375)
 * [2026-07-15, 03:46:35](https://news.ycombinator.com/item?id=48916044) - [Is this the end of the once-mighty GoPro?](https://amateurphotographer.com/latest/photo-news/going-going-gone-is-this-the-end-of-the-once-mighty-gopro/)
+* [2026-07-15, 03:35:44](https://news.ycombinator.com/item?id=48915977) - [From Sawdust to Paw Patrol: The Spin Master Story (With Ronnen Harary) [audio]](https://www.econtalk.org/from-sawdust-to-paw-patrol-the-spin-master-story-with-ronnen-harary/)
 * [2026-07-15, 03:32:45](https://news.ycombinator.com/item?id=48915953) - [Stripe, Advent offer to buy PayPal for more than $53B](https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/)
 * [2026-07-15, 02:57:47](https://news.ycombinator.com/item?id=48915709) - [Jurassic Park computers in excruciating detail](https://fabiensanglard.net/jurrasic_park_computers/index.html)
 * [2026-07-15, 02:04:12](https://news.ycombinator.com/item?id=48915393) - [High-Bandwidth Flash offers efficient storage for model weights](https://spectrum.ieee.org/high-bandwidth-flash)
