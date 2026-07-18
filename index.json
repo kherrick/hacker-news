@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2026-07-18, 14:04:42",
-      "https://news.ycombinator.com/item?id=48958269"
-    ],
-    [
-      "EU ban on destruction of unsold clothes and shoes enters into application",
-      "https://environment.ec.europa.eu/news/ban-destruction-unsold-clothes-and-shoes-enters-application-2026-07-17_en"
-    ]
-  ],
-  [
-    [
       "2026-07-18, 13:00:52",
       "https://news.ycombinator.com/item?id=48957779"
     ],
@@ -211,6 +201,16 @@
   ],
   [
     [
+      "2026-07-17, 21:42:43",
+      "https://news.ycombinator.com/item?id=48952565"
+    ],
+    [
+      "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
+      "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md"
+    ]
+  ],
+  [
+    [
       "2026-07-17, 20:10:02",
       "https://news.ycombinator.com/item?id=48951756"
     ],
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2026-07-17, 16:57:27",
-      "https://news.ycombinator.com/item?id=48949551"
-    ],
-    [
-      "Thanks HN for 15 years of support and helping me find my life's work",
-      "https://news.ycombinator.com/item?id=48949551"
-    ]
-  ],
-  [
-    [
       "2026-07-15, 20:25:41",
       "https://news.ycombinator.com/item?id=48926594"
     ],
@@ -257,6 +247,16 @@
     [
       "Is this the end of the once-mighty GoPro?",
       "https://amateurphotographer.com/latest/photo-news/going-going-gone-is-this-the-end-of-the-once-mighty-gopro/"
+    ]
+  ],
+  [
+    [
+      "2026-07-14, 19:25:10",
+      "https://news.ycombinator.com/item?id=48911793"
+    ],
+    [
+      "Speech Recognition and TTS in less than 500kb",
+      "https://github.com/moonshine-ai/moonshine/tree/main/micro"
     ]
   ],
   [
