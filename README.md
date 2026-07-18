@@ -3,7 +3,6 @@
 * [2026-07-18, 06:32:24](https://news.ycombinator.com/item?id=48955740) - [Show HN: Find someone in the dark – light them or light yourself? (Three.js)](https://github.com/skorotkiewicz/signal-in-the-dark)
 * [2026-07-18, 03:51:42](https://news.ycombinator.com/item?id=48955042) - [Show HN: IKEA Complexity Index](https://ikea.greg.technology/)
 * [2026-07-18, 03:14:20](https://news.ycombinator.com/item?id=48954851) - [Regressive JPEGs](https://maurycyz.com/projects/bad_jpeg/)
-* [2026-07-18, 01:18:15](https://news.ycombinator.com/item?id=48954175) - [Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig](https://moonstone.sh/)
 * [2026-07-18, 01:12:13](https://news.ycombinator.com/item?id=48954149) - [I started a “dirt notebook”](https://pinewind.bearblog.dev/i-started-a-dirt-notebook/)
 * [2026-07-18, 01:01:08](https://news.ycombinator.com/item?id=48954074) - [DrDroid (YC W23) Is Hiring](https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory)
 * [2026-07-18, 00:48:37](https://news.ycombinator.com/item?id=48953981) - [Stenchill: 3D Printable Solder Paste Stencil Generator](https://www.stenchill.com/en/)
@@ -11,6 +10,7 @@
 * [2026-07-17, 22:26:30](https://news.ycombinator.com/item?id=48952880) - [Kaiser nurses say AI, surveillance are making their jobs and patient care worse](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/)
 * [2026-07-17, 21:42:43](https://news.ycombinator.com/item?id=48952565) - [TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years](https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md)
 * [2026-07-17, 20:47:57](https://news.ycombinator.com/item?id=48952135) - [Open Book Touch: open-source e-reader](https://www.crowdsupply.com/oddly-specific-objects/open-book-touch)
+* [2026-07-17, 20:41:43](https://news.ycombinator.com/item?id=48952067) - [Topcoat: The full full-stack framework for Rust](https://github.com/tokio-rs/topcoat)
 * [2026-07-17, 20:24:55](https://news.ycombinator.com/item?id=48951898) - [Static search trees: 40x faster than binary search (2024)](https://curiouscoding.nl/posts/static-search-tree/)
 * [2026-07-17, 20:12:59](https://news.ycombinator.com/item?id=48951780) - [Painting the sides of railroad rails white to reduce derailment](https://www.up.com/news/safety/Tracking-Rail-Heat-260608)
 * [2026-07-17, 19:41:02](https://news.ycombinator.com/item?id=48951461) - [The Zilog Z80 has turned 50](https://goliath32.com/blog/z80.html)
@@ -29,7 +29,7 @@
 * [2026-07-14, 12:59:58](https://news.ycombinator.com/item?id=48906171) - [An Update on Igalia's Layer Based SVG Engine in WebKit (Reducing Layer Overhead)](https://blogs.igalia.com/nzimmermann/posts/2026-07-14-lbse-conditional-layers/)
 * [2026-07-13, 17:43:26](https://news.ycombinator.com/item?id=48896149) - [Vāgdhenu: A Sanskrit Chanting TTS System](https://prathosh.in/vagdhenu/)
 * [2026-07-13, 02:23:19](https://news.ycombinator.com/item?id=48887102) - [Frank Lloyd Wright’s first home](https://www.architecturaldigest.com/story/frank-lloyd-wright-home-and-studio-everything-you-need-to-know)
-* [2026-07-13, 00:07:09](https://news.ycombinator.com/item?id=48886236) - [Quintile – keyboard N×M grid tiling for macOS](https://github.com/stefanopineda/quintile)
+* [2026-07-12, 11:26:46](https://news.ycombinator.com/item?id=48880258) - [Waldi: A quiet place to write, and to be read](https://github.com/waaldev/waldi)
 
 ## [Archives](archives/index.md)
 
