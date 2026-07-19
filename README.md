@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-19, 20:50:42](https://news.ycombinator.com/item?id=48971566) - [A new Intel Itanium (IA-64) emulator that boots Windows](https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html)
 * [2026-07-19, 20:25:58](https://news.ycombinator.com/item?id=48971418) - [Heavy TV watching associated with smaller brain structures, study finds](https://dornsife.usc.edu/news/stories/heavy-tv-watching-associated-with-smaller-brain-structures/)
 * [2026-07-19, 19:27:16](https://news.ycombinator.com/item?id=48970991) - [Modder Runs GTA III Inside GTA: San Andreas on an In-Game TV](https://videocardz.com/newz/modder-runs-gta-iii-inside-gta-san-andreas-on-an-in-game-tv)
 * [2026-07-19, 19:13:29](https://news.ycombinator.com/item?id=48970894) - [Orion Browser by Kagi](https://orionbrowser.com/)
@@ -18,7 +19,6 @@
 * [2026-07-19, 10:03:23](https://news.ycombinator.com/item?id=48966569) - [Claude Code uses Bun written in Rust now](https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/)
 * [2026-07-19, 08:44:57](https://news.ycombinator.com/item?id=48966120) - [Qwen 3.8](https://twitter.com/Alibaba_Qwen/status/2078759124914098291)
 * [2026-07-19, 07:54:39](https://news.ycombinator.com/item?id=48965850) - [OpenAI reduces Codex Model Context Size from 372k to 272k](https://github.com/openai/codex/pull/33972/files)
-* [2026-07-19, 00:59:55](https://news.ycombinator.com/item?id=48964015) - [Better and Cheaper Than IPTV](https://github.com/stupside/castor)
 * [2026-07-18, 23:24:26](https://news.ycombinator.com/item?id=48963465) - [Codex Resets](https://codex-resets.com/)
 * [2026-07-18, 21:28:38](https://news.ycombinator.com/item?id=48962600) - [UnifiedIR for Julia](https://github.com/JuliaLang/julia/pull/62334)
 * [2026-07-17, 15:50:25](https://news.ycombinator.com/item?id=48948800) - [Building an Arch Linux Aarch64 Port for Holo Core](https://www.collabora.com/news-and-blog/news-and-events/building-an-arch-linux-aarch64-port-for-holo-core.html)
