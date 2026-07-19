@@ -47,6 +47,7 @@
 * [2026-07-14, 14:40:46](https://news.ycombinator.com/item?id=48907681) - [Show HN: Low-latency local LLM runner via OpenJDK Panama FFM (Java 22)](https://github.com/projectargus-cc/libargus.cc)
 * [2026-07-14, 14:39:56](https://news.ycombinator.com/item?id=48907672) - [The Agentic Loop: Three loops in a trench coat](https://www.bobbytables.io/p/the-agentic-loop-three-loops-in-a)
 * [2026-07-14, 14:39:25](https://news.ycombinator.com/item?id=48907665) - [IBM Stock has worst day](https://www.cnn.com/2026/07/14/tech/ibm-stock-worst-day-ever)
+* [2026-07-14, 14:23:26](https://news.ycombinator.com/item?id=48907390) - [The Zen of Parallel Programming](https://smolnero.com/posts/the-zen-of-parallel-programming)
 * [2026-07-14, 14:17:54](https://news.ycombinator.com/item?id=48907296) - [New York becomes the first state to impose a data center moratorium](https://www.reuters.com/world/new-york-becomes-first-state-impose-data-center-moratorium-2026-07-14/)
 * [2026-07-14, 14:17:39](https://news.ycombinator.com/item?id=48907290) - [A Philosopher's One-Word Theory to Explain Why the World Feels So Weird](https://www.derekthompson.org/p/a-philosophers-one-word-theory-to)
 * [2026-07-14, 14:15:51](https://news.ycombinator.com/item?id=48907263) - [Tannakian Reconstruction](https://bartoszmilewski.com/2026/07/14/tannakian-reconstruction/)
