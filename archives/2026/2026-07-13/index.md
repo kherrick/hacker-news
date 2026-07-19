@@ -55,6 +55,7 @@
 * [2026-07-13, 17:45:29](https://news.ycombinator.com/item?id=48896179) - [Show HN: OpenClawMachines – Extending OpenClaw to the Enterprise](https://github.com/mathaix/OpenClawMachines)
 * [2026-07-13, 17:43:26](https://news.ycombinator.com/item?id=48896149) - [Vāgdhenu: A Sanskrit Chanting TTS System](https://prathosh.in/vagdhenu/)
 * [2026-07-13, 17:34:33](https://news.ycombinator.com/item?id=48896044) - [Simulating everything, sort of: The promise and limits of world models](https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/)
+* [2026-07-13, 17:21:10](https://news.ycombinator.com/item?id=48895861) - [Mathematicians still don't know the fastest way to multiply numbers](https://www.scientificamerican.com/article/mathematicians-still-dont-know-the-fastest-way-to-multiply-numbers/)
 * [2026-07-13, 17:13:22](https://news.ycombinator.com/item?id=48895763) - [A Second-Grade Teacher Revived a Beloved Video Game](https://www.nytimes.com/2026/07/13/style/backyard-baseball-video-game-teacher.html)
 * [2026-07-13, 17:00:54](https://news.ycombinator.com/item?id=48895565) - [PgDog (YC P25) Is Hiring a Founding Software Engineer](https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer)
 * [2026-07-13, 16:38:21](https://news.ycombinator.com/item?id=48895199) - [Solod: Go can be a better C](https://solod.dev)
