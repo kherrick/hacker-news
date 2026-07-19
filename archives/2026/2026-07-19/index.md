@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-19](index.md)
 
+* [2026-07-19, 13:30:01](https://news.ycombinator.com/item?id=48968067) - [DRIVE – Operational Excellence for AI-accelerated engineering](https://www.cortex.io/drive)
 * [2026-07-19, 12:01:53](https://news.ycombinator.com/item?id=48967355) - [I burned all my tokens researching how to save tokens](https://quesma.com/blog/custom-deep-research-pipeline/)
 * [2026-07-19, 11:48:18](https://news.ycombinator.com/item?id=48967256) - [Minecraft: Java Edition now uses SDL3](https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4)
 * [2026-07-19, 11:14:38](https://news.ycombinator.com/item?id=48966984) - [I joined the IndieWeb, here's what I learned](https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/)

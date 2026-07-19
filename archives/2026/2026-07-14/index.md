@@ -79,6 +79,7 @@
 * [2026-07-14, 09:20:07](https://news.ycombinator.com/item?id=48904095) - [Demis Hassabis has a plan to harness AI safely](https://twitter.com/demishassabis/status/2076957440109625718)
 * [2026-07-14, 08:34:57](https://news.ycombinator.com/item?id=48903777) - [European \"age verification\" \"app\" forcing everyone to use Android or iOS](https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19)
 * [2026-07-14, 08:27:56](https://news.ycombinator.com/item?id=48903733) - [Job queues are deceptively tricky](https://typesanitizer.com/blog/job-queues.html)
+* [2026-07-14, 08:24:54](https://news.ycombinator.com/item?id=48903717) - [Infinities, impossibilities, and the man in the white linen suit](https://iain.so/infinities-impossibilities-and-the-man-in-the-white-linen-suit)
 * [2026-07-14, 08:24:49](https://news.ycombinator.com/item?id=48903715) - [Alternative(s) to run CUDA on non-Nvidia hardware](https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/)
 * [2026-07-14, 08:22:52](https://news.ycombinator.com/item?id=48903701) - [Two Case Studies of NaN](https://sebsite.pw/w/20260709-nan.html)
 * [2026-07-14, 07:52:28](https://news.ycombinator.com/item?id=48903490) - [Responsive Design Calculator](https://www.redblobgames.com/blog/2026-07-11-responsive-design-calculator/)
