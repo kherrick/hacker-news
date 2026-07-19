@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-19](index.md)
 
+* [2026-07-19, 18:57:01](https://news.ycombinator.com/item?id=48970772) - [HomeLab #1: MikroTik as a Home Router](https://justsomebody.dev/blog/mikrotik-home-router)
 * [2026-07-19, 18:47:29](https://news.ycombinator.com/item?id=48970684) - [Show HN: How much profit does your employer make per employee?](https://yourfairshare.info)
 * [2026-07-19, 18:10:12](https://news.ycombinator.com/item?id=48970372) - [Less Is More: Why Audio on SoundCloud Looks Different](https://developers.soundcloud.com/blog/less-is-more-why-soundcloud-low-passes-its-aac-transcodings/)
 * [2026-07-19, 17:32:41](https://news.ycombinator.com/item?id=48970039) - [Neither GCC nor Clang are compliant with standard C++](https://sebsite.pw/w/20260708-badstdcxx.html)
