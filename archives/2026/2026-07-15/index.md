@@ -60,6 +60,7 @@
 * [2026-07-15, 13:41:01](https://news.ycombinator.com/item?id=48920698) - [Ask HN: Is it just me, or is software buggier across the board?](https://news.ycombinator.com/item?id=48920698)
 * [2026-07-15, 13:39:54](https://news.ycombinator.com/item?id=48920681) - [Show HN: Aict – Unix coreutils that output XML/JSON, built for AI agents](https://github.com/synseqack/aict)
 * [2026-07-15, 13:36:30](https://news.ycombinator.com/item?id=48920650) - [Show HN: Goku – WASM (wllama)-powered LLM inference and model manager](https://userfrom1995.github.io/goku/)
+* [2026-07-15, 13:31:44](https://news.ycombinator.com/item?id=48920597) - [Talk: The Art of Braiding Algorithms](https://pgadey.ca/notes/talk-relatorium-2026/)
 * [2026-07-15, 13:26:24](https://news.ycombinator.com/item?id=48920537) - [Show HN: Grepathy – Claude made a decision nobody approved](https://github.com/evansjp/grepathy)
 * [2026-07-15, 13:22:00](https://news.ycombinator.com/item?id=48920475) - [Mysteries of Telegram Data Centers](https://dev.moe/en/3025)
 * [2026-07-15, 13:19:05](https://news.ycombinator.com/item?id=48920443) - [Privacy Incidents – Real-world examples of why your photos need protection](https://snapsafe.org/incidents.html)

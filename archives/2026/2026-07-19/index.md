@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-07-19](index.md)
 
 * [2026-07-19, 22:03:11](https://news.ycombinator.com/item?id=48972062) - [We want Texans to know their rights](https://www.eff.org/deeplinks/2026/07/we-want-texans-know-their-rights-qa-mayday-health-impact-surveillance-abortion)
+* [2026-07-19, 21:51:26](https://news.ycombinator.com/item?id=48971999) - [Grok-iOS – remote Grok Build from your iPhone over ACP](https://github.com/Pedroshakoor/grok-build-ios)
 * [2026-07-19, 21:31:48](https://news.ycombinator.com/item?id=48971847) - [Show HN: A canvas-based note taking and organizer app](https://www.passinote.app/)
 * [2026-07-19, 21:24:03](https://news.ycombinator.com/item?id=48971781) - [How to Abandon Your Climate Commitments and Get Away with It](https://www.nytimes.com/2026/07/17/climate/company-climate-change-commitments-renege.html)
 * [2026-07-19, 21:18:10](https://news.ycombinator.com/item?id=48971738) - [AI advice made people 3x less accurate but 2x confident, researchers found](https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study)
