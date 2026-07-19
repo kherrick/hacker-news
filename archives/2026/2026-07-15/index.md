@@ -65,6 +65,7 @@
 * [2026-07-15, 13:19:05](https://news.ycombinator.com/item?id=48920443) - [Privacy Incidents – Real-world examples of why your photos need protection](https://snapsafe.org/incidents.html)
 * [2026-07-15, 13:18:15](https://news.ycombinator.com/item?id=48920432) - [The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence](https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence)
 * [2026-07-15, 13:11:01](https://news.ycombinator.com/item?id=48920338) - [Microsoft Confirms Windows GDID Device Identifier That Cannot Be Disabled](https://www.ghacks.net/2026/07/12/microsoft-confirms-windows-gdid-device-identifier-that-cannot-be-disabled-documented-in-fbi-case-filing/)
+* [2026-07-15, 13:10:01](https://news.ycombinator.com/item?id=48920328) - [Supabase just announced searchable encryption](https://supabase.com/blog/searchable-field-level-encryption-with-cipherstash)
 * [2026-07-15, 12:59:09](https://news.ycombinator.com/item?id=48920181) - [SpaceX bond worth 10% less than issue price – heading for junk bond status](https://www.ft.com/content/3a023b95-66c3-41e1-b0ce-df752a499541)
 * [2026-07-15, 12:57:27](https://news.ycombinator.com/item?id=48920156) - [What `for x in y` hides from you – From Scratch Code](https://fromscratchcode.com/blog/what-for-x-in-y-hides-from-you/)
 * [2026-07-15, 12:40:46](https://news.ycombinator.com/item?id=48919967) - [What's the most popular number in Hacker News titles?](https://blog.omgmog.net/post/most-popular-numbers-in-hn-post-titles/)
