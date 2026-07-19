@@ -6,8 +6,10 @@
 
 * [2026-07-19, 17:25:03](https://news.ycombinator.com/item?id=48969983) - [HMD Touch 4G](https://www.hmd.com/en_int/hmd-touch-4g)
 * [2026-07-19, 16:45:17](https://news.ycombinator.com/item?id=48969635) - [The Last MPEG-4 Visual Patent Has Expired](https://www.phoronix.com/news/Last-MPEG-4-Patent-Expired)
+* [2026-07-19, 16:38:36](https://news.ycombinator.com/item?id=48969582) - [Texas Police Spent $4.5M on Four Chevy Tahoes](https://www.thedrive.com/news/how-texas-police-spent-4-5-million-on-four-chevy-tahoes)
 * [2026-07-19, 16:02:25](https://news.ycombinator.com/item?id=48969291) - [Moonshot AI suspends new subscriptions due to Kimi K3 demand](https://twitter.com/kimi_moonshot/status/2078855608565207130)
 * [2026-07-19, 15:20:22](https://news.ycombinator.com/item?id=48968949) - [C64 Basic Dungeon Crawler: Goblin Attack (C64 Basic Part 8)](https://retrogamecoders.com/c64-basic-dungeon-part8/)
+* [2026-07-19, 14:41:16](https://news.ycombinator.com/item?id=48968606) - [Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s](https://news.ycombinator.com/item?id=48968606)
 * [2026-07-19, 14:30:31](https://news.ycombinator.com/item?id=48968515) - [Terence McKenna's Mega Bad Trip](https://psychedelics.community/cultural-icons/terence-mckennas-mega-bad-trip)
 * [2026-07-19, 14:07:07](https://news.ycombinator.com/item?id=48968348) - [Clever hacker fits 537,000 domains in a $5 ESP32 ad-blocking dongle](https://www.tomshardware.com/networking/clever-hacker-fits-537-000-domains-in-a-tiny-usd5-esp32-ad-blocking-dongle-firmware-uses-only-around-50kb-of-ram-and-can-answer-blocked-lookups-in-10-milliseconds)
 * [2026-07-19, 13:30:01](https://news.ycombinator.com/item?id=48968067) - [DRIVE – Operational Excellence for AI-accelerated engineering](https://www.cortex.io/drive)
