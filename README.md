@@ -1,9 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-07-19, 14:07:07](https://news.ycombinator.com/item?id=48968348) - [Clever hacker fits 537,000 domains in a $5 ESP32 ad-blocking dongle](https://www.tomshardware.com/networking/clever-hacker-fits-537-000-domains-in-a-tiny-usd5-esp32-ad-blocking-dongle-firmware-uses-only-around-50kb-of-ram-and-can-answer-blocked-lookups-in-10-milliseconds)
-* [2026-07-19, 13:30:01](https://news.ycombinator.com/item?id=48968067) - [DRIVE – Operational Excellence for AI-accelerated engineering](https://www.cortex.io/drive)
 * [2026-07-19, 13:29:29](https://news.ycombinator.com/item?id=48968063) - [Bananas sprout in Rayleigh Garden UK after 15 years](https://www.bbc.com/news/articles/cvg8edqq5g5o)
-* [2026-07-19, 12:01:53](https://news.ycombinator.com/item?id=48967355) - [I burned all my tokens researching how to save tokens](https://quesma.com/blog/custom-deep-research-pipeline/)
 * [2026-07-19, 11:48:18](https://news.ycombinator.com/item?id=48967256) - [Minecraft: Java Edition now uses SDL3](https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4)
 * [2026-07-19, 11:14:38](https://news.ycombinator.com/item?id=48966984) - [I joined the IndieWeb, here's what I learned](https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/)
 * [2026-07-19, 10:44:31](https://news.ycombinator.com/item?id=48966769) - [The death and rebirth of my home server](https://sgt.hootr.club/blog/home-server-rebirth/)
@@ -21,6 +19,7 @@
 * [2026-07-18, 21:55:27](https://news.ycombinator.com/item?id=48962838) - [Classic Amiga titles, free to download](https://amigafreeware.downer.tech/)
 * [2026-07-18, 21:45:12](https://news.ycombinator.com/item?id=48962758) - [Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day](https://www.neatnik.net/hardcore-indieweb)
 * [2026-07-18, 21:28:38](https://news.ycombinator.com/item?id=48962600) - [UnifiedIR for Julia](https://github.com/JuliaLang/julia/pull/62334)
+* [2026-07-18, 17:27:24](https://news.ycombinator.com/item?id=48960155) - [Goodbye, and Thanks for All the Bikesheds](https://queue.acm.org/detail.cfm?id=3818307)
 * [2026-07-14, 19:25:10](https://news.ycombinator.com/item?id=48911793) - [Speech Recognition and TTS in less than 500kb](https://github.com/moonshine-ai/moonshine/tree/main/micro)
 * [2026-07-14, 18:22:47](https://news.ycombinator.com/item?id=48911021) - [Blender 5.2 LTS](https://www.blender.org/download/releases/5-2/)
 * [2026-07-14, 12:34:41](https://news.ycombinator.com/item?id=48905836) - [Using self-hosted Umami for iOS app analytics](https://hjerpbakk.com/blog/2026/07/14/umami-for-apps)
@@ -28,6 +27,7 @@
 * [2026-07-14, 08:24:54](https://news.ycombinator.com/item?id=48903717) - [Infinities, impossibilities, and the man in the white linen suit](https://iain.so/infinities-impossibilities-and-the-man-in-the-white-linen-suit)
 * [2026-07-13, 17:21:10](https://news.ycombinator.com/item?id=48895861) - [Mathematicians still don't know the fastest way to multiply numbers](https://www.scientificamerican.com/article/mathematicians-still-dont-know-the-fastest-way-to-multiply-numbers/)
 * [2026-07-13, 11:58:32](https://news.ycombinator.com/item?id=48891334) - [Land Atlas – soil, farmability, and crop analysis for land listings](https://land-atlas-production.up.railway.app/welcome)
+* [2026-07-12, 00:22:14](https://news.ycombinator.com/item?id=48877124) - [A Visual Catalog of Retro Macintosh Software](https://www.marciot.com/mac68k-visual-catalog/)
 * [2026-07-11, 20:51:28](https://news.ycombinator.com/item?id=48875738) - [Restoring and Demoing 1960s Vintage Computers at the Computer History Museum [pdf]](https://ibm-1401.info/pictures/Proc-MIW-2017-Garner-1401PDP1.pdf)
 * [2026-07-10, 14:45:33](https://news.ycombinator.com/item?id=48860719) - [Cagire: Live Coding in Forth](https://cagire.raphaelforment.fr)
 
