@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-18, 23:54:01](https://news.ycombinator.com/item?id=48963642) - [AI Bubble vs. Dot Com Crash. History Is Repeating](https://www.youtube.com/watch?v=zWJ-g5u9Rqs)
 * [2026-07-18, 23:24:26](https://news.ycombinator.com/item?id=48963465) - [Codex Resets](https://codex-resets.com/)
-* [2026-07-18, 22:19:37](https://news.ycombinator.com/item?id=48963019) - [Gap in Mochizuki's proof of ABC confirmed by Lean](https://twitter.com/FumiharuKato/status/2078017230537892207)
 * [2026-07-18, 22:13:39](https://news.ycombinator.com/item?id=48962983) - [Mayor Mamdani Says Landlords Can't Use AI Images to Advertise](https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/)
 * [2026-07-18, 22:09:07](https://news.ycombinator.com/item?id=48962944) - [Real-Time LuaTeX: Recompiling Large Documents in 1ms [pdf]](https://www.tug.org/tug2026/preprints/lode-realtime.pdf)
 * [2026-07-18, 22:02:31](https://news.ycombinator.com/item?id=48962893) - [Judge a book by its first pages](https://uncovered.ink)
@@ -9,8 +9,8 @@
 * [2026-07-18, 21:45:12](https://news.ycombinator.com/item?id=48962758) - [Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day](https://www.neatnik.net/hardcore-indieweb)
 * [2026-07-18, 21:09:01](https://news.ycombinator.com/item?id=48962429) - [Co-evolution of self-replication and function in a digital primordial soup](https://arxiv.org/abs/2607.09211)
 * [2026-07-18, 19:38:21](https://news.ycombinator.com/item?id=48961504) - [Typing Speed Test, but for Developers](https://haxxorwpm.0s.is/)
+* [2026-07-18, 19:06:23](https://news.ycombinator.com/item?id=48961157) - [What's the deal with all the random weekly quota resets for agents lately?](https://minimaxir.com/2026/07/agent-quota-reset/)
 * [2026-07-18, 17:32:40](https://news.ycombinator.com/item?id=48960218) - [The Kimi K3 Moment](https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/)
-* [2026-07-18, 17:27:24](https://news.ycombinator.com/item?id=48960155) - [Goodbye, and Thanks for All the Bikesheds](https://queue.acm.org/detail.cfm?id=3818307)
 * [2026-07-18, 16:12:08](https://news.ycombinator.com/item?id=48959392) - [Setting up your spare Mac for Claude Code to control, a step-by-step guide](https://ykdojo.github.io/claude-controls-mac/)
 * [2026-07-18, 16:02:45](https://news.ycombinator.com/item?id=48959297) - [Our Approach to Bioresilience: Isomorphic Labs and Google DeepMind](https://deepmind.google/blog/our-approach-to-bioresilience/)
 * [2026-07-18, 15:44:04](https://news.ycombinator.com/item?id=48959143) - [Gleam Is Now on Tangled](https://tangled.org/gleam.run/gleam)
