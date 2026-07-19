@@ -20,7 +20,7 @@
 * [2026-07-18, 23:24:26](https://news.ycombinator.com/item?id=48963465) - [Codex Resets](https://codex-resets.com/)
 * [2026-07-18, 21:55:27](https://news.ycombinator.com/item?id=48962838) - [Classic Amiga titles, free to download](https://amigafreeware.downer.tech/)
 * [2026-07-18, 21:45:12](https://news.ycombinator.com/item?id=48962758) - [Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day](https://www.neatnik.net/hardcore-indieweb)
-* [2026-07-18, 17:27:24](https://news.ycombinator.com/item?id=48960155) - [Goodbye, and Thanks for All the Bikesheds](https://queue.acm.org/detail.cfm?id=3818307)
+* [2026-07-18, 21:28:38](https://news.ycombinator.com/item?id=48962600) - [UnifiedIR for Julia](https://github.com/JuliaLang/julia/pull/62334)
 * [2026-07-14, 19:25:10](https://news.ycombinator.com/item?id=48911793) - [Speech Recognition and TTS in less than 500kb](https://github.com/moonshine-ai/moonshine/tree/main/micro)
 * [2026-07-14, 18:22:47](https://news.ycombinator.com/item?id=48911021) - [Blender 5.2 LTS](https://www.blender.org/download/releases/5-2/)
 * [2026-07-14, 12:34:41](https://news.ycombinator.com/item?id=48905836) - [Using self-hosted Umami for iOS app analytics](https://hjerpbakk.com/blog/2026/07/14/umami-for-apps)
@@ -28,8 +28,8 @@
 * [2026-07-14, 08:24:54](https://news.ycombinator.com/item?id=48903717) - [Infinities, impossibilities, and the man in the white linen suit](https://iain.so/infinities-impossibilities-and-the-man-in-the-white-linen-suit)
 * [2026-07-13, 17:21:10](https://news.ycombinator.com/item?id=48895861) - [Mathematicians still don't know the fastest way to multiply numbers](https://www.scientificamerican.com/article/mathematicians-still-dont-know-the-fastest-way-to-multiply-numbers/)
 * [2026-07-13, 11:58:32](https://news.ycombinator.com/item?id=48891334) - [Land Atlas – soil, farmability, and crop analysis for land listings](https://land-atlas-production.up.railway.app/welcome)
-* [2026-07-12, 00:22:14](https://news.ycombinator.com/item?id=48877124) - [A Visual Catalog of Retro Macintosh Software](https://www.marciot.com/mac68k-visual-catalog/)
 * [2026-07-11, 20:51:28](https://news.ycombinator.com/item?id=48875738) - [Restoring and Demoing 1960s Vintage Computers at the Computer History Museum [pdf]](https://ibm-1401.info/pictures/Proc-MIW-2017-Garner-1401PDP1.pdf)
+* [2026-07-10, 14:45:33](https://news.ycombinator.com/item?id=48860719) - [Cagire: Live Coding in Forth](https://cagire.raphaelforment.fr)
 
 ## [Archives](archives/index.md)
 
