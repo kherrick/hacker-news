@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2026-07-19, 02:40:22",
-      "https://news.ycombinator.com/item?id=48964536"
-    ],
-    [
-      "FDA approves new kind of cholesterol pill",
-      "https://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-pcsk9-inhibitor-lower-ldl-cholesterol-adults-high-cholesterol"
-    ]
-  ],
-  [
-    [
       "2026-07-19, 02:17:03",
       "https://news.ycombinator.com/item?id=48964424"
     ],
@@ -121,6 +111,46 @@
   ],
   [
     [
+      "2026-07-18, 19:06:23",
+      "https://news.ycombinator.com/item?id=48961157"
+    ],
+    [
+      "What's the deal with all the random weekly quota resets for agents lately?",
+      "https://minimaxir.com/2026/07/agent-quota-reset/"
+    ]
+  ],
+  [
+    [
+      "2026-07-18, 18:13:05",
+      "https://news.ycombinator.com/item?id=48960607"
+    ],
+    [
+      "REO Trucks I4 4WD Pickup Truck Starts at $21,500",
+      "https://reotrucks.com"
+    ]
+  ],
+  [
+    [
+      "2026-07-18, 17:32:40",
+      "https://news.ycombinator.com/item?id=48960218"
+    ],
+    [
+      "The Kimi K3 Moment",
+      "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/"
+    ]
+  ],
+  [
+    [
+      "2026-07-18, 17:27:24",
+      "https://news.ycombinator.com/item?id=48960155"
+    ],
+    [
+      "Goodbye, and Thanks for All the Bikesheds",
+      "https://queue.acm.org/detail.cfm?id=3818307"
+    ]
+  ],
+  [
+    [
       "2026-07-18, 16:12:08",
       "https://news.ycombinator.com/item?id=48959392"
     ],
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2026-07-18, 15:12:40",
-      "https://news.ycombinator.com/item?id=48958854"
-    ],
-    [
-      "Show HN: Q3Edit – Edit and play Quake 3 maps in the browser",
-      "https://q3edit.com"
-    ]
-  ],
-  [
-    [
       "2026-07-18, 13:00:52",
       "https://news.ycombinator.com/item?id=48957779"
     ],
@@ -191,21 +211,11 @@
   ],
   [
     [
-      "2026-07-18, 10:21:19",
-      "https://news.ycombinator.com/item?id=48956688"
-    ],
-    [
-      "LG monitors silently install software through Windows Update without consent",
-      "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent"
-    ]
-  ],
-  [
-    [
       "2026-07-15, 13:10:01",
       "https://news.ycombinator.com/item?id=48920328"
     ],
     [
-      "Supabase just announced searchable encryption",
+      "Searchable field-level encryption on Supabase with CipherStash",
       "https://supabase.com/blog/searchable-field-level-encryption-with-cipherstash"
     ]
   ],
@@ -241,6 +251,16 @@
   ],
   [
     [
+      "2026-07-14, 12:34:41",
+      "https://news.ycombinator.com/item?id=48905836"
+    ],
+    [
+      "Using self-hosted Umami for iOS app analytics",
+      "https://hjerpbakk.com/blog/2026/07/14/umami-for-apps"
+    ]
+  ],
+  [
+    [
       "2026-07-14, 09:41:29",
       "https://news.ycombinator.com/item?id=48904269"
     ],
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2026-07-13, 17:13:22",
-      "https://news.ycombinator.com/item?id=48895763"
-    ],
-    [
-      "A Second-Grade Teacher Revived a Beloved Video Game",
-      "https://www.nytimes.com/2026/07/13/style/backyard-baseball-video-game-teacher.html"
-    ]
-  ],
-  [
-    [
       "2026-07-13, 13:00:35",
       "https://news.ycombinator.com/item?id=48892021"
     ],
@@ -287,16 +297,6 @@
     [
       "A Visual Catalog of Retro Macintosh Software",
       "https://www.marciot.com/mac68k-visual-catalog/"
-    ]
-  ],
-  [
-    [
-      "2026-07-11, 01:41:55",
-      "https://news.ycombinator.com/item?id=48867701"
-    ],
-    [
-      "Parsoid",
-      "https://www.mediawiki.org/wiki/Parsoid"
     ]
   ]
 ]
