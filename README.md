@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-07-19, 10:44:31](https://news.ycombinator.com/item?id=48966769) - [The death and rebirth of my home server](https://sgt.hootr.club/blog/home-server-rebirth/)
-* [2026-07-19, 10:41:42](https://news.ycombinator.com/item?id=48966754) - [Qwen 3.8 Max](https://qwen.ai/home)
 * [2026-07-19, 10:34:58](https://news.ycombinator.com/item?id=48966713) - [What I learned selling 2,500 MIDI recorders: Hardware is not so hard](https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard)
+* [2026-07-19, 10:23:35](https://news.ycombinator.com/item?id=48966665) - [Save GPT-5.5](https://save-gpt-5-5.fyi/)
 * [2026-07-19, 10:03:23](https://news.ycombinator.com/item?id=48966569) - [Claude Code uses Bun written in Rust now](https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/)
 * [2026-07-19, 08:57:31](https://news.ycombinator.com/item?id=48966190) - [Qwen 3.8 Max Preview](https://www.qwencloud.com/pricing/token-plan)
 * [2026-07-19, 08:48:41](https://news.ycombinator.com/item?id=48966139) - [Half a Second – a book about the XZ backdoor](https://www.half-second.com/)
@@ -23,7 +23,7 @@
 * [2026-07-18, 17:27:24](https://news.ycombinator.com/item?id=48960155) - [Goodbye, and Thanks for All the Bikesheds](https://queue.acm.org/detail.cfm?id=3818307)
 * [2026-07-15, 13:10:01](https://news.ycombinator.com/item?id=48920328) - [Searchable field-level encryption on Supabase with CipherStash](https://supabase.com/blog/searchable-field-level-encryption-with-cipherstash)
 * [2026-07-14, 19:25:10](https://news.ycombinator.com/item?id=48911793) - [Speech Recognition and TTS in less than 500kb](https://github.com/moonshine-ai/moonshine/tree/main/micro)
-* [2026-07-14, 18:22:47](https://news.ycombinator.com/item?id=48911021) - [Blender 5.2 LTS](https://www.blender.org/download/releases/5-2-lts/)
+* [2026-07-14, 18:22:47](https://news.ycombinator.com/item?id=48911021) - [Blender 5.2 LTS](https://www.blender.org/download/releases/5-2/)
 * [2026-07-14, 12:34:41](https://news.ycombinator.com/item?id=48905836) - [Using self-hosted Umami for iOS app analytics](https://hjerpbakk.com/blog/2026/07/14/umami-for-apps)
 * [2026-07-14, 09:41:29](https://news.ycombinator.com/item?id=48904269) - [Making Software: How to make a font](https://www.makingsoftware.com/chapters/how-to-make-a-font)
 * [2026-07-13, 18:16:03](https://news.ycombinator.com/item?id=48896558) - [How the Elite See Rome](https://www.theatlantic.com/magazine/2026/08/rome-elite-tourism-imago-artis/687621/)
