@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-19](index.md)
 
+* [2026-07-19, 17:32:41](https://news.ycombinator.com/item?id=48970039) - [Neither GCC nor Clang are compliant with standard C++](https://sebsite.pw/w/20260708-badstdcxx.html)
 * [2026-07-19, 17:25:03](https://news.ycombinator.com/item?id=48969983) - [HMD Touch 4G](https://www.hmd.com/en_int/hmd-touch-4g)
 * [2026-07-19, 16:45:17](https://news.ycombinator.com/item?id=48969635) - [The Last MPEG-4 Visual Patent Has Expired](https://www.phoronix.com/news/Last-MPEG-4-Patent-Expired)
 * [2026-07-19, 16:38:36](https://news.ycombinator.com/item?id=48969582) - [Texas Police Spent $4.5M on Four Chevy Tahoes](https://www.thedrive.com/news/how-texas-police-spent-4-5-million-on-four-chevy-tahoes)

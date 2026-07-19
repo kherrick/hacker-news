@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-19, 17:32:41](https://news.ycombinator.com/item?id=48970039) - [Neither GCC nor Clang are compliant with standard C++](https://sebsite.pw/w/20260708-badstdcxx.html)
 * [2026-07-19, 17:25:03](https://news.ycombinator.com/item?id=48969983) - [HMD Touch 4G](https://www.hmd.com/en_int/hmd-touch-4g)
 * [2026-07-19, 16:45:17](https://news.ycombinator.com/item?id=48969635) - [The Last MPEG-4 Visual Patent Has Expired](https://www.phoronix.com/news/Last-MPEG-4-Patent-Expired)
 * [2026-07-19, 16:38:36](https://news.ycombinator.com/item?id=48969582) - [Texas Police Spent $4.5M on Four Chevy Tahoes](https://www.thedrive.com/news/how-texas-police-spent-4-5-million-on-four-chevy-tahoes)
@@ -15,7 +16,6 @@
 * [2026-07-19, 10:34:58](https://news.ycombinator.com/item?id=48966713) - [What I learned selling 2,500 MIDI recorders: Hardware is not so hard](https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard)
 * [2026-07-19, 10:03:23](https://news.ycombinator.com/item?id=48966569) - [Claude Code uses Bun written in Rust now](https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/)
 * [2026-07-19, 08:44:57](https://news.ycombinator.com/item?id=48966120) - [Qwen 3.8](https://twitter.com/Alibaba_Qwen/status/2078759124914098291)
-* [2026-07-19, 07:59:44](https://news.ycombinator.com/item?id=48965880) - [Ollama: All Aboard Open Models](https://ollama.com/blog/all-aboard-open-models)
 * [2026-07-19, 07:54:39](https://news.ycombinator.com/item?id=48965850) - [OpenAI reduces Codex Model Context Size from 372k to 272k](https://github.com/openai/codex/pull/33972/files)
 * [2026-07-19, 07:27:37](https://news.ycombinator.com/item?id=48965719) - [The Art of Insight in Science and Engineering – Mastering Complexity(2014) [pdf]](https://ocw.mit.edu/courses/res-6-011-the-art-of-insight-in-science-and-engineering-mastering-complexity-fall-2014/3bca850386a3005c22134fa62fb3bad5_MITRES_6-011F14_art_insfin.pdf)
 * [2026-07-19, 00:59:55](https://news.ycombinator.com/item?id=48964015) - [Better and Cheaper Than IPTV](https://github.com/stupside/castor)
