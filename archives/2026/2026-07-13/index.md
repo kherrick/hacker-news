@@ -70,6 +70,7 @@
 * [2026-07-13, 14:52:33](https://news.ycombinator.com/item?id=48893639) - [The art and engineering of Sega CD Silpheed](https://fabiensanglard.net/silpheed/index.html)
 * [2026-07-13, 14:47:23](https://news.ycombinator.com/item?id=48893550) - [Show HN: Hackney – Compare Uber, Lyft, Waymo, and Robotaxi Prices](https://hackney.app/)
 * [2026-07-13, 14:39:38](https://news.ycombinator.com/item?id=48893446) - [Precursor](https://blog.cloudflare.com/introducing-precursor/)
+* [2026-07-13, 14:32:31](https://news.ycombinator.com/item?id=48893346) - [From Muon to Gradient Clipping: Some Thoughts on QK Stability](https://MasterGodzilla.github.io/posts/2025/07/muon-clip/)
 * [2026-07-13, 14:15:14](https://news.ycombinator.com/item?id=48893081) - [Revisiting Yliluoma's ordered dither algorithm](https://30fps.net/pages/revisiting-yliluoma-2/)
 * [2026-07-13, 14:02:03](https://news.ycombinator.com/item?id=48892859) - [Show HN: Clawk – Give coding agents a disposable Linux VM, not your laptop](https://github.com/clawkwork/clawk)
 * [2026-07-13, 13:54:10](https://news.ycombinator.com/item?id=48892709) - [Nokia's 14 Years of Mobile-Phone Supremacy Ended in an Afternoon](https://spectrum.ieee.org/nokia-phones-history)
