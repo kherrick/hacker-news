@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-19, 08:47:15](https://news.ycombinator.com/item?id=48966131) - [Boys' ADHD symptoms linked to addictive social media use in new study](https://www.msn.com/en-us/health/other/boys-adhd-symptoms-linked-to-addictive-social-media-use-in-new-study/ar-AA287LY0)
 * [2026-07-19, 08:44:57](https://news.ycombinator.com/item?id=48966120) - [Qwen3.8 is launching and going open-weight soon](https://twitter.com/Alibaba_Qwen/status/2078759124914098291)
 * [2026-07-19, 08:00:24](https://news.ycombinator.com/item?id=48965886) - [Perforce charges $500 for training training videos.. and it's AI narrated](https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic)
 * [2026-07-19, 05:07:08](https://news.ycombinator.com/item?id=48965161) - [Scrying the AMD GFX1250 LLVM Tea Leaves](https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea)
 * [2026-07-19, 02:17:03](https://news.ycombinator.com/item?id=48964424) - [I built a browser-based P2P file transfer tool using WebRTC](https://airdows.com/)
-* [2026-07-19, 01:33:32](https://news.ycombinator.com/item?id=48964215) - [Deepsec](https://github.com/vercel-labs/deepsec)
 * [2026-07-19, 01:29:19](https://news.ycombinator.com/item?id=48964185) - [AI Mania Is Eviscerating Global Decision-Making](https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3)
 * [2026-07-19, 00:59:55](https://news.ycombinator.com/item?id=48964015) - [Better and Cheaper Than IPTV](https://github.com/stupside/castor)
 * [2026-07-19, 00:38:26](https://news.ycombinator.com/item?id=48963879) - [Transcribe.cpp](https://workshop.cjpais.com/projects/transcribe-cpp)
@@ -12,7 +12,6 @@
 * [2026-07-18, 22:13:39](https://news.ycombinator.com/item?id=48962983) - [NYC may require landlords and realtors to disclose the use of AI in listings](https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/)
 * [2026-07-18, 21:55:27](https://news.ycombinator.com/item?id=48962838) - [Classic Amiga titles, free to download](https://amigafreeware.downer.tech/)
 * [2026-07-18, 21:45:12](https://news.ycombinator.com/item?id=48962758) - [Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day](https://www.neatnik.net/hardcore-indieweb)
-* [2026-07-18, 18:13:05](https://news.ycombinator.com/item?id=48960607) - [REO Trucks I4 4WD Pickup Truck Starts at $21,500](https://reotrucks.com)
 * [2026-07-18, 17:32:40](https://news.ycombinator.com/item?id=48960218) - [The Kimi K3 Moment](https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/)
 * [2026-07-18, 17:27:24](https://news.ycombinator.com/item?id=48960155) - [Goodbye, and Thanks for All the Bikesheds](https://queue.acm.org/detail.cfm?id=3818307)
 * [2026-07-18, 16:12:08](https://news.ycombinator.com/item?id=48959392) - [Setting up your spare Mac for Claude Code to control, a step-by-step guide](https://ykdojo.github.io/claude-controls-mac/)
@@ -30,6 +29,7 @@
 * [2026-07-13, 17:21:10](https://news.ycombinator.com/item?id=48895861) - [Mathematicians still don't know the fastest way to multiply numbers](https://www.scientificamerican.com/article/mathematicians-still-dont-know-the-fastest-way-to-multiply-numbers/)
 * [2026-07-13, 13:00:35](https://news.ycombinator.com/item?id=48892021) - [I'm Making Strandfall, a Solarpunk Orienteering Larp](https://mssv.net/2026/04/29/im-making-strandfall-a-solarpunk-orienteering-larp/)
 * [2026-07-12, 00:22:14](https://news.ycombinator.com/item?id=48877124) - [A Visual Catalog of Retro Macintosh Software](https://www.marciot.com/mac68k-visual-catalog/)
+* [2026-07-11, 20:51:28](https://news.ycombinator.com/item?id=48875738) - [Restoring and Demoing 1960s Vintage Computers at the Computer History Museum [pdf]](https://ibm-1401.info/pictures/Proc-MIW-2017-Garner-1401PDP1.pdf)
 
 ## [Archives](archives/index.md)
 

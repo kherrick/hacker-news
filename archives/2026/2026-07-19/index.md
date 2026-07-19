@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-19](index.md)
 
+* [2026-07-19, 08:47:15](https://news.ycombinator.com/item?id=48966131) - [Boys' ADHD symptoms linked to addictive social media use in new study](https://www.msn.com/en-us/health/other/boys-adhd-symptoms-linked-to-addictive-social-media-use-in-new-study/ar-AA287LY0)
 * [2026-07-19, 08:44:57](https://news.ycombinator.com/item?id=48966120) - [Qwen3.8 is launching and going open-weight soon](https://twitter.com/Alibaba_Qwen/status/2078759124914098291)
 * [2026-07-19, 08:00:24](https://news.ycombinator.com/item?id=48965886) - [Perforce charges $500 for training training videos.. and it's AI narrated](https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic)
 * [2026-07-19, 05:07:08](https://news.ycombinator.com/item?id=48965161) - [Scrying the AMD GFX1250 LLVM Tea Leaves](https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea)
