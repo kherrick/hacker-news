@@ -2,15 +2,15 @@
 
 * [2026-07-19, 02:55:43](https://news.ycombinator.com/item?id=48964585) - [LLM-Integrated Multivariable Calculus Course](https://calculus.academa.ai/)
 * [2026-07-19, 02:40:22](https://news.ycombinator.com/item?id=48964536) - [FDA approves new kind of cholesterol pill](https://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-pcsk9-inhibitor-lower-ldl-cholesterol-adults-high-cholesterol)
+* [2026-07-19, 02:17:03](https://news.ycombinator.com/item?id=48964424) - [I built a browser-based P2P file transfer tool using WebRTC](https://airdows.com/)
+* [2026-07-19, 01:33:32](https://news.ycombinator.com/item?id=48964215) - [Deepsec](https://github.com/vercel-labs/deepsec)
 * [2026-07-19, 01:29:19](https://news.ycombinator.com/item?id=48964185) - [AI Mania Is Eviscerating Global Decision-Making](https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3)
 * [2026-07-19, 00:59:55](https://news.ycombinator.com/item?id=48964015) - [Better and Cheaper Than IPTV](https://github.com/stupside/castor)
 * [2026-07-19, 00:38:26](https://news.ycombinator.com/item?id=48963879) - [Transcribe.cpp](https://workshop.cjpais.com/projects/transcribe-cpp)
 * [2026-07-18, 23:27:36](https://news.ycombinator.com/item?id=48963483) - [Harness Engineering](https://github.com/lopopolo/harness-engineering)
 * [2026-07-18, 23:24:26](https://news.ycombinator.com/item?id=48963465) - [Codex Resets](https://codex-resets.com/)
-* [2026-07-18, 23:15:32](https://news.ycombinator.com/item?id=48963402) - [ECHR confirms ethical veganism is a protected philosophical belief](https://veganfta.com/articles/2026/07/17/european-court-confirms-ethical-veganism-is-a-protected-philosophical-belief-in-europe/)
 * [2026-07-18, 22:13:39](https://news.ycombinator.com/item?id=48962983) - [Mayor Mamdani Says Landlords Can't Use AI Images to Advertise](https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/)
 * [2026-07-18, 22:09:07](https://news.ycombinator.com/item?id=48962944) - [Real-Time LuaTeX: Recompiling Large Documents in 1ms [pdf]](https://www.tug.org/tug2026/preprints/lode-realtime.pdf)
-* [2026-07-18, 22:02:31](https://news.ycombinator.com/item?id=48962893) - [Judge a book by its first pages](https://uncovered.ink)
 * [2026-07-18, 21:55:27](https://news.ycombinator.com/item?id=48962838) - [Classic Amiga titles, free to download](https://amigafreeware.downer.tech/)
 * [2026-07-18, 21:45:12](https://news.ycombinator.com/item?id=48962758) - [Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day](https://www.neatnik.net/hardcore-indieweb)
 * [2026-07-18, 21:09:01](https://news.ycombinator.com/item?id=48962429) - [Co-evolution of self-replication and function in a digital primordial soup](https://arxiv.org/abs/2607.09211)
@@ -19,7 +19,6 @@
 * [2026-07-18, 15:44:04](https://news.ycombinator.com/item?id=48959143) - [Gleam Is Now on Tangled](https://tangled.org/gleam.run/gleam)
 * [2026-07-18, 15:37:01](https://news.ycombinator.com/item?id=48959090) - [If You Build It, They Will Come](https://www.benlandautaylor.com/p/if-you-build-it-they-will-come)
 * [2026-07-18, 15:32:04](https://news.ycombinator.com/item?id=48959042) - [Elixir-lang.org has a new design](https://elixir-lang.org/)
-* [2026-07-18, 15:12:40](https://news.ycombinator.com/item?id=48958854) - [Show HN: Q3Edit – Edit and play Quake 3 maps in the browser](https://q3edit.com)
 * [2026-07-18, 13:00:52](https://news.ycombinator.com/item?id=48957779) - [GPT-5.6 used a prompt to close a 30-year gap in convex optimization](https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/)
 * [2026-07-18, 11:00:29](https://news.ycombinator.com/item?id=48956879) - [Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?](https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/)
 * [2026-07-18, 10:21:19](https://news.ycombinator.com/item?id=48956688) - [LG monitors silently install software through Windows Update without consent](https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent)
@@ -30,6 +29,7 @@
 * [2026-07-13, 17:13:22](https://news.ycombinator.com/item?id=48895763) - [A Second-Grade Teacher Revived a Beloved Video Game](https://www.nytimes.com/2026/07/13/style/backyard-baseball-video-game-teacher.html)
 * [2026-07-13, 13:00:35](https://news.ycombinator.com/item?id=48892021) - [I'm Making Strandfall, a Solarpunk Orienteering Larp](https://mssv.net/2026/04/29/im-making-strandfall-a-solarpunk-orienteering-larp/)
 * [2026-07-12, 00:22:14](https://news.ycombinator.com/item?id=48877124) - [A Visual Catalog of Retro Macintosh Software](https://www.marciot.com/mac68k-visual-catalog/)
+* [2026-07-11, 01:41:55](https://news.ycombinator.com/item?id=48867701) - [Parsoid](https://www.mediawiki.org/wiki/Parsoid)
 
 ## [Archives](archives/index.md)
 

@@ -74,6 +74,7 @@
 * [2026-07-11, 06:09:33](https://news.ycombinator.com/item?id=48869243) - [What's the best way to do authentication in modern applications](https://neciudan.dev/most-secure-way-to-store-auth-token)
 * [2026-07-11, 05:19:41](https://news.ycombinator.com/item?id=48868996) - [The vintage beauty of Soviet control rooms (2018)](https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/)
 * [2026-07-11, 03:24:03](https://news.ycombinator.com/item?id=48868417) - [The Origins of Heikki's Garden of Flowers](https://garden-of-flowers.heikkilotvonen.com/?essay)
+* [2026-07-11, 01:41:55](https://news.ycombinator.com/item?id=48867701) - [Parsoid](https://www.mediawiki.org/wiki/Parsoid)
 * [2026-07-11, 00:53:48](https://news.ycombinator.com/item?id=48867364) - [I've been building this alone for months. Roast it before I lose any more time](https://peakd.io)
 * [2026-07-11, 00:44:00](https://news.ycombinator.com/item?id=48867264) - [FreeCAD in the Browser](https://magik.net/freecad/)
 * [2026-07-11, 00:39:12](https://news.ycombinator.com/item?id=48867220) - [The iconic blue IKEA FRAKTA bag comes with a free lifetime warranty](https://ikeamuseum.com/en/explore/the-story-of-ikea/beloved-bag/)
