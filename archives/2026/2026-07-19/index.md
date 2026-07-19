@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-07-19](index.md)
 
+* [2026-07-19, 10:44:31](https://news.ycombinator.com/item?id=48966769) - [The death and rebirth of my home server](https://sgt.hootr.club/blog/home-server-rebirth/)
+* [2026-07-19, 10:41:42](https://news.ycombinator.com/item?id=48966754) - [Qwen 3.8 Max](https://qwen.ai/home)
+* [2026-07-19, 10:34:58](https://news.ycombinator.com/item?id=48966713) - [What I learned selling 2,500 MIDI recorders: Hardware is not so hard](https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard)
 * [2026-07-19, 10:03:23](https://news.ycombinator.com/item?id=48966569) - [Claude Code uses Bun written in Rust now](https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/)
 * [2026-07-19, 08:57:31](https://news.ycombinator.com/item?id=48966190) - [Qwen 3.8 Max Preview](https://www.qwencloud.com/pricing/token-plan)
 * [2026-07-19, 08:48:41](https://news.ycombinator.com/item?id=48966139) - [Half a Second – a book about the XZ backdoor](https://www.half-second.com/)
