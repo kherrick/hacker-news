@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-19, 02:55:43",
+      "https://news.ycombinator.com/item?id=48964585"
+    ],
+    [
+      "LLM-Integrated Multivariable Calculus Course",
+      "https://calculus.academa.ai/"
+    ]
+  ],
+  [
+    [
+      "2026-07-19, 02:40:22",
+      "https://news.ycombinator.com/item?id=48964536"
+    ],
+    [
+      "FDA approves new kind of cholesterol pill",
+      "https://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-pcsk9-inhibitor-lower-ldl-cholesterol-adults-high-cholesterol"
+    ]
+  ],
+  [
+    [
       "2026-07-19, 01:29:19",
       "https://news.ycombinator.com/item?id=48964185"
     ],
@@ -47,6 +67,16 @@
     [
       "Codex Resets",
       "https://codex-resets.com/"
+    ]
+  ],
+  [
+    [
+      "2026-07-18, 23:15:32",
+      "https://news.ycombinator.com/item?id=48963402"
+    ],
+    [
+      "ECHR confirms ethical veganism is a protected philosophical belief",
+      "https://veganfta.com/articles/2026/07/17/european-court-confirms-ethical-veganism-is-a-protected-philosophical-belief-in-europe/"
     ]
   ],
   [
@@ -107,16 +137,6 @@
     [
       "Co-evolution of self-replication and function in a digital primordial soup",
       "https://arxiv.org/abs/2607.09211"
-    ]
-  ],
-  [
-    [
-      "2026-07-18, 17:32:40",
-      "https://news.ycombinator.com/item?id=48960218"
-    ],
-    [
-      "The Kimi K3 Moment",
-      "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2026-07-18, 11:12:46",
-      "https://news.ycombinator.com/item?id=48956949"
-    ],
-    [
-      "What AI did to stackoverflow in a graph",
-      "https://data.stackexchange.com/stackoverflow/query/1953768#graph"
-    ]
-  ],
-  [
-    [
       "2026-07-18, 11:00:29",
       "https://news.ycombinator.com/item?id=48956879"
     ],
@@ -217,16 +227,6 @@
     [
       "LG monitors silently install software through Windows Update without consent",
       "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent"
-    ]
-  ],
-  [
-    [
-      "2026-07-17, 20:10:02",
-      "https://news.ycombinator.com/item?id=48951756"
-    ],
-    [
-      "Tech note: making your own V-I plots at home",
-      "https://lcamtuf.substack.com/p/tech-note-making-your-own-v-i-plots"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-07-09, 20:47:09",
-      "https://news.ycombinator.com/item?id=48852151"
+      "2026-07-12, 00:22:14",
+      "https://news.ycombinator.com/item?id=48877124"
     ],
     [
-      "How GitHub gave every repository a durable owner",
-      "https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/"
+      "A Visual Catalog of Retro Macintosh Software",
+      "https://www.marciot.com/mac68k-visual-catalog/"
     ]
   ]
 ]
