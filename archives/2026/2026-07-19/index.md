@@ -4,9 +4,17 @@
 
 ### [Archives](../../index.md) for [2026-07-19](index.md)
 
+* [2026-07-19, 10:03:23](https://news.ycombinator.com/item?id=48966569) - [Claude Code uses Bun written in Rust now](https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/)
+* [2026-07-19, 08:57:31](https://news.ycombinator.com/item?id=48966190) - [Qwen 3.8 Max Preview](https://www.qwencloud.com/pricing/token-plan)
+* [2026-07-19, 08:48:41](https://news.ycombinator.com/item?id=48966139) - [Half a Second – a book about the XZ backdoor](https://www.half-second.com/)
 * [2026-07-19, 08:47:15](https://news.ycombinator.com/item?id=48966131) - [Boys' ADHD symptoms linked to addictive social media use in new study](https://www.msn.com/en-us/health/other/boys-adhd-symptoms-linked-to-addictive-social-media-use-in-new-study/ar-AA287LY0)
 * [2026-07-19, 08:44:57](https://news.ycombinator.com/item?id=48966120) - [Qwen3.8 is launching and going open-weight soon](https://twitter.com/Alibaba_Qwen/status/2078759124914098291)
+* [2026-07-19, 08:21:28](https://news.ycombinator.com/item?id=48965983) - [Show HN: OfflineTTS — Free browser-based TTS & STT that runs locally](https://offlinetts.com/)
+* [2026-07-19, 08:06:58](https://news.ycombinator.com/item?id=48965918) - [Mirror your GitHub repos to tangled.org automatically](https://synchub.to/)
+* [2026-07-19, 08:05:46](https://news.ycombinator.com/item?id=48965914) - [The Mighty Big Array of Finn Jensen LA8YB](https://la0by.darc.de/LA8YB_EME_MBA.htm)
 * [2026-07-19, 08:00:24](https://news.ycombinator.com/item?id=48965886) - [Perforce charges $500 for training training videos.. and it's AI narrated](https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic)
+* [2026-07-19, 07:59:44](https://news.ycombinator.com/item?id=48965880) - [Ollama: All Aboard Open Models](https://ollama.com/blog/all-aboard-open-models)
+* [2026-07-19, 07:54:39](https://news.ycombinator.com/item?id=48965850) - [OpenAI reduces Codex Model Context Size from 372k to 272k](https://github.com/openai/codex/pull/33972/files)
 * [2026-07-19, 05:07:08](https://news.ycombinator.com/item?id=48965161) - [Scrying the AMD GFX1250 LLVM Tea Leaves](https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea)
 * [2026-07-19, 02:55:43](https://news.ycombinator.com/item?id=48964585) - [LLM-Integrated Multivariable Calculus Course](https://calculus.academa.ai/)
 * [2026-07-19, 02:40:22](https://news.ycombinator.com/item?id=48964536) - [FDA approves new kind of cholesterol pill](https://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-pcsk9-inhibitor-lower-ldl-cholesterol-adults-high-cholesterol)
