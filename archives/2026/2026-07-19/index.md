@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2026-07-19](index.md)
 
 * [2026-07-19, 12:01:53](https://news.ycombinator.com/item?id=48967355) - [I burned all my tokens researching how to save tokens](https://quesma.com/blog/custom-deep-research-pipeline/)
+* [2026-07-19, 11:48:18](https://news.ycombinator.com/item?id=48967256) - [Minecraft: Java Edition now uses SDL3](https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4)
+* [2026-07-19, 11:14:38](https://news.ycombinator.com/item?id=48966984) - [I joined the IndieWeb, here's what I learned](https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/)
 * [2026-07-19, 10:44:31](https://news.ycombinator.com/item?id=48966769) - [The death and rebirth of my home server](https://sgt.hootr.club/blog/home-server-rebirth/)
 * [2026-07-19, 10:41:42](https://news.ycombinator.com/item?id=48966754) - [Qwen 3.8 Max](https://qwen.ai/home)
 * [2026-07-19, 10:34:58](https://news.ycombinator.com/item?id=48966713) - [What I learned selling 2,500 MIDI recorders: Hardware is not so hard](https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard)
