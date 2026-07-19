@@ -47,6 +47,7 @@
 * [2026-07-13, 18:21:31](https://news.ycombinator.com/item?id=48896649) - [Optimizing Lua string literals to save 400 bytes](https://purplesyringa.moe/blog/guest/optimizing-lua-string-literals-to-save-400-bytes/)
 * [2026-07-13, 18:18:25](https://news.ycombinator.com/item?id=48896600) - [Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?](https://cakehonolulu.github.io/linux-on-32x/)
 * [2026-07-13, 18:18:23](https://news.ycombinator.com/item?id=48896599) - [Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents](https://github.com/morganwilliscloud/billai-bass)
+* [2026-07-13, 18:16:03](https://news.ycombinator.com/item?id=48896558) - [How the Elite See Rome](https://www.theatlantic.com/magazine/2026/08/rome-elite-tourism-imago-artis/687621/)
 * [2026-07-13, 18:12:09](https://news.ycombinator.com/item?id=48896513) - [Latent Space as a New Medium](https://kevinkelly.substack.com/p/latent-space-as-a-new-medium)
 * [2026-07-13, 18:10:23](https://news.ycombinator.com/item?id=48896493) - [xAI's Grok Build CLI Uploads Git Repositories to a Google Cloud Bucket](https://www.internationalcyberdigest.com/xais-grok-build-cli-uploads-entire-git-repositories-to-a-google-cloud-bucket/)
 * [2026-07-13, 17:55:28](https://news.ycombinator.com/item?id=48896308) - [NTSB Report on NetJets first fatality in 40 years (Josh Baer RIP)](https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/203191/pdf)
