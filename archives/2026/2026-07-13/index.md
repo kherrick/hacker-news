@@ -82,6 +82,7 @@
 * [2026-07-13, 13:00:35](https://news.ycombinator.com/item?id=48892021) - [I'm Making Strandfall, a Solarpunk Orienteering Larp](https://mssv.net/2026/04/29/im-making-strandfall-a-solarpunk-orienteering-larp/)
 * [2026-07-13, 12:58:07](https://news.ycombinator.com/item?id=48891987) - [A Farewell to ARPs: IPv4 Service on IPv6-Only Networks](https://labs.ripe.net/author/remco-van-mook/a-farewell-to-arps-ipv4-service-on-ipv6-only-networks/)
 * [2026-07-13, 12:09:38](https://news.ycombinator.com/item?id=48891463) - [Leak of San Francisco Police Drone Footage Exposes Reality of Urban Surveillance](https://www.wired.com/story/sfpd-drone-video-leak-surveillance/)
+* [2026-07-13, 11:58:32](https://news.ycombinator.com/item?id=48891334) - [Land Atlas – soil, farmability, and crop analysis for land listings](https://land-atlas-production.up.railway.app/welcome)
 * [2026-07-13, 11:51:56](https://news.ycombinator.com/item?id=48891267) - [Show HN: DOM-docx – HTML to native, editable Word docs (MIT)](https://github.com/floodtide/dom-docx)
 * [2026-07-13, 11:46:47](https://news.ycombinator.com/item?id=48891200) - [An Infuriating Goodbye to Photoshop](https://anderegg.ca/2026/07/12/an-infuriating-goodbye-to-photoshop)
 * [2026-07-13, 11:45:36](https://news.ycombinator.com/item?id=48891184) - [Control the Ideas, Not the Code](https://antirez.com/news/169)
