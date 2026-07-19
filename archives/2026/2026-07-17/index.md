@@ -49,6 +49,7 @@
 * [2026-07-17, 12:50:29](https://news.ycombinator.com/item?id=48946783) - [Minikotlin](https://minikotlin.run)
 * [2026-07-17, 12:42:12](https://news.ycombinator.com/item?id=48946692) - [VulnHunter: Capital One's agentic AI code security tool](https://www.capitalone.com/tech/open-source/announcing-vulnhunter/)
 * [2026-07-17, 12:02:39](https://news.ycombinator.com/item?id=48946303) - [Apple targets dozens of OpenAI employees with legal letters](https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166)
+* [2026-07-17, 12:01:33](https://news.ycombinator.com/item?id=48946286) - [Advances in Real Time Rendering in Games](https://advances.realtimerendering.com)
 * [2026-07-17, 11:30:00](https://news.ycombinator.com/item?id=48946010) - [Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize](https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423)
 * [2026-07-17, 10:45:21](https://news.ycombinator.com/item?id=48945681) - [Ask HN: Any AWS billing issues known? Amazon forecast of 3 billion dollars](https://news.ycombinator.com/item?id=48945681)
 * [2026-07-17, 10:35:06](https://news.ycombinator.com/item?id=48945606) - [Just got an AWS billing alert projecting my monthly cost at $140B](https://news.ycombinator.com/item?id=48945606)
