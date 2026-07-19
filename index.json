@@ -201,12 +201,12 @@
   ],
   [
     [
-      "2026-07-18, 17:27:24",
-      "https://news.ycombinator.com/item?id=48960155"
+      "2026-07-18, 21:28:38",
+      "https://news.ycombinator.com/item?id=48962600"
     ],
     [
-      "Goodbye, and Thanks for All the Bikesheds",
-      "https://queue.acm.org/detail.cfm?id=3818307"
+      "UnifiedIR for Julia",
+      "https://github.com/JuliaLang/julia/pull/62334"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2026-07-12, 00:22:14",
-      "https://news.ycombinator.com/item?id=48877124"
-    ],
-    [
-      "A Visual Catalog of Retro Macintosh Software",
-      "https://www.marciot.com/mac68k-visual-catalog/"
-    ]
-  ],
-  [
-    [
       "2026-07-11, 20:51:28",
       "https://news.ycombinator.com/item?id=48875738"
     ],
     [
       "Restoring and Demoing 1960s Vintage Computers at the Computer History Museum [pdf]",
       "https://ibm-1401.info/pictures/Proc-MIW-2017-Garner-1401PDP1.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-07-10, 14:45:33",
+      "https://news.ycombinator.com/item?id=48860719"
+    ],
+    [
+      "Cagire: Live Coding in Forth",
+      "https://cagire.raphaelforment.fr"
     ]
   ]
 ]
