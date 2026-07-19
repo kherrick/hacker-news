@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-19](index.md)
 
+* [2026-07-19, 20:25:58](https://news.ycombinator.com/item?id=48971418) - [Heavy TV watching associated with smaller brain structures, study finds](https://dornsife.usc.edu/news/stories/heavy-tv-watching-associated-with-smaller-brain-structures/)
 * [2026-07-19, 19:27:16](https://news.ycombinator.com/item?id=48970991) - [Modder Runs GTA III Inside GTA: San Andreas on an In-Game TV](https://videocardz.com/newz/modder-runs-gta-iii-inside-gta-san-andreas-on-an-in-game-tv)
 * [2026-07-19, 19:13:29](https://news.ycombinator.com/item?id=48970894) - [Orion Browser by Kagi](https://orionbrowser.com/)
 * [2026-07-19, 18:57:01](https://news.ycombinator.com/item?id=48970772) - [HomeLab #1: MikroTik as a Home Router](https://justsomebody.dev/blog/mikrotik-home-router)
