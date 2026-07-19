@@ -7,6 +7,7 @@
 * [2026-07-18, 23:54:01](https://news.ycombinator.com/item?id=48963642) - [AI Bubble vs. Dot Com Crash. History Is Repeating](https://www.youtube.com/watch?v=zWJ-g5u9Rqs)
 * [2026-07-18, 23:27:36](https://news.ycombinator.com/item?id=48963483) - [Harness Engineering](https://github.com/lopopolo/harness-engineering)
 * [2026-07-18, 23:24:26](https://news.ycombinator.com/item?id=48963465) - [Codex Resets](https://codex-resets.com/)
+* [2026-07-18, 23:15:32](https://news.ycombinator.com/item?id=48963402) - [ECHR confirms ethical veganism is a protected philosophical belief](https://veganfta.com/articles/2026/07/17/european-court-confirms-ethical-veganism-is-a-protected-philosophical-belief-in-europe/)
 * [2026-07-18, 22:19:37](https://news.ycombinator.com/item?id=48963019) - [Gap in Mochizuki's proof of ABC confirmed by Lean](https://twitter.com/FumiharuKato/status/2078017230537892207)
 * [2026-07-18, 22:13:39](https://news.ycombinator.com/item?id=48962983) - [Mayor Mamdani Says Landlords Can't Use AI Images to Advertise](https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/)
 * [2026-07-18, 22:10:54](https://news.ycombinator.com/item?id=48962963) - [AI Mania Is Eviscerating Global Decision-Making](https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking)
