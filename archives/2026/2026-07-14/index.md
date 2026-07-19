@@ -57,6 +57,7 @@
 * [2026-07-14, 12:50:29](https://news.ycombinator.com/item?id=48906041) - [Guardian Angels: LLM Personalization for Productivity and Security](https://gwern.net/guardian-angel)
 * [2026-07-14, 12:41:25](https://news.ycombinator.com/item?id=48905919) - [Show HN: I RL-trained an agent that trains models with RL (for –$1.3k)](https://github.com/Danau5tin/ai-trains-ai)
 * [2026-07-14, 12:40:50](https://news.ycombinator.com/item?id=48905914) - [Beautiful Type Erasure with C++26 Reflection](https://ryanjk5.github.io/posts/rjk-duck/)
+* [2026-07-14, 12:34:41](https://news.ycombinator.com/item?id=48905836) - [Using self-hosted Umami for iOS app analytics](https://hjerpbakk.com/blog/2026/07/14/umami-for-apps)
 * [2026-07-14, 12:28:09](https://news.ycombinator.com/item?id=48905764) - [Coding agents think ahead of time](https://arxiv.org/abs/2607.05188)
 * [2026-07-14, 12:21:46](https://news.ycombinator.com/item?id=48905667) - [Differentiable Fortran with LFortran and Enzyme](https://docs.pasteurlabs.ai/projects/tesseract-core/latest/blog/2026-07-09-enzyme-lfortran-autodiff.html)
 * [2026-07-14, 12:07:06](https://news.ycombinator.com/item?id=48905491) - [SQLite Is All You Need](https://www.dbpro.app/blog/sqlite-is-all-you-need)
