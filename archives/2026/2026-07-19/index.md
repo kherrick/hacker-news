@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-19](index.md)
 
+* [2026-07-19, 21:31:48](https://news.ycombinator.com/item?id=48971847) - [Show HN: A canvas-based note taking and organizer app](https://www.passinote.app/)
+* [2026-07-19, 21:18:10](https://news.ycombinator.com/item?id=48971738) - [AI advice made people 3x less accurate but 2x confident, researchers found](https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study)
 * [2026-07-19, 20:50:42](https://news.ycombinator.com/item?id=48971566) - [A new Intel Itanium (IA-64) emulator that boots Windows](https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html)
 * [2026-07-19, 20:25:58](https://news.ycombinator.com/item?id=48971418) - [Heavy TV watching associated with smaller brain structures, study finds](https://dornsife.usc.edu/news/stories/heavy-tv-watching-associated-with-smaller-brain-structures/)
 * [2026-07-19, 19:27:16](https://news.ycombinator.com/item?id=48970991) - [Modder Runs GTA III Inside GTA: San Andreas on an In-Game TV](https://videocardz.com/newz/modder-runs-gta-iii-inside-gta-san-andreas-on-an-in-game-tv)
