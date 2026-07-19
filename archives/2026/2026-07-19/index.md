@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-19](index.md)
 
+* [2026-07-19, 05:07:08](https://news.ycombinator.com/item?id=48965161) - [Scrying the AMD GFX1250 LLVM Tea Leaves](https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea)
 * [2026-07-19, 02:55:43](https://news.ycombinator.com/item?id=48964585) - [LLM-Integrated Multivariable Calculus Course](https://calculus.academa.ai/)
 * [2026-07-19, 02:40:22](https://news.ycombinator.com/item?id=48964536) - [FDA approves new kind of cholesterol pill](https://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-pcsk9-inhibitor-lower-ldl-cholesterol-adults-high-cholesterol)
 * [2026-07-19, 02:17:03](https://news.ycombinator.com/item?id=48964424) - [I built a browser-based P2P file transfer tool using WebRTC](https://airdows.com/)
