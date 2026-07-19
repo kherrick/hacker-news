@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-19, 14:07:07",
+      "https://news.ycombinator.com/item?id=48968348"
+    ],
+    [
+      "Clever hacker fits 537,000 domains in a $5 ESP32 ad-blocking dongle",
+      "https://www.tomshardware.com/networking/clever-hacker-fits-537-000-domains-in-a-tiny-usd5-esp32-ad-blocking-dongle-firmware-uses-only-around-50kb-of-ram-and-can-answer-blocked-lookups-in-10-milliseconds"
+    ]
+  ],
+  [
+    [
       "2026-07-19, 13:30:01",
       "https://news.ycombinator.com/item?id=48968067"
     ],
@@ -71,11 +81,21 @@
   ],
   [
     [
+      "2026-07-19, 10:03:23",
+      "https://news.ycombinator.com/item?id=48966569"
+    ],
+    [
+      "Claude Code uses Bun written in Rust now",
+      "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/"
+    ]
+  ],
+  [
+    [
       "2026-07-19, 08:44:57",
       "https://news.ycombinator.com/item?id=48966120"
     ],
     [
-      "Qwen3.8 is launching and going open-weight soon",
+      "Qwen 3.8",
       "https://twitter.com/Alibaba_Qwen/status/2078759124914098291"
     ]
   ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2026-07-18, 22:13:39",
-      "https://news.ycombinator.com/item?id=48962983"
-    ],
-    [
-      "NYC may require landlords and realtors to disclose the use of AI in listings",
-      "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/"
-    ]
-  ],
-  [
-    [
       "2026-07-18, 21:55:27",
       "https://news.ycombinator.com/item?id=48962838"
     ],
@@ -187,16 +197,6 @@
     [
       "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day",
       "https://www.neatnik.net/hardcore-indieweb"
-    ]
-  ],
-  [
-    [
-      "2026-07-18, 17:32:40",
-      "https://news.ycombinator.com/item?id=48960218"
-    ],
-    [
-      "The Kimi K3 Moment",
-      "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/"
     ]
   ],
   [
