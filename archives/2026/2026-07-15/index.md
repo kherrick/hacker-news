@@ -72,6 +72,7 @@
 * [2026-07-15, 12:34:05](https://news.ycombinator.com/item?id=48919874) - [Germany maybe found a new source of renewable energy](https://www.schweizerbart.de/papers/zdgg/detail/prepub/108503/Geological_and_geophysical_characterisation_of_the_exploration_boreholes_EB1_and_EB2_Inde_Syncline_Rhenohercynian_Fold_and_Thrust_Belt_and_Weisweiler_Horst_Lower_Rhine_Embayment_Germany)
 * [2026-07-15, 12:33:27](https://news.ycombinator.com/item?id=48919869) - [Briar Is in Maintenance Mode](https://briarproject.org/news/2026-maintenance-mode/)
 * [2026-07-15, 12:13:19](https://news.ycombinator.com/item?id=48919617) - [Richard Feynman and the Connection Machine](https://longnow.org/ideas/richard-feynman-and-the-connection-machine/)
+* [2026-07-15, 12:07:48](https://news.ycombinator.com/item?id=48919562) - [Show HN: LoopGain – Stop agent loops with control theory, not max_iterations](https://github.com/loopgain-ai/loopgain)
 * [2026-07-15, 12:00:23](https://news.ycombinator.com/item?id=48919510) - [Jiga (YC W21) is hiring the best people to make manufacturing great again](https://jiga.io/about-us/)
 * [2026-07-15, 11:58:54](https://news.ycombinator.com/item?id=48919489) - [Make people pay to get into your inbox](https://www.captchainbox.com)
 * [2026-07-15, 11:46:06](https://news.ycombinator.com/item?id=48919363) - [Sleep regularity is a stronger predictor of mortality risk than sleep duration](https://academic.oup.com/sleep/article/47/1/zsad253/7280269)
