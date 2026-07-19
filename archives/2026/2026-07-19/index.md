@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-19](index.md)
 
+* [2026-07-19, 19:27:16](https://news.ycombinator.com/item?id=48970991) - [Modder Runs GTA III Inside GTA: San Andreas on an In-Game TV](https://videocardz.com/newz/modder-runs-gta-iii-inside-gta-san-andreas-on-an-in-game-tv)
+* [2026-07-19, 19:13:29](https://news.ycombinator.com/item?id=48970894) - [Orion Browser by Kagi](https://orionbrowser.com/)
 * [2026-07-19, 18:57:01](https://news.ycombinator.com/item?id=48970772) - [HomeLab #1: MikroTik as a Home Router](https://justsomebody.dev/blog/mikrotik-home-router)
 * [2026-07-19, 18:47:29](https://news.ycombinator.com/item?id=48970684) - [Show HN: How much profit does your employer make per employee?](https://yourfairshare.info)
 * [2026-07-19, 18:10:12](https://news.ycombinator.com/item?id=48970372) - [Less Is More: Why Audio on SoundCloud Looks Different](https://developers.soundcloud.com/blog/less-is-more-why-soundcloud-low-passes-its-aac-transcodings/)
@@ -13,6 +15,7 @@
 * [2026-07-19, 16:38:36](https://news.ycombinator.com/item?id=48969582) - [Texas Police Spent $4.5M on Four Chevy Tahoes](https://www.thedrive.com/news/how-texas-police-spent-4-5-million-on-four-chevy-tahoes)
 * [2026-07-19, 16:02:25](https://news.ycombinator.com/item?id=48969291) - [Moonshot AI suspends new subscriptions due to Kimi K3 demand](https://twitter.com/kimi_moonshot/status/2078855608565207130)
 * [2026-07-19, 15:20:22](https://news.ycombinator.com/item?id=48968949) - [C64 Basic Dungeon Crawler: Goblin Attack (C64 Basic Part 8)](https://retrogamecoders.com/c64-basic-dungeon-part8/)
+* [2026-07-19, 14:51:57](https://news.ycombinator.com/item?id=48968701) - [Natural experiments prove phytoplankton carbon removal works](https://www.onepercentbrighter.com/p/natural-experiments-prove-feeding)
 * [2026-07-19, 14:41:16](https://news.ycombinator.com/item?id=48968606) - [Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s](https://news.ycombinator.com/item?id=48968606)
 * [2026-07-19, 14:30:31](https://news.ycombinator.com/item?id=48968515) - [Terence McKenna's Mega Bad Trip](https://psychedelics.community/cultural-icons/terence-mckennas-mega-bad-trip)
 * [2026-07-19, 14:07:07](https://news.ycombinator.com/item?id=48968348) - [Clever hacker fits 537,000 domains in a $5 ESP32 ad-blocking dongle](https://www.tomshardware.com/networking/clever-hacker-fits-537-000-domains-in-a-tiny-usd5-esp32-ad-blocking-dongle-firmware-uses-only-around-50kb-of-ram-and-can-answer-blocked-lookups-in-10-milliseconds)
