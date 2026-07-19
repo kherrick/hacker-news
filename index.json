@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-19, 18:10:12",
+      "https://news.ycombinator.com/item?id=48970372"
+    ],
+    [
+      "Less Is More: Why Audio on SoundCloud Looks Different",
+      "https://developers.soundcloud.com/blog/less-is-more-why-soundcloud-low-passes-its-aac-transcodings/"
+    ]
+  ],
+  [
+    [
       "2026-07-19, 17:32:41",
       "https://news.ycombinator.com/item?id=48970039"
     ],
@@ -77,16 +87,6 @@
     [
       "Terence McKenna's Mega Bad Trip",
       "https://psychedelics.community/cultural-icons/terence-mckennas-mega-bad-trip"
-    ]
-  ],
-  [
-    [
-      "2026-07-19, 14:07:07",
-      "https://news.ycombinator.com/item?id=48968348"
-    ],
-    [
-      "Clever hacker fits 537,000 domains in a $5 ESP32 ad-blocking dongle",
-      "https://www.tomshardware.com/networking/clever-hacker-fits-537-000-domains-in-a-tiny-usd5-esp32-ad-blocking-dongle-firmware-uses-only-around-50kb-of-ram-and-can-answer-blocked-lookups-in-10-milliseconds"
     ]
   ],
   [
@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2026-07-19, 07:27:37",
-      "https://news.ycombinator.com/item?id=48965719"
-    ],
-    [
-      "The Art of Insight in Science and Engineering – Mastering Complexity(2014) [pdf]",
-      "https://ocw.mit.edu/courses/res-6-011-the-art-of-insight-in-science-and-engineering-mastering-complexity-fall-2014/3bca850386a3005c22134fa62fb3bad5_MITRES_6-011F14_art_insfin.pdf"
-    ]
-  ],
-  [
-    [
       "2026-07-19, 00:59:55",
       "https://news.ycombinator.com/item?id=48964015"
     ],
@@ -257,6 +247,16 @@
     [
       "Dupes (product clones) took over the world",
       "https://www.vox.com/podcasts/493930/dupe-culture-fender-ugg-quince-tiktok-amazon-online-shopping"
+    ]
+  ],
+  [
+    [
+      "2026-07-14, 14:23:26",
+      "https://news.ycombinator.com/item?id=48907390"
+    ],
+    [
+      "The Zen of Parallel Programming",
+      "https://smolnero.com/posts/the-zen-of-parallel-programming"
     ]
   ],
   [
