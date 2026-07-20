@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-07-17](index.md)
 
 * [2026-07-17, 23:26:35](https://news.ycombinator.com/item?id=48953406) - [The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold](https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier)
+* [2026-07-17, 23:06:08](https://news.ycombinator.com/item?id=48953189) - [Sensing warm and cool: how the body detects temperature changes](https://news.uq.edu.au/2026-07-sensing-warm-and-cool-how-body-detects-temperature-changes)
 * [2026-07-17, 22:35:55](https://news.ycombinator.com/item?id=48952939) - [Texas wins court order to suspend domain name for violating age-verification law](https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and)
 * [2026-07-17, 22:26:30](https://news.ycombinator.com/item?id=48952880) - [Kaiser nurses say AI, workplace surveillance are making their jobs, care worse](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/)
 * [2026-07-17, 22:11:01](https://news.ycombinator.com/item?id=48952773) - [The US Grocery Slowdown Is Real](https://www.bain.com/insights/the-us-grocery-slowdown-is-real-snap-chart/)
