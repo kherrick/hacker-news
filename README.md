@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-20, 10:24:02](https://news.ycombinator.com/item?id=48976781) - [GitHub's 2FA is to become mandatory on September 2, 2026](https://news.ycombinator.com/item?id=48976781)
+* [2026-07-20, 10:12:22](https://news.ycombinator.com/item?id=48976682) - [Airbus Takes Flight from AWS](https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109)
 * [2026-07-20, 08:13:36](https://news.ycombinator.com/item?id=48975665) - [Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25](https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/)
 * [2026-07-20, 04:49:47](https://news.ycombinator.com/item?id=48974476) - [How proprietary formats have become Microsoft’s main tool for lock-in](https://blog.documentfoundation.org/blog/2026/07/17/microsofts-main-tool-for-lock-in/)
 * [2026-07-20, 04:45:15](https://news.ycombinator.com/item?id=48974454) - [Xiaomi-Robotics-1](https://robotics.xiaomi.com/xiaomi-robotics-1.html)
@@ -19,17 +21,15 @@
 * [2026-07-19, 10:34:58](https://news.ycombinator.com/item?id=48966713) - [What I learned selling 2,500 MIDI recorders: Hardware is not so hard](https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard)
 * [2026-07-19, 10:03:23](https://news.ycombinator.com/item?id=48966569) - [Claude Code uses Bun written in Rust now](https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/)
 * [2026-07-19, 08:44:57](https://news.ycombinator.com/item?id=48966120) - [Qwen 3.8](https://twitter.com/Alibaba_Qwen/status/2078759124914098291)
+* [2026-07-17, 22:02:18](https://news.ycombinator.com/item?id=48952713) - [What does the Riemann zeta function have to do with the distribution of primes?](https://hidden-phenomena.com/articles/rh)
 * [2026-07-16, 16:50:32](https://news.ycombinator.com/item?id=48936994) - [1-Bit LLM in the Browser](https://huggingface.co/spaces/webml-community/bonsai-webgpu)
 * [2026-07-15, 23:44:59](https://news.ycombinator.com/item?id=48928703) - [11,700 Free Photos from John Margolies' Archive of Americana Architecture](https://www.openculture.com/2026/07/free-photos-from-john-margolies-archive-of-americana-architecture.html)
-* [2026-07-15, 13:31:44](https://news.ycombinator.com/item?id=48920597) - [Talk: The Art of Braiding Algorithms](https://pgadey.ca/notes/talk-relatorium-2026/)
 * [2026-07-15, 08:35:46](https://news.ycombinator.com/item?id=48917906) - [Sealed tomb filled with paintings and inscriptions discovered in Egypt](https://www.labrujulaverde.com/en/2026/07/sealed-tomb-of-a-high-official-or-priest-filled-with-paintings-and-inscriptions-discovered-on-luxors-west-bank/)
 * [2026-07-14, 22:19:13](https://news.ycombinator.com/item?id=48913656) - [Who Is America's Homer?](https://www.plough.com/articles/who-is-americas-homer)
 * [2026-07-14, 16:01:57](https://news.ycombinator.com/item?id=48908884) - [Eliminating Go bounds checks with unsafe](https://blog.andr2i.com/posts/2026-07-06-eliminating-go-bound-checks-with-unsafe)
 * [2026-07-14, 15:33:42](https://news.ycombinator.com/item?id=48908433) - [Dupes took over the world](https://www.vox.com/podcasts/493930/dupe-culture-fender-ugg-quince-tiktok-amazon-online-shopping)
-* [2026-07-14, 14:33:32](https://news.ycombinator.com/item?id=48907564) - [Korg PS-3300 is back](https://www.korg.co.uk/blogs/updates/ps3300)
 * [2026-07-14, 14:23:26](https://news.ycombinator.com/item?id=48907390) - [The Zen of Parallel Programming](https://smolnero.com/posts/the-zen-of-parallel-programming)
 * [2026-07-10, 15:44:36](https://news.ycombinator.com/item?id=48861496) - [Self-Powered Trailers Promise Leaner Freight Runs](https://spectrum.ieee.org/self-powered-trailers-freight-decarbonization)
-* [2026-07-10, 14:45:33](https://news.ycombinator.com/item?id=48860719) - [Cagire: Live Coding in Forth](https://cagire.raphaelforment.fr)
 
 ## [Archives](archives/index.md)
 
