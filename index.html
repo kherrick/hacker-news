@@ -129,6 +129,222 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="48981136">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=48981136"
+              >Launch HN: Bloomy (YC S26) – AI-powered mastery learning for
+              K-12</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-20 @ 16:32:10</span
+              ><span class="points-container"
+                >Points: <span class="points">4</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48981136"
+                  >Comments</a
+                ><span class="descendants">: 22</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://bloomylearning.com">https://bloomylearning.com</a
+              >) – an AI-powered mastery-learning platform for K-12 students.
+              Bloomy provides students with an AI tutor alongside adaptive
+              curriculum (right now Math, English Language Arts, and Writing).
+              <p>
+                How it works: we diagnose students’ skill gaps, place them on
+                personalized learning paths, and give them standards-aligned
+                lessons and a Socratic AI tutor that scaffolds their learning
+                without just giving away the answer.
+              </p>
+              <p>
+                The goal is to solve the Bloom 2-sigma problem (<a
+                  href="https://en.wikipedia.org/wiki/Bloom%27s_2_sigma_problem"
+                  >https://en.wikipedia.org/wiki/Bloom%27s_2_sigma_problem</a
+                >) with AI.
+              </p>
+              <p>
+                Short launch video:
+                <a href="https://tinyurl.com/bloomylearning"
+                  >https://tinyurl.com/bloomylearning</a
+                >
+              </p>
+              <p>
+                Longer product demo:
+                <a href="https://youtu.be/XHvoKt6qMeo"
+                  >https://youtu.be/XHvoKt6qMeo</a
+                >
+              </p>
+              <p>
+                Families access for Bloomy:
+                <a href="https://bloomylearning.com/families"
+                  >https://bloomylearning.com/families</a
+                >
+              </p>
+              <p>
+                I started as a teacher. I taught 7th-grade English and writing
+                with Teach For America, and every day I struggled to deliver
+                differentiated instruction to 30 students with 30 different sets
+                of needs. Some students needed remediation, some needed
+                acceleration, and many needed a tutor sitting next to them
+                helping them reason through the next step. Benjamin Bloom’s
+                two-sigma result—that one-on-one tutoring can produce much
+                better outcomes than conventional classroom instruction—always
+                felt intuitively true to me. The hard part was making that kind
+                of attention affordable and available to every child.
+              </p>
+              <p>
+                Then AI changed the cost curve. When I saw schools such as Alpha
+                organize academics around mastery rather than seat time, the
+                model clicked. If you’ve heard of Alpha School, that is
+                directionally the kind of learning model that inspired us. But I
+                kept thinking about the families and schools that already exist:
+                homeschool families, microschools, hybrid schools, and regular
+                classrooms where most children are today.
+              </p>
+              <p>
+                Most students and teachers see learning gaps at the wrong
+                resolution. They get a grade, percentile, benchmark score, or
+                broad standard—not “this is the next skill this student should
+                learn.” Existing personalized-learning products often feel like
+                digital worksheets: they provide plenty of practice, but not
+                much diagnosis or teaching. Very few have AI tutors providing
+                the core instruction. Bloomy starts with a diagnostic—we
+                integrate with third-party assessments and provide our own—and
+                creates a learning path for each student. Students work one
+                skill at a time, receive a short lesson, practice at an adaptive
+                difficulty, and only move forward after demonstrating at least
+                90% mastery. The learning path updates as the student works,
+                based on their performance and our knowledge graph of skill
+                prerequisites (built in collaboration with Learning Commons /
+                Chan Zuckerberg Initiative).
+              </p>
+              <p>
+                Each skill has three stages. Base Camp teaches the concept with
+                worked examples. Climb provides guided practice and Socratic
+                support. Summit is an independent ten-question mastery
+                assessment with no hints or AI assistance. Students need to
+                achieve 90% on the Summit to advance. If they struggle too much,
+                they’ll be routed to a different skill better suited for their
+                level.
+              </p>
+              <p>
+                BloomyBot is not a blank chat window but rather a live,
+                interactive, and observant digital tutor. During practice, it
+                receives the active passage or problem, the question, the
+                student’s attempt, an authored explanation, and relevant
+                misconception context. It follows a scaffolded tutoring ladder:
+                first asking what the student tried, then pointing toward the
+                concept, suggesting a strategy, working through one step
+                together, and only providing heavier scaffolding after the
+                student has struggled, adapting to and learning from the student
+                along the way. Students can interrupt it, and we’ve begun to
+                roll out multilingual support for Spanish, French, and a few
+                other more niche languages that customers have asked for.
+              </p>
+              <p>
+                We currently use a variety of Anthropic and OpenAI models for
+                BloomyBot. The tutor is restricted to the current lesson,
+                redirects unrelated questions, limits conversation length, and
+                is unavailable during mastery assessments. The language model
+                does not choose the curriculum or decide whether a student has
+                mastered a skill.
+              </p>
+              <p>
+                That separation is important. A conventionally “helpful” AI
+                response can be a bad tutoring response: if it gives away the
+                answer, the student completes the task but may not learn
+                anything. Our goal is not to build a homework-answering chatbot.
+                It is to put AI inside a structured loop of diagnosis,
+                instruction, practice, feedback, and independent mastery.
+              </p>
+              <p>
+                LLMs can still be wrong, and we do not claim our constraints
+                eliminate that. We reduce the surface area by grounding
+                BloomyBot in authored lesson content, keeping it on topic,
+                logging conversations, and removing it from assessments.
+                Teachers and parents can review tutoring activity, students can
+                report problems, and safety signals trigger human alerts and a
+                backup audit. We also do not see Bloomy as a replacement for
+                teachers, parents, or human tutors. A good human tutor is
+                better. The narrower question we are testing is whether, during
+                a bounded learning session a student would already be doing, a
+                context-aware tutor can provide better help than static
+                “correct/incorrect” feedback. Longer term, the question becomes
+                more whether a student would perform better with one-on-one AI
+                tutoring (at least in certain aspects of the curriculum) than
+                with many-to-one instruction in a medium- or large-sized
+                classroom.
+              </p>
+              <p>
+                Bloomy is now being used across several settings: traditional
+                districts, charter schools, hybrid schools, microschools,
+                homeschools, and families looking for additional academic
+                support. In an early pilot at a charter school in Massachusetts
+                serving ~150 students in grades 6 through 8, students averaged
+                roughly 1.8 times the expected winter-to-spring NWEA MAP growth.
+                This was an observational pilot, not a randomized study, so we
+                treat it as an encouraging signal rather than proof that Bloomy
+                caused the difference.
+              </p>
+              <p>
+                Parents and teachers can see what a student has mastered, what
+                is in progress, and where support may be needed. We have found
+                that adults generally do not want another generic score; they
+                want to know which small number of skills deserve attention this
+                week.
+              </p>
+              <p>
+                Bloomy makes money through family subscriptions and school
+                licensing. ELA costs $39/month or $279/year per learner, and
+                Writing Studio costs $19/month or $139/year. Math is scheduled
+                to launch July 31 at the same price as ELA. Schools and
+                microschools pay per student, with pricing varying by subject
+                coverage, enrollment, rostering, and implementation needs.
+              </p>
+              <p>
+                Because children use Bloomy, we collect learning responses,
+                progress data, and tutoring conversations. We do not sell
+                personal information, use child data for behavioral advertising,
+                or permit model providers to train general-purpose models on
+                identifiable child data sent by Bloomy. We have Zero Data
+                Retention agreements with both Anthropic and OpenAI. Parents and
+                schools can request access, export, correction, or deletion
+                under the applicable account or school agreement.
+              </p>
+              <p>
+                More background on me: after Teach For America, I taught and
+                designed GMAT and GRE curriculum for Manhattan Prep / Kaplan,
+                led the driver acquisition team for Lyft’s New England markets,
+                completed an MBA at Stanford, and led AI transformation projects
+                at McKinsey (so when models finally became good enough this past
+                January to achieve the kinds of things I am pursuing with
+                Bloomy, I was in the right place at the right time to begin
+                building). Bloomy brings together the different parts of my
+                career that I care most about: educational outcomes, learning
+                design, building products, and getting useful technology into
+                people’s hands.
+              </p>
+              <p>
+                I’d especially value feedback from parents, teachers, engineers
+                working on child-facing AI, and people who have built tutoring,
+                assessment, or adaptive-learning systems. Does the separation
+                between guided AI help and independent mastery make sense? Where
+                do you see the greatest potential with AI in education? Where
+                are our safeguards insufficient? What evidence or product
+                behavior would you need to trust something like this with a
+                student?
+              </p>
+              <p>
+                Certainly there are many dangers and pitfalls we must beware of,
+                too, but I believe we can really move the needle in K-12 (for
+                the first time in a long time) if we use AI responsibly and
+                intelligently.
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="48980238">
           <h3>
             <a
@@ -141,11 +357,11 @@
             <h4>
               <span>2026-07-20 @ 15:28:32</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">28</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48980238"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 59</span></span
               >
             </h4>
           </section>
@@ -160,11 +376,11 @@
             <h4>
               <span>2026-07-20 @ 15:23:50</span
               ><span class="points-container"
-                >Points: <span class="points">9</span></span
+                >Points: <span class="points">11</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48980167"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -181,11 +397,11 @@
             <h4>
               <span>2026-07-20 @ 15:15:36</span
               ><span class="points-container"
-                >Points: <span class="points">19</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48980053"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -202,11 +418,11 @@
             <h4>
               <span>2026-07-20 @ 15:13:42</span
               ><span class="points-container"
-                >Points: <span class="points">95</span></span
+                >Points: <span class="points">119</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48980019"
                   >Comments</a
-                ><span class="descendants">: 97</span></span
+                ><span class="descendants">: 126</span></span
               >
             </h4>
           </section>
@@ -222,11 +438,11 @@
             <h4>
               <span>2026-07-20 @ 15:07:31</span
               ><span class="points-container"
-                >Points: <span class="points">89</span></span
+                >Points: <span class="points">99</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48979931"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 32</span></span
               >
             </h4>
           </section>
@@ -243,11 +459,7 @@
             <h4>
               <span>2026-07-20 @ 15:00:34</span
               ><span class="points-container"
-                >Points: <span class="points">27</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48979825"
-                  >Comments</a
-                ><span class="descendants">: 0</span></span
+                >Points: <span class="points">28</span></span
               >
             </h4>
           </section>
@@ -264,11 +476,11 @@
             <h4>
               <span>2026-07-20 @ 15:00:31</span
               ><span class="points-container"
-                >Points: <span class="points">15</span></span
+                >Points: <span class="points">19</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48979823"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -285,7 +497,7 @@
             <h4>
               <span>2026-07-20 @ 14:35:19</span
               ><span class="points-container"
-                >Points: <span class="points">9</span></span
+                >Points: <span class="points">14</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48979475"
                   >Comments</a
@@ -306,11 +518,11 @@
             <h4>
               <span>2026-07-20 @ 14:21:47</span
               ><span class="points-container"
-                >Points: <span class="points">153</span></span
+                >Points: <span class="points">236</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48979269"
                   >Comments</a
-                ><span class="descendants">: 146</span></span
+                ><span class="descendants">: 203</span></span
               >
             </h4>
           </section>
@@ -327,32 +539,11 @@
             <h4>
               <span>2026-07-20 @ 14:10:30</span
               ><span class="points-container"
-                >Points: <span class="points">79</span></span
+                >Points: <span class="points">87</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48979120"
                   >Comments</a
-                ><span class="descendants">: 44</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48979110">
-          <h3>
-            <a
-              class="item"
-              href="https://www.firefox.com/en-US/firefox/153.0beta/releasenotes/"
-              >Firefox 153.0 Beta</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-20 @ 14:09:43</span
-              ><span class="points-container"
-                >Points: <span class="points">52</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48979110"
-                  >Comments</a
-                ><span class="descendants">: 46</span></span
+                ><span class="descendants">: 49</span></span
               >
             </h4>
           </section>
@@ -369,11 +560,11 @@
             <h4>
               <span>2026-07-20 @ 14:01:33</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">26</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48979010"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -388,11 +579,11 @@
             <h4>
               <span>2026-07-20 @ 13:47:13</span
               ><span class="points-container"
-                >Points: <span class="points">89</span></span
+                >Points: <span class="points">108</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48978835"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
           </section>
@@ -409,11 +600,11 @@
             <h4>
               <span>2026-07-20 @ 13:43:10</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">47</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48978792"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -430,11 +621,11 @@
             <h4>
               <span>2026-07-20 @ 13:28:33</span
               ><span class="points-container"
-                >Points: <span class="points">310</span></span
+                >Points: <span class="points">343</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48978605"
                   >Comments</a
-                ><span class="descendants">: 179</span></span
+                ><span class="descendants">: 199</span></span
               >
             </h4>
           </section>
@@ -450,7 +641,7 @@
             <h4>
               <span>2026-07-20 @ 13:11:12</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">33</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48978388"
                   >Comments</a
@@ -469,11 +660,11 @@
             <h4>
               <span>2026-07-20 @ 13:07:11</span
               ><span class="points-container"
-                >Points: <span class="points">118</span></span
+                >Points: <span class="points">130</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48978350"
                   >Comments</a
-                ><span class="descendants">: 74</span></span
+                ><span class="descendants">: 83</span></span
               >
             </h4>
           </section>
@@ -488,11 +679,11 @@
             <h4>
               <span>2026-07-20 @ 12:52:03</span
               ><span class="points-container"
-                >Points: <span class="points">21</span></span
+                >Points: <span class="points">25</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48978192"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -509,11 +700,32 @@
             <h4>
               <span>2026-07-20 @ 12:45:55</span
               ><span class="points-container"
-                >Points: <span class="points">300</span></span
+                >Points: <span class="points">310</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48978112"
                   >Comments</a
-                ><span class="descendants">: 204</span></span
+                ><span class="descendants">: 214</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48977849">
+          <h3>
+            <a
+              class="item"
+              href="https://www.beautifulpublicdata.com/the-footprints-of-every-building-in-nyc/"
+              >The footprints of every building in NYC – updated weekly</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-20 @ 12:25:49</span
+              ><span class="points-container"
+                >Points: <span class="points">20</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48977849"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -531,11 +743,11 @@
             <h4>
               <span>2026-07-20 @ 12:14:08</span
               ><span class="points-container"
-                >Points: <span class="points">329</span></span
+                >Points: <span class="points">349</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48977711"
                   >Comments</a
-                ><span class="descendants">: 184</span></span
+                ><span class="descendants">: 196</span></span
               >
             </h4>
           </section>
@@ -550,11 +762,11 @@
             <h4>
               <span>2026-07-20 @ 10:30:40</span
               ><span class="points-container"
-                >Points: <span class="points">371</span></span
+                >Points: <span class="points">404</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48976846"
                   >Comments</a
-                ><span class="descendants">: 96</span></span
+                ><span class="descendants">: 98</span></span
               >
             </h4>
           </section>
@@ -572,11 +784,11 @@
             <h4>
               <span>2026-07-20 @ 08:13:36</span
               ><span class="points-container"
-                >Points: <span class="points">320</span></span
+                >Points: <span class="points">326</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48975665"
                   >Comments</a
-                ><span class="descendants">: 168</span></span
+                ><span class="descendants">: 172</span></span
               >
             </h4>
           </section>
@@ -593,7 +805,7 @@
             <h4>
               <span>2026-07-20 @ 01:31:12</span
               ><span class="points-container"
-                >Points: <span class="points">30</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48973455"
                   >Comments</a
@@ -613,11 +825,11 @@
             <h4>
               <span>2026-07-20 @ 00:16:50</span
               ><span class="points-container"
-                >Points: <span class="points">304</span></span
+                >Points: <span class="points">306</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48972970"
                   >Comments</a
-                ><span class="descendants">: 124</span></span
+                ><span class="descendants">: 129</span></span
               >
             </h4>
           </section>
@@ -634,11 +846,11 @@
             <h4>
               <span>2026-07-19 @ 16:31:44</span
               ><span class="points-container"
-                >Points: <span class="points">74</span></span
+                >Points: <span class="points">81</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48969530"
                   >Comments</a
-                ><span class="descendants">: 61</span></span
+                ><span class="descendants">: 68</span></span
               >
             </h4>
           </section>
@@ -656,7 +868,7 @@
             <h4>
               <span>2026-07-17 @ 23:06:08</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">33</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48953189"
                   >Comments</a
@@ -676,7 +888,7 @@
             <h4>
               <span>2026-07-17 @ 22:02:18</span
               ><span class="points-container"
-                >Points: <span class="points">76</span></span
+                >Points: <span class="points">83</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48952713"
                   >Comments</a
@@ -698,7 +910,7 @@
             <h4>
               <span>2026-07-16 @ 21:40:42</span
               ><span class="points-container"
-                >Points: <span class="points">14</span></span
+                >Points: <span class="points">17</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48940641"
                   >Comments</a
@@ -720,31 +932,11 @@
             <h4>
               <span>2026-07-15 @ 08:35:46</span
               ><span class="points-container"
-                >Points: <span class="points">111</span></span
+                >Points: <span class="points">112</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48917906"
                   >Comments</a
-                ><span class="descendants">: 75</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48899449">
-          <h3>
-            <a class="item" href="https://primate.run/blog/primate-040"
-              >Primate 0.40: Route pages, store enums, async schemas and
-              events</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-13 @ 21:56:32</span
-              ><span class="points-container"
-                >Points: <span class="points">9</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48899449"
-                  >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 78</span></span
               >
             </h4>
           </section>
