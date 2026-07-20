@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-07-19, 23:58:12",
-      "https://news.ycombinator.com/item?id=48972858"
+      "2026-07-20, 00:41:32",
+      "https://news.ycombinator.com/item?id=48973123"
     ],
     [
-      "Ask HN: What are your favorite blogs not about AI?",
-      "https://news.ycombinator.com/item?id=48972858"
+      "DeKalb deputy charged with Flock camera misuse; more Georgia officers fired",
+      "https://www.ajc.com/news/2026/07/3-more-georgia-police-officers-fired-over-alleged-flock-camera-misuse/"
     ]
   ],
   [
@@ -31,21 +31,11 @@
   ],
   [
     [
-      "2026-07-19, 21:31:48",
-      "https://news.ycombinator.com/item?id=48971847"
-    ],
-    [
-      "Show HN: A canvas-based note taking and organizer app",
-      "https://www.passinote.app/"
-    ]
-  ],
-  [
-    [
       "2026-07-19, 21:18:10",
       "https://news.ycombinator.com/item?id=48971738"
     ],
     [
-      "AI advice made people 3x less accurate but 2x confident, researchers found",
+      "AI advice made people less accurate but more confident – sudy",
       "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study"
     ]
   ],
@@ -61,22 +51,32 @@
   ],
   [
     [
-      "2026-07-19, 19:27:16",
-      "https://news.ycombinator.com/item?id=48970991"
+      "2026-07-19, 19:13:29",
+      "https://news.ycombinator.com/item?id=48970894"
     ],
     [
-      "Modder Runs GTA III Inside GTA: San Andreas on an In-Game TV",
-      "https://videocardz.com/newz/modder-runs-gta-iii-inside-gta-san-andreas-on-an-in-game-tv"
+      "Orion Browser by Kagi",
+      "https://orionbrowser.com/"
     ]
   ],
   [
     [
-      "2026-07-19, 16:45:17",
-      "https://news.ycombinator.com/item?id=48969635"
+      "2026-07-19, 18:57:01",
+      "https://news.ycombinator.com/item?id=48970772"
     ],
     [
-      "The Last MPEG-4 Visual Patent Has Expired",
-      "https://www.phoronix.com/news/Last-MPEG-4-Patent-Expired"
+      "HomeLab #1: MikroTik as a Home Router",
+      "https://justsomebody.dev/blog/mikrotik-home-router"
+    ]
+  ],
+  [
+    [
+      "2026-07-19, 17:25:03",
+      "https://news.ycombinator.com/item?id=48969983"
+    ],
+    [
+      "HMD Touch 4G",
+      "https://www.hmd.com/en_int/hmd-touch-4g"
     ]
   ],
   [
@@ -121,12 +121,32 @@
   ],
   [
     [
+      "2026-07-19, 14:30:31",
+      "https://news.ycombinator.com/item?id=48968515"
+    ],
+    [
+      "Terence McKenna's Mega Bad Trip (2025)",
+      "https://psychedelics.community/cultural-icons/terence-mckennas-mega-bad-trip"
+    ]
+  ],
+  [
+    [
       "2026-07-19, 13:29:29",
       "https://news.ycombinator.com/item?id=48968063"
     ],
     [
       "Bananas sprout in Rayleigh Garden UK after 15 years",
       "https://www.bbc.com/news/articles/cvg8edqq5g5o"
+    ]
+  ],
+  [
+    [
+      "2026-07-19, 12:01:53",
+      "https://news.ycombinator.com/item?id=48967355"
+    ],
+    [
+      "I burned all my tokens researching how to save tokens",
+      "https://quesma.com/blog/custom-deep-research-pipeline/"
     ]
   ],
   [
@@ -231,6 +251,16 @@
   ],
   [
     [
+      "2026-07-14, 22:19:13",
+      "https://news.ycombinator.com/item?id=48913656"
+    ],
+    [
+      "Who Is America's Homer?",
+      "https://www.plough.com/articles/who-is-americas-homer"
+    ]
+  ],
+  [
+    [
       "2026-07-14, 18:22:47",
       "https://news.ycombinator.com/item?id=48911021"
     ],
@@ -241,52 +271,22 @@
   ],
   [
     [
+      "2026-07-14, 15:33:42",
+      "https://news.ycombinator.com/item?id=48908433"
+    ],
+    [
+      "Dupes took over the world",
+      "https://www.vox.com/podcasts/493930/dupe-culture-fender-ugg-quince-tiktok-amazon-online-shopping"
+    ]
+  ],
+  [
+    [
       "2026-07-14, 14:23:26",
       "https://news.ycombinator.com/item?id=48907390"
     ],
     [
       "The Zen of Parallel Programming",
       "https://smolnero.com/posts/the-zen-of-parallel-programming"
-    ]
-  ],
-  [
-    [
-      "2026-07-14, 09:16:39",
-      "https://news.ycombinator.com/item?id=48904070"
-    ],
-    [
-      "Native SDK from Vercel",
-      "https://native-sdk.dev/"
-    ]
-  ],
-  [
-    [
-      "2026-07-14, 08:24:54",
-      "https://news.ycombinator.com/item?id=48903717"
-    ],
-    [
-      "Infinities, impossibilities, and the man in the white linen suit",
-      "https://iain.so/infinities-impossibilities-and-the-man-in-the-white-linen-suit"
-    ]
-  ],
-  [
-    [
-      "2026-07-13, 14:32:31",
-      "https://news.ycombinator.com/item?id=48893346"
-    ],
-    [
-      "From Muon to Gradient Clipping: Some Thoughts on QK Stability",
-      "https://MasterGodzilla.github.io/posts/2025/07/muon-clip/"
-    ]
-  ],
-  [
-    [
-      "2026-07-13, 11:58:32",
-      "https://news.ycombinator.com/item?id=48891334"
-    ],
-    [
-      "Land Atlas – soil, farmability, and crop analysis for land listings",
-      "https://land-atlas-production.up.railway.app/welcome"
     ]
   ],
   [
