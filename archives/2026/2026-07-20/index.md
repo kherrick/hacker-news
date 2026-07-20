@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-07-20](index.md)
 
+* [2026-07-20, 18:10:44](https://news.ycombinator.com/item?id=48982583) - [An Empirical Study: AI Agent Rules Need Context and Layered Enforcement](https://eunomia.dev/blog/2026/07/15/ebpf-ai-agent-policy-enforcement/)
+* [2026-07-20, 18:10:17](https://news.ycombinator.com/item?id=48982578) - [The drivers behind software delivery inefficiency](https://dl.acm.org/doi/10.1145/3800646.3800650)
+* [2026-07-20, 17:57:37](https://news.ycombinator.com/item?id=48982374) - [That post never existed. Stop listening to that thing](https://rachelbythebay.com/w/2026/05/05/404/)
 * [2026-07-20, 17:31:57](https://news.ycombinator.com/item?id=48982011) - [Hyprland 0.55 announced the switch to Lua for its config files](https://hypr.land/news/update55/)
 * [2026-07-20, 17:13:23](https://news.ycombinator.com/item?id=48981703) - [Kimi Work](https://www.kimi.com/products/kimi-work)
 * [2026-07-20, 17:07:39](https://news.ycombinator.com/item?id=48981620) - [Jelly UI: Soft-body physics for native HTML form controls](https://jelly-ui.com/)

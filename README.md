@@ -1,12 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-20, 18:10:44](https://news.ycombinator.com/item?id=48982583) - [An Empirical Study: AI Agent Rules Need Context and Layered Enforcement](https://eunomia.dev/blog/2026/07/15/ebpf-ai-agent-policy-enforcement/)
+* [2026-07-20, 18:10:17](https://news.ycombinator.com/item?id=48982578) - [The drivers behind software delivery inefficiency](https://dl.acm.org/doi/10.1145/3800646.3800650)
+* [2026-07-20, 17:57:37](https://news.ycombinator.com/item?id=48982374) - [That post never existed. Stop listening to that thing](https://rachelbythebay.com/w/2026/05/05/404/)
 * [2026-07-20, 17:31:57](https://news.ycombinator.com/item?id=48982011) - [Hyprland 0.55 announced the switch to Lua for its config files](https://hypr.land/news/update55/)
 * [2026-07-20, 17:13:23](https://news.ycombinator.com/item?id=48981703) - [Kimi Work](https://www.kimi.com/products/kimi-work)
 * [2026-07-20, 17:07:39](https://news.ycombinator.com/item?id=48981620) - [Jelly UI: Soft-body physics for native HTML form controls](https://jelly-ui.com/)
-* [2026-07-20, 16:58:15](https://news.ycombinator.com/item?id=48981496) - [My husbands suicide shows theres something very wrong with US insurance industry](https://www.statnews.com/2026/07/20/psychiatric-insurance-coverage-suicide-denial-personal-essay/)
 * [2026-07-20, 16:36:36](https://news.ycombinator.com/item?id=48981206) - [Over 30% of new ArXiv submissions now read as AI-written](https://unslop.run/blog/measuring-ai-writing-on-arxiv)
 * [2026-07-20, 16:32:10](https://news.ycombinator.com/item?id=48981136) - [Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12](https://news.ycombinator.com/item?id=48981136)
-* [2026-07-20, 16:00:34](https://news.ycombinator.com/item?id=48980700) - [Czechia moves to ban mobile phones in schools from September 2027](https://www.expats.cz/czech-news/article/czech-news-in-brief-for-july-20-2026-monday-top-afternoon-headlines)
 * [2026-07-20, 15:47:28](https://news.ycombinator.com/item?id=48980520) - [I Stopped \"Creating Content\"](https://refactoringenglish.com/blog/why-i-stopped-creating-content/)
 * [2026-07-20, 15:46:18](https://news.ycombinator.com/item?id=48980506) - [Ziggity – A terminal UI for Git, written in Zig](https://github.com/simoarpe/ziggity)
 * [2026-07-20, 15:40:03](https://news.ycombinator.com/item?id=48980404) - [Cross sectioning insects in an electron microscope with a femtosecond laser [video]](https://www.youtube.com/watch?v=NwhVJ7cv9B4)
@@ -28,7 +29,6 @@
 * [2026-07-20, 10:30:40](https://news.ycombinator.com/item?id=48976846) - [Airport Simulator](https://airport.apunen.com/)
 * [2026-07-20, 08:13:36](https://news.ycombinator.com/item?id=48975665) - [Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25](https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/)
 * [2026-07-20, 01:31:12](https://news.ycombinator.com/item?id=48973455) - [Satan's 19th-Century Bank Note (2017)](https://www.historytoday.com/miscellanies/satans-19th-century-bank-note)
-* [2026-07-17, 22:02:18](https://news.ycombinator.com/item?id=48952713) - [What does the Riemann zeta function have to do with the distribution of primes?](https://hidden-phenomena.com/articles/rh)
 * [2026-07-14, 05:23:47](https://news.ycombinator.com/item?id=48902611) - [I turned my bearblog into a text based adventure](https://peaceful.bearblog.dev)
 
 ## [Archives](archives/index.md)
