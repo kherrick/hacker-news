@@ -37,6 +37,7 @@
 * [2026-07-16, 16:50:32](https://news.ycombinator.com/item?id=48936994) - [1-Bit LLM in the Browser](https://huggingface.co/spaces/webml-community/bonsai-webgpu)
 * [2026-07-16, 16:41:37](https://news.ycombinator.com/item?id=48936880) - [Detecting LLM-Generated Texts with \"Classical\" Machine Learning](https://blog.lyc8503.net/en/post/llm-classifier/)
 * [2026-07-16, 16:36:17](https://news.ycombinator.com/item?id=48936803) - [Show HN: Galois connections for composable numeric casts in Rust](https://github.com/cmk/connections)
+* [2026-07-16, 16:24:54](https://news.ycombinator.com/item?id=48936658) - [What I Learned from Reimplementing 40 Multi-Agent LLM Papers](https://medium.com/@Koukyosyumei/what-i-learned-from-reimplementing-40-multi-agent-llm-papers-bd6b574f5659)
 * [2026-07-16, 16:24:50](https://news.ycombinator.com/item?id=48936657) - [56,000 lines of DOOM, in a language I made up](https://betlang.dev/about/)
 * [2026-07-16, 16:24:33](https://news.ycombinator.com/item?id=48936654) - [Photos of items from families in different countries with different incomes](https://www.gapminder.org/dollar-street)
 * [2026-07-16, 16:22:09](https://news.ycombinator.com/item?id=48936621) - [Building scalable AI agents with modular prompt transpilation](https://developers.googleblog.com/building-scalable-ai-agents-with-modular-prompt-transpilation/)
