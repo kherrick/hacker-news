@@ -20,6 +20,7 @@
 * [2026-07-15, 20:47:29](https://news.ycombinator.com/item?id=48926841) - [Grok Build is open source](https://x.ai/open-source)
 * [2026-07-15, 20:25:41](https://news.ycombinator.com/item?id=48926594) - [GTX 1080s: Testing a Legend](https://www.lttlabs.com/articles/2026/07/15/gtx-1080s-revisiting-legends)
 * [2026-07-15, 20:24:58](https://news.ycombinator.com/item?id=48926590) - [Grok Build Is OSS](https://github.com/xai-org/grok-build)
+* [2026-07-15, 19:59:38](https://news.ycombinator.com/item?id=48926307) - [Ise Jingu and the Pyramid of Enabling Technologies (2021)](https://www.scopeofwork.net/ise-jingu-and-the-pyramid-of-enabling-technologies/)
 * [2026-07-15, 19:42:53](https://news.ycombinator.com/item?id=48926085) - [Brainless: Shadcn components that look like Claude Code, Codex and Grok](https://brainless.swerdlow.dev)
 * [2026-07-15, 19:40:23](https://news.ycombinator.com/item?id=48926053) - [Voxatron](https://www.lexaloffle.com/voxatron.php)
 * [2026-07-15, 19:27:59](https://news.ycombinator.com/item?id=48925888) - [Duskers, the scary command line game, is getting a sequel](https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20)
