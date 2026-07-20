@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-07-20, 15:10:28",
+      "https://news.ycombinator.com/item?id=48979974"
+    ],
+    [
+      "Google Is Censoring Reviews of ICE Detention Centers",
+      "https://theintercept.com/2026/07/20/google-maps-reviews-ice-detention-centers/"
+    ]
+  ],
+  [
+    [
+      "2026-07-20, 15:07:31",
+      "https://news.ycombinator.com/item?id=48979931"
+    ],
+    [
+      "Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion",
+      "https://nothings.org/gamedev/ssao/"
+    ]
+  ],
+  [
+    [
+      "2026-07-20, 15:00:27",
+      "https://news.ycombinator.com/item?id=48979822"
+    ],
+    [
+      "Caffeine and Cardiovascular Disease: Aha Scientific Statement",
+      "https://www.ahajournals.org/doi/epub/10.1161/CIR.0000000000001454"
+    ]
+  ],
+  [
+    [
+      "2026-07-20, 14:21:47",
+      "https://news.ycombinator.com/item?id=48979269"
+    ],
+    [
+      "American AI is locked down and proprietary. It's losing",
+      "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/"
+    ]
+  ],
+  [
+    [
       "2026-07-20, 14:10:30",
       "https://news.ycombinator.com/item?id=48979120"
     ],
@@ -31,22 +71,22 @@
   ],
   [
     [
+      "2026-07-20, 13:43:10",
+      "https://news.ycombinator.com/item?id=48978792"
+    ],
+    [
+      "Shinjuku Station in 3D",
+      "https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/"
+    ]
+  ],
+  [
+    [
       "2026-07-20, 13:28:33",
       "https://news.ycombinator.com/item?id=48978605"
     ],
     [
       "Hacker wipes Romania's land registry database",
       "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/"
-    ]
-  ],
-  [
-    [
-      "2026-07-20, 13:23:38",
-      "https://news.ycombinator.com/item?id=48978545"
-    ],
-    [
-      "Modder Makes GTA: Vice City Playable Inside GTA 3 Inside GTA: San Andreas",
-      "https://kotaku.com/gta-vice-city-made-playable-in-gta-3-made-playable-in-gta-san-andreas-2000717510"
     ]
   ],
   [
@@ -67,16 +107,6 @@
     [
       "We're Squandering LEDs' Potential to Save Our Night Skies",
       "https://spectrum.ieee.org/led-light-pollution"
-    ]
-  ],
-  [
-    [
-      "2026-07-20, 13:04:41",
-      "https://news.ycombinator.com/item?id=48978331"
-    ],
-    [
-      "Codex is wearing out our devices",
-      "https://old.reddit.com/r/codex/comments/1v0m3lt/codex_is_wearing_out_our_devices/"
     ]
   ],
   [
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2026-07-20, 04:45:15",
-      "https://news.ycombinator.com/item?id=48974454"
-    ],
-    [
-      "Xiaomi-Robotics-1",
-      "https://robotics.xiaomi.com/xiaomi-robotics-1.html"
-    ]
-  ],
-  [
-    [
       "2026-07-20, 04:24:48",
       "https://news.ycombinator.com/item?id=48974325"
     ],
@@ -197,36 +217,6 @@
     [
       "ECC and DDR5",
       "https://etbe.coker.com.au/2026/07/19/ecc-ddr5/"
-    ]
-  ],
-  [
-    [
-      "2026-07-19, 14:41:16",
-      "https://news.ycombinator.com/item?id=48968606"
-    ],
-    [
-      "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
-      "https://news.ycombinator.com/item?id=48968606"
-    ]
-  ],
-  [
-    [
-      "2026-07-19, 10:34:58",
-      "https://news.ycombinator.com/item?id=48966713"
-    ],
-    [
-      "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
-      "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard"
-    ]
-  ],
-  [
-    [
-      "2026-07-19, 10:03:23",
-      "https://news.ycombinator.com/item?id=48966569"
-    ],
-    [
-      "Claude Code uses Bun written in Rust now",
-      "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Eliminating Go bounds checks with unsafe",
       "https://blog.andr2i.com/posts/2026-07-06-eliminating-go-bound-checks-with-unsafe"
+    ]
+  ],
+  [
+    [
+      "2026-07-13, 21:56:32",
+      "https://news.ycombinator.com/item?id=48899449"
+    ],
+    [
+      "Primate 0.40: Route pages, store enums, async schemas and events",
+      "https://primate.run/blog/primate-040"
     ]
   ]
 ]
