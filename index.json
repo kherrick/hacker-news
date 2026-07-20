@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-20, 16:36:36",
+      "https://news.ycombinator.com/item?id=48981206"
+    ],
+    [
+      "Over 30% of new ArXiv submissions now read as AI-written",
+      "https://unslop.run/blog/measuring-ai-writing-on-arxiv"
+    ]
+  ],
+  [
+    [
       "2026-07-20, 16:32:10",
       "https://news.ycombinator.com/item?id=48981136"
     ],
@@ -11,12 +21,42 @@
   ],
   [
     [
-      "2026-07-20, 15:28:32",
-      "https://news.ycombinator.com/item?id=48980238"
+      "2026-07-20, 16:00:34",
+      "https://news.ycombinator.com/item?id=48980700"
     ],
     [
-      "Jaron Lanier: there is no AI (2023)",
-      "https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai"
+      "Czechia moves to ban mobile phones in schools from September 2027",
+      "https://www.expats.cz/czech-news/article/czech-news-in-brief-for-july-20-2026-monday-top-afternoon-headlines"
+    ]
+  ],
+  [
+    [
+      "2026-07-20, 15:47:28",
+      "https://news.ycombinator.com/item?id=48980520"
+    ],
+    [
+      "I Stopped \"Creating Content\"",
+      "https://refactoringenglish.com/blog/why-i-stopped-creating-content/"
+    ]
+  ],
+  [
+    [
+      "2026-07-20, 15:46:18",
+      "https://news.ycombinator.com/item?id=48980506"
+    ],
+    [
+      "Ziggity – A terminal UI for Git, written in Zig",
+      "https://github.com/simoarpe/ziggity"
+    ]
+  ],
+  [
+    [
+      "2026-07-20, 15:40:03",
+      "https://news.ycombinator.com/item?id=48980404"
+    ],
+    [
+      "Cross sectioning insects in an electron microscope with a femtosecond laser [video]",
+      "https://www.youtube.com/watch?v=NwhVJ7cv9B4"
     ]
   ],
   [
@@ -61,16 +101,6 @@
   ],
   [
     [
-      "2026-07-20, 15:00:34",
-      "https://news.ycombinator.com/item?id=48979825"
-    ],
-    [
-      "I Tracked 997 Chrome Extensions That Changed Their Titles",
-      "https://extensionranker.com/blog/chrome-extension-title-changes-rankings"
-    ]
-  ],
-  [
-    [
       "2026-07-20, 15:00:31",
       "https://news.ycombinator.com/item?id=48979823"
     ],
@@ -95,7 +125,7 @@
       "https://news.ycombinator.com/item?id=48979269"
     ],
     [
-      "American AI is locked down and proprietary. It's losing",
+      "China's open-weights AI strategy is winning",
       "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/"
     ]
   ],
@@ -191,16 +221,6 @@
   ],
   [
     [
-      "2026-07-20, 12:25:49",
-      "https://news.ycombinator.com/item?id=48977849"
-    ],
-    [
-      "The footprints of every building in NYC – updated weekly",
-      "https://www.beautifulpublicdata.com/the-footprints-of-every-building-in-nyc/"
-    ]
-  ],
-  [
-    [
       "2026-07-20, 12:14:08",
       "https://news.ycombinator.com/item?id=48977711"
     ],
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2026-07-20, 00:16:50",
-      "https://news.ycombinator.com/item?id=48972970"
-    ],
-    [
-      "Moonshine: Lets you stream games from your PC to any device running Moonlight",
-      "https://github.com/hgaiser/moonshine"
-    ]
-  ],
-  [
-    [
       "2026-07-19, 16:31:44",
       "https://news.ycombinator.com/item?id=48969530"
     ],
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2026-07-16, 21:40:42",
-      "https://news.ycombinator.com/item?id=48940641"
+      "2026-07-14, 17:31:45",
+      "https://news.ycombinator.com/item?id=48910259"
     ],
     [
-      "We rewrote our custom visualisation renderers from SVG to be in Canvas",
-      "https://www.polarsignals.com/blog/posts/2026/07/14/new-and-faster-profiler"
-    ]
-  ],
-  [
-    [
-      "2026-07-15, 08:35:46",
-      "https://news.ycombinator.com/item?id=48917906"
-    ],
-    [
-      "Sealed tomb filled with paintings and inscriptions discovered in Egypt",
-      "https://www.labrujulaverde.com/en/2026/07/sealed-tomb-of-a-high-official-or-priest-filled-with-paintings-and-inscriptions-discovered-on-luxors-west-bank/"
+      "Another Entry in the \"Stuff Im Glad Im Not Responsible for\" Ledger",
+      "https://blog.cloudflare.com/dnssec-nta-ede-33/"
     ]
   ]
 ]
