@@ -13,6 +13,7 @@
 * [2026-07-16, 22:07:30](https://news.ycombinator.com/item?id=48940895) - [CVE-2026-25089: FortiSandbox unauthenticated command injection added to CISA KEV](https://hellorecon.com/blog/cve-2026-25089)
 * [2026-07-16, 22:00:00](https://news.ycombinator.com/item?id=48940833) - ['Likweli': A new monkey species discovered in the Congo Basin](https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin)
 * [2026-07-16, 21:55:49](https://news.ycombinator.com/item?id=48940801) - [Just Do Things](https://ray.zo.space/blog/just-do-things)
+* [2026-07-16, 21:40:42](https://news.ycombinator.com/item?id=48940641) - [We rewrote our custom visualisation renderers from SVG to be in Canvas](https://www.polarsignals.com/blog/posts/2026/07/14/new-and-faster-profiler)
 * [2026-07-16, 21:38:02](https://news.ycombinator.com/item?id=48940603) - [Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning](https://arxiv.org/abs/2607.12395)
 * [2026-07-16, 21:04:32](https://news.ycombinator.com/item?id=48940231) - [Scaling to 1M concurrent sandboxes in seconds](https://modal.com/blog/scaling-to-1-million-concurrent-sandboxes-in-seconds)
 * [2026-07-16, 20:38:48](https://news.ycombinator.com/item?id=48939896) - [Mathematics of Data Science](https://arxiv.org/abs/2607.11938)
