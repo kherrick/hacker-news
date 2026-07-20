@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-20, 16:32:10](https://news.ycombinator.com/item?id=48981136) - [Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12](https://news.ycombinator.com/item?id=48981136)
 * [2026-07-20, 15:28:32](https://news.ycombinator.com/item?id=48980238) - [Jaron Lanier: there is no AI (2023)](https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai)
 * [2026-07-20, 15:23:50](https://news.ycombinator.com/item?id=48980167) - [Show HN: Wheesper – Start an anonymous discussion with a link](https://wheesper.com/)
 * [2026-07-20, 15:15:36](https://news.ycombinator.com/item?id=48980053) - [The Voice of Google](https://www.newyorker.com/culture/the-weekend-essay/the-voice-of-google)
@@ -10,7 +11,6 @@
 * [2026-07-20, 14:35:19](https://news.ycombinator.com/item?id=48979475) - [Controlling Reasoning Effort in LLMs](https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms)
 * [2026-07-20, 14:21:47](https://news.ycombinator.com/item?id=48979269) - [American AI is locked down and proprietary. It's losing](https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/)
 * [2026-07-20, 14:10:30](https://news.ycombinator.com/item?id=48979120) - [Perfection Is Not Over-Engineering](https://var0.xyz/posts/perfection-is-not-over-engineering.html)
-* [2026-07-20, 14:09:43](https://news.ycombinator.com/item?id=48979110) - [Firefox 153.0 Beta](https://www.firefox.com/en-US/firefox/153.0beta/releasenotes/)
 * [2026-07-20, 14:01:33](https://news.ycombinator.com/item?id=48979010) - [Tested Kimi K3 for Coding](https://www.dotnetperls.com/2026_7_18_tested-kimi-k3-coding)
 * [2026-07-20, 13:47:13](https://news.ycombinator.com/item?id=48978835) - [Firefox Merges Support for Vulkan Video Decoding](https://github.com/search)
 * [2026-07-20, 13:43:10](https://news.ycombinator.com/item?id=48978792) - [Shinjuku Station in 3D](https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/)
@@ -19,6 +19,7 @@
 * [2026-07-20, 13:07:11](https://news.ycombinator.com/item?id=48978350) - [We're Squandering LEDs' Potential to Save Our Night Skies](https://spectrum.ieee.org/led-light-pollution)
 * [2026-07-20, 12:52:03](https://news.ycombinator.com/item?id=48978192) - [Soofi – Sovereign Open Source Foundation Models](https://www.soofi.info/)
 * [2026-07-20, 12:45:55](https://news.ycombinator.com/item?id=48978112) - [Annoying and alarming things about OpenCode](https://wren.wtf/shower-thoughts/stop-using-opencode/)
+* [2026-07-20, 12:25:49](https://news.ycombinator.com/item?id=48977849) - [The footprints of every building in NYC – updated weekly](https://www.beautifulpublicdata.com/the-footprints-of-every-building-in-nyc/)
 * [2026-07-20, 12:14:08](https://news.ycombinator.com/item?id=48977711) - [The EU is about to sell our most sensitive data to the US for visa-free travel](https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/)
 * [2026-07-20, 10:30:40](https://news.ycombinator.com/item?id=48976846) - [Airport Simulator](https://airport.apunen.com/)
 * [2026-07-20, 08:13:36](https://news.ycombinator.com/item?id=48975665) - [Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25](https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/)
@@ -29,7 +30,6 @@
 * [2026-07-17, 22:02:18](https://news.ycombinator.com/item?id=48952713) - [What does the Riemann zeta function have to do with the distribution of primes?](https://hidden-phenomena.com/articles/rh)
 * [2026-07-16, 21:40:42](https://news.ycombinator.com/item?id=48940641) - [We rewrote our custom visualisation renderers from SVG to be in Canvas](https://www.polarsignals.com/blog/posts/2026/07/14/new-and-faster-profiler)
 * [2026-07-15, 08:35:46](https://news.ycombinator.com/item?id=48917906) - [Sealed tomb filled with paintings and inscriptions discovered in Egypt](https://www.labrujulaverde.com/en/2026/07/sealed-tomb-of-a-high-official-or-priest-filled-with-paintings-and-inscriptions-discovered-on-luxors-west-bank/)
-* [2026-07-13, 21:56:32](https://news.ycombinator.com/item?id=48899449) - [Primate 0.40: Route pages, store enums, async schemas and events](https://primate.run/blog/primate-040)
 
 ## [Archives](archives/index.md)
 

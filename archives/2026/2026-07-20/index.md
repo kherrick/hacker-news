@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-20](index.md)
 
+* [2026-07-20, 16:32:10](https://news.ycombinator.com/item?id=48981136) - [Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12](https://news.ycombinator.com/item?id=48981136)
 * [2026-07-20, 15:28:32](https://news.ycombinator.com/item?id=48980238) - [Jaron Lanier: there is no AI (2023)](https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai)
 * [2026-07-20, 15:23:50](https://news.ycombinator.com/item?id=48980167) - [Show HN: Wheesper – Start an anonymous discussion with a link](https://wheesper.com/)
 * [2026-07-20, 15:15:36](https://news.ycombinator.com/item?id=48980053) - [The Voice of Google](https://www.newyorker.com/culture/the-weekend-essay/the-voice-of-google)
