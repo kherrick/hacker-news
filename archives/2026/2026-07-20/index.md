@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-07-20](index.md)
 
+* [2026-07-20, 20:36:37](https://news.ycombinator.com/item?id=48984555) - [The creepiest 'sales demo' of all time](https://www.appenmedia.com/opinion/letter-to-the-editor-the-creepiest-sales-demo-of-all-time/article_a8f0cc6c-29d3-41f7-8668-8a855f760efb.html)
+* [2026-07-20, 20:12:19](https://news.ycombinator.com/item?id=48984270) - [I wrote an bash enumerator because I was sick of xargs](https://numerlab.org/2025/07/20/bashumerate-enumerator/)
+* [2026-07-20, 20:10:44](https://news.ycombinator.com/item?id=48984254) - [Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco](https://vincentwoo.com/3d/grace_cathedral/)
 * [2026-07-20, 20:08:45](https://news.ycombinator.com/item?id=48984231) - [The Power of Awareness: Overcoming Surveillance Capitalism](https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/)
 * [2026-07-20, 19:03:37](https://news.ycombinator.com/item?id=48983382) - [Human mathematicians are being outcounterexampled](https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/)
 * [2026-07-20, 18:43:55](https://news.ycombinator.com/item?id=48983108) - [Safety and alignment in an era of long-horizon models](https://openai.com/index/safety-alignment-long-horizon-models/)
@@ -49,6 +52,7 @@
 * [2026-07-20, 12:25:49](https://news.ycombinator.com/item?id=48977849) - [The footprints of every building in NYC – updated weekly](https://www.beautifulpublicdata.com/the-footprints-of-every-building-in-nyc/)
 * [2026-07-20, 12:14:08](https://news.ycombinator.com/item?id=48977711) - [The EU is about to sell our most sensitive data to the US for visa-free travel](https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/)
 * [2026-07-20, 12:00:43](https://news.ycombinator.com/item?id=48977564) - [The Trump administration's Threat to Scientific Research](https://marginalrevolution.com/marginalrevolution/2026/07/the-trump-administrations-threat-to-scientific-research.html)
+* [2026-07-20, 11:05:58](https://news.ycombinator.com/item?id=48977128) - [Who's Afraid of Chinese Models?](https://stratechery.com/2026/whos-afraid-of-chinese-models/)
 * [2026-07-20, 10:30:40](https://news.ycombinator.com/item?id=48976846) - [Airport Simulator](https://airport.apunen.com/)
 * [2026-07-20, 10:24:02](https://news.ycombinator.com/item?id=48976781) - [GitHub's 2FA is to become mandatory on September 2, 2026](https://news.ycombinator.com/item?id=48976781)
 * [2026-07-20, 10:12:22](https://news.ycombinator.com/item?id=48976682) - [Airbus Takes Flight from AWS](https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109)
