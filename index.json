@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-20, 21:43:07",
+      "https://news.ycombinator.com/item?id=48985249"
+    ],
+    [
+      "Donation Controversy",
+      "https://mullvad.net/en/blog/donation-controversy"
+    ]
+  ],
+  [
+    [
+      "2026-07-20, 21:30:56",
+      "https://news.ycombinator.com/item?id=48985140"
+    ],
+    [
+      "My falling-out with the rationalist community",
+      "https://lcamtuf.substack.com/p/my-falling-out-with-the-rationalist"
+    ]
+  ],
+  [
+    [
       "2026-07-20, 20:36:37",
       "https://news.ycombinator.com/item?id=48984555"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2026-07-20, 15:28:32",
-      "https://news.ycombinator.com/item?id=48980238"
-    ],
-    [
-      "Mythologizing AI makes it more likely that we’ll fail to operate it well (2023)",
-      "https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai"
-    ]
-  ],
-  [
-    [
       "2026-07-20, 15:15:36",
       "https://news.ycombinator.com/item?id=48980053"
     ],
@@ -197,16 +207,6 @@
     [
       "Perfection is not over-engineering",
       "https://var0.xyz/posts/perfection-is-not-over-engineering.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-20, 13:47:13",
-      "https://news.ycombinator.com/item?id=48978835"
-    ],
-    [
-      "Firefox 153 available with support for Vulkan video decoding, JPEG-XL",
-      "https://www.phoronix.com/news/Firefox-153-Downloads"
     ]
   ],
   [
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2026-07-19, 16:31:44",
-      "https://news.ycombinator.com/item?id=48969530"
-    ],
-    [
-      "ECC and DDR5",
-      "https://etbe.coker.com.au/2026/07/19/ecc-ddr5/"
-    ]
-  ],
-  [
-    [
       "2026-07-17, 14:24:21",
       "https://news.ycombinator.com/item?id=48947739"
     ],
@@ -297,6 +287,16 @@
     [
       "You only need the frontier model for one single edit",
       "https://stencil.so/blog/prewalk"
+    ]
+  ],
+  [
+    [
+      "2026-07-10, 19:32:07",
+      "https://news.ycombinator.com/item?id=48864176"
+    ],
+    [
+      "My two year old taught me constraint solving",
+      "https://thecomputersciencebook.com/posts/how-my-2yo-taught-me-constraint-solving/"
     ]
   ]
 ]
