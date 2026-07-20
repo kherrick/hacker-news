@@ -62,6 +62,7 @@
 * [2026-07-16, 13:30:00](https://news.ycombinator.com/item?id=48934286) - [Goes-19 weather satellite enters Safe Hold mode](https://www.spaceweather.gov/news/goes-19-safe-hold)
 * [2026-07-16, 13:15:49](https://news.ycombinator.com/item?id=48934092) - [Show HN: I've built a words game based on binary search](https://hilogame.cc/)
 * [2026-07-16, 13:12:24](https://news.ycombinator.com/item?id=48934046) - [Generative AI Is an Engineering Disaster](https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/)
+* [2026-07-16, 13:05:12](https://news.ycombinator.com/item?id=48933948) - [Moist Towelette Museum](https://moisttowelettemuseum.com/)
 * [2026-07-16, 12:33:06](https://news.ycombinator.com/item?id=48933581) - [Introduction to KizunaShelf: A shelf for everything you love](https://mudkip.me/2026/07/16/Introduction-to-KizunaShelf/)
 * [2026-07-16, 12:19:30](https://news.ycombinator.com/item?id=48933464) - [Teen hackers who live streamed cyber-attack on TfL jailed](https://www.bbc.com/news/articles/c4gyg0y6yg2o)
 * [2026-07-16, 12:13:43](https://news.ycombinator.com/item?id=48933419) - [Sony Deletes a Bunch More Movies from the Accounts of People Who 'Bought' Them](https://www.techdirt.com/2026/07/15/sony-deletes-a-bunch-more-movies-from-the-accounts-of-people-who-bought-them/)
