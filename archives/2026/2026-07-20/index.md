@@ -4,9 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-07-20](index.md)
 
+* [2026-07-20, 15:10:28](https://news.ycombinator.com/item?id=48979974) - [Google Is Censoring Reviews of ICE Detention Centers](https://theintercept.com/2026/07/20/google-maps-reviews-ice-detention-centers/)
+* [2026-07-20, 15:07:31](https://news.ycombinator.com/item?id=48979931) - [Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion](https://nothings.org/gamedev/ssao/)
+* [2026-07-20, 15:00:27](https://news.ycombinator.com/item?id=48979822) - [Caffeine and Cardiovascular Disease: Aha Scientific Statement](https://www.ahajournals.org/doi/epub/10.1161/CIR.0000000000001454)
+* [2026-07-20, 14:21:47](https://news.ycombinator.com/item?id=48979269) - [American AI is locked down and proprietary. It's losing](https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/)
 * [2026-07-20, 14:10:30](https://news.ycombinator.com/item?id=48979120) - [Perfection Is Not Over-Engineering](https://var0.xyz/posts/perfection-is-not-over-engineering.html)
 * [2026-07-20, 14:09:43](https://news.ycombinator.com/item?id=48979110) - [Firefox 153.0 Beta](https://www.firefox.com/en-US/firefox/153.0beta/releasenotes/)
 * [2026-07-20, 13:47:13](https://news.ycombinator.com/item?id=48978835) - [Firefox Merges Support for Vulkan Video Decoding](https://github.com/search)
+* [2026-07-20, 13:43:10](https://news.ycombinator.com/item?id=48978792) - [Shinjuku Station in 3D](https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/)
 * [2026-07-20, 13:28:33](https://news.ycombinator.com/item?id=48978605) - [Hacker wipes Romania's land registry database](https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/)
 * [2026-07-20, 13:23:38](https://news.ycombinator.com/item?id=48978545) - [Modder Makes GTA: Vice City Playable Inside GTA 3 Inside GTA: San Andreas](https://kotaku.com/gta-vice-city-made-playable-in-gta-3-made-playable-in-gta-san-andreas-2000717510)
 * [2026-07-20, 13:11:12](https://news.ycombinator.com/item?id=48978388) - [Inertia-1: An Open Exploration to a Unified Motion Foundation Model](https://yang-ai-lab.github.io/Inertia-1/)

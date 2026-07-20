@@ -17,6 +17,7 @@
 * [2026-07-13, 22:14:12](https://news.ycombinator.com/item?id=48899620) - [Show HN: I built a one-prompt hackathon platform, free entry, sponsored prizes](https://1shotchallenge.ai)
 * [2026-07-13, 22:03:54](https://news.ycombinator.com/item?id=48899529) - [Claude is just Mr. Meeseeks](https://github.com/thephw/claude-meseeks)
 * [2026-07-13, 21:57:56](https://news.ycombinator.com/item?id=48899473) - [The Estranged Worlds of J. G. Ballard](https://lareviewofbooks.org/article/jg-ballard-illuminated-man-christopher-priest-nina-allan/)
+* [2026-07-13, 21:56:32](https://news.ycombinator.com/item?id=48899449) - [Primate 0.40: Route pages, store enums, async schemas and events](https://primate.run/blog/primate-040)
 * [2026-07-13, 21:44:18](https://news.ycombinator.com/item?id=48899324) - [MIT's New Method Flags AI Models Trained on CASM Without Generating It](https://insideai.news/news/ai-safety/mits-new-method-flags-ai-models-trained-on-child-abuse-imagery-without-generating-it/3869/)
 * [2026-07-13, 21:43:51](https://news.ycombinator.com/item?id=48899321) - [A Study of Microsoft's Early 2026 Rollout of Claude Code and GitHub Copilot CLI](https://arxiv.org/abs/2607.01418)
 * [2026-07-13, 21:01:00](https://news.ycombinator.com/item?id=48898814) - [SalesPatriot (YC W25) Is Hiring Full Stack Engineers (SF)](https://jobs.ashbyhq.com/SalesPatriot/df223727-5781-433e-bc75-2aa5bf8dc8d7)
