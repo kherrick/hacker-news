@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-07-20](index.md)
 
+* [2026-07-20, 13:28:33](https://news.ycombinator.com/item?id=48978605) - [Hacker wipes Romania's land registry database](https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/)
+* [2026-07-20, 13:23:38](https://news.ycombinator.com/item?id=48978545) - [Modder Makes GTA: Vice City Playable Inside GTA 3 Inside GTA: San Andreas](https://kotaku.com/gta-vice-city-made-playable-in-gta-3-made-playable-in-gta-san-andreas-2000717510)
+* [2026-07-20, 13:11:12](https://news.ycombinator.com/item?id=48978388) - [Inertia-1: An Open Exploration to a Unified Motion Foundation Model](https://yang-ai-lab.github.io/Inertia-1/)
+* [2026-07-20, 13:04:41](https://news.ycombinator.com/item?id=48978331) - [Codex is wearing out our devices](https://old.reddit.com/r/codex/comments/1v0m3lt/codex_is_wearing_out_our_devices/)
+* [2026-07-20, 12:45:55](https://news.ycombinator.com/item?id=48978112) - [Stop Using OpenCode](https://wren.wtf/shower-thoughts/stop-using-opencode/)
 * [2026-07-20, 12:14:08](https://news.ycombinator.com/item?id=48977711) - [The EU is about to sell our most sensitive data to the US for visa-free travel](https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/)
 * [2026-07-20, 12:00:43](https://news.ycombinator.com/item?id=48977564) - [The Trump administration's Threat to Scientific Research](https://marginalrevolution.com/marginalrevolution/2026/07/the-trump-administrations-threat-to-scientific-research.html)
 * [2026-07-20, 10:30:40](https://news.ycombinator.com/item?id=48976846) - [Airport Simulator](https://airport.apunen.com/)
@@ -20,5 +25,6 @@
 * [2026-07-20, 04:19:22](https://news.ycombinator.com/item?id=48974292) - [Power companies are using eminent domain to seize land for data centers](https://fortune.com/2026/07/19/data-center-eminent-domain-public-use/)
 * [2026-07-20, 02:51:16](https://news.ycombinator.com/item?id=48973869) - [Claude Fable produced a counterexample to the Jacobian Conjecture](https://xcancel.com/__alpoge__/status/2079028340955197566)
 * [2026-07-20, 02:34:18](https://news.ycombinator.com/item?id=48973782) - [Big Tech Is Now Targeting Native American Land for Data Centers](https://www.nytimes.com/2026/07/09/us/data-centers-native-american-tribes.html)
+* [2026-07-20, 01:31:12](https://news.ycombinator.com/item?id=48973455) - [Satan's 19th-Century Bank Note](https://www.historytoday.com/miscellanies/satans-19th-century-bank-note)
 * [2026-07-20, 00:41:32](https://news.ycombinator.com/item?id=48973123) - [DeKalb deputy charged with Flock camera misuse; more Georgia officers fired](https://www.ajc.com/news/2026/07/3-more-georgia-police-officers-fired-over-alleged-flock-camera-misuse/)
 * [2026-07-20, 00:16:50](https://news.ycombinator.com/item?id=48972970) - [Moonshine: Lets you stream games from your PC to any device running Moonlight](https://github.com/hgaiser/moonshine)
