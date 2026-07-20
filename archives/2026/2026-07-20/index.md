@@ -11,6 +11,7 @@
 * [2026-07-20, 04:45:15](https://news.ycombinator.com/item?id=48974454) - [Xiaomi-Robotics-1](https://robotics.xiaomi.com/xiaomi-robotics-1.html)
 * [2026-07-20, 04:41:10](https://news.ycombinator.com/item?id=48974426) - [Big Tech Needs to Justify AI Spending as Investors Dump Stocks](https://www.bloomberg.com/news/articles/2026-07-19/big-tech-needs-to-justify-ai-spending-as-investors-dump-stocks)
 * [2026-07-20, 04:24:48](https://news.ycombinator.com/item?id=48974325) - [LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques](https://github.com/Saivineeth147/lora-speedrun)
+* [2026-07-20, 04:19:22](https://news.ycombinator.com/item?id=48974292) - [When can a power company take your land for data center infrastructure?](https://theconversation.com/when-can-a-power-company-take-your-land-for-data-center-infrastructure-284061)
 * [2026-07-20, 04:19:22](https://news.ycombinator.com/item?id=48974292) - [Power companies are using eminent domain to seize land for data centers](https://fortune.com/2026/07/19/data-center-eminent-domain-public-use/)
 * [2026-07-20, 02:51:16](https://news.ycombinator.com/item?id=48973869) - [Claude Fable produced a counterexample to the Jacobian Conjecture](https://xcancel.com/__alpoge__/status/2079028340955197566)
 * [2026-07-20, 02:34:18](https://news.ycombinator.com/item?id=48973782) - [Big Tech Is Now Targeting Native American Land for Data Centers](https://www.nytimes.com/2026/07/09/us/data-centers-native-american-tribes.html)
