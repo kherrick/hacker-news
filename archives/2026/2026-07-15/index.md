@@ -98,6 +98,7 @@
 * [2026-07-15, 06:28:00](https://news.ycombinator.com/item?id=48916975) - [I tricked Claude into leaking your deepest, darkest secrets](https://www.ayush.digital/blog/the-memory-heist)
 * [2026-07-15, 06:02:17](https://news.ycombinator.com/item?id=48916805) - [RISC-V Is Inevitable: State of the Union Keynote Argues](https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/)
 * [2026-07-15, 05:13:55](https://news.ycombinator.com/item?id=48916541) - [Developing an Intuitive Sense of Scale](https://magworld.pw)
+* [2026-07-15, 05:08:26](https://news.ycombinator.com/item?id=48916512) - [You only need the frontier model for one single edit](https://stencil.so/blog/prewalk)
 * [2026-07-15, 04:44:59](https://news.ycombinator.com/item?id=48916375) - [LinkedIn is a cesspool of scammers and identity theft](https://news.ycombinator.com/item?id=48916375)
 * [2026-07-15, 03:46:35](https://news.ycombinator.com/item?id=48916044) - [Is this the end of the once-mighty GoPro?](https://amateurphotographer.com/latest/photo-news/going-going-gone-is-this-the-end-of-the-once-mighty-gopro/)
 * [2026-07-15, 03:35:44](https://news.ycombinator.com/item?id=48915977) - [From Sawdust to Paw Patrol: The Spin Master Story (With Ronnen Harary) [audio]](https://www.econtalk.org/from-sawdust-to-paw-patrol-the-spin-master-story-with-ronnen-harary/)
