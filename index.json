@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2026-07-20, 18:10:44",
-      "https://news.ycombinator.com/item?id=48982583"
-    ],
-    [
-      "An Empirical Study: AI Agent Rules Need Context and Layered Enforcement",
-      "https://eunomia.dev/blog/2026/07/15/ebpf-ai-agent-policy-enforcement/"
-    ]
-  ],
-  [
-    [
       "2026-07-20, 18:10:17",
       "https://news.ycombinator.com/item?id=48982578"
     ],
@@ -57,6 +47,16 @@
     [
       "Agent swarms and the new model economics",
       "https://cursor.com/blog/agent-swarm-model-economics"
+    ]
+  ],
+  [
+    [
+      "2026-07-20, 17:57:37",
+      "https://news.ycombinator.com/item?id=48982374"
+    ],
+    [
+      "That post never existed. Stop listening to that thing",
+      "https://rachelbythebay.com/w/2026/05/05/404/"
     ]
   ],
   [
@@ -175,7 +175,7 @@
       "https://news.ycombinator.com/item?id=48979823"
     ],
     [
-      "NYC Subway Signals: A Complete Guide",
+      "NYC Subway Signals: A Complete Guide (2012)",
       "https://www.nycsubway.org/wiki/Subway_Signals%3A_A_Complete_Guide"
     ]
   ],
@@ -241,32 +241,12 @@
   ],
   [
     [
-      "2026-07-20, 13:11:12",
-      "https://news.ycombinator.com/item?id=48978388"
-    ],
-    [
-      "Inertia-1: An Open Exploration to a Unified Motion Foundation Model",
-      "https://yang-ai-lab.github.io/Inertia-1/"
-    ]
-  ],
-  [
-    [
       "2026-07-20, 13:07:11",
       "https://news.ycombinator.com/item?id=48978350"
     ],
     [
-      "We're Squandering LEDs' Potential to Save Our Night Skies",
+      "LEDs' Potential to Save Our Night Skies",
       "https://spectrum.ieee.org/led-light-pollution"
-    ]
-  ],
-  [
-    [
-      "2026-07-20, 12:52:03",
-      "https://news.ycombinator.com/item?id=48978192"
-    ],
-    [
-      "Soofi – Sovereign Open Source Foundation Models",
-      "https://www.soofi.info/"
     ]
   ],
   [
@@ -297,6 +277,26 @@
     [
       "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
       "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/"
+    ]
+  ],
+  [
+    [
+      "2026-07-19, 16:31:44",
+      "https://news.ycombinator.com/item?id=48969530"
+    ],
+    [
+      "ECC and DDR5",
+      "https://etbe.coker.com.au/2026/07/19/ecc-ddr5/"
+    ]
+  ],
+  [
+    [
+      "2026-07-17, 14:24:21",
+      "https://news.ycombinator.com/item?id=48947739"
+    ],
+    [
+      "85.3 GFlops: Optimizing FP32 Matrix Multiplication on a Single AMD Zen 3 Core",
+      "https://github.com/houslast3/85.30-GFLOPS-Single-Core-FP32-Matrix-Multiplication-on-AMD-Zen-3"
     ]
   ]
 ]
