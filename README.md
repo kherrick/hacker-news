@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-20, 19:03:37](https://news.ycombinator.com/item?id=48983382) - [Human mathematicians are being outcounterexampled](https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/)
 * [2026-07-20, 18:43:55](https://news.ycombinator.com/item?id=48983108) - [Safety and alignment in an era of long-horizon models](https://openai.com/index/safety-alignment-long-horizon-models/)
 * [2026-07-20, 18:16:08](https://news.ycombinator.com/item?id=48982681) - [Nativ: Run frontier open models locally on your Mac](https://blaizzy.github.io/nativ/)
 * [2026-07-20, 18:10:44](https://news.ycombinator.com/item?id=48982583) - [An Empirical Study: AI Agent Rules Need Context and Layered Enforcement](https://eunomia.dev/blog/2026/07/15/ebpf-ai-agent-policy-enforcement/)
 * [2026-07-20, 18:10:17](https://news.ycombinator.com/item?id=48982578) - [The drivers behind software delivery inefficiency](https://dl.acm.org/doi/10.1145/3800646.3800650)
 * [2026-07-20, 18:06:13](https://news.ycombinator.com/item?id=48982535) - [Agent swarms and the new model economics](https://cursor.com/blog/agent-swarm-model-economics)
-* [2026-07-20, 17:57:37](https://news.ycombinator.com/item?id=48982374) - [That post never existed. Stop listening to that thing](https://rachelbythebay.com/w/2026/05/05/404/)
 * [2026-07-20, 17:31:57](https://news.ycombinator.com/item?id=48982011) - [Hyprland 0.55 announced the switch to Lua for its config files](https://hypr.land/news/update55/)
 * [2026-07-20, 17:13:23](https://news.ycombinator.com/item?id=48981703) - [Kimi Work](https://www.kimi.com/products/kimi-work)
 * [2026-07-20, 17:07:39](https://news.ycombinator.com/item?id=48981620) - [Jelly UI: Soft-body physics for native HTML form controls](https://jelly-ui.com/)
@@ -26,10 +26,10 @@
 * [2026-07-20, 13:28:33](https://news.ycombinator.com/item?id=48978605) - [Hacker wipes Romania's land registry database](https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/)
 * [2026-07-20, 13:11:12](https://news.ycombinator.com/item?id=48978388) - [Inertia-1: An Open Exploration to a Unified Motion Foundation Model](https://yang-ai-lab.github.io/Inertia-1/)
 * [2026-07-20, 13:07:11](https://news.ycombinator.com/item?id=48978350) - [We're Squandering LEDs' Potential to Save Our Night Skies](https://spectrum.ieee.org/led-light-pollution)
+* [2026-07-20, 12:52:03](https://news.ycombinator.com/item?id=48978192) - [Soofi – Sovereign Open Source Foundation Models](https://www.soofi.info/)
 * [2026-07-20, 12:14:08](https://news.ycombinator.com/item?id=48977711) - [The EU is about to sell our most sensitive data to the US for visa-free travel](https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/)
 * [2026-07-20, 10:30:40](https://news.ycombinator.com/item?id=48976846) - [Airport Simulator](https://airport.apunen.com/)
 * [2026-07-20, 08:13:36](https://news.ycombinator.com/item?id=48975665) - [Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25](https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/)
-* [2026-07-16, 16:24:54](https://news.ycombinator.com/item?id=48936658) - [What I Learned from Reimplementing 40 Multi-Agent LLM Papers](https://medium.com/@Koukyosyumei/what-i-learned-from-reimplementing-40-multi-agent-llm-papers-bd6b574f5659)
 
 ## [Archives](archives/index.md)
 
