@@ -79,6 +79,7 @@
 * [2026-07-14, 10:48:12](https://news.ycombinator.com/item?id=48904766) - [C3 0.8.2 a Modest Improvement](https://c3-lang.org/blog/0_8_2_a_modest_improvement/)
 * [2026-07-14, 09:41:29](https://news.ycombinator.com/item?id=48904269) - [Making Software: How to make a font](https://www.makingsoftware.com/chapters/how-to-make-a-font)
 * [2026-07-14, 09:20:07](https://news.ycombinator.com/item?id=48904095) - [Demis Hassabis has a plan to harness AI safely](https://twitter.com/demishassabis/status/2076957440109625718)
+* [2026-07-14, 09:16:39](https://news.ycombinator.com/item?id=48904070) - [Native SDK from Vercel](https://native-sdk.dev/)
 * [2026-07-14, 08:34:57](https://news.ycombinator.com/item?id=48903777) - [European \"age verification\" \"app\" forcing everyone to use Android or iOS](https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19)
 * [2026-07-14, 08:27:56](https://news.ycombinator.com/item?id=48903733) - [Job queues are deceptively tricky](https://typesanitizer.com/blog/job-queues.html)
 * [2026-07-14, 08:24:54](https://news.ycombinator.com/item?id=48903717) - [Infinities, impossibilities, and the man in the white linen suit](https://iain.so/infinities-impossibilities-and-the-man-in-the-white-linen-suit)

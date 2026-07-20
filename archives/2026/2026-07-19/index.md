@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-19](index.md)
 
+* [2026-07-19, 23:58:12](https://news.ycombinator.com/item?id=48972858) - [Ask HN: What are your favorite blogs not about AI?](https://news.ycombinator.com/item?id=48972858)
 * [2026-07-19, 22:03:11](https://news.ycombinator.com/item?id=48972062) - [We want Texans to know their rights](https://www.eff.org/deeplinks/2026/07/we-want-texans-know-their-rights-qa-mayday-health-impact-surveillance-abortion)
 * [2026-07-19, 21:51:26](https://news.ycombinator.com/item?id=48971999) - [Grok-iOS – remote Grok Build from your iPhone over ACP](https://github.com/Pedroshakoor/grok-build-ios)
 * [2026-07-19, 21:42:12](https://news.ycombinator.com/item?id=48971938) - [Biggest Probabilistic Computer Turns Noise into Answers](https://spectrum.ieee.org/biggest-probabilistic-computer)
