@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2026-07-20, 17:57:37",
-      "https://news.ycombinator.com/item?id=48982374"
-    ],
-    [
-      "That post never existed. Stop listening to that thing",
-      "https://rachelbythebay.com/w/2026/05/05/404/"
-    ]
-  ],
-  [
-    [
       "2026-07-20, 17:31:57",
       "https://news.ycombinator.com/item?id=48982011"
     ],
@@ -171,16 +161,6 @@
   ],
   [
     [
-      "2026-07-20, 15:00:31",
-      "https://news.ycombinator.com/item?id=48979823"
-    ],
-    [
-      "NYC Subway Signals: A Complete Guide (2012)",
-      "https://www.nycsubway.org/wiki/Subway_Signals%3A_A_Complete_Guide"
-    ]
-  ],
-  [
-    [
       "2026-07-20, 14:35:19",
       "https://news.ycombinator.com/item?id=48979475"
     ],
@@ -205,7 +185,7 @@
       "https://news.ycombinator.com/item?id=48979120"
     ],
     [
-      "Perfection Is Not Over-Engineering",
+      "Perfection is not over-engineering",
       "https://var0.xyz/posts/perfection-is-not-over-engineering.html"
     ]
   ],
@@ -245,7 +225,7 @@
       "https://news.ycombinator.com/item?id=48978350"
     ],
     [
-      "LEDs' Potential to Save Our Night Skies",
+      "LEDs’ potential to save our night skies",
       "https://spectrum.ieee.org/led-light-pollution"
     ]
   ],
@@ -281,6 +261,16 @@
   ],
   [
     [
+      "2026-07-20, 04:45:15",
+      "https://news.ycombinator.com/item?id=48974454"
+    ],
+    [
+      "Xiaomi-Robotics-1",
+      "https://robotics.xiaomi.com/xiaomi-robotics-1.html"
+    ]
+  ],
+  [
+    [
       "2026-07-19, 16:31:44",
       "https://news.ycombinator.com/item?id=48969530"
     ],
@@ -297,6 +287,16 @@
     [
       "85.3 GFlops: Optimizing FP32 Matrix Multiplication on a Single AMD Zen 3 Core",
       "https://github.com/houslast3/85.30-GFLOPS-Single-Core-FP32-Matrix-Multiplication-on-AMD-Zen-3"
+    ]
+  ],
+  [
+    [
+      "2026-07-15, 05:08:26",
+      "https://news.ycombinator.com/item?id=48916512"
+    ],
+    [
+      "You only need the frontier model for one single edit",
+      "https://stencil.so/blog/prewalk"
     ]
   ]
 ]
