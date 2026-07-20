@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-20](index.md)
 
+* [2026-07-20, 07:10:30](https://news.ycombinator.com/item?id=48975245) - [EU Exempts Apple Watch and AirPods from Battery Removal Requirements](https://mjtsai.com/blog/2026/07/17/eu-exempts-apple-watch-and-airpods-from-battery-removal-requirement/)
 * [2026-07-20, 04:49:47](https://news.ycombinator.com/item?id=48974476) - [How proprietary formats have become Microsoft’s main tool for lock-in](https://blog.documentfoundation.org/blog/2026/07/17/microsofts-main-tool-for-lock-in/)
 * [2026-07-20, 04:45:15](https://news.ycombinator.com/item?id=48974454) - [Xiaomi-Robotics-1](https://robotics.xiaomi.com/xiaomi-robotics-1.html)
 * [2026-07-20, 04:41:10](https://news.ycombinator.com/item?id=48974426) - [Big Tech Needs to Justify AI Spending as Investors Dump Stocks](https://www.bloomberg.com/news/articles/2026-07-19/big-tech-needs-to-justify-ai-spending-as-investors-dump-stocks)

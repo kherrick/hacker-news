@@ -33,6 +33,7 @@
 * [2026-07-16, 17:00:55](https://news.ycombinator.com/item?id=48937125) - [Adaptional (YC S25) Is Hiring](https://www.ycombinator.com/companies/adaptional/jobs)
 * [2026-07-16, 16:52:16](https://news.ycombinator.com/item?id=48937020) - [Launch HN: Traceforce (YC S26) – Company-wide security monitoring for AI apps](https://news.ycombinator.com/item?id=48937020)
 * [2026-07-16, 16:51:20](https://news.ycombinator.com/item?id=48937007) - [Someone Used AI to Write an Unauthorized Biography of Me](https://www.nytimes.com/2026/07/16/technology/ai-slop-books-biography-amazon.html)
+* [2026-07-16, 16:50:32](https://news.ycombinator.com/item?id=48936994) - [1-Bit LLM in the Browser](https://huggingface.co/spaces/webml-community/bonsai-webgpu)
 * [2026-07-16, 16:41:37](https://news.ycombinator.com/item?id=48936880) - [Detecting LLM-Generated Texts with \"Classical\" Machine Learning](https://blog.lyc8503.net/en/post/llm-classifier/)
 * [2026-07-16, 16:36:17](https://news.ycombinator.com/item?id=48936803) - [Show HN: Galois connections for composable numeric casts in Rust](https://github.com/cmk/connections)
 * [2026-07-16, 16:24:50](https://news.ycombinator.com/item?id=48936657) - [56,000 lines of DOOM, in a language I made up](https://betlang.dev/about/)
