@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-07-20, 07:10:30",
-      "https://news.ycombinator.com/item?id=48975245"
+      "2026-07-20, 09:12:10",
+      "https://news.ycombinator.com/item?id=48976172"
     ],
     [
-      "EU Exempts Apple Watch and AirPods from Battery Removal Requirements",
-      "https://mjtsai.com/blog/2026/07/17/eu-exempts-apple-watch-and-airpods-from-battery-removal-requirement/"
+      "US gas prices hit an average of $4 a gallon again",
+      "https://apnews.com/article/gas-prices-iran-war-4-gallon-4b82825734ec3ded192351e53a4be69e"
+    ]
+  ],
+  [
+    [
+      "2026-07-20, 08:13:36",
+      "https://news.ycombinator.com/item?id=48975665"
+    ],
+    [
+      "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
+      "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/"
     ]
   ],
   [
@@ -41,16 +51,6 @@
   ],
   [
     [
-      "2026-07-20, 04:19:22",
-      "https://news.ycombinator.com/item?id=48974292"
-    ],
-    [
-      "Power companies are using eminent domain to seize land for data centers",
-      "https://fortune.com/2026/07/19/data-center-eminent-domain-public-use/"
-    ]
-  ],
-  [
-    [
       "2026-07-20, 02:51:16",
       "https://news.ycombinator.com/item?id=48973869"
     ],
@@ -77,16 +77,6 @@
     [
       "Biggest Probabilistic Computer Turns Noise into Answers",
       "https://spectrum.ieee.org/biggest-probabilistic-computer"
-    ]
-  ],
-  [
-    [
-      "2026-07-19, 20:50:42",
-      "https://news.ycombinator.com/item?id=48971566"
-    ],
-    [
-      "A new Intel Itanium (IA-64) emulator that boots Windows",
-      "https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html"
     ]
   ],
   [
@@ -231,16 +221,6 @@
   ],
   [
     [
-      "2026-07-15, 13:31:44",
-      "https://news.ycombinator.com/item?id=48920597"
-    ],
-    [
-      "Talk: The Art of Braiding Algorithms",
-      "https://pgadey.ca/notes/talk-relatorium-2026/"
-    ]
-  ],
-  [
-    [
       "2026-07-15, 08:35:46",
       "https://news.ycombinator.com/item?id=48917906"
     ],
@@ -257,6 +237,26 @@
     [
       "Who Is America's Homer?",
       "https://www.plough.com/articles/who-is-americas-homer"
+    ]
+  ],
+  [
+    [
+      "2026-07-14, 16:01:57",
+      "https://news.ycombinator.com/item?id=48908884"
+    ],
+    [
+      "Eliminating Go bounds checks with unsafe",
+      "https://blog.andr2i.com/posts/2026-07-06-eliminating-go-bound-checks-with-unsafe"
+    ]
+  ],
+  [
+    [
+      "2026-07-14, 15:33:42",
+      "https://news.ycombinator.com/item?id=48908433"
+    ],
+    [
+      "Dupes took over the world",
+      "https://www.vox.com/podcasts/493930/dupe-culture-fender-ugg-quince-tiktok-amazon-online-shopping"
     ]
   ],
   [
