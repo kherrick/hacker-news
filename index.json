@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-07-20, 17:31:57",
+      "https://news.ycombinator.com/item?id=48982011"
+    ],
+    [
+      "Hyprland 0.55 announced the switch to Lua for its config files",
+      "https://hypr.land/news/update55/"
+    ]
+  ],
+  [
+    [
+      "2026-07-20, 17:13:23",
+      "https://news.ycombinator.com/item?id=48981703"
+    ],
+    [
+      "Kimi Work",
+      "https://www.kimi.com/products/kimi-work"
+    ]
+  ],
+  [
+    [
+      "2026-07-20, 17:07:39",
+      "https://news.ycombinator.com/item?id=48981620"
+    ],
+    [
+      "Jelly UI: Soft-body physics for native HTML form controls",
+      "https://jelly-ui.com/"
+    ]
+  ],
+  [
+    [
+      "2026-07-20, 16:58:15",
+      "https://news.ycombinator.com/item?id=48981496"
+    ],
+    [
+      "My husbands suicide shows theres something very wrong with US insurance industry",
+      "https://www.statnews.com/2026/07/20/psychiatric-insurance-coverage-suicide-denial-personal-essay/"
+    ]
+  ],
+  [
+    [
       "2026-07-20, 16:36:36",
       "https://news.ycombinator.com/item?id=48981206"
     ],
@@ -141,16 +181,6 @@
   ],
   [
     [
-      "2026-07-20, 14:01:33",
-      "https://news.ycombinator.com/item?id=48979010"
-    ],
-    [
-      "Tested Kimi K3 for Coding",
-      "https://www.dotnetperls.com/2026_7_18_tested-kimi-k3-coding"
-    ]
-  ],
-  [
-    [
       "2026-07-20, 13:47:13",
       "https://news.ycombinator.com/item?id=48978835"
     ],
@@ -211,16 +241,6 @@
   ],
   [
     [
-      "2026-07-20, 12:45:55",
-      "https://news.ycombinator.com/item?id=48978112"
-    ],
-    [
-      "Annoying and alarming things about OpenCode",
-      "https://wren.wtf/shower-thoughts/stop-using-opencode/"
-    ]
-  ],
-  [
-    [
       "2026-07-20, 12:14:08",
       "https://news.ycombinator.com/item?id=48977711"
     ],
@@ -261,26 +281,6 @@
   ],
   [
     [
-      "2026-07-19, 16:31:44",
-      "https://news.ycombinator.com/item?id=48969530"
-    ],
-    [
-      "ECC and DDR5",
-      "https://etbe.coker.com.au/2026/07/19/ecc-ddr5/"
-    ]
-  ],
-  [
-    [
-      "2026-07-17, 23:06:08",
-      "https://news.ycombinator.com/item?id=48953189"
-    ],
-    [
-      "Sensing warm and cool: how the body detects temperature changes",
-      "https://news.uq.edu.au/2026-07-sensing-warm-and-cool-how-body-detects-temperature-changes"
-    ]
-  ],
-  [
-    [
       "2026-07-17, 22:02:18",
       "https://news.ycombinator.com/item?id=48952713"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-07-14, 17:31:45",
-      "https://news.ycombinator.com/item?id=48910259"
+      "2026-07-14, 05:23:47",
+      "https://news.ycombinator.com/item?id=48902611"
     ],
     [
-      "Another Entry in the \"Stuff Im Glad Im Not Responsible for\" Ledger",
-      "https://blog.cloudflare.com/dnssec-nta-ede-33/"
+      "I turned my bearblog into a text based adventure",
+      "https://peaceful.bearblog.dev"
     ]
   ]
 ]
