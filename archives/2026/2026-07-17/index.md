@@ -39,6 +39,7 @@
 * [2026-07-17, 14:31:10](https://news.ycombinator.com/item?id=48947825) - [Mozilla: The state of open source AI](https://stateofopensource.ai/)
 * [2026-07-17, 14:26:58](https://news.ycombinator.com/item?id=48947776) - [Claude Code: Anatomy of a Misfeature](https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/)
 * [2026-07-17, 14:25:20](https://news.ycombinator.com/item?id=48947754) - [Show HN: On-chain bond market where the issuers are AI agents](https://selbonds.now)
+* [2026-07-17, 14:24:21](https://news.ycombinator.com/item?id=48947739) - [85.3 GFlops: Optimizing FP32 Matrix Multiplication on a Single AMD Zen 3 Core](https://github.com/houslast3/85.30-GFLOPS-Single-Core-FP32-Matrix-Multiplication-on-AMD-Zen-3)
 * [2026-07-17, 14:21:51](https://news.ycombinator.com/item?id=48947717) - [Kimi K3, and what we can still learn from the pelican benchmark](https://simonwillison.net/2026/Jul/16/kimi-k3/)
 * [2026-07-17, 14:21:35](https://news.ycombinator.com/item?id=48947714) - [AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM](https://blog.zksecurity.xyz/posts/openvm-bugs/)
 * [2026-07-17, 14:06:13](https://news.ycombinator.com/item?id=48947560) - [First atmosphere found on Earth-like planet in habitable zone of distant star](https://www.bbc.com/news/articles/cy4kdd1e0ejo)
