@@ -62,6 +62,7 @@
 * [2026-07-13, 16:38:21](https://news.ycombinator.com/item?id=48895199) - [Solod: Go can be a better C](https://solod.dev)
 * [2026-07-13, 16:15:41](https://news.ycombinator.com/item?id=48894874) - [Designing APIs for Agents](https://www.freestyle.sh/blog/opinion/designing-apis-for-agents)
 * [2026-07-13, 16:06:08](https://news.ycombinator.com/item?id=48894752) - [Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor](https://get-inscribe.com/blog/apple-speech-api-benchmark.html)
+* [2026-07-13, 16:00:23](https://news.ycombinator.com/item?id=48894681) - [World GeoHistoGram](https://textbooks.wmisd.org/worldgeohist.html)
 * [2026-07-13, 15:59:36](https://news.ycombinator.com/item?id=48894671) - [Wikipedia escapes Category 1 designation under the UK Online Safety Act for now](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-07-13/Special_report)
 * [2026-07-13, 15:56:39](https://news.ycombinator.com/item?id=48894641) - [DOGE is done. What happened to its records?](https://www.ms.now/opinion/doge-government-efficiency-records-job-cuts-elon-musk-foia)
 * [2026-07-13, 15:56:22](https://news.ycombinator.com/item?id=48894637) - [Go-Flavored Concurrency in C](https://antonz.org/concurrency-in-c/)

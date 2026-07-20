@@ -55,6 +55,7 @@
 * [2026-07-15, 14:23:44](https://news.ycombinator.com/item?id=48921303) - [My Midlife Crisis Corolla Is Fast, Furious, and Modded](https://www.zocalopublicsquare.org/my-midlife-crisis-corolla-fast-furious-fully-modded/)
 * [2026-07-15, 14:11:12](https://news.ycombinator.com/item?id=48921121) - [The well-calibrated Bayesian [pdf]](https://fitelson.org/seminar/dawid.pdf)
 * [2026-07-15, 14:08:28](https://news.ycombinator.com/item?id=48921077) - [Towards a Harness That Can Do Anything](https://eardatasci.github.io/c/ambiance/index.html)
+* [2026-07-15, 14:00:20](https://news.ycombinator.com/item?id=48920945) - [The Chickens and the Bulls (2012)](https://slate.com/human-interest/2012/07/the-chickens-and-the-bulls-the-rise-and-incredible-fall-of-a-vicious-extortion-ring-that-preyed-on-prominent-gay-men-in-the-1960s.html)
 * [2026-07-15, 13:55:23](https://news.ycombinator.com/item?id=48920888) - [Show HN: StyleSeed – a design-rules engine so AI agents stop building generic UI](https://github.com/bitjaru/styleseed)
 * [2026-07-15, 13:51:38](https://news.ycombinator.com/item?id=48920836) - [US House of Representatives takes step to make daylight saving time permanent](https://www.bbc.com/news/articles/cz9l9venjd8o)
 * [2026-07-15, 13:49:15](https://news.ycombinator.com/item?id=48920811) - [Show HN: 18KB ls alternative in no_std rust and Libc](https://crates.io/crates/fli-tool)
