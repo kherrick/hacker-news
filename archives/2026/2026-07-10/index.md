@@ -42,6 +42,7 @@
 * [2026-07-10, 16:12:52](https://news.ycombinator.com/item?id=48861923) - [Why write code in 2026](https://softwaredoug.com/blog/2026/07/09/write-code)
 * [2026-07-10, 16:06:38](https://news.ycombinator.com/item?id=48861833) - [Hands-On with the AMD Ryzen AI Halo](https://www.microcenter.com/site/mc-news/article/amd-ryzen-ai-halo-review.aspx)
 * [2026-07-10, 15:59:53](https://news.ycombinator.com/item?id=48861717) - [QuadRF can spot drones and see WiFi through my wall](https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/)
+* [2026-07-10, 15:44:36](https://news.ycombinator.com/item?id=48861496) - [Self-Powered Trailers Promise Leaner Freight Runs](https://spectrum.ieee.org/self-powered-trailers-freight-decarbonization)
 * [2026-07-10, 15:30:44](https://news.ycombinator.com/item?id=48861319) - [A Love Letter to Flashcards](https://lesleylai.info/en/flashcards/)
 * [2026-07-10, 15:23:50](https://news.ycombinator.com/item?id=48861217) - [Show HN: SubjectiveZero, an open-source agentic node editor for creative coding](https://sxp.studio/apps/subz)
 * [2026-07-10, 15:23:42](https://news.ycombinator.com/item?id=48861213) - [Computation as a Universal and Fundamental Concept](https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept)
