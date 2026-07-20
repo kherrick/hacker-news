@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-07-20, 21:30:56](https://news.ycombinator.com/item?id=48985140) - [My falling-out with the rationalist community](https://lcamtuf.substack.com/p/my-falling-out-with-the-rationalist)
 * [2026-07-20, 20:36:37](https://news.ycombinator.com/item?id=48984555) - [The creepiest 'sales demo' of all time](https://www.appenmedia.com/opinion/letter-to-the-editor-the-creepiest-sales-demo-of-all-time/article_a8f0cc6c-29d3-41f7-8668-8a855f760efb.html)
 * [2026-07-20, 20:12:19](https://news.ycombinator.com/item?id=48984270) - [I wrote an bash enumerator because I was sick of xargs](https://numerlab.org/2025/07/20/bashumerate-enumerator/)
 * [2026-07-20, 20:10:44](https://news.ycombinator.com/item?id=48984254) - [Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco](https://vincentwoo.com/3d/grace_cathedral/)
@@ -14,6 +13,7 @@
 * [2026-07-20, 17:07:39](https://news.ycombinator.com/item?id=48981620) - [Jelly UI: Soft-body physics for native HTML form controls](https://jelly-ui.com/)
 * [2026-07-20, 16:36:36](https://news.ycombinator.com/item?id=48981206) - [How we measured AI writing across arXiv, and where the measurement breaks](https://unslop.run/blog/measuring-ai-writing-on-arxiv)
 * [2026-07-20, 16:32:10](https://news.ycombinator.com/item?id=48981136) - [Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12](https://news.ycombinator.com/item?id=48981136)
+* [2026-07-20, 15:40:03](https://news.ycombinator.com/item?id=48980404) - [Cross sectioning insects in an electron microscope with a femtosecond laser [video]](https://www.youtube.com/watch?v=NwhVJ7cv9B4)
 * [2026-07-20, 15:15:36](https://news.ycombinator.com/item?id=48980053) - [The Voice of Google](https://www.newyorker.com/culture/the-weekend-essay/the-voice-of-google)
 * [2026-07-20, 15:13:42](https://news.ycombinator.com/item?id=48980019) - [Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling](https://www.emergingtrajectories.com/lh/frontier-lab-economics/)
 * [2026-07-20, 15:07:31](https://news.ycombinator.com/item?id=48979931) - [Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion (2012)](https://nothings.org/gamedev/ssao/)
