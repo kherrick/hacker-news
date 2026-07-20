@@ -18,6 +18,7 @@
 * [2026-07-10, 20:29:55](https://news.ycombinator.com/item?id=48864825) - [Software Engineer's Firing Ruled Illegal in a Rare Win for a Tech Worker](https://www.nytimes.com/2026/07/10/business/atlassian-tech-worker-wrongful-termination.html)
 * [2026-07-10, 20:00:28](https://news.ycombinator.com/item?id=48864507) - [Don't discontinue Gemini 2.5 Flash](https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246)
 * [2026-07-10, 19:38:34](https://news.ycombinator.com/item?id=48864252) - [An Update on the scraper situation](https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/)
+* [2026-07-10, 19:32:07](https://news.ycombinator.com/item?id=48864176) - [My two year old taught me constraint solving](https://thecomputersciencebook.com/posts/how-my-2yo-taught-me-constraint-solving/)
 * [2026-07-10, 19:30:12](https://news.ycombinator.com/item?id=48864158) - [Mayor Mamdani Announces Landmark \"Click-to-Cancel\" Consumer Protection Rules](https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani-announces-landmark--click-to-cancel--consumer-prot)
 * [2026-07-10, 19:08:13](https://news.ycombinator.com/item?id=48863891) - [Show HN: E-- – A language you dial between English and Python](https://github.com/frmoded/e--)
 * [2026-07-10, 19:03:36](https://news.ycombinator.com/item?id=48863849) - [Materials innovation has a scale-up problem, not discovery](https://www.atomscale.ai/updates/our-thesis-atom-to-scale)
