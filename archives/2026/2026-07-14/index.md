@@ -37,6 +37,7 @@
 * [2026-07-14, 16:36:06](https://news.ycombinator.com/item?id=48909424) - [Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK](https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/)
 * [2026-07-14, 16:06:18](https://news.ycombinator.com/item?id=48908950) - [Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations](https://agnost.ai)
 * [2026-07-14, 16:02:01](https://news.ycombinator.com/item?id=48908886) - [Pseudpocalypse](https://dynomight.net/pseudpocalypse/)
+* [2026-07-14, 16:01:57](https://news.ycombinator.com/item?id=48908884) - [Eliminating Go bounds checks with unsafe](https://blog.andr2i.com/posts/2026-07-06-eliminating-go-bound-checks-with-unsafe)
 * [2026-07-14, 15:50:19](https://news.ycombinator.com/item?id=48908691) - [Show HN: Simulator for a custom 8-bit discreet logic computer](https://msap2.mehran.dk)
 * [2026-07-14, 15:33:42](https://news.ycombinator.com/item?id=48908433) - [Dupes (product clones) took over the world](https://www.vox.com/podcasts/493930/dupe-culture-fender-ugg-quince-tiktok-amazon-online-shopping)
 * [2026-07-14, 15:24:49](https://news.ycombinator.com/item?id=48908271) - [Show HN: Opening lines of famous literary works](https://www.verbaprima.com/)
