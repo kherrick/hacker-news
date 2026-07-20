@@ -31,6 +31,7 @@
 * [2026-07-14, 17:58:35](https://news.ycombinator.com/item?id=48910676) - [Cursor 0day: When Full Disclosure Becomes the Only Protection Left](https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left)
 * [2026-07-14, 17:53:06](https://news.ycombinator.com/item?id=48910579) - [MoonBASIC: A modern BASIC for building 2D and 3D games](https://github.com/CharmingBlaze/moonbasic)
 * [2026-07-14, 17:50:48](https://news.ycombinator.com/item?id=48910545) - [Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone](https://prismml.com/news/bonsai-27b)
+* [2026-07-14, 17:31:45](https://news.ycombinator.com/item?id=48910259) - [Another Entry in the \"Stuff Im Glad Im Not Responsible for\" Ledger](https://blog.cloudflare.com/dnssec-nta-ede-33/)
 * [2026-07-14, 17:00:17](https://news.ycombinator.com/item?id=48909820) - [Kontigo (YC S24) Is Hiring (Head of Security)](https://www.ycombinator.com/companies/kontigo/jobs/uNttrlv-head-of-security)
 * [2026-07-14, 16:57:54](https://news.ycombinator.com/item?id=48909785) - [The Tower Keeps Rising](https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/)
 * [2026-07-14, 16:56:48](https://news.ycombinator.com/item?id=48909768) - [S&P downgrades Oracle to BBB – only one notch above junk level](https://www.heise.de/en/news/S-P-downgrades-Oracle-to-BBB-only-one-notch-above-junk-level-11363472.html)

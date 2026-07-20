@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-07-20](index.md)
 
+* [2026-07-20, 16:36:36](https://news.ycombinator.com/item?id=48981206) - [Over 30% of new ArXiv submissions now read as AI-written](https://unslop.run/blog/measuring-ai-writing-on-arxiv)
 * [2026-07-20, 16:32:10](https://news.ycombinator.com/item?id=48981136) - [Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12](https://news.ycombinator.com/item?id=48981136)
+* [2026-07-20, 16:00:34](https://news.ycombinator.com/item?id=48980700) - [Czechia moves to ban mobile phones in schools from September 2027](https://www.expats.cz/czech-news/article/czech-news-in-brief-for-july-20-2026-monday-top-afternoon-headlines)
+* [2026-07-20, 15:47:28](https://news.ycombinator.com/item?id=48980520) - [I Stopped \"Creating Content\"](https://refactoringenglish.com/blog/why-i-stopped-creating-content/)
+* [2026-07-20, 15:46:18](https://news.ycombinator.com/item?id=48980506) - [Ziggity – A terminal UI for Git, written in Zig](https://github.com/simoarpe/ziggity)
+* [2026-07-20, 15:40:03](https://news.ycombinator.com/item?id=48980404) - [Cross sectioning insects in an electron microscope with a femtosecond laser [video]](https://www.youtube.com/watch?v=NwhVJ7cv9B4)
 * [2026-07-20, 15:28:32](https://news.ycombinator.com/item?id=48980238) - [Jaron Lanier: there is no AI (2023)](https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai)
 * [2026-07-20, 15:23:50](https://news.ycombinator.com/item?id=48980167) - [Show HN: Wheesper – Start an anonymous discussion with a link](https://wheesper.com/)
 * [2026-07-20, 15:15:36](https://news.ycombinator.com/item?id=48980053) - [The Voice of Google](https://www.newyorker.com/culture/the-weekend-essay/the-voice-of-google)
