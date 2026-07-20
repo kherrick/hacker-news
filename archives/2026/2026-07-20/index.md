@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-20](index.md)
 
+* [2026-07-20, 20:08:45](https://news.ycombinator.com/item?id=48984231) - [The Power of Awareness: Overcoming Surveillance Capitalism](https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/)
 * [2026-07-20, 19:03:37](https://news.ycombinator.com/item?id=48983382) - [Human mathematicians are being outcounterexampled](https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/)
 * [2026-07-20, 18:43:55](https://news.ycombinator.com/item?id=48983108) - [Safety and alignment in an era of long-horizon models](https://openai.com/index/safety-alignment-long-horizon-models/)
 * [2026-07-20, 18:16:08](https://news.ycombinator.com/item?id=48982681) - [Nativ: Run frontier open models locally on your Mac](https://blaizzy.github.io/nativ/)
@@ -36,6 +37,7 @@
 * [2026-07-20, 14:09:43](https://news.ycombinator.com/item?id=48979110) - [Firefox 153.0 Beta](https://www.firefox.com/en-US/firefox/153.0beta/releasenotes/)
 * [2026-07-20, 14:01:33](https://news.ycombinator.com/item?id=48979010) - [Tested Kimi K3 for Coding](https://www.dotnetperls.com/2026_7_18_tested-kimi-k3-coding)
 * [2026-07-20, 13:47:13](https://news.ycombinator.com/item?id=48978835) - [Firefox Merges Support for Vulkan Video Decoding](https://github.com/search)
+* [2026-07-20, 13:47:13](https://news.ycombinator.com/item?id=48978835) - [Firefox 153 available with support for Vulkan video decoding, JPEG-XL](https://www.phoronix.com/news/Firefox-153-Downloads)
 * [2026-07-20, 13:43:10](https://news.ycombinator.com/item?id=48978792) - [Shinjuku Station in 3D](https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/)
 * [2026-07-20, 13:28:33](https://news.ycombinator.com/item?id=48978605) - [Hacker wipes Romania's land registry database](https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/)
 * [2026-07-20, 13:23:38](https://news.ycombinator.com/item?id=48978545) - [Modder Makes GTA: Vice City Playable Inside GTA 3 Inside GTA: San Andreas](https://kotaku.com/gta-vice-city-made-playable-in-gta-3-made-playable-in-gta-san-andreas-2000717510)
