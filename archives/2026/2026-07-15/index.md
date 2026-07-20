@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-15](index.md)
 
+* [2026-07-15, 23:44:59](https://news.ycombinator.com/item?id=48928703) - [11,700 Free Photos from John Margolies' Archive of Americana Architecture](https://www.openculture.com/2026/07/free-photos-from-john-margolies-archive-of-americana-architecture.html)
 * [2026-07-15, 23:10:10](https://news.ycombinator.com/item?id=48928402) - [Show HN: One More Letter](https://playonemoreletter.com/)
 * [2026-07-15, 23:03:45](https://news.ycombinator.com/item?id=48928343) - [Nul Characters in Strings in SQLite](https://sqlite.org/nulinstr.html)
 * [2026-07-15, 23:00:31](https://news.ycombinator.com/item?id=48928313) - [Metal-Organic Frameworks, Chemistry's New Miracle Materials](https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials)
