@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-07-21](index.md)
 
+* [2026-07-21, 22:45:27](https://news.ycombinator.com/item?id=48999376) - [An Engineer's Guide to USB Type-C [pdf]](https://www.ti.com/lit/eb/slyy228/slyy228.pdf)
+* [2026-07-21, 22:39:58](https://news.ycombinator.com/item?id=48999323) - [Furtex: Post-exploitation, rootkit and evasion research toolkit for Linux](https://github.com/MatheuZSecurity/Furtex)
 * [2026-07-21, 22:35:24](https://news.ycombinator.com/item?id=48999291) - [Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA](https://fireworks.ai/blog/kimik3-fable)
 * [2026-07-21, 21:48:19](https://news.ycombinator.com/item?id=48998828) - [Show HN: Computable – Buy, sell, and redeem GPU for the exact weeks you want](https://www.getcomputable.com/)
+* [2026-07-21, 21:27:54](https://news.ycombinator.com/item?id=48998606) - [Gemini last models: temperature, top_p, and top_k are deprecated and ignored](https://ai.google.dev/gemini-api/docs/latest-model)
 * [2026-07-21, 21:13:20](https://news.ycombinator.com/item?id=48998404) - [\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok](https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok)
 * [2026-07-21, 21:09:25](https://news.ycombinator.com/item?id=48998362) - [A digestion of the Jacobian conjecture counterexample](https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/)
 * [2026-07-21, 21:01:57](https://news.ycombinator.com/item?id=48998262) - [Show HN: Browser Tools SDK – an optimal browser harness for agents](https://libretto.sh/browser-tools)
