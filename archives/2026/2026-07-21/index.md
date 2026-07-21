@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-07-21](index.md)
 
+* [2026-07-21, 15:22:33](https://news.ycombinator.com/item?id=48993488) - [Oracle could face $7B collateral bill for Wisconsin data centre](https://www.ft.com/content/b37030b6-bda8-4ba9-8e08-e6b88687b8f5)
+* [2026-07-21, 15:21:02](https://news.ycombinator.com/item?id=48993465) - [Amid Increased Scrutiny, ICE Detention and Deportation Data Goes Dark](https://www.themarshallproject.org/2026/07/15/ice-data-immigration-detention-transparency)
+* [2026-07-21, 15:19:44](https://news.ycombinator.com/item?id=48993448) - [ICE to Pay Thomson Reuters $125M to Find Voter Fraud](https://www.404media.co/ice-to-pay-thomson-reuters-125-million-to-find-voter-fraud/)
+* [2026-07-21, 15:17:16](https://news.ycombinator.com/item?id=48993414) - [Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/)
 * [2026-07-21, 14:56:15](https://news.ycombinator.com/item?id=48993130) - [Gemini 3.6 Flash](https://console.cloud.google.com/agent-platform/publishers/google/model-garden/gemini-3.6-flash)
 * [2026-07-21, 14:49:18](https://news.ycombinator.com/item?id=48993059) - [Claude Is Not a Compiler](https://blog.exe.dev/claude-is-not-a-compiler)
 * [2026-07-21, 14:40:52](https://news.ycombinator.com/item?id=48992960) - [Sarah's Wager](https://colossus.com/article/sarah-guo-conviction/)
