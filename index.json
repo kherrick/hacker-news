@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2026-07-21, 19:04:39",
-      "https://news.ycombinator.com/item?id=48996652"
-    ],
-    [
-      "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
-      "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63"
-    ]
-  ],
-  [
-    [
       "2026-07-21, 18:58:44",
       "https://news.ycombinator.com/item?id=48996571"
     ],
@@ -87,16 +77,6 @@
     [
       "Apple has decided to compete for creativity app users",
       "https://alex4d.com/notes/item/apple-competing-for-creativity-app-users"
-    ]
-  ],
-  [
-    [
-      "2026-07-21, 18:30:21",
-      "https://news.ycombinator.com/item?id=48996197"
-    ],
-    [
-      "AI makes programming differently difficult",
-      "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/"
     ]
   ],
   [
@@ -177,16 +157,6 @@
     [
       "Show HN: CodeAlmanac – Karpathy-style codebase wiki from your conversations",
       "https://github.com/AlmanacCode/codealmanac/"
-    ]
-  ],
-  [
-    [
-      "2026-07-21, 17:09:37",
-      "https://news.ycombinator.com/item?id=48995149"
-    ],
-    [
-      "Uhubctl – control USB power per-port on smart USB hubs",
-      "https://github.com/mvp/uhubctl"
     ]
   ],
   [
@@ -281,6 +251,16 @@
   ],
   [
     [
+      "2026-07-20, 12:07:16",
+      "https://news.ycombinator.com/item?id=48977628"
+    ],
+    [
+      "Show HN: Read the Tape – Wordle for daytrading, five blind S&P 500 charts a day",
+      "https://readthetape.cc/"
+    ]
+  ],
+  [
+    [
       "2026-07-20, 06:09:25",
       "https://news.ycombinator.com/item?id=48974862"
     ],
@@ -297,6 +277,26 @@
     [
       "The unreasonable difficulty of time series forecasting",
       "https://suzyahyah.github.io/machine%20learning/2026/06/27/trouble-with-time-series.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-18, 12:05:25",
+      "https://news.ycombinator.com/item?id=48957321"
+    ],
+    [
+      "Zero-dependency streaming tar parser and writer for JavaScript",
+      "https://ayuhito.com/projects/modern-tar/"
+    ]
+  ],
+  [
+    [
+      "2026-07-17, 12:47:20",
+      "https://news.ycombinator.com/item?id=48946738"
+    ],
+    [
+      "Show HN: Justif – Knuth-Plass justification and microtypography for the web",
+      "https://justif.lyall.co/"
     ]
   ]
 ]
