@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-07-21, 18:42:46",
+      "https://news.ycombinator.com/item?id=48996364"
+    ],
+    [
+      "The Price of Happiness",
+      "https://happiness-science.org/price-of-happiness/"
+    ]
+  ],
+  [
+    [
       "2026-07-21, 18:39:41",
       "https://news.ycombinator.com/item?id=48996325"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=48996318"
     ],
     [
-      "Freeink: Open Ecosystem for E-Readers",
+      "FreeInk: Open ecosystem for e-readers",
       "https://freeink.org/"
     ]
   ],
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=48996197"
     ],
     [
-      "AI Didn't Make Programming Easier. It Just Made It Differently Difficult",
+      "AI makes programming differently difficult",
       "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/"
     ]
   ],
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=48996128"
     ],
     [
-      "Cheap Self-Hosted Kubernetes on Hetzner Cloud",
+      "Cheap self-hosted Kubernetes on Hetzner cloud (2025)",
       "https://blog.qstars.nl/posts/cheap-self-hosted-kubernetes-on-hetzner-cloud/"
     ]
   ],
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2026-07-21, 17:34:42",
-      "https://news.ycombinator.com/item?id=48995507"
-    ],
-    [
-      "Show HN: DocCharm – The help center that keeps itself up to date",
-      "https://doccharm.com/"
-    ]
-  ],
-  [
-    [
       "2026-07-21, 17:30:01",
       "https://news.ycombinator.com/item?id=48995444"
     ],
@@ -137,6 +137,16 @@
     [
       "Firefox Containers Preview",
       "https://blog.mozilla.org/en/firefox/firefox-containers-preview/"
+    ]
+  ],
+  [
+    [
+      "2026-07-21, 17:17:06",
+      "https://news.ycombinator.com/item?id=48995261"
+    ],
+    [
+      "Laguna S 2.1",
+      "https://poolside.ai/blog/introducing-laguna-s-2-1"
     ]
   ],
   [
@@ -171,11 +181,21 @@
   ],
   [
     [
+      "2026-07-21, 17:08:40",
+      "https://news.ycombinator.com/item?id=48995134"
+    ],
+    [
+      "I built a page that tells you what AI model your laptop can run",
+      "https://localsotabenchmark.engineersf.dev/"
+    ]
+  ],
+  [
+    [
       "2026-07-21, 17:03:18",
       "https://news.ycombinator.com/item?id=48995074"
     ],
     [
-      "Meta's AI Models Are Powering the First Wave of Genesis Mission Projects",
+      "Meta's AI models are powering the first wave of Genesis Mission projects",
       "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1"
     ]
   ],
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2026-07-21, 14:31:41",
-      "https://news.ycombinator.com/item?id=48992870"
-    ],
-    [
-      "Apple Defeats Liability for Not Scanning iCloud for CSAM",
-      "https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm"
-    ]
-  ],
-  [
-    [
       "2026-07-21, 13:48:35",
       "https://news.ycombinator.com/item?id=48992323"
     ],
@@ -257,16 +267,6 @@
     [
       "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
       "https://qwen.ai/blog?id=qwen-image-3.0"
-    ]
-  ],
-  [
-    [
-      "2026-07-21, 03:50:53",
-      "https://news.ycombinator.com/item?id=48987822"
-    ],
-    [
-      "Incremental – A library for incremental computations",
-      "https://github.com/janestreet/incremental"
     ]
   ],
   [
