@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-07-21, 04:55:06",
-      "https://news.ycombinator.com/item?id=48988189"
+      "2026-07-21, 06:29:22",
+      "https://news.ycombinator.com/item?id=48988793"
     ],
     [
-      "Zoom is now Chrome only",
-      "https://zoom.us/test"
+      "Linux kernel will support $ORIGIN, sort of",
+      "https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of"
     ]
   ],
   [
@@ -57,16 +57,6 @@
     [
       "Incremental – A library for incremental computations",
       "https://github.com/janestreet/incremental"
-    ]
-  ],
-  [
-    [
-      "2026-07-21, 02:25:36",
-      "https://news.ycombinator.com/item?id=48987347"
-    ],
-    [
-      "A PHP server that can handle 10x as many concurrent requests as Nginx+PHP-fpm",
-      "https://github.com/Qbix/webserver/blob/main/README.md"
     ]
   ],
   [
@@ -251,22 +241,22 @@
   ],
   [
     [
+      "2026-07-20, 02:51:16",
+      "https://news.ycombinator.com/item?id=48973869"
+    ],
+    [
+      "Claude Fable produced a counterexample to the Jacobian Conjecture",
+      "https://xcancel.com/__alpoge__/status/2079028340955197566"
+    ]
+  ],
+  [
+    [
       "2026-07-16, 17:41:13",
       "https://news.ycombinator.com/item?id=48937703"
     ],
     [
       "Flight Planning with Little Navmap",
       "https://tech.marksblogg.com/little-navmap-flight-planning.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-15, 20:37:22",
-      "https://news.ycombinator.com/item?id=48926731"
-    ],
-    [
-      "The Rise of Grocery Tourism",
-      "https://thefreemanmag.substack.com/p/the-rise-of-grocery-tourism"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "You only need the frontier model for one single edit",
       "https://stencil.so/blog/prewalk"
+    ]
+  ],
+  [
+    [
+      "2026-07-14, 16:57:52",
+      "https://news.ycombinator.com/item?id=48909784"
+    ],
+    [
+      "Tensor Notation in Mathup",
+      "https://mathup.xyz/#tensors"
     ]
   ],
   [
