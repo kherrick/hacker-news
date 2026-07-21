@@ -32,6 +32,7 @@
 * [2026-07-16, 17:41:13](https://news.ycombinator.com/item?id=48937703) - [Flight Planning with Little Navmap](https://tech.marksblogg.com/little-navmap-flight-planning.html)
 * [2026-07-16, 17:19:16](https://news.ycombinator.com/item?id=48937398) - [CD Sales Growth Outpaced Vinyl in the First Half of 2026](https://consequence.net/2026/07/the-cd-revival-is-getting-hard-to-ignore/)
 * [2026-07-16, 17:11:58](https://news.ycombinator.com/item?id=48937288) - [42% of adults rely on their parents for financial support](https://www.cnbc.com/2026/07/16/42percent-of-adults-rely-on-their-parents-for-financial-supportthere-are-no-bad-guys-here-says-financial-therapist.html)
+* [2026-07-16, 17:09:23](https://news.ycombinator.com/item?id=48937252) - [The Growing Compute Shortage](https://www.apollo.com/wealth/insights-news/insights/2026/06/growing-compute-shortage)
 * [2026-07-16, 17:00:55](https://news.ycombinator.com/item?id=48937125) - [Adaptional (YC S25) Is Hiring](https://www.ycombinator.com/companies/adaptional/jobs)
 * [2026-07-16, 16:52:16](https://news.ycombinator.com/item?id=48937020) - [Launch HN: Traceforce (YC S26) – Company-wide security monitoring for AI apps](https://news.ycombinator.com/item?id=48937020)
 * [2026-07-16, 16:51:20](https://news.ycombinator.com/item?id=48937007) - [Someone Used AI to Write an Unauthorized Biography of Me](https://www.nytimes.com/2026/07/16/technology/ai-slop-books-biography-amazon.html)

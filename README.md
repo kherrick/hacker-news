@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-07-21, 08:44:23](https://news.ycombinator.com/item?id=48989701) - [Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge](https://qwen.ai/blog?id=qwen-image-3.0)
-* [2026-07-21, 06:29:22](https://news.ycombinator.com/item?id=48988793) - [Linux kernel will support $ORIGIN, sort of](https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of)
 * [2026-07-21, 04:48:32](https://news.ycombinator.com/item?id=48988158) - [Show HN: Ex Situ – Open-source spatial index of displaced cultural artifacts](https://exsitu.app/map)
 * [2026-07-21, 03:54:16](https://news.ycombinator.com/item?id=48987846) - [Running Doom on Our Custom CPU and Going Viral](https://www.armaangomes.com/blogs/doom/)
 * [2026-07-21, 03:52:05](https://news.ycombinator.com/item?id=48987831) - [A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste](https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/)
@@ -26,6 +25,7 @@
 * [2026-07-20, 11:05:58](https://news.ycombinator.com/item?id=48977128) - [Who's afraid of Chinese models?](https://stratechery.com/2026/whos-afraid-of-chinese-models/)
 * [2026-07-19, 14:25:38](https://news.ycombinator.com/item?id=48968474) - [Postmortem of a British Startup: Tract](https://buildwithtract.com/)
 * [2026-07-18, 02:37:56](https://news.ycombinator.com/item?id=48954668) - [Arduino Launches Plug-and-Play Modules for Long-Range Sensor Projects](https://www.allaboutcircuits.com/news/arduino-launches-plug-and-play-modules-for-long-range-sensor-projects/)
+* [2026-07-16, 17:09:23](https://news.ycombinator.com/item?id=48937252) - [The Growing Compute Shortage](https://www.apollo.com/wealth/insights-news/insights/2026/06/growing-compute-shortage)
 * [2026-07-15, 16:16:21](https://news.ycombinator.com/item?id=48923130) - [The Psychology of Software Teams](https://www.routledge.com/The-Psychology-of-Software-Teams/Hicks/p/book/9781032963389)
 * [2026-07-15, 05:08:26](https://news.ycombinator.com/item?id=48916512) - [You only need the frontier model for one single edit](https://stencil.so/blog/prewalk)
 * [2026-07-14, 20:53:52](https://news.ycombinator.com/item?id=48912812) - [How to pack ternary numbers in 8-bit bytes](https://compilade.net/blog/ternary-packing)
