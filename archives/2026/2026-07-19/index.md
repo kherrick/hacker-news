@@ -30,6 +30,7 @@
 * [2026-07-19, 14:41:16](https://news.ycombinator.com/item?id=48968606) - [Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s](https://news.ycombinator.com/item?id=48968606)
 * [2026-07-19, 14:30:31](https://news.ycombinator.com/item?id=48968515) - [Terence McKenna's Mega Bad Trip](https://psychedelics.community/cultural-icons/terence-mckennas-mega-bad-trip)
 * [2026-07-19, 14:25:38](https://news.ycombinator.com/item?id=48968474) - [Postmortem of a British Startup: Tract](https://buildwithtract.com/)
+* [2026-07-19, 14:15:49](https://news.ycombinator.com/item?id=48968408) - [Show HN: Explore 6048 YC companies as an interactive galaxy](https://artifacta.io/a/pg_x9pombpdybx90q2s16eu)
 * [2026-07-19, 14:07:07](https://news.ycombinator.com/item?id=48968348) - [Clever hacker fits 537,000 domains in a $5 ESP32 ad-blocking dongle](https://www.tomshardware.com/networking/clever-hacker-fits-537-000-domains-in-a-tiny-usd5-esp32-ad-blocking-dongle-firmware-uses-only-around-50kb-of-ram-and-can-answer-blocked-lookups-in-10-milliseconds)
 * [2026-07-19, 13:30:01](https://news.ycombinator.com/item?id=48968067) - [DRIVE – Operational Excellence for AI-accelerated engineering](https://www.cortex.io/drive)
 * [2026-07-19, 13:29:29](https://news.ycombinator.com/item?id=48968063) - [Bananas sprout in Rayleigh Garden UK after 15 years](https://www.bbc.com/news/articles/cvg8edqq5g5o)
