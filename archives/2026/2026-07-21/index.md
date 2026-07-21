@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-07-21](index.md)
 
+* [2026-07-21, 17:22:17](https://news.ycombinator.com/item?id=48995333) - [Show HN: I built a command palette for the terminal – 6.2MB, pure Go, no fzf](https://github.com/matheuzgomes/decoreba)
+* [2026-07-21, 17:03:18](https://news.ycombinator.com/item?id=48995074) - [Meta's AI Models Are Powering the First Wave of Genesis Mission Projects](https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1)
+* [2026-07-21, 17:00:20](https://news.ycombinator.com/item?id=48995037) - [Bloomy (YC S26) is hiring a founding engineer](https://news.ycombinator.com/item?id=48995037)
 * [2026-07-21, 16:05:58](https://news.ycombinator.com/item?id=48994178) - [The World's 2,400 Castles](https://thecastlemap.com/)
 * [2026-07-21, 16:02:04](https://news.ycombinator.com/item?id=48994116) - [France's Anssi Will Block PQC-Free Products from Certification Starting 2027](https://postquantum.com/security-pqc/anssi-pqc-certification-2027/)
 * [2026-07-21, 16:01:07](https://news.ycombinator.com/item?id=48994103) - [Amid nurse shortage, a university rolls out the welcome mat for men](https://text.npr.org/nx-s1-5869813)
