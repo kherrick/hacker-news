@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-21, 01:06:20",
+      "https://news.ycombinator.com/item?id=48986912"
+    ],
+    [
+      "Show HN: I made email signatures less boring",
+      "https://esigna.app"
+    ]
+  ],
+  [
+    [
+      "2026-07-20, 23:15:41",
+      "https://news.ycombinator.com/item?id=48986091"
+    ],
+    [
+      "Jellyfin founder Andrew leaves team",
+      "https://forum.jellyfin.org/t-project-leadership-changes"
+    ]
+  ],
+  [
+    [
       "2026-07-20, 20:12:19",
       "https://news.ycombinator.com/item?id=48984270"
     ],
@@ -71,16 +91,6 @@
   ],
   [
     [
-      "2026-07-20, 17:31:57",
-      "https://news.ycombinator.com/item?id=48982011"
-    ],
-    [
-      "Hyprland 0.55 announced the switch to Lua for its config files",
-      "https://hypr.land/news/update55/"
-    ]
-  ],
-  [
-    [
       "2026-07-20, 17:13:23",
       "https://news.ycombinator.com/item?id=48981703"
     ],
@@ -131,6 +141,16 @@
   ],
   [
     [
+      "2026-07-20, 15:28:32",
+      "https://news.ycombinator.com/item?id=48980238"
+    ],
+    [
+      "Mythologizing AI makes it more likely that we’ll fail to operate it well (2023)",
+      "https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai"
+    ]
+  ],
+  [
+    [
       "2026-07-20, 15:15:36",
       "https://news.ycombinator.com/item?id=48980053"
     ],
@@ -177,26 +197,6 @@
     [
       "Perfection is not over-engineering",
       "https://var0.xyz/posts/perfection-is-not-over-engineering.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-20, 13:49:53",
-      "https://news.ycombinator.com/item?id=48978880"
-    ],
-    [
-      "Show HN: The0 – self-hosted runtime for trading bots, bring your own language",
-      "https://github.com/alexanderwanyoike/the0"
-    ]
-  ],
-  [
-    [
-      "2026-07-20, 13:47:29",
-      "https://news.ycombinator.com/item?id=48978841"
-    ],
-    [
-      "Show HN: OTP Inspired actor supervisor based full stack templates",
-      "https://shipstacks.tech"
     ]
   ],
   [
