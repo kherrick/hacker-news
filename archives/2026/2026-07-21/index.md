@@ -12,6 +12,7 @@
 * [2026-07-21, 03:54:16](https://news.ycombinator.com/item?id=48987846) - [Running Doom on Our Custom CPU and Going Viral](https://www.armaangomes.com/blogs/doom/)
 * [2026-07-21, 03:52:05](https://news.ycombinator.com/item?id=48987831) - [A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste](https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/)
 * [2026-07-21, 03:50:53](https://news.ycombinator.com/item?id=48987822) - [Jane Street: Incremental](https://github.com/janestreet/incremental)
+* [2026-07-21, 03:42:47](https://news.ycombinator.com/item?id=48987775) - [VTubing: How a Japanese Phenomenon Is Going Worldwide](https://www.tokyodev.com/articles/vtubing-how-a-japanese-phenomenon-is-going-worldwide)
 * [2026-07-21, 03:17:10](https://news.ycombinator.com/item?id=48987634) - [Is surveillance risk chilling your online speech?](https://news.ycombinator.com/item?id=48987634)
 * [2026-07-21, 02:25:36](https://news.ycombinator.com/item?id=48987347) - [A PHP server that can handle 10x as many concurrent requests as Nginx+PHP-fpm](https://github.com/Qbix/webserver/blob/main/README.md)
 * [2026-07-21, 02:09:27](https://news.ycombinator.com/item?id=48987253) - [Ramp Router](https://ramp.com/router/)
