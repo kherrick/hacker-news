@@ -129,6 +129,346 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="48996571">
+          <h3>
+            <a class="item" href="https://ads.openai.com/"
+              >Advertise in ChatGPT</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-21 @ 18:58:44</span
+              ><span class="points-container"
+                >Points: <span class="points">124</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48996571"
+                  >Comments</a
+                ><span class="descendants">: 124</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48996325">
+          <h3>
+            <a class="item" href="https://github.com/Hikari-Systems/slater"
+              >Slater – Low-memory graphdb designed for read-heavy graphs</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-21 @ 18:39:41</span
+              ><span class="points-container"
+                >Points: <span class="points">7</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48996325"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48996318">
+          <h3>
+            <a class="item" href="https://freeink.org/"
+              >Freeink: Open Ecosystem for E-Readers</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-21 @ 18:39:06</span
+              ><span class="points-container"
+                >Points: <span class="points">80</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48996318"
+                  >Comments</a
+                ><span class="descendants">: 13</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48996236">
+          <h3>
+            <a
+              class="item"
+              href="https://help.trmnl.com/en/articles/14130438-ai-agent"
+              >AI Agent – TRMNL</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-21 @ 18:32:21</span
+              ><span class="points-container"
+                >Points: <span class="points">11</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48996236"
+                  >Comments</a
+                ><span class="descendants">: 6</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48996211">
+          <h3>
+            <a
+              class="item"
+              href="https://alex4d.com/notes/item/apple-competing-for-creativity-app-users"
+              >Apple has decided to compete for creativity app users</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-21 @ 18:30:53</span
+              ><span class="points-container"
+                >Points: <span class="points">32</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48996211"
+                  >Comments</a
+                ><span class="descendants">: 8</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48996197">
+          <h3>
+            <a
+              class="item"
+              href="https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/"
+              >AI Didn't Make Programming Easier. It Just Made It Differently
+              Difficult</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-21 @ 18:30:21</span
+              ><span class="points-container"
+                >Points: <span class="points">85</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48996197"
+                  >Comments</a
+                ><span class="descendants">: 47</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48996187">
+          <h3>
+            <a class="item" href="https://github.com/Kalcode/spaceprojectsim"
+              >Show HN: A self-running space economy SIM in Rust and Bevy</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-21 @ 18:29:57</span
+              ><span class="points-container"
+                >Points: <span class="points">23</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48996187"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                A space-economy sim where nothing is scripted. A few hundred
+                autonomous ships each run their own planner. Some chase the best
+                trade route, take a delivery contract, refuel, retrofit at a
+                shipyard, or dock so the crew can rest before morale tanks.
+              </p>
+              <p>
+                Markets price everything off supply with shortage-urgency
+                multipliers, factions tax and subsidize, populations migrate
+                when they're unhappy, and stations that go broke get abandoned
+                and rot.
+              </p>
+              <p>
+                It started as an Elixir/Phoenix prototype, but the BEAM
+                scheduler struggled on Windows gaming PCs, so I had Claude
+                rewrite the engine in Rust.
+              </p>
+              <p>
+                The sim core is pure, synchronous, IO-free (its own hecs ECS),
+                and the Bevy client embeds it directly as a library, sim and
+                renderer share one world with zero marshalling. Ship AI is a
+                GOAP planner over a world state; ships replan mid-flight when a
+                better option appears. ~485 agents today at p50 ~10-20ms/tick,
+                architected to push toward 100k+. Single native binary, bundled
+                SQLite, no runtime deps. Getting into 100k has been a struggle,
+                but I have pushed it into the thousand and it was running fine.
+              </p>
+              <p>
+                It's a sandbox, not a game yet, there's no objective yet, and
+                I'm not actively pushing it toward "shippable." Anyone can fork
+                it and take it over. Or it can stay as some type of AI slop, but
+                part of me thinks it is already in a pretty good shape for a
+                simulation use for various games or ideas.
+              </p>
+              <p>
+                (Full disclosure: a lot of this was built pairing with Claude.
+                That's how I had the bandwidth to take it this far. Happy to
+                talk about what that workflow actually looked like.)
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="48996128">
+          <h3>
+            <a
+              class="item"
+              href="https://blog.qstars.nl/posts/cheap-self-hosted-kubernetes-on-hetzner-cloud/"
+              >Cheap Self-Hosted Kubernetes on Hetzner Cloud</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-21 @ 18:25:08</span
+              ><span class="points-container"
+                >Points: <span class="points">42</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48996128"
+                  >Comments</a
+                ><span class="descendants">: 18</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48995923">
+          <h3>
+            <a
+              class="item"
+              href="https://hebbianrobotics.com/blog/youtube-system-design-for-robotics-data-infrastructure"
+              >YouTube System Design for Robotics Data Infrastructure</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-21 @ 18:08:38</span
+              ><span class="points-container"
+                >Points: <span class="points">6</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48995923"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48995814">
+          <h3>
+            <a class="item" href="https://arxiv.org/abs/2607.14656"
+              >Greedy is optimal for single-pass semi-streaming matching</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-21 @ 17:59:29</span
+              ><span class="points-container"
+                >Points: <span class="points">8</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48995814"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48995796">
+          <h3>
+            <a
+              class="item"
+              href="https://support.apple.com/guide/certifications/apple-private-cloud-compute-soc-3-audit-apc95a31b9d8/web"
+              >Apple Private Cloud Compute SoC 3 audit reports</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-21 @ 17:58:21</span
+              ><span class="points-container"
+                >Points: <span class="points">36</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48995796"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48995507">
+          <h3>
+            <a class="item" href="https://doccharm.com/"
+              >Show HN: DocCharm – The help center that keeps itself up to
+              date</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-21 @ 17:34:42</span
+              ><span class="points-container"
+                >Points: <span class="points">5</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48995507"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                We were finding it too much work to keep our Zendesk help center
+                up to date as our product kept changing, so I built DocCharm —
+                it keeps a help center up to date automatically by watching PRs
+                as they land in your GitHub repository. It suggests updates
+                (with AI) to existing articles, or drafts entirely new ones if
+                nothing appropriate exists yet.
+              </p>
+              <p>
+                Everything goes into a review queue first, so a human always
+                checks (and can optionally edit) before anything publishes. In
+                practice this has proven to be a pretty slick workflow (in my
+                opinion anyway, but not only!).
+              </p>
+              <p>
+                We’ve been using it at my main job for a while now and it’s a
+                big time saver. It’s also gaining some traction with other
+                companies in the same investor portfolio. My sales process so
+                far has been high-touch outbound. This probably won’t scale in
+                the long run, but I’m hoping to learn as much as I can by
+                nurturing all of the initial relationships. If you run a
+                business with a help center that’s drifting out of date, email
+                me and I’ll comp your first couple of months. Email is in my HN
+                profile.
+              </p>
+              <p>
+                Both Zendesk and Mintlify help centers can already be
+                automatically imported into DocCharm. If you use a different
+                help center, let me know and I’ll get it automatically imported
+                one way or another. I've also implemented some support for
+                theming, so you can keep your own branding.
+              </p>
+              <p>
+                The tech is essentially the same that I use for most of my work
+                (and it's not a differentiator, but we're all tech-curious
+                here):
+              </p>
+              <p>- Haskell/Yesod</p>
+              <p>- NixOS</p>
+              <p>
+                - SQLite with Litestream (db per tenant; backed up on both
+                Hetzner and Cloudflare; encrypted)
+              </p>
+              <p>- Sentry for error reporting</p>
+              <p>- Stripe for billing</p>
+              <p>- Healthchecks.io as a dead man’s switch</p>
+              <p>- Prometheus and Grafana for telemetry</p>
+              <p>- Resend for transactional email</p>
+              <p>
+                There's plenty still to do on the roadmap, but this is already
+                working nicely and providing value as is. I'm not building in
+                the open, though what I prioritise will naturally be heavily
+                guided by the needs of the earliest users.
+              </p>
+              <p>WDYT?</p>
+            </div>
+          </section>
+        </section>
         <section id="48995444">
           <h3>
             <a class="item" href="https://github.com/cristibaluta/Imagin-Raw"
@@ -140,11 +480,11 @@
             <h4>
               <span>2026-07-21 @ 17:30:01</span
               ><span class="points-container"
-                >Points: <span class="points">30</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48995444"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -161,11 +501,11 @@
             <h4>
               <span>2026-07-21 @ 17:27:59</span
               ><span class="points-container"
-                >Points: <span class="points">56</span></span
+                >Points: <span class="points">74</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48995409"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 35</span></span
               >
             </h4>
           </section>
@@ -183,13 +523,22 @@
             <h4>
               <span>2026-07-21 @ 17:14:06</span
               ><span class="points-container"
-                >Points: <span class="points">68</span></span
+                >Points: <span class="points">81</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48995213"
                   >Comments</a
-                ><span class="descendants">: 56</span></span
+                ><span class="descendants">: 80</span></span
               >
             </h4>
+            <div class="text">
+              <a href="https://x.com/jack/status/2079605800998146171"
+                >https://x.com/jack/status/2079605800998146171</a
+              >,
+              <a href="https://xcancel.com/jack/status/2079605800998146171"
+                >https://xcancel.com/jack/status/2079605800998146171</a
+              >
+              <p><a href="https://buzz.xyz/">https://buzz.xyz/</a></p>
+            </div>
           </section>
         </section>
         <section id="48995181">
@@ -203,11 +552,11 @@
             <h4>
               <span>2026-07-21 @ 17:12:01</span
               ><span class="points-container"
-                >Points: <span class="points">15</span></span
+                >Points: <span class="points">19</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48995181"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
             <div class="text">
@@ -278,11 +627,11 @@
             <h4>
               <span>2026-07-21 @ 17:09:37</span
               ><span class="points-container"
-                >Points: <span class="points">16</span></span
+                >Points: <span class="points">24</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48995149"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -300,13 +649,19 @@
             <h4>
               <span>2026-07-21 @ 17:03:18</span
               ><span class="points-container"
-                >Points: <span class="points">53</span></span
+                >Points: <span class="points">63</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48995074"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 42</span></span
               >
             </h4>
+            <div class="text">
+              <a
+                href="https://www.energy.gov/undersecretaryforscience/genesis-mission/genesis-mission"
+                >https://www.energy.gov/undersecretaryforscience/genesis-miss...</a
+              >
+            </div>
           </section>
         </section>
         <section id="48995037">
@@ -466,26 +821,6 @@
             </div>
           </section>
         </section>
-        <section id="48994984">
-          <h3>
-            <a class="item" href="https://github.com/Observal/Observal"
-              >Show HN: OSS Cross-Harness self hosted registry and analytics for
-              AI Agents</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-21 @ 16:57:30</span
-              ><span class="points-container"
-                >Points: <span class="points">16</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48994984"
-                  >Comments</a
-                ><span class="descendants">: 1</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="48994178">
           <h3>
             <a class="item" href="https://thecastlemap.com/"
@@ -496,11 +831,11 @@
             <h4>
               <span>2026-07-21 @ 16:05:58</span
               ><span class="points-container"
-                >Points: <span class="points">114</span></span
+                >Points: <span class="points">126</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48994178"
                   >Comments</a
-                ><span class="descendants">: 87</span></span
+                ><span class="descendants">: 95</span></span
               >
             </h4>
           </section>
@@ -518,11 +853,11 @@
             <h4>
               <span>2026-07-21 @ 16:02:04</span
               ><span class="points-container"
-                >Points: <span class="points">57</span></span
+                >Points: <span class="points">61</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48994116"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
@@ -538,35 +873,19 @@
             <h4>
               <span>2026-07-21 @ 15:41:51</span
               ><span class="points-container"
-                >Points: <span class="points">191</span></span
+                >Points: <span class="points">213</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48993816"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 32</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="48993637">
-          <h3>
-            <a
-              class="item"
-              href="https://www.404media.co/apple-fixes-hide-my-email-vulnerability-after-404-media-coverage/"
-              >Apple Fixes Hide My Email Vulnerability After 404 Media
-              Coverage</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-21 @ 15:31:41</span
-              ><span class="points-container"
-                >Points: <span class="points">92</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48993637"
-                  >Comments</a
-                ><span class="descendants">: 14</span></span
+            <div class="text">
+              <a
+                href="https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1848226/full"
+                >https://www.frontiersin.org/journals/marine-science/articles...</a
               >
-            </h4>
+            </div>
           </section>
         </section>
         <section id="48993414">
@@ -581,11 +900,11 @@
             <h4>
               <span>2026-07-21 @ 15:17:16</span
               ><span class="points-container"
-                >Points: <span class="points">420</span></span
+                >Points: <span class="points">453</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48993414"
                   >Comments</a
-                ><span class="descendants">: 339</span></span
+                ><span class="descendants">: 360</span></span
               >
             </h4>
           </section>
@@ -602,11 +921,11 @@
             <h4>
               <span>2026-07-21 @ 14:31:41</span
               ><span class="points-container"
-                >Points: <span class="points">216</span></span
+                >Points: <span class="points">223</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48992870"
                   >Comments</a
-                ><span class="descendants">: 186</span></span
+                ><span class="descendants">: 197</span></span
               >
             </h4>
           </section>
@@ -619,32 +938,11 @@
             <h4>
               <span>2026-07-21 @ 13:48:35</span
               ><span class="points-container"
-                >Points: <span class="points">140</span></span
+                >Points: <span class="points">148</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48992323"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48992315">
-          <h3>
-            <a
-              class="item"
-              href="https://acoup.blog/2019/11/22/collections-why-are-there-no-empires-in-age-of-empires/"
-              >Why Are There No Empires in Age of Empires? (2019)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-21 @ 13:48:07</span
-              ><span class="points-container"
-                >Points: <span class="points">58</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48992315"
-                  >Comments</a
-                ><span class="descendants">: 44</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -660,11 +958,11 @@
             <h4>
               <span>2026-07-21 @ 08:44:23</span
               ><span class="points-container"
-                >Points: <span class="points">490</span></span
+                >Points: <span class="points">496</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48989701"
                   >Comments</a
-                ><span class="descendants">: 200</span></span
+                ><span class="descendants">: 204</span></span
               >
             </h4>
           </section>
@@ -679,91 +977,11 @@
             <h4>
               <span>2026-07-21 @ 03:50:53</span
               ><span class="points-container"
-                >Points: <span class="points">320</span></span
+                >Points: <span class="points">321</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48987822"
                   >Comments</a
-                ><span class="descendants">: 61</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48983382">
-          <h3>
-            <a
-              class="item"
-              href="https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/"
-              >Human mathematicians are being outcounterexampled</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-20 @ 19:03:37</span
-              ><span class="points-container"
-                >Points: <span class="points">457</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48983382"
-                  >Comments</a
-                ><span class="descendants">: 226</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48981703">
-          <h3>
-            <a class="item" href="https://www.kimi.com/products/kimi-work"
-              >Kimi Work</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-20 @ 17:13:23</span
-              ><span class="points-container"
-                >Points: <span class="points">660</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48981703"
-                  >Comments</a
-                ><span class="descendants">: 269</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48981620">
-          <h3>
-            <a class="item" href="https://jelly-ui.com/"
-              >Jelly UI: Soft-body physics for native HTML form controls</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-20 @ 17:07:39</span
-              ><span class="points-container"
-                >Points: <span class="points">643</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48981620"
-                  >Comments</a
-                ><span class="descendants">: 193</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48977128">
-          <h3>
-            <a
-              class="item"
-              href="https://stratechery.com/2026/whos-afraid-of-chinese-models/"
-              >Who's afraid of Chinese models?</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-20 @ 11:05:58</span
-              ><span class="points-container"
-                >Points: <span class="points">925</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48977128"
-                  >Comments</a
-                ><span class="descendants">: 793</span></span
+                ><span class="descendants">: 63</span></span
               >
             </h4>
           </section>
@@ -780,53 +998,11 @@
             <h4>
               <span>2026-07-20 @ 06:09:25</span
               ><span class="points-container"
-                >Points: <span class="points">71</span></span
+                >Points: <span class="points">85</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48974862"
                   >Comments</a
-                ><span class="descendants">: 44</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48970357">
-          <h3>
-            <a
-              class="item"
-              href="https://blog.dlang.org/2026/07/19/abusing-overload-sets-to-create-ad-hoc-template-apis/"
-              >(Ab)Using Overload Sets to Create Ad-Hoc Template APIs in D</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-19 @ 18:08:49</span
-              ><span class="points-container"
-                >Points: <span class="points">8</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48970357"
-                  >Comments</a
-                ><span class="descendants">: 2</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48968408">
-          <h3>
-            <a
-              class="item"
-              href="https://artifacta.io/a/pg_x9pombpdybx90q2s16eu"
-              >Show HN: Explore 6048 YC companies as an interactive galaxy</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-19 @ 14:15:49</span
-              ><span class="points-container"
-                >Points: <span class="points">32</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48968408"
-                  >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 59</span></span
               >
             </h4>
           </section>
@@ -843,55 +1019,11 @@
             <h4>
               <span>2026-07-18 @ 18:09:36</span
               ><span class="points-container"
-                >Points: <span class="points">59</span></span
+                >Points: <span class="points">71</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48960582"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48954668">
-          <h3>
-            <a
-              class="item"
-              href="https://www.allaboutcircuits.com/news/arduino-launches-plug-and-play-modules-for-long-range-sensor-projects/"
-              >Arduino Launches Plug-and-Play Modules for Long-Range Sensor
-              Projects</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-18 @ 02:37:56</span
-              ><span class="points-container"
-                >Points: <span class="points">81</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48954668"
-                  >Comments</a
-                ><span class="descendants">: 38</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48942065">
-          <h3>
-            <a
-              class="item"
-              href="https://terradaily.com/anything-that-falls-into-a-four-kilometre-stretch-of-a-river-in-the-central-peruvian-amazon-dies-within-seconds-because-the-water-reaches-temperatures-of-up-to-100-degrees-celsius-despite-the-river/"
-              >Shanay-Timpishka, a boiling hot river 700km from the nearest
-              active volcano</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-17 @ 00:32:30</span
-              ><span class="points-container"
-                >Points: <span class="points">43</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48942065"
-                  >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
@@ -909,30 +1041,11 @@
             <h4>
               <span>2026-07-15 @ 09:07:02</span
               ><span class="points-container"
-                >Points: <span class="points">130</span></span
+                >Points: <span class="points">133</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48918140"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48912812">
-          <h3>
-            <a class="item" href="https://compilade.net/blog/ternary-packing"
-              >How to pack ternary numbers in 8-bit bytes</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-14 @ 20:53:52</span
-              ><span class="points-container"
-                >Points: <span class="points">93</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48912812"
-                  >Comments</a
-                ><span class="descendants">: 46</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
