@@ -57,6 +57,7 @@
 * [2026-07-20, 12:45:55](https://news.ycombinator.com/item?id=48978112) - [Stop Using OpenCode](https://wren.wtf/shower-thoughts/stop-using-opencode/)
 * [2026-07-20, 12:25:49](https://news.ycombinator.com/item?id=48977849) - [The footprints of every building in NYC – updated weekly](https://www.beautifulpublicdata.com/the-footprints-of-every-building-in-nyc/)
 * [2026-07-20, 12:14:08](https://news.ycombinator.com/item?id=48977711) - [The EU is about to sell our most sensitive data to the US for visa-free travel](https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/)
+* [2026-07-20, 12:07:16](https://news.ycombinator.com/item?id=48977628) - [Show HN: Read the Tape – Wordle for daytrading, five blind S&P 500 charts a day](https://readthetape.cc/)
 * [2026-07-20, 12:00:43](https://news.ycombinator.com/item?id=48977564) - [The Trump administration's Threat to Scientific Research](https://marginalrevolution.com/marginalrevolution/2026/07/the-trump-administrations-threat-to-scientific-research.html)
 * [2026-07-20, 11:05:58](https://news.ycombinator.com/item?id=48977128) - [Who's Afraid of Chinese Models?](https://stratechery.com/2026/whos-afraid-of-chinese-models/)
 * [2026-07-20, 10:30:40](https://news.ycombinator.com/item?id=48976846) - [Airport Simulator](https://airport.apunen.com/)
