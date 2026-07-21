@@ -26,6 +26,7 @@
 * [2026-07-16, 20:09:46](https://news.ycombinator.com/item?id=48939580) - [Kimi K3 Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/kimi-k3)
 * [2026-07-16, 20:03:23](https://news.ycombinator.com/item?id=48939524) - [$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol](https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6)
 * [2026-07-16, 19:20:51](https://news.ycombinator.com/item?id=48939030) - [As a musician, I prefer illegal downloading over Spotify (2011)](https://derekwebb.tumblr.com/post/13503899950/giving-it-away-how-free-music-makes-more-than)
+* [2026-07-16, 18:34:56](https://news.ycombinator.com/item?id=48938395) - [Recreating the math behind the first stealth aircraft](https://www.pramit.gg/post/remaking-echo-1-stealth-physics)
 * [2026-07-16, 18:33:24](https://news.ycombinator.com/item?id=48938372) - [AttoChess, a complete, playable chess program for 16-bit x86 DOS in 278 bytes](https://nicholas-afk.github.io/AttoChess/)
 * [2026-07-16, 18:03:56](https://news.ycombinator.com/item?id=48938001) - [SPCX is now Wall Street's most shorted new stock](https://invezz.com/news/2026/07/16/the-worlds-most-valuable-ipo-spcx-is-now-wall-streets-most-shorted-new-stock/)
 * [2026-07-16, 17:44:46](https://news.ycombinator.com/item?id=48937756) - [German AI consortium releases Soofi S, an open 30B model that tops benchmarks](https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/)

@@ -10,7 +10,6 @@
 * [2026-07-21, 20:09:52](https://news.ycombinator.com/item?id=48997548) - [OpenAI and Hugging Face address security incident during model evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident/)
 * [2026-07-21, 19:43:59](https://news.ycombinator.com/item?id=48997221) - ['VPNs are lawful technical tools,' says EU Court in landmark copyright ruling](https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling)
 * [2026-07-21, 18:42:46](https://news.ycombinator.com/item?id=48996364) - [The Price of Happiness (2024)](https://happiness-science.org/price-of-happiness/)
-* [2026-07-21, 18:39:41](https://news.ycombinator.com/item?id=48996325) - [Slater – Low-memory graphdb designed for read-heavy graphs](https://github.com/Hikari-Systems/slater)
 * [2026-07-21, 18:39:06](https://news.ycombinator.com/item?id=48996318) - [FreeInk: Open ecosystem for e-readers](https://freeink.org/)
 * [2026-07-21, 18:29:57](https://news.ycombinator.com/item?id=48996187) - [Show HN: A self-running space economy SIM in Rust and Bevy](https://github.com/Kalcode/spaceprojectsim)
 * [2026-07-21, 17:58:21](https://news.ycombinator.com/item?id=48995796) - [Apple Private Cloud Compute SoC 3 audit reports](https://support.apple.com/guide/certifications/apple-private-cloud-compute-soc-3-audit-apc95a31b9d8/web)
@@ -29,6 +28,7 @@
 * [2026-07-18, 18:09:36](https://news.ycombinator.com/item?id=48960582) - [The unreasonable difficulty of time series forecasting](https://suzyahyah.github.io/machine%20learning/2026/06/27/trouble-with-time-series.html)
 * [2026-07-17, 23:33:39](https://news.ycombinator.com/item?id=48953468) - [The Birth of Prolog (1996)](https://dl.acm.org/doi/10.1145/234286.1057820)
 * [2026-07-17, 12:47:20](https://news.ycombinator.com/item?id=48946738) - [Show HN: Justif – Knuth-Plass justification and microtypography for the web](https://justif.lyall.co/)
+* [2026-07-16, 18:34:56](https://news.ycombinator.com/item?id=48938395) - [Recreating the math behind the first stealth aircraft](https://www.pramit.gg/post/remaking-echo-1-stealth-physics)
 * [2026-07-16, 13:43:16](https://news.ycombinator.com/item?id=48934468) - [Celestrak adds catalog digit, fixes Y2K bug](https://www.celestrak.org/satcat/)
 
 ## [Archives](archives/index.md)
