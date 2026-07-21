@@ -35,6 +35,7 @@
 * [2026-07-17, 15:50:25](https://news.ycombinator.com/item?id=48948800) - [Building an Arch Linux Aarch64 Port for Holo Core](https://www.collabora.com/news-and-blog/news-and-events/building-an-arch-linux-aarch64-port-for-holo-core.html)
 * [2026-07-17, 15:41:05](https://news.ycombinator.com/item?id=48948693) - [Show HN: Explore the Workspaces of Modern Creators](https://workspaces.xyz/)
 * [2026-07-17, 15:31:22](https://news.ycombinator.com/item?id=48948597) - [Frame – the first Linux Assembly X server](https://isene.org/2026/07/Frame.html)
+* [2026-07-17, 15:30:00](https://news.ycombinator.com/item?id=48948578) - [A Mathematical Tribute to the Soccer Ball](https://www.nytimes.com/2026/07/17/science/mathematical-tribute-soccer-ball.html)
 * [2026-07-17, 15:17:54](https://news.ycombinator.com/item?id=48948435) - [Short sellers notch $8.7B profit as SpaceX shares dip to IPO price](https://www.reuters.com/business/media-telecom/short-sellers-rack-up-87-bln-profit-spacex-slips-below-ipo-price-ortex-2026-07-16/)
 * [2026-07-17, 14:31:10](https://news.ycombinator.com/item?id=48947825) - [Mozilla: The state of open source AI](https://stateofopensource.ai/)
 * [2026-07-17, 14:26:58](https://news.ycombinator.com/item?id=48947776) - [Claude Code: Anatomy of a Misfeature](https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/)

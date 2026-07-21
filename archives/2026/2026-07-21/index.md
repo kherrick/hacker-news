@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-07-21](index.md)
 
+* [2026-07-21, 03:56:03](https://news.ycombinator.com/item?id=48987863) - [Five US tech giants' hidden debts soar to $1.65T on opaque AI funding](https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding)
+* [2026-07-21, 03:54:16](https://news.ycombinator.com/item?id=48987846) - [Running Doom on Our Custom CPU and Going Viral](https://www.armaangomes.com/blogs/doom/)
+* [2026-07-21, 03:52:05](https://news.ycombinator.com/item?id=48987831) - [A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste](https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/)
+* [2026-07-21, 03:50:53](https://news.ycombinator.com/item?id=48987822) - [Jane Street: Incremental](https://github.com/janestreet/incremental)
+* [2026-07-21, 03:17:10](https://news.ycombinator.com/item?id=48987634) - [Is surveillance risk chilling your online speech?](https://news.ycombinator.com/item?id=48987634)
 * [2026-07-21, 02:09:27](https://news.ycombinator.com/item?id=48987253) - [Ramp Router](https://ramp.com/router/)
 * [2026-07-21, 01:06:20](https://news.ycombinator.com/item?id=48986912) - [Show HN: I made email signatures less boring](https://esigna.app)
 * [2026-07-21, 00:33:53](https://news.ycombinator.com/item?id=48986731) - [Flock Credibility Lost as It Repeatedly Lies to City Councils, Police, & Public](https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country)
