@@ -38,6 +38,7 @@
 * [2026-07-15, 16:32:05](https://news.ycombinator.com/item?id=48923363) - [FreeBSD 16 Retires the Last of Its GPL Code from Its Base System](https://www.phoronix.com/news/FreeBSD-16-Goes-GPL-Free)
 * [2026-07-15, 16:22:43](https://news.ycombinator.com/item?id=48923217) - [Starlink 2X Price Increase](https://www.corporatejetinvestor.com/news/starlink-price-rise-reckless-says-correnti/)
 * [2026-07-15, 16:22:14](https://news.ycombinator.com/item?id=48923209) - [What designing 54 computer science cards taught me about graphic design](https://fhoehl.com/designing-algodeck)
+* [2026-07-15, 16:16:21](https://news.ycombinator.com/item?id=48923130) - [The Psychology of Software Teams](https://www.routledge.com/The-Psychology-of-Software-Teams/Hicks/p/book/9781032963389)
 * [2026-07-15, 16:15:03](https://news.ycombinator.com/item?id=48923111) - [Open-source memory for coding agents, synced over SSH](https://github.com/vshulcz/deja-vu/)
 * [2026-07-15, 16:15:01](https://news.ycombinator.com/item?id=48923109) - [Unsolved Problems in MLOps](https://spawn-queue.acm.org/doi/pdf/10.1145/3762989)
 * [2026-07-15, 16:12:58](https://news.ycombinator.com/item?id=48923079) - [Codex Micro](https://openai.com/supply/co-lab/work-louder/)

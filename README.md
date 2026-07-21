@@ -27,7 +27,7 @@
 * [2026-07-20, 10:30:40](https://news.ycombinator.com/item?id=48976846) - [Airport Simulator](https://airport.apunen.com/)
 * [2026-07-20, 08:13:36](https://news.ycombinator.com/item?id=48975665) - [Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25](https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/)
 * [2026-07-17, 14:24:21](https://news.ycombinator.com/item?id=48947739) - [85.3 GFlops: Optimizing FP32 Matrix Multiplication on a Single AMD Zen 3 Core](https://github.com/houslast3/85.30-GFLOPS-Single-Core-FP32-Matrix-Multiplication-on-AMD-Zen-3)
-* [2026-07-17, 09:14:57](https://news.ycombinator.com/item?id=48945037) - [Topological Defect Propagation to Classify Knitted Fabrics](https://journals.aps.org/prx/abstract/10.1103/g565-3dyn)
+* [2026-07-15, 16:16:21](https://news.ycombinator.com/item?id=48923130) - [The Psychology of Software Teams](https://www.routledge.com/The-Psychology-of-Software-Teams/Hicks/p/book/9781032963389)
 * [2026-07-15, 05:08:26](https://news.ycombinator.com/item?id=48916512) - [You only need the frontier model for one single edit](https://stencil.so/blog/prewalk)
 * [2026-07-10, 19:32:07](https://news.ycombinator.com/item?id=48864176) - [My two year old taught me constraint solving](https://thecomputersciencebook.com/posts/how-my-2yo-taught-me-constraint-solving/)
 
