@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-07-21](index.md)
 
+* [2026-07-21, 16:05:58](https://news.ycombinator.com/item?id=48994178) - [The World's 2,400 Castles](https://thecastlemap.com/)
+* [2026-07-21, 16:02:04](https://news.ycombinator.com/item?id=48994116) - [France's Anssi Will Block PQC-Free Products from Certification Starting 2027](https://postquantum.com/security-pqc/anssi-pqc-certification-2027/)
+* [2026-07-21, 16:01:07](https://news.ycombinator.com/item?id=48994103) - [Amid nurse shortage, a university rolls out the welcome mat for men](https://text.npr.org/nx-s1-5869813)
+* [2026-07-21, 15:46:18](https://news.ycombinator.com/item?id=48993885) - [NPM's release cooldown is security theater](https://blog.outv.im/2026/npm-cooldown-security-theater/)
+* [2026-07-21, 15:41:51](https://news.ycombinator.com/item?id=48993816) - [Long Presumed Dead, a Thriving Coral Reef Is Discovered in West Africa](https://e360.yale.edu/digest/benin-coral-reef)
+* [2026-07-21, 15:31:41](https://news.ycombinator.com/item?id=48993637) - [Apple Fixes Hide My Email Vulnerability After 404 Media Coverage](https://www.404media.co/apple-fixes-hide-my-email-vulnerability-after-404-media-coverage/)
 * [2026-07-21, 15:22:33](https://news.ycombinator.com/item?id=48993488) - [Oracle could face $7B collateral bill for Wisconsin data centre](https://www.ft.com/content/b37030b6-bda8-4ba9-8e08-e6b88687b8f5)
 * [2026-07-21, 15:21:02](https://news.ycombinator.com/item?id=48993465) - [Amid Increased Scrutiny, ICE Detention and Deportation Data Goes Dark](https://www.themarshallproject.org/2026/07/15/ice-data-immigration-detention-transparency)
 * [2026-07-21, 15:19:44](https://news.ycombinator.com/item?id=48993448) - [ICE to Pay Thomson Reuters $125M to Find Voter Fraud](https://www.404media.co/ice-to-pay-thomson-reuters-125-million-to-find-voter-fraud/)
