@@ -31,12 +31,12 @@
   ],
   [
     [
-      "2026-07-21, 20:38:29",
-      "https://news.ycombinator.com/item?id=48997941"
+      "2026-07-21, 21:01:57",
+      "https://news.ycombinator.com/item?id=48998262"
     ],
     [
-      "Show HN: Orate – On-device neural text-to-speech queue for Mac",
-      "https://orate.to/"
+      "Show HN: Browser Tools SDK – an optimal browser harness for agents",
+      "https://libretto.sh/browser-tools"
     ]
   ],
   [
@@ -57,6 +57,16 @@
     [
       "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
       "https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling"
+    ]
+  ],
+  [
+    [
+      "2026-07-21, 18:58:44",
+      "https://news.ycombinator.com/item?id=48996571"
+    ],
+    [
+      "Advertise in ChatGPT",
+      "https://ads.openai.com/"
     ]
   ],
   [
@@ -107,16 +117,6 @@
     [
       "Show HN: A self-running space economy SIM in Rust and Bevy",
       "https://github.com/Kalcode/spaceprojectsim"
-    ]
-  ],
-  [
-    [
-      "2026-07-21, 18:17:50",
-      "https://news.ycombinator.com/item?id=48996035"
-    ],
-    [
-      "Measuring reward-seeking by instilling contrastive beliefs",
-      "https://alignment.openai.com/measuring-reward-seeking/"
     ]
   ],
   [
@@ -177,16 +177,6 @@
     [
       "Bloomy (YC S26) is hiring a founding engineer",
       "https://news.ycombinator.com/item?id=48995037"
-    ]
-  ],
-  [
-    [
-      "2026-07-21, 16:39:30",
-      "https://news.ycombinator.com/item?id=48994716"
-    ],
-    [
-      "Roblox Officially Supports GrapheneOS",
-      "https://en.help.roblox.com/hc/en-us/articles/49648939984916-Android-Remote-Attestation"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Show HN: Justif – Knuth-Plass justification and microtypography for the web",
       "https://justif.lyall.co/"
+    ]
+  ],
+  [
+    [
+      "2026-07-16, 13:43:16",
+      "https://news.ycombinator.com/item?id=48934468"
+    ],
+    [
+      "Celestrak adds catalog digit, fixes Y2K bug",
+      "https://www.celestrak.org/satcat/"
     ]
   ]
 ]
