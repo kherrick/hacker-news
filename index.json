@@ -1,11 +1,21 @@
 [
   [
     [
+      "2026-07-21, 20:48:22",
+      "https://news.ycombinator.com/item?id=48998082"
+    ],
+    [
+      "Mickey Mouse Sells a Bundle",
+      "https://www.marginpoints.com/essays/mickey-mouse-sells-a-bundle-hn"
+    ]
+  ],
+  [
+    [
       "2026-07-21, 20:09:52",
       "https://news.ycombinator.com/item?id=48997548"
     ],
     [
-      "OpenAI and Hugging Face partner to address security incident",
+      "OpenAI and Hugging Face address security incident during model evaluation",
       "https://openai.com/index/hugging-face-model-evaluation-security-incident/"
     ]
   ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=48996364"
     ],
     [
-      "The Price of Happiness",
+      "The Price of Happiness (2024)",
       "https://happiness-science.org/price-of-happiness/"
     ]
   ],
@@ -71,32 +81,12 @@
   ],
   [
     [
-      "2026-07-21, 18:30:53",
-      "https://news.ycombinator.com/item?id=48996211"
-    ],
-    [
-      "Apple has decided to compete for creativity app users",
-      "https://alex4d.com/notes/item/apple-competing-for-creativity-app-users"
-    ]
-  ],
-  [
-    [
       "2026-07-21, 18:29:57",
       "https://news.ycombinator.com/item?id=48996187"
     ],
     [
       "Show HN: A self-running space economy SIM in Rust and Bevy",
       "https://github.com/Kalcode/spaceprojectsim"
-    ]
-  ],
-  [
-    [
-      "2026-07-21, 18:25:08",
-      "https://news.ycombinator.com/item?id=48996128"
-    ],
-    [
-      "Cheap self-hosted Kubernetes on Hetzner cloud (2025)",
-      "https://blog.qstars.nl/posts/cheap-self-hosted-kubernetes-on-hetzner-cloud/"
     ]
   ],
   [
@@ -161,6 +151,16 @@
   ],
   [
     [
+      "2026-07-21, 17:09:37",
+      "https://news.ycombinator.com/item?id=48995149"
+    ],
+    [
+      "Uhubctl – Control USB power per-port on smart USB hubs",
+      "https://github.com/mvp/uhubctl"
+    ]
+  ],
+  [
+    [
       "2026-07-21, 17:03:18",
       "https://news.ycombinator.com/item?id=48995074"
     ],
@@ -177,6 +177,16 @@
     [
       "Bloomy (YC S26) is hiring a founding engineer",
       "https://news.ycombinator.com/item?id=48995037"
+    ]
+  ],
+  [
+    [
+      "2026-07-21, 16:39:30",
+      "https://news.ycombinator.com/item?id=48994716"
+    ],
+    [
+      "Roblox Officially Supports GrapheneOS",
+      "https://en.help.roblox.com/hc/en-us/articles/49648939984916-Android-Remote-Attestation"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "The unreasonable difficulty of time series forecasting",
       "https://suzyahyah.github.io/machine%20learning/2026/06/27/trouble-with-time-series.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-18, 12:05:25",
-      "https://news.ycombinator.com/item?id=48957321"
-    ],
-    [
-      "Zero-dependency streaming tar parser and writer for JavaScript",
-      "https://ayuhito.com/projects/modern-tar/"
     ]
   ],
   [
