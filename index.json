@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2026-07-21, 03:56:03",
-      "https://news.ycombinator.com/item?id=48987863"
-    ],
-    [
-      "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
-      "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding"
-    ]
-  ],
-  [
-    [
       "2026-07-21, 03:54:16",
       "https://news.ycombinator.com/item?id=48987846"
     ],
@@ -77,6 +67,16 @@
     [
       "VTubing: How a Japanese Phenomenon Is Going Worldwide",
       "https://www.tokyodev.com/articles/vtubing-how-a-japanese-phenomenon-is-going-worldwide"
+    ]
+  ],
+  [
+    [
+      "2026-07-20, 23:15:41",
+      "https://news.ycombinator.com/item?id=48986091"
+    ],
+    [
+      "Jellyfin founder Andrew leaves team",
+      "https://forum.jellyfin.org/t-project-leadership-changes"
     ]
   ],
   [
@@ -181,12 +181,12 @@
   ],
   [
     [
-      "2026-07-20, 15:07:31",
-      "https://news.ycombinator.com/item?id=48979931"
+      "2026-07-20, 15:47:28",
+      "https://news.ycombinator.com/item?id=48980520"
     ],
     [
-      "Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion (2012)",
-      "https://nothings.org/gamedev/ssao/"
+      "I Stopped “Creating Content”",
+      "https://refactoringenglish.com/blog/why-i-stopped-creating-content/"
     ]
   ],
   [
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2026-07-19, 14:25:38",
+      "https://news.ycombinator.com/item?id=48968474"
+    ],
+    [
+      "Postmortem of a British Startup: Tract",
+      "https://buildwithtract.com/"
+    ]
+  ],
+  [
+    [
       "2026-07-18, 02:37:56",
       "https://news.ycombinator.com/item?id=48954668"
     ],
@@ -277,16 +287,6 @@
     [
       "How to pack ternary numbers in 8-bit bytes",
       "https://compilade.net/blog/ternary-packing"
-    ]
-  ],
-  [
-    [
-      "2026-07-14, 16:57:52",
-      "https://news.ycombinator.com/item?id=48909784"
-    ],
-    [
-      "Tensor Notation in Mathup",
-      "https://mathup.xyz/#tensors"
     ]
   ],
   [
