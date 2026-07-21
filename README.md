@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-21, 08:44:23](https://news.ycombinator.com/item?id=48989701) - [Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge](https://qwen.ai/blog?id=qwen-image-3.0)
 * [2026-07-21, 06:29:22](https://news.ycombinator.com/item?id=48988793) - [Linux kernel will support $ORIGIN, sort of](https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of)
 * [2026-07-21, 04:48:32](https://news.ycombinator.com/item?id=48988158) - [Show HN: Ex Situ – Open-source spatial index of displaced cultural artifacts](https://exsitu.app/map)
 * [2026-07-21, 03:56:03](https://news.ycombinator.com/item?id=48987863) - [Five US tech giants' hidden debts soar to $1.65T on opaque AI funding](https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding)
@@ -7,7 +8,6 @@
 * [2026-07-21, 03:52:05](https://news.ycombinator.com/item?id=48987831) - [A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste](https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/)
 * [2026-07-21, 03:50:53](https://news.ycombinator.com/item?id=48987822) - [Incremental – A library for incremental computations](https://github.com/janestreet/incremental)
 * [2026-07-21, 03:42:47](https://news.ycombinator.com/item?id=48987775) - [VTubing: How a Japanese Phenomenon Is Going Worldwide](https://www.tokyodev.com/articles/vtubing-how-a-japanese-phenomenon-is-going-worldwide)
-* [2026-07-21, 00:33:53](https://news.ycombinator.com/item?id=48986731) - [Flock Credibility Lost as It Repeatedly Lies to City Councils, Police, & Public](https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country)
 * [2026-07-20, 20:12:19](https://news.ycombinator.com/item?id=48984270) - [I wrote an bash enumerator because I was sick of xargs](https://numerlab.org/2025/07/20/bashumerate-enumerator/)
 * [2026-07-20, 20:10:44](https://news.ycombinator.com/item?id=48984254) - [Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco](https://vincentwoo.com/3d/grace_cathedral/)
 * [2026-07-20, 20:08:45](https://news.ycombinator.com/item?id=48984231) - [The Power of Awareness: Overcoming Surveillance Capitalism](https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/)
@@ -24,7 +24,7 @@
 * [2026-07-20, 13:43:10](https://news.ycombinator.com/item?id=48978792) - [Shinjuku Station in 3D](https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/)
 * [2026-07-20, 13:28:33](https://news.ycombinator.com/item?id=48978605) - [Hacker wipes Romania's land registry database](https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/)
 * [2026-07-20, 11:05:58](https://news.ycombinator.com/item?id=48977128) - [Who's afraid of Chinese models?](https://stratechery.com/2026/whos-afraid-of-chinese-models/)
-* [2026-07-20, 02:51:16](https://news.ycombinator.com/item?id=48973869) - [Claude Fable produced a counterexample to the Jacobian Conjecture](https://xcancel.com/__alpoge__/status/2079028340955197566)
+* [2026-07-18, 02:37:56](https://news.ycombinator.com/item?id=48954668) - [Arduino Launches Plug-and-Play Modules for Long-Range Sensor Projects](https://www.allaboutcircuits.com/news/arduino-launches-plug-and-play-modules-for-long-range-sensor-projects/)
 * [2026-07-15, 16:16:21](https://news.ycombinator.com/item?id=48923130) - [The Psychology of Software Teams](https://www.routledge.com/The-Psychology-of-Software-Teams/Hicks/p/book/9781032963389)
 * [2026-07-15, 05:08:26](https://news.ycombinator.com/item?id=48916512) - [You only need the frontier model for one single edit](https://stencil.so/blog/prewalk)
 * [2026-07-14, 20:53:52](https://news.ycombinator.com/item?id=48912812) - [How to pack ternary numbers in 8-bit bytes](https://compilade.net/blog/ternary-packing)
