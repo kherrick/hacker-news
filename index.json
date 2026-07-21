@@ -1,6 +1,66 @@
 [
   [
     [
+      "2026-07-21, 16:05:58",
+      "https://news.ycombinator.com/item?id=48994178"
+    ],
+    [
+      "The World's 2,400 Castles",
+      "https://thecastlemap.com/"
+    ]
+  ],
+  [
+    [
+      "2026-07-21, 16:02:04",
+      "https://news.ycombinator.com/item?id=48994116"
+    ],
+    [
+      "France's Anssi Will Block PQC-Free Products from Certification Starting 2027",
+      "https://postquantum.com/security-pqc/anssi-pqc-certification-2027/"
+    ]
+  ],
+  [
+    [
+      "2026-07-21, 16:01:07",
+      "https://news.ycombinator.com/item?id=48994103"
+    ],
+    [
+      "Amid nurse shortage, a university rolls out the welcome mat for men",
+      "https://text.npr.org/nx-s1-5869813"
+    ]
+  ],
+  [
+    [
+      "2026-07-21, 15:46:18",
+      "https://news.ycombinator.com/item?id=48993885"
+    ],
+    [
+      "NPM's release cooldown is security theater",
+      "https://blog.outv.im/2026/npm-cooldown-security-theater/"
+    ]
+  ],
+  [
+    [
+      "2026-07-21, 15:41:51",
+      "https://news.ycombinator.com/item?id=48993816"
+    ],
+    [
+      "Long Presumed Dead, a Thriving Coral Reef Is Discovered in West Africa",
+      "https://e360.yale.edu/digest/benin-coral-reef"
+    ]
+  ],
+  [
+    [
+      "2026-07-21, 15:31:41",
+      "https://news.ycombinator.com/item?id=48993637"
+    ],
+    [
+      "Apple Fixes Hide My Email Vulnerability After 404 Media Coverage",
+      "https://www.404media.co/apple-fixes-hide-my-email-vulnerability-after-404-media-coverage/"
+    ]
+  ],
+  [
+    [
       "2026-07-21, 15:22:33",
       "https://news.ycombinator.com/item?id=48993488"
     ],
@@ -71,16 +131,6 @@
   ],
   [
     [
-      "2026-07-21, 12:03:14",
-      "https://news.ycombinator.com/item?id=48991139"
-    ],
-    [
-      "New US homeownership measure puts people first",
-      "https://www.minneapolisfed.org/article/2026/new-homeownership-measure-puts-people-first"
-    ]
-  ],
-  [
-    [
       "2026-07-21, 08:44:23",
       "https://news.ycombinator.com/item?id=48989701"
     ],
@@ -121,26 +171,6 @@
   ],
   [
     [
-      "2026-07-21, 03:42:47",
-      "https://news.ycombinator.com/item?id=48987775"
-    ],
-    [
-      "VTubing: How a Japanese Phenomenon Is Going Worldwide",
-      "https://www.tokyodev.com/articles/vtubing-how-a-japanese-phenomenon-is-going-worldwide"
-    ]
-  ],
-  [
-    [
-      "2026-07-20, 20:12:19",
-      "https://news.ycombinator.com/item?id=48984270"
-    ],
-    [
-      "I wrote an bash enumerator because I was sick of xargs",
-      "https://numerlab.org/2025/07/20/bashumerate-enumerator/"
-    ]
-  ],
-  [
-    [
       "2026-07-20, 20:10:44",
       "https://news.ycombinator.com/item?id=48984254"
     ],
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2026-07-20, 18:06:13",
-      "https://news.ycombinator.com/item?id=48982535"
-    ],
-    [
-      "Agent swarms and the new model economics",
-      "https://cursor.com/blog/agent-swarm-model-economics"
-    ]
-  ],
-  [
-    [
       "2026-07-20, 17:13:23",
       "https://news.ycombinator.com/item?id=48981703"
     ],
@@ -197,26 +217,6 @@
     [
       "Jelly UI: Soft-body physics for native HTML form controls",
       "https://jelly-ui.com/"
-    ]
-  ],
-  [
-    [
-      "2026-07-20, 15:47:28",
-      "https://news.ycombinator.com/item?id=48980520"
-    ],
-    [
-      "I Stopped “Creating Content”",
-      "https://refactoringenglish.com/blog/why-i-stopped-creating-content/"
-    ]
-  ],
-  [
-    [
-      "2026-07-20, 14:21:47",
-      "https://news.ycombinator.com/item?id=48979269"
-    ],
-    [
-      "China’s open-weights AI strategy is winning",
-      "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/"
     ]
   ],
   [
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2026-07-18, 18:09:36",
+      "https://news.ycombinator.com/item?id=48960582"
+    ],
+    [
+      "The unreasonable difficulty of time series forecasting",
+      "https://suzyahyah.github.io/machine%20learning/2026/06/27/trouble-with-time-series.html"
+    ]
+  ],
+  [
+    [
       "2026-07-18, 02:37:56",
       "https://news.ycombinator.com/item?id=48954668"
     ],
@@ -267,16 +277,6 @@
     [
       "Shanay-Timpishka, a boiling hot river 700km from the nearest active volcano",
       "https://terradaily.com/anything-that-falls-into-a-four-kilometre-stretch-of-a-river-in-the-central-peruvian-amazon-dies-within-seconds-because-the-water-reaches-temperatures-of-up-to-100-degrees-celsius-despite-the-river/"
-    ]
-  ],
-  [
-    [
-      "2026-07-15, 16:16:21",
-      "https://news.ycombinator.com/item?id=48923130"
-    ],
-    [
-      "The Psychology of Software Teams",
-      "https://www.routledge.com/The-Psychology-of-Software-Teams/Hicks/p/book/9781032963389"
     ]
   ],
   [
