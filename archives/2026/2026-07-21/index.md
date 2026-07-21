@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-07-21](index.md)
 
+* [2026-07-21, 17:30:01](https://news.ycombinator.com/item?id=48995444) - [Show HN: Imagin Raw – A 9MB Open-Source Alternative to Adobe Bridge for Mac](https://github.com/cristibaluta/Imagin-Raw)
+* [2026-07-21, 17:27:59](https://news.ycombinator.com/item?id=48995409) - [Firefox Containers Preview](https://blog.mozilla.org/en/firefox/firefox-containers-preview/)
 * [2026-07-21, 17:22:17](https://news.ycombinator.com/item?id=48995333) - [Show HN: I built a command palette for the terminal – 6.2MB, pure Go, no fzf](https://github.com/matheuzgomes/decoreba)
+* [2026-07-21, 17:14:06](https://news.ycombinator.com/item?id=48995213) - [Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting](https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git)
+* [2026-07-21, 17:12:01](https://news.ycombinator.com/item?id=48995181) - [Show HN: CodeAlmanac – Karpathy-style codebase wiki from your conversations](https://github.com/AlmanacCode/codealmanac/)
+* [2026-07-21, 17:09:37](https://news.ycombinator.com/item?id=48995149) - [Uhubctl – control USB power per-port on smart USB hubs](https://github.com/mvp/uhubctl)
 * [2026-07-21, 17:03:18](https://news.ycombinator.com/item?id=48995074) - [Meta's AI Models Are Powering the First Wave of Genesis Mission Projects](https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1)
 * [2026-07-21, 17:00:20](https://news.ycombinator.com/item?id=48995037) - [Bloomy (YC S26) is hiring a founding engineer](https://news.ycombinator.com/item?id=48995037)
 * [2026-07-21, 16:05:58](https://news.ycombinator.com/item?id=48994178) - [The World's 2,400 Castles](https://thecastlemap.com/)
