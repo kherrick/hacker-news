@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-21, 02:09:27",
+      "https://news.ycombinator.com/item?id=48987253"
+    ],
+    [
+      "Ramp Router",
+      "https://ramp.com/router/"
+    ]
+  ],
+  [
+    [
       "2026-07-21, 00:33:53",
       "https://news.ycombinator.com/item?id=48986731"
     ],
@@ -81,16 +91,6 @@
   ],
   [
     [
-      "2026-07-20, 18:10:17",
-      "https://news.ycombinator.com/item?id=48982578"
-    ],
-    [
-      "The drivers behind software delivery inefficiency",
-      "https://dl.acm.org/doi/10.1145/3800646.3800650"
-    ]
-  ],
-  [
-    [
       "2026-07-20, 18:06:13",
       "https://news.ycombinator.com/item?id=48982535"
     ],
@@ -137,16 +137,6 @@
     [
       "Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12",
       "https://news.ycombinator.com/item?id=48981136"
-    ]
-  ],
-  [
-    [
-      "2026-07-20, 15:15:36",
-      "https://news.ycombinator.com/item?id=48980053"
-    ],
-    [
-      "The Voice of Google",
-      "https://www.newyorker.com/culture/the-weekend-essay/the-voice-of-google"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "You only need the frontier model for one single edit",
       "https://stencil.so/blog/prewalk"
+    ]
+  ],
+  [
+    [
+      "2026-07-13, 02:14:08",
+      "https://news.ycombinator.com/item?id=48887043"
+    ],
+    [
+      "What most histories get wrong about MUMPS's first standard",
+      "https://github.com/rochus-keller/MUMPS/blob/main/docs/First_MUMPS_Standard_Article.md"
     ]
   ],
   [
