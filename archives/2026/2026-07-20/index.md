@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-20](index.md)
 
+* [2026-07-20, 23:15:41](https://news.ycombinator.com/item?id=48986091) - [Jellyfin founder Andrew leaves team](https://forum.jellyfin.org/t-project-leadership-changes)
 * [2026-07-20, 21:43:07](https://news.ycombinator.com/item?id=48985249) - [Donation Controversy](https://mullvad.net/en/blog/donation-controversy)
 * [2026-07-20, 21:30:56](https://news.ycombinator.com/item?id=48985140) - [My falling-out with the rationalist community](https://lcamtuf.substack.com/p/my-falling-out-with-the-rationalist)
 * [2026-07-20, 20:36:37](https://news.ycombinator.com/item?id=48984555) - [The creepiest 'sales demo' of all time](https://www.appenmedia.com/opinion/letter-to-the-editor-the-creepiest-sales-demo-of-all-time/article_a8f0cc6c-29d3-41f7-8668-8a855f760efb.html)
