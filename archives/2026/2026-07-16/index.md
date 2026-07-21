@@ -60,6 +60,7 @@
 * [2026-07-16, 14:46:05](https://news.ycombinator.com/item?id=48935342) - [Kimi K3: Open Frontier Intelligence](https://www.kimi.com/blog/kimi-k3)
 * [2026-07-16, 14:46:05](https://news.ycombinator.com/item?id=48935342) - [Kimi K3 is now live](https://www.kimi.com/en)
 * [2026-07-16, 13:51:32](https://news.ycombinator.com/item?id=48934583) - [Show HN: AI Law Tracker – one audited API for US, EU and global AI law](https://ai-law-tracker.com)
+* [2026-07-16, 13:43:16](https://news.ycombinator.com/item?id=48934468) - [Celestrak adds catalog digit, fixes Y2K bug](https://www.celestrak.org/satcat/)
 * [2026-07-16, 13:41:12](https://news.ycombinator.com/item?id=48934434) - [How to spend 15 years perfecting a product](https://refactoring.guru/email/gbb-rollout2)
 * [2026-07-16, 13:34:03](https://news.ycombinator.com/item?id=48934340) - [Show HN: We hid a backdoor in an LLM – $51,200 on finding it](https://protora.vulcora.se/challenge)
 * [2026-07-16, 13:30:18](https://news.ycombinator.com/item?id=48934290) - [My Homepage Has a Pulse](https://snehankekre.com/posts/hr/)
