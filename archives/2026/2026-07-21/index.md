@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-07-21](index.md)
 
+* [2026-07-21, 14:56:15](https://news.ycombinator.com/item?id=48993130) - [Gemini 3.6 Flash](https://console.cloud.google.com/agent-platform/publishers/google/model-garden/gemini-3.6-flash)
+* [2026-07-21, 14:49:18](https://news.ycombinator.com/item?id=48993059) - [Claude Is Not a Compiler](https://blog.exe.dev/claude-is-not-a-compiler)
+* [2026-07-21, 14:40:52](https://news.ycombinator.com/item?id=48992960) - [Sarah's Wager](https://colossus.com/article/sarah-guo-conviction/)
+* [2026-07-21, 14:31:41](https://news.ycombinator.com/item?id=48992870) - [Apple Defeats Liability for Not Scanning iCloud for CSAM](https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm)
 * [2026-07-21, 14:16:02](https://news.ycombinator.com/item?id=48992669) - [Over 400 Linux CVEs published in the last 24 hours alone](https://lore.kernel.org/linux-cve-announce/)
 * [2026-07-21, 13:48:35](https://news.ycombinator.com/item?id=48992323) - [PCjs Machines](https://www.pcjs.org/)
 * [2026-07-21, 13:05:28](https://news.ycombinator.com/item?id=48991815) - [The Great Steam Deck Crash of 2026: How the New Pricing Decreased Demand by 80%](https://boilingsteam.com/the-great-steam-deck-volume-crash/)
