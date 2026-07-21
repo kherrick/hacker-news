@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-21, 22:45:27",
+      "https://news.ycombinator.com/item?id=48999376"
+    ],
+    [
+      "An Engineer's Guide to USB Type-C [pdf]",
+      "https://www.ti.com/lit/eb/slyy228/slyy228.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-07-21, 22:39:58",
+      "https://news.ycombinator.com/item?id=48999323"
+    ],
+    [
+      "Furtex: Post-exploitation, rootkit and evasion research toolkit for Linux",
+      "https://github.com/MatheuZSecurity/Furtex"
+    ]
+  ],
+  [
+    [
       "2026-07-21, 22:35:24",
       "https://news.ycombinator.com/item?id=48999291"
     ],
@@ -17,6 +37,16 @@
     [
       "Show HN: Computable – Buy, sell, and redeem GPU for the exact weeks you want",
       "https://www.getcomputable.com/"
+    ]
+  ],
+  [
+    [
+      "2026-07-21, 21:27:54",
+      "https://news.ycombinator.com/item?id=48998606"
+    ],
+    [
+      "Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
+      "https://ai.google.dev/gemini-api/docs/latest-model"
     ]
   ],
   [
@@ -61,16 +91,6 @@
   ],
   [
     [
-      "2026-07-21, 18:58:44",
-      "https://news.ycombinator.com/item?id=48996571"
-    ],
-    [
-      "Advertise in ChatGPT",
-      "https://ads.openai.com/"
-    ]
-  ],
-  [
-    [
       "2026-07-21, 18:42:46",
       "https://news.ycombinator.com/item?id=48996364"
     ],
@@ -97,16 +117,6 @@
     [
       "FreeInk: Open ecosystem for e-readers",
       "https://freeink.org/"
-    ]
-  ],
-  [
-    [
-      "2026-07-21, 18:32:21",
-      "https://news.ycombinator.com/item?id=48996236"
-    ],
-    [
-      "AI Agent – TRMNL",
-      "https://help.trmnl.com/en/articles/14130438-ai-agent"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
       "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git"
-    ]
-  ],
-  [
-    [
-      "2026-07-21, 17:03:18",
-      "https://news.ycombinator.com/item?id=48995074"
-    ],
-    [
-      "Meta's AI models are powering the first wave of Genesis Mission projects",
-      "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1"
     ]
   ],
   [
