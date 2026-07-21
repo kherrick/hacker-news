@@ -140,11 +140,11 @@
             <h4>
               <span>2026-07-21 @ 21:48:19</span
               ><span class="points-container"
-                >Points: <span class="points">5</span></span
+                >Points: <span class="points">8</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48998828"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
             <div class="text">
@@ -199,11 +199,11 @@
             <h4>
               <span>2026-07-21 @ 21:13:20</span
               ><span class="points-container"
-                >Points: <span class="points">25</span></span
+                >Points: <span class="points">41</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48998404"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -220,72 +220,87 @@
             <h4>
               <span>2026-07-21 @ 21:09:25</span
               ><span class="points-container"
-                >Points: <span class="points">58</span></span
+                >Points: <span class="points">79</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48998362"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="48997941">
+        <section id="48998262">
           <h3>
-            <a class="item" href="https://orate.to/"
-              >Show HN: Orate – On-device neural text-to-speech queue for Mac</a
+            <a class="item" href="https://libretto.sh/browser-tools"
+              >Show HN: Browser Tools SDK – an optimal browser harness for
+              agents</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-07-21 @ 20:38:29</span
+              <span>2026-07-21 @ 21:01:57</span
               ><span class="points-container"
-                >Points: <span class="points">8</span></span
+                >Points: <span class="points">7</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48997941"
+                ><a href="https://news.ycombinator.com/item?id=48998262"
                   >Comments</a
                 ><span class="descendants">: 1</span></span
               >
             </h4>
             <div class="text">
+              <p></p>
+              <pre><code>  import { createAiSdkBrowserTools } from "libretto-browser-tools/ai-sdk";
+  import { LocalBrowserProvider } from "libretto-browser-tools";
+
+  const { tools } = createAiSdkBrowserTools(new LocalBrowserProvider());
+
+  const result = await generateText({
+    model: anthropic("claude-sonnet-4-5"),
+    tools,
+    prompt: "Go to Hacker News and tell me the top story",
+  });
+</code></pre>
+              We built the Browser Tools SDK because access to a browser is one
+              of the most important tools of a productive agent, but we found
+              many of the existing tools lacking. Using the insights we gained
+              building Libretto, we were able to build the SDK so that it’s
+              significantly more context and cost-efficient than other tools:
               <p>
-                I have been struggling recently with too many tabs, emails,
-                articles, etc sitting unread while I swap between Claude code
-                sessions all day. So I decided to build Orate to help me work
-                through the backlog by listening to it all like I would a
-                podcast.
+                We compared Browser Tools SDK against agent-browser,
+                playwright-cli, and dev-browser on 26 live-site tasks with GPT
+                5.6 Sol (best results from 3 runs). Browser Tools tied for the
+                best pass rate at 24/26 and came in about 55% cheaper per
+                successful task than the next alternative ($0.106 vs $0.235)
+                while also using far fewer tokens (1.45M vs 2.29M+). Benchmark
+                methodology is in the repo.
               </p>
               <p>
-                Orate allows you to select any text on your screen and keyboard
-                shortcut it to a listening queue where it gets processed using
-                the latest + greatest TTS AI models, and then read back to you
-                in a mostly-natural sounding voice. Orate works fully on-device
-                and offline. Whatever you pass to it stays yours. It's native,
-                lives in your menu bar, and supports things like tagging, system
-                playback controls, speed adjustment, and more. There's also an
-                optional HD-voice tier that uses Chatterbox instead of Kokoro
-                which ships with it for more expressive TTS.
+                The Browser Tools SDK only exposes 6 tools, of which only 2 are
+                really important: `browser_snapshot` and `browser_exec`. The
+                snapshot tool was designed from the ground up to be extremely
+                context-efficient and provide agents the overview they need to
+                know what to try next. The exec tool takes and executes raw
+                Playwright code, of which the models have been trained on heaps
+                of, and know how to use without much direction.
               </p>
               <p>
-                I'm also burnt out on being chipped away at little by little
-                with a subscription for everything, so it's just $4.99 one time
-                and you own it forever. Use the code HACKERNEWS for $3 off,
-                putting you at just $1.99.
+                Works with AI SDK and Pi out of the box, plus a custom path for
+                anything else. More frameworks are coming soon. You can also use
+                any browser infra provider (Libretto Cloud, Kernel, Browserbase,
+                etc.) or use `LocalBrowserProvider` to run Chromium locally
+                (although that will have less anti-bot protections).
               </p>
               <p>
-                As AI helped me nail down - it's "read it later, for your ears".
-                I hope you like it!
+                MIT licensed. Check out the docs:
+                <a href="https://libretto.sh/docs/browser-tools/quickstart"
+                  >https://libretto.sh/docs/browser-tools/quickstart</a
+                >
+                and join the Discord:
+                <a href="https://discord.gg/NYrG56hVDt"
+                  >https://discord.gg/NYrG56hVDt</a
+                >.
               </p>
-              <p>
-                If you have any questions, want more details, notice any bugs,
-                or have an idea for something cool to add, just ping me! I plan
-                to launch a companion iOS app soon to sync text between your
-                devices as well.
-              </p>
-              <p>
-                It's currently Mac only, but I might whip up a Windows version
-                if the response is good.
-              </p>
-              <p>Cheers!</p>
+              <p>We’d love any and all feedback.</p>
             </div>
           </section>
         </section>
@@ -302,11 +317,11 @@
             <h4>
               <span>2026-07-21 @ 20:09:52</span
               ><span class="points-container"
-                >Points: <span class="points">426</span></span
+                >Points: <span class="points">476</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48997548"
                   >Comments</a
-                ><span class="descendants">: 273</span></span
+                ><span class="descendants">: 310</span></span
               >
             </h4>
             <div class="text">
@@ -337,11 +352,30 @@
             <h4>
               <span>2026-07-21 @ 19:43:59</span
               ><span class="points-container"
-                >Points: <span class="points">247</span></span
+                >Points: <span class="points">269</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48997221"
                   >Comments</a
-                ><span class="descendants">: 39</span></span
+                ><span class="descendants">: 46</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48996571">
+          <h3>
+            <a class="item" href="https://ads.openai.com/"
+              >Advertise in ChatGPT</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-21 @ 18:58:44</span
+              ><span class="points-container"
+                >Points: <span class="points">240</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48996571"
+                  >Comments</a
+                ><span class="descendants">: 235</span></span
               >
             </h4>
           </section>
@@ -358,11 +392,11 @@
             <h4>
               <span>2026-07-21 @ 18:42:46</span
               ><span class="points-container"
-                >Points: <span class="points">41</span></span
+                >Points: <span class="points">45</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48996364"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -377,11 +411,11 @@
             <h4>
               <span>2026-07-21 @ 18:39:41</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48996325"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -396,11 +430,11 @@
             <h4>
               <span>2026-07-21 @ 18:39:06</span
               ><span class="points-container"
-                >Points: <span class="points">305</span></span
+                >Points: <span class="points">319</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48996318"
                   >Comments</a
-                ><span class="descendants">: 68</span></span
+                ><span class="descendants">: 72</span></span
               >
             </h4>
           </section>
@@ -417,7 +451,7 @@
             <h4>
               <span>2026-07-21 @ 18:32:21</span
               ><span class="points-container"
-                >Points: <span class="points">36</span></span
+                >Points: <span class="points">38</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48996236"
                   >Comments</a
@@ -436,7 +470,7 @@
             <h4>
               <span>2026-07-21 @ 18:29:57</span
               ><span class="points-container"
-                >Points: <span class="points">63</span></span
+                >Points: <span class="points">68</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48996187"
                   >Comments</a
@@ -486,27 +520,6 @@
             </div>
           </section>
         </section>
-        <section id="48996035">
-          <h3>
-            <a
-              class="item"
-              href="https://alignment.openai.com/measuring-reward-seeking/"
-              >Measuring reward-seeking by instilling contrastive beliefs</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-21 @ 18:17:50</span
-              ><span class="points-container"
-                >Points: <span class="points">9</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48996035"
-                  >Comments</a
-                ><span class="descendants">: 1</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="48995796">
           <h3>
             <a
@@ -519,11 +532,11 @@
             <h4>
               <span>2026-07-21 @ 17:58:21</span
               ><span class="points-container"
-                >Points: <span class="points">75</span></span
+                >Points: <span class="points">79</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48995796"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 33</span></span
               >
             </h4>
           </section>
@@ -540,11 +553,11 @@
             <h4>
               <span>2026-07-21 @ 17:17:06</span
               ><span class="points-container"
-                >Points: <span class="points">184</span></span
+                >Points: <span class="points">192</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48995261"
                   >Comments</a
-                ><span class="descendants">: 39</span></span
+                ><span class="descendants">: 41</span></span
               >
             </h4>
           </section>
@@ -562,11 +575,11 @@
             <h4>
               <span>2026-07-21 @ 17:14:06</span
               ><span class="points-container"
-                >Points: <span class="points">185</span></span
+                >Points: <span class="points">194</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48995213"
                   >Comments</a
-                ><span class="descendants">: 175</span></span
+                ><span class="descendants">: 184</span></span
               >
             </h4>
             <div class="text">
@@ -669,11 +682,11 @@
             <h4>
               <span>2026-07-21 @ 17:03:18</span
               ><span class="points-container"
-                >Points: <span class="points">85</span></span
+                >Points: <span class="points">87</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48995074"
                   >Comments</a
-                ><span class="descendants">: 61</span></span
+                ><span class="descendants">: 62</span></span
               >
             </h4>
             <div class="text">
@@ -841,27 +854,6 @@
             </div>
           </section>
         </section>
-        <section id="48994716">
-          <h3>
-            <a
-              class="item"
-              href="https://en.help.roblox.com/hc/en-us/articles/49648939984916-Android-Remote-Attestation"
-              >Roblox Officially Supports GrapheneOS</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-21 @ 16:39:30</span
-              ><span class="points-container"
-                >Points: <span class="points">57</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48994716"
-                  >Comments</a
-                ><span class="descendants">: 8</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="48994116">
           <h3>
             <a
@@ -875,11 +867,11 @@
             <h4>
               <span>2026-07-21 @ 16:02:04</span
               ><span class="points-container"
-                >Points: <span class="points">79</span></span
+                >Points: <span class="points">81</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48994116"
                   >Comments</a
-                ><span class="descendants">: 37</span></span
+                ><span class="descendants">: 39</span></span
               >
             </h4>
           </section>
@@ -895,7 +887,7 @@
             <h4>
               <span>2026-07-21 @ 15:41:51</span
               ><span class="points-container"
-                >Points: <span class="points">263</span></span
+                >Points: <span class="points">272</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48993816"
                   >Comments</a
@@ -922,11 +914,11 @@
             <h4>
               <span>2026-07-21 @ 15:17:16</span
               ><span class="points-container"
-                >Points: <span class="points">554</span></span
+                >Points: <span class="points">564</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48993414"
                   >Comments</a
-                ><span class="descendants">: 445</span></span
+                ><span class="descendants">: 449</span></span
               >
             </h4>
             <div class="text">
@@ -949,11 +941,11 @@
             <h4>
               <span>2026-07-21 @ 14:31:41</span
               ><span class="points-container"
-                >Points: <span class="points">295</span></span
+                >Points: <span class="points">304</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48992870"
                   >Comments</a
-                ><span class="descendants">: 251</span></span
+                ><span class="descendants">: 260</span></span
               >
             </h4>
           </section>
@@ -966,7 +958,7 @@
             <h4>
               <span>2026-07-21 @ 13:48:35</span
               ><span class="points-container"
-                >Points: <span class="points">180</span></span
+                >Points: <span class="points">181</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48992323"
                   >Comments</a
@@ -986,11 +978,11 @@
             <h4>
               <span>2026-07-21 @ 08:44:23</span
               ><span class="points-container"
-                >Points: <span class="points">524</span></span
+                >Points: <span class="points">527</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48989701"
                   >Comments</a
-                ><span class="descendants">: 208</span></span
+                ><span class="descendants">: 209</span></span
               >
             </h4>
           </section>
@@ -1006,11 +998,11 @@
             <h4>
               <span>2026-07-20 @ 12:07:16</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">28</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48977628"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
             <div class="text">
@@ -1039,11 +1031,11 @@
             <h4>
               <span>2026-07-20 @ 06:09:25</span
               ><span class="points-container"
-                >Points: <span class="points">124</span></span
+                >Points: <span class="points">130</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48974862"
                   >Comments</a
-                ><span class="descendants">: 81</span></span
+                ><span class="descendants">: 85</span></span
               >
             </h4>
           </section>
@@ -1060,11 +1052,11 @@
             <h4>
               <span>2026-07-18 @ 18:09:36</span
               ><span class="points-container"
-                >Points: <span class="points">103</span></span
+                >Points: <span class="points">106</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48960582"
                   >Comments</a
-                ><span class="descendants">: 39</span></span
+                ><span class="descendants">: 41</span></span
               >
             </h4>
           </section>
@@ -1079,11 +1071,11 @@
             <h4>
               <span>2026-07-17 @ 23:33:39</span
               ><span class="points-container"
-                >Points: <span class="points">30</span></span
+                >Points: <span class="points">43</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48953468"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -1099,11 +1091,11 @@
             <h4>
               <span>2026-07-17 @ 12:47:20</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">53</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48946738"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
             <div class="text">
@@ -1152,6 +1144,25 @@
                 >
               </p>
             </div>
+          </section>
+        </section>
+        <section id="48934468">
+          <h3>
+            <a class="item" href="https://www.celestrak.org/satcat/"
+              >Celestrak adds catalog digit, fixes Y2K bug</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-16 @ 13:43:16</span
+              ><span class="points-container"
+                >Points: <span class="points">7</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48934468"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
           </section>
         </section>
       </section>
