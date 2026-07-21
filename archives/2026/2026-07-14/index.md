@@ -34,6 +34,7 @@
 * [2026-07-14, 17:31:45](https://news.ycombinator.com/item?id=48910259) - [Another Entry in the \"Stuff Im Glad Im Not Responsible for\" Ledger](https://blog.cloudflare.com/dnssec-nta-ede-33/)
 * [2026-07-14, 17:00:17](https://news.ycombinator.com/item?id=48909820) - [Kontigo (YC S24) Is Hiring (Head of Security)](https://www.ycombinator.com/companies/kontigo/jobs/uNttrlv-head-of-security)
 * [2026-07-14, 16:57:54](https://news.ycombinator.com/item?id=48909785) - [The Tower Keeps Rising](https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/)
+* [2026-07-14, 16:57:52](https://news.ycombinator.com/item?id=48909784) - [Tensor Notation in Mathup](https://mathup.xyz/#tensors)
 * [2026-07-14, 16:56:48](https://news.ycombinator.com/item?id=48909768) - [S&P downgrades Oracle to BBB – only one notch above junk level](https://www.heise.de/en/news/S-P-downgrades-Oracle-to-BBB-only-one-notch-above-junk-level-11363472.html)
 * [2026-07-14, 16:36:06](https://news.ycombinator.com/item?id=48909424) - [Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK](https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/)
 * [2026-07-14, 16:06:18](https://news.ycombinator.com/item?id=48908950) - [Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations](https://agnost.ai)

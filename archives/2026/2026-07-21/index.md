@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-21](index.md)
 
+* [2026-07-21, 06:29:22](https://news.ycombinator.com/item?id=48988793) - [Linux kernel will support $ORIGIN, sort of](https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of)
 * [2026-07-21, 04:56:18](https://news.ycombinator.com/item?id=48988196) - [Do we just want slaves?](https://www.yashthapliyal.com/blog/do-we-just-want-slaves)
 * [2026-07-21, 04:55:06](https://news.ycombinator.com/item?id=48988189) - [Zoom is now Chrome only](https://zoom.us/test)
 * [2026-07-21, 04:48:32](https://news.ycombinator.com/item?id=48988158) - [Show HN: Ex Situ – open-source spatial index of displaced cultural artifacts](https://exsitu.app/map)
