@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-21, 12:03:14",
+      "https://news.ycombinator.com/item?id=48991139"
+    ],
+    [
+      "New US homeownership measure puts people first",
+      "https://www.minneapolisfed.org/article/2026/new-homeownership-measure-puts-people-first"
+    ]
+  ],
+  [
+    [
       "2026-07-21, 08:44:23",
       "https://news.ycombinator.com/item?id=48989701"
     ],
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2026-07-19, 14:25:38",
-      "https://news.ycombinator.com/item?id=48968474"
-    ],
-    [
-      "Postmortem of a British Startup: Tract",
-      "https://buildwithtract.com/"
-    ]
-  ],
-  [
-    [
       "2026-07-18, 02:37:56",
       "https://news.ycombinator.com/item?id=48954668"
     ],
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2026-07-15, 09:07:02",
+      "https://news.ycombinator.com/item?id=48918140"
+    ],
+    [
+      "Python 3.15's Ultra-Low Overhead Interpreter Profiling Mode – Ken Jin's Blog",
+      "https://fidget-spinner.github.io/posts/ultra-fast-tracing.html"
+    ]
+  ],
+  [
+    [
       "2026-07-15, 05:08:26",
       "https://news.ycombinator.com/item?id=48916512"
     ],
@@ -287,16 +297,6 @@
     [
       "How to pack ternary numbers in 8-bit bytes",
       "https://compilade.net/blog/ternary-packing"
-    ]
-  ],
-  [
-    [
-      "2026-07-10, 19:32:07",
-      "https://news.ycombinator.com/item?id=48864176"
-    ],
-    [
-      "My two year old taught me constraint solving",
-      "https://thecomputersciencebook.com/posts/how-my-2yo-taught-me-constraint-solving/"
     ]
   ]
 ]
