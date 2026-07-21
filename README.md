@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-21, 12:03:14](https://news.ycombinator.com/item?id=48991139) - [New US homeownership measure puts people first](https://www.minneapolisfed.org/article/2026/new-homeownership-measure-puts-people-first)
 * [2026-07-21, 08:44:23](https://news.ycombinator.com/item?id=48989701) - [Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge](https://qwen.ai/blog?id=qwen-image-3.0)
 * [2026-07-21, 04:48:32](https://news.ycombinator.com/item?id=48988158) - [Show HN: Ex Situ – Open-source spatial index of displaced cultural artifacts](https://exsitu.app/map)
 * [2026-07-21, 03:54:16](https://news.ycombinator.com/item?id=48987846) - [Running Doom on Our Custom CPU and Going Viral](https://www.armaangomes.com/blogs/doom/)
@@ -23,13 +24,12 @@
 * [2026-07-20, 13:43:10](https://news.ycombinator.com/item?id=48978792) - [Shinjuku Station in 3D](https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/)
 * [2026-07-20, 13:28:33](https://news.ycombinator.com/item?id=48978605) - [Hacker wipes Romania's land registry database](https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/)
 * [2026-07-20, 11:05:58](https://news.ycombinator.com/item?id=48977128) - [Who's afraid of Chinese models?](https://stratechery.com/2026/whos-afraid-of-chinese-models/)
-* [2026-07-19, 14:25:38](https://news.ycombinator.com/item?id=48968474) - [Postmortem of a British Startup: Tract](https://buildwithtract.com/)
 * [2026-07-18, 02:37:56](https://news.ycombinator.com/item?id=48954668) - [Arduino Launches Plug-and-Play Modules for Long-Range Sensor Projects](https://www.allaboutcircuits.com/news/arduino-launches-plug-and-play-modules-for-long-range-sensor-projects/)
 * [2026-07-16, 17:09:23](https://news.ycombinator.com/item?id=48937252) - [The Growing Compute Shortage](https://www.apollo.com/wealth/insights-news/insights/2026/06/growing-compute-shortage)
 * [2026-07-15, 16:16:21](https://news.ycombinator.com/item?id=48923130) - [The Psychology of Software Teams](https://www.routledge.com/The-Psychology-of-Software-Teams/Hicks/p/book/9781032963389)
+* [2026-07-15, 09:07:02](https://news.ycombinator.com/item?id=48918140) - [Python 3.15's Ultra-Low Overhead Interpreter Profiling Mode – Ken Jin's Blog](https://fidget-spinner.github.io/posts/ultra-fast-tracing.html)
 * [2026-07-15, 05:08:26](https://news.ycombinator.com/item?id=48916512) - [You only need the frontier model for one single edit](https://stencil.so/blog/prewalk)
 * [2026-07-14, 20:53:52](https://news.ycombinator.com/item?id=48912812) - [How to pack ternary numbers in 8-bit bytes](https://compilade.net/blog/ternary-packing)
-* [2026-07-10, 19:32:07](https://news.ycombinator.com/item?id=48864176) - [My two year old taught me constraint solving](https://thecomputersciencebook.com/posts/how-my-2yo-taught-me-constraint-solving/)
 
 ## [Archives](archives/index.md)
 

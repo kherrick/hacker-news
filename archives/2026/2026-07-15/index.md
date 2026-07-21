@@ -93,6 +93,7 @@
 * [2026-07-15, 10:06:39](https://news.ycombinator.com/item?id=48918534) - [Telegram Serverless](https://core.telegram.org/bots/serverless)
 * [2026-07-15, 10:06:05](https://news.ycombinator.com/item?id=48918530) - [New era for Gibraltar with removal of border controls with Spain](https://www.bbc.com/news/articles/cwydz60j3eno)
 * [2026-07-15, 09:28:25](https://news.ycombinator.com/item?id=48918270) - [Using Go for Mobile Apps](https://www.davidsobsessions.com/p/one-year-of-gomobile/)
+* [2026-07-15, 09:07:02](https://news.ycombinator.com/item?id=48918140) - [Python 3.15's Ultra-Low Overhead Interpreter Profiling Mode – Ken Jin's Blog](https://fidget-spinner.github.io/posts/ultra-fast-tracing.html)
 * [2026-07-15, 08:58:17](https://news.ycombinator.com/item?id=48918078) - [America pays workers just 27% of what its wealth allows – the worst in the OECD](https://fortune.com/2026/07/13/us-worst-oecd-fair-pay-score/)
 * [2026-07-15, 08:35:46](https://news.ycombinator.com/item?id=48917906) - [Sealed tomb filled with paintings and inscriptions discovered in Egypt](https://www.labrujulaverde.com/en/2026/07/sealed-tomb-of-a-high-official-or-priest-filled-with-paintings-and-inscriptions-discovered-on-luxors-west-bank/)
 * [2026-07-15, 08:18:25](https://news.ycombinator.com/item?id=48917755) - [Porting nanochat to a TPU: what carries over from PyTorch, and what breaks](https://github.com/tucan9389/nanochat-jax/discussions/1)
