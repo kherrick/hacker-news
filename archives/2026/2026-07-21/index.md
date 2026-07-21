@@ -20,6 +20,7 @@
 * [2026-07-21, 14:31:41](https://news.ycombinator.com/item?id=48992870) - [Apple Defeats Liability for Not Scanning iCloud for CSAM](https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm)
 * [2026-07-21, 14:16:02](https://news.ycombinator.com/item?id=48992669) - [Over 400 Linux CVEs published in the last 24 hours alone](https://lore.kernel.org/linux-cve-announce/)
 * [2026-07-21, 13:48:35](https://news.ycombinator.com/item?id=48992323) - [PCjs Machines](https://www.pcjs.org/)
+* [2026-07-21, 13:48:07](https://news.ycombinator.com/item?id=48992315) - [Why Are There No Empires in Age of Empires? (2019)](https://acoup.blog/2019/11/22/collections-why-are-there-no-empires-in-age-of-empires/)
 * [2026-07-21, 13:05:28](https://news.ycombinator.com/item?id=48991815) - [The Great Steam Deck Crash of 2026: How the New Pricing Decreased Demand by 80%](https://boilingsteam.com/the-great-steam-deck-volume-crash/)
 * [2026-07-21, 12:03:14](https://news.ycombinator.com/item?id=48991139) - [New US homeownership measure puts people first](https://www.minneapolisfed.org/article/2026/new-homeownership-measure-puts-people-first)
 * [2026-07-21, 11:34:00](https://news.ycombinator.com/item?id=48990886) - [Israeli spyware vans infiltrate American streets and your phones](https://cybernews.com/privacy/us-police-israeli-spy-vans-falconet-cognyte/)
