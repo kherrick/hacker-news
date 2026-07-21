@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-07-21, 20:48:22",
-      "https://news.ycombinator.com/item?id=48998082"
+      "2026-07-21, 21:13:20",
+      "https://news.ycombinator.com/item?id=48998404"
     ],
     [
-      "Mickey Mouse Sells a Bundle",
-      "https://www.marginpoints.com/essays/mickey-mouse-sells-a-bundle-hn"
+      "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
+      "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok"
+    ]
+  ],
+  [
+    [
+      "2026-07-21, 21:09:25",
+      "https://news.ycombinator.com/item?id=48998362"
+    ],
+    [
+      "A digestion of the Jacobian conjecture counterexample",
+      "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/"
     ]
   ],
   [
@@ -91,12 +101,12 @@
   ],
   [
     [
-      "2026-07-21, 17:59:29",
-      "https://news.ycombinator.com/item?id=48995814"
+      "2026-07-21, 18:17:50",
+      "https://news.ycombinator.com/item?id=48996035"
     ],
     [
-      "Greedy is optimal for single-pass semi-streaming matching",
-      "https://arxiv.org/abs/2607.14656"
+      "Measuring reward-seeking by instilling contrastive beliefs",
+      "https://alignment.openai.com/measuring-reward-seeking/"
     ]
   ],
   [
@@ -107,16 +117,6 @@
     [
       "Apple Private Cloud Compute SoC 3 audit reports",
       "https://support.apple.com/guide/certifications/apple-private-cloud-compute-soc-3-audit-apc95a31b9d8/web"
-    ]
-  ],
-  [
-    [
-      "2026-07-21, 17:30:01",
-      "https://news.ycombinator.com/item?id=48995444"
-    ],
-    [
-      "Show HN: Imagin Raw – A 9MB Open-Source Alternative to Adobe Bridge for Mac",
-      "https://github.com/cristibaluta/Imagin-Raw"
     ]
   ],
   [
@@ -147,16 +147,6 @@
     [
       "Show HN: CodeAlmanac – Karpathy-style codebase wiki from your conversations",
       "https://github.com/AlmanacCode/codealmanac/"
-    ]
-  ],
-  [
-    [
-      "2026-07-21, 17:09:37",
-      "https://news.ycombinator.com/item?id=48995149"
-    ],
-    [
-      "Uhubctl – Control USB power per-port on smart USB hubs",
-      "https://github.com/mvp/uhubctl"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "The unreasonable difficulty of time series forecasting",
       "https://suzyahyah.github.io/machine%20learning/2026/06/27/trouble-with-time-series.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-17, 23:33:39",
+      "https://news.ycombinator.com/item?id=48953468"
+    ],
+    [
+      "The Birth of Prolog (1996)",
+      "https://dl.acm.org/doi/10.1145/234286.1057820"
     ]
   ],
   [
