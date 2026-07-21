@@ -41,6 +41,7 @@
 * [2026-07-20, 14:10:30](https://news.ycombinator.com/item?id=48979120) - [Perfection Is Not Over-Engineering](https://var0.xyz/posts/perfection-is-not-over-engineering.html)
 * [2026-07-20, 14:09:43](https://news.ycombinator.com/item?id=48979110) - [Firefox 153.0 Beta](https://www.firefox.com/en-US/firefox/153.0beta/releasenotes/)
 * [2026-07-20, 14:01:33](https://news.ycombinator.com/item?id=48979010) - [Tested Kimi K3 for Coding](https://www.dotnetperls.com/2026_7_18_tested-kimi-k3-coding)
+* [2026-07-20, 13:49:53](https://news.ycombinator.com/item?id=48978880) - [Show HN: The0 – self-hosted runtime for trading bots, bring your own language](https://github.com/alexanderwanyoike/the0)
 * [2026-07-20, 13:47:29](https://news.ycombinator.com/item?id=48978841) - [Show HN: OTP Inspired actor supervisor based full stack templates](https://shipstacks.tech)
 * [2026-07-20, 13:47:13](https://news.ycombinator.com/item?id=48978835) - [Firefox Merges Support for Vulkan Video Decoding](https://github.com/search)
 * [2026-07-20, 13:47:13](https://news.ycombinator.com/item?id=48978835) - [Firefox 153 available with support for Vulkan video decoding, JPEG-XL](https://www.phoronix.com/news/Firefox-153-Downloads)
