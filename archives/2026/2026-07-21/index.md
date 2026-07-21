@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-21](index.md)
 
+* [2026-07-21, 21:13:20](https://news.ycombinator.com/item?id=48998404) - [\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok](https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok)
+* [2026-07-21, 21:09:25](https://news.ycombinator.com/item?id=48998362) - [A digestion of the Jacobian conjecture counterexample](https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/)
 * [2026-07-21, 20:48:22](https://news.ycombinator.com/item?id=48998082) - [Mickey Mouse Sells a Bundle](https://www.marginpoints.com/essays/mickey-mouse-sells-a-bundle-hn)
 * [2026-07-21, 20:09:52](https://news.ycombinator.com/item?id=48997548) - [OpenAI and Hugging Face partner to address security incident](https://openai.com/index/hugging-face-model-evaluation-security-incident/)
 * [2026-07-21, 19:43:59](https://news.ycombinator.com/item?id=48997221) - ['VPNs are lawful technical tools,' says EU Court in landmark copyright ruling](https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling)
@@ -17,6 +19,7 @@
 * [2026-07-21, 18:30:21](https://news.ycombinator.com/item?id=48996197) - [AI Didn't Make Programming Easier. It Just Made It Differently Difficult](https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/)
 * [2026-07-21, 18:29:57](https://news.ycombinator.com/item?id=48996187) - [Show HN: A self-running space economy SIM in Rust and Bevy](https://github.com/Kalcode/spaceprojectsim)
 * [2026-07-21, 18:25:08](https://news.ycombinator.com/item?id=48996128) - [Cheap Self-Hosted Kubernetes on Hetzner Cloud](https://blog.qstars.nl/posts/cheap-self-hosted-kubernetes-on-hetzner-cloud/)
+* [2026-07-21, 18:17:50](https://news.ycombinator.com/item?id=48996035) - [Measuring reward-seeking by instilling contrastive beliefs](https://alignment.openai.com/measuring-reward-seeking/)
 * [2026-07-21, 18:08:38](https://news.ycombinator.com/item?id=48995923) - [YouTube System Design for Robotics Data Infrastructure](https://hebbianrobotics.com/blog/youtube-system-design-for-robotics-data-infrastructure)
 * [2026-07-21, 17:59:29](https://news.ycombinator.com/item?id=48995814) - [Greedy is optimal for single-pass semi-streaming matching](https://arxiv.org/abs/2607.14656)
 * [2026-07-21, 17:58:21](https://news.ycombinator.com/item?id=48995796) - [Apple Private Cloud Compute SoC 3 audit reports](https://support.apple.com/guide/certifications/apple-private-cloud-compute-soc-3-audit-apc95a31b9d8/web)
