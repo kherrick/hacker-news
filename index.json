@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-07-21, 20:09:52",
+      "https://news.ycombinator.com/item?id=48997548"
+    ],
+    [
+      "OpenAI and Hugging Face partner to address security incident",
+      "https://openai.com/index/hugging-face-model-evaluation-security-incident/"
+    ]
+  ],
+  [
+    [
+      "2026-07-21, 19:43:59",
+      "https://news.ycombinator.com/item?id=48997221"
+    ],
+    [
+      "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
+      "https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling"
+    ]
+  ],
+  [
+    [
+      "2026-07-21, 19:04:39",
+      "https://news.ycombinator.com/item?id=48996652"
+    ],
+    [
+      "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
+      "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63"
+    ]
+  ],
+  [
+    [
       "2026-07-21, 18:58:44",
       "https://news.ycombinator.com/item?id=48996571"
     ],
@@ -91,16 +121,6 @@
   ],
   [
     [
-      "2026-07-21, 18:08:38",
-      "https://news.ycombinator.com/item?id=48995923"
-    ],
-    [
-      "YouTube System Design for Robotics Data Infrastructure",
-      "https://hebbianrobotics.com/blog/youtube-system-design-for-robotics-data-infrastructure"
-    ]
-  ],
-  [
-    [
       "2026-07-21, 17:59:29",
       "https://news.ycombinator.com/item?id=48995814"
     ],
@@ -127,16 +147,6 @@
     [
       "Show HN: Imagin Raw – A 9MB Open-Source Alternative to Adobe Bridge for Mac",
       "https://github.com/cristibaluta/Imagin-Raw"
-    ]
-  ],
-  [
-    [
-      "2026-07-21, 17:27:59",
-      "https://news.ycombinator.com/item?id=48995409"
-    ],
-    [
-      "Firefox Containers Preview",
-      "https://blog.mozilla.org/en/firefox/firefox-containers-preview/"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Uhubctl – control USB power per-port on smart USB hubs",
       "https://github.com/mvp/uhubctl"
-    ]
-  ],
-  [
-    [
-      "2026-07-21, 17:08:40",
-      "https://news.ycombinator.com/item?id=48995134"
-    ],
-    [
-      "I built a page that tells you what AI model your laptop can run",
-      "https://localsotabenchmark.engineersf.dev/"
     ]
   ],
   [
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2026-07-21, 14:31:41",
+      "https://news.ycombinator.com/item?id=48992870"
+    ],
+    [
+      "Apple defeats liability for not scanning iCloud for CSAM",
+      "https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm"
+    ]
+  ],
+  [
+    [
       "2026-07-21, 13:48:35",
       "https://news.ycombinator.com/item?id=48992323"
     ],
@@ -287,16 +297,6 @@
     [
       "The unreasonable difficulty of time series forecasting",
       "https://suzyahyah.github.io/machine%20learning/2026/06/27/trouble-with-time-series.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-15, 09:07:02",
-      "https://news.ycombinator.com/item?id=48918140"
-    ],
-    [
-      "Python 3.15's Ultra-Low Overhead Interpreter Profiling Mode – Ken Jin's Blog",
-      "https://fidget-spinner.github.io/posts/ultra-fast-tracing.html"
     ]
   ]
 ]
