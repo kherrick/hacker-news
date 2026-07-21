@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-07-21, 01:06:20](https://news.ycombinator.com/item?id=48986912) - [Show HN: I made email signatures less boring](https://esigna.app)
+* [2026-07-21, 00:33:53](https://news.ycombinator.com/item?id=48986731) - [Flock Credibility Lost as It Repeatedly Lies to City Councils, Police, & Public](https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country)
 * [2026-07-20, 23:15:41](https://news.ycombinator.com/item?id=48986091) - [Jellyfin founder Andrew leaves team](https://forum.jellyfin.org/t-project-leadership-changes)
+* [2026-07-20, 23:00:29](https://news.ycombinator.com/item?id=48985956) - [Opaque, Interoperable Passkey Records (and a Go API)](https://words.filippo.io/passkey-record/)
 * [2026-07-20, 20:12:19](https://news.ycombinator.com/item?id=48984270) - [I wrote an bash enumerator because I was sick of xargs](https://numerlab.org/2025/07/20/bashumerate-enumerator/)
 * [2026-07-20, 20:10:44](https://news.ycombinator.com/item?id=48984254) - [Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco](https://vincentwoo.com/3d/grace_cathedral/)
 * [2026-07-20, 20:08:45](https://news.ycombinator.com/item?id=48984231) - [The Power of Awareness: Overcoming Surveillance Capitalism](https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/)
@@ -13,8 +14,6 @@
 * [2026-07-20, 17:07:39](https://news.ycombinator.com/item?id=48981620) - [Jelly UI: Soft-body physics for native HTML form controls](https://jelly-ui.com/)
 * [2026-07-20, 16:36:36](https://news.ycombinator.com/item?id=48981206) - [How we measured AI writing across arXiv, and where the measurement breaks](https://unslop.run/blog/measuring-ai-writing-on-arxiv)
 * [2026-07-20, 16:32:10](https://news.ycombinator.com/item?id=48981136) - [Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12](https://news.ycombinator.com/item?id=48981136)
-* [2026-07-20, 15:40:03](https://news.ycombinator.com/item?id=48980404) - [Cross sectioning insects in an electron microscope with a femtosecond laser [video]](https://www.youtube.com/watch?v=NwhVJ7cv9B4)
-* [2026-07-20, 15:28:32](https://news.ycombinator.com/item?id=48980238) - [Mythologizing AI makes it more likely that we’ll fail to operate it well (2023)](https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai)
 * [2026-07-20, 15:15:36](https://news.ycombinator.com/item?id=48980053) - [The Voice of Google](https://www.newyorker.com/culture/the-weekend-essay/the-voice-of-google)
 * [2026-07-20, 15:13:42](https://news.ycombinator.com/item?id=48980019) - [Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling](https://www.emergingtrajectories.com/lh/frontier-lab-economics/)
 * [2026-07-20, 15:07:31](https://news.ycombinator.com/item?id=48979931) - [Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion (2012)](https://nothings.org/gamedev/ssao/)
@@ -29,6 +28,7 @@
 * [2026-07-17, 14:24:21](https://news.ycombinator.com/item?id=48947739) - [85.3 GFlops: Optimizing FP32 Matrix Multiplication on a Single AMD Zen 3 Core](https://github.com/houslast3/85.30-GFLOPS-Single-Core-FP32-Matrix-Multiplication-on-AMD-Zen-3)
 * [2026-07-15, 16:16:21](https://news.ycombinator.com/item?id=48923130) - [The Psychology of Software Teams](https://www.routledge.com/The-Psychology-of-Software-Teams/Hicks/p/book/9781032963389)
 * [2026-07-15, 05:08:26](https://news.ycombinator.com/item?id=48916512) - [You only need the frontier model for one single edit](https://stencil.so/blog/prewalk)
+* [2026-07-12, 07:54:12](https://news.ycombinator.com/item?id=48879242) - [Atomic Physics in Pure Anglo-Saxon](https://www.ling.upenn.edu/~beatrice/110/docs/uncleftish-beholding.html)
 * [2026-07-10, 19:32:07](https://news.ycombinator.com/item?id=48864176) - [My two year old taught me constraint solving](https://thecomputersciencebook.com/posts/how-my-2yo-taught-me-constraint-solving/)
 
 ## [Archives](archives/index.md)

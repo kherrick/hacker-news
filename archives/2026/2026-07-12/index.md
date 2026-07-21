@@ -81,6 +81,7 @@
 * [2026-07-12, 10:14:40](https://news.ycombinator.com/item?id=48879902) - [Death of the Status Update: Why 55% of Americans Stopped Posting on Social Media](https://ca.pcmag.com/social-media/16790/the-death-of-the-status-update-why-55-of-americans-stopped-posting-on-social-media)
 * [2026-07-12, 08:58:15](https://news.ycombinator.com/item?id=48879529) - [In Praise of Exhaustive Destructuring](https://antoine.vandecreme.net/blog/exhaustive-destructuring-praise/)
 * [2026-07-12, 08:52:59](https://news.ycombinator.com/item?id=48879504) - [Ghostel.el: Terminal emulator powered by libghostty](https://dakra.github.io/ghostel/)
+* [2026-07-12, 07:54:12](https://news.ycombinator.com/item?id=48879242) - [Atomic Physics in Pure Anglo-Saxon](https://www.ling.upenn.edu/~beatrice/110/docs/uncleftish-beholding.html)
 * [2026-07-12, 07:00:24](https://news.ycombinator.com/item?id=48878996) - [6× faster binary search: from compiled code to mechanical sympathy](https://pythonspeed.com/articles/branchless-binary-search/)
 * [2026-07-12, 05:51:32](https://news.ycombinator.com/item?id=48878682) - [Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase](https://github.com/cosmtrek/mindwalk)
 * [2026-07-12, 04:29:43](https://news.ycombinator.com/item?id=48878266) - [Cottage Computer Programming (1984)](https://www.atariarchives.org/deli/cottage_computer_programming.php)
