@@ -12,6 +12,7 @@
 * [2026-07-21, 17:09:37](https://news.ycombinator.com/item?id=48995149) - [Uhubctl – control USB power per-port on smart USB hubs](https://github.com/mvp/uhubctl)
 * [2026-07-21, 17:03:18](https://news.ycombinator.com/item?id=48995074) - [Meta's AI Models Are Powering the First Wave of Genesis Mission Projects](https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1)
 * [2026-07-21, 17:00:20](https://news.ycombinator.com/item?id=48995037) - [Bloomy (YC S26) is hiring a founding engineer](https://news.ycombinator.com/item?id=48995037)
+* [2026-07-21, 16:57:30](https://news.ycombinator.com/item?id=48994984) - [Show HN: OSS Cross-Harness self hosted registry and analytics for AI Agents](https://github.com/Observal/Observal)
 * [2026-07-21, 16:05:58](https://news.ycombinator.com/item?id=48994178) - [The World's 2,400 Castles](https://thecastlemap.com/)
 * [2026-07-21, 16:02:04](https://news.ycombinator.com/item?id=48994116) - [France's Anssi Will Block PQC-Free Products from Certification Starting 2027](https://postquantum.com/security-pqc/anssi-pqc-certification-2027/)
 * [2026-07-21, 16:01:07](https://news.ycombinator.com/item?id=48994103) - [Amid nurse shortage, a university rolls out the welcome mat for men](https://text.npr.org/nx-s1-5869813)
