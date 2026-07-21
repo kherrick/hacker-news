@@ -4,6 +4,18 @@
 
 ### [Archives](../../index.md) for [2026-07-21](index.md)
 
+* [2026-07-21, 18:58:44](https://news.ycombinator.com/item?id=48996571) - [Advertise in ChatGPT](https://ads.openai.com/)
+* [2026-07-21, 18:39:41](https://news.ycombinator.com/item?id=48996325) - [Slater – Low-memory graphdb designed for read-heavy graphs](https://github.com/Hikari-Systems/slater)
+* [2026-07-21, 18:39:06](https://news.ycombinator.com/item?id=48996318) - [Freeink: Open Ecosystem for E-Readers](https://freeink.org/)
+* [2026-07-21, 18:32:21](https://news.ycombinator.com/item?id=48996236) - [AI Agent – TRMNL](https://help.trmnl.com/en/articles/14130438-ai-agent)
+* [2026-07-21, 18:30:53](https://news.ycombinator.com/item?id=48996211) - [Apple has decided to compete for creativity app users](https://alex4d.com/notes/item/apple-competing-for-creativity-app-users)
+* [2026-07-21, 18:30:21](https://news.ycombinator.com/item?id=48996197) - [AI Didn't Make Programming Easier. It Just Made It Differently Difficult](https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/)
+* [2026-07-21, 18:29:57](https://news.ycombinator.com/item?id=48996187) - [Show HN: A self-running space economy SIM in Rust and Bevy](https://github.com/Kalcode/spaceprojectsim)
+* [2026-07-21, 18:25:08](https://news.ycombinator.com/item?id=48996128) - [Cheap Self-Hosted Kubernetes on Hetzner Cloud](https://blog.qstars.nl/posts/cheap-self-hosted-kubernetes-on-hetzner-cloud/)
+* [2026-07-21, 18:08:38](https://news.ycombinator.com/item?id=48995923) - [YouTube System Design for Robotics Data Infrastructure](https://hebbianrobotics.com/blog/youtube-system-design-for-robotics-data-infrastructure)
+* [2026-07-21, 17:59:29](https://news.ycombinator.com/item?id=48995814) - [Greedy is optimal for single-pass semi-streaming matching](https://arxiv.org/abs/2607.14656)
+* [2026-07-21, 17:58:21](https://news.ycombinator.com/item?id=48995796) - [Apple Private Cloud Compute SoC 3 audit reports](https://support.apple.com/guide/certifications/apple-private-cloud-compute-soc-3-audit-apc95a31b9d8/web)
+* [2026-07-21, 17:34:42](https://news.ycombinator.com/item?id=48995507) - [Show HN: DocCharm – The help center that keeps itself up to date](https://doccharm.com/)
 * [2026-07-21, 17:30:01](https://news.ycombinator.com/item?id=48995444) - [Show HN: Imagin Raw – A 9MB Open-Source Alternative to Adobe Bridge for Mac](https://github.com/cristibaluta/Imagin-Raw)
 * [2026-07-21, 17:27:59](https://news.ycombinator.com/item?id=48995409) - [Firefox Containers Preview](https://blog.mozilla.org/en/firefox/firefox-containers-preview/)
 * [2026-07-21, 17:22:17](https://news.ycombinator.com/item?id=48995333) - [Show HN: I built a command palette for the terminal – 6.2MB, pure Go, no fzf](https://github.com/matheuzgomes/decoreba)
