@@ -54,6 +54,7 @@
 * [2026-07-19, 07:54:39](https://news.ycombinator.com/item?id=48965850) - [OpenAI reduces Codex Model Context Size from 372k to 272k](https://github.com/openai/codex/pull/33972/files)
 * [2026-07-19, 07:31:15](https://news.ycombinator.com/item?id=48965736) - [Order of Magnitude Physics a Textbook with Applications to the Retinal Rod(1998) [pdf]](https://www.inference.org.uk/sanjoy/thesis/thesis-letter.pdf)
 * [2026-07-19, 07:27:37](https://news.ycombinator.com/item?id=48965719) - [The Art of Insight in Science and Engineering – Mastering Complexity(2014) [pdf]](https://ocw.mit.edu/courses/res-6-011-the-art-of-insight-in-science-and-engineering-mastering-complexity-fall-2014/3bca850386a3005c22134fa62fb3bad5_MITRES_6-011F14_art_insfin.pdf)
+* [2026-07-19, 07:02:09](https://news.ycombinator.com/item?id=48965622) - [Motion Sensors and Home Security Gadgets Without Cameras](https://www.wired.com/story/best-motion-sensors-private-alternatives-security/)
 * [2026-07-19, 05:07:08](https://news.ycombinator.com/item?id=48965161) - [Scrying the AMD GFX1250 LLVM Tea Leaves](https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea)
 * [2026-07-19, 02:55:43](https://news.ycombinator.com/item?id=48964585) - [LLM-Integrated Multivariable Calculus Course](https://calculus.academa.ai/)
 * [2026-07-19, 02:40:22](https://news.ycombinator.com/item?id=48964536) - [FDA approves new kind of cholesterol pill](https://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-pcsk9-inhibitor-lower-ldl-cholesterol-adults-high-cholesterol)

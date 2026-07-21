@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-21](index.md)
 
+* [2026-07-21, 13:05:28](https://news.ycombinator.com/item?id=48991815) - [The Great Steam Deck Crash of 2026: How the New Pricing Decreased Demand by 80%](https://boilingsteam.com/the-great-steam-deck-volume-crash/)
 * [2026-07-21, 12:03:14](https://news.ycombinator.com/item?id=48991139) - [New US homeownership measure puts people first](https://www.minneapolisfed.org/article/2026/new-homeownership-measure-puts-people-first)
 * [2026-07-21, 08:44:23](https://news.ycombinator.com/item?id=48989701) - [Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge](https://qwen.ai/blog?id=qwen-image-3.0)
 * [2026-07-21, 06:29:22](https://news.ycombinator.com/item?id=48988793) - [Linux kernel will support $ORIGIN, sort of](https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of)
