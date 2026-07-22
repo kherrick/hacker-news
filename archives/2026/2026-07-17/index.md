@@ -39,6 +39,7 @@
 * [2026-07-17, 15:31:22](https://news.ycombinator.com/item?id=48948597) - [Frame – the first Linux Assembly X server](https://isene.org/2026/07/Frame.html)
 * [2026-07-17, 15:30:00](https://news.ycombinator.com/item?id=48948578) - [A Mathematical Tribute to the Soccer Ball](https://www.nytimes.com/2026/07/17/science/mathematical-tribute-soccer-ball.html)
 * [2026-07-17, 15:17:54](https://news.ycombinator.com/item?id=48948435) - [Short sellers notch $8.7B profit as SpaceX shares dip to IPO price](https://www.reuters.com/business/media-telecom/short-sellers-rack-up-87-bln-profit-spacex-slips-below-ipo-price-ortex-2026-07-16/)
+* [2026-07-17, 14:38:05](https://news.ycombinator.com/item?id=48947922) - [I tried to record music onto a cassette tape using modern tech](https://swiftrocks.com/i-tried-to-record-music-onto-a-cassette-tape-using-modern-tech)
 * [2026-07-17, 14:31:10](https://news.ycombinator.com/item?id=48947825) - [Mozilla: The state of open source AI](https://stateofopensource.ai/)
 * [2026-07-17, 14:30:25](https://news.ycombinator.com/item?id=48947820) - [The Miso That Went to Space](https://ambrook.com/offrange/culture/miso-in-space)
 * [2026-07-17, 14:26:58](https://news.ycombinator.com/item?id=48947776) - [Claude Code: Anatomy of a Misfeature](https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/)
