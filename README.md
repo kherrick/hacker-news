@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-22, 00:53:00](https://news.ycombinator.com/item?id=49000429) - [How an AI Anime Is Created](https://www.aventos.dev/our-process?view=blog)
+* [2026-07-22, 00:27:35](https://news.ycombinator.com/item?id=49000250) - [A flaky test exposed a Redis client use-after-free](https://buildkite.engineering/how-a-flaky-test-exposed-a-redis-use-after-free/)
 * [2026-07-21, 22:35:24](https://news.ycombinator.com/item?id=48999291) - [Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA](https://fireworks.ai/blog/kimik3-fable)
 * [2026-07-21, 21:48:19](https://news.ycombinator.com/item?id=48998828) - [Show HN: Computable – Buy, sell, and redeem GPU for the exact weeks you want](https://www.getcomputable.com/)
 * [2026-07-21, 21:27:54](https://news.ycombinator.com/item?id=48998606) - [Gemini last models: temperature, top_p, and top_k are deprecated and ignored](https://ai.google.dev/gemini-api/docs/latest-model)
@@ -9,7 +11,6 @@
 * [2026-07-21, 19:43:59](https://news.ycombinator.com/item?id=48997221) - ['VPNs are lawful technical tools,' says EU Court in landmark copyright ruling](https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling)
 * [2026-07-21, 19:04:39](https://news.ycombinator.com/item?id=48996652) - [Judge approves $1.5B Anthropic settlement for pirated books used to train Claude](https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63)
 * [2026-07-21, 18:58:44](https://news.ycombinator.com/item?id=48996571) - [Advertise in ChatGPT](https://ads.openai.com/)
-* [2026-07-21, 18:42:46](https://news.ycombinator.com/item?id=48996364) - [The Price of Happiness (2024)](https://happiness-science.org/price-of-happiness/)
 * [2026-07-21, 18:39:06](https://news.ycombinator.com/item?id=48996318) - [FreeInk: Open ecosystem for e-readers](https://freeink.org/)
 * [2026-07-21, 18:29:57](https://news.ycombinator.com/item?id=48996187) - [Show HN: A self-running space economy SIM in Rust and Bevy](https://github.com/Kalcode/spaceprojectsim)
 * [2026-07-21, 17:58:21](https://news.ycombinator.com/item?id=48995796) - [Apple Private Cloud Compute SoC 3 audit reports](https://support.apple.com/guide/certifications/apple-private-cloud-compute-soc-3-audit-apc95a31b9d8/web)
@@ -25,7 +26,6 @@
 * [2026-07-21, 13:48:35](https://news.ycombinator.com/item?id=48992323) - [PCjs Machines](https://www.pcjs.org/)
 * [2026-07-20, 12:07:16](https://news.ycombinator.com/item?id=48977628) - [Show HN: Read the Tape – Wordle for daytrading, five blind S&P 500 charts a day](https://readthetape.cc/)
 * [2026-07-20, 06:09:25](https://news.ycombinator.com/item?id=48974862) - [My USB Drive Has a Hidden Encrypted Vault](https://rootkitlabs.com/2026/06/22/I%27m-Building-a-Secure-USB-Drive/)
-* [2026-07-18, 18:09:36](https://news.ycombinator.com/item?id=48960582) - [The unreasonable difficulty of time series forecasting](https://suzyahyah.github.io/machine%20learning/2026/06/27/trouble-with-time-series.html)
 * [2026-07-18, 09:41:36](https://news.ycombinator.com/item?id=48956548) - [Show HN: Workaround – Unstar GitHub Repos in Bulk](https://workaround.run/)
 * [2026-07-17, 23:33:39](https://news.ycombinator.com/item?id=48953468) - [The Birth of Prolog (1996)](https://dl.acm.org/doi/10.1145/234286.1057820)
 * [2026-07-17, 12:47:20](https://news.ycombinator.com/item?id=48946738) - [Show HN: Justif – Knuth-Plass justification and microtypography for the web](https://justif.lyall.co/)
