@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-22](index.md)
 
+* [2026-07-22, 22:49:58](https://news.ycombinator.com/item?id=49014537) - [Anthropomorphism in Children's Interactions with LLM Chatbots](https://arxiv.org/abs/2607.18250)
 * [2026-07-22, 22:20:00](https://news.ycombinator.com/item?id=49014246) - [Show HN: ValuePair – a friendship app that cares about values first](https://valuepair.app)
 * [2026-07-22, 22:09:41](https://news.ycombinator.com/item?id=49014143) - [Fretboard Memorisation with Modular Arithmetic](https://ohaodha.ie/blog/fretboard-memorisation-with-modular-arithmetic/)
 * [2026-07-22, 21:55:34](https://news.ycombinator.com/item?id=49014007) - [Medici family mystery may be solved after more than 400 years](https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria)

@@ -19,6 +19,7 @@
 * [2026-07-19, 19:13:29](https://news.ycombinator.com/item?id=48970894) - [Orion Browser by Kagi](https://orionbrowser.com/)
 * [2026-07-19, 18:57:01](https://news.ycombinator.com/item?id=48970772) - [HomeLab #1: MikroTik as a Home Router](https://justsomebody.dev/blog/mikrotik-home-router)
 * [2026-07-19, 18:47:29](https://news.ycombinator.com/item?id=48970684) - [Show HN: How much profit does your employer make per employee?](https://yourfairshare.info)
+* [2026-07-19, 18:42:19](https://news.ycombinator.com/item?id=48970650) - [Designing a 4D Digital Archive for Ikebana](https://ishiguro-lab.org/projects/designing-a-4d-digital-archive-for-ikebana/)
 * [2026-07-19, 18:10:12](https://news.ycombinator.com/item?id=48970372) - [Less Is More: Why Audio on SoundCloud Looks Different](https://developers.soundcloud.com/blog/less-is-more-why-soundcloud-low-passes-its-aac-transcodings/)
 * [2026-07-19, 18:08:49](https://news.ycombinator.com/item?id=48970357) - [(Ab)Using Overload Sets to Create Ad-Hoc Template APIs in D](https://blog.dlang.org/2026/07/19/abusing-overload-sets-to-create-ad-hoc-template-apis/)
 * [2026-07-19, 17:32:41](https://news.ycombinator.com/item?id=48970039) - [Neither GCC nor Clang are compliant with standard C++](https://sebsite.pw/w/20260708-badstdcxx.html)

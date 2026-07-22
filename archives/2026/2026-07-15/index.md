@@ -52,6 +52,7 @@
 * [2026-07-15, 15:36:32](https://news.ycombinator.com/item?id=48922469) - [The age of the Universe from a large sample of the oldest Galactic stars](https://arxiv.org/abs/2607.00764)
 * [2026-07-15, 15:34:05](https://news.ycombinator.com/item?id=48922434) - [Running Gemma 4 26B at 5 tokens/SEC on a 13-year-old Xeon with no GPU](https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/)
 * [2026-07-15, 15:17:44](https://news.ycombinator.com/item?id=48922185) - [DEA to Temporarily Schedule 7-Oh and Related Substances to Protect Public Safety](https://www.dea.gov/press-releases/2026/07/01/dea-temporarily-schedule-7-oh-and-related-substances-protect-public)
+* [2026-07-15, 15:15:27](https://news.ycombinator.com/item?id=48922144) - [Museum of the Human Web](https://museum.parallel.ai/introduction?era=modern)
 * [2026-07-15, 14:40:21](https://news.ycombinator.com/item?id=48921578) - [Show HN: Stacks – an hourly card solitaire about building four gardens](https://plan9.kr/stacks/)
 * [2026-07-15, 14:32:36](https://news.ycombinator.com/item?id=48921461) - [OpenAI loses trademark dispute at EU court](https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:260715-930-389143/)
 * [2026-07-15, 14:30:07](https://news.ycombinator.com/item?id=48921422) - [CVE-2026-59208: Cross-Issuer Account Takeover in n8n](https://www.strix.ai/blog/n8n-cross-issuer-account-takeover)
