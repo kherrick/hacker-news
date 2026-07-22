@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-07-22, 01:17:26](https://news.ycombinator.com/item?id=49000600) - [Ten Steps Towards Happiness](http://hintjens.com/blog:99)
+* [2026-07-22, 01:52:31](https://news.ycombinator.com/item?id=49000864) - [LG to Ban Residential Proxies from Smart TV Apps](https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/)
+* [2026-07-22, 01:17:26](https://news.ycombinator.com/item?id=49000600) - [Ten Steps Towards Happiness (2015)](http://hintjens.com/blog:99)
 * [2026-07-22, 00:53:00](https://news.ycombinator.com/item?id=49000429) - [How an AI Anime Is Created](https://www.aventos.dev/our-process?view=blog)
 * [2026-07-22, 00:27:35](https://news.ycombinator.com/item?id=49000250) - [A flaky test exposed a Redis client use-after-free](https://buildkite.engineering/how-a-flaky-test-exposed-a-redis-use-after-free/)
 * [2026-07-21, 23:33:31](https://news.ycombinator.com/item?id=48999825) - [It's a shame what's happened to radio](https://blog.jimgrey.net/2026/07/21/its-a-shame-whats-happened-to-radio-3/)
@@ -18,7 +19,6 @@
 * [2026-07-21, 17:17:06](https://news.ycombinator.com/item?id=48995261) - [Laguna S 2.1](https://poolside.ai/blog/introducing-laguna-s-2-1)
 * [2026-07-21, 17:14:06](https://news.ycombinator.com/item?id=48995213) - [Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting](https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git)
 * [2026-07-21, 17:00:20](https://news.ycombinator.com/item?id=48995037) - [Bloomy (YC S26) is hiring a founding engineer](https://news.ycombinator.com/item?id=48995037)
-* [2026-07-21, 16:39:30](https://news.ycombinator.com/item?id=48994716) - [Roblox Officially Supports GrapheneOS](https://en.help.roblox.com/hc/en-us/articles/49648939984916-Android-Remote-Attestation)
 * [2026-07-21, 16:06:20](https://news.ycombinator.com/item?id=48994186) - [Show HN: An MCP server that turns async-work practices into tools](https://github.com/open-and-async/mcp)
 * [2026-07-21, 16:05:58](https://news.ycombinator.com/item?id=48994178) - [Map of the world's great castles and fortresses](https://thecastlemap.com/)
 * [2026-07-21, 15:41:51](https://news.ycombinator.com/item?id=48993816) - [Long presumed dead, a thriving coral reef is discovered in West Africa](https://e360.yale.edu/digest/benin-coral-reef)
@@ -26,8 +26,8 @@
 * [2026-07-21, 14:31:41](https://news.ycombinator.com/item?id=48992870) - [Apple defeats liability for not scanning iCloud for CSAM](https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm)
 * [2026-07-21, 13:48:35](https://news.ycombinator.com/item?id=48992323) - [PCjs Machines](https://www.pcjs.org/)
 * [2026-07-20, 06:09:25](https://news.ycombinator.com/item?id=48974862) - [My USB Drive Has a Hidden Encrypted Vault](https://rootkitlabs.com/2026/06/22/I%27m-Building-a-Secure-USB-Drive/)
-* [2026-07-18, 22:34:03](https://news.ycombinator.com/item?id=48963122) - [Juggling for Blind People](https://www.jugglingforblindpeople.com/)
 * [2026-07-17, 23:33:39](https://news.ycombinator.com/item?id=48953468) - [The Birth of Prolog (1996)](https://dl.acm.org/doi/10.1145/234286.1057820)
+* [2026-07-17, 14:30:25](https://news.ycombinator.com/item?id=48947820) - [The Miso That Went to Space](https://ambrook.com/offrange/culture/miso-in-space)
 * [2026-07-17, 12:47:20](https://news.ycombinator.com/item?id=48946738) - [Show HN: Justif – Knuth-Plass justification and microtypography for the web](https://justif.lyall.co/)
 * [2026-07-16, 18:34:56](https://news.ycombinator.com/item?id=48938395) - [Recreating the math behind the first stealth aircraft](https://www.pramit.gg/post/remaking-echo-1-stealth-physics)
 
