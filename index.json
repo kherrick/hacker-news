@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-22, 05:49:51",
+      "https://news.ycombinator.com/item?id=49002344"
+    ],
+    [
+      "Show HN: ReadKinetic – a free, local-first speed reader for your own books",
+      "https://www.readkinetic.com/app/"
+    ]
+  ],
+  [
+    [
+      "2026-07-22, 05:39:31",
+      "https://news.ycombinator.com/item?id=49002276"
+    ],
+    [
+      "Show HN: A new kind of FPS aim trainer",
+      "https://openaim.pramit.gg/"
+    ]
+  ],
+  [
+    [
       "2026-07-22, 05:18:08",
       "https://news.ycombinator.com/item?id=49002166"
     ],
@@ -11,32 +31,12 @@
   ],
   [
     [
-      "2026-07-22, 04:48:59",
-      "https://news.ycombinator.com/item?id=49002010"
-    ],
-    [
-      "Airglow browser lets users modify YouTube, Gmail and Spotify in real time",
-      "https://runtimewire.com/article/airglow-browser-lets-users-modify-youtube-gmail-and-spotify-in-real-time"
-    ]
-  ],
-  [
-    [
       "2026-07-22, 04:33:44",
       "https://news.ycombinator.com/item?id=49001930"
     ],
     [
       "Kimi K3: second only to Fable 5 on AA-Briefcase",
       "https://artificialanalysis.ai/articles/kimi-k3-agentic-knowledge-benchmark"
-    ]
-  ],
-  [
-    [
-      "2026-07-22, 04:11:18",
-      "https://news.ycombinator.com/item?id=49001775"
-    ],
-    [
-      "Ten ways a check passes while the thing it checks is broken",
-      "https://phronesis.world/papers/ways-of-checking/"
     ]
   ],
   [
@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2026-07-21, 17:58:21",
-      "https://news.ycombinator.com/item?id=48995796"
-    ],
-    [
-      "Apple Private Cloud Compute SoC 3 audit reports",
-      "https://support.apple.com/guide/certifications/apple-private-cloud-compute-soc-3-audit-apc95a31b9d8/web"
-    ]
-  ],
-  [
-    [
       "2026-07-21, 17:17:06",
       "https://news.ycombinator.com/item?id=48995261"
     ],
@@ -251,16 +241,6 @@
   ],
   [
     [
-      "2026-07-21, 13:48:35",
-      "https://news.ycombinator.com/item?id=48992323"
-    ],
-    [
-      "PCjs Machines",
-      "https://www.pcjs.org/"
-    ]
-  ],
-  [
-    [
       "2026-07-20, 06:09:25",
       "https://news.ycombinator.com/item?id=48974862"
     ],
@@ -281,12 +261,32 @@
   ],
   [
     [
+      "2026-07-18, 19:56:33",
+      "https://news.ycombinator.com/item?id=48961698"
+    ],
+    [
+      "Intel Starts Shipping High-NA EUV Silicon",
+      "https://morethanmoore.substack.com/p/intel-starts-shipping-high-na-euv"
+    ]
+  ],
+  [
+    [
       "2026-07-17, 23:33:39",
       "https://news.ycombinator.com/item?id=48953468"
     ],
     [
       "The Birth of Prolog (1996)",
       "https://dl.acm.org/doi/10.1145/234286.1057820"
+    ]
+  ],
+  [
+    [
+      "2026-07-17, 12:47:20",
+      "https://news.ycombinator.com/item?id=48946738"
+    ],
+    [
+      "Show HN: Justif – Knuth-Plass justification and microtypography for the web",
+      "https://justif.lyall.co/"
     ]
   ],
   [
