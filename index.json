@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-22, 16:25:08",
+      "https://news.ycombinator.com/item?id=49009324"
+    ],
+    [
+      "Show HN: Web swing through midtown NYC",
+      "https://www.swingnyc.com/"
+    ]
+  ],
+  [
+    [
       "2026-07-22, 16:02:03",
       "https://news.ycombinator.com/item?id=49008901"
     ],
@@ -11,22 +21,12 @@
   ],
   [
     [
-      "2026-07-22, 15:45:18",
-      "https://news.ycombinator.com/item?id=49008642"
+      "2026-07-22, 15:39:01",
+      "https://news.ycombinator.com/item?id=49008538"
     ],
     [
-      "Does creatine make you smarter?",
-      "https://dynomight.net/creatine/"
-    ]
-  ],
-  [
-    [
-      "2026-07-22, 15:43:45",
-      "https://news.ycombinator.com/item?id=49008624"
-    ],
-    [
-      "Six questions before you add an LLM",
-      "https://cameronmpalmer.medium.com/should-you-even-use-an-llm-b4f3b7914f4d"
+      "Can a MUD evaluate LLMs? A $99 proof of concept",
+      "https://cruciblebench.ai/"
     ]
   ],
   [
@@ -91,32 +91,12 @@
   ],
   [
     [
-      "2026-07-22, 15:12:26",
-      "https://news.ycombinator.com/item?id=49008089"
-    ],
-    [
-      "OpenAI Presence",
-      "https://openai.com/index/introducing-openai-presence/"
-    ]
-  ],
-  [
-    [
       "2026-07-22, 14:59:08",
       "https://news.ycombinator.com/item?id=49007863"
     ],
     [
       "Perlin's Noise Algorithm",
       "https://blog.jaysmito.dev/blog/02-perlins-noise-algorithm/"
-    ]
-  ],
-  [
-    [
-      "2026-07-22, 14:57:37",
-      "https://news.ycombinator.com/item?id=49007839"
-    ],
-    [
-      "The Pillars of an API Platform",
-      "https://launchany.com/the-pillars-of-an-api-platform/"
     ]
   ],
   [
@@ -165,8 +145,18 @@
       "https://news.ycombinator.com/item?id=49007610"
     ],
     [
-      "We have information that Moonshot distilled Fable for the development of K3",
+      "\"We have information that Moonshot distilled Fable for the development of K3\"",
       "https://twitter.com/mkratsios47/status/2079933645888880708"
+    ]
+  ],
+  [
+    [
+      "2026-07-22, 14:39:40",
+      "https://news.ycombinator.com/item?id=49007581"
+    ],
+    [
+      "Ethics Is the Skill That Matters Most Now",
+      "https://agonora.com/blog/ethics-most-important-skill"
     ]
   ],
   [
@@ -197,16 +187,6 @@
     [
       "OpenNode – Bitcoin Payment Processor",
       "https://opennode.com/"
-    ]
-  ],
-  [
-    [
-      "2026-07-22, 14:31:55",
-      "https://news.ycombinator.com/item?id=49007487"
-    ],
-    [
-      "How to Read a Painting",
-      "https://sheets.works/data-viz/how-to-read-a-painting/"
     ]
   ],
   [
@@ -251,6 +231,16 @@
   ],
   [
     [
+      "2026-07-20, 15:32:20",
+      "https://news.ycombinator.com/item?id=48980286"
+    ],
+    [
+      "Show HN: DeepSQL – A self-hostable AI DBA agent for Postgres and MySQL",
+      "https://deepsql.ai/"
+    ]
+  ],
+  [
+    [
       "2026-07-19, 15:49:58",
       "https://news.ycombinator.com/item?id=48969200"
     ],
@@ -291,12 +281,22 @@
   ],
   [
     [
-      "2026-07-16, 11:50:22",
-      "https://news.ycombinator.com/item?id=48933232"
+      "2026-07-14, 22:17:48",
+      "https://news.ycombinator.com/item?id=48913633"
     ],
     [
-      "Drake Anthony Recreates the Mechanical Bulb First Seen in 1675 – TechEBlog",
-      "https://www.techeblog.com/drake-anthony-styropyro-mechanical-bulb-barometric-light/"
+      "The Music of Destruction",
+      "https://thebaffler.com/latest/the-music-of-destruction-fuelling"
+    ]
+  ],
+  [
+    [
+      "2026-07-14, 21:26:36",
+      "https://news.ycombinator.com/item?id=48913145"
+    ],
+    [
+      "Mechanical light bulb from 1675 [video]",
+      "https://www.youtube.com/watch?v=0Y-9GbsS9Fg"
     ]
   ]
 ]
