@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-07-22](index.md)
 
+* [2026-07-22, 15:22:53](https://news.ycombinator.com/item?id=49008276) - [Why I Am Not Going to Buy a Computer](https://karlvmuller.com/posts/why-i-am-not-going-to-buy-a-computer/)
 * [2026-07-22, 14:35:55](https://news.ycombinator.com/item?id=49007546) - [I Built a Private Genomics Study with Stoffel MPC](https://vishakh.blog/2026/07/21/i-built-a-private-genomics-study-with-stoffel-mpc/)
+* [2026-07-22, 14:35:05](https://news.ycombinator.com/item?id=49007536) - [OpenAI Models Escaped and Hacked a Company in Cybersecurity Test Gone Wrong](https://www.wsj.com/tech/ai/openai-models-escaped-and-hacked-a-company-in-cybersecurity-test-gone-wrong-ee388506)
 * [2026-07-22, 14:34:27](https://news.ycombinator.com/item?id=49007525) - [Most Americans Say \"Not in My Backyard\" to AI Data Centers](https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/)
 * [2026-07-22, 14:34:23](https://news.ycombinator.com/item?id=49007524) - [OpenNode – Bitcoin Payment Processor](https://opennode.com/)
 * [2026-07-22, 14:31:55](https://news.ycombinator.com/item?id=49007487) - [How to Read a Painting](https://sheets.works/data-viz/how-to-read-a-painting/)

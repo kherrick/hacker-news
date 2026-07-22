@@ -54,6 +54,7 @@
 * [2026-07-18, 10:56:09](https://news.ycombinator.com/item?id=48956852) - [Steam Machine: Between 12k and 15k Units Sold per week](https://boilingsteam.com/steam-machine-between-10k-and-15k-sold-per-week/)
 * [2026-07-18, 10:21:19](https://news.ycombinator.com/item?id=48956688) - [LG monitors silently install software through Windows Update without consent](https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent)
 * [2026-07-18, 09:41:36](https://news.ycombinator.com/item?id=48956548) - [Show HN: Workaround – Unstar GitHub Repos in Bulk](https://workaround.run/)
+* [2026-07-18, 09:34:12](https://news.ycombinator.com/item?id=48956517) - [Beaver who escaped to find mate welcomes first kit](https://www.bbc.com/news/articles/c70gz4zpv97o)
 * [2026-07-18, 08:50:07](https://news.ycombinator.com/item?id=48956307) - [Qubes OS Security in the Public Record](https://arxiv.org/abs/2607.14587)
 * [2026-07-18, 08:33:31](https://news.ycombinator.com/item?id=48956231) - [The Computer at the Bottom of a Canal](https://negroniventurestudios.com/2026/07/18/the-computer-at-the-bottom-of-a-canal/)
 * [2026-07-18, 06:32:24](https://news.ycombinator.com/item?id=48955740) - [Show HN: Find someone in the dark – light them or light yourself? (Three.js)](https://github.com/skorotkiewicz/signal-in-the-dark)
