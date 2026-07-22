@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-22, 17:30:40",
+      "https://news.ycombinator.com/item?id=49010345"
+    ],
+    [
+      "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
+      "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56"
+    ]
+  ],
+  [
+    [
+      "2026-07-22, 17:20:38",
+      "https://news.ycombinator.com/item?id=49010167"
+    ],
+    [
+      "GigaToken: ~1000x faster Language model tokenization",
+      "https://github.com/marcelroed/gigatoken/"
+    ]
+  ],
+  [
+    [
       "2026-07-22, 16:25:08",
       "https://news.ycombinator.com/item?id=49009324"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2026-07-22, 14:35:55",
-      "https://news.ycombinator.com/item?id=49007546"
-    ],
-    [
-      "I Built a Private Genomics Study with Stoffel MPC",
-      "https://vishakh.blog/2026/07/21/i-built-a-private-genomics-study-with-stoffel-mpc/"
-    ]
-  ],
-  [
-    [
       "2026-07-22, 14:34:27",
       "https://news.ycombinator.com/item?id=49007525"
     ],
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2026-07-21, 20:09:52",
-      "https://news.ycombinator.com/item?id=48997548"
-    ],
-    [
-      "OpenAI and Hugging Face address security incident during model evaluation",
-      "https://openai.com/index/hugging-face-model-evaluation-security-incident/"
-    ]
-  ],
-  [
-    [
       "2026-07-20, 15:32:20",
       "https://news.ycombinator.com/item?id=48980286"
     ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2026-07-14, 22:17:48",
-      "https://news.ycombinator.com/item?id=48913633"
+      "2026-07-15, 06:50:49",
+      "https://news.ycombinator.com/item?id=48917135"
     ],
     [
-      "The Music of Destruction",
-      "https://thebaffler.com/latest/the-music-of-destruction-fuelling"
+      "Nobody knows what a used GPU cluster is worth",
+      "https://ciphertalk.substack.com/p/nobody-knows-what-a-used-gpu-cluster"
     ]
   ],
   [
