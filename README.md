@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-22, 22:20:00](https://news.ycombinator.com/item?id=49014246) - [Show HN: ValuePair – a friendship app that cares about values first](https://valuepair.app)
+* [2026-07-22, 22:09:41](https://news.ycombinator.com/item?id=49014143) - [Fretboard Memorisation with Modular Arithmetic](https://ohaodha.ie/blog/fretboard-memorisation-with-modular-arithmetic/)
 * [2026-07-22, 21:55:34](https://news.ycombinator.com/item?id=49014007) - [Medici family mystery may be solved after more than 400 years](https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria)
 * [2026-07-22, 21:54:30](https://news.ycombinator.com/item?id=49013995) - [Any text-to-SQL benchmark should address difficulties of real-world data stores](https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/)
 * [2026-07-22, 21:15:26](https://news.ycombinator.com/item?id=49013538) - [Malleable Computing, Emacs, and You](http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html)
@@ -13,7 +15,6 @@
 * [2026-07-22, 17:20:38](https://news.ycombinator.com/item?id=49010167) - [GigaToken: ~1000x faster Language model tokenization](https://github.com/marcelroed/gigatoken/)
 * [2026-07-22, 17:17:54](https://news.ycombinator.com/item?id=49010129) - [Are AI Labs Pelicanmaxxing?](https://dylancastillo.co/posts/pelicanmaxxing.html)
 * [2026-07-22, 16:02:03](https://news.ycombinator.com/item?id=49008901) - [Launch HN: Unlayer (YC W22) – Add email and document builders to your app](https://unlayer.com)
-* [2026-07-22, 15:45:18](https://news.ycombinator.com/item?id=49008642) - [Does creatine make you smarter?](https://dynomight.net/creatine/)
 * [2026-07-22, 15:39:01](https://news.ycombinator.com/item?id=49008538) - [Can a MUD evaluate LLMs? A $99 proof of concept](https://cruciblebench.ai/)
 * [2026-07-22, 15:33:48](https://news.ycombinator.com/item?id=49008440) - [Making](https://beej.us/blog/data/ai-making/)
 * [2026-07-22, 15:19:23](https://news.ycombinator.com/item?id=49008211) - [Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)](https://bento.page/slides/)
@@ -24,12 +25,11 @@
 * [2026-07-22, 12:49:45](https://news.ycombinator.com/item?id=49005973) - [Businesses with ugly AI menu redesigns](https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/)
 * [2026-07-22, 12:36:08](https://news.ycombinator.com/item?id=49005787) - [The startup's Postgres survival guide](https://hatchet.run/blog/postgres-survival-guide)
 * [2026-07-22, 12:32:48](https://news.ycombinator.com/item?id=49005747) - [So Reddit has decided that plain HTML is unsafe](https://www.cole-k.com/2026/07/21/reddit/)
-* [2026-07-22, 11:58:09](https://news.ycombinator.com/item?id=49005329) - [10 REM\"_(C2SLFF4](https://beej.us/blog/data/mystery-comment/)
 * [2026-07-20, 20:31:28](https://news.ycombinator.com/item?id=48984489) - [Why do we love music? (2018)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6353111/)
 * [2026-07-20, 07:32:39](https://news.ycombinator.com/item?id=48975395) - [Taking OCaml and Eio for a Spin](https://mattjhall.co.uk/posts/taking-ocaml-eio-for-a-spin.html)
 * [2026-07-19, 19:44:44](https://news.ycombinator.com/item?id=48971128) - [Nvidia DGX Spark as a daily driver](https://daniel.lawrence.lu/blog/2026-07-15-dgx-spark-as-daily-driver/)
+* [2026-07-17, 18:24:29](https://news.ycombinator.com/item?id=48950562) - [How we made our LeRobot video reader up to 15× faster](https://www.eventual.ai/blog/how-we-made-our-lerobot-video-reader-up-to-15x-faster)
 * [2026-07-15, 06:50:49](https://news.ycombinator.com/item?id=48917135) - [Nobody knows what a used GPU cluster is worth](https://ciphertalk.substack.com/p/nobody-knows-what-a-used-gpu-cluster)
-* [2026-07-14, 21:26:36](https://news.ycombinator.com/item?id=48913145) - [Mechanical light bulb from 1675 [video]](https://www.youtube.com/watch?v=0Y-9GbsS9Fg)
 
 ## [Archives](archives/index.md)
 

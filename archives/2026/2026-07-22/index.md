@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-22](index.md)
 
+* [2026-07-22, 22:20:00](https://news.ycombinator.com/item?id=49014246) - [Show HN: ValuePair – a friendship app that cares about values first](https://valuepair.app)
+* [2026-07-22, 22:09:41](https://news.ycombinator.com/item?id=49014143) - [Fretboard Memorisation with Modular Arithmetic](https://ohaodha.ie/blog/fretboard-memorisation-with-modular-arithmetic/)
 * [2026-07-22, 21:55:34](https://news.ycombinator.com/item?id=49014007) - [Medici family mystery may be solved after more than 400 years](https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria)
 * [2026-07-22, 21:54:30](https://news.ycombinator.com/item?id=49013995) - [Any text-to-SQL benchmark should address difficulties of real-world data stores](https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/)
 * [2026-07-22, 21:15:26](https://news.ycombinator.com/item?id=49013538) - [Malleable Computing, Emacs, and You](http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html)

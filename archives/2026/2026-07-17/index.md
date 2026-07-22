@@ -26,6 +26,7 @@
 * [2026-07-17, 18:59:28](https://news.ycombinator.com/item?id=48951014) - [ICE Flight Monitor Interactive Dashboard](https://www.humanrightsfirst.org/ice-flight-monitor-interactive-dashboard)
 * [2026-07-17, 18:37:33](https://news.ycombinator.com/item?id=48950774) - [Show HN: A zoomable timeline of 4M Wikipedia events](https://app.everything.diena.co/)
 * [2026-07-17, 18:26:02](https://news.ycombinator.com/item?id=48950580) - [SpaceX stock drops to a new low and loses $1T in value in a month](https://www.businessinsider.com/spacex-stock-drops-new-low-ipo-price-starship-launch-scrubbed-2026-7)
+* [2026-07-17, 18:24:29](https://news.ycombinator.com/item?id=48950562) - [How we made our LeRobot video reader up to 15× faster](https://www.eventual.ai/blog/how-we-made-our-lerobot-video-reader-up-to-15x-faster)
 * [2026-07-17, 18:21:14](https://news.ycombinator.com/item?id=48950518) - [Lego building instructions through time](https://www.lego.com/en-us/history/articles/d-lego-building-instructions-through-time)
 * [2026-07-17, 18:18:23](https://news.ycombinator.com/item?id=48950477) - [Ask HN: Did Fable disappear from your Claude usage and requires credits now?](https://news.ycombinator.com/item?id=48950477)
 * [2026-07-17, 17:45:41](https://news.ycombinator.com/item?id=48950122) - [Learning a few things about running SQLite](https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/)
