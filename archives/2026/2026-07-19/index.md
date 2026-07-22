@@ -26,6 +26,7 @@
 * [2026-07-19, 16:38:36](https://news.ycombinator.com/item?id=48969582) - [Texas Police Spent $4.5M on Four Chevy Tahoes](https://www.thedrive.com/news/how-texas-police-spent-4-5-million-on-four-chevy-tahoes)
 * [2026-07-19, 16:31:44](https://news.ycombinator.com/item?id=48969530) - [ECC and DDR5](https://etbe.coker.com.au/2026/07/19/ecc-ddr5/)
 * [2026-07-19, 16:02:25](https://news.ycombinator.com/item?id=48969291) - [Moonshot AI suspends new subscriptions due to Kimi K3 demand](https://twitter.com/kimi_moonshot/status/2078855608565207130)
+* [2026-07-19, 15:49:58](https://news.ycombinator.com/item?id=48969200) - [Introduction to Formal Verification with Lean Part 1](https://hashcloak.com/blog/tutorial-introduction-to-formal-verification-with-lean-(part-1))
 * [2026-07-19, 15:20:22](https://news.ycombinator.com/item?id=48968949) - [C64 Basic Dungeon Crawler: Goblin Attack (C64 Basic Part 8)](https://retrogamecoders.com/c64-basic-dungeon-part8/)
 * [2026-07-19, 14:51:57](https://news.ycombinator.com/item?id=48968701) - [Natural experiments prove phytoplankton carbon removal works](https://www.onepercentbrighter.com/p/natural-experiments-prove-feeding)
 * [2026-07-19, 14:41:16](https://news.ycombinator.com/item?id=48968606) - [Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s](https://news.ycombinator.com/item?id=48968606)
