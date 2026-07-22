@@ -77,6 +77,7 @@
 * [2026-07-16, 12:02:11](https://news.ycombinator.com/item?id=48933344) - [SpaceX stock erases all its gains and slides below IPO price in intraday trading](https://www.latimes.com/business/story/2026-07-16/spacex-stock-erases-gains-slides-below-ipo-price-in-intraday-trading)
 * [2026-07-16, 11:59:01](https://news.ycombinator.com/item?id=48933310) - [The LLM Critics Are Right. I Use LLMs Anyway](https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/)
 * [2026-07-16, 11:58:09](https://news.ycombinator.com/item?id=48933303) - [Let's Build PlanetScale from Scratch: Infrastructure](https://onatm.dev/2026/07/16/homescale-part-1/)
+* [2026-07-16, 11:50:22](https://news.ycombinator.com/item?id=48933232) - [Drake Anthony Recreates the Mechanical Bulb First Seen in 1675 – TechEBlog](https://www.techeblog.com/drake-anthony-styropyro-mechanical-bulb-barometric-light/)
 * [2026-07-16, 11:39:27](https://news.ycombinator.com/item?id=48933149) - [How Our Rust-to-Zig Rewrite Is Going](https://rtfeldman.com/rust-to-zig)
 * [2026-07-16, 11:27:37](https://news.ycombinator.com/item?id=48933067) - [Umuganda](https://en.wikipedia.org/wiki/Umuganda)
 * [2026-07-16, 11:04:27](https://news.ycombinator.com/item?id=48932889) - [I resurrected an 8-year-old dead CSS library and gave it an engine](https://usevivace.dev)
