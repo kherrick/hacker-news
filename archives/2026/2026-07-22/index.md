@@ -31,6 +31,7 @@
 * [2026-07-22, 14:34:23](https://news.ycombinator.com/item?id=49007524) - [OpenNode – Bitcoin Payment Processor](https://opennode.com/)
 * [2026-07-22, 14:31:55](https://news.ycombinator.com/item?id=49007487) - [How to Read a Painting](https://sheets.works/data-viz/how-to-read-a-painting/)
 * [2026-07-22, 14:25:13](https://news.ycombinator.com/item?id=49007374) - [Passkeys were invented by engineers with zero understanding of consumer brain](https://twitter.com/nikitabier/status/2079787406300266743)
+* [2026-07-22, 14:18:11](https://news.ycombinator.com/item?id=49007249) - [When Is NVLink Worth It?](https://platform-fools.com/posts/2026-04-27-nvlink/)
 * [2026-07-22, 13:08:19](https://news.ycombinator.com/item?id=49006195) - [Back to Kagi](https://blog.melashri.net/micro/back-to-kagi/)
 * [2026-07-22, 12:49:45](https://news.ycombinator.com/item?id=49005973) - [Businesses with ugly AI menu redesigns](https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/)
 * [2026-07-22, 12:36:08](https://news.ycombinator.com/item?id=49005787) - [The startup's Postgres survival guide](https://hatchet.run/blog/postgres-survival-guide)
