@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-07-22](index.md)
 
+* [2026-07-22, 21:15:26](https://news.ycombinator.com/item?id=49013538) - [Malleable Computing, Emacs, and You](http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html)
+* [2026-07-22, 21:00:26](https://news.ycombinator.com/item?id=49013356) - [Safari Technology Preview 248 Released](https://webkit.org/blog/18162/release-notes-for-safari-technology-preview-248/)
+* [2026-07-22, 20:33:44](https://news.ycombinator.com/item?id=49013036) - [I Inspected My Take-Home Interview Project. It Was a Whole Operation](https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/)
+* [2026-07-22, 20:16:01](https://news.ycombinator.com/item?id=49012777) - [Fairphone 6 wide camera experimental Linux support](https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/)
 * [2026-07-22, 19:22:19](https://news.ycombinator.com/item?id=49012070) - [John C. Dvorak has died](https://twitter.com/na_announce/status/2079952538040672302)
 * [2026-07-22, 19:15:21](https://news.ycombinator.com/item?id=49011999) - [ICE shared Medicaid data it wasn't supposed to have with Palantir](https://www.npr.org/2026/07/17/nx-s1-5898504/ice-medicaid-palantir-data)
 * [2026-07-22, 17:48:18](https://news.ycombinator.com/item?id=49010648) - [Everyone Should Know SIMD](https://mitchellh.com/writing/everyone-should-know-simd)
