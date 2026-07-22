@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-22](index.md)
 
+* [2026-07-22, 19:22:19](https://news.ycombinator.com/item?id=49012070) - [John C. Dvorak has died](https://twitter.com/na_announce/status/2079952538040672302)
 * [2026-07-22, 19:15:21](https://news.ycombinator.com/item?id=49011999) - [ICE shared Medicaid data it wasn't supposed to have with Palantir](https://www.npr.org/2026/07/17/nx-s1-5898504/ice-medicaid-palantir-data)
 * [2026-07-22, 17:48:18](https://news.ycombinator.com/item?id=49010648) - [Everyone Should Know SIMD](https://mitchellh.com/writing/everyone-should-know-simd)
 * [2026-07-22, 17:30:40](https://news.ycombinator.com/item?id=49010345) - [Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56)
