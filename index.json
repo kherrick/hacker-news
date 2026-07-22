@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-07-22, 05:51:50",
-      "https://news.ycombinator.com/item?id=49002358"
+      "2026-07-22, 08:17:26",
+      "https://news.ycombinator.com/item?id=49003386"
     ],
     [
-      "I graded 36 popular MCP servers on agent usability. A third got a D or F",
-      "https://tengli.dev/posts/mcp-servers-failing-agents.html"
+      "Codeberg bans vibe coded projects",
+      "https://codeberg.org/Codeberg/org/pulls/1253#issuecomment-19820434"
     ]
   ],
   [
@@ -37,6 +37,16 @@
     [
       "Original Apollo 11 Guidance Computer source code for command and lunar modules",
       "https://github.com/chrislgarry/Apollo-11"
+    ]
+  ],
+  [
+    [
+      "2026-07-22, 04:00:11",
+      "https://news.ycombinator.com/item?id=49001708"
+    ],
+    [
+      "Tesla Balance Bike",
+      "https://shop.tesla.com/product/balance-bike-for-kids"
     ]
   ],
   [
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2026-07-21, 16:39:30",
-      "https://news.ycombinator.com/item?id=48994716"
-    ],
-    [
-      "Roblox Officially Supports GrapheneOS",
-      "https://en.help.roblox.com/hc/en-us/articles/49648939984916-Android-Remote-Attestation"
-    ]
-  ],
-  [
-    [
       "2026-07-21, 16:05:58",
       "https://news.ycombinator.com/item?id=48994178"
     ],
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2026-07-18, 21:40:23",
-      "https://news.ycombinator.com/item?id=48962718"
-    ],
-    [
-      "Pico W firmware creates driverless USB WiFi bridge (Layer-2)",
-      "https://www.cnx-software.com/2026/07/16/pico-usb-wifi-converts-the-raspberry-pi-pico-w-into-a-driverless-usb-wifi-adapter/"
-    ]
-  ],
-  [
-    [
       "2026-07-18, 19:56:33",
       "https://news.ycombinator.com/item?id=48961698"
     ],
@@ -277,6 +267,16 @@
     [
       "The Birth of Prolog (1996)",
       "https://dl.acm.org/doi/10.1145/234286.1057820"
+    ]
+  ],
+  [
+    [
+      "2026-07-17, 15:55:42",
+      "https://news.ycombinator.com/item?id=48948859"
+    ],
+    [
+      "Atomically Thin Materials Significantly Shrink Qubits",
+      "https://spectrum.ieee.org/2d-hbn-qubit"
     ]
   ],
   [
