@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-22](index.md)
 
+* [2026-07-22, 12:32:48](https://news.ycombinator.com/item?id=49005747) - [So Reddit has decided that plain HTML is unsafe](https://www.cole-k.com/2026/07/21/reddit/)
+* [2026-07-22, 12:03:32](https://news.ycombinator.com/item?id=49005398) - [OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack](https://www.bbc.com/news/articles/c3ek3gvdnj3o)
 * [2026-07-22, 10:49:04](https://news.ycombinator.com/item?id=49004663) - [OverpAId – Fire your CEO. Hire the future](https://overpaid.lol)
 * [2026-07-22, 08:27:12](https://news.ycombinator.com/item?id=49003465) - [Codeberg: ToU extension to prohibit LLM-extrusions](https://codeberg.org/Codeberg/org/pulls/1253)
 * [2026-07-22, 08:17:26](https://news.ycombinator.com/item?id=49003386) - [Codeberg bans vibe coded projects](https://codeberg.org/Codeberg/org/pulls/1253#issuecomment-19820434)

@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-22, 12:32:48](https://news.ycombinator.com/item?id=49005747) - [So Reddit has decided that plain HTML is unsafe](https://www.cole-k.com/2026/07/21/reddit/)
+* [2026-07-22, 12:03:32](https://news.ycombinator.com/item?id=49005398) - [OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack](https://www.bbc.com/news/articles/c3ek3gvdnj3o)
 * [2026-07-22, 10:49:04](https://news.ycombinator.com/item?id=49004663) - [OverpAId – Fire your CEO. Hire the future](https://overpaid.lol)
-* [2026-07-22, 05:51:50](https://news.ycombinator.com/item?id=49002358) - [I graded 36 popular MCP servers on agent usability. A third got a D or F](https://tengli.dev/posts/mcp-servers-failing-agents.html)
 * [2026-07-22, 05:39:31](https://news.ycombinator.com/item?id=49002276) - [Show HN: A new kind of FPS aim trainer](https://openaim.pramit.gg/)
 * [2026-07-22, 05:18:08](https://news.ycombinator.com/item?id=49002166) - [Original Apollo 11 Guidance Computer source code for command and lunar modules](https://github.com/chrislgarry/Apollo-11)
 * [2026-07-22, 03:24:36](https://news.ycombinator.com/item?id=49001472) - [Never Enough](https://dark.ronacher.eu/2026/7/21/never-enough/)
@@ -26,9 +27,8 @@
 * [2026-07-20, 06:09:25](https://news.ycombinator.com/item?id=48974862) - [My USB Drive Has a Hidden Encrypted Vault](https://rootkitlabs.com/2026/06/22/I%27m-Building-a-Secure-USB-Drive/)
 * [2026-07-19, 15:49:58](https://news.ycombinator.com/item?id=48969200) - [Introduction to Formal Verification with Lean Part 1](https://hashcloak.com/blog/tutorial-introduction-to-formal-verification-with-lean-(part-1))
 * [2026-07-19, 10:54:41](https://news.ycombinator.com/item?id=48966832) - [AMD Ryzen 7 7700X3D Review: 3D V-Cache Gaming Performance for Less – HotHardware](https://hothardware.com/reviews/amd-ryzen-7-7700x3d-gaming-cpu-review)
-* [2026-07-19, 03:32:48](https://news.ycombinator.com/item?id=48964738) - [Overload and insight look identical from the outside](https://pilgrima.ge/p/what-the-wire-knows)
+* [2026-07-18, 20:54:15](https://news.ycombinator.com/item?id=48962282) - [Cornell's Interactive Wall of Birds](https://academy.allaboutbirds.org/features/wallofbirds/?_hsmi=428996456)
 * [2026-07-18, 19:56:33](https://news.ycombinator.com/item?id=48961698) - [Intel Starts Shipping High-NA EUV Silicon](https://morethanmoore.substack.com/p/intel-starts-shipping-high-na-euv)
-* [2026-07-17, 12:47:20](https://news.ycombinator.com/item?id=48946738) - [Show HN: Justif – Knuth-Plass justification and microtypography for the web](https://justif.lyall.co/)
 * [2026-07-17, 11:00:04](https://news.ycombinator.com/item?id=48945804) - [ScreenWall – Turn old phones into synced widgets for your space](https://screenwall.app/)
 
 ## [Archives](archives/index.md)
