@@ -9,6 +9,7 @@
 * [2026-07-20, 21:43:07](https://news.ycombinator.com/item?id=48985249) - [Donation Controversy](https://mullvad.net/en/blog/donation-controversy)
 * [2026-07-20, 21:30:56](https://news.ycombinator.com/item?id=48985140) - [My falling-out with the rationalist community](https://lcamtuf.substack.com/p/my-falling-out-with-the-rationalist)
 * [2026-07-20, 20:36:37](https://news.ycombinator.com/item?id=48984555) - [The creepiest 'sales demo' of all time](https://www.appenmedia.com/opinion/letter-to-the-editor-the-creepiest-sales-demo-of-all-time/article_a8f0cc6c-29d3-41f7-8668-8a855f760efb.html)
+* [2026-07-20, 20:31:28](https://news.ycombinator.com/item?id=48984489) - [Why do we love music? (2018)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6353111/)
 * [2026-07-20, 20:12:19](https://news.ycombinator.com/item?id=48984270) - [I wrote an bash enumerator because I was sick of xargs](https://numerlab.org/2025/07/20/bashumerate-enumerator/)
 * [2026-07-20, 20:10:44](https://news.ycombinator.com/item?id=48984254) - [Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco](https://vincentwoo.com/3d/grace_cathedral/)
 * [2026-07-20, 20:08:45](https://news.ycombinator.com/item?id=48984231) - [The Power of Awareness: Overcoming Surveillance Capitalism](https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/)
