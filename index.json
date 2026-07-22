@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-22, 05:51:50",
+      "https://news.ycombinator.com/item?id=49002358"
+    ],
+    [
+      "I graded 36 popular MCP servers on agent usability. A third got a D or F",
+      "https://tengli.dev/posts/mcp-servers-failing-agents.html"
+    ]
+  ],
+  [
+    [
       "2026-07-22, 05:49:51",
       "https://news.ycombinator.com/item?id=49002344"
     ],
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2026-07-21, 17:58:21",
-      "https://news.ycombinator.com/item?id=48995796"
-    ],
-    [
-      "Apple Private Cloud Compute SoC 3 audit reports",
-      "https://support.apple.com/guide/certifications/apple-private-cloud-compute-soc-3-audit-apc95a31b9d8/web"
-    ]
-  ],
-  [
-    [
       "2026-07-21, 17:17:06",
       "https://news.ycombinator.com/item?id=48995261"
     ],
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2026-07-18, 21:40:23",
+      "https://news.ycombinator.com/item?id=48962718"
+    ],
+    [
+      "Pico W firmware creates driverless USB WiFi bridge (Layer-2)",
+      "https://www.cnx-software.com/2026/07/16/pico-usb-wifi-converts-the-raspberry-pi-pico-w-into-a-driverless-usb-wifi-adapter/"
+    ]
+  ],
+  [
+    [
       "2026-07-18, 19:56:33",
       "https://news.ycombinator.com/item?id=48961698"
     ],
@@ -287,16 +297,6 @@
     [
       "ScreenWall – Turn old phones into synced widgets for your space",
       "https://screenwall.app/"
-    ]
-  ],
-  [
-    [
-      "2026-07-14, 09:32:40",
-      "https://news.ycombinator.com/item?id=48904202"
-    ],
-    [
-      "Ask HN: US Equivalent of Anabin?",
-      "https://news.ycombinator.com/item?id=48904202"
     ]
   ]
 ]
