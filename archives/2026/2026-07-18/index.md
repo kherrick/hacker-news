@@ -21,6 +21,7 @@
 * [2026-07-18, 21:09:01](https://news.ycombinator.com/item?id=48962429) - [Co-evolution of self-replication and function in a digital primordial soup](https://arxiv.org/abs/2607.09211)
 * [2026-07-18, 21:06:49](https://news.ycombinator.com/item?id=48962405) - [Ada: An AI business intelligence software from CSV and Excel(yes LLMs but more)](https://github.com/saineshnakra/automated-data-analyst)
 * [2026-07-18, 20:13:56](https://news.ycombinator.com/item?id=48961864) - [SpaceX and the myth of independent Wall St research](https://www.ft.com/content/ce345155-d897-4f49-b7c8-13680e3b5434)
+* [2026-07-18, 19:56:33](https://news.ycombinator.com/item?id=48961698) - [Intel Starts Shipping High-NA EUV Silicon](https://morethanmoore.substack.com/p/intel-starts-shipping-high-na-euv)
 * [2026-07-18, 19:38:21](https://news.ycombinator.com/item?id=48961504) - [Typing Speed Test, but for Developers](https://haxxorwpm.0s.is/)
 * [2026-07-18, 19:06:23](https://news.ycombinator.com/item?id=48961157) - [What's the deal with all the random weekly quota resets for agents lately?](https://minimaxir.com/2026/07/agent-quota-reset/)
 * [2026-07-18, 18:13:05](https://news.ycombinator.com/item?id=48960607) - [REO Trucks I4 4WD Pickup Truck Starts at $21,500](https://reotrucks.com)

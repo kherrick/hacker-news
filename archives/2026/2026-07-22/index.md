@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-22](index.md)
 
+* [2026-07-22, 05:49:51](https://news.ycombinator.com/item?id=49002344) - [Show HN: ReadKinetic – a free, local-first speed reader for your own books](https://www.readkinetic.com/app/)
+* [2026-07-22, 05:39:31](https://news.ycombinator.com/item?id=49002276) - [Show HN: A new kind of FPS aim trainer](https://openaim.pramit.gg/)
 * [2026-07-22, 05:18:08](https://news.ycombinator.com/item?id=49002166) - [Original Apollo 11 Guidance Computer source code for command and lunar modules](https://github.com/chrislgarry/Apollo-11)
 * [2026-07-22, 04:48:59](https://news.ycombinator.com/item?id=49002010) - [Airglow browser lets users modify YouTube, Gmail and Spotify in real time](https://runtimewire.com/article/airglow-browser-lets-users-modify-youtube-gmail-and-spotify-in-real-time)
 * [2026-07-22, 04:33:44](https://news.ycombinator.com/item?id=49001930) - [Kimi K3: second only to Fable 5 on AA-Briefcase](https://artificialanalysis.ai/articles/kimi-k3-agentic-knowledge-benchmark)
