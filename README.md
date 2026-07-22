@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-22, 05:51:50](https://news.ycombinator.com/item?id=49002358) - [I graded 36 popular MCP servers on agent usability. A third got a D or F](https://tengli.dev/posts/mcp-servers-failing-agents.html)
 * [2026-07-22, 05:49:51](https://news.ycombinator.com/item?id=49002344) - [Show HN: ReadKinetic – a free, local-first speed reader for your own books](https://www.readkinetic.com/app/)
 * [2026-07-22, 05:39:31](https://news.ycombinator.com/item?id=49002276) - [Show HN: A new kind of FPS aim trainer](https://openaim.pramit.gg/)
 * [2026-07-22, 05:18:08](https://news.ycombinator.com/item?id=49002166) - [Original Apollo 11 Guidance Computer source code for command and lunar modules](https://github.com/chrislgarry/Apollo-11)
@@ -16,7 +17,6 @@
 * [2026-07-21, 19:04:39](https://news.ycombinator.com/item?id=48996652) - [Judge approves $1.5B Anthropic settlement for pirated books used to train Claude](https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63)
 * [2026-07-21, 18:58:44](https://news.ycombinator.com/item?id=48996571) - [Advertise in ChatGPT](https://ads.openai.com/)
 * [2026-07-21, 18:39:06](https://news.ycombinator.com/item?id=48996318) - [FreeInk: Open ecosystem for e-readers](https://freeink.org/)
-* [2026-07-21, 17:58:21](https://news.ycombinator.com/item?id=48995796) - [Apple Private Cloud Compute SoC 3 audit reports](https://support.apple.com/guide/certifications/apple-private-cloud-compute-soc-3-audit-apc95a31b9d8/web)
 * [2026-07-21, 17:17:06](https://news.ycombinator.com/item?id=48995261) - [Laguna S 2.1](https://poolside.ai/blog/introducing-laguna-s-2-1)
 * [2026-07-21, 17:14:06](https://news.ycombinator.com/item?id=48995213) - [Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting](https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git)
 * [2026-07-21, 16:39:30](https://news.ycombinator.com/item?id=48994716) - [Roblox Officially Supports GrapheneOS](https://en.help.roblox.com/hc/en-us/articles/49648939984916-Android-Remote-Attestation)
@@ -25,11 +25,11 @@
 * [2026-07-21, 15:17:16](https://news.ycombinator.com/item?id=48993414) - [Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/)
 * [2026-07-21, 14:31:41](https://news.ycombinator.com/item?id=48992870) - [Apple defeats liability for not scanning iCloud for CSAM](https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm)
 * [2026-07-20, 06:09:25](https://news.ycombinator.com/item?id=48974862) - [My USB Drive Has a Hidden Encrypted Vault](https://rootkitlabs.com/2026/06/22/I%27m-Building-a-Secure-USB-Drive/)
+* [2026-07-18, 21:40:23](https://news.ycombinator.com/item?id=48962718) - [Pico W firmware creates driverless USB WiFi bridge (Layer-2)](https://www.cnx-software.com/2026/07/16/pico-usb-wifi-converts-the-raspberry-pi-pico-w-into-a-driverless-usb-wifi-adapter/)
 * [2026-07-18, 19:56:33](https://news.ycombinator.com/item?id=48961698) - [Intel Starts Shipping High-NA EUV Silicon](https://morethanmoore.substack.com/p/intel-starts-shipping-high-na-euv)
 * [2026-07-17, 23:33:39](https://news.ycombinator.com/item?id=48953468) - [The Birth of Prolog (1996)](https://dl.acm.org/doi/10.1145/234286.1057820)
 * [2026-07-17, 12:47:20](https://news.ycombinator.com/item?id=48946738) - [Show HN: Justif – Knuth-Plass justification and microtypography for the web](https://justif.lyall.co/)
 * [2026-07-17, 11:00:04](https://news.ycombinator.com/item?id=48945804) - [ScreenWall – Turn old phones into synced widgets for your space](https://screenwall.app/)
-* [2026-07-14, 09:32:40](https://news.ycombinator.com/item?id=48904202) - [Ask HN: US Equivalent of Anabin?](https://news.ycombinator.com/item?id=48904202)
 
 ## [Archives](archives/index.md)
 
