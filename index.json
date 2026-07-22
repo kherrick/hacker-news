@@ -1,11 +1,21 @@
 [
   [
     [
+      "2026-07-22, 02:32:30",
+      "https://news.ycombinator.com/item?id=49001127"
+    ],
+    [
+      "Late.sh – a command-line Clubhouse for computer people",
+      "https://late.sh/"
+    ]
+  ],
+  [
+    [
       "2026-07-22, 01:52:31",
       "https://news.ycombinator.com/item?id=49000864"
     ],
     [
-      "LG to Ban Residential Proxies from Smart TV Apps",
+      "LG to ban residential proxies from smart TV apps",
       "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/"
     ]
   ],
@@ -17,16 +27,6 @@
     [
       "Ten Steps Towards Happiness (2015)",
       "http://hintjens.com/blog:99"
-    ]
-  ],
-  [
-    [
-      "2026-07-22, 00:53:00",
-      "https://news.ycombinator.com/item?id=49000429"
-    ],
-    [
-      "How an AI Anime Is Created",
-      "https://www.aventos.dev/our-process?view=blog"
     ]
   ],
   [
@@ -191,12 +191,12 @@
   ],
   [
     [
-      "2026-07-21, 16:06:20",
-      "https://news.ycombinator.com/item?id=48994186"
+      "2026-07-21, 16:39:30",
+      "https://news.ycombinator.com/item?id=48994716"
     ],
     [
-      "Show HN: An MCP server that turns async-work practices into tools",
-      "https://github.com/open-and-async/mcp"
+      "Roblox Officially Supports GrapheneOS",
+      "https://en.help.roblox.com/hc/en-us/articles/49648939984916-Android-Remote-Attestation"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2026-07-18, 21:40:23",
+      "https://news.ycombinator.com/item?id=48962718"
+    ],
+    [
+      "Pico W firmware creates driverless USB WiFi bridge (Layer-2)",
+      "https://www.cnx-software.com/2026/07/16/pico-usb-wifi-converts-the-raspberry-pi-pico-w-into-a-driverless-usb-wifi-adapter/"
+    ]
+  ],
+  [
+    [
       "2026-07-17, 23:33:39",
       "https://news.ycombinator.com/item?id=48953468"
     ],
@@ -287,16 +297,6 @@
     [
       "Show HN: Justif – Knuth-Plass justification and microtypography for the web",
       "https://justif.lyall.co/"
-    ]
-  ],
-  [
-    [
-      "2026-07-16, 18:34:56",
-      "https://news.ycombinator.com/item?id=48938395"
-    ],
-    [
-      "Recreating the math behind the first stealth aircraft",
-      "https://www.pramit.gg/post/remaking-echo-1-stealth-physics"
     ]
   ]
 ]
