@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-22, 00:53:00",
+      "https://news.ycombinator.com/item?id=49000429"
+    ],
+    [
+      "How an AI Anime Is Created",
+      "https://www.aventos.dev/our-process?view=blog"
+    ]
+  ],
+  [
+    [
+      "2026-07-22, 00:27:35",
+      "https://news.ycombinator.com/item?id=49000250"
+    ],
+    [
+      "A flaky test exposed a Redis client use-after-free",
+      "https://buildkite.engineering/how-a-flaky-test-exposed-a-redis-use-after-free/"
+    ]
+  ],
+  [
+    [
       "2026-07-21, 22:35:24",
       "https://news.ycombinator.com/item?id=48999291"
     ],
@@ -87,16 +107,6 @@
     [
       "Advertise in ChatGPT",
       "https://ads.openai.com/"
-    ]
-  ],
-  [
-    [
-      "2026-07-21, 18:42:46",
-      "https://news.ycombinator.com/item?id=48996364"
-    ],
-    [
-      "The Price of Happiness (2024)",
-      "https://happiness-science.org/price-of-happiness/"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "My USB Drive Has a Hidden Encrypted Vault",
       "https://rootkitlabs.com/2026/06/22/I%27m-Building-a-Secure-USB-Drive/"
-    ]
-  ],
-  [
-    [
-      "2026-07-18, 18:09:36",
-      "https://news.ycombinator.com/item?id=48960582"
-    ],
-    [
-      "The unreasonable difficulty of time series forecasting",
-      "https://suzyahyah.github.io/machine%20learning/2026/06/27/trouble-with-time-series.html"
     ]
   ],
   [
