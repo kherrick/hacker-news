@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-22, 19:15:21](https://news.ycombinator.com/item?id=49011999) - [ICE shared Medicaid data it wasn't supposed to have with Palantir](https://www.npr.org/2026/07/17/nx-s1-5898504/ice-medicaid-palantir-data)
 * [2026-07-22, 17:48:18](https://news.ycombinator.com/item?id=49010648) - [Everyone Should Know SIMD](https://mitchellh.com/writing/everyone-should-know-simd)
 * [2026-07-22, 17:30:40](https://news.ycombinator.com/item?id=49010345) - [Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56)
 * [2026-07-22, 17:20:38](https://news.ycombinator.com/item?id=49010167) - [GigaToken: ~1000x faster Language model tokenization](https://github.com/marcelroed/gigatoken/)
@@ -12,7 +13,7 @@
 * [2026-07-22, 15:30:36](https://news.ycombinator.com/item?id=49008406) - [Show HN: HN Hall of Fame – browse 3,100 legendary Hacker News links](https://www.orangecrumbs.com/hall/)
 * [2026-07-22, 15:19:23](https://news.ycombinator.com/item?id=49008211) - [Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)](https://bento.page/slides/)
 * [2026-07-22, 15:15:29](https://news.ycombinator.com/item?id=49008143) - [Neo Radar: A browser-based orbital mechanics engine with 41k real asteroids](https://neoradar.space)
-* [2026-07-22, 14:59:08](https://news.ycombinator.com/item?id=49007863) - [Perlin's Noise Algorithm](https://blog.jaysmito.dev/blog/02-perlins-noise-algorithm/)
+* [2026-07-22, 14:59:08](https://news.ycombinator.com/item?id=49007863) - [Perlin's Noise Algorithm (2023)](https://blog.jaysmito.dev/blog/02-perlins-noise-algorithm/)
 * [2026-07-22, 14:43:28](https://news.ycombinator.com/item?id=49007626) - [Ghost Cut – or why Cut and Paste is broken everywhere](https://ishmael.textualize.io/blog/ghost-cut/)
 * [2026-07-22, 14:42:49](https://news.ycombinator.com/item?id=49007620) - [Hologram works. Elixir runs in the browser](https://hologram.page/blog/backing-hologram)
 * [2026-07-22, 14:42:08](https://news.ycombinator.com/item?id=49007610) - [“We have information that Moonshot distilled Fable for the development of K3”](https://twitter.com/mkratsios47/status/2079933645888880708)
@@ -26,7 +27,6 @@
 * [2026-07-19, 19:44:44](https://news.ycombinator.com/item?id=48971128) - [Nvidia DGX Spark as a daily driver](https://daniel.lawrence.lu/blog/2026-07-15-dgx-spark-as-daily-driver/)
 * [2026-07-19, 15:49:58](https://news.ycombinator.com/item?id=48969200) - [Introduction to Formal Verification with Lean Part 1](https://hashcloak.com/blog/tutorial-introduction-to-formal-verification-with-lean-(part-1))
 * [2026-07-18, 19:56:33](https://news.ycombinator.com/item?id=48961698) - [Intel Starts Shipping High-NA EUV Silicon](https://morethanmoore.substack.com/p/intel-starts-shipping-high-na-euv)
-* [2026-07-17, 14:38:05](https://news.ycombinator.com/item?id=48947922) - [I tried to record music onto a cassette tape using modern tech](https://swiftrocks.com/i-tried-to-record-music-onto-a-cassette-tape-using-modern-tech)
 * [2026-07-17, 11:00:04](https://news.ycombinator.com/item?id=48945804) - [ScreenWall – Turn old phones into synced widgets for your space](https://screenwall.app/)
 * [2026-07-15, 06:50:49](https://news.ycombinator.com/item?id=48917135) - [Nobody knows what a used GPU cluster is worth](https://ciphertalk.substack.com/p/nobody-knows-what-a-used-gpu-cluster)
 * [2026-07-14, 21:26:36](https://news.ycombinator.com/item?id=48913145) - [Mechanical light bulb from 1675 [video]](https://www.youtube.com/watch?v=0Y-9GbsS9Fg)
