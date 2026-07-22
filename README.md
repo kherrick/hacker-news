@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-22, 10:49:04](https://news.ycombinator.com/item?id=49004663) - [OverpAId – Fire your CEO. Hire the future](https://overpaid.lol)
 * [2026-07-22, 05:51:50](https://news.ycombinator.com/item?id=49002358) - [I graded 36 popular MCP servers on agent usability. A third got a D or F](https://tengli.dev/posts/mcp-servers-failing-agents.html)
 * [2026-07-22, 05:39:31](https://news.ycombinator.com/item?id=49002276) - [Show HN: A new kind of FPS aim trainer](https://openaim.pramit.gg/)
 * [2026-07-22, 05:18:08](https://news.ycombinator.com/item?id=49002166) - [Original Apollo 11 Guidance Computer source code for command and lunar modules](https://github.com/chrislgarry/Apollo-11)
@@ -18,7 +19,6 @@
 * [2026-07-21, 18:39:06](https://news.ycombinator.com/item?id=48996318) - [FreeInk: Open ecosystem for e-readers](https://freeink.org/)
 * [2026-07-21, 17:17:06](https://news.ycombinator.com/item?id=48995261) - [Laguna S 2.1](https://poolside.ai/blog/introducing-laguna-s-2-1)
 * [2026-07-21, 17:14:06](https://news.ycombinator.com/item?id=48995213) - [Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting](https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git)
-* [2026-07-21, 16:39:30](https://news.ycombinator.com/item?id=48994716) - [Roblox Officially Supports GrapheneOS](https://en.help.roblox.com/hc/en-us/articles/49648939984916-Android-Remote-Attestation)
 * [2026-07-21, 16:05:58](https://news.ycombinator.com/item?id=48994178) - [Map of the world's great castles and fortresses](https://thecastlemap.com/)
 * [2026-07-21, 15:41:51](https://news.ycombinator.com/item?id=48993816) - [Long presumed dead, a thriving coral reef is discovered in West Africa](https://e360.yale.edu/digest/benin-coral-reef)
 * [2026-07-21, 15:17:16](https://news.ycombinator.com/item?id=48993414) - [Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/)
