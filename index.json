@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-22, 01:17:26",
+      "https://news.ycombinator.com/item?id=49000600"
+    ],
+    [
+      "Ten Steps Towards Happiness",
+      "http://hintjens.com/blog:99"
+    ]
+  ],
+  [
+    [
       "2026-07-22, 00:53:00",
       "https://news.ycombinator.com/item?id=49000429"
     ],
@@ -17,6 +27,16 @@
     [
       "A flaky test exposed a Redis client use-after-free",
       "https://buildkite.engineering/how-a-flaky-test-exposed-a-redis-use-after-free/"
+    ]
+  ],
+  [
+    [
+      "2026-07-21, 23:33:31",
+      "https://news.ycombinator.com/item?id=48999825"
+    ],
+    [
+      "It's a shame what's happened to radio",
+      "https://blog.jimgrey.net/2026/07/21/its-a-shame-whats-happened-to-radio-3/"
     ]
   ],
   [
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2026-07-21, 18:29:57",
-      "https://news.ycombinator.com/item?id=48996187"
-    ],
-    [
-      "Show HN: A self-running space economy SIM in Rust and Bevy",
-      "https://github.com/Kalcode/spaceprojectsim"
-    ]
-  ],
-  [
-    [
       "2026-07-21, 17:58:21",
       "https://news.ycombinator.com/item?id=48995796"
     ],
@@ -181,22 +191,22 @@
   ],
   [
     [
+      "2026-07-21, 16:06:20",
+      "https://news.ycombinator.com/item?id=48994186"
+    ],
+    [
+      "Show HN: An MCP server that turns async-work practices into tools",
+      "https://github.com/open-and-async/mcp"
+    ]
+  ],
+  [
+    [
       "2026-07-21, 16:05:58",
       "https://news.ycombinator.com/item?id=48994178"
     ],
     [
       "Map of the world's great castles and fortresses",
       "https://thecastlemap.com/"
-    ]
-  ],
-  [
-    [
-      "2026-07-21, 16:02:04",
-      "https://news.ycombinator.com/item?id=48994116"
-    ],
-    [
-      "France's Anssi Will Block PQC-Free Products from Certification Starting 2027",
-      "https://postquantum.com/security-pqc/anssi-pqc-certification-2027/"
     ]
   ],
   [
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2026-07-20, 12:07:16",
-      "https://news.ycombinator.com/item?id=48977628"
-    ],
-    [
-      "Show HN: Read the Tape – Wordle for daytrading, five blind S&P 500 charts a day",
-      "https://readthetape.cc/"
-    ]
-  ],
-  [
-    [
       "2026-07-20, 06:09:25",
       "https://news.ycombinator.com/item?id=48974862"
     ],
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2026-07-18, 09:41:36",
-      "https://news.ycombinator.com/item?id=48956548"
+      "2026-07-18, 22:34:03",
+      "https://news.ycombinator.com/item?id=48963122"
     ],
     [
-      "Show HN: Workaround – Unstar GitHub Repos in Bulk",
-      "https://workaround.run/"
+      "Juggling for Blind People",
+      "https://www.jugglingforblindpeople.com/"
     ]
   ],
   [
