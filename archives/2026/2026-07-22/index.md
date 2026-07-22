@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-22](index.md)
 
+* [2026-07-22, 17:48:18](https://news.ycombinator.com/item?id=49010648) - [Everyone Should Know SIMD](https://mitchellh.com/writing/everyone-should-know-simd)
 * [2026-07-22, 17:30:40](https://news.ycombinator.com/item?id=49010345) - [Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56)
 * [2026-07-22, 17:20:38](https://news.ycombinator.com/item?id=49010167) - [GigaToken: ~1000x faster Language model tokenization](https://github.com/marcelroed/gigatoken/)
 * [2026-07-22, 17:17:54](https://news.ycombinator.com/item?id=49010129) - [Are AI Labs Pelicanmaxxing?](https://dylancastillo.co/posts/pelicanmaxxing.html)
