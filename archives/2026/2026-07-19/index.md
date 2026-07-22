@@ -14,6 +14,7 @@
 * [2026-07-19, 20:50:42](https://news.ycombinator.com/item?id=48971566) - [A new Intel Itanium (IA-64) emulator that boots Windows](https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html)
 * [2026-07-19, 20:50:07](https://news.ycombinator.com/item?id=48971561) - [Americans are angry about data centers. Politicians are feeling the pressure](https://www.reuters.com/world/us/americans-are-angry-about-data-centers-politicians-are-feeling-pressure-2026-07-16/)
 * [2026-07-19, 20:25:58](https://news.ycombinator.com/item?id=48971418) - [Heavy TV watching associated with smaller brain structures, study finds](https://dornsife.usc.edu/news/stories/heavy-tv-watching-associated-with-smaller-brain-structures/)
+* [2026-07-19, 19:44:44](https://news.ycombinator.com/item?id=48971128) - [Nvidia DGX Spark as a daily driver](https://daniel.lawrence.lu/blog/2026-07-15-dgx-spark-as-daily-driver/)
 * [2026-07-19, 19:27:16](https://news.ycombinator.com/item?id=48970991) - [Modder Runs GTA III Inside GTA: San Andreas on an In-Game TV](https://videocardz.com/newz/modder-runs-gta-iii-inside-gta-san-andreas-on-an-in-game-tv)
 * [2026-07-19, 19:13:29](https://news.ycombinator.com/item?id=48970894) - [Orion Browser by Kagi](https://orionbrowser.com/)
 * [2026-07-19, 18:57:01](https://news.ycombinator.com/item?id=48970772) - [HomeLab #1: MikroTik as a Home Router](https://justsomebody.dev/blog/mikrotik-home-router)
