@@ -29,6 +29,7 @@
 * [2026-07-20, 15:47:28](https://news.ycombinator.com/item?id=48980520) - [I Stopped \"Creating Content\"](https://refactoringenglish.com/blog/why-i-stopped-creating-content/)
 * [2026-07-20, 15:46:18](https://news.ycombinator.com/item?id=48980506) - [Ziggity – A terminal UI for Git, written in Zig](https://github.com/simoarpe/ziggity)
 * [2026-07-20, 15:40:03](https://news.ycombinator.com/item?id=48980404) - [Cross sectioning insects in an electron microscope with a femtosecond laser [video]](https://www.youtube.com/watch?v=NwhVJ7cv9B4)
+* [2026-07-20, 15:32:20](https://news.ycombinator.com/item?id=48980286) - [Show HN: DeepSQL – A self-hostable AI DBA agent for Postgres and MySQL](https://deepsql.ai/)
 * [2026-07-20, 15:28:32](https://news.ycombinator.com/item?id=48980238) - [Jaron Lanier: there is no AI (2023)](https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai)
 * [2026-07-20, 15:23:50](https://news.ycombinator.com/item?id=48980167) - [Show HN: Wheesper – Start an anonymous discussion with a link](https://wheesper.com/)
 * [2026-07-20, 15:15:36](https://news.ycombinator.com/item?id=48980053) - [The Voice of Google](https://www.newyorker.com/culture/the-weekend-essay/the-voice-of-google)

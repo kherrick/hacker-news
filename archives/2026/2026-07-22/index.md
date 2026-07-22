@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-07-22](index.md)
 
+* [2026-07-22, 16:25:08](https://news.ycombinator.com/item?id=49009324) - [Show HN: Web swing through midtown NYC](https://www.swingnyc.com/)
 * [2026-07-22, 16:02:03](https://news.ycombinator.com/item?id=49008901) - [Launch HN: Unlayer (YC W22) – Add email and document builders to your app](https://unlayer.com)
 * [2026-07-22, 15:45:18](https://news.ycombinator.com/item?id=49008642) - [Does creatine make you smarter?](https://dynomight.net/creatine/)
 * [2026-07-22, 15:43:45](https://news.ycombinator.com/item?id=49008624) - [Six questions before you add an LLM](https://cameronmpalmer.medium.com/should-you-even-use-an-llm-b4f3b7914f4d)
+* [2026-07-22, 15:39:01](https://news.ycombinator.com/item?id=49008538) - [Can a MUD evaluate LLMs? A $99 proof of concept](https://cruciblebench.ai/)
 * [2026-07-22, 15:37:25](https://news.ycombinator.com/item?id=49008512) - [A Zipper Patent Sat in a Garage for 40 Years. Now It's Real](https://www.yankodesign.com/2026/05/31/a-zipper-patent-sat-in-a-garage-for-40-years-now-its-real/)
 * [2026-07-22, 15:33:48](https://news.ycombinator.com/item?id=49008440) - [Making](https://beej.us/blog/data/ai-making/)
 * [2026-07-22, 15:30:36](https://news.ycombinator.com/item?id=49008406) - [Show HN: HN Hall of Fame – browse 3,100 legendary Hacker News links](https://www.orangecrumbs.com/hall/)
@@ -22,6 +24,7 @@
 * [2026-07-22, 14:43:28](https://news.ycombinator.com/item?id=49007626) - [Ghost Cut – or why Cut and Paste is broken everywhere](https://ishmael.textualize.io/blog/ghost-cut/)
 * [2026-07-22, 14:42:49](https://news.ycombinator.com/item?id=49007620) - [Hologram works. Elixir runs in the browser](https://hologram.page/blog/backing-hologram)
 * [2026-07-22, 14:42:08](https://news.ycombinator.com/item?id=49007610) - [We have information that Moonshot distilled Fable for the development of K3](https://twitter.com/mkratsios47/status/2079933645888880708)
+* [2026-07-22, 14:39:40](https://news.ycombinator.com/item?id=49007581) - [Ethics Is the Skill That Matters Most Now](https://agonora.com/blog/ethics-most-important-skill)
 * [2026-07-22, 14:35:55](https://news.ycombinator.com/item?id=49007546) - [I Built a Private Genomics Study with Stoffel MPC](https://vishakh.blog/2026/07/21/i-built-a-private-genomics-study-with-stoffel-mpc/)
 * [2026-07-22, 14:35:05](https://news.ycombinator.com/item?id=49007536) - [OpenAI Models Escaped and Hacked a Company in Cybersecurity Test Gone Wrong](https://www.wsj.com/tech/ai/openai-models-escaped-and-hacked-a-company-in-cybersecurity-test-gone-wrong-ee388506)
 * [2026-07-22, 14:34:27](https://news.ycombinator.com/item?id=49007525) - [Most Americans Say \"Not in My Backyard\" to AI Data Centers](https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/)
