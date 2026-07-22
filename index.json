@@ -1,26 +1,6 @@
 [
   [
     [
-      "2026-07-21, 22:45:27",
-      "https://news.ycombinator.com/item?id=48999376"
-    ],
-    [
-      "An Engineer's Guide to USB Type-C [pdf]",
-      "https://www.ti.com/lit/eb/slyy228/slyy228.pdf"
-    ]
-  ],
-  [
-    [
-      "2026-07-21, 22:39:58",
-      "https://news.ycombinator.com/item?id=48999323"
-    ],
-    [
-      "Furtex: Post-exploitation, rootkit and evasion research toolkit for Linux",
-      "https://github.com/MatheuZSecurity/Furtex"
-    ]
-  ],
-  [
-    [
       "2026-07-21, 22:35:24",
       "https://news.ycombinator.com/item?id=48999291"
     ],
@@ -87,6 +67,26 @@
     [
       "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
       "https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling"
+    ]
+  ],
+  [
+    [
+      "2026-07-21, 19:04:39",
+      "https://news.ycombinator.com/item?id=48996652"
+    ],
+    [
+      "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
+      "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63"
+    ]
+  ],
+  [
+    [
+      "2026-07-21, 18:58:44",
+      "https://news.ycombinator.com/item?id=48996571"
+    ],
+    [
+      "Advertise in ChatGPT",
+      "https://ads.openai.com/"
     ]
   ],
   [
@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2026-07-21, 16:05:58",
+      "https://news.ycombinator.com/item?id=48994178"
+    ],
+    [
+      "Map of the world's great castles and fortresses",
+      "https://thecastlemap.com/"
+    ]
+  ],
+  [
+    [
       "2026-07-21, 16:02:04",
       "https://news.ycombinator.com/item?id=48994116"
     ],
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2026-07-21, 08:44:23",
-      "https://news.ycombinator.com/item?id=48989701"
-    ],
-    [
-      "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
-      "https://qwen.ai/blog?id=qwen-image-3.0"
-    ]
-  ],
-  [
-    [
       "2026-07-20, 12:07:16",
       "https://news.ycombinator.com/item?id=48977628"
     ],
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2026-07-18, 09:41:36",
+      "https://news.ycombinator.com/item?id=48956548"
+    ],
+    [
+      "Show HN: Workaround – Unstar GitHub Repos in Bulk",
+      "https://workaround.run/"
+    ]
+  ],
+  [
+    [
       "2026-07-17, 23:33:39",
       "https://news.ycombinator.com/item?id=48953468"
     ],
@@ -287,16 +297,6 @@
     [
       "Recreating the math behind the first stealth aircraft",
       "https://www.pramit.gg/post/remaking-echo-1-stealth-physics"
-    ]
-  ],
-  [
-    [
-      "2026-07-16, 13:43:16",
-      "https://news.ycombinator.com/item?id=48934468"
-    ],
-    [
-      "Celestrak adds catalog digit, fixes Y2K bug",
-      "https://www.celestrak.org/satcat/"
     ]
   ]
 ]
