@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-21](index.md)
 
+* [2026-07-21, 23:33:31](https://news.ycombinator.com/item?id=48999825) - [It's a shame what's happened to radio](https://blog.jimgrey.net/2026/07/21/its-a-shame-whats-happened-to-radio-3/)
 * [2026-07-21, 22:45:27](https://news.ycombinator.com/item?id=48999376) - [An Engineer's Guide to USB Type-C [pdf]](https://www.ti.com/lit/eb/slyy228/slyy228.pdf)
 * [2026-07-21, 22:39:58](https://news.ycombinator.com/item?id=48999323) - [Furtex: Post-exploitation, rootkit and evasion research toolkit for Linux](https://github.com/MatheuZSecurity/Furtex)
 * [2026-07-21, 22:35:24](https://news.ycombinator.com/item?id=48999291) - [Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA](https://fireworks.ai/blog/kimik3-fable)
@@ -43,6 +44,7 @@
 * [2026-07-21, 17:00:20](https://news.ycombinator.com/item?id=48995037) - [Bloomy (YC S26) is hiring a founding engineer](https://news.ycombinator.com/item?id=48995037)
 * [2026-07-21, 16:57:30](https://news.ycombinator.com/item?id=48994984) - [Show HN: OSS Cross-Harness self hosted registry and analytics for AI Agents](https://github.com/Observal/Observal)
 * [2026-07-21, 16:39:30](https://news.ycombinator.com/item?id=48994716) - [Roblox Officially Supports GrapheneOS](https://en.help.roblox.com/hc/en-us/articles/49648939984916-Android-Remote-Attestation)
+* [2026-07-21, 16:06:20](https://news.ycombinator.com/item?id=48994186) - [Show HN: An MCP server that turns async-work practices into tools](https://github.com/open-and-async/mcp)
 * [2026-07-21, 16:05:58](https://news.ycombinator.com/item?id=48994178) - [The World's 2,400 Castles](https://thecastlemap.com/)
 * [2026-07-21, 16:02:04](https://news.ycombinator.com/item?id=48994116) - [France's Anssi Will Block PQC-Free Products from Certification Starting 2027](https://postquantum.com/security-pqc/anssi-pqc-certification-2027/)
 * [2026-07-21, 16:01:07](https://news.ycombinator.com/item?id=48994103) - [Amid nurse shortage, a university rolls out the welcome mat for men](https://text.npr.org/nx-s1-5869813)
