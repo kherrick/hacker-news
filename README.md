@@ -2,16 +2,15 @@
 
 * [2026-07-22, 13:08:19](https://news.ycombinator.com/item?id=49006195) - [Back to Kagi](https://blog.melashri.net/micro/back-to-kagi/)
 * [2026-07-22, 12:49:45](https://news.ycombinator.com/item?id=49005973) - [Businesses with ugly AI menu redesigns](https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/)
-* [2026-07-22, 12:32:48](https://news.ycombinator.com/item?id=49005747) - [So Reddit has decided that plain HTML is unsafe](https://www.cole-k.com/2026/07/21/reddit/)
 * [2026-07-22, 11:58:09](https://news.ycombinator.com/item?id=49005329) - [10 REM\"_(C2SLFF4](https://beej.us/blog/data/mystery-comment/)
 * [2026-07-22, 10:49:04](https://news.ycombinator.com/item?id=49004663) - [OverpAId – Fire your CEO. Hire the future](https://overpaid.lol)
-* [2026-07-22, 05:39:31](https://news.ycombinator.com/item?id=49002276) - [Show HN: A new kind of FPS aim trainer](https://openaim.pramit.gg/)
 * [2026-07-22, 05:18:08](https://news.ycombinator.com/item?id=49002166) - [Original Apollo 11 Guidance Computer source code for command and lunar modules](https://github.com/chrislgarry/Apollo-11)
 * [2026-07-22, 03:24:36](https://news.ycombinator.com/item?id=49001472) - [Never Enough](https://dark.ronacher.eu/2026/7/21/never-enough/)
 * [2026-07-22, 02:32:30](https://news.ycombinator.com/item?id=49001127) - [Late.sh – a command-line Clubhouse for computer people](https://late.sh/)
 * [2026-07-22, 01:17:26](https://news.ycombinator.com/item?id=49000600) - [Ten Steps Towards Happiness (2015)](http://hintjens.com/blog:99)
 * [2026-07-21, 23:33:31](https://news.ycombinator.com/item?id=48999825) - [It's a shame what's happened to radio](https://blog.jimgrey.net/2026/07/21/its-a-shame-whats-happened-to-radio-3/)
 * [2026-07-21, 22:35:24](https://news.ycombinator.com/item?id=48999291) - [Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA](https://fireworks.ai/blog/kimik3-fable)
+* [2026-07-21, 21:27:54](https://news.ycombinator.com/item?id=48998606) - [Gemini last models: temperature, top_p, and top_k are deprecated and ignored](https://ai.google.dev/gemini-api/docs/latest-model)
 * [2026-07-21, 21:13:20](https://news.ycombinator.com/item?id=48998404) - [\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok](https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok)
 * [2026-07-21, 21:09:25](https://news.ycombinator.com/item?id=48998362) - [A digestion of the Jacobian conjecture counterexample](https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/)
 * [2026-07-21, 20:09:52](https://news.ycombinator.com/item?id=48997548) - [OpenAI and Hugging Face address security incident during model evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident/)
@@ -30,6 +29,7 @@
 * [2026-07-18, 20:54:15](https://news.ycombinator.com/item?id=48962282) - [Cornell's Interactive Wall of Birds](https://academy.allaboutbirds.org/features/wallofbirds/?_hsmi=428996456)
 * [2026-07-18, 19:56:33](https://news.ycombinator.com/item?id=48961698) - [Intel Starts Shipping High-NA EUV Silicon](https://morethanmoore.substack.com/p/intel-starts-shipping-high-na-euv)
 * [2026-07-17, 11:00:04](https://news.ycombinator.com/item?id=48945804) - [ScreenWall – Turn old phones into synced widgets for your space](https://screenwall.app/)
+* [2026-07-10, 13:00:28](https://news.ycombinator.com/item?id=48859309) - [Why do you suck at juggling now?](https://pgadey.ca/notes/suck-at-juggling/)
 
 ## [Archives](archives/index.md)
 

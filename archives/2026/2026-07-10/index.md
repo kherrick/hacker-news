@@ -62,6 +62,7 @@
 * [2026-07-10, 13:11:30](https://news.ycombinator.com/item?id=48859439) - [How do you use Vim in the era of AI?](https://news.ycombinator.com/item?id=48859439)
 * [2026-07-10, 13:11:26](https://news.ycombinator.com/item?id=48859437) - [We Put an L7 Firewall in the Kernel](https://yeet.cx/blog/l7-firewall-in-the-kernel)
 * [2026-07-10, 13:07:38](https://news.ycombinator.com/item?id=48859387) - [Show HN: Runloom – Go-style coroutines for Python free-threaded](https://github.com/robertsdotpm/runloom)
+* [2026-07-10, 13:00:28](https://news.ycombinator.com/item?id=48859309) - [Why do you suck at juggling now?](https://pgadey.ca/notes/suck-at-juggling/)
 * [2026-07-10, 12:59:49](https://news.ycombinator.com/item?id=48859298) - [Europe's Largest Unions Demand Right to Cancel Work on Days Above 30C](https://novaramedia.com/2026/07/09/europes-largest-unions-demand-right-to-cancel-work-on-days-above-30c/)
 * [2026-07-10, 12:31:50](https://news.ycombinator.com/item?id=48858997) - [Ryanair Passenger Sucked Toward Broken Window After Midair Engine Failure](https://simpleflying.com/ryanair-thessaloniki-diversion-window-damage/)
 * [2026-07-10, 12:00:36](https://news.ycombinator.com/item?id=48858745) - [Laylo (YC S20) Is Hiring a Head of Finance](https://www.ycombinator.com/companies/laylo/jobs/qce41D2-head-of-finance)
