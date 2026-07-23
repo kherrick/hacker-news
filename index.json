@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-23, 20:15:31",
+      "https://news.ycombinator.com/item?id=49027426"
+    ],
+    [
+      "Big Tech Isn't Hiding $1.65T of Debt",
+      "https://finterm.ai/blog/big-tech-hidden-debt-fact-check.html"
+    ]
+  ],
+  [
+    [
       "2026-07-23, 19:26:01",
       "https://news.ycombinator.com/item?id=49026810"
     ],
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2026-07-23, 14:02:45",
-      "https://news.ycombinator.com/item?id=49021786"
-    ],
-    [
-      "Emacs Is a Lispboard",
-      "https://en.andros.dev/blog/06bfd107/emacs-is-a-lispboard/"
-    ]
-  ],
-  [
-    [
       "2026-07-23, 14:02:24",
       "https://news.ycombinator.com/item?id=49021783"
     ],
@@ -271,22 +271,22 @@
   ],
   [
     [
+      "2026-07-21, 07:10:49",
+      "https://news.ycombinator.com/item?id=48989065"
+    ],
+    [
+      "Escape Analysis in Go: Stack vs. Heap Allocations Explained",
+      "https://blog.jetbrains.com/go/2026/07/20/escape-analysis/"
+    ]
+  ],
+  [
+    [
       "2026-07-20, 20:54:56",
       "https://news.ycombinator.com/item?id=48984760"
     ],
     [
       "Converting Files into Minecraft Worlds",
       "https://wuemeli.com/blog/sulfur-part-1/"
-    ]
-  ],
-  [
-    [
-      "2026-07-20, 13:59:49",
-      "https://news.ycombinator.com/item?id=48978989"
-    ],
-    [
-      "Meta Garbage Collection: Using OCaml's GC to GC Rust",
-      "https://soteria-tools.com/blog/meta-garbage-collection"
     ]
   ],
   [
