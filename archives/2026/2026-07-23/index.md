@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-23](index.md)
 
+* [2026-07-23, 16:01:02](https://news.ycombinator.com/item?id=49023809) - [JEP 540: Simple JSON API (Now in Incubator)](https://openjdk.org/jeps/540)
 * [2026-07-23, 15:45:51](https://news.ycombinator.com/item?id=49023486) - [Free way to get your data out of ChatGPT Business accounts](https://github.com/Conradqh/scrapemychats)
 * [2026-07-23, 15:35:33](https://news.ycombinator.com/item?id=49023291) - [UK households free to install plug-in balcony solar panels from end of August](https://www.theguardian.com/money/2026/jul/23/uk-households-free-install-plug-in-balcony-solar-panels)
 * [2026-07-23, 15:18:40](https://news.ycombinator.com/item?id=49023016) - [Startup founders urge Trump not to shut off Chinese open weight AI](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992)
@@ -22,9 +23,11 @@
 * [2026-07-23, 14:23:51](https://news.ycombinator.com/item?id=49022137) - [Fields Medals 2026](https://www.mathunion.org/imu-awards/fields-medal/fields-medals-2026)
 * [2026-07-23, 14:17:45](https://news.ycombinator.com/item?id=49022040) - [Show HN: I made YAFL – a E2EE file handoff for AI agents](https://yafl.dev)
 * [2026-07-23, 14:17:40](https://news.ycombinator.com/item?id=49022038) - [Software rendering in 500 lines of bare C++](https://haqr.eu/tinyrenderer/)
+* [2026-07-23, 14:08:39](https://news.ycombinator.com/item?id=49021880) - [You can now run same OCI images as containers or Firecracker microVMs](https://github.com/pullrun/pullrun)
 * [2026-07-23, 14:07:38](https://news.ycombinator.com/item?id=49021868) - [Hybrid-Electric Aicraft Engine Targeting 30% Fuel Efficiency](https://www.rtx.com/news/news-center/2026/07/21/rtxs-pratt-whitney-canada-advances-hybrid-electric-technology-development)
 * [2026-07-23, 14:06:47](https://news.ycombinator.com/item?id=49021856) - [I Regret Migrating to Codeberg](https://xn--gckvb8fzb.com/i-regret-migrating-to-codeberg/)
 * [2026-07-23, 14:05:43](https://news.ycombinator.com/item?id=49021843) - [I Think You Might Be Fooling Yourself with AI](https://louwrentius.com/i-think-you-might-be-fooling-yourself-with-ai.html)
+* [2026-07-23, 14:02:45](https://news.ycombinator.com/item?id=49021786) - [Emacs Is a Lispboard](https://en.andros.dev/blog/06bfd107/emacs-is-a-lispboard/)
 * [2026-07-23, 14:02:24](https://news.ycombinator.com/item?id=49021783) - [Astronomers may have found the first exomoon](https://www.eso.org/public/news/eso2610/)
 * [2026-07-23, 13:55:10](https://news.ycombinator.com/item?id=49021647) - [Brow6el: A full-featured web browser for the terminal using Chromium](https://tangled.org/janantos.tngl.sh/brow6el)
 * [2026-07-23, 13:51:36](https://news.ycombinator.com/item?id=49021597) - [DARPA, U.S. Air Force fly AI-controlled F-16](https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16)

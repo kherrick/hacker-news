@@ -17,6 +17,7 @@
 * [2026-07-19, 19:44:44](https://news.ycombinator.com/item?id=48971128) - [Nvidia DGX Spark as a daily driver](https://daniel.lawrence.lu/blog/2026-07-15-dgx-spark-as-daily-driver/)
 * [2026-07-19, 19:27:16](https://news.ycombinator.com/item?id=48970991) - [Modder Runs GTA III Inside GTA: San Andreas on an In-Game TV](https://videocardz.com/newz/modder-runs-gta-iii-inside-gta-san-andreas-on-an-in-game-tv)
 * [2026-07-19, 19:13:29](https://news.ycombinator.com/item?id=48970894) - [Orion Browser by Kagi](https://orionbrowser.com/)
+* [2026-07-19, 19:06:44](https://news.ycombinator.com/item?id=48970844) - [How to Sell a Kettle](https://www.economist.com/business/2026/07/16/how-to-sell-a-kettle)
 * [2026-07-19, 18:57:01](https://news.ycombinator.com/item?id=48970772) - [HomeLab #1: MikroTik as a Home Router](https://justsomebody.dev/blog/mikrotik-home-router)
 * [2026-07-19, 18:47:29](https://news.ycombinator.com/item?id=48970684) - [Show HN: How much profit does your employer make per employee?](https://yourfairshare.info)
 * [2026-07-19, 18:42:19](https://news.ycombinator.com/item?id=48970650) - [Designing a 4D Digital Archive for Ikebana](https://ishiguro-lab.org/projects/designing-a-4d-digital-archive-for-ikebana/)
