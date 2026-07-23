@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-07-23, 02:28:23",
+      "https://news.ycombinator.com/item?id=49016099"
+    ],
+    [
+      "Restructuring GitHub's bug bounty program",
+      "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/"
+    ]
+  ],
+  [
+    [
+      "2026-07-23, 01:58:18",
+      "https://news.ycombinator.com/item?id=49015878"
+    ],
+    [
+      "Honey Bee Colony Monitoring via Audio IoT Sensors, Tensorgrams and RNNs",
+      "https://arxiv.org/abs/2607.20386"
+    ]
+  ],
+  [
+    [
       "2026-07-23, 01:33:12",
       "https://news.ycombinator.com/item?id=49015735"
     ],
     [
-      "Run large language models at home, BitTorrent‑style",
+      "Petals: Run LLMs at home, BitTorrent-style",
       "https://petals.dev/"
+    ]
+  ],
+  [
+    [
+      "2026-07-23, 01:16:14",
+      "https://news.ycombinator.com/item?id=49015639"
+    ],
+    [
+      "OpenAI's accidental cyberattack against Hugging Face is science fiction",
+      "https://simonwillison.net/2026/Jul/22/openai-cyberattack/"
     ]
   ],
   [
@@ -17,16 +47,6 @@
     [
       "Codeberg Bans Cryptocurrency Projects",
       "https://codeberg.org/Codeberg/org/pulls/1254"
-    ]
-  ],
-  [
-    [
-      "2026-07-22, 22:49:58",
-      "https://news.ycombinator.com/item?id=49014537"
-    ],
-    [
-      "Anthropomorphism in Children's Interactions with LLM Chatbots",
-      "https://arxiv.org/abs/2607.18250"
     ]
   ],
   [
@@ -51,32 +71,12 @@
   ],
   [
     [
-      "2026-07-22, 21:48:44",
-      "https://news.ycombinator.com/item?id=49013924"
-    ],
-    [
-      "All 253 Patterns from Christopher Alexander's a Pattern Language Summarized",
-      "https://claytondorge.com/patterns-list"
-    ]
-  ],
-  [
-    [
       "2026-07-22, 21:15:26",
       "https://news.ycombinator.com/item?id=49013538"
     ],
     [
       "Malleable Computing, Emacs, and You",
       "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-22, 21:00:26",
-      "https://news.ycombinator.com/item?id=49013356"
-    ],
-    [
-      "Safari Technology Preview 248 Released",
-      "https://webkit.org/blog/18162/release-notes-for-safari-technology-preview-248/"
     ]
   ],
   [
@@ -145,7 +145,7 @@
       "https://news.ycombinator.com/item?id=49010345"
     ],
     [
-      "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
+      "Terence Tao's ChatGPT conversation about the Jacobian conjecture counterexample",
       "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56"
     ]
   ],
@@ -261,12 +261,22 @@
   ],
   [
     [
-      "2026-07-20, 19:32:37",
-      "https://news.ycombinator.com/item?id=48983771"
+      "2026-07-20, 20:34:52",
+      "https://news.ycombinator.com/item?id=48984534"
     ],
     [
-      "NixOS is more complicated than you think but OpenCode fixed it",
-      "https://grigio.org/nixos-is-more-complicated-than-you-think-but-opencode-fixed-it/"
+      "ascdraw: Editor for ASCII/UTF-8 diagrams (in 144FPS)",
+      "https://github.com/exlee/ascdraw"
+    ]
+  ],
+  [
+    [
+      "2026-07-20, 07:32:39",
+      "https://news.ycombinator.com/item?id=48975395"
+    ],
+    [
+      "Taking OCaml and Eio for a Spin",
+      "https://mattjhall.co.uk/posts/taking-ocaml-eio-for-a-spin.html"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "What Rose Petals Teach Us about Induction",
       "https://www.oranlooney.com/post/rose-petals/"
-    ]
-  ],
-  [
-    [
-      "2026-07-17, 18:24:29",
-      "https://news.ycombinator.com/item?id=48950562"
-    ],
-    [
-      "How we made our LeRobot video reader up to 15× faster",
-      "https://www.eventual.ai/blog/how-we-made-our-lerobot-video-reader-up-to-15x-faster"
     ]
   ],
   [
