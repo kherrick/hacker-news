@@ -31,6 +31,7 @@
 * [2026-07-21, 18:08:38](https://news.ycombinator.com/item?id=48995923) - [YouTube System Design for Robotics Data Infrastructure](https://hebbianrobotics.com/blog/youtube-system-design-for-robotics-data-infrastructure)
 * [2026-07-21, 17:59:29](https://news.ycombinator.com/item?id=48995814) - [Greedy is optimal for single-pass semi-streaming matching](https://arxiv.org/abs/2607.14656)
 * [2026-07-21, 17:58:21](https://news.ycombinator.com/item?id=48995796) - [Apple Private Cloud Compute SoC 3 audit reports](https://support.apple.com/guide/certifications/apple-private-cloud-compute-soc-3-audit-apc95a31b9d8/web)
+* [2026-07-21, 17:51:57](https://news.ycombinator.com/item?id=48995712) - [The Unity CLI: manage Unity from your terminal](https://unity.com/blog/meet-the-unity-cli)
 * [2026-07-21, 17:34:42](https://news.ycombinator.com/item?id=48995507) - [Show HN: DocCharm – The help center that keeps itself up to date](https://doccharm.com/)
 * [2026-07-21, 17:30:01](https://news.ycombinator.com/item?id=48995444) - [Show HN: Imagin Raw – A 9MB Open-Source Alternative to Adobe Bridge for Mac](https://github.com/cristibaluta/Imagin-Raw)
 * [2026-07-21, 17:27:59](https://news.ycombinator.com/item?id=48995409) - [Firefox Containers Preview](https://blog.mozilla.org/en/firefox/firefox-containers-preview/)
