@@ -3,7 +3,6 @@
 * [2026-07-23, 05:40:20](https://news.ycombinator.com/item?id=49017344) - [Cruller: Bun's Zig Runtime, Continued on Zig 0.16](https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734)
 * [2026-07-23, 05:24:17](https://news.ycombinator.com/item?id=49017265) - [Amiga 1000: Ten years ahead of its time](https://dfarq.homeip.net/amiga-1000-ten-years-ahead-of-its-time/)
 * [2026-07-23, 02:28:23](https://news.ycombinator.com/item?id=49016099) - [Restructuring GitHub's bug bounty program](https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/)
-* [2026-07-23, 01:33:12](https://news.ycombinator.com/item?id=49015735) - [Petals: Run LLMs at home, BitTorrent-style](https://petals.dev/)
 * [2026-07-23, 01:14:53](https://news.ycombinator.com/item?id=49015635) - [Protecting our FLOSS commons from LLMs](https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html)
 * [2026-07-22, 21:55:34](https://news.ycombinator.com/item?id=49014007) - [Medici family mystery may be solved after more than 400 years](https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria)
 * [2026-07-22, 21:48:44](https://news.ycombinator.com/item?id=49013924) - [All 253 Patterns from Christopher Alexander's a Pattern Language Summarized](https://claytondorge.com/patterns-list)
@@ -29,6 +28,7 @@
 * [2026-07-20, 20:34:52](https://news.ycombinator.com/item?id=48984534) - [ascdraw: Editor for ASCII/UTF-8 diagrams (in 144FPS)](https://github.com/exlee/ascdraw)
 * [2026-07-20, 18:42:07](https://news.ycombinator.com/item?id=48983076) - [Making ASCII Art in Vim](https://alexyang.dev/vim-ascii-art/)
 * [2026-07-20, 11:50:01](https://news.ycombinator.com/item?id=48977463) - [Why malloc always does more than I asked for?](https://ssenthilnathan3.github.io/blog/malloc/)
+* [2026-07-16, 07:25:59](https://news.ycombinator.com/item?id=48931348) - [Computing Camera Rays](https://momentsingraphics.de/CameraRays.html)
 * [2026-07-15, 06:50:49](https://news.ycombinator.com/item?id=48917135) - [Nobody knows what a used GPU cluster is worth](https://ciphertalk.substack.com/p/nobody-knows-what-a-used-gpu-cluster)
 
 ## [Archives](archives/index.md)
