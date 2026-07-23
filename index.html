@@ -129,6 +129,211 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="49024691">
+          <h3>
+            <a
+              class="item"
+              href="https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all"
+              >What just happened to TheNumbers.com should worry us all</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-23 @ 16:53:33</span
+              ><span class="points-container"
+                >Points: <span class="points">63</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49024691"
+                  >Comments</a
+                ><span class="descendants">: 8</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49024620">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=49024620"
+              >Launch HN: Screenpipe (YC S26) – Power your agents by your 24/7
+              screen recording</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-23 @ 16:48:38</span
+              ><span class="points-container"
+                >Points: <span class="points">20</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49024620"
+                  >Comments</a
+                ><span class="descendants">: 12</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://screenpipe.com">https://screenpipe.com</a>), an
+              app that records your screen and audio locally (only!), and gives
+              AI agents a searchable memory of what you've seen, said, and
+              heard. This makes it easier to automate your repetitive tasks,
+              turn them into SOPs (Standard Operating Procedure) and so on.
+              <p>
+                I made a HN-style demo video at
+                <a
+                  href="https://www.tella.tv/video/build-your-ai-second-brain-with-screenpipe-e1j7"
+                  >https://www.tella.tv/video/build-your-ai-second-brain-with-s...</a
+                >
+                and there’s a marketing video at
+                <a href="https://www.youtube.com/watch?v=c1jV6E9pyug"
+                  >https://www.youtube.com/watch?v=c1jV6E9pyug</a
+                >.
+              </p>
+              <p>
+                I’ve been obsessed with this for a long time. I’ve been
+                maintaining a “second brain” since 2020, in which I would store
+                journals, handwritten notes, music I listen to, projects I'm
+                working on, conversations I have with people, personal CRM etc.
+                I experimented a lot of RAG in the early days with ParlAI,
+                hundreds of fine-tuned GPT2 models, and GPT3 (<a
+                  href="https://forum.obsidian.md/t/fine-tuning-openai-api-gpt3-on-your-second-brain-obsidian/21849/4"
+                  >https://forum.obsidian.md/t/fine-tuning-openai-api-gpt3-on-y...</a
+                >). Later I built Ava, the first Obsidian AI plugin, which grew
+                to a few thousands of users quickly. It then became Embedbase,
+                an API to make it easier to build AI apps powered by RAG.
+              </p>
+              <p>
+                What I learned from all this is how important it is for the
+                models to have context about what you’re doing on your computer,
+                in order to get them to do what you want.
+              </p>
+              <p>
+                In the early days there was fine tuning but it was too much
+                pain, then there was tool calling so that AI can access software
+                you use but still kinda not autonomous enough. needing micro
+                management. Then MCP came, but it felt too static, and non
+                technical users struggled to build and use MCP. Then we got
+                skills. Most recently we’ve seen Karpethy’s LLM-maintained wiki,
+                Garry's GBrain, etc., where an agent incrementally maintains a
+                persistent collection of Markdown pages. New sources update
+                entity pages, strengthen or contradict existing claims, and
+                improve a synthesis that compounds over time. I like this
+                pattern, but it still begins with someone selecting and
+                importing the sources. There is still no way AI can know what
+                you and your company are doing every day, across apps, not just
+                inside of apps.
+              </p>
+              <p>
+                Of course, not everyone wants this. But I do! I want AI to know
+                what I'm doing and never lose memory ever again, and I want it
+                to use the same software that humans do, without painful context
+                switches.
+              </p>
+              <p>
+                I started building Screenpipe for myself in 2024 - a CLI to
+                record your screen and plug this context into AI. An HN user
+                posted it in 2024 (<a
+                  href="https://news.ycombinator.com/item?id=41695840"
+                  >https://news.ycombinator.com/item?id=41695840</a
+                >) and that discussion influenced the product. The most useful
+                criticism concerned recording consent, local security, CPU
+                usage, signal-to-noise, and whether agents could act on top of
+                the data.
+              </p>
+              <p>
+                The naive implementation started from continuously recording
+                video and running OCR over every frame. But that creates
+                duplicate data, consumes substantial resources (it basically
+                turns your computer into a space heater!), and discards
+                structure the operating system already knows. Screenpipe now
+                instead listens for events such as app switches, clicks, typing
+                pauses, scrolling, and idle fallbacks. When something meaningful
+                changes, it pairs a screenshot with the operating system’s
+                accessibility tree at the same timestamp. OCR is used when
+                structured accessibility data is unavailable. We also capture
+                audio continuously, identify speakers and transcribe locally
+                through Parakeet/Whisper or using cloud models.
+              </p>
+              <p>
+                Everything is indexed in a local SQLite database, mp4 files, and
+                sometimes md files. An AI friendly API on port 3030 is open for
+                agents, with authentication and a MCP and skills.
+              </p>
+              <p>
+                Once Screenpipe has been up and running for a while, you can use
+                it through our built-in chat, Claude, ChatGPT, Hermes, Openclaw,
+                or any agent, to do things like:
+              </p>
+              <p>
+                - adding context to your current chat, e.g. "gather all context
+                about task X", then requiring less prompts to achieve your goal
+              </p>
+              <p>
+                - retrieve information, e.g. "retrieve the tasks i was working
+                on from 8 am to 4 pm, make a list of what got done and what's
+                left"
+              </p>
+              <p>
+                - create and maintain a personal wiki / second brain for your
+                agents: "every 1h organize everything i do in projects, people,
+                tasks, meetings in my Obsidian vault as markdown files and
+                folders"
+              </p>
+              <p>
+                - create automations: whenever i visit someone's profile on
+                linkedin, update my crm
+              </p>
+              <p>
+                - find automation opportunities: look at everything my team has
+                done this week and turn it into a list of automation
+                opportunities
+              </p>
+              <p>
+                Screenpipe data is stored locally, though we also offer an
+                enterprise plan to discover automation opportunities and for
+                that the company decides where the data lives. We built our own
+                AI PII model to redact sensitive information, it runs locally on
+                Apple MLX or Windows DirectML, we also support cloud
+                confidential inference for low end devices, although our local
+                models are meant to use &lt;1% CPU and &lt;400 mb RAM. Users can
+                set apps, windows, and urls to filter, in addition to browser
+                incognito mode.
+              </p>
+              <p>
+                We also support recording schedules and other privacy features.
+              </p>
+              <p>
+                Most of our codebase is written in Rust, MLX, Onnx, we like
+                cidre or direct C call for Apple APIs and windows-rs for Windows
+                API. We also experimentally support Linux.
+              </p>
+              <p>
+                We have a desktop app (<a
+                  href="https://screenpipe.com/how-to-install"
+                  >https://screenpipe.com/how-to-install</a
+                >) and a CLI:
+              </p>
+              <p></p>
+              <pre><code>  npx screenpipe record
+</code></pre>
+              You can run that without creating an account. All the code is
+              source-available at
+              <a href="https://github.com/screenpipe/screenpipe"
+                >https://github.com/screenpipe/screenpipe</a
+              >. We took the dreaded step of making our own Screenpipe
+              Commercial License. I know HN strongly prefers OSI open source
+              (MIT/Apache/etc.) but couldn’t find a sustainable way to keep
+              developing Screenpipe while companies were using it commercially
+              for free. So now personal non-commercial, nonprofit, educational,
+              and research use is free, but commercial use requires a license.
+              <p>
+                Versions released before the license change remain available
+                under MIT. We have a free tier, and other plans, including
+                Enterprise which helps companies find automation opportunities.
+              </p>
+              <p>
+                Would love to hear any feedback, things you've done with
+                screenpipe, or features you'd want
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="49023809">
           <h3>
             <a class="item" href="https://openjdk.org/jeps/540"
@@ -139,11 +344,11 @@
             <h4>
               <span>2026-07-23 @ 16:01:02</span
               ><span class="points-container"
-                >Points: <span class="points">30</span></span
+                >Points: <span class="points">39</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49023809"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
           </section>
@@ -158,13 +363,107 @@
             <h4>
               <span>2026-07-23 @ 15:45:51</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">40</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49023486"
                   >Comments</a
                 ><span class="descendants">: 3</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="49023427">
+          <h3>
+            <a class="item" href="https://github.com/onecli/onecli"
+              >Show HN: OneCLI – OSS credential gateway that keeps secrets out
+              of AI agents</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-23 @ 15:42:40</span
+              ><span class="points-container"
+                >Points: <span class="points">21</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49023427"
+                  >Comments</a
+                ><span class="descendants">: 11</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://onecli.sh/">https://onecli.sh/</a>). OneCLI is an
+              open source vault for AI Agents.
+              <p>
+                Traditional vaults are used to store your secrets and, on
+                demand, provide them to you all in a secure way, trusting the
+                person to keep them safe. We figured that in the agent's world,
+                this is not the case, as you don't know what happens with the
+                secret after it's delivered to the agent, or where it was saved.
+                Or maybe someone even manipulated them to hand them over...
+              </p>
+              <p>
+                From that understanding, we decided to build a network gateway
+                that sits between your AI agents and the services they call.
+                OneCLI matches the request by host/path, verifies the agent
+                should have access, swaps the placeholder for the real
+                credential, and forwards the request. the secrets set inside the
+                OneCLI vault, encrypted on rest, or could fetch in realtime from
+                your bitwarden / 1password wallets.
+              </p>
+              <p>
+                Demo -
+                <a href="https://www.youtube.com/watch?v=5e5pbPEzZfY"
+                  >https://www.youtube.com/watch?v=5e5pbPEzZfY</a
+                >.
+              </p>
+              <p>
+                We started working on this by accident, even though our careers
+                were in the security space. We were working on a devtool called
+                ChartDB, an open-source DB tool. When OpenClaw took off back in
+                January, we started using it to orchestrate agents on top of
+                ChartDB. We quickly understood there is a big issue around auth.
+                Agents need credentials to do real work, but to give them those
+                secrets would not be the best idea. they keep them in their
+                memory and also write them down to local files and their
+                sessions as plain text. And we knew that agents can easily be
+                fooled into giving up those API keys/secrets. So we needed some
+                way to control the agent and stop prompt injections from
+                tricking it into using its services for an attacker's benefit.
+                Not providing the keys to the agent + adding alerts or
+                human-in-the-loop for sensitive operations, in case someone
+                manipulates the agent, and access logs are being audited.
+              </p>
+              <p>
+                We use it ourselves daily. My OpenClaw runs my day across Attio,
+                Gmail, and my calendar, with human-in-the-loop approval on
+                sensitive actions. The approval is enforced at the network
+                layer, so it holds whether the agent goes through MCP, CLI,
+                curl, or code it wrote on the fly. Guy uses it to review PRs but
+                can't merge without his approval.
+              </p>
+              <p>
+                Companies mostly use it for coding agents currently, which get
+                creative about finding ways to elevate their permissions to
+                reach the goal. With OneCLI, it doesn't matter what the agent
+                finds: if the request isn't in policy, it will not go through.
+              </p>
+              <p>
+                The proxy is written in Rust, the dashboard is Next.js, and
+                secrets are AES-256-GCM encrypted at rest. Everything runs in a
+                Docker container. It works with any agent framework (Claude
+                Code, Codex, Cursor, OpenClaw, Hermes or anything that can set
+                an HTTPS_PROXY).
+              </p>
+              <p>
+                It won't stop an agent from misusing access it legitimately has,
+                so scope policies tightly!
+              </p>
+              <p>
+                happy to answer anything. We believe we can't trust the model to
+                behave and have to set deterministic rules to stay in control.
+                Comments welcome!
+              </p>
+            </div>
           </section>
         </section>
         <section id="49023291">
@@ -180,11 +479,11 @@
             <h4>
               <span>2026-07-23 @ 15:35:33</span
               ><span class="points-container"
-                >Points: <span class="points">47</span></span
+                >Points: <span class="points">52</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49023291"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 31</span></span
               >
             </h4>
           </section>
@@ -202,11 +501,11 @@
             <h4>
               <span>2026-07-23 @ 15:18:40</span
               ><span class="points-container"
-                >Points: <span class="points">286</span></span
+                >Points: <span class="points">333</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49023016"
                   >Comments</a
-                ><span class="descendants">: 287</span></span
+                ><span class="descendants">: 335</span></span
               >
             </h4>
             <div class="text">
@@ -220,35 +519,120 @@
             </div>
           </section>
         </section>
-        <section id="49022990">
+        <section id="49022911">
           <h3>
-            <a class="item" href="https://news.ycombinator.com/item?id=49022990"
-              >Ask HN: Is there a website that tracks excessive writes to SSDs
-              in OS/app betas?</a
+            <a class="item" href="https://github.com/palmier-io/palmier-pro"
+              >Show HN: Palmier Pro – open-source macOS video editor built for
+              AI</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-07-23 @ 15:16:31</span
+              <span>2026-07-23 @ 15:11:37</span
               ><span class="points-container"
                 >Points: <span class="points">22</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49022990"
+                ><a href="https://news.ycombinator.com/item?id=49022911"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
             <div class="text">
+              <a href="https://palmier.io">https://palmier.io</a>). We are
+              building Palmier Pro, an open source macOS video editor, with
+              built-in AI generation and a local MCP server that connects to
+              your agent. Here are a few demos:
               <p>
-                That way, people can choose whether they want to install various
-                software betas based on how much SSD wear they are willing to
-                accept.
+                - Making some AI transitions:
+                <a href="https://www.youtube.com/watch?v=hbM_-eR1GX4"
+                  >https://www.youtube.com/watch?v=hbM_-eR1GX4</a
+                >
               </p>
               <p>
-                And since this data would be made public and available in one
-                place, software developers would be more careful about excessive
-                logging in their betas.
+                - Multicam editing with Codex:
+                <a href="https://www.youtube.com/watch?v=SjS2q2LT1q8"
+                  >https://www.youtube.com/watch?v=SjS2q2LT1q8</a
+                >
               </p>
+              <p>
+                - Cutting long form clips into shorts:
+                <a href="https://www.youtube.com/watch?v=PR66eN2ouuQ"
+                  >https://www.youtube.com/watch?v=PR66eN2ouuQ</a
+                >
+              </p>
+              <p>
+                We built Palmier Pro as an internal tool when we were making AI
+                launch videos for other startups. The main problem it solved in
+                the beginning was the back-and-forth between AI generation
+                platform and video editor. The iteration loop was awkward: AI
+                videos → download → import to editor → edit → realize we need to
+                change the AI video → repeat. So we built a minimal video editor
+                where we could let Claude generate AI videos inside the editor.
+              </p>
+              <p>
+                As we gave more and more tools to the agent, we wanted to push
+                to see what else agents can do in the video editing space. So
+                today, your Claude/Codex can:
+              </p>
+              <p>- Manage projects inside Palmier Pro</p>
+              <p>
+                - Import media from a public URL or filesystem to the project,
+                and organize them in folders
+              </p>
+              <p>
+                - Search media (by embedding footages using SigLIP2 running
+                locally)
+              </p>
+              <p>- Edit the timeline (tracks/clips/keyframes operations)</p>
+              <p>- Generate images, videos, sound effects, captions, music</p>
+              <p>- Export videos</p>
+              <p>
+                There are two ways for LLMs to interact with the editor: by
+                connecting to the local MCP server, or using the in-app chat.
+                Both use the same tools and APIs exposed by the video editor.
+              </p>
+              <p>
+                We have seen people using MCP server to connect to their own
+                workflow to automate massive-scale video editing (e.g. given
+                this same podcast style, replicate it with other footages that I
+                have). We have also seen people using the in-app chat where it
+                lives closer to the editor UI, with lower latency for faster
+                iteration.
+              </p>
+              <p>
+                We don't believe that AI is going to replace human creativity
+                (nor should it), but where it can really help is in automating
+                the gruntwork in video editing. Most work in the editing
+                workflow is more mechanical than creative. Our vision is to
+                build a video editor where AI can enable more individuals to
+                create.
+              </p>
+              <p>
+                Throughout our experiments, AI is not very good at creative
+                editing, but given a pattern (transcription-based, beat-based),
+                it can do a decent job at rough cut.
+              </p>
+              <p>
+                We built Palmier Pro in Swift as an MVP because we wanted better
+                performance and minimal dependencies (no nodejs/webview), with
+                some native macOS APIs like SpeechAnalyzer and CoreML for us to
+                run some models locally. We use SpeechAnalyzer for local
+                transcriber, SigLip2 to embed video frames, beat_this for beat
+                detection, Silero VAD for silence detection, all running
+                locally. The tradeoff is that we don't support Linux or Windows
+                at the moment.
+              </p>
+              <p>
+                Palmier Pro is open source and free to try out (macOS 26 only at
+                the moment, though - we'll support more platforms over time, but
+                for now are focusing on iterating the core product).
+              </p>
+              <p>
+                No login required except for the AI generation features, which
+                route requests to our backend. We are offering free credits on
+                sign up so you can try out the AI generation as well.
+              </p>
+              <p>We'd love to hear your feedback!</p>
             </div>
           </section>
         </section>
@@ -262,7 +646,7 @@
             <h4>
               <span>2026-07-23 @ 15:02:27</span
               ><span class="points-container"
-                >Points: <span class="points">15</span></span
+                >Points: <span class="points">17</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49022790"
                   >Comments</a
@@ -284,7 +668,7 @@
             <h4>
               <span>2026-07-23 @ 14:55:45</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">31</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49022668"
                   >Comments</a
@@ -303,11 +687,11 @@
             <h4>
               <span>2026-07-23 @ 14:55:32</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49022663"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -323,33 +707,11 @@
             <h4>
               <span>2026-07-23 @ 14:53:34</span
               ><span class="points-container"
-                >Points: <span class="points">71</span></span
+                >Points: <span class="points">83</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49022634"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49022412">
-          <h3>
-            <a
-              class="item"
-              href="https://ourworldindata.org/how-much-energy-do-data-centers-and-artificial-intelligence-use"
-              >How much energy do data centers and artificial intelligence
-              use?</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-23 @ 14:40:30</span
-              ><span class="points-container"
-                >Points: <span class="points">55</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49022412"
-                  >Comments</a
-                ><span class="descendants">: 54</span></span
+                ><span class="descendants">: 45</span></span
               >
             </h4>
           </section>
@@ -365,36 +727,13 @@
             <h4>
               <span>2026-07-23 @ 14:37:54</span
               ><span class="points-container"
-                >Points: <span class="points">26</span></span
+                >Points: <span class="points">28</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49022371"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="49022302">
-          <h3>
-            <a class="item" href="https://github.com/lx2026/RelayBar"
-              >Show HN: macOS menu-bar manager for SSH port forwards</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-23 @ 14:32:53</span
-              ><span class="points-container"
-                >Points: <span class="points">24</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49022302"
-                  >Comments</a
-                ><span class="descendants">: 3</span></span
-              >
-            </h4>
-            <div class="text">
-              is a tiny native macOS menu-bar app for local SSH port forwards.
-              It has no external dependencies and runs natively.
-            </div>
           </section>
         </section>
         <section id="49022284">
@@ -408,11 +747,11 @@
             <h4>
               <span>2026-07-23 @ 14:31:26</span
               ><span class="points-container"
-                >Points: <span class="points">40</span></span
+                >Points: <span class="points">45</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49022284"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -429,11 +768,32 @@
             <h4>
               <span>2026-07-23 @ 14:24:43</span
               ><span class="points-container"
-                >Points: <span class="points">361</span></span
+                >Points: <span class="points">435</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49022152"
                   >Comments</a
-                ><span class="descendants">: 156</span></span
+                ><span class="descendants">: 198</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49022137">
+          <h3>
+            <a
+              class="item"
+              href="https://www.mathunion.org/imu-awards/fields-medal/fields-medals-2026"
+              >Fields Medals 2026</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-23 @ 14:23:51</span
+              ><span class="points-container"
+                >Points: <span class="points">36</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49022137"
+                  >Comments</a
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -448,11 +808,11 @@
             <h4>
               <span>2026-07-23 @ 14:17:40</span
               ><span class="points-container"
-                >Points: <span class="points">117</span></span
+                >Points: <span class="points">133</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49022038"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
           </section>
@@ -468,11 +828,11 @@
             <h4>
               <span>2026-07-23 @ 14:08:39</span
               ><span class="points-container"
-                >Points: <span class="points">16</span></span
+                >Points: <span class="points">35</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49021880"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -489,11 +849,11 @@
             <h4>
               <span>2026-07-23 @ 14:07:38</span
               ><span class="points-container"
-                >Points: <span class="points">40</span></span
+                >Points: <span class="points">50</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49021868"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 33</span></span
               >
             </h4>
           </section>
@@ -510,11 +870,11 @@
             <h4>
               <span>2026-07-23 @ 14:02:45</span
               ><span class="points-container"
-                >Points: <span class="points">27</span></span
+                >Points: <span class="points">33</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49021786"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -529,7 +889,7 @@
             <h4>
               <span>2026-07-23 @ 14:02:24</span
               ><span class="points-container"
-                >Points: <span class="points">128</span></span
+                >Points: <span class="points">141</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49021783"
                   >Comments</a
@@ -549,11 +909,11 @@
             <h4>
               <span>2026-07-23 @ 13:55:10</span
               ><span class="points-container"
-                >Points: <span class="points">28</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49021647"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -570,32 +930,11 @@
             <h4>
               <span>2026-07-23 @ 13:49:17</span
               ><span class="points-container"
-                >Points: <span class="points">29</span></span
+                >Points: <span class="points">33</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49021569"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49021361">
-          <h3>
-            <a
-              class="item"
-              href="https://mysk.blog/2026/07/23/macos-overwrite-app-executables/"
-              >Silent Replacement of Trusted macOS App Executables</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-23 @ 13:36:15</span
-              ><span class="points-container"
-                >Points: <span class="points">25</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49021361"
-                  >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -612,32 +951,11 @@
             <h4>
               <span>2026-07-23 @ 13:09:10</span
               ><span class="points-container"
-                >Points: <span class="points">344</span></span
+                >Points: <span class="points">380</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49020999"
                   >Comments</a
-                ><span class="descendants">: 155</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49017344">
-          <h3>
-            <a
-              class="item"
-              href="https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734"
-              >Cruller: Bun's Zig Runtime, Continued on Zig 0.16</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-23 @ 05:40:20</span
-              ><span class="points-container"
-                >Points: <span class="points">141</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49017344"
-                  >Comments</a
-                ><span class="descendants">: 98</span></span
+                ><span class="descendants">: 173</span></span
               >
             </h4>
           </section>
@@ -655,11 +973,11 @@
             <h4>
               <span>2026-07-23 @ 01:16:14</span
               ><span class="points-container"
-                >Points: <span class="points">225</span></span
+                >Points: <span class="points">245</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49015639"
                   >Comments</a
-                ><span class="descendants">: 187</span></span
+                ><span class="descendants">: 207</span></span
               >
             </h4>
             <div class="text">
@@ -685,30 +1003,11 @@
             <h4>
               <span>2026-07-21 @ 17:51:57</span
               ><span class="points-container"
-                >Points: <span class="points">73</span></span
+                >Points: <span class="points">75</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48995712"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48986223">
-          <h3>
-            <a class="item" href="https://goldberg.berkeley.edu/garden/"
-              >The Telegarden (1995-2004)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-20 @ 23:30:31</span
-              ><span class="points-container"
-                >Points: <span class="points">21</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48986223"
-                  >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
@@ -725,11 +1024,11 @@
             <h4>
               <span>2026-07-19 @ 19:06:44</span
               ><span class="points-container"
-                >Points: <span class="points">21</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48970844"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -746,11 +1045,11 @@
             <h4>
               <span>2026-07-19 @ 13:19:26</span
               ><span class="points-container"
-                >Points: <span class="points">49</span></span
+                >Points: <span class="points">59</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48968010"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -767,11 +1066,33 @@
             <h4>
               <span>2026-07-17 @ 09:29:52</span
               ><span class="points-container"
-                >Points: <span class="points">57</span></span
+                >Points: <span class="points">62</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48945139"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 35</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48919004">
+          <h3>
+            <a
+              class="item"
+              href="https://dl.acm.org/doi/10.1145/3800645.3813051"
+              >Floating Companion: Exploring Design Space for Soft Floating
+              Robots in Indoor</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-15 @ 11:02:10</span
+              ><span class="points-container"
+                >Points: <span class="points">10</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48919004"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
