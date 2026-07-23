@@ -68,6 +68,7 @@
 * [2026-07-21, 11:34:00](https://news.ycombinator.com/item?id=48990886) - [Israeli spyware vans infiltrate American streets and your phones](https://cybernews.com/privacy/us-police-israeli-spy-vans-falconet-cognyte/)
 * [2026-07-21, 10:04:20](https://news.ycombinator.com/item?id=48990219) - [Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot](https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html)
 * [2026-07-21, 08:44:23](https://news.ycombinator.com/item?id=48989701) - [Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge](https://qwen.ai/blog?id=qwen-image-3.0)
+* [2026-07-21, 07:01:24](https://news.ycombinator.com/item?id=48989006) - [ANSI escape injection in MCP servers: Hidden from humans, visible to AI](https://brightsec.com/research/detecting-ansi-escape-sequence-injection-in-mcp-servers-with-dast/)
 * [2026-07-21, 06:29:22](https://news.ycombinator.com/item?id=48988793) - [Linux kernel will support $ORIGIN, sort of](https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of)
 * [2026-07-21, 04:56:18](https://news.ycombinator.com/item?id=48988196) - [Do we just want slaves?](https://www.yashthapliyal.com/blog/do-we-just-want-slaves)
 * [2026-07-21, 04:55:06](https://news.ycombinator.com/item?id=48988189) - [Zoom is now Chrome only](https://zoom.us/test)

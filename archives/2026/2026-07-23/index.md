@@ -11,4 +11,5 @@
 * [2026-07-23, 01:58:18](https://news.ycombinator.com/item?id=49015878) - [Honey Bee Colony Monitoring via Audio IoT Sensors, Tensorgrams and RNNs](https://arxiv.org/abs/2607.20386)
 * [2026-07-23, 01:33:12](https://news.ycombinator.com/item?id=49015735) - [Run large language models at home, BitTorrent‑style](https://petals.dev/)
 * [2026-07-23, 01:16:14](https://news.ycombinator.com/item?id=49015639) - [OpenAI's accidental cyberattack against Hugging Face is science fiction](https://simonwillison.net/2026/Jul/22/openai-cyberattack/)
+* [2026-07-23, 01:14:53](https://news.ycombinator.com/item?id=49015635) - [Protecting our FLOSS commons from LLMs](https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html)
 * [2026-07-23, 01:06:56](https://news.ycombinator.com/item?id=49015588) - [Codeberg Bans Cryptocurrency Projects](https://codeberg.org/Codeberg/org/pulls/1254)
