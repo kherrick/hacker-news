@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-07-23, 18:29:22",
+      "https://news.ycombinator.com/item?id=49026059"
+    ],
+    [
+      "From Evaluation to Guardrails: What We Brought to ACM FAccT 2026",
+      "https://blog.mozilla.ai/from-evaluation-to-guardrails-what-we-brought-to-acm-facct-2026/"
+    ]
+  ],
+  [
+    [
+      "2026-07-23, 18:23:50",
+      "https://news.ycombinator.com/item?id=49025984"
+    ],
+    [
+      "Building on ATProto",
+      "https://lukekanies.com/writing/building-on-atproto/"
+    ]
+  ],
+  [
+    [
+      "2026-07-23, 18:13:03",
+      "https://news.ycombinator.com/item?id=49025831"
+    ],
+    [
+      "A solid-state “atomic channel” for separating rare earth elements",
+      "https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements"
+    ]
+  ],
+  [
+    [
+      "2026-07-23, 18:11:46",
+      "https://news.ycombinator.com/item?id=49025812"
+    ],
+    [
+      "Geekbench 7",
+      "https://www.geekbench.com/blog/2026/07/geekbench-7/"
+    ]
+  ],
+  [
+    [
       "2026-07-23, 17:06:22",
       "https://news.ycombinator.com/item?id=49024882"
     ],
@@ -95,7 +135,7 @@
       "https://news.ycombinator.com/item?id=49022911"
     ],
     [
-      "Show HN: Palmier Pro – open-source macOS video editor built for AI",
+      "Show HN: Palmier Pro – Open-source macOS video editor built for AI",
       "https://github.com/palmier-io/palmier-pro"
     ]
   ],
@@ -181,16 +221,6 @@
   ],
   [
     [
-      "2026-07-23, 14:08:39",
-      "https://news.ycombinator.com/item?id=49021880"
-    ],
-    [
-      "You can now run same OCI images as containers or Firecracker microVMs",
-      "https://github.com/pullrun/pullrun"
-    ]
-  ],
-  [
-    [
       "2026-07-23, 14:07:38",
       "https://news.ycombinator.com/item?id=49021868"
     ],
@@ -221,12 +251,12 @@
   ],
   [
     [
-      "2026-07-23, 13:55:10",
-      "https://news.ycombinator.com/item?id=49021647"
+      "2026-07-23, 13:51:36",
+      "https://news.ycombinator.com/item?id=49021597"
     ],
     [
-      "Brow6el: A full-featured web browser for the terminal using Chromium",
-      "https://tangled.org/janantos.tngl.sh/brow6el"
+      "DARPA, U.S. Air Force fly AI-controlled F-16",
+      "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16"
     ]
   ],
   [
@@ -251,16 +281,6 @@
   ],
   [
     [
-      "2026-07-23, 01:16:14",
-      "https://news.ycombinator.com/item?id=49015639"
-    ],
-    [
-      "OpenAI’s accidental attack against Hugging Face is science fiction that happened",
-      "https://simonwillison.net/2026/Jul/22/openai-cyberattack/"
-    ]
-  ],
-  [
-    [
       "2026-07-20, 13:59:49",
       "https://news.ycombinator.com/item?id=48978989"
     ],
@@ -277,26 +297,6 @@
     [
       "OpenStreetMap: Admin_level for All Countries",
       "https://wiki.openstreetmap.org/wiki/Tag:boundary%3Dadministrative#Table_:_Admin_level_for_all_countries"
-    ]
-  ],
-  [
-    [
-      "2026-07-17, 09:29:52",
-      "https://news.ycombinator.com/item?id=48945139"
-    ],
-    [
-      "Scanning for Pangram Errors",
-      "https://veryfineprint.substack.com/p/scanning-for-pangram-errors"
-    ]
-  ],
-  [
-    [
-      "2026-07-15, 11:02:10",
-      "https://news.ycombinator.com/item?id=48919004"
-    ],
-    [
-      "Floating Companion: Exploring Design Space for Soft Floating Robots in Indoor",
-      "https://dl.acm.org/doi/10.1145/3800645.3813051"
     ]
   ]
 ]
