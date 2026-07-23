@@ -129,26 +129,96 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="49026364">
+        <section id="49026810">
           <h3>
-            <a
-              class="item"
-              href="https://www.techdirt.com/2026/07/23/ice-illegally-scooped-up-medicaid-data-then-shared-it-with-palantir/"
-              >ICE Illegally Scooped Up Medicaid Data, Then Shared It with
-              Palantir</a
+            <a class="item" href="https://news.ycombinator.com/item?id=49026810"
+              >Show HN: Echo – Fable-level results at 1/3 the cost using
+              open-weight models</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-07-23 @ 18:51:40</span
+              <span>2026-07-23 @ 19:26:01</span
               ><span class="points-container"
-                >Points: <span class="points">52</span></span
+                >Points: <span class="points">60</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49026364"
+                ><a href="https://news.ycombinator.com/item?id=49026810"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
+            <div class="text">
+              <a href="https://echo.tracerml.ai/">https://echo.tracerml.ai/</a
+              >), an experiment in making one AI system out of a pool of
+              open-weight models rather than choosing a single model and using
+              it for every task.
+              <p>
+                It started with a simple experiment. I took a group of models,
+                including GLM-5.2, Kimi K2.7 and others, and ran them on the
+                same evaluations. Then I measured what would happen if, for each
+                problem, you somehow knew in advance which models would be
+                useful and how their outputs should be combined.
+              </p>
+              <p>
+                That hypothetical system performed substantially better than any
+                individual model in the pool. Of course, it is not something you
+                can actually deploy because it relies on knowing which decisions
+                were good after seeing the result. Echo is my attempt to recover
+                some of that advantage without having that information in
+                advance.
+              </p>
+              <p>
+                For each request, Echo decides how much computation to allocate,
+                which models should participate, and how their work should be
+                combined. Some prompts may only need a relatively small amount
+                of inference, while others benefit from multiple models working
+                on different parts of the problem.
+              </p>
+              <p>
+                One thing that surprised me while building it was how
+                complementary the models are. A model that is clearly weaker
+                overall can still be extremely useful on particular problems or
+                as part of a combination.
+              </p>
+              <p>
+                On my first evaluation mix, Echo consistently performed better
+                than the best individual model in its pool. It also reached
+                roughly the same aggregate result as Fable, which I used as one
+                of the stronger comparison systems, at around one third of the
+                inference cost.
+              </p>
+              <p>
+                There are still some cases where Echo makes the wrong allocation
+                or combination decision. I’m currently spending a lot of time
+                understanding those failures, as well as testing whether the
+                same approach holds up on coding and agentic tasks where
+                measuring the quality of each decision becomes much harder.
+              </p>
+              <p>
+                I built a chat interface (echo.tracerml.ai) and an
+                OpenAI-compatible API (<a
+                  href="https://echo.tracerml.ai/docs/api"
+                  >https://echo.tracerml.ai/docs/api</a
+                >) so the system can be tested outside the evaluation setup.
+              </p>
+              <p>
+                Here is a short/high level video on how it works:
+                <a href="https://www.youtube.com/watch?v=lJFJSvOdXhg"
+                  >https://www.youtube.com/watch?v=lJFJSvOdXhg</a
+                >
+              </p>
+              <p>
+                I wrote up the evaluation methodology, individual model results,
+                costs and current limitations here:
+                <a href="https://echo.tracerml.ai/eval"
+                  >https://echo.tracerml.ai/eval</a
+                >
+              </p>
+              <p>
+                I would love for you to try it! Especially if you hit any weird
+                failure cases or places where the allocation looks unintuitive.
+              </p>
+            </div>
           </section>
         </section>
         <section id="49026059">
@@ -164,7 +234,7 @@
             <h4>
               <span>2026-07-23 @ 18:29:22</span
               ><span class="points-container"
-                >Points: <span class="points">6</span></span
+                >Points: <span class="points">8</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49026059"
                   >Comments</a
@@ -185,11 +255,11 @@
             <h4>
               <span>2026-07-23 @ 18:23:50</span
               ><span class="points-container"
-                >Points: <span class="points">58</span></span
+                >Points: <span class="points">68</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49025984"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 26</span></span
               >
             </h4>
           </section>
@@ -207,7 +277,7 @@
             <h4>
               <span>2026-07-23 @ 18:13:03</span
               ><span class="points-container"
-                >Points: <span class="points">29</span></span
+                >Points: <span class="points">36</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49025831"
                   >Comments</a
@@ -228,11 +298,11 @@
             <h4>
               <span>2026-07-23 @ 18:11:46</span
               ><span class="points-container"
-                >Points: <span class="points">16</span></span
+                >Points: <span class="points">20</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49025812"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 20</span></span
               >
             </h4>
           </section>
@@ -248,11 +318,11 @@
             <h4>
               <span>2026-07-23 @ 17:06:22</span
               ><span class="points-container"
-                >Points: <span class="points">27</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49024882"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
@@ -269,11 +339,11 @@
             <h4>
               <span>2026-07-23 @ 16:53:33</span
               ><span class="points-container"
-                >Points: <span class="points">170</span></span
+                >Points: <span class="points">182</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49024691"
                   >Comments</a
-                ><span class="descendants">: 62</span></span
+                ><span class="descendants">: 74</span></span
               >
             </h4>
           </section>
@@ -290,11 +360,11 @@
             <h4>
               <span>2026-07-23 @ 16:49:57</span
               ><span class="points-container"
-                >Points: <span class="points">95</span></span
+                >Points: <span class="points">110</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49024643"
                   >Comments</a
-                ><span class="descendants">: 64</span></span
+                ><span class="descendants">: 73</span></span
               >
             </h4>
           </section>
@@ -310,11 +380,11 @@
             <h4>
               <span>2026-07-23 @ 16:48:38</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49024620"
                   >Comments</a
-                ><span class="descendants">: 35</span></span
+                ><span class="descendants">: 36</span></span
               >
             </h4>
             <div class="text">
@@ -493,11 +563,11 @@
             <h4>
               <span>2026-07-23 @ 16:01:02</span
               ><span class="points-container"
-                >Points: <span class="points">67</span></span
+                >Points: <span class="points">72</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49023809"
                   >Comments</a
-                ><span class="descendants">: 45</span></span
+                ><span class="descendants">: 56</span></span
               >
             </h4>
           </section>
@@ -512,7 +582,7 @@
             <h4>
               <span>2026-07-23 @ 15:45:51</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">63</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49023486"
                   >Comments</a
@@ -532,11 +602,11 @@
             <h4>
               <span>2026-07-23 @ 15:42:40</span
               ><span class="points-container"
-                >Points: <span class="points">49</span></span
+                >Points: <span class="points">54</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49023427"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
             <div class="text">
@@ -628,11 +698,11 @@
             <h4>
               <span>2026-07-23 @ 15:18:48</span
               ><span class="points-container"
-                >Points: <span class="points">99</span></span
+                >Points: <span class="points">113</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49023019"
                   >Comments</a
-                ><span class="descendants">: 79</span></span
+                ><span class="descendants">: 91</span></span
               >
             </h4>
           </section>
@@ -650,11 +720,11 @@
             <h4>
               <span>2026-07-23 @ 15:18:40</span
               ><span class="points-container"
-                >Points: <span class="points">503</span></span
+                >Points: <span class="points">543</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49023016"
                   >Comments</a
-                ><span class="descendants">: 485</span></span
+                ><span class="descendants">: 510</span></span
               >
             </h4>
             <div class="text">
@@ -679,7 +749,7 @@
             <h4>
               <span>2026-07-23 @ 15:11:37</span
               ><span class="points-container"
-                >Points: <span class="points">57</span></span
+                >Points: <span class="points">64</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49022911"
                   >Comments</a
@@ -785,28 +855,6 @@
             </div>
           </section>
         </section>
-        <section id="49022668">
-          <h3>
-            <a
-              class="item"
-              href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6959699"
-              >Encryption and Globalization 15 Years Later: E2EE and the "Going
-              Dark" Debate</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-23 @ 14:55:45</span
-              ><span class="points-container"
-                >Points: <span class="points">42</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49022668"
-                  >Comments</a
-                ><span class="descendants">: 16</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="49022663">
           <h3>
             <a class="item" href="https://eliemichel.github.io/LearnWebGPU/"
@@ -817,7 +865,7 @@
             <h4>
               <span>2026-07-23 @ 14:55:32</span
               ><span class="points-container"
-                >Points: <span class="points">50</span></span
+                >Points: <span class="points">55</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49022663"
                   >Comments</a
@@ -837,11 +885,11 @@
             <h4>
               <span>2026-07-23 @ 14:53:34</span
               ><span class="points-container"
-                >Points: <span class="points">124</span></span
+                >Points: <span class="points">131</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49022634"
                   >Comments</a
-                ><span class="descendants">: 72</span></span
+                ><span class="descendants">: 74</span></span
               >
             </h4>
           </section>
@@ -857,11 +905,11 @@
             <h4>
               <span>2026-07-23 @ 14:31:26</span
               ><span class="points-container"
-                >Points: <span class="points">64</span></span
+                >Points: <span class="points">67</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49022284"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 29</span></span
               >
             </h4>
           </section>
@@ -878,11 +926,32 @@
             <h4>
               <span>2026-07-23 @ 14:24:43</span
               ><span class="points-container"
-                >Points: <span class="points">653</span></span
+                >Points: <span class="points">699</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49022152"
                   >Comments</a
-                ><span class="descendants">: 324</span></span
+                ><span class="descendants">: 347</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49022137">
+          <h3>
+            <a
+              class="item"
+              href="https://www.mathunion.org/imu-awards/fields-medal/fields-medals-2026"
+              >Fields Medals 2026</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-23 @ 14:23:51</span
+              ><span class="points-container"
+                >Points: <span class="points">79</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49022137"
+                  >Comments</a
+                ><span class="descendants">: 26</span></span
               >
             </h4>
           </section>
@@ -897,11 +966,11 @@
             <h4>
               <span>2026-07-23 @ 14:17:40</span
               ><span class="points-container"
-                >Points: <span class="points">184</span></span
+                >Points: <span class="points">192</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49022038"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 32</span></span
               >
             </h4>
           </section>
@@ -918,11 +987,11 @@
             <h4>
               <span>2026-07-23 @ 14:07:38</span
               ><span class="points-container"
-                >Points: <span class="points">70</span></span
+                >Points: <span class="points">72</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49021868"
                   >Comments</a
-                ><span class="descendants">: 50</span></span
+                ><span class="descendants">: 59</span></span
               >
             </h4>
           </section>
@@ -939,11 +1008,11 @@
             <h4>
               <span>2026-07-23 @ 14:02:45</span
               ><span class="points-container"
-                >Points: <span class="points">58</span></span
+                >Points: <span class="points">63</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49021786"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -958,11 +1027,11 @@
             <h4>
               <span>2026-07-23 @ 14:02:24</span
               ><span class="points-container"
-                >Points: <span class="points">159</span></span
+                >Points: <span class="points">165</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49021783"
                   >Comments</a
-                ><span class="descendants">: 56</span></span
+                ><span class="descendants">: 60</span></span
               >
             </h4>
           </section>
@@ -979,11 +1048,11 @@
             <h4>
               <span>2026-07-23 @ 13:51:36</span
               ><span class="points-container"
-                >Points: <span class="points">89</span></span
+                >Points: <span class="points">110</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49021597"
                   >Comments</a
-                ><span class="descendants">: 83</span></span
+                ><span class="descendants">: 99</span></span
               >
             </h4>
           </section>
@@ -1000,11 +1069,11 @@
             <h4>
               <span>2026-07-23 @ 13:09:10</span
               ><span class="points-container"
-                >Points: <span class="points">453</span></span
+                >Points: <span class="points">470</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49020999"
                   >Comments</a
-                ><span class="descendants">: 219</span></span
+                ><span class="descendants">: 229</span></span
               >
             </h4>
           </section>
@@ -1020,7 +1089,7 @@
             <h4>
               <span>2026-07-22 @ 14:39:10</span
               ><span class="points-container"
-                >Points: <span class="points">12</span></span
+                >Points: <span class="points">17</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49007574"
                   >Comments</a
@@ -1123,11 +1192,11 @@
             <h4>
               <span>2026-07-20 @ 20:54:56</span
               ><span class="points-container"
-                >Points: <span class="points">13</span></span
+                >Points: <span class="points">21</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48984760"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -1144,7 +1213,7 @@
             <h4>
               <span>2026-07-20 @ 13:59:49</span
               ><span class="points-container"
-                >Points: <span class="points">14</span></span
+                >Points: <span class="points">17</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48978989"
                   >Comments</a
@@ -1165,11 +1234,11 @@
             <h4>
               <span>2026-07-19 @ 13:19:26</span
               ><span class="points-container"
-                >Points: <span class="points">80</span></span
+                >Points: <span class="points">84</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48968010"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
