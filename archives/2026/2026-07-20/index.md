@@ -13,6 +13,7 @@
 * [2026-07-20, 20:12:19](https://news.ycombinator.com/item?id=48984270) - [I wrote an bash enumerator because I was sick of xargs](https://numerlab.org/2025/07/20/bashumerate-enumerator/)
 * [2026-07-20, 20:10:44](https://news.ycombinator.com/item?id=48984254) - [Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco](https://vincentwoo.com/3d/grace_cathedral/)
 * [2026-07-20, 20:08:45](https://news.ycombinator.com/item?id=48984231) - [The Power of Awareness: Overcoming Surveillance Capitalism](https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/)
+* [2026-07-20, 19:32:37](https://news.ycombinator.com/item?id=48983771) - [NixOS is more complicated than you think but OpenCode fixed it](https://grigio.org/nixos-is-more-complicated-than-you-think-but-opencode-fixed-it/)
 * [2026-07-20, 19:03:37](https://news.ycombinator.com/item?id=48983382) - [Human mathematicians are being outcounterexampled](https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/)
 * [2026-07-20, 18:43:55](https://news.ycombinator.com/item?id=48983108) - [Safety and alignment in an era of long-horizon models](https://openai.com/index/safety-alignment-long-horizon-models/)
 * [2026-07-20, 18:16:08](https://news.ycombinator.com/item?id=48982681) - [Nativ: Run frontier open models locally on your Mac](https://blaizzy.github.io/nativ/)

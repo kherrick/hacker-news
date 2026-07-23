@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-23, 01:33:12](https://news.ycombinator.com/item?id=49015735) - [Run large language models at home, BitTorrent‑style](https://petals.dev/)
+* [2026-07-23, 01:06:56](https://news.ycombinator.com/item?id=49015588) - [Codeberg Bans Cryptocurrency Projects](https://codeberg.org/Codeberg/org/pulls/1254)
 * [2026-07-22, 22:49:58](https://news.ycombinator.com/item?id=49014537) - [Anthropomorphism in Children's Interactions with LLM Chatbots](https://arxiv.org/abs/2607.18250)
 * [2026-07-22, 21:55:34](https://news.ycombinator.com/item?id=49014007) - [Medici family mystery may be solved after more than 400 years](https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria)
 * [2026-07-22, 21:54:30](https://news.ycombinator.com/item?id=49013995) - [Any text-to-SQL benchmark should address difficulties of real-world data stores](https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/)
@@ -24,11 +26,9 @@
 * [2026-07-22, 12:49:45](https://news.ycombinator.com/item?id=49005973) - [Businesses with ugly AI menu redesigns](https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/)
 * [2026-07-22, 12:36:08](https://news.ycombinator.com/item?id=49005787) - [The startup's Postgres survival guide](https://hatchet.run/blog/postgres-survival-guide)
 * [2026-07-22, 12:32:48](https://news.ycombinator.com/item?id=49005747) - [So Reddit has decided that plain HTML is unsafe](https://www.cole-k.com/2026/07/21/reddit/)
-* [2026-07-20, 07:32:39](https://news.ycombinator.com/item?id=48975395) - [Taking OCaml and Eio for a Spin](https://mattjhall.co.uk/posts/taking-ocaml-eio-for-a-spin.html)
-* [2026-07-19, 12:20:56](https://news.ycombinator.com/item?id=48967506) - [MemoryPack: Zero encoding extreme performance binary serializer for C#](https://github.com/Cysharp/MemoryPack)
+* [2026-07-20, 19:32:37](https://news.ycombinator.com/item?id=48983771) - [NixOS is more complicated than you think but OpenCode fixed it](https://grigio.org/nixos-is-more-complicated-than-you-think-but-opencode-fixed-it/)
 * [2026-07-18, 14:04:10](https://news.ycombinator.com/item?id=48958266) - [What Rose Petals Teach Us about Induction](https://www.oranlooney.com/post/rose-petals/)
 * [2026-07-17, 18:24:29](https://news.ycombinator.com/item?id=48950562) - [How we made our LeRobot video reader up to 15× faster](https://www.eventual.ai/blog/how-we-made-our-lerobot-video-reader-up-to-15x-faster)
-* [2026-07-15, 15:15:27](https://news.ycombinator.com/item?id=48922144) - [Museum of the Human Web](https://museum.parallel.ai/introduction?era=modern)
 * [2026-07-15, 06:50:49](https://news.ycombinator.com/item?id=48917135) - [Nobody knows what a used GPU cluster is worth](https://ciphertalk.substack.com/p/nobody-knows-what-a-used-gpu-cluster)
 
 ## [Archives](archives/index.md)
