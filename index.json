@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2026-07-23, 18:29:22",
-      "https://news.ycombinator.com/item?id=49026059"
+      "2026-07-23, 19:00:34",
+      "https://news.ycombinator.com/item?id=49026482"
     ],
     [
-      "From Evaluation to Guardrails: What We Brought to ACM FAccT 2026",
-      "https://blog.mozilla.ai/from-evaluation-to-guardrails-what-we-brought-to-acm-facct-2026/"
+      "Selfie for sign-in: a new, easy way to access your Google Account",
+      "https://blog.google/innovation-and-ai/technology/safety-security/selfie-video-sign-in/"
     ]
   ],
   [
@@ -97,16 +97,6 @@
     [
       "JEP 540: Simple JSON API (Now in Incubator)",
       "https://openjdk.org/jeps/540"
-    ]
-  ],
-  [
-    [
-      "2026-07-23, 15:45:51",
-      "https://news.ycombinator.com/item?id=49023486"
-    ],
-    [
-      "Free way to get your data out of ChatGPT Business accounts",
-      "https://github.com/Conradqh/scrapemychats"
     ]
   ],
   [
@@ -211,6 +201,16 @@
   ],
   [
     [
+      "2026-07-23, 14:02:45",
+      "https://news.ycombinator.com/item?id=49021786"
+    ],
+    [
+      "Emacs Is a Lispboard",
+      "https://en.andros.dev/blog/06bfd107/emacs-is-a-lispboard/"
+    ]
+  ],
+  [
+    [
       "2026-07-23, 14:02:24",
       "https://news.ycombinator.com/item?id=49021783"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2026-07-20, 20:16:00",
+      "https://news.ycombinator.com/item?id=48984312"
+    ],
+    [
+      "Hitchcock and Herrmann: The Friendship and Film Scores That Changed Cinema",
+      "https://www.lrb.co.uk/the-paper/v48/n13/jonathan-coe/where-was-the-drum-kit"
+    ]
+  ],
+  [
+    [
       "2026-07-20, 13:59:49",
       "https://news.ycombinator.com/item?id=48978989"
     ],
     [
       "Meta Garbage Collection: Using OCaml's GC to GC Rust",
       "https://soteria-tools.com/blog/meta-garbage-collection"
-    ]
-  ],
-  [
-    [
-      "2026-07-19, 13:19:26",
-      "https://news.ycombinator.com/item?id=48968010"
-    ],
-    [
-      "OpenStreetMap: Admin_level for All Countries",
-      "https://wiki.openstreetmap.org/wiki/Tag:boundary%3Dadministrative#Table_:_Admin_level_for_all_countries"
     ]
   ]
 ]
