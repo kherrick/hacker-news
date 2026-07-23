@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-07-23](index.md)
 
+* [2026-07-23, 18:29:22](https://news.ycombinator.com/item?id=49026059) - [From Evaluation to Guardrails: What We Brought to ACM FAccT 2026](https://blog.mozilla.ai/from-evaluation-to-guardrails-what-we-brought-to-acm-facct-2026/)
+* [2026-07-23, 18:23:50](https://news.ycombinator.com/item?id=49025984) - [Building on ATProto](https://lukekanies.com/writing/building-on-atproto/)
+* [2026-07-23, 18:13:03](https://news.ycombinator.com/item?id=49025831) - [A solid-state “atomic channel” for separating rare earth elements](https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements)
+* [2026-07-23, 18:11:46](https://news.ycombinator.com/item?id=49025812) - [Geekbench 7](https://www.geekbench.com/blog/2026/07/geekbench-7/)
 * [2026-07-23, 17:06:22](https://news.ycombinator.com/item?id=49024882) - [Show HN: Claude-thermos – keeps your Claude session warm for you](https://github.com/izeigerman/claude-thermos)
 * [2026-07-23, 16:53:33](https://news.ycombinator.com/item?id=49024691) - [What just happened to TheNumbers.com should worry us all](https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all)
 * [2026-07-23, 16:49:57](https://news.ycombinator.com/item?id=49024643) - [The arguments against open source AI are bad](https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/)
