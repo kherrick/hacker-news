@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-07-22](index.md)
 
+* [2026-07-22, 23:18:10](https://news.ycombinator.com/item?id=49014798) - [Why I'm building a note taking app without AI](https://withdocket.com/blog/why-im-building-a-note-taking-app-without-ai)
 * [2026-07-22, 22:49:58](https://news.ycombinator.com/item?id=49014537) - [Anthropomorphism in Children's Interactions with LLM Chatbots](https://arxiv.org/abs/2607.18250)
 * [2026-07-22, 22:20:00](https://news.ycombinator.com/item?id=49014246) - [Show HN: ValuePair – a friendship app that cares about values first](https://valuepair.app)
 * [2026-07-22, 22:09:41](https://news.ycombinator.com/item?id=49014143) - [Fretboard Memorisation with Modular Arithmetic](https://ohaodha.ie/blog/fretboard-memorisation-with-modular-arithmetic/)
 * [2026-07-22, 21:55:34](https://news.ycombinator.com/item?id=49014007) - [Medici family mystery may be solved after more than 400 years](https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria)
 * [2026-07-22, 21:54:30](https://news.ycombinator.com/item?id=49013995) - [Any text-to-SQL benchmark should address difficulties of real-world data stores](https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/)
+* [2026-07-22, 21:48:44](https://news.ycombinator.com/item?id=49013924) - [All 253 Patterns from Christopher Alexander's a Pattern Language Summarized](https://claytondorge.com/patterns-list)
 * [2026-07-22, 21:15:26](https://news.ycombinator.com/item?id=49013538) - [Malleable Computing, Emacs, and You](http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html)
 * [2026-07-22, 21:00:26](https://news.ycombinator.com/item?id=49013356) - [Safari Technology Preview 248 Released](https://webkit.org/blog/18162/release-notes-for-safari-technology-preview-248/)
 * [2026-07-22, 20:33:44](https://news.ycombinator.com/item?id=49013036) - [I Inspected My Take-Home Interview Project. It Was a Whole Operation](https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/)
