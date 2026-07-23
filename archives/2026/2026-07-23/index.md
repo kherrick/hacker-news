@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-07-23](index.md)
 
+* [2026-07-23, 16:53:33](https://news.ycombinator.com/item?id=49024691) - [What just happened to TheNumbers.com should worry us all](https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all)
+* [2026-07-23, 16:48:38](https://news.ycombinator.com/item?id=49024620) - [Launch HN: Screenpipe (YC S26) – Power your agents by your 24/7 screen recording](https://news.ycombinator.com/item?id=49024620)
 * [2026-07-23, 16:01:02](https://news.ycombinator.com/item?id=49023809) - [JEP 540: Simple JSON API (Now in Incubator)](https://openjdk.org/jeps/540)
 * [2026-07-23, 15:45:51](https://news.ycombinator.com/item?id=49023486) - [Free way to get your data out of ChatGPT Business accounts](https://github.com/Conradqh/scrapemychats)
+* [2026-07-23, 15:42:40](https://news.ycombinator.com/item?id=49023427) - [Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents](https://github.com/onecli/onecli)
 * [2026-07-23, 15:35:33](https://news.ycombinator.com/item?id=49023291) - [UK households free to install plug-in balcony solar panels from end of August](https://www.theguardian.com/money/2026/jul/23/uk-households-free-install-plug-in-balcony-solar-panels)
 * [2026-07-23, 15:18:40](https://news.ycombinator.com/item?id=49023016) - [Startup founders urge Trump not to shut off Chinese open weight AI](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992)
 * [2026-07-23, 15:16:31](https://news.ycombinator.com/item?id=49022990) - [Ask HN: Is there a website that tracks excessive writes to SSDs in OS/app betas?](https://news.ycombinator.com/item?id=49022990)
+* [2026-07-23, 15:11:37](https://news.ycombinator.com/item?id=49022911) - [Show HN: Palmier Pro – open-source macOS video editor built for AI](https://github.com/palmier-io/palmier-pro)
 * [2026-07-23, 15:05:44](https://news.ycombinator.com/item?id=49022838) - [Cross-entropy comparison of LLM responses reveals Kimi's similarity to Claude](https://typebulb.com/u/lab/you-re-relatively-right/full)
 * [2026-07-23, 15:02:27](https://news.ycombinator.com/item?id=49022790) - [NerdLens: Mirror your computer with cardboard VR](https://github.com/ThatXliner/NerdLens)
 * [2026-07-23, 14:55:45](https://news.ycombinator.com/item?id=49022668) - [Encryption and Globalization 15 Years Later: E2EE and the \"Going Dark\" Debate](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6959699)
