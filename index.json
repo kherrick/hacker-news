@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-23, 18:51:40",
+      "https://news.ycombinator.com/item?id=49026364"
+    ],
+    [
+      "ICE Illegally Scooped Up Medicaid Data, Then Shared It with Palantir",
+      "https://www.techdirt.com/2026/07/23/ice-illegally-scooped-up-medicaid-data-then-shared-it-with-palantir/"
+    ]
+  ],
+  [
+    [
       "2026-07-23, 18:29:22",
       "https://news.ycombinator.com/item?id=49026059"
     ],
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=49024620"
     ],
     [
-      "Launch HN: Screenpipe (YC S26) – Power your agents by your 24/7 screen recording",
+      "Launch HN: Screenpipe (YC S26) – Record how you work and turn that into agents",
       "https://news.ycombinator.com/item?id=49024620"
     ]
   ],
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2026-07-23, 14:37:54",
-      "https://news.ycombinator.com/item?id=49022371"
-    ],
-    [
-      "Show HN: Whetuu – a zero-config cross-shell prompt written in Zig",
-      "https://yamafaktory.github.io/whetuu/"
-    ]
-  ],
-  [
-    [
       "2026-07-23, 14:31:26",
       "https://news.ycombinator.com/item?id=49022284"
     ],
@@ -197,16 +197,6 @@
     [
       "Writing by hand is good for your brain",
       "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your"
-    ]
-  ],
-  [
-    [
-      "2026-07-23, 14:23:51",
-      "https://news.ycombinator.com/item?id=49022137"
-    ],
-    [
-      "Fields Medals 2026",
-      "https://www.mathunion.org/imu-awards/fields-medal/fields-medals-2026"
     ]
   ],
   [
@@ -261,22 +251,32 @@
   ],
   [
     [
-      "2026-07-23, 13:49:17",
-      "https://news.ycombinator.com/item?id=49021569"
-    ],
-    [
-      "What happens when the information runs out",
-      "https://blog.jimgrey.net/2026/06/30/what-happens-when-the-information-runs-out/"
-    ]
-  ],
-  [
-    [
       "2026-07-23, 13:09:10",
       "https://news.ycombinator.com/item?id=49020999"
     ],
     [
       "AI Companies Are Trying to Hide a Staggering Amount of Debt",
       "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet"
+    ]
+  ],
+  [
+    [
+      "2026-07-22, 14:39:10",
+      "https://news.ycombinator.com/item?id=49007574"
+    ],
+    [
+      "Show HN: Trifle – Open-source analytics that stores answers, not events",
+      "https://trifle.io/"
+    ]
+  ],
+  [
+    [
+      "2026-07-20, 20:54:56",
+      "https://news.ycombinator.com/item?id=48984760"
+    ],
+    [
+      "Converting Files into Minecraft Worlds",
+      "https://wuemeli.com/blog/sulfur-part-1/"
     ]
   ],
   [
