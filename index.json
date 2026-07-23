@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-23, 15:45:51",
+      "https://news.ycombinator.com/item?id=49023486"
+    ],
+    [
+      "Free way to get your data out of ChatGPT Business accounts",
+      "https://github.com/Conradqh/scrapemychats"
+    ]
+  ],
+  [
+    [
+      "2026-07-23, 15:35:33",
+      "https://news.ycombinator.com/item?id=49023291"
+    ],
+    [
+      "UK households free to install plug-in balcony solar panels from end of August",
+      "https://www.theguardian.com/money/2026/jul/23/uk-households-free-install-plug-in-balcony-solar-panels"
+    ]
+  ],
+  [
+    [
       "2026-07-23, 15:18:40",
       "https://news.ycombinator.com/item?id=49023016"
     ],
@@ -11,12 +31,32 @@
   ],
   [
     [
+      "2026-07-23, 15:16:31",
+      "https://news.ycombinator.com/item?id=49022990"
+    ],
+    [
+      "Ask HN: Is there a website that tracks excessive writes to SSDs in OS/app betas?",
+      "https://news.ycombinator.com/item?id=49022990"
+    ]
+  ],
+  [
+    [
       "2026-07-23, 15:05:44",
       "https://news.ycombinator.com/item?id=49022838"
     ],
     [
-      "Cross-entropy comparison of LLM responses reveals Kimi's similarity to Claude",
+      "Writing fingerprint analysis of responses reveals Kimi's similarity to Claude",
       "https://typebulb.com/u/lab/you-re-relatively-right/full"
+    ]
+  ],
+  [
+    [
+      "2026-07-23, 15:02:27",
+      "https://news.ycombinator.com/item?id=49022790"
+    ],
+    [
+      "NerdLens: Mirror your computer with cardboard VR",
+      "https://github.com/ThatXliner/NerdLens"
     ]
   ],
   [
@@ -27,6 +67,16 @@
     [
       "Encryption and Globalization 15 Years Later: E2EE and the \"Going Dark\" Debate",
       "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6959699"
+    ]
+  ],
+  [
+    [
+      "2026-07-23, 14:55:32",
+      "https://news.ycombinator.com/item?id=49022663"
+    ],
+    [
+      "Learn WebGPU for C++",
+      "https://eliemichel.github.io/LearnWebGPU/"
     ]
   ],
   [
@@ -101,12 +151,12 @@
   ],
   [
     [
-      "2026-07-23, 14:17:45",
-      "https://news.ycombinator.com/item?id=49022040"
+      "2026-07-23, 14:23:51",
+      "https://news.ycombinator.com/item?id=49022137"
     ],
     [
-      "Show HN: I made YAFL – a E2EE file handoff for AI agents",
-      "https://yafl.dev"
+      "Fields Medals 2026",
+      "https://www.mathunion.org/imu-awards/fields-medal/fields-medals-2026"
     ]
   ],
   [
@@ -121,22 +171,12 @@
   ],
   [
     [
-      "2026-07-23, 14:06:47",
-      "https://news.ycombinator.com/item?id=49021856"
+      "2026-07-23, 14:07:38",
+      "https://news.ycombinator.com/item?id=49021868"
     ],
     [
-      "I Regret Migrating to Codeberg",
-      "https://xn--gckvb8fzb.com/i-regret-migrating-to-codeberg/"
-    ]
-  ],
-  [
-    [
-      "2026-07-23, 14:05:43",
-      "https://news.ycombinator.com/item?id=49021843"
-    ],
-    [
-      "I Think You Might Be Fooling Yourself with AI",
-      "https://louwrentius.com/i-think-you-might-be-fooling-yourself-with-ai.html"
+      "Hybrid-Electric Aicraft Engine Targeting 30% Fuel Efficiency",
+      "https://www.rtx.com/news/news-center/2026/07/21/rtxs-pratt-whitney-canada-advances-hybrid-electric-technology-development"
     ]
   ],
   [
@@ -161,12 +201,32 @@
   ],
   [
     [
-      "2026-07-23, 13:10:02",
-      "https://news.ycombinator.com/item?id=49021006"
+      "2026-07-23, 13:51:36",
+      "https://news.ycombinator.com/item?id=49021597"
     ],
     [
-      "Alphabet's cash burn raises alarm for Big Tech as AI spending climbs",
-      "https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/"
+      "DARPA, U.S. Air Force fly AI-controlled F-16",
+      "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16"
+    ]
+  ],
+  [
+    [
+      "2026-07-23, 13:49:17",
+      "https://news.ycombinator.com/item?id=49021569"
+    ],
+    [
+      "What happens when the information runs out",
+      "https://blog.jimgrey.net/2026/06/30/what-happens-when-the-information-runs-out/"
+    ]
+  ],
+  [
+    [
+      "2026-07-23, 13:36:15",
+      "https://news.ycombinator.com/item?id=49021361"
+    ],
+    [
+      "Silent Replacement of Trusted macOS App Executables",
+      "https://mysk.blog/2026/07/23/macos-overwrite-app-executables/"
     ]
   ],
   [
@@ -201,72 +261,12 @@
   ],
   [
     [
-      "2026-07-22, 17:48:18",
-      "https://news.ycombinator.com/item?id=49010648"
-    ],
-    [
-      "Everyone should know SIMD",
-      "https://mitchellh.com/writing/everyone-should-know-simd"
-    ]
-  ],
-  [
-    [
-      "2026-07-22, 17:30:40",
-      "https://news.ycombinator.com/item?id=49010345"
-    ],
-    [
-      "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
-      "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56"
-    ]
-  ],
-  [
-    [
-      "2026-07-22, 17:20:38",
-      "https://news.ycombinator.com/item?id=49010167"
-    ],
-    [
-      "GigaToken: ~1000x faster Language model tokenization",
-      "https://github.com/marcelroed/gigatoken/"
-    ]
-  ],
-  [
-    [
-      "2026-07-22, 15:19:23",
-      "https://news.ycombinator.com/item?id=49008211"
-    ],
-    [
-      "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
-      "https://bento.page/slides/"
-    ]
-  ],
-  [
-    [
-      "2026-07-22, 14:18:05",
-      "https://news.ycombinator.com/item?id=49007247"
-    ],
-    [
-      "Quality non-fiction books are the antithesis of AI slop",
-      "https://resobscura.substack.com/p/quality-non-fiction-books-are-the"
-    ]
-  ],
-  [
-    [
       "2026-07-21, 17:51:57",
       "https://news.ycombinator.com/item?id=48995712"
     ],
     [
       "The Unity CLI: manage Unity from your terminal",
       "https://unity.com/blog/meet-the-unity-cli"
-    ]
-  ],
-  [
-    [
-      "2026-07-21, 10:04:20",
-      "https://news.ycombinator.com/item?id=48990219"
-    ],
-    [
-      "Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot",
-      "https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html"
     ]
   ],
   [
