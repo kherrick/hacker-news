@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-07-22, 23:18:10](https://news.ycombinator.com/item?id=49014798) - [Why I'm building a note taking app without AI](https://withdocket.com/blog/why-im-building-a-note-taking-app-without-ai)
 * [2026-07-22, 22:49:58](https://news.ycombinator.com/item?id=49014537) - [Anthropomorphism in Children's Interactions with LLM Chatbots](https://arxiv.org/abs/2607.18250)
 * [2026-07-22, 21:55:34](https://news.ycombinator.com/item?id=49014007) - [Medici family mystery may be solved after more than 400 years](https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria)
 * [2026-07-22, 21:54:30](https://news.ycombinator.com/item?id=49013995) - [Any text-to-SQL benchmark should address difficulties of real-world data stores](https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/)
@@ -10,7 +9,7 @@
 * [2026-07-22, 20:33:44](https://news.ycombinator.com/item?id=49013036) - [I Inspected My Take-Home Interview Project. It Was a Whole Operation](https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/)
 * [2026-07-22, 20:16:01](https://news.ycombinator.com/item?id=49012777) - [Fairphone 6 wide camera experimental Linux support](https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/)
 * [2026-07-22, 19:22:19](https://news.ycombinator.com/item?id=49012070) - [John C. Dvorak has died](https://twitter.com/na_announce/status/2079952538040672302)
-* [2026-07-22, 18:55:42](https://news.ycombinator.com/item?id=49011687) - [Clarity didn't work, trying mysterianism](https://gwern.net/doc/fiction/science-fiction/2012-10-03-yvain-thewhisperingearring.html)
+* [2026-07-22, 18:55:42](https://news.ycombinator.com/item?id=49011687) - [Clarity didn't work, trying mysterianism (2012)](https://gwern.net/doc/fiction/science-fiction/2012-10-03-yvain-thewhisperingearring.html)
 * [2026-07-22, 17:56:29](https://news.ycombinator.com/item?id=49010782) - [Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong](https://github.com/cactus-compute/cactus-hybrid)
 * [2026-07-22, 17:48:18](https://news.ycombinator.com/item?id=49010648) - [Everyone Should Know SIMD](https://mitchellh.com/writing/everyone-should-know-simd)
 * [2026-07-22, 17:30:40](https://news.ycombinator.com/item?id=49010345) - [Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56)
@@ -27,6 +26,7 @@
 * [2026-07-22, 12:32:48](https://news.ycombinator.com/item?id=49005747) - [So Reddit has decided that plain HTML is unsafe](https://www.cole-k.com/2026/07/21/reddit/)
 * [2026-07-20, 07:32:39](https://news.ycombinator.com/item?id=48975395) - [Taking OCaml and Eio for a Spin](https://mattjhall.co.uk/posts/taking-ocaml-eio-for-a-spin.html)
 * [2026-07-19, 12:20:56](https://news.ycombinator.com/item?id=48967506) - [MemoryPack: Zero encoding extreme performance binary serializer for C#](https://github.com/Cysharp/MemoryPack)
+* [2026-07-18, 14:04:10](https://news.ycombinator.com/item?id=48958266) - [What Rose Petals Teach Us about Induction](https://www.oranlooney.com/post/rose-petals/)
 * [2026-07-17, 18:24:29](https://news.ycombinator.com/item?id=48950562) - [How we made our LeRobot video reader up to 15× faster](https://www.eventual.ai/blog/how-we-made-our-lerobot-video-reader-up-to-15x-faster)
 * [2026-07-15, 15:15:27](https://news.ycombinator.com/item?id=48922144) - [Museum of the Human Web](https://museum.parallel.ai/introduction?era=modern)
 * [2026-07-15, 06:50:49](https://news.ycombinator.com/item?id=48917135) - [Nobody knows what a used GPU cluster is worth](https://ciphertalk.substack.com/p/nobody-knows-what-a-used-gpu-cluster)

@@ -46,6 +46,7 @@
 * [2026-07-18, 15:08:32](https://news.ycombinator.com/item?id=48958814) - [British runner Josh Kerr breaks world record for mile which stood for 27 years](https://news.sky.com/story/british-runner-josh-kerr-breaks-world-record-for-mile-which-had-stood-for-27-years-13564688)
 * [2026-07-18, 14:04:55](https://news.ycombinator.com/item?id=48958273) - [LG ThinQ Terms of Use](https://news.ycombinator.com/item?id=48958273)
 * [2026-07-18, 14:04:42](https://news.ycombinator.com/item?id=48958269) - [EU ban on destruction of unsold clothes and shoes enters into application](https://environment.ec.europa.eu/news/ban-destruction-unsold-clothes-and-shoes-enters-application-2026-07-17_en)
+* [2026-07-18, 14:04:10](https://news.ycombinator.com/item?id=48958266) - [What Rose Petals Teach Us about Induction](https://www.oranlooney.com/post/rose-petals/)
 * [2026-07-18, 13:00:52](https://news.ycombinator.com/item?id=48957779) - [GPT-5.6 used a prompt to close a 30-year gap in convex optimization](https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/)
 * [2026-07-18, 12:05:25](https://news.ycombinator.com/item?id=48957321) - [Zero-dependency streaming tar parser and writer for JavaScript](https://ayuhito.com/projects/modern-tar/)
 * [2026-07-18, 11:12:46](https://news.ycombinator.com/item?id=48956949) - [What AI did to stackoverflow in a graph](https://data.stackexchange.com/stackoverflow/query/1953768#graph)
