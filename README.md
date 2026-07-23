@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-07-23, 20:15:31](https://news.ycombinator.com/item?id=49027426) - [Big Tech Isn't Hiding $1.65T of Debt](https://finterm.ai/blog/big-tech-hidden-debt-fact-check.html)
 * [2026-07-23, 19:26:01](https://news.ycombinator.com/item?id=49026810) - [Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models](https://news.ycombinator.com/item?id=49026810)
 * [2026-07-23, 18:29:22](https://news.ycombinator.com/item?id=49026059) - [From Evaluation to Guardrails: What We Brought to ACM FAccT 2026](https://blog.mozilla.ai/from-evaluation-to-guardrails-what-we-brought-to-acm-facct-2026/)
 * [2026-07-23, 18:23:50](https://news.ycombinator.com/item?id=49025984) - [Building on ATProto](https://lukekanies.com/writing/building-on-atproto/)
@@ -13,7 +12,6 @@
 * [2026-07-23, 16:01:02](https://news.ycombinator.com/item?id=49023809) - [JEP 540: Simple JSON API (Now in Incubator)](https://openjdk.org/jeps/540)
 * [2026-07-23, 15:45:51](https://news.ycombinator.com/item?id=49023486) - [Free way to get your data out of ChatGPT Business accounts](https://github.com/Conradqh/scrapemychats)
 * [2026-07-23, 15:42:40](https://news.ycombinator.com/item?id=49023427) - [Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents](https://github.com/onecli/onecli)
-* [2026-07-23, 15:18:48](https://news.ycombinator.com/item?id=49023019) - [Why Software Factories Fail (or: harness engineering is not enough)](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md)
 * [2026-07-23, 15:18:40](https://news.ycombinator.com/item?id=49023016) - [Startup founders urge U.S. government not to shut off Chinese open weight AI](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992)
 * [2026-07-23, 15:11:37](https://news.ycombinator.com/item?id=49022911) - [Show HN: Palmier Pro – Open-source macOS video editor built for AI](https://github.com/palmier-io/palmier-pro)
 * [2026-07-23, 14:55:32](https://news.ycombinator.com/item?id=49022663) - [Learn WebGPU for C++](https://eliemichel.github.io/LearnWebGPU/)
@@ -27,8 +25,10 @@
 * [2026-07-23, 13:51:36](https://news.ycombinator.com/item?id=49021597) - [DARPA, U.S. Air Force fly AI-controlled F-16](https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16)
 * [2026-07-23, 13:09:10](https://news.ycombinator.com/item?id=49020999) - [AI Companies Are Trying to Hide a Staggering Amount of Debt](https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet)
 * [2026-07-22, 14:39:10](https://news.ycombinator.com/item?id=49007574) - [Show HN: Trifle – Open-source analytics that stores answers, not events](https://trifle.io/)
+* [2026-07-22, 14:16:44](https://news.ycombinator.com/item?id=49007221) - [The Beam Engine](https://glinscott.github.io/beam-engine/)
 * [2026-07-21, 07:10:49](https://news.ycombinator.com/item?id=48989065) - [Escape Analysis in Go: Stack vs. Heap Allocations Explained](https://blog.jetbrains.com/go/2026/07/20/escape-analysis/)
 * [2026-07-20, 20:54:56](https://news.ycombinator.com/item?id=48984760) - [Converting Files into Minecraft Worlds](https://wuemeli.com/blog/sulfur-part-1/)
+* [2026-07-20, 13:59:49](https://news.ycombinator.com/item?id=48978989) - [Meta Garbage Collection: Using OCaml's GC to GC Rust](https://soteria-tools.com/blog/meta-garbage-collection)
 * [2026-07-19, 13:19:26](https://news.ycombinator.com/item?id=48968010) - [OpenStreetMap: Admin_level for All Countries](https://wiki.openstreetmap.org/wiki/Tag:boundary%3Dadministrative#Table_:_Admin_level_for_all_countries)
 
 ## [Archives](archives/index.md)
