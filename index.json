@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2026-07-22, 22:09:41",
-      "https://news.ycombinator.com/item?id=49014143"
-    ],
-    [
-      "Fretboard Memorisation with Modular Arithmetic",
-      "https://ohaodha.ie/blog/fretboard-memorisation-with-modular-arithmetic/"
-    ]
-  ],
-  [
-    [
       "2026-07-22, 21:55:34",
       "https://news.ycombinator.com/item?id=49014007"
     ],
@@ -91,6 +81,16 @@
   ],
   [
     [
+      "2026-07-22, 18:55:42",
+      "https://news.ycombinator.com/item?id=49011687"
+    ],
+    [
+      "Clarity didn't work, trying mysterianism",
+      "https://gwern.net/doc/fiction/science-fiction/2012-10-03-yvain-thewhisperingearring.html"
+    ]
+  ],
+  [
+    [
       "2026-07-22, 17:56:29",
       "https://news.ycombinator.com/item?id=49010782"
     ],
@@ -147,16 +147,6 @@
     [
       "Launch HN: Unlayer (YC W22) – Add email and document builders to your app",
       "https://unlayer.com"
-    ]
-  ],
-  [
-    [
-      "2026-07-22, 15:39:01",
-      "https://news.ycombinator.com/item?id=49008538"
-    ],
-    [
-      "Can a MUD evaluate LLMs? A $99 proof of concept",
-      "https://cruciblebench.ai/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Designing a 4D Digital Archive for Ikebana",
       "https://ishiguro-lab.org/projects/designing-a-4d-digital-archive-for-ikebana/"
+    ]
+  ],
+  [
+    [
+      "2026-07-19, 12:20:56",
+      "https://news.ycombinator.com/item?id=48967506"
+    ],
+    [
+      "MemoryPack: Zero encoding extreme performance binary serializer for C#",
+      "https://github.com/Cysharp/MemoryPack"
     ]
   ],
   [
