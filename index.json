@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-07-23, 20:15:31",
-      "https://news.ycombinator.com/item?id=49027426"
-    ],
-    [
-      "Big Tech Isn't Hiding $1.65T of Debt",
-      "https://finterm.ai/blog/big-tech-hidden-debt-fact-check.html"
-    ]
-  ],
-  [
-    [
       "2026-07-23, 19:26:01",
       "https://news.ycombinator.com/item?id=49026810"
     ],
@@ -127,16 +117,6 @@
     [
       "Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents",
       "https://github.com/onecli/onecli"
-    ]
-  ],
-  [
-    [
-      "2026-07-23, 15:18:48",
-      "https://news.ycombinator.com/item?id=49023019"
-    ],
-    [
-      "Why Software Factories Fail (or: harness engineering is not enough)",
-      "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md"
     ]
   ],
   [
@@ -271,6 +251,16 @@
   ],
   [
     [
+      "2026-07-22, 14:16:44",
+      "https://news.ycombinator.com/item?id=49007221"
+    ],
+    [
+      "The Beam Engine",
+      "https://glinscott.github.io/beam-engine/"
+    ]
+  ],
+  [
+    [
       "2026-07-21, 07:10:49",
       "https://news.ycombinator.com/item?id=48989065"
     ],
@@ -287,6 +277,16 @@
     [
       "Converting Files into Minecraft Worlds",
       "https://wuemeli.com/blog/sulfur-part-1/"
+    ]
+  ],
+  [
+    [
+      "2026-07-20, 13:59:49",
+      "https://news.ycombinator.com/item?id=48978989"
+    ],
+    [
+      "Meta Garbage Collection: Using OCaml's GC to GC Rust",
+      "https://soteria-tools.com/blog/meta-garbage-collection"
     ]
   ],
   [
