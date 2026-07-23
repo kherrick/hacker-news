@@ -38,6 +38,7 @@
 * [2026-07-19, 14:07:07](https://news.ycombinator.com/item?id=48968348) - [Clever hacker fits 537,000 domains in a $5 ESP32 ad-blocking dongle](https://www.tomshardware.com/networking/clever-hacker-fits-537-000-domains-in-a-tiny-usd5-esp32-ad-blocking-dongle-firmware-uses-only-around-50kb-of-ram-and-can-answer-blocked-lookups-in-10-milliseconds)
 * [2026-07-19, 13:30:01](https://news.ycombinator.com/item?id=48968067) - [DRIVE – Operational Excellence for AI-accelerated engineering](https://www.cortex.io/drive)
 * [2026-07-19, 13:29:29](https://news.ycombinator.com/item?id=48968063) - [Bananas sprout in Rayleigh Garden UK after 15 years](https://www.bbc.com/news/articles/cvg8edqq5g5o)
+* [2026-07-19, 12:20:56](https://news.ycombinator.com/item?id=48967506) - [MemoryPack: Zero encoding extreme performance binary serializer for C#](https://github.com/Cysharp/MemoryPack)
 * [2026-07-19, 12:01:53](https://news.ycombinator.com/item?id=48967355) - [I burned all my tokens researching how to save tokens](https://quesma.com/blog/custom-deep-research-pipeline/)
 * [2026-07-19, 11:48:18](https://news.ycombinator.com/item?id=48967256) - [Minecraft: Java Edition now uses SDL3](https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4)
 * [2026-07-19, 11:14:38](https://news.ycombinator.com/item?id=48966984) - [I joined the IndieWeb, here's what I learned](https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/)
