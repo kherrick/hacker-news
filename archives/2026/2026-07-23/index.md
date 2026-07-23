@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-23](index.md)
 
+* [2026-07-23, 22:51:13](https://news.ycombinator.com/item?id=49029133) - [A Taxonomy of Omnicidal Futures Involving Artificial Intelligence](https://arxiv.org/abs/2507.09369)
+* [2026-07-23, 22:30:29](https://news.ycombinator.com/item?id=49028927) - [98.css](https://jdan.github.io/98.css/#status-bar)
 * [2026-07-23, 22:30:08](https://news.ycombinator.com/item?id=49028922) - [Building watchable digital twins of 64 World Cup games](https://rogerdickey.com/building-watchable-digital-twins-of-64-world-cup-games/)
 * [2026-07-23, 21:05:29](https://news.ycombinator.com/item?id=49028037) - [Namecheap Gave My Account to an Unverified Third Party Just Because They Asked](https://news.ycombinator.com/item?id=49028037)
 * [2026-07-23, 20:52:19](https://news.ycombinator.com/item?id=49027892) - [Couple pay >$800k for a gene-editing therapy for their daughter. She died.](https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public)

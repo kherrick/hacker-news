@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-23, 22:51:13](https://news.ycombinator.com/item?id=49029133) - [A Taxonomy of Omnicidal Futures Involving Artificial Intelligence](https://arxiv.org/abs/2507.09369)
+* [2026-07-23, 22:30:29](https://news.ycombinator.com/item?id=49028927) - [98.css](https://jdan.github.io/98.css/#status-bar)
 * [2026-07-23, 22:30:08](https://news.ycombinator.com/item?id=49028922) - [Building watchable digital twins of 64 World Cup games](https://rogerdickey.com/building-watchable-digital-twins-of-64-world-cup-games/)
 * [2026-07-23, 21:05:29](https://news.ycombinator.com/item?id=49028037) - [Namecheap Gave My Account to an Unverified Third Party Just Because They Asked](https://news.ycombinator.com/item?id=49028037)
 * [2026-07-23, 20:52:19](https://news.ycombinator.com/item?id=49027892) - [Couple pay >$800k for a gene-editing therapy for their daughter. She died.](https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public)
@@ -11,7 +13,6 @@
 * [2026-07-23, 16:49:57](https://news.ycombinator.com/item?id=49024643) - [The arguments against open source AI are bad](https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/)
 * [2026-07-23, 16:48:38](https://news.ycombinator.com/item?id=49024620) - [Launch HN: Screenpipe (YC S26) – Record how you work and turn that into agents](https://news.ycombinator.com/item?id=49024620)
 * [2026-07-23, 16:01:02](https://news.ycombinator.com/item?id=49023809) - [JEP 540: Simple JSON API (Now in Incubator)](https://openjdk.org/jeps/540)
-* [2026-07-23, 15:42:40](https://news.ycombinator.com/item?id=49023427) - [Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents](https://github.com/onecli/onecli)
 * [2026-07-23, 15:18:40](https://news.ycombinator.com/item?id=49023016) - [Startup founders urge U.S. government not to shut off Chinese open weight AI](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992)
 * [2026-07-23, 15:11:37](https://news.ycombinator.com/item?id=49022911) - [Show HN: Palmier Pro – Open-source macOS video editor built for AI](https://github.com/palmier-io/palmier-pro)
 * [2026-07-23, 14:55:32](https://news.ycombinator.com/item?id=49022663) - [Learn WebGPU for C++](https://eliemichel.github.io/LearnWebGPU/)
@@ -19,7 +20,6 @@
 * [2026-07-23, 14:24:43](https://news.ycombinator.com/item?id=49022152) - [Writing by hand is good for your brain](https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your)
 * [2026-07-23, 14:23:51](https://news.ycombinator.com/item?id=49022137) - [Fields Medals 2026](https://www.mathunion.org/imu-awards/fields-medal/fields-medals-2026)
 * [2026-07-23, 14:17:40](https://news.ycombinator.com/item?id=49022038) - [Software rendering in 500 lines of bare C++](https://haqr.eu/tinyrenderer/)
-* [2026-07-23, 14:02:45](https://news.ycombinator.com/item?id=49021786) - [Emacs Is a Lispboard](https://en.andros.dev/blog/06bfd107/emacs-is-a-lispboard/)
 * [2026-07-23, 14:02:24](https://news.ycombinator.com/item?id=49021783) - [Astronomers may have found the first exomoon](https://www.eso.org/public/news/eso2610/)
 * [2026-07-23, 13:51:36](https://news.ycombinator.com/item?id=49021597) - [DARPA, U.S. Air Force fly AI-controlled F-16](https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16)
 * [2026-07-23, 13:09:10](https://news.ycombinator.com/item?id=49020999) - [AI Companies Are Trying to Hide a Staggering Amount of Debt](https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet)
@@ -27,8 +27,8 @@
 * [2026-07-22, 14:16:44](https://news.ycombinator.com/item?id=49007221) - [The Beam Engine](https://glinscott.github.io/beam-engine/)
 * [2026-07-21, 07:10:49](https://news.ycombinator.com/item?id=48989065) - [Escape Analysis in Go: Stack vs. Heap Allocations Explained](https://blog.jetbrains.com/go/2026/07/20/escape-analysis/)
 * [2026-07-20, 20:54:56](https://news.ycombinator.com/item?id=48984760) - [Converting Files into Minecraft Worlds](https://wuemeli.com/blog/sulfur-part-1/)
-* [2026-07-20, 20:16:00](https://news.ycombinator.com/item?id=48984312) - [Hitchcock and Herrmann: The Friendship and Film Scores That Changed Cinema](https://www.lrb.co.uk/the-paper/v48/n13/jonathan-coe/where-was-the-drum-kit)
 * [2026-07-20, 13:59:49](https://news.ycombinator.com/item?id=48978989) - [Meta Garbage Collection: Using OCaml's GC to GC Rust](https://soteria-tools.com/blog/meta-garbage-collection)
+* [2026-07-18, 15:28:56](https://news.ycombinator.com/item?id=48959008) - [What else do people draw on gradient.horse?](https://rybakov.com/blog/what_else_do_people_draw_on_gradient-copy.horse/)
 * [2026-07-17, 21:15:36](https://news.ycombinator.com/item?id=48952392) - [Interview with Matheus Moreira about Lone Lisp and Linux Kernel](https://alexalejandre.com/interviews/interview-with-matheus-moreira/)
 
 ## [Archives](archives/index.md)

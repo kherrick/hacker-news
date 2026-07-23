@@ -41,6 +41,7 @@
 * [2026-07-18, 15:38:36](https://news.ycombinator.com/item?id=48959102) - [The Fermi Paradox, Percolation, and Inbreeding](https://reactormag.com/the-fermi-paradox-percolation-and-inbreeding/)
 * [2026-07-18, 15:37:01](https://news.ycombinator.com/item?id=48959090) - [If You Build It, They Will Come](https://www.benlandautaylor.com/p/if-you-build-it-they-will-come)
 * [2026-07-18, 15:32:04](https://news.ycombinator.com/item?id=48959042) - [Elixir-lang.org has a new design](https://elixir-lang.org/)
+* [2026-07-18, 15:28:56](https://news.ycombinator.com/item?id=48959008) - [What else do people draw on gradient.horse?](https://rybakov.com/blog/what_else_do_people_draw_on_gradient-copy.horse/)
 * [2026-07-18, 15:26:13](https://news.ycombinator.com/item?id=48958985) - [Traders are increasingly betting against SpaceX just weeks after IPO](https://www.ft.com/content/2b96703d-440b-46db-8d86-9fff9ecc59d5)
 * [2026-07-18, 15:12:40](https://news.ycombinator.com/item?id=48958854) - [Show HN: Q3Edit – Edit and play Quake 3 maps in the browser](https://q3edit.com)
 * [2026-07-18, 15:08:32](https://news.ycombinator.com/item?id=48958814) - [British runner Josh Kerr breaks world record for mile which stood for 27 years](https://news.sky.com/story/british-runner-josh-kerr-breaks-world-record-for-mile-which-had-stood-for-27-years-13564688)
