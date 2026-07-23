@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-22, 23:18:10",
+      "https://news.ycombinator.com/item?id=49014798"
+    ],
+    [
+      "Why I'm building a note taking app without AI",
+      "https://withdocket.com/blog/why-im-building-a-note-taking-app-without-ai"
+    ]
+  ],
+  [
+    [
       "2026-07-22, 22:49:58",
       "https://news.ycombinator.com/item?id=49014537"
     ],
@@ -27,6 +37,16 @@
     [
       "Any text-to-SQL benchmark should address difficulties of real-world data stores",
       "https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/"
+    ]
+  ],
+  [
+    [
+      "2026-07-22, 21:48:44",
+      "https://news.ycombinator.com/item?id=49013924"
+    ],
+    [
+      "All 253 Patterns from Christopher Alexander's a Pattern Language Summarized",
+      "https://claytondorge.com/patterns-list"
     ]
   ],
   [
@@ -237,26 +257,6 @@
     [
       "Taking OCaml and Eio for a Spin",
       "https://mattjhall.co.uk/posts/taking-ocaml-eio-for-a-spin.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-19, 19:44:44",
-      "https://news.ycombinator.com/item?id=48971128"
-    ],
-    [
-      "Nvidia DGX Spark as a daily driver",
-      "https://daniel.lawrence.lu/blog/2026-07-15-dgx-spark-as-daily-driver/"
-    ]
-  ],
-  [
-    [
-      "2026-07-19, 18:42:19",
-      "https://news.ycombinator.com/item?id=48970650"
-    ],
-    [
-      "Designing a 4D Digital Archive for Ikebana",
-      "https://ishiguro-lab.org/projects/designing-a-4d-digital-archive-for-ikebana/"
     ]
   ],
   [
