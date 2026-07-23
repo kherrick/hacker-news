@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-23, 17:06:22",
+      "https://news.ycombinator.com/item?id=49024882"
+    ],
+    [
+      "Show HN: Claude-thermos – keeps your Claude session warm for you",
+      "https://github.com/izeigerman/claude-thermos"
+    ]
+  ],
+  [
+    [
       "2026-07-23, 16:53:33",
       "https://news.ycombinator.com/item?id=49024691"
     ],
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2026-07-23, 14:32:53",
-      "https://news.ycombinator.com/item?id=49022302"
-    ],
-    [
-      "Show HN: macOS menu-bar manager for SSH port forwards",
-      "https://github.com/lx2026/RelayBar"
-    ]
-  ],
-  [
-    [
       "2026-07-23, 14:31:26",
       "https://news.ycombinator.com/item?id=49022284"
     ],
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2026-07-21, 17:51:57",
-      "https://news.ycombinator.com/item?id=48995712"
+      "2026-07-20, 13:59:49",
+      "https://news.ycombinator.com/item?id=48978989"
     ],
     [
-      "The Unity CLI: manage Unity from your terminal",
-      "https://unity.com/blog/meet-the-unity-cli"
+      "Meta Garbage Collection: Using OCaml's GC to GC Rust",
+      "https://soteria-tools.com/blog/meta-garbage-collection"
     ]
   ],
   [
