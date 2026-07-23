@@ -1,12 +1,112 @@
 [
   [
     [
+      "2026-07-23, 15:18:40",
+      "https://news.ycombinator.com/item?id=49023016"
+    ],
+    [
+      "Startup founders urge Trump not to shut off Chinese open weight AI",
+      "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992"
+    ]
+  ],
+  [
+    [
+      "2026-07-23, 15:05:44",
+      "https://news.ycombinator.com/item?id=49022838"
+    ],
+    [
+      "Cross-entropy comparison of LLM responses reveals Kimi's similarity to Claude",
+      "https://typebulb.com/u/lab/you-re-relatively-right/full"
+    ]
+  ],
+  [
+    [
+      "2026-07-23, 14:55:45",
+      "https://news.ycombinator.com/item?id=49022668"
+    ],
+    [
+      "Encryption and Globalization 15 Years Later: E2EE and the \"Going Dark\" Debate",
+      "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6959699"
+    ]
+  ],
+  [
+    [
+      "2026-07-23, 14:54:09",
+      "https://news.ycombinator.com/item?id=49022644"
+    ],
+    [
+      "Vulkan Tutorial",
+      "https://vulkan-tutorial.com/"
+    ]
+  ],
+  [
+    [
+      "2026-07-23, 14:53:34",
+      "https://news.ycombinator.com/item?id=49022634"
+    ],
+    [
+      "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",
+      "https://learnopengl.com/"
+    ]
+  ],
+  [
+    [
+      "2026-07-23, 14:40:30",
+      "https://news.ycombinator.com/item?id=49022412"
+    ],
+    [
+      "How much energy do data centers and artificial intelligence use?",
+      "https://ourworldindata.org/how-much-energy-do-data-centers-and-artificial-intelligence-use"
+    ]
+  ],
+  [
+    [
+      "2026-07-23, 14:37:54",
+      "https://news.ycombinator.com/item?id=49022371"
+    ],
+    [
+      "Show HN: Whetuu – a zero-config cross-shell prompt written in Zig",
+      "https://yamafaktory.github.io/whetuu/"
+    ]
+  ],
+  [
+    [
+      "2026-07-23, 14:32:53",
+      "https://news.ycombinator.com/item?id=49022302"
+    ],
+    [
+      "Show HN: macOS menu-bar manager for SSH port forwards",
+      "https://github.com/lx2026/RelayBar"
+    ]
+  ],
+  [
+    [
+      "2026-07-23, 14:31:26",
+      "https://news.ycombinator.com/item?id=49022284"
+    ],
+    [
+      "Show HN: Remux – an open-source tmux workspace designed for iPhone",
+      "https://github.com/h3nock/remux"
+    ]
+  ],
+  [
+    [
       "2026-07-23, 14:24:43",
       "https://news.ycombinator.com/item?id=49022152"
     ],
     [
-      "Writing by Hand is Good for your Brain",
+      "Writing by hand is good for your brain",
       "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your"
+    ]
+  ],
+  [
+    [
+      "2026-07-23, 14:17:45",
+      "https://news.ycombinator.com/item?id=49022040"
+    ],
+    [
+      "Show HN: I made YAFL – a E2EE file handoff for AI agents",
+      "https://yafl.dev"
     ]
   ],
   [
@@ -31,6 +131,16 @@
   ],
   [
     [
+      "2026-07-23, 14:05:43",
+      "https://news.ycombinator.com/item?id=49021843"
+    ],
+    [
+      "I Think You Might Be Fooling Yourself with AI",
+      "https://louwrentius.com/i-think-you-might-be-fooling-yourself-with-ai.html"
+    ]
+  ],
+  [
+    [
       "2026-07-23, 14:02:24",
       "https://news.ycombinator.com/item?id=49021783"
     ],
@@ -41,12 +151,12 @@
   ],
   [
     [
-      "2026-07-23, 13:49:28",
-      "https://news.ycombinator.com/item?id=49021571"
+      "2026-07-23, 13:55:10",
+      "https://news.ycombinator.com/item?id=49021647"
     ],
     [
-      "Private healthcare makes industries less innovative. It's time for change",
-      "https://werd.io/private-healthcare-makes-industries-less-innovative-its-time-for-change/"
+      "Brow6el: A full-featured web browser for the terminal using Chromium",
+      "https://tangled.org/janantos.tngl.sh/brow6el"
     ]
   ],
   [
@@ -81,52 +191,12 @@
   ],
   [
     [
-      "2026-07-23, 05:24:17",
-      "https://news.ycombinator.com/item?id=49017265"
+      "2026-07-23, 01:16:14",
+      "https://news.ycombinator.com/item?id=49015639"
     ],
     [
-      "Amiga 1000: Ten years ahead of its time",
-      "https://dfarq.homeip.net/amiga-1000-ten-years-ahead-of-its-time/"
-    ]
-  ],
-  [
-    [
-      "2026-07-23, 01:14:53",
-      "https://news.ycombinator.com/item?id=49015635"
-    ],
-    [
-      "Protecting our FLOSS commons from LLMs",
-      "https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-22, 21:15:26",
-      "https://news.ycombinator.com/item?id=49013538"
-    ],
-    [
-      "Malleable Computing, Emacs, and You",
-      "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-22, 19:22:19",
-      "https://news.ycombinator.com/item?id=49012070"
-    ],
-    [
-      "John C. Dvorak has died",
-      "https://twitter.com/na_announce/status/2079952538040672302"
-    ]
-  ],
-  [
-    [
-      "2026-07-22, 17:56:29",
-      "https://news.ycombinator.com/item?id=49010782"
-    ],
-    [
-      "Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
-      "https://github.com/cactus-compute/cactus-hybrid"
+      "OpenAI’s accidental attack against Hugging Face is science fiction that happened",
+      "https://simonwillison.net/2026/Jul/22/openai-cyberattack/"
     ]
   ],
   [
@@ -161,26 +231,6 @@
   ],
   [
     [
-      "2026-07-22, 17:17:54",
-      "https://news.ycombinator.com/item?id=49010129"
-    ],
-    [
-      "Are AI labs pelicanmaxxing?",
-      "https://dylancastillo.co/posts/pelicanmaxxing.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-22, 15:33:48",
-      "https://news.ycombinator.com/item?id=49008440"
-    ],
-    [
-      "Making",
-      "https://beej.us/blog/data/ai-making/"
-    ]
-  ],
-  [
-    [
       "2026-07-22, 15:19:23",
       "https://news.ycombinator.com/item?id=49008211"
     ],
@@ -197,26 +247,6 @@
     [
       "Quality non-fiction books are the antithesis of AI slop",
       "https://resobscura.substack.com/p/quality-non-fiction-books-are-the"
-    ]
-  ],
-  [
-    [
-      "2026-07-22, 12:49:45",
-      "https://news.ycombinator.com/item?id=49005973"
-    ],
-    [
-      "Businesses with ugly AI menu redesigns",
-      "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/"
-    ]
-  ],
-  [
-    [
-      "2026-07-22, 12:36:08",
-      "https://news.ycombinator.com/item?id=49005787"
-    ],
-    [
-      "The startup's Postgres survival guide",
-      "https://hatchet.run/blog/postgres-survival-guide"
     ]
   ],
   [
@@ -241,16 +271,6 @@
   ],
   [
     [
-      "2026-07-21, 07:01:24",
-      "https://news.ycombinator.com/item?id=48989006"
-    ],
-    [
-      "ANSI escape injection in MCP servers: Hidden from humans, visible to AI",
-      "https://brightsec.com/research/detecting-ansi-escape-sequence-injection-in-mcp-servers-with-dast/"
-    ]
-  ],
-  [
-    [
       "2026-07-20, 23:30:31",
       "https://news.ycombinator.com/item?id=48986223"
     ],
@@ -261,22 +281,12 @@
   ],
   [
     [
-      "2026-07-20, 18:42:07",
-      "https://news.ycombinator.com/item?id=48983076"
+      "2026-07-19, 13:19:26",
+      "https://news.ycombinator.com/item?id=48968010"
     ],
     [
-      "Making ASCII Art in Vim",
-      "https://alexyang.dev/vim-ascii-art/"
-    ]
-  ],
-  [
-    [
-      "2026-07-20, 14:00:29",
-      "https://news.ycombinator.com/item?id=48979000"
-    ],
-    [
-      "Frequently Asked Questions on Expertise",
-      "https://jtpeterson.substack.com/p/faq-on-expertise"
+      "OpenStreetMap: Admin_level for All Countries",
+      "https://wiki.openstreetmap.org/wiki/Tag:boundary%3Dadministrative#Table_:_Admin_level_for_all_countries"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Scanning for Pangram Errors",
       "https://veryfineprint.substack.com/p/scanning-for-pangram-errors"
-    ]
-  ],
-  [
-    [
-      "2026-07-16, 00:11:55",
-      "https://news.ycombinator.com/item?id=48928909"
-    ],
-    [
-      "Test-time training 3D reconstruction",
-      "https://github.com/Inception3D/TTT3R"
     ]
   ]
 ]
