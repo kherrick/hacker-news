@@ -27,7 +27,7 @@
 * [2026-07-22, 12:32:48](https://news.ycombinator.com/item?id=49005747) - [So Reddit has decided that plain HTML is unsafe](https://www.cole-k.com/2026/07/21/reddit/)
 * [2026-07-21, 13:13:47](https://news.ycombinator.com/item?id=48991882) - [git's –end-of-options Flag](https://nesbitt.io/2026/07/21/end-of-options.html)
 * [2026-07-20, 20:34:52](https://news.ycombinator.com/item?id=48984534) - [ascdraw: Editor for ASCII/UTF-8 diagrams (in 144FPS)](https://github.com/exlee/ascdraw)
-* [2026-07-20, 07:32:39](https://news.ycombinator.com/item?id=48975395) - [Taking OCaml and Eio for a Spin](https://mattjhall.co.uk/posts/taking-ocaml-eio-for-a-spin.html)
+* [2026-07-20, 18:42:07](https://news.ycombinator.com/item?id=48983076) - [Making ASCII Art in Vim](https://alexyang.dev/vim-ascii-art/)
 * [2026-07-18, 14:04:10](https://news.ycombinator.com/item?id=48958266) - [What Rose Petals Teach Us about Induction](https://www.oranlooney.com/post/rose-petals/)
 * [2026-07-15, 06:50:49](https://news.ycombinator.com/item?id=48917135) - [Nobody knows what a used GPU cluster is worth](https://ciphertalk.substack.com/p/nobody-knows-what-a-used-gpu-cluster)
 

@@ -17,6 +17,7 @@
 * [2026-07-20, 19:32:37](https://news.ycombinator.com/item?id=48983771) - [NixOS is more complicated than you think but OpenCode fixed it](https://grigio.org/nixos-is-more-complicated-than-you-think-but-opencode-fixed-it/)
 * [2026-07-20, 19:03:37](https://news.ycombinator.com/item?id=48983382) - [Human mathematicians are being outcounterexampled](https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/)
 * [2026-07-20, 18:43:55](https://news.ycombinator.com/item?id=48983108) - [Safety and alignment in an era of long-horizon models](https://openai.com/index/safety-alignment-long-horizon-models/)
+* [2026-07-20, 18:42:07](https://news.ycombinator.com/item?id=48983076) - [Making ASCII Art in Vim](https://alexyang.dev/vim-ascii-art/)
 * [2026-07-20, 18:16:08](https://news.ycombinator.com/item?id=48982681) - [Nativ: Run frontier open models locally on your Mac](https://blaizzy.github.io/nativ/)
 * [2026-07-20, 18:10:44](https://news.ycombinator.com/item?id=48982583) - [An Empirical Study: AI Agent Rules Need Context and Layered Enforcement](https://eunomia.dev/blog/2026/07/15/ebpf-ai-agent-policy-enforcement/)
 * [2026-07-20, 18:10:17](https://news.ycombinator.com/item?id=48982578) - [The drivers behind software delivery inefficiency](https://dl.acm.org/doi/10.1145/3800646.3800650)
