@@ -44,6 +44,7 @@
 * [2026-07-22, 14:42:49](https://news.ycombinator.com/item?id=49007620) - [Hologram works. Elixir runs in the browser](https://hologram.page/blog/backing-hologram)
 * [2026-07-22, 14:42:08](https://news.ycombinator.com/item?id=49007610) - [We have information that Moonshot distilled Fable for the development of K3](https://twitter.com/mkratsios47/status/2079933645888880708)
 * [2026-07-22, 14:39:40](https://news.ycombinator.com/item?id=49007581) - [Ethics Is the Skill That Matters Most Now](https://agonora.com/blog/ethics-most-important-skill)
+* [2026-07-22, 14:39:10](https://news.ycombinator.com/item?id=49007574) - [Show HN: Trifle – Open-source analytics that stores answers, not events](https://trifle.io/)
 * [2026-07-22, 14:35:55](https://news.ycombinator.com/item?id=49007546) - [I Built a Private Genomics Study with Stoffel MPC](https://vishakh.blog/2026/07/21/i-built-a-private-genomics-study-with-stoffel-mpc/)
 * [2026-07-22, 14:35:05](https://news.ycombinator.com/item?id=49007536) - [OpenAI Models Escaped and Hacked a Company in Cybersecurity Test Gone Wrong](https://www.wsj.com/tech/ai/openai-models-escaped-and-hacked-a-company-in-cybersecurity-test-gone-wrong-ee388506)
 * [2026-07-22, 14:34:27](https://news.ycombinator.com/item?id=49007525) - [Most Americans Say \"Not in My Backyard\" to AI Data Centers](https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/)
