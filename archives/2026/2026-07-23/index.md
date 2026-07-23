@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-23](index.md)
 
+* [2026-07-23, 20:15:31](https://news.ycombinator.com/item?id=49027426) - [Big Tech Isn't Hiding $1.65T of Debt](https://finterm.ai/blog/big-tech-hidden-debt-fact-check.html)
 * [2026-07-23, 19:26:01](https://news.ycombinator.com/item?id=49026810) - [Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models](https://news.ycombinator.com/item?id=49026810)
 * [2026-07-23, 18:51:40](https://news.ycombinator.com/item?id=49026364) - [ICE Illegally Scooped Up Medicaid Data, Then Shared It with Palantir](https://www.techdirt.com/2026/07/23/ice-illegally-scooped-up-medicaid-data-then-shared-it-with-palantir/)
 * [2026-07-23, 18:29:22](https://news.ycombinator.com/item?id=49026059) - [From Evaluation to Guardrails: What We Brought to ACM FAccT 2026](https://blog.mozilla.ai/from-evaluation-to-guardrails-what-we-brought-to-acm-facct-2026/)

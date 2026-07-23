@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-23, 20:15:31](https://news.ycombinator.com/item?id=49027426) - [Big Tech Isn't Hiding $1.65T of Debt](https://finterm.ai/blog/big-tech-hidden-debt-fact-check.html)
 * [2026-07-23, 19:26:01](https://news.ycombinator.com/item?id=49026810) - [Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models](https://news.ycombinator.com/item?id=49026810)
 * [2026-07-23, 18:29:22](https://news.ycombinator.com/item?id=49026059) - [From Evaluation to Guardrails: What We Brought to ACM FAccT 2026](https://blog.mozilla.ai/from-evaluation-to-guardrails-what-we-brought-to-acm-facct-2026/)
 * [2026-07-23, 18:23:50](https://news.ycombinator.com/item?id=49025984) - [Building on ATProto](https://lukekanies.com/writing/building-on-atproto/)
@@ -22,13 +23,12 @@
 * [2026-07-23, 14:23:51](https://news.ycombinator.com/item?id=49022137) - [Fields Medals 2026](https://www.mathunion.org/imu-awards/fields-medal/fields-medals-2026)
 * [2026-07-23, 14:17:40](https://news.ycombinator.com/item?id=49022038) - [Software rendering in 500 lines of bare C++](https://haqr.eu/tinyrenderer/)
 * [2026-07-23, 14:07:38](https://news.ycombinator.com/item?id=49021868) - [Hybrid-Electric Aicraft Engine Targeting 30% Fuel Efficiency](https://www.rtx.com/news/news-center/2026/07/21/rtxs-pratt-whitney-canada-advances-hybrid-electric-technology-development)
-* [2026-07-23, 14:02:45](https://news.ycombinator.com/item?id=49021786) - [Emacs Is a Lispboard](https://en.andros.dev/blog/06bfd107/emacs-is-a-lispboard/)
 * [2026-07-23, 14:02:24](https://news.ycombinator.com/item?id=49021783) - [Astronomers may have found the first exomoon](https://www.eso.org/public/news/eso2610/)
 * [2026-07-23, 13:51:36](https://news.ycombinator.com/item?id=49021597) - [DARPA, U.S. Air Force fly AI-controlled F-16](https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16)
 * [2026-07-23, 13:09:10](https://news.ycombinator.com/item?id=49020999) - [AI Companies Are Trying to Hide a Staggering Amount of Debt](https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet)
 * [2026-07-22, 14:39:10](https://news.ycombinator.com/item?id=49007574) - [Show HN: Trifle – Open-source analytics that stores answers, not events](https://trifle.io/)
+* [2026-07-21, 07:10:49](https://news.ycombinator.com/item?id=48989065) - [Escape Analysis in Go: Stack vs. Heap Allocations Explained](https://blog.jetbrains.com/go/2026/07/20/escape-analysis/)
 * [2026-07-20, 20:54:56](https://news.ycombinator.com/item?id=48984760) - [Converting Files into Minecraft Worlds](https://wuemeli.com/blog/sulfur-part-1/)
-* [2026-07-20, 13:59:49](https://news.ycombinator.com/item?id=48978989) - [Meta Garbage Collection: Using OCaml's GC to GC Rust](https://soteria-tools.com/blog/meta-garbage-collection)
 * [2026-07-19, 13:19:26](https://news.ycombinator.com/item?id=48968010) - [OpenStreetMap: Admin_level for All Countries](https://wiki.openstreetmap.org/wiki/Tag:boundary%3Dadministrative#Table_:_Admin_level_for_all_countries)
 
 ## [Archives](archives/index.md)
