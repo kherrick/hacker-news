@@ -5,8 +5,18 @@
       "https://news.ycombinator.com/item?id=49024691"
     ],
     [
-      "What just happened to TheNumbers.com should worry us all",
+      "What happened to TheNumbers.com",
       "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all"
+    ]
+  ],
+  [
+    [
+      "2026-07-23, 16:49:57",
+      "https://news.ycombinator.com/item?id=49024643"
+    ],
+    [
+      "The arguments against open source AI are bad",
+      "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/"
     ]
   ],
   [
@@ -51,12 +61,12 @@
   ],
   [
     [
-      "2026-07-23, 15:35:33",
-      "https://news.ycombinator.com/item?id=49023291"
+      "2026-07-23, 15:18:48",
+      "https://news.ycombinator.com/item?id=49023019"
     ],
     [
-      "UK households free to install plug-in balcony solar panels from end of August",
-      "https://www.theguardian.com/money/2026/jul/23/uk-households-free-install-plug-in-balcony-solar-panels"
+      "Why Software Factories Fail (or: harness engineering is not enough)",
+      "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md"
     ]
   ],
   [
@@ -65,7 +75,7 @@
       "https://news.ycombinator.com/item?id=49023016"
     ],
     [
-      "Startup founders urge Trump not to shut off Chinese open weight AI",
+      "Startup founders urge U.S. government not to shut off Chinese open weight AI",
       "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992"
     ]
   ],
@@ -77,16 +87,6 @@
     [
       "Show HN: Palmier Pro – open-source macOS video editor built for AI",
       "https://github.com/palmier-io/palmier-pro"
-    ]
-  ],
-  [
-    [
-      "2026-07-23, 15:02:27",
-      "https://news.ycombinator.com/item?id=49022790"
-    ],
-    [
-      "NerdLens: Mirror your computer with cardboard VR",
-      "https://github.com/ThatXliner/NerdLens"
     ]
   ],
   [
@@ -127,6 +127,16 @@
     [
       "Show HN: Whetuu – a zero-config cross-shell prompt written in Zig",
       "https://yamafaktory.github.io/whetuu/"
+    ]
+  ],
+  [
+    [
+      "2026-07-23, 14:32:53",
+      "https://news.ycombinator.com/item?id=49022302"
+    ],
+    [
+      "Show HN: macOS menu-bar manager for SSH port forwards",
+      "https://github.com/lx2026/RelayBar"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "The Unity CLI: manage Unity from your terminal",
       "https://unity.com/blog/meet-the-unity-cli"
-    ]
-  ],
-  [
-    [
-      "2026-07-19, 19:06:44",
-      "https://news.ycombinator.com/item?id=48970844"
-    ],
-    [
-      "How to Sell a Kettle",
-      "https://www.economist.com/business/2026/07/16/how-to-sell-a-kettle"
     ]
   ],
   [
