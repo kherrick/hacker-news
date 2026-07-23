@@ -16,6 +16,7 @@
 * [2026-07-17, 21:25:09](https://news.ycombinator.com/item?id=48952450) - [I built a digital F1 garage to learn how Formula 1 cars work](https://paddockpass.app)
 * [2026-07-17, 21:24:07](https://news.ycombinator.com/item?id=48952445) - [Everybody's Weirded Out by AI–Except the People Who Foist It on Us](https://newrepublic.com/article/213004/everybody-weirded-ai-except-people-foist-us)
 * [2026-07-17, 21:22:53](https://news.ycombinator.com/item?id=48952439) - [FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again](https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html)
+* [2026-07-17, 21:15:36](https://news.ycombinator.com/item?id=48952392) - [Interview with Matheus Moreira about Lone Lisp and Linux Kernel](https://alexalejandre.com/interviews/interview-with-matheus-moreira/)
 * [2026-07-17, 20:47:57](https://news.ycombinator.com/item?id=48952135) - [Open Book Touch: open-source e-reader](https://www.crowdsupply.com/oddly-specific-objects/open-book-touch)
 * [2026-07-17, 20:41:43](https://news.ycombinator.com/item?id=48952067) - [Topcoat: The full full-stack framework for Rust](https://github.com/tokio-rs/topcoat)
 * [2026-07-17, 20:24:55](https://news.ycombinator.com/item?id=48951898) - [Static search trees: 40x faster than binary search (2024)](https://curiouscoding.nl/posts/static-search-tree/)
