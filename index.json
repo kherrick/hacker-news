@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-23, 22:51:13",
+      "https://news.ycombinator.com/item?id=49029133"
+    ],
+    [
+      "A Taxonomy of Omnicidal Futures Involving Artificial Intelligence",
+      "https://arxiv.org/abs/2507.09369"
+    ]
+  ],
+  [
+    [
+      "2026-07-23, 22:30:29",
+      "https://news.ycombinator.com/item?id=49028927"
+    ],
+    [
+      "98.css",
+      "https://jdan.github.io/98.css/#status-bar"
+    ]
+  ],
+  [
+    [
       "2026-07-23, 22:30:08",
       "https://news.ycombinator.com/item?id=49028922"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2026-07-23, 15:42:40",
-      "https://news.ycombinator.com/item?id=49023427"
-    ],
-    [
-      "Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents",
-      "https://github.com/onecli/onecli"
-    ]
-  ],
-  [
-    [
       "2026-07-23, 15:18:40",
       "https://news.ycombinator.com/item?id=49023016"
     ],
@@ -187,16 +197,6 @@
     [
       "Software rendering in 500 lines of bare C++",
       "https://haqr.eu/tinyrenderer/"
-    ]
-  ],
-  [
-    [
-      "2026-07-23, 14:02:45",
-      "https://news.ycombinator.com/item?id=49021786"
-    ],
-    [
-      "Emacs Is a Lispboard",
-      "https://en.andros.dev/blog/06bfd107/emacs-is-a-lispboard/"
     ]
   ],
   [
@@ -271,22 +271,22 @@
   ],
   [
     [
-      "2026-07-20, 20:16:00",
-      "https://news.ycombinator.com/item?id=48984312"
-    ],
-    [
-      "Hitchcock and Herrmann: The Friendship and Film Scores That Changed Cinema",
-      "https://www.lrb.co.uk/the-paper/v48/n13/jonathan-coe/where-was-the-drum-kit"
-    ]
-  ],
-  [
-    [
       "2026-07-20, 13:59:49",
       "https://news.ycombinator.com/item?id=48978989"
     ],
     [
       "Meta Garbage Collection: Using OCaml's GC to GC Rust",
       "https://soteria-tools.com/blog/meta-garbage-collection"
+    ]
+  ],
+  [
+    [
+      "2026-07-18, 15:28:56",
+      "https://news.ycombinator.com/item?id=48959008"
+    ],
+    [
+      "What else do people draw on gradient.horse?",
+      "https://rybakov.com/blog/what_else_do_people_draw_on_gradient-copy.horse/"
     ]
   ],
   [
