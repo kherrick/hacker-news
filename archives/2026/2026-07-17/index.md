@@ -67,6 +67,7 @@
 * [2026-07-17, 10:35:06](https://news.ycombinator.com/item?id=48945606) - [Just got an AWS billing alert projecting my monthly cost at $140B](https://news.ycombinator.com/item?id=48945606)
 * [2026-07-17, 09:44:25](https://news.ycombinator.com/item?id=48945260) - [I Owe My Life to the Commodore 64](https://www.goto10retro.com/p/i-owe-my-life-to-the-commodore-64)
 * [2026-07-17, 09:42:05](https://news.ycombinator.com/item?id=48945241) - [AWS: Inaccurate Estimated Billing Data – $1.7 billion](https://news.ycombinator.com/item?id=48945241)
+* [2026-07-17, 09:29:52](https://news.ycombinator.com/item?id=48945139) - [Scanning for Pangram Errors](https://veryfineprint.substack.com/p/scanning-for-pangram-errors)
 * [2026-07-17, 09:14:57](https://news.ycombinator.com/item?id=48945037) - [Topological Defect Propagation to Classify Knitted Fabrics](https://journals.aps.org/prx/abstract/10.1103/g565-3dyn)
 * [2026-07-17, 07:58:19](https://news.ycombinator.com/item?id=48944487) - [Trump Media to sell instant access to 'market-moving' social posts](https://www.bbc.com/news/articles/c79gw4lj89eo)
 * [2026-07-17, 07:29:55](https://news.ycombinator.com/item?id=48944333) - [Pushinka](https://en.wikipedia.org/wiki/Pushinka)

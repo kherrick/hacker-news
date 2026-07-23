@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-23](index.md)
 
+* [2026-07-23, 13:10:02](https://news.ycombinator.com/item?id=49021006) - [Alphabet's cash burn raises alarm for Big Tech as AI spending climbs](https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/)
 * [2026-07-23, 12:11:05](https://news.ycombinator.com/item?id=49020335) - [Understanding the AI Economy](https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/)
 * [2026-07-23, 11:38:12](https://news.ycombinator.com/item?id=49019958) - [Publishers consider opting out of Google as search traffic declines](https://www.niemanlab.org/2026/07/search-traffic-has-declined-so-much-that-some-publishers-are-considering-opting-out-of-google-entirely/)
 * [2026-07-23, 11:09:48](https://news.ycombinator.com/item?id=49019694) - [New Framework Desktop Option with AMD Ryzen AI Max+ Pro 495 and 192GB Memory](https://frame.work/desktop?tab=192gb-coming-soon)

@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-23, 13:10:02](https://news.ycombinator.com/item?id=49021006) - [Alphabet's cash burn raises alarm for Big Tech as AI spending climbs](https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/)
 * [2026-07-23, 12:11:05](https://news.ycombinator.com/item?id=49020335) - [Understanding the AI Economy](https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/)
-* [2026-07-23, 11:38:12](https://news.ycombinator.com/item?id=49019958) - [Publishers consider opting out of Google as search traffic declines](https://www.niemanlab.org/2026/07/search-traffic-has-declined-so-much-that-some-publishers-are-considering-opting-out-of-google-entirely/)
 * [2026-07-23, 11:09:48](https://news.ycombinator.com/item?id=49019694) - [New Framework Desktop Option with AMD Ryzen AI Max+ Pro 495 and 192GB Memory](https://frame.work/desktop?tab=192gb-coming-soon)
-* [2026-07-23, 11:05:11](https://news.ycombinator.com/item?id=49019647) - [Worse on Purpose – How Corporate Greed Killed Product Quality – Worse on Purpose](https://www.worseonpurpose.com/)
 * [2026-07-23, 10:07:22](https://news.ycombinator.com/item?id=49019220) - [EU fines Google €890M for competition breaches over search and apps](https://www.theguardian.com/technology/2026/jul/23/eu-fines-google-for-competition-breaches-over-search-and-apps)
 * [2026-07-23, 05:40:20](https://news.ycombinator.com/item?id=49017344) - [Cruller: Bun's Zig Runtime, Continued on Zig 0.16](https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734)
 * [2026-07-23, 05:24:17](https://news.ycombinator.com/item?id=49017265) - [Amiga 1000: Ten years ahead of its time](https://dfarq.homeip.net/amiga-1000-ten-years-ahead-of-its-time/)
@@ -28,6 +27,7 @@
 * [2026-07-21, 07:01:24](https://news.ycombinator.com/item?id=48989006) - [ANSI escape injection in MCP servers: Hidden from humans, visible to AI](https://brightsec.com/research/detecting-ansi-escape-sequence-injection-in-mcp-servers-with-dast/)
 * [2026-07-20, 18:42:07](https://news.ycombinator.com/item?id=48983076) - [Making ASCII Art in Vim](https://alexyang.dev/vim-ascii-art/)
 * [2026-07-20, 14:00:29](https://news.ycombinator.com/item?id=48979000) - [Frequently Asked Questions on Expertise](https://jtpeterson.substack.com/p/faq-on-expertise)
+* [2026-07-17, 09:29:52](https://news.ycombinator.com/item?id=48945139) - [Scanning for Pangram Errors](https://veryfineprint.substack.com/p/scanning-for-pangram-errors)
 * [2026-07-16, 00:11:55](https://news.ycombinator.com/item?id=48928909) - [Test-time training 3D reconstruction](https://github.com/Inception3D/TTT3R)
 * [2026-07-15, 06:50:49](https://news.ycombinator.com/item?id=48917135) - [Nobody knows what a used GPU cluster is worth](https://ciphertalk.substack.com/p/nobody-knows-what-a-used-gpu-cluster)
 
