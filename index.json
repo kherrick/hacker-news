@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2026-07-23, 14:07:38",
-      "https://news.ycombinator.com/item?id=49021868"
-    ],
-    [
-      "Hybrid-Electric Aicraft Engine Targeting 30% Fuel Efficiency",
-      "https://www.rtx.com/news/news-center/2026/07/21/rtxs-pratt-whitney-canada-advances-hybrid-electric-technology-development"
-    ]
-  ],
-  [
-    [
       "2026-07-23, 14:02:45",
       "https://news.ycombinator.com/item?id=49021786"
     ],
@@ -297,6 +287,16 @@
     [
       "Meta Garbage Collection: Using OCaml's GC to GC Rust",
       "https://soteria-tools.com/blog/meta-garbage-collection"
+    ]
+  ],
+  [
+    [
+      "2026-07-17, 21:15:36",
+      "https://news.ycombinator.com/item?id=48952392"
+    ],
+    [
+      "Interview with Matheus Moreira about Lone Lisp and Linux Kernel",
+      "https://alexalejandre.com/interviews/interview-with-matheus-moreira/"
     ]
   ]
 ]
