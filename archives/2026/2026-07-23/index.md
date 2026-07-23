@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-23](index.md)
 
+* [2026-07-23, 12:11:05](https://news.ycombinator.com/item?id=49020335) - [Understanding the AI Economy](https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/)
+* [2026-07-23, 11:38:12](https://news.ycombinator.com/item?id=49019958) - [Publishers consider opting out of Google as search traffic declines](https://www.niemanlab.org/2026/07/search-traffic-has-declined-so-much-that-some-publishers-are-considering-opting-out-of-google-entirely/)
 * [2026-07-23, 11:09:48](https://news.ycombinator.com/item?id=49019694) - [New Framework Desktop Option with AMD Ryzen AI Max+ Pro 495 and 192GB Memory](https://frame.work/desktop?tab=192gb-coming-soon)
 * [2026-07-23, 11:05:11](https://news.ycombinator.com/item?id=49019647) - [Worse on Purpose – How Corporate Greed Killed Product Quality – Worse on Purpose](https://www.worseonpurpose.com/)
 * [2026-07-23, 10:17:36](https://news.ycombinator.com/item?id=49019301) - [Code mode yields a 99.2% cost reduction in our systems](https://www.agent-swarm.dev/blog/code-mode-token-savings)

@@ -104,3 +104,4 @@
 * [2026-07-16, 02:17:31](https://news.ycombinator.com/item?id=48929660) - [Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers](https://arxiv.org/abs/2607.11859)
 * [2026-07-16, 02:06:36](https://news.ycombinator.com/item?id=48929587) - [The Tokio/Rayon Trap and Why Async/Await Fails Concurrency](https://pmbanugo.me/blog/why-async-await-complect-concurrency)
 * [2026-07-16, 01:21:04](https://news.ycombinator.com/item?id=48929351) - [Bluesky Trademarks ATProto](https://atproto.com/blog/at-protocol-trademark)
+* [2026-07-16, 00:11:55](https://news.ycombinator.com/item?id=48928909) - [Test-time training 3D reconstruction](https://github.com/Inception3D/TTT3R)
