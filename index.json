@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-07-23, 14:24:43",
+      "https://news.ycombinator.com/item?id=49022152"
+    ],
+    [
+      "Writing by Hand is Good for your Brain",
+      "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your"
+    ]
+  ],
+  [
+    [
+      "2026-07-23, 14:17:40",
+      "https://news.ycombinator.com/item?id=49022038"
+    ],
+    [
+      "Software rendering in 500 lines of bare C++",
+      "https://haqr.eu/tinyrenderer/"
+    ]
+  ],
+  [
+    [
+      "2026-07-23, 14:06:47",
+      "https://news.ycombinator.com/item?id=49021856"
+    ],
+    [
+      "I Regret Migrating to Codeberg",
+      "https://xn--gckvb8fzb.com/i-regret-migrating-to-codeberg/"
+    ]
+  ],
+  [
+    [
+      "2026-07-23, 14:02:24",
+      "https://news.ycombinator.com/item?id=49021783"
+    ],
+    [
+      "Astronomers may have found the first exomoon",
+      "https://www.eso.org/public/news/eso2610/"
+    ]
+  ],
+  [
+    [
+      "2026-07-23, 13:49:28",
+      "https://news.ycombinator.com/item?id=49021571"
+    ],
+    [
+      "Private healthcare makes industries less innovative. It's time for change",
+      "https://werd.io/private-healthcare-makes-industries-less-innovative-its-time-for-change/"
+    ]
+  ],
+  [
+    [
       "2026-07-23, 13:10:02",
       "https://news.ycombinator.com/item?id=49021006"
     ],
@@ -17,26 +67,6 @@
     [
       "AI Companies Are Trying to Hide a Staggering Amount of Debt",
       "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet"
-    ]
-  ],
-  [
-    [
-      "2026-07-23, 13:00:03",
-      "https://news.ycombinator.com/item?id=49020868"
-    ],
-    [
-      "OpenAI and Anthropic unite against open-weight AI risks to their bottom line",
-      "https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china"
-    ]
-  ],
-  [
-    [
-      "2026-07-23, 10:07:22",
-      "https://news.ycombinator.com/item?id=49019220"
-    ],
-    [
-      "EU fines Google €890M for competition breaches over search and apps",
-      "https://www.theguardian.com/technology/2026/jul/23/eu-fines-google-for-competition-breaches-over-search-and-apps"
     ]
   ],
   [
@@ -71,32 +101,12 @@
   ],
   [
     [
-      "2026-07-22, 21:55:34",
-      "https://news.ycombinator.com/item?id=49014007"
-    ],
-    [
-      "Medici family mystery may be solved after more than 400 years",
-      "https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria"
-    ]
-  ],
-  [
-    [
       "2026-07-22, 21:15:26",
       "https://news.ycombinator.com/item?id=49013538"
     ],
     [
       "Malleable Computing, Emacs, and You",
       "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-22, 20:16:01",
-      "https://news.ycombinator.com/item?id=49012777"
-    ],
-    [
-      "Fairphone 6 wide camera experimental Linux support",
-      "https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/"
     ]
   ],
   [
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2026-07-21, 13:13:47",
-      "https://news.ycombinator.com/item?id=48991882"
-    ],
-    [
-      "git's –end-of-options Flag",
-      "https://nesbitt.io/2026/07/21/end-of-options.html"
-    ]
-  ],
-  [
-    [
       "2026-07-21, 10:04:20",
       "https://news.ycombinator.com/item?id=48990219"
     ],
@@ -247,6 +247,16 @@
     [
       "ANSI escape injection in MCP servers: Hidden from humans, visible to AI",
       "https://brightsec.com/research/detecting-ansi-escape-sequence-injection-in-mcp-servers-with-dast/"
+    ]
+  ],
+  [
+    [
+      "2026-07-20, 23:30:31",
+      "https://news.ycombinator.com/item?id=48986223"
+    ],
+    [
+      "The Telegarden (1995-2004)",
+      "https://goldberg.berkeley.edu/garden/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Test-time training 3D reconstruction",
       "https://github.com/Inception3D/TTT3R"
-    ]
-  ],
-  [
-    [
-      "2026-07-15, 06:50:49",
-      "https://news.ycombinator.com/item?id=48917135"
-    ],
-    [
-      "Nobody knows what a used GPU cluster is worth",
-      "https://ciphertalk.substack.com/p/nobody-knows-what-a-used-gpu-cluster"
     ]
   ]
 ]
