@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-23, 17:06:22](https://news.ycombinator.com/item?id=49024882) - [Show HN: Claude-thermos – keeps your Claude session warm for you](https://github.com/izeigerman/claude-thermos)
 * [2026-07-23, 16:53:33](https://news.ycombinator.com/item?id=49024691) - [What happened to TheNumbers.com](https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all)
 * [2026-07-23, 16:49:57](https://news.ycombinator.com/item?id=49024643) - [The arguments against open source AI are bad](https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/)
 * [2026-07-23, 16:48:38](https://news.ycombinator.com/item?id=49024620) - [Launch HN: Screenpipe (YC S26) – Power your agents by your 24/7 screen recording](https://news.ycombinator.com/item?id=49024620)
@@ -13,7 +14,6 @@
 * [2026-07-23, 14:55:32](https://news.ycombinator.com/item?id=49022663) - [Learn WebGPU for C++](https://eliemichel.github.io/LearnWebGPU/)
 * [2026-07-23, 14:53:34](https://news.ycombinator.com/item?id=49022634) - [Learn OpenGL, extensive tutorial resource for learning Modern OpenGL](https://learnopengl.com/)
 * [2026-07-23, 14:37:54](https://news.ycombinator.com/item?id=49022371) - [Show HN: Whetuu – a zero-config cross-shell prompt written in Zig](https://yamafaktory.github.io/whetuu/)
-* [2026-07-23, 14:32:53](https://news.ycombinator.com/item?id=49022302) - [Show HN: macOS menu-bar manager for SSH port forwards](https://github.com/lx2026/RelayBar)
 * [2026-07-23, 14:31:26](https://news.ycombinator.com/item?id=49022284) - [Show HN: Remux – an open-source tmux workspace designed for iPhone](https://github.com/h3nock/remux)
 * [2026-07-23, 14:24:43](https://news.ycombinator.com/item?id=49022152) - [Writing by hand is good for your brain](https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your)
 * [2026-07-23, 14:23:51](https://news.ycombinator.com/item?id=49022137) - [Fields Medals 2026](https://www.mathunion.org/imu-awards/fields-medal/fields-medals-2026)
@@ -26,7 +26,7 @@
 * [2026-07-23, 13:49:17](https://news.ycombinator.com/item?id=49021569) - [What happens when the information runs out](https://blog.jimgrey.net/2026/06/30/what-happens-when-the-information-runs-out/)
 * [2026-07-23, 13:09:10](https://news.ycombinator.com/item?id=49020999) - [AI Companies Are Trying to Hide a Staggering Amount of Debt](https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet)
 * [2026-07-23, 01:16:14](https://news.ycombinator.com/item?id=49015639) - [OpenAI’s accidental attack against Hugging Face is science fiction that happened](https://simonwillison.net/2026/Jul/22/openai-cyberattack/)
-* [2026-07-21, 17:51:57](https://news.ycombinator.com/item?id=48995712) - [The Unity CLI: manage Unity from your terminal](https://unity.com/blog/meet-the-unity-cli)
+* [2026-07-20, 13:59:49](https://news.ycombinator.com/item?id=48978989) - [Meta Garbage Collection: Using OCaml's GC to GC Rust](https://soteria-tools.com/blog/meta-garbage-collection)
 * [2026-07-19, 13:19:26](https://news.ycombinator.com/item?id=48968010) - [OpenStreetMap: Admin_level for All Countries](https://wiki.openstreetmap.org/wiki/Tag:boundary%3Dadministrative#Table_:_Admin_level_for_all_countries)
 * [2026-07-17, 09:29:52](https://news.ycombinator.com/item?id=48945139) - [Scanning for Pangram Errors](https://veryfineprint.substack.com/p/scanning-for-pangram-errors)
 * [2026-07-15, 11:02:10](https://news.ycombinator.com/item?id=48919004) - [Floating Companion: Exploring Design Space for Soft Floating Robots in Indoor](https://dl.acm.org/doi/10.1145/3800645.3813051)
