@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2026-07-23, 01:16:14",
-      "https://news.ycombinator.com/item?id=49015639"
-    ],
-    [
-      "OpenAI's accidental cyberattack against Hugging Face is science fiction",
-      "https://simonwillison.net/2026/Jul/22/openai-cyberattack/"
-    ]
-  ],
-  [
-    [
       "2026-07-23, 01:06:56",
       "https://news.ycombinator.com/item?id=49015588"
     ],
@@ -71,22 +61,22 @@
   ],
   [
     [
+      "2026-07-22, 21:48:44",
+      "https://news.ycombinator.com/item?id=49013924"
+    ],
+    [
+      "All 253 Patterns from Christopher Alexander's a Pattern Language Summarized",
+      "https://claytondorge.com/patterns-list"
+    ]
+  ],
+  [
+    [
       "2026-07-22, 21:15:26",
       "https://news.ycombinator.com/item?id=49013538"
     ],
     [
       "Malleable Computing, Emacs, and You",
       "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-22, 20:33:44",
-      "https://news.ycombinator.com/item?id=49013036"
-    ],
-    [
-      "I Inspected My Take-Home Interview Project. It Was a Whole Operation",
-      "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/"
     ]
   ],
   [
@@ -135,7 +125,7 @@
       "https://news.ycombinator.com/item?id=49010648"
     ],
     [
-      "Everyone Should Know SIMD",
+      "Everyone should know SIMD",
       "https://mitchellh.com/writing/everyone-should-know-simd"
     ]
   ],
@@ -145,7 +135,7 @@
       "https://news.ycombinator.com/item?id=49010345"
     ],
     [
-      "Terence Tao's ChatGPT conversation about the Jacobian conjecture counterexample",
+      "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
       "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56"
     ]
   ],
@@ -165,7 +155,7 @@
       "https://news.ycombinator.com/item?id=49010129"
     ],
     [
-      "Are AI Labs Pelicanmaxxing?",
+      "Are AI labs pelicanmaxxing?",
       "https://dylancastillo.co/posts/pelicanmaxxing.html"
     ]
   ],
@@ -257,6 +247,16 @@
     [
       "So Reddit has decided that plain HTML is unsafe",
       "https://www.cole-k.com/2026/07/21/reddit/"
+    ]
+  ],
+  [
+    [
+      "2026-07-21, 13:13:47",
+      "https://news.ycombinator.com/item?id=48991882"
+    ],
+    [
+      "git's –end-of-options Flag",
+      "https://nesbitt.io/2026/07/21/end-of-options.html"
     ]
   ],
   [
