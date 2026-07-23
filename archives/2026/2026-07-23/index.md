@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-07-23](index.md)
 
+* [2026-07-23, 11:09:48](https://news.ycombinator.com/item?id=49019694) - [New Framework Desktop Option with AMD Ryzen AI Max+ Pro 495 and 192GB Memory](https://frame.work/desktop?tab=192gb-coming-soon)
+* [2026-07-23, 11:05:11](https://news.ycombinator.com/item?id=49019647) - [Worse on Purpose – How Corporate Greed Killed Product Quality – Worse on Purpose](https://www.worseonpurpose.com/)
+* [2026-07-23, 10:17:36](https://news.ycombinator.com/item?id=49019301) - [Code mode yields a 99.2% cost reduction in our systems](https://www.agent-swarm.dev/blog/code-mode-token-savings)
 * [2026-07-23, 10:07:22](https://news.ycombinator.com/item?id=49019220) - [EU fines Google €890M for competition breaches over search and apps](https://www.theguardian.com/technology/2026/jul/23/eu-fines-google-for-competition-breaches-over-search-and-apps)
 * [2026-07-23, 05:40:20](https://news.ycombinator.com/item?id=49017344) - [Cruller: Bun's Zig Runtime, Continued on Zig 0.16](https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734)
 * [2026-07-23, 05:24:17](https://news.ycombinator.com/item?id=49017265) - [July 23 1985, Commodore introduced its Amiga 1000: 10 years ahead of its time](https://dfarq.homeip.net/amiga-1000-ten-years-ahead-of-its-time/)
