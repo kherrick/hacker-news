@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-20](index.md)
 
+* [2026-07-20, 23:30:31](https://news.ycombinator.com/item?id=48986223) - [The Telegarden (1995-2004)](https://goldberg.berkeley.edu/garden/)
 * [2026-07-20, 23:15:41](https://news.ycombinator.com/item?id=48986091) - [Jellyfin founder Andrew leaves team](https://forum.jellyfin.org/t-project-leadership-changes)
 * [2026-07-20, 23:00:29](https://news.ycombinator.com/item?id=48985956) - [Opaque, Interoperable Passkey Records (and a Go API)](https://words.filippo.io/passkey-record/)
 * [2026-07-20, 21:43:07](https://news.ycombinator.com/item?id=48985249) - [Donation Controversy](https://mullvad.net/en/blog/donation-controversy)

@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-07-23](index.md)
 
+* [2026-07-23, 14:24:43](https://news.ycombinator.com/item?id=49022152) - [Writing by Hand is Good for your Brain](https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your)
+* [2026-07-23, 14:17:40](https://news.ycombinator.com/item?id=49022038) - [Software rendering in 500 lines of bare C++](https://haqr.eu/tinyrenderer/)
+* [2026-07-23, 14:06:47](https://news.ycombinator.com/item?id=49021856) - [I Regret Migrating to Codeberg](https://xn--gckvb8fzb.com/i-regret-migrating-to-codeberg/)
+* [2026-07-23, 14:02:24](https://news.ycombinator.com/item?id=49021783) - [Astronomers may have found the first exomoon](https://www.eso.org/public/news/eso2610/)
+* [2026-07-23, 13:49:28](https://news.ycombinator.com/item?id=49021571) - [Private healthcare makes industries less innovative. It's time for change](https://werd.io/private-healthcare-makes-industries-less-innovative-its-time-for-change/)
 * [2026-07-23, 13:10:02](https://news.ycombinator.com/item?id=49021006) - [Alphabet's cash burn raises alarm for Big Tech as AI spending climbs](https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/)
 * [2026-07-23, 13:09:10](https://news.ycombinator.com/item?id=49020999) - [AI Companies Are Trying to Hide a Staggering Amount of Debt](https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet)
 * [2026-07-23, 13:00:03](https://news.ycombinator.com/item?id=49020868) - [OpenAI and Anthropic unite against open-weight AI risks to their bottom line](https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china)
