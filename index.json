@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-24, 02:18:23",
+      "https://news.ycombinator.com/item?id=49030547"
+    ],
+    [
+      "The Corporate Creep of Plex: Why it may be time to move to Jellyfin",
+      "https://reprodev.com/the-corporate-creep-of-plex-why-it-may-be-time-to-move-to-jellyfin-and-the-open-source-reality/"
+    ]
+  ],
+  [
+    [
+      "2026-07-24, 02:06:31",
+      "https://news.ycombinator.com/item?id=49030474"
+    ],
+    [
+      "Police Removed Prominent Scientists from the ADA Meeting. Researchers Respond",
+      "https://www.the-scientist.com/police-removed-prominent-scientists-from-the-ada-meeting-researchers-respond-74607"
+    ]
+  ],
+  [
+    [
       "2026-07-23, 23:36:42",
       "https://news.ycombinator.com/item?id=49029538"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2026-07-23, 14:02:45",
-      "https://news.ycombinator.com/item?id=49021786"
-    ],
-    [
-      "Emacs Is a Lispboard",
-      "https://en.andros.dev/blog/06bfd107/emacs-is-a-lispboard/"
-    ]
-  ],
-  [
-    [
       "2026-07-23, 14:02:24",
       "https://news.ycombinator.com/item?id=49021783"
     ],
@@ -241,32 +251,12 @@
   ],
   [
     [
-      "2026-07-22, 14:39:10",
-      "https://news.ycombinator.com/item?id=49007574"
-    ],
-    [
-      "Show HN: Trifle – Open-source analytics that stores answers, not events",
-      "https://trifle.io/"
-    ]
-  ],
-  [
-    [
       "2026-07-22, 14:16:44",
       "https://news.ycombinator.com/item?id=49007221"
     ],
     [
       "The Beam Engine",
       "https://glinscott.github.io/beam-engine/"
-    ]
-  ],
-  [
-    [
-      "2026-07-21, 07:10:49",
-      "https://news.ycombinator.com/item?id=48989065"
-    ],
-    [
-      "Escape Analysis in Go: Stack vs. Heap Allocations Explained",
-      "https://blog.jetbrains.com/go/2026/07/20/escape-analysis/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Fractl.art – a fractal generator with 8 octillion different patterns",
       "https://fractl.art"
+    ]
+  ],
+  [
+    [
+      "2026-07-20, 00:32:21",
+      "https://news.ycombinator.com/item?id=48973071"
+    ],
+    [
+      "Freeze-Casting",
+      "https://en.wikipedia.org/wiki/Freeze-casting"
     ]
   ]
 ]
