@@ -73,6 +73,7 @@
 * [2026-07-20, 12:00:43](https://news.ycombinator.com/item?id=48977564) - [The Trump administration's Threat to Scientific Research](https://marginalrevolution.com/marginalrevolution/2026/07/the-trump-administrations-threat-to-scientific-research.html)
 * [2026-07-20, 11:50:01](https://news.ycombinator.com/item?id=48977463) - [Why malloc always does more than I asked for?](https://ssenthilnathan3.github.io/blog/malloc/)
 * [2026-07-20, 11:05:58](https://news.ycombinator.com/item?id=48977128) - [Who's Afraid of Chinese Models?](https://stratechery.com/2026/whos-afraid-of-chinese-models/)
+* [2026-07-20, 10:53:59](https://news.ycombinator.com/item?id=48977014) - [Reporting Web 3D Capabilities on a Budget of $3 a Month](https://ben3d.ca/blog/reporting-web-3d-capabilities-on-a-budget)
 * [2026-07-20, 10:30:40](https://news.ycombinator.com/item?id=48976846) - [Airport Simulator](https://airport.apunen.com/)
 * [2026-07-20, 10:24:02](https://news.ycombinator.com/item?id=48976781) - [GitHub's 2FA is to become mandatory on September 2, 2026](https://news.ycombinator.com/item?id=48976781)
 * [2026-07-20, 10:12:22](https://news.ycombinator.com/item?id=48976682) - [Airbus Takes Flight from AWS](https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109)
