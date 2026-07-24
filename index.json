@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-07-24, 02:06:31",
-      "https://news.ycombinator.com/item?id=49030474"
+      "2026-07-24, 04:34:50",
+      "https://news.ycombinator.com/item?id=49031262"
     ],
     [
-      "Police Removed Prominent Scientists from the ADA Meeting. Researchers Respond",
-      "https://www.the-scientist.com/police-removed-prominent-scientists-from-the-ada-meeting-researchers-respond-74607"
+      "Zitron: The Subprime Datacenter Crisis",
+      "https://www.wheresyoured.at/the-subprime-data-center-crisis/"
     ]
   ],
   [
@@ -17,16 +17,6 @@
     [
       "The Visual 6502",
       "http://visual6502.org/JSSim/index.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-23, 22:51:13",
-      "https://news.ycombinator.com/item?id=49029133"
-    ],
-    [
-      "A taxonomy of omnicidal futures involving artificial intelligence (2025)",
-      "https://arxiv.org/abs/2507.09369"
     ]
   ],
   [
@@ -47,16 +37,6 @@
     [
       "Couple pay >$800k for a gene-editing therapy for their daughter. She died.",
       "https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public"
-    ]
-  ],
-  [
-    [
-      "2026-07-23, 19:46:28",
-      "https://news.ycombinator.com/item?id=49027052"
-    ],
-    [
-      "Mourning Dan Williams",
-      "https://lwn.net/Articles/1084545/"
     ]
   ],
   [
@@ -267,6 +247,26 @@
     [
       "The Beam Engine",
       "https://glinscott.github.io/beam-engine/"
+    ]
+  ],
+  [
+    [
+      "2026-07-21, 06:08:35",
+      "https://news.ycombinator.com/item?id=48988651"
+    ],
+    [
+      "Modula-3 History Collection on Computer History Museum",
+      "https://softwarepreservation.computerhistory.org/modula3/"
+    ]
+  ],
+  [
+    [
+      "2026-07-21, 00:28:39",
+      "https://news.ycombinator.com/item?id=48986703"
+    ],
+    [
+      "Quickly rewrite Git repository history",
+      "https://github.com/newren/git-filter-repo"
     ]
   ],
   [
