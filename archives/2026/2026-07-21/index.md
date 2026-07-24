@@ -85,6 +85,7 @@
 * [2026-07-21, 03:50:53](https://news.ycombinator.com/item?id=48987822) - [Jane Street: Incremental](https://github.com/janestreet/incremental)
 * [2026-07-21, 03:42:47](https://news.ycombinator.com/item?id=48987775) - [VTubing: How a Japanese Phenomenon Is Going Worldwide](https://www.tokyodev.com/articles/vtubing-how-a-japanese-phenomenon-is-going-worldwide)
 * [2026-07-21, 03:17:10](https://news.ycombinator.com/item?id=48987634) - [Is surveillance risk chilling your online speech?](https://news.ycombinator.com/item?id=48987634)
+* [2026-07-21, 02:38:50](https://news.ycombinator.com/item?id=48987422) - [So bright the vision (1956) a story about machines writing instead of humans [pdf]](https://s3.us-west-1.wasabisys.com/luminist/EB/S/Simak%20-%20So%20Bright%20the%20Vision.pdf)
 * [2026-07-21, 02:25:36](https://news.ycombinator.com/item?id=48987347) - [A PHP server that can handle 10x as many concurrent requests as Nginx+PHP-fpm](https://github.com/Qbix/webserver/blob/main/README.md)
 * [2026-07-21, 02:09:27](https://news.ycombinator.com/item?id=48987253) - [Ramp Router](https://ramp.com/router/)
 * [2026-07-21, 01:06:20](https://news.ycombinator.com/item?id=48986912) - [Show HN: I made email signatures less boring](https://esigna.app)

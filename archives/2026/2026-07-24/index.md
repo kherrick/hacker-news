@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-24](index.md)
 
+* [2026-07-24, 15:24:00](https://news.ycombinator.com/item?id=49037031) - [The front end framework for correctness: built on Effect, architected like Elm](https://foldkit.dev/)
 * [2026-07-24, 14:41:59](https://news.ycombinator.com/item?id=49036433) - [Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey](https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece)
 * [2026-07-24, 14:28:38](https://news.ycombinator.com/item?id=49036224) - [Co-Opting Linux Processes for High-Performance Network Simulation (2022)](https://www.usenix.org/conference/atc22/presentation/jansen)
 * [2026-07-24, 14:26:09](https://news.ycombinator.com/item?id=49036182) - [Mag Computer: A Mag History of RAM (1960–2025)](https://magworld.pw/episodes/computer/)
@@ -15,6 +16,7 @@
 * [2026-07-24, 13:57:22](https://news.ycombinator.com/item?id=49035740) - [Plants vs. Zombies for PlayStation 2](https://github.com/OptiJuegos/pvz-ps2)
 * [2026-07-24, 13:51:48](https://news.ycombinator.com/item?id=49035656) - [Interview with a Maintainer](https://nesbitt.io/2026/07/24/interview-with-a-maintainer.html)
 * [2026-07-24, 13:47:21](https://news.ycombinator.com/item?id=49035563) - [PCI DSS DMARC Requirement: What Section 5.4.1 Requires](https://dmarcguard.io/blog/pci-dss/)
+* [2026-07-24, 13:47:04](https://news.ycombinator.com/item?id=49035561) - [My Emacs Configuration (Dired)](https://eugene-andrienko.com/2026-07-05-my-emacs-configuration-dired.html)
 * [2026-07-24, 13:46:40](https://news.ycombinator.com/item?id=49035550) - [Kaizen #4: Overhauled Homelab](https://timharek.no/blog/kaizen-4/)
 * [2026-07-24, 13:33:12](https://news.ycombinator.com/item?id=49035314) - [Oracle fires 21,000 employees to fund AI spending](https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-903442)
 * [2026-07-24, 13:14:58](https://news.ycombinator.com/item?id=49035080) - [How the God of Israel Was Born](https://andreafontana.it/en/birth-god-israel-yahweh-el.html)
