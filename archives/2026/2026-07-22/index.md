@@ -28,6 +28,7 @@
 * [2026-07-22, 15:45:18](https://news.ycombinator.com/item?id=49008642) - [Does creatine make you smarter?](https://dynomight.net/creatine/)
 * [2026-07-22, 15:43:45](https://news.ycombinator.com/item?id=49008624) - [Six questions before you add an LLM](https://cameronmpalmer.medium.com/should-you-even-use-an-llm-b4f3b7914f4d)
 * [2026-07-22, 15:39:01](https://news.ycombinator.com/item?id=49008538) - [Can a MUD evaluate LLMs? A $99 proof of concept](https://cruciblebench.ai/)
+* [2026-07-22, 15:37:25](https://news.ycombinator.com/item?id=49008512) - [An old patent inspired the new \"Y-zipper\", a three-sided fastener](https://news.mit.edu/2026/three-sided-y-zipper-design-0504)
 * [2026-07-22, 15:37:25](https://news.ycombinator.com/item?id=49008512) - [A Zipper Patent Sat in a Garage for 40 Years. Now It's Real](https://www.yankodesign.com/2026/05/31/a-zipper-patent-sat-in-a-garage-for-40-years-now-its-real/)
 * [2026-07-22, 15:33:48](https://news.ycombinator.com/item?id=49008440) - [Making](https://beej.us/blog/data/ai-making/)
 * [2026-07-22, 15:30:36](https://news.ycombinator.com/item?id=49008406) - [Show HN: HN Hall of Fame – browse 3,100 legendary Hacker News links](https://www.orangecrumbs.com/hall/)

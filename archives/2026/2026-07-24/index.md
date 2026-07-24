@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-07-24](index.md)
 
 * [2026-07-24, 21:03:10](https://news.ycombinator.com/item?id=49041546) - [Show HN: Max Studio Tools (C++ DSP Modules for Max and Ableton Live)](https://github.com/apresta/max-studio-tools)
+* [2026-07-24, 20:07:20](https://news.ycombinator.com/item?id=49040989) - [What if we made advertising illegal?](https://simone.org/advertising/)
 * [2026-07-24, 19:05:53](https://news.ycombinator.com/item?id=49040296) - [Postgres LISTEN/NOTIFY actually scales](https://www.dbos.dev/blog/postgres-listen-notify-scalability)
 * [2026-07-24, 18:07:08](https://news.ycombinator.com/item?id=49039490) - [BGP ORIGIN attribute manipulation and its impact on the Internet](https://blog.cloudflare.com/bgp-origin-attribute/)
 * [2026-07-24, 18:03:22](https://news.ycombinator.com/item?id=49039448) - [I got into YC by hacking it](https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html)
