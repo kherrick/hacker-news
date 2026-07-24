@@ -66,6 +66,7 @@
 * [2026-07-21, 13:48:07](https://news.ycombinator.com/item?id=48992315) - [Why Are There No Empires in Age of Empires? (2019)](https://acoup.blog/2019/11/22/collections-why-are-there-no-empires-in-age-of-empires/)
 * [2026-07-21, 13:13:47](https://news.ycombinator.com/item?id=48991882) - [git's –end-of-options Flag](https://nesbitt.io/2026/07/21/end-of-options.html)
 * [2026-07-21, 13:05:28](https://news.ycombinator.com/item?id=48991815) - [The Great Steam Deck Crash of 2026: How the New Pricing Decreased Demand by 80%](https://boilingsteam.com/the-great-steam-deck-volume-crash/)
+* [2026-07-21, 12:19:48](https://news.ycombinator.com/item?id=48991320) - [The story behind APC-2](https://teenage.engineering/now)
 * [2026-07-21, 12:03:14](https://news.ycombinator.com/item?id=48991139) - [New US homeownership measure puts people first](https://www.minneapolisfed.org/article/2026/new-homeownership-measure-puts-people-first)
 * [2026-07-21, 11:34:00](https://news.ycombinator.com/item?id=48990886) - [Israeli spyware vans infiltrate American streets and your phones](https://cybernews.com/privacy/us-police-israeli-spy-vans-falconet-cognyte/)
 * [2026-07-21, 10:04:20](https://news.ycombinator.com/item?id=48990219) - [Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot](https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html)

@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-07-24](index.md)
 
+* [2026-07-24, 13:46:40](https://news.ycombinator.com/item?id=49035550) - [Kaizen #4: Overhauled Homelab](https://timharek.no/blog/kaizen-4/)
+* [2026-07-24, 13:33:12](https://news.ycombinator.com/item?id=49035314) - [Oracle fires 21,000 employees to fund AI spending](https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-903442)
+* [2026-07-24, 13:02:49](https://news.ycombinator.com/item?id=49034948) - [Patreon laying off 20% of staff](https://www.patreon.com/jackconte/posts/painful-update-164628951)
 * [2026-07-24, 12:55:47](https://news.ycombinator.com/item?id=49034895) - [Eight Newly Produced MQ-9 Reaper Drones Destroyed in Iranian Strike](https://militarywatchmagazine.com/)
 * [2026-07-24, 12:40:27](https://news.ycombinator.com/item?id=49034747) - [Em dashes are fucking amazing](https://psychotechnology.substack.com/p/em-dashes-are-fucking-amazing)
 * [2026-07-24, 12:34:28](https://news.ycombinator.com/item?id=49034673) - [Programming language file extensions that match ISO 3166-1 alpha-2 country code](https://www.bruh.ltd/blog/programming-language-file-extensions-that-match-an-iso-3166-1-alpha-2-country-code/)
