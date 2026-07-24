@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-24, 02:18:23](https://news.ycombinator.com/item?id=49030547) - [The Corporate Creep of Plex: Why it may be time to move to Jellyfin](https://reprodev.com/the-corporate-creep-of-plex-why-it-may-be-time-to-move-to-jellyfin-and-the-open-source-reality/)
+* [2026-07-24, 02:06:31](https://news.ycombinator.com/item?id=49030474) - [Police Removed Prominent Scientists from the ADA Meeting. Researchers Respond](https://www.the-scientist.com/police-removed-prominent-scientists-from-the-ada-meeting-researchers-respond-74607)
 * [2026-07-23, 23:36:42](https://news.ycombinator.com/item?id=49029538) - [The Visual 6502](http://visual6502.org/JSSim/index.html)
 * [2026-07-23, 22:51:13](https://news.ycombinator.com/item?id=49029133) - [A taxonomy of omnicidal futures involving artificial intelligence (2025)](https://arxiv.org/abs/2507.09369)
 * [2026-07-23, 22:30:29](https://news.ycombinator.com/item?id=49028927) - [98.css](https://jdan.github.io/98.css/#status-bar)
@@ -19,17 +21,15 @@
 * [2026-07-23, 14:53:34](https://news.ycombinator.com/item?id=49022634) - [Learn OpenGL, extensive tutorial resource for learning Modern OpenGL](https://learnopengl.com/)
 * [2026-07-23, 14:24:43](https://news.ycombinator.com/item?id=49022152) - [Writing by hand is good for your brain](https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your)
 * [2026-07-23, 14:17:40](https://news.ycombinator.com/item?id=49022038) - [Software rendering in 500 lines of bare C++](https://haqr.eu/tinyrenderer/)
-* [2026-07-23, 14:02:45](https://news.ycombinator.com/item?id=49021786) - [Emacs Is a Lispboard](https://en.andros.dev/blog/06bfd107/emacs-is-a-lispboard/)
 * [2026-07-23, 14:02:24](https://news.ycombinator.com/item?id=49021783) - [Astronomers may have found the first exomoon](https://www.eso.org/public/news/eso2610/)
 * [2026-07-23, 13:51:36](https://news.ycombinator.com/item?id=49021597) - [DARPA, U.S. Air Force fly AI-controlled F-16](https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16)
 * [2026-07-23, 13:09:10](https://news.ycombinator.com/item?id=49020999) - [AI Companies Are Trying to Hide a Staggering Amount of Debt](https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet)
 * [2026-07-23, 01:16:14](https://news.ycombinator.com/item?id=49015639) - [OpenAI’s accidental attack against Hugging Face is science fiction that happened](https://simonwillison.net/2026/Jul/22/openai-cyberattack/)
-* [2026-07-22, 14:39:10](https://news.ycombinator.com/item?id=49007574) - [Show HN: Trifle – Open-source analytics that stores answers, not events](https://trifle.io/)
 * [2026-07-22, 14:16:44](https://news.ycombinator.com/item?id=49007221) - [The Beam Engine](https://glinscott.github.io/beam-engine/)
-* [2026-07-21, 07:10:49](https://news.ycombinator.com/item?id=48989065) - [Escape Analysis in Go: Stack vs. Heap Allocations Explained](https://blog.jetbrains.com/go/2026/07/20/escape-analysis/)
 * [2026-07-20, 20:54:56](https://news.ycombinator.com/item?id=48984760) - [Converting Files into Minecraft Worlds](https://wuemeli.com/blog/sulfur-part-1/)
 * [2026-07-20, 13:59:49](https://news.ycombinator.com/item?id=48978989) - [Meta Garbage Collection: Using OCaml's GC to GC Rust](https://soteria-tools.com/blog/meta-garbage-collection)
 * [2026-07-20, 04:20:43](https://news.ycombinator.com/item?id=48974300) - [Fractl.art – a fractal generator with 8 octillion different patterns](https://fractl.art)
+* [2026-07-20, 00:32:21](https://news.ycombinator.com/item?id=48973071) - [Freeze-Casting](https://en.wikipedia.org/wiki/Freeze-casting)
 
 ## [Archives](archives/index.md)
 

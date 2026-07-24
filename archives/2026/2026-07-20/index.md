@@ -90,4 +90,5 @@
 * [2026-07-20, 02:34:18](https://news.ycombinator.com/item?id=48973782) - [Big Tech Is Now Targeting Native American Land for Data Centers](https://www.nytimes.com/2026/07/09/us/data-centers-native-american-tribes.html)
 * [2026-07-20, 01:31:12](https://news.ycombinator.com/item?id=48973455) - [Satan's 19th-Century Bank Note](https://www.historytoday.com/miscellanies/satans-19th-century-bank-note)
 * [2026-07-20, 00:41:32](https://news.ycombinator.com/item?id=48973123) - [DeKalb deputy charged with Flock camera misuse; more Georgia officers fired](https://www.ajc.com/news/2026/07/3-more-georgia-police-officers-fired-over-alleged-flock-camera-misuse/)
+* [2026-07-20, 00:32:21](https://news.ycombinator.com/item?id=48973071) - [Freeze-Casting](https://en.wikipedia.org/wiki/Freeze-casting)
 * [2026-07-20, 00:16:50](https://news.ycombinator.com/item?id=48972970) - [Moonshine: Lets you stream games from your PC to any device running Moonlight](https://github.com/hgaiser/moonshine)
