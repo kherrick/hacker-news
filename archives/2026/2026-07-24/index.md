@@ -4,6 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-07-24](index.md)
 
+* [2026-07-24, 09:40:25](https://news.ycombinator.com/item?id=49033173) - [Show HN: A static, client-side tarot calculator for Brazilian Portuguese](https://meuarcanopessoal.net/)
+* [2026-07-24, 09:31:48](https://news.ycombinator.com/item?id=49033127) - [Flux 3 X Mimic: The Next Generation of Video-Action Models](https://bfl.ai/blog/flux-3-mimic)
+* [2026-07-24, 09:29:44](https://news.ycombinator.com/item?id=49033110) - [Future euro banknote design proposals](https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/design-proposals.en.html)
+* [2026-07-24, 09:08:17](https://news.ycombinator.com/item?id=49033004) - [Nothing works and everyone is euphoric](https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/)
+* [2026-07-24, 09:07:44](https://news.ycombinator.com/item?id=49033001) - [The day Steve Jobs dissed me in a keynote (2010)](https://sive.rs/itunes)
+* [2026-07-24, 08:29:11](https://news.ycombinator.com/item?id=49032756) - [The Book Prize Index](https://book-prize-index.vercel.app)
+* [2026-07-24, 08:18:30](https://news.ycombinator.com/item?id=49032660) - [It's getting harder to focus every day](https://glyphack.com/attention/)
+* [2026-07-24, 07:22:47](https://news.ycombinator.com/item?id=49032225) - [The Ever-Receding Pocket](https://zhenyi.gibber.blog/the-ever-receding-pocket)
 * [2026-07-24, 07:02:43](https://news.ycombinator.com/item?id=49032095) - [The PImpl idiom and the C++26 std:indirect type](https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/)
 * [2026-07-24, 06:36:50](https://news.ycombinator.com/item?id=49031917) - [Russia's businesses under strain from Ukraine's attacks on Wildberries](https://www.bbc.com/news/articles/cvg9n2y61w6o)
 * [2026-07-24, 06:17:08](https://news.ycombinator.com/item?id=49031796) - [Flux 3](https://bfl.ai/blog/flux-3)
