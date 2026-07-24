@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-24, 22:44:38](https://news.ycombinator.com/item?id=49042528) - [SpaceX Starship Flight 13 livestream [video]](https://www.spacex.com/launches/starship-flight-13)
 * [2026-07-24, 21:03:10](https://news.ycombinator.com/item?id=49041546) - [Show HN: Max Studio Tools – C++ DSP Modules for Max and Ableton Live](https://github.com/apresta/max-studio-tools)
 * [2026-07-24, 19:45:10](https://news.ycombinator.com/item?id=49040741) - [Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard](https://artificialanalysis.ai/models)
 * [2026-07-24, 19:05:53](https://news.ycombinator.com/item?id=49040296) - [Postgres LISTEN/NOTIFY actually scales](https://www.dbos.dev/blog/postgres-listen-notify-scalability)
@@ -22,12 +23,11 @@
 * [2026-07-23, 19:37:37](https://news.ycombinator.com/item?id=49026933) - [Fil-C: Garbage In, Memory Safety Out [video]](https://www.youtube.com/watch?v=5F-2Y1LPRek)
 * [2026-07-23, 17:10:02](https://news.ycombinator.com/item?id=49024938) - [Kimi K3 exploited the latest Redis server](https://twitter.com/fried_rice/status/2080059356322918777)
 * [2026-07-23, 12:31:21](https://news.ycombinator.com/item?id=49020545) - [Show HN: I simulated closing the Strait of Hormuz on real oil trade data](https://globaloilnetwork.staffinganalytics.io/)
+* [2026-07-23, 04:48:22](https://news.ycombinator.com/item?id=49017054) - [How to Write a Quine](https://czterycztery.pl/slowo/quine-EN.html)
 * [2026-07-22, 15:37:25](https://news.ycombinator.com/item?id=49008512) - [An old patent inspired the new \"Y-zipper\", a three-sided fastener](https://news.mit.edu/2026/three-sided-y-zipper-design-0504)
 * [2026-07-22, 10:24:40](https://news.ycombinator.com/item?id=49004464) - [Marimo now runs in PyCharm](https://marimo.io/blog/pycharm)
-* [2026-07-21, 20:42:23](https://news.ycombinator.com/item?id=48997998) - [The Secret Origins of Amazon's Alexa](https://www.wired.com/story/how-amazon-made-alexa-smarter/)
 * [2026-07-21, 17:27:59](https://news.ycombinator.com/item?id=48995409) - [Firefox Containers Preview](https://blog.mozilla.org/en/firefox/firefox-containers-preview/)
 * [2026-07-20, 21:35:33](https://news.ycombinator.com/item?id=48985182) - [Designing an Ethernet Switch ASIC](https://essenceia.github.io/projects/ethernet_switch_asic/)
-* [2026-07-20, 13:56:23](https://news.ycombinator.com/item?id=48978942) - [Visualizing the Artemis II Mission](https://foxglove.dev/blog/visualizing-the-artemis-ii-mission)
 * [2026-07-20, 12:25:49](https://news.ycombinator.com/item?id=48977849) - [The footprints of every building in NYC](https://www.beautifulpublicdata.com/the-footprints-of-every-building-in-nyc/)
 * [2026-07-20, 02:43:54](https://news.ycombinator.com/item?id=48973835) - [India's first privately-developed rocket reaches orbit on debut launch](https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/)
 
