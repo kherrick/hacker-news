@@ -61,6 +61,7 @@
 * [2026-07-22, 12:03:32](https://news.ycombinator.com/item?id=49005398) - [OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack](https://www.bbc.com/news/articles/c3ek3gvdnj3o)
 * [2026-07-22, 11:58:09](https://news.ycombinator.com/item?id=49005329) - [10 REM\"_(C2SLFF4](https://beej.us/blog/data/mystery-comment/)
 * [2026-07-22, 10:49:04](https://news.ycombinator.com/item?id=49004663) - [OverpAId – Fire your CEO. Hire the future](https://overpaid.lol)
+* [2026-07-22, 10:35:43](https://news.ycombinator.com/item?id=49004541) - [Making Xen's dom0 I/O path NUMA aware](https://edera.dev/stories/numa-part-4-closing-the-xen-dom0-i-o-gap)
 * [2026-07-22, 08:27:12](https://news.ycombinator.com/item?id=49003465) - [Codeberg: ToU extension to prohibit LLM-extrusions](https://codeberg.org/Codeberg/org/pulls/1253)
 * [2026-07-22, 08:17:26](https://news.ycombinator.com/item?id=49003386) - [Codeberg bans vibe coded projects](https://codeberg.org/Codeberg/org/pulls/1253#issuecomment-19820434)
 * [2026-07-22, 05:51:50](https://news.ycombinator.com/item?id=49002358) - [I graded 36 popular MCP servers on agent usability. A third got a D or F](https://tengli.dev/posts/mcp-servers-failing-agents.html)

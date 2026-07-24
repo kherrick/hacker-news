@@ -4,6 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-07-24](index.md)
 
+* [2026-07-24, 16:57:41](https://news.ycombinator.com/item?id=49038433) - [Claude Opus 5](https://www.anthropic.com/claude-opus-5-system-card)
+* [2026-07-24, 16:52:33](https://news.ycombinator.com/item?id=49038352) - [As of JDK 27, Oracle engineers will thus stop maintaining the macOS/x64 port](https://openjdk.org/jeps/541)
+* [2026-07-24, 16:47:23](https://news.ycombinator.com/item?id=49038276) - [Online Historical Encyclopaedia of Programming Languages](https://hopl.info/)
+* [2026-07-24, 16:41:16](https://news.ycombinator.com/item?id=49038187) - [Apple won't let me show my app](https://wisedayplanner.com/blog/apple-wont-let-me-show-my-app/)
+* [2026-07-24, 16:40:49](https://news.ycombinator.com/item?id=49038181) - [The rise and fall of language diversity through the Holocene](https://www.science.org/doi/10.1126/science.adx4343)
+* [2026-07-24, 16:33:31](https://news.ycombinator.com/item?id=49038060) - [Be skeptical of OpenAI's rogue hacker agent story](https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker)
+* [2026-07-24, 16:33:26](https://news.ycombinator.com/item?id=49038059) - [Proving a Human Wrote Something](https://gjtorikian.online/posts/proving-a-human-wrote-something/)
+* [2026-07-24, 16:32:52](https://news.ycombinator.com/item?id=49038045) - [Unitree As2-W](https://www.unitree.com/As2-W/)
+* [2026-07-24, 16:27:58](https://news.ycombinator.com/item?id=49037971) - [Micro-SaaS Is Dead. Service With A Software Replaces It](https://adriengonin.com/writing/service-with-a-software/)
 * [2026-07-24, 15:26:58](https://news.ycombinator.com/item?id=49037076) - [Marc Andreessen, venture capitalist, married to wait, what?](https://tyrandus.dev/2026/07/23/marc-andreessen-venture-capitalist-married-to-wait-what/)
 * [2026-07-24, 15:24:00](https://news.ycombinator.com/item?id=49037031) - [The front end framework for correctness: built on Effect, architected like Elm](https://foldkit.dev/)
 * [2026-07-24, 15:05:06](https://news.ycombinator.com/item?id=49036765) - [Codeberg Divides](https://lucumr.pocoo.org/2026/7/24/codeberg-divides/)
