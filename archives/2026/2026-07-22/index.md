@@ -71,6 +71,7 @@
 * [2026-07-22, 04:33:44](https://news.ycombinator.com/item?id=49001930) - [Kimi K3: second only to Fable 5 on AA-Briefcase](https://artificialanalysis.ai/articles/kimi-k3-agentic-knowledge-benchmark)
 * [2026-07-22, 04:11:18](https://news.ycombinator.com/item?id=49001775) - [Ten ways a check passes while the thing it checks is broken](https://phronesis.world/papers/ways-of-checking/)
 * [2026-07-22, 04:00:11](https://news.ycombinator.com/item?id=49001708) - [Tesla Balance Bike](https://shop.tesla.com/product/balance-bike-for-kids)
+* [2026-07-22, 03:28:34](https://news.ycombinator.com/item?id=49001498) - [Tangleflow: Converts GitHub Actions workflows to tangled workflows and back](https://github.com/43081j/tangleflow)
 * [2026-07-22, 03:24:36](https://news.ycombinator.com/item?id=49001472) - [Never Enough](https://dark.ronacher.eu/2026/7/21/never-enough/)
 * [2026-07-22, 02:32:30](https://news.ycombinator.com/item?id=49001127) - [Late.sh – a command-line Clubhouse for computer people](https://late.sh/)
 * [2026-07-22, 01:52:31](https://news.ycombinator.com/item?id=49000864) - [LG to Ban Residential Proxies from Smart TV Apps](https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/)

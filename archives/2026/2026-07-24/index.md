@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-07-24](index.md)
 
+* [2026-07-24, 11:46:55](https://news.ycombinator.com/item?id=49034219) - [German battery maker Varta files insolvency applications](https://www.reuters.com/business/german-battery-maker-varta-files-insolvency-applications-2026-07-24/)
+* [2026-07-24, 11:46:40](https://news.ycombinator.com/item?id=49034217) - [The case for MUDs in modern times](https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times)
+* [2026-07-24, 11:13:59](https://news.ycombinator.com/item?id=49033916) - [The IBM PC, Part 1: Arrival](https://technicshistory.com/2026/07/24/the-ibm-pc-part-1-arrival/)
 * [2026-07-24, 10:15:29](https://news.ycombinator.com/item?id=49033412) - [Game of Trees – Git-based version control from OpenBSD folks](https://www.gameoftrees.org/)
 * [2026-07-24, 10:09:36](https://news.ycombinator.com/item?id=49033363) - [Launching Health in ChatGPT to US Users](https://openai.com/index/health-in-chatgpt/)
 * [2026-07-24, 09:40:25](https://news.ycombinator.com/item?id=49033173) - [Show HN: A static, client-side tarot calculator for Brazilian Portuguese](https://meuarcanopessoal.net/)
