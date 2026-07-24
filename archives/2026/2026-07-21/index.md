@@ -72,6 +72,7 @@
 * [2026-07-21, 07:10:49](https://news.ycombinator.com/item?id=48989065) - [Escape Analysis in Go: Stack vs. Heap Allocations Explained](https://blog.jetbrains.com/go/2026/07/20/escape-analysis/)
 * [2026-07-21, 07:01:24](https://news.ycombinator.com/item?id=48989006) - [ANSI escape injection in MCP servers: Hidden from humans, visible to AI](https://brightsec.com/research/detecting-ansi-escape-sequence-injection-in-mcp-servers-with-dast/)
 * [2026-07-21, 06:29:22](https://news.ycombinator.com/item?id=48988793) - [Linux kernel will support $ORIGIN, sort of](https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of)
+* [2026-07-21, 06:08:35](https://news.ycombinator.com/item?id=48988651) - [Modula-3 History Collection on Computer History Museum](https://softwarepreservation.computerhistory.org/modula3/)
 * [2026-07-21, 04:56:18](https://news.ycombinator.com/item?id=48988196) - [Do we just want slaves?](https://www.yashthapliyal.com/blog/do-we-just-want-slaves)
 * [2026-07-21, 04:55:06](https://news.ycombinator.com/item?id=48988189) - [Zoom is now Chrome only](https://zoom.us/test)
 * [2026-07-21, 04:48:32](https://news.ycombinator.com/item?id=48988158) - [Show HN: Ex Situ – open-source spatial index of displaced cultural artifacts](https://exsitu.app/map)
@@ -85,3 +86,4 @@
 * [2026-07-21, 02:09:27](https://news.ycombinator.com/item?id=48987253) - [Ramp Router](https://ramp.com/router/)
 * [2026-07-21, 01:06:20](https://news.ycombinator.com/item?id=48986912) - [Show HN: I made email signatures less boring](https://esigna.app)
 * [2026-07-21, 00:33:53](https://news.ycombinator.com/item?id=48986731) - [Flock Credibility Lost as It Repeatedly Lies to City Councils, Police, & Public](https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country)
+* [2026-07-21, 00:28:39](https://news.ycombinator.com/item?id=48986703) - [Quickly rewrite Git repository history](https://github.com/newren/git-filter-repo)
