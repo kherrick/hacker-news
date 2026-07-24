@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-07-24](index.md)
 
+* [2026-07-24, 17:00:23](https://news.ycombinator.com/item?id=49038481) - [DuckPGQ – A DuckDB community extension for graph workloads](https://duckpgq.org/)
 * [2026-07-24, 16:57:41](https://news.ycombinator.com/item?id=49038433) - [Claude Opus 5](https://www.anthropic.com/claude-opus-5-system-card)
+* [2026-07-24, 16:55:26](https://news.ycombinator.com/item?id=49038393) - [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5)
 * [2026-07-24, 16:52:33](https://news.ycombinator.com/item?id=49038352) - [As of JDK 27, Oracle engineers will thus stop maintaining the macOS/x64 port](https://openjdk.org/jeps/541)
 * [2026-07-24, 16:47:23](https://news.ycombinator.com/item?id=49038276) - [Online Historical Encyclopaedia of Programming Languages](https://hopl.info/)
 * [2026-07-24, 16:41:16](https://news.ycombinator.com/item?id=49038187) - [Apple won't let me show my app](https://wisedayplanner.com/blog/apple-wont-let-me-show-my-app/)
