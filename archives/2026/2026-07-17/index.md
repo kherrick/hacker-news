@@ -23,6 +23,7 @@
 * [2026-07-17, 20:12:59](https://news.ycombinator.com/item?id=48951780) - [Painting the sides of railroad rails white to reduce derailment](https://www.up.com/news/safety/Tracking-Rail-Heat-260608)
 * [2026-07-17, 20:10:02](https://news.ycombinator.com/item?id=48951756) - [Tech note: making your own V-I plots at home](https://lcamtuf.substack.com/p/tech-note-making-your-own-v-i-plots)
 * [2026-07-17, 19:53:01](https://news.ycombinator.com/item?id=48951595) - [Flock CEO Apologizes for Calling Activists 'Terrorists'](https://www.forbes.com/sites/thomasbrewster/2026/07/17/flock-ceo-sorry-for-labelling-activists-terrorists/)
+* [2026-07-17, 19:43:57](https://news.ycombinator.com/item?id=48951500) - [A24 Is Copyright Striking Backrooms Artwork Older Than the Movie](https://www.thegamer.com/the-backrooms-a24-copyright-strike-artwork/)
 * [2026-07-17, 19:41:02](https://news.ycombinator.com/item?id=48951461) - [The Zilog Z80 has turned 50](https://goliath32.com/blog/z80.html)
 * [2026-07-17, 18:59:28](https://news.ycombinator.com/item?id=48951014) - [ICE Flight Monitor Interactive Dashboard](https://www.humanrightsfirst.org/ice-flight-monitor-interactive-dashboard)
 * [2026-07-17, 18:37:33](https://news.ycombinator.com/item?id=48950774) - [Show HN: A zoomable timeline of 4M Wikipedia events](https://app.everything.diena.co/)
