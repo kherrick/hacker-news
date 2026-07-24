@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-07-24, 02:18:23",
-      "https://news.ycombinator.com/item?id=49030547"
-    ],
-    [
-      "The Corporate Creep of Plex: Why it may be time to move to Jellyfin",
-      "https://reprodev.com/the-corporate-creep-of-plex-why-it-may-be-time-to-move-to-jellyfin-and-the-open-source-reality/"
-    ]
-  ],
-  [
-    [
       "2026-07-24, 02:06:31",
       "https://news.ycombinator.com/item?id=49030474"
     ],
@@ -51,6 +41,16 @@
   ],
   [
     [
+      "2026-07-23, 20:52:19",
+      "https://news.ycombinator.com/item?id=49027892"
+    ],
+    [
+      "Couple pay >$800k for a gene-editing therapy for their daughter. She died.",
+      "https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public"
+    ]
+  ],
+  [
+    [
       "2026-07-23, 19:46:28",
       "https://news.ycombinator.com/item?id=49027052"
     ],
@@ -87,6 +87,16 @@
     [
       "A solid-state “atomic channel” for separating rare earth elements",
       "https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements"
+    ]
+  ],
+  [
+    [
+      "2026-07-23, 18:08:29",
+      "https://news.ycombinator.com/item?id=49025766"
+    ],
+    [
+      "Why Sony can't bring back its classic Walkman models",
+      "https://obsoletesony.substack.com/p/why-sony-cant-bring-back-classic-walkman"
     ]
   ],
   [
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2026-07-23, 14:55:32",
-      "https://news.ycombinator.com/item?id=49022663"
-    ],
-    [
-      "Learn WebGPU for C++",
-      "https://eliemichel.github.io/LearnWebGPU/"
-    ]
-  ],
-  [
-    [
       "2026-07-23, 14:53:34",
       "https://news.ycombinator.com/item?id=49022634"
     ],
@@ -201,12 +201,32 @@
   ],
   [
     [
+      "2026-07-23, 14:23:51",
+      "https://news.ycombinator.com/item?id=49022137"
+    ],
+    [
+      "Fields Medals 2026",
+      "https://www.mathunion.org/imu-awards/fields-medal/fields-medals-2026"
+    ]
+  ],
+  [
+    [
       "2026-07-23, 14:17:40",
       "https://news.ycombinator.com/item?id=49022038"
     ],
     [
       "Software rendering in 500 lines of bare C++",
       "https://haqr.eu/tinyrenderer/"
+    ]
+  ],
+  [
+    [
+      "2026-07-23, 14:06:47",
+      "https://news.ycombinator.com/item?id=49021856"
+    ],
+    [
+      "I regret migrating to Codeberg",
+      "https://xn--gckvb8fzb.com/i-regret-migrating-to-codeberg/"
     ]
   ],
   [
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2026-07-23, 13:09:10",
-      "https://news.ycombinator.com/item?id=49020999"
-    ],
-    [
-      "AI Companies Are Trying to Hide a Staggering Amount of Debt",
-      "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet"
-    ]
-  ],
-  [
-    [
       "2026-07-23, 01:16:14",
       "https://news.ycombinator.com/item?id=49015639"
     ],
@@ -261,26 +271,6 @@
   ],
   [
     [
-      "2026-07-20, 20:54:56",
-      "https://news.ycombinator.com/item?id=48984760"
-    ],
-    [
-      "Converting Files into Minecraft Worlds",
-      "https://wuemeli.com/blog/sulfur-part-1/"
-    ]
-  ],
-  [
-    [
-      "2026-07-20, 13:59:49",
-      "https://news.ycombinator.com/item?id=48978989"
-    ],
-    [
-      "Meta Garbage Collection: Using OCaml's GC to GC Rust",
-      "https://soteria-tools.com/blog/meta-garbage-collection"
-    ]
-  ],
-  [
-    [
       "2026-07-20, 04:20:43",
       "https://news.ycombinator.com/item?id=48974300"
     ],
@@ -297,6 +287,16 @@
     [
       "Freeze-Casting",
       "https://en.wikipedia.org/wiki/Freeze-casting"
+    ]
+  ],
+  [
+    [
+      "2026-07-18, 15:28:56",
+      "https://news.ycombinator.com/item?id=48959008"
+    ],
+    [
+      "What else do people draw on gradient.horse?",
+      "https://rybakov.com/blog/what_else_do_people_draw_on_gradient-copy.horse/"
     ]
   ]
 ]
