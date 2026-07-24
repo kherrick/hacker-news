@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2026-07-24, 14:20:17",
-      "https://news.ycombinator.com/item?id=49036086"
-    ],
-    [
-      "Preventing line breaks in <code> elements",
-      "https://alexwlchan.net/2026/non-breaking-code/"
-    ]
-  ],
-  [
-    [
       "2026-07-24, 13:32:30",
       "https://news.ycombinator.com/item?id=49035303"
     ],
@@ -147,6 +137,26 @@
     [
       "My security camera shipped a GitHub admin token in its login page",
       "https://hhh.hn/hanwha-github-token/"
+    ]
+  ],
+  [
+    [
+      "2026-07-24, 11:46:40",
+      "https://news.ycombinator.com/item?id=49034217"
+    ],
+    [
+      "The case for MUDs in modern times (2018)",
+      "https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times"
+    ]
+  ],
+  [
+    [
+      "2026-07-24, 09:52:58",
+      "https://news.ycombinator.com/item?id=49033240"
+    ],
+    [
+      "IRGC claims it destroyed Amazon's Bahrain data center",
+      "https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/"
     ]
   ],
   [
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2026-07-23, 12:49:10",
-      "https://news.ycombinator.com/item?id=49020751"
-    ],
-    [
-      "Self-host your mail server",
-      "https://blog.haschek.at/2026/you-should-selfhost-your-mail.html"
-    ]
-  ],
-  [
-    [
       "2026-07-23, 12:31:21",
       "https://news.ycombinator.com/item?id=49020545"
     ],
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2026-07-21, 02:38:50",
-      "https://news.ycombinator.com/item?id=48987422"
-    ],
-    [
-      "So Bright the Vision (1956) – a story about machines writing instead of humans [pdf]",
-      "https://s3.us-west-1.wasabisys.com/luminist/EB/S/Simak%20-%20So%20Bright%20the%20Vision.pdf"
-    ]
-  ],
-  [
-    [
       "2026-07-20, 21:35:33",
       "https://news.ycombinator.com/item?id=48985182"
     ],
     [
       "Designing an Ethernet Switch ASIC",
       "https://essenceia.github.io/projects/ethernet_switch_asic/"
+    ]
+  ],
+  [
+    [
+      "2026-07-20, 13:56:23",
+      "https://news.ycombinator.com/item?id=48978942"
+    ],
+    [
+      "Visualizing the Artemis II Mission",
+      "https://foxglove.dev/blog/visualizing-the-artemis-ii-mission"
     ]
   ],
   [
