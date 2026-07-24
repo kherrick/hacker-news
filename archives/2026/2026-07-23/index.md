@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-07-23](index.md)
 
 * [2026-07-23, 23:36:42](https://news.ycombinator.com/item?id=49029538) - [The Visual 6502](http://visual6502.org/JSSim/index.html)
+* [2026-07-23, 23:04:18](https://news.ycombinator.com/item?id=49029249) - [Stripe in talks to buy OpenRouter for about $10B](https://twitter.com/andrewcurran_/status/2080397684134007189)
 * [2026-07-23, 22:51:13](https://news.ycombinator.com/item?id=49029133) - [A Taxonomy of Omnicidal Futures Involving Artificial Intelligence](https://arxiv.org/abs/2507.09369)
 * [2026-07-23, 22:30:29](https://news.ycombinator.com/item?id=49028927) - [98.css](https://jdan.github.io/98.css/#status-bar)
 * [2026-07-23, 22:30:08](https://news.ycombinator.com/item?id=49028922) - [Building watchable digital twins of 64 World Cup games](https://rogerdickey.com/building-watchable-digital-twins-of-64-world-cup-games/)
