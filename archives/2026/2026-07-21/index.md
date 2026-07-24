@@ -15,6 +15,7 @@
 * [2026-07-21, 21:09:25](https://news.ycombinator.com/item?id=48998362) - [A digestion of the Jacobian conjecture counterexample](https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/)
 * [2026-07-21, 21:01:57](https://news.ycombinator.com/item?id=48998262) - [Show HN: Browser Tools SDK – an optimal browser harness for agents](https://libretto.sh/browser-tools)
 * [2026-07-21, 20:48:22](https://news.ycombinator.com/item?id=48998082) - [Mickey Mouse Sells a Bundle](https://www.marginpoints.com/essays/mickey-mouse-sells-a-bundle-hn)
+* [2026-07-21, 20:42:23](https://news.ycombinator.com/item?id=48997998) - [The Secret Origins of Amazon's Alexa](https://www.wired.com/story/how-amazon-made-alexa-smarter/)
 * [2026-07-21, 20:38:29](https://news.ycombinator.com/item?id=48997941) - [Show HN: Orate – On-device neural text-to-speech queue for Mac](https://orate.to/)
 * [2026-07-21, 20:09:52](https://news.ycombinator.com/item?id=48997548) - [OpenAI and Hugging Face partner to address security incident](https://openai.com/index/hugging-face-model-evaluation-security-incident/)
 * [2026-07-21, 19:43:59](https://news.ycombinator.com/item?id=48997221) - ['VPNs are lawful technical tools,' says EU Court in landmark copyright ruling](https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling)
