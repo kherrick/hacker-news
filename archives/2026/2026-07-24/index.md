@@ -9,6 +9,8 @@
 * [2026-07-24, 11:13:59](https://news.ycombinator.com/item?id=49033916) - [The IBM PC, Part 1: Arrival](https://technicshistory.com/2026/07/24/the-ibm-pc-part-1-arrival/)
 * [2026-07-24, 10:15:29](https://news.ycombinator.com/item?id=49033412) - [Game of Trees – Git-based version control from OpenBSD folks](https://www.gameoftrees.org/)
 * [2026-07-24, 10:09:36](https://news.ycombinator.com/item?id=49033363) - [Launching Health in ChatGPT to US Users](https://openai.com/index/health-in-chatgpt/)
+* [2026-07-24, 10:01:39](https://news.ycombinator.com/item?id=49033302) - [Show HN: Audio Player with \"Binaural Beats\" tuned to the same key as your music](https://github.com/henrygabriels/binaural-studio)
+* [2026-07-24, 09:52:58](https://news.ycombinator.com/item?id=49033240) - [IRGC Claims It Destroyed Amazon's Bahrain Data Center](https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/)
 * [2026-07-24, 09:40:25](https://news.ycombinator.com/item?id=49033173) - [Show HN: A static, client-side tarot calculator for Brazilian Portuguese](https://meuarcanopessoal.net/)
 * [2026-07-24, 09:31:48](https://news.ycombinator.com/item?id=49033127) - [Flux 3 X Mimic: The Next Generation of Video-Action Models](https://bfl.ai/blog/flux-3-mimic)
 * [2026-07-24, 09:29:44](https://news.ycombinator.com/item?id=49033110) - [Future euro banknote design proposals](https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/design-proposals.en.html)
