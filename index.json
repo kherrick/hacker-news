@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-24, 19:05:53",
+      "https://news.ycombinator.com/item?id=49040296"
+    ],
+    [
+      "Postgres LISTEN/NOTIFY actually scales",
+      "https://www.dbos.dev/blog/postgres-listen-notify-scalability"
+    ]
+  ],
+  [
+    [
       "2026-07-24, 18:07:08",
       "https://news.ycombinator.com/item?id=49039490"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=49039448"
     ],
     [
-      "I got into YC by hacking it",
+      "I got into YC (Startup School) by hacking it",
       "https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html"
     ]
   ],
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2026-07-24, 16:33:26",
-      "https://news.ycombinator.com/item?id=49038059"
-    ],
-    [
-      "Proving a Human Wrote Something",
-      "https://gjtorikian.online/posts/proving-a-human-wrote-something/"
-    ]
-  ],
-  [
-    [
       "2026-07-24, 16:32:52",
       "https://news.ycombinator.com/item?id=49038045"
     ],
@@ -147,16 +147,6 @@
     [
       "Codeberg Divides",
       "https://lucumr.pocoo.org/2026/7/24/codeberg-divides/"
-    ]
-  ],
-  [
-    [
-      "2026-07-24, 14:41:59",
-      "https://news.ycombinator.com/item?id=49036433"
-    ],
-    [
-      "Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey",
-      "https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Extending Polars with Rust Expression Plugins",
       "https://fenic.ai/blog/extending-polars-with-rust-expression-plugins"
+    ]
+  ],
+  [
+    [
+      "2026-07-21, 16:22:17",
+      "https://news.ycombinator.com/item?id=48994440"
+    ],
+    [
+      "Latest Airbus single aisle aircraft innovations",
+      "https://www.airbus.com/en/newsroom/stories/2026-07-how-the-a321xlr-is-redefining-single-aisle-comfort-for-passengers"
     ]
   ],
   [
