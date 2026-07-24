@@ -10,6 +10,7 @@
 * [2026-07-20, 21:43:07](https://news.ycombinator.com/item?id=48985249) - [Donation Controversy](https://mullvad.net/en/blog/donation-controversy)
 * [2026-07-20, 21:30:56](https://news.ycombinator.com/item?id=48985140) - [My falling-out with the rationalist community](https://lcamtuf.substack.com/p/my-falling-out-with-the-rationalist)
 * [2026-07-20, 20:54:56](https://news.ycombinator.com/item?id=48984760) - [Converting Files into Minecraft Worlds](https://wuemeli.com/blog/sulfur-part-1/)
+* [2026-07-20, 20:51:31](https://news.ycombinator.com/item?id=48984715) - [Projects every RC live races and results](https://rc-replay.dev/lr/vmrc/r/6912053)
 * [2026-07-20, 20:36:37](https://news.ycombinator.com/item?id=48984555) - [The creepiest 'sales demo' of all time](https://www.appenmedia.com/opinion/letter-to-the-editor-the-creepiest-sales-demo-of-all-time/article_a8f0cc6c-29d3-41f7-8668-8a855f760efb.html)
 * [2026-07-20, 20:34:52](https://news.ycombinator.com/item?id=48984534) - [ascdraw: Editor for ASCII/UTF-8 diagrams (in 144FPS)](https://github.com/exlee/ascdraw)
 * [2026-07-20, 20:31:28](https://news.ycombinator.com/item?id=48984489) - [Why do we love music? (2018)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6353111/)
