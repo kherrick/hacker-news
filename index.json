@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-07-24, 18:07:08",
+      "https://news.ycombinator.com/item?id=49039490"
+    ],
+    [
+      "BGP ORIGIN attribute manipulation and its impact on the Internet",
+      "https://blog.cloudflare.com/bgp-origin-attribute/"
+    ]
+  ],
+  [
+    [
+      "2026-07-24, 17:59:08",
+      "https://news.ycombinator.com/item?id=49039395"
+    ],
+    [
+      "Gsxui – Shadcn-style components for Go",
+      "https://ui.gsxhq.dev/"
+    ]
+  ],
+  [
+    [
+      "2026-07-24, 17:47:03",
+      "https://news.ycombinator.com/item?id=49039248"
+    ],
+    [
+      "Build Systems Discussion",
+      "https://civboot.github.io/blog/2026-07-24-build-systems.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-24, 17:36:19",
+      "https://news.ycombinator.com/item?id=49039099"
+    ],
+    [
+      "The Kids' Guide to Piracy",
+      "https://friendo.monster/posts/the-kids-guide-to-piracy.html"
+    ]
+  ],
+  [
+    [
       "2026-07-24, 17:00:23",
       "https://news.ycombinator.com/item?id=49038481"
     ],
@@ -16,16 +56,6 @@
     ],
     [
       "Claude Opus 5",
-      "https://www.anthropic.com/claude-opus-5-system-card"
-    ]
-  ],
-  [
-    [
-      "2026-07-24, 16:55:26",
-      "https://news.ycombinator.com/item?id=49038393"
-    ],
-    [
-      "Claude Opus 5",
       "https://www.anthropic.com/news/claude-opus-5"
     ]
   ],
@@ -35,7 +65,7 @@
       "https://news.ycombinator.com/item?id=49038352"
     ],
     [
-      "As of JDK 27, Oracle engineers will thus stop maintaining the macOS/x64 port",
+      "JEP 541: Deprecate the macOS/x64 Port for Removal",
       "https://openjdk.org/jeps/541"
     ]
   ],
@@ -131,32 +161,12 @@
   ],
   [
     [
-      "2026-07-24, 14:28:38",
-      "https://news.ycombinator.com/item?id=49036224"
-    ],
-    [
-      "Co-Opting Linux Processes for High-Performance Network Simulation (2022)",
-      "https://www.usenix.org/conference/atc22/presentation/jansen"
-    ]
-  ],
-  [
-    [
       "2026-07-24, 14:23:39",
       "https://news.ycombinator.com/item?id=49036136"
     ],
     [
       "3GPP Version 19",
       "https://www.3gpp.org/specifications-technologies/releases/release-19"
-    ]
-  ],
-  [
-    [
-      "2026-07-24, 14:06:03",
-      "https://news.ycombinator.com/item?id=49035864"
-    ],
-    [
-      "Writing a Debugger from Scratch",
-      "https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-1/"
     ]
   ],
   [
@@ -187,6 +197,16 @@
     [
       "My Emacs Configuration (Dired)",
       "https://eugene-andrienko.com/2026-07-05-my-emacs-configuration-dired.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-24, 13:32:30",
+      "https://news.ycombinator.com/item?id=49035303"
+    ],
+    [
+      "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
+      "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html"
     ]
   ],
   [
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2026-07-24, 09:26:40",
-      "https://news.ycombinator.com/item?id=49033099"
-    ],
-    [
-      "Buz – A fork of Bun using modern Zig, with sub-1s incremental builds",
-      "https://ziggit.dev/t/buz-a-drop-in-replacement-for-bun-using-modern-zig-with-sub-1s-incremental-builds/16891"
-    ]
-  ],
-  [
-    [
       "2026-07-24, 08:18:30",
       "https://news.ycombinator.com/item?id=49032660"
     ],
@@ -257,16 +267,6 @@
     [
       "Flux 3",
       "https://bfl.ai/blog/flux-3"
-    ]
-  ],
-  [
-    [
-      "2026-07-24, 05:09:15",
-      "https://news.ycombinator.com/item?id=49031409"
-    ],
-    [
-      "Claude Cookbook",
-      "https://platform.claude.com/cookbook/"
     ]
   ],
   [
