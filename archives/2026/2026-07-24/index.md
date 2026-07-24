@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-07-24](index.md)
 
+* [2026-07-24, 18:07:08](https://news.ycombinator.com/item?id=49039490) - [BGP ORIGIN attribute manipulation and its impact on the Internet](https://blog.cloudflare.com/bgp-origin-attribute/)
+* [2026-07-24, 17:59:08](https://news.ycombinator.com/item?id=49039395) - [Gsxui – Shadcn-style components for Go](https://ui.gsxhq.dev/)
+* [2026-07-24, 17:47:03](https://news.ycombinator.com/item?id=49039248) - [Build Systems Discussion](https://civboot.github.io/blog/2026-07-24-build-systems.html)
+* [2026-07-24, 17:36:19](https://news.ycombinator.com/item?id=49039099) - [The Kids' Guide to Piracy](https://friendo.monster/posts/the-kids-guide-to-piracy.html)
 * [2026-07-24, 17:00:23](https://news.ycombinator.com/item?id=49038481) - [DuckPGQ – A DuckDB community extension for graph workloads](https://duckpgq.org/)
+* [2026-07-24, 16:57:41](https://news.ycombinator.com/item?id=49038433) - [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5)
 * [2026-07-24, 16:57:41](https://news.ycombinator.com/item?id=49038433) - [Claude Opus 5](https://www.anthropic.com/claude-opus-5-system-card)
 * [2026-07-24, 16:55:26](https://news.ycombinator.com/item?id=49038393) - [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5)
 * [2026-07-24, 16:52:33](https://news.ycombinator.com/item?id=49038352) - [As of JDK 27, Oracle engineers will thus stop maintaining the macOS/x64 port](https://openjdk.org/jeps/541)
@@ -32,6 +37,7 @@
 * [2026-07-24, 13:47:04](https://news.ycombinator.com/item?id=49035561) - [My Emacs Configuration (Dired)](https://eugene-andrienko.com/2026-07-05-my-emacs-configuration-dired.html)
 * [2026-07-24, 13:46:40](https://news.ycombinator.com/item?id=49035550) - [Kaizen #4: Overhauled Homelab](https://timharek.no/blog/kaizen-4/)
 * [2026-07-24, 13:33:12](https://news.ycombinator.com/item?id=49035314) - [Oracle fires 21,000 employees to fund AI spending](https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-903442)
+* [2026-07-24, 13:32:30](https://news.ycombinator.com/item?id=49035303) - [Nvidia, Microsoft, Meta warn against overregulating open-weight models](https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html)
 * [2026-07-24, 13:14:58](https://news.ycombinator.com/item?id=49035080) - [How the God of Israel Was Born](https://andreafontana.it/en/birth-god-israel-yahweh-el.html)
 * [2026-07-24, 13:02:49](https://news.ycombinator.com/item?id=49034948) - [Patreon laying off 20% of staff](https://www.patreon.com/jackconte/posts/painful-update-164628951)
 * [2026-07-24, 12:55:47](https://news.ycombinator.com/item?id=49034895) - [Eight Newly Produced MQ-9 Reaper Drones Destroyed in Iranian Strike](https://militarywatchmagazine.com/)
