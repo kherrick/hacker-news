@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-07-24, 17:00:23",
+      "https://news.ycombinator.com/item?id=49038481"
+    ],
+    [
+      "DuckPGQ – A DuckDB community extension for graph workloads",
+      "https://duckpgq.org/"
+    ]
+  ],
+  [
+    [
       "2026-07-24, 16:57:41",
       "https://news.ycombinator.com/item?id=49038433"
     ],
     [
       "Claude Opus 5",
       "https://www.anthropic.com/claude-opus-5-system-card"
+    ]
+  ],
+  [
+    [
+      "2026-07-24, 16:55:26",
+      "https://news.ycombinator.com/item?id=49038393"
+    ],
+    [
+      "Claude Opus 5",
+      "https://www.anthropic.com/news/claude-opus-5"
     ]
   ],
   [
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2026-07-24, 15:05:06",
-      "https://news.ycombinator.com/item?id=49036765"
-    ],
-    [
-      "Codeberg Divides",
-      "https://lucumr.pocoo.org/2026/7/24/codeberg-divides/"
-    ]
-  ],
-  [
-    [
       "2026-07-24, 14:41:59",
       "https://news.ycombinator.com/item?id=49036433"
     ],
@@ -127,16 +137,6 @@
     [
       "Co-Opting Linux Processes for High-Performance Network Simulation (2022)",
       "https://www.usenix.org/conference/atc22/presentation/jansen"
-    ]
-  ],
-  [
-    [
-      "2026-07-24, 14:26:09",
-      "https://news.ycombinator.com/item?id=49036182"
-    ],
-    [
-      "Mag Computer: A Mag History of RAM (1960–2025)",
-      "https://magworld.pw/episodes/computer/"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2026-07-24, 11:13:59",
-      "https://news.ycombinator.com/item?id=49033916"
-    ],
-    [
-      "The IBM PC, Part 1: Arrival",
-      "https://technicshistory.com/2026/07/24/the-ibm-pc-part-1-arrival/"
-    ]
-  ],
-  [
-    [
       "2026-07-24, 09:31:48",
       "https://news.ycombinator.com/item?id=49033127"
     ],
@@ -287,6 +277,16 @@
     [
       "Making Xen's dom0 I/O path NUMA aware",
       "https://edera.dev/stories/numa-part-4-closing-the-xen-dom0-i-o-gap"
+    ]
+  ],
+  [
+    [
+      "2026-07-21, 21:26:32",
+      "https://news.ycombinator.com/item?id=48998589"
+    ],
+    [
+      "Extending Polars with Rust Expression Plugins",
+      "https://fenic.ai/blog/extending-polars-with-rust-expression-plugins"
     ]
   ],
   [
