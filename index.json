@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-07-24, 05:35:30",
-      "https://news.ycombinator.com/item?id=49031561"
+      "2026-07-24, 07:02:43",
+      "https://news.ycombinator.com/item?id=49032095"
     ],
     [
-      "For most US drivers, EVs offer emissions benefits and cost savings",
-      "https://news.mit.edu/2026/us-drivers-electric-vehicles-offer-emissions-benefits-cost-savings-0512"
+      "The PImpl idiom and the C++26 std:indirect type",
+      "https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/"
+    ]
+  ],
+  [
+    [
+      "2026-07-24, 06:36:50",
+      "https://news.ycombinator.com/item?id=49031917"
+    ],
+    [
+      "Russia's businesses under strain from Ukraine's attacks on Wildberries",
+      "https://www.bbc.com/news/articles/cvg9n2y61w6o"
+    ]
+  ],
+  [
+    [
+      "2026-07-24, 06:17:08",
+      "https://news.ycombinator.com/item?id=49031796"
+    ],
+    [
+      "Flux 3",
+      "https://bfl.ai/blog/flux-3"
     ]
   ],
   [
@@ -17,16 +37,6 @@
     [
       "The Visual 6502",
       "http://visual6502.org/JSSim/index.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-23, 23:04:18",
-      "https://news.ycombinator.com/item?id=49029249"
-    ],
-    [
-      "Stripe in talks to buy OpenRouter for about $10B",
-      "https://twitter.com/andrewcurran_/status/2080397684134007189"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "The Beam Engine",
       "https://glinscott.github.io/beam-engine/"
-    ]
-  ],
-  [
-    [
-      "2026-07-21, 06:08:35",
-      "https://news.ycombinator.com/item?id=48988651"
-    ],
-    [
-      "Modula-3 History Collection on Computer History Museum",
-      "https://softwarepreservation.computerhistory.org/modula3/"
     ]
   ],
   [
