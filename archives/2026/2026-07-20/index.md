@@ -8,6 +8,7 @@
 * [2026-07-20, 23:15:41](https://news.ycombinator.com/item?id=48986091) - [Jellyfin founder Andrew leaves team](https://forum.jellyfin.org/t-project-leadership-changes)
 * [2026-07-20, 23:00:29](https://news.ycombinator.com/item?id=48985956) - [Opaque, Interoperable Passkey Records (and a Go API)](https://words.filippo.io/passkey-record/)
 * [2026-07-20, 21:43:07](https://news.ycombinator.com/item?id=48985249) - [Donation Controversy](https://mullvad.net/en/blog/donation-controversy)
+* [2026-07-20, 21:35:33](https://news.ycombinator.com/item?id=48985182) - [Designing an Ethernet Switch ASIC](https://essenceia.github.io/projects/ethernet_switch_asic/)
 * [2026-07-20, 21:30:56](https://news.ycombinator.com/item?id=48985140) - [My falling-out with the rationalist community](https://lcamtuf.substack.com/p/my-falling-out-with-the-rationalist)
 * [2026-07-20, 20:54:56](https://news.ycombinator.com/item?id=48984760) - [Converting Files into Minecraft Worlds](https://wuemeli.com/blog/sulfur-part-1/)
 * [2026-07-20, 20:51:31](https://news.ycombinator.com/item?id=48984715) - [Projects every RC live races and results](https://rc-replay.dev/lr/vmrc/r/6912053)
