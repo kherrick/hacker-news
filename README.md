@@ -25,7 +25,7 @@
 * [2026-07-24, 06:17:08](https://news.ycombinator.com/item?id=49031796) - [Flux 3](https://bfl.ai/blog/flux-3)
 * [2026-07-23, 19:37:37](https://news.ycombinator.com/item?id=49026933) - [Fil-C: Garbage In, Memory Safety Out [video]](https://www.youtube.com/watch?v=5F-2Y1LPRek)
 * [2026-07-23, 12:49:10](https://news.ycombinator.com/item?id=49020751) - [Self-host your mail server](https://blog.haschek.at/2026/you-should-selfhost-your-mail.html)
-* [2026-07-22, 10:35:43](https://news.ycombinator.com/item?id=49004541) - [Making Xen's dom0 I/O path NUMA aware](https://edera.dev/stories/numa-part-4-closing-the-xen-dom0-i-o-gap)
+* [2026-07-22, 10:24:40](https://news.ycombinator.com/item?id=49004464) - [Marimo Now Runs in PyCharm](https://marimo.io/blog/pycharm)
 * [2026-07-21, 21:26:32](https://news.ycombinator.com/item?id=48998589) - [Extending Polars with Rust Expression Plugins](https://fenic.ai/blog/extending-polars-with-rust-expression-plugins)
 * [2026-07-21, 16:22:17](https://news.ycombinator.com/item?id=48994440) - [Latest Airbus single aisle aircraft innovations](https://www.airbus.com/en/newsroom/stories/2026-07-how-the-a321xlr-is-redefining-single-aisle-comfort-for-passengers)
 * [2026-07-20, 10:53:59](https://news.ycombinator.com/item?id=48977014) - [Reporting Web 3D Capabilities on a Budget of $3 a Month](https://ben3d.ca/blog/reporting-web-3d-capabilities-on-a-budget)
