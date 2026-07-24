@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-07-24, 09:40:25",
-      "https://news.ycombinator.com/item?id=49033173"
-    ],
-    [
-      "Show HN: A static, client-side tarot calculator for Brazilian Portuguese",
-      "https://meuarcanopessoal.net/"
-    ]
-  ],
-  [
-    [
       "2026-07-24, 09:31:48",
       "https://news.ycombinator.com/item?id=49033127"
     ],
@@ -27,6 +17,16 @@
     [
       "Future euro banknote design proposals",
       "https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/design-proposals.en.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-24, 09:26:40",
+      "https://news.ycombinator.com/item?id=49033099"
+    ],
+    [
+      "Buz – A fork of Bun using modern Zig, with sub-1s incremental builds",
+      "https://ziggit.dev/t/buz-a-drop-in-replacement-for-bun-using-modern-zig-with-sub-1s-incremental-builds/16891"
     ]
   ],
   [
@@ -71,22 +71,22 @@
   ],
   [
     [
-      "2026-07-24, 07:22:47",
-      "https://news.ycombinator.com/item?id=49032225"
-    ],
-    [
-      "The Ever-Receding Pocket",
-      "https://zhenyi.gibber.blog/the-ever-receding-pocket"
-    ]
-  ],
-  [
-    [
       "2026-07-24, 07:02:43",
       "https://news.ycombinator.com/item?id=49032095"
     ],
     [
       "The PImpl idiom and the C++26 std:indirect type",
       "https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/"
+    ]
+  ],
+  [
+    [
+      "2026-07-24, 06:59:07",
+      "https://news.ycombinator.com/item?id=49032072"
+    ],
+    [
+      "AMD's Instinct MI455X: Aiming for the Sun",
+      "https://chipsandcheese.com/p/amds-instinct-mi455x-aiming-for-the"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2026-07-21, 18:23:49",
+      "https://news.ycombinator.com/item?id=48996119"
+    ],
+    [
+      "Computational chemistry, Locally? My rant on SSH",
+      "https://chillphysicsenjoyer.substack.com/p/computational-chemistry-locally"
+    ]
+  ],
+  [
+    [
       "2026-07-21, 00:28:39",
       "https://news.ycombinator.com/item?id=48986703"
     ],
@@ -277,16 +287,6 @@
     [
       "Projects every RC live races and results",
       "https://rc-replay.dev/lr/vmrc/r/6912053"
-    ]
-  ],
-  [
-    [
-      "2026-07-20, 17:55:09",
-      "https://news.ycombinator.com/item?id=48982321"
-    ],
-    [
-      "I could do that in a weekend (2016)",
-      "https://danluu.com/sounds-easy/"
     ]
   ],
   [
