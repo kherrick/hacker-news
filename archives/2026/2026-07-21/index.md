@@ -46,6 +46,7 @@
 * [2026-07-21, 17:00:20](https://news.ycombinator.com/item?id=48995037) - [Bloomy (YC S26) is hiring a founding engineer](https://news.ycombinator.com/item?id=48995037)
 * [2026-07-21, 16:57:30](https://news.ycombinator.com/item?id=48994984) - [Show HN: OSS Cross-Harness self hosted registry and analytics for AI Agents](https://github.com/Observal/Observal)
 * [2026-07-21, 16:39:30](https://news.ycombinator.com/item?id=48994716) - [Roblox Officially Supports GrapheneOS](https://en.help.roblox.com/hc/en-us/articles/49648939984916-Android-Remote-Attestation)
+* [2026-07-21, 16:22:17](https://news.ycombinator.com/item?id=48994440) - [Latest Airbus Single Aisle Aircraft Innovations](https://www.airbus.com/en/newsroom/stories/2026-07-how-the-a321xlr-is-redefining-single-aisle-comfort-for-passengers)
 * [2026-07-21, 16:06:20](https://news.ycombinator.com/item?id=48994186) - [Show HN: An MCP server that turns async-work practices into tools](https://github.com/open-and-async/mcp)
 * [2026-07-21, 16:05:58](https://news.ycombinator.com/item?id=48994178) - [The World's 2,400 Castles](https://thecastlemap.com/)
 * [2026-07-21, 16:02:04](https://news.ycombinator.com/item?id=48994116) - [France's Anssi Will Block PQC-Free Products from Certification Starting 2027](https://postquantum.com/security-pqc/anssi-pqc-certification-2027/)
