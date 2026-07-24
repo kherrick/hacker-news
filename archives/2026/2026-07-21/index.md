@@ -27,6 +27,7 @@
 * [2026-07-21, 18:30:21](https://news.ycombinator.com/item?id=48996197) - [AI Didn't Make Programming Easier. It Just Made It Differently Difficult](https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/)
 * [2026-07-21, 18:29:57](https://news.ycombinator.com/item?id=48996187) - [Show HN: A self-running space economy SIM in Rust and Bevy](https://github.com/Kalcode/spaceprojectsim)
 * [2026-07-21, 18:25:08](https://news.ycombinator.com/item?id=48996128) - [Cheap Self-Hosted Kubernetes on Hetzner Cloud](https://blog.qstars.nl/posts/cheap-self-hosted-kubernetes-on-hetzner-cloud/)
+* [2026-07-21, 18:23:49](https://news.ycombinator.com/item?id=48996119) - [Computational chemistry, Locally? My rant on SSH](https://chillphysicsenjoyer.substack.com/p/computational-chemistry-locally)
 * [2026-07-21, 18:17:50](https://news.ycombinator.com/item?id=48996035) - [Measuring reward-seeking by instilling contrastive beliefs](https://alignment.openai.com/measuring-reward-seeking/)
 * [2026-07-21, 18:08:38](https://news.ycombinator.com/item?id=48995923) - [YouTube System Design for Robotics Data Infrastructure](https://hebbianrobotics.com/blog/youtube-system-design-for-robotics-data-infrastructure)
 * [2026-07-21, 17:59:29](https://news.ycombinator.com/item?id=48995814) - [Greedy is optimal for single-pass semi-streaming matching](https://arxiv.org/abs/2607.14656)
