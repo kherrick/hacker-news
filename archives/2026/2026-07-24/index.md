@@ -4,10 +4,17 @@
 
 ### [Archives](../../index.md) for [2026-07-24](index.md)
 
+* [2026-07-24, 12:55:47](https://news.ycombinator.com/item?id=49034895) - [Eight Newly Produced MQ-9 Reaper Drones Destroyed in Iranian Strike](https://militarywatchmagazine.com/)
+* [2026-07-24, 12:40:27](https://news.ycombinator.com/item?id=49034747) - [Em dashes are fucking amazing](https://psychotechnology.substack.com/p/em-dashes-are-fucking-amazing)
+* [2026-07-24, 12:34:28](https://news.ycombinator.com/item?id=49034673) - [Programming language file extensions that match ISO 3166-1 alpha-2 country code](https://www.bruh.ltd/blog/programming-language-file-extensions-that-match-an-iso-3166-1-alpha-2-country-code/)
+* [2026-07-24, 12:15:11](https://news.ycombinator.com/item?id=49034468) - [Why is programming so captivating, yet so agonizing?](https://elsewhere.news/en/zhenfund/why-is-programming-so-captivating-yet-so-agonizing)
+* [2026-07-24, 12:00:17](https://news.ycombinator.com/item?id=49034342) - [I Tried Building a Real App with AI. It Took a Year](https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/)
+* [2026-07-24, 11:54:41](https://news.ycombinator.com/item?id=49034292) - [My security camera shipped a GitHub admin token in its login page](https://hhh.hn/hanwha-github-token/)
 * [2026-07-24, 11:46:55](https://news.ycombinator.com/item?id=49034219) - [German battery maker Varta files insolvency applications](https://www.reuters.com/business/german-battery-maker-varta-files-insolvency-applications-2026-07-24/)
 * [2026-07-24, 11:46:40](https://news.ycombinator.com/item?id=49034217) - [The case for MUDs in modern times](https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times)
 * [2026-07-24, 11:13:59](https://news.ycombinator.com/item?id=49033916) - [The IBM PC, Part 1: Arrival](https://technicshistory.com/2026/07/24/the-ibm-pc-part-1-arrival/)
 * [2026-07-24, 10:15:29](https://news.ycombinator.com/item?id=49033412) - [Game of Trees – Git-based version control from OpenBSD folks](https://www.gameoftrees.org/)
+* [2026-07-24, 10:12:39](https://news.ycombinator.com/item?id=49033388) - [How Do We Stop Vibe Coding?](https://alexklos.ca/blog/how-do-we-stop-vibe-coding)
 * [2026-07-24, 10:09:36](https://news.ycombinator.com/item?id=49033363) - [Launching Health in ChatGPT to US Users](https://openai.com/index/health-in-chatgpt/)
 * [2026-07-24, 10:01:39](https://news.ycombinator.com/item?id=49033302) - [Show HN: Audio Player with \"Binaural Beats\" tuned to the same key as your music](https://github.com/henrygabriels/binaural-studio)
 * [2026-07-24, 09:52:58](https://news.ycombinator.com/item?id=49033240) - [IRGC Claims It Destroyed Amazon's Bahrain Data Center](https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/)
