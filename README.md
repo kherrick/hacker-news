@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-25, 12:51:48](https://news.ycombinator.com/item?id=49047198) - [League of Legends designer shares game design field manual](https://areadenial.games/design/preface#00-01)
 * [2026-07-25, 12:00:04](https://news.ycombinator.com/item?id=49046858) - [Kyber (YC W23) Is Hiring a Head of Engineering](https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering)
 * [2026-07-25, 11:04:57](https://news.ycombinator.com/item?id=49046525) - [The Fedora 45 Sausage Factory](https://supakeen.com/weblog/the-fedora-45-sausage-factory/)
 * [2026-07-25, 07:51:19](https://news.ycombinator.com/item?id=49045446) - [MouthPad: A Tongue-Controlled Touchpad](https://www.augmental.tech/)
@@ -25,7 +26,6 @@
 * [2026-07-22, 14:20:34](https://news.ycombinator.com/item?id=49007291) - [PyPI Blog: Releases now reject new files after 14 days](https://blog.pypi.org/posts/2026-07-22-releases-now-reject-new-files-after-14-days/)
 * [2026-07-22, 13:00:29](https://news.ycombinator.com/item?id=49006096) - [My Images Are Dithered](https://dead.garden/blog/how-my-images-are-dithered.html)
 * [2026-07-21, 17:27:59](https://news.ycombinator.com/item?id=48995409) - [Firefox Containers Preview](https://blog.mozilla.org/en/firefox/firefox-containers-preview/)
-* [2026-07-21, 13:19:13](https://news.ycombinator.com/item?id=48991945) - [PartialString – A finite-difference time-domain physical modelling synthesiser](https://differentinstruments.com/)
 * [2026-07-20, 21:35:33](https://news.ycombinator.com/item?id=48985182) - [Designing an Ethernet Switch ASIC](https://essenceia.github.io/projects/ethernet_switch_asic/)
 * [2026-07-20, 17:10:50](https://news.ycombinator.com/item?id=48981665) - [GC and Exceptions in Wasmtime](https://bytecodealliance.org/articles/wasmtime-gc)
 * [2026-07-20, 15:00:54](https://news.ycombinator.com/item?id=48979836) - [NYC Apartment Aquaponics](https://erinmurphy.dev/projects/project-2/)
