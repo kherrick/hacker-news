@@ -56,6 +56,7 @@
 * [2026-07-22, 14:34:23](https://news.ycombinator.com/item?id=49007524) - [OpenNode – Bitcoin Payment Processor](https://opennode.com/)
 * [2026-07-22, 14:31:55](https://news.ycombinator.com/item?id=49007487) - [How to Read a Painting](https://sheets.works/data-viz/how-to-read-a-painting/)
 * [2026-07-22, 14:25:13](https://news.ycombinator.com/item?id=49007374) - [Passkeys were invented by engineers with zero understanding of consumer brain](https://twitter.com/nikitabier/status/2079787406300266743)
+* [2026-07-22, 14:20:34](https://news.ycombinator.com/item?id=49007291) - [PyPI Blog: Releases now reject new files after 14 days](https://blog.pypi.org/posts/2026-07-22-releases-now-reject-new-files-after-14-days/)
 * [2026-07-22, 14:18:11](https://news.ycombinator.com/item?id=49007249) - [When Is NVLink Worth It?](https://platform-fools.com/posts/2026-04-27-nvlink/)
 * [2026-07-22, 14:18:05](https://news.ycombinator.com/item?id=49007247) - [Quality non-fiction books are the antithesis of AI slop](https://resobscura.substack.com/p/quality-non-fiction-books-are-the)
 * [2026-07-22, 14:16:44](https://news.ycombinator.com/item?id=49007221) - [The Beam Engine](https://glinscott.github.io/beam-engine/)
