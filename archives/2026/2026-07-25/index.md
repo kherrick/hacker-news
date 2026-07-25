@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-25](index.md)
 
+* [2026-07-25, 18:18:42](https://news.ycombinator.com/item?id=49050152) - [Tile's Security Is So Bad It's a Feature for Stalkers](https://blog.adafruit.com/2026/03/05/tiles-security-is-so-bad-its-a-feature-for-stalkers/)
 * [2026-07-25, 16:55:45](https://news.ycombinator.com/item?id=49049241) - [Apple Is the King of AI and Nobody Knows It](https://limitededitionjonathan.substack.com/p/apple-is-the-king-of-ai-and-nobody)
 * [2026-07-25, 16:39:55](https://news.ycombinator.com/item?id=49049066) - [Rauno's Field Notes #2](https://rauno.me/notes/2)
 * [2026-07-25, 16:34:16](https://news.ycombinator.com/item?id=49049015) - [Amen Break](https://en.wikipedia.org/wiki/Amen_break)
