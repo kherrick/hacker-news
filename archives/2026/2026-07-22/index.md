@@ -60,6 +60,7 @@
 * [2026-07-22, 14:18:11](https://news.ycombinator.com/item?id=49007249) - [When Is NVLink Worth It?](https://platform-fools.com/posts/2026-04-27-nvlink/)
 * [2026-07-22, 14:18:05](https://news.ycombinator.com/item?id=49007247) - [Quality non-fiction books are the antithesis of AI slop](https://resobscura.substack.com/p/quality-non-fiction-books-are-the)
 * [2026-07-22, 14:16:44](https://news.ycombinator.com/item?id=49007221) - [The Beam Engine](https://glinscott.github.io/beam-engine/)
+* [2026-07-22, 14:03:21](https://news.ycombinator.com/item?id=49007018) - [Spatial languages: Writing code in 2D](https://shukla.io/blog/2026-07/cccx.html)
 * [2026-07-22, 13:08:19](https://news.ycombinator.com/item?id=49006195) - [Back to Kagi](https://blog.melashri.net/micro/back-to-kagi/)
 * [2026-07-22, 13:00:29](https://news.ycombinator.com/item?id=49006096) - [My Images Are Dithered](https://dead.garden/blog/how-my-images-are-dithered.html)
 * [2026-07-22, 12:49:45](https://news.ycombinator.com/item?id=49005973) - [Businesses with ugly AI menu redesigns](https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/)
