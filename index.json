@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-25, 13:33:03",
+      "https://news.ycombinator.com/item?id=49047448"
+    ],
+    [
+      "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
+      "https://www.wsj.com/business/china-us-ai-model-costs-53a12e96"
+    ]
+  ],
+  [
+    [
       "2026-07-25, 12:51:48",
       "https://news.ycombinator.com/item?id=49047198"
     ],
@@ -131,32 +141,12 @@
   ],
   [
     [
-      "2026-07-24, 12:53:59",
-      "https://news.ycombinator.com/item?id=49034868"
-    ],
-    [
-      "Half-Life 2 running natively on HaikuOS",
-      "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18"
-    ]
-  ],
-  [
-    [
       "2026-07-24, 11:54:41",
       "https://news.ycombinator.com/item?id=49034292"
     ],
     [
       "My security camera shipped a GitHub admin token in its login page",
       "https://hhh.hn/hanwha-github-token/"
-    ]
-  ],
-  [
-    [
-      "2026-07-24, 09:52:58",
-      "https://news.ycombinator.com/item?id=49033240"
-    ],
-    [
-      "IRGC claims it destroyed Amazon's Bahrain data center",
-      "https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "PyPI Blog: Releases now reject new files after 14 days",
       "https://blog.pypi.org/posts/2026-07-22-releases-now-reject-new-files-after-14-days/"
+    ]
+  ],
+  [
+    [
+      "2026-07-22, 14:03:21",
+      "https://news.ycombinator.com/item?id=49007018"
+    ],
+    [
+      "Spatial languages: Writing code in 2D",
+      "https://shukla.io/blog/2026-07/cccx.html"
     ]
   ],
   [
