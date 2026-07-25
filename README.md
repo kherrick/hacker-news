@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-25, 22:03:22](https://news.ycombinator.com/item?id=49052074) - [Kimi K3 built a Windows XP in browser](https://windows-xp.kimi.site/)
+* [2026-07-25, 21:58:14](https://news.ycombinator.com/item?id=49052025) - [Digital Intelligence: Why Humanity Created What It Does Not Understand](https://singularityforge.space/2026/07/26/illusion-of-control/)
 * [2026-07-25, 21:48:22](https://news.ycombinator.com/item?id=49051947) - [GM Backs Sodium Ion Batteries for U.S. Grid Storage](https://spectrum.ieee.org/sodium-ion-battery-peak-energy)
-* [2026-07-25, 21:32:08](https://news.ycombinator.com/item?id=49051816) - [A 77-year-old Republican man is staging a solo protest against Flock cameras](https://www.cltampa.com/news/a-77-year-old-republican-man-is-staging-a-solo-protest-against-st-petes-flock-cameras/)
 * [2026-07-25, 20:59:24](https://news.ycombinator.com/item?id=49051505) - [Who does Anubis actually stop?](https://fzakaria.com/2026/07/09/who-does-anubis-actually-stop)
 * [2026-07-25, 20:55:12](https://news.ycombinator.com/item?id=49051463) - [Multicast TV Distribution on My Home Network](https://www.apalrd.net/posts/2026/isp_mcast/)
 * [2026-07-25, 20:43:11](https://news.ycombinator.com/item?id=49051369) - [Fly.io CEO Kurt Mackey is stepping down](https://fly.io/blog/kurt-scott-money-sprites/)
@@ -9,6 +10,7 @@
 * [2026-07-25, 20:18:54](https://news.ycombinator.com/item?id=49051130) - [Show HN: Writemark, a dependency free web component for inline Markdown editing](https://news.ycombinator.com/item?id=49051130)
 * [2026-07-25, 20:18:03](https://news.ycombinator.com/item?id=49051120) - [Did They Ghost You?](https://didtheyghostyou.com/)
 * [2026-07-25, 19:44:39](https://news.ycombinator.com/item?id=49050859) - [General Resolution: LLM Usage in Debian](https://www.debian.org/vote/2026/vote_002)
+* [2026-07-25, 19:39:12](https://news.ycombinator.com/item?id=49050803) - [Show HN: Minesweeper Raycasted](https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f)
 * [2026-07-25, 19:30:24](https://news.ycombinator.com/item?id=49050735) - [Producing ammonia and fertiliser using wind power in Morris, Minnesota](https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/)
 * [2026-07-25, 19:02:17](https://news.ycombinator.com/item?id=49050538) - [The growing vigilante movement to knock out Flock surveillance cameras](https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/flock-surveillance-cameras)
 * [2026-07-25, 18:18:42](https://news.ycombinator.com/item?id=49050152) - [Tile's security is so bad it's a feature for stalkers](https://blog.adafruit.com/2026/03/05/tiles-security-is-so-bad-its-a-feature-for-stalkers/)
@@ -16,7 +18,6 @@
 * [2026-07-25, 15:55:27](https://news.ycombinator.com/item?id=49048689) - [Bringing PyTorch Monarch to AMD GPUs](https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/)
 * [2026-07-25, 15:54:59](https://news.ycombinator.com/item?id=49048681) - [The Dark Night of Mathematics](https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics)
 * [2026-07-25, 14:49:49](https://news.ycombinator.com/item?id=49048034) - [Open-weight AI is having its Kubernetes moment](https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/)
-* [2026-07-25, 13:42:28](https://news.ycombinator.com/item?id=49047516) - [My web version of Mars MIPS, now has built-in C compiler](https://webmars.nfiles.top/)
 * [2026-07-25, 13:18:49](https://news.ycombinator.com/item?id=49047365) - [Bitchat is now on Radicle](https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6)
 * [2026-07-25, 12:00:04](https://news.ycombinator.com/item?id=49046858) - [Kyber (YC W23) Is Hiring a Head of Engineering](https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering)
 * [2026-07-25, 11:04:57](https://news.ycombinator.com/item?id=49046525) - [The Fedora 45 Sausage Factory](https://supakeen.com/weblog/the-fedora-45-sausage-factory/)
@@ -28,7 +29,6 @@
 * [2026-07-22, 15:29:44](https://news.ycombinator.com/item?id=49008396) - [Zero roadkill as Amazon canopy bridges secure 15,000 crossings](https://news.mongabay.com/2026/07/zero-roadkill-as-amazon-canopy-bridges-secure-15000-crossings/)
 * [2026-07-22, 14:03:21](https://news.ycombinator.com/item?id=49007018) - [Spatial languages: Writing code in 2D](https://shukla.io/blog/2026-07/cccx.html)
 * [2026-07-22, 13:00:29](https://news.ycombinator.com/item?id=49006096) - [How My Images Are Dithered](https://dead.garden/blog/how-my-images-are-dithered.html)
-* [2026-07-20, 15:00:54](https://news.ycombinator.com/item?id=48979836) - [NYC Apartment Aquaponics](https://erinmurphy.dev/projects/project-2/)
 * [2026-07-20, 09:23:42](https://news.ycombinator.com/item?id=48976262) - [Stolen Buttons](https://anatolyzenkov.com/stolen-buttons)
 
 ## [Archives](archives/index.md)

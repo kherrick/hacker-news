@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-25](index.md)
 
+* [2026-07-25, 22:03:22](https://news.ycombinator.com/item?id=49052074) - [Kimi K3 built a Windows XP in browser](https://windows-xp.kimi.site/)
+* [2026-07-25, 21:58:14](https://news.ycombinator.com/item?id=49052025) - [Digital Intelligence: Why Humanity Created What It Does Not Understand](https://singularityforge.space/2026/07/26/illusion-of-control/)
 * [2026-07-25, 21:48:22](https://news.ycombinator.com/item?id=49051947) - [GM Backs Sodium Ion Batteries for U.S. Grid Storage](https://spectrum.ieee.org/sodium-ion-battery-peak-energy)
 * [2026-07-25, 21:32:08](https://news.ycombinator.com/item?id=49051816) - [A 77-year-old Republican man is staging a solo protest against Flock cameras](https://www.cltampa.com/news/a-77-year-old-republican-man-is-staging-a-solo-protest-against-st-petes-flock-cameras/)
 * [2026-07-25, 21:18:06](https://news.ycombinator.com/item?id=49051692) - ['AI Mania Is Eviscerating Global Decision-Making'](https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh)
@@ -16,6 +18,7 @@
 * [2026-07-25, 20:10:00](https://news.ycombinator.com/item?id=49051055) - [Fedora 45 Atomic Desktops Look to Allow for Web-Based Remote Installations](https://www.phoronix.com/news/Fedora-45-Atomic-Remote-Install)
 * [2026-07-25, 19:44:39](https://news.ycombinator.com/item?id=49050859) - [General Resolution: LLM Usage in Debian](https://www.debian.org/vote/2026/vote_002)
 * [2026-07-25, 19:41:07](https://news.ycombinator.com/item?id=49050824) - [Show HN: Proxmox -> Share your host's Bluetooth with a VM over the network](https://github.com/lucid-fabrics/proxmox-bluetooth)
+* [2026-07-25, 19:39:12](https://news.ycombinator.com/item?id=49050803) - [Show HN: Minesweeper Raycasted](https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f)
 * [2026-07-25, 19:30:24](https://news.ycombinator.com/item?id=49050735) - [Producing ammonia and fertiliser using wind power in Morris, Minnesota](https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/)
 * [2026-07-25, 19:06:45](https://news.ycombinator.com/item?id=49050566) - [Show HN: Bribes.fyi – Know before you go. New feature added](https://bribes.fyi/before-you-go)
 * [2026-07-25, 19:02:17](https://news.ycombinator.com/item?id=49050538) - [The growing vigilante movement to knock out Flock surveillance cameras](https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/flock-surveillance-cameras)
