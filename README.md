@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-07-25, 13:33:03](https://news.ycombinator.com/item?id=49047448) - [Corporate America Has Suddenly Decided to Stop Blowing Money on AI](https://www.wsj.com/business/china-us-ai-model-costs-53a12e96)
+* [2026-07-25, 13:48:11](https://news.ycombinator.com/item?id=49047563) - [The Silurian Hypothesis (2020)](https://www.theparisreview.org/blog/2020/01/23/the-silurian-hypothesis/)
 * [2026-07-25, 12:51:48](https://news.ycombinator.com/item?id=49047198) - [League of Legends designer shares game design field manual](https://areadenial.games/design/preface#00-01)
 * [2026-07-25, 12:00:04](https://news.ycombinator.com/item?id=49046858) - [Kyber (YC W23) Is Hiring a Head of Engineering](https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering)
 * [2026-07-25, 11:04:57](https://news.ycombinator.com/item?id=49046525) - [The Fedora 45 Sausage Factory](https://supakeen.com/weblog/the-fedora-45-sausage-factory/)
