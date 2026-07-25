@@ -1,22 +1,22 @@
 [
   [
     [
+      "2026-07-25, 18:18:42",
+      "https://news.ycombinator.com/item?id=49050152"
+    ],
+    [
+      "Tile's Security Is So Bad It's a Feature for Stalkers",
+      "https://blog.adafruit.com/2026/03/05/tiles-security-is-so-bad-its-a-feature-for-stalkers/"
+    ]
+  ],
+  [
+    [
       "2026-07-25, 16:39:55",
       "https://news.ycombinator.com/item?id=49049066"
     ],
     [
       "Rauno's Field Notes #2",
       "https://rauno.me/notes/2"
-    ]
-  ],
-  [
-    [
-      "2026-07-25, 16:31:15",
-      "https://news.ycombinator.com/item?id=49048996"
-    ],
-    [
-      "Politician reads AI prompt during assembly",
-      "https://www.youtube.com/watch?v=wlYa8NV5k-U"
     ]
   ],
   [
@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2026-07-25, 15:54:59",
+      "https://news.ycombinator.com/item?id=49048681"
+    ],
+    [
+      "The Dark Night of Mathematics",
+      "https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics"
+    ]
+  ],
+  [
+    [
       "2026-07-25, 15:51:26",
       "https://news.ycombinator.com/item?id=49048645"
     ],
@@ -51,11 +61,21 @@
   ],
   [
     [
+      "2026-07-25, 15:10:51",
+      "https://news.ycombinator.com/item?id=49048212"
+    ],
+    [
+      "Engineering management after the cost of code collapsed",
+      "https://karimjedda.com/engineering-management-after-cost-of-code-collapse/"
+    ]
+  ],
+  [
+    [
       "2026-07-25, 14:49:49",
       "https://news.ycombinator.com/item?id=49048034"
     ],
     [
-      "Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+      "Open-weight AI is having its Kubernetes moment",
       "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/"
     ]
   ],
@@ -77,6 +97,16 @@
     [
       "Scanwheel is a drum style mechanical television you can build yourself",
       "https://github.com/AncientJames/Scanwheel/"
+    ]
+  ],
+  [
+    [
+      "2026-07-25, 13:48:11",
+      "https://news.ycombinator.com/item?id=49047563"
+    ],
+    [
+      "The Silurian Hypothesis (2020)",
+      "https://www.theparisreview.org/blog/2020/01/23/the-silurian-hypothesis/"
     ]
   ],
   [
@@ -151,32 +181,22 @@
   ],
   [
     [
-      "2026-07-25, 05:51:27",
-      "https://news.ycombinator.com/item?id=49044874"
-    ],
-    [
-      "Extinct Media Museum Tokyo",
-      "https://extinct-media-museum.blog.jp/otemachi/"
-    ]
-  ],
-  [
-    [
-      "2026-07-25, 04:20:21",
-      "https://news.ycombinator.com/item?id=49044492"
-    ],
-    [
-      "UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
-      "https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities"
-    ]
-  ],
-  [
-    [
       "2026-07-25, 01:44:12",
       "https://news.ycombinator.com/item?id=49043724"
     ],
     [
       "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
       "https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize"
+    ]
+  ],
+  [
+    [
+      "2026-07-24, 18:37:06",
+      "https://news.ycombinator.com/item?id=49039868"
+    ],
+    [
+      "Show HN: I made some transistor animations",
+      "https://brandonli.net/semisim/animations"
     ]
   ],
   [
@@ -207,16 +227,6 @@
     [
       "Building a Tiny 3D Renderer for a Tiny Handheld",
       "https://saffroncr.itch.io/katavatis/devlog/1534514/building-a-tiny-3d-renderer-for-a-tiny-handheld"
-    ]
-  ],
-  [
-    [
-      "2026-07-22, 15:37:25",
-      "https://news.ycombinator.com/item?id=49008512"
-    ],
-    [
-      "An old patent inspired the new \"Y-zipper\", a three-sided fastener",
-      "https://news.mit.edu/2026/three-sided-y-zipper-design-0504"
     ]
   ],
   [
@@ -255,7 +265,7 @@
       "https://news.ycombinator.com/item?id=49006096"
     ],
     [
-      "My Images Are Dithered",
+      "How My Images Are Dithered",
       "https://dead.garden/blog/how-my-images-are-dithered.html"
     ]
   ],
@@ -267,16 +277,6 @@
     [
       "GDID Windows – Cut the tracker that follows you even under VPN",
       "https://korben.info/en/gdid-windows-cut-tracker-vpn.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-20, 17:10:50",
-      "https://news.ycombinator.com/item?id=48981665"
-    ],
-    [
-      "GC and Exceptions in Wasmtime",
-      "https://bytecodealliance.org/articles/wasmtime-gc"
     ]
   ],
   [
