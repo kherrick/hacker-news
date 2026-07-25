@@ -55,6 +55,7 @@
 * [2026-07-21, 16:01:07](https://news.ycombinator.com/item?id=48994103) - [Amid nurse shortage, a university rolls out the welcome mat for men](https://text.npr.org/nx-s1-5869813)
 * [2026-07-21, 15:46:18](https://news.ycombinator.com/item?id=48993885) - [NPM's release cooldown is security theater](https://blog.outv.im/2026/npm-cooldown-security-theater/)
 * [2026-07-21, 15:41:51](https://news.ycombinator.com/item?id=48993816) - [Long Presumed Dead, a Thriving Coral Reef Is Discovered in West Africa](https://e360.yale.edu/digest/benin-coral-reef)
+* [2026-07-21, 15:36:37](https://news.ycombinator.com/item?id=48993731) - [Show HN: Lucen a Python compiler that parallelizes for-loops via comment pragmas](https://github.com/fcmv/lucen)
 * [2026-07-21, 15:31:41](https://news.ycombinator.com/item?id=48993637) - [Apple Fixes Hide My Email Vulnerability After 404 Media Coverage](https://www.404media.co/apple-fixes-hide-my-email-vulnerability-after-404-media-coverage/)
 * [2026-07-21, 15:22:33](https://news.ycombinator.com/item?id=48993488) - [Oracle could face $7B collateral bill for Wisconsin data centre](https://www.ft.com/content/b37030b6-bda8-4ba9-8e08-e6b88687b8f5)
 * [2026-07-21, 15:21:02](https://news.ycombinator.com/item?id=48993465) - [Amid Increased Scrutiny, ICE Detention and Deportation Data Goes Dark](https://www.themarshallproject.org/2026/07/15/ice-data-immigration-detention-transparency)
