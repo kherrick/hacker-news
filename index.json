@@ -1,12 +1,52 @@
 [
   [
     [
-      "2026-07-25, 19:41:07",
-      "https://news.ycombinator.com/item?id=49050824"
+      "2026-07-25, 20:55:12",
+      "https://news.ycombinator.com/item?id=49051463"
     ],
     [
-      "Show HN: Proxmox -> Share your host's Bluetooth with a VM over the network",
-      "https://github.com/lucid-fabrics/proxmox-bluetooth"
+      "Multicast TV Distribution on My Home Network",
+      "https://www.apalrd.net/posts/2026/isp_mcast/"
+    ]
+  ],
+  [
+    [
+      "2026-07-25, 20:43:11",
+      "https://news.ycombinator.com/item?id=49051369"
+    ],
+    [
+      "Fly.io CEO Kurt Mackey is stepping down",
+      "https://fly.io/blog/kurt-scott-money-sprites/"
+    ]
+  ],
+  [
+    [
+      "2026-07-25, 20:42:35",
+      "https://news.ycombinator.com/item?id=49051361"
+    ],
+    [
+      "The new rules of context engineering for Claude 5 generation models",
+      "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models"
+    ]
+  ],
+  [
+    [
+      "2026-07-25, 20:18:54",
+      "https://news.ycombinator.com/item?id=49051130"
+    ],
+    [
+      "Show HN: Writemark, a dependency free web component for inline Markdown editing",
+      "https://news.ycombinator.com/item?id=49051130"
+    ]
+  ],
+  [
+    [
+      "2026-07-25, 20:18:03",
+      "https://news.ycombinator.com/item?id=49051120"
+    ],
+    [
+      "Did They Ghost You?",
+      "https://didtheyghostyou.com/"
     ]
   ],
   [
@@ -111,16 +151,6 @@
   ],
   [
     [
-      "2026-07-25, 14:10:43",
-      "https://news.ycombinator.com/item?id=49047707"
-    ],
-    [
-      "Scanwheel is a drum style mechanical television you can build yourself",
-      "https://github.com/AncientJames/Scanwheel/"
-    ]
-  ],
-  [
-    [
       "2026-07-25, 13:48:11",
       "https://news.ycombinator.com/item?id=49047563"
     ],
@@ -167,16 +197,6 @@
     [
       "The Fedora 45 Sausage Factory",
       "https://supakeen.com/weblog/the-fedora-45-sausage-factory/"
-    ]
-  ],
-  [
-    [
-      "2026-07-25, 07:51:19",
-      "https://news.ycombinator.com/item?id=49045446"
-    ],
-    [
-      "MouthPad: A Tongue-Controlled Touchpad",
-      "https://www.augmental.tech/"
     ]
   ],
   [
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2026-07-22, 12:31:02",
-      "https://news.ycombinator.com/item?id=49005722"
-    ],
-    [
-      "Pkgxray – inspect what gets installed, not what executes",
-      "https://github.com/adamsjack711-ux/pkgxray"
-    ]
-  ],
-  [
-    [
       "2026-07-22, 02:56:46",
       "https://news.ycombinator.com/item?id=49001278"
     ],
     [
       "Starveling Rabblement",
       "https://www.lrb.co.uk/the-paper/v48/n13/terry-eagleton/starveling-rabblement"
-    ]
-  ],
-  [
-    [
-      "2026-07-21, 13:22:11",
-      "https://news.ycombinator.com/item?id=48991984"
-    ],
-    [
-      "GDID Windows – Cut the tracker that follows you even under VPN",
-      "https://korben.info/en/gdid-windows-cut-tracker-vpn.html"
     ]
   ],
   [
