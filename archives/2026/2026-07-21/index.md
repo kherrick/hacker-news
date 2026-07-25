@@ -93,3 +93,4 @@
 * [2026-07-21, 01:06:20](https://news.ycombinator.com/item?id=48986912) - [Show HN: I made email signatures less boring](https://esigna.app)
 * [2026-07-21, 00:33:53](https://news.ycombinator.com/item?id=48986731) - [Flock Credibility Lost as It Repeatedly Lies to City Councils, Police, & Public](https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country)
 * [2026-07-21, 00:28:39](https://news.ycombinator.com/item?id=48986703) - [Quickly rewrite Git repository history](https://github.com/newren/git-filter-repo)
+* [2026-07-21, 00:10:32](https://news.ycombinator.com/item?id=48986560) - [The road to epsilon-zero: Nim always ends, even with infinite ordinals](https://blog.plover.com/math/ordinals/02-wellfoundedness.html)
