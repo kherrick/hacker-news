@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-07-25, 13:48:11](https://news.ycombinator.com/item?id=49047563) - [The Silurian Hypothesis (2020)](https://www.theparisreview.org/blog/2020/01/23/the-silurian-hypothesis/)
-* [2026-07-25, 12:51:48](https://news.ycombinator.com/item?id=49047198) - [League of Legends designer shares game design field manual](https://areadenial.games/design/preface#00-01)
+* [2026-07-25, 13:18:49](https://news.ycombinator.com/item?id=49047365) - [Bitchat Is Now on Radicle](https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6)
 * [2026-07-25, 12:00:04](https://news.ycombinator.com/item?id=49046858) - [Kyber (YC W23) Is Hiring a Head of Engineering](https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering)
 * [2026-07-25, 11:04:57](https://news.ycombinator.com/item?id=49046525) - [The Fedora 45 Sausage Factory](https://supakeen.com/weblog/the-fedora-45-sausage-factory/)
 * [2026-07-25, 07:51:19](https://news.ycombinator.com/item?id=49045446) - [MouthPad: A Tongue-Controlled Touchpad](https://www.augmental.tech/)
@@ -15,7 +15,6 @@
 * [2026-07-24, 19:05:53](https://news.ycombinator.com/item?id=49040296) - [Postgres LISTEN/NOTIFY actually scales](https://www.dbos.dev/blog/postgres-listen-notify-scalability)
 * [2026-07-24, 16:57:41](https://news.ycombinator.com/item?id=49038433) - [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5)
 * [2026-07-24, 11:54:41](https://news.ycombinator.com/item?id=49034292) - [My security camera shipped a GitHub admin token in its login page](https://hhh.hn/hanwha-github-token/)
-* [2026-07-24, 09:29:44](https://news.ycombinator.com/item?id=49033110) - [Future euro banknote design proposals](https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/all-design-proposals.en.html)
 * [2026-07-23, 17:10:02](https://news.ycombinator.com/item?id=49024938) - [Kimi K3 exploited the latest Redis server](https://twitter.com/fried_rice/status/2080059356322918777)
 * [2026-07-23, 12:31:21](https://news.ycombinator.com/item?id=49020545) - [Show HN: I simulated closing the Strait of Hormuz on real oil trade data](https://globaloilnetwork.staffinganalytics.io/)
 * [2026-07-22, 21:58:42](https://news.ycombinator.com/item?id=49014034) - [Charles Ross spent 50 yrs building Star Axis naked-eye observatory in New Mexico](https://www.nytimes.com/2026/07/22/arts/design/charles-ross-star-axis-land-art.html)
@@ -29,6 +28,7 @@
 * [2026-07-20, 21:35:33](https://news.ycombinator.com/item?id=48985182) - [Designing an Ethernet Switch ASIC](https://essenceia.github.io/projects/ethernet_switch_asic/)
 * [2026-07-20, 17:10:50](https://news.ycombinator.com/item?id=48981665) - [GC and Exceptions in Wasmtime](https://bytecodealliance.org/articles/wasmtime-gc)
 * [2026-07-20, 15:00:54](https://news.ycombinator.com/item?id=48979836) - [NYC Apartment Aquaponics](https://erinmurphy.dev/projects/project-2/)
+* [2026-07-20, 09:23:42](https://news.ycombinator.com/item?id=48976262) - [Stolen Buttons](https://anatolyzenkov.com/stolen-buttons)
 * [2026-07-20, 02:43:54](https://news.ycombinator.com/item?id=48973835) - [India's first privately-developed rocket reaches orbit on debut launch](https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/)
 
 ## [Archives](archives/index.md)

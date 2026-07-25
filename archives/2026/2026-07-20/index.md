@@ -81,6 +81,7 @@
 * [2026-07-20, 10:30:40](https://news.ycombinator.com/item?id=48976846) - [Airport Simulator](https://airport.apunen.com/)
 * [2026-07-20, 10:24:02](https://news.ycombinator.com/item?id=48976781) - [GitHub's 2FA is to become mandatory on September 2, 2026](https://news.ycombinator.com/item?id=48976781)
 * [2026-07-20, 10:12:22](https://news.ycombinator.com/item?id=48976682) - [Airbus Takes Flight from AWS](https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109)
+* [2026-07-20, 09:23:42](https://news.ycombinator.com/item?id=48976262) - [Stolen Buttons](https://anatolyzenkov.com/stolen-buttons)
 * [2026-07-20, 09:12:10](https://news.ycombinator.com/item?id=48976172) - [US gas prices hit an average of $4 a gallon again](https://apnews.com/article/gas-prices-iran-war-4-gallon-4b82825734ec3ded192351e53a4be69e)
 * [2026-07-20, 08:13:36](https://news.ycombinator.com/item?id=48975665) - [Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25](https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/)
 * [2026-07-20, 07:32:39](https://news.ycombinator.com/item?id=48975395) - [Taking OCaml and Eio for a Spin](https://mattjhall.co.uk/posts/taking-ocaml-eio-for-a-spin.html)
