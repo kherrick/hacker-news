@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-07-25](index.md)
 
+* [2026-07-25, 20:55:12](https://news.ycombinator.com/item?id=49051463) - [Multicast TV Distribution on My Home Network](https://www.apalrd.net/posts/2026/isp_mcast/)
+* [2026-07-25, 20:43:11](https://news.ycombinator.com/item?id=49051369) - [Fly.io CEO Kurt Mackey is stepping down](https://fly.io/blog/kurt-scott-money-sprites/)
+* [2026-07-25, 20:42:35](https://news.ycombinator.com/item?id=49051361) - [The new rules of context engineering for Claude 5 generation models](https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models)
+* [2026-07-25, 20:18:54](https://news.ycombinator.com/item?id=49051130) - [Show HN: Writemark, a dependency free web component for inline Markdown editing](https://news.ycombinator.com/item?id=49051130)
+* [2026-07-25, 20:18:03](https://news.ycombinator.com/item?id=49051120) - [Did They Ghost You?](https://didtheyghostyou.com/)
 * [2026-07-25, 19:41:07](https://news.ycombinator.com/item?id=49050824) - [Show HN: Proxmox -> Share your host's Bluetooth with a VM over the network](https://github.com/lucid-fabrics/proxmox-bluetooth)
 * [2026-07-25, 19:30:24](https://news.ycombinator.com/item?id=49050735) - [Producing ammonia and fertiliser using wind power in Morris, Minnesota](https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/)
 * [2026-07-25, 19:06:45](https://news.ycombinator.com/item?id=49050566) - [Show HN: Bribes.fyi – Know before you go. New feature added](https://bribes.fyi/before-you-go)
