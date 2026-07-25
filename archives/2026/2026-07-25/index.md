@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-07-25](index.md)
 
 * [2026-07-25, 22:57:17](https://news.ycombinator.com/item?id=49052628) - [Clinical Failure Rates over the Decades: Yikes](https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes)
+* [2026-07-25, 22:51:10](https://news.ycombinator.com/item?id=49052570) - [What is happening to jobs? Separating AI hype from reality](https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality)
 * [2026-07-25, 22:03:22](https://news.ycombinator.com/item?id=49052074) - [Kimi K3 built a Windows XP in browser](https://windows-xp.kimi.site/)
 * [2026-07-25, 21:58:14](https://news.ycombinator.com/item?id=49052025) - [Digital Intelligence: Why Humanity Created What It Does Not Understand](https://singularityforge.space/2026/07/26/illusion-of-control/)
 * [2026-07-25, 21:48:22](https://news.ycombinator.com/item?id=49051947) - [GM Backs Sodium Ion Batteries for U.S. Grid Storage](https://spectrum.ieee.org/sodium-ion-battery-peak-energy)

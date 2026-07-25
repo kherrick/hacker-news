@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-07-25, 22:57:17](https://news.ycombinator.com/item?id=49052628) - [Clinical Failure Rates over the Decades: Yikes](https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes)
+* [2026-07-25, 22:51:10](https://news.ycombinator.com/item?id=49052570) - [What is happening to jobs? Separating AI hype from reality](https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality)
 * [2026-07-25, 22:03:22](https://news.ycombinator.com/item?id=49052074) - [Kimi K3 built a Windows XP in browser](https://windows-xp.kimi.site/)
 * [2026-07-25, 21:48:22](https://news.ycombinator.com/item?id=49051947) - [GM Backs Sodium Ion Batteries for U.S. Grid Storage](https://spectrum.ieee.org/sodium-ion-battery-peak-energy)
 * [2026-07-25, 20:55:12](https://news.ycombinator.com/item?id=49051463) - [Multicast TV Distribution on My Home Network](https://www.apalrd.net/posts/2026/isp_mcast/)
@@ -9,7 +10,6 @@
 * [2026-07-25, 20:18:54](https://news.ycombinator.com/item?id=49051130) - [Show HN: Writemark, a dependency free web component for inline Markdown editing](https://news.ycombinator.com/item?id=49051130)
 * [2026-07-25, 20:18:03](https://news.ycombinator.com/item?id=49051120) - [Did They Ghost You?](https://didtheyghostyou.com/)
 * [2026-07-25, 19:44:39](https://news.ycombinator.com/item?id=49050859) - [General Resolution: LLM Usage in Debian](https://www.debian.org/vote/2026/vote_002)
-* [2026-07-25, 19:39:12](https://news.ycombinator.com/item?id=49050803) - [Show HN: Minesweeper Raycasted](https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f)
 * [2026-07-25, 19:30:24](https://news.ycombinator.com/item?id=49050735) - [Producing ammonia and fertiliser using wind power in Morris, Minnesota](https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/)
 * [2026-07-25, 19:02:17](https://news.ycombinator.com/item?id=49050538) - [The growing vigilante movement to knock out Flock surveillance cameras](https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/flock-surveillance-cameras)
 * [2026-07-25, 18:59:50](https://news.ycombinator.com/item?id=49050512) - [Running a 28.9M parameter LLM on an $8 microcontroller](https://github.com/slvDev/esp32-ai)
