@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-25, 02:54:36",
+      "https://news.ycombinator.com/item?id=49044074"
+    ],
+    [
+      "Taylor Farms Called White House to Try to Delay Cyclospora Recall",
+      "https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc"
+    ]
+  ],
+  [
+    [
       "2026-07-24, 23:13:18",
       "https://news.ycombinator.com/item?id=49042751"
     ],
@@ -251,22 +261,12 @@
   ],
   [
     [
-      "2026-07-21, 15:36:37",
-      "https://news.ycombinator.com/item?id=48993731"
+      "2026-07-21, 14:05:16",
+      "https://news.ycombinator.com/item?id=48992539"
     ],
     [
-      "Show HN: Lucen a Python compiler that parallelizes for-loops via comment pragmas",
-      "https://github.com/fcmv/lucen"
-    ]
-  ],
-  [
-    [
-      "2026-07-21, 00:10:32",
-      "https://news.ycombinator.com/item?id=48986560"
-    ],
-    [
-      "The road to epsilon-zero: Nim always ends, even with infinite ordinals",
-      "https://blog.plover.com/math/ordinals/02-wellfoundedness.html"
+      "A concrete explanation of how a cache works",
+      "https://parksb.github.io/en/article/29.html"
     ]
   ],
   [
