@@ -31,6 +31,7 @@
 * [2026-07-20, 17:55:09](https://news.ycombinator.com/item?id=48982321) - [I could do that in a weekend (2016)](https://danluu.com/sounds-easy/)
 * [2026-07-20, 17:31:57](https://news.ycombinator.com/item?id=48982011) - [Hyprland 0.55 announced the switch to Lua for its config files](https://hypr.land/news/update55/)
 * [2026-07-20, 17:13:23](https://news.ycombinator.com/item?id=48981703) - [Kimi Work](https://www.kimi.com/products/kimi-work)
+* [2026-07-20, 17:10:50](https://news.ycombinator.com/item?id=48981665) - [GC and Exceptions in Wasmtime](https://bytecodealliance.org/articles/wasmtime-gc)
 * [2026-07-20, 17:07:39](https://news.ycombinator.com/item?id=48981620) - [Jelly UI: Soft-body physics for native HTML form controls](https://jelly-ui.com/)
 * [2026-07-20, 16:58:15](https://news.ycombinator.com/item?id=48981496) - [My husbands suicide shows theres something very wrong with US insurance industry](https://www.statnews.com/2026/07/20/psychiatric-insurance-coverage-suicide-denial-personal-essay/)
 * [2026-07-20, 16:36:36](https://news.ycombinator.com/item?id=48981206) - [Over 30% of new ArXiv submissions now read as AI-written](https://unslop.run/blog/measuring-ai-writing-on-arxiv)
