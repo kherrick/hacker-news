@@ -69,6 +69,7 @@
 * [2026-07-21, 14:05:16](https://news.ycombinator.com/item?id=48992539) - [A concrete explanation of how a cache works](https://parksb.github.io/en/article/29.html)
 * [2026-07-21, 13:48:35](https://news.ycombinator.com/item?id=48992323) - [PCjs Machines](https://www.pcjs.org/)
 * [2026-07-21, 13:48:07](https://news.ycombinator.com/item?id=48992315) - [Why Are There No Empires in Age of Empires? (2019)](https://acoup.blog/2019/11/22/collections-why-are-there-no-empires-in-age-of-empires/)
+* [2026-07-21, 13:19:13](https://news.ycombinator.com/item?id=48991945) - [PartialString – A finite-difference time-domain physical modelling synthesiser](https://differentinstruments.com/)
 * [2026-07-21, 13:13:47](https://news.ycombinator.com/item?id=48991882) - [git's –end-of-options Flag](https://nesbitt.io/2026/07/21/end-of-options.html)
 * [2026-07-21, 13:05:28](https://news.ycombinator.com/item?id=48991815) - [The Great Steam Deck Crash of 2026: How the New Pricing Decreased Demand by 80%](https://boilingsteam.com/the-great-steam-deck-volume-crash/)
 * [2026-07-21, 12:19:48](https://news.ycombinator.com/item?id=48991320) - [The story behind APC-2](https://teenage.engineering/now)
