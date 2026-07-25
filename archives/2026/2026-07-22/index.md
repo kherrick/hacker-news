@@ -36,6 +36,7 @@
 * [2026-07-22, 15:37:25](https://news.ycombinator.com/item?id=49008512) - [A Zipper Patent Sat in a Garage for 40 Years. Now It's Real](https://www.yankodesign.com/2026/05/31/a-zipper-patent-sat-in-a-garage-for-40-years-now-its-real/)
 * [2026-07-22, 15:33:48](https://news.ycombinator.com/item?id=49008440) - [Making](https://beej.us/blog/data/ai-making/)
 * [2026-07-22, 15:30:36](https://news.ycombinator.com/item?id=49008406) - [Show HN: HN Hall of Fame – browse 3,100 legendary Hacker News links](https://www.orangecrumbs.com/hall/)
+* [2026-07-22, 15:29:44](https://news.ycombinator.com/item?id=49008396) - [Zero roadkill as Amazon canopy bridges secure 15,000 crossings](https://news.mongabay.com/2026/07/zero-roadkill-as-amazon-canopy-bridges-secure-15000-crossings/)
 * [2026-07-22, 15:26:56](https://news.ycombinator.com/item?id=49008346) - [Critical Minerals: Reducing U.S. Import Reliance with Substitution and Recycling](https://www.gao.gov/products/gao-26-108687)
 * [2026-07-22, 15:22:53](https://news.ycombinator.com/item?id=49008276) - [Why I Am Not Going to Buy a Computer](https://karlvmuller.com/posts/why-i-am-not-going-to-buy-a-computer/)
 * [2026-07-22, 15:19:23](https://news.ycombinator.com/item?id=49008211) - [Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)](https://bento.page/slides/)

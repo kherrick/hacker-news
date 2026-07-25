@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-07-25, 14:41:06](https://news.ycombinator.com/item?id=49047969) - [The AI jobs apocalypse probably isn't coming anytime soon](https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor)
+* [2026-07-25, 15:51:26](https://news.ycombinator.com/item?id=49048645) - [Brazilian farmers tokenized dairy cows to get loans, bypassing bank limits](https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits)
 * [2026-07-25, 13:18:49](https://news.ycombinator.com/item?id=49047365) - [Bitchat Is Now on Radicle](https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6)
 * [2026-07-25, 12:00:04](https://news.ycombinator.com/item?id=49046858) - [Kyber (YC W23) Is Hiring a Head of Engineering](https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering)
 * [2026-07-25, 11:04:57](https://news.ycombinator.com/item?id=49046525) - [The Fedora 45 Sausage Factory](https://supakeen.com/weblog/the-fedora-45-sausage-factory/)
@@ -10,7 +10,6 @@
 * [2026-07-25, 05:51:27](https://news.ycombinator.com/item?id=49044874) - [Extinct Media Museum Tokyo](https://extinct-media-museum.blog.jp/otemachi/)
 * [2026-07-25, 04:20:21](https://news.ycombinator.com/item?id=49044492) - [UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities](https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities)
 * [2026-07-25, 01:44:12](https://news.ycombinator.com/item?id=49043724) - [Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach](https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize)
-* [2026-07-24, 23:13:18](https://news.ycombinator.com/item?id=49042751) - [Sperm Whales blow bubbles to achieve restful, vertical sleep](https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/)
 * [2026-07-24, 19:45:10](https://news.ycombinator.com/item?id=49040741) - [Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard](https://artificialanalysis.ai/models)
 * [2026-07-24, 19:05:53](https://news.ycombinator.com/item?id=49040296) - [Postgres LISTEN/NOTIFY actually scales](https://www.dbos.dev/blog/postgres-listen-notify-scalability)
 * [2026-07-24, 16:57:41](https://news.ycombinator.com/item?id=49038433) - [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5)
@@ -21,6 +20,7 @@
 * [2026-07-22, 20:03:32](https://news.ycombinator.com/item?id=49012604) - [Book Corners: Community map of neighborhood book exchange spots](https://www.bookcorners.org)
 * [2026-07-22, 18:09:26](https://news.ycombinator.com/item?id=49010993) - [Building a Tiny 3D Renderer for a Tiny Handheld](https://saffroncr.itch.io/katavatis/devlog/1534514/building-a-tiny-3d-renderer-for-a-tiny-handheld)
 * [2026-07-22, 15:37:25](https://news.ycombinator.com/item?id=49008512) - [An old patent inspired the new \"Y-zipper\", a three-sided fastener](https://news.mit.edu/2026/three-sided-y-zipper-design-0504)
+* [2026-07-22, 15:29:44](https://news.ycombinator.com/item?id=49008396) - [Zero roadkill as Amazon canopy bridges secure 15,000 crossings](https://news.mongabay.com/2026/07/zero-roadkill-as-amazon-canopy-bridges-secure-15000-crossings/)
 * [2026-07-22, 14:20:34](https://news.ycombinator.com/item?id=49007291) - [PyPI Blog: Releases now reject new files after 14 days](https://blog.pypi.org/posts/2026-07-22-releases-now-reject-new-files-after-14-days/)
 * [2026-07-22, 14:03:21](https://news.ycombinator.com/item?id=49007018) - [Spatial languages: Writing code in 2D](https://shukla.io/blog/2026-07/cccx.html)
 * [2026-07-22, 13:00:29](https://news.ycombinator.com/item?id=49006096) - [My Images Are Dithered](https://dead.garden/blog/how-my-images-are-dithered.html)
