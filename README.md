@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-07-25, 16:21:13](https://news.ycombinator.com/item?id=49048901) - [Writing a (valid) C program without main()](https://labs.iximiuz.com/tutorials/c-program-without-main-a1eea557)
+* [2026-07-25, 16:39:55](https://news.ycombinator.com/item?id=49049066) - [Rauno's Field Notes #2](https://rauno.me/notes/2)
+* [2026-07-25, 16:34:16](https://news.ycombinator.com/item?id=49049015) - [Amen Break](https://en.wikipedia.org/wiki/Amen_break)
 * [2026-07-25, 16:09:58](https://news.ycombinator.com/item?id=49048819) - [Wind turbine is being used to produce zero-carbon \"green ammonia\" fertilizer](https://energiesmedia.com/wind-turbine-stopped-electricity-wind-water-air/)
 * [2026-07-25, 15:55:27](https://news.ycombinator.com/item?id=49048689) - [Bringing PyTorch Monarch to AMD GPUs](https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/)
 * [2026-07-25, 15:54:59](https://news.ycombinator.com/item?id=49048681) - [The Dark Night of Mathematics](https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics)
@@ -22,7 +23,6 @@
 * [2026-07-25, 01:44:12](https://news.ycombinator.com/item?id=49043724) - [Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach](https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize)
 * [2026-07-22, 21:58:42](https://news.ycombinator.com/item?id=49014034) - [Charles Ross spent 50 yrs building Star Axis naked-eye observatory in New Mexico](https://www.nytimes.com/2026/07/22/arts/design/charles-ross-star-axis-land-art.html)
 * [2026-07-22, 18:09:26](https://news.ycombinator.com/item?id=49010993) - [Building a Tiny 3D Renderer for a Tiny Handheld](https://saffroncr.itch.io/katavatis/devlog/1534514/building-a-tiny-3d-renderer-for-a-tiny-handheld)
-* [2026-07-22, 15:37:25](https://news.ycombinator.com/item?id=49008512) - [An old patent inspired the new \"Y-zipper\", a three-sided fastener](https://news.mit.edu/2026/three-sided-y-zipper-design-0504)
 * [2026-07-22, 15:29:44](https://news.ycombinator.com/item?id=49008396) - [Zero roadkill as Amazon canopy bridges secure 15,000 crossings](https://news.mongabay.com/2026/07/zero-roadkill-as-amazon-canopy-bridges-secure-15000-crossings/)
 * [2026-07-22, 14:20:34](https://news.ycombinator.com/item?id=49007291) - [PyPI Blog: Releases now reject new files after 14 days](https://blog.pypi.org/posts/2026-07-22-releases-now-reject-new-files-after-14-days/)
 * [2026-07-22, 14:03:21](https://news.ycombinator.com/item?id=49007018) - [Spatial languages: Writing code in 2D](https://shukla.io/blog/2026-07/cccx.html)

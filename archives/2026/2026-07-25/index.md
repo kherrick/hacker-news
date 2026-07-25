@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-25](index.md)
 
+* [2026-07-25, 16:39:55](https://news.ycombinator.com/item?id=49049066) - [Rauno's Field Notes #2](https://rauno.me/notes/2)
+* [2026-07-25, 16:34:16](https://news.ycombinator.com/item?id=49049015) - [Amen Break](https://en.wikipedia.org/wiki/Amen_break)
 * [2026-07-25, 16:21:13](https://news.ycombinator.com/item?id=49048901) - [Writing a (valid) C program without main()](https://labs.iximiuz.com/tutorials/c-program-without-main-a1eea557)
 * [2026-07-25, 16:09:58](https://news.ycombinator.com/item?id=49048819) - [Wind turbine is being used to produce zero-carbon \"green ammonia\" fertilizer](https://energiesmedia.com/wind-turbine-stopped-electricity-wind-water-air/)
 * [2026-07-25, 15:55:27](https://news.ycombinator.com/item?id=49048689) - [Bringing PyTorch Monarch to AMD GPUs](https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/)
