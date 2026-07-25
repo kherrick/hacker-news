@@ -13,14 +13,13 @@
 * [2026-07-25, 19:39:12](https://news.ycombinator.com/item?id=49050803) - [Show HN: Minesweeper Raycasted](https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f)
 * [2026-07-25, 19:30:24](https://news.ycombinator.com/item?id=49050735) - [Producing ammonia and fertiliser using wind power in Morris, Minnesota](https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/)
 * [2026-07-25, 19:02:17](https://news.ycombinator.com/item?id=49050538) - [The growing vigilante movement to knock out Flock surveillance cameras](https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/flock-surveillance-cameras)
-* [2026-07-25, 18:18:42](https://news.ycombinator.com/item?id=49050152) - [Tile's security is so bad it's a feature for stalkers](https://blog.adafruit.com/2026/03/05/tiles-security-is-so-bad-its-a-feature-for-stalkers/)
+* [2026-07-25, 18:59:50](https://news.ycombinator.com/item?id=49050512) - [Running a 28.9M parameter LLM on an $8 microcontroller](https://github.com/slvDev/esp32-ai)
 * [2026-07-25, 17:34:34](https://news.ycombinator.com/item?id=49049693) - [Show HN: Brolly, a plain-text weather forecast site](https://brolly.sh/forecast/RWFP2qW8)
 * [2026-07-25, 15:55:27](https://news.ycombinator.com/item?id=49048689) - [Bringing PyTorch Monarch to AMD GPUs](https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/)
 * [2026-07-25, 15:54:59](https://news.ycombinator.com/item?id=49048681) - [The Dark Night of Mathematics](https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics)
 * [2026-07-25, 14:49:49](https://news.ycombinator.com/item?id=49048034) - [Open-weight AI is having its Kubernetes moment](https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/)
 * [2026-07-25, 13:18:49](https://news.ycombinator.com/item?id=49047365) - [Bitchat is now on Radicle](https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6)
 * [2026-07-25, 12:00:04](https://news.ycombinator.com/item?id=49046858) - [Kyber (YC W23) Is Hiring a Head of Engineering](https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering)
-* [2026-07-25, 11:04:57](https://news.ycombinator.com/item?id=49046525) - [The Fedora 45 Sausage Factory](https://supakeen.com/weblog/the-fedora-45-sausage-factory/)
 * [2026-07-25, 06:57:14](https://news.ycombinator.com/item?id=49045159) - [Android May Soon Restrict On-Device ADB](https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/)
 * [2026-07-24, 18:37:06](https://news.ycombinator.com/item?id=49039868) - [Show HN: I made some transistor animations](https://brandonli.net/semisim/animations)
 * [2026-07-22, 21:09:59](https://news.ycombinator.com/item?id=49013464) - [SIMD for Collision](https://box2d.org/posts/2026/07/simd-for-collision/)
@@ -30,6 +29,7 @@
 * [2026-07-22, 14:03:21](https://news.ycombinator.com/item?id=49007018) - [Spatial languages: Writing code in 2D](https://shukla.io/blog/2026-07/cccx.html)
 * [2026-07-22, 13:00:29](https://news.ycombinator.com/item?id=49006096) - [How My Images Are Dithered](https://dead.garden/blog/how-my-images-are-dithered.html)
 * [2026-07-20, 09:23:42](https://news.ycombinator.com/item?id=48976262) - [Stolen Buttons](https://anatolyzenkov.com/stolen-buttons)
+* [2026-07-20, 07:27:44](https://news.ycombinator.com/item?id=48975364) - [Show HN: GeoChess – open-source geography strategy game](https://geochess.org)
 
 ## [Archives](archives/index.md)
 
