@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-25](index.md)
 
+* [2026-07-25, 06:57:14](https://news.ycombinator.com/item?id=49045159) - [Android May Soon Restrict On-Device ADB](https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/)
 * [2026-07-25, 06:31:40](https://news.ycombinator.com/item?id=49045040) - [ARC-AGI Leaderboard](https://arcprize.org/leaderboard)
 * [2026-07-25, 05:51:27](https://news.ycombinator.com/item?id=49044874) - [Extinct Media Museum Tokyo](https://extinct-media-museum.blog.jp/otemachi/)
 * [2026-07-25, 04:20:21](https://news.ycombinator.com/item?id=49044492) - [UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities](https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities)

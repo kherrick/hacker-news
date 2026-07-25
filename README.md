@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-25, 06:57:14](https://news.ycombinator.com/item?id=49045159) - [Android May Soon Restrict On-Device ADB](https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/)
 * [2026-07-25, 06:31:40](https://news.ycombinator.com/item?id=49045040) - [ARC-AGI Leaderboard](https://arcprize.org/leaderboard)
 * [2026-07-25, 05:51:27](https://news.ycombinator.com/item?id=49044874) - [Extinct Media Museum Tokyo](https://extinct-media-museum.blog.jp/otemachi/)
 * [2026-07-25, 04:20:21](https://news.ycombinator.com/item?id=49044492) - [UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities](https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities)
@@ -10,11 +11,9 @@
 * [2026-07-24, 19:05:53](https://news.ycombinator.com/item?id=49040296) - [Postgres LISTEN/NOTIFY actually scales](https://www.dbos.dev/blog/postgres-listen-notify-scalability)
 * [2026-07-24, 16:57:41](https://news.ycombinator.com/item?id=49038433) - [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5)
 * [2026-07-24, 16:48:57](https://news.ycombinator.com/item?id=49038298) - [Don't Take the Black Pill [video]](https://www.youtube.com/watch?v=zLZwpH5lCD4)
-* [2026-07-24, 16:32:52](https://news.ycombinator.com/item?id=49038045) - [Unitree As2-W](https://www.unitree.com/As2-W/)
 * [2026-07-24, 13:32:30](https://news.ycombinator.com/item?id=49035303) - [Nvidia, Microsoft, Meta warn against overregulating open-weight models](https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html)
 * [2026-07-24, 12:53:59](https://news.ycombinator.com/item?id=49034868) - [Half-Life 2 running natively on HaikuOS](https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18)
 * [2026-07-24, 11:54:41](https://news.ycombinator.com/item?id=49034292) - [My security camera shipped a GitHub admin token in its login page](https://hhh.hn/hanwha-github-token/)
-* [2026-07-24, 11:46:40](https://news.ycombinator.com/item?id=49034217) - [The case for MUDs in modern times (2018)](https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times)
 * [2026-07-24, 09:52:58](https://news.ycombinator.com/item?id=49033240) - [IRGC claims it destroyed Amazon's Bahrain data center](https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/)
 * [2026-07-24, 09:29:44](https://news.ycombinator.com/item?id=49033110) - [Future euro banknote design proposals](https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/all-design-proposals.en.html)
 * [2026-07-24, 09:26:40](https://news.ycombinator.com/item?id=49033099) - [Buz – A fork of Bun using modern Zig, with sub-1s incremental builds](https://ziggit.dev/t/buz-a-drop-in-replacement-for-bun-using-modern-zig-with-sub-1s-incremental-builds/16891)
@@ -29,6 +28,7 @@
 * [2026-07-21, 13:19:13](https://news.ycombinator.com/item?id=48991945) - [PartialString – A finite-difference time-domain physical modelling synthesiser](https://differentinstruments.com/)
 * [2026-07-20, 21:35:33](https://news.ycombinator.com/item?id=48985182) - [Designing an Ethernet Switch ASIC](https://essenceia.github.io/projects/ethernet_switch_asic/)
 * [2026-07-20, 17:10:50](https://news.ycombinator.com/item?id=48981665) - [GC and Exceptions in Wasmtime](https://bytecodealliance.org/articles/wasmtime-gc)
+* [2026-07-20, 15:00:54](https://news.ycombinator.com/item?id=48979836) - [NYC Apartment Aquaponics](https://erinmurphy.dev/projects/project-2/)
 * [2026-07-20, 02:43:54](https://news.ycombinator.com/item?id=48973835) - [India's first privately-developed rocket reaches orbit on debut launch](https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/)
 
 ## [Archives](archives/index.md)

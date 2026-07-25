@@ -47,6 +47,7 @@
 * [2026-07-20, 15:13:42](https://news.ycombinator.com/item?id=48980019) - [Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling](https://www.emergingtrajectories.com/lh/frontier-lab-economics/)
 * [2026-07-20, 15:10:28](https://news.ycombinator.com/item?id=48979974) - [Google Is Censoring Reviews of ICE Detention Centers](https://theintercept.com/2026/07/20/google-maps-reviews-ice-detention-centers/)
 * [2026-07-20, 15:07:31](https://news.ycombinator.com/item?id=48979931) - [Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion](https://nothings.org/gamedev/ssao/)
+* [2026-07-20, 15:00:54](https://news.ycombinator.com/item?id=48979836) - [NYC Apartment Aquaponics](https://erinmurphy.dev/projects/project-2/)
 * [2026-07-20, 15:00:34](https://news.ycombinator.com/item?id=48979825) - [I Tracked 997 Chrome Extensions That Changed Their Titles](https://extensionranker.com/blog/chrome-extension-title-changes-rankings)
 * [2026-07-20, 15:00:31](https://news.ycombinator.com/item?id=48979823) - [NYC Subway Signals: A Complete Guide](https://www.nycsubway.org/wiki/Subway_Signals%3A_A_Complete_Guide)
 * [2026-07-20, 15:00:27](https://news.ycombinator.com/item?id=48979822) - [Caffeine and Cardiovascular Disease: Aha Scientific Statement](https://www.ahajournals.org/doi/epub/10.1161/CIR.0000000000001454)
