@@ -66,6 +66,7 @@
 * [2026-07-21, 14:40:52](https://news.ycombinator.com/item?id=48992960) - [Sarah's Wager](https://colossus.com/article/sarah-guo-conviction/)
 * [2026-07-21, 14:31:41](https://news.ycombinator.com/item?id=48992870) - [Apple Defeats Liability for Not Scanning iCloud for CSAM](https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm)
 * [2026-07-21, 14:16:02](https://news.ycombinator.com/item?id=48992669) - [Over 400 Linux CVEs published in the last 24 hours alone](https://lore.kernel.org/linux-cve-announce/)
+* [2026-07-21, 14:05:16](https://news.ycombinator.com/item?id=48992539) - [A concrete explanation of how a cache works](https://parksb.github.io/en/article/29.html)
 * [2026-07-21, 13:48:35](https://news.ycombinator.com/item?id=48992323) - [PCjs Machines](https://www.pcjs.org/)
 * [2026-07-21, 13:48:07](https://news.ycombinator.com/item?id=48992315) - [Why Are There No Empires in Age of Empires? (2019)](https://acoup.blog/2019/11/22/collections-why-are-there-no-empires-in-age-of-empires/)
 * [2026-07-21, 13:13:47](https://news.ycombinator.com/item?id=48991882) - [git's –end-of-options Flag](https://nesbitt.io/2026/07/21/end-of-options.html)

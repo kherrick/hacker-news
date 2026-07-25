@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-25, 02:54:36](https://news.ycombinator.com/item?id=49044074) - [Taylor Farms Called White House to Try to Delay Cyclospora Recall](https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc)
 * [2026-07-24, 23:13:18](https://news.ycombinator.com/item?id=49042751) - [Sperm Whales blow bubbles to achieve restful, vertical sleep](https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/)
 * [2026-07-24, 21:03:10](https://news.ycombinator.com/item?id=49041546) - [Show HN: Max Studio Tools – C++ DSP Modules for Max and Ableton Live](https://github.com/apresta/max-studio-tools)
 * [2026-07-24, 19:45:10](https://news.ycombinator.com/item?id=49040741) - [Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard](https://artificialanalysis.ai/models)
@@ -25,8 +26,7 @@
 * [2026-07-22, 15:37:25](https://news.ycombinator.com/item?id=49008512) - [An old patent inspired the new \"Y-zipper\", a three-sided fastener](https://news.mit.edu/2026/three-sided-y-zipper-design-0504)
 * [2026-07-22, 10:24:40](https://news.ycombinator.com/item?id=49004464) - [Marimo now runs in PyCharm](https://marimo.io/blog/pycharm)
 * [2026-07-21, 17:27:59](https://news.ycombinator.com/item?id=48995409) - [Firefox Containers Preview](https://blog.mozilla.org/en/firefox/firefox-containers-preview/)
-* [2026-07-21, 15:36:37](https://news.ycombinator.com/item?id=48993731) - [Show HN: Lucen a Python compiler that parallelizes for-loops via comment pragmas](https://github.com/fcmv/lucen)
-* [2026-07-21, 00:10:32](https://news.ycombinator.com/item?id=48986560) - [The road to epsilon-zero: Nim always ends, even with infinite ordinals](https://blog.plover.com/math/ordinals/02-wellfoundedness.html)
+* [2026-07-21, 14:05:16](https://news.ycombinator.com/item?id=48992539) - [A concrete explanation of how a cache works](https://parksb.github.io/en/article/29.html)
 * [2026-07-20, 21:35:33](https://news.ycombinator.com/item?id=48985182) - [Designing an Ethernet Switch ASIC](https://essenceia.github.io/projects/ethernet_switch_asic/)
 * [2026-07-20, 12:25:49](https://news.ycombinator.com/item?id=48977849) - [The footprints of every building in NYC](https://www.beautifulpublicdata.com/the-footprints-of-every-building-in-nyc/)
 * [2026-07-20, 02:43:54](https://news.ycombinator.com/item?id=48973835) - [India's first privately-developed rocket reaches orbit on debut launch](https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/)
