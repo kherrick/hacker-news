@@ -68,6 +68,7 @@
 * [2026-07-22, 12:49:45](https://news.ycombinator.com/item?id=49005973) - [Businesses with ugly AI menu redesigns](https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/)
 * [2026-07-22, 12:36:08](https://news.ycombinator.com/item?id=49005787) - [The startup's Postgres survival guide](https://hatchet.run/blog/postgres-survival-guide)
 * [2026-07-22, 12:32:48](https://news.ycombinator.com/item?id=49005747) - [So Reddit has decided that plain HTML is unsafe](https://www.cole-k.com/2026/07/21/reddit/)
+* [2026-07-22, 12:31:02](https://news.ycombinator.com/item?id=49005722) - [Pkgxray – inspect what gets installed, not what executes](https://github.com/adamsjack711-ux/pkgxray)
 * [2026-07-22, 12:03:32](https://news.ycombinator.com/item?id=49005398) - [OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack](https://www.bbc.com/news/articles/c3ek3gvdnj3o)
 * [2026-07-22, 11:58:09](https://news.ycombinator.com/item?id=49005329) - [10 REM\"_(C2SLFF4](https://beej.us/blog/data/mystery-comment/)
 * [2026-07-22, 10:49:04](https://news.ycombinator.com/item?id=49004663) - [OverpAId – Fire your CEO. Hire the future](https://overpaid.lol)

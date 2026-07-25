@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-07-25](index.md)
 
+* [2026-07-25, 19:41:07](https://news.ycombinator.com/item?id=49050824) - [Show HN: Proxmox -> Share your host's Bluetooth with a VM over the network](https://github.com/lucid-fabrics/proxmox-bluetooth)
 * [2026-07-25, 19:30:24](https://news.ycombinator.com/item?id=49050735) - [Producing ammonia and fertiliser using wind power in Morris, Minnesota](https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/)
 * [2026-07-25, 19:06:45](https://news.ycombinator.com/item?id=49050566) - [Show HN: Bribes.fyi – Know before you go. New feature added](https://bribes.fyi/before-you-go)
 * [2026-07-25, 19:02:17](https://news.ycombinator.com/item?id=49050538) - [The growing vigilante movement to knock out Flock surveillance cameras](https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/flock-surveillance-cameras)
 * [2026-07-25, 18:18:42](https://news.ycombinator.com/item?id=49050152) - [Tile's Security Is So Bad It's a Feature for Stalkers](https://blog.adafruit.com/2026/03/05/tiles-security-is-so-bad-its-a-feature-for-stalkers/)
+* [2026-07-25, 18:08:52](https://news.ycombinator.com/item?id=49050058) - [Memory Safety Absolutists](https://itsallaboutthebit.com/memory-safety-absolutists/)
 * [2026-07-25, 17:34:34](https://news.ycombinator.com/item?id=49049693) - [Show HN: Brolly, a plain-text weather forecast site](https://brolly.sh/forecast/RWFP2qW8)
 * [2026-07-25, 16:55:45](https://news.ycombinator.com/item?id=49049241) - [Apple Is the King of AI and Nobody Knows It](https://limitededitionjonathan.substack.com/p/apple-is-the-king-of-ai-and-nobody)
 * [2026-07-25, 16:39:55](https://news.ycombinator.com/item?id=49049066) - [Rauno's Field Notes #2](https://rauno.me/notes/2)
