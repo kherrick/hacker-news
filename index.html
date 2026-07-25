@@ -129,6 +129,25 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="49050566">
+          <h3>
+            <a class="item" href="https://bribes.fyi/before-you-go"
+              >Show HN: Bribes.fyi – Know before you go. New feature added</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-25 @ 19:06:45</span
+              ><span class="points-container"
+                >Points: <span class="points">60</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49050566"
+                  >Comments</a
+                ><span class="descendants">: 32</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="49050152">
           <h3>
             <a
@@ -141,13 +160,89 @@
             <h4>
               <span>2026-07-25 @ 18:18:42</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">63</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49050152"
+                  >Comments</a
+                ><span class="descendants">: 11</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49049693">
+          <h3>
+            <a class="item" href="https://brolly.sh/forecast/RWFP2qW8"
+              >Show HN: Brolly, a plain-text weather forecast site</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-25 @ 17:34:34</span
+              ><span class="points-container"
+                >Points: <span class="points">17</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49049693"
                   >Comments</a
                 ><span class="descendants">: 6</span></span
               >
             </h4>
+            <div class="text">
+              <p>
+                I made <a href="https://brolly.sh">https://brolly.sh</a>, a
+                minimalist, plain text weather forecasting site. You can use it
+                to view weather from around the world, with: 7 day forecast;
+                Previous day log (so you can confirm it definitely was cooler /
+                hotter / wetter / drier yesterday!); Hourly rain, wind,
+                temperature, conditions; Hourly UV, air quality and pollen,
+                including pollen type specific forecasts within the EU / UK;
+                Location search and last 5 locations; Location specific units.
+              </p>
+              <p>
+                I mostly made the site for myself, if anyone else also benefits
+                from it that’s an added advantage.
+              </p>
+              <p>
+                You can check out the weather in York, UK at
+                <a href="https://brolly.sh/forecast/RWFP2qW8"
+                  >https://brolly.sh/forecast/RWFP2qW8</a
+                >, or search for a location at
+                <a href="https://brolly.sh">https://brolly.sh</a>
+              </p>
+              <p>
+                The site is deliberately styled as a single long scrollable
+                column, to work on mobile phones. You can view it on desktop
+                too, there's just a lot of horizontal padding. I naturally took
+                a lot of inspiration from plaintextsports.com. Despite not being
+                a sports fan, I love its aesthetic. But, you'll hopefully see
+                that this site isn't a rip off, and has its own deliberate look
+                and feel.
+              </p>
+              <p>
+                Visualisations are really important to showing information at a
+                glance. I spent a lot of time designing the different
+                visualisations and making them work with only characters. My
+                favourite is the hourly heat map used for pollen count.
+              </p>
+              <p>
+                It's also frustrating to have an interactive site, where you
+                can't share a page with a friend and have them see what you're
+                seeing. To solve this, all page state (i.e. location, selected
+                day, expanded / collapsed sections), is stored in the URL. You
+                can share or bookmark the specific view, and know that you'll
+                always be able to come back to it.
+              </p>
+              <p>
+                The site uses PocketBase. It’s written in Go and plain
+                HTML/JavaScript/CSS. All pages are backend rendered, with light
+                JavaScript to handle re-loading content without page jumps when
+                using interactive features like next / previous day navigation.
+                Weather forecasts are fetched from open-meteo.com, which has a
+                very generous free tier. However, I also built a custom LRU
+                cache on top of PocketBase’s SQLite DB to cache forecasts for 5
+                minutes, and avoid putting unnecessary pressure on the
+                open-meteo API.
+              </p>
+            </div>
           </section>
         </section>
         <section id="49049066">
@@ -160,7 +255,7 @@
             <h4>
               <span>2026-07-25 @ 16:39:55</span
               ><span class="points-container"
-                >Points: <span class="points">16</span></span
+                >Points: <span class="points">17</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49049066"
                   >Comments</a
@@ -181,11 +276,11 @@
             <h4>
               <span>2026-07-25 @ 15:55:27</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49048689"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -202,33 +297,11 @@
             <h4>
               <span>2026-07-25 @ 15:54:59</span
               ><span class="points-container"
-                >Points: <span class="points">79</span></span
+                >Points: <span class="points">85</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49048681"
                   >Comments</a
-                ><span class="descendants">: 58</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49048645">
-          <h3>
-            <a
-              class="item"
-              href="https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits"
-              >Brazilian farmers tokenized dairy cows to get loans, bypassing
-              bank limits</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-25 @ 15:51:26</span
-              ><span class="points-container"
-                >Points: <span class="points">47</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49048645"
-                  >Comments</a
-                ><span class="descendants">: 33</span></span
+                ><span class="descendants">: 66</span></span
               >
             </h4>
           </section>
@@ -245,11 +318,11 @@
             <h4>
               <span>2026-07-25 @ 15:10:51</span
               ><span class="points-container"
-                >Points: <span class="points">63</span></span
+                >Points: <span class="points">70</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49048212"
                   >Comments</a
-                ><span class="descendants">: 99</span></span
+                ><span class="descendants">: 110</span></span
               >
             </h4>
           </section>
@@ -266,11 +339,11 @@
             <h4>
               <span>2026-07-25 @ 14:49:49</span
               ><span class="points-container"
-                >Points: <span class="points">173</span></span
+                >Points: <span class="points">192</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49048034"
                   >Comments</a
-                ><span class="descendants">: 120</span></span
+                ><span class="descendants">: 135</span></span
               >
             </h4>
           </section>
@@ -289,7 +362,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49047884"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -305,11 +378,11 @@
             <h4>
               <span>2026-07-25 @ 14:10:43</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">44</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49047707"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -326,11 +399,11 @@
             <h4>
               <span>2026-07-25 @ 13:48:11</span
               ><span class="points-container"
-                >Points: <span class="points">40</span></span
+                >Points: <span class="points">44</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49047563"
                   >Comments</a
-                ><span class="descendants">: 73</span></span
+                ><span class="descendants">: 76</span></span
               >
             </h4>
           </section>
@@ -345,7 +418,7 @@
             <h4>
               <span>2026-07-25 @ 13:42:28</span
               ><span class="points-container"
-                >Points: <span class="points">21</span></span
+                >Points: <span class="points">22</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49047516"
                   >Comments</a
@@ -366,11 +439,11 @@
             <h4>
               <span>2026-07-25 @ 13:18:49</span
               ><span class="points-container"
-                >Points: <span class="points">134</span></span
+                >Points: <span class="points">141</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49047365"
                   >Comments</a
-                ><span class="descendants">: 84</span></span
+                ><span class="descendants">: 90</span></span
               >
             </h4>
           </section>
@@ -404,11 +477,11 @@
             <h4>
               <span>2026-07-25 @ 11:04:57</span
               ><span class="points-container"
-                >Points: <span class="points">104</span></span
+                >Points: <span class="points">105</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49046525"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
           </section>
@@ -423,7 +496,7 @@
             <h4>
               <span>2026-07-25 @ 07:51:19</span
               ><span class="points-container"
-                >Points: <span class="points">131</span></span
+                >Points: <span class="points">136</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49045446"
                   >Comments</a
@@ -444,55 +517,11 @@
             <h4>
               <span>2026-07-25 @ 06:57:14</span
               ><span class="points-container"
-                >Points: <span class="points">750</span></span
+                >Points: <span class="points">769</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49045159"
                   >Comments</a
-                ><span class="descendants">: 346</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49044492">
-          <h3>
-            <a
-              class="item"
-              href="https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities"
-              >UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber
-              Capabilities</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-25 @ 04:20:21</span
-              ><span class="points-container"
-                >Points: <span class="points">120</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49044492"
-                  >Comments</a
-                ><span class="descendants">: 37</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49043724">
-          <h3>
-            <a
-              class="item"
-              href="https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize"
-              >Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics
-              Outreach</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-25 @ 01:44:12</span
-              ><span class="points-container"
-                >Points: <span class="points">542</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49043724"
-                  >Comments</a
-                ><span class="descendants">: 90</span></span
+                ><span class="descendants">: 357</span></span
               >
             </h4>
           </section>
@@ -507,7 +536,7 @@
             <h4>
               <span>2026-07-24 @ 18:37:06</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">36</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49039868"
                   >Comments</a
@@ -538,11 +567,11 @@
             <h4>
               <span>2026-07-22 @ 21:58:42</span
               ><span class="points-container"
-                >Points: <span class="points">88</span></span
+                >Points: <span class="points">89</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49014034"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 20</span></span
               >
             </h4>
           </section>
@@ -559,11 +588,11 @@
             <h4>
               <span>2026-07-22 @ 19:42:40</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">19</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49012337"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 20</span></span
               >
             </h4>
           </section>
@@ -580,11 +609,11 @@
             <h4>
               <span>2026-07-22 @ 18:09:26</span
               ><span class="points-container"
-                >Points: <span class="points">197</span></span
+                >Points: <span class="points">200</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49010993"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
           </section>
@@ -601,11 +630,11 @@
             <h4>
               <span>2026-07-22 @ 15:29:44</span
               ><span class="points-container"
-                >Points: <span class="points">163</span></span
+                >Points: <span class="points">175</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49008396"
                   >Comments</a
-                ><span class="descendants">: 44</span></span
+                ><span class="descendants">: 50</span></span
               >
             </h4>
           </section>
@@ -622,7 +651,7 @@
             <h4>
               <span>2026-07-22 @ 14:20:34</span
               ><span class="points-container"
-                >Points: <span class="points">77</span></span
+                >Points: <span class="points">78</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49007291"
                   >Comments</a
@@ -641,7 +670,7 @@
             <h4>
               <span>2026-07-22 @ 14:03:21</span
               ><span class="points-container"
-                >Points: <span class="points">81</span></span
+                >Points: <span class="points">82</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49007018"
                   >Comments</a
@@ -662,11 +691,11 @@
             <h4>
               <span>2026-07-22 @ 13:00:29</span
               ><span class="points-container"
-                >Points: <span class="points">170</span></span
+                >Points: <span class="points">177</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49006096"
                   >Comments</a
-                ><span class="descendants">: 59</span></span
+                ><span class="descendants">: 64</span></span
               >
             </h4>
           </section>
@@ -683,11 +712,31 @@
             <h4>
               <span>2026-07-21 @ 13:22:11</span
               ><span class="points-container"
-                >Points: <span class="points">55</span></span
+                >Points: <span class="points">69</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48991984"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 45</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="48984984">
+          <h3>
+            <a class="item" href="https://github.com/ArgoHA/D-FINE-seg"
+              >D-FINE-seg – detection, instance and semantic segmentation in one
+              model</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-20 @ 21:16:11</span
+              ><span class="points-container"
+                >Points: <span class="points">4</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=48984984"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -704,11 +753,11 @@
             <h4>
               <span>2026-07-20 @ 17:10:50</span
               ><span class="points-container"
-                >Points: <span class="points">144</span></span
+                >Points: <span class="points">147</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48981665"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 33</span></span
               >
             </h4>
           </section>
@@ -723,11 +772,11 @@
             <h4>
               <span>2026-07-20 @ 15:00:54</span
               ><span class="points-container"
-                >Points: <span class="points">168</span></span
+                >Points: <span class="points">171</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48979836"
                   >Comments</a
-                ><span class="descendants">: 69</span></span
+                ><span class="descendants">: 72</span></span
               >
             </h4>
           </section>
@@ -742,11 +791,11 @@
             <h4>
               <span>2026-07-20 @ 09:23:42</span
               ><span class="points-container"
-                >Points: <span class="points">333</span></span
+                >Points: <span class="points">370</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=48976262"
                   >Comments</a
-                ><span class="descendants">: 76</span></span
+                ><span class="descendants">: 82</span></span
               >
             </h4>
           </section>
