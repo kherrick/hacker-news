@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2026-07-23, 04:48:22",
-      "https://news.ycombinator.com/item?id=49017054"
-    ],
-    [
-      "How to Write a Quine",
-      "https://czterycztery.pl/slowo/quine-EN.html"
-    ]
-  ],
-  [
-    [
       "2026-07-22, 15:37:25",
       "https://news.ycombinator.com/item?id=49008512"
     ],
@@ -267,6 +257,16 @@
     [
       "Firefox Containers Preview",
       "https://blog.mozilla.org/en/firefox/firefox-containers-preview/"
+    ]
+  ],
+  [
+    [
+      "2026-07-21, 00:10:32",
+      "https://news.ycombinator.com/item?id=48986560"
+    ],
+    [
+      "The road to epsilon-zero: Nim always ends, even with infinite ordinals",
+      "https://blog.plover.com/math/ordinals/02-wellfoundedness.html"
     ]
   ],
   [
