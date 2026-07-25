@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=49050152"
     ],
     [
-      "Tile's Security Is So Bad It's a Feature for Stalkers",
+      "Tile's security is so bad it's a feature for stalkers",
       "https://blog.adafruit.com/2026/03/05/tiles-security-is-so-bad-its-a-feature-for-stalkers/"
     ]
   ],
@@ -17,16 +17,6 @@
     [
       "Rauno's Field Notes #2",
       "https://rauno.me/notes/2"
-    ]
-  ],
-  [
-    [
-      "2026-07-25, 16:09:58",
-      "https://news.ycombinator.com/item?id=49048819"
-    ],
-    [
-      "Wind turbine is being used to produce zero-carbon \"green ammonia\" fertilizer",
-      "https://energiesmedia.com/wind-turbine-stopped-electricity-wind-water-air/"
     ]
   ],
   [
@@ -125,7 +115,7 @@
       "https://news.ycombinator.com/item?id=49047365"
     ],
     [
-      "Bitchat Is Now on Radicle",
+      "Bitchat is now on Radicle",
       "https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6"
     ]
   ],
@@ -171,12 +161,12 @@
   ],
   [
     [
-      "2026-07-25, 06:31:40",
-      "https://news.ycombinator.com/item?id=49045040"
+      "2026-07-25, 04:20:21",
+      "https://news.ycombinator.com/item?id=49044492"
     ],
     [
-      "ARC-AGI Leaderboard",
-      "https://arcprize.org/leaderboard"
+      "UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
+      "https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "GDID Windows – Cut the tracker that follows you even under VPN",
       "https://korben.info/en/gdid-windows-cut-tracker-vpn.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-20, 17:10:50",
+      "https://news.ycombinator.com/item?id=48981665"
+    ],
+    [
+      "GC and Exceptions in Wasmtime",
+      "https://bytecodealliance.org/articles/wasmtime-gc"
     ]
   ],
   [
