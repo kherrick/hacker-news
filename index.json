@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-26, 13:22:59",
+      "https://news.ycombinator.com/item?id=49057972"
+    ],
+    [
+      "Ask HN: What are the most promising RL fields for a new master student?",
+      "https://news.ycombinator.com/item?id=49057972"
+    ]
+  ],
+  [
+    [
       "2026-07-26, 12:43:21",
       "https://news.ycombinator.com/item?id=49057574"
     ],
@@ -27,16 +37,6 @@
     [
       "Third Drone Shot Down in Three Days in Romanian Territory",
       "https://english.mapn.ro/"
-    ]
-  ],
-  [
-    [
-      "2026-07-26, 09:58:11",
-      "https://news.ycombinator.com/item?id=49056424"
-    ],
-    [
-      "No Stack Overflow, No Autocomplete: What Coding Felt Like in the 80s",
-      "https://comuniq.xyz/post?t=1439"
     ]
   ],
   [
@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2026-07-26, 02:55:50",
-      "https://news.ycombinator.com/item?id=49054224"
-    ],
-    [
-      "JetZero",
-      "https://www.jetzero.aero"
-    ]
-  ],
-  [
-    [
       "2026-07-26, 02:35:43",
       "https://news.ycombinator.com/item?id=49054107"
     ],
@@ -127,6 +117,16 @@
     [
       "Git rebase -I is not that scary",
       "https://cachebag.sh/journal/interactive-rebasing/"
+    ]
+  ],
+  [
+    [
+      "2026-07-26, 00:37:30",
+      "https://news.ycombinator.com/item?id=49053382"
+    ],
+    [
+      "Systems and Delays",
+      "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html"
     ]
   ],
   [
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2026-07-22, 12:56:54",
+      "https://news.ycombinator.com/item?id=49006049"
+    ],
+    [
+      "What's Under Your Feet in New York City?",
+      "https://practical.engineering/blog/2026/7/21/whats-under-your-feet-in-new-york-city"
+    ]
+  ],
+  [
+    [
       "2026-07-22, 11:44:30",
       "https://news.ycombinator.com/item?id=49005197"
     ],
@@ -287,16 +297,6 @@
     [
       "DskDitto: Ultra-fast, parallel duplicate-file detector",
       "https://github.com/jdefrancesco/dskDitto"
-    ]
-  ],
-  [
-    [
-      "2026-07-21, 20:30:22",
-      "https://news.ycombinator.com/item?id=48997828"
-    ],
-    [
-      "Some more things about Django I've been enjoying",
-      "https://jvns.ca/blog/2026/07/21/more-nice-django-things/"
     ]
   ]
 ]
