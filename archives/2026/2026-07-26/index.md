@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-07-26](index.md)
 
+* [2026-07-26, 18:38:11](https://news.ycombinator.com/item?id=49060998) - [Show HN: The Occult Gatsby](https://occultgatsby.work)
+* [2026-07-26, 18:35:36](https://news.ycombinator.com/item?id=49060978) - [The Strongest El Niño Ever](https://www.theclimatebrink.com/p/the-strongest-el-nino-ever)
+* [2026-07-26, 18:32:46](https://news.ycombinator.com/item?id=49060945) - [How to Block Some of the Bots](https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/)
+* [2026-07-26, 18:23:06](https://news.ycombinator.com/item?id=49060856) - [Decker](https://beyondloom.com/decker/)
+* [2026-07-26, 18:18:57](https://news.ycombinator.com/item?id=49060802) - [Google Cache used to have a copy of this page at](https://www.hornet.org/wikipedia-notes.txt)
+* [2026-07-26, 18:11:16](https://news.ycombinator.com/item?id=49060724) - [Introduction to Data-Oriented Design [pdf]](https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf)
 * [2026-07-26, 17:49:44](https://news.ycombinator.com/item?id=49060495) - [French firefighters face 'pyrocumulonimbus' for first time](https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time)
 * [2026-07-26, 17:29:35](https://news.ycombinator.com/item?id=49060295) - [How to Write English Prose](https://thelampmagazine.com/blog/how-to-write-english-prose)
 * [2026-07-26, 17:28:03](https://news.ycombinator.com/item?id=49060279) - [Show HN: Boffin – Staff-engineer layer for AI coding agents](https://github.com/MicSm/boffin)
