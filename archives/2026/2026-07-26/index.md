@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-07-26](index.md)
 
+* [2026-07-26, 03:09:46](https://news.ycombinator.com/item?id=49054307) - [Humans Haven't Stopped Evolving](https://www.harvardmagazine.com/research/harvard-human-evolution-genes-selective-pressure)
+* [2026-07-26, 02:55:50](https://news.ycombinator.com/item?id=49054224) - [JetZero](https://www.jetzero.aero)
+* [2026-07-26, 02:35:43](https://news.ycombinator.com/item?id=49054107) - [An ESP32 based plane radar for my desk](https://blog.ktz.me/esp32-plane-radar/)
+* [2026-07-26, 02:22:26](https://news.ycombinator.com/item?id=49054010) - [Show HN: I mapped every US golf course – 16k+ courses, free, no signup](https://golfcoursebrowser.com/)
+* [2026-07-26, 02:18:31](https://news.ycombinator.com/item?id=49053986) - [Show HN: What 180k words look like as a temporal knowledge graph (Oz series)](https://synaptale.com/graph?ch=100)
+* [2026-07-26, 01:35:03](https://news.ycombinator.com/item?id=49053708) - [Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home](https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/)
 * [2026-07-26, 01:13:19](https://news.ycombinator.com/item?id=49053603) - [Possible invasive species superspreader event near Strait of Hormuz](https://abcnews.com/International/scientists-warn-invasive-species-superspreader-event-due-stalling/story?id=135051186)
 * [2026-07-26, 00:37:54](https://news.ycombinator.com/item?id=49053385) - [Git rebase -I is not that scary](https://cachebag.sh/journal/interactive-rebasing/)
 * [2026-07-26, 00:37:30](https://news.ycombinator.com/item?id=49053382) - [Systems and Delays](https://martin.janiczek.cz/2026/07/24/systems-and-delays.html)
