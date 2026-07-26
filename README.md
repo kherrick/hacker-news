@@ -26,8 +26,8 @@
 * [2026-07-25, 22:50:49](https://news.ycombinator.com/item?id=49052564) - [Cloudflare's new AI traffic options for customers](https://blog.cloudflare.com/content-independence-day-ai-options/)
 * [2026-07-25, 20:42:35](https://news.ycombinator.com/item?id=49051361) - [The new rules of context engineering for Claude 5 generation models](https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models)
 * [2026-07-25, 13:33:49](https://news.ycombinator.com/item?id=49047453) - [A shell colon does nothing. Use it anyway](https://refp.se/articles/your-shell-and-the-magic-colon)
-* [2026-07-24, 12:44:32](https://news.ycombinator.com/item?id=49034777) - [Stinkpot: SQLite-backed shell history](https://tangled.org/oppi.li/stinkpot)
 * [2026-07-23, 14:37:13](https://news.ycombinator.com/item?id=49022355) - [I learned PCB design, 3D printing and C just to listen to music](https://pentaton.app/blog/2026-07-12-introducing-pentaton-lp/)
+* [2026-07-23, 04:25:24](https://news.ycombinator.com/item?id=49016917) - [Using sed to make indexes for books (long)](https://www.pement.org/sed/make_indexes.txt)
 * [2026-07-22, 12:56:54](https://news.ycombinator.com/item?id=49006049) - [What's Under Your Feet in New York City?](https://practical.engineering/blog/2026/7/21/whats-under-your-feet-in-new-york-city)
 * [2026-07-21, 19:28:55](https://news.ycombinator.com/item?id=48997008) - [Jimothy the raccoon has a rare spinal condition. Here's what that means](https://www.popsci.com/science/whats-jimothy-raccoon-condition/)
 
