@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-26, 09:01:39](https://news.ycombinator.com/item?id=49056112) - [Ruff v0.16.0 – Significant new updates – 413 default rules up from 59](https://astral.sh/blog/ruff-v0.16.0)
 * [2026-07-26, 05:57:22](https://news.ycombinator.com/item?id=49055169) - [GrapheneOS protections against data extraction from locked devices](https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices)
 * [2026-07-26, 04:19:59](https://news.ycombinator.com/item?id=49054697) - [W4ME Station – a WASM-4 runtime for Java ME phones](https://github.com/mulfyx/w4me-station)
 * [2026-07-26, 02:55:50](https://news.ycombinator.com/item?id=49054224) - [JetZero](https://www.jetzero.aero)
@@ -14,7 +15,6 @@
 * [2026-07-25, 22:51:10](https://news.ycombinator.com/item?id=49052570) - [What is happening to jobs? Separating AI hype from reality](https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality)
 * [2026-07-25, 22:50:49](https://news.ycombinator.com/item?id=49052564) - [Cloudflare's new AI traffic options for customers](https://blog.cloudflare.com/content-independence-day-ai-options/)
 * [2026-07-25, 21:48:22](https://news.ycombinator.com/item?id=49051947) - [GM Backs Sodium Ion Batteries for U.S. Grid Storage](https://spectrum.ieee.org/sodium-ion-battery-peak-energy)
-* [2026-07-25, 20:43:11](https://news.ycombinator.com/item?id=49051369) - [Turn And Face The Strange](https://fly.io/blog/kurt-scott-money-sprites/)
 * [2026-07-25, 20:42:35](https://news.ycombinator.com/item?id=49051361) - [The new rules of context engineering for Claude 5 generation models](https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models)
 * [2026-07-25, 19:44:39](https://news.ycombinator.com/item?id=49050859) - [LLM Usage in Debian: Three Proposals](https://www.debian.org/vote/2026/vote_002)
 * [2026-07-25, 19:30:24](https://news.ycombinator.com/item?id=49050735) - [Producing ammonia and fertiliser using wind power in Morris, Minnesota](https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/)
@@ -26,8 +26,8 @@
 * [2026-07-24, 18:37:06](https://news.ycombinator.com/item?id=49039868) - [Show HN: I made some transistor animations](https://brandonli.net/semisim/animations)
 * [2026-07-24, 12:44:32](https://news.ycombinator.com/item?id=49034777) - [Stinkpot: SQLite-backed shell history](https://tangled.org/oppi.li/stinkpot)
 * [2026-07-23, 17:12:48](https://news.ycombinator.com/item?id=49024980) - [Rethinking Legal Education in the AI Era](https://www.law.uchicago.edu/news/ai-strategy-statement)
-* [2026-07-23, 02:01:53](https://news.ycombinator.com/item?id=49015898) - [Agatha Christie's Disappearance: Amnesia, Suicide, or Despair?](https://www.historicmysteries.com/unexplained-mysteries/agatha-christie-disappearance/23136/)
 * [2026-07-22, 21:09:59](https://news.ycombinator.com/item?id=49013464) - [SIMD for Collision](https://box2d.org/posts/2026/07/simd-for-collision/)
+* [2026-07-22, 11:44:30](https://news.ycombinator.com/item?id=49005197) - [Overloaded Overloading](https://powerfulpython.com/blog/overloaded-overloading/)
 * [2026-07-22, 06:52:20](https://news.ycombinator.com/item?id=49002762) - [DskDitto: Ultra-fast, parallel duplicate-file detector](https://github.com/jdefrancesco/dskDitto)
 * [2026-07-21, 20:30:22](https://news.ycombinator.com/item?id=48997828) - [Some more things about Django I've been enjoying](https://jvns.ca/blog/2026/07/21/more-nice-django-things/)
 
