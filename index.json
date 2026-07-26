@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-26, 09:01:39",
+      "https://news.ycombinator.com/item?id=49056112"
+    ],
+    [
+      "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59",
+      "https://astral.sh/blog/ruff-v0.16.0"
+    ]
+  ],
+  [
+    [
       "2026-07-26, 05:57:22",
       "https://news.ycombinator.com/item?id=49055169"
     ],
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2026-07-25, 20:43:11",
-      "https://news.ycombinator.com/item?id=49051369"
-    ],
-    [
-      "Turn And Face The Strange",
-      "https://fly.io/blog/kurt-scott-money-sprites/"
-    ]
-  ],
-  [
-    [
       "2026-07-25, 20:42:35",
       "https://news.ycombinator.com/item?id=49051361"
     ],
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2026-07-23, 02:01:53",
-      "https://news.ycombinator.com/item?id=49015898"
-    ],
-    [
-      "Agatha Christie's Disappearance: Amnesia, Suicide, or Despair?",
-      "https://www.historicmysteries.com/unexplained-mysteries/agatha-christie-disappearance/23136/"
-    ]
-  ],
-  [
-    [
       "2026-07-22, 21:09:59",
       "https://news.ycombinator.com/item?id=49013464"
     ],
     [
       "SIMD for Collision",
       "https://box2d.org/posts/2026/07/simd-for-collision/"
+    ]
+  ],
+  [
+    [
+      "2026-07-22, 11:44:30",
+      "https://news.ycombinator.com/item?id=49005197"
+    ],
+    [
+      "Overloaded Overloading",
+      "https://powerfulpython.com/blog/overloaded-overloading/"
     ]
   ],
   [
