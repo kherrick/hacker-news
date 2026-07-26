@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-26](index.md)
 
+* [2026-07-26, 18:40:08](https://news.ycombinator.com/item?id=49061015) - [Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter](https://github.com/hertz-ai/HARTOS)
 * [2026-07-26, 18:38:11](https://news.ycombinator.com/item?id=49060998) - [Show HN: The Occult Gatsby](https://occultgatsby.work)
 * [2026-07-26, 18:35:36](https://news.ycombinator.com/item?id=49060978) - [The Strongest El Niño Ever](https://www.theclimatebrink.com/p/the-strongest-el-nino-ever)
 * [2026-07-26, 18:32:46](https://news.ycombinator.com/item?id=49060945) - [How to Block Some of the Bots](https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/)
@@ -15,6 +16,7 @@
 * [2026-07-26, 17:28:03](https://news.ycombinator.com/item?id=49060279) - [Show HN: Boffin – Staff-engineer layer for AI coding agents](https://github.com/MicSm/boffin)
 * [2026-07-26, 17:28:03](https://news.ycombinator.com/item?id=49060277) - [Calling all open source maintainers working with Ruby](https://www.rubyforum.org/t/calling-all-open-source-maintainers-working-with-ruby/553)
 * [2026-07-26, 17:20:19](https://news.ycombinator.com/item?id=49060205) - [Lidl Introduces the European Payment Method Wero in Germany](https://unternehmen.lidl.de/pressreleases/260724_lidl_pi_einfuehrung_wero)
+* [2026-07-26, 16:56:06](https://news.ycombinator.com/item?id=49059977) - [Using ThinkPad T480 as a mobile phone](https://grego.site/blog/thinkphone)
 * [2026-07-26, 16:23:56](https://news.ycombinator.com/item?id=49059660) - [What if LLMs escape through inferences itself? This is fiction. For now](https://www.agrillo.it/EvasionEn.html)
 * [2026-07-26, 15:56:08](https://news.ycombinator.com/item?id=49059418) - [Make an Origami Circuit Board](https://spectrum.ieee.org/origami-circuit-boards)
 * [2026-07-26, 15:53:55](https://news.ycombinator.com/item?id=49059398) - [Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs](https://github.com/gmrandazzo/CheapSecurity)

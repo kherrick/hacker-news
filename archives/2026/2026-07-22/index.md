@@ -32,6 +32,7 @@
 * [2026-07-22, 17:17:54](https://news.ycombinator.com/item?id=49010129) - [Are AI Labs Pelicanmaxxing?](https://dylancastillo.co/posts/pelicanmaxxing.html)
 * [2026-07-22, 16:25:08](https://news.ycombinator.com/item?id=49009324) - [Show HN: Web swing through midtown NYC](https://www.swingnyc.com/)
 * [2026-07-22, 16:02:03](https://news.ycombinator.com/item?id=49008901) - [Launch HN: Unlayer (YC W22) – Add email and document builders to your app](https://unlayer.com)
+* [2026-07-22, 15:57:53](https://news.ycombinator.com/item?id=49008834) - [Building the Grace Cathedral Experience](https://blog.playcanvas.com/building-the-grace-cathedral-experience/)
 * [2026-07-22, 15:45:18](https://news.ycombinator.com/item?id=49008642) - [Does creatine make you smarter?](https://dynomight.net/creatine/)
 * [2026-07-22, 15:43:45](https://news.ycombinator.com/item?id=49008624) - [Six questions before you add an LLM](https://cameronmpalmer.medium.com/should-you-even-use-an-llm-b4f3b7914f4d)
 * [2026-07-22, 15:43:21](https://news.ycombinator.com/item?id=49008618) - [Re: Bye Bye Gravatar](https://unattributed.cc/re-bye-bye-gravatar)
