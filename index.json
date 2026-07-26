@@ -1,11 +1,21 @@
 [
   [
     [
+      "2026-07-26, 04:19:59",
+      "https://news.ycombinator.com/item?id=49054697"
+    ],
+    [
+      "W4ME Station – a WASM-4 runtime for Java ME phones",
+      "https://github.com/mulfyx/w4me-station"
+    ]
+  ],
+  [
+    [
       "2026-07-26, 03:09:46",
       "https://news.ycombinator.com/item?id=49054307"
     ],
     [
-      "Humans Haven't Stopped Evolving",
+      "Humans haven't stopped evolving",
       "https://www.harvardmagazine.com/research/harvard-human-evolution-genes-selective-pressure"
     ]
   ],
@@ -35,18 +45,8 @@
       "https://news.ycombinator.com/item?id=49054010"
     ],
     [
-      "Show HN: I mapped every US golf course – 16k+ courses, free, no signup",
+      "Show HN: I mapped every US golf course",
       "https://golfcoursebrowser.com/"
-    ]
-  ],
-  [
-    [
-      "2026-07-26, 02:18:31",
-      "https://news.ycombinator.com/item?id=49053986"
-    ],
-    [
-      "Show HN: What 180k words look like as a temporal knowledge graph (Oz series)",
-      "https://synaptale.com/graph?ch=100"
     ]
   ],
   [
@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2026-07-25, 23:32:50",
-      "https://news.ycombinator.com/item?id=49052912"
-    ],
-    [
-      "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-      "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf"
-    ]
-  ],
-  [
-    [
       "2026-07-25, 22:57:17",
       "https://news.ycombinator.com/item?id=49052628"
     ],
@@ -117,16 +107,6 @@
     [
       "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
       "https://spectrum.ieee.org/sodium-ion-battery-peak-energy"
-    ]
-  ],
-  [
-    [
-      "2026-07-25, 20:55:12",
-      "https://news.ycombinator.com/item?id=49051463"
-    ],
-    [
-      "Multicast TV Distribution on My Home Network",
-      "https://www.apalrd.net/posts/2026/isp_mcast/"
     ]
   ],
   [
@@ -221,12 +201,52 @@
   ],
   [
     [
+      "2026-07-25, 13:33:49",
+      "https://news.ycombinator.com/item?id=49047453"
+    ],
+    [
+      "A shell colon does nothing. Use it anyway",
+      "https://refp.se/articles/your-shell-and-the-magic-colon"
+    ]
+  ],
+  [
+    [
+      "2026-07-25, 06:57:14",
+      "https://news.ycombinator.com/item?id=49045159"
+    ],
+    [
+      "Android May Soon Restrict On-Device ADB",
+      "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/"
+    ]
+  ],
+  [
+    [
       "2026-07-24, 18:37:06",
       "https://news.ycombinator.com/item?id=49039868"
     ],
     [
       "Show HN: I made some transistor animations",
       "https://brandonli.net/semisim/animations"
+    ]
+  ],
+  [
+    [
+      "2026-07-24, 12:44:32",
+      "https://news.ycombinator.com/item?id=49034777"
+    ],
+    [
+      "Stinkpot: SQLite-backed shell history",
+      "https://tangled.org/oppi.li/stinkpot"
+    ]
+  ],
+  [
+    [
+      "2026-07-23, 23:00:21",
+      "https://news.ycombinator.com/item?id=49029215"
+    ],
+    [
+      "Negative Resistance",
+      "https://lcamtuf.substack.com/p/negative-resistance"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2026-07-21, 13:22:11",
-      "https://news.ycombinator.com/item?id=48991984"
+      "2026-07-22, 15:07:39",
+      "https://news.ycombinator.com/item?id=49008001"
     ],
     [
-      "GDID Windows – Cut the tracker that follows you even under VPN",
-      "https://korben.info/en/gdid-windows-cut-tracker-vpn.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-21, 07:45:49",
-      "https://news.ycombinator.com/item?id=48989304"
-    ],
-    [
-      "What if they are all wrong? (2020)",
-      "https://igorpak.wordpress.com/2020/12/10/what-if-they-are-all-wrong/"
-    ]
-  ],
-  [
-    [
-      "2026-07-20, 09:23:42",
-      "https://news.ycombinator.com/item?id=48976262"
-    ],
-    [
-      "Stolen Buttons",
-      "https://anatolyzenkov.com/stolen-buttons"
+      "Retry Storm Lab",
+      "https://github.com/telemetry-sh/retry-storm-lab"
     ]
   ]
 ]
