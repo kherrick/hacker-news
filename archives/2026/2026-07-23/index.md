@@ -47,6 +47,7 @@
 * [2026-07-23, 14:53:34](https://news.ycombinator.com/item?id=49022634) - [Learn OpenGL, extensive tutorial resource for learning Modern OpenGL](https://learnopengl.com/)
 * [2026-07-23, 14:40:30](https://news.ycombinator.com/item?id=49022412) - [How much energy do data centers and artificial intelligence use?](https://ourworldindata.org/how-much-energy-do-data-centers-and-artificial-intelligence-use)
 * [2026-07-23, 14:37:54](https://news.ycombinator.com/item?id=49022371) - [Show HN: Whetuu – a zero-config cross-shell prompt written in Zig](https://yamafaktory.github.io/whetuu/)
+* [2026-07-23, 14:37:13](https://news.ycombinator.com/item?id=49022355) - [I learned PCB design, 3D printing and C just to listen to music](https://pentaton.app/blog/2026-07-12-introducing-pentaton-lp/)
 * [2026-07-23, 14:32:53](https://news.ycombinator.com/item?id=49022302) - [Show HN: macOS menu-bar manager for SSH port forwards](https://github.com/lx2026/RelayBar)
 * [2026-07-23, 14:31:26](https://news.ycombinator.com/item?id=49022284) - [Show HN: Remux – an open-source tmux workspace designed for iPhone](https://github.com/h3nock/remux)
 * [2026-07-23, 14:24:43](https://news.ycombinator.com/item?id=49022152) - [Writing by Hand is Good for your Brain](https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your)

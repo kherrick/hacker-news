@@ -26,10 +26,10 @@
 * [2026-07-23, 21:17:34](https://news.ycombinator.com/item?id=49028169) - [Pip install Postgres – no Docker/Brew/apt](https://github.com/leontrolski/postgresql-testing)
 * [2026-07-23, 17:12:48](https://news.ycombinator.com/item?id=49024980) - [Rethinking Legal Education in the AI Era](https://www.law.uchicago.edu/news/ai-strategy-statement)
 * [2026-07-23, 15:33:14](https://news.ycombinator.com/item?id=49023243) - [I wouldn't say Pangram is broken, but I would say that it's brittle](https://freddiedeboer.substack.com/p/i-wouldnt-say-pangram-is-broken-but)
-* [2026-07-23, 00:20:05](https://news.ycombinator.com/item?id=49015286) - [German Peasants' War](https://en.wikipedia.org/wiki/German_Peasants%27_War)
-* [2026-07-22, 21:09:59](https://news.ycombinator.com/item?id=49013464) - [SIMD for Collision](https://box2d.org/posts/2026/07/simd-for-collision/)
+* [2026-07-23, 14:37:13](https://news.ycombinator.com/item?id=49022355) - [I learned PCB design, 3D printing and C just to listen to music](https://pentaton.app/blog/2026-07-12-introducing-pentaton-lp/)
 * [2026-07-22, 11:44:30](https://news.ycombinator.com/item?id=49005197) - [Overloaded Overloading](https://powerfulpython.com/blog/overloaded-overloading/)
 * [2026-07-22, 06:52:20](https://news.ycombinator.com/item?id=49002762) - [DskDitto: Ultra-fast, parallel duplicate-file detector](https://github.com/jdefrancesco/dskDitto)
+* [2026-07-21, 20:30:22](https://news.ycombinator.com/item?id=48997828) - [Some more things about Django I've been enjoying](https://jvns.ca/blog/2026/07/21/more-nice-django-things/)
 
 ## [Archives](archives/index.md)
 
