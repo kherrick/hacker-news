@@ -4,10 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-07-26](index.md)
 
+* [2026-07-26, 14:40:27](https://news.ycombinator.com/item?id=49058669) - [Park by Robot at London Gatwick Airport](https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/)
 * [2026-07-26, 13:22:59](https://news.ycombinator.com/item?id=49057972) - [Ask HN: What are the most promising RL fields for a new master student?](https://news.ycombinator.com/item?id=49057972)
+* [2026-07-26, 13:13:03](https://news.ycombinator.com/item?id=49057877) - [The New AI Superpowers: Focus and Followthrough](https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and)
+* [2026-07-26, 12:51:03](https://news.ycombinator.com/item?id=49057666) - [Show HN: Reverse Minesweeper](https://sunflowersgame.com/)
 * [2026-07-26, 12:43:21](https://news.ycombinator.com/item?id=49057574) - [Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake](https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c)
 * [2026-07-26, 12:21:26](https://news.ycombinator.com/item?id=49057398) - [Go Analysis Framework: modular static analysis by go team](https://pkg.go.dev/golang.org/x/tools/go/analysis)
 * [2026-07-26, 12:00:42](https://news.ycombinator.com/item?id=49057248) - [Third Drone Shot Down in Three Days in Romanian Territory](https://english.mapn.ro/)
+* [2026-07-26, 12:00:11](https://news.ycombinator.com/item?id=49057241) - [Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy](https://swag.htmx.org/en-cad/products/htmx-4-the-game)
+* [2026-07-26, 11:53:17](https://news.ycombinator.com/item?id=49057175) - [Kill The Cookie Banner](https://killthecookiebanner.eu/)
 * [2026-07-26, 11:00:54](https://news.ycombinator.com/item?id=49056808) - [An OpenAI model left notes about how to evade containment; we need more details](https://www.lesswrong.com/posts/jMEAG5c5HiDfdAGpa/an-openai-model-left-notes-about-how-to-evade-containment-we)
 * [2026-07-26, 10:42:00](https://news.ycombinator.com/item?id=49056689) - [Claude Code Deletes Your Context History from Your Device After 30 Days](https://code.claude.com/docs/en/data-usage)
 * [2026-07-26, 09:58:11](https://news.ycombinator.com/item?id=49056424) - [No Stack Overflow, No Autocomplete: What Coding Felt Like in the 80s](https://comuniq.xyz/post?t=1439)
