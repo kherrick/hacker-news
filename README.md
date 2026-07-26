@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-26, 16:23:56](https://news.ycombinator.com/item?id=49059660) - [What if LLMs escape through inferences itself? This is fiction. For now](https://www.agrillo.it/EvasionEn.html)
 * [2026-07-26, 15:56:08](https://news.ycombinator.com/item?id=49059418) - [Make an Origami Circuit Board](https://spectrum.ieee.org/origami-circuit-boards)
 * [2026-07-26, 15:53:55](https://news.ycombinator.com/item?id=49059398) - [Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs](https://github.com/gmrandazzo/CheapSecurity)
 * [2026-07-26, 15:51:12](https://news.ycombinator.com/item?id=49059367) - [Design Is Compromise](https://stephango.com/design-is-compromise)
 * [2026-07-26, 15:17:06](https://news.ycombinator.com/item?id=49058993) - [An Inside Look at the Token Reseller Market](https://vectoral.com/blog/token-relay-market)
 * [2026-07-26, 14:40:27](https://news.ycombinator.com/item?id=49058669) - [Park by Robot at London Gatwick Airport](https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/)
-* [2026-07-26, 13:22:59](https://news.ycombinator.com/item?id=49057972) - [Ask HN: What are the most promising RL fields for a new master student?](https://news.ycombinator.com/item?id=49057972)
 * [2026-07-26, 13:13:03](https://news.ycombinator.com/item?id=49057877) - [The New AI Superpowers: Focus and Followthrough](https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and)
 * [2026-07-26, 12:51:03](https://news.ycombinator.com/item?id=49057666) - [Show HN: Reverse Minesweeper](https://sunflowersgame.com/)
 * [2026-07-26, 12:43:21](https://news.ycombinator.com/item?id=49057574) - [Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake](https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c)
@@ -13,6 +13,7 @@
 * [2026-07-26, 12:00:42](https://news.ycombinator.com/item?id=49057248) - [Third Drone Shot Down in Three Days in Romanian Territory](https://english.mapn.ro/)
 * [2026-07-26, 12:00:11](https://news.ycombinator.com/item?id=49057241) - [Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy](https://swag.htmx.org/en-cad/products/htmx-4-the-game)
 * [2026-07-26, 11:53:17](https://news.ycombinator.com/item?id=49057175) - [Kill The Cookie Banner](https://killthecookiebanner.eu/)
+* [2026-07-26, 10:32:35](https://news.ycombinator.com/item?id=49056620) - [Terence Tao: Mathematics in the Age of AI [pdf]](https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf)
 * [2026-07-26, 09:18:34](https://news.ycombinator.com/item?id=49056194) - [Elevated Errors for Opus 5](https://status.claude.com/incidents/zftg3gqkmv18)
 * [2026-07-26, 09:01:39](https://news.ycombinator.com/item?id=49056112) - [Ruff v0.16.0 – Significant new updates – 413 default rules up from 59](https://astral.sh/blog/ruff-v0.16.0)
 * [2026-07-26, 05:57:22](https://news.ycombinator.com/item?id=49055169) - [GrapheneOS protections against data extraction from locked devices](https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices)
@@ -27,7 +28,6 @@
 * [2026-07-25, 13:33:49](https://news.ycombinator.com/item?id=49047453) - [A shell colon does nothing. Use it anyway](https://refp.se/articles/your-shell-and-the-magic-colon)
 * [2026-07-24, 12:44:32](https://news.ycombinator.com/item?id=49034777) - [Stinkpot: SQLite-backed shell history](https://tangled.org/oppi.li/stinkpot)
 * [2026-07-23, 14:37:13](https://news.ycombinator.com/item?id=49022355) - [I learned PCB design, 3D printing and C just to listen to music](https://pentaton.app/blog/2026-07-12-introducing-pentaton-lp/)
-* [2026-07-22, 21:19:04](https://news.ycombinator.com/item?id=49013583) - [Capra, Cribl's Design System](https://cribl.io/blog/introducing-capra-cribls-design-system/)
 * [2026-07-22, 12:56:54](https://news.ycombinator.com/item?id=49006049) - [What's Under Your Feet in New York City?](https://practical.engineering/blog/2026/7/21/whats-under-your-feet-in-new-york-city)
 * [2026-07-21, 19:28:55](https://news.ycombinator.com/item?id=48997008) - [Jimothy the raccoon has a rare spinal condition. Here's what that means](https://www.popsci.com/science/whats-jimothy-raccoon-condition/)
 

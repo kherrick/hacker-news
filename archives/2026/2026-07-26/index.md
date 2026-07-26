@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-26](index.md)
 
+* [2026-07-26, 16:23:56](https://news.ycombinator.com/item?id=49059660) - [What if LLMs escape through inferences itself? This is fiction. For now](https://www.agrillo.it/EvasionEn.html)
 * [2026-07-26, 15:56:08](https://news.ycombinator.com/item?id=49059418) - [Make an Origami Circuit Board](https://spectrum.ieee.org/origami-circuit-boards)
 * [2026-07-26, 15:53:55](https://news.ycombinator.com/item?id=49059398) - [Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs](https://github.com/gmrandazzo/CheapSecurity)
 * [2026-07-26, 15:51:12](https://news.ycombinator.com/item?id=49059367) - [Design Is Compromise](https://stephango.com/design-is-compromise)
@@ -20,6 +21,7 @@
 * [2026-07-26, 11:53:17](https://news.ycombinator.com/item?id=49057175) - [Kill The Cookie Banner](https://killthecookiebanner.eu/)
 * [2026-07-26, 11:00:54](https://news.ycombinator.com/item?id=49056808) - [An OpenAI model left notes about how to evade containment; we need more details](https://www.lesswrong.com/posts/jMEAG5c5HiDfdAGpa/an-openai-model-left-notes-about-how-to-evade-containment-we)
 * [2026-07-26, 10:42:00](https://news.ycombinator.com/item?id=49056689) - [Claude Code Deletes Your Context History from Your Device After 30 Days](https://code.claude.com/docs/en/data-usage)
+* [2026-07-26, 10:32:35](https://news.ycombinator.com/item?id=49056620) - [Terence Tao: Mathematics in the Age of AI [pdf]](https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf)
 * [2026-07-26, 09:58:11](https://news.ycombinator.com/item?id=49056424) - [No Stack Overflow, No Autocomplete: What Coding Felt Like in the 80s](https://comuniq.xyz/post?t=1439)
 * [2026-07-26, 09:43:13](https://news.ycombinator.com/item?id=49056351) - [Systemd Linger](https://etbe.coker.com.au/2026/07/24/systemd-linger/)
 * [2026-07-26, 09:18:34](https://news.ycombinator.com/item?id=49056194) - [Elevated Errors for Opus 5](https://status.claude.com/incidents/zftg3gqkmv18)
