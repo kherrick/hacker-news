@@ -129,23 +129,42 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="49054697">
+          <h3>
+            <a class="item" href="https://github.com/mulfyx/w4me-station"
+              >W4ME Station – a WASM-4 runtime for Java ME phones</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-26 @ 04:19:59</span
+              ><span class="points-container"
+                >Points: <span class="points">12</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49054697"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="49054307">
           <h3>
             <a
               class="item"
               href="https://www.harvardmagazine.com/research/harvard-human-evolution-genes-selective-pressure"
-              >Humans Haven't Stopped Evolving</a
+              >Humans haven't stopped evolving</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-07-26 @ 03:09:46</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">55</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49054307"
                   >Comments</a
-                ><span class="descendants">: 49</span></span
+                ><span class="descendants">: 57</span></span
               >
             </h4>
           </section>
@@ -156,11 +175,11 @@
             <h4>
               <span>2026-07-26 @ 02:55:50</span
               ><span class="points-container"
-                >Points: <span class="points">136</span></span
+                >Points: <span class="points">169</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49054224"
                   >Comments</a
-                ><span class="descendants">: 95</span></span
+                ><span class="descendants">: 120</span></span
               >
             </h4>
           </section>
@@ -175,11 +194,11 @@
             <h4>
               <span>2026-07-26 @ 02:35:43</span
               ><span class="points-container"
-                >Points: <span class="points">77</span></span
+                >Points: <span class="points">96</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49054107"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -187,19 +206,18 @@
         <section id="49054010">
           <h3>
             <a class="item" href="https://golfcoursebrowser.com/"
-              >Show HN: I mapped every US golf course – 16k+ courses, free, no
-              signup</a
+              >Show HN: I mapped every US golf course</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-07-26 @ 02:22:26</span
               ><span class="points-container"
-                >Points: <span class="points">92</span></span
+                >Points: <span class="points">102</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49054010"
                   >Comments</a
-                ><span class="descendants">: 41</span></span
+                ><span class="descendants">: 49</span></span
               >
             </h4>
             <div class="text">
@@ -234,104 +252,6 @@
             </div>
           </section>
         </section>
-        <section id="49053986">
-          <h3>
-            <a class="item" href="https://synaptale.com/graph?ch=100"
-              >Show HN: What 180k words look like as a temporal knowledge graph
-              (Oz series)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-26 @ 02:18:31</span
-              ><span class="points-container"
-                >Points: <span class="points">13</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49053986"
-                  >Comments</a
-                ><span class="descendants">: 7</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                SynapTale builds a model of a story as a temporal graph made up
-                of nodes (entities) and edges (their actions and relationships).
-                The graph is not a visualization of the wiki. The wiki,
-                timelines, relationship histories, and analytics are projections
-                of the graph.
-              </p>
-              <p>
-                The current demo contains 232 entities, 1,852 edges, and a
-                snapshot of the story’s state at every chapter. By chapter 100,
-                it still remembers a promise made in chapter 8 and turns the
-                story into a set of source-verifiable facts.
-              </p>
-              <p>
-                The most interesting things can be found in the graph itself and
-                in the Analytics tab. A few things I found:
-              </p>
-              <p>
-                1. The character with the highest kill count is the Tin
-                Woodman—the same character who cries over a beetle he
-                accidentally crushed. Dorothy comes second, with three killing
-                events. 2. Dorothy never deceives anyone during the first 100
-                chapters of the series. 3. The Scarecrow’s debt to the stork has
-                remained active for 92 chapters, starting in chapter 8. 4. The
-                Cowardly Lion ranks third by number of threats. 5. The first 100
-                chapters contain 60 secrets and 254 dialogue events.
-              </p>
-              <p>Technical details</p>
-              <p>
-                1. Five different multi-agent pipelines combining LLMs and NLP:
-                a prescan, ontology construction, chapter-by-chapter graph
-                extraction, retrospective validation over spans of dozens of
-                chapters, and a linguistic prescan for speech profiles and
-                linguistic edges.
-              </p>
-              <p>
-                2. A living story needs a living graph. It has to account for
-                time, because entities and the relationships between them
-                evolve. A simple is_active field is not enough.
-              </p>
-              <p>I ended up with three types of edges:</p>
-              <p>
-                event: an instantaneous action; identity: a fact; state: a
-                persistent action whose termination requires justification and a
-                supporting quote from the text.
-              </p>
-              <p>
-                The vast majority of edges are events and end in the same
-                chapter in which they began. This allows the system to scale
-                well, since only a minority of state and identity edges remain
-                continuously active.
-              </p>
-              <p>
-                3. Ontology. You cannot simply ask an LLM to extract entities
-                and relationships into a graph. With every chapter, even the
-                smartest model will keep inventing unimportant fields, creating
-                new aliases for existing fields, and representing the same
-                fields inconsistently.
-              </p>
-              <p>
-                Before extracting the graph, the system therefore performs an
-                ontology scan across the entire story. It captures
-                story-specific entity and edge types, along with their fields
-                and descriptions.
-              </p>
-              <p>
-                4. Epistemics. Events are only one part of a story. It is also
-                important to understand how information is distributed, which is
-                difficult to represent using event edges alone.
-              </p>
-              <p>
-                I addressed this by introducing a new node type: epistemic
-                nodes, which capture different entities’ perspectives on the
-                same fact. Subtle hints can still be missed, the system is not
-                yet perfect in this area.
-              </p>
-            </div>
-          </section>
-        </section>
         <section id="49053708">
           <h3>
             <a
@@ -345,11 +265,11 @@
             <h4>
               <span>2026-07-26 @ 01:35:03</span
               ><span class="points-container"
-                >Points: <span class="points">30</span></span
+                >Points: <span class="points">44</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49053708"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
           </section>
@@ -366,11 +286,11 @@
             <h4>
               <span>2026-07-26 @ 00:37:30</span
               ><span class="points-container"
-                >Points: <span class="points">50</span></span
+                >Points: <span class="points">56</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49053382"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -387,33 +307,11 @@
             <h4>
               <span>2026-07-26 @ 00:36:30</span
               ><span class="points-container"
-                >Points: <span class="points">71</span></span
+                >Points: <span class="points">91</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49053375"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49052912">
-          <h3>
-            <a
-              class="item"
-              href="https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf"
-              >DeepSeek pause fundraise after comments on compute gap to US
-              leaked (transcript) [pdf]</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-25 @ 23:32:50</span
-              ><span class="points-container"
-                >Points: <span class="points">120</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49052912"
-                  >Comments</a
-                ><span class="descendants">: 86</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -430,11 +328,11 @@
             <h4>
               <span>2026-07-25 @ 22:57:17</span
               ><span class="points-container"
-                >Points: <span class="points">83</span></span
+                >Points: <span class="points">90</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49052628"
                   >Comments</a
-                ><span class="descendants">: 48</span></span
+                ><span class="descendants">: 53</span></span
               >
             </h4>
           </section>
@@ -451,11 +349,11 @@
             <h4>
               <span>2026-07-25 @ 22:50:49</span
               ><span class="points-container"
-                >Points: <span class="points">87</span></span
+                >Points: <span class="points">95</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49052564"
                   >Comments</a
-                ><span class="descendants">: 58</span></span
+                ><span class="descendants">: 70</span></span
               >
             </h4>
           </section>
@@ -472,30 +370,11 @@
             <h4>
               <span>2026-07-25 @ 21:48:22</span
               ><span class="points-container"
-                >Points: <span class="points">163</span></span
+                >Points: <span class="points">167</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49051947"
                   >Comments</a
-                ><span class="descendants">: 65</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49051463">
-          <h3>
-            <a class="item" href="https://www.apalrd.net/posts/2026/isp_mcast/"
-              >Multicast TV Distribution on My Home Network</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-25 @ 20:55:12</span
-              ><span class="points-container"
-                >Points: <span class="points">49</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49051463"
-                  >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 69</span></span
               >
             </h4>
           </section>
@@ -510,11 +389,11 @@
             <h4>
               <span>2026-07-25 @ 20:43:11</span
               ><span class="points-container"
-                >Points: <span class="points">183</span></span
+                >Points: <span class="points">189</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49051369"
                   >Comments</a
-                ><span class="descendants">: 124</span></span
+                ><span class="descendants">: 126</span></span
               >
             </h4>
           </section>
@@ -532,11 +411,11 @@
             <h4>
               <span>2026-07-25 @ 20:42:35</span
               ><span class="points-container"
-                >Points: <span class="points">259</span></span
+                >Points: <span class="points">283</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49051361"
                   >Comments</a
-                ><span class="descendants">: 165</span></span
+                ><span class="descendants">: 172</span></span
               >
             </h4>
           </section>
@@ -551,11 +430,11 @@
             <h4>
               <span>2026-07-25 @ 20:18:03</span
               ><span class="points-container"
-                >Points: <span class="points">356</span></span
+                >Points: <span class="points">370</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49051120"
                   >Comments</a
-                ><span class="descendants">: 160</span></span
+                ><span class="descendants">: 165</span></span
               >
             </h4>
           </section>
@@ -570,11 +449,11 @@
             <h4>
               <span>2026-07-25 @ 19:44:39</span
               ><span class="points-container"
-                >Points: <span class="points">122</span></span
+                >Points: <span class="points">132</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49050859"
                   >Comments</a
-                ><span class="descendants">: 110</span></span
+                ><span class="descendants">: 114</span></span
               >
             </h4>
           </section>
@@ -592,11 +471,11 @@
             <h4>
               <span>2026-07-25 @ 19:30:24</span
               ><span class="points-container"
-                >Points: <span class="points">113</span></span
+                >Points: <span class="points">116</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49050735"
                   >Comments</a
-                ><span class="descendants">: 79</span></span
+                ><span class="descendants">: 81</span></span
               >
             </h4>
           </section>
@@ -611,11 +490,11 @@
             <h4>
               <span>2026-07-25 @ 18:59:50</span
               ><span class="points-container"
-                >Points: <span class="points">133</span></span
+                >Points: <span class="points">152</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49050512"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 31</span></span
               >
             </h4>
           </section>
@@ -632,11 +511,11 @@
             <h4>
               <span>2026-07-25 @ 18:08:52</span
               ><span class="points-container"
-                >Points: <span class="points">81</span></span
+                >Points: <span class="points">83</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49050058"
                   >Comments</a
-                ><span class="descendants">: 105</span></span
+                ><span class="descendants">: 120</span></span
               >
             </h4>
           </section>
@@ -651,11 +530,11 @@
             <h4>
               <span>2026-07-25 @ 17:34:34</span
               ><span class="points-container"
-                >Points: <span class="points">162</span></span
+                >Points: <span class="points">173</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49049693"
                   >Comments</a
-                ><span class="descendants">: 49</span></span
+                ><span class="descendants">: 51</span></span
               >
             </h4>
             <div class="text">
@@ -729,11 +608,53 @@
             <h4>
               <span>2026-07-25 @ 14:49:49</span
               ><span class="points-container"
-                >Points: <span class="points">358</span></span
+                >Points: <span class="points">365</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49048034"
                   >Comments</a
-                ><span class="descendants">: 281</span></span
+                ><span class="descendants">: 283</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49047453">
+          <h3>
+            <a
+              class="item"
+              href="https://refp.se/articles/your-shell-and-the-magic-colon"
+              >A shell colon does nothing. Use it anyway</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-25 @ 13:33:49</span
+              ><span class="points-container"
+                >Points: <span class="points">75</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49047453"
+                  >Comments</a
+                ><span class="descendants">: 24</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49045159">
+          <h3>
+            <a
+              class="item"
+              href="https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/"
+              >Android May Soon Restrict On-Device ADB</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-25 @ 06:57:14</span
+              ><span class="points-container"
+                >Points: <span class="points">907</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49045159"
+                  >Comments</a
+                ><span class="descendants">: 446</span></span
               >
             </h4>
           </section>
@@ -748,11 +669,11 @@
             <h4>
               <span>2026-07-24 @ 18:37:06</span
               ><span class="points-container"
-                >Points: <span class="points">152</span></span
+                >Points: <span class="points">161</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49039868"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 20</span></span
               >
             </h4>
             <div class="text">
@@ -764,6 +685,46 @@
                 >
               </p>
             </div>
+          </section>
+        </section>
+        <section id="49034777">
+          <h3>
+            <a class="item" href="https://tangled.org/oppi.li/stinkpot"
+              >Stinkpot: SQLite-backed shell history</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-24 @ 12:44:32</span
+              ><span class="points-container"
+                >Points: <span class="points">24</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49034777"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49029215">
+          <h3>
+            <a
+              class="item"
+              href="https://lcamtuf.substack.com/p/negative-resistance"
+              >Negative Resistance</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-23 @ 23:00:21</span
+              ><span class="points-container"
+                >Points: <span class="points">12</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49029215"
+                  >Comments</a
+                ><span class="descendants">: 5</span></span
+              >
+            </h4>
           </section>
         </section>
         <section id="49024980">
@@ -778,11 +739,11 @@
             <h4>
               <span>2026-07-23 @ 17:12:48</span
               ><span class="points-container"
-                >Points: <span class="points">52</span></span
+                >Points: <span class="points">61</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49024980"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
@@ -799,7 +760,7 @@
             <h4>
               <span>2026-07-23 @ 02:01:53</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">20</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49015898"
                   >Comments</a
@@ -820,7 +781,7 @@
             <h4>
               <span>2026-07-22 @ 21:09:59</span
               ><span class="points-container"
-                >Points: <span class="points">80</span></span
+                >Points: <span class="points">85</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49013464"
                   >Comments</a
@@ -841,78 +802,32 @@
             <h4>
               <span>2026-07-22 @ 15:29:44</span
               ><span class="points-container"
-                >Points: <span class="points">334</span></span
+                >Points: <span class="points">351</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49008396"
                   >Comments</a
-                ><span class="descendants">: 98</span></span
+                ><span class="descendants">: 100</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="48991984">
+        <section id="49008001">
           <h3>
             <a
               class="item"
-              href="https://korben.info/en/gdid-windows-cut-tracker-vpn.html"
-              >GDID Windows – Cut the tracker that follows you even under VPN</a
+              href="https://github.com/telemetry-sh/retry-storm-lab"
+              >Retry Storm Lab</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-07-21 @ 13:22:11</span
+              <span>2026-07-22 @ 15:07:39</span
               ><span class="points-container"
-                >Points: <span class="points">125</span></span
+                >Points: <span class="points">7</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48991984"
+                ><a href="https://news.ycombinator.com/item?id=49008001"
                   >Comments</a
-                ><span class="descendants">: 90</span></span
-              >
-            </h4>
-            <div class="text">
-              <a
-                href="https://www.windowslatest.com/2026/07/10/you-cant-fully-disable-microsofts-gdid-windows-11-tracker-but-these-settings-limit-what-it-captures/"
-                >https://www.windowslatest.com/2026/07/10/you-cant-fully-disa...</a
-              >
-            </div>
-          </section>
-        </section>
-        <section id="48989304">
-          <h3>
-            <a
-              class="item"
-              href="https://igorpak.wordpress.com/2020/12/10/what-if-they-are-all-wrong/"
-              >What if they are all wrong? (2020)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-21 @ 07:45:49</span
-              ><span class="points-container"
-                >Points: <span class="points">15</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48989304"
-                  >Comments</a
-                ><span class="descendants">: 3</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="48976262">
-          <h3>
-            <a class="item" href="https://anatolyzenkov.com/stolen-buttons"
-              >Stolen Buttons</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-20 @ 09:23:42</span
-              ><span class="points-container"
-                >Points: <span class="points">649</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=48976262"
-                  >Comments</a
-                ><span class="descendants">: 160</span></span
+                ><span class="descendants">: 0</span></span
               >
             </h4>
           </section>
