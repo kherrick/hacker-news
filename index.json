@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2026-07-26, 03:09:46",
-      "https://news.ycombinator.com/item?id=49054307"
-    ],
-    [
-      "Humans haven't stopped evolving",
-      "https://www.harvardmagazine.com/research/harvard-human-evolution-genes-selective-pressure"
-    ]
-  ],
-  [
-    [
       "2026-07-26, 02:55:50",
       "https://news.ycombinator.com/item?id=49054224"
     ],
@@ -231,6 +221,16 @@
   ],
   [
     [
+      "2026-07-25, 06:57:14",
+      "https://news.ycombinator.com/item?id=49045159"
+    ],
+    [
+      "Android may soon restrict on-device ADB",
+      "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/"
+    ]
+  ],
+  [
+    [
       "2026-07-24, 18:37:06",
       "https://news.ycombinator.com/item?id=49039868"
     ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2026-07-22, 05:31:22",
-      "https://news.ycombinator.com/item?id=49002235"
+      "2026-07-22, 06:52:20",
+      "https://news.ycombinator.com/item?id=49002762"
     ],
     [
-      "Librrd Playground",
-      "https://systemf.epfl.ch/etc/librrd/"
+      "DskDitto: Ultra-fast, parallel duplicate-file detector",
+      "https://github.com/jdefrancesco/dskDitto"
     ]
   ],
   [
