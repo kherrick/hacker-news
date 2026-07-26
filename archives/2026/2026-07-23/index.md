@@ -68,6 +68,7 @@
 * [2026-07-23, 13:10:02](https://news.ycombinator.com/item?id=49021006) - [Alphabet's cash burn raises alarm for Big Tech as AI spending climbs](https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/)
 * [2026-07-23, 13:09:10](https://news.ycombinator.com/item?id=49020999) - [AI Companies Are Trying to Hide a Staggering Amount of Debt](https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet)
 * [2026-07-23, 13:00:03](https://news.ycombinator.com/item?id=49020868) - [OpenAI and Anthropic unite against open-weight AI risks to their bottom line](https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china)
+* [2026-07-23, 12:58:02](https://news.ycombinator.com/item?id=49020842) - [The Usefulness of Useless Knowledge (1939) [pdf]](https://faculty.lsu.edu/kharms/files/flexner_1939.pdf)
 * [2026-07-23, 12:49:10](https://news.ycombinator.com/item?id=49020751) - [Self-host your mail server](https://blog.haschek.at/2026/you-should-selfhost-your-mail.html)
 * [2026-07-23, 12:40:42](https://news.ycombinator.com/item?id=49020647) - [Sum of Cubes via Difference Tables](https://leancrew.com/all-this/2026/07/sum-of-cubes-via-difference-tables/)
 * [2026-07-23, 12:31:21](https://news.ycombinator.com/item?id=49020545) - [Show HN: I simulated closing the Strait of Hormuz on real oil trade data](https://globaloilnetwork.staffinganalytics.io/)

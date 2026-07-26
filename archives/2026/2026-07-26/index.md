@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-26](index.md)
 
+* [2026-07-26, 23:03:35](https://news.ycombinator.com/item?id=49063266) - [Japan legend Miura, 59, scores first goal since 2022](https://www.bbc.com/sport/football/articles/c3r087181ndo)
+* [2026-07-26, 22:48:09](https://news.ycombinator.com/item?id=49063186) - [Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription](https://github.com/hkc5/cursor-bridge)
 * [2026-07-26, 21:39:17](https://news.ycombinator.com/item?id=49062700) - [Teaching Kids Forth – Anna Liberty](https://gracefulliberty.com/articles/teaching-kids-forth/)
 * [2026-07-26, 20:53:26](https://news.ycombinator.com/item?id=49062291) - [We have proof automation now](https://www.imperialviolet.org/2026/07/26/zstd-lean.html)
 * [2026-07-26, 20:49:43](https://news.ycombinator.com/item?id=49062259) - [Multiway Turing Machines (2021 pre-ai)](https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines/)
