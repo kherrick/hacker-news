@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-07-26](index.md)
 
+* [2026-07-26, 12:00:42](https://news.ycombinator.com/item?id=49057248) - [Third Drone Shot Down in Three Days in Romanian Territory](https://english.mapn.ro/)
 * [2026-07-26, 11:00:54](https://news.ycombinator.com/item?id=49056808) - [An OpenAI model left notes about how to evade containment; we need more details](https://www.lesswrong.com/posts/jMEAG5c5HiDfdAGpa/an-openai-model-left-notes-about-how-to-evade-containment-we)
+* [2026-07-26, 10:42:00](https://news.ycombinator.com/item?id=49056689) - [Claude Code Deletes Your Context History from Your Device After 30 Days](https://code.claude.com/docs/en/data-usage)
 * [2026-07-26, 09:58:11](https://news.ycombinator.com/item?id=49056424) - [No Stack Overflow, No Autocomplete: What Coding Felt Like in the 80s](https://comuniq.xyz/post?t=1439)
 * [2026-07-26, 09:43:13](https://news.ycombinator.com/item?id=49056351) - [Systemd Linger](https://etbe.coker.com.au/2026/07/24/systemd-linger/)
 * [2026-07-26, 09:18:34](https://news.ycombinator.com/item?id=49056194) - [Elevated Errors for Opus 5](https://status.claude.com/incidents/zftg3gqkmv18)

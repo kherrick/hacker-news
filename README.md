@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-07-26, 11:00:54](https://news.ycombinator.com/item?id=49056808) - [An OpenAI model left notes about how to evade containment; we need more details](https://www.lesswrong.com/posts/jMEAG5c5HiDfdAGpa/an-openai-model-left-notes-about-how-to-evade-containment-we)
+* [2026-07-26, 12:00:42](https://news.ycombinator.com/item?id=49057248) - [Third Drone Shot Down in Three Days in Romanian Territory](https://english.mapn.ro/)
+* [2026-07-26, 10:42:00](https://news.ycombinator.com/item?id=49056689) - [Claude Code Deletes Your Context History from Your Device After 30 Days](https://code.claude.com/docs/en/data-usage)
 * [2026-07-26, 09:58:11](https://news.ycombinator.com/item?id=49056424) - [No Stack Overflow, No Autocomplete: What Coding Felt Like in the 80s](https://comuniq.xyz/post?t=1439)
 * [2026-07-26, 09:43:13](https://news.ycombinator.com/item?id=49056351) - [Systemd Linger](https://etbe.coker.com.au/2026/07/24/systemd-linger/)
 * [2026-07-26, 09:18:34](https://news.ycombinator.com/item?id=49056194) - [Elevated Errors for Opus 5](https://status.claude.com/incidents/zftg3gqkmv18)
@@ -22,7 +23,6 @@
 * [2026-07-25, 18:59:50](https://news.ycombinator.com/item?id=49050512) - [Running a 28.9M parameter LLM on an $8 microcontroller](https://github.com/slvDev/esp32-ai)
 * [2026-07-25, 13:33:49](https://news.ycombinator.com/item?id=49047453) - [A shell colon does nothing. Use it anyway](https://refp.se/articles/your-shell-and-the-magic-colon)
 * [2026-07-24, 12:44:32](https://news.ycombinator.com/item?id=49034777) - [Stinkpot: SQLite-backed shell history](https://tangled.org/oppi.li/stinkpot)
-* [2026-07-23, 21:17:34](https://news.ycombinator.com/item?id=49028169) - [Pip install Postgres – no Docker/Brew/apt](https://github.com/leontrolski/postgresql-testing)
 * [2026-07-23, 17:12:48](https://news.ycombinator.com/item?id=49024980) - [Rethinking Legal Education in the AI Era](https://www.law.uchicago.edu/news/ai-strategy-statement)
 * [2026-07-23, 15:33:14](https://news.ycombinator.com/item?id=49023243) - [I wouldn't say Pangram is broken, but I would say that it's brittle](https://freddiedeboer.substack.com/p/i-wouldnt-say-pangram-is-broken-but)
 * [2026-07-23, 00:20:05](https://news.ycombinator.com/item?id=49015286) - [German Peasants' War](https://en.wikipedia.org/wiki/German_Peasants%27_War)
