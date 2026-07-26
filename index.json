@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-26, 09:58:11",
+      "https://news.ycombinator.com/item?id=49056424"
+    ],
+    [
+      "No Stack Overflow, No Autocomplete: What Coding Felt Like in the 80s",
+      "https://comuniq.xyz/post?t=1439"
+    ]
+  ],
+  [
+    [
       "2026-07-26, 09:01:39",
       "https://news.ycombinator.com/item?id=49056112"
     ],
@@ -171,32 +181,12 @@
   ],
   [
     [
-      "2026-07-25, 19:30:24",
-      "https://news.ycombinator.com/item?id=49050735"
-    ],
-    [
-      "Producing ammonia and fertiliser using wind power in Morris, Minnesota",
-      "https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/"
-    ]
-  ],
-  [
-    [
       "2026-07-25, 18:59:50",
       "https://news.ycombinator.com/item?id=49050512"
     ],
     [
       "Running a 28.9M parameter LLM on an $8 microcontroller",
       "https://github.com/slvDev/esp32-ai"
-    ]
-  ],
-  [
-    [
-      "2026-07-25, 18:08:52",
-      "https://news.ycombinator.com/item?id=49050058"
-    ],
-    [
-      "Memory safety absolutists",
-      "https://itsallaboutthebit.com/memory-safety-absolutists/"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Stinkpot: SQLite-backed shell history",
       "https://tangled.org/oppi.li/stinkpot"
+    ]
+  ],
+  [
+    [
+      "2026-07-23, 21:17:34",
+      "https://news.ycombinator.com/item?id=49028169"
+    ],
+    [
+      "Pip install Postgres – no Docker/Brew/apt",
+      "https://github.com/leontrolski/postgresql-testing"
     ]
   ],
   [
