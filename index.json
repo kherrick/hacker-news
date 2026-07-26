@@ -1,12 +1,62 @@
 [
   [
     [
-      "2026-07-26, 01:13:19",
-      "https://news.ycombinator.com/item?id=49053603"
+      "2026-07-26, 03:09:46",
+      "https://news.ycombinator.com/item?id=49054307"
     ],
     [
-      "Possible invasive species superspreader event near Strait of Hormuz",
-      "https://abcnews.com/International/scientists-warn-invasive-species-superspreader-event-due-stalling/story?id=135051186"
+      "Humans Haven't Stopped Evolving",
+      "https://www.harvardmagazine.com/research/harvard-human-evolution-genes-selective-pressure"
+    ]
+  ],
+  [
+    [
+      "2026-07-26, 02:55:50",
+      "https://news.ycombinator.com/item?id=49054224"
+    ],
+    [
+      "JetZero",
+      "https://www.jetzero.aero"
+    ]
+  ],
+  [
+    [
+      "2026-07-26, 02:35:43",
+      "https://news.ycombinator.com/item?id=49054107"
+    ],
+    [
+      "An ESP32 based plane radar for my desk",
+      "https://blog.ktz.me/esp32-plane-radar/"
+    ]
+  ],
+  [
+    [
+      "2026-07-26, 02:22:26",
+      "https://news.ycombinator.com/item?id=49054010"
+    ],
+    [
+      "Show HN: I mapped every US golf course – 16k+ courses, free, no signup",
+      "https://golfcoursebrowser.com/"
+    ]
+  ],
+  [
+    [
+      "2026-07-26, 02:18:31",
+      "https://news.ycombinator.com/item?id=49053986"
+    ],
+    [
+      "Show HN: What 180k words look like as a temporal knowledge graph (Oz series)",
+      "https://synaptale.com/graph?ch=100"
+    ]
+  ],
+  [
+    [
+      "2026-07-26, 01:35:03",
+      "https://news.ycombinator.com/item?id=49053708"
+    ],
+    [
+      "Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home",
+      "https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/"
     ]
   ],
   [
@@ -111,16 +161,6 @@
   ],
   [
     [
-      "2026-07-25, 20:18:54",
-      "https://news.ycombinator.com/item?id=49051130"
-    ],
-    [
-      "Show HN: Writemark, a dependency free web component for inline Markdown editing",
-      "https://news.ycombinator.com/item?id=49051130"
-    ]
-  ],
-  [
-    [
       "2026-07-25, 20:18:03",
       "https://news.ycombinator.com/item?id=49051120"
     ],
@@ -181,52 +221,12 @@
   ],
   [
     [
-      "2026-07-25, 17:29:55",
-      "https://news.ycombinator.com/item?id=49049638"
-    ],
-    [
-      "Show HN: SpinWin – A macOS menu bar app to visually rotate or spin any window",
-      "https://github.com/alokdhir/spinwin"
-    ]
-  ],
-  [
-    [
-      "2026-07-25, 15:55:27",
-      "https://news.ycombinator.com/item?id=49048689"
-    ],
-    [
-      "Bringing PyTorch Monarch to AMD GPUs",
-      "https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/"
-    ]
-  ],
-  [
-    [
       "2026-07-25, 14:49:49",
       "https://news.ycombinator.com/item?id=49048034"
     ],
     [
       "Open-weight AI is having its Kubernetes moment",
       "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/"
-    ]
-  ],
-  [
-    [
-      "2026-07-25, 13:18:49",
-      "https://news.ycombinator.com/item?id=49047365"
-    ],
-    [
-      "Bitchat is now on Radicle",
-      "https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6"
-    ]
-  ],
-  [
-    [
-      "2026-07-25, 06:57:14",
-      "https://news.ycombinator.com/item?id=49045159"
-    ],
-    [
-      "Android May Soon Restrict On-Device ADB",
-      "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/"
     ]
   ],
   [
@@ -271,22 +271,22 @@
   ],
   [
     [
-      "2026-07-22, 13:00:29",
-      "https://news.ycombinator.com/item?id=49006096"
-    ],
-    [
-      "How My Images Are Dithered",
-      "https://dead.garden/blog/how-my-images-are-dithered.html"
-    ]
-  ],
-  [
-    [
       "2026-07-21, 13:22:11",
       "https://news.ycombinator.com/item?id=48991984"
     ],
     [
       "GDID Windows – Cut the tracker that follows you even under VPN",
       "https://korben.info/en/gdid-windows-cut-tracker-vpn.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-21, 07:45:49",
+      "https://news.ycombinator.com/item?id=48989304"
+    ],
+    [
+      "What if they are all wrong? (2020)",
+      "https://igorpak.wordpress.com/2020/12/10/what-if-they-are-all-wrong/"
     ]
   ],
   [
