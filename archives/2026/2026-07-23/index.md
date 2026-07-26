@@ -22,6 +22,7 @@
 * [2026-07-23, 18:13:03](https://news.ycombinator.com/item?id=49025831) - [A solid-state “atomic channel” for separating rare earth elements](https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements)
 * [2026-07-23, 18:11:46](https://news.ycombinator.com/item?id=49025812) - [Geekbench 7](https://www.geekbench.com/blog/2026/07/geekbench-7/)
 * [2026-07-23, 18:08:29](https://news.ycombinator.com/item?id=49025766) - [Why Sony can't bring back its classic Walkman models](https://obsoletesony.substack.com/p/why-sony-cant-bring-back-classic-walkman)
+* [2026-07-23, 17:12:48](https://news.ycombinator.com/item?id=49024980) - [Rethinking Legal Education in the AI Era](https://www.law.uchicago.edu/news/ai-strategy-statement)
 * [2026-07-23, 17:10:02](https://news.ycombinator.com/item?id=49024938) - [Kimi K3 exploited the latest Redis server](https://twitter.com/fried_rice/status/2080059356322918777)
 * [2026-07-23, 17:06:22](https://news.ycombinator.com/item?id=49024882) - [Show HN: Claude-thermos – keeps your Claude session warm for you](https://github.com/izeigerman/claude-thermos)
 * [2026-07-23, 16:53:33](https://news.ycombinator.com/item?id=49024691) - [What just happened to TheNumbers.com should worry us all](https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all)
