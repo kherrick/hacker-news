@@ -1,22 +1,22 @@
 [
   [
     [
+      "2026-07-26, 19:37:09",
+      "https://news.ycombinator.com/item?id=49061620"
+    ],
+    [
+      "Kimi K3 is not cheap",
+      "https://www.alexinch.com/blog/kimi-k3"
+    ]
+  ],
+  [
+    [
       "2026-07-26, 18:40:08",
       "https://news.ycombinator.com/item?id=49061015"
     ],
     [
       "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
       "https://github.com/hertz-ai/HARTOS"
-    ]
-  ],
-  [
-    [
-      "2026-07-26, 18:38:11",
-      "https://news.ycombinator.com/item?id=49060998"
-    ],
-    [
-      "Show HN: The Occult Gatsby",
-      "https://occultgatsby.work"
     ]
   ],
   [
@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2026-07-26, 17:28:03",
-      "https://news.ycombinator.com/item?id=49060277"
-    ],
-    [
-      "Calling all open source maintainers working with Ruby",
-      "https://www.rubyforum.org/t/calling-all-open-source-maintainers-working-with-ruby/553"
-    ]
-  ],
-  [
-    [
       "2026-07-26, 16:56:06",
       "https://news.ycombinator.com/item?id=49059977"
     ],
@@ -125,7 +115,7 @@
       "https://news.ycombinator.com/item?id=49058993"
     ],
     [
-      "An Inside Look at the Token Reseller Market",
+      "The relay market powering token resellers and fraud",
       "https://vectoral.com/blog/token-relay-market"
     ]
   ],
@@ -211,16 +201,6 @@
   ],
   [
     [
-      "2026-07-26, 09:01:39",
-      "https://news.ycombinator.com/item?id=49056112"
-    ],
-    [
-      "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59",
-      "https://astral.sh/blog/ruff-v0.16.0"
-    ]
-  ],
-  [
-    [
       "2026-07-26, 05:57:22",
       "https://news.ycombinator.com/item?id=49055169"
     ],
@@ -237,6 +217,16 @@
     [
       "A shell colon does nothing. Use it anyway",
       "https://refp.se/articles/your-shell-and-the-magic-colon"
+    ]
+  ],
+  [
+    [
+      "2026-07-23, 17:12:48",
+      "https://news.ycombinator.com/item?id=49024980"
+    ],
+    [
+      "Rethinking legal education in the AI era",
+      "https://www.law.uchicago.edu/news/ai-strategy-statement"
     ]
   ],
   [
@@ -265,7 +255,7 @@
       "https://news.ycombinator.com/item?id=49016917"
     ],
     [
-      "Using sed to make indexes for books (long)",
+      "Using sed to make indexes for books (long) (1997)",
       "https://www.pement.org/sed/make_indexes.txt"
     ]
   ],
@@ -287,6 +277,16 @@
     [
       "What's Under Your Feet in New York City?",
       "https://practical.engineering/blog/2026/7/21/whats-under-your-feet-in-new-york-city"
+    ]
+  ],
+  [
+    [
+      "2026-07-21, 20:30:22",
+      "https://news.ycombinator.com/item?id=48997828"
+    ],
+    [
+      "Some more things about Django I've been enjoying",
+      "https://jvns.ca/blog/2026/07/21/more-nice-django-things/"
     ]
   ],
   [
