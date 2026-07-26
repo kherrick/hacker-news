@@ -261,22 +261,12 @@
   ],
   [
     [
-      "2026-07-23, 00:20:05",
-      "https://news.ycombinator.com/item?id=49015286"
+      "2026-07-23, 14:37:13",
+      "https://news.ycombinator.com/item?id=49022355"
     ],
     [
-      "German Peasants' War",
-      "https://en.wikipedia.org/wiki/German_Peasants%27_War"
-    ]
-  ],
-  [
-    [
-      "2026-07-22, 21:09:59",
-      "https://news.ycombinator.com/item?id=49013464"
-    ],
-    [
-      "SIMD for Collision",
-      "https://box2d.org/posts/2026/07/simd-for-collision/"
+      "I learned PCB design, 3D printing and C just to listen to music",
+      "https://pentaton.app/blog/2026-07-12-introducing-pentaton-lp/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "DskDitto: Ultra-fast, parallel duplicate-file detector",
       "https://github.com/jdefrancesco/dskDitto"
+    ]
+  ],
+  [
+    [
+      "2026-07-21, 20:30:22",
+      "https://news.ycombinator.com/item?id=48997828"
+    ],
+    [
+      "Some more things about Django I've been enjoying",
+      "https://jvns.ca/blog/2026/07/21/more-nice-django-things/"
     ]
   ]
 ]
