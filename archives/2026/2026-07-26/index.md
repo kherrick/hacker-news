@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-26](index.md)
 
+* [2026-07-26, 20:31:57](https://news.ycombinator.com/item?id=49062120) - [Plasma Tunnels Reveal How Dying Satellites Fall to Earth](https://spectrum.ieee.org/space-debris-atmosphere-burn-up)
+* [2026-07-26, 20:02:15](https://news.ycombinator.com/item?id=49061887) - [Simulate cassette tape audio profiles using FFmpeg](https://github.com/AARomanov1985/Audio-Cassette-Simulation)
 * [2026-07-26, 20:01:27](https://news.ycombinator.com/item?id=49061879) - [Show HN: Infinite Jigsaw Game](https://infinitejigsaw.com)
 * [2026-07-26, 19:51:05](https://news.ycombinator.com/item?id=49061769) - [What does GitHub's security team even do?](https://orchidfiles.com/github-security-team/)
 * [2026-07-26, 19:37:09](https://news.ycombinator.com/item?id=49061620) - [Kimi K3 is not cheap](https://www.alexinch.com/blog/kimi-k3)

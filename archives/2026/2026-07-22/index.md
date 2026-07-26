@@ -80,6 +80,7 @@
 * [2026-07-22, 12:03:32](https://news.ycombinator.com/item?id=49005398) - [OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack](https://www.bbc.com/news/articles/c3ek3gvdnj3o)
 * [2026-07-22, 11:58:09](https://news.ycombinator.com/item?id=49005329) - [10 REM\"_(C2SLFF4](https://beej.us/blog/data/mystery-comment/)
 * [2026-07-22, 11:44:30](https://news.ycombinator.com/item?id=49005197) - [Overloaded Overloading](https://powerfulpython.com/blog/overloaded-overloading/)
+* [2026-07-22, 11:39:50](https://news.ycombinator.com/item?id=49005150) - [Classic WTF: Server Room Fans and More Fun](https://thedailywtf.com/articles/classic-wtf-server-room-fans-and-more-fun)
 * [2026-07-22, 10:49:04](https://news.ycombinator.com/item?id=49004663) - [OverpAId – Fire your CEO. Hire the future](https://overpaid.lol)
 * [2026-07-22, 10:35:43](https://news.ycombinator.com/item?id=49004541) - [Making Xen's dom0 I/O path NUMA aware](https://edera.dev/stories/numa-part-4-closing-the-xen-dom0-i-o-gap)
 * [2026-07-22, 10:24:40](https://news.ycombinator.com/item?id=49004464) - [Marimo Now Runs in PyCharm](https://marimo.io/blog/pycharm)
