@@ -20,6 +20,7 @@
 * [2026-07-21, 20:30:22](https://news.ycombinator.com/item?id=48997828) - [Some more things about Django I've been enjoying](https://jvns.ca/blog/2026/07/21/more-nice-django-things/)
 * [2026-07-21, 20:09:52](https://news.ycombinator.com/item?id=48997548) - [OpenAI and Hugging Face partner to address security incident](https://openai.com/index/hugging-face-model-evaluation-security-incident/)
 * [2026-07-21, 19:43:59](https://news.ycombinator.com/item?id=48997221) - ['VPNs are lawful technical tools,' says EU Court in landmark copyright ruling](https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling)
+* [2026-07-21, 19:28:55](https://news.ycombinator.com/item?id=48997008) - [Jimothy the raccoon has a rare spinal condition. Here's what that means](https://www.popsci.com/science/whats-jimothy-raccoon-condition/)
 * [2026-07-21, 19:04:39](https://news.ycombinator.com/item?id=48996652) - [Judge approves $1.5B Anthropic settlement for pirated books used to train Claude](https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63)
 * [2026-07-21, 18:58:44](https://news.ycombinator.com/item?id=48996571) - [Advertise in ChatGPT](https://ads.openai.com/)
 * [2026-07-21, 18:42:46](https://news.ycombinator.com/item?id=48996364) - [The Price of Happiness](https://happiness-science.org/price-of-happiness/)

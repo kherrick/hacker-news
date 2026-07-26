@@ -5,7 +5,6 @@
 * [2026-07-26, 15:51:12](https://news.ycombinator.com/item?id=49059367) - [Design Is Compromise](https://stephango.com/design-is-compromise)
 * [2026-07-26, 15:17:06](https://news.ycombinator.com/item?id=49058993) - [An Inside Look at the Token Reseller Market](https://vectoral.com/blog/token-relay-market)
 * [2026-07-26, 14:40:27](https://news.ycombinator.com/item?id=49058669) - [Park by Robot at London Gatwick Airport](https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/)
-* [2026-07-26, 13:25:17](https://news.ycombinator.com/item?id=49057985) - [Show HN: Managing on-premise servers without Kubernetes](https://github.com/ricardoborges/Nautilus)
 * [2026-07-26, 13:22:59](https://news.ycombinator.com/item?id=49057972) - [Ask HN: What are the most promising RL fields for a new master student?](https://news.ycombinator.com/item?id=49057972)
 * [2026-07-26, 13:13:03](https://news.ycombinator.com/item?id=49057877) - [The New AI Superpowers: Focus and Followthrough](https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and)
 * [2026-07-26, 12:51:03](https://news.ycombinator.com/item?id=49057666) - [Show HN: Reverse Minesweeper](https://sunflowersgame.com/)
@@ -25,11 +24,12 @@
 * [2026-07-25, 22:51:10](https://news.ycombinator.com/item?id=49052570) - [What is happening to jobs? Separating AI hype from reality](https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality)
 * [2026-07-25, 22:50:49](https://news.ycombinator.com/item?id=49052564) - [Cloudflare's new AI traffic options for customers](https://blog.cloudflare.com/content-independence-day-ai-options/)
 * [2026-07-25, 20:42:35](https://news.ycombinator.com/item?id=49051361) - [The new rules of context engineering for Claude 5 generation models](https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models)
-* [2026-07-25, 18:59:50](https://news.ycombinator.com/item?id=49050512) - [Running a 28.9M parameter LLM on an $8 microcontroller](https://github.com/slvDev/esp32-ai)
 * [2026-07-25, 13:33:49](https://news.ycombinator.com/item?id=49047453) - [A shell colon does nothing. Use it anyway](https://refp.se/articles/your-shell-and-the-magic-colon)
 * [2026-07-24, 12:44:32](https://news.ycombinator.com/item?id=49034777) - [Stinkpot: SQLite-backed shell history](https://tangled.org/oppi.li/stinkpot)
 * [2026-07-23, 14:37:13](https://news.ycombinator.com/item?id=49022355) - [I learned PCB design, 3D printing and C just to listen to music](https://pentaton.app/blog/2026-07-12-introducing-pentaton-lp/)
+* [2026-07-22, 21:19:04](https://news.ycombinator.com/item?id=49013583) - [Capra, Cribl's Design System](https://cribl.io/blog/introducing-capra-cribls-design-system/)
 * [2026-07-22, 12:56:54](https://news.ycombinator.com/item?id=49006049) - [What's Under Your Feet in New York City?](https://practical.engineering/blog/2026/7/21/whats-under-your-feet-in-new-york-city)
+* [2026-07-21, 19:28:55](https://news.ycombinator.com/item?id=48997008) - [Jimothy the raccoon has a rare spinal condition. Here's what that means](https://www.popsci.com/science/whats-jimothy-raccoon-condition/)
 
 ## [Archives](archives/index.md)
 
