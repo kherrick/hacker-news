@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-07-26](index.md)
 
+* [2026-07-26, 15:56:08](https://news.ycombinator.com/item?id=49059418) - [Make an Origami Circuit Board](https://spectrum.ieee.org/origami-circuit-boards)
+* [2026-07-26, 15:53:55](https://news.ycombinator.com/item?id=49059398) - [Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs](https://github.com/gmrandazzo/CheapSecurity)
+* [2026-07-26, 15:51:12](https://news.ycombinator.com/item?id=49059367) - [Design Is Compromise](https://stephango.com/design-is-compromise)
 * [2026-07-26, 15:17:06](https://news.ycombinator.com/item?id=49058993) - [An Inside Look at the Token Reseller Market](https://vectoral.com/blog/token-relay-market)
 * [2026-07-26, 14:40:27](https://news.ycombinator.com/item?id=49058669) - [Park by Robot at London Gatwick Airport](https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/)
+* [2026-07-26, 13:25:17](https://news.ycombinator.com/item?id=49057985) - [Show HN: Managing on-premise servers without Kubernetes](https://github.com/ricardoborges/Nautilus)
 * [2026-07-26, 13:22:59](https://news.ycombinator.com/item?id=49057972) - [Ask HN: What are the most promising RL fields for a new master student?](https://news.ycombinator.com/item?id=49057972)
 * [2026-07-26, 13:13:03](https://news.ycombinator.com/item?id=49057877) - [The New AI Superpowers: Focus and Followthrough](https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and)
 * [2026-07-26, 12:51:03](https://news.ycombinator.com/item?id=49057666) - [Show HN: Reverse Minesweeper](https://sunflowersgame.com/)
