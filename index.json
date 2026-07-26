@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-26, 20:01:27",
+      "https://news.ycombinator.com/item?id=49061879"
+    ],
+    [
+      "Show HN: Infinite Jigsaw Game",
+      "https://infinitejigsaw.com"
+    ]
+  ],
+  [
+    [
       "2026-07-26, 19:51:05",
       "https://news.ycombinator.com/item?id=49061769"
     ],
@@ -57,6 +67,16 @@
     [
       "It's not empowering to hand off the details",
       "https://davidnicholaswilliams.com/its-not-empowering-to-hand-off-the-details/"
+    ]
+  ],
+  [
+    [
+      "2026-07-26, 17:51:03",
+      "https://news.ycombinator.com/item?id=49060509"
+    ],
+    [
+      "How AST-grep Rewrote Tree-sitter in Rust and Made It 30% Faster",
+      "https://astgrep.com/blog/tree-sitter-rust-rewrite"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2026-07-26, 10:32:35",
-      "https://news.ycombinator.com/item?id=49056620"
-    ],
-    [
-      "Terence Tao: Mathematics in the Age of AI [pdf]",
-      "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf"
-    ]
-  ],
-  [
-    [
       "2026-07-26, 05:57:22",
       "https://news.ycombinator.com/item?id=49055169"
     ],
@@ -227,16 +237,6 @@
     [
       "I learned PCB design, 3D printing and C just to listen to music",
       "https://pentaton.app/blog/2026-07-12-introducing-pentaton-lp/"
-    ]
-  ],
-  [
-    [
-      "2026-07-23, 12:40:42",
-      "https://news.ycombinator.com/item?id=49020647"
-    ],
-    [
-      "Sum of Cubes via Difference Tables",
-      "https://leancrew.com/all-this/2026/07/sum-of-cubes-via-difference-tables/"
     ]
   ],
   [
