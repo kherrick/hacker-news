@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-07-26, 15:56:08",
+      "https://news.ycombinator.com/item?id=49059418"
+    ],
+    [
+      "Make an Origami Circuit Board",
+      "https://spectrum.ieee.org/origami-circuit-boards"
+    ]
+  ],
+  [
+    [
+      "2026-07-26, 15:53:55",
+      "https://news.ycombinator.com/item?id=49059398"
+    ],
+    [
+      "Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs",
+      "https://github.com/gmrandazzo/CheapSecurity"
+    ]
+  ],
+  [
+    [
+      "2026-07-26, 15:51:12",
+      "https://news.ycombinator.com/item?id=49059367"
+    ],
+    [
+      "Design Is Compromise",
+      "https://stephango.com/design-is-compromise"
+    ]
+  ],
+  [
+    [
       "2026-07-26, 15:17:06",
       "https://news.ycombinator.com/item?id=49058993"
     ],
@@ -17,6 +47,16 @@
     [
       "Park by Robot at London Gatwick Airport",
       "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/"
+    ]
+  ],
+  [
+    [
+      "2026-07-26, 13:25:17",
+      "https://news.ycombinator.com/item?id=49057985"
+    ],
+    [
+      "Show HN: Managing on-premise servers without Kubernetes",
+      "https://github.com/ricardoborges/Nautilus"
     ]
   ],
   [
@@ -211,16 +251,6 @@
   ],
   [
     [
-      "2026-07-25, 19:44:39",
-      "https://news.ycombinator.com/item?id=49050859"
-    ],
-    [
-      "LLM Usage in Debian: Three Proposals",
-      "https://www.debian.org/vote/2026/vote_002"
-    ]
-  ],
-  [
-    [
       "2026-07-25, 18:59:50",
       "https://news.ycombinator.com/item?id=49050512"
     ],
@@ -251,16 +281,6 @@
   ],
   [
     [
-      "2026-07-23, 15:33:14",
-      "https://news.ycombinator.com/item?id=49023243"
-    ],
-    [
-      "I wouldn't say Pangram is broken, but I would say that it's brittle",
-      "https://freddiedeboer.substack.com/p/i-wouldnt-say-pangram-is-broken-but"
-    ]
-  ],
-  [
-    [
       "2026-07-23, 14:37:13",
       "https://news.ycombinator.com/item?id=49022355"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2026-07-22, 21:19:04",
-      "https://news.ycombinator.com/item?id=49013583"
-    ],
-    [
-      "Capra, Cribl's Design System",
-      "https://cribl.io/blog/introducing-capra-cribls-design-system/"
-    ]
-  ],
-  [
-    [
       "2026-07-22, 12:56:54",
       "https://news.ycombinator.com/item?id=49006049"
     ],
     [
       "What's Under Your Feet in New York City?",
       "https://practical.engineering/blog/2026/7/21/whats-under-your-feet-in-new-york-city"
-    ]
-  ],
-  [
-    [
-      "2026-07-22, 06:52:20",
-      "https://news.ycombinator.com/item?id=49002762"
-    ],
-    [
-      "DskDitto: Ultra-fast, parallel duplicate-file detector",
-      "https://github.com/jdefrancesco/dskDitto"
     ]
   ]
 ]
