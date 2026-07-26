@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-07-26](index.md)
 
+* [2026-07-26, 21:39:17](https://news.ycombinator.com/item?id=49062700) - [Teaching Kids Forth – Anna Liberty](https://gracefulliberty.com/articles/teaching-kids-forth/)
+* [2026-07-26, 20:53:26](https://news.ycombinator.com/item?id=49062291) - [We have proof automation now](https://www.imperialviolet.org/2026/07/26/zstd-lean.html)
+* [2026-07-26, 20:49:43](https://news.ycombinator.com/item?id=49062259) - [Multiway Turing Machines (2021 pre-ai)](https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines/)
 * [2026-07-26, 20:31:57](https://news.ycombinator.com/item?id=49062120) - [Plasma Tunnels Reveal How Dying Satellites Fall to Earth](https://spectrum.ieee.org/space-debris-atmosphere-burn-up)
 * [2026-07-26, 20:02:15](https://news.ycombinator.com/item?id=49061887) - [Simulate cassette tape audio profiles using FFmpeg](https://github.com/AARomanov1985/Audio-Cassette-Simulation)
 * [2026-07-26, 20:01:27](https://news.ycombinator.com/item?id=49061879) - [Show HN: Infinite Jigsaw Game](https://infinitejigsaw.com)
