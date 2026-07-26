@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-26](index.md)
 
+* [2026-07-26, 19:37:09](https://news.ycombinator.com/item?id=49061620) - [Kimi K3 is not cheap](https://www.alexinch.com/blog/kimi-k3)
 * [2026-07-26, 18:40:08](https://news.ycombinator.com/item?id=49061015) - [Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter](https://github.com/hertz-ai/HARTOS)
 * [2026-07-26, 18:38:11](https://news.ycombinator.com/item?id=49060998) - [Show HN: The Occult Gatsby](https://occultgatsby.work)
 * [2026-07-26, 18:35:36](https://news.ycombinator.com/item?id=49060978) - [The Strongest El Niño Ever](https://www.theclimatebrink.com/p/the-strongest-el-nino-ever)
