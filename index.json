@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-07-26, 19:37:09",
-      "https://news.ycombinator.com/item?id=49061620"
-    ],
-    [
-      "Kimi K3 is not cheap",
-      "https://www.alexinch.com/blog/kimi-k3"
-    ]
-  ],
-  [
-    [
       "2026-07-26, 18:40:08",
       "https://news.ycombinator.com/item?id=49061015"
     ],
@@ -45,7 +35,7 @@
       "https://news.ycombinator.com/item?id=49060856"
     ],
     [
-      "Decker",
+      "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
       "https://beyondloom.com/decker/"
     ]
   ],
@@ -207,6 +197,16 @@
     [
       "GrapheneOS protections against data extraction from locked devices",
       "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices"
+    ]
+  ],
+  [
+    [
+      "2026-07-26, 02:35:43",
+      "https://news.ycombinator.com/item?id=49054107"
+    ],
+    [
+      "An ESP32 based plane radar for my desk",
+      "https://blog.ktz.me/esp32-plane-radar/"
     ]
   ],
   [
