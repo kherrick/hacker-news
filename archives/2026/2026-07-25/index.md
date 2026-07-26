@@ -49,6 +49,7 @@
 * [2026-07-25, 14:10:43](https://news.ycombinator.com/item?id=49047707) - [Scanwheel is a drum style mechanical television you can build yourself](https://github.com/AncientJames/Scanwheel/)
 * [2026-07-25, 13:48:11](https://news.ycombinator.com/item?id=49047563) - [The Silurian Hypothesis (2020)](https://www.theparisreview.org/blog/2020/01/23/the-silurian-hypothesis/)
 * [2026-07-25, 13:42:28](https://news.ycombinator.com/item?id=49047516) - [My web version of Mars MIPS, now have builtin C compiler](https://webmars.nfiles.top/)
+* [2026-07-25, 13:33:49](https://news.ycombinator.com/item?id=49047453) - [A shell colon does nothing. Use it anyway](https://refp.se/articles/your-shell-and-the-magic-colon)
 * [2026-07-25, 13:33:03](https://news.ycombinator.com/item?id=49047448) - [Corporate America Has Suddenly Decided to Stop Blowing Money on AI](https://www.wsj.com/business/china-us-ai-model-costs-53a12e96)
 * [2026-07-25, 13:18:49](https://news.ycombinator.com/item?id=49047365) - [Bitchat Is Now on Radicle](https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6)
 * [2026-07-25, 12:51:48](https://news.ycombinator.com/item?id=49047198) - [League of Legends designer shares game design field manual](https://areadenial.games/design/preface#00-01)

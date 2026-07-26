@@ -53,6 +53,7 @@
 * [2026-07-24, 13:02:49](https://news.ycombinator.com/item?id=49034948) - [Patreon laying off 20% of staff](https://www.patreon.com/jackconte/posts/painful-update-164628951)
 * [2026-07-24, 12:55:47](https://news.ycombinator.com/item?id=49034895) - [Eight Newly Produced MQ-9 Reaper Drones Destroyed in Iranian Strike](https://militarywatchmagazine.com/)
 * [2026-07-24, 12:53:59](https://news.ycombinator.com/item?id=49034868) - [Half-Life 2 running natively on HaikuOS](https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18)
+* [2026-07-24, 12:44:32](https://news.ycombinator.com/item?id=49034777) - [Stinkpot: SQLite-backed shell history](https://tangled.org/oppi.li/stinkpot)
 * [2026-07-24, 12:40:27](https://news.ycombinator.com/item?id=49034747) - [Em dashes are fucking amazing](https://psychotechnology.substack.com/p/em-dashes-are-fucking-amazing)
 * [2026-07-24, 12:34:28](https://news.ycombinator.com/item?id=49034673) - [Programming language file extensions that match ISO 3166-1 alpha-2 country code](https://www.bruh.ltd/blog/programming-language-file-extensions-that-match-an-iso-3166-1-alpha-2-country-code/)
 * [2026-07-24, 12:15:11](https://news.ycombinator.com/item?id=49034468) - [Why is programming so captivating, yet so agonizing?](https://elsewhere.news/en/zhenfund/why-is-programming-so-captivating-yet-so-agonizing)
