@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-26, 15:17:06](https://news.ycombinator.com/item?id=49058993) - [An Inside Look at the Token Reseller Market](https://vectoral.com/blog/token-relay-market)
 * [2026-07-26, 14:40:27](https://news.ycombinator.com/item?id=49058669) - [Park by Robot at London Gatwick Airport](https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/)
 * [2026-07-26, 13:22:59](https://news.ycombinator.com/item?id=49057972) - [Ask HN: What are the most promising RL fields for a new master student?](https://news.ycombinator.com/item?id=49057972)
 * [2026-07-26, 13:13:03](https://news.ycombinator.com/item?id=49057877) - [The New AI Superpowers: Focus and Followthrough](https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and)
@@ -24,7 +25,6 @@
 * [2026-07-25, 18:59:50](https://news.ycombinator.com/item?id=49050512) - [Running a 28.9M parameter LLM on an $8 microcontroller](https://github.com/slvDev/esp32-ai)
 * [2026-07-25, 13:33:49](https://news.ycombinator.com/item?id=49047453) - [A shell colon does nothing. Use it anyway](https://refp.se/articles/your-shell-and-the-magic-colon)
 * [2026-07-24, 12:44:32](https://news.ycombinator.com/item?id=49034777) - [Stinkpot: SQLite-backed shell history](https://tangled.org/oppi.li/stinkpot)
-* [2026-07-23, 17:12:48](https://news.ycombinator.com/item?id=49024980) - [Rethinking Legal Education in the AI Era](https://www.law.uchicago.edu/news/ai-strategy-statement)
 * [2026-07-23, 15:33:14](https://news.ycombinator.com/item?id=49023243) - [I wouldn't say Pangram is broken, but I would say that it's brittle](https://freddiedeboer.substack.com/p/i-wouldnt-say-pangram-is-broken-but)
 * [2026-07-23, 14:37:13](https://news.ycombinator.com/item?id=49022355) - [I learned PCB design, 3D printing and C just to listen to music](https://pentaton.app/blog/2026-07-12-introducing-pentaton-lp/)
 * [2026-07-22, 21:19:04](https://news.ycombinator.com/item?id=49013583) - [Capra, Cribl's Design System](https://cribl.io/blog/introducing-capra-cribls-design-system/)
