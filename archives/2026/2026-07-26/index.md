@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-26](index.md)
 
+* [2026-07-26, 13:22:59](https://news.ycombinator.com/item?id=49057972) - [Ask HN: What are the most promising RL fields for a new master student?](https://news.ycombinator.com/item?id=49057972)
 * [2026-07-26, 12:43:21](https://news.ycombinator.com/item?id=49057574) - [Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake](https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c)
 * [2026-07-26, 12:21:26](https://news.ycombinator.com/item?id=49057398) - [Go Analysis Framework: modular static analysis by go team](https://pkg.go.dev/golang.org/x/tools/go/analysis)
 * [2026-07-26, 12:00:42](https://news.ycombinator.com/item?id=49057248) - [Third Drone Shot Down in Three Days in Romanian Territory](https://english.mapn.ro/)
