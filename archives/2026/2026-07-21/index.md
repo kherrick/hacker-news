@@ -17,6 +17,7 @@
 * [2026-07-21, 20:48:22](https://news.ycombinator.com/item?id=48998082) - [Mickey Mouse Sells a Bundle](https://www.marginpoints.com/essays/mickey-mouse-sells-a-bundle-hn)
 * [2026-07-21, 20:42:23](https://news.ycombinator.com/item?id=48997998) - [The Secret Origins of Amazon's Alexa](https://www.wired.com/story/how-amazon-made-alexa-smarter/)
 * [2026-07-21, 20:38:29](https://news.ycombinator.com/item?id=48997941) - [Show HN: Orate – On-device neural text-to-speech queue for Mac](https://orate.to/)
+* [2026-07-21, 20:30:22](https://news.ycombinator.com/item?id=48997828) - [Some more things about Django I've been enjoying](https://jvns.ca/blog/2026/07/21/more-nice-django-things/)
 * [2026-07-21, 20:09:52](https://news.ycombinator.com/item?id=48997548) - [OpenAI and Hugging Face partner to address security incident](https://openai.com/index/hugging-face-model-evaluation-security-incident/)
 * [2026-07-21, 19:43:59](https://news.ycombinator.com/item?id=48997221) - ['VPNs are lawful technical tools,' says EU Court in landmark copyright ruling](https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling)
 * [2026-07-21, 19:04:39](https://news.ycombinator.com/item?id=48996652) - [Judge approves $1.5B Anthropic settlement for pirated books used to train Claude](https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63)

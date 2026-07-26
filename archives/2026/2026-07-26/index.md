@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-26](index.md)
 
+* [2026-07-26, 05:57:22](https://news.ycombinator.com/item?id=49055169) - [GrapheneOS protections against data extraction from locked devices](https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices)
 * [2026-07-26, 04:19:59](https://news.ycombinator.com/item?id=49054697) - [W4ME Station – a WASM-4 runtime for Java ME phones](https://github.com/mulfyx/w4me-station)
 * [2026-07-26, 03:09:46](https://news.ycombinator.com/item?id=49054307) - [Humans Haven't Stopped Evolving](https://www.harvardmagazine.com/research/harvard-human-evolution-genes-selective-pressure)
 * [2026-07-26, 02:55:50](https://news.ycombinator.com/item?id=49054224) - [JetZero](https://www.jetzero.aero)
