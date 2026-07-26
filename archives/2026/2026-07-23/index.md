@@ -69,6 +69,7 @@
 * [2026-07-23, 13:09:10](https://news.ycombinator.com/item?id=49020999) - [AI Companies Are Trying to Hide a Staggering Amount of Debt](https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet)
 * [2026-07-23, 13:00:03](https://news.ycombinator.com/item?id=49020868) - [OpenAI and Anthropic unite against open-weight AI risks to their bottom line](https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china)
 * [2026-07-23, 12:49:10](https://news.ycombinator.com/item?id=49020751) - [Self-host your mail server](https://blog.haschek.at/2026/you-should-selfhost-your-mail.html)
+* [2026-07-23, 12:40:42](https://news.ycombinator.com/item?id=49020647) - [Sum of Cubes via Difference Tables](https://leancrew.com/all-this/2026/07/sum-of-cubes-via-difference-tables/)
 * [2026-07-23, 12:31:21](https://news.ycombinator.com/item?id=49020545) - [Show HN: I simulated closing the Strait of Hormuz on real oil trade data](https://globaloilnetwork.staffinganalytics.io/)
 * [2026-07-23, 12:11:05](https://news.ycombinator.com/item?id=49020335) - [Understanding the AI Economy](https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/)
 * [2026-07-23, 11:38:12](https://news.ycombinator.com/item?id=49019958) - [Publishers consider opting out of Google as search traffic declines](https://www.niemanlab.org/2026/07/search-traffic-has-declined-so-much-that-some-publishers-are-considering-opting-out-of-google-entirely/)
