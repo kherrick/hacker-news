@@ -2,7 +2,6 @@
 
 * [2026-07-26, 05:57:22](https://news.ycombinator.com/item?id=49055169) - [GrapheneOS protections against data extraction from locked devices](https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices)
 * [2026-07-26, 04:19:59](https://news.ycombinator.com/item?id=49054697) - [W4ME Station – a WASM-4 runtime for Java ME phones](https://github.com/mulfyx/w4me-station)
-* [2026-07-26, 03:09:46](https://news.ycombinator.com/item?id=49054307) - [Humans haven't stopped evolving](https://www.harvardmagazine.com/research/harvard-human-evolution-genes-selective-pressure)
 * [2026-07-26, 02:55:50](https://news.ycombinator.com/item?id=49054224) - [JetZero](https://www.jetzero.aero)
 * [2026-07-26, 02:35:43](https://news.ycombinator.com/item?id=49054107) - [An ESP32 based plane radar for my desk](https://blog.ktz.me/esp32-plane-radar/)
 * [2026-07-26, 02:22:26](https://news.ycombinator.com/item?id=49054010) - [Show HN: I mapped every US golf course](https://golfcoursebrowser.com/)
@@ -23,12 +22,13 @@
 * [2026-07-25, 18:08:52](https://news.ycombinator.com/item?id=49050058) - [Memory safety absolutists](https://itsallaboutthebit.com/memory-safety-absolutists/)
 * [2026-07-25, 17:34:34](https://news.ycombinator.com/item?id=49049693) - [Show HN: Brolly, a plain-text weather forecast site](https://brolly.sh/forecast/RWFP2qW8)
 * [2026-07-25, 13:33:49](https://news.ycombinator.com/item?id=49047453) - [A shell colon does nothing. Use it anyway](https://refp.se/articles/your-shell-and-the-magic-colon)
+* [2026-07-25, 06:57:14](https://news.ycombinator.com/item?id=49045159) - [Android may soon restrict on-device ADB](https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/)
 * [2026-07-24, 18:37:06](https://news.ycombinator.com/item?id=49039868) - [Show HN: I made some transistor animations](https://brandonli.net/semisim/animations)
 * [2026-07-24, 12:44:32](https://news.ycombinator.com/item?id=49034777) - [Stinkpot: SQLite-backed shell history](https://tangled.org/oppi.li/stinkpot)
 * [2026-07-23, 17:12:48](https://news.ycombinator.com/item?id=49024980) - [Rethinking Legal Education in the AI Era](https://www.law.uchicago.edu/news/ai-strategy-statement)
 * [2026-07-23, 02:01:53](https://news.ycombinator.com/item?id=49015898) - [Agatha Christie's Disappearance: Amnesia, Suicide, or Despair?](https://www.historicmysteries.com/unexplained-mysteries/agatha-christie-disappearance/23136/)
 * [2026-07-22, 21:09:59](https://news.ycombinator.com/item?id=49013464) - [SIMD for Collision](https://box2d.org/posts/2026/07/simd-for-collision/)
-* [2026-07-22, 05:31:22](https://news.ycombinator.com/item?id=49002235) - [Librrd Playground](https://systemf.epfl.ch/etc/librrd/)
+* [2026-07-22, 06:52:20](https://news.ycombinator.com/item?id=49002762) - [DskDitto: Ultra-fast, parallel duplicate-file detector](https://github.com/jdefrancesco/dskDitto)
 * [2026-07-21, 20:30:22](https://news.ycombinator.com/item?id=48997828) - [Some more things about Django I've been enjoying](https://jvns.ca/blog/2026/07/21/more-nice-django-things/)
 
 ## [Archives](archives/index.md)
