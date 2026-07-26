@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-26](index.md)
 
+* [2026-07-26, 17:29:35](https://news.ycombinator.com/item?id=49060295) - [How to Write English Prose](https://thelampmagazine.com/blog/how-to-write-english-prose)
 * [2026-07-26, 16:23:56](https://news.ycombinator.com/item?id=49059660) - [What if LLMs escape through inferences itself? This is fiction. For now](https://www.agrillo.it/EvasionEn.html)
 * [2026-07-26, 15:56:08](https://news.ycombinator.com/item?id=49059418) - [Make an Origami Circuit Board](https://spectrum.ieee.org/origami-circuit-boards)
 * [2026-07-26, 15:53:55](https://news.ycombinator.com/item?id=49059398) - [Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs](https://github.com/gmrandazzo/CheapSecurity)
