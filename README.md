@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-26, 23:35:15](https://news.ycombinator.com/item?id=49063454) - [Show HN: Distill and serve small models with frontier quality for half the cost](https://github.com/experientiallabs/world-model-optimizer)
 * [2026-07-26, 23:03:35](https://news.ycombinator.com/item?id=49063266) - [Japan legend Miura, 59, scores first goal since 2022](https://www.bbc.com/sport/football/articles/c3r087181ndo)
 * [2026-07-26, 22:48:09](https://news.ycombinator.com/item?id=49063186) - [Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription](https://github.com/hkc5/cursor-bridge)
 * [2026-07-26, 21:39:17](https://news.ycombinator.com/item?id=49062700) - [Teaching Kids Forth](https://gracefulliberty.com/articles/teaching-kids-forth/)
@@ -7,7 +8,6 @@
 * [2026-07-26, 20:49:43](https://news.ycombinator.com/item?id=49062259) - [Multiway Turing Machines (2021 pre-ai)](https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines/)
 * [2026-07-26, 20:31:57](https://news.ycombinator.com/item?id=49062120) - [Plasma Tunnels Reveal How Dying Satellites Fall to Earth](https://spectrum.ieee.org/space-debris-atmosphere-burn-up)
 * [2026-07-26, 20:02:15](https://news.ycombinator.com/item?id=49061887) - [Simulate cassette tape audio profiles using FFmpeg](https://github.com/AARomanov1985/Audio-Cassette-Simulation)
-* [2026-07-26, 18:35:36](https://news.ycombinator.com/item?id=49060978) - [The Strongest El Niño Ever](https://www.theclimatebrink.com/p/the-strongest-el-nino-ever)
 * [2026-07-26, 18:32:46](https://news.ycombinator.com/item?id=49060945) - [How to Block Some of the Bots](https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/)
 * [2026-07-26, 18:23:06](https://news.ycombinator.com/item?id=49060856) - [Decker, a platform that builds on the legacy of Hypercard and classic macOS](https://beyondloom.com/decker/)
 * [2026-07-26, 18:11:16](https://news.ycombinator.com/item?id=49060724) - [Introduction to Data-Oriented Design [pdf]](https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf)
@@ -26,8 +26,8 @@
 * [2026-07-26, 05:57:22](https://news.ycombinator.com/item?id=49055169) - [GrapheneOS protections against data extraction from locked devices](https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices)
 * [2026-07-23, 14:37:13](https://news.ycombinator.com/item?id=49022355) - [I learned PCB design, 3D printing and C just to listen to music](https://pentaton.app/blog/2026-07-12-introducing-pentaton-lp/)
 * [2026-07-23, 12:58:02](https://news.ycombinator.com/item?id=49020842) - [The Usefulness of Useless Knowledge (1939) [pdf]](https://faculty.lsu.edu/kharms/files/flexner_1939.pdf)
+* [2026-07-23, 12:01:52](https://news.ycombinator.com/item?id=49020219) - [I wanted a clock that never needed setting. Things escalated](https://arstechnica.com/gadgets/2026/07/i-wanted-a-clock-that-never-needed-setting-things-escalated/)
 * [2026-07-23, 04:25:24](https://news.ycombinator.com/item?id=49016917) - [Using sed to make indexes for books (1997)](https://www.pement.org/sed/make_indexes.txt)
-* [2026-07-22, 15:57:53](https://news.ycombinator.com/item?id=49008834) - [Building the Grace Cathedral experience](https://blog.playcanvas.com/building-the-grace-cathedral-experience/)
 * [2026-07-22, 12:56:54](https://news.ycombinator.com/item?id=49006049) - [What's Under Your Feet in New York City?](https://practical.engineering/blog/2026/7/21/whats-under-your-feet-in-new-york-city)
 * [2026-07-21, 19:28:55](https://news.ycombinator.com/item?id=48997008) - [Jimothy the raccoon has a rare spinal condition. Here's what that means](https://www.popsci.com/science/whats-jimothy-raccoon-condition/)
 

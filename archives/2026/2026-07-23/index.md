@@ -73,6 +73,7 @@
 * [2026-07-23, 12:40:42](https://news.ycombinator.com/item?id=49020647) - [Sum of Cubes via Difference Tables](https://leancrew.com/all-this/2026/07/sum-of-cubes-via-difference-tables/)
 * [2026-07-23, 12:31:21](https://news.ycombinator.com/item?id=49020545) - [Show HN: I simulated closing the Strait of Hormuz on real oil trade data](https://globaloilnetwork.staffinganalytics.io/)
 * [2026-07-23, 12:11:05](https://news.ycombinator.com/item?id=49020335) - [Understanding the AI Economy](https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/)
+* [2026-07-23, 12:01:52](https://news.ycombinator.com/item?id=49020219) - [I wanted a clock that never needed setting. Things escalated](https://arstechnica.com/gadgets/2026/07/i-wanted-a-clock-that-never-needed-setting-things-escalated/)
 * [2026-07-23, 11:38:12](https://news.ycombinator.com/item?id=49019958) - [Publishers consider opting out of Google as search traffic declines](https://www.niemanlab.org/2026/07/search-traffic-has-declined-so-much-that-some-publishers-are-considering-opting-out-of-google-entirely/)
 * [2026-07-23, 11:09:48](https://news.ycombinator.com/item?id=49019694) - [New Framework Desktop Option with AMD Ryzen AI Max+ Pro 495 and 192GB Memory](https://frame.work/desktop?tab=192gb-coming-soon)
 * [2026-07-23, 11:05:11](https://news.ycombinator.com/item?id=49019647) - [Worse on Purpose – How Corporate Greed Killed Product Quality – Worse on Purpose](https://www.worseonpurpose.com/)
