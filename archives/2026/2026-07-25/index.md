@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-07-25](index.md)
 
+* [2026-07-25, 23:32:50](https://news.ycombinator.com/item?id=49052912) - [DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]](https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf)
 * [2026-07-25, 22:57:17](https://news.ycombinator.com/item?id=49052628) - [Clinical Failure Rates over the Decades: Yikes](https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes)
 * [2026-07-25, 22:51:10](https://news.ycombinator.com/item?id=49052570) - [What is happening to jobs? Separating AI hype from reality](https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality)
+* [2026-07-25, 22:50:49](https://news.ycombinator.com/item?id=49052564) - [Cloudflare's new AI traffic options for customers](https://blog.cloudflare.com/content-independence-day-ai-options/)
 * [2026-07-25, 22:03:22](https://news.ycombinator.com/item?id=49052074) - [Kimi K3 built a Windows XP in browser](https://windows-xp.kimi.site/)
 * [2026-07-25, 21:58:14](https://news.ycombinator.com/item?id=49052025) - [Digital Intelligence: Why Humanity Created What It Does Not Understand](https://singularityforge.space/2026/07/26/illusion-of-control/)
 * [2026-07-25, 21:48:22](https://news.ycombinator.com/item?id=49051947) - [GM Backs Sodium Ion Batteries for U.S. Grid Storage](https://spectrum.ieee.org/sodium-ion-battery-peak-energy)
 * [2026-07-25, 21:32:08](https://news.ycombinator.com/item?id=49051816) - [A 77-year-old Republican man is staging a solo protest against Flock cameras](https://www.cltampa.com/news/a-77-year-old-republican-man-is-staging-a-solo-protest-against-st-petes-flock-cameras/)
+* [2026-07-25, 21:19:42](https://news.ycombinator.com/item?id=49051707) - [Becoming a Research Engineer at a Big LLM Lab](https://www.maxmynter.com/pages/blog/jobhunt)
 * [2026-07-25, 21:18:06](https://news.ycombinator.com/item?id=49051692) - ['AI Mania Is Eviscerating Global Decision-Making'](https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh)
 * [2026-07-25, 20:59:24](https://news.ycombinator.com/item?id=49051505) - [Who does Anubis actually stop?](https://fzakaria.com/2026/07/09/who-does-anubis-actually-stop)
 * [2026-07-25, 20:55:12](https://news.ycombinator.com/item?id=49051463) - [Multicast TV Distribution on My Home Network](https://www.apalrd.net/posts/2026/isp_mcast/)
@@ -28,6 +31,7 @@
 * [2026-07-25, 18:18:42](https://news.ycombinator.com/item?id=49050152) - [Tile's Security Is So Bad It's a Feature for Stalkers](https://blog.adafruit.com/2026/03/05/tiles-security-is-so-bad-its-a-feature-for-stalkers/)
 * [2026-07-25, 18:08:52](https://news.ycombinator.com/item?id=49050058) - [Memory Safety Absolutists](https://itsallaboutthebit.com/memory-safety-absolutists/)
 * [2026-07-25, 17:34:34](https://news.ycombinator.com/item?id=49049693) - [Show HN: Brolly, a plain-text weather forecast site](https://brolly.sh/forecast/RWFP2qW8)
+* [2026-07-25, 17:29:55](https://news.ycombinator.com/item?id=49049638) - [Show HN: SpinWin – A macOS menu bar app to visually rotate or spin any window](https://github.com/alokdhir/spinwin)
 * [2026-07-25, 16:55:45](https://news.ycombinator.com/item?id=49049241) - [Apple Is the King of AI and Nobody Knows It](https://limitededitionjonathan.substack.com/p/apple-is-the-king-of-ai-and-nobody)
 * [2026-07-25, 16:39:55](https://news.ycombinator.com/item?id=49049066) - [Rauno's Field Notes #2](https://rauno.me/notes/2)
 * [2026-07-25, 16:34:16](https://news.ycombinator.com/item?id=49049015) - [Amen Break](https://en.wikipedia.org/wiki/Amen_break)
