@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-07-26, 11:00:54",
-      "https://news.ycombinator.com/item?id=49056808"
+      "2026-07-26, 12:00:42",
+      "https://news.ycombinator.com/item?id=49057248"
     ],
     [
-      "An OpenAI model left notes about how to evade containment; we need more details",
-      "https://www.lesswrong.com/posts/jMEAG5c5HiDfdAGpa/an-openai-model-left-notes-about-how-to-evade-containment-we"
+      "Third Drone Shot Down in Three Days in Romanian Territory",
+      "https://english.mapn.ro/"
+    ]
+  ],
+  [
+    [
+      "2026-07-26, 10:42:00",
+      "https://news.ycombinator.com/item?id=49056689"
+    ],
+    [
+      "Claude Code Deletes Your Context History from Your Device After 30 Days",
+      "https://code.claude.com/docs/en/data-usage"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Stinkpot: SQLite-backed shell history",
       "https://tangled.org/oppi.li/stinkpot"
-    ]
-  ],
-  [
-    [
-      "2026-07-23, 21:17:34",
-      "https://news.ycombinator.com/item?id=49028169"
-    ],
-    [
-      "Pip install Postgres – no Docker/Brew/apt",
-      "https://github.com/leontrolski/postgresql-testing"
     ]
   ],
   [
