@@ -85,3 +85,4 @@
 * [2026-07-23, 01:16:14](https://news.ycombinator.com/item?id=49015639) - [OpenAI's accidental cyberattack against Hugging Face is science fiction](https://simonwillison.net/2026/Jul/22/openai-cyberattack/)
 * [2026-07-23, 01:14:53](https://news.ycombinator.com/item?id=49015635) - [Protecting our FLOSS commons from LLMs](https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html)
 * [2026-07-23, 01:06:56](https://news.ycombinator.com/item?id=49015588) - [Codeberg Bans Cryptocurrency Projects](https://codeberg.org/Codeberg/org/pulls/1254)
+* [2026-07-23, 00:20:05](https://news.ycombinator.com/item?id=49015286) - [German Peasants' War](https://en.wikipedia.org/wiki/German_Peasants%27_War)

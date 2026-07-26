@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-07-26](index.md)
 
 * [2026-07-26, 09:58:11](https://news.ycombinator.com/item?id=49056424) - [No Stack Overflow, No Autocomplete: What Coding Felt Like in the 80s](https://comuniq.xyz/post?t=1439)
+* [2026-07-26, 09:43:13](https://news.ycombinator.com/item?id=49056351) - [Systemd Linger](https://etbe.coker.com.au/2026/07/24/systemd-linger/)
 * [2026-07-26, 09:18:34](https://news.ycombinator.com/item?id=49056194) - [Elevated Errors for Opus 5](https://status.claude.com/incidents/zftg3gqkmv18)
 * [2026-07-26, 09:01:39](https://news.ycombinator.com/item?id=49056112) - [Ruff v0.16.0 – Significant new updates – 413 default rules up from 59](https://astral.sh/blog/ruff-v0.16.0)
 * [2026-07-26, 05:57:22](https://news.ycombinator.com/item?id=49055169) - [GrapheneOS protections against data extraction from locked devices](https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices)
