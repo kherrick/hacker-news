@@ -23,6 +23,7 @@
 * [2026-07-22, 20:03:32](https://news.ycombinator.com/item?id=49012604) - [Book Corners: Community map of neighborhood book exchange spots](https://www.bookcorners.org)
 * [2026-07-22, 19:42:48](https://news.ycombinator.com/item?id=49012339) - [Why care about programming languages](https://ebellani.github.io/blog/2026/why-care-about-programming-languages/)
 * [2026-07-22, 19:42:40](https://news.ycombinator.com/item?id=49012337) - [Teardown: The BMW / Harman IDC23H Infotainment Unit (B423)](https://www.hakstuff.net/blog/teardown-the-bmw-idc23h-infotainment-unit)
+* [2026-07-22, 19:40:44](https://news.ycombinator.com/item?id=49012309) - [The Computer That Helped Win World War II](https://spectrum.ieee.org/colossus-computer-ieee-milestone)
 * [2026-07-22, 19:22:19](https://news.ycombinator.com/item?id=49012070) - [John C. Dvorak has died](https://twitter.com/na_announce/status/2079952538040672302)
 * [2026-07-22, 19:15:21](https://news.ycombinator.com/item?id=49011999) - [ICE shared Medicaid data it wasn't supposed to have with Palantir](https://www.npr.org/2026/07/17/nx-s1-5898504/ice-medicaid-palantir-data)
 * [2026-07-22, 18:55:42](https://news.ycombinator.com/item?id=49011687) - [Clarity didn't work, trying mysterianism](https://gwern.net/doc/fiction/science-fiction/2012-10-03-yvain-thewhisperingearring.html)
