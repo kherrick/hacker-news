@@ -5,18 +5,8 @@
       "https://news.ycombinator.com/item?id=49065752"
     ],
     [
-      "Kimi-K3 Releases on HuggingFace 6/27",
+      "Kimi-K3 Releases on HuggingFace 7/27",
       "https://huggingface.co/moonshotai/Kimi-K3"
-    ]
-  ],
-  [
-    [
-      "2026-07-27, 05:31:33",
-      "https://news.ycombinator.com/item?id=49065498"
-    ],
-    [
-      "EU Fines Google $1.02B for Favoring Its Own Services",
-      "https://www.wsj.com/tech/google-fined-1-02-billion-under-eus-tech-antitrust-rules-7e8ae1fb"
     ]
   ],
   [
@@ -77,16 +67,6 @@
     [
       "We have proof automation now",
       "https://www.imperialviolet.org/2026/07/26/zstd-lean.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-26, 20:31:57",
-      "https://news.ycombinator.com/item?id=49062120"
-    ],
-    [
-      "Plasma Tunnels Reveal How Dying Satellites Fall to Earth",
-      "https://spectrum.ieee.org/space-debris-atmosphere-burn-up"
     ]
   ],
   [
@@ -231,12 +211,12 @@
   ],
   [
     [
-      "2026-07-24, 16:32:23",
-      "https://news.ycombinator.com/item?id=49038035"
+      "2026-07-24, 10:28:33",
+      "https://news.ycombinator.com/item?id=49033522"
     ],
     [
-      "History of John Backus's functional programming project (draft)",
-      "https://softwarepreservation.computerhistory.org/FP/"
+      "Measuring developer productivity with the DX Core 4",
+      "https://getdx.com/research/measuring-developer-productivity-with-the-dx-core-4/"
     ]
   ],
   [
@@ -281,6 +261,16 @@
   ],
   [
     [
+      "2026-07-23, 02:54:46",
+      "https://news.ycombinator.com/item?id=49016303"
+    ],
+    [
+      "8086 Emulator Inside Scratch",
+      "https://turbowarp.org/1248315967?size=640x400"
+    ]
+  ],
+  [
+    [
       "2026-07-22, 19:42:48",
       "https://news.ycombinator.com/item?id=49012339"
     ],
@@ -297,6 +287,16 @@
     [
       "The Zen of Parallel Programming: The Posture of a Kernel",
       "https://smolnero.com/posts/the-zen-of-parallel-programming-the-posture-of-a-kernel"
+    ]
+  ],
+  [
+    [
+      "2026-07-21, 20:30:22",
+      "https://news.ycombinator.com/item?id=48997828"
+    ],
+    [
+      "Some more things about Django I've been enjoying",
+      "https://jvns.ca/blog/2026/07/21/more-nice-django-things/"
     ]
   ]
 ]
