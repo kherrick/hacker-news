@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-27, 13:29:12",
+      "https://news.ycombinator.com/item?id=49069447"
+    ],
+    [
+      "We Tested Nonstick Cookware: Coatings Don't Need to Look Worn to Shed Particles",
+      "https://www.rtings.com/air-fryer/learn/research/ptfe-cookware-shedding"
+    ]
+  ],
+  [
+    [
+      "2026-07-27, 13:04:11",
+      "https://news.ycombinator.com/item?id=49069132"
+    ],
+    [
+      "Should you wash your solar panels?",
+      "https://incoherency.co.uk/blog/stories/should-you-wash-your-solar-panels.html"
+    ]
+  ],
+  [
+    [
       "2026-07-27, 12:32:12",
       "https://news.ycombinator.com/item?id=49068738"
     ],
@@ -85,7 +105,7 @@
       "https://news.ycombinator.com/item?id=49067301"
     ],
     [
-      "Removing React.js from the codebase and adapting Htmx for UI interactivity",
+      "Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)",
       "https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/"
     ]
   ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2026-07-26, 20:02:15",
-      "https://news.ycombinator.com/item?id=49061887"
-    ],
-    [
-      "Simulate cassette tape audio profiles using FFmpeg",
-      "https://github.com/AARomanov1985/Audio-Cassette-Simulation"
-    ]
-  ],
-  [
-    [
       "2026-07-26, 18:23:06",
       "https://news.ycombinator.com/item?id=49060856"
     ],
@@ -221,32 +231,22 @@
   ],
   [
     [
-      "2026-07-26, 14:07:06",
-      "https://news.ycombinator.com/item?id=49058384"
-    ],
-    [
-      "3D-printed F-14 Tomcat uses FPGA recreation of the first microprocessor",
-      "https://www.tomshardware.com/pc-components/cpus/3d-printed-f-14-tomcat-uses-an-fpga-recreation-of-the-worlds-first-microprocessor-cadcs-mp944-chip-controls-the-fighters-swing-wing-system-among-other-things"
-    ]
-  ],
-  [
-    [
-      "2026-07-24, 10:28:33",
-      "https://news.ycombinator.com/item?id=49033522"
-    ],
-    [
-      "Measuring developer productivity with the DX Core 4",
-      "https://getdx.com/research/measuring-developer-productivity-with-the-dx-core-4/"
-    ]
-  ],
-  [
-    [
       "2026-07-24, 09:30:03",
       "https://news.ycombinator.com/item?id=49033114"
     ],
     [
       "Towards a Theory of Bugs: The Ruliology of the Unexpected",
       "https://writings.stephenwolfram.com/2026/07/towards-a-theory-of-bugs-the-ruliology-of-the-unexpected/"
+    ]
+  ],
+  [
+    [
+      "2026-07-23, 19:21:41",
+      "https://news.ycombinator.com/item?id=49026755"
+    ],
+    [
+      "First Robotic Satellite Servicer Launched",
+      "https://www.nrl.navy.mil/Media/News/Article/4551871/robotic-servicing-of-geosynchronous-satellites-launches-into-orbit/"
     ]
   ],
   [
