@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-07-27, 17:02:41",
+      "https://news.ycombinator.com/item?id=49072523"
+    ],
+    [
+      "UpCodes (YC S17) is hiring remote AE's to help make buildings cheaper",
+      "https://up.codes/careers?utm_source=HN"
+    ]
+  ],
+  [
+    [
+      "2026-07-27, 16:59:08",
+      "https://news.ycombinator.com/item?id=49072462"
+    ],
+    [
+      "Show HN: FeyNoBg – Automatic background removal model and training library",
+      "https://usefeyn.com/blog/feynobg/"
+    ]
+  ],
+  [
+    [
+      "2026-07-27, 16:52:22",
+      "https://news.ycombinator.com/item?id=49072361"
+    ],
+    [
+      "MAI-Cyber 1",
+      "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/"
+    ]
+  ],
+  [
+    [
+      "2026-07-27, 16:49:08",
+      "https://news.ycombinator.com/item?id=49072310"
+    ],
+    [
+      "Decathlon Germany adds Wero payment option to decathlon.de website",
+      "https://www.sgieurope.com/e-commerce/decathlon-germany-launches-wero-payment-on-its-website/122397.article"
+    ]
+  ],
+  [
+    [
+      "2026-07-27, 16:25:45",
+      "https://news.ycombinator.com/item?id=49071915"
+    ],
+    [
+      "Show HN: Infrawrench – a tool to manage cloud and svcs with workflows and chat",
+      "https://infrawrench.com"
+    ]
+  ],
+  [
+    [
       "2026-07-27, 16:02:00",
       "https://news.ycombinator.com/item?id=49071512"
     ],
@@ -21,12 +71,12 @@
   ],
   [
     [
-      "2026-07-27, 15:11:51",
-      "https://news.ycombinator.com/item?id=49070820"
+      "2026-07-27, 15:08:16",
+      "https://news.ycombinator.com/item?id=49070756"
     ],
     [
-      "Minecraft Java raises recommended memory to 16GB ahead of Vulkan transition",
-      "https://videocardz.com/newz/minecraft-java-edition-raises-recommended-memory-to-16gb-ahead-of-vulkan-transition"
+      "Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles",
+      "https://eaton-works.com/2026/07/27/my-eicher-hack/"
     ]
   ],
   [
@@ -61,46 +111,6 @@
   ],
   [
     [
-      "2026-07-27, 12:44:47",
-      "https://news.ycombinator.com/item?id=49068870"
-    ],
-    [
-      "108 PRs in eight days: Accidentally discovering loop engineering",
-      "https://brittany-ellich.offprint.app/a/3mrjj34puva23-108-prs-in-eight-days-accidentally-discovering-loop-engineering"
-    ]
-  ],
-  [
-    [
-      "2026-07-27, 12:32:12",
-      "https://news.ycombinator.com/item?id=49068738"
-    ],
-    [
-      "AI companies are shredding rare books",
-      "https://twitter.com/HedgieMarkets/status/2081534588485296565"
-    ]
-  ],
-  [
-    [
-      "2026-07-27, 12:29:24",
-      "https://news.ycombinator.com/item?id=49068711"
-    ],
-    [
-      "The Proof Machine (2016)",
-      "https://incredible.pm/"
-    ]
-  ],
-  [
-    [
-      "2026-07-27, 11:19:33",
-      "https://news.ycombinator.com/item?id=49067919"
-    ],
-    [
-      "Google Chrome Arrives on ARM64 Linux, Widevine DRM Included",
-      "https://www.omgubuntu.co.uk/2026/07/chrome-arm64-linux-available"
-    ]
-  ],
-  [
-    [
       "2026-07-27, 11:12:26",
       "https://news.ycombinator.com/item?id=49067854"
     ],
@@ -115,7 +125,7 @@
       "https://news.ycombinator.com/item?id=49067690"
     ],
     [
-      "The Birth of the American 12-string Guitar",
+      "The Birth of the American 12-string Guitar (2013)",
       "https://www.harpguitars.net/history/grunewald/12-string.htm"
     ]
   ],
@@ -175,18 +185,8 @@
       "https://news.ycombinator.com/item?id=49065752"
     ],
     [
-      "Kimi-K3 Releases on HuggingFace 7/27",
+      "Kimi-K3 on HuggingFace",
       "https://huggingface.co/moonshotai/Kimi-K3"
-    ]
-  ],
-  [
-    [
-      "2026-07-27, 00:19:04",
-      "https://news.ycombinator.com/item?id=49063754"
-    ],
-    [
-      "PGSimCity - How PostgreSQL Works",
-      "https://nikolays.github.io/PGSimCity/"
     ]
   ],
   [
@@ -207,16 +207,6 @@
     [
       "US citizen charged after GrapheneOS phone wipes during airport search",
       "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-26, 18:23:06",
-      "https://news.ycombinator.com/item?id=49060856"
-    ],
-    [
-      "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
-      "https://beyondloom.com/decker/"
     ]
   ],
   [
@@ -261,11 +251,21 @@
   ],
   [
     [
+      "2026-07-23, 10:14:39",
+      "https://news.ycombinator.com/item?id=49019271"
+    ],
+    [
+      "Show HN: Running PrismML's Bonsai inside DRAM by breaking DDR4 timing rules",
+      "https://news.ycombinator.com/item?id=49019271"
+    ]
+  ],
+  [
+    [
       "2026-07-22, 19:40:44",
       "https://news.ycombinator.com/item?id=49012309"
     ],
     [
-      "The Computer That Helped Win World War II",
+      "The computer that helped win World War II",
       "https://spectrum.ieee.org/colossus-computer-ieee-milestone"
     ]
   ],
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=49009706"
     ],
     [
-      "Magnolias Are So Old That They're Pollinated by Beetles, Not Bees",
+      "Magnolias are so old that they're pollinated by beetles, not bees (2025)",
       "https://mymodernmet.com/magnolia-ancient-flowers-beetles/"
     ]
   ],
