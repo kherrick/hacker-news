@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-27](index.md)
 
+* [2026-07-27, 23:14:19](https://news.ycombinator.com/item?id=49076840) - [DConf 2026 in London](https://dconf.org/2026/index.html)
+* [2026-07-27, 23:04:13](https://news.ycombinator.com/item?id=49076712) - [America has become an entrepreneur's paradise](https://www.economist.com/business/2026/07/27/america-has-become-an-entrepreneurs-paradise)
 * [2026-07-27, 22:10:15](https://news.ycombinator.com/item?id=49076116) - [A missing underscore sent innocent man to prison for 18 months](https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/)
 * [2026-07-27, 22:03:49](https://news.ycombinator.com/item?id=49076057) - [Our position on open-weights models](https://www.anthropic.com/news/position-open-weights-models)
 * [2026-07-27, 20:53:29](https://news.ycombinator.com/item?id=49075386) - [Bitcoin trail, Google cookies and Uber Eats orders help tie man to Steam malware](https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest)

@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-27, 23:14:19](https://news.ycombinator.com/item?id=49076840) - [DConf 2026 in London](https://dconf.org/2026/index.html)
+* [2026-07-27, 23:04:13](https://news.ycombinator.com/item?id=49076712) - [America has become an entrepreneur's paradise](https://www.economist.com/business/2026/07/27/america-has-become-an-entrepreneurs-paradise)
 * [2026-07-27, 22:10:15](https://news.ycombinator.com/item?id=49076116) - [A missing underscore sent innocent man to prison for 18 months](https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/)
 * [2026-07-27, 22:03:49](https://news.ycombinator.com/item?id=49076057) - [Our position on open-weights models](https://www.anthropic.com/news/position-open-weights-models)
 * [2026-07-27, 20:53:29](https://news.ycombinator.com/item?id=49075386) - [Bitcoin trail, Google cookies and Uber Eats orders help tie man to Steam malware](https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest)
@@ -21,9 +23,7 @@
 * [2026-07-27, 09:58:50](https://news.ycombinator.com/item?id=49067301) - [Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)](https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/)
 * [2026-07-27, 09:06:34](https://news.ycombinator.com/item?id=49066928) - [VLC for Unity now supported on Linux](https://code.videolan.org/videolan/vlc-unity)
 * [2026-07-27, 08:27:21](https://news.ycombinator.com/item?id=49066639) - [Modern email can be built from borrowed parts](https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts/)
-* [2026-07-27, 06:18:10](https://news.ycombinator.com/item?id=49065752) - [Kimi-K3 on HuggingFace](https://huggingface.co/moonshotai/Kimi-K3)
 * [2026-07-25, 07:55:19](https://news.ycombinator.com/item?id=49045474) - [Watching Go's new garbage collector move through the heap](https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html)
-* [2026-07-24, 09:30:03](https://news.ycombinator.com/item?id=49033114) - [Towards a Theory of Bugs: The Ruliology of the Unexpected](https://writings.stephenwolfram.com/2026/07/towards-a-theory-of-bugs-the-ruliology-of-the-unexpected/)
 * [2026-07-23, 20:59:42](https://news.ycombinator.com/item?id=49027989) - [Colorblind: Checking figure accessibility for colour blind people](https://quantixed.org/2022/05/19/colorblind-checking-figure-accessibility-for-colour-blind-people/)
 * [2026-07-23, 13:11:30](https://news.ycombinator.com/item?id=49021024) - [Securing Services with Rootless Containers](https://blog.coderspirit.xyz/blog/2026/07/06/securing-services-with-rootless-containers/)
 * [2026-07-23, 13:10:06](https://news.ycombinator.com/item?id=49021007) - [Ray tracing massive amounts of animated geometry using tetrahedral cages](https://gpuopen.com/learn/ray-tracing-massive-amounts-animated-geometry/)
