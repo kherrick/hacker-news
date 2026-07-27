@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-07-27, 00:19:32](https://news.ycombinator.com/item?id=49063757) - [How the Atmos clock functions](https://atmos-atelier.de/en/atmos-uhr/)
 * [2026-07-27, 00:19:04](https://news.ycombinator.com/item?id=49063754) - [PGSimCity - How PostgreSQL Works](https://nikolays.github.io/PGSimCity/)
 * [2026-07-27, 00:03:48](https://news.ycombinator.com/item?id=49063648) - [Show HN: Port Zero – how I learned to stop worrying and love PORT=0](https://portzero.net/)
 * [2026-07-26, 23:45:09](https://news.ycombinator.com/item?id=49063523) - [Fonts In Use – Find out where a font is used](https://fontsinuse.com/)
@@ -13,7 +12,6 @@
 * [2026-07-26, 18:32:46](https://news.ycombinator.com/item?id=49060945) - [How to Block Some of the Bots](https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/)
 * [2026-07-26, 18:23:06](https://news.ycombinator.com/item?id=49060856) - [Decker, a platform that builds on the legacy of Hypercard and classic macOS](https://beyondloom.com/decker/)
 * [2026-07-26, 18:11:16](https://news.ycombinator.com/item?id=49060724) - [Introduction to Data-Oriented Design [pdf]](https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf)
-* [2026-07-26, 17:51:03](https://news.ycombinator.com/item?id=49060509) - [How AST-grep Rewrote Tree-sitter in Rust and Made It 30% Faster](https://astgrep.com/blog/tree-sitter-rust-rewrite)
 * [2026-07-26, 17:49:44](https://news.ycombinator.com/item?id=49060495) - [French firefighters face 'pyrocumulonimbus' for first time](https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time)
 * [2026-07-26, 17:29:35](https://news.ycombinator.com/item?id=49060295) - [How to Write English Prose](https://thelampmagazine.com/blog/how-to-write-english-prose)
 * [2026-07-26, 15:53:55](https://news.ycombinator.com/item?id=49059398) - [Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs](https://github.com/gmrandazzo/CheapSecurity)
@@ -24,12 +22,14 @@
 * [2026-07-26, 12:21:26](https://news.ycombinator.com/item?id=49057398) - [Go Analysis Framework: modular static analysis by go team](https://pkg.go.dev/golang.org/x/tools/go/analysis)
 * [2026-07-26, 12:00:11](https://news.ycombinator.com/item?id=49057241) - [Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy](https://swag.htmx.org/en-cad/products/htmx-4-the-game)
 * [2026-07-26, 11:53:17](https://news.ycombinator.com/item?id=49057175) - [Kill The Cookie Banner](https://killthecookiebanner.eu/)
+* [2026-07-24, 16:32:23](https://news.ycombinator.com/item?id=49038035) - [History of John Backus's functional programming project [draft]](https://softwarepreservation.computerhistory.org/FP/)
 * [2026-07-23, 14:37:13](https://news.ycombinator.com/item?id=49022355) - [I learned PCB design, 3D printing and C just to listen to music](https://pentaton.app/blog/2026-07-12-introducing-pentaton-lp/)
 * [2026-07-23, 13:29:24](https://news.ycombinator.com/item?id=49021270) - [Show HN: Physically accurate black hole you can put in your room](https://blackhole.plav.in)
 * [2026-07-23, 12:58:02](https://news.ycombinator.com/item?id=49020842) - [The Usefulness of Useless Knowledge (1939) [pdf]](https://faculty.lsu.edu/kharms/files/flexner_1939.pdf)
 * [2026-07-23, 04:25:24](https://news.ycombinator.com/item?id=49016917) - [Using sed to make indexes for books (1997)](https://www.pement.org/sed/make_indexes.txt)
+* [2026-07-22, 18:25:12](https://news.ycombinator.com/item?id=49011210) - [Jacobian Conjecture for Baby](https://muchmirul.github.io/jacobian-conjecture/)
 * [2026-07-22, 12:56:54](https://news.ycombinator.com/item?id=49006049) - [What's Under Your Feet in New York City?](https://practical.engineering/blog/2026/7/21/whats-under-your-feet-in-new-york-city)
-* [2026-07-21, 19:28:55](https://news.ycombinator.com/item?id=48997008) - [Jimothy the raccoon has a rare spinal condition. Here's what that means](https://www.popsci.com/science/whats-jimothy-raccoon-condition/)
+* [2026-07-21, 20:30:22](https://news.ycombinator.com/item?id=48997828) - [Some more things about Django I've been enjoying](https://jvns.ca/blog/2026/07/21/more-nice-django-things/)
 
 ## [Archives](archives/index.md)
 
