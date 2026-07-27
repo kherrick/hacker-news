@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-22](index.md)
 
+* [2026-07-22, 23:42:09](https://news.ycombinator.com/item?id=49015013) - [Samsung reveals Galaxy Z Fold 8 that will compete with the iPhone Ultra](https://mashable.com/tech/samsung-galaxy-z-fold-8-launch-price-specifications)
 * [2026-07-22, 23:34:00](https://news.ycombinator.com/item?id=49014937) - [If Scrubs Hurt, Your ZFS Design Is Broken](https://klarasystems.com/articles/if-scrubs-hurt-your-zfs-design-is-broken/)
 * [2026-07-22, 23:18:10](https://news.ycombinator.com/item?id=49014798) - [Why I'm building a note taking app without AI](https://withdocket.com/blog/why-im-building-a-note-taking-app-without-ai)
 * [2026-07-22, 22:49:58](https://news.ycombinator.com/item?id=49014537) - [Anthropomorphism in Children's Interactions with LLM Chatbots](https://arxiv.org/abs/2607.18250)
