@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-27](index.md)
 
+* [2026-07-27, 17:37:02](https://news.ycombinator.com/item?id=49073007) - [Canceling \"Hey\"](https://chadnauseam.com/random/cancelling-my-hey)
 * [2026-07-27, 17:02:41](https://news.ycombinator.com/item?id=49072523) - [UpCodes (YC S17) is hiring remote AE's to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
 * [2026-07-27, 16:59:08](https://news.ycombinator.com/item?id=49072462) - [Show HN: FeyNoBg – Automatic background removal model and training library](https://usefeyn.com/blog/feynobg/)
 * [2026-07-27, 16:52:22](https://news.ycombinator.com/item?id=49072361) - [MAI-Cyber 1](https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/)
