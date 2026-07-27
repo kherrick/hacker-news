@@ -4,10 +4,16 @@
 
 ### [Archives](../../index.md) for [2026-07-27](index.md)
 
+* [2026-07-27, 17:02:41](https://news.ycombinator.com/item?id=49072523) - [UpCodes (YC S17) is hiring remote AE's to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
+* [2026-07-27, 16:59:08](https://news.ycombinator.com/item?id=49072462) - [Show HN: FeyNoBg – Automatic background removal model and training library](https://usefeyn.com/blog/feynobg/)
+* [2026-07-27, 16:52:22](https://news.ycombinator.com/item?id=49072361) - [MAI-Cyber 1](https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/)
+* [2026-07-27, 16:49:08](https://news.ycombinator.com/item?id=49072310) - [Decathlon Germany adds Wero payment option to decathlon.de website](https://www.sgieurope.com/e-commerce/decathlon-germany-launches-wero-payment-on-its-website/122397.article)
+* [2026-07-27, 16:25:45](https://news.ycombinator.com/item?id=49071915) - [Show HN: Infrawrench – a tool to manage cloud and svcs with workflows and chat](https://infrawrench.com)
 * [2026-07-27, 16:02:00](https://news.ycombinator.com/item?id=49071512) - [Nvidia's $750B in Deals Reignite Circular AI Fears](https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing)
 * [2026-07-27, 15:57:15](https://news.ycombinator.com/item?id=49071441) - [All major LLMs are lib-left. Even Grok, half the time](https://unslop.run/blog/political-compass-of-llms)
 * [2026-07-27, 15:23:45](https://news.ycombinator.com/item?id=49070985) - [Kimi-K3 Technical Report [pdf]](https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf)
 * [2026-07-27, 15:11:51](https://news.ycombinator.com/item?id=49070820) - [Minecraft Java raises recommended memory to 16GB ahead of Vulkan transition](https://videocardz.com/newz/minecraft-java-edition-raises-recommended-memory-to-16gb-ahead-of-vulkan-transition)
+* [2026-07-27, 15:08:16](https://news.ycombinator.com/item?id=49070756) - [Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles](https://eaton-works.com/2026/07/27/my-eicher-hack/)
 * [2026-07-27, 14:42:41](https://news.ycombinator.com/item?id=49070427) - [Apple Will 'Watch Everything Burn' When the AI Bubble Bursts](https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/)
 * [2026-07-27, 14:22:34](https://news.ycombinator.com/item?id=49070138) - [Paged Out #9 [pdf]](https://pagedout.institute/download/PagedOut_009.pdf)
 * [2026-07-27, 14:07:48](https://news.ycombinator.com/item?id=49069939) - [AI companies spend record sums on Washington lobbying](https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db)
