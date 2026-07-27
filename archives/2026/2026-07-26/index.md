@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-26](index.md)
 
+* [2026-07-26, 23:50:25](https://news.ycombinator.com/item?id=49063570) - [Visualizing the Artemis II Mission](https://foxglove.dev/blog/visualizing-the-artemis-ii-mission)
 * [2026-07-26, 23:45:09](https://news.ycombinator.com/item?id=49063523) - [Fonts In Use – Find out where a font is used](https://fontsinuse.com/)
 * [2026-07-26, 23:35:15](https://news.ycombinator.com/item?id=49063454) - [Show HN: Distill and serve small models with frontier quality for half the cost](https://github.com/experientiallabs/world-model-optimizer)
 * [2026-07-26, 23:27:35](https://news.ycombinator.com/item?id=49063397) - [Wattage: A token-spend profiler and cost-regression gate for AI agents](https://github.com/faizannraza/wattage)
