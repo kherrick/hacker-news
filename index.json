@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=49072361"
     ],
     [
-      "MAI-Cyber 1",
+      "MAI-Cyber-1-Flash inside MDASH",
       "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/"
     ]
   ],
@@ -85,8 +85,28 @@
       "https://news.ycombinator.com/item?id=49071915"
     ],
     [
-      "Show HN: Infrawrench – a tool to manage cloud and svcs with workflows and chat",
+      "Show HN: Infrawrench – A tool to manage cloud and svcs with workflows and chat",
       "https://infrawrench.com"
+    ]
+  ],
+  [
+    [
+      "2026-07-27, 15:52:13",
+      "https://news.ycombinator.com/item?id=49071365"
+    ],
+    [
+      "Show HN: Let's Seal – Let's Encrypt for document signing, free and self-hosted",
+      "https://github.com/letsseal/letsseal"
+    ]
+  ],
+  [
+    [
+      "2026-07-27, 15:40:17",
+      "https://news.ycombinator.com/item?id=49071190"
+    ],
+    [
+      "How real are real numbers? (2004)",
+      "https://arxiv.org/abs/math/0411418"
     ]
   ],
   [
@@ -97,16 +117,6 @@
     [
       "Kimi-K3 Technical Report [pdf]",
       "https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf"
-    ]
-  ],
-  [
-    [
-      "2026-07-27, 15:10:56",
-      "https://news.ycombinator.com/item?id=49070805"
-    ],
-    [
-      "Tokio Gives Progress, Not Ordering: Scheduling 1M Tasks",
-      "https://pranitha.dev/posts/tokio-gives-progress-not-ordering/"
     ]
   ],
   [
@@ -127,16 +137,6 @@
     [
       "Paged Out #9 [pdf]",
       "https://pagedout.institute/download/PagedOut_009.pdf"
-    ]
-  ],
-  [
-    [
-      "2026-07-27, 14:07:48",
-      "https://news.ycombinator.com/item?id=49069939"
-    ],
-    [
-      "AI companies spend record sums on Washington lobbying",
-      "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2026-07-27, 00:19:04",
-      "https://news.ycombinator.com/item?id=49063754"
-    ],
-    [
-      "PGSimCity - How PostgreSQL Works",
-      "https://nikolays.github.io/PGSimCity/"
-    ]
-  ],
-  [
-    [
       "2026-07-25, 07:55:19",
       "https://news.ycombinator.com/item?id=49045474"
     ],
@@ -267,6 +257,16 @@
     [
       "First Robotic Satellite Servicer Launched",
       "https://www.nrl.navy.mil/Media/News/Article/4551871/robotic-servicing-of-geosynchronous-satellites-launches-into-orbit/"
+    ]
+  ],
+  [
+    [
+      "2026-07-23, 13:10:06",
+      "https://news.ycombinator.com/item?id=49021007"
+    ],
+    [
+      "Ray tracing massive amounts of animated geometry using tetrahedral cages",
+      "https://gpuopen.com/learn/ray-tracing-massive-amounts-animated-geometry/"
     ]
   ],
   [
