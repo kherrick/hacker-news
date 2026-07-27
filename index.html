@@ -141,11 +141,11 @@
             <h4>
               <span>2026-07-27 @ 18:43:31</span
               ><span class="points-container"
-                >Points: <span class="points">37</span></span
+                >Points: <span class="points">44</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49073942"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -162,7 +162,7 @@
             <h4>
               <span>2026-07-27 @ 18:32:09</span
               ><span class="points-container"
-                >Points: <span class="points">25</span></span
+                >Points: <span class="points">40</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49073785"
                   >Comments</a
@@ -183,7 +183,7 @@
             <h4>
               <span>2026-07-27 @ 18:25:21</span
               ><span class="points-container"
-                >Points: <span class="points">13</span></span
+                >Points: <span class="points">17</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49073665"
                   >Comments</a
@@ -205,11 +205,11 @@
             <h4>
               <span>2026-07-27 @ 18:15:35</span
               ><span class="points-container"
-                >Points: <span class="points">66</span></span
+                >Points: <span class="points">112</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49073513"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 31</span></span
               >
             </h4>
           </section>
@@ -241,11 +241,11 @@
             <h4>
               <span>2026-07-27 @ 16:59:08</span
               ><span class="points-container"
-                >Points: <span class="points">46</span></span
+                >Points: <span class="points">52</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49072462"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
             <div class="text">
@@ -347,18 +347,18 @@
             <a
               class="item"
               href="https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/"
-              >MAI-Cyber 1</a
+              >MAI-Cyber-1-Flash inside MDASH</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-07-27 @ 16:52:22</span
               ><span class="points-container"
-                >Points: <span class="points">179</span></span
+                >Points: <span class="points">184</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49072361"
                   >Comments</a
-                ><span class="descendants">: 91</span></span
+                ><span class="descendants">: 98</span></span
               >
             </h4>
           </section>
@@ -376,11 +376,11 @@
             <h4>
               <span>2026-07-27 @ 16:49:08</span
               ><span class="points-container"
-                >Points: <span class="points">206</span></span
+                >Points: <span class="points">256</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49072310"
                   >Comments</a
-                ><span class="descendants">: 142</span></span
+                ><span class="descendants">: 162</span></span
               >
             </h4>
           </section>
@@ -388,7 +388,7 @@
         <section id="49071915">
           <h3>
             <a class="item" href="https://infrawrench.com"
-              >Show HN: Infrawrench – a tool to manage cloud and svcs with
+              >Show HN: Infrawrench – A tool to manage cloud and svcs with
               workflows and chat</a
             >
           </h3>
@@ -396,11 +396,134 @@
             <h4>
               <span>2026-07-27 @ 16:25:45</span
               ><span class="points-container"
-                >Points: <span class="points">15</span></span
+                >Points: <span class="points">16</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49071915"
                   >Comments</a
                 ><span class="descendants">: 0</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49071365">
+          <h3>
+            <a class="item" href="https://github.com/letsseal/letsseal"
+              >Show HN: Let's Seal – Let's Encrypt for document signing, free
+              and self-hosted</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-27 @ 15:52:13</span
+              ><span class="points-container"
+                >Points: <span class="points">29</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49071365"
+                  >Comments</a
+                ><span class="descendants">: 11</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Currently even the person checking if a document/contract is
+                sealed or code is authentic has to also be inside the same Adobe
+                walled garden too. Verification, the part that should be free is
+                the part everyone charges for. Thats the shape Let's Encrypt
+                fixed for TLS, and I wanted the same thing for documents and
+                files.
+              </p>
+              <p>
+                The core idea therefore needed to go a bit beyond e signatures
+                and i created an open standard (SEAL), plus free tools that
+                implement it.
+              </p>
+              <p>When you seal a file, three independent things happen.</p>
+              <p>
+                1. it gets a signature from a certificate authority, chaining to
+                a public root. 2. its record is appended to an RFC 6962
+                transparency log. and 3. its SHA256 is timestamped on a public
+                blockchain (Bitcoin) via OpenTimestamps. Those three give you
+                integrity, transparency and a timestamped proof. And
+                importantly, none of those depend on Let's Seal and none are
+                gated.
+              </p>
+              <p>
+                You can verify with the tools you already have, no Let's Seal
+                account and no Let's Seal software. A sealed PDF carries a
+                standard PAdES signature, so any PDF reader validates it. A
+                sealed build artefact carries a cosign compatible signature and
+                a SLSA provenance attestation. The Bitcoin timestamp verifies
+                with stock ots.
+              </p>
+              <p>3 ways to use it.</p>
+              <p>
+                1. The free web app. We kindly have backing from Backblaze to
+                cover storage costs for the foreseeable. So you can upload or
+                issue any number of documents, get a public proof page at
+                /d/&lt;hash&gt; and verify it at
+                <a href="https://verify.letsseal.org"
+                  >https://verify.letsseal.org</a
+                >
+                for free. Multiple accounts, multiple seats, enterprise
+                functions. Free.
+              </p>
+              <p>
+                2. Self host the whole thing. Apache-2.0, one Next.js app plus a
+                signing service that holds the CA key on localhost. Storage is
+                any S3-compatible bucket or local disk. If you'd rather run your
+                own root of trust, you can.
+              </p>
+              <p>
+                3. Programmatically. via the CLI and a hosted API. This is the
+                Let's Encrypt/certbot angle. Seal or anchor things from CI, or
+                have a backend seal every invoice or report as its generated.
+              </p>
+              <p>
+                The CLI is sealbot. It runs anywhere Node runs (npx sealbot) and
+                there are native binaries for macOS, Linux and Windows with no
+                runtime needed.
+              </p>
+              <p>
+                Theres a GitHub Action wrapping the same tool, so a release
+                workflow can seal its own artifacts. Its what proves our own
+                releases.
+              </p>
+              <p>
+                KYC is semi-handled (to a degree) it's hard to do for free (at
+                least for now), but issuers (your companies or websites) domains
+                can be authenticated with a DNS record added, which proves the
+                issuer has control over a domain. Sign-in can be authenticated
+                to an email via Google Sign in and a few others will be added to
+                the web app in time (Same as Docusign currently). Ideas welcome
+                on future KYC should there be a demand.
+              </p>
+              <p>Feedback welcome on the standard (SPEC.md in the repo).</p>
+              <p>
+                Repo:
+                <a href="https://github.com/letsseal/letsseal"
+                  >https://github.com/letsseal/letsseal</a
+                >
+                Site: letsseal.org
+              </p>
+              <p>Thx</p>
+            </div>
+          </section>
+        </section>
+        <section id="49071190">
+          <h3>
+            <a class="item" href="https://arxiv.org/abs/math/0411418"
+              >How real are real numbers? (2004)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-27 @ 15:40:17</span
+              ><span class="points-container"
+                >Points: <span class="points">21</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49071190"
+                  >Comments</a
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -417,11 +540,11 @@
             <h4>
               <span>2026-07-27 @ 15:23:45</span
               ><span class="points-container"
-                >Points: <span class="points">340</span></span
+                >Points: <span class="points">345</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49070985"
                   >Comments</a
-                ><span class="descendants">: 139</span></span
+                ><span class="descendants">: 150</span></span
               >
             </h4>
             <div class="text">
@@ -430,27 +553,6 @@
                 >https://news.ycombinator.com/item?id=49065752</a
               >
             </div>
-          </section>
-        </section>
-        <section id="49070805">
-          <h3>
-            <a
-              class="item"
-              href="https://pranitha.dev/posts/tokio-gives-progress-not-ordering/"
-              >Tokio Gives Progress, Not Ordering: Scheduling 1M Tasks</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-27 @ 15:10:56</span
-              ><span class="points-container"
-                >Points: <span class="points">7</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49070805"
-                  >Comments</a
-                ><span class="descendants">: 0</span></span
-              >
-            </h4>
           </section>
         </section>
         <section id="49070756">
@@ -466,11 +568,11 @@
             <h4>
               <span>2026-07-27 @ 15:08:16</span
               ><span class="points-container"
-                >Points: <span class="points">69</span></span
+                >Points: <span class="points">86</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49070756"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 20</span></span
               >
             </h4>
           </section>
@@ -487,37 +589,13 @@
             <h4>
               <span>2026-07-27 @ 14:22:34</span
               ><span class="points-container"
-                >Points: <span class="points">103</span></span
+                >Points: <span class="points">113</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49070138"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="49069939">
-          <h3>
-            <a
-              class="item"
-              href="https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db"
-              >AI companies spend record sums on Washington lobbying</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-27 @ 14:07:48</span
-              ><span class="points-container"
-                >Points: <span class="points">236</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49069939"
-                  >Comments</a
-                ><span class="descendants">: 125</span></span
-              >
-            </h4>
-            <div class="text">
-              <a href="https://archive.ph/PASMJ">https://archive.ph/PASMJ</a>
-            </div>
           </section>
         </section>
         <section id="49069132">
@@ -532,11 +610,11 @@
             <h4>
               <span>2026-07-27 @ 13:04:11</span
               ><span class="points-container"
-                >Points: <span class="points">194</span></span
+                >Points: <span class="points">199</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49069132"
                   >Comments</a
-                ><span class="descendants">: 176</span></span
+                ><span class="descendants">: 186</span></span
               >
             </h4>
           </section>
@@ -553,11 +631,11 @@
             <h4>
               <span>2026-07-27 @ 11:12:26</span
               ><span class="points-container"
-                >Points: <span class="points">381</span></span
+                >Points: <span class="points">394</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49067854"
                   >Comments</a
-                ><span class="descendants">: 291</span></span
+                ><span class="descendants">: 296</span></span
               >
             </h4>
           </section>
@@ -594,11 +672,11 @@
             <h4>
               <span>2026-07-27 @ 10:04:48</span
               ><span class="points-container"
-                >Points: <span class="points">139</span></span
+                >Points: <span class="points">145</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49067352"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -616,11 +694,11 @@
             <h4>
               <span>2026-07-27 @ 09:58:50</span
               ><span class="points-container"
-                >Points: <span class="points">183</span></span
+                >Points: <span class="points">189</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49067301"
                   >Comments</a
-                ><span class="descendants">: 127</span></span
+                ><span class="descendants">: 130</span></span
               >
             </h4>
           </section>
@@ -635,7 +713,7 @@
             <h4>
               <span>2026-07-27 @ 09:23:29</span
               ><span class="points-container"
-                >Points: <span class="points">64</span></span
+                >Points: <span class="points">66</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49067043"
                   >Comments</a
@@ -654,7 +732,7 @@
             <h4>
               <span>2026-07-27 @ 09:06:34</span
               ><span class="points-container"
-                >Points: <span class="points">124</span></span
+                >Points: <span class="points">126</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49066928"
                   >Comments</a
@@ -675,11 +753,11 @@
             <h4>
               <span>2026-07-27 @ 08:27:21</span
               ><span class="points-container"
-                >Points: <span class="points">144</span></span
+                >Points: <span class="points">148</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49066639"
                   >Comments</a
-                ><span class="descendants">: 65</span></span
+                ><span class="descendants">: 76</span></span
               >
             </h4>
           </section>
@@ -694,11 +772,11 @@
             <h4>
               <span>2026-07-27 @ 06:18:10</span
               ><span class="points-container"
-                >Points: <span class="points">1185</span></span
+                >Points: <span class="points">1217</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49065752"
                   >Comments</a
-                ><span class="descendants">: 464</span></span
+                ><span class="descendants">: 475</span></span
               >
             </h4>
             <div class="text">
@@ -707,25 +785,6 @@
                 >https://news.ycombinator.com/item?id=49070985</a
               >
             </div>
-          </section>
-        </section>
-        <section id="49063754">
-          <h3>
-            <a class="item" href="https://nikolays.github.io/PGSimCity/"
-              >PGSimCity - How PostgreSQL Works</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-27 @ 00:19:04</span
-              ><span class="points-container"
-                >Points: <span class="points">863</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49063754"
-                  >Comments</a
-                ><span class="descendants">: 83</span></span
-              >
-            </h4>
           </section>
         </section>
         <section id="49045474">
@@ -740,11 +799,11 @@
             <h4>
               <span>2026-07-25 @ 07:55:19</span
               ><span class="points-container"
-                >Points: <span class="points">66</span></span
+                >Points: <span class="points">89</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49045474"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -761,11 +820,11 @@
             <h4>
               <span>2026-07-24 @ 09:30:03</span
               ><span class="points-container"
-                >Points: <span class="points">50</span></span
+                >Points: <span class="points">53</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49033114"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 28</span></span
               >
             </h4>
           </section>
@@ -782,11 +841,33 @@
             <h4>
               <span>2026-07-23 @ 19:21:41</span
               ><span class="points-container"
-                >Points: <span class="points">62</span></span
+                >Points: <span class="points">66</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49026755"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 33</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49021007">
+          <h3>
+            <a
+              class="item"
+              href="https://gpuopen.com/learn/ray-tracing-massive-amounts-animated-geometry/"
+              >Ray tracing massive amounts of animated geometry using
+              tetrahedral cages</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-23 @ 13:10:06</span
+              ><span class="points-container"
+                >Points: <span class="points">11</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49021007"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -803,11 +884,11 @@
             <h4>
               <span>2026-07-23 @ 13:08:52</span
               ><span class="points-container"
-                >Points: <span class="points">99</span></span
+                >Points: <span class="points">111</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49020993"
                   >Comments</a
-                ><span class="descendants">: 45</span></span
+                ><span class="descendants">: 48</span></span
               >
             </h4>
           </section>
@@ -824,11 +905,11 @@
             <h4>
               <span>2026-07-22 @ 23:34:00</span
               ><span class="points-container"
-                >Points: <span class="points">20</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49014937"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -845,11 +926,11 @@
             <h4>
               <span>2026-07-22 @ 19:40:44</span
               ><span class="points-container"
-                >Points: <span class="points">116</span></span
+                >Points: <span class="points">126</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49012309"
                   >Comments</a
-                ><span class="descendants">: 53</span></span
+                ><span class="descendants">: 54</span></span
               >
             </h4>
           </section>
