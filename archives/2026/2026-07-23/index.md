@@ -65,6 +65,7 @@
 * [2026-07-23, 13:49:28](https://news.ycombinator.com/item?id=49021571) - [Private healthcare makes industries less innovative. It's time for change](https://werd.io/private-healthcare-makes-industries-less-innovative-its-time-for-change/)
 * [2026-07-23, 13:49:17](https://news.ycombinator.com/item?id=49021569) - [What happens when the information runs out](https://blog.jimgrey.net/2026/06/30/what-happens-when-the-information-runs-out/)
 * [2026-07-23, 13:36:15](https://news.ycombinator.com/item?id=49021361) - [Silent Replacement of Trusted macOS App Executables](https://mysk.blog/2026/07/23/macos-overwrite-app-executables/)
+* [2026-07-23, 13:29:24](https://news.ycombinator.com/item?id=49021270) - [Show HN: Physically accurate black hole you can put in your room](https://blackhole.plav.in)
 * [2026-07-23, 13:10:02](https://news.ycombinator.com/item?id=49021006) - [Alphabet's cash burn raises alarm for Big Tech as AI spending climbs](https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/)
 * [2026-07-23, 13:09:10](https://news.ycombinator.com/item?id=49020999) - [AI Companies Are Trying to Hide a Staggering Amount of Debt](https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet)
 * [2026-07-23, 13:00:03](https://news.ycombinator.com/item?id=49020868) - [OpenAI and Anthropic unite against open-weight AI risks to their bottom line](https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china)
