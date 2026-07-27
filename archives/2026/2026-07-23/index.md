@@ -69,6 +69,7 @@
 * [2026-07-23, 13:29:24](https://news.ycombinator.com/item?id=49021270) - [Show HN: Physically accurate black hole you can put in your room](https://blackhole.plav.in)
 * [2026-07-23, 13:10:02](https://news.ycombinator.com/item?id=49021006) - [Alphabet's cash burn raises alarm for Big Tech as AI spending climbs](https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/)
 * [2026-07-23, 13:09:10](https://news.ycombinator.com/item?id=49020999) - [AI Companies Are Trying to Hide a Staggering Amount of Debt](https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet)
+* [2026-07-23, 13:08:52](https://news.ycombinator.com/item?id=49020993) - [Glue bonds to nonstick surfaces and wipes clean with ethanol](https://cen.acs.org/materials/adhesives/glue-bonds-nonstick-surfaces-wipes-clean/104/web/2026/07)
 * [2026-07-23, 13:00:03](https://news.ycombinator.com/item?id=49020868) - [OpenAI and Anthropic unite against open-weight AI risks to their bottom line](https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china)
 * [2026-07-23, 12:58:02](https://news.ycombinator.com/item?id=49020842) - [The Usefulness of Useless Knowledge (1939) [pdf]](https://faculty.lsu.edu/kharms/files/flexner_1939.pdf)
 * [2026-07-23, 12:49:10](https://news.ycombinator.com/item?id=49020751) - [Self-host your mail server](https://blog.haschek.at/2026/you-should-selfhost-your-mail.html)
