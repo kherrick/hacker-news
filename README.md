@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-27, 06:18:10](https://news.ycombinator.com/item?id=49065752) - [Kimi-K3 Releases on HuggingFace 6/27](https://huggingface.co/moonshotai/Kimi-K3)
+* [2026-07-27, 05:31:33](https://news.ycombinator.com/item?id=49065498) - [EU Fines Google $1.02B for Favoring Its Own Services](https://www.wsj.com/tech/google-fined-1-02-billion-under-eus-tech-antitrust-rules-7e8ae1fb)
 * [2026-07-27, 00:19:04](https://news.ycombinator.com/item?id=49063754) - [PGSimCity - How PostgreSQL Works](https://nikolays.github.io/PGSimCity/)
 * [2026-07-26, 23:45:09](https://news.ycombinator.com/item?id=49063523) - [Fonts In Use – Find out where a font is used](https://fontsinuse.com/)
 * [2026-07-26, 22:46:10](https://news.ycombinator.com/item?id=49063175) - [Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary](https://github.com/vercel-labs/scriptc)
@@ -26,10 +28,8 @@
 * [2026-07-23, 13:29:24](https://news.ycombinator.com/item?id=49021270) - [Show HN: Physically accurate black hole you can put in your room](https://blackhole.plav.in)
 * [2026-07-23, 12:58:02](https://news.ycombinator.com/item?id=49020842) - [The Usefulness of Useless Knowledge (1939) [pdf]](https://faculty.lsu.edu/kharms/files/flexner_1939.pdf)
 * [2026-07-23, 12:01:52](https://news.ycombinator.com/item?id=49020219) - [I wanted a clock that never needed setting. Things escalated](https://arstechnica.com/gadgets/2026/07/i-wanted-a-clock-that-never-needed-setting-things-escalated/)
-* [2026-07-23, 04:25:24](https://news.ycombinator.com/item?id=49016917) - [Using sed to make indexes for books (1997)](https://www.pement.org/sed/make_indexes.txt)
 * [2026-07-22, 19:42:48](https://news.ycombinator.com/item?id=49012339) - [Why care about programming languages](https://ebellani.github.io/blog/2026/why-care-about-programming-languages/)
-* [2026-07-22, 12:56:54](https://news.ycombinator.com/item?id=49006049) - [What's Under Your Feet in New York City?](https://practical.engineering/blog/2026/7/21/whats-under-your-feet-in-new-york-city)
-* [2026-07-21, 20:30:22](https://news.ycombinator.com/item?id=48997828) - [Some more things about Django I've been enjoying](https://jvns.ca/blog/2026/07/21/more-nice-django-things/)
+* [2026-07-22, 15:43:17](https://news.ycombinator.com/item?id=49008615) - [The Zen of Parallel Programming: The Posture of a Kernel](https://smolnero.com/posts/the-zen-of-parallel-programming-the-posture-of-a-kernel)
 
 ## [Archives](archives/index.md)
 
