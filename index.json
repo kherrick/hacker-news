@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-07-27, 20:50:58",
-      "https://news.ycombinator.com/item?id=49075350"
+      "2026-07-27, 20:15:50",
+      "https://news.ycombinator.com/item?id=49074991"
     ],
     [
-      "US DOT deleting bike lane references",
-      "https://www.npr.org/2026/07/23/nx-s1-5900901/bike-lanes-dot-websites"
+      "Forth",
+      "https://xkcd.com/3277/"
+    ]
+  ],
+  [
+    [
+      "2026-07-27, 20:14:12",
+      "https://news.ycombinator.com/item?id=49074974"
+    ],
+    [
+      "Platform engineering 2.0 mitigates AI security and compliance risks",
+      "https://platformengineering.org/blog/how-platform-engineering-2-0-mitigates-ai-security-and-compliance-risks"
     ]
   ],
   [
@@ -17,6 +27,16 @@
     [
       "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals",
       "https://www.rise-reforming.com"
+    ]
+  ],
+  [
+    [
+      "2026-07-27, 19:47:06",
+      "https://news.ycombinator.com/item?id=49074693"
+    ],
+    [
+      "The Author of Clean Code No Longer Reviews AI-Generated Code",
+      "https://news.ycombinator.com/item?id=49074693"
     ]
   ],
   [
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2026-07-27, 15:52:13",
-      "https://news.ycombinator.com/item?id=49071365"
-    ],
-    [
-      "Show HN: Let's Seal – Let's Encrypt for document signing, free and self-hosted",
-      "https://github.com/letsseal/letsseal"
-    ]
-  ],
-  [
-    [
       "2026-07-27, 15:40:17",
       "https://news.ycombinator.com/item?id=49071190"
     ],
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2026-07-27, 09:23:29",
-      "https://news.ycombinator.com/item?id=49067043"
-    ],
-    [
-      "Shay Locomotives",
-      "https://www.shaylocomotives.com/"
-    ]
-  ],
-  [
-    [
       "2026-07-27, 09:06:34",
       "https://news.ycombinator.com/item?id=49066928"
     ],
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2026-07-23, 19:21:41",
-      "https://news.ycombinator.com/item?id=49026755"
-    ],
-    [
-      "First Robotic Satellite Servicer Launched",
-      "https://www.nrl.navy.mil/Media/News/Article/4551871/robotic-servicing-of-geosynchronous-satellites-launches-into-orbit/"
-    ]
-  ],
-  [
-    [
       "2026-07-23, 13:11:30",
       "https://news.ycombinator.com/item?id=49021024"
     ],
@@ -297,6 +287,16 @@
     [
       "The computer that helped win World War II",
       "https://spectrum.ieee.org/colossus-computer-ieee-milestone"
+    ]
+  ],
+  [
+    [
+      "2026-07-22, 19:05:23",
+      "https://news.ycombinator.com/item?id=49011834"
+    ],
+    [
+      "Building GCC 1.27",
+      "http://kristerw.blogspot.com/2019/01/building-gcc-127.html"
     ]
   ]
 ]
