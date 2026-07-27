@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-27, 06:18:10",
+      "https://news.ycombinator.com/item?id=49065752"
+    ],
+    [
+      "Kimi-K3 Releases on HuggingFace 6/27",
+      "https://huggingface.co/moonshotai/Kimi-K3"
+    ]
+  ],
+  [
+    [
+      "2026-07-27, 05:31:33",
+      "https://news.ycombinator.com/item?id=49065498"
+    ],
+    [
+      "EU Fines Google $1.02B for Favoring Its Own Services",
+      "https://www.wsj.com/tech/google-fined-1-02-billion-under-eus-tech-antitrust-rules-7e8ae1fb"
+    ]
+  ],
+  [
+    [
       "2026-07-27, 00:19:04",
       "https://news.ycombinator.com/item?id=49063754"
     ],
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2026-07-23, 04:25:24",
-      "https://news.ycombinator.com/item?id=49016917"
-    ],
-    [
-      "Using sed to make indexes for books (1997)",
-      "https://www.pement.org/sed/make_indexes.txt"
-    ]
-  ],
-  [
-    [
       "2026-07-22, 19:42:48",
       "https://news.ycombinator.com/item?id=49012339"
     ],
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2026-07-22, 12:56:54",
-      "https://news.ycombinator.com/item?id=49006049"
+      "2026-07-22, 15:43:17",
+      "https://news.ycombinator.com/item?id=49008615"
     ],
     [
-      "What's Under Your Feet in New York City?",
-      "https://practical.engineering/blog/2026/7/21/whats-under-your-feet-in-new-york-city"
-    ]
-  ],
-  [
-    [
-      "2026-07-21, 20:30:22",
-      "https://news.ycombinator.com/item?id=48997828"
-    ],
-    [
-      "Some more things about Django I've been enjoying",
-      "https://jvns.ca/blog/2026/07/21/more-nice-django-things/"
+      "The Zen of Parallel Programming: The Posture of a Kernel",
+      "https://smolnero.com/posts/the-zen-of-parallel-programming-the-posture-of-a-kernel"
     ]
   ]
 ]
