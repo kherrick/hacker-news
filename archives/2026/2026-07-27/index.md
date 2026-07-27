@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-07-27](index.md)
 
+* [2026-07-27, 18:43:31](https://news.ycombinator.com/item?id=49073942) - [Self-contained highly-portable Python distributions](https://gregoryszorc.com/docs/python-build-standalone/main/)
+* [2026-07-27, 18:32:09](https://news.ycombinator.com/item?id=49073785) - [The Artist Who Colored Ghibli](https://animationobsessive.substack.com/p/the-artist-who-colored-ghibli)
 * [2026-07-27, 18:26:59](https://news.ycombinator.com/item?id=49073691) - [Exercise works for depression. So why isn't it treated like real medicine?](https://bigthink.com/mind-behavior/exercise-works-for-depression-so-why-isnt-it-treated-like-real-medicine/)
+* [2026-07-27, 18:25:21](https://news.ycombinator.com/item?id=49073665) - [Bytecode-to-Source Mapping](https://tidefield.dev/bytecode-to-source-mapping/)
 * [2026-07-27, 18:15:35](https://news.ycombinator.com/item?id=49073513) - [Judge Rejects Google's Attempt to DMCA Its Way Out of Being Scraped](https://www.techdirt.com/2026/07/27/judge-rejects-googles-attempt-to-dmca-its-way-out-of-being-scraped/)
 * [2026-07-27, 17:56:20](https://news.ycombinator.com/item?id=49073267) - [Jensen Huang's first-ever post on X is in defense of open access to AI models](https://www.pcgamer.com/software/ai/jensen-huangs-first-ever-post-on-x-is-in-defense-of-open-access-to-ai-models-alongside-google-openai-and-meta/)
 * [2026-07-27, 17:37:02](https://news.ycombinator.com/item?id=49073007) - [Canceling \"Hey\"](https://chadnauseam.com/random/cancelling-my-hey)
@@ -17,6 +20,7 @@
 * [2026-07-27, 15:57:15](https://news.ycombinator.com/item?id=49071441) - [All major LLMs are lib-left. Even Grok, half the time](https://unslop.run/blog/political-compass-of-llms)
 * [2026-07-27, 15:23:45](https://news.ycombinator.com/item?id=49070985) - [Kimi-K3 Technical Report [pdf]](https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf)
 * [2026-07-27, 15:11:51](https://news.ycombinator.com/item?id=49070820) - [Minecraft Java raises recommended memory to 16GB ahead of Vulkan transition](https://videocardz.com/newz/minecraft-java-edition-raises-recommended-memory-to-16gb-ahead-of-vulkan-transition)
+* [2026-07-27, 15:10:56](https://news.ycombinator.com/item?id=49070805) - [Tokio Gives Progress, Not Ordering: Scheduling 1M Tasks](https://pranitha.dev/posts/tokio-gives-progress-not-ordering/)
 * [2026-07-27, 15:08:16](https://news.ycombinator.com/item?id=49070756) - [Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles](https://eaton-works.com/2026/07/27/my-eicher-hack/)
 * [2026-07-27, 14:42:41](https://news.ycombinator.com/item?id=49070427) - [Apple Will 'Watch Everything Burn' When the AI Bubble Bursts](https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/)
 * [2026-07-27, 14:22:34](https://news.ycombinator.com/item?id=49070138) - [Paged Out #9 [pdf]](https://pagedout.institute/download/PagedOut_009.pdf)
