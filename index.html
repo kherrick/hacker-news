@@ -129,6 +129,197 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="49072523">
+          <h3>
+            <a class="item" href="https://up.codes/careers?utm_source=HN"
+              >UpCodes (YC S17) is hiring remote AE's to help make buildings
+              cheaper</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-27 @ 17:02:41</span
+              ><span class="points-container"
+                >Points: <span class="points">1</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49072462">
+          <h3>
+            <a class="item" href="https://usefeyn.com/blog/feynobg/"
+              >Show HN: FeyNoBg – Automatic background removal model and
+              training library</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-27 @ 16:59:08</span
+              ><span class="points-container"
+                >Points: <span class="points">24</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49072462"
+                  >Comments</a
+                ><span class="descendants">: 5</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Today, we’re releasing FeyNoBg, an automatic background removal
+                model. Alongside it, we're open-sourcing NoBg, the Python
+                library we built to train and run it.
+              </p>
+              <p>
+                Try the model here:
+                <a href="https://huggingface.co/spaces/feyninc/feynobg"
+                  >https://huggingface.co/spaces/feyninc/feynobg</a
+                >. Check out the library here:
+                <a href="https://github.com/feyninc/nobg"
+                  >https://github.com/feyninc/nobg</a
+                >
+              </p>
+              <p>Some sample outputs:</p>
+              <p>
+                (1) Soccer Freekick:
+                <a
+                  href="https://drive.google.com/file/d/1MZkAGLwbhNVOZ0Oi7XvpCfSEu9QPCbwj/view?usp=sharing"
+                  >https://drive.google.com/file/d/1MZkAGLwbhNVOZ0Oi7XvpCfSEu9Q...</a
+                >
+              </p>
+              <p>
+                (2) Hair in wind:
+                <a
+                  href="https://drive.google.com/file/d/1Odc2m0XMVH9uZtvI_KjaRbXzhLLdGK8Z/view?usp=sharing"
+                  >https://drive.google.com/file/d/1Odc2m0XMVH9uZtvI_KjaRbXzhLL...</a
+                >
+              </p>
+              <p>
+                (3) Bicycle with visible spokes:
+                <a
+                  href="https://drive.google.com/file/d/1h99ahjfrtS1MFQJJgiKE2fuM3HZyQ-QJ/view?usp=sharing"
+                  >https://drive.google.com/file/d/1h99ahjfrtS1MFQJJgiKE2fuM3HZ...</a
+                >
+              </p>
+              <p>
+                (4) Live Demo video:
+                <a href="https://youtu.be/b1heHPvY8BM"
+                  >https://youtu.be/b1heHPvY8BM</a
+                >
+              </p>
+              <p>
+                Background removal separates an image's subject from its
+                surrounding. We've all tried it at some point. Often it is to
+                reuse the subject in a different artifact. Nowadays, it is
+                common to make chat stickers out of it. It is one of the most
+                common but under-appreciated uses of AI. It is also surprisingly
+                complex. Models can be easily confused by camouflage, motion
+                blur, or fine structures like hair.
+              </p>
+              <p>
+                The task requires two skills. First, a model has to identify the
+                foreground. Second, it has to trace the foreground’s boundary
+                and estimate an opacity value for each pixel. Generally, these
+                skills are taught with different datasets. That creates a
+                failure point. A poor training mix can improve one skill at the
+                expense of the other. We saw this in our controlled evaluation.
+                A training run with just the MaskFactory dataset improved on the
+                CAMO benchmark but regressed on DIS5K.
+              </p>
+              <p>
+                For FeyNoBg, we took an interpretability-first approach to
+                training. We first studied how BiRefNet’s stages contribute to
+                finding the foreground and reconstructing its boundary. We
+                discovered that the third stage of it's feature extractor holds
+                a lot of information. Both localization and boundary
+                reconstruction depend heavily on the feature map produced here.
+              </p>
+              <p>
+                This led us to expand this stage from 18 to 24 blocks while
+                preserving the pre-trained weights. We then trained FeyNoBg on
+                26.1K diverse examples assembled from 10 datasets. The goal was
+                to improve foreground identification and boundary precision
+                without sacrificing either one.
+              </p>
+              <p>
+                Across eight benchmarks, FeyNoBg achieves the best published
+                score on four and comes within 2% of the leader on the rest.
+              </p>
+              <p>
+                Building FeyNoBg also exposed a tooling problem. Image matting
+                models are usually released as isolated repositories with
+                incompatible preprocessing, training, and evaluation code. We
+                built NoBg to solve this. NoBg puts these workflows behind one
+                Python interface. It supports BiRefNet today, with more
+                architectures coming. We hope you build something exciting with
+                it!
+              </p>
+              <p>Happy to answer any questions!</p>
+            </div>
+          </section>
+        </section>
+        <section id="49072361">
+          <h3>
+            <a
+              class="item"
+              href="https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/"
+              >MAI-Cyber 1</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-27 @ 16:52:22</span
+              ><span class="points-container"
+                >Points: <span class="points">80</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49072361"
+                  >Comments</a
+                ><span class="descendants">: 21</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49072310">
+          <h3>
+            <a
+              class="item"
+              href="https://www.sgieurope.com/e-commerce/decathlon-germany-launches-wero-payment-on-its-website/122397.article"
+              >Decathlon Germany adds Wero payment option to decathlon.de
+              website</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-27 @ 16:49:08</span
+              ><span class="points-container"
+                >Points: <span class="points">87</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49072310"
+                  >Comments</a
+                ><span class="descendants">: 73</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49071915">
+          <h3>
+            <a class="item" href="https://infrawrench.com"
+              >Show HN: Infrawrench – a tool to manage cloud and svcs with
+              workflows and chat</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-27 @ 16:25:45</span
+              ><span class="points-container"
+                >Points: <span class="points">7</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49071915"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="49071512">
           <h3>
             <a
@@ -141,11 +332,11 @@
             <h4>
               <span>2026-07-27 @ 16:02:00</span
               ><span class="points-container"
-                >Points: <span class="points">57</span></span
+                >Points: <span class="points">65</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49071512"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 47</span></span
               >
             </h4>
           </section>
@@ -162,11 +353,11 @@
             <h4>
               <span>2026-07-27 @ 15:23:45</span
               ><span class="points-container"
-                >Points: <span class="points">289</span></span
+                >Points: <span class="points">306</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49070985"
                   >Comments</a
-                ><span class="descendants">: 106</span></span
+                ><span class="descendants">: 116</span></span
               >
             </h4>
             <div class="text">
@@ -177,24 +368,24 @@
             </div>
           </section>
         </section>
-        <section id="49070820">
+        <section id="49070756">
           <h3>
             <a
               class="item"
-              href="https://videocardz.com/newz/minecraft-java-edition-raises-recommended-memory-to-16gb-ahead-of-vulkan-transition"
-              >Minecraft Java raises recommended memory to 16GB ahead of Vulkan
-              transition</a
+              href="https://eaton-works.com/2026/07/27/my-eicher-hack/"
+              >Exploiting Volvo/Eicher's fleet platform to gain control over all
+              users/vehicles</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-07-27 @ 15:11:51</span
+              <span>2026-07-27 @ 15:08:16</span
               ><span class="points-container"
-                >Points: <span class="points">56</span></span
+                >Points: <span class="points">31</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49070820"
+                ><a href="https://news.ycombinator.com/item?id=49070756"
                   >Comments</a
-                ><span class="descendants">: 56</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -211,11 +402,11 @@
             <h4>
               <span>2026-07-27 @ 14:22:34</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">54</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49070138"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -232,11 +423,11 @@
             <h4>
               <span>2026-07-27 @ 14:07:48</span
               ><span class="points-container"
-                >Points: <span class="points">180</span></span
+                >Points: <span class="points">198</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49069939"
                   >Comments</a
-                ><span class="descendants">: 79</span></span
+                ><span class="descendants">: 97</span></span
               >
             </h4>
             <div class="text">
@@ -256,100 +447,11 @@
             <h4>
               <span>2026-07-27 @ 13:04:11</span
               ><span class="points-container"
-                >Points: <span class="points">155</span></span
+                >Points: <span class="points">162</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49069132"
                   >Comments</a
-                ><span class="descendants">: 129</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49068870">
-          <h3>
-            <a
-              class="item"
-              href="https://brittany-ellich.offprint.app/a/3mrjj34puva23-108-prs-in-eight-days-accidentally-discovering-loop-engineering"
-              >108 PRs in eight days: Accidentally discovering loop
-              engineering</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-27 @ 12:44:47</span
-              ><span class="points-container"
-                >Points: <span class="points">13</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49068870"
-                  >Comments</a
-                ><span class="descendants">: 7</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49068738">
-          <h3>
-            <a
-              class="item"
-              href="https://twitter.com/HedgieMarkets/status/2081534588485296565"
-              >AI companies are shredding rare books</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-27 @ 12:32:12</span
-              ><span class="points-container"
-                >Points: <span class="points">653</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49068738"
-                  >Comments</a
-                ><span class="descendants">: 401</span></span
-              >
-            </h4>
-            <div class="text">
-              <a
-                href="https://xcancel.com/HedgieMarkets/status/2081534588485296565"
-                >https://xcancel.com/HedgieMarkets/status/2081534588485296565</a
-              >
-            </div>
-          </section>
-        </section>
-        <section id="49068711">
-          <h3>
-            <a class="item" href="https://incredible.pm/"
-              >The Proof Machine (2016)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-27 @ 12:29:24</span
-              ><span class="points-container"
-                >Points: <span class="points">24</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49068711"
-                  >Comments</a
-                ><span class="descendants">: 4</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49067919">
-          <h3>
-            <a
-              class="item"
-              href="https://www.omgubuntu.co.uk/2026/07/chrome-arm64-linux-available"
-              >Google Chrome Arrives on ARM64 Linux, Widevine DRM Included</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-27 @ 11:19:33</span
-              ><span class="points-container"
-                >Points: <span class="points">65</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49067919"
-                  >Comments</a
-                ><span class="descendants">: 40</span></span
+                ><span class="descendants">: 135</span></span
               >
             </h4>
           </section>
@@ -366,11 +468,11 @@
             <h4>
               <span>2026-07-27 @ 11:12:26</span
               ><span class="points-container"
-                >Points: <span class="points">339</span></span
+                >Points: <span class="points">345</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49067854"
                   >Comments</a
-                ><span class="descendants">: 260</span></span
+                ><span class="descendants">: 267</span></span
               >
             </h4>
           </section>
@@ -380,18 +482,18 @@
             <a
               class="item"
               href="https://www.harpguitars.net/history/grunewald/12-string.htm"
-              >The Birth of the American 12-string Guitar</a
+              >The Birth of the American 12-string Guitar (2013)</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-07-27 @ 10:52:21</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">62</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49067690"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 35</span></span
               >
             </h4>
           </section>
@@ -407,7 +509,7 @@
             <h4>
               <span>2026-07-27 @ 10:04:48</span
               ><span class="points-container"
-                >Points: <span class="points">118</span></span
+                >Points: <span class="points">124</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49067352"
                   >Comments</a
@@ -429,11 +531,11 @@
             <h4>
               <span>2026-07-27 @ 09:58:50</span
               ><span class="points-container"
-                >Points: <span class="points">155</span></span
+                >Points: <span class="points">163</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49067301"
                   >Comments</a
-                ><span class="descendants">: 99</span></span
+                ><span class="descendants">: 110</span></span
               >
             </h4>
           </section>
@@ -448,11 +550,11 @@
             <h4>
               <span>2026-07-27 @ 09:23:29</span
               ><span class="points-container"
-                >Points: <span class="points">53</span></span
+                >Points: <span class="points">55</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49067043"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
           </section>
@@ -467,11 +569,11 @@
             <h4>
               <span>2026-07-27 @ 09:06:34</span
               ><span class="points-container"
-                >Points: <span class="points">108</span></span
+                >Points: <span class="points">111</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49066928"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 34</span></span
               >
             </h4>
           </section>
@@ -488,11 +590,11 @@
             <h4>
               <span>2026-07-27 @ 08:27:21</span
               ><span class="points-container"
-                >Points: <span class="points">113</span></span
+                >Points: <span class="points">118</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49066639"
                   >Comments</a
-                ><span class="descendants">: 51</span></span
+                ><span class="descendants">: 57</span></span
               >
             </h4>
           </section>
@@ -500,18 +602,18 @@
         <section id="49065752">
           <h3>
             <a class="item" href="https://huggingface.co/moonshotai/Kimi-K3"
-              >Kimi-K3 Releases on HuggingFace 7/27</a
+              >Kimi-K3 on HuggingFace</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-07-27 @ 06:18:10</span
               ><span class="points-container"
-                >Points: <span class="points">1021</span></span
+                >Points: <span class="points">1061</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49065752"
                   >Comments</a
-                ><span class="descendants">: 414</span></span
+                ><span class="descendants">: 430</span></span
               >
             </h4>
             <div class="text">
@@ -520,25 +622,6 @@
                 >https://news.ycombinator.com/item?id=49070985</a
               >
             </div>
-          </section>
-        </section>
-        <section id="49063754">
-          <h3>
-            <a class="item" href="https://nikolays.github.io/PGSimCity/"
-              >PGSimCity - How PostgreSQL Works</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-27 @ 00:19:04</span
-              ><span class="points-container"
-                >Points: <span class="points">839</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49063754"
-                  >Comments</a
-                ><span class="descendants">: 82</span></span
-              >
-            </h4>
           </section>
         </section>
         <section id="49063175">
@@ -552,11 +635,11 @@
             <h4>
               <span>2026-07-26 @ 22:46:10</span
               ><span class="points-container"
-                >Points: <span class="points">251</span></span
+                >Points: <span class="points">254</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49063175"
                   >Comments</a
-                ><span class="descendants">: 144</span></span
+                ><span class="descendants">: 149</span></span
               >
             </h4>
           </section>
@@ -574,38 +657,13 @@
             <h4>
               <span>2026-07-26 @ 22:21:41</span
               ><span class="points-container"
-                >Points: <span class="points">1185</span></span
+                >Points: <span class="points">1207</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49063022"
                   >Comments</a
-                ><span class="descendants">: 916</span></span
+                ><span class="descendants">: 930</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="49060856">
-          <h3>
-            <a class="item" href="https://beyondloom.com/decker/"
-              >Decker, a platform that builds on the legacy of Hypercard and
-              classic macOS</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-26 @ 18:23:06</span
-              ><span class="points-container"
-                >Points: <span class="points">365</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49060856"
-                  >Comments</a
-                ><span class="descendants">: 91</span></span
-              >
-            </h4>
-            <div class="text">
-              <a href="https://www.arraycast.com/2025/01/04/Decker.html"
-                >https://www.arraycast.com/2025/01/04/Decker.html</a
-              >
-            </div>
           </section>
         </section>
         <section id="49033114">
@@ -620,11 +678,11 @@
             <h4>
               <span>2026-07-24 @ 09:30:03</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">47</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49033114"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -641,11 +699,11 @@
             <h4>
               <span>2026-07-23 @ 19:21:41</span
               ><span class="points-container"
-                >Points: <span class="points">46</span></span
+                >Points: <span class="points">51</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49026755"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
           </section>
@@ -661,11 +719,11 @@
             <h4>
               <span>2026-07-23 @ 13:29:24</span
               ><span class="points-container"
-                >Points: <span class="points">444</span></span
+                >Points: <span class="points">450</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49021270"
                   >Comments</a
-                ><span class="descendants">: 161</span></span
+                ><span class="descendants">: 163</span></span
               >
             </h4>
             <div class="text">
@@ -724,13 +782,75 @@
             <h4>
               <span>2026-07-23 @ 13:08:52</span
               ><span class="points-container"
-                >Points: <span class="points">65</span></span
+                >Points: <span class="points">75</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49020993"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 32</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="49019271">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=49019271"
+              >Show HN: Running PrismML's Bonsai inside DRAM by breaking DDR4
+              timing rules</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-23 @ 10:14:39</span
+              ><span class="points-container"
+                >Points: <span class="points">16</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49019271"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Moving AI on-device is a brilliant and necessary strategy. It
+                ensures absolute user privacy in alignment with EU regulations,
+                fundamentally shifts the economics away from costly cloud
+                inference, and paves the way for a significant hardware upgrade
+                supercycle as users seek true AI-capable silicon.
+              </p>
+              <p>
+                To create a smart on-device "Semantic Router," models need to
+                reach the 27B+ parameter scale. Achieving this on a phone
+                requires extreme quantization, such as PrismML’s ternary
+                weights.
+              </p>
+              <p>
+                However, a critical hardware reality often overlooked by the
+                software world is that fitting the weights in RAM is not
+                equivalent to moving them. Running a 27B ternary model on
+                standard LPDDR encounters a significant memory bandwidth
+                limitation. Transferring gigabytes of data across the SoC bus
+                for each token generation can lead to thermal throttling of the
+                NPU and excessive battery drain.
+              </p>
+              <p>
+                This raises an important question: why are we still transferring
+                data to the compute? Why not execute AI inference natively
+                within the memory?
+              </p>
+              <p>
+                Frustrated with academic PIM simulations that overlook
+                bare-metal physics, I developed CaSA, an architecture that
+                performs ternary LLM inference directly inside COTS DRAM through
+                charge-sharing, completely bypassing the memory bus.
+              </p>
+              <p>
+                Software quantization is a great initial step, and CaSA provides
+                the physical hardware substrate needed to complete the bridge:
+                <a href="https://github.com/pcdeni/CaSA"
+                  >https://github.com/pcdeni/CaSA</a
+                >
+              </p>
+            </div>
           </section>
         </section>
         <section id="49012309">
@@ -738,18 +858,18 @@
             <a
               class="item"
               href="https://spectrum.ieee.org/colossus-computer-ieee-milestone"
-              >The Computer That Helped Win World War II</a
+              >The computer that helped win World War II</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-07-22 @ 19:40:44</span
               ><span class="points-container"
-                >Points: <span class="points">74</span></span
+                >Points: <span class="points">81</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49012309"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 39</span></span
               >
             </h4>
           </section>
@@ -759,19 +879,19 @@
             <a
               class="item"
               href="https://mymodernmet.com/magnolia-ancient-flowers-beetles/"
-              >Magnolias Are So Old That They're Pollinated by Beetles, Not
-              Bees</a
+              >Magnolias are so old that they're pollinated by beetles, not bees
+              (2025)</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-07-22 @ 16:49:29</span
               ><span class="points-container"
-                >Points: <span class="points">224</span></span
+                >Points: <span class="points">241</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49009706"
                   >Comments</a
-                ><span class="descendants">: 84</span></span
+                ><span class="descendants">: 85</span></span
               >
             </h4>
           </section>
@@ -788,7 +908,7 @@
             <h4>
               <span>2026-07-22 @ 15:08:20</span
               ><span class="points-container"
-                >Points: <span class="points">8</span></span
+                >Points: <span class="points">15</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49008010"
                   >Comments</a
@@ -809,11 +929,11 @@
             <h4>
               <span>2026-07-22 @ 14:58:36</span
               ><span class="points-container"
-                >Points: <span class="points">72</span></span
+                >Points: <span class="points">75</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49007852"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 33</span></span
               >
             </h4>
           </section>
