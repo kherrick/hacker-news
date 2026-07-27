@@ -56,6 +56,7 @@
 * [2026-07-22, 15:12:26](https://news.ycombinator.com/item?id=49008089) - [OpenAI Presence](https://openai.com/index/introducing-openai-presence/)
 * [2026-07-22, 15:07:39](https://news.ycombinator.com/item?id=49008001) - [Retry Storm Lab](https://github.com/telemetry-sh/retry-storm-lab)
 * [2026-07-22, 14:59:08](https://news.ycombinator.com/item?id=49007863) - [Perlin's Noise Algorithm](https://blog.jaysmito.dev/blog/02-perlins-noise-algorithm/)
+* [2026-07-22, 14:58:36](https://news.ycombinator.com/item?id=49007852) - [Building a Fast Lock-Free Queue in Modern C++ from Scratch](https://blog.jaysmito.dev/blog/04-fast-lockfree-queues/)
 * [2026-07-22, 14:57:37](https://news.ycombinator.com/item?id=49007839) - [The Pillars of an API Platform](https://launchany.com/the-pillars-of-an-api-platform/)
 * [2026-07-22, 14:57:24](https://news.ycombinator.com/item?id=49007831) - [Airbus Full Scale Foldable Wing Extensions](https://www.airbus.com/en/newsroom/press-releases/2026-07-airbus-launches-new-flight-test-programme-for-wing-of-tomorrow)
 * [2026-07-22, 14:46:14](https://news.ycombinator.com/item?id=49007671) - [Which streaming service was that on again](https://www.timwehrle.de/blog/which-streaming-service-was-that-on-again/)
