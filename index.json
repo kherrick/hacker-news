@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-07-27, 00:19:32",
-      "https://news.ycombinator.com/item?id=49063757"
-    ],
-    [
-      "How the Atmos clock functions",
-      "https://atmos-atelier.de/en/atmos-uhr/"
-    ]
-  ],
-  [
-    [
       "2026-07-27, 00:19:04",
       "https://news.ycombinator.com/item?id=49063754"
     ],
@@ -131,16 +121,6 @@
   ],
   [
     [
-      "2026-07-26, 17:51:03",
-      "https://news.ycombinator.com/item?id=49060509"
-    ],
-    [
-      "How AST-grep Rewrote Tree-sitter in Rust and Made It 30% Faster",
-      "https://astgrep.com/blog/tree-sitter-rust-rewrite"
-    ]
-  ],
-  [
-    [
       "2026-07-26, 17:49:44",
       "https://news.ycombinator.com/item?id=49060495"
     ],
@@ -241,6 +221,16 @@
   ],
   [
     [
+      "2026-07-24, 16:32:23",
+      "https://news.ycombinator.com/item?id=49038035"
+    ],
+    [
+      "History of John Backus's functional programming project [draft]",
+      "https://softwarepreservation.computerhistory.org/FP/"
+    ]
+  ],
+  [
+    [
       "2026-07-23, 14:37:13",
       "https://news.ycombinator.com/item?id=49022355"
     ],
@@ -281,6 +271,16 @@
   ],
   [
     [
+      "2026-07-22, 18:25:12",
+      "https://news.ycombinator.com/item?id=49011210"
+    ],
+    [
+      "Jacobian Conjecture for Baby",
+      "https://muchmirul.github.io/jacobian-conjecture/"
+    ]
+  ],
+  [
+    [
       "2026-07-22, 12:56:54",
       "https://news.ycombinator.com/item?id=49006049"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-07-21, 19:28:55",
-      "https://news.ycombinator.com/item?id=48997008"
+      "2026-07-21, 20:30:22",
+      "https://news.ycombinator.com/item?id=48997828"
     ],
     [
-      "Jimothy the raccoon has a rare spinal condition. Here's what that means",
-      "https://www.popsci.com/science/whats-jimothy-raccoon-condition/"
+      "Some more things about Django I've been enjoying",
+      "https://jvns.ca/blog/2026/07/21/more-nice-django-things/"
     ]
   ]
 ]
