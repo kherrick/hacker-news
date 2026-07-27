@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-27, 19:58:22](https://news.ycombinator.com/item?id=49074817) - [Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals](https://www.rise-reforming.com)
 * [2026-07-27, 18:43:31](https://news.ycombinator.com/item?id=49073942) - [Self-contained highly-portable Python distributions](https://gregoryszorc.com/docs/python-build-standalone/main/)
 * [2026-07-27, 18:32:09](https://news.ycombinator.com/item?id=49073785) - [The Artist Who Colored Ghibli](https://animationobsessive.substack.com/p/the-artist-who-colored-ghibli)
 * [2026-07-27, 18:25:21](https://news.ycombinator.com/item?id=49073665) - [Bytecode-to-Source Mapping](https://tidefield.dev/bytecode-to-source-mapping/)
@@ -12,11 +13,11 @@
 * [2026-07-27, 15:52:13](https://news.ycombinator.com/item?id=49071365) - [Show HN: Let's Seal – Let's Encrypt for document signing, free and self-hosted](https://github.com/letsseal/letsseal)
 * [2026-07-27, 15:40:17](https://news.ycombinator.com/item?id=49071190) - [How real are real numbers? (2004)](https://arxiv.org/abs/math/0411418)
 * [2026-07-27, 15:23:45](https://news.ycombinator.com/item?id=49070985) - [Kimi-K3 Technical Report [pdf]](https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf)
+* [2026-07-27, 15:10:56](https://news.ycombinator.com/item?id=49070805) - [Tokio Gives Progress, Not Ordering: Scheduling 1M Tasks](https://pranitha.dev/posts/tokio-gives-progress-not-ordering/)
 * [2026-07-27, 15:08:16](https://news.ycombinator.com/item?id=49070756) - [Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles](https://eaton-works.com/2026/07/27/my-eicher-hack/)
 * [2026-07-27, 14:22:34](https://news.ycombinator.com/item?id=49070138) - [Paged Out #9 [pdf]](https://pagedout.institute/download/PagedOut_009.pdf)
 * [2026-07-27, 13:04:11](https://news.ycombinator.com/item?id=49069132) - [Should you wash your solar panels?](https://incoherency.co.uk/blog/stories/should-you-wash-your-solar-panels.html)
 * [2026-07-27, 11:12:26](https://news.ycombinator.com/item?id=49067854) - [How is the Bun Rewrite in Rust going?](https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html)
-* [2026-07-27, 10:52:21](https://news.ycombinator.com/item?id=49067690) - [The Birth of the American 12-string Guitar (2013)](https://www.harpguitars.net/history/grunewald/12-string.htm)
 * [2026-07-27, 10:04:48](https://news.ycombinator.com/item?id=49067352) - [Libsm64: Mario 64 as a library for use in external game engines](https://github.com/libsm64/libsm64)
 * [2026-07-27, 09:58:50](https://news.ycombinator.com/item?id=49067301) - [Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)](https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/)
 * [2026-07-27, 09:23:29](https://news.ycombinator.com/item?id=49067043) - [Shay Locomotives](https://www.shaylocomotives.com/)
@@ -28,7 +29,6 @@
 * [2026-07-23, 19:21:41](https://news.ycombinator.com/item?id=49026755) - [First Robotic Satellite Servicer Launched](https://www.nrl.navy.mil/Media/News/Article/4551871/robotic-servicing-of-geosynchronous-satellites-launches-into-orbit/)
 * [2026-07-23, 13:10:06](https://news.ycombinator.com/item?id=49021007) - [Ray tracing massive amounts of animated geometry using tetrahedral cages](https://gpuopen.com/learn/ray-tracing-massive-amounts-animated-geometry/)
 * [2026-07-23, 13:08:52](https://news.ycombinator.com/item?id=49020993) - [Glue bonds to nonstick surfaces and wipes clean with ethanol](https://cen.acs.org/materials/adhesives/glue-bonds-nonstick-surfaces-wipes-clean/104/web/2026/07)
-* [2026-07-22, 23:34:00](https://news.ycombinator.com/item?id=49014937) - [If Scrubs Hurt, Your ZFS Design Is Broken](https://klarasystems.com/articles/if-scrubs-hurt-your-zfs-design-is-broken/)
 * [2026-07-22, 19:40:44](https://news.ycombinator.com/item?id=49012309) - [The computer that helped win World War II](https://spectrum.ieee.org/colossus-computer-ieee-milestone)
 
 ## [Archives](archives/index.md)
