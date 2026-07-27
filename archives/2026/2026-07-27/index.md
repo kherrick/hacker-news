@@ -4,8 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-07-27](index.md)
 
+* [2026-07-27, 10:52:21](https://news.ycombinator.com/item?id=49067690) - [The Birth of the American 12-string Guitar](https://www.harpguitars.net/history/grunewald/12-string.htm)
+* [2026-07-27, 10:04:48](https://news.ycombinator.com/item?id=49067352) - [Libsm64: Mario 64 as a library for use in external game engines](https://github.com/libsm64/libsm64)
+* [2026-07-27, 09:28:17](https://news.ycombinator.com/item?id=49067076) - [Show HN: NameThatUI – A quiz game to test your UI design knowledge](https://namethatui.org/)
+* [2026-07-27, 09:23:29](https://news.ycombinator.com/item?id=49067043) - [Shay Locomotives](https://www.shaylocomotives.com/)
 * [2026-07-27, 09:11:59](https://news.ycombinator.com/item?id=49066962) - [Chinese chipmaker shares surge 470%](https://www.bbc.com/news/articles/c9q9w3x9qn2o)
+* [2026-07-27, 09:06:34](https://news.ycombinator.com/item?id=49066928) - [VLC for Unity now supported on Linux](https://code.videolan.org/videolan/vlc-unity)
 * [2026-07-27, 08:43:11](https://news.ycombinator.com/item?id=49066750) - [How Unix spell ran in 64 kB of RAM](https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram)
+* [2026-07-27, 08:27:21](https://news.ycombinator.com/item?id=49066639) - [Modern email can be built from borrowed parts](https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts/)
+* [2026-07-27, 08:20:06](https://news.ycombinator.com/item?id=49066591) - [Elevated errors on Claude Opus 5](https://status.claude.com/incidents/lhqp09kxq7pb)
 * [2026-07-27, 06:18:10](https://news.ycombinator.com/item?id=49065752) - [Kimi-K3 Releases on HuggingFace 6/27](https://huggingface.co/moonshotai/Kimi-K3)
 * [2026-07-27, 05:31:33](https://news.ycombinator.com/item?id=49065498) - [EU Fines Google $1.02B for Favoring Its Own Services](https://www.wsj.com/tech/google-fined-1-02-billion-under-eus-tech-antitrust-rules-7e8ae1fb)
 * [2026-07-27, 02:33:22](https://news.ycombinator.com/item?id=49064588) - [The old-school way of keeping the summer heat out of your home](https://monocle.com/design/architecture/keeping-your-home-cool-without-air-conditioning/)
