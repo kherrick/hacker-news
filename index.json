@@ -1,12 +1,52 @@
 [
   [
     [
+      "2026-07-27, 11:32:32",
+      "https://news.ycombinator.com/item?id=49068029"
+    ],
+    [
+      "Elevated errors on Claude Opus 5",
+      "https://status.claude.com/incidents/mfdtrknpxghq"
+    ]
+  ],
+  [
+    [
+      "2026-07-27, 11:19:33",
+      "https://news.ycombinator.com/item?id=49067919"
+    ],
+    [
+      "Google Chrome Arrives on ARM64 Linux, Widevine DRM Included",
+      "https://www.omgubuntu.co.uk/2026/07/chrome-arm64-linux-available"
+    ]
+  ],
+  [
+    [
+      "2026-07-27, 11:12:26",
+      "https://news.ycombinator.com/item?id=49067854"
+    ],
+    [
+      "How is the Bun Rewrite in Rust going?",
+      "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html"
+    ]
+  ],
+  [
+    [
       "2026-07-27, 10:52:21",
       "https://news.ycombinator.com/item?id=49067690"
     ],
     [
       "The Birth of the American 12-string Guitar",
       "https://www.harpguitars.net/history/grunewald/12-string.htm"
+    ]
+  ],
+  [
+    [
+      "2026-07-27, 10:33:25",
+      "https://news.ycombinator.com/item?id=49067556"
+    ],
+    [
+      "If digital computers are conscious, they are conscious at the hardware level",
+      "https://smoothbrains.net/posts/2026-05-09-digital-consciousness.html"
     ]
   ],
   [
@@ -21,12 +61,12 @@
   ],
   [
     [
-      "2026-07-27, 09:28:17",
-      "https://news.ycombinator.com/item?id=49067076"
+      "2026-07-27, 09:58:50",
+      "https://news.ycombinator.com/item?id=49067301"
     ],
     [
-      "Show HN: NameThatUI – A quiz game to test your UI design knowledge",
-      "https://namethatui.org/"
+      "Removing React.js from the codebase and adapting Htmx for UI interactivity",
+      "https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/"
     ]
   ],
   [
@@ -181,62 +221,22 @@
   ],
   [
     [
-      "2026-07-26, 17:49:44",
-      "https://news.ycombinator.com/item?id=49060495"
-    ],
-    [
-      "French firefighters face 'pyrocumulonimbus' for first time",
-      "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time"
-    ]
-  ],
-  [
-    [
-      "2026-07-26, 15:53:55",
-      "https://news.ycombinator.com/item?id=49059398"
-    ],
-    [
-      "Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs",
-      "https://github.com/gmrandazzo/CheapSecurity"
-    ]
-  ],
-  [
-    [
-      "2026-07-26, 15:51:12",
-      "https://news.ycombinator.com/item?id=49059367"
-    ],
-    [
-      "Design is compromise",
-      "https://stephango.com/design-is-compromise"
-    ]
-  ],
-  [
-    [
-      "2026-07-26, 12:51:03",
-      "https://news.ycombinator.com/item?id=49057666"
-    ],
-    [
-      "Show HN: Reverse Minesweeper",
-      "https://sunflowersgame.com/"
-    ]
-  ],
-  [
-    [
-      "2026-07-26, 12:00:11",
-      "https://news.ycombinator.com/item?id=49057241"
-    ],
-    [
-      "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
-      "https://swag.htmx.org/en-cad/products/htmx-4-the-game"
-    ]
-  ],
-  [
-    [
       "2026-07-24, 10:28:33",
       "https://news.ycombinator.com/item?id=49033522"
     ],
     [
       "Measuring developer productivity with the DX Core 4",
       "https://getdx.com/research/measuring-developer-productivity-with-the-dx-core-4/"
+    ]
+  ],
+  [
+    [
+      "2026-07-24, 09:30:03",
+      "https://news.ycombinator.com/item?id=49033114"
+    ],
+    [
+      "Towards a Theory of Bugs: The Ruliology of the Unexpected",
+      "https://writings.stephenwolfram.com/2026/07/towards-a-theory-of-bugs-the-ruliology-of-the-unexpected/"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2026-07-22, 21:25:40",
-      "https://news.ycombinator.com/item?id=49013671"
-    ],
-    [
-      "Boox Go 10.3 (gen II) Lumi: First impressions",
-      "https://manualdousuario.net/en/boox-go-10-3-lumi-first-impressions/"
-    ]
-  ],
-  [
-    [
       "2026-07-22, 16:49:29",
       "https://news.ycombinator.com/item?id=49009706"
     ],
     [
       "Magnolias Are So Old That They're Pollinated by Beetles, Not Bees",
       "https://mymodernmet.com/magnolia-ancient-flowers-beetles/"
+    ]
+  ],
+  [
+    [
+      "2026-07-22, 14:58:36",
+      "https://news.ycombinator.com/item?id=49007852"
+    ],
+    [
+      "Building a Fast Lock-Free Queue in Modern C++ from Scratch",
+      "https://blog.jaysmito.dev/blog/04-fast-lockfree-queues/"
     ]
   ]
 ]
