@@ -12,6 +12,7 @@
 * [2026-07-23, 22:30:08](https://news.ycombinator.com/item?id=49028922) - [Building watchable digital twins of 64 World Cup games](https://rogerdickey.com/building-watchable-digital-twins-of-64-world-cup-games/)
 * [2026-07-23, 21:17:34](https://news.ycombinator.com/item?id=49028169) - [Pip install Postgres – no Docker/Brew/apt](https://github.com/leontrolski/postgresql-testing)
 * [2026-07-23, 21:05:29](https://news.ycombinator.com/item?id=49028037) - [Namecheap Gave My Account to an Unverified Third Party Just Because They Asked](https://news.ycombinator.com/item?id=49028037)
+* [2026-07-23, 20:59:42](https://news.ycombinator.com/item?id=49027989) - [Colorblind: Checking figure accessibility for colour blind people](https://quantixed.org/2022/05/19/colorblind-checking-figure-accessibility-for-colour-blind-people/)
 * [2026-07-23, 20:52:19](https://news.ycombinator.com/item?id=49027892) - [Couple pay >$800k for a gene-editing therapy for their daughter. She died.](https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public)
 * [2026-07-23, 20:15:31](https://news.ycombinator.com/item?id=49027426) - [Big Tech Isn't Hiding $1.65T of Debt](https://finterm.ai/blog/big-tech-hidden-debt-fact-check.html)
 * [2026-07-23, 19:46:28](https://news.ycombinator.com/item?id=49027052) - [Mourning Dan Williams](https://lwn.net/Articles/1084545/)

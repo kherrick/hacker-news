@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-27](index.md)
 
+* [2026-07-27, 22:10:15](https://news.ycombinator.com/item?id=49076116) - [A missing underscore sent innocent man to prison for 18 months](https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/)
 * [2026-07-27, 22:03:49](https://news.ycombinator.com/item?id=49076057) - [Our position on open-weights models](https://www.anthropic.com/news/position-open-weights-models)
 * [2026-07-27, 20:53:29](https://news.ycombinator.com/item?id=49075386) - [Bitcoin trail, Google cookies and Uber Eats orders help tie man to Steam malware](https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest)
 * [2026-07-27, 20:50:58](https://news.ycombinator.com/item?id=49075350) - [US DOT deleting bike lane references](https://www.npr.org/2026/07/23/nx-s1-5900901/bike-lanes-dot-websites)
