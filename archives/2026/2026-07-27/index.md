@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-07-27](index.md)
 
 * [2026-07-27, 19:58:22](https://news.ycombinator.com/item?id=49074817) - [Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals](https://www.rise-reforming.com)
+* [2026-07-27, 19:46:05](https://news.ycombinator.com/item?id=49074680) - [Professor's invisible prompt trap catches 32/35 students cheating with AI](https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html)
 * [2026-07-27, 18:43:31](https://news.ycombinator.com/item?id=49073942) - [Self-contained highly-portable Python distributions](https://gregoryszorc.com/docs/python-build-standalone/main/)
 * [2026-07-27, 18:32:09](https://news.ycombinator.com/item?id=49073785) - [The Artist Who Colored Ghibli](https://animationobsessive.substack.com/p/the-artist-who-colored-ghibli)
 * [2026-07-27, 18:26:59](https://news.ycombinator.com/item?id=49073691) - [Exercise works for depression. So why isn't it treated like real medicine?](https://bigthink.com/mind-behavior/exercise-works-for-depression-so-why-isnt-it-treated-like-real-medicine/)
