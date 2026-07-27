@@ -17,6 +17,7 @@
 * [2026-07-23, 19:46:28](https://news.ycombinator.com/item?id=49027052) - [Mourning Dan Williams](https://lwn.net/Articles/1084545/)
 * [2026-07-23, 19:37:37](https://news.ycombinator.com/item?id=49026933) - [Fil-C: Garbage In, Memory Safety Out [video]](https://www.youtube.com/watch?v=5F-2Y1LPRek)
 * [2026-07-23, 19:26:01](https://news.ycombinator.com/item?id=49026810) - [Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models](https://news.ycombinator.com/item?id=49026810)
+* [2026-07-23, 19:21:41](https://news.ycombinator.com/item?id=49026755) - [First Robotic Satellite Servicer Launched](https://www.nrl.navy.mil/Media/News/Article/4551871/robotic-servicing-of-geosynchronous-satellites-launches-into-orbit/)
 * [2026-07-23, 19:00:34](https://news.ycombinator.com/item?id=49026482) - [Selfie for sign-in: a new, easy way to access your Google Account](https://blog.google/innovation-and-ai/technology/safety-security/selfie-video-sign-in/)
 * [2026-07-23, 18:51:40](https://news.ycombinator.com/item?id=49026364) - [ICE Illegally Scooped Up Medicaid Data, Then Shared It with Palantir](https://www.techdirt.com/2026/07/23/ice-illegally-scooped-up-medicaid-data-then-shared-it-with-palantir/)
 * [2026-07-23, 18:29:22](https://news.ycombinator.com/item?id=49026059) - [From Evaluation to Guardrails: What We Brought to ACM FAccT 2026](https://blog.mozilla.ai/from-evaluation-to-guardrails-what-we-brought-to-acm-facct-2026/)

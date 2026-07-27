@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-27](index.md)
 
+* [2026-07-27, 13:29:12](https://news.ycombinator.com/item?id=49069447) - [We Tested Nonstick Cookware: Coatings Don't Need to Look Worn to Shed Particles](https://www.rtings.com/air-fryer/learn/research/ptfe-cookware-shedding)
+* [2026-07-27, 13:04:11](https://news.ycombinator.com/item?id=49069132) - [Should you wash your solar panels?](https://incoherency.co.uk/blog/stories/should-you-wash-your-solar-panels.html)
 * [2026-07-27, 12:32:12](https://news.ycombinator.com/item?id=49068738) - [AI companies are shredding rare books](https://xcancel.com/HedgieMarkets/status/2081534588485296565)
 * [2026-07-27, 12:29:24](https://news.ycombinator.com/item?id=49068711) - [The Proof Machine (2016)](https://incredible.pm/)
 * [2026-07-27, 12:29:14](https://news.ycombinator.com/item?id=49068707) - [Worse on Purpose](https://ledger.worseonpurpose.com/brands)
