@@ -30,6 +30,7 @@
 * [2026-07-24, 16:33:31](https://news.ycombinator.com/item?id=49038060) - [Be skeptical of OpenAI's rogue hacker agent story](https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker)
 * [2026-07-24, 16:33:26](https://news.ycombinator.com/item?id=49038059) - [Proving a Human Wrote Something](https://gjtorikian.online/posts/proving-a-human-wrote-something/)
 * [2026-07-24, 16:32:52](https://news.ycombinator.com/item?id=49038045) - [Unitree As2-W](https://www.unitree.com/As2-W/)
+* [2026-07-24, 16:32:23](https://news.ycombinator.com/item?id=49038035) - [History of John Backus's functional programming project [draft]](https://softwarepreservation.computerhistory.org/FP/)
 * [2026-07-24, 16:27:58](https://news.ycombinator.com/item?id=49037971) - [Micro-SaaS Is Dead. Service With A Software Replaces It](https://adriengonin.com/writing/service-with-a-software/)
 * [2026-07-24, 15:26:58](https://news.ycombinator.com/item?id=49037076) - [Marc Andreessen, venture capitalist, married to wait, what?](https://tyrandus.dev/2026/07/23/marc-andreessen-venture-capitalist-married-to-wait-what/)
 * [2026-07-24, 15:24:00](https://news.ycombinator.com/item?id=49037031) - [The front end framework for correctness: built on Effect, architected like Elm](https://foldkit.dev/)
