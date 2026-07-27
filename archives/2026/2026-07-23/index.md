@@ -86,6 +86,7 @@
 * [2026-07-23, 05:06:12](https://news.ycombinator.com/item?id=49017170) - [Local AI that finds sensitive files on your Mac before attackers do](https://www.vaultsort.com/guardian)
 * [2026-07-23, 04:48:22](https://news.ycombinator.com/item?id=49017054) - [How to Write a Quine](https://czterycztery.pl/slowo/quine-EN.html)
 * [2026-07-23, 04:25:24](https://news.ycombinator.com/item?id=49016917) - [Using sed to make indexes for books (long)](https://www.pement.org/sed/make_indexes.txt)
+* [2026-07-23, 02:54:46](https://news.ycombinator.com/item?id=49016303) - [8086 Emulator Inside Scratch](https://turbowarp.org/1248315967?size=640x400)
 * [2026-07-23, 02:28:23](https://news.ycombinator.com/item?id=49016099) - [Restructuring GitHub's bug bounty program](https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/)
 * [2026-07-23, 02:01:53](https://news.ycombinator.com/item?id=49015898) - [Agatha Christie's Disappearance: Amnesia, Suicide, or Despair?](https://www.historicmysteries.com/unexplained-mysteries/agatha-christie-disappearance/23136/)
 * [2026-07-23, 01:58:18](https://news.ycombinator.com/item?id=49015878) - [Honey Bee Colony Monitoring via Audio IoT Sensors, Tensorgrams and RNNs](https://arxiv.org/abs/2607.20386)

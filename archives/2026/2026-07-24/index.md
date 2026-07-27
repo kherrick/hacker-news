@@ -63,6 +63,7 @@
 * [2026-07-24, 11:46:55](https://news.ycombinator.com/item?id=49034219) - [German battery maker Varta files insolvency applications](https://www.reuters.com/business/german-battery-maker-varta-files-insolvency-applications-2026-07-24/)
 * [2026-07-24, 11:46:40](https://news.ycombinator.com/item?id=49034217) - [The case for MUDs in modern times](https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times)
 * [2026-07-24, 11:13:59](https://news.ycombinator.com/item?id=49033916) - [The IBM PC, Part 1: Arrival](https://technicshistory.com/2026/07/24/the-ibm-pc-part-1-arrival/)
+* [2026-07-24, 10:28:33](https://news.ycombinator.com/item?id=49033522) - [Measuring developer productivity with the DX Core 4](https://getdx.com/research/measuring-developer-productivity-with-the-dx-core-4/)
 * [2026-07-24, 10:15:29](https://news.ycombinator.com/item?id=49033412) - [Game of Trees – Git-based version control from OpenBSD folks](https://www.gameoftrees.org/)
 * [2026-07-24, 10:12:39](https://news.ycombinator.com/item?id=49033388) - [How Do We Stop Vibe Coding?](https://alexklos.ca/blog/how-do-we-stop-vibe-coding)
 * [2026-07-24, 10:09:36](https://news.ycombinator.com/item?id=49033363) - [Launching Health in ChatGPT to US Users](https://openai.com/index/health-in-chatgpt/)
