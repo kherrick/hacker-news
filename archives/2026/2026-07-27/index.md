@@ -18,6 +18,8 @@
 * [2026-07-27, 16:25:45](https://news.ycombinator.com/item?id=49071915) - [Show HN: Infrawrench – a tool to manage cloud and svcs with workflows and chat](https://infrawrench.com)
 * [2026-07-27, 16:02:00](https://news.ycombinator.com/item?id=49071512) - [Nvidia's $750B in Deals Reignite Circular AI Fears](https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing)
 * [2026-07-27, 15:57:15](https://news.ycombinator.com/item?id=49071441) - [All major LLMs are lib-left. Even Grok, half the time](https://unslop.run/blog/political-compass-of-llms)
+* [2026-07-27, 15:52:13](https://news.ycombinator.com/item?id=49071365) - [Show HN: Let's Seal – Let's Encrypt for document signing, free and self-hosted](https://github.com/letsseal/letsseal)
+* [2026-07-27, 15:40:17](https://news.ycombinator.com/item?id=49071190) - [How real are real numbers? (2004)](https://arxiv.org/abs/math/0411418)
 * [2026-07-27, 15:23:45](https://news.ycombinator.com/item?id=49070985) - [Kimi-K3 Technical Report [pdf]](https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf)
 * [2026-07-27, 15:11:51](https://news.ycombinator.com/item?id=49070820) - [Minecraft Java raises recommended memory to 16GB ahead of Vulkan transition](https://videocardz.com/newz/minecraft-java-edition-raises-recommended-memory-to-16gb-ahead-of-vulkan-transition)
 * [2026-07-27, 15:10:56](https://news.ycombinator.com/item?id=49070805) - [Tokio Gives Progress, Not Ordering: Scheduling 1M Tasks](https://pranitha.dev/posts/tokio-gives-progress-not-ordering/)
