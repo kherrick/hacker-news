@@ -1,12 +1,62 @@
 [
   [
     [
+      "2026-07-27, 10:52:21",
+      "https://news.ycombinator.com/item?id=49067690"
+    ],
+    [
+      "The Birth of the American 12-string Guitar",
+      "https://www.harpguitars.net/history/grunewald/12-string.htm"
+    ]
+  ],
+  [
+    [
+      "2026-07-27, 10:04:48",
+      "https://news.ycombinator.com/item?id=49067352"
+    ],
+    [
+      "Libsm64: Mario 64 as a library for use in external game engines",
+      "https://github.com/libsm64/libsm64"
+    ]
+  ],
+  [
+    [
+      "2026-07-27, 09:28:17",
+      "https://news.ycombinator.com/item?id=49067076"
+    ],
+    [
+      "Show HN: NameThatUI – A quiz game to test your UI design knowledge",
+      "https://namethatui.org/"
+    ]
+  ],
+  [
+    [
+      "2026-07-27, 09:23:29",
+      "https://news.ycombinator.com/item?id=49067043"
+    ],
+    [
+      "Shay Locomotives",
+      "https://www.shaylocomotives.com/"
+    ]
+  ],
+  [
+    [
       "2026-07-27, 09:11:59",
       "https://news.ycombinator.com/item?id=49066962"
     ],
     [
       "Chinese chipmaker shares surge 470%",
       "https://www.bbc.com/news/articles/c9q9w3x9qn2o"
+    ]
+  ],
+  [
+    [
+      "2026-07-27, 09:06:34",
+      "https://news.ycombinator.com/item?id=49066928"
+    ],
+    [
+      "VLC for Unity now supported on Linux",
+      "https://code.videolan.org/videolan/vlc-unity"
     ]
   ],
   [
@@ -21,22 +71,32 @@
   ],
   [
     [
+      "2026-07-27, 08:27:21",
+      "https://news.ycombinator.com/item?id=49066639"
+    ],
+    [
+      "Modern email can be built from borrowed parts",
+      "https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts/"
+    ]
+  ],
+  [
+    [
+      "2026-07-27, 08:20:06",
+      "https://news.ycombinator.com/item?id=49066591"
+    ],
+    [
+      "Elevated errors on Claude Opus 5",
+      "https://status.claude.com/incidents/lhqp09kxq7pb"
+    ]
+  ],
+  [
+    [
       "2026-07-27, 06:18:10",
       "https://news.ycombinator.com/item?id=49065752"
     ],
     [
       "Kimi-K3 Releases on HuggingFace 7/27",
       "https://huggingface.co/moonshotai/Kimi-K3"
-    ]
-  ],
-  [
-    [
-      "2026-07-27, 02:33:22",
-      "https://news.ycombinator.com/item?id=49064588"
-    ],
-    [
-      "The old-school way of keeping the summer heat out of your home",
-      "https://monocle.com/design/architecture/keeping-your-home-cool-without-air-conditioning/"
     ]
   ],
   [
@@ -131,16 +191,6 @@
   ],
   [
     [
-      "2026-07-26, 17:29:35",
-      "https://news.ycombinator.com/item?id=49060295"
-    ],
-    [
-      "How to write English prose (2023)",
-      "https://thelampmagazine.com/blog/how-to-write-english-prose"
-    ]
-  ],
-  [
-    [
       "2026-07-26, 15:53:55",
       "https://news.ycombinator.com/item?id=49059398"
     ],
@@ -161,42 +211,12 @@
   ],
   [
     [
-      "2026-07-26, 15:17:06",
-      "https://news.ycombinator.com/item?id=49058993"
-    ],
-    [
-      "The relay market powering token resellers and fraud",
-      "https://vectoral.com/blog/token-relay-market"
-    ]
-  ],
-  [
-    [
-      "2026-07-26, 13:13:03",
-      "https://news.ycombinator.com/item?id=49057877"
-    ],
-    [
-      "The New AI Superpowers: Focus and Followthrough",
-      "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and"
-    ]
-  ],
-  [
-    [
       "2026-07-26, 12:51:03",
       "https://news.ycombinator.com/item?id=49057666"
     ],
     [
       "Show HN: Reverse Minesweeper",
       "https://sunflowersgame.com/"
-    ]
-  ],
-  [
-    [
-      "2026-07-26, 12:21:26",
-      "https://news.ycombinator.com/item?id=49057398"
-    ],
-    [
-      "Go Analysis Framework: modular static analysis by go team",
-      "https://pkg.go.dev/golang.org/x/tools/go/analysis"
     ]
   ],
   [
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2026-07-26, 11:53:17",
-      "https://news.ycombinator.com/item?id=49057175"
-    ],
-    [
-      "Kill The Cookie Banner",
-      "https://killthecookiebanner.eu/"
-    ]
-  ],
-  [
-    [
       "2026-07-24, 10:28:33",
       "https://news.ycombinator.com/item?id=49033522"
     ],
     [
       "Measuring developer productivity with the DX Core 4",
       "https://getdx.com/research/measuring-developer-productivity-with-the-dx-core-4/"
-    ]
-  ],
-  [
-    [
-      "2026-07-23, 14:37:13",
-      "https://news.ycombinator.com/item?id=49022355"
-    ],
-    [
-      "I learned PCB design, 3D printing and C just to listen to music",
-      "https://pentaton.app/blog/2026-07-12-introducing-pentaton-lp/"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2026-07-22, 21:25:40",
+      "https://news.ycombinator.com/item?id=49013671"
+    ],
+    [
+      "Boox Go 10.3 (gen II) Lumi: First impressions",
+      "https://manualdousuario.net/en/boox-go-10-3-lumi-first-impressions/"
+    ]
+  ],
+  [
+    [
       "2026-07-22, 16:49:29",
       "https://news.ycombinator.com/item?id=49009706"
     ],
     [
       "Magnolias Are So Old That They're Pollinated by Beetles, Not Bees",
       "https://mymodernmet.com/magnolia-ancient-flowers-beetles/"
-    ]
-  ],
-  [
-    [
-      "2026-07-22, 15:43:17",
-      "https://news.ycombinator.com/item?id=49008615"
-    ],
-    [
-      "The Zen of Parallel Programming: The Posture of a Kernel",
-      "https://smolnero.com/posts/the-zen-of-parallel-programming-the-posture-of-a-kernel"
     ]
   ]
 ]
