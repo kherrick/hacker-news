@@ -125,7 +125,7 @@
       "https://news.ycombinator.com/item?id=49060295"
     ],
     [
-      "How to Write English Prose",
+      "How to write English prose (2023)",
       "https://thelampmagazine.com/blog/how-to-write-english-prose"
     ]
   ],
@@ -215,7 +215,7 @@
       "https://news.ycombinator.com/item?id=49038035"
     ],
     [
-      "History of John Backus's functional programming project [draft]",
+      "History of John Backus's functional programming project (draft)",
       "https://softwarepreservation.computerhistory.org/FP/"
     ]
   ],
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2026-07-23, 12:01:52",
+      "https://news.ycombinator.com/item?id=49020219"
+    ],
+    [
+      "I wanted a clock that never needed setting. Things escalated",
+      "https://arstechnica.com/gadgets/2026/07/i-wanted-a-clock-that-never-needed-setting-things-escalated/"
+    ]
+  ],
+  [
+    [
       "2026-07-23, 04:25:24",
       "https://news.ycombinator.com/item?id=49016917"
     ],
@@ -261,12 +271,12 @@
   ],
   [
     [
-      "2026-07-22, 18:25:12",
-      "https://news.ycombinator.com/item?id=49011210"
+      "2026-07-22, 19:42:48",
+      "https://news.ycombinator.com/item?id=49012339"
     ],
     [
-      "Jacobian Conjecture for Baby",
-      "https://muchmirul.github.io/jacobian-conjecture/"
+      "Why care about programming languages",
+      "https://ebellani.github.io/blog/2026/why-care-about-programming-languages/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Some more things about Django I've been enjoying",
       "https://jvns.ca/blog/2026/07/21/more-nice-django-things/"
-    ]
-  ],
-  [
-    [
-      "2026-07-21, 19:28:55",
-      "https://news.ycombinator.com/item?id=48997008"
-    ],
-    [
-      "Jimothy the raccoon has a rare spinal condition. Here's what that means",
-      "https://www.popsci.com/science/whats-jimothy-raccoon-condition/"
     ]
   ]
 ]
