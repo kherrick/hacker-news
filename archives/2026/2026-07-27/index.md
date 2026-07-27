@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-27](index.md)
 
+* [2026-07-27, 20:50:58](https://news.ycombinator.com/item?id=49075350) - [US DOT deleting bike lane references](https://www.npr.org/2026/07/23/nx-s1-5900901/bike-lanes-dot-websites)
 * [2026-07-27, 19:58:22](https://news.ycombinator.com/item?id=49074817) - [Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals](https://www.rise-reforming.com)
 * [2026-07-27, 19:46:05](https://news.ycombinator.com/item?id=49074680) - [Professor's invisible prompt trap catches 32/35 students cheating with AI](https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html)
 * [2026-07-27, 18:43:31](https://news.ycombinator.com/item?id=49073942) - [Self-contained highly-portable Python distributions](https://gregoryszorc.com/docs/python-build-standalone/main/)
