@@ -4,14 +4,17 @@
 
 ### [Archives](../../index.md) for [2026-07-27](index.md)
 
+* [2026-07-27, 16:02:00](https://news.ycombinator.com/item?id=49071512) - [Nvidia's $750B in Deals Reignite Circular AI Fears](https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing)
 * [2026-07-27, 15:57:15](https://news.ycombinator.com/item?id=49071441) - [All major LLMs are lib-left. Even Grok, half the time](https://unslop.run/blog/political-compass-of-llms)
 * [2026-07-27, 15:23:45](https://news.ycombinator.com/item?id=49070985) - [Kimi-K3 Technical Report [pdf]](https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf)
 * [2026-07-27, 15:11:51](https://news.ycombinator.com/item?id=49070820) - [Minecraft Java raises recommended memory to 16GB ahead of Vulkan transition](https://videocardz.com/newz/minecraft-java-edition-raises-recommended-memory-to-16gb-ahead-of-vulkan-transition)
 * [2026-07-27, 14:42:41](https://news.ycombinator.com/item?id=49070427) - [Apple Will 'Watch Everything Burn' When the AI Bubble Bursts](https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/)
+* [2026-07-27, 14:22:34](https://news.ycombinator.com/item?id=49070138) - [Paged Out #9 [pdf]](https://pagedout.institute/download/PagedOut_009.pdf)
 * [2026-07-27, 14:07:48](https://news.ycombinator.com/item?id=49069939) - [AI companies spend record sums on Washington lobbying](https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db)
 * [2026-07-27, 13:57:33](https://news.ycombinator.com/item?id=49069791) - [DIY Home Solar System for under $5000](https://www.gavinmai.com/1736354308000-diy-home-solar-backup-system)
 * [2026-07-27, 13:29:12](https://news.ycombinator.com/item?id=49069447) - [We Tested Nonstick Cookware: Coatings Don't Need to Look Worn to Shed Particles](https://www.rtings.com/air-fryer/learn/research/ptfe-cookware-shedding)
 * [2026-07-27, 13:04:11](https://news.ycombinator.com/item?id=49069132) - [Should you wash your solar panels?](https://incoherency.co.uk/blog/stories/should-you-wash-your-solar-panels.html)
+* [2026-07-27, 12:44:47](https://news.ycombinator.com/item?id=49068870) - [108 PRs in eight days: Accidentally discovering loop engineering](https://brittany-ellich.offprint.app/a/3mrjj34puva23-108-prs-in-eight-days-accidentally-discovering-loop-engineering)
 * [2026-07-27, 12:32:12](https://news.ycombinator.com/item?id=49068738) - [AI companies are shredding rare books](https://xcancel.com/HedgieMarkets/status/2081534588485296565)
 * [2026-07-27, 12:32:12](https://news.ycombinator.com/item?id=49068738) - [AI companies are shredding rare books](https://twitter.com/HedgieMarkets/status/2081534588485296565)
 * [2026-07-27, 12:29:24](https://news.ycombinator.com/item?id=49068711) - [The Proof Machine (2016)](https://incredible.pm/)
