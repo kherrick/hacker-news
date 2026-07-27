@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-07-27, 00:19:04](https://news.ycombinator.com/item?id=49063754) - [PGSimCity - How PostgreSQL Works](https://nikolays.github.io/PGSimCity/)
-* [2026-07-27, 00:03:48](https://news.ycombinator.com/item?id=49063648) - [Show HN: Port Zero – how I learned to stop worrying and love PORT=0](https://portzero.net/)
 * [2026-07-26, 23:45:09](https://news.ycombinator.com/item?id=49063523) - [Fonts In Use – Find out where a font is used](https://fontsinuse.com/)
 * [2026-07-26, 22:46:10](https://news.ycombinator.com/item?id=49063175) - [Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary](https://github.com/vercel-labs/scriptc)
 * [2026-07-26, 22:21:41](https://news.ycombinator.com/item?id=49063022) - [US citizen charged after GrapheneOS phone wipes during airport search](https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html)
@@ -30,6 +29,7 @@
 * [2026-07-22, 18:25:12](https://news.ycombinator.com/item?id=49011210) - [Jacobian Conjecture for Baby](https://muchmirul.github.io/jacobian-conjecture/)
 * [2026-07-22, 12:56:54](https://news.ycombinator.com/item?id=49006049) - [What's Under Your Feet in New York City?](https://practical.engineering/blog/2026/7/21/whats-under-your-feet-in-new-york-city)
 * [2026-07-21, 20:30:22](https://news.ycombinator.com/item?id=48997828) - [Some more things about Django I've been enjoying](https://jvns.ca/blog/2026/07/21/more-nice-django-things/)
+* [2026-07-21, 19:28:55](https://news.ycombinator.com/item?id=48997008) - [Jimothy the raccoon has a rare spinal condition. Here's what that means](https://www.popsci.com/science/whats-jimothy-raccoon-condition/)
 
 ## [Archives](archives/index.md)
 
