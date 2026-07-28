@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-07-28](index.md)
 
+* [2026-07-28, 22:24:06](https://news.ycombinator.com/item?id=49090794) - [Offer rates for tech jobs fell from 51% to 39% since 2015](https://www.interviewquery.com/p/tech-interview-offer-rates-lowest-12-years)
+* [2026-07-28, 22:09:06](https://news.ycombinator.com/item?id=49090607) - [Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript](https://github.com/twalichiewicz/HNewhere)
 * [2026-07-28, 21:35:19](https://news.ycombinator.com/item?id=49090233) - [Running Kimi K3 on a M1 Mac](https://github.com/gavamedia/deltafin)
 * [2026-07-28, 21:22:48](https://news.ycombinator.com/item?id=49090083) - [Anthropic publishes a practical key-recovery attack on HAWK-256](https://github.com/anthropics/cryptography-research-demo)
 * [2026-07-28, 20:58:39](https://news.ycombinator.com/item?id=49089814) - [Half-Life ported to Mac OS 9](https://mac-classic.com/news/half-life-ported-to-mac-os-9/)
 * [2026-07-28, 20:52:55](https://news.ycombinator.com/item?id=49089755) - [OpenAI just open-sourced Codex Security](https://github.com/openai/codex-security)
+* [2026-07-28, 20:37:29](https://news.ycombinator.com/item?id=49089600) - [Toolcraft](https://toolcraft.sh)
 * [2026-07-28, 20:20:51](https://news.ycombinator.com/item?id=49089406) - [Recursion Is Lying to You](https://blog.gaborkoos.com/posts/2026-05-09-Your-Recursion-Is-Lying-to-You/)
 * [2026-07-28, 20:09:09](https://news.ycombinator.com/item?id=49089240) - [Pacing the frontier](https://www.pacingthefrontier.com/)
 * [2026-07-28, 19:54:38](https://news.ycombinator.com/item?id=49089045) - [Hulios: An eBPF-powered, transparent Tor gateway for Linux](https://github.com/ghaziwali/Hulios)
