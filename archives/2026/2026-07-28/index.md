@@ -4,6 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-07-28](index.md)
 
+* [2026-07-28, 12:34:07](https://news.ycombinator.com/item?id=49082857) - [I'm 38 and I Can't Support Myself Anymore](https://itsmevox.substack.com/p/im-38-and-i-cant-support-myself-anymore)
+* [2026-07-28, 12:19:07](https://news.ycombinator.com/item?id=49082695) - [Mondragon Corporation – a federation of co-operatives](https://en.wikipedia.org/wiki/Mondragon_Corporation)
+* [2026-07-28, 12:02:57](https://news.ycombinator.com/item?id=49082550) - [Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)](https://jfrog.com/blog/jfrog-and-openai-collaboration-on-zero-day-security-findings/)
+* [2026-07-28, 10:52:30](https://news.ycombinator.com/item?id=49082022) - [Kimi Linear: An Expressive, Efficient Attention Architecture](https://arxiv.org/abs/2510.26692)
+* [2026-07-28, 10:33:57](https://news.ycombinator.com/item?id=49081887) - [Show HN: Open-source Cloudflare deployed agent native task management and wiki](https://tajd.github.io/projektor/)
+* [2026-07-28, 10:30:54](https://news.ycombinator.com/item?id=49081862) - [Usenet Archive Toolkit – process Usenet messages into a searchable archive](https://github.com/wolfpld/usenetarchive)
+* [2026-07-28, 10:20:50](https://news.ycombinator.com/item?id=49081783) - [DMARC Has Been Public Since 2012. 68.4% of Domains Still Don't Enforce It](https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026)
 * [2026-07-28, 09:59:13](https://news.ycombinator.com/item?id=49081644) - [Google's Beyond Zero: Enterprise Security for the AI Era](https://spawn-queue.acm.org/doi/10.1145/3819083)
 * [2026-07-28, 09:52:31](https://news.ycombinator.com/item?id=49081594) - [What Even Are Microservices?](https://var0.xyz/posts/what-even-are-microservices.html)
 * [2026-07-28, 09:45:43](https://news.ycombinator.com/item?id=49081555) - [About the security content of macOS Tahoe 26.6](https://support.apple.com/en-us/128067)
