@@ -6,6 +6,7 @@
 
 * [2026-07-24, 23:13:18](https://news.ycombinator.com/item?id=49042751) - [Sperm Whales blow bubbles to achieve restful, vertical sleep](https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/)
 * [2026-07-24, 22:44:38](https://news.ycombinator.com/item?id=49042528) - [SpaceX Starship Flight 13 livestream [video]](https://www.spacex.com/launches/starship-flight-13)
+* [2026-07-24, 22:34:05](https://news.ycombinator.com/item?id=49042438) - [Dolmenwood: Fantasy RPG built around the acclaimed Old-School Essentials rules](https://necroticgnome.com/collections/dolmenwood)
 * [2026-07-24, 22:24:08](https://news.ycombinator.com/item?id=49042354) - [AIs don't do what you want. This is bad](https://rewardhacking.org)
 * [2026-07-24, 21:03:10](https://news.ycombinator.com/item?id=49041546) - [Show HN: Max Studio Tools (C++ DSP Modules for Max and Ableton Live)](https://github.com/apresta/max-studio-tools)
 * [2026-07-24, 20:35:21](https://news.ycombinator.com/item?id=49041256) - [RTX 2080 Ti Memory Upgrade to 22 GB](https://gpusolutions.net/rbservices/graphics-card-upgrade/)
