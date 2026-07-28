@@ -1,6 +1,76 @@
 [
   [
     [
+      "2026-07-28, 12:34:07",
+      "https://news.ycombinator.com/item?id=49082857"
+    ],
+    [
+      "I'm 38 and I Can't Support Myself Anymore",
+      "https://itsmevox.substack.com/p/im-38-and-i-cant-support-myself-anymore"
+    ]
+  ],
+  [
+    [
+      "2026-07-28, 12:19:07",
+      "https://news.ycombinator.com/item?id=49082695"
+    ],
+    [
+      "Mondragon Corporation – a federation of co-operatives",
+      "https://en.wikipedia.org/wiki/Mondragon_Corporation"
+    ]
+  ],
+  [
+    [
+      "2026-07-28, 12:02:57",
+      "https://news.ycombinator.com/item?id=49082550"
+    ],
+    [
+      "Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)",
+      "https://jfrog.com/blog/jfrog-and-openai-collaboration-on-zero-day-security-findings/"
+    ]
+  ],
+  [
+    [
+      "2026-07-28, 10:52:30",
+      "https://news.ycombinator.com/item?id=49082022"
+    ],
+    [
+      "Kimi Linear: An Expressive, Efficient Attention Architecture",
+      "https://arxiv.org/abs/2510.26692"
+    ]
+  ],
+  [
+    [
+      "2026-07-28, 10:33:57",
+      "https://news.ycombinator.com/item?id=49081887"
+    ],
+    [
+      "Show HN: Open-source Cloudflare deployed agent native task management and wiki",
+      "https://tajd.github.io/projektor/"
+    ]
+  ],
+  [
+    [
+      "2026-07-28, 10:30:54",
+      "https://news.ycombinator.com/item?id=49081862"
+    ],
+    [
+      "Usenet Archive Toolkit – process Usenet messages into a searchable archive",
+      "https://github.com/wolfpld/usenetarchive"
+    ]
+  ],
+  [
+    [
+      "2026-07-28, 10:20:50",
+      "https://news.ycombinator.com/item?id=49081783"
+    ],
+    [
+      "DMARC Has Been Public Since 2012. 68.4% of Domains Still Don't Enforce It",
+      "https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026"
+    ]
+  ],
+  [
+    [
       "2026-07-28, 09:59:13",
       "https://news.ycombinator.com/item?id=49081644"
     ],
@@ -41,16 +111,6 @@
   ],
   [
     [
-      "2026-07-28, 04:49:54",
-      "https://news.ycombinator.com/item?id=49079490"
-    ],
-    [
-      "Neutrino-1 8B",
-      "https://www.fermionresearch.com/models/neutrino-8b/"
-    ]
-  ],
-  [
-    [
       "2026-07-28, 04:46:00",
       "https://news.ycombinator.com/item?id=49079454"
     ],
@@ -81,32 +141,12 @@
   ],
   [
     [
-      "2026-07-28, 00:06:53",
-      "https://news.ycombinator.com/item?id=49077443"
-    ],
-    [
-      "Don't ask an LLM for a confidence score",
-      "https://justinflick.com/2026/07/27/llm-confidence-scores.html"
-    ]
-  ],
-  [
-    [
       "2026-07-27, 23:14:19",
       "https://news.ycombinator.com/item?id=49076840"
     ],
     [
       "DConf 2026 in London",
       "https://dconf.org/2026/index.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-27, 23:09:50",
-      "https://news.ycombinator.com/item?id=49076791"
-    ],
-    [
-      "C/C++ projects packaged for Zig",
-      "https://github.com/allyourcodebase"
     ]
   ],
   [
@@ -151,16 +191,6 @@
   ],
   [
     [
-      "2026-07-27, 18:43:31",
-      "https://news.ycombinator.com/item?id=49073942"
-    ],
-    [
-      "Self-contained highly-portable Python distributions",
-      "https://gregoryszorc.com/docs/python-build-standalone/main/"
-    ]
-  ],
-  [
-    [
       "2026-07-27, 18:36:02",
       "https://news.ycombinator.com/item?id=49073834"
     ],
@@ -171,12 +201,12 @@
   ],
   [
     [
-      "2026-07-27, 15:40:17",
-      "https://news.ycombinator.com/item?id=49071190"
+      "2026-07-27, 17:02:41",
+      "https://news.ycombinator.com/item?id=49072523"
     ],
     [
-      "How real are real numbers? (2004)",
-      "https://arxiv.org/abs/math/0411418"
+      "UpCodes (YC S17) is hiring remote AE's to help make buildings cheaper",
+      "https://up.codes/careers?utm_source=HN"
     ]
   ],
   [
@@ -187,16 +217,6 @@
     [
       "Paged Out #9 [pdf]",
       "https://pagedout.institute/download/PagedOut_009.pdf"
-    ]
-  ],
-  [
-    [
-      "2026-07-25, 17:37:22",
-      "https://news.ycombinator.com/item?id=49049724"
-    ],
-    [
-      "Some combinatorial applications of spacefilling curves",
-      "https://www2.isye.gatech.edu/~jjb/research/mow/mow.html"
     ]
   ],
   [
@@ -217,6 +237,16 @@
     [
       "RTX 2080 Ti Memory Upgrade to 22 GB",
       "https://gpusolutions.net/rbservices/graphics-card-upgrade/"
+    ]
+  ],
+  [
+    [
+      "2026-07-24, 19:37:18",
+      "https://news.ycombinator.com/item?id=49040650"
+    ],
+    [
+      "Show HN: Scala Tutorials – interactive Scala 3 lessons in the browser",
+      "https://scalatutorials.com"
     ]
   ],
   [
@@ -251,42 +281,12 @@
   ],
   [
     [
-      "2026-07-24, 04:50:10",
-      "https://news.ycombinator.com/item?id=49031322"
-    ],
-    [
-      "A Dying Art: The last of the morticians",
-      "https://harpers.org/archive/2026/08/a-dying-art-john-semley-mortuary-sciences-competition/"
-    ]
-  ],
-  [
-    [
       "2026-07-24, 02:19:26",
       "https://news.ycombinator.com/item?id=49030552"
     ],
     [
       "Which Odyssey translation wins a blind reading test?",
       "https://homer.scrivium.com/report/"
-    ]
-  ],
-  [
-    [
-      "2026-07-23, 13:11:30",
-      "https://news.ycombinator.com/item?id=49021024"
-    ],
-    [
-      "Securing Services with Rootless Containers",
-      "https://blog.coderspirit.xyz/blog/2026/07/06/securing-services-with-rootless-containers/"
-    ]
-  ],
-  [
-    [
-      "2026-07-23, 13:10:06",
-      "https://news.ycombinator.com/item?id=49021007"
-    ],
-    [
-      "Ray tracing massive amounts of animated geometry using tetrahedral cages",
-      "https://gpuopen.com/learn/ray-tracing-massive-amounts-animated-geometry/"
     ]
   ],
   [
