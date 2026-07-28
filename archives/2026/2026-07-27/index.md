@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-07-27](index.md)
 
 * [2026-07-27, 23:46:15](https://news.ycombinator.com/item?id=49077209) - [The Burau representation of the braid group is faithful for n = 4](https://arxiv.org/abs/2607.05283)
+* [2026-07-27, 23:33:04](https://news.ycombinator.com/item?id=49077040) - [Interview with Boris Cherny [video]](https://www.youtube.com/watch?v=qyPCVqFUyDo)
 * [2026-07-27, 23:26:15](https://news.ycombinator.com/item?id=49076978) - [Show HN: Trylle – The Next-Gen Git Platform for Modern Teams](https://trylle.com/home)
 * [2026-07-27, 23:26:05](https://news.ycombinator.com/item?id=49076975) - [Show HN: Dowe – A full-stack language for server, web, desktop, Android, and iOS](https://www.dowe.dev)
 * [2026-07-27, 23:21:37](https://news.ycombinator.com/item?id=49076923) - [Netflix employee fired for sharing personal details in retreat trust exercise](https://www.inc.com/amaya-nichole/netflix-company-retreat-sparked-lawsuit-experts-say-real-damage-may-be-just-beginning/91380349)

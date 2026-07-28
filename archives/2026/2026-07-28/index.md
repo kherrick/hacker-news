@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-07-28](index.md)
 
+* [2026-07-28, 20:52:55](https://news.ycombinator.com/item?id=49089755) - [OpenAI just open-sourced Codex Security](https://github.com/openai/codex-security)
 * [2026-07-28, 20:20:51](https://news.ycombinator.com/item?id=49089406) - [Recursion Is Lying to You](https://blog.gaborkoos.com/posts/2026-05-09-Your-Recursion-Is-Lying-to-You/)
+* [2026-07-28, 20:09:09](https://news.ycombinator.com/item?id=49089240) - [Pacing the frontier](https://www.pacingthefrontier.com/)
 * [2026-07-28, 19:54:38](https://news.ycombinator.com/item?id=49089045) - [Hulios: An eBPF-powered, transparent Tor gateway for Linux](https://github.com/ghaziwali/Hulios)
 * [2026-07-28, 19:41:33](https://news.ycombinator.com/item?id=49088887) - [Uv 0.12.0](https://github.com/astral-sh/uv/releases/tag/0.12.0)
 * [2026-07-28, 19:06:10](https://news.ycombinator.com/item?id=49088451) - [Donate to GrapheneOS](https://grapheneos.org/donate)

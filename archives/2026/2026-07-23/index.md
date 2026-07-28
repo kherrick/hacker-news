@@ -10,6 +10,7 @@
 * [2026-07-23, 22:51:13](https://news.ycombinator.com/item?id=49029133) - [A Taxonomy of Omnicidal Futures Involving Artificial Intelligence](https://arxiv.org/abs/2507.09369)
 * [2026-07-23, 22:30:29](https://news.ycombinator.com/item?id=49028927) - [98.css](https://jdan.github.io/98.css/#status-bar)
 * [2026-07-23, 22:30:08](https://news.ycombinator.com/item?id=49028922) - [Building watchable digital twins of 64 World Cup games](https://rogerdickey.com/building-watchable-digital-twins-of-64-world-cup-games/)
+* [2026-07-23, 21:33:28](https://news.ycombinator.com/item?id=49028358) - [Show HN: How far do I have to go to run into 100k people?](https://imjasonh.github.io/playground/population-rays/)
 * [2026-07-23, 21:17:34](https://news.ycombinator.com/item?id=49028169) - [Pip install Postgres – no Docker/Brew/apt](https://github.com/leontrolski/postgresql-testing)
 * [2026-07-23, 21:05:29](https://news.ycombinator.com/item?id=49028037) - [Namecheap Gave My Account to an Unverified Third Party Just Because They Asked](https://news.ycombinator.com/item?id=49028037)
 * [2026-07-23, 20:59:42](https://news.ycombinator.com/item?id=49027989) - [Colorblind: Checking figure accessibility for colour blind people](https://quantixed.org/2022/05/19/colorblind-checking-figure-accessibility-for-colour-blind-people/)
