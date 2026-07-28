@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-28](index.md)
 
+* [2026-07-28, 09:59:13](https://news.ycombinator.com/item?id=49081644) - [Google's Beyond Zero: Enterprise Security for the AI Era](https://spawn-queue.acm.org/doi/10.1145/3819083)
 * [2026-07-28, 09:52:31](https://news.ycombinator.com/item?id=49081594) - [What Even Are Microservices?](https://var0.xyz/posts/what-even-are-microservices.html)
 * [2026-07-28, 09:45:43](https://news.ycombinator.com/item?id=49081555) - [About the security content of macOS Tahoe 26.6](https://support.apple.com/en-us/128067)
 * [2026-07-28, 07:44:24](https://news.ycombinator.com/item?id=49080664) - [7.1 Earthquake in Japan](https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en)

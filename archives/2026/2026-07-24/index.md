@@ -13,6 +13,7 @@
 * [2026-07-24, 19:45:10](https://news.ycombinator.com/item?id=49040741) - [Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard](https://artificialanalysis.ai/models)
 * [2026-07-24, 19:05:53](https://news.ycombinator.com/item?id=49040296) - [Postgres LISTEN/NOTIFY actually scales](https://www.dbos.dev/blog/postgres-listen-notify-scalability)
 * [2026-07-24, 18:37:06](https://news.ycombinator.com/item?id=49039868) - [Show HN: I made some transistor animations](https://brandonli.net/semisim/animations)
+* [2026-07-24, 18:12:00](https://news.ycombinator.com/item?id=49039555) - [Golang Maps: how Swiss Tables replaced the old bucket design](https://blog.gaborkoos.com/posts/2026-07-24-Golang-Maps-How-Swiss-Tables-Replaced-the-Old-Bucket-Design/)
 * [2026-07-24, 18:07:08](https://news.ycombinator.com/item?id=49039490) - [BGP ORIGIN attribute manipulation and its impact on the Internet](https://blog.cloudflare.com/bgp-origin-attribute/)
 * [2026-07-24, 18:03:22](https://news.ycombinator.com/item?id=49039448) - [I got into YC by hacking it](https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html)
 * [2026-07-24, 17:59:08](https://news.ycombinator.com/item?id=49039395) - [Gsxui – Shadcn-style components for Go](https://ui.gsxhq.dev/)
