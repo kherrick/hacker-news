@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-07-27](index.md)
 
+* [2026-07-27, 23:46:15](https://news.ycombinator.com/item?id=49077209) - [The Burau representation of the braid group is faithful for n = 4](https://arxiv.org/abs/2607.05283)
 * [2026-07-27, 23:26:05](https://news.ycombinator.com/item?id=49076975) - [Show HN: Dowe – A full-stack language for server, web, desktop, Android, and iOS](https://www.dowe.dev)
 * [2026-07-27, 23:21:37](https://news.ycombinator.com/item?id=49076923) - [Netflix employee fired for sharing personal details in retreat trust exercise](https://www.inc.com/amaya-nichole/netflix-company-retreat-sparked-lawsuit-experts-say-real-damage-may-be-just-beginning/91380349)
+* [2026-07-27, 23:19:19](https://news.ycombinator.com/item?id=49076900) - [Astronauts describe persistent 'observer' sensation after 6 month missions](https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/)
 * [2026-07-27, 23:14:19](https://news.ycombinator.com/item?id=49076840) - [DConf 2026 in London](https://dconf.org/2026/index.html)
 * [2026-07-27, 23:09:50](https://news.ycombinator.com/item?id=49076791) - [C/C++ projects packaged for Zig](https://github.com/allyourcodebase)
 * [2026-07-27, 23:04:13](https://news.ycombinator.com/item?id=49076712) - [America has become an entrepreneur's paradise](https://www.economist.com/business/2026/07/27/america-has-become-an-entrepreneurs-paradise)
