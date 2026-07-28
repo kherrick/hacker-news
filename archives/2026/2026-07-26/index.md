@@ -40,6 +40,7 @@
 * [2026-07-26, 15:53:55](https://news.ycombinator.com/item?id=49059398) - [Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs](https://github.com/gmrandazzo/CheapSecurity)
 * [2026-07-26, 15:51:12](https://news.ycombinator.com/item?id=49059367) - [Design Is Compromise](https://stephango.com/design-is-compromise)
 * [2026-07-26, 15:17:06](https://news.ycombinator.com/item?id=49058993) - [An Inside Look at the Token Reseller Market](https://vectoral.com/blog/token-relay-market)
+* [2026-07-26, 15:13:26](https://news.ycombinator.com/item?id=49058956) - [Robotics development made dead simple (open source)](https://news.ycombinator.com/item?id=49058956)
 * [2026-07-26, 14:40:27](https://news.ycombinator.com/item?id=49058669) - [Park by Robot at London Gatwick Airport](https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/)
 * [2026-07-26, 14:07:06](https://news.ycombinator.com/item?id=49058384) - [3D-printed F-14 Tomcat uses FPGA recreation of the first microprocessor](https://www.tomshardware.com/pc-components/cpus/3d-printed-f-14-tomcat-uses-an-fpga-recreation-of-the-worlds-first-microprocessor-cadcs-mp944-chip-controls-the-fighters-swing-wing-system-among-other-things)
 * [2026-07-26, 13:25:17](https://news.ycombinator.com/item?id=49057985) - [Show HN: Managing on-premise servers without Kubernetes](https://github.com/ricardoborges/Nautilus)
