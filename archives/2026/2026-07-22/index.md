@@ -30,6 +30,7 @@
 * [2026-07-22, 19:22:19](https://news.ycombinator.com/item?id=49012070) - [John C. Dvorak has died](https://twitter.com/na_announce/status/2079952538040672302)
 * [2026-07-22, 19:15:21](https://news.ycombinator.com/item?id=49011999) - [ICE shared Medicaid data it wasn't supposed to have with Palantir](https://www.npr.org/2026/07/17/nx-s1-5898504/ice-medicaid-palantir-data)
 * [2026-07-22, 19:05:23](https://news.ycombinator.com/item?id=49011834) - [Building GCC 1.27](http://kristerw.blogspot.com/2019/01/building-gcc-127.html)
+* [2026-07-22, 18:59:35](https://news.ycombinator.com/item?id=49011739) - [Using a Gaming PC's RTX 5070 from a separate Linux workstation](https://stephenkrings.com/posts/rtx-5070-linux-gpu-server/)
 * [2026-07-22, 18:55:42](https://news.ycombinator.com/item?id=49011687) - [Clarity didn't work, trying mysterianism](https://gwern.net/doc/fiction/science-fiction/2012-10-03-yvain-thewhisperingearring.html)
 * [2026-07-22, 18:25:12](https://news.ycombinator.com/item?id=49011210) - [Jacobian Conjecture for Baby](https://muchmirul.github.io/jacobian-conjecture/)
 * [2026-07-22, 18:09:26](https://news.ycombinator.com/item?id=49010993) - [Building a Tiny 3D Renderer for a Tiny Handheld](https://saffroncr.itch.io/katavatis/devlog/1534514/building-a-tiny-3d-renderer-for-a-tiny-handheld)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-28](index.md)
 
+* [2026-07-28, 17:37:12](https://news.ycombinator.com/item?id=49087306) - [iPhone Upgrade Program](https://www.apple.com/shop/iphone/iphone-upgrade-program)
 * [2026-07-28, 17:22:16](https://news.ycombinator.com/item?id=49087091) - [Discovering Cryptographic Weaknesses with Claude](https://www.anthropic.com/research/discovering-cryptographic-weaknesses)
 * [2026-07-28, 17:13:15](https://news.ycombinator.com/item?id=49086987) - [Scientific computing in the age of agentic AI](https://openai.com/index/scientific-computing-agentic-ai/)
 * [2026-07-28, 17:11:54](https://news.ycombinator.com/item?id=49086971) - [Steel Bank Common Lisp version 2.6.7](https://sbcl.org/all-news.html?2.6.7)
@@ -27,6 +28,7 @@
 * [2026-07-28, 15:01:15](https://news.ycombinator.com/item?id=49084989) - [Anthropeum](https://anthropeum.com/)
 * [2026-07-28, 15:01:12](https://news.ycombinator.com/item?id=49084987) - [Now Is the Time to Give LLMs Access to the ACM Digital Library](https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/)
 * [2026-07-28, 14:58:15](https://news.ycombinator.com/item?id=49084938) - [Stop Killing the Internet: No Digital ID and No Age Verification](https://citizens-initiative.europa.eu/initiatives/details/2026/000011_en)
+* [2026-07-28, 14:48:13](https://news.ycombinator.com/item?id=49084813) - [Una Watch: Garmin watch competitor but repairable, open ecosystem and USB-C](https://unawatch.com/)
 * [2026-07-28, 14:25:36](https://news.ycombinator.com/item?id=49084404) - [Ask HN: Crooked Timber showed showed me a virus captcha, What now?](https://news.ycombinator.com/item?id=49084404)
 * [2026-07-28, 14:05:51](https://news.ycombinator.com/item?id=49084091) - [Italy Blocks Reproductive Health Websites Women on Web and Women Help Women](https://ooni.org/post/2026-italy-blocks-wow-and-whw)
 * [2026-07-28, 14:00:37](https://news.ycombinator.com/item?id=49084031) - [Why a $154B CEO just endorsed stripping most Americans of voting rights](https://fortune.com/2026/07/27/shopify-ceo-voting-rights-stripping-americans-19th-century/)
