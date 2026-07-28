@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-28, 05:25:34",
+      "https://news.ycombinator.com/item?id=49079727"
+    ],
+    [
+      "Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts",
+      "https://arsastronomica.com/"
+    ]
+  ],
+  [
+    [
       "2026-07-28, 04:49:54",
       "https://news.ycombinator.com/item?id=49079490"
     ],
@@ -17,6 +27,16 @@
     [
       "PyTorch: A Reference Language",
       "https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/"
+    ]
+  ],
+  [
+    [
+      "2026-07-28, 04:11:45",
+      "https://news.ycombinator.com/item?id=49079247"
+    ],
+    [
+      "Show HN: A 6M-token movable window on a single 46GB GPU",
+      "https://arxiv.org/abs/2607.23806"
     ]
   ],
   [
@@ -55,7 +75,7 @@
       "https://news.ycombinator.com/item?id=49078575"
     ],
     [
-      "An Uncomplicated Man",
+      "An Uncomplicated Man – A review of The Odyssey, directed by Christopher Nolan",
       "https://www.lrb.co.uk/the-paper/v48/n14/emily-wilson/an-uncomplicated-man"
     ]
   ],
@@ -81,16 +101,6 @@
   ],
   [
     [
-      "2026-07-28, 01:51:18",
-      "https://news.ycombinator.com/item?id=49078266"
-    ],
-    [
-      "Residential Proxies Are a National Security Threat",
-      "https://jacob.gold/posts/residential-proxies-are-a-national-security-threat/"
-    ]
-  ],
-  [
-    [
       "2026-07-28, 01:13:26",
       "https://news.ycombinator.com/item?id=49077999"
     ],
@@ -107,16 +117,6 @@
     [
       "The Burau representation of the braid group is faithful for n = 4",
       "https://arxiv.org/abs/2607.05283"
-    ]
-  ],
-  [
-    [
-      "2026-07-27, 23:21:37",
-      "https://news.ycombinator.com/item?id=49076923"
-    ],
-    [
-      "Netflix employee fired for sharing personal details in retreat trust exercise",
-      "https://nypost.com/2026/07/26/us-news/netflix-exec-goes-ballistic-after-being-fired-for-stunning-trust-exercise-confession-at-retreat-suit/"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2026-07-27, 17:02:41",
-      "https://news.ycombinator.com/item?id=49072523"
-    ],
-    [
-      "UpCodes (YC S17) is hiring remote AE's to help make buildings cheaper",
-      "https://up.codes/careers?utm_source=HN"
-    ]
-  ],
-  [
-    [
       "2026-07-25, 18:05:59",
       "https://news.ycombinator.com/item?id=49050021"
     ],
@@ -297,6 +287,16 @@
     [
       "Glue bonds to nonstick surfaces and wipes clean with ethanol",
       "https://cen.acs.org/materials/adhesives/glue-bonds-nonstick-surfaces-wipes-clean/104/web/2026/07"
+    ]
+  ],
+  [
+    [
+      "2026-07-22, 19:40:44",
+      "https://news.ycombinator.com/item?id=49012309"
+    ],
+    [
+      "The computer that helped win World War II",
+      "https://spectrum.ieee.org/colossus-computer-ieee-milestone"
     ]
   ]
 ]
