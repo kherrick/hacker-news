@@ -41,6 +41,7 @@
 * [2026-07-24, 14:26:09](https://news.ycombinator.com/item?id=49036182) - [Mag Computer: A Mag History of RAM (1960–2025)](https://magworld.pw/episodes/computer/)
 * [2026-07-24, 14:23:39](https://news.ycombinator.com/item?id=49036136) - [3GPP Version 19](https://www.3gpp.org/specifications-technologies/releases/release-19)
 * [2026-07-24, 14:20:17](https://news.ycombinator.com/item?id=49036086) - [Preventing line breaks in <code> elements](https://alexwlchan.net/2026/non-breaking-code/)
+* [2026-07-24, 14:19:16](https://news.ycombinator.com/item?id=49036068) - [How to Survive Boiling Water](https://taxa.substack.com/p/how-to-survive-boiling-water)
 * [2026-07-24, 14:06:03](https://news.ycombinator.com/item?id=49035864) - [Writing a Debugger from Scratch](https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-1/)
 * [2026-07-24, 14:04:50](https://news.ycombinator.com/item?id=49035845) - [WebGPU Unleashed: A Practical Tutorial](https://shi-yan.github.io/webgpuunleashed/)
 * [2026-07-24, 13:58:12](https://news.ycombinator.com/item?id=49035751) - [Open Weights and American AI Leadership [pdf]](https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf)
