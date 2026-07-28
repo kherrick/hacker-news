@@ -29,6 +29,7 @@
 * [2026-07-23, 17:12:48](https://news.ycombinator.com/item?id=49024980) - [Rethinking Legal Education in the AI Era](https://www.law.uchicago.edu/news/ai-strategy-statement)
 * [2026-07-23, 17:10:02](https://news.ycombinator.com/item?id=49024938) - [Kimi K3 exploited the latest Redis server](https://twitter.com/fried_rice/status/2080059356322918777)
 * [2026-07-23, 17:06:22](https://news.ycombinator.com/item?id=49024882) - [Show HN: Claude-thermos – keeps your Claude session warm for you](https://github.com/izeigerman/claude-thermos)
+* [2026-07-23, 16:58:50](https://news.ycombinator.com/item?id=49024766) - [A Deep Logo Study](https://dannyspina.com/blog/my_new_logo_study)
 * [2026-07-23, 16:53:33](https://news.ycombinator.com/item?id=49024691) - [What just happened to TheNumbers.com should worry us all](https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all)
 * [2026-07-23, 16:49:57](https://news.ycombinator.com/item?id=49024643) - [The arguments against open source AI are bad](https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/)
 * [2026-07-23, 16:48:38](https://news.ycombinator.com/item?id=49024620) - [Launch HN: Screenpipe (YC S26) – Power your agents by your 24/7 screen recording](https://news.ycombinator.com/item?id=49024620)

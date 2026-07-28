@@ -4,9 +4,18 @@
 
 ### [Archives](../../index.md) for [2026-07-28](index.md)
 
+* [2026-07-28, 16:03:56](https://news.ycombinator.com/item?id=49085949) - [I showed an AI an image it couldn't see – then caught it lying about what it saw](https://paulshepherd.com/conversations/session-1.html)
+* [2026-07-28, 16:02:07](https://news.ycombinator.com/item?id=49085909) - [You Could Have Come Up with Kimi Delta Attention](https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention)
+* [2026-07-28, 15:55:44](https://news.ycombinator.com/item?id=49085811) - [How Do I Profile eBPF Code?](https://naveensrinivasan.com/posts/2026-07-22-how-do-i-profile-ebpf-code/)
+* [2026-07-28, 15:54:55](https://news.ycombinator.com/item?id=49085798) - [Show HN: XY – Fast, composable, GPU-accelerated charts, written in Rust](https://github.com/reflex-dev/xy)
+* [2026-07-28, 15:50:38](https://news.ycombinator.com/item?id=49085731) - [Delayed Gratification – Proud to Be 'Last to Breaking News'](https://www.slow-journalism.com/)
+* [2026-07-28, 15:46:45](https://news.ycombinator.com/item?id=49085666) - [Zig's Incremental Compilation Internals](https://mlugg.co.uk/posts/incremental-compilation-internals/)
+* [2026-07-28, 15:36:45](https://news.ycombinator.com/item?id=49085509) - [So, you want to make a game engine (2023)](https://lisyarus.github.io/blog/posts/so-you-want-to-make-a-game-engine.html#part-3)
+* [2026-07-28, 15:36:35](https://news.ycombinator.com/item?id=49085503) - [Show HN: Flashpaper – Self-destructing secret sharing with no database](https://flashpaper.app/)
 * [2026-07-28, 15:20:35](https://news.ycombinator.com/item?id=49085280) - [Harmony Explained: Progress Towards a Scientific Theory of Music (2012)](https://arxiv.org/abs/1202.4212)
 * [2026-07-28, 15:17:38](https://news.ycombinator.com/item?id=49085236) - [GrapheneOS Defends Data-Wiping Function That Blocked US Border Search](https://www.pcmag.com/news/grapheneos-defends-data-wiping-function-that-blocked-us-border-search)
 * [2026-07-28, 14:25:36](https://news.ycombinator.com/item?id=49084404) - [Ask HN: Crooked Timber showed showed me a virus captcha, What now?](https://news.ycombinator.com/item?id=49084404)
+* [2026-07-28, 14:05:51](https://news.ycombinator.com/item?id=49084091) - [Italy Blocks Reproductive Health Websites Women on Web and Women Help Women](https://ooni.org/post/2026-italy-blocks-wow-and-whw)
 * [2026-07-28, 14:00:37](https://news.ycombinator.com/item?id=49084031) - [Why a $154B CEO just endorsed stripping most Americans of voting rights](https://fortune.com/2026/07/27/shopify-ceo-voting-rights-stripping-americans-19th-century/)
 * [2026-07-28, 13:33:42](https://news.ycombinator.com/item?id=49083634) - [VMs can't boot with Network Mode set to Bridged on Apple M5 Pro machines](https://github.com/utmapp/UTM/issues/7658)
 * [2026-07-28, 13:16:52](https://news.ycombinator.com/item?id=49083389) - [Show HN: tale.fyi, we deserve a home for fiction](https://tale.fyi/@sam/announcing-tale-fyi-read-or-listen-to-an-entire-book-from-a-single-link)
