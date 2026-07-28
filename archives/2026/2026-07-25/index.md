@@ -31,6 +31,7 @@
 * [2026-07-25, 18:18:42](https://news.ycombinator.com/item?id=49050152) - [Tile's Security Is So Bad It's a Feature for Stalkers](https://blog.adafruit.com/2026/03/05/tiles-security-is-so-bad-its-a-feature-for-stalkers/)
 * [2026-07-25, 18:08:52](https://news.ycombinator.com/item?id=49050058) - [Memory Safety Absolutists](https://itsallaboutthebit.com/memory-safety-absolutists/)
 * [2026-07-25, 18:05:59](https://news.ycombinator.com/item?id=49050021) - [Three Theses on the Literacy Crisis](https://trevoraleo.substack.com/p/three-theses-on-the-literacy-crisis)
+* [2026-07-25, 17:37:22](https://news.ycombinator.com/item?id=49049724) - [Some combinatorial applications of spacefilling curves](https://www2.isye.gatech.edu/~jjb/research/mow/mow.html)
 * [2026-07-25, 17:34:34](https://news.ycombinator.com/item?id=49049693) - [Show HN: Brolly, a plain-text weather forecast site](https://brolly.sh/forecast/RWFP2qW8)
 * [2026-07-25, 17:29:55](https://news.ycombinator.com/item?id=49049638) - [Show HN: SpinWin – A macOS menu bar app to visually rotate or spin any window](https://github.com/alokdhir/spinwin)
 * [2026-07-25, 16:55:45](https://news.ycombinator.com/item?id=49049241) - [Apple Is the King of AI and Nobody Knows It](https://limitededitionjonathan.substack.com/p/apple-is-the-king-of-ai-and-nobody)

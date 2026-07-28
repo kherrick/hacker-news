@@ -8,6 +8,7 @@
 * [2026-07-27, 23:26:15](https://news.ycombinator.com/item?id=49076978) - [Show HN: Trylle – The Next-Gen Git Platform for Modern Teams](https://trylle.com/home)
 * [2026-07-27, 23:26:05](https://news.ycombinator.com/item?id=49076975) - [Show HN: Dowe – A full-stack language for server, web, desktop, Android, and iOS](https://www.dowe.dev)
 * [2026-07-27, 23:21:37](https://news.ycombinator.com/item?id=49076923) - [Netflix employee fired for sharing personal details in retreat trust exercise](https://www.inc.com/amaya-nichole/netflix-company-retreat-sparked-lawsuit-experts-say-real-damage-may-be-just-beginning/91380349)
+* [2026-07-27, 23:21:37](https://news.ycombinator.com/item?id=49076923) - [Netflix employee fired for sharing personal details in retreat trust exercise](https://nypost.com/2026/07/26/us-news/netflix-exec-goes-ballistic-after-being-fired-for-stunning-trust-exercise-confession-at-retreat-suit/)
 * [2026-07-27, 23:19:19](https://news.ycombinator.com/item?id=49076900) - [Astronauts describe persistent 'observer' sensation after 6 month missions](https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/)
 * [2026-07-27, 23:14:19](https://news.ycombinator.com/item?id=49076840) - [DConf 2026 in London](https://dconf.org/2026/index.html)
 * [2026-07-27, 23:09:50](https://news.ycombinator.com/item?id=49076791) - [C/C++ projects packaged for Zig](https://github.com/allyourcodebase)
