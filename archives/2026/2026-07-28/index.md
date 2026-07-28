@@ -4,8 +4,16 @@
 
 ### [Archives](../../index.md) for [2026-07-28](index.md)
 
+* [2026-07-28, 13:16:52](https://news.ycombinator.com/item?id=49083389) - [Show HN: tale.fyi, we deserve a home for fiction](https://tale.fyi/@sam/announcing-tale-fyi-read-or-listen-to-an-entire-book-from-a-single-link)
+* [2026-07-28, 13:15:19](https://news.ycombinator.com/item?id=49083364) - [Over 150k Flights: Airlines Just Flew the Busiest Day in Recorded History](https://simpleflying.com/over-150000-flights-airlines-busiest-day-recorded-history/)
+* [2026-07-28, 13:13:35](https://news.ycombinator.com/item?id=49083336) - [Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs](https://github.com/ctrlb-hq/ctrlb-decompose)
+* [2026-07-28, 13:12:01](https://news.ycombinator.com/item?id=49083314) - [New HIV vaccine shows unprecedented success in preclinical study](https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/)
+* [2026-07-28, 13:07:14](https://news.ycombinator.com/item?id=49083239) - [Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code](https://github.com/schildep/verified-3d-mesh-intersection)
+* [2026-07-28, 13:00:12](https://news.ycombinator.com/item?id=49083132) - [What AI developers could learn from Charles Bukowski?](https://galjot.si/what-ai-developers-could-learn-from-charles-bukowski)
 * [2026-07-28, 12:34:07](https://news.ycombinator.com/item?id=49082857) - [I'm 38 and I Can't Support Myself Anymore](https://itsmevox.substack.com/p/im-38-and-i-cant-support-myself-anymore)
+* [2026-07-28, 12:27:05](https://news.ycombinator.com/item?id=49082779) - [Show HN: Segue – Save context in one AI, load it in another by a short handle](https://segue.ai/)
 * [2026-07-28, 12:19:07](https://news.ycombinator.com/item?id=49082695) - [Mondragon Corporation – a federation of co-operatives](https://en.wikipedia.org/wiki/Mondragon_Corporation)
+* [2026-07-28, 12:04:07](https://news.ycombinator.com/item?id=49082562) - [Show HN: Vivari – Open-Source WebContainer for Node, Bun, and Python](https://vivari.jamesisme.com)
 * [2026-07-28, 12:02:57](https://news.ycombinator.com/item?id=49082550) - [Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)](https://jfrog.com/blog/jfrog-and-openai-collaboration-on-zero-day-security-findings/)
 * [2026-07-28, 10:52:30](https://news.ycombinator.com/item?id=49082022) - [Kimi Linear: An Expressive, Efficient Attention Architecture](https://arxiv.org/abs/2510.26692)
 * [2026-07-28, 10:33:57](https://news.ycombinator.com/item?id=49081887) - [Show HN: Open-source Cloudflare deployed agent native task management and wiki](https://tajd.github.io/projektor/)
