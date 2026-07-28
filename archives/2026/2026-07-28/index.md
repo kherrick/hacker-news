@@ -4,6 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-07-28](index.md)
 
+* [2026-07-28, 17:22:16](https://news.ycombinator.com/item?id=49087091) - [Discovering Cryptographic Weaknesses with Claude](https://www.anthropic.com/research/discovering-cryptographic-weaknesses)
+* [2026-07-28, 17:13:15](https://news.ycombinator.com/item?id=49086987) - [Scientific computing in the age of agentic AI](https://openai.com/index/scientific-computing-agentic-ai/)
+* [2026-07-28, 17:11:54](https://news.ycombinator.com/item?id=49086971) - [Steel Bank Common Lisp version 2.6.7](https://sbcl.org/all-news.html?2.6.7)
+* [2026-07-28, 17:05:51](https://news.ycombinator.com/item?id=49086890) - [WOFF 1.0: a milestone on W3C's journey of fonts on the web](https://www.w3.org/blog/2026/woff-1-0-a-milestone-on-w3cs-journey-of-fonts-on-the-web/)
+* [2026-07-28, 17:04:44](https://news.ycombinator.com/item?id=49086871) - [Coding Tools MCP (v0.2.2):Give any AI chat or agent a pair of hands on your code](https://github.com/xyTom/coding-tools-mcp)
+* [2026-07-28, 17:04:32](https://news.ycombinator.com/item?id=49086868) - [I vibe-coded a travel app in a weekend, security scan found 8 critical flaws](https://github.com/KrazyKulsum/trip-together-planner-21/tree/main)
+* [2026-07-28, 16:58:31](https://news.ycombinator.com/item?id=49086788) - [Substack writers, you need a website](https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/)
 * [2026-07-28, 16:10:37](https://news.ycombinator.com/item?id=49086059) - [Xenharmlib (music theory library) adds support for Just Intonation](https://xenharmlib.readthedocs.io/en/latest/whats_new_0_4_0.html)
 * [2026-07-28, 16:03:56](https://news.ycombinator.com/item?id=49085949) - [I showed an AI an image it couldn't see – then caught it lying about what it saw](https://paulshepherd.com/conversations/session-1.html)
 * [2026-07-28, 16:02:07](https://news.ycombinator.com/item?id=49085909) - [You Could Have Come Up with Kimi Delta Attention](https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention)
@@ -18,6 +25,7 @@
 * [2026-07-28, 15:20:35](https://news.ycombinator.com/item?id=49085280) - [Harmony Explained: Progress Towards a Scientific Theory of Music (2012)](https://arxiv.org/abs/1202.4212)
 * [2026-07-28, 15:17:38](https://news.ycombinator.com/item?id=49085236) - [GrapheneOS Defends Data-Wiping Function That Blocked US Border Search](https://www.pcmag.com/news/grapheneos-defends-data-wiping-function-that-blocked-us-border-search)
 * [2026-07-28, 15:01:15](https://news.ycombinator.com/item?id=49084989) - [Anthropeum](https://anthropeum.com/)
+* [2026-07-28, 15:01:12](https://news.ycombinator.com/item?id=49084987) - [Now Is the Time to Give LLMs Access to the ACM Digital Library](https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/)
 * [2026-07-28, 14:58:15](https://news.ycombinator.com/item?id=49084938) - [Stop Killing the Internet: No Digital ID and No Age Verification](https://citizens-initiative.europa.eu/initiatives/details/2026/000011_en)
 * [2026-07-28, 14:25:36](https://news.ycombinator.com/item?id=49084404) - [Ask HN: Crooked Timber showed showed me a virus captcha, What now?](https://news.ycombinator.com/item?id=49084404)
 * [2026-07-28, 14:05:51](https://news.ycombinator.com/item?id=49084091) - [Italy Blocks Reproductive Health Websites Women on Web and Women Help Women](https://ooni.org/post/2026-italy-blocks-wow-and-whw)
