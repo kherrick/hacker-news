@@ -1,12 +1,72 @@
 [
   [
     [
-      "2026-07-28, 12:34:07",
-      "https://news.ycombinator.com/item?id=49082857"
+      "2026-07-28, 13:16:52",
+      "https://news.ycombinator.com/item?id=49083389"
     ],
     [
-      "I'm 38 and I Can't Support Myself Anymore",
-      "https://itsmevox.substack.com/p/im-38-and-i-cant-support-myself-anymore"
+      "Show HN: tale.fyi, we deserve a home for fiction",
+      "https://tale.fyi/@sam/announcing-tale-fyi-read-or-listen-to-an-entire-book-from-a-single-link"
+    ]
+  ],
+  [
+    [
+      "2026-07-28, 13:15:19",
+      "https://news.ycombinator.com/item?id=49083364"
+    ],
+    [
+      "Over 150k Flights: Airlines Just Flew the Busiest Day in Recorded History",
+      "https://simpleflying.com/over-150000-flights-airlines-busiest-day-recorded-history/"
+    ]
+  ],
+  [
+    [
+      "2026-07-28, 13:13:35",
+      "https://news.ycombinator.com/item?id=49083336"
+    ],
+    [
+      "Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs",
+      "https://github.com/ctrlb-hq/ctrlb-decompose"
+    ]
+  ],
+  [
+    [
+      "2026-07-28, 13:12:01",
+      "https://news.ycombinator.com/item?id=49083314"
+    ],
+    [
+      "New HIV vaccine shows unprecedented success in preclinical study",
+      "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/"
+    ]
+  ],
+  [
+    [
+      "2026-07-28, 13:07:14",
+      "https://news.ycombinator.com/item?id=49083239"
+    ],
+    [
+      "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
+      "https://github.com/schildep/verified-3d-mesh-intersection"
+    ]
+  ],
+  [
+    [
+      "2026-07-28, 13:00:12",
+      "https://news.ycombinator.com/item?id=49083132"
+    ],
+    [
+      "What AI developers could learn from Charles Bukowski?",
+      "https://galjot.si/what-ai-developers-could-learn-from-charles-bukowski"
+    ]
+  ],
+  [
+    [
+      "2026-07-28, 12:27:05",
+      "https://news.ycombinator.com/item?id=49082779"
+    ],
+    [
+      "Show HN: Segue – Save context in one AI, load it in another by a short handle",
+      "https://segue.ai/"
     ]
   ],
   [
@@ -17,6 +77,16 @@
     [
       "Mondragon Corporation – a federation of co-operatives",
       "https://en.wikipedia.org/wiki/Mondragon_Corporation"
+    ]
+  ],
+  [
+    [
+      "2026-07-28, 12:04:07",
+      "https://news.ycombinator.com/item?id=49082562"
+    ],
+    [
+      "Show HN: Vivari – Open-Source WebContainer for Node, Bun, and Python",
+      "https://vivari.jamesisme.com"
     ]
   ],
   [
@@ -37,16 +107,6 @@
     [
       "Kimi Linear: An Expressive, Efficient Attention Architecture",
       "https://arxiv.org/abs/2510.26692"
-    ]
-  ],
-  [
-    [
-      "2026-07-28, 10:33:57",
-      "https://news.ycombinator.com/item?id=49081887"
-    ],
-    [
-      "Show HN: Open-source Cloudflare deployed agent native task management and wiki",
-      "https://tajd.github.io/projektor/"
     ]
   ],
   [
@@ -181,42 +241,12 @@
   ],
   [
     [
-      "2026-07-27, 19:58:22",
-      "https://news.ycombinator.com/item?id=49074817"
-    ],
-    [
-      "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals",
-      "https://www.rise-reforming.com"
-    ]
-  ],
-  [
-    [
-      "2026-07-27, 18:36:02",
-      "https://news.ycombinator.com/item?id=49073834"
-    ],
-    [
-      "Show HN: Yap – OSS on-device voice dictation for macOS with no model to download",
-      "https://github.com/FrigadeHQ/yap"
-    ]
-  ],
-  [
-    [
       "2026-07-27, 17:02:41",
       "https://news.ycombinator.com/item?id=49072523"
     ],
     [
       "UpCodes (YC S17) is hiring remote AE's to help make buildings cheaper",
       "https://up.codes/careers?utm_source=HN"
-    ]
-  ],
-  [
-    [
-      "2026-07-27, 14:22:34",
-      "https://news.ycombinator.com/item?id=49070138"
-    ],
-    [
-      "Paged Out #9 [pdf]",
-      "https://pagedout.institute/download/PagedOut_009.pdf"
     ]
   ],
   [
@@ -231,32 +261,12 @@
   ],
   [
     [
-      "2026-07-24, 20:35:21",
-      "https://news.ycombinator.com/item?id=49041256"
-    ],
-    [
-      "RTX 2080 Ti Memory Upgrade to 22 GB",
-      "https://gpusolutions.net/rbservices/graphics-card-upgrade/"
-    ]
-  ],
-  [
-    [
       "2026-07-24, 19:37:18",
       "https://news.ycombinator.com/item?id=49040650"
     ],
     [
       "Show HN: Scala Tutorials – interactive Scala 3 lessons in the browser",
       "https://scalatutorials.com"
-    ]
-  ],
-  [
-    [
-      "2026-07-24, 18:12:00",
-      "https://news.ycombinator.com/item?id=49039555"
-    ],
-    [
-      "Golang Maps: how Swiss Tables replaced the old bucket design",
-      "https://blog.gaborkoos.com/posts/2026-07-24-Golang-Maps-How-Swiss-Tables-Replaced-the-Old-Bucket-Design/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Programming Languages Are Authoring Tools for Platforms",
       "https://www.makonea.com/en-US/blog/programming-languages-are-authoring-tools-for-platforms"
-    ]
-  ],
-  [
-    [
-      "2026-07-24, 02:19:26",
-      "https://news.ycombinator.com/item?id=49030552"
-    ],
-    [
-      "Which Odyssey translation wins a blind reading test?",
-      "https://homer.scrivium.com/report/"
     ]
   ],
   [
