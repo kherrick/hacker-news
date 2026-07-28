@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-07-28](index.md)
 
+* [2026-07-28, 15:20:35](https://news.ycombinator.com/item?id=49085280) - [Harmony Explained: Progress Towards a Scientific Theory of Music (2012)](https://arxiv.org/abs/1202.4212)
+* [2026-07-28, 15:17:38](https://news.ycombinator.com/item?id=49085236) - [GrapheneOS Defends Data-Wiping Function That Blocked US Border Search](https://www.pcmag.com/news/grapheneos-defends-data-wiping-function-that-blocked-us-border-search)
 * [2026-07-28, 14:25:36](https://news.ycombinator.com/item?id=49084404) - [Ask HN: Crooked Timber showed showed me a virus captcha, What now?](https://news.ycombinator.com/item?id=49084404)
 * [2026-07-28, 14:00:37](https://news.ycombinator.com/item?id=49084031) - [Why a $154B CEO just endorsed stripping most Americans of voting rights](https://fortune.com/2026/07/27/shopify-ceo-voting-rights-stripping-americans-19th-century/)
+* [2026-07-28, 13:33:42](https://news.ycombinator.com/item?id=49083634) - [VMs can't boot with Network Mode set to Bridged on Apple M5 Pro machines](https://github.com/utmapp/UTM/issues/7658)
 * [2026-07-28, 13:16:52](https://news.ycombinator.com/item?id=49083389) - [Show HN: tale.fyi, we deserve a home for fiction](https://tale.fyi/@sam/announcing-tale-fyi-read-or-listen-to-an-entire-book-from-a-single-link)
 * [2026-07-28, 13:15:19](https://news.ycombinator.com/item?id=49083364) - [Over 150k Flights: Airlines Just Flew the Busiest Day in Recorded History](https://simpleflying.com/over-150000-flights-airlines-busiest-day-recorded-history/)
 * [2026-07-28, 13:13:35](https://news.ycombinator.com/item?id=49083336) - [Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs](https://github.com/ctrlb-hq/ctrlb-decompose)

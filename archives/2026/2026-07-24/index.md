@@ -28,6 +28,7 @@
 * [2026-07-24, 16:55:26](https://news.ycombinator.com/item?id=49038393) - [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5)
 * [2026-07-24, 16:52:33](https://news.ycombinator.com/item?id=49038352) - [As of JDK 27, Oracle engineers will thus stop maintaining the macOS/x64 port](https://openjdk.org/jeps/541)
 * [2026-07-24, 16:48:57](https://news.ycombinator.com/item?id=49038298) - [Don't Take the Black Pill [video]](https://www.youtube.com/watch?v=zLZwpH5lCD4)
+* [2026-07-24, 16:48:31](https://news.ycombinator.com/item?id=49038292) - [The Origins of Modern Mathematics in Russia](https://valeman.medium.com/the-origins-of-modern-mathematics-in-russia-from-peter-the-great-to-the-bernoullis-and-euler-6711b01f5f8f)
 * [2026-07-24, 16:47:23](https://news.ycombinator.com/item?id=49038276) - [Online Historical Encyclopaedia of Programming Languages](https://hopl.info/)
 * [2026-07-24, 16:41:16](https://news.ycombinator.com/item?id=49038187) - [Apple won't let me show my app](https://wisedayplanner.com/blog/apple-wont-let-me-show-my-app/)
 * [2026-07-24, 16:40:49](https://news.ycombinator.com/item?id=49038181) - [The rise and fall of language diversity through the Holocene](https://www.science.org/doi/10.1126/science.adx4343)
