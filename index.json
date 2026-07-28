@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-07-28, 19:54:38",
-      "https://news.ycombinator.com/item?id=49089045"
+      "2026-07-28, 20:20:51",
+      "https://news.ycombinator.com/item?id=49089406"
     ],
     [
-      "Hulios: An eBPF-powered, transparent Tor gateway for Linux",
-      "https://github.com/ghaziwali/Hulios"
+      "Recursion Is Lying to You",
+      "https://blog.gaborkoos.com/posts/2026-05-09-Your-Recursion-Is-Lying-to-You/"
     ]
   ],
   [
@@ -27,16 +27,6 @@
     [
       "Donate to GrapheneOS",
       "https://grapheneos.org/donate"
-    ]
-  ],
-  [
-    [
-      "2026-07-28, 18:41:48",
-      "https://news.ycombinator.com/item?id=49088148"
-    ],
-    [
-      "Deflock Casa Grande",
-      "https://deflockcg.com/"
     ]
   ],
   [
@@ -221,6 +211,26 @@
   ],
   [
     [
+      "2026-07-28, 14:46:19",
+      "https://news.ycombinator.com/item?id=49084787"
+    ],
+    [
+      "I'd not buy a LG monitor",
+      "https://beko.famkos.net/2026/07/27/id-not-buy-a-lg-monitor/"
+    ]
+  ],
+  [
+    [
+      "2026-07-28, 13:33:42",
+      "https://news.ycombinator.com/item?id=49083634"
+    ],
+    [
+      "VMs can't boot with Network Mode set to Bridged on Apple M5 Pro machines",
+      "https://github.com/utmapp/UTM/issues/7658"
+    ]
+  ],
+  [
+    [
       "2026-07-28, 13:12:01",
       "https://news.ycombinator.com/item?id=49083314"
     ],
@@ -247,16 +257,6 @@
     [
       "DMARC has been public since 2012 but most company domains still don't enforce it",
       "https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026"
-    ]
-  ],
-  [
-    [
-      "2026-07-28, 09:45:43",
-      "https://news.ycombinator.com/item?id=49081555"
-    ],
-    [
-      "About the security content of macOS Tahoe 26.6",
-      "https://support.apple.com/en-us/128067"
     ]
   ],
   [
