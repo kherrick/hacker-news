@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-07-28, 20:52:55",
+      "https://news.ycombinator.com/item?id=49089755"
+    ],
+    [
+      "OpenAI just open-sourced Codex Security",
+      "https://github.com/openai/codex-security"
+    ]
+  ],
+  [
+    [
       "2026-07-28, 20:20:51",
       "https://news.ycombinator.com/item?id=49089406"
     ],
     [
-      "Recursion Is Lying to You",
+      "Recursion is lying to you",
       "https://blog.gaborkoos.com/posts/2026-05-09-Your-Recursion-Is-Lying-to-You/"
+    ]
+  ],
+  [
+    [
+      "2026-07-28, 20:09:09",
+      "https://news.ycombinator.com/item?id=49089240"
+    ],
+    [
+      "Pacing the frontier",
+      "https://www.pacingthefrontier.com/"
+    ]
+  ],
+  [
+    [
+      "2026-07-28, 19:54:38",
+      "https://news.ycombinator.com/item?id=49089045"
+    ],
+    [
+      "Hulios: An eBPF-powered, transparent Tor gateway for Linux",
+      "https://github.com/ghaziwali/Hulios"
     ]
   ],
   [
@@ -17,16 +47,6 @@
     [
       "Uv 0.12.0",
       "https://github.com/astral-sh/uv/releases/tag/0.12.0"
-    ]
-  ],
-  [
-    [
-      "2026-07-28, 19:06:10",
-      "https://news.ycombinator.com/item?id=49088451"
-    ],
-    [
-      "Donate to GrapheneOS",
-      "https://grapheneos.org/donate"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "Substack writers, you need a website",
       "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/"
-    ]
-  ],
-  [
-    [
-      "2026-07-28, 16:02:07",
-      "https://news.ycombinator.com/item?id=49085909"
-    ],
-    [
-      "A walk through of the DeltaNet family of linear attention variants",
-      "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention"
     ]
   ],
   [
@@ -211,26 +221,6 @@
   ],
   [
     [
-      "2026-07-28, 14:46:19",
-      "https://news.ycombinator.com/item?id=49084787"
-    ],
-    [
-      "I'd not buy a LG monitor",
-      "https://beko.famkos.net/2026/07/27/id-not-buy-a-lg-monitor/"
-    ]
-  ],
-  [
-    [
-      "2026-07-28, 13:33:42",
-      "https://news.ycombinator.com/item?id=49083634"
-    ],
-    [
-      "VMs can't boot with Network Mode set to Bridged on Apple M5 Pro machines",
-      "https://github.com/utmapp/UTM/issues/7658"
-    ]
-  ],
-  [
-    [
       "2026-07-28, 13:12:01",
       "https://news.ycombinator.com/item?id=49083314"
     ],
@@ -261,12 +251,12 @@
   ],
   [
     [
-      "2026-07-28, 07:44:24",
-      "https://news.ycombinator.com/item?id=49080664"
+      "2026-07-27, 23:33:04",
+      "https://news.ycombinator.com/item?id=49077040"
     ],
     [
-      "7.1 Earthquake in Japan",
-      "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en"
+      "Interview with Boris Cherny [video]",
+      "https://www.youtube.com/watch?v=qyPCVqFUyDo"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "How to survive boiling water",
       "https://taxa.substack.com/p/how-to-survive-boiling-water"
+    ]
+  ],
+  [
+    [
+      "2026-07-23, 21:33:28",
+      "https://news.ycombinator.com/item?id=49028358"
+    ],
+    [
+      "Show HN: How far do I have to go to run into 100k people?",
+      "https://imjasonh.github.io/playground/population-rays/"
     ]
   ]
 ]
