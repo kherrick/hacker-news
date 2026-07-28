@@ -14,6 +14,7 @@
 * [2026-07-24, 19:45:10](https://news.ycombinator.com/item?id=49040741) - [Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard](https://artificialanalysis.ai/models)
 * [2026-07-24, 19:37:18](https://news.ycombinator.com/item?id=49040650) - [Show HN: Scala Tutorials – interactive Scala 3 lessons in the browser](https://scalatutorials.com)
 * [2026-07-24, 19:05:53](https://news.ycombinator.com/item?id=49040296) - [Postgres LISTEN/NOTIFY actually scales](https://www.dbos.dev/blog/postgres-listen-notify-scalability)
+* [2026-07-24, 18:39:32](https://news.ycombinator.com/item?id=49039904) - [The most advanced robotic servicing satellite–that we know about](https://arstechnica.com/space/2026/07/this-is-the-worlds-most-advanced-robotic-servicing-satellite-that-we-know-about/)
 * [2026-07-24, 18:37:06](https://news.ycombinator.com/item?id=49039868) - [Show HN: I made some transistor animations](https://brandonli.net/semisim/animations)
 * [2026-07-24, 18:12:00](https://news.ycombinator.com/item?id=49039555) - [Golang Maps: how Swiss Tables replaced the old bucket design](https://blog.gaborkoos.com/posts/2026-07-24-Golang-Maps-How-Swiss-Tables-Replaced-the-Old-Bucket-Design/)
 * [2026-07-24, 18:07:08](https://news.ycombinator.com/item?id=49039490) - [BGP ORIGIN attribute manipulation and its impact on the Internet](https://blog.cloudflare.com/bgp-origin-attribute/)
