@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-28, 17:37:12",
+      "https://news.ycombinator.com/item?id=49087306"
+    ],
+    [
+      "iPhone Upgrade Program",
+      "https://www.apple.com/shop/iphone/iphone-upgrade-program"
+    ]
+  ],
+  [
+    [
       "2026-07-28, 17:22:16",
       "https://news.ycombinator.com/item?id=49087091"
     ],
@@ -37,26 +47,6 @@
     [
       "WOFF 1.0: a milestone on W3C's journey of fonts on the web",
       "https://www.w3.org/blog/2026/woff-1-0-a-milestone-on-w3cs-journey-of-fonts-on-the-web/"
-    ]
-  ],
-  [
-    [
-      "2026-07-28, 17:04:44",
-      "https://news.ycombinator.com/item?id=49086871"
-    ],
-    [
-      "Coding Tools MCP (v0.2.2):Give any AI chat or agent a pair of hands on your code",
-      "https://github.com/xyTom/coding-tools-mcp"
-    ]
-  ],
-  [
-    [
-      "2026-07-28, 17:04:32",
-      "https://news.ycombinator.com/item?id=49086868"
-    ],
-    [
-      "I vibe-coded a travel app in a weekend, security scan found 8 critical flaws",
-      "https://github.com/KrazyKulsum/trip-together-planner-21/tree/main"
     ]
   ],
   [
@@ -105,7 +95,7 @@
       "https://news.ycombinator.com/item?id=49085798"
     ],
     [
-      "Show HN: XY – Fast, composable, GPU-accelerated Python charting library",
+      "Show HN: XY – A Fast, composable, GPU-accelerated interactive plotting library",
       "https://github.com/reflex-dev/xy"
     ]
   ],
@@ -201,6 +191,16 @@
   ],
   [
     [
+      "2026-07-28, 14:48:13",
+      "https://news.ycombinator.com/item?id=49084813"
+    ],
+    [
+      "Una Watch: Garmin watch competitor but repairable, open ecosystem and USB-C",
+      "https://unawatch.com/"
+    ]
+  ],
+  [
+    [
       "2026-07-28, 13:33:42",
       "https://news.ycombinator.com/item?id=49083634"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2026-07-24, 19:37:18",
-      "https://news.ycombinator.com/item?id=49040650"
-    ],
-    [
-      "Show HN: Scala Tutorials – interactive Scala 3 lessons in the browser",
-      "https://scalatutorials.com"
-    ]
-  ],
-  [
-    [
       "2026-07-24, 14:19:16",
       "https://news.ycombinator.com/item?id=49036068"
     ],
     [
       "How to Survive Boiling Water",
       "https://taxa.substack.com/p/how-to-survive-boiling-water"
+    ]
+  ],
+  [
+    [
+      "2026-07-22, 18:59:35",
+      "https://news.ycombinator.com/item?id=49011739"
+    ],
+    [
+      "Using a Gaming PC's RTX 5070 from a separate Linux workstation",
+      "https://stephenkrings.com/posts/rtx-5070-linux-gpu-server/"
     ]
   ]
 ]
