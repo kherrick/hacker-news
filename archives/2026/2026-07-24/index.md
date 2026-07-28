@@ -8,6 +8,7 @@
 * [2026-07-24, 22:44:38](https://news.ycombinator.com/item?id=49042528) - [SpaceX Starship Flight 13 livestream [video]](https://www.spacex.com/launches/starship-flight-13)
 * [2026-07-24, 22:24:08](https://news.ycombinator.com/item?id=49042354) - [AIs don't do what you want. This is bad](https://rewardhacking.org)
 * [2026-07-24, 21:03:10](https://news.ycombinator.com/item?id=49041546) - [Show HN: Max Studio Tools (C++ DSP Modules for Max and Ableton Live)](https://github.com/apresta/max-studio-tools)
+* [2026-07-24, 20:35:21](https://news.ycombinator.com/item?id=49041256) - [RTX 2080 Ti Memory Upgrade to 22 GB](https://gpusolutions.net/rbservices/graphics-card-upgrade/)
 * [2026-07-24, 20:07:20](https://news.ycombinator.com/item?id=49040989) - [What if we made advertising illegal?](https://simone.org/advertising/)
 * [2026-07-24, 19:45:10](https://news.ycombinator.com/item?id=49040741) - [Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard](https://artificialanalysis.ai/models)
 * [2026-07-24, 19:05:53](https://news.ycombinator.com/item?id=49040296) - [Postgres LISTEN/NOTIFY actually scales](https://www.dbos.dev/blog/postgres-listen-notify-scalability)
