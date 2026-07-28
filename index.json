@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-28, 07:44:24",
+      "https://news.ycombinator.com/item?id=49080664"
+    ],
+    [
+      "7.1 Earthquake in Japan",
+      "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en"
+    ]
+  ],
+  [
+    [
       "2026-07-28, 05:25:34",
       "https://news.ycombinator.com/item?id=49079727"
     ],
@@ -27,16 +37,6 @@
     [
       "PyTorch: A Reference Language",
       "https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/"
-    ]
-  ],
-  [
-    [
-      "2026-07-28, 04:00:41",
-      "https://news.ycombinator.com/item?id=49079175"
-    ],
-    [
-      "Why do we think we understand the world more than we actually do?",
-      "https://thedecisionlab.com/biases/the-illusion-of-explanatory-depth"
     ]
   ],
   [
@@ -147,16 +147,6 @@
     [
       "Benchmarking Opus 5 on SlopCodeBench",
       "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md"
-    ]
-  ],
-  [
-    [
-      "2026-07-27, 22:10:15",
-      "https://news.ycombinator.com/item?id=49076116"
-    ],
-    [
-      "A missing underscore sent innocent man to prison for 18 months",
-      "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Ray tracing massive amounts of animated geometry using tetrahedral cages",
       "https://gpuopen.com/learn/ray-tracing-massive-amounts-animated-geometry/"
+    ]
+  ],
+  [
+    [
+      "2026-07-23, 06:43:47",
+      "https://news.ycombinator.com/item?id=49017741"
+    ],
+    [
+      "Why copper still rules the motherboard trace",
+      "https://psyll.com/articles/technology/why-copper-still-rules-the-motherboard-trace"
     ]
   ]
 ]
