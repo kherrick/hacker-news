@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-28, 19:06:10",
+      "https://news.ycombinator.com/item?id=49088451"
+    ],
+    [
+      "Donate to GrapheneOS",
+      "https://grapheneos.org/donate"
+    ]
+  ],
+  [
+    [
       "2026-07-28, 18:41:48",
       "https://news.ycombinator.com/item?id=49088148"
     ],
@@ -21,22 +31,22 @@
   ],
   [
     [
+      "2026-07-28, 17:37:12",
+      "https://news.ycombinator.com/item?id=49087306"
+    ],
+    [
+      "The iPhone Upgrade Program is being replaced by Apple Upgrade",
+      "https://www.apple.com/shop/iphone/iphone-upgrade-program"
+    ]
+  ],
+  [
+    [
       "2026-07-28, 17:22:16",
       "https://news.ycombinator.com/item?id=49087091"
     ],
     [
       "Discovering Cryptographic Weaknesses with Claude",
       "https://www.anthropic.com/research/discovering-cryptographic-weaknesses"
-    ]
-  ],
-  [
-    [
-      "2026-07-28, 17:13:15",
-      "https://news.ycombinator.com/item?id=49086987"
-    ],
-    [
-      "Scientific computing in the age of agentic AI",
-      "https://openai.com/index/scientific-computing-agentic-ai/"
     ]
   ],
   [
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=49085909"
     ],
     [
-      "You Could Have Come Up with Kimi Delta Attention",
+      "A walk through of the DeltaNet family of linear attention variants",
       "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention"
     ]
   ],
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2026-07-28, 15:36:35",
-      "https://news.ycombinator.com/item?id=49085503"
-    ],
-    [
-      "Show HN: Flashpaper – Self-destructing secret sharing with no database",
-      "https://flashpaper.app/"
-    ]
-  ],
-  [
-    [
       "2026-07-28, 15:20:35",
       "https://news.ycombinator.com/item?id=49085280"
     ],
@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2026-07-28, 14:48:13",
+      "https://news.ycombinator.com/item?id=49084813"
+    ],
+    [
+      "Una GPS smart watch – Repairable, USB-C charging, developer-friendly",
+      "https://unawatch.com/"
+    ]
+  ],
+  [
+    [
       "2026-07-28, 13:33:42",
       "https://news.ycombinator.com/item?id=49083634"
     ],
@@ -211,21 +221,11 @@
   ],
   [
     [
-      "2026-07-28, 13:07:14",
-      "https://news.ycombinator.com/item?id=49083239"
-    ],
-    [
-      "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
-      "https://github.com/schildep/verified-3d-mesh-intersection"
-    ]
-  ],
-  [
-    [
       "2026-07-28, 10:52:30",
       "https://news.ycombinator.com/item?id=49082022"
     ],
     [
-      "Kimi Linear: An Expressive, Efficient Attention Architecture",
+      "Kimi Linear: An Expressive, Efficient Attention Architecture (2025)",
       "https://arxiv.org/abs/2510.26692"
     ]
   ],
@@ -251,22 +251,22 @@
   ],
   [
     [
+      "2026-07-28, 09:45:43",
+      "https://news.ycombinator.com/item?id=49081555"
+    ],
+    [
+      "About the security content of macOS Tahoe 26.6",
+      "https://support.apple.com/en-us/128067"
+    ]
+  ],
+  [
+    [
       "2026-07-28, 07:44:24",
       "https://news.ycombinator.com/item?id=49080664"
     ],
     [
       "7.1 Earthquake in Japan",
       "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en"
-    ]
-  ],
-  [
-    [
-      "2026-07-27, 20:42:46",
-      "https://news.ycombinator.com/item?id=49075264"
-    ],
-    [
-      "Solving Fermat: Andrew Wiles",
-      "https://www.pbs.org/wgbh/nova/proof/wiles.html"
     ]
   ],
   [
