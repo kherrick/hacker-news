@@ -94,5 +94,6 @@
 * [2026-07-24, 05:09:15](https://news.ycombinator.com/item?id=49031409) - [Claude Cookbook](https://platform.claude.com/cookbook/)
 * [2026-07-24, 04:50:10](https://news.ycombinator.com/item?id=49031322) - [A Dying Art: The last of the morticians](https://harpers.org/archive/2026/08/a-dying-art-john-semley-mortuary-sciences-competition/)
 * [2026-07-24, 04:34:50](https://news.ycombinator.com/item?id=49031262) - [Zitron: The Subprime Datacenter Crisis](https://www.wheresyoured.at/the-subprime-data-center-crisis/)
+* [2026-07-24, 02:19:26](https://news.ycombinator.com/item?id=49030552) - [Which Odyssey translation wins a blind reading test?](https://homer.scrivium.com/report/)
 * [2026-07-24, 02:18:23](https://news.ycombinator.com/item?id=49030547) - [The Corporate Creep of Plex: Why it may be time to move to Jellyfin](https://reprodev.com/the-corporate-creep-of-plex-why-it-may-be-time-to-move-to-jellyfin-and-the-open-source-reality/)
 * [2026-07-24, 02:06:31](https://news.ycombinator.com/item?id=49030474) - [Police Removed Prominent Scientists from the ADA Meeting. Researchers Respond](https://www.the-scientist.com/police-removed-prominent-scientists-from-the-ada-meeting-researchers-respond-74607)
