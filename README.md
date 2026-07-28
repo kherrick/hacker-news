@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-07-28, 17:37:12](https://news.ycombinator.com/item?id=49087306) - [iPhone Upgrade Program](https://www.apple.com/shop/iphone/iphone-upgrade-program)
 * [2026-07-28, 17:22:16](https://news.ycombinator.com/item?id=49087091) - [Discovering Cryptographic Weaknesses with Claude](https://www.anthropic.com/research/discovering-cryptographic-weaknesses)
 * [2026-07-28, 17:13:15](https://news.ycombinator.com/item?id=49086987) - [Scientific computing in the age of agentic AI](https://openai.com/index/scientific-computing-agentic-ai/)
 * [2026-07-28, 17:11:54](https://news.ycombinator.com/item?id=49086971) - [Steel Bank Common Lisp version 2.6.7](https://sbcl.org/all-news.html?2.6.7)
@@ -28,6 +27,7 @@
 * [2026-07-28, 09:59:13](https://news.ycombinator.com/item?id=49081644) - [Google's Beyond Zero: Enterprise Security for the AI Era](https://spawn-queue.acm.org/doi/10.1145/3819083)
 * [2026-07-28, 07:44:24](https://news.ycombinator.com/item?id=49080664) - [7.1 Earthquake in Japan](https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en)
 * [2026-07-27, 20:42:46](https://news.ycombinator.com/item?id=49075264) - [Solving Fermat: Andrew Wiles](https://www.pbs.org/wgbh/nova/proof/wiles.html)
+* [2026-07-24, 19:37:18](https://news.ycombinator.com/item?id=49040650) - [Show HN: Scala Tutorials – interactive Scala 3 lessons in the browser](https://scalatutorials.com)
 * [2026-07-24, 14:19:16](https://news.ycombinator.com/item?id=49036068) - [How to Survive Boiling Water](https://taxa.substack.com/p/how-to-survive-boiling-water)
 * [2026-07-22, 18:59:35](https://news.ycombinator.com/item?id=49011739) - [Using a Gaming PC's RTX 5070 from a separate Linux workstation](https://stephenkrings.com/posts/rtx-5070-linux-gpu-server/)
 
