@@ -41,6 +41,7 @@
 * [2026-07-24, 15:26:58](https://news.ycombinator.com/item?id=49037076) - [Marc Andreessen, venture capitalist, married to wait, what?](https://tyrandus.dev/2026/07/23/marc-andreessen-venture-capitalist-married-to-wait-what/)
 * [2026-07-24, 15:24:00](https://news.ycombinator.com/item?id=49037031) - [The front end framework for correctness: built on Effect, architected like Elm](https://foldkit.dev/)
 * [2026-07-24, 15:05:06](https://news.ycombinator.com/item?id=49036765) - [Codeberg Divides](https://lucumr.pocoo.org/2026/7/24/codeberg-divides/)
+* [2026-07-24, 14:43:57](https://news.ycombinator.com/item?id=49036460) - [The Fabled Flatbreads of Uzbekistan (2015)](https://www.aramcoworld.com/articles/2015/the-fabled-flatbreads-of-uzbekistan)
 * [2026-07-24, 14:41:59](https://news.ycombinator.com/item?id=49036433) - [Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey](https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece)
 * [2026-07-24, 14:28:38](https://news.ycombinator.com/item?id=49036224) - [Co-Opting Linux Processes for High-Performance Network Simulation (2022)](https://www.usenix.org/conference/atc22/presentation/jansen)
 * [2026-07-24, 14:26:09](https://news.ycombinator.com/item?id=49036182) - [Mag Computer: A Mag History of RAM (1960–2025)](https://magworld.pw/episodes/computer/)

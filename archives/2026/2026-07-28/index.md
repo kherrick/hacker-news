@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-28](index.md)
 
+* [2026-07-28, 19:54:38](https://news.ycombinator.com/item?id=49089045) - [Hulios: An eBPF-powered, transparent Tor gateway for Linux](https://github.com/ghaziwali/Hulios)
+* [2026-07-28, 19:41:33](https://news.ycombinator.com/item?id=49088887) - [Uv 0.12.0](https://github.com/astral-sh/uv/releases/tag/0.12.0)
 * [2026-07-28, 19:06:10](https://news.ycombinator.com/item?id=49088451) - [Donate to GrapheneOS](https://grapheneos.org/donate)
 * [2026-07-28, 18:41:48](https://news.ycombinator.com/item?id=49088148) - [Deflock Casa Grande](https://deflockcg.com/)
 * [2026-07-28, 18:35:11](https://news.ycombinator.com/item?id=49088058) - [MCP 2026-07-28 Specification: transport going stateless](https://blog.modelcontextprotocol.io/posts/2026-07-28/)

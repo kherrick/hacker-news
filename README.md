@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-28, 19:54:38](https://news.ycombinator.com/item?id=49089045) - [Hulios: An eBPF-powered, transparent Tor gateway for Linux](https://github.com/ghaziwali/Hulios)
+* [2026-07-28, 19:41:33](https://news.ycombinator.com/item?id=49088887) - [Uv 0.12.0](https://github.com/astral-sh/uv/releases/tag/0.12.0)
 * [2026-07-28, 19:06:10](https://news.ycombinator.com/item?id=49088451) - [Donate to GrapheneOS](https://grapheneos.org/donate)
 * [2026-07-28, 18:41:48](https://news.ycombinator.com/item?id=49088148) - [Deflock Casa Grande](https://deflockcg.com/)
 * [2026-07-28, 18:35:11](https://news.ycombinator.com/item?id=49088058) - [MCP 2026-07-28 Specification: transport going stateless](https://blog.modelcontextprotocol.io/posts/2026-07-28/)
@@ -20,16 +22,14 @@
 * [2026-07-28, 15:01:12](https://news.ycombinator.com/item?id=49084987) - [Now Is the Time to Give LLMs Access to the ACM Digital Library](https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/)
 * [2026-07-28, 14:58:15](https://news.ycombinator.com/item?id=49084938) - [Stop Killing the Internet: No Digital ID and No Age Verification](https://citizens-initiative.europa.eu/initiatives/details/2026/000011_en)
 * [2026-07-28, 14:48:13](https://news.ycombinator.com/item?id=49084813) - [Una GPS smart watch – Repairable, USB-C charging, developer-friendly](https://unawatch.com/)
-* [2026-07-28, 13:33:42](https://news.ycombinator.com/item?id=49083634) - [VMs can't boot with Network Mode set to Bridged on Apple M5 Pro machines](https://github.com/utmapp/UTM/issues/7658)
 * [2026-07-28, 13:12:01](https://news.ycombinator.com/item?id=49083314) - [New HIV vaccine shows unprecedented success in preclinical study](https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/)
 * [2026-07-28, 10:52:30](https://news.ycombinator.com/item?id=49082022) - [Kimi Linear: An Expressive, Efficient Attention Architecture (2025)](https://arxiv.org/abs/2510.26692)
 * [2026-07-28, 10:20:50](https://news.ycombinator.com/item?id=49081783) - [DMARC has been public since 2012 but most company domains still don't enforce it](https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026)
-* [2026-07-28, 09:59:13](https://news.ycombinator.com/item?id=49081644) - [Google's Beyond Zero: Enterprise Security for the AI Era](https://spawn-queue.acm.org/doi/10.1145/3819083)
 * [2026-07-28, 09:45:43](https://news.ycombinator.com/item?id=49081555) - [About the security content of macOS Tahoe 26.6](https://support.apple.com/en-us/128067)
 * [2026-07-28, 07:44:24](https://news.ycombinator.com/item?id=49080664) - [7.1 Earthquake in Japan](https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en)
 * [2026-07-24, 18:39:32](https://news.ycombinator.com/item?id=49039904) - [The most advanced robotic servicing satellite–that we know about](https://arstechnica.com/space/2026/07/this-is-the-worlds-most-advanced-robotic-servicing-satellite-that-we-know-about/)
+* [2026-07-24, 14:43:57](https://news.ycombinator.com/item?id=49036460) - [The Fabled Flatbreads of Uzbekistan (2015)](https://www.aramcoworld.com/articles/2015/the-fabled-flatbreads-of-uzbekistan)
 * [2026-07-24, 14:19:16](https://news.ycombinator.com/item?id=49036068) - [How to survive boiling water](https://taxa.substack.com/p/how-to-survive-boiling-water)
-* [2026-07-22, 18:59:35](https://news.ycombinator.com/item?id=49011739) - [Using a Gaming PC's RTX 5070 from a separate Linux workstation](https://stephenkrings.com/posts/rtx-5070-linux-gpu-server/)
 
 ## [Archives](archives/index.md)
 
