@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-28, 07:44:24](https://news.ycombinator.com/item?id=49080664) - [7.1 Earthquake in Japan](https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en)
 * [2026-07-28, 05:25:34](https://news.ycombinator.com/item?id=49079727) - [Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts](https://arsastronomica.com/)
 * [2026-07-28, 04:49:54](https://news.ycombinator.com/item?id=49079490) - [Neutrino-1 8B](https://www.fermionresearch.com/models/neutrino-8b/)
 * [2026-07-28, 04:46:00](https://news.ycombinator.com/item?id=49079454) - [PyTorch: A Reference Language](https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/)
-* [2026-07-28, 04:00:41](https://news.ycombinator.com/item?id=49079175) - [Why do we think we understand the world more than we actually do?](https://thedecisionlab.com/biases/the-illusion-of-explanatory-depth)
 * [2026-07-28, 03:56:08](https://news.ycombinator.com/item?id=49079146) - [The age of token efficiency, the age of libraries](https://golemui.com/blog/the-age-of-token-efficiency/)
 * [2026-07-28, 02:37:14](https://news.ycombinator.com/item?id=49078583) - [Using an open model feels surprisingly good](https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/)
 * [2026-07-28, 02:35:28](https://news.ycombinator.com/item?id=49078575) - [An Uncomplicated Man – A review of The Odyssey, directed by Christopher Nolan](https://www.lrb.co.uk/the-paper/v48/n14/emily-wilson/an-uncomplicated-man)
@@ -15,7 +15,6 @@
 * [2026-07-27, 23:09:50](https://news.ycombinator.com/item?id=49076791) - [C/C++ projects packaged for Zig](https://github.com/allyourcodebase)
 * [2026-07-27, 22:46:28](https://news.ycombinator.com/item?id=49076505) - [Kimi K3 Now Available via Telnyx Inference API](https://telnyx.com/release-notes/kimi-k3-telnyx-inference)
 * [2026-07-27, 22:37:52](https://news.ycombinator.com/item?id=49076391) - [Benchmarking Opus 5 on SlopCodeBench](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md)
-* [2026-07-27, 22:10:15](https://news.ycombinator.com/item?id=49076116) - [A missing underscore sent innocent man to prison for 18 months](https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/)
 * [2026-07-27, 22:03:49](https://news.ycombinator.com/item?id=49076057) - [Our position on open-weights models](https://www.anthropic.com/news/position-open-weights-models)
 * [2026-07-27, 19:58:22](https://news.ycombinator.com/item?id=49074817) - [Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals](https://www.rise-reforming.com)
 * [2026-07-27, 18:43:31](https://news.ycombinator.com/item?id=49073942) - [Self-contained highly-portable Python distributions](https://gregoryszorc.com/docs/python-build-standalone/main/)
@@ -30,6 +29,7 @@
 * [2026-07-24, 04:50:10](https://news.ycombinator.com/item?id=49031322) - [A Dying Art: The last of the morticians](https://harpers.org/archive/2026/08/a-dying-art-john-semley-mortuary-sciences-competition/)
 * [2026-07-23, 13:11:30](https://news.ycombinator.com/item?id=49021024) - [Securing Services with Rootless Containers](https://blog.coderspirit.xyz/blog/2026/07/06/securing-services-with-rootless-containers/)
 * [2026-07-23, 13:10:06](https://news.ycombinator.com/item?id=49021007) - [Ray tracing massive amounts of animated geometry using tetrahedral cages](https://gpuopen.com/learn/ray-tracing-massive-amounts-animated-geometry/)
+* [2026-07-23, 06:43:47](https://news.ycombinator.com/item?id=49017741) - [Why copper still rules the motherboard trace](https://psyll.com/articles/technology/why-copper-still-rules-the-motherboard-trace)
 
 ## [Archives](archives/index.md)
 

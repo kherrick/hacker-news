@@ -87,6 +87,7 @@
 * [2026-07-23, 10:14:39](https://news.ycombinator.com/item?id=49019271) - [Show HN: Running PrismML's Bonsai inside DRAM by breaking DDR4 timing rules](https://news.ycombinator.com/item?id=49019271)
 * [2026-07-23, 10:07:22](https://news.ycombinator.com/item?id=49019220) - [EU fines Google €890M for competition breaches over search and apps](https://www.theguardian.com/technology/2026/jul/23/eu-fines-google-for-competition-breaches-over-search-and-apps)
 * [2026-07-23, 08:06:32](https://news.ycombinator.com/item?id=49018302) - [Private mission launches to extend life of out-of-gas communication satellites](https://phys.org/news/2026-07-private-mission-life-gas-communication.html)
+* [2026-07-23, 06:43:47](https://news.ycombinator.com/item?id=49017741) - [Why copper still rules the motherboard trace](https://psyll.com/articles/technology/why-copper-still-rules-the-motherboard-trace)
 * [2026-07-23, 05:40:20](https://news.ycombinator.com/item?id=49017344) - [Cruller: Bun's Zig Runtime, Continued on Zig 0.16](https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734)
 * [2026-07-23, 05:24:17](https://news.ycombinator.com/item?id=49017265) - [July 23 1985, Commodore introduced its Amiga 1000: 10 years ahead of its time](https://dfarq.homeip.net/amiga-1000-ten-years-ahead-of-its-time/)
 * [2026-07-23, 05:06:12](https://news.ycombinator.com/item?id=49017170) - [Local AI that finds sensitive files on your Mac before attackers do](https://www.vaultsort.com/guardian)

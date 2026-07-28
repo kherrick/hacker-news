@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-28](index.md)
 
+* [2026-07-28, 07:44:24](https://news.ycombinator.com/item?id=49080664) - [7.1 Earthquake in Japan](https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en)
 * [2026-07-28, 05:25:34](https://news.ycombinator.com/item?id=49079727) - [Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts](https://arsastronomica.com/)
 * [2026-07-28, 04:49:54](https://news.ycombinator.com/item?id=49079490) - [Neutrino-1 8B](https://www.fermionresearch.com/models/neutrino-8b/)
 * [2026-07-28, 04:46:00](https://news.ycombinator.com/item?id=49079454) - [PyTorch: A Reference Language](https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/)
