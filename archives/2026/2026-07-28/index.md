@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-07-28](index.md)
 
+* [2026-07-28, 05:25:34](https://news.ycombinator.com/item?id=49079727) - [Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts](https://arsastronomica.com/)
 * [2026-07-28, 04:49:54](https://news.ycombinator.com/item?id=49079490) - [Neutrino-1 8B](https://www.fermionresearch.com/models/neutrino-8b/)
 * [2026-07-28, 04:46:00](https://news.ycombinator.com/item?id=49079454) - [PyTorch: A Reference Language](https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/)
+* [2026-07-28, 04:11:45](https://news.ycombinator.com/item?id=49079247) - [Show HN: A 6M-token movable window on a single 46GB GPU](https://arxiv.org/abs/2607.23806)
 * [2026-07-28, 04:00:41](https://news.ycombinator.com/item?id=49079175) - [Why do we think we understand the world more than we actually do?](https://thedecisionlab.com/biases/the-illusion-of-explanatory-depth)
 * [2026-07-28, 03:56:08](https://news.ycombinator.com/item?id=49079146) - [The age of token efficiency, the age of libraries](https://golemui.com/blog/the-age-of-token-efficiency/)
 * [2026-07-28, 02:37:14](https://news.ycombinator.com/item?id=49078583) - [Using an open model feels surprisingly good](https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/)
