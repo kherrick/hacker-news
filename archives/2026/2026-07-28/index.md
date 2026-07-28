@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-28](index.md)
 
+* [2026-07-28, 20:20:51](https://news.ycombinator.com/item?id=49089406) - [Recursion Is Lying to You](https://blog.gaborkoos.com/posts/2026-05-09-Your-Recursion-Is-Lying-to-You/)
 * [2026-07-28, 19:54:38](https://news.ycombinator.com/item?id=49089045) - [Hulios: An eBPF-powered, transparent Tor gateway for Linux](https://github.com/ghaziwali/Hulios)
 * [2026-07-28, 19:41:33](https://news.ycombinator.com/item?id=49088887) - [Uv 0.12.0](https://github.com/astral-sh/uv/releases/tag/0.12.0)
 * [2026-07-28, 19:06:10](https://news.ycombinator.com/item?id=49088451) - [Donate to GrapheneOS](https://grapheneos.org/donate)
@@ -34,6 +35,7 @@
 * [2026-07-28, 15:01:12](https://news.ycombinator.com/item?id=49084987) - [Now Is the Time to Give LLMs Access to the ACM Digital Library](https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/)
 * [2026-07-28, 14:58:15](https://news.ycombinator.com/item?id=49084938) - [Stop Killing the Internet: No Digital ID and No Age Verification](https://citizens-initiative.europa.eu/initiatives/details/2026/000011_en)
 * [2026-07-28, 14:48:13](https://news.ycombinator.com/item?id=49084813) - [Una Watch: Garmin watch competitor but repairable, open ecosystem and USB-C](https://unawatch.com/)
+* [2026-07-28, 14:46:19](https://news.ycombinator.com/item?id=49084787) - [I'd not buy a LG monitor](https://beko.famkos.net/2026/07/27/id-not-buy-a-lg-monitor/)
 * [2026-07-28, 14:25:36](https://news.ycombinator.com/item?id=49084404) - [Ask HN: Crooked Timber showed showed me a virus captcha, What now?](https://news.ycombinator.com/item?id=49084404)
 * [2026-07-28, 14:05:51](https://news.ycombinator.com/item?id=49084091) - [Italy Blocks Reproductive Health Websites Women on Web and Women Help Women](https://ooni.org/post/2026-italy-blocks-wow-and-whw)
 * [2026-07-28, 14:00:37](https://news.ycombinator.com/item?id=49084031) - [Why a $154B CEO just endorsed stripping most Americans of voting rights](https://fortune.com/2026/07/27/shopify-ceo-voting-rights-stripping-americans-19th-century/)
