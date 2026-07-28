@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2026-07-27, 23:26:05",
-      "https://news.ycombinator.com/item?id=49076975"
-    ],
-    [
-      "Show HN: Dowe – A full-stack language for server, web, desktop, Android, and iOS",
-      "https://www.dowe.dev"
-    ]
-  ],
-  [
-    [
       "2026-07-27, 23:21:37",
       "https://news.ycombinator.com/item?id=49076923"
     ],
@@ -181,12 +171,12 @@
   ],
   [
     [
-      "2026-07-27, 15:40:17",
-      "https://news.ycombinator.com/item?id=49071190"
+      "2026-07-27, 15:10:56",
+      "https://news.ycombinator.com/item?id=49070805"
     ],
     [
-      "How real are real numbers? (2004)",
-      "https://arxiv.org/abs/math/0411418"
+      "Tokio Gives Progress, Not Ordering: Scheduling 1M Tasks",
+      "https://pranitha.dev/posts/tokio-gives-progress-not-ordering/"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)",
       "https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/"
+    ]
+  ],
+  [
+    [
+      "2026-07-27, 09:06:34",
+      "https://news.ycombinator.com/item?id=49066928"
+    ],
+    [
+      "VLC for Unity now supported on Linux",
+      "https://code.videolan.org/videolan/vlc-unity"
     ]
   ],
   [
