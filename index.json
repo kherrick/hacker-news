@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-07-28, 16:03:56",
-      "https://news.ycombinator.com/item?id=49085949"
+      "2026-07-28, 16:10:37",
+      "https://news.ycombinator.com/item?id=49086059"
     ],
     [
-      "I showed an AI an image it couldn't see – then caught it lying about what it saw",
-      "https://paulshepherd.com/conversations/session-1.html"
+      "Xenharmlib (music theory library) adds support for Just Intonation",
+      "https://xenharmlib.readthedocs.io/en/latest/whats_new_0_4_0.html"
     ]
   ],
   [
@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=49085798"
     ],
     [
-      "Show HN: XY – Fast, composable, GPU-accelerated charts, written in Rust",
+      "Show HN: XY – Fast, composable, GPU-accelerated Python charting library",
       "https://github.com/reflex-dev/xy"
     ]
   ],
@@ -47,6 +47,16 @@
     [
       "Delayed Gratification – Proud to Be 'Last to Breaking News'",
       "https://www.slow-journalism.com/"
+    ]
+  ],
+  [
+    [
+      "2026-07-28, 15:48:34",
+      "https://news.ycombinator.com/item?id=49085698"
+    ],
+    [
+      "Kimi K3 Architecture Overview and Notes",
+      "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html"
     ]
   ],
   [
@@ -81,6 +91,16 @@
   ],
   [
     [
+      "2026-07-28, 15:32:58",
+      "https://news.ycombinator.com/item?id=49085449"
+    ],
+    [
+      "Setup Script Should Support Git Worktrees",
+      "https://piechowski.io/post/setup-script-git-worktrees/"
+    ]
+  ],
+  [
+    [
       "2026-07-28, 15:20:35",
       "https://news.ycombinator.com/item?id=49085280"
     ],
@@ -97,6 +117,26 @@
     [
       "GrapheneOS Defends Data-Wiping Function That Blocked US Border Search",
       "https://www.pcmag.com/news/grapheneos-defends-data-wiping-function-that-blocked-us-border-search"
+    ]
+  ],
+  [
+    [
+      "2026-07-28, 15:01:15",
+      "https://news.ycombinator.com/item?id=49084989"
+    ],
+    [
+      "Anthropeum",
+      "https://anthropeum.com/"
+    ]
+  ],
+  [
+    [
+      "2026-07-28, 14:58:15",
+      "https://news.ycombinator.com/item?id=49084938"
+    ],
+    [
+      "Stop Killing the Internet: No Digital ID and No Age Verification",
+      "https://citizens-initiative.europa.eu/initiatives/details/2026/000011_en"
     ]
   ],
   [
@@ -121,16 +161,6 @@
   ],
   [
     [
-      "2026-07-28, 13:16:52",
-      "https://news.ycombinator.com/item?id=49083389"
-    ],
-    [
-      "Show HN: tale.fyi, we deserve a home for fiction",
-      "https://tale.fyi/@sam/announcing-tale-fyi-read-or-listen-to-an-entire-book-from-a-single-link"
-    ]
-  ],
-  [
-    [
       "2026-07-28, 13:12:01",
       "https://news.ycombinator.com/item?id=49083314"
     ],
@@ -147,16 +177,6 @@
     [
       "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
       "https://github.com/schildep/verified-3d-mesh-intersection"
-    ]
-  ],
-  [
-    [
-      "2026-07-28, 13:00:12",
-      "https://news.ycombinator.com/item?id=49083132"
-    ],
-    [
-      "What AI developers could learn from Charles Bukowski?",
-      "https://galjot.si/what-ai-developers-could-learn-from-charles-bukowski"
     ]
   ],
   [
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2026-07-27, 22:03:49",
-      "https://news.ycombinator.com/item?id=49076057"
-    ],
-    [
-      "Our position on open-weights models",
-      "https://www.anthropic.com/news/position-open-weights-models"
-    ]
-  ],
-  [
-    [
       "2026-07-27, 20:42:46",
       "https://news.ycombinator.com/item?id=49075264"
     ],
@@ -287,16 +297,6 @@
     [
       "How to Survive Boiling Water",
       "https://taxa.substack.com/p/how-to-survive-boiling-water"
-    ]
-  ],
-  [
-    [
-      "2026-07-23, 16:58:50",
-      "https://news.ycombinator.com/item?id=49024766"
-    ],
-    [
-      "A Deep Logo Study",
-      "https://dannyspina.com/blog/my_new_logo_study"
     ]
   ]
 ]
