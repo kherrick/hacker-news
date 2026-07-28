@@ -55,6 +55,7 @@
 * [2026-07-25, 13:33:03](https://news.ycombinator.com/item?id=49047448) - [Corporate America Has Suddenly Decided to Stop Blowing Money on AI](https://www.wsj.com/business/china-us-ai-model-costs-53a12e96)
 * [2026-07-25, 13:18:49](https://news.ycombinator.com/item?id=49047365) - [Bitchat Is Now on Radicle](https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6)
 * [2026-07-25, 12:51:48](https://news.ycombinator.com/item?id=49047198) - [League of Legends designer shares game design field manual](https://areadenial.games/design/preface#00-01)
+* [2026-07-25, 12:21:14](https://news.ycombinator.com/item?id=49046983) - [Type checker may be wrong – Lean and the Curry-Howard correspondence](https://max-amb.github.io/blog/your_type_checker_may_be_wrong/)
 * [2026-07-25, 12:00:04](https://news.ycombinator.com/item?id=49046858) - [Kyber (YC W23) Is Hiring a Head of Engineering](https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering)
 * [2026-07-25, 11:04:57](https://news.ycombinator.com/item?id=49046525) - [The Fedora 45 Sausage Factory](https://supakeen.com/weblog/the-fedora-45-sausage-factory/)
 * [2026-07-25, 07:55:19](https://news.ycombinator.com/item?id=49045474) - [Watching Go's new garbage collector move through the heap](https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html)
