@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-28](index.md)
 
+* [2026-07-28, 20:58:39](https://news.ycombinator.com/item?id=49089814) - [Half-Life ported to Mac OS 9](https://mac-classic.com/news/half-life-ported-to-mac-os-9/)
 * [2026-07-28, 20:52:55](https://news.ycombinator.com/item?id=49089755) - [OpenAI just open-sourced Codex Security](https://github.com/openai/codex-security)
 * [2026-07-28, 20:20:51](https://news.ycombinator.com/item?id=49089406) - [Recursion Is Lying to You](https://blog.gaborkoos.com/posts/2026-05-09-Your-Recursion-Is-Lying-to-You/)
 * [2026-07-28, 20:09:09](https://news.ycombinator.com/item?id=49089240) - [Pacing the frontier](https://www.pacingthefrontier.com/)
