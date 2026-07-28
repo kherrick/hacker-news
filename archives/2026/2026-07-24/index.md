@@ -58,6 +58,7 @@
 * [2026-07-24, 12:44:32](https://news.ycombinator.com/item?id=49034777) - [Stinkpot: SQLite-backed shell history](https://tangled.org/oppi.li/stinkpot)
 * [2026-07-24, 12:40:27](https://news.ycombinator.com/item?id=49034747) - [Em dashes are fucking amazing](https://psychotechnology.substack.com/p/em-dashes-are-fucking-amazing)
 * [2026-07-24, 12:34:28](https://news.ycombinator.com/item?id=49034673) - [Programming language file extensions that match ISO 3166-1 alpha-2 country code](https://www.bruh.ltd/blog/programming-language-file-extensions-that-match-an-iso-3166-1-alpha-2-country-code/)
+* [2026-07-24, 12:21:32](https://news.ycombinator.com/item?id=49034534) - [Programming Languages Are Authoring Tools for Platforms](https://www.makonea.com/en-US/blog/programming-languages-are-authoring-tools-for-platforms)
 * [2026-07-24, 12:15:11](https://news.ycombinator.com/item?id=49034468) - [Why is programming so captivating, yet so agonizing?](https://elsewhere.news/en/zhenfund/why-is-programming-so-captivating-yet-so-agonizing)
 * [2026-07-24, 12:00:17](https://news.ycombinator.com/item?id=49034342) - [I Tried Building a Real App with AI. It Took a Year](https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/)
 * [2026-07-24, 11:54:41](https://news.ycombinator.com/item?id=49034292) - [My security camera shipped a GitHub admin token in its login page](https://hhh.hn/hanwha-github-token/)
