@@ -4,11 +4,16 @@
 
 ### [Archives](../../index.md) for [2026-07-29](index.md)
 
+* [2026-07-29, 14:05:40](https://news.ycombinator.com/item?id=49097730) - [Choose DuckDB rather than SQLite](https://tracewayapp.com/blog/sqlite-vs-duckdb)
+* [2026-07-29, 13:55:00](https://news.ycombinator.com/item?id=49097591) - [Valve Sponsors Work Bringing Open-Source RADV Driver to Windows](https://www.phoronix.com/news/Valve-Sponsors-RADV-Windows)
+* [2026-07-29, 13:05:17](https://news.ycombinator.com/item?id=49097003) - [TokenTown: A visual way to understand how LLMs work](https://laurentiugabriel.github.io/token-town/)
 * [2026-07-29, 13:01:57](https://news.ycombinator.com/item?id=49096969) - [Handbook.md shows that long policy documents do not reliably govern agents](https://arxiv.org/abs/2607.25398)
 * [2026-07-29, 13:00:39](https://news.ycombinator.com/item?id=49096953) - [After the AI Crash](https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/)
 * [2026-07-29, 12:58:27](https://news.ycombinator.com/item?id=49096917) - [Show HN: Bullshit Detector – agent skills that fact-check videos and articles](https://github.com/SerhiiKorniienko/bullshit-detector)
+* [2026-07-29, 12:48:18](https://news.ycombinator.com/item?id=49096811) - [Shipping Godot VR and Porting to PSVR2: A Partial Post Mortem](https://www.claire-blackshaw.com/blog/2026/07/shipping-godot-vr-and-porting-to-psvr2-a-partial-post-mortem/)
 * [2026-07-29, 12:43:36](https://news.ycombinator.com/item?id=49096767) - [Show HN: Echologue – the private AI voice journal I built for myself](https://echologue.com/)
 * [2026-07-29, 12:40:13](https://news.ycombinator.com/item?id=49096742) - [A Texture Lookup Approach to Bézier Curve Evaluation on the GPU (JCGT)](https://jcgt.org/published/0015/02/01/)
+* [2026-07-29, 12:33:02](https://news.ycombinator.com/item?id=49096654) - [Darktable](https://www.darktable.org/)
 * [2026-07-29, 12:19:30](https://news.ycombinator.com/item?id=49096493) - [Pulse Path – a browser puzzle where placement is the only decision](https://pulsepathgame.netlify.app/)
 * [2026-07-29, 12:11:18](https://news.ycombinator.com/item?id=49096427) - [Disrupting supply chain attacks on NPM and GitHub Actions](https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/)
 * [2026-07-29, 12:06:54](https://news.ycombinator.com/item?id=49096389) - [Deleting Codeberg](https://thanosapollo.org/posts/deleting-codeberg/)
