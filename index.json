@@ -1,12 +1,82 @@
 [
   [
     [
+      "2026-07-29, 15:55:27",
+      "https://news.ycombinator.com/item?id=49099143"
+    ],
+    [
+      "Launch HN: Tokenless (YC S26) – Automatic model switching to save money",
+      "https://usetokenless.com/"
+    ]
+  ],
+  [
+    [
+      "2026-07-29, 15:29:37",
+      "https://news.ycombinator.com/item?id=49098803"
+    ],
+    [
+      "Apple should be ashamed of its hostile App Store rating system",
+      "https://lapcatsoftware.com/articles/2026/7/14.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-29, 15:13:25",
+      "https://news.ycombinator.com/item?id=49098599"
+    ],
+    [
+      "Cesium DevCon 2026 talks are up, including a keynote from SQLite's creator",
+      "https://cesium.com/events/cesium-developer-conference/2026/"
+    ]
+  ],
+  [
+    [
       "2026-07-29, 15:05:43",
       "https://news.ycombinator.com/item?id=49098510"
     ],
     [
       "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
       "https://github.com/drumih/turbo-fieldfare"
+    ]
+  ],
+  [
+    [
+      "2026-07-29, 15:01:52",
+      "https://news.ycombinator.com/item?id=49098466"
+    ],
+    [
+      "Hugging Face: Anatomy of a frontier-lab agent intrusion",
+      "https://huggingface-anatomy-of-frontier-lab-model-intrusion.static.hf.space/index.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-29, 14:58:17",
+      "https://news.ycombinator.com/item?id=49098417"
+    ],
+    [
+      "PostgreSQL's MVCC is bad. So is everyone else's",
+      "https://boringsql.com/posts/mvcc-bad-bad/"
+    ]
+  ],
+  [
+    [
+      "2026-07-29, 14:56:28",
+      "https://news.ycombinator.com/item?id=49098388"
+    ],
+    [
+      "GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?",
+      "https://juliahub.com/blog/frontier-models-physical-ai-evaluation"
+    ]
+  ],
+  [
+    [
+      "2026-07-29, 14:47:22",
+      "https://news.ycombinator.com/item?id=49098260"
+    ],
+    [
+      "Show HN: Qwen Scribe – local transcription and dictation for Apple Silicon",
+      "https://github.com/VladUZH/qwen-scribe"
     ]
   ],
   [
@@ -21,22 +91,22 @@
   ],
   [
     [
-      "2026-07-29, 14:05:40",
-      "https://news.ycombinator.com/item?id=49097730"
+      "2026-07-29, 14:38:35",
+      "https://news.ycombinator.com/item?id=49098130"
     ],
     [
-      "Choose DuckDB rather than SQLite",
-      "https://tracewayapp.com/blog/sqlite-vs-duckdb"
+      "Self-hosting Kimi K3: 20% more hardware cost, 20% better task resolution",
+      "https://aistack.imec-int.com/blog/gpu-self-hosting"
     ]
   ],
   [
     [
-      "2026-07-29, 14:05:30",
-      "https://news.ycombinator.com/item?id=49097727"
+      "2026-07-29, 14:32:23",
+      "https://news.ycombinator.com/item?id=49098035"
     ],
     [
-      "Show HN: A verification browser for AI agents – 13ms windows, one-call checks",
-      "https://github.com/hongnoul/hwatu"
+      "Graph Engineering Needs a Compiler",
+      "https://fluxtion-playground.dev/blog/2026-07-29-graph-engineering-needs-a-compiler"
     ]
   ],
   [
@@ -47,26 +117,6 @@
     [
       "Valve Sponsors Work Bringing Open-Source RADV Driver to Windows",
       "https://www.phoronix.com/news/Valve-Sponsors-RADV-Windows"
-    ]
-  ],
-  [
-    [
-      "2026-07-29, 13:24:45",
-      "https://news.ycombinator.com/item?id=49097209"
-    ],
-    [
-      "Kalshi attacks a Wisconsin law banning election bets as 'voter suppression'",
-      "https://www.npr.org/2026/07/27/nx-s1-5905360/kalshi-wisconsin-election-betting-prediction-markets"
-    ]
-  ],
-  [
-    [
-      "2026-07-29, 13:05:17",
-      "https://news.ycombinator.com/item?id=49097003"
-    ],
-    [
-      "TokenTown: A visual way to understand how LLMs work",
-      "https://laurentiugabriel.github.io/token-town/"
     ]
   ],
   [
@@ -97,16 +147,6 @@
     [
       "Shipping Godot VR and Porting to PSVR2: A Partial Post Mortem",
       "https://www.claire-blackshaw.com/blog/2026/07/shipping-godot-vr-and-porting-to-psvr2-a-partial-post-mortem/"
-    ]
-  ],
-  [
-    [
-      "2026-07-29, 12:43:36",
-      "https://news.ycombinator.com/item?id=49096767"
-    ],
-    [
-      "Show HN: Echologue – the private AI voice journal I built for myself",
-      "https://echologue.com/"
     ]
   ],
   [
@@ -221,36 +261,6 @@
   ],
   [
     [
-      "2026-07-28, 22:09:06",
-      "https://news.ycombinator.com/item?id=49090607"
-    ],
-    [
-      "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
-      "https://github.com/twalichiewicz/HNewhere"
-    ]
-  ],
-  [
-    [
-      "2026-07-28, 20:58:39",
-      "https://news.ycombinator.com/item?id=49089814"
-    ],
-    [
-      "Half-Life ported to Mac OS 9",
-      "https://mac-classic.com/news/half-life-ported-to-mac-os-9/"
-    ]
-  ],
-  [
-    [
-      "2026-07-28, 20:52:55",
-      "https://news.ycombinator.com/item?id=49089755"
-    ],
-    [
-      "Codex Security",
-      "https://github.com/openai/codex-security"
-    ]
-  ],
-  [
-    [
       "2026-07-27, 00:58:45",
       "https://news.ycombinator.com/item?id=49063983"
     ],
@@ -267,16 +277,6 @@
     [
       "Lisp moving Forth moving Lisp",
       "https://letoverlambda.com/textmode.cl/guest/chap8.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-25, 20:42:05",
-      "https://news.ycombinator.com/item?id=49051355"
-    ],
-    [
-      "ALP: Adaptive lossless floating-point compression",
-      "https://github.com/cwida/ALP"
     ]
   ],
   [
