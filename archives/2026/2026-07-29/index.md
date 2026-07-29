@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-07-29](index.md)
 
+* [2026-07-29, 12:40:13](https://news.ycombinator.com/item?id=49096742) - [A Texture Lookup Approach to Bézier Curve Evaluation on the GPU (JCGT)](https://jcgt.org/published/0015/02/01/)
+* [2026-07-29, 12:19:30](https://news.ycombinator.com/item?id=49096493) - [Pulse Path – a browser puzzle where placement is the only decision](https://pulsepathgame.netlify.app/)
+* [2026-07-29, 12:11:18](https://news.ycombinator.com/item?id=49096427) - [Disrupting supply chain attacks on NPM and GitHub Actions](https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/)
+* [2026-07-29, 12:06:54](https://news.ycombinator.com/item?id=49096389) - [Deleting Codeberg](https://thanosapollo.org/posts/deleting-codeberg/)
+* [2026-07-29, 11:54:37](https://news.ycombinator.com/item?id=49096290) - [French musician Kavinsky found dead](https://www.euronews.com/culture/2026/07/29/dj-kavinsky-known-for-his-track-nightcall-found-dead-at-his-paris-home)
 * [2026-07-29, 11:44:33](https://news.ycombinator.com/item?id=49096188) - [Document-borne AI worms can self-propagate through Copilot for Word](https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/)
 * [2026-07-29, 11:28:22](https://news.ycombinator.com/item?id=49096043) - [They Stole Your Attention](https://moai.studio/blog/posts/they-stole-your-attention.html)
 * [2026-07-29, 11:05:08](https://news.ycombinator.com/item?id=49095865) - [KOReader](https://koreader.rocks/)
