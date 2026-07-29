@@ -1,11 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-29, 01:04:30](https://news.ycombinator.com/item?id=49092151) - [Show HN: Learning Rust by writing a Markdown to HTML compiler](https://andreadimatteo.com/md-to-html-compiler.html)
+* [2026-07-29, 00:44:26](https://news.ycombinator.com/item?id=49091994) - [Industry Brief: Private 5G for Manufacturing and Industrial Sites [pdf]](https://framerusercontent.com/assets/HV1dtfKZyXK2aknO6go8Cemejl8.pdf)
 * [2026-07-29, 00:32:08](https://news.ycombinator.com/item?id=49091895) - [Lightweight Spring Boot Monitoring Without Prometheus and Grafana](https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html)
 * [2026-07-29, 00:12:14](https://news.ycombinator.com/item?id=49091738) - [The Difference Between a Button and a Link](https://unplannedobsolescence.com/blog/buttons-vs-links/)
-* [2026-07-29, 00:11:23](https://news.ycombinator.com/item?id=49091730) - [Hubbele: Open-source notetaking app for you and your agents](https://www.hubble.md/)
+* [2026-07-29, 00:11:23](https://news.ycombinator.com/item?id=49091730) - [Hubble: Open-source notetaking app for you and your agents](https://www.hubble.md/)
 * [2026-07-29, 00:07:43](https://news.ycombinator.com/item?id=49091703) - [Show HN: Manim (3Blue1Brown's animation engine) in the browser via WebGPU](https://studio.academa.ai/)
 * [2026-07-28, 23:27:09](https://news.ycombinator.com/item?id=49091379) - [ReFrame – The EPaper Camera](https://reframe.camera/)
-* [2026-07-28, 23:00:02](https://news.ycombinator.com/item?id=49091153) - [Schools are adding pepper-spraying drones to help combat active shooters](https://www.washingtonpost.com/nation/2026/07/28/schools-are-adding-pepper-spraying-drones-help-combat-active-shooters/)
 * [2026-07-28, 22:31:14](https://news.ycombinator.com/item?id=49090867) - [Underwater oxygen loss threatens earth's stability, researchers warn](https://scripps.ucsd.edu/news/underwater-oxygen-loss-threatens-earths-stability-researchers-warn)
 * [2026-07-28, 22:09:06](https://news.ycombinator.com/item?id=49090607) - [Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript](https://github.com/twalichiewicz/HNewhere)
 * [2026-07-28, 21:35:19](https://news.ycombinator.com/item?id=49090233) - [Running Kimi K3 on a M1 Max](https://github.com/gavamedia/deltafin)
@@ -28,7 +29,6 @@
 * [2026-07-27, 23:33:04](https://news.ycombinator.com/item?id=49077040) - [Interview with Boris Cherny [video]](https://www.youtube.com/watch?v=qyPCVqFUyDo)
 * [2026-07-26, 08:06:45](https://news.ycombinator.com/item?id=49055816) - [Teach yourself programming in ten years (1998)](https://www.norvig.com/21-days.html)
 * [2026-07-24, 14:43:57](https://news.ycombinator.com/item?id=49036460) - [The Fabled Flatbreads of Uzbekistan (2015)](https://www.aramcoworld.com/articles/2015/the-fabled-flatbreads-of-uzbekistan)
-* [2026-07-24, 14:19:16](https://news.ycombinator.com/item?id=49036068) - [How to survive boiling water](https://taxa.substack.com/p/how-to-survive-boiling-water)
 * [2026-07-23, 21:33:28](https://news.ycombinator.com/item?id=49028358) - [Show HN: How far do I have to go to run into 100k people?](https://imjasonh.github.io/playground/population-rays/)
 
 ## [Archives](archives/index.md)
