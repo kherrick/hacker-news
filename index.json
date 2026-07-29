@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=49102150"
     ],
     [
-      "Claude Is Down",
+      "Claude: Elevated errors across all models",
       "https://status.claude.com/incidents/q2kg8n613kr3"
     ]
   ],
@@ -81,22 +81,22 @@
   ],
   [
     [
-      "2026-07-29, 18:42:10",
-      "https://news.ycombinator.com/item?id=49101351"
+      "2026-07-29, 18:42:39",
+      "https://news.ycombinator.com/item?id=49101360"
     ],
     [
-      "How to Not Die by a Thousand Cuts. Or, How to Think About Software Quality",
-      "https://www.evalapply.org/posts/how-to-not-die-by-a-thousand-cuts/index.html"
+      "The growing threat of Docusign phishing attacks (2024)",
+      "https://www.darktrace.com/blog/the-growing-threat-of-docusign-phishing-attacks"
     ]
   ],
   [
     [
-      "2026-07-29, 18:40:52",
-      "https://news.ycombinator.com/item?id=49101334"
+      "2026-07-29, 18:42:10",
+      "https://news.ycombinator.com/item?id=49101351"
     ],
     [
-      "A field day for Gleam's language server – Gleam v1.18.0 release",
-      "https://gleam.run/news/a-field-day-for-gleams-language-server/"
+      "How to not die by a thousand cuts or how to think about software quality (2023)",
+      "https://www.evalapply.org/posts/how-to-not-die-by-a-thousand-cuts/index.html"
     ]
   ],
   [
@@ -105,7 +105,7 @@
       "https://news.ycombinator.com/item?id=49101198"
     ],
     [
-      "Turning a Dumb AC Unit Smart (Without Losing My Security Deposit)",
+      "Turning a dumb AC unit smart (without losing my security deposit)",
       "https://prilik.com/blog/post/automating-ac-nyc/"
     ]
   ],
@@ -261,11 +261,21 @@
   ],
   [
     [
+      "2026-07-29, 04:30:36",
+      "https://news.ycombinator.com/item?id=49093434"
+    ],
+    [
+      "User Interfaces of the Demo Scene",
+      "https://www.datagubbe.se/scenegui/"
+    ]
+  ],
+  [
+    [
       "2026-07-28, 20:28:33",
       "https://news.ycombinator.com/item?id=49089500"
     ],
     [
-      "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the Incident",
+      "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
       "https://huggingface.co/blog/agent-intrusion-technical-timeline"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "The Rust on ESP Book",
       "https://docs.espressif.com/projects/rust/book/"
-    ]
-  ],
-  [
-    [
-      "2026-07-25, 08:28:59",
-      "https://news.ycombinator.com/item?id=49045686"
-    ],
-    [
-      "I'm Running a Programming Contest",
-      "https://eieio.games/blog/im-running-the-icfp-programming-contest/"
     ]
   ]
 ]
