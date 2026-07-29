@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-07-29](index.md)
 
+* [2026-07-29, 19:50:42](https://news.ycombinator.com/item?id=49102150) - [Claude Is Down](https://status.claude.com/incidents/q2kg8n613kr3)
+* [2026-07-29, 19:25:33](https://news.ycombinator.com/item?id=49101852) - [Kimi K3-256k](https://www.kimi.com/code/docs/en/kimi-code/models)
+* [2026-07-29, 19:25:17](https://news.ycombinator.com/item?id=49101849) - [Balcony Solar: $1.74/watt direct plug-in solar](https://www.brightsaver.org/balcony-solar-kits)
 * [2026-07-29, 19:07:13](https://news.ycombinator.com/item?id=49101655) - [How much can you delegate to agents?](https://newsletter.posthog.com/p/agent-autonomy)
 * [2026-07-29, 18:57:10](https://news.ycombinator.com/item?id=49101529) - [Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals](https://www.emergingtrajectories.com/lh/commodification-and-circularity/)
 * [2026-07-29, 18:50:10](https://news.ycombinator.com/item?id=49101460) - [Austerity Breeds Financial Protectionism](https://theloop.ecpr.eu/who-the-welfare-state-protects-shapes-a-countrys-financial-openness/)
