@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-07-29, 02:29:12",
+      "https://news.ycombinator.com/item?id=49092781"
+    ],
+    [
+      "Does every question mark deserve a Betteridge?",
+      "https://dynomight.net/betteridge/"
+    ]
+  ],
+  [
+    [
+      "2026-07-29, 02:25:29",
+      "https://news.ycombinator.com/item?id=49092754"
+    ],
+    [
+      "Hooray for the Sockets Interface",
+      "https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/"
+    ]
+  ],
+  [
+    [
+      "2026-07-29, 02:22:04",
+      "https://news.ycombinator.com/item?id=49092730"
+    ],
+    [
+      "Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects",
+      "https://github.com/jagg-ix/zil-lean"
+    ]
+  ],
+  [
+    [
+      "2026-07-29, 01:56:00",
+      "https://news.ycombinator.com/item?id=49092549"
+    ],
+    [
+      "Chip stocks slide in US and Asia as AI jitters rattle investors",
+      "https://www.bbc.com/news/articles/cly8zng43npo"
+    ]
+  ],
+  [
+    [
       "2026-07-29, 01:49:19",
       "https://news.ycombinator.com/item?id=49092499"
     ],
@@ -11,32 +51,12 @@
   ],
   [
     [
-      "2026-07-29, 01:04:30",
-      "https://news.ycombinator.com/item?id=49092151"
-    ],
-    [
-      "Show HN: Learning Rust by writing a Markdown to HTML compiler",
-      "https://andreadimatteo.com/md-to-html-compiler.html"
-    ]
-  ],
-  [
-    [
       "2026-07-29, 00:59:37",
       "https://news.ycombinator.com/item?id=49092112"
     ],
     [
       "Multiple Mouse Cursors in Wayland",
       "https://blinry.org/multi-seat-wayland/"
-    ]
-  ],
-  [
-    [
-      "2026-07-29, 00:44:26",
-      "https://news.ycombinator.com/item?id=49091994"
-    ],
-    [
-      "Industry Brief: Private 5G for Manufacturing and Industrial Sites [pdf]",
-      "https://framerusercontent.com/assets/HV1dtfKZyXK2aknO6go8Cemejl8.pdf"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2026-07-28, 18:35:11",
-      "https://news.ycombinator.com/item?id=49088058"
-    ],
-    [
-      "MCP 2026-07-28 Specification: transport going stateless",
-      "https://blog.modelcontextprotocol.io/posts/2026-07-28/"
-    ]
-  ],
-  [
-    [
       "2026-07-28, 17:37:12",
       "https://news.ycombinator.com/item?id=49087306"
     ],
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2026-07-28, 15:01:12",
-      "https://news.ycombinator.com/item?id=49084987"
-    ],
-    [
-      "Now is the time to give LLMs access to the ACM digital library",
-      "https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/"
-    ]
-  ],
-  [
-    [
       "2026-07-28, 14:48:13",
       "https://news.ycombinator.com/item?id=49084813"
     ],
@@ -251,6 +251,26 @@
   ],
   [
     [
+      "2026-07-27, 23:33:04",
+      "https://news.ycombinator.com/item?id=49077040"
+    ],
+    [
+      "Interview with Boris Cherny [video]",
+      "https://www.youtube.com/watch?v=qyPCVqFUyDo"
+    ]
+  ],
+  [
+    [
+      "2026-07-27, 18:04:30",
+      "https://news.ycombinator.com/item?id=49073357"
+    ],
+    [
+      "Beyond Greece and Rome",
+      "https://aeon.co/essays/uncovering-a-global-ancient-history-beyond-greece-and-rome"
+    ]
+  ],
+  [
+    [
       "2026-07-27, 12:56:36",
       "https://news.ycombinator.com/item?id=49069033"
     ],
@@ -277,26 +297,6 @@
     [
       "The Fabled Flatbreads of Uzbekistan (2015)",
       "https://www.aramcoworld.com/articles/2015/the-fabled-flatbreads-of-uzbekistan"
-    ]
-  ],
-  [
-    [
-      "2026-07-24, 14:19:16",
-      "https://news.ycombinator.com/item?id=49036068"
-    ],
-    [
-      "How to survive boiling water",
-      "https://taxa.substack.com/p/how-to-survive-boiling-water"
-    ]
-  ],
-  [
-    [
-      "2026-07-23, 21:33:28",
-      "https://news.ycombinator.com/item?id=49028358"
-    ],
-    [
-      "Show HN: How far do I have to go to run into 100k people?",
-      "https://imjasonh.github.io/playground/population-rays/"
     ]
   ]
 ]
