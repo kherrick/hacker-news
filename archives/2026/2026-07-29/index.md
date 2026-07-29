@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-07-29](index.md)
 
+* [2026-07-29, 20:39:40](https://news.ycombinator.com/item?id=49102774) - [The coolest use for the Vision Pro](https://christianselig.com/2026/07/vision-pro-house/)
+* [2026-07-29, 20:21:48](https://news.ycombinator.com/item?id=49102525) - [Theo Conjecture solves 35-year-old math problem, finds a term no one predicted](https://firstprinciples.com/blog-article/ai-system-theo-conjecture-solves-35-year-old-math-conjecture)
+* [2026-07-29, 20:14:36](https://news.ycombinator.com/item?id=49102425) - [A Trampoline](https://dogdogfish.com/blog/2026/07/29/a-trampoline/)
 * [2026-07-29, 19:50:42](https://news.ycombinator.com/item?id=49102150) - [Claude Is Down](https://status.claude.com/incidents/q2kg8n613kr3)
 * [2026-07-29, 19:25:33](https://news.ycombinator.com/item?id=49101852) - [Kimi K3-256k](https://www.kimi.com/code/docs/en/kimi-code/models)
 * [2026-07-29, 19:25:17](https://news.ycombinator.com/item?id=49101849) - [Balcony Solar: $1.74/watt direct plug-in solar](https://www.brightsaver.org/balcony-solar-kits)

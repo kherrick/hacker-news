@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-29, 20:39:40](https://news.ycombinator.com/item?id=49102774) - [The coolest use for the Vision Pro](https://christianselig.com/2026/07/vision-pro-house/)
+* [2026-07-29, 20:21:48](https://news.ycombinator.com/item?id=49102525) - [Theo Conjecture solves 35-year-old math problem, finds a term no one predicted](https://firstprinciples.com/blog-article/ai-system-theo-conjecture-solves-35-year-old-math-conjecture)
+* [2026-07-29, 20:14:36](https://news.ycombinator.com/item?id=49102425) - [A Trampoline](https://dogdogfish.com/blog/2026/07/29/a-trampoline/)
 * [2026-07-29, 19:50:42](https://news.ycombinator.com/item?id=49102150) - [Claude Is Down](https://status.claude.com/incidents/q2kg8n613kr3)
 * [2026-07-29, 19:25:33](https://news.ycombinator.com/item?id=49101852) - [Kimi K3-256k](https://www.kimi.com/code/docs/en/kimi-code/models)
 * [2026-07-29, 19:07:13](https://news.ycombinator.com/item?id=49101655) - [How much can you delegate to agents?](https://newsletter.posthog.com/p/agent-autonomy)
@@ -23,13 +26,10 @@
 * [2026-07-29, 12:33:02](https://news.ycombinator.com/item?id=49096654) - [Darktable](https://www.darktable.org/)
 * [2026-07-29, 11:44:33](https://news.ycombinator.com/item?id=49096188) - [Document-borne AI worms can self-propagate through Copilot for Word](https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/)
 * [2026-07-29, 11:05:08](https://news.ycombinator.com/item?id=49095865) - [KOReader](https://koreader.rocks/)
-* [2026-07-29, 04:58:46](https://news.ycombinator.com/item?id=49093569) - [More Tailscale tricks for your jailbroken Kindle](https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes)
 * [2026-07-28, 20:28:33](https://news.ycombinator.com/item?id=49089500) - [Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the Incident](https://huggingface.co/blog/agent-intrusion-technical-timeline)
 * [2026-07-27, 06:23:46](https://news.ycombinator.com/item?id=49065785) - [Hamburg's Stadtpark: A Park Built to Be Used](https://alsterrunde.com/hamburgs-stadtpark-a-park-built-to-be-used/)
-* [2026-07-26, 20:11:21](https://news.ycombinator.com/item?id=49061947) - [PGSimCity – an explorable 3D model that shows how Postgres works](https://github.com/NikolayS/pgsimcity)
 * [2026-07-25, 13:15:41](https://news.ycombinator.com/item?id=49047351) - [The Rust on ESP Book](https://docs.espressif.com/projects/rust/book/)
-* [2026-07-24, 19:20:54](https://news.ycombinator.com/item?id=49040469) - [Aurora DSQL: Scalable, Multi-Region OLTP](http://muratbuffalo.blogspot.com/2026/07/aurora-dsql-scalable-multi-region-oltp.html)
-* [2026-07-24, 14:40:18](https://news.ycombinator.com/item?id=49036404) - [Learning Musical Multitasking](https://www.jefftk.com/p/learning-musical-multitasking)
+* [2026-07-25, 08:28:59](https://news.ycombinator.com/item?id=49045686) - [I'm Running a Programming Contest](https://eieio.games/blog/im-running-the-icfp-programming-contest/)
 
 ## [Archives](archives/index.md)
 

@@ -60,6 +60,7 @@
 * [2026-07-25, 12:21:14](https://news.ycombinator.com/item?id=49046983) - [Type checker may be wrong – Lean and the Curry-Howard correspondence](https://max-amb.github.io/blog/your_type_checker_may_be_wrong/)
 * [2026-07-25, 12:00:04](https://news.ycombinator.com/item?id=49046858) - [Kyber (YC W23) Is Hiring a Head of Engineering](https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering)
 * [2026-07-25, 11:04:57](https://news.ycombinator.com/item?id=49046525) - [The Fedora 45 Sausage Factory](https://supakeen.com/weblog/the-fedora-45-sausage-factory/)
+* [2026-07-25, 08:28:59](https://news.ycombinator.com/item?id=49045686) - [I'm Running a Programming Contest](https://eieio.games/blog/im-running-the-icfp-programming-contest/)
 * [2026-07-25, 07:55:19](https://news.ycombinator.com/item?id=49045474) - [Watching Go's new garbage collector move through the heap](https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html)
 * [2026-07-25, 07:51:19](https://news.ycombinator.com/item?id=49045446) - [MouthPad: A Tongue-Controlled Touchpad](https://www.augmental.tech/)
 * [2026-07-25, 06:57:14](https://news.ycombinator.com/item?id=49045159) - [Android May Soon Restrict On-Device ADB](https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/)
