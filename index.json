@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-29, 21:25:40",
+      "https://news.ycombinator.com/item?id=49103285"
+    ],
+    [
+      "AI's top startups are barely publishing their research",
+      "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research"
+    ]
+  ],
+  [
+    [
       "2026-07-29, 21:01:01",
       "https://news.ycombinator.com/item?id=49103026"
     ],
@@ -77,16 +87,6 @@
     [
       "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
       "https://www.emergingtrajectories.com/lh/commodification-and-circularity/"
-    ]
-  ],
-  [
-    [
-      "2026-07-29, 18:42:39",
-      "https://news.ycombinator.com/item?id=49101360"
-    ],
-    [
-      "The growing threat of Docusign phishing attacks (2024)",
-      "https://www.darktrace.com/blog/the-growing-threat-of-docusign-phishing-attacks"
     ]
   ],
   [
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2026-07-29, 14:47:22",
-      "https://news.ycombinator.com/item?id=49098260"
-    ],
-    [
-      "Show HN: Qwen Scribe – local transcription and dictation for Apple Silicon",
-      "https://github.com/VladUZH/qwen-scribe"
-    ]
-  ],
-  [
-    [
       "2026-07-29, 14:43:47",
       "https://news.ycombinator.com/item?id=49098198"
     ],
@@ -261,16 +251,6 @@
   ],
   [
     [
-      "2026-07-29, 04:30:36",
-      "https://news.ycombinator.com/item?id=49093434"
-    ],
-    [
-      "User Interfaces of the Demo Scene",
-      "https://www.datagubbe.se/scenegui/"
-    ]
-  ],
-  [
-    [
       "2026-07-28, 20:28:33",
       "https://news.ycombinator.com/item?id=49089500"
     ],
@@ -287,6 +267,26 @@
     [
       "Hamburg's Stadtpark: A Park Built to Be Used",
       "https://alsterrunde.com/hamburgs-stadtpark-a-park-built-to-be-used/"
+    ]
+  ],
+  [
+    [
+      "2026-07-27, 00:58:45",
+      "https://news.ycombinator.com/item?id=49063983"
+    ],
+    [
+      "Hunter-gatherers introduced fish to a mountain lake 7000 years ago",
+      "https://www.newscientist.com/article/2580119-hunter-gatherers-introduced-fish-to-a-mountain-lake-7000-years-ago/"
+    ]
+  ],
+  [
+    [
+      "2026-07-25, 15:44:34",
+      "https://news.ycombinator.com/item?id=49048570"
+    ],
+    [
+      "Staging patches with Git add -p",
+      "https://www.simonholywell.com/post/git-add-p/"
     ]
   ],
   [
