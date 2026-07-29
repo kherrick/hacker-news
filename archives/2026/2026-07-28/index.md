@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-28](index.md)
 
+* [2026-07-28, 23:27:09](https://news.ycombinator.com/item?id=49091379) - [ReFrame – The EPaper Camera](https://reframe.camera/)
+* [2026-07-28, 23:00:02](https://news.ycombinator.com/item?id=49091153) - [Schools are adding pepper-spraying drones to help combat active shooters](https://www.washingtonpost.com/nation/2026/07/28/schools-are-adding-pepper-spraying-drones-help-combat-active-shooters/)
 * [2026-07-28, 22:50:05](https://news.ycombinator.com/item?id=49091048) - [Leeaky Catches hidden fees draining your travel budget](https://leeaky.vercel.app/)
 * [2026-07-28, 22:45:13](https://news.ycombinator.com/item?id=49090999) - [Banning AI will not make it go away](https://vishal.rs/essay/banning-ai-will-not-make-it-go-away)
 * [2026-07-28, 22:31:14](https://news.ycombinator.com/item?id=49090867) - [Underwater Oxygen Loss Threatens Earth's Stability, Researchers Warn](https://scripps.ucsd.edu/news/underwater-oxygen-loss-threatens-earths-stability-researchers-warn)
