@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-29, 15:05:43",
+      "https://news.ycombinator.com/item?id=49098510"
+    ],
+    [
+      "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+      "https://github.com/drumih/turbo-fieldfare"
+    ]
+  ],
+  [
+    [
+      "2026-07-29, 14:43:47",
+      "https://news.ycombinator.com/item?id=49098198"
+    ],
+    [
+      "A.I. Companies Are Recruiting Electricians and Carpenters by the Thousands",
+      "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html"
+    ]
+  ],
+  [
+    [
       "2026-07-29, 14:05:40",
       "https://news.ycombinator.com/item?id=49097730"
     ],
@@ -11,12 +31,32 @@
   ],
   [
     [
+      "2026-07-29, 14:05:30",
+      "https://news.ycombinator.com/item?id=49097727"
+    ],
+    [
+      "Show HN: A verification browser for AI agents – 13ms windows, one-call checks",
+      "https://github.com/hongnoul/hwatu"
+    ]
+  ],
+  [
+    [
       "2026-07-29, 13:55:00",
       "https://news.ycombinator.com/item?id=49097591"
     ],
     [
       "Valve Sponsors Work Bringing Open-Source RADV Driver to Windows",
       "https://www.phoronix.com/news/Valve-Sponsors-RADV-Windows"
+    ]
+  ],
+  [
+    [
+      "2026-07-29, 13:24:45",
+      "https://news.ycombinator.com/item?id=49097209"
+    ],
+    [
+      "Kalshi attacks a Wisconsin law banning election bets as 'voter suppression'",
+      "https://www.npr.org/2026/07/27/nx-s1-5905360/kalshi-wisconsin-election-betting-prediction-markets"
     ]
   ],
   [
@@ -41,12 +81,12 @@
   ],
   [
     [
-      "2026-07-29, 12:58:27",
-      "https://news.ycombinator.com/item?id=49096917"
+      "2026-07-29, 12:55:50",
+      "https://news.ycombinator.com/item?id=49096885"
     ],
     [
-      "Show HN: Bullshit Detector – agent skills that fact-check videos and articles",
-      "https://github.com/SerhiiKorniienko/bullshit-detector"
+      "San Francisco: Don't Fall for Industry Defense of Surveillance Pricing",
+      "https://www.eff.org/deeplinks/2026/07/san-francisco-dont-fall-industry-defense-surveillance-pricing"
     ]
   ],
   [
@@ -151,26 +191,6 @@
   ],
   [
     [
-      "2026-07-29, 09:59:09",
-      "https://news.ycombinator.com/item?id=49095361"
-    ],
-    [
-      "The only road in London where you have to drive on the right",
-      "https://www.mylondon.news/news/transport/only-road-london-you-drive-30499294"
-    ]
-  ],
-  [
-    [
-      "2026-07-29, 09:26:52",
-      "https://news.ycombinator.com/item?id=49095143"
-    ],
-    [
-      "Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels",
-      "https://vimgolf.ai"
-    ]
-  ],
-  [
-    [
       "2026-07-29, 07:18:24",
       "https://news.ycombinator.com/item?id=49094346"
     ],
@@ -191,32 +211,12 @@
   ],
   [
     [
-      "2026-07-29, 04:30:47",
-      "https://news.ycombinator.com/item?id=49093435"
-    ],
-    [
-      "Cracking Windows Open: Porting RADV to Win32",
-      "https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html"
-    ]
-  ],
-  [
-    [
       "2026-07-29, 04:30:36",
       "https://news.ycombinator.com/item?id=49093434"
     ],
     [
       "User Interfaces of the Demo Scene",
       "https://www.datagubbe.se/scenegui/"
-    ]
-  ],
-  [
-    [
-      "2026-07-28, 23:27:09",
-      "https://news.ycombinator.com/item?id=49091379"
-    ],
-    [
-      "ReFrame – The EPaper Camera",
-      "https://reframe.camera/"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2026-07-28, 16:58:31",
-      "https://news.ycombinator.com/item?id=49086788"
-    ],
-    [
-      "Substack writers, you need a website",
-      "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/"
-    ]
-  ],
-  [
-    [
       "2026-07-27, 00:58:45",
       "https://news.ycombinator.com/item?id=49063983"
     ],
@@ -287,6 +277,16 @@
     [
       "ALP: Adaptive lossless floating-point compression",
       "https://github.com/cwida/ALP"
+    ]
+  ],
+  [
+    [
+      "2026-07-23, 15:22:34",
+      "https://news.ycombinator.com/item?id=49023076"
+    ],
+    [
+      "Show HN: Write, simulate and synthesize VHDL/Verilog in the browser",
+      "https://risingedge.pro"
     ]
   ],
   [
