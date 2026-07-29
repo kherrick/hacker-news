@@ -15,6 +15,7 @@
 * [2026-07-29, 18:57:10](https://news.ycombinator.com/item?id=49101529) - [Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals](https://www.emergingtrajectories.com/lh/commodification-and-circularity/)
 * [2026-07-29, 18:50:10](https://news.ycombinator.com/item?id=49101460) - [Austerity Breeds Financial Protectionism](https://theloop.ecpr.eu/who-the-welfare-state-protects-shapes-a-countrys-financial-openness/)
 * [2026-07-29, 18:43:18](https://news.ycombinator.com/item?id=49101371) - [The motion-sickness cure hidden in iPhone settings](https://www.bbc.com/future/article/20260728-dancing-dots-the-motion-sickness-cure-hidden-in-your-iphone-settings)
+* [2026-07-29, 18:42:39](https://news.ycombinator.com/item?id=49101360) - [The growing threat of Docusign phishing attacks (2024)](https://www.darktrace.com/blog/the-growing-threat-of-docusign-phishing-attacks)
 * [2026-07-29, 18:42:10](https://news.ycombinator.com/item?id=49101351) - [How to Not Die by a Thousand Cuts. Or, How to Think About Software Quality](https://www.evalapply.org/posts/how-to-not-die-by-a-thousand-cuts/index.html)
 * [2026-07-29, 18:40:52](https://news.ycombinator.com/item?id=49101334) - [A field day for Gleam's language server – Gleam v1.18.0 release](https://gleam.run/news/a-field-day-for-gleams-language-server/)
 * [2026-07-29, 18:28:51](https://news.ycombinator.com/item?id=49101198) - [Turning a Dumb AC Unit Smart (Without Losing My Security Deposit)](https://prilik.com/blog/post/automating-ac-nyc/)
