@@ -1,5 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-29, 10:47:57](https://news.ycombinator.com/item?id=49095714) - [National Security Determination Threat Posed by Foreign-Produced Robotic Devices [pdf]](https://www.fcc.gov/sites/default/files/robots-nsd.pdf)
+* [2026-07-29, 10:35:19](https://news.ycombinator.com/item?id=49095628) - [SpecForge – A Platform for Authoring Formal Specifications](https://docs.imiron.io/v/0.5.10/en/tour.html)
+* [2026-07-29, 10:19:44](https://news.ycombinator.com/item?id=49095511) - [Amiga Graphics Archive](https://amiga.lychesis.net/index.html)
+* [2026-07-29, 09:26:52](https://news.ycombinator.com/item?id=49095143) - [Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels](https://vimgolf.ai)
 * [2026-07-29, 07:18:24](https://news.ycombinator.com/item?id=49094346) - [SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers](https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers)
 * [2026-07-29, 04:58:46](https://news.ycombinator.com/item?id=49093569) - [More Tailscale tricks for your jailbroken Kindle](https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes)
 * [2026-07-29, 04:30:47](https://news.ycombinator.com/item?id=49093435) - [Cracking Windows Open: Porting RADV to Win32](https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html)
@@ -7,7 +11,6 @@
 * [2026-07-29, 03:52:29](https://news.ycombinator.com/item?id=49093232) - [Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design](https://transformer-transformer.github.io/)
 * [2026-07-29, 02:25:29](https://news.ycombinator.com/item?id=49092754) - [Hooray for the Sockets Interface](https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/)
 * [2026-07-29, 01:49:19](https://news.ycombinator.com/item?id=49092499) - [LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences](https://learnvector.ai/)
-* [2026-07-29, 00:59:37](https://news.ycombinator.com/item?id=49092112) - [Multiple Mouse Cursors in Wayland](https://blinry.org/multi-seat-wayland/)
 * [2026-07-29, 00:11:23](https://news.ycombinator.com/item?id=49091730) - [Hubble: Open-source notetaking app for you and your agents](https://www.hubble.md/)
 * [2026-07-28, 23:27:09](https://news.ycombinator.com/item?id=49091379) - [ReFrame – The EPaper Camera](https://reframe.camera/)
 * [2026-07-28, 22:09:06](https://news.ycombinator.com/item?id=49090607) - [Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript](https://github.com/twalichiewicz/HNewhere)
@@ -23,13 +26,10 @@
 * [2026-07-28, 14:48:13](https://news.ycombinator.com/item?id=49084813) - [Una GPS smart watch – Repairable, USB-C charging, developer-friendly](https://unawatch.com/)
 * [2026-07-27, 23:33:04](https://news.ycombinator.com/item?id=49077040) - [Interview with Boris Cherny [video]](https://www.youtube.com/watch?v=qyPCVqFUyDo)
 * [2026-07-27, 22:42:11](https://news.ycombinator.com/item?id=49076450) - [60 Years Ago, a Submerged Submarine Circled the Globe for the First Time (2020)](https://www.popularmechanics.com/military/weapons/a32009109/operation-sandblast-sumbarine-circumnavigation/)
-* [2026-07-27, 18:04:30](https://news.ycombinator.com/item?id=49073357) - [Beyond Greece and Rome](https://aeon.co/essays/uncovering-a-global-ancient-history-beyond-greece-and-rome)
-* [2026-07-27, 12:56:36](https://news.ycombinator.com/item?id=49069033) - [Truth is not a direction: a Tarski attack on LLM probes](https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html)
 * [2026-07-26, 17:37:33](https://news.ycombinator.com/item?id=49060363) - [Lisp moving Forth moving Lisp](https://letoverlambda.com/textmode.cl/guest/chap8.html)
+* [2026-07-26, 14:40:53](https://news.ycombinator.com/item?id=49058673) - [CSV Is Never Just CSV](https://immaschinenraum.blog/en/funpark/never-just-csv/)
 * [2026-07-26, 08:06:45](https://news.ycombinator.com/item?id=49055816) - [Teach yourself programming in ten years (1998)](https://www.norvig.com/21-days.html)
-* [2026-07-24, 14:26:09](https://news.ycombinator.com/item?id=49036182) - [Mag Computer: A Mag History of RAM (1960–2025)](https://magworld.pw/episodes/computer/)
-* [2026-07-23, 14:00:48](https://news.ycombinator.com/item?id=49021756) - [Log is non-monotonic in PHP and Lua](https://purplesyringa.moe/blog/log-is-non-monotonic-in-php-and-lua/)
-* [2026-07-23, 13:41:08](https://news.ycombinator.com/item?id=49021447) - [Fixing a bug with byte order marks](https://alexwlchan.net/2026/byte-order-marks/)
+* [2026-07-22, 20:14:38](https://news.ycombinator.com/item?id=49012754) - [Ancient Rome's version of Google Maps: how long to reach the beach](https://www.euronews.com/culture/2026/07/02/ancient-romes-version-of-google-maps-how-long-to-reach-the-beach)
 
 ## [Archives](archives/index.md)
 

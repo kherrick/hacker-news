@@ -23,6 +23,7 @@
 * [2026-07-22, 21:00:26](https://news.ycombinator.com/item?id=49013356) - [Safari Technology Preview 248 Released](https://webkit.org/blog/18162/release-notes-for-safari-technology-preview-248/)
 * [2026-07-22, 20:33:44](https://news.ycombinator.com/item?id=49013036) - [I Inspected My Take-Home Interview Project. It Was a Whole Operation](https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/)
 * [2026-07-22, 20:16:01](https://news.ycombinator.com/item?id=49012777) - [Fairphone 6 wide camera experimental Linux support](https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/)
+* [2026-07-22, 20:14:38](https://news.ycombinator.com/item?id=49012754) - [Ancient Rome's version of Google Maps: how long to reach the beach](https://www.euronews.com/culture/2026/07/02/ancient-romes-version-of-google-maps-how-long-to-reach-the-beach)
 * [2026-07-22, 20:03:32](https://news.ycombinator.com/item?id=49012604) - [Book Corners: Community map of neighborhood book exchange spots](https://www.bookcorners.org)
 * [2026-07-22, 19:42:48](https://news.ycombinator.com/item?id=49012339) - [Why care about programming languages](https://ebellani.github.io/blog/2026/why-care-about-programming-languages/)
 * [2026-07-22, 19:42:40](https://news.ycombinator.com/item?id=49012337) - [Teardown: The BMW / Harman IDC23H Infotainment Unit (B423)](https://www.hakstuff.net/blog/teardown-the-bmw-idc23h-infotainment-unit)

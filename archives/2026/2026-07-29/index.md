@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-07-29](index.md)
 
+* [2026-07-29, 10:47:57](https://news.ycombinator.com/item?id=49095714) - [National Security Determination Threat Posed by Foreign-Produced Robotic Devices [pdf]](https://www.fcc.gov/sites/default/files/robots-nsd.pdf)
+* [2026-07-29, 10:35:19](https://news.ycombinator.com/item?id=49095628) - [SpecForge – A Platform for Authoring Formal Specifications](https://docs.imiron.io/v/0.5.10/en/tour.html)
+* [2026-07-29, 10:19:44](https://news.ycombinator.com/item?id=49095511) - [Amiga Graphics Archive](https://amiga.lychesis.net/index.html)
+* [2026-07-29, 09:26:52](https://news.ycombinator.com/item?id=49095143) - [Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels](https://vimgolf.ai)
 * [2026-07-29, 07:18:24](https://news.ycombinator.com/item?id=49094346) - [SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers](https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers)
 * [2026-07-29, 04:58:46](https://news.ycombinator.com/item?id=49093569) - [More Tailscale tricks for your jailbroken Kindle](https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes)
 * [2026-07-29, 04:30:47](https://news.ycombinator.com/item?id=49093435) - [Cracking Windows Open: Porting RADV to Win32](https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html)
