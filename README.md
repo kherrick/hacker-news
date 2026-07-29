@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-07-29, 21:25:40](https://news.ycombinator.com/item?id=49103285) - [AI's top startups are barely publishing their research](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research)
+* [2026-07-29, 21:06:42](https://news.ycombinator.com/item?id=49103089) - [The Cold Email](https://zachholman.com/posts/cold-email)
 * [2026-07-29, 21:01:01](https://news.ycombinator.com/item?id=49103026) - [SalesPatriot (YC W25) Is Hiring FDEs](https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer)
 * [2026-07-29, 20:39:40](https://news.ycombinator.com/item?id=49102774) - [The coolest use for the Vision Pro](https://christianselig.com/2026/07/vision-pro-house/)
 * [2026-07-29, 20:21:48](https://news.ycombinator.com/item?id=49102525) - [Theo Conjecture solves 35-year-old math problem, finds a term no one predicted](https://firstprinciples.com/blog-article/ai-system-theo-conjecture-solves-35-year-old-math-conjecture)
@@ -21,7 +22,6 @@
 * [2026-07-29, 14:43:47](https://news.ycombinator.com/item?id=49098198) - [A.I. companies are recruiting electricians and carpenters by the thousands](https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html)
 * [2026-07-29, 14:38:35](https://news.ycombinator.com/item?id=49098130) - [Self-hosting Kimi K3: 20% more hardware cost, 20% better task resolution](https://aistack.imec-int.com/blog/gpu-self-hosting)
 * [2026-07-29, 13:01:57](https://news.ycombinator.com/item?id=49096969) - [Handbook.md shows that long policy documents do not reliably govern agents](https://arxiv.org/abs/2607.25398)
-* [2026-07-29, 12:48:18](https://news.ycombinator.com/item?id=49096811) - [Shipping Godot VR and Porting to PSVR2: A Partial Post Mortem](https://www.claire-blackshaw.com/blog/2026/07/shipping-godot-vr-and-porting-to-psvr2-a-partial-post-mortem/)
 * [2026-07-29, 12:33:02](https://news.ycombinator.com/item?id=49096654) - [Darktable](https://www.darktable.org/)
 * [2026-07-29, 11:44:33](https://news.ycombinator.com/item?id=49096188) - [Document-borne AI worms can self-propagate through Copilot for Word](https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/)
 * [2026-07-29, 11:05:08](https://news.ycombinator.com/item?id=49095865) - [KOReader](https://koreader.rocks/)
