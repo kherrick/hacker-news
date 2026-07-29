@@ -19,6 +19,7 @@
 * [2026-07-29, 15:13:25](https://news.ycombinator.com/item?id=49098599) - [Cesium DevCon 2026 talks are up, including a keynote from SQLite's creator](https://cesium.com/events/cesium-developer-conference/2026/)
 * [2026-07-29, 15:05:43](https://news.ycombinator.com/item?id=49098510) - [Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac](https://github.com/drumih/turbo-fieldfare)
 * [2026-07-29, 15:01:52](https://news.ycombinator.com/item?id=49098466) - [Hugging Face: Anatomy of a frontier-lab agent intrusion](https://huggingface-anatomy-of-frontier-lab-model-intrusion.static.hf.space/index.html)
+* [2026-07-29, 15:01:52](https://news.ycombinator.com/item?id=49098466) - [Anatomy of a frontier-lab agent intrusion](https://huggingface.co/blog/agent-intrusion-technical-timeline)
 * [2026-07-29, 14:58:17](https://news.ycombinator.com/item?id=49098417) - [PostgreSQL's MVCC is bad. So is everyone else's](https://boringsql.com/posts/mvcc-bad-bad/)
 * [2026-07-29, 14:56:28](https://news.ycombinator.com/item?id=49098388) - [GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?](https://juliahub.com/blog/frontier-models-physical-ai-evaluation)
 * [2026-07-29, 14:55:32](https://news.ycombinator.com/item?id=49098375) - [Google shuts down Nobel Prize winning AlphaFold](https://www.engadget.com/2225849/google-shuts-down-alphafold/)

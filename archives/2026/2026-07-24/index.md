@@ -43,6 +43,7 @@
 * [2026-07-24, 15:05:06](https://news.ycombinator.com/item?id=49036765) - [Codeberg Divides](https://lucumr.pocoo.org/2026/7/24/codeberg-divides/)
 * [2026-07-24, 14:43:57](https://news.ycombinator.com/item?id=49036460) - [The Fabled Flatbreads of Uzbekistan (2015)](https://www.aramcoworld.com/articles/2015/the-fabled-flatbreads-of-uzbekistan)
 * [2026-07-24, 14:41:59](https://news.ycombinator.com/item?id=49036433) - [Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey](https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece)
+* [2026-07-24, 14:40:18](https://news.ycombinator.com/item?id=49036404) - [Learning Musical Multitasking](https://www.jefftk.com/p/learning-musical-multitasking)
 * [2026-07-24, 14:28:38](https://news.ycombinator.com/item?id=49036224) - [Co-Opting Linux Processes for High-Performance Network Simulation (2022)](https://www.usenix.org/conference/atc22/presentation/jansen)
 * [2026-07-24, 14:26:09](https://news.ycombinator.com/item?id=49036182) - [Mag Computer: A Mag History of RAM (1960–2025)](https://magworld.pw/episodes/computer/)
 * [2026-07-24, 14:23:39](https://news.ycombinator.com/item?id=49036136) - [3GPP Version 19](https://www.3gpp.org/specifications-technologies/releases/release-19)
