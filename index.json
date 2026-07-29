@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-07-29, 20:39:40",
+      "https://news.ycombinator.com/item?id=49102774"
+    ],
+    [
+      "The coolest use for the Vision Pro",
+      "https://christianselig.com/2026/07/vision-pro-house/"
+    ]
+  ],
+  [
+    [
+      "2026-07-29, 20:21:48",
+      "https://news.ycombinator.com/item?id=49102525"
+    ],
+    [
+      "Theo Conjecture solves 35-year-old math problem, finds a term no one predicted",
+      "https://firstprinciples.com/blog-article/ai-system-theo-conjecture-solves-35-year-old-math-conjecture"
+    ]
+  ],
+  [
+    [
+      "2026-07-29, 20:14:36",
+      "https://news.ycombinator.com/item?id=49102425"
+    ],
+    [
+      "A Trampoline",
+      "https://dogdogfish.com/blog/2026/07/29/a-trampoline/"
+    ]
+  ],
+  [
+    [
       "2026-07-29, 19:50:42",
       "https://news.ycombinator.com/item?id=49102150"
     ],
@@ -231,16 +261,6 @@
   ],
   [
     [
-      "2026-07-29, 04:58:46",
-      "https://news.ycombinator.com/item?id=49093569"
-    ],
-    [
-      "More Tailscale tricks for your jailbroken Kindle",
-      "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes"
-    ]
-  ],
-  [
-    [
       "2026-07-28, 20:28:33",
       "https://news.ycombinator.com/item?id=49089500"
     ],
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2026-07-26, 20:11:21",
-      "https://news.ycombinator.com/item?id=49061947"
-    ],
-    [
-      "PGSimCity – an explorable 3D model that shows how Postgres works",
-      "https://github.com/NikolayS/pgsimcity"
-    ]
-  ],
-  [
-    [
       "2026-07-25, 13:15:41",
       "https://news.ycombinator.com/item?id=49047351"
     ],
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2026-07-24, 19:20:54",
-      "https://news.ycombinator.com/item?id=49040469"
+      "2026-07-25, 08:28:59",
+      "https://news.ycombinator.com/item?id=49045686"
     ],
     [
-      "Aurora DSQL: Scalable, Multi-Region OLTP",
-      "http://muratbuffalo.blogspot.com/2026/07/aurora-dsql-scalable-multi-region-oltp.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-24, 14:40:18",
-      "https://news.ycombinator.com/item?id=49036404"
-    ],
-    [
-      "Learning Musical Multitasking",
-      "https://www.jefftk.com/p/learning-musical-multitasking"
+      "I'm Running a Programming Contest",
+      "https://eieio.games/blog/im-running-the-icfp-programming-contest/"
     ]
   ]
 ]
