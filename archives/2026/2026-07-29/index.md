@@ -4,12 +4,17 @@
 
 ### [Archives](../../index.md) for [2026-07-29](index.md)
 
+* [2026-07-29, 15:05:43](https://news.ycombinator.com/item?id=49098510) - [Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac](https://github.com/drumih/turbo-fieldfare)
+* [2026-07-29, 14:43:47](https://news.ycombinator.com/item?id=49098198) - [A.I. Companies Are Recruiting Electricians and Carpenters by the Thousands](https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html)
 * [2026-07-29, 14:05:40](https://news.ycombinator.com/item?id=49097730) - [Choose DuckDB rather than SQLite](https://tracewayapp.com/blog/sqlite-vs-duckdb)
+* [2026-07-29, 14:05:30](https://news.ycombinator.com/item?id=49097727) - [Show HN: A verification browser for AI agents – 13ms windows, one-call checks](https://github.com/hongnoul/hwatu)
 * [2026-07-29, 13:55:00](https://news.ycombinator.com/item?id=49097591) - [Valve Sponsors Work Bringing Open-Source RADV Driver to Windows](https://www.phoronix.com/news/Valve-Sponsors-RADV-Windows)
+* [2026-07-29, 13:24:45](https://news.ycombinator.com/item?id=49097209) - [Kalshi attacks a Wisconsin law banning election bets as 'voter suppression'](https://www.npr.org/2026/07/27/nx-s1-5905360/kalshi-wisconsin-election-betting-prediction-markets)
 * [2026-07-29, 13:05:17](https://news.ycombinator.com/item?id=49097003) - [TokenTown: A visual way to understand how LLMs work](https://laurentiugabriel.github.io/token-town/)
 * [2026-07-29, 13:01:57](https://news.ycombinator.com/item?id=49096969) - [Handbook.md shows that long policy documents do not reliably govern agents](https://arxiv.org/abs/2607.25398)
 * [2026-07-29, 13:00:39](https://news.ycombinator.com/item?id=49096953) - [After the AI Crash](https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/)
 * [2026-07-29, 12:58:27](https://news.ycombinator.com/item?id=49096917) - [Show HN: Bullshit Detector – agent skills that fact-check videos and articles](https://github.com/SerhiiKorniienko/bullshit-detector)
+* [2026-07-29, 12:55:50](https://news.ycombinator.com/item?id=49096885) - [San Francisco: Don't Fall for Industry Defense of Surveillance Pricing](https://www.eff.org/deeplinks/2026/07/san-francisco-dont-fall-industry-defense-surveillance-pricing)
 * [2026-07-29, 12:48:18](https://news.ycombinator.com/item?id=49096811) - [Shipping Godot VR and Porting to PSVR2: A Partial Post Mortem](https://www.claire-blackshaw.com/blog/2026/07/shipping-godot-vr-and-porting-to-psvr2-a-partial-post-mortem/)
 * [2026-07-29, 12:43:36](https://news.ycombinator.com/item?id=49096767) - [Show HN: Echologue – the private AI voice journal I built for myself](https://echologue.com/)
 * [2026-07-29, 12:40:13](https://news.ycombinator.com/item?id=49096742) - [A Texture Lookup Approach to Bézier Curve Evaluation on the GPU (JCGT)](https://jcgt.org/published/0015/02/01/)
