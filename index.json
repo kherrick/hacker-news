@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2026-07-29, 16:59:04",
+      "https://news.ycombinator.com/item?id=49100035"
+    ],
+    [
+      "Infrastructure Patterns for Agentic Applications",
+      "https://render.com/blog/infrastructure-patterns-for-agentic-applications"
+    ]
+  ],
+  [
+    [
+      "2026-07-29, 16:42:20",
+      "https://news.ycombinator.com/item?id=49099804"
+    ],
+    [
+      "Some thoughts about Anthropic's new cryptanalysis results",
+      "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/"
+    ]
+  ],
+  [
+    [
       "2026-07-29, 16:36:59",
       "https://news.ycombinator.com/item?id=49099715"
     ],
@@ -51,32 +71,12 @@
   ],
   [
     [
-      "2026-07-29, 15:45:56",
-      "https://news.ycombinator.com/item?id=49099015"
-    ],
-    [
-      "Superlogical – Mitchell Hashimoto",
-      "https://mitchellh.com/writing/superlogical"
-    ]
-  ],
-  [
-    [
       "2026-07-29, 15:41:33",
       "https://news.ycombinator.com/item?id=49098965"
     ],
     [
-      "Mitchellh starts a new company: Superlogical",
+      "Superlogical",
       "https://www.superlogical.com/"
-    ]
-  ],
-  [
-    [
-      "2026-07-29, 15:41:01",
-      "https://news.ycombinator.com/item?id=49098953"
-    ],
-    [
-      "Baseload Is a Myth (2024)",
-      "https://cleanenergyreview.io/p/baseload-is-a-myth"
     ]
   ],
   [
@@ -117,16 +117,6 @@
     [
       "GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?",
       "https://juliahub.com/blog/frontier-models-physical-ai-evaluation"
-    ]
-  ],
-  [
-    [
-      "2026-07-29, 14:55:32",
-      "https://news.ycombinator.com/item?id=49098375"
-    ],
-    [
-      "Google shuts down Nobel Prize winning AlphaFold",
-      "https://www.engadget.com/2225849/google-shuts-down-alphafold/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Lisp moving Forth moving Lisp",
       "https://letoverlambda.com/textmode.cl/guest/chap8.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-25, 13:15:41",
+      "https://news.ycombinator.com/item?id=49047351"
+    ],
+    [
+      "The Rust on ESP Book",
+      "https://docs.espressif.com/projects/rust/book/"
     ]
   ]
 ]
