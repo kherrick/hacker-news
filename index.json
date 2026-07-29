@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2026-07-28, 17:22:16",
-      "https://news.ycombinator.com/item?id=49087091"
-    ],
-    [
-      "Discovering Cryptographic Weaknesses with Claude",
-      "https://www.anthropic.com/research/discovering-cryptographic-weaknesses"
-    ]
-  ],
-  [
-    [
       "2026-07-28, 17:11:54",
       "https://news.ycombinator.com/item?id=49086971"
     ],
@@ -257,6 +247,16 @@
     [
       "Truth is not a direction: a Tarski attack on LLM probes",
       "https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-26, 17:37:33",
+      "https://news.ycombinator.com/item?id=49060363"
+    ],
+    [
+      "Lisp moving Forth moving Lisp",
+      "https://letoverlambda.com/textmode.cl/guest/chap8.html"
     ]
   ],
   [
