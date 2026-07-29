@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-07-29, 13:01:57",
+      "https://news.ycombinator.com/item?id=49096969"
+    ],
+    [
+      "Handbook.md shows that long policy documents do not reliably govern agents",
+      "https://arxiv.org/abs/2607.25398"
+    ]
+  ],
+  [
+    [
+      "2026-07-29, 13:00:39",
+      "https://news.ycombinator.com/item?id=49096953"
+    ],
+    [
+      "After the AI Crash",
+      "https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/"
+    ]
+  ],
+  [
+    [
+      "2026-07-29, 12:58:27",
+      "https://news.ycombinator.com/item?id=49096917"
+    ],
+    [
+      "Show HN: Bullshit Detector – agent skills that fact-check videos and articles",
+      "https://github.com/SerhiiKorniienko/bullshit-detector"
+    ]
+  ],
+  [
+    [
+      "2026-07-29, 12:43:36",
+      "https://news.ycombinator.com/item?id=49096767"
+    ],
+    [
+      "Show HN: Echologue – the private AI voice journal I built for myself",
+      "https://echologue.com/"
+    ]
+  ],
+  [
+    [
       "2026-07-29, 12:40:13",
       "https://news.ycombinator.com/item?id=49096742"
     ],
@@ -27,16 +67,6 @@
     [
       "Disrupting supply chain attacks on NPM and GitHub Actions",
       "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/"
-    ]
-  ],
-  [
-    [
-      "2026-07-29, 12:06:54",
-      "https://news.ycombinator.com/item?id=49096389"
-    ],
-    [
-      "Deleting Codeberg",
-      "https://thanosapollo.org/posts/deleting-codeberg/"
     ]
   ],
   [
@@ -87,6 +117,16 @@
     [
       "Amiga Graphics Archive",
       "https://amiga.lychesis.net/index.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-29, 09:59:09",
+      "https://news.ycombinator.com/item?id=49095361"
+    ],
+    [
+      "The only road in London where you have to drive on the right",
+      "https://www.mylondon.news/news/transport/only-road-london-you-drive-30499294"
     ]
   ],
   [
@@ -161,16 +201,6 @@
   ],
   [
     [
-      "2026-07-29, 00:11:23",
-      "https://news.ycombinator.com/item?id=49091730"
-    ],
-    [
-      "Hubble: Open-source notetaking app for you and your agents",
-      "https://www.hubble.md/"
-    ]
-  ],
-  [
-    [
       "2026-07-28, 23:27:09",
       "https://news.ycombinator.com/item?id=49091379"
     ],
@@ -241,42 +271,12 @@
   ],
   [
     [
-      "2026-07-28, 15:48:34",
-      "https://news.ycombinator.com/item?id=49085698"
-    ],
-    [
-      "Kimi K3 Architecture Overview and Notes",
-      "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-28, 14:48:13",
-      "https://news.ycombinator.com/item?id=49084813"
-    ],
-    [
-      "Una GPS smart watch – Repairable, USB-C charging, developer-friendly",
-      "https://unawatch.com/"
-    ]
-  ],
-  [
-    [
       "2026-07-26, 17:37:33",
       "https://news.ycombinator.com/item?id=49060363"
     ],
     [
       "Lisp moving Forth moving Lisp",
       "https://letoverlambda.com/textmode.cl/guest/chap8.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-26, 08:06:45",
-      "https://news.ycombinator.com/item?id=49055816"
-    ],
-    [
-      "Teach yourself programming in ten years (1998)",
-      "https://www.norvig.com/21-days.html"
     ]
   ],
   [
