@@ -13,6 +13,7 @@
 * [2026-07-24, 20:07:20](https://news.ycombinator.com/item?id=49040989) - [What if we made advertising illegal?](https://simone.org/advertising/)
 * [2026-07-24, 19:45:10](https://news.ycombinator.com/item?id=49040741) - [Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard](https://artificialanalysis.ai/models)
 * [2026-07-24, 19:37:18](https://news.ycombinator.com/item?id=49040650) - [Show HN: Scala Tutorials – interactive Scala 3 lessons in the browser](https://scalatutorials.com)
+* [2026-07-24, 19:20:54](https://news.ycombinator.com/item?id=49040469) - [Aurora DSQL: Scalable, Multi-Region OLTP](http://muratbuffalo.blogspot.com/2026/07/aurora-dsql-scalable-multi-region-oltp.html)
 * [2026-07-24, 19:05:53](https://news.ycombinator.com/item?id=49040296) - [Postgres LISTEN/NOTIFY actually scales](https://www.dbos.dev/blog/postgres-listen-notify-scalability)
 * [2026-07-24, 18:39:32](https://news.ycombinator.com/item?id=49039904) - [The most advanced robotic servicing satellite–that we know about](https://arstechnica.com/space/2026/07/this-is-the-worlds-most-advanced-robotic-servicing-satellite-that-we-know-about/)
 * [2026-07-24, 18:37:06](https://news.ycombinator.com/item?id=49039868) - [Show HN: I made some transistor animations](https://brandonli.net/semisim/animations)

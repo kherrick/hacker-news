@@ -2,11 +2,9 @@
 
 * [2026-07-29, 19:50:42](https://news.ycombinator.com/item?id=49102150) - [Claude Is Down](https://status.claude.com/incidents/q2kg8n613kr3)
 * [2026-07-29, 19:25:33](https://news.ycombinator.com/item?id=49101852) - [Kimi K3-256k](https://www.kimi.com/code/docs/en/kimi-code/models)
-* [2026-07-29, 19:25:17](https://news.ycombinator.com/item?id=49101849) - [Balcony Solar: $1.74/watt direct plug-in solar](https://www.brightsaver.org/balcony-solar-kits)
 * [2026-07-29, 19:07:13](https://news.ycombinator.com/item?id=49101655) - [How much can you delegate to agents?](https://newsletter.posthog.com/p/agent-autonomy)
 * [2026-07-29, 18:57:10](https://news.ycombinator.com/item?id=49101529) - [Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals](https://www.emergingtrajectories.com/lh/commodification-and-circularity/)
 * [2026-07-29, 18:50:10](https://news.ycombinator.com/item?id=49101460) - [Who the welfare state protects shapes a country’s financial openness](https://theloop.ecpr.eu/who-the-welfare-state-protects-shapes-a-countrys-financial-openness/)
-* [2026-07-29, 18:43:18](https://news.ycombinator.com/item?id=49101371) - [The motion-sickness cure hidden in iPhone settings](https://www.bbc.com/future/article/20260728-dancing-dots-the-motion-sickness-cure-hidden-in-your-iphone-settings)
 * [2026-07-29, 18:42:10](https://news.ycombinator.com/item?id=49101351) - [How to Not Die by a Thousand Cuts. Or, How to Think About Software Quality](https://www.evalapply.org/posts/how-to-not-die-by-a-thousand-cuts/index.html)
 * [2026-07-29, 18:28:51](https://news.ycombinator.com/item?id=49101198) - [Turning a Dumb AC Unit Smart (Without Losing My Security Deposit)](https://prilik.com/blog/post/automating-ac-nyc/)
 * [2026-07-29, 17:01:10](https://news.ycombinator.com/item?id=49100056) - [PgDog (YC P25) Is Hiring](https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer)
@@ -28,7 +26,9 @@
 * [2026-07-29, 04:58:46](https://news.ycombinator.com/item?id=49093569) - [More Tailscale tricks for your jailbroken Kindle](https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes)
 * [2026-07-28, 20:28:33](https://news.ycombinator.com/item?id=49089500) - [Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the Incident](https://huggingface.co/blog/agent-intrusion-technical-timeline)
 * [2026-07-27, 06:23:46](https://news.ycombinator.com/item?id=49065785) - [Hamburg's Stadtpark: A Park Built to Be Used](https://alsterrunde.com/hamburgs-stadtpark-a-park-built-to-be-used/)
+* [2026-07-26, 20:11:21](https://news.ycombinator.com/item?id=49061947) - [PGSimCity – an explorable 3D model that shows how Postgres works](https://github.com/NikolayS/pgsimcity)
 * [2026-07-25, 13:15:41](https://news.ycombinator.com/item?id=49047351) - [The Rust on ESP Book](https://docs.espressif.com/projects/rust/book/)
+* [2026-07-24, 19:20:54](https://news.ycombinator.com/item?id=49040469) - [Aurora DSQL: Scalable, Multi-Region OLTP](http://muratbuffalo.blogspot.com/2026/07/aurora-dsql-scalable-multi-region-oltp.html)
 * [2026-07-24, 14:40:18](https://news.ycombinator.com/item?id=49036404) - [Learning Musical Multitasking](https://www.jefftk.com/p/learning-musical-multitasking)
 
 ## [Archives](archives/index.md)
