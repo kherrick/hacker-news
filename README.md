@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-07-29, 02:29:12](https://news.ycombinator.com/item?id=49092781) - [Does every question mark deserve a Betteridge?](https://dynomight.net/betteridge/)
+* [2026-07-29, 03:52:29](https://news.ycombinator.com/item?id=49093232) - [Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design](https://transformer-transformer.github.io/)
 * [2026-07-29, 02:25:29](https://news.ycombinator.com/item?id=49092754) - [Hooray for the Sockets Interface](https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/)
 * [2026-07-29, 02:22:04](https://news.ycombinator.com/item?id=49092730) - [Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects](https://github.com/jagg-ix/zil-lean)
-* [2026-07-29, 01:56:00](https://news.ycombinator.com/item?id=49092549) - [Chip stocks slide in US and Asia as AI jitters rattle investors](https://www.bbc.com/news/articles/cly8zng43npo)
 * [2026-07-29, 01:49:19](https://news.ycombinator.com/item?id=49092499) - [LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences](https://learnvector.ai/)
 * [2026-07-29, 00:59:37](https://news.ycombinator.com/item?id=49092112) - [Multiple Mouse Cursors in Wayland](https://blinry.org/multi-seat-wayland/)
 * [2026-07-29, 00:32:08](https://news.ycombinator.com/item?id=49091895) - [Lightweight Spring Boot Monitoring Without Prometheus and Grafana](https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html)
@@ -22,6 +21,7 @@
 * [2026-07-28, 15:50:38](https://news.ycombinator.com/item?id=49085731) - [Delayed Gratification – Proud to Be 'Last to Breaking News'](https://www.slow-journalism.com/)
 * [2026-07-28, 15:48:34](https://news.ycombinator.com/item?id=49085698) - [Kimi K3 Architecture Overview and Notes](https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html)
 * [2026-07-28, 15:46:45](https://news.ycombinator.com/item?id=49085666) - [Zig's Incremental Compilation Internals](https://mlugg.co.uk/posts/incremental-compilation-internals/)
+* [2026-07-28, 15:01:12](https://news.ycombinator.com/item?id=49084987) - [Now is the time to give LLMs access to the ACM digital library](https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/)
 * [2026-07-28, 14:48:13](https://news.ycombinator.com/item?id=49084813) - [Una GPS smart watch – Repairable, USB-C charging, developer-friendly](https://unawatch.com/)
 * [2026-07-28, 13:12:01](https://news.ycombinator.com/item?id=49083314) - [New HIV vaccine shows unprecedented success in preclinical study](https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/)
 * [2026-07-28, 10:52:30](https://news.ycombinator.com/item?id=49082022) - [Kimi Linear: An Expressive, Efficient Attention Architecture (2025)](https://arxiv.org/abs/2510.26692)
@@ -29,7 +29,7 @@
 * [2026-07-27, 18:04:30](https://news.ycombinator.com/item?id=49073357) - [Beyond Greece and Rome](https://aeon.co/essays/uncovering-a-global-ancient-history-beyond-greece-and-rome)
 * [2026-07-27, 12:56:36](https://news.ycombinator.com/item?id=49069033) - [Truth is not a direction: a Tarski attack on LLM probes](https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html)
 * [2026-07-26, 08:06:45](https://news.ycombinator.com/item?id=49055816) - [Teach yourself programming in ten years (1998)](https://www.norvig.com/21-days.html)
-* [2026-07-24, 14:43:57](https://news.ycombinator.com/item?id=49036460) - [The Fabled Flatbreads of Uzbekistan (2015)](https://www.aramcoworld.com/articles/2015/the-fabled-flatbreads-of-uzbekistan)
+* [2026-07-24, 13:01:30](https://news.ycombinator.com/item?id=49034939) - [OpenShell Kubernetes Operator](https://github.com/lensapp/openshell-k8s-operator)
 
 ## [Archives](archives/index.md)
 

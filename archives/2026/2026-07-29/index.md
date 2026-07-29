@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-29](index.md)
 
+* [2026-07-29, 03:52:29](https://news.ycombinator.com/item?id=49093232) - [Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design](https://transformer-transformer.github.io/)
 * [2026-07-29, 02:29:12](https://news.ycombinator.com/item?id=49092781) - [Does every question mark deserve a Betteridge?](https://dynomight.net/betteridge/)
 * [2026-07-29, 02:25:29](https://news.ycombinator.com/item?id=49092754) - [Hooray for the Sockets Interface](https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/)
 * [2026-07-29, 02:22:04](https://news.ycombinator.com/item?id=49092730) - [Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects](https://github.com/jagg-ix/zil-lean)

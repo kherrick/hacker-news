@@ -60,6 +60,7 @@
 * [2026-07-24, 13:32:30](https://news.ycombinator.com/item?id=49035303) - [Nvidia, Microsoft, Meta warn against overregulating open-weight models](https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html)
 * [2026-07-24, 13:14:58](https://news.ycombinator.com/item?id=49035080) - [How the God of Israel Was Born](https://andreafontana.it/en/birth-god-israel-yahweh-el.html)
 * [2026-07-24, 13:02:49](https://news.ycombinator.com/item?id=49034948) - [Patreon laying off 20% of staff](https://www.patreon.com/jackconte/posts/painful-update-164628951)
+* [2026-07-24, 13:01:30](https://news.ycombinator.com/item?id=49034939) - [OpenShell Kubernetes Operator](https://github.com/lensapp/openshell-k8s-operator)
 * [2026-07-24, 12:55:47](https://news.ycombinator.com/item?id=49034895) - [Eight Newly Produced MQ-9 Reaper Drones Destroyed in Iranian Strike](https://militarywatchmagazine.com/)
 * [2026-07-24, 12:53:59](https://news.ycombinator.com/item?id=49034868) - [Half-Life 2 running natively on HaikuOS](https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18)
 * [2026-07-24, 12:44:32](https://news.ycombinator.com/item?id=49034777) - [Stinkpot: SQLite-backed shell history](https://tangled.org/oppi.li/stinkpot)
