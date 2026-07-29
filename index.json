@@ -1,6 +1,76 @@
 [
   [
     [
+      "2026-07-29, 19:07:13",
+      "https://news.ycombinator.com/item?id=49101655"
+    ],
+    [
+      "How much can you delegate to agents?",
+      "https://newsletter.posthog.com/p/agent-autonomy"
+    ]
+  ],
+  [
+    [
+      "2026-07-29, 18:57:10",
+      "https://news.ycombinator.com/item?id=49101529"
+    ],
+    [
+      "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
+      "https://www.emergingtrajectories.com/lh/commodification-and-circularity/"
+    ]
+  ],
+  [
+    [
+      "2026-07-29, 18:50:10",
+      "https://news.ycombinator.com/item?id=49101460"
+    ],
+    [
+      "Austerity Breeds Financial Protectionism",
+      "https://theloop.ecpr.eu/who-the-welfare-state-protects-shapes-a-countrys-financial-openness/"
+    ]
+  ],
+  [
+    [
+      "2026-07-29, 18:43:18",
+      "https://news.ycombinator.com/item?id=49101371"
+    ],
+    [
+      "The motion-sickness cure hidden in iPhone settings",
+      "https://www.bbc.com/future/article/20260728-dancing-dots-the-motion-sickness-cure-hidden-in-your-iphone-settings"
+    ]
+  ],
+  [
+    [
+      "2026-07-29, 18:42:10",
+      "https://news.ycombinator.com/item?id=49101351"
+    ],
+    [
+      "How to Not Die by a Thousand Cuts. Or, How to Think About Software Quality",
+      "https://www.evalapply.org/posts/how-to-not-die-by-a-thousand-cuts/index.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-29, 18:28:51",
+      "https://news.ycombinator.com/item?id=49101198"
+    ],
+    [
+      "Turning a Dumb AC Unit Smart (Without Losing My Security Deposit)",
+      "https://prilik.com/blog/post/automating-ac-nyc/"
+    ]
+  ],
+  [
+    [
+      "2026-07-29, 18:28:49",
+      "https://news.ycombinator.com/item?id=49101197"
+    ],
+    [
+      "Why has the display control panel pointer truncation bug gone unfixed for long?",
+      "https://devblogs.microsoft.com/oldnewthing/20260717-00/?p=112541"
+    ]
+  ],
+  [
+    [
       "2026-07-29, 17:01:10",
       "https://news.ycombinator.com/item?id=49100056"
     ],
@@ -71,16 +141,6 @@
   ],
   [
     [
-      "2026-07-29, 15:13:25",
-      "https://news.ycombinator.com/item?id=49098599"
-    ],
-    [
-      "Cesium DevCon 2026 talks are up, including a keynote from SQLite's creator",
-      "https://cesium.com/events/cesium-developer-conference/2026/"
-    ]
-  ],
-  [
-    [
       "2026-07-29, 15:05:43",
       "https://news.ycombinator.com/item?id=49098510"
     ],
@@ -95,7 +155,7 @@
       "https://news.ycombinator.com/item?id=49098466"
     ],
     [
-      "Anatomy of a frontier-lab agent intrusion",
+      "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
       "https://huggingface.co/blog/agent-intrusion-technical-timeline"
     ]
   ],
@@ -171,16 +231,6 @@
   ],
   [
     [
-      "2026-07-29, 12:11:18",
-      "https://news.ycombinator.com/item?id=49096427"
-    ],
-    [
-      "Disrupting supply chain attacks on NPM and GitHub Actions",
-      "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/"
-    ]
-  ],
-  [
-    [
       "2026-07-29, 11:44:33",
       "https://news.ycombinator.com/item?id=49096188"
     ],
@@ -201,52 +251,12 @@
   ],
   [
     [
-      "2026-07-29, 10:35:19",
-      "https://news.ycombinator.com/item?id=49095628"
-    ],
-    [
-      "SpecForge – A Platform for Authoring Formal Specifications",
-      "https://docs.imiron.io/v/0.5.10/en/tour.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-29, 10:19:44",
-      "https://news.ycombinator.com/item?id=49095511"
-    ],
-    [
-      "Amiga Graphics Archive",
-      "https://amiga.lychesis.net/index.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-29, 07:18:24",
-      "https://news.ycombinator.com/item?id=49094346"
-    ],
-    [
-      "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",
-      "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers"
-    ]
-  ],
-  [
-    [
       "2026-07-29, 04:58:46",
       "https://news.ycombinator.com/item?id=49093569"
     ],
     [
       "More Tailscale tricks for your jailbroken Kindle",
       "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes"
-    ]
-  ],
-  [
-    [
-      "2026-07-29, 04:30:36",
-      "https://news.ycombinator.com/item?id=49093434"
-    ],
-    [
-      "User Interfaces of the Demo Scene",
-      "https://www.datagubbe.se/scenegui/"
     ]
   ],
   [
@@ -261,22 +271,12 @@
   ],
   [
     [
-      "2026-07-27, 00:58:45",
-      "https://news.ycombinator.com/item?id=49063983"
+      "2026-07-26, 20:11:21",
+      "https://news.ycombinator.com/item?id=49061947"
     ],
     [
-      "Hunter-gatherers introduced fish to a mountain lake 7000 years ago",
-      "https://www.newscientist.com/article/2580119-hunter-gatherers-introduced-fish-to-a-mountain-lake-7000-years-ago/"
-    ]
-  ],
-  [
-    [
-      "2026-07-26, 17:37:33",
-      "https://news.ycombinator.com/item?id=49060363"
-    ],
-    [
-      "Lisp moving Forth moving Lisp",
-      "https://letoverlambda.com/textmode.cl/guest/chap8.html"
+      "PGSimCity – an explorable 3D model that shows how Postgres works",
+      "https://github.com/NikolayS/pgsimcity"
     ]
   ],
   [
