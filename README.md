@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-29, 17:01:10](https://news.ycombinator.com/item?id=49100056) - [PgDog (YC P25) Is Hiring](https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer)
+* [2026-07-29, 16:36:59](https://news.ycombinator.com/item?id=49099715) - [Keychron announces first open-source firmware for gaming mice](https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice)
+* [2026-07-29, 16:15:57](https://news.ycombinator.com/item?id=49099434) - [Show HN: Kedge – Full-stack cloud with forkable VM snapshots and global SQLite](https://kedge.dev/)
 * [2026-07-29, 15:55:27](https://news.ycombinator.com/item?id=49099143) - [Launch HN: Tokenless (YC S26) – Automatic model switching to save money](https://usetokenless.com/)
 * [2026-07-29, 15:46:28](https://news.ycombinator.com/item?id=49099021) - [Ask HN: My domain registrar (Hover) rug-pulled me for $3000](https://news.ycombinator.com/item?id=49099021)
 * [2026-07-29, 15:45:56](https://news.ycombinator.com/item?id=49099015) - [Superlogical – Mitchell Hashimoto](https://mitchellh.com/writing/superlogical)
@@ -11,12 +14,10 @@
 * [2026-07-29, 14:56:28](https://news.ycombinator.com/item?id=49098388) - [GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?](https://juliahub.com/blog/frontier-models-physical-ai-evaluation)
 * [2026-07-29, 14:55:32](https://news.ycombinator.com/item?id=49098375) - [Google shuts down Nobel Prize winning AlphaFold](https://www.engadget.com/2225849/google-shuts-down-alphafold/)
 * [2026-07-29, 14:47:22](https://news.ycombinator.com/item?id=49098260) - [Show HN: Qwen Scribe – local transcription and dictation for Apple Silicon](https://github.com/VladUZH/qwen-scribe)
-* [2026-07-29, 14:43:47](https://news.ycombinator.com/item?id=49098198) - [A.I. Companies Are Recruiting Electricians and Carpenters by the Thousands](https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html)
 * [2026-07-29, 14:38:35](https://news.ycombinator.com/item?id=49098130) - [Self-hosting Kimi K3: 20% more hardware cost, 20% better task resolution](https://aistack.imec-int.com/blog/gpu-self-hosting)
-* [2026-07-29, 14:00:03](https://news.ycombinator.com/item?id=49097649) - [AI in Linux](https://drewdevault.com/blog/AI-in-Linux/)
+* [2026-07-29, 14:20:34](https://news.ycombinator.com/item?id=49097908) - [CipherX applies painless permanent tattoos with dissolving microneedle patches](https://www.designboom.com/technology/cipherx-painless-permanent-tattoos-dissolving-microneedle-patches/)
 * [2026-07-29, 13:01:57](https://news.ycombinator.com/item?id=49096969) - [Handbook.md shows that long policy documents do not reliably govern agents](https://arxiv.org/abs/2607.25398)
 * [2026-07-29, 12:48:18](https://news.ycombinator.com/item?id=49096811) - [Shipping Godot VR and Porting to PSVR2: A Partial Post Mortem](https://www.claire-blackshaw.com/blog/2026/07/shipping-godot-vr-and-porting-to-psvr2-a-partial-post-mortem/)
-* [2026-07-29, 12:40:13](https://news.ycombinator.com/item?id=49096742) - [A Texture Lookup Approach to Bézier Curve Evaluation on the GPU (JCGT)](https://jcgt.org/published/0015/02/01/)
 * [2026-07-29, 12:33:02](https://news.ycombinator.com/item?id=49096654) - [Darktable](https://www.darktable.org/)
 * [2026-07-29, 12:11:18](https://news.ycombinator.com/item?id=49096427) - [Disrupting supply chain attacks on NPM and GitHub Actions](https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/)
 * [2026-07-29, 11:44:33](https://news.ycombinator.com/item?id=49096188) - [Document-borne AI worms can self-propagate through Copilot for Word](https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/)
@@ -29,7 +30,6 @@
 * [2026-07-27, 06:23:46](https://news.ycombinator.com/item?id=49065785) - [Hamburg's Stadtpark: A Park Built to Be Used](https://alsterrunde.com/hamburgs-stadtpark-a-park-built-to-be-used/)
 * [2026-07-27, 00:58:45](https://news.ycombinator.com/item?id=49063983) - [Hunter-gatherers introduced fish to a mountain lake 7000 years ago](https://www.newscientist.com/article/2580119-hunter-gatherers-introduced-fish-to-a-mountain-lake-7000-years-ago/)
 * [2026-07-26, 17:37:33](https://news.ycombinator.com/item?id=49060363) - [Lisp moving Forth moving Lisp](https://letoverlambda.com/textmode.cl/guest/chap8.html)
-* [2026-07-23, 15:22:34](https://news.ycombinator.com/item?id=49023076) - [Show HN: Write, simulate and synthesize VHDL/Verilog in the browser](https://risingedge.pro)
 
 ## [Archives](archives/index.md)
 

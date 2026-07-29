@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-07-29](index.md)
 
+* [2026-07-29, 17:01:10](https://news.ycombinator.com/item?id=49100056) - [PgDog (YC P25) Is Hiring](https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer)
+* [2026-07-29, 16:36:59](https://news.ycombinator.com/item?id=49099715) - [Keychron announces first open-source firmware for gaming mice](https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice)
+* [2026-07-29, 16:15:57](https://news.ycombinator.com/item?id=49099434) - [Show HN: Kedge – Full-stack cloud with forkable VM snapshots and global SQLite](https://kedge.dev/)
 * [2026-07-29, 15:55:27](https://news.ycombinator.com/item?id=49099143) - [Launch HN: Tokenless (YC S26) – Automatic model switching to save money](https://usetokenless.com/)
 * [2026-07-29, 15:46:28](https://news.ycombinator.com/item?id=49099021) - [Ask HN: My domain registrar (Hover) rug-pulled me for $3000](https://news.ycombinator.com/item?id=49099021)
 * [2026-07-29, 15:45:56](https://news.ycombinator.com/item?id=49099015) - [Superlogical – Mitchell Hashimoto](https://mitchellh.com/writing/superlogical)
@@ -20,6 +23,7 @@
 * [2026-07-29, 14:43:47](https://news.ycombinator.com/item?id=49098198) - [A.I. Companies Are Recruiting Electricians and Carpenters by the Thousands](https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html)
 * [2026-07-29, 14:38:35](https://news.ycombinator.com/item?id=49098130) - [Self-hosting Kimi K3: 20% more hardware cost, 20% better task resolution](https://aistack.imec-int.com/blog/gpu-self-hosting)
 * [2026-07-29, 14:32:23](https://news.ycombinator.com/item?id=49098035) - [Graph Engineering Needs a Compiler](https://fluxtion-playground.dev/blog/2026-07-29-graph-engineering-needs-a-compiler)
+* [2026-07-29, 14:20:34](https://news.ycombinator.com/item?id=49097908) - [CipherX applies painless permanent tattoos with dissolving microneedle patches](https://www.designboom.com/technology/cipherx-painless-permanent-tattoos-dissolving-microneedle-patches/)
 * [2026-07-29, 14:05:40](https://news.ycombinator.com/item?id=49097730) - [Choose DuckDB rather than SQLite](https://tracewayapp.com/blog/sqlite-vs-duckdb)
 * [2026-07-29, 14:05:30](https://news.ycombinator.com/item?id=49097727) - [Show HN: A verification browser for AI agents – 13ms windows, one-call checks](https://github.com/hongnoul/hwatu)
 * [2026-07-29, 14:00:03](https://news.ycombinator.com/item?id=49097649) - [AI in Linux](https://drewdevault.com/blog/AI-in-Linux/)
