@@ -1,6 +1,66 @@
 [
   [
     [
+      "2026-07-29, 00:32:08",
+      "https://news.ycombinator.com/item?id=49091895"
+    ],
+    [
+      "Lightweight Spring Boot Monitoring Without Prometheus and Grafana",
+      "https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-29, 00:12:14",
+      "https://news.ycombinator.com/item?id=49091738"
+    ],
+    [
+      "The Difference Between a Button and a Link",
+      "https://unplannedobsolescence.com/blog/buttons-vs-links/"
+    ]
+  ],
+  [
+    [
+      "2026-07-29, 00:11:23",
+      "https://news.ycombinator.com/item?id=49091730"
+    ],
+    [
+      "Hubbele: Open-source notetaking app for you and your agents",
+      "https://www.hubble.md/"
+    ]
+  ],
+  [
+    [
+      "2026-07-29, 00:07:43",
+      "https://news.ycombinator.com/item?id=49091703"
+    ],
+    [
+      "Show HN: Manim (3Blue1Brown's animation engine) in the browser via WebGPU",
+      "https://studio.academa.ai/"
+    ]
+  ],
+  [
+    [
+      "2026-07-28, 23:27:09",
+      "https://news.ycombinator.com/item?id=49091379"
+    ],
+    [
+      "ReFrame – The EPaper Camera",
+      "https://reframe.camera/"
+    ]
+  ],
+  [
+    [
+      "2026-07-28, 23:00:02",
+      "https://news.ycombinator.com/item?id=49091153"
+    ],
+    [
+      "Schools are adding pepper-spraying drones to help combat active shooters",
+      "https://www.washingtonpost.com/nation/2026/07/28/schools-are-adding-pepper-spraying-drones-help-combat-active-shooters/"
+    ]
+  ],
+  [
+    [
       "2026-07-28, 22:31:14",
       "https://news.ycombinator.com/item?id=49090867"
     ],
@@ -31,16 +91,6 @@
   ],
   [
     [
-      "2026-07-28, 21:22:48",
-      "https://news.ycombinator.com/item?id=49090083"
-    ],
-    [
-      "Anthropic publishes a practical key-recovery attack on HAWK-256",
-      "https://github.com/anthropics/cryptography-research-demo"
-    ]
-  ],
-  [
-    [
       "2026-07-28, 20:58:39",
       "https://news.ycombinator.com/item?id=49089814"
     ],
@@ -57,16 +107,6 @@
     [
       "Codex Security",
       "https://github.com/openai/codex-security"
-    ]
-  ],
-  [
-    [
-      "2026-07-28, 20:37:29",
-      "https://news.ycombinator.com/item?id=49089600"
-    ],
-    [
-      "Toolcraft",
-      "https://toolcraft.sh"
     ]
   ],
   [
@@ -141,16 +181,6 @@
   ],
   [
     [
-      "2026-07-28, 15:54:55",
-      "https://news.ycombinator.com/item?id=49085798"
-    ],
-    [
-      "Show HN: XY – A Fast, composable, GPU-accelerated interactive plotting library",
-      "https://github.com/reflex-dev/xy"
-    ]
-  ],
-  [
-    [
       "2026-07-28, 15:50:38",
       "https://news.ycombinator.com/item?id=49085731"
     ],
@@ -177,26 +207,6 @@
     [
       "Zig's Incremental Compilation Internals",
       "https://mlugg.co.uk/posts/incremental-compilation-internals/"
-    ]
-  ],
-  [
-    [
-      "2026-07-28, 15:20:35",
-      "https://news.ycombinator.com/item?id=49085280"
-    ],
-    [
-      "Harmony Explained: Progress Towards a Scientific Theory of Music (2012)",
-      "https://arxiv.org/abs/1202.4212"
-    ]
-  ],
-  [
-    [
-      "2026-07-28, 15:01:15",
-      "https://news.ycombinator.com/item?id=49084989"
-    ],
-    [
-      "Anthropeum – Where in the world, and when, does this human artifact belong?",
-      "https://anthropeum.com/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Teach yourself programming in ten years (1998)",
       "https://www.norvig.com/21-days.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-25, 12:21:14",
-      "https://news.ycombinator.com/item?id=49046983"
-    ],
-    [
-      "An introduction to formal proof verification and the Curry-Howard Correspondence",
-      "https://max-amb.github.io/blog/your_type_checker_may_be_wrong/"
     ]
   ],
   [
