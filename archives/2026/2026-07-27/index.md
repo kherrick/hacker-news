@@ -34,6 +34,7 @@
 * [2026-07-27, 18:26:59](https://news.ycombinator.com/item?id=49073691) - [Exercise works for depression. So why isn't it treated like real medicine?](https://bigthink.com/mind-behavior/exercise-works-for-depression-so-why-isnt-it-treated-like-real-medicine/)
 * [2026-07-27, 18:25:21](https://news.ycombinator.com/item?id=49073665) - [Bytecode-to-Source Mapping](https://tidefield.dev/bytecode-to-source-mapping/)
 * [2026-07-27, 18:15:35](https://news.ycombinator.com/item?id=49073513) - [Judge Rejects Google's Attempt to DMCA Its Way Out of Being Scraped](https://www.techdirt.com/2026/07/27/judge-rejects-googles-attempt-to-dmca-its-way-out-of-being-scraped/)
+* [2026-07-27, 18:04:30](https://news.ycombinator.com/item?id=49073357) - [Beyond Greece and Rome](https://aeon.co/essays/uncovering-a-global-ancient-history-beyond-greece-and-rome)
 * [2026-07-27, 17:56:20](https://news.ycombinator.com/item?id=49073267) - [Jensen Huang's first-ever post on X is in defense of open access to AI models](https://www.pcgamer.com/software/ai/jensen-huangs-first-ever-post-on-x-is-in-defense-of-open-access-to-ai-models-alongside-google-openai-and-meta/)
 * [2026-07-27, 17:37:02](https://news.ycombinator.com/item?id=49073007) - [Canceling \"Hey\"](https://chadnauseam.com/random/cancelling-my-hey)
 * [2026-07-27, 17:02:41](https://news.ycombinator.com/item?id=49072523) - [UpCodes (YC S17) is hiring remote AE's to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
