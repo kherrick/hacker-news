@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-29, 07:18:24](https://news.ycombinator.com/item?id=49094346) - [SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers](https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers)
 * [2026-07-29, 04:58:46](https://news.ycombinator.com/item?id=49093569) - [More Tailscale tricks for your jailbroken Kindle](https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes)
 * [2026-07-29, 04:30:47](https://news.ycombinator.com/item?id=49093435) - [Cracking Windows Open: Porting RADV to Win32](https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html)
 * [2026-07-29, 04:30:36](https://news.ycombinator.com/item?id=49093434) - [User Interfaces of the Demo Scene](https://www.datagubbe.se/scenegui/)
@@ -7,13 +8,11 @@
 * [2026-07-29, 02:25:29](https://news.ycombinator.com/item?id=49092754) - [Hooray for the Sockets Interface](https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/)
 * [2026-07-29, 01:49:19](https://news.ycombinator.com/item?id=49092499) - [LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences](https://learnvector.ai/)
 * [2026-07-29, 00:59:37](https://news.ycombinator.com/item?id=49092112) - [Multiple Mouse Cursors in Wayland](https://blinry.org/multi-seat-wayland/)
-* [2026-07-29, 00:32:08](https://news.ycombinator.com/item?id=49091895) - [Lightweight Spring Boot Monitoring Without Prometheus and Grafana](https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html)
 * [2026-07-29, 00:11:23](https://news.ycombinator.com/item?id=49091730) - [Hubble: Open-source notetaking app for you and your agents](https://www.hubble.md/)
 * [2026-07-28, 23:27:09](https://news.ycombinator.com/item?id=49091379) - [ReFrame – The EPaper Camera](https://reframe.camera/)
 * [2026-07-28, 22:09:06](https://news.ycombinator.com/item?id=49090607) - [Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript](https://github.com/twalichiewicz/HNewhere)
 * [2026-07-28, 20:58:39](https://news.ycombinator.com/item?id=49089814) - [Half-Life ported to Mac OS 9](https://mac-classic.com/news/half-life-ported-to-mac-os-9/)
 * [2026-07-28, 20:52:55](https://news.ycombinator.com/item?id=49089755) - [Codex Security](https://github.com/openai/codex-security)
-* [2026-07-28, 20:09:09](https://news.ycombinator.com/item?id=49089240) - [Pacing the frontier](https://www.pacingthefrontier.com/)
 * [2026-07-28, 17:37:12](https://news.ycombinator.com/item?id=49087306) - [The iPhone Upgrade Program is being replaced by Apple Upgrade](https://www.apple.com/shop/iphone/iphone-upgrade-program)
 * [2026-07-28, 17:22:16](https://news.ycombinator.com/item?id=49087091) - [Discovering Cryptographic Weaknesses with Claude](https://www.anthropic.com/research/discovering-cryptographic-weaknesses)
 * [2026-07-28, 17:11:54](https://news.ycombinator.com/item?id=49086971) - [Steel Bank Common Lisp version 2.6.7](https://sbcl.org/all-news.html?2.6.7)
@@ -30,6 +29,7 @@
 * [2026-07-26, 08:06:45](https://news.ycombinator.com/item?id=49055816) - [Teach yourself programming in ten years (1998)](https://www.norvig.com/21-days.html)
 * [2026-07-24, 14:26:09](https://news.ycombinator.com/item?id=49036182) - [Mag Computer: A Mag History of RAM (1960–2025)](https://magworld.pw/episodes/computer/)
 * [2026-07-23, 14:00:48](https://news.ycombinator.com/item?id=49021756) - [Log is non-monotonic in PHP and Lua](https://purplesyringa.moe/blog/log-is-non-monotonic-in-php-and-lua/)
+* [2026-07-23, 13:41:08](https://news.ycombinator.com/item?id=49021447) - [Fixing a bug with byte order marks](https://alexwlchan.net/2026/byte-order-marks/)
 
 ## [Archives](archives/index.md)
 

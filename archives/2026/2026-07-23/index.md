@@ -69,6 +69,7 @@
 * [2026-07-23, 13:51:36](https://news.ycombinator.com/item?id=49021597) - [DARPA, U.S. Air Force fly AI-controlled F-16](https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16)
 * [2026-07-23, 13:49:28](https://news.ycombinator.com/item?id=49021571) - [Private healthcare makes industries less innovative. It's time for change](https://werd.io/private-healthcare-makes-industries-less-innovative-its-time-for-change/)
 * [2026-07-23, 13:49:17](https://news.ycombinator.com/item?id=49021569) - [What happens when the information runs out](https://blog.jimgrey.net/2026/06/30/what-happens-when-the-information-runs-out/)
+* [2026-07-23, 13:41:08](https://news.ycombinator.com/item?id=49021447) - [Fixing a bug with byte order marks](https://alexwlchan.net/2026/byte-order-marks/)
 * [2026-07-23, 13:36:15](https://news.ycombinator.com/item?id=49021361) - [Silent Replacement of Trusted macOS App Executables](https://mysk.blog/2026/07/23/macos-overwrite-app-executables/)
 * [2026-07-23, 13:29:24](https://news.ycombinator.com/item?id=49021270) - [Show HN: Physically accurate black hole you can put in your room](https://blackhole.plav.in)
 * [2026-07-23, 13:11:30](https://news.ycombinator.com/item?id=49021024) - [Securing Services with Rootless Containers](https://blog.coderspirit.xyz/blog/2026/07/06/securing-services-with-rootless-containers/)
