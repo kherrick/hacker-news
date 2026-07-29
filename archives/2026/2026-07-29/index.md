@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-29](index.md)
 
+* [2026-07-29, 21:01:01](https://news.ycombinator.com/item?id=49103026) - [SalesPatriot (YC W25) Is Hiring FDEs](https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer)
 * [2026-07-29, 20:39:40](https://news.ycombinator.com/item?id=49102774) - [The coolest use for the Vision Pro](https://christianselig.com/2026/07/vision-pro-house/)
 * [2026-07-29, 20:21:48](https://news.ycombinator.com/item?id=49102525) - [Theo Conjecture solves 35-year-old math problem, finds a term no one predicted](https://firstprinciples.com/blog-article/ai-system-theo-conjecture-solves-35-year-old-math-conjecture)
 * [2026-07-29, 20:14:36](https://news.ycombinator.com/item?id=49102425) - [A Trampoline](https://dogdogfish.com/blog/2026/07/29/a-trampoline/)
@@ -15,6 +16,7 @@
 * [2026-07-29, 18:50:10](https://news.ycombinator.com/item?id=49101460) - [Austerity Breeds Financial Protectionism](https://theloop.ecpr.eu/who-the-welfare-state-protects-shapes-a-countrys-financial-openness/)
 * [2026-07-29, 18:43:18](https://news.ycombinator.com/item?id=49101371) - [The motion-sickness cure hidden in iPhone settings](https://www.bbc.com/future/article/20260728-dancing-dots-the-motion-sickness-cure-hidden-in-your-iphone-settings)
 * [2026-07-29, 18:42:10](https://news.ycombinator.com/item?id=49101351) - [How to Not Die by a Thousand Cuts. Or, How to Think About Software Quality](https://www.evalapply.org/posts/how-to-not-die-by-a-thousand-cuts/index.html)
+* [2026-07-29, 18:40:52](https://news.ycombinator.com/item?id=49101334) - [A field day for Gleam's language server – Gleam v1.18.0 release](https://gleam.run/news/a-field-day-for-gleams-language-server/)
 * [2026-07-29, 18:28:51](https://news.ycombinator.com/item?id=49101198) - [Turning a Dumb AC Unit Smart (Without Losing My Security Deposit)](https://prilik.com/blog/post/automating-ac-nyc/)
 * [2026-07-29, 18:28:49](https://news.ycombinator.com/item?id=49101197) - [Why has the display control panel pointer truncation bug gone unfixed for long?](https://devblogs.microsoft.com/oldnewthing/20260717-00/?p=112541)
 * [2026-07-29, 17:01:10](https://news.ycombinator.com/item?id=49100056) - [PgDog (YC P25) Is Hiring](https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-29, 21:01:01](https://news.ycombinator.com/item?id=49103026) - [SalesPatriot (YC W25) Is Hiring FDEs](https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer)
 * [2026-07-29, 20:39:40](https://news.ycombinator.com/item?id=49102774) - [The coolest use for the Vision Pro](https://christianselig.com/2026/07/vision-pro-house/)
 * [2026-07-29, 20:21:48](https://news.ycombinator.com/item?id=49102525) - [Theo Conjecture solves 35-year-old math problem, finds a term no one predicted](https://firstprinciples.com/blog-article/ai-system-theo-conjecture-solves-35-year-old-math-conjecture)
 * [2026-07-29, 20:14:36](https://news.ycombinator.com/item?id=49102425) - [A Trampoline](https://dogdogfish.com/blog/2026/07/29/a-trampoline/)
@@ -7,10 +8,9 @@
 * [2026-07-29, 19:25:33](https://news.ycombinator.com/item?id=49101852) - [Kimi K3-256k](https://www.kimi.com/code/docs/en/kimi-code/models)
 * [2026-07-29, 19:07:13](https://news.ycombinator.com/item?id=49101655) - [How much can you delegate to agents?](https://newsletter.posthog.com/p/agent-autonomy)
 * [2026-07-29, 18:57:10](https://news.ycombinator.com/item?id=49101529) - [Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals](https://www.emergingtrajectories.com/lh/commodification-and-circularity/)
-* [2026-07-29, 18:50:10](https://news.ycombinator.com/item?id=49101460) - [Who the welfare state protects shapes a country’s financial openness](https://theloop.ecpr.eu/who-the-welfare-state-protects-shapes-a-countrys-financial-openness/)
 * [2026-07-29, 18:42:10](https://news.ycombinator.com/item?id=49101351) - [How to Not Die by a Thousand Cuts. Or, How to Think About Software Quality](https://www.evalapply.org/posts/how-to-not-die-by-a-thousand-cuts/index.html)
+* [2026-07-29, 18:40:52](https://news.ycombinator.com/item?id=49101334) - [A field day for Gleam's language server – Gleam v1.18.0 release](https://gleam.run/news/a-field-day-for-gleams-language-server/)
 * [2026-07-29, 18:28:51](https://news.ycombinator.com/item?id=49101198) - [Turning a Dumb AC Unit Smart (Without Losing My Security Deposit)](https://prilik.com/blog/post/automating-ac-nyc/)
-* [2026-07-29, 17:01:10](https://news.ycombinator.com/item?id=49100056) - [PgDog (YC P25) Is Hiring](https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer)
 * [2026-07-29, 16:59:52](https://news.ycombinator.com/item?id=49100043) - [Show HN: CheapFoodMap – A map of good meals under $10](https://cheapfoodmap.com/)
 * [2026-07-29, 16:42:20](https://news.ycombinator.com/item?id=49099804) - [Some thoughts about Anthropic's new cryptanalysis results](https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/)
 * [2026-07-29, 16:36:59](https://news.ycombinator.com/item?id=49099715) - [Keychron announces first open-source firmware for gaming mice](https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice)
