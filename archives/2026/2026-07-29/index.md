@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2026-07-29](index.md)
 
 * [2026-07-29, 17:01:10](https://news.ycombinator.com/item?id=49100056) - [PgDog (YC P25) Is Hiring](https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer)
+* [2026-07-29, 16:59:04](https://news.ycombinator.com/item?id=49100035) - [Infrastructure Patterns for Agentic Applications](https://render.com/blog/infrastructure-patterns-for-agentic-applications)
+* [2026-07-29, 16:42:20](https://news.ycombinator.com/item?id=49099804) - [Some thoughts about Anthropic's new cryptanalysis results](https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/)
 * [2026-07-29, 16:36:59](https://news.ycombinator.com/item?id=49099715) - [Keychron announces first open-source firmware for gaming mice](https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice)
 * [2026-07-29, 16:15:57](https://news.ycombinator.com/item?id=49099434) - [Show HN: Kedge – Full-stack cloud with forkable VM snapshots and global SQLite](https://kedge.dev/)
 * [2026-07-29, 15:55:27](https://news.ycombinator.com/item?id=49099143) - [Launch HN: Tokenless (YC S26) – Automatic model switching to save money](https://usetokenless.com/)
