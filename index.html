@@ -129,6 +129,122 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="49100056">
+          <h3>
+            <a
+              class="item"
+              href="https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer"
+              >PgDog (YC P25) Is Hiring</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-29 @ 17:01:10</span
+              ><span class="points-container"
+                >Points: <span class="points">1</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49099715">
+          <h3>
+            <a
+              class="item"
+              href="https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice"
+              >Keychron announces first open-source firmware for gaming mice</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-29 @ 16:36:59</span
+              ><span class="points-container"
+                >Points: <span class="points">27</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49099715"
+                  >Comments</a
+                ><span class="descendants">: 13</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49099434">
+          <h3>
+            <a class="item" href="https://kedge.dev/"
+              >Show HN: Kedge – Full-stack cloud with forkable VM snapshots and
+              global SQLite</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-29 @ 16:15:57</span
+              ><span class="points-container"
+                >Points: <span class="points">18</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49099434"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                I helped build Fly.io for 4 years and shared enthusiasm for the
+                founders' vision of a 'global Heroku'. While there, I wrote "The
+                Serverless Server" (<a
+                  href="https://fly.io/blog/the-serverless-server/"
+                  >https://fly.io/blog/the-serverless-server/</a
+                >) as a study of Lambda and a sketch of a modern serverless
+                product built around lightweight VMs. That essay was the initial
+                inspiration for Kedge.
+              </p>
+              <p>
+                Kedge has a fast VM orchestrator that can create code sandboxes
+                or scale service instances in 3ms, using a combination of
+                forkable VM snapshots and a tree of warm pools (Linux kernel
+                -&gt; base runtime -&gt; app). VMs are memory-dense thanks to
+                shared copy-on-write memory pages. You can run lightweight
+                CGI-style functions, public OCI images, or source code for
+                BuildKit to compile and deploy.
+              </p>
+              <p>
+                Kedge's global control plane sits on an eventually-consistent
+                SQLite database. Taking inspiration from Corrosion and
+                Litestream, I built a local-first, multi-writer CRDT-based
+                replication system backed by object storage, and just recently
+                made it open source (<a href="https://github.com/wjordan/syzy"
+                  >https://github.com/wjordan/syzy</a
+                >).
+              </p>
+              <p>
+                You can also use a SQLite client to query `/shared.db` from any
+                instance for a build-in replicated database in your app. This
+                lets Kedge autoscale services close to your users while each
+                instance queries its local replica for eventually-consistent
+                data, with no need to micro-manage instance or volume placement.
+                (There's also a /shared/ filesystem adapter for convenience.)
+              </p>
+              <p>
+                Kedge can even use this same database for stateful,
+                server-rendered HTML apps. Data attributes bind forms, buttons,
+                and values to records in the app database, Kedge compiles the
+                schema and operations at deploy-time, and then queries the local
+                data to serve requests. As a demo, I made a Hacker News clone
+                with story submission, votes, comments and auth in about 60
+                lines of Markdown, plus CSS (<a
+                  href="https://kedge.dev/docs/html-apps#kedger-news"
+                  >https://kedge.dev/docs/html-apps#kedger-news</a
+                >).
+              </p>
+              <p>
+                I've just started collecting public feedback, so please let me
+                know what you think! I'm particularly interested in feedback on
+                the stateful HTML app model, which is the newest (and most
+                ambitious) piece. The preview is currently running in 11 regions
+                for you to kick the tires. There's no billing yet, so the
+                pricing page is an estimate. Thanks for taking a look!
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="49099143">
           <h3>
             <a class="item" href="https://usetokenless.com/"
@@ -140,11 +256,11 @@
             <h4>
               <span>2026-07-29 @ 15:55:27</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">28</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49099143"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
             <div class="text">
@@ -225,11 +341,11 @@
             <h4>
               <span>2026-07-29 @ 15:46:28</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">55</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49099021"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 41</span></span
               >
             </h4>
             <div class="text">
@@ -269,11 +385,11 @@
             <h4>
               <span>2026-07-29 @ 15:45:56</span
               ><span class="points-container"
-                >Points: <span class="points">92</span></span
+                >Points: <span class="points">144</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49099015"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -288,13 +404,18 @@
             <h4>
               <span>2026-07-29 @ 15:41:33</span
               ><span class="points-container"
-                >Points: <span class="points">78</span></span
+                >Points: <span class="points">128</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49098965"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 100</span></span
               >
             </h4>
+            <div class="text">
+              <a href="https://mitchellh.com/writing/superlogical"
+                >https://mitchellh.com/writing/superlogical</a
+              >
+            </div>
           </section>
         </section>
         <section id="49098953">
@@ -309,11 +430,11 @@
             <h4>
               <span>2026-07-29 @ 15:41:01</span
               ><span class="points-container"
-                >Points: <span class="points">8</span></span
+                >Points: <span class="points">11</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49098953"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -331,11 +452,11 @@
             <h4>
               <span>2026-07-29 @ 15:13:25</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">28</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49098599"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -351,11 +472,11 @@
             <h4>
               <span>2026-07-29 @ 15:05:43</span
               ><span class="points-container"
-                >Points: <span class="points">224</span></span
+                >Points: <span class="points">282</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49098510"
                   >Comments</a
-                ><span class="descendants">: 54</span></span
+                ><span class="descendants">: 76</span></span
               >
             </h4>
             <div class="text">
@@ -418,11 +539,11 @@
             <h4>
               <span>2026-07-29 @ 15:01:52</span
               ><span class="points-container"
-                >Points: <span class="points">56</span></span
+                >Points: <span class="points">73</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49098466"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
@@ -440,11 +561,11 @@
             <h4>
               <span>2026-07-29 @ 14:56:28</span
               ><span class="points-container"
-                >Points: <span class="points">30</span></span
+                >Points: <span class="points">38</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49098388"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -461,11 +582,11 @@
             <h4>
               <span>2026-07-29 @ 14:55:32</span
               ><span class="points-container"
-                >Points: <span class="points">54</span></span
+                >Points: <span class="points">65</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49098375"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -481,33 +602,11 @@
             <h4>
               <span>2026-07-29 @ 14:47:22</span
               ><span class="points-container"
-                >Points: <span class="points">20</span></span
+                >Points: <span class="points">27</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49098260"
                   >Comments</a
                 ><span class="descendants">: 4</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49098198">
-          <h3>
-            <a
-              class="item"
-              href="https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html"
-              >A.I. Companies Are Recruiting Electricians and Carpenters by the
-              Thousands</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-29 @ 14:43:47</span
-              ><span class="points-container"
-                >Points: <span class="points">56</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49098198"
-                  >Comments</a
-                ><span class="descendants">: 58</span></span
               >
             </h4>
           </section>
@@ -525,30 +624,33 @@
             <h4>
               <span>2026-07-29 @ 14:38:35</span
               ><span class="points-container"
-                >Points: <span class="points">28</span></span
+                >Points: <span class="points">42</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49098130"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="49097649">
+        <section id="49097908">
           <h3>
-            <a class="item" href="https://drewdevault.com/blog/AI-in-Linux/"
-              >AI in Linux</a
+            <a
+              class="item"
+              href="https://www.designboom.com/technology/cipherx-painless-permanent-tattoos-dissolving-microneedle-patches/"
+              >CipherX applies painless permanent tattoos with dissolving
+              microneedle patches</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-07-29 @ 14:00:03</span
+              <span>2026-07-29 @ 14:20:34</span
               ><span class="points-container"
-                >Points: <span class="points">36</span></span
+                >Points: <span class="points">14</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49097649"
+                ><a href="https://news.ycombinator.com/item?id=49097908"
                   >Comments</a
-                ><span class="descendants">: 54</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
           </section>
@@ -564,11 +666,11 @@
             <h4>
               <span>2026-07-29 @ 13:01:57</span
               ><span class="points-container"
-                >Points: <span class="points">189</span></span
+                >Points: <span class="points">199</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49096969"
                   >Comments</a
-                ><span class="descendants">: 121</span></span
+                ><span class="descendants">: 130</span></span
               >
             </h4>
           </section>
@@ -585,31 +687,11 @@
             <h4>
               <span>2026-07-29 @ 12:48:18</span
               ><span class="points-container"
-                >Points: <span class="points">66</span></span
+                >Points: <span class="points">73</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49096811"
                   >Comments</a
                 ><span class="descendants">: 0</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49096742">
-          <h3>
-            <a class="item" href="https://jcgt.org/published/0015/02/01/"
-              >A Texture Lookup Approach to Bézier Curve Evaluation on the GPU
-              (JCGT)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-29 @ 12:40:13</span
-              ><span class="points-container"
-                >Points: <span class="points">29</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49096742"
-                  >Comments</a
-                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -622,11 +704,11 @@
             <h4>
               <span>2026-07-29 @ 12:33:02</span
               ><span class="points-container"
-                >Points: <span class="points">150</span></span
+                >Points: <span class="points">163</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49096654"
                   >Comments</a
-                ><span class="descendants">: 80</span></span
+                ><span class="descendants">: 90</span></span
               >
             </h4>
           </section>
@@ -643,11 +725,11 @@
             <h4>
               <span>2026-07-29 @ 12:11:18</span
               ><span class="points-container"
-                >Points: <span class="points">65</span></span
+                >Points: <span class="points">69</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49096427"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
@@ -665,11 +747,11 @@
             <h4>
               <span>2026-07-29 @ 11:44:33</span
               ><span class="points-container"
-                >Points: <span class="points">223</span></span
+                >Points: <span class="points">241</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49096188"
                   >Comments</a
-                ><span class="descendants">: 178</span></span
+                ><span class="descendants">: 184</span></span
               >
             </h4>
           </section>
@@ -680,11 +762,11 @@
             <h4>
               <span>2026-07-29 @ 11:05:08</span
               ><span class="points-container"
-                >Points: <span class="points">496</span></span
+                >Points: <span class="points">515</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49095865"
                   >Comments</a
-                ><span class="descendants">: 161</span></span
+                ><span class="descendants">: 168</span></span
               >
             </h4>
           </section>
@@ -699,7 +781,7 @@
             <h4>
               <span>2026-07-29 @ 10:35:19</span
               ><span class="points-container"
-                >Points: <span class="points">62</span></span
+                >Points: <span class="points">65</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49095628"
                   >Comments</a
@@ -718,11 +800,11 @@
             <h4>
               <span>2026-07-29 @ 10:19:44</span
               ><span class="points-container"
-                >Points: <span class="points">116</span></span
+                >Points: <span class="points">119</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49095511"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 20</span></span
               >
             </h4>
           </section>
@@ -740,11 +822,11 @@
             <h4>
               <span>2026-07-29 @ 07:18:24</span
               ><span class="points-container"
-                >Points: <span class="points">195</span></span
+                >Points: <span class="points">200</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49094346"
                   >Comments</a
-                ><span class="descendants">: 61</span></span
+                ><span class="descendants">: 63</span></span
               >
             </h4>
           </section>
@@ -761,11 +843,11 @@
             <h4>
               <span>2026-07-29 @ 04:58:46</span
               ><span class="points-container"
-                >Points: <span class="points">353</span></span
+                >Points: <span class="points">358</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49093569"
                   >Comments</a
-                ><span class="descendants">: 101</span></span
+                ><span class="descendants">: 103</span></span
               >
             </h4>
           </section>
@@ -780,11 +862,11 @@
             <h4>
               <span>2026-07-29 @ 04:30:36</span
               ><span class="points-container"
-                >Points: <span class="points">347</span></span
+                >Points: <span class="points">355</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49093434"
                   >Comments</a
-                ><span class="descendants">: 57</span></span
+                ><span class="descendants">: 59</span></span
               >
             </h4>
           </section>
@@ -801,11 +883,11 @@
             <h4>
               <span>2026-07-27 @ 06:23:46</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">42</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49065785"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -823,11 +905,11 @@
             <h4>
               <span>2026-07-27 @ 00:58:45</span
               ><span class="points-container"
-                >Points: <span class="points">83</span></span
+                >Points: <span class="points">91</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49063983"
                   >Comments</a
-                ><span class="descendants">: 57</span></span
+                ><span class="descendants">: 64</span></span
               >
             </h4>
           </section>
@@ -844,31 +926,11 @@
             <h4>
               <span>2026-07-26 @ 17:37:33</span
               ><span class="points-container"
-                >Points: <span class="points">95</span></span
+                >Points: <span class="points">98</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49060363"
                   >Comments</a
                 ><span class="descendants">: 23</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49023076">
-          <h3>
-            <a class="item" href="https://risingedge.pro"
-              >Show HN: Write, simulate and synthesize VHDL/Verilog in the
-              browser</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-23 @ 15:22:34</span
-              ><span class="points-container"
-                >Points: <span class="points">15</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49023076"
-                  >Comments</a
-                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
