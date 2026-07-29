@@ -55,6 +55,7 @@
 * [2026-07-27, 13:57:33](https://news.ycombinator.com/item?id=49069791) - [DIY Home Solar System for under $5000](https://www.gavinmai.com/1736354308000-diy-home-solar-backup-system)
 * [2026-07-27, 13:29:12](https://news.ycombinator.com/item?id=49069447) - [We Tested Nonstick Cookware: Coatings Don't Need to Look Worn to Shed Particles](https://www.rtings.com/air-fryer/learn/research/ptfe-cookware-shedding)
 * [2026-07-27, 13:04:11](https://news.ycombinator.com/item?id=49069132) - [Should you wash your solar panels?](https://incoherency.co.uk/blog/stories/should-you-wash-your-solar-panels.html)
+* [2026-07-27, 12:56:36](https://news.ycombinator.com/item?id=49069033) - [Truth is not a direction: a Tarski attack on LLM probes](https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html)
 * [2026-07-27, 12:44:47](https://news.ycombinator.com/item?id=49068870) - [108 PRs in eight days: Accidentally discovering loop engineering](https://brittany-ellich.offprint.app/a/3mrjj34puva23-108-prs-in-eight-days-accidentally-discovering-loop-engineering)
 * [2026-07-27, 12:32:12](https://news.ycombinator.com/item?id=49068738) - [AI companies are shredding rare books](https://xcancel.com/HedgieMarkets/status/2081534588485296565)
 * [2026-07-27, 12:32:12](https://news.ycombinator.com/item?id=49068738) - [AI companies are shredding rare books](https://twitter.com/HedgieMarkets/status/2081534588485296565)

@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-07-29](index.md)
 
+* [2026-07-29, 01:49:19](https://news.ycombinator.com/item?id=49092499) - [LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences](https://learnvector.ai/)
 * [2026-07-29, 01:04:30](https://news.ycombinator.com/item?id=49092151) - [Show HN: Learning Rust by writing a Markdown to HTML compiler](https://andreadimatteo.com/md-to-html-compiler.html)
+* [2026-07-29, 00:59:37](https://news.ycombinator.com/item?id=49092112) - [Multiple Mouse Cursors in Wayland](https://blinry.org/multi-seat-wayland/)
 * [2026-07-29, 00:44:26](https://news.ycombinator.com/item?id=49091994) - [Industry Brief: Private 5G for Manufacturing and Industrial Sites [pdf]](https://framerusercontent.com/assets/HV1dtfKZyXK2aknO6go8Cemejl8.pdf)
 * [2026-07-29, 00:32:08](https://news.ycombinator.com/item?id=49091895) - [Lightweight Spring Boot Monitoring Without Prometheus and Grafana](https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html)
 * [2026-07-29, 00:12:14](https://news.ycombinator.com/item?id=49091738) - [The Difference Between a Button and a Link](https://unplannedobsolescence.com/blog/buttons-vs-links/)
