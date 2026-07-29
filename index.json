@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-07-29, 02:29:12",
-      "https://news.ycombinator.com/item?id=49092781"
+      "2026-07-29, 03:52:29",
+      "https://news.ycombinator.com/item?id=49093232"
     ],
     [
-      "Does every question mark deserve a Betteridge?",
-      "https://dynomight.net/betteridge/"
+      "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
+      "https://transformer-transformer.github.io/"
     ]
   ],
   [
@@ -27,16 +27,6 @@
     [
       "Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects",
       "https://github.com/jagg-ix/zil-lean"
-    ]
-  ],
-  [
-    [
-      "2026-07-29, 01:56:00",
-      "https://news.ycombinator.com/item?id=49092549"
-    ],
-    [
-      "Chip stocks slide in US and Asia as AI jitters rattle investors",
-      "https://www.bbc.com/news/articles/cly8zng43npo"
     ]
   ],
   [
@@ -221,6 +211,16 @@
   ],
   [
     [
+      "2026-07-28, 15:01:12",
+      "https://news.ycombinator.com/item?id=49084987"
+    ],
+    [
+      "Now is the time to give LLMs access to the ACM digital library",
+      "https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/"
+    ]
+  ],
+  [
+    [
       "2026-07-28, 14:48:13",
       "https://news.ycombinator.com/item?id=49084813"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-07-24, 14:43:57",
-      "https://news.ycombinator.com/item?id=49036460"
+      "2026-07-24, 13:01:30",
+      "https://news.ycombinator.com/item?id=49034939"
     ],
     [
-      "The Fabled Flatbreads of Uzbekistan (2015)",
-      "https://www.aramcoworld.com/articles/2015/the-fabled-flatbreads-of-uzbekistan"
+      "OpenShell Kubernetes Operator",
+      "https://github.com/lensapp/openshell-k8s-operator"
     ]
   ]
 ]
