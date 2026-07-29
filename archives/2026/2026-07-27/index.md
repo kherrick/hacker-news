@@ -16,6 +16,7 @@
 * [2026-07-27, 23:04:13](https://news.ycombinator.com/item?id=49076712) - [America has become an entrepreneur's paradise](https://www.economist.com/business/2026/07/27/america-has-become-an-entrepreneurs-paradise)
 * [2026-07-27, 22:46:28](https://news.ycombinator.com/item?id=49076505) - [Kimi K3 Now Available via Telnyx Inference API](https://telnyx.com/release-notes/kimi-k3-telnyx-inference)
 * [2026-07-27, 22:45:46](https://news.ycombinator.com/item?id=49076497) - [A Discord Alternative – Echoed](https://echoed.gg/)
+* [2026-07-27, 22:42:11](https://news.ycombinator.com/item?id=49076450) - [60 Years Ago, a Submerged Submarine Circled the Globe for the First Time (2020)](https://www.popularmechanics.com/military/weapons/a32009109/operation-sandblast-sumbarine-circumnavigation/)
 * [2026-07-27, 22:37:52](https://news.ycombinator.com/item?id=49076391) - [Benchmarking Opus 5 on SlopCodeBench](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md)
 * [2026-07-27, 22:36:55](https://news.ycombinator.com/item?id=49076382) - [Hard Road – A beautiful procedural post-apocalyptic game](https://hardroad.xyz/)
 * [2026-07-27, 22:10:15](https://news.ycombinator.com/item?id=49076116) - [A missing underscore sent innocent man to prison for 18 months](https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/)
