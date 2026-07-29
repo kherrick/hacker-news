@@ -5,7 +5,6 @@
 * [2026-07-29, 04:30:36](https://news.ycombinator.com/item?id=49093434) - [User Interfaces of the Demo Scene](https://www.datagubbe.se/scenegui/)
 * [2026-07-29, 03:52:29](https://news.ycombinator.com/item?id=49093232) - [Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design](https://transformer-transformer.github.io/)
 * [2026-07-29, 02:25:29](https://news.ycombinator.com/item?id=49092754) - [Hooray for the Sockets Interface](https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/)
-* [2026-07-29, 02:22:04](https://news.ycombinator.com/item?id=49092730) - [Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects](https://github.com/jagg-ix/zil-lean)
 * [2026-07-29, 01:49:19](https://news.ycombinator.com/item?id=49092499) - [LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences](https://learnvector.ai/)
 * [2026-07-29, 00:59:37](https://news.ycombinator.com/item?id=49092112) - [Multiple Mouse Cursors in Wayland](https://blinry.org/multi-seat-wayland/)
 * [2026-07-29, 00:32:08](https://news.ycombinator.com/item?id=49091895) - [Lightweight Spring Boot Monitoring Without Prometheus and Grafana](https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html)
@@ -29,6 +28,7 @@
 * [2026-07-27, 18:04:30](https://news.ycombinator.com/item?id=49073357) - [Beyond Greece and Rome](https://aeon.co/essays/uncovering-a-global-ancient-history-beyond-greece-and-rome)
 * [2026-07-27, 12:56:36](https://news.ycombinator.com/item?id=49069033) - [Truth is not a direction: a Tarski attack on LLM probes](https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html)
 * [2026-07-26, 08:06:45](https://news.ycombinator.com/item?id=49055816) - [Teach yourself programming in ten years (1998)](https://www.norvig.com/21-days.html)
+* [2026-07-24, 14:26:09](https://news.ycombinator.com/item?id=49036182) - [Mag Computer: A Mag History of RAM (1960–2025)](https://magworld.pw/episodes/computer/)
 * [2026-07-23, 14:00:48](https://news.ycombinator.com/item?id=49021756) - [Log is non-monotonic in PHP and Lua](https://purplesyringa.moe/blog/log-is-non-monotonic-in-php-and-lua/)
 
 ## [Archives](archives/index.md)
