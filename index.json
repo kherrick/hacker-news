@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-07-29, 17:01:10",
+      "https://news.ycombinator.com/item?id=49100056"
+    ],
+    [
+      "PgDog (YC P25) Is Hiring",
+      "https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer"
+    ]
+  ],
+  [
+    [
+      "2026-07-29, 16:36:59",
+      "https://news.ycombinator.com/item?id=49099715"
+    ],
+    [
+      "Keychron announces first open-source firmware for gaming mice",
+      "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice"
+    ]
+  ],
+  [
+    [
+      "2026-07-29, 16:15:57",
+      "https://news.ycombinator.com/item?id=49099434"
+    ],
+    [
+      "Show HN: Kedge – Full-stack cloud with forkable VM snapshots and global SQLite",
+      "https://kedge.dev/"
+    ]
+  ],
+  [
+    [
       "2026-07-29, 15:55:27",
       "https://news.ycombinator.com/item?id=49099143"
     ],
@@ -111,16 +141,6 @@
   ],
   [
     [
-      "2026-07-29, 14:43:47",
-      "https://news.ycombinator.com/item?id=49098198"
-    ],
-    [
-      "A.I. Companies Are Recruiting Electricians and Carpenters by the Thousands",
-      "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html"
-    ]
-  ],
-  [
-    [
       "2026-07-29, 14:38:35",
       "https://news.ycombinator.com/item?id=49098130"
     ],
@@ -131,12 +151,12 @@
   ],
   [
     [
-      "2026-07-29, 14:00:03",
-      "https://news.ycombinator.com/item?id=49097649"
+      "2026-07-29, 14:20:34",
+      "https://news.ycombinator.com/item?id=49097908"
     ],
     [
-      "AI in Linux",
-      "https://drewdevault.com/blog/AI-in-Linux/"
+      "CipherX applies painless permanent tattoos with dissolving microneedle patches",
+      "https://www.designboom.com/technology/cipherx-painless-permanent-tattoos-dissolving-microneedle-patches/"
     ]
   ],
   [
@@ -157,16 +177,6 @@
     [
       "Shipping Godot VR and Porting to PSVR2: A Partial Post Mortem",
       "https://www.claire-blackshaw.com/blog/2026/07/shipping-godot-vr-and-porting-to-psvr2-a-partial-post-mortem/"
-    ]
-  ],
-  [
-    [
-      "2026-07-29, 12:40:13",
-      "https://news.ycombinator.com/item?id=49096742"
-    ],
-    [
-      "A Texture Lookup Approach to Bézier Curve Evaluation on the GPU (JCGT)",
-      "https://jcgt.org/published/0015/02/01/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Lisp moving Forth moving Lisp",
       "https://letoverlambda.com/textmode.cl/guest/chap8.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-23, 15:22:34",
-      "https://news.ycombinator.com/item?id=49023076"
-    ],
-    [
-      "Show HN: Write, simulate and synthesize VHDL/Verilog in the browser",
-      "https://risingedge.pro"
     ]
   ]
 ]
