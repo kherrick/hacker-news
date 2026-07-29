@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-07-29, 04:58:46",
+      "https://news.ycombinator.com/item?id=49093569"
+    ],
+    [
+      "More Tailscale tricks for your jailbroken Kindle",
+      "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes"
+    ]
+  ],
+  [
+    [
+      "2026-07-29, 04:30:47",
+      "https://news.ycombinator.com/item?id=49093435"
+    ],
+    [
+      "Cracking Windows Open: Porting RADV to Win32",
+      "https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-29, 04:30:36",
+      "https://news.ycombinator.com/item?id=49093434"
+    ],
+    [
+      "User Interfaces of the Demo Scene",
+      "https://www.datagubbe.se/scenegui/"
+    ]
+  ],
+  [
+    [
       "2026-07-29, 03:52:29",
       "https://news.ycombinator.com/item?id=49093232"
     ],
@@ -81,16 +111,6 @@
   ],
   [
     [
-      "2026-07-29, 00:07:43",
-      "https://news.ycombinator.com/item?id=49091703"
-    ],
-    [
-      "Show HN: Manim (3Blue1Brown's animation engine) in the browser via WebGPU",
-      "https://studio.academa.ai/"
-    ]
-  ],
-  [
-    [
       "2026-07-28, 23:27:09",
       "https://news.ycombinator.com/item?id=49091379"
     ],
@@ -127,16 +147,6 @@
     [
       "Codex Security",
       "https://github.com/openai/codex-security"
-    ]
-  ],
-  [
-    [
-      "2026-07-28, 20:09:09",
-      "https://news.ycombinator.com/item?id=49089240"
-    ],
-    [
-      "Pacing the frontier",
-      "https://www.pacingthefrontier.com/"
     ]
   ],
   [
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2026-07-28, 10:52:30",
-      "https://news.ycombinator.com/item?id=49082022"
-    ],
-    [
-      "Kimi Linear: An Expressive, Efficient Attention Architecture (2025)",
-      "https://arxiv.org/abs/2510.26692"
-    ]
-  ],
-  [
-    [
       "2026-07-27, 23:33:04",
       "https://news.ycombinator.com/item?id=49077040"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-07-24, 13:01:30",
-      "https://news.ycombinator.com/item?id=49034939"
+      "2026-07-23, 14:00:48",
+      "https://news.ycombinator.com/item?id=49021756"
     ],
     [
-      "OpenShell Kubernetes Operator",
-      "https://github.com/lensapp/openshell-k8s-operator"
+      "Log is non-monotonic in PHP and Lua",
+      "https://purplesyringa.moe/blog/log-is-non-monotonic-in-php-and-lua/"
     ]
   ]
 ]
