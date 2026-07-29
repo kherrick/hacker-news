@@ -45,6 +45,7 @@
 * [2026-07-25, 15:54:59](https://news.ycombinator.com/item?id=49048681) - [The Dark Night of Mathematics](https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics)
 * [2026-07-25, 15:51:26](https://news.ycombinator.com/item?id=49048645) - [Brazilian farmers tokenized dairy cows to get loans, bypassing bank limits](https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits)
 * [2026-07-25, 15:46:11](https://news.ycombinator.com/item?id=49048584) - [The whole premise of checking for human writing is daft](https://mohammedshehu.com/checking-for-human-writing-is-daft/)
+* [2026-07-25, 15:44:34](https://news.ycombinator.com/item?id=49048570) - [Staging patches with Git add -p](https://www.simonholywell.com/post/git-add-p/)
 * [2026-07-25, 15:10:51](https://news.ycombinator.com/item?id=49048212) - [Engineering management after the cost of code collapsed](https://karimjedda.com/engineering-management-after-cost-of-code-collapse/)
 * [2026-07-25, 14:49:49](https://news.ycombinator.com/item?id=49048034) - [Open-weight AI is having its Kubernetes moment. Let's not ruin it](https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/)
 * [2026-07-25, 14:41:06](https://news.ycombinator.com/item?id=49047969) - [The AI jobs apocalypse probably isn't coming anytime soon](https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor)
