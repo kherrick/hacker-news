@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-07-29, 19:50:42",
+      "https://news.ycombinator.com/item?id=49102150"
+    ],
+    [
+      "Claude Is Down",
+      "https://status.claude.com/incidents/q2kg8n613kr3"
+    ]
+  ],
+  [
+    [
+      "2026-07-29, 19:25:33",
+      "https://news.ycombinator.com/item?id=49101852"
+    ],
+    [
+      "Kimi K3-256k",
+      "https://www.kimi.com/code/docs/en/kimi-code/models"
+    ]
+  ],
+  [
+    [
+      "2026-07-29, 19:25:17",
+      "https://news.ycombinator.com/item?id=49101849"
+    ],
+    [
+      "Balcony Solar: $1.74/watt direct plug-in solar",
+      "https://www.brightsaver.org/balcony-solar-kits"
+    ]
+  ],
+  [
+    [
       "2026-07-29, 19:07:13",
       "https://news.ycombinator.com/item?id=49101655"
     ],
@@ -25,7 +55,7 @@
       "https://news.ycombinator.com/item?id=49101460"
     ],
     [
-      "Austerity Breeds Financial Protectionism",
+      "Who the welfare state protects shapes a country’s financial openness",
       "https://theloop.ecpr.eu/who-the-welfare-state-protects-shapes-a-countrys-financial-openness/"
     ]
   ],
@@ -57,16 +87,6 @@
     [
       "Turning a Dumb AC Unit Smart (Without Losing My Security Deposit)",
       "https://prilik.com/blog/post/automating-ac-nyc/"
-    ]
-  ],
-  [
-    [
-      "2026-07-29, 18:28:49",
-      "https://news.ycombinator.com/item?id=49101197"
-    ],
-    [
-      "Why has the display control panel pointer truncation bug gone unfixed for long?",
-      "https://devblogs.microsoft.com/oldnewthing/20260717-00/?p=112541"
     ]
   ],
   [
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2026-07-29, 16:15:57",
-      "https://news.ycombinator.com/item?id=49099434"
-    ],
-    [
-      "Show HN: Kedge – Full-stack cloud with forkable VM snapshots and global SQLite",
-      "https://kedge.dev/"
-    ]
-  ],
-  [
-    [
       "2026-07-29, 15:55:27",
       "https://news.ycombinator.com/item?id=49099143"
     ],
@@ -147,16 +157,6 @@
     [
       "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
       "https://github.com/drumih/turbo-fieldfare"
-    ]
-  ],
-  [
-    [
-      "2026-07-29, 15:01:52",
-      "https://news.ycombinator.com/item?id=49098466"
-    ],
-    [
-      "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
-      "https://huggingface.co/blog/agent-intrusion-technical-timeline"
     ]
   ],
   [
@@ -261,22 +261,22 @@
   ],
   [
     [
+      "2026-07-28, 20:28:33",
+      "https://news.ycombinator.com/item?id=49089500"
+    ],
+    [
+      "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the Incident",
+      "https://huggingface.co/blog/agent-intrusion-technical-timeline"
+    ]
+  ],
+  [
+    [
       "2026-07-27, 06:23:46",
       "https://news.ycombinator.com/item?id=49065785"
     ],
     [
       "Hamburg's Stadtpark: A Park Built to Be Used",
       "https://alsterrunde.com/hamburgs-stadtpark-a-park-built-to-be-used/"
-    ]
-  ],
-  [
-    [
-      "2026-07-26, 20:11:21",
-      "https://news.ycombinator.com/item?id=49061947"
-    ],
-    [
-      "PGSimCity – an explorable 3D model that shows how Postgres works",
-      "https://github.com/NikolayS/pgsimcity"
     ]
   ],
   [
