@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-07-29, 12:40:13",
+      "https://news.ycombinator.com/item?id=49096742"
+    ],
+    [
+      "A Texture Lookup Approach to Bézier Curve Evaluation on the GPU (JCGT)",
+      "https://jcgt.org/published/0015/02/01/"
+    ]
+  ],
+  [
+    [
+      "2026-07-29, 12:19:30",
+      "https://news.ycombinator.com/item?id=49096493"
+    ],
+    [
+      "Pulse Path – a browser puzzle where placement is the only decision",
+      "https://pulsepathgame.netlify.app/"
+    ]
+  ],
+  [
+    [
+      "2026-07-29, 12:11:18",
+      "https://news.ycombinator.com/item?id=49096427"
+    ],
+    [
+      "Disrupting supply chain attacks on NPM and GitHub Actions",
+      "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/"
+    ]
+  ],
+  [
+    [
+      "2026-07-29, 12:06:54",
+      "https://news.ycombinator.com/item?id=49096389"
+    ],
+    [
+      "Deleting Codeberg",
+      "https://thanosapollo.org/posts/deleting-codeberg/"
+    ]
+  ],
+  [
+    [
+      "2026-07-29, 11:54:37",
+      "https://news.ycombinator.com/item?id=49096290"
+    ],
+    [
+      "French musician Kavinsky found dead",
+      "https://www.euronews.com/culture/2026/07/29/dj-kavinsky-known-for-his-track-nightcall-found-dead-at-his-paris-home"
+    ]
+  ],
+  [
+    [
       "2026-07-29, 11:44:33",
       "https://news.ycombinator.com/item?id=49096188"
     ],
@@ -11,32 +61,12 @@
   ],
   [
     [
-      "2026-07-29, 11:28:22",
-      "https://news.ycombinator.com/item?id=49096043"
-    ],
-    [
-      "They Stole Your Attention",
-      "https://moai.studio/blog/posts/they-stole-your-attention.html"
-    ]
-  ],
-  [
-    [
       "2026-07-29, 11:05:08",
       "https://news.ycombinator.com/item?id=49095865"
     ],
     [
       "KOReader",
       "https://koreader.rocks/"
-    ]
-  ],
-  [
-    [
-      "2026-07-29, 10:47:57",
-      "https://news.ycombinator.com/item?id=49095714"
-    ],
-    [
-      "National Security Determination Threat Posed by Foreign-Produced Robotic Devices [pdf]",
-      "https://www.fcc.gov/sites/default/files/robots-nsd.pdf"
     ]
   ],
   [
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2026-07-29, 02:25:29",
-      "https://news.ycombinator.com/item?id=49092754"
-    ],
-    [
-      "Hooray for the Sockets Interface",
-      "https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/"
-    ]
-  ],
-  [
-    [
       "2026-07-29, 01:49:19",
       "https://news.ycombinator.com/item?id=49092499"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2026-07-28, 17:37:12",
-      "https://news.ycombinator.com/item?id=49087306"
-    ],
-    [
-      "The iPhone Upgrade Program is being replaced by Apple Upgrade",
-      "https://www.apple.com/shop/iphone/iphone-upgrade-program"
-    ]
-  ],
-  [
-    [
       "2026-07-28, 17:11:54",
       "https://news.ycombinator.com/item?id=49086971"
     ],
@@ -241,32 +251,12 @@
   ],
   [
     [
-      "2026-07-28, 15:46:45",
-      "https://news.ycombinator.com/item?id=49085666"
-    ],
-    [
-      "Zig's Incremental Compilation Internals",
-      "https://mlugg.co.uk/posts/incremental-compilation-internals/"
-    ]
-  ],
-  [
-    [
       "2026-07-28, 14:48:13",
       "https://news.ycombinator.com/item?id=49084813"
     ],
     [
       "Una GPS smart watch – Repairable, USB-C charging, developer-friendly",
       "https://unawatch.com/"
-    ]
-  ],
-  [
-    [
-      "2026-07-27, 22:42:11",
-      "https://news.ycombinator.com/item?id=49076450"
-    ],
-    [
-      "60 Years Ago, a Submerged Submarine Circled the Globe for the First Time (2020)",
-      "https://www.popularmechanics.com/military/weapons/a32009109/operation-sandblast-sumbarine-circumnavigation/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Teach yourself programming in ten years (1998)",
       "https://www.norvig.com/21-days.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-25, 20:42:05",
+      "https://news.ycombinator.com/item?id=49051355"
+    ],
+    [
+      "ALP: Adaptive lossless floating-point compression",
+      "https://github.com/cwida/ALP"
     ]
   ],
   [
