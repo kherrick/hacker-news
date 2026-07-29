@@ -11,12 +11,42 @@
   ],
   [
     [
-      "2026-07-29, 15:29:37",
-      "https://news.ycombinator.com/item?id=49098803"
+      "2026-07-29, 15:46:28",
+      "https://news.ycombinator.com/item?id=49099021"
     ],
     [
-      "Apple should be ashamed of its hostile App Store rating system",
-      "https://lapcatsoftware.com/articles/2026/7/14.html"
+      "Ask HN: My domain registrar (Hover) rug-pulled me for $3000",
+      "https://news.ycombinator.com/item?id=49099021"
+    ]
+  ],
+  [
+    [
+      "2026-07-29, 15:45:56",
+      "https://news.ycombinator.com/item?id=49099015"
+    ],
+    [
+      "Superlogical – Mitchell Hashimoto",
+      "https://mitchellh.com/writing/superlogical"
+    ]
+  ],
+  [
+    [
+      "2026-07-29, 15:41:33",
+      "https://news.ycombinator.com/item?id=49098965"
+    ],
+    [
+      "Mitchellh starts a new company: Superlogical",
+      "https://www.superlogical.com/"
+    ]
+  ],
+  [
+    [
+      "2026-07-29, 15:41:01",
+      "https://news.ycombinator.com/item?id=49098953"
+    ],
+    [
+      "Baseload Is a Myth (2024)",
+      "https://cleanenergyreview.io/p/baseload-is-a-myth"
     ]
   ],
   [
@@ -51,22 +81,22 @@
   ],
   [
     [
-      "2026-07-29, 14:58:17",
-      "https://news.ycombinator.com/item?id=49098417"
-    ],
-    [
-      "PostgreSQL's MVCC is bad. So is everyone else's",
-      "https://boringsql.com/posts/mvcc-bad-bad/"
-    ]
-  ],
-  [
-    [
       "2026-07-29, 14:56:28",
       "https://news.ycombinator.com/item?id=49098388"
     ],
     [
       "GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?",
       "https://juliahub.com/blog/frontier-models-physical-ai-evaluation"
+    ]
+  ],
+  [
+    [
+      "2026-07-29, 14:55:32",
+      "https://news.ycombinator.com/item?id=49098375"
+    ],
+    [
+      "Google shuts down Nobel Prize winning AlphaFold",
+      "https://www.engadget.com/2225849/google-shuts-down-alphafold/"
     ]
   ],
   [
@@ -101,22 +131,12 @@
   ],
   [
     [
-      "2026-07-29, 14:32:23",
-      "https://news.ycombinator.com/item?id=49098035"
+      "2026-07-29, 14:00:03",
+      "https://news.ycombinator.com/item?id=49097649"
     ],
     [
-      "Graph Engineering Needs a Compiler",
-      "https://fluxtion-playground.dev/blog/2026-07-29-graph-engineering-needs-a-compiler"
-    ]
-  ],
-  [
-    [
-      "2026-07-29, 13:55:00",
-      "https://news.ycombinator.com/item?id=49097591"
-    ],
-    [
-      "Valve Sponsors Work Bringing Open-Source RADV Driver to Windows",
-      "https://www.phoronix.com/news/Valve-Sponsors-RADV-Windows"
+      "AI in Linux",
+      "https://drewdevault.com/blog/AI-in-Linux/"
     ]
   ],
   [
@@ -127,16 +147,6 @@
     [
       "Handbook.md shows that long policy documents do not reliably govern agents",
       "https://arxiv.org/abs/2607.25398"
-    ]
-  ],
-  [
-    [
-      "2026-07-29, 12:55:50",
-      "https://news.ycombinator.com/item?id=49096885"
-    ],
-    [
-      "San Francisco: Don't Fall for Industry Defense of Surveillance Pricing",
-      "https://www.eff.org/deeplinks/2026/07/san-francisco-dont-fall-industry-defense-surveillance-pricing"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Disrupting supply chain attacks on NPM and GitHub Actions",
       "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/"
-    ]
-  ],
-  [
-    [
-      "2026-07-29, 11:54:37",
-      "https://news.ycombinator.com/item?id=49096290"
-    ],
-    [
-      "French musician Kavinsky found dead",
-      "https://www.euronews.com/culture/2026/07/29/dj-kavinsky-known-for-his-track-nightcall-found-dead-at-his-paris-home"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2026-07-27, 06:23:46",
+      "https://news.ycombinator.com/item?id=49065785"
+    ],
+    [
+      "Hamburg's Stadtpark: A Park Built to Be Used",
+      "https://alsterrunde.com/hamburgs-stadtpark-a-park-built-to-be-used/"
+    ]
+  ],
+  [
+    [
       "2026-07-27, 00:58:45",
       "https://news.ycombinator.com/item?id=49063983"
     ],
@@ -287,16 +297,6 @@
     [
       "Show HN: Write, simulate and synthesize VHDL/Verilog in the browser",
       "https://risingedge.pro"
-    ]
-  ],
-  [
-    [
-      "2026-07-22, 20:14:38",
-      "https://news.ycombinator.com/item?id=49012754"
-    ],
-    [
-      "Ancient Rome's version of Google Maps: how long to reach the beach",
-      "https://www.euronews.com/culture/2026/07/02/ancient-romes-version-of-google-maps-how-long-to-reach-the-beach"
     ]
   ]
 ]
