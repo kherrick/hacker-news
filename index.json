@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-07-29, 14:05:40",
+      "https://news.ycombinator.com/item?id=49097730"
+    ],
+    [
+      "Choose DuckDB rather than SQLite",
+      "https://tracewayapp.com/blog/sqlite-vs-duckdb"
+    ]
+  ],
+  [
+    [
+      "2026-07-29, 13:55:00",
+      "https://news.ycombinator.com/item?id=49097591"
+    ],
+    [
+      "Valve Sponsors Work Bringing Open-Source RADV Driver to Windows",
+      "https://www.phoronix.com/news/Valve-Sponsors-RADV-Windows"
+    ]
+  ],
+  [
+    [
+      "2026-07-29, 13:05:17",
+      "https://news.ycombinator.com/item?id=49097003"
+    ],
+    [
+      "TokenTown: A visual way to understand how LLMs work",
+      "https://laurentiugabriel.github.io/token-town/"
+    ]
+  ],
+  [
+    [
       "2026-07-29, 13:01:57",
       "https://news.ycombinator.com/item?id=49096969"
     ],
@@ -11,22 +41,22 @@
   ],
   [
     [
-      "2026-07-29, 13:00:39",
-      "https://news.ycombinator.com/item?id=49096953"
-    ],
-    [
-      "After the AI Crash",
-      "https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/"
-    ]
-  ],
-  [
-    [
       "2026-07-29, 12:58:27",
       "https://news.ycombinator.com/item?id=49096917"
     ],
     [
       "Show HN: Bullshit Detector – agent skills that fact-check videos and articles",
       "https://github.com/SerhiiKorniienko/bullshit-detector"
+    ]
+  ],
+  [
+    [
+      "2026-07-29, 12:48:18",
+      "https://news.ycombinator.com/item?id=49096811"
+    ],
+    [
+      "Shipping Godot VR and Porting to PSVR2: A Partial Post Mortem",
+      "https://www.claire-blackshaw.com/blog/2026/07/shipping-godot-vr-and-porting-to-psvr2-a-partial-post-mortem/"
     ]
   ],
   [
@@ -51,12 +81,12 @@
   ],
   [
     [
-      "2026-07-29, 12:19:30",
-      "https://news.ycombinator.com/item?id=49096493"
+      "2026-07-29, 12:33:02",
+      "https://news.ycombinator.com/item?id=49096654"
     ],
     [
-      "Pulse Path – a browser puzzle where placement is the only decision",
-      "https://pulsepathgame.netlify.app/"
+      "Darktable",
+      "https://www.darktable.org/"
     ]
   ],
   [
@@ -181,26 +211,6 @@
   ],
   [
     [
-      "2026-07-29, 03:52:29",
-      "https://news.ycombinator.com/item?id=49093232"
-    ],
-    [
-      "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
-      "https://transformer-transformer.github.io/"
-    ]
-  ],
-  [
-    [
-      "2026-07-29, 01:49:19",
-      "https://news.ycombinator.com/item?id=49092499"
-    ],
-    [
-      "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
-      "https://learnvector.ai/"
-    ]
-  ],
-  [
-    [
       "2026-07-28, 23:27:09",
       "https://news.ycombinator.com/item?id=49091379"
     ],
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2026-07-28, 17:11:54",
-      "https://news.ycombinator.com/item?id=49086971"
-    ],
-    [
-      "Steel Bank Common Lisp version 2.6.7",
-      "https://sbcl.org/all-news.html?2.6.7"
-    ]
-  ],
-  [
-    [
       "2026-07-28, 16:58:31",
       "https://news.ycombinator.com/item?id=49086788"
     ],
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2026-07-28, 15:50:38",
-      "https://news.ycombinator.com/item?id=49085731"
+      "2026-07-27, 00:58:45",
+      "https://news.ycombinator.com/item?id=49063983"
     ],
     [
-      "Delayed Gratification – Proud to Be 'Last to Breaking News'",
-      "https://www.slow-journalism.com/"
+      "Hunter-gatherers introduced fish to a mountain lake 7000 years ago",
+      "https://www.newscientist.com/article/2580119-hunter-gatherers-introduced-fish-to-a-mountain-lake-7000-years-ago/"
     ]
   ],
   [
