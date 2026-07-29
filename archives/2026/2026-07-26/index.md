@@ -12,6 +12,7 @@
 * [2026-07-26, 22:48:09](https://news.ycombinator.com/item?id=49063186) - [Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription](https://github.com/hkc5/cursor-bridge)
 * [2026-07-26, 22:46:10](https://news.ycombinator.com/item?id=49063175) - [Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary](https://github.com/vercel-labs/scriptc)
 * [2026-07-26, 22:21:41](https://news.ycombinator.com/item?id=49063022) - [US citizen charged after GrapheneOS phone wipes during airport search](https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html)
+* [2026-07-26, 22:18:42](https://news.ycombinator.com/item?id=49062997) - [Refactoring cuisine: how an Iraqi stew sailed to Singapore](https://iza.ac/posts/2026/07/the-journey-of-bamya/)
 * [2026-07-26, 21:39:17](https://news.ycombinator.com/item?id=49062700) - [Teaching Kids Forth – Anna Liberty](https://gracefulliberty.com/articles/teaching-kids-forth/)
 * [2026-07-26, 20:53:26](https://news.ycombinator.com/item?id=49062291) - [We have proof automation now](https://www.imperialviolet.org/2026/07/26/zstd-lean.html)
 * [2026-07-26, 20:49:43](https://news.ycombinator.com/item?id=49062259) - [Multiway Turing Machines (2021 pre-ai)](https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines/)

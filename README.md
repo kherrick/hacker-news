@@ -18,7 +18,6 @@
 * [2026-07-29, 15:55:27](https://news.ycombinator.com/item?id=49099143) - [Launch HN: Tokenless (YC S26) – Automatic model switching to save money](https://usetokenless.com/)
 * [2026-07-29, 15:41:33](https://news.ycombinator.com/item?id=49098965) - [Superlogical](https://www.superlogical.com/)
 * [2026-07-29, 15:05:43](https://news.ycombinator.com/item?id=49098510) - [Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac](https://github.com/drumih/turbo-fieldfare)
-* [2026-07-29, 14:56:28](https://news.ycombinator.com/item?id=49098388) - [GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?](https://juliahub.com/blog/frontier-models-physical-ai-evaluation)
 * [2026-07-29, 14:43:47](https://news.ycombinator.com/item?id=49098198) - [A.I. companies are recruiting electricians and carpenters by the thousands](https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html)
 * [2026-07-29, 14:38:35](https://news.ycombinator.com/item?id=49098130) - [Self-hosting Kimi K3: 20% more hardware cost, 20% better task resolution](https://aistack.imec-int.com/blog/gpu-self-hosting)
 * [2026-07-29, 13:01:57](https://news.ycombinator.com/item?id=49096969) - [Handbook.md shows that long policy documents do not reliably govern agents](https://arxiv.org/abs/2607.25398)
@@ -28,6 +27,7 @@
 * [2026-07-28, 20:28:33](https://news.ycombinator.com/item?id=49089500) - [Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident](https://huggingface.co/blog/agent-intrusion-technical-timeline)
 * [2026-07-27, 06:23:46](https://news.ycombinator.com/item?id=49065785) - [Hamburg's Stadtpark: A Park Built to Be Used](https://alsterrunde.com/hamburgs-stadtpark-a-park-built-to-be-used/)
 * [2026-07-27, 00:58:45](https://news.ycombinator.com/item?id=49063983) - [Hunter-gatherers introduced fish to a mountain lake 7000 years ago](https://www.newscientist.com/article/2580119-hunter-gatherers-introduced-fish-to-a-mountain-lake-7000-years-ago/)
+* [2026-07-26, 22:18:42](https://news.ycombinator.com/item?id=49062997) - [Refactoring cuisine: how an Iraqi stew sailed to Singapore](https://iza.ac/posts/2026/07/the-journey-of-bamya/)
 * [2026-07-25, 15:44:34](https://news.ycombinator.com/item?id=49048570) - [Staging patches with Git add -p](https://www.simonholywell.com/post/git-add-p/)
 * [2026-07-25, 13:15:41](https://news.ycombinator.com/item?id=49047351) - [The Rust on ESP Book](https://docs.espressif.com/projects/rust/book/)
 
