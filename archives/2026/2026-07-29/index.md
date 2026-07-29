@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-07-29](index.md)
 
+* [2026-07-29, 13:01:57](https://news.ycombinator.com/item?id=49096969) - [Handbook.md shows that long policy documents do not reliably govern agents](https://arxiv.org/abs/2607.25398)
+* [2026-07-29, 13:00:39](https://news.ycombinator.com/item?id=49096953) - [After the AI Crash](https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/)
+* [2026-07-29, 12:58:27](https://news.ycombinator.com/item?id=49096917) - [Show HN: Bullshit Detector – agent skills that fact-check videos and articles](https://github.com/SerhiiKorniienko/bullshit-detector)
+* [2026-07-29, 12:43:36](https://news.ycombinator.com/item?id=49096767) - [Show HN: Echologue – the private AI voice journal I built for myself](https://echologue.com/)
 * [2026-07-29, 12:40:13](https://news.ycombinator.com/item?id=49096742) - [A Texture Lookup Approach to Bézier Curve Evaluation on the GPU (JCGT)](https://jcgt.org/published/0015/02/01/)
 * [2026-07-29, 12:19:30](https://news.ycombinator.com/item?id=49096493) - [Pulse Path – a browser puzzle where placement is the only decision](https://pulsepathgame.netlify.app/)
 * [2026-07-29, 12:11:18](https://news.ycombinator.com/item?id=49096427) - [Disrupting supply chain attacks on NPM and GitHub Actions](https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/)
@@ -15,6 +19,7 @@
 * [2026-07-29, 10:47:57](https://news.ycombinator.com/item?id=49095714) - [National Security Determination Threat Posed by Foreign-Produced Robotic Devices [pdf]](https://www.fcc.gov/sites/default/files/robots-nsd.pdf)
 * [2026-07-29, 10:35:19](https://news.ycombinator.com/item?id=49095628) - [SpecForge – A Platform for Authoring Formal Specifications](https://docs.imiron.io/v/0.5.10/en/tour.html)
 * [2026-07-29, 10:19:44](https://news.ycombinator.com/item?id=49095511) - [Amiga Graphics Archive](https://amiga.lychesis.net/index.html)
+* [2026-07-29, 09:59:09](https://news.ycombinator.com/item?id=49095361) - [The only road in London where you have to drive on the right](https://www.mylondon.news/news/transport/only-road-london-you-drive-30499294)
 * [2026-07-29, 09:26:52](https://news.ycombinator.com/item?id=49095143) - [Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels](https://vimgolf.ai)
 * [2026-07-29, 07:18:24](https://news.ycombinator.com/item?id=49094346) - [SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers](https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers)
 * [2026-07-29, 04:58:46](https://news.ycombinator.com/item?id=49093569) - [More Tailscale tricks for your jailbroken Kindle](https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes)
