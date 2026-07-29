@@ -30,6 +30,7 @@
 * [2026-07-26, 17:58:02](https://news.ycombinator.com/item?id=49060592) - [It's not empowering to hand off the details](https://davidnicholaswilliams.com/its-not-empowering-to-hand-off-the-details/)
 * [2026-07-26, 17:51:03](https://news.ycombinator.com/item?id=49060509) - [How AST-grep Rewrote Tree-sitter in Rust and Made It 30% Faster](https://astgrep.com/blog/tree-sitter-rust-rewrite)
 * [2026-07-26, 17:49:44](https://news.ycombinator.com/item?id=49060495) - [French firefighters face 'pyrocumulonimbus' for first time](https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time)
+* [2026-07-26, 17:37:33](https://news.ycombinator.com/item?id=49060363) - [Lisp moving Forth moving Lisp](https://letoverlambda.com/textmode.cl/guest/chap8.html)
 * [2026-07-26, 17:29:35](https://news.ycombinator.com/item?id=49060295) - [How to Write English Prose](https://thelampmagazine.com/blog/how-to-write-english-prose)
 * [2026-07-26, 17:28:03](https://news.ycombinator.com/item?id=49060279) - [Show HN: Boffin – Staff-engineer layer for AI coding agents](https://github.com/MicSm/boffin)
 * [2026-07-26, 17:28:03](https://news.ycombinator.com/item?id=49060277) - [Calling all open source maintainers working with Ruby](https://www.rubyforum.org/t/calling-all-open-source-maintainers-working-with-ruby/553)
