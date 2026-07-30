@@ -26,6 +26,7 @@
 * [2026-07-27, 20:42:46](https://news.ycombinator.com/item?id=49075264) - [Solving Fermat: Andrew Wiles](https://www.pbs.org/wgbh/nova/proof/wiles.html)
 * [2026-07-27, 20:15:50](https://news.ycombinator.com/item?id=49074991) - [Forth](https://xkcd.com/3277/)
 * [2026-07-27, 20:14:12](https://news.ycombinator.com/item?id=49074974) - [Platform engineering 2.0 mitigates AI security and compliance risks](https://platformengineering.org/blog/how-platform-engineering-2-0-mitigates-ai-security-and-compliance-risks)
+* [2026-07-27, 20:01:07](https://news.ycombinator.com/item?id=49074842) - [Building a native C# implementation of CEL engine](https://bsid.io/writing/building-a-cel-engine-for-net)
 * [2026-07-27, 19:58:22](https://news.ycombinator.com/item?id=49074817) - [Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals](https://www.rise-reforming.com)
 * [2026-07-27, 19:47:06](https://news.ycombinator.com/item?id=49074693) - [The Author of Clean Code No Longer Reviews AI-Generated Code](https://news.ycombinator.com/item?id=49074693)
 * [2026-07-27, 19:46:05](https://news.ycombinator.com/item?id=49074680) - [Professor's invisible prompt trap catches 32/35 students cheating with AI](https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html)

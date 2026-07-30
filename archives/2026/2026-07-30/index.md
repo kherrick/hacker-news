@@ -4,6 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-07-30](index.md)
 
+* [2026-07-30, 14:36:59](https://news.ycombinator.com/item?id=49110655) - [SDL_GPU minimal, single-header, high-performance 2D graphics painting library](https://github.com/n67094/sdl_gp)
+* [2026-07-30, 14:31:13](https://news.ycombinator.com/item?id=49110577) - [Trusted URLs via Cryptographic Signatures](https://blog.certisfy.com/2026/04/trusted-urls-via-cryptographic.html)
+* [2026-07-30, 14:29:27](https://news.ycombinator.com/item?id=49110547) - [Hacker Public Radio](https://hackerpublicradio.org/)
+* [2026-07-30, 14:15:19](https://news.ycombinator.com/item?id=49110348) - [Why DNA damage from smoking and UV rays cause cancer in some but not others](https://www.cam.ac.uk/research/news/study-reveals-why-dna-damage-from-smoking-and-uv-rays-may-cause-cancer-in-some-people-but-not-others)
+* [2026-07-30, 14:11:42](https://news.ycombinator.com/item?id=49110308) - [The Lost Civic Life of Movie Rental Stores](https://thereader.mitpress.mit.edu/the-lost-civic-life-of-movie-rental-stores/)
+* [2026-07-30, 14:04:18](https://news.ycombinator.com/item?id=49110215) - [Show HN: I audited my AI leaderboard scale – every score dropped 6-15 points](https://agiranker.com/)
+* [2026-07-30, 13:55:09](https://news.ycombinator.com/item?id=49110085) - [Europe's fires are just the start](https://economist.com/leaders/2026/07/28/europes-fires-are-just-the-start)
 * [2026-07-30, 13:29:03](https://news.ycombinator.com/item?id=49109721) - [Launch HN: Prized (YC S26) – Let non-engineer staff build secure internal tools](https://prized.dev)
 * [2026-07-30, 13:07:53](https://news.ycombinator.com/item?id=49109474) - [RFC 8890 – The Internet is for End Users (2020)](https://mnot.net/blog/2020/for_the_users)
 * [2026-07-30, 13:03:27](https://news.ycombinator.com/item?id=49109440) - ['VPNs are lawful technical tools,' says EU Court in landmark copyright ruling](https://remysharp.com/links/2026-07-23-35890312)
