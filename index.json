@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2026-07-29, 19:07:13",
-      "https://news.ycombinator.com/item?id=49101655"
-    ],
-    [
-      "How much can you delegate to agents?",
-      "https://newsletter.posthog.com/p/agent-autonomy"
-    ]
-  ],
-  [
-    [
       "2026-07-29, 18:57:10",
       "https://news.ycombinator.com/item?id=49101529"
     ],
@@ -271,6 +261,16 @@
   ],
   [
     [
+      "2026-07-27, 05:39:33",
+      "https://news.ycombinator.com/item?id=49065540"
+    ],
+    [
+      "Interconverting std::function with copyable_function",
+      "https://quuxplusone.github.io/blog/2026/07/26/function-explosion/"
+    ]
+  ],
+  [
+    [
       "2026-07-26, 22:18:42",
       "https://news.ycombinator.com/item?id=49062997"
     ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=49048570"
     ],
     [
-      "Staging patches with Git add -p",
+      "Staging patches with git add (2024)",
       "https://www.simonholywell.com/post/git-add-p/"
     ]
   ],
