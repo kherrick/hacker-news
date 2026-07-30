@@ -21,21 +21,11 @@
   ],
   [
     [
-      "2026-07-30, 01:27:12",
-      "https://news.ycombinator.com/item?id=49105136"
-    ],
-    [
-      "Flume Water Monitor 915 MHz Security Is Pretty Good",
-      "https://waveformsecurity.com/blog/flume/"
-    ]
-  ],
-  [
-    [
       "2026-07-30, 00:51:39",
       "https://news.ycombinator.com/item?id=49104937"
     ],
     [
-      "Logic for Programmers by Hillel Wayne",
+      "Logic for Programmers",
       "https://logicforprogrammers.com/"
     ]
   ],
@@ -231,22 +221,22 @@
   ],
   [
     [
-      "2026-07-29, 13:01:57",
-      "https://news.ycombinator.com/item?id=49096969"
-    ],
-    [
-      "Handbook.md shows that long policy documents do not reliably govern agents",
-      "https://arxiv.org/abs/2607.25398"
-    ]
-  ],
-  [
-    [
       "2026-07-29, 12:33:02",
       "https://news.ycombinator.com/item?id=49096654"
     ],
     [
       "Darktable",
       "https://www.darktable.org/"
+    ]
+  ],
+  [
+    [
+      "2026-07-29, 04:30:36",
+      "https://news.ycombinator.com/item?id=49093434"
+    ],
+    [
+      "User Interfaces of the Demo Scene",
+      "https://www.datagubbe.se/scenegui/"
     ]
   ],
   [
@@ -271,6 +261,16 @@
   ],
   [
     [
+      "2026-07-27, 06:23:46",
+      "https://news.ycombinator.com/item?id=49065785"
+    ],
+    [
+      "Hamburg's Stadtpark: A Park Built to Be Used",
+      "https://alsterrunde.com/hamburgs-stadtpark-a-park-built-to-be-used/"
+    ]
+  ],
+  [
+    [
       "2026-07-26, 22:18:42",
       "https://news.ycombinator.com/item?id=49062997"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-07-26, 05:00:46",
-      "https://news.ycombinator.com/item?id=49054884"
+      "2026-07-25, 13:15:41",
+      "https://news.ycombinator.com/item?id=49047351"
     ],
     [
-      "Thanatos Rising",
-      "https://theamericanscholar.org/thanatos-rising/"
+      "The Rust on ESP Book",
+      "https://docs.espressif.com/projects/rust/book/"
     ]
   ]
 ]
