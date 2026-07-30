@@ -129,6 +129,96 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="49109721">
+          <h3>
+            <a class="item" href="https://prized.dev"
+              >Launch HN: Prized (YC S26) – Let non-engineer staff build secure
+              internal tools</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-30 @ 13:29:03</span
+              ><span class="points-container"
+                >Points: <span class="points">21</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49109721"
+                  >Comments</a
+                ><span class="descendants">: 7</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://prized.dev">https://prized.dev</a>)! Prized lets
+              non-engineer employees describe the internal tool they need and
+              get a full-stack app, wired to their company’s data and deployed
+              behind the company’s sign-in, without them ever juggling API keys
+              or connectors.
+              <p>
+                Here's a demo:
+                <a href="https://www.youtube.com/watch?v=730MuYOfZTY"
+                  >https://www.youtube.com/watch?v=730MuYOfZTY</a
+                >
+              </p>
+              <p>
+                The way Prized provides security is by limiting what the agent
+                can reach at the network layer and by keeping credentials out of
+                the sandbox entirely. The sandbox never holds any keys or
+                connector secrets, it only uses scoped session tokens that are
+                stored as opaque placeholders. The real values are swapped into
+                the request headers on our egress proxy. When production data is
+                connected, the sandbox's network policy is set to deny by
+                default so the only path out is via the proxy. Any call the
+                agent makes to an external connector is reviewed by an LLM judge
+                to prevent dangerous operations.
+              </p>
+              <p>
+                Prized is meant for the internal workflows that start as
+                notebooks or spreadsheets but never become real tools because
+                engineering has more important things to work on. One customer’s
+                data scientist pasted in his personal fraud-detection notebook
+                with hardcoded thresholds and all. After a few prompts, it
+                became a published risk console connected to the company’s data
+                with those thresholds turned into UI controls. Earlier today, we
+                got off a call with them and most of their company is using it.
+              </p>
+              <p>
+                To do this, you need to give people the freedom to build without
+                having unaudited access to company systems. We allow admins to
+                scope data to specific users or teams and data access is
+                recorded in an audit log. Each tool is built with its own
+                Postgres schema and role, with queries running via an
+                authenticated SQL gateway as that role.
+              </p>
+              <p>
+                We think Prized sits between products like Lovable and Retool.
+                Lovable makes it easy to generate and host software, but it
+                isn’t designed around distribution with permissions. Retool
+                generally assumes that a technical builder is creating an app
+                for an end user.
+              </p>
+              <p>
+                Prized treats internal tools as shared objects. Anyone in the
+                workspace can see what others have built, fork, and connect
+                different data. For example, one customer’s marketing lead built
+                a promotional analytics tool. A data scientist at the same
+                company then forked it and added confidence intervals with the
+                existing tool as a starting base. This way workspaces become
+                libraries of tools that people can reuse.
+              </p>
+              <p>
+                We’re live and self-serve. Our free tier includes 2 tool
+                builds/month and our Teams tier is $100/month. The Enterprise
+                tier is custom and supports personalized features like on-prem
+                deployment.
+              </p>
+              <p>
+                We're still working out the right boundary between control and
+                freedom. If you've built internal tools before we'd appreciate
+                your feedback!
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="49109474">
           <h3>
             <a class="item" href="https://mnot.net/blog/2020/for_the_users"
@@ -139,11 +229,11 @@
             <h4>
               <span>2026-07-30 @ 13:07:53</span
               ><span class="points-container"
-                >Points: <span class="points">28</span></span
+                >Points: <span class="points">39</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49109474"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -161,11 +251,11 @@
             <h4>
               <span>2026-07-30 @ 13:03:27</span
               ><span class="points-container"
-                >Points: <span class="points">181</span></span
+                >Points: <span class="points">315</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49109440"
                   >Comments</a
-                ><span class="descendants">: 55</span></span
+                ><span class="descendants">: 122</span></span
               >
             </h4>
           </section>
@@ -182,30 +272,11 @@
             <h4>
               <span>2026-07-30 @ 12:38:51</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">63</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49109193"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49109165">
-          <h3>
-            <a class="item" href="https://openjdk.org/legal/ai"
-              >OpenJDK Interim Policy on Generative AI</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-30 @ 12:36:38</span
-              ><span class="points-container"
-                >Points: <span class="points">47</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49109165"
-                  >Comments</a
-                ><span class="descendants">: 56</span></span
+                ><span class="descendants">: 62</span></span
               >
             </h4>
           </section>
@@ -222,11 +293,11 @@
             <h4>
               <span>2026-07-30 @ 12:21:34</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">61</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49109026"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 39</span></span
               >
             </h4>
           </section>
@@ -243,32 +314,11 @@
             <h4>
               <span>2026-07-30 @ 12:14:23</span
               ><span class="points-container"
-                >Points: <span class="points">27</span></span
+                >Points: <span class="points">40</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49108971"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49108966">
-          <h3>
-            <a
-              class="item"
-              href="https://en.andros.dev/blog/9761fd2e/what-it-means-for-an-api-to-be-restful/"
-              >What it means for an API to be RESTful</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-30 @ 12:13:46</span
-              ><span class="points-container"
-                >Points: <span class="points">19</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49108966"
-                  >Comments</a
-                ><span class="descendants">: 26</span></span
+                ><span class="descendants">: 39</span></span
               >
             </h4>
           </section>
@@ -285,11 +335,11 @@
             <h4>
               <span>2026-07-30 @ 12:13:42</span
               ><span class="points-container"
-                >Points: <span class="points">13</span></span
+                >Points: <span class="points">22</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49108963"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -322,11 +372,11 @@
             <h4>
               <span>2026-07-30 @ 11:55:39</span
               ><span class="points-container"
-                >Points: <span class="points">22</span></span
+                >Points: <span class="points">27</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49108778"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -341,11 +391,32 @@
             <h4>
               <span>2026-07-30 @ 11:45:44</span
               ><span class="points-container"
-                >Points: <span class="points">144</span></span
+                >Points: <span class="points">149</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49108685"
                   >Comments</a
-                ><span class="descendants">: 155</span></span
+                ><span class="descendants">: 180</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49108678">
+          <h3>
+            <a
+              class="item"
+              href="https://mathoverflow.net/questions/513742/are-we-stuck-with-lean"
+              >Are We Stuck with Lean?</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-30 @ 11:45:01</span
+              ><span class="points-container"
+                >Points: <span class="points">28</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49108678"
+                  >Comments</a
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -360,11 +431,11 @@
             <h4>
               <span>2026-07-30 @ 11:33:02</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">45</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49108571"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 46</span></span
               >
             </h4>
           </section>
@@ -381,11 +452,53 @@
             <h4>
               <span>2026-07-30 @ 11:30:34</span
               ><span class="points-container"
-                >Points: <span class="points">43</span></span
+                >Points: <span class="points">55</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49108556"
                   >Comments</a
-                ><span class="descendants">: 28</span></span
+                ><span class="descendants">: 40</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49108542">
+          <h3>
+            <a
+              class="item"
+              href="https://steelmanlabs.com/blog/computer-use-is-far-from-solved"
+              >You can't solve computer use by ignoring the interface</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-30 @ 11:28:51</span
+              ><span class="points-container"
+                >Points: <span class="points">30</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49108542"
+                  >Comments</a
+                ><span class="descendants">: 6</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49108485">
+          <h3>
+            <a
+              class="item"
+              href="https://98.js.org/programs/pinball/space-cadet.html"
+              >3D Pinball for Windows (1995)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-30 @ 11:23:12</span
+              ><span class="points-container"
+                >Points: <span class="points">28</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49108485"
+                  >Comments</a
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -402,11 +515,11 @@
             <h4>
               <span>2026-07-30 @ 10:32:41</span
               ><span class="points-container"
-                >Points: <span class="points">91</span></span
+                >Points: <span class="points">97</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49108048"
                   >Comments</a
-                ><span class="descendants">: 28</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
           </section>
@@ -424,11 +537,11 @@
             <h4>
               <span>2026-07-30 @ 10:13:46</span
               ><span class="points-container"
-                >Points: <span class="points">194</span></span
+                >Points: <span class="points">220</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49107950"
                   >Comments</a
-                ><span class="descendants">: 224</span></span
+                ><span class="descendants">: 252</span></span
               >
             </h4>
           </section>
@@ -444,11 +557,11 @@
             <h4>
               <span>2026-07-30 @ 09:34:27</span
               ><span class="points-container"
-                >Points: <span class="points">58</span></span
+                >Points: <span class="points">69</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49107749"
                   >Comments</a
-                ><span class="descendants">: 40</span></span
+                ><span class="descendants">: 49</span></span
               >
             </h4>
           </section>
@@ -465,32 +578,11 @@
             <h4>
               <span>2026-07-30 @ 09:28:01</span
               ><span class="points-container"
-                >Points: <span class="points">50</span></span
+                >Points: <span class="points">55</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49107713"
                   >Comments</a
-                ><span class="descendants">: 30</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49107437">
-          <h3>
-            <a
-              class="item"
-              href="https://wadetregaskis.com/the-apple-calculator-language/"
-              >The Apple Calculator Language</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-30 @ 08:44:30</span
-              ><span class="points-container"
-                >Points: <span class="points">25</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49107437"
-                  >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 41</span></span
               >
             </h4>
           </section>
@@ -505,11 +597,11 @@
             <h4>
               <span>2026-07-30 @ 08:10:33</span
               ><span class="points-container"
-                >Points: <span class="points">121</span></span
+                >Points: <span class="points">144</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49107246"
                   >Comments</a
-                ><span class="descendants">: 45</span></span
+                ><span class="descendants">: 58</span></span
               >
             </h4>
           </section>
@@ -524,11 +616,11 @@
             <h4>
               <span>2026-07-29 @ 23:18:11</span
               ><span class="points-container"
-                >Points: <span class="points">305</span></span
+                >Points: <span class="points">318</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49104335"
                   >Comments</a
-                ><span class="descendants">: 135</span></span
+                ><span class="descendants">: 138</span></span
               >
             </h4>
           </section>
@@ -541,11 +633,11 @@
             <h4>
               <span>2026-07-29 @ 22:51:03</span
               ><span class="points-container"
-                >Points: <span class="points">342</span></span
+                >Points: <span class="points">351</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49104117"
                   >Comments</a
-                ><span class="descendants">: 94</span></span
+                ><span class="descendants">: 96</span></span
               >
             </h4>
           </section>
@@ -562,11 +654,11 @@
             <h4>
               <span>2026-07-29 @ 21:25:40</span
               ><span class="points-container"
-                >Points: <span class="points">559</span></span
+                >Points: <span class="points">564</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49103285"
                   >Comments</a
-                ><span class="descendants">: 292</span></span
+                ><span class="descendants">: 296</span></span
               >
             </h4>
           </section>
@@ -581,11 +673,11 @@
             <h4>
               <span>2026-07-29 @ 21:06:42</span
               ><span class="points-container"
-                >Points: <span class="points">264</span></span
+                >Points: <span class="points">270</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49103089"
                   >Comments</a
-                ><span class="descendants">: 102</span></span
+                ><span class="descendants">: 103</span></span
               >
             </h4>
           </section>
@@ -602,32 +694,11 @@
             <h4>
               <span>2026-07-29 @ 20:39:40</span
               ><span class="points-container"
-                >Points: <span class="points">767</span></span
+                >Points: <span class="points">777</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49102774"
                   >Comments</a
-                ><span class="descendants">: 289</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49099715">
-          <h3>
-            <a
-              class="item"
-              href="https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice"
-              >Keychron announces first open-source firmware for gaming mice</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-29 @ 16:36:59</span
-              ><span class="points-container"
-                >Points: <span class="points">417</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49099715"
-                  >Comments</a
-                ><span class="descendants">: 169</span></span
+                ><span class="descendants">: 290</span></span
               >
             </h4>
           </section>
@@ -642,11 +713,11 @@
             <h4>
               <span>2026-07-28 @ 20:29:03</span
               ><span class="points-container"
-                >Points: <span class="points">98</span></span
+                >Points: <span class="points">110</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49089502"
                   >Comments</a
-                ><span class="descendants">: 33</span></span
+                ><span class="descendants">: 36</span></span
               >
             </h4>
           </section>
@@ -664,11 +735,11 @@
             <h4>
               <span>2026-07-28 @ 20:28:33</span
               ><span class="points-container"
-                >Points: <span class="points">432</span></span
+                >Points: <span class="points">440</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49089500"
                   >Comments</a
-                ><span class="descendants">: 234</span></span
+                ><span class="descendants">: 239</span></span
               >
             </h4>
           </section>
@@ -685,32 +756,30 @@
             <h4>
               <span>2026-07-27 @ 14:18:23</span
               ><span class="points-container"
-                >Points: <span class="points">55</span></span
+                >Points: <span class="points">62</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49070073"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="49065874">
+        <section id="49067162">
           <h3>
-            <a
-              class="item"
-              href="https://www.n16f.net/blog/concurrency-interactivity-mutability-choose-two/"
-              >Concurrency, interactivity, mutability, choose two</a
+            <a class="item" href="https://hex.ooo/library/alicebob.html"
+              >The Alice and Bob After Dinner Speech (1984)</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-07-27 @ 06:38:54</span
+              <span>2026-07-27 @ 09:39:16</span
               ><span class="points-container"
-                >Points: <span class="points">52</span></span
+                >Points: <span class="points">8</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49065874"
+                ><a href="https://news.ycombinator.com/item?id=49067162"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -727,11 +796,11 @@
             <h4>
               <span>2026-07-26 @ 11:46:32</span
               ><span class="points-container"
-                >Points: <span class="points">52</span></span
+                >Points: <span class="points">55</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49057130"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 25</span></span
               >
             </h4>
           </section>
