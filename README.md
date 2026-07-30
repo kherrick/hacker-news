@@ -9,7 +9,6 @@
 * [2026-07-29, 20:39:40](https://news.ycombinator.com/item?id=49102774) - [The coolest use for the Vision Pro](https://christianselig.com/2026/07/vision-pro-house/)
 * [2026-07-29, 20:14:36](https://news.ycombinator.com/item?id=49102425) - [A Trampoline](https://dogdogfish.com/blog/2026/07/29/a-trampoline/)
 * [2026-07-29, 19:25:33](https://news.ycombinator.com/item?id=49101852) - [Kimi K3-256k](https://www.kimi.com/code/docs/en/kimi-code/models)
-* [2026-07-29, 19:07:13](https://news.ycombinator.com/item?id=49101655) - [How much can you delegate to agents?](https://newsletter.posthog.com/p/agent-autonomy)
 * [2026-07-29, 18:57:10](https://news.ycombinator.com/item?id=49101529) - [Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals](https://www.emergingtrajectories.com/lh/commodification-and-circularity/)
 * [2026-07-29, 18:42:10](https://news.ycombinator.com/item?id=49101351) - [How to think about software quality (2022)](https://www.evalapply.org/posts/how-to-not-die-by-a-thousand-cuts/index.html)
 * [2026-07-29, 18:28:51](https://news.ycombinator.com/item?id=49101198) - [Turning a dumb AC unit smart (without losing my security deposit)](https://prilik.com/blog/post/automating-ac-nyc/)
@@ -27,8 +26,9 @@
 * [2026-07-29, 11:05:08](https://news.ycombinator.com/item?id=49095865) - [KOReader](https://koreader.rocks/)
 * [2026-07-28, 20:28:33](https://news.ycombinator.com/item?id=49089500) - [Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident](https://huggingface.co/blog/agent-intrusion-technical-timeline)
 * [2026-07-27, 06:23:46](https://news.ycombinator.com/item?id=49065785) - [Hamburg's Stadtpark: A Park Built to Be Used](https://alsterrunde.com/hamburgs-stadtpark-a-park-built-to-be-used/)
+* [2026-07-27, 05:39:33](https://news.ycombinator.com/item?id=49065540) - [Interconverting std::function with copyable_function](https://quuxplusone.github.io/blog/2026/07/26/function-explosion/)
 * [2026-07-26, 22:18:42](https://news.ycombinator.com/item?id=49062997) - [Refactoring cuisine: how an Iraqi stew sailed to Singapore](https://iza.ac/posts/2026/07/the-journey-of-bamya/)
-* [2026-07-25, 15:44:34](https://news.ycombinator.com/item?id=49048570) - [Staging patches with Git add -p](https://www.simonholywell.com/post/git-add-p/)
+* [2026-07-25, 15:44:34](https://news.ycombinator.com/item?id=49048570) - [Staging patches with git add (2024)](https://www.simonholywell.com/post/git-add-p/)
 * [2026-07-25, 13:15:41](https://news.ycombinator.com/item?id=49047351) - [The Rust on ESP Book](https://docs.espressif.com/projects/rust/book/)
 
 ## [Archives](archives/index.md)
