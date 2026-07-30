@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-30](index.md)
 
+* [2026-07-30, 21:31:03](https://news.ycombinator.com/item?id=49116074) - [Saber-toothed cats became inbred–and struggled to move–before they went extinct](https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct)
 * [2026-07-30, 20:53:41](https://news.ycombinator.com/item?id=49115620) - [I obtained Claude Opus 5 system prompt](https://claude.ai/share/98073770-0ad9-431f-a1e7-e0243db18758)
 * [2026-07-30, 20:44:13](https://news.ycombinator.com/item?id=49115506) - [Man seeks millions after being shot by police in game-related swatting incident](https://www.tucsonsentinel.com/local/report/072926_melendez_swatting/man-seeks-millions-after-being-shot-by-pima-deputies-swatting-incident/)
 * [2026-07-30, 19:34:27](https://news.ycombinator.com/item?id=49114639) - [Agent Skill to Force Docs in ASD-STE100 Simplified Technical English](https://github.com/AminBlg/SimpleEnglish)
@@ -39,6 +40,7 @@
 * [2026-07-30, 14:04:18](https://news.ycombinator.com/item?id=49110215) - [Show HN: I audited my AI leaderboard scale – every score dropped 6-15 points](https://agiranker.com/)
 * [2026-07-30, 13:55:09](https://news.ycombinator.com/item?id=49110085) - [Europe's fires are just the start](https://economist.com/leaders/2026/07/28/europes-fires-are-just-the-start)
 * [2026-07-30, 13:29:03](https://news.ycombinator.com/item?id=49109721) - [Launch HN: Prized (YC S26) – Let non-engineer staff build secure internal tools](https://prized.dev)
+* [2026-07-30, 13:25:04](https://news.ycombinator.com/item?id=49109663) - [Show HN: Local text, image, video, music and 3D from one CLI, no Python](https://github.com/sawfwair/mere-run)
 * [2026-07-30, 13:21:34](https://news.ycombinator.com/item?id=49109616) - [Upper stage impacting the moon on 2026 August 5](https://www.projectpluto.com/25010d.htm)
 * [2026-07-30, 13:07:53](https://news.ycombinator.com/item?id=49109474) - [RFC 8890 – The Internet is for End Users (2020)](https://mnot.net/blog/2020/for_the_users)
 * [2026-07-30, 13:03:27](https://news.ycombinator.com/item?id=49109440) - ['VPNs are lawful technical tools,' says EU Court in landmark copyright ruling](https://remysharp.com/links/2026-07-23-35890312)

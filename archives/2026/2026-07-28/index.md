@@ -74,6 +74,7 @@
 * [2026-07-28, 09:59:13](https://news.ycombinator.com/item?id=49081644) - [Google's Beyond Zero: Enterprise Security for the AI Era](https://spawn-queue.acm.org/doi/10.1145/3819083)
 * [2026-07-28, 09:52:31](https://news.ycombinator.com/item?id=49081594) - [What Even Are Microservices?](https://var0.xyz/posts/what-even-are-microservices.html)
 * [2026-07-28, 09:45:43](https://news.ycombinator.com/item?id=49081555) - [About the security content of macOS Tahoe 26.6](https://support.apple.com/en-us/128067)
+* [2026-07-28, 08:56:33](https://news.ycombinator.com/item?id=49081192) - [One Ring to Rule Them All: Wiring Radios to Laptops the Hard Way](https://www.lysk.ai/post/wiring-radios-to-laptops-the-hard-way)
 * [2026-07-28, 07:44:24](https://news.ycombinator.com/item?id=49080664) - [7.1 Earthquake in Japan](https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en)
 * [2026-07-28, 06:11:18](https://news.ycombinator.com/item?id=49080031) - [Recursive Filters: SMA, EMA, Low‑Pass, and a Tiny Kalman](https://www.staszewski.xyz/blog/recursive-filters/)
 * [2026-07-28, 05:25:34](https://news.ycombinator.com/item?id=49079727) - [Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts](https://arsastronomica.com/)
