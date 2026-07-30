@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-07-30, 12:01:05",
+      "https://news.ycombinator.com/item?id=49108840"
+    ],
+    [
+      "Mbodi AI (YC P25) Is Hiring Robotics/Research Engineers",
+      "https://www.ycombinator.com/companies/mbodi-ai/jobs"
+    ]
+  ],
+  [
+    [
+      "2026-07-30, 11:45:44",
+      "https://news.ycombinator.com/item?id=49108685"
+    ],
+    [
+      "GCC steering committee announces AI policy",
+      "https://lwn.net/Articles/1086041/"
+    ]
+  ],
+  [
+    [
+      "2026-07-30, 11:30:34",
+      "https://news.ycombinator.com/item?id=49108556"
+    ],
+    [
+      "ChatGPT, Roblox to Fall Under Strictest EU Rules for Platforms",
+      "https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms"
+    ]
+  ],
+  [
+    [
       "2026-07-30, 10:32:41",
       "https://news.ycombinator.com/item?id=49108048"
     ],
@@ -41,32 +71,12 @@
   ],
   [
     [
-      "2026-07-30, 08:45:17",
-      "https://news.ycombinator.com/item?id=49107441"
-    ],
-    [
-      "Tailscale with Mullvad leaks your DNS",
-      "https://github.com/tailscale/tailscale/issues/9284"
-    ]
-  ],
-  [
-    [
       "2026-07-30, 08:44:30",
       "https://news.ycombinator.com/item?id=49107437"
     ],
     [
       "The Apple Calculator Language",
       "https://wadetregaskis.com/the-apple-calculator-language/"
-    ]
-  ],
-  [
-    [
-      "2026-07-30, 08:33:39",
-      "https://news.ycombinator.com/item?id=49107382"
-    ],
-    [
-      "Cisco FMC static credential vulnerability exploited as a zero-day",
-      "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-fmc-static-cred-BET3Cjh"
     ]
   ],
   [
@@ -241,22 +251,22 @@
   ],
   [
     [
+      "2026-07-27, 14:18:23",
+      "https://news.ycombinator.com/item?id=49070073"
+    ],
+    [
+      "The Glass Famine",
+      "https://edconway.substack.com/p/the-glass-famine"
+    ]
+  ],
+  [
+    [
       "2026-07-27, 06:38:54",
       "https://news.ycombinator.com/item?id=49065874"
     ],
     [
       "Concurrency, interactivity, mutability, choose two",
       "https://www.n16f.net/blog/concurrency-interactivity-mutability-choose-two/"
-    ]
-  ],
-  [
-    [
-      "2026-07-26, 18:57:36",
-      "https://news.ycombinator.com/item?id=49061213"
-    ],
-    [
-      "Angels in Coptic Magic I: Introduction",
-      "https://www.coptic-magic.phil.uni-wuerzburg.de/index.php/2026/01/16/angels-in-coptic-magic-i-introduction/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "London’s most equidistant pub",
       "https://equidistance.io/londons-most-equidistant-pub/"
-    ]
-  ],
-  [
-    [
-      "2026-07-25, 13:15:41",
-      "https://news.ycombinator.com/item?id=49047351"
-    ],
-    [
-      "The Rust on ESP Book",
-      "https://docs.espressif.com/projects/rust/book/"
     ]
   ]
 ]
