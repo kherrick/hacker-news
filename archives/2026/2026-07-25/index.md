@@ -42,6 +42,7 @@
 * [2026-07-25, 16:31:15](https://news.ycombinator.com/item?id=49048996) - [Politician reads AI prompt during assembly](https://www.youtube.com/watch?v=wlYa8NV5k-U)
 * [2026-07-25, 16:21:13](https://news.ycombinator.com/item?id=49048901) - [Writing a (valid) C program without main()](https://labs.iximiuz.com/tutorials/c-program-without-main-a1eea557)
 * [2026-07-25, 16:09:58](https://news.ycombinator.com/item?id=49048819) - [Wind turbine is being used to produce zero-carbon \"green ammonia\" fertilizer](https://energiesmedia.com/wind-turbine-stopped-electricity-wind-water-air/)
+* [2026-07-25, 15:59:13](https://news.ycombinator.com/item?id=49048728) - [How to Mount a Balcony Awning](https://solar.lowtechmagazine.com/2025/07/how-to-mount-a-balcony-awning/)
 * [2026-07-25, 15:55:27](https://news.ycombinator.com/item?id=49048689) - [Bringing PyTorch Monarch to AMD GPUs](https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/)
 * [2026-07-25, 15:54:59](https://news.ycombinator.com/item?id=49048681) - [The Dark Night of Mathematics](https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics)
 * [2026-07-25, 15:51:26](https://news.ycombinator.com/item?id=49048645) - [Brazilian farmers tokenized dairy cows to get loans, bypassing bank limits](https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits)
