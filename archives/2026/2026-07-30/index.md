@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-07-30](index.md)
 
+* [2026-07-30, 10:32:41](https://news.ycombinator.com/item?id=49108048) - [Gpiozero Flow](https://bennuttall.com/blog/2026/07/gpiozero-flow/)
+* [2026-07-30, 10:31:46](https://news.ycombinator.com/item?id=49108039) - [Atomarine: Nuclear Data Centers at Sea](https://atomarine.co/)
+* [2026-07-30, 10:13:46](https://news.ycombinator.com/item?id=49107950) - [Google will expand age checks on Android worldwide till the end of the year](https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html)
 * [2026-07-30, 07:54:13](https://news.ycombinator.com/item?id=49107145) - [I Have Thoughts on the iPhone Air](https://christianselig.com/2026/07/iphone-air-review/)
 * [2026-07-30, 06:09:35](https://news.ycombinator.com/item?id=49106568) - [Claude is down for 2nd consecutive day](https://status.claude.com/incidents/fsh2zzzl2c4l)
 * [2026-07-30, 06:03:26](https://news.ycombinator.com/item?id=49106529) - [Show HN: Edge Drop- #1 productivity and unique clipboard 200 stars on GitHub](https://github.com/Deepender25/Edge-Drop)
