@@ -1,6 +1,76 @@
 [
   [
     [
+      "2026-07-30, 14:36:59",
+      "https://news.ycombinator.com/item?id=49110655"
+    ],
+    [
+      "SDL_GPU minimal, single-header, high-performance 2D graphics painting library",
+      "https://github.com/n67094/sdl_gp"
+    ]
+  ],
+  [
+    [
+      "2026-07-30, 14:31:13",
+      "https://news.ycombinator.com/item?id=49110577"
+    ],
+    [
+      "Trusted URLs via Cryptographic Signatures",
+      "https://blog.certisfy.com/2026/04/trusted-urls-via-cryptographic.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-30, 14:29:27",
+      "https://news.ycombinator.com/item?id=49110547"
+    ],
+    [
+      "Hacker Public Radio",
+      "https://hackerpublicradio.org/"
+    ]
+  ],
+  [
+    [
+      "2026-07-30, 14:15:19",
+      "https://news.ycombinator.com/item?id=49110348"
+    ],
+    [
+      "Why DNA damage from smoking and UV rays cause cancer in some but not others",
+      "https://www.cam.ac.uk/research/news/study-reveals-why-dna-damage-from-smoking-and-uv-rays-may-cause-cancer-in-some-people-but-not-others"
+    ]
+  ],
+  [
+    [
+      "2026-07-30, 14:11:42",
+      "https://news.ycombinator.com/item?id=49110308"
+    ],
+    [
+      "The Lost Civic Life of Movie Rental Stores",
+      "https://thereader.mitpress.mit.edu/the-lost-civic-life-of-movie-rental-stores/"
+    ]
+  ],
+  [
+    [
+      "2026-07-30, 14:04:18",
+      "https://news.ycombinator.com/item?id=49110215"
+    ],
+    [
+      "Show HN: I audited my AI leaderboard scale – every score dropped 6-15 points",
+      "https://agiranker.com/"
+    ]
+  ],
+  [
+    [
+      "2026-07-30, 13:55:09",
+      "https://news.ycombinator.com/item?id=49110085"
+    ],
+    [
+      "Europe's fires are just the start",
+      "https://economist.com/leaders/2026/07/28/europes-fires-are-just-the-start"
+    ]
+  ],
+  [
+    [
       "2026-07-30, 13:29:03",
       "https://news.ycombinator.com/item?id=49109721"
     ],
@@ -45,7 +115,7 @@
       "https://news.ycombinator.com/item?id=49109026"
     ],
     [
-      "Why Don't People Use Formal Methods?",
+      "Why Don't People Use Formal Methods? (2019)",
       "https://www.hillelwayne.com/post/why-dont-people-use-formal-methods/"
     ]
   ],
@@ -91,42 +161,12 @@
   ],
   [
     [
-      "2026-07-30, 11:45:44",
-      "https://news.ycombinator.com/item?id=49108685"
-    ],
-    [
-      "GCC steering committee announces AI policy",
-      "https://lwn.net/Articles/1086041/"
-    ]
-  ],
-  [
-    [
       "2026-07-30, 11:45:01",
       "https://news.ycombinator.com/item?id=49108678"
     ],
     [
       "Are We Stuck with Lean?",
       "https://mathoverflow.net/questions/513742/are-we-stuck-with-lean"
-    ]
-  ],
-  [
-    [
-      "2026-07-30, 11:33:02",
-      "https://news.ycombinator.com/item?id=49108571"
-    ],
-    [
-      "I made a game where you build a CPU from logic gates",
-      "https://select.supply/game/chipbuilder"
-    ]
-  ],
-  [
-    [
-      "2026-07-30, 11:30:34",
-      "https://news.ycombinator.com/item?id=49108556"
-    ],
-    [
-      "ChatGPT, Roblox to Fall Under Strictest EU Rules for Platforms",
-      "https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms"
     ]
   ],
   [
@@ -201,52 +241,12 @@
   ],
   [
     [
-      "2026-07-29, 23:18:11",
-      "https://news.ycombinator.com/item?id=49104335"
-    ],
-    [
-      "The Productivity Mirage",
-      "https://frantic.im/mirage/"
-    ]
-  ],
-  [
-    [
       "2026-07-29, 22:51:03",
       "https://news.ycombinator.com/item?id=49104117"
     ],
     [
       "LLM Honeypot",
       "https://llm2human.pages.dev/"
-    ]
-  ],
-  [
-    [
-      "2026-07-29, 21:25:40",
-      "https://news.ycombinator.com/item?id=49103285"
-    ],
-    [
-      "AI's top startups are barely publishing their research",
-      "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research"
-    ]
-  ],
-  [
-    [
-      "2026-07-29, 21:06:42",
-      "https://news.ycombinator.com/item?id=49103089"
-    ],
-    [
-      "The Cold Email",
-      "https://zachholman.com/posts/cold-email"
-    ]
-  ],
-  [
-    [
-      "2026-07-29, 20:39:40",
-      "https://news.ycombinator.com/item?id=49102774"
-    ],
-    [
-      "The coolest use for the Vision Pro",
-      "https://christianselig.com/2026/07/vision-pro-house/"
     ]
   ],
   [
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2026-07-28, 20:28:33",
-      "https://news.ycombinator.com/item?id=49089500"
+      "2026-07-27, 20:01:07",
+      "https://news.ycombinator.com/item?id=49074842"
     ],
     [
-      "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
-      "https://huggingface.co/blog/agent-intrusion-technical-timeline"
+      "Building a native C# implementation of CEL engine",
+      "https://bsid.io/writing/building-a-cel-engine-for-net"
     ]
   ],
   [
