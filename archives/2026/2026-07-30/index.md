@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-30](index.md)
 
+* [2026-07-30, 17:52:51](https://news.ycombinator.com/item?id=49113338) - [CodePen 2.0](https://chriscoyier.net/2026/07/30/codepen-2-0/)
 * [2026-07-30, 17:31:07](https://news.ycombinator.com/item?id=49113059) - [We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447](https://www.bottlenecklabs.com/blog/autonomously-run-businesses)
 * [2026-07-30, 17:15:51](https://news.ycombinator.com/item?id=49112867) - [Advancing the price-performance frontier with GPT‑5.6](https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/)
 * [2026-07-30, 17:04:53](https://news.ycombinator.com/item?id=49112744) - [Read This Before You Buy That TV Streaming Stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/)

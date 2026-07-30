@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-30, 17:52:51](https://news.ycombinator.com/item?id=49113338) - [CodePen 2.0](https://chriscoyier.net/2026/07/30/codepen-2-0/)
 * [2026-07-30, 17:31:07](https://news.ycombinator.com/item?id=49113059) - [We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447](https://www.bottlenecklabs.com/blog/autonomously-run-businesses)
 * [2026-07-30, 17:15:51](https://news.ycombinator.com/item?id=49112867) - [Advancing the price-performance frontier with GPT‑5.6](https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/)
 * [2026-07-30, 17:04:53](https://news.ycombinator.com/item?id=49112744) - [Read This Before You Buy That TV Streaming Stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/)
@@ -28,7 +29,6 @@
 * [2026-07-29, 21:03:50](https://news.ycombinator.com/item?id=49103059) - [RCade: The Arcade Cabinet with CI/CD Deployment, Custom Graphics Card for CRT [video]](https://www.youtube.com/watch?v=W-OpIbLUOU0)
 * [2026-07-28, 20:29:03](https://news.ycombinator.com/item?id=49089502) - [Azulejo](https://en.wikipedia.org/wiki/Azulejo)
 * [2026-07-27, 20:01:07](https://news.ycombinator.com/item?id=49074842) - [Building a native C# implementation of CEL engine](https://bsid.io/writing/building-a-cel-engine-for-net)
-* [2026-07-27, 09:39:16](https://news.ycombinator.com/item?id=49067162) - [The Alice and Bob After Dinner Speech (1984)](https://hex.ooo/library/alicebob.html)
 * [2026-07-25, 15:59:13](https://news.ycombinator.com/item?id=49048728) - [How to Mount a Balcony Awning (2025)](https://solar.lowtechmagazine.com/2025/07/how-to-mount-a-balcony-awning/)
 
 ## [Archives](archives/index.md)
