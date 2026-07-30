@@ -57,6 +57,7 @@
 * [2026-07-26, 12:00:42](https://news.ycombinator.com/item?id=49057248) - [Third Drone Shot Down in Three Days in Romanian Territory](https://english.mapn.ro/)
 * [2026-07-26, 12:00:11](https://news.ycombinator.com/item?id=49057241) - [Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy](https://swag.htmx.org/en-cad/products/htmx-4-the-game)
 * [2026-07-26, 11:53:17](https://news.ycombinator.com/item?id=49057175) - [Kill The Cookie Banner](https://killthecookiebanner.eu/)
+* [2026-07-26, 11:46:32](https://news.ycombinator.com/item?id=49057130) - [The first watch featuring computer functions](https://by.seiko-design.com/140th/en/topic/58.html)
 * [2026-07-26, 11:00:54](https://news.ycombinator.com/item?id=49056808) - [An OpenAI model left notes about how to evade containment; we need more details](https://www.lesswrong.com/posts/jMEAG5c5HiDfdAGpa/an-openai-model-left-notes-about-how-to-evade-containment-we)
 * [2026-07-26, 10:42:00](https://news.ycombinator.com/item?id=49056689) - [Claude Code Deletes Your Context History from Your Device After 30 Days](https://code.claude.com/docs/en/data-usage)
 * [2026-07-26, 10:32:35](https://news.ycombinator.com/item?id=49056620) - [Terence Tao: Mathematics in the Age of AI [pdf]](https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf)

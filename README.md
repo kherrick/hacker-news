@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-07-30, 07:54:13](https://news.ycombinator.com/item?id=49107145) - [I Have Thoughts on the iPhone Air](https://christianselig.com/2026/07/iphone-air-review/)
 * [2026-07-30, 03:44:38](https://news.ycombinator.com/item?id=49105924) - [Why the future is local app](https://getapps.cafe/blog/why-the-future-is-local-app)
 * [2026-07-30, 02:41:16](https://news.ycombinator.com/item?id=49105563) - [Kuna: Decompiler Development in the Age of Coding Agents](https://noelo.org/blog/kuna-release/)
 * [2026-07-30, 00:51:39](https://news.ycombinator.com/item?id=49104937) - [Logic for Programmers](https://logicforprogrammers.com/)
@@ -27,6 +26,7 @@
 * [2026-07-27, 06:23:46](https://news.ycombinator.com/item?id=49065785) - [Hamburg's Stadtpark: A Park Built to Be Used](https://alsterrunde.com/hamburgs-stadtpark-a-park-built-to-be-used/)
 * [2026-07-26, 22:18:42](https://news.ycombinator.com/item?id=49062997) - [Refactoring cuisine: how an Iraqi stew sailed to Singapore](https://iza.ac/posts/2026/07/the-journey-of-bamya/)
 * [2026-07-26, 18:57:36](https://news.ycombinator.com/item?id=49061213) - [Angels in Coptic Magic I: Introduction](https://www.coptic-magic.phil.uni-wuerzburg.de/index.php/2026/01/16/angels-in-coptic-magic-i-introduction/)
+* [2026-07-26, 11:46:32](https://news.ycombinator.com/item?id=49057130) - [The first watch featuring computer functions](https://by.seiko-design.com/140th/en/topic/58.html)
 * [2026-07-25, 18:27:41](https://news.ycombinator.com/item?id=49050218) - [ESP32-C6 Power Consumption: Arduino vs. Zephyr vs. ESP-IDF Comparison](https://www.qoitech.com/blog/esp32-c6-power-consumption-comparison/)
 * [2026-07-25, 14:08:57](https://news.ycombinator.com/item?id=49047692) - [London’s most equidistant pub](https://equidistance.io/londons-most-equidistant-pub/)
 * [2026-07-25, 13:15:41](https://news.ycombinator.com/item?id=49047351) - [The Rust on ESP Book](https://docs.espressif.com/projects/rust/book/)
