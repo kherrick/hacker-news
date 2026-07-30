@@ -4,8 +4,18 @@
 
 ### [Archives](../../index.md) for [2026-07-30](index.md)
 
+* [2026-07-30, 13:07:53](https://news.ycombinator.com/item?id=49109474) - [RFC 8890 – The Internet is for End Users (2020)](https://mnot.net/blog/2020/for_the_users)
+* [2026-07-30, 13:03:27](https://news.ycombinator.com/item?id=49109440) - ['VPNs are lawful technical tools,' says EU Court in landmark copyright ruling](https://remysharp.com/links/2026-07-23-35890312)
+* [2026-07-30, 12:38:51](https://news.ycombinator.com/item?id=49109193) - [Why Is Everyone Trying to Build a Solid-State Battery?](https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a)
+* [2026-07-30, 12:36:38](https://news.ycombinator.com/item?id=49109165) - [OpenJDK Interim Policy on Generative AI](https://openjdk.org/legal/ai)
+* [2026-07-30, 12:21:34](https://news.ycombinator.com/item?id=49109026) - [Why Don't People Use Formal Methods?](https://www.hillelwayne.com/post/why-dont-people-use-formal-methods/)
+* [2026-07-30, 12:14:23](https://news.ycombinator.com/item?id=49108971) - [How Old Is Ann?](https://quuxplusone.github.io/blog/2026/07/29/how-old-is-ann/)
+* [2026-07-30, 12:13:46](https://news.ycombinator.com/item?id=49108966) - [What it means for an API to be RESTful](https://en.andros.dev/blog/9761fd2e/what-it-means-for-an-api-to-be-restful/)
+* [2026-07-30, 12:13:42](https://news.ycombinator.com/item?id=49108963) - [CosmosEscape: Taking over Every Database in Azure Cosmos DB](https://www.wiz.io/blog/cosmosescape-taking-over-every-database-in-azure-cosmos-db)
 * [2026-07-30, 12:01:05](https://news.ycombinator.com/item?id=49108840) - [Mbodi AI (YC P25) Is Hiring Robotics/Research Engineers](https://www.ycombinator.com/companies/mbodi-ai/jobs)
+* [2026-07-30, 11:55:39](https://news.ycombinator.com/item?id=49108778) - [Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)](https://github.com/grafana/ai-sdk)
 * [2026-07-30, 11:45:44](https://news.ycombinator.com/item?id=49108685) - [GCC steering committee announces AI policy](https://lwn.net/Articles/1086041/)
+* [2026-07-30, 11:33:02](https://news.ycombinator.com/item?id=49108571) - [I made a game where you build a CPU from logic gates](https://select.supply/game/chipbuilder)
 * [2026-07-30, 11:30:34](https://news.ycombinator.com/item?id=49108556) - [ChatGPT, Roblox to Fall Under Strictest EU Rules for Platforms](https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms)
 * [2026-07-30, 10:32:41](https://news.ycombinator.com/item?id=49108048) - [Gpiozero Flow](https://bennuttall.com/blog/2026/07/gpiozero-flow/)
 * [2026-07-30, 10:31:46](https://news.ycombinator.com/item?id=49108039) - [Atomarine: Nuclear Data Centers at Sea](https://atomarine.co/)
