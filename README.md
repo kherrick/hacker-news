@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-07-30, 20:53:41](https://news.ycombinator.com/item?id=49115620) - [I obtained Claude Opus 5 system prompt](https://claude.ai/share/98073770-0ad9-431f-a1e7-e0243db18758)
 * [2026-07-30, 20:44:13](https://news.ycombinator.com/item?id=49115506) - [Man seeks millions after being shot by police in game-related swatting incident](https://www.tucsonsentinel.com/local/report/072926_melendez_swatting/man-seeks-millions-after-being-shot-by-pima-deputies-swatting-incident/)
 * [2026-07-30, 19:34:27](https://news.ycombinator.com/item?id=49114639) - [Agent Skill to Force Docs in ASD-STE100 Simplified Technical English](https://github.com/AminBlg/SimpleEnglish)
 * [2026-07-30, 18:40:52](https://news.ycombinator.com/item?id=49113929) - [UEFA and its national associations will not participate in FIFA competitions](https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/)
@@ -29,6 +28,7 @@
 * [2026-07-28, 13:56:27](https://news.ycombinator.com/item?id=49083970) - [Memo-1: A 6502 computer built from scratch, using a Minitel as its terminal](https://github.com/MemoireMorte/Memo-1)
 * [2026-07-27, 15:48:09](https://news.ycombinator.com/item?id=49071299) - [Bad Apple but It's Traceroute](https://jssfr.de/2026-07-27-bad-apple-but-traceroute.html)
 * [2026-07-26, 23:35:15](https://news.ycombinator.com/item?id=49063454) - [Show HN: Optimize and serve models with Fable quality at half the cost](https://github.com/experientiallabs/world-model-optimizer)
+* [2026-07-25, 15:59:13](https://news.ycombinator.com/item?id=49048728) - [How to Mount a Balcony Awning (2025)](https://solar.lowtechmagazine.com/2025/07/how-to-mount-a-balcony-awning/)
 * [2026-07-25, 14:27:05](https://news.ycombinator.com/item?id=49047839) - [2x, not 10x: coding with LLMs in 2026](https://obryant.dev/p/2x-not-10x/)
 
 ## [Archives](archives/index.md)
