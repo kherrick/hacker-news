@@ -6,6 +6,7 @@
 
 * [2026-07-30, 18:40:52](https://news.ycombinator.com/item?id=49113929) - [UEFA and its national associations will not participate in FIFA competitions](https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/)
 * [2026-07-30, 18:39:32](https://news.ycombinator.com/item?id=49113913) - [Postgres Queues Actually Scale](https://www.dbos.dev/blog/making-postgres-queues-scale)
+* [2026-07-30, 18:36:23](https://news.ycombinator.com/item?id=49113864) - [What would it mean to see a new color?](https://www.newyorker.com/magazine/2026/08/03/what-would-it-mean-to-see-a-new-color)
 * [2026-07-30, 18:31:02](https://news.ycombinator.com/item?id=49113801) - [So you want to use plants to reduce CO₂](https://dynomight.net/plants/)
 * [2026-07-30, 18:13:06](https://news.ycombinator.com/item?id=49113599) - [Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it](https://www.ctgt.ai/research/distillation-censorship-transfer)
 * [2026-07-30, 18:08:48](https://news.ycombinator.com/item?id=49113543) - [Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents](https://github.com/yashmahajan10/llm-differential-privacy-gateway)
@@ -18,6 +19,7 @@
 * [2026-07-30, 16:33:41](https://news.ycombinator.com/item?id=49112327) - [Toot.community Is Shutting Down](https://social.jorijn.com/@jorijn/statuses/01KYN00AP3NCZXCFB96KQB8GN2)
 * [2026-07-30, 16:26:16](https://news.ycombinator.com/item?id=49112232) - [Stacked PRs are now live on GitHub](https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/)
 * [2026-07-30, 15:49:03](https://news.ycombinator.com/item?id=49111687) - [Pgtestdb's template cloning approach to testing is fast](https://brandur.org/fragments/pgtestdb)
+* [2026-07-30, 15:38:54](https://news.ycombinator.com/item?id=49111523) - [Solving poker in custom WebGPU kernels](https://phulin.me/blog/poker/)
 * [2026-07-30, 15:23:09](https://news.ycombinator.com/item?id=49111312) - [Show HN: I think I made my own web version of minimalistic audacity](https://github.com/askpext/HERTZ)
 * [2026-07-30, 15:22:46](https://news.ycombinator.com/item?id=49111305) - [Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up](https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/)
 * [2026-07-30, 15:15:48](https://news.ycombinator.com/item?id=49111237) - [Gemini Robotics 2 brings whole body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/)

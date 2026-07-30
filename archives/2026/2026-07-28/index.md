@@ -54,6 +54,7 @@
 * [2026-07-28, 14:25:36](https://news.ycombinator.com/item?id=49084404) - [Ask HN: Crooked Timber showed showed me a virus captcha, What now?](https://news.ycombinator.com/item?id=49084404)
 * [2026-07-28, 14:05:51](https://news.ycombinator.com/item?id=49084091) - [Italy Blocks Reproductive Health Websites Women on Web and Women Help Women](https://ooni.org/post/2026-italy-blocks-wow-and-whw)
 * [2026-07-28, 14:00:37](https://news.ycombinator.com/item?id=49084031) - [Why a $154B CEO just endorsed stripping most Americans of voting rights](https://fortune.com/2026/07/27/shopify-ceo-voting-rights-stripping-americans-19th-century/)
+* [2026-07-28, 13:56:27](https://news.ycombinator.com/item?id=49083970) - [Memo-1: A 6502 computer built from scratch, using a Minitel as its terminal](https://github.com/MemoireMorte/Memo-1)
 * [2026-07-28, 13:33:42](https://news.ycombinator.com/item?id=49083634) - [VMs can't boot with Network Mode set to Bridged on Apple M5 Pro machines](https://github.com/utmapp/UTM/issues/7658)
 * [2026-07-28, 13:16:52](https://news.ycombinator.com/item?id=49083389) - [Show HN: tale.fyi, we deserve a home for fiction](https://tale.fyi/@sam/announcing-tale-fyi-read-or-listen-to-an-entire-book-from-a-single-link)
 * [2026-07-28, 13:15:19](https://news.ycombinator.com/item?id=49083364) - [Over 150k Flights: Airlines Just Flew the Busiest Day in Recorded History](https://simpleflying.com/over-150000-flights-airlines-busiest-day-recorded-history/)
