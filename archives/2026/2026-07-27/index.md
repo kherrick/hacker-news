@@ -53,6 +53,7 @@
 * [2026-07-27, 15:08:16](https://news.ycombinator.com/item?id=49070756) - [Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles](https://eaton-works.com/2026/07/27/my-eicher-hack/)
 * [2026-07-27, 14:42:41](https://news.ycombinator.com/item?id=49070427) - [Apple Will 'Watch Everything Burn' When the AI Bubble Bursts](https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/)
 * [2026-07-27, 14:22:34](https://news.ycombinator.com/item?id=49070138) - [Paged Out #9 [pdf]](https://pagedout.institute/download/PagedOut_009.pdf)
+* [2026-07-27, 14:18:23](https://news.ycombinator.com/item?id=49070073) - [The Glass Famine](https://edconway.substack.com/p/the-glass-famine)
 * [2026-07-27, 14:07:48](https://news.ycombinator.com/item?id=49069939) - [AI companies spend record sums on Washington lobbying](https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db)
 * [2026-07-27, 13:57:33](https://news.ycombinator.com/item?id=49069791) - [DIY Home Solar System for under $5000](https://www.gavinmai.com/1736354308000-diy-home-solar-backup-system)
 * [2026-07-27, 13:29:12](https://news.ycombinator.com/item?id=49069447) - [We Tested Nonstick Cookware: Coatings Don't Need to Look Worn to Shed Particles](https://www.rtings.com/air-fryer/learn/research/ptfe-cookware-shedding)
