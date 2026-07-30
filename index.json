@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-07-30, 22:33:11",
+      "https://news.ycombinator.com/item?id=49116721"
+    ],
+    [
+      "I flagged two research papers for fake authors and both were accepted as orals",
+      "https://geospatialml.com/posts/reviewing-ai-slop/"
+    ]
+  ],
+  [
+    [
       "2026-07-30, 21:47:31",
       "https://news.ycombinator.com/item?id=49116272"
     ],
     [
       "Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free",
       "https://rune.build/blog/rune-1-1-release"
+    ]
+  ],
+  [
+    [
+      "2026-07-30, 21:31:03",
+      "https://news.ycombinator.com/item?id=49116074"
+    ],
+    [
+      "Saber-toothed cats became inbred–and struggled to move–before they went extinct",
+      "https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct"
     ]
   ],
   [
@@ -37,16 +57,6 @@
     [
       "Making Postgres queues scale",
       "https://www.dbos.dev/blog/making-postgres-queues-scale"
-    ]
-  ],
-  [
-    [
-      "2026-07-30, 18:31:02",
-      "https://news.ycombinator.com/item?id=49113801"
-    ],
-    [
-      "So you want to use plants to reduce CO₂",
-      "https://dynomight.net/plants/"
     ]
   ],
   [
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2026-07-30, 08:10:33",
-      "https://news.ycombinator.com/item?id=49107246"
-    ],
-    [
-      "Ron Gilbert started production on Thimbleweed Park 2",
-      "https://www.grumpygamer.com/twp2_announce/"
-    ]
-  ],
-  [
-    [
       "2026-07-29, 16:15:57",
       "https://news.ycombinator.com/item?id=49099434"
     ],
@@ -271,22 +271,22 @@
   ],
   [
     [
-      "2026-07-28, 08:56:33",
-      "https://news.ycombinator.com/item?id=49081192"
-    ],
-    [
-      "One Ring to Rule Them All: Wiring Radios to Laptops the Hard Way",
-      "https://www.lysk.ai/post/wiring-radios-to-laptops-the-hard-way"
-    ]
-  ],
-  [
-    [
       "2026-07-27, 15:48:09",
       "https://news.ycombinator.com/item?id=49071299"
     ],
     [
       "Bad Apple but It's Traceroute",
       "https://jssfr.de/2026-07-27-bad-apple-but-traceroute.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-27, 00:03:48",
+      "https://news.ycombinator.com/item?id=49063648"
+    ],
+    [
+      "Show HN: Port Zero – how I learned to stop worrying and love PORT=0",
+      "https://portzero.net/"
     ]
   ],
   [
