@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-30](index.md)
 
+* [2026-07-30, 20:53:41](https://news.ycombinator.com/item?id=49115620) - [I obtained Claude Opus 5 system prompt](https://claude.ai/share/98073770-0ad9-431f-a1e7-e0243db18758)
+* [2026-07-30, 20:44:13](https://news.ycombinator.com/item?id=49115506) - [Man seeks millions after being shot by police in game-related swatting incident](https://www.tucsonsentinel.com/local/report/072926_melendez_swatting/man-seeks-millions-after-being-shot-by-pima-deputies-swatting-incident/)
 * [2026-07-30, 19:34:27](https://news.ycombinator.com/item?id=49114639) - [Agent Skill to Force Docs in ASD-STE100 Simplified Technical English](https://github.com/AminBlg/SimpleEnglish)
 * [2026-07-30, 18:40:52](https://news.ycombinator.com/item?id=49113929) - [UEFA and its national associations will not participate in FIFA competitions](https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/)
 * [2026-07-30, 18:39:32](https://news.ycombinator.com/item?id=49113913) - [Postgres Queues Actually Scale](https://www.dbos.dev/blog/making-postgres-queues-scale)
