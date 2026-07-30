@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-30, 23:00:51](https://news.ycombinator.com/item?id=49116922) - [Investigating three real-world incidents in our cybersecurity evaluations](https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals)
 * [2026-07-30, 22:33:11](https://news.ycombinator.com/item?id=49116721) - [I flagged two research papers for fake authors and both were accepted as orals](https://geospatialml.com/posts/reviewing-ai-slop/)
 * [2026-07-30, 21:47:31](https://news.ycombinator.com/item?id=49116272) - [Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free](https://rune.build/blog/rune-1-1-release)
 * [2026-07-30, 21:31:03](https://news.ycombinator.com/item?id=49116074) - [Saber-toothed cats became inbred–and struggled to move–before they went extinct](https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct)
@@ -18,7 +19,6 @@
 * [2026-07-30, 15:15:48](https://news.ycombinator.com/item?id=49111237) - [Gemini Robotics 2 brings whole body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/)
 * [2026-07-30, 15:10:27](https://news.ycombinator.com/item?id=49111176) - [The Economic Benefit of Refactoring](https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html)
 * [2026-07-30, 14:29:27](https://news.ycombinator.com/item?id=49110547) - [Hacker Public Radio](https://hackerpublicradio.org/)
-* [2026-07-30, 14:15:19](https://news.ycombinator.com/item?id=49110348) - [Why DNA damage from smoking and UV rays cause cancer in some but not others](https://www.cam.ac.uk/research/news/study-reveals-why-dna-damage-from-smoking-and-uv-rays-may-cause-cancer-in-some-people-but-not-others)
 * [2026-07-30, 14:11:42](https://news.ycombinator.com/item?id=49110308) - [The lost civic life of movie rental stores](https://thereader.mitpress.mit.edu/the-lost-civic-life-of-movie-rental-stores/)
 * [2026-07-30, 13:29:03](https://news.ycombinator.com/item?id=49109721) - [Launch HN: Prized (YC S26) – Let non-engineer staff build secure internal tools](https://prized.dev)
 * [2026-07-30, 13:21:34](https://news.ycombinator.com/item?id=49109616) - [Upper stage impacting the moon on 2026 August 5](https://www.projectpluto.com/25010d.htm)
@@ -28,7 +28,7 @@
 * [2026-07-29, 16:15:57](https://news.ycombinator.com/item?id=49099434) - [Show HN: Kedge – Full-stack cloud with forkable VM snapshots and global SQLite](https://kedge.dev/)
 * [2026-07-28, 13:56:27](https://news.ycombinator.com/item?id=49083970) - [Memo-1: A 6502 computer built from scratch, using a Minitel as its terminal](https://github.com/MemoireMorte/Memo-1)
 * [2026-07-27, 15:48:09](https://news.ycombinator.com/item?id=49071299) - [Bad Apple but It's Traceroute](https://jssfr.de/2026-07-27-bad-apple-but-traceroute.html)
-* [2026-07-27, 00:03:48](https://news.ycombinator.com/item?id=49063648) - [Show HN: Port Zero – how I learned to stop worrying and love PORT=0](https://portzero.net/)
+* [2026-07-27, 00:03:48](https://news.ycombinator.com/item?id=49063648) - [Show HN: Port Zero – How I learned to stop worrying and love PORT=0](https://portzero.net/)
 * [2026-07-25, 14:27:05](https://news.ycombinator.com/item?id=49047839) - [2x, not 10x: coding with LLMs in 2026](https://obryant.dev/p/2x-not-10x/)
 
 ## [Archives](archives/index.md)
