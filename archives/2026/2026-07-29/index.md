@@ -27,6 +27,7 @@
 * [2026-07-29, 18:40:52](https://news.ycombinator.com/item?id=49101334) - [A field day for Gleam's language server – Gleam v1.18.0 release](https://gleam.run/news/a-field-day-for-gleams-language-server/)
 * [2026-07-29, 18:28:51](https://news.ycombinator.com/item?id=49101198) - [Turning a Dumb AC Unit Smart (Without Losing My Security Deposit)](https://prilik.com/blog/post/automating-ac-nyc/)
 * [2026-07-29, 18:28:49](https://news.ycombinator.com/item?id=49101197) - [Why has the display control panel pointer truncation bug gone unfixed for long?](https://devblogs.microsoft.com/oldnewthing/20260717-00/?p=112541)
+* [2026-07-29, 17:34:35](https://news.ycombinator.com/item?id=49100518) - [Show HN: Supapool – a Supabase per coding agent in ~400 ms](https://supapool.io/)
 * [2026-07-29, 17:01:10](https://news.ycombinator.com/item?id=49100056) - [PgDog (YC P25) Is Hiring](https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer)
 * [2026-07-29, 16:59:52](https://news.ycombinator.com/item?id=49100043) - [Show HN: CheapFoodMap – A map of good meals under $10](https://cheapfoodmap.com/)
 * [2026-07-29, 16:59:04](https://news.ycombinator.com/item?id=49100035) - [Infrastructure Patterns for Agentic Applications](https://render.com/blog/infrastructure-patterns-for-agentic-applications)
