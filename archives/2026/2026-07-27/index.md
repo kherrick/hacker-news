@@ -72,6 +72,7 @@
 * [2026-07-27, 10:33:25](https://news.ycombinator.com/item?id=49067556) - [If digital computers are conscious, they are conscious at the hardware level](https://smoothbrains.net/posts/2026-05-09-digital-consciousness.html)
 * [2026-07-27, 10:04:48](https://news.ycombinator.com/item?id=49067352) - [Libsm64: Mario 64 as a library for use in external game engines](https://github.com/libsm64/libsm64)
 * [2026-07-27, 09:58:50](https://news.ycombinator.com/item?id=49067301) - [Removing React.js from the codebase and adapting Htmx for UI interactivity](https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/)
+* [2026-07-27, 09:39:16](https://news.ycombinator.com/item?id=49067162) - [The Alice and Bob After Dinner Speech (1984)](https://hex.ooo/library/alicebob.html)
 * [2026-07-27, 09:28:17](https://news.ycombinator.com/item?id=49067076) - [Show HN: NameThatUI – A quiz game to test your UI design knowledge](https://namethatui.org/)
 * [2026-07-27, 09:23:29](https://news.ycombinator.com/item?id=49067043) - [Shay Locomotives](https://www.shaylocomotives.com/)
 * [2026-07-27, 09:11:59](https://news.ycombinator.com/item?id=49066962) - [Chinese chipmaker shares surge 470%](https://www.bbc.com/news/articles/c9q9w3x9qn2o)
