@@ -29,6 +29,7 @@
 * [2026-07-25, 19:06:45](https://news.ycombinator.com/item?id=49050566) - [Show HN: Bribes.fyi – Know before you go. New feature added](https://bribes.fyi/before-you-go)
 * [2026-07-25, 19:02:17](https://news.ycombinator.com/item?id=49050538) - [The growing vigilante movement to knock out Flock surveillance cameras](https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/flock-surveillance-cameras)
 * [2026-07-25, 18:59:50](https://news.ycombinator.com/item?id=49050512) - [Running a 28.9M parameter LLM on an $8 microcontroller](https://github.com/slvDev/esp32-ai)
+* [2026-07-25, 18:27:41](https://news.ycombinator.com/item?id=49050218) - [ESP32-C6 Power Consumption: Arduino vs. Zephyr vs. ESP-IDF Comparison](https://www.qoitech.com/blog/esp32-c6-power-consumption-comparison/)
 * [2026-07-25, 18:18:42](https://news.ycombinator.com/item?id=49050152) - [Tile's Security Is So Bad It's a Feature for Stalkers](https://blog.adafruit.com/2026/03/05/tiles-security-is-so-bad-its-a-feature-for-stalkers/)
 * [2026-07-25, 18:08:52](https://news.ycombinator.com/item?id=49050058) - [Memory Safety Absolutists](https://itsallaboutthebit.com/memory-safety-absolutists/)
 * [2026-07-25, 18:05:59](https://news.ycombinator.com/item?id=49050021) - [Three Theses on the Literacy Crisis](https://trevoraleo.substack.com/p/three-theses-on-the-literacy-crisis)

@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-07-30](index.md)
 
+* [2026-07-30, 07:54:13](https://news.ycombinator.com/item?id=49107145) - [I Have Thoughts on the iPhone Air](https://christianselig.com/2026/07/iphone-air-review/)
 * [2026-07-30, 06:09:35](https://news.ycombinator.com/item?id=49106568) - [Claude is down for 2nd consecutive day](https://status.claude.com/incidents/fsh2zzzl2c4l)
 * [2026-07-30, 06:03:26](https://news.ycombinator.com/item?id=49106529) - [Show HN: Edge Drop- #1 productivity and unique clipboard 200 stars on GitHub](https://github.com/Deepender25/Edge-Drop)
 * [2026-07-30, 05:33:30](https://news.ycombinator.com/item?id=49106384) - [1,741 \"informed\" consents with one click? GDPR complaint filed](https://noyb.eu/en/1741-informed-consents-one-click-gdpr-complaint-against-dictcc-filed)
+* [2026-07-30, 03:44:38](https://news.ycombinator.com/item?id=49105924) - [Why the future is local app](https://getapps.cafe/blog/why-the-future-is-local-app)
 * [2026-07-30, 02:55:21](https://news.ycombinator.com/item?id=49105642) - [NSF pilots 4-year PhDs with industry research placements](https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four)
 * [2026-07-30, 02:41:16](https://news.ycombinator.com/item?id=49105563) - [Kuna: Decompiler Development in the Age of Coding Agents](https://noelo.org/blog/kuna-release/)
 * [2026-07-30, 01:35:10](https://news.ycombinator.com/item?id=49105190) - [A pharmacy chain in Vermont implemented AI for efficiency](https://vtdigger.org/2026/07/29/a-pharmacy-chain-in-vermont-implemented-ai-for-efficiency-its-led-to-delays-incorrect-information-and-privacy-concerns/)
