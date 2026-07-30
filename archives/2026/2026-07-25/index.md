@@ -51,6 +51,7 @@
 * [2026-07-25, 14:41:06](https://news.ycombinator.com/item?id=49047969) - [The AI jobs apocalypse probably isn't coming anytime soon](https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor)
 * [2026-07-25, 14:32:16](https://news.ycombinator.com/item?id=49047884) - [Task-centered iproute2 user guide](https://baturin.org/docs/iproute2/)
 * [2026-07-25, 14:10:43](https://news.ycombinator.com/item?id=49047707) - [Scanwheel is a drum style mechanical television you can build yourself](https://github.com/AncientJames/Scanwheel/)
+* [2026-07-25, 14:08:57](https://news.ycombinator.com/item?id=49047692) - [London’s most equidistant pub](https://equidistance.io/londons-most-equidistant-pub/)
 * [2026-07-25, 13:48:11](https://news.ycombinator.com/item?id=49047563) - [The Silurian Hypothesis (2020)](https://www.theparisreview.org/blog/2020/01/23/the-silurian-hypothesis/)
 * [2026-07-25, 13:42:28](https://news.ycombinator.com/item?id=49047516) - [My web version of Mars MIPS, now have builtin C compiler](https://webmars.nfiles.top/)
 * [2026-07-25, 13:33:49](https://news.ycombinator.com/item?id=49047453) - [A shell colon does nothing. Use it anyway](https://refp.se/articles/your-shell-and-the-magic-colon)
