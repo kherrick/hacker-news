@@ -10,6 +10,7 @@
 * [2026-07-29, 22:27:09](https://news.ycombinator.com/item?id=49103910) - [GitHub is the wrong shape for this new world](https://depot.dev/blog/github-is-the-wrong-shape-for-this-new-world)
 * [2026-07-29, 21:25:40](https://news.ycombinator.com/item?id=49103285) - [AI's top startups are barely publishing their research](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research)
 * [2026-07-29, 21:06:42](https://news.ycombinator.com/item?id=49103089) - [The Cold Email](https://zachholman.com/posts/cold-email)
+* [2026-07-29, 21:03:50](https://news.ycombinator.com/item?id=49103059) - [RCade: The Arcade Cabinet with CI/CD Deployment, Custom Graphics Card for CRT [video]](https://www.youtube.com/watch?v=W-OpIbLUOU0)
 * [2026-07-29, 21:01:01](https://news.ycombinator.com/item?id=49103026) - [SalesPatriot (YC W25) Is Hiring FDEs](https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer)
 * [2026-07-29, 20:39:40](https://news.ycombinator.com/item?id=49102774) - [The coolest use for the Vision Pro](https://christianselig.com/2026/07/vision-pro-house/)
 * [2026-07-29, 20:21:48](https://news.ycombinator.com/item?id=49102525) - [Theo Conjecture solves 35-year-old math problem, finds a term no one predicted](https://firstprinciples.com/blog-article/ai-system-theo-conjecture-solves-35-year-old-math-conjecture)

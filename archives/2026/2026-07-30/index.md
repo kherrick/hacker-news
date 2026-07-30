@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-07-30](index.md)
 
+* [2026-07-30, 15:23:09](https://news.ycombinator.com/item?id=49111312) - [Show HN: I think I made my own web version of minimalistic audacity](https://github.com/askpext/HERTZ)
+* [2026-07-30, 15:22:46](https://news.ycombinator.com/item?id=49111305) - [Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up](https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/)
 * [2026-07-30, 15:15:48](https://news.ycombinator.com/item?id=49111237) - [Gemini Robotics 2 brings whole body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/)
 * [2026-07-30, 15:10:27](https://news.ycombinator.com/item?id=49111176) - [The Economic Benefit of Refactoring](https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html)
+* [2026-07-30, 14:58:59](https://news.ycombinator.com/item?id=49111019) - [Show HN: Claude-account – switch Claude Code accounts without logging in again](https://github.com/hamzarehmandeveloper/claude-account)
 * [2026-07-30, 14:58:07](https://news.ycombinator.com/item?id=49111006) - [Paging Through a Parquet File in DuckDB: File_row_number or Offset?](https://rusty.today/blog/paging-parquet-duckdb-file-row-number-vs-offset/)
 * [2026-07-30, 14:36:59](https://news.ycombinator.com/item?id=49110655) - [SDL_GPU minimal, single-header, high-performance 2D graphics painting library](https://github.com/n67094/sdl_gp)
 * [2026-07-30, 14:31:13](https://news.ycombinator.com/item?id=49110577) - [Trusted URLs via Cryptographic Signatures](https://blog.certisfy.com/2026/04/trusted-urls-via-cryptographic.html)
