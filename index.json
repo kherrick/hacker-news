@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-07-30, 15:15:48",
+      "https://news.ycombinator.com/item?id=49111237"
+    ],
+    [
+      "Gemini Robotics 2 brings whole body intelligence to robots",
+      "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/"
+    ]
+  ],
+  [
+    [
+      "2026-07-30, 15:10:27",
+      "https://news.ycombinator.com/item?id=49111176"
+    ],
+    [
+      "The Economic Benefit of Refactoring",
+      "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-30, 14:58:07",
+      "https://news.ycombinator.com/item?id=49111006"
+    ],
+    [
+      "Paging Through a Parquet File in DuckDB: File_row_number or Offset?",
+      "https://rusty.today/blog/paging-parquet-duckdb-file-row-number-vs-offset/"
+    ]
+  ],
+  [
+    [
       "2026-07-30, 14:36:59",
       "https://news.ycombinator.com/item?id=49110655"
     ],
@@ -31,6 +61,16 @@
   ],
   [
     [
+      "2026-07-30, 14:18:52",
+      "https://news.ycombinator.com/item?id=49110389"
+    ],
+    [
+      "Git worktrees are not an isolation boundary for coding agents",
+      "https://fletch.sh/blog/git-worktrees-vs-clones-for-ai-agents/"
+    ]
+  ],
+  [
+    [
       "2026-07-30, 14:15:19",
       "https://news.ycombinator.com/item?id=49110348"
     ],
@@ -51,26 +91,6 @@
   ],
   [
     [
-      "2026-07-30, 14:04:18",
-      "https://news.ycombinator.com/item?id=49110215"
-    ],
-    [
-      "Show HN: I audited my AI leaderboard scale – every score dropped 6-15 points",
-      "https://agiranker.com/"
-    ]
-  ],
-  [
-    [
-      "2026-07-30, 13:55:09",
-      "https://news.ycombinator.com/item?id=49110085"
-    ],
-    [
-      "Europe's fires are just the start",
-      "https://economist.com/leaders/2026/07/28/europes-fires-are-just-the-start"
-    ]
-  ],
-  [
-    [
       "2026-07-30, 13:29:03",
       "https://news.ycombinator.com/item?id=49109721"
     ],
@@ -81,22 +101,22 @@
   ],
   [
     [
+      "2026-07-30, 13:21:34",
+      "https://news.ycombinator.com/item?id=49109616"
+    ],
+    [
+      "Upper stage impacting the moon on 2026 August 5",
+      "https://www.projectpluto.com/25010d.htm"
+    ]
+  ],
+  [
+    [
       "2026-07-30, 13:07:53",
       "https://news.ycombinator.com/item?id=49109474"
     ],
     [
       "RFC 8890 – The Internet is for End Users (2020)",
       "https://mnot.net/blog/2020/for_the_users"
-    ]
-  ],
-  [
-    [
-      "2026-07-30, 13:03:27",
-      "https://news.ycombinator.com/item?id=49109440"
-    ],
-    [
-      "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
-      "https://remysharp.com/links/2026-07-23-35890312"
     ]
   ],
   [
@@ -117,16 +137,6 @@
     [
       "Why Don't People Use Formal Methods? (2019)",
       "https://www.hillelwayne.com/post/why-dont-people-use-formal-methods/"
-    ]
-  ],
-  [
-    [
-      "2026-07-30, 12:14:23",
-      "https://news.ycombinator.com/item?id=49108971"
-    ],
-    [
-      "How Old Is Ann?",
-      "https://quuxplusone.github.io/blog/2026/07/29/how-old-is-ann/"
     ]
   ],
   [
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2026-07-30, 09:28:01",
-      "https://news.ycombinator.com/item?id=49107713"
-    ],
-    [
-      "Carolina Cloud pays SOFR on unused prepaid credits",
-      "https://docs.carolinacloud.io/organizations/prepaid-interest/"
-    ]
-  ],
-  [
-    [
       "2026-07-30, 08:10:33",
       "https://news.ycombinator.com/item?id=49107246"
     ],
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2026-07-29, 22:51:03",
-      "https://news.ycombinator.com/item?id=49104117"
+      "2026-07-29, 23:18:11",
+      "https://news.ycombinator.com/item?id=49104335"
     ],
     [
-      "LLM Honeypot",
-      "https://llm2human.pages.dev/"
+      "The Productivity Mirage",
+      "https://frantic.im/mirage/"
     ]
   ],
   [
