@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-30, 17:31:07",
+      "https://news.ycombinator.com/item?id=49113059"
+    ],
+    [
+      "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
+      "https://www.bottlenecklabs.com/blog/autonomously-run-businesses"
+    ]
+  ],
+  [
+    [
       "2026-07-30, 17:15:51",
       "https://news.ycombinator.com/item?id=49112867"
     ],
@@ -45,8 +55,18 @@
       "https://news.ycombinator.com/item?id=49112327"
     ],
     [
-      "Toot.community Is Shutting Down",
+      "Toot.community is shutting down",
       "https://social.jorijn.com/@jorijn/statuses/01KYN00AP3NCZXCFB96KQB8GN2"
+    ]
+  ],
+  [
+    [
+      "2026-07-30, 16:26:16",
+      "https://news.ycombinator.com/item?id=49112232"
+    ],
+    [
+      "Stacked PRs are now live on GitHub",
+      "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2026-07-30, 11:55:39",
-      "https://news.ycombinator.com/item?id=49108778"
-    ],
-    [
-      "Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)",
-      "https://github.com/grafana/ai-sdk"
-    ]
-  ],
-  [
-    [
       "2026-07-30, 11:45:01",
       "https://news.ycombinator.com/item?id=49108678"
     ],
@@ -271,16 +281,6 @@
   ],
   [
     [
-      "2026-07-27, 14:18:23",
-      "https://news.ycombinator.com/item?id=49070073"
-    ],
-    [
-      "The Glass Famine",
-      "https://edconway.substack.com/p/the-glass-famine"
-    ]
-  ],
-  [
-    [
       "2026-07-27, 09:39:16",
       "https://news.ycombinator.com/item?id=49067162"
     ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=49048728"
     ],
     [
-      "How to Mount a Balcony Awning",
+      "How to Mount a Balcony Awning (2025)",
       "https://solar.lowtechmagazine.com/2025/07/how-to-mount-a-balcony-awning/"
     ]
   ]
