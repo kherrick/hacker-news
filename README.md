@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-30, 05:33:30](https://news.ycombinator.com/item?id=49106384) - [1,741 \"informed\" consents with one click? GDPR complaint filed](https://noyb.eu/en/1741-informed-consents-one-click-gdpr-complaint-against-dictcc-filed)
 * [2026-07-30, 02:55:21](https://news.ycombinator.com/item?id=49105642) - [NSF pilots 4-year PhDs with industry research placements](https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four)
 * [2026-07-30, 02:41:16](https://news.ycombinator.com/item?id=49105563) - [Kuna: Decompiler Development in the Age of Coding Agents](https://noelo.org/blog/kuna-release/)
 * [2026-07-30, 00:51:39](https://news.ycombinator.com/item?id=49104937) - [Logic for Programmers](https://logicforprogrammers.com/)
@@ -22,10 +23,9 @@
 * [2026-07-29, 15:41:33](https://news.ycombinator.com/item?id=49098965) - [Superlogical](https://www.superlogical.com/)
 * [2026-07-29, 15:05:43](https://news.ycombinator.com/item?id=49098510) - [Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac](https://github.com/drumih/turbo-fieldfare)
 * [2026-07-29, 14:43:47](https://news.ycombinator.com/item?id=49098198) - [A.I. companies are recruiting electricians and carpenters by the thousands](https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html)
-* [2026-07-29, 12:33:02](https://news.ycombinator.com/item?id=49096654) - [Darktable](https://www.darktable.org/)
-* [2026-07-29, 04:30:36](https://news.ycombinator.com/item?id=49093434) - [User Interfaces of the Demo Scene](https://www.datagubbe.se/scenegui/)
 * [2026-07-28, 20:28:33](https://news.ycombinator.com/item?id=49089500) - [Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident](https://huggingface.co/blog/agent-intrusion-technical-timeline)
 * [2026-07-28, 06:11:18](https://news.ycombinator.com/item?id=49080031) - [Recursive Filters: SMA, EMA, Low‑Pass, and a Tiny Kalman](https://www.staszewski.xyz/blog/recursive-filters/)
+* [2026-07-27, 13:21:20](https://news.ycombinator.com/item?id=49069345) - [The Royal Order of Operations](https://ken.fyi/ooo)
 * [2026-07-27, 06:23:46](https://news.ycombinator.com/item?id=49065785) - [Hamburg's Stadtpark: A Park Built to Be Used](https://alsterrunde.com/hamburgs-stadtpark-a-park-built-to-be-used/)
 * [2026-07-26, 22:18:42](https://news.ycombinator.com/item?id=49062997) - [Refactoring cuisine: how an Iraqi stew sailed to Singapore](https://iza.ac/posts/2026/07/the-journey-of-bamya/)
 * [2026-07-26, 18:57:36](https://news.ycombinator.com/item?id=49061213) - [Angels in Coptic Magic I: Introduction](https://www.coptic-magic.phil.uni-wuerzburg.de/index.php/2026/01/16/angels-in-coptic-magic-i-introduction/)

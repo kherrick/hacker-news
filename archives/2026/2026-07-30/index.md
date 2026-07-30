@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-30](index.md)
 
+* [2026-07-30, 05:33:30](https://news.ycombinator.com/item?id=49106384) - [1,741 \"informed\" consents with one click? GDPR complaint filed](https://noyb.eu/en/1741-informed-consents-one-click-gdpr-complaint-against-dictcc-filed)
 * [2026-07-30, 02:55:21](https://news.ycombinator.com/item?id=49105642) - [NSF pilots 4-year PhDs with industry research placements](https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four)
 * [2026-07-30, 02:41:16](https://news.ycombinator.com/item?id=49105563) - [Kuna: Decompiler Development in the Age of Coding Agents](https://noelo.org/blog/kuna-release/)
 * [2026-07-30, 01:35:10](https://news.ycombinator.com/item?id=49105190) - [A pharmacy chain in Vermont implemented AI for efficiency](https://vtdigger.org/2026/07/29/a-pharmacy-chain-in-vermont-implemented-ai-for-efficiency-its-led-to-delays-incorrect-information-and-privacy-concerns/)
