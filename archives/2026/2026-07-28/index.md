@@ -73,6 +73,7 @@
 * [2026-07-28, 09:52:31](https://news.ycombinator.com/item?id=49081594) - [What Even Are Microservices?](https://var0.xyz/posts/what-even-are-microservices.html)
 * [2026-07-28, 09:45:43](https://news.ycombinator.com/item?id=49081555) - [About the security content of macOS Tahoe 26.6](https://support.apple.com/en-us/128067)
 * [2026-07-28, 07:44:24](https://news.ycombinator.com/item?id=49080664) - [7.1 Earthquake in Japan](https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en)
+* [2026-07-28, 06:11:18](https://news.ycombinator.com/item?id=49080031) - [Recursive Filters: SMA, EMA, Low‑Pass, and a Tiny Kalman](https://www.staszewski.xyz/blog/recursive-filters/)
 * [2026-07-28, 05:25:34](https://news.ycombinator.com/item?id=49079727) - [Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts](https://arsastronomica.com/)
 * [2026-07-28, 04:49:54](https://news.ycombinator.com/item?id=49079490) - [Neutrino-1 8B](https://www.fermionresearch.com/models/neutrino-8b/)
 * [2026-07-28, 04:46:00](https://news.ycombinator.com/item?id=49079454) - [PyTorch: A Reference Language](https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/)
