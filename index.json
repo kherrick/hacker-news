@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=49113913"
     ],
     [
-      "Postgres Queues Actually Scale",
+      "Making Postgres queues scale",
       "https://www.dbos.dev/blog/making-postgres-queues-scale"
     ]
   ],
@@ -27,6 +27,16 @@
     [
       "So you want to use plants to reduce CO₂",
       "https://dynomight.net/plants/"
+    ]
+  ],
+  [
+    [
+      "2026-07-30, 18:13:06",
+      "https://news.ycombinator.com/item?id=49113599"
+    ],
+    [
+      "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
+      "https://www.ctgt.ai/research/distillation-censorship-transfer"
     ]
   ],
   [
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=49112744"
     ],
     [
-      "Read This Before You Buy That TV Streaming Stick",
+      "Read this before you buy that TV streaming stick",
       "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/"
     ]
   ],
@@ -241,26 +251,6 @@
   ],
   [
     [
-      "2026-07-30, 11:33:02",
-      "https://news.ycombinator.com/item?id=49108571"
-    ],
-    [
-      "Show HN: I made a game where you build a CPU from logic gates",
-      "https://select.supply/game/chipbuilder"
-    ]
-  ],
-  [
-    [
-      "2026-07-30, 11:23:12",
-      "https://news.ycombinator.com/item?id=49108485"
-    ],
-    [
-      "3D Pinball for Windows (1995)",
-      "https://98.js.org/programs/pinball/space-cadet.html"
-    ]
-  ],
-  [
-    [
       "2026-07-30, 08:10:33",
       "https://news.ycombinator.com/item?id=49107246"
     ],
@@ -271,12 +261,22 @@
   ],
   [
     [
-      "2026-07-29, 21:03:50",
-      "https://news.ycombinator.com/item?id=49103059"
+      "2026-07-29, 17:34:35",
+      "https://news.ycombinator.com/item?id=49100518"
     ],
     [
-      "RCade: The Arcade Cabinet with CI/CD Deployment, Custom Graphics Card for CRT [video]",
-      "https://www.youtube.com/watch?v=W-OpIbLUOU0"
+      "Show HN: Supapool – a Supabase per coding agent in ~400 ms",
+      "https://supapool.io/"
+    ]
+  ],
+  [
+    [
+      "2026-07-26, 23:35:15",
+      "https://news.ycombinator.com/item?id=49063454"
+    ],
+    [
+      "Show HN: Optimize and serve models with Fable quality at half the cost",
+      "https://github.com/experientiallabs/world-model-optimizer"
     ]
   ],
   [
