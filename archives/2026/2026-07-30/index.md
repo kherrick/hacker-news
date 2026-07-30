@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-07-30](index.md)
 
+* [2026-07-30, 17:31:07](https://news.ycombinator.com/item?id=49113059) - [We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447](https://www.bottlenecklabs.com/blog/autonomously-run-businesses)
 * [2026-07-30, 17:15:51](https://news.ycombinator.com/item?id=49112867) - [Advancing the price-performance frontier with GPT‑5.6](https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/)
 * [2026-07-30, 17:04:53](https://news.ycombinator.com/item?id=49112744) - [Read This Before You Buy That TV Streaming Stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/)
 * [2026-07-30, 17:00:21](https://news.ycombinator.com/item?id=49112683) - [Rise Reforming (YC S26) Is Hiring](https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer)
 * [2026-07-30, 16:36:47](https://news.ycombinator.com/item?id=49112368) - [How Olinia Turns Mexico's EV Ambition into Reality](https://spectrum.ieee.org/mexico-olinia-car-electric-vehicle)
 * [2026-07-30, 16:33:41](https://news.ycombinator.com/item?id=49112327) - [Toot.community Is Shutting Down](https://social.jorijn.com/@jorijn/statuses/01KYN00AP3NCZXCFB96KQB8GN2)
+* [2026-07-30, 16:26:16](https://news.ycombinator.com/item?id=49112232) - [Stacked PRs are now live on GitHub](https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/)
 * [2026-07-30, 15:49:03](https://news.ycombinator.com/item?id=49111687) - [Pgtestdb's template cloning approach to testing is fast](https://brandur.org/fragments/pgtestdb)
 * [2026-07-30, 15:23:09](https://news.ycombinator.com/item?id=49111312) - [Show HN: I think I made my own web version of minimalistic audacity](https://github.com/askpext/HERTZ)
 * [2026-07-30, 15:22:46](https://news.ycombinator.com/item?id=49111305) - [Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up](https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/)

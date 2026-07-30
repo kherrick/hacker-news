@@ -1,10 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-30, 17:31:07](https://news.ycombinator.com/item?id=49113059) - [We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447](https://www.bottlenecklabs.com/blog/autonomously-run-businesses)
 * [2026-07-30, 17:15:51](https://news.ycombinator.com/item?id=49112867) - [Advancing the price-performance frontier with GPT‑5.6](https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/)
 * [2026-07-30, 17:04:53](https://news.ycombinator.com/item?id=49112744) - [Read This Before You Buy That TV Streaming Stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/)
 * [2026-07-30, 17:00:21](https://news.ycombinator.com/item?id=49112683) - [Rise Reforming (YC S26) Is Hiring](https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer)
 * [2026-07-30, 16:36:47](https://news.ycombinator.com/item?id=49112368) - [How Olinia Turns Mexico's EV Ambition into Reality](https://spectrum.ieee.org/mexico-olinia-car-electric-vehicle)
-* [2026-07-30, 16:33:41](https://news.ycombinator.com/item?id=49112327) - [Toot.community Is Shutting Down](https://social.jorijn.com/@jorijn/statuses/01KYN00AP3NCZXCFB96KQB8GN2)
+* [2026-07-30, 16:33:41](https://news.ycombinator.com/item?id=49112327) - [Toot.community is shutting down](https://social.jorijn.com/@jorijn/statuses/01KYN00AP3NCZXCFB96KQB8GN2)
+* [2026-07-30, 16:26:16](https://news.ycombinator.com/item?id=49112232) - [Stacked PRs are now live on GitHub](https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/)
 * [2026-07-30, 15:22:46](https://news.ycombinator.com/item?id=49111305) - [Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up](https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/)
 * [2026-07-30, 15:15:48](https://news.ycombinator.com/item?id=49111237) - [Gemini Robotics 2 brings whole body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/)
 * [2026-07-30, 15:10:27](https://news.ycombinator.com/item?id=49111176) - [The Economic Benefit of Refactoring](https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html)
@@ -18,7 +20,6 @@
 * [2026-07-30, 13:07:53](https://news.ycombinator.com/item?id=49109474) - [RFC 8890 – The Internet is for End Users (2020)](https://mnot.net/blog/2020/for_the_users)
 * [2026-07-30, 12:38:51](https://news.ycombinator.com/item?id=49109193) - [Why is everyone trying to build a solid-state battery?](https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a)
 * [2026-07-30, 12:14:23](https://news.ycombinator.com/item?id=49108971) - [How old is Ann?](https://quuxplusone.github.io/blog/2026/07/29/how-old-is-ann/)
-* [2026-07-30, 11:55:39](https://news.ycombinator.com/item?id=49108778) - [Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)](https://github.com/grafana/ai-sdk)
 * [2026-07-30, 11:45:01](https://news.ycombinator.com/item?id=49108678) - [Are We Stuck with Lean?](https://mathoverflow.net/questions/513742/are-we-stuck-with-lean)
 * [2026-07-30, 11:33:02](https://news.ycombinator.com/item?id=49108571) - [Show HN: I made a game where you build a CPU from logic gates](https://select.supply/game/chipbuilder)
 * [2026-07-30, 11:23:12](https://news.ycombinator.com/item?id=49108485) - [3D Pinball for Windows (1995)](https://98.js.org/programs/pinball/space-cadet.html)
@@ -27,9 +28,8 @@
 * [2026-07-29, 21:03:50](https://news.ycombinator.com/item?id=49103059) - [RCade: The Arcade Cabinet with CI/CD Deployment, Custom Graphics Card for CRT [video]](https://www.youtube.com/watch?v=W-OpIbLUOU0)
 * [2026-07-28, 20:29:03](https://news.ycombinator.com/item?id=49089502) - [Azulejo](https://en.wikipedia.org/wiki/Azulejo)
 * [2026-07-27, 20:01:07](https://news.ycombinator.com/item?id=49074842) - [Building a native C# implementation of CEL engine](https://bsid.io/writing/building-a-cel-engine-for-net)
-* [2026-07-27, 14:18:23](https://news.ycombinator.com/item?id=49070073) - [The Glass Famine](https://edconway.substack.com/p/the-glass-famine)
 * [2026-07-27, 09:39:16](https://news.ycombinator.com/item?id=49067162) - [The Alice and Bob After Dinner Speech (1984)](https://hex.ooo/library/alicebob.html)
-* [2026-07-25, 15:59:13](https://news.ycombinator.com/item?id=49048728) - [How to Mount a Balcony Awning](https://solar.lowtechmagazine.com/2025/07/how-to-mount-a-balcony-awning/)
+* [2026-07-25, 15:59:13](https://news.ycombinator.com/item?id=49048728) - [How to Mount a Balcony Awning (2025)](https://solar.lowtechmagazine.com/2025/07/how-to-mount-a-balcony-awning/)
 
 ## [Archives](archives/index.md)
 
