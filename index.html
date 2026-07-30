@@ -142,11 +142,11 @@
             <h4>
               <span>2026-07-30 @ 18:40:52</span
               ><span class="points-container"
-                >Points: <span class="points">243</span></span
+                >Points: <span class="points">323</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49113929"
                   >Comments</a
-                ><span class="descendants">: 145</span></span
+                ><span class="descendants">: 207</span></span
               >
             </h4>
           </section>
@@ -156,18 +156,18 @@
             <a
               class="item"
               href="https://www.dbos.dev/blog/making-postgres-queues-scale"
-              >Postgres Queues Actually Scale</a
+              >Making Postgres queues scale</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-07-30 @ 18:39:32</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">57</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49113913"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -182,13 +182,121 @@
             <h4>
               <span>2026-07-30 @ 18:31:02</span
               ><span class="points-container"
-                >Points: <span class="points">28</span></span
+                >Points: <span class="points">50</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49113801"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="49113599">
+          <h3>
+            <a
+              class="item"
+              href="https://www.ctgt.ai/research/distillation-censorship-transfer"
+              >Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer
+              censorship. Try it</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-30 @ 18:13:06</span
+              ><span class="points-container"
+                >Points: <span class="points">21</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49113599"
+                  >Comments</a
+                ><span class="descendants">: 11</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="http://playground.ctgt.ai/"
+                >http://playground.ctgt.ai/</a
+              >
+              <p>
+                I will now dive in to the motivation, methodology and detailed
+                results for those interested. The hard part of measuring this
+                phenomena is isolating whether a model is reluctant to talk
+                about sensitive things generally vs. a particular country's
+                sensitive things. So we made 152 matched pairs where one prompt
+                asked about a Chinese concept, and the other asked about a
+                non-Chinese version of that concept. For example, the Great Leap
+                Forward vs. the Holodomor. These were scored 0-100 by four LLM
+                judges (Grok 4.20, Gemini 3.5 Flash, GPT-5 mini, Claude Sonnet
+                4.6), validated against 96 human scores at r=0.948. OpenRouter
+                blocked some of these so we hosted the weights ourselves.
+              </p>
+              <p>
+                The teacher's gap on the core political set of pairs was +45.45
+                points, ~7 standard deviations from chance, and every distilled
+                student was within 1 point of its base. Subliminal learning
+                literature says this is expected when the initializations are
+                not shared between teacher and student, which is true here. The
+                distillation data also did not contain any China-sensitive
+                content. The contribution here was to release the evaluation
+                framework (LineageEval:
+                <a href="https://github.com/CTGT-Inc/lineage-eval/"
+                  >https://github.com/CTGT-Inc/lineage-eval/</a
+                >) to elevate the discussion around this topic in DC and beyond.
+                We are an interpretability lab working on high risk and
+                regulated applications of AI, so we hear a lot of vagaries aimed
+                at the supposed dangers of distilling Chinese models on American
+                bases. We believe these conversations should be based on open,
+                auditable frameworks and not feelings. We plan to test what
+                happens with a Chinese teacher into a Chinese-lineage base like
+                Qwen next.
+              </p>
+              <p>
+                The distillation method was an evolution of HINT-SD where we
+                inject a hint at the specific point the model makes a mistake in
+                its reasoning. Then we train on the corrected continuation with
+                reverse KL over the next 100 toks of the rollout. As mentioned
+                above 120B itself was efficacious as a teacher, and we ended up
+                shipping this version. The self-distilled 120B scores 83.61% on
+                FinanceReasoning, above Kimi K3 (81.93%) and Inkling (65.13%).
+                Ours finishes 98.7% of problems in budget; the larger models
+                truncate (90.76% and 71.01%) which score as incorrect. At 100k
+                tokens big models gain (Kimi 89.92%). So for a finance task at a
+                constrained (perhaps more realistic) budget a 120B on one H100
+                at ~$0.00026/query outpaced models running 62-160x more per
+                query.
+              </p>
+              <p>
+                We put out the 20B finance model as open weights (64.71% to
+                74.79% at 8k on FinanceReasoning, 23% lower cost/query, runs on
+                one 80GB GPU), the 120B in a playground with teacher and
+                students side by side (a few queries, no auth), and LineageEval
+                with all prompts, controls, rubric, and code.
+              </p>
+              <p>
+                We are curious to hear experiences from those working with
+                distilled Chinese models in prod, or if you have thoughts on
+                improvements to LineageEval.
+              </p>
+              <p>
+                <a href="https://huggingface.co/ctgt-inc/gpt-oss-20b-finance"
+                  >https://huggingface.co/ctgt-inc/gpt-oss-20b-finance</a
+                >
+              </p>
+              <p>
+                <a href="https://playground.ctgt.ai/"
+                  >https://playground.ctgt.ai/</a
+                >
+              </p>
+              <p>
+                <a href="https://github.com/CTGT-Inc/lineage-eval/"
+                  >https://github.com/CTGT-Inc/lineage-eval/</a
+                >
+              </p>
+              <p>
+                <a
+                  href="https://www.ctgt.ai/research/distillation-censorship-transfer"
+                  >https://www.ctgt.ai/research/distillation-censorship-transfe...</a
+                >
+              </p>
+            </div>
           </section>
         </section>
         <section id="49113543">
@@ -204,7 +312,7 @@
             <h4>
               <span>2026-07-30 @ 18:08:48</span
               ><span class="points-container"
-                >Points: <span class="points">7</span></span
+                >Points: <span class="points">8</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49113543"
                   >Comments</a
@@ -225,11 +333,11 @@
             <h4>
               <span>2026-07-30 @ 17:52:51</span
               ><span class="points-container"
-                >Points: <span class="points">40</span></span
+                >Points: <span class="points">59</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49113338"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -247,11 +355,11 @@
             <h4>
               <span>2026-07-30 @ 17:31:07</span
               ><span class="points-container"
-                >Points: <span class="points">154</span></span
+                >Points: <span class="points">184</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49113059"
                   >Comments</a
-                ><span class="descendants">: 95</span></span
+                ><span class="descendants">: 108</span></span
               >
             </h4>
           </section>
@@ -268,11 +376,11 @@
             <h4>
               <span>2026-07-30 @ 17:15:51</span
               ><span class="points-container"
-                >Points: <span class="points">336</span></span
+                >Points: <span class="points">373</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49112867"
                   >Comments</a
-                ><span class="descendants">: 217</span></span
+                ><span class="descendants">: 241</span></span
               >
             </h4>
           </section>
@@ -282,18 +390,18 @@
             <a
               class="item"
               href="https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/"
-              >Read This Before You Buy That TV Streaming Stick</a
+              >Read this before you buy that TV streaming stick</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-07-30 @ 17:04:53</span
               ><span class="points-container"
-                >Points: <span class="points">212</span></span
+                >Points: <span class="points">267</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49112744"
                   >Comments</a
-                ><span class="descendants">: 97</span></span
+                ><span class="descendants">: 116</span></span
               >
             </h4>
           </section>
@@ -327,11 +435,11 @@
             <h4>
               <span>2026-07-30 @ 16:36:47</span
               ><span class="points-container"
-                >Points: <span class="points">27</span></span
+                >Points: <span class="points">30</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49112368"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 31</span></span
               >
             </h4>
           </section>
@@ -348,11 +456,11 @@
             <h4>
               <span>2026-07-30 @ 16:26:16</span
               ><span class="points-container"
-                >Points: <span class="points">164</span></span
+                >Points: <span class="points">213</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49112232"
                   >Comments</a
-                ><span class="descendants">: 64</span></span
+                ><span class="descendants">: 80</span></span
               >
             </h4>
           </section>
@@ -369,11 +477,11 @@
             <h4>
               <span>2026-07-30 @ 15:22:46</span
               ><span class="points-container"
-                >Points: <span class="points">116</span></span
+                >Points: <span class="points">123</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49111305"
                   >Comments</a
-                ><span class="descendants">: 60</span></span
+                ><span class="descendants">: 65</span></span
               >
             </h4>
           </section>
@@ -390,11 +498,11 @@
             <h4>
               <span>2026-07-30 @ 15:15:48</span
               ><span class="points-container"
-                >Points: <span class="points">335</span></span
+                >Points: <span class="points">357</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49111237"
                   >Comments</a
-                ><span class="descendants">: 308</span></span
+                ><span class="descendants">: 321</span></span
               >
             </h4>
           </section>
@@ -411,11 +519,11 @@
             <h4>
               <span>2026-07-30 @ 15:10:27</span
               ><span class="points-container"
-                >Points: <span class="points">134</span></span
+                >Points: <span class="points">142</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49111176"
                   >Comments</a
-                ><span class="descendants">: 57</span></span
+                ><span class="descendants">: 61</span></span
               >
             </h4>
           </section>
@@ -433,7 +541,7 @@
             <h4>
               <span>2026-07-30 @ 14:58:59</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49111019"
                   >Comments</a
@@ -471,7 +579,7 @@
             <h4>
               <span>2026-07-30 @ 14:58:07</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">36</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49111006"
                   >Comments</a
@@ -491,11 +599,11 @@
             <h4>
               <span>2026-07-30 @ 14:36:59</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">51</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49110655"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
@@ -510,11 +618,11 @@
             <h4>
               <span>2026-07-30 @ 14:29:27</span
               ><span class="points-container"
-                >Points: <span class="points">100</span></span
+                >Points: <span class="points">102</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49110547"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -530,11 +638,11 @@
             <h4>
               <span>2026-07-30 @ 13:29:03</span
               ><span class="points-container"
-                >Points: <span class="points">58</span></span
+                >Points: <span class="points">59</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49109721"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 35</span></span
               >
             </h4>
             <div class="text">
@@ -619,11 +727,11 @@
             <h4>
               <span>2026-07-30 @ 13:21:34</span
               ><span class="points-container"
-                >Points: <span class="points">118</span></span
+                >Points: <span class="points">124</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49109616"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 35</span></span
               >
             </h4>
           </section>
@@ -638,11 +746,11 @@
             <h4>
               <span>2026-07-30 @ 13:07:53</span
               ><span class="points-container"
-                >Points: <span class="points">100</span></span
+                >Points: <span class="points">106</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49109474"
                   >Comments</a
-                ><span class="descendants">: 28</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
           </section>
@@ -659,7 +767,7 @@
             <h4>
               <span>2026-07-30 @ 12:38:51</span
               ><span class="points-container"
-                >Points: <span class="points">130</span></span
+                >Points: <span class="points">134</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49109193"
                   >Comments</a
@@ -680,11 +788,11 @@
             <h4>
               <span>2026-07-30 @ 12:14:23</span
               ><span class="points-container"
-                >Points: <span class="points">55</span></span
+                >Points: <span class="points">56</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49108971"
                   >Comments</a
-                ><span class="descendants">: 57</span></span
+                ><span class="descendants">: 59</span></span
               >
             </h4>
           </section>
@@ -701,65 +809,11 @@
             <h4>
               <span>2026-07-30 @ 11:45:01</span
               ><span class="points-container"
-                >Points: <span class="points">111</span></span
+                >Points: <span class="points">116</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49108678"
                   >Comments</a
-                ><span class="descendants">: 53</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49108571">
-          <h3>
-            <a class="item" href="https://select.supply/game/chipbuilder"
-              >Show HN: I made a game where you build a CPU from logic gates</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-30 @ 11:33:02</span
-              ><span class="points-container"
-                >Points: <span class="points">67</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49108571"
-                  >Comments</a
-                ><span class="descendants">: 59</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                You start with basic logic gates like AND, OR, and NOT, then
-                gradually combine them into adders, multiplexers, memory, an
-                ALU, and eventually a complete CPU. Once you've built the
-                hardware, you can write assembly programs that run on the
-                processor you created.
-              </p>
-              <p>
-                The game is inspired by courses like Nand2Tetris, but everything
-                runs directly in the browser with a visual circuit editor,
-                simulations, and progressively harder challenges.
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="49108485">
-          <h3>
-            <a
-              class="item"
-              href="https://98.js.org/programs/pinball/space-cadet.html"
-              >3D Pinball for Windows (1995)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-30 @ 11:23:12</span
-              ><span class="points-container"
-                >Points: <span class="points">90</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49108485"
-                  >Comments</a
-                ><span class="descendants">: 42</span></span
+                ><span class="descendants">: 57</span></span
               >
             </h4>
           </section>
@@ -774,7 +828,7 @@
             <h4>
               <span>2026-07-30 @ 08:10:33</span
               ><span class="points-container"
-                >Points: <span class="points">217</span></span
+                >Points: <span class="points">221</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49107246"
                   >Comments</a
@@ -783,24 +837,161 @@
             </h4>
           </section>
         </section>
-        <section id="49103059">
+        <section id="49100518">
           <h3>
-            <a class="item" href="https://www.youtube.com/watch?v=W-OpIbLUOU0"
-              >RCade: The Arcade Cabinet with CI/CD Deployment, Custom Graphics
-              Card for CRT [video]</a
+            <a class="item" href="https://supapool.io/"
+              >Show HN: Supapool – a Supabase per coding agent in ~400 ms</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-07-29 @ 21:03:50</span
+              <span>2026-07-29 @ 17:34:35</span
               ><span class="points-container"
-                >Points: <span class="points">25</span></span
+                >Points: <span class="points">15</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49103059"
+                ><a href="https://news.ycombinator.com/item?id=49100518"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 0</span></span
               >
             </h4>
+            <div class="text">
+              <p>
+                I built supapool.io, an ephemeral full copy of supabase's
+                services that you can spin up in ~400 ms (Auth, postgres,
+                storage, realtime).
+              </p>
+              <p>
+                so if you run multiple coding agents in parallel in different
+                worktrees, they can now have their own copy of supabase without
+                making changes that conflict with eachother.
+              </p>
+              <p>&gt; why not use supabase docker locally?</p>
+              <p>
+                when I run 3-4 instances locally, my macbook gets hot and
+                sometimes freezes.
+              </p>
+              <p>&gt; why not use supabase branches?</p>
+              <p>
+                branches take minutes to setup, and are designed for
+                persistence. this is expensive, and for a dev environment, it is
+                too slow.
+              </p>
+              <p>&gt; why not use mocks?</p>
+              <p>
+                mocks are bad for agents. i expect agents to test their
+                migrations, SQL against real prod service behavior. agents
+                hallucinate working mocks often. However, upside of mocks is
+                that its faster and runs locally, but with supapool, the upside
+                is less convincing.
+              </p>
+              <p>&gt; how does it work/how is this economically viable?</p>
+              <p>
+                starting supabase in 400ms requires a few things: 1. a pool of
+                ready supabase instances running warm, and colocated with region
+                failover (us-east, us-west, europe-west, asia-southeast) 2. fast
+                autoscaling when pool starts to shrink with microVM/firecracker
+                3. gutting strong persistence guarantees. dev agents don't need
+                WAL, fsync, PITR, replication. anything for HA on a ephemeral
+                supabase instance is bloat
+              </p>
+              <p>
+                its in beta right now, and i'm using our gcp credits to bankroll
+                this, so its free. the eventual pricing will be something like
+                $/instance second and more cost effective than branching or self
+                hosting/maintaining a supabase cluster.
+              </p>
+              <p>
+                would love to get your feedback if you use supabase, and if you
+                think there's something better that would fit your local coding
+                agent setup. Thanks!
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="49063454">
+          <h3>
+            <a
+              class="item"
+              href="https://github.com/experientiallabs/world-model-optimizer"
+              >Show HN: Optimize and serve models with Fable quality at half the
+              cost</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-26 @ 23:35:15</span
+              ><span class="points-container"
+                >Points: <span class="points">51</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49063454"
+                  >Comments</a
+                ><span class="descendants">: 23</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                It does this by simulating production tool responses through
+                text world modeling (similar to QwenAgentWorld, summary here
+                <a href="https://x.com/silennai/status/2073887455884058814"
+                  >https://x.com/silennai/status/2073887455884058814</a
+                >).
+              </p>
+              <p>
+                We can then use this to train a router for frontier, OS, and
+                local models (use defaults or pick which ones to optimize
+                against).
+              </p>
+              <p>
+                wmo ingests agent traces, builds the simulation, embeds the
+                traces, runs different models you choose against the simulation
+                scenarios, and then uses a KNN for model selection (similar to
+                <a href="https://arxiv.org/abs/2505.19797"
+                  >https://arxiv.org/abs/2505.19797</a
+                >).
+              </p>
+              <p>
+                - Cache aware: cache is taken into account for the effective
+                price in routing.
+              </p>
+              <p>
+                - Confidence gated: we don't deviate from the best fit model
+                when paired evidence over retrieved neighbors is below 0.5
+                standard errors or on queries unlike anything in the fit set.
+              </p>
+              <p>
+                - Optimize for cost or quality: train a balanced, cost max, or
+                quality max router.
+              </p>
+              <p>Usage</p>
+              <p>
+                `wmo build` creates the simulation (or add your own benchmark)
+              </p>
+              <p>`wmo optimize` tunes the router</p>
+              <p>
+                `wmo serve` starts the server and can run everything fully
+                locally. The simulation and router can update over time as more
+                agent traces are gathered and new models are added.
+              </p>
+              <p>Router results vs Fable</p>
+              <p>
+                - RouterBench: -66.5% cost, -1.7% performance, -24.7% latency
+                p50. 77.5% of traffic to Sonnet 5, 16.1% Fable 5.
+              </p>
+              <p>
+                - TauBench: -44.5% cost, +6.3% performance, -20% latency. 83% to
+                Opus 5, 17% to Kimi-K2.6 (over K3).
+              </p>
+              <p>
+                - Terminal Bench 2: -64% cost, +8% performance, -50.6% latency.
+                Sonnet 5 is fully along the pareto front. Training a specialized
+                router per task isn't cheap. In sparse data regimes the value
+                can be "here's the best model".
+              </p>
+              <p>
+                We're working on sample effiient continual learning for agent
+                specific models at experientiallabs.ai"
+              </p>
+            </div>
           </section>
         </section>
         <section id="49048728">
@@ -815,11 +1006,11 @@
             <h4>
               <span>2026-07-25 @ 15:59:13</span
               ><span class="points-container"
-                >Points: <span class="points">37</span></span
+                >Points: <span class="points">43</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49048728"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -834,11 +1025,11 @@
             <h4>
               <span>2026-07-25 @ 14:27:05</span
               ><span class="points-container"
-                >Points: <span class="points">56</span></span
+                >Points: <span class="points">81</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49047839"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 36</span></span
               >
             </h4>
           </section>
