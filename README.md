@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-30, 19:34:27](https://news.ycombinator.com/item?id=49114639) - [Agent Skill to Force Docs in ASD-STE100 Simplified Technical English](https://github.com/AminBlg/SimpleEnglish)
 * [2026-07-30, 18:40:52](https://news.ycombinator.com/item?id=49113929) - [UEFA and its national associations will not participate in FIFA competitions](https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/)
 * [2026-07-30, 18:39:32](https://news.ycombinator.com/item?id=49113913) - [Making Postgres queues scale](https://www.dbos.dev/blog/making-postgres-queues-scale)
-* [2026-07-30, 18:36:23](https://news.ycombinator.com/item?id=49113864) - [What would it mean to see a new color?](https://www.newyorker.com/magazine/2026/08/03/what-would-it-mean-to-see-a-new-color)
 * [2026-07-30, 18:31:02](https://news.ycombinator.com/item?id=49113801) - [So you want to use plants to reduce CO₂](https://dynomight.net/plants/)
 * [2026-07-30, 18:13:06](https://news.ycombinator.com/item?id=49113599) - [Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it](https://www.ctgt.ai/research/distillation-censorship-transfer)
 * [2026-07-30, 17:52:51](https://news.ycombinator.com/item?id=49113338) - [CodePen 2.0](https://chriscoyier.net/2026/07/30/codepen-2-0/)
