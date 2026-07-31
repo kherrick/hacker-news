@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-30](index.md)
 
+* [2026-07-30, 23:43:22](https://news.ycombinator.com/item?id=49117284) - [The Religion of Speed](https://graybeard.ing/the-religion-of-speed/)
 * [2026-07-30, 23:22:16](https://news.ycombinator.com/item?id=49117099) - [The AI Aesthetic](https://blog.jim-nielsen.com/2026/ai-aesthetic/)
 * [2026-07-30, 23:00:51](https://news.ycombinator.com/item?id=49116922) - [Investigating three real-world incidents in our cybersecurity evaluations](https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals)
 * [2026-07-30, 22:33:11](https://news.ycombinator.com/item?id=49116721) - [I flagged two research papers for fake authors and both were accepted as orals](https://geospatialml.com/posts/reviewing-ai-slop/)
