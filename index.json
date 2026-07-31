@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-07-31, 14:05:02",
+      "https://news.ycombinator.com/item?id=49123300"
+    ],
+    [
+      "Better to Beg Forgiveness",
+      "https://pluralistic.net/2026/07/31/just-do-it/"
+    ]
+  ],
+  [
+    [
       "2026-07-31, 13:37:36",
       "https://news.ycombinator.com/item?id=49122994"
     ],
     [
       "Situational Awareness Down 67% in July in AI Stock Rout",
       "https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f"
+    ]
+  ],
+  [
+    [
+      "2026-07-31, 13:24:03",
+      "https://news.ycombinator.com/item?id=49122838"
+    ],
+    [
+      "Moonshot built on 20k Nvidia chip cluster from Alibaba",
+      "https://www.bloomberg.com/news/articles/2026-07-31/moonshot-s-kimi-built-on-20-000-nvidia-chip-cluster-from-alibaba"
     ]
   ],
   [
@@ -37,6 +57,16 @@
     [
       "The End of an Era",
       "https://hughhowey.com/the-end-of-an-era/"
+    ]
+  ],
+  [
+    [
+      "2026-07-31, 11:37:12",
+      "https://news.ycombinator.com/item?id=49121868"
+    ],
+    [
+      "The Maxwell Conjecture Is False (GPT 5.6 Sol)",
+      "https://arxiv.org/abs/2607.27197"
     ]
   ],
   [
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2026-07-30, 23:22:16",
-      "https://news.ycombinator.com/item?id=49117099"
-    ],
-    [
-      "The AI Aesthetic",
-      "https://blog.jim-nielsen.com/2026/ai-aesthetic/"
-    ]
-  ],
-  [
-    [
       "2026-07-30, 22:33:11",
       "https://news.ycombinator.com/item?id=49116721"
     ],
@@ -157,16 +177,6 @@
     [
       "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
       "https://www.ctgt.ai/research/distillation-censorship-transfer"
-    ]
-  ],
-  [
-    [
-      "2026-07-30, 17:52:51",
-      "https://news.ycombinator.com/item?id=49113338"
-    ],
-    [
-      "CodePen 2.0",
-      "https://chriscoyier.net/2026/07/30/codepen-2-0/"
     ]
   ],
   [
@@ -207,26 +217,6 @@
     [
       "The Economic Benefit of Refactoring",
       "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-30, 14:11:42",
-      "https://news.ycombinator.com/item?id=49110308"
-    ],
-    [
-      "The lost civic life of movie rental stores",
-      "https://thereader.mitpress.mit.edu/the-lost-civic-life-of-movie-rental-stores/"
-    ]
-  ],
-  [
-    [
-      "2026-07-30, 12:38:51",
-      "https://news.ycombinator.com/item?id=49109193"
-    ],
-    [
-      "Why is everyone trying to build a solid-state battery?",
-      "https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Bad Apple but It's Traceroute",
       "https://jssfr.de/2026-07-27-bad-apple-but-traceroute.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-25, 18:04:00",
+      "https://news.ycombinator.com/item?id=49049992"
+    ],
+    [
+      "Winding Down Artichoke Ruby",
+      "https://hyperbo.la/w/winding-down-artichoke-ruby/"
     ]
   ]
 ]
