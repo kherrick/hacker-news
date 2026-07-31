@@ -38,6 +38,7 @@
 * [2026-07-27, 18:15:35](https://news.ycombinator.com/item?id=49073513) - [Judge Rejects Google's Attempt to DMCA Its Way Out of Being Scraped](https://www.techdirt.com/2026/07/27/judge-rejects-googles-attempt-to-dmca-its-way-out-of-being-scraped/)
 * [2026-07-27, 18:04:30](https://news.ycombinator.com/item?id=49073357) - [Beyond Greece and Rome](https://aeon.co/essays/uncovering-a-global-ancient-history-beyond-greece-and-rome)
 * [2026-07-27, 17:56:20](https://news.ycombinator.com/item?id=49073267) - [Jensen Huang's first-ever post on X is in defense of open access to AI models](https://www.pcgamer.com/software/ai/jensen-huangs-first-ever-post-on-x-is-in-defense-of-open-access-to-ai-models-alongside-google-openai-and-meta/)
+* [2026-07-27, 17:37:32](https://news.ycombinator.com/item?id=49073017) - [The American Grilled Cheese Sandwich Essay (2024)](https://buttondown.com/theswordandthesandwich/archive/the-best-american-grilled-cheese-sandwich-essay/)
 * [2026-07-27, 17:37:02](https://news.ycombinator.com/item?id=49073007) - [Canceling \"Hey\"](https://chadnauseam.com/random/cancelling-my-hey)
 * [2026-07-27, 17:02:41](https://news.ycombinator.com/item?id=49072523) - [UpCodes (YC S17) is hiring remote AE's to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
 * [2026-07-27, 16:59:08](https://news.ycombinator.com/item?id=49072462) - [Show HN: FeyNoBg – Automatic background removal model and training library](https://usefeyn.com/blog/feynobg/)
