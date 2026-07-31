@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-07-31, 07:33:10",
+      "https://news.ycombinator.com/item?id=49120120"
+    ],
+    [
+      "Danube's record low levels force shutdown of Hungary's only nuclear plant",
+      "https://www.bbc.com/news/articles/cn0nqv05g0do"
+    ]
+  ],
+  [
+    [
+      "2026-07-31, 07:29:22",
+      "https://news.ycombinator.com/item?id=49120097"
+    ],
+    [
+      "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+      "https://blog.google/security/chrome-stronger-with-every-update/"
+    ]
+  ],
+  [
+    [
       "2026-07-31, 06:08:36",
       "https://news.ycombinator.com/item?id=49119559"
     ],
@@ -51,6 +71,16 @@
   ],
   [
     [
+      "2026-07-31, 02:54:02",
+      "https://news.ycombinator.com/item?id=49118474"
+    ],
+    [
+      "\"the very foundation of modern academia has been blown to bits\"",
+      "https://twitter.com/lemire/status/2082851447499088173"
+    ]
+  ],
+  [
+    [
       "2026-07-30, 23:43:22",
       "https://news.ycombinator.com/item?id=49117284"
     ],
@@ -67,16 +97,6 @@
     [
       "The AI Aesthetic",
       "https://blog.jim-nielsen.com/2026/ai-aesthetic/"
-    ]
-  ],
-  [
-    [
-      "2026-07-30, 23:00:51",
-      "https://news.ycombinator.com/item?id=49116922"
-    ],
-    [
-      "Investigating three real-world incidents in our cybersecurity evaluations",
-      "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2026-07-30, 17:15:51",
-      "https://news.ycombinator.com/item?id=49112867"
-    ],
-    [
-      "Advancing the price-performance frontier with GPT‑5.6",
-      "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/"
-    ]
-  ],
-  [
-    [
       "2026-07-30, 17:04:53",
       "https://news.ycombinator.com/item?id=49112744"
     ],
@@ -207,16 +217,6 @@
     [
       "The lost civic life of movie rental stores",
       "https://thereader.mitpress.mit.edu/the-lost-civic-life-of-movie-rental-stores/"
-    ]
-  ],
-  [
-    [
-      "2026-07-30, 12:38:51",
-      "https://news.ycombinator.com/item?id=49109193"
-    ],
-    [
-      "Why is everyone trying to build a solid-state battery?",
-      "https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-07-25, 14:48:24",
-      "https://news.ycombinator.com/item?id=49048024"
+      "2026-07-27, 11:51:08",
+      "https://news.ycombinator.com/item?id=49068229"
     ],
     [
-      "Show HN: Cubic Doggo 06R: 12-DOF 4-Legged Robot with IMU",
-      "https://github.com/SphericalCowww/CubicDoggo_06R"
+      "Show HN: A udev implementation in Guile Scheme",
+      "https://codeberg.org/goodev/goodev"
     ]
   ]
 ]
