@@ -71,6 +71,7 @@
 * [2026-07-27, 12:32:12](https://news.ycombinator.com/item?id=49068738) - [AI companies are shredding rare books](https://twitter.com/HedgieMarkets/status/2081534588485296565)
 * [2026-07-27, 12:29:24](https://news.ycombinator.com/item?id=49068711) - [The Proof Machine (2016)](https://incredible.pm/)
 * [2026-07-27, 12:29:14](https://news.ycombinator.com/item?id=49068707) - [Worse on Purpose](https://ledger.worseonpurpose.com/brands)
+* [2026-07-27, 11:51:08](https://news.ycombinator.com/item?id=49068229) - [Show HN: A udev implementation in Guile Scheme](https://codeberg.org/goodev/goodev)
 * [2026-07-27, 11:32:32](https://news.ycombinator.com/item?id=49068029) - [Elevated errors on Claude Opus 5](https://status.claude.com/incidents/mfdtrknpxghq)
 * [2026-07-27, 11:19:33](https://news.ycombinator.com/item?id=49067919) - [Google Chrome Arrives on ARM64 Linux, Widevine DRM Included](https://www.omgubuntu.co.uk/2026/07/chrome-arm64-linux-available)
 * [2026-07-27, 11:12:26](https://news.ycombinator.com/item?id=49067854) - [How is the Bun Rewrite in Rust going?](https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html)
