@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-07-31](index.md)
 
+* [2026-07-31, 12:10:55](https://news.ycombinator.com/item?id=49122105) - [Ruby Central's Destructive Legacy](https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/)
+* [2026-07-31, 12:00:59](https://news.ycombinator.com/item?id=49122034) - [Tasklet (YC P26) Is Hiring a Customer Success Engineer](https://tasklet.ai/careers/customer-success-engineer)
+* [2026-07-31, 11:51:46](https://news.ycombinator.com/item?id=49121980) - [The End of an Era](https://hughhowey.com/the-end-of-an-era/)
 * [2026-07-31, 07:59:11](https://news.ycombinator.com/item?id=49120299) - [DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/deepseek-v4-flash-ga)
 * [2026-07-31, 07:33:10](https://news.ycombinator.com/item?id=49120120) - [Danube's record low levels force shutdown of Hungary's only nuclear plant](https://www.bbc.com/news/articles/cn0nqv05g0do)
 * [2026-07-31, 07:29:22](https://news.ycombinator.com/item?id=49120097) - [Google fixed more Chrome bugs in June than over the past two years, thanks to AI](https://blog.google/security/chrome-stronger-with-every-update/)

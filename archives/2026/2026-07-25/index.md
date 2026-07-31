@@ -11,6 +11,7 @@
 * [2026-07-25, 22:03:22](https://news.ycombinator.com/item?id=49052074) - [Kimi K3 built a Windows XP in browser](https://windows-xp.kimi.site/)
 * [2026-07-25, 21:58:14](https://news.ycombinator.com/item?id=49052025) - [Digital Intelligence: Why Humanity Created What It Does Not Understand](https://singularityforge.space/2026/07/26/illusion-of-control/)
 * [2026-07-25, 21:48:22](https://news.ycombinator.com/item?id=49051947) - [GM Backs Sodium Ion Batteries for U.S. Grid Storage](https://spectrum.ieee.org/sodium-ion-battery-peak-energy)
+* [2026-07-25, 21:42:31](https://news.ycombinator.com/item?id=49051890) - [How A Gang of Thieves Pulled Off a Multimillion-Dollar Data Center Heist](https://www.nytimes.com/2026/07/12/magazine/data-center-heist.html)
 * [2026-07-25, 21:32:08](https://news.ycombinator.com/item?id=49051816) - [A 77-year-old Republican man is staging a solo protest against Flock cameras](https://www.cltampa.com/news/a-77-year-old-republican-man-is-staging-a-solo-protest-against-st-petes-flock-cameras/)
 * [2026-07-25, 21:19:42](https://news.ycombinator.com/item?id=49051707) - [Becoming a Research Engineer at a Big LLM Lab](https://www.maxmynter.com/pages/blog/jobhunt)
 * [2026-07-25, 21:18:06](https://news.ycombinator.com/item?id=49051692) - ['AI Mania Is Eviscerating Global Decision-Making'](https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh)
