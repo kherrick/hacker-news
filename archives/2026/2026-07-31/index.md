@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-31](index.md)
 
+* [2026-07-31, 05:26:13](https://news.ycombinator.com/item?id=49119322) - [Human Honeypot](https://human2llm.pages.dev/)
+* [2026-07-31, 04:38:19](https://news.ycombinator.com/item?id=49119063) - [JEP 401: Value Objects (Preview) merged to OpenJDK master](https://github.com/openjdk/jdk/pull/31120)
 * [2026-07-31, 04:15:04](https://news.ycombinator.com/item?id=49118933) - [The AI trade now runs on borrowed money, and the lenders are repricing it](https://greyswansignals.com/?theme=dark)
 * [2026-07-31, 03:47:59](https://news.ycombinator.com/item?id=49118781) - [The Session You Cannot take with you](https://earendil.com/posts/session-portability/)
 * [2026-07-31, 03:32:21](https://news.ycombinator.com/item?id=49118696) - [The bond market isn't buying what Fed Chair Warsh is selling](https://www.reuters.com/commentary/reuters-open-interest/bond-market-isnt-buying-what-fed-chair-warsh-is-selling-2026-07-30/)

@@ -71,6 +71,7 @@
 * [2026-07-29, 12:06:54](https://news.ycombinator.com/item?id=49096389) - [Deleting Codeberg](https://thanosapollo.org/posts/deleting-codeberg/)
 * [2026-07-29, 11:54:37](https://news.ycombinator.com/item?id=49096290) - [French musician Kavinsky found dead](https://www.euronews.com/culture/2026/07/29/dj-kavinsky-known-for-his-track-nightcall-found-dead-at-his-paris-home)
 * [2026-07-29, 11:44:33](https://news.ycombinator.com/item?id=49096188) - [Document-borne AI worms can self-propagate through Copilot for Word](https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/)
+* [2026-07-29, 11:42:04](https://news.ycombinator.com/item?id=49096170) - [The mean means nothing: data visualization to debug a latency problem](https://fzakaria.com/2026/07/27/the-mean-means-nothing)
 * [2026-07-29, 11:28:22](https://news.ycombinator.com/item?id=49096043) - [They Stole Your Attention](https://moai.studio/blog/posts/they-stole-your-attention.html)
 * [2026-07-29, 11:05:08](https://news.ycombinator.com/item?id=49095865) - [KOReader](https://koreader.rocks/)
 * [2026-07-29, 10:47:57](https://news.ycombinator.com/item?id=49095714) - [National Security Determination Threat Posed by Foreign-Produced Robotic Devices [pdf]](https://www.fcc.gov/sites/default/files/robots-nsd.pdf)

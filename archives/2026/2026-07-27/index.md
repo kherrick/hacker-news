@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-27](index.md)
 
+* [2026-07-27, 23:59:37](https://news.ycombinator.com/item?id=49077372) - [Where USB Memory Sticks Are Born](https://www.bunniestudios.com/blog/2013/where-usb-memory-sticks-are-born/)
 * [2026-07-27, 23:46:15](https://news.ycombinator.com/item?id=49077209) - [The Burau representation of the braid group is faithful for n = 4](https://arxiv.org/abs/2607.05283)
 * [2026-07-27, 23:33:04](https://news.ycombinator.com/item?id=49077040) - [Interview with Boris Cherny [video]](https://www.youtube.com/watch?v=qyPCVqFUyDo)
 * [2026-07-27, 23:26:15](https://news.ycombinator.com/item?id=49076978) - [Show HN: Trylle – The Next-Gen Git Platform for Modern Teams](https://trylle.com/home)

@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-31, 05:26:13](https://news.ycombinator.com/item?id=49119322) - [Human Honeypot](https://human2llm.pages.dev/)
+* [2026-07-31, 04:38:19](https://news.ycombinator.com/item?id=49119063) - [JEP 401: Value Objects (Preview) merged to OpenJDK master](https://github.com/openjdk/jdk/pull/31120)
 * [2026-07-31, 04:15:04](https://news.ycombinator.com/item?id=49118933) - [The AI trade now runs on borrowed money, and the lenders are repricing it](https://greyswansignals.com/?theme=dark)
 * [2026-07-31, 03:47:59](https://news.ycombinator.com/item?id=49118781) - [The Session You Cannot take with you](https://earendil.com/posts/session-portability/)
 * [2026-07-31, 03:32:21](https://news.ycombinator.com/item?id=49118696) - [The bond market isn't buying what Fed Chair Warsh is selling](https://www.reuters.com/commentary/reuters-open-interest/bond-market-isnt-buying-what-fed-chair-warsh-is-selling-2026-07-30/)
@@ -14,7 +16,6 @@
 * [2026-07-30, 18:40:52](https://news.ycombinator.com/item?id=49113929) - [UEFA and its national associations will not participate in FIFA competitions](https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/)
 * [2026-07-30, 18:13:06](https://news.ycombinator.com/item?id=49113599) - [Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it](https://www.ctgt.ai/research/distillation-censorship-transfer)
 * [2026-07-30, 17:52:51](https://news.ycombinator.com/item?id=49113338) - [CodePen 2.0](https://chriscoyier.net/2026/07/30/codepen-2-0/)
-* [2026-07-30, 17:31:07](https://news.ycombinator.com/item?id=49113059) - [We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447](https://www.bottlenecklabs.com/blog/autonomously-run-businesses)
 * [2026-07-30, 17:15:51](https://news.ycombinator.com/item?id=49112867) - [Advancing the price-performance frontier with GPT‑5.6](https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/)
 * [2026-07-30, 17:04:53](https://news.ycombinator.com/item?id=49112744) - [Read this before you buy that TV streaming stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/)
 * [2026-07-30, 17:00:21](https://news.ycombinator.com/item?id=49112683) - [Rise Reforming (YC S26) Is Hiring](https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer)
@@ -24,12 +25,11 @@
 * [2026-07-30, 15:10:27](https://news.ycombinator.com/item?id=49111176) - [The Economic Benefit of Refactoring](https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html)
 * [2026-07-30, 14:11:42](https://news.ycombinator.com/item?id=49110308) - [The lost civic life of movie rental stores](https://thereader.mitpress.mit.edu/the-lost-civic-life-of-movie-rental-stores/)
 * [2026-07-30, 11:45:44](https://news.ycombinator.com/item?id=49108685) - [GCC steering committee announces AI policy](https://lwn.net/Articles/1086041/)
-* [2026-07-30, 10:13:46](https://news.ycombinator.com/item?id=49107950) - [Google will expand age checks on Android worldwide till the end of the year](https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html)
+* [2026-07-29, 11:42:04](https://news.ycombinator.com/item?id=49096170) - [The mean means nothing: data visualization to debug a latency problem](https://fzakaria.com/2026/07/27/the-mean-means-nothing)
 * [2026-07-28, 13:56:27](https://news.ycombinator.com/item?id=49083970) - [Memo-1: A 6502 computer built from scratch, using a Minitel as its terminal](https://github.com/MemoireMorte/Memo-1)
-* [2026-07-28, 07:37:22](https://news.ycombinator.com/item?id=49080605) - [Does Speaking to Agents Like Cavemen Save 65% of Tokens? We Test](https://blog.jetbrains.com/ai/2026/07/speak-to-ai-agents-like-cavemen-tosave-tokens/)
+* [2026-07-27, 23:59:37](https://news.ycombinator.com/item?id=49077372) - [Where USB Memory Sticks Are Born](https://www.bunniestudios.com/blog/2013/where-usb-memory-sticks-are-born/)
 * [2026-07-27, 17:37:32](https://news.ycombinator.com/item?id=49073017) - [The American Grilled Cheese Sandwich Essay (2024)](https://buttondown.com/theswordandthesandwich/archive/the-best-american-grilled-cheese-sandwich-essay/)
 * [2026-07-27, 15:48:09](https://news.ycombinator.com/item?id=49071299) - [Bad Apple but It's Traceroute](https://jssfr.de/2026-07-27-bad-apple-but-traceroute.html)
-* [2026-07-25, 14:27:05](https://news.ycombinator.com/item?id=49047839) - [2x, not 10x: coding with LLMs in 2026](https://obryant.dev/p/2x-not-10x/)
 
 ## [Archives](archives/index.md)
 
