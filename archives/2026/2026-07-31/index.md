@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-07-31](index.md)
 
+* [2026-07-31, 14:05:02](https://news.ycombinator.com/item?id=49123300) - [Better to Beg Forgiveness](https://pluralistic.net/2026/07/31/just-do-it/)
 * [2026-07-31, 13:37:36](https://news.ycombinator.com/item?id=49122994) - [Situational Awareness Down 67% in July in AI Stock Rout](https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f)
+* [2026-07-31, 13:24:03](https://news.ycombinator.com/item?id=49122838) - [Moonshot built on 20k Nvidia chip cluster from Alibaba](https://www.bloomberg.com/news/articles/2026-07-31/moonshot-s-kimi-built-on-20-000-nvidia-chip-cluster-from-alibaba)
 * [2026-07-31, 12:10:55](https://news.ycombinator.com/item?id=49122105) - [Ruby Central's Destructive Legacy](https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/)
 * [2026-07-31, 12:00:59](https://news.ycombinator.com/item?id=49122034) - [Tasklet (YC P26) Is Hiring a Customer Success Engineer](https://tasklet.ai/careers/customer-success-engineer)
 * [2026-07-31, 11:51:46](https://news.ycombinator.com/item?id=49121980) - [The End of an Era](https://hughhowey.com/the-end-of-an-era/)
+* [2026-07-31, 11:37:12](https://news.ycombinator.com/item?id=49121868) - [The Maxwell Conjecture Is False (GPT 5.6 Sol)](https://arxiv.org/abs/2607.27197)
 * [2026-07-31, 07:59:11](https://news.ycombinator.com/item?id=49120299) - [DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/deepseek-v4-flash-ga)
 * [2026-07-31, 07:33:10](https://news.ycombinator.com/item?id=49120120) - [Danube's record low levels force shutdown of Hungary's only nuclear plant](https://www.bbc.com/news/articles/cn0nqv05g0do)
 * [2026-07-31, 07:29:22](https://news.ycombinator.com/item?id=49120097) - [Google fixed more Chrome bugs in June than over the past two years, thanks to AI](https://blog.google/security/chrome-stronger-with-every-update/)
