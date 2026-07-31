@@ -129,23 +129,156 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="49119322">
+        <section id="49119559">
           <h3>
-            <a class="item" href="https://human2llm.pages.dev/"
-              >Human Honeypot</a
+            <a class="item" href="https://api-docs.deepseek.com/updates/"
+              >DeepSeek-V4-Flash Update</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-07-31 @ 05:26:13</span
+              <span>2026-07-31 @ 06:08:36</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
+                >Points: <span class="points">147</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49119322"
+                ><a href="https://news.ycombinator.com/item?id=49119559"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 47</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="49119425">
+          <h3>
+            <a class="item" href="https://github.com/mokshablr/gander"
+              >Show HN: Gander, an Android file viewer that asks for no
+              permissions at all</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-31 @ 05:45:13</span
+              ><span class="points-container"
+                >Points: <span class="points">25</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49119425"
+                  >Comments</a
+                ><span class="descendants">: 9</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                I built an Android file viewer that opens PDF, Word, Excel,
+                PowerPoint, images, video, audio, Markdown and code, and asks
+                for no permissions at all.
+              </p>
+              <p>
+                I have always been uneasy about opening files people send me. On
+                Android you either install a 400 MB office suite and sign in or
+                use a small free viewer that wants storage access and ends up
+                uploading your file to a server to render it. Also the hassle of
+                having to download different apps for different file formats was
+                really annoying.
+              </p>
+              <p>
+                Gander holds no permissions, not even INTERNET so the OS itself
+                guarantees the file cannot leave the phone.
+              </p>
+              <p>
+                PDFs use Pdfium, media uses Media3, and Office formats are
+                rendered by bundled JS libraries in a WebView and so no request
+                goes to any server.
+              </p>
+              <p>
+                It is a viewer only. Complex PowerPoint decks come out
+                approximately right, spreadsheet charts are not drawn, and old
+                binary .doc and .ppt are unsupported. I'll work on it as issues
+                come up :P
+              </p>
+              <p>It is 14 MB, MIT licensed and uploaded on Github releases.</p>
+              <p>
+                Do try it! I would love some feedback especially on files that
+                render badly or need new support.
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="49119274">
+          <h3>
+            <a class="item" href="https://marbleos.com/demo"
+              >Show HN: What should the GUI for AI agents look like?</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-31 @ 05:17:29</span
+              ><span class="points-container"
+                >Points: <span class="points">32</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49119274"
+                  >Comments</a
+                ><span class="descendants">: 15</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                The inspiration for Marble comes from the GUI work at Xerox
+                PARC, the 1984 Macintosh, and later NeXTSTEP, which became the
+                foundation for Mac OS X. Before GUIs, interacting with a
+                computer was limited to strange terminal commands:
+              </p>
+              <p>C:\&gt; DIR</p>
+              <p>C:\&gt; COPY FILE.TXT A:</p>
+              <p>
+                You had to remember the command, syntax, paths, and parameters.
+              </p>
+              <p>
+                The GUI made those capabilities visible. Instead of remembering
+                commands, you could point at files, drag them, click buttons,
+                and select actions from menus. It didn't necessarily make
+                entirely new things possible; it just made existing capabilities
+                much easier to understand and use. We feel like AI is still
+                somewhere around this command-line stage.
+              </p>
+              <p>
+                Even though the strict syntax has been replaced with natural
+                language, the interaction can still be quite stiff and depend on
+                heavily recall. Tools like Claude Cowork still look surprisingly
+                terminal-like: /skill-name [param1] [param2]. The parameters are
+                written in natural language, but the user still needs to know
+                the capabilities that exist, and how to invoke it. Command-line
+                flags and arguments have just been replaced with tools, skills,
+                and context.
+              </p>
+              <p>
+                ChatGPT works very well for asking questions, but we aren't
+                convinced that it's the final interface for delegating work
+                across multiple agents. A blank text box and a list of chat
+                threads feels limiting. An agent's capabilities are mostly
+                invisible. With Marble, we're exploring an interface that treats
+                AI more like a workspace than another chat app. Each delegated
+                task becomes a card. Multiple jobs can sit next to each other
+                and run at once. Files, tools, and finished artifacts are
+                visible at once. Before a task runs, Marble also shows which
+                tools it expects to use. The basic idea is that the user should
+                not have to hold the entire structure of the task in their head.
+                And the result should be something directly usable, like a
+                spreadsheet, PowerPoint, or other file, rather than something
+                buried in a transcript.
+              </p>
+              <p>
+                Marble is our attempt at exploring interaction models beyond the
+                chat box. The product is mainly for people who already use
+                ChatGPT or Claude, but haven’t really adopted agent workflows
+                yet. We’ve found that when the tools and possible actions are
+                made more visible, people start delegating work they would not
+                have thought to do through normal chat.
+              </p>
+              <p>
+                The site includes a downloadable beta if you want to try it.
+                Does Marble feel like a genuinely novel interface?
+              </p>
+            </div>
           </section>
         </section>
         <section id="49119063">
@@ -158,31 +291,11 @@
             <h4>
               <span>2026-07-31 @ 04:38:19</span
               ><span class="points-container"
-                >Points: <span class="points">41</span></span
+                >Points: <span class="points">80</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49119063"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49118933">
-          <h3>
-            <a class="item" href="https://greyswansignals.com/?theme=dark"
-              >The AI trade now runs on borrowed money, and the lenders are
-              repricing it</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-31 @ 04:15:04</span
-              ><span class="points-container"
-                >Points: <span class="points">129</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49118933"
-                  >Comments</a
-                ><span class="descendants">: 108</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
@@ -192,39 +305,18 @@
             <a
               class="item"
               href="https://earendil.com/posts/session-portability/"
-              >The Session You Cannot take with you</a
+              >The session you cannot take with you</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-07-31 @ 03:47:59</span
               ><span class="points-container"
-                >Points: <span class="points">145</span></span
+                >Points: <span class="points">241</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49118781"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49118696">
-          <h3>
-            <a
-              class="item"
-              href="https://www.reuters.com/commentary/reuters-open-interest/bond-market-isnt-buying-what-fed-chair-warsh-is-selling-2026-07-30/"
-              >The bond market isn't buying what Fed Chair Warsh is selling</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-31 @ 03:32:21</span
-              ><span class="points-container"
-                >Points: <span class="points">112</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49118696"
-                  >Comments</a
-                ><span class="descendants">: 44</span></span
+                ><span class="descendants">: 47</span></span
               >
             </h4>
           </section>
@@ -241,11 +333,11 @@
             <h4>
               <span>2026-07-31 @ 03:27:36</span
               ><span class="points-container"
-                >Points: <span class="points">128</span></span
+                >Points: <span class="points">135</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49118663"
                   >Comments</a
-                ><span class="descendants">: 104</span></span
+                ><span class="descendants">: 111</span></span
               >
             </h4>
           </section>
@@ -260,11 +352,11 @@
             <h4>
               <span>2026-07-30 @ 23:43:22</span
               ><span class="points-container"
-                >Points: <span class="points">99</span></span
+                >Points: <span class="points">127</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49117284"
                   >Comments</a
-                ><span class="descendants">: 38</span></span
+                ><span class="descendants">: 65</span></span
               >
             </h4>
           </section>
@@ -281,11 +373,11 @@
             <h4>
               <span>2026-07-30 @ 23:22:16</span
               ><span class="points-container"
-                >Points: <span class="points">278</span></span
+                >Points: <span class="points">290</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49117099"
                   >Comments</a
-                ><span class="descendants">: 119</span></span
+                ><span class="descendants">: 125</span></span
               >
             </h4>
           </section>
@@ -303,11 +395,11 @@
             <h4>
               <span>2026-07-30 @ 23:00:51</span
               ><span class="points-container"
-                >Points: <span class="points">165</span></span
+                >Points: <span class="points">175</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49116922"
                   >Comments</a
-                ><span class="descendants">: 126</span></span
+                ><span class="descendants">: 136</span></span
               >
             </h4>
           </section>
@@ -325,11 +417,11 @@
             <h4>
               <span>2026-07-30 @ 22:33:11</span
               ><span class="points-container"
-                >Points: <span class="points">159</span></span
+                >Points: <span class="points">177</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49116721"
                   >Comments</a
-                ><span class="descendants">: 65</span></span
+                ><span class="descendants">: 76</span></span
               >
             </h4>
           </section>
@@ -345,11 +437,11 @@
             <h4>
               <span>2026-07-30 @ 21:47:31</span
               ><span class="points-container"
-                >Points: <span class="points">77</span></span
+                >Points: <span class="points">80</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49116272"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 26</span></span
               >
             </h4>
           </section>
@@ -367,31 +459,11 @@
             <h4>
               <span>2026-07-30 @ 21:31:03</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">49</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49116074"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49114639">
-          <h3>
-            <a class="item" href="https://github.com/AminBlg/SimpleEnglish"
-              >Agent Skill to Force Docs in ASD-STE100 Simplified Technical
-              English</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-30 @ 19:34:27</span
-              ><span class="points-container"
-                >Points: <span class="points">286</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49114639"
-                  >Comments</a
-                ><span class="descendants">: 103</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
@@ -409,11 +481,11 @@
             <h4>
               <span>2026-07-30 @ 18:40:52</span
               ><span class="points-container"
-                >Points: <span class="points">942</span></span
+                >Points: <span class="points">984</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49113929"
                   >Comments</a
-                ><span class="descendants">: 518</span></span
+                ><span class="descendants">: 530</span></span
               >
             </h4>
           </section>
@@ -431,11 +503,11 @@
             <h4>
               <span>2026-07-30 @ 18:13:06</span
               ><span class="points-container"
-                >Points: <span class="points">115</span></span
+                >Points: <span class="points">121</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49113599"
                   >Comments</a
-                ><span class="descendants">: 63</span></span
+                ><span class="descendants">: 64</span></span
               >
             </h4>
             <div class="text">
@@ -538,11 +610,11 @@
             <h4>
               <span>2026-07-30 @ 17:52:51</span
               ><span class="points-container"
-                >Points: <span class="points">158</span></span
+                >Points: <span class="points">165</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49113338"
                   >Comments</a
-                ><span class="descendants">: 45</span></span
+                ><span class="descendants">: 47</span></span
               >
             </h4>
           </section>
@@ -559,11 +631,11 @@
             <h4>
               <span>2026-07-30 @ 17:15:51</span
               ><span class="points-container"
-                >Points: <span class="points">555</span></span
+                >Points: <span class="points">567</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49112867"
                   >Comments</a
-                ><span class="descendants">: 362</span></span
+                ><span class="descendants">: 366</span></span
               >
             </h4>
           </section>
@@ -580,28 +652,11 @@
             <h4>
               <span>2026-07-30 @ 17:04:53</span
               ><span class="points-container"
-                >Points: <span class="points">680</span></span
+                >Points: <span class="points">694</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49112744"
                   >Comments</a
-                ><span class="descendants">: 387</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49112683">
-          <h3>
-            <a
-              class="item"
-              href="https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer"
-              >Rise Reforming (YC S26) Is Hiring</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-07-30 @ 17:00:21</span
-              ><span class="points-container"
-                >Points: <span class="points">1</span></span
+                ><span class="descendants">: 395</span></span
               >
             </h4>
           </section>
@@ -618,11 +673,11 @@
             <h4>
               <span>2026-07-30 @ 16:26:16</span
               ><span class="points-container"
-                >Points: <span class="points">594</span></span
+                >Points: <span class="points">619</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49112232"
                   >Comments</a
-                ><span class="descendants">: 199</span></span
+                ><span class="descendants">: 206</span></span
               >
             </h4>
           </section>
@@ -639,11 +694,11 @@
             <h4>
               <span>2026-07-30 @ 15:22:46</span
               ><span class="points-container"
-                >Points: <span class="points">203</span></span
+                >Points: <span class="points">212</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49111305"
                   >Comments</a
-                ><span class="descendants">: 121</span></span
+                ><span class="descendants">: 129</span></span
               >
             </h4>
           </section>
@@ -660,11 +715,11 @@
             <h4>
               <span>2026-07-30 @ 15:15:48</span
               ><span class="points-container"
-                >Points: <span class="points">538</span></span
+                >Points: <span class="points">547</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49111237"
                   >Comments</a
-                ><span class="descendants">: 430</span></span
+                ><span class="descendants">: 436</span></span
               >
             </h4>
           </section>
@@ -681,11 +736,11 @@
             <h4>
               <span>2026-07-30 @ 15:10:27</span
               ><span class="points-container"
-                >Points: <span class="points">228</span></span
+                >Points: <span class="points">232</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49111176"
                   >Comments</a
-                ><span class="descendants">: 92</span></span
+                ><span class="descendants">: 96</span></span
               >
             </h4>
           </section>
@@ -702,11 +757,32 @@
             <h4>
               <span>2026-07-30 @ 14:11:42</span
               ><span class="points-container"
-                >Points: <span class="points">159</span></span
+                >Points: <span class="points">162</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49110308"
                   >Comments</a
-                ><span class="descendants">: 209</span></span
+                ><span class="descendants">: 213</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49109193">
+          <h3>
+            <a
+              class="item"
+              href="https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a"
+              >Why is everyone trying to build a solid-state battery?</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-30 @ 12:38:51</span
+              ><span class="points-container"
+                >Points: <span class="points">189</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49109193"
+                  >Comments</a
+                ><span class="descendants">: 239</span></span
               >
             </h4>
           </section>
@@ -721,11 +797,11 @@
             <h4>
               <span>2026-07-30 @ 11:45:44</span
               ><span class="points-container"
-                >Points: <span class="points">275</span></span
+                >Points: <span class="points">284</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49108685"
                   >Comments</a
-                ><span class="descendants">: 308</span></span
+                ><span class="descendants">: 312</span></span
               >
             </h4>
           </section>
@@ -743,9 +819,28 @@
             <h4>
               <span>2026-07-29 @ 11:42:04</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
+                >Points: <span class="points">25</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49096170"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49088098">
+          <h3>
+            <a class="item" href="https://ccsim.fly.dev"
+              >Simulating TCP loss and congestion in browser using Go/WASM</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-28 @ 18:38:14</span
+              ><span class="points-container"
+                >Points: <span class="points">8</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49088098"
                   >Comments</a
                 ><span class="descendants">: 0</span></span
               >
@@ -763,11 +858,11 @@
             <h4>
               <span>2026-07-28 @ 13:56:27</span
               ><span class="points-container"
-                >Points: <span class="points">68</span></span
+                >Points: <span class="points">73</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49083970"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -777,18 +872,18 @@
             <a
               class="item"
               href="https://www.bunniestudios.com/blog/2013/where-usb-memory-sticks-are-born/"
-              >Where USB Memory Sticks Are Born</a
+              >Where USB Memory Sticks are Born (2013)</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-07-27 @ 23:59:37</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">42</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49077372"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -805,11 +900,11 @@
             <h4>
               <span>2026-07-27 @ 17:37:32</span
               ><span class="points-container"
-                >Points: <span class="points">42</span></span
+                >Points: <span class="points">47</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49073017"
                   >Comments</a
-                ><span class="descendants">: 33</span></span
+                ><span class="descendants">: 34</span></span
               >
             </h4>
           </section>
@@ -826,7 +921,7 @@
             <h4>
               <span>2026-07-27 @ 15:48:09</span
               ><span class="points-container"
-                >Points: <span class="points">94</span></span
+                >Points: <span class="points">101</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49071299"
                   >Comments</a
