@@ -94,6 +94,7 @@
 * [2026-07-27, 06:18:10](https://news.ycombinator.com/item?id=49065752) - [Kimi-K3 Releases on HuggingFace 6/27](https://huggingface.co/moonshotai/Kimi-K3)
 * [2026-07-27, 05:39:33](https://news.ycombinator.com/item?id=49065540) - [Interconverting std::function with copyable_function](https://quuxplusone.github.io/blog/2026/07/26/function-explosion/)
 * [2026-07-27, 05:31:33](https://news.ycombinator.com/item?id=49065498) - [EU Fines Google $1.02B for Favoring Its Own Services](https://www.wsj.com/tech/google-fined-1-02-billion-under-eus-tech-antitrust-rules-7e8ae1fb)
+* [2026-07-27, 02:45:34](https://news.ycombinator.com/item?id=49064656) - [Making Referential Stability a Type](https://jovidecroock.com/blog/referential-stability-types/)
 * [2026-07-27, 02:33:22](https://news.ycombinator.com/item?id=49064588) - [The old-school way of keeping the summer heat out of your home](https://monocle.com/design/architecture/keeping-your-home-cool-without-air-conditioning/)
 * [2026-07-27, 00:58:45](https://news.ycombinator.com/item?id=49063983) - [Hunter-gatherers introduced fish to a mountain lake 7000 years ago](https://www.newscientist.com/article/2580119-hunter-gatherers-introduced-fish-to-a-mountain-lake-7000-years-ago/)
 * [2026-07-27, 00:25:05](https://news.ycombinator.com/item?id=49063789) - [I Championed Prediction Markets. Look What They've Become](https://newsletter.platypuseconomics.com/p/i-championed-prediction-markets-look)
