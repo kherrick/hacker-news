@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-31](index.md)
 
+* [2026-07-31, 17:01:08](https://news.ycombinator.com/item?id=49125785) - [Miso (YC S16) is hiring for U.S. expansion](https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion)
+* [2026-07-31, 16:15:31](https://news.ycombinator.com/item?id=49125034) - [Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio](https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/)
 * [2026-07-31, 16:07:55](https://news.ycombinator.com/item?id=49124917) - [Online Friends Are Real Friends](https://toska.bearblog.dev/re-online-friends-are-real-friends/)
 * [2026-07-31, 16:04:32](https://news.ycombinator.com/item?id=49124858) - [Big Food vs. the People](https://www.lighthousereports.com/investigation/big-food-vs-the-people/)
 * [2026-07-31, 16:02:25](https://news.ycombinator.com/item?id=49124825) - [US Government lists fictional nation Wakanda as trade partner](https://www.bbc.com/news/world-us-canada-50849559)
@@ -27,6 +29,7 @@
 * [2026-07-31, 14:55:08](https://news.ycombinator.com/item?id=49123977) - [Why ugly buildings create NIMBYism](https://www.worksinprogress.news/p/why-ugly-buildings-create-nimbyism)
 * [2026-07-31, 14:41:13](https://news.ycombinator.com/item?id=49123789) - [Show HN: BitBang – Reach machines behind NAT from a browser, no account](https://github.com/richlegrand/bitbang-cli)
 * [2026-07-31, 14:25:43](https://news.ycombinator.com/item?id=49123579) - [Detect Dark Matter's Mark from Your Backyard](https://spectrum.ieee.org/dark-matter)
+* [2026-07-31, 14:12:38](https://news.ycombinator.com/item?id=49123386) - [Run Kimi K3 using 29 GB of RAM at 0.50 tok/s](https://github.com/sqliteai/waste)
 * [2026-07-31, 14:05:02](https://news.ycombinator.com/item?id=49123300) - [Better to Beg Forgiveness](https://pluralistic.net/2026/07/31/just-do-it/)
 * [2026-07-31, 14:01:15](https://news.ycombinator.com/item?id=49123258) - [U.S. debt-to-GDP ratio reaches 123%](https://fred.stlouisfed.org/series/GFDEGDQ188S)
 * [2026-07-31, 13:57:35](https://news.ycombinator.com/item?id=49123208) - [Arch Linux disables AUR package adoption](https://lwn.net/Articles/1086489/)

@@ -55,6 +55,7 @@
 * [2026-07-27, 15:40:17](https://news.ycombinator.com/item?id=49071190) - [How real are real numbers? (2004)](https://arxiv.org/abs/math/0411418)
 * [2026-07-27, 15:23:45](https://news.ycombinator.com/item?id=49070985) - [Kimi-K3 Technical Report [pdf]](https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf)
 * [2026-07-27, 15:11:51](https://news.ycombinator.com/item?id=49070820) - [Minecraft Java raises recommended memory to 16GB ahead of Vulkan transition](https://videocardz.com/newz/minecraft-java-edition-raises-recommended-memory-to-16gb-ahead-of-vulkan-transition)
+* [2026-07-27, 15:11:14](https://news.ycombinator.com/item?id=49070810) - [How JPEG works: Interactively explore JPEG's lossy compression methods](https://cgjennings.ca/articles/jpeg-compression/)
 * [2026-07-27, 15:10:56](https://news.ycombinator.com/item?id=49070805) - [Tokio Gives Progress, Not Ordering: Scheduling 1M Tasks](https://pranitha.dev/posts/tokio-gives-progress-not-ordering/)
 * [2026-07-27, 15:08:16](https://news.ycombinator.com/item?id=49070756) - [Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles](https://eaton-works.com/2026/07/27/my-eicher-hack/)
 * [2026-07-27, 14:42:41](https://news.ycombinator.com/item?id=49070427) - [Apple Will 'Watch Everything Burn' When the AI Bubble Bursts](https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/)
