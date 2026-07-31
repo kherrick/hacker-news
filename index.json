@@ -1,22 +1,42 @@
 [
   [
     [
+      "2026-07-31, 21:08:05",
+      "https://news.ycombinator.com/item?id=49128539"
+    ],
+    [
+      "Apple Will 'Watch Everything Burn' When AI Bubble Bursts",
+      "https://asymco.com/2026/07/31/apple-will-watch-everything-burn-when-ai-bubble-bursts/"
+    ]
+  ],
+  [
+    [
+      "2026-07-31, 21:00:40",
+      "https://news.ycombinator.com/item?id=49128462"
+    ],
+    [
+      "Loops (YC W22) Is Hiring a Product Educator",
+      "https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator"
+    ]
+  ],
+  [
+    [
+      "2026-07-31, 20:44:29",
+      "https://news.ycombinator.com/item?id=49128323"
+    ],
+    [
+      "Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena",
+      "https://arxiv.org/abs/2607.28233"
+    ]
+  ],
+  [
+    [
       "2026-07-31, 19:03:45",
       "https://news.ycombinator.com/item?id=49127306"
     ],
     [
       "Tailscale didn't stop the Hugging Face intrusion",
       "https://tailscale.com/blog/hugging-face-intrusion"
-    ]
-  ],
-  [
-    [
-      "2026-07-31, 18:46:36",
-      "https://news.ycombinator.com/item?id=49127108"
-    ],
-    [
-      "Lerd, an open source Herd-like PHP development environment for Linux and macOS",
-      "https://github.com/lerd-env/lerd"
     ]
   ],
   [
@@ -101,26 +121,6 @@
   ],
   [
     [
-      "2026-07-31, 17:01:08",
-      "https://news.ycombinator.com/item?id=49125785"
-    ],
-    [
-      "Miso (YC S16) is hiring for U.S. expansion",
-      "https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion"
-    ]
-  ],
-  [
-    [
-      "2026-07-31, 16:24:09",
-      "https://news.ycombinator.com/item?id=49125187"
-    ],
-    [
-      "Dario Amodei's stance on open weights is self-serving and short-sighted",
-      "https://janilowski.pl/en/blog/2026/amodei-memo/"
-    ]
-  ],
-  [
-    [
       "2026-07-31, 16:15:31",
       "https://news.ycombinator.com/item?id=49125034"
     ],
@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2026-07-31, 15:28:28",
-      "https://news.ycombinator.com/item?id=49124336"
-    ],
-    [
-      "13 Models and 4 Agents on SWE Tasks: Go, Java, Python, Rust, TS",
-      "https://swe-rebench.com"
-    ]
-  ],
-  [
-    [
       "2026-07-31, 15:17:28",
       "https://news.ycombinator.com/item?id=49124218"
     ],
@@ -201,12 +191,12 @@
   ],
   [
     [
-      "2026-07-31, 14:41:13",
-      "https://news.ycombinator.com/item?id=49123789"
+      "2026-07-31, 14:17:43",
+      "https://news.ycombinator.com/item?id=49123468"
     ],
     [
-      "Show HN: BitBang – Reach machines behind NAT from a browser, no account",
-      "https://github.com/richlegrand/bitbang-cli"
+      "Authorize, don't authenticate",
+      "https://blog.marcua.net/2026/07/31/authorize-dont-authenticate.html"
     ]
   ],
   [
@@ -221,32 +211,12 @@
   ],
   [
     [
-      "2026-07-31, 13:56:31",
-      "https://news.ycombinator.com/item?id=49123199"
+      "2026-07-31, 10:04:40",
+      "https://news.ycombinator.com/item?id=49121196"
     ],
     [
-      "Clockwise/Spiral Rule (1994)",
-      "https://c-faq.com/decl/spiral.anderson.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-31, 13:28:05",
-      "https://news.ycombinator.com/item?id=49122882"
-    ],
-    [
-      "Anti-fraud tools can't keep pace with robocall scammers",
-      "https://broadbandbreakfast.com/how-to-fight-back-against-fraudulent-robocalls/"
-    ]
-  ],
-  [
-    [
-      "2026-07-31, 11:51:46",
-      "https://news.ycombinator.com/item?id=49121980"
-    ],
-    [
-      "The End of an Era",
-      "https://hughhowey.com/the-end-of-an-era/"
+      "Progressive Web Components",
+      "https://arielsalminen.com/2026/progressive-web-components/"
     ]
   ],
   [
@@ -267,6 +237,36 @@
     [
       "DeepSeek-V4-Flash Update",
       "https://api-docs.deepseek.com/updates/"
+    ]
+  ],
+  [
+    [
+      "2026-07-31, 05:16:45",
+      "https://news.ycombinator.com/item?id=49119270"
+    ],
+    [
+      "Let's make the worst Htmx",
+      "https://zserge.com/posts/worst-htmx-ever/"
+    ]
+  ],
+  [
+    [
+      "2026-07-31, 04:39:07",
+      "https://news.ycombinator.com/item?id=49119065"
+    ],
+    [
+      "Just brute force your embeddings",
+      "https://softwaredoug.com/blog/2026/07/29/just-brute-force-embeddings"
+    ]
+  ],
+  [
+    [
+      "2026-07-28, 13:31:25",
+      "https://news.ycombinator.com/item?id=49083599"
+    ],
+    [
+      "Twenty-five years ago it was cryptography, today it's model weights",
+      "https://weeraman.com/because-we-can/"
     ]
   ],
   [
