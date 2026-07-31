@@ -6,6 +6,7 @@
 
 * [2026-07-31, 19:03:45](https://news.ycombinator.com/item?id=49127306) - [Tailscale didn't stop the Hugging Face intrusion](https://tailscale.com/blog/hugging-face-intrusion)
 * [2026-07-31, 18:54:13](https://news.ycombinator.com/item?id=49127205) - [Nuclear Waste Cleanup: DOE Is Missing Opportunities to Apply Lessons](https://www.gao.gov/products/gao-26-108082)
+* [2026-07-31, 18:46:36](https://news.ycombinator.com/item?id=49127108) - [Lerd, an open source Herd-like PHP development environment for Linux and macOS](https://github.com/lerd-env/lerd)
 * [2026-07-31, 18:39:47](https://news.ycombinator.com/item?id=49127031) - [Golang proposal: container/: generic collection types](https://github.com/golang/go/issues/80590)
 * [2026-07-31, 18:32:43](https://news.ycombinator.com/item?id=49126943) - [Orca-Bench: How Ready Are Language Model Agents for Oncall?](https://arxiv.org/abs/2607.28545)
 * [2026-07-31, 18:30:44](https://news.ycombinator.com/item?id=49126919) - [Using the railway network as a flatbed scanner [video]](https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner)
@@ -17,6 +18,7 @@
 * [2026-07-31, 17:15:09](https://news.ycombinator.com/item?id=49125971) - [Severance](https://lcamtuf.substack.com/p/severance)
 * [2026-07-31, 17:01:08](https://news.ycombinator.com/item?id=49125785) - [Miso (YC S16) is hiring for U.S. expansion](https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion)
 * [2026-07-31, 16:26:53](https://news.ycombinator.com/item?id=49125237) - [The great wealth transfer reality check](https://usa.visa.com/partner-with-us/visa-consulting-analytics/economic-insights/great-wealth-transfer-reality-check.html)
+* [2026-07-31, 16:24:09](https://news.ycombinator.com/item?id=49125187) - [Dario Amodei's stance on open weights is self-serving and short-sighted](https://janilowski.pl/en/blog/2026/amodei-memo/)
 * [2026-07-31, 16:15:31](https://news.ycombinator.com/item?id=49125034) - [Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio](https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/)
 * [2026-07-31, 16:07:55](https://news.ycombinator.com/item?id=49124917) - [Online Friends Are Real Friends](https://toska.bearblog.dev/re-online-friends-are-real-friends/)
 * [2026-07-31, 16:04:32](https://news.ycombinator.com/item?id=49124858) - [Big Food vs. the People](https://www.lighthousereports.com/investigation/big-food-vs-the-people/)

@@ -81,6 +81,7 @@
 * [2026-07-28, 07:44:24](https://news.ycombinator.com/item?id=49080664) - [7.1 Earthquake in Japan](https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en)
 * [2026-07-28, 07:37:22](https://news.ycombinator.com/item?id=49080605) - [Does Speaking to Agents Like Cavemen Save 65% of Tokens? We Test](https://blog.jetbrains.com/ai/2026/07/speak-to-ai-agents-like-cavemen-tosave-tokens/)
 * [2026-07-28, 06:11:18](https://news.ycombinator.com/item?id=49080031) - [Recursive Filters: SMA, EMA, Low‑Pass, and a Tiny Kalman](https://www.staszewski.xyz/blog/recursive-filters/)
+* [2026-07-28, 05:39:52](https://news.ycombinator.com/item?id=49079837) - [A simple clustering algorithm for lists](https://cassidoo.co/post/clustering-tiles/)
 * [2026-07-28, 05:25:34](https://news.ycombinator.com/item?id=49079727) - [Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts](https://arsastronomica.com/)
 * [2026-07-28, 04:49:54](https://news.ycombinator.com/item?id=49079490) - [Neutrino-1 8B](https://www.fermionresearch.com/models/neutrino-8b/)
 * [2026-07-28, 04:46:00](https://news.ycombinator.com/item?id=49079454) - [PyTorch: A Reference Language](https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/)
