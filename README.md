@@ -1,10 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-31, 23:34:37](https://news.ycombinator.com/item?id=49129699) - [That Viral Photo of San Francisco NIMBYs Shows Why Housing Is Winning](https://inpractice.yimbyaction.org/p/that-viral-photo-of-san-francisco)
 * [2026-07-31, 21:00:40](https://news.ycombinator.com/item?id=49128462) - [Loops (YC W22) Is Hiring a Product Educator](https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator)
 * [2026-07-31, 20:44:29](https://news.ycombinator.com/item?id=49128323) - [Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena](https://arxiv.org/abs/2607.28233)
 * [2026-07-31, 19:55:41](https://news.ycombinator.com/item?id=49127874) - [Predictive Speculative KV Replication for Bursty LLM Inference](https://jwlabs.vercel.app/post/biting-the-bullet)
 * [2026-07-31, 19:03:45](https://news.ycombinator.com/item?id=49127306) - [Tailscale didn't stop the Hugging Face intrusion](https://tailscale.com/blog/hugging-face-intrusion)
 * [2026-07-31, 18:39:47](https://news.ycombinator.com/item?id=49127031) - [Golang proposal: container/: generic collection types](https://github.com/golang/go/issues/80590)
+* [2026-07-31, 18:32:43](https://news.ycombinator.com/item?id=49126943) - [Orca-Bench: How Ready Are Language Model Agents for Oncall?](https://arxiv.org/abs/2607.28545)
 * [2026-07-31, 18:30:44](https://news.ycombinator.com/item?id=49126919) - [Using the railway network as a flatbed scanner [video]](https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner)
 * [2026-07-31, 18:28:08](https://news.ycombinator.com/item?id=49126883) - [Termixer (TUI DJ Mixer)](https://github.com/l00sed/termixer)
 * [2026-07-31, 18:17:52](https://news.ycombinator.com/item?id=49126765) - [June in Servo: real world compat, media queries, SharedWorker, and more](https://servo.org/blog/2026/07/31/june-in-servo/)
@@ -20,7 +22,6 @@
 * [2026-07-31, 15:00:15](https://news.ycombinator.com/item?id=49124042) - [The most official water costs $120k a gallon](https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/)
 * [2026-07-31, 14:17:43](https://news.ycombinator.com/item?id=49123468) - [Authorize, don't authenticate](https://blog.marcua.net/2026/07/31/authorize-dont-authenticate.html)
 * [2026-07-31, 14:12:38](https://news.ycombinator.com/item?id=49123386) - [Run Kimi K3 using 29 GB of RAM at 0.50 tok/s](https://github.com/sqliteai/waste)
-* [2026-07-31, 11:34:24](https://news.ycombinator.com/item?id=49121849) - [Increasing the lifespan of a bulb makes it worse in every other way](https://maurycyz.com/misc/tungsten/)
 * [2026-07-31, 10:04:40](https://news.ycombinator.com/item?id=49121196) - [Progressive Web Components](https://arielsalminen.com/2026/progressive-web-components/)
 * [2026-07-31, 07:59:11](https://news.ycombinator.com/item?id=49120299) - [DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/deepseek-v4-flash)
 * [2026-07-31, 05:16:45](https://news.ycombinator.com/item?id=49119270) - [Let's make the worst Htmx](https://zserge.com/posts/worst-htmx-ever/)
@@ -28,7 +29,6 @@
 * [2026-07-29, 11:59:10](https://news.ycombinator.com/item?id=49096319) - [The First Transatlantic Telegraph Cable Was a Bold, Beautiful Failure](https://spectrum.ieee.org/the-first-transatlantic-telegraph-cable-was-a-bold-beautiful-failure)
 * [2026-07-29, 06:54:23](https://news.ycombinator.com/item?id=49094200) - [Britain's New World of Tobacco (2017)](https://www.historytoday.com/archive/feature/britains-new-world-tobacco)
 * [2026-07-28, 13:31:25](https://news.ycombinator.com/item?id=49083599) - [Twenty-five years ago it was cryptography, today it's model weights](https://weeraman.com/because-we-can/)
-* [2026-07-28, 00:35:38](https://news.ycombinator.com/item?id=49077723) - [Hope and Defeat: John Berger](https://newleftreview.org/sidecar/posts/hope-and-defeat)
 * [2026-07-27, 15:11:14](https://news.ycombinator.com/item?id=49070810) - [How JPEG works: Interactively explore JPEG's lossy compression methods](https://cgjennings.ca/articles/jpeg-compression/)
 
 ## [Archives](archives/index.md)

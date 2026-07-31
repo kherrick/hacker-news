@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-31](index.md)
 
+* [2026-07-31, 23:34:37](https://news.ycombinator.com/item?id=49129699) - [That Viral Photo of San Francisco NIMBYs Shows Why Housing Is Winning](https://inpractice.yimbyaction.org/p/that-viral-photo-of-san-francisco)
 * [2026-07-31, 21:39:52](https://news.ycombinator.com/item?id=49128826) - [Show HN: I worked on a new browser for 2 years, today it passed Acid 3](https://code.intellios.ai/cwbrowser/)
 * [2026-07-31, 21:08:05](https://news.ycombinator.com/item?id=49128539) - [Apple Will 'Watch Everything Burn' When AI Bubble Bursts](https://asymco.com/2026/07/31/apple-will-watch-everything-burn-when-ai-bubble-bursts/)
 * [2026-07-31, 21:00:40](https://news.ycombinator.com/item?id=49128462) - [Loops (YC W22) Is Hiring a Product Educator](https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator)
