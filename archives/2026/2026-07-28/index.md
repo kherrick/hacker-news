@@ -26,6 +26,7 @@
 * [2026-07-28, 18:41:48](https://news.ycombinator.com/item?id=49088148) - [Deflock Casa Grande](https://deflockcg.com/)
 * [2026-07-28, 18:38:14](https://news.ycombinator.com/item?id=49088098) - [Simulating TCP loss and congestion in browser using Go/WASM](https://ccsim.fly.dev)
 * [2026-07-28, 18:35:11](https://news.ycombinator.com/item?id=49088058) - [MCP 2026-07-28 Specification: transport going stateless](https://blog.modelcontextprotocol.io/posts/2026-07-28/)
+* [2026-07-28, 18:04:14](https://news.ycombinator.com/item?id=49087673) - [Obfuscation (Part II): Diamond IO](https://vitalik.eth.limo/general/2026/07/28/obfuscation_part_ii_diamond_io.html)
 * [2026-07-28, 17:37:12](https://news.ycombinator.com/item?id=49087306) - [iPhone Upgrade Program](https://www.apple.com/shop/iphone/iphone-upgrade-program)
 * [2026-07-28, 17:22:16](https://news.ycombinator.com/item?id=49087091) - [Discovering Cryptographic Weaknesses with Claude](https://www.anthropic.com/research/discovering-cryptographic-weaknesses)
 * [2026-07-28, 17:13:15](https://news.ycombinator.com/item?id=49086987) - [Scientific computing in the age of agentic AI](https://openai.com/index/scientific-computing-agentic-ai/)

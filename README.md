@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-31, 07:59:11](https://news.ycombinator.com/item?id=49120299) - [DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/deepseek-v4-flash-ga)
 * [2026-07-31, 07:33:10](https://news.ycombinator.com/item?id=49120120) - [Danube's record low levels force shutdown of Hungary's only nuclear plant](https://www.bbc.com/news/articles/cn0nqv05g0do)
 * [2026-07-31, 07:29:22](https://news.ycombinator.com/item?id=49120097) - [Google fixed more Chrome bugs in June than over the past two years, thanks to AI](https://blog.google/security/chrome-stronger-with-every-update/)
 * [2026-07-31, 06:08:36](https://news.ycombinator.com/item?id=49119559) - [DeepSeek-V4-Flash Update](https://api-docs.deepseek.com/updates/)
@@ -7,7 +8,6 @@
 * [2026-07-31, 05:17:29](https://news.ycombinator.com/item?id=49119274) - [Show HN: What should the GUI for AI agents look like?](https://marbleos.com/demo)
 * [2026-07-31, 04:38:19](https://news.ycombinator.com/item?id=49119063) - [JEP 401: Value Objects (Preview) merged to OpenJDK master](https://github.com/openjdk/jdk/pull/31120)
 * [2026-07-31, 03:47:59](https://news.ycombinator.com/item?id=49118781) - [The session you cannot take with you](https://earendil.com/posts/session-portability/)
-* [2026-07-31, 02:54:02](https://news.ycombinator.com/item?id=49118474) - [\"the very foundation of modern academia has been blown to bits\"](https://twitter.com/lemire/status/2082851447499088173)
 * [2026-07-30, 23:43:22](https://news.ycombinator.com/item?id=49117284) - [The Religion of Speed](https://graybeard.ing/the-religion-of-speed/)
 * [2026-07-30, 23:22:16](https://news.ycombinator.com/item?id=49117099) - [The AI Aesthetic](https://blog.jim-nielsen.com/2026/ai-aesthetic/)
 * [2026-07-30, 22:33:11](https://news.ycombinator.com/item?id=49116721) - [I flagged two research papers for fake authors and both were accepted as orals](https://geospatialml.com/posts/reviewing-ai-slop/)
@@ -25,9 +25,9 @@
 * [2026-07-30, 11:45:44](https://news.ycombinator.com/item?id=49108685) - [GCC steering committee announces AI policy](https://lwn.net/Articles/1086041/)
 * [2026-07-29, 11:42:04](https://news.ycombinator.com/item?id=49096170) - [The mean means nothing: data visualization to debug a latency problem](https://fzakaria.com/2026/07/27/the-mean-means-nothing)
 * [2026-07-28, 18:38:14](https://news.ycombinator.com/item?id=49088098) - [Simulating TCP loss and congestion in browser using Go/WASM](https://ccsim.fly.dev)
+* [2026-07-28, 18:04:14](https://news.ycombinator.com/item?id=49087673) - [Obfuscation (Part II): Diamond IO](https://vitalik.eth.limo/general/2026/07/28/obfuscation_part_ii_diamond_io.html)
 * [2026-07-28, 13:56:27](https://news.ycombinator.com/item?id=49083970) - [Memo-1: A 6502 computer built from scratch, using a Minitel as its terminal](https://github.com/MemoireMorte/Memo-1)
 * [2026-07-27, 23:59:37](https://news.ycombinator.com/item?id=49077372) - [Where USB Memory Sticks are Born (2013)](https://www.bunniestudios.com/blog/2013/where-usb-memory-sticks-are-born/)
-* [2026-07-27, 17:37:32](https://news.ycombinator.com/item?id=49073017) - [The American Grilled Cheese Sandwich Essay (2024)](https://buttondown.com/theswordandthesandwich/archive/the-best-american-grilled-cheese-sandwich-essay/)
 * [2026-07-27, 15:48:09](https://news.ycombinator.com/item?id=49071299) - [Bad Apple but It's Traceroute](https://jssfr.de/2026-07-27-bad-apple-but-traceroute.html)
 * [2026-07-27, 11:51:08](https://news.ycombinator.com/item?id=49068229) - [Show HN: A udev implementation in Guile Scheme](https://codeberg.org/goodev/goodev)
 

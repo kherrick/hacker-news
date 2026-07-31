@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-31](index.md)
 
+* [2026-07-31, 07:59:11](https://news.ycombinator.com/item?id=49120299) - [DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/deepseek-v4-flash-ga)
 * [2026-07-31, 07:33:10](https://news.ycombinator.com/item?id=49120120) - [Danube's record low levels force shutdown of Hungary's only nuclear plant](https://www.bbc.com/news/articles/cn0nqv05g0do)
 * [2026-07-31, 07:29:22](https://news.ycombinator.com/item?id=49120097) - [Google fixed more Chrome bugs in June than over the past two years, thanks to AI](https://blog.google/security/chrome-stronger-with-every-update/)
 * [2026-07-31, 06:08:36](https://news.ycombinator.com/item?id=49119559) - [DeepSeek-V4-Flash Update](https://api-docs.deepseek.com/updates/)
