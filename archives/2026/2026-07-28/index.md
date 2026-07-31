@@ -69,6 +69,7 @@
 * [2026-07-28, 12:19:07](https://news.ycombinator.com/item?id=49082695) - [Mondragon Corporation – a federation of co-operatives](https://en.wikipedia.org/wiki/Mondragon_Corporation)
 * [2026-07-28, 12:04:07](https://news.ycombinator.com/item?id=49082562) - [Show HN: Vivari – Open-Source WebContainer for Node, Bun, and Python](https://vivari.jamesisme.com)
 * [2026-07-28, 12:02:57](https://news.ycombinator.com/item?id=49082550) - [Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)](https://jfrog.com/blog/jfrog-and-openai-collaboration-on-zero-day-security-findings/)
+* [2026-07-28, 11:16:37](https://news.ycombinator.com/item?id=49082198) - [I 4x'd a 367x479 stamp-sized photo through 8 upscaling models](https://enlarger.app/blog/upscayl-vs-enlarger/)
 * [2026-07-28, 10:52:30](https://news.ycombinator.com/item?id=49082022) - [Kimi Linear: An Expressive, Efficient Attention Architecture](https://arxiv.org/abs/2510.26692)
 * [2026-07-28, 10:33:57](https://news.ycombinator.com/item?id=49081887) - [Show HN: Open-source Cloudflare deployed agent native task management and wiki](https://tajd.github.io/projektor/)
 * [2026-07-28, 10:30:54](https://news.ycombinator.com/item?id=49081862) - [Usenet Archive Toolkit – process Usenet messages into a searchable archive](https://github.com/wolfpld/usenetarchive)
