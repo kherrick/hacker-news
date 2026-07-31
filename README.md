@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-31, 15:29:39](https://news.ycombinator.com/item?id=49124358) - [Is AI Reasoning Right for the Wrong Reasons?](https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/)
+* [2026-07-31, 14:25:43](https://news.ycombinator.com/item?id=49123579) - [Detect Dark Matter's Mark from Your Backyard](https://spectrum.ieee.org/dark-matter)
 * [2026-07-31, 14:05:02](https://news.ycombinator.com/item?id=49123300) - [Better to Beg Forgiveness](https://pluralistic.net/2026/07/31/just-do-it/)
 * [2026-07-31, 13:37:36](https://news.ycombinator.com/item?id=49122994) - [Situational Awareness Down 67% in July in AI Stock Rout](https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f)
 * [2026-07-31, 13:24:03](https://news.ycombinator.com/item?id=49122838) - [Moonshot built on 20k Nvidia chip cluster from Alibaba](https://www.bloomberg.com/news/articles/2026-07-31/moonshot-s-kimi-built-on-20-000-nvidia-chip-cluster-from-alibaba)
@@ -16,8 +18,6 @@
 * [2026-07-30, 23:43:22](https://news.ycombinator.com/item?id=49117284) - [The Religion of Speed](https://graybeard.ing/the-religion-of-speed/)
 * [2026-07-30, 23:40:59](https://news.ycombinator.com/item?id=49117266) - [Premier league bans gambling sponsors](https://www.footyheadlines.com/2646571793/betting-ban-takes-effect-no-more-gambling-sponsors-in-the-premier-league.html)
 * [2026-07-30, 22:33:11](https://news.ycombinator.com/item?id=49116721) - [I flagged two research papers for fake authors and both were accepted as orals](https://geospatialml.com/posts/reviewing-ai-slop/)
-* [2026-07-30, 18:40:52](https://news.ycombinator.com/item?id=49113929) - [UEFA and its national associations will not participate in FIFA competitions](https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/)
-* [2026-07-30, 18:13:06](https://news.ycombinator.com/item?id=49113599) - [Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it](https://www.ctgt.ai/research/distillation-censorship-transfer)
 * [2026-07-30, 17:04:53](https://news.ycombinator.com/item?id=49112744) - [Read this before you buy that TV streaming stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/)
 * [2026-07-30, 16:26:16](https://news.ycombinator.com/item?id=49112232) - [Stacked PRs are now live on GitHub](https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/)
 * [2026-07-30, 15:15:48](https://news.ycombinator.com/item?id=49111237) - [Gemini Robotics 2 brings whole body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/)
@@ -28,7 +28,7 @@
 * [2026-07-28, 18:38:14](https://news.ycombinator.com/item?id=49088098) - [Simulating TCP loss and congestion in browser using Go/WASM](https://ccsim.fly.dev)
 * [2026-07-28, 13:56:27](https://news.ycombinator.com/item?id=49083970) - [Memo-1: A 6502 computer built from scratch, using a Minitel as its terminal](https://github.com/MemoireMorte/Memo-1)
 * [2026-07-27, 23:59:37](https://news.ycombinator.com/item?id=49077372) - [Where USB Memory Sticks are Born (2013)](https://www.bunniestudios.com/blog/2013/where-usb-memory-sticks-are-born/)
-* [2026-07-27, 15:48:09](https://news.ycombinator.com/item?id=49071299) - [Bad Apple but It's Traceroute](https://jssfr.de/2026-07-27-bad-apple-but-traceroute.html)
+* [2026-07-27, 20:54:41](https://news.ycombinator.com/item?id=49075395) - [The fragile foundations of CoT monitoring](https://web.stanford.edu/~cgpotts/blog/cot/)
 * [2026-07-25, 18:04:00](https://news.ycombinator.com/item?id=49049992) - [Winding Down Artichoke Ruby](https://hyperbo.la/w/winding-down-artichoke-ruby/)
 
 ## [Archives](archives/index.md)

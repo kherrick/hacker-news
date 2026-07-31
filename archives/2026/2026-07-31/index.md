@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-07-31](index.md)
 
+* [2026-07-31, 15:29:39](https://news.ycombinator.com/item?id=49124358) - [Is AI Reasoning Right for the Wrong Reasons?](https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/)
+* [2026-07-31, 14:25:43](https://news.ycombinator.com/item?id=49123579) - [Detect Dark Matter's Mark from Your Backyard](https://spectrum.ieee.org/dark-matter)
 * [2026-07-31, 14:05:02](https://news.ycombinator.com/item?id=49123300) - [Better to Beg Forgiveness](https://pluralistic.net/2026/07/31/just-do-it/)
 * [2026-07-31, 13:37:36](https://news.ycombinator.com/item?id=49122994) - [Situational Awareness Down 67% in July in AI Stock Rout](https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f)
 * [2026-07-31, 13:24:03](https://news.ycombinator.com/item?id=49122838) - [Moonshot built on 20k Nvidia chip cluster from Alibaba](https://www.bloomberg.com/news/articles/2026-07-31/moonshot-s-kimi-built-on-20-000-nvidia-chip-cluster-from-alibaba)
