@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-07-29](index.md)
 
 * [2026-07-29, 23:18:11](https://news.ycombinator.com/item?id=49104335) - [The Productivity Mirage](https://frantic.im/mirage/)
+* [2026-07-29, 23:06:03](https://news.ycombinator.com/item?id=49104245) - [We shall dwell amidst wonder and glory for ever: On weird fiction](https://clereviewofbooks.com/we-shall-dwell-amidst-wonder-and-glory-for-ever-on-weird-fiction/)
 * [2026-07-29, 22:53:44](https://news.ycombinator.com/item?id=49104140) - [Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)](https://archive.org/details/mancomputerbyjoh0000john)
 * [2026-07-29, 22:51:03](https://news.ycombinator.com/item?id=49104117) - [LLM Honeypot](https://llm2human.pages.dev/)
 * [2026-07-29, 22:27:09](https://news.ycombinator.com/item?id=49103910) - [GitHub is the wrong shape for this new world](https://depot.dev/blog/github-is-the-wrong-shape-for-this-new-world)
