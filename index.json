@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-31, 21:39:52",
+      "https://news.ycombinator.com/item?id=49128826"
+    ],
+    [
+      "Show HN: I worked on a new browser for 2 years, today it passed Acid 3",
+      "https://code.intellios.ai/cwbrowser/"
+    ]
+  ],
+  [
+    [
       "2026-07-31, 21:00:40",
       "https://news.ycombinator.com/item?id=49128462"
     ],
@@ -17,6 +27,26 @@
     [
       "Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena",
       "https://arxiv.org/abs/2607.28233"
+    ]
+  ],
+  [
+    [
+      "2026-07-31, 20:27:28",
+      "https://news.ycombinator.com/item?id=49128177"
+    ],
+    [
+      "Show HN: How to build and self-host a code review agent",
+      "https://www.trytilde.ai/blog/how-to-build-code-review-agent"
+    ]
+  ],
+  [
+    [
+      "2026-07-31, 19:55:41",
+      "https://news.ycombinator.com/item?id=49127874"
+    ],
+    [
+      "Predictive Speculative KV Replication for Bursty LLM Inference",
+      "https://jwlabs.vercel.app/post/biting-the-bullet"
     ]
   ],
   [
@@ -151,12 +181,12 @@
   ],
   [
     [
-      "2026-07-31, 15:40:13",
-      "https://news.ycombinator.com/item?id=49124496"
+      "2026-07-31, 15:29:39",
+      "https://news.ycombinator.com/item?id=49124358"
     ],
     [
-      "A GTK4 SSH-askpass in Zig",
-      "https://xn--gckvb8fzb.com/a-gtk4-ssh-askpass-in-zig/"
+      "Is AI reasoning right for the wrong reasons?",
+      "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/"
     ]
   ],
   [
@@ -201,16 +231,6 @@
   ],
   [
     [
-      "2026-07-31, 13:56:31",
-      "https://news.ycombinator.com/item?id=49123199"
-    ],
-    [
-      "Clockwise/Spiral Rule (1994)",
-      "https://c-faq.com/decl/spiral.anderson.html"
-    ]
-  ],
-  [
-    [
       "2026-07-31, 10:04:40",
       "https://news.ycombinator.com/item?id=49121196"
     ],
@@ -227,16 +247,6 @@
     [
       "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
       "https://artificialanalysis.ai/models/deepseek-v4-flash"
-    ]
-  ],
-  [
-    [
-      "2026-07-31, 06:08:36",
-      "https://news.ycombinator.com/item?id=49119559"
-    ],
-    [
-      "DeepSeek-V4-Flash Update",
-      "https://api-docs.deepseek.com/updates/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "How JPEG works: Interactively explore JPEG's lossy compression methods",
       "https://cgjennings.ca/articles/jpeg-compression/"
-    ]
-  ],
-  [
-    [
-      "2026-07-27, 02:45:34",
-      "https://news.ycombinator.com/item?id=49064656"
-    ],
-    [
-      "Making Referential Stability a Type",
-      "https://jovidecroock.com/blog/referential-stability-types/"
     ]
   ]
 ]
