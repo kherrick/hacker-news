@@ -70,6 +70,7 @@
 * [2026-07-29, 12:19:30](https://news.ycombinator.com/item?id=49096493) - [Pulse Path – a browser puzzle where placement is the only decision](https://pulsepathgame.netlify.app/)
 * [2026-07-29, 12:11:18](https://news.ycombinator.com/item?id=49096427) - [Disrupting supply chain attacks on NPM and GitHub Actions](https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/)
 * [2026-07-29, 12:06:54](https://news.ycombinator.com/item?id=49096389) - [Deleting Codeberg](https://thanosapollo.org/posts/deleting-codeberg/)
+* [2026-07-29, 11:59:10](https://news.ycombinator.com/item?id=49096319) - [The First Transatlantic Telegraph Cable Was a Bold, Beautiful Failure](https://spectrum.ieee.org/the-first-transatlantic-telegraph-cable-was-a-bold-beautiful-failure)
 * [2026-07-29, 11:54:37](https://news.ycombinator.com/item?id=49096290) - [French musician Kavinsky found dead](https://www.euronews.com/culture/2026/07/29/dj-kavinsky-known-for-his-track-nightcall-found-dead-at-his-paris-home)
 * [2026-07-29, 11:44:33](https://news.ycombinator.com/item?id=49096188) - [Document-borne AI worms can self-propagate through Copilot for Word](https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/)
 * [2026-07-29, 11:42:04](https://news.ycombinator.com/item?id=49096170) - [The mean means nothing: data visualization to debug a latency problem](https://fzakaria.com/2026/07/27/the-mean-means-nothing)

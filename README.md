@@ -25,7 +25,7 @@
 * [2026-07-31, 07:59:11](https://news.ycombinator.com/item?id=49120299) - [DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/deepseek-v4-flash)
 * [2026-07-31, 05:16:45](https://news.ycombinator.com/item?id=49119270) - [Let's make the worst Htmx](https://zserge.com/posts/worst-htmx-ever/)
 * [2026-07-30, 23:21:17](https://news.ycombinator.com/item?id=49117089) - [The Absurdity of Albert Camus](https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus)
-* [2026-07-30, 19:26:18](https://news.ycombinator.com/item?id=49114527) - [A past and future of trade secrets](https://www.cabinetmagazine.org/issues/70/kofen.php)
+* [2026-07-29, 11:59:10](https://news.ycombinator.com/item?id=49096319) - [The First Transatlantic Telegraph Cable Was a Bold, Beautiful Failure](https://spectrum.ieee.org/the-first-transatlantic-telegraph-cable-was-a-bold-beautiful-failure)
 * [2026-07-29, 06:54:23](https://news.ycombinator.com/item?id=49094200) - [Britain's New World of Tobacco (2017)](https://www.historytoday.com/archive/feature/britains-new-world-tobacco)
 * [2026-07-28, 13:31:25](https://news.ycombinator.com/item?id=49083599) - [Twenty-five years ago it was cryptography, today it's model weights](https://weeraman.com/because-we-can/)
 * [2026-07-28, 00:35:38](https://news.ycombinator.com/item?id=49077723) - [Hope and Defeat: John Berger](https://newleftreview.org/sidecar/posts/hope-and-defeat)
