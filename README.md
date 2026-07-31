@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-31, 18:04:58](https://news.ycombinator.com/item?id=49126604) - [qm](https://github.com/yc-software/qm)
 * [2026-07-31, 17:01:08](https://news.ycombinator.com/item?id=49125785) - [Miso (YC S16) is hiring for U.S. expansion](https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion)
 * [2026-07-31, 16:26:53](https://news.ycombinator.com/item?id=49125237) - [The great wealth transfer reality check](https://usa.visa.com/partner-with-us/visa-consulting-analytics/economic-insights/great-wealth-transfer-reality-check.html)
 * [2026-07-31, 16:15:31](https://news.ycombinator.com/item?id=49125034) - [Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio](https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/)
@@ -7,7 +8,6 @@
 * [2026-07-31, 15:53:37](https://news.ycombinator.com/item?id=49124658) - [Algorithms on billion-scale graph using 10GB RAM: I love DataFusion](https://semyonsinchenko.github.io/ssinchenko/post/datafusion-graphs-cc-2/)
 * [2026-07-31, 15:42:28](https://news.ycombinator.com/item?id=49124525) - [The Art of Decision-Making (2019)](https://www.newyorker.com/magazine/2019/01/21/the-art-of-decision-making)
 * [2026-07-31, 15:40:13](https://news.ycombinator.com/item?id=49124496) - [A GTK4 SSH-askpass in Zig](https://xn--gckvb8fzb.com/a-gtk4-ssh-askpass-in-zig/)
-* [2026-07-31, 15:33:02](https://news.ycombinator.com/item?id=49124409) - [New Defcon Badges Pack a Unique Open-Source Chip That Doubles as a Security Key](https://www.wired.com/story/defcon-34-badge-baochip-andrew-bunnie-huang/)
 * [2026-07-31, 15:28:28](https://news.ycombinator.com/item?id=49124336) - [13 Models and 4 Agents on SWE Tasks: Go, Java, Python, Rust, TS](https://swe-rebench.com)
 * [2026-07-31, 15:17:28](https://news.ycombinator.com/item?id=49124218) - [Elevators](https://john.fun/elevators)
 * [2026-07-31, 15:00:15](https://news.ycombinator.com/item?id=49124042) - [The most official water costs $120k a gallon](https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/)
@@ -15,7 +15,7 @@
 * [2026-07-31, 14:12:38](https://news.ycombinator.com/item?id=49123386) - [Run Kimi K3 using 29 GB of RAM at 0.50 tok/s](https://github.com/sqliteai/waste)
 * [2026-07-31, 13:57:35](https://news.ycombinator.com/item?id=49123208) - [Arch Linux disables AUR package adoption](https://lwn.net/Articles/1086489/)
 * [2026-07-31, 13:56:31](https://news.ycombinator.com/item?id=49123199) - [The C ``Clockwise/Spiral Rule''](https://c-faq.com/decl/spiral.anderson.html)
-* [2026-07-31, 13:28:05](https://news.ycombinator.com/item?id=49122882) - [Anti-fraud tools can't keep pace with scammers exploiting cheap internet calling](https://broadbandbreakfast.com/how-to-fight-back-against-fraudulent-robocalls/)
+* [2026-07-31, 13:28:05](https://news.ycombinator.com/item?id=49122882) - [Anti-fraud tools can't keep pace with robocall scammers](https://broadbandbreakfast.com/how-to-fight-back-against-fraudulent-robocalls/)
 * [2026-07-31, 13:24:03](https://news.ycombinator.com/item?id=49122838) - [Moonshot’s Kimi uses 20k Nvidia chip cluster from Alibaba](https://www.bloomberg.com/news/articles/2026-07-31/moonshot-s-kimi-built-on-20-000-nvidia-chip-cluster-from-alibaba)
 * [2026-07-31, 11:51:46](https://news.ycombinator.com/item?id=49121980) - [The End of an Era](https://hughhowey.com/the-end-of-an-era/)
 * [2026-07-31, 11:37:12](https://news.ycombinator.com/item?id=49121868) - [The Maxwell Conjecture Is False (GPT 5.6 Sol)](https://arxiv.org/abs/2607.27197)
