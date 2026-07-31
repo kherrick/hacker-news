@@ -62,6 +62,7 @@
 * [2026-07-31, 12:00:59](https://news.ycombinator.com/item?id=49122034) - [Tasklet (YC P26) Is Hiring a Customer Success Engineer](https://tasklet.ai/careers/customer-success-engineer)
 * [2026-07-31, 11:51:46](https://news.ycombinator.com/item?id=49121980) - [The End of an Era](https://hughhowey.com/the-end-of-an-era/)
 * [2026-07-31, 11:37:12](https://news.ycombinator.com/item?id=49121868) - [The Maxwell Conjecture Is False (GPT 5.6 Sol)](https://arxiv.org/abs/2607.27197)
+* [2026-07-31, 11:34:24](https://news.ycombinator.com/item?id=49121849) - [You have been mislead about lightbulbs](https://maurycyz.com/misc/tungsten/)
 * [2026-07-31, 10:04:40](https://news.ycombinator.com/item?id=49121196) - [Progressive Web Components](https://arielsalminen.com/2026/progressive-web-components/)
 * [2026-07-31, 07:59:11](https://news.ycombinator.com/item?id=49120299) - [DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/deepseek-v4-flash-ga)
 * [2026-07-31, 07:59:11](https://news.ycombinator.com/item?id=49120299) - [DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/deepseek-v4-flash)
