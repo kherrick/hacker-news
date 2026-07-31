@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-07-31](index.md)
 
+* [2026-07-31, 21:39:52](https://news.ycombinator.com/item?id=49128826) - [Show HN: I worked on a new browser for 2 years, today it passed Acid 3](https://code.intellios.ai/cwbrowser/)
 * [2026-07-31, 21:08:05](https://news.ycombinator.com/item?id=49128539) - [Apple Will 'Watch Everything Burn' When AI Bubble Bursts](https://asymco.com/2026/07/31/apple-will-watch-everything-burn-when-ai-bubble-bursts/)
 * [2026-07-31, 21:00:40](https://news.ycombinator.com/item?id=49128462) - [Loops (YC W22) Is Hiring a Product Educator](https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator)
 * [2026-07-31, 20:44:29](https://news.ycombinator.com/item?id=49128323) - [Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena](https://arxiv.org/abs/2607.28233)
+* [2026-07-31, 20:27:28](https://news.ycombinator.com/item?id=49128177) - [Show HN: How to build and self-host a code review agent](https://www.trytilde.ai/blog/how-to-build-code-review-agent)
+* [2026-07-31, 19:55:41](https://news.ycombinator.com/item?id=49127874) - [Predictive Speculative KV Replication for Bursty LLM Inference](https://jwlabs.vercel.app/post/biting-the-bullet)
 * [2026-07-31, 19:03:45](https://news.ycombinator.com/item?id=49127306) - [Tailscale didn't stop the Hugging Face intrusion](https://tailscale.com/blog/hugging-face-intrusion)
 * [2026-07-31, 18:54:13](https://news.ycombinator.com/item?id=49127205) - [Nuclear Waste Cleanup: DOE Is Missing Opportunities to Apply Lessons](https://www.gao.gov/products/gao-26-108082)
 * [2026-07-31, 18:46:36](https://news.ycombinator.com/item?id=49127108) - [Lerd, an open source Herd-like PHP development environment for Linux and macOS](https://github.com/lerd-env/lerd)
