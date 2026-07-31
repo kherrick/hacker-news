@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-30, 23:43:22",
+      "https://news.ycombinator.com/item?id=49117284"
+    ],
+    [
+      "The Religion of Speed",
+      "https://graybeard.ing/the-religion-of-speed/"
+    ]
+  ],
+  [
+    [
       "2026-07-30, 23:22:16",
       "https://news.ycombinator.com/item?id=49117099"
     ],
@@ -67,16 +77,6 @@
     [
       "UEFA and its national associations will not participate in FIFA competitions",
       "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/"
-    ]
-  ],
-  [
-    [
-      "2026-07-30, 18:39:32",
-      "https://news.ycombinator.com/item?id=49113913"
-    ],
-    [
-      "Making Postgres queues scale",
-      "https://www.dbos.dev/blog/making-postgres-queues-scale"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2026-07-30, 13:21:34",
-      "https://news.ycombinator.com/item?id=49109616"
-    ],
-    [
-      "Upper stage impacting the moon on 2026 August 5",
-      "https://www.projectpluto.com/25010d.htm"
-    ]
-  ],
-  [
-    [
       "2026-07-30, 12:38:51",
       "https://news.ycombinator.com/item?id=49109193"
     ],
@@ -257,6 +247,16 @@
     [
       "Memo-1: A 6502 computer built from scratch, using a Minitel as its terminal",
       "https://github.com/MemoireMorte/Memo-1"
+    ]
+  ],
+  [
+    [
+      "2026-07-27, 18:06:47",
+      "https://news.ycombinator.com/item?id=49073392"
+    ],
+    [
+      "Fixing miss-aligned monospace text in Android browsers",
+      "https://moritzhamann.com/blog/2026-07-26-box-drawing-glyphs-on-android.html"
     ]
   ],
   [
