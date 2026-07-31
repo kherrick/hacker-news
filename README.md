@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-07-31, 13:37:36](https://news.ycombinator.com/item?id=49122994) - [Situational Awareness Down 67% in July in AI Stock Rout](https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f)
 * [2026-07-31, 12:10:55](https://news.ycombinator.com/item?id=49122105) - [Ruby Central's Destructive Legacy](https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/)
 * [2026-07-31, 12:00:59](https://news.ycombinator.com/item?id=49122034) - [Tasklet (YC P26) Is Hiring a Customer Success Engineer](https://tasklet.ai/careers/customer-success-engineer)
 * [2026-07-31, 11:51:46](https://news.ycombinator.com/item?id=49121980) - [The End of an Era](https://hughhowey.com/the-end-of-an-era/)
@@ -15,6 +16,7 @@
 * [2026-07-30, 22:33:11](https://news.ycombinator.com/item?id=49116721) - [I flagged two research papers for fake authors and both were accepted as orals](https://geospatialml.com/posts/reviewing-ai-slop/)
 * [2026-07-30, 18:40:52](https://news.ycombinator.com/item?id=49113929) - [UEFA and its national associations will not participate in FIFA competitions](https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/)
 * [2026-07-30, 18:13:06](https://news.ycombinator.com/item?id=49113599) - [Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it](https://www.ctgt.ai/research/distillation-censorship-transfer)
+* [2026-07-30, 17:52:51](https://news.ycombinator.com/item?id=49113338) - [CodePen 2.0](https://chriscoyier.net/2026/07/30/codepen-2-0/)
 * [2026-07-30, 17:04:53](https://news.ycombinator.com/item?id=49112744) - [Read this before you buy that TV streaming stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/)
 * [2026-07-30, 16:26:16](https://news.ycombinator.com/item?id=49112232) - [Stacked PRs are now live on GitHub](https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/)
 * [2026-07-30, 15:15:48](https://news.ycombinator.com/item?id=49111237) - [Gemini Robotics 2 brings whole body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/)
@@ -28,8 +30,6 @@
 * [2026-07-28, 13:56:27](https://news.ycombinator.com/item?id=49083970) - [Memo-1: A 6502 computer built from scratch, using a Minitel as its terminal](https://github.com/MemoireMorte/Memo-1)
 * [2026-07-27, 23:59:37](https://news.ycombinator.com/item?id=49077372) - [Where USB Memory Sticks are Born (2013)](https://www.bunniestudios.com/blog/2013/where-usb-memory-sticks-are-born/)
 * [2026-07-27, 15:48:09](https://news.ycombinator.com/item?id=49071299) - [Bad Apple but It's Traceroute](https://jssfr.de/2026-07-27-bad-apple-but-traceroute.html)
-* [2026-07-25, 21:42:31](https://news.ycombinator.com/item?id=49051890) - [How A Gang of Thieves Pulled Off a Multimillion-Dollar Data Center Heist](https://www.nytimes.com/2026/07/12/magazine/data-center-heist.html)
-* [2026-07-25, 15:33:10](https://news.ycombinator.com/item?id=49048452) - [IMAX vs. IMAX 70mm: The difference between these two cinema formats](https://www.engadget.com/2220571/differences-between-imax-70mm/)
 
 ## [Archives](archives/index.md)
 
