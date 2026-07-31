@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-07-31, 21:08:05](https://news.ycombinator.com/item?id=49128539) - [Apple Will 'Watch Everything Burn' When AI Bubble Bursts](https://asymco.com/2026/07/31/apple-will-watch-everything-burn-when-ai-bubble-bursts/)
 * [2026-07-31, 21:00:40](https://news.ycombinator.com/item?id=49128462) - [Loops (YC W22) Is Hiring a Product Educator](https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator)
 * [2026-07-31, 20:44:29](https://news.ycombinator.com/item?id=49128323) - [Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena](https://arxiv.org/abs/2607.28233)
 * [2026-07-31, 19:03:45](https://news.ycombinator.com/item?id=49127306) - [Tailscale didn't stop the Hugging Face intrusion](https://tailscale.com/blog/hugging-face-intrusion)
@@ -21,6 +20,7 @@
 * [2026-07-31, 15:00:15](https://news.ycombinator.com/item?id=49124042) - [The most official water costs $120k a gallon](https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/)
 * [2026-07-31, 14:17:43](https://news.ycombinator.com/item?id=49123468) - [Authorize, don't authenticate](https://blog.marcua.net/2026/07/31/authorize-dont-authenticate.html)
 * [2026-07-31, 14:12:38](https://news.ycombinator.com/item?id=49123386) - [Run Kimi K3 using 29 GB of RAM at 0.50 tok/s](https://github.com/sqliteai/waste)
+* [2026-07-31, 13:56:31](https://news.ycombinator.com/item?id=49123199) - [Clockwise/Spiral Rule (1994)](https://c-faq.com/decl/spiral.anderson.html)
 * [2026-07-31, 10:04:40](https://news.ycombinator.com/item?id=49121196) - [Progressive Web Components](https://arielsalminen.com/2026/progressive-web-components/)
 * [2026-07-31, 07:59:11](https://news.ycombinator.com/item?id=49120299) - [DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/deepseek-v4-flash)
 * [2026-07-31, 06:08:36](https://news.ycombinator.com/item?id=49119559) - [DeepSeek-V4-Flash Update](https://api-docs.deepseek.com/updates/)
