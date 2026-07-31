@@ -48,6 +48,7 @@
 * [2026-07-25, 15:51:26](https://news.ycombinator.com/item?id=49048645) - [Brazilian farmers tokenized dairy cows to get loans, bypassing bank limits](https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits)
 * [2026-07-25, 15:46:11](https://news.ycombinator.com/item?id=49048584) - [The whole premise of checking for human writing is daft](https://mohammedshehu.com/checking-for-human-writing-is-daft/)
 * [2026-07-25, 15:44:34](https://news.ycombinator.com/item?id=49048570) - [Staging patches with Git add -p](https://www.simonholywell.com/post/git-add-p/)
+* [2026-07-25, 15:33:10](https://news.ycombinator.com/item?id=49048452) - [IMAX vs. IMAX 70mm: The difference between these two cinema formats](https://www.engadget.com/2220571/differences-between-imax-70mm/)
 * [2026-07-25, 15:10:51](https://news.ycombinator.com/item?id=49048212) - [Engineering management after the cost of code collapsed](https://karimjedda.com/engineering-management-after-cost-of-code-collapse/)
 * [2026-07-25, 14:49:49](https://news.ycombinator.com/item?id=49048034) - [Open-weight AI is having its Kubernetes moment. Let's not ruin it](https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/)
 * [2026-07-25, 14:48:24](https://news.ycombinator.com/item?id=49048024) - [Show HN: Cubic Doggo 06R: 12-DOF 4-Legged Robot with IMU](https://github.com/SphericalCowww/CubicDoggo_06R)
