@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-07-31, 05:26:13",
-      "https://news.ycombinator.com/item?id=49119322"
+      "2026-07-31, 06:08:36",
+      "https://news.ycombinator.com/item?id=49119559"
     ],
     [
-      "Human Honeypot",
-      "https://human2llm.pages.dev/"
+      "DeepSeek-V4-Flash Update",
+      "https://api-docs.deepseek.com/updates/"
+    ]
+  ],
+  [
+    [
+      "2026-07-31, 05:45:13",
+      "https://news.ycombinator.com/item?id=49119425"
+    ],
+    [
+      "Show HN: Gander, an Android file viewer that asks for no permissions at all",
+      "https://github.com/mokshablr/gander"
+    ]
+  ],
+  [
+    [
+      "2026-07-31, 05:17:29",
+      "https://news.ycombinator.com/item?id=49119274"
+    ],
+    [
+      "Show HN: What should the GUI for AI agents look like?",
+      "https://marbleos.com/demo"
     ]
   ],
   [
@@ -21,32 +41,12 @@
   ],
   [
     [
-      "2026-07-31, 04:15:04",
-      "https://news.ycombinator.com/item?id=49118933"
-    ],
-    [
-      "The AI trade now runs on borrowed money, and the lenders are repricing it",
-      "https://greyswansignals.com/?theme=dark"
-    ]
-  ],
-  [
-    [
       "2026-07-31, 03:47:59",
       "https://news.ycombinator.com/item?id=49118781"
     ],
     [
-      "The Session You Cannot take with you",
+      "The session you cannot take with you",
       "https://earendil.com/posts/session-portability/"
-    ]
-  ],
-  [
-    [
-      "2026-07-31, 03:32:21",
-      "https://news.ycombinator.com/item?id=49118696"
-    ],
-    [
-      "The bond market isn't buying what Fed Chair Warsh is selling",
-      "https://www.reuters.com/commentary/reuters-open-interest/bond-market-isnt-buying-what-fed-chair-warsh-is-selling-2026-07-30/"
     ]
   ],
   [
@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2026-07-30, 19:34:27",
-      "https://news.ycombinator.com/item?id=49114639"
-    ],
-    [
-      "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
-      "https://github.com/AminBlg/SimpleEnglish"
-    ]
-  ],
-  [
-    [
       "2026-07-30, 18:40:52",
       "https://news.ycombinator.com/item?id=49113929"
     ],
@@ -177,16 +167,6 @@
     [
       "Read this before you buy that TV streaming stick",
       "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/"
-    ]
-  ],
-  [
-    [
-      "2026-07-30, 17:00:21",
-      "https://news.ycombinator.com/item?id=49112683"
-    ],
-    [
-      "Rise Reforming (YC S26) Is Hiring",
-      "https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer"
     ]
   ],
   [
@@ -241,6 +221,16 @@
   ],
   [
     [
+      "2026-07-30, 12:38:51",
+      "https://news.ycombinator.com/item?id=49109193"
+    ],
+    [
+      "Why is everyone trying to build a solid-state battery?",
+      "https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a"
+    ]
+  ],
+  [
+    [
       "2026-07-30, 11:45:44",
       "https://news.ycombinator.com/item?id=49108685"
     ],
@@ -261,6 +251,16 @@
   ],
   [
     [
+      "2026-07-28, 18:38:14",
+      "https://news.ycombinator.com/item?id=49088098"
+    ],
+    [
+      "Simulating TCP loss and congestion in browser using Go/WASM",
+      "https://ccsim.fly.dev"
+    ]
+  ],
+  [
+    [
       "2026-07-28, 13:56:27",
       "https://news.ycombinator.com/item?id=49083970"
     ],
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=49077372"
     ],
     [
-      "Where USB Memory Sticks Are Born",
+      "Where USB Memory Sticks are Born (2013)",
       "https://www.bunniestudios.com/blog/2013/where-usb-memory-sticks-are-born/"
     ]
   ],
