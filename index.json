@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-07-31, 18:04:58",
+      "https://news.ycombinator.com/item?id=49126604"
+    ],
+    [
+      "qm",
+      "https://github.com/yc-software/qm"
+    ]
+  ],
+  [
+    [
       "2026-07-31, 17:01:08",
       "https://news.ycombinator.com/item?id=49125785"
     ],
@@ -67,16 +77,6 @@
     [
       "A GTK4 SSH-askpass in Zig",
       "https://xn--gckvb8fzb.com/a-gtk4-ssh-askpass-in-zig/"
-    ]
-  ],
-  [
-    [
-      "2026-07-31, 15:33:02",
-      "https://news.ycombinator.com/item?id=49124409"
-    ],
-    [
-      "New Defcon Badges Pack a Unique Open-Source Chip That Doubles as a Security Key",
-      "https://www.wired.com/story/defcon-34-badge-baochip-andrew-bunnie-huang/"
     ]
   ],
   [
@@ -155,7 +155,7 @@
       "https://news.ycombinator.com/item?id=49122882"
     ],
     [
-      "Anti-fraud tools can't keep pace with scammers exploiting cheap internet calling",
+      "Anti-fraud tools can't keep pace with robocall scammers",
       "https://broadbandbreakfast.com/how-to-fight-back-against-fraudulent-robocalls/"
     ]
   ],
