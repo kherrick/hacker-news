@@ -5,9 +5,12 @@
 ### [Archives](../../index.md) for [2026-07-31](index.md)
 
 * [2026-07-31, 19:03:45](https://news.ycombinator.com/item?id=49127306) - [Tailscale didn't stop the Hugging Face intrusion](https://tailscale.com/blog/hugging-face-intrusion)
+* [2026-07-31, 18:54:13](https://news.ycombinator.com/item?id=49127205) - [Nuclear Waste Cleanup: DOE Is Missing Opportunities to Apply Lessons](https://www.gao.gov/products/gao-26-108082)
 * [2026-07-31, 18:39:47](https://news.ycombinator.com/item?id=49127031) - [Golang proposal: container/: generic collection types](https://github.com/golang/go/issues/80590)
 * [2026-07-31, 18:32:43](https://news.ycombinator.com/item?id=49126943) - [Orca-Bench: How Ready Are Language Model Agents for Oncall?](https://arxiv.org/abs/2607.28545)
+* [2026-07-31, 18:30:44](https://news.ycombinator.com/item?id=49126919) - [Using the railway network as a flatbed scanner [video]](https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner)
 * [2026-07-31, 18:28:08](https://news.ycombinator.com/item?id=49126883) - [Termixer (TUI DJ Mixer)](https://github.com/l00sed/termixer)
+* [2026-07-31, 18:17:52](https://news.ycombinator.com/item?id=49126765) - [June in Servo: real world compat, media queries, SharedWorker, and more](https://servo.org/blog/2026/07/31/june-in-servo/)
 * [2026-07-31, 18:06:39](https://news.ycombinator.com/item?id=49126630) - [Everyone is building LLM routers, we deprecated ours](https://manifest.build/blog/why-we-deprecated-our-llm-router/)
 * [2026-07-31, 18:04:58](https://news.ycombinator.com/item?id=49126604) - [qm](https://github.com/yc-software/qm)
 * [2026-07-31, 17:33:32](https://news.ycombinator.com/item?id=49126201) - [AFC Stands in Solidarity with UEFA and Concacaf to Protect the FIFA World Cup](https://www.the-afc.com/en/more/afc_news.html/news/afc-stands-in-solidarity-with-uefa-and-concacaf-to-protect-the-fifa-world-cup)
