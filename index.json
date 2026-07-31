@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-07-31, 18:54:13",
+      "https://news.ycombinator.com/item?id=49127205"
+    ],
+    [
+      "Nuclear Waste Cleanup: DOE Is Missing Opportunities to Apply Lessons",
+      "https://www.gao.gov/products/gao-26-108082"
+    ]
+  ],
+  [
+    [
       "2026-07-31, 18:39:47",
       "https://news.ycombinator.com/item?id=49127031"
     ],
@@ -31,12 +41,32 @@
   ],
   [
     [
+      "2026-07-31, 18:30:44",
+      "https://news.ycombinator.com/item?id=49126919"
+    ],
+    [
+      "Using the railway network as a flatbed scanner [video]",
+      "https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner"
+    ]
+  ],
+  [
+    [
       "2026-07-31, 18:28:08",
       "https://news.ycombinator.com/item?id=49126883"
     ],
     [
       "Termixer (TUI DJ Mixer)",
       "https://github.com/l00sed/termixer"
+    ]
+  ],
+  [
+    [
+      "2026-07-31, 18:17:52",
+      "https://news.ycombinator.com/item?id=49126765"
+    ],
+    [
+      "June in Servo: real world compat, media queries, SharedWorker, and more",
+      "https://servo.org/blog/2026/07/31/june-in-servo/"
     ]
   ],
   [
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2026-07-31, 15:00:15",
-      "https://news.ycombinator.com/item?id=49124042"
-    ],
-    [
-      "The most official water costs $120k a gallon",
-      "https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/"
-    ]
-  ],
-  [
-    [
       "2026-07-31, 14:41:13",
       "https://news.ycombinator.com/item?id=49123789"
     ],
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2026-07-31, 07:29:22",
-      "https://news.ycombinator.com/item?id=49120097"
-    ],
-    [
-      "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
-      "https://blog.google/security/chrome-stronger-with-every-update/"
-    ]
-  ],
-  [
-    [
       "2026-07-31, 06:08:36",
       "https://news.ycombinator.com/item?id=49119559"
     ],
     [
       "DeepSeek-V4-Flash Update",
       "https://api-docs.deepseek.com/updates/"
-    ]
-  ],
-  [
-    [
-      "2026-07-31, 03:47:59",
-      "https://news.ycombinator.com/item?id=49118781"
-    ],
-    [
-      "The session you cannot take with you",
-      "https://earendil.com/posts/session-portability/"
     ]
   ],
   [
