@@ -50,6 +50,7 @@
 * [2026-07-25, 15:44:34](https://news.ycombinator.com/item?id=49048570) - [Staging patches with Git add -p](https://www.simonholywell.com/post/git-add-p/)
 * [2026-07-25, 15:10:51](https://news.ycombinator.com/item?id=49048212) - [Engineering management after the cost of code collapsed](https://karimjedda.com/engineering-management-after-cost-of-code-collapse/)
 * [2026-07-25, 14:49:49](https://news.ycombinator.com/item?id=49048034) - [Open-weight AI is having its Kubernetes moment. Let's not ruin it](https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/)
+* [2026-07-25, 14:48:24](https://news.ycombinator.com/item?id=49048024) - [Show HN: Cubic Doggo 06R: 12-DOF 4-Legged Robot with IMU](https://github.com/SphericalCowww/CubicDoggo_06R)
 * [2026-07-25, 14:41:06](https://news.ycombinator.com/item?id=49047969) - [The AI jobs apocalypse probably isn't coming anytime soon](https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor)
 * [2026-07-25, 14:32:16](https://news.ycombinator.com/item?id=49047884) - [Task-centered iproute2 user guide](https://baturin.org/docs/iproute2/)
 * [2026-07-25, 14:27:05](https://news.ycombinator.com/item?id=49047839) - [2x, not 10x: coding with LLMs in 2026](https://obryant.dev/p/2x-not-10x/)

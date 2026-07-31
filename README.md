@@ -5,7 +5,6 @@
 * [2026-07-31, 05:17:29](https://news.ycombinator.com/item?id=49119274) - [Show HN: What should the GUI for AI agents look like?](https://marbleos.com/demo)
 * [2026-07-31, 04:38:19](https://news.ycombinator.com/item?id=49119063) - [JEP 401: Value Objects (Preview) merged to OpenJDK master](https://github.com/openjdk/jdk/pull/31120)
 * [2026-07-31, 03:47:59](https://news.ycombinator.com/item?id=49118781) - [The session you cannot take with you](https://earendil.com/posts/session-portability/)
-* [2026-07-31, 03:27:36](https://news.ycombinator.com/item?id=49118663) - [A California aquifer may have crossed the point of no return](https://www.science.org/content/article/california-aquifer-may-have-crossed-point-no-return)
 * [2026-07-30, 23:43:22](https://news.ycombinator.com/item?id=49117284) - [The Religion of Speed](https://graybeard.ing/the-religion-of-speed/)
 * [2026-07-30, 23:22:16](https://news.ycombinator.com/item?id=49117099) - [The AI Aesthetic](https://blog.jim-nielsen.com/2026/ai-aesthetic/)
 * [2026-07-30, 23:00:51](https://news.ycombinator.com/item?id=49116922) - [Investigating three real-world incidents in our cybersecurity evaluations](https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals)
@@ -30,6 +29,7 @@
 * [2026-07-27, 23:59:37](https://news.ycombinator.com/item?id=49077372) - [Where USB Memory Sticks are Born (2013)](https://www.bunniestudios.com/blog/2013/where-usb-memory-sticks-are-born/)
 * [2026-07-27, 17:37:32](https://news.ycombinator.com/item?id=49073017) - [The American Grilled Cheese Sandwich Essay (2024)](https://buttondown.com/theswordandthesandwich/archive/the-best-american-grilled-cheese-sandwich-essay/)
 * [2026-07-27, 15:48:09](https://news.ycombinator.com/item?id=49071299) - [Bad Apple but It's Traceroute](https://jssfr.de/2026-07-27-bad-apple-but-traceroute.html)
+* [2026-07-25, 14:48:24](https://news.ycombinator.com/item?id=49048024) - [Show HN: Cubic Doggo 06R: 12-DOF 4-Legged Robot with IMU](https://github.com/SphericalCowww/CubicDoggo_06R)
 
 ## [Archives](archives/index.md)
 
