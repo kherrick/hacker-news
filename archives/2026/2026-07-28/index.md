@@ -24,6 +24,7 @@
 * [2026-07-28, 19:41:33](https://news.ycombinator.com/item?id=49088887) - [Uv 0.12.0](https://github.com/astral-sh/uv/releases/tag/0.12.0)
 * [2026-07-28, 19:06:10](https://news.ycombinator.com/item?id=49088451) - [Donate to GrapheneOS](https://grapheneos.org/donate)
 * [2026-07-28, 18:41:48](https://news.ycombinator.com/item?id=49088148) - [Deflock Casa Grande](https://deflockcg.com/)
+* [2026-07-28, 18:38:14](https://news.ycombinator.com/item?id=49088098) - [Simulating TCP loss and congestion in browser using Go/WASM](https://ccsim.fly.dev)
 * [2026-07-28, 18:35:11](https://news.ycombinator.com/item?id=49088058) - [MCP 2026-07-28 Specification: transport going stateless](https://blog.modelcontextprotocol.io/posts/2026-07-28/)
 * [2026-07-28, 17:37:12](https://news.ycombinator.com/item?id=49087306) - [iPhone Upgrade Program](https://www.apple.com/shop/iphone/iphone-upgrade-program)
 * [2026-07-28, 17:22:16](https://news.ycombinator.com/item?id=49087091) - [Discovering Cryptographic Weaknesses with Claude](https://www.anthropic.com/research/discovering-cryptographic-weaknesses)

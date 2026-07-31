@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-07-31](index.md)
 
+* [2026-07-31, 06:08:36](https://news.ycombinator.com/item?id=49119559) - [DeepSeek-V4-Flash Update](https://api-docs.deepseek.com/updates/)
+* [2026-07-31, 05:45:13](https://news.ycombinator.com/item?id=49119425) - [Show HN: Gander, an Android file viewer that asks for no permissions at all](https://github.com/mokshablr/gander)
 * [2026-07-31, 05:26:13](https://news.ycombinator.com/item?id=49119322) - [Human Honeypot](https://human2llm.pages.dev/)
+* [2026-07-31, 05:17:29](https://news.ycombinator.com/item?id=49119274) - [Show HN: What should the GUI for AI agents look like?](https://marbleos.com/demo)
 * [2026-07-31, 04:38:19](https://news.ycombinator.com/item?id=49119063) - [JEP 401: Value Objects (Preview) merged to OpenJDK master](https://github.com/openjdk/jdk/pull/31120)
 * [2026-07-31, 04:15:04](https://news.ycombinator.com/item?id=49118933) - [The AI trade now runs on borrowed money, and the lenders are repricing it](https://greyswansignals.com/?theme=dark)
 * [2026-07-31, 03:47:59](https://news.ycombinator.com/item?id=49118781) - [The Session You Cannot take with you](https://earendil.com/posts/session-portability/)
