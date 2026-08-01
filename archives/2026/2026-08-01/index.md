@@ -4,9 +4,16 @@
 
 ### [Archives](../../index.md) for [2026-08-01](index.md)
 
+* [2026-08-01, 19:56:07](https://news.ycombinator.com/item?id=49137808) - [Top amputation surgeon had own legs removed due to fetish. Were patients safe?](https://www.theguardian.com/uk-news/2026/aug/01/neil-hopper-surgeon-amputated-legs-fetish-extreme-mutilation-patients-questions)
+* [2026-08-01, 19:44:48](https://news.ycombinator.com/item?id=49137713) - [But can your calculator run Linux?](https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html)
+* [2026-08-01, 19:39:43](https://news.ycombinator.com/item?id=49137681) - [Google News is just Forrest Gump's shrimp boat now](https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now)
+* [2026-08-01, 19:10:11](https://news.ycombinator.com/item?id=49137419) - [Fermi Paradox](https://en.wikipedia.org/wiki/Fermi_paradox)
+* [2026-08-01, 18:59:35](https://news.ycombinator.com/item?id=49137320) - [Signal Structure of the Starlink Ku-Band Downlink (2023) [pdf]](https://radionavlab.ae.utexas.edu/wp-content/uploads/starlink_structure.pdf)
+* [2026-08-01, 18:50:17](https://news.ycombinator.com/item?id=49137228) - [CISA Alert: Water Sector PLC Targeting](https://censys.com/blog/cisa-alert-water-tower-plc-targeting/)
 * [2026-08-01, 18:32:20](https://news.ycombinator.com/item?id=49137060) - [Postmortem for Kernel Soundness Bug #14576](https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/)
 * [2026-08-01, 18:28:06](https://news.ycombinator.com/item?id=49137024) - [Oil companies report sky-high profits thanks to wartime crude prices](https://www.npr.org/2026/07/31/nx-s1-5910660/big-oil-earnings-q2-2026)
 * [2026-08-01, 18:25:00](https://news.ycombinator.com/item?id=49136990) - [Tell HN: I hate your fuzzy search](https://news.ycombinator.com/item?id=49136990)
+* [2026-08-01, 18:07:07](https://news.ycombinator.com/item?id=49136821) - [How Google helped destroy adoption of RSS feeds (2023)](https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds)
 * [2026-08-01, 17:56:41](https://news.ycombinator.com/item?id=49136736) - [NetBSD 11.0 Released](https://blog.netbsd.org/tnf/entry/netbsd_11_0_released)
 * [2026-08-01, 17:08:03](https://news.ycombinator.com/item?id=49136236) - [Assessment of open AI math results](https://twitter.com/stalkermustang/status/2083485500250198453)
 * [2026-08-01, 16:52:41](https://news.ycombinator.com/item?id=49136063) - [I ♥ RSS – A directory of people who love RSS](https://andrewshell.org/2026/07/i-%e2%99%a5-rss/)
