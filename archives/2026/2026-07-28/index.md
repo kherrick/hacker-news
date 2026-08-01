@@ -98,4 +98,5 @@
 * [2026-07-28, 01:51:18](https://news.ycombinator.com/item?id=49078266) - [Residential Proxies Are a National Security Threat](https://jacob.gold/posts/residential-proxies-are-a-national-security-threat/)
 * [2026-07-28, 01:13:26](https://news.ycombinator.com/item?id=49077999) - [Vehicle Motion Cues](https://support.apple.com/guide/iphone/iphone-comfortably-riding-a-vehicle-iph55564cb22/ios)
 * [2026-07-28, 00:35:38](https://news.ycombinator.com/item?id=49077723) - [Hope and Defeat: John Berger](https://newleftreview.org/sidecar/posts/hope-and-defeat)
+* [2026-07-28, 00:26:45](https://news.ycombinator.com/item?id=49077646) - [Attention Decode on AMD MI450 GPUs: A Gluon Kernel Optimization Guide](https://rocm.blogs.amd.com/software-tools-optimization/gluon-attention-decode-mi450/README.html)
 * [2026-07-28, 00:06:53](https://news.ycombinator.com/item?id=49077443) - [Don't ask an LLM for a confidence score](https://justinflick.com/2026/07/27/llm-confidence-scores.html)
