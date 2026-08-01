@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2026-08-01, 13:35:26",
-      "https://news.ycombinator.com/item?id=49134310"
+      "2026-08-01, 14:09:00",
+      "https://news.ycombinator.com/item?id=49134599"
     ],
     [
-      "How to Spot AI Writing",
-      "https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing"
+      "The Art of 64-bit Assembly",
+      "https://nostarch.com/art-64-bit-assembly-v2"
     ]
   ],
   [
@@ -37,6 +37,16 @@
     [
       "Astro Loop",
       "https://pubdeer.com/"
+    ]
+  ],
+  [
+    [
+      "2026-08-01, 12:03:36",
+      "https://news.ycombinator.com/item?id=49133675"
+    ],
+    [
+      "Dead Software Walking: The ongoing evolution of relayd(8) and httpd(8)",
+      "https://rsadowski.de/posts/2026/dead-software-walking-relayd-and-httpd/"
     ]
   ],
   [
@@ -87,16 +97,6 @@
     [
       "Ten advances in mathematics and theoretical computer science",
       "https://openai.com/index/ten-advances-in-mathematics/"
-    ]
-  ],
-  [
-    [
-      "2026-08-01, 05:38:16",
-      "https://news.ycombinator.com/item?id=49131367"
-    ],
-    [
-      "Ten Ways NAS Is Getting Enshitified",
-      "https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/"
     ]
   ],
   [
@@ -177,6 +177,16 @@
     [
       "Elevators",
       "https://john.fun/elevators"
+    ]
+  ],
+  [
+    [
+      "2026-07-31, 15:00:15",
+      "https://news.ycombinator.com/item?id=49124042"
+    ],
+    [
+      "The most official water costs $120k a gallon",
+      "https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Linux on ESP32",
       "https://github.com/GrieferPig/esp32-s31-linux"
-    ]
-  ],
-  [
-    [
-      "2026-07-28, 13:59:14",
-      "https://news.ycombinator.com/item?id=49084005"
-    ],
-    [
-      "Long Range Wi-Fi – Pushing 2.4 GHz Wi-Fi to the limits (2019)",
-      "https://www.phidgets.com/?view=articles&article=LongRangeWifi"
     ]
   ],
   [
