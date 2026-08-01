@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-28](index.md)
 
+* [2026-07-28, 23:56:45](https://news.ycombinator.com/item?id=49091614) - [By billboards for over 100 years, holdout building by Macy's is back](https://ephemeralnewyork.wordpress.com/2026/07/27/hidden-by-billboards-for-over-100-years-the-tiny-holdout-building-in-the-middle-of-macys-is-back-in-view/)
 * [2026-07-28, 23:27:09](https://news.ycombinator.com/item?id=49091379) - [ReFrame – The EPaper Camera](https://reframe.camera/)
 * [2026-07-28, 23:00:02](https://news.ycombinator.com/item?id=49091153) - [Schools are adding pepper-spraying drones to help combat active shooters](https://www.washingtonpost.com/nation/2026/07/28/schools-are-adding-pepper-spraying-drones-help-combat-active-shooters/)
 * [2026-07-28, 22:50:05](https://news.ycombinator.com/item?id=49091048) - [Leeaky Catches hidden fees draining your travel budget](https://leeaky.vercel.app/)
