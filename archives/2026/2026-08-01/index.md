@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-01](index.md)
 
+* [2026-08-01, 21:37:27](https://news.ycombinator.com/item?id=49138731) - [The 14 Steps it takes to open my office door with a new phone](https://shub.club/writings/2026/august/14-steps-to-open-a-door/)
 * [2026-08-01, 20:33:27](https://news.ycombinator.com/item?id=49138188) - [Diátaxis](https://diataxis.fr/)
 * [2026-08-01, 20:20:58](https://news.ycombinator.com/item?id=49138045) - [The Silicon Valley Founder Meat Grinder](https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/)
 * [2026-08-01, 20:07:39](https://news.ycombinator.com/item?id=49137904) - [Cookware Got Worse on Purpose: Who Owns Pyrex and All-Clad Now](https://www.worseonpurpose.com/p/your-cookware-got-worse-on-purpose)
