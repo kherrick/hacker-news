@@ -63,6 +63,7 @@
 * [2026-07-29, 13:00:39](https://news.ycombinator.com/item?id=49096953) - [After the AI Crash](https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/)
 * [2026-07-29, 12:58:27](https://news.ycombinator.com/item?id=49096917) - [Show HN: Bullshit Detector – agent skills that fact-check videos and articles](https://github.com/SerhiiKorniienko/bullshit-detector)
 * [2026-07-29, 12:55:50](https://news.ycombinator.com/item?id=49096885) - [San Francisco: Don't Fall for Industry Defense of Surveillance Pricing](https://www.eff.org/deeplinks/2026/07/san-francisco-dont-fall-industry-defense-surveillance-pricing)
+* [2026-07-29, 12:51:40](https://news.ycombinator.com/item?id=49096847) - [G'mic 4.0: Squaring the Pixel, Easier](https://gmic.eu/gmic40/)
 * [2026-07-29, 12:48:18](https://news.ycombinator.com/item?id=49096811) - [Shipping Godot VR and Porting to PSVR2: A Partial Post Mortem](https://www.claire-blackshaw.com/blog/2026/07/shipping-godot-vr-and-porting-to-psvr2-a-partial-post-mortem/)
 * [2026-07-29, 12:43:36](https://news.ycombinator.com/item?id=49096767) - [Show HN: Echologue – the private AI voice journal I built for myself](https://echologue.com/)
 * [2026-07-29, 12:40:13](https://news.ycombinator.com/item?id=49096742) - [A Texture Lookup Approach to Bézier Curve Evaluation on the GPU (JCGT)](https://jcgt.org/published/0015/02/01/)

@@ -2,7 +2,6 @@
 
 * [2026-08-01, 07:37:44](https://news.ycombinator.com/item?id=49132058) - [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/)
 * [2026-08-01, 05:38:16](https://news.ycombinator.com/item?id=49131367) - [Ten Ways NAS Is Getting Enshitified](https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/)
-* [2026-08-01, 04:28:13](https://news.ycombinator.com/item?id=49131034) - [What liberal arts education is for (2024)](https://innig.net/teaching/liberal-arts-manifesto)
 * [2026-08-01, 03:16:09](https://news.ycombinator.com/item?id=49130726) - [The development pipeline is a production system](https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system)
 * [2026-08-01, 02:45:09](https://news.ycombinator.com/item?id=49130604) - [Flint: A Visualization Language for the AI Era](https://microsoft.github.io/flint-chart/)
 * [2026-08-01, 01:35:53](https://news.ycombinator.com/item?id=49130295) - [A week in Matrix](https://piegames.de/dumps/a-week-in-matrix/)
@@ -25,10 +24,11 @@
 * [2026-07-31, 07:29:22](https://news.ycombinator.com/item?id=49120097) - [Google fixed more Chrome bugs in June than over the past two years, thanks to AI](https://blog.google/security/chrome-stronger-with-every-update/)
 * [2026-07-31, 05:16:45](https://news.ycombinator.com/item?id=49119270) - [Let's make the worst Htmx](https://zserge.com/posts/worst-htmx-ever/)
 * [2026-07-30, 23:21:17](https://news.ycombinator.com/item?id=49117089) - [The Absurdity of Albert Camus](https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus)
+* [2026-07-29, 12:51:40](https://news.ycombinator.com/item?id=49096847) - [G'mic 4.0: Squaring the Pixel, Easier](https://gmic.eu/gmic40/)
 * [2026-07-29, 12:29:20](https://news.ycombinator.com/item?id=49096605) - [Software for One](https://www.ajwaxman.com/writing/software-for-one)
 * [2026-07-28, 23:56:45](https://news.ycombinator.com/item?id=49091614) - [A tiny holdout building in the middle of Macy’s is back in view](https://ephemeralnewyork.wordpress.com/2026/07/27/hidden-by-billboards-for-over-100-years-the-tiny-holdout-building-in-the-middle-of-macys-is-back-in-view/)
-* [2026-07-28, 14:14:16](https://news.ycombinator.com/item?id=49084215) - [When Internal Memory Fails: A No-Solder Wii U Recovery](https://smolnero.com/posts/when-internal-memory-fails-a-no-solder-wii-u-recovery)
 * [2026-07-28, 13:59:14](https://news.ycombinator.com/item?id=49084005) - [Long Range Wi-Fi – Pushing 2.4 GHz Wi-Fi to the limits (2019)](https://www.phidgets.com/?view=articles&article=LongRangeWifi)
+* [2026-07-28, 13:31:25](https://news.ycombinator.com/item?id=49083599) - [Twenty-five years ago it was cryptography, today it's model weights](https://weeraman.com/because-we-can/)
 * [2026-07-28, 00:26:45](https://news.ycombinator.com/item?id=49077646) - [Attention Decode on AMD MI450 GPUs: A Gluon Kernel Optimization Guide](https://rocm.blogs.amd.com/software-tools-optimization/gluon-attention-decode-mi450/README.html)
 
 ## [Archives](archives/index.md)
