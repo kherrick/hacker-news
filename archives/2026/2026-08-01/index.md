@@ -6,6 +6,7 @@
 
 * [2026-08-01, 17:08:03](https://news.ycombinator.com/item?id=49136236) - [Assessment of open AI math results](https://twitter.com/stalkermustang/status/2083485500250198453)
 * [2026-08-01, 16:52:41](https://news.ycombinator.com/item?id=49136063) - [I ♥ RSS – A directory of people who love RSS](https://andrewshell.org/2026/07/i-%e2%99%a5-rss/)
+* [2026-08-01, 16:52:38](https://news.ycombinator.com/item?id=49136061) - [Twelve Years Without a VPN](https://khessin.de/twelve-years-without-a-vpn/)
 * [2026-08-01, 16:45:40](https://news.ycombinator.com/item?id=49135985) - [Kaisel – Routes as Values. Dart 3 Native Router for Flutter](https://kaisel.dev/)
 * [2026-08-01, 16:38:28](https://news.ycombinator.com/item?id=49135914) - [I Fired My AI Assitant](https://chreke.com/posts/i-fired-my-ai-assistant)
 * [2026-08-01, 16:01:22](https://news.ycombinator.com/item?id=49135546) - [Pgtestdb's template cloning approach to testing is fast](https://brandur.org/fragments/pgtestdb)

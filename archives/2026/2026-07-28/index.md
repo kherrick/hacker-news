@@ -48,6 +48,7 @@
 * [2026-07-28, 15:36:45](https://news.ycombinator.com/item?id=49085509) - [So, you want to make a game engine (2023)](https://lisyarus.github.io/blog/posts/so-you-want-to-make-a-game-engine.html#part-3)
 * [2026-07-28, 15:36:35](https://news.ycombinator.com/item?id=49085503) - [Show HN: Flashpaper – Self-destructing secret sharing with no database](https://flashpaper.app/)
 * [2026-07-28, 15:32:58](https://news.ycombinator.com/item?id=49085449) - [Setup Script Should Support Git Worktrees](https://piechowski.io/post/setup-script-git-worktrees/)
+* [2026-07-28, 15:27:08](https://news.ycombinator.com/item?id=49085369) - [Rear center fuel tank adds roughly 20k liters and extends range by 1k NM](https://www.airbus.com/en/newsroom/press-releases/2026-06-worlds-longest-range-aircraft-the-airbus-a350-1000ulr-takes-to-the-skies)
 * [2026-07-28, 15:20:35](https://news.ycombinator.com/item?id=49085280) - [Harmony Explained: Progress Towards a Scientific Theory of Music (2012)](https://arxiv.org/abs/1202.4212)
 * [2026-07-28, 15:17:38](https://news.ycombinator.com/item?id=49085236) - [GrapheneOS Defends Data-Wiping Function That Blocked US Border Search](https://www.pcmag.com/news/grapheneos-defends-data-wiping-function-that-blocked-us-border-search)
 * [2026-07-28, 15:01:15](https://news.ycombinator.com/item?id=49084989) - [Anthropeum](https://anthropeum.com/)
