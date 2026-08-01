@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-08-01](index.md)
 
 * [2026-08-01, 20:33:27](https://news.ycombinator.com/item?id=49138188) - [Diátaxis](https://diataxis.fr/)
+* [2026-08-01, 20:20:58](https://news.ycombinator.com/item?id=49138045) - [The Silicon Valley Founder Meat Grinder](https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/)
 * [2026-08-01, 20:07:39](https://news.ycombinator.com/item?id=49137904) - [Cookware Got Worse on Purpose: Who Owns Pyrex and All-Clad Now](https://www.worseonpurpose.com/p/your-cookware-got-worse-on-purpose)
 * [2026-08-01, 19:56:07](https://news.ycombinator.com/item?id=49137808) - [Top amputation surgeon had own legs removed due to fetish. Were patients safe?](https://www.theguardian.com/uk-news/2026/aug/01/neil-hopper-surgeon-amputated-legs-fetish-extreme-mutilation-patients-questions)
 * [2026-08-01, 19:44:48](https://news.ycombinator.com/item?id=49137713) - [But can your calculator run Linux?](https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html)
@@ -17,6 +18,7 @@
 * [2026-08-01, 18:32:20](https://news.ycombinator.com/item?id=49137060) - [Postmortem for Kernel Soundness Bug #14576](https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/)
 * [2026-08-01, 18:28:06](https://news.ycombinator.com/item?id=49137024) - [Oil companies report sky-high profits thanks to wartime crude prices](https://www.npr.org/2026/07/31/nx-s1-5910660/big-oil-earnings-q2-2026)
 * [2026-08-01, 18:25:00](https://news.ycombinator.com/item?id=49136990) - [Tell HN: I hate your fuzzy search](https://news.ycombinator.com/item?id=49136990)
+* [2026-08-01, 18:21:41](https://news.ycombinator.com/item?id=49136955) - [Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets](https://trufflesecurity.com/blog/scanning-7-6-petabytes-of-ai-training-data-for-secrets)
 * [2026-08-01, 18:07:07](https://news.ycombinator.com/item?id=49136821) - [How Google helped destroy adoption of RSS feeds (2023)](https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds)
 * [2026-08-01, 17:56:41](https://news.ycombinator.com/item?id=49136736) - [NetBSD 11.0 Released](https://blog.netbsd.org/tnf/entry/netbsd_11_0_released)
 * [2026-08-01, 17:08:03](https://news.ycombinator.com/item?id=49136236) - [Assessment of open AI math results](https://twitter.com/stalkermustang/status/2083485500250198453)
