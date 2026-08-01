@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2026-08-01, 01:35:53",
-      "https://news.ycombinator.com/item?id=49130295"
-    ],
-    [
-      "A week in Matrix",
-      "https://piegames.de/dumps/a-week-in-matrix/"
-    ]
-  ],
-  [
-    [
       "2026-08-01, 00:25:00",
       "https://news.ycombinator.com/item?id=49129990"
     ],
@@ -111,12 +101,12 @@
   ],
   [
     [
-      "2026-07-31, 21:00:40",
-      "https://news.ycombinator.com/item?id=49128462"
+      "2026-07-31, 20:44:29",
+      "https://news.ycombinator.com/item?id=49128323"
     ],
     [
-      "Loops (YC W22) Is Hiring a Product Educator",
-      "https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator"
+      "Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena",
+      "https://arxiv.org/abs/2607.28233"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
       "https://blog.google/security/chrome-stronger-with-every-update/"
+    ]
+  ],
+  [
+    [
+      "2026-07-31, 05:16:45",
+      "https://news.ycombinator.com/item?id=49119270"
+    ],
+    [
+      "Let's make the worst Htmx",
+      "https://zserge.com/posts/worst-htmx-ever/"
     ]
   ],
   [
