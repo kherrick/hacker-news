@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-08-01, 08:48:58](https://news.ycombinator.com/item?id=49132460) - [RamenHaus](https://ramen.haus/)
-* [2026-08-01, 08:26:55](https://news.ycombinator.com/item?id=49132341) - [EU will mandate labels on authentic-looking AI content starting August 2](https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/)
 * [2026-08-01, 08:19:44](https://news.ycombinator.com/item?id=49132289) - [How to Do Great Work](https://paulgraham.com/greatwork.html)
 * [2026-08-01, 07:52:10](https://news.ycombinator.com/item?id=49132130) - [AI doesn't generate working products, that's still your job](https://weeraman.com/the-prototype-isnt-the-product/)
 * [2026-08-01, 07:42:08](https://news.ycombinator.com/item?id=49132083) - [Solid Queue 1.6.0 now supports fiber workers](https://github.com/rails/solid_queue/releases/tag/v1.6.0)
@@ -11,6 +10,7 @@
 * [2026-08-01, 02:45:09](https://news.ycombinator.com/item?id=49130604) - [Flint: A Visualization Language for the AI Era](https://microsoft.github.io/flint-chart/)
 * [2026-08-01, 00:25:00](https://news.ycombinator.com/item?id=49129990) - [How to Exist](https://www.raptitude.com/2026/07/how-to-exist/)
 * [2026-07-31, 20:44:29](https://news.ycombinator.com/item?id=49128323) - [Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena](https://arxiv.org/abs/2607.28233)
+* [2026-07-31, 19:03:45](https://news.ycombinator.com/item?id=49127306) - [Tailscale didn't stop the Hugging Face intrusion](https://tailscale.com/blog/hugging-face-intrusion)
 * [2026-07-31, 18:39:47](https://news.ycombinator.com/item?id=49127031) - [Golang proposal: container/: generic collection types](https://github.com/golang/go/issues/80590)
 * [2026-07-31, 18:17:52](https://news.ycombinator.com/item?id=49126765) - [June in Servo: real world compat, media queries, SharedWorker, and more](https://servo.org/blog/2026/07/31/june-in-servo/)
 * [2026-07-31, 18:04:58](https://news.ycombinator.com/item?id=49126604) - [qm – Multiplayer agent harness for work](https://github.com/yc-software/qm)
