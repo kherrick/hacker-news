@@ -51,6 +51,7 @@
 * [2026-07-28, 15:27:08](https://news.ycombinator.com/item?id=49085369) - [Rear center fuel tank adds roughly 20k liters and extends range by 1k NM](https://www.airbus.com/en/newsroom/press-releases/2026-06-worlds-longest-range-aircraft-the-airbus-a350-1000ulr-takes-to-the-skies)
 * [2026-07-28, 15:20:35](https://news.ycombinator.com/item?id=49085280) - [Harmony Explained: Progress Towards a Scientific Theory of Music (2012)](https://arxiv.org/abs/1202.4212)
 * [2026-07-28, 15:17:38](https://news.ycombinator.com/item?id=49085236) - [GrapheneOS Defends Data-Wiping Function That Blocked US Border Search](https://www.pcmag.com/news/grapheneos-defends-data-wiping-function-that-blocked-us-border-search)
+* [2026-07-28, 15:06:38](https://news.ycombinator.com/item?id=49085065) - [Glyphs 4 – the leading Mac font editor](https://glyphsapp.com)
 * [2026-07-28, 15:01:15](https://news.ycombinator.com/item?id=49084989) - [Anthropeum](https://anthropeum.com/)
 * [2026-07-28, 15:01:12](https://news.ycombinator.com/item?id=49084987) - [Now Is the Time to Give LLMs Access to the ACM Digital Library](https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/)
 * [2026-07-28, 14:58:15](https://news.ycombinator.com/item?id=49084938) - [Stop Killing the Internet: No Digital ID and No Age Verification](https://citizens-initiative.europa.eu/initiatives/details/2026/000011_en)
