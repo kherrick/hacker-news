@@ -10,6 +10,7 @@
 * [2026-08-01, 16:45:40](https://news.ycombinator.com/item?id=49135985) - [Kaisel – Routes as Values. Dart 3 Native Router for Flutter](https://kaisel.dev/)
 * [2026-08-01, 16:38:28](https://news.ycombinator.com/item?id=49135914) - [I Fired My AI Assitant](https://chreke.com/posts/i-fired-my-ai-assistant)
 * [2026-08-01, 16:01:22](https://news.ycombinator.com/item?id=49135546) - [Pgtestdb's template cloning approach to testing is fast](https://brandur.org/fragments/pgtestdb)
+* [2026-08-01, 15:58:10](https://news.ycombinator.com/item?id=49135511) - [BMW Is Showing Commercials on Their Car's Dash Screens as a Treat](https://www.theautopian.com/bmw-is-showing-commercials-on-their-cars-dash-screens-and-they-want-you-to-think-its-a-treat/)
 * [2026-08-01, 15:57:33](https://news.ycombinator.com/item?id=49135507) - [Scope of Hacks on U.S. Water Supply Widens as Evidence Points to Iran](https://www.nytimes.com/2026/08/01/us/politics/iran-cyberattack-water-systems.html)
 * [2026-08-01, 15:41:31](https://news.ycombinator.com/item?id=49135383) - [Indexing the Data Lake for Online Point Queries](https://engineering.atspotify.com/2026/7/indexing-the-data-lake-for-online-point-queries)
 * [2026-08-01, 15:39:31](https://news.ycombinator.com/item?id=49135365) - [GitHub has alternatives, but no replacement](https://lalitm.com/post/github-alternatives/)

@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-08-01, 16:52:41](https://news.ycombinator.com/item?id=49136063) - [I ♥ RSS – A directory of people who love RSS](https://andrewshell.org/2026/07/i-%e2%99%a5-rss/)
-* [2026-08-01, 16:52:38](https://news.ycombinator.com/item?id=49136061) - [Twelve Years Without a VPN](https://khessin.de/twelve-years-without-a-vpn/)
+* [2026-08-01, 16:52:41](https://news.ycombinator.com/item?id=49136063) - [A directory of people who love RSS](https://andrewshell.org/2026/07/i-%e2%99%a5-rss/)
 * [2026-08-01, 16:45:40](https://news.ycombinator.com/item?id=49135985) - [Kaisel – Routes as Values. Dart 3 Native Router for Flutter](https://kaisel.dev/)
 * [2026-08-01, 16:01:22](https://news.ycombinator.com/item?id=49135546) - [Pgtestdb's template cloning approach to testing is fast](https://brandur.org/fragments/pgtestdb)
+* [2026-08-01, 15:58:10](https://news.ycombinator.com/item?id=49135511) - [BMW Is Showing Commercials on Their Car's Dash Screens as a Treat](https://www.theautopian.com/bmw-is-showing-commercials-on-their-cars-dash-screens-and-they-want-you-to-think-its-a-treat/)
 * [2026-08-01, 15:25:21](https://news.ycombinator.com/item?id=49135257) - [Cursor removed cost information from the usage page and CSV export](https://forum.cursor.com/t/usage-page-to-token-amount-what/167153)
 * [2026-08-01, 15:23:15](https://news.ycombinator.com/item?id=49135245) - [Explorative modeling: Train on the best of K guesses](https://alexiglad.github.io/blog/2026/explorative_modeling/)
 * [2026-08-01, 15:15:51](https://news.ycombinator.com/item?id=49135184) - [Toast IDE Gets Markdown Spell Checking](https://github.com/paradise-runner/toast)
@@ -15,6 +15,7 @@
 * [2026-08-01, 12:00:25](https://news.ycombinator.com/item?id=49133655) - [Kontigo (YC S24) Is Hiring](https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer)
 * [2026-08-01, 08:48:58](https://news.ycombinator.com/item?id=49132460) - [RamenHaus](https://ramen.haus/)
 * [2026-08-01, 07:42:08](https://news.ycombinator.com/item?id=49132083) - [Solid Queue 1.6.0 now supports fiber workers](https://github.com/rails/solid_queue/releases/tag/v1.6.0)
+* [2026-08-01, 07:37:44](https://news.ycombinator.com/item?id=49132058) - [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/)
 * [2026-08-01, 03:16:09](https://news.ycombinator.com/item?id=49130726) - [The development pipeline is a production system](https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system)
 * [2026-08-01, 02:45:09](https://news.ycombinator.com/item?id=49130604) - [Flint: A Visualization Language for the AI Era](https://microsoft.github.io/flint-chart/)
 * [2026-08-01, 00:25:00](https://news.ycombinator.com/item?id=49129990) - [How to Exist](https://www.raptitude.com/2026/07/how-to-exist/)
@@ -29,7 +30,6 @@
 * [2026-07-28, 23:56:45](https://news.ycombinator.com/item?id=49091614) - [A tiny holdout building in the middle of Macy’s is back in view](https://ephemeralnewyork.wordpress.com/2026/07/27/hidden-by-billboards-for-over-100-years-the-tiny-holdout-building-in-the-middle-of-macys-is-back-in-view/)
 * [2026-07-28, 17:52:00](https://news.ycombinator.com/item?id=49087499) - [Linux on ESP32](https://github.com/GrieferPig/esp32-s31-linux)
 * [2026-07-28, 15:27:08](https://news.ycombinator.com/item?id=49085369) - [Rear center fuel tank adds roughly 20k liters and extends range by 1k NM](https://www.airbus.com/en/newsroom/press-releases/2026-06-worlds-longest-range-aircraft-the-airbus-a350-1000ulr-takes-to-the-skies)
-* [2026-07-28, 13:04:51](https://news.ycombinator.com/item?id=49083207) - [The First Idempotency Key](https://hatchet.run/blog/first-idempotency-key)
 
 ## [Archives](archives/index.md)
 
