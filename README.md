@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-01, 00:25:00](https://news.ycombinator.com/item?id=49129990) - [How to Exist](https://www.raptitude.com/2026/07/how-to-exist/)
+* [2026-07-31, 21:39:52](https://news.ycombinator.com/item?id=49128826) - [Show HN: I worked on a new browser for 2 years, today it passed Acid 3](https://code.intellios.ai/cwbrowser/)
 * [2026-07-31, 21:00:40](https://news.ycombinator.com/item?id=49128462) - [Loops (YC W22) Is Hiring a Product Educator](https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator)
 * [2026-07-31, 20:44:29](https://news.ycombinator.com/item?id=49128323) - [Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena](https://arxiv.org/abs/2607.28233)
 * [2026-07-31, 19:55:41](https://news.ycombinator.com/item?id=49127874) - [Predictive Speculative KV Replication for Bursty LLM Inference](https://jwlabs.vercel.app/post/biting-the-bullet)
@@ -9,7 +11,7 @@
 * [2026-07-31, 18:28:08](https://news.ycombinator.com/item?id=49126883) - [Termixer (TUI DJ Mixer)](https://github.com/l00sed/termixer)
 * [2026-07-31, 18:17:52](https://news.ycombinator.com/item?id=49126765) - [June in Servo: real world compat, media queries, SharedWorker, and more](https://servo.org/blog/2026/07/31/june-in-servo/)
 * [2026-07-31, 18:06:39](https://news.ycombinator.com/item?id=49126630) - [Everyone is building LLM routers, we deprecated ours](https://manifest.build/blog/why-we-deprecated-our-llm-router/)
-* [2026-07-31, 18:04:58](https://news.ycombinator.com/item?id=49126604) - [qm](https://github.com/yc-software/qm)
+* [2026-07-31, 18:04:58](https://news.ycombinator.com/item?id=49126604) - [qm – Multiplayer agent harness for work](https://github.com/yc-software/qm)
 * [2026-07-31, 17:15:09](https://news.ycombinator.com/item?id=49125971) - [Severance](https://lcamtuf.substack.com/p/severance)
 * [2026-07-31, 16:15:31](https://news.ycombinator.com/item?id=49125034) - [Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio](https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/)
 * [2026-07-31, 16:04:32](https://news.ycombinator.com/item?id=49124858) - [Big Food vs. the People](https://www.lighthousereports.com/investigation/big-food-vs-the-people/)
@@ -21,15 +23,13 @@
 * [2026-07-31, 14:17:43](https://news.ycombinator.com/item?id=49123468) - [Authorize, don't authenticate](https://blog.marcua.net/2026/07/31/authorize-dont-authenticate.html)
 * [2026-07-31, 14:12:38](https://news.ycombinator.com/item?id=49123386) - [Run Kimi K3 using 29 GB of RAM at 0.50 tok/s](https://github.com/sqliteai/waste)
 * [2026-07-31, 10:04:40](https://news.ycombinator.com/item?id=49121196) - [Progressive Web Components](https://arielsalminen.com/2026/progressive-web-components/)
-* [2026-07-31, 07:59:11](https://news.ycombinator.com/item?id=49120299) - [DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/deepseek-v4-flash)
 * [2026-07-31, 05:16:45](https://news.ycombinator.com/item?id=49119270) - [Let's make the worst Htmx](https://zserge.com/posts/worst-htmx-ever/)
 * [2026-07-30, 23:21:17](https://news.ycombinator.com/item?id=49117089) - [The Absurdity of Albert Camus](https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus)
 * [2026-07-30, 19:26:18](https://news.ycombinator.com/item?id=49114527) - [A past and future of trade secrets](https://www.cabinetmagazine.org/issues/70/kofen.php)
 * [2026-07-29, 11:59:10](https://news.ycombinator.com/item?id=49096319) - [The First Transatlantic Telegraph Cable Was a Bold, Beautiful Failure](https://spectrum.ieee.org/the-first-transatlantic-telegraph-cable-was-a-bold-beautiful-failure)
-* [2026-07-29, 06:54:23](https://news.ycombinator.com/item?id=49094200) - [Britain's New World of Tobacco (2017)](https://www.historytoday.com/archive/feature/britains-new-world-tobacco)
+* [2026-07-28, 13:59:14](https://news.ycombinator.com/item?id=49084005) - [How far can you push the range of Wi-Fi connectivity in an ideal environment?](https://www.phidgets.com/?view=articles&article=LongRangeWifi)
 * [2026-07-28, 13:31:25](https://news.ycombinator.com/item?id=49083599) - [Twenty-five years ago it was cryptography, today it's model weights](https://weeraman.com/because-we-can/)
 * [2026-07-27, 15:11:14](https://news.ycombinator.com/item?id=49070810) - [How JPEG works: Interactively explore JPEG's lossy compression methods](https://cgjennings.ca/articles/jpeg-compression/)
-* [2026-07-26, 13:30:39](https://news.ycombinator.com/item?id=49058038) - [Anime Professions](https://github.com/elmiram/anime-professions)
 
 ## [Archives](archives/index.md)
 

@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-08-01](index.md)
+
+* [2026-08-01, 00:25:00](https://news.ycombinator.com/item?id=49129990) - [How to Exist](https://www.raptitude.com/2026/07/how-to-exist/)
