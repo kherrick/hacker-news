@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-01, 12:34:25](https://news.ycombinator.com/item?id=49133889) - [RipGrep musl binaries occasionally segfault during very-large searches](https://github.com/BurntSushi/ripgrep/issues/3494)
 * [2026-08-01, 12:00:25](https://news.ycombinator.com/item?id=49133655) - [Kontigo (YC S24) Is Hiring](https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer)
+* [2026-08-01, 11:54:49](https://news.ycombinator.com/item?id=49133617) - [$0.09 and $290.12 are both the price of 1M output tokens](https://runinfra.ai/news/inference-cost-truth)
 * [2026-08-01, 08:48:58](https://news.ycombinator.com/item?id=49132460) - [RamenHaus](https://ramen.haus/)
 * [2026-08-01, 08:19:44](https://news.ycombinator.com/item?id=49132289) - [How to Do Great Work (2023)](https://paulgraham.com/greatwork.html)
 * [2026-08-01, 07:52:10](https://news.ycombinator.com/item?id=49132130) - [AI doesn't generate working products, that's still your job](https://weeraman.com/the-prototype-isnt-the-product/)
@@ -20,7 +22,6 @@
 * [2026-07-31, 14:12:38](https://news.ycombinator.com/item?id=49123386) - [Run Kimi K3 using 29 GB of RAM at 0.50 tok/s](https://github.com/sqliteai/waste)
 * [2026-07-31, 11:34:24](https://news.ycombinator.com/item?id=49121849) - [Increasing the lifespan of a bulb makes it worse in every other way](https://maurycyz.com/misc/tungsten/)
 * [2026-07-31, 10:04:40](https://news.ycombinator.com/item?id=49121196) - [Progressive Web Components](https://arielsalminen.com/2026/progressive-web-components/)
-* [2026-07-31, 05:16:45](https://news.ycombinator.com/item?id=49119270) - [Let's make the worst Htmx](https://zserge.com/posts/worst-htmx-ever/)
 * [2026-07-30, 23:21:17](https://news.ycombinator.com/item?id=49117089) - [The Absurdity of Albert Camus](https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus)
 * [2026-07-30, 01:05:42](https://news.ycombinator.com/item?id=49105013) - [Manual: •.,:;?·](https://type.today/en/journal/dots)
 * [2026-07-29, 12:51:40](https://news.ycombinator.com/item?id=49096847) - [G'mic 4.0: Squaring the Pixel, Easier](https://gmic.eu/gmic40/)
@@ -28,7 +29,6 @@
 * [2026-07-28, 23:56:45](https://news.ycombinator.com/item?id=49091614) - [A tiny holdout building in the middle of Macy’s is back in view](https://ephemeralnewyork.wordpress.com/2026/07/27/hidden-by-billboards-for-over-100-years-the-tiny-holdout-building-in-the-middle-of-macys-is-back-in-view/)
 * [2026-07-28, 13:59:14](https://news.ycombinator.com/item?id=49084005) - [Long Range Wi-Fi – Pushing 2.4 GHz Wi-Fi to the limits (2019)](https://www.phidgets.com/?view=articles&article=LongRangeWifi)
 * [2026-07-28, 13:04:51](https://news.ycombinator.com/item?id=49083207) - [The First Idempotency Key](https://hatchet.run/blog/first-idempotency-key)
-* [2026-07-28, 13:00:45](https://news.ycombinator.com/item?id=49083141) - [AWS Secrets Manager Terraform: Least-Privilege Access](https://blog.victorsilva.com.uy/aws-secrets-manager-terraform-least-privilege/)
 * [2026-07-28, 00:26:45](https://news.ycombinator.com/item?id=49077646) - [Attention Decode on AMD MI450 GPUs: A Gluon Kernel Optimization Guide](https://rocm.blogs.amd.com/software-tools-optimization/gluon-attention-decode-mi450/README.html)
 
 ## [Archives](archives/index.md)
