@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-01, 13:02:44](https://news.ycombinator.com/item?id=49134079) - [Google kills Earth AI generator after one day](https://twitter.com/newsfromgoogle/status/2083249962150760610)
 * [2026-08-01, 12:34:25](https://news.ycombinator.com/item?id=49133889) - [RipGrep musl binaries occasionally segfault during very-large searches](https://github.com/BurntSushi/ripgrep/issues/3494)
 * [2026-08-01, 12:00:25](https://news.ycombinator.com/item?id=49133655) - [Kontigo (YC S24) Is Hiring](https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer)
-* [2026-08-01, 11:54:49](https://news.ycombinator.com/item?id=49133617) - [$0.09 and $290.12 are both the price of 1M output tokens](https://runinfra.ai/news/inference-cost-truth)
+* [2026-08-01, 11:59:45](https://news.ycombinator.com/item?id=49133647) - [Morten Linderud resigning from Arch Linux development team](https://lists.archlinux.org/archives/list/arch-dev-public@lists.archlinux.org/thread/2AX2BCJ3EQX7G3YXSDX73BR4NCAWXXBZ/)
 * [2026-08-01, 08:48:58](https://news.ycombinator.com/item?id=49132460) - [RamenHaus](https://ramen.haus/)
 * [2026-08-01, 08:19:44](https://news.ycombinator.com/item?id=49132289) - [How to Do Great Work (2023)](https://paulgraham.com/greatwork.html)
-* [2026-08-01, 07:52:10](https://news.ycombinator.com/item?id=49132130) - [AI doesn't generate working products, that's still your job](https://weeraman.com/the-prototype-isnt-the-product/)
 * [2026-08-01, 07:42:08](https://news.ycombinator.com/item?id=49132083) - [Solid Queue 1.6.0 now supports fiber workers](https://github.com/rails/solid_queue/releases/tag/v1.6.0)
 * [2026-08-01, 07:37:44](https://news.ycombinator.com/item?id=49132058) - [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/)
 * [2026-08-01, 05:38:16](https://news.ycombinator.com/item?id=49131367) - [Ten Ways NAS Is Getting Enshitified](https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/)
