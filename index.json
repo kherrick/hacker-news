@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-08-01, 12:34:25",
+      "https://news.ycombinator.com/item?id=49133889"
+    ],
+    [
+      "RipGrep musl binaries occasionally segfault during very-large searches",
+      "https://github.com/BurntSushi/ripgrep/issues/3494"
+    ]
+  ],
+  [
+    [
       "2026-08-01, 12:00:25",
       "https://news.ycombinator.com/item?id=49133655"
     ],
     [
       "Kontigo (YC S24) Is Hiring",
       "https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer"
+    ]
+  ],
+  [
+    [
+      "2026-08-01, 11:54:49",
+      "https://news.ycombinator.com/item?id=49133617"
+    ],
+    [
+      "$0.09 and $290.12 are both the price of 1M output tokens",
+      "https://runinfra.ai/news/inference-cost-truth"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2026-07-31, 05:16:45",
-      "https://news.ycombinator.com/item?id=49119270"
-    ],
-    [
-      "Let's make the worst Htmx",
-      "https://zserge.com/posts/worst-htmx-ever/"
-    ]
-  ],
-  [
-    [
       "2026-07-30, 23:21:17",
       "https://news.ycombinator.com/item?id=49117089"
     ],
@@ -277,16 +287,6 @@
     [
       "The First Idempotency Key",
       "https://hatchet.run/blog/first-idempotency-key"
-    ]
-  ],
-  [
-    [
-      "2026-07-28, 13:00:45",
-      "https://news.ycombinator.com/item?id=49083141"
-    ],
-    [
-      "AWS Secrets Manager Terraform: Least-Privilege Access",
-      "https://blog.victorsilva.com.uy/aws-secrets-manager-terraform-least-privilege/"
     ]
   ],
   [
