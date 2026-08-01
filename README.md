@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-01, 22:52:44](https://news.ycombinator.com/item?id=49139352) - [Morph (YC S23) Is Hiring Member of Technical Stuff](https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff)
 * [2026-08-01, 22:25:12](https://news.ycombinator.com/item?id=49139102) - [From MIT: AI financial advice is surprisingly good](https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions)
 * [2026-08-01, 20:45:12](https://news.ycombinator.com/item?id=49138302) - [Seedance 2.5](https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5)
 * [2026-08-01, 20:33:27](https://news.ycombinator.com/item?id=49138188) - [Diátaxis](https://diataxis.fr/)
@@ -18,7 +19,6 @@
 * [2026-08-01, 14:19:51](https://news.ycombinator.com/item?id=49134694) - [A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention](https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/)
 * [2026-08-01, 14:09:00](https://news.ycombinator.com/item?id=49134599) - [The Art of 64-bit Assembly](https://nostarch.com/art-64-bit-assembly-v2)
 * [2026-08-01, 12:34:25](https://news.ycombinator.com/item?id=49133889) - [RipGrep musl binaries occasionally segfault during very-large searches](https://github.com/BurntSushi/ripgrep/issues/3494)
-* [2026-08-01, 12:00:25](https://news.ycombinator.com/item?id=49133655) - [Kontigo (YC S24) Is Hiring](https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer)
 * [2026-08-01, 08:48:58](https://news.ycombinator.com/item?id=49132460) - [RamenHaus](https://ramen.haus/)
 * [2026-08-01, 02:45:09](https://news.ycombinator.com/item?id=49130604) - [Flint: A Visualization Language for the AI Era](https://microsoft.github.io/flint-chart/)
 * [2026-07-31, 07:50:48](https://news.ycombinator.com/item?id=49120230) - [Just because a game is on disc doesn't mean it will work in the future](https://arstechnica.com/gaming/2026/07/the-disc-is-not-the-game-physical-releases-increasingly-require-extra-downloads/)
