@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-08-01, 00:25:00",
+      "https://news.ycombinator.com/item?id=49129990"
+    ],
+    [
+      "How to Exist",
+      "https://www.raptitude.com/2026/07/how-to-exist/"
+    ]
+  ],
+  [
+    [
+      "2026-07-31, 21:39:52",
+      "https://news.ycombinator.com/item?id=49128826"
+    ],
+    [
+      "Show HN: I worked on a new browser for 2 years, today it passed Acid 3",
+      "https://code.intellios.ai/cwbrowser/"
+    ]
+  ],
+  [
+    [
       "2026-07-31, 21:00:40",
       "https://news.ycombinator.com/item?id=49128462"
     ],
@@ -95,7 +115,7 @@
       "https://news.ycombinator.com/item?id=49126604"
     ],
     [
-      "qm",
+      "qm – Multiplayer agent harness for work",
       "https://github.com/yc-software/qm"
     ]
   ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2026-07-31, 07:59:11",
-      "https://news.ycombinator.com/item?id=49120299"
-    ],
-    [
-      "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
-      "https://artificialanalysis.ai/models/deepseek-v4-flash"
-    ]
-  ],
-  [
-    [
       "2026-07-31, 05:16:45",
       "https://news.ycombinator.com/item?id=49119270"
     ],
@@ -261,12 +271,12 @@
   ],
   [
     [
-      "2026-07-29, 06:54:23",
-      "https://news.ycombinator.com/item?id=49094200"
+      "2026-07-28, 13:59:14",
+      "https://news.ycombinator.com/item?id=49084005"
     ],
     [
-      "Britain's New World of Tobacco (2017)",
-      "https://www.historytoday.com/archive/feature/britains-new-world-tobacco"
+      "How far can you push the range of Wi-Fi connectivity in an ideal environment?",
+      "https://www.phidgets.com/?view=articles&article=LongRangeWifi"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "How JPEG works: Interactively explore JPEG's lossy compression methods",
       "https://cgjennings.ca/articles/jpeg-compression/"
-    ]
-  ],
-  [
-    [
-      "2026-07-26, 13:30:39",
-      "https://news.ycombinator.com/item?id=49058038"
-    ],
-    [
-      "Anime Professions",
-      "https://github.com/elmiram/anime-professions"
     ]
   ]
 ]
