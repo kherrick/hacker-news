@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-01](index.md)
 
+* [2026-08-01, 23:19:23](https://news.ycombinator.com/item?id=49139562) - [A stray commit buried multiple levels deep cost me months](https://www.droppedasbaby.com/posts/db-commits/)
 * [2026-08-01, 22:55:52](https://news.ycombinator.com/item?id=49139383) - [Unraveling the mysteries of habit formation](https://www.kyoto-u.ac.jp/en/research-news/2026-07-28)
 * [2026-08-01, 22:52:44](https://news.ycombinator.com/item?id=49139352) - [Morph (YC S23) Is Hiring Member of Technical Stuff](https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff)
 * [2026-08-01, 22:47:24](https://news.ycombinator.com/item?id=49139304) - [Anime User Interfaces](https://animeuserinterface.tumblr.com)
