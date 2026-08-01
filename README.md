@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-08-01, 21:02:07](https://news.ycombinator.com/item?id=49138443) - [YC founder asks desperate job seekers to tattoo themselves for an interview](https://sfstandard.com/2026/07/30/lemonlime-tattoo-job-interview/)
+* [2026-08-01, 22:25:12](https://news.ycombinator.com/item?id=49139102) - [From MIT: AI financial advice is surprisingly good](https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions)
 * [2026-08-01, 20:45:12](https://news.ycombinator.com/item?id=49138302) - [Seedance 2.5](https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5)
 * [2026-08-01, 20:33:27](https://news.ycombinator.com/item?id=49138188) - [Diátaxis](https://diataxis.fr/)
 * [2026-08-01, 20:20:58](https://news.ycombinator.com/item?id=49138045) - [The Silicon Valley Founder Meat Grinder](https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/)
@@ -20,9 +20,9 @@
 * [2026-08-01, 12:34:25](https://news.ycombinator.com/item?id=49133889) - [RipGrep musl binaries occasionally segfault during very-large searches](https://github.com/BurntSushi/ripgrep/issues/3494)
 * [2026-08-01, 12:00:25](https://news.ycombinator.com/item?id=49133655) - [Kontigo (YC S24) Is Hiring](https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer)
 * [2026-08-01, 08:48:58](https://news.ycombinator.com/item?id=49132460) - [RamenHaus](https://ramen.haus/)
-* [2026-08-01, 07:42:08](https://news.ycombinator.com/item?id=49132083) - [Solid Queue 1.6.0 now supports fiber workers](https://github.com/rails/solid_queue/releases/tag/v1.6.0)
 * [2026-08-01, 02:45:09](https://news.ycombinator.com/item?id=49130604) - [Flint: A Visualization Language for the AI Era](https://microsoft.github.io/flint-chart/)
 * [2026-07-31, 07:50:48](https://news.ycombinator.com/item?id=49120230) - [Just because a game is on disc doesn't mean it will work in the future](https://arstechnica.com/gaming/2026/07/the-disc-is-not-the-game-physical-releases-increasingly-require-extra-downloads/)
+* [2026-07-31, 07:16:01](https://news.ycombinator.com/item?id=49120000) - [Beltrunner: Game Design Postmortem](https://blog.gingerbeardman.com/2026/07/30/beltrunner-game-design-postmortem/)
 * [2026-07-30, 12:20:30](https://news.ycombinator.com/item?id=49109019) - [Register deprivation: spills and runtime under forced register scarcity](https://rjp.io/blog/2026-07-19-register-deprivation)
 * [2026-07-30, 01:05:42](https://news.ycombinator.com/item?id=49105013) - [Manual: •.,:;…!?·](https://type.today/en/journal/dots)
 * [2026-07-28, 23:56:45](https://news.ycombinator.com/item?id=49091614) - [The tiny holdout building in the middle of Macy’s is back in view](https://ephemeralnewyork.wordpress.com/2026/07/27/hidden-by-billboards-for-over-100-years-the-tiny-holdout-building-in-the-middle-of-macys-is-back-in-view/)
