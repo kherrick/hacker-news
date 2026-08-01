@@ -5,10 +5,12 @@
 ### [Archives](../../index.md) for [2026-08-01](index.md)
 
 * [2026-08-01, 14:19:51](https://news.ycombinator.com/item?id=49134694) - [A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention](https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/)
+* [2026-08-01, 14:09:00](https://news.ycombinator.com/item?id=49134599) - [The Art of 64-bit Assembly](https://nostarch.com/art-64-bit-assembly-v2)
 * [2026-08-01, 13:35:26](https://news.ycombinator.com/item?id=49134310) - [How to Spot AI Writing](https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing)
 * [2026-08-01, 13:02:44](https://news.ycombinator.com/item?id=49134079) - [Google kills Earth AI generator after one day](https://twitter.com/newsfromgoogle/status/2083249962150760610)
 * [2026-08-01, 12:34:25](https://news.ycombinator.com/item?id=49133889) - [RipGrep musl binaries occasionally segfault during very-large searches](https://github.com/BurntSushi/ripgrep/issues/3494)
 * [2026-08-01, 12:17:48](https://news.ycombinator.com/item?id=49133777) - [Astro Loop](https://pubdeer.com/)
+* [2026-08-01, 12:03:36](https://news.ycombinator.com/item?id=49133675) - [Dead Software Walking: The ongoing evolution of relayd(8) and httpd(8)](https://rsadowski.de/posts/2026/dead-software-walking-relayd-and-httpd/)
 * [2026-08-01, 12:00:25](https://news.ycombinator.com/item?id=49133655) - [Kontigo (YC S24) Is Hiring](https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer)
 * [2026-08-01, 11:59:45](https://news.ycombinator.com/item?id=49133647) - [Morten Linderud resigning from Arch Linux development team](https://lists.archlinux.org/archives/list/arch-dev-public@lists.archlinux.org/thread/2AX2BCJ3EQX7G3YXSDX73BR4NCAWXXBZ/)
 * [2026-08-01, 11:54:49](https://news.ycombinator.com/item?id=49133617) - [$0.09 and $290.12 are both the price of 1M output tokens](https://runinfra.ai/news/inference-cost-truth)
