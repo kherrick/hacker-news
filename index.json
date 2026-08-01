@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-01, 16:01:22",
+      "https://news.ycombinator.com/item?id=49135546"
+    ],
+    [
+      "Pgtestdb's template cloning approach to testing is fast",
+      "https://brandur.org/fragments/pgtestdb"
+    ]
+  ],
+  [
+    [
       "2026-08-01, 15:57:33",
       "https://news.ycombinator.com/item?id=49135507"
     ],
@@ -47,6 +57,16 @@
     [
       "Explorative modeling: Train on the best of K guesses",
       "https://alexiglad.github.io/blog/2026/explorative_modeling/"
+    ]
+  ],
+  [
+    [
+      "2026-08-01, 15:14:51",
+      "https://news.ycombinator.com/item?id=49135174"
+    ],
+    [
+      "Ask HN: Any tips for a college freshman enrolled in computer science?",
+      "https://news.ycombinator.com/item?id=49135174"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2026-08-01, 03:16:09",
-      "https://news.ycombinator.com/item?id=49130726"
-    ],
-    [
-      "The development pipeline is a production system",
-      "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system"
-    ]
-  ],
-  [
-    [
       "2026-08-01, 02:45:09",
       "https://news.ycombinator.com/item?id=49130604"
     ],
@@ -211,12 +221,12 @@
   ],
   [
     [
-      "2026-07-30, 23:21:17",
-      "https://news.ycombinator.com/item?id=49117089"
+      "2026-07-30, 12:20:30",
+      "https://news.ycombinator.com/item?id=49109019"
     ],
     [
-      "The Absurdity of Albert Camus",
-      "https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus"
+      "Register deprivation: spills and runtime under forced register scarcity",
+      "https://rjp.io/blog/2026-07-19-register-deprivation"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The First Idempotency Key",
       "https://hatchet.run/blog/first-idempotency-key"
-    ]
-  ],
-  [
-    [
-      "2026-07-28, 00:26:45",
-      "https://news.ycombinator.com/item?id=49077646"
-    ],
-    [
-      "Attention Decode on AMD MI450 GPUs: A Gluon Kernel Optimization Guide",
-      "https://rocm.blogs.amd.com/software-tools-optimization/gluon-attention-decode-mi450/README.html"
     ]
   ]
 ]
