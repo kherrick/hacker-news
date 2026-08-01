@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-08-01, 14:19:51",
+      "https://news.ycombinator.com/item?id=49134694"
+    ],
+    [
+      "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention",
+      "https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/"
+    ]
+  ],
+  [
+    [
+      "2026-08-01, 13:35:26",
+      "https://news.ycombinator.com/item?id=49134310"
+    ],
+    [
+      "How to Spot AI Writing",
+      "https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing"
+    ]
+  ],
+  [
+    [
       "2026-08-01, 12:34:25",
       "https://news.ycombinator.com/item?id=49133889"
     ],
@@ -27,16 +47,6 @@
     [
       "Kontigo (YC S24) Is Hiring",
       "https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer"
-    ]
-  ],
-  [
-    [
-      "2026-08-01, 11:59:45",
-      "https://news.ycombinator.com/item?id=49133647"
-    ],
-    [
-      "Morten Linderud resigning from Arch Linux development team",
-      "https://lists.archlinux.org/archives/list/arch-dev-public@lists.archlinux.org/thread/2AX2BCJ3EQX7G3YXSDX73BR4NCAWXXBZ/"
     ]
   ],
   [
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2026-07-31, 18:39:47",
-      "https://news.ycombinator.com/item?id=49127031"
-    ],
-    [
-      "Golang proposal: container/: generic collection types",
-      "https://github.com/golang/go/issues/80590"
-    ]
-  ],
-  [
-    [
       "2026-07-31, 18:17:52",
       "https://news.ycombinator.com/item?id=49126765"
     ],
@@ -177,16 +177,6 @@
     [
       "Elevators",
       "https://john.fun/elevators"
-    ]
-  ],
-  [
-    [
-      "2026-07-31, 15:00:15",
-      "https://news.ycombinator.com/item?id=49124042"
-    ],
-    [
-      "The most official water costs $120k a gallon",
-      "https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "A tiny holdout building in the middle of Macy’s is back in view",
       "https://ephemeralnewyork.wordpress.com/2026/07/27/hidden-by-billboards-for-over-100-years-the-tiny-holdout-building-in-the-middle-of-macys-is-back-in-view/"
+    ]
+  ],
+  [
+    [
+      "2026-07-28, 17:52:00",
+      "https://news.ycombinator.com/item?id=49087499"
+    ],
+    [
+      "Linux on ESP32",
+      "https://github.com/GrieferPig/esp32-s31-linux"
     ]
   ],
   [
