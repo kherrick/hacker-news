@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-01, 07:37:44",
+      "https://news.ycombinator.com/item?id=49132058"
+    ],
+    [
+      "Ten advances in mathematics and theoretical computer science",
+      "https://openai.com/index/ten-advances-in-mathematics/"
+    ]
+  ],
+  [
+    [
       "2026-08-01, 05:38:16",
       "https://news.ycombinator.com/item?id=49131367"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=49131034"
     ],
     [
-      "What Liberal Arts Education Is for (2024)",
+      "What liberal arts education is for (2024)",
       "https://innig.net/teaching/liberal-arts-manifesto"
     ]
   ],
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=49130295"
     ],
     [
-      "A Week in Matrix",
+      "A week in Matrix",
       "https://piegames.de/dumps/a-week-in-matrix/"
     ]
   ],
@@ -91,12 +101,12 @@
   ],
   [
     [
-      "2026-07-31, 18:30:44",
-      "https://news.ycombinator.com/item?id=49126919"
+      "2026-07-31, 18:39:47",
+      "https://news.ycombinator.com/item?id=49127031"
     ],
     [
-      "Using the railway network as a flatbed scanner [video]",
-      "https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner"
+      "Golang proposal: container/: generic collection types",
+      "https://github.com/golang/go/issues/80590"
     ]
   ],
   [
@@ -107,16 +117,6 @@
     [
       "June in Servo: real world compat, media queries, SharedWorker, and more",
       "https://servo.org/blog/2026/07/31/june-in-servo/"
-    ]
-  ],
-  [
-    [
-      "2026-07-31, 18:06:39",
-      "https://news.ycombinator.com/item?id=49126630"
-    ],
-    [
-      "Everyone is building LLM routers, we deprecated ours",
-      "https://manifest.build/blog/why-we-deprecated-our-llm-router/"
     ]
   ],
   [
@@ -147,16 +147,6 @@
     [
       "Big Food vs. the People",
       "https://www.lighthousereports.com/investigation/big-food-vs-the-people/"
-    ]
-  ],
-  [
-    [
-      "2026-07-31, 15:58:15",
-      "https://news.ycombinator.com/item?id=49124738"
-    ],
-    [
-      "Dubious research tied to Red Bull has shaped energy drink policy",
-      "https://www.theexamination.org/articles/red-bull-funded-research-energy-drinks-alcohol"
     ]
   ],
   [
@@ -211,12 +201,32 @@
   ],
   [
     [
+      "2026-07-31, 11:34:24",
+      "https://news.ycombinator.com/item?id=49121849"
+    ],
+    [
+      "Increasing the lifespan of a bulb makes it worse in every other way",
+      "https://maurycyz.com/misc/tungsten/"
+    ]
+  ],
+  [
+    [
       "2026-07-31, 10:04:40",
       "https://news.ycombinator.com/item?id=49121196"
     ],
     [
       "Progressive Web Components",
       "https://arielsalminen.com/2026/progressive-web-components/"
+    ]
+  ],
+  [
+    [
+      "2026-07-31, 07:29:22",
+      "https://news.ycombinator.com/item?id=49120097"
+    ],
+    [
+      "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+      "https://blog.google/security/chrome-stronger-with-every-update/"
     ]
   ],
   [
@@ -251,22 +261,22 @@
   ],
   [
     [
-      "2026-07-29, 11:59:10",
-      "https://news.ycombinator.com/item?id=49096319"
-    ],
-    [
-      "The First Transatlantic Telegraph Cable Was a Bold, Beautiful Failure",
-      "https://spectrum.ieee.org/the-first-transatlantic-telegraph-cable-was-a-bold-beautiful-failure"
-    ]
-  ],
-  [
-    [
       "2026-07-28, 23:56:45",
       "https://news.ycombinator.com/item?id=49091614"
     ],
     [
-      "By billboards for over 100 years, holdout building by Macy's is back",
+      "A tiny holdout building in the middle of Macy’s is back in view",
       "https://ephemeralnewyork.wordpress.com/2026/07/27/hidden-by-billboards-for-over-100-years-the-tiny-holdout-building-in-the-middle-of-macys-is-back-in-view/"
+    ]
+  ],
+  [
+    [
+      "2026-07-28, 14:14:16",
+      "https://news.ycombinator.com/item?id=49084215"
+    ],
+    [
+      "When Internal Memory Fails: A No-Solder Wii U Recovery",
+      "https://smolnero.com/posts/when-internal-memory-fails-a-no-solder-wii-u-recovery"
     ]
   ],
   [
@@ -275,18 +285,8 @@
       "https://news.ycombinator.com/item?id=49084005"
     ],
     [
-      "How far can you push the range of Wi-Fi connectivity in an ideal environment?",
+      "Long Range Wi-Fi – Pushing 2.4 GHz Wi-Fi to the limits (2019)",
       "https://www.phidgets.com/?view=articles&article=LongRangeWifi"
-    ]
-  ],
-  [
-    [
-      "2026-07-28, 13:31:25",
-      "https://news.ycombinator.com/item?id=49083599"
-    ],
-    [
-      "Twenty-five years ago it was cryptography, today it's model weights",
-      "https://weeraman.com/because-we-can/"
     ]
   ],
   [
