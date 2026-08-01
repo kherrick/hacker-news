@@ -53,6 +53,7 @@
 * [2026-07-28, 14:58:15](https://news.ycombinator.com/item?id=49084938) - [Stop Killing the Internet: No Digital ID and No Age Verification](https://citizens-initiative.europa.eu/initiatives/details/2026/000011_en)
 * [2026-07-28, 14:48:13](https://news.ycombinator.com/item?id=49084813) - [Una Watch: Garmin watch competitor but repairable, open ecosystem and USB-C](https://unawatch.com/)
 * [2026-07-28, 14:46:19](https://news.ycombinator.com/item?id=49084787) - [I'd not buy a LG monitor](https://beko.famkos.net/2026/07/27/id-not-buy-a-lg-monitor/)
+* [2026-07-28, 14:37:54](https://news.ycombinator.com/item?id=49084645) - [Printing floating point numbers in binary](https://www.johndcook.com/blog/2026/07/27/float-binary/)
 * [2026-07-28, 14:25:36](https://news.ycombinator.com/item?id=49084404) - [Ask HN: Crooked Timber showed showed me a virus captcha, What now?](https://news.ycombinator.com/item?id=49084404)
 * [2026-07-28, 14:05:51](https://news.ycombinator.com/item?id=49084091) - [Italy Blocks Reproductive Health Websites Women on Web and Women Help Women](https://ooni.org/post/2026-italy-blocks-wow-and-whw)
 * [2026-07-28, 14:00:37](https://news.ycombinator.com/item?id=49084031) - [Why a $154B CEO just endorsed stripping most Americans of voting rights](https://fortune.com/2026/07/27/shopify-ceo-voting-rights-stripping-americans-19th-century/)
