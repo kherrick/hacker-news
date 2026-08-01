@@ -1,22 +1,22 @@
 [
   [
     [
-      "2026-08-01, 17:08:03",
-      "https://news.ycombinator.com/item?id=49136236"
-    ],
-    [
-      "Assessment of open AI math results",
-      "https://twitter.com/stalkermustang/status/2083485500250198453"
-    ]
-  ],
-  [
-    [
       "2026-08-01, 16:52:41",
       "https://news.ycombinator.com/item?id=49136063"
     ],
     [
       "I ♥ RSS – A directory of people who love RSS",
       "https://andrewshell.org/2026/07/i-%e2%99%a5-rss/"
+    ]
+  ],
+  [
+    [
+      "2026-08-01, 16:52:38",
+      "https://news.ycombinator.com/item?id=49136061"
+    ],
+    [
+      "Twelve Years Without a VPN",
+      "https://khessin.de/twelve-years-without-a-vpn/"
     ]
   ],
   [
@@ -31,42 +31,12 @@
   ],
   [
     [
-      "2026-08-01, 16:38:28",
-      "https://news.ycombinator.com/item?id=49135914"
-    ],
-    [
-      "I Fired My AI Assitant",
-      "https://chreke.com/posts/i-fired-my-ai-assistant"
-    ]
-  ],
-  [
-    [
       "2026-08-01, 16:01:22",
       "https://news.ycombinator.com/item?id=49135546"
     ],
     [
       "Pgtestdb's template cloning approach to testing is fast",
       "https://brandur.org/fragments/pgtestdb"
-    ]
-  ],
-  [
-    [
-      "2026-08-01, 15:57:33",
-      "https://news.ycombinator.com/item?id=49135507"
-    ],
-    [
-      "Scope of Hacks on U.S. Water Supply Widens as Evidence Points to Iran",
-      "https://www.nytimes.com/2026/08/01/us/politics/iran-cyberattack-water-systems.html"
-    ]
-  ],
-  [
-    [
-      "2026-08-01, 15:39:31",
-      "https://news.ycombinator.com/item?id=49135365"
-    ],
-    [
-      "GitHub has alternatives, but no replacement",
-      "https://lalitm.com/post/github-alternatives/"
     ]
   ],
   [
@@ -97,16 +67,6 @@
     [
       "Toast IDE Gets Markdown Spell Checking",
       "https://github.com/paradise-runner/toast"
-    ]
-  ],
-  [
-    [
-      "2026-08-01, 15:14:51",
-      "https://news.ycombinator.com/item?id=49135174"
-    ],
-    [
-      "Ask HN: Any tips for a college freshman enrolled in computer science?",
-      "https://news.ycombinator.com/item?id=49135174"
     ]
   ],
   [
@@ -191,12 +151,12 @@
   ],
   [
     [
-      "2026-08-01, 07:37:44",
-      "https://news.ycombinator.com/item?id=49132058"
+      "2026-08-01, 03:16:09",
+      "https://news.ycombinator.com/item?id=49130726"
     ],
     [
-      "Ten advances in mathematics and theoretical computer science",
-      "https://openai.com/index/ten-advances-in-mathematics/"
+      "The development pipeline is a production system",
+      "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system"
     ]
   ],
   [
@@ -241,6 +201,16 @@
   ],
   [
     [
+      "2026-07-31, 14:12:38",
+      "https://news.ycombinator.com/item?id=49123386"
+    ],
+    [
+      "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
+      "https://github.com/sqliteai/waste"
+    ]
+  ],
+  [
+    [
       "2026-07-30, 12:20:30",
       "https://news.ycombinator.com/item?id=49109019"
     ],
@@ -271,6 +241,16 @@
   ],
   [
     [
+      "2026-07-29, 12:51:40",
+      "https://news.ycombinator.com/item?id=49096847"
+    ],
+    [
+      "G'mic 4.0: Squaring the Pixel, Easier",
+      "https://gmic.eu/gmic40/"
+    ]
+  ],
+  [
+    [
       "2026-07-29, 12:29:20",
       "https://news.ycombinator.com/item?id=49096605"
     ],
@@ -297,6 +277,26 @@
     [
       "Linux on ESP32",
       "https://github.com/GrieferPig/esp32-s31-linux"
+    ]
+  ],
+  [
+    [
+      "2026-07-28, 15:27:08",
+      "https://news.ycombinator.com/item?id=49085369"
+    ],
+    [
+      "Rear center fuel tank adds roughly 20k liters and extends range by 1k NM",
+      "https://www.airbus.com/en/newsroom/press-releases/2026-06-worlds-longest-range-aircraft-the-airbus-a350-1000ulr-takes-to-the-skies"
+    ]
+  ],
+  [
+    [
+      "2026-07-28, 13:04:51",
+      "https://news.ycombinator.com/item?id=49083207"
+    ],
+    [
+      "The First Idempotency Key",
+      "https://hatchet.run/blog/first-idempotency-key"
     ]
   ]
 ]
