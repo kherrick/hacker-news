@@ -5,18 +5,8 @@
       "https://news.ycombinator.com/item?id=49136063"
     ],
     [
-      "I ♥ RSS – A directory of people who love RSS",
+      "A directory of people who love RSS",
       "https://andrewshell.org/2026/07/i-%e2%99%a5-rss/"
-    ]
-  ],
-  [
-    [
-      "2026-08-01, 16:52:38",
-      "https://news.ycombinator.com/item?id=49136061"
-    ],
-    [
-      "Twelve Years Without a VPN",
-      "https://khessin.de/twelve-years-without-a-vpn/"
     ]
   ],
   [
@@ -37,6 +27,16 @@
     [
       "Pgtestdb's template cloning approach to testing is fast",
       "https://brandur.org/fragments/pgtestdb"
+    ]
+  ],
+  [
+    [
+      "2026-08-01, 15:58:10",
+      "https://news.ycombinator.com/item?id=49135511"
+    ],
+    [
+      "BMW Is Showing Commercials on Their Car's Dash Screens as a Treat",
+      "https://www.theautopian.com/bmw-is-showing-commercials-on-their-cars-dash-screens-and-they-want-you-to-think-its-a-treat/"
     ]
   ],
   [
@@ -147,6 +147,16 @@
     [
       "Solid Queue 1.6.0 now supports fiber workers",
       "https://github.com/rails/solid_queue/releases/tag/v1.6.0"
+    ]
+  ],
+  [
+    [
+      "2026-08-01, 07:37:44",
+      "https://news.ycombinator.com/item?id=49132058"
+    ],
+    [
+      "Ten advances in mathematics and theoretical computer science",
+      "https://openai.com/index/ten-advances-in-mathematics/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Rear center fuel tank adds roughly 20k liters and extends range by 1k NM",
       "https://www.airbus.com/en/newsroom/press-releases/2026-06-worlds-longest-range-aircraft-the-airbus-a350-1000ulr-takes-to-the-skies"
-    ]
-  ],
-  [
-    [
-      "2026-07-28, 13:04:51",
-      "https://news.ycombinator.com/item?id=49083207"
-    ],
-    [
-      "The First Idempotency Key",
-      "https://hatchet.run/blog/first-idempotency-key"
     ]
   ]
 ]
