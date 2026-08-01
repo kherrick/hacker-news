@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-08-01](index.md)
 
+* [2026-08-01, 18:32:20](https://news.ycombinator.com/item?id=49137060) - [Postmortem for Kernel Soundness Bug #14576](https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/)
+* [2026-08-01, 18:28:06](https://news.ycombinator.com/item?id=49137024) - [Oil companies report sky-high profits thanks to wartime crude prices](https://www.npr.org/2026/07/31/nx-s1-5910660/big-oil-earnings-q2-2026)
+* [2026-08-01, 18:25:00](https://news.ycombinator.com/item?id=49136990) - [Tell HN: I hate your fuzzy search](https://news.ycombinator.com/item?id=49136990)
 * [2026-08-01, 17:56:41](https://news.ycombinator.com/item?id=49136736) - [NetBSD 11.0 Released](https://blog.netbsd.org/tnf/entry/netbsd_11_0_released)
 * [2026-08-01, 17:08:03](https://news.ycombinator.com/item?id=49136236) - [Assessment of open AI math results](https://twitter.com/stalkermustang/status/2083485500250198453)
 * [2026-08-01, 16:52:41](https://news.ycombinator.com/item?id=49136063) - [I ♥ RSS – A directory of people who love RSS](https://andrewshell.org/2026/07/i-%e2%99%a5-rss/)
