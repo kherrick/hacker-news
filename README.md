@@ -8,10 +8,9 @@
 * [2026-08-01, 16:45:40](https://news.ycombinator.com/item?id=49135985) - [Kaisel – Routes as Values. Dart 3 Native Router for Flutter](https://kaisel.dev/)
 * [2026-08-01, 16:44:49](https://news.ycombinator.com/item?id=49135975) - [Franken.domains: Stitched-Together Domains, Because Every .com Is Taken](https://franken.domains/)
 * [2026-08-01, 16:01:22](https://news.ycombinator.com/item?id=49135546) - [Pgtestdb's template cloning approach to testing is fast](https://brandur.org/fragments/pgtestdb)
-* [2026-08-01, 15:58:10](https://news.ycombinator.com/item?id=49135511) - [BMW Is Showing Commercials on Their Car's Dash Screens as a Treat](https://www.theautopian.com/bmw-is-showing-commercials-on-their-cars-dash-screens-and-they-want-you-to-think-its-a-treat/)
+* [2026-08-01, 15:46:54](https://news.ycombinator.com/item?id=49135426) - [Kenji/Serious Eats – 30-Min Pressure Cooker Pho Ga](https://www.seriouseats.com/30-minute-pressure-cooker-pho-ga-recipe)
 * [2026-08-01, 15:25:21](https://news.ycombinator.com/item?id=49135257) - [Cursor removed cost information from the usage page and CSV export](https://forum.cursor.com/t/usage-page-to-token-amount-what/167153)
 * [2026-08-01, 15:23:15](https://news.ycombinator.com/item?id=49135245) - [Explorative modeling: Train on the best of K guesses](https://alexiglad.github.io/blog/2026/explorative_modeling/)
-* [2026-08-01, 15:15:51](https://news.ycombinator.com/item?id=49135184) - [Toast IDE Gets Markdown Spell Checking](https://github.com/paradise-runner/toast)
 * [2026-08-01, 14:19:51](https://news.ycombinator.com/item?id=49134694) - [A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention](https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/)
 * [2026-08-01, 14:09:00](https://news.ycombinator.com/item?id=49134599) - [The Art of 64-bit Assembly](https://nostarch.com/art-64-bit-assembly-v2)
 * [2026-08-01, 12:34:25](https://news.ycombinator.com/item?id=49133889) - [RipGrep musl binaries occasionally segfault during very-large searches](https://github.com/BurntSushi/ripgrep/issues/3494)
@@ -30,6 +29,7 @@
 * [2026-07-28, 23:56:45](https://news.ycombinator.com/item?id=49091614) - [The tiny holdout building in the middle of Macy’s is back in view](https://ephemeralnewyork.wordpress.com/2026/07/27/hidden-by-billboards-for-over-100-years-the-tiny-holdout-building-in-the-middle-of-macys-is-back-in-view/)
 * [2026-07-28, 17:52:00](https://news.ycombinator.com/item?id=49087499) - [Linux on ESP32](https://github.com/GrieferPig/esp32-s31-linux)
 * [2026-07-28, 15:06:38](https://news.ycombinator.com/item?id=49085065) - [Glyphs 4 – the leading Mac font editor](https://glyphsapp.com)
+* [2026-07-28, 10:30:02](https://news.ycombinator.com/item?id=49081851) - [Nyctography: A substituton cypher by Lewis Carroll](https://en.wikipedia.org/wiki/Nyctography)
 
 ## [Archives](archives/index.md)
 

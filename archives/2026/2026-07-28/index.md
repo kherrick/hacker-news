@@ -83,6 +83,7 @@
 * [2026-07-28, 10:52:30](https://news.ycombinator.com/item?id=49082022) - [Kimi Linear: An Expressive, Efficient Attention Architecture](https://arxiv.org/abs/2510.26692)
 * [2026-07-28, 10:33:57](https://news.ycombinator.com/item?id=49081887) - [Show HN: Open-source Cloudflare deployed agent native task management and wiki](https://tajd.github.io/projektor/)
 * [2026-07-28, 10:30:54](https://news.ycombinator.com/item?id=49081862) - [Usenet Archive Toolkit – process Usenet messages into a searchable archive](https://github.com/wolfpld/usenetarchive)
+* [2026-07-28, 10:30:02](https://news.ycombinator.com/item?id=49081851) - [Nyctography: A substituton cypher by Lewis Carroll](https://en.wikipedia.org/wiki/Nyctography)
 * [2026-07-28, 10:20:50](https://news.ycombinator.com/item?id=49081783) - [DMARC Has Been Public Since 2012. 68.4% of Domains Still Don't Enforce It](https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026)
 * [2026-07-28, 09:59:13](https://news.ycombinator.com/item?id=49081644) - [Google's Beyond Zero: Enterprise Security for the AI Era](https://spawn-queue.acm.org/doi/10.1145/3819083)
 * [2026-07-28, 09:52:31](https://news.ycombinator.com/item?id=49081594) - [What Even Are Microservices?](https://var0.xyz/posts/what-even-are-microservices.html)

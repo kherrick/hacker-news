@@ -17,6 +17,7 @@
 * [2026-08-01, 16:01:22](https://news.ycombinator.com/item?id=49135546) - [Pgtestdb's template cloning approach to testing is fast](https://brandur.org/fragments/pgtestdb)
 * [2026-08-01, 15:58:10](https://news.ycombinator.com/item?id=49135511) - [BMW Is Showing Commercials on Their Car's Dash Screens as a Treat](https://www.theautopian.com/bmw-is-showing-commercials-on-their-cars-dash-screens-and-they-want-you-to-think-its-a-treat/)
 * [2026-08-01, 15:57:33](https://news.ycombinator.com/item?id=49135507) - [Scope of Hacks on U.S. Water Supply Widens as Evidence Points to Iran](https://www.nytimes.com/2026/08/01/us/politics/iran-cyberattack-water-systems.html)
+* [2026-08-01, 15:46:54](https://news.ycombinator.com/item?id=49135426) - [Kenji/Serious Eats – 30-Min Pressure Cooker Pho Ga](https://www.seriouseats.com/30-minute-pressure-cooker-pho-ga-recipe)
 * [2026-08-01, 15:41:31](https://news.ycombinator.com/item?id=49135383) - [Indexing the Data Lake for Online Point Queries](https://engineering.atspotify.com/2026/7/indexing-the-data-lake-for-online-point-queries)
 * [2026-08-01, 15:39:31](https://news.ycombinator.com/item?id=49135365) - [GitHub has alternatives, but no replacement](https://lalitm.com/post/github-alternatives/)
 * [2026-08-01, 15:25:21](https://news.ycombinator.com/item?id=49135257) - [Cursor removed cost information from the usage page and CSV export](https://forum.cursor.com/t/usage-page-to-token-amount-what/167153)
