@@ -4,12 +4,17 @@
 
 ### [Archives](../../index.md) for [2026-08-01](index.md)
 
+* [2026-08-01, 17:08:03](https://news.ycombinator.com/item?id=49136236) - [Assessment of open AI math results](https://twitter.com/stalkermustang/status/2083485500250198453)
+* [2026-08-01, 16:52:41](https://news.ycombinator.com/item?id=49136063) - [I ♥ RSS – A directory of people who love RSS](https://andrewshell.org/2026/07/i-%e2%99%a5-rss/)
+* [2026-08-01, 16:45:40](https://news.ycombinator.com/item?id=49135985) - [Kaisel – Routes as Values. Dart 3 Native Router for Flutter](https://kaisel.dev/)
+* [2026-08-01, 16:38:28](https://news.ycombinator.com/item?id=49135914) - [I Fired My AI Assitant](https://chreke.com/posts/i-fired-my-ai-assistant)
 * [2026-08-01, 16:01:22](https://news.ycombinator.com/item?id=49135546) - [Pgtestdb's template cloning approach to testing is fast](https://brandur.org/fragments/pgtestdb)
 * [2026-08-01, 15:57:33](https://news.ycombinator.com/item?id=49135507) - [Scope of Hacks on U.S. Water Supply Widens as Evidence Points to Iran](https://www.nytimes.com/2026/08/01/us/politics/iran-cyberattack-water-systems.html)
 * [2026-08-01, 15:41:31](https://news.ycombinator.com/item?id=49135383) - [Indexing the Data Lake for Online Point Queries](https://engineering.atspotify.com/2026/7/indexing-the-data-lake-for-online-point-queries)
 * [2026-08-01, 15:39:31](https://news.ycombinator.com/item?id=49135365) - [GitHub has alternatives, but no replacement](https://lalitm.com/post/github-alternatives/)
 * [2026-08-01, 15:25:21](https://news.ycombinator.com/item?id=49135257) - [Cursor removed cost information from the usage page and CSV export](https://forum.cursor.com/t/usage-page-to-token-amount-what/167153)
 * [2026-08-01, 15:23:15](https://news.ycombinator.com/item?id=49135245) - [Explorative modeling: Train on the best of K guesses](https://alexiglad.github.io/blog/2026/explorative_modeling/)
+* [2026-08-01, 15:15:51](https://news.ycombinator.com/item?id=49135184) - [Toast IDE Gets Markdown Spell Checking](https://github.com/paradise-runner/toast)
 * [2026-08-01, 15:14:51](https://news.ycombinator.com/item?id=49135174) - [Ask HN: Any tips for a college freshman enrolled in computer science?](https://news.ycombinator.com/item?id=49135174)
 * [2026-08-01, 14:19:51](https://news.ycombinator.com/item?id=49134694) - [A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention](https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/)
 * [2026-08-01, 14:09:00](https://news.ycombinator.com/item?id=49134599) - [The Art of 64-bit Assembly](https://nostarch.com/art-64-bit-assembly-v2)
