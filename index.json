@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-08-01, 03:25:12",
+      "https://news.ycombinator.com/item?id=49130756"
+    ],
+    [
+      "BMW Spider-Man in-car advertising",
+      "https://consumerrights.wiki/w/BMW_Spider-Man_in-car_advertising"
+    ]
+  ],
+  [
+    [
+      "2026-08-01, 03:16:09",
+      "https://news.ycombinator.com/item?id=49130726"
+    ],
+    [
+      "The development pipeline is a production system",
+      "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system"
+    ]
+  ],
+  [
+    [
+      "2026-08-01, 03:15:09",
+      "https://news.ycombinator.com/item?id=49130723"
+    ],
+    [
+      "What Is MiniMax H3? Everything You Need to Know About the Hailuo 3.0 Video Model",
+      "https://minimaxh3.art/blog/what-is-minimax-h3"
+    ]
+  ],
+  [
+    [
+      "2026-08-01, 02:45:09",
+      "https://news.ycombinator.com/item?id=49130604"
+    ],
+    [
+      "Flint: A Visualization Language for the AI Era",
+      "https://microsoft.github.io/flint-chart/"
+    ]
+  ],
+  [
+    [
+      "2026-08-01, 01:35:53",
+      "https://news.ycombinator.com/item?id=49130295"
+    ],
+    [
+      "A Week in Matrix",
+      "https://piegames.de/dumps/a-week-in-matrix/"
+    ]
+  ],
+  [
+    [
       "2026-08-01, 00:25:00",
       "https://news.ycombinator.com/item?id=49129990"
     ],
@@ -41,16 +91,6 @@
   ],
   [
     [
-      "2026-07-31, 19:55:41",
-      "https://news.ycombinator.com/item?id=49127874"
-    ],
-    [
-      "Predictive Speculative KV Replication for Bursty LLM Inference",
-      "https://jwlabs.vercel.app/post/biting-the-bullet"
-    ]
-  ],
-  [
-    [
       "2026-07-31, 19:03:45",
       "https://news.ycombinator.com/item?id=49127306"
     ],
@@ -67,16 +107,6 @@
     [
       "Golang proposal: container/: generic collection types",
       "https://github.com/golang/go/issues/80590"
-    ]
-  ],
-  [
-    [
-      "2026-07-31, 18:30:44",
-      "https://news.ycombinator.com/item?id=49126919"
-    ],
-    [
-      "Using the railway network as a flatbed scanner [video]",
-      "https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner"
     ]
   ],
   [
@@ -101,32 +131,12 @@
   ],
   [
     [
-      "2026-07-31, 18:06:39",
-      "https://news.ycombinator.com/item?id=49126630"
-    ],
-    [
-      "Everyone is building LLM routers, we deprecated ours",
-      "https://manifest.build/blog/why-we-deprecated-our-llm-router/"
-    ]
-  ],
-  [
-    [
       "2026-07-31, 18:04:58",
       "https://news.ycombinator.com/item?id=49126604"
     ],
     [
       "qm – Multiplayer agent harness for work",
       "https://github.com/yc-software/qm"
-    ]
-  ],
-  [
-    [
-      "2026-07-31, 17:15:09",
-      "https://news.ycombinator.com/item?id=49125971"
-    ],
-    [
-      "Severance",
-      "https://lcamtuf.substack.com/p/severance"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "Big Food vs. the People",
       "https://www.lighthousereports.com/investigation/big-food-vs-the-people/"
-    ]
-  ],
-  [
-    [
-      "2026-07-31, 15:58:15",
-      "https://news.ycombinator.com/item?id=49124738"
-    ],
-    [
-      "Dubious research tied to Red Bull has shaped energy drink policy",
-      "https://www.theexamination.org/articles/red-bull-funded-research-energy-drinks-alcohol"
     ]
   ],
   [
@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2026-07-31, 14:17:43",
+      "https://news.ycombinator.com/item?id=49123468"
+    ],
+    [
+      "Authorize, don't authenticate",
+      "https://blog.marcua.net/2026/07/31/authorize-dont-authenticate.html"
+    ]
+  ],
+  [
+    [
       "2026-07-31, 14:12:38",
       "https://news.ycombinator.com/item?id=49123386"
     ],
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2026-07-30, 19:26:18",
-      "https://news.ycombinator.com/item?id=49114527"
-    ],
-    [
-      "A past and future of trade secrets",
-      "https://www.cabinetmagazine.org/issues/70/kofen.php"
-    ]
-  ],
-  [
-    [
       "2026-07-29, 12:29:20",
       "https://news.ycombinator.com/item?id=49096605"
     ],
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2026-07-28, 14:37:54",
+      "https://news.ycombinator.com/item?id=49084645"
+    ],
+    [
+      "Printing floating point numbers in binary",
+      "https://www.johndcook.com/blog/2026/07/27/float-binary/"
+    ]
+  ],
+  [
+    [
       "2026-07-28, 13:59:14",
       "https://news.ycombinator.com/item?id=49084005"
     ],
@@ -287,16 +297,6 @@
     [
       "Twenty-five years ago it was cryptography, today it's model weights",
       "https://weeraman.com/because-we-can/"
-    ]
-  ],
-  [
-    [
-      "2026-07-27, 15:11:14",
-      "https://news.ycombinator.com/item?id=49070810"
-    ],
-    [
-      "How JPEG works: Interactively explore JPEG's lossy compression methods",
-      "https://cgjennings.ca/articles/jpeg-compression/"
     ]
   ]
 ]
