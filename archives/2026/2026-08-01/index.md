@@ -8,6 +8,7 @@
 * [2026-08-01, 14:09:00](https://news.ycombinator.com/item?id=49134599) - [The Art of 64-bit Assembly](https://nostarch.com/art-64-bit-assembly-v2)
 * [2026-08-01, 13:35:26](https://news.ycombinator.com/item?id=49134310) - [How to Spot AI Writing](https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing)
 * [2026-08-01, 13:02:44](https://news.ycombinator.com/item?id=49134079) - [Google kills Earth AI generator after one day](https://twitter.com/newsfromgoogle/status/2083249962150760610)
+* [2026-08-01, 12:56:54](https://news.ycombinator.com/item?id=49134038) - [Charlie Stross – On the non-use of AI in my writing process](https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html)
 * [2026-08-01, 12:34:25](https://news.ycombinator.com/item?id=49133889) - [RipGrep musl binaries occasionally segfault during very-large searches](https://github.com/BurntSushi/ripgrep/issues/3494)
 * [2026-08-01, 12:17:48](https://news.ycombinator.com/item?id=49133777) - [Astro Loop](https://pubdeer.com/)
 * [2026-08-01, 12:03:36](https://news.ycombinator.com/item?id=49133675) - [Dead Software Walking: The ongoing evolution of relayd(8) and httpd(8)](https://rsadowski.de/posts/2026/dead-software-walking-relayd-and-httpd/)

@@ -82,6 +82,7 @@
 * [2026-07-30, 03:44:38](https://news.ycombinator.com/item?id=49105924) - [Why the future is local app](https://getapps.cafe/blog/why-the-future-is-local-app)
 * [2026-07-30, 02:55:21](https://news.ycombinator.com/item?id=49105642) - [NSF pilots 4-year PhDs with industry research placements](https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four)
 * [2026-07-30, 02:41:16](https://news.ycombinator.com/item?id=49105563) - [Kuna: Decompiler Development in the Age of Coding Agents](https://noelo.org/blog/kuna-release/)
+* [2026-07-30, 01:58:43](https://news.ycombinator.com/item?id=49105331) - [Study uncovers lost 'golden age' of languages](https://news.yale.edu/2026/07/23/study-uncovers-lost-golden-age-languages)
 * [2026-07-30, 01:35:10](https://news.ycombinator.com/item?id=49105190) - [A pharmacy chain in Vermont implemented AI for efficiency](https://vtdigger.org/2026/07/29/a-pharmacy-chain-in-vermont-implemented-ai-for-efficiency-its-led-to-delays-incorrect-information-and-privacy-concerns/)
 * [2026-07-30, 01:27:12](https://news.ycombinator.com/item?id=49105136) - [Flume Water Monitor 915 MHz Security Is Pretty Good](https://waveformsecurity.com/blog/flume/)
 * [2026-07-30, 01:05:42](https://news.ycombinator.com/item?id=49105013) - [Manual: •.,:;?·](https://type.today/en/journal/dots)
