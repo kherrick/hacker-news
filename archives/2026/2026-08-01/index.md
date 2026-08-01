@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-08-01](index.md)
 
+* [2026-08-01, 08:48:58](https://news.ycombinator.com/item?id=49132460) - [RamenHaus](https://ramen.haus/)
+* [2026-08-01, 08:19:44](https://news.ycombinator.com/item?id=49132289) - [How to Do Great Work](https://paulgraham.com/greatwork.html)
+* [2026-08-01, 07:52:10](https://news.ycombinator.com/item?id=49132130) - [AI doesn't generate working products, that's still your job](https://weeraman.com/the-prototype-isnt-the-product/)
+* [2026-08-01, 07:42:08](https://news.ycombinator.com/item?id=49132083) - [Solid Queue 1.6.0 now supports fiber workers](https://github.com/rails/solid_queue/releases/tag/v1.6.0)
 * [2026-08-01, 07:37:44](https://news.ycombinator.com/item?id=49132058) - [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/)
+* [2026-08-01, 06:41:12](https://news.ycombinator.com/item?id=49131737) - [OpenAI's work on Git for large repositories](https://openai-git-upstream.openai.chatgpt.site/)
 * [2026-08-01, 05:38:16](https://news.ycombinator.com/item?id=49131367) - [Ten Ways NAS Is Getting Enshitified](https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/)
 * [2026-08-01, 04:28:13](https://news.ycombinator.com/item?id=49131034) - [What Liberal Arts Education Is for (2024)](https://innig.net/teaching/liberal-arts-manifesto)
 * [2026-08-01, 03:50:30](https://news.ycombinator.com/item?id=49130853) - [About 100 firefighters are convicted of arson, every year](https://www.firerescue1.com/arson-investigation/articles/expert-firefighter-arson-a-long-standing-issue-xHXLFAdYVcQPiuPU/)
