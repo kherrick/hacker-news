@@ -48,6 +48,7 @@
 * [2026-07-26, 14:40:53](https://news.ycombinator.com/item?id=49058673) - [CSV Is Never Just CSV](https://immaschinenraum.blog/en/funpark/never-just-csv/)
 * [2026-07-26, 14:40:27](https://news.ycombinator.com/item?id=49058669) - [Park by Robot at London Gatwick Airport](https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/)
 * [2026-07-26, 14:07:06](https://news.ycombinator.com/item?id=49058384) - [3D-printed F-14 Tomcat uses FPGA recreation of the first microprocessor](https://www.tomshardware.com/pc-components/cpus/3d-printed-f-14-tomcat-uses-an-fpga-recreation-of-the-worlds-first-microprocessor-cadcs-mp944-chip-controls-the-fighters-swing-wing-system-among-other-things)
+* [2026-07-26, 13:30:39](https://news.ycombinator.com/item?id=49058038) - [Anime Professions](https://github.com/elmiram/anime-professions)
 * [2026-07-26, 13:25:17](https://news.ycombinator.com/item?id=49057985) - [Show HN: Managing on-premise servers without Kubernetes](https://github.com/ricardoborges/Nautilus)
 * [2026-07-26, 13:22:59](https://news.ycombinator.com/item?id=49057972) - [Ask HN: What are the most promising RL fields for a new master student?](https://news.ycombinator.com/item?id=49057972)
 * [2026-07-26, 13:13:03](https://news.ycombinator.com/item?id=49057877) - [The New AI Superpowers: Focus and Followthrough](https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and)
