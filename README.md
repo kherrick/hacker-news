@@ -2,7 +2,6 @@
 
 * [2026-08-01, 20:33:27](https://news.ycombinator.com/item?id=49138188) - [Diátaxis](https://diataxis.fr/)
 * [2026-08-01, 20:20:58](https://news.ycombinator.com/item?id=49138045) - [The Silicon Valley Founder Meat Grinder](https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/)
-* [2026-08-01, 20:07:39](https://news.ycombinator.com/item?id=49137904) - [Cookware Got Worse on Purpose: Who Owns Pyrex and All-Clad Now](https://www.worseonpurpose.com/p/your-cookware-got-worse-on-purpose)
 * [2026-08-01, 19:44:48](https://news.ycombinator.com/item?id=49137713) - [But can your calculator run Linux?](https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html)
 * [2026-08-01, 19:39:43](https://news.ycombinator.com/item?id=49137681) - [Google has abandoned Google News?](https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now)
 * [2026-08-01, 18:59:35](https://news.ycombinator.com/item?id=49137320) - [Signal Structure of the Starlink Ku-Band Downlink (2023) [pdf]](https://radionavlab.ae.utexas.edu/wp-content/uploads/starlink_structure.pdf)
@@ -27,6 +26,7 @@
 * [2026-07-31, 07:50:48](https://news.ycombinator.com/item?id=49120230) - [Just because a game is on disc doesn't mean it will work in the future](https://arstechnica.com/gaming/2026/07/the-disc-is-not-the-game-physical-releases-increasingly-require-extra-downloads/)
 * [2026-07-30, 12:20:30](https://news.ycombinator.com/item?id=49109019) - [Register deprivation: spills and runtime under forced register scarcity](https://rjp.io/blog/2026-07-19-register-deprivation)
 * [2026-07-30, 01:05:42](https://news.ycombinator.com/item?id=49105013) - [Manual: •.,:;…!?·](https://type.today/en/journal/dots)
+* [2026-07-28, 23:56:45](https://news.ycombinator.com/item?id=49091614) - [The tiny holdout building in the middle of Macy’s is back in view](https://ephemeralnewyork.wordpress.com/2026/07/27/hidden-by-billboards-for-over-100-years-the-tiny-holdout-building-in-the-middle-of-macys-is-back-in-view/)
 * [2026-07-28, 17:52:00](https://news.ycombinator.com/item?id=49087499) - [Linux on ESP32](https://github.com/GrieferPig/esp32-s31-linux)
 * [2026-07-28, 15:06:38](https://news.ycombinator.com/item?id=49085065) - [Glyphs 4 – the leading Mac font editor](https://glyphsapp.com)
 * [2026-07-28, 10:30:02](https://news.ycombinator.com/item?id=49081851) - [Nyctography: A substituton cypher by Lewis Carroll](https://en.wikipedia.org/wiki/Nyctography)
