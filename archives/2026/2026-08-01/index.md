@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-08-01](index.md)
 
+* [2026-08-01, 16:01:22](https://news.ycombinator.com/item?id=49135546) - [Pgtestdb's template cloning approach to testing is fast](https://brandur.org/fragments/pgtestdb)
 * [2026-08-01, 15:57:33](https://news.ycombinator.com/item?id=49135507) - [Scope of Hacks on U.S. Water Supply Widens as Evidence Points to Iran](https://www.nytimes.com/2026/08/01/us/politics/iran-cyberattack-water-systems.html)
 * [2026-08-01, 15:41:31](https://news.ycombinator.com/item?id=49135383) - [Indexing the Data Lake for Online Point Queries](https://engineering.atspotify.com/2026/7/indexing-the-data-lake-for-online-point-queries)
 * [2026-08-01, 15:39:31](https://news.ycombinator.com/item?id=49135365) - [GitHub has alternatives, but no replacement](https://lalitm.com/post/github-alternatives/)
 * [2026-08-01, 15:25:21](https://news.ycombinator.com/item?id=49135257) - [Cursor removed cost information from the usage page and CSV export](https://forum.cursor.com/t/usage-page-to-token-amount-what/167153)
 * [2026-08-01, 15:23:15](https://news.ycombinator.com/item?id=49135245) - [Explorative modeling: Train on the best of K guesses](https://alexiglad.github.io/blog/2026/explorative_modeling/)
+* [2026-08-01, 15:14:51](https://news.ycombinator.com/item?id=49135174) - [Ask HN: Any tips for a college freshman enrolled in computer science?](https://news.ycombinator.com/item?id=49135174)
 * [2026-08-01, 14:19:51](https://news.ycombinator.com/item?id=49134694) - [A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention](https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/)
 * [2026-08-01, 14:09:00](https://news.ycombinator.com/item?id=49134599) - [The Art of 64-bit Assembly](https://nostarch.com/art-64-bit-assembly-v2)
 * [2026-08-01, 13:35:26](https://news.ycombinator.com/item?id=49134310) - [How to Spot AI Writing](https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing)

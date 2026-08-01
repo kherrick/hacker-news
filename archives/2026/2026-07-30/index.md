@@ -55,6 +55,7 @@
 * [2026-07-30, 12:38:51](https://news.ycombinator.com/item?id=49109193) - [Why Is Everyone Trying to Build a Solid-State Battery?](https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a)
 * [2026-07-30, 12:36:38](https://news.ycombinator.com/item?id=49109165) - [OpenJDK Interim Policy on Generative AI](https://openjdk.org/legal/ai)
 * [2026-07-30, 12:21:34](https://news.ycombinator.com/item?id=49109026) - [Why Don't People Use Formal Methods?](https://www.hillelwayne.com/post/why-dont-people-use-formal-methods/)
+* [2026-07-30, 12:20:30](https://news.ycombinator.com/item?id=49109019) - [Register deprivation: spills and runtime under forced register scarcity](https://rjp.io/blog/2026-07-19-register-deprivation)
 * [2026-07-30, 12:14:23](https://news.ycombinator.com/item?id=49108971) - [How Old Is Ann?](https://quuxplusone.github.io/blog/2026/07/29/how-old-is-ann/)
 * [2026-07-30, 12:13:46](https://news.ycombinator.com/item?id=49108966) - [What it means for an API to be RESTful](https://en.andros.dev/blog/9761fd2e/what-it-means-for-an-api-to-be-restful/)
 * [2026-07-30, 12:13:42](https://news.ycombinator.com/item?id=49108963) - [CosmosEscape: Taking over Every Database in Azure Cosmos DB](https://www.wiz.io/blog/cosmosescape-taking-over-every-database-in-azure-cosmos-db)
