@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-01](index.md)
 
+* [2026-08-01, 14:19:51](https://news.ycombinator.com/item?id=49134694) - [A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention](https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/)
+* [2026-08-01, 13:35:26](https://news.ycombinator.com/item?id=49134310) - [How to Spot AI Writing](https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing)
 * [2026-08-01, 13:02:44](https://news.ycombinator.com/item?id=49134079) - [Google kills Earth AI generator after one day](https://twitter.com/newsfromgoogle/status/2083249962150760610)
 * [2026-08-01, 12:34:25](https://news.ycombinator.com/item?id=49133889) - [RipGrep musl binaries occasionally segfault during very-large searches](https://github.com/BurntSushi/ripgrep/issues/3494)
 * [2026-08-01, 12:17:48](https://news.ycombinator.com/item?id=49133777) - [Astro Loop](https://pubdeer.com/)
