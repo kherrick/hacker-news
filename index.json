@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-08-01, 15:57:33",
+      "https://news.ycombinator.com/item?id=49135507"
+    ],
+    [
+      "Scope of Hacks on U.S. Water Supply Widens as Evidence Points to Iran",
+      "https://www.nytimes.com/2026/08/01/us/politics/iran-cyberattack-water-systems.html"
+    ]
+  ],
+  [
+    [
+      "2026-08-01, 15:41:31",
+      "https://news.ycombinator.com/item?id=49135383"
+    ],
+    [
+      "Indexing the Data Lake for Online Point Queries",
+      "https://engineering.atspotify.com/2026/7/indexing-the-data-lake-for-online-point-queries"
+    ]
+  ],
+  [
+    [
+      "2026-08-01, 15:39:31",
+      "https://news.ycombinator.com/item?id=49135365"
+    ],
+    [
+      "GitHub has alternatives, but no replacement",
+      "https://lalitm.com/post/github-alternatives/"
+    ]
+  ],
+  [
+    [
+      "2026-08-01, 15:25:21",
+      "https://news.ycombinator.com/item?id=49135257"
+    ],
+    [
+      "Cursor removed cost information from the usage page and CSV export",
+      "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153"
+    ]
+  ],
+  [
+    [
+      "2026-08-01, 15:23:15",
+      "https://news.ycombinator.com/item?id=49135245"
+    ],
+    [
+      "Explorative modeling: Train on the best of K guesses",
+      "https://alexiglad.github.io/blog/2026/explorative_modeling/"
+    ]
+  ],
+  [
+    [
       "2026-08-01, 14:19:51",
       "https://news.ycombinator.com/item?id=49134694"
     ],
@@ -47,16 +97,6 @@
     [
       "Astro Loop",
       "https://pubdeer.com/"
-    ]
-  ],
-  [
-    [
-      "2026-08-01, 12:03:36",
-      "https://news.ycombinator.com/item?id=49133675"
-    ],
-    [
-      "Dead Software Walking: The ongoing evolution of relayd(8) and httpd(8)",
-      "https://rsadowski.de/posts/2026/dead-software-walking-relayd-and-httpd/"
     ]
   ],
   [
@@ -141,32 +181,12 @@
   ],
   [
     [
-      "2026-07-31, 18:17:52",
-      "https://news.ycombinator.com/item?id=49126765"
-    ],
-    [
-      "June in Servo: real world compat, media queries, SharedWorker, and more",
-      "https://servo.org/blog/2026/07/31/june-in-servo/"
-    ]
-  ],
-  [
-    [
       "2026-07-31, 18:04:58",
       "https://news.ycombinator.com/item?id=49126604"
     ],
     [
       "qm – Multiplayer agent harness for work",
       "https://github.com/yc-software/qm"
-    ]
-  ],
-  [
-    [
-      "2026-07-31, 16:15:31",
-      "https://news.ycombinator.com/item?id=49125034"
-    ],
-    [
-      "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
-      "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/"
     ]
   ],
   [
@@ -187,26 +207,6 @@
     [
       "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
       "https://github.com/sqliteai/waste"
-    ]
-  ],
-  [
-    [
-      "2026-07-31, 11:34:24",
-      "https://news.ycombinator.com/item?id=49121849"
-    ],
-    [
-      "Increasing the lifespan of a bulb makes it worse in every other way",
-      "https://maurycyz.com/misc/tungsten/"
-    ]
-  ],
-  [
-    [
-      "2026-07-31, 10:04:40",
-      "https://news.ycombinator.com/item?id=49121196"
-    ],
-    [
-      "Progressive Web Components",
-      "https://arielsalminen.com/2026/progressive-web-components/"
     ]
   ],
   [
