@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-08-01](index.md)
 
 * [2026-08-01, 08:48:58](https://news.ycombinator.com/item?id=49132460) - [RamenHaus](https://ramen.haus/)
+* [2026-08-01, 08:26:55](https://news.ycombinator.com/item?id=49132341) - [EU will mandate labels on authentic-looking AI content starting August 2](https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/)
 * [2026-08-01, 08:19:44](https://news.ycombinator.com/item?id=49132289) - [How to Do Great Work](https://paulgraham.com/greatwork.html)
 * [2026-08-01, 07:52:10](https://news.ycombinator.com/item?id=49132130) - [AI doesn't generate working products, that's still your job](https://weeraman.com/the-prototype-isnt-the-product/)
 * [2026-08-01, 07:42:08](https://news.ycombinator.com/item?id=49132083) - [Solid Queue 1.6.0 now supports fiber workers](https://github.com/rails/solid_queue/releases/tag/v1.6.0)
