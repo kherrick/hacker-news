@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2026-08-01, 08:26:55",
-      "https://news.ycombinator.com/item?id=49132341"
-    ],
-    [
-      "EU will mandate labels on authentic-looking AI content starting August 2",
-      "https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/"
-    ]
-  ],
-  [
-    [
       "2026-08-01, 08:19:44",
       "https://news.ycombinator.com/item?id=49132289"
     ],
@@ -107,6 +97,16 @@
     [
       "Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena",
       "https://arxiv.org/abs/2607.28233"
+    ]
+  ],
+  [
+    [
+      "2026-07-31, 19:03:45",
+      "https://news.ycombinator.com/item?id=49127306"
+    ],
+    [
+      "Tailscale didn't stop the Hugging Face intrusion",
+      "https://tailscale.com/blog/hugging-face-intrusion"
     ]
   ],
   [
