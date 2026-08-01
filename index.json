@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-07-31, 23:34:37",
-      "https://news.ycombinator.com/item?id=49129699"
-    ],
-    [
-      "That Viral Photo of San Francisco NIMBYs Shows Why Housing Is Winning",
-      "https://inpractice.yimbyaction.org/p/that-viral-photo-of-san-francisco"
-    ]
-  ],
-  [
-    [
       "2026-07-31, 21:00:40",
       "https://news.ycombinator.com/item?id=49128462"
     ],
@@ -57,16 +47,6 @@
     [
       "Golang proposal: container/: generic collection types",
       "https://github.com/golang/go/issues/80590"
-    ]
-  ],
-  [
-    [
-      "2026-07-31, 18:32:43",
-      "https://news.ycombinator.com/item?id=49126943"
-    ],
-    [
-      "Orca-Bench: How Ready Are Language Model Agents for Oncall?",
-      "https://arxiv.org/abs/2607.28545"
     ]
   ],
   [
@@ -261,6 +241,16 @@
   ],
   [
     [
+      "2026-07-30, 19:26:18",
+      "https://news.ycombinator.com/item?id=49114527"
+    ],
+    [
+      "A past and future of trade secrets",
+      "https://www.cabinetmagazine.org/issues/70/kofen.php"
+    ]
+  ],
+  [
+    [
       "2026-07-29, 11:59:10",
       "https://news.ycombinator.com/item?id=49096319"
     ],
@@ -297,6 +287,16 @@
     [
       "How JPEG works: Interactively explore JPEG's lossy compression methods",
       "https://cgjennings.ca/articles/jpeg-compression/"
+    ]
+  ],
+  [
+    [
+      "2026-07-26, 13:30:39",
+      "https://news.ycombinator.com/item?id=49058038"
+    ],
+    [
+      "Anime Professions",
+      "https://github.com/elmiram/anime-professions"
     ]
   ]
 ]
