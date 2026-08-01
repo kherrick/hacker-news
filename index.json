@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-01, 23:19:23",
+      "https://news.ycombinator.com/item?id=49139562"
+    ],
+    [
+      "A stray commit buried multiple levels deep cost me months",
+      "https://www.droppedasbaby.com/posts/db-commits/"
+    ]
+  ],
+  [
+    [
       "2026-08-01, 22:55:52",
       "https://news.ycombinator.com/item?id=49139383"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=49139352"
     ],
     [
-      "Morph (YC S23) Is Hiring Member of Technical Stuff",
+      "Morph (YC S23) Is Hiring Member of Technical Staff",
       "https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff"
     ]
   ],
@@ -57,16 +67,6 @@
     [
       "Diátaxis",
       "https://diataxis.fr/"
-    ]
-  ],
-  [
-    [
-      "2026-08-01, 20:20:58",
-      "https://news.ycombinator.com/item?id=49138045"
-    ],
-    [
-      "The Silicon Valley Founder Meat Grinder",
-      "https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/"
     ]
   ],
   [
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2026-07-30, 01:05:42",
-      "https://news.ycombinator.com/item?id=49105013"
+      "2026-07-30, 02:04:10",
+      "https://news.ycombinator.com/item?id=49105365"
     ],
     [
-      "Manual: •.,:;…!?·",
-      "https://type.today/en/journal/dots"
+      "Show HN: Legionlinuxtui – Control Lenovo legion laptops in the terminal",
+      "https://github.com/nooneknowspeter/legionlinuxtui"
     ]
   ],
   [
