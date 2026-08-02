@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2026-08-02, 11:53:52",
+      "https://news.ycombinator.com/item?id=49143630"
+    ],
+    [
+      "Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
+      "https://website-auditor.io/ai-visibility-index"
+    ]
+  ],
+  [
+    [
       "2026-08-02, 11:34:41",
       "https://news.ycombinator.com/item?id=49143479"
     ],
@@ -41,12 +51,22 @@
   ],
   [
     [
-      "2026-08-02, 11:06:07",
-      "https://news.ycombinator.com/item?id=49143289"
+      "2026-08-02, 11:23:56",
+      "https://news.ycombinator.com/item?id=49143412"
     ],
     [
-      "Generative AI floods and dilutes the market for books",
-      "https://arxiv.org/abs/2607.20349"
+      "Show HN: Fuse – statically typed functional programming language",
+      "https://fuselang.org"
+    ]
+  ],
+  [
+    [
+      "2026-08-02, 10:45:11",
+      "https://news.ycombinator.com/item?id=49143179"
+    ],
+    [
+      "Show HN: Katharos Functional programming and CSP-style concurrency for Python",
+      "https://github.com/kamalfarahani/katharos"
     ]
   ],
   [
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2026-08-01, 19:44:48",
-      "https://news.ycombinator.com/item?id=49137713"
-    ],
-    [
-      "But can your calculator run Linux?",
-      "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html"
-    ]
-  ],
-  [
-    [
       "2026-08-01, 18:32:20",
       "https://news.ycombinator.com/item?id=49137060"
     ],
@@ -261,16 +271,6 @@
   ],
   [
     [
-      "2026-07-31, 14:55:51",
-      "https://news.ycombinator.com/item?id=49123984"
-    ],
-    [
-      "Maze Toys",
-      "https://maze.toys"
-    ]
-  ],
-  [
-    [
       "2026-07-30, 22:59:27",
       "https://news.ycombinator.com/item?id=49116917"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2026-07-30, 20:36:53",
-      "https://news.ycombinator.com/item?id=49115423"
-    ],
-    [
-      "Show HN: Logan Basic v2.1 - An online BASIC interpreter.",
-      "https://sinusoft.com/loganbasic/"
-    ]
-  ],
-  [
-    [
       "2026-07-30, 13:31:56",
       "https://news.ycombinator.com/item?id=49109759"
     ],
     [
       "Elena, a library for building Progressive Web Components",
       "https://elenajs.com/"
+    ]
+  ],
+  [
+    [
+      "2026-07-29, 10:54:07",
+      "https://news.ycombinator.com/item?id=49095763"
+    ],
+    [
+      "The Vanishing Page: AI Firms Scan Then Destroy Rare Book Editions",
+      "https://dallasexpress.com/national/the-vanishing-page-ai-firms-scan-then-destroy-rare-book-editions/"
     ]
   ]
 ]
