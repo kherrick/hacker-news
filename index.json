@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-02, 14:17:43",
+      "https://news.ycombinator.com/item?id=49144946"
+    ],
+    [
+      "The Seinfeld Chronicles: Digital Edition",
+      "https://seinfeld.visualisingdata.com/"
+    ]
+  ],
+  [
+    [
       "2026-08-02, 12:36:07",
       "https://news.ycombinator.com/item?id=49143967"
     ],
@@ -87,6 +97,16 @@
     [
       "Show HN: Katharos Functional programming and CSP-style concurrency for Python",
       "https://github.com/kamalfarahani/katharos"
+    ]
+  ],
+  [
+    [
+      "2026-08-02, 10:33:26",
+      "https://news.ycombinator.com/item?id=49143096"
+    ],
+    [
+      "(Rust) All-Hands 2026 Retrospective",
+      "https://blog.rust-lang.org/inside-rust/2026/07/31/all-hands-2026-retrospective/"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2026-08-01, 22:55:52",
-      "https://news.ycombinator.com/item?id=49139383"
-    ],
-    [
-      "Unraveling the mysteries of habit formation",
-      "https://www.kyoto-u.ac.jp/en/research-news/2026-07-28"
-    ]
-  ],
-  [
-    [
       "2026-08-01, 20:45:12",
       "https://news.ycombinator.com/item?id=49138302"
     ],
@@ -247,16 +257,6 @@
     [
       "Diátaxis",
       "https://diataxis.fr/"
-    ]
-  ],
-  [
-    [
-      "2026-08-01, 18:32:20",
-      "https://news.ycombinator.com/item?id=49137060"
-    ],
-    [
-      "Postmortem for Kernel Soundness Bug #14576",
-      "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/"
     ]
   ],
   [
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2026-07-30, 13:31:56",
-      "https://news.ycombinator.com/item?id=49109759"
+      "2026-07-29, 06:47:22",
+      "https://news.ycombinator.com/item?id=49094151"
     ],
     [
-      "Elena, a library for building Progressive Web Components",
-      "https://elenajs.com/"
+      "Fasttracker II clone in C using SDL 2",
+      "https://16-bits.org/ft2.php"
     ]
   ],
   [
