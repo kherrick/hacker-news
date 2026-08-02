@@ -1,32 +1,52 @@
 [
   [
     [
+      "2026-08-02, 12:01:37",
+      "https://news.ycombinator.com/item?id=49143688"
+    ],
+    [
+      "An internal OpenAI Astra model solved 10 major open math and CS problems",
+      "https://twitter.com/polynoamial/status/2083467194663571701"
+    ]
+  ],
+  [
+    [
+      "2026-08-02, 12:01:00",
+      "https://news.ycombinator.com/item?id=49143683"
+    ],
+    [
+      "Great Question (YC W21) Is Hiring Senior Demand Gen Manager",
+      "https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager"
+    ]
+  ],
+  [
+    [
+      "2026-08-02, 11:34:41",
+      "https://news.ycombinator.com/item?id=49143479"
+    ],
+    [
+      "Meshdiff – visually compare two STL versions in the browser, client-side",
+      "https://meshdiff.com/"
+    ]
+  ],
+  [
+    [
+      "2026-08-02, 11:24:20",
+      "https://news.ycombinator.com/item?id=49143414"
+    ],
+    [
+      "Wikimedia Foundation refuses union recognition, hires union-busting law firm",
+      "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes"
+    ]
+  ],
+  [
+    [
       "2026-08-02, 11:06:07",
       "https://news.ycombinator.com/item?id=49143289"
     ],
     [
       "Generative AI floods and dilutes the market for books",
       "https://arxiv.org/abs/2607.20349"
-    ]
-  ],
-  [
-    [
-      "2026-08-02, 10:46:28",
-      "https://news.ycombinator.com/item?id=49143188"
-    ],
-    [
-      "US Treasury undertakes historic intervention in yen market",
-      "https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8"
-    ]
-  ],
-  [
-    [
-      "2026-08-02, 10:25:25",
-      "https://news.ycombinator.com/item?id=49143053"
-    ],
-    [
-      "Is the Industrial Revolution a good precedent for explosive growth today?",
-      "https://mattsclancy.github.io/2026/07/27/industrial-revolution-growth.html"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "IBM i (OS/400) the Database Operating System",
       "https://osadmins.com/en/ibm-i-os-400-the-database-operating-system/"
-    ]
-  ],
-  [
-    [
-      "2026-08-02, 07:09:38",
-      "https://news.ycombinator.com/item?id=49141891"
-    ],
-    [
-      "I don't recommend Tailwind CSS",
-      "https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/"
     ]
   ],
   [
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2026-08-01, 22:52:44",
-      "https://news.ycombinator.com/item?id=49139352"
-    ],
-    [
-      "Morph (YC S23) Is Hiring Member of Technical Staff",
-      "https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff"
-    ]
-  ],
-  [
-    [
       "2026-08-01, 22:00:16",
       "https://news.ycombinator.com/item?id=49138897"
     ],
@@ -227,6 +227,16 @@
     [
       "Diátaxis",
       "https://diataxis.fr/"
+    ]
+  ],
+  [
+    [
+      "2026-08-01, 19:44:48",
+      "https://news.ycombinator.com/item?id=49137713"
+    ],
+    [
+      "But can your calculator run Linux?",
+      "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Elena, a library for building Progressive Web Components",
       "https://elenajs.com/"
-    ]
-  ],
-  [
-    [
-      "2026-07-30, 08:06:25",
-      "https://news.ycombinator.com/item?id=49107216"
-    ],
-    [
-      "Instrumenting my espresso machine with OpenTelemetry",
-      "https://clickhouse.com/blog/espresso-machine-observability-with-otel"
     ]
   ]
 ]
