@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-08-02](index.md)
 
+* [2026-08-02, 07:57:52](https://news.ycombinator.com/item?id=49142128) - [Nerd culture is murdering intellectuals](https://www.theintrinsicperspective.com/p/nerd-culture-is-murdering-intellectuals)
+* [2026-08-02, 07:31:40](https://news.ycombinator.com/item?id=49142002) - [Show HN: Tone Generator](https://soundtonegenerator.com/)
+* [2026-08-02, 07:09:38](https://news.ycombinator.com/item?id=49141891) - [I don't recommend Tailwind CSS](https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/)
 * [2026-08-02, 07:06:18](https://news.ycombinator.com/item?id=49141877) - [Australia's social media ban has failed](https://www.reuters.com/legal/litigation/australia-defends-teen-social-media-ban-after-study-shows-most-still-online-2026-08-01/)
+* [2026-08-02, 06:59:28](https://news.ycombinator.com/item?id=49141847) - [CRM: An open-source, agentic-first CRM](https://github.com/trycompai/crm)
 * [2026-08-02, 04:21:14](https://news.ycombinator.com/item?id=49141073) - [Running Kimi K3 on MI355X at Better Performance per Dollar Than B300](https://www.wafer.ai/blog/kimi-k3-mi355x)
 * [2026-08-02, 04:07:46](https://news.ycombinator.com/item?id=49141008) - [Don't credit the LLM](https://isaacsu.com/2026/08/dont-credit-the-llm/)
 * [2026-08-02, 03:19:17](https://news.ycombinator.com/item?id=49140737) - [The teenage hitmen recruited to kill across Europe](https://www.bbc.com/news/articles/czrjyevmv61o)

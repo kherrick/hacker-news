@@ -15,6 +15,7 @@
 * [2026-07-30, 21:31:03](https://news.ycombinator.com/item?id=49116074) - [Saber-toothed cats became inbred–and struggled to move–before they went extinct](https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct)
 * [2026-07-30, 20:53:41](https://news.ycombinator.com/item?id=49115620) - [I obtained Claude Opus 5 system prompt](https://claude.ai/share/98073770-0ad9-431f-a1e7-e0243db18758)
 * [2026-07-30, 20:44:13](https://news.ycombinator.com/item?id=49115506) - [Man seeks millions after being shot by police in game-related swatting incident](https://www.tucsonsentinel.com/local/report/072926_melendez_swatting/man-seeks-millions-after-being-shot-by-pima-deputies-swatting-incident/)
+* [2026-07-30, 20:36:53](https://news.ycombinator.com/item?id=49115423) - [Show HN: Logan Basic v2.1 - An online BASIC interpreter.](https://sinusoft.com/loganbasic/)
 * [2026-07-30, 19:34:27](https://news.ycombinator.com/item?id=49114639) - [Agent Skill to Force Docs in ASD-STE100 Simplified Technical English](https://github.com/AminBlg/SimpleEnglish)
 * [2026-07-30, 19:26:18](https://news.ycombinator.com/item?id=49114527) - [A past and future of trade secrets](https://www.cabinetmagazine.org/issues/70/kofen.php)
 * [2026-07-30, 19:18:54](https://news.ycombinator.com/item?id=49114441) - [P[drive failure]: how reliable is your NAS?](https://khz.ac/low-voltage/drive-failure.html)
