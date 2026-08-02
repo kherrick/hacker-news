@@ -55,7 +55,7 @@
       "https://news.ycombinator.com/item?id=49139102"
     ],
     [
-      "AI financial advice is surprisingly good if you ask the right questions",
+      "AI financial advice is surprisingly good, especially if you ask right questions",
       "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions"
     ]
   ],
@@ -137,16 +137,6 @@
     [
       "Kaisel – Routes as Values. Dart 3 Native Router for Flutter",
       "https://kaisel.dev/"
-    ]
-  ],
-  [
-    [
-      "2026-08-01, 16:01:22",
-      "https://news.ycombinator.com/item?id=49135546"
-    ],
-    [
-      "Pgtestdb's template cloning approach to testing is fast",
-      "https://brandur.org/fragments/pgtestdb"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Just because a game is on disc doesn't mean it will work in the future",
       "https://arstechnica.com/gaming/2026/07/the-disc-is-not-the-game-physical-releases-increasingly-require-extra-downloads/"
+    ]
+  ],
+  [
+    [
+      "2026-07-30, 23:46:05",
+      "https://news.ycombinator.com/item?id=49117303"
+    ],
+    [
+      "We accidentally built an LLVM compiler for Jax",
+      "https://iza.ac/posts/2026/07/accidental-llvm-compiler-for-jax/"
     ]
   ],
   [
