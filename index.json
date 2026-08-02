@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-08-02, 20:48:45",
-      "https://news.ycombinator.com/item?id=49148163"
-    ],
-    [
-      "Show HN: Draco – A single-binary, self-hostable Firecrawl alternative in Rust",
-      "https://github.com/0xchasercat/draco/"
-    ]
-  ],
-  [
-    [
       "2026-08-02, 20:48:28",
       "https://news.ycombinator.com/item?id=49148159"
     ],
@@ -55,7 +45,7 @@
       "https://news.ycombinator.com/item?id=49147890"
     ],
     [
-      "Let the Machines In",
+      "Let the machines in",
       "https://blog.semenzin.com/let-the-machines-in/"
     ]
   ],
@@ -67,6 +57,16 @@
     [
       "Adding Go's Defer to the TypeScript Compiler",
       "https://healeycodes.com/adding-defer-to-the-typescript-compiler"
+    ]
+  ],
+  [
+    [
+      "2026-08-02, 20:11:35",
+      "https://news.ycombinator.com/item?id=49147842"
+    ],
+    [
+      "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+      "https://github.com/paoloanzn/microcodex"
     ]
   ],
   [
@@ -87,16 +87,6 @@
     [
       "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
       "https://frogs.vaguespac.es/"
-    ]
-  ],
-  [
-    [
-      "2026-08-02, 19:24:18",
-      "https://news.ycombinator.com/item?id=49147478"
-    ],
-    [
-      "German carmakers flood jobs market with managers after wielding axe",
-      "https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "Karpathy’s Pelican",
       "https://twitter.com/karpathy/status/2083749667410727319"
+    ]
+  ],
+  [
+    [
+      "2026-07-31, 23:31:28",
+      "https://news.ycombinator.com/item?id=49129676"
+    ],
+    [
+      "Read the Novels and Forget Everything Else",
+      "https://hedgehogreview.com/web-features/thr/posts/read-the-novels-and-forget-everything-else"
     ]
   ],
   [
