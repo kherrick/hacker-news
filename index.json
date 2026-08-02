@@ -1,22 +1,92 @@
 [
   [
     [
+      "2026-08-02, 02:26:52",
+      "https://news.ycombinator.com/item?id=49140487"
+    ],
+    [
+      "Four Time Scales for Technology Development and Deployment",
+      "https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/"
+    ]
+  ],
+  [
+    [
+      "2026-08-02, 02:07:09",
+      "https://news.ycombinator.com/item?id=49140396"
+    ],
+    [
+      "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
+      "https://github.com/tom-ilan/cycloidal_gearbox"
+    ]
+  ],
+  [
+    [
+      "2026-08-02, 01:35:51",
+      "https://news.ycombinator.com/item?id=49140218"
+    ],
+    [
+      "Go 1.27 Interactive Tour",
+      "https://victoriametrics.com/blog/go-1-27/index.html"
+    ]
+  ],
+  [
+    [
+      "2026-08-02, 01:35:11",
+      "https://news.ycombinator.com/item?id=49140213"
+    ],
+    [
+      "ASRock BC-250: Building the Budget Steam Machine",
+      "https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/"
+    ]
+  ],
+  [
+    [
+      "2026-08-02, 01:01:45",
+      "https://news.ycombinator.com/item?id=49140080"
+    ],
+    [
+      "Persistent State Machines: LLM Attention with INT4 In-Memory Cells",
+      "https://zenodo.org/records/21753002"
+    ]
+  ],
+  [
+    [
+      "2026-08-02, 00:06:25",
+      "https://news.ycombinator.com/item?id=49139826"
+    ],
+    [
+      "The Greenhouse and the Lens: Two Modes of Agentic AI Work",
+      "https://www.brethorsting.com/blog/2026/08/the-greenhouse-and-the-lens-two-modes-of-agentic-ai-work/"
+    ]
+  ],
+  [
+    [
+      "2026-08-02, 00:01:46",
+      "https://news.ycombinator.com/item?id=49139796"
+    ],
+    [
+      "Kobuk the Destroyer – Tales from the Wild, Unseen World of Test Engineering",
+      "https://wwnorton.com/books/9781324051299"
+    ]
+  ],
+  [
+    [
+      "2026-08-02, 00:00:46",
+      "https://news.ycombinator.com/item?id=49139790"
+    ],
+    [
+      "Why Is Europe Burning?",
+      "https://www.newyorker.com/news/the-lede/why-is-europe-burning"
+    ]
+  ],
+  [
+    [
       "2026-08-01, 23:44:55",
       "https://news.ycombinator.com/item?id=49139711"
     ],
     [
       "RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2",
       "https://www.rfc-editor.org/rfc/rfc10015.html"
-    ]
-  ],
-  [
-    [
-      "2026-08-01, 23:19:23",
-      "https://news.ycombinator.com/item?id=49139562"
-    ],
-    [
-      "A stray commit buried multiple levels deep cost me months",
-      "https://www.droppedasbaby.com/posts/db-commits/"
     ]
   ],
   [
@@ -47,6 +117,16 @@
     [
       "Anime User Interfaces",
       "https://animeuserinterface.tumblr.com"
+    ]
+  ],
+  [
+    [
+      "2026-08-01, 22:40:22",
+      "https://news.ycombinator.com/item?id=49139232"
+    ],
+    [
+      "AI opens new era in cognitive studies of wild primates",
+      "https://news.emory.edu/features/2026/07/ai-opens-new-era-cognitive-studies-wild-primates"
     ]
   ],
   [
@@ -131,16 +211,6 @@
   ],
   [
     [
-      "2026-08-01, 16:45:40",
-      "https://news.ycombinator.com/item?id=49135985"
-    ],
-    [
-      "Kaisel – Routes as Values. Dart 3 Native Router for Flutter",
-      "https://kaisel.dev/"
-    ]
-  ],
-  [
-    [
       "2026-08-01, 15:46:54",
       "https://news.ycombinator.com/item?id=49135426"
     ],
@@ -151,32 +221,12 @@
   ],
   [
     [
-      "2026-08-01, 15:25:21",
-      "https://news.ycombinator.com/item?id=49135257"
-    ],
-    [
-      "Cursor removed cost information from the usage page and CSV export",
-      "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153"
-    ]
-  ],
-  [
-    [
       "2026-08-01, 15:23:15",
       "https://news.ycombinator.com/item?id=49135245"
     ],
     [
       "Explorative modeling: Train on the best of K guesses",
       "https://alexiglad.github.io/blog/2026/explorative_modeling/"
-    ]
-  ],
-  [
-    [
-      "2026-08-01, 14:19:51",
-      "https://news.ycombinator.com/item?id=49134694"
-    ],
-    [
-      "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention",
-      "https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/"
     ]
   ],
   [
@@ -201,46 +251,6 @@
   ],
   [
     [
-      "2026-08-01, 08:48:58",
-      "https://news.ycombinator.com/item?id=49132460"
-    ],
-    [
-      "RamenHaus",
-      "https://ramen.haus/"
-    ]
-  ],
-  [
-    [
-      "2026-08-01, 02:45:09",
-      "https://news.ycombinator.com/item?id=49130604"
-    ],
-    [
-      "Flint: A Visualization Language for the AI Era",
-      "https://microsoft.github.io/flint-chart/"
-    ]
-  ],
-  [
-    [
-      "2026-07-31, 19:38:51",
-      "https://news.ycombinator.com/item?id=49127680"
-    ],
-    [
-      "Designing Icons",
-      "https://m3.material.io/styles/icons/designing-icons"
-    ]
-  ],
-  [
-    [
-      "2026-07-31, 07:50:48",
-      "https://news.ycombinator.com/item?id=49120230"
-    ],
-    [
-      "Just because a game is on disc doesn't mean it will work in the future",
-      "https://arstechnica.com/gaming/2026/07/the-disc-is-not-the-game-physical-releases-increasingly-require-extra-downloads/"
-    ]
-  ],
-  [
-    [
       "2026-07-30, 23:46:05",
       "https://news.ycombinator.com/item?id=49117303"
     ],
@@ -251,12 +261,12 @@
   ],
   [
     [
-      "2026-07-30, 02:04:10",
-      "https://news.ycombinator.com/item?id=49105365"
+      "2026-07-30, 14:12:44",
+      "https://news.ycombinator.com/item?id=49110319"
     ],
     [
-      "Show HN: Legionlinuxtui – Control Lenovo legion laptops in the terminal",
-      "https://github.com/nooneknowspeter/legionlinuxtui"
+      "China begins producing advanced chipmaking deep-ultraviolet lithography machines",
+      "https://www.reuters.com/world/china/china-starts-production-home-grown-immersion-duv-chipmaking-tools-source-2026-07-28/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Nyctography: A substituton cypher by Lewis Carroll",
       "https://en.wikipedia.org/wiki/Nyctography"
-    ]
-  ],
-  [
-    [
-      "2026-07-27, 23:46:15",
-      "https://news.ycombinator.com/item?id=49077209"
-    ],
-    [
-      "The Burau representation of the braid group is faithful for n = 4",
-      "https://arxiv.org/abs/2607.05283"
     ]
   ]
 ]
