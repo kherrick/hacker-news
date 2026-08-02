@@ -12,6 +12,7 @@
 * [2026-07-28, 22:31:14](https://news.ycombinator.com/item?id=49090867) - [Underwater Oxygen Loss Threatens Earth's Stability, Researchers Warn](https://scripps.ucsd.edu/news/underwater-oxygen-loss-threatens-earths-stability-researchers-warn)
 * [2026-07-28, 22:24:06](https://news.ycombinator.com/item?id=49090794) - [Offer rates for tech jobs fell from 51% to 39% since 2015](https://www.interviewquery.com/p/tech-interview-offer-rates-lowest-12-years)
 * [2026-07-28, 22:09:06](https://news.ycombinator.com/item?id=49090607) - [Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript](https://github.com/twalichiewicz/HNewhere)
+* [2026-07-28, 21:38:14](https://news.ycombinator.com/item?id=49090268) - [The Cipher Behind QSYRUPWD: Reconstructing IBM i Password Hashes](https://blog.silentsignal.eu/2026/07/28/the-cipher-behind-qsyrupwd-reconstructing-ibm-i-password-hashes/)
 * [2026-07-28, 21:35:19](https://news.ycombinator.com/item?id=49090233) - [Running Kimi K3 on a M1 Mac](https://github.com/gavamedia/deltafin)
 * [2026-07-28, 21:22:48](https://news.ycombinator.com/item?id=49090083) - [Anthropic publishes a practical key-recovery attack on HAWK-256](https://github.com/anthropics/cryptography-research-demo)
 * [2026-07-28, 20:58:39](https://news.ycombinator.com/item?id=49089814) - [Half-Life ported to Mac OS 9](https://mac-classic.com/news/half-life-ported-to-mac-os-9/)

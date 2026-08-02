@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-08-02](index.md)
 
+* [2026-08-02, 04:21:14](https://news.ycombinator.com/item?id=49141073) - [Running Kimi K3 on MI355X at Better Performance per Dollar Than B300](https://www.wafer.ai/blog/kimi-k3-mi355x)
+* [2026-08-02, 04:07:46](https://news.ycombinator.com/item?id=49141008) - [Don't credit the LLM](https://isaacsu.com/2026/08/dont-credit-the-llm/)
 * [2026-08-02, 03:19:17](https://news.ycombinator.com/item?id=49140737) - [The teenage hitmen recruited to kill across Europe](https://www.bbc.com/news/articles/czrjyevmv61o)
 * [2026-08-02, 03:12:52](https://news.ycombinator.com/item?id=49140702) - [MkLinux and the pimped-out Apple Workgroup Server 9150](http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html)
+* [2026-08-02, 03:10:00](https://news.ycombinator.com/item?id=49140696) - [Linux desktop market share has hit over 10% in North America](https://old.reddit.com/r/linux/comments/1vcpk8i/linux_desktop_market_share_has_hit_over_10_in/)
 * [2026-08-02, 02:57:51](https://news.ycombinator.com/item?id=49140633) - [Plug-in solar is coming. Plug-in batteries should follow](https://www.regen.co.uk/insights/plug-in-solar-is-coming-plug-in-batteries-should-follow)
 * [2026-08-02, 02:51:15](https://news.ycombinator.com/item?id=49140599) - [Deep-sea vehicles spot 'alien' sharks deep beneath the waves in the Pacific](https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific#)
 * [2026-08-02, 02:26:52](https://news.ycombinator.com/item?id=49140487) - [Four Time Scales for Technology Development and Deployment](https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/)
@@ -14,6 +17,7 @@
 * [2026-08-02, 01:56:44](https://news.ycombinator.com/item?id=49140340) - [Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators](https://costperprompt.com/)
 * [2026-08-02, 01:35:51](https://news.ycombinator.com/item?id=49140218) - [Go 1.27 Interactive Tour](https://victoriametrics.com/blog/go-1-27/index.html)
 * [2026-08-02, 01:35:11](https://news.ycombinator.com/item?id=49140213) - [ASRock BC-250: Building the Budget Steam Machine](https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/)
+* [2026-08-02, 01:26:12](https://news.ycombinator.com/item?id=49140174) - [The Prospects for 128 Bit Processors ( John Mashey SGI 1995)](https://yarchive.net/comp/128bit.html)
 * [2026-08-02, 01:01:45](https://news.ycombinator.com/item?id=49140080) - [Persistent State Machines: LLM Attention with INT4 In-Memory Cells](https://zenodo.org/records/21753002)
 * [2026-08-02, 00:06:25](https://news.ycombinator.com/item?id=49139826) - [The Greenhouse and the Lens: Two Modes of Agentic AI Work](https://www.brethorsting.com/blog/2026/08/the-greenhouse-and-the-lens-two-modes-of-agentic-ai-work/)
 * [2026-08-02, 00:01:46](https://news.ycombinator.com/item?id=49139796) - [Kobuk the Destroyer – Tales from the Wild, Unseen World of Test Engineering](https://wwnorton.com/books/9781324051299)
