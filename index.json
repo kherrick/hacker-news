@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-08-02, 13:05:06",
-      "https://news.ycombinator.com/item?id=49144273"
-    ],
-    [
-      "Has the New Cocaine Arrived?",
-      "https://playboy.substack.com/p/has-the-new-cocaine-finally-arrived"
-    ]
-  ],
-  [
-    [
       "2026-08-02, 12:36:07",
       "https://news.ycombinator.com/item?id=49143967"
     ],
@@ -21,12 +11,12 @@
   ],
   [
     [
-      "2026-08-02, 12:01:37",
-      "https://news.ycombinator.com/item?id=49143688"
+      "2026-08-02, 12:31:16",
+      "https://news.ycombinator.com/item?id=49143925"
     ],
     [
-      "An internal OpenAI Astra model solved 10 major open math and CS problems",
-      "https://twitter.com/polynoamial/status/2083467194663571701"
+      "F*: A general-purpose proof-oriented programming language",
+      "https://fstar-lang.org/"
     ]
   ],
   [
@@ -67,6 +57,16 @@
     [
       "Show HN: Fuse – statically typed functional programming language",
       "https://fuselang.org"
+    ]
+  ],
+  [
+    [
+      "2026-08-02, 11:07:56",
+      "https://news.ycombinator.com/item?id=49143304"
+    ],
+    [
+      "I made a Promise-aware debounce and throttle library for TypeScript",
+      "https://github.com/nyvexis1/temporize"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2026-08-01, 22:00:16",
-      "https://news.ycombinator.com/item?id=49138897"
-    ],
-    [
-      "Atom is better than RSS, in ways that matter",
-      "https://chrismorgan.info/atom%3Erss"
-    ]
-  ],
-  [
-    [
       "2026-08-01, 20:45:12",
       "https://news.ycombinator.com/item?id=49138302"
     ],
@@ -257,6 +247,16 @@
     [
       "Diátaxis",
       "https://diataxis.fr/"
+    ]
+  ],
+  [
+    [
+      "2026-08-01, 18:32:20",
+      "https://news.ycombinator.com/item?id=49137060"
+    ],
+    [
+      "Postmortem for Kernel Soundness Bug #14576",
+      "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/"
     ]
   ],
   [
