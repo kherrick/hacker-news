@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-08-02, 22:16:34](https://news.ycombinator.com/item?id=49148987) - [Californians' data deletion requests, DROP, become enforceable Aug. 1](https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/)
+* [2026-08-02, 21:30:04](https://news.ycombinator.com/item?id=49148541) - [Flock – Chilling Effects: Long Island's Emerging Open-Air Prison](https://www.11971.com/)
 * [2026-08-02, 20:44:24](https://news.ycombinator.com/item?id=49148128) - [EU Age Verification Project Mandates Hardware-Bound Attestation](https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/)
 * [2026-08-02, 20:33:01](https://news.ycombinator.com/item?id=49148048) - [Show HN: Make your Framework 12 sound like a creaky door](https://github.com/ArcaEge/creakwork12)
 * [2026-08-02, 20:26:47](https://news.ycombinator.com/item?id=49147978) - [Sharing an X11 Server Across Hosts with FamilyWild](https://dobrowolski.dev/article/sharing-an-x-server-across-hosts-with-familywild/)
@@ -15,7 +16,6 @@
 * [2026-08-02, 17:05:54](https://news.ycombinator.com/item?id=49146267) - [Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark](https://github.com/graham33/nixos-dgx-spark)
 * [2026-08-02, 16:26:40](https://news.ycombinator.com/item?id=49145937) - [Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM](https://github.com/wie-project/kakehashi)
 * [2026-08-02, 16:19:17](https://news.ycombinator.com/item?id=49145883) - [Rooting, firmware analysis and persistent credentials of TP-Link TL-841N](https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/)
-* [2026-08-02, 15:41:08](https://news.ycombinator.com/item?id=49145590) - [How the words we teach English language learners changed](https://pudding.cool/2026/07/essential-words/)
 * [2026-08-02, 12:36:07](https://news.ycombinator.com/item?id=49143967) - [Twenty Years of RISC OS Open](https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open)
 * [2026-08-02, 12:31:16](https://news.ycombinator.com/item?id=49143925) - [F*: A general-purpose proof-oriented programming language](https://fstar-lang.org/)
 * [2026-08-02, 12:01:00](https://news.ycombinator.com/item?id=49143683) - [Great Question (YC W21) Is Hiring Senior Demand Gen Manager](https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager)
