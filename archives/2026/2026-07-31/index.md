@@ -64,6 +64,7 @@
 * [2026-07-31, 13:37:36](https://news.ycombinator.com/item?id=49122994) - [Situational Awareness Down 67% in July in AI Stock Rout](https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f)
 * [2026-07-31, 13:28:05](https://news.ycombinator.com/item?id=49122882) - [Anti-fraud tools can't keep pace with scammers exploiting cheap internet calling](https://broadbandbreakfast.com/how-to-fight-back-against-fraudulent-robocalls/)
 * [2026-07-31, 13:24:03](https://news.ycombinator.com/item?id=49122838) - [Moonshot built on 20k Nvidia chip cluster from Alibaba](https://www.bloomberg.com/news/articles/2026-07-31/moonshot-s-kimi-built-on-20-000-nvidia-chip-cluster-from-alibaba)
+* [2026-07-31, 13:08:30](https://news.ycombinator.com/item?id=49122655) - [Autoregressive Language Model on the 6502 Processor](https://mattbeton.com/blog/bitnet-6502.html)
 * [2026-07-31, 12:10:55](https://news.ycombinator.com/item?id=49122105) - [Ruby Central's Destructive Legacy](https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/)
 * [2026-07-31, 12:00:59](https://news.ycombinator.com/item?id=49122034) - [Tasklet (YC P26) Is Hiring a Customer Success Engineer](https://tasklet.ai/careers/customer-success-engineer)
 * [2026-07-31, 11:51:46](https://news.ycombinator.com/item?id=49121980) - [The End of an Era](https://hughhowey.com/the-end-of-an-era/)
