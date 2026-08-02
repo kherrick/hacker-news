@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-02](index.md)
 
+* [2026-08-02, 16:26:40](https://news.ycombinator.com/item?id=49145937) - [Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM](https://github.com/wie-project/kakehashi)
+* [2026-08-02, 16:19:17](https://news.ycombinator.com/item?id=49145883) - [Rooting, firmware analysis and persistent credentials of TP-Link TL-841N](https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/)
 * [2026-08-02, 15:41:08](https://news.ycombinator.com/item?id=49145590) - [How the words we teach English language learners changed](https://pudding.cool/2026/07/essential-words/)
 * [2026-08-02, 14:51:18](https://news.ycombinator.com/item?id=49145201) - [Ursula K. Le Guin: A Rant About \"Technology\" (2005)](https://www.ursulakleguin.com/a-rant-about-technology)
 * [2026-08-02, 14:17:43](https://news.ycombinator.com/item?id=49144946) - [The Seinfeld Chronicles: Digital Edition](https://seinfeld.visualisingdata.com/)
@@ -39,6 +41,7 @@
 * [2026-08-02, 06:56:38](https://news.ycombinator.com/item?id=49141828) - [ESP32-C3 SuperMini antenna modification](https://peterneufeld.wordpress.com/2025/03/04/esp32-c3-supermini-antenna-modification/)
 * [2026-08-02, 04:21:14](https://news.ycombinator.com/item?id=49141073) - [Running Kimi K3 on MI355X at Better Performance per Dollar Than B300](https://www.wafer.ai/blog/kimi-k3-mi355x)
 * [2026-08-02, 04:07:46](https://news.ycombinator.com/item?id=49141008) - [Don't credit the LLM](https://isaacsu.com/2026/08/dont-credit-the-llm/)
+* [2026-08-02, 04:05:56](https://news.ycombinator.com/item?id=49140998) - [Karpathy’s Pelican](https://twitter.com/karpathy/status/2083749667410727319)
 * [2026-08-02, 03:19:17](https://news.ycombinator.com/item?id=49140737) - [The teenage hitmen recruited to kill across Europe](https://www.bbc.com/news/articles/czrjyevmv61o)
 * [2026-08-02, 03:12:52](https://news.ycombinator.com/item?id=49140702) - [MkLinux and the pimped-out Apple Workgroup Server 9150](http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html)
 * [2026-08-02, 03:10:00](https://news.ycombinator.com/item?id=49140696) - [Linux desktop market share has hit over 10% in North America](https://old.reddit.com/r/linux/comments/1vcpk8i/linux_desktop_market_share_has_hit_over_10_in/)
