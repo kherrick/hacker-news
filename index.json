@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-08-02, 03:19:17",
-      "https://news.ycombinator.com/item?id=49140737"
+      "2026-08-02, 04:21:14",
+      "https://news.ycombinator.com/item?id=49141073"
     ],
     [
-      "The teenage hitmen recruited to kill across Europe",
-      "https://www.bbc.com/news/articles/czrjyevmv61o"
+      "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+      "https://www.wafer.ai/blog/kimi-k3-mi355x"
+    ]
+  ],
+  [
+    [
+      "2026-08-02, 04:07:46",
+      "https://news.ycombinator.com/item?id=49141008"
+    ],
+    [
+      "Don't credit the LLM",
+      "https://isaacsu.com/2026/08/dont-credit-the-llm/"
     ]
   ],
   [
@@ -17,6 +27,16 @@
     [
       "MkLinux and the pimped-out Apple Workgroup Server 9150",
       "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html"
+    ]
+  ],
+  [
+    [
+      "2026-08-02, 03:10:00",
+      "https://news.ycombinator.com/item?id=49140696"
+    ],
+    [
+      "Linux desktop market share has hit over 10% in North America",
+      "https://old.reddit.com/r/linux/comments/1vcpk8i/linux_desktop_market_share_has_hit_over_10_in/"
     ]
   ],
   [
@@ -101,6 +121,16 @@
   ],
   [
     [
+      "2026-08-02, 01:26:12",
+      "https://news.ycombinator.com/item?id=49140174"
+    ],
+    [
+      "The Prospects for 128 Bit Processors ( John Mashey SGI 1995)",
+      "https://yarchive.net/comp/128bit.html"
+    ]
+  ],
+  [
+    [
       "2026-08-01, 23:44:55",
       "https://news.ycombinator.com/item?id=49139711"
     ],
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2026-08-01, 18:50:17",
-      "https://news.ycombinator.com/item?id=49137228"
-    ],
-    [
-      "CISA Alert: Water Sector PLC Targeting",
-      "https://censys.com/blog/cisa-alert-water-tower-plc-targeting/"
-    ]
-  ],
-  [
-    [
       "2026-08-01, 18:32:20",
       "https://news.ycombinator.com/item?id=49137060"
     ],
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2026-08-01, 15:23:15",
-      "https://news.ycombinator.com/item?id=49135245"
-    ],
-    [
-      "Explorative modeling: Train on the best of K guesses",
-      "https://alexiglad.github.io/blog/2026/explorative_modeling/"
-    ]
-  ],
-  [
-    [
       "2026-08-01, 14:09:00",
       "https://news.ycombinator.com/item?id=49134599"
     ],
@@ -271,22 +281,12 @@
   ],
   [
     [
-      "2026-07-29, 19:21:57",
-      "https://news.ycombinator.com/item?id=49101817"
+      "2026-07-28, 21:38:14",
+      "https://news.ycombinator.com/item?id=49090268"
     ],
     [
-      "The Theater of Sport: Bill Buford Revisits Among the Thugs",
-      "https://www.theparisreview.org/blog/2026/07/29/the-theater-of-sport-bill-buford-revisits-among-the-thugs/"
-    ]
-  ],
-  [
-    [
-      "2026-07-28, 15:06:38",
-      "https://news.ycombinator.com/item?id=49085065"
-    ],
-    [
-      "Glyphs 4 – the leading Mac font editor",
-      "https://glyphsapp.com"
+      "The Cipher Behind QSYRUPWD: Reconstructing IBM i Password Hashes",
+      "https://blog.silentsignal.eu/2026/07/28/the-cipher-behind-qsyrupwd-reconstructing-ibm-i-password-hashes/"
     ]
   ],
   [
