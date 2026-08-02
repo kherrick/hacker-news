@@ -6,10 +6,13 @@
 
 * [2026-08-02, 12:01:37](https://news.ycombinator.com/item?id=49143688) - [An internal OpenAI Astra model solved 10 major open math and CS problems](https://twitter.com/polynoamial/status/2083467194663571701)
 * [2026-08-02, 12:01:00](https://news.ycombinator.com/item?id=49143683) - [Great Question (YC W21) Is Hiring Senior Demand Gen Manager](https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager)
+* [2026-08-02, 11:53:52](https://news.ycombinator.com/item?id=49143630) - [Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers](https://website-auditor.io/ai-visibility-index)
 * [2026-08-02, 11:34:41](https://news.ycombinator.com/item?id=49143479) - [Meshdiff – visually compare two STL versions in the browser, client-side](https://meshdiff.com/)
 * [2026-08-02, 11:24:20](https://news.ycombinator.com/item?id=49143414) - [Wikimedia Foundation refuses union recognition, hires union-busting law firm](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes)
+* [2026-08-02, 11:23:56](https://news.ycombinator.com/item?id=49143412) - [Show HN: Fuse – statically typed functional programming language](https://fuselang.org)
 * [2026-08-02, 11:06:07](https://news.ycombinator.com/item?id=49143289) - [Generative AI floods and dilutes the market for books](https://arxiv.org/abs/2607.20349)
 * [2026-08-02, 10:46:28](https://news.ycombinator.com/item?id=49143188) - [US Treasury undertakes historic intervention in yen market](https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8)
+* [2026-08-02, 10:45:11](https://news.ycombinator.com/item?id=49143179) - [Show HN: Katharos Functional programming and CSP-style concurrency for Python](https://github.com/kamalfarahani/katharos)
 * [2026-08-02, 10:25:25](https://news.ycombinator.com/item?id=49143053) - [Is the Industrial Revolution a good precedent for explosive growth today?](https://mattsclancy.github.io/2026/07/27/industrial-revolution-growth.html)
 * [2026-08-02, 10:18:24](https://news.ycombinator.com/item?id=49143001) - [Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge](https://publicdomainreview.org/essay/ars-notoria/)
 * [2026-08-02, 09:48:08](https://news.ycombinator.com/item?id=49142794) - [Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores](https://github.com/syncular/syncular)

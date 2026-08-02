@@ -2,9 +2,11 @@
 
 * [2026-08-02, 12:01:37](https://news.ycombinator.com/item?id=49143688) - [An internal OpenAI Astra model solved 10 major open math and CS problems](https://twitter.com/polynoamial/status/2083467194663571701)
 * [2026-08-02, 12:01:00](https://news.ycombinator.com/item?id=49143683) - [Great Question (YC W21) Is Hiring Senior Demand Gen Manager](https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager)
+* [2026-08-02, 11:53:52](https://news.ycombinator.com/item?id=49143630) - [Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers](https://website-auditor.io/ai-visibility-index)
 * [2026-08-02, 11:34:41](https://news.ycombinator.com/item?id=49143479) - [Meshdiff – visually compare two STL versions in the browser, client-side](https://meshdiff.com/)
 * [2026-08-02, 11:24:20](https://news.ycombinator.com/item?id=49143414) - [Wikimedia Foundation refuses union recognition, hires union-busting law firm](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes)
-* [2026-08-02, 11:06:07](https://news.ycombinator.com/item?id=49143289) - [Generative AI floods and dilutes the market for books](https://arxiv.org/abs/2607.20349)
+* [2026-08-02, 11:23:56](https://news.ycombinator.com/item?id=49143412) - [Show HN: Fuse – statically typed functional programming language](https://fuselang.org)
+* [2026-08-02, 10:45:11](https://news.ycombinator.com/item?id=49143179) - [Show HN: Katharos Functional programming and CSP-style concurrency for Python](https://github.com/kamalfarahani/katharos)
 * [2026-08-02, 10:18:24](https://news.ycombinator.com/item?id=49143001) - [Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge](https://publicdomainreview.org/essay/ars-notoria/)
 * [2026-08-02, 09:48:08](https://news.ycombinator.com/item?id=49142794) - [Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores](https://github.com/syncular/syncular)
 * [2026-08-02, 09:06:33](https://news.ycombinator.com/item?id=49142569) - [Show HN: Bor – Open-source policy management for Linux desktops](https://getbor.dev/blog/2026-08-02-bor-v080-release/)
@@ -23,13 +25,11 @@
 * [2026-08-01, 22:00:16](https://news.ycombinator.com/item?id=49138897) - [Atom is better than RSS, in ways that matter](https://chrismorgan.info/atom%3Erss)
 * [2026-08-01, 20:45:12](https://news.ycombinator.com/item?id=49138302) - [Seedance 2.5](https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5)
 * [2026-08-01, 20:33:27](https://news.ycombinator.com/item?id=49138188) - [Diátaxis](https://diataxis.fr/)
-* [2026-08-01, 19:44:48](https://news.ycombinator.com/item?id=49137713) - [But can your calculator run Linux?](https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html)
 * [2026-08-01, 18:32:20](https://news.ycombinator.com/item?id=49137060) - [Postmortem for Kernel Soundness Bug #14576](https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/)
 * [2026-07-31, 15:01:07](https://news.ycombinator.com/item?id=49124051) - [A big win for Android interoperability](https://www.openhomefoundation.org/blog/a-big-win-for-android-interoperability/)
-* [2026-07-31, 14:55:51](https://news.ycombinator.com/item?id=49123984) - [Maze Toys](https://maze.toys)
 * [2026-07-30, 22:59:27](https://news.ycombinator.com/item?id=49116917) - [Holocloth](https://holocloth.vercel.app)
-* [2026-07-30, 20:36:53](https://news.ycombinator.com/item?id=49115423) - [Show HN: Logan Basic v2.1 - An online BASIC interpreter.](https://sinusoft.com/loganbasic/)
 * [2026-07-30, 13:31:56](https://news.ycombinator.com/item?id=49109759) - [Elena, a library for building Progressive Web Components](https://elenajs.com/)
+* [2026-07-29, 10:54:07](https://news.ycombinator.com/item?id=49095763) - [The Vanishing Page: AI Firms Scan Then Destroy Rare Book Editions](https://dallasexpress.com/national/the-vanishing-page-ai-firms-scan-then-destroy-rare-book-editions/)
 
 ## [Archives](archives/index.md)
 
