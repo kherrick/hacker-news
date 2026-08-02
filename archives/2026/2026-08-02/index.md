@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-08-02](index.md)
 
 * [2026-08-02, 17:05:54](https://news.ycombinator.com/item?id=49146267) - [Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark](https://github.com/graham33/nixos-dgx-spark)
+* [2026-08-02, 17:03:02](https://news.ycombinator.com/item?id=49146238) - [Pushes to arch AUR are suspendended right now.](https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/YPJ3FQYJTJXXY3RUXCYLMHUKHLIUNVFF/)
 * [2026-08-02, 16:50:01](https://news.ycombinator.com/item?id=49146122) - [Linux Desktop Market Share Surpasses 10% in North America](https://linuxiac.com/linux-desktop-market-share-surpasses-10-in-north-america/)
 * [2026-08-02, 16:41:35](https://news.ycombinator.com/item?id=49146051) - [GE-97 Terminal: The Old Internet](https://ge97.com/)
 * [2026-08-02, 16:26:40](https://news.ycombinator.com/item?id=49145937) - [Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM](https://github.com/wie-project/kakehashi)

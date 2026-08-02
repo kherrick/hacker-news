@@ -53,6 +53,7 @@
 * [2026-07-29, 14:43:47](https://news.ycombinator.com/item?id=49098198) - [A.I. Companies Are Recruiting Electricians and Carpenters by the Thousands](https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html)
 * [2026-07-29, 14:38:35](https://news.ycombinator.com/item?id=49098130) - [Self-hosting Kimi K3: 20% more hardware cost, 20% better task resolution](https://aistack.imec-int.com/blog/gpu-self-hosting)
 * [2026-07-29, 14:32:23](https://news.ycombinator.com/item?id=49098035) - [Graph Engineering Needs a Compiler](https://fluxtion-playground.dev/blog/2026-07-29-graph-engineering-needs-a-compiler)
+* [2026-07-29, 14:25:54](https://news.ycombinator.com/item?id=49097961) - [Developers are attached to tools because tools encode trust](https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/)
 * [2026-07-29, 14:20:34](https://news.ycombinator.com/item?id=49097908) - [CipherX applies painless permanent tattoos with dissolving microneedle patches](https://www.designboom.com/technology/cipherx-painless-permanent-tattoos-dissolving-microneedle-patches/)
 * [2026-07-29, 14:05:40](https://news.ycombinator.com/item?id=49097730) - [Choose DuckDB rather than SQLite](https://tracewayapp.com/blog/sqlite-vs-duckdb)
 * [2026-07-29, 14:05:30](https://news.ycombinator.com/item?id=49097727) - [Show HN: A verification browser for AI agents – 13ms windows, one-call checks](https://github.com/hongnoul/hwatu)
