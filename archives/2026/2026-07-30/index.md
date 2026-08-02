@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-07-30](index.md)
 
+* [2026-07-30, 23:46:05](https://news.ycombinator.com/item?id=49117303) - [We accidentally built an LLVM compiler for Jax](https://iza.ac/posts/2026/07/accidental-llvm-compiler-for-jax/)
 * [2026-07-30, 23:43:22](https://news.ycombinator.com/item?id=49117284) - [The Religion of Speed](https://graybeard.ing/the-religion-of-speed/)
 * [2026-07-30, 23:40:59](https://news.ycombinator.com/item?id=49117266) - [Premier league bans gambling sponsors](https://www.footyheadlines.com/2646571793/betting-ban-takes-effect-no-more-gambling-sponsors-in-the-premier-league.html)
 * [2026-07-30, 23:22:16](https://news.ycombinator.com/item?id=49117099) - [The AI Aesthetic](https://blog.jim-nielsen.com/2026/ai-aesthetic/)
