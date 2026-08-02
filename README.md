@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-01, 23:44:55](https://news.ycombinator.com/item?id=49139711) - [RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2](https://www.rfc-editor.org/rfc/rfc10015.html)
 * [2026-08-01, 23:19:23](https://news.ycombinator.com/item?id=49139562) - [A stray commit buried multiple levels deep cost me months](https://www.droppedasbaby.com/posts/db-commits/)
 * [2026-08-01, 22:55:52](https://news.ycombinator.com/item?id=49139383) - [Unraveling the mysteries of habit formation](https://www.kyoto-u.ac.jp/en/research-news/2026-07-28)
 * [2026-08-01, 22:52:44](https://news.ycombinator.com/item?id=49139352) - [Morph (YC S23) Is Hiring Member of Technical Staff](https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff)
@@ -24,7 +25,6 @@
 * [2026-08-01, 02:45:09](https://news.ycombinator.com/item?id=49130604) - [Flint: A Visualization Language for the AI Era](https://microsoft.github.io/flint-chart/)
 * [2026-07-31, 07:50:48](https://news.ycombinator.com/item?id=49120230) - [Just because a game is on disc doesn't mean it will work in the future](https://arstechnica.com/gaming/2026/07/the-disc-is-not-the-game-physical-releases-increasingly-require-extra-downloads/)
 * [2026-07-31, 07:16:01](https://news.ycombinator.com/item?id=49120000) - [Beltrunner: Game Design Postmortem](https://blog.gingerbeardman.com/2026/07/30/beltrunner-game-design-postmortem/)
-* [2026-07-30, 12:20:30](https://news.ycombinator.com/item?id=49109019) - [Register deprivation: spills and runtime under forced register scarcity](https://rjp.io/blog/2026-07-19-register-deprivation)
 * [2026-07-30, 02:04:10](https://news.ycombinator.com/item?id=49105365) - [Show HN: Legionlinuxtui – Control Lenovo legion laptops in the terminal](https://github.com/nooneknowspeter/legionlinuxtui)
 * [2026-07-28, 17:52:00](https://news.ycombinator.com/item?id=49087499) - [Linux on ESP32](https://github.com/GrieferPig/esp32-s31-linux)
 * [2026-07-28, 15:06:38](https://news.ycombinator.com/item?id=49085065) - [Glyphs 4 – the leading Mac font editor](https://glyphsapp.com)
