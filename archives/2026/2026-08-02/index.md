@@ -4,10 +4,17 @@
 
 ### [Archives](../../index.md) for [2026-08-02](index.md)
 
+* [2026-08-02, 09:48:08](https://news.ycombinator.com/item?id=49142794) - [Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores](https://github.com/syncular/syncular)
+* [2026-08-02, 08:48:53](https://news.ycombinator.com/item?id=49142458) - [The time filter in Google Search broke a few days ago](https://mastodon.online/@mwichary/117023736804129342)
+* [2026-08-02, 07:58:30](https://news.ycombinator.com/item?id=49142130) - [Cyberscript](https://cyberscript.dev)
 * [2026-08-02, 07:57:52](https://news.ycombinator.com/item?id=49142128) - [Nerd culture is murdering intellectuals](https://www.theintrinsicperspective.com/p/nerd-culture-is-murdering-intellectuals)
+* [2026-08-02, 07:47:26](https://news.ycombinator.com/item?id=49142083) - [Mathematics Without Mathematicians](https://borretti.me/article/mathematics-without-mathematicians)
 * [2026-08-02, 07:31:40](https://news.ycombinator.com/item?id=49142002) - [Show HN: Tone Generator](https://soundtonegenerator.com/)
+* [2026-08-02, 07:25:00](https://news.ycombinator.com/item?id=49141967) - [Police in the US are making their own true crime podcasts](https://www.bbc.com/news/articles/cpw9q0ekd9eo)
+* [2026-08-02, 07:17:49](https://news.ycombinator.com/item?id=49141937) - [IBM i (OS/400) the Database Operating System](https://osadmins.com/en/ibm-i-os-400-the-database-operating-system/)
 * [2026-08-02, 07:09:38](https://news.ycombinator.com/item?id=49141891) - [I don't recommend Tailwind CSS](https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/)
 * [2026-08-02, 07:06:18](https://news.ycombinator.com/item?id=49141877) - [Australia's social media ban has failed](https://www.reuters.com/legal/litigation/australia-defends-teen-social-media-ban-after-study-shows-most-still-online-2026-08-01/)
+* [2026-08-02, 06:59:36](https://news.ycombinator.com/item?id=49141849) - [Agent4Lease](https://agent4lease.com/)
 * [2026-08-02, 06:59:28](https://news.ycombinator.com/item?id=49141847) - [CRM: An open-source, agentic-first CRM](https://github.com/trycompai/crm)
 * [2026-08-02, 04:21:14](https://news.ycombinator.com/item?id=49141073) - [Running Kimi K3 on MI355X at Better Performance per Dollar Than B300](https://www.wafer.ai/blog/kimi-k3-mi355x)
 * [2026-08-02, 04:07:46](https://news.ycombinator.com/item?id=49141008) - [Don't credit the LLM](https://isaacsu.com/2026/08/dont-credit-the-llm/)
