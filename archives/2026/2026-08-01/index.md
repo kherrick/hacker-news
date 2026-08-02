@@ -11,6 +11,7 @@
 * [2026-08-01, 22:47:24](https://news.ycombinator.com/item?id=49139304) - [Anime User Interfaces](https://animeuserinterface.tumblr.com)
 * [2026-08-01, 22:40:22](https://news.ycombinator.com/item?id=49139232) - [AI opens new era in cognitive studies of wild primates](https://news.emory.edu/features/2026/07/ai-opens-new-era-cognitive-studies-wild-primates)
 * [2026-08-01, 22:25:12](https://news.ycombinator.com/item?id=49139102) - [From MIT: AI financial advice is surprisingly good](https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions)
+* [2026-08-01, 22:00:16](https://news.ycombinator.com/item?id=49138897) - [Atom is better than RSS, in ways that matter](https://chrismorgan.info/atom%3Erss)
 * [2026-08-01, 21:37:27](https://news.ycombinator.com/item?id=49138731) - [The 14 Steps it takes to open my office door with a new phone](https://shub.club/writings/2026/august/14-steps-to-open-a-door/)
 * [2026-08-01, 21:02:07](https://news.ycombinator.com/item?id=49138443) - [YC founder asks desperate job seekers to tattoo themselves for an interview](https://sfstandard.com/2026/07/30/lemonlime-tattoo-job-interview/)
 * [2026-08-01, 20:45:12](https://news.ycombinator.com/item?id=49138302) - [Seedance 2.5](https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5)

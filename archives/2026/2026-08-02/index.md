@@ -4,8 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-08-02](index.md)
 
+* [2026-08-02, 03:19:17](https://news.ycombinator.com/item?id=49140737) - [The teenage hitmen recruited to kill across Europe](https://www.bbc.com/news/articles/czrjyevmv61o)
+* [2026-08-02, 03:12:52](https://news.ycombinator.com/item?id=49140702) - [MkLinux and the pimped-out Apple Workgroup Server 9150](http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html)
+* [2026-08-02, 02:57:51](https://news.ycombinator.com/item?id=49140633) - [Plug-in solar is coming. Plug-in batteries should follow](https://www.regen.co.uk/insights/plug-in-solar-is-coming-plug-in-batteries-should-follow)
+* [2026-08-02, 02:51:15](https://news.ycombinator.com/item?id=49140599) - [Deep-sea vehicles spot 'alien' sharks deep beneath the waves in the Pacific](https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific#)
 * [2026-08-02, 02:26:52](https://news.ycombinator.com/item?id=49140487) - [Four Time Scales for Technology Development and Deployment](https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/)
+* [2026-08-02, 02:08:26](https://news.ycombinator.com/item?id=49140405) - [When random.bytes() runs but doesn't work](https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt)
 * [2026-08-02, 02:07:09](https://news.ycombinator.com/item?id=49140396) - [Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built](https://github.com/tom-ilan/cycloidal_gearbox)
+* [2026-08-02, 01:56:44](https://news.ycombinator.com/item?id=49140340) - [Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators](https://costperprompt.com/)
 * [2026-08-02, 01:35:51](https://news.ycombinator.com/item?id=49140218) - [Go 1.27 Interactive Tour](https://victoriametrics.com/blog/go-1-27/index.html)
 * [2026-08-02, 01:35:11](https://news.ycombinator.com/item?id=49140213) - [ASRock BC-250: Building the Budget Steam Machine](https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/)
 * [2026-08-02, 01:01:45](https://news.ycombinator.com/item?id=49140080) - [Persistent State Machines: LLM Attention with INT4 In-Memory Cells](https://zenodo.org/records/21753002)
