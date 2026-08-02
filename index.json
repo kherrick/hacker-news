@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-08-02, 11:06:07",
+      "https://news.ycombinator.com/item?id=49143289"
+    ],
+    [
+      "Generative AI floods and dilutes the market for books",
+      "https://arxiv.org/abs/2607.20349"
+    ]
+  ],
+  [
+    [
+      "2026-08-02, 10:46:28",
+      "https://news.ycombinator.com/item?id=49143188"
+    ],
+    [
+      "US Treasury undertakes historic intervention in yen market",
+      "https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8"
+    ]
+  ],
+  [
+    [
       "2026-08-02, 10:25:25",
       "https://news.ycombinator.com/item?id=49143053"
     ],
@@ -37,16 +57,6 @@
     [
       "Show HN: Bor – Open-source policy management for Linux desktops",
       "https://getbor.dev/blog/2026-08-02-bor-v080-release/"
-    ]
-  ],
-  [
-    [
-      "2026-08-02, 08:48:53",
-      "https://news.ycombinator.com/item?id=49142458"
-    ],
-    [
-      "The time filter in Google Search broke a few days ago",
-      "https://mastodon.online/@mwichary/117023736804129342"
     ]
   ],
   [
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2026-08-02, 01:26:12",
-      "https://news.ycombinator.com/item?id=49140174"
-    ],
-    [
-      "The Prospects for 128 Bit Processors ( John Mashey SGI 1995)",
-      "https://yarchive.net/comp/128bit.html"
-    ]
-  ],
-  [
-    [
       "2026-08-01, 23:44:55",
       "https://news.ycombinator.com/item?id=49139711"
     ],
@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2026-08-01, 22:00:16",
+      "https://news.ycombinator.com/item?id=49138897"
+    ],
+    [
+      "Atom is better than RSS, in ways that matter",
+      "https://chrismorgan.info/atom%3Erss"
+    ]
+  ],
+  [
+    [
       "2026-08-01, 20:45:12",
       "https://news.ycombinator.com/item?id=49138302"
     ],
@@ -221,32 +231,12 @@
   ],
   [
     [
-      "2026-08-01, 19:44:48",
-      "https://news.ycombinator.com/item?id=49137713"
-    ],
-    [
-      "But can your calculator run Linux?",
-      "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html"
-    ]
-  ],
-  [
-    [
       "2026-08-01, 18:32:20",
       "https://news.ycombinator.com/item?id=49137060"
     ],
     [
       "Postmortem for Kernel Soundness Bug #14576",
       "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/"
-    ]
-  ],
-  [
-    [
-      "2026-08-01, 18:07:07",
-      "https://news.ycombinator.com/item?id=49136821"
-    ],
-    [
-      "How Google helped destroy adoption of RSS feeds (2023)",
-      "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Maze Toys",
       "https://maze.toys"
+    ]
+  ],
+  [
+    [
+      "2026-07-30, 22:59:27",
+      "https://news.ycombinator.com/item?id=49116917"
+    ],
+    [
+      "Holocloth",
+      "https://holocloth.vercel.app"
     ]
   ],
   [
