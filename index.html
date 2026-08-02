@@ -129,111 +129,6 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="49148163">
-          <h3>
-            <a class="item" href="https://github.com/0xchasercat/draco/"
-              >Show HN: Draco – A single-binary, self-hostable Firecrawl
-              alternative in Rust</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-08-02 @ 20:48:45</span
-              ><span class="points-container"
-                >Points: <span class="points">10</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49148163"
-                  >Comments</a
-                ><span class="descendants">: 2</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                I built Draco to fix this. It’s a fast, single-binary web
-                scraper written in Rust. You point it at a URL, and it spits out
-                perfectly clean Markdown or structured JSON for LLMs.
-              </p>
-              <p>
-                The secret sauce is that it doesn't just boot a browser for
-                every request. It uses a tiered escalation engine:
-              </p>
-              <p>
-                Tier 1 (Stealth Fetch): Draco uses a custom TLS/JA4 fingerprint
-                to perfectly mimic a real browser's network signature at the
-                packet level. It turns out a lot of anti-bot walls will let you
-                right through if your handshake looks correct. In my benchmarks
-                against sites like Cloudflare and Target, Playwright ate ~500MB
-                of RAM and timed out. Draco bypassed them in under a second
-                using just 20MB of RAM.
-              </p>
-              <p>
-                Tier 2 (V8 Isolate): If it hits a React/Next.js SPA that needs
-                rendering, Draco boots an in-process V8 engine in single-digit
-                milliseconds. It hydrates the DOM and intercepts the hidden JSON
-                APIs the page is calling—giving you the raw data without the
-                overhead of a graphical browser.
-              </p>
-              <p>
-                Tier 3 (Real Browser): If it hits an absolute wall, it
-                seamlessly falls back to detecting and driving a real browser on
-                your machine.
-              </p>
-              <p>
-                I also built in all the tooling to make it a complete drop-in
-                replacement for the hosted services:
-              </p>
-              <p>
-                Daemon Mode: Run draco serve and you get a persistent HTTP
-                server with a Firecrawl-compatible REST API. You can swap out
-                your API keys and self-host immediately.
-              </p>
-              <p>
-                Built-in MCP Server: It natively exposes a Model Context
-                Protocol server so you can plug it directly into Claude Desktop
-                or your AI agents.
-              </p>
-              <p>
-                Web Search: Built-in parallel multi-engine web search (bypassing
-                the need for a Google Search API key).
-              </p>
-              <p>
-                Interact Mode: Drive a page statefully like a devtools console,
-                persisting cookies across navigations(for LLM's mainly).
-              </p>
-              <p>
-                It’s completely open source (MIT/Apache-2.0). I just wanted to
-                put this out there for anyone tired of fighting headless
-                Chromium or paying per-page scraping costs. Grab the binary and
-                throw a difficult URL at it.
-              </p>
-              <p>
-                Note that it's still a WIP so there might be some unexpected
-                breakages of uncommon sites but for the most part its quite
-                capable, it can handle cf-protected sites and heavy SPA's while
-                everything else fails partially or completely while taking
-                longer or more resources. (tested on example.com, hackernews,
-                cloudflare, glassdoor, bluff.com, target.com, stake.com and
-                thrill.com)
-              </p>
-              <p>
-                ┏━━━━━━┳━━━━━━━━━━━━━━━━┳━━━━━━━┳━━━━━━┳━━━━━━━━━━┳━━━━━━━━━┓ ┃
-                Rank ┃ Tool ┃ Score ┃ Pass ┃ Avg Time ┃ Avg RAM ┃
-                ┡━━━━━━╇━━━━━━━━━━━━━━━━╇━━━━━━━╇━━━━━━╇━━━━━━━━━━╇━━━━━━━━━┩ │
-                #1 │ Draco │ 769.7 │ 8/8 │ 3.45 │ 216.50 │ │ #2 │ Obscura │
-                384.5 │ 4/8 │ 2.68 │ 87.59 │ │ #3 │ BrowserOxide │ 373.4 │ 4/8 │
-                6.42 │ 105.95 │ │ #4 │ Playwright │ 342.2 │ 4/8 │ 1.71 │ 535.07
-                │ │ #5 │ Bouncy │ 196.6 │ 2/8 │ 0.59 │ 19.38 │
-                └──────┴────────────────┴───────┴──────┴──────────┴─────────┘
-              </p>
-              <p>
-                Repo:
-                <a href="https://github.com/0xchasercat/draco/"
-                  >https://github.com/0xchasercat/draco/</a
-                >
-              </p>
-            </div>
-          </section>
-        </section>
         <section id="49148159">
           <h3>
             <a class="item" href="https://seanhelvey.com/tools-and-their-tools/"
@@ -244,11 +139,11 @@
             <h4>
               <span>2026-08-02 @ 20:48:28</span
               ><span class="points-container"
-                >Points: <span class="points">36</span></span
+                >Points: <span class="points">41</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49148159"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 42</span></span
               >
             </h4>
           </section>
@@ -266,11 +161,11 @@
             <h4>
               <span>2026-08-02 @ 20:44:24</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">58</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49148128"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
@@ -285,7 +180,7 @@
             <h4>
               <span>2026-08-02 @ 20:33:01</span
               ><span class="points-container"
-                >Points: <span class="points">14</span></span
+                >Points: <span class="points">18</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49148048"
                   >Comments</a
@@ -312,7 +207,7 @@
             <h4>
               <span>2026-08-02 @ 20:26:47</span
               ><span class="points-container"
-                >Points: <span class="points">13</span></span
+                >Points: <span class="points">16</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49147978"
                   >Comments</a
@@ -326,18 +221,18 @@
             <a
               class="item"
               href="https://blog.semenzin.com/let-the-machines-in/"
-              >Let the Machines In</a
+              >Let the machines in</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-08-02 @ 20:17:16</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">18</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49147890"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -354,11 +249,31 @@
             <h4>
               <span>2026-08-02 @ 20:12:39</span
               ><span class="points-container"
-                >Points: <span class="points">9</span></span
+                >Points: <span class="points">10</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49147853"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49147842">
+          <h3>
+            <a class="item" href="https://github.com/paoloanzn/microcodex"
+              >Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in
+              C++ &amp;lt;1MB binary</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-08-02 @ 20:11:35</span
+              ><span class="points-container"
+                >Points: <span class="points">9</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49147842"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -375,7 +290,7 @@
             <h4>
               <span>2026-08-02 @ 20:01:37</span
               ><span class="points-container"
-                >Points: <span class="points">4</span></span
+                >Points: <span class="points">7</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49147760"
                   >Comments</a
@@ -395,33 +310,11 @@
             <h4>
               <span>2026-08-02 @ 19:42:08</span
               ><span class="points-container"
-                >Points: <span class="points">55</span></span
+                >Points: <span class="points">62</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49147622"
                   >Comments</a
-                ><span class="descendants">: 28</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49147478">
-          <h3>
-            <a
-              class="item"
-              href="https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597"
-              >German carmakers flood jobs market with managers after wielding
-              axe</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-08-02 @ 19:24:18</span
-              ><span class="points-container"
-                >Points: <span class="points">34</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49147478"
-                  >Comments</a
-                ><span class="descendants">: 47</span></span
+                ><span class="descendants">: 35</span></span
               >
             </h4>
           </section>
@@ -438,11 +331,11 @@
             <h4>
               <span>2026-08-02 @ 19:20:50</span
               ><span class="points-container"
-                >Points: <span class="points">76</span></span
+                >Points: <span class="points">80</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49147450"
                   >Comments</a
-                ><span class="descendants">: 57</span></span
+                ><span class="descendants">: 84</span></span
               >
             </h4>
           </section>
@@ -460,11 +353,11 @@
             <h4>
               <span>2026-08-02 @ 19:19:24</span
               ><span class="points-container"
-                >Points: <span class="points">93</span></span
+                >Points: <span class="points">113</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49147435"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 45</span></span
               >
             </h4>
           </section>
@@ -481,11 +374,11 @@
             <h4>
               <span>2026-08-02 @ 18:21:45</span
               ><span class="points-container"
-                >Points: <span class="points">16</span></span
+                >Points: <span class="points">20</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49146960"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -502,11 +395,11 @@
             <h4>
               <span>2026-08-02 @ 17:45:51</span
               ><span class="points-container"
-                >Points: <span class="points">28</span></span
+                >Points: <span class="points">30</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49146605"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
@@ -521,11 +414,11 @@
             <h4>
               <span>2026-08-02 @ 17:05:54</span
               ><span class="points-container"
-                >Points: <span class="points">73</span></span
+                >Points: <span class="points">77</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49146267"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
             <div class="text">
@@ -553,11 +446,11 @@
             <h4>
               <span>2026-08-02 @ 16:26:40</span
               ><span class="points-container"
-                >Points: <span class="points">131</span></span
+                >Points: <span class="points">137</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49145937"
                   >Comments</a
-                ><span class="descendants">: 33</span></span
+                ><span class="descendants">: 34</span></span
               >
             </h4>
           </section>
@@ -575,7 +468,7 @@
             <h4>
               <span>2026-08-02 @ 16:19:17</span
               ><span class="points-container"
-                >Points: <span class="points">67</span></span
+                >Points: <span class="points">71</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49145883"
                   >Comments</a
@@ -594,11 +487,11 @@
             <h4>
               <span>2026-08-02 @ 15:41:08</span
               ><span class="points-container"
-                >Points: <span class="points">177</span></span
+                >Points: <span class="points">179</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49145590"
                   >Comments</a
-                ><span class="descendants">: 106</span></span
+                ><span class="descendants">: 109</span></span
               >
             </h4>
           </section>
@@ -615,7 +508,7 @@
             <h4>
               <span>2026-08-02 @ 12:36:07</span
               ><span class="points-container"
-                >Points: <span class="points">139</span></span
+                >Points: <span class="points">141</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49143967"
                   >Comments</a
@@ -634,11 +527,11 @@
             <h4>
               <span>2026-08-02 @ 12:31:16</span
               ><span class="points-container"
-                >Points: <span class="points">133</span></span
+                >Points: <span class="points">135</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49143925"
                   >Comments</a
-                ><span class="descendants">: 58</span></span
+                ><span class="descendants">: 59</span></span
               >
             </h4>
           </section>
@@ -671,7 +564,7 @@
             <h4>
               <span>2026-08-02 @ 11:34:41</span
               ><span class="points-container"
-                >Points: <span class="points">162</span></span
+                >Points: <span class="points">166</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49143479"
                   >Comments</a
@@ -693,11 +586,11 @@
             <h4>
               <span>2026-08-02 @ 09:06:33</span
               ><span class="points-container"
-                >Points: <span class="points">160</span></span
+                >Points: <span class="points">161</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49142569"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 20</span></span
               >
             </h4>
             <div class="text">
@@ -732,11 +625,11 @@
             <h4>
               <span>2026-08-02 @ 04:05:56</span
               ><span class="points-container"
-                >Points: <span class="points">315</span></span
+                >Points: <span class="points">338</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49140998"
                   >Comments</a
-                ><span class="descendants">: 256</span></span
+                ><span class="descendants">: 271</span></span
               >
             </h4>
             <div class="text">
@@ -744,6 +637,27 @@
                 >https://xcancel.com/karpathy/status/2083749667410727319</a
               >
             </div>
+          </section>
+        </section>
+        <section id="49129676">
+          <h3>
+            <a
+              class="item"
+              href="https://hedgehogreview.com/web-features/thr/posts/read-the-novels-and-forget-everything-else"
+              >Read the Novels and Forget Everything Else</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-31 @ 23:31:28</span
+              ><span class="points-container"
+                >Points: <span class="points">8</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49129676"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
           </section>
         </section>
         <section id="49123003">
@@ -758,11 +672,11 @@
             <h4>
               <span>2026-07-31 @ 13:38:04</span
               ><span class="points-container"
-                >Points: <span class="points">81</span></span
+                >Points: <span class="points">82</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49123003"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 26</span></span
               >
             </h4>
           </section>
@@ -779,11 +693,11 @@
             <h4>
               <span>2026-07-30 @ 15:12:17</span
               ><span class="points-container"
-                >Points: <span class="points">9</span></span
+                >Points: <span class="points">11</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49111194"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -800,11 +714,11 @@
             <h4>
               <span>2026-07-29 @ 14:25:54</span
               ><span class="points-container"
-                >Points: <span class="points">95</span></span
+                >Points: <span class="points">103</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49097961"
                   >Comments</a
-                ><span class="descendants">: 43</span></span
+                ><span class="descendants">: 50</span></span
               >
             </h4>
           </section>
@@ -819,11 +733,11 @@
             <h4>
               <span>2026-07-29 @ 06:47:22</span
               ><span class="points-container"
-                >Points: <span class="points">107</span></span
+                >Points: <span class="points">108</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49094151"
                   >Comments</a
-                ><span class="descendants">: 35</span></span
+                ><span class="descendants">: 36</span></span
               >
             </h4>
           </section>
@@ -838,7 +752,7 @@
             <h4>
               <span>2026-07-29 @ 05:53:00</span
               ><span class="points-container"
-                >Points: <span class="points">130</span></span
+                >Points: <span class="points">131</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49093845"
                   >Comments</a
@@ -859,11 +773,11 @@
             <h4>
               <span>2026-07-28 @ 14:21:10</span
               ><span class="points-container"
-                >Points: <span class="points">63</span></span
+                >Points: <span class="points">71</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49084324"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
