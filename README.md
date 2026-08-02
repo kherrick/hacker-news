@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-02, 18:59:05](https://news.ycombinator.com/item?id=49147263) - [SwiftUI After 7 Years: A Story of Mediocrity](https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/)
 * [2026-08-02, 18:52:22](https://news.ycombinator.com/item?id=49147209) - [Microsoft raises Xbox prices by up to 43%](https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros)
 * [2026-08-02, 17:45:51](https://news.ycombinator.com/item?id=49146605) - [Harvesting SSH Credentials: Insights from My Honeypot Network](https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/)
 * [2026-08-02, 17:05:54](https://news.ycombinator.com/item?id=49146267) - [Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark](https://github.com/graham33/nixos-dgx-spark)
@@ -15,7 +16,6 @@
 * [2026-08-02, 11:23:56](https://news.ycombinator.com/item?id=49143412) - [Show HN: Fuse – statically typed functional programming language](https://fuselang.org)
 * [2026-08-02, 10:33:26](https://news.ycombinator.com/item?id=49143096) - [Rust All Hands 2026 Retrospective](https://blog.rust-lang.org/inside-rust/2026/07/31/all-hands-2026-retrospective/)
 * [2026-08-02, 10:18:24](https://news.ycombinator.com/item?id=49143001) - [Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge](https://publicdomainreview.org/essay/ars-notoria/)
-* [2026-08-02, 09:48:08](https://news.ycombinator.com/item?id=49142794) - [Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores](https://github.com/syncular/syncular)
 * [2026-08-02, 09:06:33](https://news.ycombinator.com/item?id=49142569) - [Show HN: Bor – Open-source policy management for Linux desktops](https://getbor.dev/blog/2026-08-02-bor-v080-release/)
 * [2026-08-02, 06:56:38](https://news.ycombinator.com/item?id=49141828) - [ESP32-C3 SuperMini antenna modification](https://peterneufeld.wordpress.com/2025/03/04/esp32-c3-supermini-antenna-modification/)
 * [2026-08-02, 04:05:56](https://news.ycombinator.com/item?id=49140998) - [Karpathy’s Pelican](https://twitter.com/karpathy/status/2083749667410727319)
