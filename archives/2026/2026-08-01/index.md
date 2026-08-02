@@ -9,6 +9,7 @@
 * [2026-08-01, 22:55:52](https://news.ycombinator.com/item?id=49139383) - [Unraveling the mysteries of habit formation](https://www.kyoto-u.ac.jp/en/research-news/2026-07-28)
 * [2026-08-01, 22:52:44](https://news.ycombinator.com/item?id=49139352) - [Morph (YC S23) Is Hiring Member of Technical Stuff](https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff)
 * [2026-08-01, 22:47:24](https://news.ycombinator.com/item?id=49139304) - [Anime User Interfaces](https://animeuserinterface.tumblr.com)
+* [2026-08-01, 22:40:22](https://news.ycombinator.com/item?id=49139232) - [AI opens new era in cognitive studies of wild primates](https://news.emory.edu/features/2026/07/ai-opens-new-era-cognitive-studies-wild-primates)
 * [2026-08-01, 22:25:12](https://news.ycombinator.com/item?id=49139102) - [From MIT: AI financial advice is surprisingly good](https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions)
 * [2026-08-01, 21:37:27](https://news.ycombinator.com/item?id=49138731) - [The 14 Steps it takes to open my office door with a new phone](https://shub.club/writings/2026/august/14-steps-to-open-a-door/)
 * [2026-08-01, 21:02:07](https://news.ycombinator.com/item?id=49138443) - [YC founder asks desperate job seekers to tattoo themselves for an interview](https://sfstandard.com/2026/07/30/lemonlime-tattoo-job-interview/)

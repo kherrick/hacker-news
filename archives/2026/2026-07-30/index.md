@@ -45,6 +45,7 @@
 * [2026-07-30, 14:29:27](https://news.ycombinator.com/item?id=49110547) - [Hacker Public Radio](https://hackerpublicradio.org/)
 * [2026-07-30, 14:18:52](https://news.ycombinator.com/item?id=49110389) - [Git worktrees are not an isolation boundary for coding agents](https://fletch.sh/blog/git-worktrees-vs-clones-for-ai-agents/)
 * [2026-07-30, 14:15:19](https://news.ycombinator.com/item?id=49110348) - [Why DNA damage from smoking and UV rays cause cancer in some but not others](https://www.cam.ac.uk/research/news/study-reveals-why-dna-damage-from-smoking-and-uv-rays-may-cause-cancer-in-some-people-but-not-others)
+* [2026-07-30, 14:12:44](https://news.ycombinator.com/item?id=49110319) - [China begins producing advanced chipmaking deep-ultraviolet lithography machines](https://www.reuters.com/world/china/china-starts-production-home-grown-immersion-duv-chipmaking-tools-source-2026-07-28/)
 * [2026-07-30, 14:11:42](https://news.ycombinator.com/item?id=49110308) - [The Lost Civic Life of Movie Rental Stores](https://thereader.mitpress.mit.edu/the-lost-civic-life-of-movie-rental-stores/)
 * [2026-07-30, 14:04:18](https://news.ycombinator.com/item?id=49110215) - [Show HN: I audited my AI leaderboard scale – every score dropped 6-15 points](https://agiranker.com/)
 * [2026-07-30, 13:55:09](https://news.ycombinator.com/item?id=49110085) - [Europe's fires are just the start](https://economist.com/leaders/2026/07/28/europes-fires-are-just-the-start)
