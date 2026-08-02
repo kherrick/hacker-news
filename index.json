@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-08-02, 17:03:02",
+      "https://news.ycombinator.com/item?id=49146238"
+    ],
+    [
+      "Pushes to arch AUR are suspendended right now.",
+      "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/YPJ3FQYJTJXXY3RUXCYLMHUKHLIUNVFF/"
+    ]
+  ],
+  [
+    [
       "2026-08-02, 16:50:01",
       "https://news.ycombinator.com/item?id=49146122"
     ],
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2026-08-02, 10:45:11",
-      "https://news.ycombinator.com/item?id=49143179"
-    ],
-    [
-      "Show HN: Katharos Functional programming and CSP-style concurrency for Python",
-      "https://github.com/kamalfarahani/katharos"
-    ]
-  ],
-  [
-    [
       "2026-08-02, 10:33:26",
       "https://news.ycombinator.com/item?id=49143096"
     ],
@@ -177,16 +177,6 @@
     [
       "ESP32-C3 SuperMini antenna modification",
       "https://peterneufeld.wordpress.com/2025/03/04/esp32-c3-supermini-antenna-modification/"
-    ]
-  ],
-  [
-    [
-      "2026-08-02, 04:21:14",
-      "https://news.ycombinator.com/item?id=49141073"
-    ],
-    [
-      "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
-      "https://www.wafer.ai/blog/kimi-k3-mi355x"
     ]
   ],
   [
@@ -255,7 +245,7 @@
       "https://news.ycombinator.com/item?id=49123003"
     ],
     [
-      "When transit passes were designed by hand",
+      "When transit passes were designed by hand (2022)",
       "https://letterformarchive.org/news/milwaukee-transit-passes/"
     ]
   ],
@@ -267,6 +257,16 @@
     [
       "Holocloth",
       "https://holocloth.vercel.app"
+    ]
+  ],
+  [
+    [
+      "2026-07-29, 14:25:54",
+      "https://news.ycombinator.com/item?id=49097961"
+    ],
+    [
+      "Developers are attached to tools because tools encode trust",
+      "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/"
     ]
   ],
   [
