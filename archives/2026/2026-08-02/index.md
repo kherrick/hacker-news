@@ -6,9 +6,13 @@
 
 * [2026-08-02, 20:48:45](https://news.ycombinator.com/item?id=49148163) - [Show HN: Draco – A single-binary, self-hostable Firecrawl alternative in Rust](https://github.com/0xchasercat/draco/)
 * [2026-08-02, 20:48:28](https://news.ycombinator.com/item?id=49148159) - [AI Mania: From Tulips to Tokens](https://seanhelvey.com/tools-and-their-tools/)
+* [2026-08-02, 20:44:24](https://news.ycombinator.com/item?id=49148128) - [EU Age Verification Project Mandates Hardware-Bound Attestation](https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/)
 * [2026-08-02, 20:36:21](https://news.ycombinator.com/item?id=49148070) - [Anthropic's Fever Dream: Claude's package that stole real keys](https://www.aikido.dev/blog/anthropic-rogue-agents-package-stole-keys)
+* [2026-08-02, 20:33:01](https://news.ycombinator.com/item?id=49148048) - [Show HN: Make your Framework 12 sound like a creaky door](https://github.com/ArcaEge/creakwork12)
 * [2026-08-02, 20:26:47](https://news.ycombinator.com/item?id=49147978) - [Sharing an X11 Server Across Hosts with FamilyWild](https://dobrowolski.dev/article/sharing-an-x-server-across-hosts-with-familywild/)
 * [2026-08-02, 20:17:16](https://news.ycombinator.com/item?id=49147890) - [Let the Machines In](https://blog.semenzin.com/let-the-machines-in/)
+* [2026-08-02, 20:12:39](https://news.ycombinator.com/item?id=49147853) - [Adding Go's Defer to the TypeScript Compiler](https://healeycodes.com/adding-defer-to-the-typescript-compiler)
+* [2026-08-02, 20:01:37](https://news.ycombinator.com/item?id=49147760) - [TinyNES Review – A Super Niche NES Console](https://blog.lon.tv/2023/02/05/tinynes-review-a-super-niche-nes-console/)
 * [2026-08-02, 19:42:08](https://news.ycombinator.com/item?id=49147622) - [My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"](https://frogs.vaguespac.es/)
 * [2026-08-02, 19:40:19](https://news.ycombinator.com/item?id=49147606) - [EU rules on AI models become enforceable. What's going to change?](https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change)
 * [2026-08-02, 19:24:18](https://news.ycombinator.com/item?id=49147478) - [German carmakers flood jobs market with managers after wielding axe](https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597)
