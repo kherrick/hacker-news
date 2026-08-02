@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-02](index.md)
 
+* [2026-08-02, 14:51:18](https://news.ycombinator.com/item?id=49145201) - [Ursula K. Le Guin: A Rant About \"Technology\" (2005)](https://www.ursulakleguin.com/a-rant-about-technology)
 * [2026-08-02, 14:17:43](https://news.ycombinator.com/item?id=49144946) - [The Seinfeld Chronicles: Digital Edition](https://seinfeld.visualisingdata.com/)
 * [2026-08-02, 13:05:06](https://news.ycombinator.com/item?id=49144273) - [Has the New Cocaine Arrived?](https://playboy.substack.com/p/has-the-new-cocaine-finally-arrived)
 * [2026-08-02, 12:36:07](https://news.ycombinator.com/item?id=49143967) - [Twenty Years of RISC OS Open](https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open)
