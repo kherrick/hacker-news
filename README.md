@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-02, 13:05:06](https://news.ycombinator.com/item?id=49144273) - [Has the New Cocaine Arrived?](https://playboy.substack.com/p/has-the-new-cocaine-finally-arrived)
 * [2026-08-02, 12:36:07](https://news.ycombinator.com/item?id=49143967) - [Twenty Years of RISC OS Open](https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open)
 * [2026-08-02, 12:01:37](https://news.ycombinator.com/item?id=49143688) - [An internal OpenAI Astra model solved 10 major open math and CS problems](https://twitter.com/polynoamial/status/2083467194663571701)
 * [2026-08-02, 12:01:00](https://news.ycombinator.com/item?id=49143683) - [Great Question (YC W21) Is Hiring Senior Demand Gen Manager](https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager)
-* [2026-08-02, 11:53:52](https://news.ycombinator.com/item?id=49143630) - [Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers](https://website-auditor.io/ai-visibility-index)
 * [2026-08-02, 11:34:41](https://news.ycombinator.com/item?id=49143479) - [Meshdiff – visually compare two STL versions in the browser, client-side](https://meshdiff.com/)
 * [2026-08-02, 11:24:20](https://news.ycombinator.com/item?id=49143414) - [Wikimedia Foundation refuses union recognition, hires union-busting law firm](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes)
 * [2026-08-02, 11:23:56](https://news.ycombinator.com/item?id=49143412) - [Show HN: Fuse – statically typed functional programming language](https://fuselang.org)
@@ -14,6 +14,7 @@
 * [2026-08-02, 09:06:33](https://news.ycombinator.com/item?id=49142569) - [Show HN: Bor – Open-source policy management for Linux desktops](https://getbor.dev/blog/2026-08-02-bor-v080-release/)
 * [2026-08-02, 07:58:30](https://news.ycombinator.com/item?id=49142130) - [Cyberscript](https://cyberscript.dev)
 * [2026-08-02, 07:17:49](https://news.ycombinator.com/item?id=49141937) - [IBM i (OS/400) the Database Operating System](https://osadmins.com/en/ibm-i-os-400-the-database-operating-system/)
+* [2026-08-02, 06:56:38](https://news.ycombinator.com/item?id=49141828) - [ESP32-C3 SuperMini antenna modification](https://peterneufeld.wordpress.com/2025/03/04/esp32-c3-supermini-antenna-modification/)
 * [2026-08-02, 04:21:14](https://news.ycombinator.com/item?id=49141073) - [Running Kimi K3 on MI355X at Better Performance per Dollar Than B300](https://www.wafer.ai/blog/kimi-k3-mi355x)
 * [2026-08-02, 03:12:52](https://news.ycombinator.com/item?id=49140702) - [MkLinux and the pimped-out Apple Workgroup Server 9150](http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html)
 * [2026-08-02, 02:51:15](https://news.ycombinator.com/item?id=49140599) - [Deep-sea vehicles spot 'alien' sharks deep beneath the waves in the Pacific](https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific#)
@@ -25,11 +26,10 @@
 * [2026-08-01, 22:00:16](https://news.ycombinator.com/item?id=49138897) - [Atom is better than RSS, in ways that matter](https://chrismorgan.info/atom%3Erss)
 * [2026-08-01, 20:45:12](https://news.ycombinator.com/item?id=49138302) - [Seedance 2.5](https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5)
 * [2026-08-01, 20:33:27](https://news.ycombinator.com/item?id=49138188) - [Diátaxis](https://diataxis.fr/)
-* [2026-08-01, 18:32:20](https://news.ycombinator.com/item?id=49137060) - [Postmortem for Kernel Soundness Bug #14576](https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/)
 * [2026-07-31, 15:01:07](https://news.ycombinator.com/item?id=49124051) - [A big win for Android interoperability](https://www.openhomefoundation.org/blog/a-big-win-for-android-interoperability/)
 * [2026-07-30, 22:59:27](https://news.ycombinator.com/item?id=49116917) - [Holocloth](https://holocloth.vercel.app)
 * [2026-07-30, 13:31:56](https://news.ycombinator.com/item?id=49109759) - [Elena, a library for building Progressive Web Components](https://elenajs.com/)
-* [2026-07-29, 10:54:07](https://news.ycombinator.com/item?id=49095763) - [The Vanishing Page: AI Firms Scan Then Destroy Rare Book Editions](https://dallasexpress.com/national/the-vanishing-page-ai-firms-scan-then-destroy-rare-book-editions/)
+* [2026-07-29, 05:53:00](https://news.ycombinator.com/item?id=49093845) - [Folding Paper Globes](https://foldingglobes.com/globes)
 
 ## [Archives](archives/index.md)
 

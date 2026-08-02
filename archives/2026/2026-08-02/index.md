@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-02](index.md)
 
+* [2026-08-02, 13:05:06](https://news.ycombinator.com/item?id=49144273) - [Has the New Cocaine Arrived?](https://playboy.substack.com/p/has-the-new-cocaine-finally-arrived)
 * [2026-08-02, 12:36:07](https://news.ycombinator.com/item?id=49143967) - [Twenty Years of RISC OS Open](https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open)
 * [2026-08-02, 12:01:37](https://news.ycombinator.com/item?id=49143688) - [An internal OpenAI Astra model solved 10 major open math and CS problems](https://twitter.com/polynoamial/status/2083467194663571701)
 * [2026-08-02, 12:01:00](https://news.ycombinator.com/item?id=49143683) - [Great Question (YC W21) Is Hiring Senior Demand Gen Manager](https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager)
@@ -29,6 +30,7 @@
 * [2026-08-02, 07:06:18](https://news.ycombinator.com/item?id=49141877) - [Australia's social media ban has failed](https://www.reuters.com/legal/litigation/australia-defends-teen-social-media-ban-after-study-shows-most-still-online-2026-08-01/)
 * [2026-08-02, 06:59:36](https://news.ycombinator.com/item?id=49141849) - [Agent4Lease](https://agent4lease.com/)
 * [2026-08-02, 06:59:28](https://news.ycombinator.com/item?id=49141847) - [CRM: An open-source, agentic-first CRM](https://github.com/trycompai/crm)
+* [2026-08-02, 06:56:38](https://news.ycombinator.com/item?id=49141828) - [ESP32-C3 SuperMini antenna modification](https://peterneufeld.wordpress.com/2025/03/04/esp32-c3-supermini-antenna-modification/)
 * [2026-08-02, 04:21:14](https://news.ycombinator.com/item?id=49141073) - [Running Kimi K3 on MI355X at Better Performance per Dollar Than B300](https://www.wafer.ai/blog/kimi-k3-mi355x)
 * [2026-08-02, 04:07:46](https://news.ycombinator.com/item?id=49141008) - [Don't credit the LLM](https://isaacsu.com/2026/08/dont-credit-the-llm/)
 * [2026-08-02, 03:19:17](https://news.ycombinator.com/item?id=49140737) - [The teenage hitmen recruited to kill across Europe](https://www.bbc.com/news/articles/czrjyevmv61o)
