@@ -1,12 +1,62 @@
 [
   [
     [
-      "2026-08-02, 07:57:52",
-      "https://news.ycombinator.com/item?id=49142128"
+      "2026-08-02, 09:48:08",
+      "https://news.ycombinator.com/item?id=49142794"
     ],
     [
-      "Nerd culture is murdering intellectuals",
-      "https://www.theintrinsicperspective.com/p/nerd-culture-is-murdering-intellectuals"
+      "Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores",
+      "https://github.com/syncular/syncular"
+    ]
+  ],
+  [
+    [
+      "2026-08-02, 08:48:53",
+      "https://news.ycombinator.com/item?id=49142458"
+    ],
+    [
+      "The time filter in Google Search broke a few days ago",
+      "https://mastodon.online/@mwichary/117023736804129342"
+    ]
+  ],
+  [
+    [
+      "2026-08-02, 07:58:30",
+      "https://news.ycombinator.com/item?id=49142130"
+    ],
+    [
+      "Cyberscript",
+      "https://cyberscript.dev"
+    ]
+  ],
+  [
+    [
+      "2026-08-02, 07:47:26",
+      "https://news.ycombinator.com/item?id=49142083"
+    ],
+    [
+      "Mathematics Without Mathematicians",
+      "https://borretti.me/article/mathematics-without-mathematicians"
+    ]
+  ],
+  [
+    [
+      "2026-08-02, 07:25:00",
+      "https://news.ycombinator.com/item?id=49141967"
+    ],
+    [
+      "Police in the US are making their own true crime podcasts",
+      "https://www.bbc.com/news/articles/cpw9q0ekd9eo"
+    ]
+  ],
+  [
+    [
+      "2026-08-02, 07:17:49",
+      "https://news.ycombinator.com/item?id=49141937"
+    ],
+    [
+      "IBM i (OS/400) the Database Operating System",
+      "https://osadmins.com/en/ibm-i-os-400-the-database-operating-system/"
     ]
   ],
   [
@@ -17,6 +67,16 @@
     [
       "I don't recommend Tailwind CSS",
       "https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/"
+    ]
+  ],
+  [
+    [
+      "2026-08-02, 06:59:36",
+      "https://news.ycombinator.com/item?id=49141849"
+    ],
+    [
+      "Agent4Lease",
+      "https://agent4lease.com/"
     ]
   ],
   [
@@ -47,16 +107,6 @@
     [
       "Deep-sea vehicles spot 'alien' sharks deep beneath the waves in the Pacific",
       "https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific#"
-    ]
-  ],
-  [
-    [
-      "2026-08-02, 02:26:52",
-      "https://news.ycombinator.com/item?id=49140487"
-    ],
-    [
-      "Four Time Scales for Technology Development and Deployment",
-      "https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/"
     ]
   ],
   [
@@ -97,6 +147,16 @@
     [
       "ASRock BC-250: Building the Budget Steam Machine",
       "https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/"
+    ]
+  ],
+  [
+    [
+      "2026-08-02, 01:26:12",
+      "https://news.ycombinator.com/item?id=49140174"
+    ],
+    [
+      "The Prospects for 128 Bit Processors ( John Mashey SGI 1995)",
+      "https://yarchive.net/comp/128bit.html"
     ]
   ],
   [
@@ -201,42 +261,12 @@
   ],
   [
     [
-      "2026-08-01, 17:56:41",
-      "https://news.ycombinator.com/item?id=49136736"
-    ],
-    [
-      "NetBSD 11.0",
-      "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released"
-    ]
-  ],
-  [
-    [
-      "2026-08-01, 15:23:15",
-      "https://news.ycombinator.com/item?id=49135245"
-    ],
-    [
-      "Explorative modeling: Train on the best of K guesses",
-      "https://alexiglad.github.io/blog/2026/explorative_modeling/"
-    ]
-  ],
-  [
-    [
       "2026-07-31, 15:01:07",
       "https://news.ycombinator.com/item?id=49124051"
     ],
     [
       "A big win for Android interoperability",
       "https://www.openhomefoundation.org/blog/a-big-win-for-android-interoperability/"
-    ]
-  ],
-  [
-    [
-      "2026-07-30, 23:46:05",
-      "https://news.ycombinator.com/item?id=49117303"
-    ],
-    [
-      "We accidentally built an LLVM compiler for Jax",
-      "https://iza.ac/posts/2026/07/accidental-llvm-compiler-for-jax/"
     ]
   ],
   [
@@ -267,36 +297,6 @@
     [
       "Instrumenting my espresso machine with OpenTelemetry",
       "https://clickhouse.com/blog/espresso-machine-observability-with-otel"
-    ]
-  ],
-  [
-    [
-      "2026-07-28, 21:38:14",
-      "https://news.ycombinator.com/item?id=49090268"
-    ],
-    [
-      "The Cipher Behind QSYRUPWD: Reconstructing IBM i Password Hashes",
-      "https://blog.silentsignal.eu/2026/07/28/the-cipher-behind-qsyrupwd-reconstructing-ibm-i-password-hashes/"
-    ]
-  ],
-  [
-    [
-      "2026-07-28, 15:06:38",
-      "https://news.ycombinator.com/item?id=49085065"
-    ],
-    [
-      "Glyphs 4 – the leading Mac font editor",
-      "https://glyphsapp.com"
-    ]
-  ],
-  [
-    [
-      "2026-07-28, 10:30:02",
-      "https://news.ycombinator.com/item?id=49081851"
-    ],
-    [
-      "Nyctography: A substituton cypher by Lewis Carroll",
-      "https://en.wikipedia.org/wiki/Nyctography"
     ]
   ]
 ]
