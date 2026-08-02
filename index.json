@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-02, 07:06:18",
+      "https://news.ycombinator.com/item?id=49141877"
+    ],
+    [
+      "Australia's social media ban has failed",
+      "https://www.reuters.com/legal/litigation/australia-defends-teen-social-media-ban-after-study-shows-most-still-online-2026-08-01/"
+    ]
+  ],
+  [
+    [
       "2026-08-02, 04:21:14",
       "https://news.ycombinator.com/item?id=49141073"
     ],
@@ -17,16 +27,6 @@
     [
       "MkLinux and the pimped-out Apple Workgroup Server 9150",
       "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html"
-    ]
-  ],
-  [
-    [
-      "2026-08-02, 03:10:00",
-      "https://news.ycombinator.com/item?id=49140696"
-    ],
-    [
-      "Linux desktop market share has hit over 10% in North America",
-      "https://old.reddit.com/r/linux/comments/1vcpk8i/linux_desktop_market_share_has_hit_over_10_in/"
     ]
   ],
   [
@@ -67,16 +67,6 @@
     [
       "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
       "https://github.com/tom-ilan/cycloidal_gearbox"
-    ]
-  ],
-  [
-    [
-      "2026-08-02, 01:56:44",
-      "https://news.ycombinator.com/item?id=49140340"
-    ],
-    [
-      "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
-      "https://costperprompt.com/"
     ]
   ],
   [
@@ -181,16 +171,6 @@
   ],
   [
     [
-      "2026-08-01, 18:50:17",
-      "https://news.ycombinator.com/item?id=49137228"
-    ],
-    [
-      "CISA Alert: Water Sector PLC Targeting",
-      "https://censys.com/blog/cisa-alert-water-tower-plc-targeting/"
-    ]
-  ],
-  [
-    [
       "2026-08-01, 18:32:20",
       "https://news.ycombinator.com/item?id=49137060"
     ],
@@ -241,6 +221,16 @@
   ],
   [
     [
+      "2026-07-31, 15:01:07",
+      "https://news.ycombinator.com/item?id=49124051"
+    ],
+    [
+      "A big win for Android interoperability",
+      "https://www.openhomefoundation.org/blog/a-big-win-for-android-interoperability/"
+    ]
+  ],
+  [
+    [
       "2026-07-30, 23:46:05",
       "https://news.ycombinator.com/item?id=49117303"
     ],
@@ -277,6 +267,16 @@
     [
       "The Cipher Behind QSYRUPWD: Reconstructing IBM i Password Hashes",
       "https://blog.silentsignal.eu/2026/07/28/the-cipher-behind-qsyrupwd-reconstructing-ibm-i-password-hashes/"
+    ]
+  ],
+  [
+    [
+      "2026-07-28, 17:52:00",
+      "https://news.ycombinator.com/item?id=49087499"
+    ],
+    [
+      "Linux on ESP32",
+      "https://github.com/GrieferPig/esp32-s31-linux"
     ]
   ],
   [
