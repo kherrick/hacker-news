@@ -73,6 +73,7 @@
 * [2026-07-28, 13:12:01](https://news.ycombinator.com/item?id=49083314) - [New HIV vaccine shows unprecedented success in preclinical study](https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/)
 * [2026-07-28, 13:07:14](https://news.ycombinator.com/item?id=49083239) - [Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code](https://github.com/schildep/verified-3d-mesh-intersection)
 * [2026-07-28, 13:04:51](https://news.ycombinator.com/item?id=49083207) - [The First Idempotency Key](https://hatchet.run/blog/first-idempotency-key)
+* [2026-07-28, 13:00:56](https://news.ycombinator.com/item?id=49083146) - [Turtle-inspired interactive Python project](https://www.codembark.com/projects/fv20lz9map/spider-web-drawing)
 * [2026-07-28, 13:00:45](https://news.ycombinator.com/item?id=49083141) - [AWS Secrets Manager Terraform: Least-Privilege Access](https://blog.victorsilva.com.uy/aws-secrets-manager-terraform-least-privilege/)
 * [2026-07-28, 13:00:12](https://news.ycombinator.com/item?id=49083132) - [What AI developers could learn from Charles Bukowski?](https://galjot.si/what-ai-developers-could-learn-from-charles-bukowski)
 * [2026-07-28, 12:34:07](https://news.ycombinator.com/item?id=49082857) - [I'm 38 and I Can't Support Myself Anymore](https://itsmevox.substack.com/p/im-38-and-i-cant-support-myself-anymore)
