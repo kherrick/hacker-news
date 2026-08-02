@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-08-02](index.md)
 
+* [2026-08-02, 19:40:19](https://news.ycombinator.com/item?id=49147606) - [EU rules on AI models become enforceable. What's going to change?](https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change)
+* [2026-08-02, 19:24:18](https://news.ycombinator.com/item?id=49147478) - [German carmakers flood jobs market with managers after wielding axe](https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597)
+* [2026-08-02, 19:19:24](https://news.ycombinator.com/item?id=49147435) - ['Crush this lady': how eBay harassment campaign led to $56M payout](https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2)
 * [2026-08-02, 18:59:05](https://news.ycombinator.com/item?id=49147263) - [SwiftUI After 7 Years: A Story of Mediocrity](https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/)
 * [2026-08-02, 18:52:22](https://news.ycombinator.com/item?id=49147209) - [Microsoft raises Xbox prices by up to 43%](https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros)
 * [2026-08-02, 17:45:51](https://news.ycombinator.com/item?id=49146605) - [Harvesting SSH Credentials: Insights from My Honeypot Network](https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/)
