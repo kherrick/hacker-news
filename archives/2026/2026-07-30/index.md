@@ -39,6 +39,7 @@
 * [2026-07-30, 15:23:09](https://news.ycombinator.com/item?id=49111312) - [Show HN: I think I made my own web version of minimalistic audacity](https://github.com/askpext/HERTZ)
 * [2026-07-30, 15:22:46](https://news.ycombinator.com/item?id=49111305) - [Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up](https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/)
 * [2026-07-30, 15:15:48](https://news.ycombinator.com/item?id=49111237) - [Gemini Robotics 2 brings whole body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/)
+* [2026-07-30, 15:12:17](https://news.ycombinator.com/item?id=49111194) - [Schmitt Trigger: Robust Comparator Design with Hysteresis](https://www.wevolver.com/article/schmitt-trigger-robust-comparator-design-with-hysteresis)
 * [2026-07-30, 15:10:27](https://news.ycombinator.com/item?id=49111176) - [The Economic Benefit of Refactoring](https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html)
 * [2026-07-30, 14:58:59](https://news.ycombinator.com/item?id=49111019) - [Show HN: Claude-account – switch Claude Code accounts without logging in again](https://github.com/hamzarehmandeveloper/claude-account)
 * [2026-07-30, 14:58:07](https://news.ycombinator.com/item?id=49111006) - [Paging Through a Parquet File in DuckDB: File_row_number or Offset?](https://rusty.today/blog/paging-parquet-duckdb-file-row-number-vs-offset/)
