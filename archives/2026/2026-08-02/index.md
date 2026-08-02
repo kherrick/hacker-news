@@ -12,6 +12,7 @@
 * [2026-08-02, 20:26:47](https://news.ycombinator.com/item?id=49147978) - [Sharing an X11 Server Across Hosts with FamilyWild](https://dobrowolski.dev/article/sharing-an-x-server-across-hosts-with-familywild/)
 * [2026-08-02, 20:17:16](https://news.ycombinator.com/item?id=49147890) - [Let the Machines In](https://blog.semenzin.com/let-the-machines-in/)
 * [2026-08-02, 20:12:39](https://news.ycombinator.com/item?id=49147853) - [Adding Go's Defer to the TypeScript Compiler](https://healeycodes.com/adding-defer-to-the-typescript-compiler)
+* [2026-08-02, 20:11:35](https://news.ycombinator.com/item?id=49147842) - [Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary](https://github.com/paoloanzn/microcodex)
 * [2026-08-02, 20:01:37](https://news.ycombinator.com/item?id=49147760) - [TinyNES Review – A Super Niche NES Console](https://blog.lon.tv/2023/02/05/tinynes-review-a-super-niche-nes-console/)
 * [2026-08-02, 19:42:08](https://news.ycombinator.com/item?id=49147622) - [My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"](https://frogs.vaguespac.es/)
 * [2026-08-02, 19:40:19](https://news.ycombinator.com/item?id=49147606) - [EU rules on AI models become enforceable. What's going to change?](https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change)
