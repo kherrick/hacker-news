@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-02, 14:51:18",
+      "https://news.ycombinator.com/item?id=49145201"
+    ],
+    [
+      "Ursula K. Le Guin: A Rant About \"Technology\" (2005)",
+      "https://www.ursulakleguin.com/a-rant-about-technology"
+    ]
+  ],
+  [
+    [
       "2026-08-02, 14:17:43",
       "https://news.ycombinator.com/item?id=49144946"
     ],
@@ -105,7 +115,7 @@
       "https://news.ycombinator.com/item?id=49143096"
     ],
     [
-      "(Rust) All-Hands 2026 Retrospective",
+      "Rust All Hands 2026 Retrospective",
       "https://blog.rust-lang.org/inside-rust/2026/07/31/all-hands-2026-retrospective/"
     ]
   ],
@@ -147,16 +157,6 @@
     [
       "Cyberscript",
       "https://cyberscript.dev"
-    ]
-  ],
-  [
-    [
-      "2026-08-02, 07:17:49",
-      "https://news.ycombinator.com/item?id=49141937"
-    ],
-    [
-      "IBM i (OS/400) the Database Operating System",
-      "https://osadmins.com/en/ibm-i-os-400-the-database-operating-system/"
     ]
   ],
   [
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2026-07-31, 15:01:07",
-      "https://news.ycombinator.com/item?id=49124051"
-    ],
-    [
-      "A big win for Android interoperability",
-      "https://www.openhomefoundation.org/blog/a-big-win-for-android-interoperability/"
-    ]
-  ],
-  [
-    [
       "2026-07-30, 22:59:27",
       "https://news.ycombinator.com/item?id=49116917"
     ],
     [
       "Holocloth",
       "https://holocloth.vercel.app"
+    ]
+  ],
+  [
+    [
+      "2026-07-30, 13:31:56",
+      "https://news.ycombinator.com/item?id=49109759"
+    ],
+    [
+      "Elena, a library for building Progressive Web Components",
+      "https://elenajs.com/"
     ]
   ],
   [
