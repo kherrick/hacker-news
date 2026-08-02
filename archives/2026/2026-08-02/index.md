@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-02](index.md)
 
+* [2026-08-02, 14:17:43](https://news.ycombinator.com/item?id=49144946) - [The Seinfeld Chronicles: Digital Edition](https://seinfeld.visualisingdata.com/)
 * [2026-08-02, 13:05:06](https://news.ycombinator.com/item?id=49144273) - [Has the New Cocaine Arrived?](https://playboy.substack.com/p/has-the-new-cocaine-finally-arrived)
 * [2026-08-02, 12:36:07](https://news.ycombinator.com/item?id=49143967) - [Twenty Years of RISC OS Open](https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open)
 * [2026-08-02, 12:31:16](https://news.ycombinator.com/item?id=49143925) - [F*: A general-purpose proof-oriented programming language](https://fstar-lang.org/)
@@ -17,6 +18,7 @@
 * [2026-08-02, 11:06:07](https://news.ycombinator.com/item?id=49143289) - [Generative AI floods and dilutes the market for books](https://arxiv.org/abs/2607.20349)
 * [2026-08-02, 10:46:28](https://news.ycombinator.com/item?id=49143188) - [US Treasury undertakes historic intervention in yen market](https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8)
 * [2026-08-02, 10:45:11](https://news.ycombinator.com/item?id=49143179) - [Show HN: Katharos Functional programming and CSP-style concurrency for Python](https://github.com/kamalfarahani/katharos)
+* [2026-08-02, 10:33:26](https://news.ycombinator.com/item?id=49143096) - [(Rust) All-Hands 2026 Retrospective](https://blog.rust-lang.org/inside-rust/2026/07/31/all-hands-2026-retrospective/)
 * [2026-08-02, 10:25:25](https://news.ycombinator.com/item?id=49143053) - [Is the Industrial Revolution a good precedent for explosive growth today?](https://mattsclancy.github.io/2026/07/27/industrial-revolution-growth.html)
 * [2026-08-02, 10:18:24](https://news.ycombinator.com/item?id=49143001) - [Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge](https://publicdomainreview.org/essay/ars-notoria/)
 * [2026-08-02, 09:48:08](https://news.ycombinator.com/item?id=49142794) - [Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores](https://github.com/syncular/syncular)
