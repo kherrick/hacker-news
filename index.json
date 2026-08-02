@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2026-08-02, 18:59:05",
-      "https://news.ycombinator.com/item?id=49147263"
-    ],
-    [
-      "SwiftUI After 7 Years",
-      "https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/"
-    ]
-  ],
-  [
-    [
       "2026-08-02, 17:45:51",
       "https://news.ycombinator.com/item?id=49146605"
     ],
@@ -161,16 +151,6 @@
   ],
   [
     [
-      "2026-08-02, 10:33:26",
-      "https://news.ycombinator.com/item?id=49143096"
-    ],
-    [
-      "Rust All Hands 2026 Retrospective",
-      "https://blog.rust-lang.org/inside-rust/2026/07/31/all-hands-2026-retrospective/"
-    ]
-  ],
-  [
-    [
       "2026-08-02, 10:18:24",
       "https://news.ycombinator.com/item?id=49143001"
     ],
@@ -221,6 +201,16 @@
   ],
   [
     [
+      "2026-08-01, 20:33:27",
+      "https://news.ycombinator.com/item?id=49138188"
+    ],
+    [
+      "Diátaxis",
+      "https://diataxis.fr/"
+    ]
+  ],
+  [
+    [
       "2026-07-31, 13:38:04",
       "https://news.ycombinator.com/item?id=49123003"
     ],
@@ -237,6 +227,16 @@
     [
       "Holocloth",
       "https://holocloth.vercel.app"
+    ]
+  ],
+  [
+    [
+      "2026-07-30, 15:12:17",
+      "https://news.ycombinator.com/item?id=49111194"
+    ],
+    [
+      "Schmitt Trigger: Robust Comparator Design with Hysteresis",
+      "https://www.wevolver.com/article/schmitt-trigger-robust-comparator-design-with-hysteresis"
     ]
   ],
   [
