@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-02, 15:41:08](https://news.ycombinator.com/item?id=49145590) - [How the words we teach English language learners changed](https://pudding.cool/2026/07/essential-words/)
 * [2026-08-02, 14:51:18](https://news.ycombinator.com/item?id=49145201) - [A Rant About “Technology” (2005)](https://www.ursulakleguin.com/a-rant-about-technology)
 * [2026-08-02, 12:36:07](https://news.ycombinator.com/item?id=49143967) - [Twenty Years of RISC OS Open](https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open)
 * [2026-08-02, 12:31:16](https://news.ycombinator.com/item?id=49143925) - [F*: A general-purpose proof-oriented programming language](https://fstar-lang.org/)
@@ -24,7 +25,6 @@
 * [2026-08-01, 22:55:52](https://news.ycombinator.com/item?id=49139383) - [Unraveling the mysteries of habit formation](https://www.kyoto-u.ac.jp/en/research-news/2026-07-28)
 * [2026-08-01, 20:45:12](https://news.ycombinator.com/item?id=49138302) - [Seedance 2.5](https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5)
 * [2026-08-01, 20:33:27](https://news.ycombinator.com/item?id=49138188) - [Diátaxis](https://diataxis.fr/)
-* [2026-08-01, 18:32:20](https://news.ycombinator.com/item?id=49137060) - [Postmortem for Kernel Soundness Bug #14576](https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/)
 * [2026-07-30, 22:59:27](https://news.ycombinator.com/item?id=49116917) - [Holocloth](https://holocloth.vercel.app)
 * [2026-07-30, 13:31:56](https://news.ycombinator.com/item?id=49109759) - [Elena, a library for building Progressive Web Components](https://elenajs.com/)
 * [2026-07-29, 06:47:22](https://news.ycombinator.com/item?id=49094151) - [Fasttracker II clone in C using SDL 2](https://16-bits.org/ft2.php)
