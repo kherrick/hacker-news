@@ -11,6 +11,7 @@
 * [2026-07-31, 20:44:29](https://news.ycombinator.com/item?id=49128323) - [Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena](https://arxiv.org/abs/2607.28233)
 * [2026-07-31, 20:27:28](https://news.ycombinator.com/item?id=49128177) - [Show HN: How to build and self-host a code review agent](https://www.trytilde.ai/blog/how-to-build-code-review-agent)
 * [2026-07-31, 19:55:41](https://news.ycombinator.com/item?id=49127874) - [Predictive Speculative KV Replication for Bursty LLM Inference](https://jwlabs.vercel.app/post/biting-the-bullet)
+* [2026-07-31, 19:38:51](https://news.ycombinator.com/item?id=49127680) - [Designing Icons](https://m3.material.io/styles/icons/designing-icons)
 * [2026-07-31, 19:03:45](https://news.ycombinator.com/item?id=49127306) - [Tailscale didn't stop the Hugging Face intrusion](https://tailscale.com/blog/hugging-face-intrusion)
 * [2026-07-31, 18:54:13](https://news.ycombinator.com/item?id=49127205) - [Nuclear Waste Cleanup: DOE Is Missing Opportunities to Apply Lessons](https://www.gao.gov/products/gao-26-108082)
 * [2026-07-31, 18:46:36](https://news.ycombinator.com/item?id=49127108) - [Lerd, an open source Herd-like PHP development environment for Linux and macOS](https://github.com/lerd-env/lerd)
