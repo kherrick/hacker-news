@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-08-02, 17:05:54",
+      "https://news.ycombinator.com/item?id=49146267"
+    ],
+    [
+      "Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark",
+      "https://github.com/graham33/nixos-dgx-spark"
+    ]
+  ],
+  [
+    [
+      "2026-08-02, 16:50:01",
+      "https://news.ycombinator.com/item?id=49146122"
+    ],
+    [
+      "Linux Desktop Market Share Surpasses 10% in North America",
+      "https://linuxiac.com/linux-desktop-market-share-surpasses-10-in-north-america/"
+    ]
+  ],
+  [
+    [
+      "2026-08-02, 16:41:35",
+      "https://news.ycombinator.com/item?id=49146051"
+    ],
+    [
+      "GE-97 Terminal: The Old Internet",
+      "https://ge97.com/"
+    ]
+  ],
+  [
+    [
       "2026-08-02, 16:26:40",
       "https://news.ycombinator.com/item?id=49145937"
     ],
@@ -91,16 +121,6 @@
   ],
   [
     [
-      "2026-08-02, 10:46:28",
-      "https://news.ycombinator.com/item?id=49143188"
-    ],
-    [
-      "US Treasury undertakes historic intervention in yen market",
-      "https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8"
-    ]
-  ],
-  [
-    [
       "2026-08-02, 10:45:11",
       "https://news.ycombinator.com/item?id=49143179"
     ],
@@ -147,16 +167,6 @@
     [
       "Show HN: Bor – Open-source policy management for Linux desktops",
       "https://getbor.dev/blog/2026-08-02-bor-v080-release/"
-    ]
-  ],
-  [
-    [
-      "2026-08-02, 07:58:30",
-      "https://news.ycombinator.com/item?id=49142130"
-    ],
-    [
-      "Cyberscript",
-      "https://cyberscript.dev"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Holocloth",
       "https://holocloth.vercel.app"
-    ]
-  ],
-  [
-    [
-      "2026-07-30, 13:31:56",
-      "https://news.ycombinator.com/item?id=49109759"
-    ],
-    [
-      "Elena, a library for building Progressive Web Components",
-      "https://elenajs.com/"
     ]
   ],
   [
