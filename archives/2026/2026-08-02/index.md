@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-08-02](index.md)
 
+* [2026-08-02, 10:25:25](https://news.ycombinator.com/item?id=49143053) - [Is the Industrial Revolution a good precedent for explosive growth today?](https://mattsclancy.github.io/2026/07/27/industrial-revolution-growth.html)
+* [2026-08-02, 10:18:24](https://news.ycombinator.com/item?id=49143001) - [Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge](https://publicdomainreview.org/essay/ars-notoria/)
 * [2026-08-02, 09:48:08](https://news.ycombinator.com/item?id=49142794) - [Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores](https://github.com/syncular/syncular)
+* [2026-08-02, 09:06:33](https://news.ycombinator.com/item?id=49142569) - [Show HN: Bor – Open-source policy management for Linux desktops](https://getbor.dev/blog/2026-08-02-bor-v080-release/)
 * [2026-08-02, 08:48:53](https://news.ycombinator.com/item?id=49142458) - [The time filter in Google Search broke a few days ago](https://mastodon.online/@mwichary/117023736804129342)
 * [2026-08-02, 07:58:30](https://news.ycombinator.com/item?id=49142130) - [Cyberscript](https://cyberscript.dev)
 * [2026-08-02, 07:57:52](https://news.ycombinator.com/item?id=49142128) - [Nerd culture is murdering intellectuals](https://www.theintrinsicperspective.com/p/nerd-culture-is-murdering-intellectuals)
