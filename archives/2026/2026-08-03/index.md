@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-03](index.md)
 
+* [2026-08-03, 02:16:09](https://news.ycombinator.com/item?id=49150470) - [Qwen3.8-Max: A New Bar for Coding and Cowork](https://qwen.ai/blog?id=qwen3.8)
 * [2026-08-03, 01:23:26](https://news.ycombinator.com/item?id=49150181) - [RFC 9851: TLS 1.2 is in Feature Freeze](https://www.rfc-editor.org/rfc/rfc9851.html)
 * [2026-08-03, 00:46:38](https://news.ycombinator.com/item?id=49149966) - [Show HN: Isopolis – isometric pixel map of SF](https://sf.isopolis.city/)
 * [2026-08-03, 00:38:10](https://news.ycombinator.com/item?id=49149898) - [CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K](https://github.com/johnsonjh/cpm386)
