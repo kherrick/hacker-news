@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-03](index.md)
 
+* [2026-08-03, 03:06:12](https://news.ycombinator.com/item?id=49150773) - [AI migrated legacy COBOL programs to Java, bugs included](https://arxiv.org/abs/2607.28271)
+* [2026-08-03, 02:30:30](https://news.ycombinator.com/item?id=49150561) - [OpenAI's super PAC is funding AI-generated news site attacking industry critics](https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda)
 * [2026-08-03, 02:16:09](https://news.ycombinator.com/item?id=49150470) - [Qwen3.8-Max: A New Bar for Coding and Cowork](https://qwen.ai/blog?id=qwen3.8)
 * [2026-08-03, 01:23:26](https://news.ycombinator.com/item?id=49150181) - [RFC 9851: TLS 1.2 is in Feature Freeze](https://www.rfc-editor.org/rfc/rfc9851.html)
 * [2026-08-03, 00:46:38](https://news.ycombinator.com/item?id=49149966) - [Show HN: Isopolis – isometric pixel map of SF](https://sf.isopolis.city/)

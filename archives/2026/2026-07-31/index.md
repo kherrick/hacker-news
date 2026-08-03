@@ -57,6 +57,7 @@
 * [2026-07-31, 14:25:43](https://news.ycombinator.com/item?id=49123579) - [Detect Dark Matter's Mark from Your Backyard](https://spectrum.ieee.org/dark-matter)
 * [2026-07-31, 14:17:43](https://news.ycombinator.com/item?id=49123468) - [Authorize, don't authenticate](https://blog.marcua.net/2026/07/31/authorize-dont-authenticate.html)
 * [2026-07-31, 14:12:38](https://news.ycombinator.com/item?id=49123386) - [Run Kimi K3 using 29 GB of RAM at 0.50 tok/s](https://github.com/sqliteai/waste)
+* [2026-07-31, 14:09:54](https://news.ycombinator.com/item?id=49123353) - [Cro – elegant reactive services in Raku](https://cro.raku.org/)
 * [2026-07-31, 14:05:02](https://news.ycombinator.com/item?id=49123300) - [Better to Beg Forgiveness](https://pluralistic.net/2026/07/31/just-do-it/)
 * [2026-07-31, 14:01:15](https://news.ycombinator.com/item?id=49123258) - [U.S. debt-to-GDP ratio reaches 123%](https://fred.stlouisfed.org/series/GFDEGDQ188S)
 * [2026-07-31, 13:57:35](https://news.ycombinator.com/item?id=49123208) - [Arch Linux disables AUR package adoption](https://lwn.net/Articles/1086489/)
