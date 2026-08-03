@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-08-03, 21:13:53](https://news.ycombinator.com/item?id=49161518) - [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/)
-* [2026-08-03, 20:02:21](https://news.ycombinator.com/item?id=49160699) - [AI's debt binge can't last, hidden borrowing reaches $1.65T](https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/)
 * [2026-08-03, 19:56:27](https://news.ycombinator.com/item?id=49160631) - [DDoS against Norwegian government IT infrastructure – status](https://status.digdir.no/incidents/d7hvqmf2yr3l)
 * [2026-08-03, 19:39:34](https://news.ycombinator.com/item?id=49160437) - [The Dunning-Kruger effect may just be a data artefact (2020)](https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real)
 * [2026-08-03, 18:58:00](https://news.ycombinator.com/item?id=49159970) - [KisakCOD – open-source reimplementation of Call of Duty 4 Multiplayer](https://github.com/SwagSoftware/KisakCOD)
@@ -14,6 +13,7 @@
 * [2026-08-03, 16:32:06](https://news.ycombinator.com/item?id=49157997) - [Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents](https://hoplite.sh)
 * [2026-08-03, 16:27:12](https://news.ycombinator.com/item?id=49157930) - [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/)
 * [2026-08-03, 16:17:59](https://news.ycombinator.com/item?id=49157807) - [Show HN: Product analytics (and evals) for agent sessions on your MCP](https://armature.tech/)
+* [2026-08-03, 16:07:09](https://news.ycombinator.com/item?id=49157645) - [Explanation of INT8 ConvRot (FP8 is no longer needed)](https://note.com/hirorohi03/n/n047a8c5f7f8b?hl=en)
 * [2026-08-03, 14:15:47](https://news.ycombinator.com/item?id=49156111) - [Devtools must be open source](https://blog.exe.dev/devtools-must-be-open-source)
 * [2026-08-03, 14:09:00](https://news.ycombinator.com/item?id=49156011) - [Andy Pavlo joins ClickHouse to establish ClickHouse Labs](https://clickhouse.com/blog/andy-pavlo-joins-clickhouse)
 * [2026-08-03, 13:34:43](https://news.ycombinator.com/item?id=49155629) - [MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video](https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui)
@@ -27,7 +27,7 @@
 * [2026-08-01, 10:17:06](https://news.ycombinator.com/item?id=49132992) - [200 Milliseconds](https://200ms.thenodebook.com)
 * [2026-07-31, 15:17:18](https://news.ycombinator.com/item?id=49124213) - [Massively Parallel Postgres Backups](https://planetscale.com/blog/massively-parallel-postgres-backups)
 * [2026-07-31, 13:47:58](https://news.ycombinator.com/item?id=49123105) - [Kelly Criterion Simulator](https://kellysimulator.com/)
-* [2026-07-30, 09:59:11](https://news.ycombinator.com/item?id=49107888) - [C++ float-to-int conversion can be undefined behavior](https://kttnr.net/blog/cpp-float-to-int-conversion-undefined-behavior/)
+* [2026-07-30, 14:00:53](https://news.ycombinator.com/item?id=49110166) - [Boarding China's Last Bus](https://asteriskmag.com/issues/15/chinas-last-bus)
 * [2026-07-30, 07:15:33](https://news.ycombinator.com/item?id=49106935) - [Replacing the Kobo Libra H2O Battery](https://ei3lh.eu/2025/11/20/replacing-the-kobo-libra-h2o-battery/)
 * [2026-07-28, 12:41:00](https://news.ycombinator.com/item?id=49082937) - [How Hollywood stopped making movies in Hollywood](https://www.statsignificant.com/p/how-hollywood-stopped-making-movies)
 

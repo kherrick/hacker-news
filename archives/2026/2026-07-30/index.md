@@ -56,6 +56,7 @@
 * [2026-07-30, 14:12:44](https://news.ycombinator.com/item?id=49110319) - [China begins producing advanced chipmaking deep-ultraviolet lithography machines](https://www.reuters.com/world/china/china-starts-production-home-grown-immersion-duv-chipmaking-tools-source-2026-07-28/)
 * [2026-07-30, 14:11:42](https://news.ycombinator.com/item?id=49110308) - [The Lost Civic Life of Movie Rental Stores](https://thereader.mitpress.mit.edu/the-lost-civic-life-of-movie-rental-stores/)
 * [2026-07-30, 14:04:18](https://news.ycombinator.com/item?id=49110215) - [Show HN: I audited my AI leaderboard scale – every score dropped 6-15 points](https://agiranker.com/)
+* [2026-07-30, 14:00:53](https://news.ycombinator.com/item?id=49110166) - [Boarding China's Last Bus](https://asteriskmag.com/issues/15/chinas-last-bus)
 * [2026-07-30, 13:55:09](https://news.ycombinator.com/item?id=49110085) - [Europe's fires are just the start](https://economist.com/leaders/2026/07/28/europes-fires-are-just-the-start)
 * [2026-07-30, 13:31:56](https://news.ycombinator.com/item?id=49109759) - [Elena, a library for building Progressive Web Components](https://elenajs.com/)
 * [2026-07-30, 13:29:03](https://news.ycombinator.com/item?id=49109721) - [Launch HN: Prized (YC S26) – Let non-engineer staff build secure internal tools](https://prized.dev)
