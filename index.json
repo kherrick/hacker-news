@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-03, 02:16:09",
+      "https://news.ycombinator.com/item?id=49150470"
+    ],
+    [
+      "Qwen3.8-Max: A New Bar for Coding and Cowork",
+      "https://qwen.ai/blog?id=qwen3.8"
+    ]
+  ],
+  [
+    [
       "2026-08-03, 01:23:26",
       "https://news.ycombinator.com/item?id=49150181"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=49149966"
     ],
     [
-      "Show HN: Isopolis – isometric pixel map of SF",
+      "Show HN: Isopolis – Isometric pixel map of SF",
       "https://sf.isopolis.city/"
     ]
   ],
@@ -47,6 +57,16 @@
     [
       "Why Book Corners won't sync contributions back to OpenStreetMap",
       "https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/"
+    ]
+  ],
+  [
+    [
+      "2026-08-02, 23:05:41",
+      "https://news.ycombinator.com/item?id=49149326"
+    ],
+    [
+      "Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours",
+      "https://github.com/pg83/shitty"
     ]
   ],
   [
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2026-08-02, 20:26:47",
-      "https://news.ycombinator.com/item?id=49147978"
-    ],
-    [
-      "Sharing an X11 Server Across Hosts with FamilyWild",
-      "https://dobrowolski.dev/article/sharing-an-x-server-across-hosts-with-familywild/"
-    ]
-  ],
-  [
-    [
       "2026-08-02, 20:01:37",
       "https://news.ycombinator.com/item?id=49147760"
     ],
@@ -115,18 +125,28 @@
       "https://news.ycombinator.com/item?id=49147622"
     ],
     [
-      "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+      "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
       "https://frogs.vaguespac.es/"
     ]
   ],
   [
     [
-      "2026-08-02, 19:19:24",
-      "https://news.ycombinator.com/item?id=49147435"
+      "2026-08-02, 18:59:05",
+      "https://news.ycombinator.com/item?id=49147263"
     ],
     [
-      "'Crush this lady': how eBay harassment campaign led to $56M payout",
-      "https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2"
+      "SwiftUI After 7 Years",
+      "https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/"
+    ]
+  ],
+  [
+    [
+      "2026-08-02, 18:21:45",
+      "https://news.ycombinator.com/item?id=49146960"
+    ],
+    [
+      "The Myth of Snow Leopard",
+      "https://www.rubenerd.au/the-myth-of-snow-leopard/"
     ]
   ],
   [
@@ -151,12 +171,12 @@
   ],
   [
     [
-      "2026-08-02, 16:19:17",
-      "https://news.ycombinator.com/item?id=49145883"
+      "2026-08-02, 15:41:08",
+      "https://news.ycombinator.com/item?id=49145590"
     ],
     [
-      "Rooting, firmware analysis and persistent credentials of TP-Link TL-841N",
-      "https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/"
+      "How the words we teach English language learners changed",
+      "https://pudding.cool/2026/07/essential-words/"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2026-08-02, 11:34:41",
-      "https://news.ycombinator.com/item?id=49143479"
-    ],
-    [
-      "Meshdiff – visually compare two STL versions in the browser, client-side",
-      "https://meshdiff.com/"
-    ]
-  ],
-  [
-    [
       "2026-08-02, 04:05:56",
       "https://news.ycombinator.com/item?id=49140998"
     ],
@@ -205,8 +215,18 @@
       "https://news.ycombinator.com/item?id=49129676"
     ],
     [
-      "Read the Novels and Forget Everything Else",
+      "Read the novels and forget everything else",
       "https://hedgehogreview.com/web-features/thr/posts/read-the-novels-and-forget-everything-else"
+    ]
+  ],
+  [
+    [
+      "2026-07-31, 16:17:04",
+      "https://news.ycombinator.com/item?id=49125065"
+    ],
+    [
+      "Why we write our own C and C++ inference engines",
+      "https://localai.io/blog/why-we-write-our-own-engines/"
     ]
   ],
   [
@@ -231,12 +251,12 @@
   ],
   [
     [
-      "2026-07-30, 17:26:33",
-      "https://news.ycombinator.com/item?id=49113005"
+      "2026-07-31, 06:37:42",
+      "https://news.ycombinator.com/item?id=49119751"
     ],
     [
-      "A tool for finding the causes of unstable Python tests",
-      "https://github.com/mgaitan/pytest-leak-finder"
+      "Show HN: A Handwritten Blogging Platform",
+      "https://handwritten.blog/"
     ]
   ],
   [
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2026-07-29, 14:14:10",
-      "https://news.ycombinator.com/item?id=49097836"
-    ],
-    [
-      "A Playable History of Sudoku",
-      "https://doku.su/history-of-sudoku"
-    ]
-  ],
-  [
-    [
       "2026-07-29, 12:41:10",
       "https://news.ycombinator.com/item?id=49096748"
     ],
     [
       "Playing with Georgia",
       "https://mighil.com/playing-with-georgia"
-    ]
-  ],
-  [
-    [
-      "2026-07-29, 06:47:22",
-      "https://news.ycombinator.com/item?id=49094151"
-    ],
-    [
-      "Fasttracker II clone in C using SDL 2",
-      "https://16-bits.org/ft2.php"
     ]
   ],
   [
