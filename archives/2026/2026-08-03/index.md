@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-08-03](index.md)
 
+* [2026-08-03, 20:02:21](https://news.ycombinator.com/item?id=49160699) - [AI's debt binge can't last, hidden borrowing reaches $1.65T](https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/)
 * [2026-08-03, 19:56:27](https://news.ycombinator.com/item?id=49160631) - [DDoS against Norwegian government IT infrastructure – status](https://status.digdir.no/incidents/d7hvqmf2yr3l)
 * [2026-08-03, 19:39:34](https://news.ycombinator.com/item?id=49160437) - [The Dunning-Kruger Effect Is Probably Not Real](https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real)
+* [2026-08-03, 18:58:00](https://news.ycombinator.com/item?id=49159970) - [KisakCOD – open-source reimplementation of Call of Duty 4 Multiplayer](https://github.com/SwagSoftware/KisakCOD)
 * [2026-08-03, 18:32:06](https://news.ycombinator.com/item?id=49159676) - [ZX Spectrum System Tour: Sound](https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/)
 * [2026-08-03, 17:27:08](https://news.ycombinator.com/item?id=49158837) - [Leaked Flock Guide Shows How It Teaches Cops to Promote Its Tech](https://www.404media.co/own-the-narrative-leaked-flock-guide-shows-how-it-teaches-cops-to-promote-its-tech/)
 * [2026-08-03, 17:18:06](https://news.ycombinator.com/item?id=49158714) - [The Billable Usage API: programmatic cost visibility for Cloudflare](https://blog.cloudflare.com/billable-usage-api/)
