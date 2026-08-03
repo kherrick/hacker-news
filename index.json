@@ -101,42 +101,12 @@
   ],
   [
     [
-      "2026-08-02, 22:16:34",
-      "https://news.ycombinator.com/item?id=49148987"
-    ],
-    [
-      "Californians' data deletion requests, DROP, become enforceable Aug. 1",
-      "https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/"
-    ]
-  ],
-  [
-    [
-      "2026-08-02, 22:06:34",
-      "https://news.ycombinator.com/item?id=49148899"
-    ],
-    [
-      "Show HN: Mu – Tools for Agents",
-      "https://github.com/micro/mu"
-    ]
-  ],
-  [
-    [
       "2026-08-02, 20:33:01",
       "https://news.ycombinator.com/item?id=49148048"
     ],
     [
       "Show HN: Make your Framework 12 sound like a creaky door",
       "https://github.com/ArcaEge/creakwork12"
-    ]
-  ],
-  [
-    [
-      "2026-08-02, 20:01:37",
-      "https://news.ycombinator.com/item?id=49147760"
-    ],
-    [
-      "TinyNES Review – A Super Niche NES Console",
-      "https://blog.lon.tv/2023/02/05/tinynes-review-a-super-niche-nes-console/"
     ]
   ],
   [
@@ -191,6 +161,16 @@
   ],
   [
     [
+      "2026-08-02, 16:19:17",
+      "https://news.ycombinator.com/item?id=49145883"
+    ],
+    [
+      "Rooting, firmware analysis and persistent credentials of TP-Link TL-841N",
+      "https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/"
+    ]
+  ],
+  [
+    [
       "2026-08-02, 15:41:08",
       "https://news.ycombinator.com/item?id=49145590"
     ],
@@ -201,12 +181,12 @@
   ],
   [
     [
-      "2026-08-02, 12:31:16",
-      "https://news.ycombinator.com/item?id=49143925"
+      "2026-08-02, 11:34:41",
+      "https://news.ycombinator.com/item?id=49143479"
     ],
     [
-      "F*: A general-purpose proof-oriented programming language",
-      "https://fstar-lang.org/"
+      "Meshdiff – visually compare two STL versions in the browser, client-side",
+      "https://meshdiff.com/"
     ]
   ],
   [
@@ -227,6 +207,16 @@
     [
       "Read the novels and forget everything else",
       "https://hedgehogreview.com/web-features/thr/posts/read-the-novels-and-forget-everything-else"
+    ]
+  ],
+  [
+    [
+      "2026-07-31, 16:17:04",
+      "https://news.ycombinator.com/item?id=49125065"
+    ],
+    [
+      "Why we write our own C and C++ inference engines",
+      "https://localai.io/blog/why-we-write-our-own-engines/"
     ]
   ],
   [
@@ -281,12 +271,12 @@
   ],
   [
     [
-      "2026-07-29, 05:53:00",
-      "https://news.ycombinator.com/item?id=49093845"
+      "2026-07-29, 06:47:22",
+      "https://news.ycombinator.com/item?id=49094151"
     ],
     [
-      "Folding Paper Globes",
-      "https://foldingglobes.com/globes"
+      "Fasttracker II clone in C using SDL 2",
+      "https://16-bits.org/ft2.php"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Note-Taking and Personal Knowledge Management",
       "https://unattributed.cc/note-taking-and-personal-knowledge-management"
+    ]
+  ],
+  [
+    [
+      "2026-07-27, 23:23:07",
+      "https://news.ycombinator.com/item?id=49076945"
+    ],
+    [
+      "Convergence Is Not Enough",
+      "https://www.inkandswitch.com/livelymerge/notebook/lm-02/"
     ]
   ]
 ]
