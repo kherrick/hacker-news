@@ -49,6 +49,7 @@
 * [2026-07-31, 15:24:25](https://news.ycombinator.com/item?id=49124291) - [Where .env Went Wrong](https://secretspec.dev/blog/where-env-went-wrong/)
 * [2026-07-31, 15:17:28](https://news.ycombinator.com/item?id=49124218) - [Elevators](https://john.fun/elevators)
 * [2026-07-31, 15:17:18](https://news.ycombinator.com/item?id=49124214) - [I built a f.lux alternative because the M5 Max firmware broke existing solutions](https://driftformac.app/)
+* [2026-07-31, 15:17:18](https://news.ycombinator.com/item?id=49124213) - [Massively Parallel Postgres Backups](https://planetscale.com/blog/massively-parallel-postgres-backups)
 * [2026-07-31, 15:01:07](https://news.ycombinator.com/item?id=49124051) - [A big win for Android interoperability](https://www.openhomefoundation.org/blog/a-big-win-for-android-interoperability/)
 * [2026-07-31, 15:00:15](https://news.ycombinator.com/item?id=49124042) - [The most official water costs $120k a gallon](https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/)
 * [2026-07-31, 14:57:39](https://news.ycombinator.com/item?id=49124017) - [Show HN: I built a cross-browser extension that controls fingerprinting surfaces](https://privacything.com/en/)
