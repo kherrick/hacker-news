@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-08-03, 01:23:26",
+      "https://news.ycombinator.com/item?id=49150181"
+    ],
+    [
+      "RFC 9851: TLS 1.2 is in Feature Freeze",
+      "https://www.rfc-editor.org/rfc/rfc9851.html"
+    ]
+  ],
+  [
+    [
+      "2026-08-03, 00:46:38",
+      "https://news.ycombinator.com/item?id=49149966"
+    ],
+    [
+      "Show HN: Isopolis – isometric pixel map of SF",
+      "https://sf.isopolis.city/"
+    ]
+  ],
+  [
+    [
       "2026-08-03, 00:38:10",
       "https://news.ycombinator.com/item?id=49149898"
     ],
@@ -11,12 +31,12 @@
   ],
   [
     [
-      "2026-08-03, 00:22:55",
-      "https://news.ycombinator.com/item?id=49149800"
+      "2026-08-03, 00:23:21",
+      "https://news.ycombinator.com/item?id=49149805"
     ],
     [
-      "Boris Cherny on Trying to Get Claude Code to Rewrite the Claude App",
-      "https://daringfireball.net/linked/2026/08/02/cherny-claude-swift"
+      "Show HN: ssh ssh.place",
+      "https://ssh.place"
     ]
   ],
   [
@@ -27,16 +47,6 @@
     [
       "Why Book Corners won't sync contributions back to OpenStreetMap",
       "https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/"
-    ]
-  ],
-  [
-    [
-      "2026-08-02, 23:05:41",
-      "https://news.ycombinator.com/item?id=49149326"
-    ],
-    [
-      "Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours",
-      "https://github.com/pg83/shitty"
     ]
   ],
   [
@@ -67,16 +77,6 @@
     [
       "Show HN: Mu – Tools for Agents",
       "https://github.com/micro/mu"
-    ]
-  ],
-  [
-    [
-      "2026-08-02, 21:30:04",
-      "https://news.ycombinator.com/item?id=49148541"
-    ],
-    [
-      "Flock – Chilling Effects: Long Island's Emerging Open-Air Prison",
-      "https://www.11971.com/"
     ]
   ],
   [
@@ -127,16 +127,6 @@
     [
       "'Crush this lady': how eBay harassment campaign led to $56M payout",
       "https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2"
-    ]
-  ],
-  [
-    [
-      "2026-08-02, 18:21:45",
-      "https://news.ycombinator.com/item?id=49146960"
-    ],
-    [
-      "The Myth of Snow Leopard",
-      "https://www.rubenerd.au/the-myth-of-snow-leopard/"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Developers are attached to tools because tools encode trust",
       "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/"
+    ]
+  ],
+  [
+    [
+      "2026-07-29, 14:14:10",
+      "https://news.ycombinator.com/item?id=49097836"
+    ],
+    [
+      "A Playable History of Sudoku",
+      "https://doku.su/history-of-sudoku"
     ]
   ],
   [
