@@ -28,6 +28,7 @@
 * [2026-07-31, 17:01:08](https://news.ycombinator.com/item?id=49125785) - [Miso (YC S16) is hiring for U.S. expansion](https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion)
 * [2026-07-31, 16:26:53](https://news.ycombinator.com/item?id=49125237) - [The great wealth transfer reality check](https://usa.visa.com/partner-with-us/visa-consulting-analytics/economic-insights/great-wealth-transfer-reality-check.html)
 * [2026-07-31, 16:24:09](https://news.ycombinator.com/item?id=49125187) - [Dario Amodei's stance on open weights is self-serving and short-sighted](https://janilowski.pl/en/blog/2026/amodei-memo/)
+* [2026-07-31, 16:23:10](https://news.ycombinator.com/item?id=49125168) - [The Abandoned Fish Sauce Terrorizing a Small Canadian Town](https://defector.com/abandoned-fish-sauce-canada-interview)
 * [2026-07-31, 16:17:04](https://news.ycombinator.com/item?id=49125065) - [Why we write our own C and C++ inference engines](https://localai.io/blog/why-we-write-our-own-engines/)
 * [2026-07-31, 16:15:31](https://news.ycombinator.com/item?id=49125034) - [Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio](https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/)
 * [2026-07-31, 16:07:55](https://news.ycombinator.com/item?id=49124917) - [Online Friends Are Real Friends](https://toska.bearblog.dev/re-online-friends-are-real-friends/)

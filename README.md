@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-08-03, 11:59:10](https://news.ycombinator.com/item?id=49154601) - [The AI bubble is popping; we just don't know it yet](https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004)
 * [2026-08-03, 11:28:54](https://news.ycombinator.com/item?id=49154332) - [Critical CVE issued for hallucinated SQLite vulnerability](https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/)
 * [2026-08-03, 11:17:56](https://news.ycombinator.com/item?id=49154249) - [9front \"This Was Supposed to Be Fun\" Released](https://9front.org/releases/2026/08/02/0/)
 * [2026-08-03, 11:16:33](https://news.ycombinator.com/item?id=49154237) - [ICE Collected Nearly 1M People's DNA Last Year–Including Young Children](https://www.wired.com/story/ice-dna-collection-fbi-codis/)
+* [2026-08-03, 11:15:48](https://news.ycombinator.com/item?id=49154228) - [AirLLM 70B inference with single 4GB GPU](https://github.com/lyogavin/airllm)
 * [2026-08-03, 11:06:15](https://news.ycombinator.com/item?id=49154127) - [Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone](https://github.com/garagehq/nightcrawler/)
 * [2026-08-03, 09:32:07](https://news.ycombinator.com/item?id=49153374) - [Prevent cognitive debt by manually retyping LLM-generated code](https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/)
 * [2026-08-03, 09:29:46](https://news.ycombinator.com/item?id=49153361) - [What DMARC Protects You From, and What It Does Not](https://senderledger.com/articles/what-dmarc-actually-protects-you-from)
@@ -22,6 +22,7 @@
 * [2026-08-03, 00:12:16](https://news.ycombinator.com/item?id=49149746) - [Why Book Corners won't sync contributions back to OpenStreetMap](https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/)
 * [2026-08-02, 18:59:05](https://news.ycombinator.com/item?id=49147263) - [SwiftUI After 7 Years](https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/)
 * [2026-08-02, 16:26:40](https://news.ycombinator.com/item?id=49145937) - [Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM](https://github.com/wie-project/kakehashi)
+* [2026-07-31, 16:23:10](https://news.ycombinator.com/item?id=49125168) - [The Abandoned Fish Sauce Terrorizing a Small Canadian Town](https://defector.com/abandoned-fish-sauce-canada-interview)
 * [2026-07-31, 16:17:04](https://news.ycombinator.com/item?id=49125065) - [Why we write our own C and C++ inference engines](https://localai.io/blog/why-we-write-our-own-engines/)
 * [2026-07-31, 13:08:30](https://news.ycombinator.com/item?id=49122655) - [Autoregressive Language Model on the 6502 Processor](https://mattbeton.com/blog/bitnet-6502.html)
 * [2026-07-31, 06:37:42](https://news.ycombinator.com/item?id=49119751) - [Show HN: A Handwritten Blogging Platform](https://handwritten.blog/)
@@ -29,7 +30,6 @@
 * [2026-07-30, 18:56:00](https://news.ycombinator.com/item?id=49114146) - [Characterizing Warp Divergence from Pascal to Blackwell](https://arxiv.org/abs/2607.23402)
 * [2026-07-29, 14:25:54](https://news.ycombinator.com/item?id=49097961) - [Developers are attached to tools because tools encode trust](https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/)
 * [2026-07-28, 14:21:10](https://news.ycombinator.com/item?id=49084324) - [Note-Taking and Personal Knowledge Management](https://unattributed.cc/note-taking-and-personal-knowledge-management)
-* [2026-07-27, 23:23:07](https://news.ycombinator.com/item?id=49076945) - [Convergence is not enough](https://www.inkandswitch.com/livelymerge/notebook/lm-02/)
 
 ## [Archives](archives/index.md)
 
