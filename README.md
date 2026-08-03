@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-03, 19:56:27](https://news.ycombinator.com/item?id=49160631) - [DDoS against Norwegian government IT infrastructure – status](https://status.digdir.no/incidents/d7hvqmf2yr3l)
+* [2026-08-03, 19:39:34](https://news.ycombinator.com/item?id=49160437) - [The Dunning-Kruger Effect Is Probably Not Real](https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real)
 * [2026-08-03, 18:32:06](https://news.ycombinator.com/item?id=49159676) - [ZX Spectrum System Tour: Sound](https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/)
 * [2026-08-03, 17:18:06](https://news.ycombinator.com/item?id=49158714) - [The Billable Usage API: programmatic cost visibility for Cloudflare](https://blog.cloudflare.com/billable-usage-api/)
 * [2026-08-03, 17:08:46](https://news.ycombinator.com/item?id=49158581) - [Smaller, faster, safer: running Kimi and GLM at scale](https://blog.cloudflare.com/smaller-faster-safer-models/)
@@ -17,7 +19,6 @@
 * [2026-08-03, 13:13:02](https://news.ycombinator.com/item?id=49155359) - [Wind and solar overtake fossil fuels in Germany for the first time](https://www.intellinews.com/wind-and-solar-overtake-fossil-fuels-in-germany-for-the-first-time-ever-458379/)
 * [2026-08-03, 11:28:54](https://news.ycombinator.com/item?id=49154332) - [SQLite Critical CVEs or LLM Slop?](https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/)
 * [2026-08-03, 11:15:48](https://news.ycombinator.com/item?id=49154228) - [AirLLM 70B inference with single 4GB GPU](https://github.com/lyogavin/airllm)
-* [2026-08-03, 11:06:15](https://news.ycombinator.com/item?id=49154127) - [Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone](https://github.com/garagehq/nightcrawler/)
 * [2026-08-03, 09:32:07](https://news.ycombinator.com/item?id=49153374) - [Prevent cognitive debt by manually retyping LLM-generated code](https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/)
 * [2026-08-03, 09:29:46](https://news.ycombinator.com/item?id=49153361) - [What DMARC Protects You From, and What It Does Not](https://senderledger.com/articles/what-dmarc-actually-protects-you-from)
 * [2026-08-03, 08:29:57](https://news.ycombinator.com/item?id=49152842) - [Bonsai: Janestreet's UI Library](https://github.com/janestreet/bonsai)
@@ -27,7 +28,6 @@
 * [2026-08-01, 10:17:06](https://news.ycombinator.com/item?id=49132992) - [200 Milliseconds](https://200ms.thenodebook.com)
 * [2026-07-31, 15:17:18](https://news.ycombinator.com/item?id=49124213) - [Massively Parallel Postgres Backups](https://planetscale.com/blog/massively-parallel-postgres-backups)
 * [2026-07-31, 13:47:58](https://news.ycombinator.com/item?id=49123105) - [Kelly Criterion Simulator](https://kellysimulator.com/)
-* [2026-07-30, 14:52:03](https://news.ycombinator.com/item?id=49110912) - [Kraid is a now a real compiler](https://www.collabora.com/news-and-blog/news-and-events/kraid-is-a-now-a-real-compiler.html)
 * [2026-07-30, 09:59:11](https://news.ycombinator.com/item?id=49107888) - [C++ float-to-int conversion can be undefined behavior](https://kttnr.net/blog/cpp-float-to-int-conversion-undefined-behavior/)
 * [2026-07-28, 12:41:00](https://news.ycombinator.com/item?id=49082937) - [How Hollywood stopped making movies in Hollywood](https://www.statsignificant.com/p/how-hollywood-stopped-making-movies)
 
