@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-08-03, 13:34:43",
+      "https://news.ycombinator.com/item?id=49155629"
+    ],
+    [
+      "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
+      "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui"
+    ]
+  ],
+  [
+    [
+      "2026-08-03, 13:34:25",
+      "https://news.ycombinator.com/item?id=49155626"
+    ],
+    [
+      "SPF Record Syntax: Mechanisms, Qualifiers, Modifiers, and Macros",
+      "https://dmarcguard.io/blog/spf-record-syntax/"
+    ]
+  ],
+  [
+    [
+      "2026-08-03, 13:22:44",
+      "https://news.ycombinator.com/item?id=49155492"
+    ],
+    [
+      "Ask HN: What are the viable alternatives to DuckDuckGo?",
+      "https://news.ycombinator.com/item?id=49155492"
+    ]
+  ],
+  [
+    [
       "2026-08-03, 11:28:54",
       "https://news.ycombinator.com/item?id=49154332"
     ],
@@ -191,12 +221,12 @@
   ],
   [
     [
-      "2026-08-03, 00:12:16",
-      "https://news.ycombinator.com/item?id=49149746"
+      "2026-08-02, 20:19:16",
+      "https://news.ycombinator.com/item?id=49147907"
     ],
     [
-      "Why Book Corners won't sync contributions back to OpenStreetMap",
-      "https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/"
+      "Games at the press of a button: The Rip-O-Bot (1989)",
+      "https://blog.gingerbeardman.com/2026/08/02/games-at-the-press-of-a-button-the-rip-o-bot/"
     ]
   ],
   [
@@ -211,12 +241,12 @@
   ],
   [
     [
-      "2026-08-02, 16:26:40",
-      "https://news.ycombinator.com/item?id=49145937"
+      "2026-08-02, 14:50:48",
+      "https://news.ycombinator.com/item?id=49145193"
     ],
     [
-      "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
-      "https://github.com/wie-project/kakehashi"
+      "Finding zombies in our systems: A real-world story of CPU bottlenecks",
+      "https://medium.com/pinterest-engineering/finding-zombies-in-our-systems-a-real-world-story-of-cpu-bottlenecks-ea4722e552eb"
     ]
   ],
   [
@@ -241,26 +271,6 @@
   ],
   [
     [
-      "2026-07-31, 13:08:30",
-      "https://news.ycombinator.com/item?id=49122655"
-    ],
-    [
-      "Autoregressive Language Model on the 6502 Processor",
-      "https://mattbeton.com/blog/bitnet-6502.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-31, 06:37:42",
-      "https://news.ycombinator.com/item?id=49119751"
-    ],
-    [
-      "Show HN: A Handwritten Blogging Platform",
-      "https://handwritten.blog/"
-    ]
-  ],
-  [
-    [
       "2026-07-30, 21:18:39",
       "https://news.ycombinator.com/item?id=49115935"
     ],
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2026-07-29, 14:25:54",
-      "https://news.ycombinator.com/item?id=49097961"
+      "2026-07-28, 03:17:03",
+      "https://news.ycombinator.com/item?id=49078856"
     ],
     [
-      "Developers are attached to tools because tools encode trust",
-      "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/"
-    ]
-  ],
-  [
-    [
-      "2026-07-28, 14:21:10",
-      "https://news.ycombinator.com/item?id=49084324"
-    ],
-    [
-      "Note-Taking and Personal Knowledge Management",
-      "https://unattributed.cc/note-taking-and-personal-knowledge-management"
+      "Walk on Decomposed Subdomains",
+      "https://clementjambon.github.io/wods/index.html#blogpost"
     ]
   ]
 ]
