@@ -8,6 +8,7 @@
 * [2026-08-03, 17:18:06](https://news.ycombinator.com/item?id=49158714) - [The Billable Usage API: programmatic cost visibility for Cloudflare](https://blog.cloudflare.com/billable-usage-api/)
 * [2026-08-03, 17:08:46](https://news.ycombinator.com/item?id=49158581) - [Smaller, faster, safer: running Kimi and GLM at scale](https://blog.cloudflare.com/smaller-faster-safer-models/)
 * [2026-08-03, 17:02:10](https://news.ycombinator.com/item?id=49158474) - [Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years](https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase)
+* [2026-08-03, 16:51:51](https://news.ycombinator.com/item?id=49158287) - [Use Task Runners for Common Coding Tasks](https://hamvocke.com/blog/task-runners/)
 * [2026-08-03, 16:41:40](https://news.ycombinator.com/item?id=49158141) - [SearXNG in Rust](https://github.com/MikeLuu99/searxng-rust)
 * [2026-08-03, 16:32:06](https://news.ycombinator.com/item?id=49157997) - [Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents](https://hoplite.sh)
 * [2026-08-03, 16:27:12](https://news.ycombinator.com/item?id=49157930) - [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/)
