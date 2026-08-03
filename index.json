@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2026-08-03, 19:56:27",
-      "https://news.ycombinator.com/item?id=49160631"
-    ],
-    [
-      "DDoS against Norwegian government IT infrastructure – status",
-      "https://status.digdir.no/incidents/d7hvqmf2yr3l"
-    ]
-  ],
-  [
-    [
       "2026-08-03, 19:39:34",
       "https://news.ycombinator.com/item?id=49160437"
     ],
@@ -231,6 +221,16 @@
   ],
   [
     [
+      "2026-08-03, 06:42:00",
+      "https://news.ycombinator.com/item?id=49152023"
+    ],
+    [
+      "Rust project goals: Immobile types and guaranteed destructors",
+      "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md"
+    ]
+  ],
+  [
+    [
       "2026-08-01, 10:17:06",
       "https://news.ycombinator.com/item?id=49132992"
     ],
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=49125168"
     ],
     [
-      "Decades-old rotting fish sauce hauled away from abandoned plant in Canada",
+      "Decades-old fish sauce at abandoned factory in Canada finally being removed",
       "https://defector.com/abandoned-fish-sauce-canada-interview"
     ]
   ],
