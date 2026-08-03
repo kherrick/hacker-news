@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-08-03, 14:57:46",
-      "https://news.ycombinator.com/item?id=49156650"
+      "2026-08-03, 15:31:32",
+      "https://news.ycombinator.com/item?id=49157128"
     ],
     [
-      "Flock's CEO Faced Me After Its Cameras Led to My Wrongful Stop",
-      "https://www.thedrive.com/podcast/flocks-ceo-wants-zero-wrongful-stops-i-wasnt-the-first"
+      "Taylor Farms Has Rewritten Its Cyclospora Statement Four Times in Sixteen Days",
+      "https://www.marlerblog.com/case-news/taylor-farms-has-rewritten-its-cyclospora-statement-four-times-in-sixteen-days-it-still-has-not-said-what-changed-at-that-plant-after-2013-or-why-two-thousand-negative-tests-should-mean-an/"
+    ]
+  ],
+  [
+    [
+      "2026-08-03, 14:29:51",
+      "https://news.ycombinator.com/item?id=49156299"
+    ],
+    [
+      "Why does Mail app contact iCloud when sending a non-iCloud email?",
+      "https://lapcatsoftware.com/articles/2026/8/2.html"
     ]
   ],
   [
@@ -41,16 +51,6 @@
   ],
   [
     [
-      "2026-08-03, 14:02:37",
-      "https://news.ycombinator.com/item?id=49155940"
-    ],
-    [
-      "The Future, Made in China",
-      "https://www.newyorker.com/magazine/2026/08/10/the-future-made-in-china"
-    ]
-  ],
-  [
-    [
       "2026-08-03, 13:34:43",
       "https://news.ycombinator.com/item?id=49155629"
     ],
@@ -67,6 +67,16 @@
     [
       "SPF Record Syntax: Mechanisms, Qualifiers, Modifiers, and Macros",
       "https://dmarcguard.io/blog/spf-record-syntax/"
+    ]
+  ],
+  [
+    [
+      "2026-08-03, 13:13:02",
+      "https://news.ycombinator.com/item?id=49155359"
+    ],
+    [
+      "Wind and solar overtake fossil fuels in Germany for the first time",
+      "https://www.intellinews.com/wind-and-solar-overtake-fossil-fuels-in-germany-for-the-first-time-ever-458379/"
     ]
   ],
   [
@@ -201,26 +211,6 @@
   ],
   [
     [
-      "2026-08-03, 00:38:10",
-      "https://news.ycombinator.com/item?id=49149898"
-    ],
-    [
-      "CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",
-      "https://github.com/johnsonjh/cpm386"
-    ]
-  ],
-  [
-    [
-      "2026-08-03, 00:23:21",
-      "https://news.ycombinator.com/item?id=49149805"
-    ],
-    [
-      "Show HN: ssh ssh.place",
-      "https://ssh.place"
-    ]
-  ],
-  [
-    [
       "2026-08-02, 20:19:16",
       "https://news.ycombinator.com/item?id=49147907"
     ],
@@ -277,6 +267,16 @@
     [
       "Characterizing Warp Divergence from Pascal to Blackwell",
       "https://arxiv.org/abs/2607.23402"
+    ]
+  ],
+  [
+    [
+      "2026-07-30, 14:52:03",
+      "https://news.ycombinator.com/item?id=49110912"
+    ],
+    [
+      "Kraid is a now a real compiler",
+      "https://www.collabora.com/news-and-blog/news-and-events/kraid-is-a-now-a-real-compiler.html"
     ]
   ],
   [
