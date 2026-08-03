@@ -8,6 +8,7 @@
 * [2026-08-02, 22:43:47](https://news.ycombinator.com/item?id=49149188) - [AI poster wins Ohio State Fair contest](https://www.ohiostatefair.com/p/get-involved/arts/poster-contest)
 * [2026-08-02, 22:35:35](https://news.ycombinator.com/item?id=49149125) - [The Computational Theory of Mind (2015)](https://plato.stanford.edu/entries/computational-mind/)
 * [2026-08-02, 22:16:34](https://news.ycombinator.com/item?id=49148987) - [Californians' data deletion requests, DROP, become enforceable Aug. 1](https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/)
+* [2026-08-02, 22:06:34](https://news.ycombinator.com/item?id=49148899) - [Show HN: Mu – Tools for Agents](https://github.com/micro/mu)
 * [2026-08-02, 21:30:04](https://news.ycombinator.com/item?id=49148541) - [Flock – Chilling Effects: Long Island's Emerging Open-Air Prison](https://www.11971.com/)
 * [2026-08-02, 20:48:45](https://news.ycombinator.com/item?id=49148163) - [Show HN: Draco – A single-binary, self-hostable Firecrawl alternative in Rust](https://github.com/0xchasercat/draco/)
 * [2026-08-02, 20:48:28](https://news.ycombinator.com/item?id=49148159) - [AI Mania: From Tulips to Tokens](https://seanhelvey.com/tools-and-their-tools/)

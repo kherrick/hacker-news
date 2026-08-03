@@ -28,6 +28,7 @@
 * [2026-07-30, 18:08:48](https://news.ycombinator.com/item?id=49113543) - [Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents](https://github.com/yashmahajan10/llm-differential-privacy-gateway)
 * [2026-07-30, 17:52:51](https://news.ycombinator.com/item?id=49113338) - [CodePen 2.0](https://chriscoyier.net/2026/07/30/codepen-2-0/)
 * [2026-07-30, 17:31:07](https://news.ycombinator.com/item?id=49113059) - [We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447](https://www.bottlenecklabs.com/blog/autonomously-run-businesses)
+* [2026-07-30, 17:26:33](https://news.ycombinator.com/item?id=49113005) - [A tool for finding the causes of unstable Python tests](https://github.com/mgaitan/pytest-leak-finder)
 * [2026-07-30, 17:15:51](https://news.ycombinator.com/item?id=49112867) - [Advancing the price-performance frontier with GPT‑5.6](https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/)
 * [2026-07-30, 17:04:53](https://news.ycombinator.com/item?id=49112744) - [Read This Before You Buy That TV Streaming Stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/)
 * [2026-07-30, 17:00:21](https://news.ycombinator.com/item?id=49112683) - [Rise Reforming (YC S26) Is Hiring](https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer)
