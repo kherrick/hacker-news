@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-03](index.md)
 
+* [2026-08-03, 22:04:49](https://news.ycombinator.com/item?id=49162086) - [Windows XP 2002 for the Itanium: Unbridled rage](https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/)
 * [2026-08-03, 21:13:53](https://news.ycombinator.com/item?id=49161518) - [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/)
 * [2026-08-03, 20:02:21](https://news.ycombinator.com/item?id=49160699) - [AI's debt binge can't last, hidden borrowing reaches $1.65T](https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/)
 * [2026-08-03, 19:56:27](https://news.ycombinator.com/item?id=49160631) - [DDoS against Norwegian government IT infrastructure – status](https://status.digdir.no/incidents/d7hvqmf2yr3l)
@@ -22,6 +23,7 @@
 * [2026-08-03, 16:16:40](https://news.ycombinator.com/item?id=49157786) - [What's the largest software project AI can complete on its own?](https://epoch.ai/MirrorCode)
 * [2026-08-03, 16:07:09](https://news.ycombinator.com/item?id=49157645) - [Explanation of INT8 ConvRot (FP8 is no longer needed)](https://note.com/hirorohi03/n/n047a8c5f7f8b?hl=en)
 * [2026-08-03, 15:31:32](https://news.ycombinator.com/item?id=49157128) - [Taylor Farms Has Rewritten Its Cyclospora Statement Four Times in Sixteen Days](https://www.marlerblog.com/case-news/taylor-farms-has-rewritten-its-cyclospora-statement-four-times-in-sixteen-days-it-still-has-not-said-what-changed-at-that-plant-after-2013-or-why-two-thousand-negative-tests-should-mean-an/)
+* [2026-08-03, 15:04:53](https://news.ycombinator.com/item?id=49156750) - [Twenty Years of Pandoc](https://pandoc.org/twenty-years-of-pandoc.html)
 * [2026-08-03, 14:57:46](https://news.ycombinator.com/item?id=49156650) - [Flock's CEO Faced Me After Its Cameras Led to My Wrongful Stop](https://www.thedrive.com/podcast/flocks-ceo-wants-zero-wrongful-stops-i-wasnt-the-first)
 * [2026-08-03, 14:29:51](https://news.ycombinator.com/item?id=49156299) - [Why does Mail app contact iCloud when sending a non-iCloud email?](https://lapcatsoftware.com/articles/2026/8/2.html)
 * [2026-08-03, 14:15:47](https://news.ycombinator.com/item?id=49156111) - [Devtools must be open source](https://blog.exe.dev/devtools-must-be-open-source)
