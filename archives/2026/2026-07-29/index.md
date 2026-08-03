@@ -55,6 +55,7 @@
 * [2026-07-29, 14:32:23](https://news.ycombinator.com/item?id=49098035) - [Graph Engineering Needs a Compiler](https://fluxtion-playground.dev/blog/2026-07-29-graph-engineering-needs-a-compiler)
 * [2026-07-29, 14:25:54](https://news.ycombinator.com/item?id=49097961) - [Developers are attached to tools because tools encode trust](https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/)
 * [2026-07-29, 14:20:34](https://news.ycombinator.com/item?id=49097908) - [CipherX applies painless permanent tattoos with dissolving microneedle patches](https://www.designboom.com/technology/cipherx-painless-permanent-tattoos-dissolving-microneedle-patches/)
+* [2026-07-29, 14:14:10](https://news.ycombinator.com/item?id=49097836) - [A Playable History of Sudoku](https://doku.su/history-of-sudoku)
 * [2026-07-29, 14:05:40](https://news.ycombinator.com/item?id=49097730) - [Choose DuckDB rather than SQLite](https://tracewayapp.com/blog/sqlite-vs-duckdb)
 * [2026-07-29, 14:05:30](https://news.ycombinator.com/item?id=49097727) - [Show HN: A verification browser for AI agents – 13ms windows, one-call checks](https://github.com/hongnoul/hwatu)
 * [2026-07-29, 14:00:03](https://news.ycombinator.com/item?id=49097649) - [AI in Linux](https://drewdevault.com/blog/AI-in-Linux/)
