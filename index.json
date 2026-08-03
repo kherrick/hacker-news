@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=49161801"
     ],
     [
-      "ZX Spectrum System Tour: Text Mode – Bumbershoot Software",
+      "ZX Spectrum System Tour: Text Mode",
       "https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/"
     ]
   ],
@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2026-08-03, 16:41:40",
-      "https://news.ycombinator.com/item?id=49158141"
-    ],
-    [
-      "SearXNG in Rust",
-      "https://github.com/MikeLuu99/searxng-rust"
-    ]
-  ],
-  [
-    [
       "2026-08-03, 16:32:06",
       "https://news.ycombinator.com/item?id=49157997"
     ],
@@ -137,6 +127,16 @@
     [
       "Ten advances in mathematics and theoretical computer science",
       "https://openai.com/index/ten-advances-in-mathematics/"
+    ]
+  ],
+  [
+    [
+      "2026-08-03, 16:16:40",
+      "https://news.ycombinator.com/item?id=49157786"
+    ],
+    [
+      "What's the largest software project AI can complete on its own?",
+      "https://epoch.ai/MirrorCode"
     ]
   ],
   [
@@ -231,22 +231,32 @@
   ],
   [
     [
-      "2026-08-03, 06:42:00",
-      "https://news.ycombinator.com/item?id=49152023"
-    ],
-    [
-      "Rust project goals: Immobile types and guaranteed destructors",
-      "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md"
-    ]
-  ],
-  [
-    [
       "2026-08-01, 10:17:06",
       "https://news.ycombinator.com/item?id=49132992"
     ],
     [
       "200 Milliseconds",
       "https://200ms.thenodebook.com"
+    ]
+  ],
+  [
+    [
+      "2026-08-01, 05:14:51",
+      "https://news.ycombinator.com/item?id=49131250"
+    ],
+    [
+      "Battle of the Beams",
+      "https://en.wikipedia.org/wiki/Battle_of_the_Beams"
+    ]
+  ],
+  [
+    [
+      "2026-07-31, 16:23:10",
+      "https://news.ycombinator.com/item?id=49125168"
+    ],
+    [
+      "Decades-old rotting fish sauce hauled away from abandoned plant in Canada",
+      "https://defector.com/abandoned-fish-sauce-canada-interview"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Kelly Criterion Simulator",
       "https://kellysimulator.com/"
-    ]
-  ],
-  [
-    [
-      "2026-07-30, 14:00:53",
-      "https://news.ycombinator.com/item?id=49110166"
-    ],
-    [
-      "Boarding China's Last Bus",
-      "https://asteriskmag.com/issues/15/chinas-last-bus"
     ]
   ],
   [
