@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-08-03](index.md)
 
+* [2026-08-03, 14:57:46](https://news.ycombinator.com/item?id=49156650) - [Flock's CEO Faced Me After Its Cameras Led to My Wrongful Stop](https://www.thedrive.com/podcast/flocks-ceo-wants-zero-wrongful-stops-i-wasnt-the-first)
+* [2026-08-03, 14:15:47](https://news.ycombinator.com/item?id=49156111) - [Devtools must be open source](https://blog.exe.dev/devtools-must-be-open-source)
+* [2026-08-03, 14:13:24](https://news.ycombinator.com/item?id=49156071) - [Utah produced more power from solar than any other source in May, a new first](https://www.sltrib.com/news/environment/2026/08/03/utah-sets-solar-power-record/)
+* [2026-08-03, 14:09:00](https://news.ycombinator.com/item?id=49156011) - [Andy Pavlo Joins ClickHouse to Establish ClickHouse Labs](https://clickhouse.com/blog/andy-pavlo-joins-clickhouse)
+* [2026-08-03, 14:02:37](https://news.ycombinator.com/item?id=49155940) - [The Future, Made in China](https://www.newyorker.com/magazine/2026/08/10/the-future-made-in-china)
 * [2026-08-03, 13:34:43](https://news.ycombinator.com/item?id=49155629) - [MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video](https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui)
 * [2026-08-03, 13:34:25](https://news.ycombinator.com/item?id=49155626) - [SPF Record Syntax: Mechanisms, Qualifiers, Modifiers, and Macros](https://dmarcguard.io/blog/spf-record-syntax/)
 * [2026-08-03, 13:22:44](https://news.ycombinator.com/item?id=49155492) - [Ask HN: What are the viable alternatives to DuckDuckGo?](https://news.ycombinator.com/item?id=49155492)

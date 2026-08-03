@@ -77,6 +77,7 @@
 * [2026-07-28, 13:00:56](https://news.ycombinator.com/item?id=49083146) - [Turtle-inspired interactive Python project](https://www.codembark.com/projects/fv20lz9map/spider-web-drawing)
 * [2026-07-28, 13:00:45](https://news.ycombinator.com/item?id=49083141) - [AWS Secrets Manager Terraform: Least-Privilege Access](https://blog.victorsilva.com.uy/aws-secrets-manager-terraform-least-privilege/)
 * [2026-07-28, 13:00:12](https://news.ycombinator.com/item?id=49083132) - [What AI developers could learn from Charles Bukowski?](https://galjot.si/what-ai-developers-could-learn-from-charles-bukowski)
+* [2026-07-28, 12:41:00](https://news.ycombinator.com/item?id=49082937) - [Hollywood Stopped Making Movies in Hollywood](https://www.statsignificant.com/p/how-hollywood-stopped-making-movies)
 * [2026-07-28, 12:34:07](https://news.ycombinator.com/item?id=49082857) - [I'm 38 and I Can't Support Myself Anymore](https://itsmevox.substack.com/p/im-38-and-i-cant-support-myself-anymore)
 * [2026-07-28, 12:27:05](https://news.ycombinator.com/item?id=49082779) - [Show HN: Segue – Save context in one AI, load it in another by a short handle](https://segue.ai/)
 * [2026-07-28, 12:19:07](https://news.ycombinator.com/item?id=49082695) - [Mondragon Corporation – a federation of co-operatives](https://en.wikipedia.org/wiki/Mondragon_Corporation)
