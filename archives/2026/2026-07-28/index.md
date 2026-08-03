@@ -102,6 +102,7 @@
 * [2026-07-28, 04:11:45](https://news.ycombinator.com/item?id=49079247) - [Show HN: A 6M-token movable window on a single 46GB GPU](https://arxiv.org/abs/2607.23806)
 * [2026-07-28, 04:00:41](https://news.ycombinator.com/item?id=49079175) - [Why do we think we understand the world more than we actually do?](https://thedecisionlab.com/biases/the-illusion-of-explanatory-depth)
 * [2026-07-28, 03:56:08](https://news.ycombinator.com/item?id=49079146) - [The age of token efficiency, the age of libraries](https://golemui.com/blog/the-age-of-token-efficiency/)
+* [2026-07-28, 03:17:03](https://news.ycombinator.com/item?id=49078856) - [Walk on Decomposed Subdomains](https://clementjambon.github.io/wods/index.html#blogpost)
 * [2026-07-28, 02:37:14](https://news.ycombinator.com/item?id=49078583) - [Using an open model feels surprisingly good](https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/)
 * [2026-07-28, 02:35:28](https://news.ycombinator.com/item?id=49078575) - [An Uncomplicated Man](https://www.lrb.co.uk/the-paper/v48/n14/emily-wilson/an-uncomplicated-man)
 * [2026-07-28, 02:21:37](https://news.ycombinator.com/item?id=49078463) - [EYG: A Programming Language for Humans](https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/)

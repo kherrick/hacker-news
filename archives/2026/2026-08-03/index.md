@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-08-03](index.md)
 
+* [2026-08-03, 13:34:43](https://news.ycombinator.com/item?id=49155629) - [MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video](https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui)
+* [2026-08-03, 13:34:25](https://news.ycombinator.com/item?id=49155626) - [SPF Record Syntax: Mechanisms, Qualifiers, Modifiers, and Macros](https://dmarcguard.io/blog/spf-record-syntax/)
+* [2026-08-03, 13:22:44](https://news.ycombinator.com/item?id=49155492) - [Ask HN: What are the viable alternatives to DuckDuckGo?](https://news.ycombinator.com/item?id=49155492)
 * [2026-08-03, 11:59:10](https://news.ycombinator.com/item?id=49154601) - [The AI bubble is popping; we just don't know it yet](https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004)
 * [2026-08-03, 11:28:54](https://news.ycombinator.com/item?id=49154332) - [Critical CVE issued for hallucinated SQLite vulnerability](https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/)
 * [2026-08-03, 11:17:56](https://news.ycombinator.com/item?id=49154249) - [9front \"This Was Supposed to Be Fun\" Released](https://9front.org/releases/2026/08/02/0/)
