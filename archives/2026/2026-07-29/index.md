@@ -68,6 +68,7 @@
 * [2026-07-29, 12:51:40](https://news.ycombinator.com/item?id=49096847) - [G'mic 4.0: Squaring the Pixel, Easier](https://gmic.eu/gmic40/)
 * [2026-07-29, 12:48:18](https://news.ycombinator.com/item?id=49096811) - [Shipping Godot VR and Porting to PSVR2: A Partial Post Mortem](https://www.claire-blackshaw.com/blog/2026/07/shipping-godot-vr-and-porting-to-psvr2-a-partial-post-mortem/)
 * [2026-07-29, 12:43:36](https://news.ycombinator.com/item?id=49096767) - [Show HN: Echologue – the private AI voice journal I built for myself](https://echologue.com/)
+* [2026-07-29, 12:41:10](https://news.ycombinator.com/item?id=49096748) - [Playing with Georgia](https://mighil.com/playing-with-georgia)
 * [2026-07-29, 12:40:13](https://news.ycombinator.com/item?id=49096742) - [A Texture Lookup Approach to Bézier Curve Evaluation on the GPU (JCGT)](https://jcgt.org/published/0015/02/01/)
 * [2026-07-29, 12:33:02](https://news.ycombinator.com/item?id=49096654) - [Darktable](https://www.darktable.org/)
 * [2026-07-29, 12:29:20](https://news.ycombinator.com/item?id=49096605) - [Software for One](https://www.ajwaxman.com/writing/software-for-one)
