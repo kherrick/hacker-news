@@ -1,22 +1,42 @@
 [
   [
     [
+      "2026-08-03, 06:42:00",
+      "https://news.ycombinator.com/item?id=49152023"
+    ],
+    [
+      "Rust project goals: Immobile types and guaranteed destructors",
+      "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md"
+    ]
+  ],
+  [
+    [
+      "2026-08-03, 06:28:01",
+      "https://news.ycombinator.com/item?id=49151933"
+    ],
+    [
+      "Don't be a meat proxy",
+      "https://gruhn.me/blog/2026-08-03/"
+    ]
+  ],
+  [
+    [
+      "2026-08-03, 06:00:14",
+      "https://news.ycombinator.com/item?id=49151734"
+    ],
+    [
+      "More German than many Germans",
+      "https://mertbulan.com/more-german-than-many-germans/"
+    ]
+  ],
+  [
+    [
       "2026-08-03, 03:06:12",
       "https://news.ycombinator.com/item?id=49150773"
     ],
     [
       "AI migrated legacy COBOL programs to Java, bugs included",
       "https://arxiv.org/abs/2607.28271"
-    ]
-  ],
-  [
-    [
-      "2026-08-03, 02:30:30",
-      "https://news.ycombinator.com/item?id=49150561"
-    ],
-    [
-      "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
-      "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda"
     ]
   ],
   [
@@ -77,16 +97,6 @@
     [
       "Why Book Corners won't sync contributions back to OpenStreetMap",
       "https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/"
-    ]
-  ],
-  [
-    [
-      "2026-08-02, 23:05:41",
-      "https://news.ycombinator.com/item?id=49149326"
-    ],
-    [
-      "Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours",
-      "https://github.com/pg83/shitty"
     ]
   ],
   [
@@ -161,32 +171,12 @@
   ],
   [
     [
-      "2026-08-02, 16:19:17",
-      "https://news.ycombinator.com/item?id=49145883"
-    ],
-    [
-      "Rooting, firmware analysis and persistent credentials of TP-Link TL-841N",
-      "https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/"
-    ]
-  ],
-  [
-    [
       "2026-08-02, 15:41:08",
       "https://news.ycombinator.com/item?id=49145590"
     ],
     [
       "How the words we teach English language learners changed",
       "https://pudding.cool/2026/07/essential-words/"
-    ]
-  ],
-  [
-    [
-      "2026-08-02, 11:34:41",
-      "https://news.ycombinator.com/item?id=49143479"
-    ],
-    [
-      "Meshdiff – visually compare two STL versions in the browser, client-side",
-      "https://meshdiff.com/"
     ]
   ],
   [
@@ -261,22 +251,22 @@
   ],
   [
     [
+      "2026-07-29, 22:20:01",
+      "https://news.ycombinator.com/item?id=49103836"
+    ],
+    [
+      "Òrbites – Connection and constellation puzzle game",
+      "https://orbites.cat/"
+    ]
+  ],
+  [
+    [
       "2026-07-29, 14:25:54",
       "https://news.ycombinator.com/item?id=49097961"
     ],
     [
       "Developers are attached to tools because tools encode trust",
       "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/"
-    ]
-  ],
-  [
-    [
-      "2026-07-29, 06:47:22",
-      "https://news.ycombinator.com/item?id=49094151"
-    ],
-    [
-      "Fasttracker II clone in C using SDL 2",
-      "https://16-bits.org/ft2.php"
     ]
   ],
   [
@@ -291,11 +281,21 @@
   ],
   [
     [
+      "2026-07-28, 01:54:31",
+      "https://news.ycombinator.com/item?id=49078283"
+    ],
+    [
+      "Norway became a global salmon behemoth. Now it's facing the consequences",
+      "https://www.abc.net.au/news/2026-07-28/how-norway-s-salmon-industry-became-a-global-behemoth/106949872"
+    ]
+  ],
+  [
+    [
       "2026-07-27, 23:23:07",
       "https://news.ycombinator.com/item?id=49076945"
     ],
     [
-      "Convergence Is Not Enough",
+      "Convergence is not enough",
       "https://www.inkandswitch.com/livelymerge/notebook/lm-02/"
     ]
   ]
