@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-03, 20:02:21",
+      "https://news.ycombinator.com/item?id=49160699"
+    ],
+    [
+      "AI's debt binge can't last, hidden borrowing reaches $1.65T",
+      "https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/"
+    ]
+  ],
+  [
+    [
       "2026-08-03, 19:56:27",
       "https://news.ycombinator.com/item?id=49160631"
     ],
@@ -15,8 +25,18 @@
       "https://news.ycombinator.com/item?id=49160437"
     ],
     [
-      "The Dunning-Kruger Effect Is Probably Not Real",
+      "The Dunning-Kruger effect may just be a data artefact (2020)",
       "https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real"
+    ]
+  ],
+  [
+    [
+      "2026-08-03, 18:58:00",
+      "https://news.ycombinator.com/item?id=49159970"
+    ],
+    [
+      "KisakCOD – open-source reimplementation of Call of Duty 4 Multiplayer",
+      "https://github.com/SwagSoftware/KisakCOD"
     ]
   ],
   [
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2026-08-03, 16:07:09",
-      "https://news.ycombinator.com/item?id=49157645"
-    ],
-    [
-      "Explanation of INT8 ConvRot (FP8 is no longer needed)",
-      "https://note.com/hirorohi03/n/n047a8c5f7f8b?hl=en"
-    ]
-  ],
-  [
-    [
       "2026-08-03, 14:15:47",
       "https://news.ycombinator.com/item?id=49156111"
     ],
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2026-08-03, 13:13:02",
-      "https://news.ycombinator.com/item?id=49155359"
-    ],
-    [
-      "Wind and solar overtake fossil fuels in Germany for the first time",
-      "https://www.intellinews.com/wind-and-solar-overtake-fossil-fuels-in-germany-for-the-first-time-ever-458379/"
-    ]
-  ],
-  [
-    [
       "2026-08-03, 11:28:54",
       "https://news.ycombinator.com/item?id=49154332"
     ],
@@ -197,16 +197,6 @@
     [
       "Prevent cognitive debt by manually retyping LLM-generated code",
       "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/"
-    ]
-  ],
-  [
-    [
-      "2026-08-03, 09:29:46",
-      "https://news.ycombinator.com/item?id=49153361"
-    ],
-    [
-      "What DMARC Protects You From, and What It Does Not",
-      "https://senderledger.com/articles/what-dmarc-actually-protects-you-from"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "C++ float-to-int conversion can be undefined behavior",
       "https://kttnr.net/blog/cpp-float-to-int-conversion-undefined-behavior/"
+    ]
+  ],
+  [
+    [
+      "2026-07-30, 07:15:33",
+      "https://news.ycombinator.com/item?id=49106935"
+    ],
+    [
+      "Replacing the Kobo Libra H2O Battery",
+      "https://ei3lh.eu/2025/11/20/replacing-the-kobo-libra-h2o-battery/"
     ]
   ],
   [
