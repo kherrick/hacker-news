@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-08-03](index.md)
 
+* [2026-08-03, 11:59:10](https://news.ycombinator.com/item?id=49154601) - [The AI bubble is popping; we just don't know it yet](https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004)
+* [2026-08-03, 11:28:54](https://news.ycombinator.com/item?id=49154332) - [Critical CVE issued for hallucinated SQLite vulnerability](https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/)
+* [2026-08-03, 11:17:56](https://news.ycombinator.com/item?id=49154249) - [9front \"This Was Supposed to Be Fun\" Released](https://9front.org/releases/2026/08/02/0/)
+* [2026-08-03, 11:16:33](https://news.ycombinator.com/item?id=49154237) - [ICE Collected Nearly 1M People's DNA Last Year–Including Young Children](https://www.wired.com/story/ice-dna-collection-fbi-codis/)
+* [2026-08-03, 11:06:15](https://news.ycombinator.com/item?id=49154127) - [Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone](https://github.com/garagehq/nightcrawler/)
 * [2026-08-03, 09:32:07](https://news.ycombinator.com/item?id=49153374) - [Prevent cognitive debt by manually retyping LLM-generated code](https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/)
 * [2026-08-03, 09:29:46](https://news.ycombinator.com/item?id=49153361) - [What DMARC Protects You From, and What It Does Not](https://senderledger.com/articles/what-dmarc-actually-protects-you-from)
 * [2026-08-03, 09:25:15](https://news.ycombinator.com/item?id=49153308) - [MPs demand answers on Fujitsu's inclusion in lucrative frameworks](https://www.computerweekly.com/news/366646721/MPs-demand-answers-on-Fujitsus-inclusion-in-lucrative-frameworks)
