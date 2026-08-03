@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-03](index.md)
 
+* [2026-08-03, 18:32:06](https://news.ycombinator.com/item?id=49159676) - [ZX Spectrum System Tour: Sound](https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/)
 * [2026-08-03, 17:27:08](https://news.ycombinator.com/item?id=49158837) - [Leaked Flock Guide Shows How It Teaches Cops to Promote Its Tech](https://www.404media.co/own-the-narrative-leaked-flock-guide-shows-how-it-teaches-cops-to-promote-its-tech/)
 * [2026-08-03, 17:18:06](https://news.ycombinator.com/item?id=49158714) - [The Billable Usage API: programmatic cost visibility for Cloudflare](https://blog.cloudflare.com/billable-usage-api/)
 * [2026-08-03, 17:08:46](https://news.ycombinator.com/item?id=49158581) - [Smaller, faster, safer: running Kimi and GLM at scale](https://blog.cloudflare.com/smaller-faster-safer-models/)
@@ -27,6 +28,7 @@
 * [2026-08-03, 13:22:44](https://news.ycombinator.com/item?id=49155492) - [Ask HN: What are the viable alternatives to DuckDuckGo?](https://news.ycombinator.com/item?id=49155492)
 * [2026-08-03, 13:13:02](https://news.ycombinator.com/item?id=49155359) - [Wind and solar overtake fossil fuels in Germany for the first time](https://www.intellinews.com/wind-and-solar-overtake-fossil-fuels-in-germany-for-the-first-time-ever-458379/)
 * [2026-08-03, 11:59:10](https://news.ycombinator.com/item?id=49154601) - [The AI bubble is popping; we just don't know it yet](https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004)
+* [2026-08-03, 11:41:26](https://news.ycombinator.com/item?id=49154441) - [The Potomac River Midair Collision](https://admiralcloudberg.medium.com/reaping-the-whirlwind-inside-the-potomac-river-midair-collision-0475416f2b0f)
 * [2026-08-03, 11:28:54](https://news.ycombinator.com/item?id=49154332) - [Critical CVE issued for hallucinated SQLite vulnerability](https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/)
 * [2026-08-03, 11:17:56](https://news.ycombinator.com/item?id=49154249) - [9front \"This Was Supposed to Be Fun\" Released](https://9front.org/releases/2026/08/02/0/)
 * [2026-08-03, 11:16:33](https://news.ycombinator.com/item?id=49154237) - [ICE Collected Nearly 1M People's DNA Last Year–Including Young Children](https://www.wired.com/story/ice-dna-collection-fbi-codis/)
