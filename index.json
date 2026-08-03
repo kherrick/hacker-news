@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2026-08-02, 22:06:34",
+      "https://news.ycombinator.com/item?id=49148899"
+    ],
+    [
+      "Show HN: Mu – Tools for Agents",
+      "https://github.com/micro/mu"
+    ]
+  ],
+  [
+    [
       "2026-08-02, 20:44:24",
       "https://news.ycombinator.com/item?id=49148128"
     ],
@@ -67,26 +77,6 @@
     [
       "Sharing an X11 Server Across Hosts with FamilyWild",
       "https://dobrowolski.dev/article/sharing-an-x-server-across-hosts-with-familywild/"
-    ]
-  ],
-  [
-    [
-      "2026-08-02, 20:17:16",
-      "https://news.ycombinator.com/item?id=49147890"
-    ],
-    [
-      "Let the machines in",
-      "https://blog.semenzin.com/let-the-machines-in/"
-    ]
-  ],
-  [
-    [
-      "2026-08-02, 20:12:39",
-      "https://news.ycombinator.com/item?id=49147853"
-    ],
-    [
-      "Adding Go's Defer to the TypeScript Compiler",
-      "https://healeycodes.com/adding-defer-to-the-typescript-compiler"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Autoregressive Language Model on the 6502 Processor",
       "https://mattbeton.com/blog/bitnet-6502.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-30, 17:26:33",
+      "https://news.ycombinator.com/item?id=49113005"
+    ],
+    [
+      "A tool for finding the causes of unstable Python tests",
+      "https://github.com/mgaitan/pytest-leak-finder"
     ]
   ],
   [
