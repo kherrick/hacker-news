@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-08-03, 03:06:12",
+      "https://news.ycombinator.com/item?id=49150773"
+    ],
+    [
+      "AI migrated legacy COBOL programs to Java, bugs included",
+      "https://arxiv.org/abs/2607.28271"
+    ]
+  ],
+  [
+    [
+      "2026-08-03, 02:30:30",
+      "https://news.ycombinator.com/item?id=49150561"
+    ],
+    [
+      "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
+      "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda"
+    ]
+  ],
+  [
+    [
       "2026-08-03, 02:16:09",
       "https://news.ycombinator.com/item?id=49150470"
     ],
@@ -145,7 +165,7 @@
       "https://news.ycombinator.com/item?id=49146960"
     ],
     [
-      "The Myth of Snow Leopard",
+      "The myth of Snow Leopard",
       "https://www.rubenerd.au/the-myth-of-snow-leopard/"
     ]
   ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2026-08-02, 12:36:07",
-      "https://news.ycombinator.com/item?id=49143967"
-    ],
-    [
-      "Twenty Years of RISC OS Open",
-      "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open"
-    ]
-  ],
-  [
-    [
       "2026-08-02, 12:31:16",
       "https://news.ycombinator.com/item?id=49143925"
     ],
@@ -221,12 +231,12 @@
   ],
   [
     [
-      "2026-07-31, 16:17:04",
-      "https://news.ycombinator.com/item?id=49125065"
+      "2026-07-31, 14:09:54",
+      "https://news.ycombinator.com/item?id=49123353"
     ],
     [
-      "Why we write our own C and C++ inference engines",
-      "https://localai.io/blog/why-we-write-our-own-engines/"
+      "Cro – elegant reactive services in Raku",
+      "https://cro.raku.org/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Developers are attached to tools because tools encode trust",
       "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/"
-    ]
-  ],
-  [
-    [
-      "2026-07-29, 12:41:10",
-      "https://news.ycombinator.com/item?id=49096748"
-    ],
-    [
-      "Playing with Georgia",
-      "https://mighil.com/playing-with-georgia"
     ]
   ],
   [
