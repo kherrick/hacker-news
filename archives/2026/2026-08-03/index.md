@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-08-03](index.md)
 
+* [2026-08-03, 06:42:00](https://news.ycombinator.com/item?id=49152023) - [Rust project goals: Immobile types and guaranteed destructors](https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md)
+* [2026-08-03, 06:28:01](https://news.ycombinator.com/item?id=49151933) - [Don't be a meat proxy](https://gruhn.me/blog/2026-08-03/)
+* [2026-08-03, 06:00:14](https://news.ycombinator.com/item?id=49151734) - [More German than many Germans](https://mertbulan.com/more-german-than-many-germans/)
 * [2026-08-03, 03:06:12](https://news.ycombinator.com/item?id=49150773) - [AI migrated legacy COBOL programs to Java, bugs included](https://arxiv.org/abs/2607.28271)
 * [2026-08-03, 02:30:30](https://news.ycombinator.com/item?id=49150561) - [OpenAI's super PAC is funding AI-generated news site attacking industry critics](https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda)
 * [2026-08-03, 02:16:09](https://news.ycombinator.com/item?id=49150470) - [Qwen3.8-Max: A New Bar for Coding and Cowork](https://qwen.ai/blog?id=qwen3.8)

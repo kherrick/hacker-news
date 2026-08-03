@@ -9,6 +9,7 @@
 * [2026-07-29, 22:53:44](https://news.ycombinator.com/item?id=49104140) - [Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)](https://archive.org/details/mancomputerbyjoh0000john)
 * [2026-07-29, 22:51:03](https://news.ycombinator.com/item?id=49104117) - [LLM Honeypot](https://llm2human.pages.dev/)
 * [2026-07-29, 22:27:09](https://news.ycombinator.com/item?id=49103910) - [GitHub is the wrong shape for this new world](https://depot.dev/blog/github-is-the-wrong-shape-for-this-new-world)
+* [2026-07-29, 22:20:01](https://news.ycombinator.com/item?id=49103836) - [Òrbites – Connection and constellation puzzle game](https://orbites.cat/)
 * [2026-07-29, 21:25:40](https://news.ycombinator.com/item?id=49103285) - [AI's top startups are barely publishing their research](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research)
 * [2026-07-29, 21:06:42](https://news.ycombinator.com/item?id=49103089) - [The Cold Email](https://zachholman.com/posts/cold-email)
 * [2026-07-29, 21:03:50](https://news.ycombinator.com/item?id=49103059) - [RCade: The Arcade Cabinet with CI/CD Deployment, Custom Graphics Card for CRT [video]](https://www.youtube.com/watch?v=W-OpIbLUOU0)
