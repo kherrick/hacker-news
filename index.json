@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-08-03, 17:02:10",
+      "https://news.ycombinator.com/item?id=49158474"
+    ],
+    [
+      "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
+      "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase"
+    ]
+  ],
+  [
+    [
+      "2026-08-03, 16:41:40",
+      "https://news.ycombinator.com/item?id=49158141"
+    ],
+    [
+      "SearXNG in Rust",
+      "https://github.com/MikeLuu99/searxng-rust"
+    ]
+  ],
+  [
+    [
       "2026-08-03, 16:32:06",
       "https://news.ycombinator.com/item?id=49157997"
     ],
@@ -55,7 +75,7 @@
       "https://news.ycombinator.com/item?id=49157128"
     ],
     [
-      "Taylor Farms Has Rewritten Its Cyclospora Statement Four Times in Sixteen Days",
+      "Taylor Farms has rewritten its cyclospora statement four times in sixteen days",
       "https://www.marlerblog.com/case-news/taylor-farms-has-rewritten-its-cyclospora-statement-four-times-in-sixteen-days-it-still-has-not-said-what-changed-at-that-plant-after-2013-or-why-two-thousand-negative-tests-should-mean-an/"
     ]
   ],
@@ -75,7 +95,7 @@
       "https://news.ycombinator.com/item?id=49156011"
     ],
     [
-      "Andy Pavlo Joins ClickHouse to Establish ClickHouse Labs",
+      "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
       "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse"
     ]
   ],
@@ -115,7 +135,7 @@
       "https://news.ycombinator.com/item?id=49154332"
     ],
     [
-      "Critical CVE issued for hallucinated SQLite vulnerability",
+      "SQLite Critical CVEs or LLM Slop?",
       "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/"
     ]
   ],
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2026-08-03, 00:46:38",
-      "https://news.ycombinator.com/item?id=49149966"
-    ],
-    [
-      "Show HN: Isopolis – Isometric pixel map of SF",
-      "https://sf.isopolis.city/"
-    ]
-  ],
-  [
-    [
       "2026-08-02, 20:19:16",
       "https://news.ycombinator.com/item?id=49147907"
     ],
     [
       "Games at the press of a button: The Rip-O-Bot (1989)",
       "https://blog.gingerbeardman.com/2026/08/02/games-at-the-press-of-a-button-the-rip-o-bot/"
-    ]
-  ],
-  [
-    [
-      "2026-08-02, 14:50:48",
-      "https://news.ycombinator.com/item?id=49145193"
-    ],
-    [
-      "Finding zombies in our systems: A real-world story of CPU bottlenecks",
-      "https://medium.com/pinterest-engineering/finding-zombies-in-our-systems-a-real-world-story-of-cpu-bottlenecks-ea4722e552eb"
     ]
   ],
   [
