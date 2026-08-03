@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-08-03, 11:59:10",
+      "https://news.ycombinator.com/item?id=49154601"
+    ],
+    [
+      "The AI bubble is popping; we just don't know it yet",
+      "https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004"
+    ]
+  ],
+  [
+    [
+      "2026-08-03, 11:28:54",
+      "https://news.ycombinator.com/item?id=49154332"
+    ],
+    [
+      "Critical CVE issued for hallucinated SQLite vulnerability",
+      "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/"
+    ]
+  ],
+  [
+    [
+      "2026-08-03, 11:17:56",
+      "https://news.ycombinator.com/item?id=49154249"
+    ],
+    [
+      "9front \"This Was Supposed to Be Fun\" Released",
+      "https://9front.org/releases/2026/08/02/0/"
+    ]
+  ],
+  [
+    [
+      "2026-08-03, 11:16:33",
+      "https://news.ycombinator.com/item?id=49154237"
+    ],
+    [
+      "ICE Collected Nearly 1M People's DNA Last Year–Including Young Children",
+      "https://www.wired.com/story/ice-dna-collection-fbi-codis/"
+    ]
+  ],
+  [
+    [
+      "2026-08-03, 11:06:15",
+      "https://news.ycombinator.com/item?id=49154127"
+    ],
+    [
+      "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
+      "https://github.com/garagehq/nightcrawler/"
+    ]
+  ],
+  [
+    [
       "2026-08-03, 09:32:07",
       "https://news.ycombinator.com/item?id=49153374"
     ],
@@ -17,16 +67,6 @@
     [
       "What DMARC Protects You From, and What It Does Not",
       "https://senderledger.com/articles/what-dmarc-actually-protects-you-from"
-    ]
-  ],
-  [
-    [
-      "2026-08-03, 09:25:15",
-      "https://news.ycombinator.com/item?id=49153308"
-    ],
-    [
-      "MPs demand answers on Fujitsu's inclusion in lucrative frameworks",
-      "https://www.computerweekly.com/news/366646721/MPs-demand-answers-on-Fujitsus-inclusion-in-lucrative-frameworks"
     ]
   ],
   [
@@ -77,26 +117,6 @@
     [
       "Octane – React's programming model, compiled",
       "https://octanejs.dev"
-    ]
-  ],
-  [
-    [
-      "2026-08-03, 07:22:27",
-      "https://news.ycombinator.com/item?id=49152316"
-    ],
-    [
-      "The Shape of Things to Come",
-      "https://yegge.ai/essays/the-shape-of-things-to-come/"
-    ]
-  ],
-  [
-    [
-      "2026-08-03, 07:07:20",
-      "https://news.ycombinator.com/item?id=49152222"
-    ],
-    [
-      "The AI Productivity Gap",
-      "https://bjorg.bjornroche.com/management/ai-productivity-gap/"
     ]
   ],
   [
@@ -191,32 +211,12 @@
   ],
   [
     [
-      "2026-08-02, 18:21:45",
-      "https://news.ycombinator.com/item?id=49146960"
-    ],
-    [
-      "The myth of Snow Leopard",
-      "https://www.rubenerd.au/the-myth-of-snow-leopard/"
-    ]
-  ],
-  [
-    [
       "2026-08-02, 16:26:40",
       "https://news.ycombinator.com/item?id=49145937"
     ],
     [
       "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
       "https://github.com/wie-project/kakehashi"
-    ]
-  ],
-  [
-    [
-      "2026-07-31, 23:31:28",
-      "https://news.ycombinator.com/item?id=49129676"
-    ],
-    [
-      "Read the novels and forget everything else",
-      "https://hedgehogreview.com/web-features/thr/posts/read-the-novels-and-forget-everything-else"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2026-07-30, 18:56:00",
+      "https://news.ycombinator.com/item?id=49114146"
+    ],
+    [
+      "Characterizing Warp Divergence from Pascal to Blackwell",
+      "https://arxiv.org/abs/2607.23402"
+    ]
+  ],
+  [
+    [
       "2026-07-29, 14:25:54",
       "https://news.ycombinator.com/item?id=49097961"
     ],
@@ -277,16 +287,6 @@
     [
       "Note-Taking and Personal Knowledge Management",
       "https://unattributed.cc/note-taking-and-personal-knowledge-management"
-    ]
-  ],
-  [
-    [
-      "2026-07-28, 01:54:31",
-      "https://news.ycombinator.com/item?id=49078283"
-    ],
-    [
-      "Norway became a global salmon behemoth. Now it's facing the consequences",
-      "https://www.abc.net.au/news/2026-07-28/how-norway-s-salmon-industry-became-a-global-behemoth/106949872"
     ]
   ],
   [
