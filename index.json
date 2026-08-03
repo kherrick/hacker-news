@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-08-03, 16:32:06",
+      "https://news.ycombinator.com/item?id=49157997"
+    ],
+    [
+      "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
+      "https://hoplite.sh"
+    ]
+  ],
+  [
+    [
+      "2026-08-03, 16:27:12",
+      "https://news.ycombinator.com/item?id=49157930"
+    ],
+    [
+      "Ten advances in mathematics and theoretical computer science",
+      "https://openai.com/index/ten-advances-in-mathematics/"
+    ]
+  ],
+  [
+    [
+      "2026-08-03, 16:17:59",
+      "https://news.ycombinator.com/item?id=49157807"
+    ],
+    [
+      "Show HN: Product analytics (and evals) for agent sessions on your MCP",
+      "https://armature.tech/"
+    ]
+  ],
+  [
+    [
+      "2026-08-03, 16:16:40",
+      "https://news.ycombinator.com/item?id=49157786"
+    ],
+    [
+      "What's the largest software project AI can complete on its own?",
+      "https://epoch.ai/MirrorCode"
+    ]
+  ],
+  [
+    [
+      "2026-08-03, 16:07:09",
+      "https://news.ycombinator.com/item?id=49157645"
+    ],
+    [
+      "Explanation of INT8 ConvRot (FP8 is no longer needed)",
+      "https://note.com/hirorohi03/n/n047a8c5f7f8b?hl=en"
+    ]
+  ],
+  [
+    [
       "2026-08-03, 15:31:32",
       "https://news.ycombinator.com/item?id=49157128"
     ],
@@ -11,32 +61,12 @@
   ],
   [
     [
-      "2026-08-03, 14:29:51",
-      "https://news.ycombinator.com/item?id=49156299"
-    ],
-    [
-      "Why does Mail app contact iCloud when sending a non-iCloud email?",
-      "https://lapcatsoftware.com/articles/2026/8/2.html"
-    ]
-  ],
-  [
-    [
       "2026-08-03, 14:15:47",
       "https://news.ycombinator.com/item?id=49156111"
     ],
     [
       "Devtools must be open source",
       "https://blog.exe.dev/devtools-must-be-open-source"
-    ]
-  ],
-  [
-    [
-      "2026-08-03, 14:13:24",
-      "https://news.ycombinator.com/item?id=49156071"
-    ],
-    [
-      "Utah produced more power from solar than any other source in May, a new first",
-      "https://www.sltrib.com/news/environment/2026/08/03/utah-sets-solar-power-record/"
     ]
   ],
   [
@@ -131,26 +161,6 @@
   ],
   [
     [
-      "2026-08-03, 08:47:23",
-      "https://news.ycombinator.com/item?id=49152973"
-    ],
-    [
-      "The true power of regular expressions (2012)",
-      "https://www.npopov.com/2012/06/15/The-true-power-of-regular-expressions.html"
-    ]
-  ],
-  [
-    [
-      "2026-08-03, 08:34:24",
-      "https://news.ycombinator.com/item?id=49152871"
-    ],
-    [
-      "Show HN: We Fixed UniFi's Slow PPPoE Performance with PPPoE Half-Bridge",
-      "https://arcbox.dev/blog/unifi-pppoe-half-bridge-acceleration"
-    ]
-  ],
-  [
-    [
       "2026-08-03, 08:29:57",
       "https://news.ycombinator.com/item?id=49152842"
     ],
@@ -165,7 +175,7 @@
       "https://news.ycombinator.com/item?id=49152640"
     ],
     [
-      "Octane – React's programming model, compiled",
+      "Octane – React’s programming model, compiled",
       "https://octanejs.dev"
     ]
   ],
@@ -241,32 +251,12 @@
   ],
   [
     [
-      "2026-07-31, 16:17:04",
-      "https://news.ycombinator.com/item?id=49125065"
-    ],
-    [
-      "Why we write our own C and C++ inference engines",
-      "https://localai.io/blog/why-we-write-our-own-engines/"
-    ]
-  ],
-  [
-    [
       "2026-07-30, 21:18:39",
       "https://news.ycombinator.com/item?id=49115935"
     ],
     [
       "Train Simulator Controller",
       "https://z80.me/blog/tsc-2026-july/"
-    ]
-  ],
-  [
-    [
-      "2026-07-30, 18:56:00",
-      "https://news.ycombinator.com/item?id=49114146"
-    ],
-    [
-      "Characterizing Warp Divergence from Pascal to Blackwell",
-      "https://arxiv.org/abs/2607.23402"
     ]
   ],
   [
@@ -281,11 +271,21 @@
   ],
   [
     [
+      "2026-07-30, 09:59:11",
+      "https://news.ycombinator.com/item?id=49107888"
+    ],
+    [
+      "C++ float-to-int conversion can be undefined behavior",
+      "https://kttnr.net/blog/cpp-float-to-int-conversion-undefined-behavior/"
+    ]
+  ],
+  [
+    [
       "2026-07-28, 12:41:00",
       "https://news.ycombinator.com/item?id=49082937"
     ],
     [
-      "Hollywood Stopped Making Movies in Hollywood",
+      "How Hollywood stopped making movies in Hollywood",
       "https://www.statsignificant.com/p/how-hollywood-stopped-making-movies"
     ]
   ],
