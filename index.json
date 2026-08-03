@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2026-08-02, 22:35:35",
-      "https://news.ycombinator.com/item?id=49149125"
-    ],
-    [
-      "The Computational Theory of Mind (2015)",
-      "https://plato.stanford.edu/entries/computational-mind/"
-    ]
-  ],
-  [
-    [
       "2026-08-02, 20:33:01",
       "https://news.ycombinator.com/item?id=49148048"
     ],
@@ -167,6 +157,16 @@
     [
       "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
       "https://github.com/wie-project/kakehashi"
+    ]
+  ],
+  [
+    [
+      "2026-08-02, 16:19:17",
+      "https://news.ycombinator.com/item?id=49145883"
+    ],
+    [
+      "Rooting, firmware analysis and persistent credentials of TP-Link TL-841N",
+      "https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/"
     ]
   ],
   [
@@ -251,22 +251,22 @@
   ],
   [
     [
-      "2026-07-29, 22:20:01",
-      "https://news.ycombinator.com/item?id=49103836"
-    ],
-    [
-      "Òrbites – Connection and constellation puzzle game",
-      "https://orbites.cat/"
-    ]
-  ],
-  [
-    [
       "2026-07-29, 14:25:54",
       "https://news.ycombinator.com/item?id=49097961"
     ],
     [
       "Developers are attached to tools because tools encode trust",
       "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/"
+    ]
+  ],
+  [
+    [
+      "2026-07-29, 06:47:22",
+      "https://news.ycombinator.com/item?id=49094151"
+    ],
+    [
+      "Fasttracker II clone in C using SDL 2",
+      "https://16-bits.org/ft2.php"
     ]
   ],
   [
