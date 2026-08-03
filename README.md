@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-03, 21:13:53](https://news.ycombinator.com/item?id=49161518) - [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/)
 * [2026-08-03, 20:02:21](https://news.ycombinator.com/item?id=49160699) - [AI's debt binge can't last, hidden borrowing reaches $1.65T](https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/)
 * [2026-08-03, 19:56:27](https://news.ycombinator.com/item?id=49160631) - [DDoS against Norwegian government IT infrastructure – status](https://status.digdir.no/incidents/d7hvqmf2yr3l)
 * [2026-08-03, 19:39:34](https://news.ycombinator.com/item?id=49160437) - [The Dunning-Kruger effect may just be a data artefact (2020)](https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real)
@@ -23,7 +24,6 @@
 * [2026-08-03, 08:29:57](https://news.ycombinator.com/item?id=49152842) - [Bonsai: Janestreet's UI Library](https://github.com/janestreet/bonsai)
 * [2026-08-03, 06:42:00](https://news.ycombinator.com/item?id=49152023) - [Rust project goals: Immobile types and guaranteed destructors](https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md)
 * [2026-08-03, 06:28:01](https://news.ycombinator.com/item?id=49151933) - [Don't be a meat proxy](https://gruhn.me/blog/2026-08-03/)
-* [2026-08-03, 02:16:09](https://news.ycombinator.com/item?id=49150470) - [Qwen3.8-Max: A New Bar for Coding and Cowork](https://qwen.ai/blog?id=qwen3.8)
 * [2026-08-01, 10:17:06](https://news.ycombinator.com/item?id=49132992) - [200 Milliseconds](https://200ms.thenodebook.com)
 * [2026-07-31, 15:17:18](https://news.ycombinator.com/item?id=49124213) - [Massively Parallel Postgres Backups](https://planetscale.com/blog/massively-parallel-postgres-backups)
 * [2026-07-31, 13:47:58](https://news.ycombinator.com/item?id=49123105) - [Kelly Criterion Simulator](https://kellysimulator.com/)

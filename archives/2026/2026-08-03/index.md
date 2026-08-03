@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-03](index.md)
 
+* [2026-08-03, 21:13:53](https://news.ycombinator.com/item?id=49161518) - [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/)
 * [2026-08-03, 20:02:21](https://news.ycombinator.com/item?id=49160699) - [AI's debt binge can't last, hidden borrowing reaches $1.65T](https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/)
 * [2026-08-03, 19:56:27](https://news.ycombinator.com/item?id=49160631) - [DDoS against Norwegian government IT infrastructure – status](https://status.digdir.no/incidents/d7hvqmf2yr3l)
 * [2026-08-03, 19:39:34](https://news.ycombinator.com/item?id=49160437) - [The Dunning-Kruger Effect Is Probably Not Real](https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real)
