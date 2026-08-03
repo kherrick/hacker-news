@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-08-03, 19:56:27",
+      "https://news.ycombinator.com/item?id=49160631"
+    ],
+    [
+      "DDoS against Norwegian government IT infrastructure – status",
+      "https://status.digdir.no/incidents/d7hvqmf2yr3l"
+    ]
+  ],
+  [
+    [
+      "2026-08-03, 19:39:34",
+      "https://news.ycombinator.com/item?id=49160437"
+    ],
+    [
+      "The Dunning-Kruger Effect Is Probably Not Real",
+      "https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real"
+    ]
+  ],
+  [
+    [
       "2026-08-03, 18:32:06",
       "https://news.ycombinator.com/item?id=49159676"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2026-08-03, 11:06:15",
-      "https://news.ycombinator.com/item?id=49154127"
-    ],
-    [
-      "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
-      "https://github.com/garagehq/nightcrawler/"
-    ]
-  ],
-  [
-    [
       "2026-08-03, 09:32:07",
       "https://news.ycombinator.com/item?id=49153374"
     ],
@@ -267,16 +277,6 @@
     [
       "Kelly Criterion Simulator",
       "https://kellysimulator.com/"
-    ]
-  ],
-  [
-    [
-      "2026-07-30, 14:52:03",
-      "https://news.ycombinator.com/item?id=49110912"
-    ],
-    [
-      "Kraid is a now a real compiler",
-      "https://www.collabora.com/news-and-blog/news-and-events/kraid-is-a-now-a-real-compiler.html"
     ]
   ],
   [
