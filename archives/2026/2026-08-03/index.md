@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-08-03](index.md)
 
+* [2026-08-03, 15:31:32](https://news.ycombinator.com/item?id=49157128) - [Taylor Farms Has Rewritten Its Cyclospora Statement Four Times in Sixteen Days](https://www.marlerblog.com/case-news/taylor-farms-has-rewritten-its-cyclospora-statement-four-times-in-sixteen-days-it-still-has-not-said-what-changed-at-that-plant-after-2013-or-why-two-thousand-negative-tests-should-mean-an/)
 * [2026-08-03, 14:57:46](https://news.ycombinator.com/item?id=49156650) - [Flock's CEO Faced Me After Its Cameras Led to My Wrongful Stop](https://www.thedrive.com/podcast/flocks-ceo-wants-zero-wrongful-stops-i-wasnt-the-first)
+* [2026-08-03, 14:29:51](https://news.ycombinator.com/item?id=49156299) - [Why does Mail app contact iCloud when sending a non-iCloud email?](https://lapcatsoftware.com/articles/2026/8/2.html)
 * [2026-08-03, 14:15:47](https://news.ycombinator.com/item?id=49156111) - [Devtools must be open source](https://blog.exe.dev/devtools-must-be-open-source)
 * [2026-08-03, 14:13:24](https://news.ycombinator.com/item?id=49156071) - [Utah produced more power from solar than any other source in May, a new first](https://www.sltrib.com/news/environment/2026/08/03/utah-sets-solar-power-record/)
 * [2026-08-03, 14:09:00](https://news.ycombinator.com/item?id=49156011) - [Andy Pavlo Joins ClickHouse to Establish ClickHouse Labs](https://clickhouse.com/blog/andy-pavlo-joins-clickhouse)
@@ -12,6 +14,7 @@
 * [2026-08-03, 13:34:43](https://news.ycombinator.com/item?id=49155629) - [MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video](https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui)
 * [2026-08-03, 13:34:25](https://news.ycombinator.com/item?id=49155626) - [SPF Record Syntax: Mechanisms, Qualifiers, Modifiers, and Macros](https://dmarcguard.io/blog/spf-record-syntax/)
 * [2026-08-03, 13:22:44](https://news.ycombinator.com/item?id=49155492) - [Ask HN: What are the viable alternatives to DuckDuckGo?](https://news.ycombinator.com/item?id=49155492)
+* [2026-08-03, 13:13:02](https://news.ycombinator.com/item?id=49155359) - [Wind and solar overtake fossil fuels in Germany for the first time](https://www.intellinews.com/wind-and-solar-overtake-fossil-fuels-in-germany-for-the-first-time-ever-458379/)
 * [2026-08-03, 11:59:10](https://news.ycombinator.com/item?id=49154601) - [The AI bubble is popping; we just don't know it yet](https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004)
 * [2026-08-03, 11:28:54](https://news.ycombinator.com/item?id=49154332) - [Critical CVE issued for hallucinated SQLite vulnerability](https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/)
 * [2026-08-03, 11:17:56](https://news.ycombinator.com/item?id=49154249) - [9front \"This Was Supposed to Be Fun\" Released](https://9front.org/releases/2026/08/02/0/)

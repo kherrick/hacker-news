@@ -46,6 +46,7 @@
 * [2026-07-30, 15:10:27](https://news.ycombinator.com/item?id=49111176) - [The Economic Benefit of Refactoring](https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html)
 * [2026-07-30, 14:58:59](https://news.ycombinator.com/item?id=49111019) - [Show HN: Claude-account – switch Claude Code accounts without logging in again](https://github.com/hamzarehmandeveloper/claude-account)
 * [2026-07-30, 14:58:07](https://news.ycombinator.com/item?id=49111006) - [Paging Through a Parquet File in DuckDB: File_row_number or Offset?](https://rusty.today/blog/paging-parquet-duckdb-file-row-number-vs-offset/)
+* [2026-07-30, 14:52:03](https://news.ycombinator.com/item?id=49110912) - [Kraid is a now a real compiler](https://www.collabora.com/news-and-blog/news-and-events/kraid-is-a-now-a-real-compiler.html)
 * [2026-07-30, 14:36:59](https://news.ycombinator.com/item?id=49110655) - [SDL_GPU minimal, single-header, high-performance 2D graphics painting library](https://github.com/n67094/sdl_gp)
 * [2026-07-30, 14:34:56](https://news.ycombinator.com/item?id=49110624) - [Reversing Abstractions: An Existential Crisis](https://www.humprog.org/~stephen/blog/research/recovering-abstraction.html)
 * [2026-07-30, 14:31:13](https://news.ycombinator.com/item?id=49110577) - [Trusted URLs via Cryptographic Signatures](https://blog.certisfy.com/2026/04/trusted-urls-via-cryptographic.html)
