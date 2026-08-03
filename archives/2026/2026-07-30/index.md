@@ -81,6 +81,7 @@
 * [2026-07-30, 10:32:41](https://news.ycombinator.com/item?id=49108048) - [Gpiozero Flow](https://bennuttall.com/blog/2026/07/gpiozero-flow/)
 * [2026-07-30, 10:31:46](https://news.ycombinator.com/item?id=49108039) - [Atomarine: Nuclear Data Centers at Sea](https://atomarine.co/)
 * [2026-07-30, 10:13:46](https://news.ycombinator.com/item?id=49107950) - [Google will expand age checks on Android worldwide till the end of the year](https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html)
+* [2026-07-30, 09:59:11](https://news.ycombinator.com/item?id=49107888) - [C++ float-to-int conversion can be undefined behavior](https://kttnr.net/blog/cpp-float-to-int-conversion-undefined-behavior/)
 * [2026-07-30, 09:34:27](https://news.ycombinator.com/item?id=49107749) - [Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode](https://github.com/YoanWai/agent-manager)
 * [2026-07-30, 09:28:01](https://news.ycombinator.com/item?id=49107713) - [Carolina Cloud pays SOFR on unused prepaid credits](https://docs.carolinacloud.io/organizations/prepaid-interest/)
 * [2026-07-30, 08:45:17](https://news.ycombinator.com/item?id=49107441) - [Tailscale with Mullvad leaks your DNS](https://github.com/tailscale/tailscale/issues/9284)

@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-08-03](index.md)
 
+* [2026-08-03, 16:32:06](https://news.ycombinator.com/item?id=49157997) - [Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents](https://hoplite.sh)
+* [2026-08-03, 16:27:12](https://news.ycombinator.com/item?id=49157930) - [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/)
+* [2026-08-03, 16:17:59](https://news.ycombinator.com/item?id=49157807) - [Show HN: Product analytics (and evals) for agent sessions on your MCP](https://armature.tech/)
+* [2026-08-03, 16:16:40](https://news.ycombinator.com/item?id=49157786) - [What's the largest software project AI can complete on its own?](https://epoch.ai/MirrorCode)
+* [2026-08-03, 16:07:09](https://news.ycombinator.com/item?id=49157645) - [Explanation of INT8 ConvRot (FP8 is no longer needed)](https://note.com/hirorohi03/n/n047a8c5f7f8b?hl=en)
 * [2026-08-03, 15:31:32](https://news.ycombinator.com/item?id=49157128) - [Taylor Farms Has Rewritten Its Cyclospora Statement Four Times in Sixteen Days](https://www.marlerblog.com/case-news/taylor-farms-has-rewritten-its-cyclospora-statement-four-times-in-sixteen-days-it-still-has-not-said-what-changed-at-that-plant-after-2013-or-why-two-thousand-negative-tests-should-mean-an/)
 * [2026-08-03, 14:57:46](https://news.ycombinator.com/item?id=49156650) - [Flock's CEO Faced Me After Its Cameras Led to My Wrongful Stop](https://www.thedrive.com/podcast/flocks-ceo-wants-zero-wrongful-stops-i-wasnt-the-first)
 * [2026-08-03, 14:29:51](https://news.ycombinator.com/item?id=49156299) - [Why does Mail app contact iCloud when sending a non-iCloud email?](https://lapcatsoftware.com/articles/2026/8/2.html)
