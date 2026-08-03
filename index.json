@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-08-03, 11:59:10",
-      "https://news.ycombinator.com/item?id=49154601"
-    ],
-    [
-      "The AI bubble is popping; we just don't know it yet",
-      "https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004"
-    ]
-  ],
-  [
-    [
       "2026-08-03, 11:28:54",
       "https://news.ycombinator.com/item?id=49154332"
     ],
@@ -37,6 +27,16 @@
     [
       "ICE Collected Nearly 1M People's DNA Last Year–Including Young Children",
       "https://www.wired.com/story/ice-dna-collection-fbi-codis/"
+    ]
+  ],
+  [
+    [
+      "2026-08-03, 11:15:48",
+      "https://news.ycombinator.com/item?id=49154228"
+    ],
+    [
+      "AirLLM 70B inference with single 4GB GPU",
+      "https://github.com/lyogavin/airllm"
     ]
   ],
   [
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2026-07-31, 16:23:10",
+      "https://news.ycombinator.com/item?id=49125168"
+    ],
+    [
+      "The Abandoned Fish Sauce Terrorizing a Small Canadian Town",
+      "https://defector.com/abandoned-fish-sauce-canada-interview"
+    ]
+  ],
+  [
+    [
       "2026-07-31, 16:17:04",
       "https://news.ycombinator.com/item?id=49125065"
     ],
@@ -287,16 +297,6 @@
     [
       "Note-Taking and Personal Knowledge Management",
       "https://unattributed.cc/note-taking-and-personal-knowledge-management"
-    ]
-  ],
-  [
-    [
-      "2026-07-27, 23:23:07",
-      "https://news.ycombinator.com/item?id=49076945"
-    ],
-    [
-      "Convergence is not enough",
-      "https://www.inkandswitch.com/livelymerge/notebook/lm-02/"
     ]
   ]
 ]
