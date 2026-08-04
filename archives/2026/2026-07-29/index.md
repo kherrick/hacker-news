@@ -37,6 +37,7 @@
 * [2026-07-29, 16:42:20](https://news.ycombinator.com/item?id=49099804) - [Some thoughts about Anthropic's new cryptanalysis results](https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/)
 * [2026-07-29, 16:36:59](https://news.ycombinator.com/item?id=49099715) - [Keychron announces first open-source firmware for gaming mice](https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice)
 * [2026-07-29, 16:15:57](https://news.ycombinator.com/item?id=49099434) - [Show HN: Kedge – Full-stack cloud with forkable VM snapshots and global SQLite](https://kedge.dev/)
+* [2026-07-29, 16:07:46](https://news.ycombinator.com/item?id=49099336) - [Amazonian civilization had estimated 3M people in 3% of forest area](https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization)
 * [2026-07-29, 15:55:27](https://news.ycombinator.com/item?id=49099143) - [Launch HN: Tokenless (YC S26) – Automatic model switching to save money](https://usetokenless.com/)
 * [2026-07-29, 15:46:28](https://news.ycombinator.com/item?id=49099021) - [Ask HN: My domain registrar (Hover) rug-pulled me for $3000](https://news.ycombinator.com/item?id=49099021)
 * [2026-07-29, 15:45:56](https://news.ycombinator.com/item?id=49099015) - [Superlogical – Mitchell Hashimoto](https://mitchellh.com/writing/superlogical)
