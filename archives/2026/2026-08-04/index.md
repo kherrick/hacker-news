@@ -4,15 +4,18 @@
 
 ### [Archives](../../index.md) for [2026-08-04](index.md)
 
+* [2026-08-04, 17:43:55](https://news.ycombinator.com/item?id=49172251) - [Vlt 1.0 and Hosted Package Registries](https://www.vlt.io/blog/1-0)
 * [2026-08-04, 17:00:12](https://news.ycombinator.com/item?id=49171650) - [Truemetrics (YC S23) Is Hiring in Berlin – GTM Lead](https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead)
 * [2026-08-04, 16:29:02](https://news.ycombinator.com/item?id=49171172) - [Webb telescope finds signs of ancient disaster for Neptune's moons](https://www.reuters.com/science/webb-telescope-finds-signs-ancient-disaster-neptunes-moons-2026-08-03/)
 * [2026-08-04, 16:27:03](https://news.ycombinator.com/item?id=49171140) - [Show HN: Ex-Deloitte auditor open-sourced the whole SOC 2 method for your AI](https://github.com/Chiaro-HQ/methodology)
+* [2026-08-04, 16:21:02](https://news.ycombinator.com/item?id=49171068) - [MariaDB: Promote getting to 10k GitHub stars in server log and client prompt](https://github.com/MariaDB/server/pull/4262)
 * [2026-08-04, 16:10:39](https://news.ycombinator.com/item?id=49170915) - [When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation](https://arxiv.org/abs/2602.16763)
 * [2026-08-04, 15:51:51](https://news.ycombinator.com/item?id=49170648) - [The AI Demand Bubble](https://www.wheresyoured.at/the-ai-demand-bubble/)
 * [2026-08-04, 15:37:42](https://news.ycombinator.com/item?id=49170479) - [Apple says more ex-employees may have taken confidential data to OpenAI](https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/)
 * [2026-08-04, 15:16:22](https://news.ycombinator.com/item?id=49170165) - [Show HN: Simple algorithm and color space to generate diverse skin tones](https://toneyalexander.github.io/inclusive-color-space/)
 * [2026-08-04, 15:05:33](https://news.ycombinator.com/item?id=49170001) - [Online ad giant Adform was hacked, proving once again why ad blockers are needed](https://this.weekinsecurity.com/online-advertising-giant-adform-was-hacked-proving-once-again-why-ad-blockers-are-necessary/)
 * [2026-08-04, 14:38:31](https://news.ycombinator.com/item?id=49169640) - [Agent skills that bring team coding standards to Claude Code and Codex](https://github.com/tikalk/adlc-team-skills)
+* [2026-08-04, 14:07:30](https://news.ycombinator.com/item?id=49169227) - [It's not a fear of \"AI communism\"; it's a fear of competitive market capitalism](http://observationalepidemiology.blogspot.com/2026/07/its-not-fear-of-ai-communism-its-fear.html)
 * [2026-08-04, 13:43:00](https://news.ycombinator.com/item?id=49168886) - [Germany Records Historic 12B KWh Solar Feed-In in July 2026](https://solarquarter.com/2026/08/03/germany-records-historic-12-billion-kwh-solar-feed-in-in-july-2026/)
 * [2026-08-04, 12:01:02](https://news.ycombinator.com/item?id=49167448) - [Xbox goes down. You can't play games you own on disc](https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/)
 * [2026-08-04, 12:00:51](https://news.ycombinator.com/item?id=49167444) - [Roame (YC S23) Is Hiring Lead Engineer](https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer)
