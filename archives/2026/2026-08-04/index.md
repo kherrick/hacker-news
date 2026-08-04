@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-08-04](index.md)
 
+* [2026-08-04, 15:16:22](https://news.ycombinator.com/item?id=49170165) - [Show HN: Simple algorithm and color space to generate diverse skin tones](https://toneyalexander.github.io/inclusive-color-space/)
+* [2026-08-04, 15:05:33](https://news.ycombinator.com/item?id=49170001) - [Online ad giant Adform was hacked, proving once again why ad blockers are needed](https://this.weekinsecurity.com/online-advertising-giant-adform-was-hacked-proving-once-again-why-ad-blockers-are-necessary/)
 * [2026-08-04, 14:38:31](https://news.ycombinator.com/item?id=49169640) - [Agent skills that bring team coding standards to Claude Code and Codex](https://github.com/tikalk/adlc-team-skills)
+* [2026-08-04, 13:43:00](https://news.ycombinator.com/item?id=49168886) - [Germany Records Historic 12B KWh Solar Feed-In in July 2026](https://solarquarter.com/2026/08/03/germany-records-historic-12-billion-kwh-solar-feed-in-in-july-2026/)
 * [2026-08-04, 12:01:02](https://news.ycombinator.com/item?id=49167448) - [Xbox goes down. You can't play games you own on disc](https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/)
 * [2026-08-04, 12:00:51](https://news.ycombinator.com/item?id=49167444) - [Roame (YC S23) Is Hiring Lead Engineer](https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer)
 * [2026-08-04, 11:33:32](https://news.ycombinator.com/item?id=49167147) - [Buckminster Fuller: everything I know](https://www.bfi.org/about-fuller/everything-i-know/)
