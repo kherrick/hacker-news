@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-08-04](index.md)
 
+* [2026-08-04, 16:27:03](https://news.ycombinator.com/item?id=49171140) - [Show HN: Ex-Deloitte auditor open-sourced the whole SOC 2 method for your AI](https://github.com/Chiaro-HQ/methodology)
+* [2026-08-04, 16:10:39](https://news.ycombinator.com/item?id=49170915) - [When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation](https://arxiv.org/abs/2602.16763)
+* [2026-08-04, 15:37:42](https://news.ycombinator.com/item?id=49170479) - [Apple says more ex-employees may have taken confidential data to OpenAI](https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/)
 * [2026-08-04, 15:16:22](https://news.ycombinator.com/item?id=49170165) - [Show HN: Simple algorithm and color space to generate diverse skin tones](https://toneyalexander.github.io/inclusive-color-space/)
 * [2026-08-04, 15:05:33](https://news.ycombinator.com/item?id=49170001) - [Online ad giant Adform was hacked, proving once again why ad blockers are needed](https://this.weekinsecurity.com/online-advertising-giant-adform-was-hacked-proving-once-again-why-ad-blockers-are-necessary/)
 * [2026-08-04, 14:38:31](https://news.ycombinator.com/item?id=49169640) - [Agent skills that bring team coding standards to Claude Code and Codex](https://github.com/tikalk/adlc-team-skills)
