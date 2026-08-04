@@ -39,6 +39,7 @@
 * [2026-08-02, 16:26:40](https://news.ycombinator.com/item?id=49145937) - [Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM](https://github.com/wie-project/kakehashi)
 * [2026-08-02, 16:19:17](https://news.ycombinator.com/item?id=49145883) - [Rooting, firmware analysis and persistent credentials of TP-Link TL-841N](https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/)
 * [2026-08-02, 15:41:08](https://news.ycombinator.com/item?id=49145590) - [How the words we teach English language learners changed](https://pudding.cool/2026/07/essential-words/)
+* [2026-08-02, 15:26:47](https://news.ycombinator.com/item?id=49145480) - [Mosh in a Lift (2012)](https://mosh.org/elevator.txt)
 * [2026-08-02, 14:51:18](https://news.ycombinator.com/item?id=49145201) - [Ursula K. Le Guin: A Rant About \"Technology\" (2005)](https://www.ursulakleguin.com/a-rant-about-technology)
 * [2026-08-02, 14:50:48](https://news.ycombinator.com/item?id=49145193) - [Finding zombies in our systems: A real-world story of CPU bottlenecks](https://medium.com/pinterest-engineering/finding-zombies-in-our-systems-a-real-world-story-of-cpu-bottlenecks-ea4722e552eb)
 * [2026-08-02, 14:17:43](https://news.ycombinator.com/item?id=49144946) - [The Seinfeld Chronicles: Digital Edition](https://seinfeld.visualisingdata.com/)

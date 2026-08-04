@@ -24,10 +24,10 @@
 * [2026-08-03, 15:04:53](https://news.ycombinator.com/item?id=49156750) - [Twenty Years of Pandoc](https://pandoc.org/twenty-years-of-pandoc.html)
 * [2026-08-03, 15:00:54](https://news.ycombinator.com/item?id=49156683) - [Ask HN: Who is hiring? (August 2026)](https://news.ycombinator.com/item?id=49156683)
 * [2026-08-03, 14:15:47](https://news.ycombinator.com/item?id=49156111) - [Devtools must be open source](https://blog.exe.dev/devtools-must-be-open-source)
+* [2026-08-02, 15:26:47](https://news.ycombinator.com/item?id=49145480) - [Mosh in a Lift (2012)](https://mosh.org/elevator.txt)
 * [2026-08-01, 14:55:32](https://news.ycombinator.com/item?id=49135005) - [Archaeologists Find Ancient Glyphs in the Amazon](https://www.nytimes.com/2026/07/31/world/americas/amazon-archaeology-geoglyphs.html)
 * [2026-07-31, 23:13:03](https://news.ycombinator.com/item?id=49129545) - [Why etymologies matter: How tracing words can illuminate history (2024)](https://resobscura.substack.com/p/why-i-love-etymologies)
 * [2026-07-31, 06:25:48](https://news.ycombinator.com/item?id=49119671) - [Beauty in my backyard](https://worksinprogress.co/issue/beauty-in-my-backyard/)
-* [2026-07-29, 18:01:04](https://news.ycombinator.com/item?id=49100853) - [Cyberpunk Video Games](https://shellzine.net/cyberpunk-video-games/)
 * [2026-07-29, 16:07:46](https://news.ycombinator.com/item?id=49099336) - [Amazonian civilization had estimated 3M people in 3% of forest area](https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization)
 * [2026-07-29, 10:02:50](https://news.ycombinator.com/item?id=49095386) - [That time when I failed the Microsoft interview](https://ochagavia.nl/blog/that-time-when-i-failed-the-microsoft-interview/)
 
