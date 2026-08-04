@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-08-04](index.md)
 
+* [2026-08-04, 19:18:35](https://news.ycombinator.com/item?id=49173576) - [Investors in Situational Awareness deserved to lose their shirts](https://www.economist.com/finance-and-economics/2026/08/04/investors-in-situational-awareness-deserved-to-lose-their-shirts)
+* [2026-08-04, 18:51:38](https://news.ycombinator.com/item?id=49173165) - [Stephen Wolfram's Wife Has Died](https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/)
 * [2026-08-04, 18:36:02](https://news.ycombinator.com/item?id=49172936) - [Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research](https://edotenv.com/)
+* [2026-08-04, 18:29:41](https://news.ycombinator.com/item?id=49172836) - [Waymo – Dallas Open to All](https://waymo.com/blog/shorts/dallas-open-to-all/)
 * [2026-08-04, 18:29:32](https://news.ycombinator.com/item?id=49172834) - [Security Is Hard, Y'all](https://textslashplain.com/2026/08/04/security-is-hard-yall/)
 * [2026-08-04, 18:11:09](https://news.ycombinator.com/item?id=49172597) - [Blackmail Fail (2013)](https://gwern.net/blackmail)
 * [2026-08-04, 18:06:12](https://news.ycombinator.com/item?id=49172550) - [Why some people mow a lawn better than others](https://pudding.cool/2026/06/mow/)

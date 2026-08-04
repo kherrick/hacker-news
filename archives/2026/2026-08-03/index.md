@@ -39,6 +39,7 @@
 * [2026-08-03, 14:02:37](https://news.ycombinator.com/item?id=49155940) - [The Future, Made in China](https://www.newyorker.com/magazine/2026/08/10/the-future-made-in-china)
 * [2026-08-03, 13:34:43](https://news.ycombinator.com/item?id=49155629) - [MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video](https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui)
 * [2026-08-03, 13:34:25](https://news.ycombinator.com/item?id=49155626) - [SPF Record Syntax: Mechanisms, Qualifiers, Modifiers, and Macros](https://dmarcguard.io/blog/spf-record-syntax/)
+* [2026-08-03, 13:34:09](https://news.ycombinator.com/item?id=49155622) - [The Red Strings Club](https://www.vegard.net/the-red-strings-club-review/)
 * [2026-08-03, 13:28:10](https://news.ycombinator.com/item?id=49155555) - [Frame selection is the whole game: notes on making LLMs watch video](https://leoaido.com/how-llms-watch-video/)
 * [2026-08-03, 13:22:44](https://news.ycombinator.com/item?id=49155492) - [Ask HN: What are the viable alternatives to DuckDuckGo?](https://news.ycombinator.com/item?id=49155492)
 * [2026-08-03, 13:13:02](https://news.ycombinator.com/item?id=49155359) - [Wind and solar overtake fossil fuels in Germany for the first time](https://www.intellinews.com/wind-and-solar-overtake-fossil-fuels-in-germany-for-the-first-time-ever-458379/)
