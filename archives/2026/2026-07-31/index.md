@@ -85,6 +85,7 @@
 * [2026-07-31, 07:29:22](https://news.ycombinator.com/item?id=49120097) - [Google fixed more Chrome bugs in June than over the past two years, thanks to AI](https://blog.google/security/chrome-stronger-with-every-update/)
 * [2026-07-31, 07:16:01](https://news.ycombinator.com/item?id=49120000) - [Beltrunner: Game Design Postmortem](https://blog.gingerbeardman.com/2026/07/30/beltrunner-game-design-postmortem/)
 * [2026-07-31, 06:37:42](https://news.ycombinator.com/item?id=49119751) - [Show HN: A Handwritten Blogging Platform](https://handwritten.blog/)
+* [2026-07-31, 06:25:48](https://news.ycombinator.com/item?id=49119671) - [Beauty in my backyard](https://worksinprogress.co/issue/beauty-in-my-backyard/)
 * [2026-07-31, 06:08:36](https://news.ycombinator.com/item?id=49119559) - [DeepSeek-V4-Flash Update](https://api-docs.deepseek.com/updates/)
 * [2026-07-31, 05:45:13](https://news.ycombinator.com/item?id=49119425) - [Show HN: Gander, an Android file viewer that asks for no permissions at all](https://github.com/mokshablr/gander)
 * [2026-07-31, 05:26:13](https://news.ycombinator.com/item?id=49119322) - [Human Honeypot](https://human2llm.pages.dev/)
