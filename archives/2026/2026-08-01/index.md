@@ -32,6 +32,7 @@
 * [2026-08-01, 18:21:41](https://news.ycombinator.com/item?id=49136955) - [Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets](https://trufflesecurity.com/blog/scanning-7-6-petabytes-of-ai-training-data-for-secrets)
 * [2026-08-01, 18:07:07](https://news.ycombinator.com/item?id=49136821) - [How Google helped destroy adoption of RSS feeds (2023)](https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds)
 * [2026-08-01, 17:56:41](https://news.ycombinator.com/item?id=49136736) - [NetBSD 11.0 Released](https://blog.netbsd.org/tnf/entry/netbsd_11_0_released)
+* [2026-08-01, 17:18:48](https://news.ycombinator.com/item?id=49136363) - [Dates That Don't Exist (2015)](https://blog.yossarian.net/2015/06/09/Dates-That-Dont-Exist)
 * [2026-08-01, 17:08:03](https://news.ycombinator.com/item?id=49136236) - [Assessment of open AI math results](https://twitter.com/stalkermustang/status/2083485500250198453)
 * [2026-08-01, 16:52:41](https://news.ycombinator.com/item?id=49136063) - [I ♥ RSS – A directory of people who love RSS](https://andrewshell.org/2026/07/i-%e2%99%a5-rss/)
 * [2026-08-01, 16:52:38](https://news.ycombinator.com/item?id=49136061) - [Twelve Years Without a VPN](https://khessin.de/twelve-years-without-a-vpn/)

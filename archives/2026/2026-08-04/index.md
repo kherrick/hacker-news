@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-04](index.md)
 
+* [2026-08-04, 14:38:31](https://news.ycombinator.com/item?id=49169640) - [Agent skills that bring team coding standards to Claude Code and Codex](https://github.com/tikalk/adlc-team-skills)
 * [2026-08-04, 12:01:02](https://news.ycombinator.com/item?id=49167448) - [Xbox goes down. You can't play games you own on disc](https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/)
 * [2026-08-04, 12:00:51](https://news.ycombinator.com/item?id=49167444) - [Roame (YC S23) Is Hiring Lead Engineer](https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer)
 * [2026-08-04, 11:33:32](https://news.ycombinator.com/item?id=49167147) - [Buckminster Fuller: everything I know](https://www.bfi.org/about-fuller/everything-i-know/)
@@ -18,6 +19,7 @@
 * [2026-08-04, 10:07:06](https://news.ycombinator.com/item?id=49166442) - [Why Large Language Models Fail at Tabular Prediction](https://arxiv.org/abs/2608.02412)
 * [2026-08-04, 10:03:46](https://news.ycombinator.com/item?id=49166411) - [Learning-Rust.Github.io: Rust Programming Language Tutorials for Everyone](https://learning-rust.github.io)
 * [2026-08-04, 10:00:55](https://news.ycombinator.com/item?id=49166386) - [DeepSeek V4 Flash on a Single AMD MI300X](https://github.com/ryanzhou/deepseek-v4-flash-mi300x)
+* [2026-08-04, 09:52:35](https://news.ycombinator.com/item?id=49166331) - [\"Clean\" Code, Horrible Performance (2023)](https://www.computerenhance.com/p/clean-code-horrible-performance)
 * [2026-08-04, 09:48:43](https://news.ycombinator.com/item?id=49166308) - [Homebench – Benchmark local LLMs for speed, memory, and quality](https://github.com/david-g-3654/homebench)
 * [2026-08-04, 09:40:03](https://news.ycombinator.com/item?id=49166254) - [The US is not a democracy but an oligarchy, study concludes (2014)](https://www.upi.com/Top_News/US/2014/04/16/The-US-is-not-a-democracy-but-an-oligarchy-study-concludes/2761397680051/)
 * [2026-08-04, 09:35:15](https://news.ycombinator.com/item?id=49166230) - [An Honest Review of AI Programming](https://mropert.github.io/2026/08/04/an_honest_review_of_ai_programming/)

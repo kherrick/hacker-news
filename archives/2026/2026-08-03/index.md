@@ -27,6 +27,7 @@
 * [2026-08-03, 16:16:40](https://news.ycombinator.com/item?id=49157786) - [What's the largest software project AI can complete on its own?](https://epoch.ai/MirrorCode)
 * [2026-08-03, 16:07:09](https://news.ycombinator.com/item?id=49157645) - [Explanation of INT8 ConvRot (FP8 is no longer needed)](https://note.com/hirorohi03/n/n047a8c5f7f8b?hl=en)
 * [2026-08-03, 15:31:32](https://news.ycombinator.com/item?id=49157128) - [Taylor Farms Has Rewritten Its Cyclospora Statement Four Times in Sixteen Days](https://www.marlerblog.com/case-news/taylor-farms-has-rewritten-its-cyclospora-statement-four-times-in-sixteen-days-it-still-has-not-said-what-changed-at-that-plant-after-2013-or-why-two-thousand-negative-tests-should-mean-an/)
+* [2026-08-03, 15:20:13](https://news.ycombinator.com/item?id=49156969) - [Rebuilding and analysing 4 years of Wordle stats from WhatsApp chat logs](https://blog.omgmog.net/post/rebuilding-wordle-stats-from-whatsapp/)
 * [2026-08-03, 15:04:53](https://news.ycombinator.com/item?id=49156750) - [Twenty Years of Pandoc](https://pandoc.org/twenty-years-of-pandoc.html)
 * [2026-08-03, 15:00:54](https://news.ycombinator.com/item?id=49156683) - [Ask HN: Who is hiring? (August 2026)](https://news.ycombinator.com/item?id=49156683)
 * [2026-08-03, 15:00:54](https://news.ycombinator.com/item?id=49156682) - [Ask HN: Who wants to be hired? (August 2026)](https://news.ycombinator.com/item?id=49156682)
