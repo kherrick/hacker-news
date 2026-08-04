@@ -12,6 +12,7 @@
 * [2026-07-31, 21:00:40](https://news.ycombinator.com/item?id=49128462) - [Loops (YC W22) Is Hiring a Product Educator](https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator)
 * [2026-07-31, 20:44:29](https://news.ycombinator.com/item?id=49128323) - [Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena](https://arxiv.org/abs/2607.28233)
 * [2026-07-31, 20:27:28](https://news.ycombinator.com/item?id=49128177) - [Show HN: How to build and self-host a code review agent](https://www.trytilde.ai/blog/how-to-build-code-review-agent)
+* [2026-07-31, 20:07:06](https://news.ycombinator.com/item?id=49127983) - [Don't stop early: Case-folding source code at memory speed](https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/)
 * [2026-07-31, 19:55:41](https://news.ycombinator.com/item?id=49127874) - [Predictive Speculative KV Replication for Bursty LLM Inference](https://jwlabs.vercel.app/post/biting-the-bullet)
 * [2026-07-31, 19:38:51](https://news.ycombinator.com/item?id=49127680) - [Designing Icons](https://m3.material.io/styles/icons/designing-icons)
 * [2026-07-31, 19:24:19](https://news.ycombinator.com/item?id=49127492) - [Trembling Photons in Non-Abelian Electric Fields](https://physics.aps.org/articles/v19/89)

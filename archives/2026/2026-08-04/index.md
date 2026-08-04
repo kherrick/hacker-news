@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-04](index.md)
 
+* [2026-08-04, 20:13:40](https://news.ycombinator.com/item?id=49174407) - [Oxide Computer raises $445M (SEC Form D)](https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml)
 * [2026-08-04, 19:18:35](https://news.ycombinator.com/item?id=49173576) - [Investors in Situational Awareness deserved to lose their shirts](https://www.economist.com/finance-and-economics/2026/08/04/investors-in-situational-awareness-deserved-to-lose-their-shirts)
 * [2026-08-04, 18:51:38](https://news.ycombinator.com/item?id=49173165) - [Stephen Wolfram's Wife Has Died](https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/)
 * [2026-08-04, 18:36:02](https://news.ycombinator.com/item?id=49172936) - [Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research](https://edotenv.com/)
@@ -32,6 +33,7 @@
 * [2026-08-04, 15:40:06](https://news.ycombinator.com/item?id=49170508) - [Perspec 1.0](https://adriansieber.com/announcing-perspec-1-0/)
 * [2026-08-04, 15:37:42](https://news.ycombinator.com/item?id=49170479) - [Apple says more ex-employees may have taken confidential data to OpenAI](https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/)
 * [2026-08-04, 15:16:22](https://news.ycombinator.com/item?id=49170165) - [Show HN: Simple algorithm and color space to generate diverse skin tones](https://toneyalexander.github.io/inclusive-color-space/)
+* [2026-08-04, 15:10:37](https://news.ycombinator.com/item?id=49170076) - [Most tech revolutions made work worse for employees](https://www.thisandthat.chat/blog/most-tech-revolutions-made-work-worse-for-employees/)
 * [2026-08-04, 15:05:33](https://news.ycombinator.com/item?id=49170001) - [Online ad giant Adform was hacked, proving once again why ad blockers are needed](https://this.weekinsecurity.com/online-advertising-giant-adform-was-hacked-proving-once-again-why-ad-blockers-are-necessary/)
 * [2026-08-04, 14:38:31](https://news.ycombinator.com/item?id=49169640) - [Agent skills that bring team coding standards to Claude Code and Codex](https://github.com/tikalk/adlc-team-skills)
 * [2026-08-04, 14:07:30](https://news.ycombinator.com/item?id=49169227) - [It's not a fear of \"AI communism\"; it's a fear of competitive market capitalism](http://observationalepidemiology.blogspot.com/2026/07/its-not-fear-of-ai-communism-its-fear.html)
