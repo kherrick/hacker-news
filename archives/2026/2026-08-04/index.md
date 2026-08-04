@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-04](index.md)
 
+* [2026-08-04, 18:36:02](https://news.ycombinator.com/item?id=49172936) - [Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research](https://edotenv.com/)
 * [2026-08-04, 18:29:32](https://news.ycombinator.com/item?id=49172834) - [Security Is Hard, Y'all](https://textslashplain.com/2026/08/04/security-is-hard-yall/)
 * [2026-08-04, 18:11:09](https://news.ycombinator.com/item?id=49172597) - [Blackmail Fail (2013)](https://gwern.net/blackmail)
 * [2026-08-04, 18:06:12](https://news.ycombinator.com/item?id=49172550) - [Why some people mow a lawn better than others](https://pudding.cool/2026/06/mow/)
@@ -23,6 +24,7 @@
 * [2026-08-04, 16:27:03](https://news.ycombinator.com/item?id=49171140) - [Show HN: Ex-Deloitte auditor open-sourced the whole SOC 2 method for your AI](https://github.com/Chiaro-HQ/methodology)
 * [2026-08-04, 16:21:02](https://news.ycombinator.com/item?id=49171068) - [MariaDB: Promote getting to 10k GitHub stars in server log and client prompt](https://github.com/MariaDB/server/pull/4262)
 * [2026-08-04, 16:10:39](https://news.ycombinator.com/item?id=49170915) - [When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation](https://arxiv.org/abs/2602.16763)
+* [2026-08-04, 16:06:59](https://news.ycombinator.com/item?id=49170859) - [Most countries provide between 20 and 40 paid days off](https://www.not-ship.com/not-ship-summer-vacation/)
 * [2026-08-04, 15:51:51](https://news.ycombinator.com/item?id=49170648) - [The AI Demand Bubble](https://www.wheresyoured.at/the-ai-demand-bubble/)
 * [2026-08-04, 15:40:06](https://news.ycombinator.com/item?id=49170508) - [Perspec 1.0](https://adriansieber.com/announcing-perspec-1-0/)
 * [2026-08-04, 15:37:42](https://news.ycombinator.com/item?id=49170479) - [Apple says more ex-employees may have taken confidential data to OpenAI](https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/)
