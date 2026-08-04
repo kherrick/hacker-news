@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-08-04, 16:27:03",
-      "https://news.ycombinator.com/item?id=49171140"
+      "2026-08-04, 17:00:12",
+      "https://news.ycombinator.com/item?id=49171650"
     ],
     [
-      "Show HN: Ex-Deloitte auditor open-sourced the whole SOC 2 method for your AI",
-      "https://github.com/Chiaro-HQ/methodology"
+      "Truemetrics (YC S23) Is Hiring in Berlin – GTM Lead",
+      "https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead"
+    ]
+  ],
+  [
+    [
+      "2026-08-04, 16:29:02",
+      "https://news.ycombinator.com/item?id=49171172"
+    ],
+    [
+      "Webb telescope finds signs of ancient disaster for Neptune's moons",
+      "https://www.reuters.com/science/webb-telescope-finds-signs-ancient-disaster-neptunes-moons-2026-08-03/"
     ]
   ],
   [
@@ -17,6 +27,16 @@
     [
       "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
       "https://arxiv.org/abs/2602.16763"
+    ]
+  ],
+  [
+    [
+      "2026-08-04, 15:51:51",
+      "https://news.ycombinator.com/item?id=49170648"
+    ],
+    [
+      "The AI Demand Bubble",
+      "https://www.wheresyoured.at/the-ai-demand-bubble/"
     ]
   ],
   [
@@ -51,16 +71,6 @@
   ],
   [
     [
-      "2026-08-04, 14:38:31",
-      "https://news.ycombinator.com/item?id=49169640"
-    ],
-    [
-      "Agent skills that bring team coding standards to Claude Code and Codex",
-      "https://github.com/tikalk/adlc-team-skills"
-    ]
-  ],
-  [
-    [
       "2026-08-04, 13:43:00",
       "https://news.ycombinator.com/item?id=49168886"
     ],
@@ -77,16 +87,6 @@
     [
       "Xbox goes down. You can't play games you own on disc",
       "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/"
-    ]
-  ],
-  [
-    [
-      "2026-08-04, 12:00:51",
-      "https://news.ycombinator.com/item?id=49167444"
-    ],
-    [
-      "Roame (YC S23) Is Hiring Lead Engineer",
-      "https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer"
     ]
   ],
   [
@@ -151,22 +151,22 @@
   ],
   [
     [
+      "2026-08-04, 10:03:46",
+      "https://news.ycombinator.com/item?id=49166411"
+    ],
+    [
+      "Learning-Rust.Github.io: Rust Programming Language Tutorials for Everyone",
+      "https://learning-rust.github.io"
+    ]
+  ],
+  [
+    [
       "2026-08-04, 10:00:55",
       "https://news.ycombinator.com/item?id=49166386"
     ],
     [
       "DeepSeek V4 Flash on a Single AMD MI300X",
       "https://github.com/ryanzhou/deepseek-v4-flash-mi300x"
-    ]
-  ],
-  [
-    [
-      "2026-08-04, 09:52:35",
-      "https://news.ycombinator.com/item?id=49166331"
-    ],
-    [
-      "\"Clean\" Code, Horrible Performance (2023)",
-      "https://www.computerenhance.com/p/clean-code-horrible-performance"
     ]
   ],
   [
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2026-07-31, 15:24:25",
-      "https://news.ycombinator.com/item?id=49124291"
+      "2026-07-29, 21:03:50",
+      "https://news.ycombinator.com/item?id=49103059"
     ],
     [
-      "Where .env Went Wrong",
-      "https://secretspec.dev/blog/where-env-went-wrong/"
+      "RCade: The Arcade Cabinet with CI/CD Deployment, Custom Graphics Card for CRT [video]",
+      "https://www.youtube.com/watch?v=W-OpIbLUOU0"
     ]
   ],
   [
