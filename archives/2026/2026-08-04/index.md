@@ -4,9 +4,16 @@
 
 ### [Archives](../../index.md) for [2026-08-04](index.md)
 
+* [2026-08-04, 11:33:32](https://news.ycombinator.com/item?id=49167147) - [Buckminster Fuller: everything I know](https://www.bfi.org/about-fuller/everything-i-know/)
 * [2026-08-04, 10:59:08](https://news.ycombinator.com/item?id=49166860) - [U.S. used 'virtually all' of its long-range precision missiles during Iran war](https://www.cnbc.com/2026/08/04/us-has-used-virtually-all-of-its-long-range-precision-missiles-report.html)
+* [2026-08-04, 10:46:04](https://news.ycombinator.com/item?id=49166749) - [Mini retirements: like a sabbatical, but much smaller](https://www.ssp.sh/brain/mini-retirements/)
+* [2026-08-04, 10:13:13](https://news.ycombinator.com/item?id=49166491) - [Ray Bradbury's \"There Will Come Soft Rains\" is set today (2026-08-04)](https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj)
+* [2026-08-04, 10:07:06](https://news.ycombinator.com/item?id=49166442) - [Why Large Language Models Fail at Tabular Prediction](https://arxiv.org/abs/2608.02412)
+* [2026-08-04, 10:03:46](https://news.ycombinator.com/item?id=49166411) - [Learning-Rust.Github.io: Rust Programming Language Tutorials for Everyone](https://learning-rust.github.io)
 * [2026-08-04, 10:00:55](https://news.ycombinator.com/item?id=49166386) - [DeepSeek V4 Flash on a Single AMD MI300X](https://github.com/ryanzhou/deepseek-v4-flash-mi300x)
+* [2026-08-04, 09:48:43](https://news.ycombinator.com/item?id=49166308) - [Homebench – Benchmark local LLMs for speed, memory, and quality](https://github.com/david-g-3654/homebench)
 * [2026-08-04, 09:40:03](https://news.ycombinator.com/item?id=49166254) - [The US is not a democracy but an oligarchy, study concludes (2014)](https://www.upi.com/Top_News/US/2014/04/16/The-US-is-not-a-democracy-but-an-oligarchy-study-concludes/2761397680051/)
+* [2026-08-04, 09:35:15](https://news.ycombinator.com/item?id=49166230) - [An Honest Review of AI Programming](https://mropert.github.io/2026/08/04/an_honest_review_of_ai_programming/)
 * [2026-08-04, 09:30:33](https://news.ycombinator.com/item?id=49166202) - [FFmpeg 9.0](https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES)
 * [2026-08-04, 09:27:47](https://news.ycombinator.com/item?id=49166182) - [Bending Spoons makes first post-IPO acquisition with $1.3B Airtable deal](https://live.euronext.com/en/financial-news/bending-spoons-makes-first-post-ipo-acquisition-13-billion-airtable-deal)
 * [2026-08-04, 08:39:12](https://news.ycombinator.com/item?id=49165845) - [Show HN: I made a private self-destructing image hosting site in Golang](https://picburn.xyz/)
