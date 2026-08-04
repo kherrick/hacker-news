@@ -1,12 +1,52 @@
 [
   [
     [
-      "2026-08-04, 10:59:08",
-      "https://news.ycombinator.com/item?id=49166860"
+      "2026-08-04, 11:33:32",
+      "https://news.ycombinator.com/item?id=49167147"
     ],
     [
-      "U.S. used 'virtually all' of its long-range precision missiles during Iran war",
-      "https://www.cnbc.com/2026/08/04/us-has-used-virtually-all-of-its-long-range-precision-missiles-report.html"
+      "Buckminster Fuller: everything I know",
+      "https://www.bfi.org/about-fuller/everything-i-know/"
+    ]
+  ],
+  [
+    [
+      "2026-08-04, 10:46:04",
+      "https://news.ycombinator.com/item?id=49166749"
+    ],
+    [
+      "Mini retirements: like a sabbatical, but much smaller",
+      "https://www.ssp.sh/brain/mini-retirements/"
+    ]
+  ],
+  [
+    [
+      "2026-08-04, 10:13:13",
+      "https://news.ycombinator.com/item?id=49166491"
+    ],
+    [
+      "Ray Bradbury's \"There Will Come Soft Rains\" is set today (2026-08-04)",
+      "https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj"
+    ]
+  ],
+  [
+    [
+      "2026-08-04, 10:07:06",
+      "https://news.ycombinator.com/item?id=49166442"
+    ],
+    [
+      "Why Large Language Models Fail at Tabular Prediction",
+      "https://arxiv.org/abs/2608.02412"
+    ]
+  ],
+  [
+    [
+      "2026-08-04, 10:03:46",
+      "https://news.ycombinator.com/item?id=49166411"
+    ],
+    [
+      "Learning-Rust.Github.io: Rust Programming Language Tutorials for Everyone",
+      "https://learning-rust.github.io"
     ]
   ],
   [
@@ -17,6 +57,26 @@
     [
       "DeepSeek V4 Flash on a Single AMD MI300X",
       "https://github.com/ryanzhou/deepseek-v4-flash-mi300x"
+    ]
+  ],
+  [
+    [
+      "2026-08-04, 09:48:43",
+      "https://news.ycombinator.com/item?id=49166308"
+    ],
+    [
+      "Homebench – Benchmark local LLMs for speed, memory, and quality",
+      "https://github.com/david-g-3654/homebench"
+    ]
+  ],
+  [
+    [
+      "2026-08-04, 09:35:15",
+      "https://news.ycombinator.com/item?id=49166230"
+    ],
+    [
+      "An Honest Review of AI Programming",
+      "https://mropert.github.io/2026/08/04/an_honest_review_of_ai_programming/"
     ]
   ],
   [
@@ -81,16 +141,6 @@
   ],
   [
     [
-      "2026-08-03, 22:04:49",
-      "https://news.ycombinator.com/item?id=49162086"
-    ],
-    [
-      "Windows XP 2002 for the Itanium: Unbridled rage",
-      "https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/"
-    ]
-  ],
-  [
-    [
       "2026-08-03, 21:13:53",
       "https://news.ycombinator.com/item?id=49161518"
     ],
@@ -107,16 +157,6 @@
     [
       "Smaller, faster, safer: running Kimi and GLM at scale",
       "https://blog.cloudflare.com/smaller-faster-safer-models/"
-    ]
-  ],
-  [
-    [
-      "2026-08-03, 17:02:10",
-      "https://news.ycombinator.com/item?id=49158474"
-    ],
-    [
-      "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
-      "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase"
     ]
   ],
   [
@@ -191,16 +231,6 @@
   ],
   [
     [
-      "2026-08-03, 14:09:00",
-      "https://news.ycombinator.com/item?id=49156011"
-    ],
-    [
-      "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
-      "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse"
-    ]
-  ],
-  [
-    [
       "2026-08-03, 13:34:43",
       "https://news.ycombinator.com/item?id=49155629"
     ],
@@ -221,42 +251,12 @@
   ],
   [
     [
-      "2026-08-03, 08:29:57",
-      "https://news.ycombinator.com/item?id=49152842"
-    ],
-    [
-      "Bonsai: Janestreet's UI Library",
-      "https://github.com/janestreet/bonsai"
-    ]
-  ],
-  [
-    [
       "2026-08-01, 14:55:32",
       "https://news.ycombinator.com/item?id=49135005"
     ],
     [
       "Archaeologists Find Ancient Glyphs in the Amazon",
       "https://www.nytimes.com/2026/07/31/world/americas/amazon-archaeology-geoglyphs.html"
-    ]
-  ],
-  [
-    [
-      "2026-08-01, 10:17:06",
-      "https://news.ycombinator.com/item?id=49132992"
-    ],
-    [
-      "200 Milliseconds",
-      "https://200ms.thenodebook.com"
-    ]
-  ],
-  [
-    [
-      "2026-07-31, 19:24:19",
-      "https://news.ycombinator.com/item?id=49127492"
-    ],
-    [
-      "Trembling Photons in Non-Abelian Electric Fields",
-      "https://physics.aps.org/articles/v19/89"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2026-07-30, 07:15:33",
-      "https://news.ycombinator.com/item?id=49106935"
+      "2026-07-29, 18:01:04",
+      "https://news.ycombinator.com/item?id=49100853"
     ],
     [
-      "Replacing the Kobo Libra H2O Battery",
-      "https://ei3lh.eu/2025/11/20/replacing-the-kobo-libra-h2o-battery/"
+      "Cyberpunk Video Games",
+      "https://shellzine.net/cyberpunk-video-games/"
     ]
   ],
   [
