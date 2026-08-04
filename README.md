@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-03, 23:44:19](https://news.ycombinator.com/item?id=49162787) - [Why did we wait so long for the bicycle? (2019)](https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle)
 * [2026-08-03, 23:24:53](https://news.ycombinator.com/item?id=49162653) - [There Will Come Soft Rains (1950) [pdf]](https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf)
 * [2026-08-03, 22:04:49](https://news.ycombinator.com/item?id=49162086) - [Windows XP 2002 for the Itanium: Unbridled rage](https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/)
 * [2026-08-03, 21:39:12](https://news.ycombinator.com/item?id=49161801) - [ZX Spectrum System Tour: Text Mode](https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/)
@@ -20,7 +21,6 @@
 * [2026-08-03, 11:15:48](https://news.ycombinator.com/item?id=49154228) - [AirLLM 70B inference with single 4GB GPU](https://github.com/lyogavin/airllm)
 * [2026-08-03, 09:32:07](https://news.ycombinator.com/item?id=49153374) - [Prevent cognitive debt by manually retyping LLM-generated code](https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/)
 * [2026-08-03, 08:29:57](https://news.ycombinator.com/item?id=49152842) - [Bonsai: Janestreet's UI Library](https://github.com/janestreet/bonsai)
-* [2026-08-03, 06:00:14](https://news.ycombinator.com/item?id=49151734) - [More German than many Germans](https://mertbulan.com/more-german-than-many-germans/)
 * [2026-08-01, 10:17:06](https://news.ycombinator.com/item?id=49132992) - [200 Milliseconds](https://200ms.thenodebook.com)
 * [2026-08-01, 05:14:51](https://news.ycombinator.com/item?id=49131250) - [Battle of the Beams](https://en.wikipedia.org/wiki/Battle_of_the_Beams)
 * [2026-07-31, 18:04:48](https://news.ycombinator.com/item?id=49126602) - [They Forgot What Happened Last Time: Hacking the Windows 365 Link [video]](https://media.ccc.de/v/emf2026-93-1-they-forgot-what-happened-last-time)
