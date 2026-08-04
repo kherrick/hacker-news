@@ -21,26 +21,6 @@
   ],
   [
     [
-      "2026-08-04, 05:32:13",
-      "https://news.ycombinator.com/item?id=49164649"
-    ],
-    [
-      "Apple is getting this wrong",
-      "https://openai.com/index/apple-is-getting-this-wrong/"
-    ]
-  ],
-  [
-    [
-      "2026-08-03, 23:44:19",
-      "https://news.ycombinator.com/item?id=49162787"
-    ],
-    [
-      "Why did we wait so long for the bicycle? (2019)",
-      "https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle"
-    ]
-  ],
-  [
-    [
       "2026-08-03, 23:24:53",
       "https://news.ycombinator.com/item?id=49162653"
     ],
@@ -57,16 +37,6 @@
     [
       "Windows XP 2002 for the Itanium: Unbridled rage",
       "https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/"
-    ]
-  ],
-  [
-    [
-      "2026-08-03, 21:39:12",
-      "https://news.ycombinator.com/item?id=49161801"
-    ],
-    [
-      "ZX Spectrum System Tour: Text Mode",
-      "https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/"
     ]
   ],
   [
@@ -191,6 +161,16 @@
   ],
   [
     [
+      "2026-08-03, 11:15:48",
+      "https://news.ycombinator.com/item?id=49154228"
+    ],
+    [
+      "AirLLM 70B inference with single 4GB GPU",
+      "https://github.com/lyogavin/airllm"
+    ]
+  ],
+  [
+    [
       "2026-08-03, 09:32:07",
       "https://news.ycombinator.com/item?id=49153374"
     ],
@@ -211,12 +191,32 @@
   ],
   [
     [
+      "2026-08-03, 06:00:14",
+      "https://news.ycombinator.com/item?id=49151734"
+    ],
+    [
+      "More German than many Germans",
+      "https://mertbulan.com/more-german-than-many-germans/"
+    ]
+  ],
+  [
+    [
       "2026-08-01, 10:17:06",
       "https://news.ycombinator.com/item?id=49132992"
     ],
     [
       "200 Milliseconds",
       "https://200ms.thenodebook.com"
+    ]
+  ],
+  [
+    [
+      "2026-07-31, 19:24:19",
+      "https://news.ycombinator.com/item?id=49127492"
+    ],
+    [
+      "Trembling Photons in Non-Abelian Electric Fields",
+      "https://physics.aps.org/articles/v19/89"
     ]
   ],
   [
