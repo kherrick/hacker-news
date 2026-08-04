@@ -88,6 +88,7 @@
 * [2026-07-29, 10:47:57](https://news.ycombinator.com/item?id=49095714) - [National Security Determination Threat Posed by Foreign-Produced Robotic Devices [pdf]](https://www.fcc.gov/sites/default/files/robots-nsd.pdf)
 * [2026-07-29, 10:35:19](https://news.ycombinator.com/item?id=49095628) - [SpecForge – A Platform for Authoring Formal Specifications](https://docs.imiron.io/v/0.5.10/en/tour.html)
 * [2026-07-29, 10:19:44](https://news.ycombinator.com/item?id=49095511) - [Amiga Graphics Archive](https://amiga.lychesis.net/index.html)
+* [2026-07-29, 10:02:50](https://news.ycombinator.com/item?id=49095386) - [That time when I failed the Microsoft interview](https://ochagavia.nl/blog/that-time-when-i-failed-the-microsoft-interview/)
 * [2026-07-29, 09:59:09](https://news.ycombinator.com/item?id=49095361) - [The only road in London where you have to drive on the right](https://www.mylondon.news/news/transport/only-road-london-you-drive-30499294)
 * [2026-07-29, 09:26:52](https://news.ycombinator.com/item?id=49095143) - [Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels](https://vimgolf.ai)
 * [2026-07-29, 07:18:24](https://news.ycombinator.com/item?id=49094346) - [SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers](https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers)
