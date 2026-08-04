@@ -83,6 +83,7 @@
 * [2026-08-02, 02:26:52](https://news.ycombinator.com/item?id=49140487) - [Four Time Scales for Technology Development and Deployment](https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/)
 * [2026-08-02, 02:08:26](https://news.ycombinator.com/item?id=49140405) - [When random.bytes() runs but doesn't work](https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt)
 * [2026-08-02, 02:07:09](https://news.ycombinator.com/item?id=49140396) - [Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built](https://github.com/tom-ilan/cycloidal_gearbox)
+* [2026-08-02, 02:03:02](https://news.ycombinator.com/item?id=49140370) - [Living in the Math World Means Threading the Needle](https://www.quantamagazine.org/hong-wang-wins-2026-fields-medal-the-third-woman-ever-20260723/)
 * [2026-08-02, 01:56:44](https://news.ycombinator.com/item?id=49140340) - [Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators](https://costperprompt.com/)
 * [2026-08-02, 01:35:51](https://news.ycombinator.com/item?id=49140218) - [Go 1.27 Interactive Tour](https://victoriametrics.com/blog/go-1-27/index.html)
 * [2026-08-02, 01:35:11](https://news.ycombinator.com/item?id=49140213) - [ASRock BC-250: Building the Budget Steam Machine](https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/)

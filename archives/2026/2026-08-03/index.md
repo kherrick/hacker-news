@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-03](index.md)
 
+* [2026-08-03, 23:24:53](https://news.ycombinator.com/item?id=49162653) - [There Will Come Soft Rains (1950) [pdf]](https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf)
 * [2026-08-03, 22:04:49](https://news.ycombinator.com/item?id=49162086) - [Windows XP 2002 for the Itanium: Unbridled rage](https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/)
 * [2026-08-03, 21:39:12](https://news.ycombinator.com/item?id=49161801) - [ZX Spectrum System Tour: Text Mode – Bumbershoot Software](https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/)
 * [2026-08-03, 21:13:53](https://news.ycombinator.com/item?id=49161518) - [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/)
