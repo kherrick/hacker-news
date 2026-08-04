@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-08-04](index.md)
 
+* [2026-08-04, 22:01:41](https://news.ycombinator.com/item?id=49175826) - [AI fuels more than half of cybercrime in Africa as digital scams surge: INTERPOL](https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/)
+* [2026-08-04, 21:52:58](https://news.ycombinator.com/item?id=49175717) - [Security Incident INC-2026-07-28-01 – UK AI Security Institute [pdf]](https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf)
+* [2026-08-04, 21:14:19](https://news.ycombinator.com/item?id=49175248) - [Third-party cyber evaluations involving OpenAI models](https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/)
+* [2026-08-04, 21:09:39](https://news.ycombinator.com/item?id=49175192) - [Thanks FedEx, This Is Why We Keep Getting Phished (2024)](https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/)
 * [2026-08-04, 20:13:40](https://news.ycombinator.com/item?id=49174407) - [Oxide Computer raises $445M (SEC Form D)](https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml)
 * [2026-08-04, 19:18:35](https://news.ycombinator.com/item?id=49173576) - [Investors in Situational Awareness deserved to lose their shirts](https://www.economist.com/finance-and-economics/2026/08/04/investors-in-situational-awareness-deserved-to-lose-their-shirts)
 * [2026-08-04, 18:51:38](https://news.ycombinator.com/item?id=49173165) - [Stephen Wolfram's Wife Has Died](https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/)
