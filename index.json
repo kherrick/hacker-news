@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-08-04, 06:17:54",
+      "https://news.ycombinator.com/item?id=49164896"
+    ],
+    [
+      "Harness Engineering for Self-Improvement",
+      "https://lilianweng.github.io/posts/2026-07-04-harness/"
+    ]
+  ],
+  [
+    [
       "2026-08-04, 05:32:13",
       "https://news.ycombinator.com/item?id=49164649"
     ],
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2026-08-03, 11:15:48",
-      "https://news.ycombinator.com/item?id=49154228"
-    ],
-    [
-      "AirLLM 70B inference with single 4GB GPU",
-      "https://github.com/lyogavin/airllm"
-    ]
-  ],
-  [
-    [
       "2026-08-03, 09:32:07",
       "https://news.ycombinator.com/item?id=49153374"
     ],
@@ -207,16 +207,6 @@
     [
       "Bonsai: Janestreet's UI Library",
       "https://github.com/janestreet/bonsai"
-    ]
-  ],
-  [
-    [
-      "2026-08-03, 06:00:14",
-      "https://news.ycombinator.com/item?id=49151734"
-    ],
-    [
-      "More German than many Germans",
-      "https://mertbulan.com/more-german-than-many-germans/"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Beauty in my backyard",
       "https://worksinprogress.co/issue/beauty-in-my-backyard/"
+    ]
+  ],
+  [
+    [
+      "2026-07-31, 04:57:00",
+      "https://news.ycombinator.com/item?id=49119166"
+    ],
+    [
+      "RosaicLabs, Atom RTL, and 32-Tile AMX: Trying to Piece Together a x86 Puzzle",
+      "https://chipsandcheese.com/p/rosaiclabs-atom-rtl-and-32-tile-amx"
     ]
   ],
   [
