@@ -42,6 +42,7 @@
 * [2026-08-02, 15:26:47](https://news.ycombinator.com/item?id=49145480) - [Mosh in a Lift (2012)](https://mosh.org/elevator.txt)
 * [2026-08-02, 14:51:18](https://news.ycombinator.com/item?id=49145201) - [Ursula K. Le Guin: A Rant About \"Technology\" (2005)](https://www.ursulakleguin.com/a-rant-about-technology)
 * [2026-08-02, 14:50:48](https://news.ycombinator.com/item?id=49145193) - [Finding zombies in our systems: A real-world story of CPU bottlenecks](https://medium.com/pinterest-engineering/finding-zombies-in-our-systems-a-real-world-story-of-cpu-bottlenecks-ea4722e552eb)
+* [2026-08-02, 14:29:01](https://news.ycombinator.com/item?id=49145037) - [Video2NAND – Abusing video codecs for great computational power](https://sharedobject.blog/posts/vp8-combinatorial-logic/)
 * [2026-08-02, 14:17:43](https://news.ycombinator.com/item?id=49144946) - [The Seinfeld Chronicles: Digital Edition](https://seinfeld.visualisingdata.com/)
 * [2026-08-02, 13:05:06](https://news.ycombinator.com/item?id=49144273) - [Has the New Cocaine Arrived?](https://playboy.substack.com/p/has-the-new-cocaine-finally-arrived)
 * [2026-08-02, 12:36:07](https://news.ycombinator.com/item?id=49143967) - [Twenty Years of RISC OS Open](https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open)
