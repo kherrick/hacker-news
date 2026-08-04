@@ -129,23 +129,113 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="49172936">
+          <h3>
+            <a class="item" href="https://edotenv.com/"
+              >Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs
+              Research</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-08-04 @ 18:36:02</span
+              ><span class="points-container"
+                >Points: <span class="points">11</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49172936"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://edotenv.com">https://edotenv.com</a>):
+              self-improving RL environments from Quant Trading workflows.
+              <p>
+                With all the benchmaxxing around, evals saturate and become
+                meaningless for model comparison. Useful benchmarks should
+                increase in difficulty as models advance. Back in our Quant
+                jobs, Michael and I saw that the market has exactly this
+                property: markets became more efficient as people profited from
+                trading inefficiencies, making new profitable strategies harder
+                to find and old ones decay over time.
+              </p>
+              <p>
+                This makes markets an ideal, continuously evolving benchmark for
+                LLM training. The hard part is to turn professional quant
+                workflows into reliable training envs, as this is a very niche
+                expertise.
+              </p>
+              <p>
+                In our environments, we give LLMs a quant trading workflow and
+                evaluate their performance on out-of-sample data: build
+                predictive features/ models, design a portfolio, backtest
+                strategies, adapt continuously to market regimes. Each step is a
+                task with different self-built tools. For example, a predictive
+                feature building task gives the agent cleaned market data of
+                time period [0,T] to research ideas, a backtesting tool to test
+                created features at time t on [0, t], an execution tool to trade
+                strategies with the new features on [t+1, T] and a final
+                evaluation. Our reward isolates the agent's feature building
+                skills and yet benefits from market properties.
+              </p>
+              <p>
+                From running SOTA models in our environments, we see that i)
+                they seem to struggle with iterating deeply on research ideas,
+                preferring broad shallow searches; ii) higher reasoning does not
+                seem to increase performance and iii) agents do not understand
+                trading, e.g. when losing money they stop trading instead of
+                trading smarter. Check out our blogs for more details!
+                <a href="https://edotenv.com/?tab=blog"
+                  >https://edotenv.com/?tab=blog</a
+                >
+              </p>
+              <p>
+                Quant workflows are essentially applied ML research,
+                long-horizon planning and continual learning. Through our envs,
+                we teach these transferable research skills, rather than task
+                specific answers. Our environments are closer to a realistic
+                research workflow: we use real-world data instead of synthetic
+                ones; our envs naturally contain noise and real trade-offs; our
+                rewards are verifiable and immediate, with no need for an
+                additional LLM judge or human expert.
+              </p>
+              <p>
+                We open sourced a sample task repository:
+                <a href="https://github.com/MMcollab-dotcom/feature-engineering"
+                  >https://github.com/MMcollab-dotcom/feature-engineering</a
+                >. We plan to sell continuously improving envs to AI
+                labs/researchers/enterprises training their own agents, who are
+                interested in ML modelling capabilities, continual learning,
+                long horizon planning or Quant Research in general.
+              </p>
+              <p>
+                We'd love feedback from anyone trying out their own agents in
+                our envs, for either eval or post training. And of course, we
+                are always happy to discuss the future of trading with LLMs (and
+                no, it should not be asking the LLM to read tea leaves and give
+                you the stock to buy tomorrow). Looking forward to your
+                comments!
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="49172834">
           <h3>
             <a
               class="item"
               href="https://textslashplain.com/2026/08/04/security-is-hard-yall/"
-              >Security Is Hard, Y'all</a
+              >Web security is too hard</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-08-04 @ 18:29:32</span
               ><span class="points-container"
-                >Points: <span class="points">77</span></span
+                >Points: <span class="points">104</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49172834"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
+                ><span class="descendants">: 38</span></span
               >
             </h4>
           </section>
@@ -160,7 +250,7 @@
             <h4>
               <span>2026-08-04 @ 18:11:09</span
               ><span class="points-container"
-                >Points: <span class="points">7</span></span
+                >Points: <span class="points">10</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49172597"
                   >Comments</a
@@ -179,11 +269,11 @@
             <h4>
               <span>2026-08-04 @ 18:06:12</span
               ><span class="points-container"
-                >Points: <span class="points">36</span></span
+                >Points: <span class="points">77</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49172550"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 70</span></span
               >
             </h4>
           </section>
@@ -199,32 +289,11 @@
             <h4>
               <span>2026-08-04 @ 18:06:08</span
               ><span class="points-container"
-                >Points: <span class="points">7</span></span
+                >Points: <span class="points">8</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49172545"
                   >Comments</a
                 ><span class="descendants">: 1</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49172540">
-          <h3>
-            <a
-              class="item"
-              href="https://shannph.com/writing/the-judgment-reservoir/"
-              >The Judgment Reservoir</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-08-04 @ 18:05:41</span
-              ><span class="points-container"
-                >Points: <span class="points">10</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49172540"
-                  >Comments</a
-                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -242,11 +311,11 @@
             <h4>
               <span>2026-08-04 @ 17:57:15</span
               ><span class="points-container"
-                >Points: <span class="points">43</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49172433"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -263,11 +332,11 @@
             <h4>
               <span>2026-08-04 @ 17:55:19</span
               ><span class="points-container"
-                >Points: <span class="points">25</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49172405"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
@@ -282,54 +351,11 @@
             <h4>
               <span>2026-08-04 @ 17:43:55</span
               ><span class="points-container"
-                >Points: <span class="points">30</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49172251"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49172159">
-          <h3>
-            <a
-              class="item"
-              href="https://www.stlouisfed.org/on-the-economy/2026/aug/what-is-behind-sharp-drop-labor-force-participation"
-              >What's Behind the Sharp Drop in Labor Force Participation?</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-08-04 @ 17:37:17</span
-              ><span class="points-container"
-                >Points: <span class="points">8</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49172159"
-                  >Comments</a
-                ><span class="descendants">: 12</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49172079">
-          <h3>
-            <a
-              class="item"
-              href="https://mentalium.me/en/research/mental-health-startup-graveyard-dataset/"
-              >Dataset: Dead mental health startups, 2000-2026, coded on 18
-              fields</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-08-04 @ 17:30:55</span
-              ><span class="points-container"
-                >Points: <span class="points">28</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49172079"
-                  >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -346,33 +372,11 @@
             <h4>
               <span>2026-08-04 @ 17:08:41</span
               ><span class="points-container"
-                >Points: <span class="points">43</span></span
+                >Points: <span class="points">56</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49171766"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49171656">
-          <h3>
-            <a
-              class="item"
-              href="https://www.valleynewslive.com/2026/08/04/every-flock-camera-winona-minnesota-cut-down-stolen-coordinated-theft/"
-              >All of Winona Police Department's Flock cameras cut down and
-              stolen</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-08-04 @ 17:00:28</span
-              ><span class="points-container"
-                >Points: <span class="points">297</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49171656"
-                  >Comments</a
-                ><span class="descendants">: 159</span></span
+                ><span class="descendants">: 28</span></span
               >
             </h4>
           </section>
@@ -394,27 +398,6 @@
             </h4>
           </section>
         </section>
-        <section id="49171390">
-          <h3>
-            <a
-              class="item"
-              href="https://jg.gg/2026/08/04/the-knowledge-chipper/"
-              >The Knowledge Chipper: An Agentic Coding Story</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-08-04 @ 16:43:37</span
-              ><span class="points-container"
-                >Points: <span class="points">10</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49171390"
-                  >Comments</a
-                ><span class="descendants">: 1</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="49171268">
           <h3>
             <a class="item" href="https://mistral.ai/news/shieldstral/"
@@ -426,11 +409,11 @@
             <h4>
               <span>2026-08-04 @ 16:36:05</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">65</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49171268"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -446,11 +429,52 @@
             <h4>
               <span>2026-08-04 @ 16:21:02</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">21</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49171068"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 12</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49170915">
+          <h3>
+            <a class="item" href="https://arxiv.org/abs/2602.16763"
+              >When AI Benchmarks Plateau: A Systematic Study of Benchmark
+              Saturation</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-08-04 @ 16:10:39</span
+              ><span class="points-container"
+                >Points: <span class="points">42</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49170915"
+                  >Comments</a
+                ><span class="descendants">: 54</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49170859">
+          <h3>
+            <a
+              class="item"
+              href="https://www.not-ship.com/not-ship-summer-vacation/"
+              >Most countries provide between 20 and 40 paid days off</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-08-04 @ 16:06:59</span
+              ><span class="points-container"
+                >Points: <span class="points">53</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49170859"
+                  >Comments</a
+                ><span class="descendants">: 51</span></span
               >
             </h4>
           </section>
@@ -467,11 +491,11 @@
             <h4>
               <span>2026-08-04 @ 15:40:06</span
               ><span class="points-container"
-                >Points: <span class="points">22</span></span
+                >Points: <span class="points">29</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49170508"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -489,11 +513,11 @@
             <h4>
               <span>2026-08-04 @ 15:37:42</span
               ><span class="points-container"
-                >Points: <span class="points">206</span></span
+                >Points: <span class="points">226</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49170479"
                   >Comments</a
-                ><span class="descendants">: 151</span></span
+                ><span class="descendants">: 170</span></span
               >
             </h4>
           </section>
@@ -511,11 +535,11 @@
             <h4>
               <span>2026-08-04 @ 15:16:22</span
               ><span class="points-container"
-                >Points: <span class="points">281</span></span
+                >Points: <span class="points">316</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49170165"
                   >Comments</a
-                ><span class="descendants">: 66</span></span
+                ><span class="descendants">: 70</span></span
               >
             </h4>
             <div class="text">
@@ -554,33 +578,11 @@
             <h4>
               <span>2026-08-04 @ 15:05:33</span
               ><span class="points-container"
-                >Points: <span class="points">154</span></span
+                >Points: <span class="points">170</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49170001"
                   >Comments</a
-                ><span class="descendants">: 51</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49169227">
-          <h3>
-            <a
-              class="item"
-              href="http://observationalepidemiology.blogspot.com/2026/07/its-not-fear-of-ai-communism-its-fear.html"
-              >It's not a fear of "AI communism"; it's a fear of competitive
-              market capitalism</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-08-04 @ 14:07:30</span
-              ><span class="points-container"
-                >Points: <span class="points">50</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49169227"
-                  >Comments</a
-                ><span class="descendants">: 45</span></span
+                ><span class="descendants">: 59</span></span
               >
             </h4>
           </section>
@@ -597,11 +599,11 @@
             <h4>
               <span>2026-08-04 @ 12:01:02</span
               ><span class="points-container"
-                >Points: <span class="points">450</span></span
+                >Points: <span class="points">468</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49167448"
                   >Comments</a
-                ><span class="descendants">: 514</span></span
+                ><span class="descendants">: 522</span></span
               >
             </h4>
           </section>
@@ -611,7 +613,7 @@
             <a
               class="item"
               href="https://www.bfi.org/about-fuller/everything-i-know/"
-              >Buckminster Fuller: everything I know (1975)</a
+              >Everything I Know (1975)</a
             >
           </h3>
           <section>
@@ -627,21 +629,21 @@
             </h4>
           </section>
         </section>
-        <section id="49166984">
+        <section id="49166918">
           <h3>
-            <a class="item" href="https://github.com/MakazhanAlpamys/Soup"
-              >Show HN: Fine-tune an 8B model on a 4 GB laptop GPU</a
+            <a class="item" href="https://en.wikipedia.org/wiki/Nobel_disease"
+              >Nobel Disease</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-08-04 @ 11:17:57</span
+              <span>2026-08-04 @ 11:08:18</span
               ><span class="points-container"
-                >Points: <span class="points">104</span></span
+                >Points: <span class="points">74</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49166984"
+                ><a href="https://news.ycombinator.com/item?id=49166918"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 72</span></span
               >
             </h4>
           </section>
@@ -659,30 +661,33 @@
             <h4>
               <span>2026-08-04 @ 11:01:37</span
               ><span class="points-container"
-                >Points: <span class="points">189</span></span
+                >Points: <span class="points">195</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49166874"
                   >Comments</a
-                ><span class="descendants">: 97</span></span
+                ><span class="descendants">: 98</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="49166442">
+        <section id="49166860">
           <h3>
-            <a class="item" href="https://arxiv.org/abs/2608.02412"
-              >Why Large Language Models Fail at Tabular Prediction</a
+            <a
+              class="item"
+              href="https://www.cnbc.com/2026/08/04/us-has-used-virtually-all-of-its-long-range-precision-missiles-report.html"
+              >U.S. used 'virtually all' of its long-range precision missiles
+              during Iran war</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-08-04 @ 10:07:06</span
+              <span>2026-08-04 @ 10:59:08</span
               ><span class="points-container"
-                >Points: <span class="points">89</span></span
+                >Points: <span class="points">221</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49166442"
+                ><a href="https://news.ycombinator.com/item?id=49166860"
                   >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 319</span></span
               >
             </h4>
           </section>
@@ -699,11 +704,32 @@
             <h4>
               <span>2026-08-04 @ 10:00:55</span
               ><span class="points-container"
-                >Points: <span class="points">315</span></span
+                >Points: <span class="points">322</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49166386"
                   >Comments</a
-                ><span class="descendants">: 73</span></span
+                ><span class="descendants">: 76</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49166331">
+          <h3>
+            <a
+              class="item"
+              href="https://www.computerenhance.com/p/clean-code-horrible-performance"
+              >"Clean" Code, Horrible Performance (2023)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-08-04 @ 09:52:35</span
+              ><span class="points-container"
+                >Points: <span class="points">95</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49166331"
+                  >Comments</a
+                ><span class="descendants">: 79</span></span
               >
             </h4>
           </section>
@@ -713,18 +739,39 @@
             <a
               class="item"
               href="https://lilianweng.github.io/posts/2026-07-04-harness/"
-              >Harness Engineering for Self-Improvement</a
+              >Harness engineering for self-improvement</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-08-04 @ 06:17:54</span
               ><span class="points-container"
-                >Points: <span class="points">253</span></span
+                >Points: <span class="points">261</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49164896"
                   >Comments</a
-                ><span class="descendants">: 55</span></span
+                ><span class="descendants">: 56</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49162653">
+          <h3>
+            <a
+              class="item"
+              href="https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf"
+              >There Will Come Soft Rains (1950) [pdf]</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-08-03 @ 23:24:53</span
+              ><span class="points-container"
+                >Points: <span class="points">304</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49162653"
+                  >Comments</a
+                ><span class="descendants">: 336</span></span
               >
             </h4>
           </section>
@@ -741,33 +788,53 @@
             <h4>
               <span>2026-08-01 @ 17:18:48</span
               ><span class="points-container"
-                >Points: <span class="points">85</span></span
+                >Points: <span class="points">91</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49136363"
                   >Comments</a
-                ><span class="descendants">: 55</span></span
+                ><span class="descendants">: 60</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="49130117">
+        <section id="49124291">
           <h3>
             <a
               class="item"
-              href="https://www.righto.com/2019/07/looking-inside-1970s-prom-chip-that.html"
-              >Looking inside a 1970s PROM chip that stores data in microscopic
-              fuses (2019)</a
+              href="https://secretspec.dev/blog/where-env-went-wrong/"
+              >Where .env Went Wrong</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-08-01 @ 00:53:42</span
+              <span>2026-07-31 @ 15:24:25</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">79</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49130117"
+                ><a href="https://news.ycombinator.com/item?id=49124291"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 60</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49104534">
+          <h3>
+            <a
+              class="item"
+              href="https://gail.wharton.upenn.edu/gen-ai-studio/the-generative-ai-studio-pedagogy/"
+              >The Pedagogy Behind the Studio</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-07-29 @ 23:48:41</span
+              ><span class="points-container"
+                >Points: <span class="points">7</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49104534"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
