@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-08-04, 16:27:03",
+      "https://news.ycombinator.com/item?id=49171140"
+    ],
+    [
+      "Show HN: Ex-Deloitte auditor open-sourced the whole SOC 2 method for your AI",
+      "https://github.com/Chiaro-HQ/methodology"
+    ]
+  ],
+  [
+    [
+      "2026-08-04, 16:10:39",
+      "https://news.ycombinator.com/item?id=49170915"
+    ],
+    [
+      "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
+      "https://arxiv.org/abs/2602.16763"
+    ]
+  ],
+  [
+    [
+      "2026-08-04, 15:37:42",
+      "https://news.ycombinator.com/item?id=49170479"
+    ],
+    [
+      "Apple says more ex-employees may have taken confidential data to OpenAI",
+      "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/"
+    ]
+  ],
+  [
+    [
       "2026-08-04, 15:16:22",
       "https://news.ycombinator.com/item?id=49170165"
     ],
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2026-08-04, 10:03:46",
-      "https://news.ycombinator.com/item?id=49166411"
-    ],
-    [
-      "Learning-Rust.Github.io: Rust Programming Language Tutorials for Everyone",
-      "https://learning-rust.github.io"
-    ]
-  ],
-  [
-    [
       "2026-08-04, 10:00:55",
       "https://news.ycombinator.com/item?id=49166386"
     ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2026-08-03, 15:04:53",
-      "https://news.ycombinator.com/item?id=49156750"
-    ],
-    [
-      "Twenty Years of Pandoc",
-      "https://pandoc.org/twenty-years-of-pandoc.html"
-    ]
-  ],
-  [
-    [
       "2026-08-03, 14:15:47",
       "https://news.ycombinator.com/item?id=49156111"
     ],
     [
       "Devtools must be open source",
       "https://blog.exe.dev/devtools-must-be-open-source"
-    ]
-  ],
-  [
-    [
-      "2026-08-02, 15:26:47",
-      "https://news.ycombinator.com/item?id=49145480"
-    ],
-    [
-      "Mosh in a Lift (2012)",
-      "https://mosh.org/elevator.txt"
     ]
   ],
   [
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2026-08-01, 14:55:32",
-      "https://news.ycombinator.com/item?id=49135005"
+      "2026-08-01, 00:53:42",
+      "https://news.ycombinator.com/item?id=49130117"
     ],
     [
-      "Archaeologists Find Ancient Glyphs in the Amazon",
-      "https://www.nytimes.com/2026/07/31/world/americas/amazon-archaeology-geoglyphs.html"
+      "Looking inside a 1970s PROM chip that stores data in microscopic fuses (2019)",
+      "https://www.righto.com/2019/07/looking-inside-1970s-prom-chip-that.html"
     ]
   ],
   [
