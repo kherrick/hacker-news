@@ -24,6 +24,7 @@
 * [2026-07-31, 18:06:39](https://news.ycombinator.com/item?id=49126630) - [Everyone is building LLM routers, we deprecated ours](https://manifest.build/blog/why-we-deprecated-our-llm-router/)
 * [2026-07-31, 18:04:58](https://news.ycombinator.com/item?id=49126604) - [qm](https://github.com/yc-software/qm)
 * [2026-07-31, 18:04:48](https://news.ycombinator.com/item?id=49126602) - [They Forgot What Happened Last Time: Hacking the Windows 365 Link [video]](https://media.ccc.de/v/emf2026-93-1-they-forgot-what-happened-last-time)
+* [2026-07-31, 17:54:39](https://news.ycombinator.com/item?id=49126468) - [IPC-7351B Electronic Component Zero Orientation [pdf]](https://scancad.net/wp-content/uploads/2019/02/zero-orientation-cad-libaray.pdf)
 * [2026-07-31, 17:33:32](https://news.ycombinator.com/item?id=49126201) - [AFC Stands in Solidarity with UEFA and Concacaf to Protect the FIFA World Cup](https://www.the-afc.com/en/more/afc_news.html/news/afc-stands-in-solidarity-with-uefa-and-concacaf-to-protect-the-fifa-world-cup)
 * [2026-07-31, 17:15:09](https://news.ycombinator.com/item?id=49125971) - [Severance](https://lcamtuf.substack.com/p/severance)
 * [2026-07-31, 17:01:08](https://news.ycombinator.com/item?id=49125785) - [Miso (YC S16) is hiring for U.S. expansion](https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion)
