@@ -91,6 +91,7 @@
 * [2026-07-31, 05:26:13](https://news.ycombinator.com/item?id=49119322) - [Human Honeypot](https://human2llm.pages.dev/)
 * [2026-07-31, 05:17:29](https://news.ycombinator.com/item?id=49119274) - [Show HN: What should the GUI for AI agents look like?](https://marbleos.com/demo)
 * [2026-07-31, 05:16:45](https://news.ycombinator.com/item?id=49119270) - [Let's make the worst Htmx](https://zserge.com/posts/worst-htmx-ever/)
+* [2026-07-31, 04:57:00](https://news.ycombinator.com/item?id=49119166) - [RosaicLabs, Atom RTL, and 32-Tile AMX: Trying to Piece Together a x86 Puzzle](https://chipsandcheese.com/p/rosaiclabs-atom-rtl-and-32-tile-amx)
 * [2026-07-31, 04:39:07](https://news.ycombinator.com/item?id=49119065) - [Just brute force your embeddings](https://softwaredoug.com/blog/2026/07/29/just-brute-force-embeddings)
 * [2026-07-31, 04:38:19](https://news.ycombinator.com/item?id=49119063) - [JEP 401: Value Objects (Preview) merged to OpenJDK master](https://github.com/openjdk/jdk/pull/31120)
 * [2026-07-31, 04:15:04](https://news.ycombinator.com/item?id=49118933) - [The AI trade now runs on borrowed money, and the lenders are repricing it](https://greyswansignals.com/?theme=dark)
