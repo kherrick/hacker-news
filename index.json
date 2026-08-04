@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-08-04, 19:18:35",
-      "https://news.ycombinator.com/item?id=49173576"
+      "2026-08-04, 20:13:40",
+      "https://news.ycombinator.com/item?id=49174407"
     ],
     [
-      "Investors in Situational Awareness deserved to lose their shirts",
-      "https://www.economist.com/finance-and-economics/2026/08/04/investors-in-situational-awareness-deserved-to-lose-their-shirts"
+      "Oxide Computer raises $445M (SEC Form D)",
+      "https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml"
     ]
   ],
   [
@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=49173165"
     ],
     [
-      "Stephen Wolfram's Wife Has Died",
+      "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
       "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/"
     ]
   ],
@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2026-08-04, 17:37:17",
-      "https://news.ycombinator.com/item?id=49172159"
-    ],
-    [
-      "What's Behind the Sharp Drop in Labor Force Participation?",
-      "https://www.stlouisfed.org/on-the-economy/2026/aug/what-is-behind-sharp-drop-labor-force-participation"
-    ]
-  ],
-  [
-    [
       "2026-08-04, 17:08:41",
       "https://news.ycombinator.com/item?id=49171766"
     ],
@@ -127,6 +117,16 @@
     [
       "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
       "https://mistral.ai/news/shieldstral/"
+    ]
+  ],
+  [
+    [
+      "2026-08-04, 16:21:02",
+      "https://news.ycombinator.com/item?id=49171068"
+    ],
+    [
+      "MariaDB: Promote getting to 10k GitHub stars in server log and client prompt",
+      "https://github.com/MariaDB/server/pull/4262"
     ]
   ],
   [
@@ -167,6 +167,16 @@
     [
       "Show HN: Simple algorithm and color space to generate diverse skin tones",
       "https://toneyalexander.github.io/inclusive-color-space/"
+    ]
+  ],
+  [
+    [
+      "2026-08-04, 15:10:37",
+      "https://news.ycombinator.com/item?id=49170076"
+    ],
+    [
+      "Most tech revolutions made work worse for employees",
+      "https://www.thisandthat.chat/blog/most-tech-revolutions-made-work-worse-for-employees/"
     ]
   ],
   [
@@ -221,22 +231,22 @@
   ],
   [
     [
-      "2026-08-04, 10:59:08",
-      "https://news.ycombinator.com/item?id=49166860"
-    ],
-    [
-      "U.S. used 'virtually all' of its long-range precision missiles during Iran war",
-      "https://www.cnbc.com/2026/08/04/us-has-used-virtually-all-of-its-long-range-precision-missiles-report.html"
-    ]
-  ],
-  [
-    [
       "2026-08-04, 10:00:55",
       "https://news.ycombinator.com/item?id=49166386"
     ],
     [
       "DeepSeek V4 Flash on a Single AMD MI300X",
       "https://github.com/ryanzhou/deepseek-v4-flash-mi300x"
+    ]
+  ],
+  [
+    [
+      "2026-08-04, 09:52:35",
+      "https://news.ycombinator.com/item?id=49166331"
+    ],
+    [
+      "\"Clean\" Code, Horrible Performance (2023)",
+      "https://www.computerenhance.com/p/clean-code-horrible-performance"
     ]
   ],
   [
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2026-07-31, 15:24:25",
-      "https://news.ycombinator.com/item?id=49124291"
+      "2026-07-31, 20:07:06",
+      "https://news.ycombinator.com/item?id=49127983"
     ],
     [
-      "Where .env Went Wrong",
-      "https://secretspec.dev/blog/where-env-went-wrong/"
-    ]
-  ],
-  [
-    [
-      "2026-07-29, 23:48:41",
-      "https://news.ycombinator.com/item?id=49104534"
-    ],
-    [
-      "The Pedagogy Behind the Studio",
-      "https://gail.wharton.upenn.edu/gen-ai-studio/the-generative-ai-studio-pedagogy/"
+      "Don't stop early: Case-folding source code at memory speed",
+      "https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/"
     ]
   ]
 ]
