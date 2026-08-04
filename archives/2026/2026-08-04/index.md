@@ -4,9 +4,16 @@
 
 ### [Archives](../../index.md) for [2026-08-04](index.md)
 
+* [2026-08-04, 12:01:02](https://news.ycombinator.com/item?id=49167448) - [Xbox goes down. You can't play games you own on disc](https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/)
+* [2026-08-04, 12:00:51](https://news.ycombinator.com/item?id=49167444) - [Roame (YC S23) Is Hiring Lead Engineer](https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer)
 * [2026-08-04, 11:33:32](https://news.ycombinator.com/item?id=49167147) - [Buckminster Fuller: everything I know](https://www.bfi.org/about-fuller/everything-i-know/)
+* [2026-08-04, 11:30:17](https://news.ycombinator.com/item?id=49167113) - [AI-Generated Images Discourage Me from Reading Your Blog](https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/)
+* [2026-08-04, 11:17:57](https://news.ycombinator.com/item?id=49166984) - [Show HN: Fine-tune an 8B model on a 4 GB laptop GPU](https://github.com/MakazhanAlpamys/Soup)
+* [2026-08-04, 11:08:18](https://news.ycombinator.com/item?id=49166918) - [Nobel Disease](https://en.wikipedia.org/wiki/Nobel_disease)
+* [2026-08-04, 11:01:37](https://news.ycombinator.com/item?id=49166874) - [Keyv and friends compromised in active Shai-Hulud supply chain attack](https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack)
 * [2026-08-04, 10:59:08](https://news.ycombinator.com/item?id=49166860) - [U.S. used 'virtually all' of its long-range precision missiles during Iran war](https://www.cnbc.com/2026/08/04/us-has-used-virtually-all-of-its-long-range-precision-missiles-report.html)
 * [2026-08-04, 10:46:04](https://news.ycombinator.com/item?id=49166749) - [Mini retirements: like a sabbatical, but much smaller](https://www.ssp.sh/brain/mini-retirements/)
+* [2026-08-04, 10:35:41](https://news.ycombinator.com/item?id=49166672) - [Safe Lock-free Primitives with iceoryx2's ByteAtomic](https://ekxide.io/blog/byte-wise-atomic-wrapper-to-prevent-ub/)
 * [2026-08-04, 10:13:13](https://news.ycombinator.com/item?id=49166491) - [Ray Bradbury's \"There Will Come Soft Rains\" is set today (2026-08-04)](https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj)
 * [2026-08-04, 10:07:06](https://news.ycombinator.com/item?id=49166442) - [Why Large Language Models Fail at Tabular Prediction](https://arxiv.org/abs/2608.02412)
 * [2026-08-04, 10:03:46](https://news.ycombinator.com/item?id=49166411) - [Learning-Rust.Github.io: Rust Programming Language Tutorials for Everyone](https://learning-rust.github.io)
