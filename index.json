@@ -1,12 +1,182 @@
 [
   [
     [
-      "2026-08-05, 12:42:50",
-      "https://news.ycombinator.com/item?id=49182052"
+      "2026-08-05, 15:20:11",
+      "https://news.ycombinator.com/item?id=49184190"
     ],
     [
-      "Iowa et al asks OpenAI to keep their bots sandboxed",
-      "https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-leads-coalition-demanding-transparency-from-openai-after-ai-breach-and"
+      "Cops Used Flock to Track a Man Across State Lines for a Pretextual Weed Search",
+      "https://www.404media.co/cops-used-flock-to-track-a-man-across-state-lines-to-create-pretext-to-search-his-car-for-weed/"
+    ]
+  ],
+  [
+    [
+      "2026-08-05, 15:11:51",
+      "https://news.ycombinator.com/item?id=49184083"
+    ],
+    [
+      "Cloudflare OS",
+      "https://os.cloudflare.app/"
+    ]
+  ],
+  [
+    [
+      "2026-08-05, 15:08:58",
+      "https://news.ycombinator.com/item?id=49184041"
+    ],
+    [
+      "Google Assistant is going away on Mobile Devices",
+      "https://images.seroundtable.com/google-assistant-going-away-laEdSzU1.png"
+    ]
+  ],
+  [
+    [
+      "2026-08-05, 15:01:26",
+      "https://news.ycombinator.com/item?id=49183953"
+    ],
+    [
+      "Citigroup, Idaho, and Build-a-Bear Launched a Coordinated Attack on Me",
+      "https://knock-knock.net/blog/citigroup-idaho-build-a-bear/"
+    ]
+  ],
+  [
+    [
+      "2026-08-05, 14:06:39",
+      "https://news.ycombinator.com/item?id=49183115"
+    ],
+    [
+      "Aristotle quotes on virtue, knowledge, and happiness",
+      "https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/"
+    ]
+  ],
+  [
+    [
+      "2026-08-05, 14:04:10",
+      "https://news.ycombinator.com/item?id=49183079"
+    ],
+    [
+      "Rubin Observatory's first LSST Camera release: 500k galaxies in the COSMOS field",
+      "https://rubinobservatory.org/news/rubin-new-window-cosmos-field"
+    ]
+  ],
+  [
+    [
+      "2026-08-05, 14:04:06",
+      "https://news.ycombinator.com/item?id=49183076"
+    ],
+    [
+      "Intelligence Is Not the Main Bottleneck",
+      "https://www.writingruxandrabio.com/p/intelligence-is-not-the-main-bottleneck"
+    ]
+  ],
+  [
+    [
+      "2026-08-05, 14:03:40",
+      "https://news.ycombinator.com/item?id=49183069"
+    ],
+    [
+      "TSON – A JSON superset with immutable, hash-pinned schemas",
+      "https://tson.io/"
+    ]
+  ],
+  [
+    [
+      "2026-08-05, 14:00:10",
+      "https://news.ycombinator.com/item?id=49183017"
+    ],
+    [
+      "The Entropy of a Markov Chain",
+      "https://chillphysicsenjoyer.substack.com/p/the-entropy-of-a-markov-chain"
+    ]
+  ],
+  [
+    [
+      "2026-08-05, 13:58:53",
+      "https://news.ycombinator.com/item?id=49182996"
+    ],
+    [
+      "Cloudflare OS: an open platform for agents, apps, and work",
+      "https://blog.cloudflare.com/cloudflare-os/"
+    ]
+  ],
+  [
+    [
+      "2026-08-05, 13:57:19",
+      "https://news.ycombinator.com/item?id=49182971"
+    ],
+    [
+      "OpenAI settles claims of discrimination against US workers for $3.2M",
+      "https://finance.yahoo.com/technology/ai/articles/openai-settles-claims-discrimination-against-221429616.html"
+    ]
+  ],
+  [
+    [
+      "2026-08-05, 13:55:48",
+      "https://news.ycombinator.com/item?id=49182957"
+    ],
+    [
+      "Not hiring junior engineers won't solve the problem you think you have",
+      "https://franciscotrindade.me/blog/the-kids-are-alright/"
+    ]
+  ],
+  [
+    [
+      "2026-08-05, 13:54:12",
+      "https://news.ycombinator.com/item?id=49182946"
+    ],
+    [
+      "Building an Advanced Agentic Harness",
+      "https://data4sci.com/blog/building-an-advanced-agentic-harness"
+    ]
+  ],
+  [
+    [
+      "2026-08-05, 13:34:32",
+      "https://news.ycombinator.com/item?id=49182695"
+    ],
+    [
+      "Painting with Gaussians",
+      "https://yogthos.net/posts/2026-08-03-splat-painter.html"
+    ]
+  ],
+  [
+    [
+      "2026-08-05, 13:33:25",
+      "https://news.ycombinator.com/item?id=49182685"
+    ],
+    [
+      "Faster Than Ninja",
+      "https://build2.org/blog/faster-than-ninja.xhtml"
+    ]
+  ],
+  [
+    [
+      "2026-08-05, 13:26:01",
+      "https://news.ycombinator.com/item?id=49182586"
+    ],
+    [
+      "Google's HTTP/2 codec slows Envoy",
+      "https://apoxy.dev/blog/oghttp2-vs-nghttp2"
+    ]
+  ],
+  [
+    [
+      "2026-08-05, 13:24:24",
+      "https://news.ycombinator.com/item?id=49182560"
+    ],
+    [
+      "KTX Images Converter for WebGL/GPU and Threejs",
+      "https://ktxconverter.robertborghesi.is"
+    ]
+  ],
+  [
+    [
+      "2026-08-05, 13:23:52",
+      "https://news.ycombinator.com/item?id=49182551"
+    ],
+    [
+      "Cloudflare OS – an open-source AI productivity environment",
+      "https://github.com/cloudflare/cloudflare-os"
     ]
   ],
   [
@@ -21,32 +191,12 @@
   ],
   [
     [
-      "2026-08-05, 12:06:14",
-      "https://news.ycombinator.com/item?id=49181678"
-    ],
-    [
-      "Three Six Mafia – Data about \"6/6/6 dating\" (2024)",
-      "https://divingintheshallowend.com/three-six-mafia/"
-    ]
-  ],
-  [
-    [
       "2026-08-05, 11:49:34",
       "https://news.ycombinator.com/item?id=49181519"
     ],
     [
-      "Why the Legendary Erdős Problems Are Falling to AI",
+      "Why Erdős Problems Are Falling to AI",
       "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/"
-    ]
-  ],
-  [
-    [
-      "2026-08-05, 11:39:09",
-      "https://news.ycombinator.com/item?id=49181419"
-    ],
-    [
-      "Could psilocybin be the key to treating anorexia?",
-      "https://www.scientificamerican.com/article/psilocybin-could-kick-start-anorexia-recovery-early-results-suggest/"
     ]
   ],
   [
@@ -71,152 +221,12 @@
   ],
   [
     [
-      "2026-08-05, 09:15:33",
-      "https://news.ycombinator.com/item?id=49180407"
-    ],
-    [
-      "Helsinki Hacker News Meetup",
-      "https://calpaterson.com/helsinki-hn.html"
-    ]
-  ],
-  [
-    [
-      "2026-08-05, 04:36:44",
-      "https://news.ycombinator.com/item?id=49178608"
-    ],
-    [
-      "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
-      "https://arxiv.org/abs/2607.29377"
-    ]
-  ],
-  [
-    [
-      "2026-08-05, 04:07:27",
-      "https://news.ycombinator.com/item?id=49178464"
-    ],
-    [
-      "An SLM trained on $8 ESP32-S3",
-      "https://github.com/Carloscodix/qapla"
-    ]
-  ],
-  [
-    [
-      "2026-08-05, 00:05:49",
-      "https://news.ycombinator.com/item?id=49176947"
-    ],
-    [
-      "Bugtraq is back",
-      "https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/"
-    ]
-  ],
-  [
-    [
-      "2026-08-04, 23:50:52",
-      "https://news.ycombinator.com/item?id=49176830"
-    ],
-    [
-      "Eight Myths on Software Engineering and GenAI",
-      "https://queue.acm.org/detail.cfm?id=3807963"
-    ]
-  ],
-  [
-    [
-      "2026-08-04, 23:31:46",
-      "https://news.ycombinator.com/item?id=49176697"
-    ],
-    [
-      "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
-      "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/"
-    ]
-  ],
-  [
-    [
-      "2026-08-04, 22:24:00",
-      "https://news.ycombinator.com/item?id=49176055"
-    ],
-    [
-      "We finally learned to center a div, then browsers added sidebars",
-      "https://seg6.space/posts/center-div/"
-    ]
-  ],
-  [
-    [
       "2026-08-04, 22:22:12",
       "https://news.ycombinator.com/item?id=49176038"
     ],
     [
       "Pi's Minimalism Is Its Advantage",
       "https://earendil.com/posts/pi-autoresearch-and-databricks/"
-    ]
-  ],
-  [
-    [
-      "2026-08-04, 22:09:43",
-      "https://news.ycombinator.com/item?id=49175924"
-    ],
-    [
-      "DuckDB – Data power tools for your laptop, now in Clojure (2023)",
-      "https://techascent.com/blog/just-ducking-around.html"
-    ]
-  ],
-  [
-    [
-      "2026-08-04, 22:01:41",
-      "https://news.ycombinator.com/item?id=49175826"
-    ],
-    [
-      "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
-      "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/"
-    ]
-  ],
-  [
-    [
-      "2026-08-04, 19:44:55",
-      "https://news.ycombinator.com/item?id=49173984"
-    ],
-    [
-      "Show HN: Maple-Preview – Ternary 20B MoE running at 120 tok/s on a iPhone",
-      "https://deepgrove.ai/maple-preview"
-    ]
-  ],
-  [
-    [
-      "2026-08-04, 18:51:38",
-      "https://news.ycombinator.com/item?id=49173165"
-    ],
-    [
-      "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
-      "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/"
-    ]
-  ],
-  [
-    [
-      "2026-08-04, 16:36:05",
-      "https://news.ycombinator.com/item?id=49171268"
-    ],
-    [
-      "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
-      "https://mistral.ai/news/shieldstral/"
-    ]
-  ],
-  [
-    [
-      "2026-08-04, 15:16:22",
-      "https://news.ycombinator.com/item?id=49170165"
-    ],
-    [
-      "Show HN: Simple algorithm and color space to generate diverse skin tones",
-      "https://toneyalexander.github.io/inclusive-color-space/"
-    ]
-  ],
-  [
-    [
-      "2026-08-03, 23:24:53",
-      "https://news.ycombinator.com/item?id=49162653"
-    ],
-    [
-      "There Will Come Soft Rains (1950) [pdf]",
-      "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf"
     ]
   ],
   [
@@ -241,22 +251,12 @@
   ],
   [
     [
-      "2026-07-31, 15:22:35",
-      "https://news.ycombinator.com/item?id=49124273"
+      "2026-07-30, 20:09:43",
+      "https://news.ycombinator.com/item?id=49115096"
     ],
     [
-      "The Pneumatics of Hero of Alexandria (1851)",
-      "https://www.thehopkinthomasproject.com/TheHopkinThomasProject/TimeLine/Wales/Steam/URochesterCollection/Hero/index-2.html"
-    ]
-  ],
-  [
-    [
-      "2026-07-31, 13:59:34",
-      "https://news.ycombinator.com/item?id=49123231"
-    ],
-    [
-      "Why is it all in the kernel?",
-      "https://lawrencecpaulson.github.io//2026/07/30/Collatz.html"
+      "Discovery of a multicomponent alloy forged by the Hiroshima atomic blast",
+      "https://www.science.org/doi/10.1126/sciadv.aeg8299"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2026-07-30, 13:17:20",
+      "https://news.ycombinator.com/item?id=49109576"
+    ],
+    [
+      "BSD Make extravaganza: Mandelbrot Set In bmake",
+      "https://github.com/b-aaz/bmake-extravaganza/tree/master"
+    ]
+  ],
+  [
+    [
       "2026-07-30, 03:57:33",
       "https://news.ycombinator.com/item?id=49105978"
     ],
     [
       "“Gravity is worth asking about”",
       "https://unsung.aresluna.org/gravity-is-worth-asking-about/"
-    ]
-  ],
-  [
-    [
-      "2026-07-28, 14:15:49",
-      "https://news.ycombinator.com/item?id=49084236"
-    ],
-    [
-      "Rio-vt and librio: Rio's terminal engine, now embeddable",
-      "https://rioterm.com/blog/2026/07/27/rio-vt-and-librio"
     ]
   ]
 ]
