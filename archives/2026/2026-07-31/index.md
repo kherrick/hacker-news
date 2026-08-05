@@ -24,6 +24,7 @@
 * [2026-07-31, 18:30:44](https://news.ycombinator.com/item?id=49126919) - [Using the railway network as a flatbed scanner [video]](https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner)
 * [2026-07-31, 18:28:08](https://news.ycombinator.com/item?id=49126883) - [Termixer (TUI DJ Mixer)](https://github.com/l00sed/termixer)
 * [2026-07-31, 18:17:52](https://news.ycombinator.com/item?id=49126765) - [June in Servo: real world compat, media queries, SharedWorker, and more](https://servo.org/blog/2026/07/31/june-in-servo/)
+* [2026-07-31, 18:14:48](https://news.ycombinator.com/item?id=49126716) - [Goodhart's Law Comes for Every Benchmark You Trust](https://cacm.acm.org/blogcacm/goodharts-law-comes-for-every-benchmark-you-trust/)
 * [2026-07-31, 18:06:39](https://news.ycombinator.com/item?id=49126630) - [Everyone is building LLM routers, we deprecated ours](https://manifest.build/blog/why-we-deprecated-our-llm-router/)
 * [2026-07-31, 18:04:58](https://news.ycombinator.com/item?id=49126604) - [qm](https://github.com/yc-software/qm)
 * [2026-07-31, 18:04:48](https://news.ycombinator.com/item?id=49126602) - [They Forgot What Happened Last Time: Hacking the Windows 365 Link [video]](https://media.ccc.de/v/emf2026-93-1-they-forgot-what-happened-last-time)

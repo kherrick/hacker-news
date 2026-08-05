@@ -4,6 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-08-05](index.md)
 
+* [2026-08-05, 19:47:26](https://news.ycombinator.com/item?id=49187977) - [Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery](https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/)
+* [2026-08-05, 19:15:52](https://news.ycombinator.com/item?id=49187575) - [Muse Code and Muse Spark 1.2](https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2)
+* [2026-08-05, 18:52:58](https://news.ycombinator.com/item?id=49187259) - [Sula: A Gemini protocol server written in Scryer Prolog](https://sagredo.dev/projects/sula/)
+* [2026-08-05, 18:52:54](https://news.ycombinator.com/item?id=49187256) - [Zed DeltaDB](https://zed.dev/deltadb)
+* [2026-08-05, 18:39:31](https://news.ycombinator.com/item?id=49187084) - [What happens if you put work into the second dimension?](https://norbertkozsir.com/posts/work-in-the-second-dimension/)
+* [2026-08-05, 18:37:49](https://news.ycombinator.com/item?id=49187061) - [Born Against, or why hobby programming communities are against LLM usage](https://blog.fogus.me/llm/born-against.html)
+* [2026-08-05, 18:18:56](https://news.ycombinator.com/item?id=49186762) - [Beating GPT-5.6 Sol on retrieval with 100x cheaper open models](https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency)
+* [2026-08-05, 18:17:03](https://news.ycombinator.com/item?id=49186720) - [Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)](https://arxiv.org/abs/2510.01395)
 * [2026-08-05, 18:10:02](https://news.ycombinator.com/item?id=49186621) - [Antigravity 2.0](https://antigravity.google/product/antigravity-2)
 * [2026-08-05, 17:23:25](https://news.ycombinator.com/item?id=49185983) - [Atlassian Rovo Exfiltrates Data, Bypassing Controls](https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data)
 * [2026-08-05, 17:20:25](https://news.ycombinator.com/item?id=49185931) - [Phishers are hijacking legitimate cloud infrastructure](https://securelist.com/cloud-platforms-in-phishing/120832/)
@@ -11,6 +19,7 @@
 * [2026-08-05, 16:50:06](https://news.ycombinator.com/item?id=49185430) - [Celld: Self-hosted, distributed Durable Objects](https://github.com/denoland/celld)
 * [2026-08-05, 16:47:15](https://news.ycombinator.com/item?id=49185389) - [Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod](https://www.hyperprobe.co)
 * [2026-08-05, 16:45:33](https://news.ycombinator.com/item?id=49185370) - [Why I'm leaving OpenAI to build telepathy](https://naomibashkansky.com/blog/telepathy/)
+* [2026-08-05, 16:35:30](https://news.ycombinator.com/item?id=49185215) - [Stop sending me your errors](https://kramkow.ski/article/2026/08/05/stop_sending_me_your_errors.html)
 * [2026-08-05, 16:19:44](https://news.ycombinator.com/item?id=49184960) - [Discovery Loop](https://www.discoveryloop.com/)
 * [2026-08-05, 16:14:49](https://news.ycombinator.com/item?id=49184879) - [Jeff Dean Leaving Google](https://twitter.com/JeffDean/status/2085034604172603724)
 * [2026-08-05, 16:05:37](https://news.ycombinator.com/item?id=49184757) - [Google DeepMind CEO Demis Hassabis is stepping down](https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai)
