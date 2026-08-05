@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-08-05, 01:34:26",
-      "https://news.ycombinator.com/item?id=49177554"
+      "2026-08-05, 04:51:43",
+      "https://news.ycombinator.com/item?id=49178702"
     ],
     [
-      "After Losses, Retail Investors Flock to 3x Leverage as 2x Product Are Restricted",
-      "https://www.asiae.co.kr/en/article/2026080416131786841"
+      "The sale of Electronic Arts has been finalized",
+      "https://www.bbc.com/news/articles/cjejyl34345o"
+    ]
+  ],
+  [
+    [
+      "2026-08-05, 04:36:44",
+      "https://news.ycombinator.com/item?id=49178608"
+    ],
+    [
+      "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
+      "https://arxiv.org/abs/2607.29377"
+    ]
+  ],
+  [
+    [
+      "2026-08-05, 04:07:27",
+      "https://news.ycombinator.com/item?id=49178464"
+    ],
+    [
+      "An SLM trained on $8 ESP32-S3",
+      "https://github.com/Carloscodix/qapla"
     ]
   ],
   [
@@ -25,7 +45,7 @@
       "https://news.ycombinator.com/item?id=49176947"
     ],
     [
-      "Bugtraq Is Back",
+      "Bugtraq is back",
       "https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/"
     ]
   ],
@@ -35,7 +55,7 @@
       "https://news.ycombinator.com/item?id=49176920"
     ],
     [
-      "Flowise Is Shutting Down",
+      "Flowise is shutting down",
       "https://flowiseai.com/sunset"
     ]
   ],
@@ -57,16 +77,6 @@
     [
       "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
       "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/"
-    ]
-  ],
-  [
-    [
-      "2026-08-04, 23:21:33",
-      "https://news.ycombinator.com/item?id=49176634"
-    ],
-    [
-      "FIPS 140-3 is not a security guarantee, and auditors know it",
-      "https://808bits.com/articles/fips-140-3-not-a-security-guarantee/"
     ]
   ],
   [
@@ -141,21 +151,11 @@
   ],
   [
     [
-      "2026-08-04, 20:13:40",
-      "https://news.ycombinator.com/item?id=49174407"
-    ],
-    [
-      "Oxide Computer raises $445M (SEC Form D)",
-      "https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml"
-    ]
-  ],
-  [
-    [
       "2026-08-04, 19:44:55",
       "https://news.ycombinator.com/item?id=49173984"
     ],
     [
-      "Show HN: Maple-Preview – ternary 20B MoE running at 120 tok/s on a iPhone",
+      "Show HN: Maple-Preview – Ternary 20B MoE running at 120 tok/s on a iPhone",
       "https://deepgrove.ai/maple-preview"
     ]
   ],
@@ -181,6 +181,16 @@
   ],
   [
     [
+      "2026-08-04, 18:25:16",
+      "https://news.ycombinator.com/item?id=49172784"
+    ],
+    [
+      "The Golden Age of British Ice Cream",
+      "https://www.vittlesmagazine.com/p/the-golden-age-of-british-ice-cream"
+    ]
+  ],
+  [
+    [
       "2026-08-04, 17:00:12",
       "https://news.ycombinator.com/item?id=49171650"
     ],
@@ -201,42 +211,12 @@
   ],
   [
     [
-      "2026-08-04, 16:10:39",
-      "https://news.ycombinator.com/item?id=49170915"
-    ],
-    [
-      "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
-      "https://arxiv.org/abs/2602.16763"
-    ]
-  ],
-  [
-    [
       "2026-08-04, 15:16:22",
       "https://news.ycombinator.com/item?id=49170165"
     ],
     [
       "Show HN: Simple algorithm and color space to generate diverse skin tones",
       "https://toneyalexander.github.io/inclusive-color-space/"
-    ]
-  ],
-  [
-    [
-      "2026-08-04, 12:01:02",
-      "https://news.ycombinator.com/item?id=49167448"
-    ],
-    [
-      "Xbox goes down. You can't play games you own on disc",
-      "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/"
-    ]
-  ],
-  [
-    [
-      "2026-08-04, 11:01:37",
-      "https://news.ycombinator.com/item?id=49166874"
-    ],
-    [
-      "Keyv and friends compromised in active Shai-Hulud supply chain attack",
-      "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack"
     ]
   ],
   [
@@ -271,16 +251,6 @@
   ],
   [
     [
-      "2026-08-01, 13:24:57",
-      "https://news.ycombinator.com/item?id=49134241"
-    ],
-    [
-      "From boiling lead and black art: The history of mathematical typography (2017)",
-      "http://www.practicallyefficient.com/2017/10/13/from-boiling-lead-and-black-art.html"
-    ]
-  ],
-  [
-    [
       "2026-08-01, 05:51:36",
       "https://news.ycombinator.com/item?id=49131438"
     ],
@@ -297,6 +267,36 @@
     [
       "Don't stop early: Case-folding source code at memory speed",
       "https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/"
+    ]
+  ],
+  [
+    [
+      "2026-07-31, 13:59:34",
+      "https://news.ycombinator.com/item?id=49123231"
+    ],
+    [
+      "Why is it all in the kernel?",
+      "https://lawrencecpaulson.github.io//2026/07/30/Collatz.html"
+    ]
+  ],
+  [
+    [
+      "2026-07-30, 03:57:33",
+      "https://news.ycombinator.com/item?id=49105978"
+    ],
+    [
+      "\"Gravity is worth asking about.\"",
+      "https://unsung.aresluna.org/gravity-is-worth-asking-about/"
+    ]
+  ],
+  [
+    [
+      "2026-07-28, 14:15:49",
+      "https://news.ycombinator.com/item?id=49084236"
+    ],
+    [
+      "Rio-vt and librio: Rio's terminal engine, now embeddable",
+      "https://rioterm.com/blog/2026/07/27/rio-vt-and-librio"
     ]
   ]
 ]
