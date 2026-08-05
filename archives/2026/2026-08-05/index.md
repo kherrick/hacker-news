@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-08-05](index.md)
 
+* [2026-08-05, 21:29:23](https://news.ycombinator.com/item?id=49189287) - [The Title Cards in Blade Runner Are Fucking Amazing](https://randsinrepose.com/archives/blade-runner-title-cards/)
+* [2026-08-05, 21:24:45](https://news.ycombinator.com/item?id=49189234) - [Nvidia's Vera Whitepaper Has a Thread Loose](https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread)
+* [2026-08-05, 21:15:40](https://news.ycombinator.com/item?id=49189113) - [Nikita Bier Steps Down as Head of Product at X](https://twitter.com/nikitabier/status/2085105586966827343/)
 * [2026-08-05, 21:11:57](https://news.ycombinator.com/item?id=49189075) - [Prime Agent: A self-improving RLM agent](https://www.primeintellect.ai/blog/prime-agent)
 * [2026-08-05, 19:50:13](https://news.ycombinator.com/item?id=49188022) - [I'm switching my phone from Android to Linux](https://runarcn.no/android-to-linux/)
 * [2026-08-05, 19:47:26](https://news.ycombinator.com/item?id=49187977) - [Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery](https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/)
