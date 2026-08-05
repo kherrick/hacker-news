@@ -10,6 +10,7 @@
 * [2026-08-02, 22:16:34](https://news.ycombinator.com/item?id=49148987) - [Californians' data deletion requests, DROP, become enforceable Aug. 1](https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/)
 * [2026-08-02, 22:06:34](https://news.ycombinator.com/item?id=49148899) - [Show HN: Mu – Tools for Agents](https://github.com/micro/mu)
 * [2026-08-02, 21:30:04](https://news.ycombinator.com/item?id=49148541) - [Flock – Chilling Effects: Long Island's Emerging Open-Air Prison](https://www.11971.com/)
+* [2026-08-02, 20:50:02](https://news.ycombinator.com/item?id=49148176) - [Bubble Memory](https://en.wikipedia.org/wiki/Bubble_memory)
 * [2026-08-02, 20:48:45](https://news.ycombinator.com/item?id=49148163) - [Show HN: Draco – A single-binary, self-hostable Firecrawl alternative in Rust](https://github.com/0xchasercat/draco/)
 * [2026-08-02, 20:48:28](https://news.ycombinator.com/item?id=49148159) - [AI Mania: From Tulips to Tokens](https://seanhelvey.com/tools-and-their-tools/)
 * [2026-08-02, 20:44:24](https://news.ycombinator.com/item?id=49148128) - [EU Age Verification Project Mandates Hardware-Bound Attestation](https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/)

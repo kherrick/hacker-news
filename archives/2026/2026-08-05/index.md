@@ -4,7 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-08-05](index.md)
 
+* [2026-08-05, 12:42:50](https://news.ycombinator.com/item?id=49182052) - [Iowa et al asks OpenAI to keep their bots sandboxed](https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-leads-coalition-demanding-transparency-from-openai-after-ai-breach-and)
+* [2026-08-05, 12:41:47](https://news.ycombinator.com/item?id=49182041) - [TIME Is Serving AI Bots a Different Website, with Ads Built In](https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/)
+* [2026-08-05, 12:06:14](https://news.ycombinator.com/item?id=49181678) - [Three Six Mafia – Data about \"6/6/6 dating\" (2024)](https://divingintheshallowend.com/three-six-mafia/)
+* [2026-08-05, 11:49:34](https://news.ycombinator.com/item?id=49181519) - [Why the Legendary Erdős Problems Are Falling to AI](https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/)
+* [2026-08-05, 11:39:09](https://news.ycombinator.com/item?id=49181419) - [Could psilocybin be the key to treating anorexia?](https://www.scientificamerican.com/article/psilocybin-could-kick-start-anorexia-recovery-early-results-suggest/)
 * [2026-08-05, 11:03:13](https://news.ycombinator.com/item?id=49181099) - [Civilian plane crash in New Mexico tied to military GPS blocking](https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/)
+* [2026-08-05, 11:01:37](https://news.ycombinator.com/item?id=49181083) - [Position: LLMs Can't Jump](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt)
 * [2026-08-05, 10:38:57](https://news.ycombinator.com/item?id=49180901) - [No Data Centers in My Backyard](https://jasmi.news/p/no-data-centers-in-my-backyard)
 * [2026-08-05, 09:15:33](https://news.ycombinator.com/item?id=49180407) - [Helsinki Hacker News Meetup](https://calpaterson.com/helsinki-hn.html)
 * [2026-08-05, 04:51:43](https://news.ycombinator.com/item?id=49178702) - [The sale of Electronic Arts has been finalized](https://www.bbc.com/news/articles/cjejyl34345o)
