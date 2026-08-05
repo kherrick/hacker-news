@@ -26,6 +26,7 @@
 * [2026-08-04, 18:36:02](https://news.ycombinator.com/item?id=49172936) - [Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research](https://edotenv.com/)
 * [2026-08-04, 18:29:41](https://news.ycombinator.com/item?id=49172836) - [Waymo – Dallas Open to All](https://waymo.com/blog/shorts/dallas-open-to-all/)
 * [2026-08-04, 18:29:32](https://news.ycombinator.com/item?id=49172834) - [Security Is Hard, Y'all](https://textslashplain.com/2026/08/04/security-is-hard-yall/)
+* [2026-08-04, 18:25:16](https://news.ycombinator.com/item?id=49172784) - [The Golden Age of British Ice Cream](https://www.vittlesmagazine.com/p/the-golden-age-of-british-ice-cream)
 * [2026-08-04, 18:12:10](https://news.ycombinator.com/item?id=49172609) - [The Sound of Inevitability](https://www.panoptica.com/the-sound-of-inevitability/)
 * [2026-08-04, 18:11:09](https://news.ycombinator.com/item?id=49172597) - [Blackmail Fail (2013)](https://gwern.net/blackmail)
 * [2026-08-04, 18:06:12](https://news.ycombinator.com/item?id=49172550) - [Why some people mow a lawn better than others](https://pudding.cool/2026/06/mow/)

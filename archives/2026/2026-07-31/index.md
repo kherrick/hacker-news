@@ -69,6 +69,7 @@
 * [2026-07-31, 14:09:54](https://news.ycombinator.com/item?id=49123353) - [Cro – elegant reactive services in Raku](https://cro.raku.org/)
 * [2026-07-31, 14:05:02](https://news.ycombinator.com/item?id=49123300) - [Better to Beg Forgiveness](https://pluralistic.net/2026/07/31/just-do-it/)
 * [2026-07-31, 14:01:15](https://news.ycombinator.com/item?id=49123258) - [U.S. debt-to-GDP ratio reaches 123%](https://fred.stlouisfed.org/series/GFDEGDQ188S)
+* [2026-07-31, 13:59:34](https://news.ycombinator.com/item?id=49123231) - [Why is it all in the kernel?](https://lawrencecpaulson.github.io//2026/07/30/Collatz.html)
 * [2026-07-31, 13:57:35](https://news.ycombinator.com/item?id=49123208) - [Arch Linux disables AUR package adoption](https://lwn.net/Articles/1086489/)
 * [2026-07-31, 13:56:31](https://news.ycombinator.com/item?id=49123199) - [The C ``Clockwise/Spiral Rule''](https://c-faq.com/decl/spiral.anderson.html)
 * [2026-07-31, 13:47:58](https://news.ycombinator.com/item?id=49123105) - [Kelly Criterion Simulator](https://kellysimulator.com/)
