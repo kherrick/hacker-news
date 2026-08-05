@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-05, 01:34:26",
+      "https://news.ycombinator.com/item?id=49177554"
+    ],
+    [
+      "After Losses, Retail Investors Flock to 3x Leverage as 2x Product Are Restricted",
+      "https://www.asiae.co.kr/en/article/2026080416131786841"
+    ]
+  ],
+  [
+    [
       "2026-08-05, 00:10:37",
       "https://news.ycombinator.com/item?id=49176983"
     ],
@@ -47,16 +57,6 @@
     [
       "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
       "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/"
-    ]
-  ],
-  [
-    [
-      "2026-08-04, 23:22:37",
-      "https://news.ycombinator.com/item?id=49176644"
-    ],
-    [
-      "Pass the Passkey: A Novel Attack Surface in Passwordless Authentication",
-      "https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/"
     ]
   ],
   [
@@ -131,26 +131,6 @@
   ],
   [
     [
-      "2026-08-04, 21:14:19",
-      "https://news.ycombinator.com/item?id=49175248"
-    ],
-    [
-      "Third-party cyber evaluations involving OpenAI models",
-      "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/"
-    ]
-  ],
-  [
-    [
-      "2026-08-04, 21:09:39",
-      "https://news.ycombinator.com/item?id=49175192"
-    ],
-    [
-      "Thanks FedEx, This Is Why We Keep Getting Phished (2024)",
-      "https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/"
-    ]
-  ],
-  [
-    [
       "2026-08-04, 20:48:17",
       "https://news.ycombinator.com/item?id=49174900"
     ],
@@ -187,16 +167,6 @@
     [
       "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
       "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/"
-    ]
-  ],
-  [
-    [
-      "2026-08-04, 18:36:02",
-      "https://news.ycombinator.com/item?id=49172936"
-    ],
-    [
-      "Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research",
-      "https://edotenv.com/"
     ]
   ],
   [
@@ -251,6 +221,16 @@
   ],
   [
     [
+      "2026-08-04, 12:01:02",
+      "https://news.ycombinator.com/item?id=49167448"
+    ],
+    [
+      "Xbox goes down. You can't play games you own on disc",
+      "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/"
+    ]
+  ],
+  [
+    [
       "2026-08-04, 11:01:37",
       "https://news.ycombinator.com/item?id=49166874"
     ],
@@ -261,12 +241,22 @@
   ],
   [
     [
-      "2026-08-04, 10:00:55",
-      "https://news.ycombinator.com/item?id=49166386"
+      "2026-08-03, 23:24:53",
+      "https://news.ycombinator.com/item?id=49162653"
     ],
     [
-      "DeepSeek V4 Flash on a Single AMD MI300X",
-      "https://github.com/ryanzhou/deepseek-v4-flash-mi300x"
+      "There Will Come Soft Rains (1950) [pdf]",
+      "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf"
+    ]
+  ],
+  [
+    [
+      "2026-08-03, 13:32:54",
+      "https://news.ycombinator.com/item?id=49155605"
+    ],
+    [
+      "Godox Transparent Viewfinder Camera C100",
+      "https://www.godox.com/product-e/C100.html"
     ]
   ],
   [
@@ -281,22 +271,32 @@
   ],
   [
     [
+      "2026-08-01, 13:24:57",
+      "https://news.ycombinator.com/item?id=49134241"
+    ],
+    [
+      "From boiling lead and black art: The history of mathematical typography (2017)",
+      "http://www.practicallyefficient.com/2017/10/13/from-boiling-lead-and-black-art.html"
+    ]
+  ],
+  [
+    [
+      "2026-08-01, 05:51:36",
+      "https://news.ycombinator.com/item?id=49131438"
+    ],
+    [
+      "Stateless MCP has recaptured my interest",
+      "https://simonwillison.net/2026/Jul/31/stateless-mcp/"
+    ]
+  ],
+  [
+    [
       "2026-07-31, 20:07:06",
       "https://news.ycombinator.com/item?id=49127983"
     ],
     [
       "Don't stop early: Case-folding source code at memory speed",
       "https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/"
-    ]
-  ],
-  [
-    [
-      "2026-07-31, 14:43:13",
-      "https://news.ycombinator.com/item?id=49123821"
-    ],
-    [
-      "Show HN: A little physical breakout clone",
-      "https://brontosaurusrex.github.io/physical/v7/"
     ]
   ]
 ]
