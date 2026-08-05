@@ -50,6 +50,7 @@
 * [2026-08-01, 15:15:51](https://news.ycombinator.com/item?id=49135184) - [Toast IDE Gets Markdown Spell Checking](https://github.com/paradise-runner/toast)
 * [2026-08-01, 15:14:51](https://news.ycombinator.com/item?id=49135174) - [Ask HN: Any tips for a college freshman enrolled in computer science?](https://news.ycombinator.com/item?id=49135174)
 * [2026-08-01, 14:55:32](https://news.ycombinator.com/item?id=49135005) - [Archaeologists Find Ancient Glyphs in the Amazon](https://www.nytimes.com/2026/07/31/world/americas/amazon-archaeology-geoglyphs.html)
+* [2026-08-01, 14:27:17](https://news.ycombinator.com/item?id=49134756) - [What is distributed Key Generation (DKG)?](https://stoffelmpc.com/stoffel-blog/what-is-distributed-key-generation-(dkg))
 * [2026-08-01, 14:19:51](https://news.ycombinator.com/item?id=49134694) - [A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention](https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/)
 * [2026-08-01, 14:09:00](https://news.ycombinator.com/item?id=49134599) - [The Art of 64-bit Assembly](https://nostarch.com/art-64-bit-assembly-v2)
 * [2026-08-01, 13:35:26](https://news.ycombinator.com/item?id=49134310) - [How to Spot AI Writing](https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing)

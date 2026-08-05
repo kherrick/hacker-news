@@ -32,6 +32,7 @@
 * [2026-07-31, 17:15:09](https://news.ycombinator.com/item?id=49125971) - [Severance](https://lcamtuf.substack.com/p/severance)
 * [2026-07-31, 17:01:08](https://news.ycombinator.com/item?id=49125785) - [Miso (YC S16) is hiring for U.S. expansion](https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion)
 * [2026-07-31, 16:49:57](https://news.ycombinator.com/item?id=49125608) - [Colorimeter 3nh CR4501 RAL Hack](https://github.com/hallko1234/cr4501-ral-hack)
+* [2026-07-31, 16:49:30](https://news.ycombinator.com/item?id=49125602) - [Energizing a vacuum-tube flip-flop module from a 1948 IBM system](https://www.righto.com/2026/07/ibm-604-trigger-tube-module.html)
 * [2026-07-31, 16:26:53](https://news.ycombinator.com/item?id=49125237) - [The great wealth transfer reality check](https://usa.visa.com/partner-with-us/visa-consulting-analytics/economic-insights/great-wealth-transfer-reality-check.html)
 * [2026-07-31, 16:24:09](https://news.ycombinator.com/item?id=49125187) - [Dario Amodei's stance on open weights is self-serving and short-sighted](https://janilowski.pl/en/blog/2026/amodei-memo/)
 * [2026-07-31, 16:23:10](https://news.ycombinator.com/item?id=49125168) - [The Abandoned Fish Sauce Terrorizing a Small Canadian Town](https://defector.com/abandoned-fish-sauce-canada-interview)
