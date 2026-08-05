@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-08-05, 12:42:50",
+      "https://news.ycombinator.com/item?id=49182052"
+    ],
+    [
+      "Iowa et al asks OpenAI to keep their bots sandboxed",
+      "https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-leads-coalition-demanding-transparency-from-openai-after-ai-breach-and"
+    ]
+  ],
+  [
+    [
+      "2026-08-05, 12:41:47",
+      "https://news.ycombinator.com/item?id=49182041"
+    ],
+    [
+      "TIME Is Serving AI Bots a Different Website, with Ads Built In",
+      "https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/"
+    ]
+  ],
+  [
+    [
+      "2026-08-05, 12:06:14",
+      "https://news.ycombinator.com/item?id=49181678"
+    ],
+    [
+      "Three Six Mafia – Data about \"6/6/6 dating\" (2024)",
+      "https://divingintheshallowend.com/three-six-mafia/"
+    ]
+  ],
+  [
+    [
+      "2026-08-05, 11:49:34",
+      "https://news.ycombinator.com/item?id=49181519"
+    ],
+    [
+      "Why the Legendary Erdős Problems Are Falling to AI",
+      "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/"
+    ]
+  ],
+  [
+    [
+      "2026-08-05, 11:39:09",
+      "https://news.ycombinator.com/item?id=49181419"
+    ],
+    [
+      "Could psilocybin be the key to treating anorexia?",
+      "https://www.scientificamerican.com/article/psilocybin-could-kick-start-anorexia-recovery-early-results-suggest/"
+    ]
+  ],
+  [
+    [
       "2026-08-05, 11:03:13",
       "https://news.ycombinator.com/item?id=49181099"
     ],
@@ -11,12 +61,12 @@
   ],
   [
     [
-      "2026-08-05, 10:38:57",
-      "https://news.ycombinator.com/item?id=49180901"
+      "2026-08-05, 11:01:37",
+      "https://news.ycombinator.com/item?id=49181083"
     ],
     [
-      "No Data Centers in My Backyard",
-      "https://jasmi.news/p/no-data-centers-in-my-backyard"
+      "Position: LLMs Can't Jump",
+      "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt"
     ]
   ],
   [
@@ -81,26 +131,6 @@
   ],
   [
     [
-      "2026-08-04, 23:18:12",
-      "https://news.ycombinator.com/item?id=49176606"
-    ],
-    [
-      "libexpat now funded by the City of Munich for up to 6 months",
-      "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/"
-    ]
-  ],
-  [
-    [
-      "2026-08-04, 22:37:05",
-      "https://news.ycombinator.com/item?id=49176212"
-    ],
-    [
-      "Show HN: SIMD Viterbi Decoder in Rust",
-      "https://github.com/brian-armstrong/fec"
-    ]
-  ],
-  [
-    [
       "2026-08-04, 22:24:00",
       "https://news.ycombinator.com/item?id=49176055"
     ],
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2026-08-04, 18:29:41",
-      "https://news.ycombinator.com/item?id=49172836"
-    ],
-    [
-      "Waymo in Dallas",
-      "https://waymo.com/blog/shorts/dallas-open-to-all/"
-    ]
-  ],
-  [
-    [
       "2026-08-04, 16:36:05",
       "https://news.ycombinator.com/item?id=49171268"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2026-08-04, 12:01:02",
-      "https://news.ycombinator.com/item?id=49167448"
-    ],
-    [
-      "Xbox goes down. You can't play games you own on disc",
-      "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/"
-    ]
-  ],
-  [
-    [
       "2026-08-03, 23:24:53",
       "https://news.ycombinator.com/item?id=49162653"
     ],
@@ -211,22 +221,12 @@
   ],
   [
     [
-      "2026-08-03, 13:32:54",
-      "https://news.ycombinator.com/item?id=49155605"
+      "2026-08-02, 20:50:02",
+      "https://news.ycombinator.com/item?id=49148176"
     ],
     [
-      "Godox Transparent Viewfinder Camera C100",
-      "https://www.godox.com/product-e/C100.html"
-    ]
-  ],
-  [
-    [
-      "2026-08-02, 14:29:01",
-      "https://news.ycombinator.com/item?id=49145037"
-    ],
-    [
-      "Video2NAND – Abusing video codecs for great computational power",
-      "https://sharedobject.blog/posts/vp8-combinatorial-logic/"
+      "Bubble Memory",
+      "https://en.wikipedia.org/wiki/Bubble_memory"
     ]
   ],
   [
