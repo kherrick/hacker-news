@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=49189287"
     ],
     [
-      "The Title Cards in Blade Runner Are Fucking Amazing",
+      "The title cards in Blade Runner are amazing",
       "https://randsinrepose.com/archives/blade-runner-title-cards/"
     ]
   ],
@@ -15,18 +15,8 @@
       "https://news.ycombinator.com/item?id=49189234"
     ],
     [
-      "Nvidia's Vera Whitepaper Has a Thread Loose",
+      "NVIDIA’s Vera Whitepaper Has a Thread Loose",
       "https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread"
-    ]
-  ],
-  [
-    [
-      "2026-08-05, 21:15:40",
-      "https://news.ycombinator.com/item?id=49189113"
-    ],
-    [
-      "Nikita Bier Steps Down as Head of Product at X",
-      "https://twitter.com/nikitabier/status/2085105586966827343/"
     ]
   ],
   [
@@ -151,16 +141,6 @@
   ],
   [
     [
-      "2026-08-05, 16:45:33",
-      "https://news.ycombinator.com/item?id=49185370"
-    ],
-    [
-      "I’m leaving OpenAI to build telepathy",
-      "https://naomibashkansky.com/blog/telepathy/"
-    ]
-  ],
-  [
-    [
       "2026-08-05, 16:35:30",
       "https://news.ycombinator.com/item?id=49185215"
     ],
@@ -261,6 +241,16 @@
   ],
   [
     [
+      "2026-08-05, 11:01:37",
+      "https://news.ycombinator.com/item?id=49181083"
+    ],
+    [
+      "Position: LLMs Can't Jump",
+      "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt"
+    ]
+  ],
+  [
+    [
       "2026-08-02, 16:57:32",
       "https://news.ycombinator.com/item?id=49146183"
     ],
@@ -277,6 +267,16 @@
     [
       "Goodhart's Law Comes for Every Benchmark You Trust",
       "https://cacm.acm.org/blogcacm/goodharts-law-comes-for-every-benchmark-you-trust/"
+    ]
+  ],
+  [
+    [
+      "2026-07-31, 16:45:03",
+      "https://news.ycombinator.com/item?id=49125532"
+    ],
+    [
+      "Exact, parallel 2D Delaunay triangulation for int32 coordinates",
+      "https://github.com/morishuz/delaunay32"
     ]
   ],
   [
