@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-05](index.md)
 
+* [2026-08-05, 21:11:57](https://news.ycombinator.com/item?id=49189075) - [Prime Agent: A self-improving RLM agent](https://www.primeintellect.ai/blog/prime-agent)
+* [2026-08-05, 19:50:13](https://news.ycombinator.com/item?id=49188022) - [I'm switching my phone from Android to Linux](https://runarcn.no/android-to-linux/)
 * [2026-08-05, 19:47:26](https://news.ycombinator.com/item?id=49187977) - [Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery](https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/)
 * [2026-08-05, 19:15:52](https://news.ycombinator.com/item?id=49187575) - [Muse Code and Muse Spark 1.2](https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2)
 * [2026-08-05, 18:52:58](https://news.ycombinator.com/item?id=49187259) - [Sula: A Gemini protocol server written in Scryer Prolog](https://sagredo.dev/projects/sula/)
