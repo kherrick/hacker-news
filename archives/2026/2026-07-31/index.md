@@ -60,6 +60,7 @@
 * [2026-07-31, 14:57:39](https://news.ycombinator.com/item?id=49124017) - [Show HN: I built a cross-browser extension that controls fingerprinting surfaces](https://privacything.com/en/)
 * [2026-07-31, 14:55:51](https://news.ycombinator.com/item?id=49123984) - [Maze Toys](https://maze.toys)
 * [2026-07-31, 14:55:08](https://news.ycombinator.com/item?id=49123977) - [Why ugly buildings create NIMBYism](https://www.worksinprogress.news/p/why-ugly-buildings-create-nimbyism)
+* [2026-07-31, 14:43:13](https://news.ycombinator.com/item?id=49123821) - [Show HN: A little physical breakout clone](https://brontosaurusrex.github.io/physical/v7/)
 * [2026-07-31, 14:41:13](https://news.ycombinator.com/item?id=49123789) - [Show HN: BitBang – Reach machines behind NAT from a browser, no account](https://github.com/richlegrand/bitbang-cli)
 * [2026-07-31, 14:25:43](https://news.ycombinator.com/item?id=49123579) - [Detect Dark Matter's Mark from Your Backyard](https://spectrum.ieee.org/dark-matter)
 * [2026-07-31, 14:17:43](https://news.ycombinator.com/item?id=49123468) - [Authorize, don't authenticate](https://blog.marcua.net/2026/07/31/authorize-dont-authenticate.html)
