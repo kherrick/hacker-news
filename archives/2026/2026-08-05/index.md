@@ -4,7 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-08-05](index.md)
 
+* [2026-08-05, 18:10:02](https://news.ycombinator.com/item?id=49186621) - [Antigravity 2.0](https://antigravity.google/product/antigravity-2)
+* [2026-08-05, 17:23:25](https://news.ycombinator.com/item?id=49185983) - [Atlassian Rovo Exfiltrates Data, Bypassing Controls](https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data)
+* [2026-08-05, 17:20:25](https://news.ycombinator.com/item?id=49185931) - [Phishers are hijacking legitimate cloud infrastructure](https://securelist.com/cloud-platforms-in-phishing/120832/)
+* [2026-08-05, 16:58:04](https://news.ycombinator.com/item?id=49185556) - [I'm Scared a Stranger Will Call My Novel AI, So I Built GitHub for Words](https://dylan.blog/2026/08/03/im-scared-a-stranger-will.html)
+* [2026-08-05, 16:50:06](https://news.ycombinator.com/item?id=49185430) - [Celld: Self-hosted, distributed Durable Objects](https://github.com/denoland/celld)
 * [2026-08-05, 16:47:15](https://news.ycombinator.com/item?id=49185389) - [Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod](https://www.hyperprobe.co)
+* [2026-08-05, 16:45:33](https://news.ycombinator.com/item?id=49185370) - [Why I'm leaving OpenAI to build telepathy](https://naomibashkansky.com/blog/telepathy/)
 * [2026-08-05, 16:19:44](https://news.ycombinator.com/item?id=49184960) - [Discovery Loop](https://www.discoveryloop.com/)
 * [2026-08-05, 16:14:49](https://news.ycombinator.com/item?id=49184879) - [Jeff Dean Leaving Google](https://twitter.com/JeffDean/status/2085034604172603724)
 * [2026-08-05, 16:05:37](https://news.ycombinator.com/item?id=49184757) - [Google DeepMind CEO Demis Hassabis is stepping down](https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai)
