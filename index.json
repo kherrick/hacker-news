@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-06, 11:27:08",
+      "https://news.ycombinator.com/item?id=49195244"
+    ],
+    [
+      "How Americans View Capitalism, Socialism and Free Enterprise",
+      "https://news.gallup.com/poll/713144/americans-view-capitalism-socialism-free-enterprise.aspx"
+    ]
+  ],
+  [
+    [
       "2026-08-06, 07:34:06",
       "https://news.ycombinator.com/item?id=49193673"
     ],
@@ -17,6 +27,16 @@
     [
       "Let's all meet up in the Y2K",
       "https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/"
+    ]
+  ],
+  [
+    [
+      "2026-08-06, 06:24:42",
+      "https://news.ycombinator.com/item?id=49193173"
+    ],
+    [
+      "On non-rooted Android 17, ADB uninstall of system apps fails",
+      "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/issues/1426"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2026-08-05, 14:00:10",
-      "https://news.ycombinator.com/item?id=49183017"
-    ],
-    [
-      "The Entropy of a Markov Chain",
-      "https://chillphysicsenjoyer.substack.com/p/the-entropy-of-a-markov-chain"
-    ]
-  ],
-  [
-    [
       "2026-08-05, 13:58:53",
       "https://news.ycombinator.com/item?id=49182996"
     ],
@@ -261,16 +271,6 @@
   ],
   [
     [
-      "2026-07-31, 16:45:03",
-      "https://news.ycombinator.com/item?id=49125532"
-    ],
-    [
-      "Exact, parallel 2D Delaunay triangulation for int32 coordinates",
-      "https://github.com/morishuz/delaunay32"
-    ]
-  ],
-  [
-    [
       "2026-07-30, 20:09:43",
       "https://news.ycombinator.com/item?id=49115096"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-07-29, 07:19:20",
-      "https://news.ycombinator.com/item?id=49094358"
+      "2026-07-29, 12:12:29",
+      "https://news.ycombinator.com/item?id=49096439"
     ],
     [
-      "The Cipher Behind Qsyrupwd: Reconstructing IBM i Password Hashes",
-      "https://blog.silentsignal.eu/2026/07/28/the-cipher-behind-qsyrupwd-reconstructing-ibm-i-password-hashes/"
+      "Pareto Front",
+      "https://en.wikipedia.org/wiki/Pareto_front"
     ]
   ]
 ]
