@@ -36,6 +36,7 @@
 * [2026-07-29, 17:01:10](https://news.ycombinator.com/item?id=49100056) - [PgDog (YC P25) Is Hiring](https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer)
 * [2026-07-29, 16:59:52](https://news.ycombinator.com/item?id=49100043) - [Show HN: CheapFoodMap – A map of good meals under $10](https://cheapfoodmap.com/)
 * [2026-07-29, 16:59:04](https://news.ycombinator.com/item?id=49100035) - [Infrastructure Patterns for Agentic Applications](https://render.com/blog/infrastructure-patterns-for-agentic-applications)
+* [2026-07-29, 16:48:56](https://news.ycombinator.com/item?id=49099904) - [Pushing the limits of RISC-V emulation](https://shuklaayu.sh/blog/riscv-recompiler)
 * [2026-07-29, 16:42:20](https://news.ycombinator.com/item?id=49099804) - [Some thoughts about Anthropic's new cryptanalysis results](https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/)
 * [2026-07-29, 16:36:59](https://news.ycombinator.com/item?id=49099715) - [Keychron announces first open-source firmware for gaming mice](https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice)
 * [2026-07-29, 16:15:57](https://news.ycombinator.com/item?id=49099434) - [Show HN: Kedge – Full-stack cloud with forkable VM snapshots and global SQLite](https://kedge.dev/)

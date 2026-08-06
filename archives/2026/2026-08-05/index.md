@@ -25,6 +25,7 @@
 * [2026-08-05, 16:47:15](https://news.ycombinator.com/item?id=49185389) - [Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod](https://www.hyperprobe.co)
 * [2026-08-05, 16:45:33](https://news.ycombinator.com/item?id=49185370) - [Why I'm leaving OpenAI to build telepathy](https://naomibashkansky.com/blog/telepathy/)
 * [2026-08-05, 16:35:30](https://news.ycombinator.com/item?id=49185215) - [Stop sending me your errors](https://kramkow.ski/article/2026/08/05/stop_sending_me_your_errors.html)
+* [2026-08-05, 16:28:59](https://news.ycombinator.com/item?id=49185111) - [Something is changing in the unit economics of software](https://nicolo.xyz/something-is-changing-in-the-unit-economics-of-software/)
 * [2026-08-05, 16:19:44](https://news.ycombinator.com/item?id=49184960) - [Discovery Loop](https://www.discoveryloop.com/)
 * [2026-08-05, 16:14:49](https://news.ycombinator.com/item?id=49184879) - [Jeff Dean Leaving Google](https://twitter.com/JeffDean/status/2085034604172603724)
 * [2026-08-05, 16:05:37](https://news.ycombinator.com/item?id=49184757) - [Google DeepMind CEO Demis Hassabis is stepping down](https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai)
