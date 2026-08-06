@@ -49,6 +49,7 @@
 * [2026-08-02, 13:05:06](https://news.ycombinator.com/item?id=49144273) - [Has the New Cocaine Arrived?](https://playboy.substack.com/p/has-the-new-cocaine-finally-arrived)
 * [2026-08-02, 12:36:07](https://news.ycombinator.com/item?id=49143967) - [Twenty Years of RISC OS Open](https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open)
 * [2026-08-02, 12:31:16](https://news.ycombinator.com/item?id=49143925) - [F*: A general-purpose proof-oriented programming language](https://fstar-lang.org/)
+* [2026-08-02, 12:14:34](https://news.ycombinator.com/item?id=49143782) - [The simple elegance of the integrated timing belt loopback fastener](https://danielmangum.com/posts/integrated-timing-belt-loopback-fastener/)
 * [2026-08-02, 12:01:37](https://news.ycombinator.com/item?id=49143688) - [An internal OpenAI Astra model solved 10 major open math and CS problems](https://twitter.com/polynoamial/status/2083467194663571701)
 * [2026-08-02, 12:01:00](https://news.ycombinator.com/item?id=49143683) - [Great Question (YC W21) Is Hiring Senior Demand Gen Manager](https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager)
 * [2026-08-02, 11:53:52](https://news.ycombinator.com/item?id=49143630) - [Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers](https://website-auditor.io/ai-visibility-index)

@@ -31,6 +31,8 @@
 * [2026-08-05, 16:05:37](https://news.ycombinator.com/item?id=49184757) - [Google DeepMind CEO Demis Hassabis is stepping down](https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai)
 * [2026-08-05, 16:05:31](https://news.ycombinator.com/item?id=49184755) - [The next chapter of our AI momentum](https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/)
 * [2026-08-05, 16:04:33](https://news.ycombinator.com/item?id=49184746) - [Jeff Dean leaving Alphabet](https://www.nytimes.com/2026/08/05/technology/google-researchers-ai-startup.html)
+* [2026-08-05, 15:57:54](https://news.ycombinator.com/item?id=49184656) - [Tiny black holes may be exploding stars across the Milky Way](https://www.sciencedaily.com/releases/2026/07/260729051515.htm)
+* [2026-08-05, 15:33:23](https://news.ycombinator.com/item?id=49184355) - [NSF Inouye Solar Telescope Enables Major Discovery of a Hidden Solar Process](https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/)
 * [2026-08-05, 15:24:38](https://news.ycombinator.com/item?id=49184251) - [Fed's Kashkari says 'now is the time to start slowly moving' rates up](https://www.cnbc.com/2026/08/05/feds-kashkari-says-now-is-the-time-to-start-slowly-moving-rates-up.html)
 * [2026-08-05, 15:22:06](https://news.ycombinator.com/item?id=49184216) - [The Valley of Webhooks](https://weli.dev/blog/the-valley-of-webhooks/)
 * [2026-08-05, 15:20:11](https://news.ycombinator.com/item?id=49184190) - [Cops Used Flock to Track a Man Across State Lines for a Pretextual Weed Search](https://www.404media.co/cops-used-flock-to-track-a-man-across-state-lines-to-create-pretext-to-search-his-car-for-weed/)

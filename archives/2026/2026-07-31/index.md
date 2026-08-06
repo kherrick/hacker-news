@@ -95,6 +95,7 @@
 * [2026-07-31, 07:59:11](https://news.ycombinator.com/item?id=49120299) - [DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/deepseek-v4-flash-ga)
 * [2026-07-31, 07:59:11](https://news.ycombinator.com/item?id=49120299) - [DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/deepseek-v4-flash)
 * [2026-07-31, 07:50:48](https://news.ycombinator.com/item?id=49120230) - [Just because a game is on disc doesn't mean it will work in the future](https://arstechnica.com/gaming/2026/07/the-disc-is-not-the-game-physical-releases-increasingly-require-extra-downloads/)
+* [2026-07-31, 07:37:13](https://news.ycombinator.com/item?id=49120149) - [Learn how chips are made with this Rollercoaster Tycoon-inspired animation](https://laurentiugabriel.github.io/ChipTycoon/)
 * [2026-07-31, 07:33:10](https://news.ycombinator.com/item?id=49120120) - [Danube's record low levels force shutdown of Hungary's only nuclear plant](https://www.bbc.com/news/articles/cn0nqv05g0do)
 * [2026-07-31, 07:29:22](https://news.ycombinator.com/item?id=49120097) - [Google fixed more Chrome bugs in June than over the past two years, thanks to AI](https://blog.google/security/chrome-stronger-with-every-update/)
 * [2026-07-31, 07:16:01](https://news.ycombinator.com/item?id=49120000) - [Beltrunner: Game Design Postmortem](https://blog.gingerbeardman.com/2026/07/30/beltrunner-game-design-postmortem/)

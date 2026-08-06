@@ -13,6 +13,7 @@
 * [2026-07-30, 22:59:27](https://news.ycombinator.com/item?id=49116917) - [Holocloth](https://holocloth.vercel.app)
 * [2026-07-30, 22:33:11](https://news.ycombinator.com/item?id=49116721) - [I flagged two research papers for fake authors and both were accepted as orals](https://geospatialml.com/posts/reviewing-ai-slop/)
 * [2026-07-30, 21:47:31](https://news.ycombinator.com/item?id=49116272) - [Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free](https://rune.build/blog/rune-1-1-release)
+* [2026-07-30, 21:45:48](https://news.ycombinator.com/item?id=49116252) - [Building Progressively Enhanced Forms Using htmx](https://www.rafa.ee/articles/progressive-enhanced-forms-htmx/)
 * [2026-07-30, 21:31:03](https://news.ycombinator.com/item?id=49116074) - [Saber-toothed cats became inbred–and struggled to move–before they went extinct](https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct)
 * [2026-07-30, 21:18:39](https://news.ycombinator.com/item?id=49115935) - [Train Simulator Controller](https://z80.me/blog/tsc-2026-july/)
 * [2026-07-30, 20:53:41](https://news.ycombinator.com/item?id=49115620) - [I obtained Claude Opus 5 system prompt](https://claude.ai/share/98073770-0ad9-431f-a1e7-e0243db18758)
