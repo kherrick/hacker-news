@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-06, 11:27:08](https://news.ycombinator.com/item?id=49195244) - [How Americans View Capitalism, Socialism and Free Enterprise](https://news.gallup.com/poll/713144/americans-view-capitalism-socialism-free-enterprise.aspx)
 * [2026-08-06, 07:34:06](https://news.ycombinator.com/item?id=49193673) - [What I love about Django](https://buttondown.com/blog/what-i-love-about-django)
 * [2026-08-06, 06:43:38](https://news.ycombinator.com/item?id=49193314) - [Let's all meet up in the Y2K](https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/)
+* [2026-08-06, 06:24:42](https://news.ycombinator.com/item?id=49193173) - [On non-rooted Android 17, ADB uninstall of system apps fails](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/issues/1426)
 * [2026-08-06, 04:46:35](https://news.ycombinator.com/item?id=49192566) - [Crime Pays but Botany Doesn't](https://www.crimepaysbutbotanydoesnt.com/reading-list)
 * [2026-08-06, 02:15:14](https://news.ycombinator.com/item?id=49191624) - [Nashville uses eminent domain to block data center near zoo](https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project)
 * [2026-08-05, 21:29:23](https://news.ycombinator.com/item?id=49189287) - [The title cards in Blade Runner are amazing](https://randsinrepose.com/archives/blade-runner-title-cards/)
@@ -18,7 +20,6 @@
 * [2026-08-05, 16:47:15](https://news.ycombinator.com/item?id=49185389) - [Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod](https://www.hyperprobe.co)
 * [2026-08-05, 16:19:44](https://news.ycombinator.com/item?id=49184960) - [Discovery Loop](https://www.discoveryloop.com/)
 * [2026-08-05, 16:05:31](https://news.ycombinator.com/item?id=49184755) - [Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs](https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/)
-* [2026-08-05, 14:00:10](https://news.ycombinator.com/item?id=49183017) - [The Entropy of a Markov Chain](https://chillphysicsenjoyer.substack.com/p/the-entropy-of-a-markov-chain)
 * [2026-08-05, 13:58:53](https://news.ycombinator.com/item?id=49182996) - [Cloudflare OS: an open platform for agents, apps, and work](https://blog.cloudflare.com/cloudflare-os/)
 * [2026-08-05, 11:01:37](https://news.ycombinator.com/item?id=49181083) - [Position: LLMs Can't Jump](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt)
 * [2026-08-04, 13:24:03](https://news.ycombinator.com/item?id=49168622) - [How to Make a Nintendo 64 Game in 2026](https://phoboslab.org/log/2026/08/xibalba64-making-of)
@@ -26,10 +27,9 @@
 * [2026-08-03, 06:37:05](https://news.ycombinator.com/item?id=49151991) - [Branchless Rust: Making a Filter 4x Faster by Removing an If](https://www.greyblake.com/blog/branchless-rust/)
 * [2026-08-02, 16:57:32](https://news.ycombinator.com/item?id=49146183) - [GNU Hurd News 2026-Q2](https://www.gnu.org/software/hurd/news/2026-q2.html)
 * [2026-07-31, 23:14:08](https://news.ycombinator.com/item?id=49129551) - [Morioka Shoten](https://www.takram.com/projects/a-single-room-with-a-single-book-morioka-shoten)
-* [2026-07-31, 16:45:03](https://news.ycombinator.com/item?id=49125532) - [Exact, parallel 2D Delaunay triangulation for int32 coordinates](https://github.com/morishuz/delaunay32)
 * [2026-07-30, 20:09:43](https://news.ycombinator.com/item?id=49115096) - [Discovery of a multicomponent alloy forged by the Hiroshima atomic blast](https://www.science.org/doi/10.1126/sciadv.aeg8299)
 * [2026-07-30, 16:35:08](https://news.ycombinator.com/item?id=49112348) - [Quantego: A Family of Lego Models of IBM Quantum Computers](https://quantego.org/)
-* [2026-07-29, 07:19:20](https://news.ycombinator.com/item?id=49094358) - [The Cipher Behind Qsyrupwd: Reconstructing IBM i Password Hashes](https://blog.silentsignal.eu/2026/07/28/the-cipher-behind-qsyrupwd-reconstructing-ibm-i-password-hashes/)
+* [2026-07-29, 12:12:29](https://news.ycombinator.com/item?id=49096439) - [Pareto Front](https://en.wikipedia.org/wiki/Pareto_front)
 
 ## [Archives](archives/index.md)
 

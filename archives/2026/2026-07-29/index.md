@@ -79,6 +79,7 @@
 * [2026-07-29, 12:33:02](https://news.ycombinator.com/item?id=49096654) - [Darktable](https://www.darktable.org/)
 * [2026-07-29, 12:29:20](https://news.ycombinator.com/item?id=49096605) - [Software for One](https://www.ajwaxman.com/writing/software-for-one)
 * [2026-07-29, 12:19:30](https://news.ycombinator.com/item?id=49096493) - [Pulse Path – a browser puzzle where placement is the only decision](https://pulsepathgame.netlify.app/)
+* [2026-07-29, 12:12:29](https://news.ycombinator.com/item?id=49096439) - [Pareto Front](https://en.wikipedia.org/wiki/Pareto_front)
 * [2026-07-29, 12:11:18](https://news.ycombinator.com/item?id=49096427) - [Disrupting supply chain attacks on NPM and GitHub Actions](https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/)
 * [2026-07-29, 12:06:54](https://news.ycombinator.com/item?id=49096389) - [Deleting Codeberg](https://thanosapollo.org/posts/deleting-codeberg/)
 * [2026-07-29, 11:59:10](https://news.ycombinator.com/item?id=49096319) - [The First Transatlantic Telegraph Cable Was a Bold, Beautiful Failure](https://spectrum.ieee.org/the-first-transatlantic-telegraph-cable-was-a-bold-beautiful-failure)
