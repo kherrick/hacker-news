@@ -37,6 +37,7 @@
 * [2026-07-30, 17:04:53](https://news.ycombinator.com/item?id=49112744) - [Read This Before You Buy That TV Streaming Stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/)
 * [2026-07-30, 17:00:21](https://news.ycombinator.com/item?id=49112683) - [Rise Reforming (YC S26) Is Hiring](https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer)
 * [2026-07-30, 16:36:47](https://news.ycombinator.com/item?id=49112368) - [How Olinia Turns Mexico's EV Ambition into Reality](https://spectrum.ieee.org/mexico-olinia-car-electric-vehicle)
+* [2026-07-30, 16:35:08](https://news.ycombinator.com/item?id=49112348) - [Quantego: A Family of Lego Models of IBM Quantum Computers](https://quantego.org/)
 * [2026-07-30, 16:33:41](https://news.ycombinator.com/item?id=49112327) - [Toot.community Is Shutting Down](https://social.jorijn.com/@jorijn/statuses/01KYN00AP3NCZXCFB96KQB8GN2)
 * [2026-07-30, 16:26:16](https://news.ycombinator.com/item?id=49112232) - [Stacked PRs are now live on GitHub](https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/)
 * [2026-07-30, 16:09:39](https://news.ycombinator.com/item?id=49112023) - [Scaling NumPy on Free-Threaded Python](https://labs.quansight.org/blog/scaling-numpy-on-free-threaded-python)
