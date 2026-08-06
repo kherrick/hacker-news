@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-08-06, 03:40:51",
-      "https://news.ycombinator.com/item?id=49192160"
+      "2026-08-06, 04:46:35",
+      "https://news.ycombinator.com/item?id=49192566"
     ],
     [
-      "Governments are making a dangerous bet on the AI boom",
-      "https://www.economist.com/leaders/2026/08/05/governments-are-making-a-dangerous-bet-on-the-ai-boom"
+      "Crime Pays but Botany Doesn't",
+      "https://www.crimepaysbutbotanydoesnt.com/reading-list"
+    ]
+  ],
+  [
+    [
+      "2026-08-06, 04:02:28",
+      "https://news.ycombinator.com/item?id=49192277"
+    ],
+    [
+      "Ship Safe, an open source security scanner for coding agents",
+      "https://github.com/asamassekou10/ship-safe"
+    ]
+  ],
+  [
+    [
+      "2026-08-06, 03:52:56",
+      "https://news.ycombinator.com/item?id=49192219"
+    ],
+    [
+      "Show HN: Wallfacer – A terminal session manager for Claude Code, and more",
+      "https://github.com/pradipta/wallfacer"
     ]
   ],
   [
@@ -17,16 +37,6 @@
     [
       "Nashville uses eminent domain to block data center near zoo",
       "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project"
-    ]
-  ],
-  [
-    [
-      "2026-08-06, 01:39:06",
-      "https://news.ycombinator.com/item?id=49191365"
-    ],
-    [
-      "LLMs won't break symmetric crypto",
-      "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto"
     ]
   ],
   [
@@ -151,12 +161,12 @@
   ],
   [
     [
-      "2026-08-05, 16:28:59",
-      "https://news.ycombinator.com/item?id=49185111"
+      "2026-08-05, 16:47:15",
+      "https://news.ycombinator.com/item?id=49185389"
     ],
     [
-      "Something is changing in the unit economics of software",
-      "https://nicolo.xyz/something-is-changing-in-the-unit-economics-of-software/"
+      "Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod",
+      "https://www.hyperprobe.co"
     ]
   ],
   [
@@ -211,12 +221,22 @@
   ],
   [
     [
-      "2026-08-03, 21:39:02",
-      "https://news.ycombinator.com/item?id=49161799"
+      "2026-08-03, 18:32:25",
+      "https://news.ycombinator.com/item?id=49159680"
     ],
     [
-      "Do birds enjoy flying? Analysis of affect after flight in galah (E roseicapilla)",
-      "https://brill.com/view/journals/beh/aop/article-10.1163-1568539X-bja10370/article-10.1163-1568539X-bja10370.xml"
+      "Ryg_rans Is Not a Library",
+      "https://fgiesen.wordpress.com/2026/08/03/ryg_rans-is-not-a-library/"
+    ]
+  ],
+  [
+    [
+      "2026-08-03, 16:17:03",
+      "https://news.ycombinator.com/item?id=49157792"
+    ],
+    [
+      "Decimen Optical Transfer: fountain-coded QR file transfer",
+      "https://github.com/bashalarmistalt/decimen-optical-transfer"
     ]
   ],
   [
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2026-07-31, 16:07:55",
-      "https://news.ycombinator.com/item?id=49124917"
-    ],
-    [
-      "Online Friends Are Real Friends",
-      "https://toska.bearblog.dev/re-online-friends-are-real-friends/"
-    ]
-  ],
-  [
-    [
       "2026-07-30, 20:09:43",
       "https://news.ycombinator.com/item?id=49115096"
     ],
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2026-07-30, 06:45:32",
-      "https://news.ycombinator.com/item?id=49106756"
+      "2026-07-30, 16:35:08",
+      "https://news.ycombinator.com/item?id=49112348"
     ],
     [
-      "The Origins of Vintage Comics Part 1",
-      "https://www.truegrittexturesupply.com/blogs/news/origins-of-the-vintage-comics-aesthetic-part-1"
-    ]
-  ],
-  [
-    [
-      "2026-07-29, 16:48:56",
-      "https://news.ycombinator.com/item?id=49099904"
-    ],
-    [
-      "Pushing the limits of RISC-V emulation",
-      "https://shuklaayu.sh/blog/riscv-recompiler"
+      "Quantego: A Family of Lego Models of IBM Quantum Computers",
+      "https://quantego.org/"
     ]
   ]
 ]
