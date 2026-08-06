@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-08-06, 03:40:51",
+      "https://news.ycombinator.com/item?id=49192160"
+    ],
+    [
+      "Governments are making a dangerous bet on the AI boom",
+      "https://www.economist.com/leaders/2026/08/05/governments-are-making-a-dangerous-bet-on-the-ai-boom"
+    ]
+  ],
+  [
+    [
+      "2026-08-06, 02:15:14",
+      "https://news.ycombinator.com/item?id=49191624"
+    ],
+    [
+      "Nashville uses eminent domain to block data center near zoo",
+      "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project"
+    ]
+  ],
+  [
+    [
+      "2026-08-06, 01:39:06",
+      "https://news.ycombinator.com/item?id=49191365"
+    ],
+    [
+      "LLMs won't break symmetric crypto",
+      "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto"
+    ]
+  ],
+  [
+    [
       "2026-08-05, 21:29:23",
       "https://news.ycombinator.com/item?id=49189287"
     ],
@@ -61,32 +91,12 @@
   ],
   [
     [
-      "2026-08-05, 18:52:58",
-      "https://news.ycombinator.com/item?id=49187259"
-    ],
-    [
-      "Sula: A Gemini protocol server written in Scryer Prolog",
-      "https://sagredo.dev/projects/sula/"
-    ]
-  ],
-  [
-    [
       "2026-08-05, 18:52:54",
       "https://news.ycombinator.com/item?id=49187256"
     ],
     [
       "Zed DeltaDB",
       "https://zed.dev/deltadb"
-    ]
-  ],
-  [
-    [
-      "2026-08-05, 18:39:31",
-      "https://news.ycombinator.com/item?id=49187084"
-    ],
-    [
-      "What happens if you put work into the second dimension?",
-      "https://norbertkozsir.com/posts/work-in-the-second-dimension/"
     ]
   ],
   [
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2026-08-05, 16:47:15",
-      "https://news.ycombinator.com/item?id=49185389"
-    ],
-    [
-      "Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod",
-      "https://www.hyperprobe.co"
-    ]
-  ],
-  [
-    [
       "2026-08-05, 16:28:59",
       "https://news.ycombinator.com/item?id=49185111"
     ],
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2026-08-05, 15:22:06",
-      "https://news.ycombinator.com/item?id=49184216"
-    ],
-    [
-      "The Valley of Webhooks",
-      "https://weli.dev/blog/the-valley-of-webhooks/"
-    ]
-  ],
-  [
-    [
       "2026-08-05, 14:00:10",
       "https://news.ycombinator.com/item?id=49183017"
     ],
@@ -211,22 +201,32 @@
   ],
   [
     [
-      "2026-08-05, 13:54:12",
-      "https://news.ycombinator.com/item?id=49182946"
-    ],
-    [
-      "Building an Advanced Agentic Harness",
-      "https://data4sci.com/blog/building-an-advanced-agentic-harness"
-    ]
-  ],
-  [
-    [
       "2026-08-05, 11:01:37",
       "https://news.ycombinator.com/item?id=49181083"
     ],
     [
       "Position: LLMs Can't Jump",
       "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt"
+    ]
+  ],
+  [
+    [
+      "2026-08-03, 21:39:02",
+      "https://news.ycombinator.com/item?id=49161799"
+    ],
+    [
+      "Do birds enjoy flying? Analysis of affect after flight in galah (E roseicapilla)",
+      "https://brill.com/view/journals/beh/aop/article-10.1163-1568539X-bja10370/article-10.1163-1568539X-bja10370.xml"
+    ]
+  ],
+  [
+    [
+      "2026-08-03, 06:37:05",
+      "https://news.ycombinator.com/item?id=49151991"
+    ],
+    [
+      "Branchless Rust: Making a Filter 4x Faster by Removing an If",
+      "https://www.greyblake.com/blog/branchless-rust/"
     ]
   ],
   [
