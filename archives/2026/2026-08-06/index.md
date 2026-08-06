@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-06](index.md)
 
+* [2026-08-06, 07:34:06](https://news.ycombinator.com/item?id=49193673) - [What I love about Django](https://buttondown.com/blog/what-i-love-about-django)
+* [2026-08-06, 06:43:38](https://news.ycombinator.com/item?id=49193314) - [Let's all meet up in the Y2K](https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/)
 * [2026-08-06, 04:46:35](https://news.ycombinator.com/item?id=49192566) - [Crime Pays but Botany Doesn't](https://www.crimepaysbutbotanydoesnt.com/reading-list)
 * [2026-08-06, 04:02:28](https://news.ycombinator.com/item?id=49192277) - [Ship Safe, an open source security scanner for coding agents](https://github.com/asamassekou10/ship-safe)
 * [2026-08-06, 03:52:56](https://news.ycombinator.com/item?id=49192219) - [Show HN: Wallfacer – A terminal session manager for Claude Code, and more](https://github.com/pradipta/wallfacer)

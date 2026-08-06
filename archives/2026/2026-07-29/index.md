@@ -94,6 +94,7 @@
 * [2026-07-29, 10:02:50](https://news.ycombinator.com/item?id=49095386) - [That time when I failed the Microsoft interview](https://ochagavia.nl/blog/that-time-when-i-failed-the-microsoft-interview/)
 * [2026-07-29, 09:59:09](https://news.ycombinator.com/item?id=49095361) - [The only road in London where you have to drive on the right](https://www.mylondon.news/news/transport/only-road-london-you-drive-30499294)
 * [2026-07-29, 09:26:52](https://news.ycombinator.com/item?id=49095143) - [Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels](https://vimgolf.ai)
+* [2026-07-29, 07:19:20](https://news.ycombinator.com/item?id=49094358) - [The Cipher Behind Qsyrupwd: Reconstructing IBM i Password Hashes](https://blog.silentsignal.eu/2026/07/28/the-cipher-behind-qsyrupwd-reconstructing-ibm-i-password-hashes/)
 * [2026-07-29, 07:18:24](https://news.ycombinator.com/item?id=49094346) - [SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers](https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers)
 * [2026-07-29, 06:54:23](https://news.ycombinator.com/item?id=49094200) - [Britain's New World of Tobacco (2017)](https://www.historytoday.com/archive/feature/britains-new-world-tobacco)
 * [2026-07-29, 06:47:22](https://news.ycombinator.com/item?id=49094151) - [Fasttracker II clone in C using SDL 2](https://16-bits.org/ft2.php)
