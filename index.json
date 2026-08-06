@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2026-08-05, 21:15:40",
+      "https://news.ycombinator.com/item?id=49189113"
+    ],
+    [
+      "I'll be stepping back from leading product for X",
+      "https://twitter.com/nikitabier/status/2085105586966827343/"
+    ]
+  ],
+  [
+    [
       "2026-08-05, 21:11:57",
       "https://news.ycombinator.com/item?id=49189075"
     ],
@@ -37,16 +47,6 @@
     [
       "I'm switching my phone from Android to Linux",
       "https://runarcn.no/android-to-linux/"
-    ]
-  ],
-  [
-    [
-      "2026-08-05, 19:47:26",
-      "https://news.ycombinator.com/item?id=49187977"
-    ],
-    [
-      "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
-      "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/"
     ]
   ],
   [
@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2026-08-05, 18:37:49",
+      "https://news.ycombinator.com/item?id=49187061"
+    ],
+    [
+      "Born Against, or why hobby programming communities are against LLM usage",
+      "https://blog.fogus.me/llm/born-against.html"
+    ]
+  ],
+  [
+    [
       "2026-08-05, 18:18:56",
       "https://news.ycombinator.com/item?id=49186762"
     ],
@@ -101,22 +111,22 @@
   ],
   [
     [
+      "2026-08-05, 18:17:03",
+      "https://news.ycombinator.com/item?id=49186720"
+    ],
+    [
+      "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
+      "https://arxiv.org/abs/2510.01395"
+    ]
+  ],
+  [
+    [
       "2026-08-05, 17:23:25",
       "https://news.ycombinator.com/item?id=49185983"
     ],
     [
       "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
       "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data"
-    ]
-  ],
-  [
-    [
-      "2026-08-05, 17:20:25",
-      "https://news.ycombinator.com/item?id=49185931"
-    ],
-    [
-      "Phishers are hijacking legitimate cloud infrastructure",
-      "https://securelist.com/cloud-platforms-in-phishing/120832/"
     ]
   ],
   [
@@ -141,12 +151,12 @@
   ],
   [
     [
-      "2026-08-05, 16:35:30",
-      "https://news.ycombinator.com/item?id=49185215"
+      "2026-08-05, 16:28:59",
+      "https://news.ycombinator.com/item?id=49185111"
     ],
     [
-      "Stop sending me your errors",
-      "https://kramkow.ski/article/2026/08/05/stop_sending_me_your_errors.html"
+      "Something is changing in the unit economics of software",
+      "https://nicolo.xyz/something-is-changing-in-the-unit-economics-of-software/"
     ]
   ],
   [
@@ -181,26 +191,6 @@
   ],
   [
     [
-      "2026-08-05, 14:06:39",
-      "https://news.ycombinator.com/item?id=49183115"
-    ],
-    [
-      "Aristotle quotes on virtue, knowledge, and happiness",
-      "https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/"
-    ]
-  ],
-  [
-    [
-      "2026-08-05, 14:04:10",
-      "https://news.ycombinator.com/item?id=49183079"
-    ],
-    [
-      "Rubin Observatory's first LSST Camera release: 500k galaxies in the COSMOS field",
-      "https://rubinobservatory.org/news/rubin-new-window-cosmos-field"
-    ]
-  ],
-  [
-    [
       "2026-08-05, 14:00:10",
       "https://news.ycombinator.com/item?id=49183017"
     ],
@@ -227,16 +217,6 @@
     [
       "Building an Advanced Agentic Harness",
       "https://data4sci.com/blog/building-an-advanced-agentic-harness"
-    ]
-  ],
-  [
-    [
-      "2026-08-05, 13:34:32",
-      "https://news.ycombinator.com/item?id=49182695"
-    ],
-    [
-      "Painting with Gaussians",
-      "https://yogthos.net/posts/2026-08-03-splat-painter.html"
     ]
   ],
   [
@@ -297,6 +277,26 @@
     [
       "Discovery of a multicomponent alloy forged by the Hiroshima atomic blast",
       "https://www.science.org/doi/10.1126/sciadv.aeg8299"
+    ]
+  ],
+  [
+    [
+      "2026-07-30, 06:45:32",
+      "https://news.ycombinator.com/item?id=49106756"
+    ],
+    [
+      "The Origins of Vintage Comics Part 1",
+      "https://www.truegrittexturesupply.com/blogs/news/origins-of-the-vintage-comics-aesthetic-part-1"
+    ]
+  ],
+  [
+    [
+      "2026-07-29, 16:48:56",
+      "https://news.ycombinator.com/item?id=49099904"
+    ],
+    [
+      "Pushing the limits of RISC-V emulation",
+      "https://shuklaayu.sh/blog/riscv-recompiler"
     ]
   ]
 ]
