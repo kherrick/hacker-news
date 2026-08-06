@@ -1,32 +1,32 @@
 [
   [
     [
+      "2026-08-06, 07:34:06",
+      "https://news.ycombinator.com/item?id=49193673"
+    ],
+    [
+      "What I love about Django",
+      "https://buttondown.com/blog/what-i-love-about-django"
+    ]
+  ],
+  [
+    [
+      "2026-08-06, 06:43:38",
+      "https://news.ycombinator.com/item?id=49193314"
+    ],
+    [
+      "Let's all meet up in the Y2K",
+      "https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/"
+    ]
+  ],
+  [
+    [
       "2026-08-06, 04:46:35",
       "https://news.ycombinator.com/item?id=49192566"
     ],
     [
       "Crime Pays but Botany Doesn't",
       "https://www.crimepaysbutbotanydoesnt.com/reading-list"
-    ]
-  ],
-  [
-    [
-      "2026-08-06, 04:02:28",
-      "https://news.ycombinator.com/item?id=49192277"
-    ],
-    [
-      "Ship Safe, an open source security scanner for coding agents",
-      "https://github.com/asamassekou10/ship-safe"
-    ]
-  ],
-  [
-    [
-      "2026-08-06, 03:52:56",
-      "https://news.ycombinator.com/item?id=49192219"
-    ],
-    [
-      "Show HN: Wallfacer – A terminal session manager for Claude Code, and more",
-      "https://github.com/pradipta/wallfacer"
     ]
   ],
   [
@@ -57,16 +57,6 @@
     [
       "NVIDIA’s Vera Whitepaper Has a Thread Loose",
       "https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread"
-    ]
-  ],
-  [
-    [
-      "2026-08-05, 21:15:40",
-      "https://news.ycombinator.com/item?id=49189113"
-    ],
-    [
-      "I'll be stepping back from leading product for X",
-      "https://twitter.com/nikitabier/status/2085105586966827343/"
     ]
   ],
   [
@@ -221,12 +211,12 @@
   ],
   [
     [
-      "2026-08-03, 18:32:25",
-      "https://news.ycombinator.com/item?id=49159680"
+      "2026-08-04, 13:24:03",
+      "https://news.ycombinator.com/item?id=49168622"
     ],
     [
-      "Ryg_rans Is Not a Library",
-      "https://fgiesen.wordpress.com/2026/08/03/ryg_rans-is-not-a-library/"
+      "How to Make a Nintendo 64 Game in 2026",
+      "https://phoboslab.org/log/2026/08/xibalba64-making-of"
     ]
   ],
   [
@@ -261,12 +251,12 @@
   ],
   [
     [
-      "2026-07-31, 18:14:48",
-      "https://news.ycombinator.com/item?id=49126716"
+      "2026-07-31, 23:14:08",
+      "https://news.ycombinator.com/item?id=49129551"
     ],
     [
-      "Goodhart's Law Comes for Every Benchmark You Trust",
-      "https://cacm.acm.org/blogcacm/goodharts-law-comes-for-every-benchmark-you-trust/"
+      "Morioka Shoten",
+      "https://www.takram.com/projects/a-single-room-with-a-single-book-morioka-shoten"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Quantego: A Family of Lego Models of IBM Quantum Computers",
       "https://quantego.org/"
+    ]
+  ],
+  [
+    [
+      "2026-07-29, 07:19:20",
+      "https://news.ycombinator.com/item?id=49094358"
+    ],
+    [
+      "The Cipher Behind Qsyrupwd: Reconstructing IBM i Password Hashes",
+      "https://blog.silentsignal.eu/2026/07/28/the-cipher-behind-qsyrupwd-reconstructing-ibm-i-password-hashes/"
     ]
   ]
 ]
