@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-08-07](index.md)
 
+* [2026-08-07, 16:44:28](https://news.ycombinator.com/item?id=49213097) - [Tax cuts for the wealthy only benefit the rich (2023)](https://www.lse.ac.uk/research/research-for-the-world/economics/tax-cuts-for-the-wealthy-only-benefit-the-rich-debunking-trickle-down-economics)
+* [2026-08-07, 16:39:36](https://news.ycombinator.com/item?id=49213029) - [Responding to the next frontier of critical cyber capabilities](https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/)
+* [2026-08-07, 16:32:16](https://news.ycombinator.com/item?id=49212928) - [The AI Billboards Are Killing SF](https://sfstandard.com/pacific-standard-time/2026/08/07/sf-ai-billboards-dystopian-not-funny/)
+* [2026-08-07, 15:24:53](https://news.ycombinator.com/item?id=49211921) - [An all-sky map of half a million supermassive black holes](https://www.sdss.org/black-hole-mapper-release-20/)
+* [2026-08-07, 15:10:34](https://news.ycombinator.com/item?id=49211660) - [Möbius-Strip Crosswords](https://quuxplusone.github.io/blog/2026/08/04/mobius-crossword/)
 * [2026-08-07, 14:55:08](https://news.ycombinator.com/item?id=49211438) - [Iceberg Collapses and Flips over in Ilulissat, Greenland (July 25, 2026) [video]](https://www.youtube.com/watch?v=UufMqwyO7pY)
 * [2026-08-07, 14:55:08](https://news.ycombinator.com/item?id=49211437) - [Software is about people, not code](https://letterstoanewdeveloper.com/2020/01/27/software-is-about-people-not-code/)
 * [2026-08-07, 14:51:57](https://news.ycombinator.com/item?id=49211386) - [99% of My Website Traffic Is Bots](https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/)
