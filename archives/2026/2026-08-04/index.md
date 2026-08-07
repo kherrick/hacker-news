@@ -84,4 +84,5 @@
 * [2026-08-04, 07:01:26](https://news.ycombinator.com/item?id=49165170) - [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/oEAfzBS-ai-agent-engineer)
 * [2026-08-04, 06:17:54](https://news.ycombinator.com/item?id=49164896) - [Harness Engineering for Self-Improvement](https://lilianweng.github.io/posts/2026-07-04-harness/)
 * [2026-08-04, 05:32:13](https://news.ycombinator.com/item?id=49164649) - [Apple is getting this wrong](https://openai.com/index/apple-is-getting-this-wrong/)
+* [2026-08-04, 02:50:07](https://news.ycombinator.com/item?id=49163879) - [Why Estonians invite strangers into their back gardens each summer](https://www.bbc.com/travel/article/20260731-why-estonians-invite-strangers-into-their-backyards-each-summer)
 * [2026-08-04, 01:22:35](https://news.ycombinator.com/item?id=49163380) - [The Myth, the Mythos, and the Man](https://om.co/2026/06/07/the-myth-the-mythos-and-the-man/)

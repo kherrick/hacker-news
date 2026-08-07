@@ -32,6 +32,7 @@
 * [2026-07-30, 18:08:48](https://news.ycombinator.com/item?id=49113543) - [Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents](https://github.com/yashmahajan10/llm-differential-privacy-gateway)
 * [2026-07-30, 18:07:39](https://news.ycombinator.com/item?id=49113523) - [Birduino: A card-triggered audio player for [learning] the birds](https://hannahilea.com/blog/birduino/)
 * [2026-07-30, 17:52:51](https://news.ycombinator.com/item?id=49113338) - [CodePen 2.0](https://chriscoyier.net/2026/07/30/codepen-2-0/)
+* [2026-07-30, 17:46:32](https://news.ycombinator.com/item?id=49113256) - [STV: A full-motion video codec for the Atari ST](https://medium.com/@jonas.eschenburg/stv-a-video-codec-for-the-atari-st-6e46355c50e4)
 * [2026-07-30, 17:31:07](https://news.ycombinator.com/item?id=49113059) - [We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447](https://www.bottlenecklabs.com/blog/autonomously-run-businesses)
 * [2026-07-30, 17:26:33](https://news.ycombinator.com/item?id=49113005) - [A tool for finding the causes of unstable Python tests](https://github.com/mgaitan/pytest-leak-finder)
 * [2026-07-30, 17:15:51](https://news.ycombinator.com/item?id=49112867) - [Advancing the price-performance frontier with GPT‑5.6](https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/)
