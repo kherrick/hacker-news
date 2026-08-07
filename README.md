@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-08-07, 07:58:24](https://news.ycombinator.com/item?id=49207236) - [2027 memory capacity is reportedly sold out](https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out)
+* [2026-08-07, 10:28:55](https://news.ycombinator.com/item?id=49208314) - [US strikes $1.2B deal to pay German firm to halt offshore wind projects](https://www.bbc.com/news/articles/c1e1vg0gjl5o)
 * [2026-08-07, 05:17:57](https://news.ycombinator.com/item?id=49206130) - [Framework discloses data breach via Metabase 0-day](https://community.frame.work/t/framework-data-breach-discussion/83939)
 * [2026-08-07, 00:37:30](https://news.ycombinator.com/item?id=49204546) - [New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software](https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/)
 * [2026-08-07, 00:06:28](https://news.ycombinator.com/item?id=49204352) - [New Mexico court orders Meta to pay $567m over harms to children’s mental health](https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta)
@@ -21,8 +21,8 @@
 * [2026-08-06, 11:24:53](https://news.ycombinator.com/item?id=49195231) - [Mario Meets Pareto](https://www.mayerowitz.io/blog/mario-meets-pareto)
 * [2026-08-05, 15:33:23](https://news.ycombinator.com/item?id=49184355) - [Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun](https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/)
 * [2026-08-04, 02:50:07](https://news.ycombinator.com/item?id=49163879) - [Why Estonians invite strangers into their back gardens each summer](https://www.bbc.com/travel/article/20260731-why-estonians-invite-strangers-into-their-backyards-each-summer)
+* [2026-08-03, 22:29:22](https://news.ycombinator.com/item?id=49162299) - [Interviewing Engineers in the AI Era: Lessons from a Year of Rebuilding](https://www.coinbase.com/blog/interviewing-engineers-in-the-ai-era-lessons-from-a-year-of-rebuilding)
 * [2026-08-03, 22:04:18](https://news.ycombinator.com/item?id=49162080) - [Reverse Jevons Paradox](https://mht.wtf/post/jevons/)
-* [2026-08-03, 18:04:56](https://news.ycombinator.com/item?id=49159346) - [Show HN: A free mini game that makes you a smarter fly fisherperson](https://read-the-water.netlify.app/)
 * [2026-08-03, 14:20:45](https://news.ycombinator.com/item?id=49156157) - [A quine in Piet – a GIF image that prints itself [video]](https://www.youtube.com/watch?v=GwMtzhjCzyc)
 * [2026-08-03, 07:12:57](https://news.ycombinator.com/item?id=49152255) - [I stopped trusting USB-C cable labels and started testing them](https://www.makeuseof.com/i-stopped-trusting-usb-c-cable-labels-started-testing-with-meter-instead/)
 * [2026-08-01, 21:02:26](https://news.ycombinator.com/item?id=49138446) - [São Paulo resident transforms degraded area into urban forest](https://saopaulosecreto.com/en/tiquatira-linear-park-en/)

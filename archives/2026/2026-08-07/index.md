@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-07](index.md)
 
+* [2026-08-07, 10:28:55](https://news.ycombinator.com/item?id=49208314) - [US strikes $1.2B deal to pay German firm to halt offshore wind projects](https://www.bbc.com/news/articles/c1e1vg0gjl5o)
 * [2026-08-07, 07:58:24](https://news.ycombinator.com/item?id=49207236) - [2027 memory capacity is reportedly sold out](https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out)
 * [2026-08-07, 06:31:15](https://news.ycombinator.com/item?id=49206642) - [Artificial Intelligence used to design new viruses](https://www.bbc.co.uk/news/articles/c5y3j3ngevmo)
 * [2026-08-07, 05:17:57](https://news.ycombinator.com/item?id=49206130) - [Framework discloses data breach via Metabase 0-day](https://community.frame.work/t/framework-data-breach-discussion/83939)
