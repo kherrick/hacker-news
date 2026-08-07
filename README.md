@@ -27,9 +27,9 @@
 * [2026-08-03, 16:15:44](https://news.ycombinator.com/item?id=49157770) - [Guarded Methods in OCaml](https://xvw.lol/en/articles/oop-refl.html)
 * [2026-08-02, 19:56:43](https://news.ycombinator.com/item?id=49147721) - [Energizing a vacuum-tube flip-flop module from a 1948 IBM system](https://www.righto.com/2026/07/ibm-604-trigger-tube-module.html)
 * [2026-08-02, 14:58:08](https://news.ycombinator.com/item?id=49145259) - [Thoroughly Understanding C++ ABI (2024)](https://ykiko.me/en/articles/692886292/)
+* [2026-08-02, 05:53:50](https://news.ycombinator.com/item?id=49141521) - [Why are all the amounts values negative?](https://bankstatementconverter.com/blog/posts/2026-08-02-why-are-all-amounts-negative/)
 * [2026-08-01, 21:02:26](https://news.ycombinator.com/item?id=49138446) - [São Paulo resident transforms degraded area into urban forest](https://saopaulosecreto.com/en/tiquatira-linear-park-en/)
 * [2026-08-01, 15:51:15](https://news.ycombinator.com/item?id=49135457) - [Carl's Required Reading](https://carlkolon.com/reading/)
-* [2026-07-29, 06:54:23](https://news.ycombinator.com/item?id=49094200) - [Britain's New World of Tobacco (2017)](https://www.historytoday.com/archive/feature/britains-new-world-tobacco)
 
 ## [Archives](archives/index.md)
 

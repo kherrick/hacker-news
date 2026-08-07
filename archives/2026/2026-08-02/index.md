@@ -80,6 +80,7 @@
 * [2026-08-02, 06:59:36](https://news.ycombinator.com/item?id=49141849) - [Agent4Lease](https://agent4lease.com/)
 * [2026-08-02, 06:59:28](https://news.ycombinator.com/item?id=49141847) - [CRM: An open-source, agentic-first CRM](https://github.com/trycompai/crm)
 * [2026-08-02, 06:56:38](https://news.ycombinator.com/item?id=49141828) - [ESP32-C3 SuperMini antenna modification](https://peterneufeld.wordpress.com/2025/03/04/esp32-c3-supermini-antenna-modification/)
+* [2026-08-02, 05:53:50](https://news.ycombinator.com/item?id=49141521) - [Why are all the amounts values negative?](https://bankstatementconverter.com/blog/posts/2026-08-02-why-are-all-amounts-negative/)
 * [2026-08-02, 04:21:14](https://news.ycombinator.com/item?id=49141073) - [Running Kimi K3 on MI355X at Better Performance per Dollar Than B300](https://www.wafer.ai/blog/kimi-k3-mi355x)
 * [2026-08-02, 04:07:46](https://news.ycombinator.com/item?id=49141008) - [Don't credit the LLM](https://isaacsu.com/2026/08/dont-credit-the-llm/)
 * [2026-08-02, 04:05:56](https://news.ycombinator.com/item?id=49140998) - [Karpathy’s Pelican](https://twitter.com/karpathy/status/2083749667410727319)
