@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-08-07, 03:25:37](https://news.ycombinator.com/item?id=49205595) - [Lines of code. 1,596 BTC gone](https://onekey.so/anzen/coldcard-entropy-failure/)
+* [2026-08-07, 05:15:27](https://news.ycombinator.com/item?id=49206115) - [Anthropic CEO reportedly worried new hires only care about money](https://finance.yahoo.com/technology/ai/articles/anthropic-ceo-reportedly-worried-hires-160000647.html)
 * [2026-08-07, 00:06:28](https://news.ycombinator.com/item?id=49204352) - [Meta Ordered to Pay $942M to Address Harm to Kids from Social Media](https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7)
 * [2026-08-06, 23:30:03](https://news.ycombinator.com/item?id=49204060) - [Hackers Stalked Me by Hijacking a Smartwatch for Kids](https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/)
 * [2026-08-06, 21:52:16](https://news.ycombinator.com/item?id=49203105) - [Welcoming the Nepalese Government to Have I Been Pwned](https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/)
@@ -25,7 +25,7 @@
 * [2026-08-03, 07:12:57](https://news.ycombinator.com/item?id=49152255) - [I stopped trusting USB-C cable labels and started testing them](https://www.makeuseof.com/i-stopped-trusting-usb-c-cable-labels-started-testing-with-meter-instead/)
 * [2026-08-02, 12:14:34](https://news.ycombinator.com/item?id=49143782) - [The simple elegance of the integrated timing belt loopback fastener](https://danielmangum.com/posts/integrated-timing-belt-loopback-fastener/)
 * [2026-08-01, 21:02:26](https://news.ycombinator.com/item?id=49138446) - [Retired man plants trees on forgotten land, now it's Sao Paulo's largest park](https://timesofindia.indiatimes.com/world/rest-of-world/in-2003-a-retired-man-planted-trees-on-forgotten-land-alone-20-years-later-it-had-become-one-of-sao-paulos-largest-urban-forests/articleshow/132761848.cms)
-* [2026-07-31, 21:06:28](https://news.ycombinator.com/item?id=49128523) - [Shades of Meaning (2018)](https://mag.uchicago.edu/arts-humanities/shades-meaning)
+* [2026-07-31, 21:58:03](https://news.ycombinator.com/item?id=49129015) - [Atomic Clocks](https://www.nist.gov/atomic-clocks/how-do-atomic-clocks-work)
 * [2026-07-31, 14:00:34](https://news.ycombinator.com/item?id=49123247) - [The Sylvester–Gallai Theorem](https://www.futilitycloset.com/2026/07/26/the-sylvester-gallai-theorem/)
 * [2026-07-31, 07:37:13](https://news.ycombinator.com/item?id=49120149) - [Learn how chips are made with this Rollercoaster Tycoon-inspired animation](https://laurentiugabriel.github.io/ChipTycoon/)
 * [2026-07-30, 17:46:32](https://news.ycombinator.com/item?id=49113256) - [STV: A full-motion video codec for the Atari ST](https://medium.com/@jonas.eschenburg/stv-a-video-codec-for-the-atari-st-6e46355c50e4)

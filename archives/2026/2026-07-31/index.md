@@ -8,6 +8,7 @@
 * [2026-07-31, 23:31:28](https://news.ycombinator.com/item?id=49129676) - [Read the Novels and Forget Everything Else](https://hedgehogreview.com/web-features/thr/posts/read-the-novels-and-forget-everything-else)
 * [2026-07-31, 23:14:08](https://news.ycombinator.com/item?id=49129551) - [Morioka Shoten](https://www.takram.com/projects/a-single-room-with-a-single-book-morioka-shoten)
 * [2026-07-31, 23:13:03](https://news.ycombinator.com/item?id=49129545) - [Why etymologies matter: How tracing words can illuminate history (2024)](https://resobscura.substack.com/p/why-i-love-etymologies)
+* [2026-07-31, 21:58:03](https://news.ycombinator.com/item?id=49129015) - [Atomic Clocks](https://www.nist.gov/atomic-clocks/how-do-atomic-clocks-work)
 * [2026-07-31, 21:57:03](https://news.ycombinator.com/item?id=49129008) - [Unearthing my 1996 windowed OS in machine code for Am29000 homebrew computer](https://nanochess.org/the_am29000_computer.html)
 * [2026-07-31, 21:39:52](https://news.ycombinator.com/item?id=49128826) - [Show HN: I worked on a new browser for 2 years, today it passed Acid 3](https://code.intellios.ai/cwbrowser/)
 * [2026-07-31, 21:08:05](https://news.ycombinator.com/item?id=49128539) - [Apple Will 'Watch Everything Burn' When AI Bubble Bursts](https://asymco.com/2026/07/31/apple-will-watch-everything-burn-when-ai-bubble-bursts/)
