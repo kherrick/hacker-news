@@ -38,6 +38,7 @@
 * [2026-07-30, 17:15:51](https://news.ycombinator.com/item?id=49112867) - [Advancing the price-performance frontier with GPT‑5.6](https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/)
 * [2026-07-30, 17:04:53](https://news.ycombinator.com/item?id=49112744) - [Read This Before You Buy That TV Streaming Stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/)
 * [2026-07-30, 17:00:21](https://news.ycombinator.com/item?id=49112683) - [Rise Reforming (YC S26) Is Hiring](https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer)
+* [2026-07-30, 16:46:59](https://news.ycombinator.com/item?id=49112511) - [TypeStax: A type scale generator with vintage audio hardware interface](https://www.typestax.com/)
 * [2026-07-30, 16:36:47](https://news.ycombinator.com/item?id=49112368) - [How Olinia Turns Mexico's EV Ambition into Reality](https://spectrum.ieee.org/mexico-olinia-car-electric-vehicle)
 * [2026-07-30, 16:35:08](https://news.ycombinator.com/item?id=49112348) - [Quantego: A Family of Lego Models of IBM Quantum Computers](https://quantego.org/)
 * [2026-07-30, 16:33:41](https://news.ycombinator.com/item?id=49112327) - [Toot.community Is Shutting Down](https://social.jorijn.com/@jorijn/statuses/01KYN00AP3NCZXCFB96KQB8GN2)
