@@ -7,6 +7,7 @@
 * [2026-08-03, 23:44:19](https://news.ycombinator.com/item?id=49162787) - [Why did we wait so long for the bicycle? (2019)](https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle)
 * [2026-08-03, 23:24:53](https://news.ycombinator.com/item?id=49162653) - [There Will Come Soft Rains (1950) [pdf]](https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf)
 * [2026-08-03, 22:04:49](https://news.ycombinator.com/item?id=49162086) - [Windows XP 2002 for the Itanium: Unbridled rage](https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/)
+* [2026-08-03, 22:04:18](https://news.ycombinator.com/item?id=49162080) - [Reverse Jevons Paradox](https://mht.wtf/post/jevons/)
 * [2026-08-03, 21:39:27](https://news.ycombinator.com/item?id=49161803) - [Learning to fly FPV drones with AI flight coach](https://blog.divyendusingh.com/p/learning-to-fly-fpv-drones-with-ai)
 * [2026-08-03, 21:39:12](https://news.ycombinator.com/item?id=49161801) - [ZX Spectrum System Tour: Text Mode – Bumbershoot Software](https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/)
 * [2026-08-03, 21:39:02](https://news.ycombinator.com/item?id=49161799) - [Do birds enjoy flying? Analysis of affect after flight in galah (E roseicapilla)](https://brill.com/view/journals/beh/aop/article-10.1163-1568539X-bja10370/article-10.1163-1568539X-bja10370.xml)

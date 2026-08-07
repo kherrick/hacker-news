@@ -9,6 +9,7 @@
 * [2026-08-06, 21:49:07](https://news.ycombinator.com/item?id=49203059) - [Show HN: Pokémon Emerald Ported to Raspberry Pi Pico 2](https://github.com/mattdeeds/pokeemerald-rp2350)
 * [2026-08-06, 21:30:21](https://news.ycombinator.com/item?id=49202852) - [Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)](https://www.aleksagordic.com/blog/vllm)
 * [2026-08-06, 21:18:32](https://news.ycombinator.com/item?id=49202716) - [Bioengineered chewing gum may offer a way to fight microbes linked to cancers](https://www.sciencedaily.com/releases/2026/08/260803080917.htm)
+* [2026-08-06, 21:16:52](https://news.ycombinator.com/item?id=49202690) - [What Is a Product?](https://roge.onwrite.app/what-is-a-product)
 * [2026-08-06, 20:48:14](https://news.ycombinator.com/item?id=49202321) - [Civilians under siege by Mexican cartel fight back with AK-47s, grenades](https://www.pbs.org/newshour/world/civilians-that-were-under-siege-by-a-mexican-cartel-fight-back-with-ak-47s-and-grenades)
 * [2026-08-06, 20:23:11](https://news.ycombinator.com/item?id=49201970) - [AMD acquires Taalas to boost inference performance by etching models in silicon](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344)
 * [2026-08-06, 20:21:19](https://news.ycombinator.com/item?id=49201930) - [Quake – 30th Anniversary Update](https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update)
