@@ -107,6 +107,7 @@
 * [2026-07-29, 03:52:29](https://news.ycombinator.com/item?id=49093232) - [Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design](https://transformer-transformer.github.io/)
 * [2026-07-29, 02:29:12](https://news.ycombinator.com/item?id=49092781) - [Does every question mark deserve a Betteridge?](https://dynomight.net/betteridge/)
 * [2026-07-29, 02:25:29](https://news.ycombinator.com/item?id=49092754) - [Hooray for the Sockets Interface](https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/)
+* [2026-07-29, 02:24:38](https://news.ycombinator.com/item?id=49092746) - [The BBC Tetris Companion](https://www.leadedsolder.com/2026/07/28/bbc-bridge-companion-part-1-overview.html)
 * [2026-07-29, 02:22:04](https://news.ycombinator.com/item?id=49092730) - [Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects](https://github.com/jagg-ix/zil-lean)
 * [2026-07-29, 01:56:00](https://news.ycombinator.com/item?id=49092549) - [Chip stocks slide in US and Asia as AI jitters rattle investors](https://www.bbc.com/news/articles/cly8zng43npo)
 * [2026-07-29, 01:49:19](https://news.ycombinator.com/item?id=49092499) - [LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences](https://learnvector.ai/)

@@ -1,16 +1,16 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-07, 11:19:15](https://news.ycombinator.com/item?id=49208686) - [The Gargantuan Lie That Is Collapsing the Climate](https://www.currentaffairs.org/news/the-massive-climate-lie-that-will-destroy-human-civilization)
 * [2026-08-07, 10:28:55](https://news.ycombinator.com/item?id=49208314) - [US strikes $1.2B deal to pay German firm to halt offshore wind projects](https://www.bbc.com/news/articles/c1e1vg0gjl5o)
+* [2026-08-07, 09:10:30](https://news.ycombinator.com/item?id=49207793) - [Show HN: Certo – An open source platform to deliver Open Badges](https://github.com/schroedinger-Hat/certo)
 * [2026-08-07, 05:17:57](https://news.ycombinator.com/item?id=49206130) - [Framework discloses data breach via Metabase 0-day](https://community.frame.work/t/framework-data-breach-discussion/83939)
 * [2026-08-07, 00:37:30](https://news.ycombinator.com/item?id=49204546) - [New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software](https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/)
 * [2026-08-07, 00:06:28](https://news.ycombinator.com/item?id=49204352) - [New Mexico court orders Meta to pay $567m over harms to children’s mental health](https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta)
-* [2026-08-06, 22:50:09](https://news.ycombinator.com/item?id=49203707) - [Spin audit of SQD/QSCI quantum-chemistry benchmarks on iron–sulfur clusters](https://zenodo.org/records/21359923)
 * [2026-08-06, 21:52:16](https://news.ycombinator.com/item?id=49203105) - [Welcoming the Nepalese Government to Have I Been Pwned](https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/)
 * [2026-08-06, 21:30:21](https://news.ycombinator.com/item?id=49202852) - [Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)](https://www.aleksagordic.com/blog/vllm)
 * [2026-08-06, 21:18:32](https://news.ycombinator.com/item?id=49202716) - [Bioengineered chewing gum may offer a way to fight HPV and other microbes](https://www.sciencedaily.com/releases/2026/08/260803080917.htm)
 * [2026-08-06, 21:16:52](https://news.ycombinator.com/item?id=49202690) - [What is a product?](https://roge.onwrite.app/what-is-a-product)
 * [2026-08-06, 20:23:11](https://news.ycombinator.com/item?id=49201970) - [AMD acquires Taalas to boost inference performance by etching models in silicon](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344)
-* [2026-08-06, 20:21:19](https://news.ycombinator.com/item?id=49201930) - [Quake – 30th Anniversary Update](https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update)
 * [2026-08-06, 19:14:21](https://news.ycombinator.com/item?id=49201003) - [Herdr is joining Y Combinator. The runtime stays open](https://herdr.dev/blog/herdr-is-joining-y-combinator/)
 * [2026-08-06, 18:26:08](https://news.ycombinator.com/item?id=49200439) - [My phone detects going on a run as “someone snatching my phone and running off”](https://mastodon.gamedev.place/@rygorous/117047697255584965)
 * [2026-08-06, 17:02:04](https://news.ycombinator.com/item?id=49199357) - [Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users](https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/)
@@ -29,7 +29,7 @@
 * [2026-07-31, 21:58:03](https://news.ycombinator.com/item?id=49129015) - [Atomic Clocks](https://www.nist.gov/atomic-clocks/how-do-atomic-clocks-work)
 * [2026-07-31, 07:37:13](https://news.ycombinator.com/item?id=49120149) - [Learn how chips are made with this Rollercoaster Tycoon-inspired animation](https://laurentiugabriel.github.io/ChipTycoon/)
 * [2026-07-30, 17:46:32](https://news.ycombinator.com/item?id=49113256) - [STV: A full-motion video codec for the Atari ST](https://medium.com/@jonas.eschenburg/stv-a-video-codec-for-the-atari-st-6e46355c50e4)
-* [2026-07-29, 11:15:50](https://news.ycombinator.com/item?id=49095943) - [Parsers don't have to be complicated](https://bkaradzic.github.io/posts/scanner/)
+* [2026-07-29, 02:24:38](https://news.ycombinator.com/item?id=49092746) - [The BBC Tetris Companion](https://www.leadedsolder.com/2026/07/28/bbc-bridge-companion-part-1-overview.html)
 
 ## [Archives](archives/index.md)
 
