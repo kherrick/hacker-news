@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-08-07, 20:23:26](https://news.ycombinator.com/item?id=49215762) - [Chasa](https://chasa.io/)
-* [2026-08-07, 19:38:05](https://news.ycombinator.com/item?id=49215292) - [Mykhailo Fedorov reveals struggle to secure Patriot missiles and Western support](https://www.uawire.org/former-ukrainian-defense-minister-mykhailo-fedorov-reveals-struggles-to-secure-patriot-missiles-and-western-support)
+* [2026-08-07, 21:19:57](https://news.ycombinator.com/item?id=49216362) - [Water system controllers don't belong on the internet, says ex-NSA chief](https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070)
 * [2026-08-07, 18:59:08](https://news.ycombinator.com/item?id=49214863) - [App Store Rejection of the Week: Dark Hours](https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours)
-* [2026-08-07, 18:51:45](https://news.ycombinator.com/item?id=49214775) - [Psychological Warfare in Reverse Engineering](https://github.com/xoreaxeaxeax/repsych)
+* [2026-08-07, 18:51:45](https://news.ycombinator.com/item?id=49214775) - [Psychological Warfare in Reverse Engineering (2015)](https://github.com/xoreaxeaxeax/repsych)
 * [2026-08-07, 18:51:14](https://news.ycombinator.com/item?id=49214770) - [Ancient Library – 1,060 Greek/Latin texts, click any word to parse it](https://ancientlibrary.net/)
 * [2026-08-07, 18:25:17](https://news.ycombinator.com/item?id=49214468) - [Databricks drove down AI coding spend 70%](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
 * [2026-08-07, 18:01:30](https://news.ycombinator.com/item?id=49214098) - [Assembly Hall of Shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)
@@ -30,6 +29,7 @@
 * [2026-08-02, 14:58:08](https://news.ycombinator.com/item?id=49145259) - [Thoroughly Understanding C++ ABI (2024)](https://ykiko.me/en/articles/692886292/)
 * [2026-08-01, 21:02:26](https://news.ycombinator.com/item?id=49138446) - [São Paulo resident transforms degraded area into urban forest](https://saopaulosecreto.com/en/tiquatira-linear-park-en/)
 * [2026-08-01, 15:51:15](https://news.ycombinator.com/item?id=49135457) - [Carl's Required Reading](https://carlkolon.com/reading/)
+* [2026-07-29, 06:54:23](https://news.ycombinator.com/item?id=49094200) - [Britain's New World of Tobacco (2017)](https://www.historytoday.com/archive/feature/britains-new-world-tobacco)
 
 ## [Archives](archives/index.md)
 

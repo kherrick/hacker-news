@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-07](index.md)
 
+* [2026-08-07, 21:19:57](https://news.ycombinator.com/item?id=49216362) - [Water system controllers don't belong on the internet, says ex-NSA chief](https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070)
 * [2026-08-07, 20:23:26](https://news.ycombinator.com/item?id=49215762) - [Chasa](https://chasa.io/)
 * [2026-08-07, 19:38:05](https://news.ycombinator.com/item?id=49215292) - [Mykhailo Fedorov reveals struggle to secure Patriot missiles and Western support](https://www.uawire.org/former-ukrainian-defense-minister-mykhailo-fedorov-reveals-struggles-to-secure-patriot-missiles-and-western-support)
 * [2026-08-07, 18:59:08](https://news.ycombinator.com/item?id=49214863) - [App Store Rejection of the Week: Dark Hours](https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours)
