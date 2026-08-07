@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-08-07, 00:37:30",
+      "https://news.ycombinator.com/item?id=49204546"
+    ],
+    [
+      "New Orleans will use AI to answer 911 calls instead of a human",
+      "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/"
+    ]
+  ],
+  [
+    [
+      "2026-08-07, 00:10:04",
+      "https://news.ycombinator.com/item?id=49204388"
+    ],
+    [
+      "Show HN: Whisper transcribes 70-year-olds more accurately than 20-year-olds",
+      "https://github.com/Kayvan-Zahiri/asr-age-gap"
+    ]
+  ],
+  [
+    [
+      "2026-08-07, 00:06:28",
+      "https://news.ycombinator.com/item?id=49204352"
+    ],
+    [
+      "Meta Ordered to Pay $942M to Address Harm to Kids from Social Media",
+      "https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7"
+    ]
+  ],
+  [
+    [
       "2026-08-06, 21:52:16",
       "https://news.ycombinator.com/item?id=49203105"
     ],
@@ -35,18 +65,8 @@
       "https://news.ycombinator.com/item?id=49202716"
     ],
     [
-      "Bioengineered chewing gum may offer a way to fight microbes linked to cancers",
+      "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
       "https://www.sciencedaily.com/releases/2026/08/260803080917.htm"
-    ]
-  ],
-  [
-    [
-      "2026-08-06, 20:48:14",
-      "https://news.ycombinator.com/item?id=49202321"
-    ],
-    [
-      "Civilians under siege by Mexican cartel fight back with AK-47s, grenades",
-      "https://www.pbs.org/newshour/world/civilians-that-were-under-siege-by-a-mexican-cartel-fight-back-with-ak-47s-and-grenades"
     ]
   ],
   [
@@ -105,18 +125,8 @@
       "https://news.ycombinator.com/item?id=49200439"
     ],
     [
-      "My phone detects going on a run as \"someone snatching my phone and running off\"",
+      "My phone detects going on a run as “someone snatching my phone and running off”",
       "https://mastodon.gamedev.place/@rygorous/117047697255584965"
-    ]
-  ],
-  [
-    [
-      "2026-08-06, 18:22:16",
-      "https://news.ycombinator.com/item?id=49200390"
-    ],
-    [
-      "Federal Communications Commission scraps limit on broadcast TV ownership",
-      "https://www.nbcnews.com/business/media/federal-communications-commission-scraps-limit-broadcast-tv-ownership-rcna587641"
     ]
   ],
   [
@@ -201,52 +211,22 @@
   ],
   [
     [
-      "2026-08-06, 04:46:35",
-      "https://news.ycombinator.com/item?id=49192566"
-    ],
-    [
-      "Crime Pays but Botany Doesn't",
-      "https://www.crimepaysbutbotanydoesnt.com/reading-list"
-    ]
-  ],
-  [
-    [
-      "2026-08-05, 15:57:54",
-      "https://news.ycombinator.com/item?id=49184656"
-    ],
-    [
-      "Tiny black holes may be exploding stars across the Milky Way",
-      "https://www.sciencedaily.com/releases/2026/07/260729051515.htm"
-    ]
-  ],
-  [
-    [
       "2026-08-05, 15:33:23",
       "https://news.ycombinator.com/item?id=49184355"
     ],
     [
-      "NSF Inouye Solar Telescope Enables Major Discovery of a Hidden Solar Process",
+      "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
       "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/"
     ]
   ],
   [
     [
-      "2026-08-04, 13:24:03",
-      "https://news.ycombinator.com/item?id=49168622"
+      "2026-08-04, 02:50:07",
+      "https://news.ycombinator.com/item?id=49163879"
     ],
     [
-      "How to Make a Nintendo 64 Game in 2026",
-      "https://phoboslab.org/log/2026/08/xibalba64-making-of"
-    ]
-  ],
-  [
-    [
-      "2026-08-03, 21:22:01",
-      "https://news.ycombinator.com/item?id=49161617"
-    ],
-    [
-      "Towards Bottom-Up Enumeration in miniKanren via Pruning and Memoization",
-      "https://arxiv.org/abs/2607.25373"
+      "Why Estonians invite strangers into their back gardens each summer",
+      "https://www.bbc.com/travel/article/20260731-why-estonians-invite-strangers-into-their-backyards-each-summer"
     ]
   ],
   [
@@ -271,6 +251,16 @@
   ],
   [
     [
+      "2026-07-31, 14:00:34",
+      "https://news.ycombinator.com/item?id=49123247"
+    ],
+    [
+      "The Sylvester–Gallai Theorem",
+      "https://www.futilitycloset.com/2026/07/26/the-sylvester-gallai-theorem/"
+    ]
+  ],
+  [
+    [
       "2026-07-31, 07:37:13",
       "https://news.ycombinator.com/item?id=49120149"
     ],
@@ -287,6 +277,16 @@
     [
       "Building Progressively Enhanced Forms Using htmx",
       "https://www.rafa.ee/articles/progressive-enhanced-forms-htmx/"
+    ]
+  ],
+  [
+    [
+      "2026-07-30, 17:46:32",
+      "https://news.ycombinator.com/item?id=49113256"
+    ],
+    [
+      "STV: A full-motion video codec for the Atari ST",
+      "https://medium.com/@jonas.eschenburg/stv-a-video-codec-for-the-atari-st-6e46355c50e4"
     ]
   ],
   [
