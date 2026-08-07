@@ -1,12 +1,82 @@
 [
   [
     [
-      "2026-08-07, 10:33:00",
-      "https://news.ycombinator.com/item?id=49208341"
+      "2026-08-07, 13:39:45",
+      "https://news.ycombinator.com/item?id=49210240"
     ],
     [
-      "Bulldozers Plow Through Big Bend National Park, Sparking Fury in Texas",
-      "https://www.newsweek.com/bulldozers-plow-through-big-bend-national-park-sparking-fury-in-texas-12295668"
+      "U.S. Lost 23,000 Jobs in July, While Unemployment Ticked Lower",
+      "https://www.wsj.com/economy/jobs/july-jobs-report-unemployment-0d7c08a7"
+    ]
+  ],
+  [
+    [
+      "2026-08-07, 13:27:30",
+      "https://news.ycombinator.com/item?id=49210077"
+    ],
+    [
+      "AI psychosis is the new leadership blind spot",
+      "https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots"
+    ]
+  ],
+  [
+    [
+      "2026-08-07, 13:15:36",
+      "https://news.ycombinator.com/item?id=49209921"
+    ],
+    [
+      "The web server deployment model breaks at hobby scale",
+      "https://w.on-t.work/web-deployment-model"
+    ]
+  ],
+  [
+    [
+      "2026-08-07, 12:45:08",
+      "https://news.ycombinator.com/item?id=49209572"
+    ],
+    [
+      "Radical Study Suggests Life on Earth Arose Twice",
+      "https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice"
+    ]
+  ],
+  [
+    [
+      "2026-08-07, 12:42:58",
+      "https://news.ycombinator.com/item?id=49209546"
+    ],
+    [
+      "U.S. economy lost 23,000 jobs in July, a sudden reversal",
+      "https://www.nbcnews.com/business/economy/july-2026-jobs-report-rcna591138"
+    ]
+  ],
+  [
+    [
+      "2026-08-07, 12:28:55",
+      "https://news.ycombinator.com/item?id=49209385"
+    ],
+    [
+      "Show HN: Wyzer Programming Language",
+      "https://github.com/Wyzer-Lang/wyzer"
+    ]
+  ],
+  [
+    [
+      "2026-08-07, 11:00:35",
+      "https://news.ycombinator.com/item?id=49208535"
+    ],
+    [
+      "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
+      "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/"
+    ]
+  ],
+  [
+    [
+      "2026-08-07, 10:42:07",
+      "https://news.ycombinator.com/item?id=49208393"
+    ],
+    [
+      "Kitesurf: Agent-first browser that runs in V8 isolates",
+      "https://blog.cloudflare.com/kitesurf/"
     ]
   ],
   [
@@ -17,36 +87,6 @@
     [
       "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
       "https://www.bbc.com/news/articles/c1e1vg0gjl5o"
-    ]
-  ],
-  [
-    [
-      "2026-08-07, 09:10:30",
-      "https://news.ycombinator.com/item?id=49207793"
-    ],
-    [
-      "Show HN: Certo – An open source platform to deliver Open Badges",
-      "https://github.com/schroedinger-Hat/certo"
-    ]
-  ],
-  [
-    [
-      "2026-08-07, 05:17:57",
-      "https://news.ycombinator.com/item?id=49206130"
-    ],
-    [
-      "Framework discloses data breach via Metabase 0-day",
-      "https://community.frame.work/t/framework-data-breach-discussion/83939"
-    ]
-  ],
-  [
-    [
-      "2026-08-07, 00:37:30",
-      "https://news.ycombinator.com/item?id=49204546"
-    ],
-    [
-      "New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software",
-      "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/"
     ]
   ],
   [
@@ -67,16 +107,6 @@
     [
       "Welcoming the Nepalese Government to Have I Been Pwned",
       "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/"
-    ]
-  ],
-  [
-    [
-      "2026-08-06, 21:30:21",
-      "https://news.ycombinator.com/item?id=49202852"
-    ],
-    [
-      "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
-      "https://www.aleksagordic.com/blog/vllm"
     ]
   ],
   [
@@ -107,16 +137,6 @@
     [
       "AMD acquires Taalas to boost inference performance by etching models in silicon",
       "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344"
-    ]
-  ],
-  [
-    [
-      "2026-08-06, 20:21:19",
-      "https://news.ycombinator.com/item?id=49201930"
-    ],
-    [
-      "Quake – 30th Anniversary Update",
-      "https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2026-08-06, 11:58:07",
-      "https://news.ycombinator.com/item?id=49195468"
-    ],
-    [
-      "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
-      "https://scalex.dev/blog/ai-agent-permissions-stats/"
-    ]
-  ],
-  [
-    [
       "2026-08-06, 11:24:53",
       "https://news.ycombinator.com/item?id=49195231"
     ],
@@ -227,16 +237,6 @@
     [
       "A quine in Piet – a GIF image that prints itself [video]",
       "https://www.youtube.com/watch?v=GwMtzhjCzyc"
-    ]
-  ],
-  [
-    [
-      "2026-08-03, 07:12:57",
-      "https://news.ycombinator.com/item?id=49152255"
-    ],
-    [
-      "I stopped trusting USB-C cable labels and started testing them",
-      "https://www.makeuseof.com/i-stopped-trusting-usb-c-cable-labels-started-testing-with-meter-instead/"
     ]
   ],
   [
