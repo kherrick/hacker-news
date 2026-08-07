@@ -19,6 +19,7 @@
 * [2026-08-03, 18:58:00](https://news.ycombinator.com/item?id=49159970) - [KisakCOD – open-source reimplementation of Call of Duty 4 Multiplayer](https://github.com/SwagSoftware/KisakCOD)
 * [2026-08-03, 18:32:25](https://news.ycombinator.com/item?id=49159680) - [Ryg_rans Is Not a Library](https://fgiesen.wordpress.com/2026/08/03/ryg_rans-is-not-a-library/)
 * [2026-08-03, 18:32:06](https://news.ycombinator.com/item?id=49159676) - [ZX Spectrum System Tour: Sound](https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/)
+* [2026-08-03, 18:04:56](https://news.ycombinator.com/item?id=49159346) - [Show HN: A free mini game that makes you a smarter fly fisherperson](https://read-the-water.netlify.app/)
 * [2026-08-03, 17:27:08](https://news.ycombinator.com/item?id=49158837) - [Leaked Flock Guide Shows How It Teaches Cops to Promote Its Tech](https://www.404media.co/own-the-narrative-leaked-flock-guide-shows-how-it-teaches-cops-to-promote-its-tech/)
 * [2026-08-03, 17:18:06](https://news.ycombinator.com/item?id=49158714) - [The Billable Usage API: programmatic cost visibility for Cloudflare](https://blog.cloudflare.com/billable-usage-api/)
 * [2026-08-03, 17:08:46](https://news.ycombinator.com/item?id=49158581) - [Smaller, faster, safer: running Kimi and GLM at scale](https://blog.cloudflare.com/smaller-faster-safer-models/)
