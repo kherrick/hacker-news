@@ -1,12 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-07, 20:23:26](https://news.ycombinator.com/item?id=49215762) - [Chasa](https://chasa.io/)
+* [2026-08-07, 19:38:05](https://news.ycombinator.com/item?id=49215292) - [Mykhailo Fedorov reveals struggle to secure Patriot missiles and Western support](https://www.uawire.org/former-ukrainian-defense-minister-mykhailo-fedorov-reveals-struggles-to-secure-patriot-missiles-and-western-support)
 * [2026-08-07, 18:59:08](https://news.ycombinator.com/item?id=49214863) - [App Store Rejection of the Week: Dark Hours](https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours)
 * [2026-08-07, 18:51:45](https://news.ycombinator.com/item?id=49214775) - [Psychological Warfare in Reverse Engineering](https://github.com/xoreaxeaxeax/repsych)
 * [2026-08-07, 18:51:14](https://news.ycombinator.com/item?id=49214770) - [Ancient Library – 1,060 Greek/Latin texts, click any word to parse it](https://ancientlibrary.net/)
 * [2026-08-07, 18:25:17](https://news.ycombinator.com/item?id=49214468) - [Databricks drove down AI coding spend 70%](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
 * [2026-08-07, 18:01:30](https://news.ycombinator.com/item?id=49214098) - [Assembly Hall of Shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)
 * [2026-08-07, 17:56:20](https://news.ycombinator.com/item?id=49214008) - [DeepSeek V4 Flash 0731](https://arcprize.org/results/deepseek-v4-flash-0731)
-* [2026-08-07, 17:55:14](https://news.ycombinator.com/item?id=49213985) - [The Claudyssey: A line-for-line translation of Homer's Odyssey by Claude Fable 5](https://theclaudyssey.com/)
 * [2026-08-07, 17:36:30](https://news.ycombinator.com/item?id=49213754) - [Oracle bans AI-generated code from OpenJDK](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
 * [2026-08-07, 16:39:36](https://news.ycombinator.com/item?id=49213029) - [Responding to the next frontier of critical cyber capabilities](https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/)
 * [2026-08-07, 15:24:53](https://news.ycombinator.com/item?id=49211921) - [An all-sky map of half a million supermassive black holes](https://www.sdss.org/black-hole-mapper-release-20/)
@@ -29,7 +30,6 @@
 * [2026-08-02, 14:58:08](https://news.ycombinator.com/item?id=49145259) - [Thoroughly Understanding C++ ABI (2024)](https://ykiko.me/en/articles/692886292/)
 * [2026-08-01, 21:02:26](https://news.ycombinator.com/item?id=49138446) - [São Paulo resident transforms degraded area into urban forest](https://saopaulosecreto.com/en/tiquatira-linear-park-en/)
 * [2026-08-01, 15:51:15](https://news.ycombinator.com/item?id=49135457) - [Carl's Required Reading](https://carlkolon.com/reading/)
-* [2026-07-30, 16:46:59](https://news.ycombinator.com/item?id=49112511) - [TypeStax: A type scale generator with vintage audio hardware interface](https://www.typestax.com/)
 
 ## [Archives](archives/index.md)
 

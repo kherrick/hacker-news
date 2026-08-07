@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-07](index.md)
 
+* [2026-08-07, 20:23:26](https://news.ycombinator.com/item?id=49215762) - [Chasa](https://chasa.io/)
+* [2026-08-07, 19:38:05](https://news.ycombinator.com/item?id=49215292) - [Mykhailo Fedorov reveals struggle to secure Patriot missiles and Western support](https://www.uawire.org/former-ukrainian-defense-minister-mykhailo-fedorov-reveals-struggles-to-secure-patriot-missiles-and-western-support)
 * [2026-08-07, 18:59:08](https://news.ycombinator.com/item?id=49214863) - [App Store Rejection of the Week: Dark Hours](https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours)
 * [2026-08-07, 18:51:45](https://news.ycombinator.com/item?id=49214775) - [Psychological Warfare in Reverse Engineering](https://github.com/xoreaxeaxeax/repsych)
 * [2026-08-07, 18:51:14](https://news.ycombinator.com/item?id=49214770) - [Ancient Library – 1,060 Greek/Latin texts, click any word to parse it](https://ancientlibrary.net/)
