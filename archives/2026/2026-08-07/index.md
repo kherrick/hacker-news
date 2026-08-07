@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-08-07](index.md)
 
+* [2026-08-07, 14:55:08](https://news.ycombinator.com/item?id=49211438) - [Iceberg Collapses and Flips over in Ilulissat, Greenland (July 25, 2026) [video]](https://www.youtube.com/watch?v=UufMqwyO7pY)
+* [2026-08-07, 14:55:08](https://news.ycombinator.com/item?id=49211437) - [Software is about people, not code](https://letterstoanewdeveloper.com/2020/01/27/software-is-about-people-not-code/)
+* [2026-08-07, 14:51:57](https://news.ycombinator.com/item?id=49211386) - [99% of My Website Traffic Is Bots](https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/)
+* [2026-08-07, 14:02:15](https://news.ycombinator.com/item?id=49210589) - [US's largest newspaper chain partners with Palantir to analyze audience data](https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/)
 * [2026-08-07, 13:39:45](https://news.ycombinator.com/item?id=49210240) - [U.S. Lost 23,000 Jobs in July, While Unemployment Ticked Lower](https://www.wsj.com/economy/jobs/july-jobs-report-unemployment-0d7c08a7)
 * [2026-08-07, 13:27:30](https://news.ycombinator.com/item?id=49210077) - [AI psychosis is the new leadership blind spot](https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots)
 * [2026-08-07, 13:15:36](https://news.ycombinator.com/item?id=49209921) - [The web server deployment model breaks at hobby scale](https://w.on-t.work/web-deployment-model)
@@ -12,6 +16,7 @@
 * [2026-08-07, 12:28:55](https://news.ycombinator.com/item?id=49209385) - [Show HN: Wyzer Programming Language](https://github.com/Wyzer-Lang/wyzer)
 * [2026-08-07, 11:19:15](https://news.ycombinator.com/item?id=49208686) - [The Gargantuan Lie That Is Collapsing the Climate](https://www.currentaffairs.org/news/the-massive-climate-lie-that-will-destroy-human-civilization)
 * [2026-08-07, 11:00:35](https://news.ycombinator.com/item?id=49208535) - [Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD](https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/)
+* [2026-08-07, 10:52:21](https://news.ycombinator.com/item?id=49208458) - [Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS](https://textlog.cc/about)
 * [2026-08-07, 10:42:07](https://news.ycombinator.com/item?id=49208393) - [Kitesurf: Agent-first browser that runs in V8 isolates](https://blog.cloudflare.com/kitesurf/)
 * [2026-08-07, 10:33:00](https://news.ycombinator.com/item?id=49208341) - [Bulldozers Plow Through Big Bend National Park, Sparking Fury in Texas](https://www.newsweek.com/bulldozers-plow-through-big-bend-national-park-sparking-fury-in-texas-12295668)
 * [2026-08-07, 10:28:55](https://news.ycombinator.com/item?id=49208314) - [US strikes $1.2B deal to pay German firm to halt offshore wind projects](https://www.bbc.com/news/articles/c1e1vg0gjl5o)
