@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-08-07, 05:15:27",
-      "https://news.ycombinator.com/item?id=49206115"
+      "2026-08-07, 05:17:57",
+      "https://news.ycombinator.com/item?id=49206130"
     ],
     [
-      "Anthropic CEO reportedly worried new hires only care about money",
-      "https://finance.yahoo.com/technology/ai/articles/anthropic-ceo-reportedly-worried-hires-160000647.html"
+      "Framework discloses data breach via Metabase 0-day",
+      "https://community.frame.work/t/framework-data-breach-discussion/83939"
+    ]
+  ],
+  [
+    [
+      "2026-08-07, 00:37:30",
+      "https://news.ycombinator.com/item?id=49204546"
+    ],
+    [
+      "New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software",
+      "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/"
     ]
   ],
   [
@@ -17,16 +27,6 @@
     [
       "Meta Ordered to Pay $942M to Address Harm to Kids from Social Media",
       "https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7"
-    ]
-  ],
-  [
-    [
-      "2026-08-06, 23:30:03",
-      "https://news.ycombinator.com/item?id=49204060"
-    ],
-    [
-      "Hackers Stalked Me by Hijacking a Smartwatch for Kids",
-      "https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/"
     ]
   ],
   [
@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2026-08-06, 21:16:52",
+      "https://news.ycombinator.com/item?id=49202690"
+    ],
+    [
+      "What Is a Product?",
+      "https://roge.onwrite.app/what-is-a-product"
+    ]
+  ],
+  [
+    [
       "2026-08-06, 20:23:11",
       "https://news.ycombinator.com/item?id=49201970"
     ],
@@ -87,16 +97,6 @@
     [
       "Herdr is joining Y Combinator. The runtime stays open",
       "https://herdr.dev/blog/herdr-is-joining-y-combinator/"
-    ]
-  ],
-  [
-    [
-      "2026-08-06, 19:07:33",
-      "https://news.ycombinator.com/item?id=49200933"
-    ],
-    [
-      "Can you reverse engineer an ASIC?",
-      "https://blog.janestreet.com/can-you-reverse-engineer-an-asic/"
     ]
   ],
   [
@@ -165,7 +165,7 @@
       "https://news.ycombinator.com/item?id=49198069"
     ],
     [
-      "Almost no skill required to cook a steak",
+      "Software development with AI is starting to feel like cooking steak",
       "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/"
     ]
   ],
@@ -211,12 +211,12 @@
   ],
   [
     [
-      "2026-08-03, 21:39:27",
-      "https://news.ycombinator.com/item?id=49161803"
+      "2026-08-03, 22:04:18",
+      "https://news.ycombinator.com/item?id=49162080"
     ],
     [
-      "Learning to fly FPV drones with AI flight coach",
-      "https://blog.divyendusingh.com/p/learning-to-fly-fpv-drones-with-ai"
+      "Reverse Jevons Paradox",
+      "https://mht.wtf/post/jevons/"
     ]
   ],
   [
