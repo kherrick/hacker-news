@@ -4,7 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-08-07](index.md)
 
+* [2026-08-07, 13:39:45](https://news.ycombinator.com/item?id=49210240) - [U.S. Lost 23,000 Jobs in July, While Unemployment Ticked Lower](https://www.wsj.com/economy/jobs/july-jobs-report-unemployment-0d7c08a7)
+* [2026-08-07, 13:27:30](https://news.ycombinator.com/item?id=49210077) - [AI psychosis is the new leadership blind spot](https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots)
+* [2026-08-07, 13:15:36](https://news.ycombinator.com/item?id=49209921) - [The web server deployment model breaks at hobby scale](https://w.on-t.work/web-deployment-model)
+* [2026-08-07, 12:45:08](https://news.ycombinator.com/item?id=49209572) - [Radical Study Suggests Life on Earth Arose Twice](https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice)
+* [2026-08-07, 12:42:58](https://news.ycombinator.com/item?id=49209546) - [U.S. economy lost 23,000 jobs in July, a sudden reversal](https://www.nbcnews.com/business/economy/july-2026-jobs-report-rcna591138)
+* [2026-08-07, 12:28:55](https://news.ycombinator.com/item?id=49209385) - [Show HN: Wyzer Programming Language](https://github.com/Wyzer-Lang/wyzer)
 * [2026-08-07, 11:19:15](https://news.ycombinator.com/item?id=49208686) - [The Gargantuan Lie That Is Collapsing the Climate](https://www.currentaffairs.org/news/the-massive-climate-lie-that-will-destroy-human-civilization)
+* [2026-08-07, 11:00:35](https://news.ycombinator.com/item?id=49208535) - [Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD](https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/)
+* [2026-08-07, 10:42:07](https://news.ycombinator.com/item?id=49208393) - [Kitesurf: Agent-first browser that runs in V8 isolates](https://blog.cloudflare.com/kitesurf/)
 * [2026-08-07, 10:33:00](https://news.ycombinator.com/item?id=49208341) - [Bulldozers Plow Through Big Bend National Park, Sparking Fury in Texas](https://www.newsweek.com/bulldozers-plow-through-big-bend-national-park-sparking-fury-in-texas-12295668)
 * [2026-08-07, 10:28:55](https://news.ycombinator.com/item?id=49208314) - [US strikes $1.2B deal to pay German firm to halt offshore wind projects](https://www.bbc.com/news/articles/c1e1vg0gjl5o)
 * [2026-08-07, 09:10:30](https://news.ycombinator.com/item?id=49207793) - [Show HN: Certo – An open source platform to deliver Open Badges](https://github.com/schroedinger-Hat/certo)
