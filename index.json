@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-07, 06:31:15",
+      "https://news.ycombinator.com/item?id=49206642"
+    ],
+    [
+      "Artificial Intelligence used to design new viruses",
+      "https://www.bbc.co.uk/news/articles/c5y3j3ngevmo"
+    ]
+  ],
+  [
+    [
       "2026-08-07, 05:17:57",
       "https://news.ycombinator.com/item?id=49206130"
     ],
@@ -25,8 +35,18 @@
       "https://news.ycombinator.com/item?id=49204352"
     ],
     [
-      "Meta Ordered to Pay $942M to Address Harm to Kids from Social Media",
-      "https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7"
+      "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
+      "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta"
+    ]
+  ],
+  [
+    [
+      "2026-08-06, 22:50:09",
+      "https://news.ycombinator.com/item?id=49203707"
+    ],
+    [
+      "Spin audit of SQD/QSCI quantum-chemistry benchmarks on iron–sulfur clusters",
+      "https://zenodo.org/records/21359923"
     ]
   ],
   [
@@ -65,7 +85,7 @@
       "https://news.ycombinator.com/item?id=49202690"
     ],
     [
-      "What Is a Product?",
+      "What is a product?",
       "https://roge.onwrite.app/what-is-a-product"
     ]
   ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2026-08-06, 15:30:48",
-      "https://news.ycombinator.com/item?id=49198069"
-    ],
-    [
-      "Software development with AI is starting to feel like cooking steak",
-      "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/"
-    ]
-  ],
-  [
-    [
       "2026-08-06, 11:58:07",
       "https://news.ycombinator.com/item?id=49195468"
     ],
@@ -221,6 +231,16 @@
   ],
   [
     [
+      "2026-08-03, 18:04:56",
+      "https://news.ycombinator.com/item?id=49159346"
+    ],
+    [
+      "Show HN: A free mini game that makes you a smarter fly fisherperson",
+      "https://read-the-water.netlify.app/"
+    ]
+  ],
+  [
+    [
       "2026-08-03, 07:12:57",
       "https://news.ycombinator.com/item?id=49152255"
     ],
@@ -231,22 +251,12 @@
   ],
   [
     [
-      "2026-08-02, 12:14:34",
-      "https://news.ycombinator.com/item?id=49143782"
-    ],
-    [
-      "The simple elegance of the integrated timing belt loopback fastener",
-      "https://danielmangum.com/posts/integrated-timing-belt-loopback-fastener/"
-    ]
-  ],
-  [
-    [
       "2026-08-01, 21:02:26",
       "https://news.ycombinator.com/item?id=49138446"
     ],
     [
-      "Retired man plants trees on forgotten land, now it's Sao Paulo's largest park",
-      "https://timesofindia.indiatimes.com/world/rest-of-world/in-2003-a-retired-man-planted-trees-on-forgotten-land-alone-20-years-later-it-had-become-one-of-sao-paulos-largest-urban-forests/articleshow/132761848.cms"
+      "Sao Paulo resident transforms degraded area into urban forest",
+      "https://saopaulosecreto.com/en/tiquatira-linear-park-en/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Atomic Clocks",
       "https://www.nist.gov/atomic-clocks/how-do-atomic-clocks-work"
-    ]
-  ],
-  [
-    [
-      "2026-07-31, 14:00:34",
-      "https://news.ycombinator.com/item?id=49123247"
-    ],
-    [
-      "The Sylvester–Gallai Theorem",
-      "https://www.futilitycloset.com/2026/07/26/the-sylvester-gallai-theorem/"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-07-29, 12:12:29",
-      "https://news.ycombinator.com/item?id=49096439"
+      "2026-07-29, 11:15:50",
+      "https://news.ycombinator.com/item?id=49095943"
     ],
     [
-      "Pareto Front",
-      "https://en.wikipedia.org/wiki/Pareto_front"
+      "Parsers don't have to be complicated",
+      "https://bkaradzic.github.io/posts/scanner/"
     ]
   ]
 ]
