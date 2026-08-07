@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-08-07](index.md)
 
+* [2026-08-07, 18:15:33](https://news.ycombinator.com/item?id=49214306) - [ICE will release body cam video only when seen in the agency's 'best interests'](https://apnews.com/article/ice-body-cameras-officers-shootings-dab1b294c8dc412d9ef8557ccbebfd57)
+* [2026-08-07, 18:01:30](https://news.ycombinator.com/item?id=49214098) - [Assembly Hall of Shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)
+* [2026-08-07, 17:56:20](https://news.ycombinator.com/item?id=49214008) - [DeepSeek V4 Flash 0731](https://arcprize.org/results/deepseek-v4-flash-0731)
 * [2026-08-07, 17:36:30](https://news.ycombinator.com/item?id=49213754) - [Oracle bans AI-generated code from OpenJDK](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
 * [2026-08-07, 17:05:15](https://news.ycombinator.com/item?id=49213367) - [Canada adds 75,000 new jobs in July, unemployment rate lowest in 2 years](https://www.cbc.ca/news/business/canada-jobs-july-2026-9.7299225)
 * [2026-08-07, 16:44:28](https://news.ycombinator.com/item?id=49213097) - [Tax cuts for the wealthy only benefit the rich (2023)](https://www.lse.ac.uk/research/research-for-the-world/economics/tax-cuts-for-the-wealthy-only-benefit-the-rich-debunking-trickle-down-economics)

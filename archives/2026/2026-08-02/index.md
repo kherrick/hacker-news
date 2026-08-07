@@ -22,6 +22,7 @@
 * [2026-08-02, 20:12:39](https://news.ycombinator.com/item?id=49147853) - [Adding Go's Defer to the TypeScript Compiler](https://healeycodes.com/adding-defer-to-the-typescript-compiler)
 * [2026-08-02, 20:11:35](https://news.ycombinator.com/item?id=49147842) - [Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary](https://github.com/paoloanzn/microcodex)
 * [2026-08-02, 20:01:37](https://news.ycombinator.com/item?id=49147760) - [TinyNES Review – A Super Niche NES Console](https://blog.lon.tv/2023/02/05/tinynes-review-a-super-niche-nes-console/)
+* [2026-08-02, 19:56:43](https://news.ycombinator.com/item?id=49147721) - [Energizing a vacuum-tube flip-flop module from a 1948 IBM system](https://www.righto.com/2026/07/ibm-604-trigger-tube-module.html)
 * [2026-08-02, 19:42:08](https://news.ycombinator.com/item?id=49147622) - [My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"](https://frogs.vaguespac.es/)
 * [2026-08-02, 19:40:19](https://news.ycombinator.com/item?id=49147606) - [EU rules on AI models become enforceable. What's going to change?](https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change)
 * [2026-08-02, 19:24:18](https://news.ycombinator.com/item?id=49147478) - [German carmakers flood jobs market with managers after wielding axe](https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597)
