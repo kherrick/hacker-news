@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-08-07](index.md)
 
+* [2026-08-07, 18:59:08](https://news.ycombinator.com/item?id=49214863) - [App Store Rejection of the Week: Dark Hours](https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours)
+* [2026-08-07, 18:51:14](https://news.ycombinator.com/item?id=49214770) - [Ancient Library – 1,060 Greek/Latin texts, click any word to parse it](https://ancientlibrary.net/)
+* [2026-08-07, 18:25:17](https://news.ycombinator.com/item?id=49214468) - [Databricks drove down AI coding spend 70%](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
 * [2026-08-07, 18:15:33](https://news.ycombinator.com/item?id=49214306) - [ICE will release body cam video only when seen in the agency's 'best interests'](https://apnews.com/article/ice-body-cameras-officers-shootings-dab1b294c8dc412d9ef8557ccbebfd57)
 * [2026-08-07, 18:01:30](https://news.ycombinator.com/item?id=49214098) - [Assembly Hall of Shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)
 * [2026-08-07, 17:56:20](https://news.ycombinator.com/item?id=49214008) - [DeepSeek V4 Flash 0731](https://arcprize.org/results/deepseek-v4-flash-0731)
@@ -25,6 +28,7 @@
 * [2026-08-07, 13:15:36](https://news.ycombinator.com/item?id=49209921) - [The web server deployment model breaks at hobby scale](https://w.on-t.work/web-deployment-model)
 * [2026-08-07, 12:45:08](https://news.ycombinator.com/item?id=49209572) - [Radical Study Suggests Life on Earth Arose Twice](https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice)
 * [2026-08-07, 12:42:58](https://news.ycombinator.com/item?id=49209546) - [U.S. economy lost 23,000 jobs in July, a sudden reversal](https://www.nbcnews.com/business/economy/july-2026-jobs-report-rcna591138)
+* [2026-08-07, 12:42:27](https://news.ycombinator.com/item?id=49209539) - [What happens if an entire class of workers loses faith in their careers](https://www.noemamag.com/why-is-everyone-in-tech-so-sad/)
 * [2026-08-07, 12:28:55](https://news.ycombinator.com/item?id=49209385) - [Show HN: Wyzer Programming Language](https://github.com/Wyzer-Lang/wyzer)
 * [2026-08-07, 11:19:15](https://news.ycombinator.com/item?id=49208686) - [The Gargantuan Lie That Is Collapsing the Climate](https://www.currentaffairs.org/news/the-massive-climate-lie-that-will-destroy-human-civilization)
 * [2026-08-07, 11:00:35](https://news.ycombinator.com/item?id=49208535) - [Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD](https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/)
