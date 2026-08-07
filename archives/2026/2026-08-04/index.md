@@ -52,6 +52,7 @@
 * [2026-08-04, 15:51:51](https://news.ycombinator.com/item?id=49170648) - [The AI Demand Bubble](https://www.wheresyoured.at/the-ai-demand-bubble/)
 * [2026-08-04, 15:40:06](https://news.ycombinator.com/item?id=49170508) - [Perspec 1.0](https://adriansieber.com/announcing-perspec-1-0/)
 * [2026-08-04, 15:37:42](https://news.ycombinator.com/item?id=49170479) - [Apple says more ex-employees may have taken confidential data to OpenAI](https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/)
+* [2026-08-04, 15:21:11](https://news.ycombinator.com/item?id=49170241) - [Building Community Out of Strangers](https://tracydurnell.com/2023/11/30/building-community-out-of-strangers/)
 * [2026-08-04, 15:16:22](https://news.ycombinator.com/item?id=49170165) - [Show HN: Simple algorithm and color space to generate diverse skin tones](https://toneyalexander.github.io/inclusive-color-space/)
 * [2026-08-04, 15:10:37](https://news.ycombinator.com/item?id=49170076) - [Most tech revolutions made work worse for employees](https://www.thisandthat.chat/blog/most-tech-revolutions-made-work-worse-for-employees/)
 * [2026-08-04, 15:05:33](https://news.ycombinator.com/item?id=49170001) - [Online ad giant Adform was hacked, proving once again why ad blockers are needed](https://this.weekinsecurity.com/online-advertising-giant-adform-was-hacked-proving-once-again-why-ad-blockers-are-necessary/)

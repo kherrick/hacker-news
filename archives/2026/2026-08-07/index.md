@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-08-07](index.md)
 
+* [2026-08-07, 17:36:30](https://news.ycombinator.com/item?id=49213754) - [Oracle bans AI-generated code from OpenJDK](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
+* [2026-08-07, 17:05:15](https://news.ycombinator.com/item?id=49213367) - [Canada adds 75,000 new jobs in July, unemployment rate lowest in 2 years](https://www.cbc.ca/news/business/canada-jobs-july-2026-9.7299225)
 * [2026-08-07, 16:44:28](https://news.ycombinator.com/item?id=49213097) - [Tax cuts for the wealthy only benefit the rich (2023)](https://www.lse.ac.uk/research/research-for-the-world/economics/tax-cuts-for-the-wealthy-only-benefit-the-rich-debunking-trickle-down-economics)
 * [2026-08-07, 16:39:36](https://news.ycombinator.com/item?id=49213029) - [Responding to the next frontier of critical cyber capabilities](https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/)
 * [2026-08-07, 16:32:16](https://news.ycombinator.com/item?id=49212928) - [The AI Billboards Are Killing SF](https://sfstandard.com/pacific-standard-time/2026/08/07/sf-ai-billboards-dystopian-not-funny/)
+* [2026-08-07, 16:14:37](https://news.ycombinator.com/item?id=49212698) - [This Mine Predicts Major Wars. It's Opening Again](https://www.bloomberg.com/graphics/2026-opinion-australia-tungsten-mine-us-war-defense-china/)
+* [2026-08-07, 15:57:59](https://news.ycombinator.com/item?id=49212424) - [Adults over 65 will outnumber children by 2029](https://eco3min.fr/en/us-children-vs-adults-65-and-older/)
 * [2026-08-07, 15:24:53](https://news.ycombinator.com/item?id=49211921) - [An all-sky map of half a million supermassive black holes](https://www.sdss.org/black-hole-mapper-release-20/)
 * [2026-08-07, 15:10:34](https://news.ycombinator.com/item?id=49211660) - [Möbius-Strip Crosswords](https://quuxplusone.github.io/blog/2026/08/04/mobius-crossword/)
 * [2026-08-07, 14:55:08](https://news.ycombinator.com/item?id=49211438) - [Iceberg Collapses and Flips over in Ilulissat, Greenland (July 25, 2026) [video]](https://www.youtube.com/watch?v=UufMqwyO7pY)
