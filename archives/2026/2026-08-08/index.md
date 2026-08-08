@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-08](index.md)
 
+* [2026-08-08, 18:09:31](https://news.ycombinator.com/item?id=49224294) - [Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating](https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/)
+* [2026-08-08, 17:42:40](https://news.ycombinator.com/item?id=49224020) - [TinySol, a tiny solitaire game for DOS](https://classicbits.net/coding-and-software/my-software/monosol/)
 * [2026-08-08, 17:27:52](https://news.ycombinator.com/item?id=49223845) - [Amazon Is Creating the Biggest Pollution Source in the Country](https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country)
 * [2026-08-08, 16:49:07](https://news.ycombinator.com/item?id=49223475) - [LinkedIn Feed Blocker](https://github.com/andrewpollack/linkedin-feed-blocker)
 * [2026-08-08, 16:07:00](https://news.ycombinator.com/item?id=49223105) - [Wireblast a 100 Gbps packet generator in Go using AF_XDP](https://toonk.io/index.html)

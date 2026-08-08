@@ -34,6 +34,7 @@
 * [2026-08-06, 06:43:38](https://news.ycombinator.com/item?id=49193314) - [Let's all meet up in the Y2K](https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/)
 * [2026-08-06, 06:24:42](https://news.ycombinator.com/item?id=49193173) - [On non-rooted Android 17, ADB uninstall of system apps fails](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/issues/1426)
 * [2026-08-06, 04:46:35](https://news.ycombinator.com/item?id=49192566) - [Crime Pays but Botany Doesn't](https://www.crimepaysbutbotanydoesnt.com/reading-list)
+* [2026-08-06, 04:44:54](https://news.ycombinator.com/item?id=49192556) - [Python string literals are kinda funny](https://sebsite.pw/w/20260806-pystrings.html)
 * [2026-08-06, 04:02:28](https://news.ycombinator.com/item?id=49192277) - [Ship Safe, an open source security scanner for coding agents](https://github.com/asamassekou10/ship-safe)
 * [2026-08-06, 03:52:56](https://news.ycombinator.com/item?id=49192219) - [Show HN: Wallfacer – A terminal session manager for Claude Code, and more](https://github.com/pradipta/wallfacer)
 * [2026-08-06, 03:40:51](https://news.ycombinator.com/item?id=49192160) - [Governments are making a dangerous bet on the AI boom](https://www.economist.com/leaders/2026/08/05/governments-are-making-a-dangerous-bet-on-the-ai-boom)
