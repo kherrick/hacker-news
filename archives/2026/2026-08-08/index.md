@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-08](index.md)
 
+* [2026-08-08, 15:55:45](https://news.ycombinator.com/item?id=49222993) - [Cruise ship helps stranded skiff, crew in Alaska as Zuckerberg yacht stands by](https://alaskabeacon.com/briefs/cruise-ship-helps-stranded-skiff-and-crew-in-southeast-alaska-as-zuckerberg-yacht-stands-by/)
 * [2026-08-08, 14:07:06](https://news.ycombinator.com/item?id=49221947) - [Sensitive Info Goes into 'No Reply' Emails Constantly. This Guy Sees It All](https://www.wired.com/story/sensitive-info-goes-into-no-reply-emails-constantly-this-guy-sees-it-all/)
 * [2026-08-08, 14:05:56](https://news.ycombinator.com/item?id=49221939) - [Don't use your phone while you poop](https://nate.spot/no-phone-while-poop/)
 * [2026-08-08, 13:55:42](https://news.ycombinator.com/item?id=49221864) - [Gentoo bugzilla closed due AI bot scraper overload](https://social.treehouse.systems/@mgorny/117058483039362779)

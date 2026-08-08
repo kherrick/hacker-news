@@ -67,6 +67,7 @@
 * [2026-08-05, 11:01:37](https://news.ycombinator.com/item?id=49181083) - [Position: LLMs Can't Jump](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt)
 * [2026-08-05, 10:38:57](https://news.ycombinator.com/item?id=49180901) - [No Data Centers in My Backyard](https://jasmi.news/p/no-data-centers-in-my-backyard)
 * [2026-08-05, 09:15:33](https://news.ycombinator.com/item?id=49180407) - [Helsinki Hacker News Meetup](https://calpaterson.com/helsinki-hn.html)
+* [2026-08-05, 09:00:07](https://news.ycombinator.com/item?id=49180302) - [Building a Rust Inference Engine That Matches Llama.cpp](https://www.fratepietro.com/2026/ferrox-rust-gguf-inference-engine/)
 * [2026-08-05, 04:51:43](https://news.ycombinator.com/item?id=49178702) - [The sale of Electronic Arts has been finalized](https://www.bbc.com/news/articles/cjejyl34345o)
 * [2026-08-05, 04:36:44](https://news.ycombinator.com/item?id=49178608) - [Zero-Mem: Zero-Token Memory Operations for LLM Agents](https://arxiv.org/abs/2607.29377)
 * [2026-08-05, 04:07:27](https://news.ycombinator.com/item?id=49178464) - [An SLM trained on $8 ESP32-S3](https://github.com/Carloscodix/qapla)
