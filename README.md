@@ -10,7 +10,7 @@
 * [2026-08-08, 16:04:51](https://news.ycombinator.com/item?id=49223082) - [Fastmail offers EU data region](https://www.fastmail.com/blog/fastmail-offers-eu-data-region/)
 * [2026-08-08, 16:04:36](https://news.ycombinator.com/item?id=49223079) - [Can Intel finally beat ARM on performance per Watt?](https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/)
 * [2026-08-08, 15:34:49](https://news.ycombinator.com/item?id=49222824) - [Message your other Claude Code sessions](https://code.claude.com/docs/en/cross-session-messaging)
-* [2026-08-08, 14:32:33](https://news.ycombinator.com/item?id=49222189) - [\"Code was never the hard part\" is an insult to all programmers](https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers)
+* [2026-08-08, 14:32:33](https://news.ycombinator.com/item?id=49222189) - [“Code was never the hard part” is an insult to all programmers](https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers)
 * [2026-08-08, 13:33:06](https://news.ycombinator.com/item?id=49221711) - [Triton: DirectX 11 Driver for QEMU](https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/)
 * [2026-08-08, 13:28:38](https://news.ycombinator.com/item?id=49221679) - [Voyager 1 FDS Computer Emulator](https://zaneham.github.io/voyager-fds-emulator/)
 * [2026-08-08, 13:26:51](https://news.ycombinator.com/item?id=49221668) - [A domain can now say it is for sale, in DNS](https://specification.website/spec/foundations/for-sale-dns/)
