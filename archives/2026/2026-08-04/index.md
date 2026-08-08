@@ -15,6 +15,7 @@
 * [2026-08-04, 22:22:12](https://news.ycombinator.com/item?id=49176038) - [Pi's Minimalism Is Its Advantage](https://earendil.com/posts/pi-autoresearch-and-databricks/)
 * [2026-08-04, 22:09:43](https://news.ycombinator.com/item?id=49175924) - [DuckDB – Data power tools for your laptop, now in Clojure (2023)](https://techascent.com/blog/just-ducking-around.html)
 * [2026-08-04, 22:01:41](https://news.ycombinator.com/item?id=49175826) - [AI fuels more than half of cybercrime in Africa as digital scams surge: INTERPOL](https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/)
+* [2026-08-04, 21:58:28](https://news.ycombinator.com/item?id=49175774) - [Show HN: Sign language translation with smart glasses](https://github.com/aadisang/hand-wave)
 * [2026-08-04, 21:52:58](https://news.ycombinator.com/item?id=49175717) - [Security Incident INC-2026-07-28-01 – UK AI Security Institute [pdf]](https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf)
 * [2026-08-04, 21:14:19](https://news.ycombinator.com/item?id=49175248) - [Third-party cyber evaluations involving OpenAI models](https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/)
 * [2026-08-04, 21:09:39](https://news.ycombinator.com/item?id=49175192) - [Thanks FedEx, This Is Why We Keep Getting Phished (2024)](https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/)

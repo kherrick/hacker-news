@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-08-08](index.md)
 
+* [2026-08-08, 10:16:01](https://news.ycombinator.com/item?id=49220390) - [Apple Introduces Leasing Program for iPhones and Other Devices](https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html)
+* [2026-08-08, 10:07:06](https://news.ycombinator.com/item?id=49220350) - [New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.](https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html)
+* [2026-08-08, 10:04:25](https://news.ycombinator.com/item?id=49220339) - [US Military's Cyber Command Unit Grapples with Cluster of Deaths by Suicide](https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide)
+* [2026-08-08, 09:58:41](https://news.ycombinator.com/item?id=49220313) - [Europe's free satellite service just made it easier to track wildfires](https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/)
 * [2026-08-08, 07:58:36](https://news.ycombinator.com/item?id=49219775) - [Grindr CEO Says AI Is Doing the Work of 200 Engineers](https://ai-updates.net/grindr-ceo-says-ai-is-doing-the-work-of-200-engineers/)
 * [2026-08-08, 07:04:51](https://news.ycombinator.com/item?id=49219508) - [Hardware backdoors in some x86 CPUs](https://github.com/xoreaxeaxeax/rosenbridge)
 * [2026-08-08, 03:41:56](https://news.ycombinator.com/item?id=49218707) - [Mythos social engineering AISI INC-2026-07-28-01](https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3)
