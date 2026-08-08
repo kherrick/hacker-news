@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-08-08, 00:03:31](https://news.ycombinator.com/item?id=49217629) - [Should AI labs be treated like the owners of dangerous animals?](https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals)
+* [2026-08-08, 01:49:11](https://news.ycombinator.com/item?id=49218179) - [NASA to keep its 48-year-old Voyager 2 probe running for yet another year](https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year)
+* [2026-08-08, 01:12:45](https://news.ycombinator.com/item?id=49217993) - [The Nixpkgs core team has disbanded](https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413)
 * [2026-08-07, 22:24:27](https://news.ycombinator.com/item?id=49216946) - [U.S. Department of Energy Launches the Genesis Open Models Initiative](https://genesisopenmodels.anl.gov/)
 * [2026-08-07, 21:19:57](https://news.ycombinator.com/item?id=49216362) - [Water system controllers don't belong on the internet, says ex-NSA chief](https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070)
 * [2026-08-07, 18:51:45](https://news.ycombinator.com/item?id=49214775) - [Psychological Warfare in Reverse Engineering (2015)](https://github.com/xoreaxeaxeax/repsych)
@@ -23,13 +24,12 @@
 * [2026-08-07, 00:06:28](https://news.ycombinator.com/item?id=49204352) - [New Mexico court orders Meta to pay $567m over harms to children’s mental health](https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta)
 * [2026-08-06, 20:23:11](https://news.ycombinator.com/item?id=49201970) - [AMD acquires Taalas to boost inference performance by etching models in silicon](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344)
 * [2026-08-04, 00:53:12](https://news.ycombinator.com/item?id=49163202) - [Curlese, Five Years Later](https://www.hypertesto.me/en/blog/2026/08/curlese-five-years-later)
-* [2026-08-03, 17:34:40](https://news.ycombinator.com/item?id=49158934) - [Petri Nets as a Music Sequencer](https://blog.stackdump.com/posts/petri-net-sequencer)
 * [2026-08-03, 16:52:36](https://news.ycombinator.com/item?id=49158302) - [Why Are There Statues of Beavers on Top of This Oxford Street Shop?](https://londonist.com/london/history/oxford-street-beavers)
 * [2026-08-03, 16:15:44](https://news.ycombinator.com/item?id=49157770) - [Guarded Methods in OCaml (2025)](https://xvw.lol/en/articles/oop-refl.html)
-* [2026-08-02, 19:56:43](https://news.ycombinator.com/item?id=49147721) - [Energizing a vacuum-tube flip-flop module from a 1948 IBM system](https://www.righto.com/2026/07/ibm-604-trigger-tube-module.html)
 * [2026-08-02, 17:38:34](https://news.ycombinator.com/item?id=49146540) - [Captain Bible Reverse Engineering](https://github.com/peterkelly/captain-bible-re)
 * [2026-08-02, 05:53:50](https://news.ycombinator.com/item?id=49141521) - [Why are all the amounts values negative?](https://bankstatementconverter.com/blog/posts/2026-08-02-why-are-all-amounts-negative/)
 * [2026-08-01, 15:51:15](https://news.ycombinator.com/item?id=49135457) - [Carl's Required Reading](https://carlkolon.com/reading/)
+* [2026-08-01, 15:26:29](https://news.ycombinator.com/item?id=49135261) - [SupererDuperer](https://www.shirtpocket.com/blog/supererduperer)
 
 ## [Archives](archives/index.md)
 

@@ -48,6 +48,7 @@
 * [2026-08-01, 15:46:54](https://news.ycombinator.com/item?id=49135426) - [Kenji/Serious Eats – 30-Min Pressure Cooker Pho Ga](https://www.seriouseats.com/30-minute-pressure-cooker-pho-ga-recipe)
 * [2026-08-01, 15:41:31](https://news.ycombinator.com/item?id=49135383) - [Indexing the Data Lake for Online Point Queries](https://engineering.atspotify.com/2026/7/indexing-the-data-lake-for-online-point-queries)
 * [2026-08-01, 15:39:31](https://news.ycombinator.com/item?id=49135365) - [GitHub has alternatives, but no replacement](https://lalitm.com/post/github-alternatives/)
+* [2026-08-01, 15:26:29](https://news.ycombinator.com/item?id=49135261) - [SupererDuperer](https://www.shirtpocket.com/blog/supererduperer)
 * [2026-08-01, 15:25:21](https://news.ycombinator.com/item?id=49135257) - [Cursor removed cost information from the usage page and CSV export](https://forum.cursor.com/t/usage-page-to-token-amount-what/167153)
 * [2026-08-01, 15:23:15](https://news.ycombinator.com/item?id=49135245) - [Explorative modeling: Train on the best of K guesses](https://alexiglad.github.io/blog/2026/explorative_modeling/)
 * [2026-08-01, 15:15:51](https://news.ycombinator.com/item?id=49135184) - [Toast IDE Gets Markdown Spell Checking](https://github.com/paradise-runner/toast)
