@@ -7,6 +7,7 @@
 * [2026-08-08, 16:07:00](https://news.ycombinator.com/item?id=49223105) - [Wireblast a 100 Gbps packet generator in Go using AF_XDP](https://toonk.io/index.html)
 * [2026-08-08, 16:04:51](https://news.ycombinator.com/item?id=49223082) - [Fastmail offers EU data region](https://www.fastmail.com/blog/fastmail-offers-eu-data-region/)
 * [2026-08-08, 16:04:36](https://news.ycombinator.com/item?id=49223079) - [Can Intel finally beat ARM on performance per Watt?](https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/)
+* [2026-08-08, 15:34:49](https://news.ycombinator.com/item?id=49222824) - [Message your other Claude Code sessions](https://code.claude.com/docs/en/cross-session-messaging)
 * [2026-08-08, 14:32:33](https://news.ycombinator.com/item?id=49222189) - [\"Code was never the hard part\" is an insult to all programmers](https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers)
 * [2026-08-08, 13:55:42](https://news.ycombinator.com/item?id=49221864) - [Gentoo bugzilla closed due AI bot scraper overload](https://social.treehouse.systems/@mgorny/117058483039362779)
 * [2026-08-08, 13:33:06](https://news.ycombinator.com/item?id=49221711) - [Triton: DirectX 11 Driver for QEMU](https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/)
@@ -28,7 +29,6 @@
 * [2026-08-05, 00:43:25](https://news.ycombinator.com/item?id=49177224) - [From your doorbell to your home network](https://adepts.of0x.cc/eufy-doorbell-hacking/)
 * [2026-08-04, 15:03:23](https://news.ycombinator.com/item?id=49169973) - [Preventing Misfolding by Preventing Folding](https://www.science.org/content/blog-post/preventing-misfolding-preventing-folding)
 * [2026-08-04, 01:37:40](https://news.ycombinator.com/item?id=49163466) - [BYOC Is Not Just 'Deploy into Their Cloud'](https://omnistrate.com/blog/byoc-anywhere-the-spectrum-of-bring-your-own-cloud-deployments)
-* [2026-08-02, 04:53:24](https://news.ycombinator.com/item?id=49141236) - [ao486: x86-compatible Verilog core implementing all features of a 486 SX (2014)](https://github.com/alfikpl/ao486)
 * [2026-07-31, 06:00:34](https://news.ycombinator.com/item?id=49119508) - [k-Coloring is Faster than Computing the Chromatic Number](https://arxiv.org/abs/2607.25973)
 
 ## [Archives](archives/index.md)

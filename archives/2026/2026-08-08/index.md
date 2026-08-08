@@ -12,6 +12,7 @@
 * [2026-08-08, 16:04:51](https://news.ycombinator.com/item?id=49223082) - [Fastmail offers EU data region](https://www.fastmail.com/blog/fastmail-offers-eu-data-region/)
 * [2026-08-08, 16:04:36](https://news.ycombinator.com/item?id=49223079) - [Can Intel finally beat ARM on performance per Watt?](https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/)
 * [2026-08-08, 15:55:45](https://news.ycombinator.com/item?id=49222993) - [Cruise ship helps stranded skiff, crew in Alaska as Zuckerberg yacht stands by](https://alaskabeacon.com/briefs/cruise-ship-helps-stranded-skiff-and-crew-in-southeast-alaska-as-zuckerberg-yacht-stands-by/)
+* [2026-08-08, 15:34:49](https://news.ycombinator.com/item?id=49222824) - [Message your other Claude Code sessions](https://code.claude.com/docs/en/cross-session-messaging)
 * [2026-08-08, 14:32:33](https://news.ycombinator.com/item?id=49222189) - [\"Code was never the hard part\" is an insult to all programmers](https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers)
 * [2026-08-08, 14:07:06](https://news.ycombinator.com/item?id=49221947) - [Sensitive Info Goes into 'No Reply' Emails Constantly. This Guy Sees It All](https://www.wired.com/story/sensitive-info-goes-into-no-reply-emails-constantly-this-guy-sees-it-all/)
 * [2026-08-08, 14:05:56](https://news.ycombinator.com/item?id=49221939) - [Don't use your phone while you poop](https://nate.spot/no-phone-while-poop/)
