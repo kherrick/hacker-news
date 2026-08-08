@@ -24,6 +24,7 @@
 * [2026-08-03, 17:34:40](https://news.ycombinator.com/item?id=49158934) - [Petri Nets as a Music Sequencer](https://blog.stackdump.com/posts/petri-net-sequencer)
 * [2026-08-03, 17:27:08](https://news.ycombinator.com/item?id=49158837) - [Leaked Flock Guide Shows How It Teaches Cops to Promote Its Tech](https://www.404media.co/own-the-narrative-leaked-flock-guide-shows-how-it-teaches-cops-to-promote-its-tech/)
 * [2026-08-03, 17:18:06](https://news.ycombinator.com/item?id=49158714) - [The Billable Usage API: programmatic cost visibility for Cloudflare](https://blog.cloudflare.com/billable-usage-api/)
+* [2026-08-03, 17:11:51](https://news.ycombinator.com/item?id=49158626) - [Tell Abu Hureyra (prehistoric archaeological site)](https://en.wikipedia.org/wiki/Tell_Abu_Hureyra)
 * [2026-08-03, 17:08:46](https://news.ycombinator.com/item?id=49158581) - [Smaller, faster, safer: running Kimi and GLM at scale](https://blog.cloudflare.com/smaller-faster-safer-models/)
 * [2026-08-03, 17:02:10](https://news.ycombinator.com/item?id=49158474) - [Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years](https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase)
 * [2026-08-03, 16:54:15](https://news.ycombinator.com/item?id=49158333) - [Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone](https://github.com/leonickson1/Swiftlet)
