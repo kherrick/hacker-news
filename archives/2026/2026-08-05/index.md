@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-05](index.md)
 
+* [2026-08-05, 21:44:42](https://news.ycombinator.com/item?id=49189457) - [Physicist Rigged His Pet Hamster's Wheel to Strava. It Runs Far Every Night](https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/)
 * [2026-08-05, 21:29:23](https://news.ycombinator.com/item?id=49189287) - [The Title Cards in Blade Runner Are Fucking Amazing](https://randsinrepose.com/archives/blade-runner-title-cards/)
 * [2026-08-05, 21:24:45](https://news.ycombinator.com/item?id=49189234) - [Nvidia's Vera Whitepaper Has a Thread Loose](https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread)
 * [2026-08-05, 21:15:40](https://news.ycombinator.com/item?id=49189113) - [Nikita Bier Steps Down as Head of Product at X](https://twitter.com/nikitabier/status/2085105586966827343/)

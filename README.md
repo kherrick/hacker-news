@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-08, 03:41:56](https://news.ycombinator.com/item?id=49218707) - [Mythos social engineering AISI INC-2026-07-28-01](https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3)
 * [2026-08-08, 01:49:11](https://news.ycombinator.com/item?id=49218179) - [NASA to keep its 48-year-old Voyager 2 probe running for yet another year](https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year)
 * [2026-08-08, 01:12:45](https://news.ycombinator.com/item?id=49217993) - [The Nixpkgs core team has disbanded](https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413)
 * [2026-08-07, 22:24:27](https://news.ycombinator.com/item?id=49216946) - [U.S. Department of Energy Launches the Genesis Open Models Initiative](https://genesisopenmodels.anl.gov/)
@@ -22,8 +23,7 @@
 * [2026-08-07, 10:42:07](https://news.ycombinator.com/item?id=49208393) - [Kitesurf: Agent-first browser that runs in V8 isolates](https://blog.cloudflare.com/kitesurf/)
 * [2026-08-07, 07:58:24](https://news.ycombinator.com/item?id=49207236) - [2027 memory capacity is reportedly sold out](https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out)
 * [2026-08-07, 00:06:28](https://news.ycombinator.com/item?id=49204352) - [New Mexico court orders Meta to pay $567m over harms to children’s mental health](https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta)
-* [2026-08-06, 20:23:11](https://news.ycombinator.com/item?id=49201970) - [AMD acquires Taalas to boost inference performance by etching models in silicon](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344)
-* [2026-08-04, 00:53:12](https://news.ycombinator.com/item?id=49163202) - [Curlese, Five Years Later](https://www.hypertesto.me/en/blog/2026/08/curlese-five-years-later)
+* [2026-08-05, 21:44:42](https://news.ycombinator.com/item?id=49189457) - [Physicist Rigged His Pet Hamster's Wheel to Strava. It Runs Far Every Night](https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/)
 * [2026-08-03, 16:52:36](https://news.ycombinator.com/item?id=49158302) - [Why Are There Statues of Beavers on Top of This Oxford Street Shop?](https://londonist.com/london/history/oxford-street-beavers)
 * [2026-08-03, 16:15:44](https://news.ycombinator.com/item?id=49157770) - [Guarded Methods in OCaml (2025)](https://xvw.lol/en/articles/oop-refl.html)
 * [2026-08-02, 17:38:34](https://news.ycombinator.com/item?id=49146540) - [Captain Bible Reverse Engineering](https://github.com/peterkelly/captain-bible-re)
