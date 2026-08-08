@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-08, 22:49:23](https://news.ycombinator.com/item?id=49226636) - [My server is a phone now](https://seg6.space/posts/phone-server/)
 * [2026-08-08, 21:07:10](https://news.ycombinator.com/item?id=49225918) - [Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack](https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/)
 * [2026-08-08, 20:37:24](https://news.ycombinator.com/item?id=49225676) - [The Unreasonable Effectiveness of Mathematics in the Natural Sciences [pdf]](https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf)
 * [2026-08-08, 19:38:08](https://news.ycombinator.com/item?id=49225139) - [Open-source interactive map for the Aug 12 total solar eclipse](https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute)
@@ -22,7 +23,6 @@
 * [2026-08-07, 22:24:27](https://news.ycombinator.com/item?id=49216946) - [U.S. Department of Energy Launches the Genesis Open Models Initiative](https://genesisopenmodels.anl.gov/)
 * [2026-08-07, 20:25:04](https://news.ycombinator.com/item?id=49215786) - [Lost my phone at the office. Claude suggested tracking Bluetooth signal strength](https://twitter.com/un1c0rnioz/status/2084686552299634805)
 * [2026-08-07, 17:56:20](https://news.ycombinator.com/item?id=49214008) - [DeepSeek V4 Flash 0731](https://arcprize.org/results/deepseek-v4-flash-0731)
-* [2026-08-07, 12:42:27](https://news.ycombinator.com/item?id=49209539) - [What happens if an entire class of workers loses faith in their careers](https://www.noemamag.com/why-is-everyone-in-tech-so-sad/)
 * [2026-08-05, 21:44:42](https://news.ycombinator.com/item?id=49189457) - [A physicist rigged his pet hamster’s wheel to upload to Strava](https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/)
 * [2026-08-05, 09:59:34](https://news.ycombinator.com/item?id=49180649) - [Making difficulty curves in games](http://www.davetech.co.uk/difficultycurves)
 * [2026-08-05, 00:43:25](https://news.ycombinator.com/item?id=49177224) - [From your doorbell to your home network](https://adepts.of0x.cc/eufy-doorbell-hacking/)
