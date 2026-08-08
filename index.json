@@ -1,22 +1,22 @@
 [
   [
     [
-      "2026-08-08, 12:16:03",
-      "https://news.ycombinator.com/item?id=49221089"
-    ],
-    [
-      "The CPU is back: Rethinking the CPU-GPU split for LLM inference",
-      "https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference"
-    ]
-  ],
-  [
-    [
       "2026-08-08, 10:57:44",
       "https://news.ycombinator.com/item?id=49220609"
     ],
     [
       "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
       "https://simonwillison.net/2026/Aug/7/openai-timeline/"
+    ]
+  ],
+  [
+    [
+      "2026-08-08, 10:16:07",
+      "https://news.ycombinator.com/item?id=49220392"
+    ],
+    [
+      "Microsoft Edge is about to lock out older ad blockers, just like Chrome did",
+      "https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3"
     ]
   ],
   [
@@ -191,12 +191,32 @@
   ],
   [
     [
+      "2026-08-07, 10:42:07",
+      "https://news.ycombinator.com/item?id=49208393"
+    ],
+    [
+      "Kitesurf: Agent-first browser that runs in V8 isolates",
+      "https://blog.cloudflare.com/kitesurf/"
+    ]
+  ],
+  [
+    [
       "2026-08-07, 07:58:24",
       "https://news.ycombinator.com/item?id=49207236"
     ],
     [
       "2027 memory capacity is reportedly sold out",
       "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out"
+    ]
+  ],
+  [
+    [
+      "2026-08-05, 22:09:46",
+      "https://news.ycombinator.com/item?id=49189726"
+    ],
+    [
+      "No One Can Afford to Make Myst Games Anymore",
+      "https://www.wired.com/story/no-one-can-afford-to-make-myst-games-anymore/"
     ]
   ],
   [
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2026-08-04, 16:32:08",
-      "https://news.ycombinator.com/item?id=49171223"
-    ],
-    [
-      "Workers Drilling in Romania Broke into a Cave Sealed for 5.5M Years",
-      "https://travelandtannins.com/workers-drilling-in-romania-broke-into-a-cave-sealed-for-5-5-million-years-and-found-an-entire-living-world-that-has-never-seen-the-sun/"
-    ]
-  ],
-  [
-    [
       "2026-08-04, 14:21:50",
       "https://news.ycombinator.com/item?id=49169417"
     ],
     [
       "From One Seed to a Thousand Leaves – Merkle's Authentication Tree",
       "https://0xkrt26.github.io/math_behind_security/2026/08/03/merkle-tree.html"
-    ]
-  ],
-  [
-    [
-      "2026-08-03, 17:11:51",
-      "https://news.ycombinator.com/item?id=49158626"
-    ],
-    [
-      "Tell Abu Hureyra (prehistoric archaeological site)",
-      "https://en.wikipedia.org/wiki/Tell_Abu_Hureyra"
     ]
   ],
   [
