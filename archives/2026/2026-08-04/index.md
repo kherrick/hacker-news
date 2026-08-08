@@ -58,6 +58,7 @@
 * [2026-08-04, 15:16:22](https://news.ycombinator.com/item?id=49170165) - [Show HN: Simple algorithm and color space to generate diverse skin tones](https://toneyalexander.github.io/inclusive-color-space/)
 * [2026-08-04, 15:10:37](https://news.ycombinator.com/item?id=49170076) - [Most tech revolutions made work worse for employees](https://www.thisandthat.chat/blog/most-tech-revolutions-made-work-worse-for-employees/)
 * [2026-08-04, 15:05:33](https://news.ycombinator.com/item?id=49170001) - [Online ad giant Adform was hacked, proving once again why ad blockers are needed](https://this.weekinsecurity.com/online-advertising-giant-adform-was-hacked-proving-once-again-why-ad-blockers-are-necessary/)
+* [2026-08-04, 15:03:23](https://news.ycombinator.com/item?id=49169973) - [Preventing Misfolding by Preventing Folding](https://www.science.org/content/blog-post/preventing-misfolding-preventing-folding)
 * [2026-08-04, 14:38:31](https://news.ycombinator.com/item?id=49169640) - [Agent skills that bring team coding standards to Claude Code and Codex](https://github.com/tikalk/adlc-team-skills)
 * [2026-08-04, 14:33:12](https://news.ycombinator.com/item?id=49169566) - [How the 'fecal revolution' changed Earth's ecosystems](https://phys.org/news/2026-08-fecal-revolution-earth-ecosystems.html)
 * [2026-08-04, 14:21:50](https://news.ycombinator.com/item?id=49169417) - [From One Seed to a Thousand Leaves – Merkle's Authentication Tree](https://0xkrt26.github.io/math_behind_security/2026/08/03/merkle-tree.html)
