@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-08-08](index.md)
 
 * [2026-08-08, 21:07:10](https://news.ycombinator.com/item?id=49225918) - [Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack](https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/)
+* [2026-08-08, 20:37:24](https://news.ycombinator.com/item?id=49225676) - [The Unreasonable Effectiveness of Mathematics in the Natural Sciences [pdf]](https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf)
 * [2026-08-08, 19:38:08](https://news.ycombinator.com/item?id=49225139) - [Open-source interactive map for the Aug 12 total solar eclipse](https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute)
 * [2026-08-08, 18:09:31](https://news.ycombinator.com/item?id=49224294) - [Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating](https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/)
 * [2026-08-08, 17:42:40](https://news.ycombinator.com/item?id=49224020) - [TinySol, a tiny solitaire game for DOS](https://classicbits.net/coding-and-software/my-software/monosol/)
