@@ -24,10 +24,10 @@
 * [2026-08-07, 00:06:28](https://news.ycombinator.com/item?id=49204352) - [New Mexico court orders Meta to pay $567m over harms to children’s mental health](https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta)
 * [2026-08-05, 21:44:42](https://news.ycombinator.com/item?id=49189457) - [Physicist Rigged His Pet Hamster's Wheel to Strava. It Runs Far Every Night](https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/)
 * [2026-08-04, 16:32:08](https://news.ycombinator.com/item?id=49171223) - [Workers Drilling in Romania Broke into a Cave Sealed for 5.5M Years](https://travelandtannins.com/workers-drilling-in-romania-broke-into-a-cave-sealed-for-5-5-million-years-and-found-an-entire-living-world-that-has-never-seen-the-sun/)
+* [2026-08-04, 14:21:50](https://news.ycombinator.com/item?id=49169417) - [From One Seed to a Thousand Leaves – Merkle's Authentication Tree](https://0xkrt26.github.io/math_behind_security/2026/08/03/merkle-tree.html)
 * [2026-08-04, 03:46:49](https://news.ycombinator.com/item?id=49164184) - [As a Windows user, it's a surreal way to install a program](https://unsung.aresluna.org/as-a-windows-user-its-a-very-surreal-way-to-install-a-program/)
 * [2026-08-03, 16:15:44](https://news.ycombinator.com/item?id=49157770) - [Guarded Methods in OCaml (2025)](https://xvw.lol/en/articles/oop-refl.html)
 * [2026-08-02, 20:19:16](https://news.ycombinator.com/item?id=49147907) - [Games at the press of a button: The Rip-O-Bot (1989)](https://blog.gingerbeardman.com/2026/08/02/games-at-the-press-of-a-button-the-rip-o-bot/)
-* [2026-08-02, 17:38:34](https://news.ycombinator.com/item?id=49146540) - [Captain Bible Reverse Engineering](https://github.com/peterkelly/captain-bible-re)
 * [2026-08-01, 15:51:15](https://news.ycombinator.com/item?id=49135457) - [Carl's Required Reading](https://carlkolon.com/reading/)
 * [2026-08-01, 15:26:29](https://news.ycombinator.com/item?id=49135261) - [SupererDuperer](https://www.shirtpocket.com/blog/supererduperer)
 
