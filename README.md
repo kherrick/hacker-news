@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-08, 21:07:10](https://news.ycombinator.com/item?id=49225918) - [Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack](https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/)
 * [2026-08-08, 19:38:08](https://news.ycombinator.com/item?id=49225139) - [Open-source interactive map for the Aug 12 total solar eclipse](https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute)
 * [2026-08-08, 18:09:31](https://news.ycombinator.com/item?id=49224294) - [Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating](https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/)
 * [2026-08-08, 17:42:40](https://news.ycombinator.com/item?id=49224020) - [TinySol, a tiny solitaire game for DOS](https://classicbits.net/coding-and-software/my-software/monosol/)
@@ -19,7 +20,6 @@
 * [2026-08-08, 09:18:50](https://news.ycombinator.com/item?id=49220126) - [DeepMind's WeatherNext model achieves breakthrough forecasting cyclones](https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/)
 * [2026-08-08, 07:04:51](https://news.ycombinator.com/item?id=49219508) - [Hardware backdoors in some x86 CPUs](https://github.com/xoreaxeaxeax/rosenbridge)
 * [2026-08-07, 22:24:27](https://news.ycombinator.com/item?id=49216946) - [U.S. Department of Energy Launches the Genesis Open Models Initiative](https://genesisopenmodels.anl.gov/)
-* [2026-08-07, 20:25:04](https://news.ycombinator.com/item?id=49215786) - [Lost my phone at the office. Claude suggested tracking Bluetooth signal strength](https://twitter.com/un1c0rnioz/status/2084686552299634805)
 * [2026-08-07, 18:01:30](https://news.ycombinator.com/item?id=49214098) - [Assembly Hall of Shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)
 * [2026-08-07, 17:56:20](https://news.ycombinator.com/item?id=49214008) - [DeepSeek V4 Flash 0731](https://arcprize.org/results/deepseek-v4-flash-0731)
 * [2026-08-07, 12:42:27](https://news.ycombinator.com/item?id=49209539) - [What happens if an entire class of workers loses faith in their careers](https://www.noemamag.com/why-is-everyone-in-tech-so-sad/)
