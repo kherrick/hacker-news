@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-08-08](index.md)
 
+* [2026-08-08, 14:05:56](https://news.ycombinator.com/item?id=49221939) - [Don't use your phone while you poop](https://nate.spot/no-phone-while-poop/)
+* [2026-08-08, 13:55:42](https://news.ycombinator.com/item?id=49221864) - [Gentoo bugzilla closed due AI bot scraper overload](https://social.treehouse.systems/@mgorny/117058483039362779)
+* [2026-08-08, 13:28:38](https://news.ycombinator.com/item?id=49221679) - [Voyager 1 FDS Computer Emulator](https://zaneham.github.io/voyager-fds-emulator/)
+* [2026-08-08, 13:26:51](https://news.ycombinator.com/item?id=49221668) - [A domain can now say it is for sale, in DNS](https://specification.website/spec/foundations/for-sale-dns/)
+* [2026-08-08, 12:31:11](https://news.ycombinator.com/item?id=49221220) - [Gateway 2000's hilariously bad ads in the 90s (Part II)](https://buttondown.com/suchbadtechads/archive/gateway-2000-part-2/)
 * [2026-08-08, 12:16:03](https://news.ycombinator.com/item?id=49221089) - [The CPU is back: Rethinking the CPU-GPU split for LLM inference](https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference)
 * [2026-08-08, 12:07:25](https://news.ycombinator.com/item?id=49221041) - [The USSR in 100 Photographs](https://trinixy.ru/7039-sssr_v_fotografijakh_100_foto.html)
 * [2026-08-08, 10:57:44](https://news.ycombinator.com/item?id=49220609) - [Now we have a timeline of the OpenAI accidental attack against Hugging Face](https://simonwillison.net/2026/Aug/7/openai-timeline/)
