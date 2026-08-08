@@ -91,5 +91,6 @@
 * [2026-08-04, 05:32:13](https://news.ycombinator.com/item?id=49164649) - [Apple is getting this wrong](https://openai.com/index/apple-is-getting-this-wrong/)
 * [2026-08-04, 03:46:49](https://news.ycombinator.com/item?id=49164184) - [As a Windows user, it's a surreal way to install a program](https://unsung.aresluna.org/as-a-windows-user-its-a-very-surreal-way-to-install-a-program/)
 * [2026-08-04, 02:50:07](https://news.ycombinator.com/item?id=49163879) - [Why Estonians invite strangers into their back gardens each summer](https://www.bbc.com/travel/article/20260731-why-estonians-invite-strangers-into-their-backyards-each-summer)
+* [2026-08-04, 01:37:40](https://news.ycombinator.com/item?id=49163466) - [BYOC Is Not Just 'Deploy into Their Cloud'](https://omnistrate.com/blog/byoc-anywhere-the-spectrum-of-bring-your-own-cloud-deployments)
 * [2026-08-04, 01:22:35](https://news.ycombinator.com/item?id=49163380) - [The Myth, the Mythos, and the Man](https://om.co/2026/06/07/the-myth-the-mythos-and-the-man/)
 * [2026-08-04, 00:53:12](https://news.ycombinator.com/item?id=49163202) - [Curlese, Five Years Later](https://www.hypertesto.me/en/blog/2026/08/curlese-five-years-later)
