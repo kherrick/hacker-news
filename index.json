@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-08, 14:07:06",
+      "https://news.ycombinator.com/item?id=49221947"
+    ],
+    [
+      "Sensitive Info Goes into 'No Reply' Emails Constantly. This Guy Sees It All",
+      "https://www.wired.com/story/sensitive-info-goes-into-no-reply-emails-constantly-this-guy-sees-it-all/"
+    ]
+  ],
+  [
+    [
       "2026-08-08, 14:05:56",
       "https://news.ycombinator.com/item?id=49221939"
     ],
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=49220609"
     ],
     [
-      "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+      "Timeline of the OpenAI accidental attack against Hugging Face",
       "https://simonwillison.net/2026/Aug/7/openai-timeline/"
     ]
   ],
@@ -67,6 +77,16 @@
     [
       "Microsoft Edge is about to lock out older ad blockers, just like Chrome did",
       "https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3"
+    ]
+  ],
+  [
+    [
+      "2026-08-08, 10:04:25",
+      "https://news.ycombinator.com/item?id=49220339"
+    ],
+    [
+      "US Military's cyber command unit grapples with cluster of deaths by suicide",
+      "https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide"
     ]
   ],
   [
@@ -131,6 +151,16 @@
   ],
   [
     [
+      "2026-08-07, 20:25:04",
+      "https://news.ycombinator.com/item?id=49215786"
+    ],
+    [
+      "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+      "https://twitter.com/un1c0rnioz/status/2084686552299634805"
+    ]
+  ],
+  [
+    [
       "2026-08-07, 18:51:14",
       "https://news.ycombinator.com/item?id=49214770"
     ],
@@ -171,32 +201,12 @@
   ],
   [
     [
-      "2026-08-07, 16:39:36",
-      "https://news.ycombinator.com/item?id=49213029"
-    ],
-    [
-      "Responding to the next frontier of critical cyber capabilities",
-      "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/"
-    ]
-  ],
-  [
-    [
       "2026-08-07, 15:24:53",
       "https://news.ycombinator.com/item?id=49211921"
     ],
     [
       "An all-sky map of half a million supermassive black holes",
       "https://www.sdss.org/black-hole-mapper-release-20/"
-    ]
-  ],
-  [
-    [
-      "2026-08-07, 12:45:08",
-      "https://news.ycombinator.com/item?id=49209572"
-    ],
-    [
-      "Radical Study Suggests Life on Earth Arose Twice",
-      "https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice"
     ]
   ],
   [
@@ -221,21 +231,11 @@
   ],
   [
     [
-      "2026-08-05, 22:09:46",
-      "https://news.ycombinator.com/item?id=49189726"
-    ],
-    [
-      "No One Can Afford to Make Myst Games Anymore",
-      "https://www.wired.com/story/no-one-can-afford-to-make-myst-games-anymore/"
-    ]
-  ],
-  [
-    [
       "2026-08-05, 21:44:42",
       "https://news.ycombinator.com/item?id=49189457"
     ],
     [
-      "A Physicist Rigged His Pet Hamster’s Wheel to Upload to Strava",
+      "A physicist rigged his pet hamster’s wheel to upload to Strava",
       "https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/"
     ]
   ],
@@ -247,6 +247,16 @@
     [
       "From One Seed to a Thousand Leaves – Merkle's Authentication Tree",
       "https://0xkrt26.github.io/math_behind_security/2026/08/03/merkle-tree.html"
+    ]
+  ],
+  [
+    [
+      "2026-08-04, 01:37:40",
+      "https://news.ycombinator.com/item?id=49163466"
+    ],
+    [
+      "BYOC Is Not Just 'Deploy into Their Cloud'",
+      "https://omnistrate.com/blog/byoc-anywhere-the-spectrum-of-bring-your-own-cloud-deployments"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "ao486: x86-compatible Verilog core implementing all features of a 486 SX (2014)",
       "https://github.com/alfikpl/ao486"
-    ]
-  ],
-  [
-    [
-      "2026-08-01, 15:51:15",
-      "https://news.ycombinator.com/item?id=49135457"
-    ],
-    [
-      "Carl's Required Reading",
-      "https://carlkolon.com/reading/"
     ]
   ],
   [
