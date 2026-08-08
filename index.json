@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-08, 07:04:51",
+      "https://news.ycombinator.com/item?id=49219508"
+    ],
+    [
+      "Hardware backdoors in some x86 CPUs",
+      "https://github.com/xoreaxeaxeax/rosenbridge"
+    ]
+  ],
+  [
+    [
       "2026-08-08, 03:41:56",
       "https://news.ycombinator.com/item?id=49218707"
     ],
@@ -161,32 +171,12 @@
   ],
   [
     [
-      "2026-08-07, 12:28:55",
-      "https://news.ycombinator.com/item?id=49209385"
-    ],
-    [
-      "Show HN: Wyzer Programming Language",
-      "https://github.com/Wyzer-Lang/wyzer"
-    ]
-  ],
-  [
-    [
       "2026-08-07, 11:00:35",
       "https://news.ycombinator.com/item?id=49208535"
     ],
     [
       "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
       "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/"
-    ]
-  ],
-  [
-    [
-      "2026-08-07, 10:52:21",
-      "https://news.ycombinator.com/item?id=49208458"
-    ],
-    [
-      "Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS",
-      "https://textlog.cc/about"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "Workers Drilling in Romania Broke into a Cave Sealed for 5.5M Years",
       "https://travelandtannins.com/workers-drilling-in-romania-broke-into-a-cave-sealed-for-5-5-million-years-and-found-an-entire-living-world-that-has-never-seen-the-sun/"
+    ]
+  ],
+  [
+    [
+      "2026-08-04, 14:33:12",
+      "https://news.ycombinator.com/item?id=49169566"
+    ],
+    [
+      "How the 'fecal revolution' changed Earth's ecosystems",
+      "https://phys.org/news/2026-08-fecal-revolution-earth-ecosystems.html"
     ]
   ],
   [
