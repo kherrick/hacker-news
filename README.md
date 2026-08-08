@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-08, 19:38:08](https://news.ycombinator.com/item?id=49225139) - [Open-source interactive map for the Aug 12 total solar eclipse](https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute)
 * [2026-08-08, 18:09:31](https://news.ycombinator.com/item?id=49224294) - [Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating](https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/)
 * [2026-08-08, 17:42:40](https://news.ycombinator.com/item?id=49224020) - [TinySol, a tiny solitaire game for DOS](https://classicbits.net/coding-and-software/my-software/monosol/)
 * [2026-08-08, 17:27:52](https://news.ycombinator.com/item?id=49223845) - [Amazon Is Creating the Biggest Pollution Source in the Country](https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country)
 * [2026-08-08, 16:49:07](https://news.ycombinator.com/item?id=49223475) - [LinkedIn Feed Blocker](https://github.com/andrewpollack/linkedin-feed-blocker)
-* [2026-08-08, 16:07:00](https://news.ycombinator.com/item?id=49223105) - [Wireblast a 100 Gbps packet generator in Go using AF_XDP](https://toonk.io/index.html)
 * [2026-08-08, 16:04:51](https://news.ycombinator.com/item?id=49223082) - [Fastmail offers EU data region](https://www.fastmail.com/blog/fastmail-offers-eu-data-region/)
 * [2026-08-08, 16:04:36](https://news.ycombinator.com/item?id=49223079) - [Can Intel finally beat ARM on performance per Watt?](https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/)
 * [2026-08-08, 15:34:49](https://news.ycombinator.com/item?id=49222824) - [Message your other Claude Code sessions](https://code.claude.com/docs/en/cross-session-messaging)
@@ -29,7 +29,7 @@
 * [2026-08-05, 00:43:25](https://news.ycombinator.com/item?id=49177224) - [From your doorbell to your home network](https://adepts.of0x.cc/eufy-doorbell-hacking/)
 * [2026-08-04, 15:03:23](https://news.ycombinator.com/item?id=49169973) - [Preventing Misfolding by Preventing Folding](https://www.science.org/content/blog-post/preventing-misfolding-preventing-folding)
 * [2026-08-04, 01:37:40](https://news.ycombinator.com/item?id=49163466) - [BYOC Is Not Just 'Deploy into Their Cloud'](https://omnistrate.com/blog/byoc-anywhere-the-spectrum-of-bring-your-own-cloud-deployments)
-* [2026-07-31, 06:00:34](https://news.ycombinator.com/item?id=49119508) - [k-Coloring is Faster than Computing the Chromatic Number](https://arxiv.org/abs/2607.25973)
+* [2026-08-01, 12:30:10](https://news.ycombinator.com/item?id=49133850) - [Building a local positioning system to track runners using Ultra-Wideband](https://zeus.ugent.be/blog/25-26/12urenloop-uwb/)
 
 ## [Archives](archives/index.md)
 

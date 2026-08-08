@@ -62,6 +62,7 @@
 * [2026-08-01, 13:02:44](https://news.ycombinator.com/item?id=49134079) - [Google kills Earth AI generator after one day](https://twitter.com/newsfromgoogle/status/2083249962150760610)
 * [2026-08-01, 12:56:54](https://news.ycombinator.com/item?id=49134038) - [Charlie Stross – On the non-use of AI in my writing process](https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html)
 * [2026-08-01, 12:34:25](https://news.ycombinator.com/item?id=49133889) - [RipGrep musl binaries occasionally segfault during very-large searches](https://github.com/BurntSushi/ripgrep/issues/3494)
+* [2026-08-01, 12:30:10](https://news.ycombinator.com/item?id=49133850) - [Building a local positioning system to track runners using Ultra-Wideband](https://zeus.ugent.be/blog/25-26/12urenloop-uwb/)
 * [2026-08-01, 12:17:48](https://news.ycombinator.com/item?id=49133777) - [Astro Loop](https://pubdeer.com/)
 * [2026-08-01, 12:03:36](https://news.ycombinator.com/item?id=49133675) - [Dead Software Walking: The ongoing evolution of relayd(8) and httpd(8)](https://rsadowski.de/posts/2026/dead-software-walking-relayd-and-httpd/)
 * [2026-08-01, 12:00:25](https://news.ycombinator.com/item?id=49133655) - [Kontigo (YC S24) Is Hiring](https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer)
