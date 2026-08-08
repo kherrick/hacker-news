@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-08-08, 14:05:56",
+      "https://news.ycombinator.com/item?id=49221939"
+    ],
+    [
+      "Don't use your phone while you poop",
+      "https://nate.spot/no-phone-while-poop/"
+    ]
+  ],
+  [
+    [
+      "2026-08-08, 13:55:42",
+      "https://news.ycombinator.com/item?id=49221864"
+    ],
+    [
+      "Gentoo bugzilla closed due AI bot scraper overload",
+      "https://social.treehouse.systems/@mgorny/117058483039362779"
+    ]
+  ],
+  [
+    [
+      "2026-08-08, 13:28:38",
+      "https://news.ycombinator.com/item?id=49221679"
+    ],
+    [
+      "Voyager 1 FDS Computer Emulator",
+      "https://zaneham.github.io/voyager-fds-emulator/"
+    ]
+  ],
+  [
+    [
+      "2026-08-08, 13:26:51",
+      "https://news.ycombinator.com/item?id=49221668"
+    ],
+    [
+      "A domain can now say it is for sale, in DNS",
+      "https://specification.website/spec/foundations/for-sale-dns/"
+    ]
+  ],
+  [
+    [
+      "2026-08-08, 12:31:11",
+      "https://news.ycombinator.com/item?id=49221220"
+    ],
+    [
+      "Gateway 2000's hilariously bad ads in the 90s (Part II)",
+      "https://buttondown.com/suchbadtechads/archive/gateway-2000-part-2/"
+    ]
+  ],
+  [
+    [
       "2026-08-08, 10:57:44",
       "https://news.ycombinator.com/item?id=49220609"
     ],
@@ -17,16 +67,6 @@
     [
       "Microsoft Edge is about to lock out older ad blockers, just like Chrome did",
       "https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3"
-    ]
-  ],
-  [
-    [
-      "2026-08-08, 10:07:06",
-      "https://news.ycombinator.com/item?id=49220350"
-    ],
-    [
-      "New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.",
-      "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html"
     ]
   ],
   [
@@ -131,16 +171,6 @@
   ],
   [
     [
-      "2026-08-07, 17:36:30",
-      "https://news.ycombinator.com/item?id=49213754"
-    ],
-    [
-      "Oracle bans AI-generated code from OpenJDK",
-      "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code"
-    ]
-  ],
-  [
-    [
       "2026-08-07, 16:39:36",
       "https://news.ycombinator.com/item?id=49213029"
     ],
@@ -181,26 +211,6 @@
   ],
   [
     [
-      "2026-08-07, 11:00:35",
-      "https://news.ycombinator.com/item?id=49208535"
-    ],
-    [
-      "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
-      "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/"
-    ]
-  ],
-  [
-    [
-      "2026-08-07, 10:42:07",
-      "https://news.ycombinator.com/item?id=49208393"
-    ],
-    [
-      "Kitesurf: Agent-first browser that runs in V8 isolates",
-      "https://blog.cloudflare.com/kitesurf/"
-    ]
-  ],
-  [
-    [
       "2026-08-07, 07:58:24",
       "https://news.ycombinator.com/item?id=49207236"
     ],
@@ -227,16 +237,6 @@
     [
       "A Physicist Rigged His Pet Hamster’s Wheel to Upload to Strava",
       "https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/"
-    ]
-  ],
-  [
-    [
-      "2026-08-04, 21:58:28",
-      "https://news.ycombinator.com/item?id=49175774"
-    ],
-    [
-      "Show HN: Sign language translation with smart glasses",
-      "https://github.com/aadisang/hand-wave"
     ]
   ],
   [
