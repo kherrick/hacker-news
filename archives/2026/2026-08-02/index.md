@@ -33,6 +33,7 @@
 * [2026-08-02, 18:52:22](https://news.ycombinator.com/item?id=49147209) - [Microsoft raises Xbox prices by up to 43%](https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros)
 * [2026-08-02, 18:21:45](https://news.ycombinator.com/item?id=49146960) - [The Myth of Snow Leopard](https://www.rubenerd.au/the-myth-of-snow-leopard/)
 * [2026-08-02, 17:45:51](https://news.ycombinator.com/item?id=49146605) - [Harvesting SSH Credentials: Insights from My Honeypot Network](https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/)
+* [2026-08-02, 17:38:34](https://news.ycombinator.com/item?id=49146540) - [Captain Bible Reverse Engineering](https://github.com/peterkelly/captain-bible-re)
 * [2026-08-02, 17:19:47](https://news.ycombinator.com/item?id=49146372) - [The Coldcard Disaster Gets Worse: The Hack May Have Reached $88.6M](https://medium.com/mountain-movers/the-coldcard-disaster-gets-worse-the-hack-may-have-reached-88-6-af507b028594)
 * [2026-08-02, 17:05:54](https://news.ycombinator.com/item?id=49146267) - [Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark](https://github.com/graham33/nixos-dgx-spark)
 * [2026-08-02, 17:03:02](https://news.ycombinator.com/item?id=49146238) - [Pushes to arch AUR are suspendended right now.](https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/YPJ3FQYJTJXXY3RUXCYLMHUKHLIUNVFF/)
