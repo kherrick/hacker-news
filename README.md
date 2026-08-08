@@ -26,8 +26,8 @@
 * [2026-08-04, 16:32:08](https://news.ycombinator.com/item?id=49171223) - [Workers Drilling in Romania Broke into a Cave Sealed for 5.5M Years](https://travelandtannins.com/workers-drilling-in-romania-broke-into-a-cave-sealed-for-5-5-million-years-and-found-an-entire-living-world-that-has-never-seen-the-sun/)
 * [2026-08-04, 03:46:49](https://news.ycombinator.com/item?id=49164184) - [As a Windows user, it's a surreal way to install a program](https://unsung.aresluna.org/as-a-windows-user-its-a-very-surreal-way-to-install-a-program/)
 * [2026-08-03, 16:15:44](https://news.ycombinator.com/item?id=49157770) - [Guarded Methods in OCaml (2025)](https://xvw.lol/en/articles/oop-refl.html)
+* [2026-08-02, 20:19:16](https://news.ycombinator.com/item?id=49147907) - [Games at the press of a button: The Rip-O-Bot (1989)](https://blog.gingerbeardman.com/2026/08/02/games-at-the-press-of-a-button-the-rip-o-bot/)
 * [2026-08-02, 17:38:34](https://news.ycombinator.com/item?id=49146540) - [Captain Bible Reverse Engineering](https://github.com/peterkelly/captain-bible-re)
-* [2026-08-02, 05:53:50](https://news.ycombinator.com/item?id=49141521) - [Why are all the amounts values negative?](https://bankstatementconverter.com/blog/posts/2026-08-02-why-are-all-amounts-negative/)
 * [2026-08-01, 15:51:15](https://news.ycombinator.com/item?id=49135457) - [Carl's Required Reading](https://carlkolon.com/reading/)
 * [2026-08-01, 15:26:29](https://news.ycombinator.com/item?id=49135261) - [SupererDuperer](https://www.shirtpocket.com/blog/supererduperer)
 
