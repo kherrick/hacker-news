@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-08-08, 12:07:25",
-      "https://news.ycombinator.com/item?id=49221041"
+      "2026-08-08, 12:16:03",
+      "https://news.ycombinator.com/item?id=49221089"
     ],
     [
-      "The USSR in 100 Photographs",
-      "https://trinixy.ru/7039-sssr_v_fotografijakh_100_foto.html"
+      "The CPU is back: Rethinking the CPU-GPU split for LLM inference",
+      "https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference"
     ]
   ],
   [
@@ -21,32 +21,12 @@
   ],
   [
     [
-      "2026-08-08, 10:16:01",
-      "https://news.ycombinator.com/item?id=49220390"
-    ],
-    [
-      "Apple Introduces Leasing Program for iPhones and Other Devices",
-      "https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html"
-    ]
-  ],
-  [
-    [
       "2026-08-08, 10:07:06",
       "https://news.ycombinator.com/item?id=49220350"
     ],
     [
       "New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.",
       "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html"
-    ]
-  ],
-  [
-    [
-      "2026-08-08, 10:04:25",
-      "https://news.ycombinator.com/item?id=49220339"
-    ],
-    [
-      "US Military's Cyber Command Unit Grapples with Cluster of Deaths by Suicide",
-      "https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide"
     ]
   ],
   [
@@ -201,6 +181,16 @@
   ],
   [
     [
+      "2026-08-07, 11:00:35",
+      "https://news.ycombinator.com/item?id=49208535"
+    ],
+    [
+      "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
+      "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/"
+    ]
+  ],
+  [
+    [
       "2026-08-07, 07:58:24",
       "https://news.ycombinator.com/item?id=49207236"
     ],
@@ -257,6 +247,16 @@
     [
       "Tell Abu Hureyra (prehistoric archaeological site)",
       "https://en.wikipedia.org/wiki/Tell_Abu_Hureyra"
+    ]
+  ],
+  [
+    [
+      "2026-08-02, 06:18:42",
+      "https://news.ycombinator.com/item?id=49141642"
+    ],
+    [
+      "Show HN: Rotating torus in terminal (but with kitty graphics protocol)",
+      "https://andreadimatteo.com/torus-v0-5.html"
     ]
   ],
   [
