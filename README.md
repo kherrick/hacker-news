@@ -20,7 +20,6 @@
 * [2026-08-07, 18:25:17](https://news.ycombinator.com/item?id=49214468) - [Managing AI Coding Costs at Scale](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
 * [2026-08-07, 18:01:30](https://news.ycombinator.com/item?id=49214098) - [Assembly Hall of Shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)
 * [2026-08-07, 17:56:20](https://news.ycombinator.com/item?id=49214008) - [DeepSeek V4 Flash 0731](https://arcprize.org/results/deepseek-v4-flash-0731)
-* [2026-08-07, 15:24:53](https://news.ycombinator.com/item?id=49211921) - [An all-sky map of half a million supermassive black holes](https://www.sdss.org/black-hole-mapper-release-20/)
 * [2026-08-07, 12:42:27](https://news.ycombinator.com/item?id=49209539) - [What happens if an entire class of workers loses faith in their careers](https://www.noemamag.com/why-is-everyone-in-tech-so-sad/)
 * [2026-08-07, 07:58:24](https://news.ycombinator.com/item?id=49207236) - [2027 memory capacity is reportedly sold out](https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out)
 * [2026-08-05, 21:44:42](https://news.ycombinator.com/item?id=49189457) - [A physicist rigged his pet hamster’s wheel to upload to Strava](https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/)
@@ -28,6 +27,7 @@
 * [2026-08-04, 01:37:40](https://news.ycombinator.com/item?id=49163466) - [BYOC Is Not Just 'Deploy into Their Cloud'](https://omnistrate.com/blog/byoc-anywhere-the-spectrum-of-bring-your-own-cloud-deployments)
 * [2026-08-02, 06:18:42](https://news.ycombinator.com/item?id=49141642) - [Show HN: Rotating torus in terminal (but with kitty graphics protocol)](https://andreadimatteo.com/torus-v0-5.html)
 * [2026-08-02, 04:53:24](https://news.ycombinator.com/item?id=49141236) - [ao486: x86-compatible Verilog core implementing all features of a 486 SX (2014)](https://github.com/alfikpl/ao486)
+* [2026-08-01, 15:51:15](https://news.ycombinator.com/item?id=49135457) - [Carl's Required Reading](https://carlkolon.com/reading/)
 * [2026-08-01, 15:26:29](https://news.ycombinator.com/item?id=49135261) - [SupererDuperer](https://www.shirtpocket.com/blog/supererduperer)
 * [2026-07-31, 06:00:34](https://news.ycombinator.com/item?id=49119508) - [k-Coloring is Faster than Computing the Chromatic Number](https://arxiv.org/abs/2607.25973)
 
