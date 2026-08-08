@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-08-08, 14:07:06",
-      "https://news.ycombinator.com/item?id=49221947"
+      "2026-08-08, 15:55:45",
+      "https://news.ycombinator.com/item?id=49222993"
     ],
     [
-      "Sensitive Info Goes into 'No Reply' Emails Constantly. This Guy Sees It All",
-      "https://www.wired.com/story/sensitive-info-goes-into-no-reply-emails-constantly-this-guy-sees-it-all/"
+      "Cruise ship helps stranded skiff, crew in Alaska as Zuckerberg yacht stands by",
+      "https://alaskabeacon.com/briefs/cruise-ship-helps-stranded-skiff-and-crew-in-southeast-alaska-as-zuckerberg-yacht-stands-by/"
     ]
   ],
   [
@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2026-08-07, 18:25:17",
-      "https://news.ycombinator.com/item?id=49214468"
-    ],
-    [
-      "Managing AI Coding Costs at Scale",
-      "https://www.databricks.com/blog/managing-ai-coding-costs-scale"
-    ]
-  ],
-  [
-    [
       "2026-08-07, 18:01:30",
       "https://news.ycombinator.com/item?id=49214098"
     ],
@@ -227,6 +217,16 @@
     [
       "A physicist rigged his pet hamster’s wheel to upload to Strava",
       "https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/"
+    ]
+  ],
+  [
+    [
+      "2026-08-05, 09:00:07",
+      "https://news.ycombinator.com/item?id=49180302"
+    ],
+    [
+      "Building a Rust Inference Engine That Matches Llama.cpp",
+      "https://www.fratepietro.com/2026/ferrox-rust-gguf-inference-engine/"
     ]
   ],
   [
