@@ -1,32 +1,12 @@
 [
   [
     [
-      "2026-08-08, 07:58:36",
-      "https://news.ycombinator.com/item?id=49219775"
-    ],
-    [
-      "Grindr CEO Says AI Is Doing the Work of 200 Engineers",
-      "https://ai-updates.net/grindr-ceo-says-ai-is-doing-the-work-of-200-engineers/"
-    ]
-  ],
-  [
-    [
       "2026-08-08, 07:04:51",
       "https://news.ycombinator.com/item?id=49219508"
     ],
     [
       "Hardware backdoors in some x86 CPUs",
       "https://github.com/xoreaxeaxeax/rosenbridge"
-    ]
-  ],
-  [
-    [
-      "2026-08-08, 03:41:56",
-      "https://news.ycombinator.com/item?id=49218707"
-    ],
-    [
-      "Mythos social engineering AISI INC-2026-07-28-01",
-      "https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3"
     ]
   ],
   [
@@ -221,6 +201,16 @@
   ],
   [
     [
+      "2026-08-06, 20:23:11",
+      "https://news.ycombinator.com/item?id=49201970"
+    ],
+    [
+      "AMD acquires Taalas to boost inference performance by etching models in silicon",
+      "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344"
+    ]
+  ],
+  [
+    [
       "2026-08-05, 21:44:42",
       "https://news.ycombinator.com/item?id=49189457"
     ],
@@ -247,6 +237,16 @@
     [
       "From One Seed to a Thousand Leaves – Merkle's Authentication Tree",
       "https://0xkrt26.github.io/math_behind_security/2026/08/03/merkle-tree.html"
+    ]
+  ],
+  [
+    [
+      "2026-08-03, 17:11:51",
+      "https://news.ycombinator.com/item?id=49158626"
+    ],
+    [
+      "Tell Abu Hureyra (prehistoric archaeological site)",
+      "https://en.wikipedia.org/wiki/Tell_Abu_Hureyra"
     ]
   ],
   [
