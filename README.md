@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-08, 12:07:25](https://news.ycombinator.com/item?id=49221041) - [The USSR in 100 Photographs](https://trinixy.ru/7039-sssr_v_fotografijakh_100_foto.html)
 * [2026-08-08, 10:57:44](https://news.ycombinator.com/item?id=49220609) - [Now we have a timeline of the OpenAI accidental attack against Hugging Face](https://simonwillison.net/2026/Aug/7/openai-timeline/)
 * [2026-08-08, 10:16:01](https://news.ycombinator.com/item?id=49220390) - [Apple Introduces Leasing Program for iPhones and Other Devices](https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html)
 * [2026-08-08, 10:07:06](https://news.ycombinator.com/item?id=49220350) - [New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.](https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html)
@@ -19,7 +20,6 @@
 * [2026-08-07, 15:24:53](https://news.ycombinator.com/item?id=49211921) - [An all-sky map of half a million supermassive black holes](https://www.sdss.org/black-hole-mapper-release-20/)
 * [2026-08-07, 12:45:08](https://news.ycombinator.com/item?id=49209572) - [Radical Study Suggests Life on Earth Arose Twice](https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice)
 * [2026-08-07, 12:42:27](https://news.ycombinator.com/item?id=49209539) - [What happens if an entire class of workers loses faith in their careers](https://www.noemamag.com/why-is-everyone-in-tech-so-sad/)
-* [2026-08-07, 11:00:35](https://news.ycombinator.com/item?id=49208535) - [Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD](https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/)
 * [2026-08-07, 07:58:24](https://news.ycombinator.com/item?id=49207236) - [2027 memory capacity is reportedly sold out](https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out)
 * [2026-08-05, 21:44:42](https://news.ycombinator.com/item?id=49189457) - [A Physicist Rigged His Pet Hamster’s Wheel to Upload to Strava](https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/)
 * [2026-08-04, 21:58:28](https://news.ycombinator.com/item?id=49175774) - [Show HN: Sign language translation with smart glasses](https://github.com/aadisang/hand-wave)
