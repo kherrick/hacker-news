@@ -105,6 +105,7 @@
 * [2026-07-31, 06:37:42](https://news.ycombinator.com/item?id=49119751) - [Show HN: A Handwritten Blogging Platform](https://handwritten.blog/)
 * [2026-07-31, 06:25:48](https://news.ycombinator.com/item?id=49119671) - [Beauty in my backyard](https://worksinprogress.co/issue/beauty-in-my-backyard/)
 * [2026-07-31, 06:08:36](https://news.ycombinator.com/item?id=49119559) - [DeepSeek-V4-Flash Update](https://api-docs.deepseek.com/updates/)
+* [2026-07-31, 06:00:34](https://news.ycombinator.com/item?id=49119508) - [k-Coloring is Faster than Computing the Chromatic Number](https://arxiv.org/abs/2607.25973)
 * [2026-07-31, 05:45:13](https://news.ycombinator.com/item?id=49119425) - [Show HN: Gander, an Android file viewer that asks for no permissions at all](https://github.com/mokshablr/gander)
 * [2026-07-31, 05:26:13](https://news.ycombinator.com/item?id=49119322) - [Human Honeypot](https://human2llm.pages.dev/)
 * [2026-07-31, 05:17:29](https://news.ycombinator.com/item?id=49119274) - [Show HN: What should the GUI for AI agents look like?](https://marbleos.com/demo)
