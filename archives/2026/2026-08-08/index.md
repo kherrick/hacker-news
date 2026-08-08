@@ -7,6 +7,7 @@
 * [2026-08-08, 12:16:03](https://news.ycombinator.com/item?id=49221089) - [The CPU is back: Rethinking the CPU-GPU split for LLM inference](https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference)
 * [2026-08-08, 12:07:25](https://news.ycombinator.com/item?id=49221041) - [The USSR in 100 Photographs](https://trinixy.ru/7039-sssr_v_fotografijakh_100_foto.html)
 * [2026-08-08, 10:57:44](https://news.ycombinator.com/item?id=49220609) - [Now we have a timeline of the OpenAI accidental attack against Hugging Face](https://simonwillison.net/2026/Aug/7/openai-timeline/)
+* [2026-08-08, 10:16:07](https://news.ycombinator.com/item?id=49220392) - [Microsoft Edge is about to lock out older ad blockers, just like Chrome did](https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3)
 * [2026-08-08, 10:16:01](https://news.ycombinator.com/item?id=49220390) - [Apple Introduces Leasing Program for iPhones and Other Devices](https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html)
 * [2026-08-08, 10:07:06](https://news.ycombinator.com/item?id=49220350) - [New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.](https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html)
 * [2026-08-08, 10:04:25](https://news.ycombinator.com/item?id=49220339) - [US Military's Cyber Command Unit Grapples with Cluster of Deaths by Suicide](https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide)
