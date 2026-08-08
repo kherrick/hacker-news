@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2026-08-08, 15:34:49",
+      "https://news.ycombinator.com/item?id=49222824"
+    ],
+    [
+      "Message your other Claude Code sessions",
+      "https://code.claude.com/docs/en/cross-session-messaging"
+    ]
+  ],
+  [
+    [
       "2026-08-08, 14:32:33",
       "https://news.ycombinator.com/item?id=49222189"
     ],
@@ -277,16 +287,6 @@
     [
       "BYOC Is Not Just 'Deploy into Their Cloud'",
       "https://omnistrate.com/blog/byoc-anywhere-the-spectrum-of-bring-your-own-cloud-deployments"
-    ]
-  ],
-  [
-    [
-      "2026-08-02, 04:53:24",
-      "https://news.ycombinator.com/item?id=49141236"
-    ],
-    [
-      "ao486: x86-compatible Verilog core implementing all features of a 486 SX (2014)",
-      "https://github.com/alfikpl/ao486"
     ]
   ],
   [
