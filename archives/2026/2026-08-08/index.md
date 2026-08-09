@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-08](index.md)
 
+* [2026-08-08, 23:09:07](https://news.ycombinator.com/item?id=49226767) - [Depression has tripled in the last 15 years. Arthur Brooks about the cause](https://bigthink.com/series/full-interview/meaning-crisis-brooks/)
 * [2026-08-08, 22:49:23](https://news.ycombinator.com/item?id=49226636) - [My server is a phone now](https://seg6.space/posts/phone-server/)
 * [2026-08-08, 21:07:10](https://news.ycombinator.com/item?id=49225918) - [Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack](https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/)
 * [2026-08-08, 20:37:24](https://news.ycombinator.com/item?id=49225676) - [The Unreasonable Effectiveness of Mathematics in the Natural Sciences [pdf]](https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf)
