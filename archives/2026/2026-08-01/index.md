@@ -18,6 +18,7 @@
 * [2026-08-01, 21:02:07](https://news.ycombinator.com/item?id=49138443) - [YC founder asks desperate job seekers to tattoo themselves for an interview](https://sfstandard.com/2026/07/30/lemonlime-tattoo-job-interview/)
 * [2026-08-01, 20:45:12](https://news.ycombinator.com/item?id=49138302) - [Seedance 2.5](https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5)
 * [2026-08-01, 20:33:27](https://news.ycombinator.com/item?id=49138188) - [Diátaxis](https://diataxis.fr/)
+* [2026-08-01, 20:24:12](https://news.ycombinator.com/item?id=49138084) - [Uber SubmitQueue: a high-performance speculative merge queue](https://github.com/uber/submitqueue/)
 * [2026-08-01, 20:20:58](https://news.ycombinator.com/item?id=49138045) - [The Silicon Valley Founder Meat Grinder](https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/)
 * [2026-08-01, 20:07:39](https://news.ycombinator.com/item?id=49137904) - [Cookware Got Worse on Purpose: Who Owns Pyrex and All-Clad Now](https://www.worseonpurpose.com/p/your-cookware-got-worse-on-purpose)
 * [2026-08-01, 19:56:07](https://news.ycombinator.com/item?id=49137808) - [Top amputation surgeon had own legs removed due to fetish. Were patients safe?](https://www.theguardian.com/uk-news/2026/aug/01/neil-hopper-surgeon-amputated-legs-fetish-extreme-mutilation-patients-questions)

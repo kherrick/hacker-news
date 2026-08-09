@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-09, 11:30:48](https://news.ycombinator.com/item?id=49230477) - [Everything You Do Is Being Recorded](https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/)
 * [2026-08-09, 10:17:52](https://news.ycombinator.com/item?id=49230066) - [CSS: The bomb inside your inbox](https://portswigger.net/research/css-the-bomb-inside-your-inbox)
 * [2026-08-09, 10:06:37](https://news.ycombinator.com/item?id=49230022) - [The Alpha 21264 CPU: NT's Greatest RISC (1998)](https://halfhill.com/byte/1998-12_alpha.html)
 * [2026-08-09, 09:29:32](https://news.ycombinator.com/item?id=49229848) - [Show HN: Airy – Free, fast, and simple voice content creation](https://airy.so)
@@ -18,7 +19,6 @@
 * [2026-08-08, 22:32:50](https://news.ycombinator.com/item?id=49226536) - [Shopify replaced Redis with MySQL for inventory reservations–and it scaled](https://shopify.engineering/scaling-inventory-reservations)
 * [2026-08-08, 19:38:08](https://news.ycombinator.com/item?id=49225139) - [Open-source interactive map for the Aug 12 total solar eclipse](https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute)
 * [2026-08-08, 16:04:51](https://news.ycombinator.com/item?id=49223082) - [Fastmail offers EU data region](https://www.fastmail.com/blog/fastmail-offers-eu-data-region/)
-* [2026-08-08, 13:33:06](https://news.ycombinator.com/item?id=49221711) - [Triton: DirectX 11 Driver for QEMU](https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/)
 * [2026-08-08, 13:26:51](https://news.ycombinator.com/item?id=49221668) - [_for-sale DNS records](https://specification.website/spec/foundations/for-sale-dns/)
 * [2026-08-05, 19:24:18](https://news.ycombinator.com/item?id=49187681) - [How to Survive in a Louisiana Swamp](https://unherd.com/2026/08/how-to-survive-on-a-louisiana-swamp/)
 * [2026-08-05, 09:59:34](https://news.ycombinator.com/item?id=49180649) - [Making difficulty curves in games](http://www.davetech.co.uk/difficultycurves)
@@ -27,7 +27,7 @@
 * [2026-08-04, 11:28:47](https://news.ycombinator.com/item?id=49167096) - [Stylized GGX Shading](https://alexandrelamure.github.io/graphics-posts/stylized-ggx-shading.html)
 * [2026-08-03, 11:11:59](https://news.ycombinator.com/item?id=49154190) - [You might want to build your WebApp in Canvas instead of HTML](https://hivekit.io/blog/why-you-might-want-to-build-your-webapp-in-canvas-instead-of-html/)
 * [2026-08-02, 22:40:13](https://news.ycombinator.com/item?id=49149163) - [Unexpected events and prosocial behavior: the Batman effect (2025)](https://www.nature.com/articles/s44184-025-00171-5)
-* [2026-08-02, 14:50:48](https://news.ycombinator.com/item?id=49145193) - [Finding zombies in our systems: A real-world story of CPU bottlenecks](https://medium.com/pinterest-engineering/finding-zombies-in-our-systems-a-real-world-story-of-cpu-bottlenecks-ea4722e552eb)
+* [2026-08-01, 20:24:12](https://news.ycombinator.com/item?id=49138084) - [Uber SubmitQueue: a high-performance speculative merge queue](https://github.com/uber/submitqueue/)
 * [2026-08-01, 12:30:10](https://news.ycombinator.com/item?id=49133850) - [Building a local positioning system to track runners using Ultra-Wideband](https://zeus.ugent.be/blog/25-26/12urenloop-uwb/)
 * [2026-07-28, 06:04:42](https://news.ycombinator.com/item?id=49079995) - [Improving Heuristics for A* Pathfinding](https://www.redblobgames.com/pathfinding/heuristics/differential.html)
 

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-09](index.md)
 
+* [2026-08-09, 11:30:48](https://news.ycombinator.com/item?id=49230477) - [Everything You Do Is Being Recorded](https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/)
 * [2026-08-09, 10:17:52](https://news.ycombinator.com/item?id=49230066) - [CSS: The bomb inside your inbox](https://portswigger.net/research/css-the-bomb-inside-your-inbox)
 * [2026-08-09, 10:06:37](https://news.ycombinator.com/item?id=49230022) - [The Alpha 21264 CPU: NT's Greatest RISC (1998)](https://halfhill.com/byte/1998-12_alpha.html)
 * [2026-08-09, 09:29:32](https://news.ycombinator.com/item?id=49229848) - [Show HN: Airy – Free, fast, and simple voice content creation](https://airy.so)
