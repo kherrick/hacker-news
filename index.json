@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-09, 07:18:03",
+      "https://news.ycombinator.com/item?id=49229160"
+    ],
+    [
+      "Lake Mead hits historic low water level as Colorado River struggles",
+      "https://apnews.com/article/colorado-river-lake-mead-record-low-fa402842e76ed624f71360f467b2579d"
+    ]
+  ],
+  [
+    [
       "2026-08-09, 05:23:41",
       "https://news.ycombinator.com/item?id=49228663"
     ],
@@ -111,6 +121,16 @@
   ],
   [
     [
+      "2026-08-08, 22:36:25",
+      "https://news.ycombinator.com/item?id=49226563"
+    ],
+    [
+      "Should you stop cracking your knuckles?",
+      "https://www.bbc.com/future/article/20260807-should-i-stop-cracking-my-knuckles"
+    ]
+  ],
+  [
+    [
       "2026-08-08, 22:32:50",
       "https://news.ycombinator.com/item?id=49226536"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2026-08-07, 20:25:04",
-      "https://news.ycombinator.com/item?id=49215786"
-    ],
-    [
-      "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-      "https://twitter.com/un1c0rnioz/status/2084686552299634805"
-    ]
-  ],
-  [
-    [
       "2026-08-05, 09:59:34",
       "https://news.ycombinator.com/item?id=49180649"
     ],
@@ -231,21 +241,11 @@
   ],
   [
     [
-      "2026-08-03, 19:35:12",
-      "https://news.ycombinator.com/item?id=49160383"
-    ],
-    [
-      "When Feature Flags Do and Don't Make Sense",
-      "https://software.rajivprab.com/2019/12/19/when-feature-flags-do-and-dont-make-sense/"
-    ]
-  ],
-  [
-    [
       "2026-08-03, 04:13:48",
       "https://news.ycombinator.com/item?id=49151146"
     ],
     [
-      "DDisasm: Reversible (bi-directional) Disassembler",
+      "Datalog Disassembly",
       "https://github.com/GrammaTech/ddisasm"
     ]
   ],
