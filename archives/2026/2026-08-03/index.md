@@ -45,6 +45,7 @@
 * [2026-08-03, 15:00:54](https://news.ycombinator.com/item?id=49156683) - [Ask HN: Who is hiring? (August 2026)](https://news.ycombinator.com/item?id=49156683)
 * [2026-08-03, 15:00:54](https://news.ycombinator.com/item?id=49156682) - [Ask HN: Who wants to be hired? (August 2026)](https://news.ycombinator.com/item?id=49156682)
 * [2026-08-03, 14:57:46](https://news.ycombinator.com/item?id=49156650) - [Flock's CEO Faced Me After Its Cameras Led to My Wrongful Stop](https://www.thedrive.com/podcast/flocks-ceo-wants-zero-wrongful-stops-i-wasnt-the-first)
+* [2026-08-03, 14:53:53](https://news.ycombinator.com/item?id=49156607) - [Honey, I shrunk the embeddings: Matryoshka vs. PCA](https://dylancastillo.co/posts/matryoshka-vs-pca)
 * [2026-08-03, 14:29:51](https://news.ycombinator.com/item?id=49156299) - [Why does Mail app contact iCloud when sending a non-iCloud email?](https://lapcatsoftware.com/articles/2026/8/2.html)
 * [2026-08-03, 14:20:45](https://news.ycombinator.com/item?id=49156157) - [A quine in Piet – a GIF image that prints itself [video]](https://www.youtube.com/watch?v=GwMtzhjCzyc)
 * [2026-08-03, 14:15:47](https://news.ycombinator.com/item?id=49156111) - [Devtools must be open source](https://blog.exe.dev/devtools-must-be-open-source)

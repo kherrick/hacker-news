@@ -12,6 +12,7 @@
 * [2026-08-09, 11:46:28](https://news.ycombinator.com/item?id=49230550) - [Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space](https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model)
 * [2026-08-09, 11:39:25](https://news.ycombinator.com/item?id=49230514) - [Reviving a four year old reMarkable 2](https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html)
 * [2026-08-09, 11:30:48](https://news.ycombinator.com/item?id=49230477) - [Everything You Do Is Being Recorded](https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/)
+* [2026-08-09, 11:19:31](https://news.ycombinator.com/item?id=49230424) - [Switching to electric stoves can dramatically cut indoor air pollution](https://news.stanford.edu/stories/2025/12/gas-propane-stoves-nitrogen-dioxide-exposure-health-risks-switching-electric)
 * [2026-08-09, 10:17:52](https://news.ycombinator.com/item?id=49230066) - [CSS: The bomb inside your inbox](https://portswigger.net/research/css-the-bomb-inside-your-inbox)
 * [2026-08-09, 10:06:37](https://news.ycombinator.com/item?id=49230022) - [The Alpha 21264 CPU: NT's Greatest RISC (1998)](https://halfhill.com/byte/1998-12_alpha.html)
 * [2026-08-09, 09:29:32](https://news.ycombinator.com/item?id=49229848) - [Show HN: Airy – Free, fast, and simple voice content creation](https://airy.so)
