@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-09](index.md)
 
+* [2026-08-09, 10:06:37](https://news.ycombinator.com/item?id=49230022) - [The Alpha 21264 CPU: NT's Greatest RISC (1998)](https://halfhill.com/byte/1998-12_alpha.html)
 * [2026-08-09, 08:25:10](https://news.ycombinator.com/item?id=49229536) - [How to create electronic Japanese hanko seals for Excel](https://sealkit.app/blog/excel-denshi-inkan-tsukurikata)
 * [2026-08-09, 08:00:51](https://news.ycombinator.com/item?id=49229412) - [Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost](https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/)
 * [2026-08-09, 07:19:58](https://news.ycombinator.com/item?id=49229174) - [There Are Magic Hexagons of Every Order](https://gukov.dev/math/2026/08/02/new-magic-hexagons.html)
@@ -11,6 +12,7 @@
 * [2026-08-09, 05:23:41](https://news.ycombinator.com/item?id=49228663) - [Microsoft Word for Windows 1.1a, Native X64 Port](https://github.com/jmarshall23/msword)
 * [2026-08-09, 04:30:26](https://news.ycombinator.com/item?id=49228458) - [\"The original URL for this prediction will no longer be available in 11 years.\" (2011)](https://longbets.org/601/)
 * [2026-08-09, 04:30:26](https://news.ycombinator.com/item?id=49228458) - [The original URL for this prediction will no longer be available in 11 years (2011)](http://longbets.org/601/)
+* [2026-08-09, 04:24:10](https://news.ycombinator.com/item?id=49228426) - [Why MySpace fans want it back as relaunch hinted](https://www.bbc.com/news/articles/c4g64152v71o)
 * [2026-08-09, 04:03:59](https://news.ycombinator.com/item?id=49228350) - [Illinois Just Told Every Operating System to Start Reporting Your Kid's Age](https://itsfoss.com/news/illinois-age-verification-bill/)
 * [2026-08-09, 03:26:00](https://news.ycombinator.com/item?id=49228166) - [Retraction: The App Store Rejection of the Week That Was a Correct Rejection](https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week)
 * [2026-08-09, 03:13:01](https://news.ycombinator.com/item?id=49228086) - [Real-time MCP interceptor that blocks .env reads and dangerous commands agents](https://marketnow.site/)
