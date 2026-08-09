@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-08-09, 17:27:16",
+      "https://news.ycombinator.com/item?id=49233448"
+    ],
+    [
+      "OpenChamber: An Agentic Development Environment",
+      "https://openchamber.dev/"
+    ]
+  ],
+  [
+    [
+      "2026-08-09, 17:23:22",
+      "https://news.ycombinator.com/item?id=49233423"
+    ],
+    [
+      "Ask HN: What are you working on? (August 2026)",
+      "https://news.ycombinator.com/item?id=49233423"
+    ]
+  ],
+  [
+    [
+      "2026-08-09, 17:22:53",
+      "https://news.ycombinator.com/item?id=49233415"
+    ],
+    [
+      "Google Caught AI Faking Creativity in Every Office in America [video]",
+      "https://www.youtube.com/watch?v=Z_O6Lwj1yjQ"
+    ]
+  ],
+  [
+    [
+      "2026-08-09, 17:19:48",
+      "https://news.ycombinator.com/item?id=49233394"
+    ],
+    [
+      "Production Imminent: 40 Solar-Charging Aptera EVs Coming Soon",
+      "https://frequal.com/aptera/ProductionImminent.html"
+    ]
+  ],
+  [
+    [
+      "2026-08-09, 17:10:05",
+      "https://news.ycombinator.com/item?id=49233306"
+    ],
+    [
+      "Show HN: A replayable A2A jury for tracing how agents influence decisions",
+      "https://github.com/nMaroulis/protolink/tree/main/examples/ai_courtroom"
+    ]
+  ],
+  [
+    [
       "2026-08-09, 16:33:05",
       "https://news.ycombinator.com/item?id=49232942"
     ],
@@ -131,6 +181,16 @@
   ],
   [
     [
+      "2026-08-09, 13:33:59",
+      "https://news.ycombinator.com/item?id=49231279"
+    ],
+    [
+      "Why climate, fertility collapse, and AI compute share the same bottleneck?",
+      "https://bytepith.com/article/slow-squeeze-climate-demographics-and-state-power"
+    ]
+  ],
+  [
+    [
       "2026-08-09, 13:20:43",
       "https://news.ycombinator.com/item?id=49231154"
     ],
@@ -191,26 +251,6 @@
   ],
   [
     [
-      "2026-08-09, 01:23:36",
-      "https://news.ycombinator.com/item?id=49227505"
-    ],
-    [
-      "TheoremDB – A public workspace for machine mathematics",
-      "https://theoremdb.org/"
-    ]
-  ],
-  [
-    [
-      "2026-08-08, 23:37:27",
-      "https://news.ycombinator.com/item?id=49226923"
-    ],
-    [
-      "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
-      "https://os8088.com/"
-    ]
-  ],
-  [
-    [
       "2026-08-08, 23:05:24",
       "https://news.ycombinator.com/item?id=49226742"
     ],
@@ -221,42 +261,12 @@
   ],
   [
     [
-      "2026-08-08, 22:49:23",
-      "https://news.ycombinator.com/item?id=49226636"
-    ],
-    [
-      "My server is a phone now",
-      "https://seg6.space/posts/phone-server/"
-    ]
-  ],
-  [
-    [
-      "2026-08-08, 22:36:25",
-      "https://news.ycombinator.com/item?id=49226563"
-    ],
-    [
-      "Should you stop cracking your knuckles?",
-      "https://www.bbc.com/future/article/20260807-should-i-stop-cracking-my-knuckles"
-    ]
-  ],
-  [
-    [
       "2026-08-08, 22:32:50",
       "https://news.ycombinator.com/item?id=49226536"
     ],
     [
       "We replaced Redis with MySQL for inventory reservations and it scaled",
       "https://shopify.engineering/scaling-inventory-reservations"
-    ]
-  ],
-  [
-    [
-      "2026-08-08, 19:38:08",
-      "https://news.ycombinator.com/item?id=49225139"
-    ],
-    [
-      "Open-source interactive map for the Aug 12 total solar eclipse",
-      "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Crickets as Pets",
       "https://en.wikipedia.org/wiki/Crickets_as_pets"
-    ]
-  ],
-  [
-    [
-      "2026-08-05, 09:59:34",
-      "https://news.ycombinator.com/item?id=49180649"
-    ],
-    [
-      "Making difficulty curves in games",
-      "http://www.davetech.co.uk/difficultycurves"
     ]
   ],
   [
