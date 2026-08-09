@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-08-09](index.md)
 
+* [2026-08-09, 13:20:43](https://news.ycombinator.com/item?id=49231154) - [Mea Culpa – Dark Hours](https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html)
 * [2026-08-09, 13:03:49](https://news.ycombinator.com/item?id=49231022) - [Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta](https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html)
 * [2026-08-09, 12:52:10](https://news.ycombinator.com/item?id=49230954) - [Amazon circumvents Gilroy community vote for AI data center](https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window)
+* [2026-08-09, 12:43:16](https://news.ycombinator.com/item?id=49230891) - [Show HN: A Project Oberon System version running on RISC-V instead of RISC-5](https://github.com/rochus-keller/OberonSystem/tree/op2-rv32)
+* [2026-08-09, 12:01:39](https://news.ycombinator.com/item?id=49230630) - [Why Wall Street Is Ignoring Big Tech's Debt](https://www.youtube.com/watch?v=NufJ7g63KSY)
 * [2026-08-09, 11:46:28](https://news.ycombinator.com/item?id=49230550) - [Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space](https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model)
 * [2026-08-09, 11:39:25](https://news.ycombinator.com/item?id=49230514) - [Reviving a four year old reMarkable 2](https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html)
 * [2026-08-09, 11:30:48](https://news.ycombinator.com/item?id=49230477) - [Everything You Do Is Being Recorded](https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/)
