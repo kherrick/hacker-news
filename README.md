@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-08-09, 22:24:24](https://news.ycombinator.com/item?id=49236781) - [Show HN: Lumabri – What if LLMs worked like Napster?](https://github.com/JustVugg/lumabri)
+* [2026-08-09, 22:00:36](https://news.ycombinator.com/item?id=49236541) - [To Recruit Teachers, School Districts Are Building Homes](https://www.nytimes.com/2026/07/28/business/affordable-housing-schools-teachers.html)
 * [2026-08-09, 21:20:24](https://news.ycombinator.com/item?id=49236033) - [Georgia police officers fired after Flock camera misuse](https://www.wtoc.com/2026/08/07/savannah-police-department-fires-6-employees-over-flock-safety-system-misuse/)
 * [2026-08-09, 20:48:46](https://news.ycombinator.com/item?id=49235697) - [Tuxedo No. 2 – Cocktail recipes](https://tuxedono2.com)
 * [2026-08-09, 20:42:29](https://news.ycombinator.com/item?id=49235641) - [New Zealand lost its music media, and what we're building to replace it](https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media)
@@ -10,7 +10,6 @@
 * [2026-08-09, 20:15:45](https://news.ycombinator.com/item?id=49235347) - [Show HN: Alphabet Soup, a multiplayer game, build the longest word to win](https://alphabetsoup.club)
 * [2026-08-09, 19:43:52](https://news.ycombinator.com/item?id=49235011) - [The tragedy of the commons, AI edition](https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition)
 * [2026-08-09, 19:41:23](https://news.ycombinator.com/item?id=49234980) - [Two wheels, a few tradeoffs, and gas prices](https://blog.raed.dev/posts/motocycle/)
-* [2026-08-09, 19:20:40](https://news.ycombinator.com/item?id=49234724) - [Ransomware gangs skip the CEO, head straight for the 40-something IT manager](https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499)
 * [2026-08-09, 19:16:49](https://news.ycombinator.com/item?id=49234675) - [How I use LLMs to learn complex topics](https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/)
 * [2026-08-09, 18:41:35](https://news.ycombinator.com/item?id=49234271) - [I made tinnitus my friend, then it disappeared [video]](https://mynoise.net/vlog.php?ep=20260803)
 * [2026-08-09, 17:27:16](https://news.ycombinator.com/item?id=49233448) - [OpenChamber: An Agentic Development Environment](https://openchamber.dev/)
@@ -25,6 +24,7 @@
 * [2026-08-09, 11:39:25](https://news.ycombinator.com/item?id=49230514) - [Reviving a four year old reMarkable 2](https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html)
 * [2026-08-09, 11:30:48](https://news.ycombinator.com/item?id=49230477) - [Everything you do is being recorded](https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/)
 * [2026-08-09, 07:19:58](https://news.ycombinator.com/item?id=49229174) - [There Are Magic Hexagons of Every Order](https://gukov.dev/math/2026/08/02/new-magic-hexagons.html)
+* [2026-08-09, 05:23:41](https://news.ycombinator.com/item?id=49228663) - [Microsoft Word for Windows 1.1a, Native X64 Port](https://github.com/jmarshall23/msword)
 * [2026-08-06, 22:41:24](https://news.ycombinator.com/item?id=49203626) - [Andrew Wiles on proving Fermat’s Last Theorem (1995) [video]](https://www.youtube.com/watch?v=GS7CxAtV5Ks)
 * [2026-08-06, 17:08:04](https://news.ycombinator.com/item?id=49199437) - [How Golden Is Silence, Actually?](https://www.newyorker.com/magazine/2026/08/10/silence-kate-mcloughlin-book-review)
 * [2026-08-06, 04:59:47](https://news.ycombinator.com/item?id=49192633) - [Touring the Consensus, Six Months In](https://theconsensus.dev/blog/2026/08/05/touring-the-consensus-six-months-in.html)

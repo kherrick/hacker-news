@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-08-09](index.md)
 
 * [2026-08-09, 22:24:24](https://news.ycombinator.com/item?id=49236781) - [Show HN: Lumabri – What if LLMs worked like Napster?](https://github.com/JustVugg/lumabri)
+* [2026-08-09, 22:00:36](https://news.ycombinator.com/item?id=49236541) - [To Recruit Teachers, School Districts Are Building Homes](https://www.nytimes.com/2026/07/28/business/affordable-housing-schools-teachers.html)
 * [2026-08-09, 21:20:24](https://news.ycombinator.com/item?id=49236033) - [Georgia police officers fired after Flock camera misuse](https://www.wtoc.com/2026/08/07/savannah-police-department-fires-6-employees-over-flock-safety-system-misuse/)
 * [2026-08-09, 21:03:43](https://news.ycombinator.com/item?id=49235859) - [Is it all just vapourware?](https://kirahowe.com/2026/aug/8/is-it-all-just-vapourware)
 * [2026-08-09, 20:48:46](https://news.ycombinator.com/item?id=49235697) - [Tuxedo No. 2 – Cocktail recipes](https://tuxedono2.com)
