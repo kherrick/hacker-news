@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-08-09](index.md)
 
+* [2026-08-09, 17:27:16](https://news.ycombinator.com/item?id=49233448) - [OpenChamber: An Agentic Development Environment](https://openchamber.dev/)
+* [2026-08-09, 17:23:22](https://news.ycombinator.com/item?id=49233423) - [Ask HN: What are you working on? (August 2026)](https://news.ycombinator.com/item?id=49233423)
+* [2026-08-09, 17:22:53](https://news.ycombinator.com/item?id=49233415) - [Google Caught AI Faking Creativity in Every Office in America [video]](https://www.youtube.com/watch?v=Z_O6Lwj1yjQ)
+* [2026-08-09, 17:19:48](https://news.ycombinator.com/item?id=49233394) - [Production Imminent: 40 Solar-Charging Aptera EVs Coming Soon](https://frequal.com/aptera/ProductionImminent.html)
+* [2026-08-09, 17:10:05](https://news.ycombinator.com/item?id=49233306) - [Show HN: A replayable A2A jury for tracing how agents influence decisions](https://github.com/nMaroulis/protolink/tree/main/examples/ai_courtroom)
 * [2026-08-09, 16:33:05](https://news.ycombinator.com/item?id=49232942) - [Banksy works cost public almost £150k](https://www.bbc.co.uk/news/articles/cx2vnny7j5zo)
 * [2026-08-09, 16:24:59](https://news.ycombinator.com/item?id=49232857) - [FCC moves to ban Lidar-equipped foreign drones from US](https://www.tomshardware.com/tech-industry/drones/fcc-moves-to-ban-lidar-equipped-foreign-drones-from-us-classifies-the-technology-as-military-grade-in-a-proposal-that-could-also-hit-thermal-models-and-the-swarms-used-drone-light-shows)
 * [2026-08-09, 15:55:02](https://news.ycombinator.com/item?id=49232570) - [Tech sucks: You have to vote with your wallet, or nothing will change](https://82mhz.net/posts/2026/08/tech-sucks-you-have-to-vote-with-your-wallet-or-nothing-will-change/)
@@ -20,6 +25,7 @@
 * [2026-08-09, 14:30:05](https://news.ycombinator.com/item?id=49231777) - [Show HN: Today's cities on a globe of Earth's tectonic past and future](https://douwe.com/projects/tectonic_globe)
 * [2026-08-09, 14:09:42](https://news.ycombinator.com/item?id=49231586) - [A partial digestion of the HRT counterexample](https://terrytao.wordpress.com/2026/08/06/a-partial-digestion-of-the-hrt-counterexample/)
 * [2026-08-09, 13:47:36](https://news.ycombinator.com/item?id=49231397) - [John C. Lilly on solid state intelligence and the elimination of man (1978)](https://kibotronics.net/unlisted/lilly-machines/)
+* [2026-08-09, 13:33:59](https://news.ycombinator.com/item?id=49231279) - [Why climate, fertility collapse, and AI compute share the same bottleneck?](https://bytepith.com/article/slow-squeeze-climate-demographics-and-state-power)
 * [2026-08-09, 13:20:43](https://news.ycombinator.com/item?id=49231154) - [Mea Culpa – Dark Hours](https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html)
 * [2026-08-09, 13:03:49](https://news.ycombinator.com/item?id=49231022) - [Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta](https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html)
 * [2026-08-09, 12:52:10](https://news.ycombinator.com/item?id=49230954) - [Amazon circumvents Gilroy community vote for AI data center](https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window)
