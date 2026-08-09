@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2026-08-09, 11:46:28",
-      "https://news.ycombinator.com/item?id=49230550"
-    ],
-    [
-      "Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
-      "https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model"
-    ]
-  ],
-  [
-    [
       "2026-08-09, 11:39:25",
       "https://news.ycombinator.com/item?id=49230514"
     ],
@@ -57,6 +47,16 @@
     [
       "Everything You Do Is Being Recorded",
       "https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/"
+    ]
+  ],
+  [
+    [
+      "2026-08-09, 11:19:31",
+      "https://news.ycombinator.com/item?id=49230424"
+    ],
+    [
+      "Switching to electric stoves can dramatically cut indoor air pollution",
+      "https://news.stanford.edu/stories/2025/12/gas-propane-stoves-nitrogen-dioxide-exposure-health-risks-switching-electric"
     ]
   ],
   [
@@ -201,26 +201,6 @@
   ],
   [
     [
-      "2026-08-08, 13:26:51",
-      "https://news.ycombinator.com/item?id=49221668"
-    ],
-    [
-      "_for-sale DNS records",
-      "https://specification.website/spec/foundations/for-sale-dns/"
-    ]
-  ],
-  [
-    [
-      "2026-08-05, 19:24:18",
-      "https://news.ycombinator.com/item?id=49187681"
-    ],
-    [
-      "How to Survive in a Louisiana Swamp",
-      "https://unherd.com/2026/08/how-to-survive-on-a-louisiana-swamp/"
-    ]
-  ],
-  [
-    [
       "2026-08-05, 09:59:34",
       "https://news.ycombinator.com/item?id=49180649"
     ],
@@ -271,6 +251,16 @@
   ],
   [
     [
+      "2026-08-03, 14:53:53",
+      "https://news.ycombinator.com/item?id=49156607"
+    ],
+    [
+      "Honey, I shrunk the embeddings: Matryoshka vs. PCA",
+      "https://dylancastillo.co/posts/matryoshka-vs-pca"
+    ]
+  ],
+  [
+    [
       "2026-08-02, 22:40:13",
       "https://news.ycombinator.com/item?id=49149163"
     ],
@@ -287,6 +277,16 @@
     [
       "Uber SubmitQueue: a high-performance speculative merge queue",
       "https://github.com/uber/submitqueue/"
+    ]
+  ],
+  [
+    [
+      "2026-08-01, 12:30:10",
+      "https://news.ycombinator.com/item?id=49133850"
+    ],
+    [
+      "Building a local positioning system to track runners using Ultra-Wideband",
+      "https://zeus.ugent.be/blog/25-26/12urenloop-uwb/"
     ]
   ],
   [
