@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-08-09, 08:25:10](https://news.ycombinator.com/item?id=49229536) - [How to create electronic Japanese hanko seals for Excel](https://sealkit.app/blog/excel-denshi-inkan-tsukurikata)
+* [2026-08-09, 07:19:58](https://news.ycombinator.com/item?id=49229174) - [There Are Magic Hexagons of Every Order](https://gukov.dev/math/2026/08/02/new-magic-hexagons.html)
 * [2026-08-09, 05:23:41](https://news.ycombinator.com/item?id=49228663) - [Microsoft Word for Windows 1.1a, Native X64 Port](https://github.com/jmarshall23/msword)
 * [2026-08-09, 04:30:26](https://news.ycombinator.com/item?id=49228458) - [The original URL for this prediction will no longer be available in 11 years (2011)](http://longbets.org/601/)
 * [2026-08-09, 04:03:59](https://news.ycombinator.com/item?id=49228350) - [Illinois just told every operating system to start reporting your kid's age](https://itsfoss.com/news/illinois-age-verification-bill/)
@@ -20,7 +20,7 @@
 * [2026-08-08, 13:33:06](https://news.ycombinator.com/item?id=49221711) - [Triton: DirectX 11 Driver for QEMU](https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/)
 * [2026-08-08, 13:26:51](https://news.ycombinator.com/item?id=49221668) - [_for-sale DNS records](https://specification.website/spec/foundations/for-sale-dns/)
 * [2026-08-05, 09:59:34](https://news.ycombinator.com/item?id=49180649) - [Making difficulty curves in games](http://www.davetech.co.uk/difficultycurves)
-* [2026-08-05, 06:42:07](https://news.ycombinator.com/item?id=49179352) - [The Sound and Music of 'Hyper Light Drifter' [video]](https://gdcvault.com/play/1024135/The-Sound-and-Music-of)
+* [2026-08-05, 04:11:13](https://news.ycombinator.com/item?id=49178476) - [The Grid That Doubles the Strength of the Ground](https://practical.engineering/blog/2026/8/4/the-grid-that-doubles-the-strength-of-the-ground)
 * [2026-08-04, 13:00:24](https://news.ycombinator.com/item?id=49168282) - [Protopia](https://kevinkelly.substack.com/p/protopia)
 * [2026-08-04, 11:28:47](https://news.ycombinator.com/item?id=49167096) - [Stylized GGX Shading](https://alexandrelamure.github.io/graphics-posts/stylized-ggx-shading.html)
 * [2026-08-04, 05:42:40](https://news.ycombinator.com/item?id=49164687) - [Assert(): A Modern How To](https://fiberfs.io/blog/assert_a_modern_how_to)
