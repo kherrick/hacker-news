@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-09](index.md)
 
+* [2026-08-09, 16:33:05](https://news.ycombinator.com/item?id=49232942) - [Banksy works cost public almost £150k](https://www.bbc.co.uk/news/articles/cx2vnny7j5zo)
+* [2026-08-09, 16:24:59](https://news.ycombinator.com/item?id=49232857) - [FCC moves to ban Lidar-equipped foreign drones from US](https://www.tomshardware.com/tech-industry/drones/fcc-moves-to-ban-lidar-equipped-foreign-drones-from-us-classifies-the-technology-as-military-grade-in-a-proposal-that-could-also-hit-thermal-models-and-the-swarms-used-drone-light-shows)
 * [2026-08-09, 15:55:02](https://news.ycombinator.com/item?id=49232570) - [Tech sucks: You have to vote with your wallet, or nothing will change](https://82mhz.net/posts/2026/08/tech-sucks-you-have-to-vote-with-your-wallet-or-nothing-will-change/)
 * [2026-08-09, 15:36:52](https://news.ycombinator.com/item?id=49232410) - [Every fast write moves work somewhere else](https://www.shayon.dev/post/2026/220/every-fast-write-moves-work-somewhere-else/)
 * [2026-08-09, 15:31:49](https://news.ycombinator.com/item?id=49232369) - [Show HN: Vibez – Open-Source Rust Based Digital Audio Workstation (DAW)](https://alexanderwanyoike.github.io/vibez/)

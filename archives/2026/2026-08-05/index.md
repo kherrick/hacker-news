@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-08-05](index.md)
 
 * [2026-08-05, 22:09:46](https://news.ycombinator.com/item?id=49189726) - [No One Can Afford to Make Myst Games Anymore](https://www.wired.com/story/no-one-can-afford-to-make-myst-games-anymore/)
+* [2026-08-05, 22:00:43](https://news.ycombinator.com/item?id=49189618) - [Literary Sins](https://www.thedial.world/articles/news/seven-literary-sins)
 * [2026-08-05, 21:44:42](https://news.ycombinator.com/item?id=49189457) - [Physicist Rigged His Pet Hamster's Wheel to Strava. It Runs Far Every Night](https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/)
 * [2026-08-05, 21:29:23](https://news.ycombinator.com/item?id=49189287) - [The Title Cards in Blade Runner Are Fucking Amazing](https://randsinrepose.com/archives/blade-runner-title-cards/)
 * [2026-08-05, 21:24:45](https://news.ycombinator.com/item?id=49189234) - [Nvidia's Vera Whitepaper Has a Thread Loose](https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread)
@@ -46,6 +47,7 @@
 * [2026-08-05, 14:53:29](https://news.ycombinator.com/item?id=49183850) - [Qwen 3.0 Image Pro](https://www.qwencloud.com/models/qwen-image-3.0-pro)
 * [2026-08-05, 14:46:36](https://news.ycombinator.com/item?id=49183750) - [Oracle Just Halved Its Always Free ARM Limits](https://www.cnelecar.com/blog/oracle-always-free-arm-limits-cut-2026/)
 * [2026-08-05, 14:38:13](https://news.ycombinator.com/item?id=49183665) - [The \"Disability Dongle\": Why Silicon Valley Hates Me and You](https://sightlessscribbles.com/disability-dongle/)
+* [2026-08-05, 14:18:10](https://news.ycombinator.com/item?id=49183291) - [Crickets as Pets](https://en.wikipedia.org/wiki/Crickets_as_pets)
 * [2026-08-05, 14:06:39](https://news.ycombinator.com/item?id=49183115) - [Aristotle quotes on virtue, knowledge, and happiness](https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/)
 * [2026-08-05, 14:04:10](https://news.ycombinator.com/item?id=49183079) - [Rubin Observatory's first LSST Camera release: 500k galaxies in the COSMOS field](https://rubinobservatory.org/news/rubin-new-window-cosmos-field)
 * [2026-08-05, 14:04:06](https://news.ycombinator.com/item?id=49183076) - [Intelligence Is Not the Main Bottleneck](https://www.writingruxandrabio.com/p/intelligence-is-not-the-main-bottleneck)
