@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-08-09](index.md)
 
+* [2026-08-09, 05:23:41](https://news.ycombinator.com/item?id=49228663) - [Microsoft Word for Windows 1.1a, Native X64 Port](https://github.com/jmarshall23/msword)
 * [2026-08-09, 04:30:26](https://news.ycombinator.com/item?id=49228458) - [\"The original URL for this prediction will no longer be available in 11 years.\" (2011)](https://longbets.org/601/)
+* [2026-08-09, 04:30:26](https://news.ycombinator.com/item?id=49228458) - [The original URL for this prediction will no longer be available in 11 years (2011)](http://longbets.org/601/)
 * [2026-08-09, 04:03:59](https://news.ycombinator.com/item?id=49228350) - [Illinois Just Told Every Operating System to Start Reporting Your Kid's Age](https://itsfoss.com/news/illinois-age-verification-bill/)
 * [2026-08-09, 03:26:00](https://news.ycombinator.com/item?id=49228166) - [Retraction: The App Store Rejection of the Week That Was a Correct Rejection](https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week)
 * [2026-08-09, 03:13:01](https://news.ycombinator.com/item?id=49228086) - [Real-time MCP interceptor that blocks .env reads and dangerous commands agents](https://marketnow.site/)
