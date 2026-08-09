@@ -6,6 +6,7 @@
 
 * [2026-08-09, 10:17:52](https://news.ycombinator.com/item?id=49230066) - [CSS: The bomb inside your inbox](https://portswigger.net/research/css-the-bomb-inside-your-inbox)
 * [2026-08-09, 10:06:37](https://news.ycombinator.com/item?id=49230022) - [The Alpha 21264 CPU: NT's Greatest RISC (1998)](https://halfhill.com/byte/1998-12_alpha.html)
+* [2026-08-09, 09:29:32](https://news.ycombinator.com/item?id=49229848) - [Show HN: Airy – Free, fast, and simple voice content creation](https://airy.so)
 * [2026-08-09, 08:25:10](https://news.ycombinator.com/item?id=49229536) - [How to create electronic Japanese hanko seals for Excel](https://sealkit.app/blog/excel-denshi-inkan-tsukurikata)
 * [2026-08-09, 08:00:51](https://news.ycombinator.com/item?id=49229412) - [Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost](https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/)
 * [2026-08-09, 07:19:58](https://news.ycombinator.com/item?id=49229174) - [There Are Magic Hexagons of Every Order](https://gukov.dev/math/2026/08/02/new-magic-hexagons.html)
