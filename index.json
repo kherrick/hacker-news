@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-09, 10:17:52",
+      "https://news.ycombinator.com/item?id=49230066"
+    ],
+    [
+      "CSS: The bomb inside your inbox",
+      "https://portswigger.net/research/css-the-bomb-inside-your-inbox"
+    ]
+  ],
+  [
+    [
       "2026-08-09, 10:06:37",
       "https://news.ycombinator.com/item?id=49230022"
     ],
@@ -67,6 +77,16 @@
     [
       "Retraction: The App Store Rejection of the Week That Was a Correct Rejection",
       "https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week"
+    ]
+  ],
+  [
+    [
+      "2026-08-09, 01:49:48",
+      "https://news.ycombinator.com/item?id=49227652"
+    ],
+    [
+      "Incentives are for losers",
+      "https://www.experimental-history.com/p/incentives-are-for-losers"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2026-08-08, 15:34:49",
-      "https://news.ycombinator.com/item?id=49222824"
-    ],
-    [
-      "Message your other Claude Code sessions",
-      "https://code.claude.com/docs/en/cross-session-messaging"
-    ]
-  ],
-  [
-    [
       "2026-08-08, 13:33:06",
       "https://news.ycombinator.com/item?id=49221711"
     ],
@@ -251,6 +261,16 @@
   ],
   [
     [
+      "2026-08-03, 11:11:59",
+      "https://news.ycombinator.com/item?id=49154190"
+    ],
+    [
+      "You might want to build your WebApp in Canvas instead of HTML",
+      "https://hivekit.io/blog/why-you-might-want-to-build-your-webapp-in-canvas-instead-of-html/"
+    ]
+  ],
+  [
+    [
       "2026-08-02, 22:40:13",
       "https://news.ycombinator.com/item?id=49149163"
     ],
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2026-08-02, 14:50:48",
-      "https://news.ycombinator.com/item?id=49145193"
-    ],
-    [
-      "Finding zombies in our systems: A real-world story of CPU bottlenecks",
-      "https://medium.com/pinterest-engineering/finding-zombies-in-our-systems-a-real-world-story-of-cpu-bottlenecks-ea4722e552eb"
-    ]
-  ],
-  [
-    [
       "2026-08-01, 12:30:10",
       "https://news.ycombinator.com/item?id=49133850"
     ],
     [
       "Building a local positioning system to track runners using Ultra-Wideband",
       "https://zeus.ugent.be/blog/25-26/12urenloop-uwb/"
-    ]
-  ],
-  [
-    [
-      "2026-07-28, 12:13:31",
-      "https://news.ycombinator.com/item?id=49082647"
-    ],
-    [
-      "Fixing my tooltip accessibility mistake",
-      "https://jakearchibald.com/2026/my-tooltip-a11y-mistake/"
     ]
   ],
   [
