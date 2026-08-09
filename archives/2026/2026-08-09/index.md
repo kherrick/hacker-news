@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-09](index.md)
 
+* [2026-08-09, 20:13:38](https://news.ycombinator.com/item?id=49235323) - [Poland now 6th-largest EU economy, ahead of Switzerland and Belgium](https://www.euronews.com/business/2026/08/09/poland-now-sixth-largest-eu-economy-ahead-of-switzerland-and-belgium)
+* [2026-08-09, 20:06:51](https://news.ycombinator.com/item?id=49235242) - [Deletes all instances of Microsoft's GDID and prevents minting of new ones](https://github.com/yegors/deGDID)
 * [2026-08-09, 19:20:40](https://news.ycombinator.com/item?id=49234724) - [Ransomware gangs skip the CEO, head straight for the 40-something IT manager](https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499)
 * [2026-08-09, 19:16:49](https://news.ycombinator.com/item?id=49234675) - [I use LLMs to learn complex topics](https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/)
 * [2026-08-09, 18:59:53](https://news.ycombinator.com/item?id=49234506) - [A zero-dependency, ultra-lightweight database time machine for SQLite](https://github.com/nsrht/time-travel-sqlite-debugger)
