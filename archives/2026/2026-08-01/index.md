@@ -6,6 +6,7 @@
 
 * [2026-08-01, 23:44:55](https://news.ycombinator.com/item?id=49139711) - [RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2](https://www.rfc-editor.org/rfc/rfc10015.html)
 * [2026-08-01, 23:19:23](https://news.ycombinator.com/item?id=49139562) - [A stray commit buried multiple levels deep cost me months](https://www.droppedasbaby.com/posts/db-commits/)
+* [2026-08-01, 23:00:06](https://news.ycombinator.com/item?id=49139422) - [Willoughbyland: England's Forgotten South American Colony](https://www.historytoday.com/archive/history-matters/willoughbyland-englands-forgotten-south-american-colony)
 * [2026-08-01, 22:55:52](https://news.ycombinator.com/item?id=49139383) - [Unraveling the mysteries of habit formation](https://www.kyoto-u.ac.jp/en/research-news/2026-07-28)
 * [2026-08-01, 22:52:44](https://news.ycombinator.com/item?id=49139352) - [Morph (YC S23) Is Hiring Member of Technical Stuff](https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff)
 * [2026-08-01, 22:47:24](https://news.ycombinator.com/item?id=49139304) - [Anime User Interfaces](https://animeuserinterface.tumblr.com)

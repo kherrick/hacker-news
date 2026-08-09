@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-08-09](index.md)
 
+* [2026-08-09, 15:55:02](https://news.ycombinator.com/item?id=49232570) - [Tech sucks: You have to vote with your wallet, or nothing will change](https://82mhz.net/posts/2026/08/tech-sucks-you-have-to-vote-with-your-wallet-or-nothing-will-change/)
+* [2026-08-09, 15:21:46](https://news.ycombinator.com/item?id=49232253) - [Taxi drivers rarely die of Alzheimer's](https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650)
 * [2026-08-09, 15:18:25](https://news.ycombinator.com/item?id=49232221) - [Silicon Valley misreads science fiction and undermines democracy](https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/)
+* [2026-08-09, 15:11:20](https://news.ycombinator.com/item?id=49232138) - [Windows 11's built-in Weather app wastes more than 1 GB of RAM](https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html)
 * [2026-08-09, 15:08:51](https://news.ycombinator.com/item?id=49232110) - [Tom Stanton's supersonic trebuchet breaks sound barrier with gravity alone](https://www.techeblog.com/tom-stanton-supersonic-trebuchet/)
 * [2026-08-09, 13:47:36](https://news.ycombinator.com/item?id=49231397) - [John C. Lilly on solid state intelligence and the elimination of man (1978)](https://kibotronics.net/unlisted/lilly-machines/)
 * [2026-08-09, 13:20:43](https://news.ycombinator.com/item?id=49231154) - [Mea Culpa – Dark Hours](https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html)
