@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-08, 23:09:07",
+      "https://news.ycombinator.com/item?id=49226767"
+    ],
+    [
+      "Depression has tripled in the last 15 years. Arthur Brooks about the cause",
+      "https://bigthink.com/series/full-interview/meaning-crisis-brooks/"
+    ]
+  ],
+  [
+    [
       "2026-08-08, 22:49:23",
       "https://news.ycombinator.com/item?id=49226636"
     ],
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=49224294"
     ],
     [
-      "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+      "Danish high schoolers will have to verbally defend written assignments",
       "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/"
     ]
   ],
@@ -57,26 +67,6 @@
     [
       "TinySol, a tiny solitaire game for DOS",
       "https://classicbits.net/coding-and-software/my-software/monosol/"
-    ]
-  ],
-  [
-    [
-      "2026-08-08, 17:27:52",
-      "https://news.ycombinator.com/item?id=49223845"
-    ],
-    [
-      "Amazon Is Creating the Biggest Pollution Source in the Country",
-      "https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country"
-    ]
-  ],
-  [
-    [
-      "2026-08-08, 16:49:07",
-      "https://news.ycombinator.com/item?id=49223475"
-    ],
-    [
-      "LinkedIn Feed Blocker",
-      "https://github.com/andrewpollack/linkedin-feed-blocker"
     ]
   ],
   [
@@ -145,7 +135,7 @@
       "https://news.ycombinator.com/item?id=49221668"
     ],
     [
-      "A domain can now say it is for sale, in DNS",
+      "_for-sale DNS records",
       "https://specification.website/spec/foundations/for-sale-dns/"
     ]
   ],
@@ -275,7 +265,7 @@
       "https://news.ycombinator.com/item?id=49163466"
     ],
     [
-      "BYOC Is Not Just 'Deploy into Their Cloud'",
+      "BYOC Anywhere: The Spectrum of Bring Your Own Cloud Deployments",
       "https://omnistrate.com/blog/byoc-anywhere-the-spectrum-of-bring-your-own-cloud-deployments"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "Building a local positioning system to track runners using Ultra-Wideband",
       "https://zeus.ugent.be/blog/25-26/12urenloop-uwb/"
+    ]
+  ],
+  [
+    [
+      "2026-07-28, 06:04:42",
+      "https://news.ycombinator.com/item?id=49079995"
+    ],
+    [
+      "Improving Heuristics for A* Pathfinding",
+      "https://www.redblobgames.com/pathfinding/heuristics/differential.html"
     ]
   ]
 ]
