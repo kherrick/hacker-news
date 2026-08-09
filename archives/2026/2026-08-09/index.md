@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-08-09](index.md)
 
+* [2026-08-09, 19:20:40](https://news.ycombinator.com/item?id=49234724) - [Ransomware gangs skip the CEO, head straight for the 40-something IT manager](https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499)
+* [2026-08-09, 19:16:49](https://news.ycombinator.com/item?id=49234675) - [I use LLMs to learn complex topics](https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/)
+* [2026-08-09, 18:59:53](https://news.ycombinator.com/item?id=49234506) - [A zero-dependency, ultra-lightweight database time machine for SQLite](https://github.com/nsrht/time-travel-sqlite-debugger)
+* [2026-08-09, 18:51:06](https://news.ycombinator.com/item?id=49234379) - [Saying No](https://rozumem.xyz/posts/19)
 * [2026-08-09, 18:42:09](https://news.ycombinator.com/item?id=49234279) - [If experience is the goal, then you always win](https://www.startingfromnix.com/p/if-experience-is-the-goal-then-you)
 * [2026-08-09, 17:27:16](https://news.ycombinator.com/item?id=49233448) - [OpenChamber: An Agentic Development Environment](https://openchamber.dev/)
 * [2026-08-09, 17:23:22](https://news.ycombinator.com/item?id=49233423) - [Ask HN: What are you working on? (August 2026)](https://news.ycombinator.com/item?id=49233423)
