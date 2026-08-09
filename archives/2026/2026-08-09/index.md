@@ -4,8 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-08-09](index.md)
 
+* [2026-08-09, 20:42:29](https://news.ycombinator.com/item?id=49235641) - [New Zealand lost its music media, and what we're building to replace it](https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media)
+* [2026-08-09, 20:28:54](https://news.ycombinator.com/item?id=49235486) - [Archival Resource Key (Ark) Alliance](https://arks.org/)
+* [2026-08-09, 20:18:44](https://news.ycombinator.com/item?id=49235378) - [The Hacker's Renaissance](https://phrack.org/issues/72/19#article)
+* [2026-08-09, 20:15:52](https://news.ycombinator.com/item?id=49235349) - [How not to turn ideologically crazy](https://blog.andymasley.com/p/the-main-way-ive-seen-people-turn)
+* [2026-08-09, 20:15:45](https://news.ycombinator.com/item?id=49235347) - [Show HN: Alphabet Soup, a multiplayer game, build the longest word to win](https://alphabetsoup.club)
 * [2026-08-09, 20:13:38](https://news.ycombinator.com/item?id=49235323) - [Poland now 6th-largest EU economy, ahead of Switzerland and Belgium](https://www.euronews.com/business/2026/08/09/poland-now-sixth-largest-eu-economy-ahead-of-switzerland-and-belgium)
 * [2026-08-09, 20:06:51](https://news.ycombinator.com/item?id=49235242) - [Deletes all instances of Microsoft's GDID and prevents minting of new ones](https://github.com/yegors/deGDID)
+* [2026-08-09, 19:43:52](https://news.ycombinator.com/item?id=49235011) - [The tragedy of the commons, AI edition](https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition)
+* [2026-08-09, 19:41:23](https://news.ycombinator.com/item?id=49234980) - [Two wheels, a few tradeoffs, and gas prices](https://blog.raed.dev/posts/motocycle/)
 * [2026-08-09, 19:20:40](https://news.ycombinator.com/item?id=49234724) - [Ransomware gangs skip the CEO, head straight for the 40-something IT manager](https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499)
 * [2026-08-09, 19:16:49](https://news.ycombinator.com/item?id=49234675) - [I use LLMs to learn complex topics](https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/)
 * [2026-08-09, 18:59:53](https://news.ycombinator.com/item?id=49234506) - [A zero-dependency, ultra-lightweight database time machine for SQLite](https://github.com/nsrht/time-travel-sqlite-debugger)
