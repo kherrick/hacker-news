@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-09](index.md)
 
+* [2026-08-09, 21:03:43](https://news.ycombinator.com/item?id=49235859) - [Is it all just vapourware?](https://kirahowe.com/2026/aug/8/is-it-all-just-vapourware)
+* [2026-08-09, 20:48:46](https://news.ycombinator.com/item?id=49235697) - [Tuxedo No. 2 – Cocktail recipes](https://tuxedono2.com)
 * [2026-08-09, 20:42:29](https://news.ycombinator.com/item?id=49235641) - [New Zealand lost its music media, and what we're building to replace it](https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media)
 * [2026-08-09, 20:28:54](https://news.ycombinator.com/item?id=49235486) - [Archival Resource Key (Ark) Alliance](https://arks.org/)
 * [2026-08-09, 20:18:44](https://news.ycombinator.com/item?id=49235378) - [The Hacker's Renaissance](https://phrack.org/issues/72/19#article)
@@ -19,6 +21,7 @@
 * [2026-08-09, 18:51:57](https://news.ycombinator.com/item?id=49234393) - [Plug-In Solar Panels Starting to Sprout in U.S. Backyards](https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-balcony-solar.html)
 * [2026-08-09, 18:51:06](https://news.ycombinator.com/item?id=49234379) - [Saying No](https://rozumem.xyz/posts/19)
 * [2026-08-09, 18:42:09](https://news.ycombinator.com/item?id=49234279) - [If experience is the goal, then you always win](https://www.startingfromnix.com/p/if-experience-is-the-goal-then-you)
+* [2026-08-09, 18:41:35](https://news.ycombinator.com/item?id=49234271) - [I Made Tinnitus My Friend (Then It Disappeared)](https://mynoise.net/vlog.php?ep=20260803)
 * [2026-08-09, 17:27:16](https://news.ycombinator.com/item?id=49233448) - [OpenChamber: An Agentic Development Environment](https://openchamber.dev/)
 * [2026-08-09, 17:23:22](https://news.ycombinator.com/item?id=49233423) - [Ask HN: What are you working on? (August 2026)](https://news.ycombinator.com/item?id=49233423)
 * [2026-08-09, 17:22:53](https://news.ycombinator.com/item?id=49233415) - [Google Caught AI Faking Creativity in Every Office in America [video]](https://www.youtube.com/watch?v=Z_O6Lwj1yjQ)

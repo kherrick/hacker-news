@@ -6,6 +6,7 @@
 
 * [2026-08-06, 23:30:03](https://news.ycombinator.com/item?id=49204060) - [Hackers Stalked Me by Hijacking a Smartwatch for Kids](https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/)
 * [2026-08-06, 22:50:09](https://news.ycombinator.com/item?id=49203707) - [Spin audit of SQD/QSCI quantum-chemistry benchmarks on iron–sulfur clusters](https://zenodo.org/records/21359923)
+* [2026-08-06, 22:41:24](https://news.ycombinator.com/item?id=49203626) - [\"I loved every minute of it, however hard it had been\" [video]](https://www.youtube.com/watch?v=GS7CxAtV5Ks)
 * [2026-08-06, 21:52:16](https://news.ycombinator.com/item?id=49203105) - [Welcoming the Nepalese Government to Have I Been Pwned](https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/)
 * [2026-08-06, 21:49:07](https://news.ycombinator.com/item?id=49203059) - [Show HN: Pokémon Emerald Ported to Raspberry Pi Pico 2](https://github.com/mattdeeds/pokeemerald-rp2350)
 * [2026-08-06, 21:30:21](https://news.ycombinator.com/item?id=49202852) - [Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)](https://www.aleksagordic.com/blog/vllm)
