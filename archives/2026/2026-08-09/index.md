@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-08-09](index.md)
 
+* [2026-08-09, 13:03:49](https://news.ycombinator.com/item?id=49231022) - [Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta](https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html)
+* [2026-08-09, 12:52:10](https://news.ycombinator.com/item?id=49230954) - [Amazon circumvents Gilroy community vote for AI data center](https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window)
+* [2026-08-09, 11:46:28](https://news.ycombinator.com/item?id=49230550) - [Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space](https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model)
+* [2026-08-09, 11:39:25](https://news.ycombinator.com/item?id=49230514) - [Reviving a four year old reMarkable 2](https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html)
 * [2026-08-09, 11:30:48](https://news.ycombinator.com/item?id=49230477) - [Everything You Do Is Being Recorded](https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/)
 * [2026-08-09, 10:17:52](https://news.ycombinator.com/item?id=49230066) - [CSS: The bomb inside your inbox](https://portswigger.net/research/css-the-bomb-inside-your-inbox)
 * [2026-08-09, 10:06:37](https://news.ycombinator.com/item?id=49230022) - [The Alpha 21264 CPU: NT's Greatest RISC (1998)](https://halfhill.com/byte/1998-12_alpha.html)
