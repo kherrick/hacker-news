@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-09, 08:00:51](https://news.ycombinator.com/item?id=49229412) - [Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost](https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/)
 * [2026-08-09, 07:19:58](https://news.ycombinator.com/item?id=49229174) - [There Are Magic Hexagons of Every Order](https://gukov.dev/math/2026/08/02/new-magic-hexagons.html)
 * [2026-08-09, 05:23:41](https://news.ycombinator.com/item?id=49228663) - [Microsoft Word for Windows 1.1a, Native X64 Port](https://github.com/jmarshall23/msword)
 * [2026-08-09, 04:30:26](https://news.ycombinator.com/item?id=49228458) - [The original URL for this prediction will no longer be available in 11 years (2011)](http://longbets.org/601/)
@@ -16,7 +17,6 @@
 * [2026-08-08, 19:38:08](https://news.ycombinator.com/item?id=49225139) - [Open-source interactive map for the Aug 12 total solar eclipse](https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute)
 * [2026-08-08, 16:04:51](https://news.ycombinator.com/item?id=49223082) - [Fastmail offers EU data region](https://www.fastmail.com/blog/fastmail-offers-eu-data-region/)
 * [2026-08-08, 15:34:49](https://news.ycombinator.com/item?id=49222824) - [Message your other Claude Code sessions](https://code.claude.com/docs/en/cross-session-messaging)
-* [2026-08-08, 14:32:33](https://news.ycombinator.com/item?id=49222189) - [“Code was never the hard part” is an insult to all programmers](https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers)
 * [2026-08-08, 13:33:06](https://news.ycombinator.com/item?id=49221711) - [Triton: DirectX 11 Driver for QEMU](https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/)
 * [2026-08-08, 13:26:51](https://news.ycombinator.com/item?id=49221668) - [_for-sale DNS records](https://specification.website/spec/foundations/for-sale-dns/)
 * [2026-08-05, 09:59:34](https://news.ycombinator.com/item?id=49180649) - [Making difficulty curves in games](http://www.davetech.co.uk/difficultycurves)
