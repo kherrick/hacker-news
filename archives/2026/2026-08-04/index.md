@@ -65,6 +65,7 @@
 * [2026-08-04, 14:07:30](https://news.ycombinator.com/item?id=49169227) - [It's not a fear of \"AI communism\"; it's a fear of competitive market capitalism](http://observationalepidemiology.blogspot.com/2026/07/its-not-fear-of-ai-communism-its-fear.html)
 * [2026-08-04, 13:43:00](https://news.ycombinator.com/item?id=49168886) - [Germany Records Historic 12B KWh Solar Feed-In in July 2026](https://solarquarter.com/2026/08/03/germany-records-historic-12-billion-kwh-solar-feed-in-in-july-2026/)
 * [2026-08-04, 13:24:03](https://news.ycombinator.com/item?id=49168622) - [How to Make a Nintendo 64 Game in 2026](https://phoboslab.org/log/2026/08/xibalba64-making-of)
+* [2026-08-04, 13:00:24](https://news.ycombinator.com/item?id=49168282) - [Protopia](https://kevinkelly.substack.com/p/protopia)
 * [2026-08-04, 12:01:02](https://news.ycombinator.com/item?id=49167448) - [Xbox goes down. You can't play games you own on disc](https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/)
 * [2026-08-04, 12:00:51](https://news.ycombinator.com/item?id=49167444) - [Roame (YC S23) Is Hiring Lead Engineer](https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer)
 * [2026-08-04, 11:33:32](https://news.ycombinator.com/item?id=49167147) - [Buckminster Fuller: everything I know](https://www.bfi.org/about-fuller/everything-i-know/)
