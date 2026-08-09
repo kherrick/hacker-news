@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-08-03](index.md)
 
 * [2026-08-03, 23:44:19](https://news.ycombinator.com/item?id=49162787) - [Why did we wait so long for the bicycle? (2019)](https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle)
+* [2026-08-03, 23:36:47](https://news.ycombinator.com/item?id=49162740) - [When the apartment listing is too good to be true](https://blog.denv.it/posts/when-the-apartment-listing-is-too-good-to-be-true/)
 * [2026-08-03, 23:24:53](https://news.ycombinator.com/item?id=49162653) - [There Will Come Soft Rains (1950) [pdf]](https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf)
 * [2026-08-03, 22:29:22](https://news.ycombinator.com/item?id=49162299) - [Interviewing Engineers in the AI Era: Lessons from a Year of Rebuilding](https://www.coinbase.com/blog/interviewing-engineers-in-the-ai-era-lessons-from-a-year-of-rebuilding)
 * [2026-08-03, 22:04:49](https://news.ycombinator.com/item?id=49162086) - [Windows XP 2002 for the Itanium: Unbridled rage](https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/)
