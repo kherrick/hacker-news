@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-08-08](index.md)
 
+* [2026-08-08, 23:37:27](https://news.ycombinator.com/item?id=49226923) - [Os8088: A powerful Mac-like OS for the IBM XT, 286, 386](https://os8088.com/)
+* [2026-08-08, 23:19:44](https://news.ycombinator.com/item?id=49226827) - [Title 7 Disparate Impact Liability Makes Almost Everything Presumptively Illegal](https://www.nyujll.com/volume-14/title-vii-disparate-impact-liability-makes-almost-everything-presumptively-illegal)
 * [2026-08-08, 23:09:07](https://news.ycombinator.com/item?id=49226767) - [Depression has tripled in the last 15 years. Arthur Brooks about the cause](https://bigthink.com/series/full-interview/meaning-crisis-brooks/)
+* [2026-08-08, 23:05:24](https://news.ycombinator.com/item?id=49226742) - [Dithered QR Codes](https://www.andrewt.net/dithered-qr-codes/wtf/)
 * [2026-08-08, 22:49:23](https://news.ycombinator.com/item?id=49226636) - [My server is a phone now](https://seg6.space/posts/phone-server/)
+* [2026-08-08, 22:36:25](https://news.ycombinator.com/item?id=49226563) - [Should you stop cracking your knuckles?](https://www.bbc.com/future/article/20260807-should-i-stop-cracking-my-knuckles)
+* [2026-08-08, 22:32:50](https://news.ycombinator.com/item?id=49226536) - [Shopify replaced Redis with MySQL for inventory reservations–and it scaled](https://shopify.engineering/scaling-inventory-reservations)
 * [2026-08-08, 21:07:10](https://news.ycombinator.com/item?id=49225918) - [Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack](https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/)
 * [2026-08-08, 20:37:24](https://news.ycombinator.com/item?id=49225676) - [The Unreasonable Effectiveness of Mathematics in the Natural Sciences [pdf]](https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf)
 * [2026-08-08, 19:38:08](https://news.ycombinator.com/item?id=49225139) - [Open-source interactive map for the Aug 12 total solar eclipse](https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute)

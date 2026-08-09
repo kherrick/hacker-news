@@ -17,6 +17,7 @@
 * [2026-08-03, 20:02:21](https://news.ycombinator.com/item?id=49160699) - [AI's debt binge can't last, hidden borrowing reaches $1.65T](https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/)
 * [2026-08-03, 19:56:27](https://news.ycombinator.com/item?id=49160631) - [DDoS against Norwegian government IT infrastructure – status](https://status.digdir.no/incidents/d7hvqmf2yr3l)
 * [2026-08-03, 19:39:34](https://news.ycombinator.com/item?id=49160437) - [The Dunning-Kruger Effect Is Probably Not Real](https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real)
+* [2026-08-03, 19:35:12](https://news.ycombinator.com/item?id=49160383) - [When Feature Flags Do and Don't Make Sense](https://software.rajivprab.com/2019/12/19/when-feature-flags-do-and-dont-make-sense/)
 * [2026-08-03, 18:58:00](https://news.ycombinator.com/item?id=49159970) - [KisakCOD – open-source reimplementation of Call of Duty 4 Multiplayer](https://github.com/SwagSoftware/KisakCOD)
 * [2026-08-03, 18:32:25](https://news.ycombinator.com/item?id=49159680) - [Ryg_rans Is Not a Library](https://fgiesen.wordpress.com/2026/08/03/ryg_rans-is-not-a-library/)
 * [2026-08-03, 18:32:06](https://news.ycombinator.com/item?id=49159676) - [ZX Spectrum System Tour: Sound](https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/)

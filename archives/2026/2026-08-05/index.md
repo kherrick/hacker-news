@@ -70,6 +70,7 @@
 * [2026-08-05, 09:59:34](https://news.ycombinator.com/item?id=49180649) - [Making difficulty curves in games](http://www.davetech.co.uk/difficultycurves)
 * [2026-08-05, 09:15:33](https://news.ycombinator.com/item?id=49180407) - [Helsinki Hacker News Meetup](https://calpaterson.com/helsinki-hn.html)
 * [2026-08-05, 09:00:07](https://news.ycombinator.com/item?id=49180302) - [Building a Rust Inference Engine That Matches Llama.cpp](https://www.fratepietro.com/2026/ferrox-rust-gguf-inference-engine/)
+* [2026-08-05, 06:42:07](https://news.ycombinator.com/item?id=49179352) - [The Sound and Music of 'Hyper Light Drifter' [video]](https://gdcvault.com/play/1024135/The-Sound-and-Music-of)
 * [2026-08-05, 04:51:43](https://news.ycombinator.com/item?id=49178702) - [The sale of Electronic Arts has been finalized](https://www.bbc.com/news/articles/cjejyl34345o)
 * [2026-08-05, 04:36:44](https://news.ycombinator.com/item?id=49178608) - [Zero-Mem: Zero-Token Memory Operations for LLM Agents](https://arxiv.org/abs/2607.29377)
 * [2026-08-05, 04:07:27](https://news.ycombinator.com/item?id=49178464) - [An SLM trained on $8 ESP32-S3](https://github.com/Carloscodix/qapla)
