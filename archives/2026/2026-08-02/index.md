@@ -6,6 +6,7 @@
 
 * [2026-08-02, 23:05:41](https://news.ycombinator.com/item?id=49149326) - [Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours](https://github.com/pg83/shitty)
 * [2026-08-02, 22:43:47](https://news.ycombinator.com/item?id=49149188) - [AI poster wins Ohio State Fair contest](https://www.ohiostatefair.com/p/get-involved/arts/poster-contest)
+* [2026-08-02, 22:40:13](https://news.ycombinator.com/item?id=49149163) - [Unexpected events and prosocial behavior: the Batman effect](https://www.nature.com/articles/s44184-025-00171-5)
 * [2026-08-02, 22:35:35](https://news.ycombinator.com/item?id=49149125) - [The Computational Theory of Mind (2015)](https://plato.stanford.edu/entries/computational-mind/)
 * [2026-08-02, 22:16:34](https://news.ycombinator.com/item?id=49148987) - [Californians' data deletion requests, DROP, become enforceable Aug. 1](https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/)
 * [2026-08-02, 22:06:34](https://news.ycombinator.com/item?id=49148899) - [Show HN: Mu – Tools for Agents](https://github.com/micro/mu)

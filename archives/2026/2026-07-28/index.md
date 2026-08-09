@@ -82,6 +82,7 @@
 * [2026-07-28, 12:34:07](https://news.ycombinator.com/item?id=49082857) - [I'm 38 and I Can't Support Myself Anymore](https://itsmevox.substack.com/p/im-38-and-i-cant-support-myself-anymore)
 * [2026-07-28, 12:27:05](https://news.ycombinator.com/item?id=49082779) - [Show HN: Segue – Save context in one AI, load it in another by a short handle](https://segue.ai/)
 * [2026-07-28, 12:19:07](https://news.ycombinator.com/item?id=49082695) - [Mondragon Corporation – a federation of co-operatives](https://en.wikipedia.org/wiki/Mondragon_Corporation)
+* [2026-07-28, 12:13:31](https://news.ycombinator.com/item?id=49082647) - [Fixing my tooltip accessibility mistake](https://jakearchibald.com/2026/my-tooltip-a11y-mistake/)
 * [2026-07-28, 12:04:07](https://news.ycombinator.com/item?id=49082562) - [Show HN: Vivari – Open-Source WebContainer for Node, Bun, and Python](https://vivari.jamesisme.com)
 * [2026-07-28, 12:02:57](https://news.ycombinator.com/item?id=49082550) - [Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)](https://jfrog.com/blog/jfrog-and-openai-collaboration-on-zero-day-security-findings/)
 * [2026-07-28, 11:16:37](https://news.ycombinator.com/item?id=49082198) - [I 4x'd a 367x479 stamp-sized photo through 8 upscaling models](https://enlarger.app/blog/upscayl-vs-enlarger/)
