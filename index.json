@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-08-09, 15:18:25",
+      "https://news.ycombinator.com/item?id=49232221"
+    ],
+    [
+      "Silicon Valley misreads science fiction and undermines democracy",
+      "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/"
+    ]
+  ],
+  [
+    [
+      "2026-08-09, 15:08:51",
+      "https://news.ycombinator.com/item?id=49232110"
+    ],
+    [
+      "Tom Stanton's supersonic trebuchet breaks sound barrier with gravity alone",
+      "https://www.techeblog.com/tom-stanton-supersonic-trebuchet/"
+    ]
+  ],
+  [
+    [
       "2026-08-09, 13:47:36",
       "https://news.ycombinator.com/item?id=49231397"
     ],
@@ -31,32 +51,12 @@
   ],
   [
     [
-      "2026-08-09, 11:56:16",
-      "https://news.ycombinator.com/item?id=49230605"
-    ],
-    [
-      "70% of AI revenue comes from OpenAI and Anthropic",
-      "https://www.youtube.com/watch?v=68X8yEatepQ"
-    ]
-  ],
-  [
-    [
       "2026-08-09, 11:39:25",
       "https://news.ycombinator.com/item?id=49230514"
     ],
     [
       "Reviving a four year old reMarkable 2",
       "https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html"
-    ]
-  ],
-  [
-    [
-      "2026-08-09, 11:19:31",
-      "https://news.ycombinator.com/item?id=49230424"
-    ],
-    [
-      "Switching to electric stoves can dramatically cut indoor air pollution",
-      "https://news.stanford.edu/stories/2025/12/gas-propane-stoves-nitrogen-dioxide-exposure-health-risks-switching-electric"
     ]
   ],
   [
@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2026-08-08, 13:33:06",
+      "https://news.ycombinator.com/item?id=49221711"
+    ],
+    [
+      "Triton: DirectX 11 Driver for QEMU",
+      "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/"
+    ]
+  ],
+  [
+    [
       "2026-08-05, 09:59:34",
       "https://news.ycombinator.com/item?id=49180649"
     ],
@@ -277,16 +287,6 @@
     [
       "Uber SubmitQueue: a high-performance speculative merge queue",
       "https://github.com/uber/submitqueue/"
-    ]
-  ],
-  [
-    [
-      "2026-08-01, 12:30:10",
-      "https://news.ycombinator.com/item?id=49133850"
-    ],
-    [
-      "Building a local positioning system to track runners using Ultra-Wideband",
-      "https://zeus.ugent.be/blog/25-26/12urenloop-uwb/"
     ]
   ],
   [
