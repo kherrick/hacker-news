@@ -7,6 +7,7 @@
 * [2026-08-09, 21:03:43](https://news.ycombinator.com/item?id=49235859) - [Is it all just vapourware?](https://kirahowe.com/2026/aug/8/is-it-all-just-vapourware)
 * [2026-08-09, 20:48:46](https://news.ycombinator.com/item?id=49235697) - [Tuxedo No. 2 – Cocktail recipes](https://tuxedono2.com)
 * [2026-08-09, 20:42:29](https://news.ycombinator.com/item?id=49235641) - [New Zealand lost its music media, and what we're building to replace it](https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media)
+* [2026-08-09, 20:35:48](https://news.ycombinator.com/item?id=49235572) - [The climate benefits of retiring an operational combustion engine vehicle](https://www.science.org/doi/10.1126/science.adv5441)
 * [2026-08-09, 20:28:54](https://news.ycombinator.com/item?id=49235486) - [Archival Resource Key (Ark) Alliance](https://arks.org/)
 * [2026-08-09, 20:18:44](https://news.ycombinator.com/item?id=49235378) - [The Hacker's Renaissance](https://phrack.org/issues/72/19#article)
 * [2026-08-09, 20:15:52](https://news.ycombinator.com/item?id=49235349) - [How not to turn ideologically crazy](https://blog.andymasley.com/p/the-main-way-ive-seen-people-turn)
