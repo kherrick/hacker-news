@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-10](index.md)
 
+* [2026-08-10, 20:47:13](https://news.ycombinator.com/item?id=49249481) - [Stop Killing Games: It's time to sue Sony, join us](https://www.massaschadeconsument.nl/collectieve-acties/playstation/)
 * [2026-08-10, 20:20:06](https://news.ycombinator.com/item?id=49249150) - [Illinois Just Passed a Law That Puts Linux on the Hook for Age Verification](https://linuxstans.com/illinois-hb5511-operating-system-age-verification/)
 * [2026-08-10, 18:12:49](https://news.ycombinator.com/item?id=49247477) - [Rust SIMD on the GPU](https://www.vectorware.com/blog/simd-on-gpu/)
 * [2026-08-10, 18:11:52](https://news.ycombinator.com/item?id=49247461) - [Security Vulnerability in Pioneer Rekordbox](https://alphatheta.com/en/information/important-notice-security-vulnerability-in-pro-dj-link/)
