@@ -32,6 +32,7 @@
 * [2026-08-05, 16:35:30](https://news.ycombinator.com/item?id=49185215) - [Stop sending me your errors](https://kramkow.ski/article/2026/08/05/stop_sending_me_your_errors.html)
 * [2026-08-05, 16:28:59](https://news.ycombinator.com/item?id=49185111) - [Something is changing in the unit economics of software](https://nicolo.xyz/something-is-changing-in-the-unit-economics-of-software/)
 * [2026-08-05, 16:19:44](https://news.ycombinator.com/item?id=49184960) - [Discovery Loop](https://www.discoveryloop.com/)
+* [2026-08-05, 16:15:51](https://news.ycombinator.com/item?id=49184900) - [Show HN: I made alchemical-cosmological PCB badges](https://github.com/KaiPereira/Alchemical-Cosmological-Badges)
 * [2026-08-05, 16:14:49](https://news.ycombinator.com/item?id=49184879) - [Jeff Dean Leaving Google](https://twitter.com/JeffDean/status/2085034604172603724)
 * [2026-08-05, 16:05:37](https://news.ycombinator.com/item?id=49184757) - [Google DeepMind CEO Demis Hassabis is stepping down](https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai)
 * [2026-08-05, 16:05:31](https://news.ycombinator.com/item?id=49184755) - [The next chapter of our AI momentum](https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/)
