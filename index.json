@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2026-08-10, 16:32:03",
-      "https://news.ycombinator.com/item?id=49245990"
-    ],
-    [
-      "Don't Build Mindreading",
-      "https://www.lesswrong.com/posts/CAdG5dzkWrrK2NQg8/don-t-build-mindreading"
-    ]
-  ],
-  [
-    [
       "2026-08-10, 16:12:54",
       "https://news.ycombinator.com/item?id=49245646"
     ],
@@ -41,16 +31,6 @@
   ],
   [
     [
-      "2026-08-10, 16:02:34",
-      "https://news.ycombinator.com/item?id=49245487"
-    ],
-    [
-      "GLP-1 drugs linked to bigger jump in women’s employment than a college degree",
-      "https://finance.yahoo.com/healthcare/articles/harvard-study-links-glp-1-123000637.html"
-    ]
-  ],
-  [
-    [
       "2026-08-10, 15:59:23",
       "https://news.ycombinator.com/item?id=49245437"
     ],
@@ -65,7 +45,7 @@
       "https://news.ycombinator.com/item?id=49245421"
     ],
     [
-      "Back to the Future of Handwriting Recognition",
+      "Back to the Future of Handwriting Recognition (2016)",
       "https://jackschaedler.github.io/handwriting-recognition/"
     ]
   ],
@@ -87,6 +67,16 @@
     [
       "Midlife Vascular Risk Burden and Dementia-Free Survival Years",
       "https://www.neurology.org/doi/10.1212/WN9.0000000000000152"
+    ]
+  ],
+  [
+    [
+      "2026-08-10, 15:53:01",
+      "https://news.ycombinator.com/item?id=49245318"
+    ],
+    [
+      "Extreme 220GHz+Broadband Silicon Capacitor X2SC 0201M 22nF BV11",
+      "https://pim.murata.com/asset/pim4/siliconCapacitor/SICAP_X2SC422522_PDF_SILICONCAPACITOR"
     ]
   ],
   [
@@ -115,7 +105,7 @@
       "https://news.ycombinator.com/item?id=49244916"
     ],
     [
-      "Itadakimasu: A Word You Say to the Food, Not the Cook",
+      "Itadakimasu: A word you say to the food, not the cook",
       "https://thetokyohermit.substack.com/p/itadakimasu-a-word-you-say-to-the"
     ]
   ],
@@ -135,7 +125,7 @@
       "https://news.ycombinator.com/item?id=49244250"
     ],
     [
-      "There Is No \"Done\": Reflections on a Completed at Thru-Hike (2022)",
+      "There is no “done”: Reflections on a completed Appalachian Trail thru-hike (2022)",
       "https://thetrek.co/appalachian-trail/there-is-no-done-reflections-on-a-completed-at-thru-hike/"
     ]
   ],
@@ -151,11 +141,21 @@
   ],
   [
     [
+      "2026-08-10, 13:35:40",
+      "https://news.ycombinator.com/item?id=49243474"
+    ],
+    [
+      "Humanising LLM Outputs Is Dumb",
+      "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb"
+    ]
+  ],
+  [
+    [
       "2026-08-10, 13:29:12",
       "https://news.ycombinator.com/item?id=49243397"
     ],
     [
-      "Mistral Patent for \"Code implemented tool calls\"",
+      "Mistral Patent for “Code implemented tool calls”",
       "https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html"
     ]
   ],
@@ -175,7 +175,7 @@
       "https://news.ycombinator.com/item?id=49242739"
     ],
     [
-      "Over 181,000 AI meeting recordings left wide open in note taking app",
+      "Tl;dv: Over 180k meetings left wide open",
       "https://bobdahacker.com/blog/tldv-hack"
     ]
   ],
@@ -195,7 +195,7 @@
       "https://news.ycombinator.com/item?id=49242297"
     ],
     [
-      "Tail-call optimization in C is relatively recent",
+      "Tail-call optimization in C is relatively recent (2025)",
       "https://lwn.net/Articles/1034703/"
     ]
   ],
@@ -215,7 +215,7 @@
       "https://news.ycombinator.com/item?id=49241679"
     ],
     [
-      "Meta Muse Glimmer – Open weights 30B local coding model",
+      "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
       "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"
     ]
   ],
@@ -227,16 +227,6 @@
     [
       "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
       "https://www.docker.com/products/docker-sandboxes/"
-    ]
-  ],
-  [
-    [
-      "2026-08-10, 03:18:40",
-      "https://news.ycombinator.com/item?id=49238851"
-    ],
-    [
-      "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
-      "https://www.whodunnitai.com/"
     ]
   ],
   [
@@ -271,11 +261,21 @@
   ],
   [
     [
+      "2026-08-07, 13:19:53",
+      "https://news.ycombinator.com/item?id=49209971"
+    ],
+    [
+      "Sorting, hashing, and sketches on 370,103 words",
+      "https://stochastic.blog/sorting-hashing-and-sketches-on-370-103-words/"
+    ]
+  ],
+  [
+    [
       "2026-08-07, 10:26:34",
       "https://news.ycombinator.com/item?id=49208296"
     ],
     [
-      "Sonic Pi v5 Released",
+      "Sonic Pi v5",
       "https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392"
     ]
   ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=49205082"
     ],
     [
-      "An Interesting Fourier Transform – 1/F Noise",
+      "An Interesting Fourier Transform – 1/f Noise (2007)",
       "https://www.dsprelated.com/showarticle/40.php"
     ]
   ],
