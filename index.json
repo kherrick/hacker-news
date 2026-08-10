@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-08-10, 18:11:52",
+      "https://news.ycombinator.com/item?id=49247461"
+    ],
+    [
+      "Security Vulnerability in Pioneer Rekordbox",
+      "https://alphatheta.com/en/information/important-notice-security-vulnerability-in-pro-dj-link/"
+    ]
+  ],
+  [
+    [
+      "2026-08-10, 17:41:13",
+      "https://news.ycombinator.com/item?id=49247070"
+    ],
+    [
+      "Learning more about Claude's mathematical capabilities",
+      "https://www.anthropic.com/research/riemann-zeta"
+    ]
+  ],
+  [
+    [
       "2026-08-10, 16:35:27",
       "https://news.ycombinator.com/item?id=49246057"
     ],
@@ -121,12 +141,12 @@
   ],
   [
     [
-      "2026-08-10, 14:32:54",
-      "https://news.ycombinator.com/item?id=49244250"
+      "2026-08-10, 14:38:20",
+      "https://news.ycombinator.com/item?id=49244308"
     ],
     [
-      "There is no “done”: Reflections on a completed Appalachian Trail thru-hike (2022)",
-      "https://thetrek.co/appalachian-trail/there-is-no-done-reflections-on-a-completed-at-thru-hike/"
+      "Letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "https://openai.com/index/responsible-ai-infrastructure-texas/"
     ]
   ],
   [
@@ -137,6 +157,16 @@
     [
       "Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines",
       "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs"
+    ]
+  ],
+  [
+    [
+      "2026-08-10, 14:06:22",
+      "https://news.ycombinator.com/item?id=49243880"
+    ],
+    [
+      "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+      "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878"
     ]
   ],
   [
@@ -231,26 +261,6 @@
   ],
   [
     [
-      "2026-08-10, 03:12:48",
-      "https://news.ycombinator.com/item?id=49238818"
-    ],
-    [
-      "Run Android ARM64 VR APKs on Apple Vision Pro",
-      "https://github.com/shinyquagsire23/Klepton"
-    ]
-  ],
-  [
-    [
-      "2026-08-10, 02:23:17",
-      "https://news.ycombinator.com/item?id=49238561"
-    ],
-    [
-      "What Happened to HackerOne?",
-      "https://blog.teknogeek.io/posts/what-happened-to-hackerone/"
-    ]
-  ],
-  [
-    [
       "2026-08-07, 17:29:16",
       "https://news.ycombinator.com/item?id=49213660"
     ],
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2026-08-07, 01:56:10",
-      "https://news.ycombinator.com/item?id=49205082"
+      "2026-08-04, 17:49:29",
+      "https://news.ycombinator.com/item?id=49172319"
     ],
     [
-      "An Interesting Fourier Transform – 1/f Noise (2007)",
-      "https://www.dsprelated.com/showarticle/40.php"
-    ]
-  ],
-  [
-    [
-      "2026-08-05, 14:58:09",
-      "https://news.ycombinator.com/item?id=49183917"
-    ],
-    [
-      "How Blackwing Pencils are Made [video]",
-      "https://www.youtube.com/watch?v=fow-LsdaH2E"
+      "The Psychedelic Toad of the Sonoran Desert",
+      "https://en.wikipedia.org/wiki/Bufo_Alvarius:_the_Psychedelic_Toad_of_the_Sonoran_Desert"
     ]
   ]
 ]
