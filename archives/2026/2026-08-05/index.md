@@ -22,6 +22,7 @@
 * [2026-08-05, 18:37:49](https://news.ycombinator.com/item?id=49187061) - [Born Against, or why hobby programming communities are against LLM usage](https://blog.fogus.me/llm/born-against.html)
 * [2026-08-05, 18:18:56](https://news.ycombinator.com/item?id=49186762) - [Beating GPT-5.6 Sol on retrieval with 100x cheaper open models](https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency)
 * [2026-08-05, 18:17:03](https://news.ycombinator.com/item?id=49186720) - [Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)](https://arxiv.org/abs/2510.01395)
+* [2026-08-05, 18:16:38](https://news.ycombinator.com/item?id=49186715) - [COLDCARD's Random Numbers Weren't](https://coldcard.rip/)
 * [2026-08-05, 18:10:02](https://news.ycombinator.com/item?id=49186621) - [Antigravity 2.0](https://antigravity.google/product/antigravity-2)
 * [2026-08-05, 17:23:25](https://news.ycombinator.com/item?id=49185983) - [Atlassian Rovo Exfiltrates Data, Bypassing Controls](https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data)
 * [2026-08-05, 17:20:25](https://news.ycombinator.com/item?id=49185931) - [Phishers are hijacking legitimate cloud infrastructure](https://securelist.com/cloud-platforms-in-phishing/120832/)
