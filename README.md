@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-08-10, 21:36:56](https://news.ycombinator.com/item?id=49250109) - [How Claude marks AI-generated content](https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content)
-* [2026-08-10, 21:27:02](https://news.ycombinator.com/item?id=49249986) - [We cut a 40-day financial integration down to 5 days using Google Anti](https://discuss.google.dev/t/trusted-automation-with-google-antigravity-scaling-secure-finance-integrations-from-40-days-to-5/383313)
 * [2026-08-10, 21:26:16](https://news.ycombinator.com/item?id=49249971) - [Amazon backs power plant that may become top source of US climate pollution](https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/)
+* [2026-08-10, 20:52:55](https://news.ycombinator.com/item?id=49249555) - [Confessions of a Long-Distance Sailor](https://arachnoid.com/lutusp/sailbook.html)
 * [2026-08-10, 20:47:13](https://news.ycombinator.com/item?id=49249481) - [Stop Killing Games: It's time to sue Sony, join us](https://www.massaschadeconsument.nl/collectieve-acties/playstation/)
 * [2026-08-10, 20:20:06](https://news.ycombinator.com/item?id=49249150) - [Illinois Just Passed a Law That Puts Linux on the Hook for Age Verification](https://linuxstans.com/illinois-hb5511-operating-system-age-verification/)
 * [2026-08-10, 18:12:49](https://news.ycombinator.com/item?id=49247477) - [Rust SIMD on the GPU](https://www.vectorware.com/blog/simd-on-gpu/)
@@ -27,6 +26,7 @@
 * [2026-08-10, 06:02:38](https://news.ycombinator.com/item?id=49239751) - [Docker Sandboxes – Disposable, isolated sandboxes for AI agents](https://www.docker.com/products/docker-sandboxes/)
 * [2026-08-07, 17:29:16](https://news.ycombinator.com/item?id=49213660) - [Ask HN: In your experience, what are sound conventions for e-ink UI development?](https://news.ycombinator.com/item?id=49213660)
 * [2026-08-07, 15:59:08](https://news.ycombinator.com/item?id=49212449) - [Publishing Schematics Before \"Open Source\" Was a Word](https://fabscene.medium.com/publishing-schematics-before-open-source-was-a-word-55-years-of-akizuki-denshi-japans-be7ca9629704)
+* [2026-08-07, 13:15:10](https://news.ycombinator.com/item?id=49209918) - [Stowaway – take the window seat on any plane or satellite overhead](https://stowaway.live/)
 * [2026-08-07, 10:26:34](https://news.ycombinator.com/item?id=49208296) - [Sonic Pi v5](https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392)
 * [2026-08-06, 21:52:31](https://news.ycombinator.com/item?id=49203112) - [Show HN: Higher-dimensional lattices unfolded into the 2D plane](https://number-garden.com/?@THLP@)
 * [2026-08-04, 17:49:29](https://news.ycombinator.com/item?id=49172319) - [The Psychedelic Toad of the Sonoran Desert](https://en.wikipedia.org/wiki/Bufo_Alvarius:_the_Psychedelic_Toad_of_the_Sonoran_Desert)
