@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-08-10, 14:38:20",
+      "https://news.ycombinator.com/item?id=49244308"
+    ],
+    [
+      "OpenAI's letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "https://openai.com/index/responsible-ai-infrastructure-texas/"
+    ]
+  ],
+  [
+    [
+      "2026-08-10, 14:06:22",
+      "https://news.ycombinator.com/item?id=49243880"
+    ],
+    [
+      "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+      "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878"
+    ]
+  ],
+  [
+    [
       "2026-08-10, 13:29:12",
       "https://news.ycombinator.com/item?id=49243397"
     ],
@@ -41,16 +61,6 @@
   ],
   [
     [
-      "2026-08-10, 12:24:48",
-      "https://news.ycombinator.com/item?id=49242728"
-    ],
-    [
-      "DeepSeek costs OpenCode Go user $1.14/day; dual DGX breaks even in 24 years",
-      "https://twitter.com/thdxr/status/2086599224674681242"
-    ]
-  ],
-  [
-    [
       "2026-08-10, 12:15:53",
       "https://news.ycombinator.com/item?id=49242653"
     ],
@@ -87,6 +97,16 @@
     [
       "Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes",
       "https://ethw.org/Milestones:Parametron,_1954"
+    ]
+  ],
+  [
+    [
+      "2026-08-10, 10:15:55",
+      "https://news.ycombinator.com/item?id=49241728"
+    ],
+    [
+      "The Future Is for Everyone – The Path to a Positive AI Future",
+      "https://www.meta.com/thefutureisforeveryone/"
     ]
   ],
   [
@@ -147,16 +167,6 @@
     [
       "How We Pushed CDC into Postgres",
       "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/"
-    ]
-  ],
-  [
-    [
-      "2026-08-09, 20:48:46",
-      "https://news.ycombinator.com/item?id=49235697"
-    ],
-    [
-      "Tuxedo No. 2 – Cocktail recipes",
-      "https://tuxedono2.com"
     ]
   ],
   [
@@ -251,22 +261,22 @@
   ],
   [
     [
+      "2026-08-06, 21:11:25",
+      "https://news.ycombinator.com/item?id=49202628"
+    ],
+    [
+      "Open QEC harness – greedy vs. GE, uniform vs. clustered k=4",
+      "https://github.com/mrblakessinger-rgb/qec-evaluation-suite"
+    ]
+  ],
+  [
+    [
       "2026-08-05, 14:58:09",
       "https://news.ycombinator.com/item?id=49183917"
     ],
     [
       "How Blackwing Pencils are Made [video]",
       "https://www.youtube.com/watch?v=fow-LsdaH2E"
-    ]
-  ],
-  [
-    [
-      "2026-08-05, 14:34:15",
-      "https://news.ycombinator.com/item?id=49183588"
-    ],
-    [
-      "Why a Raspberry Pi shouldn't be powered through its GPIO pins",
-      "https://82mhz.net/posts/2026/08/why-a-raspberry-pi-shouldn-t-be-powered-through-it-s-gpio-pins/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Findphone: Locate a nearby Bluetooth device by signal strength",
       "https://github.com/ben-z/findphone"
-    ]
-  ],
-  [
-    [
-      "2026-08-04, 19:47:10",
-      "https://news.ycombinator.com/item?id=49174017"
-    ],
-    [
-      "Nearest Pint",
-      "https://knowwhereconsulting.co.uk/maps/pubs/"
     ]
   ]
 ]
