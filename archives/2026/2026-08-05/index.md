@@ -46,6 +46,7 @@
 * [2026-08-05, 15:11:51](https://news.ycombinator.com/item?id=49184083) - [Cloudflare OS](https://os.cloudflare.app/)
 * [2026-08-05, 15:08:58](https://news.ycombinator.com/item?id=49184041) - [Google Assistant is going away on Mobile Devices](https://images.seroundtable.com/google-assistant-going-away-laEdSzU1.png)
 * [2026-08-05, 15:01:26](https://news.ycombinator.com/item?id=49183953) - [Citigroup, Idaho, and Build-a-Bear Launched a Coordinated Attack on Me](https://knock-knock.net/blog/citigroup-idaho-build-a-bear/)
+* [2026-08-05, 14:58:09](https://news.ycombinator.com/item?id=49183917) - [How Blackwing Pencils are Made [video]](https://www.youtube.com/watch?v=fow-LsdaH2E)
 * [2026-08-05, 14:53:29](https://news.ycombinator.com/item?id=49183850) - [Qwen 3.0 Image Pro](https://www.qwencloud.com/models/qwen-image-3.0-pro)
 * [2026-08-05, 14:46:36](https://news.ycombinator.com/item?id=49183750) - [Oracle Just Halved Its Always Free ARM Limits](https://www.cnelecar.com/blog/oracle-always-free-arm-limits-cut-2026/)
 * [2026-08-05, 14:38:13](https://news.ycombinator.com/item?id=49183665) - [The \"Disability Dongle\": Why Silicon Valley Hates Me and You](https://sightlessscribbles.com/disability-dongle/)

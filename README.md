@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-10, 10:10:02](https://news.ycombinator.com/item?id=49241679) - [Meta Muse Glimmer – open weights 30B local coding model](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model)
 * [2026-08-10, 06:02:38](https://news.ycombinator.com/item?id=49239751) - [Docker Sandboxes – Disposable, isolated sandboxes for AI agents](https://www.docker.com/products/docker-sandboxes/)
-* [2026-08-10, 04:35:24](https://news.ycombinator.com/item?id=49239226) - [The Philippines' big offshoring industry is growing despite AI](https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai)
 * [2026-08-10, 03:50:00](https://news.ycombinator.com/item?id=49239021) - [Auto mode is now the default in Claude Code](https://claude.com/blog/auto-mode-default-in-claude-code)
 * [2026-08-10, 03:18:40](https://news.ycombinator.com/item?id=49238851) - [Show HN: Voice driven murder mystery, Interview AI suspects with your voice](https://www.whodunnitai.com/)
 * [2026-08-10, 03:12:48](https://news.ycombinator.com/item?id=49238818) - [Run Android ARM64 VR APKs on Apple Vision Pro](https://github.com/shinyquagsire23/Klepton)
@@ -17,6 +17,7 @@
 * [2026-08-09, 17:27:16](https://news.ycombinator.com/item?id=49233448) - [OpenChamber: An Agentic Development Environment](https://openchamber.dev/)
 * [2026-08-09, 17:23:22](https://news.ycombinator.com/item?id=49233423) - [Ask HN: What are you working on? (August 2026)](https://news.ycombinator.com/item?id=49233423)
 * [2026-08-09, 15:21:46](https://news.ycombinator.com/item?id=49232253) - [Taxi drivers rarely die of Alzheimer's](https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650)
+* [2026-08-09, 15:11:20](https://news.ycombinator.com/item?id=49232138) - [Windows 11's built-in Weather app wastes more than 1 GB of RAM](https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html)
 * [2026-08-09, 14:32:53](https://news.ycombinator.com/item?id=49231809) - [Cool URIs Don't Change (1998)](https://www.w3.org/Provider/Style/URI)
 * [2026-08-09, 11:30:48](https://news.ycombinator.com/item?id=49230477) - [Everything you do is being recorded](https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/)
 * [2026-08-07, 15:20:28](https://news.ycombinator.com/item?id=49211821) - [An alias-based formulation of the borrow checker (2018)](https://smallcultfollowing.com/babysteps/blog/2018/04/27/an-alias-based-formulation-of-the-borrow-checker/)
@@ -24,10 +25,9 @@
 * [2026-08-07, 04:54:52](https://news.ycombinator.com/item?id=49206028) - [Slap ROM Patcher](https://nyuu.page/projects/slap/)
 * [2026-08-07, 04:04:56](https://news.ycombinator.com/item?id=49205793) - [\"The Persian MâR-Nâmeh Or, the Book for Taking Omens from Snakes\" (1892)](https://publicdomainreview.org/collection/marnameh/)
 * [2026-08-07, 01:56:10](https://news.ycombinator.com/item?id=49205082) - [An Interesting Fourier Transform – 1/F Noise](https://www.dsprelated.com/showarticle/40.php)
-* [2026-08-06, 22:41:24](https://news.ycombinator.com/item?id=49203626) - [Andrew Wiles on proving Fermat’s Last Theorem (1995) [video]](https://www.youtube.com/watch?v=GS7CxAtV5Ks)
 * [2026-08-06, 21:35:37](https://news.ycombinator.com/item?id=49202912) - [ATProto for Distributed Systems Engineers](https://atproto.com/articles/atproto-for-distsys-engineers)
-* [2026-08-06, 07:32:54](https://news.ycombinator.com/item?id=49193666) - [The German Mittelstand](https://kieranvelasquez.substack.com/p/on-the-german-mittelstand)
 * [2026-08-05, 16:15:51](https://news.ycombinator.com/item?id=49184900) - [Show HN: I made alchemical-cosmological PCB badges](https://github.com/KaiPereira/Alchemical-Cosmological-Badges)
+* [2026-08-05, 14:58:09](https://news.ycombinator.com/item?id=49183917) - [How Blackwing Pencils are Made [video]](https://www.youtube.com/watch?v=fow-LsdaH2E)
 * [2026-08-05, 12:52:00](https://news.ycombinator.com/item?id=49182148) - [Picophysics: Single file physics for games on platforms like N64, PSX, DC](https://gitlab.com/Kazade/picophysics)
 * [2026-08-04, 19:47:10](https://news.ycombinator.com/item?id=49174017) - [Nearest Pint](https://knowwhereconsulting.co.uk/maps/pubs/)
 
