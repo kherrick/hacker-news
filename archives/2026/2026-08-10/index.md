@@ -4,9 +4,16 @@
 
 ### [Archives](../../index.md) for [2026-08-10](index.md)
 
+* [2026-08-10, 13:29:12](https://news.ycombinator.com/item?id=49243397) - [Mistral Patent for \"Code implemented tool calls\"](https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html)
+* [2026-08-10, 13:20:09](https://news.ycombinator.com/item?id=49243269) - [Defending my own brain against enshittification](https://mrmarket.lol/how-i-feel-calmin-control-of-my-life-in-the-time-of-enshittification/)
+* [2026-08-10, 12:58:16](https://news.ycombinator.com/item?id=49243029) - [50k Boat Names](https://www.beautifulpublicdata.com/boat-names/)
+* [2026-08-10, 12:26:05](https://news.ycombinator.com/item?id=49242739) - [Over 181,000 AI meeting recordings left wide open in note taking app](https://bobdahacker.com/blog/tldv-hack)
+* [2026-08-10, 12:24:48](https://news.ycombinator.com/item?id=49242728) - [DeepSeek costs OpenCode Go user $1.14/day; dual DGX breaks even in 24 years](https://twitter.com/thdxr/status/2086599224674681242)
+* [2026-08-10, 12:15:53](https://news.ycombinator.com/item?id=49242653) - [Squeak/Smalltalk 6.1 Release Notes](https://squeak.org/release_notes/6.1/)
 * [2026-08-10, 11:34:40](https://news.ycombinator.com/item?id=49242297) - [Tail-call optimization in C is relatively recent](https://lwn.net/Articles/1034703/)
 * [2026-08-10, 11:27:47](https://news.ycombinator.com/item?id=49242245) - [Because It's Not Fun Enough: why languages fail](https://bytecode.news/posts/2026/08/because-it-s-not-fun-enough)
 * [2026-08-10, 11:22:34](https://news.ycombinator.com/item?id=49242213) - [A 'bananas' order for 5000 obscure book titles fuels suspicion](https://www.irishtimes.com/world/europe/2026/08/10/a-mysterious-buying-spree-is-unsettling-europes-booksellers/)
+* [2026-08-10, 10:29:14](https://news.ycombinator.com/item?id=49241846) - [Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes](https://ethw.org/Milestones:Parametron,_1954)
 * [2026-08-10, 10:10:02](https://news.ycombinator.com/item?id=49241679) - [Meta Muse Glimmer – open weights 30B local coding model](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model)
 * [2026-08-10, 06:02:38](https://news.ycombinator.com/item?id=49239751) - [Docker Sandboxes – Disposable, isolated sandboxes for AI agents](https://www.docker.com/products/docker-sandboxes/)
 * [2026-08-10, 05:16:26](https://news.ycombinator.com/item?id=49239467) - [Why do we assume everyone should be working?](https://wilsoniumite.com/2026/08/10/why-do-we-assume-everyone-should-be-working/)
