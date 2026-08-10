@@ -34,6 +34,7 @@
 * [2026-08-07, 14:02:15](https://news.ycombinator.com/item?id=49210589) - [US's largest newspaper chain partners with Palantir to analyze audience data](https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/)
 * [2026-08-07, 13:39:45](https://news.ycombinator.com/item?id=49210240) - [U.S. Lost 23,000 Jobs in July, While Unemployment Ticked Lower](https://www.wsj.com/economy/jobs/july-jobs-report-unemployment-0d7c08a7)
 * [2026-08-07, 13:27:30](https://news.ycombinator.com/item?id=49210077) - [AI psychosis is the new leadership blind spot](https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots)
+* [2026-08-07, 13:19:53](https://news.ycombinator.com/item?id=49209971) - [Sorting, hashing, and sketches on 370,103 words](https://stochastic.blog/sorting-hashing-and-sketches-on-370-103-words/)
 * [2026-08-07, 13:15:36](https://news.ycombinator.com/item?id=49209921) - [The web server deployment model breaks at hobby scale](https://w.on-t.work/web-deployment-model)
 * [2026-08-07, 12:45:08](https://news.ycombinator.com/item?id=49209572) - [Radical Study Suggests Life on Earth Arose Twice](https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice)
 * [2026-08-07, 12:42:58](https://news.ycombinator.com/item?id=49209546) - [U.S. economy lost 23,000 jobs in July, a sudden reversal](https://www.nbcnews.com/business/economy/july-2026-jobs-report-rcna591138)
