@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-08-10](index.md)
 
+* [2026-08-10, 06:02:38](https://news.ycombinator.com/item?id=49239751) - [Docker Sandboxes – Disposable, isolated sandboxes for AI agents](https://www.docker.com/products/docker-sandboxes/)
+* [2026-08-10, 05:16:26](https://news.ycombinator.com/item?id=49239467) - [Why do we assume everyone should be working?](https://wilsoniumite.com/2026/08/10/why-do-we-assume-everyone-should-be-working/)
+* [2026-08-10, 04:35:24](https://news.ycombinator.com/item?id=49239226) - [The Philippines' big offshoring industry is growing despite AI](https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai)
 * [2026-08-10, 04:06:10](https://news.ycombinator.com/item?id=49239095) - [Long-Run Effects of H-1B Immigration on the U.S. Economy (July 2026)](https://www.nber.org/papers/w35560)
 * [2026-08-10, 03:50:00](https://news.ycombinator.com/item?id=49239021) - [Auto mode is now the default in Claude Code](https://claude.com/blog/auto-mode-default-in-claude-code)
 * [2026-08-10, 03:18:40](https://news.ycombinator.com/item?id=49238851) - [Show HN: Voice driven murder mystery, Interview AI suspects with your voice](https://www.whodunnitai.com/)
