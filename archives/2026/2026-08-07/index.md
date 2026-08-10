@@ -24,6 +24,7 @@
 * [2026-08-07, 16:39:36](https://news.ycombinator.com/item?id=49213029) - [Responding to the next frontier of critical cyber capabilities](https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/)
 * [2026-08-07, 16:32:16](https://news.ycombinator.com/item?id=49212928) - [The AI Billboards Are Killing SF](https://sfstandard.com/pacific-standard-time/2026/08/07/sf-ai-billboards-dystopian-not-funny/)
 * [2026-08-07, 16:14:37](https://news.ycombinator.com/item?id=49212698) - [This Mine Predicts Major Wars. It's Opening Again](https://www.bloomberg.com/graphics/2026-opinion-australia-tungsten-mine-us-war-defense-china/)
+* [2026-08-07, 15:59:08](https://news.ycombinator.com/item?id=49212449) - [Publishing Schematics Before \"Open Source\" Was a Word](https://fabscene.medium.com/publishing-schematics-before-open-source-was-a-word-55-years-of-akizuki-denshi-japans-be7ca9629704)
 * [2026-08-07, 15:57:59](https://news.ycombinator.com/item?id=49212424) - [Adults over 65 will outnumber children by 2029](https://eco3min.fr/en/us-children-vs-adults-65-and-older/)
 * [2026-08-07, 15:24:53](https://news.ycombinator.com/item?id=49211921) - [An all-sky map of half a million supermassive black holes](https://www.sdss.org/black-hole-mapper-release-20/)
 * [2026-08-07, 15:20:28](https://news.ycombinator.com/item?id=49211821) - [An alias-based formulation of the borrow checker (2018)](https://smallcultfollowing.com/babysteps/blog/2018/04/27/an-alias-based-formulation-of-the-borrow-checker/)

@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-08-10](index.md)
 
+* [2026-08-10, 20:20:06](https://news.ycombinator.com/item?id=49249150) - [Illinois Just Passed a Law That Puts Linux on the Hook for Age Verification](https://linuxstans.com/illinois-hb5511-operating-system-age-verification/)
 * [2026-08-10, 18:12:49](https://news.ycombinator.com/item?id=49247477) - [Rust SIMD on the GPU](https://www.vectorware.com/blog/simd-on-gpu/)
 * [2026-08-10, 18:11:52](https://news.ycombinator.com/item?id=49247461) - [Security Vulnerability in Pioneer Rekordbox](https://alphatheta.com/en/information/important-notice-security-vulnerability-in-pro-dj-link/)
 * [2026-08-10, 17:41:13](https://news.ycombinator.com/item?id=49247070) - [Learning more about Claude's mathematical capabilities](https://www.anthropic.com/research/riemann-zeta)
+* [2026-08-10, 17:22:07](https://news.ycombinator.com/item?id=49246804) - [Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots](https://cactuscompute.com/needle)
 * [2026-08-10, 16:35:27](https://news.ycombinator.com/item?id=49246057) - [Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers](https://www.stoaexchange.com)
 * [2026-08-10, 16:32:03](https://news.ycombinator.com/item?id=49245990) - [Don't Build Mindreading](https://www.lesswrong.com/posts/CAdG5dzkWrrK2NQg8/don-t-build-mindreading)
 * [2026-08-10, 16:12:54](https://news.ycombinator.com/item?id=49245646) - [Why Addresses Have Numbers](https://thehistoricalinsights.page/2026/06/why-addresses-have-numbers.html)
