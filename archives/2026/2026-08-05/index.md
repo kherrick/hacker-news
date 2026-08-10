@@ -63,6 +63,7 @@
 * [2026-08-05, 13:26:01](https://news.ycombinator.com/item?id=49182586) - [Google's HTTP/2 codec slows Envoy](https://apoxy.dev/blog/oghttp2-vs-nghttp2)
 * [2026-08-05, 13:24:24](https://news.ycombinator.com/item?id=49182560) - [KTX Images Converter for WebGL/GPU and Threejs](https://ktxconverter.robertborghesi.is)
 * [2026-08-05, 13:23:52](https://news.ycombinator.com/item?id=49182551) - [Cloudflare OS – an open-source AI productivity environment](https://github.com/cloudflare/cloudflare-os)
+* [2026-08-05, 12:52:00](https://news.ycombinator.com/item?id=49182148) - [Picophysics: Single file physics for games on platforms like N64, PSX, DC](https://gitlab.com/Kazade/picophysics)
 * [2026-08-05, 12:42:50](https://news.ycombinator.com/item?id=49182052) - [Iowa et al asks OpenAI to keep their bots sandboxed](https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-leads-coalition-demanding-transparency-from-openai-after-ai-breach-and)
 * [2026-08-05, 12:41:47](https://news.ycombinator.com/item?id=49182041) - [TIME Is Serving AI Bots a Different Website, with Ads Built In](https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/)
 * [2026-08-05, 12:06:14](https://news.ycombinator.com/item?id=49181678) - [Three Six Mafia – Data about \"6/6/6 dating\" (2024)](https://divingintheshallowend.com/three-six-mafia/)
