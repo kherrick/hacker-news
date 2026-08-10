@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-10, 18:11:52](https://news.ycombinator.com/item?id=49247461) - [Security Vulnerability in Pioneer Rekordbox](https://alphatheta.com/en/information/important-notice-security-vulnerability-in-pro-dj-link/)
+* [2026-08-10, 17:41:13](https://news.ycombinator.com/item?id=49247070) - [Learning more about Claude's mathematical capabilities](https://www.anthropic.com/research/riemann-zeta)
 * [2026-08-10, 16:35:27](https://news.ycombinator.com/item?id=49246057) - [Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers](https://www.stoaexchange.com)
 * [2026-08-10, 16:12:54](https://news.ycombinator.com/item?id=49245646) - [Why Addresses Have Numbers](https://thehistoricalinsights.page/2026/06/why-addresses-have-numbers.html)
 * [2026-08-10, 16:03:14](https://news.ycombinator.com/item?id=49245491) - [Exploiting System Management Mode with a very long interrupt](https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii)
@@ -12,8 +14,9 @@
 * [2026-08-10, 15:32:04](https://news.ycombinator.com/item?id=49245023) - [Mars Bar from 1991 found – and it's 20g bigger than today's](https://www.bbc.com/news/articles/c1j1kjy7gewo)
 * [2026-08-10, 15:23:44](https://news.ycombinator.com/item?id=49244916) - [Itadakimasu: A word you say to the food, not the cook](https://thetokyohermit.substack.com/p/itadakimasu-a-word-you-say-to-the)
 * [2026-08-10, 14:56:32](https://news.ycombinator.com/item?id=49244569) - [Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints](https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/)
-* [2026-08-10, 14:32:54](https://news.ycombinator.com/item?id=49244250) - [There is no “done”: Reflections on a completed Appalachian Trail thru-hike (2022)](https://thetrek.co/appalachian-trail/there-is-no-done-reflections-on-a-completed-at-thru-hike/)
+* [2026-08-10, 14:38:20](https://news.ycombinator.com/item?id=49244308) - [Letter to Governor Abbott on responsible AI infrastructure in Texas](https://openai.com/index/responsible-ai-infrastructure-texas/)
 * [2026-08-10, 14:20:41](https://news.ycombinator.com/item?id=49244085) - [Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines](https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs)
+* [2026-08-10, 14:06:22](https://news.ycombinator.com/item?id=49243880) - [Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models](https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878)
 * [2026-08-10, 13:35:40](https://news.ycombinator.com/item?id=49243474) - [Humanising LLM Outputs Is Dumb](https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb)
 * [2026-08-10, 13:29:12](https://news.ycombinator.com/item?id=49243397) - [Mistral Patent for “Code implemented tool calls”](https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html)
 * [2026-08-10, 12:58:16](https://news.ycombinator.com/item?id=49243029) - [50k Boat Names](https://www.beautifulpublicdata.com/boat-names/)
@@ -23,13 +26,10 @@
 * [2026-08-10, 10:29:14](https://news.ycombinator.com/item?id=49241846) - [Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes](https://ethw.org/Milestones:Parametron,_1954)
 * [2026-08-10, 10:10:02](https://news.ycombinator.com/item?id=49241679) - [Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model)
 * [2026-08-10, 06:02:38](https://news.ycombinator.com/item?id=49239751) - [Docker Sandboxes – Disposable, isolated sandboxes for AI agents](https://www.docker.com/products/docker-sandboxes/)
-* [2026-08-10, 03:12:48](https://news.ycombinator.com/item?id=49238818) - [Run Android ARM64 VR APKs on Apple Vision Pro](https://github.com/shinyquagsire23/Klepton)
-* [2026-08-10, 02:23:17](https://news.ycombinator.com/item?id=49238561) - [What Happened to HackerOne?](https://blog.teknogeek.io/posts/what-happened-to-hackerone/)
 * [2026-08-07, 17:29:16](https://news.ycombinator.com/item?id=49213660) - [Ask HN: In your experience, what are sound conventions for e-ink UI development?](https://news.ycombinator.com/item?id=49213660)
 * [2026-08-07, 13:19:53](https://news.ycombinator.com/item?id=49209971) - [Sorting, hashing, and sketches on 370,103 words](https://stochastic.blog/sorting-hashing-and-sketches-on-370-103-words/)
 * [2026-08-07, 10:26:34](https://news.ycombinator.com/item?id=49208296) - [Sonic Pi v5](https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392)
-* [2026-08-07, 01:56:10](https://news.ycombinator.com/item?id=49205082) - [An Interesting Fourier Transform – 1/f Noise (2007)](https://www.dsprelated.com/showarticle/40.php)
-* [2026-08-05, 14:58:09](https://news.ycombinator.com/item?id=49183917) - [How Blackwing Pencils are Made [video]](https://www.youtube.com/watch?v=fow-LsdaH2E)
+* [2026-08-04, 17:49:29](https://news.ycombinator.com/item?id=49172319) - [The Psychedelic Toad of the Sonoran Desert](https://en.wikipedia.org/wiki/Bufo_Alvarius:_the_Psychedelic_Toad_of_the_Sonoran_Desert)
 
 ## [Archives](archives/index.md)
 

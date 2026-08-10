@@ -38,6 +38,7 @@
 * [2026-08-04, 18:05:41](https://news.ycombinator.com/item?id=49172540) - [The Judgment Reservoir](https://shannph.com/writing/the-judgment-reservoir/)
 * [2026-08-04, 17:57:15](https://news.ycombinator.com/item?id=49172433) - [AI Data Centers Are Driving Up Power Bills – This Map Shows Where](https://www.gadgetreview.com/ai-data-centers-are-driving-up-power-bills-this-map-shows-where)
 * [2026-08-04, 17:55:19](https://news.ycombinator.com/item?id=49172405) - [Hop.earth – OpenStreetMap based car racing game](https://hop.earth/?server=lkhr7&route=fQ5nuu9R)
+* [2026-08-04, 17:49:29](https://news.ycombinator.com/item?id=49172319) - [The Psychedelic Toad of the Sonoran Desert](https://en.wikipedia.org/wiki/Bufo_Alvarius:_the_Psychedelic_Toad_of_the_Sonoran_Desert)
 * [2026-08-04, 17:43:55](https://news.ycombinator.com/item?id=49172251) - [Vlt 1.0 and Hosted Package Registries](https://www.vlt.io/blog/1-0)
 * [2026-08-04, 17:37:17](https://news.ycombinator.com/item?id=49172159) - [What's Behind the Sharp Drop in Labor Force Participation?](https://www.stlouisfed.org/on-the-economy/2026/aug/what-is-behind-sharp-drop-labor-force-participation)
 * [2026-08-04, 17:30:55](https://news.ycombinator.com/item?id=49172079) - [Dataset: Dead mental health startups, 2000-2026, coded on 18 fields](https://mentalium.me/en/research/mental-health-startup-graveyard-dataset/)
