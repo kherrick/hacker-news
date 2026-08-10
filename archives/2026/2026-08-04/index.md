@@ -22,6 +22,7 @@
 * [2026-08-04, 20:48:17](https://news.ycombinator.com/item?id=49174900) - [I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel](https://twitter.com/gwern/status/2084739205071343837)
 * [2026-08-04, 20:48:17](https://news.ycombinator.com/item?id=49174900) - [Gwern reties from fulltime writing to launch Guardian Angel Inc](https://twitter.com/i/status/2084739205071343837)
 * [2026-08-04, 20:13:40](https://news.ycombinator.com/item?id=49174407) - [Oxide Computer raises $445M (SEC Form D)](https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml)
+* [2026-08-04, 19:47:10](https://news.ycombinator.com/item?id=49174017) - [Nearest Pint](https://knowwhereconsulting.co.uk/maps/pubs/)
 * [2026-08-04, 19:44:55](https://news.ycombinator.com/item?id=49173984) - [Show HN: Maple-Preview – ternary 20B MoE running at 120 tok/s on a iPhone](https://deepgrove.ai/maple-preview)
 * [2026-08-04, 19:18:35](https://news.ycombinator.com/item?id=49173576) - [Investors in Situational Awareness deserved to lose their shirts](https://www.economist.com/finance-and-economics/2026/08/04/investors-in-situational-awareness-deserved-to-lose-their-shirts)
 * [2026-08-04, 18:52:03](https://news.ycombinator.com/item?id=49173175) - [The Law of Jante (2015)](https://www.theparisreview.org/blog/2015/02/11/the-law-of-jante/)
