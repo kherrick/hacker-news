@@ -46,6 +46,7 @@
 * [2026-08-07, 10:42:07](https://news.ycombinator.com/item?id=49208393) - [Kitesurf: Agent-first browser that runs in V8 isolates](https://blog.cloudflare.com/kitesurf/)
 * [2026-08-07, 10:33:00](https://news.ycombinator.com/item?id=49208341) - [Bulldozers Plow Through Big Bend National Park, Sparking Fury in Texas](https://www.newsweek.com/bulldozers-plow-through-big-bend-national-park-sparking-fury-in-texas-12295668)
 * [2026-08-07, 10:28:55](https://news.ycombinator.com/item?id=49208314) - [US strikes $1.2B deal to pay German firm to halt offshore wind projects](https://www.bbc.com/news/articles/c1e1vg0gjl5o)
+* [2026-08-07, 10:26:34](https://news.ycombinator.com/item?id=49208296) - [Sonic Pi v5 Released](https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392)
 * [2026-08-07, 09:10:30](https://news.ycombinator.com/item?id=49207793) - [Show HN: Certo – An open source platform to deliver Open Badges](https://github.com/schroedinger-Hat/certo)
 * [2026-08-07, 07:58:24](https://news.ycombinator.com/item?id=49207236) - [2027 memory capacity is reportedly sold out](https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out)
 * [2026-08-07, 06:31:15](https://news.ycombinator.com/item?id=49206642) - [Artificial Intelligence used to design new viruses](https://www.bbc.co.uk/news/articles/c5y3j3ngevmo)
