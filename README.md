@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-10, 22:36:30](https://news.ycombinator.com/item?id=49250836) - [Google Search Is Dying. What Comes Next Is Worse](https://thewalrus.ca/google-search-is-dying/)
 * [2026-08-10, 21:26:16](https://news.ycombinator.com/item?id=49249971) - [Amazon backs power plant that may become top source of US climate pollution](https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/)
 * [2026-08-10, 20:52:55](https://news.ycombinator.com/item?id=49249555) - [Confessions of a Long-Distance Sailor](https://arachnoid.com/lutusp/sailbook.html)
 * [2026-08-10, 20:47:13](https://news.ycombinator.com/item?id=49249481) - [Stop Killing Games: It's time to sue Sony, join us](https://www.massaschadeconsument.nl/collectieve-acties/playstation/)
@@ -8,7 +9,6 @@
 * [2026-08-10, 17:22:07](https://news.ycombinator.com/item?id=49246804) - [Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots](https://cactuscompute.com/needle)
 * [2026-08-10, 16:35:27](https://news.ycombinator.com/item?id=49246057) - [Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers](https://www.stoaexchange.com)
 * [2026-08-10, 16:03:14](https://news.ycombinator.com/item?id=49245491) - [Exploiting System Management Mode with a very long interrupt](https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii)
-* [2026-08-10, 15:58:32](https://news.ycombinator.com/item?id=49245421) - [Back to the Future of Handwriting Recognition (2016)](https://jackschaedler.github.io/handwriting-recognition/)
 * [2026-08-10, 15:53:01](https://news.ycombinator.com/item?id=49245318) - [Extreme 220GHz+Broadband Silicon Capacitor X2SC 0201M 22nF BV11](https://pim.murata.com/asset/pim4/siliconCapacitor/SICAP_X2SC422522_PDF_SILICONCAPACITOR)
 * [2026-08-10, 15:49:48](https://news.ycombinator.com/item?id=49245251) - [Magnitude 7.4 Earthquake – 5 km S of San José del Palmar, Colombia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2/executive)
 * [2026-08-10, 15:32:04](https://news.ycombinator.com/item?id=49245023) - [Mars Bar from 1991 found – and it's 20g bigger than today's](https://www.bbc.com/news/articles/c1j1kjy7gewo)
@@ -25,7 +25,7 @@
 * [2026-08-10, 10:10:02](https://news.ycombinator.com/item?id=49241679) - [Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model)
 * [2026-08-10, 06:02:38](https://news.ycombinator.com/item?id=49239751) - [Docker Sandboxes – Disposable, isolated sandboxes for AI agents](https://www.docker.com/products/docker-sandboxes/)
 * [2026-08-07, 17:29:16](https://news.ycombinator.com/item?id=49213660) - [Ask HN: In your experience, what are sound conventions for e-ink UI development?](https://news.ycombinator.com/item?id=49213660)
-* [2026-08-07, 15:59:08](https://news.ycombinator.com/item?id=49212449) - [Publishing Schematics Before \"Open Source\" Was a Word](https://fabscene.medium.com/publishing-schematics-before-open-source-was-a-word-55-years-of-akizuki-denshi-japans-be7ca9629704)
+* [2026-08-07, 15:59:08](https://news.ycombinator.com/item?id=49212449) - [Publishing Schematics Before “Open Source” Was a Word](https://fabscene.medium.com/publishing-schematics-before-open-source-was-a-word-55-years-of-akizuki-denshi-japans-be7ca9629704)
 * [2026-08-07, 13:15:10](https://news.ycombinator.com/item?id=49209918) - [Stowaway – take the window seat on any plane or satellite overhead](https://stowaway.live/)
 * [2026-08-07, 10:26:34](https://news.ycombinator.com/item?id=49208296) - [Sonic Pi v5](https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392)
 * [2026-08-06, 21:52:31](https://news.ycombinator.com/item?id=49203112) - [Show HN: Higher-dimensional lattices unfolded into the 2D plane](https://number-garden.com/?@THLP@)
