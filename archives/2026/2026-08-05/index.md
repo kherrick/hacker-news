@@ -81,6 +81,7 @@
 * [2026-08-05, 09:15:33](https://news.ycombinator.com/item?id=49180407) - [Helsinki Hacker News Meetup](https://calpaterson.com/helsinki-hn.html)
 * [2026-08-05, 09:00:07](https://news.ycombinator.com/item?id=49180302) - [Building a Rust Inference Engine That Matches Llama.cpp](https://www.fratepietro.com/2026/ferrox-rust-gguf-inference-engine/)
 * [2026-08-05, 08:27:40](https://news.ycombinator.com/item?id=49180059) - [When Compilers Disagree About UTF‑8](https://nemanjatrifunovic.substack.com/p/when-compilers-disagree-about-utf8)
+* [2026-08-05, 06:53:38](https://news.ycombinator.com/item?id=49179434) - [Why Can't You Pack a Bag?](https://www.newyorker.com/culture/open-questions/why-cant-you-pack-a-bag)
 * [2026-08-05, 06:42:07](https://news.ycombinator.com/item?id=49179352) - [The Sound and Music of 'Hyper Light Drifter' [video]](https://gdcvault.com/play/1024135/The-Sound-and-Music-of)
 * [2026-08-05, 04:51:43](https://news.ycombinator.com/item?id=49178702) - [The sale of Electronic Arts has been finalized](https://www.bbc.com/news/articles/cjejyl34345o)
 * [2026-08-05, 04:36:44](https://news.ycombinator.com/item?id=49178608) - [Zero-Mem: Zero-Token Memory Operations for LLM Agents](https://arxiv.org/abs/2607.29377)

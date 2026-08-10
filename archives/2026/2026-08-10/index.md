@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-10](index.md)
 
+* [2026-08-10, 18:12:49](https://news.ycombinator.com/item?id=49247477) - [Rust SIMD on the GPU](https://www.vectorware.com/blog/simd-on-gpu/)
 * [2026-08-10, 18:11:52](https://news.ycombinator.com/item?id=49247461) - [Security Vulnerability in Pioneer Rekordbox](https://alphatheta.com/en/information/important-notice-security-vulnerability-in-pro-dj-link/)
 * [2026-08-10, 17:41:13](https://news.ycombinator.com/item?id=49247070) - [Learning more about Claude's mathematical capabilities](https://www.anthropic.com/research/riemann-zeta)
 * [2026-08-10, 16:35:27](https://news.ycombinator.com/item?id=49246057) - [Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers](https://www.stoaexchange.com)
