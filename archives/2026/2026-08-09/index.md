@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-09](index.md)
 
+* [2026-08-09, 23:36:05](https://news.ycombinator.com/item?id=49237407) - [The Ambition Project](https://www.betonit.ai/p/the-ambition-project)
 * [2026-08-09, 22:24:24](https://news.ycombinator.com/item?id=49236781) - [Show HN: Lumabri – What if LLMs worked like Napster?](https://github.com/JustVugg/lumabri)
 * [2026-08-09, 22:00:36](https://news.ycombinator.com/item?id=49236541) - [To Recruit Teachers, School Districts Are Building Homes](https://www.nytimes.com/2026/07/28/business/affordable-housing-schools-teachers.html)
 * [2026-08-09, 21:52:23](https://news.ycombinator.com/item?id=49236439) - [AI assistant hacks gym website in first known Australian autonomous cyber attack](https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986)
