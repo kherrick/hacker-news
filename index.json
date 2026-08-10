@@ -1,6 +1,66 @@
 [
   [
     [
+      "2026-08-10, 13:29:12",
+      "https://news.ycombinator.com/item?id=49243397"
+    ],
+    [
+      "Mistral Patent for \"Code implemented tool calls\"",
+      "https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html"
+    ]
+  ],
+  [
+    [
+      "2026-08-10, 13:20:09",
+      "https://news.ycombinator.com/item?id=49243269"
+    ],
+    [
+      "Defending my own brain against enshittification",
+      "https://mrmarket.lol/how-i-feel-calmin-control-of-my-life-in-the-time-of-enshittification/"
+    ]
+  ],
+  [
+    [
+      "2026-08-10, 12:58:16",
+      "https://news.ycombinator.com/item?id=49243029"
+    ],
+    [
+      "50k Boat Names",
+      "https://www.beautifulpublicdata.com/boat-names/"
+    ]
+  ],
+  [
+    [
+      "2026-08-10, 12:26:05",
+      "https://news.ycombinator.com/item?id=49242739"
+    ],
+    [
+      "Over 181,000 AI meeting recordings left wide open in note taking app",
+      "https://bobdahacker.com/blog/tldv-hack"
+    ]
+  ],
+  [
+    [
+      "2026-08-10, 12:24:48",
+      "https://news.ycombinator.com/item?id=49242728"
+    ],
+    [
+      "DeepSeek costs OpenCode Go user $1.14/day; dual DGX breaks even in 24 years",
+      "https://twitter.com/thdxr/status/2086599224674681242"
+    ]
+  ],
+  [
+    [
+      "2026-08-10, 12:15:53",
+      "https://news.ycombinator.com/item?id=49242653"
+    ],
+    [
+      "Squeak/Smalltalk 6.1 Release Notes",
+      "https://squeak.org/release_notes/6.1/"
+    ]
+  ],
+  [
+    [
       "2026-08-10, 11:34:40",
       "https://news.ycombinator.com/item?id=49242297"
     ],
@@ -21,12 +81,12 @@
   ],
   [
     [
-      "2026-08-10, 11:22:34",
-      "https://news.ycombinator.com/item?id=49242213"
+      "2026-08-10, 10:29:14",
+      "https://news.ycombinator.com/item?id=49241846"
     ],
     [
-      "A 'bananas' order for 5000 obscure book titles fuels suspicion",
-      "https://www.irishtimes.com/world/europe/2026/08/10/a-mysterious-buying-spree-is-unsettling-europes-booksellers/"
+      "Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes",
+      "https://ethw.org/Milestones:Parametron,_1954"
     ]
   ],
   [
@@ -47,16 +107,6 @@
     [
       "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
       "https://www.docker.com/products/docker-sandboxes/"
-    ]
-  ],
-  [
-    [
-      "2026-08-10, 03:50:00",
-      "https://news.ycombinator.com/item?id=49239021"
-    ],
-    [
-      "Auto mode is now the default in Claude Code",
-      "https://claude.com/blog/auto-mode-default-in-claude-code"
     ]
   ],
   [
@@ -101,16 +151,6 @@
   ],
   [
     [
-      "2026-08-09, 23:36:05",
-      "https://news.ycombinator.com/item?id=49237407"
-    ],
-    [
-      "The Ambition Project",
-      "https://www.betonit.ai/p/the-ambition-project"
-    ]
-  ],
-  [
-    [
       "2026-08-09, 20:48:46",
       "https://news.ycombinator.com/item?id=49235697"
     ],
@@ -121,42 +161,12 @@
   ],
   [
     [
-      "2026-08-09, 20:42:29",
-      "https://news.ycombinator.com/item?id=49235641"
-    ],
-    [
-      "New Zealand lost its music media, and what we're building to replace it",
-      "https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media"
-    ]
-  ],
-  [
-    [
       "2026-08-09, 19:16:49",
       "https://news.ycombinator.com/item?id=49234675"
     ],
     [
       "How I use LLMs to learn complex topics",
       "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/"
-    ]
-  ],
-  [
-    [
-      "2026-08-09, 18:41:35",
-      "https://news.ycombinator.com/item?id=49234271"
-    ],
-    [
-      "I made tinnitus my friend, then it disappeared [video]",
-      "https://mynoise.net/vlog.php?ep=20260803"
-    ]
-  ],
-  [
-    [
-      "2026-08-09, 17:27:16",
-      "https://news.ycombinator.com/item?id=49233448"
-    ],
-    [
-      "OpenChamber: An Agentic Development Environment",
-      "https://openchamber.dev/"
     ]
   ],
   [
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2026-08-07, 04:54:52",
-      "https://news.ycombinator.com/item?id=49206028"
-    ],
-    [
-      "Slap ROM Patcher",
-      "https://nyuu.page/projects/slap/"
-    ]
-  ],
-  [
-    [
       "2026-08-07, 01:56:10",
       "https://news.ycombinator.com/item?id=49205082"
     ],
@@ -251,26 +251,6 @@
   ],
   [
     [
-      "2026-08-05, 18:16:38",
-      "https://news.ycombinator.com/item?id=49186715"
-    ],
-    [
-      "COLDCARD's Random Numbers Weren't",
-      "https://coldcard.rip/"
-    ]
-  ],
-  [
-    [
-      "2026-08-05, 16:15:51",
-      "https://news.ycombinator.com/item?id=49184900"
-    ],
-    [
-      "Show HN: I made alchemical-cosmological PCB badges",
-      "https://github.com/KaiPereira/Alchemical-Cosmological-Badges"
-    ]
-  ],
-  [
-    [
       "2026-08-05, 14:58:09",
       "https://news.ycombinator.com/item?id=49183917"
     ],
@@ -281,12 +261,32 @@
   ],
   [
     [
+      "2026-08-05, 14:34:15",
+      "https://news.ycombinator.com/item?id=49183588"
+    ],
+    [
+      "Why a Raspberry Pi shouldn't be powered through its GPIO pins",
+      "https://82mhz.net/posts/2026/08/why-a-raspberry-pi-shouldn-t-be-powered-through-it-s-gpio-pins/"
+    ]
+  ],
+  [
+    [
       "2026-08-05, 12:52:00",
       "https://news.ycombinator.com/item?id=49182148"
     ],
     [
       "Picophysics: Single file physics for games on platforms like N64, PSX, DC",
       "https://gitlab.com/Kazade/picophysics"
+    ]
+  ],
+  [
+    [
+      "2026-08-05, 11:54:59",
+      "https://news.ycombinator.com/item?id=49181584"
+    ],
+    [
+      "Findphone: Locate a nearby Bluetooth device by signal strength",
+      "https://github.com/ben-z/findphone"
     ]
   ],
   [
