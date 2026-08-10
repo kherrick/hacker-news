@@ -18,6 +18,7 @@
 * [2026-08-07, 17:56:20](https://news.ycombinator.com/item?id=49214008) - [DeepSeek V4 Flash 0731](https://arcprize.org/results/deepseek-v4-flash-0731)
 * [2026-08-07, 17:55:14](https://news.ycombinator.com/item?id=49213985) - [The Claudyssey: A line-for-line translation of Homer's Odyssey by Claude Fable 5](https://theclaudyssey.com/)
 * [2026-08-07, 17:36:30](https://news.ycombinator.com/item?id=49213754) - [Oracle bans AI-generated code from OpenJDK](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
+* [2026-08-07, 17:29:16](https://news.ycombinator.com/item?id=49213660) - [Ask HN: In your experience, what are sound conventions for e-ink UI development?](https://news.ycombinator.com/item?id=49213660)
 * [2026-08-07, 17:05:15](https://news.ycombinator.com/item?id=49213367) - [Canada adds 75,000 new jobs in July, unemployment rate lowest in 2 years](https://www.cbc.ca/news/business/canada-jobs-july-2026-9.7299225)
 * [2026-08-07, 16:44:28](https://news.ycombinator.com/item?id=49213097) - [Tax cuts for the wealthy only benefit the rich (2023)](https://www.lse.ac.uk/research/research-for-the-world/economics/tax-cuts-for-the-wealthy-only-benefit-the-rich-debunking-trickle-down-economics)
 * [2026-08-07, 16:39:36](https://news.ycombinator.com/item?id=49213029) - [Responding to the next frontier of critical cyber capabilities](https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/)
