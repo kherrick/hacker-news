@@ -53,6 +53,7 @@
 * [2026-08-07, 10:26:34](https://news.ycombinator.com/item?id=49208296) - [Sonic Pi v5 Released](https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392)
 * [2026-08-07, 09:10:30](https://news.ycombinator.com/item?id=49207793) - [Show HN: Certo – An open source platform to deliver Open Badges](https://github.com/schroedinger-Hat/certo)
 * [2026-08-07, 07:58:24](https://news.ycombinator.com/item?id=49207236) - [2027 memory capacity is reportedly sold out](https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out)
+* [2026-08-07, 07:21:30](https://news.ycombinator.com/item?id=49206978) - [Programming the Gigatron](https://www.iwriteiam.nl/PGigatron.html)
 * [2026-08-07, 06:31:15](https://news.ycombinator.com/item?id=49206642) - [Artificial Intelligence used to design new viruses](https://www.bbc.co.uk/news/articles/c5y3j3ngevmo)
 * [2026-08-07, 05:17:57](https://news.ycombinator.com/item?id=49206130) - [Framework discloses data breach via Metabase 0-day](https://community.frame.work/t/framework-data-breach-discussion/83939)
 * [2026-08-07, 05:15:27](https://news.ycombinator.com/item?id=49206115) - [Anthropic CEO reportedly worried new hires only care about money](https://finance.yahoo.com/technology/ai/articles/anthropic-ceo-reportedly-worried-hires-160000647.html)
