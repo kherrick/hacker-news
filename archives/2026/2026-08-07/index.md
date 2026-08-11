@@ -33,6 +33,7 @@
 * [2026-08-07, 14:55:08](https://news.ycombinator.com/item?id=49211438) - [Iceberg Collapses and Flips over in Ilulissat, Greenland (July 25, 2026) [video]](https://www.youtube.com/watch?v=UufMqwyO7pY)
 * [2026-08-07, 14:55:08](https://news.ycombinator.com/item?id=49211437) - [Software is about people, not code](https://letterstoanewdeveloper.com/2020/01/27/software-is-about-people-not-code/)
 * [2026-08-07, 14:51:57](https://news.ycombinator.com/item?id=49211386) - [99% of My Website Traffic Is Bots](https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/)
+* [2026-08-07, 14:38:00](https://news.ycombinator.com/item?id=49211158) - [Halcyon Video – a 3D video store for your media server](https://github.com/halcyon-video/halcyon-video)
 * [2026-08-07, 14:02:15](https://news.ycombinator.com/item?id=49210589) - [US's largest newspaper chain partners with Palantir to analyze audience data](https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/)
 * [2026-08-07, 13:39:45](https://news.ycombinator.com/item?id=49210240) - [U.S. Lost 23,000 Jobs in July, While Unemployment Ticked Lower](https://www.wsj.com/economy/jobs/july-jobs-report-unemployment-0d7c08a7)
 * [2026-08-07, 13:27:30](https://news.ycombinator.com/item?id=49210077) - [AI psychosis is the new leadership blind spot](https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots)

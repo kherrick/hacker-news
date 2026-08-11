@@ -4,11 +4,17 @@
 
 ### [Archives](../../index.md) for [2026-08-11](index.md)
 
+* [2026-08-11, 15:09:34](https://news.ycombinator.com/item?id=49259611) - [Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet](https://github.com/TheRealYT/git-knife)
+* [2026-08-11, 14:50:33](https://news.ycombinator.com/item?id=49259339) - [Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp](https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md)
+* [2026-08-11, 14:48:37](https://news.ycombinator.com/item?id=49259309) - [Launch HN: Keet (YC S24) – An app to create video courses on anything](https://www.trykeet.com/)
+* [2026-08-11, 14:27:31](https://news.ycombinator.com/item?id=49258970) - [The US tried to stop cartel money-laundering; devastated mom-and-pop businesses](https://www.theguardian.com/us-news/2026/aug/11/us-mexico-border-area-money-transfer-rule-change-small-businesses)
 * [2026-08-11, 14:21:47](https://news.ycombinator.com/item?id=49258881) - [Claude Code is leaking real email address as a User-Agent string in curl command](https://github.com/anthropics/claude-code/issues/78431)
+* [2026-08-11, 14:14:53](https://news.ycombinator.com/item?id=49258764) - [Manus will return to operating as an independent company](https://manus.im/blog/a-note-to-our-users)
 * [2026-08-11, 14:09:07](https://news.ycombinator.com/item?id=49258687) - [Greenland issues \"strong warning\" as American oil firm illegally drills wells](https://www.theguardian.com/world/2026/aug/08/greenland-iwarning-trump-linked-oil-firm-prepares-drill)
 * [2026-08-11, 14:03:18](https://news.ycombinator.com/item?id=49258581) - [Why Did OpenAI's Head of Ethics Chloé Bakalar Leave?](https://aimagazine.com/news/why-did-openai-head-of-ethics-chloe-bakalar-leave)
 * [2026-08-11, 13:42:27](https://news.ycombinator.com/item?id=49258202) - [$580M undersea cable rerouted to avoid the grave of Dobby the House Elf](https://www.tomshardware.com/networking/usd580-million-undersea-cable-rerouted-to-avoid-the-grave-of-dobby-the-house-elf-company-caves-to-fan-demands-to-safeguard-harry-potter-filming-location-will-instead-pass-by-bronze-age-burial-site)
 * [2026-08-11, 13:26:02](https://news.ycombinator.com/item?id=49257947) - [Nvidia Nemotron 3.5 Lightning](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4)
+* [2026-08-11, 13:22:00](https://news.ycombinator.com/item?id=49257876) - [Stealing Reasoning Traces from Proprietary LLM APIs](https://stolen-thoughts.com/)
 * [2026-08-11, 13:00:34](https://news.ycombinator.com/item?id=49257601) - [It's time Amazon played by the same rules as everyone else [video]](https://www.youtube.com/watch?v=91DoiansHqk)
 * [2026-08-11, 12:44:43](https://news.ycombinator.com/item?id=49257407) - [I backtested my own stock rankings. They lost to the index](https://holderdashboard.com/learn/backtest-that-lost-to-the-index)
 * [2026-08-11, 12:41:59](https://news.ycombinator.com/item?id=49257377) - [England set to be one of the first countries to eliminate hepatitis C](https://www.bbc.com/news/articles/c75gk620r22o)
