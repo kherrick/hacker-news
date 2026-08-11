@@ -4,7 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-08-11](index.md)
 
+* [2026-08-11, 14:21:47](https://news.ycombinator.com/item?id=49258881) - [Claude Code is leaking real email address as a User-Agent string in curl command](https://github.com/anthropics/claude-code/issues/78431)
+* [2026-08-11, 14:09:07](https://news.ycombinator.com/item?id=49258687) - [Greenland issues \"strong warning\" as American oil firm illegally drills wells](https://www.theguardian.com/world/2026/aug/08/greenland-iwarning-trump-linked-oil-firm-prepares-drill)
+* [2026-08-11, 14:03:18](https://news.ycombinator.com/item?id=49258581) - [Why Did OpenAI's Head of Ethics Chloé Bakalar Leave?](https://aimagazine.com/news/why-did-openai-head-of-ethics-chloe-bakalar-leave)
+* [2026-08-11, 13:42:27](https://news.ycombinator.com/item?id=49258202) - [$580M undersea cable rerouted to avoid the grave of Dobby the House Elf](https://www.tomshardware.com/networking/usd580-million-undersea-cable-rerouted-to-avoid-the-grave-of-dobby-the-house-elf-company-caves-to-fan-demands-to-safeguard-harry-potter-filming-location-will-instead-pass-by-bronze-age-burial-site)
+* [2026-08-11, 13:26:02](https://news.ycombinator.com/item?id=49257947) - [Nvidia Nemotron 3.5 Lightning](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4)
 * [2026-08-11, 13:00:34](https://news.ycombinator.com/item?id=49257601) - [It's time Amazon played by the same rules as everyone else [video]](https://www.youtube.com/watch?v=91DoiansHqk)
+* [2026-08-11, 12:44:43](https://news.ycombinator.com/item?id=49257407) - [I backtested my own stock rankings. They lost to the index](https://holderdashboard.com/learn/backtest-that-lost-to-the-index)
 * [2026-08-11, 12:41:59](https://news.ycombinator.com/item?id=49257377) - [England set to be one of the first countries to eliminate hepatitis C](https://www.bbc.com/news/articles/c75gk620r22o)
 * [2026-08-11, 11:02:34](https://news.ycombinator.com/item?id=49256258) - [How to organize Claude Code for product work](https://www.theaithinker.com/p/how-to-organize-claude-code-for-product)
 * [2026-08-11, 10:40:47](https://news.ycombinator.com/item?id=49256057) - [What I learned by putting GitHub Copilot behind a MitM proxy](https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm)
