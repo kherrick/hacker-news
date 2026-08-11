@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-08-11, 03:08:07",
-      "https://news.ycombinator.com/item?id=49252912"
+      "2026-08-11, 04:18:37",
+      "https://news.ycombinator.com/item?id=49253329"
     ],
     [
-      "US President hid in catering cart for secret flight in Turkey amid Iran threat",
-      "https://www.theguardian.com/us-news/2026/aug/10/trump-secret-flight-nato-return"
+      "Microsoft Responds to Outcry After Quiet Enterprise Install of Beta 'Photos' App",
+      "https://www.neowin.net/news/windows-11-admins-unhappy-as-microsoft-found-installing-unexpected-new-onedrive-photos-app/"
+    ]
+  ],
+  [
+    [
+      "2026-08-11, 04:04:36",
+      "https://news.ycombinator.com/item?id=49253250"
+    ],
+    [
+      "Updated GPG Key for Signing Firefox and Thunderbird Releases",
+      "https://blog.mozilla.org/security/2026/08/10/updated-gpg-key-for-signing-firefox-and-thunderbird-releases/"
+    ]
+  ],
+  [
+    [
+      "2026-08-11, 03:52:39",
+      "https://news.ycombinator.com/item?id=49253176"
+    ],
+    [
+      "Why My Father Is Wrong: A Defense of Guitar Hero",
+      "https://whatever.scalzi.com/2026/08/10/why-my-father-is-wrong-a-defense-of-guitar-hero/"
     ]
   ],
   [
@@ -35,7 +55,7 @@
       "https://news.ycombinator.com/item?id=49252179"
     ],
     [
-      "Antirez/h3.c: MiniMax H3 inference engine for Mac computers",
+      "H3-metal – Native MiniMax-H3 inference for Apple Silicon",
       "https://github.com/antirez/h3.c"
     ]
   ],
@@ -47,16 +67,6 @@
     [
       "Chicken Scheme 6.0",
       "https://code.call-cc.org/releases/6.0.0/NEWS"
-    ]
-  ],
-  [
-    [
-      "2026-08-10, 23:45:50",
-      "https://news.ycombinator.com/item?id=49251411"
-    ],
-    [
-      "The UK's War on Anonymity Has Come to America",
-      "https://www.effort.news/uk-lobby"
     ]
   ],
   [
@@ -87,16 +97,6 @@
     [
       "Confessions of a Long-Distance Sailor",
       "https://arachnoid.com/lutusp/sailbook.html"
-    ]
-  ],
-  [
-    [
-      "2026-08-10, 20:47:13",
-      "https://news.ycombinator.com/item?id=49249481"
-    ],
-    [
-      "Stop Killing Games: It's time to sue Sony, join us",
-      "https://www.massaschadeconsument.nl/collectieve-acties/playstation/"
     ]
   ],
   [
@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2026-08-10, 14:20:41",
-      "https://news.ycombinator.com/item?id=49244085"
-    ],
-    [
-      "Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines",
-      "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs"
-    ]
-  ],
-  [
-    [
       "2026-08-10, 14:06:22",
       "https://news.ycombinator.com/item?id=49243880"
     ],
@@ -187,6 +177,16 @@
     [
       "Humanising LLM Outputs Is Dumb",
       "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb"
+    ]
+  ],
+  [
+    [
+      "2026-08-10, 12:58:16",
+      "https://news.ycombinator.com/item?id=49243029"
+    ],
+    [
+      "50k Boat Names",
+      "https://www.beautifulpublicdata.com/boat-names/"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-08-04, 17:49:29",
-      "https://news.ycombinator.com/item?id=49172319"
+      "2026-08-04, 18:47:25",
+      "https://news.ycombinator.com/item?id=49173107"
     ],
     [
-      "The Psychedelic Toad of the Sonoran Desert",
-      "https://en.wikipedia.org/wiki/Bufo_Alvarius:_the_Psychedelic_Toad_of_the_Sonoran_Desert"
+      "LFM2.5 2.6B model competitive with 4x larger models",
+      "https://huggingface.co/LiquidAI/LFM2.5-2.6B"
     ]
   ]
 ]
