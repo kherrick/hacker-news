@@ -4,4 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-11](index.md)
 
+* [2026-08-11, 03:08:07](https://news.ycombinator.com/item?id=49252912) - [US President hid in catering cart for secret flight in Turkey amid Iran threat](https://www.theguardian.com/us-news/2026/aug/10/trump-secret-flight-nato-return)
+* [2026-08-11, 02:04:35](https://news.ycombinator.com/item?id=49252493) - [Hyperspace](https://hypercritical.co/hyperspace/)
+* [2026-08-11, 02:01:01](https://news.ycombinator.com/item?id=49252462) - [Recycle – Floppydisks](https://www.floppydisk.com/recycle)
+* [2026-08-11, 01:22:09](https://news.ycombinator.com/item?id=49252179) - [Antirez/h3.c: MiniMax H3 inference engine for Mac computers](https://github.com/antirez/h3.c)
 * [2026-08-11, 00:24:15](https://news.ycombinator.com/item?id=49251702) - [Chicken Scheme 6.0](https://code.call-cc.org/releases/6.0.0/NEWS)
