@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-08-11](index.md)
 
+* [2026-08-11, 21:56:18](https://news.ycombinator.com/item?id=49265051) - [WorldClaw Agentic 3D open-world generation at scale](https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/)
+* [2026-08-11, 21:54:25](https://news.ycombinator.com/item?id=49265031) - [pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries](https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026)
+* [2026-08-11, 21:28:26](https://news.ycombinator.com/item?id=49264755) - [Suzanne: AI tool for designing and manufacturing physical products](https://www.suzanne3d.com/)
+* [2026-08-11, 21:14:10](https://news.ycombinator.com/item?id=49264583) - [Emergent Introspective Awareness in Large Language Models](https://arxiv.org/abs/2601.01828)
 * [2026-08-11, 20:56:00](https://news.ycombinator.com/item?id=49264352) - [The 19th-Century Family Fortunes Funding Degrowth](https://www.effort.news/p4ne)
 * [2026-08-11, 20:54:25](https://news.ycombinator.com/item?id=49264334) - [OpenAI launches ChatGPT desktop app for Linux](https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/)
 * [2026-08-11, 20:01:27](https://news.ycombinator.com/item?id=49263658) - [The brain may be about to have its Ozempic moment](https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment)
