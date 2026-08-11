@@ -1,12 +1,62 @@
 [
   [
     [
-      "2026-08-11, 13:00:34",
-      "https://news.ycombinator.com/item?id=49257601"
+      "2026-08-11, 14:21:47",
+      "https://news.ycombinator.com/item?id=49258881"
     ],
     [
-      "It's time Amazon played by the same rules as everyone else [video]",
-      "https://www.youtube.com/watch?v=91DoiansHqk"
+      "Claude Code is leaking real email address as a User-Agent string in curl command",
+      "https://github.com/anthropics/claude-code/issues/78431"
+    ]
+  ],
+  [
+    [
+      "2026-08-11, 14:09:07",
+      "https://news.ycombinator.com/item?id=49258687"
+    ],
+    [
+      "Greenland issues \"strong warning\" as American oil firm illegally drills wells",
+      "https://www.theguardian.com/world/2026/aug/08/greenland-iwarning-trump-linked-oil-firm-prepares-drill"
+    ]
+  ],
+  [
+    [
+      "2026-08-11, 14:03:18",
+      "https://news.ycombinator.com/item?id=49258581"
+    ],
+    [
+      "Why Did OpenAI's Head of Ethics Chloé Bakalar Leave?",
+      "https://aimagazine.com/news/why-did-openai-head-of-ethics-chloe-bakalar-leave"
+    ]
+  ],
+  [
+    [
+      "2026-08-11, 13:42:27",
+      "https://news.ycombinator.com/item?id=49258202"
+    ],
+    [
+      "$580M undersea cable rerouted to avoid the grave of Dobby the House Elf",
+      "https://www.tomshardware.com/networking/usd580-million-undersea-cable-rerouted-to-avoid-the-grave-of-dobby-the-house-elf-company-caves-to-fan-demands-to-safeguard-harry-potter-filming-location-will-instead-pass-by-bronze-age-burial-site"
+    ]
+  ],
+  [
+    [
+      "2026-08-11, 13:26:02",
+      "https://news.ycombinator.com/item?id=49257947"
+    ],
+    [
+      "Nvidia Nemotron 3.5 Lightning",
+      "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4"
+    ]
+  ],
+  [
+    [
+      "2026-08-11, 12:44:43",
+      "https://news.ycombinator.com/item?id=49257407"
+    ],
+    [
+      "I backtested my own stock rankings. They lost to the index",
+      "https://holderdashboard.com/learn/backtest-that-lost-to-the-index"
     ]
   ],
   [
@@ -17,16 +67,6 @@
     [
       "England set to be one of the first countries to eliminate hepatitis C",
       "https://www.bbc.com/news/articles/c75gk620r22o"
-    ]
-  ],
-  [
-    [
-      "2026-08-11, 11:02:34",
-      "https://news.ycombinator.com/item?id=49256258"
-    ],
-    [
-      "How to organize Claude Code for product work",
-      "https://www.theaithinker.com/p/how-to-organize-claude-code-for-product"
     ]
   ],
   [
@@ -47,16 +87,6 @@
     [
       "Nvidia's Risky Business",
       "https://stratechery.com/2026/nvidias-risky-business/"
-    ]
-  ],
-  [
-    [
-      "2026-08-11, 09:57:14",
-      "https://news.ycombinator.com/item?id=49255672"
-    ],
-    [
-      "More than 10 firms pay up to $100k a month for access to Truth Social posts",
-      "https://www.bbc.com/news/articles/ce3q5nxpgk1o"
     ]
   ],
   [
@@ -151,22 +181,22 @@
   ],
   [
     [
-      "2026-08-10, 20:52:55",
-      "https://news.ycombinator.com/item?id=49249555"
-    ],
-    [
-      "Confessions of a Long-Distance Sailor",
-      "https://arachnoid.com/lutusp/sailbook.html"
-    ]
-  ],
-  [
-    [
       "2026-08-10, 18:12:49",
       "https://news.ycombinator.com/item?id=49247477"
     ],
     [
       "Rust SIMD on the GPU",
       "https://www.vectorware.com/blog/simd-on-gpu/"
+    ]
+  ],
+  [
+    [
+      "2026-08-10, 17:41:13",
+      "https://news.ycombinator.com/item?id=49247070"
+    ],
+    [
+      "Learning more about Claude's mathematical capabilities",
+      "https://www.anthropic.com/research/riemann-zeta"
     ]
   ],
   [
@@ -191,42 +221,12 @@
   ],
   [
     [
-      "2026-08-10, 12:15:53",
-      "https://news.ycombinator.com/item?id=49242653"
-    ],
-    [
-      "Squeak 6.1",
-      "https://squeak.org/release_notes/6.1/"
-    ]
-  ],
-  [
-    [
-      "2026-08-10, 11:34:40",
-      "https://news.ycombinator.com/item?id=49242297"
-    ],
-    [
-      "Tail-call optimization in C is relatively recent (2025)",
-      "https://lwn.net/Articles/1034703/"
-    ]
-  ],
-  [
-    [
       "2026-08-10, 10:10:02",
       "https://news.ycombinator.com/item?id=49241679"
     ],
     [
       "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
       "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"
-    ]
-  ],
-  [
-    [
-      "2026-08-08, 07:36:55",
-      "https://news.ycombinator.com/item?id=49219679"
-    ],
-    [
-      "To Save C, We Must Save ABI (2022)",
-      "https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi"
     ]
   ],
   [
