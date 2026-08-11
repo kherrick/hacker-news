@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-08-11](index.md)
 
+* [2026-08-11, 05:46:16](https://news.ycombinator.com/item?id=49253813) - [Half of Europe's towns and villages have fewer residents than 60 years ago](https://correctiv.org/en/europe/2026/04/21/half-of-europes-towns-and-villages-have-fewer-residents-than-60-years-ago/)
+* [2026-08-11, 05:30:24](https://news.ycombinator.com/item?id=49253738) - [DeepSeek: Reverse Engineering an AI Assistant by Interviewing Itself](https://manish.sh/writings/models/inside-deepseek-reverse-engineering-an-ai-assistant-by-interviewing-itself)
+* [2026-08-11, 05:26:58](https://news.ycombinator.com/item?id=49253721) - [Show HN: Mcptoon – MCP CLI client that cuts tool discovery tokens by 97%](https://github.com/activeing123/mcptoon)
 * [2026-08-11, 04:18:37](https://news.ycombinator.com/item?id=49253329) - [Microsoft Responds to Outcry After Quiet Enterprise Install of Beta 'Photos' App](https://www.neowin.net/news/windows-11-admins-unhappy-as-microsoft-found-installing-unexpected-new-onedrive-photos-app/)
 * [2026-08-11, 04:04:36](https://news.ycombinator.com/item?id=49253250) - [Updated GPG Key for Signing Firefox and Thunderbird Releases](https://blog.mozilla.org/security/2026/08/10/updated-gpg-key-for-signing-firefox-and-thunderbird-releases/)
 * [2026-08-11, 03:52:39](https://news.ycombinator.com/item?id=49253176) - [Why My Father Is Wrong: A Defense of Guitar Hero](https://whatever.scalzi.com/2026/08/10/why-my-father-is-wrong-a-defense-of-guitar-hero/)

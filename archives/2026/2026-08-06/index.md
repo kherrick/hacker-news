@@ -19,6 +19,7 @@
 * [2026-08-06, 20:23:11](https://news.ycombinator.com/item?id=49201970) - [AMD acquires Taalas to boost inference performance by etching models in silicon](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344)
 * [2026-08-06, 20:21:19](https://news.ycombinator.com/item?id=49201930) - [Quake – 30th Anniversary Update](https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update)
 * [2026-08-06, 19:14:21](https://news.ycombinator.com/item?id=49201003) - [Herdr is joining Y Combinator. The runtime stays open](https://herdr.dev/blog/herdr-is-joining-y-combinator/)
+* [2026-08-06, 19:08:36](https://news.ycombinator.com/item?id=49200947) - [Once More in Triple Time](https://theamericanscholar.org/once-more-in-triple-time/)
 * [2026-08-06, 19:07:33](https://news.ycombinator.com/item?id=49200933) - [Can you reverse engineer an ASIC?](https://blog.janestreet.com/can-you-reverse-engineer-an-asic/)
 * [2026-08-06, 18:44:49](https://news.ycombinator.com/item?id=49200652) - [Qwen3.8 Max now ranked as the best overall model by agentic index](https://artificialanalysis.ai/?intelligence=agentic-index)
 * [2026-08-06, 18:26:08](https://news.ycombinator.com/item?id=49200439) - [My phone detects going on a run as \"someone snatching my phone and running off\"](https://mastodon.gamedev.place/@rygorous/117047697255584965)
