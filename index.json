@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2026-08-11, 20:54:25",
-      "https://news.ycombinator.com/item?id=49264334"
-    ],
-    [
-      "OpenAI launches ChatGPT desktop app for Linux",
-      "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/"
-    ]
-  ],
-  [
-    [
       "2026-08-11, 19:49:44",
       "https://news.ycombinator.com/item?id=49263497"
     ],
@@ -87,6 +77,16 @@
     [
       "How we used to get jobs: A newspaper classifieds story",
       "https://ironicsans.ghost.io/how-we-used-to-get-jobs/"
+    ]
+  ],
+  [
+    [
+      "2026-08-11, 18:06:55",
+      "https://news.ycombinator.com/item?id=49262172"
+    ],
+    [
+      "Ethical Cold Outreach",
+      "https://blog.val.town/ethical-cold-outreach"
     ]
   ],
   [
@@ -157,16 +157,6 @@
     [
       "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
       "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md"
-    ]
-  ],
-  [
-    [
-      "2026-08-11, 14:48:37",
-      "https://news.ycombinator.com/item?id=49259309"
-    ],
-    [
-      "Launch HN: Keet (YC S24) – An app to create video courses on anything",
-      "https://www.trykeet.com/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "The Hat and the Spectre – Recent Groundbreaking Discoveries in Mathematics",
       "https://momath.org/the-hat/"
+    ]
+  ],
+  [
+    [
+      "2026-08-07, 13:36:39",
+      "https://news.ycombinator.com/item?id=49210199"
+    ],
+    [
+      "Show HN: Tamron Lens Utility Alternative on Linux",
+      "https://github.com/yikerman/tamron-lens-control"
     ]
   ],
   [
