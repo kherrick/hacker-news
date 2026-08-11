@@ -81,6 +81,7 @@
 * [2026-08-05, 11:01:37](https://news.ycombinator.com/item?id=49181083) - [Position: LLMs Can't Jump](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt)
 * [2026-08-05, 10:38:57](https://news.ycombinator.com/item?id=49180901) - [No Data Centers in My Backyard](https://jasmi.news/p/no-data-centers-in-my-backyard)
 * [2026-08-05, 09:59:34](https://news.ycombinator.com/item?id=49180649) - [Making difficulty curves in games](http://www.davetech.co.uk/difficultycurves)
+* [2026-08-05, 09:17:30](https://news.ycombinator.com/item?id=49180424) - [An Exegesis of the Visionary Autobiography of a Fourteenth-Century French Monk](https://www.psupress.org/books/titles/978-0-271-06650-9.html?srsltid=AfmBOorGIOS9Y77k3J_CX6UWqfZlPbHXO-8zSjtD5coAKmnN47_e9kAW&utm_source=chatgpt.com)
 * [2026-08-05, 09:15:33](https://news.ycombinator.com/item?id=49180407) - [Helsinki Hacker News Meetup](https://calpaterson.com/helsinki-hn.html)
 * [2026-08-05, 09:00:07](https://news.ycombinator.com/item?id=49180302) - [Building a Rust Inference Engine That Matches Llama.cpp](https://www.fratepietro.com/2026/ferrox-rust-gguf-inference-engine/)
 * [2026-08-05, 08:27:40](https://news.ycombinator.com/item?id=49180059) - [When Compilers Disagree About UTF‑8](https://nemanjatrifunovic.substack.com/p/when-compilers-disagree-about-utf8)

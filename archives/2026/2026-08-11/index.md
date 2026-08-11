@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-11](index.md)
 
+* [2026-08-11, 20:56:00](https://news.ycombinator.com/item?id=49264352) - [The 19th-Century Family Fortunes Funding Degrowth](https://www.effort.news/p4ne)
+* [2026-08-11, 20:54:25](https://news.ycombinator.com/item?id=49264334) - [OpenAI launches ChatGPT desktop app for Linux](https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/)
 * [2026-08-11, 20:01:27](https://news.ycombinator.com/item?id=49263658) - [The brain may be about to have its Ozempic moment](https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment)
 * [2026-08-11, 19:49:44](https://news.ycombinator.com/item?id=49263497) - [Compression Is Prediction](https://ngrok.com/blog/compression-is-prediction)
 * [2026-08-11, 19:45:41](https://news.ycombinator.com/item?id=49263461) - [Bluesky's active user base is shrinking as its focus expands beyond the app](https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/)
@@ -14,8 +16,10 @@
 * [2026-08-11, 18:09:56](https://news.ycombinator.com/item?id=49262211) - [How we used to get jobs: A newspaper classifieds story](https://ironicsans.ghost.io/how-we-used-to-get-jobs/)
 * [2026-08-11, 17:49:37](https://news.ycombinator.com/item?id=49261895) - [OpenSSH 10.5 released, AI fixes now welcome](https://www.openssh.org/releasenotes.html#10.5)
 * [2026-08-11, 17:47:03](https://news.ycombinator.com/item?id=49261857) - [The SpaceX Sham](https://dissentmagazine.org/online_articles/spacex-ipo-elon-musk-trillionaire/)
+* [2026-08-11, 17:23:09](https://news.ycombinator.com/item?id=49261514) - [Grok Bot](https://x.ai/bot)
 * [2026-08-11, 17:16:06](https://news.ycombinator.com/item?id=49261417) - [CSS properties you should know for better text designs](https://master.dev/blog/typographic-css-tricks/)
 * [2026-08-11, 17:02:59](https://news.ycombinator.com/item?id=49261218) - [Woman Pulled over at Gunpoint Twice After Flock Camera Glitch](https://guessingheadlights.com/yall-failed-me-woman-pulled-over-at-gunpoint-twice-after-flock-camera-glitch/)
+* [2026-08-11, 17:01:21](https://news.ycombinator.com/item?id=49261192) - [RSI Simulator](https://www.paradigm.xyz/writing/rsi-simulator)
 * [2026-08-11, 16:57:09](https://news.ycombinator.com/item?id=49261133) - [Why Go Is an Ideal Language for AI-Assisted Software Engineering](https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/)
 * [2026-08-11, 16:56:46](https://news.ycombinator.com/item?id=49261128) - [Mojo 1.0](https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here)
 * [2026-08-11, 15:54:35](https://news.ycombinator.com/item?id=49260250) - [University of Michigan Drops First-Semester Grades To'Curb Mental Health Crisis'](https://www.wsj.com/us-news/education/university-of-michigan-grades-mental-health-1a5701d4)
