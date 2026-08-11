@@ -1,12 +1,62 @@
 [
   [
     [
-      "2026-08-11, 10:26:49",
-      "https://news.ycombinator.com/item?id=49255918"
+      "2026-08-11, 13:00:34",
+      "https://news.ycombinator.com/item?id=49257601"
     ],
     [
-      "Panic of 1873",
-      "https://en.wikipedia.org/wiki/Panic_of_1873"
+      "It's time Amazon played by the same rules as everyone else [video]",
+      "https://www.youtube.com/watch?v=91DoiansHqk"
+    ]
+  ],
+  [
+    [
+      "2026-08-11, 12:41:59",
+      "https://news.ycombinator.com/item?id=49257377"
+    ],
+    [
+      "England set to be one of the first countries to eliminate hepatitis C",
+      "https://www.bbc.com/news/articles/c75gk620r22o"
+    ]
+  ],
+  [
+    [
+      "2026-08-11, 11:02:34",
+      "https://news.ycombinator.com/item?id=49256258"
+    ],
+    [
+      "How to organize Claude Code for product work",
+      "https://www.theaithinker.com/p/how-to-organize-claude-code-for-product"
+    ]
+  ],
+  [
+    [
+      "2026-08-11, 10:40:47",
+      "https://news.ycombinator.com/item?id=49256057"
+    ],
+    [
+      "What I learned by putting GitHub Copilot behind a MitM proxy",
+      "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm"
+    ]
+  ],
+  [
+    [
+      "2026-08-11, 10:02:00",
+      "https://news.ycombinator.com/item?id=49255710"
+    ],
+    [
+      "Nvidia's Risky Business",
+      "https://stratechery.com/2026/nvidias-risky-business/"
+    ]
+  ],
+  [
+    [
+      "2026-08-11, 09:57:14",
+      "https://news.ycombinator.com/item?id=49255672"
+    ],
+    [
+      "More than 10 firms pay up to $100k a month for access to Truth Social posts",
+      "https://www.bbc.com/news/articles/ce3q5nxpgk1o"
     ]
   ],
   [
@@ -27,16 +77,6 @@
     [
       "France to ban unsolicited telemarketing calls",
       "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html"
-    ]
-  ],
-  [
-    [
-      "2026-08-11, 05:26:58",
-      "https://news.ycombinator.com/item?id=49253721"
-    ],
-    [
-      "Show HN: Mcptoon – Token-efficient MCP CLI client",
-      "https://github.com/activeing123/mcptoon"
     ]
   ],
   [
@@ -131,42 +171,12 @@
   ],
   [
     [
-      "2026-08-10, 17:41:13",
-      "https://news.ycombinator.com/item?id=49247070"
-    ],
-    [
-      "Learning more about Claude's mathematical capabilities",
-      "https://www.anthropic.com/research/riemann-zeta"
-    ]
-  ],
-  [
-    [
       "2026-08-10, 17:22:07",
       "https://news.ycombinator.com/item?id=49246804"
     ],
     [
       "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
       "https://cactuscompute.com/needle"
-    ]
-  ],
-  [
-    [
-      "2026-08-10, 16:28:58",
-      "https://news.ycombinator.com/item?id=49245936"
-    ],
-    [
-      "What's the best programming language for coding agents?",
-      "http://danluu.com/pl-tokens/"
-    ]
-  ],
-  [
-    [
-      "2026-08-10, 15:59:23",
-      "https://news.ycombinator.com/item?id=49245437"
-    ],
-    [
-      "Show HN: Ante, a coding agent in a single binary that runs offline",
-      "https://github.com/AntigmaLabs/ante"
     ]
   ],
   [
@@ -221,22 +231,22 @@
   ],
   [
     [
-      "2026-08-07, 15:59:08",
-      "https://news.ycombinator.com/item?id=49212449"
-    ],
-    [
-      "Publishing Schematics Before “Open Source” Was a Word",
-      "https://fabscene.medium.com/publishing-schematics-before-open-source-was-a-word-55-years-of-akizuki-denshi-japans-be7ca9629704"
-    ]
-  ],
-  [
-    [
       "2026-08-07, 13:15:10",
       "https://news.ycombinator.com/item?id=49209918"
     ],
     [
       "Stowaway – Take the window seat on any plane or satellite overhead",
       "https://stowaway.live/"
+    ]
+  ],
+  [
+    [
+      "2026-08-07, 12:33:44",
+      "https://news.ycombinator.com/item?id=49209433"
+    ],
+    [
+      "Immersion lithography saved Moore's Law (2023)",
+      "https://www.asml.com/en/company/stories/2023/how-immersion-lithography-saved-moores-law"
     ]
   ],
   [
@@ -251,32 +261,22 @@
   ],
   [
     [
-      "2026-08-07, 07:21:30",
-      "https://news.ycombinator.com/item?id=49206978"
-    ],
-    [
-      "Programming the Gigatron",
-      "https://www.iwriteiam.nl/PGigatron.html"
-    ]
-  ],
-  [
-    [
-      "2026-08-07, 02:58:18",
-      "https://news.ycombinator.com/item?id=49205441"
-    ],
-    [
-      "About Rx Kids",
-      "https://rxkids.org/about/"
-    ]
-  ],
-  [
-    [
       "2026-08-06, 13:43:12",
       "https://news.ycombinator.com/item?id=49196581"
     ],
     [
       "Faster floating point math with Rust's new API",
       "https://pythonspeed.com/articles/faster-float-math-rust/"
+    ]
+  ],
+  [
+    [
+      "2026-08-05, 16:42:08",
+      "https://news.ycombinator.com/item?id=49185312"
+    ],
+    [
+      "Hollywood and Shanghai Cinema in the 1930s [pdf]",
+      "https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=2225&context=clcweb"
     ]
   ],
   [
