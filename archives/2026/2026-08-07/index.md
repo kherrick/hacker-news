@@ -36,6 +36,7 @@
 * [2026-08-07, 14:38:00](https://news.ycombinator.com/item?id=49211158) - [Halcyon Video – a 3D video store for your media server](https://github.com/halcyon-video/halcyon-video)
 * [2026-08-07, 14:02:15](https://news.ycombinator.com/item?id=49210589) - [US's largest newspaper chain partners with Palantir to analyze audience data](https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/)
 * [2026-08-07, 13:39:45](https://news.ycombinator.com/item?id=49210240) - [U.S. Lost 23,000 Jobs in July, While Unemployment Ticked Lower](https://www.wsj.com/economy/jobs/july-jobs-report-unemployment-0d7c08a7)
+* [2026-08-07, 13:36:39](https://news.ycombinator.com/item?id=49210199) - [Show HN: Tamron Lens Utility Alternative on Linux](https://github.com/yikerman/tamron-lens-control)
 * [2026-08-07, 13:27:30](https://news.ycombinator.com/item?id=49210077) - [AI psychosis is the new leadership blind spot](https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots)
 * [2026-08-07, 13:19:53](https://news.ycombinator.com/item?id=49209971) - [Sorting, hashing, and sketches on 370,103 words](https://stochastic.blog/sorting-hashing-and-sketches-on-370-103-words/)
 * [2026-08-07, 13:15:36](https://news.ycombinator.com/item?id=49209921) - [The web server deployment model breaks at hobby scale](https://w.on-t.work/web-deployment-model)

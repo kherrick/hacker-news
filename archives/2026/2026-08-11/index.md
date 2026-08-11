@@ -18,6 +18,7 @@
 * [2026-08-11, 18:51:35](https://news.ycombinator.com/item?id=49262811) - [Making holograms with a pen plotter](https://blog.jordan.matelsky.com/Penplotter-holography/)
 * [2026-08-11, 18:47:54](https://news.ycombinator.com/item?id=49262761) - [The Tradeoffs Facing Japan's Economy](https://www.emergingtrajectories.com/lh/japan-economy-tradeoffs/)
 * [2026-08-11, 18:09:56](https://news.ycombinator.com/item?id=49262211) - [How we used to get jobs: A newspaper classifieds story](https://ironicsans.ghost.io/how-we-used-to-get-jobs/)
+* [2026-08-11, 18:06:55](https://news.ycombinator.com/item?id=49262172) - [Ethical Cold Outreach](https://blog.val.town/ethical-cold-outreach)
 * [2026-08-11, 17:49:37](https://news.ycombinator.com/item?id=49261895) - [OpenSSH 10.5 released, AI fixes now welcome](https://www.openssh.org/releasenotes.html#10.5)
 * [2026-08-11, 17:47:03](https://news.ycombinator.com/item?id=49261857) - [The SpaceX Sham](https://dissentmagazine.org/online_articles/spacex-ipo-elon-musk-trillionaire/)
 * [2026-08-11, 17:23:09](https://news.ycombinator.com/item?id=49261514) - [Grok Bot](https://x.ai/bot)
