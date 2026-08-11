@@ -41,32 +41,12 @@
   ],
   [
     [
-      "2026-08-11, 19:05:10",
-      "https://news.ycombinator.com/item?id=49262961"
-    ],
-    [
-      "The whole of PyTorch on one page",
-      "https://tensor.khalilli.ai/blog/part-0-the-map/"
-    ]
-  ],
-  [
-    [
       "2026-08-11, 18:51:35",
       "https://news.ycombinator.com/item?id=49262811"
     ],
     [
       "Making holograms with a pen plotter",
       "https://blog.jordan.matelsky.com/Penplotter-holography/"
-    ]
-  ],
-  [
-    [
-      "2026-08-11, 18:47:54",
-      "https://news.ycombinator.com/item?id=49262761"
-    ],
-    [
-      "The Tradeoffs Facing Japan's Economy",
-      "https://www.emergingtrajectories.com/lh/japan-economy-tradeoffs/"
     ]
   ],
   [
@@ -241,12 +221,32 @@
   ],
   [
     [
+      "2026-08-11, 00:24:15",
+      "https://news.ycombinator.com/item?id=49251702"
+    ],
+    [
+      "Chicken Scheme 6.0",
+      "https://code.call-cc.org/releases/6.0.0/NEWS"
+    ]
+  ],
+  [
+    [
       "2026-08-10, 22:36:30",
       "https://news.ycombinator.com/item?id=49250836"
     ],
     [
       "As AI eats the web, the internet’s collective memory is disappearing",
       "https://thewalrus.ca/google-search-is-dying/"
+    ]
+  ],
+  [
+    [
+      "2026-08-10, 17:22:07",
+      "https://news.ycombinator.com/item?id=49246804"
+    ],
+    [
+      "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+      "https://cactuscompute.com/needle"
     ]
   ],
   [
