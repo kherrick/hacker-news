@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2026-08-11, 02:04:35",
-      "https://news.ycombinator.com/item?id=49252493"
-    ],
-    [
-      "Hyperspace",
-      "https://hypercritical.co/hyperspace/"
-    ]
-  ],
-  [
-    [
       "2026-08-11, 02:01:01",
       "https://news.ycombinator.com/item?id=49252462"
     ],
@@ -227,6 +217,16 @@
     [
       "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
       "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"
+    ]
+  ],
+  [
+    [
+      "2026-08-08, 07:36:55",
+      "https://news.ycombinator.com/item?id=49219679"
+    ],
+    [
+      "To Save C, We Must Save ABI",
+      "https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi"
     ]
   ],
   [
