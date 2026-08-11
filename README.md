@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-11, 10:26:49](https://news.ycombinator.com/item?id=49255918) - [Panic of 1873](https://en.wikipedia.org/wiki/Panic_of_1873)
 * [2026-08-11, 08:16:19](https://news.ycombinator.com/item?id=49254881) - [Closing Canario Terminal source code](https://rapha.land/closing-canario-terminal-source-code/)
 * [2026-08-11, 08:15:46](https://news.ycombinator.com/item?id=49254880) - [France to ban unsolicited telemarketing calls](https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html)
-* [2026-08-11, 07:00:57](https://news.ycombinator.com/item?id=49254351) - [The Water Footprint of AI](https://doi.org/10.1016/j.watres.2026.125866)
 * [2026-08-11, 05:26:58](https://news.ycombinator.com/item?id=49253721) - [Show HN: Mcptoon – Token-efficient MCP CLI client](https://github.com/activeing123/mcptoon)
 * [2026-08-11, 02:01:01](https://news.ycombinator.com/item?id=49252462) - [Recycle – Floppydisks](https://www.floppydisk.com/recycle)
 * [2026-08-11, 01:22:09](https://news.ycombinator.com/item?id=49252179) - [H3-metal – Native MiniMax-H3 inference for Apple Silicon](https://github.com/antirez/h3.c)
@@ -21,7 +21,7 @@
 * [2026-08-10, 12:15:53](https://news.ycombinator.com/item?id=49242653) - [Squeak 6.1](https://squeak.org/release_notes/6.1/)
 * [2026-08-10, 11:34:40](https://news.ycombinator.com/item?id=49242297) - [Tail-call optimization in C is relatively recent (2025)](https://lwn.net/Articles/1034703/)
 * [2026-08-10, 10:10:02](https://news.ycombinator.com/item?id=49241679) - [Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model)
-* [2026-08-08, 07:36:55](https://news.ycombinator.com/item?id=49219679) - [To Save C, We Must Save ABI](https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi)
+* [2026-08-08, 07:36:55](https://news.ycombinator.com/item?id=49219679) - [To Save C, We Must Save ABI (2022)](https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi)
 * [2026-08-07, 15:59:08](https://news.ycombinator.com/item?id=49212449) - [Publishing Schematics Before “Open Source” Was a Word](https://fabscene.medium.com/publishing-schematics-before-open-source-was-a-word-55-years-of-akizuki-denshi-japans-be7ca9629704)
 * [2026-08-07, 13:15:10](https://news.ycombinator.com/item?id=49209918) - [Stowaway – Take the window seat on any plane or satellite overhead](https://stowaway.live/)
 * [2026-08-07, 10:26:34](https://news.ycombinator.com/item?id=49208296) - [Sonic Pi v5](https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392)

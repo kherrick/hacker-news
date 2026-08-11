@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-11](index.md)
 
+* [2026-08-11, 10:26:49](https://news.ycombinator.com/item?id=49255918) - [Panic of 1873](https://en.wikipedia.org/wiki/Panic_of_1873)
 * [2026-08-11, 09:40:02](https://news.ycombinator.com/item?id=49255496) - [London Underground begins scanning passengers' faces](https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/)
 * [2026-08-11, 08:16:19](https://news.ycombinator.com/item?id=49254881) - [Closing Canario Terminal source code](https://rapha.land/closing-canario-terminal-source-code/)
 * [2026-08-11, 08:15:46](https://news.ycombinator.com/item?id=49254880) - [France to ban unsolicited telemarketing calls](https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html)
