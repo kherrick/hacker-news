@@ -32,6 +32,7 @@
 * [2026-08-10, 15:54:47](https://news.ycombinator.com/item?id=49245348) - [Midlife Vascular Risk Burden and Dementia-Free Survival Years](https://www.neurology.org/doi/10.1212/WN9.0000000000000152)
 * [2026-08-10, 15:53:01](https://news.ycombinator.com/item?id=49245318) - [Extreme 220GHz+Broadband Silicon Capacitor X2SC 0201M 22nF BV11](https://pim.murata.com/asset/pim4/siliconCapacitor/SICAP_X2SC422522_PDF_SILICONCAPACITOR)
 * [2026-08-10, 15:49:48](https://news.ycombinator.com/item?id=49245251) - [Magnitude 7.4 Earthquake – 5 km S of San José del Palmar, Colombia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2/executive)
+* [2026-08-10, 15:40:24](https://news.ycombinator.com/item?id=49245123) - [Beltrunner: Game Design Postmortem](https://blog.gingerbeardman.com/2026/07/30/beltrunner-game-design-postmortem/)
 * [2026-08-10, 15:35:00](https://news.ycombinator.com/item?id=49245062) - [OpenAI's New Device Will Be Hockey Puck-Sized and Cost over $300](https://www.bloomberg.com/news/articles/2026-08-06/what-is-openai-s-device-a-doughnut-shaped-speaker-that-costs-over-300)
 * [2026-08-10, 15:32:04](https://news.ycombinator.com/item?id=49245023) - [Mars Bar from 1991 found – and it's 20g bigger than today's](https://www.bbc.com/news/articles/c1j1kjy7gewo)
 * [2026-08-10, 15:31:55](https://news.ycombinator.com/item?id=49245019) - [Convince an AI it's not alive in psychological horror game Prove You're Human](https://www.theguardian.com/games/2026/aug/10/ai-psychological-horror-game-prove-youre-human-sunset-visitor-studio)
