@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-10](index.md)
 
+* [2026-08-10, 23:45:50](https://news.ycombinator.com/item?id=49251411) - [The UK's War on Anonymity Has Come to America](https://www.effort.news/uk-lobby)
+* [2026-08-10, 23:16:25](https://news.ycombinator.com/item?id=49251179) - [Show HN: Scroll through all 43252003274489856000 Rubik's Cube states](https://everycube.alen.is/)
 * [2026-08-10, 22:42:14](https://news.ycombinator.com/item?id=49250894) - [World Train Map – 1247 train routes around the world](https://worldtrainmap.com/)
 * [2026-08-10, 22:36:30](https://news.ycombinator.com/item?id=49250836) - [Google Search Is Dying. What Comes Next Is Worse](https://thewalrus.ca/google-search-is-dying/)
 * [2026-08-10, 22:27:06](https://news.ycombinator.com/item?id=49250731) - [Mark Zuckerberg's Yacht Refused to Help Ship in Distress](https://nymag.com/intelligencer/article/zuckerbergs-yacht-booed-over-failing-to-help-stranded-boat.html)
@@ -17,6 +19,7 @@
 * [2026-08-10, 18:11:52](https://news.ycombinator.com/item?id=49247461) - [Security Vulnerability in Pioneer Rekordbox](https://alphatheta.com/en/information/important-notice-security-vulnerability-in-pro-dj-link/)
 * [2026-08-10, 17:41:13](https://news.ycombinator.com/item?id=49247070) - [Learning more about Claude's mathematical capabilities](https://www.anthropic.com/research/riemann-zeta)
 * [2026-08-10, 17:22:07](https://news.ycombinator.com/item?id=49246804) - [Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots](https://cactuscompute.com/needle)
+* [2026-08-10, 17:14:00](https://news.ycombinator.com/item?id=49246704) - [GPT 5.6 Cyber](https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows/)
 * [2026-08-10, 16:35:27](https://news.ycombinator.com/item?id=49246057) - [Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers](https://www.stoaexchange.com)
 * [2026-08-10, 16:32:03](https://news.ycombinator.com/item?id=49245990) - [Don't Build Mindreading](https://www.lesswrong.com/posts/CAdG5dzkWrrK2NQg8/don-t-build-mindreading)
 * [2026-08-10, 16:28:58](https://news.ycombinator.com/item?id=49245936) - [What's the best programming language for coding agents?](http://danluu.com/pl-tokens/)
