@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-08-11, 05:26:58](https://news.ycombinator.com/item?id=49253721) - [Show HN: Mcptoon – Token-efficient MCP CLI client](https://github.com/activeing123/mcptoon)
-* [2026-08-11, 02:04:35](https://news.ycombinator.com/item?id=49252493) - [Hyperspace](https://hypercritical.co/hyperspace/)
 * [2026-08-11, 02:01:01](https://news.ycombinator.com/item?id=49252462) - [Recycle – Floppydisks](https://www.floppydisk.com/recycle)
 * [2026-08-11, 01:22:09](https://news.ycombinator.com/item?id=49252179) - [H3-metal – Native MiniMax-H3 inference for Apple Silicon](https://github.com/antirez/h3.c)
 * [2026-08-11, 00:24:15](https://news.ycombinator.com/item?id=49251702) - [Chicken Scheme 6.0](https://code.call-cc.org/releases/6.0.0/NEWS)
@@ -23,6 +22,7 @@
 * [2026-08-10, 11:34:40](https://news.ycombinator.com/item?id=49242297) - [Tail-call optimization in C is relatively recent (2025)](https://lwn.net/Articles/1034703/)
 * [2026-08-10, 10:29:14](https://news.ycombinator.com/item?id=49241846) - [Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes](https://ethw.org/Milestones:Parametron,_1954)
 * [2026-08-10, 10:10:02](https://news.ycombinator.com/item?id=49241679) - [Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model)
+* [2026-08-08, 07:36:55](https://news.ycombinator.com/item?id=49219679) - [To Save C, We Must Save ABI](https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi)
 * [2026-08-07, 19:21:42](https://news.ycombinator.com/item?id=49215111) - [Choral: Choreographic Programming for Java](https://www.choral-lang.org/)
 * [2026-08-07, 15:59:08](https://news.ycombinator.com/item?id=49212449) - [Publishing Schematics Before “Open Source” Was a Word](https://fabscene.medium.com/publishing-schematics-before-open-source-was-a-word-55-years-of-akizuki-denshi-japans-be7ca9629704)
 * [2026-08-07, 13:15:10](https://news.ycombinator.com/item?id=49209918) - [Stowaway – Take the window seat on any plane or satellite overhead](https://stowaway.live/)
