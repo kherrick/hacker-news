@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-11, 15:54:35",
+      "https://news.ycombinator.com/item?id=49260250"
+    ],
+    [
+      "University of Michigan Drops First-Semester Grades To'Curb Mental Health Crisis'",
+      "https://www.wsj.com/us-news/education/university-of-michigan-grades-mental-health-1a5701d4"
+    ]
+  ],
+  [
+    [
       "2026-08-11, 15:09:34",
       "https://news.ycombinator.com/item?id=49259611"
     ],
@@ -31,6 +41,16 @@
   ],
   [
     [
+      "2026-08-11, 14:32:21",
+      "https://news.ycombinator.com/item?id=49259043"
+    ],
+    [
+      "Federal vendor with $50M in contracts leaves portal broken for a month",
+      "https://www.propublica.org/article/foia-requests-responses"
+    ]
+  ],
+  [
+    [
       "2026-08-11, 14:27:31",
       "https://news.ycombinator.com/item?id=49258970"
     ],
@@ -51,6 +71,16 @@
   ],
   [
     [
+      "2026-08-11, 14:04:13",
+      "https://news.ycombinator.com/item?id=49258599"
+    ],
+    [
+      "Flock wanted to tap dashcams in rideshare vechicles to add to surveillance data",
+      "https://flowingdata.com/2026/08/10/flock-wanted-to-tap-dashcams-in-rideshare-vechicles-to-add-to-surveillance-data/"
+    ]
+  ],
+  [
+    [
       "2026-08-11, 14:03:18",
       "https://news.ycombinator.com/item?id=49258581"
     ],
@@ -67,6 +97,16 @@
     [
       "$580M undersea cable rerouted to avoid the grave of Dobby the House Elf",
       "https://www.tomshardware.com/networking/usd580-million-undersea-cable-rerouted-to-avoid-the-grave-of-dobby-the-house-elf-company-caves-to-fan-demands-to-safeguard-harry-potter-filming-location-will-instead-pass-by-bronze-age-burial-site"
+    ]
+  ],
+  [
+    [
+      "2026-08-11, 13:30:39",
+      "https://news.ycombinator.com/item?id=49258011"
+    ],
+    [
+      "Show HN: Write.md, a free, open-source, themeable Markdown editor for macOS",
+      "https://writemd.app/"
     ]
   ],
   [
@@ -131,16 +171,6 @@
   ],
   [
     [
-      "2026-08-11, 02:01:01",
-      "https://news.ycombinator.com/item?id=49252462"
-    ],
-    [
-      "Recycle – Floppydisks",
-      "https://www.floppydisk.com/recycle"
-    ]
-  ],
-  [
-    [
       "2026-08-11, 01:22:09",
       "https://news.ycombinator.com/item?id=49252179"
     ],
@@ -157,16 +187,6 @@
     [
       "Chicken Scheme 6.0",
       "https://code.call-cc.org/releases/6.0.0/NEWS"
-    ]
-  ],
-  [
-    [
-      "2026-08-10, 23:45:50",
-      "https://news.ycombinator.com/item?id=49251411"
-    ],
-    [
-      "The UK's war on anonymity has come to America",
-      "https://www.effort.news/uk-lobby"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2026-08-10, 18:12:49",
-      "https://news.ycombinator.com/item?id=49247477"
-    ],
-    [
-      "Rust SIMD on the GPU",
-      "https://www.vectorware.com/blog/simd-on-gpu/"
-    ]
-  ],
-  [
-    [
       "2026-08-10, 17:22:07",
       "https://news.ycombinator.com/item?id=49246804"
     ],
@@ -221,12 +231,32 @@
   ],
   [
     [
+      "2026-08-10, 15:40:24",
+      "https://news.ycombinator.com/item?id=49245123"
+    ],
+    [
+      "Beltrunner: Game Design Postmortem",
+      "https://blog.gingerbeardman.com/2026/07/30/beltrunner-game-design-postmortem/"
+    ]
+  ],
+  [
+    [
       "2026-08-10, 14:06:22",
       "https://news.ycombinator.com/item?id=49243880"
     ],
     [
       "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
       "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878"
+    ]
+  ],
+  [
+    [
+      "2026-08-08, 17:38:20",
+      "https://news.ycombinator.com/item?id=49223965"
+    ],
+    [
+      "Jolt: Clojure compiler implemented with Chez Scheme",
+      "https://jolt-lang.github.io"
     ]
   ],
   [
@@ -247,36 +277,6 @@
     [
       "Stowaway – Take the window seat on any plane or satellite overhead",
       "https://stowaway.live/"
-    ]
-  ],
-  [
-    [
-      "2026-08-07, 12:33:44",
-      "https://news.ycombinator.com/item?id=49209433"
-    ],
-    [
-      "Immersion lithography saved Moore's Law (2023)",
-      "https://www.asml.com/en/company/stories/2023/how-immersion-lithography-saved-moores-law"
-    ]
-  ],
-  [
-    [
-      "2026-08-07, 10:26:34",
-      "https://news.ycombinator.com/item?id=49208296"
-    ],
-    [
-      "Sonic Pi v5",
-      "https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392"
-    ]
-  ],
-  [
-    [
-      "2026-08-06, 13:43:12",
-      "https://news.ycombinator.com/item?id=49196581"
-    ],
-    [
-      "Faster floating point math with Rust's new API",
-      "https://pythonspeed.com/articles/faster-float-math-rust/"
     ]
   ],
   [
