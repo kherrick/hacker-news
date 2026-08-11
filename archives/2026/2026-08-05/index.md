@@ -30,6 +30,7 @@
 * [2026-08-05, 16:50:06](https://news.ycombinator.com/item?id=49185430) - [Celld: Self-hosted, distributed Durable Objects](https://github.com/denoland/celld)
 * [2026-08-05, 16:47:15](https://news.ycombinator.com/item?id=49185389) - [Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod](https://www.hyperprobe.co)
 * [2026-08-05, 16:45:33](https://news.ycombinator.com/item?id=49185370) - [Why I'm leaving OpenAI to build telepathy](https://naomibashkansky.com/blog/telepathy/)
+* [2026-08-05, 16:42:08](https://news.ycombinator.com/item?id=49185312) - [Hollywood and Shanghai Cinema in the 1930s [pdf]](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=2225&context=clcweb)
 * [2026-08-05, 16:35:30](https://news.ycombinator.com/item?id=49185215) - [Stop sending me your errors](https://kramkow.ski/article/2026/08/05/stop_sending_me_your_errors.html)
 * [2026-08-05, 16:28:59](https://news.ycombinator.com/item?id=49185111) - [Something is changing in the unit economics of software](https://nicolo.xyz/something-is-changing-in-the-unit-economics-of-software/)
 * [2026-08-05, 16:19:44](https://news.ycombinator.com/item?id=49184960) - [Discovery Loop](https://www.discoveryloop.com/)

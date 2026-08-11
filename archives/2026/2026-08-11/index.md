@@ -4,7 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-08-11](index.md)
 
+* [2026-08-11, 13:00:34](https://news.ycombinator.com/item?id=49257601) - [It's time Amazon played by the same rules as everyone else [video]](https://www.youtube.com/watch?v=91DoiansHqk)
+* [2026-08-11, 12:41:59](https://news.ycombinator.com/item?id=49257377) - [England set to be one of the first countries to eliminate hepatitis C](https://www.bbc.com/news/articles/c75gk620r22o)
+* [2026-08-11, 11:02:34](https://news.ycombinator.com/item?id=49256258) - [How to organize Claude Code for product work](https://www.theaithinker.com/p/how-to-organize-claude-code-for-product)
+* [2026-08-11, 10:40:47](https://news.ycombinator.com/item?id=49256057) - [What I learned by putting GitHub Copilot behind a MitM proxy](https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm)
 * [2026-08-11, 10:26:49](https://news.ycombinator.com/item?id=49255918) - [Panic of 1873](https://en.wikipedia.org/wiki/Panic_of_1873)
+* [2026-08-11, 10:02:00](https://news.ycombinator.com/item?id=49255710) - [Nvidia's Risky Business](https://stratechery.com/2026/nvidias-risky-business/)
+* [2026-08-11, 09:57:14](https://news.ycombinator.com/item?id=49255672) - [More than 10 firms pay up to $100k a month for access to Truth Social posts](https://www.bbc.com/news/articles/ce3q5nxpgk1o)
 * [2026-08-11, 09:40:02](https://news.ycombinator.com/item?id=49255496) - [London Underground begins scanning passengers' faces](https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/)
 * [2026-08-11, 08:16:19](https://news.ycombinator.com/item?id=49254881) - [Closing Canario Terminal source code](https://rapha.land/closing-canario-terminal-source-code/)
 * [2026-08-11, 08:15:46](https://news.ycombinator.com/item?id=49254880) - [France to ban unsolicited telemarketing calls](https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html)

@@ -42,6 +42,7 @@
 * [2026-08-07, 12:45:08](https://news.ycombinator.com/item?id=49209572) - [Radical Study Suggests Life on Earth Arose Twice](https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice)
 * [2026-08-07, 12:42:58](https://news.ycombinator.com/item?id=49209546) - [U.S. economy lost 23,000 jobs in July, a sudden reversal](https://www.nbcnews.com/business/economy/july-2026-jobs-report-rcna591138)
 * [2026-08-07, 12:42:27](https://news.ycombinator.com/item?id=49209539) - [What happens if an entire class of workers loses faith in their careers](https://www.noemamag.com/why-is-everyone-in-tech-so-sad/)
+* [2026-08-07, 12:33:44](https://news.ycombinator.com/item?id=49209433) - [Immersion lithography saved Moore's Law (2023)](https://www.asml.com/en/company/stories/2023/how-immersion-lithography-saved-moores-law)
 * [2026-08-07, 12:28:55](https://news.ycombinator.com/item?id=49209385) - [Show HN: Wyzer Programming Language](https://github.com/Wyzer-Lang/wyzer)
 * [2026-08-07, 12:05:10](https://news.ycombinator.com/item?id=49209132) - [Tail-Call Interpreters in Rust – Jimmy Ostler](https://lordgoati.us/blog/tail-call/)
 * [2026-08-07, 11:19:15](https://news.ycombinator.com/item?id=49208686) - [The Gargantuan Lie That Is Collapsing the Climate](https://www.currentaffairs.org/news/the-massive-climate-lie-that-will-destroy-human-civilization)
