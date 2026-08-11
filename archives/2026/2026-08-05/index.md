@@ -42,6 +42,7 @@
 * [2026-08-05, 15:33:23](https://news.ycombinator.com/item?id=49184355) - [NSF Inouye Solar Telescope Enables Major Discovery of a Hidden Solar Process](https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/)
 * [2026-08-05, 15:24:38](https://news.ycombinator.com/item?id=49184251) - [Fed's Kashkari says 'now is the time to start slowly moving' rates up](https://www.cnbc.com/2026/08/05/feds-kashkari-says-now-is-the-time-to-start-slowly-moving-rates-up.html)
 * [2026-08-05, 15:23:16](https://news.ycombinator.com/item?id=49184233) - [Monitors for Work](https://etbe.coker.com.au/2026/08/05/monitors-for-work/)
+* [2026-08-05, 15:22:23](https://news.ycombinator.com/item?id=49184220) - [The \"mechanical miracle\" that ruined Mark Twain's life](https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined)
 * [2026-08-05, 15:22:06](https://news.ycombinator.com/item?id=49184216) - [The Valley of Webhooks](https://weli.dev/blog/the-valley-of-webhooks/)
 * [2026-08-05, 15:20:11](https://news.ycombinator.com/item?id=49184190) - [Cops Used Flock to Track a Man Across State Lines for a Pretextual Weed Search](https://www.404media.co/cops-used-flock-to-track-a-man-across-state-lines-to-create-pretext-to-search-his-car-for-weed/)
 * [2026-08-05, 15:11:51](https://news.ycombinator.com/item?id=49184083) - [Cloudflare OS](https://os.cloudflare.app/)

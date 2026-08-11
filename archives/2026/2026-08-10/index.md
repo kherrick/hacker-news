@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-08-10](index.md)
 
+* [2026-08-10, 22:42:14](https://news.ycombinator.com/item?id=49250894) - [World Train Map – 1247 train routes around the world](https://worldtrainmap.com/)
 * [2026-08-10, 22:36:30](https://news.ycombinator.com/item?id=49250836) - [Google Search Is Dying. What Comes Next Is Worse](https://thewalrus.ca/google-search-is-dying/)
+* [2026-08-10, 22:27:06](https://news.ycombinator.com/item?id=49250731) - [Mark Zuckerberg's Yacht Refused to Help Ship in Distress](https://nymag.com/intelligencer/article/zuckerbergs-yacht-booed-over-failing-to-help-stranded-boat.html)
 * [2026-08-10, 21:36:56](https://news.ycombinator.com/item?id=49250109) - [How Claude marks AI-generated content](https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content)
 * [2026-08-10, 21:27:02](https://news.ycombinator.com/item?id=49249986) - [We cut a 40-day financial integration down to 5 days using Google Anti](https://discuss.google.dev/t/trusted-automation-with-google-antigravity-scaling-secure-finance-integrations-from-40-days-to-5/383313)
 * [2026-08-10, 21:26:16](https://news.ycombinator.com/item?id=49249971) - [Amazon backs power plant that may become top source of US climate pollution](https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/)
@@ -17,6 +19,7 @@
 * [2026-08-10, 17:22:07](https://news.ycombinator.com/item?id=49246804) - [Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots](https://cactuscompute.com/needle)
 * [2026-08-10, 16:35:27](https://news.ycombinator.com/item?id=49246057) - [Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers](https://www.stoaexchange.com)
 * [2026-08-10, 16:32:03](https://news.ycombinator.com/item?id=49245990) - [Don't Build Mindreading](https://www.lesswrong.com/posts/CAdG5dzkWrrK2NQg8/don-t-build-mindreading)
+* [2026-08-10, 16:28:58](https://news.ycombinator.com/item?id=49245936) - [What's the best programming language for coding agents?](http://danluu.com/pl-tokens/)
 * [2026-08-10, 16:12:54](https://news.ycombinator.com/item?id=49245646) - [Why Addresses Have Numbers](https://thehistoricalinsights.page/2026/06/why-addresses-have-numbers.html)
 * [2026-08-10, 16:03:14](https://news.ycombinator.com/item?id=49245491) - [Exploiting System Management Mode with a very long interrupt](https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii)
 * [2026-08-10, 16:02:34](https://news.ycombinator.com/item?id=49245487) - [GLP-1 drugs linked to bigger jump in women’s employment than a college degree](https://finance.yahoo.com/healthcare/articles/harvard-study-links-glp-1-123000637.html)
