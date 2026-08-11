@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-08-11](index.md)
 
+* [2026-08-11, 17:49:37](https://news.ycombinator.com/item?id=49261895) - [OpenSSH 10.5 released, AI fixes now welcome](https://www.openssh.org/releasenotes.html#10.5)
+* [2026-08-11, 17:47:03](https://news.ycombinator.com/item?id=49261857) - [The SpaceX Sham](https://dissentmagazine.org/online_articles/spacex-ipo-elon-musk-trillionaire/)
+* [2026-08-11, 17:02:59](https://news.ycombinator.com/item?id=49261218) - [Woman Pulled over at Gunpoint Twice After Flock Camera Glitch](https://guessingheadlights.com/yall-failed-me-woman-pulled-over-at-gunpoint-twice-after-flock-camera-glitch/)
+* [2026-08-11, 16:57:09](https://news.ycombinator.com/item?id=49261133) - [Why Go Is an Ideal Language for AI-Assisted Software Engineering](https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/)
 * [2026-08-11, 15:54:35](https://news.ycombinator.com/item?id=49260250) - [University of Michigan Drops First-Semester Grades To'Curb Mental Health Crisis'](https://www.wsj.com/us-news/education/university-of-michigan-grades-mental-health-1a5701d4)
 * [2026-08-11, 15:09:34](https://news.ycombinator.com/item?id=49259611) - [Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet](https://github.com/TheRealYT/git-knife)
 * [2026-08-11, 14:50:33](https://news.ycombinator.com/item?id=49259339) - [Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp](https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md)

@@ -79,6 +79,7 @@
 * [2026-08-09, 02:01:38](https://news.ycombinator.com/item?id=49227718) - [ChatGPT starts blocking direct requests to copy an author's style](https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/)
 * [2026-08-09, 01:55:53](https://news.ycombinator.com/item?id=49227686) - [The phone book that led us to Assad's spy chief in hiding](https://www.bbc.com/news/articles/c4gyrzn8p94o)
 * [2026-08-09, 01:49:48](https://news.ycombinator.com/item?id=49227652) - [Incentives Are for Losers](https://www.experimental-history.com/p/incentives-are-for-losers)
+* [2026-08-09, 01:41:40](https://news.ycombinator.com/item?id=49227610) - [Archive of Animal Photography Reveals 18,000 Species and Counting](https://www.smithsonianmag.com/science-nature/this-amazing-archive-of-animal-photography-reveals-18000-species-and-counting-heres-how-joel-sartore-built-his-photo-ark-180989282/)
 * [2026-08-09, 01:28:36](https://news.ycombinator.com/item?id=49227521) - [The AI Apocalypse Is Here](https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/)
 * [2026-08-09, 01:23:36](https://news.ycombinator.com/item?id=49227505) - [TheoremDB · A public workspace for machine mathematics](https://theoremdb.org/)
 * [2026-08-09, 00:59:58](https://news.ycombinator.com/item?id=49227365) - [Melatonin impairs morning cognition in healthy young adults](https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621)
