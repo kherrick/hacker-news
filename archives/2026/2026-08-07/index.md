@@ -47,6 +47,7 @@
 * [2026-08-07, 12:33:44](https://news.ycombinator.com/item?id=49209433) - [Immersion lithography saved Moore's Law (2023)](https://www.asml.com/en/company/stories/2023/how-immersion-lithography-saved-moores-law)
 * [2026-08-07, 12:28:55](https://news.ycombinator.com/item?id=49209385) - [Show HN: Wyzer Programming Language](https://github.com/Wyzer-Lang/wyzer)
 * [2026-08-07, 12:05:10](https://news.ycombinator.com/item?id=49209132) - [Tail-Call Interpreters in Rust – Jimmy Ostler](https://lordgoati.us/blog/tail-call/)
+* [2026-08-07, 11:20:01](https://news.ycombinator.com/item?id=49208693) - [Worms: The Future of Yesterday's Worms Today](https://worm.net/)
 * [2026-08-07, 11:19:15](https://news.ycombinator.com/item?id=49208686) - [The Gargantuan Lie That Is Collapsing the Climate](https://www.currentaffairs.org/news/the-massive-climate-lie-that-will-destroy-human-civilization)
 * [2026-08-07, 11:00:35](https://news.ycombinator.com/item?id=49208535) - [Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD](https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/)
 * [2026-08-07, 10:52:21](https://news.ycombinator.com/item?id=49208458) - [Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS](https://textlog.cc/about)
