@@ -41,6 +41,7 @@
 * [2026-08-06, 11:28:00](https://news.ycombinator.com/item?id=49195251) - [Show HN: demake – one source project compiles to any retro game console ROM](https://geosona.com/demake/)
 * [2026-08-06, 11:27:08](https://news.ycombinator.com/item?id=49195244) - [How Americans View Capitalism, Socialism and Free Enterprise](https://news.gallup.com/poll/713144/americans-view-capitalism-socialism-free-enterprise.aspx)
 * [2026-08-06, 11:24:53](https://news.ycombinator.com/item?id=49195231) - [Mario Meets Pareto](https://www.mayerowitz.io/blog/mario-meets-pareto)
+* [2026-08-06, 10:29:50](https://news.ycombinator.com/item?id=49194856) - [High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons](https://petapixel.com/2026/08/04/amazing-high-res-photo-shows-a-butte-rising-from-mars/)
 * [2026-08-06, 07:34:06](https://news.ycombinator.com/item?id=49193673) - [What I love about Django](https://buttondown.com/blog/what-i-love-about-django)
 * [2026-08-06, 07:32:54](https://news.ycombinator.com/item?id=49193666) - [The German Mittelstand](https://kieranvelasquez.substack.com/p/on-the-german-mittelstand)
 * [2026-08-06, 06:43:38](https://news.ycombinator.com/item?id=49193314) - [Let's all meet up in the Y2K](https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/)

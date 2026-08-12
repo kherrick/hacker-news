@@ -3,7 +3,6 @@
 * [2026-08-12, 10:06:29](https://news.ycombinator.com/item?id=49270040) - [Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation](https://woxi.ad-si.com)
 * [2026-08-12, 10:04:25](https://news.ycombinator.com/item?id=49270022) - [Tim Gowers: What sort of maths are LLMs good at?](https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/)
 * [2026-08-12, 09:35:30](https://news.ycombinator.com/item?id=49269818) - [Facebook is paying controversial creators to produce rage-bait content](https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696)
-* [2026-08-12, 09:30:47](https://news.ycombinator.com/item?id=49269789) - [Beef and dairy drive 41% of biodiversity damage linked to global farmland](https://www.oxfordmartin.ox.ac.uk/news/beef-and-dairy-drive-41-of-biodiversity-damage-linked-to-global-farmland)
 * [2026-08-12, 09:09:21](https://news.ycombinator.com/item?id=49269641) - [Dutch Train Map Simulator](https://spoorkaart.zaza.dev)
 * [2026-08-12, 07:51:20](https://news.ycombinator.com/item?id=49269090) - [Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials](https://discoveredmaterials.com/research/)
 * [2026-08-12, 06:30:49](https://news.ycombinator.com/item?id=49268564) - [LinkedIn CringeBot 3000](https://www.cringebot3000.com/)
@@ -29,6 +28,7 @@
 * [2026-08-07, 11:20:01](https://news.ycombinator.com/item?id=49208693) - [Worms: The Future of Yesterday's Worms Today](https://worm.net/)
 * [2026-08-06, 20:22:29](https://news.ycombinator.com/item?id=49201953) - [The hardest working font in Manhattan (2025)](https://aresluna.org/the-hardest-working-font-in-manhattan/)
 * [2026-08-06, 14:53:40](https://news.ycombinator.com/item?id=49197565) - [A shell exclamation mark is not for yelling. Be lazy](https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark)
+* [2026-08-06, 10:29:50](https://news.ycombinator.com/item?id=49194856) - [High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons](https://petapixel.com/2026/08/04/amazing-high-res-photo-shows-a-butte-rising-from-mars/)
 * [2026-08-06, 01:05:16](https://news.ycombinator.com/item?id=49191130) - [Retire the Abstractions](https://hazyresearch.stanford.edu/blog/2026-08-05-retire-the-abstractions)
 
 ## [Archives](archives/index.md)
