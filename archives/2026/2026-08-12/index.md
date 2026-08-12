@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-08-12](index.md)
 
+* [2026-08-12, 18:13:45](https://news.ycombinator.com/item?id=49276488) - [Agentic Engineering Is Just Everything We Haven't Been Doing](https://blog.matthewbrunelle.com/agentic-engineering-is-just-everything-we-havent-been-doing/)
 * [2026-08-12, 17:00:21](https://news.ycombinator.com/item?id=49275465) - [Reflex (YC W23) Is hiring Growth and GTM Roles](https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer)
+* [2026-08-12, 16:54:25](https://news.ycombinator.com/item?id=49275385) - [SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index](https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis)
 * [2026-08-12, 16:51:25](https://news.ycombinator.com/item?id=49275335) - [HTML over WebSockets: real-time SPAs with barely any JavaScript](https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/)
 * [2026-08-12, 16:38:25](https://news.ycombinator.com/item?id=49275132) - [Glaciers on the Climate Dashboard](https://climate.metoffice.cloud/glaciers.html)
 * [2026-08-12, 16:37:13](https://news.ycombinator.com/item?id=49275114) - [DeepSeek V4 Pro 0813 quietly released](https://api-docs.deepseek.com/guides/responses_api/)
+* [2026-08-12, 16:26:16](https://news.ycombinator.com/item?id=49274950) - [Qwen3.8-2.4T](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B-FP8)
 * [2026-08-12, 16:22:27](https://news.ycombinator.com/item?id=49274894) - [Wednesday, August 12: GitHub, Incident with Pull Requests and Issues](https://www.githubstatus.com/incidents/76t89hbfb09h)
 * [2026-08-12, 16:20:34](https://news.ycombinator.com/item?id=49274858) - [AI coding startup Lovable raised $400M at $13.3B valuation up from $6.6B in 2025](https://lovable.dev/blog/series-c)
 * [2026-08-12, 16:20:22](https://news.ycombinator.com/item?id=49274854) - [Bike Bureau: Report Bike Lane Obstructions](https://loudbicycle.com/bb)
