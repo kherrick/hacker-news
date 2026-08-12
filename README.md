@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-12, 02:15:01](https://news.ycombinator.com/item?id=49267108) - [The Human Is the Loop](https://brentfitzgerald.com/posts/the-human-is-the-loop/)
+* [2026-08-12, 02:05:42](https://news.ycombinator.com/item?id=49267057) - [Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI](https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/)
 * [2026-08-12, 01:45:51](https://news.ycombinator.com/item?id=49266921) - [The lifesaving secret hidden inside a horseshoe crab's blue blood](https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/)
 * [2026-08-12, 01:42:46](https://news.ycombinator.com/item?id=49266899) - [New Bedford police officer accused of using Flock cameras to track ex-partner](https://newbedfordlight.org/new-bedford-police-officer-accused-of-using-flock-cameras-to-track-and-follow-ex-romantic-partner/)
-* [2026-08-12, 00:58:00](https://news.ycombinator.com/item?id=49266560) - [DEF CON crowd suspected in fake-hotspot attack on Delta flight](https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/)
 * [2026-08-11, 21:56:18](https://news.ycombinator.com/item?id=49265051) - [WorldClaw Agentic 3D open-world generation at scale](https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/)
 * [2026-08-11, 21:54:25](https://news.ycombinator.com/item?id=49265031) - [pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries](https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026)
-* [2026-08-11, 21:28:26](https://news.ycombinator.com/item?id=49264755) - [Suzanne: AI tool for designing and manufacturing physical products](https://www.suzanne3d.com/)
 * [2026-08-11, 21:14:10](https://news.ycombinator.com/item?id=49264583) - [Emergent Introspective Awareness in Large Language Models](https://arxiv.org/abs/2601.01828)
 * [2026-08-11, 19:49:44](https://news.ycombinator.com/item?id=49263497) - [Compression is prediction](https://ngrok.com/blog/compression-is-prediction)
 * [2026-08-11, 19:35:52](https://news.ycombinator.com/item?id=49263340) - [Nvidia Nemotron 3.5 Lightning and NeMo Switchyard](https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/)
@@ -28,8 +28,8 @@
 * [2026-08-08, 17:38:20](https://news.ycombinator.com/item?id=49223965) - [Jolt: Clojure compiler implemented with Chez Scheme](https://jolt-lang.github.io)
 * [2026-08-07, 13:36:39](https://news.ycombinator.com/item?id=49210199) - [Show HN: Tamron Lens Utility Alternative on Linux](https://github.com/yikerman/tamron-lens-control)
 * [2026-08-06, 20:22:29](https://news.ycombinator.com/item?id=49201953) - [The hardest working font in Manhattan (2025)](https://aresluna.org/the-hardest-working-font-in-manhattan/)
+* [2026-08-06, 17:13:54](https://news.ycombinator.com/item?id=49199502) - [Show HN: Find stale, orphaned, deleted-but-retrievable RAG vectors](https://github.com/rimironenko/rag-staleness-check)
 * [2026-08-06, 13:47:54](https://news.ycombinator.com/item?id=49196657) - [Show HN: Line9 – A Mermaid rendering engine with its own layout](https://line9.ai/diagram)
-* [2026-08-06, 01:05:16](https://news.ycombinator.com/item?id=49191130) - [Retire the Abstractions](https://hazyresearch.stanford.edu/blog/2026-08-05-retire-the-abstractions)
 
 ## [Archives](archives/index.md)
 

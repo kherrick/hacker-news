@@ -25,6 +25,7 @@
 * [2026-08-06, 18:44:49](https://news.ycombinator.com/item?id=49200652) - [Qwen3.8 Max now ranked as the best overall model by agentic index](https://artificialanalysis.ai/?intelligence=agentic-index)
 * [2026-08-06, 18:26:08](https://news.ycombinator.com/item?id=49200439) - [My phone detects going on a run as \"someone snatching my phone and running off\"](https://mastodon.gamedev.place/@rygorous/117047697255584965)
 * [2026-08-06, 18:22:16](https://news.ycombinator.com/item?id=49200390) - [Federal Communications Commission scraps limit on broadcast TV ownership](https://www.nbcnews.com/business/media/federal-communications-commission-scraps-limit-broadcast-tv-ownership-rcna587641)
+* [2026-08-06, 17:13:54](https://news.ycombinator.com/item?id=49199502) - [Show HN: Find stale, orphaned, deleted-but-retrievable RAG vectors](https://github.com/rimironenko/rag-staleness-check)
 * [2026-08-06, 17:08:04](https://news.ycombinator.com/item?id=49199437) - [How Golden Is Silence, Actually?](https://www.newyorker.com/magazine/2026/08/10/silence-kate-mcloughlin-book-review)
 * [2026-08-06, 17:02:04](https://news.ycombinator.com/item?id=49199357) - [Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users](https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/)
 * [2026-08-06, 17:01:33](https://news.ycombinator.com/item?id=49199346) - [Taste Is All That's Left](https://notashelf.dev/posts/taste-is-all-thats-left)
