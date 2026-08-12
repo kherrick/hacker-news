@@ -40,6 +40,7 @@
 * [2026-08-10, 15:13:08](https://news.ycombinator.com/item?id=49244783) - ['Pervert glasses': Backlash against Meta's smart glasses grows](https://www.seattletimes.com/business/technology/pervert-glasses-backlash-against-metas-smart-glasses-grows/)
 * [2026-08-10, 15:05:46](https://news.ycombinator.com/item?id=49244687) - [Oil giants face backlash as Iran conflict fuels multi-billion-pound profits](https://leftfootforward.org/2026/08/oil-giants-face-backlash-as-conflict-fuels-multi-billion-pound-profits/)
 * [2026-08-10, 14:56:32](https://news.ycombinator.com/item?id=49244569) - [Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints](https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/)
+* [2026-08-10, 14:40:24](https://news.ycombinator.com/item?id=49244339) - [Felix and I](https://jacobfilipp.com/felix/)
 * [2026-08-10, 14:38:20](https://news.ycombinator.com/item?id=49244308) - [OpenAI's letter to Governor Abbott on responsible AI infrastructure in Texas](https://openai.com/index/responsible-ai-infrastructure-texas/)
 * [2026-08-10, 14:32:54](https://news.ycombinator.com/item?id=49244250) - [There Is No \"Done\": Reflections on a Completed at Thru-Hike (2022)](https://thetrek.co/appalachian-trail/there-is-no-done-reflections-on-a-completed-at-thru-hike/)
 * [2026-08-10, 14:20:41](https://news.ycombinator.com/item?id=49244085) - [Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines](https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs)

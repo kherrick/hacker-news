@@ -4,6 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-08-12](index.md)
 
+* [2026-08-12, 17:00:21](https://news.ycombinator.com/item?id=49275465) - [Reflex (YC W23) Is hiring Growth and GTM Roles](https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer)
+* [2026-08-12, 16:51:25](https://news.ycombinator.com/item?id=49275335) - [HTML over WebSockets: real-time SPAs with barely any JavaScript](https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/)
+* [2026-08-12, 16:38:25](https://news.ycombinator.com/item?id=49275132) - [Glaciers on the Climate Dashboard](https://climate.metoffice.cloud/glaciers.html)
+* [2026-08-12, 16:37:13](https://news.ycombinator.com/item?id=49275114) - [DeepSeek V4 Pro 0813 quietly released](https://api-docs.deepseek.com/guides/responses_api/)
+* [2026-08-12, 16:22:27](https://news.ycombinator.com/item?id=49274894) - [Wednesday, August 12: GitHub, Incident with Pull Requests and Issues](https://www.githubstatus.com/incidents/76t89hbfb09h)
+* [2026-08-12, 16:20:34](https://news.ycombinator.com/item?id=49274858) - [AI coding startup Lovable raised $400M at $13.3B valuation up from $6.6B in 2025](https://lovable.dev/blog/series-c)
+* [2026-08-12, 16:20:22](https://news.ycombinator.com/item?id=49274854) - [Bike Bureau: Report Bike Lane Obstructions](https://loudbicycle.com/bb)
+* [2026-08-12, 16:14:37](https://news.ycombinator.com/item?id=49274757) - [Pixel Watch 5](https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/)
+* [2026-08-12, 16:04:50](https://news.ycombinator.com/item?id=49274600) - [DeepSeek V4 Pro 0813](https://openrouter.ai/deepseek/deepseek-v4-pro-0813)
 * [2026-08-12, 15:01:17](https://news.ycombinator.com/item?id=49273478) - [Qwen/Qwen3.8-2.4T-A95B](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B)
 * [2026-08-12, 14:55:27](https://news.ycombinator.com/item?id=49273395) - [GiveCampus (YC S15) Is Hiring Engineering Managers](https://job-boards.greenhouse.io/givecampus/jobs/4112793009)
 * [2026-08-12, 14:52:27](https://news.ycombinator.com/item?id=49273330) - [Google launches Pixel 11 Pro Fold](https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/)
