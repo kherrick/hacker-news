@@ -1,12 +1,62 @@
 [
   [
     [
+      "2026-08-12, 06:53:17",
+      "https://news.ycombinator.com/item?id=49268697"
+    ],
+    [
+      "AI agent hacks gym to get its user a spot in pilates class",
+      "https://www.bbc.com/news/articles/cn0nww2qlp7o"
+    ]
+  ],
+  [
+    [
+      "2026-08-12, 06:37:31",
+      "https://news.ycombinator.com/item?id=49268604"
+    ],
+    [
+      "ICE to spend up to $20M on gloves that can deliver painful electric shocks",
+      "https://www.theguardian.com/us-news/2026/aug/11/ice-electric-shock-gloves"
+    ]
+  ],
+  [
+    [
+      "2026-08-12, 06:30:49",
+      "https://news.ycombinator.com/item?id=49268564"
+    ],
+    [
+      "LinkedIn CringeBot 3000",
+      "https://www.cringebot3000.com/"
+    ]
+  ],
+  [
+    [
       "2026-08-12, 04:51:59",
       "https://news.ycombinator.com/item?id=49267928"
     ],
     [
       "llama.cpp",
       "https://llama.app"
+    ]
+  ],
+  [
+    [
+      "2026-08-12, 04:30:34",
+      "https://news.ycombinator.com/item?id=49267818"
+    ],
+    [
+      "Dropbox is an obvious PE Target?",
+      "https://s-1.vercel.app/posts/why-dropbox-is-a-obvious-pe-target/"
+    ]
+  ],
+  [
+    [
+      "2026-08-12, 03:27:31",
+      "https://news.ycombinator.com/item?id=49267527"
+    ],
+    [
+      "DARPA heavy lift challenge ends with winner at a 3.84:1 payload to weight ratio",
+      "https://dronexl.co/2026/08/10/darpa-lift-challenge-results-avidrone/"
     ]
   ],
   [
@@ -21,16 +71,6 @@
   ],
   [
     [
-      "2026-08-12, 02:05:42",
-      "https://news.ycombinator.com/item?id=49267057"
-    ],
-    [
-      "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
-      "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/"
-    ]
-  ],
-  [
-    [
       "2026-08-12, 01:45:51",
       "https://news.ycombinator.com/item?id=49266921"
     ],
@@ -41,42 +81,12 @@
   ],
   [
     [
-      "2026-08-12, 01:42:46",
-      "https://news.ycombinator.com/item?id=49266899"
-    ],
-    [
-      "New Bedford police officer accused of using Flock cameras to track ex-partner",
-      "https://newbedfordlight.org/new-bedford-police-officer-accused-of-using-flock-cameras-to-track-and-follow-ex-romantic-partner/"
-    ]
-  ],
-  [
-    [
       "2026-08-11, 21:56:18",
       "https://news.ycombinator.com/item?id=49265051"
     ],
     [
       "WorldClaw Agentic 3D open-world generation at scale",
       "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/"
-    ]
-  ],
-  [
-    [
-      "2026-08-11, 21:54:25",
-      "https://news.ycombinator.com/item?id=49265031"
-    ],
-    [
-      "pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries",
-      "https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026"
-    ]
-  ],
-  [
-    [
-      "2026-08-11, 21:14:10",
-      "https://news.ycombinator.com/item?id=49264583"
-    ],
-    [
-      "Emergent Introspective Awareness in Large Language Models",
-      "https://arxiv.org/abs/2601.01828"
     ]
   ],
   [
@@ -111,12 +121,12 @@
   ],
   [
     [
-      "2026-08-11, 18:09:56",
-      "https://news.ycombinator.com/item?id=49262211"
+      "2026-08-11, 18:06:55",
+      "https://news.ycombinator.com/item?id=49262172"
     ],
     [
-      "How we used to get jobs: A newspaper classifieds story",
-      "https://ironicsans.ghost.io/how-we-used-to-get-jobs/"
+      "Ethical Cold Outreach",
+      "https://blog.val.town/ethical-cold-outreach"
     ]
   ],
   [
@@ -127,16 +137,6 @@
     [
       "Grok Bot",
       "https://x.ai/bot"
-    ]
-  ],
-  [
-    [
-      "2026-08-11, 17:16:06",
-      "https://news.ycombinator.com/item?id=49261417"
-    ],
-    [
-      "CSS properties you should know for better text designs",
-      "https://master.dev/blog/typographic-css-tricks/"
     ]
   ],
   [
@@ -157,26 +157,6 @@
     [
       "Mojo 1.0",
       "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here"
-    ]
-  ],
-  [
-    [
-      "2026-08-11, 15:09:34",
-      "https://news.ycombinator.com/item?id=49259611"
-    ],
-    [
-      "Show HN: Git-knife – Edit commit messages, authors, and dates like a spreadsheet",
-      "https://github.com/TheRealYT/git-knife"
-    ]
-  ],
-  [
-    [
-      "2026-08-11, 14:14:53",
-      "https://news.ycombinator.com/item?id=49258764"
-    ],
-    [
-      "Manus will return to operating as an independent company",
-      "https://manus.im/blog/a-note-to-our-users"
     ]
   ],
   [
@@ -217,16 +197,6 @@
     [
       "OpenAI’s head of ethics leaves less than a year after joining",
       "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0"
-    ]
-  ],
-  [
-    [
-      "2026-08-11, 10:02:00",
-      "https://news.ycombinator.com/item?id=49255710"
-    ],
-    [
-      "Nvidia's Risky Business",
-      "https://stratechery.com/2026/nvidias-risky-business/"
     ]
   ],
   [
@@ -291,12 +261,42 @@
   ],
   [
     [
+      "2026-08-06, 14:53:40",
+      "https://news.ycombinator.com/item?id=49197565"
+    ],
+    [
+      "A shell exclamation mark is not for yelling. Be lazy",
+      "https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark"
+    ]
+  ],
+  [
+    [
       "2026-08-06, 13:47:54",
       "https://news.ycombinator.com/item?id=49196657"
     ],
     [
       "Show HN: Line9 – A Mermaid rendering engine with its own layout",
       "https://line9.ai/diagram"
+    ]
+  ],
+  [
+    [
+      "2026-08-06, 02:31:11",
+      "https://news.ycombinator.com/item?id=49191728"
+    ],
+    [
+      "How to Install Python3.14 from source on Ubuntu 26.04",
+      "https://jamesoclaire.com/2026/08/06/how-to-install-python3-14-from-source-on-ubuntu-26-04/"
+    ]
+  ],
+  [
+    [
+      "2026-08-06, 01:05:16",
+      "https://news.ycombinator.com/item?id=49191130"
+    ],
+    [
+      "Retire the Abstractions",
+      "https://hazyresearch.stanford.edu/blog/2026-08-05-retire-the-abstractions"
     ]
   ]
 ]
