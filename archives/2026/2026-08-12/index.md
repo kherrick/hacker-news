@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-12](index.md)
 
+* [2026-08-12, 11:53:01](https://news.ycombinator.com/item?id=49270953) - [2026 Eclipse Webcams](https://jonty.github.io/2026_eclipse_webcams/)
+* [2026-08-12, 11:33:48](https://news.ycombinator.com/item?id=49270764) - [I hate packaging my software for Linux](https://getfresh.dev/docs/blog/packaging-for-linux/)
 * [2026-08-12, 10:06:29](https://news.ycombinator.com/item?id=49270040) - [Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation](https://woxi.ad-si.com)
 * [2026-08-12, 10:04:25](https://news.ycombinator.com/item?id=49270022) - [Tim Gowers: What sort of maths are LLMs good at?](https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/)
 * [2026-08-12, 09:35:30](https://news.ycombinator.com/item?id=49269818) - [Facebook is paying controversial creators to produce rage-bait content](https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696)
@@ -21,3 +23,4 @@
 * [2026-08-12, 01:45:51](https://news.ycombinator.com/item?id=49266921) - [The lifesaving secret hidden inside a horseshoe crab's blue blood](https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/)
 * [2026-08-12, 01:42:46](https://news.ycombinator.com/item?id=49266899) - [New Bedford police officer accused of using Flock cameras to track ex-partner](https://newbedfordlight.org/new-bedford-police-officer-accused-of-using-flock-cameras-to-track-and-follow-ex-romantic-partner/)
 * [2026-08-12, 00:58:00](https://news.ycombinator.com/item?id=49266560) - [DEF CON crowd suspected in fake-hotspot attack on Delta flight](https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/)
+* [2026-08-12, 00:17:59](https://news.ycombinator.com/item?id=49266277) - [CFTC declares market emergency, orders Kalshi to continue to operate in New York](https://www.cftc.gov/PressRoom/PressReleases/9281-26)
