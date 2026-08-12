@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-08-12, 15:01:17",
+      "https://news.ycombinator.com/item?id=49273478"
+    ],
+    [
+      "Qwen/Qwen3.8-2.4T-A95B",
+      "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B"
+    ]
+  ],
+  [
+    [
+      "2026-08-12, 14:55:27",
+      "https://news.ycombinator.com/item?id=49273395"
+    ],
+    [
+      "GiveCampus (YC S15) Is Hiring Engineering Managers",
+      "https://job-boards.greenhouse.io/givecampus/jobs/4112793009"
+    ]
+  ],
+  [
+    [
+      "2026-08-12, 14:43:45",
+      "https://news.ycombinator.com/item?id=49273175"
+    ],
+    [
+      "Hax – a minimalist, terminal-native coding agent written in C",
+      "https://usehax.dev/"
+    ]
+  ],
+  [
+    [
+      "2026-08-12, 14:43:39",
+      "https://news.ycombinator.com/item?id=49273165"
+    ],
+    [
+      "License Plate Reader Searches Should Require a Warrant",
+      "https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/"
+    ]
+  ],
+  [
+    [
+      "2026-08-12, 14:22:30",
+      "https://news.ycombinator.com/item?id=49272832"
+    ],
+    [
+      "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+      "https://tailscale.com/blog/sqlite-wal-reset-bug"
+    ]
+  ],
+  [
+    [
       "2026-08-12, 14:09:11",
       "https://news.ycombinator.com/item?id=49272655"
     ],
@@ -51,16 +101,6 @@
   ],
   [
     [
-      "2026-08-12, 13:44:01",
-      "https://news.ycombinator.com/item?id=49272326"
-    ],
-    [
-      "Only 2.6% of the most visited websites have fully valid HTML",
-      "https://validatehtml.com/html-error-statistics"
-    ]
-  ],
-  [
-    [
       "2026-08-12, 13:41:12",
       "https://news.ycombinator.com/item?id=49272282"
     ],
@@ -71,22 +111,12 @@
   ],
   [
     [
-      "2026-08-12, 13:39:10",
-      "https://news.ycombinator.com/item?id=49272252"
+      "2026-08-12, 13:30:47",
+      "https://news.ycombinator.com/item?id=49272132"
     ],
     [
-      "Show HN: Meteor shower, planet alignment, eclipse kit",
-      "https://lifesprites.com/share/0ACA25"
-    ]
-  ],
-  [
-    [
-      "2026-08-12, 13:23:45",
-      "https://news.ycombinator.com/item?id=49272048"
-    ],
-    [
-      "Bb: The IDE that builds itself",
-      "https://getbb.app/"
+      "Commodore 8-Bit 5¼\" Disk Images",
+      "https://www.masswerk.at/nowgobang/2026/commodore-disk-images"
     ]
   ],
   [
@@ -111,32 +141,12 @@
   ],
   [
     [
-      "2026-08-12, 12:33:22",
-      "https://news.ycombinator.com/item?id=49271413"
-    ],
-    [
-      "YC startups are abandoning .com",
-      "https://www.orangecrumbs.com/stories/yc-domains"
-    ]
-  ],
-  [
-    [
       "2026-08-12, 11:53:01",
       "https://news.ycombinator.com/item?id=49270953"
     ],
     [
       "2026 Eclipse Webcams",
       "https://jonty.github.io/2026_eclipse_webcams/"
-    ]
-  ],
-  [
-    [
-      "2026-08-12, 11:44:40",
-      "https://news.ycombinator.com/item?id=49270881"
-    ],
-    [
-      "Show HN: KidScreen, a finite YouTube shelf chosen by parents",
-      "https://kidscreen.app"
     ]
   ],
   [
@@ -195,7 +205,7 @@
       "https://news.ycombinator.com/item?id=49269818"
     ],
     [
-      "Facebook is paying controversial creators to produce rage-bait content",
+      "Controversial creators are benefiting from monetization programs run by Meta",
       "https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696"
     ]
   ],
@@ -211,32 +221,12 @@
   ],
   [
     [
-      "2026-08-12, 02:15:01",
-      "https://news.ycombinator.com/item?id=49267108"
-    ],
-    [
-      "The Human Is the Loop",
-      "https://brentfitzgerald.com/posts/the-human-is-the-loop/"
-    ]
-  ],
-  [
-    [
       "2026-08-11, 19:29:14",
       "https://news.ycombinator.com/item?id=49263260"
     ],
     [
       "The Ultimate Horse",
       "https://worksinprogress.co/issue/the-ultimate-horse/"
-    ]
-  ],
-  [
-    [
-      "2026-08-11, 15:54:35",
-      "https://news.ycombinator.com/item?id=49260250"
-    ],
-    [
-      "U of Michigan drops first-semester grades to ‘curb mental health crisis’",
-      "https://www.wsj.com/us-news/education/university-of-michigan-grades-mental-health-1a5701d4"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "I built a jellyfish laboratory in my backyard [video]",
       "https://www.youtube.com/watch?v=MILwxfQBm6Q"
+    ]
+  ],
+  [
+    [
+      "2026-08-05, 02:07:06",
+      "https://news.ycombinator.com/item?id=49177765"
+    ],
+    [
+      "Solving the Shortest Vector Problem in $2^{0.6039n}$ Time via Mid-Point Hessian",
+      "https://arxiv.org/abs/2608.02478"
     ]
   ]
 ]
