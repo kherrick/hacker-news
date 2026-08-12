@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-08-12, 18:13:45",
+      "https://news.ycombinator.com/item?id=49276488"
+    ],
+    [
+      "Agentic Engineering Is Just Everything We Haven't Been Doing",
+      "https://blog.matthewbrunelle.com/agentic-engineering-is-just-everything-we-havent-been-doing/"
+    ]
+  ],
+  [
+    [
       "2026-08-12, 17:00:21",
       "https://news.ycombinator.com/item?id=49275465"
     ],
     [
       "Reflex (YC W23) Is hiring Growth and GTM Roles",
       "https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer"
+    ]
+  ],
+  [
+    [
+      "2026-08-12, 16:54:25",
+      "https://news.ycombinator.com/item?id=49275385"
+    ],
+    [
+      "SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index",
+      "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis"
     ]
   ],
   [
@@ -31,12 +51,12 @@
   ],
   [
     [
-      "2026-08-12, 16:37:13",
-      "https://news.ycombinator.com/item?id=49275114"
+      "2026-08-12, 16:26:16",
+      "https://news.ycombinator.com/item?id=49274950"
     ],
     [
-      "DeepSeek V4 Pro 0813 quietly released",
-      "https://api-docs.deepseek.com/guides/responses_api/"
+      "Qwen3.8-2.4T",
+      "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B-FP8"
     ]
   ],
   [
@@ -55,7 +75,7 @@
       "https://news.ycombinator.com/item?id=49274858"
     ],
     [
-      "AI coding startup Lovable raised $400M at $13.3B valuation up from $6.6B in 2025",
+      "We just raised $400M in Series C",
       "https://lovable.dev/blog/series-c"
     ]
   ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2026-08-12, 13:56:05",
-      "https://news.ycombinator.com/item?id=49272484"
-    ],
-    [
-      "My Agent Setup",
-      "https://chad.cm/posts/2026-8-11-my-agent-setup"
-    ]
-  ],
-  [
-    [
       "2026-08-12, 13:41:12",
       "https://news.ycombinator.com/item?id=49272282"
     ],
@@ -237,16 +247,6 @@
     [
       "What sort of maths are LLMs good at?",
       "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/"
-    ]
-  ],
-  [
-    [
-      "2026-08-11, 19:29:14",
-      "https://news.ycombinator.com/item?id=49263260"
-    ],
-    [
-      "The Ultimate Horse",
-      "https://worksinprogress.co/issue/the-ultimate-horse/"
     ]
   ],
   [
