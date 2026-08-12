@@ -46,6 +46,7 @@
 * [2026-08-10, 14:06:22](https://news.ycombinator.com/item?id=49243880) - [Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models](https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878)
 * [2026-08-10, 13:35:40](https://news.ycombinator.com/item?id=49243474) - [Humanising LLM Outputs Is Dumb](https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb)
 * [2026-08-10, 13:29:12](https://news.ycombinator.com/item?id=49243397) - [Mistral Patent for \"Code implemented tool calls\"](https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html)
+* [2026-08-10, 13:20:10](https://news.ycombinator.com/item?id=49243270) - [Flatworms, Ion Channels, and Burning Mouths](https://www.science.org/content/blog-post/flatworms-ion-channels-and-burning-mouths)
 * [2026-08-10, 13:20:09](https://news.ycombinator.com/item?id=49243269) - [Defending my own brain against enshittification](https://mrmarket.lol/how-i-feel-calmin-control-of-my-life-in-the-time-of-enshittification/)
 * [2026-08-10, 12:58:16](https://news.ycombinator.com/item?id=49243029) - [50k Boat Names](https://www.beautifulpublicdata.com/boat-names/)
 * [2026-08-10, 12:26:05](https://news.ycombinator.com/item?id=49242739) - [Over 181,000 AI meeting recordings left wide open in note taking app](https://bobdahacker.com/blog/tldv-hack)
