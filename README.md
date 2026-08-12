@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-08-12, 20:00:16](https://news.ycombinator.com/item?id=49277799) - [Breaking the WAL](https://antithesis.com/blog/2026/wal-reset-bug/)
 * [2026-08-12, 18:19:59](https://news.ycombinator.com/item?id=49276574) - [Delta](https://zed.dev/blog/introducing-delta)
 * [2026-08-12, 18:17:03](https://news.ycombinator.com/item?id=49276534) - [People who grew up with high economic connectedness earn more](https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/)
 * [2026-08-12, 17:00:21](https://news.ycombinator.com/item?id=49275465) - [Reflex (YC W23) Is hiring Growth and GTM Roles](https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer)
@@ -24,10 +23,11 @@
 * [2026-08-12, 11:28:27](https://news.ycombinator.com/item?id=49270726) - [uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook](https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html)
 * [2026-08-12, 10:06:29](https://news.ycombinator.com/item?id=49270040) - [Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation](https://woxi.ad-si.com)
 * [2026-08-12, 10:04:25](https://news.ycombinator.com/item?id=49270022) - [What sort of maths are LLMs good at?](https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/)
+* [2026-08-12, 07:51:20](https://news.ycombinator.com/item?id=49269090) - [Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials](https://discoveredmaterials.com/research/)
 * [2026-08-10, 14:40:24](https://news.ycombinator.com/item?id=49244339) - [Felix and I](https://jacobfilipp.com/felix/)
 * [2026-08-09, 15:26:07](https://news.ycombinator.com/item?id=49232312) - [A Tale of Dynamic Programming (2022)](https://iagoleal.com/posts/dynamic-programming/)
+* [2026-08-09, 13:37:59](https://news.ycombinator.com/item?id=49231315) - [Debugging Information for Inlined Functions](https://lwn.net/Articles/1083985/)
 * [2026-08-08, 01:51:35](https://news.ycombinator.com/item?id=49218190) - [The Bit Player: My Father with Steve Zissou](https://www.theparisreview.org/blog/2026/07/27/the-bit-player-my-father-with-steve-zissou/)
-* [2026-08-07, 16:45:13](https://news.ycombinator.com/item?id=49213111) - [Chartreuse, a case study in how scarcity and authenticity can drive desirability](https://www.bloomberg.com/news/articles/2026-08-05/how-chartreuse-conquered-paris-wine-bars-to-become-a-luxury-spirit)
 * [2026-08-06, 10:29:50](https://news.ycombinator.com/item?id=49194856) - [High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons](https://petapixel.com/2026/08/04/amazing-high-res-photo-shows-a-butte-rising-from-mars/)
 * [2026-08-06, 00:48:18](https://news.ycombinator.com/item?id=49191000) - [The Essential Question: “What should I read next?”](https://thenewcuriosityshop.substack.com/p/the-essential-question)
 

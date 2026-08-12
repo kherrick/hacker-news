@@ -53,6 +53,7 @@
 * [2026-08-09, 14:30:05](https://news.ycombinator.com/item?id=49231777) - [Show HN: Today's cities on a globe of Earth's tectonic past and future](https://douwe.com/projects/tectonic_globe)
 * [2026-08-09, 14:09:42](https://news.ycombinator.com/item?id=49231586) - [A partial digestion of the HRT counterexample](https://terrytao.wordpress.com/2026/08/06/a-partial-digestion-of-the-hrt-counterexample/)
 * [2026-08-09, 13:47:36](https://news.ycombinator.com/item?id=49231397) - [John C. Lilly on solid state intelligence and the elimination of man (1978)](https://kibotronics.net/unlisted/lilly-machines/)
+* [2026-08-09, 13:37:59](https://news.ycombinator.com/item?id=49231315) - [Debugging Information for Inlined Functions](https://lwn.net/Articles/1083985/)
 * [2026-08-09, 13:33:59](https://news.ycombinator.com/item?id=49231279) - [Why climate, fertility collapse, and AI compute share the same bottleneck?](https://bytepith.com/article/slow-squeeze-climate-demographics-and-state-power)
 * [2026-08-09, 13:20:43](https://news.ycombinator.com/item?id=49231154) - [Mea Culpa – Dark Hours](https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html)
 * [2026-08-09, 13:03:49](https://news.ycombinator.com/item?id=49231022) - [Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta](https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html)
