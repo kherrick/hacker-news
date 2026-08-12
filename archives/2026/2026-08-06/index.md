@@ -57,3 +57,4 @@
 * [2026-08-06, 02:15:14](https://news.ycombinator.com/item?id=49191624) - [Nashville uses eminent domain to block data center near zoo](https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project)
 * [2026-08-06, 01:39:06](https://news.ycombinator.com/item?id=49191365) - [LLMs won't break symmetric crypto](https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto)
 * [2026-08-06, 01:05:16](https://news.ycombinator.com/item?id=49191130) - [Retire the Abstractions](https://hazyresearch.stanford.edu/blog/2026-08-05-retire-the-abstractions)
+* [2026-08-06, 00:48:18](https://news.ycombinator.com/item?id=49191000) - [The Essential Question: \"What should I read next?\"](https://thenewcuriosityshop.substack.com/p/the-essential-question)
