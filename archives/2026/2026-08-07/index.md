@@ -9,6 +9,7 @@
 * [2026-08-07, 20:25:04](https://news.ycombinator.com/item?id=49215786) - [Lost my phone at the office. Claude suggested tracking Bluetooth signal strength](https://twitter.com/un1c0rnioz/status/2084686552299634805)
 * [2026-08-07, 20:23:26](https://news.ycombinator.com/item?id=49215762) - [Chasa](https://chasa.io/)
 * [2026-08-07, 19:38:05](https://news.ycombinator.com/item?id=49215292) - [Mykhailo Fedorov reveals struggle to secure Patriot missiles and Western support](https://www.uawire.org/former-ukrainian-defense-minister-mykhailo-fedorov-reveals-struggles-to-secure-patriot-missiles-and-western-support)
+* [2026-08-07, 19:22:00](https://news.ycombinator.com/item?id=49215117) - ['The Cheese and the Worms' by Carlo Ginzburg Review](https://www.historytoday.com/archive/review/cheese-and-worms-carlo-ginzburg-review)
 * [2026-08-07, 19:21:42](https://news.ycombinator.com/item?id=49215111) - [Choral: Choreographic Programming for Java](https://www.choral-lang.org/)
 * [2026-08-07, 18:59:08](https://news.ycombinator.com/item?id=49214863) - [App Store Rejection of the Week: Dark Hours](https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours)
 * [2026-08-07, 18:51:45](https://news.ycombinator.com/item?id=49214775) - [Psychological Warfare in Reverse Engineering](https://github.com/xoreaxeaxeax/repsych)
