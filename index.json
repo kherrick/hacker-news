@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-08-11, 23:26:17",
-      "https://news.ycombinator.com/item?id=49265879"
+      "2026-08-12, 01:45:51",
+      "https://news.ycombinator.com/item?id=49266921"
     ],
     [
-      "US hires over 2k video gamers as air traffic controllers",
-      "https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/"
+      "The lifesaving secret hidden inside a horseshoe crab's blue blood",
+      "https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/"
+    ]
+  ],
+  [
+    [
+      "2026-08-12, 01:42:46",
+      "https://news.ycombinator.com/item?id=49266899"
+    ],
+    [
+      "New Bedford police officer accused of using Flock cameras to track ex-partner",
+      "https://newbedfordlight.org/new-bedford-police-officer-accused-of-using-flock-cameras-to-track-and-follow-ex-romantic-partner/"
+    ]
+  ],
+  [
+    [
+      "2026-08-12, 00:58:00",
+      "https://news.ycombinator.com/item?id=49266560"
+    ],
+    [
+      "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
+      "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/"
     ]
   ],
   [
@@ -91,26 +111,6 @@
   ],
   [
     [
-      "2026-08-11, 18:06:55",
-      "https://news.ycombinator.com/item?id=49262172"
-    ],
-    [
-      "Ethical Cold Outreach",
-      "https://blog.val.town/ethical-cold-outreach"
-    ]
-  ],
-  [
-    [
-      "2026-08-11, 17:49:37",
-      "https://news.ycombinator.com/item?id=49261895"
-    ],
-    [
-      "OpenSSH 10.5/10.5p1",
-      "https://www.openssh.org/releasenotes.html#10.5"
-    ]
-  ],
-  [
-    [
       "2026-08-11, 17:23:09",
       "https://news.ycombinator.com/item?id=49261514"
     ],
@@ -165,18 +165,8 @@
       "https://news.ycombinator.com/item?id=49259611"
     ],
     [
-      "Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet",
+      "Show HN: Git-knife – Edit commit messages, authors, and dates like a spreadsheet",
       "https://github.com/TheRealYT/git-knife"
-    ]
-  ],
-  [
-    [
-      "2026-08-11, 14:50:33",
-      "https://news.ycombinator.com/item?id=49259339"
-    ],
-    [
-      "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
-      "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md"
     ]
   ],
   [
@@ -201,6 +191,16 @@
   ],
   [
     [
+      "2026-08-11, 13:20:44",
+      "https://news.ycombinator.com/item?id=49257853"
+    ],
+    [
+      "Neutrinos from Deep Inside Earth Provide a New Picture of the Mantle",
+      "https://www.quantamagazine.org/neutrinos-from-deep-inside-earth-provide-a-new-picture-of-the-mantle-20260807/"
+    ]
+  ],
+  [
+    [
       "2026-08-11, 12:41:59",
       "https://news.ycombinator.com/item?id=49257377"
     ],
@@ -217,16 +217,6 @@
     [
       "OpenAI’s head of ethics leaves less than a year after joining",
       "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0"
-    ]
-  ],
-  [
-    [
-      "2026-08-11, 10:40:47",
-      "https://news.ycombinator.com/item?id=49256057"
-    ],
-    [
-      "What I learned by putting GitHub Copilot behind a MitM proxy",
-      "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm"
     ]
   ],
   [
@@ -271,16 +261,6 @@
   ],
   [
     [
-      "2026-08-08, 02:43:01",
-      "https://news.ycombinator.com/item?id=49218463"
-    ],
-    [
-      "The Hat and the Spectre – Recent Groundbreaking Discoveries in Mathematics",
-      "https://momath.org/the-hat/"
-    ]
-  ],
-  [
-    [
       "2026-08-07, 13:36:39",
       "https://news.ycombinator.com/item?id=49210199"
     ],
@@ -291,12 +271,32 @@
   ],
   [
     [
+      "2026-08-06, 20:22:29",
+      "https://news.ycombinator.com/item?id=49201953"
+    ],
+    [
+      "The hardest working font in Manhattan (2025)",
+      "https://aresluna.org/the-hardest-working-font-in-manhattan/"
+    ]
+  ],
+  [
+    [
       "2026-08-06, 13:47:54",
       "https://news.ycombinator.com/item?id=49196657"
     ],
     [
-      "Show HN: Line9 - a Mermaid rendering engine with its own layout",
+      "Show HN: Line9 – A Mermaid rendering engine with its own layout",
       "https://line9.ai/diagram"
+    ]
+  ],
+  [
+    [
+      "2026-08-06, 01:05:16",
+      "https://news.ycombinator.com/item?id=49191130"
+    ],
+    [
+      "Retire the Abstractions",
+      "https://hazyresearch.stanford.edu/blog/2026-08-05-retire-the-abstractions"
     ]
   ]
 ]
