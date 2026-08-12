@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-12](index.md)
 
+* [2026-08-12, 23:07:32](https://news.ycombinator.com/item?id=49279804) - [Show HN: A marketplace where AI agents buy services from AI agents](https://aaas-marketplace-1089237826218.asia-northeast1.run.app)
+* [2026-08-12, 22:47:20](https://news.ycombinator.com/item?id=49279628) - [I built a browser-native SysEx librarian for 80s/90s synthesizers](https://bipluk.com/)
 * [2026-08-12, 21:45:29](https://news.ycombinator.com/item?id=49279013) - [Thanks to social media, canned sardines are a scarcity on the supermarket shelf](https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/)
 * [2026-08-12, 20:00:16](https://news.ycombinator.com/item?id=49277799) - [Breaking the WAL](https://antithesis.com/blog/2026/wal-reset-bug/)
 * [2026-08-12, 18:27:52](https://news.ycombinator.com/item?id=49276673) - [Show HN: Programmable timer web app (for gym workouts or stretching sessions)](https://timer.jotaen.net)
@@ -53,6 +55,7 @@
 * [2026-08-12, 09:35:30](https://news.ycombinator.com/item?id=49269818) - [Facebook is paying controversial creators to produce rage-bait content](https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696)
 * [2026-08-12, 09:30:47](https://news.ycombinator.com/item?id=49269789) - [Beef and dairy drive 41% of biodiversity damage linked to global farmland](https://www.oxfordmartin.ox.ac.uk/news/beef-and-dairy-drive-41-of-biodiversity-damage-linked-to-global-farmland)
 * [2026-08-12, 09:09:21](https://news.ycombinator.com/item?id=49269641) - [Dutch Train Map Simulator](https://spoorkaart.zaza.dev)
+* [2026-08-12, 08:40:53](https://news.ycombinator.com/item?id=49269429) - [Why Target Common Lisp for Code Generation?](http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html)
 * [2026-08-12, 07:51:20](https://news.ycombinator.com/item?id=49269090) - [Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials](https://discoveredmaterials.com/research/)
 * [2026-08-12, 06:53:17](https://news.ycombinator.com/item?id=49268697) - [AI agent hacks gym to get its user a spot in pilates class](https://www.bbc.com/news/articles/cn0nww2qlp7o)
 * [2026-08-12, 06:37:31](https://news.ycombinator.com/item?id=49268604) - [ICE to spend up to $20M on gloves that can deliver painful electric shocks](https://www.theguardian.com/us-news/2026/aug/11/ice-electric-shock-gloves)
