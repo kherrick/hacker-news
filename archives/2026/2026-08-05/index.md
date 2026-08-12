@@ -65,6 +65,7 @@
 * [2026-08-05, 13:57:19](https://news.ycombinator.com/item?id=49182971) - [OpenAI settles claims of discrimination against US workers for $3.2M](https://finance.yahoo.com/technology/ai/articles/openai-settles-claims-discrimination-against-221429616.html)
 * [2026-08-05, 13:55:48](https://news.ycombinator.com/item?id=49182957) - [Not hiring junior engineers won't solve the problem you think you have](https://franciscotrindade.me/blog/the-kids-are-alright/)
 * [2026-08-05, 13:54:12](https://news.ycombinator.com/item?id=49182946) - [Building an Advanced Agentic Harness](https://data4sci.com/blog/building-an-advanced-agentic-harness)
+* [2026-08-05, 13:40:25](https://news.ycombinator.com/item?id=49182772) - [I built a jellyfish laboratory in my backyard [video]](https://www.youtube.com/watch?v=MILwxfQBm6Q)
 * [2026-08-05, 13:34:32](https://news.ycombinator.com/item?id=49182695) - [Painting with Gaussians](https://yogthos.net/posts/2026-08-03-splat-painter.html)
 * [2026-08-05, 13:33:25](https://news.ycombinator.com/item?id=49182685) - [Faster Than Ninja](https://build2.org/blog/faster-than-ninja.xhtml)
 * [2026-08-05, 13:26:01](https://news.ycombinator.com/item?id=49182586) - [Google's HTTP/2 codec slows Envoy](https://apoxy.dev/blog/oghttp2-vs-nghttp2)

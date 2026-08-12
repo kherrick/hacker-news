@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-08-12](index.md)
 
+* [2026-08-12, 12:07:16](https://news.ycombinator.com/item?id=49271126) - [Facebook ads are so hard to block that uBlock Origin stopped filtering them](https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/)
 * [2026-08-12, 11:53:01](https://news.ycombinator.com/item?id=49270953) - [2026 Eclipse Webcams](https://jonty.github.io/2026_eclipse_webcams/)
 * [2026-08-12, 11:33:48](https://news.ycombinator.com/item?id=49270764) - [I hate packaging my software for Linux](https://getfresh.dev/docs/blog/packaging-for-linux/)
+* [2026-08-12, 11:13:36](https://news.ycombinator.com/item?id=49270621) - [Delphi 13 Community Edition Is Now Available](https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/)
 * [2026-08-12, 10:06:29](https://news.ycombinator.com/item?id=49270040) - [Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation](https://woxi.ad-si.com)
 * [2026-08-12, 10:04:25](https://news.ycombinator.com/item?id=49270022) - [Tim Gowers: What sort of maths are LLMs good at?](https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/)
 * [2026-08-12, 09:35:30](https://news.ycombinator.com/item?id=49269818) - [Facebook is paying controversial creators to produce rage-bait content](https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696)
