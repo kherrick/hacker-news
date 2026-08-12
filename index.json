@@ -1,6 +1,66 @@
 [
   [
     [
+      "2026-08-12, 10:06:29",
+      "https://news.ycombinator.com/item?id=49270040"
+    ],
+    [
+      "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
+      "https://woxi.ad-si.com"
+    ]
+  ],
+  [
+    [
+      "2026-08-12, 10:04:25",
+      "https://news.ycombinator.com/item?id=49270022"
+    ],
+    [
+      "Tim Gowers: What sort of maths are LLMs good at?",
+      "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/"
+    ]
+  ],
+  [
+    [
+      "2026-08-12, 09:35:30",
+      "https://news.ycombinator.com/item?id=49269818"
+    ],
+    [
+      "Facebook is paying controversial creators to produce rage-bait content",
+      "https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696"
+    ]
+  ],
+  [
+    [
+      "2026-08-12, 09:30:47",
+      "https://news.ycombinator.com/item?id=49269789"
+    ],
+    [
+      "Beef and dairy drive 41% of biodiversity damage linked to global farmland",
+      "https://www.oxfordmartin.ox.ac.uk/news/beef-and-dairy-drive-41-of-biodiversity-damage-linked-to-global-farmland"
+    ]
+  ],
+  [
+    [
+      "2026-08-12, 09:09:21",
+      "https://news.ycombinator.com/item?id=49269641"
+    ],
+    [
+      "Dutch Train Map Simulator",
+      "https://spoorkaart.zaza.dev"
+    ]
+  ],
+  [
+    [
+      "2026-08-12, 07:51:20",
+      "https://news.ycombinator.com/item?id=49269090"
+    ],
+    [
+      "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
+      "https://discoveredmaterials.com/research/"
+    ]
+  ],
+  [
+    [
       "2026-08-12, 06:30:49",
       "https://news.ycombinator.com/item?id=49268564"
     ],
@@ -91,42 +151,12 @@
   ],
   [
     [
-      "2026-08-11, 18:09:56",
-      "https://news.ycombinator.com/item?id=49262211"
-    ],
-    [
-      "How we used to get jobs: A newspaper classifieds story",
-      "https://ironicsans.ghost.io/how-we-used-to-get-jobs/"
-    ]
-  ],
-  [
-    [
-      "2026-08-11, 18:06:55",
-      "https://news.ycombinator.com/item?id=49262172"
-    ],
-    [
-      "Ethical Cold Outreach",
-      "https://blog.val.town/ethical-cold-outreach"
-    ]
-  ],
-  [
-    [
       "2026-08-11, 17:23:09",
       "https://news.ycombinator.com/item?id=49261514"
     ],
     [
       "Grok Bot",
       "https://x.ai/bot"
-    ]
-  ],
-  [
-    [
-      "2026-08-11, 17:16:06",
-      "https://news.ycombinator.com/item?id=49261417"
-    ],
-    [
-      "CSS properties you should know for better text designs",
-      "https://master.dev/blog/typographic-css-tricks/"
     ]
   ],
   [
@@ -151,42 +181,12 @@
   ],
   [
     [
-      "2026-08-11, 14:14:53",
-      "https://news.ycombinator.com/item?id=49258764"
-    ],
-    [
-      "Manus will return to operating as an independent company",
-      "https://manus.im/blog/a-note-to-our-users"
-    ]
-  ],
-  [
-    [
       "2026-08-11, 13:22:00",
       "https://news.ycombinator.com/item?id=49257876"
     ],
     [
       "Stealing Reasoning Traces from Proprietary LLM APIs",
       "https://stolen-thoughts.com/"
-    ]
-  ],
-  [
-    [
-      "2026-08-11, 13:20:44",
-      "https://news.ycombinator.com/item?id=49257853"
-    ],
-    [
-      "Neutrinos from Deep Inside Earth Provide a New Picture of the Mantle",
-      "https://www.quantamagazine.org/neutrinos-from-deep-inside-earth-provide-a-new-picture-of-the-mantle-20260807/"
-    ]
-  ],
-  [
-    [
-      "2026-08-11, 12:41:59",
-      "https://news.ycombinator.com/item?id=49257377"
-    ],
-    [
-      "England set to be one of the first countries to eliminate hepatitis C",
-      "https://www.bbc.com/news/articles/c75gk620r22o"
     ]
   ],
   [
@@ -217,6 +217,16 @@
     [
       "Flatworms, Ion Channels, and Burning Mouths",
       "https://www.science.org/content/blog-post/flatworms-ion-channels-and-burning-mouths"
+    ]
+  ],
+  [
+    [
+      "2026-08-09, 20:32:12",
+      "https://news.ycombinator.com/item?id=49235530"
+    ],
+    [
+      "Newfoundland has a hard bread shortage, but why do they eat it?",
+      "https://www.cbc.ca/news/canada/newfoundland-labrador/nl-hard-bread-history-shortage-9.7299276"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "A shell exclamation mark is not for yelling. Be lazy",
       "https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark"
-    ]
-  ],
-  [
-    [
-      "2026-08-06, 13:47:54",
-      "https://news.ycombinator.com/item?id=49196657"
-    ],
-    [
-      "Show HN: Line9 – A Mermaid rendering engine with its own layout",
-      "https://line9.ai/diagram"
     ]
   ],
   [
