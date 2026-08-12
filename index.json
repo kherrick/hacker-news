@@ -1,32 +1,102 @@
 [
   [
     [
+      "2026-08-12, 17:00:21",
+      "https://news.ycombinator.com/item?id=49275465"
+    ],
+    [
+      "Reflex (YC W23) Is hiring Growth and GTM Roles",
+      "https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer"
+    ]
+  ],
+  [
+    [
+      "2026-08-12, 16:51:25",
+      "https://news.ycombinator.com/item?id=49275335"
+    ],
+    [
+      "HTML over WebSockets: real-time SPAs with barely any JavaScript",
+      "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/"
+    ]
+  ],
+  [
+    [
+      "2026-08-12, 16:38:25",
+      "https://news.ycombinator.com/item?id=49275132"
+    ],
+    [
+      "Glaciers on the Climate Dashboard",
+      "https://climate.metoffice.cloud/glaciers.html"
+    ]
+  ],
+  [
+    [
+      "2026-08-12, 16:37:13",
+      "https://news.ycombinator.com/item?id=49275114"
+    ],
+    [
+      "DeepSeek V4 Pro 0813 quietly released",
+      "https://api-docs.deepseek.com/guides/responses_api/"
+    ]
+  ],
+  [
+    [
+      "2026-08-12, 16:22:27",
+      "https://news.ycombinator.com/item?id=49274894"
+    ],
+    [
+      "Wednesday, August 12: GitHub, Incident with Pull Requests and Issues",
+      "https://www.githubstatus.com/incidents/76t89hbfb09h"
+    ]
+  ],
+  [
+    [
+      "2026-08-12, 16:20:34",
+      "https://news.ycombinator.com/item?id=49274858"
+    ],
+    [
+      "AI coding startup Lovable raised $400M at $13.3B valuation up from $6.6B in 2025",
+      "https://lovable.dev/blog/series-c"
+    ]
+  ],
+  [
+    [
+      "2026-08-12, 16:20:22",
+      "https://news.ycombinator.com/item?id=49274854"
+    ],
+    [
+      "Bike Bureau: Report Bike Lane Obstructions",
+      "https://loudbicycle.com/bb"
+    ]
+  ],
+  [
+    [
+      "2026-08-12, 16:14:37",
+      "https://news.ycombinator.com/item?id=49274757"
+    ],
+    [
+      "Pixel Watch 5",
+      "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/"
+    ]
+  ],
+  [
+    [
+      "2026-08-12, 16:04:50",
+      "https://news.ycombinator.com/item?id=49274600"
+    ],
+    [
+      "DeepSeek V4 Pro 0813",
+      "https://openrouter.ai/deepseek/deepseek-v4-pro-0813"
+    ]
+  ],
+  [
+    [
       "2026-08-12, 15:01:17",
       "https://news.ycombinator.com/item?id=49273478"
     ],
     [
       "Qwen/Qwen3.8-2.4T-A95B",
       "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B"
-    ]
-  ],
-  [
-    [
-      "2026-08-12, 14:55:27",
-      "https://news.ycombinator.com/item?id=49273395"
-    ],
-    [
-      "GiveCampus (YC S15) Is Hiring Engineering Managers",
-      "https://job-boards.greenhouse.io/givecampus/jobs/4112793009"
-    ]
-  ],
-  [
-    [
-      "2026-08-12, 14:52:27",
-      "https://news.ycombinator.com/item?id=49273330"
-    ],
-    [
-      "Google launches Pixel 11 Pro Fold",
-      "https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/"
     ]
   ],
   [
@@ -71,16 +141,6 @@
   ],
   [
     [
-      "2026-08-12, 14:06:03",
-      "https://news.ycombinator.com/item?id=49272620"
-    ],
-    [
-      "German advocacy group lodges criminal complaint over Meta AI glasses",
-      "https://www.reuters.com/legal/government/german-advocacy-group-lodges-criminal-complaint-over-meta-ai-glasses-2026-08-12/"
-    ]
-  ],
-  [
-    [
       "2026-08-12, 14:02:46",
       "https://news.ycombinator.com/item?id=49272569"
     ],
@@ -121,16 +181,6 @@
   ],
   [
     [
-      "2026-08-12, 13:30:47",
-      "https://news.ycombinator.com/item?id=49272132"
-    ],
-    [
-      "Commodore 8-Bit 5¼\" Disk Images",
-      "https://www.masswerk.at/nowgobang/2026/commodore-disk-images"
-    ]
-  ],
-  [
-    [
       "2026-08-12, 13:20:05",
       "https://news.ycombinator.com/item?id=49271994"
     ],
@@ -157,26 +207,6 @@
     [
       "2026 Eclipse Webcams",
       "https://jonty.github.io/2026_eclipse_webcams/"
-    ]
-  ],
-  [
-    [
-      "2026-08-12, 11:44:40",
-      "https://news.ycombinator.com/item?id=49270881"
-    ],
-    [
-      "Show HN: KidScreen, a finite YouTube shelf chosen by parents",
-      "https://kidscreen.app"
-    ]
-  ],
-  [
-    [
-      "2026-08-12, 11:28:27",
-      "https://news.ycombinator.com/item?id=49270726"
-    ],
-    [
-      "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
-      "https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html"
     ]
   ],
   [
@@ -211,26 +241,6 @@
   ],
   [
     [
-      "2026-08-12, 09:35:30",
-      "https://news.ycombinator.com/item?id=49269818"
-    ],
-    [
-      "Controversial creators are benefiting from monetization programs run by Meta",
-      "https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696"
-    ]
-  ],
-  [
-    [
-      "2026-08-12, 07:51:20",
-      "https://news.ycombinator.com/item?id=49269090"
-    ],
-    [
-      "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
-      "https://discoveredmaterials.com/research/"
-    ]
-  ],
-  [
-    [
       "2026-08-11, 19:29:14",
       "https://news.ycombinator.com/item?id=49263260"
     ],
@@ -241,12 +251,22 @@
   ],
   [
     [
-      "2026-08-07, 11:20:01",
-      "https://news.ycombinator.com/item?id=49208693"
+      "2026-08-10, 14:40:24",
+      "https://news.ycombinator.com/item?id=49244339"
     ],
     [
-      "Worms: The Future of Yesterday's Worms Today",
-      "https://worm.net/"
+      "Felix and I",
+      "https://jacobfilipp.com/felix/"
+    ]
+  ],
+  [
+    [
+      "2026-08-08, 01:51:35",
+      "https://news.ycombinator.com/item?id=49218190"
+    ],
+    [
+      "The Bit Player: My Father with Steve Zissou",
+      "https://www.theparisreview.org/blog/2026/07/27/the-bit-player-my-father-with-steve-zissou/"
     ]
   ],
   [
@@ -257,26 +277,6 @@
     [
       "Bigos (Polish Hunter's Stew) Recipe Builder",
       "https://chefsbinge.com/bigos-recipe-builder/"
-    ]
-  ],
-  [
-    [
-      "2026-08-06, 23:43:35",
-      "https://news.ycombinator.com/item?id=49204173"
-    ],
-    [
-      "ArenaAllocators don't play nicely with ArrayLists",
-      "https://www.openmymind.net/Arena-Allocators-and-ArrayLists/"
-    ]
-  ],
-  [
-    [
-      "2026-08-06, 20:22:29",
-      "https://news.ycombinator.com/item?id=49201953"
-    ],
-    [
-      "The hardest working font in Manhattan (2025)",
-      "https://aresluna.org/the-hardest-working-font-in-manhattan/"
     ]
   ],
   [
