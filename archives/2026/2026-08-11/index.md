@@ -43,6 +43,7 @@
 * [2026-08-11, 13:30:39](https://news.ycombinator.com/item?id=49258011) - [Show HN: Write.md, a free, open-source, themeable Markdown editor for macOS](https://writemd.app/)
 * [2026-08-11, 13:26:02](https://news.ycombinator.com/item?id=49257947) - [Nvidia Nemotron 3.5 Lightning](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4)
 * [2026-08-11, 13:22:00](https://news.ycombinator.com/item?id=49257876) - [Stealing Reasoning Traces from Proprietary LLM APIs](https://stolen-thoughts.com/)
+* [2026-08-11, 13:20:44](https://news.ycombinator.com/item?id=49257853) - [Neutrinos from Deep Inside Earth Provide a New Picture of the Mantle](https://www.quantamagazine.org/neutrinos-from-deep-inside-earth-provide-a-new-picture-of-the-mantle-20260807/)
 * [2026-08-11, 13:00:34](https://news.ycombinator.com/item?id=49257601) - [It's time Amazon played by the same rules as everyone else [video]](https://www.youtube.com/watch?v=91DoiansHqk)
 * [2026-08-11, 12:44:43](https://news.ycombinator.com/item?id=49257407) - [I backtested my own stock rankings. They lost to the index](https://holderdashboard.com/learn/backtest-that-lost-to-the-index)
 * [2026-08-11, 12:41:59](https://news.ycombinator.com/item?id=49257377) - [England set to be one of the first countries to eliminate hepatitis C](https://www.bbc.com/news/articles/c75gk620r22o)

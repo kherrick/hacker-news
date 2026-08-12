@@ -17,6 +17,7 @@
 * [2026-08-06, 21:11:25](https://news.ycombinator.com/item?id=49202628) - [Open QEC harness – greedy vs. GE, uniform vs. clustered k=4](https://github.com/mrblakessinger-rgb/qec-evaluation-suite)
 * [2026-08-06, 20:48:14](https://news.ycombinator.com/item?id=49202321) - [Civilians under siege by Mexican cartel fight back with AK-47s, grenades](https://www.pbs.org/newshour/world/civilians-that-were-under-siege-by-a-mexican-cartel-fight-back-with-ak-47s-and-grenades)
 * [2026-08-06, 20:23:11](https://news.ycombinator.com/item?id=49201970) - [AMD acquires Taalas to boost inference performance by etching models in silicon](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344)
+* [2026-08-06, 20:22:29](https://news.ycombinator.com/item?id=49201953) - [The hardest working font in Manhattan (2025)](https://aresluna.org/the-hardest-working-font-in-manhattan/)
 * [2026-08-06, 20:21:19](https://news.ycombinator.com/item?id=49201930) - [Quake – 30th Anniversary Update](https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update)
 * [2026-08-06, 19:14:21](https://news.ycombinator.com/item?id=49201003) - [Herdr is joining Y Combinator. The runtime stays open](https://herdr.dev/blog/herdr-is-joining-y-combinator/)
 * [2026-08-06, 19:08:36](https://news.ycombinator.com/item?id=49200947) - [Once More in Triple Time](https://theamericanscholar.org/once-more-in-triple-time/)
@@ -50,3 +51,4 @@
 * [2026-08-06, 03:40:51](https://news.ycombinator.com/item?id=49192160) - [Governments are making a dangerous bet on the AI boom](https://www.economist.com/leaders/2026/08/05/governments-are-making-a-dangerous-bet-on-the-ai-boom)
 * [2026-08-06, 02:15:14](https://news.ycombinator.com/item?id=49191624) - [Nashville uses eminent domain to block data center near zoo](https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project)
 * [2026-08-06, 01:39:06](https://news.ycombinator.com/item?id=49191365) - [LLMs won't break symmetric crypto](https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto)
+* [2026-08-06, 01:05:16](https://news.ycombinator.com/item?id=49191130) - [Retire the Abstractions](https://hazyresearch.stanford.edu/blog/2026-08-05-retire-the-abstractions)
