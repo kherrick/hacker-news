@@ -42,6 +42,7 @@
 * [2026-08-09, 15:36:52](https://news.ycombinator.com/item?id=49232410) - [Every fast write moves work somewhere else](https://www.shayon.dev/post/2026/220/every-fast-write-moves-work-somewhere-else/)
 * [2026-08-09, 15:31:49](https://news.ycombinator.com/item?id=49232369) - [Show HN: Vibez – Open-Source Rust Based Digital Audio Workstation (DAW)](https://alexanderwanyoike.github.io/vibez/)
 * [2026-08-09, 15:26:45](https://news.ycombinator.com/item?id=49232318) - [Criminal Deception in Silicon Valley](https://pubsonline.informs.org/doi/full/10.1287/orsc.2024.19981)
+* [2026-08-09, 15:26:07](https://news.ycombinator.com/item?id=49232312) - [A Tale of Dynamic Programming (2022)](https://iagoleal.com/posts/dynamic-programming/)
 * [2026-08-09, 15:25:29](https://news.ycombinator.com/item?id=49232300) - [Human vs. AI – Diff-based line-level provenance for text under agentic editing](https://github.com/eighttrigrams/us-vs-them)
 * [2026-08-09, 15:21:46](https://news.ycombinator.com/item?id=49232253) - [Taxi drivers rarely die of Alzheimer's](https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650)
 * [2026-08-09, 15:18:25](https://news.ycombinator.com/item?id=49232221) - [Silicon Valley misreads science fiction and undermines democracy](https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/)
