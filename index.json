@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-12, 04:51:59",
+      "https://news.ycombinator.com/item?id=49267928"
+    ],
+    [
+      "llama.cpp",
+      "https://llama.app"
+    ]
+  ],
+  [
+    [
       "2026-08-12, 02:15:01",
       "https://news.ycombinator.com/item?id=49267108"
     ],
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2026-08-11, 17:01:21",
-      "https://news.ycombinator.com/item?id=49261192"
-    ],
-    [
-      "RSI Simulator",
-      "https://www.paradigm.xyz/writing/rsi-simulator"
-    ]
-  ],
-  [
-    [
       "2026-08-11, 16:57:09",
       "https://news.ycombinator.com/item?id=49261133"
     ],
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2026-08-10, 13:20:10",
+      "https://news.ycombinator.com/item?id=49243270"
+    ],
+    [
+      "Flatworms, Ion Channels, and Burning Mouths",
+      "https://www.science.org/content/blog-post/flatworms-ion-channels-and-burning-mouths"
+    ]
+  ],
+  [
+    [
       "2026-08-08, 22:47:10",
       "https://news.ycombinator.com/item?id=49226623"
     ],
@@ -277,16 +287,6 @@
     [
       "The hardest working font in Manhattan (2025)",
       "https://aresluna.org/the-hardest-working-font-in-manhattan/"
-    ]
-  ],
-  [
-    [
-      "2026-08-06, 17:13:54",
-      "https://news.ycombinator.com/item?id=49199502"
-    ],
-    [
-      "Show HN: Find stale, orphaned, deleted-but-retrievable RAG vectors",
-      "https://github.com/rimironenko/rag-staleness-check"
     ]
   ],
   [
