@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-08-12, 02:15:01",
+      "https://news.ycombinator.com/item?id=49267108"
+    ],
+    [
+      "The Human Is the Loop",
+      "https://brentfitzgerald.com/posts/the-human-is-the-loop/"
+    ]
+  ],
+  [
+    [
+      "2026-08-12, 02:05:42",
+      "https://news.ycombinator.com/item?id=49267057"
+    ],
+    [
+      "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
+      "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/"
+    ]
+  ],
+  [
+    [
       "2026-08-12, 01:45:51",
       "https://news.ycombinator.com/item?id=49266921"
     ],
@@ -21,16 +41,6 @@
   ],
   [
     [
-      "2026-08-12, 00:58:00",
-      "https://news.ycombinator.com/item?id=49266560"
-    ],
-    [
-      "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
-      "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/"
-    ]
-  ],
-  [
-    [
       "2026-08-11, 21:56:18",
       "https://news.ycombinator.com/item?id=49265051"
     ],
@@ -47,16 +57,6 @@
     [
       "pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries",
       "https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026"
-    ]
-  ],
-  [
-    [
-      "2026-08-11, 21:28:26",
-      "https://news.ycombinator.com/item?id=49264755"
-    ],
-    [
-      "Suzanne: AI tool for designing and manufacturing physical products",
-      "https://www.suzanne3d.com/"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2026-08-06, 17:13:54",
+      "https://news.ycombinator.com/item?id=49199502"
+    ],
+    [
+      "Show HN: Find stale, orphaned, deleted-but-retrievable RAG vectors",
+      "https://github.com/rimironenko/rag-staleness-check"
+    ]
+  ],
+  [
+    [
       "2026-08-06, 13:47:54",
       "https://news.ycombinator.com/item?id=49196657"
     ],
     [
       "Show HN: Line9 – A Mermaid rendering engine with its own layout",
       "https://line9.ai/diagram"
-    ]
-  ],
-  [
-    [
-      "2026-08-06, 01:05:16",
-      "https://news.ycombinator.com/item?id=49191130"
-    ],
-    [
-      "Retire the Abstractions",
-      "https://hazyresearch.stanford.edu/blog/2026-08-05-retire-the-abstractions"
     ]
   ]
 ]
