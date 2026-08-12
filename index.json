@@ -1,11 +1,21 @@
 [
   [
     [
+      "2026-08-12, 20:00:16",
+      "https://news.ycombinator.com/item?id=49277799"
+    ],
+    [
+      "Breaking the WAL",
+      "https://antithesis.com/blog/2026/wal-reset-bug/"
+    ]
+  ],
+  [
+    [
       "2026-08-12, 18:19:59",
       "https://news.ycombinator.com/item?id=49276574"
     ],
     [
-      "Zed: Delta",
+      "Delta",
       "https://zed.dev/blog/introducing-delta"
     ]
   ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=49276534"
     ],
     [
-      "Your key to success isn't more luck or hard work",
+      "People who grew up with high economic connectedness earn more",
       "https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/"
     ]
   ],
@@ -61,12 +71,22 @@
   ],
   [
     [
-      "2026-08-12, 16:20:22",
-      "https://news.ycombinator.com/item?id=49274854"
+      "2026-08-12, 16:20:34",
+      "https://news.ycombinator.com/item?id=49274858"
     ],
     [
-      "Bike Bureau: Report Bike Lane Obstructions",
-      "https://loudbicycle.com/bb"
+      "Lovable raises $400M Series C",
+      "https://lovable.dev/blog/series-c"
+    ]
+  ],
+  [
+    [
+      "2026-08-12, 16:14:37",
+      "https://news.ycombinator.com/item?id=49274757"
+    ],
+    [
+      "Pixel Watch 5",
+      "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/"
     ]
   ],
   [
@@ -101,12 +121,12 @@
   ],
   [
     [
-      "2026-08-12, 14:43:45",
-      "https://news.ycombinator.com/item?id=49273175"
+      "2026-08-12, 14:52:27",
+      "https://news.ycombinator.com/item?id=49273330"
     ],
     [
-      "Hax – a minimalist, terminal-native coding agent written in C",
-      "https://usehax.dev/"
+      "Pixel 11 Pro Fold",
+      "https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/"
     ]
   ],
   [
@@ -155,18 +175,8 @@
       "https://news.ycombinator.com/item?id=49272549"
     ],
     [
-      "Why Tiny JPEGs Look Different in Chrome",
+      "Why tiny JPEGs look different in Chrome",
       "https://guillaumetech.github.io/posts/jpg-scaling-chrome/"
-    ]
-  ],
-  [
-    [
-      "2026-08-12, 13:41:12",
-      "https://news.ycombinator.com/item?id=49272282"
-    ],
-    [
-      "Automatic1111 for Apple metal, 40% speed up sd1.5",
-      "https://therad.ninja/from-8-10-seconds-to-3-7-teaching-automatic1111-to-speak-metal-on-an-m3-pro/"
     ]
   ],
   [
@@ -175,7 +185,7 @@
       "https://news.ycombinator.com/item?id=49271994"
     ],
     [
-      "AI is removing the middle class of software engineering",
+      "AI is removing the middle class of software engineering?",
       "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html"
     ]
   ],
@@ -201,12 +211,12 @@
   ],
   [
     [
-      "2026-08-12, 11:13:36",
-      "https://news.ycombinator.com/item?id=49270621"
+      "2026-08-12, 11:28:27",
+      "https://news.ycombinator.com/item?id=49270726"
     ],
     [
-      "Delphi 13 Community Edition Is Now Available",
-      "https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/"
+      "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
+      "https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html"
     ]
   ],
   [
@@ -241,6 +251,16 @@
   ],
   [
     [
+      "2026-08-09, 15:26:07",
+      "https://news.ycombinator.com/item?id=49232312"
+    ],
+    [
+      "A Tale of Dynamic Programming (2022)",
+      "https://iagoleal.com/posts/dynamic-programming/"
+    ]
+  ],
+  [
+    [
       "2026-08-08, 01:51:35",
       "https://news.ycombinator.com/item?id=49218190"
     ],
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2026-08-07, 05:27:45",
-      "https://news.ycombinator.com/item?id=49206200"
-    ],
-    [
-      "Bigos (Polish Hunter's Stew) Recipe Builder",
-      "https://chefsbinge.com/bigos-recipe-builder/"
-    ]
-  ],
-  [
-    [
       "2026-08-06, 10:29:50",
       "https://news.ycombinator.com/item?id=49194856"
     ],
@@ -285,18 +295,8 @@
       "https://news.ycombinator.com/item?id=49191000"
     ],
     [
-      "The Essential Question: \"What should I read next?\"",
+      "The Essential Question: “What should I read next?”",
       "https://thenewcuriosityshop.substack.com/p/the-essential-question"
-    ]
-  ],
-  [
-    [
-      "2026-08-05, 02:07:06",
-      "https://news.ycombinator.com/item?id=49177765"
-    ],
-    [
-      "Solving the Shortest Vector Problem in $2^{0.6039n}$ Time via Mid-Point Hessian",
-      "https://arxiv.org/abs/2608.02478"
     ]
   ]
 ]
