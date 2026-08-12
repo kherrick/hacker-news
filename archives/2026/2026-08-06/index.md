@@ -31,6 +31,7 @@
 * [2026-08-06, 15:59:15](https://news.ycombinator.com/item?id=49198464) - [Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks](https://provenmetal.com)
 * [2026-08-06, 15:49:38](https://news.ycombinator.com/item?id=49198302) - [GitHub Actions and Pages are experiencing degraded availability](https://www.githubstatus.com/incidents/qcvjkzcs7j74)
 * [2026-08-06, 15:30:48](https://news.ycombinator.com/item?id=49198069) - [Almost no skill required to cook a steak](https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/)
+* [2026-08-06, 13:47:54](https://news.ycombinator.com/item?id=49196657) - [Show HN: Line9 - a Mermaid rendering engine with its own layout](https://line9.ai/diagram)
 * [2026-08-06, 13:43:12](https://news.ycombinator.com/item?id=49196581) - [Faster floating point math with Rust's new API](https://pythonspeed.com/articles/faster-float-math-rust/)
 * [2026-08-06, 12:50:36](https://news.ycombinator.com/item?id=49195958) - [Why Do Fewer Renters Expect to Move?](https://libertystreeteconomics.newyorkfed.org/2026/08/why-do-fewer-renters-expect-to-move/)
 * [2026-08-06, 11:58:07](https://news.ycombinator.com/item?id=49195468) - [Humans missed 1 in 3 threats approving AI agent commands across 40k game runs](https://scalex.dev/blog/ai-agent-permissions-stats/)
