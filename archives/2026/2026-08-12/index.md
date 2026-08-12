@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-08-12](index.md)
 
+* [2026-08-12, 10:06:29](https://news.ycombinator.com/item?id=49270040) - [Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation](https://woxi.ad-si.com)
+* [2026-08-12, 10:04:25](https://news.ycombinator.com/item?id=49270022) - [Tim Gowers: What sort of maths are LLMs good at?](https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/)
+* [2026-08-12, 09:35:30](https://news.ycombinator.com/item?id=49269818) - [Facebook is paying controversial creators to produce rage-bait content](https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696)
+* [2026-08-12, 09:30:47](https://news.ycombinator.com/item?id=49269789) - [Beef and dairy drive 41% of biodiversity damage linked to global farmland](https://www.oxfordmartin.ox.ac.uk/news/beef-and-dairy-drive-41-of-biodiversity-damage-linked-to-global-farmland)
+* [2026-08-12, 09:09:21](https://news.ycombinator.com/item?id=49269641) - [Dutch Train Map Simulator](https://spoorkaart.zaza.dev)
+* [2026-08-12, 07:51:20](https://news.ycombinator.com/item?id=49269090) - [Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials](https://discoveredmaterials.com/research/)
 * [2026-08-12, 06:53:17](https://news.ycombinator.com/item?id=49268697) - [AI agent hacks gym to get its user a spot in pilates class](https://www.bbc.com/news/articles/cn0nww2qlp7o)
 * [2026-08-12, 06:37:31](https://news.ycombinator.com/item?id=49268604) - [ICE to spend up to $20M on gloves that can deliver painful electric shocks](https://www.theguardian.com/us-news/2026/aug/11/ice-electric-shock-gloves)
 * [2026-08-12, 06:30:49](https://news.ycombinator.com/item?id=49268564) - [LinkedIn CringeBot 3000](https://www.cringebot3000.com/)
