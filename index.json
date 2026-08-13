@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-08-12, 23:07:32",
-      "https://news.ycombinator.com/item?id=49279804"
+      "2026-08-13, 00:01:43",
+      "https://news.ycombinator.com/item?id=49280184"
     ],
     [
-      "Show HN: A marketplace where AI agents buy services from AI agents",
-      "https://aaas-marketplace-1089237826218.asia-northeast1.run.app"
+      "Show HN: Ballet – Workflow automation that writes integrations against any API",
+      "https://www.ballet.dev/"
     ]
   ],
   [
@@ -17,6 +17,16 @@
     [
       "I built a browser-native SysEx librarian for 80s/90s synthesizers",
       "https://bipluk.com/"
+    ]
+  ],
+  [
+    [
+      "2026-08-12, 22:01:43",
+      "https://news.ycombinator.com/item?id=49279197"
+    ],
+    [
+      "Process as a Proxy for Motivation",
+      "https://bengodfrey.dev/blog/process/"
     ]
   ],
   [
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2026-08-12, 14:52:27",
-      "https://news.ycombinator.com/item?id=49273330"
-    ],
-    [
-      "Pixel 11 Pro Fold",
-      "https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/"
-    ]
-  ],
-  [
-    [
       "2026-08-12, 14:43:39",
       "https://news.ycombinator.com/item?id=49273165"
     ],
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2026-08-12, 10:06:29",
+      "https://news.ycombinator.com/item?id=49270040"
+    ],
+    [
+      "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
+      "https://woxi.ad-si.com"
+    ]
+  ],
+  [
+    [
       "2026-08-12, 10:04:25",
       "https://news.ycombinator.com/item?id=49270022"
     ],
@@ -287,16 +297,6 @@
     [
       "'The Cheese and the Worms' by Carlo Ginzburg Review",
       "https://www.historytoday.com/archive/review/cheese-and-worms-carlo-ginzburg-review"
-    ]
-  ],
-  [
-    [
-      "2026-08-06, 00:48:18",
-      "https://news.ycombinator.com/item?id=49191000"
-    ],
-    [
-      "The Essential Question: “What should I read next?”",
-      "https://thenewcuriosityshop.substack.com/p/the-essential-question"
     ]
   ]
 ]
