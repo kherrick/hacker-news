@@ -45,6 +45,7 @@
 * [2026-08-10, 14:32:54](https://news.ycombinator.com/item?id=49244250) - [There Is No \"Done\": Reflections on a Completed at Thru-Hike (2022)](https://thetrek.co/appalachian-trail/there-is-no-done-reflections-on-a-completed-at-thru-hike/)
 * [2026-08-10, 14:20:41](https://news.ycombinator.com/item?id=49244085) - [Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines](https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs)
 * [2026-08-10, 14:06:22](https://news.ycombinator.com/item?id=49243880) - [Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models](https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878)
+* [2026-08-10, 13:53:13](https://news.ycombinator.com/item?id=49243687) - [The lattice of sets of natural numbers is rich](https://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/)
 * [2026-08-10, 13:35:40](https://news.ycombinator.com/item?id=49243474) - [Humanising LLM Outputs Is Dumb](https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb)
 * [2026-08-10, 13:29:12](https://news.ycombinator.com/item?id=49243397) - [Mistral Patent for \"Code implemented tool calls\"](https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html)
 * [2026-08-10, 13:20:10](https://news.ycombinator.com/item?id=49243270) - [Flatworms, Ion Channels, and Burning Mouths](https://www.science.org/content/blog-post/flatworms-ion-channels-and-burning-mouths)
