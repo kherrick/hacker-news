@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-08-13, 19:15:10",
+      "https://news.ycombinator.com/item?id=49290629"
+    ],
+    [
+      "Show HN: Pixy, visual editor for coding agents, like Figma on your live site",
+      "https://pixydesignapp.com/"
+    ]
+  ],
+  [
+    [
+      "2026-08-13, 18:47:19",
+      "https://news.ycombinator.com/item?id=49290299"
+    ],
+    [
+      "Understanding Is the New Bottleneck",
+      "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck"
+    ]
+  ],
+  [
+    [
+      "2026-08-13, 18:41:01",
+      "https://news.ycombinator.com/item?id=49290215"
+    ],
+    [
+      "Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
+      "https://github.com/systemd/systemd/issues/40262"
+    ]
+  ],
+  [
+    [
+      "2026-08-13, 18:39:52",
+      "https://news.ycombinator.com/item?id=49290202"
+    ],
+    [
+      "What Is Kimi K3? A Complete Developer Guide for 2026",
+      "https://www.firecrawl.dev/blog/kimi-k3"
+    ]
+  ],
+  [
+    [
       "2026-08-13, 18:10:02",
       "https://news.ycombinator.com/item?id=49289844"
     ],
@@ -101,16 +141,6 @@
   ],
   [
     [
-      "2026-08-13, 14:37:51",
-      "https://news.ycombinator.com/item?id=49286662"
-    ],
-    [
-      "I requested a copy of my data from McDonald’s loyalty program",
-      "https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/"
-    ]
-  ],
-  [
-    [
       "2026-08-13, 14:26:41",
       "https://news.ycombinator.com/item?id=49286485"
     ],
@@ -127,16 +157,6 @@
     [
       "Graduate student proves a quantum uncertainty principle for fractals",
       "https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/"
-    ]
-  ],
-  [
-    [
-      "2026-08-13, 14:18:34",
-      "https://news.ycombinator.com/item?id=49286357"
-    ],
-    [
-      "We eliminated 1,400 CVEs in NanoClaw's container images",
-      "https://www.echo.ai/blog/echo-xnanoclaw-under-the-hood"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2026-08-13, 12:09:50",
-      "https://news.ycombinator.com/item?id=49284774"
-    ],
-    [
-      "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
-      "https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/"
-    ]
-  ],
-  [
-    [
       "2026-08-13, 12:01:02",
       "https://news.ycombinator.com/item?id=49284697"
     ],
@@ -261,16 +271,6 @@
   ],
   [
     [
-      "2026-08-12, 15:27:14",
-      "https://news.ycombinator.com/item?id=49273922"
-    ],
-    [
-      "Show HN: OJCP – an open protocol for agent-consumable job data",
-      "https://ojcp.dev/"
-    ]
-  ],
-  [
-    [
       "2026-08-11, 13:55:26",
       "https://news.ycombinator.com/item?id=49258428"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2026-08-10, 13:05:32",
-      "https://news.ycombinator.com/item?id=49243104"
-    ],
-    [
-      "From 13.5M installs to 499 active devices",
-      "https://games.lukicengineering.com/blog/2013-vs-2026/"
-    ]
-  ],
-  [
-    [
       "2026-08-09, 15:01:04",
       "https://news.ycombinator.com/item?id=49232039"
     ],
     [
       "Better Gaussian Splatting in Julia",
       "https://pxl-th.github.io/blog/better-gs-julia/"
+    ]
+  ],
+  [
+    [
+      "2026-08-08, 22:27:11",
+      "https://news.ycombinator.com/item?id=49226487"
+    ],
+    [
+      "Show HN: Inertia – Not your Grandfathers animation editor",
+      "https://inertiagraphics.com/"
     ]
   ]
 ]
