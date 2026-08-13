@@ -4,10 +4,18 @@
 
 ### [Archives](../../index.md) for [2026-08-13](index.md)
 
+* [2026-08-13, 18:10:02](https://news.ycombinator.com/item?id=49289844) - [Accelerating GPT-5.6 Sol Ultrafast](https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai)
+* [2026-08-13, 17:49:18](https://news.ycombinator.com/item?id=49289532) - [Where did the old web go? We followed 657,607 links to find out](https://0.mk/blog/link-rot)
+* [2026-08-13, 17:48:13](https://news.ycombinator.com/item?id=49289512) - [Choose Boring Technology (2015)](https://mcfunley.com/choose-boring-technology)
+* [2026-08-13, 17:45:50](https://news.ycombinator.com/item?id=49289465) - [Donkey.bas is 45 Years Old – 131 line of Glory](https://donkeybas.com/)
+* [2026-08-13, 17:23:22](https://news.ycombinator.com/item?id=49289112) - [Gemini 3.7 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/)
 * [2026-08-13, 17:23:22](https://news.ycombinator.com/item?id=49289112) - [Gemini 3.7 Flash](https://ai.google.dev/gemini-api/docs/models/gemini-3.7-flash)
+* [2026-08-13, 17:22:39](https://news.ycombinator.com/item?id=49289101) - [JDK 27 G1/Parallel/Serial GC Changes](https://tschatzl.github.io/2026/08/10/jdk27-g1-serial-parallel-gc-changes.html)
 * [2026-08-13, 17:15:46](https://news.ycombinator.com/item?id=49289026) - [Tocharian Online](https://lrc.la.utexas.edu/eieol/tokol/0)
+* [2026-08-13, 17:05:12](https://news.ycombinator.com/item?id=49288889) - [Mistral OCR 4.1](https://docs.mistral.ai/models/ocr-4-1)
 * [2026-08-13, 17:02:10](https://news.ycombinator.com/item?id=49288847) - [Gemini 3.7 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/)
 * [2026-08-13, 16:24:19](https://news.ycombinator.com/item?id=49288324) - [Mozilla says stricter antitrust measures against Google 'threaten Firefox'](https://www.techcentral.ie/mozilla-says-stricter-antitrust-measures-against-google-threaten-firefox/)
+* [2026-08-13, 16:22:16](https://news.ycombinator.com/item?id=49288296) - [GoAccess – Open-source real-time log analyzer and interactive viewer](https://goaccess.io/)
 * [2026-08-13, 16:22:05](https://news.ycombinator.com/item?id=49288293) - [We Have AI at Home Chapter 1: A Box of Scraps](https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html)
 * [2026-08-13, 15:07:10](https://news.ycombinator.com/item?id=49287153) - [Text AI watermarks will always be trivial to remove](https://www.seangoedecke.com/text-ai-watermarks/)
 * [2026-08-13, 14:37:51](https://news.ycombinator.com/item?id=49286662) - [McDonald's Built a 515-Page Dossier on Me. It Says I'll Never Stop Eating There](https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/)

@@ -50,6 +50,7 @@
 * [2026-08-10, 13:29:12](https://news.ycombinator.com/item?id=49243397) - [Mistral Patent for \"Code implemented tool calls\"](https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html)
 * [2026-08-10, 13:20:10](https://news.ycombinator.com/item?id=49243270) - [Flatworms, Ion Channels, and Burning Mouths](https://www.science.org/content/blog-post/flatworms-ion-channels-and-burning-mouths)
 * [2026-08-10, 13:20:09](https://news.ycombinator.com/item?id=49243269) - [Defending my own brain against enshittification](https://mrmarket.lol/how-i-feel-calmin-control-of-my-life-in-the-time-of-enshittification/)
+* [2026-08-10, 13:05:32](https://news.ycombinator.com/item?id=49243104) - [From 13.5M installs to 499 active devices](https://games.lukicengineering.com/blog/2013-vs-2026/)
 * [2026-08-10, 12:58:16](https://news.ycombinator.com/item?id=49243029) - [50k Boat Names](https://www.beautifulpublicdata.com/boat-names/)
 * [2026-08-10, 12:26:05](https://news.ycombinator.com/item?id=49242739) - [Over 181,000 AI meeting recordings left wide open in note taking app](https://bobdahacker.com/blog/tldv-hack)
 * [2026-08-10, 12:24:48](https://news.ycombinator.com/item?id=49242728) - [DeepSeek costs OpenCode Go user $1.14/day; dual DGX breaks even in 24 years](https://twitter.com/thdxr/status/2086599224674681242)
