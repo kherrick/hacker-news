@@ -81,6 +81,7 @@
 * [2026-08-09, 03:26:00](https://news.ycombinator.com/item?id=49228166) - [Retraction: The App Store Rejection of the Week That Was a Correct Rejection](https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week)
 * [2026-08-09, 03:13:01](https://news.ycombinator.com/item?id=49228086) - [Real-time MCP interceptor that blocks .env reads and dangerous commands agents](https://marketnow.site/)
 * [2026-08-09, 02:01:38](https://news.ycombinator.com/item?id=49227718) - [ChatGPT starts blocking direct requests to copy an author's style](https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/)
+* [2026-08-09, 01:59:54](https://news.ycombinator.com/item?id=49227709) - [Waits: Arthur Samuel's Checkers](https://timereshared.com/waits-samuel-checkers/)
 * [2026-08-09, 01:55:53](https://news.ycombinator.com/item?id=49227686) - [The phone book that led us to Assad's spy chief in hiding](https://www.bbc.com/news/articles/c4gyrzn8p94o)
 * [2026-08-09, 01:49:48](https://news.ycombinator.com/item?id=49227652) - [Incentives Are for Losers](https://www.experimental-history.com/p/incentives-are-for-losers)
 * [2026-08-09, 01:41:40](https://news.ycombinator.com/item?id=49227610) - [Archive of Animal Photography Reveals 18,000 Species and Counting](https://www.smithsonianmag.com/science-nature/this-amazing-archive-of-animal-photography-reveals-18000-species-and-counting-heres-how-joel-sartore-built-his-photo-ark-180989282/)

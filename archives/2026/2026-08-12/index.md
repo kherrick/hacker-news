@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-08-12](index.md)
 
+* [2026-08-12, 23:50:33](https://news.ycombinator.com/item?id=49280103) - [Happy 45th Birthday to the IBM PC and Model F/XT](https://sharktastica.co.uk/articles/pc-fxt-45)
+* [2026-08-12, 23:46:00](https://news.ycombinator.com/item?id=49280061) - [What's New in Flutter 3.47](https://flutter.dev/blog/whats-new-in-flutter-3-47)
+* [2026-08-12, 23:43:48](https://news.ycombinator.com/item?id=49280047) - [Build Wide, Ship Narrow](https://adapt.com/blog/build-wide-ship-narrow)
+* [2026-08-12, 23:26:21](https://news.ycombinator.com/item?id=49279928) - [Principia Mathematica is modern and insightful](https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html)
 * [2026-08-12, 23:07:32](https://news.ycombinator.com/item?id=49279804) - [Show HN: A marketplace where AI agents buy services from AI agents](https://aaas-marketplace-1089237826218.asia-northeast1.run.app)
 * [2026-08-12, 22:47:20](https://news.ycombinator.com/item?id=49279628) - [I built a browser-native SysEx librarian for 80s/90s synthesizers](https://bipluk.com/)
 * [2026-08-12, 22:01:43](https://news.ycombinator.com/item?id=49279197) - [Process as a Proxy for Motivation](https://bengodfrey.dev/blog/process/)
