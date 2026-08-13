@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-08-13, 20:14:17",
+      "https://news.ycombinator.com/item?id=49291268"
+    ],
+    [
+      "NP-Overrated",
+      "https://gruhn.me/blog/2026-08-13/"
+    ]
+  ],
+  [
+    [
       "2026-08-13, 19:44:46",
       "https://news.ycombinator.com/item?id=49290969"
     ],
     [
-      "How Gödel's Proof Works",
+      "How Gödel's Proof Works (2020)",
       "https://www.quantamagazine.org/how-godels-proof-works-20200714/"
+    ]
+  ],
+  [
+    [
+      "2026-08-13, 19:26:58",
+      "https://news.ycombinator.com/item?id=49290785"
+    ],
+    [
+      "Airbnb Eval-driven development: Lessons from evaluating GenAI at scale",
+      "https://medium.com/airbnb-engineering/eval-driven-development-lessons-from-evaluating-genai-at-scale-e817e5ae5788"
     ]
   ],
   [
@@ -41,16 +61,6 @@
   ],
   [
     [
-      "2026-08-13, 18:13:42",
-      "https://news.ycombinator.com/item?id=49289890"
-    ],
-    [
-      "Show HN: OpenCode Senses, An insanely fast and highly accurate vision plugin",
-      "https://github.com/itsmeadarsh2008/opencode-senses"
-    ]
-  ],
-  [
-    [
       "2026-08-13, 18:10:02",
       "https://news.ycombinator.com/item?id=49289844"
     ],
@@ -67,16 +77,6 @@
     [
       "How Compaction Works in Pi",
       "https://earendil.com/posts/compaction-in-pi/"
-    ]
-  ],
-  [
-    [
-      "2026-08-13, 17:53:19",
-      "https://news.ycombinator.com/item?id=49289585"
-    ],
-    [
-      "Solid 2.0 RC: The Big <Reveal>",
-      "https://www.solidjs.com/blog/solid-2-0-rc-the-big-reveal"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2026-08-13, 08:14:30",
-      "https://news.ycombinator.com/item?id=49283063"
-    ],
-    [
-      "Launch HN: Bullet (YC S26) – A Faster Coding Agent",
-      "https://www.codewithbullet.com"
-    ]
-  ],
-  [
-    [
       "2026-08-13, 04:53:41",
       "https://news.ycombinator.com/item?id=49281916"
     ],
@@ -287,6 +277,16 @@
     [
       "Come for ENIAC, Stay for UNIVAC and Skeduflo",
       "https://uniqueatpenn.wordpress.com/2026/08/05/come-for-eniac-stay-for-univac-and-skeduflo/"
+    ]
+  ],
+  [
+    [
+      "2026-08-10, 15:06:15",
+      "https://news.ycombinator.com/item?id=49244696"
+    ],
+    [
+      "Smooth Move: Taming Trajectories with Polynomials",
+      "https://nick.zoic.org/art/smooth-move-taming-trajectories-with-polynomials/"
     ]
   ],
   [
