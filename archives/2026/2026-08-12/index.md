@@ -6,6 +6,7 @@
 
 * [2026-08-12, 23:07:32](https://news.ycombinator.com/item?id=49279804) - [Show HN: A marketplace where AI agents buy services from AI agents](https://aaas-marketplace-1089237826218.asia-northeast1.run.app)
 * [2026-08-12, 22:47:20](https://news.ycombinator.com/item?id=49279628) - [I built a browser-native SysEx librarian for 80s/90s synthesizers](https://bipluk.com/)
+* [2026-08-12, 22:01:43](https://news.ycombinator.com/item?id=49279197) - [Process as a Proxy for Motivation](https://bengodfrey.dev/blog/process/)
 * [2026-08-12, 21:45:29](https://news.ycombinator.com/item?id=49279013) - [Thanks to social media, canned sardines are a scarcity on the supermarket shelf](https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/)
 * [2026-08-12, 20:00:16](https://news.ycombinator.com/item?id=49277799) - [Breaking the WAL](https://antithesis.com/blog/2026/wal-reset-bug/)
 * [2026-08-12, 18:27:52](https://news.ycombinator.com/item?id=49276673) - [Show HN: Programmable timer web app (for gym workouts or stretching sessions)](https://timer.jotaen.net)

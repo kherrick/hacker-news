@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-08-12, 23:07:32](https://news.ycombinator.com/item?id=49279804) - [Show HN: A marketplace where AI agents buy services from AI agents](https://aaas-marketplace-1089237826218.asia-northeast1.run.app)
+* [2026-08-13, 00:01:43](https://news.ycombinator.com/item?id=49280184) - [Show HN: Ballet – Workflow automation that writes integrations against any API](https://www.ballet.dev/)
 * [2026-08-12, 22:47:20](https://news.ycombinator.com/item?id=49279628) - [I built a browser-native SysEx librarian for 80s/90s synthesizers](https://bipluk.com/)
+* [2026-08-12, 22:01:43](https://news.ycombinator.com/item?id=49279197) - [Process as a Proxy for Motivation](https://bengodfrey.dev/blog/process/)
 * [2026-08-12, 20:00:16](https://news.ycombinator.com/item?id=49277799) - [Breaking the WAL](https://antithesis.com/blog/2026/wal-reset-bug/)
 * [2026-08-12, 18:27:52](https://news.ycombinator.com/item?id=49276673) - [Show HN: Programmable timer web app (for gym workouts or stretching sessions)](https://timer.jotaen.net)
 * [2026-08-12, 18:19:59](https://news.ycombinator.com/item?id=49276574) - [Delta](https://zed.dev/blog/introducing-delta)
@@ -13,7 +14,6 @@
 * [2026-08-12, 16:04:50](https://news.ycombinator.com/item?id=49274600) - [DeepSeek V4 Pro 0813](https://openrouter.ai/deepseek/deepseek-v4-pro-0813)
 * [2026-08-12, 15:32:50](https://news.ycombinator.com/item?id=49274027) - [Grok 4.6](https://x.ai/news/grok-4-6)
 * [2026-08-12, 15:01:17](https://news.ycombinator.com/item?id=49273478) - [Qwen3.8-2.4T](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B)
-* [2026-08-12, 14:52:27](https://news.ycombinator.com/item?id=49273330) - [Pixel 11 Pro Fold](https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/)
 * [2026-08-12, 14:43:39](https://news.ycombinator.com/item?id=49273165) - [License plate reader searches should require a warrant](https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/)
 * [2026-08-12, 14:22:30](https://news.ycombinator.com/item?id=49272832) - [Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug](https://tailscale.com/blog/sqlite-wal-reset-bug)
 * [2026-08-12, 14:09:11](https://news.ycombinator.com/item?id=49272655) - [Tim King, AmigaDOS developer, has died](https://amiga-news.de/en/news/AN-2026-08-00070-EN.html)
@@ -23,13 +23,13 @@
 * [2026-08-12, 13:01:21](https://news.ycombinator.com/item?id=49271757) - [Shade Map](https://shademap.app)
 * [2026-08-12, 11:53:01](https://news.ycombinator.com/item?id=49270953) - [2026 Eclipse Webcams](https://jonty.github.io/2026_eclipse_webcams/)
 * [2026-08-12, 11:28:27](https://news.ycombinator.com/item?id=49270726) - [uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook](https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html)
+* [2026-08-12, 10:06:29](https://news.ycombinator.com/item?id=49270040) - [Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation](https://woxi.ad-si.com)
 * [2026-08-12, 10:04:25](https://news.ycombinator.com/item?id=49270022) - [What sort of maths are LLMs good at?](https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/)
 * [2026-08-12, 08:40:53](https://news.ycombinator.com/item?id=49269429) - [Why Target Common Lisp for Code Generation?](http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html)
 * [2026-08-12, 07:51:20](https://news.ycombinator.com/item?id=49269090) - [Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials](https://discoveredmaterials.com/research/)
 * [2026-08-09, 15:26:07](https://news.ycombinator.com/item?id=49232312) - [A Tale of Dynamic Programming (2022)](https://iagoleal.com/posts/dynamic-programming/)
 * [2026-08-09, 13:37:59](https://news.ycombinator.com/item?id=49231315) - [Debugging Information for Inlined Functions](https://lwn.net/Articles/1083985/)
 * [2026-08-07, 19:22:00](https://news.ycombinator.com/item?id=49215117) - ['The Cheese and the Worms' by Carlo Ginzburg Review](https://www.historytoday.com/archive/review/cheese-and-worms-carlo-ginzburg-review)
-* [2026-08-06, 00:48:18](https://news.ycombinator.com/item?id=49191000) - [The Essential Question: “What should I read next?”](https://thenewcuriosityshop.substack.com/p/the-essential-question)
 
 ## [Archives](archives/index.md)
 

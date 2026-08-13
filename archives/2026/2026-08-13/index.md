@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-08-13](index.md)
+
+* [2026-08-13, 00:01:43](https://news.ycombinator.com/item?id=49280184) - [Show HN: Ballet – Workflow automation that writes integrations against any API](https://www.ballet.dev/)
