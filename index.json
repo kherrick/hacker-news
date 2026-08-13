@@ -1,12 +1,62 @@
 [
   [
     [
+      "2026-08-13, 18:10:02",
+      "https://news.ycombinator.com/item?id=49289844"
+    ],
+    [
+      "Accelerating GPT-5.6 Sol Ultrafast",
+      "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai"
+    ]
+  ],
+  [
+    [
+      "2026-08-13, 17:49:18",
+      "https://news.ycombinator.com/item?id=49289532"
+    ],
+    [
+      "Where did the old web go? We followed 657,607 links to find out",
+      "https://0.mk/blog/link-rot"
+    ]
+  ],
+  [
+    [
+      "2026-08-13, 17:48:13",
+      "https://news.ycombinator.com/item?id=49289512"
+    ],
+    [
+      "Choose Boring Technology (2015)",
+      "https://mcfunley.com/choose-boring-technology"
+    ]
+  ],
+  [
+    [
+      "2026-08-13, 17:45:50",
+      "https://news.ycombinator.com/item?id=49289465"
+    ],
+    [
+      "Donkey.bas is 45 Years Old – 131 line of Glory",
+      "https://donkeybas.com/"
+    ]
+  ],
+  [
+    [
       "2026-08-13, 17:23:22",
       "https://news.ycombinator.com/item?id=49289112"
     ],
     [
       "Gemini 3.7 Flash",
-      "https://ai.google.dev/gemini-api/docs/models/gemini-3.7-flash"
+      "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/"
+    ]
+  ],
+  [
+    [
+      "2026-08-13, 17:22:39",
+      "https://news.ycombinator.com/item?id=49289101"
+    ],
+    [
+      "JDK 27 G1/Parallel/Serial GC Changes",
+      "https://tschatzl.github.io/2026/08/10/jdk27-g1-serial-parallel-gc-changes.html"
     ]
   ],
   [
@@ -21,22 +71,22 @@
   ],
   [
     [
-      "2026-08-13, 17:02:10",
-      "https://news.ycombinator.com/item?id=49288847"
+      "2026-08-13, 17:05:12",
+      "https://news.ycombinator.com/item?id=49288889"
     ],
     [
-      "Gemini 3.7 Flash",
-      "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/"
+      "Mistral OCR 4.1",
+      "https://docs.mistral.ai/models/ocr-4-1"
     ]
   ],
   [
     [
-      "2026-08-13, 16:24:19",
-      "https://news.ycombinator.com/item?id=49288324"
+      "2026-08-13, 16:22:16",
+      "https://news.ycombinator.com/item?id=49288296"
     ],
     [
-      "Mozilla says stricter antitrust measures against Google 'threaten Firefox'",
-      "https://www.techcentral.ie/mozilla-says-stricter-antitrust-measures-against-google-threaten-firefox/"
+      "GoAccess – Open-source real-time log analyzer and interactive viewer",
+      "https://goaccess.io/"
     ]
   ],
   [
@@ -45,7 +95,7 @@
       "https://news.ycombinator.com/item?id=49288293"
     ],
     [
-      "We Have AI at Home Chapter 1: A Box of Scraps",
+      "AI At Home Part 1: A Box Of Scraps",
       "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html"
     ]
   ],
@@ -111,16 +161,6 @@
   ],
   [
     [
-      "2026-08-13, 13:54:56",
-      "https://news.ycombinator.com/item?id=49286030"
-    ],
-    [
-      "Time to Move On: Querying Without Nulls and Bags",
-      "https://arxiv.org/abs/2608.10863"
-    ]
-  ],
-  [
-    [
       "2026-08-13, 13:52:32",
       "https://news.ycombinator.com/item?id=49285982"
     ],
@@ -135,7 +175,7 @@
       "https://news.ycombinator.com/item?id=49285770"
     ],
     [
-      "Ordinary Abundance",
+      "Ordinary abundance",
       "https://ordinaryabundance.com/"
     ]
   ],
@@ -147,16 +187,6 @@
     [
       "I built a 500k-domain search engine for makers in a weekend for $10",
       "https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html"
-    ]
-  ],
-  [
-    [
-      "2026-08-13, 13:14:12",
-      "https://news.ycombinator.com/item?id=49285418"
-    ],
-    [
-      "Nine PBS could lose 70 years of archives after cloud vendor goes defunct",
-      "https://www.tomshardware.com/software/cloud-storage/nine-pbs-loses-access-to-70-years-of-data-after-contracted-cloud-storage-vendor-goes-defunct-public-tv-channel-sues-iron-mountain-data-center-which-hosts-archival-materials-to-ensure-preservation"
     ]
   ],
   [
@@ -231,16 +261,6 @@
   ],
   [
     [
-      "2026-08-12, 22:47:12",
-      "https://news.ycombinator.com/item?id=49279627"
-    ],
-    [
-      "The Indo-European Family Tree",
-      "https://djbinder.com/language-tree/"
-    ]
-  ],
-  [
-    [
       "2026-08-12, 15:27:14",
       "https://news.ycombinator.com/item?id=49273922"
     ],
@@ -261,22 +281,12 @@
   ],
   [
     [
-      "2026-08-11, 07:03:49",
-      "https://news.ycombinator.com/item?id=49254376"
+      "2026-08-10, 13:05:32",
+      "https://news.ycombinator.com/item?id=49243104"
     ],
     [
-      "The mathematical physics of rainbows and glories (2001) [pdf]",
-      "https://tlakoba.w3.uvm.edu/AppliedUGMath/auxpaper_rainbow_glory_review.pdf"
-    ]
-  ],
-  [
-    [
-      "2026-08-10, 13:53:13",
-      "https://news.ycombinator.com/item?id=49243687"
-    ],
-    [
-      "The lattice of sets of natural numbers is rich (2021)",
-      "https://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/"
+      "From 13.5M installs to 499 active devices",
+      "https://games.lukicengineering.com/blog/2013-vs-2026/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Better Gaussian Splatting in Julia",
       "https://pxl-th.github.io/blog/better-gs-julia/"
-    ]
-  ],
-  [
-    [
-      "2026-08-08, 02:55:51",
-      "https://news.ycombinator.com/item?id=49218514"
-    ],
-    [
-      "Translating the Renaissance: 17,000+ historical source texts",
-      "https://sourcelibrary.org"
     ]
   ]
 ]
