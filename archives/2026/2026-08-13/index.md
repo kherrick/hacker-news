@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-08-13](index.md)
 
+* [2026-08-13, 17:23:22](https://news.ycombinator.com/item?id=49289112) - [Gemini 3.7 Flash](https://ai.google.dev/gemini-api/docs/models/gemini-3.7-flash)
+* [2026-08-13, 17:15:46](https://news.ycombinator.com/item?id=49289026) - [Tocharian Online](https://lrc.la.utexas.edu/eieol/tokol/0)
+* [2026-08-13, 17:02:10](https://news.ycombinator.com/item?id=49288847) - [Gemini 3.7 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/)
+* [2026-08-13, 16:24:19](https://news.ycombinator.com/item?id=49288324) - [Mozilla says stricter antitrust measures against Google 'threaten Firefox'](https://www.techcentral.ie/mozilla-says-stricter-antitrust-measures-against-google-threaten-firefox/)
+* [2026-08-13, 16:22:05](https://news.ycombinator.com/item?id=49288293) - [We Have AI at Home Chapter 1: A Box of Scraps](https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html)
 * [2026-08-13, 15:07:10](https://news.ycombinator.com/item?id=49287153) - [Text AI watermarks will always be trivial to remove](https://www.seangoedecke.com/text-ai-watermarks/)
 * [2026-08-13, 14:37:51](https://news.ycombinator.com/item?id=49286662) - [McDonald's Built a 515-Page Dossier on Me. It Says I'll Never Stop Eating There](https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/)
 * [2026-08-13, 14:37:29](https://news.ycombinator.com/item?id=49286654) - [Flock updates privacy, accountability, security, and transparency safeguards](https://www.flocksafety.com/blog/flock-guardrails-address-lpr-privacy-concerns-and-police-transparency)
@@ -25,6 +30,7 @@
 * [2026-08-13, 13:05:29](https://news.ycombinator.com/item?id=49285327) - [Choosing an AI model: one prompt, 11 models, different results](https://www.netlify.com/blog/one-prompt-11-models-very-different-results/)
 * [2026-08-13, 13:00:24](https://news.ycombinator.com/item?id=49285268) - [My Rules for Using Spreadsheets](https://leancrew.com/all-this/2026/08/my-rules-for-using-spreadsheets/)
 * [2026-08-13, 12:58:02](https://news.ycombinator.com/item?id=49285244) - [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)
+* [2026-08-13, 12:58:02](https://news.ycombinator.com/item?id=49285244) - [DeepSeek Harness developer preview](https://deepseek.com/harness/en/)
 * [2026-08-13, 12:49:21](https://news.ycombinator.com/item?id=49285160) - [DeepSeek API Pricing Update](https://twitter.com/deepseek_ai/status/2087864589895798968)
 * [2026-08-13, 12:09:50](https://news.ycombinator.com/item?id=49284774) - [Deutsche Bank becomes first foreign yuan clearing bank in Europe](https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/)
 * [2026-08-13, 12:01:02](https://news.ycombinator.com/item?id=49284697) - [ATG (YC F25) Is Hiring Member of Technical Staff (Data Platform)](https://atg.science/careers)

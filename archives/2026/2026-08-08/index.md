@@ -50,6 +50,7 @@
 * [2026-08-08, 07:04:51](https://news.ycombinator.com/item?id=49219508) - [Hardware backdoors in some x86 CPUs](https://github.com/xoreaxeaxeax/rosenbridge)
 * [2026-08-08, 06:45:11](https://news.ycombinator.com/item?id=49219428) - [Italian Bank Stores 400K Wheels of Cheese as Collateral for Farmer Loans](https://travelandtannins.com/an-italian-bank-keeps-400000-wheels-of-cheese-in-a-guarded-vault-and-farmers-borrow-money-against-them-like-gold/)
 * [2026-08-08, 03:41:56](https://news.ycombinator.com/item?id=49218707) - [Mythos social engineering AISI INC-2026-07-28-01](https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3)
+* [2026-08-08, 02:55:51](https://news.ycombinator.com/item?id=49218514) - [Translating the Renaissance: 17,000+ historical source texts](https://sourcelibrary.org)
 * [2026-08-08, 02:43:01](https://news.ycombinator.com/item?id=49218463) - [The Hat and the Spectre – Recent Groundbreaking Discoveries in Mathematics](https://momath.org/the-hat/)
 * [2026-08-08, 01:51:35](https://news.ycombinator.com/item?id=49218190) - [The Bit Player: My Father with Steve Zissou](https://www.theparisreview.org/blog/2026/07/27/the-bit-player-my-father-with-steve-zissou/)
 * [2026-08-08, 01:49:11](https://news.ycombinator.com/item?id=49218179) - [NASA to keep its 48-year-old Voyager 2 probe running for yet another year](https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year)
