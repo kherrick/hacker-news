@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-08-13, 15:07:10",
+      "https://news.ycombinator.com/item?id=49287153"
+    ],
+    [
+      "Text AI watermarks will always be trivial to remove",
+      "https://www.seangoedecke.com/text-ai-watermarks/"
+    ]
+  ],
+  [
+    [
+      "2026-08-13, 14:37:51",
+      "https://news.ycombinator.com/item?id=49286662"
+    ],
+    [
+      "McDonald's Built a 515-Page Dossier on Me. It Says I'll Never Stop Eating There",
+      "https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/"
+    ]
+  ],
+  [
+    [
+      "2026-08-13, 14:26:41",
+      "https://news.ycombinator.com/item?id=49286485"
+    ],
+    [
+      "Kubernetes on Oxide: How Customer Needs Shaped Our Integrations",
+      "https://oxide.computer/blog/kubernetes-on-oxide"
+    ]
+  ],
+  [
+    [
+      "2026-08-13, 14:22:54",
+      "https://news.ycombinator.com/item?id=49286424"
+    ],
+    [
+      "Graduate Student Proves a Quantum Uncertainty Principle for Fractals",
+      "https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/"
+    ]
+  ],
+  [
+    [
+      "2026-08-13, 14:18:34",
+      "https://news.ycombinator.com/item?id=49286357"
+    ],
+    [
+      "We eliminated 1,400 CVEs in NanoClaw's container images",
+      "https://www.echo.ai/blog/echo-xnanoclaw-under-the-hood"
+    ]
+  ],
+  [
+    [
       "2026-08-13, 14:17:13",
       "https://news.ycombinator.com/item?id=49286341"
     ],
@@ -81,21 +131,11 @@
   ],
   [
     [
-      "2026-08-13, 13:18:34",
-      "https://news.ycombinator.com/item?id=49285461"
-    ],
-    [
-      "Why Are Rivers So Mathematical?",
-      "https://www.quantamagazine.org/why-are-rivers-so-mathematical-20260810/"
-    ]
-  ],
-  [
-    [
       "2026-08-13, 13:14:12",
       "https://news.ycombinator.com/item?id=49285418"
     ],
     [
-      "Nine PBS could lose 70 years of archival materials after cloud vendor defunct",
+      "Nine PBS could lose 70 years of archives after cloud vendor goes defunct",
       "https://www.tomshardware.com/software/cloud-storage/nine-pbs-loses-access-to-70-years-of-data-after-contracted-cloud-storage-vendor-goes-defunct-public-tv-channel-sues-iron-mountain-data-center-which-hosts-archival-materials-to-ensure-preservation"
     ]
   ],
@@ -161,22 +201,22 @@
   ],
   [
     [
+      "2026-08-13, 08:14:30",
+      "https://news.ycombinator.com/item?id=49283063"
+    ],
+    [
+      "Launch HN: Bullet (YC S26) – A Faster Coding Agent",
+      "https://www.codewithbullet.com"
+    ]
+  ],
+  [
+    [
       "2026-08-13, 04:53:41",
       "https://news.ycombinator.com/item?id=49281916"
     ],
     [
       "ChatGPT Desktop (Codex Desktop) for Linux",
       "https://openai.com/codex/"
-    ]
-  ],
-  [
-    [
-      "2026-08-12, 23:46:00",
-      "https://news.ycombinator.com/item?id=49280061"
-    ],
-    [
-      "Flutter 3.47",
-      "https://flutter.dev/blog/whats-new-in-flutter-3-47"
     ]
   ],
   [
@@ -201,52 +241,22 @@
   ],
   [
     [
-      "2026-08-12, 16:04:50",
-      "https://news.ycombinator.com/item?id=49274600"
-    ],
-    [
-      "DeepSeek V4 Pro 0813",
-      "https://openrouter.ai/deepseek/deepseek-v4-pro-0813"
-    ]
-  ],
-  [
-    [
-      "2026-08-12, 15:01:17",
-      "https://news.ycombinator.com/item?id=49273478"
-    ],
-    [
-      "Qwen3.8-2.4T",
-      "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B"
-    ]
-  ],
-  [
-    [
-      "2026-08-12, 14:22:30",
-      "https://news.ycombinator.com/item?id=49272832"
-    ],
-    [
-      "Tracking down the 16-year-old WAL-reset SQLite bug",
-      "https://tailscale.com/blog/sqlite-wal-reset-bug"
-    ]
-  ],
-  [
-    [
-      "2026-08-12, 11:28:27",
-      "https://news.ycombinator.com/item?id=49270726"
-    ],
-    [
-      "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
-      "https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html"
-    ]
-  ],
-  [
-    [
       "2026-08-11, 13:55:26",
       "https://news.ycombinator.com/item?id=49258428"
     ],
     [
-      "Come for Eniac, Stay for Univac and Skeduflo",
+      "Come for ENIAC, Stay for UNIVAC and Skeduflo",
       "https://uniqueatpenn.wordpress.com/2026/08/05/come-for-eniac-stay-for-univac-and-skeduflo/"
+    ]
+  ],
+  [
+    [
+      "2026-08-11, 07:03:49",
+      "https://news.ycombinator.com/item?id=49254376"
+    ],
+    [
+      "The mathematical physics of rainbows and glories(2001) [pdf]",
+      "https://tlakoba.w3.uvm.edu/AppliedUGMath/auxpaper_rainbow_glory_review.pdf"
     ]
   ],
   [
@@ -261,21 +271,11 @@
   ],
   [
     [
-      "2026-08-10, 12:22:53",
-      "https://news.ycombinator.com/item?id=49242698"
-    ],
-    [
-      "Antiqua–Fraktur dispute",
-      "https://en.wikipedia.org/wiki/Antiqua%E2%80%93Fraktur_dispute"
-    ]
-  ],
-  [
-    [
       "2026-08-09, 22:05:50",
       "https://news.ycombinator.com/item?id=49236596"
     ],
     [
-      "What Garbage Collection Costs",
+      "What garbage collection actually costs",
       "https://shivanshuag.com/blog/what-garbage-collection-actually-costs/"
     ]
   ],
