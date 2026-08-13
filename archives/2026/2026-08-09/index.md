@@ -49,6 +49,7 @@
 * [2026-08-09, 15:18:25](https://news.ycombinator.com/item?id=49232221) - [Silicon Valley misreads science fiction and undermines democracy](https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/)
 * [2026-08-09, 15:11:20](https://news.ycombinator.com/item?id=49232138) - [Windows 11's built-in Weather app wastes more than 1 GB of RAM](https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html)
 * [2026-08-09, 15:08:51](https://news.ycombinator.com/item?id=49232110) - [Tom Stanton's supersonic trebuchet breaks sound barrier with gravity alone](https://www.techeblog.com/tom-stanton-supersonic-trebuchet/)
+* [2026-08-09, 15:01:04](https://news.ycombinator.com/item?id=49232039) - [Better Gaussian Splatting in Julia](https://pxl-th.github.io/blog/better-gs-julia/)
 * [2026-08-09, 14:36:46](https://news.ycombinator.com/item?id=49231838) - [I Wanted to Own the Harness. Then Codex Desktop Won](https://jorypestorious.com/blog/portable-agent-factory/)
 * [2026-08-09, 14:32:53](https://news.ycombinator.com/item?id=49231809) - [Cool URIs Don't Change (1998)](https://www.w3.org/Provider/Style/URI)
 * [2026-08-09, 14:30:05](https://news.ycombinator.com/item?id=49231777) - [Show HN: Today's cities on a globe of Earth's tectonic past and future](https://douwe.com/projects/tectonic_globe)
