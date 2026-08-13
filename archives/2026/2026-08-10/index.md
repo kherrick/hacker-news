@@ -52,6 +52,7 @@
 * [2026-08-10, 12:58:16](https://news.ycombinator.com/item?id=49243029) - [50k Boat Names](https://www.beautifulpublicdata.com/boat-names/)
 * [2026-08-10, 12:26:05](https://news.ycombinator.com/item?id=49242739) - [Over 181,000 AI meeting recordings left wide open in note taking app](https://bobdahacker.com/blog/tldv-hack)
 * [2026-08-10, 12:24:48](https://news.ycombinator.com/item?id=49242728) - [DeepSeek costs OpenCode Go user $1.14/day; dual DGX breaks even in 24 years](https://twitter.com/thdxr/status/2086599224674681242)
+* [2026-08-10, 12:22:53](https://news.ycombinator.com/item?id=49242698) - [Antiqua–Fraktur Dispute](https://en.wikipedia.org/wiki/Antiqua%E2%80%93Fraktur_dispute)
 * [2026-08-10, 12:15:53](https://news.ycombinator.com/item?id=49242653) - [Squeak/Smalltalk 6.1 Release Notes](https://squeak.org/release_notes/6.1/)
 * [2026-08-10, 11:34:40](https://news.ycombinator.com/item?id=49242297) - [Tail-call optimization in C is relatively recent](https://lwn.net/Articles/1034703/)
 * [2026-08-10, 11:27:47](https://news.ycombinator.com/item?id=49242245) - [Because It's Not Fun Enough: why languages fail](https://bytecode.news/posts/2026/08/because-it-s-not-fun-enough)

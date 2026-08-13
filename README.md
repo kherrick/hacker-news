@@ -2,7 +2,6 @@
 
 * [2026-08-13, 00:01:43](https://news.ycombinator.com/item?id=49280184) - [Show HN: Ballet – Workflow automation that writes integrations against any API](https://www.ballet.dev/)
 * [2026-08-12, 23:50:33](https://news.ycombinator.com/item?id=49280103) - [Happy 45th Birthday to the IBM PC and Model F/XT](https://sharktastica.co.uk/articles/pc-fxt-45)
-* [2026-08-12, 23:46:00](https://news.ycombinator.com/item?id=49280061) - [What's New in Flutter 3.47](https://flutter.dev/blog/whats-new-in-flutter-3-47)
 * [2026-08-12, 23:43:48](https://news.ycombinator.com/item?id=49280047) - [Build Wide, Ship Narrow](https://adapt.com/blog/build-wide-ship-narrow)
 * [2026-08-12, 23:26:21](https://news.ycombinator.com/item?id=49279928) - [Principia Mathematica is modern and insightful](https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html)
 * [2026-08-12, 22:01:43](https://news.ycombinator.com/item?id=49279197) - [Process as a Proxy for Motivation](https://bengodfrey.dev/blog/process/)
@@ -24,11 +23,12 @@
 * [2026-08-12, 13:01:21](https://news.ycombinator.com/item?id=49271757) - [Shade Map](https://shademap.app)
 * [2026-08-12, 11:53:01](https://news.ycombinator.com/item?id=49270953) - [2026 Eclipse Webcams](https://jonty.github.io/2026_eclipse_webcams/)
 * [2026-08-12, 11:28:27](https://news.ycombinator.com/item?id=49270726) - [uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook](https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html)
+* [2026-08-12, 10:06:29](https://news.ycombinator.com/item?id=49270040) - [Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation](https://woxi.ad-si.com)
+* [2026-08-12, 10:04:25](https://news.ycombinator.com/item?id=49270022) - [What sort of maths are LLMs good at?](https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/)
 * [2026-08-12, 08:40:53](https://news.ycombinator.com/item?id=49269429) - [Why Target Common Lisp for Code Generation?](http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html)
 * [2026-08-12, 07:51:20](https://news.ycombinator.com/item?id=49269090) - [Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials](https://discoveredmaterials.com/research/)
+* [2026-08-10, 12:22:53](https://news.ycombinator.com/item?id=49242698) - [Antiqua–Fraktur Dispute](https://en.wikipedia.org/wiki/Antiqua%E2%80%93Fraktur_dispute)
 * [2026-08-09, 15:26:07](https://news.ycombinator.com/item?id=49232312) - [A Tale of Dynamic Programming (2022)](https://iagoleal.com/posts/dynamic-programming/)
-* [2026-08-09, 13:37:59](https://news.ycombinator.com/item?id=49231315) - [Debugging Information for Inlined Functions](https://lwn.net/Articles/1083985/)
-* [2026-08-09, 01:59:54](https://news.ycombinator.com/item?id=49227709) - [Waits: Arthur Samuel's Checkers](https://timereshared.com/waits-samuel-checkers/)
 * [2026-08-08, 19:01:18](https://news.ycombinator.com/item?id=49224802) - [Probabilistic Estimation for Localizing a Radioactive Source in an Urban Setting](https://repository.lib.ncsu.edu/items/451b001d-e63a-4968-866d-3fb3a599b1e7)
 
 ## [Archives](archives/index.md)
