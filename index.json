@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-08-13, 13:00:24",
+      "https://news.ycombinator.com/item?id=49285268"
+    ],
+    [
+      "My Rules for Using Spreadsheets",
+      "https://leancrew.com/all-this/2026/08/my-rules-for-using-spreadsheets/"
+    ]
+  ],
+  [
+    [
+      "2026-08-13, 12:09:50",
+      "https://news.ycombinator.com/item?id=49284774"
+    ],
+    [
+      "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
+      "https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/"
+    ]
+  ],
+  [
+    [
+      "2026-08-13, 12:01:02",
+      "https://news.ycombinator.com/item?id=49284697"
+    ],
+    [
+      "ATG (YC F25) Is Hiring Member of Technical Staff (Data Platform)",
+      "https://atg.science/careers"
+    ]
+  ],
+  [
+    [
       "2026-08-13, 04:53:41",
       "https://news.ycombinator.com/item?id=49281916"
     ],
@@ -27,16 +57,6 @@
     [
       "Flutter 3.47",
       "https://flutter.dev/blog/whats-new-in-flutter-3-47"
-    ]
-  ],
-  [
-    [
-      "2026-08-12, 23:43:48",
-      "https://news.ycombinator.com/item?id=49280047"
-    ],
-    [
-      "Build Wide, Ship Narrow",
-      "https://adapt.com/blog/build-wide-ship-narrow"
     ]
   ],
   [
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2026-08-12, 16:14:37",
-      "https://news.ycombinator.com/item?id=49274757"
-    ],
-    [
-      "Pixel Watch 5",
-      "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/"
-    ]
-  ],
-  [
-    [
       "2026-08-12, 16:04:50",
       "https://news.ycombinator.com/item?id=49274600"
     ],
@@ -147,16 +157,6 @@
     [
       "Tim King, AmigaDOS developer, has died",
       "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html"
-    ]
-  ],
-  [
-    [
-      "2026-08-12, 14:02:46",
-      "https://news.ycombinator.com/item?id=49272569"
-    ],
-    [
-      "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
-      "https://knownagents.com/insights"
     ]
   ],
   [
@@ -235,7 +235,7 @@
       "https://news.ycombinator.com/item?id=49243687"
     ],
     [
-      "The lattice of sets of natural numbers is rich",
+      "The lattice of sets of natural numbers is rich (2021)",
       "https://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/"
     ]
   ],
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2026-08-10, 03:15:54",
-      "https://news.ycombinator.com/item?id=49238831"
+      "2026-08-09, 15:01:04",
+      "https://news.ycombinator.com/item?id=49232039"
     ],
     [
-      "From rubber boots to Copa: When MicroProse Soccer revolutionized football",
-      "https://spillhistorie.no/2026/08/08/fra-gummistovler-til-copa-da-microprose-soccer-revolusjonerte-fotballen/"
+      "Better Gaussian Splatting in Julia",
+      "https://pxl-th.github.io/blog/better-gs-julia/"
     ]
   ],
   [
