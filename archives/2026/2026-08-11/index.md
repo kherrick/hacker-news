@@ -58,6 +58,7 @@
 * [2026-08-11, 09:40:02](https://news.ycombinator.com/item?id=49255496) - [London Underground begins scanning passengers' faces](https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/)
 * [2026-08-11, 08:16:19](https://news.ycombinator.com/item?id=49254881) - [Closing Canario Terminal source code](https://rapha.land/closing-canario-terminal-source-code/)
 * [2026-08-11, 08:15:46](https://news.ycombinator.com/item?id=49254880) - [France to ban unsolicited telemarketing calls](https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html)
+* [2026-08-11, 07:03:49](https://news.ycombinator.com/item?id=49254376) - [The mathematical physics of rainbows and glories(2001) [pdf]](https://tlakoba.w3.uvm.edu/AppliedUGMath/auxpaper_rainbow_glory_review.pdf)
 * [2026-08-11, 07:00:57](https://news.ycombinator.com/item?id=49254351) - [The Water Footprint of AI](https://doi.org/10.1016/j.watres.2026.125866)
 * [2026-08-11, 05:46:16](https://news.ycombinator.com/item?id=49253813) - [Half of Europe's towns and villages have fewer residents than 60 years ago](https://correctiv.org/en/europe/2026/04/21/half-of-europes-towns-and-villages-have-fewer-residents-than-60-years-ago/)
 * [2026-08-11, 05:30:24](https://news.ycombinator.com/item?id=49253738) - [DeepSeek: Reverse Engineering an AI Assistant by Interviewing Itself](https://manish.sh/writings/models/inside-deepseek-reverse-engineering-an-ai-assistant-by-interviewing-itself)

@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-08-13](index.md)
 
+* [2026-08-13, 15:07:10](https://news.ycombinator.com/item?id=49287153) - [Text AI watermarks will always be trivial to remove](https://www.seangoedecke.com/text-ai-watermarks/)
+* [2026-08-13, 14:37:51](https://news.ycombinator.com/item?id=49286662) - [McDonald's Built a 515-Page Dossier on Me. It Says I'll Never Stop Eating There](https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/)
+* [2026-08-13, 14:26:41](https://news.ycombinator.com/item?id=49286485) - [Kubernetes on Oxide: How Customer Needs Shaped Our Integrations](https://oxide.computer/blog/kubernetes-on-oxide)
+* [2026-08-13, 14:22:54](https://news.ycombinator.com/item?id=49286424) - [Graduate Student Proves a Quantum Uncertainty Principle for Fractals](https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/)
+* [2026-08-13, 14:18:34](https://news.ycombinator.com/item?id=49286357) - [We eliminated 1,400 CVEs in NanoClaw's container images](https://www.echo.ai/blog/echo-xnanoclaw-under-the-hood)
 * [2026-08-13, 14:17:13](https://news.ycombinator.com/item?id=49286341) - [Spaghettifying DRAM](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
 * [2026-08-13, 14:11:51](https://news.ycombinator.com/item?id=49286270) - [Heart Aerospace Completes First Flight of Largest Electric Aircraft](https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft)
 * [2026-08-13, 13:57:47](https://news.ycombinator.com/item?id=49286073) - [Show HN: MCP Memory – Fast Agent Memory Using Google's OKF and SQLite FTS5](https://github.com/fellowgeek/mcp-memory)
@@ -21,6 +26,7 @@
 * [2026-08-13, 12:09:50](https://news.ycombinator.com/item?id=49284774) - [Deutsche Bank becomes first foreign yuan clearing bank in Europe](https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/)
 * [2026-08-13, 12:01:02](https://news.ycombinator.com/item?id=49284697) - [ATG (YC F25) Is Hiring Member of Technical Staff (Data Platform)](https://atg.science/careers)
 * [2026-08-13, 10:23:51](https://news.ycombinator.com/item?id=49283891) - [Claude users are mad that Anthropic's new watermarks will catch them using it](https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/)
+* [2026-08-13, 08:14:30](https://news.ycombinator.com/item?id=49283063) - [Launch HN: Bullet (YC S26) – A Faster Coding Agent](https://www.codewithbullet.com)
 * [2026-08-13, 04:53:41](https://news.ycombinator.com/item?id=49281916) - [ChatGPT Desktop (Codex Desktop) for Linux](https://openai.com/codex/)
 * [2026-08-13, 04:37:31](https://news.ycombinator.com/item?id=49281839) - [Celld: Self-hosted, distributed Durable Objects](https://celld.dev/)
 * [2026-08-13, 00:01:43](https://news.ycombinator.com/item?id=49280184) - [Show HN: Ballet – Workflow automation that writes integrations against any API](https://www.ballet.dev/)
