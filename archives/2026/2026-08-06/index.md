@@ -45,6 +45,7 @@
 * [2026-08-06, 10:29:50](https://news.ycombinator.com/item?id=49194856) - [High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons](https://petapixel.com/2026/08/04/amazing-high-res-photo-shows-a-butte-rising-from-mars/)
 * [2026-08-06, 07:34:06](https://news.ycombinator.com/item?id=49193673) - [What I love about Django](https://buttondown.com/blog/what-i-love-about-django)
 * [2026-08-06, 07:32:54](https://news.ycombinator.com/item?id=49193666) - [The German Mittelstand](https://kieranvelasquez.substack.com/p/on-the-german-mittelstand)
+* [2026-08-06, 07:17:15](https://news.ycombinator.com/item?id=49193533) - [The Three-Stroke Problem](https://penpot.app/blog/the-three-stroke-problem/)
 * [2026-08-06, 06:43:38](https://news.ycombinator.com/item?id=49193314) - [Let's all meet up in the Y2K](https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/)
 * [2026-08-06, 06:24:42](https://news.ycombinator.com/item?id=49193173) - [On non-rooted Android 17, ADB uninstall of system apps fails](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/issues/1426)
 * [2026-08-06, 04:59:47](https://news.ycombinator.com/item?id=49192633) - [Touring the Consensus, Six Months In](https://theconsensus.dev/blog/2026/08/05/touring-the-consensus-six-months-in.html)
