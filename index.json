@@ -1,12 +1,52 @@
 [
   [
     [
-      "2026-08-13, 15:07:10",
-      "https://news.ycombinator.com/item?id=49287153"
+      "2026-08-13, 17:23:22",
+      "https://news.ycombinator.com/item?id=49289112"
     ],
     [
-      "Text AI watermarks will always be trivial to remove",
-      "https://www.seangoedecke.com/text-ai-watermarks/"
+      "Gemini 3.7 Flash",
+      "https://ai.google.dev/gemini-api/docs/models/gemini-3.7-flash"
+    ]
+  ],
+  [
+    [
+      "2026-08-13, 17:15:46",
+      "https://news.ycombinator.com/item?id=49289026"
+    ],
+    [
+      "Tocharian Online",
+      "https://lrc.la.utexas.edu/eieol/tokol/0"
+    ]
+  ],
+  [
+    [
+      "2026-08-13, 17:02:10",
+      "https://news.ycombinator.com/item?id=49288847"
+    ],
+    [
+      "Gemini 3.7 Flash",
+      "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/"
+    ]
+  ],
+  [
+    [
+      "2026-08-13, 16:24:19",
+      "https://news.ycombinator.com/item?id=49288324"
+    ],
+    [
+      "Mozilla says stricter antitrust measures against Google 'threaten Firefox'",
+      "https://www.techcentral.ie/mozilla-says-stricter-antitrust-measures-against-google-threaten-firefox/"
+    ]
+  ],
+  [
+    [
+      "2026-08-13, 16:22:05",
+      "https://news.ycombinator.com/item?id=49288293"
+    ],
+    [
+      "We Have AI at Home Chapter 1: A Box of Scraps",
+      "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html"
     ]
   ],
   [
@@ -17,16 +57,6 @@
     [
       "I requested a copy of my data from McDonald’s loyalty program",
       "https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/"
-    ]
-  ],
-  [
-    [
-      "2026-08-13, 14:37:29",
-      "https://news.ycombinator.com/item?id=49286654"
-    ],
-    [
-      "Flock updates privacy, accountability, security, and transparency safeguards",
-      "https://www.flocksafety.com/blog/flock-guardrails-address-lpr-privacy-concerns-and-police-transparency"
     ]
   ],
   [
@@ -67,26 +97,6 @@
     [
       "Spaghettifying DRAM",
       "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts"
-    ]
-  ],
-  [
-    [
-      "2026-08-13, 14:11:51",
-      "https://news.ycombinator.com/item?id=49286270"
-    ],
-    [
-      "Heart aerospace completes first flight of largest electric aircraft",
-      "https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft"
-    ]
-  ],
-  [
-    [
-      "2026-08-13, 14:08:44",
-      "https://news.ycombinator.com/item?id=49286211"
-    ],
-    [
-      "Build a Stratum 1 PTP Grandmaster on a Budget",
-      "https://opscode.io/posts/ptp-grandmaster-cm4-sr1723u10/"
     ]
   ],
   [
@@ -165,18 +175,8 @@
       "https://news.ycombinator.com/item?id=49285244"
     ],
     [
-      "DeepSeek Harness",
-      "https://github.com/deepseek-ai/deepseek-harness"
-    ]
-  ],
-  [
-    [
-      "2026-08-13, 12:49:21",
-      "https://news.ycombinator.com/item?id=49285160"
-    ],
-    [
-      "DeepSeek API Pricing Update",
-      "https://twitter.com/deepseek_ai/status/2087864589895798968"
+      "DeepSeek Harness developer preview",
+      "https://deepseek.com/harness/en/"
     ]
   ],
   [
@@ -221,22 +221,32 @@
   ],
   [
     [
-      "2026-08-12, 23:26:21",
-      "https://news.ycombinator.com/item?id=49279928"
+      "2026-08-12, 22:47:40",
+      "https://news.ycombinator.com/item?id=49279638"
     ],
     [
-      "Principia Mathematica is modern and insightful",
-      "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html"
+      "How art invented humanity",
+      "https://aeon.co/essays/humans-did-not-invent-art-it-was-the-other-way-around"
     ]
   ],
   [
     [
-      "2026-08-12, 18:19:59",
-      "https://news.ycombinator.com/item?id=49276574"
+      "2026-08-12, 22:47:12",
+      "https://news.ycombinator.com/item?id=49279627"
     ],
     [
-      "Delta",
-      "https://zed.dev/blog/introducing-delta"
+      "The Indo-European Family Tree",
+      "https://djbinder.com/language-tree/"
+    ]
+  ],
+  [
+    [
+      "2026-08-12, 15:27:14",
+      "https://news.ycombinator.com/item?id=49273922"
+    ],
+    [
+      "Show HN: OJCP – an open protocol for agent-consumable job data",
+      "https://ojcp.dev/"
     ]
   ],
   [
@@ -271,16 +281,6 @@
   ],
   [
     [
-      "2026-08-09, 22:05:50",
-      "https://news.ycombinator.com/item?id=49236596"
-    ],
-    [
-      "What garbage collection actually costs",
-      "https://shivanshuag.com/blog/what-garbage-collection-actually-costs/"
-    ]
-  ],
-  [
-    [
       "2026-08-09, 15:01:04",
       "https://news.ycombinator.com/item?id=49232039"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-08-08, 19:24:02",
-      "https://news.ycombinator.com/item?id=49224997"
+      "2026-08-08, 02:55:51",
+      "https://news.ycombinator.com/item?id=49218514"
     ],
     [
-      "Picking berries is my meditation",
-      "https://www.tsoon.com/posts/picking-berries-meditation/"
+      "Translating the Renaissance: 17,000+ historical source texts",
+      "https://sourcelibrary.org"
     ]
   ]
 ]
