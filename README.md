@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-08-13, 10:23:51](https://news.ycombinator.com/item?id=49283891) - [Claude users are mad that Anthropic's new watermarks will catch them using it](https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/)
 * [2026-08-13, 04:53:41](https://news.ycombinator.com/item?id=49281916) - [ChatGPT Desktop (Codex Desktop) for Linux](https://openai.com/codex/)
 * [2026-08-12, 23:50:33](https://news.ycombinator.com/item?id=49280103) - [Happy 45th Birthday to the IBM PC and Model F/XT](https://sharktastica.co.uk/articles/pc-fxt-45)
 * [2026-08-12, 23:46:00](https://news.ycombinator.com/item?id=49280061) - [Flutter 3.47](https://flutter.dev/blog/whats-new-in-flutter-3-47)
@@ -23,6 +22,7 @@
 * [2026-08-12, 11:28:27](https://news.ycombinator.com/item?id=49270726) - [uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook](https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html)
 * [2026-08-12, 08:40:53](https://news.ycombinator.com/item?id=49269429) - [Why Target Common Lisp for Code Generation?](http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html)
 * [2026-08-12, 07:51:20](https://news.ycombinator.com/item?id=49269090) - [Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials](https://discoveredmaterials.com/research/)
+* [2026-08-11, 13:55:26](https://news.ycombinator.com/item?id=49258428) - [Come for Eniac, Stay for Univac and Skeduflo](https://uniqueatpenn.wordpress.com/2026/08/05/come-for-eniac-stay-for-univac-and-skeduflo/)
 * [2026-08-10, 13:53:13](https://news.ycombinator.com/item?id=49243687) - [The lattice of sets of natural numbers is rich](https://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/)
 * [2026-08-10, 12:22:53](https://news.ycombinator.com/item?id=49242698) - [Antiqua–Fraktur dispute](https://en.wikipedia.org/wiki/Antiqua%E2%80%93Fraktur_dispute)
 * [2026-08-10, 03:15:54](https://news.ycombinator.com/item?id=49238831) - [From rubber boots to Copa: When MicroProse Soccer revolutionized football](https://spillhistorie.no/2026/08/08/fra-gummistovler-til-copa-da-microprose-soccer-revolusjonerte-fotballen/)
