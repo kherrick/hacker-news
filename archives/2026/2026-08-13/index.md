@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-08-13](index.md)
 
+* [2026-08-13, 20:14:17](https://news.ycombinator.com/item?id=49291268) - [NP-Overrated](https://gruhn.me/blog/2026-08-13/)
 * [2026-08-13, 19:44:46](https://news.ycombinator.com/item?id=49290969) - [How Gödel's Proof Works](https://www.quantamagazine.org/how-godels-proof-works-20200714/)
+* [2026-08-13, 19:26:58](https://news.ycombinator.com/item?id=49290785) - [Airbnb Eval-driven development: Lessons from evaluating GenAI at scale](https://medium.com/airbnb-engineering/eval-driven-development-lessons-from-evaluating-genai-at-scale-e817e5ae5788)
 * [2026-08-13, 19:25:38](https://news.ycombinator.com/item?id=49290768) - [How Organizations Use AI: Evidence from ChatGPT [pdf]](https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf)
 * [2026-08-13, 19:15:10](https://news.ycombinator.com/item?id=49290629) - [Show HN: Pixy, visual editor for coding agents, like Figma on your live site](https://pixydesignapp.com/)
 * [2026-08-13, 18:47:19](https://news.ycombinator.com/item?id=49290299) - [Understanding Is the New Bottleneck](https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck)
