@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-08-13, 04:53:41",
+      "https://news.ycombinator.com/item?id=49281916"
+    ],
+    [
+      "ChatGPT Desktop (Codex Desktop) for Linux",
+      "https://openai.com/codex/"
+    ]
+  ],
+  [
+    [
+      "2026-08-13, 04:37:31",
+      "https://news.ycombinator.com/item?id=49281839"
+    ],
+    [
+      "Celld: Self-hosted, distributed Durable Objects",
+      "https://celld.dev/"
+    ]
+  ],
+  [
+    [
       "2026-08-13, 00:01:43",
       "https://news.ycombinator.com/item?id=49280184"
     ],
@@ -21,6 +41,16 @@
   ],
   [
     [
+      "2026-08-12, 23:46:00",
+      "https://news.ycombinator.com/item?id=49280061"
+    ],
+    [
+      "Flutter 3.47",
+      "https://flutter.dev/blog/whats-new-in-flutter-3-47"
+    ]
+  ],
+  [
+    [
       "2026-08-12, 23:43:48",
       "https://news.ycombinator.com/item?id=49280047"
     ],
@@ -37,16 +67,6 @@
     [
       "Principia Mathematica is modern and insightful",
       "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html"
-    ]
-  ],
-  [
-    [
-      "2026-08-12, 22:01:43",
-      "https://news.ycombinator.com/item?id=49279197"
-    ],
-    [
-      "Process as a Proxy for Motivation",
-      "https://bengodfrey.dev/blog/process/"
     ]
   ],
   [
@@ -77,16 +97,6 @@
     [
       "Delta",
       "https://zed.dev/blog/introducing-delta"
-    ]
-  ],
-  [
-    [
-      "2026-08-12, 17:00:21",
-      "https://news.ycombinator.com/item?id=49275465"
-    ],
-    [
-      "Reflex (YC W23) Is hiring Growth and GTM Roles",
-      "https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer"
     ]
   ],
   [
@@ -155,7 +165,7 @@
       "https://news.ycombinator.com/item?id=49272832"
     ],
     [
-      "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+      "We tracked down the 16-year-old WAL-reset SQLite bug",
       "https://tailscale.com/blog/sqlite-wal-reset-bug"
     ]
   ],
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2026-08-12, 13:20:05",
-      "https://news.ycombinator.com/item?id=49271994"
-    ],
-    [
-      "AI is removing the middle class of software engineering?",
-      "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html"
-    ]
-  ],
-  [
-    [
       "2026-08-12, 13:01:21",
       "https://news.ycombinator.com/item?id=49271757"
     ],
@@ -227,16 +227,6 @@
     [
       "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
       "https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html"
-    ]
-  ],
-  [
-    [
-      "2026-08-12, 10:06:29",
-      "https://news.ycombinator.com/item?id=49270040"
-    ],
-    [
-      "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
-      "https://woxi.ad-si.com"
     ]
   ],
   [
@@ -285,7 +275,7 @@
       "https://news.ycombinator.com/item?id=49224802"
     ],
     [
-      "Probabilistic estimation for localizing a radioactive source in an urban setting",
+      "Locating an unknown source of radiation in a heterogeneous environment (2019)",
       "https://repository.lib.ncsu.edu/items/451b001d-e63a-4968-866d-3fb3a599b1e7"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "Mushroom behind 'tiny people' hallucinations identified",
       "https://phys.org/news/2026-08-qa-mushroom-tiny-people-hallucinations.html"
+    ]
+  ],
+  [
+    [
+      "2026-08-06, 07:17:15",
+      "https://news.ycombinator.com/item?id=49193533"
+    ],
+    [
+      "The Three-Stroke Problem",
+      "https://penpot.app/blog/the-three-stroke-problem/"
     ]
   ]
 ]
