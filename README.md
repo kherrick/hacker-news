@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-13, 22:24:47](https://news.ycombinator.com/item?id=49292567) - [US sells 30-year bonds at highest borrowing costs since 2001](https://www.ft.com/content/9c9c948f-dc8b-4385-a9b9-4b98dc1eadd9)
 * [2026-08-13, 20:14:17](https://news.ycombinator.com/item?id=49291268) - [NP-Overrated](https://gruhn.me/blog/2026-08-13/)
 * [2026-08-13, 19:44:46](https://news.ycombinator.com/item?id=49290969) - [How Gödel's Proof Works (2020)](https://www.quantamagazine.org/how-godels-proof-works-20200714/)
 * [2026-08-13, 19:25:38](https://news.ycombinator.com/item?id=49290768) - [How Organizations Use AI: Evidence from ChatGPT [pdf]](https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf)
@@ -14,7 +15,6 @@
 * [2026-08-13, 17:22:39](https://news.ycombinator.com/item?id=49289101) - [JDK 27 G1/Parallel/Serial GC Changes](https://tschatzl.github.io/2026/08/10/jdk27-g1-serial-parallel-gc-changes.html)
 * [2026-08-13, 17:15:46](https://news.ycombinator.com/item?id=49289026) - [Tocharian Online](https://lrc.la.utexas.edu/eieol/tokol/0)
 * [2026-08-13, 17:05:12](https://news.ycombinator.com/item?id=49288889) - [Mistral OCR 4.1](https://docs.mistral.ai/models/ocr-4-1)
-* [2026-08-13, 16:22:16](https://news.ycombinator.com/item?id=49288296) - [GoAccess – Open-source real-time log analyzer and interactive viewer](https://goaccess.io/)
 * [2026-08-13, 16:22:05](https://news.ycombinator.com/item?id=49288293) - [AI At Home Part 1: A Box Of Scraps](https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html)
 * [2026-08-13, 14:26:41](https://news.ycombinator.com/item?id=49286485) - [Kubernetes on Oxide: How customer needs shaped our integrations](https://oxide.computer/blog/kubernetes-on-oxide)
 * [2026-08-13, 14:17:13](https://news.ycombinator.com/item?id=49286341) - [Spaghettifying DRAM](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
@@ -25,11 +25,11 @@
 * [2026-08-13, 12:58:02](https://news.ycombinator.com/item?id=49285244) - [DeepSeek Harness developer preview](https://deepseek.com/harness/en/)
 * [2026-08-13, 12:01:02](https://news.ycombinator.com/item?id=49284697) - [ATG (YC F25) Is Hiring Member of Technical Staff (Data Platform)](https://atg.science/careers)
 * [2026-08-13, 08:14:30](https://news.ycombinator.com/item?id=49283063) - [Launch HN: Bullet (YC S26) – A Faster Coding Agent](https://www.codewithbullet.com)
-* [2026-08-13, 04:53:41](https://news.ycombinator.com/item?id=49281916) - [Codex in ChatGPT desktop app for Linux is now in preview](https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027)
 * [2026-08-12, 22:47:40](https://news.ycombinator.com/item?id=49279638) - [How art invented humanity](https://aeon.co/essays/humans-did-not-invent-art-it-was-the-other-way-around)
 * [2026-08-11, 13:55:26](https://news.ycombinator.com/item?id=49258428) - [Come for ENIAC, Stay for UNIVAC and Skeduflo](https://uniqueatpenn.wordpress.com/2026/08/05/come-for-eniac-stay-for-univac-and-skeduflo/)
 * [2026-08-10, 15:06:15](https://news.ycombinator.com/item?id=49244696) - [Smooth Move: Taming Trajectories with Polynomials](https://nick.zoic.org/art/smooth-move-taming-trajectories-with-polynomials/)
 * [2026-08-09, 22:26:52](https://news.ycombinator.com/item?id=49236811) - [Idol Mahjong Final Romance: A Slideshow Disguised as a Video Game](https://nicole.express/2026/more-like-idle-mahjong.html)
+* [2026-08-08, 17:38:15](https://news.ycombinator.com/item?id=49223964) - [Finite State Machines in Forth (1994)](https://www.forth.org/literature/noble.html)
 
 ## [Archives](archives/index.md)
 

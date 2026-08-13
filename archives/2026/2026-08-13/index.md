@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-13](index.md)
 
+* [2026-08-13, 22:24:47](https://news.ycombinator.com/item?id=49292567) - [US sells 30-year bonds at highest borrowing costs since 2001](https://www.ft.com/content/9c9c948f-dc8b-4385-a9b9-4b98dc1eadd9)
 * [2026-08-13, 20:14:17](https://news.ycombinator.com/item?id=49291268) - [NP-Overrated](https://gruhn.me/blog/2026-08-13/)
 * [2026-08-13, 19:44:46](https://news.ycombinator.com/item?id=49290969) - [How Gödel's Proof Works](https://www.quantamagazine.org/how-godels-proof-works-20200714/)
 * [2026-08-13, 19:26:58](https://news.ycombinator.com/item?id=49290785) - [Airbnb Eval-driven development: Lessons from evaluating GenAI at scale](https://medium.com/airbnb-engineering/eval-driven-development-lessons-from-evaluating-genai-at-scale-e817e5ae5788)
