@@ -47,6 +47,7 @@
 * [2026-08-08, 07:58:36](https://news.ycombinator.com/item?id=49219775) - [Grindr CEO Says AI Is Doing the Work of 200 Engineers](https://ai-updates.net/grindr-ceo-says-ai-is-doing-the-work-of-200-engineers/)
 * [2026-08-08, 07:36:55](https://news.ycombinator.com/item?id=49219679) - [To Save C, We Must Save ABI](https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi)
 * [2026-08-08, 07:04:51](https://news.ycombinator.com/item?id=49219508) - [Hardware backdoors in some x86 CPUs](https://github.com/xoreaxeaxeax/rosenbridge)
+* [2026-08-08, 06:45:11](https://news.ycombinator.com/item?id=49219428) - [Italian Bank Stores 400K Wheels of Cheese as Collateral for Farmer Loans](https://travelandtannins.com/an-italian-bank-keeps-400000-wheels-of-cheese-in-a-guarded-vault-and-farmers-borrow-money-against-them-like-gold/)
 * [2026-08-08, 03:41:56](https://news.ycombinator.com/item?id=49218707) - [Mythos social engineering AISI INC-2026-07-28-01](https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3)
 * [2026-08-08, 02:43:01](https://news.ycombinator.com/item?id=49218463) - [The Hat and the Spectre – Recent Groundbreaking Discoveries in Mathematics](https://momath.org/the-hat/)
 * [2026-08-08, 01:51:35](https://news.ycombinator.com/item?id=49218190) - [The Bit Player: My Father with Steve Zissou](https://www.theparisreview.org/blog/2026/07/27/the-bit-player-my-father-with-steve-zissou/)

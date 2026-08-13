@@ -1,8 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-08-13, 04:53:41](https://news.ycombinator.com/item?id=49281916) - [ChatGPT Desktop (Codex Desktop) for Linux](https://openai.com/codex/)
-* [2026-08-13, 04:37:31](https://news.ycombinator.com/item?id=49281839) - [Celld: Self-hosted, distributed Durable Objects](https://celld.dev/)
-* [2026-08-13, 00:01:43](https://news.ycombinator.com/item?id=49280184) - [Show HN: Ballet – Workflow automation that writes integrations against any API](https://www.ballet.dev/)
 * [2026-08-12, 23:50:33](https://news.ycombinator.com/item?id=49280103) - [Happy 45th Birthday to the IBM PC and Model F/XT](https://sharktastica.co.uk/articles/pc-fxt-45)
 * [2026-08-12, 23:46:00](https://news.ycombinator.com/item?id=49280061) - [Flutter 3.47](https://flutter.dev/blog/whats-new-in-flutter-3-47)
 * [2026-08-12, 23:43:48](https://news.ycombinator.com/item?id=49280047) - [Build Wide, Ship Narrow](https://adapt.com/blog/build-wide-ship-narrow)
@@ -16,7 +14,7 @@
 * [2026-08-12, 16:04:50](https://news.ycombinator.com/item?id=49274600) - [DeepSeek V4 Pro 0813](https://openrouter.ai/deepseek/deepseek-v4-pro-0813)
 * [2026-08-12, 15:32:50](https://news.ycombinator.com/item?id=49274027) - [Grok 4.6](https://x.ai/news/grok-4-6)
 * [2026-08-12, 15:01:17](https://news.ycombinator.com/item?id=49273478) - [Qwen3.8-2.4T](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B)
-* [2026-08-12, 14:22:30](https://news.ycombinator.com/item?id=49272832) - [We tracked down the 16-year-old WAL-reset SQLite bug](https://tailscale.com/blog/sqlite-wal-reset-bug)
+* [2026-08-12, 14:22:30](https://news.ycombinator.com/item?id=49272832) - [Tracking down the 16-year-old WAL-reset SQLite bug](https://tailscale.com/blog/sqlite-wal-reset-bug)
 * [2026-08-12, 14:09:11](https://news.ycombinator.com/item?id=49272655) - [Tim King, AmigaDOS developer, has died](https://amiga-news.de/en/news/AN-2026-08-00070-EN.html)
 * [2026-08-12, 14:02:46](https://news.ycombinator.com/item?id=49272569) - [Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot](https://knownagents.com/insights)
 * [2026-08-12, 14:00:54](https://news.ycombinator.com/item?id=49272549) - [Why tiny JPEGs look different in Chrome](https://guillaumetech.github.io/posts/jpg-scaling-chrome/)
@@ -28,7 +26,9 @@
 * [2026-08-10, 12:22:53](https://news.ycombinator.com/item?id=49242698) - [Antiqua–Fraktur dispute](https://en.wikipedia.org/wiki/Antiqua%E2%80%93Fraktur_dispute)
 * [2026-08-10, 03:15:54](https://news.ycombinator.com/item?id=49238831) - [From rubber boots to Copa: When MicroProse Soccer revolutionized football](https://spillhistorie.no/2026/08/08/fra-gummistovler-til-copa-da-microprose-soccer-revolusjonerte-fotballen/)
 * [2026-08-08, 19:01:18](https://news.ycombinator.com/item?id=49224802) - [Locating an unknown source of radiation in a heterogeneous environment (2019)](https://repository.lib.ncsu.edu/items/451b001d-e63a-4968-866d-3fb3a599b1e7)
+* [2026-08-08, 06:45:11](https://news.ycombinator.com/item?id=49219428) - [Italian Bank Stores 400K Wheels of Cheese as Collateral for Farmer Loans](https://travelandtannins.com/an-italian-bank-keeps-400000-wheels-of-cheese-in-a-guarded-vault-and-farmers-borrow-money-against-them-like-gold/)
 * [2026-08-08, 01:20:20](https://news.ycombinator.com/item?id=49218040) - [Mushroom behind 'tiny people' hallucinations identified](https://phys.org/news/2026-08-qa-mushroom-tiny-people-hallucinations.html)
+* [2026-08-07, 15:01:58](https://news.ycombinator.com/item?id=49211530) - [The punched card tabulator](https://www.ibm.com/history/punched-card-tabulator)
 * [2026-08-06, 07:17:15](https://news.ycombinator.com/item?id=49193533) - [The Three-Stroke Problem](https://penpot.app/blog/the-three-stroke-problem/)
 
 ## [Archives](archives/index.md)
