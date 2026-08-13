@@ -66,6 +66,7 @@
 * [2026-08-10, 04:06:10](https://news.ycombinator.com/item?id=49239095) - [Long-Run Effects of H-1B Immigration on the U.S. Economy (July 2026)](https://www.nber.org/papers/w35560)
 * [2026-08-10, 03:50:00](https://news.ycombinator.com/item?id=49239021) - [Auto mode is now the default in Claude Code](https://claude.com/blog/auto-mode-default-in-claude-code)
 * [2026-08-10, 03:18:40](https://news.ycombinator.com/item?id=49238851) - [Show HN: Voice driven murder mystery, Interview AI suspects with your voice](https://www.whodunnitai.com/)
+* [2026-08-10, 03:15:54](https://news.ycombinator.com/item?id=49238831) - [From rubber boots to Copa: When MicroProse Soccer revolutionized football](https://spillhistorie.no/2026/08/08/fra-gummistovler-til-copa-da-microprose-soccer-revolusjonerte-fotballen/)
 * [2026-08-10, 03:12:48](https://news.ycombinator.com/item?id=49238818) - [Run Android ARM64 VR APKs on Apple Vision Pro](https://github.com/shinyquagsire23/Klepton)
 * [2026-08-10, 02:57:38](https://news.ycombinator.com/item?id=49238735) - [Turn satellite imagery into a paper globe you fold yourself](https://foldingglobes.com/)
 * [2026-08-10, 02:23:17](https://news.ycombinator.com/item?id=49238561) - [What Happened to HackerOne?](https://blog.teknogeek.io/posts/what-happened-to-hackerone/)

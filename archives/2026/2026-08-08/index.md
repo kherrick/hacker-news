@@ -51,5 +51,6 @@
 * [2026-08-08, 02:43:01](https://news.ycombinator.com/item?id=49218463) - [The Hat and the Spectre – Recent Groundbreaking Discoveries in Mathematics](https://momath.org/the-hat/)
 * [2026-08-08, 01:51:35](https://news.ycombinator.com/item?id=49218190) - [The Bit Player: My Father with Steve Zissou](https://www.theparisreview.org/blog/2026/07/27/the-bit-player-my-father-with-steve-zissou/)
 * [2026-08-08, 01:49:11](https://news.ycombinator.com/item?id=49218179) - [NASA to keep its 48-year-old Voyager 2 probe running for yet another year](https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year)
+* [2026-08-08, 01:20:20](https://news.ycombinator.com/item?id=49218040) - [Mushroom behind 'tiny people' hallucinations identified](https://phys.org/news/2026-08-qa-mushroom-tiny-people-hallucinations.html)
 * [2026-08-08, 01:12:45](https://news.ycombinator.com/item?id=49217993) - [The Nixpkgs core team has disbanded](https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413)
 * [2026-08-08, 00:03:31](https://news.ycombinator.com/item?id=49217629) - [Should AI labs be treated like the owners of dangerous animals?](https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals)
