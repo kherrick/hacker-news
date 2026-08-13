@@ -11,12 +11,42 @@
   ],
   [
     [
-      "2026-08-12, 22:47:20",
-      "https://news.ycombinator.com/item?id=49279628"
+      "2026-08-12, 23:50:33",
+      "https://news.ycombinator.com/item?id=49280103"
     ],
     [
-      "I built a browser-native SysEx librarian for 80s/90s synthesizers",
-      "https://bipluk.com/"
+      "Happy 45th Birthday to the IBM PC and Model F/XT",
+      "https://sharktastica.co.uk/articles/pc-fxt-45"
+    ]
+  ],
+  [
+    [
+      "2026-08-12, 23:46:00",
+      "https://news.ycombinator.com/item?id=49280061"
+    ],
+    [
+      "What's New in Flutter 3.47",
+      "https://flutter.dev/blog/whats-new-in-flutter-3-47"
+    ]
+  ],
+  [
+    [
+      "2026-08-12, 23:43:48",
+      "https://news.ycombinator.com/item?id=49280047"
+    ],
+    [
+      "Build Wide, Ship Narrow",
+      "https://adapt.com/blog/build-wide-ship-narrow"
+    ]
+  ],
+  [
+    [
+      "2026-08-12, 23:26:21",
+      "https://news.ycombinator.com/item?id=49279928"
+    ],
+    [
+      "Principia Mathematica is modern and insightful",
+      "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html"
     ]
   ],
   [
@@ -31,22 +61,22 @@
   ],
   [
     [
+      "2026-08-12, 21:45:29",
+      "https://news.ycombinator.com/item?id=49279013"
+    ],
+    [
+      "Thanks to social media, canned sardines are a scarcity on the supermarket shelf",
+      "https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/"
+    ]
+  ],
+  [
+    [
       "2026-08-12, 20:00:16",
       "https://news.ycombinator.com/item?id=49277799"
     ],
     [
       "Breaking the WAL",
       "https://antithesis.com/blog/2026/wal-reset-bug/"
-    ]
-  ],
-  [
-    [
-      "2026-08-12, 18:27:52",
-      "https://news.ycombinator.com/item?id=49276673"
-    ],
-    [
-      "Show HN: Programmable timer web app (for gym workouts or stretching sessions)",
-      "https://timer.jotaen.net"
     ]
   ],
   [
@@ -67,16 +97,6 @@
     [
       "Reflex (YC W23) Is hiring Growth and GTM Roles",
       "https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer"
-    ]
-  ],
-  [
-    [
-      "2026-08-12, 16:54:25",
-      "https://news.ycombinator.com/item?id=49275385"
-    ],
-    [
-      "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index",
-      "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis"
     ]
   ],
   [
@@ -137,16 +157,6 @@
     [
       "Qwen3.8-2.4T",
       "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B"
-    ]
-  ],
-  [
-    [
-      "2026-08-12, 14:43:39",
-      "https://news.ycombinator.com/item?id=49273165"
-    ],
-    [
-      "License plate reader searches should require a warrant",
-      "https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/"
     ]
   ],
   [
@@ -231,26 +241,6 @@
   ],
   [
     [
-      "2026-08-12, 10:06:29",
-      "https://news.ycombinator.com/item?id=49270040"
-    ],
-    [
-      "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
-      "https://woxi.ad-si.com"
-    ]
-  ],
-  [
-    [
-      "2026-08-12, 10:04:25",
-      "https://news.ycombinator.com/item?id=49270022"
-    ],
-    [
-      "What sort of maths are LLMs good at?",
-      "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/"
-    ]
-  ],
-  [
-    [
       "2026-08-12, 08:40:53",
       "https://news.ycombinator.com/item?id=49269429"
     ],
@@ -291,12 +281,22 @@
   ],
   [
     [
-      "2026-08-07, 19:22:00",
-      "https://news.ycombinator.com/item?id=49215117"
+      "2026-08-09, 01:59:54",
+      "https://news.ycombinator.com/item?id=49227709"
     ],
     [
-      "'The Cheese and the Worms' by Carlo Ginzburg Review",
-      "https://www.historytoday.com/archive/review/cheese-and-worms-carlo-ginzburg-review"
+      "Waits: Arthur Samuel's Checkers",
+      "https://timereshared.com/waits-samuel-checkers/"
+    ]
+  ],
+  [
+    [
+      "2026-08-08, 19:01:18",
+      "https://news.ycombinator.com/item?id=49224802"
+    ],
+    [
+      "Probabilistic Estimation for Localizing a Radioactive Source in an Urban Setting",
+      "https://repository.lib.ncsu.edu/items/451b001d-e63a-4968-866d-3fb3a599b1e7"
     ]
   ]
 ]
