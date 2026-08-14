@@ -1,22 +1,22 @@
 [
   [
     [
+      "2026-08-14, 18:51:27",
+      "https://news.ycombinator.com/item?id=49303027"
+    ],
+    [
+      "Show HN: Embed a real Linux terminal on your website",
+      "https://sandbox.bio/training/embed"
+    ]
+  ],
+  [
+    [
       "2026-08-14, 16:57:14",
       "https://news.ycombinator.com/item?id=49301417"
     ],
     [
       "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
       "https://arxiv.org/abs/2608.12700"
-    ]
-  ],
-  [
-    [
-      "2026-08-14, 16:52:46",
-      "https://news.ycombinator.com/item?id=49301342"
-    ],
-    [
-      "Discrete Fourier Transform by Hand",
-      "https://www.byhand.ai/p/28-discrete-fourier-transform"
     ]
   ],
   [
@@ -141,6 +141,16 @@
   ],
   [
     [
+      "2026-08-14, 14:42:23",
+      "https://news.ycombinator.com/item?id=49299364"
+    ],
+    [
+      "Earth.nullschool.net",
+      "https://earth.nullschool.net/"
+    ]
+  ],
+  [
+    [
       "2026-08-14, 14:31:08",
       "https://news.ycombinator.com/item?id=49299222"
     ],
@@ -181,32 +191,12 @@
   ],
   [
     [
-      "2026-08-14, 13:10:12",
-      "https://news.ycombinator.com/item?id=49298211"
-    ],
-    [
-      "Cursor is now a part of SpaceX",
-      "https://cursor.com/blog/joining-spacex"
-    ]
-  ],
-  [
-    [
       "2026-08-14, 12:57:02",
       "https://news.ycombinator.com/item?id=49298088"
     ],
     [
       "HashAgent – Share an AI agent as a URL, runs locally via WebGPU",
       "https://hashagent.pages.dev/"
-    ]
-  ],
-  [
-    [
-      "2026-08-14, 12:45:37",
-      "https://news.ycombinator.com/item?id=49297996"
-    ],
-    [
-      "Show HN: We Implemented the IPv8 Internet-Draft in Linux, Libc, and BGP",
-      "https://goonhost.rocks/blog/implementing-ipv8-internet-draft"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Forbidden City Cabbage",
       "https://www.cnn.com/2025/11/10/style/jadeite-cabbage-taiwan-forbidden-city-curio-hnk-intl"
+    ]
+  ],
+  [
+    [
+      "2026-08-11, 05:48:56",
+      "https://news.ycombinator.com/item?id=49253831"
+    ],
+    [
+      "Moving integer division to floating-point is trivial",
+      "http://marc-b-reynolds.github.io/math/2026/08/10/IntDivByFP.html"
     ]
   ],
   [
