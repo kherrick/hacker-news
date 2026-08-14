@@ -1,6 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-08-14, 19:22:00](https://news.ycombinator.com/item?id=49303433) - [Z.ai Security Disclosure](https://cvd.z.ai)
+* [2026-08-14, 19:51:49](https://news.ycombinator.com/item?id=49303774) - [Jason Arday: Former Cambridge university professor found dead](https://www.bbc.com/news/articles/c1j1ye6n30no)
+* [2026-08-14, 19:41:42](https://news.ycombinator.com/item?id=49303652) - [New Lower and Upper Bounds for the Grothendieck Constant](https://arxiv.org/abs/2608.11158)
+* [2026-08-14, 19:32:15](https://news.ycombinator.com/item?id=49303540) - [Anthropic Risk August 2026 [pdf]](https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf)
+* [2026-08-14, 19:28:17](https://news.ycombinator.com/item?id=49303499) - [Show HN: AletheionAGI – Grounding enforcement for AI agents](https://www.aletheionagi.com)
 * [2026-08-14, 19:15:51](https://news.ycombinator.com/item?id=49303350) - [How Claude's text watermarking works](https://www.anthropic.com/news/claude-text-watermark)
 * [2026-08-14, 19:05:46](https://news.ycombinator.com/item?id=49303237) - [Open WireGuard Endpoints](https://proxylity.com/articles/now-available-open-wireguard-endpoints-and-async-lambda.html)
 * [2026-08-14, 18:52:48](https://news.ycombinator.com/item?id=49303046) - [Show HN: Mole – Deep research agent for your terminal](https://github.com/lajosdeme/mole)
@@ -14,10 +17,8 @@
 * [2026-08-14, 15:43:10](https://news.ycombinator.com/item?id=49300314) - [Google is making private AI practical with homomorphic encryption](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
 * [2026-08-14, 15:07:57](https://news.ycombinator.com/item?id=49299746) - [Introducing Toast 1](https://www.mixedbread.com/blog/toast-1)
 * [2026-08-14, 15:03:26](https://news.ycombinator.com/item?id=49299675) - [Seven books I keep close because I love them](https://blog.plover.com/2026/08/02/)
-* [2026-08-14, 15:03:12](https://news.ycombinator.com/item?id=49299667) - [Self-hosted web push Cloudflare Worker, works on iOS](https://kukuroo.cc/)
 * [2026-08-14, 15:00:00](https://news.ycombinator.com/item?id=49299605) - [Qwen 3.8 27B](https://huggingface.co/Qwen/Qwen3.8-27B-FP8)
 * [2026-08-14, 14:31:08](https://news.ycombinator.com/item?id=49299222) - [Every Fucking Website (2020)](https://lxe.github.io/everywebsite/)
-* [2026-08-14, 14:22:39](https://news.ycombinator.com/item?id=49299102) - [AI Model Atlas – visualizing populations of ML models as interconnected 3D graph](https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0)
 * [2026-08-14, 14:21:18](https://news.ycombinator.com/item?id=49299081) - [I turned my RSS feeds into an e-ink newspaper to stop reading on my phone](https://heyjonny.dev/posts/rss-to-eink-newspaper/)
 * [2026-08-14, 14:07:52](https://news.ycombinator.com/item?id=49298910) - [In Australia, a home battery boom has helped cut wholesale power prices](https://e360.yale.edu/digest/australia-home-batteries)
 * [2026-08-14, 12:00:51](https://news.ycombinator.com/item?id=49297637) - [The TEMU-Fication of Software, Digital Goods and Services](https://xn--gckvb8fzb.com/the-temu-fication-of-software-digital-goods-services/)
@@ -29,7 +30,6 @@
 * [2026-08-11, 05:48:56](https://news.ycombinator.com/item?id=49253831) - [Moving integer division to floating-point is trivial](http://marc-b-reynolds.github.io/math/2026/08/10/IntDivByFP.html)
 * [2026-08-10, 20:50:36](https://news.ycombinator.com/item?id=49249523) - [Don't classify, hallucinate](https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications)
 * [2026-08-07, 14:51:09](https://news.ycombinator.com/item?id=49211375) - [Ultraviolet Bird Photography](https://uvbirds.com/)
-* [2026-08-04, 20:59:43](https://news.ycombinator.com/item?id=49175067) - [Gödel, Escher, Elisp: The Beauty of Macros](https://www.chiply.dev/post-elisp-macros-are-beautiful)
 
 ## [Archives](archives/index.md)
 
