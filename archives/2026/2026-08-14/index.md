@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-08-14](index.md)
 
+* [2026-08-14, 16:57:14](https://news.ycombinator.com/item?id=49301417) - [A Contract-Grade Verifier for LLM-Generated GPU Kernels](https://arxiv.org/abs/2608.12700)
+* [2026-08-14, 16:52:46](https://news.ycombinator.com/item?id=49301342) - [Discrete Fourier Transform by Hand](https://www.byhand.ai/p/28-discrete-fourier-transform)
+* [2026-08-14, 16:45:49](https://news.ycombinator.com/item?id=49301260) - [Count Binface receives over a quarter of votes in Clacton by-election](https://www.bbc.com/news/articles/ce97mm3vvemo)
+* [2026-08-14, 16:43:22](https://news.ycombinator.com/item?id=49301215) - [Show HN: LuaCAD – Parametric CAD Scripted in Lua](https://luacad.ad-si.com)
 * [2026-08-14, 16:15:21](https://news.ycombinator.com/item?id=49300800) - [Maximizing the value of your Claude Code sessions](https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions)
 * [2026-08-14, 16:12:52](https://news.ycombinator.com/item?id=49300759) - [RustDesk now supports true unattended remote access on Wayland](https://rustdesk.com/blog/unattended-remote-access-wayland/)
 * [2026-08-14, 16:06:49](https://news.ycombinator.com/item?id=49300671) - [France blocks social media ban because it would require adults to prove age](https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/)
