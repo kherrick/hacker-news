@@ -1,12 +1,52 @@
 [
   [
     [
-      "2026-08-14, 15:49:33",
-      "https://news.ycombinator.com/item?id=49300419"
+      "2026-08-14, 16:15:21",
+      "https://news.ycombinator.com/item?id=49300800"
     ],
     [
-      "Show HN: Online SNMP MIB database - upload/view your own MIBs",
-      "https://mib-viewer.com/"
+      "Maximizing the value of your Claude Code sessions",
+      "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions"
+    ]
+  ],
+  [
+    [
+      "2026-08-14, 16:12:52",
+      "https://news.ycombinator.com/item?id=49300759"
+    ],
+    [
+      "RustDesk now supports true unattended remote access on Wayland",
+      "https://rustdesk.com/blog/unattended-remote-access-wayland/"
+    ]
+  ],
+  [
+    [
+      "2026-08-14, 16:06:49",
+      "https://news.ycombinator.com/item?id=49300671"
+    ],
+    [
+      "France blocks social media ban because it would require adults to prove age",
+      "https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/"
+    ]
+  ],
+  [
+    [
+      "2026-08-14, 16:02:20",
+      "https://news.ycombinator.com/item?id=49300615"
+    ],
+    [
+      "RayforceDB – a pure C analytics database with a Lisp-like syntax",
+      "https://rayforcedb.com/"
+    ]
+  ],
+  [
+    [
+      "2026-08-14, 15:58:59",
+      "https://news.ycombinator.com/item?id=49300568"
+    ],
+    [
+      "AI by Hand",
+      "https://www.byhand.ai/"
     ]
   ],
   [
@@ -21,32 +61,22 @@
   ],
   [
     [
+      "2026-08-14, 15:43:10",
+      "https://news.ycombinator.com/item?id=49300314"
+    ],
+    [
+      "Google is making private AI practical with homomorphic encryption",
+      "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/"
+    ]
+  ],
+  [
+    [
       "2026-08-14, 15:22:02",
       "https://news.ycombinator.com/item?id=49299985"
     ],
     [
       "Show HN: Graft – Claude Code hooks that cut grep tokens by 42%",
       "https://github.com/NanoNets/Graft"
-    ]
-  ],
-  [
-    [
-      "2026-08-14, 15:21:07",
-      "https://news.ycombinator.com/item?id=49299970"
-    ],
-    [
-      "AV1 vs. AV2: Which Video Codec Should You Use in 2026?",
-      "https://www.red5.net/blog/av1-vs-av2/"
-    ]
-  ],
-  [
-    [
-      "2026-08-14, 15:16:00",
-      "https://news.ycombinator.com/item?id=49299870"
-    ],
-    [
-      "Private prisons announce $1.4B in revenue as immigration detentions climb",
-      "https://www.npr.org/2026/08/08/nx-s1-5923881/geo-group-corecivic-immigration-detention"
     ]
   ],
   [
@@ -61,12 +91,12 @@
   ],
   [
     [
-      "2026-08-14, 15:03:54",
-      "https://news.ycombinator.com/item?id=49299684"
+      "2026-08-14, 15:04:17",
+      "https://news.ycombinator.com/item?id=49299688"
     ],
     [
-      "Qwen3.8-27B",
-      "https://twitter.com/alibaba_qwen/status/2088280182356611304"
+      "Unsloth Qwen3.8-27B GGUF files",
+      "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF"
     ]
   ],
   [
@@ -95,7 +125,7 @@
       "https://news.ycombinator.com/item?id=49299605"
     ],
     [
-      "Qwen 3.8 27B is out: open weights, best local dense model yet",
+      "Qwen 3.8 27B",
       "https://huggingface.co/Qwen/Qwen3.8-27B-FP8"
     ]
   ],
@@ -107,16 +137,6 @@
     [
       "Earth.nullschool.net",
       "https://earth.nullschool.net/"
-    ]
-  ],
-  [
-    [
-      "2026-08-14, 14:34:49",
-      "https://news.ycombinator.com/item?id=49299282"
-    ],
-    [
-      "When Genius Fails: The Intellectual Arrogance of the AI Labs",
-      "https://weightythoughts.com/p/when-genius-failsthe-intellectual"
     ]
   ],
   [
@@ -155,8 +175,18 @@
       "https://news.ycombinator.com/item?id=49298910"
     ],
     [
-      "In Australia, a Home Battery Boom Has Helped Cut Wholesale Power Prices in Half",
+      "In Australia, a home battery boom has helped cut wholesale power prices",
       "https://e360.yale.edu/digest/australia-home-batteries"
+    ]
+  ],
+  [
+    [
+      "2026-08-14, 13:10:12",
+      "https://news.ycombinator.com/item?id=49298211"
+    ],
+    [
+      "Cursor is now a part of SpaceX",
+      "https://cursor.com/blog/joining-spacex"
     ]
   ],
   [
@@ -201,26 +231,6 @@
   ],
   [
     [
-      "2026-08-14, 10:35:43",
-      "https://news.ycombinator.com/item?id=49296902"
-    ],
-    [
-      "Ntfy – open-source Push to Mobile",
-      "https://ntfy.sh/"
-    ]
-  ],
-  [
-    [
-      "2026-08-14, 10:12:48",
-      "https://news.ycombinator.com/item?id=49296740"
-    ],
-    [
-      "Why does Opus 5 feel worse to work with?",
-      "https://mun-logadan.github.io/why-does-opus-5-feel-worse/"
-    ]
-  ],
-  [
-    [
       "2026-08-14, 09:55:33",
       "https://news.ycombinator.com/item?id=49296627"
     ],
@@ -237,26 +247,6 @@
     [
       "GLM-5.3: Frontier coding with emergent cyber capabilities",
       "https://z.ai/blog/glm-5.3"
-    ]
-  ],
-  [
-    [
-      "2026-08-13, 18:37:18",
-      "https://news.ycombinator.com/item?id=49290166"
-    ],
-    [
-      "Hello, me. It's been a while",
-      "https://themech.net/2026/08/hello-me-its-been-a-while/"
-    ]
-  ],
-  [
-    [
-      "2026-08-13, 18:10:02",
-      "https://news.ycombinator.com/item?id=49289844"
-    ],
-    [
-      "Accelerating GPT-5.6 Sol Ultrafast",
-      "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Differential Heuristics",
       "https://www.redblobgames.com/blog/2026-08-08-differential-heuristics/"
+    ]
+  ],
+  [
+    [
+      "2026-08-07, 14:51:09",
+      "https://news.ycombinator.com/item?id=49211375"
+    ],
+    [
+      "Ultraviolet Bird Photography",
+      "https://uvbirds.com/"
     ]
   ],
   [
