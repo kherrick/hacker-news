@@ -13,6 +13,7 @@
 * [2026-08-10, 21:27:02](https://news.ycombinator.com/item?id=49249986) - [We cut a 40-day financial integration down to 5 days using Google Anti](https://discuss.google.dev/t/trusted-automation-with-google-antigravity-scaling-secure-finance-integrations-from-40-days-to-5/383313)
 * [2026-08-10, 21:26:16](https://news.ycombinator.com/item?id=49249971) - [Amazon backs power plant that may become top source of US climate pollution](https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/)
 * [2026-08-10, 20:52:55](https://news.ycombinator.com/item?id=49249555) - [Confessions of a Long-Distance Sailor](https://arachnoid.com/lutusp/sailbook.html)
+* [2026-08-10, 20:50:36](https://news.ycombinator.com/item?id=49249523) - [Don't classify, hallucinate!](https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications)
 * [2026-08-10, 20:47:13](https://news.ycombinator.com/item?id=49249481) - [Stop Killing Games: It's time to sue Sony, join us](https://www.massaschadeconsument.nl/collectieve-acties/playstation/)
 * [2026-08-10, 20:20:06](https://news.ycombinator.com/item?id=49249150) - [Illinois Just Passed a Law That Puts Linux on the Hook for Age Verification](https://linuxstans.com/illinois-hb5511-operating-system-age-verification/)
 * [2026-08-10, 19:54:36](https://news.ycombinator.com/item?id=49248845) - [Show HN: My solar died for 6 months, so I built a watchdog](https://sunranker.com)
