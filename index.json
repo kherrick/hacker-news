@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-08-14, 00:14:28",
+      "https://news.ycombinator.com/item?id=49293324"
+    ],
+    [
+      "Bluesky Protocol Services",
+      "https://atproto.com/blog/introducing-bluesky-protocol-services"
+    ]
+  ],
+  [
+    [
+      "2026-08-13, 23:16:55",
+      "https://news.ycombinator.com/item?id=49292932"
+    ],
+    [
+      "How AI text watermarking works",
+      "https://declaude.org/watermarking/"
+    ]
+  ],
+  [
+    [
       "2026-08-13, 20:14:17",
       "https://news.ycombinator.com/item?id=49291268"
     ],
@@ -107,16 +127,6 @@
     [
       "Gemini 3.7 Flash",
       "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/"
-    ]
-  ],
-  [
-    [
-      "2026-08-13, 17:22:39",
-      "https://news.ycombinator.com/item?id=49289101"
-    ],
-    [
-      "JDK 27 G1/Parallel/Serial GC Changes",
-      "https://tschatzl.github.io/2026/08/10/jdk27-g1-serial-parallel-gc-changes.html"
     ]
   ],
   [
@@ -251,26 +261,6 @@
   ],
   [
     [
-      "2026-08-12, 22:47:40",
-      "https://news.ycombinator.com/item?id=49279638"
-    ],
-    [
-      "How art invented humanity",
-      "https://aeon.co/essays/humans-did-not-invent-art-it-was-the-other-way-around"
-    ]
-  ],
-  [
-    [
-      "2026-08-10, 19:54:36",
-      "https://news.ycombinator.com/item?id=49248845"
-    ],
-    [
-      "Show HN: My solar died for 6 months, so I built a watchdog",
-      "https://sunranker.com"
-    ]
-  ],
-  [
-    [
       "2026-08-10, 15:06:15",
       "https://news.ycombinator.com/item?id=49244696"
     ],
@@ -297,6 +287,16 @@
     [
       "Finite State Machines in Forth (1994)",
       "https://www.forth.org/literature/noble.html"
+    ]
+  ],
+  [
+    [
+      "2026-08-07, 14:11:55",
+      "https://news.ycombinator.com/item?id=49210740"
+    ],
+    [
+      "How a device finds encrypted DNS by itself",
+      "https://blog.dundns.eu/posts/ddr-encrypted-dns-discovery/"
     ]
   ]
 ]
