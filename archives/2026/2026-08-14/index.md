@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-08-14](index.md)
 
+* [2026-08-14, 10:44:12](https://news.ycombinator.com/item?id=49296964) - [Everyone talks about AI agents. This is what one looks from the inside](https://pssah4.github.io/vault-operator/guides/capabilities)
+* [2026-08-14, 10:41:21](https://news.ycombinator.com/item?id=49296939) - [For the love of god stop using CPU limits in Kubernetes](https://github.com/inevolin/k8s-cpu-limits-analyzed)
+* [2026-08-14, 10:12:48](https://news.ycombinator.com/item?id=49296740) - [Why does Opus 5 feel worse to work with?](https://mun-logadan.github.io/why-does-opus-5-feel-worse/)
+* [2026-08-14, 10:10:15](https://news.ycombinator.com/item?id=49296724) - [Major oil slick washes up on Iran coast after Hormuz ship strike](https://www.bbc.com/news/articles/cr7kpdkg13zo)
+* [2026-08-14, 09:55:33](https://news.ycombinator.com/item?id=49296627) - [DeepSeek peak/off-peak pricing update](https://api-docs.deepseek.com/news/news260813/)
 * [2026-08-14, 07:31:01](https://news.ycombinator.com/item?id=49295666) - [Why Books Don't Work: Constructivism over Transmissionism (2021)](https://www.masterhowtolearn.com/2021-01-30-why-books-dont-work-constructivism-over-transmissionism/)
 * [2026-08-14, 07:03:56](https://news.ycombinator.com/item?id=49295515) - [Eclipse: The Xiaomi 17 Ultra Confuses the Moon and the Sun](https://www.frandroid.com/marques/xiaomi/3211257_photo-de-leclipse-on-a-perce-a-jour-la-petite-triche-du-xiaomi-17-ultra-qui-confond-la-lune-et-le-soleil)
 * [2026-08-14, 06:09:04](https://news.ycombinator.com/item?id=49295238) - [Ruby 4.0 Universal RCE Deserialization Gadget Chain](https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain)
