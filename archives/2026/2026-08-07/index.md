@@ -8,6 +8,7 @@
 * [2026-08-07, 21:19:57](https://news.ycombinator.com/item?id=49216362) - [Water system controllers don't belong on the internet, says ex-NSA chief](https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070)
 * [2026-08-07, 20:25:04](https://news.ycombinator.com/item?id=49215786) - [Lost my phone at the office. Claude suggested tracking Bluetooth signal strength](https://twitter.com/un1c0rnioz/status/2084686552299634805)
 * [2026-08-07, 20:23:26](https://news.ycombinator.com/item?id=49215762) - [Chasa](https://chasa.io/)
+* [2026-08-07, 20:16:10](https://news.ycombinator.com/item?id=49215682) - [Super Mario Derivations](https://fzakaria.com/2026/08/05/super-mario-derivations)
 * [2026-08-07, 19:38:05](https://news.ycombinator.com/item?id=49215292) - [Mykhailo Fedorov reveals struggle to secure Patriot missiles and Western support](https://www.uawire.org/former-ukrainian-defense-minister-mykhailo-fedorov-reveals-struggles-to-secure-patriot-missiles-and-western-support)
 * [2026-08-07, 19:22:00](https://news.ycombinator.com/item?id=49215117) - ['The Cheese and the Worms' by Carlo Ginzburg Review](https://www.historytoday.com/archive/review/cheese-and-worms-carlo-ginzburg-review)
 * [2026-08-07, 19:21:42](https://news.ycombinator.com/item?id=49215111) - [Choral: Choreographic Programming for Java](https://www.choral-lang.org/)
