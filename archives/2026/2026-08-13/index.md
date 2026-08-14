@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-13](index.md)
 
+* [2026-08-13, 23:39:33](https://news.ycombinator.com/item?id=49293087) - [Blog about things you don't understand yet](https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/)
 * [2026-08-13, 23:16:55](https://news.ycombinator.com/item?id=49292932) - [How AI text watermarking works](https://declaude.org/watermarking/)
 * [2026-08-13, 22:24:47](https://news.ycombinator.com/item?id=49292567) - [US sells 30-year bonds at highest borrowing costs since 2001](https://www.ft.com/content/9c9c948f-dc8b-4385-a9b9-4b98dc1eadd9)
 * [2026-08-13, 20:14:17](https://news.ycombinator.com/item?id=49291268) - [NP-Overrated](https://gruhn.me/blog/2026-08-13/)
@@ -14,6 +15,7 @@
 * [2026-08-13, 18:47:19](https://news.ycombinator.com/item?id=49290299) - [Understanding Is the New Bottleneck](https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck)
 * [2026-08-13, 18:41:01](https://news.ycombinator.com/item?id=49290215) - [Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes](https://github.com/systemd/systemd/issues/40262)
 * [2026-08-13, 18:39:52](https://news.ycombinator.com/item?id=49290202) - [What Is Kimi K3? A Complete Developer Guide for 2026](https://www.firecrawl.dev/blog/kimi-k3)
+* [2026-08-13, 18:37:18](https://news.ycombinator.com/item?id=49290166) - [Hello, me. It's been a while](https://themech.net/2026/08/hello-me-its-been-a-while/)
 * [2026-08-13, 18:13:42](https://news.ycombinator.com/item?id=49289890) - [Show HN: OpenCode Senses, An insanely fast and highly accurate vision plugin](https://github.com/itsmeadarsh2008/opencode-senses)
 * [2026-08-13, 18:10:02](https://news.ycombinator.com/item?id=49289844) - [Accelerating GPT-5.6 Sol Ultrafast](https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai)
 * [2026-08-13, 17:57:50](https://news.ycombinator.com/item?id=49289654) - [How Compaction Works in Pi](https://earendil.com/posts/compaction-in-pi/)
@@ -21,6 +23,7 @@
 * [2026-08-13, 17:49:18](https://news.ycombinator.com/item?id=49289532) - [Where did the old web go? We followed 657,607 links to find out](https://0.mk/blog/link-rot)
 * [2026-08-13, 17:48:13](https://news.ycombinator.com/item?id=49289512) - [Choose Boring Technology (2015)](https://mcfunley.com/choose-boring-technology)
 * [2026-08-13, 17:45:50](https://news.ycombinator.com/item?id=49289465) - [Donkey.bas is 45 Years Old – 131 line of Glory](https://donkeybas.com/)
+* [2026-08-13, 17:32:07](https://news.ycombinator.com/item?id=49289260) - [I want extern \"fil-C\"](https://domenkozar.com/2026/08/13/i-want-extern-fil-c/)
 * [2026-08-13, 17:23:22](https://news.ycombinator.com/item?id=49289112) - [Gemini 3.7 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/)
 * [2026-08-13, 17:23:22](https://news.ycombinator.com/item?id=49289112) - [Gemini 3.7 Flash](https://ai.google.dev/gemini-api/docs/models/gemini-3.7-flash)
 * [2026-08-13, 17:22:39](https://news.ycombinator.com/item?id=49289101) - [JDK 27 G1/Parallel/Serial GC Changes](https://tschatzl.github.io/2026/08/10/jdk27-g1-serial-parallel-gc-changes.html)
