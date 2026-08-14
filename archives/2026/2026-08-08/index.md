@@ -36,6 +36,7 @@
 * [2026-08-08, 13:33:06](https://news.ycombinator.com/item?id=49221711) - [Triton: DirectX 11 Driver for QEMU](https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/)
 * [2026-08-08, 13:28:38](https://news.ycombinator.com/item?id=49221679) - [Voyager 1 FDS Computer Emulator](https://zaneham.github.io/voyager-fds-emulator/)
 * [2026-08-08, 13:26:51](https://news.ycombinator.com/item?id=49221668) - [A domain can now say it is for sale, in DNS](https://specification.website/spec/foundations/for-sale-dns/)
+* [2026-08-08, 12:55:23](https://news.ycombinator.com/item?id=49221431) - [Cave of the Crystals](https://en.wikipedia.org/wiki/Cave_of_the_Crystals)
 * [2026-08-08, 12:31:11](https://news.ycombinator.com/item?id=49221220) - [Gateway 2000's hilariously bad ads in the 90s (Part II)](https://buttondown.com/suchbadtechads/archive/gateway-2000-part-2/)
 * [2026-08-08, 12:24:12](https://news.ycombinator.com/item?id=49221169) - [SQRL wan't wrong, it was early](https://sjg.io/writing/sqrl-wasnt-wrong-it-was-early/)
 * [2026-08-08, 12:16:03](https://news.ycombinator.com/item?id=49221089) - [The CPU is back: Rethinking the CPU-GPU split for LLM inference](https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference)
