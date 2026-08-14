@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-06](index.md)
 
+* [2026-08-06, 23:50:13](https://news.ycombinator.com/item?id=49204232) - [What an improv stage can teach you about leading cross-cultural teams in Tokyo](https://www.tokyodev.com/articles/yes-and-what-an-improv-stage-can-teach-you-about-leading-cross-cultural-teams-in-tokyo)
 * [2026-08-06, 23:43:35](https://news.ycombinator.com/item?id=49204173) - [ArenaAllocators don't play nicely with ArrayLists](https://www.openmymind.net/Arena-Allocators-and-ArrayLists/)
 * [2026-08-06, 23:30:03](https://news.ycombinator.com/item?id=49204060) - [Hackers Stalked Me by Hijacking a Smartwatch for Kids](https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/)
 * [2026-08-06, 22:50:09](https://news.ycombinator.com/item?id=49203707) - [Spin audit of SQD/QSCI quantum-chemistry benchmarks on iron–sulfur clusters](https://zenodo.org/records/21359923)

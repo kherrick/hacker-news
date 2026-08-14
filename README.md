@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-08-14, 07:31:01](https://news.ycombinator.com/item?id=49295666) - [Why Books Don't Work: Constructivism over Transmissionism (2021)](https://www.masterhowtolearn.com/2021-01-30-why-books-dont-work-constructivism-over-transmissionism/)
+* [2026-08-14, 07:03:56](https://news.ycombinator.com/item?id=49295515) - [Eclipse: The Xiaomi 17 Ultra Confuses the Moon and the Sun](https://www.frandroid.com/marques/xiaomi/3211257_photo-de-leclipse-on-a-perce-a-jour-la-petite-triche-du-xiaomi-17-ultra-qui-confond-la-lune-et-le-soleil)
 * [2026-08-14, 06:09:04](https://news.ycombinator.com/item?id=49295238) - [Ruby 4.0 Universal RCE Deserialization Gadget Chain](https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain)
-* [2026-08-14, 05:19:59](https://news.ycombinator.com/item?id=49294997) - [GLM-5.3: Frontier Coding with Emergent Cyber Capabilities](https://z.ai/blog/glm-5.3)
+* [2026-08-14, 05:19:59](https://news.ycombinator.com/item?id=49294997) - [GLM-5.3: Frontier coding with emergent cyber capabilities](https://z.ai/blog/glm-5.3)
+* [2026-08-14, 00:47:04](https://news.ycombinator.com/item?id=49293523) - [Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri](https://github.com/JustVugg/lumabri)
 * [2026-08-14, 00:14:28](https://news.ycombinator.com/item?id=49293324) - [Bluesky Protocol Services](https://atproto.com/blog/introducing-bluesky-protocol-services)
 * [2026-08-13, 23:39:33](https://news.ycombinator.com/item?id=49293087) - [Blog about things you don't understand yet](https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/)
 * [2026-08-13, 20:14:17](https://news.ycombinator.com/item?id=49291268) - [NP-overrated](https://gruhn.me/blog/2026-08-13/)
@@ -21,15 +22,14 @@
 * [2026-08-13, 14:17:13](https://news.ycombinator.com/item?id=49286341) - [Spaghettifying DRAM](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
 * [2026-08-13, 13:39:41](https://news.ycombinator.com/item?id=49285770) - [Ordinary Abundance](https://ordinaryabundance.com/)
 * [2026-08-13, 13:14:12](https://news.ycombinator.com/item?id=49285418) - [Nine PBS sues Iron Mountain over blocked access to archival data](https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/)
-* [2026-08-13, 13:05:29](https://news.ycombinator.com/item?id=49285327) - [Choosing an AI model: one prompt, 11 models, different results](https://www.netlify.com/blog/one-prompt-11-models-very-different-results/)
 * [2026-08-13, 12:58:02](https://news.ycombinator.com/item?id=49285244) - [DeepSeek Harness developer preview](https://deepseek.com/harness/en/)
 * [2026-08-11, 13:34:54](https://news.ycombinator.com/item?id=49258085) - [Show HN: C# Game Engine with its own scripting language and IDE](https://github.com/ArcadeMakerSources/ArcadeMaker)
 * [2026-08-10, 19:49:35](https://news.ycombinator.com/item?id=49248769) - [The Library of Ashurbanipal (2025)](https://www.historytoday.com/archive/feature/library-ashurbanipal)
 * [2026-08-10, 11:32:55](https://news.ycombinator.com/item?id=49242287) - [Credibility is the barrier to entry in silicon](https://www.siliconimist.com/p/credibility-is-the-barrier-to-entry)
-* [2026-08-10, 07:49:09](https://news.ycombinator.com/item?id=49240615) - [an ambiguity in C89 which will never be fixed](https://sebsite.pw/w/20260810-c89ambiguity.html)
 * [2026-08-09, 16:16:56](https://news.ycombinator.com/item?id=49232753) - [The Legend of the Novell NE2000 [video]](https://www.youtube.com/watch?v=nNXzQ7V1S_k)
 * [2026-08-08, 17:38:15](https://news.ycombinator.com/item?id=49223964) - [Finite State Machines in Forth (1994)](https://www.forth.org/literature/noble.html)
 * [2026-08-08, 12:55:23](https://news.ycombinator.com/item?id=49221431) - [Cave of the Crystals](https://en.wikipedia.org/wiki/Cave_of_the_Crystals)
+* [2026-08-06, 23:50:13](https://news.ycombinator.com/item?id=49204232) - [What an improv stage can teach you about leading cross-cultural teams in Tokyo](https://www.tokyodev.com/articles/yes-and-what-an-improv-stage-can-teach-you-about-leading-cross-cultural-teams-in-tokyo)
 
 ## [Archives](archives/index.md)
 
