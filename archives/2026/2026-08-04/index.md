@@ -19,6 +19,7 @@
 * [2026-08-04, 21:52:58](https://news.ycombinator.com/item?id=49175717) - [Security Incident INC-2026-07-28-01 – UK AI Security Institute [pdf]](https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf)
 * [2026-08-04, 21:14:19](https://news.ycombinator.com/item?id=49175248) - [Third-party cyber evaluations involving OpenAI models](https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/)
 * [2026-08-04, 21:09:39](https://news.ycombinator.com/item?id=49175192) - [Thanks FedEx, This Is Why We Keep Getting Phished (2024)](https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/)
+* [2026-08-04, 20:59:43](https://news.ycombinator.com/item?id=49175067) - [Gödel, Escher, Elisp: The Beauty of Macros](https://www.chiply.dev/post-elisp-macros-are-beautiful)
 * [2026-08-04, 20:48:17](https://news.ycombinator.com/item?id=49174900) - [I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel](https://twitter.com/gwern/status/2084739205071343837)
 * [2026-08-04, 20:48:17](https://news.ycombinator.com/item?id=49174900) - [Gwern reties from fulltime writing to launch Guardian Angel Inc](https://twitter.com/i/status/2084739205071343837)
 * [2026-08-04, 20:13:40](https://news.ycombinator.com/item?id=49174407) - [Oxide Computer raises $445M (SEC Form D)](https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml)
