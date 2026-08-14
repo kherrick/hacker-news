@@ -38,6 +38,7 @@
 * [2026-08-07, 14:51:57](https://news.ycombinator.com/item?id=49211386) - [99% of My Website Traffic Is Bots](https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/)
 * [2026-08-07, 14:38:00](https://news.ycombinator.com/item?id=49211158) - [Halcyon Video – a 3D video store for your media server](https://github.com/halcyon-video/halcyon-video)
 * [2026-08-07, 14:28:24](https://news.ycombinator.com/item?id=49210987) - [Music Generation by a Composer, for Musicians](https://monictheory.com)
+* [2026-08-07, 14:11:55](https://news.ycombinator.com/item?id=49210740) - [How a device finds encrypted DNS by itself](https://blog.dundns.eu/posts/ddr-encrypted-dns-discovery/)
 * [2026-08-07, 14:02:15](https://news.ycombinator.com/item?id=49210589) - [US's largest newspaper chain partners with Palantir to analyze audience data](https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/)
 * [2026-08-07, 13:39:45](https://news.ycombinator.com/item?id=49210240) - [U.S. Lost 23,000 Jobs in July, While Unemployment Ticked Lower](https://www.wsj.com/economy/jobs/july-jobs-report-unemployment-0d7c08a7)
 * [2026-08-07, 13:36:39](https://news.ycombinator.com/item?id=49210199) - [Show HN: Tamron Lens Utility Alternative on Linux](https://github.com/yikerman/tamron-lens-control)

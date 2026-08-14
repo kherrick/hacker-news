@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-14, 00:14:28](https://news.ycombinator.com/item?id=49293324) - [Bluesky Protocol Services](https://atproto.com/blog/introducing-bluesky-protocol-services)
+* [2026-08-13, 23:16:55](https://news.ycombinator.com/item?id=49292932) - [How AI text watermarking works](https://declaude.org/watermarking/)
 * [2026-08-13, 20:14:17](https://news.ycombinator.com/item?id=49291268) - [NP-Overrated](https://gruhn.me/blog/2026-08-13/)
 * [2026-08-13, 19:44:46](https://news.ycombinator.com/item?id=49290969) - [How Gödel's Proof Works (2020)](https://www.quantamagazine.org/how-godels-proof-works-20200714/)
 * [2026-08-13, 19:25:38](https://news.ycombinator.com/item?id=49290768) - [How Organizations Use AI: Evidence from ChatGPT [pdf]](https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf)
@@ -11,7 +13,6 @@
 * [2026-08-13, 17:48:13](https://news.ycombinator.com/item?id=49289512) - [Choose Boring Technology (2015)](https://mcfunley.com/choose-boring-technology)
 * [2026-08-13, 17:45:50](https://news.ycombinator.com/item?id=49289465) - [Donkey.bas is 45 Years Old – 131 line of Glory](https://donkeybas.com/)
 * [2026-08-13, 17:23:22](https://news.ycombinator.com/item?id=49289112) - [Gemini 3.7 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/)
-* [2026-08-13, 17:22:39](https://news.ycombinator.com/item?id=49289101) - [JDK 27 G1/Parallel/Serial GC Changes](https://tschatzl.github.io/2026/08/10/jdk27-g1-serial-parallel-gc-changes.html)
 * [2026-08-13, 17:15:46](https://news.ycombinator.com/item?id=49289026) - [Tocharian Online](https://lrc.la.utexas.edu/eieol/tokol/0)
 * [2026-08-13, 17:05:12](https://news.ycombinator.com/item?id=49288889) - [Mistral OCR 4.1](https://docs.mistral.ai/models/ocr-4-1)
 * [2026-08-13, 16:22:05](https://news.ycombinator.com/item?id=49288293) - [AI At Home Part 1: A Box Of Scraps](https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html)
@@ -25,11 +26,10 @@
 * [2026-08-13, 12:58:02](https://news.ycombinator.com/item?id=49285244) - [DeepSeek Harness developer preview](https://deepseek.com/harness/en/)
 * [2026-08-13, 12:01:02](https://news.ycombinator.com/item?id=49284697) - [ATG (YC F25) Is Hiring Member of Technical Staff (Data Platform)](https://atg.science/careers)
 * [2026-08-13, 08:14:30](https://news.ycombinator.com/item?id=49283063) - [Launch HN: Bullet (YC S26) – A Faster Coding Agent](https://www.codewithbullet.com)
-* [2026-08-12, 22:47:40](https://news.ycombinator.com/item?id=49279638) - [How art invented humanity](https://aeon.co/essays/humans-did-not-invent-art-it-was-the-other-way-around)
-* [2026-08-10, 19:54:36](https://news.ycombinator.com/item?id=49248845) - [Show HN: My solar died for 6 months, so I built a watchdog](https://sunranker.com)
 * [2026-08-10, 15:06:15](https://news.ycombinator.com/item?id=49244696) - [Smooth Move: Taming Trajectories with Polynomials](https://nick.zoic.org/art/smooth-move-taming-trajectories-with-polynomials/)
 * [2026-08-09, 22:26:52](https://news.ycombinator.com/item?id=49236811) - [Idol Mahjong Final Romance: A Slideshow Disguised as a Video Game](https://nicole.express/2026/more-like-idle-mahjong.html)
 * [2026-08-08, 17:38:15](https://news.ycombinator.com/item?id=49223964) - [Finite State Machines in Forth (1994)](https://www.forth.org/literature/noble.html)
+* [2026-08-07, 14:11:55](https://news.ycombinator.com/item?id=49210740) - [How a device finds encrypted DNS by itself](https://blog.dundns.eu/posts/ddr-encrypted-dns-discovery/)
 
 ## [Archives](archives/index.md)
 
