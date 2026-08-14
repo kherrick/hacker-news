@@ -1,12 +1,82 @@
 [
   [
     [
-      "2026-08-14, 13:18:53",
-      "https://news.ycombinator.com/item?id=49298303"
+      "2026-08-14, 15:03:54",
+      "https://news.ycombinator.com/item?id=49299684"
     ],
     [
-      "France's tax authority had data stolen on 680k taxpayers",
-      "https://korben.info/en/france-tax-authority-data-breach-680000-taxpayers.html"
+      "Qwen3.8-27B",
+      "https://twitter.com/alibaba_qwen/status/2088280182356611304"
+    ]
+  ],
+  [
+    [
+      "2026-08-14, 15:00:00",
+      "https://news.ycombinator.com/item?id=49299605"
+    ],
+    [
+      "Qwen 3.8 27B is out: open weights, best local dense model yet",
+      "https://huggingface.co/Qwen/Qwen3.8-27B-FP8"
+    ]
+  ],
+  [
+    [
+      "2026-08-14, 14:34:49",
+      "https://news.ycombinator.com/item?id=49299282"
+    ],
+    [
+      "When Genius Fails: The Intellectual Arrogance of the AI Labs",
+      "https://weightythoughts.com/p/when-genius-failsthe-intellectual"
+    ]
+  ],
+  [
+    [
+      "2026-08-14, 14:31:08",
+      "https://news.ycombinator.com/item?id=49299222"
+    ],
+    [
+      "Every Fucking Website",
+      "https://lxe.github.io/everywebsite/"
+    ]
+  ],
+  [
+    [
+      "2026-08-14, 14:22:39",
+      "https://news.ycombinator.com/item?id=49299102"
+    ],
+    [
+      "AI Model Atlas – visualizing populations of ML models as interconnected 3D graph",
+      "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0"
+    ]
+  ],
+  [
+    [
+      "2026-08-14, 14:21:18",
+      "https://news.ycombinator.com/item?id=49299081"
+    ],
+    [
+      "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone",
+      "https://heyjonny.dev/posts/rss-to-eink-newspaper/"
+    ]
+  ],
+  [
+    [
+      "2026-08-14, 14:14:13",
+      "https://news.ycombinator.com/item?id=49299000"
+    ],
+    [
+      "Show HN: APIMart: Discounted AI API Aggregator for GPT-5, Sora 2",
+      "https://apimart.ai/register?aff=yScTCM"
+    ]
+  ],
+  [
+    [
+      "2026-08-14, 14:07:52",
+      "https://news.ycombinator.com/item?id=49298910"
+    ],
+    [
+      "In Australia, a Home Battery Boom Has Helped Cut Wholesale Power Prices in Half",
+      "https://e360.yale.edu/digest/australia-home-batteries"
     ]
   ],
   [
@@ -21,12 +91,12 @@
   ],
   [
     [
-      "2026-08-14, 12:23:22",
-      "https://news.ycombinator.com/item?id=49297801"
+      "2026-08-14, 12:45:37",
+      "https://news.ycombinator.com/item?id=49297996"
     ],
     [
-      "Dear people who work at the airport",
-      "https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/"
+      "Show HN: We Implemented the IPv8 Internet-Draft in Linux, Libc, and BGP",
+      "https://goonhost.rocks/blog/implementing-ipv8-internet-draft"
     ]
   ],
   [
@@ -91,16 +161,6 @@
   ],
   [
     [
-      "2026-08-14, 00:47:04",
-      "https://news.ycombinator.com/item?id=49293523"
-    ],
-    [
-      "Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri",
-      "https://github.com/JustVugg/lumabri"
-    ]
-  ],
-  [
-    [
       "2026-08-14, 00:14:28",
       "https://news.ycombinator.com/item?id=49293324"
     ],
@@ -141,46 +201,6 @@
   ],
   [
     [
-      "2026-08-13, 17:57:50",
-      "https://news.ycombinator.com/item?id=49289654"
-    ],
-    [
-      "How Compaction Works in Pi",
-      "https://earendil.com/posts/compaction-in-pi/"
-    ]
-  ],
-  [
-    [
-      "2026-08-13, 17:49:18",
-      "https://news.ycombinator.com/item?id=49289532"
-    ],
-    [
-      "Where did the old web go? We followed 657,607 links to find out",
-      "https://0.mk/blog/link-rot"
-    ]
-  ],
-  [
-    [
-      "2026-08-13, 17:48:13",
-      "https://news.ycombinator.com/item?id=49289512"
-    ],
-    [
-      "Choose Boring Technology (2015)",
-      "https://mcfunley.com/choose-boring-technology"
-    ]
-  ],
-  [
-    [
-      "2026-08-13, 17:45:50",
-      "https://news.ycombinator.com/item?id=49289465"
-    ],
-    [
-      "Donkey.bas is 45 Years Old – 131 line of Glory",
-      "https://donkeybas.com/"
-    ]
-  ],
-  [
-    [
       "2026-08-13, 17:23:22",
       "https://news.ycombinator.com/item?id=49289112"
     ],
@@ -201,22 +221,22 @@
   ],
   [
     [
+      "2026-08-13, 17:02:50",
+      "https://news.ycombinator.com/item?id=49288857"
+    ],
+    [
+      "What I Learned Securing Sniffnet with the GitHub Secure Open Source Fund",
+      "https://sniffnet.app/news/github-secure-open-source-fund/"
+    ]
+  ],
+  [
+    [
       "2026-08-13, 14:17:13",
       "https://news.ycombinator.com/item?id=49286341"
     ],
     [
       "Spaghettifying DRAM",
       "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts"
-    ]
-  ],
-  [
-    [
-      "2026-08-13, 13:14:12",
-      "https://news.ycombinator.com/item?id=49285418"
-    ],
-    [
-      "Nine PBS sues Iron Mountain over blocked access to archival data",
-      "https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/"
     ]
   ],
   [
@@ -231,12 +251,12 @@
   ],
   [
     [
-      "2026-08-11, 13:34:54",
-      "https://news.ycombinator.com/item?id=49258085"
+      "2026-08-11, 16:21:46",
+      "https://news.ycombinator.com/item?id=49260628"
     ],
     [
-      "Show HN: C# Game Engine with its own scripting language and IDE",
-      "https://github.com/ArcadeMakerSources/ArcadeMaker"
+      "Show HN: Lambdock – Wayland-native GTK4 dock with a live Lisp REPL",
+      "https://codeberg.org/jjba23/lambdock"
     ]
   ],
   [
@@ -247,16 +267,6 @@
     [
       "Don't classify, hallucinate!",
       "https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications"
-    ]
-  ],
-  [
-    [
-      "2026-08-10, 19:49:35",
-      "https://news.ycombinator.com/item?id=49248769"
-    ],
-    [
-      "The Library of Ashurbanipal (2025)",
-      "https://www.historytoday.com/archive/feature/library-ashurbanipal"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Differential Heuristics",
       "https://www.redblobgames.com/blog/2026-08-08-differential-heuristics/"
-    ]
-  ],
-  [
-    [
-      "2026-08-06, 23:50:13",
-      "https://news.ycombinator.com/item?id=49204232"
-    ],
-    [
-      "What an improv stage can teach you about leading cross-cultural teams in Tokyo",
-      "https://www.tokyodev.com/articles/yes-and-what-an-improv-stage-can-teach-you-about-leading-cross-cultural-teams-in-tokyo"
     ]
   ]
 ]
