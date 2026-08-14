@@ -42,6 +42,7 @@
 * [2026-08-11, 14:03:18](https://news.ycombinator.com/item?id=49258581) - [Why Did OpenAI's Head of Ethics Chloé Bakalar Leave?](https://aimagazine.com/news/why-did-openai-head-of-ethics-chloe-bakalar-leave)
 * [2026-08-11, 13:55:26](https://news.ycombinator.com/item?id=49258428) - [Come for Eniac, Stay for Univac and Skeduflo](https://uniqueatpenn.wordpress.com/2026/08/05/come-for-eniac-stay-for-univac-and-skeduflo/)
 * [2026-08-11, 13:42:27](https://news.ycombinator.com/item?id=49258202) - [$580M undersea cable rerouted to avoid the grave of Dobby the House Elf](https://www.tomshardware.com/networking/usd580-million-undersea-cable-rerouted-to-avoid-the-grave-of-dobby-the-house-elf-company-caves-to-fan-demands-to-safeguard-harry-potter-filming-location-will-instead-pass-by-bronze-age-burial-site)
+* [2026-08-11, 13:34:54](https://news.ycombinator.com/item?id=49258085) - [Show HN: C# Game Engine with its own scripting language and IDE](https://github.com/ArcadeMakerSources/ArcadeMaker)
 * [2026-08-11, 13:30:39](https://news.ycombinator.com/item?id=49258011) - [Show HN: Write.md, a free, open-source, themeable Markdown editor for macOS](https://writemd.app/)
 * [2026-08-11, 13:26:02](https://news.ycombinator.com/item?id=49257947) - [Nvidia Nemotron 3.5 Lightning](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4)
 * [2026-08-11, 13:22:00](https://news.ycombinator.com/item?id=49257876) - [Stealing Reasoning Traces from Proprietary LLM APIs](https://stolen-thoughts.com/)
