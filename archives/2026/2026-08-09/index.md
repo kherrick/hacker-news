@@ -38,6 +38,7 @@
 * [2026-08-09, 17:19:48](https://news.ycombinator.com/item?id=49233394) - [Production Imminent: 40 Solar-Charging Aptera EVs Coming Soon](https://frequal.com/aptera/ProductionImminent.html)
 * [2026-08-09, 17:10:05](https://news.ycombinator.com/item?id=49233306) - [Show HN: A replayable A2A jury for tracing how agents influence decisions](https://github.com/nMaroulis/protolink/tree/main/examples/ai_courtroom)
 * [2026-08-09, 16:33:05](https://news.ycombinator.com/item?id=49232942) - [Banksy works cost public almost £150k](https://www.bbc.co.uk/news/articles/cx2vnny7j5zo)
+* [2026-08-09, 16:26:37](https://news.ycombinator.com/item?id=49232870) - [Show HN: Ember – Redshift safe color palettes](https://github.com/carpdiem/ember)
 * [2026-08-09, 16:24:59](https://news.ycombinator.com/item?id=49232857) - [FCC moves to ban Lidar-equipped foreign drones from US](https://www.tomshardware.com/tech-industry/drones/fcc-moves-to-ban-lidar-equipped-foreign-drones-from-us-classifies-the-technology-as-military-grade-in-a-proposal-that-could-also-hit-thermal-models-and-the-swarms-used-drone-light-shows)
 * [2026-08-09, 16:18:39](https://news.ycombinator.com/item?id=49232778) - [An OpenAI Strategist Says AI Labs Should Rival Government Power](https://ai-updates.net/an-openai-strategist-says-ai-labs-should-rival-government-power/)
 * [2026-08-09, 16:16:56](https://news.ycombinator.com/item?id=49232753) - [The Legend of the Novell NE2000 [video]](https://www.youtube.com/watch?v=nNXzQ7V1S_k)
