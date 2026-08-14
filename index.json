@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-08-14, 07:31:01",
+      "https://news.ycombinator.com/item?id=49295666"
+    ],
+    [
+      "Why Books Don't Work: Constructivism over Transmissionism (2021)",
+      "https://www.masterhowtolearn.com/2021-01-30-why-books-dont-work-constructivism-over-transmissionism/"
+    ]
+  ],
+  [
+    [
+      "2026-08-14, 06:09:04",
+      "https://news.ycombinator.com/item?id=49295238"
+    ],
+    [
+      "Ruby 4.0 Universal RCE Deserialization Gadget Chain",
+      "https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain"
+    ]
+  ],
+  [
+    [
       "2026-08-14, 05:19:59",
       "https://news.ycombinator.com/item?id=49294997"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2026-08-13, 16:22:05",
-      "https://news.ycombinator.com/item?id=49288293"
-    ],
-    [
-      "AI At Home Part 1: A Box Of Scraps",
-      "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html"
-    ]
-  ],
-  [
-    [
       "2026-08-13, 14:17:13",
       "https://news.ycombinator.com/item?id=49286341"
     ],
@@ -221,12 +231,12 @@
   ],
   [
     [
-      "2026-08-13, 08:14:30",
-      "https://news.ycombinator.com/item?id=49283063"
+      "2026-08-11, 13:34:54",
+      "https://news.ycombinator.com/item?id=49258085"
     ],
     [
-      "Launch HN: Bullet (YC S26) – A Faster Coding Agent",
-      "https://www.codewithbullet.com"
+      "Show HN: C# Game Engine with its own scripting language and IDE",
+      "https://github.com/ArcadeMakerSources/ArcadeMaker"
     ]
   ],
   [
@@ -235,7 +245,7 @@
       "https://news.ycombinator.com/item?id=49248769"
     ],
     [
-      "The Library of Ashurbanipal",
+      "The Library of Ashurbanipal (2025)",
       "https://www.historytoday.com/archive/feature/library-ashurbanipal"
     ]
   ],
@@ -245,7 +255,7 @@
       "https://news.ycombinator.com/item?id=49242287"
     ],
     [
-      "How do you sell a CPU design when the instruction set is free?",
+      "Credibility is the barrier to entry in silicon",
       "https://www.siliconimist.com/p/credibility-is-the-barrier-to-entry"
     ]
   ],
@@ -255,7 +265,7 @@
       "https://news.ycombinator.com/item?id=49240615"
     ],
     [
-      "An ambiguity in c89 which will never be fixed",
+      "an ambiguity in C89 which will never be fixed",
       "https://sebsite.pw/w/20260810-c89ambiguity.html"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "Cave of the Crystals",
       "https://en.wikipedia.org/wiki/Cave_of_the_Crystals"
-    ]
-  ],
-  [
-    [
-      "2026-08-07, 14:11:55",
-      "https://news.ycombinator.com/item?id=49210740"
-    ],
-    [
-      "How a device finds encrypted DNS by itself",
-      "https://blog.dundns.eu/posts/ddr-encrypted-dns-discovery/"
     ]
   ]
 ]
