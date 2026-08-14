@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-08-14](index.md)
 
+* [2026-08-14, 13:18:53](https://news.ycombinator.com/item?id=49298303) - [France's tax authority had data stolen on 680k taxpayers](https://korben.info/en/france-tax-authority-data-breach-680000-taxpayers.html)
+* [2026-08-14, 12:57:02](https://news.ycombinator.com/item?id=49298088) - [HashAgent – Share an AI agent as a URL, runs locally via WebGPU](https://hashagent.pages.dev/)
+* [2026-08-14, 12:23:22](https://news.ycombinator.com/item?id=49297801) - [Dear people who work at the airport](https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/)
+* [2026-08-14, 12:00:51](https://news.ycombinator.com/item?id=49297637) - [The TEMU-Fication of Software, Digital Goods and Services](https://xn--gckvb8fzb.com/the-temu-fication-of-software-digital-goods-services/)
+* [2026-08-14, 11:41:34](https://news.ycombinator.com/item?id=49297469) - [WhatCable: Know what your USB-C cable can do](https://www.whatcable.uk/)
 * [2026-08-14, 10:44:12](https://news.ycombinator.com/item?id=49296964) - [Everyone talks about AI agents. This is what one looks from the inside](https://pssah4.github.io/vault-operator/guides/capabilities)
 * [2026-08-14, 10:41:21](https://news.ycombinator.com/item?id=49296939) - [For the love of god stop using CPU limits in Kubernetes](https://github.com/inevolin/k8s-cpu-limits-analyzed)
 * [2026-08-14, 10:12:48](https://news.ycombinator.com/item?id=49296740) - [Why does Opus 5 feel worse to work with?](https://mun-logadan.github.io/why-does-opus-5-feel-worse/)
