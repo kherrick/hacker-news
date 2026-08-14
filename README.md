@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-14, 20:46:04](https://news.ycombinator.com/item?id=49304368) - [Study links coffee consumption to metabolic health and sex hormones](https://www.oulu.fi/en/news/study-links-coffee-consumption-metabolic-health-and-sex-hormones)
 * [2026-08-14, 20:10:49](https://news.ycombinator.com/item?id=49303957) - [Every exterior shot in The Taking of Pelham 123](https://iafisher.com/2026/07/pelham-123)
-* [2026-08-14, 19:51:49](https://news.ycombinator.com/item?id=49303774) - [Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead](https://www.bbc.com/news/articles/c1j1ye6n30no)
 * [2026-08-14, 19:41:42](https://news.ycombinator.com/item?id=49303652) - [New Lower and Upper Bounds for the Grothendieck Constant](https://arxiv.org/abs/2608.11158)
 * [2026-08-14, 19:36:18](https://news.ycombinator.com/item?id=49303592) - [CEO who fired 900 people on Zoom just before Christmas wants his job back](https://www.cnn.com/2026/08/14/business/vishal-garg-better-ceo)
 * [2026-08-14, 19:32:15](https://news.ycombinator.com/item?id=49303540) - [Anthropic Risk August 2026 [pdf]](https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf)
