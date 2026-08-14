@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-14, 20:52:44](https://news.ycombinator.com/item?id=49304447) - [Everything is about to \"go dark\"](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/)
 * [2026-08-14, 20:46:04](https://news.ycombinator.com/item?id=49304368) - [Study links coffee consumption to metabolic health and sex hormones](https://www.oulu.fi/en/news/study-links-coffee-consumption-metabolic-health-and-sex-hormones)
 * [2026-08-14, 20:10:49](https://news.ycombinator.com/item?id=49303957) - [Every exterior shot in The Taking of Pelham 123](https://iafisher.com/2026/07/pelham-123)
 * [2026-08-14, 19:41:42](https://news.ycombinator.com/item?id=49303652) - [New Lower and Upper Bounds for the Grothendieck Constant](https://arxiv.org/abs/2608.11158)
@@ -12,7 +13,6 @@
 * [2026-08-14, 16:43:22](https://news.ycombinator.com/item?id=49301215) - [Show HN: LuaCAD – Parametric CAD Scripted in Lua](https://luacad.ad-si.com)
 * [2026-08-14, 16:15:21](https://news.ycombinator.com/item?id=49300800) - [Maximizing the value of your Claude Code sessions](https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions)
 * [2026-08-14, 16:12:52](https://news.ycombinator.com/item?id=49300759) - [RustDesk now supports true unattended remote access on Wayland](https://rustdesk.com/blog/unattended-remote-access-wayland/)
-* [2026-08-14, 16:06:49](https://news.ycombinator.com/item?id=49300671) - [France's top court blocks social media ban for under-15s](https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/)
 * [2026-08-14, 15:58:59](https://news.ycombinator.com/item?id=49300568) - [AI by Hand](https://www.byhand.ai/)
 * [2026-08-14, 15:43:10](https://news.ycombinator.com/item?id=49300314) - [Google is making private AI practical with homomorphic encryption](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
 * [2026-08-14, 15:07:57](https://news.ycombinator.com/item?id=49299746) - [Introducing Toast 1](https://www.mixedbread.com/blog/toast-1)
@@ -25,9 +25,9 @@
 * [2026-08-14, 09:55:33](https://news.ycombinator.com/item?id=49296627) - [DeepSeek peak/off-peak pricing update](https://api-docs.deepseek.com/news/news260813/)
 * [2026-08-14, 05:19:59](https://news.ycombinator.com/item?id=49294997) - [GLM-5.3: Frontier coding with emergent cyber capabilities](https://z.ai/blog/glm-5.3)
 * [2026-08-12, 09:34:38](https://news.ycombinator.com/item?id=49269809) - [Turbo Pascal on CP/M, MSX-DOS and MS-DOS – Pascal for Small Machines](http://pascal.hansotten.com/delphi/turbo-pascal-on-cpm-msx-dos-and-ms-dos/)
-* [2026-08-12, 08:12:15](https://news.ycombinator.com/item?id=49269240) - [Forbidden City Cabbage](https://www.cnn.com/2025/11/10/style/jadeite-cabbage-taiwan-forbidden-city-curio-hnk-intl)
 * [2026-08-11, 05:48:56](https://news.ycombinator.com/item?id=49253831) - [Moving integer division to floating-point is trivial](http://marc-b-reynolds.github.io/math/2026/08/10/IntDivByFP.html)
 * [2026-08-10, 20:50:36](https://news.ycombinator.com/item?id=49249523) - [Don't classify, hallucinate](https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications)
+* [2026-08-10, 08:01:52](https://news.ycombinator.com/item?id=49240708) - [ICTP Announces 2026 Dirac Medal Recipients (Physics)](https://www.ictp.it/news/2026/8/ictp-announces-2026-dirac-medal-recipients)
 * [2026-08-09, 16:26:37](https://news.ycombinator.com/item?id=49232870) - [Show HN: Ember – Redshift safe color palettes](https://github.com/carpdiem/ember)
 * [2026-08-07, 14:51:09](https://news.ycombinator.com/item?id=49211375) - [Ultraviolet Bird Photography](https://uvbirds.com/)
 

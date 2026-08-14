@@ -70,6 +70,7 @@
 * [2026-08-10, 10:29:14](https://news.ycombinator.com/item?id=49241846) - [Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes](https://ethw.org/Milestones:Parametron,_1954)
 * [2026-08-10, 10:15:55](https://news.ycombinator.com/item?id=49241728) - [The Future Is for Everyone – The Path to a Positive AI Future](https://www.meta.com/thefutureisforeveryone/)
 * [2026-08-10, 10:10:02](https://news.ycombinator.com/item?id=49241679) - [Meta Muse Glimmer – open weights 30B local coding model](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model)
+* [2026-08-10, 08:01:52](https://news.ycombinator.com/item?id=49240708) - [ICTP Announces 2026 Dirac Medal Recipients (Physics)](https://www.ictp.it/news/2026/8/ictp-announces-2026-dirac-medal-recipients)
 * [2026-08-10, 07:49:09](https://news.ycombinator.com/item?id=49240615) - [An ambiguity in c89 which will never be fixed](https://sebsite.pw/w/20260810-c89ambiguity.html)
 * [2026-08-10, 06:02:38](https://news.ycombinator.com/item?id=49239751) - [Docker Sandboxes – Disposable, isolated sandboxes for AI agents](https://www.docker.com/products/docker-sandboxes/)
 * [2026-08-10, 05:16:26](https://news.ycombinator.com/item?id=49239467) - [Why do we assume everyone should be working?](https://wilsoniumite.com/2026/08/10/why-do-we-assume-everyone-should-be-working/)
