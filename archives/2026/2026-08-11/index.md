@@ -62,6 +62,7 @@
 * [2026-08-11, 08:15:46](https://news.ycombinator.com/item?id=49254880) - [France to ban unsolicited telemarketing calls](https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html)
 * [2026-08-11, 07:03:49](https://news.ycombinator.com/item?id=49254376) - [The mathematical physics of rainbows and glories(2001) [pdf]](https://tlakoba.w3.uvm.edu/AppliedUGMath/auxpaper_rainbow_glory_review.pdf)
 * [2026-08-11, 07:00:57](https://news.ycombinator.com/item?id=49254351) - [The Water Footprint of AI](https://doi.org/10.1016/j.watres.2026.125866)
+* [2026-08-11, 05:48:56](https://news.ycombinator.com/item?id=49253831) - [Moving integer division to floating-point is trivial](http://marc-b-reynolds.github.io/math/2026/08/10/IntDivByFP.html)
 * [2026-08-11, 05:46:16](https://news.ycombinator.com/item?id=49253813) - [Half of Europe's towns and villages have fewer residents than 60 years ago](https://correctiv.org/en/europe/2026/04/21/half-of-europes-towns-and-villages-have-fewer-residents-than-60-years-ago/)
 * [2026-08-11, 05:30:24](https://news.ycombinator.com/item?id=49253738) - [DeepSeek: Reverse Engineering an AI Assistant by Interviewing Itself](https://manish.sh/writings/models/inside-deepseek-reverse-engineering-an-ai-assistant-by-interviewing-itself)
 * [2026-08-11, 05:26:58](https://news.ycombinator.com/item?id=49253721) - [Show HN: Mcptoon – MCP CLI client that cuts tool discovery tokens by 97%](https://github.com/activeing123/mcptoon)
