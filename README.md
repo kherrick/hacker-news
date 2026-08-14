@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-08-14, 23:01:46](https://news.ycombinator.com/item?id=49305642) - [Claude Fable 5 Having Fun](https://github.com/robss2020/claude-fable-5-having-fun)
+* [2026-08-14, 23:11:34](https://news.ycombinator.com/item?id=49305708) - [The case for overhauling American science](https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science)
+* [2026-08-14, 22:48:15](https://news.ycombinator.com/item?id=49305558) - [Stop sending me huge PRs; a rant](https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va)
 * [2026-08-14, 22:38:34](https://news.ycombinator.com/item?id=49305492) - [RISC-V: They should have known better](https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV)
 * [2026-08-14, 20:52:44](https://news.ycombinator.com/item?id=49304447) - [Going Dark, and the era of law enforcement hacking](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/)
 * [2026-08-14, 20:10:49](https://news.ycombinator.com/item?id=49303957) - [Every exterior shot in The Taking of Pelham 123](https://iafisher.com/2026/07/pelham-123)
 * [2026-08-14, 19:41:42](https://news.ycombinator.com/item?id=49303652) - [New Lower and Upper Bounds for the Grothendieck Constant](https://arxiv.org/abs/2608.11158)
-* [2026-08-14, 19:05:46](https://news.ycombinator.com/item?id=49303237) - [Open WireGuard Endpoints](https://proxylity.com/articles/now-available-open-wireguard-endpoints-and-async-lambda.html)
 * [2026-08-14, 19:03:20](https://news.ycombinator.com/item?id=49303202) - [Firefox is now the last major browser that still supports uBlock Origin](https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html)
 * [2026-08-14, 18:52:48](https://news.ycombinator.com/item?id=49303046) - [Show HN: Mole – Deep research agent for your terminal](https://github.com/lajosdeme/mole)
 * [2026-08-14, 18:43:49](https://news.ycombinator.com/item?id=49302943) - [The American sports plutocracy](https://www.derekthompson.org/p/the-american-sports-plutocracy-is)
