@@ -57,6 +57,7 @@
 * [2026-08-09, 14:32:53](https://news.ycombinator.com/item?id=49231809) - [Cool URIs Don't Change (1998)](https://www.w3.org/Provider/Style/URI)
 * [2026-08-09, 14:30:05](https://news.ycombinator.com/item?id=49231777) - [Show HN: Today's cities on a globe of Earth's tectonic past and future](https://douwe.com/projects/tectonic_globe)
 * [2026-08-09, 14:09:42](https://news.ycombinator.com/item?id=49231586) - [A partial digestion of the HRT counterexample](https://terrytao.wordpress.com/2026/08/06/a-partial-digestion-of-the-hrt-counterexample/)
+* [2026-08-09, 13:58:46](https://news.ycombinator.com/item?id=49231490) - [Differential Heuristics](https://www.redblobgames.com/blog/2026-08-08-differential-heuristics/)
 * [2026-08-09, 13:47:36](https://news.ycombinator.com/item?id=49231397) - [John C. Lilly on solid state intelligence and the elimination of man (1978)](https://kibotronics.net/unlisted/lilly-machines/)
 * [2026-08-09, 13:37:59](https://news.ycombinator.com/item?id=49231315) - [Debugging Information for Inlined Functions](https://lwn.net/Articles/1083985/)
 * [2026-08-09, 13:33:59](https://news.ycombinator.com/item?id=49231279) - [Why climate, fertility collapse, and AI compute share the same bottleneck?](https://bytepith.com/article/slow-squeeze-climate-demographics-and-state-power)
