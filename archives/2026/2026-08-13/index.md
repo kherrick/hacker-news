@@ -29,6 +29,7 @@
 * [2026-08-13, 17:22:39](https://news.ycombinator.com/item?id=49289101) - [JDK 27 G1/Parallel/Serial GC Changes](https://tschatzl.github.io/2026/08/10/jdk27-g1-serial-parallel-gc-changes.html)
 * [2026-08-13, 17:15:46](https://news.ycombinator.com/item?id=49289026) - [Tocharian Online](https://lrc.la.utexas.edu/eieol/tokol/0)
 * [2026-08-13, 17:05:12](https://news.ycombinator.com/item?id=49288889) - [Mistral OCR 4.1](https://docs.mistral.ai/models/ocr-4-1)
+* [2026-08-13, 17:02:50](https://news.ycombinator.com/item?id=49288857) - [What I Learned Securing Sniffnet with the GitHub Secure Open Source Fund](https://sniffnet.app/news/github-secure-open-source-fund/)
 * [2026-08-13, 17:02:10](https://news.ycombinator.com/item?id=49288847) - [Gemini 3.7 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/)
 * [2026-08-13, 16:24:19](https://news.ycombinator.com/item?id=49288324) - [Mozilla says stricter antitrust measures against Google 'threaten Firefox'](https://www.techcentral.ie/mozilla-says-stricter-antitrust-measures-against-google-threaten-firefox/)
 * [2026-08-13, 16:22:16](https://news.ycombinator.com/item?id=49288296) - [GoAccess – Open-source real-time log analyzer and interactive viewer](https://goaccess.io/)

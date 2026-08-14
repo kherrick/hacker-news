@@ -4,8 +4,17 @@
 
 ### [Archives](../../index.md) for [2026-08-14](index.md)
 
+* [2026-08-14, 15:03:54](https://news.ycombinator.com/item?id=49299684) - [Qwen3.8-27B](https://twitter.com/alibaba_qwen/status/2088280182356611304)
+* [2026-08-14, 15:00:00](https://news.ycombinator.com/item?id=49299605) - [Qwen 3.8 27B is out: open weights, best local dense model yet](https://huggingface.co/Qwen/Qwen3.8-27B-FP8)
+* [2026-08-14, 14:34:49](https://news.ycombinator.com/item?id=49299282) - [When Genius Fails: The Intellectual Arrogance of the AI Labs](https://weightythoughts.com/p/when-genius-failsthe-intellectual)
+* [2026-08-14, 14:31:08](https://news.ycombinator.com/item?id=49299222) - [Every Fucking Website](https://lxe.github.io/everywebsite/)
+* [2026-08-14, 14:22:39](https://news.ycombinator.com/item?id=49299102) - [AI Model Atlas – visualizing populations of ML models as interconnected 3D graph](https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0)
+* [2026-08-14, 14:21:18](https://news.ycombinator.com/item?id=49299081) - [I turned my RSS feeds into an e-ink newspaper to stop reading on my phone](https://heyjonny.dev/posts/rss-to-eink-newspaper/)
+* [2026-08-14, 14:14:13](https://news.ycombinator.com/item?id=49299000) - [Show HN: APIMart: Discounted AI API Aggregator for GPT-5, Sora 2](https://apimart.ai/register?aff=yScTCM)
+* [2026-08-14, 14:07:52](https://news.ycombinator.com/item?id=49298910) - [In Australia, a Home Battery Boom Has Helped Cut Wholesale Power Prices in Half](https://e360.yale.edu/digest/australia-home-batteries)
 * [2026-08-14, 13:18:53](https://news.ycombinator.com/item?id=49298303) - [France's tax authority had data stolen on 680k taxpayers](https://korben.info/en/france-tax-authority-data-breach-680000-taxpayers.html)
 * [2026-08-14, 12:57:02](https://news.ycombinator.com/item?id=49298088) - [HashAgent – Share an AI agent as a URL, runs locally via WebGPU](https://hashagent.pages.dev/)
+* [2026-08-14, 12:45:37](https://news.ycombinator.com/item?id=49297996) - [Show HN: We Implemented the IPv8 Internet-Draft in Linux, Libc, and BGP](https://goonhost.rocks/blog/implementing-ipv8-internet-draft)
 * [2026-08-14, 12:23:22](https://news.ycombinator.com/item?id=49297801) - [Dear people who work at the airport](https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/)
 * [2026-08-14, 12:00:51](https://news.ycombinator.com/item?id=49297637) - [The TEMU-Fication of Software, Digital Goods and Services](https://xn--gckvb8fzb.com/the-temu-fication-of-software-digital-goods-services/)
 * [2026-08-14, 11:41:34](https://news.ycombinator.com/item?id=49297469) - [WhatCable: Know what your USB-C cable can do](https://www.whatcable.uk/)
