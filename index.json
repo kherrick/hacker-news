@@ -1,12 +1,42 @@
 [
   [
     [
-      "2026-08-14, 19:22:00",
-      "https://news.ycombinator.com/item?id=49303433"
+      "2026-08-14, 19:51:49",
+      "https://news.ycombinator.com/item?id=49303774"
     ],
     [
-      "Z.ai Security Disclosure",
-      "https://cvd.z.ai"
+      "Jason Arday: Former Cambridge university professor found dead",
+      "https://www.bbc.com/news/articles/c1j1ye6n30no"
+    ]
+  ],
+  [
+    [
+      "2026-08-14, 19:41:42",
+      "https://news.ycombinator.com/item?id=49303652"
+    ],
+    [
+      "New Lower and Upper Bounds for the Grothendieck Constant",
+      "https://arxiv.org/abs/2608.11158"
+    ]
+  ],
+  [
+    [
+      "2026-08-14, 19:32:15",
+      "https://news.ycombinator.com/item?id=49303540"
+    ],
+    [
+      "Anthropic Risk August 2026 [pdf]",
+      "https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-08-14, 19:28:17",
+      "https://news.ycombinator.com/item?id=49303499"
+    ],
+    [
+      "Show HN: AletheionAGI – Grounding enforcement for AI agents",
+      "https://www.aletheionagi.com"
     ]
   ],
   [
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2026-08-14, 15:03:12",
-      "https://news.ycombinator.com/item?id=49299667"
-    ],
-    [
-      "Self-hosted web push Cloudflare Worker, works on iOS",
-      "https://kukuroo.cc/"
-    ]
-  ],
-  [
-    [
       "2026-08-14, 15:00:00",
       "https://news.ycombinator.com/item?id=49299605"
     ],
@@ -167,16 +187,6 @@
     [
       "Every Fucking Website (2020)",
       "https://lxe.github.io/everywebsite/"
-    ]
-  ],
-  [
-    [
-      "2026-08-14, 14:22:39",
-      "https://news.ycombinator.com/item?id=49299102"
-    ],
-    [
-      "AI Model Atlas – visualizing populations of ML models as interconnected 3D graph",
-      "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Ultraviolet Bird Photography",
       "https://uvbirds.com/"
-    ]
-  ],
-  [
-    [
-      "2026-08-04, 20:59:43",
-      "https://news.ycombinator.com/item?id=49175067"
-    ],
-    [
-      "Gödel, Escher, Elisp: The Beauty of Macros",
-      "https://www.chiply.dev/post-elisp-macros-are-beautiful"
     ]
   ]
 ]
