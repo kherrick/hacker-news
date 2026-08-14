@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-08-14, 16:57:14",
+      "https://news.ycombinator.com/item?id=49301417"
+    ],
+    [
+      "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
+      "https://arxiv.org/abs/2608.12700"
+    ]
+  ],
+  [
+    [
+      "2026-08-14, 16:52:46",
+      "https://news.ycombinator.com/item?id=49301342"
+    ],
+    [
+      "Discrete Fourier Transform by Hand",
+      "https://www.byhand.ai/p/28-discrete-fourier-transform"
+    ]
+  ],
+  [
+    [
+      "2026-08-14, 16:45:49",
+      "https://news.ycombinator.com/item?id=49301260"
+    ],
+    [
+      "Count Binface receives over a quarter of votes in Clacton by-election",
+      "https://www.bbc.com/news/articles/ce97mm3vvemo"
+    ]
+  ],
+  [
+    [
+      "2026-08-14, 16:43:22",
+      "https://news.ycombinator.com/item?id=49301215"
+    ],
+    [
+      "Show HN: LuaCAD – Parametric CAD Scripted in Lua",
+      "https://luacad.ad-si.com"
+    ]
+  ],
+  [
+    [
       "2026-08-14, 16:15:21",
       "https://news.ycombinator.com/item?id=49300800"
     ],
@@ -25,7 +65,7 @@
       "https://news.ycombinator.com/item?id=49300671"
     ],
     [
-      "France blocks social media ban because it would require adults to prove age",
+      "France's top court blocks social media ban for under-15s",
       "https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/"
     ]
   ],
@@ -51,16 +91,6 @@
   ],
   [
     [
-      "2026-08-14, 15:48:59",
-      "https://news.ycombinator.com/item?id=49300411"
-    ],
-    [
-      "\"Solving a largely imaginary user goal\"",
-      "https://unsung.aresluna.org/solving-a-largely-imaginary-user-goal/"
-    ]
-  ],
-  [
-    [
       "2026-08-14, 15:43:10",
       "https://news.ycombinator.com/item?id=49300314"
     ],
@@ -71,32 +101,12 @@
   ],
   [
     [
-      "2026-08-14, 15:22:02",
-      "https://news.ycombinator.com/item?id=49299985"
-    ],
-    [
-      "Show HN: Graft – Claude Code hooks that cut grep tokens by 42%",
-      "https://github.com/NanoNets/Graft"
-    ]
-  ],
-  [
-    [
       "2026-08-14, 15:07:57",
       "https://news.ycombinator.com/item?id=49299746"
     ],
     [
       "Introducing Toast 1",
       "https://www.mixedbread.com/blog/toast-1"
-    ]
-  ],
-  [
-    [
-      "2026-08-14, 15:04:17",
-      "https://news.ycombinator.com/item?id=49299688"
-    ],
-    [
-      "Unsloth Qwen3.8-27B GGUF files",
-      "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF"
     ]
   ],
   [
@@ -127,16 +137,6 @@
     [
       "Qwen 3.8 27B",
       "https://huggingface.co/Qwen/Qwen3.8-27B-FP8"
-    ]
-  ],
-  [
-    [
-      "2026-08-14, 14:42:23",
-      "https://news.ycombinator.com/item?id=49299364"
-    ],
-    [
-      "Earth.nullschool.net",
-      "https://earth.nullschool.net/"
     ]
   ],
   [
@@ -221,12 +221,12 @@
   ],
   [
     [
-      "2026-08-14, 11:41:34",
-      "https://news.ycombinator.com/item?id=49297469"
+      "2026-08-14, 10:12:48",
+      "https://news.ycombinator.com/item?id=49296740"
     ],
     [
-      "WhatCable: Know what your USB-C cable can do",
-      "https://www.whatcable.uk/"
+      "Why does Opus 5 feel worse to work with?",
+      "https://mun-logadan.github.io/why-does-opus-5-feel-worse/"
     ]
   ],
   [
@@ -251,22 +251,22 @@
   ],
   [
     [
-      "2026-08-10, 20:50:36",
-      "https://news.ycombinator.com/item?id=49249523"
+      "2026-08-12, 08:12:15",
+      "https://news.ycombinator.com/item?id=49269240"
     ],
     [
-      "Don't classify, hallucinate!",
-      "https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications"
+      "Forbidden City Cabbage",
+      "https://www.cnn.com/2025/11/10/style/jadeite-cabbage-taiwan-forbidden-city-curio-hnk-intl"
     ]
   ],
   [
     [
-      "2026-08-10, 18:22:05",
-      "https://news.ycombinator.com/item?id=49247628"
+      "2026-08-10, 20:50:36",
+      "https://news.ycombinator.com/item?id=49249523"
     ],
     [
-      "We're not done with point clouds",
-      "https://claytonwramsey.com/blog/mvt/"
+      "Don't classify, hallucinate",
+      "https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications"
     ]
   ],
   [
