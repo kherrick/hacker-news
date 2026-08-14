@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-08-14](index.md)
 
+* [2026-08-14, 19:22:00](https://news.ycombinator.com/item?id=49303433) - [Z.ai Security Disclosure](https://cvd.z.ai)
+* [2026-08-14, 19:15:51](https://news.ycombinator.com/item?id=49303350) - [How Claude's text watermarking works](https://www.anthropic.com/news/claude-text-watermark)
+* [2026-08-14, 19:05:46](https://news.ycombinator.com/item?id=49303237) - [Open WireGuard Endpoints](https://proxylity.com/articles/now-available-open-wireguard-endpoints-and-async-lambda.html)
+* [2026-08-14, 18:52:48](https://news.ycombinator.com/item?id=49303046) - [Show HN: Mole – Deep research agent for your terminal](https://github.com/lajosdeme/mole)
 * [2026-08-14, 18:51:27](https://news.ycombinator.com/item?id=49303027) - [Show HN: Embed a real Linux terminal on your website](https://sandbox.bio/training/embed)
 * [2026-08-14, 16:57:14](https://news.ycombinator.com/item?id=49301417) - [A Contract-Grade Verifier for LLM-Generated GPU Kernels](https://arxiv.org/abs/2608.12700)
 * [2026-08-14, 16:52:46](https://news.ycombinator.com/item?id=49301342) - [Discrete Fourier Transform by Hand](https://www.byhand.ai/p/28-discrete-fourier-transform)
