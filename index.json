@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-14, 02:39:10",
+      "https://news.ycombinator.com/item?id=49294199"
+    ],
+    [
+      "US conducted mass spying campaign against leftwing and anti-ICE protesters",
+      "https://www.theguardian.com/us-news/2026/aug/13/us-government-spied-anti-ice-protesters"
+    ]
+  ],
+  [
+    [
       "2026-08-14, 00:14:28",
       "https://news.ycombinator.com/item?id=49293324"
     ],
@@ -11,12 +21,22 @@
   ],
   [
     [
-      "2026-08-13, 23:16:55",
-      "https://news.ycombinator.com/item?id=49292932"
+      "2026-08-14, 00:10:04",
+      "https://news.ycombinator.com/item?id=49293294"
     ],
     [
-      "How AI text watermarking works",
-      "https://declaude.org/watermarking/"
+      "SparrowMap – Cameras that watch government vehicles",
+      "https://sparrowmap.com/"
+    ]
+  ],
+  [
+    [
+      "2026-08-13, 23:39:33",
+      "https://news.ycombinator.com/item?id=49293087"
+    ],
+    [
+      "Blog about things you don't understand yet",
+      "https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/"
     ]
   ],
   [
@@ -25,7 +45,7 @@
       "https://news.ycombinator.com/item?id=49291268"
     ],
     [
-      "NP-Overrated",
+      "NP-overrated",
       "https://gruhn.me/blog/2026-08-13/"
     ]
   ],
@@ -67,6 +87,16 @@
     [
       "Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
       "https://github.com/systemd/systemd/issues/40262"
+    ]
+  ],
+  [
+    [
+      "2026-08-13, 18:37:18",
+      "https://news.ycombinator.com/item?id=49290166"
+    ],
+    [
+      "Hello, me. It's been a while",
+      "https://themech.net/2026/08/hello-me-its-been-a-while/"
     ]
   ],
   [
@@ -121,22 +151,22 @@
   ],
   [
     [
+      "2026-08-13, 17:32:07",
+      "https://news.ycombinator.com/item?id=49289260"
+    ],
+    [
+      "I want extern \"fil-C\"",
+      "https://domenkozar.com/2026/08/13/i-want-extern-fil-c/"
+    ]
+  ],
+  [
+    [
       "2026-08-13, 17:23:22",
       "https://news.ycombinator.com/item?id=49289112"
     ],
     [
       "Gemini 3.7 Flash",
       "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/"
-    ]
-  ],
-  [
-    [
-      "2026-08-13, 17:15:46",
-      "https://news.ycombinator.com/item?id=49289026"
-    ],
-    [
-      "Tocharian Online",
-      "https://lrc.la.utexas.edu/eieol/tokol/0"
     ]
   ],
   [
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2026-08-13, 15:07:10",
-      "https://news.ycombinator.com/item?id=49287153"
-    ],
-    [
-      "Text AI watermarks will always be trivial to remove",
-      "https://www.seangoedecke.com/text-ai-watermarks/"
-    ]
-  ],
-  [
-    [
       "2026-08-13, 14:26:41",
       "https://news.ycombinator.com/item?id=49286485"
     ],
@@ -187,16 +207,6 @@
     [
       "Spaghettifying DRAM",
       "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts"
-    ]
-  ],
-  [
-    [
-      "2026-08-13, 13:52:32",
-      "https://news.ycombinator.com/item?id=49285982"
-    ],
-    [
-      "Gloomberb",
-      "https://gloom.sh/"
     ]
   ],
   [
@@ -221,32 +231,12 @@
   ],
   [
     [
-      "2026-08-13, 13:05:29",
-      "https://news.ycombinator.com/item?id=49285327"
-    ],
-    [
-      "Choosing an AI model: one prompt, 11 models, different results",
-      "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/"
-    ]
-  ],
-  [
-    [
       "2026-08-13, 12:58:02",
       "https://news.ycombinator.com/item?id=49285244"
     ],
     [
       "DeepSeek Harness developer preview",
       "https://deepseek.com/harness/en/"
-    ]
-  ],
-  [
-    [
-      "2026-08-13, 12:01:02",
-      "https://news.ycombinator.com/item?id=49284697"
-    ],
-    [
-      "ATG (YC F25) Is Hiring Member of Technical Staff (Data Platform)",
-      "https://atg.science/careers"
     ]
   ],
   [
@@ -261,12 +251,22 @@
   ],
   [
     [
-      "2026-08-10, 15:06:15",
-      "https://news.ycombinator.com/item?id=49244696"
+      "2026-08-10, 14:05:14",
+      "https://news.ycombinator.com/item?id=49243860"
     ],
     [
-      "Smooth Move: Taming Trajectories with Polynomials",
-      "https://nick.zoic.org/art/smooth-move-taming-trajectories-with-polynomials/"
+      "Crown 0.64 – Native and cross-platform game engine",
+      "https://www.crownengine.org/news/crown-0-64/"
+    ]
+  ],
+  [
+    [
+      "2026-08-10, 07:49:09",
+      "https://news.ycombinator.com/item?id=49240615"
+    ],
+    [
+      "An ambiguity in c89 which will never be fixed",
+      "https://sebsite.pw/w/20260810-c89ambiguity.html"
     ]
   ],
   [
