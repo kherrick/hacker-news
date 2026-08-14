@@ -36,6 +36,7 @@
 * [2026-08-07, 14:55:08](https://news.ycombinator.com/item?id=49211438) - [Iceberg Collapses and Flips over in Ilulissat, Greenland (July 25, 2026) [video]](https://www.youtube.com/watch?v=UufMqwyO7pY)
 * [2026-08-07, 14:55:08](https://news.ycombinator.com/item?id=49211437) - [Software is about people, not code](https://letterstoanewdeveloper.com/2020/01/27/software-is-about-people-not-code/)
 * [2026-08-07, 14:51:57](https://news.ycombinator.com/item?id=49211386) - [99% of My Website Traffic Is Bots](https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/)
+* [2026-08-07, 14:51:09](https://news.ycombinator.com/item?id=49211375) - [Ultraviolet Bird Photography](https://uvbirds.com/)
 * [2026-08-07, 14:38:00](https://news.ycombinator.com/item?id=49211158) - [Halcyon Video – a 3D video store for your media server](https://github.com/halcyon-video/halcyon-video)
 * [2026-08-07, 14:28:24](https://news.ycombinator.com/item?id=49210987) - [Music Generation by a Composer, for Musicians](https://monictheory.com)
 * [2026-08-07, 14:11:55](https://news.ycombinator.com/item?id=49210740) - [How a device finds encrypted DNS by itself](https://blog.dundns.eu/posts/ddr-encrypted-dns-discovery/)
