@@ -54,6 +54,7 @@
 * [2026-08-12, 13:20:05](https://news.ycombinator.com/item?id=49271994) - [AI is removing the middle class of software engineering](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html)
 * [2026-08-12, 13:01:21](https://news.ycombinator.com/item?id=49271757) - [Shade Map](https://shademap.app)
 * [2026-08-12, 12:33:22](https://news.ycombinator.com/item?id=49271413) - [YC startups are abandoning .com](https://www.orangecrumbs.com/stories/yc-domains)
+* [2026-08-12, 12:31:16](https://news.ycombinator.com/item?id=49271382) - [In 1962, Egypt's Missile Program Lost Its Key Scientist Without a Trace](https://www.popularmechanics.com/military/a73358518/nazi-rocket-scientist-disappearance/)
 * [2026-08-12, 12:07:16](https://news.ycombinator.com/item?id=49271126) - [Facebook ads are so hard to block that uBlock Origin stopped filtering them](https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/)
 * [2026-08-12, 11:53:01](https://news.ycombinator.com/item?id=49270953) - [2026 Eclipse Webcams](https://jonty.github.io/2026_eclipse_webcams/)
 * [2026-08-12, 11:44:40](https://news.ycombinator.com/item?id=49270881) - [Show HN: KidScreen, a finite YouTube shelf chosen by parents](https://kidscreen.app)

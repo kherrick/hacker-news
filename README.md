@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-08-15, 06:01:19](https://news.ycombinator.com/item?id=49308073) - [\"That's not SoC 2 compliant\"](https://ampcode.com/notes/thats-not-soc-2-compliant)
+* [2026-08-15, 06:01:19](https://news.ycombinator.com/item?id=49308073) - [\"That's not SOC 2 compliant\"](https://ampcode.com/notes/thats-not-soc-2-compliant)
 * [2026-08-15, 04:42:07](https://news.ycombinator.com/item?id=49307700) - [Show HN: ThoughtDAG – An editable context graph for LLM conversations](https://chenxiachan.github.io/thoughtdag/)
 * [2026-08-15, 04:18:44](https://news.ycombinator.com/item?id=49307592) - [The other Sean Byrne doesn't exist](https://conic.al/writing/the-other-sean-byrne-doesnt-exist/)
-* [2026-08-15, 03:37:00](https://news.ycombinator.com/item?id=49307383) - [The End of Mathematics](https://www.daniellitt.com/blog/2026/8/11/the-end-of-mathematics)
 * [2026-08-15, 02:42:14](https://news.ycombinator.com/item?id=49307099) - [Show HN: Deltix – AI Driven Testing](https://app.deltix.ai)
 * [2026-08-15, 01:14:05](https://news.ycombinator.com/item?id=49306577) - [Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive)
 * [2026-08-15, 00:55:31](https://news.ycombinator.com/item?id=49306443) - [The Ploopy A+ Trackball Is Here](https://blog.ploopy.co/the-aplus-is-finally-here-499)
@@ -25,6 +24,7 @@
 * [2026-08-12, 19:37:12](https://news.ycombinator.com/item?id=49277535) - [Show HN: Silent Shark – tactical map-based WWII submarine sim](https://silentshark.app/)
 * [2026-08-12, 14:53:02](https://news.ycombinator.com/item?id=49273346) - [Show HN: A website for exploring historical photographs of my city](https://yesterdays.maprva.org/)
 * [2026-08-12, 14:19:05](https://news.ycombinator.com/item?id=49272784) - [Unearthing a 31 year old Easter egg in Ecco the Dolphin](https://32bits.substack.com/p/under-the-microscope-ecco-the-dolphin-98c)
+* [2026-08-12, 12:31:16](https://news.ycombinator.com/item?id=49271382) - [In 1962, Egypt's Missile Program Lost Its Key Scientist Without a Trace](https://www.popularmechanics.com/military/a73358518/nazi-rocket-scientist-disappearance/)
 * [2026-08-12, 09:34:38](https://news.ycombinator.com/item?id=49269809) - [Turbo Pascal on CP/M, MSX-DOS and MS-DOS](http://pascal.hansotten.com/delphi/turbo-pascal-on-cpm-msx-dos-and-ms-dos/)
 * [2026-08-11, 19:23:33](https://news.ycombinator.com/item?id=49263186) - [This Hi-Fi Tape Recorder Changed Radio Forever](https://spectrum.ieee.org/magnetophon-laugh-track)
 * [2026-08-09, 16:26:37](https://news.ycombinator.com/item?id=49232870) - [Show HN: Ember – Redshift safe color palettes](https://github.com/carpdiem/ember)
