@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-15](index.md)
 
+* [2026-08-15, 16:53:47](https://news.ycombinator.com/item?id=49312165) - [The Dutch Community Where People Live on Strips of Land in a Lake](https://www.core77.com/posts/144869)
 * [2026-08-15, 16:38:34](https://news.ycombinator.com/item?id=49312008) - [A controversial Alzheimer's surgery is said to reverse symptoms](https://www.nature.com/articles/d41586-026-02448-x)
 * [2026-08-15, 16:01:57](https://news.ycombinator.com/item?id=49311685) - [The price of a Costco hot dog has gone up](https://sina.bio/posts/costco-hotdog.html)
 * [2026-08-15, 15:58:53](https://news.ycombinator.com/item?id=49311651) - [Semaglutide linked to 26% lower 5-year predicted dementia risk](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432)
