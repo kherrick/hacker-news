@@ -16,6 +16,7 @@
 * [2026-08-11, 19:45:41](https://news.ycombinator.com/item?id=49263461) - [Bluesky's active user base is shrinking as its focus expands beyond the app](https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/)
 * [2026-08-11, 19:35:52](https://news.ycombinator.com/item?id=49263340) - [Nvidia Nemotron 3.5 Lightning and NeMo Switchyard](https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/)
 * [2026-08-11, 19:29:14](https://news.ycombinator.com/item?id=49263260) - [The Ultimate Horse](https://worksinprogress.co/issue/the-ultimate-horse/)
+* [2026-08-11, 19:23:33](https://news.ycombinator.com/item?id=49263186) - [Hi-Fi Tape Recorder Changed Radio Forever](https://spectrum.ieee.org/magnetophon-laugh-track)
 * [2026-08-11, 19:05:10](https://news.ycombinator.com/item?id=49262961) - [The whole of PyTorch on one page](https://tensor.khalilli.ai/blog/part-0-the-map/)
 * [2026-08-11, 18:54:16](https://news.ycombinator.com/item?id=49262841) - [Game Developers Conference – Royalty Free Sound Effects](https://sonniss.com/gameaudiogdc/)
 * [2026-08-11, 18:51:35](https://news.ycombinator.com/item?id=49262811) - [Making holograms with a pen plotter](https://blog.jordan.matelsky.com/Penplotter-holography/)
