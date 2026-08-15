@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-15, 15:32:25",
+      "https://news.ycombinator.com/item?id=49311445"
+    ],
+    [
+      "AI Can Now Design Functional Viruses. Should We Worry?",
+      "https://spectrum.ieee.org/ai-designed-virus"
+    ]
+  ],
+  [
+    [
       "2026-08-15, 14:12:27",
       "https://news.ycombinator.com/item?id=49310755"
     ],
@@ -11,32 +21,12 @@
   ],
   [
     [
-      "2026-08-15, 14:08:55",
-      "https://news.ycombinator.com/item?id=49310725"
-    ],
-    [
-      "Secondhand book sales are booming. Is it because of AI?",
-      "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o"
-    ]
-  ],
-  [
-    [
       "2026-08-15, 14:04:49",
       "https://news.ycombinator.com/item?id=49310682"
     ],
     [
       "The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis",
       "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/"
-    ]
-  ],
-  [
-    [
-      "2026-08-15, 13:59:47",
-      "https://news.ycombinator.com/item?id=49310623"
-    ],
-    [
-      "Writergate: Zig I/O Interface Overhaul",
-      "https://alexrios.me/blog/writergate/"
     ]
   ],
   [
@@ -211,6 +201,16 @@
   ],
   [
     [
+      "2026-08-14, 16:12:52",
+      "https://news.ycombinator.com/item?id=49300759"
+    ],
+    [
+      "RustDesk now supports true unattended remote access on Wayland",
+      "https://rustdesk.com/blog/unattended-remote-access-wayland/"
+    ]
+  ],
+  [
+    [
       "2026-08-14, 15:43:10",
       "https://news.ycombinator.com/item?id=49300314"
     ],
@@ -231,22 +231,22 @@
   ],
   [
     [
+      "2026-08-14, 12:50:56",
+      "https://news.ycombinator.com/item?id=49298035"
+    ],
+    [
+      "RISC-V: They Should Have Known Better",
+      "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV"
+    ]
+  ],
+  [
+    [
       "2026-08-12, 18:03:13",
       "https://news.ycombinator.com/item?id=49276353"
     ],
     [
       "A Planet Position Widget",
       "https://leancrew.com/all-this/2026/08/a-planet-position-widget/"
-    ]
-  ],
-  [
-    [
-      "2026-08-12, 13:45:12",
-      "https://news.ycombinator.com/item?id=49272341"
-    ],
-    [
-      "When Bridges Go Haywire",
-      "https://controlsystemssecurity.com/posts/when-the-bridge-goes-haywire.html"
     ]
   ],
   [
