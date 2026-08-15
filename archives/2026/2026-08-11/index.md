@@ -32,6 +32,7 @@
 * [2026-08-11, 16:57:09](https://news.ycombinator.com/item?id=49261133) - [Why Go Is an Ideal Language for AI-Assisted Software Engineering](https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/)
 * [2026-08-11, 16:56:46](https://news.ycombinator.com/item?id=49261128) - [Mojo 1.0](https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here)
 * [2026-08-11, 16:21:46](https://news.ycombinator.com/item?id=49260628) - [Show HN: Lambdock – Wayland-native GTK4 dock with a live Lisp REPL](https://codeberg.org/jjba23/lambdock)
+* [2026-08-11, 16:18:53](https://news.ycombinator.com/item?id=49260582) - [The Color of White Light](https://ludens.cl/photo/spectra/spectra.html)
 * [2026-08-11, 15:54:35](https://news.ycombinator.com/item?id=49260250) - [University of Michigan Drops First-Semester Grades To'Curb Mental Health Crisis'](https://www.wsj.com/us-news/education/university-of-michigan-grades-mental-health-1a5701d4)
 * [2026-08-11, 15:09:34](https://news.ycombinator.com/item?id=49259611) - [Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet](https://github.com/TheRealYT/git-knife)
 * [2026-08-11, 14:50:33](https://news.ycombinator.com/item?id=49259339) - [Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp](https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md)

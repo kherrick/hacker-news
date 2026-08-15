@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-15, 11:00:02](https://news.ycombinator.com/item?id=49309549) - [Auto-research with codex: How I achieved a 232x Faster Kernel](https://sankalp.bearblog.dev/autoresearch/)
 * [2026-08-15, 09:20:07](https://news.ycombinator.com/item?id=49309050) - [Debian has begun voting on the future of AI/LLM contributions](https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html)
 * [2026-08-15, 07:59:42](https://news.ycombinator.com/item?id=49308685) - [Using GCC's Nested Functions with Wide Pointers and No Trampolines II](https://uecker.codeberg.page/2026-07-14.html)
 * [2026-08-15, 07:31:46](https://news.ycombinator.com/item?id=49308553) - [Suspecting court of using AI, man injected prompts in filings to try to win case](https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/)
@@ -18,7 +19,6 @@
 * [2026-08-14, 15:07:57](https://news.ycombinator.com/item?id=49299746) - [Introducing Toast 1](https://www.mixedbread.com/blog/toast-1)
 * [2026-08-14, 15:00:00](https://news.ycombinator.com/item?id=49299605) - [Qwen 3.8 27B](https://huggingface.co/Qwen/Qwen3.8-27B-FP8)
 * [2026-08-14, 14:21:18](https://news.ycombinator.com/item?id=49299081) - [I turned my RSS feeds into an e-ink newspaper to stop reading on my phone](https://heyjonny.dev/posts/rss-to-eink-newspaper/)
-* [2026-08-14, 10:12:48](https://news.ycombinator.com/item?id=49296740) - [Why does Opus 5 feel worse to work with?](https://mun-logadan.github.io/why-does-opus-5-feel-worse/)
 * [2026-08-14, 05:19:59](https://news.ycombinator.com/item?id=49294997) - [GLM-5.3: Frontier coding with emergent cyber capabilities](https://z.ai/blog/glm-5.3)
 * [2026-08-13, 07:57:40](https://news.ycombinator.com/item?id=49282951) - [Coin-sized device can hack a Boeing 737](https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/)
 * [2026-08-12, 19:37:12](https://news.ycombinator.com/item?id=49277535) - [Show HN: Silent Shark – tactical map-based WWII submarine sim](https://silentshark.app/)
@@ -26,10 +26,10 @@
 * [2026-08-12, 12:36:20](https://news.ycombinator.com/item?id=49271442) - [Understanding WCAG 2.2 as ePub and PDF](https://doeken.org/wcag-ebook)
 * [2026-08-12, 12:31:16](https://news.ycombinator.com/item?id=49271382) - [In 1962, Egypt's Missile Program Lost Its Key Scientist Without a Trace](https://www.popularmechanics.com/military/a73358518/nazi-rocket-scientist-disappearance/)
 * [2026-08-11, 19:23:33](https://news.ycombinator.com/item?id=49263186) - [This Hi-Fi Tape Recorder Changed Radio Forever](https://spectrum.ieee.org/magnetophon-laugh-track)
+* [2026-08-11, 16:18:53](https://news.ycombinator.com/item?id=49260582) - [The Color of White Light](https://ludens.cl/photo/spectra/spectra.html)
 * [2026-08-10, 16:53:31](https://news.ycombinator.com/item?id=49246366) - [Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum](https://baselashraf81.github.io/eigendrum/)
 * [2026-08-09, 23:09:04](https://news.ycombinator.com/item?id=49237183) - [The mathematical beauty of hyperbezier curves](https://linebender.org/blog/hyperbezier/)
 * [2026-08-07, 20:16:10](https://news.ycombinator.com/item?id=49215682) - [Super Mario Derivations](https://fzakaria.com/2026/08/05/super-mario-derivations)
-* [2026-08-07, 14:51:09](https://news.ycombinator.com/item?id=49211375) - [Ultraviolet Bird Photography](https://uvbirds.com/)
 
 ## [Archives](archives/index.md)
 
