@@ -26,6 +26,7 @@
 * [2026-08-11, 17:49:37](https://news.ycombinator.com/item?id=49261895) - [OpenSSH 10.5 released, AI fixes now welcome](https://www.openssh.org/releasenotes.html#10.5)
 * [2026-08-11, 17:47:03](https://news.ycombinator.com/item?id=49261857) - [The SpaceX Sham](https://dissentmagazine.org/online_articles/spacex-ipo-elon-musk-trillionaire/)
 * [2026-08-11, 17:23:09](https://news.ycombinator.com/item?id=49261514) - [Grok Bot](https://x.ai/bot)
+* [2026-08-11, 17:16:38](https://news.ycombinator.com/item?id=49261421) - [An image can overflow](https://master.dev/blog/something-nobody-told-you-about-the-image-element-it-can-overflow/)
 * [2026-08-11, 17:16:06](https://news.ycombinator.com/item?id=49261417) - [CSS properties you should know for better text designs](https://master.dev/blog/typographic-css-tricks/)
 * [2026-08-11, 17:02:59](https://news.ycombinator.com/item?id=49261218) - [Woman Pulled over at Gunpoint Twice After Flock Camera Glitch](https://guessingheadlights.com/yall-failed-me-woman-pulled-over-at-gunpoint-twice-after-flock-camera-glitch/)
 * [2026-08-11, 17:01:21](https://news.ycombinator.com/item?id=49261192) - [RSI Simulator](https://www.paradigm.xyz/writing/rsi-simulator)

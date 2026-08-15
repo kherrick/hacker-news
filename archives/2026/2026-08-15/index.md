@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-08-15](index.md)
 
+* [2026-08-15, 21:45:54](https://news.ycombinator.com/item?id=49314615) - [Bede Liu, a digital signal processing pioneer, has died](https://spectrum.ieee.org/digital-signal-processing)
+* [2026-08-15, 21:42:47](https://news.ycombinator.com/item?id=49314596) - [The Wow signal was a strong narrowband radio signal detected on August 15, 1977](https://en.wikipedia.org/wiki/Wow!_signal)
 * [2026-08-15, 21:14:34](https://news.ycombinator.com/item?id=49314403) - [Abdominal Fat Predicts Heart Disease Risk Better Than BMI](https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi)
 * [2026-08-15, 20:54:11](https://news.ycombinator.com/item?id=49314235) - [Cultivating a state of mind where new ideas are born](https://www.henrikkarlsson.xyz/p/good-ideas)
+* [2026-08-15, 20:18:37](https://news.ycombinator.com/item?id=49313941) - [Humazon](https://hughhowey.com/humazon/)
 * [2026-08-15, 19:30:32](https://news.ycombinator.com/item?id=49313519) - [Why tech bosses keep sharing their manifestos about AI](https://www.bbc.com/news/articles/cz97ljy91zxo)
 * [2026-08-15, 19:26:33](https://news.ycombinator.com/item?id=49313477) - [Israeli PR wants to answer your ChatGPT questions](https://www.politico.com/newsletters/politico-influence/2026/08/14/israeli-pr-wants-to-answer-your-chatgpt-questions-01038138)
 * [2026-08-15, 19:13:50](https://news.ycombinator.com/item?id=49313371) - [Job Recession in Higher Education](https://gadlevanon.substack.com/p/job-recession-in-higher-education)
