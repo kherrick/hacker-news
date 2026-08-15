@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-08-15, 06:01:19",
-      "https://news.ycombinator.com/item?id=49308073"
-    ],
-    [
-      "\"That's not SOC 2 compliant\"",
-      "https://ampcode.com/notes/thats-not-soc-2-compliant"
-    ]
-  ],
-  [
-    [
       "2026-08-15, 04:42:07",
       "https://news.ycombinator.com/item?id=49307700"
     ],
@@ -97,6 +87,16 @@
     [
       "Firefox is now the last major browser that still supports uBlock Origin",
       "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html"
+    ]
+  ],
+  [
+    [
+      "2026-08-14, 18:52:48",
+      "https://news.ycombinator.com/item?id=49303046"
+    ],
+    [
+      "Show HN: Mole – Deep research agent for your terminal",
+      "https://github.com/lajosdeme/mole"
     ]
   ],
   [
