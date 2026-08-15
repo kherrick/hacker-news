@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-15](index.md)
 
+* [2026-08-15, 17:30:02](https://news.ycombinator.com/item?id=49312465) - [TreasuryDirect: Prepare for ID.me – Your New Way to Log In](https://www.treasurydirect.gov/savings-bonds/idme-one-month/)
+* [2026-08-15, 17:21:26](https://news.ycombinator.com/item?id=49312413) - [Europe's scorched landscapes seen from space after summer heatwaves](https://www.bbc.com/news/articles/c4gxy0wqqd9o)
 * [2026-08-15, 16:53:47](https://news.ycombinator.com/item?id=49312165) - [The Dutch Community Where People Live on Strips of Land in a Lake](https://www.core77.com/posts/144869)
 * [2026-08-15, 16:38:34](https://news.ycombinator.com/item?id=49312008) - [A controversial Alzheimer's surgery is said to reverse symptoms](https://www.nature.com/articles/d41586-026-02448-x)
 * [2026-08-15, 16:01:57](https://news.ycombinator.com/item?id=49311685) - [The price of a Costco hot dog has gone up](https://sina.bio/posts/costco-hotdog.html)
@@ -11,6 +13,7 @@
 * [2026-08-15, 15:32:25](https://news.ycombinator.com/item?id=49311445) - [AI Can Now Design Functional Viruses. Should We Worry?](https://spectrum.ieee.org/ai-designed-virus)
 * [2026-08-15, 14:34:04](https://news.ycombinator.com/item?id=49310926) - [A Spectre Is Haunting Unicode](https://www.dampfkraft.com/ghost-characters.html)
 * [2026-08-15, 14:29:50](https://news.ycombinator.com/item?id=49310884) - [Gen Z has rediscovered the joy of going to the movies](https://www.economist.com/culture/2026/08/11/gen-z-has-rediscovered-the-joy-of-going-to-the-movies)
+* [2026-08-15, 14:22:20](https://news.ycombinator.com/item?id=49310829) - [Printytron – Type it. 3D Print it](https://printytron.com)
 * [2026-08-15, 14:12:27](https://news.ycombinator.com/item?id=49310755) - [The AI Situation in Software Development](https://srikanth.ch/posts/the-ai-situation/)
 * [2026-08-15, 14:08:55](https://news.ycombinator.com/item?id=49310725) - [Secondhand book sales are booming. Is it because of AI?](https://www.bbc.co.uk/news/articles/cp3rprx2wl4o)
 * [2026-08-15, 14:08:40](https://news.ycombinator.com/item?id=49310719) - [Cloudflare's AI Psychosis](https://opensauce.it/cloudflare-ai-psychosis/)
