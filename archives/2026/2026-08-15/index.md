@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-15](index.md)
 
+* [2026-08-15, 07:31:46](https://news.ycombinator.com/item?id=49308553) - [Suspecting court of using AI, man injected prompts in filings to try to win case](https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/)
 * [2026-08-15, 06:01:19](https://news.ycombinator.com/item?id=49308073) - [\"That's not SoC 2 compliant\"](https://ampcode.com/notes/thats-not-soc-2-compliant)
 * [2026-08-15, 05:59:12](https://news.ycombinator.com/item?id=49308059) - [Ask HN: How do you keep up with HN these days?](https://news.ycombinator.com/item?id=49308059)
 * [2026-08-15, 04:42:07](https://news.ycombinator.com/item?id=49307700) - [Show HN: ThoughtDAG – An editable context graph for LLM conversations](https://chenxiachan.github.io/thoughtdag/)

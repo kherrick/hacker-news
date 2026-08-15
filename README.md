@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-15, 07:31:46](https://news.ycombinator.com/item?id=49308553) - [Suspecting court of using AI, man injected prompts in filings to try to win case](https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/)
 * [2026-08-15, 04:42:07](https://news.ycombinator.com/item?id=49307700) - [Show HN: ThoughtDAG – An editable context graph for LLM conversations](https://chenxiachan.github.io/thoughtdag/)
 * [2026-08-15, 04:18:44](https://news.ycombinator.com/item?id=49307592) - [The other Sean Byrne doesn't exist](https://conic.al/writing/the-other-sean-byrne-doesnt-exist/)
 * [2026-08-15, 02:42:14](https://news.ycombinator.com/item?id=49307099) - [Show HN: Deltix – AI Driven Testing](https://app.deltix.ai)
@@ -27,7 +28,6 @@
 * [2026-08-12, 12:31:16](https://news.ycombinator.com/item?id=49271382) - [In 1962, Egypt's Missile Program Lost Its Key Scientist Without a Trace](https://www.popularmechanics.com/military/a73358518/nazi-rocket-scientist-disappearance/)
 * [2026-08-12, 09:34:38](https://news.ycombinator.com/item?id=49269809) - [Turbo Pascal on CP/M, MSX-DOS and MS-DOS](http://pascal.hansotten.com/delphi/turbo-pascal-on-cpm-msx-dos-and-ms-dos/)
 * [2026-08-11, 19:23:33](https://news.ycombinator.com/item?id=49263186) - [This Hi-Fi Tape Recorder Changed Radio Forever](https://spectrum.ieee.org/magnetophon-laugh-track)
-* [2026-08-09, 16:26:37](https://news.ycombinator.com/item?id=49232870) - [Show HN: Ember – Redshift safe color palettes](https://github.com/carpdiem/ember)
 * [2026-08-07, 20:16:10](https://news.ycombinator.com/item?id=49215682) - [Super Mario Derivations](https://fzakaria.com/2026/08/05/super-mario-derivations)
 * [2026-08-07, 14:51:09](https://news.ycombinator.com/item?id=49211375) - [Ultraviolet Bird Photography](https://uvbirds.com/)
 
