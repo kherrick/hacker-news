@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-08-15, 11:00:02](https://news.ycombinator.com/item?id=49309549) - [Auto-research with codex: How I achieved a 232x Faster Kernel](https://sankalp.bearblog.dev/autoresearch/)
+* [2026-08-15, 10:39:41](https://news.ycombinator.com/item?id=49309451) - [Working with AI Feels More Like Leadership Than Coding](https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/)
 * [2026-08-15, 09:20:07](https://news.ycombinator.com/item?id=49309050) - [Debian has begun voting on the future of AI/LLM contributions](https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html)
 * [2026-08-15, 07:59:42](https://news.ycombinator.com/item?id=49308685) - [Using GCC's Nested Functions with Wide Pointers and No Trampolines II](https://uecker.codeberg.page/2026-07-14.html)
 * [2026-08-15, 04:42:07](https://news.ycombinator.com/item?id=49307700) - [Show HN: ThoughtDAG – An editable context graph for LLM conversations](https://chenxiachan.github.io/thoughtdag/)
@@ -15,7 +16,6 @@
 * [2026-08-14, 16:12:52](https://news.ycombinator.com/item?id=49300759) - [RustDesk now supports true unattended remote access on Wayland](https://rustdesk.com/blog/unattended-remote-access-wayland/)
 * [2026-08-14, 15:58:59](https://news.ycombinator.com/item?id=49300568) - [AI by Hand](https://www.byhand.ai/)
 * [2026-08-14, 15:43:10](https://news.ycombinator.com/item?id=49300314) - [Google is making private AI practical with homomorphic encryption](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
-* [2026-08-14, 15:07:57](https://news.ycombinator.com/item?id=49299746) - [Introducing Toast 1](https://www.mixedbread.com/blog/toast-1)
 * [2026-08-14, 15:00:00](https://news.ycombinator.com/item?id=49299605) - [Qwen 3.8 27B](https://huggingface.co/Qwen/Qwen3.8-27B-FP8)
 * [2026-08-14, 14:21:18](https://news.ycombinator.com/item?id=49299081) - [I turned my RSS feeds into an e-ink newspaper to stop reading on my phone](https://heyjonny.dev/posts/rss-to-eink-newspaper/)
 * [2026-08-14, 05:19:59](https://news.ycombinator.com/item?id=49294997) - [GLM-5.3: Frontier coding with emergent cyber capabilities](https://z.ai/blog/glm-5.3)
