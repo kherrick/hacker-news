@@ -26,6 +26,7 @@
 * [2026-08-14, 18:52:48](https://news.ycombinator.com/item?id=49303046) - [Show HN: Mole – Deep research agent for your terminal](https://github.com/lajosdeme/mole)
 * [2026-08-14, 18:51:27](https://news.ycombinator.com/item?id=49303027) - [Show HN: Embed a real Linux terminal on your website](https://sandbox.bio/training/embed)
 * [2026-08-14, 18:43:49](https://news.ycombinator.com/item?id=49302943) - [The American sports plutocracy](https://www.derekthompson.org/p/the-american-sports-plutocracy-is)
+* [2026-08-14, 18:14:48](https://news.ycombinator.com/item?id=49302562) - [Racket v9.3](https://blog.racket-lang.org/2026/08/racket-v9-3.html)
 * [2026-08-14, 16:57:14](https://news.ycombinator.com/item?id=49301417) - [A Contract-Grade Verifier for LLM-Generated GPU Kernels](https://arxiv.org/abs/2608.12700)
 * [2026-08-14, 16:52:46](https://news.ycombinator.com/item?id=49301342) - [Discrete Fourier Transform by Hand](https://www.byhand.ai/p/28-discrete-fourier-transform)
 * [2026-08-14, 16:45:49](https://news.ycombinator.com/item?id=49301260) - [Count Binface receives over a quarter of votes in Clacton by-election](https://www.bbc.com/news/articles/ce97mm3vvemo)

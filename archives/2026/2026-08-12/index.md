@@ -34,6 +34,7 @@
 * [2026-08-12, 15:27:14](https://news.ycombinator.com/item?id=49273922) - [Show HN: OJCP – an open protocol for agent-consumable job data](https://ojcp.dev/)
 * [2026-08-12, 15:01:17](https://news.ycombinator.com/item?id=49273478) - [Qwen/Qwen3.8-2.4T-A95B](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B)
 * [2026-08-12, 14:55:27](https://news.ycombinator.com/item?id=49273395) - [GiveCampus (YC S15) Is Hiring Engineering Managers](https://job-boards.greenhouse.io/givecampus/jobs/4112793009)
+* [2026-08-12, 14:53:02](https://news.ycombinator.com/item?id=49273346) - [Show HN: A website for exploring historical photographs of my city](https://yesterdays.maprva.org/)
 * [2026-08-12, 14:52:27](https://news.ycombinator.com/item?id=49273330) - [Google launches Pixel 11 Pro Fold](https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/)
 * [2026-08-12, 14:43:45](https://news.ycombinator.com/item?id=49273175) - [Hax – a minimalist, terminal-native coding agent written in C](https://usehax.dev/)
 * [2026-08-12, 14:43:39](https://news.ycombinator.com/item?id=49273165) - [License Plate Reader Searches Should Require a Warrant](https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/)
