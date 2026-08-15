@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-08-15, 06:01:19](https://news.ycombinator.com/item?id=49308073) - [\"That's not SoC 2 compliant\"](https://ampcode.com/notes/thats-not-soc-2-compliant)
-* [2026-08-15, 05:59:12](https://news.ycombinator.com/item?id=49308059) - [Ask HN: How do you keep up with HN these days?](https://news.ycombinator.com/item?id=49308059)
 * [2026-08-15, 04:42:07](https://news.ycombinator.com/item?id=49307700) - [Show HN: ThoughtDAG – An editable context graph for LLM conversations](https://chenxiachan.github.io/thoughtdag/)
 * [2026-08-15, 04:18:44](https://news.ycombinator.com/item?id=49307592) - [The other Sean Byrne doesn't exist](https://conic.al/writing/the-other-sean-byrne-doesnt-exist/)
 * [2026-08-15, 03:37:00](https://news.ycombinator.com/item?id=49307383) - [The End of Mathematics](https://www.daniellitt.com/blog/2026/8/11/the-end-of-mathematics)
@@ -23,6 +22,7 @@
 * [2026-08-14, 10:12:48](https://news.ycombinator.com/item?id=49296740) - [Why does Opus 5 feel worse to work with?](https://mun-logadan.github.io/why-does-opus-5-feel-worse/)
 * [2026-08-14, 05:19:59](https://news.ycombinator.com/item?id=49294997) - [GLM-5.3: Frontier coding with emergent cyber capabilities](https://z.ai/blog/glm-5.3)
 * [2026-08-13, 07:57:40](https://news.ycombinator.com/item?id=49282951) - [Coin-sized device can hack a Boeing 737](https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/)
+* [2026-08-12, 19:37:12](https://news.ycombinator.com/item?id=49277535) - [Show HN: Silent Shark – tactical map-based WWII submarine sim](https://silentshark.app/)
 * [2026-08-12, 14:53:02](https://news.ycombinator.com/item?id=49273346) - [Show HN: A website for exploring historical photographs of my city](https://yesterdays.maprva.org/)
 * [2026-08-12, 14:19:05](https://news.ycombinator.com/item?id=49272784) - [Unearthing a 31 year old Easter egg in Ecco the Dolphin](https://32bits.substack.com/p/under-the-microscope-ecco-the-dolphin-98c)
 * [2026-08-12, 09:34:38](https://news.ycombinator.com/item?id=49269809) - [Turbo Pascal on CP/M, MSX-DOS and MS-DOS](http://pascal.hansotten.com/delphi/turbo-pascal-on-cpm-msx-dos-and-ms-dos/)
