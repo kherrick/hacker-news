@@ -25,6 +25,7 @@
 * [2026-08-10, 17:41:13](https://news.ycombinator.com/item?id=49247070) - [Learning more about Claude's mathematical capabilities](https://www.anthropic.com/research/riemann-zeta)
 * [2026-08-10, 17:22:07](https://news.ycombinator.com/item?id=49246804) - [Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots](https://cactuscompute.com/needle)
 * [2026-08-10, 17:14:00](https://news.ycombinator.com/item?id=49246704) - [GPT 5.6 Cyber](https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows/)
+* [2026-08-10, 16:53:31](https://news.ycombinator.com/item?id=49246366) - [Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum](https://baselashraf81.github.io/eigendrum/)
 * [2026-08-10, 16:35:27](https://news.ycombinator.com/item?id=49246057) - [Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers](https://www.stoaexchange.com)
 * [2026-08-10, 16:32:03](https://news.ycombinator.com/item?id=49245990) - [Don't Build Mindreading](https://www.lesswrong.com/posts/CAdG5dzkWrrK2NQg8/don-t-build-mindreading)
 * [2026-08-10, 16:28:58](https://news.ycombinator.com/item?id=49245936) - [What's the best programming language for coding agents?](http://danluu.com/pl-tokens/)
