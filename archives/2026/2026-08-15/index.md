@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-08-15](index.md)
 
 * [2026-08-15, 04:18:44](https://news.ycombinator.com/item?id=49307592) - [The other Sean Byrne doesn't exist](https://conic.al/writing/the-other-sean-byrne-doesnt-exist/)
+* [2026-08-15, 03:37:00](https://news.ycombinator.com/item?id=49307383) - [The End of Mathematics](https://www.daniellitt.com/blog/2026/8/11/the-end-of-mathematics)
 * [2026-08-15, 02:42:14](https://news.ycombinator.com/item?id=49307099) - [AI Driven Testing](https://app.deltix.ai)
 * [2026-08-15, 01:14:05](https://news.ycombinator.com/item?id=49306577) - [Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive)
 * [2026-08-15, 00:55:31](https://news.ycombinator.com/item?id=49306443) - [The Ploopy A+ Trackball Is Here](https://blog.ploopy.co/the-aplus-is-finally-here-499)
