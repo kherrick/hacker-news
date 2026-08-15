@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-08-15](index.md)
 
+* [2026-08-15, 06:01:19](https://news.ycombinator.com/item?id=49308073) - [\"That's not SoC 2 compliant\"](https://ampcode.com/notes/thats-not-soc-2-compliant)
+* [2026-08-15, 05:59:12](https://news.ycombinator.com/item?id=49308059) - [Ask HN: How do you keep up with HN these days?](https://news.ycombinator.com/item?id=49308059)
+* [2026-08-15, 04:42:07](https://news.ycombinator.com/item?id=49307700) - [Show HN: ThoughtDAG – An editable context graph for LLM conversations](https://chenxiachan.github.io/thoughtdag/)
 * [2026-08-15, 04:18:44](https://news.ycombinator.com/item?id=49307592) - [The other Sean Byrne doesn't exist](https://conic.al/writing/the-other-sean-byrne-doesnt-exist/)
 * [2026-08-15, 03:37:00](https://news.ycombinator.com/item?id=49307383) - [The End of Mathematics](https://www.daniellitt.com/blog/2026/8/11/the-end-of-mathematics)
 * [2026-08-15, 02:42:14](https://news.ycombinator.com/item?id=49307099) - [AI Driven Testing](https://app.deltix.ai)
