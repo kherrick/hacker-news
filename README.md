@@ -26,7 +26,7 @@
 * [2026-08-12, 14:19:05](https://news.ycombinator.com/item?id=49272784) - [Unearthing a 31 year old Easter egg in Ecco the Dolphin](https://32bits.substack.com/p/under-the-microscope-ecco-the-dolphin-98c)
 * [2026-08-12, 09:34:38](https://news.ycombinator.com/item?id=49269809) - [Turbo Pascal on CP/M, MSX-DOS and MS-DOS](http://pascal.hansotten.com/delphi/turbo-pascal-on-cpm-msx-dos-and-ms-dos/)
 * [2026-08-11, 19:23:33](https://news.ycombinator.com/item?id=49263186) - [Hi-Fi Tape Recorder Changed Radio Forever](https://spectrum.ieee.org/magnetophon-laugh-track)
-* [2026-08-10, 20:50:36](https://news.ycombinator.com/item?id=49249523) - [Don't classify, hallucinate](https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications)
+* [2026-08-10, 19:19:03](https://news.ycombinator.com/item?id=49248388) - [I close SSH port 22 (and what I use instead)](https://www.michelebologna.net/2026/ssh-port-22-fwknop-single-packet-authorization/)
 * [2026-08-09, 16:26:37](https://news.ycombinator.com/item?id=49232870) - [Show HN: Ember – Redshift safe color palettes](https://github.com/carpdiem/ember)
 * [2026-08-07, 20:16:10](https://news.ycombinator.com/item?id=49215682) - [Super Mario Derivations](https://fzakaria.com/2026/08/05/super-mario-derivations)
 * [2026-08-07, 14:51:09](https://news.ycombinator.com/item?id=49211375) - [Ultraviolet Bird Photography](https://uvbirds.com/)

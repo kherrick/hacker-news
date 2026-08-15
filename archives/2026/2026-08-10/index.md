@@ -18,6 +18,7 @@
 * [2026-08-10, 20:20:06](https://news.ycombinator.com/item?id=49249150) - [Illinois Just Passed a Law That Puts Linux on the Hook for Age Verification](https://linuxstans.com/illinois-hb5511-operating-system-age-verification/)
 * [2026-08-10, 19:54:36](https://news.ycombinator.com/item?id=49248845) - [Show HN: My solar died for 6 months, so I built a watchdog](https://sunranker.com)
 * [2026-08-10, 19:49:35](https://news.ycombinator.com/item?id=49248769) - [The Library of Ashurbanipal](https://www.historytoday.com/archive/feature/library-ashurbanipal)
+* [2026-08-10, 19:19:03](https://news.ycombinator.com/item?id=49248388) - [I close SSH port 22 (and what I use instead)](https://www.michelebologna.net/2026/ssh-port-22-fwknop-single-packet-authorization/)
 * [2026-08-10, 18:22:05](https://news.ycombinator.com/item?id=49247628) - [We're not done with point clouds](https://claytonwramsey.com/blog/mvt/)
 * [2026-08-10, 18:12:49](https://news.ycombinator.com/item?id=49247477) - [Rust SIMD on the GPU](https://www.vectorware.com/blog/simd-on-gpu/)
 * [2026-08-10, 18:11:52](https://news.ycombinator.com/item?id=49247461) - [Security Vulnerability in Pioneer Rekordbox](https://alphatheta.com/en/information/important-notice-security-vulnerability-in-pro-dj-link/)
