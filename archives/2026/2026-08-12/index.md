@@ -20,6 +20,7 @@
 * [2026-08-12, 18:19:59](https://news.ycombinator.com/item?id=49276574) - [Zed: Delta](https://zed.dev/blog/introducing-delta)
 * [2026-08-12, 18:17:03](https://news.ycombinator.com/item?id=49276534) - [Your key to success isn't more luck or hard work](https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/)
 * [2026-08-12, 18:13:45](https://news.ycombinator.com/item?id=49276488) - [Agentic Engineering Is Just Everything We Haven't Been Doing](https://blog.matthewbrunelle.com/agentic-engineering-is-just-everything-we-havent-been-doing/)
+* [2026-08-12, 18:03:13](https://news.ycombinator.com/item?id=49276353) - [A Planet Position Widget](https://leancrew.com/all-this/2026/08/a-planet-position-widget/)
 * [2026-08-12, 17:00:21](https://news.ycombinator.com/item?id=49275465) - [Reflex (YC W23) Is hiring Growth and GTM Roles](https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer)
 * [2026-08-12, 16:54:25](https://news.ycombinator.com/item?id=49275385) - [SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index](https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis)
 * [2026-08-12, 16:51:25](https://news.ycombinator.com/item?id=49275335) - [HTML over WebSockets: real-time SPAs with barely any JavaScript](https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/)

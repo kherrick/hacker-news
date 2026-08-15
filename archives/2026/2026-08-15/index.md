@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2026-08-15](index.md)
 
 * [2026-08-15, 14:08:55](https://news.ycombinator.com/item?id=49310725) - [Secondhand book sales are booming. Is it because of AI?](https://www.bbc.co.uk/news/articles/cp3rprx2wl4o)
+* [2026-08-15, 14:08:40](https://news.ycombinator.com/item?id=49310719) - [Cloudflare's AI Psychosis](https://opensauce.it/cloudflare-ai-psychosis/)
+* [2026-08-15, 13:59:47](https://news.ycombinator.com/item?id=49310623) - [Writergate: Zig I/O Interface Overhaul](https://alexrios.me/blog/writergate/)
 * [2026-08-15, 13:48:43](https://news.ycombinator.com/item?id=49310533) - [Show HN: Quasicrystals Animation Playground with WebXR](https://hypnagogic-quasicrystals.github.io/)
 * [2026-08-15, 13:43:46](https://news.ycombinator.com/item?id=49310495) - [Yadda 3.0.0: BDD in the Age of AI Agents](http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html)
 * [2026-08-15, 13:18:27](https://news.ycombinator.com/item?id=49310291) - [Brazilian election filter in X For You timeline](https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs)
