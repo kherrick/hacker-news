@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-08-15, 22:15:33",
+      "https://news.ycombinator.com/item?id=49314790"
+    ],
+    [
+      "Triple Product Rule of Partial Derivatives",
+      "https://en.wikipedia.org/wiki/Triple_product_rule"
+    ]
+  ],
+  [
+    [
+      "2026-08-15, 22:08:22",
+      "https://news.ycombinator.com/item?id=49314744"
+    ],
+    [
+      "Engineers will do anything to avoid learning from history",
+      "https://horn.gg/blog/engineers-will-do-anything-to-avoid-learning-from-history/"
+    ]
+  ],
+  [
+    [
+      "2026-08-15, 21:49:45",
+      "https://news.ycombinator.com/item?id=49314642"
+    ],
+    [
+      "Modeling and Verification of Keeta's Consensus [pdf]",
+      "https://xescu.re/keeta-consensus.pdf"
+    ]
+  ],
+  [
+    [
       "2026-08-15, 21:45:54",
       "https://news.ycombinator.com/item?id=49314615"
     ],
@@ -17,6 +47,26 @@
     [
       "The Wow signal was a strong narrowband radio signal detected on August 15, 1977",
       "https://en.wikipedia.org/wiki/Wow!_signal"
+    ]
+  ],
+  [
+    [
+      "2026-08-15, 21:42:39",
+      "https://news.ycombinator.com/item?id=49314594"
+    ],
+    [
+      "Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+      "https://github.com/christensen143/claude-trofeo-hud"
+    ]
+  ],
+  [
+    [
+      "2026-08-15, 21:39:09",
+      "https://news.ycombinator.com/item?id=49314579"
+    ],
+    [
+      "Tracking down a Zsh history data loss bug",
+      "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/"
     ]
   ],
   [
@@ -41,12 +91,12 @@
   ],
   [
     [
-      "2026-08-15, 20:18:37",
-      "https://news.ycombinator.com/item?id=49313941"
+      "2026-08-15, 19:20:51",
+      "https://news.ycombinator.com/item?id=49313428"
     ],
     [
-      "Humazon",
-      "https://hughhowey.com/humazon/"
+      "Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter",
+      "https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/"
     ]
   ],
   [
@@ -161,16 +211,6 @@
   ],
   [
     [
-      "2026-08-15, 13:43:46",
-      "https://news.ycombinator.com/item?id=49310495"
-    ],
-    [
-      "Yadda 3.0.0: BDD in the Age of AI Agents",
-      "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html"
-    ]
-  ],
-  [
-    [
       "2026-08-15, 11:00:02",
       "https://news.ycombinator.com/item?id=49309549"
     ],
@@ -191,42 +231,12 @@
   ],
   [
     [
-      "2026-08-15, 07:59:42",
-      "https://news.ycombinator.com/item?id=49308685"
-    ],
-    [
-      "Using GCC's Nested Functions with Wide Pointers and No Trampolines II",
-      "https://uecker.codeberg.page/2026-07-14.html"
-    ]
-  ],
-  [
-    [
-      "2026-08-15, 04:18:44",
-      "https://news.ycombinator.com/item?id=49307592"
-    ],
-    [
-      "The other Sean Byrne doesn't exist",
-      "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/"
-    ]
-  ],
-  [
-    [
       "2026-08-15, 00:36:01",
       "https://news.ycombinator.com/item?id=49306333"
     ],
     [
       "2D Gaussian Splatting for Bézier Spline Line Art Vectorization",
       "https://studios.disneyresearch.com/2026/07/16/2d-gaussian-splatting-for-bezier-spline-line-art-vectorization/"
-    ]
-  ],
-  [
-    [
-      "2026-08-14, 15:00:00",
-      "https://news.ycombinator.com/item?id=49299605"
-    ],
-    [
-      "Qwen 3.8 27B",
-      "https://huggingface.co/Qwen/Qwen3.8-27B-FP8"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum",
       "https://baselashraf81.github.io/eigendrum/"
-    ]
-  ],
-  [
-    [
-      "2026-08-10, 11:02:04",
-      "https://news.ycombinator.com/item?id=49242085"
-    ],
-    [
-      "Möbius strips and differential equations",
-      "https://hidden-phenomena.com/articles/monodromy"
     ]
   ],
   [
