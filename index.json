@@ -1,11 +1,21 @@
 [
   [
     [
+      "2026-08-15, 19:30:32",
+      "https://news.ycombinator.com/item?id=49313519"
+    ],
+    [
+      "Why tech bosses keep sharing their manifestos about AI",
+      "https://www.bbc.com/news/articles/cz97ljy91zxo"
+    ]
+  ],
+  [
+    [
       "2026-08-15, 19:12:53",
       "https://news.ycombinator.com/item?id=49313367"
     ],
     [
-      "So How Is AI Drug Discovery Doing, Really?",
+      "AI in drug discovery — what it is, where we stand and the path forward",
       "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really"
     ]
   ],
@@ -57,26 +67,6 @@
     [
       "BriskDB",
       "https://github.com/schapman1974/briskdb"
-    ]
-  ],
-  [
-    [
-      "2026-08-15, 17:30:02",
-      "https://news.ycombinator.com/item?id=49312465"
-    ],
-    [
-      "TreasuryDirect: Prepare for ID.me – Your New Way to Log In",
-      "https://www.treasurydirect.gov/savings-bonds/idme-one-month/"
-    ]
-  ],
-  [
-    [
-      "2026-08-15, 17:21:26",
-      "https://news.ycombinator.com/item?id=49312413"
-    ],
-    [
-      "Europe's scorched landscapes seen from space after summer heatwaves",
-      "https://www.bbc.com/news/articles/c4gxy0wqqd9o"
     ]
   ],
   [
@@ -161,6 +151,16 @@
   ],
   [
     [
+      "2026-08-15, 12:06:24",
+      "https://news.ycombinator.com/item?id=49309923"
+    ],
+    [
+      "T3X/0 a Minimal Procedural Language",
+      "https://t3x.org/t3x/0/index.html"
+    ]
+  ],
+  [
+    [
       "2026-08-15, 11:00:02",
       "https://news.ycombinator.com/item?id=49309549"
     ],
@@ -211,12 +211,12 @@
   ],
   [
     [
-      "2026-08-14, 20:52:44",
-      "https://news.ycombinator.com/item?id=49304447"
+      "2026-08-14, 15:00:00",
+      "https://news.ycombinator.com/item?id=49299605"
     ],
     [
-      "Going Dark, and the era of law enforcement hacking",
-      "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/"
+      "Qwen 3.8 27B",
+      "https://huggingface.co/Qwen/Qwen3.8-27B-FP8"
     ]
   ],
   [
