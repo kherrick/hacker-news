@@ -6,6 +6,7 @@
 
 * [2026-08-09, 23:36:05](https://news.ycombinator.com/item?id=49237407) - [The Ambition Project](https://www.betonit.ai/p/the-ambition-project)
 * [2026-08-09, 23:22:00](https://news.ycombinator.com/item?id=49237292) - [Anything Could Become a Battleground](https://lareviewofbooks.org/article/perfect-moment-god-sex-art-culture-wars-butler/)
+* [2026-08-09, 23:09:04](https://news.ycombinator.com/item?id=49237183) - [The mathematical beauty of hyperbezier curves](https://linebender.org/blog/hyperbezier/)
 * [2026-08-09, 22:26:52](https://news.ycombinator.com/item?id=49236811) - [Idol Mahjong Final Romance: A Slideshow Disguised as a Video Game](https://nicole.express/2026/more-like-idle-mahjong.html)
 * [2026-08-09, 22:24:24](https://news.ycombinator.com/item?id=49236781) - [Show HN: Lumabri – What if LLMs worked like Napster?](https://github.com/JustVugg/lumabri)
 * [2026-08-09, 22:05:50](https://news.ycombinator.com/item?id=49236596) - [What Garbage Collection Costs](https://shivanshuag.com/blog/what-garbage-collection-actually-costs/)
