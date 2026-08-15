@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-08-11](index.md)
 
 * [2026-08-11, 23:26:17](https://news.ycombinator.com/item?id=49265879) - [US hires over 2k video gamers as air traffic controllers](https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/)
+* [2026-08-11, 23:13:57](https://news.ycombinator.com/item?id=49265761) - [Jaithon 3, a fast programming language with the perfect syntax](https://github.com/abhiramasonny/jaithon)
 * [2026-08-11, 21:56:18](https://news.ycombinator.com/item?id=49265051) - [WorldClaw Agentic 3D open-world generation at scale](https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/)
 * [2026-08-11, 21:54:25](https://news.ycombinator.com/item?id=49265031) - [pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries](https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026)
 * [2026-08-11, 21:28:26](https://news.ycombinator.com/item?id=49264755) - [Suzanne: AI tool for designing and manufacturing physical products](https://www.suzanne3d.com/)
