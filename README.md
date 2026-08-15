@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-08-15, 07:31:46](https://news.ycombinator.com/item?id=49308553) - [Suspecting court of using AI, man injected prompts in filings to try to win case](https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/)
 * [2026-08-15, 04:42:07](https://news.ycombinator.com/item?id=49307700) - [Show HN: ThoughtDAG – An editable context graph for LLM conversations](https://chenxiachan.github.io/thoughtdag/)
 * [2026-08-15, 04:18:44](https://news.ycombinator.com/item?id=49307592) - [The other Sean Byrne doesn't exist](https://conic.al/writing/the-other-sean-byrne-doesnt-exist/)
 * [2026-08-15, 02:42:14](https://news.ycombinator.com/item?id=49307099) - [Show HN: Deltix – AI Driven Testing](https://app.deltix.ai)
@@ -25,6 +24,7 @@
 * [2026-08-12, 19:37:12](https://news.ycombinator.com/item?id=49277535) - [Show HN: Silent Shark – tactical map-based WWII submarine sim](https://silentshark.app/)
 * [2026-08-12, 14:53:02](https://news.ycombinator.com/item?id=49273346) - [Show HN: A website for exploring historical photographs of my city](https://yesterdays.maprva.org/)
 * [2026-08-12, 14:19:05](https://news.ycombinator.com/item?id=49272784) - [Unearthing a 31 year old Easter egg in Ecco the Dolphin](https://32bits.substack.com/p/under-the-microscope-ecco-the-dolphin-98c)
+* [2026-08-12, 12:36:20](https://news.ycombinator.com/item?id=49271442) - [Understanding WCAG 2.2 as ePub and PDF](https://doeken.org/wcag-ebook)
 * [2026-08-12, 12:31:16](https://news.ycombinator.com/item?id=49271382) - [In 1962, Egypt's Missile Program Lost Its Key Scientist Without a Trace](https://www.popularmechanics.com/military/a73358518/nazi-rocket-scientist-disappearance/)
 * [2026-08-12, 09:34:38](https://news.ycombinator.com/item?id=49269809) - [Turbo Pascal on CP/M, MSX-DOS and MS-DOS](http://pascal.hansotten.com/delphi/turbo-pascal-on-cpm-msx-dos-and-ms-dos/)
 * [2026-08-11, 19:23:33](https://news.ycombinator.com/item?id=49263186) - [This Hi-Fi Tape Recorder Changed Radio Forever](https://spectrum.ieee.org/magnetophon-laugh-track)
