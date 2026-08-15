@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-08-15, 20:54:11](https://news.ycombinator.com/item?id=49314235) - [Cultivating a state of mind where new ideas are born](https://www.henrikkarlsson.xyz/p/good-ideas)
-* [2026-08-15, 19:26:33](https://news.ycombinator.com/item?id=49313477) - [Israeli PR wants to answer your ChatGPT questions](https://www.politico.com/newsletters/politico-influence/2026/08/14/israeli-pr-wants-to-answer-your-chatgpt-questions-01038138)
+* [2026-08-15, 21:14:34](https://news.ycombinator.com/item?id=49314403) - [Abdominal Fat Predicts Heart Disease Risk Better Than BMI](https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi)
+* [2026-08-15, 20:54:11](https://news.ycombinator.com/item?id=49314235) - [Cultivating a state of mind where new ideas are born (2023)](https://www.henrikkarlsson.xyz/p/good-ideas)
 * [2026-08-15, 19:12:53](https://news.ycombinator.com/item?id=49313367) - [AI in drug discovery — what it is, where we stand and the path forward](https://www.nature.com/articles/s41573-026-01496-2)
 * [2026-08-15, 18:34:26](https://news.ycombinator.com/item?id=49313068) - [Tess's Android Wayland Compositor](https://github.com/wmww/tawc)
 * [2026-08-15, 18:33:25](https://news.ycombinator.com/item?id=49313047) - [Voltair (YC W26) Is Hiring a Test Flight Engineer](https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer)
