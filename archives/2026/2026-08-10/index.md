@@ -69,6 +69,7 @@
 * [2026-08-10, 11:32:55](https://news.ycombinator.com/item?id=49242287) - [How do you sell a CPU design when the instruction set is free?](https://www.siliconimist.com/p/credibility-is-the-barrier-to-entry)
 * [2026-08-10, 11:27:47](https://news.ycombinator.com/item?id=49242245) - [Because It's Not Fun Enough: why languages fail](https://bytecode.news/posts/2026/08/because-it-s-not-fun-enough)
 * [2026-08-10, 11:22:34](https://news.ycombinator.com/item?id=49242213) - [A 'bananas' order for 5000 obscure book titles fuels suspicion](https://www.irishtimes.com/world/europe/2026/08/10/a-mysterious-buying-spree-is-unsettling-europes-booksellers/)
+* [2026-08-10, 11:02:04](https://news.ycombinator.com/item?id=49242085) - [Möbius Strips and Differential Equations](https://hidden-phenomena.com/articles/monodromy)
 * [2026-08-10, 10:29:14](https://news.ycombinator.com/item?id=49241846) - [Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes](https://ethw.org/Milestones:Parametron,_1954)
 * [2026-08-10, 10:15:55](https://news.ycombinator.com/item?id=49241728) - [The Future Is for Everyone – The Path to a Positive AI Future](https://www.meta.com/thefutureisforeveryone/)
 * [2026-08-10, 10:10:02](https://news.ycombinator.com/item?id=49241679) - [Meta Muse Glimmer – open weights 30B local coding model](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model)

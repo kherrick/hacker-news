@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-08-15](index.md)
 
+* [2026-08-15, 13:18:27](https://news.ycombinator.com/item?id=49310291) - [Brazilian election filter in X For You timeline](https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs)
+* [2026-08-15, 13:15:48](https://news.ycombinator.com/item?id=49310277) - [388 years ago, Galileo worked out why human giants can't exist](https://www.scientificamerican.com/article/388-years-ago-galileo-worked-out-why-human-giants-cant-exist-and-explained-a-law-of-nature/)
+* [2026-08-15, 13:09:28](https://news.ycombinator.com/item?id=49310248) - [Brain turns listening inward during REM sleep, EEG recordings suggest](https://medicalxpress.com/news/2026-07-brain-rem-eeg.html)
+* [2026-08-15, 12:56:56](https://news.ycombinator.com/item?id=49310177) - [GenRec: Towards LLM-Native Recommendation at Netflix](https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3)
+* [2026-08-15, 12:54:43](https://news.ycombinator.com/item?id=49310170) - [Strait of Hormuz Live Traffic Tracking](https://hormuz.now/)
 * [2026-08-15, 11:00:02](https://news.ycombinator.com/item?id=49309549) - [Auto-research with codex: How I achieved a 232x Faster Kernel](https://sankalp.bearblog.dev/autoresearch/)
 * [2026-08-15, 10:39:41](https://news.ycombinator.com/item?id=49309451) - [Working with AI Feels More Like Leadership Than Coding](https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/)
 * [2026-08-15, 09:20:07](https://news.ycombinator.com/item?id=49309050) - [Debian has begun voting on the future of AI/LLM contributions](https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html)
