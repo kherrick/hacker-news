@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-15, 09:20:07](https://news.ycombinator.com/item?id=49309050) - [Debian has begun voting on the future of AI/LLM contributions](https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html)
 * [2026-08-15, 07:59:42](https://news.ycombinator.com/item?id=49308685) - [Using GCC's Nested Functions with Wide Pointers and No Trampolines II](https://uecker.codeberg.page/2026-07-14.html)
 * [2026-08-15, 07:31:46](https://news.ycombinator.com/item?id=49308553) - [Suspecting court of using AI, man injected prompts in filings to try to win case](https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/)
 * [2026-08-15, 04:42:07](https://news.ycombinator.com/item?id=49307700) - [Show HN: ThoughtDAG – An editable context graph for LLM conversations](https://chenxiachan.github.io/thoughtdag/)
 * [2026-08-15, 04:18:44](https://news.ycombinator.com/item?id=49307592) - [The other Sean Byrne doesn't exist](https://conic.al/writing/the-other-sean-byrne-doesnt-exist/)
 * [2026-08-15, 01:14:05](https://news.ycombinator.com/item?id=49306577) - [Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive)
-* [2026-08-15, 00:55:31](https://news.ycombinator.com/item?id=49306443) - [The Ploopy A+ Trackball Is Here](https://blog.ploopy.co/the-aplus-is-finally-here-499)
 * [2026-08-15, 00:15:23](https://news.ycombinator.com/item?id=49306196) - [Simplifying and Refactoring Introductory Calculus (2018)](https://arxiv.org/abs/1811.03459)
 * [2026-08-14, 22:15:12](https://news.ycombinator.com/item?id=49305250) - [eigendrum](https://eigendrum.com/#p=circle)
 * [2026-08-14, 20:52:44](https://news.ycombinator.com/item?id=49304447) - [Going Dark, and the era of law enforcement hacking](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/)

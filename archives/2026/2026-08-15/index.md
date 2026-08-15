@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-15](index.md)
 
+* [2026-08-15, 09:20:07](https://news.ycombinator.com/item?id=49309050) - [Debian has begun voting on the future of AI/LLM contributions](https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html)
 * [2026-08-15, 07:59:42](https://news.ycombinator.com/item?id=49308685) - [Using GCC's Nested Functions with Wide Pointers and No Trampolines II](https://uecker.codeberg.page/2026-07-14.html)
 * [2026-08-15, 07:31:46](https://news.ycombinator.com/item?id=49308553) - [Suspecting court of using AI, man injected prompts in filings to try to win case](https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/)
 * [2026-08-15, 06:01:19](https://news.ycombinator.com/item?id=49308073) - [\"That's not SoC 2 compliant\"](https://ampcode.com/notes/thats-not-soc-2-compliant)
