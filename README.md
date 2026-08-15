@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-08-15, 06:01:19](https://news.ycombinator.com/item?id=49308073) - [\"That's not SOC 2 compliant\"](https://ampcode.com/notes/thats-not-soc-2-compliant)
 * [2026-08-15, 04:42:07](https://news.ycombinator.com/item?id=49307700) - [Show HN: ThoughtDAG – An editable context graph for LLM conversations](https://chenxiachan.github.io/thoughtdag/)
 * [2026-08-15, 04:18:44](https://news.ycombinator.com/item?id=49307592) - [The other Sean Byrne doesn't exist](https://conic.al/writing/the-other-sean-byrne-doesnt-exist/)
 * [2026-08-15, 02:42:14](https://news.ycombinator.com/item?id=49307099) - [Show HN: Deltix – AI Driven Testing](https://app.deltix.ai)
@@ -10,6 +9,7 @@
 * [2026-08-14, 22:15:12](https://news.ycombinator.com/item?id=49305250) - [eigendrum](https://eigendrum.com/#p=circle)
 * [2026-08-14, 20:52:44](https://news.ycombinator.com/item?id=49304447) - [Going Dark, and the era of law enforcement hacking](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/)
 * [2026-08-14, 19:03:20](https://news.ycombinator.com/item?id=49303202) - [Firefox is now the last major browser that still supports uBlock Origin](https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html)
+* [2026-08-14, 18:52:48](https://news.ycombinator.com/item?id=49303046) - [Show HN: Mole – Deep research agent for your terminal](https://github.com/lajosdeme/mole)
 * [2026-08-14, 18:14:48](https://news.ycombinator.com/item?id=49302562) - [Racket v9.3](https://blog.racket-lang.org/2026/08/racket-v9-3.html)
 * [2026-08-14, 16:15:21](https://news.ycombinator.com/item?id=49300800) - [Maximizing the value of your Claude Code sessions](https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions)
 * [2026-08-14, 16:12:52](https://news.ycombinator.com/item?id=49300759) - [RustDesk now supports true unattended remote access on Wayland](https://rustdesk.com/blog/unattended-remote-access-wayland/)
