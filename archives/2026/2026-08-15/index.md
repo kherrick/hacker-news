@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-08-15](index.md)
 
 * [2026-08-15, 14:29:50](https://news.ycombinator.com/item?id=49310884) - [Gen Z has rediscovered the joy of going to the movies](https://www.economist.com/culture/2026/08/11/gen-z-has-rediscovered-the-joy-of-going-to-the-movies)
+* [2026-08-15, 14:12:27](https://news.ycombinator.com/item?id=49310755) - [The AI Situation in Software Development](https://srikanth.ch/posts/the-ai-situation/)
 * [2026-08-15, 14:08:55](https://news.ycombinator.com/item?id=49310725) - [Secondhand book sales are booming. Is it because of AI?](https://www.bbc.co.uk/news/articles/cp3rprx2wl4o)
 * [2026-08-15, 14:08:40](https://news.ycombinator.com/item?id=49310719) - [Cloudflare's AI Psychosis](https://opensauce.it/cloudflare-ai-psychosis/)
 * [2026-08-15, 14:04:49](https://news.ycombinator.com/item?id=49310682) - [The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis](https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/)
@@ -35,5 +36,6 @@
 * [2026-08-15, 01:14:05](https://news.ycombinator.com/item?id=49306577) - [Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive)
 * [2026-08-15, 00:55:31](https://news.ycombinator.com/item?id=49306443) - [The Ploopy A+ Trackball Is Here](https://blog.ploopy.co/the-aplus-is-finally-here-499)
 * [2026-08-15, 00:54:01](https://news.ycombinator.com/item?id=49306432) - [NSA and IETF, Part 9](https://blog.cr.yp.to/20260814-update.html)
+* [2026-08-15, 00:36:01](https://news.ycombinator.com/item?id=49306333) - [2D Gaussian Splatting for Bézier Spline Line Art Vectorization](https://studios.disneyresearch.com/2026/07/16/2d-gaussian-splatting-for-bezier-spline-line-art-vectorization/)
 * [2026-08-15, 00:15:23](https://news.ycombinator.com/item?id=49306196) - [Simplifying and Refactoring Introductory Calculus](https://arxiv.org/abs/1811.03459)
 * [2026-08-15, 00:00:55](https://news.ycombinator.com/item?id=49306080) - [Corgi kills short-lived website that ranked its female employees](https://sf.gazetteer.co/corgi-kills-short-lived-website-that-ranked-its-female-employees)

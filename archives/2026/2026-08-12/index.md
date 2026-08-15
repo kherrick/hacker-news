@@ -47,6 +47,7 @@
 * [2026-08-12, 14:02:46](https://news.ycombinator.com/item?id=49272569) - [Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot](https://knownagents.com/insights)
 * [2026-08-12, 14:00:54](https://news.ycombinator.com/item?id=49272549) - [Why Tiny JPEGs Look Different in Chrome](https://guillaumetech.github.io/posts/jpg-scaling-chrome/)
 * [2026-08-12, 13:56:05](https://news.ycombinator.com/item?id=49272484) - [My Agent Setup](https://chad.cm/posts/2026-8-11-my-agent-setup)
+* [2026-08-12, 13:45:12](https://news.ycombinator.com/item?id=49272341) - [When Bridges Go Haywire](https://controlsystemssecurity.com/posts/when-the-bridge-goes-haywire.html)
 * [2026-08-12, 13:44:01](https://news.ycombinator.com/item?id=49272326) - [Only 2.6% of the most visited websites have fully valid HTML](https://validatehtml.com/html-error-statistics)
 * [2026-08-12, 13:41:12](https://news.ycombinator.com/item?id=49272282) - [Automatic1111 for Apple metal, 40% speed up sd1.5](https://therad.ninja/from-8-10-seconds-to-3-7-teaching-automatic1111-to-speak-metal-on-an-m3-pro/)
 * [2026-08-12, 13:39:10](https://news.ycombinator.com/item?id=49272252) - [Show HN: Meteor shower, planet alignment, eclipse kit](https://lifesprites.com/share/0ACA25)
