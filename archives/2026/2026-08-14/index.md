@@ -58,6 +58,7 @@
 * [2026-08-14, 13:18:53](https://news.ycombinator.com/item?id=49298303) - [France's tax authority had data stolen on 680k taxpayers](https://korben.info/en/france-tax-authority-data-breach-680000-taxpayers.html)
 * [2026-08-14, 13:10:12](https://news.ycombinator.com/item?id=49298211) - [Cursor is now a part of SpaceX](https://cursor.com/blog/joining-spacex)
 * [2026-08-14, 12:57:02](https://news.ycombinator.com/item?id=49298088) - [HashAgent – Share an AI agent as a URL, runs locally via WebGPU](https://hashagent.pages.dev/)
+* [2026-08-14, 12:50:56](https://news.ycombinator.com/item?id=49298035) - [RISC-V: They Should Have Known Better](https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV)
 * [2026-08-14, 12:45:37](https://news.ycombinator.com/item?id=49297996) - [Show HN: We Implemented the IPv8 Internet-Draft in Linux, Libc, and BGP](https://goonhost.rocks/blog/implementing-ipv8-internet-draft)
 * [2026-08-14, 12:23:22](https://news.ycombinator.com/item?id=49297801) - [Dear people who work at the airport](https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/)
 * [2026-08-14, 12:00:51](https://news.ycombinator.com/item?id=49297637) - [The TEMU-Fication of Software, Digital Goods and Services](https://xn--gckvb8fzb.com/the-temu-fication-of-software-digital-goods-services/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-15](index.md)
 
+* [2026-08-15, 15:32:25](https://news.ycombinator.com/item?id=49311445) - [AI Can Now Design Functional Viruses. Should We Worry?](https://spectrum.ieee.org/ai-designed-virus)
 * [2026-08-15, 14:29:50](https://news.ycombinator.com/item?id=49310884) - [Gen Z has rediscovered the joy of going to the movies](https://www.economist.com/culture/2026/08/11/gen-z-has-rediscovered-the-joy-of-going-to-the-movies)
 * [2026-08-15, 14:12:27](https://news.ycombinator.com/item?id=49310755) - [The AI Situation in Software Development](https://srikanth.ch/posts/the-ai-situation/)
 * [2026-08-15, 14:08:55](https://news.ycombinator.com/item?id=49310725) - [Secondhand book sales are booming. Is it because of AI?](https://www.bbc.co.uk/news/articles/cp3rprx2wl4o)
