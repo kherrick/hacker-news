@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-08-15](index.md)
 
+* [2026-08-15, 20:54:11](https://news.ycombinator.com/item?id=49314235) - [Cultivating a state of mind where new ideas are born](https://www.henrikkarlsson.xyz/p/good-ideas)
 * [2026-08-15, 19:30:32](https://news.ycombinator.com/item?id=49313519) - [Why tech bosses keep sharing their manifestos about AI](https://www.bbc.com/news/articles/cz97ljy91zxo)
+* [2026-08-15, 19:26:33](https://news.ycombinator.com/item?id=49313477) - [Israeli PR wants to answer your ChatGPT questions](https://www.politico.com/newsletters/politico-influence/2026/08/14/israeli-pr-wants-to-answer-your-chatgpt-questions-01038138)
 * [2026-08-15, 19:13:50](https://news.ycombinator.com/item?id=49313371) - [Job Recession in Higher Education](https://gadlevanon.substack.com/p/job-recession-in-higher-education)
 * [2026-08-15, 19:12:53](https://news.ycombinator.com/item?id=49313367) - [So How Is AI Drug Discovery Doing, Really?](https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really)
 * [2026-08-15, 19:12:53](https://news.ycombinator.com/item?id=49313367) - [AI in drug discovery — what it is, where we stand and the path forward](https://www.nature.com/articles/s41573-026-01496-2)
 * [2026-08-15, 18:37:09](https://news.ycombinator.com/item?id=49313097) - [First human trials of designer protein therapies stun US neuroscientists](https://cen.acs.org/biological-chemistry/biotechnology/human-trial-chemogenetic-brain-therapy/104/web/2026/08)
+* [2026-08-15, 18:34:26](https://news.ycombinator.com/item?id=49313068) - [Tess's Android Wayland Compositor](https://github.com/wmww/tawc)
 * [2026-08-15, 18:33:25](https://news.ycombinator.com/item?id=49313047) - [Voltair (YC W26) Is Hiring a Test Flight Engineer](https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer)
 * [2026-08-15, 18:13:02](https://news.ycombinator.com/item?id=49312845) - [AI Isn't Outthinking Mathematicians. It's Out-Remembering Them](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
 * [2026-08-15, 18:09:42](https://news.ycombinator.com/item?id=49312823) - [Thunderbird's Desktop Calendar Visual Redesign](https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/)

@@ -20,6 +20,7 @@
 * [2026-08-10, 19:49:35](https://news.ycombinator.com/item?id=49248769) - [The Library of Ashurbanipal](https://www.historytoday.com/archive/feature/library-ashurbanipal)
 * [2026-08-10, 19:19:03](https://news.ycombinator.com/item?id=49248388) - [I close SSH port 22 (and what I use instead)](https://www.michelebologna.net/2026/ssh-port-22-fwknop-single-packet-authorization/)
 * [2026-08-10, 18:22:05](https://news.ycombinator.com/item?id=49247628) - [We're not done with point clouds](https://claytonwramsey.com/blog/mvt/)
+* [2026-08-10, 18:14:13](https://news.ycombinator.com/item?id=49247495) - [Geek Fighter – 2d fighter game](https://geek-fighter.vercel.app/)
 * [2026-08-10, 18:12:49](https://news.ycombinator.com/item?id=49247477) - [Rust SIMD on the GPU](https://www.vectorware.com/blog/simd-on-gpu/)
 * [2026-08-10, 18:11:52](https://news.ycombinator.com/item?id=49247461) - [Security Vulnerability in Pioneer Rekordbox](https://alphatheta.com/en/information/important-notice-security-vulnerability-in-pro-dj-link/)
 * [2026-08-10, 17:41:13](https://news.ycombinator.com/item?id=49247070) - [Learning more about Claude's mathematical capabilities](https://www.anthropic.com/research/riemann-zeta)
