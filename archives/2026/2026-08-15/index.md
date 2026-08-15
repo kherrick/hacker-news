@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-15](index.md)
 
+* [2026-08-15, 22:40:20](https://news.ycombinator.com/item?id=49314962) - [The Government Is Monitoring Anti-Flock TikTok and Instagram Accounts](https://www.404media.co/the-government-is-monitoring-anti-flock-tiktok-and-instagram-accounts/)
 * [2026-08-15, 22:15:33](https://news.ycombinator.com/item?id=49314790) - [Triple Product Rule of Partial Derivatives](https://en.wikipedia.org/wiki/Triple_product_rule)
 * [2026-08-15, 22:08:22](https://news.ycombinator.com/item?id=49314744) - [Engineers will do anything to avoid learning from history](https://horn.gg/blog/engineers-will-do-anything-to-avoid-learning-from-history/)
 * [2026-08-15, 21:49:45](https://news.ycombinator.com/item?id=49314642) - [Modeling and Verification of Keeta's Consensus [pdf]](https://xescu.re/keeta-consensus.pdf)
