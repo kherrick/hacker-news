@@ -38,6 +38,7 @@
 * [2026-08-12, 14:43:45](https://news.ycombinator.com/item?id=49273175) - [Hax – a minimalist, terminal-native coding agent written in C](https://usehax.dev/)
 * [2026-08-12, 14:43:39](https://news.ycombinator.com/item?id=49273165) - [License Plate Reader Searches Should Require a Warrant](https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/)
 * [2026-08-12, 14:22:30](https://news.ycombinator.com/item?id=49272832) - [Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug](https://tailscale.com/blog/sqlite-wal-reset-bug)
+* [2026-08-12, 14:19:05](https://news.ycombinator.com/item?id=49272784) - [Unearthing a 31 year old Easter egg in Ecco the Dolphin](https://32bits.substack.com/p/under-the-microscope-ecco-the-dolphin-98c)
 * [2026-08-12, 14:09:11](https://news.ycombinator.com/item?id=49272655) - [Obituary: AmigaDOS developer Dr. Tim King has passed away](https://amiga-news.de/en/news/AN-2026-08-00070-EN.html)
 * [2026-08-12, 14:06:03](https://news.ycombinator.com/item?id=49272620) - [German advocacy group lodges criminal complaint over Meta AI glasses](https://www.reuters.com/legal/government/german-advocacy-group-lodges-criminal-complaint-over-meta-ai-glasses-2026-08-12/)
 * [2026-08-12, 14:02:46](https://news.ycombinator.com/item?id=49272569) - [Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot](https://knownagents.com/insights)
