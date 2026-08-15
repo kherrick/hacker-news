@@ -6,6 +6,7 @@
 
 * [2026-08-15, 18:33:25](https://news.ycombinator.com/item?id=49313047) - [Voltair (YC W26) Is Hiring a Test Flight Engineer](https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer)
 * [2026-08-15, 18:13:02](https://news.ycombinator.com/item?id=49312845) - [AI Isn't Outthinking Mathematicians. It's Out-Remembering Them](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
+* [2026-08-15, 18:09:42](https://news.ycombinator.com/item?id=49312823) - [Thunderbird's Desktop Calendar Visual Redesign](https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/)
 * [2026-08-15, 17:30:02](https://news.ycombinator.com/item?id=49312465) - [TreasuryDirect: Prepare for ID.me – Your New Way to Log In](https://www.treasurydirect.gov/savings-bonds/idme-one-month/)
 * [2026-08-15, 17:21:26](https://news.ycombinator.com/item?id=49312413) - [Europe's scorched landscapes seen from space after summer heatwaves](https://www.bbc.com/news/articles/c4gxy0wqqd9o)
 * [2026-08-15, 16:53:47](https://news.ycombinator.com/item?id=49312165) - [The Dutch Community Where People Live on Strips of Land in a Lake](https://www.core77.com/posts/144869)

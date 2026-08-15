@@ -2,6 +2,7 @@
 
 * [2026-08-15, 18:33:25](https://news.ycombinator.com/item?id=49313047) - [Voltair (YC W26) Is Hiring a Test Flight Engineer](https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer)
 * [2026-08-15, 18:13:02](https://news.ycombinator.com/item?id=49312845) - [AI Isn't Outthinking Mathematicians. It's Out-Remembering Them](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
+* [2026-08-15, 18:09:42](https://news.ycombinator.com/item?id=49312823) - [Thunderbird's Desktop Calendar Visual Redesign](https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/)
 * [2026-08-15, 17:30:02](https://news.ycombinator.com/item?id=49312465) - [TreasuryDirect: Prepare for ID.me – Your New Way to Log In](https://www.treasurydirect.gov/savings-bonds/idme-one-month/)
 * [2026-08-15, 17:21:26](https://news.ycombinator.com/item?id=49312413) - [Europe's scorched landscapes seen from space after summer heatwaves](https://www.bbc.com/news/articles/c4gxy0wqqd9o)
 * [2026-08-15, 16:53:47](https://news.ycombinator.com/item?id=49312165) - [The Dutch Community Where People Live on Strips of Land in a Lake](https://www.core77.com/posts/144869)
@@ -12,7 +13,6 @@
 * [2026-08-15, 14:04:49](https://news.ycombinator.com/item?id=49310682) - [The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis](https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/)
 * [2026-08-15, 13:43:46](https://news.ycombinator.com/item?id=49310495) - [Yadda 3.0.0: BDD in the Age of AI Agents](http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html)
 * [2026-08-15, 13:26:28](https://news.ycombinator.com/item?id=49310362) - [Could a computer scientist build a brain?](https://stankerstjens.github.io/could-a-computer-scientist-build-a-brain/)
-* [2026-08-15, 12:47:52](https://news.ycombinator.com/item?id=49310128) - [Xorshift Generators](https://www.alanzucconi.com/2026/08/15/xorshift-generators/)
 * [2026-08-15, 12:06:24](https://news.ycombinator.com/item?id=49309923) - [T3X/0 a Minimal Procedural Language](https://t3x.org/t3x/0/index.html)
 * [2026-08-15, 11:00:02](https://news.ycombinator.com/item?id=49309549) - [Auto-research with codex: How I achieved a 232x Faster Kernel](https://sankalp.bearblog.dev/autoresearch/)
 * [2026-08-15, 10:39:41](https://news.ycombinator.com/item?id=49309451) - [Working with AI Feels More Like Leadership Than Coding](https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/)
@@ -20,7 +20,6 @@
 * [2026-08-15, 04:18:44](https://news.ycombinator.com/item?id=49307592) - [The other Sean Byrne doesn't exist](https://conic.al/writing/the-other-sean-byrne-doesnt-exist/)
 * [2026-08-15, 00:36:01](https://news.ycombinator.com/item?id=49306333) - [2D Gaussian Splatting for Bézier Spline Line Art Vectorization](https://studios.disneyresearch.com/2026/07/16/2d-gaussian-splatting-for-bezier-spline-line-art-vectorization/)
 * [2026-08-14, 20:52:44](https://news.ycombinator.com/item?id=49304447) - [Going Dark, and the era of law enforcement hacking](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/)
-* [2026-08-14, 19:03:20](https://news.ycombinator.com/item?id=49303202) - [Firefox is now the last major browser that still supports uBlock Origin](https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html)
 * [2026-08-14, 15:43:10](https://news.ycombinator.com/item?id=49300314) - [Google is making private AI practical with homomorphic encryption](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
 * [2026-08-14, 15:00:00](https://news.ycombinator.com/item?id=49299605) - [Qwen 3.8 27B](https://huggingface.co/Qwen/Qwen3.8-27B-FP8)
 * [2026-08-14, 12:50:56](https://news.ycombinator.com/item?id=49298035) - [RISC-V: They Should Have Known Better](https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV)
@@ -29,6 +28,7 @@
 * [2026-08-11, 16:18:53](https://news.ycombinator.com/item?id=49260582) - [The Color of White Light](https://ludens.cl/photo/spectra/spectra.html)
 * [2026-08-10, 16:53:31](https://news.ycombinator.com/item?id=49246366) - [Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum](https://baselashraf81.github.io/eigendrum/)
 * [2026-08-10, 11:02:04](https://news.ycombinator.com/item?id=49242085) - [Möbius Strips and Differential Equations](https://hidden-phenomena.com/articles/monodromy)
+* [2026-08-10, 09:52:19](https://news.ycombinator.com/item?id=49241551) - [Robot Videos: Heavy Lift Cargo Drones, Grippers, More](https://spectrum.ieee.org/video-friday-heavy-lift-drone)
 * [2026-08-09, 23:09:04](https://news.ycombinator.com/item?id=49237183) - [The mathematical beauty of hyperbezier curves](https://linebender.org/blog/hyperbezier/)
 
 ## [Archives](archives/index.md)

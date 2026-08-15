@@ -74,6 +74,7 @@
 * [2026-08-10, 10:29:14](https://news.ycombinator.com/item?id=49241846) - [Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes](https://ethw.org/Milestones:Parametron,_1954)
 * [2026-08-10, 10:15:55](https://news.ycombinator.com/item?id=49241728) - [The Future Is for Everyone – The Path to a Positive AI Future](https://www.meta.com/thefutureisforeveryone/)
 * [2026-08-10, 10:10:02](https://news.ycombinator.com/item?id=49241679) - [Meta Muse Glimmer – open weights 30B local coding model](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model)
+* [2026-08-10, 09:52:19](https://news.ycombinator.com/item?id=49241551) - [Robot Videos: Heavy Lift Cargo Drones, Grippers, More](https://spectrum.ieee.org/video-friday-heavy-lift-drone)
 * [2026-08-10, 08:01:52](https://news.ycombinator.com/item?id=49240708) - [ICTP Announces 2026 Dirac Medal Recipients (Physics)](https://www.ictp.it/news/2026/8/ictp-announces-2026-dirac-medal-recipients)
 * [2026-08-10, 07:49:09](https://news.ycombinator.com/item?id=49240615) - [An ambiguity in c89 which will never be fixed](https://sebsite.pw/w/20260810-c89ambiguity.html)
 * [2026-08-10, 06:02:38](https://news.ycombinator.com/item?id=49239751) - [Docker Sandboxes – Disposable, isolated sandboxes for AI agents](https://www.docker.com/products/docker-sandboxes/)
