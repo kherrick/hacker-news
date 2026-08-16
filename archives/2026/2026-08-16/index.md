@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-08-16](index.md)
 
+* [2026-08-16, 13:30:27](https://news.ycombinator.com/item?id=49319892) - [Tasklet (YC P26) Is Hiring a Head of Design Engineering](https://tasklet.ai/careers/head-of-design-engineering)
 * [2026-08-16, 13:12:04](https://news.ycombinator.com/item?id=49319740) - [How a Sony Veteran Is Overhauling the Company He Grew Up In](https://www.wsj.com/business/media/sony-ceo-hiroki-totoki-efc8923f)
 * [2026-08-16, 13:07:34](https://news.ycombinator.com/item?id=49319712) - [I built my own root DNS so I could stop renting names](https://anthony.dev.profullstack.com/blog/013-post.html)
+* [2026-08-16, 12:58:10](https://news.ycombinator.com/item?id=49319633) - [Firefox for iOS now has a native adblocker](https://support.mozilla.org/en-US/kb/block-ads-firefox-ios)
 * [2026-08-16, 12:51:58](https://news.ycombinator.com/item?id=49319582) - [Is the industry ready for tokens-constrained work?](https://blog.alaindichiappari.dev/p/what-to-do-when-tokens-run-out)
 * [2026-08-16, 12:50:31](https://news.ycombinator.com/item?id=49319573) - [Banned Words List](https://pen.org/banned-words-list/)
+* [2026-08-16, 12:49:56](https://news.ycombinator.com/item?id=49319566) - [US oil reserves are so low, the caverns holding them could be damaged](https://www.independent.co.uk/news/world/americas/us-politics/strategic-petroleum-reserve-trump-iran-war-gas-prices-b3033680.html)
 * [2026-08-16, 12:48:21](https://news.ycombinator.com/item?id=49319556) - [Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts)
 * [2026-08-16, 12:22:20](https://news.ycombinator.com/item?id=49319389) - [Research papers using \"kidney disappointment\" instead of \"kidney failure\"](https://scholar.google.com/scholar?q=%22kidney+disappointment%22)
 * [2026-08-16, 12:00:23](https://news.ycombinator.com/item?id=49319215) - [Gooseworks (YC W23) Is Hiring a Founding Builder / Engineer](https://www.ycombinator.com/companies/gooseworks/jobs/UJ4vH2F-founding-engineer)
