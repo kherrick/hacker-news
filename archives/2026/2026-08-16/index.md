@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-16](index.md)
 
+* [2026-08-16, 21:53:43](https://news.ycombinator.com/item?id=49324087) - [Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing](https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing)
+* [2026-08-16, 21:52:59](https://news.ycombinator.com/item?id=49324078) - [Claude Seems Down](https://news.ycombinator.com/item?id=49324078)
 * [2026-08-16, 21:51:25](https://news.ycombinator.com/item?id=49324068) - [Claude Auth Is Down](https://claude.ai/new)
 * [2026-08-16, 21:07:10](https://news.ycombinator.com/item?id=49323686) - [Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee](https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/)
 * [2026-08-16, 21:00:25](https://news.ycombinator.com/item?id=49323620) - [Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast](https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15/)
