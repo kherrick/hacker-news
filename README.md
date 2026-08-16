@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-16, 11:05:47](https://news.ycombinator.com/item?id=49318906) - [Ask HN: Do you know of any company that went back to hand-written code?](https://news.ycombinator.com/item?id=49318906)
 * [2026-08-16, 08:40:50](https://news.ycombinator.com/item?id=49318128) - [Show HN: Grafana agent observability for Hermes Agent](https://github.com/alexander-akhmetov/grafana-agento11y-hermes)
 * [2026-08-16, 07:37:53](https://news.ycombinator.com/item?id=49317760) - [What happens when an LLM never sees material beyond fifth grade?](https://littlelearner-ll.github.io/)
 * [2026-08-16, 04:19:32](https://news.ycombinator.com/item?id=49316872) - [Falstad Math and Physics Simulations](https://www.falstad.com/mathphysics.html)
@@ -27,7 +28,6 @@
 * [2026-08-12, 10:35:20](https://news.ycombinator.com/item?id=49270279) - [Impulse Tracker](https://ovidem.com/impulsetracker/)
 * [2026-08-12, 08:44:23](https://news.ycombinator.com/item?id=49269451) - [Numba in the Browser: Unlocking a New Scientific Python Stack in JupyterLite](https://notebook.link/blog/numba-in-the-browser/)
 * [2026-08-12, 06:33:12](https://news.ycombinator.com/item?id=49268580) - [Asus Bike Booster](https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/)
-* [2026-08-11, 17:16:38](https://news.ycombinator.com/item?id=49261421) - [An image can overflow](https://master.dev/blog/something-nobody-told-you-about-the-image-element-it-can-overflow/)
 * [2026-08-10, 15:20:25](https://news.ycombinator.com/item?id=49244872) - [A fortuitous decade as an indie software developer](https://lapcatsoftware.com/articles/2026/8/3.html)
 * [2026-08-10, 13:01:18](https://news.ycombinator.com/item?id=49243061) - [Asynchronous I/O in DuckDB: Work, Thread, Work](https://duckdb.org/2026/07/31/asynchronous-io)
 
