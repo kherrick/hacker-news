@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-16, 19:04:26](https://news.ycombinator.com/item?id=49322695) - [Models Are Getting Dumber on Purpose](https://w4g1.dev/blog/models-are-getting-dumber-on-purpose)
 * [2026-08-16, 18:48:27](https://news.ycombinator.com/item?id=49322573) - [Protobuf has LSP support. You're welcome](https://buf.build/blog/protobuf-lsp)
 * [2026-08-16, 18:17:10](https://news.ycombinator.com/item?id=49322330) - [MathCode, Mathematical Coding Agent](https://math-ai-org.github.io/mathcode/)
 * [2026-08-16, 17:49:46](https://news.ycombinator.com/item?id=49322107) - [Tell HN: Cloudflare silently injects its analytics when you switch nameservers](https://news.ycombinator.com/item?id=49322107)
@@ -17,7 +18,6 @@
 * [2026-08-16, 12:16:21](https://news.ycombinator.com/item?id=49319349) - [A True Telnet BBS on a Casio Calculator](https://ei3lh.eu/2026/08/16/a-true-telnet-bbs-on-a-casio-calculator/)
 * [2026-08-15, 20:54:11](https://news.ycombinator.com/item?id=49314235) - [Cultivating a state of mind where new ideas are born (2023)](https://www.henrikkarlsson.xyz/p/good-ideas)
 * [2026-08-15, 20:15:51](https://news.ycombinator.com/item?id=49313920) - [Plastic mechanical computer from 1963: The Digi-Comp 1 [video]](https://www.youtube.com/watch?v=-y8bGBE71yw)
-* [2026-08-15, 19:20:51](https://news.ycombinator.com/item?id=49313428) - [Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter](https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/)
 * [2026-08-14, 23:53:43](https://news.ycombinator.com/item?id=49306021) - [Anton Chekhov played at love most of his life](https://commonreader.wustl.edu/winning-and-losing-at-the-great-game-of-intimacy/)
 * [2026-08-13, 22:01:04](https://news.ycombinator.com/item?id=49292385) - [Chestnut – eGPU dock with open-source firmware](https://hwbusters.com/news/comma-ai-egpu-dock-runs-open-source-firmware-249-bare-799-with-an-rx-9060/)
 * [2026-08-13, 03:05:36](https://news.ycombinator.com/item?id=49281352) - [Clamiga: Common Lisp for the Amiga](https://nnamgreb.de/blog/Clamiga+-+Common+Lisp+for+the+Amiga)
