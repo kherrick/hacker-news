@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-14](index.md)
 
+* [2026-08-14, 23:53:43](https://news.ycombinator.com/item?id=49306021) - [Anton Chekhov played at love most of his life](https://commonreader.wustl.edu/winning-and-losing-at-the-great-game-of-intimacy/)
 * [2026-08-14, 23:40:37](https://news.ycombinator.com/item?id=49305927) - [Jane Street suffers $15B hit after meltdown at Situational Awareness](https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697)
 * [2026-08-14, 23:11:34](https://news.ycombinator.com/item?id=49305708) - [The case for overhauling American science](https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science)
 * [2026-08-14, 23:01:46](https://news.ycombinator.com/item?id=49305642) - [Claude Fable 5 Having Fun](https://github.com/robss2020/claude-fable-5-having-fun)
