@@ -23,11 +23,11 @@
 * [2026-08-15, 14:04:49](https://news.ycombinator.com/item?id=49310682) - [At-home test for infected ticks could improve Lyme Disease diagnosis](https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/)
 * [2026-08-14, 12:50:56](https://news.ycombinator.com/item?id=49298035) - [RISC-V: They Should Have Known Better](https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV)
 * [2026-08-12, 22:47:20](https://news.ycombinator.com/item?id=49279628) - [I built a browser-native SysEx librarian for 80s/90s synthesizers](https://bipluk.com/)
+* [2026-08-12, 10:35:20](https://news.ycombinator.com/item?id=49270279) - [Impulse Tracker](https://ovidem.com/impulsetracker/)
 * [2026-08-12, 08:44:23](https://news.ycombinator.com/item?id=49269451) - [Numba in the Browser: Unlocking a New Scientific Python Stack in JupyterLite](https://notebook.link/blog/numba-in-the-browser/)
 * [2026-08-12, 06:33:12](https://news.ycombinator.com/item?id=49268580) - [Asus Bike Booster](https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/)
 * [2026-08-11, 19:16:04](https://news.ycombinator.com/item?id=49263086) - [Speaking for the Dead](https://longreads.com/2026/08/11/obituaries-new-york-times-sam-roberts/)
 * [2026-08-11, 17:16:38](https://news.ycombinator.com/item?id=49261421) - [An image can overflow](https://master.dev/blog/something-nobody-told-you-about-the-image-element-it-can-overflow/)
-* [2026-08-11, 15:30:04](https://news.ycombinator.com/item?id=49259891) - [Program with Paint Brushes, Not Pencils](https://blog.pickcode.io/program-with-paint-brushes-not-pencils/)
 * [2026-08-10, 15:20:25](https://news.ycombinator.com/item?id=49244872) - [A fortuitous decade as an indie software developer](https://lapcatsoftware.com/articles/2026/8/3.html)
 * [2026-08-10, 13:01:18](https://news.ycombinator.com/item?id=49243061) - [Asynchronous I/O in DuckDB: Work, Thread, Work](https://duckdb.org/2026/07/31/asynchronous-io)
 
