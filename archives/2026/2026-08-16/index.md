@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-08-16](index.md)
 
+* [2026-08-16, 13:58:17](https://news.ycombinator.com/item?id=49320144) - [Anthropic revenue reportedly jumps to more than $11.5B in second quarter](https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html)
 * [2026-08-16, 13:30:27](https://news.ycombinator.com/item?id=49319892) - [Tasklet (YC P26) Is Hiring a Head of Design Engineering](https://tasklet.ai/careers/head-of-design-engineering)
+* [2026-08-16, 13:14:18](https://news.ycombinator.com/item?id=49319759) - [Our Reality Is Shifting and It's Just the Start](https://guustaaf.substack.com/p/our-reality-is-shifting-and-its-just)
 * [2026-08-16, 13:12:04](https://news.ycombinator.com/item?id=49319740) - [How a Sony Veteran Is Overhauling the Company He Grew Up In](https://www.wsj.com/business/media/sony-ceo-hiroki-totoki-efc8923f)
 * [2026-08-16, 13:07:34](https://news.ycombinator.com/item?id=49319712) - [I built my own root DNS so I could stop renting names](https://anthony.dev.profullstack.com/blog/013-post.html)
 * [2026-08-16, 12:58:10](https://news.ycombinator.com/item?id=49319633) - [Firefox for iOS now has a native adblocker](https://support.mozilla.org/en-US/kb/block-ads-firefox-ios)
@@ -13,6 +15,7 @@
 * [2026-08-16, 12:49:56](https://news.ycombinator.com/item?id=49319566) - [US oil reserves are so low, the caverns holding them could be damaged](https://www.independent.co.uk/news/world/americas/us-politics/strategic-petroleum-reserve-trump-iran-war-gas-prices-b3033680.html)
 * [2026-08-16, 12:48:21](https://news.ycombinator.com/item?id=49319556) - [Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts)
 * [2026-08-16, 12:22:20](https://news.ycombinator.com/item?id=49319389) - [Research papers using \"kidney disappointment\" instead of \"kidney failure\"](https://scholar.google.com/scholar?q=%22kidney+disappointment%22)
+* [2026-08-16, 12:16:21](https://news.ycombinator.com/item?id=49319349) - [A True Telnet BBS on a Casio Calculator](https://ei3lh.eu/2026/08/16/a-true-telnet-bbs-on-a-casio-calculator/)
 * [2026-08-16, 12:00:23](https://news.ycombinator.com/item?id=49319215) - [Gooseworks (YC W23) Is Hiring a Founding Builder / Engineer](https://www.ycombinator.com/companies/gooseworks/jobs/UJ4vH2F-founding-engineer)
 * [2026-08-16, 11:34:12](https://news.ycombinator.com/item?id=49319061) - [Stripe 2.9% vs. Adyen 0.6% vs. Braintree 2.59%: 2026 Fees](https://valueaddvc.com/blog/stripe-vs-adyen-vs-braintree-enterprise-payment-processing-compared-in-2026)
 * [2026-08-16, 11:28:50](https://news.ycombinator.com/item?id=49319026) - [Show HN: Remove AI voice from AI writings](https://unslopai.com)
