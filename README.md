@@ -2,6 +2,7 @@
 
 * [2026-08-16, 20:38:58](https://news.ycombinator.com/item?id=49323459) - [The Case Against Formal Verification, 50 Years Later](https://ivan-gavran.github.io/0-social-processes-paper)
 * [2026-08-16, 20:31:16](https://news.ycombinator.com/item?id=49323381) - [Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter](https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion)
+* [2026-08-16, 20:05:24](https://news.ycombinator.com/item?id=49323157) - [ICE Shot a Journalist and Threw Him in Detention. He's Approaching 300 Days](https://theintercept.com/2026/08/16/ricardo-parias-ice-detention-journalist-los-angeles/)
 * [2026-08-16, 19:41:18](https://news.ycombinator.com/item?id=49322979) - [The Trumps' Crypto Project Just Got One Step Closer to Becoming a Bank](https://www.motherjones.com/politics/2026/08/donald-trump-world-liberty-regulatory-approval/)
 * [2026-08-16, 19:04:26](https://news.ycombinator.com/item?id=49322695) - [Models Are Getting Dumber on Purpose](https://w4g1.dev/blog/models-are-getting-dumber-on-purpose)
 * [2026-08-16, 18:48:27](https://news.ycombinator.com/item?id=49322573) - [Protobuf has LSP support. You're welcome](https://buf.build/blog/protobuf-lsp)
@@ -21,15 +22,14 @@
 * [2026-08-14, 23:53:43](https://news.ycombinator.com/item?id=49306021) - [Anton Chekhov played at love most of his life](https://commonreader.wustl.edu/winning-and-losing-at-the-great-game-of-intimacy/)
 * [2026-08-13, 22:01:04](https://news.ycombinator.com/item?id=49292385) - [Chestnut – eGPU dock with open-source firmware](https://hwbusters.com/news/comma-ai-egpu-dock-runs-open-source-firmware-249-bare-799-with-an-rx-9060/)
 * [2026-08-13, 12:44:05](https://news.ycombinator.com/item?id=49285096) - [SIMD in the 90s: Programming Intel's Pentium MMX](https://pikuma.com/blog/programming-intel-pentium-mmx-simd)
+* [2026-08-13, 07:10:41](https://news.ycombinator.com/item?id=49282652) - [In the Shadow of the (Berlin) Wall](https://www.slowtravelberlin.com/in-the-shadow-of-the-berlin-wall/)
 * [2026-08-13, 03:05:36](https://news.ycombinator.com/item?id=49281352) - [Clamiga: Common Lisp for the Amiga](https://nnamgreb.de/blog/Clamiga+-+Common+Lisp+for+the+Amiga)
 * [2026-08-13, 00:02:02](https://news.ycombinator.com/item?id=49280186) - [The deep history behind the Road to Nowhere inside the Great Smoky Mountains](https://www.wunc.org/environment/2026-08-10/road-to-nowhere-great-smoky-mountains)
 * [2026-08-12, 22:46:58](https://news.ycombinator.com/item?id=49279624) - [Archie G. Norcross' Maine Forest Fire Maps (1918–22)](https://publicdomainreview.org/collection/maine-forest-fire-maps/)
-* [2026-08-12, 20:13:06](https://news.ycombinator.com/item?id=49277952) - [Does anyone run Postgres without PgBouncer?](https://brandur.org/fragments/postgres-without-pgbouncer)
 * [2026-08-12, 06:33:12](https://news.ycombinator.com/item?id=49268580) - [Asus Bike Booster](https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/)
 * [2026-08-12, 06:30:57](https://news.ycombinator.com/item?id=49268565) - [A SAT Attack on Tarski's High School Algebra Problem](https://arxiv.org/abs/2608.08421)
 * [2026-08-11, 15:56:01](https://news.ycombinator.com/item?id=49260268) - [Before Rightmove, there was the Cosmorama](https://www.ianvisits.co.uk/articles/before-rightmove-there-was-the-cosmorama-londons-forgotten-property-innovation-91687/)
 * [2026-08-11, 15:36:27](https://news.ycombinator.com/item?id=49259980) - [Low-Tech Ceramic Water Filter](https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en)
-* [2026-08-10, 13:01:18](https://news.ycombinator.com/item?id=49243061) - [Asynchronous I/O in DuckDB: Work, Thread, Work](https://duckdb.org/2026/07/31/asynchronous-io)
 
 ## [Archives](archives/index.md)
 

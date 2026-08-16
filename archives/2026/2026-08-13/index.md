@@ -65,6 +65,7 @@
 * [2026-08-13, 10:23:51](https://news.ycombinator.com/item?id=49283891) - [Claude users are mad that Anthropic's new watermarks will catch them using it](https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/)
 * [2026-08-13, 08:14:30](https://news.ycombinator.com/item?id=49283063) - [Launch HN: Bullet (YC S26) – A Faster Coding Agent](https://www.codewithbullet.com)
 * [2026-08-13, 07:57:40](https://news.ycombinator.com/item?id=49282951) - [Coin-Sized Device Can Hack a Boeing 737](https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/)
+* [2026-08-13, 07:10:41](https://news.ycombinator.com/item?id=49282652) - [In the Shadow of the (Berlin) Wall](https://www.slowtravelberlin.com/in-the-shadow-of-the-berlin-wall/)
 * [2026-08-13, 04:53:41](https://news.ycombinator.com/item?id=49281916) - [Codex in ChatGPT desktop app for Linux is now in preview](https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027)
 * [2026-08-13, 04:53:41](https://news.ycombinator.com/item?id=49281916) - [ChatGPT Desktop (Codex Desktop) for Linux](https://openai.com/codex/)
 * [2026-08-13, 04:37:31](https://news.ycombinator.com/item?id=49281839) - [Celld: Self-hosted, distributed Durable Objects](https://celld.dev/)
