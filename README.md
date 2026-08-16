@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-16, 20:38:58](https://news.ycombinator.com/item?id=49323459) - [The Case Against Formal Verification, 50 Years Later](https://ivan-gavran.github.io/0-social-processes-paper)
+* [2026-08-16, 20:31:16](https://news.ycombinator.com/item?id=49323381) - [Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter](https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion)
 * [2026-08-16, 19:41:18](https://news.ycombinator.com/item?id=49322979) - [The Trumps' Crypto Project Just Got One Step Closer to Becoming a Bank](https://www.motherjones.com/politics/2026/08/donald-trump-world-liberty-regulatory-approval/)
 * [2026-08-16, 19:04:26](https://news.ycombinator.com/item?id=49322695) - [Models Are Getting Dumber on Purpose](https://w4g1.dev/blog/models-are-getting-dumber-on-purpose)
 * [2026-08-16, 18:48:27](https://news.ycombinator.com/item?id=49322573) - [Protobuf has LSP support. You're welcome](https://buf.build/blog/protobuf-lsp)
@@ -9,7 +11,6 @@
 * [2026-08-16, 16:14:55](https://news.ycombinator.com/item?id=49321353) - [NIH is ending a key grant for budding clinical researchers](https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers)
 * [2026-08-16, 15:30:15](https://news.ycombinator.com/item?id=49320984) - [The weekend is 100 years old](https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it)
 * [2026-08-16, 15:16:06](https://news.ycombinator.com/item?id=49320856) - [St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core](https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core)
-* [2026-08-16, 14:53:14](https://news.ycombinator.com/item?id=49320673) - [GPS and the Lost Art of Getting Lost](https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost)
 * [2026-08-16, 14:44:55](https://news.ycombinator.com/item?id=49320611) - [The AI Credit Resale Economy](https://vectoral.com/blog/who-are-the-token-brokers)
 * [2026-08-16, 13:30:27](https://news.ycombinator.com/item?id=49319892) - [Tasklet (YC P26) Is Hiring a Head of Design Engineering](https://tasklet.ai/careers/head-of-design-engineering)
 * [2026-08-16, 12:58:10](https://news.ycombinator.com/item?id=49319633) - [Firefox for iOS now has a native adblocker](https://support.mozilla.org/en-US/kb/block-ads-firefox-ios)
@@ -24,7 +25,6 @@
 * [2026-08-13, 00:02:02](https://news.ycombinator.com/item?id=49280186) - [The deep history behind the Road to Nowhere inside the Great Smoky Mountains](https://www.wunc.org/environment/2026-08-10/road-to-nowhere-great-smoky-mountains)
 * [2026-08-12, 22:46:58](https://news.ycombinator.com/item?id=49279624) - [Archie G. Norcross' Maine Forest Fire Maps (1918–22)](https://publicdomainreview.org/collection/maine-forest-fire-maps/)
 * [2026-08-12, 20:13:06](https://news.ycombinator.com/item?id=49277952) - [Does anyone run Postgres without PgBouncer?](https://brandur.org/fragments/postgres-without-pgbouncer)
-* [2026-08-12, 19:07:06](https://news.ycombinator.com/item?id=49277153) - [Superconducting monolayer cuprate with a single CuO2 plane](https://www.nature.com/articles/s41586-026-10857-1)
 * [2026-08-12, 06:33:12](https://news.ycombinator.com/item?id=49268580) - [Asus Bike Booster](https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/)
 * [2026-08-12, 06:30:57](https://news.ycombinator.com/item?id=49268565) - [A SAT Attack on Tarski's High School Algebra Problem](https://arxiv.org/abs/2608.08421)
 * [2026-08-11, 15:56:01](https://news.ycombinator.com/item?id=49260268) - [Before Rightmove, there was the Cosmorama](https://www.ianvisits.co.uk/articles/before-rightmove-there-was-the-cosmorama-londons-forgotten-property-innovation-91687/)

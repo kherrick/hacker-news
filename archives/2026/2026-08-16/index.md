@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-16](index.md)
 
+* [2026-08-16, 20:38:58](https://news.ycombinator.com/item?id=49323459) - [The Case Against Formal Verification, 50 Years Later](https://ivan-gavran.github.io/0-social-processes-paper)
+* [2026-08-16, 20:31:16](https://news.ycombinator.com/item?id=49323381) - [Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter](https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion)
 * [2026-08-16, 19:41:18](https://news.ycombinator.com/item?id=49322979) - [The Trumps' Crypto Project Just Got One Step Closer to Becoming a Bank](https://www.motherjones.com/politics/2026/08/donald-trump-world-liberty-regulatory-approval/)
 * [2026-08-16, 19:04:26](https://news.ycombinator.com/item?id=49322695) - [Models Are Getting Dumber on Purpose](https://w4g1.dev/blog/models-are-getting-dumber-on-purpose)
 * [2026-08-16, 18:48:27](https://news.ycombinator.com/item?id=49322573) - [Protobuf has LSP support. You're welcome](https://buf.build/blog/protobuf-lsp)
