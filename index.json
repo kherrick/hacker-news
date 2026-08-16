@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2026-08-15, 22:28:14",
-      "https://news.ycombinator.com/item?id=49314884"
-    ],
-    [
-      "SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)",
-      "https://sugartrack-beta.vercel.app/"
-    ]
-  ],
-  [
-    [
       "2026-08-15, 21:39:09",
       "https://news.ycombinator.com/item?id=49314579"
     ],
@@ -151,16 +141,6 @@
   ],
   [
     [
-      "2026-08-15, 18:34:26",
-      "https://news.ycombinator.com/item?id=49313068"
-    ],
-    [
-      "Tess's Android Wayland Compositor",
-      "https://github.com/wmww/tawc"
-    ]
-  ],
-  [
-    [
       "2026-08-15, 18:13:02",
       "https://news.ycombinator.com/item?id=49312845"
     ],
@@ -197,6 +177,26 @@
     [
       "At-home test for infected ticks could improve Lyme Disease diagnosis",
       "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/"
+    ]
+  ],
+  [
+    [
+      "2026-08-15, 11:00:02",
+      "https://news.ycombinator.com/item?id=49309549"
+    ],
+    [
+      "Auto-research with codex: How I achieved a 232x Faster Kernel",
+      "https://sankalp.bearblog.dev/autoresearch/"
+    ]
+  ],
+  [
+    [
+      "2026-08-14, 15:00:00",
+      "https://news.ycombinator.com/item?id=49299605"
+    ],
+    [
+      "Qwen 3.8 27B",
+      "https://huggingface.co/Qwen/Qwen3.8-27B-FP8"
     ]
   ],
   [
