@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2026-08-12, 20:13:06",
-      "https://news.ycombinator.com/item?id=49277952"
-    ],
-    [
-      "Does anyone run Postgres without PgBouncer?",
-      "https://brandur.org/fragments/postgres-without-pgbouncer"
-    ]
-  ],
-  [
-    [
       "2026-08-12, 06:33:12",
       "https://news.ycombinator.com/item?id=49268580"
     ],
@@ -297,6 +287,16 @@
     [
       "Low-Tech Ceramic Water Filter",
       "https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en"
+    ]
+  ],
+  [
+    [
+      "2026-08-10, 13:01:18",
+      "https://news.ycombinator.com/item?id=49243061"
+    ],
+    [
+      "Asynchronous I/O in DuckDB: Work, Thread, Work",
+      "https://duckdb.org/2026/07/31/asynchronous-io"
     ]
   ]
 ]
