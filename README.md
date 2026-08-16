@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-16, 21:51:25](https://news.ycombinator.com/item?id=49324068) - [Claude Auth Is Down](https://claude.ai/new)
 * [2026-08-16, 21:07:10](https://news.ycombinator.com/item?id=49323686) - [Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee](https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/)
 * [2026-08-16, 21:00:25](https://news.ycombinator.com/item?id=49323620) - [Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast](https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15/)
 * [2026-08-16, 20:38:58](https://news.ycombinator.com/item?id=49323459) - [The Case Against Formal Verification, 50 Years Later](https://ivan-gavran.github.io/0-social-processes-paper)
@@ -24,7 +25,6 @@
 * [2026-08-13, 12:44:05](https://news.ycombinator.com/item?id=49285096) - [SIMD in the 90s: Programming Intel's Pentium MMX](https://pikuma.com/blog/programming-intel-pentium-mmx-simd)
 * [2026-08-13, 07:10:41](https://news.ycombinator.com/item?id=49282652) - [In the Shadow of the (Berlin) Wall](https://www.slowtravelberlin.com/in-the-shadow-of-the-berlin-wall/)
 * [2026-08-13, 03:05:36](https://news.ycombinator.com/item?id=49281352) - [Clamiga: Common Lisp for the Amiga](https://nnamgreb.de/blog/Clamiga+-+Common+Lisp+for+the+Amiga)
-* [2026-08-13, 00:02:02](https://news.ycombinator.com/item?id=49280186) - [The deep history behind the Road to Nowhere inside the Great Smoky Mountains](https://www.wunc.org/environment/2026-08-10/road-to-nowhere-great-smoky-mountains)
 * [2026-08-12, 22:46:58](https://news.ycombinator.com/item?id=49279624) - [Archie G. Norcross' Maine Forest Fire Maps (1918–22)](https://publicdomainreview.org/collection/maine-forest-fire-maps/)
 * [2026-08-12, 06:33:12](https://news.ycombinator.com/item?id=49268580) - [Asus Bike Booster](https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/)
 * [2026-08-12, 06:30:57](https://news.ycombinator.com/item?id=49268565) - [A SAT Attack on Tarski's High School Algebra Problem](https://arxiv.org/abs/2608.08421)
