@@ -62,6 +62,7 @@
 * [2026-08-13, 12:44:05](https://news.ycombinator.com/item?id=49285096) - [SIMD in the 90s: Programming Intel's Pentium MMX](https://pikuma.com/blog/programming-intel-pentium-mmx-simd)
 * [2026-08-13, 12:09:50](https://news.ycombinator.com/item?id=49284774) - [Deutsche Bank becomes first foreign yuan clearing bank in Europe](https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/)
 * [2026-08-13, 12:01:02](https://news.ycombinator.com/item?id=49284697) - [ATG (YC F25) Is Hiring Member of Technical Staff (Data Platform)](https://atg.science/careers)
+* [2026-08-13, 10:50:31](https://news.ycombinator.com/item?id=49284093) - [2,085 Tests, and None of Them Opens the Front Door](https://i.brandanthonymcdonald.com/what-my-tests-do-not-cover)
 * [2026-08-13, 10:23:51](https://news.ycombinator.com/item?id=49283891) - [Claude users are mad that Anthropic's new watermarks will catch them using it](https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/)
 * [2026-08-13, 08:14:30](https://news.ycombinator.com/item?id=49283063) - [Launch HN: Bullet (YC S26) – A Faster Coding Agent](https://www.codewithbullet.com)
 * [2026-08-13, 07:57:40](https://news.ycombinator.com/item?id=49282951) - [Coin-Sized Device Can Hack a Boeing 737](https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/)
