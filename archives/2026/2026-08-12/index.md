@@ -14,6 +14,7 @@
 * [2026-08-12, 22:47:12](https://news.ycombinator.com/item?id=49279627) - [The Indo-European Family Tree](https://djbinder.com/language-tree/)
 * [2026-08-12, 22:01:43](https://news.ycombinator.com/item?id=49279197) - [Process as a Proxy for Motivation](https://bengodfrey.dev/blog/process/)
 * [2026-08-12, 21:45:29](https://news.ycombinator.com/item?id=49279013) - [Thanks to social media, canned sardines are a scarcity on the supermarket shelf](https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/)
+* [2026-08-12, 20:13:06](https://news.ycombinator.com/item?id=49277952) - [Does anyone run Postgres without PgBouncer?](https://brandur.org/fragments/postgres-without-pgbouncer)
 * [2026-08-12, 20:00:16](https://news.ycombinator.com/item?id=49277799) - [Breaking the WAL](https://antithesis.com/blog/2026/wal-reset-bug/)
 * [2026-08-12, 19:37:12](https://news.ycombinator.com/item?id=49277535) - [Show HN: Silent Shark – tactical map-based WWII submarine sim](https://silentshark.app/)
 * [2026-08-12, 19:07:06](https://news.ycombinator.com/item?id=49277153) - [Superconducting monolayer cuprate with a single CuO2 plane](https://www.nature.com/articles/s41586-026-10857-1)

@@ -4,8 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-08-16](index.md)
 
+* [2026-08-16, 13:12:04](https://news.ycombinator.com/item?id=49319740) - [How a Sony Veteran Is Overhauling the Company He Grew Up In](https://www.wsj.com/business/media/sony-ceo-hiroki-totoki-efc8923f)
+* [2026-08-16, 13:07:34](https://news.ycombinator.com/item?id=49319712) - [I built my own root DNS so I could stop renting names](https://anthony.dev.profullstack.com/blog/013-post.html)
+* [2026-08-16, 12:51:58](https://news.ycombinator.com/item?id=49319582) - [Is the industry ready for tokens-constrained work?](https://blog.alaindichiappari.dev/p/what-to-do-when-tokens-run-out)
+* [2026-08-16, 12:50:31](https://news.ycombinator.com/item?id=49319573) - [Banned Words List](https://pen.org/banned-words-list/)
+* [2026-08-16, 12:48:21](https://news.ycombinator.com/item?id=49319556) - [Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts)
 * [2026-08-16, 12:22:20](https://news.ycombinator.com/item?id=49319389) - [Research papers using \"kidney disappointment\" instead of \"kidney failure\"](https://scholar.google.com/scholar?q=%22kidney+disappointment%22)
 * [2026-08-16, 12:00:23](https://news.ycombinator.com/item?id=49319215) - [Gooseworks (YC W23) Is Hiring a Founding Builder / Engineer](https://www.ycombinator.com/companies/gooseworks/jobs/UJ4vH2F-founding-engineer)
+* [2026-08-16, 11:34:12](https://news.ycombinator.com/item?id=49319061) - [Stripe 2.9% vs. Adyen 0.6% vs. Braintree 2.59%: 2026 Fees](https://valueaddvc.com/blog/stripe-vs-adyen-vs-braintree-enterprise-payment-processing-compared-in-2026)
+* [2026-08-16, 11:28:50](https://news.ycombinator.com/item?id=49319026) - [Show HN: Remove AI voice from AI writings](https://unslopai.com)
 * [2026-08-16, 11:26:42](https://news.ycombinator.com/item?id=49319010) - [Leave your screen unlocked, meet developers paypal.com](https://anthony.dev.profullstack.com/blog/012-post.html)
 * [2026-08-16, 11:05:47](https://news.ycombinator.com/item?id=49318906) - [Ask HN: Do you know of any company that went back to hand-written code?](https://news.ycombinator.com/item?id=49318906)
 * [2026-08-16, 08:40:50](https://news.ycombinator.com/item?id=49318128) - [Show HN: Grafana agent observability for Hermes Agent](https://github.com/alexander-akhmetov/grafana-agento11y-hermes)
