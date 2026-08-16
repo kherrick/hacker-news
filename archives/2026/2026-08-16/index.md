@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-16](index.md)
 
+* [2026-08-16, 08:40:50](https://news.ycombinator.com/item?id=49318128) - [Show HN: Grafana agent observability for Hermes Agent](https://github.com/alexander-akhmetov/grafana-agento11y-hermes)
 * [2026-08-16, 07:37:53](https://news.ycombinator.com/item?id=49317760) - [What happens when an LLM never sees material beyond fifth grade?](https://littlelearner-ll.github.io/)
 * [2026-08-16, 06:55:04](https://news.ycombinator.com/item?id=49317546) - [Show HN: Laptop is the last place your secrets are still in plaintext](https://github.com/jitpass/jit)
 * [2026-08-16, 05:56:14](https://news.ycombinator.com/item?id=49317279) - [Health benefits of Tai Chi](https://www.health.harvard.edu/exercise-and-fitness/the-health-benefits-of-tai-chi)
