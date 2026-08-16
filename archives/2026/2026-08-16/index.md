@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-16](index.md)
 
+* [2026-08-16, 05:45:32](https://news.ycombinator.com/item?id=49317234) - [The Iran War Is a Whole New Level of Quagmire for the US](https://www.politico.com/news/magazine/2026/08/12/the-us-forgot-the-lessons-of-iraq-now-its-desperate-for-ideas-on-iran-01033217)
 * [2026-08-16, 04:24:00](https://news.ycombinator.com/item?id=49316888) - [The quirky personal homepages of programming language creators](https://breck.lol/plMakers.html)
 * [2026-08-16, 04:07:18](https://news.ycombinator.com/item?id=49316815) - [21,000 MCP servers exposed: the protocol reaches a security inflection point](https://forkast.news/the-model-context-protocol-reaches-a-security-inflection-point/)
 * [2026-08-16, 04:02:38](https://news.ycombinator.com/item?id=49316791) - [I checked 30 frontier model cards. Here are the benchmarks labs report](https://koutian.is-a.dev/benchmark-radar/?view=leaderboard)
