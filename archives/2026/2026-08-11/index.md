@@ -36,6 +36,7 @@
 * [2026-08-11, 16:21:46](https://news.ycombinator.com/item?id=49260628) - [Show HN: Lambdock – Wayland-native GTK4 dock with a live Lisp REPL](https://codeberg.org/jjba23/lambdock)
 * [2026-08-11, 16:18:53](https://news.ycombinator.com/item?id=49260582) - [The Color of White Light](https://ludens.cl/photo/spectra/spectra.html)
 * [2026-08-11, 15:54:35](https://news.ycombinator.com/item?id=49260250) - [University of Michigan Drops First-Semester Grades To'Curb Mental Health Crisis'](https://www.wsj.com/us-news/education/university-of-michigan-grades-mental-health-1a5701d4)
+* [2026-08-11, 15:30:04](https://news.ycombinator.com/item?id=49259891) - [Program with Paint Brushes, Not Pencils](https://blog.pickcode.io/program-with-paint-brushes-not-pencils/)
 * [2026-08-11, 15:09:34](https://news.ycombinator.com/item?id=49259611) - [Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet](https://github.com/TheRealYT/git-knife)
 * [2026-08-11, 14:50:33](https://news.ycombinator.com/item?id=49259339) - [Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp](https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md)
 * [2026-08-11, 14:48:37](https://news.ycombinator.com/item?id=49259309) - [Launch HN: Keet (YC S24) – An app to create video courses on anything](https://www.trykeet.com/)
