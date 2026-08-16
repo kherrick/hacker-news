@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-16, 21:07:10](https://news.ycombinator.com/item?id=49323686) - [Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee](https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/)
+* [2026-08-16, 21:00:25](https://news.ycombinator.com/item?id=49323620) - [Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast](https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15/)
 * [2026-08-16, 20:38:58](https://news.ycombinator.com/item?id=49323459) - [The Case Against Formal Verification, 50 Years Later](https://ivan-gavran.github.io/0-social-processes-paper)
 * [2026-08-16, 20:31:16](https://news.ycombinator.com/item?id=49323381) - [Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter](https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion)
-* [2026-08-16, 20:05:24](https://news.ycombinator.com/item?id=49323157) - [ICE Shot a Journalist and Threw Him in Detention. He's Approaching 300 Days](https://theintercept.com/2026/08/16/ricardo-parias-ice-detention-journalist-los-angeles/)
-* [2026-08-16, 19:41:18](https://news.ycombinator.com/item?id=49322979) - [The Trumps' Crypto Project Just Got One Step Closer to Becoming a Bank](https://www.motherjones.com/politics/2026/08/donald-trump-world-liberty-regulatory-approval/)
 * [2026-08-16, 19:04:26](https://news.ycombinator.com/item?id=49322695) - [Models Are Getting Dumber on Purpose](https://w4g1.dev/blog/models-are-getting-dumber-on-purpose)
 * [2026-08-16, 18:48:27](https://news.ycombinator.com/item?id=49322573) - [Protobuf has LSP support. You're welcome](https://buf.build/blog/protobuf-lsp)
 * [2026-08-16, 18:17:10](https://news.ycombinator.com/item?id=49322330) - [MathCode, Mathematical Coding Agent](https://math-ai-org.github.io/mathcode/)
