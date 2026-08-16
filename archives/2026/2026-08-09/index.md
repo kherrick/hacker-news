@@ -81,6 +81,7 @@
 * [2026-08-09, 07:19:58](https://news.ycombinator.com/item?id=49229174) - [There Are Magic Hexagons of Every Order](https://gukov.dev/math/2026/08/02/new-magic-hexagons.html)
 * [2026-08-09, 07:18:03](https://news.ycombinator.com/item?id=49229160) - [Lake Mead hits historic low water level as Colorado River struggles](https://apnews.com/article/colorado-river-lake-mead-record-low-fa402842e76ed624f71360f467b2579d)
 * [2026-08-09, 05:23:41](https://news.ycombinator.com/item?id=49228663) - [Microsoft Word for Windows 1.1a, Native X64 Port](https://github.com/jmarshall23/msword)
+* [2026-08-09, 05:22:44](https://news.ycombinator.com/item?id=49228660) - [Show HN: Fixing optical computing jitter via fluid dynamics in GPU registers](https://github.com/PJHkorea/photonic-mesh-fng-router)
 * [2026-08-09, 04:30:26](https://news.ycombinator.com/item?id=49228458) - [\"The original URL for this prediction will no longer be available in 11 years.\" (2011)](https://longbets.org/601/)
 * [2026-08-09, 04:30:26](https://news.ycombinator.com/item?id=49228458) - [The original URL for this prediction will no longer be available in 11 years (2011)](http://longbets.org/601/)
 * [2026-08-09, 04:24:10](https://news.ycombinator.com/item?id=49228426) - [Why MySpace fans want it back as relaunch hinted](https://www.bbc.com/news/articles/c4g64152v71o)
