@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-08-16, 17:10:04](https://news.ycombinator.com/item?id=49321783) - [Ordinary WiFi can now identify you with near-perfect accuracy](https://www.sciencedaily.com/releases/2026/08/260811052857.htm)
+* [2026-08-16, 18:03:09](https://news.ycombinator.com/item?id=49322206) - [I've built a free, open-source local and remote memory system for agentw and CL](https://www.lorekit.io/blog/give-your-agent-a-memory)
 * [2026-08-16, 17:01:07](https://news.ycombinator.com/item?id=49321717) - [A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"](https://rvembedded.com/blog_post/12/)
 * [2026-08-16, 16:14:55](https://news.ycombinator.com/item?id=49321353) - [NIH is ending a key grant for budding clinical researchers](https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers)
 * [2026-08-16, 15:30:15](https://news.ycombinator.com/item?id=49320984) - [The weekend is 100 years old](https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it)
@@ -14,7 +14,7 @@
 * [2026-08-16, 12:22:20](https://news.ycombinator.com/item?id=49319389) - [Research papers using \"kidney disappointment\" instead of \"kidney failure\"](https://scholar.google.com/scholar?q=%22kidney+disappointment%22)
 * [2026-08-16, 12:16:21](https://news.ycombinator.com/item?id=49319349) - [A True Telnet BBS on a Casio Calculator](https://ei3lh.eu/2026/08/16/a-true-telnet-bbs-on-a-casio-calculator/)
 * [2026-08-16, 10:31:36](https://news.ycombinator.com/item?id=49318735) - [AI Coding Without the Vibes](https://peterbloem.nl/blog/craft-coding)
-* [2026-08-15, 22:31:09](https://news.ycombinator.com/item?id=49314902) - [Software Engineering fundamentals matter more](https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/)
+* [2026-08-16, 01:26:44](https://news.ycombinator.com/item?id=49315995) - [Guiding Ships with Moire Patterns (2018)](https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/)
 * [2026-08-15, 20:54:11](https://news.ycombinator.com/item?id=49314235) - [Cultivating a state of mind where new ideas are born (2023)](https://www.henrikkarlsson.xyz/p/good-ideas)
 * [2026-08-15, 20:15:51](https://news.ycombinator.com/item?id=49313920) - [Plastic mechanical computer from 1963: The Digi-Comp 1 [video]](https://www.youtube.com/watch?v=-y8bGBE71yw)
 * [2026-08-15, 19:20:51](https://news.ycombinator.com/item?id=49313428) - [Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter](https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/)
