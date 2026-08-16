@@ -11,32 +11,12 @@
   ],
   [
     [
-      "2026-08-16, 04:07:18",
-      "https://news.ycombinator.com/item?id=49316815"
-    ],
-    [
-      "21,000 MCP servers exposed: the protocol reaches a security inflection point",
-      "https://forkast.news/the-model-context-protocol-reaches-a-security-inflection-point/"
-    ]
-  ],
-  [
-    [
       "2026-08-16, 03:40:05",
       "https://news.ycombinator.com/item?id=49316685"
     ],
     [
       "Targeted marine cloud brightening weakens subsequent El Niño",
       "https://www.science.org/doi/10.1126/sciadv.adx3012"
-    ]
-  ],
-  [
-    [
-      "2026-08-16, 03:23:34",
-      "https://news.ycombinator.com/item?id=49316611"
-    ],
-    [
-      "Government sponsored study on alcohol doesn't stand up to scrutiny: Nassim Taleb",
-      "https://nntaleb.substack.com/p/have-another-drink"
     ]
   ],
   [
@@ -97,6 +77,16 @@
     [
       "Tea5767-Radio-Tuner",
       "https://github.com/turtushig22-blip/tea5767-radio-tuner"
+    ]
+  ],
+  [
+    [
+      "2026-08-15, 22:41:51",
+      "https://news.ycombinator.com/item?id=49314967"
+    ],
+    [
+      "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
+      "https://arxiv.org/abs/2608.13122"
     ]
   ],
   [
@@ -177,6 +167,16 @@
     [
       "AI in drug discovery – what it is, where we stand and the path forward",
       "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really"
+    ]
+  ],
+  [
+    [
+      "2026-08-15, 18:34:26",
+      "https://news.ycombinator.com/item?id=49313068"
+    ],
+    [
+      "Tess's Android Wayland Compositor",
+      "https://github.com/wmww/tawc"
     ]
   ],
   [
