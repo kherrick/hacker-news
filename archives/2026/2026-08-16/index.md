@@ -18,6 +18,7 @@
 * [2026-08-16, 11:28:50](https://news.ycombinator.com/item?id=49319026) - [Show HN: Remove AI voice from AI writings](https://unslopai.com)
 * [2026-08-16, 11:26:42](https://news.ycombinator.com/item?id=49319010) - [Leave your screen unlocked, meet developers paypal.com](https://anthony.dev.profullstack.com/blog/012-post.html)
 * [2026-08-16, 11:05:47](https://news.ycombinator.com/item?id=49318906) - [Ask HN: Do you know of any company that went back to hand-written code?](https://news.ycombinator.com/item?id=49318906)
+* [2026-08-16, 10:31:36](https://news.ycombinator.com/item?id=49318735) - [AI Coding Without the Vibes](https://peterbloem.nl/blog/craft-coding)
 * [2026-08-16, 08:40:50](https://news.ycombinator.com/item?id=49318128) - [Show HN: Grafana agent observability for Hermes Agent](https://github.com/alexander-akhmetov/grafana-agento11y-hermes)
 * [2026-08-16, 07:37:53](https://news.ycombinator.com/item?id=49317760) - [What happens when an LLM never sees material beyond fifth grade?](https://littlelearner-ll.github.io/)
 * [2026-08-16, 06:55:04](https://news.ycombinator.com/item?id=49317546) - [Show HN: Laptop is the last place your secrets are still in plaintext](https://github.com/jitpass/jit)
