@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2026-08-16, 12:51:58",
-      "https://news.ycombinator.com/item?id=49319582"
-    ],
-    [
-      "Is the industry ready for tokens-constrained work?",
-      "https://blog.alaindichiappari.dev/p/what-to-do-when-tokens-run-out"
-    ]
-  ],
-  [
-    [
       "2026-08-16, 12:49:56",
       "https://news.ycombinator.com/item?id=49319566"
     ],
@@ -57,6 +47,26 @@
     [
       "Research papers using \"kidney disappointment\" instead of \"kidney failure\"",
       "https://scholar.google.com/scholar?q=%22kidney+disappointment%22"
+    ]
+  ],
+  [
+    [
+      "2026-08-16, 10:31:36",
+      "https://news.ycombinator.com/item?id=49318735"
+    ],
+    [
+      "AI Coding Without the Vibes",
+      "https://peterbloem.nl/blog/craft-coding"
+    ]
+  ],
+  [
+    [
+      "2026-08-16, 08:40:50",
+      "https://news.ycombinator.com/item?id=49318128"
+    ],
+    [
+      "Show HN: Grafana agent observability for Hermes Agent",
+      "https://github.com/alexander-akhmetov/grafana-agento11y-hermes"
     ]
   ],
   [
@@ -127,16 +137,6 @@
     [
       "Tracking down a Zsh history data loss bug",
       "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/"
-    ]
-  ],
-  [
-    [
-      "2026-08-15, 21:14:34",
-      "https://news.ycombinator.com/item?id=49314403"
-    ],
-    [
-      "Abdominal fat predicts heart disease risk better than BMI",
-      "https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi"
     ]
   ],
   [
@@ -221,12 +221,12 @@
   ],
   [
     [
-      "2026-08-12, 22:47:20",
-      "https://news.ycombinator.com/item?id=49279628"
+      "2026-08-13, 17:02:50",
+      "https://news.ycombinator.com/item?id=49288857"
     ],
     [
-      "I built a browser-native SysEx librarian for 80s/90s synthesizers",
-      "https://bipluk.com/"
+      "What I Learned Securing Sniffnet with the GitHub Secure Open Source Fund",
+      "https://sniffnet.app/news/github-secure-open-source-fund/"
     ]
   ],
   [
