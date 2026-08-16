@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-08-16, 21:51:25",
-      "https://news.ycombinator.com/item?id=49324068"
+      "2026-08-16, 21:53:43",
+      "https://news.ycombinator.com/item?id=49324087"
     ],
     [
-      "Claude Auth Is Down",
-      "https://claude.ai/new"
+      "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
+      "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing"
+    ]
+  ],
+  [
+    [
+      "2026-08-16, 21:52:59",
+      "https://news.ycombinator.com/item?id=49324078"
+    ],
+    [
+      "Claude Seems Down",
+      "https://news.ycombinator.com/item?id=49324078"
     ]
   ],
   [
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2026-08-16, 12:22:20",
-      "https://news.ycombinator.com/item?id=49319389"
-    ],
-    [
-      "Research papers using \"kidney disappointment\" instead of \"kidney failure\"",
-      "https://scholar.google.com/scholar?q=%22kidney+disappointment%22"
-    ]
-  ],
-  [
-    [
       "2026-08-16, 12:16:21",
       "https://news.ycombinator.com/item?id=49319349"
     ],
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2026-08-14, 19:52:05",
+      "https://news.ycombinator.com/item?id=49303776"
+    ],
+    [
+      "A quick look at zero-knowledge proofs",
+      "https://bernsteinbear.com/blog/zkp/"
+    ]
+  ],
+  [
+    [
       "2026-08-13, 22:01:04",
       "https://news.ycombinator.com/item?id=49292385"
     ],
@@ -227,16 +237,6 @@
     [
       "SIMD in the 90s: Programming Intel's Pentium MMX",
       "https://pikuma.com/blog/programming-intel-pentium-mmx-simd"
-    ]
-  ],
-  [
-    [
-      "2026-08-13, 07:10:41",
-      "https://news.ycombinator.com/item?id=49282652"
-    ],
-    [
-      "In the Shadow of the (Berlin) Wall",
-      "https://www.slowtravelberlin.com/in-the-shadow-of-the-berlin-wall/"
     ]
   ],
   [
