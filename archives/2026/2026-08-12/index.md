@@ -71,6 +71,7 @@
 * [2026-08-12, 09:34:38](https://news.ycombinator.com/item?id=49269809) - [Turbo Pascal on CP/M, MSX-DOS and MS-DOS – Pascal for Small Machines](http://pascal.hansotten.com/delphi/turbo-pascal-on-cpm-msx-dos-and-ms-dos/)
 * [2026-08-12, 09:30:47](https://news.ycombinator.com/item?id=49269789) - [Beef and dairy drive 41% of biodiversity damage linked to global farmland](https://www.oxfordmartin.ox.ac.uk/news/beef-and-dairy-drive-41-of-biodiversity-damage-linked-to-global-farmland)
 * [2026-08-12, 09:09:21](https://news.ycombinator.com/item?id=49269641) - [Dutch Train Map Simulator](https://spoorkaart.zaza.dev)
+* [2026-08-12, 08:44:23](https://news.ycombinator.com/item?id=49269451) - [Numba in the Browser: Unlocking a New Scientific Python Stack in JupyterLite](https://notebook.link/blog/numba-in-the-browser/)
 * [2026-08-12, 08:40:53](https://news.ycombinator.com/item?id=49269429) - [Why Target Common Lisp for Code Generation?](http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html)
 * [2026-08-12, 08:12:15](https://news.ycombinator.com/item?id=49269240) - [Forbidden City Cabbage](https://www.cnn.com/2025/11/10/style/jadeite-cabbage-taiwan-forbidden-city-curio-hnk-intl)
 * [2026-08-12, 07:51:20](https://news.ycombinator.com/item?id=49269090) - [Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials](https://discoveredmaterials.com/research/)
