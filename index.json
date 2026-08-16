@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-08-16, 04:02:38",
+      "https://news.ycombinator.com/item?id=49316791"
+    ],
+    [
+      "I checked 30 frontier model cards. Here are the benchmarks labs report",
+      "https://koutian.is-a.dev/benchmark-radar/?view=leaderboard"
+    ]
+  ],
+  [
+    [
+      "2026-08-16, 03:23:34",
+      "https://news.ycombinator.com/item?id=49316611"
+    ],
+    [
+      "Government sponsored study on alcohol doesn't stand up to scrutiny: Nassim Taleb",
+      "https://nntaleb.substack.com/p/have-another-drink"
+    ]
+  ],
+  [
+    [
       "2026-08-16, 02:36:10",
       "https://news.ycombinator.com/item?id=49316395"
     ],
@@ -37,26 +57,6 @@
     [
       "Show HN: Mic Drop, a real-time multiplayer karaoke game",
       "https://www.micdrop.gg/"
-    ]
-  ],
-  [
-    [
-      "2026-08-16, 00:38:44",
-      "https://news.ycombinator.com/item?id=49315709"
-    ],
-    [
-      "Show HN: I built a native app for coding agents with Rust and GPUI",
-      "https://waku.sh"
-    ]
-  ],
-  [
-    [
-      "2026-08-16, 00:10:48",
-      "https://news.ycombinator.com/item?id=49315563"
-    ],
-    [
-      "Big Pickle on SWE Atlas – Codebase QnA",
-      "https://github.com/PhillipChaffee/big-pickle-swe-atlas"
     ]
   ],
   [
@@ -107,16 +107,6 @@
     [
       "Show HN: Bribes.fyi – Compare bribes statistics department wise",
       "https://bribes.fyi/compare"
-    ]
-  ],
-  [
-    [
-      "2026-08-15, 21:45:54",
-      "https://news.ycombinator.com/item?id=49314615"
-    ],
-    [
-      "Bede Liu, a digital signal processing pioneer, has died",
-      "https://spectrum.ieee.org/digital-signal-processing"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "An image can overflow",
       "https://master.dev/blog/something-nobody-told-you-about-the-image-element-it-can-overflow/"
+    ]
+  ],
+  [
+    [
+      "2026-08-11, 15:30:04",
+      "https://news.ycombinator.com/item?id=49259891"
+    ],
+    [
+      "Program with Paint Brushes, Not Pencils",
+      "https://blog.pickcode.io/program-with-paint-brushes-not-pencils/"
     ]
   ],
   [
