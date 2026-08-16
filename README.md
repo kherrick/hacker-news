@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-08-16, 13:58:17](https://news.ycombinator.com/item?id=49320144) - [Anthropic revenue reportedly jumps to more than $11.5B in second quarter](https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html)
+* [2026-08-16, 14:44:55](https://news.ycombinator.com/item?id=49320611) - [The AI Credit Resale Economy](https://vectoral.com/blog/who-are-the-token-brokers)
 * [2026-08-16, 13:30:27](https://news.ycombinator.com/item?id=49319892) - [Tasklet (YC P26) Is Hiring a Head of Design Engineering](https://tasklet.ai/careers/head-of-design-engineering)
+* [2026-08-16, 13:21:45](https://news.ycombinator.com/item?id=49319814) - [Show HN: A public AI whose memory is shared across all users](https://wildstatic.com/)
 * [2026-08-16, 13:09:41](https://news.ycombinator.com/item?id=49319727) - [A U.S. Strategy to Prevent the Creation of Mirror Life](https://www.rand.org/pubs/research_reports/RRA4335-1.html)
 * [2026-08-16, 12:58:10](https://news.ycombinator.com/item?id=49319633) - [Firefox for iOS now has a native adblocker](https://support.mozilla.org/en-US/kb/block-ads-firefox-ios)
 * [2026-08-16, 12:48:21](https://news.ycombinator.com/item?id=49319556) - [Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts)
@@ -13,7 +14,6 @@
 * [2026-08-16, 01:26:44](https://news.ycombinator.com/item?id=49315995) - [Guiding Ships with Moire Patterns (2018)](https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/)
 * [2026-08-16, 00:46:29](https://news.ycombinator.com/item?id=49315742) - [Show HN: Mic Drop, a real-time multiplayer karaoke game](https://www.micdrop.gg/)
 * [2026-08-15, 22:31:09](https://news.ycombinator.com/item?id=49314902) - [Software Engineering fundamentals matter more](https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/)
-* [2026-08-15, 21:39:09](https://news.ycombinator.com/item?id=49314579) - [Tracking down a Zsh history data loss bug](https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/)
 * [2026-08-15, 20:54:11](https://news.ycombinator.com/item?id=49314235) - [Cultivating a state of mind where new ideas are born (2023)](https://www.henrikkarlsson.xyz/p/good-ideas)
 * [2026-08-15, 19:20:51](https://news.ycombinator.com/item?id=49313428) - [Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter](https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/)
 * [2026-08-15, 19:12:53](https://news.ycombinator.com/item?id=49313367) - [AI in drug discovery – what it is, where we stand and the path forward](https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really)

@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-08-16](index.md)
 
+* [2026-08-16, 14:44:55](https://news.ycombinator.com/item?id=49320611) - [The AI Credit Resale Economy](https://vectoral.com/blog/who-are-the-token-brokers)
 * [2026-08-16, 13:58:17](https://news.ycombinator.com/item?id=49320144) - [Anthropic revenue reportedly jumps to more than $11.5B in second quarter](https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html)
 * [2026-08-16, 13:30:27](https://news.ycombinator.com/item?id=49319892) - [Tasklet (YC P26) Is Hiring a Head of Design Engineering](https://tasklet.ai/careers/head-of-design-engineering)
+* [2026-08-16, 13:21:45](https://news.ycombinator.com/item?id=49319814) - [Show HN: A public AI whose memory is shared across all users](https://wildstatic.com/)
 * [2026-08-16, 13:14:18](https://news.ycombinator.com/item?id=49319759) - [Our Reality Is Shifting and It's Just the Start](https://guustaaf.substack.com/p/our-reality-is-shifting-and-its-just)
 * [2026-08-16, 13:12:04](https://news.ycombinator.com/item?id=49319740) - [How a Sony Veteran Is Overhauling the Company He Grew Up In](https://www.wsj.com/business/media/sony-ceo-hiroki-totoki-efc8923f)
 * [2026-08-16, 13:09:41](https://news.ycombinator.com/item?id=49319727) - [A U.S. Strategy to Prevent the Creation of Mirror Life](https://www.rand.org/pubs/research_reports/RRA4335-1.html)
