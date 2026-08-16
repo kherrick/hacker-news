@@ -25,11 +25,11 @@
 * [2026-08-13, 10:50:31](https://news.ycombinator.com/item?id=49284093) - [2,085 Tests, and None of Them Opens the Front Door](https://i.brandanthonymcdonald.com/what-my-tests-do-not-cover)
 * [2026-08-13, 03:05:36](https://news.ycombinator.com/item?id=49281352) - [Clamiga: Common Lisp for the Amiga](https://nnamgreb.de/blog/Clamiga+-+Common+Lisp+for+the+Amiga)
 * [2026-08-12, 22:46:58](https://news.ycombinator.com/item?id=49279624) - [Archie G. Norcross' Maine Forest Fire Maps (1918–22)](https://publicdomainreview.org/collection/maine-forest-fire-maps/)
-* [2026-08-12, 20:13:06](https://news.ycombinator.com/item?id=49277952) - [Does anyone run Postgres without PgBouncer?](https://brandur.org/fragments/postgres-without-pgbouncer)
 * [2026-08-12, 06:33:12](https://news.ycombinator.com/item?id=49268580) - [Asus Bike Booster](https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/)
 * [2026-08-12, 06:30:57](https://news.ycombinator.com/item?id=49268565) - [A SAT Attack on Tarski's High School Algebra Problem](https://arxiv.org/abs/2608.08421)
 * [2026-08-11, 15:56:01](https://news.ycombinator.com/item?id=49260268) - [Before Rightmove, there was the Cosmorama](https://www.ianvisits.co.uk/articles/before-rightmove-there-was-the-cosmorama-londons-forgotten-property-innovation-91687/)
 * [2026-08-11, 15:36:27](https://news.ycombinator.com/item?id=49259980) - [Low-Tech Ceramic Water Filter](https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en)
+* [2026-08-10, 13:01:18](https://news.ycombinator.com/item?id=49243061) - [Asynchronous I/O in DuckDB: Work, Thread, Work](https://duckdb.org/2026/07/31/asynchronous-io)
 
 ## [Archives](archives/index.md)
 
