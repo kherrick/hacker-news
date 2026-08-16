@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-16](index.md)
 
+* [2026-08-16, 18:48:27](https://news.ycombinator.com/item?id=49322573) - [Protobuf has LSP support. You're welcome](https://buf.build/blog/protobuf-lsp)
 * [2026-08-16, 18:17:10](https://news.ycombinator.com/item?id=49322330) - [MathCode, Mathematical Coding Agent](https://math-ai-org.github.io/mathcode/)
 * [2026-08-16, 18:03:09](https://news.ycombinator.com/item?id=49322206) - [I've built a free, open-source local and remote memory system for agentw and CL](https://www.lorekit.io/blog/give-your-agent-a-memory)
 * [2026-08-16, 17:49:46](https://news.ycombinator.com/item?id=49322107) - [Tell HN: Cloudflare silently injects its analytics when you switch nameservers](https://news.ycombinator.com/item?id=49322107)

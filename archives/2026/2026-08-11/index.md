@@ -38,6 +38,7 @@
 * [2026-08-11, 16:18:53](https://news.ycombinator.com/item?id=49260582) - [The Color of White Light](https://ludens.cl/photo/spectra/spectra.html)
 * [2026-08-11, 15:56:01](https://news.ycombinator.com/item?id=49260268) - [Before Rightmove, there was the Cosmorama](https://www.ianvisits.co.uk/articles/before-rightmove-there-was-the-cosmorama-londons-forgotten-property-innovation-91687/)
 * [2026-08-11, 15:54:35](https://news.ycombinator.com/item?id=49260250) - [University of Michigan Drops First-Semester Grades To'Curb Mental Health Crisis'](https://www.wsj.com/us-news/education/university-of-michigan-grades-mental-health-1a5701d4)
+* [2026-08-11, 15:36:27](https://news.ycombinator.com/item?id=49259980) - [Low-Tech Ceramic Water Filter](https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en)
 * [2026-08-11, 15:30:04](https://news.ycombinator.com/item?id=49259891) - [Program with Paint Brushes, Not Pencils](https://blog.pickcode.io/program-with-paint-brushes-not-pencils/)
 * [2026-08-11, 15:09:34](https://news.ycombinator.com/item?id=49259611) - [Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet](https://github.com/TheRealYT/git-knife)
 * [2026-08-11, 14:50:33](https://news.ycombinator.com/item?id=49259339) - [Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp](https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md)
