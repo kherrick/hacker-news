@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-16, 06:55:04](https://news.ycombinator.com/item?id=49317546) - [Show HN: Laptop is the last place your secrets are still in plaintext](https://github.com/jitpass/jit)
+* [2026-08-16, 05:56:14](https://news.ycombinator.com/item?id=49317279) - [Health benefits of Tai Chi](https://www.health.harvard.edu/exercise-and-fitness/the-health-benefits-of-tai-chi)
 * [2026-08-16, 04:19:32](https://news.ycombinator.com/item?id=49316872) - [Falstad Math and Physics Simulations](https://www.falstad.com/mathphysics.html)
 * [2026-08-16, 03:23:34](https://news.ycombinator.com/item?id=49316611) - [Government sponsored study on alcohol doesn't stand up to scrutiny](https://nntaleb.substack.com/p/have-another-drink)
 * [2026-08-16, 02:36:10](https://news.ycombinator.com/item?id=49316395) - [Zapping Rocks Unlocks Stimulated Geologic Hydrogen](https://spectrum.ieee.org/stimulated-geologic-hydrogen)
@@ -9,7 +11,6 @@
 * [2026-08-15, 23:54:35](https://news.ycombinator.com/item?id=49315456) - [Tea5767-Radio-Tuner](https://github.com/turtushig22-blip/tea5767-radio-tuner)
 * [2026-08-15, 22:41:51](https://news.ycombinator.com/item?id=49314967) - [AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code](https://arxiv.org/abs/2608.13122)
 * [2026-08-15, 22:31:09](https://news.ycombinator.com/item?id=49314902) - [Software Engineering fundamentals matter more](https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/)
-* [2026-08-15, 22:28:14](https://news.ycombinator.com/item?id=49314884) - [SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)](https://sugartrack-beta.vercel.app/)
 * [2026-08-15, 21:39:09](https://news.ycombinator.com/item?id=49314579) - [Tracking down a Zsh history data loss bug](https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/)
 * [2026-08-15, 21:14:34](https://news.ycombinator.com/item?id=49314403) - [Abdominal fat predicts heart disease risk better than BMI](https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi)
 * [2026-08-15, 20:54:11](https://news.ycombinator.com/item?id=49314235) - [Cultivating a state of mind where new ideas are born (2023)](https://www.henrikkarlsson.xyz/p/good-ideas)
@@ -22,14 +23,13 @@
 * [2026-08-15, 14:34:04](https://news.ycombinator.com/item?id=49310926) - [A spectre is haunting Unicode](https://www.dampfkraft.com/ghost-characters.html)
 * [2026-08-15, 14:04:49](https://news.ycombinator.com/item?id=49310682) - [At-home test for infected ticks could improve Lyme Disease diagnosis](https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/)
 * [2026-08-14, 12:50:56](https://news.ycombinator.com/item?id=49298035) - [RISC-V: They Should Have Known Better](https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV)
+* [2026-08-12, 17:16:11](https://news.ycombinator.com/item?id=49275701) - [Not sure where I am going with this garbage collection rabbit hole](https://ikouchiha47.github.io/2026/08/12/concurrency-and-gc.html)
 * [2026-08-12, 08:44:23](https://news.ycombinator.com/item?id=49269451) - [Numba in the Browser: Unlocking a New Scientific Python Stack in JupyterLite](https://notebook.link/blog/numba-in-the-browser/)
 * [2026-08-12, 06:33:12](https://news.ycombinator.com/item?id=49268580) - [Asus Bike Booster](https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/)
 * [2026-08-11, 19:16:04](https://news.ycombinator.com/item?id=49263086) - [Speaking for the Dead](https://longreads.com/2026/08/11/obituaries-new-york-times-sam-roberts/)
-* [2026-08-11, 17:16:38](https://news.ycombinator.com/item?id=49261421) - [An image can overflow](https://master.dev/blog/something-nobody-told-you-about-the-image-element-it-can-overflow/)
 * [2026-08-11, 15:30:04](https://news.ycombinator.com/item?id=49259891) - [Program with Paint Brushes, Not Pencils](https://blog.pickcode.io/program-with-paint-brushes-not-pencils/)
 * [2026-08-10, 15:20:25](https://news.ycombinator.com/item?id=49244872) - [A fortuitous decade as an indie software developer](https://lapcatsoftware.com/articles/2026/8/3.html)
 * [2026-08-10, 13:01:18](https://news.ycombinator.com/item?id=49243061) - [Asynchronous I/O in DuckDB: Work, Thread, Work](https://duckdb.org/2026/07/31/asynchronous-io)
-* [2026-08-09, 05:22:44](https://news.ycombinator.com/item?id=49228660) - [Show HN: Fixing optical computing jitter via fluid dynamics in GPU registers](https://github.com/PJHkorea/photonic-mesh-fng-router)
 
 ## [Archives](archives/index.md)
 
