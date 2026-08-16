@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-08-16, 02:36:10",
+      "https://news.ycombinator.com/item?id=49316395"
+    ],
+    [
+      "Zapping Rocks Unlocks Stimulated Geologic Hydrogen",
+      "https://spectrum.ieee.org/stimulated-geologic-hydrogen"
+    ]
+  ],
+  [
+    [
+      "2026-08-16, 02:12:53",
+      "https://news.ycombinator.com/item?id=49316271"
+    ],
+    [
+      "Patterns and problems in emerging multi-agent systems",
+      "https://www.anthropic.com/research/multiagent-systems"
+    ]
+  ],
+  [
+    [
+      "2026-08-16, 01:26:44",
+      "https://news.ycombinator.com/item?id=49315995"
+    ],
+    [
+      "Guiding Ships with Moire Patterns",
+      "https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/"
+    ]
+  ],
+  [
+    [
       "2026-08-16, 00:46:29",
       "https://news.ycombinator.com/item?id=49315742"
     ],
@@ -91,16 +121,6 @@
   ],
   [
     [
-      "2026-08-15, 21:42:47",
-      "https://news.ycombinator.com/item?id=49314596"
-    ],
-    [
-      "The Wow signal was a strong narrowband radio signal detected on August 15, 1977",
-      "https://en.wikipedia.org/wiki/Wow!_signal"
-    ]
-  ],
-  [
-    [
       "2026-08-15, 21:39:09",
       "https://news.ycombinator.com/item?id=49314579"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2026-08-15, 16:42:58",
-      "https://news.ycombinator.com/item?id=49312053"
-    ],
-    [
-      "I Remain a Skeptic",
-      "https://blog.jsbarretto.com/post/i-remain-a-skeptic"
-    ]
-  ],
-  [
-    [
       "2026-08-15, 15:58:53",
       "https://news.ycombinator.com/item?id=49311651"
     ],
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2026-08-15, 11:00:02",
-      "https://news.ycombinator.com/item?id=49309549"
-    ],
-    [
-      "Auto-research with codex: How I achieved a 232x Faster Kernel",
-      "https://sankalp.bearblog.dev/autoresearch/"
-    ]
-  ],
-  [
-    [
       "2026-08-15, 10:39:41",
       "https://news.ycombinator.com/item?id=49309451"
     ],
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2026-08-12, 08:44:23",
+      "https://news.ycombinator.com/item?id=49269451"
+    ],
+    [
+      "Numba in the Browser: Unlocking a New Scientific Python Stack in JupyterLite",
+      "https://notebook.link/blog/numba-in-the-browser/"
+    ]
+  ],
+  [
+    [
       "2026-08-12, 06:33:12",
       "https://news.ycombinator.com/item?id=49268580"
     ],
@@ -267,16 +277,6 @@
     [
       "An image can overflow",
       "https://master.dev/blog/something-nobody-told-you-about-the-image-element-it-can-overflow/"
-    ]
-  ],
-  [
-    [
-      "2026-08-11, 13:40:37",
-      "https://news.ycombinator.com/item?id=49258177"
-    ],
-    [
-      "Pizza Box Project Stack",
-      "https://cblgh.org/posts/2026-07-31-pizza-box-project-stack/"
     ]
   ],
   [
