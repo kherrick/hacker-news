@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-08-16, 15:16:06",
+      "https://news.ycombinator.com/item?id=49320856"
+    ],
+    [
+      "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
+      "https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core"
+    ]
+  ],
+  [
+    [
       "2026-08-16, 14:53:14",
       "https://news.ycombinator.com/item?id=49320673"
     ],
@@ -101,12 +111,12 @@
   ],
   [
     [
-      "2026-08-16, 08:40:50",
-      "https://news.ycombinator.com/item?id=49318128"
+      "2026-08-16, 10:31:36",
+      "https://news.ycombinator.com/item?id=49318735"
     ],
     [
-      "Show HN: Grafana agent observability for Hermes Agent",
-      "https://github.com/alexander-akhmetov/grafana-agento11y-hermes"
+      "AI Coding Without the Vibes",
+      "https://peterbloem.nl/blog/craft-coding"
     ]
   ],
   [
@@ -137,16 +147,6 @@
     [
       "Guiding Ships with Moire Patterns (2018)",
       "https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/"
-    ]
-  ],
-  [
-    [
-      "2026-08-16, 00:46:29",
-      "https://news.ycombinator.com/item?id=49315742"
-    ],
-    [
-      "Show HN: Mic Drop, a real-time multiplayer karaoke game",
-      "https://www.micdrop.gg/"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2026-08-14, 12:50:56",
-      "https://news.ycombinator.com/item?id=49298035"
-    ],
-    [
-      "RISC-V: They Should Have Known Better",
-      "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV"
-    ]
-  ],
-  [
-    [
       "2026-08-13, 22:01:04",
       "https://news.ycombinator.com/item?id=49292385"
     ],
@@ -237,6 +227,16 @@
     [
       "What I Learned Securing Sniffnet with the GitHub Secure Open Source Fund",
       "https://sniffnet.app/news/github-secure-open-source-fund/"
+    ]
+  ],
+  [
+    [
+      "2026-08-13, 03:05:36",
+      "https://news.ycombinator.com/item?id=49281352"
+    ],
+    [
+      "Clamiga: Common Lisp for the Amiga",
+      "https://nnamgreb.de/blog/Clamiga+-+Common+Lisp+for+the+Amiga"
     ]
   ],
   [
