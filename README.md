@@ -2,6 +2,8 @@
 
 * [2026-08-16, 21:53:43](https://news.ycombinator.com/item?id=49324087) - [Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing](https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing)
 * [2026-08-16, 21:52:59](https://news.ycombinator.com/item?id=49324078) - [Claude Seems Down](https://news.ycombinator.com/item?id=49324078)
+* [2026-08-16, 21:34:06](https://news.ycombinator.com/item?id=49323932) - [Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe](https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll)
+* [2026-08-16, 21:28:59](https://news.ycombinator.com/item?id=49323874) - [Stop Turning every purchase into a tip request](https://www.foxnews.com/opinion/america-needs-stop-turning-every-purchase-uncomfortable-tip-request)
 * [2026-08-16, 21:07:10](https://news.ycombinator.com/item?id=49323686) - [Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee](https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/)
 * [2026-08-16, 21:00:25](https://news.ycombinator.com/item?id=49323620) - [Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast](https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15/)
 * [2026-08-16, 20:38:58](https://news.ycombinator.com/item?id=49323459) - [The Case Against Formal Verification, 50 Years Later](https://ivan-gavran.github.io/0-social-processes-paper)
@@ -11,8 +13,6 @@
 * [2026-08-16, 18:17:10](https://news.ycombinator.com/item?id=49322330) - [MathCode, Mathematical Coding Agent](https://math-ai-org.github.io/mathcode/)
 * [2026-08-16, 17:49:46](https://news.ycombinator.com/item?id=49322107) - [Tell HN: Cloudflare silently injects its analytics when you switch nameservers](https://news.ycombinator.com/item?id=49322107)
 * [2026-08-16, 17:01:07](https://news.ycombinator.com/item?id=49321717) - [A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"](https://rvembedded.com/blog_post/12/)
-* [2026-08-16, 16:14:55](https://news.ycombinator.com/item?id=49321353) - [NIH is ending a key grant for budding clinical researchers](https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers)
-* [2026-08-16, 15:30:15](https://news.ycombinator.com/item?id=49320984) - [The weekend is 100 years old](https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it)
 * [2026-08-16, 15:16:06](https://news.ycombinator.com/item?id=49320856) - [St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core](https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core)
 * [2026-08-16, 14:44:55](https://news.ycombinator.com/item?id=49320611) - [The AI Credit Resale Economy](https://vectoral.com/blog/who-are-the-token-brokers)
 * [2026-08-16, 13:30:27](https://news.ycombinator.com/item?id=49319892) - [Tasklet (YC P26) Is Hiring a Head of Design Engineering](https://tasklet.ai/careers/head-of-design-engineering)
