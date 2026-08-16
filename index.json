@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-08-16, 06:55:04",
+      "https://news.ycombinator.com/item?id=49317546"
+    ],
+    [
+      "Show HN: Laptop is the last place your secrets are still in plaintext",
+      "https://github.com/jitpass/jit"
+    ]
+  ],
+  [
+    [
+      "2026-08-16, 05:56:14",
+      "https://news.ycombinator.com/item?id=49317279"
+    ],
+    [
+      "Health benefits of Tai Chi",
+      "https://www.health.harvard.edu/exercise-and-fitness/the-health-benefits-of-tai-chi"
+    ]
+  ],
+  [
+    [
       "2026-08-16, 04:19:32",
       "https://news.ycombinator.com/item?id=49316872"
     ],
@@ -87,16 +107,6 @@
     [
       "Software Engineering fundamentals matter more",
       "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/"
-    ]
-  ],
-  [
-    [
-      "2026-08-15, 22:28:14",
-      "https://news.ycombinator.com/item?id=49314884"
-    ],
-    [
-      "SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)",
-      "https://sugartrack-beta.vercel.app/"
     ]
   ],
   [
@@ -221,6 +231,16 @@
   ],
   [
     [
+      "2026-08-12, 17:16:11",
+      "https://news.ycombinator.com/item?id=49275701"
+    ],
+    [
+      "Not sure where I am going with this garbage collection rabbit hole",
+      "https://ikouchiha47.github.io/2026/08/12/concurrency-and-gc.html"
+    ]
+  ],
+  [
+    [
       "2026-08-12, 08:44:23",
       "https://news.ycombinator.com/item?id=49269451"
     ],
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2026-08-11, 17:16:38",
-      "https://news.ycombinator.com/item?id=49261421"
-    ],
-    [
-      "An image can overflow",
-      "https://master.dev/blog/something-nobody-told-you-about-the-image-element-it-can-overflow/"
-    ]
-  ],
-  [
-    [
       "2026-08-11, 15:30:04",
       "https://news.ycombinator.com/item?id=49259891"
     ],
@@ -287,16 +297,6 @@
     [
       "Asynchronous I/O in DuckDB: Work, Thread, Work",
       "https://duckdb.org/2026/07/31/asynchronous-io"
-    ]
-  ],
-  [
-    [
-      "2026-08-09, 05:22:44",
-      "https://news.ycombinator.com/item?id=49228660"
-    ],
-    [
-      "Show HN: Fixing optical computing jitter via fluid dynamics in GPU registers",
-      "https://github.com/PJHkorea/photonic-mesh-fng-router"
     ]
   ]
 ]
