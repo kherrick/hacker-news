@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-08-16](index.md)
 
+* [2026-08-16, 12:22:20](https://news.ycombinator.com/item?id=49319389) - [Research papers using \"kidney disappointment\" instead of \"kidney failure\"](https://scholar.google.com/scholar?q=%22kidney+disappointment%22)
+* [2026-08-16, 12:00:23](https://news.ycombinator.com/item?id=49319215) - [Gooseworks (YC W23) Is Hiring a Founding Builder / Engineer](https://www.ycombinator.com/companies/gooseworks/jobs/UJ4vH2F-founding-engineer)
+* [2026-08-16, 11:26:42](https://news.ycombinator.com/item?id=49319010) - [Leave your screen unlocked, meet developers paypal.com](https://anthony.dev.profullstack.com/blog/012-post.html)
 * [2026-08-16, 11:05:47](https://news.ycombinator.com/item?id=49318906) - [Ask HN: Do you know of any company that went back to hand-written code?](https://news.ycombinator.com/item?id=49318906)
 * [2026-08-16, 08:40:50](https://news.ycombinator.com/item?id=49318128) - [Show HN: Grafana agent observability for Hermes Agent](https://github.com/alexander-akhmetov/grafana-agento11y-hermes)
 * [2026-08-16, 07:37:53](https://news.ycombinator.com/item?id=49317760) - [What happens when an LLM never sees material beyond fifth grade?](https://littlelearner-ll.github.io/)

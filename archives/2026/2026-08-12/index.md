@@ -81,6 +81,7 @@
 * [2026-08-12, 06:53:17](https://news.ycombinator.com/item?id=49268697) - [AI agent hacks gym to get its user a spot in pilates class](https://www.bbc.com/news/articles/cn0nww2qlp7o)
 * [2026-08-12, 06:37:31](https://news.ycombinator.com/item?id=49268604) - [ICE to spend up to $20M on gloves that can deliver painful electric shocks](https://www.theguardian.com/us-news/2026/aug/11/ice-electric-shock-gloves)
 * [2026-08-12, 06:33:12](https://news.ycombinator.com/item?id=49268580) - [Asus Bike Booster](https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/)
+* [2026-08-12, 06:30:57](https://news.ycombinator.com/item?id=49268565) - [A SAT Attack on Tarski's High School Algebra Problem](https://arxiv.org/abs/2608.08421)
 * [2026-08-12, 06:30:49](https://news.ycombinator.com/item?id=49268564) - [LinkedIn CringeBot 3000](https://www.cringebot3000.com/)
 * [2026-08-12, 04:51:59](https://news.ycombinator.com/item?id=49267928) - [llama.cpp](https://llama.app)
 * [2026-08-12, 04:30:34](https://news.ycombinator.com/item?id=49267818) - [Dropbox is an obvious PE Target?](https://s-1.vercel.app/posts/why-dropbox-is-a-obvious-pe-target/)
