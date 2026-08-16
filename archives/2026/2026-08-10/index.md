@@ -44,6 +44,7 @@
 * [2026-08-10, 15:32:04](https://news.ycombinator.com/item?id=49245023) - [Mars Bar from 1991 found – and it's 20g bigger than today's](https://www.bbc.com/news/articles/c1j1kjy7gewo)
 * [2026-08-10, 15:31:55](https://news.ycombinator.com/item?id=49245019) - [Convince an AI it's not alive in psychological horror game Prove You're Human](https://www.theguardian.com/games/2026/aug/10/ai-psychological-horror-game-prove-youre-human-sunset-visitor-studio)
 * [2026-08-10, 15:23:44](https://news.ycombinator.com/item?id=49244916) - [Itadakimasu: A Word You Say to the Food, Not the Cook](https://thetokyohermit.substack.com/p/itadakimasu-a-word-you-say-to-the)
+* [2026-08-10, 15:20:25](https://news.ycombinator.com/item?id=49244872) - [A fortuitous decade as an indie software developer](https://lapcatsoftware.com/articles/2026/8/3.html)
 * [2026-08-10, 15:13:08](https://news.ycombinator.com/item?id=49244783) - ['Pervert glasses': Backlash against Meta's smart glasses grows](https://www.seattletimes.com/business/technology/pervert-glasses-backlash-against-metas-smart-glasses-grows/)
 * [2026-08-10, 15:11:19](https://news.ycombinator.com/item?id=49244762) - [Sea Lion Radio brings Seattle's barks, bleats and yaps to the world](https://www.seattletimes.com/seattle-news/sea-lion-radio-brings-seattles-barks-bleats-and-yaps-to-the-world/)
 * [2026-08-10, 15:06:15](https://news.ycombinator.com/item?id=49244696) - [Smooth Move: Taming Trajectories with Polynomials](https://nick.zoic.org/art/smooth-move-taming-trajectories-with-polynomials/)

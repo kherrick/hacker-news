@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-15](index.md)
 
+* [2026-08-15, 23:54:35](https://news.ycombinator.com/item?id=49315456) - [Tea5767-Radio-Tuner](https://github.com/turtushig22-blip/tea5767-radio-tuner)
 * [2026-08-15, 22:40:20](https://news.ycombinator.com/item?id=49314962) - [The Government Is Monitoring Anti-Flock TikTok and Instagram Accounts](https://www.404media.co/the-government-is-monitoring-anti-flock-tiktok-and-instagram-accounts/)
 * [2026-08-15, 22:28:14](https://news.ycombinator.com/item?id=49314884) - [SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)](https://sugartrack-beta.vercel.app/)
 * [2026-08-15, 22:15:33](https://news.ycombinator.com/item?id=49314790) - [Triple Product Rule of Partial Derivatives](https://en.wikipedia.org/wiki/Triple_product_rule)
