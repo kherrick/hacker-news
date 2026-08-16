@@ -68,4 +68,5 @@
 * [2026-08-13, 04:53:41](https://news.ycombinator.com/item?id=49281916) - [ChatGPT Desktop (Codex Desktop) for Linux](https://openai.com/codex/)
 * [2026-08-13, 04:37:31](https://news.ycombinator.com/item?id=49281839) - [Celld: Self-hosted, distributed Durable Objects](https://celld.dev/)
 * [2026-08-13, 03:05:36](https://news.ycombinator.com/item?id=49281352) - [Clamiga: Common Lisp for the Amiga](https://nnamgreb.de/blog/Clamiga+-+Common+Lisp+for+the+Amiga)
+* [2026-08-13, 00:02:02](https://news.ycombinator.com/item?id=49280186) - [The deep history behind the Road to Nowhere inside the Great Smoky Mountains](https://www.wunc.org/environment/2026-08-10/road-to-nowhere-great-smoky-mountains)
 * [2026-08-13, 00:01:43](https://news.ycombinator.com/item?id=49280184) - [Show HN: Ballet – Workflow automation that writes integrations against any API](https://www.ballet.dev/)
