@@ -16,6 +16,7 @@
 * [2026-08-12, 21:45:29](https://news.ycombinator.com/item?id=49279013) - [Thanks to social media, canned sardines are a scarcity on the supermarket shelf](https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/)
 * [2026-08-12, 20:00:16](https://news.ycombinator.com/item?id=49277799) - [Breaking the WAL](https://antithesis.com/blog/2026/wal-reset-bug/)
 * [2026-08-12, 19:37:12](https://news.ycombinator.com/item?id=49277535) - [Show HN: Silent Shark – tactical map-based WWII submarine sim](https://silentshark.app/)
+* [2026-08-12, 19:07:06](https://news.ycombinator.com/item?id=49277153) - [Superconducting monolayer cuprate with a single CuO2 plane](https://www.nature.com/articles/s41586-026-10857-1)
 * [2026-08-12, 18:27:52](https://news.ycombinator.com/item?id=49276673) - [Show HN: Programmable timer web app (for gym workouts or stretching sessions)](https://timer.jotaen.net)
 * [2026-08-12, 18:19:59](https://news.ycombinator.com/item?id=49276574) - [Zed: Delta](https://zed.dev/blog/introducing-delta)
 * [2026-08-12, 18:17:03](https://news.ycombinator.com/item?id=49276534) - [Your key to success isn't more luck or hard work](https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/)
