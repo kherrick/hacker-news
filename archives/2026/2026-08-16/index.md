@@ -8,6 +8,7 @@
 * [2026-08-16, 13:30:27](https://news.ycombinator.com/item?id=49319892) - [Tasklet (YC P26) Is Hiring a Head of Design Engineering](https://tasklet.ai/careers/head-of-design-engineering)
 * [2026-08-16, 13:14:18](https://news.ycombinator.com/item?id=49319759) - [Our Reality Is Shifting and It's Just the Start](https://guustaaf.substack.com/p/our-reality-is-shifting-and-its-just)
 * [2026-08-16, 13:12:04](https://news.ycombinator.com/item?id=49319740) - [How a Sony Veteran Is Overhauling the Company He Grew Up In](https://www.wsj.com/business/media/sony-ceo-hiroki-totoki-efc8923f)
+* [2026-08-16, 13:09:41](https://news.ycombinator.com/item?id=49319727) - [A U.S. Strategy to Prevent the Creation of Mirror Life](https://www.rand.org/pubs/research_reports/RRA4335-1.html)
 * [2026-08-16, 13:07:34](https://news.ycombinator.com/item?id=49319712) - [I built my own root DNS so I could stop renting names](https://anthony.dev.profullstack.com/blog/013-post.html)
 * [2026-08-16, 12:58:10](https://news.ycombinator.com/item?id=49319633) - [Firefox for iOS now has a native adblocker](https://support.mozilla.org/en-US/kb/block-ads-firefox-ios)
 * [2026-08-16, 12:51:58](https://news.ycombinator.com/item?id=49319582) - [Is the industry ready for tokens-constrained work?](https://blog.alaindichiappari.dev/p/what-to-do-when-tokens-run-out)
