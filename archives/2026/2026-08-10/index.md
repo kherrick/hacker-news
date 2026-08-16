@@ -62,6 +62,7 @@
 * [2026-08-10, 13:20:10](https://news.ycombinator.com/item?id=49243270) - [Flatworms, Ion Channels, and Burning Mouths](https://www.science.org/content/blog-post/flatworms-ion-channels-and-burning-mouths)
 * [2026-08-10, 13:20:09](https://news.ycombinator.com/item?id=49243269) - [Defending my own brain against enshittification](https://mrmarket.lol/how-i-feel-calmin-control-of-my-life-in-the-time-of-enshittification/)
 * [2026-08-10, 13:05:32](https://news.ycombinator.com/item?id=49243104) - [From 13.5M installs to 499 active devices](https://games.lukicengineering.com/blog/2013-vs-2026/)
+* [2026-08-10, 13:01:18](https://news.ycombinator.com/item?id=49243061) - [Asynchronous I/O in DuckDB: Work, Thread, Work](https://duckdb.org/2026/07/31/asynchronous-io)
 * [2026-08-10, 12:58:16](https://news.ycombinator.com/item?id=49243029) - [50k Boat Names](https://www.beautifulpublicdata.com/boat-names/)
 * [2026-08-10, 12:40:50](https://news.ycombinator.com/item?id=49242867) - [Protect Your Relays](https://www.iroh.computer/blog/authenticated-relays)
 * [2026-08-10, 12:26:05](https://news.ycombinator.com/item?id=49242739) - [Over 181,000 AI meeting recordings left wide open in note taking app](https://bobdahacker.com/blog/tldv-hack)
