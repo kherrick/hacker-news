@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-08-17, 15:36:18",
+      "https://news.ycombinator.com/item?id=49332751"
+    ],
+    [
+      "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+      "https://news.ycombinator.com/item?id=49332751"
+    ]
+  ],
+  [
+    [
       "2026-08-17, 15:19:31",
       "https://news.ycombinator.com/item?id=49332495"
     ],
     [
       "Ask HN: GitHub employees what's going on? Why?",
       "https://news.ycombinator.com/item?id=49332495"
+    ]
+  ],
+  [
+    [
+      "2026-08-17, 14:30:09",
+      "https://news.ycombinator.com/item?id=49331625"
+    ],
+    [
+      "Judge relying wholly on AI in order is covered by judicial immunity, court rules",
+      "https://reason.com/volokh/2026/08/17/judges-allegedly-relying-wholly-on-ai-in-order-is-covered-by-judicial-immunity-court-rules/"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2026-08-17, 13:09:06",
-      "https://news.ycombinator.com/item?id=49330246"
-    ],
-    [
-      "Speeding Up the Plush Garbage Collector",
-      "https://pointersgonewild.com/2026-08-17-speeding-up-the-plush-garbage-collector/"
-    ]
-  ],
-  [
-    [
       "2026-08-17, 13:07:00",
       "https://news.ycombinator.com/item?id=49330215"
     ],
@@ -287,16 +297,6 @@
     [
       "How Go detects struct copies with sync.noCopy",
       "https://func25.dev/posts/go-sync-nocopy/"
-    ]
-  ],
-  [
-    [
-      "2026-08-12, 21:07:48",
-      "https://news.ycombinator.com/item?id=49278577"
-    ],
-    [
-      "My Ten Years in No Man's Sky",
-      "https://nmsspot.com/2026/08/09/my-ten-years-in-no-mans-sky/"
     ]
   ]
 ]
