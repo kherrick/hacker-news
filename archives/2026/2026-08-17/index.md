@@ -4,10 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-08-17](index.md)
 
+* [2026-08-17, 15:19:31](https://news.ycombinator.com/item?id=49332495) - [Ask HN: GitHub employees what's going on? Why?](https://news.ycombinator.com/item?id=49332495)
 * [2026-08-17, 14:29:56](https://news.ycombinator.com/item?id=49331621) - [Human Interface Guidelines from various platforms](https://unsung.aresluna.org/i-think-theres-a-lot-of-value-in-these/)
+* [2026-08-17, 14:29:18](https://news.ycombinator.com/item?id=49331607) - [Qwen3.8-27B at 256K on a 24GB RTX PRO 4000 SFF (432 GB/s): 50 tok/s with MTP](https://piszczek.pl/blog/qwen38-27b-256k-50-tps-24gb-gpu)
 * [2026-08-17, 14:28:49](https://news.ycombinator.com/item?id=49331599) - [Show HN: Eve Software Factory](https://github.com/vercel-labs/eve-software-factory-template/tree/main)
+* [2026-08-17, 14:26:19](https://news.ycombinator.com/item?id=49331555) - [The only known trebuchet casualty in history](https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/)
 * [2026-08-17, 14:21:25](https://news.ycombinator.com/item?id=49331474) - [How to put 170 atoms in an atom](https://signoregalilei.com/2026/08/02/how-to-put-170-atoms-in-an-atom/)
 * [2026-08-17, 14:18:38](https://news.ycombinator.com/item?id=49331423) - [AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug)
+* [2026-08-17, 14:11:17](https://news.ycombinator.com/item?id=49331288) - [Show HN: Learn Flags Quiz](https://flagquizzes.com/)
 * [2026-08-17, 14:07:59](https://news.ycombinator.com/item?id=49331222) - [Apple's App Tracking Transparency treated its own apps better than rivals](https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html)
 * [2026-08-17, 14:07:56](https://news.ycombinator.com/item?id=49331220) - [How to disable or avoid intrusive AI](https://www.librarian.net/notoai/)
 * [2026-08-17, 13:59:17](https://news.ycombinator.com/item?id=49331033) - [Ask HN: Alternatives to GitHub](https://news.ycombinator.com/item?id=49331033)
