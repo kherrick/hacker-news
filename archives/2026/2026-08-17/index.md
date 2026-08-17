@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-17](index.md)
 
+* [2026-08-17, 10:45:14](https://news.ycombinator.com/item?id=49328911) - [Self hosted email continues to steeply decline](https://labs.ripe.net/author/artem-berezin/two-providers-a-stubborn-plateau-and-a-very-long-tail-email-in-the-tranco-top-1m/)
 * [2026-08-17, 07:51:22](https://news.ycombinator.com/item?id=49327643) - [Show HN: Desktopcolors.com – A museum for solid background colors of classic OS](https://desktopcolors.com)
 * [2026-08-17, 07:28:43](https://news.ycombinator.com/item?id=49327490) - [HackEurope 2026: A short rant on AI and hackathons](https://duti.dev/blog/2026/spr/)
 * [2026-08-17, 05:22:49](https://news.ycombinator.com/item?id=49326825) - [$12B of US ratepayers' money wasted on a modeling mistake in PJM](https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted)

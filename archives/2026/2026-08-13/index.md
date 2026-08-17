@@ -63,6 +63,7 @@
 * [2026-08-13, 12:58:02](https://news.ycombinator.com/item?id=49285244) - [DeepSeek Harness developer preview](https://deepseek.com/harness/en/)
 * [2026-08-13, 12:49:21](https://news.ycombinator.com/item?id=49285160) - [DeepSeek API Pricing Update](https://twitter.com/deepseek_ai/status/2087864589895798968)
 * [2026-08-13, 12:44:05](https://news.ycombinator.com/item?id=49285096) - [SIMD in the 90s: Programming Intel's Pentium MMX](https://pikuma.com/blog/programming-intel-pentium-mmx-simd)
+* [2026-08-13, 12:33:43](https://news.ycombinator.com/item?id=49284983) - [How Go detects struct copies with sync.noCopy](https://func25.dev/posts/go-sync-nocopy/)
 * [2026-08-13, 12:09:50](https://news.ycombinator.com/item?id=49284774) - [Deutsche Bank becomes first foreign yuan clearing bank in Europe](https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/)
 * [2026-08-13, 12:01:02](https://news.ycombinator.com/item?id=49284697) - [ATG (YC F25) Is Hiring Member of Technical Staff (Data Platform)](https://atg.science/careers)
 * [2026-08-13, 10:50:31](https://news.ycombinator.com/item?id=49284093) - [2,085 Tests, and None of Them Opens the Front Door](https://i.brandanthonymcdonald.com/what-my-tests-do-not-cover)
