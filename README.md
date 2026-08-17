@@ -1,11 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-17, 15:49:57](https://news.ycombinator.com/item?id=49332981) - [Universal Health Coverage Could Save $1T and 114k Lives a Year, Yale Study](https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/)
 * [2026-08-17, 15:36:18](https://news.ycombinator.com/item?id=49332751) - [Launch HN: Speko (YC S26) – OpenRouter for Voice AI](https://news.ycombinator.com/item?id=49332751)
-* [2026-08-17, 15:19:31](https://news.ycombinator.com/item?id=49332495) - [Ask HN: GitHub employees what's going on? Why?](https://news.ycombinator.com/item?id=49332495)
-* [2026-08-17, 14:30:09](https://news.ycombinator.com/item?id=49331625) - [Judge relying wholly on AI in order is covered by judicial immunity, court rules](https://reason.com/volokh/2026/08/17/judges-allegedly-relying-wholly-on-ai-in-order-is-covered-by-judicial-immunity-court-rules/)
 * [2026-08-17, 14:29:18](https://news.ycombinator.com/item?id=49331607) - [Qwen3.8-27B at 256K on a 24GB RTX PRO 4000 SFF (432 GB/s): 50 tok/s with MTP](https://piszczek.pl/blog/qwen38-27b-256k-50-tps-24gb-gpu)
-* [2026-08-17, 14:28:49](https://news.ycombinator.com/item?id=49331599) - [Show HN: Eve Software Factory](https://github.com/vercel-labs/eve-software-factory-template/tree/main)
 * [2026-08-17, 14:26:19](https://news.ycombinator.com/item?id=49331555) - [The only known trebuchet casualty in history](https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/)
+* [2026-08-17, 14:25:54](https://news.ycombinator.com/item?id=49331551) - [Show HN: Saggar, a Mac terminal that keeps sessions and your attention organized](https://saggar.marginalutility.dev/)
 * [2026-08-17, 14:21:25](https://news.ycombinator.com/item?id=49331474) - [How to put 170 atoms in an atom](https://signoregalilei.com/2026/08/02/how-to-put-170-atoms-in-an-atom/)
 * [2026-08-17, 14:18:38](https://news.ycombinator.com/item?id=49331423) - [AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug)
 * [2026-08-17, 14:11:17](https://news.ycombinator.com/item?id=49331288) - [Show HN: Learn Flags Quiz](https://flagquizzes.com/)
@@ -30,6 +29,7 @@
 * [2026-08-16, 17:01:07](https://news.ycombinator.com/item?id=49321717) - [A third world engineer responds to “RISC-V: They should have known better”](https://rvembedded.com/blog_post/12/)
 * [2026-08-16, 12:48:21](https://news.ycombinator.com/item?id=49319556) - [Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts)
 * [2026-08-13, 12:33:43](https://news.ycombinator.com/item?id=49284983) - [How Go detects struct copies with sync.noCopy](https://func25.dev/posts/go-sync-nocopy/)
+* [2026-08-12, 10:26:14](https://news.ycombinator.com/item?id=49270194) - [Olo (Color)](https://en.wikipedia.org/wiki/Olo_(color))
 
 ## [Archives](archives/index.md)
 
