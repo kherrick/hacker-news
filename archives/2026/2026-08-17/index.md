@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-17](index.md)
 
+* [2026-08-17, 19:06:11](https://news.ycombinator.com/item?id=49336050) - [AirTag reveals Amazon is trashing rare books to train AI](https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/)
 * [2026-08-17, 18:34:09](https://news.ycombinator.com/item?id=49335600) - [The Lonely Men Who Work in Patagonia, at the End of the World](https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world)
 * [2026-08-17, 18:28:07](https://news.ycombinator.com/item?id=49335517) - [Roboflow Playground: Try and Compare 30 Computer Vision Models](https://blog.roboflow.com/roboflow-playground/)
 * [2026-08-17, 18:15:27](https://news.ycombinator.com/item?id=49335292) - [How I Over-Engineered My Book](https://ben.balter.com/2026/08/17/how-i-over-engineered-my-book/)
