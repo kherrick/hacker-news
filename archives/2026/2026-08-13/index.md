@@ -8,6 +8,7 @@
 * [2026-08-13, 23:16:55](https://news.ycombinator.com/item?id=49292932) - [How AI text watermarking works](https://declaude.org/watermarking/)
 * [2026-08-13, 22:24:47](https://news.ycombinator.com/item?id=49292567) - [US sells 30-year bonds at highest borrowing costs since 2001](https://www.ft.com/content/9c9c948f-dc8b-4385-a9b9-4b98dc1eadd9)
 * [2026-08-13, 22:01:04](https://news.ycombinator.com/item?id=49292385) - [Chestnut – eGPU dock with open-source firmware](https://hwbusters.com/news/comma-ai-egpu-dock-runs-open-source-firmware-249-bare-799-with-an-rx-9060/)
+* [2026-08-13, 20:28:21](https://news.ycombinator.com/item?id=49291411) - [File Recovery in Process](https://gwolf.org/2026/08/file-recovery-in-process.html)
 * [2026-08-13, 20:14:17](https://news.ycombinator.com/item?id=49291268) - [NP-Overrated](https://gruhn.me/blog/2026-08-13/)
 * [2026-08-13, 19:44:46](https://news.ycombinator.com/item?id=49290969) - [How Gödel's Proof Works](https://www.quantamagazine.org/how-godels-proof-works-20200714/)
 * [2026-08-13, 19:26:58](https://news.ycombinator.com/item?id=49290785) - [Airbnb Eval-driven development: Lessons from evaluating GenAI at scale](https://medium.com/airbnb-engineering/eval-driven-development-lessons-from-evaluating-genai-at-scale-e817e5ae5788)
