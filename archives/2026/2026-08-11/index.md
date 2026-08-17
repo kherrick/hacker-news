@@ -61,6 +61,7 @@
 * [2026-08-11, 13:00:34](https://news.ycombinator.com/item?id=49257601) - [It's time Amazon played by the same rules as everyone else [video]](https://www.youtube.com/watch?v=91DoiansHqk)
 * [2026-08-11, 12:44:43](https://news.ycombinator.com/item?id=49257407) - [I backtested my own stock rankings. They lost to the index](https://holderdashboard.com/learn/backtest-that-lost-to-the-index)
 * [2026-08-11, 12:41:59](https://news.ycombinator.com/item?id=49257377) - [England set to be one of the first countries to eliminate hepatitis C](https://www.bbc.com/news/articles/c75gk620r22o)
+* [2026-08-11, 12:40:31](https://news.ycombinator.com/item?id=49257362) - [Dancing with friends and enemies: boids' swarm intelligence](https://community.wolfram.com/groups/-/m/t/122095)
 * [2026-08-11, 12:23:07](https://news.ycombinator.com/item?id=49257160) - [OpenAI’s head of ethics leaves less than a year after joining](https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0)
 * [2026-08-11, 11:02:34](https://news.ycombinator.com/item?id=49256258) - [How to organize Claude Code for product work](https://www.theaithinker.com/p/how-to-organize-claude-code-for-product)
 * [2026-08-11, 10:40:47](https://news.ycombinator.com/item?id=49256057) - [What I learned by putting GitHub Copilot behind a MitM proxy](https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm)
