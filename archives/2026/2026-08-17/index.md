@@ -4,6 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-08-17](index.md)
 
+* [2026-08-17, 14:29:56](https://news.ycombinator.com/item?id=49331621) - [Human Interface Guidelines from various platforms](https://unsung.aresluna.org/i-think-theres-a-lot-of-value-in-these/)
+* [2026-08-17, 14:18:38](https://news.ycombinator.com/item?id=49331423) - [AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug)
+* [2026-08-17, 14:07:59](https://news.ycombinator.com/item?id=49331222) - [Apple's App Tracking Transparency treated its own apps better than rivals](https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html)
+* [2026-08-17, 14:07:56](https://news.ycombinator.com/item?id=49331220) - [How to disable or avoid intrusive AI](https://www.librarian.net/notoai/)
+* [2026-08-17, 13:59:17](https://news.ycombinator.com/item?id=49331033) - [Ask HN: Alternatives to GitHub](https://news.ycombinator.com/item?id=49331033)
+* [2026-08-17, 13:46:27](https://news.ycombinator.com/item?id=49330781) - [A Preview of DuckDB v2.0](https://duckdb.org/2026/08/17/duckdb-20-highlights)
+* [2026-08-17, 13:44:23](https://news.ycombinator.com/item?id=49330742) - [We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility](https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/)
 * [2026-08-17, 13:40:55](https://news.ycombinator.com/item?id=49330684) - [Incident with Github.com](https://www.githubstatus.com/incidents/zkxwbgr0cnmx)
 * [2026-08-17, 13:37:28](https://news.ycombinator.com/item?id=49330632) - [GitHub down again? no PR access](https://news.ycombinator.com/item?id=49330632)
 * [2026-08-17, 13:35:31](https://news.ycombinator.com/item?id=49330604) - [Show HN: 1667, a terminal UI for writing fiction with language models](https://1667.ai/)
