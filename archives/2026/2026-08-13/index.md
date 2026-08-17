@@ -36,6 +36,7 @@
 * [2026-08-13, 16:22:16](https://news.ycombinator.com/item?id=49288296) - [GoAccess – Open-source real-time log analyzer and interactive viewer](https://goaccess.io/)
 * [2026-08-13, 16:22:05](https://news.ycombinator.com/item?id=49288293) - [We Have AI at Home Chapter 1: A Box of Scraps](https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html)
 * [2026-08-13, 15:07:10](https://news.ycombinator.com/item?id=49287153) - [Text AI watermarks will always be trivial to remove](https://www.seangoedecke.com/text-ai-watermarks/)
+* [2026-08-13, 14:51:08](https://news.ycombinator.com/item?id=49286891) - [The Marvelously Inventive Life of Mária Telkes (2023)](https://www.pbs.org/wgbh/americanexperience/features/sun-queen-marvelously-inventive-life-maria-telkes/)
 * [2026-08-13, 14:37:51](https://news.ycombinator.com/item?id=49286662) - [McDonald's Built a 515-Page Dossier on Me. It Says I'll Never Stop Eating There](https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/)
 * [2026-08-13, 14:37:29](https://news.ycombinator.com/item?id=49286654) - [Flock updates privacy, accountability, security, and transparency safeguards](https://www.flocksafety.com/blog/flock-guardrails-address-lpr-privacy-concerns-and-police-transparency)
 * [2026-08-13, 14:26:41](https://news.ycombinator.com/item?id=49286485) - [Kubernetes on Oxide: How Customer Needs Shaped Our Integrations](https://oxide.computer/blog/kubernetes-on-oxide)
