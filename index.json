@@ -1,6 +1,76 @@
 [
   [
     [
+      "2026-08-17, 14:29:56",
+      "https://news.ycombinator.com/item?id=49331621"
+    ],
+    [
+      "Human Interface Guidelines from various platforms",
+      "https://unsung.aresluna.org/i-think-theres-a-lot-of-value-in-these/"
+    ]
+  ],
+  [
+    [
+      "2026-08-17, 14:18:38",
+      "https://news.ycombinator.com/item?id=49331423"
+    ],
+    [
+      "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
+      "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug"
+    ]
+  ],
+  [
+    [
+      "2026-08-17, 14:07:59",
+      "https://news.ycombinator.com/item?id=49331222"
+    ],
+    [
+      "Apple's App Tracking Transparency treated its own apps better than rivals",
+      "https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html"
+    ]
+  ],
+  [
+    [
+      "2026-08-17, 14:07:56",
+      "https://news.ycombinator.com/item?id=49331220"
+    ],
+    [
+      "How to disable or avoid intrusive AI",
+      "https://www.librarian.net/notoai/"
+    ]
+  ],
+  [
+    [
+      "2026-08-17, 13:59:17",
+      "https://news.ycombinator.com/item?id=49331033"
+    ],
+    [
+      "Ask HN: Alternatives to GitHub",
+      "https://news.ycombinator.com/item?id=49331033"
+    ]
+  ],
+  [
+    [
+      "2026-08-17, 13:46:27",
+      "https://news.ycombinator.com/item?id=49330781"
+    ],
+    [
+      "A Preview of DuckDB v2.0",
+      "https://duckdb.org/2026/08/17/duckdb-20-highlights"
+    ]
+  ],
+  [
+    [
+      "2026-08-17, 13:44:23",
+      "https://news.ycombinator.com/item?id=49330742"
+    ],
+    [
+      "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+      "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/"
+    ]
+  ],
+  [
+    [
       "2026-08-17, 13:40:55",
       "https://news.ycombinator.com/item?id=49330684"
     ],
@@ -17,16 +87,6 @@
     [
       "GitHub down again? no PR access",
       "https://news.ycombinator.com/item?id=49330632"
-    ]
-  ],
-  [
-    [
-      "2026-08-17, 13:35:31",
-      "https://news.ycombinator.com/item?id=49330604"
-    ],
-    [
-      "Show HN: 1667, a terminal UI for writing fiction with language models",
-      "https://1667.ai/"
     ]
   ],
   [
@@ -71,16 +131,6 @@
   ],
   [
     [
-      "2026-08-17, 12:35:01",
-      "https://news.ycombinator.com/item?id=49329844"
-    ],
-    [
-      "David Sacks on X: Some thoughts on Dario's post",
-      "https://twitter.com/DavidSacks/status/2089227290769080656"
-    ]
-  ],
-  [
-    [
       "2026-08-17, 12:10:22",
       "https://news.ycombinator.com/item?id=49329583"
     ],
@@ -97,26 +147,6 @@
     [
       "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
       "https://blog.roboflow.com/openai-gpt-5-6/"
-    ]
-  ],
-  [
-    [
-      "2026-08-17, 11:55:15",
-      "https://news.ycombinator.com/item?id=49329430"
-    ],
-    [
-      "Who Owns Commodore? The Retro PC Brand Still Exists, but a Lot Has Changed",
-      "https://www.bgr.com/2233625/who-owns-commodore-retro-brand/"
-    ]
-  ],
-  [
-    [
-      "2026-08-17, 09:11:17",
-      "https://news.ycombinator.com/item?id=49328206"
-    ],
-    [
-      "Pi coding agent: config folder is out of place on Linux",
-      "https://github.com/earendil-works/pi/issues/534"
     ]
   ],
   [
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2026-08-17, 00:35:29",
-      "https://news.ycombinator.com/item?id=49325304"
-    ],
-    [
-      "Applying a photosynthetic process to treat “dry eye”",
-      "https://www.science.org/content/blog-post/taking-tip-plants-eyes"
-    ]
-  ],
-  [
-    [
       "2026-08-16, 23:59:10",
       "https://news.ycombinator.com/item?id=49325061"
     ],
@@ -207,6 +227,16 @@
     [
       "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
       "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing"
+    ]
+  ],
+  [
+    [
+      "2026-08-16, 20:41:57",
+      "https://news.ycombinator.com/item?id=49323474"
+    ],
+    [
+      "How I developed an Am29000 C compiler and web browser",
+      "https://nanochess.org/am29000_c_compiler_web_browser.html"
     ]
   ],
   [
@@ -247,36 +277,6 @@
     [
       "How do I permanently disable random Google Photos popup to backup photos? (2024)",
       "https://support.google.com/photos/thread/256212140/how-do-i-permanently-disable-google-photos-pop-up-prompt-to-backup-my-photos-i?hl=en"
-    ]
-  ],
-  [
-    [
-      "2026-08-13, 16:32:15",
-      "https://news.ycombinator.com/item?id=49288449"
-    ],
-    [
-      "Gakutensoku",
-      "https://en.wikipedia.org/wiki/Gakutensoku"
-    ]
-  ],
-  [
-    [
-      "2026-08-13, 14:08:44",
-      "https://news.ycombinator.com/item?id=49286211"
-    ],
-    [
-      "Build a Stratum 1 PTP Grandmaster on a Budget",
-      "https://opscode.io/posts/ptp-grandmaster-cm4-sr1723u10/"
-    ]
-  ],
-  [
-    [
-      "2026-08-13, 12:44:05",
-      "https://news.ycombinator.com/item?id=49285096"
-    ],
-    [
-      "SIMD in the 90s: Programming Intel's Pentium MMX",
-      "https://pikuma.com/blog/programming-intel-pentium-mmx-simd"
     ]
   ],
   [
