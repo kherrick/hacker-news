@@ -5,10 +5,13 @@
 ### [Archives](../../index.md) for [2026-08-17](index.md)
 
 * [2026-08-17, 22:20:40](https://news.ycombinator.com/item?id=49338459) - [Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/)
+* [2026-08-17, 22:18:05](https://news.ycombinator.com/item?id=49338428) - [scScript for Linux](https://scapplications.com/)
 * [2026-08-17, 22:15:38](https://news.ycombinator.com/item?id=49338404) - [Nation's Largest Reservoirs Are Drying Up, Threatening Life in the Southwest](https://www.nytimes.com/2026/08/17/climate/lake-powell-record-low-colorado.html)
 * [2026-08-17, 22:06:14](https://news.ycombinator.com/item?id=49338328) - [Quake Shareware, a CD-ROM just a little too full](https://fabiensanglard.net/quake_shareware_cd/index.html)
 * [2026-08-17, 22:01:17](https://news.ycombinator.com/item?id=49338285) - [Fairphone 6 and PostmarketOS working main camera](https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera)
+* [2026-08-17, 21:47:30](https://news.ycombinator.com/item?id=49338139) - [My friends all hate AI; I just joined an AI startup](https://www.fast.ai/posts/2026-08-18-returning-to-AI/)
 * [2026-08-17, 21:06:10](https://news.ycombinator.com/item?id=49337630) - [How do functions like alloca allocate memory from the stack?](https://devblogs.microsoft.com/oldnewthing/20260817-40/?p=112617)
+* [2026-08-17, 21:03:18](https://news.ycombinator.com/item?id=49337602) - [GPT-5.6 Sol Pricing Cut by 50%](https://openrouter.ai/openai/gpt-5.6-sol)
 * [2026-08-17, 20:12:58](https://news.ycombinator.com/item?id=49336909) - [The Origin of Consciousness](https://blog.plover.com/brain/Jaynes.html)
 * [2026-08-17, 19:56:30](https://news.ycombinator.com/item?id=49336672) - [Will you have spent more of your life with computers than your family?](https://beachfront.bearblog.dev/will-you-have-spent-more-of-your-life-with-computers-than-your-family/)
 * [2026-08-17, 19:47:15](https://news.ycombinator.com/item?id=49336573) - [AI;DR (AI; Didn't Read)](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
