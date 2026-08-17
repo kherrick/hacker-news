@@ -19,6 +19,7 @@
 * [2026-08-13, 18:41:01](https://news.ycombinator.com/item?id=49290215) - [Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes](https://github.com/systemd/systemd/issues/40262)
 * [2026-08-13, 18:39:52](https://news.ycombinator.com/item?id=49290202) - [What Is Kimi K3? A Complete Developer Guide for 2026](https://www.firecrawl.dev/blog/kimi-k3)
 * [2026-08-13, 18:37:18](https://news.ycombinator.com/item?id=49290166) - [Hello, me. It's been a while](https://themech.net/2026/08/hello-me-its-been-a-while/)
+* [2026-08-13, 18:13:52](https://news.ycombinator.com/item?id=49289893) - [Cross-Validation From Scratch and a Surprise at n=100](https://www.kenkoonwong.com/blog/crossvalidation/)
 * [2026-08-13, 18:13:42](https://news.ycombinator.com/item?id=49289890) - [Show HN: OpenCode Senses, An insanely fast and highly accurate vision plugin](https://github.com/itsmeadarsh2008/opencode-senses)
 * [2026-08-13, 18:10:02](https://news.ycombinator.com/item?id=49289844) - [Accelerating GPT-5.6 Sol Ultrafast](https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai)
 * [2026-08-13, 17:57:50](https://news.ycombinator.com/item?id=49289654) - [How Compaction Works in Pi](https://earendil.com/posts/compaction-in-pi/)
