@@ -1,22 +1,72 @@
 [
   [
     [
-      "2026-08-17, 12:35:01",
-      "https://news.ycombinator.com/item?id=49329844"
+      "2026-08-17, 13:40:55",
+      "https://news.ycombinator.com/item?id=49330684"
     ],
     [
-      "David Sacks on X: Some thoughts on Dario's post",
-      "https://twitter.com/DavidSacks/status/2089227290769080656"
+      "Incident with Github.com",
+      "https://www.githubstatus.com/incidents/zkxwbgr0cnmx"
     ]
   ],
   [
     [
-      "2026-08-17, 12:18:24",
-      "https://news.ycombinator.com/item?id=49329660"
+      "2026-08-17, 13:37:28",
+      "https://news.ycombinator.com/item?id=49330632"
     ],
     [
-      "Buyer cancels showing after Deflock shows two cameras utilized by the HOA",
-      "https://twitter.com/lydiakauppi/status/2089196932413452386"
+      "GitHub down again? no PR access",
+      "https://news.ycombinator.com/item?id=49330632"
+    ]
+  ],
+  [
+    [
+      "2026-08-17, 13:35:31",
+      "https://news.ycombinator.com/item?id=49330604"
+    ],
+    [
+      "Show HN: 1667, a terminal UI for writing fiction with language models",
+      "https://1667.ai/"
+    ]
+  ],
+  [
+    [
+      "2026-08-17, 13:35:06",
+      "https://news.ycombinator.com/item?id=49330597"
+    ],
+    [
+      "Tell HN: GitHub Is Overloaded",
+      "https://news.ycombinator.com/item?id=49330597"
+    ]
+  ],
+  [
+    [
+      "2026-08-17, 13:24:55",
+      "https://news.ycombinator.com/item?id=49330456"
+    ],
+    [
+      "Cialis is an erectile dysfunction drug. Could it also help you live longer?",
+      "https://www.npr.org/2026/08/17/nx-s1-5928263/cialis-viagra-tadalafil-longevity-heart-health"
+    ]
+  ],
+  [
+    [
+      "2026-08-17, 13:07:00",
+      "https://news.ycombinator.com/item?id=49330215"
+    ],
+    [
+      "Show HN: Sokoban AI Solver",
+      "https://mkornreich.me/projects/sokoban/"
+    ]
+  ],
+  [
+    [
+      "2026-08-17, 13:00:44",
+      "https://news.ycombinator.com/item?id=49330139"
+    ],
+    [
+      "Stripe to Buy OpenRouter for $7B",
+      "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion"
     ]
   ],
   [
@@ -51,22 +101,22 @@
   ],
   [
     [
-      "2026-08-17, 11:45:12",
-      "https://news.ycombinator.com/item?id=49329347"
-    ],
-    [
-      "People are worried about America's solvency",
-      "https://www.ft.com/content/e04f286c-f5ed-46d1-8e3f-0bbe4cce4d3e"
-    ]
-  ],
-  [
-    [
       "2026-08-17, 10:45:14",
       "https://news.ycombinator.com/item?id=49328911"
     ],
     [
       "Self hosted email continues to steeply decline",
       "https://labs.ripe.net/author/artem-berezin/two-providers-a-stubborn-plateau-and-a-very-long-tail-email-in-the-tranco-top-1m/"
+    ]
+  ],
+  [
+    [
+      "2026-08-17, 09:11:17",
+      "https://news.ycombinator.com/item?id=49328206"
+    ],
+    [
+      "Pi coding agent: config folder is out of place on Linux",
+      "https://github.com/earendil-works/pi/issues/534"
     ]
   ],
   [
@@ -87,16 +137,6 @@
     [
       "Linear algebra done right",
       "https://linear.axler.net/"
-    ]
-  ],
-  [
-    [
-      "2026-08-17, 03:08:47",
-      "https://news.ycombinator.com/item?id=49326156"
-    ],
-    [
-      "GIMP Development Update",
-      "https://www.gimp.org/news/2026/08/16/dev-update-august-2026/"
     ]
   ],
   [
@@ -167,36 +207,6 @@
     [
       "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
       "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing"
-    ]
-  ],
-  [
-    [
-      "2026-08-16, 18:48:27",
-      "https://news.ycombinator.com/item?id=49322573"
-    ],
-    [
-      "Protobuf has LSP support",
-      "https://buf.build/blog/protobuf-lsp"
-    ]
-  ],
-  [
-    [
-      "2026-08-16, 18:17:10",
-      "https://news.ycombinator.com/item?id=49322330"
-    ],
-    [
-      "MathCode, Mathematical Coding Agent",
-      "https://math-ai-org.github.io/mathcode/"
-    ]
-  ],
-  [
-    [
-      "2026-08-16, 17:49:46",
-      "https://news.ycombinator.com/item?id=49322107"
-    ],
-    [
-      "Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
-      "https://news.ycombinator.com/item?id=49322107"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "How Go detects struct copies with sync.noCopy",
       "https://func25.dev/posts/go-sync-nocopy/"
-    ]
-  ],
-  [
-    [
-      "2026-08-13, 02:32:01",
-      "https://news.ycombinator.com/item?id=49281175"
-    ],
-    [
-      "Production-ready detection and response queries for osquery",
-      "https://github.com/chainguard-dev/osquery-defense-kit"
     ]
   ]
 ]
