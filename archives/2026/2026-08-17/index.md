@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-17](index.md)
 
+* [2026-08-17, 20:12:58](https://news.ycombinator.com/item?id=49336909) - [The Origin of Consciousness](https://blog.plover.com/brain/Jaynes.html)
 * [2026-08-17, 19:56:30](https://news.ycombinator.com/item?id=49336672) - [Will you have spent more of your life with computers than your family?](https://beachfront.bearblog.dev/will-you-have-spent-more-of-your-life-with-computers-than-your-family/)
 * [2026-08-17, 19:47:15](https://news.ycombinator.com/item?id=49336573) - [AI;DR (AI; Didn't Read)](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
 * [2026-08-17, 19:25:11](https://news.ycombinator.com/item?id=49336304) - [India has paved the way for charging merchants a fee on UPI transactions](https://www.bbc.com/news/articles/c8xnwqe00v1o)
@@ -18,6 +19,7 @@
 * [2026-08-17, 17:54:59](https://news.ycombinator.com/item?id=49334991) - [GPU Offload in Rust: Portable, Safe, and Fast](https://arxiv.org/abs/2608.13759)
 * [2026-08-17, 17:52:37](https://news.ycombinator.com/item?id=49334960) - [Memory prices climb 500% in 12 months, up to 10x the lowest ever tracked prices](https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399)
 * [2026-08-17, 17:25:17](https://news.ycombinator.com/item?id=49334544) - [Qwen3.8 27B scores 52 on Artificial Analysis](https://artificialanalysis.ai/models/qwen3-8-27b)
+* [2026-08-17, 17:15:20](https://news.ycombinator.com/item?id=49334409) - [An update on leaving Gmail for Fastmail](https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/)
 * [2026-08-17, 16:45:11](https://news.ycombinator.com/item?id=49333932) - [Buy Your Friends Batteries](https://domenkozar.com/2026/08/17/buy-your-friends-batteries/)
 * [2026-08-17, 16:37:54](https://news.ycombinator.com/item?id=49333824) - [Sun Clock](https://sunclock.net/)
 * [2026-08-17, 16:31:17](https://news.ycombinator.com/item?id=49333728) - [GitHub Has an Availability Problem. Is It Time to Look Elsewhere?](https://dhruv2038.bearblog.dev/github-has-an-availability-problem-is-it-time-to-look-elsewhere/)
