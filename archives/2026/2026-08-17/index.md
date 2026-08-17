@@ -20,6 +20,7 @@
 * [2026-08-17, 17:52:37](https://news.ycombinator.com/item?id=49334960) - [Memory prices climb 500% in 12 months, up to 10x the lowest ever tracked prices](https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399)
 * [2026-08-17, 17:25:17](https://news.ycombinator.com/item?id=49334544) - [Qwen3.8 27B scores 52 on Artificial Analysis](https://artificialanalysis.ai/models/qwen3-8-27b)
 * [2026-08-17, 17:15:20](https://news.ycombinator.com/item?id=49334409) - [An update on leaving Gmail for Fastmail](https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/)
+* [2026-08-17, 17:02:44](https://news.ycombinator.com/item?id=49334209) - [Cursor launches Origin, GitHub alternative](https://cursor.com/changelog/origin-code-hosting)
 * [2026-08-17, 16:45:11](https://news.ycombinator.com/item?id=49333932) - [Buy Your Friends Batteries](https://domenkozar.com/2026/08/17/buy-your-friends-batteries/)
 * [2026-08-17, 16:37:54](https://news.ycombinator.com/item?id=49333824) - [Sun Clock](https://sunclock.net/)
 * [2026-08-17, 16:31:17](https://news.ycombinator.com/item?id=49333728) - [GitHub Has an Availability Problem. Is It Time to Look Elsewhere?](https://dhruv2038.bearblog.dev/github-has-an-availability-problem-is-it-time-to-look-elsewhere/)
