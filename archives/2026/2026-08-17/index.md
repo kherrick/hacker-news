@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-17](index.md)
 
+* [2026-08-17, 07:28:43](https://news.ycombinator.com/item?id=49327490) - [HackEurope 2026: A short rant on AI and hackathons](https://duti.dev/blog/2026/spr/)
 * [2026-08-17, 05:22:49](https://news.ycombinator.com/item?id=49326825) - [$12B of US ratepayers' money wasted on a modeling mistake in PJM](https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted)
 * [2026-08-17, 05:21:34](https://news.ycombinator.com/item?id=49326816) - [Linear Algebra Done Right – Sheldon Axler](https://linear.axler.net/)
 * [2026-08-17, 04:02:19](https://news.ycombinator.com/item?id=49326443) - [Hayden Panetierre Dies at 36](https://abcnews.com/US/hayden-panettiere-dies-36/story?id=135698473)

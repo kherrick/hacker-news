@@ -85,4 +85,5 @@
 * [2026-08-11, 02:04:35](https://news.ycombinator.com/item?id=49252493) - [Hyperspace](https://hypercritical.co/hyperspace/)
 * [2026-08-11, 02:01:01](https://news.ycombinator.com/item?id=49252462) - [Recycle – Floppydisks](https://www.floppydisk.com/recycle)
 * [2026-08-11, 01:22:09](https://news.ycombinator.com/item?id=49252179) - [Antirez/h3.c: MiniMax H3 inference engine for Mac computers](https://github.com/antirez/h3.c)
+* [2026-08-11, 00:35:17](https://news.ycombinator.com/item?id=49251775) - [Beware the Permanent Periphery](https://asteriskmag.com/issues/15/beware-the-permanent-periphery)
 * [2026-08-11, 00:24:15](https://news.ycombinator.com/item?id=49251702) - [Chicken Scheme 6.0](https://code.call-cc.org/releases/6.0.0/NEWS)
