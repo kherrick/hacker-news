@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-08-17, 18:34:09",
+      "https://news.ycombinator.com/item?id=49335600"
+    ],
+    [
+      "The Lonely Men Who Work in Patagonia, at the End of the World",
+      "https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world"
+    ]
+  ],
+  [
+    [
+      "2026-08-17, 18:28:07",
+      "https://news.ycombinator.com/item?id=49335517"
+    ],
+    [
+      "Roboflow Playground: Try and Compare 30 Computer Vision Models",
+      "https://blog.roboflow.com/roboflow-playground/"
+    ]
+  ],
+  [
+    [
+      "2026-08-17, 18:15:27",
+      "https://news.ycombinator.com/item?id=49335292"
+    ],
+    [
+      "How I Over-Engineered My Book",
+      "https://ben.balter.com/2026/08/17/how-i-over-engineered-my-book/"
+    ]
+  ],
+  [
+    [
+      "2026-08-17, 18:10:16",
+      "https://news.ycombinator.com/item?id=49335216"
+    ],
+    [
+      "Amazon, which started off selling books, is destroying rare texts to train AI",
+      "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/"
+    ]
+  ],
+  [
+    [
       "2026-08-17, 18:06:30",
       "https://news.ycombinator.com/item?id=49335163"
     ],
@@ -11,12 +51,32 @@
   ],
   [
     [
-      "2026-08-17, 17:52:37",
-      "https://news.ycombinator.com/item?id=49334960"
+      "2026-08-17, 17:56:06",
+      "https://news.ycombinator.com/item?id=49335017"
     ],
     [
-      "Memory prices climb 500% in 12 months, up to 10x the lowest ever tracked prices",
-      "https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399"
+      "Llama.cpp v0.1.0",
+      "https://github.com/ggml-org/llama.cpp/releases/tag/v0.1.0"
+    ]
+  ],
+  [
+    [
+      "2026-08-17, 17:55:24",
+      "https://news.ycombinator.com/item?id=49335001"
+    ],
+    [
+      "We Are Forking dotenvy into dotenv-ng",
+      "https://secretspec.dev/blog/we-are-forking-dotenvy-into-dotenv-ng/"
+    ]
+  ],
+  [
+    [
+      "2026-08-17, 17:54:59",
+      "https://news.ycombinator.com/item?id=49334991"
+    ],
+    [
+      "GPU Offload in Rust: Portable, Safe, and Fast",
+      "https://arxiv.org/abs/2608.13759"
     ]
   ],
   [
@@ -27,16 +87,6 @@
     [
       "Qwen3.8 27B scores 52 on Artificial Analysis",
       "https://artificialanalysis.ai/models/qwen3-8-27b"
-    ]
-  ],
-  [
-    [
-      "2026-08-17, 16:45:11",
-      "https://news.ycombinator.com/item?id=49333932"
-    ],
-    [
-      "Buy Your Friends Batteries",
-      "https://domenkozar.com/2026/08/17/buy-your-friends-batteries/"
     ]
   ],
   [
@@ -67,16 +117,6 @@
     [
       "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
       "https://speko.ai/"
-    ]
-  ],
-  [
-    [
-      "2026-08-17, 15:24:34",
-      "https://news.ycombinator.com/item?id=49332564"
-    ],
-    [
-      "Anthropic's War on open source AI",
-      "https://twitter.com/TheAhmadOsman/status/2065307070044234186"
     ]
   ],
   [
@@ -191,16 +231,6 @@
   ],
   [
     [
-      "2026-08-17, 12:10:22",
-      "https://news.ycombinator.com/item?id=49329583"
-    ],
-    [
-      "Mexico crackdown on coastal development",
-      "https://yucatanmagazine.com/mexico-crackdown-on-coastal-development/"
-    ]
-  ],
-  [
-    [
       "2026-08-17, 12:09:42",
       "https://news.ycombinator.com/item?id=49329575"
     ],
@@ -211,42 +241,12 @@
   ],
   [
     [
-      "2026-08-17, 07:51:22",
-      "https://news.ycombinator.com/item?id=49327643"
-    ],
-    [
-      "Show HN: Desktopcolors.com – A museum for solid background colors of classic OS",
-      "https://desktopcolors.com"
-    ]
-  ],
-  [
-    [
-      "2026-08-17, 05:21:34",
-      "https://news.ycombinator.com/item?id=49326816"
-    ],
-    [
-      "Linear algebra done right",
-      "https://linear.axler.net/"
-    ]
-  ],
-  [
-    [
       "2026-08-17, 01:59:56",
       "https://news.ycombinator.com/item?id=49325789"
     ],
     [
       "On AI regulation and messaging",
       "https://twitter.com/DarioAmodei/status/2088758816376807762"
-    ]
-  ],
-  [
-    [
-      "2026-08-16, 23:59:10",
-      "https://news.ycombinator.com/item?id=49325061"
-    ],
-    [
-      "Reticulum – Decentralized Mesh Network",
-      "https://reticulum.network/"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2026-08-13, 18:13:52",
-      "https://news.ycombinator.com/item?id=49289893"
+      "2026-08-13, 16:47:40",
+      "https://news.ycombinator.com/item?id=49288644"
     ],
     [
-      "Cross-Validation From Scratch and a Surprise at n=100",
-      "https://www.kenkoonwong.com/blog/crossvalidation/"
+      "Marketers are Addicted to Bad Data (2020)",
+      "https://www.jacquescorbytuech.com/writing/marketers-addicted-bad-data"
     ]
   ],
   [
