@@ -13,6 +13,7 @@
 * [2026-08-13, 19:26:58](https://news.ycombinator.com/item?id=49290785) - [Airbnb Eval-driven development: Lessons from evaluating GenAI at scale](https://medium.com/airbnb-engineering/eval-driven-development-lessons-from-evaluating-genai-at-scale-e817e5ae5788)
 * [2026-08-13, 19:25:38](https://news.ycombinator.com/item?id=49290768) - [How Organizations Use AI: Evidence from ChatGPT [pdf]](https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf)
 * [2026-08-13, 19:15:10](https://news.ycombinator.com/item?id=49290629) - [Show HN: Pixy, visual editor for coding agents, like Figma on your live site](https://pixydesignapp.com/)
+* [2026-08-13, 19:07:34](https://news.ycombinator.com/item?id=49290545) - [How do I permanently disable Google Photos pop-up prompt to backup my photos?](https://support.google.com/photos/thread/256212140/how-do-i-permanently-disable-google-photos-pop-up-prompt-to-backup-my-photos-i?hl=en)
 * [2026-08-13, 18:47:19](https://news.ycombinator.com/item?id=49290299) - [Understanding Is the New Bottleneck](https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck)
 * [2026-08-13, 18:41:01](https://news.ycombinator.com/item?id=49290215) - [Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes](https://github.com/systemd/systemd/issues/40262)
 * [2026-08-13, 18:39:52](https://news.ycombinator.com/item?id=49290202) - [What Is Kimi K3? A Complete Developer Guide for 2026](https://www.firecrawl.dev/blog/kimi-k3)
