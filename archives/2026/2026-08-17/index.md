@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-08-17](index.md)
 
+* [2026-08-17, 15:36:18](https://news.ycombinator.com/item?id=49332751) - [Launch HN: Speko (YC S26) – OpenRouter for Voice AI](https://news.ycombinator.com/item?id=49332751)
 * [2026-08-17, 15:19:31](https://news.ycombinator.com/item?id=49332495) - [Ask HN: GitHub employees what's going on? Why?](https://news.ycombinator.com/item?id=49332495)
+* [2026-08-17, 14:30:09](https://news.ycombinator.com/item?id=49331625) - [Judge relying wholly on AI in order is covered by judicial immunity, court rules](https://reason.com/volokh/2026/08/17/judges-allegedly-relying-wholly-on-ai-in-order-is-covered-by-judicial-immunity-court-rules/)
 * [2026-08-17, 14:29:56](https://news.ycombinator.com/item?id=49331621) - [Human Interface Guidelines from various platforms](https://unsung.aresluna.org/i-think-theres-a-lot-of-value-in-these/)
 * [2026-08-17, 14:29:18](https://news.ycombinator.com/item?id=49331607) - [Qwen3.8-27B at 256K on a 24GB RTX PRO 4000 SFF (432 GB/s): 50 tok/s with MTP](https://piszczek.pl/blog/qwen38-27b-256k-50-tps-24gb-gpu)
 * [2026-08-17, 14:28:49](https://news.ycombinator.com/item?id=49331599) - [Show HN: Eve Software Factory](https://github.com/vercel-labs/eve-software-factory-template/tree/main)

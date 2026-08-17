@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-17, 15:36:18](https://news.ycombinator.com/item?id=49332751) - [Launch HN: Speko (YC S26) – OpenRouter for Voice AI](https://news.ycombinator.com/item?id=49332751)
 * [2026-08-17, 15:19:31](https://news.ycombinator.com/item?id=49332495) - [Ask HN: GitHub employees what's going on? Why?](https://news.ycombinator.com/item?id=49332495)
+* [2026-08-17, 14:30:09](https://news.ycombinator.com/item?id=49331625) - [Judge relying wholly on AI in order is covered by judicial immunity, court rules](https://reason.com/volokh/2026/08/17/judges-allegedly-relying-wholly-on-ai-in-order-is-covered-by-judicial-immunity-court-rules/)
 * [2026-08-17, 14:29:18](https://news.ycombinator.com/item?id=49331607) - [Qwen3.8-27B at 256K on a 24GB RTX PRO 4000 SFF (432 GB/s): 50 tok/s with MTP](https://piszczek.pl/blog/qwen38-27b-256k-50-tps-24gb-gpu)
 * [2026-08-17, 14:28:49](https://news.ycombinator.com/item?id=49331599) - [Show HN: Eve Software Factory](https://github.com/vercel-labs/eve-software-factory-template/tree/main)
 * [2026-08-17, 14:26:19](https://news.ycombinator.com/item?id=49331555) - [The only known trebuchet casualty in history](https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/)
@@ -15,7 +17,6 @@
 * [2026-08-17, 13:40:55](https://news.ycombinator.com/item?id=49330684) - [Incident with Github.com](https://www.githubstatus.com/incidents/zkxwbgr0cnmx)
 * [2026-08-17, 13:37:28](https://news.ycombinator.com/item?id=49330632) - [GitHub down again? no PR access](https://news.ycombinator.com/item?id=49330632)
 * [2026-08-17, 13:24:55](https://news.ycombinator.com/item?id=49330456) - [Cialis is an erectile dysfunction drug. Could it also help you live longer?](https://www.npr.org/2026/08/17/nx-s1-5928263/cialis-viagra-tadalafil-longevity-heart-health)
-* [2026-08-17, 13:09:06](https://news.ycombinator.com/item?id=49330246) - [Speeding Up the Plush Garbage Collector](https://pointersgonewild.com/2026-08-17-speeding-up-the-plush-garbage-collector/)
 * [2026-08-17, 13:07:00](https://news.ycombinator.com/item?id=49330215) - [Show HN: Sokoban AI Solver](https://mkornreich.me/projects/sokoban/)
 * [2026-08-17, 12:10:22](https://news.ycombinator.com/item?id=49329583) - [Mexico Crackdown on Coastal Development Underway](https://yucatanmagazine.com/mexico-crackdown-on-coastal-development/)
 * [2026-08-17, 12:09:42](https://news.ycombinator.com/item?id=49329575) - [GPT 5.6 Sol is the best \"vision\" model OpenAI ever released](https://blog.roboflow.com/openai-gpt-5-6/)
@@ -29,7 +30,6 @@
 * [2026-08-16, 17:01:07](https://news.ycombinator.com/item?id=49321717) - [A third world engineer responds to “RISC-V: They should have known better”](https://rvembedded.com/blog_post/12/)
 * [2026-08-16, 12:48:21](https://news.ycombinator.com/item?id=49319556) - [Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts)
 * [2026-08-13, 12:33:43](https://news.ycombinator.com/item?id=49284983) - [How Go detects struct copies with sync.noCopy](https://func25.dev/posts/go-sync-nocopy/)
-* [2026-08-12, 21:07:48](https://news.ycombinator.com/item?id=49278577) - [My Ten Years in No Man's Sky](https://nmsspot.com/2026/08/09/my-ten-years-in-no-mans-sky/)
 
 ## [Archives](archives/index.md)
 
