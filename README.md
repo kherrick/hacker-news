@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-17, 07:51:22](https://news.ycombinator.com/item?id=49327643) - [Show HN: Desktopcolors.com – A museum for solid background colors of classic OS](https://desktopcolors.com)
 * [2026-08-17, 05:21:34](https://news.ycombinator.com/item?id=49326816) - [Linear algebra done right](https://linear.axler.net/)
 * [2026-08-17, 03:08:47](https://news.ycombinator.com/item?id=49326156) - [GIMP Development Update](https://www.gimp.org/news/2026/08/16/dev-update-august-2026/)
 * [2026-08-17, 02:55:20](https://news.ycombinator.com/item?id=49326071) - [Strong gravitational lensing and microlensing of supernovae (2024)](https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5)
@@ -17,8 +18,10 @@
 * [2026-08-16, 18:17:10](https://news.ycombinator.com/item?id=49322330) - [MathCode, Mathematical Coding Agent](https://math-ai-org.github.io/mathcode/)
 * [2026-08-16, 17:49:46](https://news.ycombinator.com/item?id=49322107) - [Tell HN: Cloudflare silently injects its analytics when you switch nameservers](https://news.ycombinator.com/item?id=49322107)
 * [2026-08-16, 17:01:07](https://news.ycombinator.com/item?id=49321717) - [A third world engineer responds to “RISC-V: They should have known better”](https://rvembedded.com/blog_post/12/)
+* [2026-08-16, 14:53:14](https://news.ycombinator.com/item?id=49320673) - [GPS and the Lost Art of Getting Lost](https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost)
 * [2026-08-16, 14:44:55](https://news.ycombinator.com/item?id=49320611) - [The AI Credit Resale Economy](https://vectoral.com/blog/who-are-the-token-brokers)
 * [2026-08-16, 12:48:21](https://news.ycombinator.com/item?id=49319556) - [Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts)
+* [2026-08-15, 20:15:51](https://news.ycombinator.com/item?id=49313920) - [Plastic mechanical computer from 1963: The Digi-Comp 1 [video]](https://www.youtube.com/watch?v=-y8bGBE71yw)
 * [2026-08-14, 19:18:34](https://news.ycombinator.com/item?id=49303380) - [The Mysterious Syndrome Destroying Endurance Athletes](https://www.outsideonline.com/health/training-performance/running-empty/)
 * [2026-08-14, 14:09:32](https://news.ycombinator.com/item?id=49298932) - [Design 3D-printable parts by talking](https://nurb.dev/)
 * [2026-08-14, 09:39:21](https://news.ycombinator.com/item?id=49296495) - [The continuing \"Q collar\" scandal](https://statmodeling.stat.columbia.edu/2026/08/13/we-should-probably-be-doing-more-coverage-of-science-adjacent-medical-scams-like-the-q-collar-and-less-on-repulsively-self-promoting-but-ultimately-less-harmful-academic-grifters/)
@@ -26,10 +29,7 @@
 * [2026-08-13, 16:32:15](https://news.ycombinator.com/item?id=49288449) - [Gakutensoku](https://en.wikipedia.org/wiki/Gakutensoku)
 * [2026-08-13, 12:44:05](https://news.ycombinator.com/item?id=49285096) - [SIMD in the 90s: Programming Intel's Pentium MMX](https://pikuma.com/blog/programming-intel-pentium-mmx-simd)
 * [2026-08-13, 03:05:36](https://news.ycombinator.com/item?id=49281352) - [Clamiga: Common Lisp for the Amiga](https://nnamgreb.de/blog/Clamiga+-+Common+Lisp+for+the+Amiga)
-* [2026-08-11, 15:36:27](https://news.ycombinator.com/item?id=49259980) - [Low-Tech Ceramic Water Filter](https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en)
-* [2026-08-11, 12:40:31](https://news.ycombinator.com/item?id=49257362) - [Dancing with friends and enemies: boids' swarm intelligence (2012)](https://community.wolfram.com/groups/-/m/t/122095)
-* [2026-08-10, 15:32:03](https://news.ycombinator.com/item?id=49245021) - [Show HN: Vocal Slice – Cut audio by selecting text, fully on-device](https://vocalslice.com/)
-* [2026-08-09, 13:50:21](https://news.ycombinator.com/item?id=49231418) - [Interview with Amit Patel, Creator of “Solar Realms Elite” (2013)](https://breakintochat.com/blog/2013/02/18/amit-patel-creator-of-solar-realms-elite/)
+* [2026-08-13, 02:32:01](https://news.ycombinator.com/item?id=49281175) - [Production-ready detection and response queries for osquery](https://github.com/chainguard-dev/osquery-defense-kit)
 
 ## [Archives](archives/index.md)
 
