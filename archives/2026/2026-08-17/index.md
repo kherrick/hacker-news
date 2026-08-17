@@ -4,6 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-08-17](index.md)
 
+* [2026-08-17, 13:40:55](https://news.ycombinator.com/item?id=49330684) - [Incident with Github.com](https://www.githubstatus.com/incidents/zkxwbgr0cnmx)
+* [2026-08-17, 13:37:28](https://news.ycombinator.com/item?id=49330632) - [GitHub down again? no PR access](https://news.ycombinator.com/item?id=49330632)
+* [2026-08-17, 13:35:31](https://news.ycombinator.com/item?id=49330604) - [Show HN: 1667, a terminal UI for writing fiction with language models](https://1667.ai/)
+* [2026-08-17, 13:35:06](https://news.ycombinator.com/item?id=49330597) - [Tell HN: GitHub Is Overloaded](https://news.ycombinator.com/item?id=49330597)
+* [2026-08-17, 13:24:55](https://news.ycombinator.com/item?id=49330456) - [Cialis is an erectile dysfunction drug. Could it also help you live longer?](https://www.npr.org/2026/08/17/nx-s1-5928263/cialis-viagra-tadalafil-longevity-heart-health)
+* [2026-08-17, 13:07:00](https://news.ycombinator.com/item?id=49330215) - [Show HN: Sokoban AI Solver](https://mkornreich.me/projects/sokoban/)
+* [2026-08-17, 13:00:44](https://news.ycombinator.com/item?id=49330139) - [Stripe to Buy OpenRouter for $7B](https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion)
 * [2026-08-17, 12:35:01](https://news.ycombinator.com/item?id=49329844) - [David Sacks on X: Some thoughts on Dario's post](https://twitter.com/DavidSacks/status/2089227290769080656)
 * [2026-08-17, 12:18:24](https://news.ycombinator.com/item?id=49329660) - [Buyer cancels showing after Deflock shows two cameras utilized by the HOA](https://twitter.com/lydiakauppi/status/2089196932413452386)
 * [2026-08-17, 12:10:22](https://news.ycombinator.com/item?id=49329583) - [Mexico Crackdown on Coastal Development Underway](https://yucatanmagazine.com/mexico-crackdown-on-coastal-development/)
@@ -11,6 +18,7 @@
 * [2026-08-17, 11:55:15](https://news.ycombinator.com/item?id=49329430) - [Who Owns Commodore? The Retro PC Brand Still Exists, but a Lot Has Changed](https://www.bgr.com/2233625/who-owns-commodore-retro-brand/)
 * [2026-08-17, 11:45:12](https://news.ycombinator.com/item?id=49329347) - [People are worried about America's solvency](https://www.ft.com/content/e04f286c-f5ed-46d1-8e3f-0bbe4cce4d3e)
 * [2026-08-17, 10:45:14](https://news.ycombinator.com/item?id=49328911) - [Self hosted email continues to steeply decline](https://labs.ripe.net/author/artem-berezin/two-providers-a-stubborn-plateau-and-a-very-long-tail-email-in-the-tranco-top-1m/)
+* [2026-08-17, 09:11:17](https://news.ycombinator.com/item?id=49328206) - [Pi coding agent: config folder is out of place on Linux](https://github.com/earendil-works/pi/issues/534)
 * [2026-08-17, 07:51:22](https://news.ycombinator.com/item?id=49327643) - [Show HN: Desktopcolors.com – A museum for solid background colors of classic OS](https://desktopcolors.com)
 * [2026-08-17, 07:28:43](https://news.ycombinator.com/item?id=49327490) - [HackEurope 2026: A short rant on AI and hackathons](https://duti.dev/blog/2026/spr/)
 * [2026-08-17, 05:22:49](https://news.ycombinator.com/item?id=49326825) - [$12B of US ratepayers' money wasted on a modeling mistake in PJM](https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted)
