@@ -1,6 +1,66 @@
 [
   [
     [
+      "2026-08-17, 12:35:01",
+      "https://news.ycombinator.com/item?id=49329844"
+    ],
+    [
+      "David Sacks on X: Some thoughts on Dario's post",
+      "https://twitter.com/DavidSacks/status/2089227290769080656"
+    ]
+  ],
+  [
+    [
+      "2026-08-17, 12:18:24",
+      "https://news.ycombinator.com/item?id=49329660"
+    ],
+    [
+      "Buyer cancels showing after Deflock shows two cameras utilized by the HOA",
+      "https://twitter.com/lydiakauppi/status/2089196932413452386"
+    ]
+  ],
+  [
+    [
+      "2026-08-17, 12:10:22",
+      "https://news.ycombinator.com/item?id=49329583"
+    ],
+    [
+      "Mexico Crackdown on Coastal Development Underway",
+      "https://yucatanmagazine.com/mexico-crackdown-on-coastal-development/"
+    ]
+  ],
+  [
+    [
+      "2026-08-17, 12:09:42",
+      "https://news.ycombinator.com/item?id=49329575"
+    ],
+    [
+      "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+      "https://blog.roboflow.com/openai-gpt-5-6/"
+    ]
+  ],
+  [
+    [
+      "2026-08-17, 11:55:15",
+      "https://news.ycombinator.com/item?id=49329430"
+    ],
+    [
+      "Who Owns Commodore? The Retro PC Brand Still Exists, but a Lot Has Changed",
+      "https://www.bgr.com/2233625/who-owns-commodore-retro-brand/"
+    ]
+  ],
+  [
+    [
+      "2026-08-17, 11:45:12",
+      "https://news.ycombinator.com/item?id=49329347"
+    ],
+    [
+      "People are worried about America's solvency",
+      "https://www.ft.com/content/e04f286c-f5ed-46d1-8e3f-0bbe4cce4d3e"
+    ]
+  ],
+  [
+    [
       "2026-08-17, 10:45:14",
       "https://news.ycombinator.com/item?id=49328911"
     ],
@@ -41,16 +101,6 @@
   ],
   [
     [
-      "2026-08-17, 02:55:20",
-      "https://news.ycombinator.com/item?id=49326071"
-    ],
-    [
-      "Strong gravitational lensing and microlensing of supernovae (2024)",
-      "https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5"
-    ]
-  ],
-  [
-    [
       "2026-08-17, 01:59:56",
       "https://news.ycombinator.com/item?id=49325789"
     ],
@@ -67,16 +117,6 @@
     [
       "AGI-64 Brings Sierra Adventures to the Commodore 64",
       "https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64"
-    ]
-  ],
-  [
-    [
-      "2026-08-17, 01:00:45",
-      "https://news.ycombinator.com/item?id=49325458"
-    ],
-    [
-      "Prolly: A content-addressed ordered map built on prolly trees",
-      "https://github.com/crabbuild/prolly"
     ]
   ],
   [
@@ -127,26 +167,6 @@
     [
       "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
       "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing"
-    ]
-  ],
-  [
-    [
-      "2026-08-16, 20:31:16",
-      "https://news.ycombinator.com/item?id=49323381"
-    ],
-    [
-      "Stripe will reportedly acquire OpenRouter for $7B+",
-      "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/"
-    ]
-  ],
-  [
-    [
-      "2026-08-16, 20:01:13",
-      "https://news.ycombinator.com/item?id=49323136"
-    ],
-    [
-      "Red queen hypothesis – A new way forward for self-improving AI",
-      "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai"
     ]
   ],
   [
@@ -221,26 +241,6 @@
   ],
   [
     [
-      "2026-08-14, 14:09:32",
-      "https://news.ycombinator.com/item?id=49298932"
-    ],
-    [
-      "Design 3D-printable parts by talking",
-      "https://nurb.dev/"
-    ]
-  ],
-  [
-    [
-      "2026-08-14, 09:39:21",
-      "https://news.ycombinator.com/item?id=49296495"
-    ],
-    [
-      "The continuing \"Q collar\" scandal",
-      "https://statmodeling.stat.columbia.edu/2026/08/13/we-should-probably-be-doing-more-coverage-of-science-adjacent-medical-scams-like-the-q-collar-and-less-on-repulsively-self-promoting-but-ultimately-less-harmful-academic-grifters/"
-    ]
-  ],
-  [
-    [
       "2026-08-13, 19:07:34",
       "https://news.ycombinator.com/item?id=49290545"
     ],
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2026-08-13, 14:08:44",
+      "https://news.ycombinator.com/item?id=49286211"
+    ],
+    [
+      "Build a Stratum 1 PTP Grandmaster on a Budget",
+      "https://opscode.io/posts/ptp-grandmaster-cm4-sr1723u10/"
+    ]
+  ],
+  [
+    [
       "2026-08-13, 12:44:05",
       "https://news.ycombinator.com/item?id=49285096"
     ],
@@ -277,16 +287,6 @@
     [
       "How Go detects struct copies with sync.noCopy",
       "https://func25.dev/posts/go-sync-nocopy/"
-    ]
-  ],
-  [
-    [
-      "2026-08-13, 03:05:36",
-      "https://news.ycombinator.com/item?id=49281352"
-    ],
-    [
-      "Clamiga: Common Lisp for the Amiga",
-      "https://nnamgreb.de/blog/Clamiga+-+Common+Lisp+for+the+Amiga"
     ]
   ],
   [
