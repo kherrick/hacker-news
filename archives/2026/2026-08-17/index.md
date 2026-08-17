@@ -11,6 +11,7 @@
 * [2026-08-17, 03:08:47](https://news.ycombinator.com/item?id=49326156) - [GIMP Development Update](https://www.gimp.org/news/2026/08/16/dev-update-august-2026/)
 * [2026-08-17, 02:55:20](https://news.ycombinator.com/item?id=49326071) - [Strong gravitational lensing and microlensing of supernovae (2024)](https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5)
 * [2026-08-17, 02:28:16](https://news.ycombinator.com/item?id=49325937) - [If Meta loses this trial, Instagram and Facebook could change forever](https://www.bbc.com/news/articles/clyqpx6xk69o)
+* [2026-08-17, 01:59:56](https://news.ycombinator.com/item?id=49325789) - [On A.I. regulation and messaging](https://twitter.com/DarioAmodei/status/2088758816376807762)
 * [2026-08-17, 01:45:36](https://news.ycombinator.com/item?id=49325714) - [AGI-64 Brings Sierra Adventures to the Commodore 64](https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64)
 * [2026-08-17, 01:00:45](https://news.ycombinator.com/item?id=49325458) - [Prolly: A content-addressed ordered map built on prolly trees](https://github.com/crabbuild/prolly)
 * [2026-08-17, 00:48:21](https://news.ycombinator.com/item?id=49325384) - [Rhombus 1.1 is now available](https://blog.racket-lang.org/2026/08/rhombus-v1.1.html)
