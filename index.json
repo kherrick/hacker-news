@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-17, 16:31:17",
+      "https://news.ycombinator.com/item?id=49333728"
+    ],
+    [
+      "GitHub Has an Availability Problem. Is It Time to Look Elsewhere?",
+      "https://dhruv2038.bearblog.dev/github-has-an-availability-problem-is-it-time-to-look-elsewhere/"
+    ]
+  ],
+  [
+    [
       "2026-08-17, 15:49:57",
       "https://news.ycombinator.com/item?id=49332981"
     ],
@@ -16,17 +26,17 @@
     ],
     [
       "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
-      "https://news.ycombinator.com/item?id=49332751"
+      "https://speko.ai/"
     ]
   ],
   [
     [
-      "2026-08-17, 14:29:18",
-      "https://news.ycombinator.com/item?id=49331607"
+      "2026-08-17, 14:30:09",
+      "https://news.ycombinator.com/item?id=49331625"
     ],
     [
-      "Qwen3.8-27B at 256K on a 24GB RTX PRO 4000 SFF (432 GB/s): 50 tok/s with MTP",
-      "https://piszczek.pl/blog/qwen38-27b-256k-50-tps-24gb-gpu"
+      "Judge relying wholly on AI in order is covered by judicial immunity, court rules",
+      "https://reason.com/volokh/2026/08/17/judges-allegedly-relying-wholly-on-ai-in-order-is-covered-by-judicial-immunity-court-rules/"
     ]
   ],
   [
@@ -65,7 +75,7 @@
       "https://news.ycombinator.com/item?id=49331423"
     ],
     [
-      "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
+      "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
       "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug"
     ]
   ],
@@ -131,8 +141,8 @@
   ],
   [
     [
-      "2026-08-17, 13:40:55",
-      "https://news.ycombinator.com/item?id=49330684"
+      "2026-08-17, 13:35:06",
+      "https://news.ycombinator.com/item?id=49330597"
     ],
     [
       "Incident with Github.com",
@@ -141,21 +151,11 @@
   ],
   [
     [
-      "2026-08-17, 13:37:28",
-      "https://news.ycombinator.com/item?id=49330632"
-    ],
-    [
-      "GitHub down again? no PR access",
-      "https://news.ycombinator.com/item?id=49330632"
-    ]
-  ],
-  [
-    [
       "2026-08-17, 13:24:55",
       "https://news.ycombinator.com/item?id=49330456"
     ],
     [
-      "Cialis is an erectile dysfunction drug. Could it also help you live longer?",
+      "Online clinics and influencers are promoting Cialis as a longevity drug",
       "https://www.npr.org/2026/08/17/nx-s1-5928263/cialis-viagra-tadalafil-longevity-heart-health"
     ]
   ],
@@ -175,7 +175,7 @@
       "https://news.ycombinator.com/item?id=49329583"
     ],
     [
-      "Mexico Crackdown on Coastal Development Underway",
+      "Mexico crackdown on coastal development",
       "https://yucatanmagazine.com/mexico-crackdown-on-coastal-development/"
     ]
   ],
@@ -215,8 +215,18 @@
       "https://news.ycombinator.com/item?id=49325789"
     ],
     [
-      "On A.I. regulation and messaging",
+      "On AI regulation and messaging",
       "https://twitter.com/DarioAmodei/status/2088758816376807762"
+    ]
+  ],
+  [
+    [
+      "2026-08-17, 01:45:36",
+      "https://news.ycombinator.com/item?id=49325714"
+    ],
+    [
+      "AGI-64 Brings Sierra Adventures to the Commodore 64",
+      "https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64"
     ]
   ],
   [
@@ -245,7 +255,7 @@
       "https://news.ycombinator.com/item?id=49324087"
     ],
     [
-      "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
+      "Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
       "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing"
     ]
   ],
@@ -267,16 +277,6 @@
     [
       "A third world engineer responds to “RISC-V: They should have known better”",
       "https://rvembedded.com/blog_post/12/"
-    ]
-  ],
-  [
-    [
-      "2026-08-16, 12:48:21",
-      "https://news.ycombinator.com/item?id=49319556"
-    ],
-    [
-      "Claude: System Prompts",
-      "https://platform.claude.com/docs/en/release-notes/system-prompts"
     ]
   ],
   [
