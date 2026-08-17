@@ -12,6 +12,7 @@
 * [2026-08-11, 21:14:10](https://news.ycombinator.com/item?id=49264583) - [Emergent Introspective Awareness in Large Language Models](https://arxiv.org/abs/2601.01828)
 * [2026-08-11, 20:56:00](https://news.ycombinator.com/item?id=49264352) - [The 19th-Century Family Fortunes Funding Degrowth](https://www.effort.news/p4ne)
 * [2026-08-11, 20:54:25](https://news.ycombinator.com/item?id=49264334) - [OpenAI launches ChatGPT desktop app for Linux](https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/)
+* [2026-08-11, 20:22:48](https://news.ycombinator.com/item?id=49263928) - [The FastLanes Unified Transport Layout](https://blog.dave.tf/post/fastlanes-utl/)
 * [2026-08-11, 20:01:27](https://news.ycombinator.com/item?id=49263658) - [The brain may be about to have its Ozempic moment](https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment)
 * [2026-08-11, 19:49:44](https://news.ycombinator.com/item?id=49263497) - [Compression Is Prediction](https://ngrok.com/blog/compression-is-prediction)
 * [2026-08-11, 19:45:41](https://news.ycombinator.com/item?id=49263461) - [Bluesky's active user base is shrinking as its focus expands beyond the app](https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/)
