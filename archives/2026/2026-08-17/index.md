@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-08-17](index.md)
 
+* [2026-08-17, 16:31:17](https://news.ycombinator.com/item?id=49333728) - [GitHub Has an Availability Problem. Is It Time to Look Elsewhere?](https://dhruv2038.bearblog.dev/github-has-an-availability-problem-is-it-time-to-look-elsewhere/)
 * [2026-08-17, 15:49:57](https://news.ycombinator.com/item?id=49332981) - [Universal Health Coverage Could Save $1T and 114k Lives a Year, Yale Study](https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/)
+* [2026-08-17, 15:36:18](https://news.ycombinator.com/item?id=49332751) - [Launch HN: Speko (YC S26) – OpenRouter for Voice AI](https://speko.ai/)
 * [2026-08-17, 15:36:18](https://news.ycombinator.com/item?id=49332751) - [Launch HN: Speko (YC S26) – OpenRouter for Voice AI](https://news.ycombinator.com/item?id=49332751)
 * [2026-08-17, 15:19:31](https://news.ycombinator.com/item?id=49332495) - [Ask HN: GitHub employees what's going on? Why?](https://news.ycombinator.com/item?id=49332495)
 * [2026-08-17, 14:30:09](https://news.ycombinator.com/item?id=49331625) - [Judge relying wholly on AI in order is covered by judicial immunity, court rules](https://reason.com/volokh/2026/08/17/judges-allegedly-relying-wholly-on-ai-in-order-is-covered-by-judicial-immunity-court-rules/)
@@ -26,6 +28,7 @@
 * [2026-08-17, 13:37:28](https://news.ycombinator.com/item?id=49330632) - [GitHub down again? no PR access](https://news.ycombinator.com/item?id=49330632)
 * [2026-08-17, 13:35:31](https://news.ycombinator.com/item?id=49330604) - [Show HN: 1667, a terminal UI for writing fiction with language models](https://1667.ai/)
 * [2026-08-17, 13:35:06](https://news.ycombinator.com/item?id=49330597) - [Tell HN: GitHub Is Overloaded](https://news.ycombinator.com/item?id=49330597)
+* [2026-08-17, 13:35:06](https://news.ycombinator.com/item?id=49330597) - [Incident with Github.com](https://www.githubstatus.com/incidents/zkxwbgr0cnmx)
 * [2026-08-17, 13:24:55](https://news.ycombinator.com/item?id=49330456) - [Cialis is an erectile dysfunction drug. Could it also help you live longer?](https://www.npr.org/2026/08/17/nx-s1-5928263/cialis-viagra-tadalafil-longevity-heart-health)
 * [2026-08-17, 13:09:06](https://news.ycombinator.com/item?id=49330246) - [Speeding Up the Plush Garbage Collector](https://pointersgonewild.com/2026-08-17-speeding-up-the-plush-garbage-collector/)
 * [2026-08-17, 13:07:00](https://news.ycombinator.com/item?id=49330215) - [Show HN: Sokoban AI Solver](https://mkornreich.me/projects/sokoban/)
