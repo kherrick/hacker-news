@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-08-17](index.md)
 
+* [2026-08-17, 12:35:01](https://news.ycombinator.com/item?id=49329844) - [David Sacks on X: Some thoughts on Dario's post](https://twitter.com/DavidSacks/status/2089227290769080656)
+* [2026-08-17, 12:18:24](https://news.ycombinator.com/item?id=49329660) - [Buyer cancels showing after Deflock shows two cameras utilized by the HOA](https://twitter.com/lydiakauppi/status/2089196932413452386)
+* [2026-08-17, 12:10:22](https://news.ycombinator.com/item?id=49329583) - [Mexico Crackdown on Coastal Development Underway](https://yucatanmagazine.com/mexico-crackdown-on-coastal-development/)
+* [2026-08-17, 12:09:42](https://news.ycombinator.com/item?id=49329575) - [GPT 5.6 Sol is the best \"vision\" model OpenAI ever released](https://blog.roboflow.com/openai-gpt-5-6/)
+* [2026-08-17, 11:55:15](https://news.ycombinator.com/item?id=49329430) - [Who Owns Commodore? The Retro PC Brand Still Exists, but a Lot Has Changed](https://www.bgr.com/2233625/who-owns-commodore-retro-brand/)
+* [2026-08-17, 11:45:12](https://news.ycombinator.com/item?id=49329347) - [People are worried about America's solvency](https://www.ft.com/content/e04f286c-f5ed-46d1-8e3f-0bbe4cce4d3e)
 * [2026-08-17, 10:45:14](https://news.ycombinator.com/item?id=49328911) - [Self hosted email continues to steeply decline](https://labs.ripe.net/author/artem-berezin/two-providers-a-stubborn-plateau-and-a-very-long-tail-email-in-the-tranco-top-1m/)
 * [2026-08-17, 07:51:22](https://news.ycombinator.com/item?id=49327643) - [Show HN: Desktopcolors.com – A museum for solid background colors of classic OS](https://desktopcolors.com)
 * [2026-08-17, 07:28:43](https://news.ycombinator.com/item?id=49327490) - [HackEurope 2026: A short rant on AI and hackathons](https://duti.dev/blog/2026/spr/)
