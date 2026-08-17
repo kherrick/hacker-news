@@ -15,6 +15,7 @@
 * [2026-08-12, 22:46:58](https://news.ycombinator.com/item?id=49279624) - [Archie G. Norcross' Maine Forest Fire Maps (1918–22)](https://publicdomainreview.org/collection/maine-forest-fire-maps/)
 * [2026-08-12, 22:01:43](https://news.ycombinator.com/item?id=49279197) - [Process as a Proxy for Motivation](https://bengodfrey.dev/blog/process/)
 * [2026-08-12, 21:45:29](https://news.ycombinator.com/item?id=49279013) - [Thanks to social media, canned sardines are a scarcity on the supermarket shelf](https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/)
+* [2026-08-12, 21:07:48](https://news.ycombinator.com/item?id=49278577) - [My Ten Years in No Man's Sky](https://nmsspot.com/2026/08/09/my-ten-years-in-no-mans-sky/)
 * [2026-08-12, 20:13:06](https://news.ycombinator.com/item?id=49277952) - [Does anyone run Postgres without PgBouncer?](https://brandur.org/fragments/postgres-without-pgbouncer)
 * [2026-08-12, 20:00:16](https://news.ycombinator.com/item?id=49277799) - [Breaking the WAL](https://antithesis.com/blog/2026/wal-reset-bug/)
 * [2026-08-12, 19:37:12](https://news.ycombinator.com/item?id=49277535) - [Show HN: Silent Shark – tactical map-based WWII submarine sim](https://silentshark.app/)
