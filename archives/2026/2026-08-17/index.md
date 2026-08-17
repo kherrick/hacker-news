@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-17](index.md)
 
+* [2026-08-17, 03:21:37](https://news.ycombinator.com/item?id=49326229) - [Gmail might partially be to blame for receiving emails from other Sean Conners](https://boston.conman.org/2026/08/11.1)
+* [2026-08-17, 02:28:16](https://news.ycombinator.com/item?id=49325937) - [If Meta loses this trial, Instagram and Facebook could change forever](https://www.bbc.com/news/articles/clyqpx6xk69o)
 * [2026-08-17, 01:45:36](https://news.ycombinator.com/item?id=49325714) - [AGI-64 Brings Sierra Adventures to the Commodore 64](https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64)
 * [2026-08-17, 01:00:45](https://news.ycombinator.com/item?id=49325458) - [Prolly: A content-addressed ordered map built on prolly trees](https://github.com/crabbuild/prolly)
 * [2026-08-17, 00:48:21](https://news.ycombinator.com/item?id=49325384) - [Rhombus 1.1 is now available](https://blog.racket-lang.org/2026/08/rhombus-v1.1.html)
