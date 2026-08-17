@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-08-17, 20:12:58](https://news.ycombinator.com/item?id=49336909) - [The Origin of Consciousness (2008)](https://blog.plover.com/brain/Jaynes.html)
-* [2026-08-17, 19:56:30](https://news.ycombinator.com/item?id=49336672) - [Will you have spent more of your life with computers than your family?](https://beachfront.bearblog.dev/will-you-have-spent-more-of-your-life-with-computers-than-your-family/)
 * [2026-08-17, 19:47:15](https://news.ycombinator.com/item?id=49336573) - [AI;DR (AI; Didn't Read)](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
 * [2026-08-17, 19:25:11](https://news.ycombinator.com/item?id=49336304) - [India has paved the way for charging merchants a fee on UPI transactions](https://www.bbc.com/news/articles/c8xnwqe00v1o)
 * [2026-08-17, 18:34:09](https://news.ycombinator.com/item?id=49335600) - [Los Puesteros, solitary men who look after ranches and livestock in Patagonia](https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world)
@@ -18,6 +17,7 @@
 * [2026-08-17, 14:18:38](https://news.ycombinator.com/item?id=49331423) - [AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug)
 * [2026-08-17, 14:07:56](https://news.ycombinator.com/item?id=49331220) - [How to disable or avoid intrusive AI](https://www.librarian.net/notoai/)
 * [2026-08-17, 13:59:17](https://news.ycombinator.com/item?id=49331033) - [Ask HN: Alternatives to GitHub](https://news.ycombinator.com/item?id=49331033)
+* [2026-08-17, 13:56:38](https://news.ycombinator.com/item?id=49330978) - [How to ship a database every day](https://turbopuffer.com/blog/control-plane)
 * [2026-08-17, 13:46:27](https://news.ycombinator.com/item?id=49330781) - [A Preview of DuckDB v2.0](https://duckdb.org/2026/08/17/duckdb-20-highlights)
 * [2026-08-17, 13:35:06](https://news.ycombinator.com/item?id=49330597) - [Incident with Github.com](https://www.githubstatus.com/incidents/zkxwbgr0cnmx)
 * [2026-08-17, 13:07:00](https://news.ycombinator.com/item?id=49330215) - [Show HN: Sokoban AI Solver](https://mkornreich.me/projects/sokoban/)
