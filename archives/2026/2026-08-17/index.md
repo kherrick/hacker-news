@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-08-17](index.md)
 
 * [2026-08-17, 16:45:11](https://news.ycombinator.com/item?id=49333932) - [Buy Your Friends Batteries](https://domenkozar.com/2026/08/17/buy-your-friends-batteries/)
+* [2026-08-17, 16:37:54](https://news.ycombinator.com/item?id=49333824) - [Sun Clock](https://sunclock.net/)
 * [2026-08-17, 16:31:17](https://news.ycombinator.com/item?id=49333728) - [GitHub Has an Availability Problem. Is It Time to Look Elsewhere?](https://dhruv2038.bearblog.dev/github-has-an-availability-problem-is-it-time-to-look-elsewhere/)
 * [2026-08-17, 15:49:57](https://news.ycombinator.com/item?id=49332981) - [Universal Health Coverage Could Save $1T and 114k Lives a Year, Yale Study](https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/)
 * [2026-08-17, 15:36:18](https://news.ycombinator.com/item?id=49332751) - [Launch HN: Speko (YC S26) – OpenRouter for Voice AI](https://speko.ai/)

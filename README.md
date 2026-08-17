@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-08-17, 16:45:11](https://news.ycombinator.com/item?id=49333932) - [Buy Your Friends Batteries](https://domenkozar.com/2026/08/17/buy-your-friends-batteries/)
+* [2026-08-17, 16:37:54](https://news.ycombinator.com/item?id=49333824) - [Sun Clock](https://sunclock.net/)
 * [2026-08-17, 15:49:57](https://news.ycombinator.com/item?id=49332981) - [Universal Health Coverage Could Save $1T and 114k Lives a Year, Yale Study](https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/)
 * [2026-08-17, 15:36:18](https://news.ycombinator.com/item?id=49332751) - [Launch HN: Speko (YC S26) – OpenRouter for Voice AI](https://speko.ai/)
-* [2026-08-17, 15:24:34](https://news.ycombinator.com/item?id=49332564) - [Ahmad on X: \"Anthropic's War on open source AI\" / X](https://twitter.com/TheAhmadOsman/status/2065307070044234186)
-* [2026-08-17, 14:30:09](https://news.ycombinator.com/item?id=49331625) - [Judge relying wholly on AI in order is covered by judicial immunity, court rules](https://reason.com/volokh/2026/08/17/judges-allegedly-relying-wholly-on-ai-in-order-is-covered-by-judicial-immunity-court-rules/)
+* [2026-08-17, 15:24:34](https://news.ycombinator.com/item?id=49332564) - [Anthropic's War on open source AI](https://twitter.com/TheAhmadOsman/status/2065307070044234186)
 * [2026-08-17, 14:26:19](https://news.ycombinator.com/item?id=49331555) - [The only known trebuchet casualty in history](https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/)
 * [2026-08-17, 14:25:54](https://news.ycombinator.com/item?id=49331551) - [Show HN: Saggar, a Mac terminal that keeps sessions and your attention organized](https://saggar.marginalutility.dev/)
 * [2026-08-17, 14:21:25](https://news.ycombinator.com/item?id=49331474) - [How to put 170 atoms in an atom](https://signoregalilei.com/2026/08/02/how-to-put-170-atoms-in-an-atom/)
