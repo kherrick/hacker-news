@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2026-08-17, 01:59:56",
+      "https://news.ycombinator.com/item?id=49325789"
+    ],
+    [
+      "On A.I. regulation and messaging",
+      "https://twitter.com/DarioAmodei/status/2088758816376807762"
+    ]
+  ],
+  [
+    [
       "2026-08-17, 01:45:36",
       "https://news.ycombinator.com/item?id=49325714"
     ],
@@ -111,12 +121,12 @@
   ],
   [
     [
-      "2026-08-16, 21:07:10",
-      "https://news.ycombinator.com/item?id=49323686"
+      "2026-08-16, 21:53:43",
+      "https://news.ycombinator.com/item?id=49324087"
     ],
     [
-      "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-      "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/"
+      "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
+      "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing"
     ]
   ],
   [
@@ -145,7 +155,7 @@
       "https://news.ycombinator.com/item?id=49322573"
     ],
     [
-      "Protobuf has LSP support. You're welcome",
+      "Protobuf has LSP support",
       "https://buf.build/blog/protobuf-lsp"
     ]
   ],
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2026-08-16, 12:58:10",
-      "https://news.ycombinator.com/item?id=49319633"
-    ],
-    [
-      "Firefox for iOS now has a native adblocker",
-      "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios"
-    ]
-  ],
-  [
-    [
       "2026-08-16, 12:48:21",
       "https://news.ycombinator.com/item?id=49319556"
     ],
@@ -241,22 +241,22 @@
   ],
   [
     [
+      "2026-08-13, 16:32:15",
+      "https://news.ycombinator.com/item?id=49288449"
+    ],
+    [
+      "Gakutensoku",
+      "https://en.wikipedia.org/wiki/Gakutensoku"
+    ]
+  ],
+  [
+    [
       "2026-08-13, 12:44:05",
       "https://news.ycombinator.com/item?id=49285096"
     ],
     [
       "SIMD in the 90s: Programming Intel's Pentium MMX",
       "https://pikuma.com/blog/programming-intel-pentium-mmx-simd"
-    ]
-  ],
-  [
-    [
-      "2026-08-13, 03:05:36",
-      "https://news.ycombinator.com/item?id=49281352"
-    ],
-    [
-      "Clamiga: Common Lisp for the Amiga",
-      "https://nnamgreb.de/blog/Clamiga+-+Common+Lisp+for+the+Amiga"
     ]
   ],
   [
