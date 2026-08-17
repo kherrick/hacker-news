@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-08-17, 07:28:43](https://news.ycombinator.com/item?id=49327490) - [HackEurope 2026: A short rant on AI and hackathons](https://duti.dev/blog/2026/spr/)
 * [2026-08-17, 05:21:34](https://news.ycombinator.com/item?id=49326816) - [Linear algebra done right](https://linear.axler.net/)
 * [2026-08-17, 03:08:47](https://news.ycombinator.com/item?id=49326156) - [GIMP Development Update](https://www.gimp.org/news/2026/08/16/dev-update-august-2026/)
+* [2026-08-17, 02:55:20](https://news.ycombinator.com/item?id=49326071) - [Strong gravitational lensing and microlensing of supernovae (2024)](https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5)
 * [2026-08-17, 01:59:56](https://news.ycombinator.com/item?id=49325789) - [On A.I. regulation and messaging](https://twitter.com/DarioAmodei/status/2088758816376807762)
 * [2026-08-17, 01:45:36](https://news.ycombinator.com/item?id=49325714) - [AGI-64 Brings Sierra Adventures to the Commodore 64](https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64)
 * [2026-08-17, 01:00:45](https://news.ycombinator.com/item?id=49325458) - [Prolly: A content-addressed ordered map built on prolly trees](https://github.com/crabbuild/prolly)
@@ -19,6 +19,7 @@
 * [2026-08-16, 17:01:07](https://news.ycombinator.com/item?id=49321717) - [A third world engineer responds to “RISC-V: They should have known better”](https://rvembedded.com/blog_post/12/)
 * [2026-08-16, 14:44:55](https://news.ycombinator.com/item?id=49320611) - [The AI Credit Resale Economy](https://vectoral.com/blog/who-are-the-token-brokers)
 * [2026-08-16, 12:48:21](https://news.ycombinator.com/item?id=49319556) - [Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts)
+* [2026-08-14, 19:18:34](https://news.ycombinator.com/item?id=49303380) - [The Mysterious Syndrome Destroying Endurance Athletes](https://www.outsideonline.com/health/training-performance/running-empty/)
 * [2026-08-14, 14:09:32](https://news.ycombinator.com/item?id=49298932) - [Design 3D-printable parts by talking](https://nurb.dev/)
 * [2026-08-14, 09:39:21](https://news.ycombinator.com/item?id=49296495) - [The continuing \"Q collar\" scandal](https://statmodeling.stat.columbia.edu/2026/08/13/we-should-probably-be-doing-more-coverage-of-science-adjacent-medical-scams-like-the-q-collar-and-less-on-repulsively-self-promoting-but-ultimately-less-harmful-academic-grifters/)
 * [2026-08-13, 19:07:34](https://news.ycombinator.com/item?id=49290545) - [How do I permanently disable random Google Photos popup to backup photos? (2024)](https://support.google.com/photos/thread/256212140/how-do-i-permanently-disable-google-photos-pop-up-prompt-to-backup-my-photos-i?hl=en)
@@ -27,7 +28,6 @@
 * [2026-08-13, 03:05:36](https://news.ycombinator.com/item?id=49281352) - [Clamiga: Common Lisp for the Amiga](https://nnamgreb.de/blog/Clamiga+-+Common+Lisp+for+the+Amiga)
 * [2026-08-11, 15:36:27](https://news.ycombinator.com/item?id=49259980) - [Low-Tech Ceramic Water Filter](https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en)
 * [2026-08-11, 12:40:31](https://news.ycombinator.com/item?id=49257362) - [Dancing with friends and enemies: boids' swarm intelligence (2012)](https://community.wolfram.com/groups/-/m/t/122095)
-* [2026-08-11, 00:35:17](https://news.ycombinator.com/item?id=49251775) - [Beware the Permanent Periphery](https://asteriskmag.com/issues/15/beware-the-permanent-periphery)
 * [2026-08-10, 15:32:03](https://news.ycombinator.com/item?id=49245021) - [Show HN: Vocal Slice – Cut audio by selecting text, fully on-device](https://vocalslice.com/)
 * [2026-08-09, 13:50:21](https://news.ycombinator.com/item?id=49231418) - [Interview with Amit Patel, Creator of “Solar Realms Elite” (2013)](https://breakintochat.com/blog/2013/02/18/amit-patel-creator-of-solar-realms-elite/)
 

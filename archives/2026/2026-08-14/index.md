@@ -22,6 +22,7 @@
 * [2026-08-14, 19:28:17](https://news.ycombinator.com/item?id=49303499) - [Show HN: AletheionAGI – Grounding enforcement for AI agents](https://www.aletheionagi.com)
 * [2026-08-14, 19:22:00](https://news.ycombinator.com/item?id=49303433) - [Z.ai Security Disclosure](https://cvd.z.ai)
 * [2026-08-14, 19:20:20](https://news.ycombinator.com/item?id=49303405) - [What You Gain by Building Your Own Game Engine](https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html)
+* [2026-08-14, 19:18:34](https://news.ycombinator.com/item?id=49303380) - [The Mysterious Syndrome Destroying Endurance Athletes](https://www.outsideonline.com/health/training-performance/running-empty/)
 * [2026-08-14, 19:15:51](https://news.ycombinator.com/item?id=49303350) - [How Claude's text watermarking works](https://www.anthropic.com/news/claude-text-watermark)
 * [2026-08-14, 19:05:46](https://news.ycombinator.com/item?id=49303237) - [Open WireGuard Endpoints](https://proxylity.com/articles/now-available-open-wireguard-endpoints-and-async-lambda.html)
 * [2026-08-14, 19:03:20](https://news.ycombinator.com/item?id=49303202) - [Firefox is now the last major browser that still supports uBlock Origin](https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html)
