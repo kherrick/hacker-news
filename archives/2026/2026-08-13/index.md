@@ -25,6 +25,7 @@
 * [2026-08-13, 18:10:02](https://news.ycombinator.com/item?id=49289844) - [Accelerating GPT-5.6 Sol Ultrafast](https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai)
 * [2026-08-13, 17:57:50](https://news.ycombinator.com/item?id=49289654) - [How Compaction Works in Pi](https://earendil.com/posts/compaction-in-pi/)
 * [2026-08-13, 17:53:19](https://news.ycombinator.com/item?id=49289585) - [Solid 2.0 RC: The Big <Reveal>](https://www.solidjs.com/blog/solid-2-0-rc-the-big-reveal)
+* [2026-08-13, 17:53:02](https://news.ycombinator.com/item?id=49289583) - [Some Virtues of Narrative Poetry](https://newversereview.substack.com/p/the-purpose-of-poetry-is-to-tell)
 * [2026-08-13, 17:49:18](https://news.ycombinator.com/item?id=49289532) - [Where did the old web go? We followed 657,607 links to find out](https://0.mk/blog/link-rot)
 * [2026-08-13, 17:48:13](https://news.ycombinator.com/item?id=49289512) - [Choose Boring Technology (2015)](https://mcfunley.com/choose-boring-technology)
 * [2026-08-13, 17:45:50](https://news.ycombinator.com/item?id=49289465) - [Donkey.bas is 45 Years Old – 131 line of Glory](https://donkeybas.com/)
