@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-17, 04:02:19",
+      "https://news.ycombinator.com/item?id=49326443"
+    ],
+    [
+      "Hayden Panetierre Dies at 36",
+      "https://abcnews.com/US/hayden-panettiere-dies-36/story?id=135698473"
+    ]
+  ],
+  [
+    [
       "2026-08-17, 03:21:37",
       "https://news.ycombinator.com/item?id=49326229"
     ],
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=49325304"
     ],
     [
-      "Applying a photosynthetic process to treat \"dry eye\"",
+      "Applying a photosynthetic process to treat “dry eye”",
       "https://www.science.org/content/blog-post/taking-tip-plants-eyes"
     ]
   ],
@@ -105,8 +115,8 @@
       "https://news.ycombinator.com/item?id=49323381"
     ],
     [
-      "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-      "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion"
+      "Stripe will reportedly acquire OpenRouter for $7B+",
+      "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/"
     ]
   ],
   [
@@ -115,7 +125,7 @@
       "https://news.ycombinator.com/item?id=49323136"
     ],
     [
-      "Red queen hypothesis – a new way forward for self-improving AI",
+      "Red queen hypothesis – A new way forward for self-improving AI",
       "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai"
     ]
   ],
@@ -155,7 +165,7 @@
       "https://news.ycombinator.com/item?id=49321717"
     ],
     [
-      "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
+      "A third world engineer responds to ”RISC-V: They should have known better“",
       "https://rvembedded.com/blog_post/12/"
     ]
   ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2026-08-16, 12:16:21",
-      "https://news.ycombinator.com/item?id=49319349"
-    ],
-    [
-      "A True Telnet BBS on a Casio Calculator",
-      "https://ei3lh.eu/2026/08/16/a-true-telnet-bbs-on-a-casio-calculator/"
-    ]
-  ],
-  [
-    [
       "2026-08-15, 20:15:51",
       "https://news.ycombinator.com/item?id=49313920"
     ],
@@ -231,21 +231,11 @@
   ],
   [
     [
-      "2026-08-14, 19:52:05",
-      "https://news.ycombinator.com/item?id=49303776"
-    ],
-    [
-      "A quick look at zero-knowledge proofs",
-      "https://bernsteinbear.com/blog/zkp/"
-    ]
-  ],
-  [
-    [
       "2026-08-13, 19:07:34",
       "https://news.ycombinator.com/item?id=49290545"
     ],
     [
-      "How do I permanently disable Google Photos pop-up prompt to backup my photos?",
+      "How do I permanently disable random Google Photos popup to backup photos? (2024)",
       "https://support.google.com/photos/thread/256212140/how-do-i-permanently-disable-google-photos-pop-up-prompt-to-backup-my-photos-i?hl=en"
     ]
   ],
@@ -285,8 +275,18 @@
       "https://news.ycombinator.com/item?id=49257362"
     ],
     [
-      "Dancing with friends and enemies: boids' swarm intelligence",
+      "Dancing with friends and enemies: boids' swarm intelligence (2012)",
       "https://community.wolfram.com/groups/-/m/t/122095"
+    ]
+  ],
+  [
+    [
+      "2026-08-10, 15:32:03",
+      "https://news.ycombinator.com/item?id=49245021"
+    ],
+    [
+      "Show HN: Vocal Slice – Cut audio by selecting text, fully on-device",
+      "https://vocalslice.com/"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=49231418"
     ],
     [
-      "Interview with Amit Patel, Creator of \"Solar Realms Elite\"",
+      "Interview with Amit Patel, Creator of “Solar Realms Elite” (2013)",
       "https://breakintochat.com/blog/2013/02/18/amit-patel-creator-of-solar-realms-elite/"
     ]
   ]
