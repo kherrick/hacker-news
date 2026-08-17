@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=49336909"
     ],
     [
-      "The Origin of Consciousness",
+      "The Origin of Consciousness (2008)",
       "https://blog.plover.com/brain/Jaynes.html"
     ]
   ],
@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=49335600"
     ],
     [
-      "The Lonely Men Who Work in Patagonia, at the End of the World",
+      "Los Puesteros, solitary men who look after ranches and livestock in Patagonia",
       "https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world"
     ]
   ],
@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2026-08-17, 17:02:44",
+      "https://news.ycombinator.com/item?id=49334209"
+    ],
+    [
+      "Cursor launches Origin, GitHub alternative",
+      "https://cursor.com/changelog/origin-code-hosting"
+    ]
+  ],
+  [
+    [
       "2026-08-17, 16:37:54",
       "https://news.ycombinator.com/item?id=49333824"
     ],
@@ -147,26 +157,6 @@
     [
       "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
       "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug"
-    ]
-  ],
-  [
-    [
-      "2026-08-17, 14:11:17",
-      "https://news.ycombinator.com/item?id=49331288"
-    ],
-    [
-      "Show HN: Learn Flags Quiz",
-      "https://flagquizzes.com/"
-    ]
-  ],
-  [
-    [
-      "2026-08-17, 14:07:59",
-      "https://news.ycombinator.com/item?id=49331222"
-    ],
-    [
-      "Apple's App Tracking Transparency treated its own apps better than rivals",
-      "https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "How I developed an Am29000 C compiler and web browser",
       "https://nanochess.org/am29000_c_compiler_web_browser.html"
+    ]
+  ],
+  [
+    [
+      "2026-08-14, 05:58:16",
+      "https://news.ycombinator.com/item?id=49295179"
+    ],
+    [
+      "A simple fix for LLM tail latency",
+      "https://engineering.myhoai.com/posts/a-simple-fix-for-llm-tail-latency/"
     ]
   ],
   [
