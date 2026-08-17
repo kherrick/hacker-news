@@ -9,7 +9,6 @@
 * [2026-08-17, 17:54:59](https://news.ycombinator.com/item?id=49334991) - [GPU Offload in Rust: Portable, Safe, and Fast](https://arxiv.org/abs/2608.13759)
 * [2026-08-17, 17:25:17](https://news.ycombinator.com/item?id=49334544) - [Qwen3.8 27B scores 52 on Artificial Analysis](https://artificialanalysis.ai/models/qwen3-8-27b)
 * [2026-08-17, 17:15:20](https://news.ycombinator.com/item?id=49334409) - [An update on leaving Gmail for Fastmail](https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/)
-* [2026-08-17, 17:02:44](https://news.ycombinator.com/item?id=49334209) - [Cursor launches Origin, GitHub alternative](https://cursor.com/changelog/origin-code-hosting)
 * [2026-08-17, 16:37:54](https://news.ycombinator.com/item?id=49333824) - [Sun Clock](https://sunclock.net/)
 * [2026-08-17, 16:11:37](https://news.ycombinator.com/item?id=49333344) - [Judge sets framework for Nine PBS to retrieve archival data](https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/)
 * [2026-08-17, 15:36:18](https://news.ycombinator.com/item?id=49332751) - [Launch HN: Speko (YC S26) – OpenRouter for Voice AI](https://speko.ai/)
@@ -28,6 +27,7 @@
 * [2026-08-14, 05:58:16](https://news.ycombinator.com/item?id=49295179) - [A simple fix for LLM tail latency](https://engineering.myhoai.com/posts/a-simple-fix-for-llm-tail-latency/)
 * [2026-08-13, 18:14:06](https://news.ycombinator.com/item?id=49289898) - [The oldest bar in every state](https://www.businessinsider.com/oldest-bar-every-state)
 * [2026-08-13, 16:47:40](https://news.ycombinator.com/item?id=49288644) - [Marketers are Addicted to Bad Data (2020)](https://www.jacquescorbytuech.com/writing/marketers-addicted-bad-data)
+* [2026-08-12, 21:56:40](https://news.ycombinator.com/item?id=49279146) - [Intriguing Stories in Computer Science](https://inventwithpython.com/blog/intriguing-stories-in-cs.html)
 * [2026-08-12, 14:26:41](https://news.ycombinator.com/item?id=49272891) - [A particle made of force: physicists say they've found mysterious 'glueball'](https://www.nature.com/articles/d41586-026-02498-1)
 * [2026-08-12, 10:26:14](https://news.ycombinator.com/item?id=49270194) - [Olo (Color)](https://en.wikipedia.org/wiki/Olo_(color))
 
