@@ -56,6 +56,7 @@
 * [2026-08-14, 14:22:39](https://news.ycombinator.com/item?id=49299102) - [AI Model Atlas – visualizing populations of ML models as interconnected 3D graph](https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0)
 * [2026-08-14, 14:21:18](https://news.ycombinator.com/item?id=49299081) - [I turned my RSS feeds into an e-ink newspaper to stop reading on my phone](https://heyjonny.dev/posts/rss-to-eink-newspaper/)
 * [2026-08-14, 14:14:13](https://news.ycombinator.com/item?id=49299000) - [Show HN: APIMart: Discounted AI API Aggregator for GPT-5, Sora 2](https://apimart.ai/register?aff=yScTCM)
+* [2026-08-14, 14:09:32](https://news.ycombinator.com/item?id=49298932) - [Design 3D-printable parts by talking](https://nurb.dev/)
 * [2026-08-14, 14:07:52](https://news.ycombinator.com/item?id=49298910) - [In Australia, a Home Battery Boom Has Helped Cut Wholesale Power Prices in Half](https://e360.yale.edu/digest/australia-home-batteries)
 * [2026-08-14, 13:18:53](https://news.ycombinator.com/item?id=49298303) - [France's tax authority had data stolen on 680k taxpayers](https://korben.info/en/france-tax-authority-data-breach-680000-taxpayers.html)
 * [2026-08-14, 13:10:12](https://news.ycombinator.com/item?id=49298211) - [Cursor is now a part of SpaceX](https://cursor.com/blog/joining-spacex)

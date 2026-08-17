@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2026-08-17](index.md)
 
 * [2026-08-17, 05:22:49](https://news.ycombinator.com/item?id=49326825) - [$12B of US ratepayers' money wasted on a modeling mistake in PJM](https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted)
+* [2026-08-17, 05:21:34](https://news.ycombinator.com/item?id=49326816) - [Linear Algebra Done Right – Sheldon Axler](https://linear.axler.net/)
 * [2026-08-17, 04:02:19](https://news.ycombinator.com/item?id=49326443) - [Hayden Panetierre Dies at 36](https://abcnews.com/US/hayden-panettiere-dies-36/story?id=135698473)
 * [2026-08-17, 03:21:37](https://news.ycombinator.com/item?id=49326229) - [Gmail might partially be to blame for receiving emails from other Sean Conners](https://boston.conman.org/2026/08/11.1)
+* [2026-08-17, 03:08:47](https://news.ycombinator.com/item?id=49326156) - [GIMP Development Update](https://www.gimp.org/news/2026/08/16/dev-update-august-2026/)
 * [2026-08-17, 02:55:20](https://news.ycombinator.com/item?id=49326071) - [Strong gravitational lensing and microlensing of supernovae (2024)](https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5)
 * [2026-08-17, 02:28:16](https://news.ycombinator.com/item?id=49325937) - [If Meta loses this trial, Instagram and Facebook could change forever](https://www.bbc.com/news/articles/clyqpx6xk69o)
 * [2026-08-17, 01:45:36](https://news.ycombinator.com/item?id=49325714) - [AGI-64 Brings Sierra Adventures to the Commodore 64](https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64)
