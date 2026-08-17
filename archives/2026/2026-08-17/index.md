@@ -4,7 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-08-17](index.md)
 
+* [2026-08-17, 18:34:09](https://news.ycombinator.com/item?id=49335600) - [The Lonely Men Who Work in Patagonia, at the End of the World](https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world)
+* [2026-08-17, 18:28:07](https://news.ycombinator.com/item?id=49335517) - [Roboflow Playground: Try and Compare 30 Computer Vision Models](https://blog.roboflow.com/roboflow-playground/)
+* [2026-08-17, 18:15:27](https://news.ycombinator.com/item?id=49335292) - [How I Over-Engineered My Book](https://ben.balter.com/2026/08/17/how-i-over-engineered-my-book/)
+* [2026-08-17, 18:10:16](https://news.ycombinator.com/item?id=49335216) - [Amazon, which started off selling books, is destroying rare texts to train AI](https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/)
 * [2026-08-17, 18:06:30](https://news.ycombinator.com/item?id=49335163) - [Meta faces 'astronomical' consequences as legal fight reaches critical moment](https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html)
+* [2026-08-17, 17:56:06](https://news.ycombinator.com/item?id=49335017) - [Llama.cpp v0.1.0](https://github.com/ggml-org/llama.cpp/releases/tag/v0.1.0)
+* [2026-08-17, 17:55:24](https://news.ycombinator.com/item?id=49335001) - [We Are Forking dotenvy into dotenv-ng](https://secretspec.dev/blog/we-are-forking-dotenvy-into-dotenv-ng/)
+* [2026-08-17, 17:54:59](https://news.ycombinator.com/item?id=49334991) - [GPU Offload in Rust: Portable, Safe, and Fast](https://arxiv.org/abs/2608.13759)
 * [2026-08-17, 17:52:37](https://news.ycombinator.com/item?id=49334960) - [Memory prices climb 500% in 12 months, up to 10x the lowest ever tracked prices](https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399)
 * [2026-08-17, 17:25:17](https://news.ycombinator.com/item?id=49334544) - [Qwen3.8 27B scores 52 on Artificial Analysis](https://artificialanalysis.ai/models/qwen3-8-27b)
 * [2026-08-17, 16:45:11](https://news.ycombinator.com/item?id=49333932) - [Buy Your Friends Batteries](https://domenkozar.com/2026/08/17/buy-your-friends-batteries/)
