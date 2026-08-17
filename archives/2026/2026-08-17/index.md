@@ -9,6 +9,7 @@
 * [2026-08-17, 22:15:38](https://news.ycombinator.com/item?id=49338404) - [Nation's Largest Reservoirs Are Drying Up, Threatening Life in the Southwest](https://www.nytimes.com/2026/08/17/climate/lake-powell-record-low-colorado.html)
 * [2026-08-17, 22:06:14](https://news.ycombinator.com/item?id=49338328) - [Quake Shareware, a CD-ROM just a little too full](https://fabiensanglard.net/quake_shareware_cd/index.html)
 * [2026-08-17, 22:01:17](https://news.ycombinator.com/item?id=49338285) - [Fairphone 6 and PostmarketOS working main camera](https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera)
+* [2026-08-17, 21:59:35](https://news.ycombinator.com/item?id=49338272) - ['Buy Now, Pay Later' Lenders Pitch Loans for Needs Like Electricity and Rent](https://www.nytimes.com/2026/08/17/business/buy-now-pay-later.html)
 * [2026-08-17, 21:47:30](https://news.ycombinator.com/item?id=49338139) - [My friends all hate AI; I just joined an AI startup](https://www.fast.ai/posts/2026-08-18-returning-to-AI/)
 * [2026-08-17, 21:06:10](https://news.ycombinator.com/item?id=49337630) - [How do functions like alloca allocate memory from the stack?](https://devblogs.microsoft.com/oldnewthing/20260817-40/?p=112617)
 * [2026-08-17, 21:03:18](https://news.ycombinator.com/item?id=49337602) - [GPT-5.6 Sol Pricing Cut by 50%](https://openrouter.ai/openai/gpt-5.6-sol)
