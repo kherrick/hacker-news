@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-08-18, 02:58:42](https://news.ycombinator.com/item?id=49340710) - [California's new tire efficiency rules could save drivers $1B a year](https://grist.org/transportation/californias-new-tire-efficiency-rules-could-save-drivers-1b-a-year/)
 * [2026-08-18, 02:11:02](https://news.ycombinator.com/item?id=49340299) - [The Benchmarkpocalypse](https://danluu.com/benchpocalypse/)
 * [2026-08-17, 23:28:28](https://news.ycombinator.com/item?id=49339097) - [Repair Cafe – Fix Your Broken Items](https://www.repaircafe.org/)
 * [2026-08-17, 22:20:40](https://news.ycombinator.com/item?id=49338459) - [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/)
@@ -24,6 +23,7 @@
 * [2026-08-17, 13:59:17](https://news.ycombinator.com/item?id=49331033) - [Ask HN: Alternatives to GitHub](https://news.ycombinator.com/item?id=49331033)
 * [2026-08-17, 13:46:27](https://news.ycombinator.com/item?id=49330781) - [A Preview of DuckDB v2.0](https://duckdb.org/2026/08/17/duckdb-20-highlights)
 * [2026-08-17, 12:09:42](https://news.ycombinator.com/item?id=49329575) - [GPT 5.6 Sol is the best \"vision\" model OpenAI ever released](https://blog.roboflow.com/openai-gpt-5-6/)
+* [2026-08-16, 21:40:39](https://news.ycombinator.com/item?id=49323983) - [Wellington second-hand bookstore's mysterious orders](https://www.rnz.co.nz/life/books/wellington-second-hand-book-store-s-mysterious-orders)
 * [2026-08-15, 20:19:03](https://news.ycombinator.com/item?id=49313944) - [Gum Wrappers World](https://gww.su/map/)
 * [2026-08-14, 05:03:41](https://news.ycombinator.com/item?id=49294913) - [A digestion of the proof of Sendov's conjecture](https://terrytao.wordpress.com/2026/08/12/a-digestion-of-the-proof-of-sendovs-conjecture/)
 * [2026-08-13, 12:47:43](https://news.ycombinator.com/item?id=49285139) - [Shattered skeleton is first confirmed death from trebuchet](https://www.science.org/content/article/shattered-skeleton-scottish-castle-first-confirmed-death-trebuchet)
