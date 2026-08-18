@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-08-18](index.md)
 
+* [2026-08-18, 13:06:24](https://news.ycombinator.com/item?id=49345070) - [Deus Ex creator Warren Spector is retiring from game development](https://www.videogameschronicle.com/news/its-just-not-as-much-fun-for-me-anymore-deus-ex-creator-warren-spector-is-retiring-from-game-development/)
+* [2026-08-18, 12:43:54](https://news.ycombinator.com/item?id=49344825) - [Using the railway network as a flatbed scanner](https://philo.gay/linecam/)
+* [2026-08-18, 12:42:53](https://news.ycombinator.com/item?id=49344811) - [Fairphone is now officially available in the United States](https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more)
+* [2026-08-18, 12:23:55](https://news.ycombinator.com/item?id=49344654) - [Meta Files Patent for Facial Recognition, Automatic Recording of People](https://www.privacyguides.org/news/2026/08/17/meta-files-patent-for-facial-recognition-automatic-recording-of-people/)
+* [2026-08-18, 12:22:58](https://news.ycombinator.com/item?id=49344643) - [Claude writing a macOS driver for my obscure HP printer built only for Windows](https://twitter.com/kuberwastaken/status/2089377982536388964)
 * [2026-08-18, 11:27:03](https://news.ycombinator.com/item?id=49344114) - [As Wisconsin cities flee Flock, its shared camera network loses value](https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/)
 * [2026-08-18, 10:13:28](https://news.ycombinator.com/item?id=49343559) - [Google buys crashed airline Spirit's data at auction, because AI](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962)
 * [2026-08-18, 07:51:50](https://news.ycombinator.com/item?id=49342719) - [Linux 7.3 improves performance when running out of vRAM](https://pixelcluster.dev/VRAM-Overcommit/)
