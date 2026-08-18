@@ -29,6 +29,7 @@
 * [2026-08-15, 19:13:50](https://news.ycombinator.com/item?id=49313371) - [Job Recession in Higher Education](https://gadlevanon.substack.com/p/job-recession-in-higher-education)
 * [2026-08-15, 19:12:53](https://news.ycombinator.com/item?id=49313367) - [So How Is AI Drug Discovery Doing, Really?](https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really)
 * [2026-08-15, 19:12:53](https://news.ycombinator.com/item?id=49313367) - [AI in drug discovery — what it is, where we stand and the path forward](https://www.nature.com/articles/s41573-026-01496-2)
+* [2026-08-15, 19:11:47](https://news.ycombinator.com/item?id=49313360) - [IBM Simon (1994): the original smartphone, explained in its own ad [video]](https://www.youtube.com/watch?v=xoTFywZpPcc)
 * [2026-08-15, 18:37:09](https://news.ycombinator.com/item?id=49313097) - [First human trials of designer protein therapies stun US neuroscientists](https://cen.acs.org/biological-chemistry/biotechnology/human-trial-chemogenetic-brain-therapy/104/web/2026/08)
 * [2026-08-15, 18:34:26](https://news.ycombinator.com/item?id=49313068) - [Tess's Android Wayland Compositor](https://github.com/wmww/tawc)
 * [2026-08-15, 18:33:25](https://news.ycombinator.com/item?id=49313047) - [Voltair (YC W26) Is Hiring a Test Flight Engineer](https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer)
