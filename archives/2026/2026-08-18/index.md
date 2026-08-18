@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-18](index.md)
 
+* [2026-08-18, 21:50:33](https://news.ycombinator.com/item?id=49353221) - [A 3D fruit fly on macOS desktop powered by the real FlyWire connectome](https://github.com/DenisSergeevitch/desktop-fly)
 * [2026-08-18, 21:48:12](https://news.ycombinator.com/item?id=49353181) - [Flock impersonates journalist in order to cancel his hotel reservations](https://xcancel.com/bennjordan/status/2089430236945342508)
 * [2026-08-18, 21:14:21](https://news.ycombinator.com/item?id=49352806) - [Claude Code Teaching macOS to Natively Print to the HP Laser 1008a](https://cdn.kuber.studio/chat/hp-laser-1008a-driver)
 * [2026-08-18, 21:13:30](https://news.ycombinator.com/item?id=49352794) - [Companies promote incompetent employees to management tolimit damage they can do](https://lawsofsoftwareengineering.com/laws/dilbert-principle/)
