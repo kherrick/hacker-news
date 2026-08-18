@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-18, 11:27:03](https://news.ycombinator.com/item?id=49344114) - [As Wisconsin cities flee Flock, its shared camera network loses value](https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/)
 * [2026-08-18, 10:13:28](https://news.ycombinator.com/item?id=49343559) - [Google buys crashed airline Spirit's data at auction, because AI](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962)
 * [2026-08-18, 07:51:50](https://news.ycombinator.com/item?id=49342719) - [Linux 7.3 improves performance when running out of vRAM](https://pixelcluster.dev/VRAM-Overcommit/)
 * [2026-08-18, 07:28:27](https://news.ycombinator.com/item?id=49342530) - [Rethinking Database Programming](https://acadia.engineering/blog/rethinking-database-programming)
@@ -13,6 +14,7 @@
 * [2026-08-17, 21:03:18](https://news.ycombinator.com/item?id=49337602) - [GPT-5.6 Sol Pricing Cut by 50%](https://openrouter.ai/openai/gpt-5.6-sol)
 * [2026-08-17, 20:46:10](https://news.ycombinator.com/item?id=49337392) - [Israel creates fake think tank in likely attempt to dupe AI chatbots](https://responsiblestatecraft.org/israel-influence-chatgpt/)
 * [2026-08-17, 19:47:15](https://news.ycombinator.com/item?id=49336573) - [AI;DR (AI; Didn't Read)](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
+* [2026-08-17, 19:25:11](https://news.ycombinator.com/item?id=49336304) - [India has paved the way for charging merchants a fee on UPI transactions](https://www.bbc.com/news/articles/c8xnwqe00v1o)
 * [2026-08-17, 18:34:09](https://news.ycombinator.com/item?id=49335600) - [Los Puesteros, solitary men who look after ranches and livestock in Patagonia](https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world)
 * [2026-08-17, 17:54:59](https://news.ycombinator.com/item?id=49334991) - [GPU Offload in Rust: Portable, Safe, and Fast](https://arxiv.org/abs/2608.13759)
 * [2026-08-17, 17:15:20](https://news.ycombinator.com/item?id=49334409) - [An update on leaving Gmail for Fastmail](https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/)
@@ -23,11 +25,9 @@
 * [2026-08-17, 13:46:27](https://news.ycombinator.com/item?id=49330781) - [A Preview of DuckDB v2.0](https://duckdb.org/2026/08/17/duckdb-20-highlights)
 * [2026-08-17, 12:09:42](https://news.ycombinator.com/item?id=49329575) - [GPT 5.6 Sol is the best \"vision\" model OpenAI ever released](https://blog.roboflow.com/openai-gpt-5-6/)
 * [2026-08-16, 10:10:56](https://news.ycombinator.com/item?id=49318607) - [Climbing Guide as a Shared Infrastructure](https://irz.fr/en/articles/openclimbing-open-guide-en/)
-* [2026-08-15, 23:20:09](https://news.ycombinator.com/item?id=49315217) - [The key that never exists: a threshold signing ceremony in the browser](https://808bits.com/articles/threshold-signing-ceremony-in-your-browser/)
 * [2026-08-15, 19:11:47](https://news.ycombinator.com/item?id=49313360) - [IBM Simon (1994): the original smartphone, explained in its own ad [video]](https://www.youtube.com/watch?v=xoTFywZpPcc)
 * [2026-08-15, 14:55:57](https://news.ycombinator.com/item?id=49311115) - [Ranking the Most Brilliantly Colored Birds with Data](https://moultano.wordpress.com/2026/08/14/fairly-ranking-the-most-brilliant-birds/)
 * [2026-08-13, 12:47:43](https://news.ycombinator.com/item?id=49285139) - [Shattered skeleton is first confirmed death from trebuchet](https://www.science.org/content/article/shattered-skeleton-scottish-castle-first-confirmed-death-trebuchet)
-* [2026-08-12, 22:02:13](https://news.ycombinator.com/item?id=49279208) - [I built a golf career management SIM (like Basketball GM, but golf)](https://www.rainydaygc.com/)
 * [2026-08-12, 10:26:14](https://news.ycombinator.com/item?id=49270194) - [Olo (Color)](https://en.wikipedia.org/wiki/Olo_(color))
 * [2026-08-12, 09:57:56](https://news.ycombinator.com/item?id=49269966) - [The Road to MS-DOS 2.0](https://nemanjatrifunovic.substack.com/p/the-road-to-ms-dos-2)
 

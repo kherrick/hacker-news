@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-18](index.md)
 
+* [2026-08-18, 11:27:03](https://news.ycombinator.com/item?id=49344114) - [As Wisconsin cities flee Flock, its shared camera network loses value](https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/)
 * [2026-08-18, 10:13:28](https://news.ycombinator.com/item?id=49343559) - [Google buys crashed airline Spirit's data at auction, because AI](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962)
 * [2026-08-18, 07:51:50](https://news.ycombinator.com/item?id=49342719) - [Linux 7.3 improves performance when running out of vRAM](https://pixelcluster.dev/VRAM-Overcommit/)
 * [2026-08-18, 07:35:30](https://news.ycombinator.com/item?id=49342601) - [git git git git git](https://caiustheory.com/git-git-git-git-git/)
