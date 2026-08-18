@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-08-18](index.md)
 
+* [2026-08-18, 22:33:50](https://news.ycombinator.com/item?id=49353753) - [The Microsoft Rebrand Registry](https://www.msrebrandregistry.com/analysis.html)
 * [2026-08-18, 22:21:30](https://news.ycombinator.com/item?id=49353603) - [Who owns the code? AI code == no author == no copyright](https://whoownsthecode.com/)
+* [2026-08-18, 22:08:07](https://news.ycombinator.com/item?id=49353432) - [AI usage patterns in software teams](https://linear.app/data)
 * [2026-08-18, 22:06:10](https://news.ycombinator.com/item?id=49353407) - [GLM-5.3 Artificial Analysis Benchmarks](https://artificialanalysis.ai/models/glm-5-3)
 * [2026-08-18, 22:00:21](https://news.ycombinator.com/item?id=49353339) - [fx :Tiny, open, native coding agent.](https://fx.sh)
 * [2026-08-18, 21:50:33](https://news.ycombinator.com/item?id=49353221) - [A 3D fruit fly on macOS desktop powered by the real FlyWire connectome](https://github.com/DenisSergeevitch/desktop-fly)
