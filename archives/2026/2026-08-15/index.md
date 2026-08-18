@@ -19,6 +19,7 @@
 * [2026-08-15, 21:39:09](https://news.ycombinator.com/item?id=49314579) - [Tracking down a Zsh history data loss bug](https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/)
 * [2026-08-15, 21:14:34](https://news.ycombinator.com/item?id=49314403) - [Abdominal Fat Predicts Heart Disease Risk Better Than BMI](https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi)
 * [2026-08-15, 20:54:11](https://news.ycombinator.com/item?id=49314235) - [Cultivating a state of mind where new ideas are born](https://www.henrikkarlsson.xyz/p/good-ideas)
+* [2026-08-15, 20:19:03](https://news.ycombinator.com/item?id=49313944) - [Gum Wrappers World](https://gww.su/map/)
 * [2026-08-15, 20:18:37](https://news.ycombinator.com/item?id=49313941) - [Humazon](https://hughhowey.com/humazon/)
 * [2026-08-15, 20:15:51](https://news.ycombinator.com/item?id=49313920) - [Plastic mechanical computer from 1963: The Digi-Comp 1 [video]](https://www.youtube.com/watch?v=-y8bGBE71yw)
 * [2026-08-15, 19:50:46](https://news.ycombinator.com/item?id=49313711) - [Kimi Work attaches raw agent sessions to feedback reports](https://news.ycombinator.com/item?id=49313711)
