@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-08-18](index.md)
 
+* [2026-08-18, 16:28:20](https://news.ycombinator.com/item?id=49348163) - [Claude: Degraded Performance for Multiple Models](https://status.claude.com/incidents/q7txxvbsftgq)
+* [2026-08-18, 16:26:42](https://news.ycombinator.com/item?id=49348136) - [Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI](https://machine0.io)
+* [2026-08-18, 16:21:34](https://news.ycombinator.com/item?id=49348055) - [Apple announces changes for apps in the European Union](https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/)
 * [2026-08-18, 15:32:04](https://news.ycombinator.com/item?id=49347207) - [What Happens If OpenAI Dies?](https://www.wheresyoured.at/what-happens-if-openai-dies/)
+* [2026-08-18, 15:30:40](https://news.ycombinator.com/item?id=49347178) - [Show HN: Openleetcode – local LeetCode runner where tests live in the repo](https://github.com/therepanic/openleetcode)
 * [2026-08-18, 15:24:05](https://news.ycombinator.com/item?id=49347055) - [One Oakland police officer made $490k in overtime](https://oaklandside.org/2026/01/29/oakland-police-overtime/)
 * [2026-08-18, 14:57:45](https://news.ycombinator.com/item?id=49346591) - [Finger: A Protocol from 1977 Is Still Delivering Malware in 2026](https://artemissecurity.com/attack-stories/finger-protocol-python-rat-delivery/)
 * [2026-08-18, 14:54:44](https://news.ycombinator.com/item?id=49346538) - [Code-native generation of highly programmable 3D assets (2026)](https://arxiv.org/abs/2607.22738)
