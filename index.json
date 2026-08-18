@@ -1,22 +1,12 @@
 [
   [
     [
-      "2026-08-18, 22:33:50",
-      "https://news.ycombinator.com/item?id=49353753"
+      "2026-08-18, 22:22:41",
+      "https://news.ycombinator.com/item?id=49353618"
     ],
     [
-      "The Microsoft Rebrand Registry",
-      "https://www.msrebrandregistry.com/analysis.html"
-    ]
-  ],
-  [
-    [
-      "2026-08-18, 22:21:30",
-      "https://news.ycombinator.com/item?id=49353603"
-    ],
-    [
-      "Who owns the code?",
-      "https://whoownsthecode.com/"
+      "Programmable Property-Based Testing",
+      "https://dl.acm.org/doi/10.1145/3828685"
     ]
   ],
   [
@@ -67,16 +57,6 @@
     [
       "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
       "https://cdn.kuber.studio/chat/hp-laser-1008a-driver"
-    ]
-  ],
-  [
-    [
-      "2026-08-18, 21:13:30",
-      "https://news.ycombinator.com/item?id=49352794"
-    ],
-    [
-      "Companies promote incompetent employees to management to limit damage they do",
-      "https://lawsofsoftwareengineering.com/laws/dilbert-principle/"
     ]
   ],
   [
@@ -251,6 +231,16 @@
   ],
   [
     [
+      "2026-08-17, 15:49:57",
+      "https://news.ycombinator.com/item?id=49332981"
+    ],
+    [
+      "Universal health coverage could save $1T and 114k lives a year: study",
+      "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/"
+    ]
+  ],
+  [
+    [
       "2026-08-16, 16:08:57",
       "https://news.ycombinator.com/item?id=49321298"
     ],
@@ -281,12 +271,12 @@
   ],
   [
     [
-      "2026-08-15, 05:59:02",
-      "https://news.ycombinator.com/item?id=49308058"
+      "2026-08-14, 06:36:10",
+      "https://news.ycombinator.com/item?id=49295369"
     ],
     [
-      "Mycorrhizal Infrastructure Map",
-      "https://a-hidden-infrastructure.spun.earth/map"
+      "How a giant battery is transforming a town centre in Cannington, Ontario",
+      "https://betakit.com/how-a-giant-battery-is-transforming-a-town-centre-in-cannington-ontario/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "2,500-year-old sculpture discovered at UNESCO site in Turkey",
       "https://www.theartnewspaper.com/2026/08/07/colossal-2500-year-old-sculpture-discovered-turkey-unesco-site"
+    ]
+  ],
+  [
+    [
+      "2026-08-12, 14:07:14",
+      "https://news.ycombinator.com/item?id=49272631"
+    ],
+    [
+      "Teaching my kid to code with a modern MUD",
+      "https://tau.dev/2026/08/07/canon"
     ]
   ]
 ]
