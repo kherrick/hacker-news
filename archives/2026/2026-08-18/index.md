@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-08-18](index.md)
 
+* [2026-08-18, 17:24:53](https://news.ycombinator.com/item?id=49349147) - [Data centers raise nearby temperatures by up to 4 degrees in Phoenix](https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban)
+* [2026-08-18, 17:02:15](https://news.ycombinator.com/item?id=49348751) - [Claude Code weekly limits reduce by a third tomorrow](https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion)
+* [2026-08-18, 16:54:42](https://news.ycombinator.com/item?id=49348627) - [Why your Amazon order confirmation emails have become so unhelpful](https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data)
+* [2026-08-18, 16:40:07](https://news.ycombinator.com/item?id=49348356) - [Diesel Margins Top $100 a Barrel to Reach Record High as Supply Crunch Grows](https://www.bloomberg.com/news/articles/2026-08-18/diesel-margins-top-100-a-barrel-to-reach-record-high-as-supply-crunch-grows)
 * [2026-08-18, 16:28:20](https://news.ycombinator.com/item?id=49348163) - [Claude: Degraded Performance for Multiple Models](https://status.claude.com/incidents/q7txxvbsftgq)
 * [2026-08-18, 16:27:41](https://news.ycombinator.com/item?id=49348152) - [Superpowers, Not Superintelligence](https://bond.now/news/superpowers-not-superintelligence)
 * [2026-08-18, 16:26:42](https://news.ycombinator.com/item?id=49348136) - [Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI](https://machine0.io)
