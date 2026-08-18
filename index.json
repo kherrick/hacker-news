@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-08-18, 18:11:53",
+      "https://news.ycombinator.com/item?id=49349984"
+    ],
+    [
+      "How does IKEA come up with names for its products?",
+      "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html"
+    ]
+  ],
+  [
+    [
+      "2026-08-18, 18:07:21",
+      "https://news.ycombinator.com/item?id=49349898"
+    ],
+    [
+      "Turbovec – Google's TurboQuant for vector search in Rust",
+      "https://github.com/RyanCodrai/turbovec"
+    ]
+  ],
+  [
+    [
+      "2026-08-18, 17:25:19",
+      "https://news.ycombinator.com/item?id=49349159"
+    ],
+    [
+      "Show HN: macOS data protection keychain for Electron apps",
+      "https://github.com/biw/keychain-store"
+    ]
+  ],
+  [
+    [
       "2026-08-18, 17:24:53",
       "https://news.ycombinator.com/item?id=49349147"
     ],
@@ -11,11 +41,21 @@
   ],
   [
     [
+      "2026-08-18, 17:11:28",
+      "https://news.ycombinator.com/item?id=49348912"
+    ],
+    [
+      "And then the men with guns tell you to do it anyway",
+      "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/"
+    ]
+  ],
+  [
+    [
       "2026-08-18, 17:02:15",
       "https://news.ycombinator.com/item?id=49348751"
     ],
     [
-      "Claude Code weekly limits reduce by a third tomorrow",
+      "Claude Code May–August 2026 weekly limits promotion",
       "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion"
     ]
   ],
@@ -37,16 +77,6 @@
     [
       "Diesel Margins Top $100 a Barrel to Reach Record High as Supply Crunch Grows",
       "https://www.bloomberg.com/news/articles/2026-08-18/diesel-margins-top-100-a-barrel-to-reach-record-high-as-supply-crunch-grows"
-    ]
-  ],
-  [
-    [
-      "2026-08-18, 16:28:20",
-      "https://news.ycombinator.com/item?id=49348163"
-    ],
-    [
-      "Degraded performance for multiple models",
-      "https://status.claude.com/incidents/q7txxvbsftgq"
     ]
   ],
   [
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2026-08-18, 12:23:55",
-      "https://news.ycombinator.com/item?id=49344654"
-    ],
-    [
-      "Meta Files Patent for Facial Recognition, Automatic Recording of People",
-      "https://www.privacyguides.org/news/2026/08/17/meta-files-patent-for-facial-recognition-automatic-recording-of-people/"
-    ]
-  ],
-  [
-    [
       "2026-08-18, 10:13:28",
       "https://news.ycombinator.com/item?id=49343559"
     ],
@@ -187,16 +207,6 @@
     [
       "Rethinking Database Programming",
       "https://acadia.engineering/blog/rethinking-database-programming"
-    ]
-  ],
-  [
-    [
-      "2026-08-18, 07:21:35",
-      "https://news.ycombinator.com/item?id=49342472"
-    ],
-    [
-      "Finger: Social network that never died",
-      "https://en.andros.dev/blog/54572bc7/finger-the-1971-social-network-that-never-died/"
     ]
   ],
   [
@@ -251,16 +261,6 @@
   ],
   [
     [
-      "2026-08-15, 19:09:42",
-      "https://news.ycombinator.com/item?id=49313346"
-    ],
-    [
-      "Ask HN: I've quit six systems for tracking my illness. What works?",
-      "https://news.ycombinator.com/item?id=49313346"
-    ]
-  ],
-  [
-    [
       "2026-08-15, 13:56:31",
       "https://news.ycombinator.com/item?id=49310602"
     ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2026-08-14, 23:46:45",
-      "https://news.ycombinator.com/item?id=49305969"
+      "2026-08-15, 09:58:29",
+      "https://news.ycombinator.com/item?id=49309248"
     ],
     [
-      "Baking a Model: A Metaphor for LLM Training",
-      "https://newsletter.kentbeck.com/p/baking-a-model"
+      "Evolve: An incremental game about evolving a civilization",
+      "https://pmotschmann.github.io/Evolve/"
     ]
   ],
   [
