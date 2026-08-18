@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-08-18, 05:17:14](https://news.ycombinator.com/item?id=49341551) - [I don't enjoy the Internet any more](https://btao.org/posts/2026-08-17-i-dont-enjoy-the-internet/)
 * [2026-08-18, 02:11:02](https://news.ycombinator.com/item?id=49340299) - [The Benchmarkpocalypse](https://danluu.com/benchpocalypse/)
 * [2026-08-17, 23:28:28](https://news.ycombinator.com/item?id=49339097) - [Repair Cafe – Fix Your Broken Items](https://www.repaircafe.org/)
 * [2026-08-17, 22:20:40](https://news.ycombinator.com/item?id=49338459) - [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/)
@@ -26,6 +25,7 @@
 * [2026-08-16, 22:11:43](https://news.ycombinator.com/item?id=49324256) - [Ghosts of the Past and Devils of the Present](https://thenewcuriosityshop.substack.com/p/ghosts-of-the-past-and-devils-of)
 * [2026-08-16, 21:40:39](https://news.ycombinator.com/item?id=49323983) - [Wellington second-hand bookstore's mysterious orders](https://www.rnz.co.nz/life/books/wellington-second-hand-book-store-s-mysterious-orders)
 * [2026-08-14, 05:03:41](https://news.ycombinator.com/item?id=49294913) - [A digestion of the proof of Sendov's conjecture](https://terrytao.wordpress.com/2026/08/12/a-digestion-of-the-proof-of-sendovs-conjecture/)
+* [2026-08-13, 16:12:01](https://news.ycombinator.com/item?id=49288129) - [The 37signals Manager Playbook](https://basecamp.com/managers)
 * [2026-08-13, 12:47:43](https://news.ycombinator.com/item?id=49285139) - [Shattered skeleton is first confirmed death from trebuchet](https://www.science.org/content/article/shattered-skeleton-scottish-castle-first-confirmed-death-trebuchet)
 * [2026-08-12, 14:26:41](https://news.ycombinator.com/item?id=49272891) - [A particle made of force: physicists say they've found mysterious 'glueball'](https://www.nature.com/articles/d41586-026-02498-1)
 * [2026-08-12, 10:26:14](https://news.ycombinator.com/item?id=49270194) - [Olo (Color)](https://en.wikipedia.org/wiki/Olo_(color))
