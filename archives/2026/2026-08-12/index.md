@@ -13,6 +13,7 @@
 * [2026-08-12, 22:47:20](https://news.ycombinator.com/item?id=49279628) - [I built a browser-native SysEx librarian for 80s/90s synthesizers](https://bipluk.com/)
 * [2026-08-12, 22:47:12](https://news.ycombinator.com/item?id=49279627) - [The Indo-European Family Tree](https://djbinder.com/language-tree/)
 * [2026-08-12, 22:46:58](https://news.ycombinator.com/item?id=49279624) - [Archie G. Norcross' Maine Forest Fire Maps (1918–22)](https://publicdomainreview.org/collection/maine-forest-fire-maps/)
+* [2026-08-12, 22:02:13](https://news.ycombinator.com/item?id=49279208) - [I built a golf career management SIM (like Basketball GM, but golf)](https://www.rainydaygc.com/)
 * [2026-08-12, 22:01:43](https://news.ycombinator.com/item?id=49279197) - [Process as a Proxy for Motivation](https://bengodfrey.dev/blog/process/)
 * [2026-08-12, 21:56:40](https://news.ycombinator.com/item?id=49279146) - [Intriguing Stories in Computer Science](https://inventwithpython.com/blog/intriguing-stories-in-cs.html)
 * [2026-08-12, 21:45:29](https://news.ycombinator.com/item?id=49279013) - [Thanks to social media, canned sardines are a scarcity on the supermarket shelf](https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/)

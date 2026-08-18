@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-18, 10:13:28](https://news.ycombinator.com/item?id=49343559) - [Google buys crashed airline Spirit's data at auction, because AI](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962)
 * [2026-08-18, 07:51:50](https://news.ycombinator.com/item?id=49342719) - [Linux 7.3 improves performance when running out of vRAM](https://pixelcluster.dev/VRAM-Overcommit/)
 * [2026-08-18, 07:28:27](https://news.ycombinator.com/item?id=49342530) - [Rethinking Database Programming](https://acadia.engineering/blog/rethinking-database-programming)
 * [2026-08-18, 04:51:33](https://news.ycombinator.com/item?id=49341411) - [Exercise intensity modulates interorgan communication and is associated with](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue)
@@ -8,7 +9,6 @@
 * [2026-08-17, 22:20:40](https://news.ycombinator.com/item?id=49338459) - [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/)
 * [2026-08-17, 22:06:14](https://news.ycombinator.com/item?id=49338328) - [Quake Shareware, a CD-ROM just a little too full](https://fabiensanglard.net/quake_shareware_cd/index.html)
 * [2026-08-17, 22:01:17](https://news.ycombinator.com/item?id=49338285) - [Fairphone 6 and PostmarketOS working main camera](https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera)
-* [2026-08-17, 21:06:10](https://news.ycombinator.com/item?id=49337630) - [How do functions like alloca allocate memory from the stack?](https://devblogs.microsoft.com/oldnewthing/20260817-40/?p=112617)
 * [2026-08-17, 21:03:18](https://news.ycombinator.com/item?id=49337602) - [GPT-5.6 Sol Pricing Cut by 50%](https://openrouter.ai/openai/gpt-5.6-sol)
 * [2026-08-17, 20:46:10](https://news.ycombinator.com/item?id=49337392) - [Israel creates fake think tank in likely attempt to dupe AI chatbots](https://responsiblestatecraft.org/israel-influence-chatgpt/)
 * [2026-08-17, 19:47:15](https://news.ycombinator.com/item?id=49336573) - [AI;DR (AI; Didn't Read)](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
@@ -27,7 +27,7 @@
 * [2026-08-15, 19:11:47](https://news.ycombinator.com/item?id=49313360) - [IBM Simon (1994): the original smartphone, explained in its own ad [video]](https://www.youtube.com/watch?v=xoTFywZpPcc)
 * [2026-08-15, 14:55:57](https://news.ycombinator.com/item?id=49311115) - [Ranking the Most Brilliantly Colored Birds with Data](https://moultano.wordpress.com/2026/08/14/fairly-ranking-the-most-brilliant-birds/)
 * [2026-08-13, 12:47:43](https://news.ycombinator.com/item?id=49285139) - [Shattered skeleton is first confirmed death from trebuchet](https://www.science.org/content/article/shattered-skeleton-scottish-castle-first-confirmed-death-trebuchet)
-* [2026-08-12, 14:26:41](https://news.ycombinator.com/item?id=49272891) - [A particle made of force: physicists say they've found mysterious 'glueball'](https://www.nature.com/articles/d41586-026-02498-1)
+* [2026-08-12, 22:02:13](https://news.ycombinator.com/item?id=49279208) - [I built a golf career management SIM (like Basketball GM, but golf)](https://www.rainydaygc.com/)
 * [2026-08-12, 10:26:14](https://news.ycombinator.com/item?id=49270194) - [Olo (Color)](https://en.wikipedia.org/wiki/Olo_(color))
 * [2026-08-12, 09:57:56](https://news.ycombinator.com/item?id=49269966) - [The Road to MS-DOS 2.0](https://nemanjatrifunovic.substack.com/p/the-road-to-ms-dos-2)
 
