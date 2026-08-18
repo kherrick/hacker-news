@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-08-18](index.md)
 
+* [2026-08-18, 18:11:53](https://news.ycombinator.com/item?id=49349984) - [How does IKEA come up with names for its products?](https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html)
+* [2026-08-18, 18:07:21](https://news.ycombinator.com/item?id=49349898) - [Turbovec – Google's TurboQuant for vector search in Rust](https://github.com/RyanCodrai/turbovec)
+* [2026-08-18, 17:25:19](https://news.ycombinator.com/item?id=49349159) - [Show HN: macOS data protection keychain for Electron apps](https://github.com/biw/keychain-store)
 * [2026-08-18, 17:24:53](https://news.ycombinator.com/item?id=49349147) - [Data centers raise nearby temperatures by up to 4 degrees in Phoenix](https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban)
+* [2026-08-18, 17:11:28](https://news.ycombinator.com/item?id=49348912) - [And then the men with guns tell you to do it anyway](https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/)
 * [2026-08-18, 17:02:15](https://news.ycombinator.com/item?id=49348751) - [Claude Code weekly limits reduce by a third tomorrow](https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion)
 * [2026-08-18, 16:54:42](https://news.ycombinator.com/item?id=49348627) - [Why your Amazon order confirmation emails have become so unhelpful](https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data)
 * [2026-08-18, 16:40:07](https://news.ycombinator.com/item?id=49348356) - [Diesel Margins Top $100 a Barrel to Reach Record High as Supply Crunch Grows](https://www.bloomberg.com/news/articles/2026-08-18/diesel-margins-top-100-a-barrel-to-reach-record-high-as-supply-crunch-grows)
