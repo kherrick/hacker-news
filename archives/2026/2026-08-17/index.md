@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-17](index.md)
 
+* [2026-08-17, 23:58:19](https://news.ycombinator.com/item?id=49339359) - [Cursor Origin](https://cursor.com/docs/origin)
+* [2026-08-17, 23:57:13](https://news.ycombinator.com/item?id=49339349) - [Un-AI Your Internet](https://un-ai.digitalprophet.online/)
 * [2026-08-17, 22:20:40](https://news.ycombinator.com/item?id=49338459) - [Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/)
 * [2026-08-17, 22:18:05](https://news.ycombinator.com/item?id=49338428) - [scScript for Linux](https://scapplications.com/)
 * [2026-08-17, 22:15:38](https://news.ycombinator.com/item?id=49338404) - [Nation's Largest Reservoirs Are Drying Up, Threatening Life in the Southwest](https://www.nytimes.com/2026/08/17/climate/lake-powell-record-low-colorado.html)
@@ -13,6 +15,7 @@
 * [2026-08-17, 21:47:30](https://news.ycombinator.com/item?id=49338139) - [My friends all hate AI; I just joined an AI startup](https://www.fast.ai/posts/2026-08-18-returning-to-AI/)
 * [2026-08-17, 21:06:10](https://news.ycombinator.com/item?id=49337630) - [How do functions like alloca allocate memory from the stack?](https://devblogs.microsoft.com/oldnewthing/20260817-40/?p=112617)
 * [2026-08-17, 21:03:18](https://news.ycombinator.com/item?id=49337602) - [GPT-5.6 Sol Pricing Cut by 50%](https://openrouter.ai/openai/gpt-5.6-sol)
+* [2026-08-17, 20:13:27](https://news.ycombinator.com/item?id=49336919) - [GitHub degradation affects Cursor Origin, its new Git platform](https://status.cursor.com/incidents/l9h9vrd726jv)
 * [2026-08-17, 20:12:58](https://news.ycombinator.com/item?id=49336909) - [The Origin of Consciousness](https://blog.plover.com/brain/Jaynes.html)
 * [2026-08-17, 19:56:30](https://news.ycombinator.com/item?id=49336672) - [Will you have spent more of your life with computers than your family?](https://beachfront.bearblog.dev/will-you-have-spent-more-of-your-life-with-computers-than-your-family/)
 * [2026-08-17, 19:47:15](https://news.ycombinator.com/item?id=49336573) - [AI;DR (AI; Didn't Read)](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
