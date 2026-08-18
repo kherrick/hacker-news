@@ -1,22 +1,62 @@
 [
   [
     [
-      "2026-08-18, 14:57:45",
-      "https://news.ycombinator.com/item?id=49346591"
+      "2026-08-18, 15:32:04",
+      "https://news.ycombinator.com/item?id=49347207"
     ],
     [
-      "Finger: A Protocol from 1977 Is Still Delivering Malware in 2026",
-      "https://artemissecurity.com/attack-stories/finger-protocol-python-rat-delivery/"
+      "What Happens If OpenAI Dies?",
+      "https://www.wheresyoured.at/what-happens-if-openai-dies/"
     ]
   ],
   [
     [
-      "2026-08-18, 14:54:26",
-      "https://news.ycombinator.com/item?id=49346535"
+      "2026-08-18, 15:24:05",
+      "https://news.ycombinator.com/item?id=49347055"
     ],
     [
-      "I used to be excited about new tech, but I rarely am anymore",
-      "https://82mhz.net/posts/2026/08/i-used-to-be-excited-about-new-tech-but-i-rarely-am-anymore/"
+      "One Oakland police officer made $490k in overtime",
+      "https://oaklandside.org/2026/01/29/oakland-police-overtime/"
+    ]
+  ],
+  [
+    [
+      "2026-08-18, 14:54:44",
+      "https://news.ycombinator.com/item?id=49346538"
+    ],
+    [
+      "Code-native generation of highly programmable 3D assets (2026)",
+      "https://arxiv.org/abs/2607.22738"
+    ]
+  ],
+  [
+    [
+      "2026-08-18, 14:49:19",
+      "https://news.ycombinator.com/item?id=49346444"
+    ],
+    [
+      "The coolest anti-surveillance tools at Defcon [video]",
+      "https://www.youtube.com/watch?v=-2uAsJ5EPAw"
+    ]
+  ],
+  [
+    [
+      "2026-08-18, 14:40:42",
+      "https://news.ycombinator.com/item?id=49346312"
+    ],
+    [
+      "An Engineer's Old Cooking Trick Is Going Viral, Divides the Internet",
+      "https://pleated-jeans.com/2026/08/15/engineers-forgotten-recipe-hack-viral-divides-internet/"
+    ]
+  ],
+  [
+    [
+      "2026-08-18, 14:29:20",
+      "https://news.ycombinator.com/item?id=49346135"
+    ],
+    [
+      "Show HN: Shoehorn – Quantize any model down to run on your machine",
+      "https://notactuallytreyanastasio.github.io/shoehorn/"
     ]
   ],
   [
@@ -37,16 +77,6 @@
     [
       "Python Polars Cheatsheet (based on our O'Reilly book)",
       "https://opensource.posit.co/resources/cheatsheets/polars/"
-    ]
-  ],
-  [
-    [
-      "2026-08-18, 13:25:54",
-      "https://news.ycombinator.com/item?id=49345320"
-    ],
-    [
-      "NeoBrowser: An MCP server that drives real Chrome with your logged-in sessions",
-      "https://github.com/pitiflautico/neobrowser"
     ]
   ],
   [
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2026-08-18, 04:51:33",
-      "https://news.ycombinator.com/item?id=49341411"
-    ],
-    [
-      "Exercise intensity modulates interorgan communication and is associated with",
-      "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue"
-    ]
-  ],
-  [
-    [
       "2026-08-17, 22:20:40",
       "https://news.ycombinator.com/item?id=49338459"
     ],
@@ -207,16 +227,6 @@
     [
       "Quake Shareware, a CD-ROM just a little too full",
       "https://fabiensanglard.net/quake_shareware_cd/index.html"
-    ]
-  ],
-  [
-    [
-      "2026-08-17, 22:01:17",
-      "https://news.ycombinator.com/item?id=49338285"
-    ],
-    [
-      "Fairphone 6 and PostmarketOS working main camera",
-      "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera"
     ]
   ],
   [
@@ -241,22 +251,32 @@
   ],
   [
     [
-      "2026-08-17, 13:46:27",
-      "https://news.ycombinator.com/item?id=49330781"
+      "2026-08-17, 19:31:25",
+      "https://news.ycombinator.com/item?id=49336392"
     ],
     [
-      "A Preview of DuckDB v2.0",
-      "https://duckdb.org/2026/08/17/duckdb-20-highlights"
+      "How I Under-Engineered My Book",
+      "https://chriskiehl.com/article/how-i-under-engineered-my-book"
     ]
   ],
   [
     [
-      "2026-08-15, 19:11:47",
-      "https://news.ycombinator.com/item?id=49313360"
+      "2026-08-17, 16:22:43",
+      "https://news.ycombinator.com/item?id=49333557"
     ],
     [
-      "IBM Simon (1994): the original smartphone, explained in its own ad [video]",
-      "https://www.youtube.com/watch?v=xoTFywZpPcc"
+      "The Size of the World Wide Web",
+      "https://www.worldwidewebsize.com/"
+    ]
+  ],
+  [
+    [
+      "2026-08-15, 13:56:31",
+      "https://news.ycombinator.com/item?id=49310602"
+    ],
+    [
+      "Splitting a Git Commit",
+      "https://blog.gnoack.org/post/git-history-split"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2026-08-14, 05:46:05",
-      "https://news.ycombinator.com/item?id=49295118"
-    ],
-    [
-      "Oxford Electric Bell",
-      "https://en.wikipedia.org/wiki/Oxford_Electric_Bell"
-    ]
-  ],
-  [
-    [
       "2026-08-12, 14:07:14",
       "https://news.ycombinator.com/item?id=49272631"
     ],
     [
       "Teaching my kid to code with a modern MUD",
       "https://tau.dev/2026/08/07/canon"
-    ]
-  ],
-  [
-    [
-      "2026-08-12, 10:26:14",
-      "https://news.ycombinator.com/item?id=49270194"
-    ],
-    [
-      "Olo (Color)",
-      "https://en.wikipedia.org/wiki/Olo_(color)"
     ]
   ]
 ]
