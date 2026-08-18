@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-18, 07:35:30](https://news.ycombinator.com/item?id=49342601) - [git git git git git](https://caiustheory.com/git-git-git-git-git/)
 * [2026-08-18, 04:51:33](https://news.ycombinator.com/item?id=49341411) - [Exercise intensity modulates interorgan communication and is associated with](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue)
 * [2026-08-18, 02:11:02](https://news.ycombinator.com/item?id=49340299) - [The Benchmarkpocalypse](https://danluu.com/benchpocalypse/)
 * [2026-08-17, 23:28:28](https://news.ycombinator.com/item?id=49339097) - [Repair Cafe – Fix Your Broken Items](https://www.repaircafe.org/)
@@ -22,10 +23,9 @@
 * [2026-08-17, 13:59:17](https://news.ycombinator.com/item?id=49331033) - [Ask HN: Alternatives to GitHub](https://news.ycombinator.com/item?id=49331033)
 * [2026-08-17, 13:46:27](https://news.ycombinator.com/item?id=49330781) - [A Preview of DuckDB v2.0](https://duckdb.org/2026/08/17/duckdb-20-highlights)
 * [2026-08-17, 12:09:42](https://news.ycombinator.com/item?id=49329575) - [GPT 5.6 Sol is the best \"vision\" model OpenAI ever released](https://blog.roboflow.com/openai-gpt-5-6/)
-* [2026-08-16, 22:11:43](https://news.ycombinator.com/item?id=49324256) - [Ghosts of the Past and Devils of the Present](https://thenewcuriosityshop.substack.com/p/ghosts-of-the-past-and-devils-of)
 * [2026-08-16, 10:10:56](https://news.ycombinator.com/item?id=49318607) - [Climbing Guide as a Shared Infrastructure](https://irz.fr/en/articles/openclimbing-open-guide-en/)
+* [2026-08-15, 14:55:57](https://news.ycombinator.com/item?id=49311115) - [Ranking the Most Brilliantly Colored Birds with Data](https://moultano.wordpress.com/2026/08/14/fairly-ranking-the-most-brilliant-birds/)
 * [2026-08-14, 05:03:41](https://news.ycombinator.com/item?id=49294913) - [A digestion of the proof of Sendov's conjecture](https://terrytao.wordpress.com/2026/08/12/a-digestion-of-the-proof-of-sendovs-conjecture/)
-* [2026-08-13, 16:12:01](https://news.ycombinator.com/item?id=49288129) - [The 37signals Manager Playbook](https://basecamp.com/managers)
 * [2026-08-13, 12:47:43](https://news.ycombinator.com/item?id=49285139) - [Shattered skeleton is first confirmed death from trebuchet](https://www.science.org/content/article/shattered-skeleton-scottish-castle-first-confirmed-death-trebuchet)
 * [2026-08-12, 14:26:41](https://news.ycombinator.com/item?id=49272891) - [A particle made of force: physicists say they've found mysterious 'glueball'](https://www.nature.com/articles/d41586-026-02498-1)
 * [2026-08-12, 10:26:14](https://news.ycombinator.com/item?id=49270194) - [Olo (Color)](https://en.wikipedia.org/wiki/Olo_(color))
