@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-08-18](index.md)
+
+* [2026-08-18, 00:29:15](https://news.ycombinator.com/item?id=49339599) - [Google wins bankruptcy auction for Spirit Airlines emails, chats, documents](https://www.axios.com/2026/08/17/google-spirit-airlines-bankruptcy)
