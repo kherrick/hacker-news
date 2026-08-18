@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-08-18, 07:35:30](https://news.ycombinator.com/item?id=49342601) - [git git git git git](https://caiustheory.com/git-git-git-git-git/)
+* [2026-08-18, 07:51:50](https://news.ycombinator.com/item?id=49342719) - [Linux 7.3 improves performance when running out of vRAM](https://pixelcluster.dev/VRAM-Overcommit/)
+* [2026-08-18, 07:28:27](https://news.ycombinator.com/item?id=49342530) - [Rethinking Database Programming](https://acadia.engineering/blog/rethinking-database-programming)
 * [2026-08-18, 04:51:33](https://news.ycombinator.com/item?id=49341411) - [Exercise intensity modulates interorgan communication and is associated with](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue)
 * [2026-08-18, 02:11:02](https://news.ycombinator.com/item?id=49340299) - [The Benchmarkpocalypse](https://danluu.com/benchpocalypse/)
 * [2026-08-17, 23:28:28](https://news.ycombinator.com/item?id=49339097) - [Repair Cafe – Fix Your Broken Items](https://www.repaircafe.org/)
@@ -20,7 +21,6 @@
 * [2026-08-17, 15:36:18](https://news.ycombinator.com/item?id=49332751) - [Launch HN: Speko (YC S26) – OpenRouter for Voice AI](https://speko.ai/)
 * [2026-08-17, 14:18:38](https://news.ycombinator.com/item?id=49331423) - [AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug)
 * [2026-08-17, 14:07:56](https://news.ycombinator.com/item?id=49331220) - [How to disable or avoid intrusive AI](https://www.librarian.net/notoai/)
-* [2026-08-17, 13:59:17](https://news.ycombinator.com/item?id=49331033) - [Ask HN: Alternatives to GitHub](https://news.ycombinator.com/item?id=49331033)
 * [2026-08-17, 13:46:27](https://news.ycombinator.com/item?id=49330781) - [A Preview of DuckDB v2.0](https://duckdb.org/2026/08/17/duckdb-20-highlights)
 * [2026-08-17, 12:09:42](https://news.ycombinator.com/item?id=49329575) - [GPT 5.6 Sol is the best \"vision\" model OpenAI ever released](https://blog.roboflow.com/openai-gpt-5-6/)
 * [2026-08-16, 10:10:56](https://news.ycombinator.com/item?id=49318607) - [Climbing Guide as a Shared Infrastructure](https://irz.fr/en/articles/openclimbing-open-guide-en/)
