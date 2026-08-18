@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-08-18](index.md)
 
+* [2026-08-18, 21:48:12](https://news.ycombinator.com/item?id=49353181) - [Flock impersonates journalist in order to cancel his hotel reservations](https://xcancel.com/bennjordan/status/2089430236945342508)
 * [2026-08-18, 21:14:21](https://news.ycombinator.com/item?id=49352806) - [Claude Code Teaching macOS to Natively Print to the HP Laser 1008a](https://cdn.kuber.studio/chat/hp-laser-1008a-driver)
 * [2026-08-18, 21:13:30](https://news.ycombinator.com/item?id=49352794) - [Companies promote incompetent employees to management tolimit damage they can do](https://lawsofsoftwareengineering.com/laws/dilbert-principle/)
+* [2026-08-18, 21:08:40](https://news.ycombinator.com/item?id=49352737) - [Find Chicago Parking Cops](https://www.secondcitycitation.com)
 * [2026-08-18, 19:30:29](https://news.ycombinator.com/item?id=49351330) - [Norway Should Buy OpenAI](https://www.onethousandmeans.com/p/norway-should-buy-openai)
 * [2026-08-18, 19:29:51](https://news.ycombinator.com/item?id=49351324) - [Beware Management Consultants](https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/)
 * [2026-08-18, 19:24:35](https://news.ycombinator.com/item?id=49351232) - [llms.txt: a proposed standard no major AI platform has confirmed it uses](https://geojacker.com/llms-txt)
