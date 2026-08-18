@@ -129,6 +129,228 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="49348163">
+          <h3>
+            <a
+              class="item"
+              href="https://status.claude.com/incidents/q7txxvbsftgq"
+              >Claude: Degraded Performance for Multiple Models</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-08-18 @ 16:28:20</span
+              ><span class="points-container"
+                >Points: <span class="points">108</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49348163"
+                  >Comments</a
+                ><span class="descendants">: 78</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49348136">
+          <h3>
+            <a class="item" href="https://machine0.io"
+              >Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from
+              the CLI</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-08-18 @ 16:26:42</span
+              ><span class="points-container"
+                >Points: <span class="points">8</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49348136"
+                  >Comments</a
+                ><span class="descendants">: 6</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://machine0.io">https://machine0.io</a>). I’m
+              building a CLI for long horizon agent compute: `machine0 new
+              mybox` gives your agent a persistent cloud VM, billed by the
+              minute, from $0.013/hr up to 60 vCPU / 240 GB RAM and GPUs (H100s,
+              H200s etc), with 99.99% VM level uptime. Agents self drive via CLI
+              or MCP.
+              <p>
+                Demo:
+                <a href="https://www.youtube.com/watch?v=gyllkZ0M04E"
+                  >https://www.youtube.com/watch?v=gyllkZ0M04E</a
+                >
+              </p>
+              <p>
+                Agent workloads are moving from ephemeral to always-on. A coding
+                agent working on a complex feature runs 6-8 hours. Agent
+                orchestrated training &amp; RL runs take days. OpenClaw &amp;
+                Hermes run 24/7. As you run more in parallel:
+              </p>
+              <p>
+                - Resources: a few agents on a large codebase saturate RAM and
+                CPU. Model training and RL needs GPUs you don't have.
+              </p>
+              <p>
+                - Security: `--yolo` on your personal machine is one prompt
+                injection away from exfiltrated credentials.
+              </p>
+              <p>
+                - Availability: close your laptop and the agent dies mid-task.
+              </p>
+              <p>
+                - Isolation: there's no clean line between you and the minimum
+                your agent actually needs.
+              </p>
+              <p>
+                machine0 gives every agent its own computer. It's a CLI simple
+                enough that both humans and agents use it without reading docs:
+                `machine0 new mybox` creates an SSH-ready VM with a static IP
+                and HTTPS endpoint. Always on (with 99.99% VM level uptime)
+                until you switch it off.
+              </p>
+              <p>
+                - Billed by the minute. 1 vCPU / 1 GB at $0.013/hr up to 60 vCPU
+                / 240 GB, plus GPUs from RTX 4000 Ada to 8×H200.
+              </p>
+              <p>
+                - Suspend, snapshot and resume. Making it easy to pause your
+                work, and come back to it later. Or to make a golden master
+                image to stamp out clones for a fleet.
+              </p>
+              <p>
+                - Block storage. Persistent volumes (from 10 GB to 16 TB) that
+                you can manage with intuitive grammar: `--yolo` and attach to
+                your VMs.
+              </p>
+              <p>
+                - Profiles. Bundles of credentials, MCP connections, prompts,
+                and env vars, injected at VM creation. So each agent gets
+                exactly the capabilities you choose, and nothing else.
+              </p>
+              <p>
+                - Agents self-serve. Hand the CLI or MCP server to Claude,
+                Codex, or OpenCode and it manages its own fleet: spin up a box
+                for a build, snapshot it, tear it down.
+              </p>
+              <p>
+                - Reproducible Builds. Using NixOS flakes or Ansible playbooks
+                with Ubuntu.
+              </p>
+              <p>How do people use it today?</p>
+              <p>
+                - Agent fleets. People run a pilot agent that scopes work and
+                delegates it to sub-agents, each on its own VM: shape a project
+                with the pilot, and the workers implement it and open PRs. One
+                customer runs hundreds of machines at once, spun up and torn
+                down from the CLI.
+              </p>
+              <p>
+                - Model optimization &amp; RL environments. ML teams use
+                machine0 for agent-orchestrated RL environments and model
+                optimization work. One customer runs RL environments on 60 vCPU
+                machines that stay up for days at a time; another keeps a
+                suspended H100 around and points an agent at it overnight to
+                grind on inference-speed optimizations.
+              </p>
+              <p>
+                - Product infrastructure. One customer builds their product on
+                top of machine0 rather than using it themselves: every user
+                session gets a fresh XL machine from a versioned image of their
+                own agent runtime. They've shipped hundreds of versions of that
+                image and launched thousands of machines, most alive for two
+                minutes.
+              </p>
+              <p>What’s under the hood?</p>
+              <p>
+                Every machine is a full KVM virtual machine, not a container or
+                sandbox. You get the real GPU exposed to the guest with its
+                actual driver, kernel-level access (load any module or driver
+                you want), and no syscall-interception layer between you and the
+                hardware. The stack itself is deliberately dull: TypeScript,
+                Postgres, Redis. We weigh heavily towards security, reliability
+                and performance making machine0 ideal for sustained compute
+                intensive workloads. About me
+              </p>
+              <p>
+                I've been building cloud infrastructure for about 15 years. I
+                dropped out of a PhD at Imperial College London on cloud
+                resource allocation, later spent six years as co-founder and CTO
+                of Upflow (YC W20), owning DevOps, infra and security personally
+                the whole way to 7-figures in ARR because it was too high-stakes
+                to delegate. machine0 started as a tool for me, I’m my own first
+                user :) Asks
+              </p>
+              <p>
+                Would love you to try it out and give us your feedback (see
+                below). Or if you’re a company looking for compute for software
+                factories, model training or RL environments, feel free to reach
+                out at barnaby@machine0.io
+              </p>
+              <p></p>
+              <pre><code>  # install machine0 
+  $ curl -LsSf https://machine0.io/install.sh | sh
+
+  # create a machine and ssh in
+  $ machine0 new myvm
+  $ machine0 ssh myvm</code></pre>
+            </div>
+          </section>
+        </section>
+        <section id="49348055">
+          <h3>
+            <a
+              class="item"
+              href="https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/"
+              >Apple announces changes for apps in the European Union</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-08-18 @ 16:21:34</span
+              ><span class="points-container"
+                >Points: <span class="points">65</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49348055"
+                  >Comments</a
+                ><span class="descendants">: 75</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49347178">
+          <h3>
+            <a class="item" href="https://github.com/therepanic/openleetcode"
+              >Show HN: Openleetcode – local LeetCode runner where tests live in
+              the repo</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-08-18 @ 15:30:40</span
+              ><span class="points-container"
+                >Points: <span class="points">5</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49347178"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                It currently supports around 1.4k problems and multiple
+                languages, including Python, C++, Rust, Java, Go, TypeScript,
+                Swift, and others.
+              </p>
+              <p>
+                The project is still an MVP. System design, SQL, and concurrency
+                problems are not supported yet, but support for more problem
+                types is planned.
+              </p>
+              <p>Made in Haskell!</p>
+            </div>
+          </section>
+        </section>
         <section id="49346538">
           <h3>
             <a class="item" href="https://arxiv.org/abs/2607.22738"
@@ -139,11 +361,11 @@
             <h4>
               <span>2026-08-18 @ 14:54:44</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">22</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49346538"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
           </section>
@@ -158,11 +380,11 @@
             <h4>
               <span>2026-08-18 @ 14:49:19</span
               ><span class="points-container"
-                >Points: <span class="points">44</span></span
+                >Points: <span class="points">47</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49346444"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -180,7 +402,7 @@
             <h4>
               <span>2026-08-18 @ 14:29:20</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">20</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49346135"
                   >Comments</a
@@ -192,28 +414,6 @@
                 >https://github.com/notactuallytreyanastasio/shoehorn</a
               >
             </div>
-          </section>
-        </section>
-        <section id="49346074">
-          <h3>
-            <a
-              class="item"
-              href="https://abstractextraordinary.com/blog/how-muse-glimmer-fits-an-agent-on-your-device/"
-              >Muse Glimmer is a memory hierarchy disguised as a 30B
-              Transformer</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-08-18 @ 14:23:48</span
-              ><span class="points-container"
-                >Points: <span class="points">10</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49346074"
-                  >Comments</a
-                ><span class="descendants">: 6</span></span
-              >
-            </h4>
           </section>
         </section>
         <section id="49345843">
@@ -229,11 +429,11 @@
             <h4>
               <span>2026-08-18 @ 14:06:50</span
               ><span class="points-container"
-                >Points: <span class="points">104</span></span
+                >Points: <span class="points">113</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49345843"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
+                ><span class="descendants">: 32</span></span
               >
             </h4>
           </section>
@@ -250,7 +450,7 @@
             <h4>
               <span>2026-08-18 @ 13:38:23</span
               ><span class="points-container"
-                >Points: <span class="points">73</span></span
+                >Points: <span class="points">80</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49345476"
                   >Comments</a
@@ -269,11 +469,11 @@
             <h4>
               <span>2026-08-18 @ 13:22:38</span
               ><span class="points-container"
-                >Points: <span class="points">401</span></span
+                >Points: <span class="points">433</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49345263"
                   >Comments</a
-                ><span class="descendants">: 286</span></span
+                ><span class="descendants">: 307</span></span
               >
             </h4>
           </section>
@@ -290,11 +490,11 @@
             <h4>
               <span>2026-08-18 @ 13:18:40</span
               ><span class="points-container"
-                >Points: <span class="points">176</span></span
+                >Points: <span class="points">190</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49345220"
                   >Comments</a
-                ><span class="descendants">: 100</span></span
+                ><span class="descendants">: 111</span></span
               >
             </h4>
           </section>
@@ -311,33 +511,11 @@
             <h4>
               <span>2026-08-18 @ 13:08:32</span
               ><span class="points-container"
-                >Points: <span class="points">42</span></span
+                >Points: <span class="points">48</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49345094"
                   >Comments</a
-                ><span class="descendants">: 33</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49345070">
-          <h3>
-            <a
-              class="item"
-              href="https://www.videogameschronicle.com/news/its-just-not-as-much-fun-for-me-anymore-deus-ex-creator-warren-spector-is-retiring-from-game-development/"
-              >Deus Ex creator Warren Spector is retiring from game
-              development</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-08-18 @ 13:06:24</span
-              ><span class="points-container"
-                >Points: <span class="points">96</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49345070"
-                  >Comments</a
-                ><span class="descendants">: 63</span></span
+                ><span class="descendants">: 36</span></span
               >
             </h4>
           </section>
@@ -352,11 +530,11 @@
             <h4>
               <span>2026-08-18 @ 12:43:54</span
               ><span class="points-container"
-                >Points: <span class="points">243</span></span
+                >Points: <span class="points">252</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49344825"
                   >Comments</a
-                ><span class="descendants">: 42</span></span
+                ><span class="descendants">: 44</span></span
               >
             </h4>
           </section>
@@ -373,11 +551,11 @@
             <h4>
               <span>2026-08-18 @ 12:42:53</span
               ><span class="points-container"
-                >Points: <span class="points">220</span></span
+                >Points: <span class="points">236</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49344811"
                   >Comments</a
-                ><span class="descendants">: 113</span></span
+                ><span class="descendants">: 118</span></span
               >
             </h4>
           </section>
@@ -395,33 +573,11 @@
             <h4>
               <span>2026-08-18 @ 12:23:55</span
               ><span class="points-container"
-                >Points: <span class="points">169</span></span
+                >Points: <span class="points">179</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49344654"
                   >Comments</a
-                ><span class="descendants">: 116</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49344643">
-          <h3>
-            <a
-              class="item"
-              href="https://twitter.com/kuberwastaken/status/2089377982536388964"
-              >Claude writing a macOS driver for my obscure HP printer built
-              only for Windows</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-08-18 @ 12:22:58</span
-              ><span class="points-container"
-                >Points: <span class="points">115</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49344643"
-                  >Comments</a
-                ><span class="descendants">: 42</span></span
+                ><span class="descendants">: 121</span></span
               >
             </h4>
           </section>
@@ -431,18 +587,18 @@
             <a
               class="item"
               href="https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962"
-              >Google buys crashed airline Spirit's data at auction</a
+              >Google has acquired the data of failed US airline Spirit</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-08-18 @ 10:13:28</span
               ><span class="points-container"
-                >Points: <span class="points">443</span></span
+                >Points: <span class="points">458</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49343559"
                   >Comments</a
-                ><span class="descendants">: 318</span></span
+                ><span class="descendants">: 325</span></span
               >
             </h4>
           </section>
@@ -457,11 +613,11 @@
             <h4>
               <span>2026-08-18 @ 07:51:50</span
               ><span class="points-container"
-                >Points: <span class="points">403</span></span
+                >Points: <span class="points">408</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49342719"
                   >Comments</a
-                ><span class="descendants">: 160</span></span
+                ><span class="descendants">: 163</span></span
               >
             </h4>
           </section>
@@ -478,11 +634,11 @@
             <h4>
               <span>2026-08-18 @ 07:28:27</span
               ><span class="points-container"
-                >Points: <span class="points">177</span></span
+                >Points: <span class="points">181</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49342530"
                   >Comments</a
-                ><span class="descendants">: 92</span></span
+                ><span class="descendants">: 96</span></span
               >
             </h4>
           </section>
@@ -499,33 +655,33 @@
             <h4>
               <span>2026-08-18 @ 07:21:35</span
               ><span class="points-container"
-                >Points: <span class="points">125</span></span
+                >Points: <span class="points">130</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49342472"
                   >Comments</a
-                ><span class="descendants">: 39</span></span
+                ><span class="descendants">: 40</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="49341411">
+        <section id="49340710">
           <h3>
             <a
               class="item"
-              href="https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue"
-              >Exercise intensity modulates interorgan communication and is
-              associated with</a
+              href="https://grist.org/transportation/californias-new-tire-efficiency-rules-could-save-drivers-1b-a-year/"
+              >California's new tire efficiency rules could save drivers $1B a
+              year</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-08-18 @ 04:51:33</span
+              <span>2026-08-18 @ 02:58:42</span
               ><span class="points-container"
-                >Points: <span class="points">87</span></span
+                >Points: <span class="points">54</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49341411"
+                ><a href="https://news.ycombinator.com/item?id=49340710"
                   >Comments</a
-                ><span class="descendants">: 48</span></span
+                ><span class="descendants">: 76</span></span
               >
             </h4>
           </section>
@@ -542,11 +698,11 @@
             <h4>
               <span>2026-08-17 @ 22:20:40</span
               ><span class="points-container"
-                >Points: <span class="points">659</span></span
+                >Points: <span class="points">666</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49338459"
                   >Comments</a
-                ><span class="descendants">: 416</span></span
+                ><span class="descendants">: 418</span></span
               >
             </h4>
           </section>
@@ -563,73 +719,11 @@
             <h4>
               <span>2026-08-17 @ 22:06:14</span
               ><span class="points-container"
-                >Points: <span class="points">455</span></span
+                >Points: <span class="points">459</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49338328"
                   >Comments</a
-                ><span class="descendants">: 193</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49338285">
-          <h3>
-            <a
-              class="item"
-              href="https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera"
-              >Fairphone 6 and PostmarketOS working main camera</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-08-17 @ 22:01:17</span
-              ><span class="points-container"
-                >Points: <span class="points">271</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49338285"
-                  >Comments</a
-                ><span class="descendants">: 68</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49337602">
-          <h3>
-            <a class="item" href="https://openrouter.ai/openai/gpt-5.6-sol"
-              >GPT-5.6 Sol Pricing Cut by 50%</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-08-17 @ 21:03:18</span
-              ><span class="points-container"
-                >Points: <span class="points">595</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49337602"
-                  >Comments</a
-                ><span class="descendants">: 409</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49337392">
-          <h3>
-            <a
-              class="item"
-              href="https://responsiblestatecraft.org/israel-influence-chatgpt/"
-              >Israel creates fake think tank in likely attempt to dupe AI
-              chatbots</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-08-17 @ 20:46:10</span
-              ><span class="points-container"
-                >Points: <span class="points">942</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49337392"
-                  >Comments</a
-                ><span class="descendants">: 553</span></span
+                ><span class="descendants">: 200</span></span
               >
             </h4>
           </section>
@@ -646,52 +740,113 @@
             <h4>
               <span>2026-08-17 @ 19:31:25</span
               ><span class="points-container"
-                >Points: <span class="points">43</span></span
+                >Points: <span class="points">52</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49336392"
+                  >Comments</a
+                ><span class="descendants">: 14</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49334960">
+          <h3>
+            <a
+              class="item"
+              href="https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399"
+              >Memory prices climb 500% in 12 months</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-08-17 @ 17:52:37</span
+              ><span class="points-container"
+                >Points: <span class="points">145</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49334960"
+                  >Comments</a
+                ><span class="descendants">: 104</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49334209">
+          <h3>
+            <a
+              class="item"
+              href="https://cursor.com/changelog/origin-code-hosting"
+              >Cursor launches Origin, GitHub alternative</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-08-17 @ 17:02:44</span
+              ><span class="points-container"
+                >Points: <span class="points">162</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49334209"
+                  >Comments</a
+                ><span class="descendants">: 114</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49331551">
+          <h3>
+            <a class="item" href="https://saggar.marginalutility.dev/"
+              >Show HN: Saggar, a Mac terminal that keeps sessions and your
+              attention organized</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-08-17 @ 14:25:54</span
+              ><span class="points-container"
+                >Points: <span class="points">44</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49331551"
+                  >Comments</a
+                ><span class="descendants">: 48</span></span
+              >
+            </h4>
+            <div class="text">
+              Hi HN, like many of you talented folk, I’ve been building more,
+              faster than ever. I built Saggar after my terminal stopped feeling
+              like a tool and started feeling like a tab-management problem. Let
+              me know you think!
+            </div>
+          </section>
+        </section>
+        <section id="49313346">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=49313346"
+              >Ask HN: Ive quit six systems for tracking my illness. What
+              works?</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-08-15 @ 19:09:42</span
+              ><span class="points-container"
+                >Points: <span class="points">14</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49313346"
                   >Comments</a
                 ><span class="descendants">: 11</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="49333557">
-          <h3>
-            <a class="item" href="https://www.worldwidewebsize.com/"
-              >The Size of the World Wide Web</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-08-17 @ 16:22:43</span
-              ><span class="points-container"
-                >Points: <span class="points">6</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49333557"
-                  >Comments</a
-                ><span class="descendants">: 2</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49313360">
-          <h3>
-            <a class="item" href="https://www.youtube.com/watch?v=xoTFywZpPcc"
-              >IBM Simon (1994): the original smartphone, explained in its own
-              ad [video]</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-08-15 @ 19:11:47</span
-              ><span class="points-container"
-                >Points: <span class="points">73</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49313360"
-                  >Comments</a
-                ><span class="descendants">: 44</span></span
-              >
-            </h4>
+            <div class="text">
+              <p>
+                Is this a common experience or do I just have to be better at
+                tracking? Is there a unique/non habit-building way to
+                track/catalogue/recall?
+              </p>
+              <p>
+                Im building something for this (part of the reason why I am
+                asking) - and if anyone is open to a longer conversation, Ill
+                gladly pay for you time!
+              </p>
+            </div>
           </section>
         </section>
         <section id="49310602">
@@ -706,11 +861,11 @@
             <h4>
               <span>2026-08-15 @ 13:56:31</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">48</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49310602"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
@@ -727,11 +882,11 @@
             <h4>
               <span>2026-08-14 @ 23:46:45</span
               ><span class="points-container"
-                >Points: <span class="points">26</span></span
+                >Points: <span class="points">27</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49305969"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -746,11 +901,11 @@
             <h4>
               <span>2026-08-12 @ 14:07:14</span
               ><span class="points-container"
-                >Points: <span class="points">142</span></span
+                >Points: <span class="points">149</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49272631"
                   >Comments</a
-                ><span class="descendants">: 46</span></span
+                ><span class="descendants">: 49</span></span
               >
             </h4>
           </section>
