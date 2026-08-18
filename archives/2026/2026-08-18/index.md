@@ -4,10 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-08-18](index.md)
 
+* [2026-08-18, 19:30:29](https://news.ycombinator.com/item?id=49351330) - [Norway Should Buy OpenAI](https://www.onethousandmeans.com/p/norway-should-buy-openai)
+* [2026-08-18, 19:29:51](https://news.ycombinator.com/item?id=49351324) - [Beware Management Consultants](https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/)
+* [2026-08-18, 19:10:16](https://news.ycombinator.com/item?id=49351020) - [Show HN: Argus, agentic QA for teams whose coding agents move faster than QA](https://github.com/argus-testing/argus)
 * [2026-08-18, 19:07:47](https://news.ycombinator.com/item?id=49350980) - [IndieWeb Homebrew Website Club Asia Pacific: Reflections](https://burgeonlab.com/blog/inaugural-hwc-ap-recap/)
 * [2026-08-18, 19:06:16](https://news.ycombinator.com/item?id=49350955) - [US announces new sanctions on top ICC figures](https://www.bbc.com/news/articles/cnvnl0elz47o)
 * [2026-08-18, 18:58:20](https://news.ycombinator.com/item?id=49350833) - [Could Four Billion People Die at 3°C?](https://safeclimate.org.au/article/could-four-billion-people-die-at-3c/)
 * [2026-08-18, 18:47:51](https://news.ycombinator.com/item?id=49350637) - [Show HN: PantheonGPU – GPU health testing and AI workload benchmarking](https://pantheongpu.com/)
+* [2026-08-18, 18:14:59](https://news.ycombinator.com/item?id=49350031) - [Pacing model development in an era of cyber-critical capabilities](https://openai.com/index/pacing-model-development-cyber-capabilities/)
 * [2026-08-18, 18:11:53](https://news.ycombinator.com/item?id=49349984) - [How does IKEA come up with names for its products?](https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html)
 * [2026-08-18, 18:07:21](https://news.ycombinator.com/item?id=49349898) - [Turbovec – Google's TurboQuant for vector search in Rust](https://github.com/RyanCodrai/turbovec)
 * [2026-08-18, 17:25:19](https://news.ycombinator.com/item?id=49349159) - [Show HN: macOS data protection keychain for Electron apps](https://github.com/biw/keychain-store)
