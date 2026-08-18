@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-08-18, 16:28:20",
+      "https://news.ycombinator.com/item?id=49348163"
+    ],
+    [
+      "Claude: Degraded Performance for Multiple Models",
+      "https://status.claude.com/incidents/q7txxvbsftgq"
+    ]
+  ],
+  [
+    [
+      "2026-08-18, 16:26:42",
+      "https://news.ycombinator.com/item?id=49348136"
+    ],
+    [
+      "Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI",
+      "https://machine0.io"
+    ]
+  ],
+  [
+    [
+      "2026-08-18, 16:21:34",
+      "https://news.ycombinator.com/item?id=49348055"
+    ],
+    [
+      "Apple announces changes for apps in the European Union",
+      "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/"
+    ]
+  ],
+  [
+    [
+      "2026-08-18, 15:30:40",
+      "https://news.ycombinator.com/item?id=49347178"
+    ],
+    [
+      "Show HN: Openleetcode – local LeetCode runner where tests live in the repo",
+      "https://github.com/therepanic/openleetcode"
+    ]
+  ],
+  [
+    [
       "2026-08-18, 14:54:44",
       "https://news.ycombinator.com/item?id=49346538"
     ],
@@ -27,16 +67,6 @@
     [
       "Show HN: Shoehorn – Quantize any model down to run on your machine",
       "https://notactuallytreyanastasio.github.io/shoehorn/"
-    ]
-  ],
-  [
-    [
-      "2026-08-18, 14:23:48",
-      "https://news.ycombinator.com/item?id=49346074"
-    ],
-    [
-      "Muse Glimmer is a memory hierarchy disguised as a 30B Transformer",
-      "https://abstractextraordinary.com/blog/how-muse-glimmer-fits-an-agent-on-your-device/"
     ]
   ],
   [
@@ -91,16 +121,6 @@
   ],
   [
     [
-      "2026-08-18, 13:06:24",
-      "https://news.ycombinator.com/item?id=49345070"
-    ],
-    [
-      "Deus Ex creator Warren Spector is retiring from game development",
-      "https://www.videogameschronicle.com/news/its-just-not-as-much-fun-for-me-anymore-deus-ex-creator-warren-spector-is-retiring-from-game-development/"
-    ]
-  ],
-  [
-    [
       "2026-08-18, 12:43:54",
       "https://news.ycombinator.com/item?id=49344825"
     ],
@@ -131,21 +151,11 @@
   ],
   [
     [
-      "2026-08-18, 12:22:58",
-      "https://news.ycombinator.com/item?id=49344643"
-    ],
-    [
-      "Claude writing a macOS driver for my obscure HP printer built only for Windows",
-      "https://twitter.com/kuberwastaken/status/2089377982536388964"
-    ]
-  ],
-  [
-    [
       "2026-08-18, 10:13:28",
       "https://news.ycombinator.com/item?id=49343559"
     ],
     [
-      "Google buys crashed airline Spirit's data at auction",
+      "Google has acquired the data of failed US airline Spirit",
       "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962"
     ]
   ],
@@ -181,12 +191,12 @@
   ],
   [
     [
-      "2026-08-18, 04:51:33",
-      "https://news.ycombinator.com/item?id=49341411"
+      "2026-08-18, 02:58:42",
+      "https://news.ycombinator.com/item?id=49340710"
     ],
     [
-      "Exercise intensity modulates interorgan communication and is associated with",
-      "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue"
+      "California's new tire efficiency rules could save drivers $1B a year",
+      "https://grist.org/transportation/californias-new-tire-efficiency-rules-could-save-drivers-1b-a-year/"
     ]
   ],
   [
@@ -211,36 +221,6 @@
   ],
   [
     [
-      "2026-08-17, 22:01:17",
-      "https://news.ycombinator.com/item?id=49338285"
-    ],
-    [
-      "Fairphone 6 and PostmarketOS working main camera",
-      "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera"
-    ]
-  ],
-  [
-    [
-      "2026-08-17, 21:03:18",
-      "https://news.ycombinator.com/item?id=49337602"
-    ],
-    [
-      "GPT-5.6 Sol Pricing Cut by 50%",
-      "https://openrouter.ai/openai/gpt-5.6-sol"
-    ]
-  ],
-  [
-    [
-      "2026-08-17, 20:46:10",
-      "https://news.ycombinator.com/item?id=49337392"
-    ],
-    [
-      "Israel creates fake think tank in likely attempt to dupe AI chatbots",
-      "https://responsiblestatecraft.org/israel-influence-chatgpt/"
-    ]
-  ],
-  [
-    [
       "2026-08-17, 19:31:25",
       "https://news.ycombinator.com/item?id=49336392"
     ],
@@ -251,22 +231,42 @@
   ],
   [
     [
-      "2026-08-17, 16:22:43",
-      "https://news.ycombinator.com/item?id=49333557"
+      "2026-08-17, 17:52:37",
+      "https://news.ycombinator.com/item?id=49334960"
     ],
     [
-      "The Size of the World Wide Web",
-      "https://www.worldwidewebsize.com/"
+      "Memory prices climb 500% in 12 months",
+      "https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399"
     ]
   ],
   [
     [
-      "2026-08-15, 19:11:47",
-      "https://news.ycombinator.com/item?id=49313360"
+      "2026-08-17, 17:02:44",
+      "https://news.ycombinator.com/item?id=49334209"
     ],
     [
-      "IBM Simon (1994): the original smartphone, explained in its own ad [video]",
-      "https://www.youtube.com/watch?v=xoTFywZpPcc"
+      "Cursor launches Origin, GitHub alternative",
+      "https://cursor.com/changelog/origin-code-hosting"
+    ]
+  ],
+  [
+    [
+      "2026-08-17, 14:25:54",
+      "https://news.ycombinator.com/item?id=49331551"
+    ],
+    [
+      "Show HN: Saggar, a Mac terminal that keeps sessions and your attention organized",
+      "https://saggar.marginalutility.dev/"
+    ]
+  ],
+  [
+    [
+      "2026-08-15, 19:09:42",
+      "https://news.ycombinator.com/item?id=49313346"
+    ],
+    [
+      "Ask HN: Ive quit six systems for tracking my illness. What works?",
+      "https://news.ycombinator.com/item?id=49313346"
     ]
   ],
   [
