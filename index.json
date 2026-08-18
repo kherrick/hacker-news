@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-08-18, 22:33:50",
+      "https://news.ycombinator.com/item?id=49353753"
+    ],
+    [
+      "The Microsoft Rebrand Registry",
+      "https://www.msrebrandregistry.com/analysis.html"
+    ]
+  ],
+  [
+    [
       "2026-08-18, 22:21:30",
       "https://news.ycombinator.com/item?id=49353603"
     ],
     [
-      "Who owns the code? AI code == no author == no copyright",
+      "Who owns the code?",
       "https://whoownsthecode.com/"
+    ]
+  ],
+  [
+    [
+      "2026-08-18, 22:08:07",
+      "https://news.ycombinator.com/item?id=49353432"
+    ],
+    [
+      "AI usage patterns in software teams",
+      "https://linear.app/data"
     ]
   ],
   [
@@ -55,18 +75,8 @@
       "https://news.ycombinator.com/item?id=49352794"
     ],
     [
-      "Companies promote incompetent employees to management tolimit damage they can do",
+      "Companies promote incompetent employees to management to limit damage they do",
       "https://lawsofsoftwareengineering.com/laws/dilbert-principle/"
-    ]
-  ],
-  [
-    [
-      "2026-08-18, 21:08:40",
-      "https://news.ycombinator.com/item?id=49352737"
-    ],
-    [
-      "Find Chicago Parking Cops",
-      "https://www.secondcitycitation.com"
     ]
   ],
   [
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=49351330"
     ],
     [
-      "The Norwegian Government Pension Fund Global ought to purchase OpenAI",
+      "Norway should buy OpenAI",
       "https://www.onethousandmeans.com/p/norway-should-buy-openai"
     ]
   ],
@@ -121,12 +131,32 @@
   ],
   [
     [
+      "2026-08-18, 17:24:53",
+      "https://news.ycombinator.com/item?id=49349147"
+    ],
+    [
+      "Field measurements of neighborhood-scale air temperature impacts of data centers",
+      "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban"
+    ]
+  ],
+  [
+    [
       "2026-08-18, 17:11:28",
       "https://news.ycombinator.com/item?id=49348912"
     ],
     [
       "And then the men with guns tell you to do it anyway",
       "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/"
+    ]
+  ],
+  [
+    [
+      "2026-08-18, 17:02:15",
+      "https://news.ycombinator.com/item?id=49348751"
+    ],
+    [
+      "Claude Code May–August 2026 weekly limits promotion",
+      "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion"
     ]
   ],
   [
@@ -241,16 +271,6 @@
   ],
   [
     [
-      "2026-08-15, 13:56:31",
-      "https://news.ycombinator.com/item?id=49310602"
-    ],
-    [
-      "Splitting a Git Commit",
-      "https://blog.gnoack.org/post/git-history-split"
-    ]
-  ],
-  [
-    [
       "2026-08-15, 09:58:29",
       "https://news.ycombinator.com/item?id=49309248"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2026-08-14, 11:05:13",
-      "https://news.ycombinator.com/item?id=49297150"
-    ],
-    [
-      "We've flown a radiation-blocking vest to the Moon and back, and it worked",
-      "https://arstechnica.com/science/2026/08/weve-flown-a-radiation-blocking-vest-to-the-moon-and-back-and-it-worked/"
-    ]
-  ],
-  [
-    [
       "2026-08-13, 15:26:42",
       "https://news.ycombinator.com/item?id=49287463"
     ],
     [
       "2,500-year-old sculpture discovered at UNESCO site in Turkey",
       "https://www.theartnewspaper.com/2026/08/07/colossal-2500-year-old-sculpture-discovered-turkey-unesco-site"
-    ]
-  ],
-  [
-    [
-      "2026-08-12, 14:07:14",
-      "https://news.ycombinator.com/item?id=49272631"
-    ],
-    [
-      "Teaching my kid to code with a modern MUD",
-      "https://tau.dev/2026/08/07/canon"
     ]
   ]
 ]
