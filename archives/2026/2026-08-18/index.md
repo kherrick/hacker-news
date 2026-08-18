@@ -4,8 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-08-18](index.md)
 
+* [2026-08-18, 15:32:04](https://news.ycombinator.com/item?id=49347207) - [What Happens If OpenAI Dies?](https://www.wheresyoured.at/what-happens-if-openai-dies/)
+* [2026-08-18, 15:24:05](https://news.ycombinator.com/item?id=49347055) - [One Oakland police officer made $490k in overtime](https://oaklandside.org/2026/01/29/oakland-police-overtime/)
 * [2026-08-18, 14:57:45](https://news.ycombinator.com/item?id=49346591) - [Finger: A Protocol from 1977 Is Still Delivering Malware in 2026](https://artemissecurity.com/attack-stories/finger-protocol-python-rat-delivery/)
+* [2026-08-18, 14:54:44](https://news.ycombinator.com/item?id=49346538) - [Code-native generation of highly programmable 3D assets (2026)](https://arxiv.org/abs/2607.22738)
 * [2026-08-18, 14:54:26](https://news.ycombinator.com/item?id=49346535) - [I used to be excited about new tech, but I rarely am anymore](https://82mhz.net/posts/2026/08/i-used-to-be-excited-about-new-tech-but-i-rarely-am-anymore/)
+* [2026-08-18, 14:49:19](https://news.ycombinator.com/item?id=49346444) - [The coolest anti-surveillance tools at Defcon [video]](https://www.youtube.com/watch?v=-2uAsJ5EPAw)
+* [2026-08-18, 14:40:42](https://news.ycombinator.com/item?id=49346312) - [An Engineer's Old Cooking Trick Is Going Viral, Divides the Internet](https://pleated-jeans.com/2026/08/15/engineers-forgotten-recipe-hack-viral-divides-internet/)
+* [2026-08-18, 14:29:20](https://news.ycombinator.com/item?id=49346135) - [Show HN: Shoehorn – Quantize any model down to run on your machine](https://notactuallytreyanastasio.github.io/shoehorn/)
 * [2026-08-18, 14:06:50](https://news.ycombinator.com/item?id=49345843) - [Babies born under sugar rationing grew into adults with lower cancer risk](https://theconversation.com/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-289873)
 * [2026-08-18, 13:38:23](https://news.ycombinator.com/item?id=49345476) - [Python Polars Cheatsheet (based on our O'Reilly book)](https://opensource.posit.co/resources/cheatsheets/polars/)
 * [2026-08-18, 13:25:54](https://news.ycombinator.com/item?id=49345320) - [NeoBrowser: An MCP server that drives real Chrome with your logged-in sessions](https://github.com/pitiflautico/neobrowser)

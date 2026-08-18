@@ -54,6 +54,7 @@
 * [2026-08-15, 14:08:40](https://news.ycombinator.com/item?id=49310719) - [Cloudflare's AI Psychosis](https://opensauce.it/cloudflare-ai-psychosis/)
 * [2026-08-15, 14:04:49](https://news.ycombinator.com/item?id=49310682) - [The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis](https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/)
 * [2026-08-15, 13:59:47](https://news.ycombinator.com/item?id=49310623) - [Writergate: Zig I/O Interface Overhaul](https://alexrios.me/blog/writergate/)
+* [2026-08-15, 13:56:31](https://news.ycombinator.com/item?id=49310602) - [Splitting a Git Commit](https://blog.gnoack.org/post/git-history-split)
 * [2026-08-15, 13:48:43](https://news.ycombinator.com/item?id=49310533) - [Show HN: Quasicrystals Animation Playground with WebXR](https://hypnagogic-quasicrystals.github.io/)
 * [2026-08-15, 13:45:24](https://news.ycombinator.com/item?id=49310511) - [So Who's Going to Buy All These Tokens?](https://horse.energy/who_buys_the_tokens.html)
 * [2026-08-15, 13:43:46](https://news.ycombinator.com/item?id=49310495) - [Yadda 3.0.0: BDD in the Age of AI Agents](http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html)
