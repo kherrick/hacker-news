@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-08-18](index.md)
 
+* [2026-08-18, 13:38:23](https://news.ycombinator.com/item?id=49345476) - [Python Polars Cheatsheet (based on our O'Reilly book)](https://opensource.posit.co/resources/cheatsheets/polars/)
+* [2026-08-18, 13:25:54](https://news.ycombinator.com/item?id=49345320) - [NeoBrowser: An MCP server that drives real Chrome with your logged-in sessions](https://github.com/pitiflautico/neobrowser)
+* [2026-08-18, 13:18:40](https://news.ycombinator.com/item?id=49345220) - [Fixing a Bricked Framework Laptop](https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/)
+* [2026-08-18, 13:13:17](https://news.ycombinator.com/item?id=49345154) - [Show HN: I canceled my AI code reviewer and wrote a free local one](https://github.com/mukundzha/avouch)
+* [2026-08-18, 13:08:32](https://news.ycombinator.com/item?id=49345094) - [Kent Beck: Composable Tests](https://newsletter.kentbeck.com/p/composable-tests)
+* [2026-08-18, 13:07:50](https://news.ycombinator.com/item?id=49345091) - [Show HN: A local MitM proxy to control TLS fingerprints](https://github.com/ytkoka/impersonate-proxy)
 * [2026-08-18, 13:06:24](https://news.ycombinator.com/item?id=49345070) - [Deus Ex creator Warren Spector is retiring from game development](https://www.videogameschronicle.com/news/its-just-not-as-much-fun-for-me-anymore-deus-ex-creator-warren-spector-is-retiring-from-game-development/)
 * [2026-08-18, 12:43:54](https://news.ycombinator.com/item?id=49344825) - [Using the railway network as a flatbed scanner](https://philo.gay/linecam/)
 * [2026-08-18, 12:42:53](https://news.ycombinator.com/item?id=49344811) - [Fairphone is now officially available in the United States](https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more)
