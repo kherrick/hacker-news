@@ -6,6 +6,7 @@
 
 * [2026-08-18, 19:30:29](https://news.ycombinator.com/item?id=49351330) - [Norway Should Buy OpenAI](https://www.onethousandmeans.com/p/norway-should-buy-openai)
 * [2026-08-18, 19:29:51](https://news.ycombinator.com/item?id=49351324) - [Beware Management Consultants](https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/)
+* [2026-08-18, 19:24:35](https://news.ycombinator.com/item?id=49351232) - [llms.txt: a proposed standard no major AI platform has confirmed it uses](https://geojacker.com/llms-txt)
 * [2026-08-18, 19:10:16](https://news.ycombinator.com/item?id=49351020) - [Show HN: Argus, agentic QA for teams whose coding agents move faster than QA](https://github.com/argus-testing/argus)
 * [2026-08-18, 19:07:47](https://news.ycombinator.com/item?id=49350980) - [IndieWeb Homebrew Website Club Asia Pacific: Reflections](https://burgeonlab.com/blog/inaugural-hwc-ap-recap/)
 * [2026-08-18, 19:06:16](https://news.ycombinator.com/item?id=49350955) - [US announces new sanctions on top ICC figures](https://www.bbc.com/news/articles/cnvnl0elz47o)

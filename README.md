@@ -2,7 +2,7 @@
 
 * [2026-08-18, 19:30:29](https://news.ycombinator.com/item?id=49351330) - [Norway Should Buy OpenAI](https://www.onethousandmeans.com/p/norway-should-buy-openai)
 * [2026-08-18, 19:29:51](https://news.ycombinator.com/item?id=49351324) - [Beware Management Consultants](https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/)
-* [2026-08-18, 18:47:51](https://news.ycombinator.com/item?id=49350637) - [Show HN: PantheonGPU – GPU health testing and AI workload benchmarking](https://pantheongpu.com/)
+* [2026-08-18, 19:24:35](https://news.ycombinator.com/item?id=49351232) - [llms.txt: a proposed standard no major AI platform has confirmed it uses](https://geojacker.com/llms-txt)
 * [2026-08-18, 18:14:59](https://news.ycombinator.com/item?id=49350031) - [Pacing model development in an era of cyber-critical capabilities](https://openai.com/index/pacing-model-development-cyber-capabilities/)
 * [2026-08-18, 18:11:53](https://news.ycombinator.com/item?id=49349984) - [How does IKEA come up with names for its products?](https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html)
 * [2026-08-18, 18:07:21](https://news.ycombinator.com/item?id=49349898) - [Turbovec – Google's TurboQuant for vector search in Rust](https://github.com/RyanCodrai/turbovec)
