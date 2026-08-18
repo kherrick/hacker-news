@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-18](index.md)
 
+* [2026-08-18, 14:57:45](https://news.ycombinator.com/item?id=49346591) - [Finger: A Protocol from 1977 Is Still Delivering Malware in 2026](https://artemissecurity.com/attack-stories/finger-protocol-python-rat-delivery/)
+* [2026-08-18, 14:54:26](https://news.ycombinator.com/item?id=49346535) - [I used to be excited about new tech, but I rarely am anymore](https://82mhz.net/posts/2026/08/i-used-to-be-excited-about-new-tech-but-i-rarely-am-anymore/)
 * [2026-08-18, 14:06:50](https://news.ycombinator.com/item?id=49345843) - [Babies born under sugar rationing grew into adults with lower cancer risk](https://theconversation.com/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-289873)
 * [2026-08-18, 13:38:23](https://news.ycombinator.com/item?id=49345476) - [Python Polars Cheatsheet (based on our O'Reilly book)](https://opensource.posit.co/resources/cheatsheets/polars/)
 * [2026-08-18, 13:25:54](https://news.ycombinator.com/item?id=49345320) - [NeoBrowser: An MCP server that drives real Chrome with your logged-in sessions](https://github.com/pitiflautico/neobrowser)

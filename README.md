@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-18, 14:57:45](https://news.ycombinator.com/item?id=49346591) - [Finger: A Protocol from 1977 Is Still Delivering Malware in 2026](https://artemissecurity.com/attack-stories/finger-protocol-python-rat-delivery/)
+* [2026-08-18, 14:54:26](https://news.ycombinator.com/item?id=49346535) - [I used to be excited about new tech, but I rarely am anymore](https://82mhz.net/posts/2026/08/i-used-to-be-excited-about-new-tech-but-i-rarely-am-anymore/)
 * [2026-08-18, 14:06:50](https://news.ycombinator.com/item?id=49345843) - [Babies born under sugar rationing grew into adults with lower cancer risk](https://theconversation.com/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-289873)
 * [2026-08-18, 13:38:23](https://news.ycombinator.com/item?id=49345476) - [Python Polars Cheatsheet (based on our O'Reilly book)](https://opensource.posit.co/resources/cheatsheets/polars/)
 * [2026-08-18, 13:25:54](https://news.ycombinator.com/item?id=49345320) - [NeoBrowser: An MCP server that drives real Chrome with your logged-in sessions](https://github.com/pitiflautico/neobrowser)
@@ -22,10 +24,8 @@
 * [2026-08-17, 22:01:17](https://news.ycombinator.com/item?id=49338285) - [Fairphone 6 and PostmarketOS working main camera](https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera)
 * [2026-08-17, 21:03:18](https://news.ycombinator.com/item?id=49337602) - [GPT-5.6 Sol Pricing Cut by 50%](https://openrouter.ai/openai/gpt-5.6-sol)
 * [2026-08-17, 20:46:10](https://news.ycombinator.com/item?id=49337392) - [Israel creates fake think tank in likely attempt to dupe AI chatbots](https://responsiblestatecraft.org/israel-influence-chatgpt/)
-* [2026-08-17, 14:18:38](https://news.ycombinator.com/item?id=49331423) - [AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug)
 * [2026-08-17, 13:46:27](https://news.ycombinator.com/item?id=49330781) - [A Preview of DuckDB v2.0](https://duckdb.org/2026/08/17/duckdb-20-highlights)
 * [2026-08-15, 19:11:47](https://news.ycombinator.com/item?id=49313360) - [IBM Simon (1994): the original smartphone, explained in its own ad [video]](https://www.youtube.com/watch?v=xoTFywZpPcc)
-* [2026-08-15, 14:55:57](https://news.ycombinator.com/item?id=49311115) - [Ranking the Most Brilliantly Colored Birds with Data](https://moultano.wordpress.com/2026/08/14/fairly-ranking-the-most-brilliant-birds/)
 * [2026-08-14, 23:46:45](https://news.ycombinator.com/item?id=49305969) - [Baking a Model: A Metaphor for LLM Training](https://newsletter.kentbeck.com/p/baking-a-model)
 * [2026-08-14, 05:46:05](https://news.ycombinator.com/item?id=49295118) - [Oxford Electric Bell](https://en.wikipedia.org/wiki/Oxford_Electric_Bell)
 * [2026-08-12, 14:07:14](https://news.ycombinator.com/item?id=49272631) - [Teaching my kid to code with a modern MUD](https://tau.dev/2026/08/07/canon)
