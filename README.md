@@ -14,7 +14,6 @@
 * [2026-08-17, 21:03:18](https://news.ycombinator.com/item?id=49337602) - [GPT-5.6 Sol Pricing Cut by 50%](https://openrouter.ai/openai/gpt-5.6-sol)
 * [2026-08-17, 20:46:10](https://news.ycombinator.com/item?id=49337392) - [Israel creates fake think tank in likely attempt to dupe AI chatbots](https://responsiblestatecraft.org/israel-influence-chatgpt/)
 * [2026-08-17, 19:47:15](https://news.ycombinator.com/item?id=49336573) - [AI;DR (AI; Didn't Read)](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
-* [2026-08-17, 19:25:11](https://news.ycombinator.com/item?id=49336304) - [India has paved the way for charging merchants a fee on UPI transactions](https://www.bbc.com/news/articles/c8xnwqe00v1o)
 * [2026-08-17, 18:34:09](https://news.ycombinator.com/item?id=49335600) - [Los Puesteros, solitary men who look after ranches and livestock in Patagonia](https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world)
 * [2026-08-17, 17:54:59](https://news.ycombinator.com/item?id=49334991) - [GPU Offload in Rust: Portable, Safe, and Fast](https://arxiv.org/abs/2608.13759)
 * [2026-08-17, 17:15:20](https://news.ycombinator.com/item?id=49334409) - [An update on leaving Gmail for Fastmail](https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/)
@@ -28,6 +27,7 @@
 * [2026-08-15, 19:11:47](https://news.ycombinator.com/item?id=49313360) - [IBM Simon (1994): the original smartphone, explained in its own ad [video]](https://www.youtube.com/watch?v=xoTFywZpPcc)
 * [2026-08-15, 14:55:57](https://news.ycombinator.com/item?id=49311115) - [Ranking the Most Brilliantly Colored Birds with Data](https://moultano.wordpress.com/2026/08/14/fairly-ranking-the-most-brilliant-birds/)
 * [2026-08-13, 12:47:43](https://news.ycombinator.com/item?id=49285139) - [Shattered skeleton is first confirmed death from trebuchet](https://www.science.org/content/article/shattered-skeleton-scottish-castle-first-confirmed-death-trebuchet)
+* [2026-08-12, 14:07:14](https://news.ycombinator.com/item?id=49272631) - [Teaching my kid to code with a modern MUD](https://tau.dev/2026/08/07/canon)
 * [2026-08-12, 10:26:14](https://news.ycombinator.com/item?id=49270194) - [Olo (Color)](https://en.wikipedia.org/wiki/Olo_(color))
 * [2026-08-12, 09:57:56](https://news.ycombinator.com/item?id=49269966) - [The Road to MS-DOS 2.0](https://nemanjatrifunovic.substack.com/p/the-road-to-ms-dos-2)
 
