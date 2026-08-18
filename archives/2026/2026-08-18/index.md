@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-08-18](index.md)
 
+* [2026-08-18, 14:06:50](https://news.ycombinator.com/item?id=49345843) - [Babies born under sugar rationing grew into adults with lower cancer risk](https://theconversation.com/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-289873)
 * [2026-08-18, 13:38:23](https://news.ycombinator.com/item?id=49345476) - [Python Polars Cheatsheet (based on our O'Reilly book)](https://opensource.posit.co/resources/cheatsheets/polars/)
 * [2026-08-18, 13:25:54](https://news.ycombinator.com/item?id=49345320) - [NeoBrowser: An MCP server that drives real Chrome with your logged-in sessions](https://github.com/pitiflautico/neobrowser)
+* [2026-08-18, 13:22:38](https://news.ycombinator.com/item?id=49345263) - [The Amazon Tax](https://seths.blog/2026/08/the-amazon-tax/)
 * [2026-08-18, 13:18:40](https://news.ycombinator.com/item?id=49345220) - [Fixing a Bricked Framework Laptop](https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/)
 * [2026-08-18, 13:13:17](https://news.ycombinator.com/item?id=49345154) - [Show HN: I canceled my AI code reviewer and wrote a free local one](https://github.com/mukundzha/avouch)
 * [2026-08-18, 13:08:32](https://news.ycombinator.com/item?id=49345094) - [Kent Beck: Composable Tests](https://newsletter.kentbeck.com/p/composable-tests)
