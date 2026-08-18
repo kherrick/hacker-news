@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-08-18](index.md)
 
 * [2026-08-18, 22:33:50](https://news.ycombinator.com/item?id=49353753) - [The Microsoft Rebrand Registry](https://www.msrebrandregistry.com/analysis.html)
+* [2026-08-18, 22:22:41](https://news.ycombinator.com/item?id=49353618) - [Programmable Property-Based Testing](https://dl.acm.org/doi/10.1145/3828685)
 * [2026-08-18, 22:21:30](https://news.ycombinator.com/item?id=49353603) - [Who owns the code? AI code == no author == no copyright](https://whoownsthecode.com/)
 * [2026-08-18, 22:08:07](https://news.ycombinator.com/item?id=49353432) - [AI usage patterns in software teams](https://linear.app/data)
 * [2026-08-18, 22:06:10](https://news.ycombinator.com/item?id=49353407) - [GLM-5.3 Artificial Analysis Benchmarks](https://artificialanalysis.ai/models/glm-5-3)
