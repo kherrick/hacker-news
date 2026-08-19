@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-19, 02:41:50",
+      "https://news.ycombinator.com/item?id=49355968"
+    ],
+    [
+      "Palomar: A registry of Lean verified mathematics",
+      "https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/"
+    ]
+  ],
+  [
+    [
       "2026-08-19, 02:24:34",
       "https://news.ycombinator.com/item?id=49355825"
     ],
@@ -17,16 +27,6 @@
     [
       "OpenLogi",
       "https://openlogi.org/en"
-    ]
-  ],
-  [
-    [
-      "2026-08-19, 01:23:45",
-      "https://news.ycombinator.com/item?id=49355368"
-    ],
-    [
-      "The Integer",
-      "https://gist.github.com/17twenty/1f230ab8256f42d4cd3ba931b9bd440b"
     ]
   ],
   [
@@ -77,16 +77,6 @@
     [
       "Cerebras CS-4",
       "https://www.cerebras.ai/cs4"
-    ]
-  ],
-  [
-    [
-      "2026-08-19, 00:11:35",
-      "https://news.ycombinator.com/item?id=49354778"
-    ],
-    [
-      "Why crypto's best infrastructure companies stopped looking like crypto?",
-      "https://konstantintkachuk.com/writing/depin-is-dead-long-live-infrastructure-as-a-service/"
     ]
   ],
   [
@@ -191,6 +181,16 @@
   ],
   [
     [
+      "2026-08-18, 16:26:42",
+      "https://news.ycombinator.com/item?id=49348136"
+    ],
+    [
+      "Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI",
+      "https://machine0.io"
+    ]
+  ],
+  [
+    [
       "2026-08-18, 16:21:34",
       "https://news.ycombinator.com/item?id=49348055"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-08-12, 22:17:16",
-      "https://news.ycombinator.com/item?id=49279352"
+      "2026-08-13, 14:13:41",
+      "https://news.ycombinator.com/item?id=49286291"
     ],
     [
-      "I stopped caring about programming terms",
-      "https://teadriven.com/blog/why-i-stopped-caring-about-terminology/"
+      "CUDA Shared Memory Swizzling",
+      "https://leimao.github.io/blog/CUDA-Shared-Memory-Swizzling/"
     ]
   ]
 ]
