@@ -2,6 +2,7 @@
 
 * [2026-08-19, 16:29:02](https://news.ycombinator.com/item?id=49363710) - [Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams](https://github.com/onecli/onecli)
 * [2026-08-19, 16:26:05](https://news.ycombinator.com/item?id=49363668) - [Extensible Software in the Age of LLMs](https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/)
+* [2026-08-19, 16:25:37](https://news.ycombinator.com/item?id=49363665) - [How Kubernetes Probes Work](https://ngrok.com/blog/probes)
 * [2026-08-19, 16:18:57](https://news.ycombinator.com/item?id=49363587) - [Chain-of-Thought Reasoning in the Wild Is Not Always Faithful](https://arxiv.org/abs/2503.08679)
 * [2026-08-19, 16:07:14](https://news.ycombinator.com/item?id=49363433) - [Civic Hygiene – avoid building technologies that could be used by a police state (2013)](https://shkspr.mobi/blog/2013/11/civic-hygiene/)
 * [2026-08-19, 15:32:08](https://news.ycombinator.com/item?id=49362934) - [Remote workers report the highest well-being in study of 7,700 employees](https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees)
@@ -14,7 +15,6 @@
 * [2026-08-19, 11:46:58](https://news.ycombinator.com/item?id=49360242) - [Devices with GrapheneOS support should be available in 2027](https://grapheneos.social/@GrapheneOS/117078064184215730)
 * [2026-08-19, 11:21:50](https://news.ycombinator.com/item?id=49360015) - [A joke domain purchase turned in geopolitical warfare](https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/)
 * [2026-08-19, 10:15:00](https://news.ycombinator.com/item?id=49359425) - [Air Theremin – a browser theremin you play by waving at your webcam](https://theremin.bizibah.com/)
-* [2026-08-19, 06:09:16](https://news.ycombinator.com/item?id=49357501) - [λλ: A Programming Language for Silicon Photonics](https://dl.acm.org/doi/10.1145/3789240.3829151)
 * [2026-08-19, 02:41:50](https://news.ycombinator.com/item?id=49355968) - [Palomar: A registry of Lean verified mathematics](https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/)
 * [2026-08-19, 01:58:28](https://news.ycombinator.com/item?id=49355606) - [OpenLogi](https://openlogi.org/en)
 * [2026-08-19, 00:28:18](https://news.ycombinator.com/item?id=49354949) - [Cerebras CS-4](https://www.cerebras.ai/cs4)

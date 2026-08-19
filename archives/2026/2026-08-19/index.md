@@ -6,6 +6,7 @@
 
 * [2026-08-19, 16:29:02](https://news.ycombinator.com/item?id=49363710) - [Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams](https://github.com/onecli/onecli)
 * [2026-08-19, 16:26:05](https://news.ycombinator.com/item?id=49363668) - [Extensible Software in the Age of LLMs](https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/)
+* [2026-08-19, 16:25:37](https://news.ycombinator.com/item?id=49363665) - [How Kubernetes Probes Work](https://ngrok.com/blog/probes)
 * [2026-08-19, 16:18:57](https://news.ycombinator.com/item?id=49363587) - [Chain-of-Thought Reasoning in the Wild Is Not Always Faithful](https://arxiv.org/abs/2503.08679)
 * [2026-08-19, 16:07:14](https://news.ycombinator.com/item?id=49363433) - [Civic Hygiene – avoid building technologies that could be used by a police state (2013)](https://shkspr.mobi/blog/2013/11/civic-hygiene/)
 * [2026-08-19, 15:32:08](https://news.ycombinator.com/item?id=49362934) - [Remote workers report the highest well-being in study of 7,700 employees](https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees)
