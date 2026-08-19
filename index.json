@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-19, 20:22:26",
+      "https://news.ycombinator.com/item?id=49366704"
+    ],
+    [
+      "Copper Shortage Threatens the Green Transition",
+      "https://www.economyprism.com/2026/04/copper-shortage-threatens-green.html"
+    ]
+  ],
+  [
+    [
       "2026-08-19, 19:43:48",
       "https://news.ycombinator.com/item?id=49366264"
     ],
@@ -41,16 +51,6 @@
   ],
   [
     [
-      "2026-08-19, 18:58:29",
-      "https://news.ycombinator.com/item?id=49365733"
-    ],
-    [
-      "Police officer used Flock cameras to track estranged wife 717 times",
-      "https://www.wsbtv.com/news/trending/affidavit-police-officer-used-flock-cameras-track-estranged-wife-717-times/5DVBYU2XTJEVDJR7LPZCBR7M5M/"
-    ]
-  ],
-  [
-    [
       "2026-08-19, 18:36:45",
       "https://news.ycombinator.com/item?id=49365443"
     ],
@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=49365419"
     ],
     [
-      "Rules of Good Social Skills",
+      "Rules of Good Social Skills (2025)",
       "https://liamrosen.com/2025/07/24/33-rules-of-good-social-skills/"
     ]
   ],
@@ -97,16 +97,6 @@
     [
       "Google replaced Git tags for certain source code with obtaining via Google Drive",
       "https://grapheneos.social/@GrapheneOS/117057099753905023"
-    ]
-  ],
-  [
-    [
-      "2026-08-19, 17:45:41",
-      "https://news.ycombinator.com/item?id=49364721"
-    ],
-    [
-      "A revisit of remote Spectre attacks on Cloudflare Workers",
-      "https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/"
     ]
   ],
   [
@@ -171,11 +161,21 @@
   ],
   [
     [
+      "2026-08-19, 15:28:01",
+      "https://news.ycombinator.com/item?id=49362887"
+    ],
+    [
+      "Casio F-B100W-1A",
+      "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/"
+    ]
+  ],
+  [
+    [
       "2026-08-19, 15:14:25",
       "https://news.ycombinator.com/item?id=49362728"
     ],
     [
-      "Mathematics in the Age of AI",
+      "Mathematics in the age of AI",
       "https://arxiv.org/abs/2608.16753"
     ]
   ],
@@ -251,6 +251,26 @@
   ],
   [
     [
+      "2026-08-18, 22:00:21",
+      "https://news.ycombinator.com/item?id=49353339"
+    ],
+    [
+      "fx :Tiny, open, native coding agent.",
+      "https://fx.sh"
+    ]
+  ],
+  [
+    [
+      "2026-08-18, 18:14:59",
+      "https://news.ycombinator.com/item?id=49350031"
+    ],
+    [
+      "Pacing model development in an era of cyber-critical capabilities",
+      "https://openai.com/index/pacing-model-development-cyber-capabilities/"
+    ]
+  ],
+  [
+    [
       "2026-08-18, 15:46:46",
       "https://news.ycombinator.com/item?id=49347477"
     ],
@@ -277,26 +297,6 @@
     [
       "Turning molecules into reliable electronic devices",
       "https://news.mit.edu/2026/turning-molecules-into-reliable-electronic-devices-0803"
-    ]
-  ],
-  [
-    [
-      "2026-08-13, 14:56:15",
-      "https://news.ycombinator.com/item?id=49286987"
-    ],
-    [
-      "Taffy: A flexible, high-performance, cross-platform UI layout library",
-      "https://github.com/DioxusLabs/taffy"
-    ]
-  ],
-  [
-    [
-      "2026-08-13, 14:11:27",
-      "https://news.ycombinator.com/item?id=49286258"
-    ],
-    [
-      "A decades-old bug in Knuth's long division (TAOCP Vol II, Algorithm 4.3.1D)",
-      "https://kolja.rs/algorithm-d/"
     ]
   ]
 ]
