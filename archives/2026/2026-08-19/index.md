@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-19](index.md)
 
+* [2026-08-19, 02:41:50](https://news.ycombinator.com/item?id=49355968) - [Palomar: A registry of Lean verified mathematics](https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/)
 * [2026-08-19, 02:24:34](https://news.ycombinator.com/item?id=49355825) - [Meta's blockbuster trial draws parallels to big tobacco](https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco)
 * [2026-08-19, 01:58:28](https://news.ycombinator.com/item?id=49355606) - [OpenLogi](https://openlogi.org/en)
 * [2026-08-19, 01:23:45](https://news.ycombinator.com/item?id=49355368) - [The Integer](https://gist.github.com/17twenty/1f230ab8256f42d4cd3ba931b9bd440b)

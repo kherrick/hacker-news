@@ -52,6 +52,7 @@
 * [2026-08-13, 14:22:54](https://news.ycombinator.com/item?id=49286424) - [Graduate Student Proves a Quantum Uncertainty Principle for Fractals](https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/)
 * [2026-08-13, 14:18:34](https://news.ycombinator.com/item?id=49286357) - [We eliminated 1,400 CVEs in NanoClaw's container images](https://www.echo.ai/blog/echo-xnanoclaw-under-the-hood)
 * [2026-08-13, 14:17:13](https://news.ycombinator.com/item?id=49286341) - [Spaghettifying DRAM](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
+* [2026-08-13, 14:13:41](https://news.ycombinator.com/item?id=49286291) - [CUDA Shared Memory Swizzling](https://leimao.github.io/blog/CUDA-Shared-Memory-Swizzling/)
 * [2026-08-13, 14:11:51](https://news.ycombinator.com/item?id=49286270) - [Heart Aerospace Completes First Flight of Largest Electric Aircraft](https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft)
 * [2026-08-13, 14:08:44](https://news.ycombinator.com/item?id=49286211) - [Build a Stratum 1 PTP Grandmaster on a Budget](https://opscode.io/posts/ptp-grandmaster-cm4-sr1723u10/)
 * [2026-08-13, 13:57:47](https://news.ycombinator.com/item?id=49286073) - [Show HN: MCP Memory – Fast Agent Memory Using Google's OKF and SQLite FTS5](https://github.com/fellowgeek/mcp-memory)
