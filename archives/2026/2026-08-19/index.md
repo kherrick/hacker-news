@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-08-19](index.md)
 
+* [2026-08-19, 15:32:08](https://news.ycombinator.com/item?id=49362934) - [Remote workers report the highest well-being in study of 7,700 employees](https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees)
+* [2026-08-19, 15:28:01](https://news.ycombinator.com/item?id=49362887) - [New Casio F-B100W – Upgrade to the iconic F-91W after 40 years](https://www.casio.com/uk/watches/casio/product.F-B100W-1A/)
+* [2026-08-19, 14:48:39](https://news.ycombinator.com/item?id=49362401) - [Ornith-1.5: From Self-Scaffolding to Self-Improvement](https://ornith.ai/ornith_1_5.html)
 * [2026-08-19, 14:48:30](https://news.ycombinator.com/item?id=49362396) - [X262: X264 with MPEG-2 Support](https://github.com/kierank/x262)
 * [2026-08-19, 13:33:35](https://news.ycombinator.com/item?id=49361395) - [Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma](https://twitter.com/NoubarAfeyan/status/2090050162441752787)
 * [2026-08-19, 13:21:21](https://news.ycombinator.com/item?id=49361279) - [PostgreSQL for Everything](https://www.raphaelbauer.com:443/posts/postgresql-everything/)
