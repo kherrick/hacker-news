@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-19](index.md)
 
+* [2026-08-19, 20:22:26](https://news.ycombinator.com/item?id=49366704) - [Copper Shortage Threatens the Green Transition](https://www.economyprism.com/2026/04/copper-shortage-threatens-green.html)
 * [2026-08-19, 19:43:48](https://news.ycombinator.com/item?id=49366264) - [Pixel 11 Pro Fold feels like the end of an era](https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review)
 * [2026-08-19, 19:31:02](https://news.ycombinator.com/item?id=49366115) - [From Quantum Relative Entropy to the Semiclassical Einstein Equations](https://arxiv.org/abs/2510.24491)
 * [2026-08-19, 19:26:18](https://news.ycombinator.com/item?id=49366067) - [Ramp Launches a Model Router](https://router.com)
