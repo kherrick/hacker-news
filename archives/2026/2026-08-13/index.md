@@ -78,6 +78,7 @@
 * [2026-08-13, 12:01:02](https://news.ycombinator.com/item?id=49284697) - [ATG (YC F25) Is Hiring Member of Technical Staff (Data Platform)](https://atg.science/careers)
 * [2026-08-13, 10:50:31](https://news.ycombinator.com/item?id=49284093) - [2,085 Tests, and None of Them Opens the Front Door](https://i.brandanthonymcdonald.com/what-my-tests-do-not-cover)
 * [2026-08-13, 10:23:51](https://news.ycombinator.com/item?id=49283891) - [Claude users are mad that Anthropic's new watermarks will catch them using it](https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/)
+* [2026-08-13, 09:18:42](https://news.ycombinator.com/item?id=49283455) - [Win-V combo from Windows on Ubuntu](https://leo98ml.github.io/win-v/)
 * [2026-08-13, 08:14:30](https://news.ycombinator.com/item?id=49283063) - [Launch HN: Bullet (YC S26) – A Faster Coding Agent](https://www.codewithbullet.com)
 * [2026-08-13, 07:57:40](https://news.ycombinator.com/item?id=49282951) - [Coin-Sized Device Can Hack a Boeing 737](https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/)
 * [2026-08-13, 07:10:41](https://news.ycombinator.com/item?id=49282652) - [In the Shadow of the (Berlin) Wall](https://www.slowtravelberlin.com/in-the-shadow-of-the-berlin-wall/)

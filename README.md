@@ -11,7 +11,6 @@
 * [2026-08-19, 01:36:40](https://news.ycombinator.com/item?id=49355451) - [The Vietnam Binh Chau (Chau Tan) Late Tang Wreck](https://www.koh-antique.com/client/tangwreck/tangwreck.html)
 * [2026-08-19, 00:48:23](https://news.ycombinator.com/item?id=49355105) - [Scientists stunned by children's lung recovery in ultra low emission zone](https://www.bbc.com/news/articles/c1l1r1zne1ro)
 * [2026-08-19, 00:28:18](https://news.ycombinator.com/item?id=49354949) - [Cerebras CS-4](https://www.cerebras.ai/cs4)
-* [2026-08-18, 23:57:36](https://news.ycombinator.com/item?id=49354664) - [Show HN: Interactive, animated architecture of any HuggingFace models](https://modelmap.cc)
 * [2026-08-18, 23:51:49](https://news.ycombinator.com/item?id=49354613) - [Solo – a .so loader for static Linux binaries](https://github.com/pg83/solo)
 * [2026-08-18, 22:08:07](https://news.ycombinator.com/item?id=49353432) - [AI usage patterns in software teams](https://linear.app/data)
 * [2026-08-18, 21:50:33](https://news.ycombinator.com/item?id=49353221) - [A 3D fruit fly on macOS desktop powered by the real FlyWire connectome](https://github.com/DenisSergeevitch/desktop-fly)
@@ -30,6 +29,7 @@
 * [2026-08-14, 13:17:06](https://news.ycombinator.com/item?id=49298283) - [Rings forged from meteorites may have been fashionable among ancient Greek elite](https://phys.org/news/2026-08-forged-meteorites-fashionable-ancient-greek.html)
 * [2026-08-14, 05:37:51](https://news.ycombinator.com/item?id=49295071) - [Looking for Missed Alarm Bugs in a Formal Verification Tool](https://blog.regehr.org/archives/2124)
 * [2026-08-13, 14:13:41](https://news.ycombinator.com/item?id=49286291) - [CUDA Shared Memory Swizzling](https://leimao.github.io/blog/CUDA-Shared-Memory-Swizzling/)
+* [2026-08-13, 09:18:42](https://news.ycombinator.com/item?id=49283455) - [Win-V combo from Windows on Ubuntu](https://leo98ml.github.io/win-v/)
 
 ## [Archives](archives/index.md)
 
