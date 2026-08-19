@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-08-19](index.md)
 
+* [2026-08-19, 19:43:48](https://news.ycombinator.com/item?id=49366264) - [Pixel 11 Pro Fold feels like the end of an era](https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review)
+* [2026-08-19, 19:31:02](https://news.ycombinator.com/item?id=49366115) - [From Quantum Relative Entropy to the Semiclassical Einstein Equations](https://arxiv.org/abs/2510.24491)
+* [2026-08-19, 19:26:18](https://news.ycombinator.com/item?id=49366067) - [Ramp Launches a Model Router](https://router.com)
+* [2026-08-19, 19:06:16](https://news.ycombinator.com/item?id=49365841) - [Unlocking a locked/deactivated e-waste Cricut Maker](https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/)
 * [2026-08-19, 18:58:29](https://news.ycombinator.com/item?id=49365733) - [Police officer used Flock cameras to track estranged wife 717 times](https://www.wsbtv.com/news/trending/affidavit-police-officer-used-flock-cameras-track-estranged-wife-717-times/5DVBYU2XTJEVDJR7LPZCBR7M5M/)
 * [2026-08-19, 18:36:45](https://news.ycombinator.com/item?id=49365443) - [Unsloth Dynamic 3.0 GGUFs](https://unsloth.ai/docs/basics/dynamic-3.0-ggufs)
 * [2026-08-19, 18:34:45](https://news.ycombinator.com/item?id=49365419) - [Rules of Good Social Skills](https://liamrosen.com/2025/07/24/33-rules-of-good-social-skills/)
