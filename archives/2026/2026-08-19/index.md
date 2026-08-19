@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-19](index.md)
 
+* [2026-08-19, 14:48:30](https://news.ycombinator.com/item?id=49362396) - [X262: X264 with MPEG-2 Support](https://github.com/kierank/x262)
 * [2026-08-19, 13:33:35](https://news.ycombinator.com/item?id=49361395) - [Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma](https://twitter.com/NoubarAfeyan/status/2090050162441752787)
 * [2026-08-19, 13:21:21](https://news.ycombinator.com/item?id=49361279) - [PostgreSQL for Everything](https://www.raphaelbauer.com:443/posts/postgresql-everything/)
 * [2026-08-19, 12:19:52](https://news.ycombinator.com/item?id=49360545) - [Geolocating a random island using geometry and CUDA programming](https://yassa9.github.io/osint/gralhix-004/)

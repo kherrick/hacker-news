@@ -39,6 +39,7 @@
 * [2026-08-18, 16:27:41](https://news.ycombinator.com/item?id=49348152) - [Superpowers, Not Superintelligence](https://bond.now/news/superpowers-not-superintelligence)
 * [2026-08-18, 16:26:42](https://news.ycombinator.com/item?id=49348136) - [Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI](https://machine0.io)
 * [2026-08-18, 16:21:34](https://news.ycombinator.com/item?id=49348055) - [Apple announces changes for apps in the European Union](https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/)
+* [2026-08-18, 15:46:46](https://news.ycombinator.com/item?id=49347477) - [Microgpt in pure C hits 10M tps on Apple m5](https://github.com/vixhal-baraiya/microgpt-c)
 * [2026-08-18, 15:32:04](https://news.ycombinator.com/item?id=49347207) - [What Happens If OpenAI Dies?](https://www.wheresyoured.at/what-happens-if-openai-dies/)
 * [2026-08-18, 15:30:40](https://news.ycombinator.com/item?id=49347178) - [Show HN: Openleetcode – local LeetCode runner where tests live in the repo](https://github.com/therepanic/openleetcode)
 * [2026-08-18, 15:24:05](https://news.ycombinator.com/item?id=49347055) - [One Oakland police officer made $490k in overtime](https://oaklandside.org/2026/01/29/oakland-police-overtime/)
