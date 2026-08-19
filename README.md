@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-19, 10:22:52](https://news.ycombinator.com/item?id=49359495) - [Peter Thiel-Linked Race Science Network That Penetrated Cambridge University](https://bylinetimes.com/2026/08/18/the-peter-thiel-linked-race-science-network-that-penetrated-cambridge-university-and-targeted-jason-arday/)
+* [2026-08-19, 10:15:00](https://news.ycombinator.com/item?id=49359425) - [Air Theremin – a browser theremin you play by waving at your webcam](https://theremin.bizibah.com/)
 * [2026-08-19, 07:47:19](https://news.ycombinator.com/item?id=49358327) - [The Mojo language (by Modular, now Qualcomm) is now open-source](https://www.modular.com/blog/modcon-announcements)
 * [2026-08-19, 07:40:32](https://news.ycombinator.com/item?id=49358259) - [Where Human Sleep Went Wrong](https://nautil.us/where-human-sleep-went-wrong-1283797)
 * [2026-08-19, 06:09:16](https://news.ycombinator.com/item?id=49357501) - [λλ: A Programming Language for Silicon Photonics](https://dl.acm.org/doi/10.1145/3789240.3829151)
@@ -8,7 +10,6 @@
 * [2026-08-19, 01:58:33](https://news.ycombinator.com/item?id=49355607) - [Show HN: Automatically detect and patch walking-dead states in Sierra games](https://github.com/katiahayati/lucasartsifier/)
 * [2026-08-19, 01:58:28](https://news.ycombinator.com/item?id=49355606) - [OpenLogi](https://openlogi.org/en)
 * [2026-08-19, 01:36:40](https://news.ycombinator.com/item?id=49355451) - [The Vietnam Binh Chau (Chau Tan) Late Tang Wreck](https://www.koh-antique.com/client/tangwreck/tangwreck.html)
-* [2026-08-19, 01:06:03](https://news.ycombinator.com/item?id=49355232) - [Tiny satellite will use the dark side of the Moon as a shield](https://www.cam.ac.uk/research/news/tiny-satellite-will-use-the-dark-side-of-the-moon-to-eavesdrop-on-whispers-from-the-early-universe)
 * [2026-08-19, 00:48:23](https://news.ycombinator.com/item?id=49355105) - [Scientists stunned by children's lung recovery in ultra low emission zone](https://www.bbc.com/news/articles/c1l1r1zne1ro)
 * [2026-08-19, 00:28:18](https://news.ycombinator.com/item?id=49354949) - [Cerebras CS-4](https://www.cerebras.ai/cs4)
 * [2026-08-18, 23:57:36](https://news.ycombinator.com/item?id=49354664) - [Show HN: Interactive, animated architecture of any HuggingFace models](https://modelmap.cc)
@@ -18,7 +19,6 @@
 * [2026-08-18, 18:11:53](https://news.ycombinator.com/item?id=49349984) - [How does IKEA come up with names for its products?](https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html)
 * [2026-08-18, 18:07:21](https://news.ycombinator.com/item?id=49349898) - [Turbovec – Google's TurboQuant for vector search in Rust](https://github.com/RyanCodrai/turbovec)
 * [2026-08-18, 17:11:28](https://news.ycombinator.com/item?id=49348912) - [And then the men with guns tell you to do it anyway](https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/)
-* [2026-08-18, 16:21:34](https://news.ycombinator.com/item?id=49348055) - [Apple announces changes for apps in the European Union](https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/)
 * [2026-08-18, 13:22:38](https://news.ycombinator.com/item?id=49345263) - [The Amazon tax](https://seths.blog/2026/08/the-amazon-tax/)
 * [2026-08-18, 12:22:58](https://news.ycombinator.com/item?id=49344643) - [Claude writing a macOS driver for my obscure HP printer built only for Windows](https://twitter.com/kuberwastaken/status/2089377982536388964)
 * [2026-08-18, 07:21:35](https://news.ycombinator.com/item?id=49342472) - [Finger: the 1971 social network that never died](https://en.andros.dev/blog/54572bc7/finger-the-1971-social-network-that-never-died/)
