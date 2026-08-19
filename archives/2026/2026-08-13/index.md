@@ -54,6 +54,7 @@
 * [2026-08-13, 14:17:13](https://news.ycombinator.com/item?id=49286341) - [Spaghettifying DRAM](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
 * [2026-08-13, 14:13:41](https://news.ycombinator.com/item?id=49286291) - [CUDA Shared Memory Swizzling](https://leimao.github.io/blog/CUDA-Shared-Memory-Swizzling/)
 * [2026-08-13, 14:11:51](https://news.ycombinator.com/item?id=49286270) - [Heart Aerospace Completes First Flight of Largest Electric Aircraft](https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft)
+* [2026-08-13, 14:11:27](https://news.ycombinator.com/item?id=49286258) - [A decades-old bug in Knuth's long division (TAOCP Vol II, Algorithm 4.3.1D)](https://kolja.rs/algorithm-d/)
 * [2026-08-13, 14:08:44](https://news.ycombinator.com/item?id=49286211) - [Build a Stratum 1 PTP Grandmaster on a Budget](https://opscode.io/posts/ptp-grandmaster-cm4-sr1723u10/)
 * [2026-08-13, 13:57:47](https://news.ycombinator.com/item?id=49286073) - [Show HN: MCP Memory – Fast Agent Memory Using Google's OKF and SQLite FTS5](https://github.com/fellowgeek/mcp-memory)
 * [2026-08-13, 13:54:56](https://news.ycombinator.com/item?id=49286030) - [Time to Move On: Querying Without Nulls and Bags](https://arxiv.org/abs/2608.10863)

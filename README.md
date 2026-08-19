@@ -2,6 +2,7 @@
 
 * [2026-08-19, 12:19:52](https://news.ycombinator.com/item?id=49360545) - [Geolocating a random island using geometry and CUDA programming](https://yassa9.github.io/osint/gralhix-004/)
 * [2026-08-19, 11:46:58](https://news.ycombinator.com/item?id=49360242) - [GrapheneOS in 2027 available on high-end Motorola phones](https://grapheneos.social/@GrapheneOS/117078064184215730)
+* [2026-08-19, 11:21:50](https://news.ycombinator.com/item?id=49360015) - [A joke domain purchase turned in geopolitical warfare](https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/)
 * [2026-08-19, 10:15:00](https://news.ycombinator.com/item?id=49359425) - [Air Theremin – a browser theremin you play by waving at your webcam](https://theremin.bizibah.com/)
 * [2026-08-19, 07:47:19](https://news.ycombinator.com/item?id=49358327) - [The Mojo language (by Modular, now Qualcomm) is now open-source](https://www.modular.com/blog/modcon-announcements)
 * [2026-08-19, 06:09:16](https://news.ycombinator.com/item?id=49357501) - [λλ: A Programming Language for Silicon Photonics](https://dl.acm.org/doi/10.1145/3789240.3829151)
@@ -12,8 +13,8 @@
 * [2026-08-19, 01:36:40](https://news.ycombinator.com/item?id=49355451) - [The Vietnam Binh Chau (Chau Tan) Late Tang Wreck](https://www.koh-antique.com/client/tangwreck/tangwreck.html)
 * [2026-08-19, 00:48:23](https://news.ycombinator.com/item?id=49355105) - [Scientists stunned by children's lung recovery in ultra low emission zone](https://www.bbc.com/news/articles/c1l1r1zne1ro)
 * [2026-08-19, 00:28:18](https://news.ycombinator.com/item?id=49354949) - [Cerebras CS-4](https://www.cerebras.ai/cs4)
-* [2026-08-18, 23:57:36](https://news.ycombinator.com/item?id=49354664) - [Show HN: Interactive, animated architecture of any HuggingFace models](https://modelmap.cc)
 * [2026-08-18, 23:51:49](https://news.ycombinator.com/item?id=49354613) - [Solo – a .so loader for static Linux binaries](https://github.com/pg83/solo)
+* [2026-08-18, 22:08:07](https://news.ycombinator.com/item?id=49353432) - [AI usage patterns in software teams](https://linear.app/data)
 * [2026-08-18, 21:50:33](https://news.ycombinator.com/item?id=49353221) - [A 3D fruit fly on macOS desktop powered by the real FlyWire connectome](https://github.com/DenisSergeevitch/desktop-fly)
 * [2026-08-18, 18:11:53](https://news.ycombinator.com/item?id=49349984) - [How does IKEA come up with names for its products?](https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html)
 * [2026-08-18, 18:07:21](https://news.ycombinator.com/item?id=49349898) - [Turbovec – Google's TurboQuant for vector search in Rust](https://github.com/RyanCodrai/turbovec)
@@ -27,8 +28,7 @@
 * [2026-08-15, 00:18:08](https://news.ycombinator.com/item?id=49306207) - [Supersonic Trebuchet [video]](https://www.youtube.com/watch?v=Co57SfcT-h0)
 * [2026-08-14, 15:40:16](https://news.ycombinator.com/item?id=49300272) - [Activation Energy is a good model for a lot of things](https://homosabiens.substack.com/p/activation-energy-is-a-good-model)
 * [2026-08-14, 13:17:06](https://news.ycombinator.com/item?id=49298283) - [Rings forged from meteorites may have been fashionable among ancient Greek elite](https://phys.org/news/2026-08-forged-meteorites-fashionable-ancient-greek.html)
-* [2026-08-14, 05:37:51](https://news.ycombinator.com/item?id=49295071) - [Looking for Missed Alarm Bugs in a Formal Verification Tool](https://blog.regehr.org/archives/2124)
-* [2026-08-13, 14:13:41](https://news.ycombinator.com/item?id=49286291) - [CUDA Shared Memory Swizzling](https://leimao.github.io/blog/CUDA-Shared-Memory-Swizzling/)
+* [2026-08-13, 14:11:27](https://news.ycombinator.com/item?id=49286258) - [A decades-old bug in Knuth's long division (TAOCP Vol II, Algorithm 4.3.1D)](https://kolja.rs/algorithm-d/)
 * [2026-08-13, 09:18:42](https://news.ycombinator.com/item?id=49283455) - [Win-V combo from Windows on Ubuntu](https://leo98ml.github.io/win-v/)
 
 ## [Archives](archives/index.md)
