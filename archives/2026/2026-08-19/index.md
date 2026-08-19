@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-08-19](index.md)
 
+* [2026-08-19, 07:40:32](https://news.ycombinator.com/item?id=49358259) - [Where Human Sleep Went Wrong](https://nautil.us/where-human-sleep-went-wrong-1283797)
+* [2026-08-19, 07:35:59](https://news.ycombinator.com/item?id=49358220) - [\"Sabotage\": Experts, lawmakers blast RFK Jr. for destroying healthcare research](https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/)
+* [2026-08-19, 07:06:31](https://news.ycombinator.com/item?id=49357967) - [Berd](https://berd.xyz)
 * [2026-08-19, 06:55:36](https://news.ycombinator.com/item?id=49357881) - [Show HN: Privacy focused client side password generator](https://password-generator.aaqa.dev/)
+* [2026-08-19, 06:09:16](https://news.ycombinator.com/item?id=49357501) - [λλ: A Programming Language for Silicon Photonics](https://dl.acm.org/doi/10.1145/3789240.3829151)
 * [2026-08-19, 05:51:17](https://news.ycombinator.com/item?id=49357401) - [Bun 1.4 Rust rewrite is not looking good](https://tipiirai.com/writing/bun-rust-rewrite-worries)
 * [2026-08-19, 03:02:43](https://news.ycombinator.com/item?id=49356115) - [Japan's Gen X workers are struggling](https://www.economist.com/asia/2026/08/18/japans-gen-x-workers-are-struggling)
 * [2026-08-19, 02:41:50](https://news.ycombinator.com/item?id=49355968) - [Palomar: A registry of Lean verified mathematics](https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/)
