@@ -62,6 +62,7 @@
 * [2026-08-14, 14:09:32](https://news.ycombinator.com/item?id=49298932) - [Design 3D-printable parts by talking](https://nurb.dev/)
 * [2026-08-14, 14:07:52](https://news.ycombinator.com/item?id=49298910) - [In Australia, a Home Battery Boom Has Helped Cut Wholesale Power Prices in Half](https://e360.yale.edu/digest/australia-home-batteries)
 * [2026-08-14, 13:18:53](https://news.ycombinator.com/item?id=49298303) - [France's tax authority had data stolen on 680k taxpayers](https://korben.info/en/france-tax-authority-data-breach-680000-taxpayers.html)
+* [2026-08-14, 13:17:06](https://news.ycombinator.com/item?id=49298283) - [Rings forged from meteorites may have been fashionable among ancient Greek elite](https://phys.org/news/2026-08-forged-meteorites-fashionable-ancient-greek.html)
 * [2026-08-14, 13:10:12](https://news.ycombinator.com/item?id=49298211) - [Cursor is now a part of SpaceX](https://cursor.com/blog/joining-spacex)
 * [2026-08-14, 12:57:02](https://news.ycombinator.com/item?id=49298088) - [HashAgent – Share an AI agent as a URL, runs locally via WebGPU](https://hashagent.pages.dev/)
 * [2026-08-14, 12:50:56](https://news.ycombinator.com/item?id=49298035) - [RISC-V: They Should Have Known Better](https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV)
