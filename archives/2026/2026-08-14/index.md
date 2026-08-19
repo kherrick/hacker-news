@@ -11,6 +11,7 @@
 * [2026-08-14, 23:01:46](https://news.ycombinator.com/item?id=49305642) - [Claude Fable 5 Having Fun](https://github.com/robss2020/claude-fable-5-having-fun)
 * [2026-08-14, 22:48:15](https://news.ycombinator.com/item?id=49305558) - [Stop sending me huge PRs; a rant](https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va)
 * [2026-08-14, 22:38:34](https://news.ycombinator.com/item?id=49305492) - [RISC-V: They should have known better](https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV)
+* [2026-08-14, 22:30:14](https://news.ycombinator.com/item?id=49305415) - [IDE Nostalgia (2022)](https://davidsmaynard.com/blog/keyset)
 * [2026-08-14, 22:15:12](https://news.ycombinator.com/item?id=49305250) - [eigendrum](https://eigendrum.com/#p=circle)
 * [2026-08-14, 20:52:44](https://news.ycombinator.com/item?id=49304447) - [Everything is about to \"go dark\"](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/)
 * [2026-08-14, 20:46:04](https://news.ycombinator.com/item?id=49304368) - [Study links coffee consumption to metabolic health and sex hormones](https://www.oulu.fi/en/news/study-links-coffee-consumption-metabolic-health-and-sex-hormones)
