@@ -40,6 +40,7 @@
 * [2026-08-16, 13:30:27](https://news.ycombinator.com/item?id=49319892) - [Tasklet (YC P26) Is Hiring a Head of Design Engineering](https://tasklet.ai/careers/head-of-design-engineering)
 * [2026-08-16, 13:21:45](https://news.ycombinator.com/item?id=49319814) - [Show HN: A public AI whose memory is shared across all users](https://wildstatic.com/)
 * [2026-08-16, 13:14:18](https://news.ycombinator.com/item?id=49319759) - [Our Reality Is Shifting and It's Just the Start](https://guustaaf.substack.com/p/our-reality-is-shifting-and-its-just)
+* [2026-08-16, 13:12:34](https://news.ycombinator.com/item?id=49319745) - [A recipe for drone racing with reinforcement learning](https://mrandri19.github.io/2026/07/19/drone-racing-with-reinforcement-learning.html)
 * [2026-08-16, 13:12:04](https://news.ycombinator.com/item?id=49319740) - [How a Sony Veteran Is Overhauling the Company He Grew Up In](https://www.wsj.com/business/media/sony-ceo-hiroki-totoki-efc8923f)
 * [2026-08-16, 13:09:41](https://news.ycombinator.com/item?id=49319727) - [A U.S. Strategy to Prevent the Creation of Mirror Life](https://www.rand.org/pubs/research_reports/RRA4335-1.html)
 * [2026-08-16, 13:07:34](https://news.ycombinator.com/item?id=49319712) - [I built my own root DNS so I could stop renting names](https://anthony.dev.profullstack.com/blog/013-post.html)
