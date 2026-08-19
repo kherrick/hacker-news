@@ -19,6 +19,7 @@
 * [2026-08-18, 18:11:53](https://news.ycombinator.com/item?id=49349984) - [How does IKEA come up with names for its products?](https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html)
 * [2026-08-18, 18:07:21](https://news.ycombinator.com/item?id=49349898) - [Turbovec – Google's TurboQuant for vector search in Rust](https://github.com/RyanCodrai/turbovec)
 * [2026-08-18, 17:11:28](https://news.ycombinator.com/item?id=49348912) - [And then the men with guns tell you to do it anyway](https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/)
+* [2026-08-18, 16:21:34](https://news.ycombinator.com/item?id=49348055) - [Apple announces changes for apps in the European Union](https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/)
 * [2026-08-18, 13:22:38](https://news.ycombinator.com/item?id=49345263) - [The Amazon tax](https://seths.blog/2026/08/the-amazon-tax/)
 * [2026-08-18, 12:22:58](https://news.ycombinator.com/item?id=49344643) - [Claude writing a macOS driver for my obscure HP printer built only for Windows](https://twitter.com/kuberwastaken/status/2089377982536388964)
 * [2026-08-18, 07:21:35](https://news.ycombinator.com/item?id=49342472) - [Finger: the 1971 social network that never died](https://en.andros.dev/blog/54572bc7/finger-the-1971-social-network-that-never-died/)
@@ -28,7 +29,6 @@
 * [2026-08-16, 16:08:57](https://news.ycombinator.com/item?id=49321298) - [Being ambitious and being a dad](https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/)
 * [2026-08-15, 16:17:57](https://news.ycombinator.com/item?id=49311814) - [A 25-year-old video patent just expired, ending a legal headache for Linux](https://www.xda-developers.com/25-year-old-brazilian-video-patent-expired-legal-headache-linux/)
 * [2026-08-15, 00:18:08](https://news.ycombinator.com/item?id=49306207) - [Supersonic Trebuchet [video]](https://www.youtube.com/watch?v=Co57SfcT-h0)
-* [2026-08-14, 06:36:10](https://news.ycombinator.com/item?id=49295369) - [How a giant battery is transforming a town centre in Cannington, Ontario](https://betakit.com/how-a-giant-battery-is-transforming-a-town-centre-in-cannington-ontario/)
 * [2026-08-13, 14:13:41](https://news.ycombinator.com/item?id=49286291) - [CUDA Shared Memory Swizzling](https://leimao.github.io/blog/CUDA-Shared-Memory-Swizzling/)
 
 ## [Archives](archives/index.md)
