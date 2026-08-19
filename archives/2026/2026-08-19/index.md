@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-19](index.md)
 
+* [2026-08-19, 05:51:17](https://news.ycombinator.com/item?id=49357401) - [Bun 1.4 Rust rewrite is not looking good](https://tipiirai.com/writing/bun-rust-rewrite-worries)
 * [2026-08-19, 02:41:50](https://news.ycombinator.com/item?id=49355968) - [Palomar: A registry of Lean verified mathematics](https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/)
 * [2026-08-19, 02:24:34](https://news.ycombinator.com/item?id=49355825) - [Meta's blockbuster trial draws parallels to big tobacco](https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco)
 * [2026-08-19, 01:58:33](https://news.ycombinator.com/item?id=49355607) - [Show HN: Automatically detect and patch walking-dead states in Sierra games](https://github.com/katiahayati/lucasartsifier/)

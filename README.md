@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-19, 05:51:17](https://news.ycombinator.com/item?id=49357401) - [Bun 1.4 Rust rewrite is not looking good](https://tipiirai.com/writing/bun-rust-rewrite-worries)
 * [2026-08-19, 02:41:50](https://news.ycombinator.com/item?id=49355968) - [Palomar: A registry of Lean verified mathematics](https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/)
 * [2026-08-19, 02:24:34](https://news.ycombinator.com/item?id=49355825) - [Meta's blockbuster trial draws parallels to big tobacco](https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco)
 * [2026-08-19, 01:58:33](https://news.ycombinator.com/item?id=49355607) - [Show HN: Automatically detect and patch walking-dead states in Sierra games](https://github.com/katiahayati/lucasartsifier/)
@@ -19,7 +20,6 @@
 * [2026-08-18, 18:11:53](https://news.ycombinator.com/item?id=49349984) - [How does IKEA come up with names for its products?](https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html)
 * [2026-08-18, 18:07:21](https://news.ycombinator.com/item?id=49349898) - [Turbovec – Google's TurboQuant for vector search in Rust](https://github.com/RyanCodrai/turbovec)
 * [2026-08-18, 17:11:28](https://news.ycombinator.com/item?id=49348912) - [And then the men with guns tell you to do it anyway](https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/)
-* [2026-08-18, 16:21:34](https://news.ycombinator.com/item?id=49348055) - [Apple announces changes for apps in the European Union](https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/)
 * [2026-08-18, 13:22:38](https://news.ycombinator.com/item?id=49345263) - [The Amazon tax](https://seths.blog/2026/08/the-amazon-tax/)
 * [2026-08-18, 12:22:58](https://news.ycombinator.com/item?id=49344643) - [Claude writing a macOS driver for my obscure HP printer built only for Windows](https://twitter.com/kuberwastaken/status/2089377982536388964)
 * [2026-08-18, 07:21:35](https://news.ycombinator.com/item?id=49342472) - [Finger: the 1971 social network that never died](https://en.andros.dev/blog/54572bc7/finger-the-1971-social-network-that-never-died/)
