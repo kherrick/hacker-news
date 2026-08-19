@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-08-19, 20:22:26](https://news.ycombinator.com/item?id=49366704) - [Copper Shortage Threatens the Green Transition](https://www.economyprism.com/2026/04/copper-shortage-threatens-green.html)
-* [2026-08-19, 19:43:48](https://news.ycombinator.com/item?id=49366264) - [Pixel 11 Pro Fold feels like the end of an era](https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review)
+* [2026-08-19, 20:28:43](https://news.ycombinator.com/item?id=49366792) - [DFlash 2: Keep Drafting Parallel](https://inco.ai/blog/dflash2/)
+* [2026-08-19, 20:13:47](https://news.ycombinator.com/item?id=49366597) - [Pressed Penny Machine Map](https://pennypresses.net/home/map.php)
 * [2026-08-19, 19:31:02](https://news.ycombinator.com/item?id=49366115) - [From Quantum Relative Entropy to the Semiclassical Einstein Equations](https://arxiv.org/abs/2510.24491)
 * [2026-08-19, 19:26:18](https://news.ycombinator.com/item?id=49366067) - [Ramp Launches a Model Router](https://router.com)
 * [2026-08-19, 19:06:16](https://news.ycombinator.com/item?id=49365841) - [Unlocking a locked/deactivated e-waste Cricut Maker](https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/)
@@ -14,7 +14,7 @@
 * [2026-08-19, 16:29:02](https://news.ycombinator.com/item?id=49363710) - [Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams](https://github.com/onecli/onecli)
 * [2026-08-19, 16:26:05](https://news.ycombinator.com/item?id=49363668) - [Extensible Software in the age of LLMs](https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/)
 * [2026-08-19, 16:25:37](https://news.ycombinator.com/item?id=49363665) - [How Kubernetes Probes Work](https://ngrok.com/blog/probes)
-* [2026-08-19, 16:18:57](https://news.ycombinator.com/item?id=49363587) - [Chain-of-Thought Reasoning in the Wild Is Not Always Faithful](https://arxiv.org/abs/2503.08679)
+* [2026-08-19, 16:18:57](https://news.ycombinator.com/item?id=49363587) - [Chain-of-Thought Reasoning in the Wild Is Not Always Faithful (2025)](https://arxiv.org/abs/2503.08679)
 * [2026-08-19, 15:32:08](https://news.ycombinator.com/item?id=49362934) - [Remote workers report the highest well-being in study of 7,700 employees](https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees)
 * [2026-08-19, 15:28:01](https://news.ycombinator.com/item?id=49362887) - [Casio F-B100W-1A](https://www.casio.com/uk/watches/casio/product.F-B100W-1A/)
 * [2026-08-19, 15:14:25](https://news.ycombinator.com/item?id=49362728) - [Mathematics in the age of AI](https://arxiv.org/abs/2608.16753)
@@ -28,8 +28,8 @@
 * [2026-08-18, 22:00:21](https://news.ycombinator.com/item?id=49353339) - [fx :Tiny, open, native coding agent.](https://fx.sh)
 * [2026-08-18, 18:14:59](https://news.ycombinator.com/item?id=49350031) - [Pacing model development in an era of cyber-critical capabilities](https://openai.com/index/pacing-model-development-cyber-capabilities/)
 * [2026-08-18, 15:46:46](https://news.ycombinator.com/item?id=49347477) - [Microgpt in pure C hits 10M tps on Apple m5](https://github.com/vixhal-baraiya/microgpt-c)
+* [2026-08-16, 07:12:59](https://news.ycombinator.com/item?id=49317632) - [A portable, sensitive, low power, analog Geiger counter](https://ludens.cl/Electron/geiger2/geiger2.html)
 * [2026-08-15, 20:37:18](https://news.ycombinator.com/item?id=49314109) - [The little-known winstart.bat batch file](https://devblogs.microsoft.com/oldnewthing/20260811-00/?p=112605)
-* [2026-08-14, 17:45:03](https://news.ycombinator.com/item?id=49302127) - [Turning molecules into reliable electronic devices](https://news.mit.edu/2026/turning-molecules-into-reliable-electronic-devices-0803)
 
 ## [Archives](archives/index.md)
 

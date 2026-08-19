@@ -61,6 +61,7 @@
 * [2026-08-16, 09:12:49](https://news.ycombinator.com/item?id=49318311) - [The Two Factions of C++](https://herecomesthemoon.net/2024/11/two-factions-of-cpp/)
 * [2026-08-16, 08:40:50](https://news.ycombinator.com/item?id=49318128) - [Show HN: Grafana agent observability for Hermes Agent](https://github.com/alexander-akhmetov/grafana-agento11y-hermes)
 * [2026-08-16, 07:37:53](https://news.ycombinator.com/item?id=49317760) - [What happens when an LLM never sees material beyond fifth grade?](https://littlelearner-ll.github.io/)
+* [2026-08-16, 07:12:59](https://news.ycombinator.com/item?id=49317632) - [A portable, sensitive, low power, analog Geiger counter](https://ludens.cl/Electron/geiger2/geiger2.html)
 * [2026-08-16, 06:55:04](https://news.ycombinator.com/item?id=49317546) - [Show HN: Laptop is the last place your secrets are still in plaintext](https://github.com/jitpass/jit)
 * [2026-08-16, 05:56:14](https://news.ycombinator.com/item?id=49317279) - [Health benefits of Tai Chi](https://www.health.harvard.edu/exercise-and-fitness/the-health-benefits-of-tai-chi)
 * [2026-08-16, 05:45:32](https://news.ycombinator.com/item?id=49317234) - [The Iran War Is a Whole New Level of Quagmire for the US](https://www.politico.com/news/magazine/2026/08/12/the-us-forgot-the-lessons-of-iraq-now-its-desperate-for-ideas-on-iran-01033217)
