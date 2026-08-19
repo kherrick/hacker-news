@@ -6,6 +6,7 @@
 
 * [2026-08-18, 23:57:36](https://news.ycombinator.com/item?id=49354664) - [Show HN: Interactive, animated architecture of any HuggingFace models](https://modelmap.cc)
 * [2026-08-18, 23:51:49](https://news.ycombinator.com/item?id=49354613) - [Solo – a .so loader for static Linux binaries](https://github.com/pg83/solo)
+* [2026-08-18, 22:43:06](https://news.ycombinator.com/item?id=49353854) - [The 90-year history of the binoculars bolted to scenic overlooks](https://www.dpreview.com/news/the-90-year-history-of-the-binoculars-bolted-to-scenic-overlooks/)
 * [2026-08-18, 22:33:50](https://news.ycombinator.com/item?id=49353753) - [The Microsoft Rebrand Registry](https://www.msrebrandregistry.com/analysis.html)
 * [2026-08-18, 22:22:41](https://news.ycombinator.com/item?id=49353618) - [Programmable Property-Based Testing](https://dl.acm.org/doi/10.1145/3828685)
 * [2026-08-18, 22:21:30](https://news.ycombinator.com/item?id=49353603) - [Who owns the code? AI code == no author == no copyright](https://whoownsthecode.com/)
