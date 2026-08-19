@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-19](index.md)
 
+* [2026-08-19, 07:47:19](https://news.ycombinator.com/item?id=49358327) - [The Mojo language (by Modular, now Qualcomm) is now open-source](https://www.modular.com/blog/modcon-announcements)
 * [2026-08-19, 07:40:32](https://news.ycombinator.com/item?id=49358259) - [Where Human Sleep Went Wrong](https://nautil.us/where-human-sleep-went-wrong-1283797)
 * [2026-08-19, 07:35:59](https://news.ycombinator.com/item?id=49358220) - [\"Sabotage\": Experts, lawmakers blast RFK Jr. for destroying healthcare research](https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/)
 * [2026-08-19, 07:06:31](https://news.ycombinator.com/item?id=49357967) - [Berd](https://berd.xyz)
