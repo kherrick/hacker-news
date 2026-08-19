@@ -129,6 +129,233 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="49363710">
+          <h3>
+            <a class="item" href="https://github.com/onecli/onecli"
+              >Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for
+              teams</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-08-19 @ 16:29:02</span
+              ><span class="points-container"
+                >Points: <span class="points">14</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49363710"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>Here’s what you can do with it:</p>
+              <p>
+                1. get a sandboxed agent, with all the OneCLI capabilities in
+                place like connect your GitHub account, Gmail, Notion, or
+                Dropbox simply from the chat.
+              </p>
+              <p>
+                2. deterministic human in the loop approval in the chat itself
+                for things that you need 100% control like sending an email or
+                deleting the Linear ticket.
+              </p>
+              <p>
+                3. manage team policy in one place, enforced across every agent
+                in the workspace
+              </p>
+              <p>
+                4. enjoy global connections at the team level, like shared LLM
+                keys or service accounts
+              </p>
+              <p>
+                Here’s a demo:
+                <a href="https://www.youtube.com/watch?v=dlW-44ntpbE"
+                  >https://www.youtube.com/watch?v=dlW-44ntpbE</a
+                >
+              </p>
+              <p>
+                We started working on this by accident, even though our careers
+                were in the security space. We were working on a devtool called
+                ChartDB, an open-source DB tool. When OpenClaw took off back in
+                January, we started using it to orchestrate agents on top of
+                ChartDB. We quickly understood there is a big issue around auth.
+                Agents need credentials to do real work, but to give them those
+                secrets would not be the best idea. They keep them in their
+                memory and also write them down to local files and their
+                sessions as plain text. And we knew that agents can easily be
+                fooled into giving up those API keys/secrets. So we needed some
+                way to control the agent and stop prompt injections from
+                tricking it into using its services for an attacker's benefit.
+              </p>
+              <p>
+                We created OneCLI that started as a vault for AI Agents built in
+                Rust.
+              </p>
+              <p>
+                We found out that most of our demand for OneCLI came from
+                autonomous agents like Hermes, OpenClaw and NanoClaw for
+                individuals and teams.
+              </p>
+              <p>
+                Users looked for useful agents that do things for the person who
+                runs them with two missing parts: 1) managing secrets and
+                permissions. 2) and for teams - multiplayer management.
+              </p>
+              <p>
+                We decided to pivot and provide the agent itself as a harness
+                for teams, to give each employee an agent. We saw that teams had
+                to deal with setting up their own harness again and again, and
+                basically as we already had the vault as a gateway. We got the
+                idea to provide the missing piece of the agent management out of
+                the box and open source it (Apache-2.0, with a small enterprise
+                exception).
+              </p>
+              <p>
+                We're open source first - the entire platform, not just a small
+                portion of it like other agents, so companies can actually see
+                the code, evaluate it, and trust it instead of taking our word
+                for it. They run it isolated, in their own environment, fully
+                under their control, at production quality, not a locked black
+                box hosted somewhere else. That means the safety isn't just a
+                promise, it's something they can verify themselves. Combined
+                with real autonomy and least-privilege access, that's what makes
+                it something a company can fully own and trust, not just adopt.
+              </p>
+              <p>
+                We also approach this from a company perspective rather than an
+                individual one. Our solution manages agents on behalf of each
+                employee, wrapped in deterministic guardrails that company
+                admins configure through centralized policies.
+              </p>
+              <p>
+                For the agent engine itself we’re using jcode which is the core
+                of the agent-loop. We found out that it improves the experience
+                and makes the agent smarter and faster.
+              </p>
+              <p>Here’s how it works:</p>
+              <p>
+                It runs on infra you control. Fully open-source, self-host or
+                cloud in minutes.
+              </p>
+              <p>
+                The agent never holds a real secret. It gets a placeholder. The
+                real credential is injected at the gateway, per request, after
+                the call is authorized. It never enters the agent's context,
+                memory, or logs.
+              </p>
+              <p>
+                Enforcement outside the model. Prompts are suggestions. Policies
+                defined by the org admin run at the network layer, outside the
+                agent and the LLM. Block endpoints, rate limit per agent,
+                require approval, scope per employee. The gateway decides. The
+                agent can't bypass it.
+              </p>
+              <p>
+                Isolated VM per agent. Own memory, own keys, own permissions.
+                Blast radius is one agent.
+              </p>
+              <p>Speed of the Harness: Rust engine under the agent loop.</p>
+              <p>
+                Full identity trail. Every agent is bound to an employee. Every
+                call logged with who it acted for and which policy allowed it.
+              </p>
+              <p>Some things people are doing with the platform include:</p>
+              <p>
+                - Managing their company life cycle entirely from the sales
+                calls, to the product side automatically open tickets to the
+                engineering teams, that would kick the development agents to
+                deliver and ship to production.
+              </p>
+              <p>
+                - Operational side, like automatically hygiene the CRM after
+                calls, sourcing leads, book meetings and manage follow ups
+                emails.
+              </p>
+              <p>
+                - Some of our customers also doing their entire grocery shopping
+                using those agents and send them to take care of their chores
+                like ordering things online.
+              </p>
+              <p>
+                About the team: Both founders come from cybersecurity
+                backgrounds. Jonathan spent years at Axis Security building zero
+                trust network access. The core idea is that you never trust the
+                client. You decide exactly what a person can reach, and you
+                enforce it outside of them, at the network layer, so it doesn't
+                matter what the client tries to do. That's how every serious
+                company gives access to humans today. Guy was the 1st employee
+                in Argon security doing AppSec.
+              </p>
+              <p>
+                We would love to hear your thoughts on the move, happy to get
+                issues open to improve and get your agent to be powerful and
+                secure - designed for teams, not just individuals.
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="49363668">
+          <h3>
+            <a
+              class="item"
+              href="https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/"
+              >Extensible Software in the Age of LLMs</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-08-19 @ 16:26:05</span
+              ><span class="points-container"
+                >Points: <span class="points">11</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49363668"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49363587">
+          <h3>
+            <a class="item" href="https://arxiv.org/abs/2503.08679"
+              >Chain-of-Thought Reasoning in the Wild Is Not Always Faithful</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-08-19 @ 16:18:57</span
+              ><span class="points-container"
+                >Points: <span class="points">12</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49363587"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49363433">
+          <h3>
+            <a
+              class="item"
+              href="https://shkspr.mobi/blog/2013/11/civic-hygiene/"
+              >Civic Hygiene – avoid building technologies that could be used by
+              a police state (2013)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-08-19 @ 16:07:14</span
+              ><span class="points-container"
+                >Points: <span class="points">201</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49363433"
+                  >Comments</a
+                ><span class="descendants">: 124</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="49362934">
           <h3>
             <a
@@ -142,11 +369,11 @@
             <h4>
               <span>2026-08-19 @ 15:32:08</span
               ><span class="points-container"
-                >Points: <span class="points">81</span></span
+                >Points: <span class="points">121</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49362934"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 49</span></span
               >
             </h4>
           </section>
@@ -163,11 +390,30 @@
             <h4>
               <span>2026-08-19 @ 15:28:01</span
               ><span class="points-container"
-                >Points: <span class="points">79</span></span
+                >Points: <span class="points">100</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49362887"
                   >Comments</a
-                ><span class="descendants">: 66</span></span
+                ><span class="descendants">: 83</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49362728">
+          <h3>
+            <a class="item" href="https://arxiv.org/abs/2608.16753"
+              >Mathematics in the Age of AI</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-08-19 @ 15:14:25</span
+              ><span class="points-container"
+                >Points: <span class="points">13</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49362728"
+                  >Comments</a
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -182,11 +428,11 @@
             <h4>
               <span>2026-08-19 @ 14:48:39</span
               ><span class="points-container"
-                >Points: <span class="points">26</span></span
+                >Points: <span class="points">48</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49362401"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -204,11 +450,11 @@
             <h4>
               <span>2026-08-19 @ 13:33:35</span
               ><span class="points-container"
-                >Points: <span class="points">280</span></span
+                >Points: <span class="points">302</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49361395"
                   >Comments</a
-                ><span class="descendants">: 113</span></span
+                ><span class="descendants">: 117</span></span
               >
             </h4>
           </section>
@@ -225,11 +471,11 @@
             <h4>
               <span>2026-08-19 @ 13:21:21</span
               ><span class="points-container"
-                >Points: <span class="points">159</span></span
+                >Points: <span class="points">166</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49361279"
                   >Comments</a
-                ><span class="descendants">: 110</span></span
+                ><span class="descendants">: 117</span></span
               >
             </h4>
           </section>
@@ -245,11 +491,11 @@
             <h4>
               <span>2026-08-19 @ 12:19:52</span
               ><span class="points-container"
-                >Points: <span class="points">235</span></span
+                >Points: <span class="points">254</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49360545"
                   >Comments</a
-                ><span class="descendants">: 48</span></span
+                ><span class="descendants">: 49</span></span
               >
             </h4>
           </section>
@@ -259,18 +505,18 @@
             <a
               class="item"
               href="https://grapheneos.social/@GrapheneOS/117078064184215730"
-              >GrapheneOS in 2027 available on high-end Motorola phones</a
+              >Devices with GrapheneOS support should be available in 2027</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-08-19 @ 11:46:58</span
               ><span class="points-container"
-                >Points: <span class="points">449</span></span
+                >Points: <span class="points">466</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49360242"
                   >Comments</a
-                ><span class="descendants">: 266</span></span
+                ><span class="descendants">: 276</span></span
               >
             </h4>
           </section>
@@ -287,11 +533,11 @@
             <h4>
               <span>2026-08-19 @ 11:21:50</span
               ><span class="points-container"
-                >Points: <span class="points">315</span></span
+                >Points: <span class="points">351</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49360015"
                   >Comments</a
-                ><span class="descendants">: 41</span></span
+                ><span class="descendants">: 46</span></span
               >
             </h4>
           </section>
@@ -307,33 +553,11 @@
             <h4>
               <span>2026-08-19 @ 10:15:00</span
               ><span class="points-container"
-                >Points: <span class="points">165</span></span
+                >Points: <span class="points">174</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49359425"
                   >Comments</a
-                ><span class="descendants">: 65</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49358327">
-          <h3>
-            <a
-              class="item"
-              href="https://www.modular.com/blog/modcon-announcements"
-              >The Mojo language (by Modular, now Qualcomm) is now
-              open-source</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-08-19 @ 07:47:19</span
-              ><span class="points-container"
-                >Points: <span class="points">191</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49358327"
-                  >Comments</a
-                ><span class="descendants">: 93</span></span
+                ><span class="descendants">: 68</span></span
               >
             </h4>
           </section>
@@ -350,11 +574,11 @@
             <h4>
               <span>2026-08-19 @ 06:09:16</span
               ><span class="points-container"
-                >Points: <span class="points">74</span></span
+                >Points: <span class="points">77</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49357501"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -371,7 +595,7 @@
             <h4>
               <span>2026-08-19 @ 02:41:50</span
               ><span class="points-container"
-                >Points: <span class="points">155</span></span
+                >Points: <span class="points">157</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49355968"
                   >Comments</a
@@ -386,11 +610,11 @@
             <h4>
               <span>2026-08-19 @ 01:58:28</span
               ><span class="points-container"
-                >Points: <span class="points">1305</span></span
+                >Points: <span class="points">1324</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49355606"
                   >Comments</a
-                ><span class="descendants">: 359</span></span
+                ><span class="descendants">: 363</span></span
               >
             </h4>
           </section>
@@ -403,30 +627,11 @@
             <h4>
               <span>2026-08-19 @ 00:28:18</span
               ><span class="points-container"
-                >Points: <span class="points">407</span></span
+                >Points: <span class="points">411</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49354949"
                   >Comments</a
-                ><span class="descendants">: 247</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49354613">
-          <h3>
-            <a class="item" href="https://github.com/pg83/solo"
-              >Solo – a .so loader for static Linux binaries</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-08-18 @ 23:51:49</span
-              ><span class="points-container"
-                >Points: <span class="points">186</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49354613"
-                  >Comments</a
-                ><span class="descendants">: 205</span></span
+                ><span class="descendants">: 248</span></span
               >
             </h4>
           </section>
@@ -444,11 +649,11 @@
             <h4>
               <span>2026-08-18 @ 21:50:33</span
               ><span class="points-container"
-                >Points: <span class="points">355</span></span
+                >Points: <span class="points">359</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49353221"
                   >Comments</a
-                ><span class="descendants">: 163</span></span
+                ><span class="descendants">: 165</span></span
               >
             </h4>
           </section>
@@ -465,30 +670,11 @@
             <h4>
               <span>2026-08-18 @ 18:11:53</span
               ><span class="points-container"
-                >Points: <span class="points">427</span></span
+                >Points: <span class="points">431</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49349984"
                   >Comments</a
-                ><span class="descendants">: 304</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49349898">
-          <h3>
-            <a class="item" href="https://github.com/RyanCodrai/turbovec"
-              >Turbovec – Google's TurboQuant for vector search in Rust</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-08-18 @ 18:07:21</span
-              ><span class="points-container"
-                >Points: <span class="points">282</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49349898"
-                  >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 306</span></span
               >
             </h4>
           </section>
@@ -503,65 +689,13 @@
             <h4>
               <span>2026-08-18 @ 15:46:46</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">51</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49347477"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="49345263">
-          <h3>
-            <a class="item" href="https://seths.blog/2026/08/the-amazon-tax/"
-              >The Amazon tax</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-08-18 @ 13:22:38</span
-              ><span class="points-container"
-                >Points: <span class="points">1314</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49345263"
-                  >Comments</a
-                ><span class="descendants">: 663</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="49344643">
-          <h3>
-            <a
-              class="item"
-              href="https://twitter.com/kuberwastaken/status/2089377982536388964"
-              >Claude writing a macOS driver for my obscure HP printer built
-              only for Windows</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-08-18 @ 12:22:58</span
-              ><span class="points-container"
-                >Points: <span class="points">288</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49344643"
-                  >Comments</a
-                ><span class="descendants">: 207</span></span
-              >
-            </h4>
-            <div class="text">
-              <a
-                href="https://xcancel.com/kuberwastaken/status/2089377982536388964"
-                >https://xcancel.com/kuberwastaken/status/2089377982536388964</a
-              >
-              <p>
-                <a href="https://cdn.kuber.studio/chat/hp-laser-1008a-driver"
-                  >https://cdn.kuber.studio/chat/hp-laser-1008a-driver</a
-                >
-              </p>
-            </div>
           </section>
         </section>
         <section id="49342472">
@@ -576,11 +710,11 @@
             <h4>
               <span>2026-08-18 @ 07:21:35</span
               ><span class="points-container"
-                >Points: <span class="points">296</span></span
+                >Points: <span class="points">301</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49342472"
                   >Comments</a
-                ><span class="descendants">: 99</span></span
+                ><span class="descendants">: 103</span></span
               >
             </h4>
           </section>
@@ -597,33 +731,32 @@
             <h4>
               <span>2026-08-16 @ 16:08:57</span
               ><span class="points-container"
-                >Points: <span class="points">789</span></span
+                >Points: <span class="points">803</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49321298"
                   >Comments</a
-                ><span class="descendants">: 599</span></span
+                ><span class="descendants">: 612</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="49311814">
+        <section id="49319745">
           <h3>
             <a
               class="item"
-              href="https://www.xda-developers.com/25-year-old-brazilian-video-patent-expired-legal-headache-linux/"
-              >A 25-year-old video patent just expired, ending a legal headache
-              for Linux</a
+              href="https://mrandri19.github.io/2026/07/19/drone-racing-with-reinforcement-learning.html"
+              >A recipe for drone racing with reinforcement learning</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-08-15 @ 16:17:57</span
+              <span>2026-08-16 @ 13:12:34</span
               ><span class="points-container"
-                >Points: <span class="points">289</span></span
+                >Points: <span class="points">7</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49311814"
+                ><a href="https://news.ycombinator.com/item?id=49319745"
                   >Comments</a
-                ><span class="descendants">: 145</span></span
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -638,7 +771,7 @@
             <h4>
               <span>2026-08-15 @ 00:50:57</span
               ><span class="points-container"
-                >Points: <span class="points">25</span></span
+                >Points: <span class="points">26</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49306415"
                   >Comments</a
@@ -657,7 +790,7 @@
             <h4>
               <span>2026-08-15 @ 00:18:08</span
               ><span class="points-container"
-                >Points: <span class="points">209</span></span
+                >Points: <span class="points">212</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49306207"
                   >Comments</a
@@ -678,11 +811,11 @@
             <h4>
               <span>2026-08-14 @ 15:40:16</span
               ><span class="points-container"
-                >Points: <span class="points">117</span></span
+                >Points: <span class="points">123</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49300272"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 33</span></span
               >
             </h4>
           </section>
@@ -700,11 +833,11 @@
             <h4>
               <span>2026-08-14 @ 13:17:06</span
               ><span class="points-container"
-                >Points: <span class="points">86</span></span
+                >Points: <span class="points">88</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49298283"
                   >Comments</a
-                ><span class="descendants">: 35</span></span
+                ><span class="descendants">: 36</span></span
               >
             </h4>
           </section>
@@ -720,11 +853,11 @@
             <h4>
               <span>2026-08-13 @ 14:56:15</span
               ><span class="points-container"
-                >Points: <span class="points">59</span></span
+                >Points: <span class="points">61</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49286987"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 26</span></span
               >
             </h4>
           </section>
@@ -740,7 +873,7 @@
             <h4>
               <span>2026-08-13 @ 14:11:27</span
               ><span class="points-container"
-                >Points: <span class="points">104</span></span
+                >Points: <span class="points">113</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49286258"
                   >Comments</a
