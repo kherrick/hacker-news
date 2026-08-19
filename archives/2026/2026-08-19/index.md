@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-08-19](index.md)
 
+* [2026-08-19, 18:33:49](https://news.ycombinator.com/item?id=49365405) - [Go 1.27 Is Released](https://go.dev/blog/go1.27)
+* [2026-08-19, 18:32:20](https://news.ycombinator.com/item?id=49365383) - [The A.I. In Google's New Pixel 11 Is Not Helpful](https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html)
 * [2026-08-19, 18:28:48](https://news.ycombinator.com/item?id=49365326) - [Introducing MicroLighter](https://daverupert.com/2026/08/microlighter/)
+* [2026-08-19, 17:45:41](https://news.ycombinator.com/item?id=49364721) - [A revisit of remote Spectre attacks on Cloudflare Workers](https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/)
 * [2026-08-19, 17:38:33](https://news.ycombinator.com/item?id=49364633) - [People Are Cutting Down Flock Cameras En Masse](https://margaretkilljoy.substack.com/p/people-really-are-cutting-down-flock)
 * [2026-08-19, 17:32:38](https://news.ycombinator.com/item?id=49364559) - [OpenRouter Is Joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/)
 * [2026-08-19, 17:07:35](https://news.ycombinator.com/item?id=49364223) - [Show HN: Frugal Tokens – explore costs and usage across coding agents](https://demo.frugaltokens.com/)
