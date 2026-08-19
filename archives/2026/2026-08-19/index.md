@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-19](index.md)
 
+* [2026-08-19, 13:33:35](https://news.ycombinator.com/item?id=49361395) - [Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma](https://twitter.com/NoubarAfeyan/status/2090050162441752787)
+* [2026-08-19, 13:21:21](https://news.ycombinator.com/item?id=49361279) - [PostgreSQL for Everything](https://www.raphaelbauer.com:443/posts/postgresql-everything/)
 * [2026-08-19, 12:19:52](https://news.ycombinator.com/item?id=49360545) - [Geolocating a random island using geometry and CUDA programming](https://yassa9.github.io/osint/gralhix-004/)
 * [2026-08-19, 11:46:58](https://news.ycombinator.com/item?id=49360242) - [GrapheneOS in 2027 available on high-end Motorola phones](https://grapheneos.social/@GrapheneOS/117078064184215730)
 * [2026-08-19, 11:21:50](https://news.ycombinator.com/item?id=49360015) - [A joke domain purchase turned in geopolitical warfare](https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/)
