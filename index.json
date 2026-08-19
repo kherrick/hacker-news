@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-08-18, 23:57:36",
+      "https://news.ycombinator.com/item?id=49354664"
+    ],
+    [
+      "Show HN: Interactive, animated architecture of any HuggingFace models",
+      "https://modelmap.cc"
+    ]
+  ],
+  [
+    [
+      "2026-08-18, 23:51:49",
+      "https://news.ycombinator.com/item?id=49354613"
+    ],
+    [
+      "Solo – a .so loader for static Linux binaries",
+      "https://github.com/pg83/solo"
+    ]
+  ],
+  [
+    [
       "2026-08-18, 22:22:41",
       "https://news.ycombinator.com/item?id=49353618"
     ],
@@ -27,16 +47,6 @@
     [
       "GLM-5.3 Artificial Analysis Benchmarks",
       "https://artificialanalysis.ai/models/glm-5-3"
-    ]
-  ],
-  [
-    [
-      "2026-08-18, 22:00:21",
-      "https://news.ycombinator.com/item?id=49353339"
-    ],
-    [
-      "fx :Tiny, open, native coding agent.",
-      "https://fx.sh"
     ]
   ],
   [
@@ -107,16 +117,6 @@
     [
       "Turbovec – Google's TurboQuant for vector search in Rust",
       "https://github.com/RyanCodrai/turbovec"
-    ]
-  ],
-  [
-    [
-      "2026-08-18, 17:24:53",
-      "https://news.ycombinator.com/item?id=49349147"
-    ],
-    [
-      "Field measurements of neighborhood-scale air temperature impacts of data centers",
-      "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban"
     ]
   ],
   [
