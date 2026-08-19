@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2026-08-19, 07:35:59",
-      "https://news.ycombinator.com/item?id=49358220"
-    ],
-    [
-      "\"Sabotage\": Experts, lawmakers blast RFK Jr. for destroying healthcare research",
-      "https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/"
-    ]
-  ],
-  [
-    [
       "2026-08-19, 06:09:16",
       "https://news.ycombinator.com/item?id=49357501"
     ],
@@ -91,6 +81,16 @@
   ],
   [
     [
+      "2026-08-19, 01:06:03",
+      "https://news.ycombinator.com/item?id=49355232"
+    ],
+    [
+      "Tiny satellite will use the dark side of the Moon as a shield",
+      "https://www.cam.ac.uk/research/news/tiny-satellite-will-use-the-dark-side-of-the-moon-to-eavesdrop-on-whispers-from-the-early-universe"
+    ]
+  ],
+  [
+    [
       "2026-08-19, 00:48:23",
       "https://news.ycombinator.com/item?id=49355105"
     ],
@@ -147,6 +147,16 @@
     [
       "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
       "https://github.com/DenisSergeevitch/desktop-fly"
+    ]
+  ],
+  [
+    [
+      "2026-08-18, 19:29:51",
+      "https://news.ycombinator.com/item?id=49351324"
+    ],
+    [
+      "Beware Management Consultants",
+      "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "CUDA Shared Memory Swizzling",
       "https://leimao.github.io/blog/CUDA-Shared-Memory-Swizzling/"
-    ]
-  ],
-  [
-    [
-      "2026-08-13, 13:05:21",
-      "https://news.ycombinator.com/item?id=49285325"
-    ],
-    [
-      "We turned off Pub/Sub and nobody noticed",
-      "https://incident.io/blog/we-turned-off-pub-sub-and-nobody-noticed"
     ]
   ]
 ]
