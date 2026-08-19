@@ -43,6 +43,7 @@
 * [2026-08-14, 15:49:33](https://news.ycombinator.com/item?id=49300419) - [Show HN: Online SNMP MIB database - upload/view your own MIBs](https://mib-viewer.com/)
 * [2026-08-14, 15:48:59](https://news.ycombinator.com/item?id=49300411) - [\"Solving a largely imaginary user goal\"](https://unsung.aresluna.org/solving-a-largely-imaginary-user-goal/)
 * [2026-08-14, 15:43:10](https://news.ycombinator.com/item?id=49300314) - [Google is making private AI practical with homomorphic encryption](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
+* [2026-08-14, 15:40:16](https://news.ycombinator.com/item?id=49300272) - [Activation Energy is a good model for a lot of things](https://homosabiens.substack.com/p/activation-energy-is-a-good-model)
 * [2026-08-14, 15:22:02](https://news.ycombinator.com/item?id=49299985) - [Show HN: Graft – Claude Code hooks that cut grep tokens by 42%](https://github.com/NanoNets/Graft)
 * [2026-08-14, 15:21:07](https://news.ycombinator.com/item?id=49299970) - [AV1 vs. AV2: Which Video Codec Should You Use in 2026?](https://www.red5.net/blog/av1-vs-av2/)
 * [2026-08-14, 15:16:00](https://news.ycombinator.com/item?id=49299870) - [Private prisons announce $1.4B in revenue as immigration detentions climb](https://www.npr.org/2026/08/08/nx-s1-5923881/geo-group-corecivic-immigration-detention)
