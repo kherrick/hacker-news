@@ -24,12 +24,12 @@
 * [2026-08-18, 07:21:35](https://news.ycombinator.com/item?id=49342472) - [Finger: the 1971 social network that never died](https://en.andros.dev/blog/54572bc7/finger-the-1971-social-network-that-never-died/)
 * [2026-08-16, 16:08:57](https://news.ycombinator.com/item?id=49321298) - [Being ambitious and being a dad](https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/)
 * [2026-08-15, 16:17:57](https://news.ycombinator.com/item?id=49311814) - [A 25-year-old video patent just expired, ending a legal headache for Linux](https://www.xda-developers.com/25-year-old-brazilian-video-patent-expired-legal-headache-linux/)
+* [2026-08-15, 00:50:57](https://news.ycombinator.com/item?id=49306415) - [Show HN: Nikon F100 Film Camera Repair Notes](https://github.com/enthdegree/f100)
 * [2026-08-15, 00:18:08](https://news.ycombinator.com/item?id=49306207) - [Supersonic Trebuchet [video]](https://www.youtube.com/watch?v=Co57SfcT-h0)
 * [2026-08-14, 15:40:16](https://news.ycombinator.com/item?id=49300272) - [Activation Energy is a good model for a lot of things](https://homosabiens.substack.com/p/activation-energy-is-a-good-model)
 * [2026-08-14, 13:17:06](https://news.ycombinator.com/item?id=49298283) - [Rings forged from meteorites may have been fashionable among ancient Greek elite](https://phys.org/news/2026-08-forged-meteorites-fashionable-ancient-greek.html)
 * [2026-08-13, 14:56:15](https://news.ycombinator.com/item?id=49286987) - [Taffy: A flexible, high-performance, cross-platform UI layout library](https://github.com/DioxusLabs/taffy)
 * [2026-08-13, 14:11:27](https://news.ycombinator.com/item?id=49286258) - [A decades-old bug in Knuth's long division (TAOCP Vol II, Algorithm 4.3.1D)](https://kolja.rs/algorithm-d/)
-* [2026-08-13, 09:18:42](https://news.ycombinator.com/item?id=49283455) - [Win-V combo from Windows on Ubuntu](https://leo98ml.github.io/win-v/)
 
 ## [Archives](archives/index.md)
 
