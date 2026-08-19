@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-19](index.md)
 
+* [2026-08-19, 23:38:22](https://news.ycombinator.com/item?id=49368625) - [Gardner police discontinue Flock cameras as license plate readers face scrutiny](https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724)
+* [2026-08-19, 22:51:17](https://news.ycombinator.com/item?id=49368182) - [The Future of CSS: Target Multiple Classes with the Class Prefix Selector](https://www.bram.us/2026/08/20/the-future-of-css-target-multiple-classes-with-the-class-prefix-selector/)
 * [2026-08-19, 22:09:16](https://news.ycombinator.com/item?id=49367836) - [Collaborative Human Agent Protocol (CHAP)](https://github.com/BrightbeamAI/chap)
 * [2026-08-19, 21:19:50](https://news.ycombinator.com/item?id=49367350) - [Anthropic Refuses to Support Agents.md](https://github.com/anthropics/claude-code/issues/6235)
 * [2026-08-19, 21:11:31](https://news.ycombinator.com/item?id=49367256) - [Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a](https://os8088.com/spotlight/)

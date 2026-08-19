@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-19, 23:38:22](https://news.ycombinator.com/item?id=49368625) - [Gardner police discontinue Flock cameras as license plate readers face scrutiny](https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724)
+* [2026-08-19, 22:51:17](https://news.ycombinator.com/item?id=49368182) - [The Future of CSS: Target Multiple Classes with the Class Prefix Selector](https://www.bram.us/2026/08/20/the-future-of-css-target-multiple-classes-with-the-class-prefix-selector/)
 * [2026-08-19, 22:09:16](https://news.ycombinator.com/item?id=49367836) - [Collaborative Human Agent Protocol (CHAP)](https://github.com/BrightbeamAI/chap)
 * [2026-08-19, 21:19:50](https://news.ycombinator.com/item?id=49367350) - [Feature Request: Support AGENTS.md](https://github.com/anthropics/claude-code/issues/6235)
 * [2026-08-19, 21:11:31](https://news.ycombinator.com/item?id=49367256) - [Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a](https://os8088.com/spotlight/)
@@ -12,9 +14,7 @@
 * [2026-08-19, 18:33:49](https://news.ycombinator.com/item?id=49365405) - [Go 1.27](https://go.dev/blog/go1.27)
 * [2026-08-19, 17:47:29](https://news.ycombinator.com/item?id=49364745) - [Google replaced Git tags for certain source code with obtaining via Google Drive](https://grapheneos.social/@GrapheneOS/117057099753905023)
 * [2026-08-19, 17:32:38](https://news.ycombinator.com/item?id=49364559) - [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/)
-* [2026-08-19, 16:29:02](https://news.ycombinator.com/item?id=49363710) - [Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams](https://github.com/onecli/onecli)
 * [2026-08-19, 16:26:05](https://news.ycombinator.com/item?id=49363668) - [Extensible Software in the age of LLMs](https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/)
-* [2026-08-19, 16:25:37](https://news.ycombinator.com/item?id=49363665) - [How Kubernetes Probes Work](https://ngrok.com/blog/probes)
 * [2026-08-19, 15:32:08](https://news.ycombinator.com/item?id=49362934) - [Remote workers report the highest well-being in study of 7,700 employees](https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees)
 * [2026-08-19, 15:28:01](https://news.ycombinator.com/item?id=49362887) - [Casio F-B100W-1A](https://www.casio.com/uk/watches/casio/product.F-B100W-1A/)
 * [2026-08-19, 15:14:25](https://news.ycombinator.com/item?id=49362728) - [Mathematics in the age of AI](https://arxiv.org/abs/2608.16753)
