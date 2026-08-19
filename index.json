@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-08-19, 22:09:16",
+      "https://news.ycombinator.com/item?id=49367836"
+    ],
+    [
+      "Collaborative Human Agent Protocol (CHAP)",
+      "https://github.com/BrightbeamAI/chap"
+    ]
+  ],
+  [
+    [
+      "2026-08-19, 21:19:50",
+      "https://news.ycombinator.com/item?id=49367350"
+    ],
+    [
+      "Anthropic Refuses to Support Agents.md",
+      "https://github.com/anthropics/claude-code/issues/6235"
+    ]
+  ],
+  [
+    [
       "2026-08-19, 21:11:31",
       "https://news.ycombinator.com/item?id=49367256"
     ],
@@ -77,16 +97,6 @@
     [
       "Go 1.27",
       "https://go.dev/blog/go1.27"
-    ]
-  ],
-  [
-    [
-      "2026-08-19, 18:28:48",
-      "https://news.ycombinator.com/item?id=49365326"
-    ],
-    [
-      "Introducing MicroLighter",
-      "https://daverupert.com/2026/08/microlighter/"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2026-08-19, 11:46:58",
-      "https://news.ycombinator.com/item?id=49360242"
-    ],
-    [
-      "Devices with GrapheneOS support should be available in 2027",
-      "https://grapheneos.social/@GrapheneOS/117078064184215730"
-    ]
-  ],
-  [
-    [
       "2026-08-19, 11:21:50",
       "https://news.ycombinator.com/item?id=49360015"
     ],
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2026-08-18, 15:46:46",
-      "https://news.ycombinator.com/item?id=49347477"
+      "2026-08-18, 16:29:51",
+      "https://news.ycombinator.com/item?id=49348189"
     ],
     [
-      "MicroGPT-C in pure C hits 10M TPS on Apple M5",
-      "https://github.com/vixhal-baraiya/microgpt-c"
+      "Sol Loves to Cheat",
+      "https://jumploops.com/blog/sol-loves-to-cheat/"
     ]
   ],
   [
