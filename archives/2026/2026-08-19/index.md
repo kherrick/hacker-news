@@ -7,6 +7,8 @@
 * [2026-08-19, 20:28:43](https://news.ycombinator.com/item?id=49366792) - [DFlash 2: Keep Drafting Parallel](https://inco.ai/blog/dflash2/)
 * [2026-08-19, 20:22:26](https://news.ycombinator.com/item?id=49366704) - [Copper Shortage Threatens the Green Transition](https://www.economyprism.com/2026/04/copper-shortage-threatens-green.html)
 * [2026-08-19, 20:13:47](https://news.ycombinator.com/item?id=49366597) - [Pressed Penny Machine Map](https://pennypresses.net/home/map.php)
+* [2026-08-19, 20:03:03](https://news.ycombinator.com/item?id=49366474) - [XWayland 26.1-rc1 Released Two Years After the Last Release](https://lists.x.org/archives/xorg/2026-August/062280.html)
+* [2026-08-19, 19:44:45](https://news.ycombinator.com/item?id=49366270) - [Digital Immortality](https://dogdogfish.com/blog/2026/08/19/digital-immortality/)
 * [2026-08-19, 19:43:48](https://news.ycombinator.com/item?id=49366264) - [Pixel 11 Pro Fold feels like the end of an era](https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review)
 * [2026-08-19, 19:31:02](https://news.ycombinator.com/item?id=49366115) - [From Quantum Relative Entropy to the Semiclassical Einstein Equations](https://arxiv.org/abs/2510.24491)
 * [2026-08-19, 19:26:18](https://news.ycombinator.com/item?id=49366067) - [Ramp Launches a Model Router](https://router.com)
