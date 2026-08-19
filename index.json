@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-08-19, 18:33:49",
+      "https://news.ycombinator.com/item?id=49365405"
+    ],
+    [
+      "Go 1.27 Is Released",
+      "https://go.dev/blog/go1.27"
+    ]
+  ],
+  [
+    [
+      "2026-08-19, 18:32:20",
+      "https://news.ycombinator.com/item?id=49365383"
+    ],
+    [
+      "The A.I. In Google's New Pixel 11 Is Not Helpful",
+      "https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html"
+    ]
+  ],
+  [
+    [
       "2026-08-19, 18:28:48",
       "https://news.ycombinator.com/item?id=49365326"
     ],
@@ -11,11 +31,21 @@
   ],
   [
     [
+      "2026-08-19, 17:45:41",
+      "https://news.ycombinator.com/item?id=49364721"
+    ],
+    [
+      "A revisit of remote Spectre attacks on Cloudflare Workers",
+      "https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/"
+    ]
+  ],
+  [
+    [
       "2026-08-19, 17:32:38",
       "https://news.ycombinator.com/item?id=49364559"
     ],
     [
-      "Openrouter is joining Stripe",
+      "OpenRouter is joining Stripe",
       "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/"
     ]
   ],
@@ -45,7 +75,7 @@
       "https://news.ycombinator.com/item?id=49363668"
     ],
     [
-      "Extensible Software in the Age of LLMs",
+      "Extensible Software in the age of LLMs",
       "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/"
     ]
   ],
@@ -87,16 +117,6 @@
     [
       "Remote workers report the highest well-being in study of 7,700 employees",
       "https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees"
-    ]
-  ],
-  [
-    [
-      "2026-08-19, 15:28:01",
-      "https://news.ycombinator.com/item?id=49362887"
-    ],
-    [
-      "New Casio F-B100W – Upgrade to the iconic F-91W after 40 years",
-      "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2026-08-18, 21:50:33",
-      "https://news.ycombinator.com/item?id=49353221"
-    ],
-    [
-      "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
-      "https://github.com/DenisSergeevitch/desktop-fly"
-    ]
-  ],
-  [
-    [
       "2026-08-18, 15:46:46",
       "https://news.ycombinator.com/item?id=49347477"
     ],
@@ -227,16 +237,6 @@
     [
       "Being ambitious and being a dad",
       "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/"
-    ]
-  ],
-  [
-    [
-      "2026-08-16, 13:12:34",
-      "https://news.ycombinator.com/item?id=49319745"
-    ],
-    [
-      "A recipe for drone racing with reinforcement learning",
-      "https://mrandri19.github.io/2026/07/19/drone-racing-with-reinforcement-learning.html"
     ]
   ],
   [
