@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-08-19](index.md)
 
+* [2026-08-19, 18:58:29](https://news.ycombinator.com/item?id=49365733) - [Police officer used Flock cameras to track estranged wife 717 times](https://www.wsbtv.com/news/trending/affidavit-police-officer-used-flock-cameras-track-estranged-wife-717-times/5DVBYU2XTJEVDJR7LPZCBR7M5M/)
+* [2026-08-19, 18:36:45](https://news.ycombinator.com/item?id=49365443) - [Unsloth Dynamic 3.0 GGUFs](https://unsloth.ai/docs/basics/dynamic-3.0-ggufs)
+* [2026-08-19, 18:34:45](https://news.ycombinator.com/item?id=49365419) - [Rules of Good Social Skills](https://liamrosen.com/2025/07/24/33-rules-of-good-social-skills/)
 * [2026-08-19, 18:33:49](https://news.ycombinator.com/item?id=49365405) - [Go 1.27 Is Released](https://go.dev/blog/go1.27)
 * [2026-08-19, 18:32:20](https://news.ycombinator.com/item?id=49365383) - [The A.I. In Google's New Pixel 11 Is Not Helpful](https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html)
 * [2026-08-19, 18:28:48](https://news.ycombinator.com/item?id=49365326) - [Introducing MicroLighter](https://daverupert.com/2026/08/microlighter/)
+* [2026-08-19, 17:47:29](https://news.ycombinator.com/item?id=49364745) - [Google replaced Git tags for certain source code with obtaining via Google Drive](https://grapheneos.social/@GrapheneOS/117057099753905023)
 * [2026-08-19, 17:45:41](https://news.ycombinator.com/item?id=49364721) - [A revisit of remote Spectre attacks on Cloudflare Workers](https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/)
 * [2026-08-19, 17:38:33](https://news.ycombinator.com/item?id=49364633) - [People Are Cutting Down Flock Cameras En Masse](https://margaretkilljoy.substack.com/p/people-really-are-cutting-down-flock)
 * [2026-08-19, 17:32:38](https://news.ycombinator.com/item?id=49364559) - [OpenRouter Is Joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/)
