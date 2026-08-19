@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-19, 06:55:36](https://news.ycombinator.com/item?id=49357881) - [Show HN: Privacy focused client side password generator](https://password-generator.aaqa.dev/)
+* [2026-08-19, 03:02:43](https://news.ycombinator.com/item?id=49356115) - [Japan's Gen X workers are struggling](https://www.economist.com/asia/2026/08/18/japans-gen-x-workers-are-struggling)
 * [2026-08-19, 02:41:50](https://news.ycombinator.com/item?id=49355968) - [Palomar: A registry of Lean verified mathematics](https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/)
 * [2026-08-19, 02:24:34](https://news.ycombinator.com/item?id=49355825) - [Meta's blockbuster trial draws parallels to big tobacco](https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco)
 * [2026-08-19, 01:58:33](https://news.ycombinator.com/item?id=49355607) - [Show HN: Automatically detect and patch walking-dead states in Sierra games](https://github.com/katiahayati/lucasartsifier/)
@@ -12,7 +14,6 @@
 * [2026-08-19, 00:28:18](https://news.ycombinator.com/item?id=49354949) - [Cerebras CS-4](https://www.cerebras.ai/cs4)
 * [2026-08-18, 23:57:36](https://news.ycombinator.com/item?id=49354664) - [Show HN: Interactive, animated architecture of any HuggingFace models](https://modelmap.cc)
 * [2026-08-18, 23:51:49](https://news.ycombinator.com/item?id=49354613) - [Solo – a .so loader for static Linux binaries](https://github.com/pg83/solo)
-* [2026-08-18, 22:43:06](https://news.ycombinator.com/item?id=49353854) - [The 90-year history of the binoculars bolted to scenic overlooks](https://www.dpreview.com/news/the-90-year-history-of-the-binoculars-bolted-to-scenic-overlooks/)
 * [2026-08-18, 22:08:07](https://news.ycombinator.com/item?id=49353432) - [AI usage patterns in software teams](https://linear.app/data)
 * [2026-08-18, 21:50:33](https://news.ycombinator.com/item?id=49353221) - [A 3D fruit fly on macOS desktop powered by the real FlyWire connectome](https://github.com/DenisSergeevitch/desktop-fly)
 * [2026-08-18, 18:11:53](https://news.ycombinator.com/item?id=49349984) - [How does IKEA come up with names for its products?](https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html)
@@ -22,14 +23,13 @@
 * [2026-08-18, 13:22:38](https://news.ycombinator.com/item?id=49345263) - [The Amazon tax](https://seths.blog/2026/08/the-amazon-tax/)
 * [2026-08-18, 12:22:58](https://news.ycombinator.com/item?id=49344643) - [Claude writing a macOS driver for my obscure HP printer built only for Windows](https://twitter.com/kuberwastaken/status/2089377982536388964)
 * [2026-08-18, 07:21:35](https://news.ycombinator.com/item?id=49342472) - [Finger: the 1971 social network that never died](https://en.andros.dev/blog/54572bc7/finger-the-1971-social-network-that-never-died/)
-* [2026-08-17, 17:52:37](https://news.ycombinator.com/item?id=49334960) - [Memory prices climb 500% in 12 months](https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399)
 * [2026-08-17, 17:02:44](https://news.ycombinator.com/item?id=49334209) - [Cursor launches Origin, GitHub alternative](https://cursor.com/changelog/origin-code-hosting)
-* [2026-08-17, 15:49:57](https://news.ycombinator.com/item?id=49332981) - [Universal health coverage could save $1T and 114k lives a year: study](https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/)
 * [2026-08-16, 16:08:57](https://news.ycombinator.com/item?id=49321298) - [Being ambitious and being a dad](https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/)
 * [2026-08-15, 16:17:57](https://news.ycombinator.com/item?id=49311814) - [A 25-year-old video patent just expired, ending a legal headache for Linux](https://www.xda-developers.com/25-year-old-brazilian-video-patent-expired-legal-headache-linux/)
 * [2026-08-15, 00:18:08](https://news.ycombinator.com/item?id=49306207) - [Supersonic Trebuchet [video]](https://www.youtube.com/watch?v=Co57SfcT-h0)
 * [2026-08-14, 05:37:51](https://news.ycombinator.com/item?id=49295071) - [Looking for Missed Alarm Bugs in a Formal Verification Tool](https://blog.regehr.org/archives/2124)
 * [2026-08-13, 14:13:41](https://news.ycombinator.com/item?id=49286291) - [CUDA Shared Memory Swizzling](https://leimao.github.io/blog/CUDA-Shared-Memory-Swizzling/)
+* [2026-08-13, 13:05:21](https://news.ycombinator.com/item?id=49285325) - [We turned off Pub/Sub and nobody noticed](https://incident.io/blog/we-turned-off-pub-sub-and-nobody-noticed)
 
 ## [Archives](archives/index.md)
 

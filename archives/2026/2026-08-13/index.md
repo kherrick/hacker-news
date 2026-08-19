@@ -66,6 +66,7 @@
 * [2026-08-13, 13:14:12](https://news.ycombinator.com/item?id=49285418) - [Nine PBS sues Iron Mountain over blocked access to archival data](https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/)
 * [2026-08-13, 13:14:12](https://news.ycombinator.com/item?id=49285418) - [Nine PBS could lose 70 years of archival materials after cloud vendor defunct](https://www.tomshardware.com/software/cloud-storage/nine-pbs-loses-access-to-70-years-of-data-after-contracted-cloud-storage-vendor-goes-defunct-public-tv-channel-sues-iron-mountain-data-center-which-hosts-archival-materials-to-ensure-preservation)
 * [2026-08-13, 13:05:29](https://news.ycombinator.com/item?id=49285327) - [Choosing an AI model: one prompt, 11 models, different results](https://www.netlify.com/blog/one-prompt-11-models-very-different-results/)
+* [2026-08-13, 13:05:21](https://news.ycombinator.com/item?id=49285325) - [We turned off Pub/Sub and nobody noticed](https://incident.io/blog/we-turned-off-pub-sub-and-nobody-noticed)
 * [2026-08-13, 13:00:24](https://news.ycombinator.com/item?id=49285268) - [My Rules for Using Spreadsheets](https://leancrew.com/all-this/2026/08/my-rules-for-using-spreadsheets/)
 * [2026-08-13, 12:58:02](https://news.ycombinator.com/item?id=49285244) - [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)
 * [2026-08-13, 12:58:02](https://news.ycombinator.com/item?id=49285244) - [DeepSeek Harness developer preview](https://deepseek.com/harness/en/)
