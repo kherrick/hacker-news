@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-08-19, 13:33:35",
+      "https://news.ycombinator.com/item?id=49361395"
+    ],
+    [
+      "Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma",
+      "https://twitter.com/NoubarAfeyan/status/2090050162441752787"
+    ]
+  ],
+  [
+    [
+      "2026-08-19, 13:21:21",
+      "https://news.ycombinator.com/item?id=49361279"
+    ],
+    [
+      "PostgreSQL for Everything",
+      "https://www.raphaelbauer.com:443/posts/postgresql-everything/"
+    ]
+  ],
+  [
+    [
       "2026-08-19, 12:19:52",
       "https://news.ycombinator.com/item?id=49360545"
     ],
@@ -71,16 +91,6 @@
   ],
   [
     [
-      "2026-08-19, 02:24:34",
-      "https://news.ycombinator.com/item?id=49355825"
-    ],
-    [
-      "Meta's blockbuster trial draws parallels to big tobacco",
-      "https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco"
-    ]
-  ],
-  [
-    [
       "2026-08-19, 01:58:33",
       "https://news.ycombinator.com/item?id=49355607"
     ],
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2026-08-18, 22:08:07",
-      "https://news.ycombinator.com/item?id=49353432"
-    ],
-    [
-      "AI usage patterns in software teams",
-      "https://linear.app/data"
-    ]
-  ],
-  [
-    [
       "2026-08-18, 21:50:33",
       "https://news.ycombinator.com/item?id=49353221"
     ],
@@ -187,16 +187,6 @@
     [
       "And then the men with guns tell you to do it anyway",
       "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/"
-    ]
-  ],
-  [
-    [
-      "2026-08-18, 16:21:34",
-      "https://news.ycombinator.com/item?id=49348055"
-    ],
-    [
-      "Apple announces changes for apps in the European Union",
-      "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Rings forged from meteorites may have been fashionable among ancient Greek elite",
       "https://phys.org/news/2026-08-forged-meteorites-fashionable-ancient-greek.html"
+    ]
+  ],
+  [
+    [
+      "2026-08-13, 14:56:15",
+      "https://news.ycombinator.com/item?id=49286987"
+    ],
+    [
+      "Taffy: A flexible, high-performance, cross-platform UI layout library",
+      "https://github.com/DioxusLabs/taffy"
     ]
   ],
   [
