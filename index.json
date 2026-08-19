@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2026-08-18, 23:57:36",
-      "https://news.ycombinator.com/item?id=49354664"
-    ],
-    [
-      "Show HN: Interactive, animated architecture of any HuggingFace models",
-      "https://modelmap.cc"
-    ]
-  ],
-  [
-    [
       "2026-08-18, 23:51:49",
       "https://news.ycombinator.com/item?id=49354613"
     ],
@@ -297,6 +287,16 @@
     [
       "CUDA Shared Memory Swizzling",
       "https://leimao.github.io/blog/CUDA-Shared-Memory-Swizzling/"
+    ]
+  ],
+  [
+    [
+      "2026-08-13, 09:18:42",
+      "https://news.ycombinator.com/item?id=49283455"
+    ],
+    [
+      "Win-V combo from Windows on Ubuntu",
+      "https://leo98ml.github.io/win-v/"
     ]
   ]
 ]
