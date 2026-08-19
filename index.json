@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-08-19, 06:55:36",
+      "https://news.ycombinator.com/item?id=49357881"
+    ],
+    [
+      "Show HN: Privacy focused client side password generator",
+      "https://password-generator.aaqa.dev/"
+    ]
+  ],
+  [
+    [
+      "2026-08-19, 03:02:43",
+      "https://news.ycombinator.com/item?id=49356115"
+    ],
+    [
+      "Japan's Gen X workers are struggling",
+      "https://www.economist.com/asia/2026/08/18/japans-gen-x-workers-are-struggling"
+    ]
+  ],
+  [
+    [
       "2026-08-19, 02:41:50",
       "https://news.ycombinator.com/item?id=49355968"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2026-08-18, 22:43:06",
-      "https://news.ycombinator.com/item?id=49353854"
-    ],
-    [
-      "The 90-year history of the binoculars bolted to scenic overlooks",
-      "https://www.dpreview.com/news/the-90-year-history-of-the-binoculars-bolted-to-scenic-overlooks/"
-    ]
-  ],
-  [
-    [
       "2026-08-18, 22:08:07",
       "https://news.ycombinator.com/item?id=49353432"
     ],
@@ -221,32 +231,12 @@
   ],
   [
     [
-      "2026-08-17, 17:52:37",
-      "https://news.ycombinator.com/item?id=49334960"
-    ],
-    [
-      "Memory prices climb 500% in 12 months",
-      "https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399"
-    ]
-  ],
-  [
-    [
       "2026-08-17, 17:02:44",
       "https://news.ycombinator.com/item?id=49334209"
     ],
     [
       "Cursor launches Origin, GitHub alternative",
       "https://cursor.com/changelog/origin-code-hosting"
-    ]
-  ],
-  [
-    [
-      "2026-08-17, 15:49:57",
-      "https://news.ycombinator.com/item?id=49332981"
-    ],
-    [
-      "Universal health coverage could save $1T and 114k lives a year: study",
-      "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "CUDA Shared Memory Swizzling",
       "https://leimao.github.io/blog/CUDA-Shared-Memory-Swizzling/"
+    ]
+  ],
+  [
+    [
+      "2026-08-13, 13:05:21",
+      "https://news.ycombinator.com/item?id=49285325"
+    ],
+    [
+      "We turned off Pub/Sub and nobody noticed",
+      "https://incident.io/blog/we-turned-off-pub-sub-and-nobody-noticed"
     ]
   ]
 ]
