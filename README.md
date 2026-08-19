@@ -19,7 +19,6 @@
 * [2026-08-19, 15:28:01](https://news.ycombinator.com/item?id=49362887) - [Casio F-B100W-1A](https://www.casio.com/uk/watches/casio/product.F-B100W-1A/)
 * [2026-08-19, 15:14:25](https://news.ycombinator.com/item?id=49362728) - [Mathematics in the age of AI](https://arxiv.org/abs/2608.16753)
 * [2026-08-19, 14:48:39](https://news.ycombinator.com/item?id=49362401) - [Ornith-1.5: From Self-Scaffolding to Self-Improvement](https://ornith.ai/ornith_1_5.html)
-* [2026-08-19, 13:33:35](https://news.ycombinator.com/item?id=49361395) - [Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma](https://twitter.com/NoubarAfeyan/status/2090050162441752787)
 * [2026-08-19, 13:21:21](https://news.ycombinator.com/item?id=49361279) - [PostgreSQL for Everything](https://www.raphaelbauer.com:443/posts/postgresql-everything/)
 * [2026-08-19, 12:19:52](https://news.ycombinator.com/item?id=49360545) - [Geolocating a random island using geometry and CUDA programming](https://yassa9.github.io/osint/gralhix-004/)
 * [2026-08-19, 11:21:50](https://news.ycombinator.com/item?id=49360015) - [A joke domain purchase turned in geopolitical warfare](https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/)
@@ -30,6 +29,7 @@
 * [2026-08-16, 07:12:59](https://news.ycombinator.com/item?id=49317632) - [A portable, sensitive, low power, analog Geiger counter (2025)](https://ludens.cl/Electron/geiger2/geiger2.html)
 * [2026-08-15, 20:37:18](https://news.ycombinator.com/item?id=49314109) - [The little-known winstart.bat batch file](https://devblogs.microsoft.com/oldnewthing/20260811-00/?p=112605)
 * [2026-08-14, 22:30:14](https://news.ycombinator.com/item?id=49305415) - [IDE Nostalgia (2022)](https://davidsmaynard.com/blog/keyset)
+* [2026-08-14, 04:03:02](https://news.ycombinator.com/item?id=49294621) - [Aluminum Frame PC Fan Corsi-Rosenthal Build (2023)](https://itsairborne.com/aluminum-frame-pc-fan-corsi-rosenthal-build-c28aa7ca8927)
 
 ## [Archives](archives/index.md)
 
