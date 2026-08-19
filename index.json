@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2026-08-19, 11:21:50",
+      "https://news.ycombinator.com/item?id=49360015"
+    ],
+    [
+      "A joke domain purchase turned in geopolitical warfare",
+      "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/"
+    ]
+  ],
+  [
+    [
       "2026-08-19, 10:15:00",
       "https://news.ycombinator.com/item?id=49359425"
     ],
@@ -121,22 +131,22 @@
   ],
   [
     [
-      "2026-08-18, 23:57:36",
-      "https://news.ycombinator.com/item?id=49354664"
-    ],
-    [
-      "Show HN: Interactive, animated architecture of any HuggingFace models",
-      "https://modelmap.cc"
-    ]
-  ],
-  [
-    [
       "2026-08-18, 23:51:49",
       "https://news.ycombinator.com/item?id=49354613"
     ],
     [
       "Solo – a .so loader for static Linux binaries",
       "https://github.com/pg83/solo"
+    ]
+  ],
+  [
+    [
+      "2026-08-18, 22:08:07",
+      "https://news.ycombinator.com/item?id=49353432"
+    ],
+    [
+      "AI usage patterns in software teams",
+      "https://linear.app/data"
     ]
   ],
   [
@@ -271,22 +281,12 @@
   ],
   [
     [
-      "2026-08-14, 05:37:51",
-      "https://news.ycombinator.com/item?id=49295071"
+      "2026-08-13, 14:11:27",
+      "https://news.ycombinator.com/item?id=49286258"
     ],
     [
-      "Looking for Missed Alarm Bugs in a Formal Verification Tool",
-      "https://blog.regehr.org/archives/2124"
-    ]
-  ],
-  [
-    [
-      "2026-08-13, 14:13:41",
-      "https://news.ycombinator.com/item?id=49286291"
-    ],
-    [
-      "CUDA Shared Memory Swizzling",
-      "https://leimao.github.io/blog/CUDA-Shared-Memory-Swizzling/"
+      "A decades-old bug in Knuth's long division (TAOCP Vol II, Algorithm 4.3.1D)",
+      "https://kolja.rs/algorithm-d/"
     ]
   ],
   [
