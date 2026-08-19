@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-19](index.md)
 
+* [2026-08-19, 21:11:31](https://news.ycombinator.com/item?id=49367256) - [Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a](https://os8088.com/spotlight/)
 * [2026-08-19, 20:28:43](https://news.ycombinator.com/item?id=49366792) - [DFlash 2: Keep Drafting Parallel](https://inco.ai/blog/dflash2/)
 * [2026-08-19, 20:22:26](https://news.ycombinator.com/item?id=49366704) - [Copper Shortage Threatens the Green Transition](https://www.economyprism.com/2026/04/copper-shortage-threatens-green.html)
 * [2026-08-19, 20:13:47](https://news.ycombinator.com/item?id=49366597) - [Pressed Penny Machine Map](https://pennypresses.net/home/map.php)
