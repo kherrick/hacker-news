@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-19](index.md)
 
+* [2026-08-19, 12:19:52](https://news.ycombinator.com/item?id=49360545) - [Geolocating a random island using geometry and CUDA programming](https://yassa9.github.io/osint/gralhix-004/)
+* [2026-08-19, 11:46:58](https://news.ycombinator.com/item?id=49360242) - [GrapheneOS in 2027 available on high-end Motorola phones](https://grapheneos.social/@GrapheneOS/117078064184215730)
 * [2026-08-19, 10:22:52](https://news.ycombinator.com/item?id=49359495) - [Peter Thiel-Linked Race Science Network That Penetrated Cambridge University](https://bylinetimes.com/2026/08/18/the-peter-thiel-linked-race-science-network-that-penetrated-cambridge-university-and-targeted-jason-arday/)
 * [2026-08-19, 10:15:00](https://news.ycombinator.com/item?id=49359425) - [Air Theremin – a browser theremin you play by waving at your webcam](https://theremin.bizibah.com/)
 * [2026-08-19, 07:47:19](https://news.ycombinator.com/item?id=49358327) - [The Mojo language (by Modular, now Qualcomm) is now open-source](https://www.modular.com/blog/modcon-announcements)
