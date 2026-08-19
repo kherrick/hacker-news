@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-19, 17:07:35](https://news.ycombinator.com/item?id=49364223) - [Show HN: Frugal Tokens – explore costs and usage across coding agents](https://demo.frugaltokens.com/)
 * [2026-08-19, 16:29:02](https://news.ycombinator.com/item?id=49363710) - [Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams](https://github.com/onecli/onecli)
 * [2026-08-19, 16:26:05](https://news.ycombinator.com/item?id=49363668) - [Extensible Software in the Age of LLMs](https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/)
 * [2026-08-19, 16:25:37](https://news.ycombinator.com/item?id=49363665) - [How Kubernetes Probes Work](https://ngrok.com/blog/probes)
@@ -21,7 +22,6 @@
 * [2026-08-18, 21:50:33](https://news.ycombinator.com/item?id=49353221) - [A 3D fruit fly on macOS desktop powered by the real FlyWire connectome](https://github.com/DenisSergeevitch/desktop-fly)
 * [2026-08-18, 18:11:53](https://news.ycombinator.com/item?id=49349984) - [How does IKEA come up with names for its products?](https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html)
 * [2026-08-18, 15:46:46](https://news.ycombinator.com/item?id=49347477) - [Microgpt in pure C hits 10M tps on Apple m5](https://github.com/vixhal-baraiya/microgpt-c)
-* [2026-08-18, 07:21:35](https://news.ycombinator.com/item?id=49342472) - [Finger: the 1971 social network that never died](https://en.andros.dev/blog/54572bc7/finger-the-1971-social-network-that-never-died/)
 * [2026-08-16, 16:08:57](https://news.ycombinator.com/item?id=49321298) - [Being ambitious and being a dad](https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/)
 * [2026-08-16, 13:12:34](https://news.ycombinator.com/item?id=49319745) - [A recipe for drone racing with reinforcement learning](https://mrandri19.github.io/2026/07/19/drone-racing-with-reinforcement-learning.html)
 * [2026-08-15, 00:50:57](https://news.ycombinator.com/item?id=49306415) - [Show HN: Nikon F100 Film Camera Repair Notes](https://github.com/enthdegree/f100)
