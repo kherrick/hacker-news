@@ -35,28 +35,8 @@
       "https://news.ycombinator.com/item?id=49366474"
     ],
     [
-      "XWayland 26.1-rc1 Released Two Years After the Last Release",
+      "Xwayland 26.1.0 rc1",
       "https://lists.x.org/archives/xorg/2026-August/062280.html"
-    ]
-  ],
-  [
-    [
-      "2026-08-19, 19:44:45",
-      "https://news.ycombinator.com/item?id=49366270"
-    ],
-    [
-      "Digital Immortality",
-      "https://dogdogfish.com/blog/2026/08/19/digital-immortality/"
-    ]
-  ],
-  [
-    [
-      "2026-08-19, 19:31:02",
-      "https://news.ycombinator.com/item?id=49366115"
-    ],
-    [
-      "From Quantum Relative Entropy to the Semiclassical Einstein Equations",
-      "https://arxiv.org/abs/2510.24491"
     ]
   ],
   [
@@ -85,7 +65,7 @@
       "https://news.ycombinator.com/item?id=49365419"
     ],
     [
-      "Rules of Good Social Skills (2025)",
+      "Rules of good social skills (2025)",
       "https://liamrosen.com/2025/07/24/33-rules-of-good-social-skills/"
     ]
   ],
@@ -231,6 +211,16 @@
   ],
   [
     [
+      "2026-08-19, 11:46:58",
+      "https://news.ycombinator.com/item?id=49360242"
+    ],
+    [
+      "Devices with GrapheneOS support should be available in 2027",
+      "https://grapheneos.social/@GrapheneOS/117078064184215730"
+    ]
+  ],
+  [
+    [
       "2026-08-19, 11:21:50",
       "https://news.ycombinator.com/item?id=49360015"
     ],
@@ -275,7 +265,7 @@
       "https://news.ycombinator.com/item?id=49347477"
     ],
     [
-      "Microgpt in pure C hits 10M tps on Apple m5",
+      "MicroGPT-C in pure C hits 10M TPS on Apple M5",
       "https://github.com/vixhal-baraiya/microgpt-c"
     ]
   ],
@@ -285,7 +275,7 @@
       "https://news.ycombinator.com/item?id=49317632"
     ],
     [
-      "A portable, sensitive, low power, analog Geiger counter",
+      "A portable, sensitive, low power, analog Geiger counter (2025)",
       "https://ludens.cl/Electron/geiger2/geiger2.html"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "The little-known winstart.bat batch file",
       "https://devblogs.microsoft.com/oldnewthing/20260811-00/?p=112605"
+    ]
+  ],
+  [
+    [
+      "2026-08-14, 22:30:14",
+      "https://news.ycombinator.com/item?id=49305415"
+    ],
+    [
+      "IDE Nostalgia (2022)",
+      "https://davidsmaynard.com/blog/keyset"
     ]
   ]
 ]
