@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-08-19, 16:29:02",
+      "https://news.ycombinator.com/item?id=49363710"
+    ],
+    [
+      "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
+      "https://github.com/onecli/onecli"
+    ]
+  ],
+  [
+    [
+      "2026-08-19, 16:26:05",
+      "https://news.ycombinator.com/item?id=49363668"
+    ],
+    [
+      "Extensible Software in the Age of LLMs",
+      "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/"
+    ]
+  ],
+  [
+    [
+      "2026-08-19, 16:18:57",
+      "https://news.ycombinator.com/item?id=49363587"
+    ],
+    [
+      "Chain-of-Thought Reasoning in the Wild Is Not Always Faithful",
+      "https://arxiv.org/abs/2503.08679"
+    ]
+  ],
+  [
+    [
+      "2026-08-19, 16:07:14",
+      "https://news.ycombinator.com/item?id=49363433"
+    ],
+    [
+      "Civic Hygiene – avoid building technologies that could be used by a police state (2013)",
+      "https://shkspr.mobi/blog/2013/11/civic-hygiene/"
+    ]
+  ],
+  [
+    [
       "2026-08-19, 15:32:08",
       "https://news.ycombinator.com/item?id=49362934"
     ],
@@ -17,6 +57,16 @@
     [
       "New Casio F-B100W – Upgrade to the iconic F-91W after 40 years",
       "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/"
+    ]
+  ],
+  [
+    [
+      "2026-08-19, 15:14:25",
+      "https://news.ycombinator.com/item?id=49362728"
+    ],
+    [
+      "Mathematics in the Age of AI",
+      "https://arxiv.org/abs/2608.16753"
     ]
   ],
   [
@@ -65,7 +115,7 @@
       "https://news.ycombinator.com/item?id=49360242"
     ],
     [
-      "GrapheneOS in 2027 available on high-end Motorola phones",
+      "Devices with GrapheneOS support should be available in 2027",
       "https://grapheneos.social/@GrapheneOS/117078064184215730"
     ]
   ],
@@ -87,16 +137,6 @@
     [
       "Air Theremin – a browser theremin you play by waving at your webcam",
       "https://theremin.bizibah.com/"
-    ]
-  ],
-  [
-    [
-      "2026-08-19, 07:47:19",
-      "https://news.ycombinator.com/item?id=49358327"
-    ],
-    [
-      "The Mojo language (by Modular, now Qualcomm) is now open-source",
-      "https://www.modular.com/blog/modcon-announcements"
     ]
   ],
   [
@@ -141,16 +181,6 @@
   ],
   [
     [
-      "2026-08-18, 23:51:49",
-      "https://news.ycombinator.com/item?id=49354613"
-    ],
-    [
-      "Solo – a .so loader for static Linux binaries",
-      "https://github.com/pg83/solo"
-    ]
-  ],
-  [
-    [
       "2026-08-18, 21:50:33",
       "https://news.ycombinator.com/item?id=49353221"
     ],
@@ -171,42 +201,12 @@
   ],
   [
     [
-      "2026-08-18, 18:07:21",
-      "https://news.ycombinator.com/item?id=49349898"
-    ],
-    [
-      "Turbovec – Google's TurboQuant for vector search in Rust",
-      "https://github.com/RyanCodrai/turbovec"
-    ]
-  ],
-  [
-    [
       "2026-08-18, 15:46:46",
       "https://news.ycombinator.com/item?id=49347477"
     ],
     [
       "Microgpt in pure C hits 10M tps on Apple m5",
       "https://github.com/vixhal-baraiya/microgpt-c"
-    ]
-  ],
-  [
-    [
-      "2026-08-18, 13:22:38",
-      "https://news.ycombinator.com/item?id=49345263"
-    ],
-    [
-      "The Amazon tax",
-      "https://seths.blog/2026/08/the-amazon-tax/"
-    ]
-  ],
-  [
-    [
-      "2026-08-18, 12:22:58",
-      "https://news.ycombinator.com/item?id=49344643"
-    ],
-    [
-      "Claude writing a macOS driver for my obscure HP printer built only for Windows",
-      "https://twitter.com/kuberwastaken/status/2089377982536388964"
     ]
   ],
   [
@@ -231,12 +231,12 @@
   ],
   [
     [
-      "2026-08-15, 16:17:57",
-      "https://news.ycombinator.com/item?id=49311814"
+      "2026-08-16, 13:12:34",
+      "https://news.ycombinator.com/item?id=49319745"
     ],
     [
-      "A 25-year-old video patent just expired, ending a legal headache for Linux",
-      "https://www.xda-developers.com/25-year-old-brazilian-video-patent-expired-legal-headache-linux/"
+      "A recipe for drone racing with reinforcement learning",
+      "https://mrandri19.github.io/2026/07/19/drone-racing-with-reinforcement-learning.html"
     ]
   ],
   [
