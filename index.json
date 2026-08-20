@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2026-08-20, 21:32:10",
-      "https://news.ycombinator.com/item?id=49380555"
-    ],
-    [
-      "Pursuit of AGI",
-      "https://cognitus.grrn.io"
-    ]
-  ],
-  [
-    [
       "2026-08-20, 21:25:48",
       "https://news.ycombinator.com/item?id=49380491"
     ],
@@ -37,6 +27,16 @@
     [
       "Code as an Artifact",
       "https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/"
+    ]
+  ],
+  [
+    [
+      "2026-08-20, 21:01:24",
+      "https://news.ycombinator.com/item?id=49380226"
+    ],
+    [
+      "The Wonders of the Male Human Pelvis",
+      "https://nautil.us/the-wonders-of-the-male-human-pelvis-1283947"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-08-16, 11:26:45",
-      "https://news.ycombinator.com/item?id=49319011"
+      "2026-08-14, 05:45:12",
+      "https://news.ycombinator.com/item?id=49295112"
     ],
     [
-      "I Analyzed 163K Lines of Kuzu's Codebase. Here's Why Apple Wanted It",
-      "https://medium.com/data-science-collective/i-analyzed-163k-lines-of-kuzus-codebase-here-s-why-apple-wanted-it-12294a7035fa"
+      "Speeding Up (Small) Ruby Hashes",
+      "https://byroot.github.io/ruby/performance/2026/08/13/speeding-up-ruby-hashes.html"
     ]
   ]
 ]
