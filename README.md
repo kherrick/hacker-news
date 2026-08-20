@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-08-20, 10:38:06](https://news.ycombinator.com/item?id=49372792) - [If this is true, the hyperscalers are toast](https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers)
+* [2026-08-20, 12:00:23](https://news.ycombinator.com/item?id=49373423) - [Proof of Human (YC S23) Is Hiring a Member of Technical Staff](https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff)
+* [2026-08-20, 11:42:20](https://news.ycombinator.com/item?id=49373269) - [AI didn't erase the junior engineer's value, it increased it it](https://franciscotrindade.me/blog/the-kids-are-really-alright/)
 * [2026-08-20, 10:08:52](https://news.ycombinator.com/item?id=49372583) - [AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html)
 * [2026-08-20, 08:20:44](https://news.ycombinator.com/item?id=49371857) - [Don't Paste the AI, please](https://dontpastetheai.com/)
-* [2026-08-20, 06:16:40](https://news.ycombinator.com/item?id=49371006) - [Windows brings out the Rorschach test in everyone](https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803)
+* [2026-08-20, 06:16:40](https://news.ycombinator.com/item?id=49371006) - [Windows brings out the Rorschach test in everyone (2003)](https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803)
 * [2026-08-20, 01:29:12](https://news.ycombinator.com/item?id=49369408) - [Turns are Better than Radians (2022)](https://www.computerenhance.com/p/turns-are-better-than-radians)
 * [2026-08-19, 21:19:50](https://news.ycombinator.com/item?id=49367350) - [Feature Request: Support AGENTS.md](https://github.com/anthropics/claude-code/issues/6235)
 * [2026-08-19, 21:11:31](https://news.ycombinator.com/item?id=49367256) - [Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a](https://os8088.com/spotlight/)
@@ -28,8 +29,7 @@
 * [2026-08-16, 21:20:40](https://news.ycombinator.com/item?id=49323795) - [A faster way to calculate the day of the week](https://www.benjoffe.com/fast-day-of-week)
 * [2026-08-16, 17:29:44](https://news.ycombinator.com/item?id=49321934) - [Sectorforth is a 16-bit x86 Forth that fits in a 512-byte boot sector (2020)](https://github.com/cesarblum/sectorforth)
 * [2026-08-15, 20:37:18](https://news.ycombinator.com/item?id=49314109) - [The little-known winstart.bat batch file](https://devblogs.microsoft.com/oldnewthing/20260811-00/?p=112605)
-* [2026-08-15, 14:41:10](https://news.ycombinator.com/item?id=49310990) - [YACS 2.0 – Yet Another Curta Simulator](https://satadorus.eu/x_ite/yacs_2_0/yacs_2_0.html)
-* [2026-08-15, 12:47:52](https://news.ycombinator.com/item?id=49310128) - [Xorshift Generators](https://www.alanzucconi.com/2026/08/15/xorshift-generators/)
+* [2026-08-15, 17:27:56](https://news.ycombinator.com/item?id=49312446) - [Filtered Vector Search: What Acorn Fixes, and What Fixes Acorn](https://qdrant.tech/articles/filtered-vector-search-acorn/)
 
 ## [Archives](archives/index.md)
 

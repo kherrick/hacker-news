@@ -41,6 +41,7 @@
 * [2026-08-15, 18:09:42](https://news.ycombinator.com/item?id=49312823) - [Thunderbird's Desktop Calendar Visual Redesign](https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/)
 * [2026-08-15, 17:56:57](https://news.ycombinator.com/item?id=49312707) - [BriskDB](https://github.com/schapman1974/briskdb)
 * [2026-08-15, 17:30:02](https://news.ycombinator.com/item?id=49312465) - [TreasuryDirect: Prepare for ID.me – Your New Way to Log In](https://www.treasurydirect.gov/savings-bonds/idme-one-month/)
+* [2026-08-15, 17:27:56](https://news.ycombinator.com/item?id=49312446) - [Filtered Vector Search: What Acorn Fixes, and What Fixes Acorn](https://qdrant.tech/articles/filtered-vector-search-acorn/)
 * [2026-08-15, 17:21:26](https://news.ycombinator.com/item?id=49312413) - [Europe's scorched landscapes seen from space after summer heatwaves](https://www.bbc.com/news/articles/c4gxy0wqqd9o)
 * [2026-08-15, 16:53:47](https://news.ycombinator.com/item?id=49312165) - [The Dutch Community Where People Live on Strips of Land in a Lake](https://www.core77.com/posts/144869)
 * [2026-08-15, 16:42:58](https://news.ycombinator.com/item?id=49312053) - [I Remain a Skeptic](https://blog.jsbarretto.com/post/i-remain-a-skeptic)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-20](index.md)
 
+* [2026-08-20, 12:00:23](https://news.ycombinator.com/item?id=49373423) - [Proof of Human (YC S23) Is Hiring a Member of Technical Staff](https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff)
+* [2026-08-20, 11:42:20](https://news.ycombinator.com/item?id=49373269) - [AI didn't erase the junior engineer's value, it increased it it](https://franciscotrindade.me/blog/the-kids-are-really-alright/)
 * [2026-08-20, 10:38:06](https://news.ycombinator.com/item?id=49372792) - [If this is true, the hyperscalers are toast](https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers)
 * [2026-08-20, 10:08:52](https://news.ycombinator.com/item?id=49372583) - [AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html)
 * [2026-08-20, 08:20:44](https://news.ycombinator.com/item?id=49371857) - [Don't Paste the AI, please](https://dontpastetheai.com/)
