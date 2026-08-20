@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-20](index.md)
 
+* [2026-08-20, 22:47:52](https://news.ycombinator.com/item?id=49381311) - [Detecting scraper bots through scroll behaviour](https://niki.cat/detecting-scraper-bots-through-scroll-behaviour)
 * [2026-08-20, 21:42:51](https://news.ycombinator.com/item?id=49380671) - [Scientists Release Biggest 2D Map of the Universe](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/)
 * [2026-08-20, 21:32:10](https://news.ycombinator.com/item?id=49380555) - [Pursuit of AGI](https://cognitus.grrn.io)
 * [2026-08-20, 21:25:48](https://news.ycombinator.com/item?id=49380491) - [Citizen Devs: Everyone is an engineer now](https://www.massdriver.cloud/blogs/the-citizen-developer)

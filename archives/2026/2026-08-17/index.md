@@ -28,6 +28,7 @@
 * [2026-08-17, 19:06:11](https://news.ycombinator.com/item?id=49336050) - [AirTag reveals Amazon is trashing rare books to train AI](https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/)
 * [2026-08-17, 18:34:09](https://news.ycombinator.com/item?id=49335600) - [The Lonely Men Who Work in Patagonia, at the End of the World](https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world)
 * [2026-08-17, 18:28:07](https://news.ycombinator.com/item?id=49335517) - [Roboflow Playground: Try and Compare 30 Computer Vision Models](https://blog.roboflow.com/roboflow-playground/)
+* [2026-08-17, 18:26:53](https://news.ycombinator.com/item?id=49335490) - [In Which I Lose My Mind over Embeddings (HPLM Chapter 2)](https://www.maayanroth.com/blog/posts/hundred-page-lm-book-chapter-2.html)
 * [2026-08-17, 18:15:27](https://news.ycombinator.com/item?id=49335292) - [How I Over-Engineered My Book](https://ben.balter.com/2026/08/17/how-i-over-engineered-my-book/)
 * [2026-08-17, 18:10:16](https://news.ycombinator.com/item?id=49335216) - [Amazon, which started off selling books, is destroying rare texts to train AI](https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/)
 * [2026-08-17, 18:06:30](https://news.ycombinator.com/item?id=49335163) - [Meta faces 'astronomical' consequences as legal fight reaches critical moment](https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html)
