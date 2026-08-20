@@ -40,6 +40,7 @@
 * [2026-08-15, 18:28:15](https://news.ycombinator.com/item?id=49312999) - [Show HN: sce (Simple Console Editor)](https://github.com/volution/simple-console-editor)
 * [2026-08-15, 18:13:02](https://news.ycombinator.com/item?id=49312845) - [AI Isn't Outthinking Mathematicians. It's Out-Remembering Them](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
 * [2026-08-15, 18:09:42](https://news.ycombinator.com/item?id=49312823) - [Thunderbird's Desktop Calendar Visual Redesign](https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/)
+* [2026-08-15, 18:06:39](https://news.ycombinator.com/item?id=49312797) - [Fossilisation processes and our reading of animal antiquity](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(23)00137-4)
 * [2026-08-15, 17:56:57](https://news.ycombinator.com/item?id=49312707) - [BriskDB](https://github.com/schapman1974/briskdb)
 * [2026-08-15, 17:30:02](https://news.ycombinator.com/item?id=49312465) - [TreasuryDirect: Prepare for ID.me – Your New Way to Log In](https://www.treasurydirect.gov/savings-bonds/idme-one-month/)
 * [2026-08-15, 17:27:56](https://news.ycombinator.com/item?id=49312446) - [Filtered Vector Search: What Acorn Fixes, and What Fixes Acorn](https://qdrant.tech/articles/filtered-vector-search-acorn/)
