@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-08-20](index.md)
 
+* [2026-08-20, 14:38:45](https://news.ycombinator.com/item?id=49375244) - [Show HN: Open-source Stripe Connect alternative](https://zoneless.com)
+* [2026-08-20, 14:38:28](https://news.ycombinator.com/item?id=49375237) - [Show HN: Check if any of the $656M in unclaimed royalties at The MLC is yours](https://pub.doub.ly/)
+* [2026-08-20, 14:21:25](https://news.ycombinator.com/item?id=49374965) - [Slack Code](https://www.salesforce.com/introducing-slack-code/?bc=HL)
 * [2026-08-20, 14:18:16](https://news.ycombinator.com/item?id=49374920) - [Harvest hikes bills by 1500% after purchased by Bending Spoons](https://www.bbc.com/news/articles/clyq011414eo)
 * [2026-08-20, 14:14:39](https://news.ycombinator.com/item?id=49374873) - [An elliptic curve of rank ≥ 30](https://elliptic-rank.icarm.cloud/curve/273)
 * [2026-08-20, 14:10:12](https://news.ycombinator.com/item?id=49374797) - [Bun 1.4](https://bun.com/blog/bun-v1.4)
@@ -17,6 +20,7 @@
 * [2026-08-20, 13:12:21](https://news.ycombinator.com/item?id=49374162) - [Canonical Backs New Project to Translate Large C Codebases into Safe Rust](https://linuxiac.com/canonical-backs-new-project-to-translate-large-c-codebases-into-safe-rust/)
 * [2026-08-20, 13:01:40](https://news.ycombinator.com/item?id=49374067) - [UK internet age checks have boosted rogue adult sites, says Pornhub](https://www.ft.com/content/295c2eba-da29-434d-84e0-e9de3b0b1cc2)
 * [2026-08-20, 12:58:31](https://news.ycombinator.com/item?id=49374036) - [Why the Ocean Cleanup Hasn't Solved the Plastic Pollution Crisis](https://therevelator.org/why-ocean-cleanup-has-not-solved-plastic-pollution/)
+* [2026-08-20, 12:50:16](https://news.ycombinator.com/item?id=49373932) - [Xorg-Server 26.0.99.901](https://lists.x.org/archives/xorg-announce/2026-August/003741.html)
 * [2026-08-20, 12:19:37](https://news.ycombinator.com/item?id=49373616) - [Browser De-Slop](https://www.sacredheartsc.com/blog/browser-de-slop/)
 * [2026-08-20, 12:04:38](https://news.ycombinator.com/item?id=49373456) - [Show HN: I trained a 125M model to autocomplete piano on-device](https://simedw.com/2026/08/20/midi-autocomplete/)
 * [2026-08-20, 12:00:23](https://news.ycombinator.com/item?id=49373423) - [Proof of Human (YC S23) Is Hiring a Member of Technical Staff](https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff)
