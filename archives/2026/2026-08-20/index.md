@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-20](index.md)
 
+* [2026-08-20, 10:38:06](https://news.ycombinator.com/item?id=49372792) - [If this is true, the hyperscalers are toast](https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers)
 * [2026-08-20, 10:08:52](https://news.ycombinator.com/item?id=49372583) - [AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html)
 * [2026-08-20, 08:20:44](https://news.ycombinator.com/item?id=49371857) - [Don't Paste the AI, please](https://dontpastetheai.com/)
 * [2026-08-20, 06:16:40](https://news.ycombinator.com/item?id=49371006) - [Windows brings out the Rorschach test in everyone](https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803)
