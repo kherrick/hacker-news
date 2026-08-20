@@ -4,9 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-08-20](index.md)
 
+* [2026-08-20, 12:19:37](https://news.ycombinator.com/item?id=49373616) - [Browser De-Slop](https://www.sacredheartsc.com/blog/browser-de-slop/)
+* [2026-08-20, 12:04:38](https://news.ycombinator.com/item?id=49373456) - [Show HN: I trained a 125M model to autocomplete piano on-device](https://simedw.com/2026/08/20/midi-autocomplete/)
 * [2026-08-20, 12:00:23](https://news.ycombinator.com/item?id=49373423) - [Proof of Human (YC S23) Is Hiring a Member of Technical Staff](https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff)
 * [2026-08-20, 11:42:20](https://news.ycombinator.com/item?id=49373269) - [AI didn't erase the junior engineer's value, it increased it it](https://franciscotrindade.me/blog/the-kids-are-really-alright/)
+* [2026-08-20, 11:23:43](https://news.ycombinator.com/item?id=49373123) - [Australia passes law to levy tech giants that fail to pay for local news](https://www.reuters.com/legal/litigation/australia-passes-law-levy-tech-giants-that-fail-pay-local-news-2026-08-20/)
+* [2026-08-20, 11:03:29](https://news.ycombinator.com/item?id=49372994) - [Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery](https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/)
 * [2026-08-20, 10:38:06](https://news.ycombinator.com/item?id=49372792) - [If this is true, the hyperscalers are toast](https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers)
+* [2026-08-20, 10:18:58](https://news.ycombinator.com/item?id=49372661) - [Risk Engineering](https://risk-engineering.org/)
 * [2026-08-20, 10:08:52](https://news.ycombinator.com/item?id=49372583) - [AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html)
 * [2026-08-20, 08:20:44](https://news.ycombinator.com/item?id=49371857) - [Don't Paste the AI, please](https://dontpastetheai.com/)
 * [2026-08-20, 06:16:40](https://news.ycombinator.com/item?id=49371006) - [Windows brings out the Rorschach test in everyone](https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803)
