@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2026-08-19, 16:26:05",
-      "https://news.ycombinator.com/item?id=49363668"
-    ],
-    [
-      "Extensible Software in the age of LLMs",
-      "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/"
-    ]
-  ],
-  [
-    [
       "2026-08-19, 15:28:01",
       "https://news.ycombinator.com/item?id=49362887"
     ],
@@ -271,16 +261,6 @@
   ],
   [
     [
-      "2026-08-16, 08:37:57",
-      "https://news.ycombinator.com/item?id=49318113"
-    ],
-    [
-      "RAPx: A static analysis tool for Rust programs",
-      "https://github.com/safer-rust/RAPx"
-    ]
-  ],
-  [
-    [
       "2026-08-16, 05:48:41",
       "https://news.ycombinator.com/item?id=49317246"
     ],
@@ -297,6 +277,26 @@
     [
       "The little-known winstart.bat batch file",
       "https://devblogs.microsoft.com/oldnewthing/20260811-00/?p=112605"
+    ]
+  ],
+  [
+    [
+      "2026-08-15, 14:41:10",
+      "https://news.ycombinator.com/item?id=49310990"
+    ],
+    [
+      "YACS 2.0 – Yet Another Curta Simulator",
+      "https://satadorus.eu/x_ite/yacs_2_0/yacs_2_0.html"
+    ]
+  ],
+  [
+    [
+      "2026-08-15, 12:47:52",
+      "https://news.ycombinator.com/item?id=49310128"
+    ],
+    [
+      "Xorshift Generators",
+      "https://www.alanzucconi.com/2026/08/15/xorshift-generators/"
     ]
   ]
 ]
