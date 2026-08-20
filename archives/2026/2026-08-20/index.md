@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-20](index.md)
 
+* [2026-08-20, 15:29:52](https://news.ycombinator.com/item?id=49376038) - [Launch HN: Vendo (YC S26) – Let users build features on top of your product](https://github.com/runvendo/vendo)
+* [2026-08-20, 15:26:02](https://news.ycombinator.com/item?id=49375996) - [Clean up Claude 5's token vomit with a separate LLM](https://github.com/zachahn/vomit)
 * [2026-08-20, 14:38:45](https://news.ycombinator.com/item?id=49375244) - [Show HN: Open-source Stripe Connect alternative](https://zoneless.com)
 * [2026-08-20, 14:38:28](https://news.ycombinator.com/item?id=49375237) - [Show HN: Check if any of the $656M in unclaimed royalties at The MLC is yours](https://pub.doub.ly/)
 * [2026-08-20, 14:21:25](https://news.ycombinator.com/item?id=49374965) - [Slack Code](https://www.salesforce.com/introducing-slack-code/?bc=HL)
@@ -37,4 +39,5 @@
 * [2026-08-20, 03:31:56](https://news.ycombinator.com/item?id=49370083) - [Zuckerberg encouraged growth over child safety, ex-Meta executive testifies](https://www.reuters.com/legal/litigation/former-meta-engineer-resumes-testimony-landmark-trial-over-social-medias-harm-2026-08-19/)
 * [2026-08-20, 01:29:12](https://news.ycombinator.com/item?id=49369408) - [Turns are Better than Radians](https://www.computerenhance.com/p/turns-are-better-than-radians)
 * [2026-08-20, 00:18:16](https://news.ycombinator.com/item?id=49368911) - [Raiders of the Lost Array: vibe-coding a macOS driver for my orphaned Drobo](https://fetzu.ch/blog/20260819_claudevsdrobo/)
+* [2026-08-20, 00:15:01](https://news.ycombinator.com/item?id=49368886) - [CIA funding helped keep NeXT afloat in the 80s](https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink)
 * [2026-08-20, 00:05:12](https://news.ycombinator.com/item?id=49368828) - [Universality of Gradient Descent Neural Network Training](https://arxiv.org/abs/2007.13664)
