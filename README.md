@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-20, 10:08:52](https://news.ycombinator.com/item?id=49372583) - [AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html)
 * [2026-08-20, 08:20:44](https://news.ycombinator.com/item?id=49371857) - [Don't Paste the AI, please](https://dontpastetheai.com/)
 * [2026-08-20, 06:16:40](https://news.ycombinator.com/item?id=49371006) - [Windows brings out the Rorschach test in everyone](https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803)
 * [2026-08-20, 01:29:12](https://news.ycombinator.com/item?id=49369408) - [Turns are Better than Radians (2022)](https://www.computerenhance.com/p/turns-are-better-than-radians)
@@ -26,10 +27,9 @@
 * [2026-08-16, 23:55:35](https://news.ycombinator.com/item?id=49325037) - [The Chauffeur Problem](https://engines.egr.uh.edu/episode/1495)
 * [2026-08-16, 21:20:40](https://news.ycombinator.com/item?id=49323795) - [A faster way to calculate the day of the week](https://www.benjoffe.com/fast-day-of-week)
 * [2026-08-16, 17:29:44](https://news.ycombinator.com/item?id=49321934) - [Sectorforth is a 16-bit x86 Forth that fits in a 512-byte boot sector (2020)](https://github.com/cesarblum/sectorforth)
-* [2026-08-16, 08:13:22](https://news.ycombinator.com/item?id=49317965) - [Free v4 front end for your v6 site](https://v4-frontend.netiter.com/)
+* [2026-08-16, 08:37:57](https://news.ycombinator.com/item?id=49318113) - [RAPx: A static analysis tool for Rust programs](https://github.com/safer-rust/RAPx)
 * [2026-08-16, 05:48:41](https://news.ycombinator.com/item?id=49317246) - [What's missing to have reproducible builds on PyPI](https://snarky.ca/whats-missing-to-have-reproducible-builds-on-pypi/)
 * [2026-08-15, 20:37:18](https://news.ycombinator.com/item?id=49314109) - [The little-known winstart.bat batch file](https://devblogs.microsoft.com/oldnewthing/20260811-00/?p=112605)
-* [2026-08-15, 12:47:52](https://news.ycombinator.com/item?id=49310128) - [Xorshift Generators](https://www.alanzucconi.com/2026/08/15/xorshift-generators/)
 
 ## [Archives](archives/index.md)
 
