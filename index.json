@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-20, 10:08:52",
+      "https://news.ycombinator.com/item?id=49372583"
+    ],
+    [
+      "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+      "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html"
+    ]
+  ],
+  [
+    [
       "2026-08-20, 08:20:44",
       "https://news.ycombinator.com/item?id=49371857"
     ],
@@ -261,12 +271,12 @@
   ],
   [
     [
-      "2026-08-16, 08:13:22",
-      "https://news.ycombinator.com/item?id=49317965"
+      "2026-08-16, 08:37:57",
+      "https://news.ycombinator.com/item?id=49318113"
     ],
     [
-      "Free v4 front end for your v6 site",
-      "https://v4-frontend.netiter.com/"
+      "RAPx: A static analysis tool for Rust programs",
+      "https://github.com/safer-rust/RAPx"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The little-known winstart.bat batch file",
       "https://devblogs.microsoft.com/oldnewthing/20260811-00/?p=112605"
-    ]
-  ],
-  [
-    [
-      "2026-08-15, 12:47:52",
-      "https://news.ycombinator.com/item?id=49310128"
-    ],
-    [
-      "Xorshift Generators",
-      "https://www.alanzucconi.com/2026/08/15/xorshift-generators/"
     ]
   ]
 ]
