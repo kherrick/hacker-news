@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-20, 17:01:05](https://news.ycombinator.com/item?id=49377248) - [Sixtyfour (YC P25) Is Hiring](https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern)
 * [2026-08-20, 15:50:57](https://news.ycombinator.com/item?id=49376332) - [How to compromise your system with a job interview](https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview)
 * [2026-08-20, 15:46:18](https://news.ycombinator.com/item?id=49376265) - [Linux 7.2 Released](https://www.igalia.com/2026/08/19/Linux-72-Released.html)
 * [2026-08-20, 15:41:48](https://news.ycombinator.com/item?id=49376211) - [Generic Methods in Go 1.27](https://dominik.info/blog/go-generic-methods)
@@ -17,7 +18,6 @@
 * [2026-08-20, 12:58:31](https://news.ycombinator.com/item?id=49374036) - [Why the Ocean Cleanup hasn't solved the plastic pollution crisis](https://therevelator.org/why-ocean-cleanup-has-not-solved-plastic-pollution/)
 * [2026-08-20, 12:50:16](https://news.ycombinator.com/item?id=49373932) - [Xorg-Server 26.0.99.901](https://lists.x.org/archives/xorg-announce/2026-August/003741.html)
 * [2026-08-20, 12:04:38](https://news.ycombinator.com/item?id=49373456) - [Show HN: I trained a 125M model to autocomplete piano on-device](https://simedw.com/2026/08/20/midi-autocomplete/)
-* [2026-08-20, 12:00:23](https://news.ycombinator.com/item?id=49373423) - [Proof of Human (YC S23) Is Hiring a Member of Technical Staff](https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff)
 * [2026-08-20, 10:08:52](https://news.ycombinator.com/item?id=49372583) - [AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html)
 * [2026-08-20, 06:16:40](https://news.ycombinator.com/item?id=49371006) - [Windows brings out the Rorschach test in everyone (2003)](https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803)
 * [2026-08-20, 00:15:01](https://news.ycombinator.com/item?id=49368886) - [CIA funding helped keep NeXT afloat in the 80s](https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink)
