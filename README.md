@@ -25,7 +25,7 @@
 * [2026-08-18, 16:29:51](https://news.ycombinator.com/item?id=49348189) - [Sol loves to cheat](https://jumploops.com/blog/sol-loves-to-cheat/)
 * [2026-08-16, 23:55:35](https://news.ycombinator.com/item?id=49325037) - [The Chauffeur Problem](https://engines.egr.uh.edu/episode/1495)
 * [2026-08-16, 21:20:40](https://news.ycombinator.com/item?id=49323795) - [A faster way to calculate the day of the week](https://www.benjoffe.com/fast-day-of-week)
-* [2026-08-16, 17:29:44](https://news.ycombinator.com/item?id=49321934) - [Sectorforth is a 16-bit x86 Forth that fits in a 512-byte boot sector (2020)](https://github.com/cesarblum/sectorforth)
+* [2026-08-16, 08:37:57](https://news.ycombinator.com/item?id=49318113) - [RAPx: A static analysis tool for Rust programs](https://github.com/safer-rust/RAPx)
 * [2026-08-16, 05:48:41](https://news.ycombinator.com/item?id=49317246) - [What's missing to have reproducible builds on PyPI](https://snarky.ca/whats-missing-to-have-reproducible-builds-on-pypi/)
 * [2026-08-15, 23:43:09](https://news.ycombinator.com/item?id=49315372) - [Rewriting in Rust](https://blog.jetbrains.com/rust/2026/08/10/rewriting-in-rust/)
 * [2026-08-15, 20:37:18](https://news.ycombinator.com/item?id=49314109) - [The little-known winstart.bat batch file](https://devblogs.microsoft.com/oldnewthing/20260811-00/?p=112605)
