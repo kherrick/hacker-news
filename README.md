@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-08-20, 01:29:12](https://news.ycombinator.com/item?id=49369408) - [Turns are Better than Radians (2022)](https://www.computerenhance.com/p/turns-are-better-than-radians)
-* [2026-08-20, 00:05:12](https://news.ycombinator.com/item?id=49368828) - [Universality of Gradient Descent Neural Network Training](https://arxiv.org/abs/2007.13664)
 * [2026-08-19, 21:19:50](https://news.ycombinator.com/item?id=49367350) - [Feature Request: Support AGENTS.md](https://github.com/anthropics/claude-code/issues/6235)
 * [2026-08-19, 21:11:31](https://news.ycombinator.com/item?id=49367256) - [Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a](https://os8088.com/spotlight/)
 * [2026-08-19, 20:28:43](https://news.ycombinator.com/item?id=49366792) - [DFlash 2: Keep Drafting Parallel](https://inco.ai/blog/dflash2/)
@@ -26,6 +25,7 @@
 * [2026-08-18, 18:14:59](https://news.ycombinator.com/item?id=49350031) - [Pacing model development in an era of cyber-critical capabilities](https://openai.com/index/pacing-model-development-cyber-capabilities/)
 * [2026-08-18, 16:29:51](https://news.ycombinator.com/item?id=49348189) - [Sol Loves to Cheat](https://jumploops.com/blog/sol-loves-to-cheat/)
 * [2026-08-16, 21:20:40](https://news.ycombinator.com/item?id=49323795) - [A faster way to calculate the day of the week](https://www.benjoffe.com/fast-day-of-week)
+* [2026-08-15, 23:43:09](https://news.ycombinator.com/item?id=49315372) - [Rewriting in Rust](https://blog.jetbrains.com/rust/2026/08/10/rewriting-in-rust/)
 * [2026-08-15, 20:37:18](https://news.ycombinator.com/item?id=49314109) - [The little-known winstart.bat batch file](https://devblogs.microsoft.com/oldnewthing/20260811-00/?p=112605)
 * [2026-08-15, 12:47:52](https://news.ycombinator.com/item?id=49310128) - [Xorshift Generators](https://www.alanzucconi.com/2026/08/15/xorshift-generators/)
 * [2026-08-14, 03:24:10](https://news.ycombinator.com/item?id=49294441) - [Error by AI scribe during medical appointment leaves patient devastated](https://www.abc.net.au/news/2026-08-14/ai-medical-scribe-error-leaves-patient-devastated/107031672)

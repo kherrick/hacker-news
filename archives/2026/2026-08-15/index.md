@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-08-15](index.md)
 
 * [2026-08-15, 23:54:35](https://news.ycombinator.com/item?id=49315456) - [Tea5767-Radio-Tuner](https://github.com/turtushig22-blip/tea5767-radio-tuner)
+* [2026-08-15, 23:43:09](https://news.ycombinator.com/item?id=49315372) - [Rewriting in Rust](https://blog.jetbrains.com/rust/2026/08/10/rewriting-in-rust/)
 * [2026-08-15, 23:20:09](https://news.ycombinator.com/item?id=49315217) - [The key that never exists: a threshold signing ceremony in the browser](https://808bits.com/articles/threshold-signing-ceremony-in-your-browser/)
 * [2026-08-15, 22:41:51](https://news.ycombinator.com/item?id=49314967) - [AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code](https://arxiv.org/abs/2608.13122)
 * [2026-08-15, 22:40:20](https://news.ycombinator.com/item?id=49314962) - [The Government Is Monitoring Anti-Flock TikTok and Instagram Accounts](https://www.404media.co/the-government-is-monitoring-anti-flock-tiktok-and-instagram-accounts/)
