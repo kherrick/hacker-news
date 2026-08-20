@@ -1,32 +1,12 @@
 [
   [
     [
-      "2026-08-20, 00:18:16",
-      "https://news.ycombinator.com/item?id=49368911"
+      "2026-08-20, 00:05:12",
+      "https://news.ycombinator.com/item?id=49368828"
     ],
     [
-      "Raiders of the Lost Array: vibe-coding a macOS driver for my orphaned Drobo",
-      "https://fetzu.ch/blog/20260819_claudevsdrobo/"
-    ]
-  ],
-  [
-    [
-      "2026-08-19, 23:38:22",
-      "https://news.ycombinator.com/item?id=49368625"
-    ],
-    [
-      "Gardner police discontinue Flock cameras as license plate readers face scrutiny",
-      "https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724"
-    ]
-  ],
-  [
-    [
-      "2026-08-19, 22:51:17",
-      "https://news.ycombinator.com/item?id=49368182"
-    ],
-    [
-      "The Future of CSS: Target Multiple Classes with the Class Prefix Selector",
-      "https://www.bram.us/2026/08/20/the-future-of-css-target-multiple-classes-with-the-class-prefix-selector/"
+      "Universality of Gradient Descent Neural Network Training",
+      "https://arxiv.org/abs/2007.13664"
     ]
   ],
   [
@@ -77,16 +57,6 @@
     [
       "Pressed Penny Machine Map",
       "https://pennypresses.net/home/map.php"
-    ]
-  ],
-  [
-    [
-      "2026-08-19, 20:03:03",
-      "https://news.ycombinator.com/item?id=49366474"
-    ],
-    [
-      "Xwayland 26.1.0 rc1",
-      "https://lists.x.org/archives/xorg/2026-August/062280.html"
     ]
   ],
   [
@@ -251,12 +221,12 @@
   ],
   [
     [
-      "2026-08-18, 16:29:51",
-      "https://news.ycombinator.com/item?id=49348189"
+      "2026-08-18, 18:14:59",
+      "https://news.ycombinator.com/item?id=49350031"
     ],
     [
-      "Sol Loves to Cheat",
-      "https://jumploops.com/blog/sol-loves-to-cheat/"
+      "Pacing model development in an era of cyber-critical capabilities",
+      "https://openai.com/index/pacing-model-development-cyber-capabilities/"
     ]
   ],
   [
@@ -291,12 +261,42 @@
   ],
   [
     [
+      "2026-08-15, 12:47:52",
+      "https://news.ycombinator.com/item?id=49310128"
+    ],
+    [
+      "Xorshift Generators",
+      "https://www.alanzucconi.com/2026/08/15/xorshift-generators/"
+    ]
+  ],
+  [
+    [
       "2026-08-14, 22:30:14",
       "https://news.ycombinator.com/item?id=49305415"
     ],
     [
       "IDE Nostalgia (2022)",
       "https://davidsmaynard.com/blog/keyset"
+    ]
+  ],
+  [
+    [
+      "2026-08-14, 04:03:02",
+      "https://news.ycombinator.com/item?id=49294621"
+    ],
+    [
+      "Aluminum Frame PC Fan Corsi-Rosenthal Build (2023)",
+      "https://itsairborne.com/aluminum-frame-pc-fan-corsi-rosenthal-build-c28aa7ca8927"
+    ]
+  ],
+  [
+    [
+      "2026-08-12, 14:33:51",
+      "https://news.ycombinator.com/item?id=49273010"
+    ],
+    [
+      "Simulacra and Simulation",
+      "https://en.wikipedia.org/wiki/Simulacra_and_Simulation"
     ]
   ]
 ]
