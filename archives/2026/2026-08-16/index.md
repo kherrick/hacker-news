@@ -67,6 +67,7 @@
 * [2026-08-16, 07:12:59](https://news.ycombinator.com/item?id=49317632) - [A portable, sensitive, low power, analog Geiger counter](https://ludens.cl/Electron/geiger2/geiger2.html)
 * [2026-08-16, 06:55:04](https://news.ycombinator.com/item?id=49317546) - [Show HN: Laptop is the last place your secrets are still in plaintext](https://github.com/jitpass/jit)
 * [2026-08-16, 05:56:14](https://news.ycombinator.com/item?id=49317279) - [Health benefits of Tai Chi](https://www.health.harvard.edu/exercise-and-fitness/the-health-benefits-of-tai-chi)
+* [2026-08-16, 05:48:41](https://news.ycombinator.com/item?id=49317246) - [What's missing to have reproducible builds on PyPI](https://snarky.ca/whats-missing-to-have-reproducible-builds-on-pypi/)
 * [2026-08-16, 05:45:32](https://news.ycombinator.com/item?id=49317234) - [The Iran War Is a Whole New Level of Quagmire for the US](https://www.politico.com/news/magazine/2026/08/12/the-us-forgot-the-lessons-of-iraq-now-its-desperate-for-ideas-on-iran-01033217)
 * [2026-08-16, 04:24:00](https://news.ycombinator.com/item?id=49316888) - [The quirky personal homepages of programming language creators](https://breck.lol/plMakers.html)
 * [2026-08-16, 04:19:32](https://news.ycombinator.com/item?id=49316872) - [Falstad Math and Physics Simulations](https://www.falstad.com/mathphysics.html)
