@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-08-20, 05:54:20",
-      "https://news.ycombinator.com/item?id=49370862"
+      "2026-08-20, 06:16:40",
+      "https://news.ycombinator.com/item?id=49371006"
     ],
     [
-      "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-      "https://openai.com/index/asana/"
+      "Windows brings out the Rorschach test in everyone",
+      "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803"
     ]
   ],
   [
@@ -17,16 +17,6 @@
     [
       "Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?",
       "https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621"
-    ]
-  ],
-  [
-    [
-      "2026-08-20, 03:31:56",
-      "https://news.ycombinator.com/item?id=49370083"
-    ],
-    [
-      "Zuckerberg encouraged growth over child safety, ex-Meta executive testifies",
-      "https://www.reuters.com/legal/litigation/former-meta-engineer-resumes-testimony-landmark-trial-over-social-medias-harm-2026-08-19/"
     ]
   ],
   [
@@ -105,7 +95,7 @@
       "https://news.ycombinator.com/item?id=49364745"
     ],
     [
-      "Google replaced Git tags for certain source code with obtaining via Google Drive",
+      "Google has stopped pushing Git tags for some Android source code",
       "https://grapheneos.social/@GrapheneOS/117057099753905023"
     ]
   ],
@@ -157,16 +147,6 @@
     [
       "Mathematics in the age of AI",
       "https://arxiv.org/abs/2608.16753"
-    ]
-  ],
-  [
-    [
-      "2026-08-19, 14:48:39",
-      "https://news.ycombinator.com/item?id=49362401"
-    ],
-    [
-      "Ornith-1.5: From Self-Scaffolding to Self-Improvement",
-      "https://ornith.ai/ornith_1_5.html"
     ]
   ],
   [
@@ -265,8 +245,28 @@
       "https://news.ycombinator.com/item?id=49321934"
     ],
     [
-      "Sectorforth is a 16-bit x86 Forth that fits in a 512-byte boot sector",
+      "Sectorforth is a 16-bit x86 Forth that fits in a 512-byte boot sector (2020)",
       "https://github.com/cesarblum/sectorforth"
+    ]
+  ],
+  [
+    [
+      "2026-08-16, 05:48:41",
+      "https://news.ycombinator.com/item?id=49317246"
+    ],
+    [
+      "What's missing to have reproducible builds on PyPI",
+      "https://snarky.ca/whats-missing-to-have-reproducible-builds-on-pypi/"
+    ]
+  ],
+  [
+    [
+      "2026-08-15, 23:43:09",
+      "https://news.ycombinator.com/item?id=49315372"
+    ],
+    [
+      "Rewriting in Rust",
+      "https://blog.jetbrains.com/rust/2026/08/10/rewriting-in-rust/"
     ]
   ],
   [
