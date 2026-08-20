@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-08-20](index.md)
 
+* [2026-08-20, 19:46:06](https://news.ycombinator.com/item?id=49379253) - [Stop Eating Lady Gaga's Oreos](https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos)
+* [2026-08-20, 19:28:18](https://news.ycombinator.com/item?id=49379026) - [GitHub, autoscaling, and the component substitution fallacy](https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/)
 * [2026-08-20, 19:22:24](https://news.ycombinator.com/item?id=49378957) - [The August 17 outage, and the work ahead](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/)
+* [2026-08-20, 19:21:45](https://news.ycombinator.com/item?id=49378950) - [Tidal Cycles – Live coding music with Algorithmic patterns](https://tidalcycles.org/)
+* [2026-08-20, 19:19:53](https://news.ycombinator.com/item?id=49378933) - [SpacetimeDB: A Short Technical Review](https://strn.cat/posts/spacetime/)
 * [2026-08-20, 19:05:36](https://news.ycombinator.com/item?id=49378768) - [Show HN: Huzzah – a novel approach to coding with AI](https://www.danielvaughn.dev/posts/huzzah/)
 * [2026-08-20, 19:01:17](https://news.ycombinator.com/item?id=49378724) - [Seeking God in Science Part 10.5: The Mind-Body Problem (Take 2)](http://blog.rongarret.info/2026/08/seeking-god-in-science-part-105-mind.html)
 * [2026-08-20, 18:54:32](https://news.ycombinator.com/item?id=49378630) - [Scientific study reveals TikTok videos deactivate key cognitive brain regions](https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/)
