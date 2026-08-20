@@ -65,6 +65,7 @@
 * [2026-08-16, 09:12:49](https://news.ycombinator.com/item?id=49318311) - [The Two Factions of C++](https://herecomesthemoon.net/2024/11/two-factions-of-cpp/)
 * [2026-08-16, 08:40:50](https://news.ycombinator.com/item?id=49318128) - [Show HN: Grafana agent observability for Hermes Agent](https://github.com/alexander-akhmetov/grafana-agento11y-hermes)
 * [2026-08-16, 08:37:57](https://news.ycombinator.com/item?id=49318113) - [RAPx: A static analysis tool for Rust programs](https://github.com/safer-rust/RAPx)
+* [2026-08-16, 08:13:22](https://news.ycombinator.com/item?id=49317965) - [Free v4 front end for your v6 site](https://v4-frontend.netiter.com/)
 * [2026-08-16, 07:37:53](https://news.ycombinator.com/item?id=49317760) - [What happens when an LLM never sees material beyond fifth grade?](https://littlelearner-ll.github.io/)
 * [2026-08-16, 07:12:59](https://news.ycombinator.com/item?id=49317632) - [A portable, sensitive, low power, analog Geiger counter](https://ludens.cl/Electron/geiger2/geiger2.html)
 * [2026-08-16, 06:55:04](https://news.ycombinator.com/item?id=49317546) - [Show HN: Laptop is the last place your secrets are still in plaintext](https://github.com/jitpass/jit)

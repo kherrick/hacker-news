@@ -2,7 +2,6 @@
 
 * [2026-08-20, 08:20:44](https://news.ycombinator.com/item?id=49371857) - [Don't Paste the AI, please](https://dontpastetheai.com/)
 * [2026-08-20, 06:16:40](https://news.ycombinator.com/item?id=49371006) - [Windows brings out the Rorschach test in everyone](https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803)
-* [2026-08-20, 04:42:02](https://news.ycombinator.com/item?id=49370440) - [Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?](https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621)
 * [2026-08-20, 01:29:12](https://news.ycombinator.com/item?id=49369408) - [Turns are Better than Radians (2022)](https://www.computerenhance.com/p/turns-are-better-than-radians)
 * [2026-08-19, 21:19:50](https://news.ycombinator.com/item?id=49367350) - [Feature Request: Support AGENTS.md](https://github.com/anthropics/claude-code/issues/6235)
 * [2026-08-19, 21:11:31](https://news.ycombinator.com/item?id=49367256) - [Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a](https://os8088.com/spotlight/)
@@ -22,12 +21,13 @@
 * [2026-08-19, 11:21:50](https://news.ycombinator.com/item?id=49360015) - [A joke domain purchase turned in geopolitical warfare](https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/)
 * [2026-08-19, 10:15:00](https://news.ycombinator.com/item?id=49359425) - [Air Theremin – A browser theremin you play by waving at your webcam](https://theremin.bizibah.com/)
 * [2026-08-18, 22:00:21](https://news.ycombinator.com/item?id=49353339) - [fx :Tiny, open, native coding agent.](https://fx.sh)
+* [2026-08-18, 18:14:59](https://news.ycombinator.com/item?id=49350031) - [Pacing model development in an era of cyber-critical capabilities](https://openai.com/index/pacing-model-development-cyber-capabilities/)
 * [2026-08-18, 16:29:51](https://news.ycombinator.com/item?id=49348189) - [Sol loves to cheat](https://jumploops.com/blog/sol-loves-to-cheat/)
 * [2026-08-16, 23:55:35](https://news.ycombinator.com/item?id=49325037) - [The Chauffeur Problem](https://engines.egr.uh.edu/episode/1495)
 * [2026-08-16, 21:20:40](https://news.ycombinator.com/item?id=49323795) - [A faster way to calculate the day of the week](https://www.benjoffe.com/fast-day-of-week)
-* [2026-08-16, 08:37:57](https://news.ycombinator.com/item?id=49318113) - [RAPx: A static analysis tool for Rust programs](https://github.com/safer-rust/RAPx)
+* [2026-08-16, 17:29:44](https://news.ycombinator.com/item?id=49321934) - [Sectorforth is a 16-bit x86 Forth that fits in a 512-byte boot sector (2020)](https://github.com/cesarblum/sectorforth)
+* [2026-08-16, 08:13:22](https://news.ycombinator.com/item?id=49317965) - [Free v4 front end for your v6 site](https://v4-frontend.netiter.com/)
 * [2026-08-16, 05:48:41](https://news.ycombinator.com/item?id=49317246) - [What's missing to have reproducible builds on PyPI](https://snarky.ca/whats-missing-to-have-reproducible-builds-on-pypi/)
-* [2026-08-15, 23:43:09](https://news.ycombinator.com/item?id=49315372) - [Rewriting in Rust](https://blog.jetbrains.com/rust/2026/08/10/rewriting-in-rust/)
 * [2026-08-15, 20:37:18](https://news.ycombinator.com/item?id=49314109) - [The little-known winstart.bat batch file](https://devblogs.microsoft.com/oldnewthing/20260811-00/?p=112605)
 * [2026-08-15, 12:47:52](https://news.ycombinator.com/item?id=49310128) - [Xorshift Generators](https://www.alanzucconi.com/2026/08/15/xorshift-generators/)
 
