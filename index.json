@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2026-08-16, 17:29:44",
-      "https://news.ycombinator.com/item?id=49321934"
+      "2026-08-16, 08:37:57",
+      "https://news.ycombinator.com/item?id=49318113"
     ],
     [
-      "Sectorforth is a 16-bit x86 Forth that fits in a 512-byte boot sector (2020)",
-      "https://github.com/cesarblum/sectorforth"
+      "RAPx: A static analysis tool for Rust programs",
+      "https://github.com/safer-rust/RAPx"
     ]
   ],
   [
