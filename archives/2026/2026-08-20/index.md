@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-20](index.md)
 
+* [2026-08-20, 08:20:44](https://news.ycombinator.com/item?id=49371857) - [Don't Paste the AI, please](https://dontpastetheai.com/)
 * [2026-08-20, 06:16:40](https://news.ycombinator.com/item?id=49371006) - [Windows brings out the Rorschach test in everyone](https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803)
 * [2026-08-20, 05:54:20](https://news.ycombinator.com/item?id=49370862) - [Asana cleared 5 years of engineering work in 2 weeks with Codex](https://openai.com/index/asana/)
 * [2026-08-20, 04:42:02](https://news.ycombinator.com/item?id=49370440) - [Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?](https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621)

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-08-16](index.md)
 
 * [2026-08-16, 23:59:10](https://news.ycombinator.com/item?id=49325061) - [Reticulum – Decentralized Mesh Network](https://reticulum.network/)
+* [2026-08-16, 23:55:35](https://news.ycombinator.com/item?id=49325037) - [The Chauffeur Problem](https://engines.egr.uh.edu/episode/1495)
 * [2026-08-16, 23:45:09](https://news.ycombinator.com/item?id=49324985) - [Qwen 3.8 27B is excellent, but it defaults to overthinking things](https://simonwillison.net/2026/Aug/16/qwen-38-27b/)
 * [2026-08-16, 22:11:43](https://news.ycombinator.com/item?id=49324256) - [Ghosts of the Past and Devils of the Present](https://thenewcuriosityshop.substack.com/p/ghosts-of-the-past-and-devils-of)
 * [2026-08-16, 21:53:43](https://news.ycombinator.com/item?id=49324087) - [Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing](https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing)
