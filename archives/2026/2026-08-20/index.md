@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-08-20](index.md)
 
+* [2026-08-20, 15:50:57](https://news.ycombinator.com/item?id=49376332) - [How to compromise your system with a job interview](https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview)
 * [2026-08-20, 15:29:52](https://news.ycombinator.com/item?id=49376038) - [Launch HN: Vendo (YC S26) – Let users build features on top of your product](https://github.com/runvendo/vendo)
 * [2026-08-20, 15:26:02](https://news.ycombinator.com/item?id=49375996) - [Clean up Claude 5's token vomit with a separate LLM](https://github.com/zachahn/vomit)
+* [2026-08-20, 15:06:53](https://news.ycombinator.com/item?id=49375719) - [Anti-AI fonts are useless and harmful](https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/)
 * [2026-08-20, 14:38:45](https://news.ycombinator.com/item?id=49375244) - [Show HN: Open-source Stripe Connect alternative](https://zoneless.com)
 * [2026-08-20, 14:38:28](https://news.ycombinator.com/item?id=49375237) - [Show HN: Check if any of the $656M in unclaimed royalties at The MLC is yours](https://pub.doub.ly/)
 * [2026-08-20, 14:21:25](https://news.ycombinator.com/item?id=49374965) - [Slack Code](https://www.salesforce.com/introducing-slack-code/?bc=HL)
