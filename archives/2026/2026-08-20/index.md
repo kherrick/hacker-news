@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-08-20](index.md)
 
+* [2026-08-20, 13:24:32](https://news.ycombinator.com/item?id=49374287) - [DiffusionGemma Technical Report](https://arxiv.org/abs/2608.00146)
+* [2026-08-20, 13:23:12](https://news.ycombinator.com/item?id=49374269) - [Malicious Rust Crate Arrayref Runs a Build-Time Payload](https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/)
+* [2026-08-20, 13:12:21](https://news.ycombinator.com/item?id=49374162) - [Canonical Backs New Project to Translate Large C Codebases into Safe Rust](https://linuxiac.com/canonical-backs-new-project-to-translate-large-c-codebases-into-safe-rust/)
+* [2026-08-20, 13:01:40](https://news.ycombinator.com/item?id=49374067) - [UK internet age checks have boosted rogue adult sites, says Pornhub](https://www.ft.com/content/295c2eba-da29-434d-84e0-e9de3b0b1cc2)
 * [2026-08-20, 12:19:37](https://news.ycombinator.com/item?id=49373616) - [Browser De-Slop](https://www.sacredheartsc.com/blog/browser-de-slop/)
 * [2026-08-20, 12:04:38](https://news.ycombinator.com/item?id=49373456) - [Show HN: I trained a 125M model to autocomplete piano on-device](https://simedw.com/2026/08/20/midi-autocomplete/)
 * [2026-08-20, 12:00:23](https://news.ycombinator.com/item?id=49373423) - [Proof of Human (YC S23) Is Hiring a Member of Technical Staff](https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff)

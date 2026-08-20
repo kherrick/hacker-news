@@ -20,6 +20,7 @@
 * [2026-08-14, 19:51:49](https://news.ycombinator.com/item?id=49303774) - [Jason Arday: Former Cambridge university professor found dead](https://www.bbc.com/news/articles/c1j1ye6n30no)
 * [2026-08-14, 19:41:42](https://news.ycombinator.com/item?id=49303652) - [New Lower and Upper Bounds for the Grothendieck Constant](https://arxiv.org/abs/2608.11158)
 * [2026-08-14, 19:36:18](https://news.ycombinator.com/item?id=49303592) - [CEO who fired 900 people on Zoom just before Christmas wants his job back](https://www.cnn.com/2026/08/14/business/vishal-garg-better-ceo)
+* [2026-08-14, 19:32:59](https://news.ycombinator.com/item?id=49303545) - [Show HN: Streambench – Native Mac Client for Kafka and NATS](https://streambench.app)
 * [2026-08-14, 19:32:15](https://news.ycombinator.com/item?id=49303540) - [Anthropic Risk August 2026 [pdf]](https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf)
 * [2026-08-14, 19:28:17](https://news.ycombinator.com/item?id=49303499) - [Show HN: AletheionAGI – Grounding enforcement for AI agents](https://www.aletheionagi.com)
 * [2026-08-14, 19:22:00](https://news.ycombinator.com/item?id=49303433) - [Z.ai Security Disclosure](https://cvd.z.ai)
