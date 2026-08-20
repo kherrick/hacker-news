@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-20, 15:50:57",
+      "https://news.ycombinator.com/item?id=49376332"
+    ],
+    [
+      "How to compromise your system with a job interview",
+      "https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview"
+    ]
+  ],
+  [
+    [
       "2026-08-20, 15:29:52",
       "https://news.ycombinator.com/item?id=49376038"
     ],
@@ -17,6 +27,16 @@
     [
       "Clean up Claude 5's token vomit with a separate LLM",
       "https://github.com/zachahn/vomit"
+    ]
+  ],
+  [
+    [
+      "2026-08-20, 15:06:53",
+      "https://news.ycombinator.com/item?id=49375719"
+    ],
+    [
+      "Anti-AI fonts are useless and harmful",
+      "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/"
     ]
   ],
   [
@@ -71,32 +91,12 @@
   ],
   [
     [
-      "2026-08-20, 14:04:46",
-      "https://news.ycombinator.com/item?id=49374738"
-    ],
-    [
-      "Stwipe Acquires OpenWouter",
-      "https://stwipe.com/"
-    ]
-  ],
-  [
-    [
       "2026-08-20, 13:56:59",
       "https://news.ycombinator.com/item?id=49374635"
     ],
     [
       "Every Model Cheats",
       "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/"
-    ]
-  ],
-  [
-    [
-      "2026-08-20, 13:44:27",
-      "https://news.ycombinator.com/item?id=49374503"
-    ],
-    [
-      "CI jobs artifacts should not be difficult",
-      "https://deadsimpleci.sparrowhub.io/doc/job-artifacts"
     ]
   ],
   [
@@ -161,26 +161,6 @@
   ],
   [
     [
-      "2026-08-20, 11:03:29",
-      "https://news.ycombinator.com/item?id=49372994"
-    ],
-    [
-      "Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery",
-      "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/"
-    ]
-  ],
-  [
-    [
-      "2026-08-20, 10:18:58",
-      "https://news.ycombinator.com/item?id=49372661"
-    ],
-    [
-      "Risk Engineering",
-      "https://risk-engineering.org/"
-    ]
-  ],
-  [
-    [
       "2026-08-20, 10:08:52",
       "https://news.ycombinator.com/item?id=49372583"
     ],
@@ -197,6 +177,16 @@
     [
       "Windows brings out the Rorschach test in everyone (2003)",
       "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803"
+    ]
+  ],
+  [
+    [
+      "2026-08-20, 01:29:12",
+      "https://news.ycombinator.com/item?id=49369408"
+    ],
+    [
+      "Turns are Better than Radians (2022)",
+      "https://www.computerenhance.com/p/turns-are-better-than-radians"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Theory of Fluids Enters the 21st Century",
       "https://www.quantamagazine.org/theory-of-fluids-enters-the-21st-century-20260817/"
+    ]
+  ],
+  [
+    [
+      "2026-08-17, 10:32:21",
+      "https://news.ycombinator.com/item?id=49328812"
+    ],
+    [
+      "A theory for decades of C vulnerabilities",
+      "https://strawberry9.github.io/the-wrong-memory/Appendix_02.html"
     ]
   ],
   [
