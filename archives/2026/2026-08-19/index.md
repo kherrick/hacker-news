@@ -39,6 +39,7 @@
 * [2026-08-19, 15:14:25](https://news.ycombinator.com/item?id=49362728) - [Mathematics in the Age of AI](https://arxiv.org/abs/2608.16753)
 * [2026-08-19, 14:48:39](https://news.ycombinator.com/item?id=49362401) - [Ornith-1.5: From Self-Scaffolding to Self-Improvement](https://ornith.ai/ornith_1_5.html)
 * [2026-08-19, 14:48:30](https://news.ycombinator.com/item?id=49362396) - [X262: X264 with MPEG-2 Support](https://github.com/kierank/x262)
+* [2026-08-19, 14:20:10](https://news.ycombinator.com/item?id=49362001) - [Manabu Kosaka's Handmade Paper Sculptures](https://coca11272000.wixsite.com/manabukosaka)
 * [2026-08-19, 13:33:35](https://news.ycombinator.com/item?id=49361395) - [Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma](https://twitter.com/NoubarAfeyan/status/2090050162441752787)
 * [2026-08-19, 13:21:21](https://news.ycombinator.com/item?id=49361279) - [PostgreSQL for Everything](https://www.raphaelbauer.com:443/posts/postgresql-everything/)
 * [2026-08-19, 12:19:52](https://news.ycombinator.com/item?id=49360545) - [Geolocating a random island using geometry and CUDA programming](https://yassa9.github.io/osint/gralhix-004/)

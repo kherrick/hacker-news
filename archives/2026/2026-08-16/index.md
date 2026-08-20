@@ -58,6 +58,7 @@
 * [2026-08-16, 11:05:47](https://news.ycombinator.com/item?id=49318906) - [Ask HN: Do you know of any company that went back to hand-written code?](https://news.ycombinator.com/item?id=49318906)
 * [2026-08-16, 10:31:36](https://news.ycombinator.com/item?id=49318735) - [AI Coding Without the Vibes](https://peterbloem.nl/blog/craft-coding)
 * [2026-08-16, 10:10:56](https://news.ycombinator.com/item?id=49318607) - [Climbing Guide as a Shared Infrastructure](https://irz.fr/en/articles/openclimbing-open-guide-en/)
+* [2026-08-16, 09:25:46](https://news.ycombinator.com/item?id=49318377) - [Why travellers are obsessed with foreign supermarkets](https://www.bbc.com/travel/article/20260811-the-supermarket-is-becoming-a-tourist-attraction)
 * [2026-08-16, 09:12:49](https://news.ycombinator.com/item?id=49318311) - [The Two Factions of C++](https://herecomesthemoon.net/2024/11/two-factions-of-cpp/)
 * [2026-08-16, 08:40:50](https://news.ycombinator.com/item?id=49318128) - [Show HN: Grafana agent observability for Hermes Agent](https://github.com/alexander-akhmetov/grafana-agento11y-hermes)
 * [2026-08-16, 07:37:53](https://news.ycombinator.com/item?id=49317760) - [What happens when an LLM never sees material beyond fifth grade?](https://littlelearner-ll.github.io/)
