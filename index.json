@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-08-20, 10:38:06",
-      "https://news.ycombinator.com/item?id=49372792"
+      "2026-08-20, 12:00:23",
+      "https://news.ycombinator.com/item?id=49373423"
     ],
     [
-      "If this is true, the hyperscalers are toast",
-      "https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers"
+      "Proof of Human (YC S23) Is Hiring a Member of Technical Staff",
+      "https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff"
+    ]
+  ],
+  [
+    [
+      "2026-08-20, 11:42:20",
+      "https://news.ycombinator.com/item?id=49373269"
+    ],
+    [
+      "AI didn't erase the junior engineer's value, it increased it it",
+      "https://franciscotrindade.me/blog/the-kids-are-really-alright/"
     ]
   ],
   [
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=49371006"
     ],
     [
-      "Windows brings out the Rorschach test in everyone",
+      "Windows brings out the Rorschach test in everyone (2003)",
       "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803"
     ]
   ],
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2026-08-15, 14:41:10",
-      "https://news.ycombinator.com/item?id=49310990"
+      "2026-08-15, 17:27:56",
+      "https://news.ycombinator.com/item?id=49312446"
     ],
     [
-      "YACS 2.0 – Yet Another Curta Simulator",
-      "https://satadorus.eu/x_ite/yacs_2_0/yacs_2_0.html"
-    ]
-  ],
-  [
-    [
-      "2026-08-15, 12:47:52",
-      "https://news.ycombinator.com/item?id=49310128"
-    ],
-    [
-      "Xorshift Generators",
-      "https://www.alanzucconi.com/2026/08/15/xorshift-generators/"
+      "Filtered Vector Search: What Acorn Fixes, and What Fixes Acorn",
+      "https://qdrant.tech/articles/filtered-vector-search-acorn/"
     ]
   ]
 ]
