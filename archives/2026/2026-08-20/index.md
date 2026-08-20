@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-20](index.md)
 
+* [2026-08-20, 19:22:24](https://news.ycombinator.com/item?id=49378957) - [The August 17 outage, and the work ahead](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/)
+* [2026-08-20, 19:05:36](https://news.ycombinator.com/item?id=49378768) - [Show HN: Huzzah – a novel approach to coding with AI](https://www.danielvaughn.dev/posts/huzzah/)
 * [2026-08-20, 19:01:17](https://news.ycombinator.com/item?id=49378724) - [Seeking God in Science Part 10.5: The Mind-Body Problem (Take 2)](http://blog.rongarret.info/2026/08/seeking-god-in-science-part-105-mind.html)
 * [2026-08-20, 18:54:32](https://news.ycombinator.com/item?id=49378630) - [Scientific study reveals TikTok videos deactivate key cognitive brain regions](https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/)
 * [2026-08-20, 18:25:30](https://news.ycombinator.com/item?id=49378305) - [Show HN: Kandelo – a POSIX-compatible multi-process WASM kernel for the browser](https://kandelo.dev/20260819-demo/)
