@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2026-08-20, 04:42:02",
-      "https://news.ycombinator.com/item?id=49370440"
-    ],
-    [
-      "Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?",
-      "https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621"
-    ]
-  ],
-  [
-    [
       "2026-08-20, 01:29:12",
       "https://news.ycombinator.com/item?id=49369408"
     ],
@@ -221,6 +211,16 @@
   ],
   [
     [
+      "2026-08-18, 18:14:59",
+      "https://news.ycombinator.com/item?id=49350031"
+    ],
+    [
+      "Pacing model development in an era of cyber-critical capabilities",
+      "https://openai.com/index/pacing-model-development-cyber-capabilities/"
+    ]
+  ],
+  [
+    [
       "2026-08-18, 16:29:51",
       "https://news.ycombinator.com/item?id=49348189"
     ],
@@ -251,12 +251,22 @@
   ],
   [
     [
-      "2026-08-16, 08:37:57",
-      "https://news.ycombinator.com/item?id=49318113"
+      "2026-08-16, 17:29:44",
+      "https://news.ycombinator.com/item?id=49321934"
     ],
     [
-      "RAPx: A static analysis tool for Rust programs",
-      "https://github.com/safer-rust/RAPx"
+      "Sectorforth is a 16-bit x86 Forth that fits in a 512-byte boot sector (2020)",
+      "https://github.com/cesarblum/sectorforth"
+    ]
+  ],
+  [
+    [
+      "2026-08-16, 08:13:22",
+      "https://news.ycombinator.com/item?id=49317965"
+    ],
+    [
+      "Free v4 front end for your v6 site",
+      "https://v4-frontend.netiter.com/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "What's missing to have reproducible builds on PyPI",
       "https://snarky.ca/whats-missing-to-have-reproducible-builds-on-pypi/"
-    ]
-  ],
-  [
-    [
-      "2026-08-15, 23:43:09",
-      "https://news.ycombinator.com/item?id=49315372"
-    ],
-    [
-      "Rewriting in Rust",
-      "https://blog.jetbrains.com/rust/2026/08/10/rewriting-in-rust/"
     ]
   ],
   [
