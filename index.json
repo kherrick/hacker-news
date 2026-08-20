@@ -1,11 +1,21 @@
 [
   [
     [
+      "2026-08-20, 20:07:26",
+      "https://news.ycombinator.com/item?id=49379550"
+    ],
+    [
+      "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
+      "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/"
+    ]
+  ],
+  [
+    [
       "2026-08-20, 19:46:06",
       "https://news.ycombinator.com/item?id=49379253"
     ],
     [
-      "Stop Eating Lady Gaga's Oreos",
+      "Stop eating Lady Gaga's Oreos",
       "https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos"
     ]
   ],
@@ -17,6 +27,16 @@
     [
       "GitHub, autoscaling, and the component substitution fallacy",
       "https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/"
+    ]
+  ],
+  [
+    [
+      "2026-08-20, 19:22:24",
+      "https://news.ycombinator.com/item?id=49378957"
+    ],
+    [
+      "The August 17 outage, and the work ahead",
+      "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/"
     ]
   ],
   [
@@ -55,8 +75,18 @@
       "https://news.ycombinator.com/item?id=49378630"
     ],
     [
-      "Scientific study reveals TikTok videos deactivate key cognitive brain regions",
+      "Watching TikTok and Instagram deactivates the cognitive control network: Study",
       "https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/"
+    ]
+  ],
+  [
+    [
+      "2026-08-20, 18:38:47",
+      "https://news.ycombinator.com/item?id=49378446"
+    ],
+    [
+      "Why Aren't Smart People Happier?",
+      "https://www.experimental-history.com/p/why-arent-smart-people-happier"
     ]
   ],
   [
@@ -71,21 +101,11 @@
   ],
   [
     [
-      "2026-08-20, 17:55:16",
-      "https://news.ycombinator.com/item?id=49377923"
-    ],
-    [
-      "Optimizing things in the USSR (2016)",
-      "https://chris-said.io/2016/05/11/optimizing-things-in-the-ussr/"
-    ]
-  ],
-  [
-    [
       "2026-08-20, 17:50:02",
       "https://news.ycombinator.com/item?id=49377853"
     ],
     [
-      "I should have loved biology",
+      "I should have loved biology (2020)",
       "https://jsomers.net/i-should-have-loved-biology/"
     ]
   ],
@@ -151,22 +171,22 @@
   ],
   [
     [
-      "2026-08-20, 14:38:45",
-      "https://news.ycombinator.com/item?id=49375244"
+      "2026-08-20, 15:26:02",
+      "https://news.ycombinator.com/item?id=49375996"
     ],
     [
-      "Show HN: Open-source Stripe Connect alternative",
-      "https://zoneless.com"
+      "Vomit: Clean up Claude 5's token output with a separate LLM",
+      "https://github.com/zachahn/vomit"
     ]
   ],
   [
     [
-      "2026-08-20, 14:12:08",
-      "https://news.ycombinator.com/item?id=49374830"
+      "2026-08-20, 15:06:53",
+      "https://news.ycombinator.com/item?id=49375719"
     ],
     [
-      "Show HN: Omacosy – Omarchy-style tiling desktop for macOS, no SIP",
-      "https://github.com/paulsp94/omacosy"
+      "Anti-AI fonts are useless and harmful",
+      "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2026-08-20, 06:16:40",
-      "https://news.ycombinator.com/item?id=49371006"
-    ],
-    [
-      "Windows brings out the Rorschach test in everyone (2003)",
-      "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803"
-    ]
-  ],
-  [
-    [
       "2026-08-20, 00:15:01",
       "https://news.ycombinator.com/item?id=49368886"
     ],
@@ -247,16 +257,6 @@
     [
       "HTML Can Do That",
       "https://chrisburnell.com/html-can-do-that/"
-    ]
-  ],
-  [
-    [
-      "2026-08-19, 11:35:26",
-      "https://news.ycombinator.com/item?id=49360140"
-    ],
-    [
-      "Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces",
-      "https://arxiv.org/abs/2504.09762"
     ]
   ],
   [
