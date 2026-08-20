@@ -50,6 +50,7 @@
 * [2026-08-15, 15:58:53](https://news.ycombinator.com/item?id=49311651) - [Semaglutide linked to 26% lower 5-year predicted dementia risk](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432)
 * [2026-08-15, 15:32:25](https://news.ycombinator.com/item?id=49311445) - [AI Can Now Design Functional Viruses. Should We Worry?](https://spectrum.ieee.org/ai-designed-virus)
 * [2026-08-15, 14:55:57](https://news.ycombinator.com/item?id=49311115) - [Ranking the Most Brilliantly Colored Birds with Data](https://moultano.wordpress.com/2026/08/14/fairly-ranking-the-most-brilliant-birds/)
+* [2026-08-15, 14:41:10](https://news.ycombinator.com/item?id=49310990) - [YACS 2.0 – Yet Another Curta Simulator](https://satadorus.eu/x_ite/yacs_2_0/yacs_2_0.html)
 * [2026-08-15, 14:34:04](https://news.ycombinator.com/item?id=49310926) - [A Spectre Is Haunting Unicode](https://www.dampfkraft.com/ghost-characters.html)
 * [2026-08-15, 14:29:50](https://news.ycombinator.com/item?id=49310884) - [Gen Z has rediscovered the joy of going to the movies](https://www.economist.com/culture/2026/08/11/gen-z-has-rediscovered-the-joy-of-going-to-the-movies)
 * [2026-08-15, 14:22:20](https://news.ycombinator.com/item?id=49310829) - [Printytron – Type it. 3D Print it](https://printytron.com)

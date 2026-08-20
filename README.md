@@ -13,7 +13,6 @@
 * [2026-08-19, 17:47:29](https://news.ycombinator.com/item?id=49364745) - [Google has stopped pushing Git tags for some Android source code](https://grapheneos.social/@GrapheneOS/117057099753905023)
 * [2026-08-19, 17:32:38](https://news.ycombinator.com/item?id=49364559) - [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/)
 * [2026-08-19, 16:29:02](https://news.ycombinator.com/item?id=49363710) - [Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams](https://github.com/onecli/onecli)
-* [2026-08-19, 16:26:05](https://news.ycombinator.com/item?id=49363668) - [Extensible Software in the age of LLMs](https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/)
 * [2026-08-19, 15:28:01](https://news.ycombinator.com/item?id=49362887) - [Casio F-B100W-1A](https://www.casio.com/uk/watches/casio/product.F-B100W-1A/)
 * [2026-08-19, 15:14:25](https://news.ycombinator.com/item?id=49362728) - [Mathematics in the age of AI](https://arxiv.org/abs/2608.16753)
 * [2026-08-19, 14:20:10](https://news.ycombinator.com/item?id=49362001) - [Manabu Kosaka's Handmade Paper Sculptures](https://coca11272000.wixsite.com/manabukosaka)
@@ -27,9 +26,10 @@
 * [2026-08-16, 23:55:35](https://news.ycombinator.com/item?id=49325037) - [The Chauffeur Problem](https://engines.egr.uh.edu/episode/1495)
 * [2026-08-16, 21:20:40](https://news.ycombinator.com/item?id=49323795) - [A faster way to calculate the day of the week](https://www.benjoffe.com/fast-day-of-week)
 * [2026-08-16, 17:29:44](https://news.ycombinator.com/item?id=49321934) - [Sectorforth is a 16-bit x86 Forth that fits in a 512-byte boot sector (2020)](https://github.com/cesarblum/sectorforth)
-* [2026-08-16, 08:37:57](https://news.ycombinator.com/item?id=49318113) - [RAPx: A static analysis tool for Rust programs](https://github.com/safer-rust/RAPx)
 * [2026-08-16, 05:48:41](https://news.ycombinator.com/item?id=49317246) - [What's missing to have reproducible builds on PyPI](https://snarky.ca/whats-missing-to-have-reproducible-builds-on-pypi/)
 * [2026-08-15, 20:37:18](https://news.ycombinator.com/item?id=49314109) - [The little-known winstart.bat batch file](https://devblogs.microsoft.com/oldnewthing/20260811-00/?p=112605)
+* [2026-08-15, 14:41:10](https://news.ycombinator.com/item?id=49310990) - [YACS 2.0 – Yet Another Curta Simulator](https://satadorus.eu/x_ite/yacs_2_0/yacs_2_0.html)
+* [2026-08-15, 12:47:52](https://news.ycombinator.com/item?id=49310128) - [Xorshift Generators](https://www.alanzucconi.com/2026/08/15/xorshift-generators/)
 
 ## [Archives](archives/index.md)
 
