@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-20, 08:20:44",
+      "https://news.ycombinator.com/item?id=49371857"
+    ],
+    [
+      "Don't Paste the AI, please",
+      "https://dontpastetheai.com/"
+    ]
+  ],
+  [
+    [
       "2026-08-20, 06:16:40",
       "https://news.ycombinator.com/item?id=49371006"
     ],
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2026-08-19, 14:48:39",
-      "https://news.ycombinator.com/item?id=49362401"
-    ],
-    [
-      "Ornith-1.5: From Self-Scaffolding to Self-Improvement",
-      "https://ornith.ai/ornith_1_5.html"
-    ]
-  ],
-  [
-    [
       "2026-08-19, 14:20:10",
       "https://news.ycombinator.com/item?id=49362001"
     ],
@@ -221,22 +221,22 @@
   ],
   [
     [
-      "2026-08-18, 18:14:59",
-      "https://news.ycombinator.com/item?id=49350031"
-    ],
-    [
-      "Pacing model development in an era of cyber-critical capabilities",
-      "https://openai.com/index/pacing-model-development-cyber-capabilities/"
-    ]
-  ],
-  [
-    [
       "2026-08-18, 16:29:51",
       "https://news.ycombinator.com/item?id=49348189"
     ],
     [
       "Sol loves to cheat",
       "https://jumploops.com/blog/sol-loves-to-cheat/"
+    ]
+  ],
+  [
+    [
+      "2026-08-16, 23:55:35",
+      "https://news.ycombinator.com/item?id=49325037"
+    ],
+    [
+      "The Chauffeur Problem",
+      "https://engines.egr.uh.edu/episode/1495"
     ]
   ],
   [
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2026-08-15, 23:43:09",
+      "https://news.ycombinator.com/item?id=49315372"
+    ],
+    [
+      "Rewriting in Rust",
+      "https://blog.jetbrains.com/rust/2026/08/10/rewriting-in-rust/"
+    ]
+  ],
+  [
+    [
       "2026-08-15, 20:37:18",
       "https://news.ycombinator.com/item?id=49314109"
     ],
@@ -287,16 +297,6 @@
     [
       "Xorshift Generators",
       "https://www.alanzucconi.com/2026/08/15/xorshift-generators/"
-    ]
-  ],
-  [
-    [
-      "2026-08-12, 14:33:51",
-      "https://news.ycombinator.com/item?id=49273010"
-    ],
-    [
-      "Simulacra and Simulation",
-      "https://en.wikipedia.org/wiki/Simulacra_and_Simulation"
     ]
   ]
 ]
