@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-08-20, 01:29:12](https://news.ycombinator.com/item?id=49369408) - [Turns are Better than Radians](https://www.computerenhance.com/p/turns-are-better-than-radians)
+* [2026-08-20, 01:29:12](https://news.ycombinator.com/item?id=49369408) - [Turns are Better than Radians (2022)](https://www.computerenhance.com/p/turns-are-better-than-radians)
 * [2026-08-20, 00:05:12](https://news.ycombinator.com/item?id=49368828) - [Universality of Gradient Descent Neural Network Training](https://arxiv.org/abs/2007.13664)
 * [2026-08-19, 21:19:50](https://news.ycombinator.com/item?id=49367350) - [Feature Request: Support AGENTS.md](https://github.com/anthropics/claude-code/issues/6235)
 * [2026-08-19, 21:11:31](https://news.ycombinator.com/item?id=49367256) - [Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a](https://os8088.com/spotlight/)
@@ -14,7 +14,6 @@
 * [2026-08-19, 17:32:38](https://news.ycombinator.com/item?id=49364559) - [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/)
 * [2026-08-19, 16:29:02](https://news.ycombinator.com/item?id=49363710) - [Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams](https://github.com/onecli/onecli)
 * [2026-08-19, 16:26:05](https://news.ycombinator.com/item?id=49363668) - [Extensible Software in the age of LLMs](https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/)
-* [2026-08-19, 15:32:08](https://news.ycombinator.com/item?id=49362934) - [Remote workers report the highest well-being in study of 7,700 employees](https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees)
 * [2026-08-19, 15:28:01](https://news.ycombinator.com/item?id=49362887) - [Casio F-B100W-1A](https://www.casio.com/uk/watches/casio/product.F-B100W-1A/)
 * [2026-08-19, 15:14:25](https://news.ycombinator.com/item?id=49362728) - [Mathematics in the age of AI](https://arxiv.org/abs/2608.16753)
 * [2026-08-19, 14:48:39](https://news.ycombinator.com/item?id=49362401) - [Ornith-1.5: From Self-Scaffolding to Self-Improvement](https://ornith.ai/ornith_1_5.html)
@@ -29,6 +28,7 @@
 * [2026-08-16, 21:20:40](https://news.ycombinator.com/item?id=49323795) - [A faster way to calculate the day of the week](https://www.benjoffe.com/fast-day-of-week)
 * [2026-08-15, 20:37:18](https://news.ycombinator.com/item?id=49314109) - [The little-known winstart.bat batch file](https://devblogs.microsoft.com/oldnewthing/20260811-00/?p=112605)
 * [2026-08-15, 12:47:52](https://news.ycombinator.com/item?id=49310128) - [Xorshift Generators](https://www.alanzucconi.com/2026/08/15/xorshift-generators/)
+* [2026-08-14, 03:24:10](https://news.ycombinator.com/item?id=49294441) - [Error by AI scribe during medical appointment leaves patient devastated](https://www.abc.net.au/news/2026-08-14/ai-medical-scribe-error-leaves-patient-devastated/107031672)
 * [2026-08-12, 14:33:51](https://news.ycombinator.com/item?id=49273010) - [Simulacra and Simulation](https://en.wikipedia.org/wiki/Simulacra_and_Simulation)
 
 ## [Archives](archives/index.md)
