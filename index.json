@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-08-20, 18:02:55",
+      "https://news.ycombinator.com/item?id=49378036"
+    ],
+    [
+      "Bitflash: A Tor-native revival of Bitcoin 0.1.0, mined on CPUs with RandomX",
+      "https://bitflash.network/"
+    ]
+  ],
+  [
+    [
+      "2026-08-20, 17:55:16",
+      "https://news.ycombinator.com/item?id=49377923"
+    ],
+    [
+      "Optimizing things in the USSR (2016)",
+      "https://chris-said.io/2016/05/11/optimizing-things-in-the-ussr/"
+    ]
+  ],
+  [
+    [
+      "2026-08-20, 17:50:02",
+      "https://news.ycombinator.com/item?id=49377853"
+    ],
+    [
+      "I should have loved biology",
+      "https://jsomers.net/i-should-have-loved-biology/"
+    ]
+  ],
+  [
+    [
+      "2026-08-20, 17:40:49",
+      "https://news.ycombinator.com/item?id=49377739"
+    ],
+    [
+      "Project Cybersyn",
+      "https://bactra.org/notebooks/cybersyn.html"
+    ]
+  ],
+  [
+    [
       "2026-08-20, 17:33:32",
       "https://news.ycombinator.com/item?id=49377660"
     ],
@@ -21,22 +61,22 @@
   ],
   [
     [
-      "2026-08-20, 17:01:09",
-      "https://news.ycombinator.com/item?id=49377249"
-    ],
-    [
-      "The Defense-Tech Bubble Is Headed for Consolidation",
-      "https://foxandlion.pub/analysis/the-defense-tech-bubble-is-headed-for-consolidation"
-    ]
-  ],
-  [
-    [
       "2026-08-20, 17:01:05",
       "https://news.ycombinator.com/item?id=49377248"
     ],
     [
       "Sixtyfour (YC P25) Is Hiring",
       "https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern"
+    ]
+  ],
+  [
+    [
+      "2026-08-20, 16:53:55",
+      "https://news.ycombinator.com/item?id=49377155"
+    ],
+    [
+      "AI at Home Part 2: Multi-GPU Drifting",
+      "https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html"
     ]
   ],
   [
@@ -55,7 +95,7 @@
       "https://news.ycombinator.com/item?id=49376265"
     ],
     [
-      "Linux 7.2 Released",
+      "Linux 7.2",
       "https://www.igalia.com/2026/08/19/Linux-72-Released.html"
     ]
   ],
@@ -77,26 +117,6 @@
     [
       "Launch HN: Vendo (YC S26) – Let users build features on top of your product",
       "https://github.com/runvendo/vendo"
-    ]
-  ],
-  [
-    [
-      "2026-08-20, 15:26:02",
-      "https://news.ycombinator.com/item?id=49375996"
-    ],
-    [
-      "Clean up Claude 5's token vomit with a separate LLM",
-      "https://github.com/zachahn/vomit"
-    ]
-  ],
-  [
-    [
-      "2026-08-20, 15:06:53",
-      "https://news.ycombinator.com/item?id=49375719"
-    ],
-    [
-      "Anti-AI fonts are useless and harmful",
-      "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/"
     ]
   ],
   [
@@ -185,7 +205,7 @@
       "https://news.ycombinator.com/item?id=49373932"
     ],
     [
-      "Xorg-Server 26.0.99.901",
+      "Xorg-server 26.1.0 rc1",
       "https://lists.x.org/archives/xorg-announce/2026-August/003741.html"
     ]
   ],
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2026-08-19, 11:35:26",
-      "https://news.ycombinator.com/item?id=49360140"
-    ],
-    [
-      "Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces",
-      "https://arxiv.org/abs/2504.09762"
-    ]
-  ],
-  [
-    [
       "2026-08-18, 16:26:56",
       "https://news.ycombinator.com/item?id=49348141"
     ],
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2026-08-17, 20:03:55",
-      "https://news.ycombinator.com/item?id=49336772"
+      "2026-08-15, 18:28:15",
+      "https://news.ycombinator.com/item?id=49312999"
     ],
     [
-      "Nearly 1,400 live streams from Japan",
-      "https://tomarigi.me/"
-    ]
-  ],
-  [
-    [
-      "2026-08-16, 19:25:41",
-      "https://news.ycombinator.com/item?id=49322868"
-    ],
-    [
-      "Double-double: 31 digits of precision without leaving the FPU",
-      "https://marekfiser.com/blog/double-double-arithmetic/"
+      "Show HN: sce (Simple Console Editor)",
+      "https://github.com/volution/simple-console-editor"
     ]
   ]
 ]
