@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-08-20, 14:38:45",
+      "https://news.ycombinator.com/item?id=49375244"
+    ],
+    [
+      "Show HN: Open-source Stripe Connect alternative",
+      "https://zoneless.com"
+    ]
+  ],
+  [
+    [
+      "2026-08-20, 14:38:28",
+      "https://news.ycombinator.com/item?id=49375237"
+    ],
+    [
+      "Show HN: Check if any of the $656M in unclaimed royalties at The MLC is yours",
+      "https://pub.doub.ly/"
+    ]
+  ],
+  [
+    [
+      "2026-08-20, 14:21:25",
+      "https://news.ycombinator.com/item?id=49374965"
+    ],
+    [
+      "Slack Code",
+      "https://www.salesforce.com/introducing-slack-code/?bc=HL"
+    ]
+  ],
+  [
+    [
       "2026-08-20, 14:18:16",
       "https://news.ycombinator.com/item?id=49374920"
     ],
@@ -71,16 +101,6 @@
   ],
   [
     [
-      "2026-08-20, 13:39:18",
-      "https://news.ycombinator.com/item?id=49374437"
-    ],
-    [
-      "I Spent Twenty Years Becoming Good at the Wrong Game",
-      "https://savvynormie.com/i-spent-twenty-years-becoming-good-at-the-wrong-game/"
-    ]
-  ],
-  [
-    [
       "2026-08-20, 13:24:32",
       "https://news.ycombinator.com/item?id=49374287"
     ],
@@ -95,28 +115,8 @@
       "https://news.ycombinator.com/item?id=49374269"
     ],
     [
-      "Malicious Rust Crate Arrayref Runs a Build-Time Payload",
+      "Malicious Rust crate Arrayref runs a build-time payload",
       "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/"
-    ]
-  ],
-  [
-    [
-      "2026-08-20, 13:12:21",
-      "https://news.ycombinator.com/item?id=49374162"
-    ],
-    [
-      "Canonical Backs New Project to Translate Large C Codebases into Safe Rust",
-      "https://linuxiac.com/canonical-backs-new-project-to-translate-large-c-codebases-into-safe-rust/"
-    ]
-  ],
-  [
-    [
-      "2026-08-20, 13:01:40",
-      "https://news.ycombinator.com/item?id=49374067"
-    ],
-    [
-      "UK internet age checks have boosted rogue adult sites, says Pornhub",
-      "https://www.ft.com/content/295c2eba-da29-434d-84e0-e9de3b0b1cc2"
     ]
   ],
   [
@@ -125,18 +125,18 @@
       "https://news.ycombinator.com/item?id=49374036"
     ],
     [
-      "Why the Ocean Cleanup Hasn't Solved the Plastic Pollution Crisis",
+      "Why the Ocean Cleanup hasn't solved the plastic pollution crisis",
       "https://therevelator.org/why-ocean-cleanup-has-not-solved-plastic-pollution/"
     ]
   ],
   [
     [
-      "2026-08-20, 12:19:37",
-      "https://news.ycombinator.com/item?id=49373616"
+      "2026-08-20, 12:50:16",
+      "https://news.ycombinator.com/item?id=49373932"
     ],
     [
-      "Browser De-Slop",
-      "https://www.sacredheartsc.com/blog/browser-de-slop/"
+      "Xorg-Server 26.0.99.901",
+      "https://lists.x.org/archives/xorg-announce/2026-August/003741.html"
     ]
   ],
   [
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2026-08-20, 08:20:44",
-      "https://news.ycombinator.com/item?id=49371857"
-    ],
-    [
-      "Don't paste the AI, please",
-      "https://dontpastetheai.com/"
-    ]
-  ],
-  [
-    [
       "2026-08-20, 06:16:40",
       "https://news.ycombinator.com/item?id=49371006"
     ],
@@ -221,52 +211,72 @@
   ],
   [
     [
-      "2026-08-19, 18:33:49",
-      "https://news.ycombinator.com/item?id=49365405"
+      "2026-08-19, 19:26:18",
+      "https://news.ycombinator.com/item?id=49366067"
     ],
     [
-      "Go 1.27",
-      "https://go.dev/blog/go1.27"
+      "Router by Ramp",
+      "https://router.com"
     ]
   ],
   [
     [
-      "2026-08-19, 17:47:29",
-      "https://news.ycombinator.com/item?id=49364745"
+      "2026-08-19, 15:11:36",
+      "https://news.ycombinator.com/item?id=49362689"
     ],
     [
-      "Google has stopped pushing Git tags for some Android source code",
-      "https://grapheneos.social/@GrapheneOS/117057099753905023"
+      "HTML Can Do That",
+      "https://chrisburnell.com/html-can-do-that/"
     ]
   ],
   [
     [
-      "2026-08-19, 17:32:38",
-      "https://news.ycombinator.com/item?id=49364559"
+      "2026-08-19, 11:35:26",
+      "https://news.ycombinator.com/item?id=49360140"
     ],
     [
-      "OpenRouter is joining Stripe",
-      "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/"
+      "Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces",
+      "https://arxiv.org/abs/2504.09762"
     ]
   ],
   [
     [
-      "2026-08-19, 14:20:10",
-      "https://news.ycombinator.com/item?id=49362001"
+      "2026-08-18, 16:26:56",
+      "https://news.ycombinator.com/item?id=49348141"
     ],
     [
-      "Manabu Kosaka's Handmade Paper Sculptures",
-      "https://coca11272000.wixsite.com/manabukosaka"
+      "Git at any scale",
+      "https://cursor.com/blog/git-at-any-scale"
     ]
   ],
   [
     [
-      "2026-08-19, 11:21:50",
-      "https://news.ycombinator.com/item?id=49360015"
+      "2026-08-18, 16:23:24",
+      "https://news.ycombinator.com/item?id=49348079"
     ],
     [
-      "A joke domain purchase turned in geopolitical warfare",
-      "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/"
+      "Mojo is now open source",
+      "https://www.modular.com/blog/mojo-open-source"
+    ]
+  ],
+  [
+    [
+      "2026-08-17, 20:03:55",
+      "https://news.ycombinator.com/item?id=49336772"
+    ],
+    [
+      "Nearly 1,400 live streams from Japan",
+      "https://tomarigi.me/"
+    ]
+  ],
+  [
+    [
+      "2026-08-17, 15:56:40",
+      "https://news.ycombinator.com/item?id=49333091"
+    ],
+    [
+      "Theory of Fluids Enters the 21st Century",
+      "https://www.quantamagazine.org/theory-of-fluids-enters-the-21st-century-20260817/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Bufo pulls the andon cord",
       "https://hatchet.run/blog/andon-cord"
-    ]
-  ],
-  [
-    [
-      "2026-08-16, 21:20:40",
-      "https://news.ycombinator.com/item?id=49323795"
-    ],
-    [
-      "A faster way to calculate the day of the week",
-      "https://www.benjoffe.com/fast-day-of-week"
     ]
   ],
   [
