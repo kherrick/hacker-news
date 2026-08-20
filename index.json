@@ -1,22 +1,42 @@
 [
   [
     [
+      "2026-08-20, 05:54:20",
+      "https://news.ycombinator.com/item?id=49370862"
+    ],
+    [
+      "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+      "https://openai.com/index/asana/"
+    ]
+  ],
+  [
+    [
+      "2026-08-20, 04:42:02",
+      "https://news.ycombinator.com/item?id=49370440"
+    ],
+    [
+      "Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?",
+      "https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621"
+    ]
+  ],
+  [
+    [
+      "2026-08-20, 03:31:56",
+      "https://news.ycombinator.com/item?id=49370083"
+    ],
+    [
+      "Zuckerberg encouraged growth over child safety, ex-Meta executive testifies",
+      "https://www.reuters.com/legal/litigation/former-meta-engineer-resumes-testimony-landmark-trial-over-social-medias-harm-2026-08-19/"
+    ]
+  ],
+  [
+    [
       "2026-08-20, 01:29:12",
       "https://news.ycombinator.com/item?id=49369408"
     ],
     [
       "Turns are Better than Radians (2022)",
       "https://www.computerenhance.com/p/turns-are-better-than-radians"
-    ]
-  ],
-  [
-    [
-      "2026-08-20, 00:05:12",
-      "https://news.ycombinator.com/item?id=49368828"
-    ],
-    [
-      "Universality of Gradient Descent Neural Network Training",
-      "https://arxiv.org/abs/2007.13664"
     ]
   ],
   [
@@ -37,16 +57,6 @@
     [
       "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
       "https://os8088.com/spotlight/"
-    ]
-  ],
-  [
-    [
-      "2026-08-19, 20:28:43",
-      "https://news.ycombinator.com/item?id=49366792"
-    ],
-    [
-      "DFlash 2: Keep Drafting Parallel",
-      "https://inco.ai/blog/dflash2/"
     ]
   ],
   [
@@ -235,7 +245,7 @@
       "https://news.ycombinator.com/item?id=49348189"
     ],
     [
-      "Sol Loves to Cheat",
+      "Sol loves to cheat",
       "https://jumploops.com/blog/sol-loves-to-cheat/"
     ]
   ],
@@ -251,12 +261,12 @@
   ],
   [
     [
-      "2026-08-15, 23:43:09",
-      "https://news.ycombinator.com/item?id=49315372"
+      "2026-08-16, 17:29:44",
+      "https://news.ycombinator.com/item?id=49321934"
     ],
     [
-      "Rewriting in Rust",
-      "https://blog.jetbrains.com/rust/2026/08/10/rewriting-in-rust/"
+      "Sectorforth is a 16-bit x86 Forth that fits in a 512-byte boot sector",
+      "https://github.com/cesarblum/sectorforth"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Xorshift Generators",
       "https://www.alanzucconi.com/2026/08/15/xorshift-generators/"
-    ]
-  ],
-  [
-    [
-      "2026-08-14, 03:24:10",
-      "https://news.ycombinator.com/item?id=49294441"
-    ],
-    [
-      "Error by AI scribe during medical appointment leaves patient devastated",
-      "https://www.abc.net.au/news/2026-08-14/ai-medical-scribe-error-leaves-patient-devastated/107031672"
     ]
   ],
   [
