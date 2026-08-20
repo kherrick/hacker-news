@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-08-20, 13:24:32",
+      "https://news.ycombinator.com/item?id=49374287"
+    ],
+    [
+      "DiffusionGemma Technical Report",
+      "https://arxiv.org/abs/2608.00146"
+    ]
+  ],
+  [
+    [
+      "2026-08-20, 13:23:12",
+      "https://news.ycombinator.com/item?id=49374269"
+    ],
+    [
+      "Malicious Rust Crate Arrayref Runs a Build-Time Payload",
+      "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/"
+    ]
+  ],
+  [
+    [
+      "2026-08-20, 13:12:21",
+      "https://news.ycombinator.com/item?id=49374162"
+    ],
+    [
+      "Canonical Backs New Project to Translate Large C Codebases into Safe Rust",
+      "https://linuxiac.com/canonical-backs-new-project-to-translate-large-c-codebases-into-safe-rust/"
+    ]
+  ],
+  [
+    [
+      "2026-08-20, 13:01:40",
+      "https://news.ycombinator.com/item?id=49374067"
+    ],
+    [
+      "UK internet age checks have boosted rogue adult sites, says Pornhub",
+      "https://www.ft.com/content/295c2eba-da29-434d-84e0-e9de3b0b1cc2"
+    ]
+  ],
+  [
+    [
       "2026-08-20, 12:19:37",
       "https://news.ycombinator.com/item?id=49373616"
     ],
@@ -101,36 +141,6 @@
   ],
   [
     [
-      "2026-08-19, 21:19:50",
-      "https://news.ycombinator.com/item?id=49367350"
-    ],
-    [
-      "Feature Request: Support AGENTS.md",
-      "https://github.com/anthropics/claude-code/issues/6235"
-    ]
-  ],
-  [
-    [
-      "2026-08-19, 21:11:31",
-      "https://news.ycombinator.com/item?id=49367256"
-    ],
-    [
-      "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
-      "https://os8088.com/spotlight/"
-    ]
-  ],
-  [
-    [
-      "2026-08-19, 19:43:48",
-      "https://news.ycombinator.com/item?id=49366264"
-    ],
-    [
-      "Pixel 11 Pro Fold feels like the end of an era",
-      "https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review"
-    ]
-  ],
-  [
-    [
       "2026-08-19, 19:06:16",
       "https://news.ycombinator.com/item?id=49365841"
     ],
@@ -187,16 +197,6 @@
     [
       "Casio F-B100W-1A",
       "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/"
-    ]
-  ],
-  [
-    [
-      "2026-08-19, 15:14:25",
-      "https://news.ycombinator.com/item?id=49362728"
-    ],
-    [
-      "Mathematics in the age of AI",
-      "https://arxiv.org/abs/2608.16753"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2026-08-16, 17:29:44",
-      "https://news.ycombinator.com/item?id=49321934"
-    ],
-    [
-      "Sectorforth is a 16-bit x86 Forth that fits in a 512-byte boot sector (2020)",
-      "https://github.com/cesarblum/sectorforth"
-    ]
-  ],
-  [
-    [
       "2026-08-15, 17:27:56",
       "https://news.ycombinator.com/item?id=49312446"
     ],
     [
       "Filtered Vector Search: What Acorn Fixes, and What Fixes Acorn",
       "https://qdrant.tech/articles/filtered-vector-search-acorn/"
+    ]
+  ],
+  [
+    [
+      "2026-08-14, 19:32:59",
+      "https://news.ycombinator.com/item?id=49303545"
+    ],
+    [
+      "Show HN: Streambench – Native Mac Client for Kafka and NATS",
+      "https://streambench.app"
     ]
   ]
 ]
