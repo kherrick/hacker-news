@@ -40,6 +40,7 @@
 * [2026-08-12, 16:20:22](https://news.ycombinator.com/item?id=49274854) - [Bike Bureau: Report Bike Lane Obstructions](https://loudbicycle.com/bb)
 * [2026-08-12, 16:14:37](https://news.ycombinator.com/item?id=49274757) - [Pixel Watch 5](https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/)
 * [2026-08-12, 16:04:50](https://news.ycombinator.com/item?id=49274600) - [DeepSeek V4 Pro 0813](https://openrouter.ai/deepseek/deepseek-v4-pro-0813)
+* [2026-08-12, 15:50:34](https://news.ycombinator.com/item?id=49274336) - [How do payments work in the US, China, and Brazil?](https://andrewacomb.substack.com/p/a-tale-of-three-refunds)
 * [2026-08-12, 15:32:50](https://news.ycombinator.com/item?id=49274027) - [Grok 4.6](https://x.ai/news/grok-4-6)
 * [2026-08-12, 15:27:14](https://news.ycombinator.com/item?id=49273922) - [Show HN: OJCP – an open protocol for agent-consumable job data](https://ojcp.dev/)
 * [2026-08-12, 15:01:17](https://news.ycombinator.com/item?id=49273478) - [Qwen/Qwen3.8-2.4T-A95B](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B)

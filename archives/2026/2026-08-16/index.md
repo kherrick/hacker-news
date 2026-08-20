@@ -13,6 +13,7 @@
 * [2026-08-16, 21:40:39](https://news.ycombinator.com/item?id=49323983) - [Wellington second-hand bookstore's mysterious orders](https://www.rnz.co.nz/life/books/wellington-second-hand-book-store-s-mysterious-orders)
 * [2026-08-16, 21:34:06](https://news.ycombinator.com/item?id=49323932) - [Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe](https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll)
 * [2026-08-16, 21:28:59](https://news.ycombinator.com/item?id=49323874) - [Stop Turning every purchase into a tip request](https://www.foxnews.com/opinion/america-needs-stop-turning-every-purchase-uncomfortable-tip-request)
+* [2026-08-16, 21:20:40](https://news.ycombinator.com/item?id=49323795) - [A faster way to calculate the day of the week](https://www.benjoffe.com/fast-day-of-week)
 * [2026-08-16, 21:07:10](https://news.ycombinator.com/item?id=49323686) - [Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee](https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/)
 * [2026-08-16, 21:00:25](https://news.ycombinator.com/item?id=49323620) - [Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast](https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15/)
 * [2026-08-16, 20:41:57](https://news.ycombinator.com/item?id=49323474) - [How I developed an Am29000 C compiler and web browser](https://nanochess.org/am29000_c_compiler_web_browser.html)
