@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-20, 21:42:51](https://news.ycombinator.com/item?id=49380671) - [Scientists Release Biggest 2D Map of the Universe](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/)
+* [2026-08-20, 21:32:10](https://news.ycombinator.com/item?id=49380555) - [Pursuit of AGI](https://cognitus.grrn.io)
+* [2026-08-20, 21:25:48](https://news.ycombinator.com/item?id=49380491) - [Citizen Devs: Everyone is an engineer now](https://www.massdriver.cloud/blogs/the-citizen-developer)
+* [2026-08-20, 21:24:57](https://news.ycombinator.com/item?id=49380482) - [Code as an Artifact](https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/)
 * [2026-08-20, 20:07:26](https://news.ycombinator.com/item?id=49379550) - [Aaron Swartz was prosecuted for scraping, while Meta does it without consequence](https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/)
-* [2026-08-20, 19:46:06](https://news.ycombinator.com/item?id=49379253) - [Stop eating Lady Gaga's Oreos](https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos)
-* [2026-08-20, 19:28:18](https://news.ycombinator.com/item?id=49379026) - [GitHub, autoscaling, and the component substitution fallacy](https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/)
 * [2026-08-20, 19:22:24](https://news.ycombinator.com/item?id=49378957) - [The August 17 outage, and the work ahead](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/)
 * [2026-08-20, 19:21:45](https://news.ycombinator.com/item?id=49378950) - [Tidal Cycles – Live coding music with Algorithmic patterns](https://tidalcycles.org/)
 * [2026-08-20, 19:19:53](https://news.ycombinator.com/item?id=49378933) - [SpacetimeDB: A Short Technical Review](https://strn.cat/posts/spacetime/)
@@ -12,7 +14,6 @@
 * [2026-08-20, 18:19:51](https://news.ycombinator.com/item?id=49378243) - [Consumer Rights Wiki](https://consumerrights.wiki/w/Main_Page)
 * [2026-08-20, 17:50:02](https://news.ycombinator.com/item?id=49377853) - [I should have loved biology (2020)](https://jsomers.net/i-should-have-loved-biology/)
 * [2026-08-20, 17:40:49](https://news.ycombinator.com/item?id=49377739) - [Project Cybersyn (2022)](https://bactra.org/notebooks/cybersyn.html)
-* [2026-08-20, 17:33:32](https://news.ycombinator.com/item?id=49377660) - [Show HN: We chased a weather balloon across Montana and never found it](https://radi8.dev/blog/uplink/)
 * [2026-08-20, 17:01:05](https://news.ycombinator.com/item?id=49377248) - [Sixtyfour (YC P25) Is Hiring](https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern)
 * [2026-08-20, 15:50:57](https://news.ycombinator.com/item?id=49376332) - [How to compromise your system with a job interview](https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview)
 * [2026-08-20, 15:46:18](https://news.ycombinator.com/item?id=49376265) - [Linux 7.2](https://www.igalia.com/2026/08/19/Linux-72-Released.html)
@@ -29,7 +30,6 @@
 * [2026-08-18, 16:23:24](https://news.ycombinator.com/item?id=49348079) - [Mojo is now open source](https://www.modular.com/blog/mojo-open-source)
 * [2026-08-18, 15:50:52](https://news.ycombinator.com/item?id=49347543) - [I like 'em thick: an apology to my English teachers](https://www.experimental-history.com/p/i-like-em-thick)
 * [2026-08-16, 11:26:45](https://news.ycombinator.com/item?id=49319011) - [I Analyzed 163K Lines of Kuzu's Codebase. Here's Why Apple Wanted It](https://medium.com/data-science-collective/i-analyzed-163k-lines-of-kuzus-codebase-here-s-why-apple-wanted-it-12294a7035fa)
-* [2026-08-15, 18:06:39](https://news.ycombinator.com/item?id=49312797) - [Fossilisation processes and our reading of animal antiquity](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(23)00137-4)
 
 ## [Archives](archives/index.md)
 
