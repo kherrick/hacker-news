@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-20, 10:38:06",
+      "https://news.ycombinator.com/item?id=49372792"
+    ],
+    [
+      "If this is true, the hyperscalers are toast",
+      "https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers"
+    ]
+  ],
+  [
+    [
       "2026-08-20, 10:08:52",
       "https://news.ycombinator.com/item?id=49372583"
     ],
@@ -257,16 +267,6 @@
     [
       "Sectorforth is a 16-bit x86 Forth that fits in a 512-byte boot sector (2020)",
       "https://github.com/cesarblum/sectorforth"
-    ]
-  ],
-  [
-    [
-      "2026-08-16, 05:48:41",
-      "https://news.ycombinator.com/item?id=49317246"
-    ],
-    [
-      "What's missing to have reproducible builds on PyPI",
-      "https://snarky.ca/whats-missing-to-have-reproducible-builds-on-pypi/"
     ]
   ],
   [
