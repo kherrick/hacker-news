@@ -1,13 +1,15 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-08-20, 18:02:55](https://news.ycombinator.com/item?id=49378036) - [Bitflash: A Tor-native revival of Bitcoin 0.1.0, mined on CPUs with RandomX](https://bitflash.network/)
+* [2026-08-20, 19:01:17](https://news.ycombinator.com/item?id=49378724) - [Seeking God in Science Part 10.5: The Mind-Body Problem (Take 2)](http://blog.rongarret.info/2026/08/seeking-god-in-science-part-105-mind.html)
+* [2026-08-20, 18:54:32](https://news.ycombinator.com/item?id=49378630) - [Scientific study reveals TikTok videos deactivate key cognitive brain regions](https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/)
+* [2026-08-20, 18:25:30](https://news.ycombinator.com/item?id=49378305) - [Show HN: Kandelo – a POSIX-compatible multi-process WASM kernel for the browser](https://kandelo.dev/20260819-demo/)
+* [2026-08-20, 18:19:51](https://news.ycombinator.com/item?id=49378243) - [Consumer Rights Wiki](https://consumerrights.wiki/w/Main_Page)
 * [2026-08-20, 17:55:16](https://news.ycombinator.com/item?id=49377923) - [Optimizing things in the USSR (2016)](https://chris-said.io/2016/05/11/optimizing-things-in-the-ussr/)
 * [2026-08-20, 17:50:02](https://news.ycombinator.com/item?id=49377853) - [I should have loved biology](https://jsomers.net/i-should-have-loved-biology/)
 * [2026-08-20, 17:40:49](https://news.ycombinator.com/item?id=49377739) - [Project Cybersyn](https://bactra.org/notebooks/cybersyn.html)
 * [2026-08-20, 17:33:32](https://news.ycombinator.com/item?id=49377660) - [Show HN: We chased a weather balloon across Montana and never found it](https://radi8.dev/blog/uplink/)
 * [2026-08-20, 17:23:22](https://news.ycombinator.com/item?id=49377535) - [URL shortener links stored in your ATProto PDS](https://atpr.to/)
 * [2026-08-20, 17:01:05](https://news.ycombinator.com/item?id=49377248) - [Sixtyfour (YC P25) Is Hiring](https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern)
-* [2026-08-20, 16:53:55](https://news.ycombinator.com/item?id=49377155) - [AI at Home Part 2: Multi-GPU Drifting](https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html)
 * [2026-08-20, 15:50:57](https://news.ycombinator.com/item?id=49376332) - [How to compromise your system with a job interview](https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview)
 * [2026-08-20, 15:46:18](https://news.ycombinator.com/item?id=49376265) - [Linux 7.2](https://www.igalia.com/2026/08/19/Linux-72-Released.html)
 * [2026-08-20, 15:41:48](https://news.ycombinator.com/item?id=49376211) - [Generic Methods in Go 1.27](https://dominik.info/blog/go-generic-methods)
@@ -16,7 +18,6 @@
 * [2026-08-20, 14:38:28](https://news.ycombinator.com/item?id=49375237) - [Show HN: Check if any of the $656M in unclaimed royalties at The MLC is yours](https://pub.doub.ly/)
 * [2026-08-20, 14:14:39](https://news.ycombinator.com/item?id=49374873) - [An elliptic curve of rank ≥ 30](https://elliptic-rank.icarm.cloud/curve/273)
 * [2026-08-20, 14:12:08](https://news.ycombinator.com/item?id=49374830) - [Show HN: Omacosy – Omarchy-style tiling desktop for macOS, no SIP](https://github.com/paulsp94/omacosy)
-* [2026-08-20, 14:08:09](https://news.ycombinator.com/item?id=49374772) - [Hacking with Claude on a $27 Smart Watch](https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html)
 * [2026-08-20, 13:56:59](https://news.ycombinator.com/item?id=49374635) - [Every Model Cheats](https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/)
 * [2026-08-20, 13:24:32](https://news.ycombinator.com/item?id=49374287) - [DiffusionGemma Technical Report](https://arxiv.org/abs/2608.00146)
 * [2026-08-20, 13:23:12](https://news.ycombinator.com/item?id=49374269) - [Malicious Rust crate Arrayref runs a build-time payload](https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/)
@@ -29,7 +30,6 @@
 * [2026-08-18, 16:26:56](https://news.ycombinator.com/item?id=49348141) - [Git at any scale](https://cursor.com/blog/git-at-any-scale)
 * [2026-08-18, 16:23:24](https://news.ycombinator.com/item?id=49348079) - [Mojo is now open source](https://www.modular.com/blog/mojo-open-source)
 * [2026-08-18, 15:50:52](https://news.ycombinator.com/item?id=49347543) - [I like 'em thick: an apology to my English teachers](https://www.experimental-history.com/p/i-like-em-thick)
-* [2026-08-15, 18:28:15](https://news.ycombinator.com/item?id=49312999) - [Show HN: sce (Simple Console Editor)](https://github.com/volution/simple-console-editor)
 
 ## [Archives](archives/index.md)
 

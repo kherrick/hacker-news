@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-08-20](index.md)
 
+* [2026-08-20, 19:01:17](https://news.ycombinator.com/item?id=49378724) - [Seeking God in Science Part 10.5: The Mind-Body Problem (Take 2)](http://blog.rongarret.info/2026/08/seeking-god-in-science-part-105-mind.html)
+* [2026-08-20, 18:54:32](https://news.ycombinator.com/item?id=49378630) - [Scientific study reveals TikTok videos deactivate key cognitive brain regions](https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/)
+* [2026-08-20, 18:25:30](https://news.ycombinator.com/item?id=49378305) - [Show HN: Kandelo – a POSIX-compatible multi-process WASM kernel for the browser](https://kandelo.dev/20260819-demo/)
+* [2026-08-20, 18:19:51](https://news.ycombinator.com/item?id=49378243) - [Consumer Rights Wiki](https://consumerrights.wiki/w/Main_Page)
 * [2026-08-20, 18:02:55](https://news.ycombinator.com/item?id=49378036) - [Bitflash: A Tor-native revival of Bitcoin 0.1.0, mined on CPUs with RandomX](https://bitflash.network/)
 * [2026-08-20, 17:55:16](https://news.ycombinator.com/item?id=49377923) - [Optimizing things in the USSR (2016)](https://chris-said.io/2016/05/11/optimizing-things-in-the-ussr/)
 * [2026-08-20, 17:50:02](https://news.ycombinator.com/item?id=49377853) - [I should have loved biology](https://jsomers.net/i-should-have-loved-biology/)
