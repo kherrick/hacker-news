@@ -129,26 +129,81 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="49378724">
+        <section id="49378957">
           <h3>
             <a
               class="item"
-              href="http://blog.rongarret.info/2026/08/seeking-god-in-science-part-105-mind.html"
-              >Seeking God in Science Part 10.5: The Mind-Body Problem (Take
-              2)</a
+              href="https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/"
+              >The August 17 outage, and the work ahead</a
             >
           </h3>
           <section>
             <h4>
-              <span>2026-08-20 @ 19:01:17</span
+              <span>2026-08-20 @ 19:22:24</span
               ><span class="points-container"
-                >Points: <span class="points">4</span></span
+                >Points: <span class="points">41</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49378724"
+                ><a href="https://news.ycombinator.com/item?id=49378957"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 56</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="49378768">
+          <h3>
+            <a class="item" href="https://www.danielvaughn.dev/posts/huzzah/"
+              >Show HN: Huzzah – a novel approach to coding with AI</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-08-20 @ 19:05:36</span
+              ><span class="points-container"
+                >Points: <span class="points">33</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49378768"
+                  >Comments</a
+                ><span class="descendants">: 16</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                I've been working almost exclusively with coding agents since
+                January of this year, and over the past few months I began to
+                feel utterly exhausted by them. They're great, but I'm finding
+                it more and more tedious to write full sentences for every
+                change I want. Not only that, but it seems there's a complexity
+                limit for codebases - beyond a certain point the agent begins
+                confusing itself.
+              </p>
+              <p>
+                I'd like to go back to writing code, but I don't want to go all
+                the way back to fully manual coding. So I've come up with this
+                interaction paradigm where you:
+              </p>
+              <p></p>
+              <pre><code>  1. write pseudocode in whatever way makes the most sense to you
+  2. on save, the editor synchronizes your work to real source code
+  3. the pseudocode is persisted alongside the generated code, making your prompt effectively a stored record of intent.
+</code></pre>
+              It may not work for every use case, but in my initial playthroughs
+              I've found it very enjoyable.
+              <p>
+                Right now it's just a proof of concept - installation
+                instructions are here in the readme:
+                <a href="https://github.com/danielvaughn/hz"
+                  >https://github.com/danielvaughn/hz</a
+                >
+              </p>
+              <p>
+                You can also watch a video of it in action here:
+                <a href="https://x.com/danielvaughn/status/2090456808431165715"
+                  >https://x.com/danielvaughn/status/2090456808431165715</a
+                >
+              </p>
+              <p>Cheers!</p>
+            </div>
           </section>
         </section>
         <section id="49378630">
@@ -164,129 +219,13 @@
             <h4>
               <span>2026-08-20 @ 18:54:32</span
               ><span class="points-container"
-                >Points: <span class="points">117</span></span
+                >Points: <span class="points">177</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49378630"
                   >Comments</a
-                ><span class="descendants">: 45</span></span
+                ><span class="descendants">: 69</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="49378305">
-          <h3>
-            <a class="item" href="https://kandelo.dev/20260819-demo/"
-              >Show HN: Kandelo – a POSIX-compatible multi-process WASM kernel
-              for the browser</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-08-20 @ 18:25:30</span
-              ><span class="points-container"
-                >Points: <span class="points">6</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49378305"
-                  >Comments</a
-                ><span class="descendants">: 2</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                Kandelo is still experimental, but it already runs a substantial
-                range of existing software.
-              </p>
-              <p><i>Do you have use cases for this?</i></p>
-              <p>
-                We are trying Kandelo as a new foundation for WordPress
-                Playground which runs server-side WordPress entirely in the
-                browser. Kandelo also looks promising as a sandbox for running
-                agents in the the browser and on the command line. On the side,
-                we've been playing with porting games and desktop environments
-                and even compiling runnable programs within Kandelo.
-              </p>
-              <p>
-                Yet it feels like there are many possibilities we haven't
-                considered.
-              </p>
-              <p>How would you like to use something like this?</p>
-              <p><i>Demos:</i></p>
-              <p>
-                Some notes: The demos have been tested in desktop browsers.
-                Unfortunately, YMMV on mobile today. Some of the disk images are
-                large (~50MB) and may take a while to boot initially.
-              </p>
-              <p>
-                Main set, with Shell (bash, vim, nethack, and more), Nginx, PHP,
-                WordPress, and Doom:
-                <a href="https://kandelo.dev/20260819-demo/"
-                  >https://kandelo.dev/20260819-demo/</a
-                >
-              </p>
-              <p>
-                LÖVE game engine:
-                <a href="https://kandelo.dev/20260819-demo-love/"
-                  >https://kandelo.dev/20260819-demo-love/</a
-                >
-              </p>
-              <p>
-                SNKRX running under LÖVE:
-                <a
-                  href="https://kandelo.dev/20260819-demo-love/?vfs=love-snkrx-abi44.vfs.zst"
-                  >https://kandelo.dev/20260819-demo-love/?vfs=love-snkrx-abi44...</a
-                >
-              </p>
-              <p>
-                Commander Keen running in DOSBox:
-                <a href="https://kandelo.dev/20260819-demo-dos/?demo=keen"
-                  >https://kandelo.dev/20260819-demo-dos/?demo=keen</a
-                >
-              </p>
-              <p>
-                LXDE desktop PoC:
-                <a
-                  href="https://kandelo.dev/20260819-demo-lxde/?demo=desktop-lxde"
-                  >https://kandelo.dev/20260819-demo-lxde/?demo=desktop-lxde</a
-                >
-              </p>
-              <p><i>Background</i></p>
-              <p>
-                I wanted an authentic OS-level foundation for running systems
-                software in the browser and started this as a vibe-coded
-                exploration. I figured it would end up being too slow and that
-                we would have to offer many different ways to compromise default
-                POSIX behavior to get anything usable. But after weeks of
-                fighting agents, insisting on genuine POSIX compatibility as the
-                default, I was surprised at how well the system worked without
-                those compromises.
-              </p>
-              <p>
-                Nginx, PHP, Python, Ruby, Redis, and even MariaDB were able to
-                be built using the SDK with minimal hacks.
-              </p>
-              <p>
-                Then we started porting games, having fun, and playing to see
-                how far we could push it.
-              </p>
-              <p><i>Notes on architecture:</i></p>
-              <p>
-                There is a central, single-worker kernel, aiming to provide all
-                supportable POSIX syscalls. Each process is a dedicated worker
-                with independent memory. Each process thread is a dedicated
-                worker that shares memory with threads from the same process.
-                Syscalls are done with the process SharedArrayBuffer and the
-                Atomics API. fork() is supported. The system is centered around
-                virtual file system (VFS) images, and the VFS can contain lazy
-                references to programs that may or may not be used. Vim is such
-                a reference in the shell demo.
-              </p>
-              <p>
-                <i>On GitHub:</i>
-                <a href="https://github.com/Automattic/kandelo"
-                  >https://github.com/Automattic/kandelo</a
-                >
-              </p>
-            </div>
           </section>
         </section>
         <section id="49378243">
@@ -299,7 +238,7 @@
             <h4>
               <span>2026-08-20 @ 18:19:51</span
               ><span class="points-container"
-                >Points: <span class="points">19</span></span
+                >Points: <span class="points">31</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49378243"
                   >Comments</a
@@ -320,11 +259,11 @@
             <h4>
               <span>2026-08-20 @ 17:55:16</span
               ><span class="points-container"
-                >Points: <span class="points">21</span></span
+                >Points: <span class="points">25</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49377923"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
           </section>
@@ -341,11 +280,11 @@
             <h4>
               <span>2026-08-20 @ 17:50:02</span
               ><span class="points-container"
-                >Points: <span class="points">90</span></span
+                >Points: <span class="points">110</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49377853"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 41</span></span
               >
             </h4>
           </section>
@@ -353,18 +292,18 @@
         <section id="49377739">
           <h3>
             <a class="item" href="https://bactra.org/notebooks/cybersyn.html"
-              >Project Cybersyn</a
+              >Project Cybersyn (2022)</a
             >
           </h3>
           <section>
             <h4>
               <span>2026-08-20 @ 17:40:49</span
               ><span class="points-container"
-                >Points: <span class="points">29</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49377739"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
@@ -380,11 +319,11 @@
             <h4>
               <span>2026-08-20 @ 17:33:32</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">36</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49377660"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
             <div class="text">
@@ -477,11 +416,11 @@
             <h4>
               <span>2026-08-20 @ 15:50:57</span
               ><span class="points-container"
-                >Points: <span class="points">82</span></span
+                >Points: <span class="points">92</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49376332"
                   >Comments</a
-                ><span class="descendants">: 49</span></span
+                ><span class="descendants">: 58</span></span
               >
             </h4>
           </section>
@@ -498,11 +437,11 @@
             <h4>
               <span>2026-08-20 @ 15:46:18</span
               ><span class="points-container"
-                >Points: <span class="points">111</span></span
+                >Points: <span class="points">119</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49376265"
                   >Comments</a
-                ><span class="descendants">: 42</span></span
+                ><span class="descendants">: 45</span></span
               >
             </h4>
           </section>
@@ -517,11 +456,11 @@
             <h4>
               <span>2026-08-20 @ 15:41:48</span
               ><span class="points-container"
-                >Points: <span class="points">53</span></span
+                >Points: <span class="points">54</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49376211"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
@@ -537,7 +476,7 @@
             <h4>
               <span>2026-08-20 @ 15:29:52</span
               ><span class="points-container"
-                >Points: <span class="points">27</span></span
+                >Points: <span class="points">28</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49376038"
                   >Comments</a
@@ -683,7 +622,7 @@
             <h4>
               <span>2026-08-20 @ 14:38:45</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">49</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49375244"
                   >Comments</a
@@ -711,108 +650,6 @@
             </div>
           </section>
         </section>
-        <section id="49375237">
-          <h3>
-            <a class="item" href="https://pub.doub.ly/"
-              >Show HN: Check if any of the $656M in unclaimed royalties at The
-              MLC is yours</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-08-20 @ 14:38:28</span
-              ><span class="points-container"
-                >Points: <span class="points">53</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49375237"
-                  >Comments</a
-                ><span class="descendants">: 31</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                When music is streamed on digital streaming platforms (think
-                Spotify, Apple Music, Pandora), there are two separate royalty
-                streams: one for the recording, paid through your distributor
-                (DistroKid, TuneCore, CDBaby), and one for the underlying work
-                (generally known as publishing). The work side's mechanical
-                royalties are collected by The MLC, a nonprofit that was created
-                by the 2018 Music Modernization Act (MMA). If you haven't
-                registered your songs with The MLC, there are issues with your
-                metadata, or about half a dozen other reasons, that money will
-                never reach you, it just collects in a big pile we call the
-                "black box".
-              </p>
-              <p>
-                That pile is big. The MLC's own dashboard currently shows over
-                $656M is held (themlc.com/blanket-royalties), and the biggest
-                problem is the MMA dictates that The MLC cannot hold that money
-                indefinitely. At some point, by law, The MLC must distribute
-                this big pile of cash, and since they don't know who it's
-                supposed to go to, they pay it out through a process called
-                "market share" (themlc.com/marketshare). Market share means they
-                pay it out, pro-rata, to the artists, songwriters and publishers
-                that are in the system, which in practice means the largest
-                publishers collect most of the leftovers.
-              </p>
-              <p>
-                This is slated to begin in January 2027 and will pay portions of
-                the pool out monthly (themlc.com/unclaimed-accrued-royalties),
-                as of this morning, the next 12 months of market share sums up
-                to $76.61M, starting with $6.41M in January.
-              </p>
-              <p>
-                Full disclosure: I run Doubly, which is an independent
-                publishing administrator, so I have a commercial interest in
-                this space. That being said, we're a team of two people and we
-                don't have the bandwidth to directly assist the hundreds of
-                thousands of artists and songwriters who are going to start
-                losing this money in January 2027.
-              </p>
-              <p>
-                That's why I built this self-service tool, no signup, no email,
-                no paywall, the reports are completely actionable without
-                needing anything from us.
-              </p>
-              <p>
-                The tool: paste a Spotify artist link (or search for a Spotify
-                artist by name). It pulls every release on that profile, checks
-                each recording against The MLC's public bulk data, and tells you
-                per-song whether it's fully claimed, partially claimed,
-                registered but unmatched, or missing entirely. It then provides
-                a link to the exact MLC tool that fixes each case. It also
-                estimates the dollars stuck, as a rough range.
-              </p>
-              <p>
-                Even if you're not an artist yourself, you probably know someone
-                who is a musician, please share it with them.
-              </p>
-              <p>
-                Thanks for your time and I'm happy to answer any questions about
-                the industry as a whole, The MLC, the tech, anything really.
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="49374873">
-          <h3>
-            <a class="item" href="https://elliptic-rank.icarm.cloud/curve/273"
-              >An elliptic curve of rank ≥ 30</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2026-08-20 @ 14:14:39</span
-              ><span class="points-container"
-                >Points: <span class="points">70</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=49374873"
-                  >Comments</a
-                ><span class="descendants">: 23</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="49374830">
           <h3>
             <a class="item" href="https://github.com/paulsp94/omacosy"
@@ -824,11 +661,11 @@
             <h4>
               <span>2026-08-20 @ 14:12:08</span
               ><span class="points-container"
-                >Points: <span class="points">26</span></span
+                >Points: <span class="points">30</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49374830"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
             <div class="text">
@@ -871,11 +708,11 @@
             <h4>
               <span>2026-08-20 @ 13:56:59</span
               ><span class="points-container"
-                >Points: <span class="points">57</span></span
+                >Points: <span class="points">61</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49374635"
                   >Comments</a
-                ><span class="descendants">: 39</span></span
+                ><span class="descendants">: 42</span></span
               >
             </h4>
           </section>
@@ -890,7 +727,7 @@
             <h4>
               <span>2026-08-20 @ 13:24:32</span
               ><span class="points-container"
-                >Points: <span class="points">113</span></span
+                >Points: <span class="points">116</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49374287"
                   >Comments</a
@@ -911,11 +748,11 @@
             <h4>
               <span>2026-08-20 @ 13:23:12</span
               ><span class="points-container"
-                >Points: <span class="points">302</span></span
+                >Points: <span class="points">315</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49374269"
                   >Comments</a
-                ><span class="descendants">: 265</span></span
+                ><span class="descendants">: 276</span></span
               >
             </h4>
             <div class="text">
@@ -943,11 +780,11 @@
             <h4>
               <span>2026-08-20 @ 12:50:16</span
               ><span class="points-container"
-                >Points: <span class="points">96</span></span
+                >Points: <span class="points">102</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49373932"
                   >Comments</a
-                ><span class="descendants">: 70</span></span
+                ><span class="descendants">: 73</span></span
               >
             </h4>
           </section>
@@ -965,7 +802,7 @@
             <h4>
               <span>2026-08-20 @ 12:04:38</span
               ><span class="points-container"
-                >Points: <span class="points">401</span></span
+                >Points: <span class="points">411</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49373456"
                   >Comments</a
@@ -1000,11 +837,11 @@
             <h4>
               <span>2026-08-20 @ 10:08:52</span
               ><span class="points-container"
-                >Points: <span class="points">741</span></span
+                >Points: <span class="points">755</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49372583"
                   >Comments</a
-                ><span class="descendants">: 247</span></span
+                ><span class="descendants">: 251</span></span
               >
             </h4>
           </section>
@@ -1021,11 +858,11 @@
             <h4>
               <span>2026-08-20 @ 06:16:40</span
               ><span class="points-container"
-                >Points: <span class="points">328</span></span
+                >Points: <span class="points">331</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49371006"
                   >Comments</a
-                ><span class="descendants">: 122</span></span
+                ><span class="descendants">: 123</span></span
               >
             </h4>
           </section>
@@ -1042,11 +879,11 @@
             <h4>
               <span>2026-08-20 @ 00:15:01</span
               ><span class="points-container"
-                >Points: <span class="points">244</span></span
+                >Points: <span class="points">256</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49368886"
                   >Comments</a
-                ><span class="descendants">: 145</span></span
+                ><span class="descendants">: 153</span></span
               >
             </h4>
             <div class="text">
@@ -1064,11 +901,31 @@
             <h4>
               <span>2026-08-19 @ 15:11:36</span
               ><span class="points-container"
-                >Points: <span class="points">398</span></span
+                >Points: <span class="points">420</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49362689"
                   >Comments</a
-                ><span class="descendants">: 112</span></span
+                ><span class="descendants">: 115</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49360140">
+          <h3>
+            <a class="item" href="https://arxiv.org/abs/2504.09762"
+              >Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking
+              Traces</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-08-19 @ 11:35:26</span
+              ><span class="points-container"
+                >Points: <span class="points">171</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49360140"
+                  >Comments</a
+                ><span class="descendants">: 76</span></span
               >
             </h4>
           </section>
@@ -1083,11 +940,11 @@
             <h4>
               <span>2026-08-18 @ 16:26:56</span
               ><span class="points-container"
-                >Points: <span class="points">204</span></span
+                >Points: <span class="points">218</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49348141"
                   >Comments</a
-                ><span class="descendants">: 47</span></span
+                ><span class="descendants">: 51</span></span
               >
             </h4>
           </section>
@@ -1102,7 +959,7 @@
             <h4>
               <span>2026-08-18 @ 16:23:24</span
               ><span class="points-container"
-                >Points: <span class="points">280</span></span
+                >Points: <span class="points">283</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49348079"
                   >Comments</a
@@ -1123,11 +980,32 @@
             <h4>
               <span>2026-08-18 @ 15:50:52</span
               ><span class="points-container"
-                >Points: <span class="points">386</span></span
+                >Points: <span class="points">408</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=49347543"
                   >Comments</a
-                ><span class="descendants">: 181</span></span
+                ><span class="descendants">: 193</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="49290082">
+          <h3>
+            <a
+              class="item"
+              href="https://dl.acm.org/doi/10.1145/3759429.3762631"
+              >Gauguin, Descartes, Bayes: A Diurnal Golem's Brain</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2026-08-13 @ 18:30:21</span
+              ><span class="points-container"
+                >Points: <span class="points">11</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=49290082"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
