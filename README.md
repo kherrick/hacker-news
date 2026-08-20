@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-08-20, 22:47:52](https://news.ycombinator.com/item?id=49381311) - [Detecting scraper bots through scroll behaviour](https://niki.cat/detecting-scraper-bots-through-scroll-behaviour)
-* [2026-08-20, 21:42:51](https://news.ycombinator.com/item?id=49380671) - [Scientists Release Biggest 2D Map of the Universe](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/)
 * [2026-08-20, 21:24:57](https://news.ycombinator.com/item?id=49380482) - [Code as an Artifact](https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/)
 * [2026-08-20, 21:01:24](https://news.ycombinator.com/item?id=49380226) - [The Wonders of the Male Human Pelvis](https://nautil.us/the-wonders-of-the-male-human-pelvis-1283947)
 * [2026-08-20, 20:07:26](https://news.ycombinator.com/item?id=49379550) - [Aaron Swartz was prosecuted for scraping, while Meta does it without consequence](https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/)
@@ -26,6 +25,7 @@
 * [2026-08-20, 10:08:52](https://news.ycombinator.com/item?id=49372583) - [AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html)
 * [2026-08-20, 00:15:01](https://news.ycombinator.com/item?id=49368886) - [CIA funding helped keep NeXT afloat in the 80s](https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink)
 * [2026-08-19, 15:11:36](https://news.ycombinator.com/item?id=49362689) - [HTML Can Do That](https://chrisburnell.com/html-can-do-that/)
+* [2026-08-18, 16:26:56](https://news.ycombinator.com/item?id=49348141) - [Git at any scale](https://cursor.com/blog/git-at-any-scale)
 * [2026-08-18, 16:23:24](https://news.ycombinator.com/item?id=49348079) - [Mojo is now open source](https://www.modular.com/blog/mojo-open-source)
 * [2026-08-18, 15:50:52](https://news.ycombinator.com/item?id=49347543) - [I like 'em thick: an apology to my English teachers](https://www.experimental-history.com/p/i-like-em-thick)
 * [2026-08-17, 18:26:53](https://news.ycombinator.com/item?id=49335490) - [In Which I Lose My Mind over Embeddings (HPLM Chapter 2)](https://www.maayanroth.com/blog/posts/hundred-page-lm-book-chapter-2.html)
