@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-08-20](index.md)
 
+* [2026-08-20, 17:33:32](https://news.ycombinator.com/item?id=49377660) - [Show HN: We chased a weather balloon across Montana and never found it](https://radi8.dev/blog/uplink/)
+* [2026-08-20, 17:23:22](https://news.ycombinator.com/item?id=49377535) - [URL shortener links stored in your ATProto PDS](https://atpr.to/)
+* [2026-08-20, 17:01:09](https://news.ycombinator.com/item?id=49377249) - [The Defense-Tech Bubble Is Headed for Consolidation](https://foxandlion.pub/analysis/the-defense-tech-bubble-is-headed-for-consolidation)
 * [2026-08-20, 17:01:05](https://news.ycombinator.com/item?id=49377248) - [Sixtyfour (YC P25) Is Hiring](https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern)
 * [2026-08-20, 15:50:57](https://news.ycombinator.com/item?id=49376332) - [How to compromise your system with a job interview](https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview)
 * [2026-08-20, 15:46:18](https://news.ycombinator.com/item?id=49376265) - [Linux 7.2 Released](https://www.igalia.com/2026/08/19/Linux-72-Released.html)
@@ -16,6 +19,7 @@
 * [2026-08-20, 14:21:25](https://news.ycombinator.com/item?id=49374965) - [Slack Code](https://www.salesforce.com/introducing-slack-code/?bc=HL)
 * [2026-08-20, 14:18:16](https://news.ycombinator.com/item?id=49374920) - [Harvest hikes bills by 1500% after purchased by Bending Spoons](https://www.bbc.com/news/articles/clyq011414eo)
 * [2026-08-20, 14:14:39](https://news.ycombinator.com/item?id=49374873) - [An elliptic curve of rank ≥ 30](https://elliptic-rank.icarm.cloud/curve/273)
+* [2026-08-20, 14:12:08](https://news.ycombinator.com/item?id=49374830) - [Show HN: Omacosy – Omarchy-style tiling desktop for macOS, no SIP](https://github.com/paulsp94/omacosy)
 * [2026-08-20, 14:10:12](https://news.ycombinator.com/item?id=49374797) - [Bun 1.4](https://bun.com/blog/bun-v1.4)
 * [2026-08-20, 14:08:09](https://news.ycombinator.com/item?id=49374772) - [Hacking with Claude on a $27 Smart Watch](https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html)
 * [2026-08-20, 14:04:46](https://news.ycombinator.com/item?id=49374738) - [Stwipe Acquires OpenWouter](https://stwipe.com/)
