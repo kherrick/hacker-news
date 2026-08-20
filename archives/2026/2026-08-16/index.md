@@ -32,6 +32,7 @@
 * [2026-08-16, 17:29:44](https://news.ycombinator.com/item?id=49321934) - [Sectorforth is a 16-bit x86 Forth that fits in a 512-byte boot sector](https://github.com/cesarblum/sectorforth)
 * [2026-08-16, 17:10:04](https://news.ycombinator.com/item?id=49321783) - [Ordinary WiFi can now identify you with near-perfect accuracy](https://www.sciencedaily.com/releases/2026/08/260811052857.htm)
 * [2026-08-16, 17:01:07](https://news.ycombinator.com/item?id=49321717) - [A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"](https://rvembedded.com/blog_post/12/)
+* [2026-08-16, 16:32:50](https://news.ycombinator.com/item?id=49321515) - [An American Mosaic (interactive map of ancestry census data)](https://www.nytimes.com/interactive/2026/07/01/us/america-ancestry-census-data-map.html)
 * [2026-08-16, 16:14:55](https://news.ycombinator.com/item?id=49321353) - [NIH is ending a key grant for budding clinical researchers](https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers)
 * [2026-08-16, 16:08:57](https://news.ycombinator.com/item?id=49321298) - [Being Ambitious and Being a Dad](https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/)
 * [2026-08-16, 15:46:23](https://news.ycombinator.com/item?id=49321111) - [If your agent commits a crime, who is responsible?](https://www.signalbloom.ai/posts/if-your-agent-commits-a-crime-who-is-responsible/)
