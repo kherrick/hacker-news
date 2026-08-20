@@ -4,10 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-08-20](index.md)
 
+* [2026-08-20, 18:02:55](https://news.ycombinator.com/item?id=49378036) - [Bitflash: A Tor-native revival of Bitcoin 0.1.0, mined on CPUs with RandomX](https://bitflash.network/)
+* [2026-08-20, 17:55:16](https://news.ycombinator.com/item?id=49377923) - [Optimizing things in the USSR (2016)](https://chris-said.io/2016/05/11/optimizing-things-in-the-ussr/)
+* [2026-08-20, 17:50:02](https://news.ycombinator.com/item?id=49377853) - [I should have loved biology](https://jsomers.net/i-should-have-loved-biology/)
+* [2026-08-20, 17:40:49](https://news.ycombinator.com/item?id=49377739) - [Project Cybersyn](https://bactra.org/notebooks/cybersyn.html)
 * [2026-08-20, 17:33:32](https://news.ycombinator.com/item?id=49377660) - [Show HN: We chased a weather balloon across Montana and never found it](https://radi8.dev/blog/uplink/)
 * [2026-08-20, 17:23:22](https://news.ycombinator.com/item?id=49377535) - [URL shortener links stored in your ATProto PDS](https://atpr.to/)
 * [2026-08-20, 17:01:09](https://news.ycombinator.com/item?id=49377249) - [The Defense-Tech Bubble Is Headed for Consolidation](https://foxandlion.pub/analysis/the-defense-tech-bubble-is-headed-for-consolidation)
 * [2026-08-20, 17:01:05](https://news.ycombinator.com/item?id=49377248) - [Sixtyfour (YC P25) Is Hiring](https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern)
+* [2026-08-20, 16:53:55](https://news.ycombinator.com/item?id=49377155) - [AI at Home Part 2: Multi-GPU Drifting](https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html)
 * [2026-08-20, 15:50:57](https://news.ycombinator.com/item?id=49376332) - [How to compromise your system with a job interview](https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview)
 * [2026-08-20, 15:46:18](https://news.ycombinator.com/item?id=49376265) - [Linux 7.2 Released](https://www.igalia.com/2026/08/19/Linux-72-Released.html)
 * [2026-08-20, 15:41:48](https://news.ycombinator.com/item?id=49376211) - [Generic Methods in Go 1.27](https://dominik.info/blog/go-generic-methods)
