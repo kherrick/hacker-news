@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-08-20, 12:19:37",
+      "https://news.ycombinator.com/item?id=49373616"
+    ],
+    [
+      "Browser De-Slop",
+      "https://www.sacredheartsc.com/blog/browser-de-slop/"
+    ]
+  ],
+  [
+    [
+      "2026-08-20, 12:04:38",
+      "https://news.ycombinator.com/item?id=49373456"
+    ],
+    [
+      "Show HN: I trained a 125M model to autocomplete piano on-device",
+      "https://simedw.com/2026/08/20/midi-autocomplete/"
+    ]
+  ],
+  [
+    [
       "2026-08-20, 12:00:23",
       "https://news.ycombinator.com/item?id=49373423"
     ],
@@ -11,12 +31,32 @@
   ],
   [
     [
-      "2026-08-20, 11:42:20",
-      "https://news.ycombinator.com/item?id=49373269"
+      "2026-08-20, 11:23:43",
+      "https://news.ycombinator.com/item?id=49373123"
     ],
     [
-      "AI didn't erase the junior engineer's value, it increased it it",
-      "https://franciscotrindade.me/blog/the-kids-are-really-alright/"
+      "Australia passes law to levy tech giants that fail to pay for local news",
+      "https://www.reuters.com/legal/litigation/australia-passes-law-levy-tech-giants-that-fail-pay-local-news-2026-08-20/"
+    ]
+  ],
+  [
+    [
+      "2026-08-20, 11:03:29",
+      "https://news.ycombinator.com/item?id=49372994"
+    ],
+    [
+      "Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery",
+      "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/"
+    ]
+  ],
+  [
+    [
+      "2026-08-20, 10:18:58",
+      "https://news.ycombinator.com/item?id=49372661"
+    ],
+    [
+      "Risk Engineering",
+      "https://risk-engineering.org/"
     ]
   ],
   [
@@ -141,16 +181,6 @@
   ],
   [
     [
-      "2026-08-19, 16:29:02",
-      "https://news.ycombinator.com/item?id=49363710"
-    ],
-    [
-      "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
-      "https://github.com/onecli/onecli"
-    ]
-  ],
-  [
-    [
       "2026-08-19, 15:28:01",
       "https://news.ycombinator.com/item?id=49362887"
     ],
@@ -211,32 +241,12 @@
   ],
   [
     [
-      "2026-08-19, 10:15:00",
-      "https://news.ycombinator.com/item?id=49359425"
-    ],
-    [
-      "Air Theremin – A browser theremin you play by waving at your webcam",
-      "https://theremin.bizibah.com/"
-    ]
-  ],
-  [
-    [
       "2026-08-18, 22:00:21",
       "https://news.ycombinator.com/item?id=49353339"
     ],
     [
       "fx :Tiny, open, native coding agent.",
       "https://fx.sh"
-    ]
-  ],
-  [
-    [
-      "2026-08-18, 18:14:59",
-      "https://news.ycombinator.com/item?id=49350031"
-    ],
-    [
-      "Pacing model development in an era of cyber-critical capabilities",
-      "https://openai.com/index/pacing-model-development-cyber-capabilities/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Sectorforth is a 16-bit x86 Forth that fits in a 512-byte boot sector (2020)",
       "https://github.com/cesarblum/sectorforth"
-    ]
-  ],
-  [
-    [
-      "2026-08-15, 20:37:18",
-      "https://news.ycombinator.com/item?id=49314109"
-    ],
-    [
-      "The little-known winstart.bat batch file",
-      "https://devblogs.microsoft.com/oldnewthing/20260811-00/?p=112605"
     ]
   ],
   [
