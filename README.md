@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-08-20, 21:42:51](https://news.ycombinator.com/item?id=49380671) - [Scientists Release Biggest 2D Map of the Universe](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/)
-* [2026-08-20, 21:32:10](https://news.ycombinator.com/item?id=49380555) - [Pursuit of AGI](https://cognitus.grrn.io)
 * [2026-08-20, 21:25:48](https://news.ycombinator.com/item?id=49380491) - [Citizen Devs: Everyone is an engineer now](https://www.massdriver.cloud/blogs/the-citizen-developer)
 * [2026-08-20, 21:24:57](https://news.ycombinator.com/item?id=49380482) - [Code as an Artifact](https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/)
+* [2026-08-20, 21:01:24](https://news.ycombinator.com/item?id=49380226) - [The Wonders of the Male Human Pelvis](https://nautil.us/the-wonders-of-the-male-human-pelvis-1283947)
 * [2026-08-20, 20:07:26](https://news.ycombinator.com/item?id=49379550) - [Aaron Swartz was prosecuted for scraping, while Meta does it without consequence](https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/)
 * [2026-08-20, 19:22:24](https://news.ycombinator.com/item?id=49378957) - [The August 17 outage, and the work ahead](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/)
 * [2026-08-20, 19:21:45](https://news.ycombinator.com/item?id=49378950) - [Tidal Cycles – Live coding music with Algorithmic patterns](https://tidalcycles.org/)
@@ -29,7 +29,7 @@
 * [2026-08-19, 15:11:36](https://news.ycombinator.com/item?id=49362689) - [HTML Can Do That](https://chrisburnell.com/html-can-do-that/)
 * [2026-08-18, 16:23:24](https://news.ycombinator.com/item?id=49348079) - [Mojo is now open source](https://www.modular.com/blog/mojo-open-source)
 * [2026-08-18, 15:50:52](https://news.ycombinator.com/item?id=49347543) - [I like 'em thick: an apology to my English teachers](https://www.experimental-history.com/p/i-like-em-thick)
-* [2026-08-16, 11:26:45](https://news.ycombinator.com/item?id=49319011) - [I Analyzed 163K Lines of Kuzu's Codebase. Here's Why Apple Wanted It](https://medium.com/data-science-collective/i-analyzed-163k-lines-of-kuzus-codebase-here-s-why-apple-wanted-it-12294a7035fa)
+* [2026-08-14, 05:45:12](https://news.ycombinator.com/item?id=49295112) - [Speeding Up (Small) Ruby Hashes](https://byroot.github.io/ruby/performance/2026/08/13/speeding-up-ruby-hashes.html)
 
 ## [Archives](archives/index.md)
 

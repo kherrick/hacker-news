@@ -87,6 +87,7 @@
 * [2026-08-14, 06:09:04](https://news.ycombinator.com/item?id=49295238) - [Ruby 4.0 Universal RCE Deserialization Gadget Chain](https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain)
 * [2026-08-14, 05:58:16](https://news.ycombinator.com/item?id=49295179) - [A simple fix for LLM tail latency](https://engineering.myhoai.com/posts/a-simple-fix-for-llm-tail-latency/)
 * [2026-08-14, 05:46:05](https://news.ycombinator.com/item?id=49295118) - [Oxford Electric Bell](https://en.wikipedia.org/wiki/Oxford_Electric_Bell)
+* [2026-08-14, 05:45:12](https://news.ycombinator.com/item?id=49295112) - [Speeding Up (Small) Ruby Hashes](https://byroot.github.io/ruby/performance/2026/08/13/speeding-up-ruby-hashes.html)
 * [2026-08-14, 05:37:51](https://news.ycombinator.com/item?id=49295071) - [Looking for Missed Alarm Bugs in a Formal Verification Tool](https://blog.regehr.org/archives/2124)
 * [2026-08-14, 05:19:59](https://news.ycombinator.com/item?id=49294997) - [GLM-5.3: Frontier Coding with Emergent Cyber Capabilities](https://z.ai/blog/glm-5.3)
 * [2026-08-14, 05:03:41](https://news.ycombinator.com/item?id=49294913) - [A digestion of the proof of Sendov's conjecture](https://terrytao.wordpress.com/2026/08/12/a-digestion-of-the-proof-of-sendovs-conjecture/)
