@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2026-08-20](index.md)
 
 * [2026-08-20, 15:50:57](https://news.ycombinator.com/item?id=49376332) - [How to compromise your system with a job interview](https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview)
+* [2026-08-20, 15:46:18](https://news.ycombinator.com/item?id=49376265) - [Linux 7.2 Released](https://www.igalia.com/2026/08/19/Linux-72-Released.html)
+* [2026-08-20, 15:41:48](https://news.ycombinator.com/item?id=49376211) - [Generic Methods in Go 1.27](https://dominik.info/blog/go-generic-methods)
 * [2026-08-20, 15:29:52](https://news.ycombinator.com/item?id=49376038) - [Launch HN: Vendo (YC S26) – Let users build features on top of your product](https://github.com/runvendo/vendo)
 * [2026-08-20, 15:26:02](https://news.ycombinator.com/item?id=49375996) - [Clean up Claude 5's token vomit with a separate LLM](https://github.com/zachahn/vomit)
 * [2026-08-20, 15:06:53](https://news.ycombinator.com/item?id=49375719) - [Anti-AI fonts are useless and harmful](https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/)

@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-08-20, 15:50:57](https://news.ycombinator.com/item?id=49376332) - [How to compromise your system with a job interview](https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview)
+* [2026-08-20, 15:46:18](https://news.ycombinator.com/item?id=49376265) - [Linux 7.2 Released](https://www.igalia.com/2026/08/19/Linux-72-Released.html)
+* [2026-08-20, 15:41:48](https://news.ycombinator.com/item?id=49376211) - [Generic Methods in Go 1.27](https://dominik.info/blog/go-generic-methods)
 * [2026-08-20, 15:29:52](https://news.ycombinator.com/item?id=49376038) - [Launch HN: Vendo (YC S26) – Let users build features on top of your product](https://github.com/runvendo/vendo)
 * [2026-08-20, 15:26:02](https://news.ycombinator.com/item?id=49375996) - [Clean up Claude 5's token vomit with a separate LLM](https://github.com/zachahn/vomit)
 * [2026-08-20, 15:06:53](https://news.ycombinator.com/item?id=49375719) - [Anti-AI fonts are useless and harmful](https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/)
@@ -18,7 +20,6 @@
 * [2026-08-20, 12:00:23](https://news.ycombinator.com/item?id=49373423) - [Proof of Human (YC S23) Is Hiring a Member of Technical Staff](https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff)
 * [2026-08-20, 10:08:52](https://news.ycombinator.com/item?id=49372583) - [AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html)
 * [2026-08-20, 06:16:40](https://news.ycombinator.com/item?id=49371006) - [Windows brings out the Rorschach test in everyone (2003)](https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803)
-* [2026-08-20, 01:29:12](https://news.ycombinator.com/item?id=49369408) - [Turns are Better than Radians (2022)](https://www.computerenhance.com/p/turns-are-better-than-radians)
 * [2026-08-20, 00:15:01](https://news.ycombinator.com/item?id=49368886) - [CIA funding helped keep NeXT afloat in the 80s](https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink)
 * [2026-08-19, 15:11:36](https://news.ycombinator.com/item?id=49362689) - [HTML Can Do That](https://chrisburnell.com/html-can-do-that/)
 * [2026-08-19, 11:35:26](https://news.ycombinator.com/item?id=49360140) - [Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces](https://arxiv.org/abs/2504.09762)
@@ -29,7 +30,6 @@
 * [2026-08-17, 15:56:40](https://news.ycombinator.com/item?id=49333091) - [Theory of Fluids Enters the 21st Century](https://www.quantamagazine.org/theory-of-fluids-enters-the-21st-century-20260817/)
 * [2026-08-17, 10:32:21](https://news.ycombinator.com/item?id=49328812) - [A theory for decades of C vulnerabilities](https://strawberry9.github.io/the-wrong-memory/Appendix_02.html)
 * [2026-08-16, 19:25:41](https://news.ycombinator.com/item?id=49322868) - [Double-double: 31 digits of precision without leaving the FPU](https://marekfiser.com/blog/double-double-arithmetic/)
-* [2026-08-16, 16:32:50](https://news.ycombinator.com/item?id=49321515) - [An American Mosaic (interactive map of ancestry census data)](https://www.nytimes.com/interactive/2026/07/01/us/america-ancestry-census-data-map.html)
 
 ## [Archives](archives/index.md)
 
