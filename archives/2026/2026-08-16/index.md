@@ -59,6 +59,7 @@
 * [2026-08-16, 12:00:23](https://news.ycombinator.com/item?id=49319215) - [Gooseworks (YC W23) Is Hiring a Founding Builder / Engineer](https://www.ycombinator.com/companies/gooseworks/jobs/UJ4vH2F-founding-engineer)
 * [2026-08-16, 11:34:12](https://news.ycombinator.com/item?id=49319061) - [Stripe 2.9% vs. Adyen 0.6% vs. Braintree 2.59%: 2026 Fees](https://valueaddvc.com/blog/stripe-vs-adyen-vs-braintree-enterprise-payment-processing-compared-in-2026)
 * [2026-08-16, 11:28:50](https://news.ycombinator.com/item?id=49319026) - [Show HN: Remove AI voice from AI writings](https://unslopai.com)
+* [2026-08-16, 11:26:45](https://news.ycombinator.com/item?id=49319011) - [I Analyzed 163K Lines of Kuzu's Codebase. Here's Why Apple Wanted It](https://medium.com/data-science-collective/i-analyzed-163k-lines-of-kuzus-codebase-here-s-why-apple-wanted-it-12294a7035fa)
 * [2026-08-16, 11:26:42](https://news.ycombinator.com/item?id=49319010) - [Leave your screen unlocked, meet developers paypal.com](https://anthony.dev.profullstack.com/blog/012-post.html)
 * [2026-08-16, 11:05:47](https://news.ycombinator.com/item?id=49318906) - [Ask HN: Do you know of any company that went back to hand-written code?](https://news.ycombinator.com/item?id=49318906)
 * [2026-08-16, 10:31:36](https://news.ycombinator.com/item?id=49318735) - [AI Coding Without the Vibes](https://peterbloem.nl/blog/craft-coding)

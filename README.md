@@ -28,8 +28,8 @@
 * [2026-08-19, 15:11:36](https://news.ycombinator.com/item?id=49362689) - [HTML Can Do That](https://chrisburnell.com/html-can-do-that/)
 * [2026-08-18, 16:23:24](https://news.ycombinator.com/item?id=49348079) - [Mojo is now open source](https://www.modular.com/blog/mojo-open-source)
 * [2026-08-18, 15:50:52](https://news.ycombinator.com/item?id=49347543) - [I like 'em thick: an apology to my English teachers](https://www.experimental-history.com/p/i-like-em-thick)
+* [2026-08-16, 11:26:45](https://news.ycombinator.com/item?id=49319011) - [I Analyzed 163K Lines of Kuzu's Codebase. Here's Why Apple Wanted It](https://medium.com/data-science-collective/i-analyzed-163k-lines-of-kuzus-codebase-here-s-why-apple-wanted-it-12294a7035fa)
 * [2026-08-15, 18:06:39](https://news.ycombinator.com/item?id=49312797) - [Fossilisation processes and our reading of animal antiquity](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(23)00137-4)
-* [2026-08-13, 18:30:21](https://news.ycombinator.com/item?id=49290082) - [Gauguin, Descartes, Bayes: A Diurnal Golem's Brain](https://dl.acm.org/doi/10.1145/3759429.3762631)
 
 ## [Archives](archives/index.md)
 
