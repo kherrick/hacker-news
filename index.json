@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2026-08-20, 15:46:18",
+      "https://news.ycombinator.com/item?id=49376265"
+    ],
+    [
+      "Linux 7.2 Released",
+      "https://www.igalia.com/2026/08/19/Linux-72-Released.html"
+    ]
+  ],
+  [
+    [
+      "2026-08-20, 15:41:48",
+      "https://news.ycombinator.com/item?id=49376211"
+    ],
+    [
+      "Generic Methods in Go 1.27",
+      "https://dominik.info/blog/go-generic-methods"
+    ]
+  ],
+  [
+    [
       "2026-08-20, 15:29:52",
       "https://news.ycombinator.com/item?id=49376038"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2026-08-20, 01:29:12",
-      "https://news.ycombinator.com/item?id=49369408"
-    ],
-    [
-      "Turns are Better than Radians (2022)",
-      "https://www.computerenhance.com/p/turns-are-better-than-radians"
-    ]
-  ],
-  [
-    [
       "2026-08-20, 00:15:01",
       "https://news.ycombinator.com/item?id=49368886"
     ],
@@ -287,16 +297,6 @@
     [
       "Double-double: 31 digits of precision without leaving the FPU",
       "https://marekfiser.com/blog/double-double-arithmetic/"
-    ]
-  ],
-  [
-    [
-      "2026-08-16, 16:32:50",
-      "https://news.ycombinator.com/item?id=49321515"
-    ],
-    [
-      "An American Mosaic (interactive map of ancestry census data)",
-      "https://www.nytimes.com/interactive/2026/07/01/us/america-ancestry-census-data-map.html"
     ]
   ]
 ]
