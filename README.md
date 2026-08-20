@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-08-20, 01:29:12](https://news.ycombinator.com/item?id=49369408) - [Turns are Better than Radians (2022)](https://www.computerenhance.com/p/turns-are-better-than-radians)
+* [2026-08-20, 00:05:12](https://news.ycombinator.com/item?id=49368828) - [Universality of Gradient Descent Neural Network Training](https://arxiv.org/abs/2007.13664)
 * [2026-08-19, 21:19:50](https://news.ycombinator.com/item?id=49367350) - [Feature Request: Support AGENTS.md](https://github.com/anthropics/claude-code/issues/6235)
 * [2026-08-19, 21:11:31](https://news.ycombinator.com/item?id=49367256) - [Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a](https://os8088.com/spotlight/)
 * [2026-08-19, 20:28:43](https://news.ycombinator.com/item?id=49366792) - [DFlash 2: Keep Drafting Parallel](https://inco.ai/blog/dflash2/)
-* [2026-08-19, 20:13:47](https://news.ycombinator.com/item?id=49366597) - [Pressed Penny Machine Map](https://pennypresses.net/home/map.php)
 * [2026-08-19, 19:43:48](https://news.ycombinator.com/item?id=49366264) - [Pixel 11 Pro Fold feels like the end of an era](https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review)
 * [2026-08-19, 19:06:16](https://news.ycombinator.com/item?id=49365841) - [Unlocking a locked/deactivated e-waste Cricut Maker](https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/)
 * [2026-08-19, 18:36:45](https://news.ycombinator.com/item?id=49365443) - [Unsloth Dynamic 3.0 GGUFs](https://unsloth.ai/docs/basics/dynamic-3.0-ggufs)
