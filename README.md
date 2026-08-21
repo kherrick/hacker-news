@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-21, 11:43:38](https://news.ycombinator.com/item?id=49386659) - [TigerBeetle Core System Architecture: Deconstructing Performance Engineering](https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering)
 * [2026-08-21, 10:33:56](https://news.ycombinator.com/item?id=49386163) - [DeepSeek-v4-flash-vision-exp](https://api-docs.deepseek.com/guides/vision/)
 * [2026-08-21, 10:05:46](https://news.ycombinator.com/item?id=49385994) - [AI companies destroy physical books – let's scan rare books before it's too late](https://annas-archive.pk/blog/physical-destruction.html)
 * [2026-08-21, 09:45:14](https://news.ycombinator.com/item?id=49385860) - [Small, native web tricks worth remembering](https://htmlcat.net/)
@@ -27,7 +28,6 @@
 * [2026-08-18, 15:50:52](https://news.ycombinator.com/item?id=49347543) - [I like 'em thick: an apology to my English teachers](https://www.experimental-history.com/p/i-like-em-thick)
 * [2026-08-17, 14:01:37](https://news.ycombinator.com/item?id=49331084) - [Flat Chair by Sara Paculdo](https://www.toxel.com/tech/2026/08/07/flat-chair-by-sara-paculdo/)
 * [2026-08-17, 12:42:47](https://news.ycombinator.com/item?id=49329919) - [Captain Zilog](https://www.zilog.com/captain_zilog/)
-* [2026-08-16, 15:17:09](https://news.ycombinator.com/item?id=49320866) - [The case against a C alternative (2022)](https://c3.handmade.network/blog/p/8486-the_case_against_a_c_alternative)
 * [2026-08-16, 13:11:08](https://news.ycombinator.com/item?id=49319733) - [The Mystery of Dark Oxygen](https://www.newyorker.com/science/elements/the-mystery-of-dark-oxygen)
 * [2026-08-14, 05:45:12](https://news.ycombinator.com/item?id=49295112) - [Speeding Up (Small) Ruby Hashes](https://byroot.github.io/ruby/performance/2026/08/13/speeding-up-ruby-hashes.html)
 
