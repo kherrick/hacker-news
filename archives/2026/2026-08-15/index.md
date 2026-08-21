@@ -56,6 +56,7 @@
 * [2026-08-15, 14:41:10](https://news.ycombinator.com/item?id=49310990) - [YACS 2.0 – Yet Another Curta Simulator](https://satadorus.eu/x_ite/yacs_2_0/yacs_2_0.html)
 * [2026-08-15, 14:34:04](https://news.ycombinator.com/item?id=49310926) - [A Spectre Is Haunting Unicode](https://www.dampfkraft.com/ghost-characters.html)
 * [2026-08-15, 14:29:50](https://news.ycombinator.com/item?id=49310884) - [Gen Z has rediscovered the joy of going to the movies](https://www.economist.com/culture/2026/08/11/gen-z-has-rediscovered-the-joy-of-going-to-the-movies)
+* [2026-08-15, 14:26:32](https://news.ycombinator.com/item?id=49310857) - [I Ported Moonshine to JavaScript](https://petewarden.com/2026/08/15/why-i-ported-moonshine-to-javascript/)
 * [2026-08-15, 14:22:20](https://news.ycombinator.com/item?id=49310829) - [Printytron – Type it. 3D Print it](https://printytron.com)
 * [2026-08-15, 14:12:27](https://news.ycombinator.com/item?id=49310755) - [The AI Situation in Software Development](https://srikanth.ch/posts/the-ai-situation/)
 * [2026-08-15, 14:08:55](https://news.ycombinator.com/item?id=49310725) - [Secondhand book sales are booming. Is it because of AI?](https://www.bbc.co.uk/news/articles/cp3rprx2wl4o)

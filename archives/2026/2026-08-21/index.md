@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-08-21](index.md)
 
+* [2026-08-21, 07:23:27](https://news.ycombinator.com/item?id=49384896) - [The Lost Treasure of Sid Meier's Pirates](https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/)
+* [2026-08-21, 06:59:40](https://news.ycombinator.com/item?id=49384716) - [We Rebuilt the Linux MicroVM Stack on Apple Silicon](https://encore.dev/blog/firecracker-apple-silicon)
+* [2026-08-21, 06:24:16](https://news.ycombinator.com/item?id=49384477) - [Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents](https://Argentic.network)
 * [2026-08-21, 05:39:39](https://news.ycombinator.com/item?id=49384224) - [The Religious Experience of Philip K. Dick by R. Crumb (1986)](https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/)
+* [2026-08-21, 05:37:38](https://news.ycombinator.com/item?id=49384210) - [Stop Making TUIs](https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/)
 * [2026-08-21, 05:31:34](https://news.ycombinator.com/item?id=49384180) - [Japan tried to build an operating system for the world, the US intervened](https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/)
+* [2026-08-21, 05:20:50](https://news.ycombinator.com/item?id=49384113) - [Seed: Minimal, self-modifying agent harness](https://github.com/vivekhaldar/seed)
 * [2026-08-21, 03:17:43](https://news.ycombinator.com/item?id=49383326) - [Codex on AWS bedrock bug causing 10x charges](https://github.com/openai/codex/issues/37674)
 * [2026-08-21, 02:37:47](https://news.ycombinator.com/item?id=49383026) - [AI companies destroy physical books – let's scan rare books before it's too late](https://annas-archive.gl/blog/physical-destruction.html)
 * [2026-08-21, 02:03:54](https://news.ycombinator.com/item?id=49382809) - [Orbital Construction Pioneers](https://orbitalconstructionpioneers.com/)
