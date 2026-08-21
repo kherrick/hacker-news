@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-08-21](index.md)
 
 * [2026-08-21, 10:33:56](https://news.ycombinator.com/item?id=49386163) - [DeepSeek-v4-flash-vision-exp](https://api-docs.deepseek.com/guides/vision/)
+* [2026-08-21, 10:05:46](https://news.ycombinator.com/item?id=49385994) - [AI companies destroy physical books – let's scan rare books before it's too late](https://annas-archive.pk/blog/physical-destruction.html)
 * [2026-08-21, 09:45:14](https://news.ycombinator.com/item?id=49385860) - [Small, native web tricks worth remembering](https://htmlcat.net/)
 * [2026-08-21, 08:19:48](https://news.ycombinator.com/item?id=49385296) - [Emacs 31.1 will release on 8/24](https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY)
 * [2026-08-21, 07:48:50](https://news.ycombinator.com/item?id=49385068) - [Better Batteries](https://matklad.github.io/2026/08/20/better-batteries.html)

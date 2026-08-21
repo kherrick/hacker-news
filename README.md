@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-08-21, 10:33:56](https://news.ycombinator.com/item?id=49386163) - [DeepSeek-v4-flash-vision-exp](https://api-docs.deepseek.com/guides/vision/)
+* [2026-08-21, 10:05:46](https://news.ycombinator.com/item?id=49385994) - [AI companies destroy physical books – let's scan rare books before it's too late](https://annas-archive.pk/blog/physical-destruction.html)
 * [2026-08-21, 09:45:14](https://news.ycombinator.com/item?id=49385860) - [Small, native web tricks worth remembering](https://htmlcat.net/)
-* [2026-08-21, 08:19:48](https://news.ycombinator.com/item?id=49385296) - [Emacs 31.1 will release on 8/24](https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY)
+* [2026-08-21, 07:48:50](https://news.ycombinator.com/item?id=49385068) - [Better Batteries](https://matklad.github.io/2026/08/20/better-batteries.html)
 * [2026-08-21, 07:23:27](https://news.ycombinator.com/item?id=49384896) - [The Lost Treasure of Sid Meier's Pirates](https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/)
 * [2026-08-21, 06:59:40](https://news.ycombinator.com/item?id=49384716) - [We Rebuilt the Linux MicroVM Stack on Apple Silicon](https://encore.dev/blog/firecracker-apple-silicon)
 * [2026-08-21, 05:39:39](https://news.ycombinator.com/item?id=49384224) - [The Religious Experience of Philip K. Dick by R. Crumb (1986)](https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/)
@@ -27,8 +28,7 @@
 * [2026-08-17, 14:01:37](https://news.ycombinator.com/item?id=49331084) - [Flat Chair by Sara Paculdo](https://www.toxel.com/tech/2026/08/07/flat-chair-by-sara-paculdo/)
 * [2026-08-17, 12:42:47](https://news.ycombinator.com/item?id=49329919) - [Captain Zilog](https://www.zilog.com/captain_zilog/)
 * [2026-08-16, 15:17:09](https://news.ycombinator.com/item?id=49320866) - [The case against a C alternative (2022)](https://c3.handmade.network/blog/p/8486-the_case_against_a_c_alternative)
-* [2026-08-16, 01:03:41](https://news.ycombinator.com/item?id=49315836) - [Attention Through Arithmetic Intensity](https://changyi.fun/posts/attention-arithmetic-intensity/)
-* [2026-08-14, 20:49:29](https://news.ycombinator.com/item?id=49304409) - [Make a 6-Tesla-class high-temperature superconducting dipole magnet at 4.2 K](https://journals.aps.org/prab/abstract/10.1103/4nhs-bkwh)
+* [2026-08-16, 13:11:08](https://news.ycombinator.com/item?id=49319733) - [The Mystery of Dark Oxygen](https://www.newyorker.com/science/elements/the-mystery-of-dark-oxygen)
 * [2026-08-14, 05:45:12](https://news.ycombinator.com/item?id=49295112) - [Speeding Up (Small) Ruby Hashes](https://byroot.github.io/ruby/performance/2026/08/13/speeding-up-ruby-hashes.html)
 
 ## [Archives](archives/index.md)
