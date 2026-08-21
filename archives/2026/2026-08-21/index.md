@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-21](index.md)
 
+* [2026-08-21, 19:51:48](https://news.ycombinator.com/item?id=49393051) - [Quick impressions: A week of using Codex more than Claude](https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/)
+* [2026-08-21, 19:35:17](https://news.ycombinator.com/item?id=49392877) - [Church of the TigerBeetle: A Look at Tech Evangelism](https://www.wespiser.com/posts/2026-08-03-church-of-the-tigerbeetle.html)
 * [2026-08-21, 18:59:52](https://news.ycombinator.com/item?id=49392465) - [Tumble Forth – from assembly to OS with C compiler](https://tumbleforth.hardcoded.net/)
 * [2026-08-21, 18:58:12](https://news.ycombinator.com/item?id=49392449) - [Death to the Self-Playing Game](https://www.jank.cool/death-to-the-self-playing-game/)
 * [2026-08-21, 18:48:28](https://news.ycombinator.com/item?id=49392331) - [Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders](https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders)
