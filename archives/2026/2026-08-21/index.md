@@ -4,10 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-08-21](index.md)
 
+* [2026-08-21, 23:09:06](https://news.ycombinator.com/item?id=49394827) - [Show HN: OzBrain, a shared brain for knowledge between agents and your team](https://ozbrain.com)
+* [2026-08-21, 22:29:00](https://news.ycombinator.com/item?id=49394496) - [Three important steps in my maturation process](https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/)
+* [2026-08-21, 22:15:46](https://news.ycombinator.com/item?id=49394373) - ['Ghost Job' Ads Are Getting So Bad That Lawmakers Want to Ban Them](https://www.wsj.com/lifestyle/careers/ghost-job-ads-are-getting-so-bad-that-lawmakers-want-to-ban-them-2580bc3e)
 * [2026-08-21, 21:32:07](https://news.ycombinator.com/item?id=49394028) - [Remotely Unlocking Electric Scooters](https://henriemategui.com/post/remotely-unlocking-electric-scooters)
 * [2026-08-21, 21:00:48](https://news.ycombinator.com/item?id=49393733) - [SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers](https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer)
 * [2026-08-21, 19:51:48](https://news.ycombinator.com/item?id=49393051) - [Quick impressions: A week of using Codex more than Claude](https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/)
 * [2026-08-21, 19:35:17](https://news.ycombinator.com/item?id=49392877) - [Church of the TigerBeetle: A Look at Tech Evangelism](https://www.wespiser.com/posts/2026-08-03-church-of-the-tigerbeetle.html)
+* [2026-08-21, 19:16:00](https://news.ycombinator.com/item?id=49392654) - [Rust Glancer](https://matklad.github.io/2026/08/21/rust-glancer.html)
 * [2026-08-21, 18:59:52](https://news.ycombinator.com/item?id=49392465) - [Tumble Forth – from assembly to OS with C compiler](https://tumbleforth.hardcoded.net/)
 * [2026-08-21, 18:58:12](https://news.ycombinator.com/item?id=49392449) - [Death to the Self-Playing Game](https://www.jank.cool/death-to-the-self-playing-game/)
 * [2026-08-21, 18:48:28](https://news.ycombinator.com/item?id=49392331) - [Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders](https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders)
