@@ -1,22 +1,42 @@
 [
   [
     [
+      "2026-08-21, 17:00:23",
+      "https://news.ycombinator.com/item?id=49390910"
+    ],
+    [
+      "LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
+      "https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6"
+    ]
+  ],
+  [
+    [
+      "2026-08-21, 16:27:52",
+      "https://news.ycombinator.com/item?id=49390463"
+    ],
+    [
+      "A self hosted AI software factory",
+      "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/"
+    ]
+  ],
+  [
+    [
+      "2026-08-21, 16:25:25",
+      "https://news.ycombinator.com/item?id=49390427"
+    ],
+    [
+      "Kobo can run apps now",
+      "https://bandarlabs.github.io/Cobalt/"
+    ]
+  ],
+  [
+    [
       "2026-08-21, 16:16:42",
       "https://news.ycombinator.com/item?id=49390308"
     ],
     [
       "What happens when a GPU reads memory",
       "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory"
-    ]
-  ],
-  [
-    [
-      "2026-08-21, 16:15:26",
-      "https://news.ycombinator.com/item?id=49390286"
-    ],
-    [
-      "Three ways to smuggle SQLite into Nix",
-      "https://fzakaria.com/2026/08/19/three-ways-to-smuggle-sqlite-into-nix"
     ]
   ],
   [
@@ -67,16 +87,6 @@
     [
       "Cancer-Related Mortality Among US Pilots and Flight Attendants",
       "https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2852504"
-    ]
-  ],
-  [
-    [
-      "2026-08-21, 15:20:59",
-      "https://news.ycombinator.com/item?id=49389491"
-    ],
-    [
-      "The B-right/V R2 Operating System",
-      "http://tronweb.super-nova.co.jp/b-right-vr2intro.html"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "DuckDB V2 PEG-based SQL parser",
       "https://duckdb.org/2026/08/20/duckdb-20-peg-parser"
-    ]
-  ],
-  [
-    [
-      "2026-08-21, 12:08:19",
-      "https://news.ycombinator.com/item?id=49386877"
-    ],
-    [
-      "The road to ACID transactions in Cassandra 6",
-      "https://theconsensus.dev/p/2026/08/16/transactions-in-cassandra.html"
     ]
   ],
   [
