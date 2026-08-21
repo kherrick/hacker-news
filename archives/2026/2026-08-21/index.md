@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-08-21](index.md)
 
+* [2026-08-21, 16:16:42](https://news.ycombinator.com/item?id=49390308) - [What happens when a GPU reads memory](https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory)
+* [2026-08-21, 16:15:26](https://news.ycombinator.com/item?id=49390286) - [Three ways to smuggle SQLite into Nix](https://fzakaria.com/2026/08/19/three-ways-to-smuggle-sqlite-into-nix)
 * [2026-08-21, 16:03:47](https://news.ycombinator.com/item?id=49390132) - [Omacom Foundation Launches with $8M](https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/)
+* [2026-08-21, 16:00:54](https://news.ycombinator.com/item?id=49390099) - [I Just Want to Search](https://www.0xsid.com/blog/just-want-to-search)
 * [2026-08-21, 15:51:10](https://news.ycombinator.com/item?id=49389952) - [How We Made a Text-to-Speech Model Respond in Sub-50 ms](https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/)
 * [2026-08-21, 15:50:50](https://news.ycombinator.com/item?id=49389948) - [Flagwars.lol](https://www.flagwars.lol)
 * [2026-08-21, 15:48:32](https://news.ycombinator.com/item?id=49389912) - [My AI agents kept trying to cross red lines, so I wrote them a constitution](https://github.com/Chong169/a-constitution-for-one)
@@ -17,6 +20,7 @@
 * [2026-08-21, 15:17:04](https://news.ycombinator.com/item?id=49389430) - [Felony Bench](https://www.felonybench.com/)
 * [2026-08-21, 15:14:07](https://news.ycombinator.com/item?id=49389392) - [c100](https://caligra.com/c100/)
 * [2026-08-21, 15:11:10](https://news.ycombinator.com/item?id=49389339) - [Code Obfuscation via Local Mixing](https://vitalik.eth.limo/general/2026/08/21/obfuscation_part_iii_local_mixing.html)
+* [2026-08-21, 14:46:01](https://news.ycombinator.com/item?id=49388963) - [I came to write THAT paper with Leslie Lamport](https://lawrencecpaulson.github.io//2026/08/21/Lamport.html)
 * [2026-08-21, 14:31:52](https://news.ycombinator.com/item?id=49388752) - [Claudette: Make Claude Stop Talking Like a BuzzFeed Article](https://github.com/adnanakil/nobuzz/blob/main/README.md)
 * [2026-08-21, 14:28:15](https://news.ycombinator.com/item?id=49388694) - [Zig's Io.Threaded Is Neat](https://matklad.github.io/2026/08/06/neat-io-threaded.html)
 * [2026-08-21, 14:27:37](https://news.ycombinator.com/item?id=49388682) - [WPD won't replace stolen Flock cameras, citing public trust](https://www.winonapost.com/news/wpd-wont-replace-stolen-flock-cameras-citing-public-trust/article_06a67859-2d97-414b-aa8f-d8751ad214bb.html)

@@ -60,6 +60,7 @@
 * [2026-08-17, 14:25:54](https://news.ycombinator.com/item?id=49331551) - [Show HN: Saggar, a Mac terminal that keeps sessions and your attention organized](https://saggar.marginalutility.dev/)
 * [2026-08-17, 14:21:25](https://news.ycombinator.com/item?id=49331474) - [How to put 170 atoms in an atom](https://signoregalilei.com/2026/08/02/how-to-put-170-atoms-in-an-atom/)
 * [2026-08-17, 14:18:38](https://news.ycombinator.com/item?id=49331423) - [AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug)
+* [2026-08-17, 14:16:41](https://news.ycombinator.com/item?id=49331391) - [Does whispering to agents in docs help?](https://passo.uno/if-you-are-an-agent-read-this/)
 * [2026-08-17, 14:11:17](https://news.ycombinator.com/item?id=49331288) - [Show HN: Learn Flags Quiz](https://flagquizzes.com/)
 * [2026-08-17, 14:07:59](https://news.ycombinator.com/item?id=49331222) - [Apple's App Tracking Transparency treated its own apps better than rivals](https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html)
 * [2026-08-17, 14:07:56](https://news.ycombinator.com/item?id=49331220) - [How to disable or avoid intrusive AI](https://www.librarian.net/notoai/)
