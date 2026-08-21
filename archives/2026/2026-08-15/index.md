@@ -38,6 +38,7 @@
 * [2026-08-15, 18:34:26](https://news.ycombinator.com/item?id=49313068) - [Tess's Android Wayland Compositor](https://github.com/wmww/tawc)
 * [2026-08-15, 18:33:25](https://news.ycombinator.com/item?id=49313047) - [Voltair (YC W26) Is Hiring a Test Flight Engineer](https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer)
 * [2026-08-15, 18:28:15](https://news.ycombinator.com/item?id=49312999) - [Show HN: sce (Simple Console Editor)](https://github.com/volution/simple-console-editor)
+* [2026-08-15, 18:20:00](https://news.ycombinator.com/item?id=49312903) - [Four Levels of In-Place Initialization (Rust)](https://blog.yoshuawuyts.com/four-levels-of-in-place-initialization/)
 * [2026-08-15, 18:13:02](https://news.ycombinator.com/item?id=49312845) - [AI Isn't Outthinking Mathematicians. It's Out-Remembering Them](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
 * [2026-08-15, 18:09:42](https://news.ycombinator.com/item?id=49312823) - [Thunderbird's Desktop Calendar Visual Redesign](https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/)
 * [2026-08-15, 18:06:39](https://news.ycombinator.com/item?id=49312797) - [Fossilisation processes and our reading of animal antiquity](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(23)00137-4)

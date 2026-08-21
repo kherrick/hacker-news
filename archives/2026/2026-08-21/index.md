@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-08-21](index.md)
 
+* [2026-08-21, 13:35:17](https://news.ycombinator.com/item?id=49387856) - [Radiation damage to Hubble has been 4.3 years out of phase with the Solar cycle](https://arxiv.org/abs/2608.18214)
+* [2026-08-21, 13:04:31](https://news.ycombinator.com/item?id=49387497) - [Grand jury declines to indict Ohio man charged with destroying Flock camera](https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/)
+* [2026-08-21, 11:48:05](https://news.ycombinator.com/item?id=49386699) - [I'm Becoming AI-Blind](https://cymerys.com/w/im-becoming-ai-blind)
 * [2026-08-21, 11:43:38](https://news.ycombinator.com/item?id=49386659) - [TigerBeetle Core System Architecture: Deconstructing Performance Engineering](https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering)
 * [2026-08-21, 11:06:25](https://news.ycombinator.com/item?id=49386383) - [Kino: A high-performance Ractor web server for Ruby 4.0](https://github.com/yaroslav/kino)
 * [2026-08-21, 10:33:56](https://news.ycombinator.com/item?id=49386163) - [DeepSeek-v4-flash-vision-exp](https://api-docs.deepseek.com/guides/vision/)
