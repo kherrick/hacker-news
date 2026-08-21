@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-08-21, 05:39:39",
+      "https://news.ycombinator.com/item?id=49384224"
+    ],
+    [
+      "The Religious Experience of Philip K. Dick by R. Crumb (1986)",
+      "https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/"
+    ]
+  ],
+  [
+    [
+      "2026-08-21, 05:31:34",
+      "https://news.ycombinator.com/item?id=49384180"
+    ],
+    [
+      "Japan tried to build an operating system for the world, the US intervened",
+      "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/"
+    ]
+  ],
+  [
+    [
       "2026-08-21, 03:17:43",
       "https://news.ycombinator.com/item?id=49383326"
     ],
@@ -41,16 +61,6 @@
   ],
   [
     [
-      "2026-08-20, 20:07:26",
-      "https://news.ycombinator.com/item?id=49379550"
-    ],
-    [
-      "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
-      "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/"
-    ]
-  ],
-  [
-    [
       "2026-08-20, 19:22:24",
       "https://news.ycombinator.com/item?id=49378957"
     ],
@@ -65,7 +75,7 @@
       "https://news.ycombinator.com/item?id=49378933"
     ],
     [
-      "SpacetimeDB: A Short Technical Review",
+      "SpacetimeDB: a short technical review",
       "https://strn.cat/posts/spacetime/"
     ]
   ],
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2026-08-20, 17:01:05",
-      "https://news.ycombinator.com/item?id=49377248"
-    ],
-    [
-      "Sixtyfour (YC P25) Is Hiring",
-      "https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern"
-    ]
-  ],
-  [
-    [
       "2026-08-20, 15:50:57",
       "https://news.ycombinator.com/item?id=49376332"
     ],
@@ -147,6 +147,16 @@
     [
       "Linux 7.2",
       "https://www.igalia.com/2026/08/19/Linux-72-Released.html"
+    ]
+  ],
+  [
+    [
+      "2026-08-20, 15:29:52",
+      "https://news.ycombinator.com/item?id=49376038"
+    ],
+    [
+      "Launch HN: Vendo (YC S26) – Let users build features on top of your product",
+      "https://github.com/runvendo/vendo"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Every Model Cheats",
       "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/"
-    ]
-  ],
-  [
-    [
-      "2026-08-20, 13:24:32",
-      "https://news.ycombinator.com/item?id=49374287"
-    ],
-    [
-      "DiffusionGemma Technical Report",
-      "https://arxiv.org/abs/2608.00146"
     ]
   ],
   [
@@ -235,7 +235,7 @@
       "https://news.ycombinator.com/item?id=49360140"
     ],
     [
-      "Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces",
+      "Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces (2025)",
       "https://arxiv.org/abs/2504.09762"
     ]
   ],
@@ -251,22 +251,22 @@
   ],
   [
     [
-      "2026-08-18, 16:23:24",
-      "https://news.ycombinator.com/item?id=49348079"
-    ],
-    [
-      "Mojo is now open source",
-      "https://www.modular.com/blog/mojo-open-source"
-    ]
-  ],
-  [
-    [
       "2026-08-18, 15:50:52",
       "https://news.ycombinator.com/item?id=49347543"
     ],
     [
       "I like 'em thick: an apology to my English teachers",
       "https://www.experimental-history.com/p/i-like-em-thick"
+    ]
+  ],
+  [
+    [
+      "2026-08-17, 19:28:44",
+      "https://news.ycombinator.com/item?id=49336358"
+    ],
+    [
+      "Version Control for Everything",
+      "https://tyoverby.com/posts/version-control-for-everything-else/"
     ]
   ],
   [
