@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-08-21, 17:33:26",
+      "https://news.ycombinator.com/item?id=49391389"
+    ],
+    [
+      "Rebuilding our Electron meeting-recording engine in Swift",
+      "https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift"
+    ]
+  ],
+  [
+    [
       "2026-08-21, 17:00:23",
       "https://news.ycombinator.com/item?id=49390910"
     ],
     [
       "LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
       "https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6"
+    ]
+  ],
+  [
+    [
+      "2026-08-21, 16:50:15",
+      "https://news.ycombinator.com/item?id=49390775"
+    ],
+    [
+      "Another Better Lower Bound for N=17 Square Packing",
+      "http://gus-massa.blogspot.com/2026/08/another-better-lower-bound-for-n17.html"
+    ]
+  ],
+  [
+    [
+      "2026-08-21, 16:47:15",
+      "https://news.ycombinator.com/item?id=49390739"
+    ],
+    [
+      "Show HN: Proliferate- open-source, self-hostable Codex for any coding agent",
+      "https://github.com/proliferate-ai/proliferate"
     ]
   ],
   [
@@ -61,12 +91,12 @@
   ],
   [
     [
-      "2026-08-21, 15:51:10",
-      "https://news.ycombinator.com/item?id=49389952"
+      "2026-08-21, 15:36:16",
+      "https://news.ycombinator.com/item?id=49389722"
     ],
     [
-      "How We Made a Text-to-Speech Model Respond in Sub-50 ms",
-      "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/"
+      "New York’s office market is home to the most tech workers: CBRE report",
+      "https://www.cnbc.com/2026/08/21/new-york-san-francisco-tech-talent-cbre.html"
     ]
   ],
   [
@@ -75,7 +105,7 @@
       "https://news.ycombinator.com/item?id=49389565"
     ],
     [
-      "AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
+      "AI boosted homework scores, then exam scores dropped: Study",
       "https://canews24.online/?p=71"
     ]
   ],
@@ -97,16 +127,6 @@
     [
       "Felony Bench",
       "https://www.felonybench.com/"
-    ]
-  ],
-  [
-    [
-      "2026-08-21, 15:14:07",
-      "https://news.ycombinator.com/item?id=49389392"
-    ],
-    [
-      "c100",
-      "https://caligra.com/c100/"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2026-08-21, 13:52:53",
-      "https://news.ycombinator.com/item?id=49388095"
-    ],
-    [
-      "Kodak's \"Pre-Invented\" Lunar Orbiter Camera; Or, the Fate of SAMOS Readout",
-      "https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/"
-    ]
-  ],
-  [
-    [
       "2026-08-21, 13:35:17",
       "https://news.ycombinator.com/item?id=49387856"
     ],
@@ -181,21 +191,11 @@
   ],
   [
     [
-      "2026-08-21, 13:24:28",
-      "https://news.ycombinator.com/item?id=49387735"
-    ],
-    [
-      "What Happens When the Cost of Intelligence Drops 100x",
-      "https://catalystneuro.com/blog/cost-of-intelligence-drops-100x/"
-    ]
-  ],
-  [
-    [
       "2026-08-21, 13:11:28",
       "https://news.ycombinator.com/item?id=49387570"
     ],
     [
-      "I accidentally logged phone calls to military bases",
+      "I accidentally logged hundreds of thousands of phone calls to military bases",
       "https://lina.sh/blog/hijacking-e164-arpa"
     ]
   ],
@@ -217,16 +217,6 @@
     [
       "Grand jury declines to indict Ohio man charged with destroying Flock camera",
       "https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/"
-    ]
-  ],
-  [
-    [
-      "2026-08-21, 12:52:25",
-      "https://news.ycombinator.com/item?id=49387349"
-    ],
-    [
-      "DuckDB V2 PEG-based SQL parser",
-      "https://duckdb.org/2026/08/20/duckdb-20-peg-parser"
     ]
   ],
   [
@@ -261,16 +251,6 @@
   ],
   [
     [
-      "2026-08-21, 10:05:46",
-      "https://news.ycombinator.com/item?id=49385994"
-    ],
-    [
-      "AI companies destroy physical books – let's scan rare books before it's too late",
-      "https://annas-archive.pk/blog/physical-destruction.html"
-    ]
-  ],
-  [
-    [
       "2026-08-21, 09:45:14",
       "https://news.ycombinator.com/item?id=49385860"
     ],
@@ -291,12 +271,32 @@
   ],
   [
     [
+      "2026-08-21, 02:37:47",
+      "https://news.ycombinator.com/item?id=49383026"
+    ],
+    [
+      "AI companies destroy physical books – let's scan rare books before it's too late",
+      "https://annas-archive.gl/blog/physical-destruction.html"
+    ]
+  ],
+  [
+    [
       "2026-08-17, 14:16:41",
       "https://news.ycombinator.com/item?id=49331391"
     ],
     [
       "Does whispering to agents in docs help?",
       "https://passo.uno/if-you-are-an-agent-read-this/"
+    ]
+  ],
+  [
+    [
+      "2026-08-14, 02:01:47",
+      "https://news.ycombinator.com/item?id=49293983"
+    ],
+    [
+      "Quantifying the honey bee dance floor",
+      "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0341456"
     ]
   ]
 ]
