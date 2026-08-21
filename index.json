@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-08-21, 16:16:42",
+      "https://news.ycombinator.com/item?id=49390308"
+    ],
+    [
+      "What happens when a GPU reads memory",
+      "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory"
+    ]
+  ],
+  [
+    [
+      "2026-08-21, 16:15:26",
+      "https://news.ycombinator.com/item?id=49390286"
+    ],
+    [
+      "Three ways to smuggle SQLite into Nix",
+      "https://fzakaria.com/2026/08/19/three-ways-to-smuggle-sqlite-into-nix"
+    ]
+  ],
+  [
+    [
       "2026-08-21, 16:03:47",
       "https://news.ycombinator.com/item?id=49390132"
     ],
@@ -11,42 +31,22 @@
   ],
   [
     [
+      "2026-08-21, 16:00:54",
+      "https://news.ycombinator.com/item?id=49390099"
+    ],
+    [
+      "I Just Want to Search",
+      "https://www.0xsid.com/blog/just-want-to-search"
+    ]
+  ],
+  [
+    [
       "2026-08-21, 15:51:10",
       "https://news.ycombinator.com/item?id=49389952"
     ],
     [
       "How We Made a Text-to-Speech Model Respond in Sub-50 ms",
       "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/"
-    ]
-  ],
-  [
-    [
-      "2026-08-21, 15:50:50",
-      "https://news.ycombinator.com/item?id=49389948"
-    ],
-    [
-      "Flagwars.lol",
-      "https://www.flagwars.lol"
-    ]
-  ],
-  [
-    [
-      "2026-08-21, 15:48:32",
-      "https://news.ycombinator.com/item?id=49389912"
-    ],
-    [
-      "My AI agents kept trying to cross red lines, so I wrote them a constitution",
-      "https://github.com/Chong169/a-constitution-for-one"
-    ]
-  ],
-  [
-    [
-      "2026-08-21, 15:45:44",
-      "https://news.ycombinator.com/item?id=49389861"
-    ],
-    [
-      "Every shape can be cut exactly in half with one straight line",
-      "https://bisecto.com/every-shape-can-be-cut-in-half.html"
     ]
   ],
   [
@@ -71,32 +71,12 @@
   ],
   [
     [
-      "2026-08-21, 15:21:10",
-      "https://news.ycombinator.com/item?id=49389493"
-    ],
-    [
-      "Show HN: AgentSight – eBPF observability for AI agents, no code changes",
-      "https://github.com/alibaba/anolisa/blob/main/docs/user-guide/en/agent-observability/agentsight.md"
-    ]
-  ],
-  [
-    [
       "2026-08-21, 15:20:59",
       "https://news.ycombinator.com/item?id=49389491"
     ],
     [
       "The B-right/V R2 Operating System",
       "http://tronweb.super-nova.co.jp/b-right-vr2intro.html"
-    ]
-  ],
-  [
-    [
-      "2026-08-21, 15:19:00",
-      "https://news.ycombinator.com/item?id=49389466"
-    ],
-    [
-      "Show HN: A desktop fly drawn to the scent of vibecode",
-      "https://github.com/kulikov0/desktop-vibe-fly"
     ]
   ],
   [
@@ -131,12 +111,12 @@
   ],
   [
     [
-      "2026-08-21, 14:31:52",
-      "https://news.ycombinator.com/item?id=49388752"
+      "2026-08-21, 14:46:01",
+      "https://news.ycombinator.com/item?id=49388963"
     ],
     [
-      "Claudette: Make Claude Stop Talking Like a BuzzFeed Article",
-      "https://github.com/adnanakil/nobuzz/blob/main/README.md"
+      "I came to write THAT paper with Leslie Lamport",
+      "https://lawrencecpaulson.github.io//2026/08/21/Lamport.html"
     ]
   ],
   [
@@ -241,6 +221,16 @@
   ],
   [
     [
+      "2026-08-21, 12:08:19",
+      "https://news.ycombinator.com/item?id=49386877"
+    ],
+    [
+      "The road to ACID transactions in Cassandra 6",
+      "https://theconsensus.dev/p/2026/08/16/transactions-in-cassandra.html"
+    ]
+  ],
+  [
+    [
       "2026-08-21, 11:43:38",
       "https://news.ycombinator.com/item?id=49386659"
     ],
@@ -297,6 +287,16 @@
     [
       "The Lost Treasure of Sid Meier's Pirates",
       "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/"
+    ]
+  ],
+  [
+    [
+      "2026-08-17, 14:16:41",
+      "https://news.ycombinator.com/item?id=49331391"
+    ],
+    [
+      "Does whispering to agents in docs help?",
+      "https://passo.uno/if-you-are-an-agent-read-this/"
     ]
   ]
 ]
