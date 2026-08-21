@@ -1,12 +1,112 @@
 [
   [
     [
+      "2026-08-21, 16:03:47",
+      "https://news.ycombinator.com/item?id=49390132"
+    ],
+    [
+      "Omacom Foundation Launches with $8M",
+      "https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/"
+    ]
+  ],
+  [
+    [
+      "2026-08-21, 15:51:10",
+      "https://news.ycombinator.com/item?id=49389952"
+    ],
+    [
+      "How We Made a Text-to-Speech Model Respond in Sub-50 ms",
+      "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/"
+    ]
+  ],
+  [
+    [
+      "2026-08-21, 15:50:50",
+      "https://news.ycombinator.com/item?id=49389948"
+    ],
+    [
+      "Flagwars.lol",
+      "https://www.flagwars.lol"
+    ]
+  ],
+  [
+    [
+      "2026-08-21, 15:48:32",
+      "https://news.ycombinator.com/item?id=49389912"
+    ],
+    [
+      "My AI agents kept trying to cross red lines, so I wrote them a constitution",
+      "https://github.com/Chong169/a-constitution-for-one"
+    ]
+  ],
+  [
+    [
+      "2026-08-21, 15:45:44",
+      "https://news.ycombinator.com/item?id=49389861"
+    ],
+    [
+      "Every shape can be cut exactly in half with one straight line",
+      "https://bisecto.com/every-shape-can-be-cut-in-half.html"
+    ]
+  ],
+  [
+    [
+      "2026-08-21, 15:25:42",
+      "https://news.ycombinator.com/item?id=49389565"
+    ],
+    [
+      "AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
+      "https://canews24.online/?p=71"
+    ]
+  ],
+  [
+    [
+      "2026-08-21, 15:23:32",
+      "https://news.ycombinator.com/item?id=49389524"
+    ],
+    [
+      "Cancer-Related Mortality Among US Pilots and Flight Attendants",
+      "https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2852504"
+    ]
+  ],
+  [
+    [
+      "2026-08-21, 15:21:10",
+      "https://news.ycombinator.com/item?id=49389493"
+    ],
+    [
+      "Show HN: AgentSight – eBPF observability for AI agents, no code changes",
+      "https://github.com/alibaba/anolisa/blob/main/docs/user-guide/en/agent-observability/agentsight.md"
+    ]
+  ],
+  [
+    [
       "2026-08-21, 15:20:59",
       "https://news.ycombinator.com/item?id=49389491"
     ],
     [
       "The B-right/V R2 Operating System",
       "http://tronweb.super-nova.co.jp/b-right-vr2intro.html"
+    ]
+  ],
+  [
+    [
+      "2026-08-21, 15:19:00",
+      "https://news.ycombinator.com/item?id=49389466"
+    ],
+    [
+      "Show HN: A desktop fly drawn to the scent of vibecode",
+      "https://github.com/kulikov0/desktop-vibe-fly"
+    ]
+  ],
+  [
+    [
+      "2026-08-21, 15:17:04",
+      "https://news.ycombinator.com/item?id=49389430"
+    ],
+    [
+      "Felony Bench",
+      "https://www.felonybench.com/"
     ]
   ],
   [
@@ -21,22 +121,22 @@
   ],
   [
     [
+      "2026-08-21, 15:11:10",
+      "https://news.ycombinator.com/item?id=49389339"
+    ],
+    [
+      "Code Obfuscation via Local Mixing",
+      "https://vitalik.eth.limo/general/2026/08/21/obfuscation_part_iii_local_mixing.html"
+    ]
+  ],
+  [
+    [
       "2026-08-21, 14:31:52",
       "https://news.ycombinator.com/item?id=49388752"
     ],
     [
       "Claudette: Make Claude Stop Talking Like a BuzzFeed Article",
       "https://github.com/adnanakil/nobuzz/blob/main/README.md"
-    ]
-  ],
-  [
-    [
-      "2026-08-21, 14:28:15",
-      "https://news.ycombinator.com/item?id=49388694"
-    ],
-    [
-      "Zig's Io.Threaded Is Neat",
-      "https://matklad.github.io/2026/08/06/neat-io-threaded.html"
     ]
   ],
   [
@@ -81,42 +181,12 @@
   ],
   [
     [
-      "2026-08-21, 13:50:59",
-      "https://news.ycombinator.com/item?id=49388064"
-    ],
-    [
-      "Rama 0.4: System proxy and PAC support",
-      "https://plabayo.tech/blog/rama-0-4"
-    ]
-  ],
-  [
-    [
-      "2026-08-21, 13:40:22",
-      "https://news.ycombinator.com/item?id=49387915"
-    ],
-    [
-      "Getting silly with C, part and((int*)-8)[3]",
-      "https://blog.coredump.cx/p/getting-silly-with-c-part-and-int1"
-    ]
-  ],
-  [
-    [
       "2026-08-21, 13:35:17",
       "https://news.ycombinator.com/item?id=49387856"
     ],
     [
       "Radiation damage to Hubble has been 4.3 years out of phase with the Solar cycle",
       "https://arxiv.org/abs/2608.18214"
-    ]
-  ],
-  [
-    [
-      "2026-08-21, 13:26:03",
-      "https://news.ycombinator.com/item?id=49387755"
-    ],
-    [
-      "Nvidia AVO scores 100% on the ARC-AGI-3 interactive reasoning benchmark",
-      "https://twitter.com/NVIDIAAI/status/2090786258981466231"
     ]
   ],
   [
@@ -161,42 +231,12 @@
   ],
   [
     [
-      "2026-08-21, 12:58:46",
-      "https://news.ycombinator.com/item?id=49387433"
-    ],
-    [
-      "Yes/No/Cancel causes Aspirin sales to soar",
-      "https://martin.kleppmann.com/2007/07/19/yes-no-cancel-causes-aspirin-sales-to-soar.html"
-    ]
-  ],
-  [
-    [
       "2026-08-21, 12:52:25",
       "https://news.ycombinator.com/item?id=49387349"
     ],
     [
       "DuckDB V2 PEG-based SQL parser",
       "https://duckdb.org/2026/08/20/duckdb-20-peg-parser"
-    ]
-  ],
-  [
-    [
-      "2026-08-21, 12:40:10",
-      "https://news.ycombinator.com/item?id=49387221"
-    ],
-    [
-      "Nothing Doing",
-      "https://www.futilitycloset.com/2026/08/10/nothing-doing-12/"
-    ]
-  ],
-  [
-    [
-      "2026-08-21, 12:08:19",
-      "https://news.ycombinator.com/item?id=49386877"
-    ],
-    [
-      "The road to ACID transactions in Cassandra 6",
-      "https://theconsensus.dev/p/2026/08/16/transactions-in-cassandra.html"
     ]
   ],
   [
@@ -257,46 +297,6 @@
     [
       "The Lost Treasure of Sid Meier's Pirates",
       "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/"
-    ]
-  ],
-  [
-    [
-      "2026-08-21, 06:59:40",
-      "https://news.ycombinator.com/item?id=49384716"
-    ],
-    [
-      "We Rebuilt the Linux MicroVM Stack on Apple Silicon",
-      "https://encore.dev/blog/firecracker-apple-silicon"
-    ]
-  ],
-  [
-    [
-      "2026-08-20, 19:22:24",
-      "https://news.ycombinator.com/item?id=49378957"
-    ],
-    [
-      "The August 17 outage",
-      "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/"
-    ]
-  ],
-  [
-    [
-      "2026-08-17, 14:01:37",
-      "https://news.ycombinator.com/item?id=49331084"
-    ],
-    [
-      "Flat Chair by Sara Paculdo",
-      "https://www.toxel.com/tech/2026/08/07/flat-chair-by-sara-paculdo/"
-    ]
-  ],
-  [
-    [
-      "2026-08-16, 16:37:34",
-      "https://news.ycombinator.com/item?id=49321549"
-    ],
-    [
-      "John Berger: From Life by Tom Overton review – a vibrant biography",
-      "https://www.theguardian.com/books/2026/aug/10/john-berger-from-life-by-tom-overton-review-a-vibrant-biography-of-the-pioneering-critic"
     ]
   ]
 ]
