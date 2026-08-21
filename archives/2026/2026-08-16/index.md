@@ -38,6 +38,7 @@
 * [2026-08-16, 16:08:57](https://news.ycombinator.com/item?id=49321298) - [Being Ambitious and Being a Dad](https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/)
 * [2026-08-16, 15:46:23](https://news.ycombinator.com/item?id=49321111) - [If your agent commits a crime, who is responsible?](https://www.signalbloom.ai/posts/if-your-agent-commits-a-crime-who-is-responsible/)
 * [2026-08-16, 15:30:15](https://news.ycombinator.com/item?id=49320984) - [The weekend is 100 years old](https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it)
+* [2026-08-16, 15:17:09](https://news.ycombinator.com/item?id=49320866) - [The case against a C alternative (2022)](https://c3.handmade.network/blog/p/8486-the_case_against_a_c_alternative)
 * [2026-08-16, 15:16:06](https://news.ycombinator.com/item?id=49320856) - [St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core](https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core)
 * [2026-08-16, 14:53:14](https://news.ycombinator.com/item?id=49320673) - [GPS and the Lost Art of Getting Lost](https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost)
 * [2026-08-16, 14:44:55](https://news.ycombinator.com/item?id=49320611) - [The AI Credit Resale Economy](https://vectoral.com/blog/who-are-the-token-brokers)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-21, 08:19:48](https://news.ycombinator.com/item?id=49385296) - [Emacs 31.1 will release on 8/24](https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY)
 * [2026-08-21, 07:23:27](https://news.ycombinator.com/item?id=49384896) - [The Lost Treasure of Sid Meier's Pirates](https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/)
 * [2026-08-21, 06:59:40](https://news.ycombinator.com/item?id=49384716) - [We Rebuilt the Linux MicroVM Stack on Apple Silicon](https://encore.dev/blog/firecracker-apple-silicon)
 * [2026-08-21, 06:24:16](https://news.ycombinator.com/item?id=49384477) - [Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents](https://Argentic.network)
@@ -11,7 +12,6 @@
 * [2026-08-21, 02:37:47](https://news.ycombinator.com/item?id=49383026) - [AI companies destroy physical books – let's scan rare books before it's too late](https://annas-archive.gl/blog/physical-destruction.html)
 * [2026-08-20, 23:56:35](https://news.ycombinator.com/item?id=49381896) - [Ox Alpha](https://openrouter.ai/stealth/ox-alpha)
 * [2026-08-20, 19:22:24](https://news.ycombinator.com/item?id=49378957) - [The August 17 outage](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/)
-* [2026-08-20, 19:19:53](https://news.ycombinator.com/item?id=49378933) - [SpacetimeDB: a short technical review](https://strn.cat/posts/spacetime/)
 * [2026-08-20, 19:05:36](https://news.ycombinator.com/item?id=49378768) - [Show HN: Huzzah – a novel approach to coding with AI](https://www.danielvaughn.dev/posts/huzzah/)
 * [2026-08-20, 18:38:47](https://news.ycombinator.com/item?id=49378446) - [Why aren't smart people happier? (2022)](https://www.experimental-history.com/p/why-arent-smart-people-happier)
 * [2026-08-20, 17:50:02](https://news.ycombinator.com/item?id=49377853) - [I should have loved biology (2020)](https://jsomers.net/i-should-have-loved-biology/)
@@ -24,10 +24,10 @@
 * [2026-08-20, 00:15:01](https://news.ycombinator.com/item?id=49368886) - [CIA funding helped keep NeXT afloat in the 80s](https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink)
 * [2026-08-19, 15:11:36](https://news.ycombinator.com/item?id=49362689) - [HTML Can Do That](https://chrisburnell.com/html-can-do-that/)
 * [2026-08-19, 11:35:26](https://news.ycombinator.com/item?id=49360140) - [Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces (2025)](https://arxiv.org/abs/2504.09762)
-* [2026-08-18, 16:26:56](https://news.ycombinator.com/item?id=49348141) - [Git at any scale](https://cursor.com/blog/git-at-any-scale)
 * [2026-08-18, 15:50:52](https://news.ycombinator.com/item?id=49347543) - [I like 'em thick: an apology to my English teachers](https://www.experimental-history.com/p/i-like-em-thick)
 * [2026-08-17, 19:28:44](https://news.ycombinator.com/item?id=49336358) - [Version Control for Everything](https://tyoverby.com/posts/version-control-for-everything-else/)
 * [2026-08-17, 12:42:47](https://news.ycombinator.com/item?id=49329919) - [Captain Zilog](https://www.zilog.com/captain_zilog/)
+* [2026-08-16, 15:17:09](https://news.ycombinator.com/item?id=49320866) - [The case against a C alternative (2022)](https://c3.handmade.network/blog/p/8486-the_case_against_a_c_alternative)
 * [2026-08-14, 20:49:29](https://news.ycombinator.com/item?id=49304409) - [Make a 6-Tesla-class high-temperature superconducting dipole magnet at 4.2 K](https://journals.aps.org/prab/abstract/10.1103/4nhs-bkwh)
 * [2026-08-14, 05:45:12](https://news.ycombinator.com/item?id=49295112) - [Speeding Up (Small) Ruby Hashes](https://byroot.github.io/ruby/performance/2026/08/13/speeding-up-ruby-hashes.html)
 
