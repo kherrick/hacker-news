@@ -1,14 +1,15 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-21, 00:28:37](https://news.ycombinator.com/item?id=49382152) - [There's no such thing as a small software team anymore](https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/)
+* [2026-08-21, 00:15:12](https://news.ycombinator.com/item?id=49382041) - [Copyright does not protect AI-generated content in EU](https://mathstodon.xyz/@maxpool/117128107757895678)
+* [2026-08-20, 23:56:35](https://news.ycombinator.com/item?id=49381896) - [Stealth Model](https://openrouter.ai/stealth/ox-alpha)
 * [2026-08-20, 22:47:52](https://news.ycombinator.com/item?id=49381311) - [Detecting scraper bots through scroll behaviour](https://niki.cat/detecting-scraper-bots-through-scroll-behaviour)
-* [2026-08-20, 21:24:57](https://news.ycombinator.com/item?id=49380482) - [Code as an Artifact](https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/)
-* [2026-08-20, 21:01:24](https://news.ycombinator.com/item?id=49380226) - [The Wonders of the Male Human Pelvis](https://nautil.us/the-wonders-of-the-male-human-pelvis-1283947)
+* [2026-08-20, 21:25:48](https://news.ycombinator.com/item?id=49380491) - [The Citizen Developer](https://www.massdriver.cloud/blogs/the-citizen-developer)
 * [2026-08-20, 20:07:26](https://news.ycombinator.com/item?id=49379550) - [Aaron Swartz was prosecuted for scraping, while Meta does it without consequence](https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/)
 * [2026-08-20, 19:22:24](https://news.ycombinator.com/item?id=49378957) - [The August 17 outage, and the work ahead](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/)
 * [2026-08-20, 19:21:45](https://news.ycombinator.com/item?id=49378950) - [Tidal Cycles – Live coding music with Algorithmic patterns](https://tidalcycles.org/)
 * [2026-08-20, 19:19:53](https://news.ycombinator.com/item?id=49378933) - [SpacetimeDB: A Short Technical Review](https://strn.cat/posts/spacetime/)
 * [2026-08-20, 19:05:36](https://news.ycombinator.com/item?id=49378768) - [Show HN: Huzzah – a novel approach to coding with AI](https://www.danielvaughn.dev/posts/huzzah/)
-* [2026-08-20, 18:54:32](https://news.ycombinator.com/item?id=49378630) - [Watching TikTok and Instagram deactivates the cognitive control network: Study](https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/)
 * [2026-08-20, 18:38:47](https://news.ycombinator.com/item?id=49378446) - [Why aren't smart people happier? (2022)](https://www.experimental-history.com/p/why-arent-smart-people-happier)
 * [2026-08-20, 18:19:51](https://news.ycombinator.com/item?id=49378243) - [Consumer Rights Wiki](https://consumerrights.wiki/w/Main_Page)
 * [2026-08-20, 17:50:02](https://news.ycombinator.com/item?id=49377853) - [I should have loved biology (2020)](https://jsomers.net/i-should-have-loved-biology/)
@@ -28,8 +29,7 @@
 * [2026-08-18, 16:26:56](https://news.ycombinator.com/item?id=49348141) - [Git at any scale](https://cursor.com/blog/git-at-any-scale)
 * [2026-08-18, 16:23:24](https://news.ycombinator.com/item?id=49348079) - [Mojo is now open source](https://www.modular.com/blog/mojo-open-source)
 * [2026-08-18, 15:50:52](https://news.ycombinator.com/item?id=49347543) - [I like 'em thick: an apology to my English teachers](https://www.experimental-history.com/p/i-like-em-thick)
-* [2026-08-17, 18:26:53](https://news.ycombinator.com/item?id=49335490) - [In Which I Lose My Mind over Embeddings (HPLM Chapter 2)](https://www.maayanroth.com/blog/posts/hundred-page-lm-book-chapter-2.html)
-* [2026-08-14, 05:45:12](https://news.ycombinator.com/item?id=49295112) - [Speeding Up (Small) Ruby Hashes](https://byroot.github.io/ruby/performance/2026/08/13/speeding-up-ruby-hashes.html)
+* [2026-08-17, 13:09:06](https://news.ycombinator.com/item?id=49330246) - [Speeding Up the Plush Garbage Collector](https://pointersgonewild.com/2026-08-17-speeding-up-the-plush-garbage-collector/)
 
 ## [Archives](archives/index.md)
 
