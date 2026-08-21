@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-08-21, 11:06:25",
+      "https://news.ycombinator.com/item?id=49386383"
+    ],
+    [
+      "Kino: A high-performance Ractor web server for Ruby 4.0",
+      "https://github.com/yaroslav/kino"
+    ]
+  ],
+  [
+    [
       "2026-08-21, 10:33:56",
       "https://news.ycombinator.com/item?id=49386163"
     ],
@@ -127,16 +137,6 @@
     [
       "The August 17 outage",
       "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/"
-    ]
-  ],
-  [
-    [
-      "2026-08-20, 19:05:36",
-      "https://news.ycombinator.com/item?id=49378768"
-    ],
-    [
-      "Show HN: Huzzah – a novel approach to coding with AI",
-      "https://www.danielvaughn.dev/posts/huzzah/"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-08-14, 05:45:12",
-      "https://news.ycombinator.com/item?id=49295112"
+      "2026-08-16, 10:28:48",
+      "https://news.ycombinator.com/item?id=49318718"
     ],
     [
-      "Speeding Up (Small) Ruby Hashes",
-      "https://byroot.github.io/ruby/performance/2026/08/13/speeding-up-ruby-hashes.html"
+      "Siemens PC-X (2015)",
+      "https://www.geekdot.com/siemens-pc-x/"
     ]
   ]
 ]
