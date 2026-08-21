@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-08-21, 11:43:38](https://news.ycombinator.com/item?id=49386659) - [TigerBeetle Core System Architecture: Deconstructing Performance Engineering](https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering)
+* [2026-08-21, 11:06:25](https://news.ycombinator.com/item?id=49386383) - [Kino: A high-performance Ractor web server for Ruby 4.0](https://github.com/yaroslav/kino)
 * [2026-08-21, 10:33:56](https://news.ycombinator.com/item?id=49386163) - [DeepSeek-v4-flash-vision-exp](https://api-docs.deepseek.com/guides/vision/)
 * [2026-08-21, 10:05:46](https://news.ycombinator.com/item?id=49385994) - [AI companies destroy physical books – let's scan rare books before it's too late](https://annas-archive.pk/blog/physical-destruction.html)
 * [2026-08-21, 09:45:14](https://news.ycombinator.com/item?id=49385860) - [Small, native web tricks worth remembering](https://htmlcat.net/)
@@ -13,7 +14,6 @@
 * [2026-08-21, 03:51:58](https://news.ycombinator.com/item?id=49383582) - [Micron announces $10B research hub in Boise](https://investors.micron.com/news/press-release/2026/Micron-Unveils-Micron-Research-Labs-a-U-S--Based-Long-Horizon-Innovation-Hub-to-Shape-the-Future-of-Memory-and-AI/default.aspx)
 * [2026-08-20, 23:56:35](https://news.ycombinator.com/item?id=49381896) - [Ox Alpha](https://openrouter.ai/stealth/ox-alpha)
 * [2026-08-20, 19:22:24](https://news.ycombinator.com/item?id=49378957) - [The August 17 outage](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/)
-* [2026-08-20, 19:05:36](https://news.ycombinator.com/item?id=49378768) - [Show HN: Huzzah – a novel approach to coding with AI](https://www.danielvaughn.dev/posts/huzzah/)
 * [2026-08-20, 18:38:47](https://news.ycombinator.com/item?id=49378446) - [Why aren't smart people happier? (2022)](https://www.experimental-history.com/p/why-arent-smart-people-happier)
 * [2026-08-20, 17:50:02](https://news.ycombinator.com/item?id=49377853) - [I should have loved biology (2020)](https://jsomers.net/i-should-have-loved-biology/)
 * [2026-08-20, 15:46:18](https://news.ycombinator.com/item?id=49376265) - [Linux 7.2](https://www.igalia.com/2026/08/19/Linux-72-Released.html)
@@ -29,7 +29,7 @@
 * [2026-08-17, 14:01:37](https://news.ycombinator.com/item?id=49331084) - [Flat Chair by Sara Paculdo](https://www.toxel.com/tech/2026/08/07/flat-chair-by-sara-paculdo/)
 * [2026-08-17, 12:42:47](https://news.ycombinator.com/item?id=49329919) - [Captain Zilog](https://www.zilog.com/captain_zilog/)
 * [2026-08-16, 13:11:08](https://news.ycombinator.com/item?id=49319733) - [The Mystery of Dark Oxygen](https://www.newyorker.com/science/elements/the-mystery-of-dark-oxygen)
-* [2026-08-14, 05:45:12](https://news.ycombinator.com/item?id=49295112) - [Speeding Up (Small) Ruby Hashes](https://byroot.github.io/ruby/performance/2026/08/13/speeding-up-ruby-hashes.html)
+* [2026-08-16, 10:28:48](https://news.ycombinator.com/item?id=49318718) - [Siemens PC-X (2015)](https://www.geekdot.com/siemens-pc-x/)
 
 ## [Archives](archives/index.md)
 

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-08-21](index.md)
 
 * [2026-08-21, 11:43:38](https://news.ycombinator.com/item?id=49386659) - [TigerBeetle Core System Architecture: Deconstructing Performance Engineering](https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering)
+* [2026-08-21, 11:06:25](https://news.ycombinator.com/item?id=49386383) - [Kino: A high-performance Ractor web server for Ruby 4.0](https://github.com/yaroslav/kino)
 * [2026-08-21, 10:33:56](https://news.ycombinator.com/item?id=49386163) - [DeepSeek-v4-flash-vision-exp](https://api-docs.deepseek.com/guides/vision/)
 * [2026-08-21, 10:05:46](https://news.ycombinator.com/item?id=49385994) - [AI companies destroy physical books – let's scan rare books before it's too late](https://annas-archive.pk/blog/physical-destruction.html)
 * [2026-08-21, 09:45:14](https://news.ycombinator.com/item?id=49385860) - [Small, native web tricks worth remembering](https://htmlcat.net/)
