@@ -14,6 +14,7 @@
 * [2026-08-14, 22:30:14](https://news.ycombinator.com/item?id=49305415) - [IDE Nostalgia (2022)](https://davidsmaynard.com/blog/keyset)
 * [2026-08-14, 22:15:12](https://news.ycombinator.com/item?id=49305250) - [eigendrum](https://eigendrum.com/#p=circle)
 * [2026-08-14, 20:52:44](https://news.ycombinator.com/item?id=49304447) - [Everything is about to \"go dark\"](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/)
+* [2026-08-14, 20:49:29](https://news.ycombinator.com/item?id=49304409) - [Make a 6-Tesla-class high-temperature superconducting dipole magnet at 4.2 K](https://journals.aps.org/prab/abstract/10.1103/4nhs-bkwh)
 * [2026-08-14, 20:46:04](https://news.ycombinator.com/item?id=49304368) - [Study links coffee consumption to metabolic health and sex hormones](https://www.oulu.fi/en/news/study-links-coffee-consumption-metabolic-health-and-sex-hormones)
 * [2026-08-14, 20:10:49](https://news.ycombinator.com/item?id=49303957) - [Every exterior shot in The Taking of Pelham 123](https://iafisher.com/2026/07/pelham-123)
 * [2026-08-14, 19:52:05](https://news.ycombinator.com/item?id=49303776) - [A quick look at zero-knowledge proofs](https://bernsteinbear.com/blog/zkp/)

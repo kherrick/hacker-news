@@ -1,13 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-21, 01:37:27](https://news.ycombinator.com/item?id=49382614) - [Berkeley Law prohibits AI use in classes (by default)](https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/)
+* [2026-08-21, 00:34:32](https://news.ycombinator.com/item?id=49382200) - [It is a sign of the times that Amazon gets to call this fair use](http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html)
 * [2026-08-21, 00:28:37](https://news.ycombinator.com/item?id=49382152) - [There's no such thing as a small software team anymore](https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/)
 * [2026-08-21, 00:15:12](https://news.ycombinator.com/item?id=49382041) - [Copyright does not protect AI-generated content in EU](https://mathstodon.xyz/@maxpool/117128107757895678)
 * [2026-08-20, 23:56:35](https://news.ycombinator.com/item?id=49381896) - [Stealth Model](https://openrouter.ai/stealth/ox-alpha)
 * [2026-08-20, 22:47:52](https://news.ycombinator.com/item?id=49381311) - [Detecting scraper bots through scroll behaviour](https://niki.cat/detecting-scraper-bots-through-scroll-behaviour)
-* [2026-08-20, 21:25:48](https://news.ycombinator.com/item?id=49380491) - [The Citizen Developer](https://www.massdriver.cloud/blogs/the-citizen-developer)
 * [2026-08-20, 20:07:26](https://news.ycombinator.com/item?id=49379550) - [Aaron Swartz was prosecuted for scraping, while Meta does it without consequence](https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/)
 * [2026-08-20, 19:22:24](https://news.ycombinator.com/item?id=49378957) - [The August 17 outage, and the work ahead](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/)
-* [2026-08-20, 19:21:45](https://news.ycombinator.com/item?id=49378950) - [Tidal Cycles – Live coding music with Algorithmic patterns](https://tidalcycles.org/)
 * [2026-08-20, 19:19:53](https://news.ycombinator.com/item?id=49378933) - [SpacetimeDB: A Short Technical Review](https://strn.cat/posts/spacetime/)
 * [2026-08-20, 19:05:36](https://news.ycombinator.com/item?id=49378768) - [Show HN: Huzzah – a novel approach to coding with AI](https://www.danielvaughn.dev/posts/huzzah/)
 * [2026-08-20, 18:38:47](https://news.ycombinator.com/item?id=49378446) - [Why aren't smart people happier? (2022)](https://www.experimental-history.com/p/why-arent-smart-people-happier)
@@ -18,7 +18,6 @@
 * [2026-08-20, 15:46:18](https://news.ycombinator.com/item?id=49376265) - [Linux 7.2](https://www.igalia.com/2026/08/19/Linux-72-Released.html)
 * [2026-08-20, 15:26:02](https://news.ycombinator.com/item?id=49375996) - [Vomit: Clean up Claude 5's token output with a separate LLM](https://github.com/zachahn/vomit)
 * [2026-08-20, 15:06:53](https://news.ycombinator.com/item?id=49375719) - [Anti-AI fonts are useless and harmful](https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/)
-* [2026-08-20, 14:08:09](https://news.ycombinator.com/item?id=49374772) - [Hacking with Claude on a $27 smart watch](https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html)
 * [2026-08-20, 13:56:59](https://news.ycombinator.com/item?id=49374635) - [Every Model Cheats](https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/)
 * [2026-08-20, 13:24:32](https://news.ycombinator.com/item?id=49374287) - [DiffusionGemma Technical Report](https://arxiv.org/abs/2608.00146)
 * [2026-08-20, 13:23:12](https://news.ycombinator.com/item?id=49374269) - [Malicious Rust crate Arrayref runs a build-time payload](https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/)
@@ -29,7 +28,8 @@
 * [2026-08-18, 16:26:56](https://news.ycombinator.com/item?id=49348141) - [Git at any scale](https://cursor.com/blog/git-at-any-scale)
 * [2026-08-18, 16:23:24](https://news.ycombinator.com/item?id=49348079) - [Mojo is now open source](https://www.modular.com/blog/mojo-open-source)
 * [2026-08-18, 15:50:52](https://news.ycombinator.com/item?id=49347543) - [I like 'em thick: an apology to my English teachers](https://www.experimental-history.com/p/i-like-em-thick)
-* [2026-08-17, 13:09:06](https://news.ycombinator.com/item?id=49330246) - [Speeding Up the Plush Garbage Collector](https://pointersgonewild.com/2026-08-17-speeding-up-the-plush-garbage-collector/)
+* [2026-08-14, 20:49:29](https://news.ycombinator.com/item?id=49304409) - [Make a 6-Tesla-class high-temperature superconducting dipole magnet at 4.2 K](https://journals.aps.org/prab/abstract/10.1103/4nhs-bkwh)
+* [2026-08-14, 05:45:12](https://news.ycombinator.com/item?id=49295112) - [Speeding Up (Small) Ruby Hashes](https://byroot.github.io/ruby/performance/2026/08/13/speeding-up-ruby-hashes.html)
 
 ## [Archives](archives/index.md)
 
