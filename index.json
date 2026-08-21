@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-08-21, 17:31:15",
+      "https://news.ycombinator.com/item?id=49391358"
+    ],
+    [
+      "When the shortage is the strategy",
+      "https://nooneshappy.com/article/when-the-shortage-is-the-strategy/"
+    ]
+  ],
+  [
+    [
       "2026-08-21, 17:00:23",
       "https://news.ycombinator.com/item?id=49390910"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=49390775"
     ],
     [
-      "Another Better Lower Bound for N=17 Square Packing",
+      "Another better lower bound for n=17 square packing",
       "http://gus-massa.blogspot.com/2026/08/another-better-lower-bound-for-n17.html"
     ]
   ],
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=49390463"
     ],
     [
-      "A self hosted AI software factory",
+      "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
       "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/"
     ]
   ],
@@ -71,11 +81,21 @@
   ],
   [
     [
+      "2026-08-21, 16:09:50",
+      "https://news.ycombinator.com/item?id=49390206"
+    ],
+    [
+      "Decayfmt – a file format that corrupts itself a little every time you open it",
+      "https://github.com/aravpanwar/decayfmt"
+    ]
+  ],
+  [
+    [
       "2026-08-21, 16:03:47",
       "https://news.ycombinator.com/item?id=49390132"
     ],
     [
-      "Omacom Foundation Launches with $8M",
+      "Omacom Foundation launches with $8M",
       "https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/"
     ]
   ],
@@ -101,22 +121,22 @@
   ],
   [
     [
-      "2026-08-21, 15:25:42",
-      "https://news.ycombinator.com/item?id=49389565"
-    ],
-    [
-      "AI boosted homework scores, then exam scores dropped: Study",
-      "https://canews24.online/?p=71"
-    ]
-  ],
-  [
-    [
       "2026-08-21, 15:23:32",
       "https://news.ycombinator.com/item?id=49389524"
     ],
     [
-      "Cancer-Related Mortality Among US Pilots and Flight Attendants",
-      "https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2852504"
+      "Cancer-related mortality among US pilots and flight attendants",
+      "https://www.cnn.com/2026/08/19/health/flight-attendants-pilots-radiation-cancer-deaths"
+    ]
+  ],
+  [
+    [
+      "2026-08-21, 15:17:47",
+      "https://news.ycombinator.com/item?id=49389441"
+    ],
+    [
+      "I ran Photoshop on a £0.60 computer chip",
+      "https://pointinthecloud.com/2026-08-19-144600.html"
     ]
   ],
   [
@@ -145,28 +165,8 @@
       "https://news.ycombinator.com/item?id=49388963"
     ],
     [
-      "I came to write THAT paper with Leslie Lamport",
+      "How I came to write that paper with Leslie Lamport",
       "https://lawrencecpaulson.github.io//2026/08/21/Lamport.html"
-    ]
-  ],
-  [
-    [
-      "2026-08-21, 14:27:37",
-      "https://news.ycombinator.com/item?id=49388682"
-    ],
-    [
-      "WPD won't replace stolen Flock cameras, citing public trust",
-      "https://www.winonapost.com/news/wpd-wont-replace-stolen-flock-cameras-citing-public-trust/article_06a67859-2d97-414b-aa8f-d8751ad214bb.html"
-    ]
-  ],
-  [
-    [
-      "2026-08-21, 14:16:17",
-      "https://news.ycombinator.com/item?id=49388446"
-    ],
-    [
-      "What We Lost When Search Stopped Making Us Think",
-      "https://blog.8ball.space/what-we-lost-when-search/"
     ]
   ],
   [
@@ -205,7 +205,7 @@
       "https://news.ycombinator.com/item?id=49387525"
     ],
     [
-      "We are living in a version of the future out of J.G. Ballard or William Gibson",
+      "New Worlds: We are living in the future of J.G. Ballard or William Gibson",
       "https://precastreinforced.co.uk/2026/08/16/new-worlds/"
     ]
   ],
@@ -221,12 +221,12 @@
   ],
   [
     [
-      "2026-08-21, 11:43:38",
-      "https://news.ycombinator.com/item?id=49386659"
+      "2026-08-21, 12:52:25",
+      "https://news.ycombinator.com/item?id=49387349"
     ],
     [
-      "TigerBeetle Core System Architecture: Deconstructing Performance Engineering",
-      "https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering"
+      "DuckDB V2 PEG-based SQL parser",
+      "https://duckdb.org/2026/08/20/duckdb-20-peg-parser"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2026-08-21, 09:45:14",
-      "https://news.ycombinator.com/item?id=49385860"
-    ],
-    [
-      "Small, native web tricks worth remembering",
-      "https://htmlcat.net/"
-    ]
-  ],
-  [
-    [
       "2026-08-21, 07:23:27",
       "https://news.ycombinator.com/item?id=49384896"
     ],
@@ -277,6 +267,16 @@
     [
       "AI companies destroy physical books – let's scan rare books before it's too late",
       "https://annas-archive.gl/blog/physical-destruction.html"
+    ]
+  ],
+  [
+    [
+      "2026-08-19, 06:13:31",
+      "https://news.ycombinator.com/item?id=49357530"
+    ],
+    [
+      "AI boosted homework scores, then exam scores dropped: Study",
+      "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning"
     ]
   ],
   [
