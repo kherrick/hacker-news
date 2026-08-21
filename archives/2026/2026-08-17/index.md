@@ -68,6 +68,7 @@
 * [2026-08-17, 13:44:23](https://news.ycombinator.com/item?id=49330742) - [We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility](https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/)
 * [2026-08-17, 13:40:55](https://news.ycombinator.com/item?id=49330684) - [Incident with Github.com](https://www.githubstatus.com/incidents/zkxwbgr0cnmx)
 * [2026-08-17, 13:37:28](https://news.ycombinator.com/item?id=49330632) - [GitHub down again? no PR access](https://news.ycombinator.com/item?id=49330632)
+* [2026-08-17, 13:36:44](https://news.ycombinator.com/item?id=49330622) - [Hard Problems and Heuristic Answers](https://stochastic.blog/hard-problems-and-heuristic-answers/)
 * [2026-08-17, 13:35:31](https://news.ycombinator.com/item?id=49330604) - [Show HN: 1667, a terminal UI for writing fiction with language models](https://1667.ai/)
 * [2026-08-17, 13:35:06](https://news.ycombinator.com/item?id=49330597) - [Tell HN: GitHub Is Overloaded](https://news.ycombinator.com/item?id=49330597)
 * [2026-08-17, 13:35:06](https://news.ycombinator.com/item?id=49330597) - [Incident with Github.com](https://www.githubstatus.com/incidents/zkxwbgr0cnmx)
