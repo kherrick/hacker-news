@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-21](index.md)
 
+* [2026-08-21, 14:31:52](https://news.ycombinator.com/item?id=49388752) - [Claudette: Make Claude Stop Talking Like a BuzzFeed Article](https://github.com/adnanakil/nobuzz/blob/main/README.md)
 * [2026-08-21, 14:16:17](https://news.ycombinator.com/item?id=49388446) - [What We Lost When Search Stopped Making Us Think](https://blog.8ball.space/what-we-lost-when-search/)
 * [2026-08-21, 13:56:37](https://news.ycombinator.com/item?id=49388154) - [Kagi added a setting for removing paywalled links from search results](https://kagi.com/changelog#11296)
 * [2026-08-21, 13:52:53](https://news.ycombinator.com/item?id=49388095) - [Kodak's \"Pre-Invented\" Lunar Orbiter Camera; Or, the Fate of SAMOS Readout](https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/)
@@ -17,6 +18,7 @@
 * [2026-08-21, 13:04:31](https://news.ycombinator.com/item?id=49387497) - [Grand jury declines to indict Ohio man charged with destroying Flock camera](https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/)
 * [2026-08-21, 12:58:46](https://news.ycombinator.com/item?id=49387433) - [Yes/No/Cancel causes Aspirin sales to soar](https://martin.kleppmann.com/2007/07/19/yes-no-cancel-causes-aspirin-sales-to-soar.html)
 * [2026-08-21, 12:52:25](https://news.ycombinator.com/item?id=49387349) - [DuckDB V2 PEG-based SQL parser](https://duckdb.org/2026/08/20/duckdb-20-peg-parser)
+* [2026-08-21, 12:40:10](https://news.ycombinator.com/item?id=49387221) - [Nothing Doing](https://www.futilitycloset.com/2026/08/10/nothing-doing-12/)
 * [2026-08-21, 12:25:45](https://news.ycombinator.com/item?id=49387059) - [AI;DR or Don't be a meat proxy](https://theaspiringnerd.com/aidr-or-dont-be-a-meat-proxy/)
 * [2026-08-21, 12:08:19](https://news.ycombinator.com/item?id=49386877) - [The road to ACID transactions in Cassandra 6](https://theconsensus.dev/p/2026/08/16/transactions-in-cassandra.html)
 * [2026-08-21, 11:48:05](https://news.ycombinator.com/item?id=49386699) - [I'm Becoming AI-Blind](https://cymerys.com/w/im-becoming-ai-blind)
