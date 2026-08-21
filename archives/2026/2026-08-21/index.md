@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-08-21](index.md)
 
+* [2026-08-21, 17:00:23](https://news.ycombinator.com/item?id=49390910) - [LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers](https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6)
+* [2026-08-21, 16:27:52](https://news.ycombinator.com/item?id=49390463) - [A self hosted AI software factory](https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/)
+* [2026-08-21, 16:25:25](https://news.ycombinator.com/item?id=49390427) - [Kobo can run apps now](https://bandarlabs.github.io/Cobalt/)
 * [2026-08-21, 16:16:42](https://news.ycombinator.com/item?id=49390308) - [What happens when a GPU reads memory](https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory)
 * [2026-08-21, 16:15:26](https://news.ycombinator.com/item?id=49390286) - [Three ways to smuggle SQLite into Nix](https://fzakaria.com/2026/08/19/three-ways-to-smuggle-sqlite-into-nix)
 * [2026-08-21, 16:03:47](https://news.ycombinator.com/item?id=49390132) - [Omacom Foundation Launches with $8M](https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/)
