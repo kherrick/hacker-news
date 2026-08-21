@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-21, 18:59:52](https://news.ycombinator.com/item?id=49392465) - [Tumble Forth – from assembly to OS with C compiler](https://tumbleforth.hardcoded.net/)
+* [2026-08-21, 18:48:28](https://news.ycombinator.com/item?id=49392331) - [Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders](https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders)
 * [2026-08-21, 18:36:34](https://news.ycombinator.com/item?id=49392200) - [Scientists release biggest 2D map of the universe](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/)
 * [2026-08-21, 17:33:26](https://news.ycombinator.com/item?id=49391389) - [Rebuilding our Electron meeting-recording engine in Swift](https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift)
-* [2026-08-21, 17:30:38](https://news.ycombinator.com/item?id=49391348) - [Galactic Compass 2: now with new augmented reality mode](https://interconnected.org/home/2026/08/21/galactic)
 * [2026-08-21, 17:00:23](https://news.ycombinator.com/item?id=49390910) - [LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers](https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6)
 * [2026-08-21, 16:50:15](https://news.ycombinator.com/item?id=49390775) - [Another better lower bound for n=17 square packing](http://gus-massa.blogspot.com/2026/08/another-better-lower-bound-for-n17.html)
 * [2026-08-21, 16:47:15](https://news.ycombinator.com/item?id=49390739) - [Show HN: Proliferate- open-source, self-hostable Codex for any coding agent](https://github.com/proliferate-ai/proliferate)
@@ -16,7 +17,6 @@
 * [2026-08-21, 14:31:52](https://news.ycombinator.com/item?id=49388752) - [Claudette: Make Claude stop talking like a BuzzFeed article](https://github.com/adnanakil/nobuzz/blob/main/README.md)
 * [2026-08-21, 13:56:37](https://news.ycombinator.com/item?id=49388154) - [Kagi added a setting for removing paywalled links from search results](https://kagi.com/changelog#11296)
 * [2026-08-21, 13:52:53](https://news.ycombinator.com/item?id=49388095) - [Kodak's \"pre-invented\" lunar orbiter camera; or, the fate of SAMOS readout](https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/)
-* [2026-08-21, 13:35:17](https://news.ycombinator.com/item?id=49387856) - [Radiation damage to Hubble has been 4.3 years out of phase with the Solar cycle](https://arxiv.org/abs/2608.18214)
 * [2026-08-21, 13:11:28](https://news.ycombinator.com/item?id=49387570) - [I accidentally logged hundreds of thousands of phone calls to military bases](https://lina.sh/blog/hijacking-e164-arpa)
 * [2026-08-21, 13:07:26](https://news.ycombinator.com/item?id=49387525) - [New Worlds: We are living in the future of J.G. Ballard or William Gibson](https://precastreinforced.co.uk/2026/08/16/new-worlds/)
 * [2026-08-21, 12:10:13](https://news.ycombinator.com/item?id=49386895) - [Felony charges for citizen deleting phone data at US Border](https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html)
@@ -27,7 +27,7 @@
 * [2026-08-19, 06:13:31](https://news.ycombinator.com/item?id=49357530) - [AI boosted homework scores, then exam scores dropped: study](https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning)
 * [2026-08-18, 14:49:19](https://news.ycombinator.com/item?id=49346444) - [The coolest anti-surveillance tools at Defcon [video]](https://www.youtube.com/watch?v=-2uAsJ5EPAw)
 * [2026-08-18, 14:29:20](https://news.ycombinator.com/item?id=49346135) - [Show HN: Shoehorn – Quantize any model down to run on your machine](https://notactuallytreyanastasio.github.io/shoehorn/)
-* [2026-08-17, 14:16:41](https://news.ycombinator.com/item?id=49331391) - [Does whispering to agents in docs help?](https://passo.uno/if-you-are-an-agent-read-this/)
+* [2026-08-17, 15:40:15](https://news.ycombinator.com/item?id=49332812) - [Using an old Android phone as a music player](https://monocyte.blog/using-an-old-android-phone-as-a-music-player/)
 * [2026-08-17, 07:12:15](https://news.ycombinator.com/item?id=49327408) - [People of ACM – Russ Cox](https://www.acm.org/articles/people-of-acm/2026/russ-cox)
 * [2026-08-14, 02:01:47](https://news.ycombinator.com/item?id=49293983) - [Quantifying the honey bee dance floor](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0341456)
 

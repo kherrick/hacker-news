@@ -47,6 +47,7 @@
 * [2026-08-17, 16:11:37](https://news.ycombinator.com/item?id=49333344) - [Judge sets framework for Nine PBS to retrieve archival data](https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/)
 * [2026-08-17, 15:56:40](https://news.ycombinator.com/item?id=49333091) - [Theory of Fluids Enters the 21st Century](https://www.quantamagazine.org/theory-of-fluids-enters-the-21st-century-20260817/)
 * [2026-08-17, 15:49:57](https://news.ycombinator.com/item?id=49332981) - [Universal Health Coverage Could Save $1T and 114k Lives a Year, Yale Study](https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/)
+* [2026-08-17, 15:40:15](https://news.ycombinator.com/item?id=49332812) - [Using an old Android phone as a music player](https://monocyte.blog/using-an-old-android-phone-as-a-music-player/)
 * [2026-08-17, 15:36:27](https://news.ycombinator.com/item?id=49332754) - [Bufo pulls the andon cord](https://hatchet.run/blog/andon-cord)
 * [2026-08-17, 15:36:18](https://news.ycombinator.com/item?id=49332751) - [Launch HN: Speko (YC S26) – OpenRouter for Voice AI](https://speko.ai/)
 * [2026-08-17, 15:36:18](https://news.ycombinator.com/item?id=49332751) - [Launch HN: Speko (YC S26) – OpenRouter for Voice AI](https://news.ycombinator.com/item?id=49332751)
