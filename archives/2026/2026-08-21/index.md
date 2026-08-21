@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-08-21](index.md)
 
+* [2026-08-21, 18:36:34](https://news.ycombinator.com/item?id=49392200) - [Scientists release biggest 2D map of the universe](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/)
 * [2026-08-21, 17:33:26](https://news.ycombinator.com/item?id=49391389) - [Rebuilding our Electron meeting-recording engine in Swift](https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift)
 * [2026-08-21, 17:31:15](https://news.ycombinator.com/item?id=49391358) - [When the shortage is the strategy](https://nooneshappy.com/article/when-the-shortage-is-the-strategy/)
+* [2026-08-21, 17:30:38](https://news.ycombinator.com/item?id=49391348) - [Galactic Compass 2: now with new augmented reality mode](https://interconnected.org/home/2026/08/21/galactic)
 * [2026-08-21, 17:00:23](https://news.ycombinator.com/item?id=49390910) - [LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers](https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6)
 * [2026-08-21, 16:50:15](https://news.ycombinator.com/item?id=49390775) - [Another Better Lower Bound for N=17 Square Packing](http://gus-massa.blogspot.com/2026/08/another-better-lower-bound-for-n17.html)
 * [2026-08-21, 16:47:15](https://news.ycombinator.com/item?id=49390739) - [Show HN: Proliferate- open-source, self-hostable Codex for any coding agent](https://github.com/proliferate-ai/proliferate)
@@ -16,6 +18,7 @@
 * [2026-08-21, 16:09:50](https://news.ycombinator.com/item?id=49390206) - [Decayfmt – a file format that corrupts itself a little every time you open it](https://github.com/aravpanwar/decayfmt)
 * [2026-08-21, 16:03:47](https://news.ycombinator.com/item?id=49390132) - [Omacom Foundation Launches with $8M](https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/)
 * [2026-08-21, 16:00:54](https://news.ycombinator.com/item?id=49390099) - [I Just Want to Search](https://www.0xsid.com/blog/just-want-to-search)
+* [2026-08-21, 15:59:16](https://news.ycombinator.com/item?id=49390066) - [LLMs are proof that Unix won](https://bastian.rieck.me/blog/2026/unix/)
 * [2026-08-21, 15:51:10](https://news.ycombinator.com/item?id=49389952) - [How We Made a Text-to-Speech Model Respond in Sub-50 ms](https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/)
 * [2026-08-21, 15:50:50](https://news.ycombinator.com/item?id=49389948) - [Flagwars.lol](https://www.flagwars.lol)
 * [2026-08-21, 15:48:32](https://news.ycombinator.com/item?id=49389912) - [My AI agents kept trying to cross red lines, so I wrote them a constitution](https://github.com/Chong169/a-constitution-for-one)
@@ -51,6 +54,7 @@
 * [2026-08-21, 12:52:25](https://news.ycombinator.com/item?id=49387349) - [DuckDB V2 PEG-based SQL parser](https://duckdb.org/2026/08/20/duckdb-20-peg-parser)
 * [2026-08-21, 12:40:10](https://news.ycombinator.com/item?id=49387221) - [Nothing Doing](https://www.futilitycloset.com/2026/08/10/nothing-doing-12/)
 * [2026-08-21, 12:25:45](https://news.ycombinator.com/item?id=49387059) - [AI;DR or Don't be a meat proxy](https://theaspiringnerd.com/aidr-or-dont-be-a-meat-proxy/)
+* [2026-08-21, 12:10:13](https://news.ycombinator.com/item?id=49386895) - [Felony charges for citizen deleting phone data at US Border](https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html)
 * [2026-08-21, 12:08:19](https://news.ycombinator.com/item?id=49386877) - [The road to ACID transactions in Cassandra 6](https://theconsensus.dev/p/2026/08/16/transactions-in-cassandra.html)
 * [2026-08-21, 11:48:05](https://news.ycombinator.com/item?id=49386699) - [I'm Becoming AI-Blind](https://cymerys.com/w/im-becoming-ai-blind)
 * [2026-08-21, 11:43:38](https://news.ycombinator.com/item?id=49386659) - [TigerBeetle Core System Architecture: Deconstructing Performance Engineering](https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering)

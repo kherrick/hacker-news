@@ -43,6 +43,7 @@
 * [2026-08-20, 14:21:25](https://news.ycombinator.com/item?id=49374965) - [Slack Code](https://www.salesforce.com/introducing-slack-code/?bc=HL)
 * [2026-08-20, 14:18:16](https://news.ycombinator.com/item?id=49374920) - [Harvest hikes bills by 1500% after purchased by Bending Spoons](https://www.bbc.com/news/articles/clyq011414eo)
 * [2026-08-20, 14:14:39](https://news.ycombinator.com/item?id=49374873) - [An elliptic curve of rank ≥ 30](https://elliptic-rank.icarm.cloud/curve/273)
+* [2026-08-20, 14:13:45](https://news.ycombinator.com/item?id=49374853) - [A look under our trunk: what's in our compute](https://waymo.com/blog/2026/08/look-under-our-trunk/)
 * [2026-08-20, 14:12:08](https://news.ycombinator.com/item?id=49374830) - [Show HN: Omacosy – Omarchy-style tiling desktop for macOS, no SIP](https://github.com/paulsp94/omacosy)
 * [2026-08-20, 14:10:12](https://news.ycombinator.com/item?id=49374797) - [Bun 1.4](https://bun.com/blog/bun-v1.4)
 * [2026-08-20, 14:08:09](https://news.ycombinator.com/item?id=49374772) - [Hacking with Claude on a $27 Smart Watch](https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html)
