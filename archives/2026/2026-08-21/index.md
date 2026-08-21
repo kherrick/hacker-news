@@ -11,6 +11,7 @@
 * [2026-08-21, 05:37:38](https://news.ycombinator.com/item?id=49384210) - [Stop Making TUIs](https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/)
 * [2026-08-21, 05:31:34](https://news.ycombinator.com/item?id=49384180) - [Japan tried to build an operating system for the world, the US intervened](https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/)
 * [2026-08-21, 05:20:50](https://news.ycombinator.com/item?id=49384113) - [Seed: Minimal, self-modifying agent harness](https://github.com/vivekhaldar/seed)
+* [2026-08-21, 03:51:58](https://news.ycombinator.com/item?id=49383582) - [Micron announces $10B research hub in Boise](https://investors.micron.com/news/press-release/2026/Micron-Unveils-Micron-Research-Labs-a-U-S--Based-Long-Horizon-Innovation-Hub-to-Shape-the-Future-of-Memory-and-AI/default.aspx)
 * [2026-08-21, 03:17:43](https://news.ycombinator.com/item?id=49383326) - [Codex on AWS bedrock bug causing 10x charges](https://github.com/openai/codex/issues/37674)
 * [2026-08-21, 02:37:47](https://news.ycombinator.com/item?id=49383026) - [AI companies destroy physical books – let's scan rare books before it's too late](https://annas-archive.gl/blog/physical-destruction.html)
 * [2026-08-21, 02:03:54](https://news.ycombinator.com/item?id=49382809) - [Orbital Construction Pioneers](https://orbitalconstructionpioneers.com/)
