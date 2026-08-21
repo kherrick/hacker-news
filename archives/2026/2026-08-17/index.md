@@ -75,6 +75,7 @@
 * [2026-08-17, 13:09:06](https://news.ycombinator.com/item?id=49330246) - [Speeding Up the Plush Garbage Collector](https://pointersgonewild.com/2026-08-17-speeding-up-the-plush-garbage-collector/)
 * [2026-08-17, 13:07:00](https://news.ycombinator.com/item?id=49330215) - [Show HN: Sokoban AI Solver](https://mkornreich.me/projects/sokoban/)
 * [2026-08-17, 13:00:44](https://news.ycombinator.com/item?id=49330139) - [Stripe to Buy OpenRouter for $7B](https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion)
+* [2026-08-17, 12:42:47](https://news.ycombinator.com/item?id=49329919) - [Captain Zilog](https://www.zilog.com/captain_zilog/)
 * [2026-08-17, 12:35:01](https://news.ycombinator.com/item?id=49329844) - [David Sacks on X: Some thoughts on Dario's post](https://twitter.com/DavidSacks/status/2089227290769080656)
 * [2026-08-17, 12:18:24](https://news.ycombinator.com/item?id=49329660) - [Buyer cancels showing after Deflock shows two cameras utilized by the HOA](https://twitter.com/lydiakauppi/status/2089196932413452386)
 * [2026-08-17, 12:10:22](https://news.ycombinator.com/item?id=49329583) - [Mexico Crackdown on Coastal Development Underway](https://yucatanmagazine.com/mexico-crackdown-on-coastal-development/)
