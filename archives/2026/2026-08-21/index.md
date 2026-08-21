@@ -4,11 +4,16 @@
 
 ### [Archives](../../index.md) for [2026-08-21](index.md)
 
+* [2026-08-21, 15:20:59](https://news.ycombinator.com/item?id=49389491) - [The B-right/V R2 Operating System](http://tronweb.super-nova.co.jp/b-right-vr2intro.html)
+* [2026-08-21, 15:14:07](https://news.ycombinator.com/item?id=49389392) - [c100](https://caligra.com/c100/)
 * [2026-08-21, 14:31:52](https://news.ycombinator.com/item?id=49388752) - [Claudette: Make Claude Stop Talking Like a BuzzFeed Article](https://github.com/adnanakil/nobuzz/blob/main/README.md)
+* [2026-08-21, 14:28:15](https://news.ycombinator.com/item?id=49388694) - [Zig's Io.Threaded Is Neat](https://matklad.github.io/2026/08/06/neat-io-threaded.html)
+* [2026-08-21, 14:27:37](https://news.ycombinator.com/item?id=49388682) - [WPD won't replace stolen Flock cameras, citing public trust](https://www.winonapost.com/news/wpd-wont-replace-stolen-flock-cameras-citing-public-trust/article_06a67859-2d97-414b-aa8f-d8751ad214bb.html)
 * [2026-08-21, 14:16:17](https://news.ycombinator.com/item?id=49388446) - [What We Lost When Search Stopped Making Us Think](https://blog.8ball.space/what-we-lost-when-search/)
 * [2026-08-21, 13:56:37](https://news.ycombinator.com/item?id=49388154) - [Kagi added a setting for removing paywalled links from search results](https://kagi.com/changelog#11296)
 * [2026-08-21, 13:52:53](https://news.ycombinator.com/item?id=49388095) - [Kodak's \"Pre-Invented\" Lunar Orbiter Camera; Or, the Fate of SAMOS Readout](https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/)
 * [2026-08-21, 13:50:59](https://news.ycombinator.com/item?id=49388064) - [Rama 0.4: System proxy and PAC support](https://plabayo.tech/blog/rama-0-4)
+* [2026-08-21, 13:40:22](https://news.ycombinator.com/item?id=49387915) - [Getting silly with C, part and((int*)-8)[3]](https://blog.coredump.cx/p/getting-silly-with-c-part-and-int1)
 * [2026-08-21, 13:35:17](https://news.ycombinator.com/item?id=49387856) - [Radiation damage to Hubble has been 4.3 years out of phase with the Solar cycle](https://arxiv.org/abs/2608.18214)
 * [2026-08-21, 13:26:03](https://news.ycombinator.com/item?id=49387755) - [Nvidia AVO scores 100% on the ARC-AGI-3 interactive reasoning benchmark](https://twitter.com/NVIDIAAI/status/2090786258981466231)
 * [2026-08-21, 13:24:28](https://news.ycombinator.com/item?id=49387735) - [What Happens When the Cost of Intelligence Drops 100x](https://catalystneuro.com/blog/cost-of-intelligence-drops-100x/)
