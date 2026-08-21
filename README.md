@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-21, 10:33:56](https://news.ycombinator.com/item?id=49386163) - [DeepSeek-v4-flash-vision-exp](https://api-docs.deepseek.com/guides/vision/)
 * [2026-08-21, 09:45:14](https://news.ycombinator.com/item?id=49385860) - [Small, native web tricks worth remembering](https://htmlcat.net/)
 * [2026-08-21, 08:19:48](https://news.ycombinator.com/item?id=49385296) - [Emacs 31.1 will release on 8/24](https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY)
 * [2026-08-21, 07:23:27](https://news.ycombinator.com/item?id=49384896) - [The Lost Treasure of Sid Meier's Pirates](https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/)
@@ -8,7 +9,6 @@
 * [2026-08-21, 05:31:34](https://news.ycombinator.com/item?id=49384180) - [Japan tried to build an operating system for the world, the US intervened](https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/)
 * [2026-08-21, 05:20:50](https://news.ycombinator.com/item?id=49384113) - [Seed: Minimal, self-modifying agent harness](https://github.com/vivekhaldar/seed)
 * [2026-08-21, 03:51:58](https://news.ycombinator.com/item?id=49383582) - [Micron announces $10B research hub in Boise](https://investors.micron.com/news/press-release/2026/Micron-Unveils-Micron-Research-Labs-a-U-S--Based-Long-Horizon-Innovation-Hub-to-Shape-the-Future-of-Memory-and-AI/default.aspx)
-* [2026-08-21, 03:17:43](https://news.ycombinator.com/item?id=49383326) - [Codex on AWS bedrock bug causing 10x charges](https://github.com/openai/codex/issues/37674)
 * [2026-08-20, 23:56:35](https://news.ycombinator.com/item?id=49381896) - [Ox Alpha](https://openrouter.ai/stealth/ox-alpha)
 * [2026-08-20, 19:22:24](https://news.ycombinator.com/item?id=49378957) - [The August 17 outage](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/)
 * [2026-08-20, 19:05:36](https://news.ycombinator.com/item?id=49378768) - [Show HN: Huzzah – a novel approach to coding with AI](https://www.danielvaughn.dev/posts/huzzah/)
