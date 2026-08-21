@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-08-21, 13:35:17",
+      "https://news.ycombinator.com/item?id=49387856"
+    ],
+    [
+      "Radiation damage to Hubble has been 4.3 years out of phase with the Solar cycle",
+      "https://arxiv.org/abs/2608.18214"
+    ]
+  ],
+  [
+    [
+      "2026-08-21, 13:04:31",
+      "https://news.ycombinator.com/item?id=49387497"
+    ],
+    [
+      "Grand jury declines to indict Ohio man charged with destroying Flock camera",
+      "https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/"
+    ]
+  ],
+  [
+    [
+      "2026-08-21, 11:48:05",
+      "https://news.ycombinator.com/item?id=49386699"
+    ],
+    [
+      "I'm Becoming AI-Blind",
+      "https://cymerys.com/w/im-becoming-ai-blind"
+    ]
+  ],
+  [
+    [
       "2026-08-21, 11:43:38",
       "https://news.ycombinator.com/item?id=49386659"
     ],
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2026-08-20, 15:46:18",
-      "https://news.ycombinator.com/item?id=49376265"
-    ],
-    [
-      "Linux 7.2",
-      "https://www.igalia.com/2026/08/19/Linux-72-Released.html"
-    ]
-  ],
-  [
-    [
       "2026-08-20, 15:29:52",
       "https://news.ycombinator.com/item?id=49376038"
     ],
@@ -191,32 +211,12 @@
   ],
   [
     [
-      "2026-08-20, 15:06:53",
-      "https://news.ycombinator.com/item?id=49375719"
-    ],
-    [
-      "Anti-AI fonts are useless and harmful",
-      "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/"
-    ]
-  ],
-  [
-    [
       "2026-08-20, 13:23:12",
       "https://news.ycombinator.com/item?id=49374269"
     ],
     [
       "Malicious Rust crate Arrayref runs a build-time payload",
       "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/"
-    ]
-  ],
-  [
-    [
-      "2026-08-20, 10:08:52",
-      "https://news.ycombinator.com/item?id=49372583"
-    ],
-    [
-      "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
-      "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html"
     ]
   ],
   [
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2026-08-19, 11:35:26",
-      "https://news.ycombinator.com/item?id=49360140"
-    ],
-    [
-      "Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces (2025)",
-      "https://arxiv.org/abs/2504.09762"
-    ]
-  ],
-  [
-    [
       "2026-08-18, 15:50:52",
       "https://news.ycombinator.com/item?id=49347543"
     ],
@@ -271,16 +261,6 @@
   ],
   [
     [
-      "2026-08-17, 12:42:47",
-      "https://news.ycombinator.com/item?id=49329919"
-    ],
-    [
-      "Captain Zilog",
-      "https://www.zilog.com/captain_zilog/"
-    ]
-  ],
-  [
-    [
       "2026-08-16, 13:11:08",
       "https://news.ycombinator.com/item?id=49319733"
     ],
@@ -297,6 +277,26 @@
     [
       "Siemens PC-X (2015)",
       "https://www.geekdot.com/siemens-pc-x/"
+    ]
+  ],
+  [
+    [
+      "2026-08-16, 01:03:41",
+      "https://news.ycombinator.com/item?id=49315836"
+    ],
+    [
+      "Attention Through Arithmetic Intensity",
+      "https://changyi.fun/posts/attention-arithmetic-intensity/"
+    ]
+  ],
+  [
+    [
+      "2026-08-15, 18:20:00",
+      "https://news.ycombinator.com/item?id=49312903"
+    ],
+    [
+      "Four Levels of In-Place Initialization (Rust)",
+      "https://blog.yoshuawuyts.com/four-levels-of-in-place-initialization/"
     ]
   ]
 ]
