@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2026-08-21, 15:59:16",
-      "https://news.ycombinator.com/item?id=49390066"
-    ],
-    [
-      "LLMs are proof that Unix won",
-      "https://bastian.rieck.me/blog/2026/unix/"
-    ]
-  ],
-  [
-    [
       "2026-08-21, 15:51:10",
       "https://news.ycombinator.com/item?id=49389952"
     ],
@@ -137,6 +127,16 @@
     [
       "Felony Bench",
       "https://www.felonybench.com/"
+    ]
+  ],
+  [
+    [
+      "2026-08-21, 14:31:52",
+      "https://news.ycombinator.com/item?id=49388752"
+    ],
+    [
+      "Claudette: Make Claude stop talking like a BuzzFeed article",
+      "https://github.com/adnanakil/nobuzz/blob/main/README.md"
     ]
   ],
   [
