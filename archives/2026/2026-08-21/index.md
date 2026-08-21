@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-21](index.md)
 
+* [2026-08-21, 21:32:07](https://news.ycombinator.com/item?id=49394028) - [Remotely Unlocking Electric Scooters](https://henriemategui.com/post/remotely-unlocking-electric-scooters)
 * [2026-08-21, 21:00:48](https://news.ycombinator.com/item?id=49393733) - [SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers](https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer)
 * [2026-08-21, 19:51:48](https://news.ycombinator.com/item?id=49393051) - [Quick impressions: A week of using Codex more than Claude](https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/)
 * [2026-08-21, 19:35:17](https://news.ycombinator.com/item?id=49392877) - [Church of the TigerBeetle: A Look at Tech Evangelism](https://www.wespiser.com/posts/2026-08-03-church-of-the-tigerbeetle.html)
