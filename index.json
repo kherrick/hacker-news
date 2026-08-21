@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2026-08-21, 15:20:59",
-      "https://news.ycombinator.com/item?id=49389491"
-    ],
-    [
-      "The B-right/V R2 Operating System (2000)",
-      "http://tronweb.super-nova.co.jp/b-right-vr2intro.html"
-    ]
-  ],
-  [
-    [
       "2026-08-21, 15:17:47",
       "https://news.ycombinator.com/item?id=49389441"
     ],
@@ -187,6 +177,16 @@
     [
       "Felony charges for citizen deleting phone data at US Border",
       "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html"
+    ]
+  ],
+  [
+    [
+      "2026-08-21, 12:08:19",
+      "https://news.ycombinator.com/item?id=49386877"
+    ],
+    [
+      "The road to ACID transactions in Cassandra 6",
+      "https://theconsensus.dev/p/2026/08/16/transactions-in-cassandra.html"
     ]
   ],
   [
