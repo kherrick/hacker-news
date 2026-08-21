@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-21](index.md)
 
+* [2026-08-21, 05:39:39](https://news.ycombinator.com/item?id=49384224) - [The Religious Experience of Philip K. Dick by R. Crumb (1986)](https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/)
+* [2026-08-21, 05:31:34](https://news.ycombinator.com/item?id=49384180) - [Japan tried to build an operating system for the world, the US intervened](https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/)
 * [2026-08-21, 03:17:43](https://news.ycombinator.com/item?id=49383326) - [Codex on AWS bedrock bug causing 10x charges](https://github.com/openai/codex/issues/37674)
 * [2026-08-21, 02:37:47](https://news.ycombinator.com/item?id=49383026) - [AI companies destroy physical books – let's scan rare books before it's too late](https://annas-archive.gl/blog/physical-destruction.html)
 * [2026-08-21, 02:03:54](https://news.ycombinator.com/item?id=49382809) - [Orbital Construction Pioneers](https://orbitalconstructionpioneers.com/)
