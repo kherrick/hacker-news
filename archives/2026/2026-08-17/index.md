@@ -63,6 +63,7 @@
 * [2026-08-17, 14:11:17](https://news.ycombinator.com/item?id=49331288) - [Show HN: Learn Flags Quiz](https://flagquizzes.com/)
 * [2026-08-17, 14:07:59](https://news.ycombinator.com/item?id=49331222) - [Apple's App Tracking Transparency treated its own apps better than rivals](https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html)
 * [2026-08-17, 14:07:56](https://news.ycombinator.com/item?id=49331220) - [How to disable or avoid intrusive AI](https://www.librarian.net/notoai/)
+* [2026-08-17, 14:01:37](https://news.ycombinator.com/item?id=49331084) - [Flat Chair by Sara Paculdo](https://www.toxel.com/tech/2026/08/07/flat-chair-by-sara-paculdo/)
 * [2026-08-17, 13:59:17](https://news.ycombinator.com/item?id=49331033) - [Ask HN: Alternatives to GitHub](https://news.ycombinator.com/item?id=49331033)
 * [2026-08-17, 13:56:38](https://news.ycombinator.com/item?id=49330978) - [How to ship a database every day](https://turbopuffer.com/blog/control-plane)
 * [2026-08-17, 13:46:27](https://news.ycombinator.com/item?id=49330781) - [A Preview of DuckDB v2.0](https://duckdb.org/2026/08/17/duckdb-20-highlights)

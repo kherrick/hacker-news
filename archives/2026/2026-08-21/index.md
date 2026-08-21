@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-08-21](index.md)
 
 * [2026-08-21, 08:19:48](https://news.ycombinator.com/item?id=49385296) - [Emacs 31.1 will release on 8/24](https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY)
+* [2026-08-21, 07:48:50](https://news.ycombinator.com/item?id=49385068) - [Better Batteries](https://matklad.github.io/2026/08/20/better-batteries.html)
 * [2026-08-21, 07:23:27](https://news.ycombinator.com/item?id=49384896) - [The Lost Treasure of Sid Meier's Pirates](https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/)
 * [2026-08-21, 06:59:40](https://news.ycombinator.com/item?id=49384716) - [We Rebuilt the Linux MicroVM Stack on Apple Silicon](https://encore.dev/blog/firecracker-apple-silicon)
 * [2026-08-21, 06:24:16](https://news.ycombinator.com/item?id=49384477) - [Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents](https://Argentic.network)
