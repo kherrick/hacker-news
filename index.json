@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-21, 08:19:48",
+      "https://news.ycombinator.com/item?id=49385296"
+    ],
+    [
+      "Emacs 31.1 will release on 8/24",
+      "https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY"
+    ]
+  ],
+  [
+    [
       "2026-08-21, 07:23:27",
       "https://news.ycombinator.com/item?id=49384896"
     ],
@@ -107,16 +117,6 @@
     [
       "The August 17 outage",
       "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/"
-    ]
-  ],
-  [
-    [
-      "2026-08-20, 19:19:53",
-      "https://news.ycombinator.com/item?id=49378933"
-    ],
-    [
-      "SpacetimeDB: a short technical review",
-      "https://strn.cat/posts/spacetime/"
     ]
   ],
   [
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2026-08-18, 16:26:56",
-      "https://news.ycombinator.com/item?id=49348141"
-    ],
-    [
-      "Git at any scale",
-      "https://cursor.com/blog/git-at-any-scale"
-    ]
-  ],
-  [
-    [
       "2026-08-18, 15:50:52",
       "https://news.ycombinator.com/item?id=49347543"
     ],
@@ -277,6 +267,16 @@
     [
       "Captain Zilog",
       "https://www.zilog.com/captain_zilog/"
+    ]
+  ],
+  [
+    [
+      "2026-08-16, 15:17:09",
+      "https://news.ycombinator.com/item?id=49320866"
+    ],
+    [
+      "The case against a C alternative (2022)",
+      "https://c3.handmade.network/blog/p/8486-the_case_against_a_c_alternative"
     ]
   ],
   [
