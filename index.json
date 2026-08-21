@@ -21,32 +21,12 @@
   ],
   [
     [
-      "2026-08-21, 19:51:48",
-      "https://news.ycombinator.com/item?id=49393051"
-    ],
-    [
-      "Quick impressions: A week of using Codex more than Claude",
-      "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/"
-    ]
-  ],
-  [
-    [
       "2026-08-21, 18:59:52",
       "https://news.ycombinator.com/item?id=49392465"
     ],
     [
       "Tumble Forth – from assembly to OS with C compiler",
       "https://tumbleforth.hardcoded.net/"
-    ]
-  ],
-  [
-    [
-      "2026-08-21, 18:48:28",
-      "https://news.ycombinator.com/item?id=49392331"
-    ],
-    [
-      "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-      "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders"
     ]
   ],
   [
@@ -87,6 +67,16 @@
     [
       "What happens when a GPU reads memory",
       "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory"
+    ]
+  ],
+  [
+    [
+      "2026-08-21, 16:15:26",
+      "https://news.ycombinator.com/item?id=49390286"
+    ],
+    [
+      "Three ways to smuggle SQLite into Nix",
+      "https://fzakaria.com/2026/08/19/three-ways-to-smuggle-sqlite-into-nix"
     ]
   ],
   [
@@ -157,6 +147,16 @@
     [
       "Kodak's \"pre-invented\" lunar orbiter camera; or, the fate of SAMOS readout",
       "https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/"
+    ]
+  ],
+  [
+    [
+      "2026-08-21, 13:35:17",
+      "https://news.ycombinator.com/item?id=49387856"
+    ],
+    [
+      "Radiation damage to Hubble has been 4.3 years out of phase with the Solar cycle",
+      "https://arxiv.org/abs/2608.18214"
     ]
   ],
   [
