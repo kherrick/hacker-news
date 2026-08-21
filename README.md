@@ -11,7 +11,6 @@
 * [2026-08-21, 03:17:43](https://news.ycombinator.com/item?id=49383326) - [Codex on AWS bedrock bug causing 10x charges](https://github.com/openai/codex/issues/37674)
 * [2026-08-20, 23:56:35](https://news.ycombinator.com/item?id=49381896) - [Ox Alpha](https://openrouter.ai/stealth/ox-alpha)
 * [2026-08-20, 19:22:24](https://news.ycombinator.com/item?id=49378957) - [The August 17 outage](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/)
-* [2026-08-20, 19:19:53](https://news.ycombinator.com/item?id=49378933) - [SpacetimeDB: a short technical review](https://strn.cat/posts/spacetime/)
 * [2026-08-20, 19:05:36](https://news.ycombinator.com/item?id=49378768) - [Show HN: Huzzah – a novel approach to coding with AI](https://www.danielvaughn.dev/posts/huzzah/)
 * [2026-08-20, 18:38:47](https://news.ycombinator.com/item?id=49378446) - [Why aren't smart people happier? (2022)](https://www.experimental-history.com/p/why-arent-smart-people-happier)
 * [2026-08-20, 17:50:02](https://news.ycombinator.com/item?id=49377853) - [I should have loved biology (2020)](https://jsomers.net/i-should-have-loved-biology/)
@@ -28,6 +27,7 @@
 * [2026-08-17, 14:01:37](https://news.ycombinator.com/item?id=49331084) - [Flat Chair by Sara Paculdo](https://www.toxel.com/tech/2026/08/07/flat-chair-by-sara-paculdo/)
 * [2026-08-17, 12:42:47](https://news.ycombinator.com/item?id=49329919) - [Captain Zilog](https://www.zilog.com/captain_zilog/)
 * [2026-08-16, 15:17:09](https://news.ycombinator.com/item?id=49320866) - [The case against a C alternative (2022)](https://c3.handmade.network/blog/p/8486-the_case_against_a_c_alternative)
+* [2026-08-16, 01:03:41](https://news.ycombinator.com/item?id=49315836) - [Attention Through Arithmetic Intensity](https://changyi.fun/posts/attention-arithmetic-intensity/)
 * [2026-08-14, 20:49:29](https://news.ycombinator.com/item?id=49304409) - [Make a 6-Tesla-class high-temperature superconducting dipole magnet at 4.2 K](https://journals.aps.org/prab/abstract/10.1103/4nhs-bkwh)
 * [2026-08-14, 05:45:12](https://news.ycombinator.com/item?id=49295112) - [Speeding Up (Small) Ruby Hashes](https://byroot.github.io/ruby/performance/2026/08/13/speeding-up-ruby-hashes.html)
 
