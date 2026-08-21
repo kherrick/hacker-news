@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-08-21](index.md)
 
+* [2026-08-21, 17:33:26](https://news.ycombinator.com/item?id=49391389) - [Rebuilding our Electron meeting-recording engine in Swift](https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift)
 * [2026-08-21, 17:00:23](https://news.ycombinator.com/item?id=49390910) - [LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers](https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6)
+* [2026-08-21, 16:50:15](https://news.ycombinator.com/item?id=49390775) - [Another Better Lower Bound for N=17 Square Packing](http://gus-massa.blogspot.com/2026/08/another-better-lower-bound-for-n17.html)
+* [2026-08-21, 16:47:15](https://news.ycombinator.com/item?id=49390739) - [Show HN: Proliferate- open-source, self-hostable Codex for any coding agent](https://github.com/proliferate-ai/proliferate)
 * [2026-08-21, 16:27:52](https://news.ycombinator.com/item?id=49390463) - [A self hosted AI software factory](https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/)
 * [2026-08-21, 16:25:25](https://news.ycombinator.com/item?id=49390427) - [Kobo can run apps now](https://bandarlabs.github.io/Cobalt/)
 * [2026-08-21, 16:16:42](https://news.ycombinator.com/item?id=49390308) - [What happens when a GPU reads memory](https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory)
@@ -15,6 +18,7 @@
 * [2026-08-21, 15:50:50](https://news.ycombinator.com/item?id=49389948) - [Flagwars.lol](https://www.flagwars.lol)
 * [2026-08-21, 15:48:32](https://news.ycombinator.com/item?id=49389912) - [My AI agents kept trying to cross red lines, so I wrote them a constitution](https://github.com/Chong169/a-constitution-for-one)
 * [2026-08-21, 15:45:44](https://news.ycombinator.com/item?id=49389861) - [Every shape can be cut exactly in half with one straight line](https://bisecto.com/every-shape-can-be-cut-in-half.html)
+* [2026-08-21, 15:36:16](https://news.ycombinator.com/item?id=49389722) - [New York’s office market is home to the most tech workers: CBRE report](https://www.cnbc.com/2026/08/21/new-york-san-francisco-tech-talent-cbre.html)
 * [2026-08-21, 15:25:42](https://news.ycombinator.com/item?id=49389565) - [AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows](https://canews24.online/?p=71)
 * [2026-08-21, 15:23:32](https://news.ycombinator.com/item?id=49389524) - [Cancer-Related Mortality Among US Pilots and Flight Attendants](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2852504)
 * [2026-08-21, 15:21:10](https://news.ycombinator.com/item?id=49389493) - [Show HN: AgentSight – eBPF observability for AI agents, no code changes](https://github.com/alibaba/anolisa/blob/main/docs/user-guide/en/agent-observability/agentsight.md)
