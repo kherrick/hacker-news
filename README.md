@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-08-22, 06:16:57](https://news.ycombinator.com/item?id=49397074) - [Canada will match US tariffs 'dollar for dollar' as trade talks break down](https://www.bbc.com/news/articles/cvgvyy4x2mvo)
-* [2026-08-22, 04:33:06](https://news.ycombinator.com/item?id=49396590) - [GPT 5.6 Sol 20% price reduction](https://developers.openai.com/api/docs/models/gpt-5.6-sol)
 * [2026-08-22, 01:06:17](https://news.ycombinator.com/item?id=49395628) - [There's no reason for software to be slow anymore](https://danluu.com/perf-opt/)
 * [2026-08-22, 01:02:09](https://news.ycombinator.com/item?id=49395605) - [Initial focus for our partnership with Motorola is a regular non-folding device](https://grapheneos.social/@GrapheneOS/117136278553665985)
 * [2026-08-21, 23:53:03](https://news.ycombinator.com/item?id=49395171) - [HN: The Good Parts (2016)](https://danluu.com/hn-comments/)
@@ -23,6 +22,7 @@
 * [2026-08-21, 12:10:13](https://news.ycombinator.com/item?id=49386895) - [Felony charges for citizen deleting phone data at US Border](https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html)
 * [2026-08-21, 11:48:05](https://news.ycombinator.com/item?id=49386699) - [I'm becoming AI-blind](https://cymerys.com/w/im-becoming-ai-blind)
 * [2026-08-21, 05:37:38](https://news.ycombinator.com/item?id=49384210) - [Stop Making TUIs](https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/)
+* [2026-08-20, 23:11:50](https://news.ycombinator.com/item?id=49381542) - [Ozone: The fault is not in our trees, but in ourselves](https://www.science.org/content/blog-post/fault-not-our-trees-ourselves)
 * [2026-08-20, 21:08:36](https://news.ycombinator.com/item?id=49380303) - [Early-life stress leaves a 'scar' inside brain cells in mice](https://medicine.washu.edu/news/how-early-life-stress-leaves-a-scar-inside-brain-cells/)
 * [2026-08-20, 16:22:58](https://news.ycombinator.com/item?id=49376769) - [Everyone says assembly is untyped—everyone is wrong](https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/)
 * [2026-08-20, 14:13:45](https://news.ycombinator.com/item?id=49374853) - [A look under our trunk: what's in our compute](https://waymo.com/blog/2026/08/look-under-our-trunk/)
