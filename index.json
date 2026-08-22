@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=49402781"
     ],
     [
-      "NetBSD and My Life (2005)",
+      "NetBSD and my life (2005)",
       "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html"
     ]
   ],
@@ -27,6 +27,16 @@
     [
       "hdiutil is deprecated in macOS 27 Golden Gate",
       "https://lapcatsoftware.com/articles/2026/8/7.html"
+    ]
+  ],
+  [
+    [
+      "2026-08-22, 18:43:03",
+      "https://news.ycombinator.com/item?id=49402521"
+    ],
+    [
+      "Show HN: Make your logo extra bright on HDR screens",
+      "https://www.soverybright.com/"
     ]
   ],
   [
@@ -61,16 +71,6 @@
   ],
   [
     [
-      "2026-08-22, 16:58:49",
-      "https://news.ycombinator.com/item?id=49401549"
-    ],
-    [
-      "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
-      "https://twitter.com/argofowl/status/2091150597374537729"
-    ]
-  ],
-  [
-    [
       "2026-08-22, 14:54:07",
       "https://news.ycombinator.com/item?id=49400408"
     ],
@@ -97,6 +97,16 @@
     [
       "New MCP Roadmap",
       "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/"
+    ]
+  ],
+  [
+    [
+      "2026-08-22, 13:24:06",
+      "https://news.ycombinator.com/item?id=49399524"
+    ],
+    [
+      "A Kantian Critique of \"Sorry\" by Justin Bieber",
+      "https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/"
     ]
   ],
   [
@@ -131,22 +141,22 @@
   ],
   [
     [
-      "2026-08-21, 20:42:11",
-      "https://news.ycombinator.com/item?id=49393537"
+      "2026-08-21, 23:09:06",
+      "https://news.ycombinator.com/item?id=49394827"
     ],
     [
-      "The Creation of Abulafia",
-      "https://blog.veitheller.de/abulafia.html"
+      "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+      "https://ozbrain.com"
     ]
   ],
   [
     [
-      "2026-08-21, 19:51:54",
-      "https://news.ycombinator.com/item?id=49393052"
+      "2026-08-21, 19:51:48",
+      "https://news.ycombinator.com/item?id=49393051"
     ],
     [
-      "Rust Glancer: Rust LSP using 100x less RAM",
-      "https://rust-glancer.github.io/blog/hello-world/"
+      "A week of using Codex more than Claude",
+      "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "How a Texas student blew the whistle on a rogue AI hacking attempt",
       "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/"
-    ]
-  ],
-  [
-    [
-      "2026-08-21, 05:37:38",
-      "https://news.ycombinator.com/item?id=49384210"
-    ],
-    [
-      "Stop Making TUIs",
-      "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/"
     ]
   ],
   [
@@ -211,12 +211,12 @@
   ],
   [
     [
-      "2026-08-20, 14:35:08",
-      "https://news.ycombinator.com/item?id=49375176"
+      "2026-08-20, 15:40:57",
+      "https://news.ycombinator.com/item?id=49376197"
     ],
     [
-      "ProgramBench Vetted: Reverse Engineering from a Runnable Binary",
-      "https://vetto.ai/companies/programbench-vetted.html"
+      "Autolith: A programming agent with a live runtime",
+      "https://www.lambda-symbolics.com/autolith"
     ]
   ],
   [
