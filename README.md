@@ -2,6 +2,7 @@
 
 * [2026-08-22, 13:24:06](https://news.ycombinator.com/item?id=49399524) - [A Kantian Critique of \"Sorry\" by Justin Bieber](https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/)
 * [2026-08-22, 12:07:06](https://news.ycombinator.com/item?id=49398904) - [Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week](https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy)
+* [2026-08-22, 11:39:12](https://news.ycombinator.com/item?id=49398710) - [A formal degree and algorithmic problem-solving is the answer. Always has been](https://zaksa.zip/blog/formal-education-is-the-answer/)
 * [2026-08-22, 10:26:09](https://news.ycombinator.com/item?id=49398304) - [Canada suspends trade negotiations with USA and match tariffs dollar for dollar](https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations)
 * [2026-08-22, 09:49:57](https://news.ycombinator.com/item?id=49398158) - [Z80–The 1970s Microprocessor Still Alive](https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi)
 * [2026-08-22, 09:49:14](https://news.ycombinator.com/item?id=49398152) - [Munder Difflin – Agent harness to run an office of your clones](https://munderdiffl.in/)
@@ -28,7 +29,6 @@
 * [2026-08-20, 16:22:58](https://news.ycombinator.com/item?id=49376769) - [Everyone says assembly is untyped—everyone is wrong](https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/)
 * [2026-08-19, 17:45:41](https://news.ycombinator.com/item?id=49364721) - [A revisit of remote Spectre attacks on Cloudflare Workers](https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/)
 * [2026-08-19, 06:13:31](https://news.ycombinator.com/item?id=49357530) - [AI boosted homework scores, then exam scores dropped: study](https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning)
-* [2026-08-18, 14:49:19](https://news.ycombinator.com/item?id=49346444) - [The coolest anti-surveillance tools at Defcon [video]](https://www.youtube.com/watch?v=-2uAsJ5EPAw)
 * [2026-08-17, 07:12:15](https://news.ycombinator.com/item?id=49327408) - [People of ACM – Russ Cox](https://www.acm.org/articles/people-of-acm/2026/russ-cox)
 
 ## [Archives](archives/index.md)
