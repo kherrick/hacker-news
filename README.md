@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-08-22, 19:56:38](https://news.ycombinator.com/item?id=49403228) - [Fast and Hard Code](https://lucumr.pocoo.org/2026/8/22/fast-hard-code/)
 * [2026-08-22, 19:19:15](https://news.ycombinator.com/item?id=49402907) - [English ↔ Claudish Translator](https://programasweights.com/claudish)
 * [2026-08-22, 19:07:46](https://news.ycombinator.com/item?id=49402781) - [NetBSD and My Life (2005)](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html)
 * [2026-08-22, 19:04:41](https://news.ycombinator.com/item?id=49402741) - [hdiutil is deprecated in macOS 27 Golden Gate](https://lapcatsoftware.com/articles/2026/8/7.html)
@@ -18,6 +17,7 @@
 * [2026-08-21, 19:51:54](https://news.ycombinator.com/item?id=49393052) - [Rust Glancer: Rust LSP using 100x less RAM](https://rust-glancer.github.io/blog/hello-world/)
 * [2026-08-21, 19:05:50](https://news.ycombinator.com/item?id=49392536) - [One night in Uzbekistan: Why was this one data point so influential?](https://statmodeling.stat.columbia.edu/2026/08/20/we-couldnt-reproduce-their-findings-and-realized-that-it-was-all-driven-by-weird-data-from-uzbekistan/)
 * [2026-08-21, 13:43:33](https://news.ycombinator.com/item?id=49387959) - [How a Texas student blew the whistle on a rogue AI hacking attempt](https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/)
+* [2026-08-21, 05:37:38](https://news.ycombinator.com/item?id=49384210) - [Stop Making TUIs](https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/)
 * [2026-08-21, 00:10:01](https://news.ycombinator.com/item?id=49381991) - [Dynamical dark energy and the week that broke cosmology](https://perimeterinstitute.ca/news/dynamical-dark-energy-and-week-broke-cosmology)
 * [2026-08-20, 20:22:35](https://news.ycombinator.com/item?id=49379732) - [ATProto spaces: A new extension to ATProto that enables non-public data](https://atproto.com/blog/atproto-spaces-alpha)
 * [2026-08-20, 17:07:36](https://news.ycombinator.com/item?id=49377316) - [Why it might be time to rethink the human family tree](https://nautil.us/why-it-might-be-time-to-rethink-the-human-family-tree-1283985)
