@@ -22,12 +22,12 @@
 * [2026-08-21, 11:48:05](https://news.ycombinator.com/item?id=49386699) - [I'm becoming AI-blind](https://cymerys.com/w/im-becoming-ai-blind)
 * [2026-08-20, 23:11:50](https://news.ycombinator.com/item?id=49381542) - [Ozone: The fault is not in our trees, but in ourselves](https://www.science.org/content/blog-post/fault-not-our-trees-ourselves)
 * [2026-08-20, 21:08:36](https://news.ycombinator.com/item?id=49380303) - [Early-life stress leaves a 'scar' inside brain cells in mice](https://medicine.washu.edu/news/how-early-life-stress-leaves-a-scar-inside-brain-cells/)
+* [2026-08-20, 19:41:32](https://news.ycombinator.com/item?id=49379183) - [How orchids inspired the work of Charles Darwin](https://lithub.com/how-orchids-inspired-the-groundbreaking-work-of-charles-darwin/)
 * [2026-08-20, 19:28:18](https://news.ycombinator.com/item?id=49379026) - [GitHub, autoscaling, and the component substitution fallacy](https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/)
 * [2026-08-20, 16:22:58](https://news.ycombinator.com/item?id=49376769) - [Everyone says assembly is untyped—everyone is wrong](https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/)
 * [2026-08-20, 15:40:57](https://news.ycombinator.com/item?id=49376197) - [Autolith: A programming agent with a live runtime](https://www.lambda-symbolics.com/autolith)
 * [2026-08-20, 14:13:45](https://news.ycombinator.com/item?id=49374853) - [A look under our trunk: what's in our compute](https://waymo.com/blog/2026/08/look-under-our-trunk/)
 * [2026-08-19, 06:13:31](https://news.ycombinator.com/item?id=49357530) - [AI boosted homework scores, then exam scores dropped: study](https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning)
-* [2026-08-18, 14:49:19](https://news.ycombinator.com/item?id=49346444) - [The coolest anti-surveillance tools at Defcon [video]](https://www.youtube.com/watch?v=-2uAsJ5EPAw)
 * [2026-08-17, 07:12:15](https://news.ycombinator.com/item?id=49327408) - [People of ACM – Russ Cox](https://www.acm.org/articles/people-of-acm/2026/russ-cox)
 * [2026-08-17, 05:28:07](https://news.ycombinator.com/item?id=49326852) - [Show HN: Rex, a parallel functional language for scientific workflows](https://github.com/peterkelly/rex)
 

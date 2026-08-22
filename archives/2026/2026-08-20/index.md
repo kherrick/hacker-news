@@ -15,6 +15,7 @@
 * [2026-08-20, 21:01:24](https://news.ycombinator.com/item?id=49380226) - [The Wonders of the Male Human Pelvis](https://nautil.us/the-wonders-of-the-male-human-pelvis-1283947)
 * [2026-08-20, 20:07:26](https://news.ycombinator.com/item?id=49379550) - [Aaron Swartz was prosecuted for scraping, while Meta does it without consequence](https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/)
 * [2026-08-20, 19:46:06](https://news.ycombinator.com/item?id=49379253) - [Stop Eating Lady Gaga's Oreos](https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos)
+* [2026-08-20, 19:41:32](https://news.ycombinator.com/item?id=49379183) - [How orchids inspired the work of Charles Darwin](https://lithub.com/how-orchids-inspired-the-groundbreaking-work-of-charles-darwin/)
 * [2026-08-20, 19:28:18](https://news.ycombinator.com/item?id=49379026) - [GitHub, autoscaling, and the component substitution fallacy](https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/)
 * [2026-08-20, 19:22:24](https://news.ycombinator.com/item?id=49378957) - [The August 17 outage, and the work ahead](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/)
 * [2026-08-20, 19:21:45](https://news.ycombinator.com/item?id=49378950) - [Tidal Cycles – Live coding music with Algorithmic patterns](https://tidalcycles.org/)
