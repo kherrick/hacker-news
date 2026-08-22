@@ -6,6 +6,7 @@
 
 * [2026-08-22, 10:26:09](https://news.ycombinator.com/item?id=49398304) - [Canada suspends trade negotiations with USA and match tariffs dollar for dollar](https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations)
 * [2026-08-22, 09:49:57](https://news.ycombinator.com/item?id=49398158) - [Z80–The 1970s Microprocessor Still Alive](https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi)
+* [2026-08-22, 09:49:14](https://news.ycombinator.com/item?id=49398152) - [Munder Difflin – Agent harness to run an office of your clones](https://munderdiffl.in/)
 * [2026-08-22, 06:16:57](https://news.ycombinator.com/item?id=49397074) - [Canada will match US tariffs 'dollar for dollar' as trade talks break down](https://www.bbc.com/news/articles/cvgvyy4x2mvo)
 * [2026-08-22, 04:42:19](https://news.ycombinator.com/item?id=49396620) - [4 in 10 travellers visit tourist sites to capture social media content](https://www.tuigroup.com/en/newsroom/news/travel-in-the-age-of-scrolling-tui-musement-research-reveals-4-in-10-travellers-visit-tourist-sites-to-capture-social-media-content)
 * [2026-08-22, 04:33:06](https://news.ycombinator.com/item?id=49396590) - [GPT 5.6 Sol 20% price reduction](https://developers.openai.com/api/docs/models/gpt-5.6-sol)
