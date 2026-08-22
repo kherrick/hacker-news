@@ -11,6 +11,7 @@
 * [2026-08-22, 19:04:41](https://news.ycombinator.com/item?id=49402741) - [hdiutil is deprecated in macOS 27 Golden Gate](https://lapcatsoftware.com/articles/2026/8/7.html)
 * [2026-08-22, 18:43:03](https://news.ycombinator.com/item?id=49402521) - [Show HN: Make your logo extra bright on HDR screens](https://www.soverybright.com/)
 * [2026-08-22, 18:14:16](https://news.ycombinator.com/item?id=49402232) - [Why your local LLM feels dumber than it is](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917)
+* [2026-08-22, 18:10:49](https://news.ycombinator.com/item?id=49402202) - [Thinking in Python by Bruce Eckel](https://thinkinginpython.com/)
 * [2026-08-22, 18:08:56](https://news.ycombinator.com/item?id=49402189) - [Scrap](https://twitter.com/moxie/status/2091218652133732491)
 * [2026-08-22, 17:09:27](https://news.ycombinator.com/item?id=49401621) - [Belgian car salesman becomes prince after DNA test proves royal parentage](https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl)
 * [2026-08-22, 17:01:25](https://news.ycombinator.com/item?id=49401567) - [Htmx live is cool. Datastar is fast. This cow is raw and strong](https://stario.dev/ox)
