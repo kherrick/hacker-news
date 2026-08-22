@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-22, 04:42:19](https://news.ycombinator.com/item?id=49396620) - [4 in 10 travellers visit tourist sites to capture social media content](https://www.tuigroup.com/en/newsroom/news/travel-in-the-age-of-scrolling-tui-musement-research-reveals-4-in-10-travellers-visit-tourist-sites-to-capture-social-media-content)
 * [2026-08-22, 02:37:30](https://news.ycombinator.com/item?id=49396086) - [Early Humans Likely Ate Carbs and Sugary Foods](https://www.history.com/articles/early-human-ancestors-diet-sugar-carbs)
 * [2026-08-22, 01:06:17](https://news.ycombinator.com/item?id=49395628) - [There's no reason for software to be slow anymore](https://danluu.com/perf-opt/)
 * [2026-08-22, 01:02:09](https://news.ycombinator.com/item?id=49395605) - [Initial focus for our partnership with Motorola is a regular non-folding device](https://grapheneos.social/@GrapheneOS/117136278553665985)
@@ -15,6 +16,7 @@
 * [2026-08-21, 15:51:10](https://news.ycombinator.com/item?id=49389952) - [How we made a text-to-speech model respond in sub-50 ms](https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/)
 * [2026-08-21, 15:17:04](https://news.ycombinator.com/item?id=49389430) - [Felony Bench](https://www.felonybench.com/)
 * [2026-08-21, 14:31:52](https://news.ycombinator.com/item?id=49388752) - [Claudette: Make Claude stop talking like a BuzzFeed article](https://github.com/adnanakil/nobuzz/blob/main/README.md)
+* [2026-08-21, 14:28:15](https://news.ycombinator.com/item?id=49388694) - [Zig's Io.Threaded Is Neat](https://matklad.github.io/2026/08/06/neat-io-threaded.html)
 * [2026-08-21, 13:56:37](https://news.ycombinator.com/item?id=49388154) - [Kagi added a setting for removing paywalled links from search results](https://kagi.com/changelog#11296)
 * [2026-08-21, 13:11:28](https://news.ycombinator.com/item?id=49387570) - [I accidentally logged hundreds of thousands of phone calls to military bases](https://lina.sh/blog/hijacking-e164-arpa)
 * [2026-08-21, 13:07:26](https://news.ycombinator.com/item?id=49387525) - [New Worlds: We are living in the future of J.G. Ballard or William Gibson](https://precastreinforced.co.uk/2026/08/16/new-worlds/)
@@ -25,11 +27,9 @@
 * [2026-08-20, 19:41:32](https://news.ycombinator.com/item?id=49379183) - [How orchids inspired the work of Charles Darwin](https://lithub.com/how-orchids-inspired-the-groundbreaking-work-of-charles-darwin/)
 * [2026-08-20, 19:28:18](https://news.ycombinator.com/item?id=49379026) - [GitHub, autoscaling, and the component substitution fallacy](https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/)
 * [2026-08-20, 16:22:58](https://news.ycombinator.com/item?id=49376769) - [Everyone says assembly is untyped—everyone is wrong](https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/)
-* [2026-08-20, 15:40:57](https://news.ycombinator.com/item?id=49376197) - [Autolith: A programming agent with a live runtime](https://www.lambda-symbolics.com/autolith)
 * [2026-08-20, 14:13:45](https://news.ycombinator.com/item?id=49374853) - [A look under our trunk: what's in our compute](https://waymo.com/blog/2026/08/look-under-our-trunk/)
 * [2026-08-19, 06:13:31](https://news.ycombinator.com/item?id=49357530) - [AI boosted homework scores, then exam scores dropped: study](https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning)
 * [2026-08-17, 07:12:15](https://news.ycombinator.com/item?id=49327408) - [People of ACM – Russ Cox](https://www.acm.org/articles/people-of-acm/2026/russ-cox)
-* [2026-08-17, 05:28:07](https://news.ycombinator.com/item?id=49326852) - [Show HN: Rex, a parallel functional language for scientific workflows](https://github.com/peterkelly/rex)
 
 ## [Archives](archives/index.md)
 
