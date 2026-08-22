@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-08-21, 23:53:03",
+      "https://news.ycombinator.com/item?id=49395171"
+    ],
+    [
+      "HN: The Good Parts (2016)",
+      "https://danluu.com/hn-comments/"
+    ]
+  ],
+  [
+    [
+      "2026-08-21, 23:32:44",
+      "https://news.ycombinator.com/item?id=49395040"
+    ],
+    [
+      "Paul Atkins misreads Adam Smith and the American founding",
+      "https://sites.duke.edu/thefinregblog/2026/08/03/paul-atkins-misreads-adam-smith-and-the-american-founding/"
+    ]
+  ],
+  [
+    [
       "2026-08-21, 23:09:06",
       "https://news.ycombinator.com/item?id=49394827"
     ],
     [
       "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
       "https://ozbrain.com"
+    ]
+  ],
+  [
+    [
+      "2026-08-21, 23:03:18",
+      "https://news.ycombinator.com/item?id=49394797"
+    ],
+    [
+      "Pentagon dismisses Stars and Stripes leadership after opposition to interference",
+      "https://apnews.com/article/stars-stripes-pentagon-censorship-media-d42affb0c17fef31c6089645c8dbbe70"
     ]
   ],
   [
@@ -47,16 +77,6 @@
     [
       "SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers",
       "https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer"
-    ]
-  ],
-  [
-    [
-      "2026-08-21, 19:16:00",
-      "https://news.ycombinator.com/item?id=49392654"
-    ],
-    [
-      "Rust Glancer",
-      "https://matklad.github.io/2026/08/21/rust-glancer.html"
     ]
   ],
   [
@@ -107,26 +127,6 @@
     [
       "What happens when a GPU reads memory",
       "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory"
-    ]
-  ],
-  [
-    [
-      "2026-08-21, 16:15:26",
-      "https://news.ycombinator.com/item?id=49390286"
-    ],
-    [
-      "Three ways to smuggle SQLite into Nix",
-      "https://fzakaria.com/2026/08/19/three-ways-to-smuggle-sqlite-into-nix"
-    ]
-  ],
-  [
-    [
-      "2026-08-21, 16:09:50",
-      "https://news.ycombinator.com/item?id=49390206"
-    ],
-    [
-      "Decayfmt – a file format that corrupts itself a little every time you open it",
-      "https://github.com/aravpanwar/decayfmt"
     ]
   ],
   [
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2026-08-17, 16:22:43",
-      "https://news.ycombinator.com/item?id=49333557"
-    ],
-    [
-      "The Size of the World Wide Web",
-      "https://www.worldwidewebsize.com/"
-    ]
-  ],
-  [
-    [
       "2026-08-17, 15:40:15",
       "https://news.ycombinator.com/item?id=49332812"
     ],
@@ -297,6 +287,16 @@
     [
       "People of ACM – Russ Cox",
       "https://www.acm.org/articles/people-of-acm/2026/russ-cox"
+    ]
+  ],
+  [
+    [
+      "2026-08-17, 05:28:07",
+      "https://news.ycombinator.com/item?id=49326852"
+    ],
+    [
+      "Show HN: Rex, a parallel functional language for scientific workflows",
+      "https://github.com/peterkelly/rex"
     ]
   ]
 ]
