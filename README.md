@@ -1,6 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-22, 17:09:27](https://news.ycombinator.com/item?id=49401621) - [Belgian car salesman becomes prince after DNA test proves royal parentage](https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl)
+* [2026-08-22, 17:01:25](https://news.ycombinator.com/item?id=49401567) - [Htmx live is cool. Datastar is fast. This cow is raw and strong](https://stario.dev/ox)
 * [2026-08-22, 16:23:09](https://news.ycombinator.com/item?id=49401229) - [Anthropic IPO filing will show AI backlash as a risk factor, sources say](https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html)
+* [2026-08-22, 16:11:16](https://news.ycombinator.com/item?id=49401122) - [Learning about \"The Unix Time-Sharing System\"](https://playtechnique.io/long/the-unix-time-sharing-system.html)
 * [2026-08-22, 14:54:07](https://news.ycombinator.com/item?id=49400408) - [ElevenLabs, TwelveLabs, ThirteenLabs](https://quantumi.sh/public/labs.html)
 * [2026-08-22, 14:08:19](https://news.ycombinator.com/item?id=49399898) - [A Friendly Introduction to Racket](https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/)
 * [2026-08-22, 13:31:34](https://news.ycombinator.com/item?id=49399591) - [The New MCP Roadmap](https://blog.modelcontextprotocol.io/posts/mcp-roadmap/)
@@ -14,7 +17,6 @@
 * [2026-08-21, 19:51:54](https://news.ycombinator.com/item?id=49393052) - [Rust Glancer: Rust LSP using 100x less RAM](https://rust-glancer.github.io/blog/hello-world/)
 * [2026-08-21, 18:36:34](https://news.ycombinator.com/item?id=49392200) - [Scientists release biggest 2D map of the universe](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/)
 * [2026-08-21, 18:28:42](https://news.ycombinator.com/item?id=49392099) - [How Thailand Resisted Colonization](https://worksinprogress.co/issue/how-thailand-resisted-colonization/)
-* [2026-08-21, 17:54:06](https://news.ycombinator.com/item?id=49391661) - [Optimizing meshoptimizer to process billions of triangles in minutes (2025)](https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/)
 * [2026-08-21, 17:45:41](https://news.ycombinator.com/item?id=49391553) - [OTel isn’t going well](https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/)
 * [2026-08-21, 17:18:06](https://news.ycombinator.com/item?id=49391168) - [Show HN: Rotation via Double Reflection](https://static.laszlokorte.de/rotor-reflect/)
 * [2026-08-21, 16:25:25](https://news.ycombinator.com/item?id=49390427) - [Kobo can run apps now](https://bandarlabs.github.io/Cobalt/)
@@ -27,9 +29,7 @@
 * [2026-08-21, 11:48:05](https://news.ycombinator.com/item?id=49386699) - [I'm becoming AI-blind](https://cymerys.com/w/im-becoming-ai-blind)
 * [2026-08-21, 05:37:38](https://news.ycombinator.com/item?id=49384210) - [Stop Making TUIs](https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/)
 * [2026-08-20, 21:08:36](https://news.ycombinator.com/item?id=49380303) - [Early-life stress leaves a 'scar' inside brain cells in mice](https://medicine.washu.edu/news/how-early-life-stress-leaves-a-scar-inside-brain-cells/)
-* [2026-08-20, 16:22:58](https://news.ycombinator.com/item?id=49376769) - [Everyone says assembly is untyped—everyone is wrong](https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/)
 * [2026-08-19, 06:13:31](https://news.ycombinator.com/item?id=49357530) - [AI boosted homework scores, then exam scores dropped: study](https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning)
-* [2026-08-17, 07:12:15](https://news.ycombinator.com/item?id=49327408) - [People of ACM – Russ Cox](https://www.acm.org/articles/people-of-acm/2026/russ-cox)
 
 ## [Archives](archives/index.md)
 

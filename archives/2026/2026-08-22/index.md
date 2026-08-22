@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-08-22](index.md)
 
+* [2026-08-22, 17:09:27](https://news.ycombinator.com/item?id=49401621) - [Belgian car salesman becomes prince after DNA test proves royal parentage](https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl)
+* [2026-08-22, 17:01:25](https://news.ycombinator.com/item?id=49401567) - [Htmx live is cool. Datastar is fast. This cow is raw and strong](https://stario.dev/ox)
 * [2026-08-22, 16:23:09](https://news.ycombinator.com/item?id=49401229) - [Anthropic IPO filing will show AI backlash as a risk factor, sources say](https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html)
+* [2026-08-22, 16:11:16](https://news.ycombinator.com/item?id=49401122) - [Learning about \"The Unix Time-Sharing System\"](https://playtechnique.io/long/the-unix-time-sharing-system.html)
 * [2026-08-22, 14:54:07](https://news.ycombinator.com/item?id=49400408) - [ElevenLabs, TwelveLabs, ThirteenLabs](https://quantumi.sh/public/labs.html)
 * [2026-08-22, 14:13:05](https://news.ycombinator.com/item?id=49399941) - [Digging the grave of my job: Hollywood creatives training AI to do their jobs](https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs)
 * [2026-08-22, 14:08:19](https://news.ycombinator.com/item?id=49399898) - [A Friendly Introduction to Racket](https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/)
