@@ -28,6 +28,7 @@
 * [2026-08-19, 17:45:41](https://news.ycombinator.com/item?id=49364721) - [A revisit of remote Spectre attacks on Cloudflare Workers](https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/)
 * [2026-08-19, 17:38:33](https://news.ycombinator.com/item?id=49364633) - [People Are Cutting Down Flock Cameras En Masse](https://margaretkilljoy.substack.com/p/people-really-are-cutting-down-flock)
 * [2026-08-19, 17:32:38](https://news.ycombinator.com/item?id=49364559) - [OpenRouter Is Joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/)
+* [2026-08-19, 17:13:11](https://news.ycombinator.com/item?id=49364296) - [Show HN: terminal-code – VS Code inside the terminal](https://terminal-code.com)
 * [2026-08-19, 17:07:35](https://news.ycombinator.com/item?id=49364223) - [Show HN: Frugal Tokens – explore costs and usage across coding agents](https://demo.frugaltokens.com/)
 * [2026-08-19, 16:29:02](https://news.ycombinator.com/item?id=49363710) - [Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams](https://github.com/onecli/onecli)
 * [2026-08-19, 16:26:05](https://news.ycombinator.com/item?id=49363668) - [Extensible Software in the Age of LLMs](https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-22](index.md)
 
+* [2026-08-22, 18:08:56](https://news.ycombinator.com/item?id=49402189) - [Scrap](https://twitter.com/moxie/status/2091218652133732491)
 * [2026-08-22, 17:09:27](https://news.ycombinator.com/item?id=49401621) - [Belgian car salesman becomes prince after DNA test proves royal parentage](https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl)
 * [2026-08-22, 17:01:25](https://news.ycombinator.com/item?id=49401567) - [Htmx live is cool. Datastar is fast. This cow is raw and strong](https://stario.dev/ox)
 * [2026-08-22, 16:58:49](https://news.ycombinator.com/item?id=49401549) - [Anthropic appears to be A/B testing reduced effort levels in Claude Code](https://twitter.com/argofowl/status/2091150597374537729)
