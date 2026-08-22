@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-08-21](index.md)
 
+* [2026-08-21, 23:53:03](https://news.ycombinator.com/item?id=49395171) - [HN: The Good Parts (2016)](https://danluu.com/hn-comments/)
+* [2026-08-21, 23:32:44](https://news.ycombinator.com/item?id=49395040) - [Paul Atkins misreads Adam Smith and the American founding](https://sites.duke.edu/thefinregblog/2026/08/03/paul-atkins-misreads-adam-smith-and-the-american-founding/)
 * [2026-08-21, 23:09:06](https://news.ycombinator.com/item?id=49394827) - [Show HN: OzBrain, a shared brain for knowledge between agents and your team](https://ozbrain.com)
+* [2026-08-21, 23:03:18](https://news.ycombinator.com/item?id=49394797) - [Pentagon dismisses Stars and Stripes leadership after opposition to interference](https://apnews.com/article/stars-stripes-pentagon-censorship-media-d42affb0c17fef31c6089645c8dbbe70)
 * [2026-08-21, 22:29:00](https://news.ycombinator.com/item?id=49394496) - [Three important steps in my maturation process](https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/)
 * [2026-08-21, 22:15:46](https://news.ycombinator.com/item?id=49394373) - ['Ghost Job' Ads Are Getting So Bad That Lawmakers Want to Ban Them](https://www.wsj.com/lifestyle/careers/ghost-job-ads-are-getting-so-bad-that-lawmakers-want-to-ban-them-2580bc3e)
 * [2026-08-21, 21:32:07](https://news.ycombinator.com/item?id=49394028) - [Remotely Unlocking Electric Scooters](https://henriemategui.com/post/remotely-unlocking-electric-scooters)
