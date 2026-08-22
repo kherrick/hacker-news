@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-22, 20:21:14](https://news.ycombinator.com/item?id=49403484) - [Knowing When to Stop: The Art of Making a Loop Converge](https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/)
+* [2026-08-22, 19:56:38](https://news.ycombinator.com/item?id=49403228) - [Fast and Hard Code](https://lucumr.pocoo.org/2026/8/22/fast-hard-code/)
 * [2026-08-22, 19:19:15](https://news.ycombinator.com/item?id=49402907) - [English ↔ Claudish Translator](https://programasweights.com/claudish)
 * [2026-08-22, 19:07:46](https://news.ycombinator.com/item?id=49402781) - [NetBSD and My Life (2005)](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html)
 * [2026-08-22, 19:04:41](https://news.ycombinator.com/item?id=49402741) - [hdiutil is deprecated in macOS 27 Golden Gate](https://lapcatsoftware.com/articles/2026/8/7.html)
@@ -22,10 +24,8 @@
 * [2026-08-20, 20:52:31](https://news.ycombinator.com/item?id=49380128) - [Ameliorate](https://ameliorate.app/)
 * [2026-08-20, 20:22:35](https://news.ycombinator.com/item?id=49379732) - [ATProto spaces: A new extension to ATProto that enables non-public data](https://atproto.com/blog/atproto-spaces-alpha)
 * [2026-08-20, 17:07:36](https://news.ycombinator.com/item?id=49377316) - [Why it might be time to rethink the human family tree](https://nautil.us/why-it-might-be-time-to-rethink-the-human-family-tree-1283985)
-* [2026-08-20, 14:35:08](https://news.ycombinator.com/item?id=49375176) - [ProgramBench Vetted: Reverse Engineering from a Runnable Binary](https://vetto.ai/companies/programbench-vetted.html)
 * [2026-08-20, 04:07:46](https://news.ycombinator.com/item?id=49370284) - [MiniageOS: \"Dumbphone\" Version of LineageOS](https://github.com/ofdryads/miniageOS)
 * [2026-08-19, 17:13:11](https://news.ycombinator.com/item?id=49364296) - [Show HN: terminal-code – VS Code inside the terminal](https://terminal-code.com)
-* [2026-08-19, 12:28:44](https://news.ycombinator.com/item?id=49360643) - [What's in a PowerPoint File?](https://editide.com/blog/what-is-a-pptx-file/)
 * [2026-08-19, 02:05:43](https://news.ycombinator.com/item?id=49355659) - [RF Cafe](https://www.rfcafe.com/)
 * [2026-08-18, 20:47:22](https://news.ycombinator.com/item?id=49352470) - [Mythic's analog compute-in-memory architecture](https://www.mythic.ai)
 * [2026-08-18, 20:00:50](https://news.ycombinator.com/item?id=49351802) - [Hister – A private, full content search index that you control](https://hister.org/)

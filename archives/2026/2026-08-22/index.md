@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-22](index.md)
 
+* [2026-08-22, 20:21:14](https://news.ycombinator.com/item?id=49403484) - [Knowing When to Stop: The Art of Making a Loop Converge](https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/)
+* [2026-08-22, 19:56:38](https://news.ycombinator.com/item?id=49403228) - [Fast and Hard Code](https://lucumr.pocoo.org/2026/8/22/fast-hard-code/)
 * [2026-08-22, 19:19:15](https://news.ycombinator.com/item?id=49402907) - [English ↔ Claudish Translator](https://programasweights.com/claudish)
 * [2026-08-22, 19:07:46](https://news.ycombinator.com/item?id=49402781) - [NetBSD and My Life (2005)](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html)
 * [2026-08-22, 19:04:41](https://news.ycombinator.com/item?id=49402741) - [hdiutil is deprecated in macOS 27 Golden Gate](https://lapcatsoftware.com/articles/2026/8/7.html)
