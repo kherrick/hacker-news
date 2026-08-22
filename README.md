@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-08-22, 17:09:27](https://news.ycombinator.com/item?id=49401621) - [Belgian car salesman becomes prince after DNA test proves royal parentage](https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl)
-* [2026-08-22, 17:01:25](https://news.ycombinator.com/item?id=49401567) - [Htmx live is cool. Datastar is fast. This cow is raw and strong](https://stario.dev/ox)
-* [2026-08-22, 16:23:09](https://news.ycombinator.com/item?id=49401229) - [Anthropic IPO filing will show AI backlash as a risk factor, sources say](https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html)
+* [2026-08-22, 16:58:49](https://news.ycombinator.com/item?id=49401549) - [Anthropic appears to be A/B testing reduced effort levels in Claude Code](https://twitter.com/argofowl/status/2091150597374537729)
 * [2026-08-22, 16:11:16](https://news.ycombinator.com/item?id=49401122) - [Learning about \"The Unix Time-Sharing System\"](https://playtechnique.io/long/the-unix-time-sharing-system.html)
 * [2026-08-22, 14:54:07](https://news.ycombinator.com/item?id=49400408) - [ElevenLabs, TwelveLabs, ThirteenLabs](https://quantumi.sh/public/labs.html)
 * [2026-08-22, 14:08:19](https://news.ycombinator.com/item?id=49399898) - [A Friendly Introduction to Racket](https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/)
@@ -13,7 +12,6 @@
 * [2026-08-22, 09:49:14](https://news.ycombinator.com/item?id=49398152) - [Munder Difflin – Agent harness to run an office of your clones](https://munderdiffl.in/)
 * [2026-08-22, 09:07:26](https://news.ycombinator.com/item?id=49397947) - [Embedded AI](https://nostarch.com/embedded-ai)
 * [2026-08-22, 01:06:17](https://news.ycombinator.com/item?id=49395628) - [There's no reason for software to be slow anymore](https://danluu.com/perf-opt/)
-* [2026-08-21, 22:29:00](https://news.ycombinator.com/item?id=49394496) - [Three important steps in my maturation process](https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/)
 * [2026-08-21, 19:51:54](https://news.ycombinator.com/item?id=49393052) - [Rust Glancer: Rust LSP using 100x less RAM](https://rust-glancer.github.io/blog/hello-world/)
 * [2026-08-21, 18:36:34](https://news.ycombinator.com/item?id=49392200) - [Scientists release biggest 2D map of the universe](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/)
 * [2026-08-21, 18:28:42](https://news.ycombinator.com/item?id=49392099) - [How Thailand Resisted Colonization](https://worksinprogress.co/issue/how-thailand-resisted-colonization/)
@@ -29,7 +27,9 @@
 * [2026-08-21, 11:48:05](https://news.ycombinator.com/item?id=49386699) - [I'm becoming AI-blind](https://cymerys.com/w/im-becoming-ai-blind)
 * [2026-08-21, 05:37:38](https://news.ycombinator.com/item?id=49384210) - [Stop Making TUIs](https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/)
 * [2026-08-20, 21:08:36](https://news.ycombinator.com/item?id=49380303) - [Early-life stress leaves a 'scar' inside brain cells in mice](https://medicine.washu.edu/news/how-early-life-stress-leaves-a-scar-inside-brain-cells/)
+* [2026-08-20, 16:22:58](https://news.ycombinator.com/item?id=49376769) - [Everyone says assembly is untyped—everyone is wrong](https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/)
 * [2026-08-19, 06:13:31](https://news.ycombinator.com/item?id=49357530) - [AI boosted homework scores, then exam scores dropped: study](https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning)
+* [2026-08-17, 07:12:15](https://news.ycombinator.com/item?id=49327408) - [People of ACM – Russ Cox](https://www.acm.org/articles/people-of-acm/2026/russ-cox)
 
 ## [Archives](archives/index.md)
 
