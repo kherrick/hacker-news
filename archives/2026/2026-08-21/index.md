@@ -20,6 +20,7 @@
 * [2026-08-21, 18:58:12](https://news.ycombinator.com/item?id=49392449) - [Death to the Self-Playing Game](https://www.jank.cool/death-to-the-self-playing-game/)
 * [2026-08-21, 18:48:28](https://news.ycombinator.com/item?id=49392331) - [Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders](https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders)
 * [2026-08-21, 18:36:34](https://news.ycombinator.com/item?id=49392200) - [Scientists release biggest 2D map of the universe](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/)
+* [2026-08-21, 17:54:06](https://news.ycombinator.com/item?id=49391661) - [Optimizing meshoptimizer to process billions of triangles in minutes (2025)](https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/)
 * [2026-08-21, 17:45:41](https://news.ycombinator.com/item?id=49391553) - [OTel isn't going well (and I made a spreadsheet about it)](https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/)
 * [2026-08-21, 17:33:26](https://news.ycombinator.com/item?id=49391389) - [Rebuilding our Electron meeting-recording engine in Swift](https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift)
 * [2026-08-21, 17:31:15](https://news.ycombinator.com/item?id=49391358) - [When the shortage is the strategy](https://nooneshappy.com/article/when-the-shortage-is-the-strategy/)
