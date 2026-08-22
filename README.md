@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-22, 16:23:09](https://news.ycombinator.com/item?id=49401229) - [Anthropic IPO filing will show AI backlash as a risk factor, sources say](https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html)
 * [2026-08-22, 14:54:07](https://news.ycombinator.com/item?id=49400408) - [ElevenLabs, TwelveLabs, ThirteenLabs](https://quantumi.sh/public/labs.html)
 * [2026-08-22, 14:08:19](https://news.ycombinator.com/item?id=49399898) - [A Friendly Introduction to Racket](https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/)
 * [2026-08-22, 13:31:34](https://news.ycombinator.com/item?id=49399591) - [The New MCP Roadmap](https://blog.modelcontextprotocol.io/posts/mcp-roadmap/)
@@ -22,7 +23,6 @@
 * [2026-08-21, 14:28:15](https://news.ycombinator.com/item?id=49388694) - [Zig’s Io.Threaded is neat](https://matklad.github.io/2026/08/06/neat-io-threaded.html)
 * [2026-08-21, 13:56:37](https://news.ycombinator.com/item?id=49388154) - [Kagi added a setting for removing paywalled links from search results](https://kagi.com/changelog#11296)
 * [2026-08-21, 13:11:28](https://news.ycombinator.com/item?id=49387570) - [I accidentally logged hundreds of thousands of phone calls to military bases](https://lina.sh/blog/hijacking-e164-arpa)
-* [2026-08-21, 13:07:26](https://news.ycombinator.com/item?id=49387525) - [New Worlds: We are living in the future of J.G. Ballard or William Gibson](https://precastreinforced.co.uk/2026/08/16/new-worlds/)
 * [2026-08-21, 12:10:13](https://news.ycombinator.com/item?id=49386895) - [Felony charges for citizen deleting phone data at US Border](https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html)
 * [2026-08-21, 11:48:05](https://news.ycombinator.com/item?id=49386699) - [I'm becoming AI-blind](https://cymerys.com/w/im-becoming-ai-blind)
 * [2026-08-21, 05:37:38](https://news.ycombinator.com/item?id=49384210) - [Stop Making TUIs](https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/)
