@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-08-22, 04:42:19](https://news.ycombinator.com/item?id=49396620) - [4 in 10 travellers visit tourist sites to capture social media content](https://www.tuigroup.com/en/newsroom/news/travel-in-the-age-of-scrolling-tui-musement-research-reveals-4-in-10-travellers-visit-tourist-sites-to-capture-social-media-content)
-* [2026-08-22, 02:37:30](https://news.ycombinator.com/item?id=49396086) - [Early Humans Likely Ate Carbs and Sugary Foods](https://www.history.com/articles/early-human-ancestors-diet-sugar-carbs)
 * [2026-08-22, 01:06:17](https://news.ycombinator.com/item?id=49395628) - [There's no reason for software to be slow anymore](https://danluu.com/perf-opt/)
 * [2026-08-22, 01:02:09](https://news.ycombinator.com/item?id=49395605) - [Initial focus for our partnership with Motorola is a regular non-folding device](https://grapheneos.social/@GrapheneOS/117136278553665985)
 * [2026-08-21, 23:53:03](https://news.ycombinator.com/item?id=49395171) - [HN: The Good Parts (2016)](https://danluu.com/hn-comments/)
@@ -22,6 +21,7 @@
 * [2026-08-21, 13:07:26](https://news.ycombinator.com/item?id=49387525) - [New Worlds: We are living in the future of J.G. Ballard or William Gibson](https://precastreinforced.co.uk/2026/08/16/new-worlds/)
 * [2026-08-21, 12:10:13](https://news.ycombinator.com/item?id=49386895) - [Felony charges for citizen deleting phone data at US Border](https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html)
 * [2026-08-21, 11:48:05](https://news.ycombinator.com/item?id=49386699) - [I'm becoming AI-blind](https://cymerys.com/w/im-becoming-ai-blind)
+* [2026-08-21, 05:37:38](https://news.ycombinator.com/item?id=49384210) - [Stop Making TUIs](https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/)
 * [2026-08-20, 23:11:50](https://news.ycombinator.com/item?id=49381542) - [Ozone: The fault is not in our trees, but in ourselves](https://www.science.org/content/blog-post/fault-not-our-trees-ourselves)
 * [2026-08-20, 21:08:36](https://news.ycombinator.com/item?id=49380303) - [Early-life stress leaves a 'scar' inside brain cells in mice](https://medicine.washu.edu/news/how-early-life-stress-leaves-a-scar-inside-brain-cells/)
 * [2026-08-20, 19:41:32](https://news.ycombinator.com/item?id=49379183) - [How orchids inspired the work of Charles Darwin](https://lithub.com/how-orchids-inspired-the-groundbreaking-work-of-charles-darwin/)
