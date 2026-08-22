@@ -2,6 +2,7 @@
 
 * [2026-08-22, 19:07:46](https://news.ycombinator.com/item?id=49402781) - [NetBSD and My Life (2005)](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html)
 * [2026-08-22, 19:04:41](https://news.ycombinator.com/item?id=49402741) - [hdiutil is deprecated in macOS 27 Golden Gate](https://lapcatsoftware.com/articles/2026/8/7.html)
+* [2026-08-22, 18:43:03](https://news.ycombinator.com/item?id=49402521) - [Show HN: Make your logo extra bright on HDR screens](https://www.soverybright.com/)
 * [2026-08-22, 18:08:56](https://news.ycombinator.com/item?id=49402189) - [Scrap](https://twitter.com/moxie/status/2091218652133732491)
 * [2026-08-22, 17:09:27](https://news.ycombinator.com/item?id=49401621) - [Belgian car salesman becomes prince after DNA test proves royal parentage](https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl)
 * [2026-08-22, 16:58:49](https://news.ycombinator.com/item?id=49401549) - [Anthropic appears to be A/B testing reduced effort levels in Claude Code](https://twitter.com/argofowl/status/2091150597374537729)
@@ -11,7 +12,6 @@
 * [2026-08-22, 09:49:57](https://news.ycombinator.com/item?id=49398158) - [Z80 – The 1970s Microprocessor Still Alive (2021)](https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi)
 * [2026-08-22, 09:49:14](https://news.ycombinator.com/item?id=49398152) - [Munder Difflin – Agent harness to run an office of your clones](https://munderdiffl.in/)
 * [2026-08-22, 06:16:57](https://news.ycombinator.com/item?id=49397074) - [Canada will match US tariffs 'dollar for dollar' as trade talks break down](https://www.bbc.com/news/articles/cvgvyy4x2mvo)
-* [2026-08-21, 20:42:11](https://news.ycombinator.com/item?id=49393537) - [The Creation of Abulafia](https://blog.veitheller.de/abulafia.html)
 * [2026-08-21, 19:51:54](https://news.ycombinator.com/item?id=49393052) - [Rust Glancer: Rust LSP using 100x less RAM](https://rust-glancer.github.io/blog/hello-world/)
 * [2026-08-21, 19:05:50](https://news.ycombinator.com/item?id=49392536) - [One night in Uzbekistan: Why was this one data point so influential?](https://statmodeling.stat.columbia.edu/2026/08/20/we-couldnt-reproduce-their-findings-and-realized-that-it-was-all-driven-by-weird-data-from-uzbekistan/)
 * [2026-08-21, 17:18:06](https://news.ycombinator.com/item?id=49391168) - [Show HN: Rotation via Double Reflection](https://static.laszlokorte.de/rotor-reflect/)
