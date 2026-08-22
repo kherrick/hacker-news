@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-08-20](index.md)
 
 * [2026-08-20, 23:56:35](https://news.ycombinator.com/item?id=49381896) - [Stealth Model](https://openrouter.ai/stealth/ox-alpha)
+* [2026-08-20, 23:11:50](https://news.ycombinator.com/item?id=49381542) - [Ozone: The fault is not in our trees, but in ourselves](https://www.science.org/content/blog-post/fault-not-our-trees-ourselves)
 * [2026-08-20, 22:47:52](https://news.ycombinator.com/item?id=49381311) - [Detecting scraper bots through scroll behaviour](https://niki.cat/detecting-scraper-bots-through-scroll-behaviour)
 * [2026-08-20, 21:42:51](https://news.ycombinator.com/item?id=49380671) - [Scientists Release Biggest 2D Map of the Universe](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/)
 * [2026-08-20, 21:32:10](https://news.ycombinator.com/item?id=49380555) - [Pursuit of AGI](https://cognitus.grrn.io)

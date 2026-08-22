@@ -20,7 +20,7 @@
 * [2026-08-21, 13:07:26](https://news.ycombinator.com/item?id=49387525) - [New Worlds: We are living in the future of J.G. Ballard or William Gibson](https://precastreinforced.co.uk/2026/08/16/new-worlds/)
 * [2026-08-21, 12:10:13](https://news.ycombinator.com/item?id=49386895) - [Felony charges for citizen deleting phone data at US Border](https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html)
 * [2026-08-21, 11:48:05](https://news.ycombinator.com/item?id=49386699) - [I'm becoming AI-blind](https://cymerys.com/w/im-becoming-ai-blind)
-* [2026-08-21, 10:33:56](https://news.ycombinator.com/item?id=49386163) - [DeepSeek-v4-flash-vision-exp](https://api-docs.deepseek.com/guides/vision/)
+* [2026-08-20, 23:11:50](https://news.ycombinator.com/item?id=49381542) - [Ozone: The fault is not in our trees, but in ourselves](https://www.science.org/content/blog-post/fault-not-our-trees-ourselves)
 * [2026-08-20, 21:08:36](https://news.ycombinator.com/item?id=49380303) - [Early-life stress leaves a 'scar' inside brain cells in mice](https://medicine.washu.edu/news/how-early-life-stress-leaves-a-scar-inside-brain-cells/)
 * [2026-08-20, 19:28:18](https://news.ycombinator.com/item?id=49379026) - [GitHub, autoscaling, and the component substitution fallacy](https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/)
 * [2026-08-20, 16:22:58](https://news.ycombinator.com/item?id=49376769) - [Everyone says assembly is untyped—everyone is wrong](https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/)
