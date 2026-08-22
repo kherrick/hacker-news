@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-08-22, 04:42:19](https://news.ycombinator.com/item?id=49396620) - [4 in 10 travellers visit tourist sites to capture social media content](https://www.tuigroup.com/en/newsroom/news/travel-in-the-age-of-scrolling-tui-musement-research-reveals-4-in-10-travellers-visit-tourist-sites-to-capture-social-media-content)
 * [2026-08-22, 01:06:17](https://news.ycombinator.com/item?id=49395628) - [There's no reason for software to be slow anymore](https://danluu.com/perf-opt/)
 * [2026-08-22, 01:02:09](https://news.ycombinator.com/item?id=49395605) - [Initial focus for our partnership with Motorola is a regular non-folding device](https://grapheneos.social/@GrapheneOS/117136278553665985)
 * [2026-08-21, 23:53:03](https://news.ycombinator.com/item?id=49395171) - [HN: The Good Parts (2016)](https://danluu.com/hn-comments/)
@@ -29,6 +28,7 @@
 * [2026-08-20, 16:22:58](https://news.ycombinator.com/item?id=49376769) - [Everyone says assembly is untyped—everyone is wrong](https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/)
 * [2026-08-20, 14:13:45](https://news.ycombinator.com/item?id=49374853) - [A look under our trunk: what's in our compute](https://waymo.com/blog/2026/08/look-under-our-trunk/)
 * [2026-08-19, 06:13:31](https://news.ycombinator.com/item?id=49357530) - [AI boosted homework scores, then exam scores dropped: study](https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning)
+* [2026-08-18, 14:49:19](https://news.ycombinator.com/item?id=49346444) - [The coolest anti-surveillance tools at Defcon [video]](https://www.youtube.com/watch?v=-2uAsJ5EPAw)
 * [2026-08-17, 07:12:15](https://news.ycombinator.com/item?id=49327408) - [People of ACM – Russ Cox](https://www.acm.org/articles/people-of-acm/2026/russ-cox)
 
 ## [Archives](archives/index.md)
