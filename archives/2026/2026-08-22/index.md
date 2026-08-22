@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-22](index.md)
 
+* [2026-08-22, 13:24:06](https://news.ycombinator.com/item?id=49399524) - [A Kantian Critique of \"Sorry\" by Justin Bieber](https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/)
 * [2026-08-22, 12:07:06](https://news.ycombinator.com/item?id=49398904) - [Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week](https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy)
 * [2026-08-22, 10:26:09](https://news.ycombinator.com/item?id=49398304) - [Canada suspends trade negotiations with USA and match tariffs dollar for dollar](https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations)
 * [2026-08-22, 09:49:57](https://news.ycombinator.com/item?id=49398158) - [Z80–The 1970s Microprocessor Still Alive](https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi)
