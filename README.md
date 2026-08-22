@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-22, 12:07:06](https://news.ycombinator.com/item?id=49398904) - [Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week](https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy)
 * [2026-08-22, 10:26:09](https://news.ycombinator.com/item?id=49398304) - [Canada suspends trade negotiations with USA and match tariffs dollar for dollar](https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations)
 * [2026-08-22, 09:49:57](https://news.ycombinator.com/item?id=49398158) - [Z80–The 1970s Microprocessor Still Alive](https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi)
 * [2026-08-22, 09:49:14](https://news.ycombinator.com/item?id=49398152) - [Munder Difflin – Agent harness to run an office of your clones](https://munderdiffl.in/)
@@ -8,6 +9,7 @@
 * [2026-08-21, 22:29:00](https://news.ycombinator.com/item?id=49394496) - [Three important steps in my maturation process](https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/)
 * [2026-08-21, 19:51:54](https://news.ycombinator.com/item?id=49393052) - [Rust Glancer: Rust LSP using 100x less RAM](https://rust-glancer.github.io/blog/hello-world/)
 * [2026-08-21, 18:36:34](https://news.ycombinator.com/item?id=49392200) - [Scientists release biggest 2D map of the universe](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/)
+* [2026-08-21, 18:28:42](https://news.ycombinator.com/item?id=49392099) - [How Thailand Resisted Colonization](https://worksinprogress.co/issue/how-thailand-resisted-colonization/)
 * [2026-08-21, 17:54:06](https://news.ycombinator.com/item?id=49391661) - [Optimizing meshoptimizer to process billions of triangles in minutes (2025)](https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/)
 * [2026-08-21, 17:45:41](https://news.ycombinator.com/item?id=49391553) - [OTel isn’t going well](https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/)
 * [2026-08-21, 17:30:38](https://news.ycombinator.com/item?id=49391348) - [Galactic Compass 2: now with new augmented reality mode](https://interconnected.org/home/2026/08/21/galactic)
@@ -24,11 +26,9 @@
 * [2026-08-21, 05:37:38](https://news.ycombinator.com/item?id=49384210) - [Stop Making TUIs](https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/)
 * [2026-08-20, 21:08:36](https://news.ycombinator.com/item?id=49380303) - [Early-life stress leaves a 'scar' inside brain cells in mice](https://medicine.washu.edu/news/how-early-life-stress-leaves-a-scar-inside-brain-cells/)
 * [2026-08-20, 16:22:58](https://news.ycombinator.com/item?id=49376769) - [Everyone says assembly is untyped—everyone is wrong](https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/)
-* [2026-08-20, 15:40:57](https://news.ycombinator.com/item?id=49376197) - [Autolith: A programming agent with a live runtime](https://www.lambda-symbolics.com/autolith)
 * [2026-08-19, 17:45:41](https://news.ycombinator.com/item?id=49364721) - [A revisit of remote Spectre attacks on Cloudflare Workers](https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/)
 * [2026-08-19, 06:13:31](https://news.ycombinator.com/item?id=49357530) - [AI boosted homework scores, then exam scores dropped: study](https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning)
 * [2026-08-18, 14:49:19](https://news.ycombinator.com/item?id=49346444) - [The coolest anti-surveillance tools at Defcon [video]](https://www.youtube.com/watch?v=-2uAsJ5EPAw)
-* [2026-08-17, 12:02:18](https://news.ycombinator.com/item?id=49329506) - [ESP32 Firmware Development with Docker Sandboxes](https://www.docker.com/blog/reproducible-esp32-firmware-development-with-docker-and-docker-sandboxes/)
 * [2026-08-17, 07:12:15](https://news.ycombinator.com/item?id=49327408) - [People of ACM – Russ Cox](https://www.acm.org/articles/people-of-acm/2026/russ-cox)
 
 ## [Archives](archives/index.md)
