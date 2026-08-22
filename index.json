@@ -161,6 +161,16 @@
   ],
   [
     [
+      "2026-08-21, 19:51:54",
+      "https://news.ycombinator.com/item?id=49393052"
+    ],
+    [
+      "Rust Glancer: Rust LSP using 100x less RAM",
+      "https://rust-glancer.github.io/blog/hello-world/"
+    ]
+  ],
+  [
+    [
       "2026-08-21, 19:51:48",
       "https://news.ycombinator.com/item?id=49393051"
     ],
@@ -227,16 +237,6 @@
     [
       "Autolith: A programming agent with a live runtime",
       "https://www.lambda-symbolics.com/autolith"
-    ]
-  ],
-  [
-    [
-      "2026-08-20, 14:03:58",
-      "https://news.ycombinator.com/item?id=49374729"
-    ],
-    [
-      "Guess which of these LLM outputs is watermarked",
-      "https://sgoedecke.github.io/watermark-quiz/"
     ]
   ],
   [
