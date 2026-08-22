@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-22](index.md)
 
+* [2026-08-22, 13:31:34](https://news.ycombinator.com/item?id=49399591) - [The New MCP Roadmap](https://blog.modelcontextprotocol.io/posts/mcp-roadmap/)
 * [2026-08-22, 13:24:06](https://news.ycombinator.com/item?id=49399524) - [A Kantian Critique of \"Sorry\" by Justin Bieber](https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/)
 * [2026-08-22, 12:07:06](https://news.ycombinator.com/item?id=49398904) - [Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week](https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy)
 * [2026-08-22, 11:39:12](https://news.ycombinator.com/item?id=49398710) - [A formal degree and algorithmic problem-solving is the answer. Always has been](https://zaksa.zip/blog/formal-education-is-the-answer/)
