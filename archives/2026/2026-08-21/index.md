@@ -26,6 +26,7 @@
 * [2026-08-21, 17:33:26](https://news.ycombinator.com/item?id=49391389) - [Rebuilding our Electron meeting-recording engine in Swift](https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift)
 * [2026-08-21, 17:31:15](https://news.ycombinator.com/item?id=49391358) - [When the shortage is the strategy](https://nooneshappy.com/article/when-the-shortage-is-the-strategy/)
 * [2026-08-21, 17:30:38](https://news.ycombinator.com/item?id=49391348) - [Galactic Compass 2: now with new augmented reality mode](https://interconnected.org/home/2026/08/21/galactic)
+* [2026-08-21, 17:18:06](https://news.ycombinator.com/item?id=49391168) - [Show HN: Rotation via Double Reflection](https://static.laszlokorte.de/rotor-reflect/)
 * [2026-08-21, 17:00:23](https://news.ycombinator.com/item?id=49390910) - [LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers](https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6)
 * [2026-08-21, 16:50:15](https://news.ycombinator.com/item?id=49390775) - [Another Better Lower Bound for N=17 Square Packing](http://gus-massa.blogspot.com/2026/08/another-better-lower-bound-for-n17.html)
 * [2026-08-21, 16:47:15](https://news.ycombinator.com/item?id=49390739) - [Show HN: Proliferate- open-source, self-hostable Codex for any coding agent](https://github.com/proliferate-ai/proliferate)
