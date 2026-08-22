@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-22](index.md)
 
+* [2026-08-22, 22:14:27](https://news.ycombinator.com/item?id=49404380) - [NanoGPT Speedrun Frontier](https://www.primeintellect.ai/research/nanogpt-speedrun)
 * [2026-08-22, 20:21:14](https://news.ycombinator.com/item?id=49403484) - [Knowing When to Stop: The Art of Making a Loop Converge](https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/)
 * [2026-08-22, 19:56:38](https://news.ycombinator.com/item?id=49403228) - [Fast and Hard Code](https://lucumr.pocoo.org/2026/8/22/fast-hard-code/)
 * [2026-08-22, 19:19:15](https://news.ycombinator.com/item?id=49402907) - [English ↔ Claudish Translator](https://programasweights.com/claudish)

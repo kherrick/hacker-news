@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-22, 22:14:27](https://news.ycombinator.com/item?id=49404380) - [NanoGPT Speedrun Frontier](https://www.primeintellect.ai/research/nanogpt-speedrun)
 * [2026-08-22, 19:19:15](https://news.ycombinator.com/item?id=49402907) - [English ↔ Claudish Translator](https://programasweights.com/claudish)
 * [2026-08-22, 19:07:46](https://news.ycombinator.com/item?id=49402781) - [NetBSD and my life (2005)](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html)
 * [2026-08-22, 19:04:41](https://news.ycombinator.com/item?id=49402741) - [hdiutil is deprecated in macOS 27 Golden Gate](https://lapcatsoftware.com/articles/2026/8/7.html)
@@ -23,11 +24,10 @@
 * [2026-08-20, 17:07:36](https://news.ycombinator.com/item?id=49377316) - [Why it might be time to rethink the human family tree](https://nautil.us/why-it-might-be-time-to-rethink-the-human-family-tree-1283985)
 * [2026-08-20, 15:40:57](https://news.ycombinator.com/item?id=49376197) - [Autolith: A programming agent with a live runtime](https://www.lambda-symbolics.com/autolith)
 * [2026-08-20, 14:03:58](https://news.ycombinator.com/item?id=49374729) - [Guess which of these LLM outputs is watermarked](https://sgoedecke.github.io/watermark-quiz/)
+* [2026-08-20, 12:40:04](https://news.ycombinator.com/item?id=49373822) - [Conway's Game of Life in real life](https://blog.coredump.cx/p/conways-game-of-life-in-real-life)
 * [2026-08-20, 04:07:46](https://news.ycombinator.com/item?id=49370284) - [MiniageOS: \"Dumbphone\" Version of LineageOS](https://github.com/ofdryads/miniageOS)
 * [2026-08-19, 17:13:11](https://news.ycombinator.com/item?id=49364296) - [Show HN: terminal-code – VS Code inside the terminal](https://terminal-code.com)
-* [2026-08-19, 12:28:44](https://news.ycombinator.com/item?id=49360643) - [What's in a PowerPoint File?](https://editide.com/blog/what-is-a-pptx-file/)
 * [2026-08-19, 02:05:43](https://news.ycombinator.com/item?id=49355659) - [RF Cafe](https://www.rfcafe.com/)
-* [2026-08-18, 20:47:22](https://news.ycombinator.com/item?id=49352470) - [Mythic's analog compute-in-memory architecture](https://www.mythic.ai)
 * [2026-08-18, 20:00:50](https://news.ycombinator.com/item?id=49351802) - [Hister – A private, full content search index that you control](https://hister.org/)
 * [2026-08-18, 15:12:53](https://news.ycombinator.com/item?id=49346854) - [typ.ing](https://typ.ing/)
 
