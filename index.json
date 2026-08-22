@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-08-22, 13:31:34",
+      "https://news.ycombinator.com/item?id=49399591"
+    ],
+    [
+      "The New MCP Roadmap",
+      "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/"
+    ]
+  ],
+  [
+    [
       "2026-08-22, 13:24:06",
       "https://news.ycombinator.com/item?id=49399524"
     ],
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=49398158"
     ],
     [
-      "Z80–The 1970s Microprocessor Still Alive",
+      "Z80 – The 1970s Microprocessor Still Alive (2021)",
       "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi"
     ]
   ],
@@ -185,7 +195,7 @@
       "https://news.ycombinator.com/item?id=49388694"
     ],
     [
-      "Zig’s io.threaded is neat",
+      "Zig’s Io.Threaded is neat",
       "https://matklad.github.io/2026/08/06/neat-io-threaded.html"
     ]
   ],
@@ -267,16 +277,6 @@
     [
       "Everyone says assembly is untyped—everyone is wrong",
       "https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/"
-    ]
-  ],
-  [
-    [
-      "2026-08-19, 17:45:41",
-      "https://news.ycombinator.com/item?id=49364721"
-    ],
-    [
-      "A revisit of remote Spectre attacks on Cloudflare Workers",
-      "https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/"
     ]
   ],
   [
