@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-22, 02:37:30](https://news.ycombinator.com/item?id=49396086) - [Early Humans Likely Ate Carbs and Sugary Foods](https://www.history.com/articles/early-human-ancestors-diet-sugar-carbs)
 * [2026-08-22, 01:06:17](https://news.ycombinator.com/item?id=49395628) - [There's no reason for software to be slow anymore](https://danluu.com/perf-opt/)
 * [2026-08-22, 01:02:09](https://news.ycombinator.com/item?id=49395605) - [Initial focus for our partnership with Motorola is a regular non-folding device](https://grapheneos.social/@GrapheneOS/117136278553665985)
 * [2026-08-21, 23:53:03](https://news.ycombinator.com/item?id=49395171) - [HN: The Good Parts (2016)](https://danluu.com/hn-comments/)
@@ -12,7 +13,6 @@
 * [2026-08-21, 17:45:41](https://news.ycombinator.com/item?id=49391553) - [OTel isn't going well (and I made a spreadsheet about it)](https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/)
 * [2026-08-21, 16:25:25](https://news.ycombinator.com/item?id=49390427) - [Kobo can run apps now](https://bandarlabs.github.io/Cobalt/)
 * [2026-08-21, 15:51:10](https://news.ycombinator.com/item?id=49389952) - [How we made a text-to-speech model respond in sub-50 ms](https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/)
-* [2026-08-21, 15:17:47](https://news.ycombinator.com/item?id=49389441) - [I ran Photoshop on a £0.60 computer chip](https://pointinthecloud.com/2026-08-19-144600.html)
 * [2026-08-21, 15:17:04](https://news.ycombinator.com/item?id=49389430) - [Felony Bench](https://www.felonybench.com/)
 * [2026-08-21, 14:31:52](https://news.ycombinator.com/item?id=49388752) - [Claudette: Make Claude stop talking like a BuzzFeed article](https://github.com/adnanakil/nobuzz/blob/main/README.md)
 * [2026-08-21, 13:56:37](https://news.ycombinator.com/item?id=49388154) - [Kagi added a setting for removing paywalled links from search results](https://kagi.com/changelog#11296)
