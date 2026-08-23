@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-08-23, 10:54:35](https://news.ycombinator.com/item?id=49407785) - ['AI refuser' quit her dream job, and hopes others follow](https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html)
 * [2026-08-23, 10:14:48](https://news.ycombinator.com/item?id=49407576) - [Sydney Marathon medal mistakenly depicts Munich stadium](https://www.bbc.com/news/articles/cvg92y1wzn8o)
 * [2026-08-23, 10:02:51](https://news.ycombinator.com/item?id=49407507) - [I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes](https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/)
 * [2026-08-23, 09:32:54](https://news.ycombinator.com/item?id=49407341) - [The Sloppification of Peptides](https://henryaj.substack.com/p/the-sloppification-of-peptides)
@@ -22,6 +21,7 @@
 * [2026-08-22, 14:54:07](https://news.ycombinator.com/item?id=49400408) - [ElevenLabs, TwelveLabs, ThirteenLabs](https://quantumi.sh/public/labs.html)
 * [2026-08-22, 14:08:19](https://news.ycombinator.com/item?id=49399898) - [A Friendly Introduction to Racket](https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/)
 * [2026-08-22, 13:31:34](https://news.ycombinator.com/item?id=49399591) - [New MCP Roadmap](https://blog.modelcontextprotocol.io/posts/mcp-roadmap/)
+* [2026-08-22, 09:49:57](https://news.ycombinator.com/item?id=49398158) - [Z80 – The 1970s Microprocessor Still Alive (2021)](https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi)
 * [2026-08-22, 09:49:14](https://news.ycombinator.com/item?id=49398152) - [Munder Difflin – Agent harness to run an office of your clones](https://munderdiffl.in/)
 * [2026-08-21, 19:51:48](https://news.ycombinator.com/item?id=49393051) - [A week of using Codex more than Claude](https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/)
 * [2026-08-21, 15:44:40](https://news.ycombinator.com/item?id=49389846) - [Show HN: Public Muscriptor Instance (latest, most powerful Audio-to-MIDI model)](https://www.pianoify.net/)
