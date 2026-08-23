@@ -11,6 +11,7 @@
 * [2026-08-22, 19:07:46](https://news.ycombinator.com/item?id=49402781) - [NetBSD and My Life (2005)](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html)
 * [2026-08-22, 19:04:41](https://news.ycombinator.com/item?id=49402741) - [hdiutil is deprecated in macOS 27 Golden Gate](https://lapcatsoftware.com/articles/2026/8/7.html)
 * [2026-08-22, 18:43:03](https://news.ycombinator.com/item?id=49402521) - [Show HN: Make your logo extra bright on HDR screens](https://www.soverybright.com/)
+* [2026-08-22, 18:38:41](https://news.ycombinator.com/item?id=49402491) - [Things I want in a modern relational query language](https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/)
 * [2026-08-22, 18:14:16](https://news.ycombinator.com/item?id=49402232) - [Why your local LLM feels dumber than it is](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917)
 * [2026-08-22, 18:11:40](https://news.ycombinator.com/item?id=49402213) - [Figmimic – A bookmarklet to copy any webpage into Figma as editable layers](https://marcua.net/minitools/figmimic/)
 * [2026-08-22, 18:10:49](https://news.ycombinator.com/item?id=49402202) - [Thinking in Python by Bruce Eckel](https://thinkinginpython.com/)
