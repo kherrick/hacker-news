@@ -2,6 +2,7 @@
 
 * [2026-08-23, 14:38:25](https://news.ycombinator.com/item?id=49409200) - [Slovakia finds Russian backdoor in traffic speed cameras](https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/)
 * [2026-08-23, 14:36:38](https://news.ycombinator.com/item?id=49409184) - [Authoritarianism of Code](https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/)
+* [2026-08-23, 14:24:21](https://news.ycombinator.com/item?id=49409092) - [What Is a Harness?](https://earendil.com/posts/what-is-a-harness/)
 * [2026-08-23, 13:56:27](https://news.ycombinator.com/item?id=49408889) - [Death to px, long live ch](https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/)
 * [2026-08-23, 13:51:10](https://news.ycombinator.com/item?id=49408858) - [My favorite nonfiction books about cults, scams, and schemes](https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes)
 * [2026-08-23, 13:05:38](https://news.ycombinator.com/item?id=49408550) - [Malware infects Android-based automotive head unit firmware](https://securelist.com/android-head-unit-malware/121106/)
@@ -23,7 +24,6 @@
 * [2026-08-22, 18:10:49](https://news.ycombinator.com/item?id=49402202) - [Thinking in Python](https://thinkinginpython.com/)
 * [2026-08-22, 18:08:56](https://news.ycombinator.com/item?id=49402189) - [Scrap (2006)](https://twitter.com/moxie/status/2091218652133732491)
 * [2026-08-22, 14:54:07](https://news.ycombinator.com/item?id=49400408) - [ElevenLabs, TwelveLabs, ThirteenLabs](https://quantumi.sh/public/labs.html)
-* [2026-08-22, 14:08:19](https://news.ycombinator.com/item?id=49399898) - [A Friendly Introduction to Racket](https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/)
 * [2026-08-22, 13:31:34](https://news.ycombinator.com/item?id=49399591) - [New MCP Roadmap](https://blog.modelcontextprotocol.io/posts/mcp-roadmap/)
 * [2026-08-21, 13:43:33](https://news.ycombinator.com/item?id=49387959) - [How a Texas student blew the whistle on a rogue AI hacking attempt](https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/)
 * [2026-08-20, 20:22:35](https://news.ycombinator.com/item?id=49379732) - [ATProto spaces: A new extension to ATProto that enables non-public data](https://atproto.com/blog/atproto-spaces-alpha)
