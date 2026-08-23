@@ -20,7 +20,7 @@
 * [2026-08-22, 09:49:57](https://news.ycombinator.com/item?id=49398158) - [Z80 – The 1970s Microprocessor Still Alive (2021)](https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi)
 * [2026-08-22, 09:49:14](https://news.ycombinator.com/item?id=49398152) - [Munder Difflin – Agent harness to run an office of your clones](https://munderdiffl.in/)
 * [2026-08-22, 06:16:57](https://news.ycombinator.com/item?id=49397074) - [Canada will match US tariffs 'dollar for dollar' as trade talks break down](https://www.bbc.com/news/articles/cvgvyy4x2mvo)
-* [2026-08-21, 19:51:54](https://news.ycombinator.com/item?id=49393052) - [Rust Glancer: Rust LSP using 100x less RAM](https://rust-glancer.github.io/blog/hello-world/)
+* [2026-08-21, 23:09:06](https://news.ycombinator.com/item?id=49394827) - [Show HN: OzBrain, a shared brain for knowledge between agents and your team](https://ozbrain.com)
 * [2026-08-21, 19:51:48](https://news.ycombinator.com/item?id=49393051) - [A week of using Codex more than Claude](https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/)
 * [2026-08-21, 15:44:40](https://news.ycombinator.com/item?id=49389846) - [Show HN: Public Muscriptor Instance (latest, most powerful Audio-to-MIDI model)](https://www.pianoify.net/)
 * [2026-08-21, 13:43:33](https://news.ycombinator.com/item?id=49387959) - [How a Texas student blew the whistle on a rogue AI hacking attempt](https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/)
