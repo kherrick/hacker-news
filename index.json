@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-08-23, 21:55:55",
+      "https://news.ycombinator.com/item?id=49413004"
+    ],
+    [
+      "The Planet Now Has More Trees Than It Did 35 Years Ago",
+      "https://psmag.com/environment/the-planet-now-has-more-trees-than-it-did-35-years-ago/"
+    ]
+  ],
+  [
+    [
+      "2026-08-23, 21:47:25",
+      "https://news.ycombinator.com/item?id=49412947"
+    ],
+    [
+      "A complex structure on S^6 [pdf]",
+      "https://alpo.ge/s6.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-08-23, 20:56:01",
+      "https://news.ycombinator.com/item?id=49412548"
+    ],
+    [
+      "Cicada.os – Graphene.os for Your Laptop",
+      "https://kpres12.github.io/Cicada.OS/"
+    ]
+  ],
+  [
+    [
       "2026-08-23, 20:13:34",
       "https://news.ycombinator.com/item?id=49412176"
     ],
@@ -67,16 +97,6 @@
     [
       "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
       "https://www.spheron.network/blog/etched-ai-sohu-vs-nvidia-transformer-asic-inference/"
-    ]
-  ],
-  [
-    [
-      "2026-08-23, 18:16:37",
-      "https://news.ycombinator.com/item?id=49411102"
-    ],
-    [
-      "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-      "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245"
     ]
   ],
   [
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2026-08-23, 10:02:51",
-      "https://news.ycombinator.com/item?id=49407507"
-    ],
-    [
-      "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
-      "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/"
-    ]
-  ],
-  [
-    [
       "2026-08-23, 06:41:51",
       "https://news.ycombinator.com/item?id=49406539"
     ],
@@ -287,16 +297,6 @@
     [
       "MartyPC is a cross-platform emulator of early PCs written in Rust",
       "https://martypc.net/"
-    ]
-  ],
-  [
-    [
-      "2026-08-23, 02:33:22",
-      "https://news.ycombinator.com/item?id=49405682"
-    ],
-    [
-      "I Dream of Quieter Computing",
-      "https://henry.codes/writing/i-dream-of-quieter-computing/"
     ]
   ]
 ]
