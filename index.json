@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-08-23, 19:31:24",
-      "https://news.ycombinator.com/item?id=49411736"
+      "2026-08-23, 19:35:35",
+      "https://news.ycombinator.com/item?id=49411762"
     ],
     [
-      "Reaganomics Didn't Trickle Down – It Just Broke Unions",
-      "https://comuniq.xyz/Politics/post?t=1612"
+      "'The Nerd Reich' tracks the 'unmasking of Silicon Valley's true politics'",
+      "https://www.npr.org/2026/08/10/nx-s1-5925350/the-nerd-reich-tracks-the-unmasking-of-silicon-valleys-true-politics"
+    ]
+  ],
+  [
+    [
+      "2026-08-23, 19:23:29",
+      "https://news.ycombinator.com/item?id=49411643"
+    ],
+    [
+      "How I Find Problems to Solve as a Staff Engineer",
+      "https://lalitm.com/post/find-problems-staff-engineer/"
+    ]
+  ],
+  [
+    [
+      "2026-08-23, 19:06:09",
+      "https://news.ycombinator.com/item?id=49411468"
+    ],
+    [
+      "Fable and the End of the Free Lunch",
+      "https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html"
     ]
   ],
   [
@@ -21,12 +41,52 @@
   ],
   [
     [
+      "2026-08-23, 18:40:47",
+      "https://news.ycombinator.com/item?id=49411268"
+    ],
+    [
+      "Say It Four Times (In Your System Prompt)",
+      "https://www.khola.blog/p/say-it-four-times"
+    ]
+  ],
+  [
+    [
+      "2026-08-23, 18:31:02",
+      "https://news.ycombinator.com/item?id=49411199"
+    ],
+    [
+      "The Vibe Tax",
+      "https://insufferable.dev/posts/vibe-tax/"
+    ]
+  ],
+  [
+    [
+      "2026-08-23, 18:27:33",
+      "https://news.ycombinator.com/item?id=49411178"
+    ],
+    [
+      "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
+      "https://www.spheron.network/blog/etched-ai-sohu-vs-nvidia-transformer-asic-inference/"
+    ]
+  ],
+  [
+    [
       "2026-08-23, 18:16:37",
       "https://news.ycombinator.com/item?id=49411102"
     ],
     [
       "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
       "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245"
+    ]
+  ],
+  [
+    [
+      "2026-08-23, 18:09:01",
+      "https://news.ycombinator.com/item?id=49411024"
+    ],
+    [
+      "AI and Infrastructure Engineering",
+      "https://omegion.dev/2026/08/ai-and-infrastructure-engineering/"
     ]
   ],
   [
@@ -41,12 +101,62 @@
   ],
   [
     [
-      "2026-08-23, 17:25:03",
-      "https://news.ycombinator.com/item?id=49410628"
+      "2026-08-23, 18:01:30",
+      "https://news.ycombinator.com/item?id=49410949"
     ],
     [
-      "We must not grant AI agents legal personhood",
-      "https://www.ft.com/content/b8cc4bf4-6d3c-4974-8428-9a091983c473"
+      "Predicting AI model release dates with stats",
+      "https://releaseoracle.xyz/"
+    ]
+  ],
+  [
+    [
+      "2026-08-23, 18:00:20",
+      "https://news.ycombinator.com/item?id=49410936"
+    ],
+    [
+      "I turned Unix talk from 1983 into the interface for my AI",
+      "https://en.andros.dev/blog/09a21bdd/i-turned-unix-talk-from-1983-into-the-interface-for-my-ai/"
+    ]
+  ],
+  [
+    [
+      "2026-08-23, 17:59:52",
+      "https://news.ycombinator.com/item?id=49410932"
+    ],
+    [
+      "My agent.md to improve LLM-assisted code quality",
+      "https://fabiensanglard.net/agent.md/index.html"
+    ]
+  ],
+  [
+    [
+      "2026-08-23, 17:59:23",
+      "https://news.ycombinator.com/item?id=49410927"
+    ],
+    [
+      "From Front Panel to Program: Thinking Like a PDP-8",
+      "https://pikuma.com/blog/pdp-8-minicomputer"
+    ]
+  ],
+  [
+    [
+      "2026-08-23, 17:51:14",
+      "https://news.ycombinator.com/item?id=49410847"
+    ],
+    [
+      "Powerful extensions do not need powerful code",
+      "https://adayinthelifeof.nl/2026/08/23/powerful-extensions-do-not-need-powerful-code/"
+    ]
+  ],
+  [
+    [
+      "2026-08-23, 17:07:04",
+      "https://news.ycombinator.com/item?id=49410480"
+    ],
+    [
+      "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
+      "https://wpintelligence.washingtonpost.com/topics/ai-tech/2026/08/19/wpi-conversation-why-an-ai-job-apocalypse-is-unlikely/"
     ]
   ],
   [
@@ -87,16 +197,6 @@
     [
       "How Complex Systems Fail (1998)",
       "https://how.complexsystems.fail/"
-    ]
-  ],
-  [
-    [
-      "2026-08-23, 14:39:35",
-      "https://news.ycombinator.com/item?id=49409210"
-    ],
-    [
-      "Amiga-Inspired AROS Goes Bare Metal on Raspberry Pi",
-      "https://hackaday.com/2026/08/23/amiga-inspired-aros-goes-bare-metal-on-raspberry-pi/"
     ]
   ],
   [
@@ -151,42 +251,12 @@
   ],
   [
     [
-      "2026-08-23, 10:02:51",
-      "https://news.ycombinator.com/item?id=49407507"
-    ],
-    [
-      "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
-      "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/"
-    ]
-  ],
-  [
-    [
-      "2026-08-23, 09:27:40",
-      "https://news.ycombinator.com/item?id=49407309"
-    ],
-    [
-      "Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive",
-      "https://skylens.yantraai.app/"
-    ]
-  ],
-  [
-    [
       "2026-08-23, 06:41:51",
       "https://news.ycombinator.com/item?id=49406539"
     ],
     [
       "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
       "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/"
-    ]
-  ],
-  [
-    [
-      "2026-08-23, 06:04:51",
-      "https://news.ycombinator.com/item?id=49406387"
-    ],
-    [
-      "JIT Compiling Code in 5μs",
-      "https://malisper.me/jit-compiling-code-in-5-us/"
     ]
   ],
   [
@@ -221,82 +291,12 @@
   ],
   [
     [
-      "2026-08-23, 02:33:22",
-      "https://news.ycombinator.com/item?id=49405682"
-    ],
-    [
-      "I Dream of Quieter Computing",
-      "https://henry.codes/writing/i-dream-of-quieter-computing/"
-    ]
-  ],
-  [
-    [
-      "2026-08-23, 00:56:03",
-      "https://news.ycombinator.com/item?id=49405331"
-    ],
-    [
-      "The Art and Beauty of Blade Runner (2015)",
-      "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/"
-    ]
-  ],
-  [
-    [
       "2026-08-22, 18:38:41",
       "https://news.ycombinator.com/item?id=49402491"
     ],
     [
       "Things I want in a modern relational query language",
       "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/"
-    ]
-  ],
-  [
-    [
-      "2026-08-22, 18:14:16",
-      "https://news.ycombinator.com/item?id=49402232"
-    ],
-    [
-      "Why your local LLM feels dumber than it is",
-      "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917"
-    ]
-  ],
-  [
-    [
-      "2026-08-22, 18:08:25",
-      "https://news.ycombinator.com/item?id=49402181"
-    ],
-    [
-      "I set a trap for a book-marketing scammer (2025)",
-      "https://rwwgreene.substack.com/p/i-set-a-trap-for-a-book-marketing"
-    ]
-  ],
-  [
-    [
-      "2026-08-22, 14:54:07",
-      "https://news.ycombinator.com/item?id=49400408"
-    ],
-    [
-      "ElevenLabs, TwelveLabs, ThirteenLabs",
-      "https://quantumi.sh/public/labs.html"
-    ]
-  ],
-  [
-    [
-      "2026-08-18, 20:00:50",
-      "https://news.ycombinator.com/item?id=49351802"
-    ],
-    [
-      "Hister – A private, full content search index that you control",
-      "https://hister.org/"
-    ]
-  ],
-  [
-    [
-      "2026-08-18, 15:12:53",
-      "https://news.ycombinator.com/item?id=49346854"
-    ],
-    [
-      "typ.ing",
-      "https://typ.ing/"
     ]
   ]
 ]
