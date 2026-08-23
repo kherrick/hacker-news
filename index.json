@@ -1,26 +1,6 @@
 [
   [
     [
-      "2026-08-23, 00:20:21",
-      "https://news.ycombinator.com/item?id=49405117"
-    ],
-    [
-      "Software Engineering in the Agentic Era",
-      "https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/"
-    ]
-  ],
-  [
-    [
-      "2026-08-23, 00:19:17",
-      "https://news.ycombinator.com/item?id=49405110"
-    ],
-    [
-      "US Military newspaper editor voices censorship fears after being fired",
-      "https://www.bbc.com/news/articles/cm2g23ng8p4o"
-    ]
-  ],
-  [
-    [
       "2026-08-22, 22:14:27",
       "https://news.ycombinator.com/item?id=49404380"
     ],
@@ -75,7 +55,7 @@
       "https://news.ycombinator.com/item?id=49402202"
     ],
     [
-      "Thinking in Python by Bruce Eckel",
+      "Thinking in Python",
       "https://thinkinginpython.com/"
     ]
   ],
@@ -127,6 +107,16 @@
     [
       "A Friendly Introduction to Racket",
       "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/"
+    ]
+  ],
+  [
+    [
+      "2026-08-22, 13:24:06",
+      "https://news.ycombinator.com/item?id=49399524"
+    ],
+    [
+      "A Kantian Critique of \"Sorry\" by Justin Bieber",
+      "https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/"
     ]
   ],
   [
@@ -211,22 +201,22 @@
   ],
   [
     [
+      "2026-08-20, 21:00:02",
+      "https://news.ycombinator.com/item?id=49380200"
+    ],
+    [
+      "Protocol-Aware Deterministic Simulation Testing",
+      "https://tigerbeetle.com/blog/2026-08-20-protocol-aware-dst/"
+    ]
+  ],
+  [
+    [
       "2026-08-20, 20:22:35",
       "https://news.ycombinator.com/item?id=49379732"
     ],
     [
       "ATProto spaces: A new extension to ATProto that enables non-public data",
       "https://atproto.com/blog/atproto-spaces-alpha"
-    ]
-  ],
-  [
-    [
-      "2026-08-20, 17:07:36",
-      "https://news.ycombinator.com/item?id=49377316"
-    ],
-    [
-      "Why it might be time to rethink the human family tree",
-      "https://nautil.us/why-it-might-be-time-to-rethink-the-human-family-tree-1283985"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Conway's Game of Life in real life",
       "https://blog.coredump.cx/p/conways-game-of-life-in-real-life"
+    ]
+  ],
+  [
+    [
+      "2026-08-19, 17:13:11",
+      "https://news.ycombinator.com/item?id=49364296"
+    ],
+    [
+      "Show HN: terminal-code – VS Code inside the terminal",
+      "https://terminal-code.com"
     ]
   ],
   [
