@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-08-23, 09:58:22](https://news.ycombinator.com/item?id=49407477) - [Canada now 'at war' with United States over trade, Prime Minister says](https://www.theglobeandmail.com/canada/article-canada-us-trade-deal-tariffs-mark-carney-donald-trump-august-22/)
+* [2026-08-23, 10:54:35](https://news.ycombinator.com/item?id=49407785) - ['AI refuser' quit her dream job, and hopes others follow](https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html)
 * [2026-08-23, 09:32:54](https://news.ycombinator.com/item?id=49407341) - [The Sloppification of Peptides](https://henryaj.substack.com/p/the-sloppification-of-peptides)
+* [2026-08-23, 09:27:40](https://news.ycombinator.com/item?id=49407309) - [Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive](https://skylens.yantraai.app/)
 * [2026-08-23, 09:26:55](https://news.ycombinator.com/item?id=49407305) - [Doomscrolling at work wastes time, but the real cost is what happens after](https://stories.tamu.edu/news/2026/08/13/doomscrolling-at-work-wastes-time-but-the-real-cost-is-what-happens-after/)
 * [2026-08-23, 06:41:51](https://news.ycombinator.com/item?id=49406539) - [Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed](https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/)
 * [2026-08-23, 06:04:51](https://news.ycombinator.com/item?id=49406387) - [JIT Compiling Code in 5μs](https://malisper.me/jit-compiling-code-in-5-us/)
@@ -11,7 +12,6 @@
 * [2026-08-23, 03:13:16](https://news.ycombinator.com/item?id=49405816) - [MartyPC is a cross-platform emulator of early PCs written in Rust](https://martypc.net/)
 * [2026-08-23, 02:33:22](https://news.ycombinator.com/item?id=49405682) - [I Dream of Quieter Computing](https://henry.codes/writing/i-dream-of-quieter-computing/)
 * [2026-08-23, 00:56:03](https://news.ycombinator.com/item?id=49405331) - [The Art and Beauty of Blade Runner (2015)](https://nappertime.com/the-art-of-and-beauty-of-blade-runner/)
-* [2026-08-23, 00:14:16](https://news.ycombinator.com/item?id=49405083) - [Mathematicians will probably become obsolete before anyone else [pdf]](https://olli.unt.edu/handouts/fall24/tk-writing-sample.pdf)
 * [2026-08-22, 22:14:27](https://news.ycombinator.com/item?id=49404380) - [NanoGPT Speedrun Frontier](https://www.primeintellect.ai/research/nanogpt-speedrun)
 * [2026-08-22, 19:07:46](https://news.ycombinator.com/item?id=49402781) - [NetBSD and my life (2005)](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html)
 * [2026-08-22, 18:14:16](https://news.ycombinator.com/item?id=49402232) - [Why your local LLM feels dumber than it is](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917)

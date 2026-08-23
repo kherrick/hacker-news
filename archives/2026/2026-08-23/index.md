@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-08-23](index.md)
 
+* [2026-08-23, 10:54:35](https://news.ycombinator.com/item?id=49407785) - ['AI refuser' quit her dream job, and hopes others follow](https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html)
 * [2026-08-23, 09:58:22](https://news.ycombinator.com/item?id=49407477) - [Canada now 'at war' with United States over trade, Prime Minister says](https://www.theglobeandmail.com/canada/article-canada-us-trade-deal-tariffs-mark-carney-donald-trump-august-22/)
 * [2026-08-23, 09:32:54](https://news.ycombinator.com/item?id=49407341) - [The Sloppification of Peptides](https://henryaj.substack.com/p/the-sloppification-of-peptides)
+* [2026-08-23, 09:27:40](https://news.ycombinator.com/item?id=49407309) - [Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive](https://skylens.yantraai.app/)
 * [2026-08-23, 09:26:55](https://news.ycombinator.com/item?id=49407305) - [Doomscrolling at work wastes time, but the real cost is what happens after](https://stories.tamu.edu/news/2026/08/13/doomscrolling-at-work-wastes-time-but-the-real-cost-is-what-happens-after/)
 * [2026-08-23, 08:48:34](https://news.ycombinator.com/item?id=49407143) - [Tragically, as many as 9625 out of every 10k individuals may be neurotypical](https://erikengdahl.se/autism/isnt/)
 * [2026-08-23, 06:41:51](https://news.ycombinator.com/item?id=49406539) - [Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed](https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/)
