@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=49411717"
     ],
     [
-      "Google Workspace thinks my domain is an email provider",
+      "Google Workspace thinks my domain is an email provider (2025)",
       "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/"
     ]
   ],
@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=49411468"
     ],
     [
-      "Fable and the End of the Free Lunch",
+      "Fable and the end of the free lunch",
       "https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html"
     ]
   ],
@@ -91,12 +91,12 @@
   ],
   [
     [
-      "2026-08-23, 18:27:33",
-      "https://news.ycombinator.com/item?id=49411178"
+      "2026-08-23, 18:16:37",
+      "https://news.ycombinator.com/item?id=49411102"
     ],
     [
-      "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
-      "https://www.spheron.network/blog/etched-ai-sohu-vs-nvidia-transformer-asic-inference/"
+      "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+      "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245"
     ]
   ],
   [
@@ -147,16 +147,6 @@
     [
       "The Remote Work Challenge: Lessons from 5 Cities",
       "https://www.pew.org/en/research-and-analysis/reports/2026/05/the-remote-work-challenge-lessons-from-5-cities"
-    ]
-  ],
-  [
-    [
-      "2026-08-23, 17:07:04",
-      "https://news.ycombinator.com/item?id=49410480"
-    ],
-    [
-      "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
-      "https://wpintelligence.washingtonpost.com/topics/ai-tech/2026/08/19/wpi-conversation-why-an-ai-job-apocalypse-is-unlikely/"
     ]
   ],
   [
@@ -241,6 +231,16 @@
   ],
   [
     [
+      "2026-08-23, 13:56:27",
+      "https://news.ycombinator.com/item?id=49408889"
+    ],
+    [
+      "Death to px, long live ch",
+      "https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/"
+    ]
+  ],
+  [
+    [
       "2026-08-23, 13:51:10",
       "https://news.ycombinator.com/item?id=49408858"
     ],
@@ -257,6 +257,16 @@
     [
       "Malware infects Android-based automotive head unit firmware",
       "https://securelist.com/android-head-unit-malware/121106/"
+    ]
+  ],
+  [
+    [
+      "2026-08-23, 09:32:54",
+      "https://news.ycombinator.com/item?id=49407341"
+    ],
+    [
+      "The Sloppification of Peptides",
+      "https://henryaj.substack.com/p/the-sloppification-of-peptides"
     ]
   ],
   [
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2026-08-23, 03:13:16",
-      "https://news.ycombinator.com/item?id=49405816"
+      "2026-08-22, 18:38:41",
+      "https://news.ycombinator.com/item?id=49402491"
     ],
     [
-      "MartyPC is a cross-platform emulator of early PCs written in Rust",
-      "https://martypc.net/"
-    ]
-  ],
-  [
-    [
-      "2026-08-23, 02:33:22",
-      "https://news.ycombinator.com/item?id=49405682"
-    ],
-    [
-      "I Dream of Quieter Computing",
-      "https://henry.codes/writing/i-dream-of-quieter-computing/"
+      "Things I want in a modern relational query language",
+      "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/"
     ]
   ]
 ]
