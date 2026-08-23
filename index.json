@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-08-23, 19:35:35",
-      "https://news.ycombinator.com/item?id=49411762"
+      "2026-08-23, 20:13:34",
+      "https://news.ycombinator.com/item?id=49412176"
     ],
     [
-      "'The Nerd Reich' tracks the 'unmasking of Silicon Valley's true politics'",
-      "https://www.npr.org/2026/08/10/nx-s1-5925350/the-nerd-reich-tracks-the-unmasking-of-silicon-valleys-true-politics"
+      "Decoding silent reading from non-invasive EEG",
+      "https://arxiv.org/abs/2608.20186"
     ]
   ],
   [
@@ -37,16 +37,6 @@
     [
       "Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?",
       "https://slate.com/technology/2026/08/microsoft-software-nonprofit-data-delete.html"
-    ]
-  ],
-  [
-    [
-      "2026-08-23, 18:40:47",
-      "https://news.ycombinator.com/item?id=49411268"
-    ],
-    [
-      "Say It Four Times (In Your System Prompt)",
-      "https://www.khola.blog/p/say-it-four-times"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "The End of an Athlon",
       "http://www.os2museum.com/wp/the-end-of-an-athlon/"
+    ]
+  ],
+  [
+    [
+      "2026-08-23, 03:13:16",
+      "https://news.ycombinator.com/item?id=49405816"
+    ],
+    [
+      "MartyPC is a cross-platform emulator of early PCs written in Rust",
+      "https://martypc.net/"
     ]
   ],
   [
