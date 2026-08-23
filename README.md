@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-23, 09:58:22](https://news.ycombinator.com/item?id=49407477) - [Canada now 'at war' with United States over trade, Prime Minister says](https://www.theglobeandmail.com/canada/article-canada-us-trade-deal-tariffs-mark-carney-donald-trump-august-22/)
 * [2026-08-23, 09:32:54](https://news.ycombinator.com/item?id=49407341) - [The Sloppification of Peptides](https://henryaj.substack.com/p/the-sloppification-of-peptides)
 * [2026-08-23, 09:26:55](https://news.ycombinator.com/item?id=49407305) - [Doomscrolling at work wastes time, but the real cost is what happens after](https://stories.tamu.edu/news/2026/08/13/doomscrolling-at-work-wastes-time-but-the-real-cost-is-what-happens-after/)
 * [2026-08-23, 06:41:51](https://news.ycombinator.com/item?id=49406539) - [Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed](https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/)
@@ -21,7 +22,6 @@
 * [2026-08-22, 14:54:07](https://news.ycombinator.com/item?id=49400408) - [ElevenLabs, TwelveLabs, ThirteenLabs](https://quantumi.sh/public/labs.html)
 * [2026-08-22, 14:08:19](https://news.ycombinator.com/item?id=49399898) - [A Friendly Introduction to Racket](https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/)
 * [2026-08-22, 13:31:34](https://news.ycombinator.com/item?id=49399591) - [New MCP Roadmap](https://blog.modelcontextprotocol.io/posts/mcp-roadmap/)
-* [2026-08-22, 09:49:57](https://news.ycombinator.com/item?id=49398158) - [Z80 – The 1970s Microprocessor Still Alive (2021)](https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi)
 * [2026-08-22, 09:49:14](https://news.ycombinator.com/item?id=49398152) - [Munder Difflin – Agent harness to run an office of your clones](https://munderdiffl.in/)
 * [2026-08-21, 19:51:48](https://news.ycombinator.com/item?id=49393051) - [A week of using Codex more than Claude](https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/)
 * [2026-08-21, 15:44:40](https://news.ycombinator.com/item?id=49389846) - [Show HN: Public Muscriptor Instance (latest, most powerful Audio-to-MIDI model)](https://www.pianoify.net/)

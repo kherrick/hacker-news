@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-23](index.md)
 
+* [2026-08-23, 09:58:22](https://news.ycombinator.com/item?id=49407477) - [Canada now 'at war' with United States over trade, Prime Minister says](https://www.theglobeandmail.com/canada/article-canada-us-trade-deal-tariffs-mark-carney-donald-trump-august-22/)
 * [2026-08-23, 09:32:54](https://news.ycombinator.com/item?id=49407341) - [The Sloppification of Peptides](https://henryaj.substack.com/p/the-sloppification-of-peptides)
 * [2026-08-23, 09:26:55](https://news.ycombinator.com/item?id=49407305) - [Doomscrolling at work wastes time, but the real cost is what happens after](https://stories.tamu.edu/news/2026/08/13/doomscrolling-at-work-wastes-time-but-the-real-cost-is-what-happens-after/)
 * [2026-08-23, 08:48:34](https://news.ycombinator.com/item?id=49407143) - [Tragically, as many as 9625 out of every 10k individuals may be neurotypical](https://erikengdahl.se/autism/isnt/)
