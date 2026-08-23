@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-23, 14:39:35](https://news.ycombinator.com/item?id=49409210) - [Amiga-Inspired AROS Goes Bare Metal on Raspberry Pi](https://hackaday.com/2026/08/23/amiga-inspired-aros-goes-bare-metal-on-raspberry-pi/)
 * [2026-08-23, 14:38:25](https://news.ycombinator.com/item?id=49409200) - [Slovakia finds Russian backdoor in traffic speed cameras](https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/)
 * [2026-08-23, 14:36:38](https://news.ycombinator.com/item?id=49409184) - [Authoritarianism of Code](https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/)
 * [2026-08-23, 14:24:21](https://news.ycombinator.com/item?id=49409092) - [What Is a Harness?](https://earendil.com/posts/what-is-a-harness/)
@@ -7,7 +8,6 @@
 * [2026-08-23, 13:51:10](https://news.ycombinator.com/item?id=49408858) - [My favorite nonfiction books about cults, scams, and schemes](https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes)
 * [2026-08-23, 13:05:38](https://news.ycombinator.com/item?id=49408550) - [Malware infects Android-based automotive head unit firmware](https://securelist.com/android-head-unit-malware/121106/)
 * [2026-08-23, 10:14:48](https://news.ycombinator.com/item?id=49407576) - [Sydney Marathon medal mistakenly depicts Munich stadium](https://www.bbc.com/news/articles/cvg92y1wzn8o)
-* [2026-08-23, 10:03:01](https://news.ycombinator.com/item?id=49407509) - [Iranian hackers shut down UK power plant for 4 days](https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/)
 * [2026-08-23, 10:02:51](https://news.ycombinator.com/item?id=49407507) - [I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes](https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/)
 * [2026-08-23, 09:27:40](https://news.ycombinator.com/item?id=49407309) - [Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive](https://skylens.yantraai.app/)
 * [2026-08-23, 06:07:06](https://news.ycombinator.com/item?id=49406398) - [Risk of transmission of amyloid β pathology via transfused blood products](https://doi.org/10.1016/S0140-6736(26)00767-1)
