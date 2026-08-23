@@ -1,11 +1,21 @@
 [
   [
     [
+      "2026-08-23, 22:41:04",
+      "https://news.ycombinator.com/item?id=49413320"
+    ],
+    [
+      "Everything I own, owned",
+      "https://schlarp.com/posts/everything-i-own-owned/"
+    ]
+  ],
+  [
+    [
       "2026-08-23, 21:55:55",
       "https://news.ycombinator.com/item?id=49413004"
     ],
     [
-      "The Planet Now Has More Trees Than It Did 35 Years Ago (2018)",
+      "The planet now has more trees than it did 35 years ago (2018)",
       "https://psmag.com/environment/the-planet-now-has-more-trees-than-it-did-35-years-ago/"
     ]
   ],
@@ -17,6 +27,36 @@
     [
       "A complex structure on S^6 [pdf]",
       "https://alpo.ge/s6.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-08-23, 21:41:17",
+      "https://news.ycombinator.com/item?id=49412909"
+    ],
+    [
+      "Implementation of GPT-2 in pure CMake",
+      "https://github.com/AlpinDale/gpt2.cmake"
+    ]
+  ],
+  [
+    [
+      "2026-08-23, 20:50:14",
+      "https://news.ycombinator.com/item?id=49412483"
+    ],
+    [
+      "Residential proxies scraping your site? Drain their bandwidth",
+      "https://layer3intel.com/blog/residential-proxy-bandwidth-drain"
+    ]
+  ],
+  [
+    [
+      "2026-08-23, 20:47:53",
+      "https://news.ycombinator.com/item?id=49412467"
+    ],
+    [
+      "Declarative WebGPU with S-Expressions",
+      "https://hugodaniel.com/posts/declarative-webgpu-with-s-expressions/"
     ]
   ],
   [
@@ -121,16 +161,6 @@
   ],
   [
     [
-      "2026-08-23, 18:01:30",
-      "https://news.ycombinator.com/item?id=49410949"
-    ],
-    [
-      "Predicting AI model release dates with stats",
-      "https://releaseoracle.xyz/"
-    ]
-  ],
-  [
-    [
       "2026-08-23, 17:59:52",
       "https://news.ycombinator.com/item?id=49410932"
     ],
@@ -185,7 +215,7 @@
       "https://news.ycombinator.com/item?id=49409780"
     ],
     [
-      "Coconut Oil Jet Fuel Matches Kerosene's Efficiency in Engine Tests",
+      "Coconut oil jet fuel matches kerosene's efficiency in engine tests",
       "https://studyfinds.com/coconut-oil-jet-fuel-matches-kerosenes-efficiency-in-engine-tests/"
     ]
   ],
@@ -201,32 +231,12 @@
   ],
   [
     [
-      "2026-08-23, 14:38:25",
-      "https://news.ycombinator.com/item?id=49409200"
-    ],
-    [
-      "Slovakia finds Russian backdoor in traffic speed cameras",
-      "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/"
-    ]
-  ],
-  [
-    [
       "2026-08-23, 14:24:21",
       "https://news.ycombinator.com/item?id=49409092"
     ],
     [
       "What Is a Harness?",
       "https://earendil.com/posts/what-is-a-harness/"
-    ]
-  ],
-  [
-    [
-      "2026-08-23, 14:23:09",
-      "https://news.ycombinator.com/item?id=49409073"
-    ],
-    [
-      "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-      "https://ericpardee.github.io/fire-hd-ownership/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
       "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/"
-    ]
-  ],
-  [
-    [
-      "2026-08-23, 03:32:25",
-      "https://news.ycombinator.com/item?id=49405870"
-    ],
-    [
-      "To become a better writer, read as much as you can",
-      "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/"
     ]
   ],
   [
