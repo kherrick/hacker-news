@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-08-23, 20:13:34](https://news.ycombinator.com/item?id=49412176) - [Decoding silent reading from non-invasive EEG](https://arxiv.org/abs/2608.20186)
+* [2026-08-23, 19:29:32](https://news.ycombinator.com/item?id=49411717) - [Google Workspace thinks my domain is an email provider](https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/)
 * [2026-08-23, 19:23:29](https://news.ycombinator.com/item?id=49411643) - [How I find problems to solve as a staff engineer](https://lalitm.com/post/find-problems-staff-engineer/)
 * [2026-08-23, 19:06:09](https://news.ycombinator.com/item?id=49411468) - [Fable and the End of the Free Lunch](https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html)
 * [2026-08-23, 18:55:54](https://news.ycombinator.com/item?id=49411395) - [Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?](https://slate.com/technology/2026/08/microsoft-software-nonprofit-data-delete.html)
@@ -9,13 +10,12 @@
 * [2026-08-23, 18:09:01](https://news.ycombinator.com/item?id=49411024) - [AI and Infrastructure Engineering](https://omegion.dev/2026/08/ai-and-infrastructure-engineering/)
 * [2026-08-23, 18:08:13](https://news.ycombinator.com/item?id=49411020) - [Explain it to me like I'm ten](https://timharford.com/2026/08/explain-it-to-me-like-im-ten/)
 * [2026-08-23, 18:01:30](https://news.ycombinator.com/item?id=49410949) - [Predicting AI model release dates with stats](https://releaseoracle.xyz/)
-* [2026-08-23, 18:00:20](https://news.ycombinator.com/item?id=49410936) - [I turned Unix talk from 1983 into the interface for my AI](https://en.andros.dev/blog/09a21bdd/i-turned-unix-talk-from-1983-into-the-interface-for-my-ai/)
 * [2026-08-23, 17:59:52](https://news.ycombinator.com/item?id=49410932) - [My agent.md to improve LLM-assisted code quality](https://fabiensanglard.net/agent.md/index.html)
-* [2026-08-23, 17:59:23](https://news.ycombinator.com/item?id=49410927) - [From Front Panel to Program: Thinking Like a PDP-8](https://pikuma.com/blog/pdp-8-minicomputer)
 * [2026-08-23, 17:15:36](https://news.ycombinator.com/item?id=49410545) - [The Remote Work Challenge: Lessons from 5 Cities](https://www.pew.org/en/research-and-analysis/reports/2026/05/the-remote-work-challenge-lessons-from-5-cities)
 * [2026-08-23, 17:07:04](https://news.ycombinator.com/item?id=49410480) - [Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely](https://wpintelligence.washingtonpost.com/topics/ai-tech/2026/08/19/wpi-conversation-why-an-ai-job-apocalypse-is-unlikely/)
 * [2026-08-23, 16:54:10](https://news.ycombinator.com/item?id=49410362) - [A website for debloated open source alternatives](https://debloat.dev/)
 * [2026-08-23, 16:43:19](https://news.ycombinator.com/item?id=49410250) - [Phoenix tried a reflective coating on black asphalt; noon surface heat fell 12°F](https://economictimes.indiatimes.com/news/international/us/phoenix-swapped-black-asphalt-for-a-reflective-road-coating-noon-surface-heat-fell-12f-but-pedestrians-faced-higher-radiant-heat/articleshow/133421891.cms?from=mdr)
+* [2026-08-23, 16:25:59](https://news.ycombinator.com/item?id=49410111) - [Kodak DC50 now usable on the Apple II](https://www.colino.net/wordpress/archives/2026/08/23/kodak-dc50-now-usable-on-the-apple-ii/)
 * [2026-08-23, 15:59:08](https://news.ycombinator.com/item?id=49409862) - [Why Sal Khan't: On Learning by Making but Teaching by Telling](https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/)
 * [2026-08-23, 15:50:18](https://news.ycombinator.com/item?id=49409780) - [Coconut Oil Jet Fuel Matches Kerosene's Efficiency in Engine Tests](https://studyfinds.com/coconut-oil-jet-fuel-matches-kerosenes-efficiency-in-engine-tests/)
 * [2026-08-23, 15:13:31](https://news.ycombinator.com/item?id=49409473) - [How Complex Systems Fail (1998)](https://how.complexsystems.fail/)
@@ -29,7 +29,7 @@
 * [2026-08-23, 05:51:01](https://news.ycombinator.com/item?id=49406333) - [The End of an Athlon](http://www.os2museum.com/wp/the-end-of-an-athlon/)
 * [2026-08-23, 03:32:25](https://news.ycombinator.com/item?id=49405870) - [To become a better writer, read as much as you can](https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/)
 * [2026-08-23, 03:13:16](https://news.ycombinator.com/item?id=49405816) - [MartyPC is a cross-platform emulator of early PCs written in Rust](https://martypc.net/)
-* [2026-08-22, 18:38:41](https://news.ycombinator.com/item?id=49402491) - [Things I want in a modern relational query language](https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/)
+* [2026-08-23, 02:33:22](https://news.ycombinator.com/item?id=49405682) - [I Dream of Quieter Computing](https://henry.codes/writing/i-dream-of-quieter-computing/)
 
 ## [Archives](archives/index.md)
 
