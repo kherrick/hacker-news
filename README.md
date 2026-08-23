@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-08-23, 16:54:10](https://news.ycombinator.com/item?id=49410362) - [A website for debloated open source alternatives](https://debloat.dev/)
+* [2026-08-23, 16:30:53](https://news.ycombinator.com/item?id=49410149) - [Vit D assoc w better cognition in those w sleep disturb./mild cognitive impair](https://www.sciencedirect.com/science/article/abs/pii/S1389945726001991?via%3Dihub)
 * [2026-08-23, 16:24:21](https://news.ycombinator.com/item?id=49410097) - [GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost](https://reinvently.co.uk/tools/ed-o-meter/)
 * [2026-08-23, 15:59:08](https://news.ycombinator.com/item?id=49409862) - [Why Sal Khan't: On Learning by Making but Teaching by Telling](https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/)
 * [2026-08-23, 15:50:18](https://news.ycombinator.com/item?id=49409780) - [Coconut Oil Jet Fuel Matches Kerosene's Efficiency in Engine Tests](https://studyfinds.com/coconut-oil-jet-fuel-matches-kerosenes-efficiency-in-engine-tests/)
@@ -9,7 +10,6 @@
 * [2026-08-23, 14:38:25](https://news.ycombinator.com/item?id=49409200) - [Slovakia finds Russian backdoor in traffic speed cameras](https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/)
 * [2026-08-23, 14:24:21](https://news.ycombinator.com/item?id=49409092) - [What Is a Harness?](https://earendil.com/posts/what-is-a-harness/)
 * [2026-08-23, 14:23:09](https://news.ycombinator.com/item?id=49409073) - [I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day](https://ericpardee.github.io/fire-hd-ownership/)
-* [2026-08-23, 13:56:27](https://news.ycombinator.com/item?id=49408889) - [Death to px, long live ch](https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/)
 * [2026-08-23, 13:51:10](https://news.ycombinator.com/item?id=49408858) - [My favorite nonfiction books about cults, scams, and schemes](https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes)
 * [2026-08-23, 13:05:38](https://news.ycombinator.com/item?id=49408550) - [Malware infects Android-based automotive head unit firmware](https://securelist.com/android-head-unit-malware/121106/)
 * [2026-08-23, 10:02:51](https://news.ycombinator.com/item?id=49407507) - [I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes](https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/)

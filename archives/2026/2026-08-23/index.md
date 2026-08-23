@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-08-23](index.md)
 
 * [2026-08-23, 16:54:10](https://news.ycombinator.com/item?id=49410362) - [A website for debloated open source alternatives](https://debloat.dev/)
+* [2026-08-23, 16:30:53](https://news.ycombinator.com/item?id=49410149) - [Vit D assoc w better cognition in those w sleep disturb./mild cognitive impair](https://www.sciencedirect.com/science/article/abs/pii/S1389945726001991?via%3Dihub)
 * [2026-08-23, 16:24:21](https://news.ycombinator.com/item?id=49410097) - [GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost](https://reinvently.co.uk/tools/ed-o-meter/)
 * [2026-08-23, 16:21:37](https://news.ycombinator.com/item?id=49410074) - [Being nude in public can make us feel better about our bodies](https://www.bbc.com/future/article/20260820-how-social-nudity-can-boost-your-body-image)
 * [2026-08-23, 15:59:08](https://news.ycombinator.com/item?id=49409862) - [Why Sal Khan't: On Learning by Making but Teaching by Telling](https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/)
