@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-23, 09:26:55](https://news.ycombinator.com/item?id=49407305) - [Doomscrolling at work wastes time, but the real cost is what happens after](https://stories.tamu.edu/news/2026/08/13/doomscrolling-at-work-wastes-time-but-the-real-cost-is-what-happens-after/)
 * [2026-08-23, 08:48:34](https://news.ycombinator.com/item?id=49407143) - [Tragically, as many as 9625 out of every 10k individuals may be neurotypical](https://erikengdahl.se/autism/isnt/)
 * [2026-08-23, 06:41:51](https://news.ycombinator.com/item?id=49406539) - [Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed](https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/)
 * [2026-08-23, 06:04:51](https://news.ycombinator.com/item?id=49406387) - [JIT Compiling Code in 5μs](https://malisper.me/jit-compiling-code-in-5-us/)
@@ -26,7 +27,6 @@
 * [2026-08-21, 15:44:40](https://news.ycombinator.com/item?id=49389846) - [Show HN: Public Muscriptor Instance (latest, most powerful Audio-to-MIDI model)](https://www.pianoify.net/)
 * [2026-08-21, 13:43:33](https://news.ycombinator.com/item?id=49387959) - [How a Texas student blew the whistle on a rogue AI hacking attempt](https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/)
 * [2026-08-20, 20:22:35](https://news.ycombinator.com/item?id=49379732) - [ATProto spaces: A new extension to ATProto that enables non-public data](https://atproto.com/blog/atproto-spaces-alpha)
-* [2026-08-19, 12:28:44](https://news.ycombinator.com/item?id=49360643) - [What's in a PowerPoint File?](https://editide.com/blog/what-is-a-pptx-file/)
 * [2026-08-19, 02:05:43](https://news.ycombinator.com/item?id=49355659) - [RF Cafe](https://www.rfcafe.com/)
 * [2026-08-18, 20:00:50](https://news.ycombinator.com/item?id=49351802) - [Hister – A private, full content search index that you control](https://hister.org/)
 * [2026-08-18, 15:12:53](https://news.ycombinator.com/item?id=49346854) - [typ.ing](https://typ.ing/)
