@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-23, 21:55:55](https://news.ycombinator.com/item?id=49413004) - [The Planet Now Has More Trees Than It Did 35 Years Ago](https://psmag.com/environment/the-planet-now-has-more-trees-than-it-did-35-years-ago/)
+* [2026-08-23, 21:47:25](https://news.ycombinator.com/item?id=49412947) - [A complex structure on S^6 [pdf]](https://alpo.ge/s6.pdf)
+* [2026-08-23, 20:56:01](https://news.ycombinator.com/item?id=49412548) - [Cicada.os – Graphene.os for Your Laptop](https://kpres12.github.io/Cicada.OS/)
 * [2026-08-23, 20:13:34](https://news.ycombinator.com/item?id=49412176) - [Decoding silent reading from non-invasive EEG](https://arxiv.org/abs/2608.20186)
 * [2026-08-23, 19:29:32](https://news.ycombinator.com/item?id=49411717) - [Google Workspace thinks my domain is an email provider](https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/)
 * [2026-08-23, 19:23:29](https://news.ycombinator.com/item?id=49411643) - [How I find problems to solve as a staff engineer](https://lalitm.com/post/find-problems-staff-engineer/)
@@ -7,7 +10,6 @@
 * [2026-08-23, 18:55:54](https://news.ycombinator.com/item?id=49411395) - [Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?](https://slate.com/technology/2026/08/microsoft-software-nonprofit-data-delete.html)
 * [2026-08-23, 18:31:02](https://news.ycombinator.com/item?id=49411199) - [The Vibe Tax](https://insufferable.dev/posts/vibe-tax/)
 * [2026-08-23, 18:27:33](https://news.ycombinator.com/item?id=49411178) - [Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)](https://www.spheron.network/blog/etched-ai-sohu-vs-nvidia-transformer-asic-inference/)
-* [2026-08-23, 18:16:37](https://news.ycombinator.com/item?id=49411102) - [Anthropic's best AI model struggles to attract users as cheaper tools thrive](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245)
 * [2026-08-23, 18:09:01](https://news.ycombinator.com/item?id=49411024) - [AI and Infrastructure Engineering](https://omegion.dev/2026/08/ai-and-infrastructure-engineering/)
 * [2026-08-23, 18:08:13](https://news.ycombinator.com/item?id=49411020) - [Explain it to me like I'm ten](https://timharford.com/2026/08/explain-it-to-me-like-im-ten/)
 * [2026-08-23, 18:01:30](https://news.ycombinator.com/item?id=49410949) - [Predicting AI model release dates with stats](https://releaseoracle.xyz/)
@@ -24,12 +26,10 @@
 * [2026-08-23, 14:23:09](https://news.ycombinator.com/item?id=49409073) - [I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day](https://ericpardee.github.io/fire-hd-ownership/)
 * [2026-08-23, 13:51:10](https://news.ycombinator.com/item?id=49408858) - [My favorite nonfiction books about cults, scams, and schemes](https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes)
 * [2026-08-23, 13:05:38](https://news.ycombinator.com/item?id=49408550) - [Malware infects Android-based automotive head unit firmware](https://securelist.com/android-head-unit-malware/121106/)
-* [2026-08-23, 10:02:51](https://news.ycombinator.com/item?id=49407507) - [I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes](https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/)
 * [2026-08-23, 06:41:51](https://news.ycombinator.com/item?id=49406539) - [Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed](https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/)
 * [2026-08-23, 05:51:01](https://news.ycombinator.com/item?id=49406333) - [The End of an Athlon](http://www.os2museum.com/wp/the-end-of-an-athlon/)
 * [2026-08-23, 03:32:25](https://news.ycombinator.com/item?id=49405870) - [To become a better writer, read as much as you can](https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/)
 * [2026-08-23, 03:13:16](https://news.ycombinator.com/item?id=49405816) - [MartyPC is a cross-platform emulator of early PCs written in Rust](https://martypc.net/)
-* [2026-08-23, 02:33:22](https://news.ycombinator.com/item?id=49405682) - [I Dream of Quieter Computing](https://henry.codes/writing/i-dream-of-quieter-computing/)
 
 ## [Archives](archives/index.md)
 

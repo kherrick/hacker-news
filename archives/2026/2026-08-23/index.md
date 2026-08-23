@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-08-23](index.md)
 
+* [2026-08-23, 21:55:55](https://news.ycombinator.com/item?id=49413004) - [The Planet Now Has More Trees Than It Did 35 Years Ago](https://psmag.com/environment/the-planet-now-has-more-trees-than-it-did-35-years-ago/)
+* [2026-08-23, 21:47:25](https://news.ycombinator.com/item?id=49412947) - [A complex structure on S^6 [pdf]](https://alpo.ge/s6.pdf)
+* [2026-08-23, 20:56:01](https://news.ycombinator.com/item?id=49412548) - [Cicada.os – Graphene.os for Your Laptop](https://kpres12.github.io/Cicada.OS/)
 * [2026-08-23, 20:13:34](https://news.ycombinator.com/item?id=49412176) - [Decoding silent reading from non-invasive EEG](https://arxiv.org/abs/2608.20186)
 * [2026-08-23, 19:35:35](https://news.ycombinator.com/item?id=49411762) - ['The Nerd Reich' tracks the 'unmasking of Silicon Valley's true politics'](https://www.npr.org/2026/08/10/nx-s1-5925350/the-nerd-reich-tracks-the-unmasking-of-silicon-valleys-true-politics)
 * [2026-08-23, 19:31:24](https://news.ycombinator.com/item?id=49411736) - [Reaganomics Didn't Trickle Down – It Just Broke Unions](https://comuniq.xyz/Politics/post?t=1612)
