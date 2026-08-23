@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-23](index.md)
 
+* [2026-08-23, 15:50:18](https://news.ycombinator.com/item?id=49409780) - [Coconut Oil Jet Fuel Matches Kerosene's Efficiency in Engine Tests](https://studyfinds.com/coconut-oil-jet-fuel-matches-kerosenes-efficiency-in-engine-tests/)
 * [2026-08-23, 15:24:43](https://news.ycombinator.com/item?id=49409568) - [Universal Housing](https://twitter.com/christianreber/status/2091532545577849008)
 * [2026-08-23, 15:13:31](https://news.ycombinator.com/item?id=49409473) - [How Complex Systems Fail](https://how.complexsystems.fail/)
 * [2026-08-23, 14:39:35](https://news.ycombinator.com/item?id=49409210) - [Amiga-Inspired AROS Goes Bare Metal on Raspberry Pi](https://hackaday.com/2026/08/23/amiga-inspired-aros-goes-bare-metal-on-raspberry-pi/)
