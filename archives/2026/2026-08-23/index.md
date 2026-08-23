@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-08-23](index.md)
 
+* [2026-08-23, 06:41:51](https://news.ycombinator.com/item?id=49406539) - [Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed](https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/)
+* [2026-08-23, 06:04:51](https://news.ycombinator.com/item?id=49406387) - [JIT Compiling Code in 5μs](https://malisper.me/jit-compiling-code-in-5-us/)
+* [2026-08-23, 05:51:01](https://news.ycombinator.com/item?id=49406333) - [The End of an Athlon](http://www.os2museum.com/wp/the-end-of-an-athlon/)
 * [2026-08-23, 04:28:18](https://news.ycombinator.com/item?id=49406069) - [Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has](https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html)
 * [2026-08-23, 03:32:25](https://news.ycombinator.com/item?id=49405870) - [The Golden Rule for Becoming a Better Writer](https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/)
 * [2026-08-23, 03:13:16](https://news.ycombinator.com/item?id=49405816) - [MartyPC is a cross-platform emulator of early PCs written in Rust](https://martypc.net/)
