@@ -6,6 +6,7 @@
 
 * [2026-08-23, 10:54:35](https://news.ycombinator.com/item?id=49407785) - ['AI refuser' quit her dream job, and hopes others follow](https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html)
 * [2026-08-23, 10:14:48](https://news.ycombinator.com/item?id=49407576) - [Sydney Marathon medal mistakenly depicts Munich stadium](https://www.bbc.com/news/articles/cvg92y1wzn8o)
+* [2026-08-23, 10:03:01](https://news.ycombinator.com/item?id=49407509) - [Iranian hackers shut down UK power plant for 4 days](https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/)
 * [2026-08-23, 10:02:51](https://news.ycombinator.com/item?id=49407507) - [I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes](https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/)
 * [2026-08-23, 09:58:22](https://news.ycombinator.com/item?id=49407477) - [Canada now 'at war' with United States over trade, Prime Minister says](https://www.theglobeandmail.com/canada/article-canada-us-trade-deal-tariffs-mark-carney-donald-trump-august-22/)
 * [2026-08-23, 09:32:54](https://news.ycombinator.com/item?id=49407341) - [The Sloppification of Peptides](https://henryaj.substack.com/p/the-sloppification-of-peptides)

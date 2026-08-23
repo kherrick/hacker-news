@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-08-23, 10:14:48](https://news.ycombinator.com/item?id=49407576) - [Sydney Marathon medal mistakenly depicts Munich stadium](https://www.bbc.com/news/articles/cvg92y1wzn8o)
+* [2026-08-23, 10:03:01](https://news.ycombinator.com/item?id=49407509) - [Iranian hackers shut down UK power plant for 4 days](https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/)
 * [2026-08-23, 10:02:51](https://news.ycombinator.com/item?id=49407507) - [I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes](https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/)
 * [2026-08-23, 09:32:54](https://news.ycombinator.com/item?id=49407341) - [The Sloppification of Peptides](https://henryaj.substack.com/p/the-sloppification-of-peptides)
 * [2026-08-23, 09:27:40](https://news.ycombinator.com/item?id=49407309) - [Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive](https://skylens.yantraai.app/)
@@ -24,7 +25,6 @@
 * [2026-08-22, 09:49:57](https://news.ycombinator.com/item?id=49398158) - [Z80 – The 1970s Microprocessor Still Alive (2021)](https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi)
 * [2026-08-22, 09:49:14](https://news.ycombinator.com/item?id=49398152) - [Munder Difflin – Agent harness to run an office of your clones](https://munderdiffl.in/)
 * [2026-08-21, 19:51:48](https://news.ycombinator.com/item?id=49393051) - [A week of using Codex more than Claude](https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/)
-* [2026-08-21, 15:44:40](https://news.ycombinator.com/item?id=49389846) - [Show HN: Public Muscriptor Instance (latest, most powerful Audio-to-MIDI model)](https://www.pianoify.net/)
 * [2026-08-21, 13:43:33](https://news.ycombinator.com/item?id=49387959) - [How a Texas student blew the whistle on a rogue AI hacking attempt](https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/)
 * [2026-08-20, 20:22:35](https://news.ycombinator.com/item?id=49379732) - [ATProto spaces: A new extension to ATProto that enables non-public data](https://atproto.com/blog/atproto-spaces-alpha)
 * [2026-08-19, 02:05:43](https://news.ycombinator.com/item?id=49355659) - [RF Cafe](https://www.rfcafe.com/)
