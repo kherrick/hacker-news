@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-23](index.md)
 
+* [2026-08-23, 04:28:18](https://news.ycombinator.com/item?id=49406069) - [Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has](https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html)
+* [2026-08-23, 03:32:25](https://news.ycombinator.com/item?id=49405870) - [The Golden Rule for Becoming a Better Writer](https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/)
 * [2026-08-23, 03:13:16](https://news.ycombinator.com/item?id=49405816) - [MartyPC is a cross-platform emulator of early PCs written in Rust](https://martypc.net/)
 * [2026-08-23, 02:33:22](https://news.ycombinator.com/item?id=49405682) - [I Dream of Quieter Computing](https://henry.codes/writing/i-dream-of-quieter-computing/)
 * [2026-08-23, 00:56:03](https://news.ycombinator.com/item?id=49405331) - [The Art and Beauty of Blade Runner](https://nappertime.com/the-art-of-and-beauty-of-blade-runner/)
