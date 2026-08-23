@@ -161,6 +161,16 @@
   ],
   [
     [
+      "2026-08-22, 13:31:34",
+      "https://news.ycombinator.com/item?id=49399591"
+    ],
+    [
+      "New MCP Roadmap",
+      "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/"
+    ]
+  ],
+  [
+    [
       "2026-08-22, 09:49:57",
       "https://news.ycombinator.com/item?id=49398158"
     ],
@@ -191,22 +201,22 @@
   ],
   [
     [
+      "2026-08-21, 19:51:54",
+      "https://news.ycombinator.com/item?id=49393052"
+    ],
+    [
+      "Rust Glancer: Rust LSP using 100x less RAM",
+      "https://rust-glancer.github.io/blog/hello-world/"
+    ]
+  ],
+  [
+    [
       "2026-08-21, 19:51:48",
       "https://news.ycombinator.com/item?id=49393051"
     ],
     [
       "A week of using Codex more than Claude",
       "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/"
-    ]
-  ],
-  [
-    [
-      "2026-08-21, 19:05:50",
-      "https://news.ycombinator.com/item?id=49392536"
-    ],
-    [
-      "One night in Uzbekistan: Why was this one data point so influential?",
-      "https://statmodeling.stat.columbia.edu/2026/08/20/we-couldnt-reproduce-their-findings-and-realized-that-it-was-all-driven-by-weird-data-from-uzbekistan/"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Autolith: A programming agent with a live runtime",
       "https://www.lambda-symbolics.com/autolith"
-    ]
-  ],
-  [
-    [
-      "2026-08-20, 12:40:04",
-      "https://news.ycombinator.com/item?id=49373822"
-    ],
-    [
-      "Conway's Game of Life in real life",
-      "https://blog.coredump.cx/p/conways-game-of-life-in-real-life"
     ]
   ],
   [
