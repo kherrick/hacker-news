@@ -1,12 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-23, 19:31:24](https://news.ycombinator.com/item?id=49411736) - [Reaganomics Didn't Trickle Down – It Just Broke Unions](https://comuniq.xyz/Politics/post?t=1612)
 * [2026-08-23, 18:55:54](https://news.ycombinator.com/item?id=49411395) - [Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?](https://slate.com/technology/2026/08/microsoft-software-nonprofit-data-delete.html)
 * [2026-08-23, 18:16:37](https://news.ycombinator.com/item?id=49411102) - [Anthropic's best AI model struggles to attract users as cheaper tools thrive](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245)
 * [2026-08-23, 18:08:13](https://news.ycombinator.com/item?id=49411020) - [Explain it to me like I'm ten](https://timharford.com/2026/08/explain-it-to-me-like-im-ten/)
-* [2026-08-23, 17:32:43](https://news.ycombinator.com/item?id=49410697) - [Dutch regulator fines Uber $966M for automating driver suspensions](https://www.theguardian.com/technology/2026/aug/21/netherlands-fines-uber-automated-driver-suspensions)
 * [2026-08-23, 17:25:03](https://news.ycombinator.com/item?id=49410628) - [We must not grant AI agents legal personhood](https://www.ft.com/content/b8cc4bf4-6d3c-4974-8428-9a091983c473)
 * [2026-08-23, 16:54:10](https://news.ycombinator.com/item?id=49410362) - [A website for debloated open source alternatives](https://debloat.dev/)
-* [2026-08-23, 16:24:21](https://news.ycombinator.com/item?id=49410097) - [GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost](https://reinvently.co.uk/tools/ed-o-meter/)
 * [2026-08-23, 15:59:08](https://news.ycombinator.com/item?id=49409862) - [Why Sal Khan't: On Learning by Making but Teaching by Telling](https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/)
 * [2026-08-23, 15:50:18](https://news.ycombinator.com/item?id=49409780) - [Coconut Oil Jet Fuel Matches Kerosene's Efficiency in Engine Tests](https://studyfinds.com/coconut-oil-jet-fuel-matches-kerosenes-efficiency-in-engine-tests/)
 * [2026-08-23, 15:13:31](https://news.ycombinator.com/item?id=49409473) - [How Complex Systems Fail (1998)](https://how.complexsystems.fail/)
@@ -30,6 +29,7 @@
 * [2026-08-22, 18:08:25](https://news.ycombinator.com/item?id=49402181) - [I set a trap for a book-marketing scammer (2025)](https://rwwgreene.substack.com/p/i-set-a-trap-for-a-book-marketing)
 * [2026-08-22, 14:54:07](https://news.ycombinator.com/item?id=49400408) - [ElevenLabs, TwelveLabs, ThirteenLabs](https://quantumi.sh/public/labs.html)
 * [2026-08-18, 20:00:50](https://news.ycombinator.com/item?id=49351802) - [Hister – A private, full content search index that you control](https://hister.org/)
+* [2026-08-18, 15:12:53](https://news.ycombinator.com/item?id=49346854) - [typ.ing](https://typ.ing/)
 
 ## [Archives](archives/index.md)
 

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-23](index.md)
 
+* [2026-08-23, 19:31:24](https://news.ycombinator.com/item?id=49411736) - [Reaganomics Didn't Trickle Down – It Just Broke Unions](https://comuniq.xyz/Politics/post?t=1612)
 * [2026-08-23, 18:55:54](https://news.ycombinator.com/item?id=49411395) - [Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?](https://slate.com/technology/2026/08/microsoft-software-nonprofit-data-delete.html)
 * [2026-08-23, 18:16:37](https://news.ycombinator.com/item?id=49411102) - [Anthropic's best AI model struggles to attract users as cheaper tools thrive](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245)
 * [2026-08-23, 18:08:13](https://news.ycombinator.com/item?id=49411020) - [Explain it to me like I'm ten](https://timharford.com/2026/08/explain-it-to-me-like-im-ten/)
