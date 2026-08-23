@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-08-23, 03:13:16",
+      "https://news.ycombinator.com/item?id=49405816"
+    ],
+    [
+      "MartyPC is a cross-platform emulator of early PCs written in Rust",
+      "https://martypc.net/"
+    ]
+  ],
+  [
+    [
+      "2026-08-23, 02:33:22",
+      "https://news.ycombinator.com/item?id=49405682"
+    ],
+    [
+      "I Dream of Quieter Computing",
+      "https://henry.codes/writing/i-dream-of-quieter-computing/"
+    ]
+  ],
+  [
+    [
       "2026-08-23, 00:56:03",
       "https://news.ycombinator.com/item?id=49405331"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2026-08-22, 13:24:06",
-      "https://news.ycombinator.com/item?id=49399524"
-    ],
-    [
-      "A Kantian Critique of \"Sorry\" by Justin Bieber",
-      "https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/"
-    ]
-  ],
-  [
-    [
       "2026-08-22, 09:49:57",
       "https://news.ycombinator.com/item?id=49398158"
     ],
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2026-08-21, 19:51:54",
-      "https://news.ycombinator.com/item?id=49393052"
-    ],
-    [
-      "Rust Glancer: Rust LSP using 100x less RAM",
-      "https://rust-glancer.github.io/blog/hello-world/"
-    ]
-  ],
-  [
-    [
       "2026-08-21, 19:51:48",
       "https://news.ycombinator.com/item?id=49393051"
     ],
@@ -207,6 +207,16 @@
     [
       "One night in Uzbekistan: Why was this one data point so influential?",
       "https://statmodeling.stat.columbia.edu/2026/08/20/we-couldnt-reproduce-their-findings-and-realized-that-it-was-all-driven-by-weird-data-from-uzbekistan/"
+    ]
+  ],
+  [
+    [
+      "2026-08-21, 15:44:40",
+      "https://news.ycombinator.com/item?id=49389846"
+    ],
+    [
+      "Show HN: Public Muscriptor Instance (latest, most powerful Audio-to-MIDI model)",
+      "https://www.pianoify.net/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Autolith: A programming agent with a live runtime",
       "https://www.lambda-symbolics.com/autolith"
-    ]
-  ],
-  [
-    [
-      "2026-08-20, 14:35:08",
-      "https://news.ycombinator.com/item?id=49375176"
-    ],
-    [
-      "ProgramBench Vetted: Reverse Engineering from a Runnable Binary",
-      "https://vetto.ai/companies/programbench-vetted.html"
     ]
   ],
   [
