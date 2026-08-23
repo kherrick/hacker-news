@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-08-23](index.md)
 
+* [2026-08-23, 16:24:21](https://news.ycombinator.com/item?id=49410097) - [GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost](https://reinvently.co.uk/tools/ed-o-meter/)
+* [2026-08-23, 16:21:37](https://news.ycombinator.com/item?id=49410074) - [Being nude in public can make us feel better about our bodies](https://www.bbc.com/future/article/20260820-how-social-nudity-can-boost-your-body-image)
+* [2026-08-23, 15:59:08](https://news.ycombinator.com/item?id=49409862) - [Why Sal Khan't: On Learning by Making but Teaching by Telling](https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/)
 * [2026-08-23, 15:50:18](https://news.ycombinator.com/item?id=49409780) - [Coconut Oil Jet Fuel Matches Kerosene's Efficiency in Engine Tests](https://studyfinds.com/coconut-oil-jet-fuel-matches-kerosenes-efficiency-in-engine-tests/)
 * [2026-08-23, 15:24:43](https://news.ycombinator.com/item?id=49409568) - [Universal Housing](https://twitter.com/christianreber/status/2091532545577849008)
 * [2026-08-23, 15:13:31](https://news.ycombinator.com/item?id=49409473) - [How Complex Systems Fail](https://how.complexsystems.fail/)
