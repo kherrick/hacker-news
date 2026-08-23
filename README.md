@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-23, 13:05:38](https://news.ycombinator.com/item?id=49408550) - [Malware infects Android-based automotive head unit firmware](https://securelist.com/android-head-unit-malware/121106/)
 * [2026-08-23, 10:14:48](https://news.ycombinator.com/item?id=49407576) - [Sydney Marathon medal mistakenly depicts Munich stadium](https://www.bbc.com/news/articles/cvg92y1wzn8o)
 * [2026-08-23, 10:03:01](https://news.ycombinator.com/item?id=49407509) - [Iranian hackers shut down UK power plant for 4 days](https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/)
 * [2026-08-23, 10:02:51](https://news.ycombinator.com/item?id=49407507) - [I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes](https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/)
@@ -18,7 +19,6 @@
 * [2026-08-22, 18:11:40](https://news.ycombinator.com/item?id=49402213) - [Figmimic – A bookmarklet to copy any webpage into Figma as editable layers](https://marcua.net/minitools/figmimic/)
 * [2026-08-22, 18:10:49](https://news.ycombinator.com/item?id=49402202) - [Thinking in Python](https://thinkinginpython.com/)
 * [2026-08-22, 18:08:56](https://news.ycombinator.com/item?id=49402189) - [Scrap (2006)](https://twitter.com/moxie/status/2091218652133732491)
-* [2026-08-22, 18:08:25](https://news.ycombinator.com/item?id=49402181) - [I set a trap for a book-marketing scammer (2025)](https://rwwgreene.substack.com/p/i-set-a-trap-for-a-book-marketing)
 * [2026-08-22, 14:54:07](https://news.ycombinator.com/item?id=49400408) - [ElevenLabs, TwelveLabs, ThirteenLabs](https://quantumi.sh/public/labs.html)
 * [2026-08-22, 14:08:19](https://news.ycombinator.com/item?id=49399898) - [A Friendly Introduction to Racket](https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/)
 * [2026-08-22, 13:31:34](https://news.ycombinator.com/item?id=49399591) - [New MCP Roadmap](https://blog.modelcontextprotocol.io/posts/mcp-roadmap/)
