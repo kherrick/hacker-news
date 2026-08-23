@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-08-23](index.md)
 
+* [2026-08-23, 22:41:04](https://news.ycombinator.com/item?id=49413320) - [Everything I own, owned](https://schlarp.com/posts/everything-i-own-owned/)
 * [2026-08-23, 21:55:55](https://news.ycombinator.com/item?id=49413004) - [The Planet Now Has More Trees Than It Did 35 Years Ago](https://psmag.com/environment/the-planet-now-has-more-trees-than-it-did-35-years-ago/)
 * [2026-08-23, 21:47:25](https://news.ycombinator.com/item?id=49412947) - [A complex structure on S^6 [pdf]](https://alpo.ge/s6.pdf)
+* [2026-08-23, 21:41:17](https://news.ycombinator.com/item?id=49412909) - [Implementation of GPT-2 in pure CMake](https://github.com/AlpinDale/gpt2.cmake)
 * [2026-08-23, 20:56:01](https://news.ycombinator.com/item?id=49412548) - [Cicada.os – Graphene.os for Your Laptop](https://kpres12.github.io/Cicada.OS/)
+* [2026-08-23, 20:50:14](https://news.ycombinator.com/item?id=49412483) - [Residential proxies scraping your site? Drain their bandwidth](https://layer3intel.com/blog/residential-proxy-bandwidth-drain)
+* [2026-08-23, 20:47:53](https://news.ycombinator.com/item?id=49412467) - [Declarative WebGPU with S-Expressions](https://hugodaniel.com/posts/declarative-webgpu-with-s-expressions/)
 * [2026-08-23, 20:13:34](https://news.ycombinator.com/item?id=49412176) - [Decoding silent reading from non-invasive EEG](https://arxiv.org/abs/2608.20186)
 * [2026-08-23, 19:39:29](https://news.ycombinator.com/item?id=49411800) - [Training AI to Paint with Code](https://surya.website/rling-qwen-to-paint-with-code)
 * [2026-08-23, 19:35:35](https://news.ycombinator.com/item?id=49411762) - ['The Nerd Reich' tracks the 'unmasking of Silicon Valley's true politics'](https://www.npr.org/2026/08/10/nx-s1-5925350/the-nerd-reich-tracks-the-unmasking-of-silicon-valleys-true-politics)
