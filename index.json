@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-08-23, 19:29:32",
+      "https://news.ycombinator.com/item?id=49411717"
+    ],
+    [
+      "Google Workspace thinks my domain is an email provider",
+      "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/"
+    ]
+  ],
+  [
+    [
       "2026-08-23, 19:23:29",
       "https://news.ycombinator.com/item?id=49411643"
     ],
@@ -91,32 +101,12 @@
   ],
   [
     [
-      "2026-08-23, 18:00:20",
-      "https://news.ycombinator.com/item?id=49410936"
-    ],
-    [
-      "I turned Unix talk from 1983 into the interface for my AI",
-      "https://en.andros.dev/blog/09a21bdd/i-turned-unix-talk-from-1983-into-the-interface-for-my-ai/"
-    ]
-  ],
-  [
-    [
       "2026-08-23, 17:59:52",
       "https://news.ycombinator.com/item?id=49410932"
     ],
     [
       "My agent.md to improve LLM-assisted code quality",
       "https://fabiensanglard.net/agent.md/index.html"
-    ]
-  ],
-  [
-    [
-      "2026-08-23, 17:59:23",
-      "https://news.ycombinator.com/item?id=49410927"
-    ],
-    [
-      "From Front Panel to Program: Thinking Like a PDP-8",
-      "https://pikuma.com/blog/pdp-8-minicomputer"
     ]
   ],
   [
@@ -157,6 +147,16 @@
     [
       "Phoenix tried a reflective coating on black asphalt; noon surface heat fell 12°F",
       "https://economictimes.indiatimes.com/news/international/us/phoenix-swapped-black-asphalt-for-a-reflective-road-coating-noon-surface-heat-fell-12f-but-pedestrians-faced-higher-radiant-heat/articleshow/133421891.cms?from=mdr"
+    ]
+  ],
+  [
+    [
+      "2026-08-23, 16:25:59",
+      "https://news.ycombinator.com/item?id=49410111"
+    ],
+    [
+      "Kodak DC50 now usable on the Apple II",
+      "https://www.colino.net/wordpress/archives/2026/08/23/kodak-dc50-now-usable-on-the-apple-ii/"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2026-08-22, 18:38:41",
-      "https://news.ycombinator.com/item?id=49402491"
+      "2026-08-23, 02:33:22",
+      "https://news.ycombinator.com/item?id=49405682"
     ],
     [
-      "Things I want in a modern relational query language",
-      "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/"
+      "I Dream of Quieter Computing",
+      "https://henry.codes/writing/i-dream-of-quieter-computing/"
     ]
   ]
 ]
