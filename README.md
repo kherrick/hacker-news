@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-08-23, 21:55:55](https://news.ycombinator.com/item?id=49413004) - [The Planet Now Has More Trees Than It Did 35 Years Ago](https://psmag.com/environment/the-planet-now-has-more-trees-than-it-did-35-years-ago/)
+* [2026-08-23, 21:55:55](https://news.ycombinator.com/item?id=49413004) - [The Planet Now Has More Trees Than It Did 35 Years Ago (2018)](https://psmag.com/environment/the-planet-now-has-more-trees-than-it-did-35-years-ago/)
 * [2026-08-23, 21:47:25](https://news.ycombinator.com/item?id=49412947) - [A complex structure on S^6 [pdf]](https://alpo.ge/s6.pdf)
-* [2026-08-23, 20:56:01](https://news.ycombinator.com/item?id=49412548) - [Cicada.os – Graphene.os for Your Laptop](https://kpres12.github.io/Cicada.OS/)
 * [2026-08-23, 20:13:34](https://news.ycombinator.com/item?id=49412176) - [Decoding silent reading from non-invasive EEG](https://arxiv.org/abs/2608.20186)
+* [2026-08-23, 19:39:29](https://news.ycombinator.com/item?id=49411800) - [Training AI to Paint with Code](https://surya.website/rling-qwen-to-paint-with-code)
 * [2026-08-23, 19:29:32](https://news.ycombinator.com/item?id=49411717) - [Google Workspace thinks my domain is an email provider](https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/)
 * [2026-08-23, 19:23:29](https://news.ycombinator.com/item?id=49411643) - [How I find problems to solve as a staff engineer](https://lalitm.com/post/find-problems-staff-engineer/)
 * [2026-08-23, 19:06:09](https://news.ycombinator.com/item?id=49411468) - [Fable and the End of the Free Lunch](https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html)
@@ -27,9 +27,9 @@
 * [2026-08-23, 13:51:10](https://news.ycombinator.com/item?id=49408858) - [My favorite nonfiction books about cults, scams, and schemes](https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes)
 * [2026-08-23, 13:05:38](https://news.ycombinator.com/item?id=49408550) - [Malware infects Android-based automotive head unit firmware](https://securelist.com/android-head-unit-malware/121106/)
 * [2026-08-23, 06:41:51](https://news.ycombinator.com/item?id=49406539) - [Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed](https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/)
-* [2026-08-23, 05:51:01](https://news.ycombinator.com/item?id=49406333) - [The End of an Athlon](http://www.os2museum.com/wp/the-end-of-an-athlon/)
 * [2026-08-23, 03:32:25](https://news.ycombinator.com/item?id=49405870) - [To become a better writer, read as much as you can](https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/)
 * [2026-08-23, 03:13:16](https://news.ycombinator.com/item?id=49405816) - [MartyPC is a cross-platform emulator of early PCs written in Rust](https://martypc.net/)
+* [2026-08-23, 02:33:22](https://news.ycombinator.com/item?id=49405682) - [I Dream of Quieter Computing](https://henry.codes/writing/i-dream-of-quieter-computing/)
 
 ## [Archives](archives/index.md)
 
