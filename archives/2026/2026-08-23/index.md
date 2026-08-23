@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-08-23](index.md)
 
+* [2026-08-23, 15:24:43](https://news.ycombinator.com/item?id=49409568) - [Universal Housing](https://twitter.com/christianreber/status/2091532545577849008)
+* [2026-08-23, 15:13:31](https://news.ycombinator.com/item?id=49409473) - [How Complex Systems Fail](https://how.complexsystems.fail/)
 * [2026-08-23, 14:39:35](https://news.ycombinator.com/item?id=49409210) - [Amiga-Inspired AROS Goes Bare Metal on Raspberry Pi](https://hackaday.com/2026/08/23/amiga-inspired-aros-goes-bare-metal-on-raspberry-pi/)
 * [2026-08-23, 14:38:25](https://news.ycombinator.com/item?id=49409200) - [Slovakia finds Russian backdoor in traffic speed cameras](https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/)
 * [2026-08-23, 14:36:38](https://news.ycombinator.com/item?id=49409184) - [Authoritarianism of Code](https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/)
 * [2026-08-23, 14:24:21](https://news.ycombinator.com/item?id=49409092) - [What Is a Harness?](https://earendil.com/posts/what-is-a-harness/)
+* [2026-08-23, 14:23:09](https://news.ycombinator.com/item?id=49409073) - [I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day](https://ericpardee.github.io/fire-hd-ownership/)
 * [2026-08-23, 13:56:27](https://news.ycombinator.com/item?id=49408889) - [Death to px, long live ch](https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/)
 * [2026-08-23, 13:51:10](https://news.ycombinator.com/item?id=49408858) - [My favorite nonfiction books about cults, scams, and schemes](https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes)
 * [2026-08-23, 13:05:38](https://news.ycombinator.com/item?id=49408550) - [Malware infects Android-based automotive head unit firmware](https://securelist.com/android-head-unit-malware/121106/)
