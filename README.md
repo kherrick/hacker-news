@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-23, 17:25:03](https://news.ycombinator.com/item?id=49410628) - [We must not grant AI agents legal personhood](https://www.ft.com/content/b8cc4bf4-6d3c-4974-8428-9a091983c473)
 * [2026-08-23, 16:54:10](https://news.ycombinator.com/item?id=49410362) - [A website for debloated open source alternatives](https://debloat.dev/)
-* [2026-08-23, 16:30:53](https://news.ycombinator.com/item?id=49410149) - [Vit D assoc w better cognition in those w sleep disturb./mild cognitive impair](https://www.sciencedirect.com/science/article/abs/pii/S1389945726001991?via%3Dihub)
 * [2026-08-23, 16:24:21](https://news.ycombinator.com/item?id=49410097) - [GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost](https://reinvently.co.uk/tools/ed-o-meter/)
 * [2026-08-23, 15:59:08](https://news.ycombinator.com/item?id=49409862) - [Why Sal Khan't: On Learning by Making but Teaching by Telling](https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/)
 * [2026-08-23, 15:50:18](https://news.ycombinator.com/item?id=49409780) - [Coconut Oil Jet Fuel Matches Kerosene's Efficiency in Engine Tests](https://studyfinds.com/coconut-oil-jet-fuel-matches-kerosenes-efficiency-in-engine-tests/)
