@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=49413004"
     ],
     [
-      "The Planet Now Has More Trees Than It Did 35 Years Ago",
+      "The Planet Now Has More Trees Than It Did 35 Years Ago (2018)",
       "https://psmag.com/environment/the-planet-now-has-more-trees-than-it-did-35-years-ago/"
     ]
   ],
@@ -21,22 +21,22 @@
   ],
   [
     [
-      "2026-08-23, 20:56:01",
-      "https://news.ycombinator.com/item?id=49412548"
-    ],
-    [
-      "Cicada.os – Graphene.os for Your Laptop",
-      "https://kpres12.github.io/Cicada.OS/"
-    ]
-  ],
-  [
-    [
       "2026-08-23, 20:13:34",
       "https://news.ycombinator.com/item?id=49412176"
     ],
     [
       "Decoding silent reading from non-invasive EEG",
       "https://arxiv.org/abs/2608.20186"
+    ]
+  ],
+  [
+    [
+      "2026-08-23, 19:39:29",
+      "https://news.ycombinator.com/item?id=49411800"
+    ],
+    [
+      "Training AI to Paint with Code",
+      "https://surya.website/rling-qwen-to-paint-with-code"
     ]
   ],
   [
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2026-08-23, 05:51:01",
-      "https://news.ycombinator.com/item?id=49406333"
-    ],
-    [
-      "The End of an Athlon",
-      "http://www.os2museum.com/wp/the-end-of-an-athlon/"
-    ]
-  ],
-  [
-    [
       "2026-08-23, 03:32:25",
       "https://news.ycombinator.com/item?id=49405870"
     ],
@@ -297,6 +287,16 @@
     [
       "MartyPC is a cross-platform emulator of early PCs written in Rust",
       "https://martypc.net/"
+    ]
+  ],
+  [
+    [
+      "2026-08-23, 02:33:22",
+      "https://news.ycombinator.com/item?id=49405682"
+    ],
+    [
+      "I Dream of Quieter Computing",
+      "https://henry.codes/writing/i-dream-of-quieter-computing/"
     ]
   ]
 ]
