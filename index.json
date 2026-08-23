@@ -1,22 +1,32 @@
 [
   [
     [
+      "2026-08-23, 00:20:21",
+      "https://news.ycombinator.com/item?id=49405117"
+    ],
+    [
+      "Software Engineering in the Agentic Era",
+      "https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/"
+    ]
+  ],
+  [
+    [
+      "2026-08-23, 00:19:17",
+      "https://news.ycombinator.com/item?id=49405110"
+    ],
+    [
+      "US Military newspaper editor voices censorship fears after being fired",
+      "https://www.bbc.com/news/articles/cm2g23ng8p4o"
+    ]
+  ],
+  [
+    [
       "2026-08-22, 22:14:27",
       "https://news.ycombinator.com/item?id=49404380"
     ],
     [
       "NanoGPT Speedrun Frontier",
       "https://www.primeintellect.ai/research/nanogpt-speedrun"
-    ]
-  ],
-  [
-    [
-      "2026-08-22, 19:19:15",
-      "https://news.ycombinator.com/item?id=49402907"
-    ],
-    [
-      "English ↔ Claudish Translator",
-      "https://programasweights.com/claudish"
     ]
   ],
   [
@@ -41,22 +51,22 @@
   ],
   [
     [
-      "2026-08-22, 18:43:03",
-      "https://news.ycombinator.com/item?id=49402521"
-    ],
-    [
-      "Show HN: Make your logo extra bright on HDR screens",
-      "https://www.soverybright.com/"
-    ]
-  ],
-  [
-    [
       "2026-08-22, 18:14:16",
       "https://news.ycombinator.com/item?id=49402232"
     ],
     [
       "Why your local LLM feels dumber than it is",
       "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917"
+    ]
+  ],
+  [
+    [
+      "2026-08-22, 18:11:40",
+      "https://news.ycombinator.com/item?id=49402213"
+    ],
+    [
+      "Figmimic – A bookmarklet to copy any webpage into Figma as editable layers",
+      "https://marcua.net/minitools/figmimic/"
     ]
   ],
   [
@@ -75,8 +85,28 @@
       "https://news.ycombinator.com/item?id=49402189"
     ],
     [
-      "Scrap",
+      "Scrap (2006)",
       "https://twitter.com/moxie/status/2091218652133732491"
+    ]
+  ],
+  [
+    [
+      "2026-08-22, 18:08:25",
+      "https://news.ycombinator.com/item?id=49402181"
+    ],
+    [
+      "I set a trap for a book-marketing scammer (2025)",
+      "https://rwwgreene.substack.com/p/i-set-a-trap-for-a-book-marketing"
+    ]
+  ],
+  [
+    [
+      "2026-08-22, 17:59:09",
+      "https://news.ycombinator.com/item?id=49402107"
+    ],
+    [
+      "Reading Maps – Journeys from fiction drawn on the real world",
+      "https://readingmaps.com/"
     ]
   ],
   [
@@ -97,26 +127,6 @@
     [
       "A Friendly Introduction to Racket",
       "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/"
-    ]
-  ],
-  [
-    [
-      "2026-08-22, 13:31:34",
-      "https://news.ycombinator.com/item?id=49399591"
-    ],
-    [
-      "New MCP Roadmap",
-      "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/"
-    ]
-  ],
-  [
-    [
-      "2026-08-22, 13:24:06",
-      "https://news.ycombinator.com/item?id=49399524"
-    ],
-    [
-      "A Kantian Critique of \"Sorry\" by Justin Bieber",
-      "https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/"
     ]
   ],
   [
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2026-08-21, 00:10:01",
-      "https://news.ycombinator.com/item?id=49381991"
-    ],
-    [
-      "Dynamical dark energy and the week that broke cosmology",
-      "https://perimeterinstitute.ca/news/dynamical-dark-energy-and-week-broke-cosmology"
-    ]
-  ],
-  [
-    [
       "2026-08-20, 20:22:35",
       "https://news.ycombinator.com/item?id=49379732"
     ],
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2026-08-20, 14:35:08",
+      "https://news.ycombinator.com/item?id=49375176"
+    ],
+    [
+      "ProgramBench Vetted: Reverse Engineering from a Runnable Binary",
+      "https://vetto.ai/companies/programbench-vetted.html"
+    ]
+  ],
+  [
+    [
       "2026-08-20, 12:40:04",
       "https://news.ycombinator.com/item?id=49373822"
     ],
@@ -251,22 +261,12 @@
   ],
   [
     [
-      "2026-08-20, 04:07:46",
-      "https://news.ycombinator.com/item?id=49370284"
+      "2026-08-19, 12:28:44",
+      "https://news.ycombinator.com/item?id=49360643"
     ],
     [
-      "MiniageOS: \"Dumbphone\" Version of LineageOS",
-      "https://github.com/ofdryads/miniageOS"
-    ]
-  ],
-  [
-    [
-      "2026-08-19, 17:13:11",
-      "https://news.ycombinator.com/item?id=49364296"
-    ],
-    [
-      "Show HN: terminal-code – VS Code inside the terminal",
-      "https://terminal-code.com"
+      "What's in a PowerPoint File?",
+      "https://editide.com/blog/what-is-a-pptx-file/"
     ]
   ],
   [
