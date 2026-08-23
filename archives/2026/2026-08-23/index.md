@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-23](index.md)
 
+* [2026-08-23, 14:38:25](https://news.ycombinator.com/item?id=49409200) - [Slovakia finds Russian backdoor in traffic speed cameras](https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/)
+* [2026-08-23, 14:36:38](https://news.ycombinator.com/item?id=49409184) - [Authoritarianism of Code](https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/)
 * [2026-08-23, 13:56:27](https://news.ycombinator.com/item?id=49408889) - [Death to px, long live ch](https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/)
 * [2026-08-23, 13:51:10](https://news.ycombinator.com/item?id=49408858) - [My favorite nonfiction books about cults, scams, and schemes](https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes)
 * [2026-08-23, 13:05:38](https://news.ycombinator.com/item?id=49408550) - [Malware infects Android-based automotive head unit firmware](https://securelist.com/android-head-unit-malware/121106/)
