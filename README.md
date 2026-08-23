@@ -1,10 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-08-23, 19:35:35](https://news.ycombinator.com/item?id=49411762) - ['The Nerd Reich' tracks the 'unmasking of Silicon Valley's true politics'](https://www.npr.org/2026/08/10/nx-s1-5925350/the-nerd-reich-tracks-the-unmasking-of-silicon-valleys-true-politics)
+* [2026-08-23, 20:13:34](https://news.ycombinator.com/item?id=49412176) - [Decoding silent reading from non-invasive EEG](https://arxiv.org/abs/2608.20186)
 * [2026-08-23, 19:23:29](https://news.ycombinator.com/item?id=49411643) - [How I Find Problems to Solve as a Staff Engineer](https://lalitm.com/post/find-problems-staff-engineer/)
 * [2026-08-23, 19:06:09](https://news.ycombinator.com/item?id=49411468) - [Fable and the End of the Free Lunch](https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html)
 * [2026-08-23, 18:55:54](https://news.ycombinator.com/item?id=49411395) - [Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?](https://slate.com/technology/2026/08/microsoft-software-nonprofit-data-delete.html)
-* [2026-08-23, 18:40:47](https://news.ycombinator.com/item?id=49411268) - [Say It Four Times (In Your System Prompt)](https://www.khola.blog/p/say-it-four-times)
 * [2026-08-23, 18:31:02](https://news.ycombinator.com/item?id=49411199) - [The Vibe Tax](https://insufferable.dev/posts/vibe-tax/)
 * [2026-08-23, 18:27:33](https://news.ycombinator.com/item?id=49411178) - [Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog](https://www.spheron.network/blog/etched-ai-sohu-vs-nvidia-transformer-asic-inference/)
 * [2026-08-23, 18:16:37](https://news.ycombinator.com/item?id=49411102) - [Anthropic's best AI model struggles to attract users as cheaper tools thrive](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245)
@@ -29,6 +28,7 @@
 * [2026-08-23, 10:02:51](https://news.ycombinator.com/item?id=49407507) - [I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes](https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/)
 * [2026-08-23, 06:41:51](https://news.ycombinator.com/item?id=49406539) - [Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed](https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/)
 * [2026-08-23, 05:51:01](https://news.ycombinator.com/item?id=49406333) - [The End of an Athlon](http://www.os2museum.com/wp/the-end-of-an-athlon/)
+* [2026-08-23, 03:13:16](https://news.ycombinator.com/item?id=49405816) - [MartyPC is a cross-platform emulator of early PCs written in Rust](https://martypc.net/)
 * [2026-08-22, 18:38:41](https://news.ycombinator.com/item?id=49402491) - [Things I want in a modern relational query language](https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/)
 
 ## [Archives](archives/index.md)

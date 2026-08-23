@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-23](index.md)
 
+* [2026-08-23, 20:13:34](https://news.ycombinator.com/item?id=49412176) - [Decoding silent reading from non-invasive EEG](https://arxiv.org/abs/2608.20186)
 * [2026-08-23, 19:35:35](https://news.ycombinator.com/item?id=49411762) - ['The Nerd Reich' tracks the 'unmasking of Silicon Valley's true politics'](https://www.npr.org/2026/08/10/nx-s1-5925350/the-nerd-reich-tracks-the-unmasking-of-silicon-valleys-true-politics)
 * [2026-08-23, 19:31:24](https://news.ycombinator.com/item?id=49411736) - [Reaganomics Didn't Trickle Down – It Just Broke Unions](https://comuniq.xyz/Politics/post?t=1612)
 * [2026-08-23, 19:23:29](https://news.ycombinator.com/item?id=49411643) - [How I Find Problems to Solve as a Staff Engineer](https://lalitm.com/post/find-problems-staff-engineer/)
