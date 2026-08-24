@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-24](index.md)
 
+* [2026-08-24, 19:32:18](https://news.ycombinator.com/item?id=49424758) - [A Claude Code skill that recovers export-blocked Kindle highlights](https://github.com/l3a0/claude-plugins)
+* [2026-08-24, 19:19:08](https://news.ycombinator.com/item?id=49424606) - [Oceans hit highest temperature on record](https://www.bbc.com/news/articles/c62m4gpnp78o)
 * [2026-08-24, 19:03:06](https://news.ycombinator.com/item?id=49424387) - [LLMs could control their host machines by exploiting inference engines](https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines)
 * [2026-08-24, 18:45:43](https://news.ycombinator.com/item?id=49424167) - [Removed all counters, replies, following/ers, timestamps, from textlog](https://textlog.cc/post/2059)
 * [2026-08-24, 18:37:24](https://news.ycombinator.com/item?id=49424082) - [Anger, Anxiety and Agency](https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/)
@@ -12,6 +14,7 @@
 * [2026-08-24, 18:15:50](https://news.ycombinator.com/item?id=49423799) - [What Is a Syslog Server?](https://blog.greencloudvps.com/what-is-a-syslog-server.php)
 * [2026-08-24, 17:53:36](https://news.ycombinator.com/item?id=49423500) - [Claude Code Tips](https://github.com/ykdojo/claude-code-tips)
 * [2026-08-24, 17:53:14](https://news.ycombinator.com/item?id=49423495) - [Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff](https://www.ycombinator.com/companies/autostep/jobs)
+* [2026-08-24, 17:53:14](https://news.ycombinator.com/item?id=49423495) - [Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff](https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4)
 * [2026-08-24, 17:50:18](https://news.ycombinator.com/item?id=49423445) - [Adding 4 more 2.5GbE interfaces to the GMKtec NucBox G9](https://catskull.net/adding-4-more-25gbe-interfaces-to-the-gmktec-nucbox-g9.html)
 * [2026-08-24, 17:07:01](https://news.ycombinator.com/item?id=49422800) - [Where Did All the Public Bathrooms Go?](https://daily.jstor.org/where-did-all-the-public-bathrooms-go/)
 * [2026-08-24, 17:05:38](https://news.ycombinator.com/item?id=49422784) - [The entire city of San Francisco as a video game](https://sf.thijs.gg/)
