@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-08-24, 22:13:40](https://news.ycombinator.com/item?id=49426564) - [iCloud+ Hide My Email addresses will remain on icloud.com](https://developer.apple.com/news/?id=1ptvdtcm)
+* [2026-08-24, 22:06:02](https://news.ycombinator.com/item?id=49426466) - [Moon](https://ciechanow.ski/moon/)
 * [2026-08-24, 21:03:06](https://news.ycombinator.com/item?id=49425819) - [One corner of China’s internet is insisting that the Tang Dynasty never existed](https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk)
 * [2026-08-24, 21:01:38](https://news.ycombinator.com/item?id=49425800) - [Vintage Artificial Intelligence: Before It Got Awkward](https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/)
 * [2026-08-24, 19:19:08](https://news.ycombinator.com/item?id=49424606) - [Oceans hit highest temperature on record](https://www.bbc.com/news/articles/c62m4gpnp78o)
@@ -28,7 +29,6 @@
 * [2026-08-24, 13:17:11](https://news.ycombinator.com/item?id=49419351) - [Show HN: A techno machine in one HTML file, with verifiable renders](https://ssx360.github.io/rack-02/?src=hn)
 * [2026-08-24, 13:05:25](https://news.ycombinator.com/item?id=49419237) - [How Europe is killing makers and micro-entrepreneurs](https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs)
 * [2026-08-24, 11:32:51](https://news.ycombinator.com/item?id=49418255) - [SeL4 security proofs now complete on AArch64](https://proofcraft.systems/news-2026/#2026-08-21)
-* [2026-08-24, 06:30:07](https://news.ycombinator.com/item?id=49415893) - [FDA clears blood test to aid evaluation for Alzheimer's disease](https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/)
 * [2026-08-24, 04:48:20](https://news.ycombinator.com/item?id=49415271) - [Executable Is a SQLite Database](https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database)
 
 ## [Archives](archives/index.md)
