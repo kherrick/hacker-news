@@ -1,5 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-24, 15:52:33](https://news.ycombinator.com/item?id=49421554) - [Coding expertise is going to collapse from AI reliance](https://larsfaye.com/articles/ai-coding-will-prevent-expertise)
+* [2026-08-24, 15:48:45](https://news.ycombinator.com/item?id=49421489) - [IPFS Maintainers Winding Down](https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/)
+* [2026-08-24, 15:28:04](https://news.ycombinator.com/item?id=49421158) - [MS Paint and Photos inivisibly watermark even locally generated output with GUID](https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/)
+* [2026-08-24, 15:22:43](https://news.ycombinator.com/item?id=49421074) - [OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)](https://developers.openai.com/api/docs/pricing)
 * [2026-08-24, 15:10:25](https://news.ycombinator.com/item?id=49420902) - [Anna's Archive Owes $340 Million, Lost Several Domains, but It's Still Online](https://torrentfreak.com/annas-archive-owes-340-million-lost-several-domains-but-its-still-online/)
 * [2026-08-24, 15:08:17](https://news.ycombinator.com/item?id=49420873) - [Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded](https://twitter.com/lemire/status/2091894299289874926)
 * [2026-08-24, 14:48:58](https://news.ycombinator.com/item?id=49420592) - [Hot Chips 2026: Applying High Bandwidth Flash (HBF)](https://chipsandcheese.com/p/hot-chips-2026-applying-high-bandwidth)
@@ -10,7 +14,6 @@
 * [2026-08-24, 11:20:40](https://news.ycombinator.com/item?id=49418163) - [Agent Is Not the Model](https://code.joejag.com/2026/your-agent-is-not-the-model.html)
 * [2026-08-24, 10:18:03](https://news.ycombinator.com/item?id=49417684) - [Show HN: Vanilla OS 3 Reunion – Immutable and Reproducible Operating System](https://vanillaos.org/blog/article/2026-08-24/vanilla-os-3-reunion---stable-release)
 * [2026-08-24, 09:45:02](https://news.ycombinator.com/item?id=49417394) - [Woman stranded in Spain after UK's eVisa system mistakes her for twin sister](https://www.theguardian.com/uk-news/2026/aug/24/woman-stranded-spain-uk-evisa-system-mistakes-twin-sister)
-* [2026-08-24, 08:46:19](https://news.ycombinator.com/item?id=49416953) - [The Future Belongs to the Weird](https://essays.georgestrakhov.com/weird/)
 * [2026-08-24, 08:13:17](https://news.ycombinator.com/item?id=49416652) - [Fast drilldown dashboards from a single Parquet file](https://www.hamiltonulmer.com/customer-dashboards-r2-hyparquet/)
 * [2026-08-24, 06:57:01](https://news.ycombinator.com/item?id=49416055) - [Andreessen Horowitz is investing billions into a bleak future](https://www.modelrepublic.org/articles/a16z-portfolio)
 * [2026-08-24, 06:30:07](https://news.ycombinator.com/item?id=49415893) - [FDA clears blood test to aid evaluation for Alzheimer's disease](https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/)
@@ -23,13 +26,10 @@
 * [2026-08-23, 20:38:09](https://news.ycombinator.com/item?id=49412396) - [I were 17, I'd learn how to build LLMs from scratch](https://twitter.com/paulg/status/2091544343589060625)
 * [2026-08-23, 19:29:32](https://news.ycombinator.com/item?id=49411717) - [Google Workspace thinks my domain is an email provider (2025)](https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/)
 * [2026-08-23, 19:23:29](https://news.ycombinator.com/item?id=49411643) - [How I find problems to solve as a staff engineer](https://lalitm.com/post/find-problems-staff-engineer/)
-* [2026-08-23, 19:06:09](https://news.ycombinator.com/item?id=49411468) - [Fable and the end of the free lunch](https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html)
 * [2026-08-23, 18:16:37](https://news.ycombinator.com/item?id=49411102) - [Anthropic's best AI model struggles to attract users as cheaper tools thrive](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245)
 * [2026-08-23, 17:59:52](https://news.ycombinator.com/item?id=49410932) - [My agent.md to improve LLM-assisted code quality](https://fabiensanglard.net/agent.md/index.html)
 * [2026-08-23, 15:13:31](https://news.ycombinator.com/item?id=49409473) - [How Complex Systems Fail (1998)](https://how.complexsystems.fail/)
 * [2026-08-23, 14:24:21](https://news.ycombinator.com/item?id=49409092) - [What Is a Harness?](https://earendil.com/posts/what-is-a-harness/)
-* [2026-08-23, 13:05:38](https://news.ycombinator.com/item?id=49408550) - [Malware infects Android-based automotive head unit firmware](https://securelist.com/android-head-unit-malware/121106/)
-* [2026-08-23, 02:25:10](https://news.ycombinator.com/item?id=49405657) - [AI Chip Architectures](https://www.jepeake.com/ai-chip-architectures)
 
 ## [Archives](archives/index.md)
 

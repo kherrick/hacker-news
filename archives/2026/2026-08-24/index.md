@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-08-24](index.md)
 
+* [2026-08-24, 15:52:33](https://news.ycombinator.com/item?id=49421554) - [Coding expertise is going to collapse from AI reliance](https://larsfaye.com/articles/ai-coding-will-prevent-expertise)
+* [2026-08-24, 15:48:45](https://news.ycombinator.com/item?id=49421489) - [IPFS Maintainers Winding Down](https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/)
+* [2026-08-24, 15:28:04](https://news.ycombinator.com/item?id=49421158) - [MS Paint and Photos inivisibly watermark even locally generated output with GUID](https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/)
+* [2026-08-24, 15:22:43](https://news.ycombinator.com/item?id=49421074) - [OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)](https://developers.openai.com/api/docs/pricing)
 * [2026-08-24, 15:10:25](https://news.ycombinator.com/item?id=49420902) - [Anna's Archive Owes $340 Million, Lost Several Domains, but It's Still Online](https://torrentfreak.com/annas-archive-owes-340-million-lost-several-domains-but-its-still-online/)
 * [2026-08-24, 15:08:17](https://news.ycombinator.com/item?id=49420873) - [Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded](https://twitter.com/lemire/status/2091894299289874926)
 * [2026-08-24, 14:48:58](https://news.ycombinator.com/item?id=49420592) - [Hot Chips 2026: Applying High Bandwidth Flash (HBF)](https://chipsandcheese.com/p/hot-chips-2026-applying-high-bandwidth)
