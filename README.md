@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-24, 01:33:14](https://news.ycombinator.com/item?id=49414338) - [Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel](https://www.hanselman.com/blog/migrating-a-synology-nas-to-a-unifi-unas-pro-8-with-robocopy-smb-multichannel-and-surprising-performance-traps)
 * [2026-08-23, 22:41:04](https://news.ycombinator.com/item?id=49413320) - [Everything I own, owned](https://schlarp.com/posts/everything-i-own-owned/)
 * [2026-08-23, 22:06:14](https://news.ycombinator.com/item?id=49413093) - [Parallel development without the headaches using Git worktree](https://barrd.dev/article/parallel-development-without-the-headaches-using-git-worktree/)
 * [2026-08-23, 21:55:55](https://news.ycombinator.com/item?id=49413004) - [The planet now has more trees than it did 35 years ago (2018)](https://psmag.com/environment/the-planet-now-has-more-trees-than-it-did-35-years-ago/)
-* [2026-08-23, 21:47:25](https://news.ycombinator.com/item?id=49412947) - [A complex structure on S^6 [pdf]](https://alpo.ge/s6.pdf)
 * [2026-08-23, 21:41:17](https://news.ycombinator.com/item?id=49412909) - [Implementation of GPT-2 in pure CMake](https://github.com/AlpinDale/gpt2.cmake)
 * [2026-08-23, 20:47:53](https://news.ycombinator.com/item?id=49412467) - [Declarative WebGPU with S-Expressions](https://hugodaniel.com/posts/declarative-webgpu-with-s-expressions/)
 * [2026-08-23, 20:30:50](https://news.ycombinator.com/item?id=49412328) - [Rural Village in Spain Is Welcoming Digital Nomads with Open Arms](https://www.cntraveler.com/story/this-rural-village-in-spain-is-welcoming-digital-nomads-with-open-arms)
