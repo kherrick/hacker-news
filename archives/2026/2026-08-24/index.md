@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-08-24](index.md)
 
+* [2026-08-24, 17:07:01](https://news.ycombinator.com/item?id=49422800) - [Where Did All the Public Bathrooms Go?](https://daily.jstor.org/where-did-all-the-public-bathrooms-go/)
+* [2026-08-24, 17:05:38](https://news.ycombinator.com/item?id=49422784) - [The entire city of San Francisco as a video game](https://sf.thijs.gg/)
+* [2026-08-24, 16:52:01](https://news.ycombinator.com/item?id=49422548) - [Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam](https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc)
+* [2026-08-24, 16:46:56](https://news.ycombinator.com/item?id=49422481) - [EuroHPC Launches 6 Quantum Calls with €119M in Funding](https://www.hpcwire.com/off-the-wire/eurohpc-launches-6-quantum-calls-with-e119m-in-funding/)
 * [2026-08-24, 16:33:01](https://news.ycombinator.com/item?id=49422278) - [A Practical Intuition for C++20 Coroutines](https://blog.ydb.tech/making-coroutines-routine-building-a-scalable-tpc-c-client-in-c-b14f55a09471?postPublishedType=repub)
 * [2026-08-24, 16:30:51](https://news.ycombinator.com/item?id=49422243) - [Show HN: A Modern GUI Library for Ada: CSS Styling, XML UI, SDL3](https://github.com/ovenpasta/adi2)
 * [2026-08-24, 16:30:21](https://news.ycombinator.com/item?id=49422227) - [Public services are increasingly strained by LLM-written appeals for benefits](https://arxiv.org/abs/2608.16603)
@@ -20,6 +24,7 @@
 * [2026-08-24, 15:17:38](https://news.ycombinator.com/item?id=49420999) - [NetBSD GSoC 2026 Improving RAIDframe](https://blog.netbsd.org/tnf/entry/gsoc2026_raidframe)
 * [2026-08-24, 15:10:25](https://news.ycombinator.com/item?id=49420902) - [Anna's Archive Owes $340 Million, Lost Several Domains, but It's Still Online](https://torrentfreak.com/annas-archive-owes-340-million-lost-several-domains-but-its-still-online/)
 * [2026-08-24, 15:08:17](https://news.ycombinator.com/item?id=49420873) - [Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded](https://twitter.com/lemire/status/2091894299289874926)
+* [2026-08-24, 15:07:07](https://news.ycombinator.com/item?id=49420861) - [Could We Dredge the Netherlands Without Fossil Fuels?](https://solar.lowtechmagazine.com/2018/08/could-we-dredge-the-netherlands-without-fossil-fuels)
 * [2026-08-24, 15:05:22](https://news.ycombinator.com/item?id=49420832) - [Adafruit USB Type C CC Resistor Fixer](https://www.adafruit.com/product/6323)
 * [2026-08-24, 15:02:01](https://news.ycombinator.com/item?id=49420783) - [Show HN: Free Inference Engineer and Model Training Roadmap](https://inferquest.org)
 * [2026-08-24, 15:01:51](https://news.ycombinator.com/item?id=49420781) - [Hot Chips 2026: Samsung and HBM Base Die Opportunities](https://chipsandcheese.com/p/hot-chips-2026-samsung-and-hbm-base)
