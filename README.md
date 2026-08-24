@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2026-08-24, 09:45:02](https://news.ycombinator.com/item?id=49417394) - [Woman stranded in Spain after UK's eVisa system mistakes her for twin sister](https://www.theguardian.com/uk-news/2026/aug/24/woman-stranded-spain-uk-evisa-system-mistakes-twin-sister)
+* [2026-08-24, 08:46:19](https://news.ycombinator.com/item?id=49416953) - [The Future Belongs to the Weird](https://essays.georgestrakhov.com/weird/)
 * [2026-08-24, 08:13:17](https://news.ycombinator.com/item?id=49416652) - [Fast drilldown dashboards from a single Parquet file](https://www.hamiltonulmer.com/customer-dashboards-r2-hyparquet/)
 * [2026-08-24, 07:03:43](https://news.ycombinator.com/item?id=49416097) - [Over 5,200 Ebola cases recorded in Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/over-5200-cases-recorded-democratic-republic-congocrosses100-days-ebola-outbreak-declaration)
 * [2026-08-24, 06:57:01](https://news.ycombinator.com/item?id=49416055) - [Andreessen Horowitz is investing billions into a bleak future](https://www.modelrepublic.org/articles/a16z-portfolio)
-* [2026-08-24, 06:32:28](https://news.ycombinator.com/item?id=49415907) - [Anthropic Claude and API service outages](https://status.claude.com/uptime)
 * [2026-08-24, 06:30:07](https://news.ycombinator.com/item?id=49415893) - [FDA clears blood test to aid evaluation for Alzheimer's disease](https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/)
 * [2026-08-24, 06:25:31](https://news.ycombinator.com/item?id=49415852) - [OCR It – pull text out of un-copyable documents for your LLM](https://github.com/thiagotigaz/ocr-it)
 * [2026-08-24, 05:47:27](https://news.ycombinator.com/item?id=49415621) - [New EU-wide product repair rules come into force](https://www.rte.ie/news/business/2026/0824/1588931-repair-rules/)

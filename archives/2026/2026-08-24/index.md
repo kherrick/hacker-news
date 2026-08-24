@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-08-24](index.md)
 
 * [2026-08-24, 09:45:02](https://news.ycombinator.com/item?id=49417394) - [Woman stranded in Spain after UK's eVisa system mistakes her for twin sister](https://www.theguardian.com/uk-news/2026/aug/24/woman-stranded-spain-uk-evisa-system-mistakes-twin-sister)
+* [2026-08-24, 08:46:19](https://news.ycombinator.com/item?id=49416953) - [The Future Belongs to the Weird](https://essays.georgestrakhov.com/weird/)
 * [2026-08-24, 08:13:17](https://news.ycombinator.com/item?id=49416652) - [Fast drilldown dashboards from a single Parquet file](https://www.hamiltonulmer.com/customer-dashboards-r2-hyparquet/)
 * [2026-08-24, 07:37:53](https://news.ycombinator.com/item?id=49416366) - [We are not going anywhere](https://gist.github.com/omeid/a9d6d1e3c25cb3aa577931e60e006f54)
 * [2026-08-24, 07:17:02](https://news.ycombinator.com/item?id=49416200) - [The Work Number: credit score but for your employment history – by Equifax](https://employees.theworknumber.com)
