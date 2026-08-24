@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-24](index.md)
 
+* [2026-08-24, 23:00:37](https://news.ycombinator.com/item?id=49427001) - [Bookshelf – Self-hosted eBook library that runs on object storage](https://github.com/murerkinn/bookshelf)
 * [2026-08-24, 22:13:40](https://news.ycombinator.com/item?id=49426564) - [iCloud+ Hide My Email addresses will remain on icloud.com](https://developer.apple.com/news/?id=1ptvdtcm)
 * [2026-08-24, 22:06:02](https://news.ycombinator.com/item?id=49426466) - [Moon](https://ciechanow.ski/moon/)
 * [2026-08-24, 21:31:17](https://news.ycombinator.com/item?id=49426118) - [NIST is selling Peanut Butter for $415.33 per jar](https://shop.nist.gov/ccrz__ProductDetails?sku=2387)
