@@ -1,22 +1,22 @@
 [
   [
     [
-      "2026-08-24, 07:37:53",
-      "https://news.ycombinator.com/item?id=49416366"
+      "2026-08-24, 09:45:02",
+      "https://news.ycombinator.com/item?id=49417394"
     ],
     [
-      "We are not going anywhere",
-      "https://gist.github.com/omeid/a9d6d1e3c25cb3aa577931e60e006f54"
+      "Woman stranded in Spain after UK's eVisa system mistakes her for twin sister",
+      "https://www.theguardian.com/uk-news/2026/aug/24/woman-stranded-spain-uk-evisa-system-mistakes-twin-sister"
     ]
   ],
   [
     [
-      "2026-08-24, 07:17:02",
-      "https://news.ycombinator.com/item?id=49416200"
+      "2026-08-24, 08:13:17",
+      "https://news.ycombinator.com/item?id=49416652"
     ],
     [
-      "The Work Number: credit score but for your employment history – by Equifax",
-      "https://employees.theworknumber.com"
+      "Fast drilldown dashboards from a single Parquet file",
+      "https://www.hamiltonulmer.com/customer-dashboards-r2-hyparquet/"
     ]
   ],
   [
@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2026-08-24, 06:00:50",
-      "https://news.ycombinator.com/item?id=49415695"
-    ],
-    [
-      "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
-      "https://github.com/Jang-woo-AnnaSoft/execution-state-preflight/blob/main/who-fills-in-the-form.md"
-    ]
-  ],
-  [
-    [
       "2026-08-24, 05:47:27",
       "https://news.ycombinator.com/item?id=49415621"
     ],
@@ -111,22 +101,32 @@
   ],
   [
     [
+      "2026-08-24, 04:47:14",
+      "https://news.ycombinator.com/item?id=49415265"
+    ],
+    [
+      "Mourning Steve French",
+      "https://lwn.net/Articles/1090098/"
+    ]
+  ],
+  [
+    [
+      "2026-08-24, 03:32:42",
+      "https://news.ycombinator.com/item?id=49414934"
+    ],
+    [
+      "Why is Anthropic's public writing style so unlike Claude's?",
+      "https://cmart.blog/claude-writing/"
+    ]
+  ],
+  [
+    [
       "2026-08-24, 01:33:14",
       "https://news.ycombinator.com/item?id=49414338"
     ],
     [
       "Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel",
       "https://www.hanselman.com/blog/migrating-a-synology-nas-to-a-unifi-unas-pro-8-with-robocopy-smb-multichannel-and-surprising-performance-traps"
-    ]
-  ],
-  [
-    [
-      "2026-08-24, 00:52:21",
-      "https://news.ycombinator.com/item?id=49414096"
-    ],
-    [
-      "The first search engine for Internet-connected devices",
-      "https://www.shodan.io/"
     ]
   ],
   [
