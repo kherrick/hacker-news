@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-08-24, 15:52:33",
+      "https://news.ycombinator.com/item?id=49421554"
+    ],
+    [
+      "Coding expertise is going to collapse from AI reliance",
+      "https://larsfaye.com/articles/ai-coding-will-prevent-expertise"
+    ]
+  ],
+  [
+    [
+      "2026-08-24, 15:48:45",
+      "https://news.ycombinator.com/item?id=49421489"
+    ],
+    [
+      "IPFS Maintainers Winding Down",
+      "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/"
+    ]
+  ],
+  [
+    [
+      "2026-08-24, 15:28:04",
+      "https://news.ycombinator.com/item?id=49421158"
+    ],
+    [
+      "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+      "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/"
+    ]
+  ],
+  [
+    [
+      "2026-08-24, 15:22:43",
+      "https://news.ycombinator.com/item?id=49421074"
+    ],
+    [
+      "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
+      "https://developers.openai.com/api/docs/pricing"
+    ]
+  ],
+  [
+    [
       "2026-08-24, 15:10:25",
       "https://news.ycombinator.com/item?id=49420902"
     ],
@@ -97,16 +137,6 @@
     [
       "Woman stranded in Spain after UK's eVisa system mistakes her for twin sister",
       "https://www.theguardian.com/uk-news/2026/aug/24/woman-stranded-spain-uk-evisa-system-mistakes-twin-sister"
-    ]
-  ],
-  [
-    [
-      "2026-08-24, 08:46:19",
-      "https://news.ycombinator.com/item?id=49416953"
-    ],
-    [
-      "The Future Belongs to the Weird",
-      "https://essays.georgestrakhov.com/weird/"
     ]
   ],
   [
@@ -231,16 +261,6 @@
   ],
   [
     [
-      "2026-08-23, 19:06:09",
-      "https://news.ycombinator.com/item?id=49411468"
-    ],
-    [
-      "Fable and the end of the free lunch",
-      "https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html"
-    ]
-  ],
-  [
-    [
       "2026-08-23, 18:16:37",
       "https://news.ycombinator.com/item?id=49411102"
     ],
@@ -277,26 +297,6 @@
     [
       "What Is a Harness?",
       "https://earendil.com/posts/what-is-a-harness/"
-    ]
-  ],
-  [
-    [
-      "2026-08-23, 13:05:38",
-      "https://news.ycombinator.com/item?id=49408550"
-    ],
-    [
-      "Malware infects Android-based automotive head unit firmware",
-      "https://securelist.com/android-head-unit-malware/121106/"
-    ]
-  ],
-  [
-    [
-      "2026-08-23, 02:25:10",
-      "https://news.ycombinator.com/item?id=49405657"
-    ],
-    [
-      "AI Chip Architectures",
-      "https://www.jepeake.com/ai-chip-architectures"
     ]
   ]
 ]
