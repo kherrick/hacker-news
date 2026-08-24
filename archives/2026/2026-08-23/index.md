@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-23](index.md)
 
+* [2026-08-23, 23:18:17](https://news.ycombinator.com/item?id=49413561) - [I built a low-latency AI companion that plays Skyrim with me](https://pantel.is/projects/ai-gaming-companion/)
 * [2026-08-23, 22:41:04](https://news.ycombinator.com/item?id=49413320) - [Everything I own, owned](https://schlarp.com/posts/everything-i-own-owned/)
 * [2026-08-23, 22:06:14](https://news.ycombinator.com/item?id=49413093) - [Parallel development without the headaches using Git worktree](https://barrd.dev/article/parallel-development-without-the-headaches-using-git-worktree/)
 * [2026-08-23, 21:55:55](https://news.ycombinator.com/item?id=49413004) - [The Planet Now Has More Trees Than It Did 35 Years Ago](https://psmag.com/environment/the-planet-now-has-more-trees-than-it-did-35-years-ago/)
