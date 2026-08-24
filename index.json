@@ -1,12 +1,42 @@
 [
   [
     [
-      "2026-08-24, 16:33:01",
-      "https://news.ycombinator.com/item?id=49422278"
+      "2026-08-24, 17:07:01",
+      "https://news.ycombinator.com/item?id=49422800"
     ],
     [
-      "A Practical Intuition for C++20 Coroutines",
-      "https://blog.ydb.tech/making-coroutines-routine-building-a-scalable-tpc-c-client-in-c-b14f55a09471?postPublishedType=repub"
+      "Where Did All the Public Bathrooms Go?",
+      "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/"
+    ]
+  ],
+  [
+    [
+      "2026-08-24, 17:05:38",
+      "https://news.ycombinator.com/item?id=49422784"
+    ],
+    [
+      "The entire city of San Francisco as a video game",
+      "https://sf.thijs.gg/"
+    ]
+  ],
+  [
+    [
+      "2026-08-24, 16:52:01",
+      "https://news.ycombinator.com/item?id=49422548"
+    ],
+    [
+      "Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam",
+      "https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc"
+    ]
+  ],
+  [
+    [
+      "2026-08-24, 16:46:56",
+      "https://news.ycombinator.com/item?id=49422481"
+    ],
+    [
+      "EuroHPC Launches 6 Quantum Calls with €119M in Funding",
+      "https://www.hpcwire.com/off-the-wire/eurohpc-launches-6-quantum-calls-with-e119m-in-funding/"
     ]
   ],
   [
@@ -27,16 +57,6 @@
     [
       "Public services are increasingly strained by LLM-written appeals for benefits",
       "https://arxiv.org/abs/2608.16603"
-    ]
-  ],
-  [
-    [
-      "2026-08-24, 16:29:57",
-      "https://news.ycombinator.com/item?id=49422220"
-    ],
-    [
-      "A Server Lost Power at 00:32. We Found Out at 08:18",
-      "https://danubedata.ro/blog/storage-power-loss-postmortem-august-2026"
     ]
   ],
   [
@@ -161,22 +181,22 @@
   ],
   [
     [
+      "2026-08-24, 15:07:07",
+      "https://news.ycombinator.com/item?id=49420861"
+    ],
+    [
+      "Could We Dredge the Netherlands Without Fossil Fuels?",
+      "https://solar.lowtechmagazine.com/2018/08/could-we-dredge-the-netherlands-without-fossil-fuels"
+    ]
+  ],
+  [
+    [
       "2026-08-24, 15:05:22",
       "https://news.ycombinator.com/item?id=49420832"
     ],
     [
       "Adafruit USB Type C CC Resistor Fixer",
       "https://www.adafruit.com/product/6323"
-    ]
-  ],
-  [
-    [
-      "2026-08-24, 15:02:01",
-      "https://news.ycombinator.com/item?id=49420783"
-    ],
-    [
-      "Show HN: Free Inference Engineer and Model Training Roadmap",
-      "https://inferquest.org"
     ]
   ],
   [
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2026-08-24, 11:23:39",
-      "https://news.ycombinator.com/item?id=49418184"
-    ],
-    [
-      "Why older tech is sometimes safer from hackers",
-      "https://www.bbc.com/future/article/20260821-why-older-tech-is-sometimes-safer-from-hackers"
-    ]
-  ],
-  [
-    [
       "2026-08-24, 08:13:17",
       "https://news.ycombinator.com/item?id=49416652"
     ],
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2026-08-23, 19:23:29",
-      "https://news.ycombinator.com/item?id=49411643"
+      "2026-08-19, 05:36:32",
+      "https://news.ycombinator.com/item?id=49357290"
     ],
     [
-      "How I find problems to solve as a staff engineer",
-      "https://lalitm.com/post/find-problems-staff-engineer/"
-    ]
-  ],
-  [
-    [
-      "2026-08-23, 18:16:37",
-      "https://news.ycombinator.com/item?id=49411102"
-    ],
-    [
-      "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-      "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245"
+      "Curvature Beziers – Improving on a timeless recipe",
+      "https://acko.net/blog/curvature-beziers/"
     ]
   ]
 ]
