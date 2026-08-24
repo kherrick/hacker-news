@@ -4,14 +4,17 @@
 
 ### [Archives](../../index.md) for [2026-08-24](index.md)
 
+* [2026-08-24, 13:05:25](https://news.ycombinator.com/item?id=49419237) - [How Europe is killing makers and micro-entrepreneurs](https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs)
 * [2026-08-24, 12:18:56](https://news.ycombinator.com/item?id=49418675) - [Ask HN: Why do corporate failures always seem to punish the wrong people?](https://news.ycombinator.com/item?id=49418675)
 * [2026-08-24, 11:55:46](https://news.ycombinator.com/item?id=49418449) - [Anthropic candidates face blunt money question](https://www.axios.com/2026/08/24/scoop-anthropic-candidates-face-blunt-money-question)
 * [2026-08-24, 11:32:51](https://news.ycombinator.com/item?id=49418255) - [SeL4 security proofs now complete on AArch64](https://proofcraft.systems/news-2026/#2026-08-21)
+* [2026-08-24, 11:23:39](https://news.ycombinator.com/item?id=49418184) - [Why older tech is sometimes safer from hackers](https://www.bbc.com/future/article/20260821-why-older-tech-is-sometimes-safer-from-hackers)
 * [2026-08-24, 11:20:40](https://news.ycombinator.com/item?id=49418163) - [Agent Is Not the Model](https://code.joejag.com/2026/your-agent-is-not-the-model.html)
 * [2026-08-24, 11:13:53](https://news.ycombinator.com/item?id=49418117) - [Omakase Computing](https://learn.omacom.io/3/omacom/76/omakase-computing)
 * [2026-08-24, 11:04:42](https://news.ycombinator.com/item?id=49418032) - [Omacom Foundation funding hits $10M](https://omarchy.org/news/2026/08/omacom-foundation-funding-hits-10m/)
 * [2026-08-24, 10:52:24](https://news.ycombinator.com/item?id=49417941) - [The treasury bond mess: is this the demise of the US as a safe haven?](https://www.theguardian.com/business/2026/aug/24/treasury-bonds-trump-administration-debt)
 * [2026-08-24, 10:28:56](https://news.ycombinator.com/item?id=49417766) - [Ask HN: Those making $500/month on side projects in 2026 – Show and tell](https://news.ycombinator.com/item?id=49417766)
+* [2026-08-24, 10:18:03](https://news.ycombinator.com/item?id=49417684) - [Show HN: Vanilla OS 3 Reunion – Immutable and Reproducible Operating System](https://vanillaos.org/blog/article/2026-08-24/vanilla-os-3-reunion---stable-release)
 * [2026-08-24, 09:45:02](https://news.ycombinator.com/item?id=49417394) - [Woman stranded in Spain after UK's eVisa system mistakes her for twin sister](https://www.theguardian.com/uk-news/2026/aug/24/woman-stranded-spain-uk-evisa-system-mistakes-twin-sister)
 * [2026-08-24, 08:46:19](https://news.ycombinator.com/item?id=49416953) - [The Future Belongs to the Weird](https://essays.georgestrakhov.com/weird/)
 * [2026-08-24, 08:13:17](https://news.ycombinator.com/item?id=49416652) - [Fast drilldown dashboards from a single Parquet file](https://www.hamiltonulmer.com/customer-dashboards-r2-hyparquet/)
