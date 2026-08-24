@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-08-24](index.md)
 
+* [2026-08-24, 18:45:43](https://news.ycombinator.com/item?id=49424167) - [Removed all counters, replies, following/ers, timestamps, from textlog](https://textlog.cc/post/2059)
+* [2026-08-24, 18:37:24](https://news.ycombinator.com/item?id=49424082) - [Anger, Anxiety and Agency](https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/)
+* [2026-08-24, 18:24:59](https://news.ycombinator.com/item?id=49423927) - [Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon](https://github.com/getkern/kern)
+* [2026-08-24, 18:21:48](https://news.ycombinator.com/item?id=49423886) - [Your \"File\" Menu Isn't About Files](https://adam.farkas.pro/your-file-menu-isnt-about-files/)
+* [2026-08-24, 18:15:50](https://news.ycombinator.com/item?id=49423799) - [What Is a Syslog Server?](https://blog.greencloudvps.com/what-is-a-syslog-server.php)
 * [2026-08-24, 17:53:36](https://news.ycombinator.com/item?id=49423500) - [Claude Code Tips](https://github.com/ykdojo/claude-code-tips)
 * [2026-08-24, 17:53:14](https://news.ycombinator.com/item?id=49423495) - [Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff](https://www.ycombinator.com/companies/autostep/jobs)
 * [2026-08-24, 17:50:18](https://news.ycombinator.com/item?id=49423445) - [Adding 4 more 2.5GbE interfaces to the GMKtec NucBox G9](https://catskull.net/adding-4-more-25gbe-interfaces-to-the-gmktec-nucbox-g9.html)
