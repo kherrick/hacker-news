@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2026-08-24, 14:46:09",
+      "https://news.ycombinator.com/item?id=49420556"
+    ],
+    [
+      "Codefloe Is a Professionally Hosted Public Git Forge",
+      "https://codefloe.com/"
+    ]
+  ],
+  [
+    [
       "2026-08-24, 14:44:55",
       "https://news.ycombinator.com/item?id=49420530"
     ],
@@ -287,16 +297,6 @@
     [
       "SeL4 security proofs now complete on AArch64",
       "https://proofcraft.systems/news-2026/#2026-08-21"
-    ]
-  ],
-  [
-    [
-      "2026-08-24, 04:48:20",
-      "https://news.ycombinator.com/item?id=49415271"
-    ],
-    [
-      "Executable Is a SQLite Database",
-      "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database"
     ]
   ]
 ]
