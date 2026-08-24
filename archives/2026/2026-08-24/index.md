@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-24](index.md)
 
+* [2026-08-24, 11:13:53](https://news.ycombinator.com/item?id=49418117) - [Omakase Computing](https://learn.omacom.io/3/omacom/76/omakase-computing)
+* [2026-08-24, 11:04:42](https://news.ycombinator.com/item?id=49418032) - [Omacom Foundation funding hits $10M](https://omarchy.org/news/2026/08/omacom-foundation-funding-hits-10m/)
 * [2026-08-24, 10:52:24](https://news.ycombinator.com/item?id=49417941) - [The treasury bond mess: is this the demise of the US as a safe haven?](https://www.theguardian.com/business/2026/aug/24/treasury-bonds-trump-administration-debt)
 * [2026-08-24, 10:28:56](https://news.ycombinator.com/item?id=49417766) - [Ask HN: Those making $500/month on side projects in 2026 – Show and tell](https://news.ycombinator.com/item?id=49417766)
 * [2026-08-24, 09:45:02](https://news.ycombinator.com/item?id=49417394) - [Woman stranded in Spain after UK's eVisa system mistakes her for twin sister](https://www.theguardian.com/uk-news/2026/aug/24/woman-stranded-spain-uk-evisa-system-mistakes-twin-sister)

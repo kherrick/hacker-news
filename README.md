@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2026-08-24, 10:52:24](https://news.ycombinator.com/item?id=49417941) - [The treasury bond mess: is this the demise of the US as a safe haven?](https://www.theguardian.com/business/2026/aug/24/treasury-bonds-trump-administration-debt)
+* [2026-08-24, 11:13:53](https://news.ycombinator.com/item?id=49418117) - [Omakase Computing](https://learn.omacom.io/3/omacom/76/omakase-computing)
+* [2026-08-24, 11:04:42](https://news.ycombinator.com/item?id=49418032) - [Omacom Foundation funding hits $10M](https://omarchy.org/news/2026/08/omacom-foundation-funding-hits-10m/)
 * [2026-08-24, 10:28:56](https://news.ycombinator.com/item?id=49417766) - [Ask HN: Those making $500/month on side projects in 2026 – Show and tell](https://news.ycombinator.com/item?id=49417766)
 * [2026-08-24, 09:45:02](https://news.ycombinator.com/item?id=49417394) - [Woman stranded in Spain after UK's eVisa system mistakes her for twin sister](https://www.theguardian.com/uk-news/2026/aug/24/woman-stranded-spain-uk-evisa-system-mistakes-twin-sister)
 * [2026-08-24, 08:46:19](https://news.ycombinator.com/item?id=49416953) - [The Future Belongs to the Weird](https://essays.georgestrakhov.com/weird/)
@@ -10,7 +11,6 @@
 * [2026-08-24, 06:30:07](https://news.ycombinator.com/item?id=49415893) - [FDA clears blood test to aid evaluation for Alzheimer's disease](https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/)
 * [2026-08-24, 06:25:31](https://news.ycombinator.com/item?id=49415852) - [OCR It – pull text out of un-copyable documents for your LLM](https://github.com/thiagotigaz/ocr-it)
 * [2026-08-24, 05:47:27](https://news.ycombinator.com/item?id=49415621) - [New EU-wide product repair rules come into force](https://www.rte.ie/news/business/2026/0824/1588931-repair-rules/)
-* [2026-08-24, 05:12:45](https://news.ycombinator.com/item?id=49415405) - [Elevated Errors for Multiple Models](https://status.claude.com/incidents/vgz5psbjmt1h)
 * [2026-08-24, 04:48:20](https://news.ycombinator.com/item?id=49415271) - [Executable Is a SQLite Database](https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database)
 * [2026-08-24, 04:47:14](https://news.ycombinator.com/item?id=49415265) - [Mourning Steve French](https://lwn.net/Articles/1090098/)
 * [2026-08-24, 03:32:42](https://news.ycombinator.com/item?id=49414934) - [Why is Anthropic's public writing style so unlike Claude's?](https://cmart.blog/claude-writing/)
