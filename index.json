@@ -1,12 +1,52 @@
 [
   [
     [
-      "2026-08-24, 17:53:36",
-      "https://news.ycombinator.com/item?id=49423500"
+      "2026-08-24, 18:45:43",
+      "https://news.ycombinator.com/item?id=49424167"
     ],
     [
-      "Claude Code Tips",
-      "https://github.com/ykdojo/claude-code-tips"
+      "Removed all counters, replies, following/ers, timestamps, from textlog",
+      "https://textlog.cc/post/2059"
+    ]
+  ],
+  [
+    [
+      "2026-08-24, 18:37:24",
+      "https://news.ycombinator.com/item?id=49424082"
+    ],
+    [
+      "Anger, Anxiety and Agency",
+      "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/"
+    ]
+  ],
+  [
+    [
+      "2026-08-24, 18:24:59",
+      "https://news.ycombinator.com/item?id=49423927"
+    ],
+    [
+      "Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon",
+      "https://github.com/getkern/kern"
+    ]
+  ],
+  [
+    [
+      "2026-08-24, 18:21:48",
+      "https://news.ycombinator.com/item?id=49423886"
+    ],
+    [
+      "Your \"File\" Menu Isn't About Files",
+      "https://adam.farkas.pro/your-file-menu-isnt-about-files/"
+    ]
+  ],
+  [
+    [
+      "2026-08-24, 18:15:50",
+      "https://news.ycombinator.com/item?id=49423799"
+    ],
+    [
+      "What Is a Syslog Server?",
+      "https://blog.greencloudvps.com/what-is-a-syslog-server.php"
     ]
   ],
   [
@@ -27,16 +67,6 @@
     [
       "Adding 4 more 2.5GbE interfaces to the GMKtec NucBox G9",
       "https://catskull.net/adding-4-more-25gbe-interfaces-to-the-gmktec-nucbox-g9.html"
-    ]
-  ],
-  [
-    [
-      "2026-08-24, 17:07:01",
-      "https://news.ycombinator.com/item?id=49422800"
-    ],
-    [
-      "Where Did All the Public Bathrooms Go?",
-      "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/"
     ]
   ],
   [
@@ -67,16 +97,6 @@
     [
       "EuroHPC Launches 6 Quantum Calls with €119M in Funding",
       "https://www.hpcwire.com/off-the-wire/eurohpc-launches-6-quantum-calls-with-e119m-in-funding/"
-    ]
-  ],
-  [
-    [
-      "2026-08-24, 16:30:21",
-      "https://news.ycombinator.com/item?id=49422227"
-    ],
-    [
-      "Public services are increasingly strained by LLM-written appeals for benefits",
-      "https://arxiv.org/abs/2608.16603"
     ]
   ],
   [
@@ -161,12 +181,12 @@
   ],
   [
     [
-      "2026-08-24, 15:17:38",
-      "https://news.ycombinator.com/item?id=49420999"
+      "2026-08-24, 15:10:25",
+      "https://news.ycombinator.com/item?id=49420902"
     ],
     [
-      "NetBSD GSoC 2026 Improving RAIDframe",
-      "https://blog.netbsd.org/tnf/entry/gsoc2026_raidframe"
+      "Anna's Archive Owes $340 Million, Lost Several Domains, but It's Still Online",
+      "https://torrentfreak.com/annas-archive-owes-340-million-lost-several-domains-but-its-still-online/"
     ]
   ],
   [
@@ -187,26 +207,6 @@
     [
       "Could We Dredge the Netherlands Without Fossil Fuels?",
       "https://solar.lowtechmagazine.com/2018/08/could-we-dredge-the-netherlands-without-fossil-fuels"
-    ]
-  ],
-  [
-    [
-      "2026-08-24, 15:05:22",
-      "https://news.ycombinator.com/item?id=49420832"
-    ],
-    [
-      "Adafruit USB Type C CC Resistor Fixer",
-      "https://www.adafruit.com/product/6323"
-    ]
-  ],
-  [
-    [
-      "2026-08-24, 15:01:51",
-      "https://news.ycombinator.com/item?id=49420781"
-    ],
-    [
-      "Hot Chips 2026: Samsung and HBM Base Die Opportunities",
-      "https://chipsandcheese.com/p/hot-chips-2026-samsung-and-hbm-base"
     ]
   ],
   [
