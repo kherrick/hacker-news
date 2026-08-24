@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-24](index.md)
 
+* [2026-08-24, 22:13:40](https://news.ycombinator.com/item?id=49426564) - [iCloud+ Hide My Email addresses will remain on icloud.com](https://developer.apple.com/news/?id=1ptvdtcm)
 * [2026-08-24, 21:31:17](https://news.ycombinator.com/item?id=49426118) - [NIST is selling Peanut Butter for $415.33 per jar](https://shop.nist.gov/ccrz__ProductDetails?sku=2387)
 * [2026-08-24, 21:03:06](https://news.ycombinator.com/item?id=49425819) - [One corner of China’s internet is insisting that the Tang Dynasty never existed](https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk)
 * [2026-08-24, 21:01:38](https://news.ycombinator.com/item?id=49425800) - [Vintage Artificial Intelligence: Before It Got Awkward](https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/)
@@ -21,6 +22,7 @@
 * [2026-08-24, 17:53:14](https://news.ycombinator.com/item?id=49423495) - [Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff](https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4)
 * [2026-08-24, 17:50:18](https://news.ycombinator.com/item?id=49423445) - [Adding 4 more 2.5GbE interfaces to the GMKtec NucBox G9](https://catskull.net/adding-4-more-25gbe-interfaces-to-the-gmktec-nucbox-g9.html)
 * [2026-08-24, 17:28:43](https://news.ycombinator.com/item?id=49423146) - [Fences, Not Sandboxes](https://yegge.ai/essays/fences-not-sandboxes/)
+* [2026-08-24, 17:23:22](https://news.ycombinator.com/item?id=49423077) - [Agent Lightning v1.0](https://github.com/microsoft/agent-lightning/releases/tag/v1.0.1)
 * [2026-08-24, 17:07:01](https://news.ycombinator.com/item?id=49422800) - [Where Did All the Public Bathrooms Go?](https://daily.jstor.org/where-did-all-the-public-bathrooms-go/)
 * [2026-08-24, 17:05:38](https://news.ycombinator.com/item?id=49422784) - [The entire city of San Francisco as a video game](https://sf.thijs.gg/)
 * [2026-08-24, 16:52:01](https://news.ycombinator.com/item?id=49422548) - [Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam](https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc)
