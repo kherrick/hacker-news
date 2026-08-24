@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2026-08-24, 10:52:24](https://news.ycombinator.com/item?id=49417941) - [The treasury bond mess: is this the demise of the US as a safe haven?](https://www.theguardian.com/business/2026/aug/24/treasury-bonds-trump-administration-debt)
+* [2026-08-24, 10:28:56](https://news.ycombinator.com/item?id=49417766) - [Ask HN: Those making $500/month on side projects in 2026 – Show and tell](https://news.ycombinator.com/item?id=49417766)
 * [2026-08-24, 09:45:02](https://news.ycombinator.com/item?id=49417394) - [Woman stranded in Spain after UK's eVisa system mistakes her for twin sister](https://www.theguardian.com/uk-news/2026/aug/24/woman-stranded-spain-uk-evisa-system-mistakes-twin-sister)
 * [2026-08-24, 08:46:19](https://news.ycombinator.com/item?id=49416953) - [The Future Belongs to the Weird](https://essays.georgestrakhov.com/weird/)
 * [2026-08-24, 08:13:17](https://news.ycombinator.com/item?id=49416652) - [Fast drilldown dashboards from a single Parquet file](https://www.hamiltonulmer.com/customer-dashboards-r2-hyparquet/)
@@ -12,10 +14,8 @@
 * [2026-08-24, 04:48:20](https://news.ycombinator.com/item?id=49415271) - [Executable Is a SQLite Database](https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database)
 * [2026-08-24, 04:47:14](https://news.ycombinator.com/item?id=49415265) - [Mourning Steve French](https://lwn.net/Articles/1090098/)
 * [2026-08-24, 03:32:42](https://news.ycombinator.com/item?id=49414934) - [Why is Anthropic's public writing style so unlike Claude's?](https://cmart.blog/claude-writing/)
-* [2026-08-24, 01:33:14](https://news.ycombinator.com/item?id=49414338) - [Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel](https://www.hanselman.com/blog/migrating-a-synology-nas-to-a-unifi-unas-pro-8-with-robocopy-smb-multichannel-and-surprising-performance-traps)
 * [2026-08-23, 23:18:17](https://news.ycombinator.com/item?id=49413561) - [I built a low-latency AI companion that plays Skyrim with me](https://pantel.is/projects/ai-gaming-companion/)
 * [2026-08-23, 22:41:04](https://news.ycombinator.com/item?id=49413320) - [Everything I own, owned](https://schlarp.com/posts/everything-i-own-owned/)
-* [2026-08-23, 21:41:17](https://news.ycombinator.com/item?id=49412909) - [Implementation of GPT-2 in pure CMake](https://github.com/AlpinDale/gpt2.cmake)
 * [2026-08-23, 20:38:09](https://news.ycombinator.com/item?id=49412396) - [I were 17, I'd learn how to build LLMs from scratch](https://twitter.com/paulg/status/2091544343589060625)
 * [2026-08-23, 19:29:32](https://news.ycombinator.com/item?id=49411717) - [Google Workspace thinks my domain is an email provider (2025)](https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/)
 * [2026-08-23, 19:23:29](https://news.ycombinator.com/item?id=49411643) - [How I find problems to solve as a staff engineer](https://lalitm.com/post/find-problems-staff-engineer/)
