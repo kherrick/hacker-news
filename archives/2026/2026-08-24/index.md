@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-08-24](index.md)
 
+* [2026-08-24, 19:03:06](https://news.ycombinator.com/item?id=49424387) - [LLMs could control their host machines by exploiting inference engines](https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines)
 * [2026-08-24, 18:45:43](https://news.ycombinator.com/item?id=49424167) - [Removed all counters, replies, following/ers, timestamps, from textlog](https://textlog.cc/post/2059)
 * [2026-08-24, 18:37:24](https://news.ycombinator.com/item?id=49424082) - [Anger, Anxiety and Agency](https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/)
 * [2026-08-24, 18:24:59](https://news.ycombinator.com/item?id=49423927) - [Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon](https://github.com/getkern/kern)
@@ -39,6 +40,7 @@
 * [2026-08-24, 15:01:51](https://news.ycombinator.com/item?id=49420781) - [Hot Chips 2026: Samsung and HBM Base Die Opportunities](https://chipsandcheese.com/p/hot-chips-2026-samsung-and-hbm-base)
 * [2026-08-24, 14:48:58](https://news.ycombinator.com/item?id=49420592) - [Hot Chips 2026: Applying High Bandwidth Flash (HBF)](https://chipsandcheese.com/p/hot-chips-2026-applying-high-bandwidth)
 * [2026-08-24, 14:46:09](https://news.ycombinator.com/item?id=49420556) - [Codefloe Is a Professionally Hosted Public Git Forge](https://codefloe.com/)
+* [2026-08-24, 14:44:55](https://news.ycombinator.com/item?id=49420530) - [Peppermint oil reduces blood pressure by 8.48 mmHg in small study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344538)
 * [2026-08-24, 13:17:11](https://news.ycombinator.com/item?id=49419351) - [Show HN: A techno machine in one HTML file, with verifiable renders](https://ssx360.github.io/rack-02/?src=hn)
 * [2026-08-24, 13:05:25](https://news.ycombinator.com/item?id=49419237) - [How Europe is killing makers and micro-entrepreneurs](https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs)
 * [2026-08-24, 12:18:56](https://news.ycombinator.com/item?id=49418675) - [Ask HN: Why do corporate failures always seem to punish the wrong people?](https://news.ycombinator.com/item?id=49418675)
