@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-08-24](index.md)
 
+* [2026-08-24, 21:03:06](https://news.ycombinator.com/item?id=49425819) - [One corner of China’s internet is insisting that the Tang Dynasty never existed](https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk)
+* [2026-08-24, 21:01:38](https://news.ycombinator.com/item?id=49425800) - [Vintage Artificial Intelligence: Before It Got Awkward](https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/)
 * [2026-08-24, 19:32:18](https://news.ycombinator.com/item?id=49424758) - [A Claude Code skill that recovers export-blocked Kindle highlights](https://github.com/l3a0/claude-plugins)
 * [2026-08-24, 19:19:08](https://news.ycombinator.com/item?id=49424606) - [Oceans hit highest temperature on record](https://www.bbc.com/news/articles/c62m4gpnp78o)
 * [2026-08-24, 19:03:06](https://news.ycombinator.com/item?id=49424387) - [LLMs could control their host machines by exploiting inference engines](https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines)
