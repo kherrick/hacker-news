@@ -1,22 +1,42 @@
 [
   [
     [
-      "2026-08-24, 04:27:57",
-      "https://news.ycombinator.com/item?id=49415187"
+      "2026-08-24, 06:30:07",
+      "https://news.ycombinator.com/item?id=49415893"
     ],
     [
-      "Nearly 3M Teslas recalled in China over hidden door handles",
-      "https://www.bbc.com/news/articles/c4g6ggdg030o"
+      "FDA clears blood test to aid evaluation for Alzheimer's disease",
+      "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/"
     ]
   ],
   [
     [
-      "2026-08-24, 02:35:57",
-      "https://news.ycombinator.com/item?id=49414651"
+      "2026-08-24, 06:25:31",
+      "https://news.ycombinator.com/item?id=49415852"
     ],
     [
-      "This Fact About KPIs May Surprise You",
-      "https://www.satisfice.com/blog/archives/488189"
+      "OCR It – pull text out of un-copyable documents for your LLM",
+      "https://github.com/thiagotigaz/ocr-it"
+    ]
+  ],
+  [
+    [
+      "2026-08-24, 05:47:27",
+      "https://news.ycombinator.com/item?id=49415621"
+    ],
+    [
+      "New EU-wide product repair rules come into force",
+      "https://www.rte.ie/news/business/2026/0824/1588931-repair-rules/"
+    ]
+  ],
+  [
+    [
+      "2026-08-24, 05:12:45",
+      "https://news.ycombinator.com/item?id=49415405"
+    ],
+    [
+      "Elevated Errors for Multiple Models",
+      "https://status.claude.com/incidents/vgz5psbjmt1h"
     ]
   ],
   [
@@ -101,6 +121,16 @@
   ],
   [
     [
+      "2026-08-23, 20:38:09",
+      "https://news.ycombinator.com/item?id=49412396"
+    ],
+    [
+      "I were 17, I'd learn how to build LLMs from scratch",
+      "https://twitter.com/paulg/status/2091544343589060625"
+    ]
+  ],
+  [
+    [
       "2026-08-23, 20:30:50",
       "https://news.ycombinator.com/item?id=49412328"
     ],
@@ -141,6 +171,16 @@
   ],
   [
     [
+      "2026-08-23, 19:06:09",
+      "https://news.ycombinator.com/item?id=49411468"
+    ],
+    [
+      "Fable and the end of the free lunch",
+      "https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html"
+    ]
+  ],
+  [
+    [
       "2026-08-23, 18:55:54",
       "https://news.ycombinator.com/item?id=49411395"
     ],
@@ -151,32 +191,12 @@
   ],
   [
     [
-      "2026-08-23, 18:31:02",
-      "https://news.ycombinator.com/item?id=49411199"
-    ],
-    [
-      "The Vibe Tax",
-      "https://insufferable.dev/posts/vibe-tax/"
-    ]
-  ],
-  [
-    [
       "2026-08-23, 18:16:37",
       "https://news.ycombinator.com/item?id=49411102"
     ],
     [
       "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
       "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245"
-    ]
-  ],
-  [
-    [
-      "2026-08-23, 18:09:01",
-      "https://news.ycombinator.com/item?id=49411024"
-    ],
-    [
-      "AI and Infrastructure Engineering",
-      "https://omegion.dev/2026/08/ai-and-infrastructure-engineering/"
     ]
   ],
   [
@@ -197,16 +217,6 @@
     [
       "My agent.md to improve LLM-assisted code quality",
       "https://fabiensanglard.net/agent.md/index.html"
-    ]
-  ],
-  [
-    [
-      "2026-08-23, 17:15:36",
-      "https://news.ycombinator.com/item?id=49410545"
-    ],
-    [
-      "The Remote Work Challenge: Lessons from 5 Cities",
-      "https://www.pew.org/en/research-and-analysis/reports/2026/05/the-remote-work-challenge-lessons-from-5-cities"
     ]
   ],
   [
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2026-08-23, 09:32:54",
-      "https://news.ycombinator.com/item?id=49407341"
+      "2026-08-23, 02:25:10",
+      "https://news.ycombinator.com/item?id=49405657"
     ],
     [
-      "The Sloppification of Peptides",
-      "https://henryaj.substack.com/p/the-sloppification-of-peptides"
-    ]
-  ],
-  [
-    [
-      "2026-08-22, 18:38:41",
-      "https://news.ycombinator.com/item?id=49402491"
-    ],
-    [
-      "Things I want in a modern relational query language",
-      "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/"
+      "AI Chip Architectures",
+      "https://www.jepeake.com/ai-chip-architectures"
     ]
   ]
 ]
