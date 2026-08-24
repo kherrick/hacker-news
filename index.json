@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-08-24, 21:31:17",
-      "https://news.ycombinator.com/item?id=49426118"
+      "2026-08-24, 22:13:40",
+      "https://news.ycombinator.com/item?id=49426564"
     ],
     [
-      "NIST is selling Peanut Butter for $415.33 per jar",
-      "https://shop.nist.gov/ccrz__ProductDetails?sku=2387"
+      "iCloud+ Hide My Email addresses will remain on icloud.com",
+      "https://developer.apple.com/news/?id=1ptvdtcm"
     ]
   ],
   [
@@ -117,6 +117,16 @@
     [
       "Fences, Not Sandboxes",
       "https://yegge.ai/essays/fences-not-sandboxes/"
+    ]
+  ],
+  [
+    [
+      "2026-08-24, 17:23:22",
+      "https://news.ycombinator.com/item?id=49423077"
+    ],
+    [
+      "Agent Lightning v1.0",
+      "https://github.com/microsoft/agent-lightning/releases/tag/v1.0.1"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Executable Is a SQLite Database",
       "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database"
-    ]
-  ],
-  [
-    [
-      "2026-08-23, 20:38:09",
-      "https://news.ycombinator.com/item?id=49412396"
-    ],
-    [
-      "I were 17, I'd learn how to build LLMs from scratch",
-      "https://twitter.com/paulg/status/2091544343589060625"
     ]
   ]
 ]
