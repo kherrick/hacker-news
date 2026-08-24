@@ -13,6 +13,7 @@
 * [2026-08-23, 20:56:01](https://news.ycombinator.com/item?id=49412548) - [Cicada.os – Graphene.os for Your Laptop](https://kpres12.github.io/Cicada.OS/)
 * [2026-08-23, 20:50:14](https://news.ycombinator.com/item?id=49412483) - [Residential proxies scraping your site? Drain their bandwidth](https://layer3intel.com/blog/residential-proxy-bandwidth-drain)
 * [2026-08-23, 20:47:53](https://news.ycombinator.com/item?id=49412467) - [Declarative WebGPU with S-Expressions](https://hugodaniel.com/posts/declarative-webgpu-with-s-expressions/)
+* [2026-08-23, 20:38:09](https://news.ycombinator.com/item?id=49412396) - [I were 17, I'd learn how to build LLMs from scratch](https://twitter.com/paulg/status/2091544343589060625)
 * [2026-08-23, 20:30:50](https://news.ycombinator.com/item?id=49412328) - [Rural Village in Spain Is Welcoming Digital Nomads with Open Arms](https://www.cntraveler.com/story/this-rural-village-in-spain-is-welcoming-digital-nomads-with-open-arms)
 * [2026-08-23, 20:13:34](https://news.ycombinator.com/item?id=49412176) - [Decoding silent reading from non-invasive EEG](https://arxiv.org/abs/2608.20186)
 * [2026-08-23, 19:39:29](https://news.ycombinator.com/item?id=49411800) - [Training AI to Paint with Code](https://surya.website/rling-qwen-to-paint-with-code)
